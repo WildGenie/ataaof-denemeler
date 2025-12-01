@@ -20,6 +20,26 @@
         "Aciklama": "Mezopotamya’da ortaya çıkan buluntular insanların bilgiyi toplamak ve kaydetmek için MÖ 7500 yılından itibaren üç boyutlu formlardan yararlandığını göstermektedir. <strong>“Token”</strong> adı verilen bu formlar üç boyutludur ve kilden zarflar içerisine veya zarfların üzerine gömülü bir şekilde saklanmaktadırlar."
     },
     {
+        "SoruID": 3769054,
+        "SoruMetni": "Ses, mimik gibi doğal yollar yerine teknoloji ile üretilmiş bir ortam kullanılarak yapılan iletişime verilen adlandırma aşağıdakilerden hangisidir?",
+        "A": "Aracılı İletişim",
+        "B": "Gerçeklik Ortamlandırıcıları İletişimi",
+        "C": "Hiper (Üst) Gerçeklik İletişimi",
+        "D": "Yeni Estetik İletişim",
+        "E": "Simülasyon",
+        "DogruCevap": "A",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.217823",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Aracılı İletişim: Ses, mimik gibi doğal yollar yerine teknoloji ile üretilmiş bir ortam kullanılarak yapılan iletişime <strong>aracılı iletişim</strong> denir."
+    },
+    {
         "SoruID": 3769055,
         "SoruMetni": "Aşağıdakilerden hangisi Baudrillard’a göre “bir köken ya da bir gerçeklikten yoksun modeller aracılığı ile üretilmesine verilen isimdir?",
         "A": "Simülasyon",
@@ -200,6 +220,26 @@
         "Aciklama": "İlkel bir hesaplama aracı abaküsten sonra ortaya çıkan ve daha sofistike olan buluntu MÖ 1. yüzyıla tarihlendirilen Antikythera Mekanizmasıdır. Bazı kaynaklara göre tarihin ilk bilgisayarı olarak geçmektedir. Bu alet tahta bir kutunun içerisinde 30’dan fazla birbirine kilitlenen bronz parçalardan oluşmaktadır. Bir krank kolu çevrilerek parçalar hareket ettirilmektedir. Hareket eden parçalar güneşin, ayın pozisyonlarını hesaplamaya yaramaktadır."
     },
     {
+        "SoruID": 3769140,
+        "SoruMetni": "Tekrar programlanabilir yapısıyla dikkat çeken çalışmalardan biri olan Kale saati hangi bilim insanının icadıdır?",
+        "A": "Wolfgang von Kempelen",
+        "B": "Charles Babbage",
+        "C": "El Cezeri",
+        "D": "Leonardo da Vinci",
+        "E": "Farabi",
+        "DogruCevap": "C",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.337571",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Antik çağda Antikythera gibi bir örnek olmasına rağmen, Orta Çağ döneminde bilgisayar gelişimi yavaşlamıştır. Avrupa karanlığa gömülmüşken, İslam coğrafyasında El Cezeri (1136-1206) gibi bilim insanları otomatikleşme ve sibernetik gibi alanlarda öncül çalışmalara el atmışlardır. İsmail Cezeri’nin Fil Saati, Fakih Saati ve Kale Saati gibi çalışmaları öne çıkmaktadır. Özellikle Kale Saati çok ilginçtir. Yaklaşık 3,5 metre yüksekliğinde olan ve su ile çalışan bu saatin zamanı göstermek haricinde astronomi ile ilgili bilgileri de verdiği görülmektedir. Can alıcı noktası ise tekrar programlanabilir bir yapı olmasıdır."
+    },
+    {
         "SoruID": 3769141,
         "SoruMetni": "Vannevar Bush tarafından 1945 yılında teorisi çizilen, günümüzün internete bağlı bilgisayarlarını andıran sistem aşağıdakilerden hangisidir?",
         "A": "Analitik Motor",
@@ -218,6 +258,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Vannevar Bush, 1945’te yazdığı makalesinde bilgisayarlar ile yapılabileceklerin olasılıklarını o günün mevcut bilimsel gelişmeleri ışığında değerlendirmiştir. Özetlendiğinde; 21. yüzyılın sayısal kameralar, bilgisayar ekranları, tarayıcılar, makine görüşü, fotoğrafik yazıcılar, ses kaydı, sesli komut, ses ile yazı yazdırma, ekrana çizim yapabilen kalemler ve beyin bilgisayar etkileşiminden bahsettiği görülmektedir. Memex adını verdiği bir sistemde ise bilinen tüm bilgiler mikrofilmlere alınmıştır. Kullanıcı bir masanın üzerindeki ekran aracılığı ile tüm bilgilere erişebilmekte, onları düzenleyebilmekte, çıktı alabilmekte, not düşebilmektedir. Ayrıca gerektiğinde tekrar geri dönüp bu bilgilere nasıl ulaştığını da denetleyebilmektedir (Bush, 1945). Memex fikri aslında bugünkü internete bağlı bir bilgisayarı andırmaktadır."
+    },
+    {
+        "SoruID": 3769142,
+        "SoruMetni": "Aşağıdakilerden hangisi Azuma’nın artırılmış gerçeklik kriterlerinden biridir?",
+        "A": "Fiziksel dünyadan kopulmalıdır.",
+        "B": "Geçmişe ya da geleceğe götürmelidir.",
+        "C": "Fiziksel ve sanalı birleştirmelidir.",
+        "D": "İletişim doğal değil, teknoloji ile üretilen bir ortamda yapılmalıdır.",
+        "E": "Kullanıcılarına sayısal dünyanın içine gömülme imkanı sağlamalıdır.",
+        "DogruCevap": "C",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.425227",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Artırılmış gerçeklik, sanal gerçeklikten farklı olarak fiziksel dünyadan kopmamaktadır. Aynı anda hem fiziksel dünya deneyimlenirken hem de sayısal nesneler fiziksel dünya ile bir arada var olmaktadırlar. Bu yüzen artırılmış gerçekliğin kullanım alanı, fiziksel evren kadar geniştir. Kullanıcılar fiziksel dünyadan kopmadan sayısal enformasyonu deneyimlemektedirler. Azuma’ya (1997, s. 356) göre artırılmış gerçeklik için üç kriterin sağlanmış olması lazımdır: • Fiziksel ve sanalı birleştirmelidir • Gerçek zamanlı olarak etkileşimli olmalıdır • Üç boyutlu olmalıdır.<br/>Artırılmış gerçeklik de sanal gerçeklik gibi ortamlandırıcılar aracılığı ile duyumsanmaktadır. Sanal gerçeklikten farklı olarak bu aracılar kullanıcıyı dış dünyaya kapatmadan sayısal veriyi iletmektedir."
     },
     {
         "SoruID": 3769143,
@@ -297,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayısal nesnelerin fiziksel dünyaya oturtulması için tetikleyicilere ihtiyaç vardır. Bu tetikleyiciler, artırılmış gerçeklik ile sayısal nesnelerin nerede, nasıl ve ne zaman ortaya çıkacağını belirlemektedirler.<br/> İşaretli tetikleyici: Karekod gibi bir işaretin telefon tarafından okutulmasından sonra ortaya çıkmaktadır."
+        "Aciklama": "Sayısal nesnelerin fiziksel dünyaya oturtulması için tetikleyicilere ihtiyaç vardır. Bu tetikleyiciler, artırılmış gerçeklik ile sayısal nesnelerin nerede, nasıl ve ne zaman ortaya çıkacağını belirlemektedirler.<br/>İşaretli tetikleyici: Karekod gibi bir işaretin telefon tarafından okutulmasından sonra ortaya çıkmaktadır."
     },
     {
         "SoruID": 3769147,
@@ -320,6 +380,26 @@
         "Aciklama": "Artık var olmayan eserlerin tekrar müzelere yerleştirilmesi görevini sırtlayan artırılmış gerçeklik, üretim alanında da bunun tam tersini yapabilmektedir. Bilgisayar destekli olarak üretilmiş, hiç var olmamış tasarıları da insanlar için fiziksel dünyada konumlandırabilmektedir. Bu, üretim süreçleri için yeni bakış açıları ve süreçler doğurmaktadır. Bu tip tasarıların görselleştirilmesi pek çok alanda önemli olsa da mimari gibi büyük boyutlu projelerde iş yapım süreçlerini kısaltırken, aynı zamanda malzeme ve iş gücünden tasarruf sağlamaktadır. Bir mimari projenin görselleştirilmesi aşamasında maketlerden yararlanılmaktadır. Maketlerin artı yönleri olsa da boyutları çok küçüktür. Sanal gerçekliğin devreye girmesi ile bilgisayar destekli hazırlanan çizimler görüntülenebilir hâle gelmiştir ancak onların da fiziksel dünya üzerine karşılıkları yoktur. Artırılmış gerçeklik ise, tasarlanmış herhangi bir yapının dünya üzerindeki gerçek koordinatlarında, gerçek boyutlarında görüntülenmesini sağlayabilmektedir. Mimarlar yapının çevre ile ilişkisini yerinde, tam zamanlı olarak inceleyebilmektedir. Bu çözüm sadece mimarlar için değil, yapıyı inşa edecek mühendis ve işçiler için de olanaklar sunmaktadır. Binanın üç boyutlu bitmiş hâlinin sayısal versiyonu görselleştirilebilmekte, değişiklikler ana plan üzerinden kontrol edilebilmekte ve çalışanlar yönlendirilebilmektedir."
     },
     {
+        "SoruID": 3769148,
+        "SoruMetni": "Amerikan Philco Şirketi tarafından 1950 yılında üretilen başlığa monte göstergeler (HMD) için yapılabilecek tanım, aşağıdakilerden hangisidir?",
+        "A": "İlk elektronik başüstü göstergesi",
+        "B": "Dünyada ilk defa kurulan uzaktan varoluş sistemi",
+        "C": "Dijital müzik çalabilen ilk cihaz",
+        "D": "Teknik açıdan sanal gerçekliğe yakın ilk cihaz",
+        "E": "İlk üç boyutlu satılabilir sanal gerçeklik gözlüğü",
+        "DogruCevap": "B",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.247539",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "1950’lerin sonlarında Amerikan Philco Şirketi, başlığa monte göstergeleri üretmiştir (HMD – bilgiler kaskın önünde bulunan cam siperlikten okunmaktadır). Sistemde kullanıcı kafasını hareket ettirdiğinde, farklı bir yerdeki kamera da aynı şekilde bakış yönünü değiştirmektedir. Böylece kullanıcı başka bir yerde olsa da başka bir yeri görebilmektedir. Bu sistem ayrıca dünyada ilk defa kurulan uzaktan varoluş sistemidir."
+    },
+    {
         "SoruID": 3769246,
         "SoruMetni": "Hesaplamaya yarayan taşınabilir ilk alet olarak kabul edilen Sümerler dönemi Abaküs'ü hangi yıllarda kullanılmıştır?",
         "A": "MÖ 2600 yılları",
@@ -337,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Hesaplamaya yarayan ilk teknoloji, MÖ 2500 yılları civarında Sümerlerde görülen Abaküs, hesaplamaya yarayan ve taşınabilir ilk alettir.”"
+        "Aciklama": "<strong>İlk Hesaplayıcılar</strong><br>“Hesaplamaya yarayan ilk teknoloji, MÖ 2500 yılları civarında Sümerlerde görülen Abaküs, hesaplamaya yarayan ve taşınabilir ilk alettir.”"
     },
     {
         "SoruID": 3769247,
@@ -357,7 +437,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“MÖ 1. Yüzyıla tarihlendirilen Antikythera Mekanizması bazı kaynaklara göre tarihin ilk bilgisayarı olarak geçmektedir. Bu alet tahta bir kutunun içerisinde 30’dan fazla birbirine kilitlenen bronz parçalardan oluşmaktadır. Bir krank kolu çevrilerek parçalar hareket ettirilmektedir. Hareket eden parçalar güneşin, ayın pozisyonlarını hesaplamaya yaramaktadır. (Garfinkel, 2018).”"
+        "Aciklama": "İlk Hesaplayıcılar<br>“MÖ 1. Yüzyıla tarihlendirilen Antikythera Mekanizması bazı kaynaklara göre tarihin ilk bilgisayarı olarak geçmektedir. Bu alet tahta bir kutunun içerisinde 30’dan fazla birbirine kilitlenen bronz parçalardan oluşmaktadır. Bir krank kolu çevrilerek parçalar hareket ettirilmektedir. Hareket eden parçalar güneşin, ayın pozisyonlarını hesaplamaya yaramaktadır. (Garfinkel, 2018).”"
+    },
+    {
+        "SoruID": 3769248,
+        "SoruMetni": "Aşağıdakilerden hangisi “Kademeli Hesaplayıcı (Stepped Reckoner)” olarak anılan makineyi geliştiren araştırmacıdır?",
+        "A": "Blaise Pascal",
+        "B": "Wolfgang von Kempelen",
+        "C": "Gottfried Wilhelm von Leibniz",
+        "D": "John Napier",
+        "E": "Wilhelm Schickard",
+        "DogruCevap": "C",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.396380",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İlk Hesaplayıcılar<br>“Gottfried Wilhelm von Leibniz ise 1672-1674 yılları “Kademeli Hesaplayıcı (Stepped Reckoner)” olarak anılan makineyi bulmuştur. Leibniz, aynı zamanda ikilik sayı sistemleri üzerinde de (binary numbers) çalışmış ilk Avrupalılardan birisidir (Augarten, 1984).”"
     },
     {
         "SoruID": 3769249,
@@ -377,7 +477,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Charles Babbage, 19. yüzyılın bilgisayar teknolojilerinin gelişmesini sağlayan Fark Motoru ve Analiz Motorunu keşfeder. Fark motoru bilimsel hesaplamalarda kullanılan ve insan faktöründen dolayı yüksek hata payı olan matematik tablolarının nasıl mekanik bir şekilde işletilebileceği fikrinden doğmuştur.”"
+        "Aciklama": "İlk Hesaplayıcılar<br>“Charles Babbage, 19. yüzyılın bilgisayar teknolojilerinin gelişmesini sağlayan Fark Motoru ve Analiz Motorunu keşfeder. Fark motoru bilimsel hesaplamalarda kullanılan ve insan faktöründen dolayı yüksek hata payı olan matematik tablolarının nasıl mekanik bir şekilde işletilebileceği fikrinden doğmuştur.”"
+    },
+    {
+        "SoruID": 3769250,
+        "SoruMetni": "“Gerçeğe ulaşmak için idealara ulaşmak yerine çevremizde duyumsadıklarımızın gerçeğin kendisi olduğu” savını öne süren düşünür aşağıdakilerden hangisidir?",
+        "A": "Thales",
+        "B": "Heraklitos",
+        "C": "Aristoteles",
+        "D": "Platon",
+        "E": "Sokrates",
+        "DogruCevap": "C",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.476048",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Gerçekliğin Tanımı<br>“Aristoteles’e göre “idealar veya formlar birer soyutlamadan başka hiçbir şey değildir”<br/>(Cevizci, 2015). Aristoteles gerçeğe ulaşmak için idealara ulaşmak yerine çevremizde duyumsadıklarımızın gerçeğin kendisi olduğunu öne sürmektedir.”"
     },
     {
         "SoruID": 3769251,
@@ -397,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Gerçeklik Ortamlandırıcıları: Gerçekliğin görsel algısını zenginleştirebilen, eksiltebilen veya başkalaştırabilen sistemlerdir.”"
+        "Aciklama": "<strong>Sayısal Gerçeklik</strong><br>“Gerçeklik Ortamlandırıcıları: Gerçekliğin görsel algısını zenginleştirebilen, eksiltebilen veya başkalaştırabilen sistemlerdir.”"
     },
     {
         "SoruID": 3769252,
@@ -417,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Hiper (Üst) Gerçeklik: Gerçekliğin bir kökenden ya da gerçeklikten yoksun modeller aracılığı ile üretilmesine denir.”"
+        "Aciklama": "Sayısal Gerçeklik<br>“Hiper (Üst) Gerçeklik: Gerçekliğin bir kökenden ya da gerçeklikten yoksun modeller aracılığı ile üretilmesine denir.”"
     },
     {
         "SoruID": 3769253,
@@ -437,7 +557,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Teknik olarak ise sanal gerçekliğe yakın olarak üretilen ilk cihaz Sensorama’dır. Sinematograf Morton Heilig tarafından 1962’de üretilen bu cihaz, aslında bir çeşit çoklu duyumsama simülatörüdür.”"
+        "Aciklama": "Sanal ve Artırılmış Gerçekliğin Tarihi<br>“Teknik olarak ise sanal gerçekliğe yakın olarak üretilen ilk cihaz Sensorama’dır. Sinematograf Morton Heilig tarafından 1962’de üretilen bu cihaz, aslında bir çeşit çoklu duyumsama simülatörüdür.”"
+    },
+    {
+        "SoruID": 3769254,
+        "SoruMetni": "Sayısal gerçekliğin ilk defa bilgisayar sistemleri ile birleşmesi aşağıdakilerden hangisi tarafından gerçekleştirilmiştir?",
+        "A": "Adam Harvey",
+        "B": "John Pepper",
+        "C": "Morton Heilig",
+        "D": "Hugo Gernsback",
+        "E": "Ivan Shuterland",
+        "DogruCevap": "E",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.250702",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Sanal ve Artırılmış Gerçekliğin Tarihi<br>“Sayısal gerçekliğin ilk defa bilgisayar sistemleri ile birleşmesi Ivan Shuterland tarafından gerçekleştirilmiştir.”"
     },
     {
         "SoruID": 3769255,
@@ -457,7 +597,47 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Sanal gerçekliğin 4 temel elemanı vardır (Sherman&amp; Craig, 2003, s. 6):<br/><br/><ol><br/><li>Sanal Dünya</li><br/><li>Gömülme</li><br/><li>Duyusal Geri Bildirim</li><br/><li>Etkileşim.”</li><br/></ol>"
+        "Aciklama": "Sanal ve Artırılmış Gerçekliğin Tarihi<br>“Sanal gerçekliğin 4 temel elemanı vardır (Sherman&amp; Craig, 2003, s. 6):<br/><ol><br/><li>Sanal Dünya</li><br/><li>Gömülme</li><br/><li>Duyusal Geri Bildirim</li><br/><li>Etkileşim.”</li><br/></ol>"
+    },
+    {
+        "SoruID": 3769481,
+        "SoruMetni": "Token adı verilen, bilgiyi toplamak ve kaydetmek için kullanılan üç boyutlu formlara, <strong>ilk olarak</strong> nerede rastlanmaktadır?",
+        "A": "Kuzey Amerika",
+        "B": "Avrupa",
+        "C": "Güney Amerika",
+        "D": "Afrika",
+        "E": "Mezapotamya",
+        "DogruCevap": "E",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.368122",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "BİLGİSAYARLARIN KISA TARİHÇESİ<br>Mezopotamya’da ortaya çıkan buluntular insanların bilgiyi toplamak ve kaydetmek için MÖ 7500 yılından itibaren üç boyutlu formlardan yararlandığını göstermektedir. “Token” adı verilen bu formlar üç boyutludur ve kilden zarflar içerisine veya zarfların üzerine gömülü bir şekilde saklanmaktadırlar."
+    },
+    {
+        "SoruID": 3769482,
+        "SoruMetni": "Hesaplamaya yarayan ilk teknoloji olan abaküs hangi medeniyette ortaya çıkmıştır?",
+        "A": "Lidya",
+        "B": "Asur",
+        "C": "Likya",
+        "D": "Urartu",
+        "E": "Sümer",
+        "DogruCevap": "E",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.272610",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "BİLGİSAYARLARIN KISA TARİHÇESİ<br>Hesaplamaya yarayan ilk teknoloji, MÖ 2500 yılları civarında Sümerlerde görülen Abaküs, hesaplamaya yarayan ve taşınabilir ilk alettir. Bu bilgi cevabın E şıkkı olduğunu göstermektedir."
     },
     {
         "SoruID": 3769483,
@@ -477,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çin abaküsü bugünkü modern abaküse benzeyen bir sistemdir. Bakınız resim 3.1"
+        "Aciklama": "BİLGİSAYARLARIN KISA TARİHÇESİ<br>Çin abaküsü bugünkü modern abaküse benzeyen bir sistemdir. Bakınız resim 3.1"
     },
     {
         "SoruID": 3769484,
@@ -497,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gottfried Wilhelm von Leibniz ise 1672-1674 yılları “Kademeli Hesaplayıcı (Stepped Reckoner)” olarak anılan makineyi bulmuştur."
+        "Aciklama": "Analog Bilgisayarlar<br>Gottfried Wilhelm von Leibniz ise 1672-1674 yılları “Kademeli Hesaplayıcı (Stepped Reckoner)” olarak anılan makineyi bulmuştur."
     },
     {
         "SoruID": 3769485,
@@ -517,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1989 yılında, bilgisayarların işe, eve ve her yere girmesine sebep olan gelişme yaşanmıştır: World Wide Web (Dünya Çapında Ağ). CERN laboratuvarlarında çalışan Tim Barners-Lee’nin HTTP Hipermetin Transfer Protokolü) ve HTML’yi<br/>(Hipermetin Biçimlendirme Dili) icat etmesi ile beraber dünya çapında ağ ortaya çıkmıştır."
+        "Aciklama": "Dijital Bilgisayarlar<br>1989 yılında, bilgisayarların işe, eve ve her yere girmesine sebep olan gelişme yaşanmıştır: World Wide Web (Dünya Çapında Ağ). CERN laboratuvarlarında çalışan Tim Barners-Lee’nin HTTP Hipermetin Transfer Protokolü) ve HTML’yi<br/>(Hipermetin Biçimlendirme Dili) icat etmesi ile beraber dünya çapında ağ ortaya çıkmıştır."
     },
     {
         "SoruID": 3769486,
@@ -537,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gerçeklik tartışmalarının tarihsel kökenine bakıldığı zaman, Platon’un Mağara Alegorisi’ne ulaşılır."
+        "Aciklama": "YENİ GERÇEK, YENİ GÖRÜNTÜLER<br>Gerçeklik tartışmalarının tarihsel kökenine bakıldığı zaman, Platon’un Mağara Alegorisi’ne ulaşılır."
     },
     {
         "SoruID": 3769487,
@@ -557,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hiper (Üst) Gerçeklik: Bir kökenden ya da gerçeklikten yoksun modeller aracılığı ile üretilmesine denir."
+        "Aciklama": "Sayısal Gerçeklik<br>Hiper (Üst) Gerçeklik: Bir kökenden ya da gerçeklikten yoksun modeller aracılığı ile üretilmesine denir."
     },
     {
         "SoruID": 3769488,
@@ -577,13 +757,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tamamen fiziksel olan dünya ile tamamen sanal olan dünyanın arasında kalan bölüme ise karma gerçeklik denilmektedir."
+        "Aciklama": "Sayısal Gerçeklikler<br>Tamamen fiziksel olan dünya ile tamamen sanal olan dünyanın arasında kalan bölüme ise karma gerçeklik denilmektedir."
     },
     {
         "SoruID": 3769489,
         "SoruMetni": "Aşağıdakilerden hangisi, sanal gerçekliğin ögelerinden <strong>biri değildir?</strong>",
         "A": "Sanal Dünya",
-        "B": "Gömülme<br/><br/>",
+        "B": "Gömülme",
         "C": "Fiziksel dünya",
         "D": "Duyusal Geri Bildirim",
         "E": "Etkileşim",
@@ -597,7 +777,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanal gerçekliğin 4 temel elemanı vardır (Sherman &amp; Craig, 2003, s. 6):<br/>1. Sanal Dünya<br/>2. Gömülme<br/>3. Duyusal Geri Bildirim<br/>4. Etkileşim<br/> Fiziksel dünya bunun bir ögesi olmadığından cevap C şıkkıdır."
+        "Aciklama": "Sanal Gerçeklik<br>Sanal gerçekliğin 4 temel elemanı vardır (Sherman &amp; Craig, 2003, s. 6):<br/>1. Sanal Dünya<br/>2. Gömülme<br/>3. Duyusal Geri Bildirim<br/>4. Etkileşim<br/>Fiziksel dünya bunun bir ögesi olmadığından cevap C şıkkıdır."
+    },
+    {
+        "SoruID": 3769490,
+        "SoruMetni": "Google’ın geliştirdiği Tilt Brush, hangi alandaki sanal gerçeklik örneklerinden biridir?",
+        "A": "Sanat Alanında Sanal Gerçeklik",
+        "B": "Üretim Alanında Sanal Gerçeklik",
+        "C": "Bilim Alanında Sanal Gerçeklik",
+        "D": "Eğitim Alanında Sanal Gerçeklik",
+        "E": "Eğlence Alanında Sanal Gerçeklik",
+        "DogruCevap": "A",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.535187",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Sanal gerçeklik sanatçılara sayısal boyalar ile çalışabilecekleri, teorik olarak sonsuz bir ortam sunmaktadır. Boyaların yapısı da sayısal ortam gereği geleneksel boyalardan farklıdır. Üç boyutlu olarak boşluğun boyanabileceği gibi, boya da dinamik olarak görselleştirilebilmektedir. Google’ın geliştirdiği Tilt Brush bu tip uygulamalara örnektir."
     },
     {
         "SoruID": 3769519,
@@ -618,6 +818,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Vannevar Bush, 1945’te yazdığı makalesinde bilgisayarlar ile yapılabileceklerin olasılıklarını o günün mevcut bilimsel gelişmeleri ışığında değerlendirmiştir. Özetlendiğinde; 21. yüzyılın sayısal kameralar, bilgisayar ekranları, tarayıcılar, makine görüşü, fotografik yazıcılar, ses kaydı, sesli komut, ses ile yazı yazdırma, ekrana çizim yapabilen kalemler ve beyin bilgisayar etkileşiminden bahsettiği görülmektedir. Memex adını verdiği bir sistemde ise bilinen tüm bilgiler mikrofilmlere alınmıştır. Kullanıcı bir masanın üzerindeki ekran aracılığı ile tüm bilgilere erişebilmekte, onları düzenleyebilmekte, çıktı alabilmekte, not düşebilmektedir. Ayrıca gerektiğinde tekrar geri dönüp bu bilgilere nasıl ulaştığını da denetleyebilmektedir (Bush, 1945). Memex fikri aslında bugünkü internete bağlı bir bilgisayarı andırmaktadır."
+    },
+    {
+        "SoruID": 3769520,
+        "SoruMetni": "Kişisel bilgisayarların atası aşağıdakilerden hangisidir?",
+        "A": "ARPANET",
+        "B": "Mekanik Türk",
+        "C": "Analitik Motor",
+        "D": "CSIRAC",
+        "E": "Xerox Alto",
+        "DogruCevap": "E",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.506036",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "1973 yılında kişisel bilgisayarların atası kabul edilen Xerox Alto icat edilmiştir. Xerox Alto diğer bilgisayarlara göre çok daha kullanışlı ve normal ölçeklerdedir. Kullanıcının rahatça işlemlerini yapması için Douglas Engelbart’in icat ettiği fare de klavye ve ekranın yanına eklenmiştir. Bu bilgisayarın en büyük artısı ise işletim sistemidir. Grafik kullanıcı arayüzü (GUI) denilen bu sistem, diğer komut yazılarak kullanılan bilgisayarlardan farklı olarak görsel ögeler üzerine tıklanarak, menülerve pencereler açılarak kullanılabilmektedir. Ekranda görülen veya tasarlanan her şey yazdırılabilmektedir. Diğer bilgisayarlara ethernet üzerinden bağlanabilmektedir. Fontlar ve imgeler düzenlenebilmektedir (Garfinkel, 2018). Xerox Alto kısaca çağdaş bilgisayarların atasıdır. Tek sorun, olasılıkla yüksek fiyatı nedeniyle yaygınlaşamamış olmasıdır. Devamında gelen Apple ve Microsoft gibi şirketler bayrağı devralmış ve sistemi geliştirerek 2000’li yıllara taşımışlardır."
     },
     {
         "SoruID": 3769521,
@@ -701,7 +921,7 @@
     },
     {
         "SoruID": 3769525,
-        "SoruMetni": "Sayısal nesnelerin fiziksel dünyaya oturtulması için tetikleyicilere ihtiyaç vardır.<span> Aşağıdakilerden hangisi bu tetikleyicilerden biri <strong>değildir</strong>?</span>",
+        "SoruMetni": "Sayısal nesnelerin fiziksel dünyaya oturtulması için tetikleyicilere ihtiyaç vardır.<span> Aşağıdakilerden hangisi bu tetikleyicilerden biri <strong>değildir</strong>?</span>",
         "A": "İşaretsiz tetikleyici",
         "B": "Radyo Sinyalleri",
         "C": "Görüntü Tanımlı",
@@ -717,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayısal nesnelerin fiziksel dünyaya oturtulması için tetikleyicilere ihtiyaç vardır. Bu tetikleyiciler, artırılmış gerçeklik ile sayısal nesnelerin nerede, nasıl ve ne zaman ortaya çıkacağını belirlemektedirler:<br/><br/>1. İşaretsiz tetikleyici: Sayısal nesne, sistem başlatıldığında ortaya çıkar. Örneğin akıllı telefon uygulama başlatıldığında kendiliğinden ortaya çıkar. Genellikle havada uçuyormuş gibi gözükür.<br/><br/>2. İşaretli tetikleyici: Karekod gibi bir işaretin telefon tarafından okutulmasından sonra ortaya çıkmaktadır<br/><br/>3. Mekân ve/veya Yüzey Tanımlı: Uygulama başlatıldıktan sonra cihaz mekânı tarar ve haritasını çıkartır. Daha sonra sayısal nesneler mekâna yerleştirilir.<br/><br/>4. Görüntü Tanımlı: Sisteme kaydedilmiş bir resim veya nesne tarandığı zaman ortaya çıkmaktadır.<br/><br/>5. Radyo Sinyalleri: RFID, Bluetooth veya benzeri sinyaller sistemi çalıştırmaktadır.<br/><br/>6. Konum Tanımlı (GPS): Kullanıcı dünya üzerindeki belli bir noktaya geldiği zaman çalışır.<br/><br/>7. Cihaza bağımlı: Kiosk, akıllı ayna ve başüstü göstergeleri gibi büyük nesnelerle etkileşime girildiğine çalışmaktadır.<br/><br/>8. Diğer: Sayısal dünyada tam bir sınır koymak mümkün değildir. Bir sosyal medya iletisi, e-posta veya takvimde belirlenmiş herhangi bir gün bile olabilmektedir."
+        "Aciklama": "Sayısal nesnelerin fiziksel dünyaya oturtulması için tetikleyicilere ihtiyaç vardır. Bu tetikleyiciler, artırılmış gerçeklik ile sayısal nesnelerin nerede, nasıl ve ne zaman ortaya çıkacağını belirlemektedirler:<br/>1. İşaretsiz tetikleyici: Sayısal nesne, sistem başlatıldığında ortaya çıkar. Örneğin akıllı telefon uygulama başlatıldığında kendiliğinden ortaya çıkar. Genellikle havada uçuyormuş gibi gözükür.<br/>2. İşaretli tetikleyici: Karekod gibi bir işaretin telefon tarafından okutulmasından sonra ortaya çıkmaktadır<br/>3. Mekân ve/veya Yüzey Tanımlı: Uygulama başlatıldıktan sonra cihaz mekânı tarar ve haritasını çıkartır. Daha sonra sayısal nesneler mekâna yerleştirilir.<br/>4. Görüntü Tanımlı: Sisteme kaydedilmiş bir resim veya nesne tarandığı zaman ortaya çıkmaktadır.<br/>5. Radyo Sinyalleri: RFID, Bluetooth veya benzeri sinyaller sistemi çalıştırmaktadır.<br/>6. Konum Tanımlı (GPS): Kullanıcı dünya üzerindeki belli bir noktaya geldiği zaman çalışır.<br/>7. Cihaza bağımlı: Kiosk, akıllı ayna ve başüstü göstergeleri gibi büyük nesnelerle etkileşime girildiğine çalışmaktadır.<br/>8. Diğer: Sayısal dünyada tam bir sınır koymak mümkün değildir. Bir sosyal medya iletisi, e-posta veya takvimde belirlenmiş herhangi bir gün bile olabilmektedir."
     },
     {
         "SoruID": 3769526,
@@ -737,11 +957,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Azuma’ya (1997, s. 356) göre artırılmış gerçeklik için 3 kriterin sağlanmış olması lazımdır:<br/><br/>• Fiziksel ve sanalı birleştirmelidir<br/><br/>• Gerçek zamanlı olarak etkileşimli olmalıdır<br/><br/>• Üç boyutlu olmalıdır<br/><br/>Artırılmış gerçeklik de sanal gerçeklik gibi ortamlandırıcılar aracılığı ile duyumsanmaktadır. Sanal gerçeklikten farklı olarak bu aracılar kullanıcıyı dış dünyaya kapatmadan sayısal veriyi iletmektedir."
+        "Aciklama": "Azuma’ya (1997, s. 356) göre artırılmış gerçeklik için 3 kriterin sağlanmış olması lazımdır:<br/>• Fiziksel ve sanalı birleştirmelidir<br/>• Gerçek zamanlı olarak etkileşimli olmalıdır<br/>• Üç boyutlu olmalıdır<br/>Artırılmış gerçeklik de sanal gerçeklik gibi ortamlandırıcılar aracılığı ile duyumsanmaktadır. Sanal gerçeklikten farklı olarak bu aracılar kullanıcıyı dış dünyaya kapatmadan sayısal veriyi iletmektedir."
+    },
+    {
+        "SoruID": 3769527,
+        "SoruMetni": "18. yüzyılda icat edilen, yarısı masa yarısı o dönemin Osmanlı kıyafetlerini giyen bir robot olarak tasarlanan ve otomatik olarak karşısındaki bir oyuncu ile satranç oynayan makine aşağıdakilerden hangisidir?",
+        "A": "Mekanik Türk",
+        "B": "Antikythera Mekanizması",
+        "C": "Analitik Motor",
+        "D": "Napier Rodları",
+        "E": "Çin Abaküsü",
+        "DogruCevap": "A",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:15:52.573488",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Hesaplama makineleri gelişmesini sürdürürken, 18. yüzyılda Mekanik Türk adı verilen bir makine, Avrupa kıtasında ses getirmiştir. Macar mucit Wolfgang von Kempelen 1770 yılında izlediği illüzyon gösterisinden ilham alarak yarısı masa yarısı o dönemin Osmanlı kıyafetlerini giyen bir robot tasarlamıştır. Bu makine otomatik olarak karşısındaki bir oyuncu ile satranç oynamaktadır. Aralarında Napolyon, Edger Allen Poe, Benjamin Franklin gibi ünlü isimlerin karşısında pek çok oyunu kazanmıştır. Aslında cüce bir satranç ustası tarafından kullanılan makinenin dönemin ünlü isimlerini alt etmesiyle, mekanik (yapay) bir zekanın mümkün olup olmayacağına dair tartışmalar başlamıştır (Garfinkel, 2018)."
     },
     {
         "SoruID": 3769528,
-        "SoruMetni": "\"Kullanıcılar bir monitörün önüne oturarak daha önceden kaydedilmiş motosikletlerin , bisikletlerin ve bir helikopterden birini seçerek, kaydedilmiş deneyimi tekrar yaşamaktadır. 3 boyutlu görüntü ve stereo ses sistemine sahiptir ayrıca kullanıcıya koku ve rüzgar da üflemektedir.\"<br/> 1962 yılında üretilen bu cihaz hangisidir?",
+        "SoruMetni": "\"Kullanıcılar bir monitörün önüne oturarak daha önceden kaydedilmiş motosikletlerin , bisikletlerin ve bir helikopterden birini seçerek, kaydedilmiş deneyimi tekrar yaşamaktadır. 3 boyutlu görüntü ve stereo ses sistemine sahiptir ayrıca kullanıcıya koku ve rüzgar da üflemektedir.\"<br/>1962 yılında üretilen bu cihaz hangisidir?",
         "A": "Memex",
         "B": "Sensorama",
         "C": "Pygmalion’un Gözlükleri",
@@ -780,6 +1020,26 @@
         "Aciklama": "Abaküs:Hesaplamaya yarayan ilk teknoloji, MÖ 2500 yılları civarında Sümerlerde görülen Abaküs, he­saplamaya yarayan ve taşınabilir ilk alettir."
     },
     {
+        "SoruID": 3769542,
+        "SoruMetni": "Bazı kaynaklara göre tarihin ilk bilgisayarı olarak geçen, ilkel bir hesaplama aracı abaküsten sonra ortaya çıkan, güneşin ve ayın pozisyonlarını hesaplamaya yarayan araç aşağıdakilerden hangisidir?",
+        "A": "Abaküs",
+        "B": "Antikythera",
+        "C": "Analog",
+        "D": "Mangala",
+        "E": "Colossus",
+        "DogruCevap": "B",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.428479",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İlkel bir hesaplama aracı abaküsten sonra ortaya çıkan ve daha sofistike olan buluntu MÖ 1. yüzyı­la tarihlendirilen Antikythera Mekanizmasıdır. Bazı kaynaklara göre tarihin ilk bilgisayarı olarak geçmek­tedir. Bu alet tahta bir kutunun içerisinde 30’dan fazla birbirine kilitlenen bronz parçalardan oluşmaktadır. Bir krank kolu çevrilerek parçalar hareket ettirilmek­tedir. Hareket eden parçalar güneşin, ayın pozisyon­larını hesaplamaya yaramaktadır."
+    },
+    {
         "SoruID": 3769543,
         "SoruMetni": "İkinci dünya savaşı sırasında Alman ordusunun şifreli mesajlarını kırarak savaşın kazanılmasında önemli rol oynayan ve İngiltere tarafından geliştirilen bilgisayar aşağıdakilerden hangisidir?",
         "A": "Colossus Bilgisayarı",
@@ -798,6 +1058,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "İngiltere’de geliştirilen Colossus bilgisayarı ise ikinci dünya savaşında Al­man ordusunun şifreli mesajlarını kırarak savaşın kazanılmasında önemli rol oynamıştır. Bu durum hızlı ve daha az hata payı ile çalışan bilgisayarla­rın önemini ortaya çıkarmıştır."
+    },
+    {
+        "SoruID": 3769544,
+        "SoruMetni": "Çok yüksek işlemcili bilgisayarlar yerine, küçük ve fonksiyonel araçların insanların ihtiyaçlarını gidermesi için üretilmiş bir çözüm olan hem birbirlerine hem de daha büyük sistemlere bağlanabilen nesneler için kullanılabilen kavram aşağıdakilerden hangisi ile tanımlanır?",
+        "A": "Sosyal medya",
+        "B": "MR",
+        "C": "Sanal gerçeklik",
+        "D": "Yapay zeka",
+        "E": "Nesnelerin İnterneti",
+        "DogruCevap": "E",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.430018",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Nesnelerin interneti (IoT) kavramı mikroişlem­ciler, yazılımlar ve sensörler ile akıllı hale getiril­miş, hem birbirlerine hem de daha büyük sistem­lere bağlanabilen nesneler için kullanılmaktadır. Çok yüksek işlemcili bilgisayarlar yerine, küçük ve fonksiyonel araçların insanların ihtiyaçlarını gider­mesi için üretilmiş bir çözümdür. Sabah kullanı­cısının kalktığı saatte kahvesini hazır eden kahve makineleri, uzaktan kontrol edilebilen ev ısıtma sistemleri veya aydınlatma sistemleri, kullanıcısının günlük spor bilgilerini kaydedebilen bileklikler ör­nek olarak gösterilebilir."
     },
     {
         "SoruID": 3769545,
@@ -900,8 +1180,28 @@
         "Aciklama": "Fotoğrafın icadından hemen sonra ise stereoskopik görüntüleme ile ça­lışan sistemler üretilmeye başlan­mıştır. 1832’de ilk adımını Charles Wheatstone’un attığı çalışmalarda dürbün ile gözlük arası bir nesnenin içerisinden iki fotoğrafa bakarak ger­çeğe yakın bir üç boyut algısı ortaya çıkarılmaya çalışılmıştır."
     },
     {
+        "SoruID": 3769550,
+        "SoruMetni": "İkinci dünya savaşı yıllarında ilk olarak Havilland Mosquito gece savaş uçaklarında ortaya çıkan, bilgilerin önde bulunan cam üstüne yansıtıldığı sisteme verilen ad aşağıdakilerden hangisidir?",
+        "A": "HUD",
+        "B": "VRLM",
+        "C": "XLM",
+        "D": "VR",
+        "E": "HDMI",
+        "DogruCevap": "A",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.508339",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İkinci dünya savaşı yıllarında ilk elektronik başüstü göstergeler (HUD – Bilgilerin önde bulunan cam yüzeyde görüldüğü sistemler), Havilland Mosquito gece savaş uçaklarında ortaya çıkmıştır. 1950’lerin sonlarında ise Amerikan Philco Şirketi, başlığa monte göstergeleri üretmiştir (HMD – bilgiler kaskın önünde bulunan cam siperlikten okunmaktadır). Sistemde kullanıcı kafasını hareket ettirdiğinde, farklı bir yerdeki kamera da aynı şekilde bakış yönünü değiştirmektedir. Böylece kullanıcı başka bir yerde olsa da başka bir yeri görebilmektedir. Bu sistem ayrıca dünyada ilk defa kurulan uzaktan varoluş sistemidir."
+    },
+    {
         "SoruID": 3769580,
-        "SoruMetni": "'Gerçekliğin görsel algısını zenginleştirebilen, eksiltebilen veya başkalaştırabilen sistemler' olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+        "SoruMetni": "'Gerçekliğin görsel algısını zenginleştirebilen, eksiltebilen veya başkalaştırabilen sistemler' olarak tanımlanan kavram aşağıdakilerden hangisidir?",
         "A": "Gerçeklik Ortamlandırıcıları",
         "B": "Aracılı İletişim",
         "C": "Hiper Gerçeklik",
@@ -921,7 +1221,7 @@
     },
     {
         "SoruID": 3769581,
-        "SoruMetni": "'Ses, mimik gibi doğal yollar yerine teknoloji ile üretilmiş bir ortam kullanılarak yapılan iletişim' olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+        "SoruMetni": "'Ses, mimik gibi doğal yollar yerine teknoloji ile üretilmiş bir ortam kullanılarak yapılan iletişim' olarak tanımlanan kavram aşağıdakilerden hangisidir?",
         "A": "Gerçeklik Ortamlandırıcıları",
         "B": "Aracılı İletişim",
         "C": "Artırılmış Gerçeklik",
@@ -940,8 +1240,28 @@
         "Aciklama": "<strong>Aracılı İletişim:</strong> Ses, mimik gibi doğal yollar yerine teknoloji ile üretilmiş bir ortam kullanılarak yapılan iletişimdir."
     },
     {
+        "SoruID": 3769582,
+        "SoruMetni": "'Sayısal teknolojilerin görsel dilinin fiziksel dünyaya akarak, sayısal ve fiziksel dünyayı iç içe geçirmesi' olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+        "A": "Aracılı İletişim",
+        "B": "Artırılmış Gerçeklik",
+        "C": "Yeni Estetik",
+        "D": "Gömülme",
+        "E": "Avatar",
+        "DogruCevap": "C",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.418108",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<strong>Yeni Estetik:</strong> Sayısal teknolojilerin görsel dilinin fiziksel dünyaya akarak, sayısal ve fiziksel dünyayı iç içe geçirmesidir."
+    },
+    {
         "SoruID": 3769583,
-        "SoruMetni": "'Bilgisayar tarafından simüle edilen, gerçek bir dünya gibi deneyimlenmesi tasarlanmış ortamlar' olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+        "SoruMetni": "'Bilgisayar tarafından simüle edilen, gerçek bir dünya gibi deneyimlenmesi tasarlanmış ortamlar' olarak tanımlanan kavram aşağıdakilerden hangisidir?",
         "A": "Artırılmış Gerçeklik",
         "B": "Sanal Gerçeklik",
         "C": "Genişletilmiş Gerçeklik",
@@ -961,7 +1281,7 @@
     },
     {
         "SoruID": 3769584,
-        "SoruMetni": "'Kullanıcının farklı bir lokasyonda olmasına rağmen, iletişim teknolojileri ile sağlanan bir ortamda, orada bulunma hissiyatı' olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+        "SoruMetni": "'Kullanıcının farklı bir lokasyonda olmasına rağmen, iletişim teknolojileri ile sağlanan bir ortamda, orada bulunma hissiyatı' olarak tanımlanan kavram aşağıdakilerden hangisidir?",
         "A": "Sanal Gerçeklik",
         "B": "Mevcudiyet",
         "C": "Gömülme",
@@ -981,7 +1301,7 @@
     },
     {
         "SoruID": 3769585,
-        "SoruMetni": "'Doğası gereği içine gömülmeye olanak sağlayan, sanal ve etkileşimli bir mekân' olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+        "SoruMetni": "'Doğası gereği içine gömülmeye olanak sağlayan, sanal ve etkileşimli bir mekân' olarak tanımlanan kavram aşağıdakilerden hangisidir?",
         "A": "Artırılmış Gerçeklik",
         "B": "Avatar",
         "C": "Siber Uzay",
@@ -1000,8 +1320,28 @@
         "Aciklama": "<strong>Siber Uzay (Cyberspace):</strong> Doğası gereği içine gömülmeye olanak sağlayan, sanal ve etkileşimli bir mekândır."
     },
     {
+        "SoruID": 3769586,
+        "SoruMetni": "Milgram ve Kishino (1994) tarafından hazırlanan Gerçeklik ve Sanallık Skalası'nın en solunda ve en sağında yer alan ortamlar aşağıdakilerin hangisinde doğru olarak gösterilmiştir?",
+        "A": "Fiziksel Dünya / Arttırılmış Gerçeklik",
+        "B": "Fiziksel Dünya / Sanal Dünya",
+        "C": "Arttırılmış Sanallık / Artırılmış Gerçeklik",
+        "D": "Arttırılmış Gerçeklik / Fiziksel Dünya",
+        "E": "Arttırılmış Gerçeklik / Sanal Dünya",
+        "DogruCevap": "B",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.308640",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<img alt=\"\" height=\"206\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/dc14e43f2a7eaf52b30823be1ab15427.png\" width=\"663\"/>"
+    },
+    {
         "SoruID": 3769587,
-        "SoruMetni": "Aşağıdakilerden hangisi sanal gerçekliğin dört temel elemanından <u>biri değildir?</u>",
+        "SoruMetni": "Aşağıdakilerden hangisi sanal gerçekliğin dört temel elemanından <u>biri değildir?</u>",
         "A": "Sanal Dünya",
         "B": "Gömülme",
         "C": "Avatar",
@@ -1017,11 +1357,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanal gerçekliğin 4 temel elemanı:<br/>1. Sanal Dünya<br/>2. Gömülme<br/>3. Duyusal Geri Bildirim<br/>4. Etkileşim<br/> Avatar ise;  Bir kullanıcının veya fiziksel bir nesnenin, sanal bir nesne tarafından temsil edilmesidir."
+        "Aciklama": "Sanal gerçekliğin 4 temel elemanı:<br/>1. Sanal Dünya<br/>2. Gömülme<br/>3. Duyusal Geri Bildirim<br/>4. Etkileşim<br/>Avatar ise; Bir kullanıcının veya fiziksel bir nesnenin, sanal bir nesne tarafından temsil edilmesidir."
+    },
+    {
+        "SoruID": 3769588,
+        "SoruMetni": "Azuma’ya (1997) göre artırılmış gerçeklik; fiziksel ve .......... birleştirmelidir, gerçek zamanlı olarak ........ ve ......... boyutlu olmalıdır.<br/>Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?",
+        "A": "sanalı / etkileşimli / dört",
+        "B": "sanalı / etkileşimli / üç",
+        "C": "sanalı / tek yönlü / üç",
+        "D": "zamanı / tek yönlü / üç",
+        "E": "uzayı / etkileşimli / dört",
+        "DogruCevap": "B",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.310901",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Azuma’ya (1997) göre artırılmış gerçeklik için 3 kriterin sağlanmış olması lazımdır:<br/>• Fiziksel ve <strong>sanalı</strong> birleştirmelidir.<br/>• Gerçek zamanlı olarak <strong>etkileşimli</strong> olmalıdır.<br/>• <strong>Üç boyutlu</strong> olmalıdır."
     },
     {
         "SoruID": 3769589,
-        "SoruMetni": "Sayısal nesnelerin fiziksel dünyaya oturtulması için ihtiyaç duyulan ................., artırılmış gerçeklik ile sayısal nesnelerin nerede, nasıl ve ne zaman ortaya çıkacağını belirlemektedirler.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "Sayısal nesnelerin fiziksel dünyaya oturtulması için ihtiyaç duyulan ................., artırılmış gerçeklik ile sayısal nesnelerin nerede, nasıl ve ne zaman ortaya çıkacağını belirlemektedirler.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "Tetikleyici",
         "B": "Karekod",
         "C": "Kioks",
@@ -1037,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayısal nesnelerin fiziksel dünyaya oturtulması için<strong> tetikleyicilere</strong> ihtiyaç vardır. Bu<strong> tetikleyiciler, </strong>artırılmış gerçeklik ile sayısal nesnelerin nerede, nasıl ve ne zaman ortaya çıkacağını belirlemektedirler."
+        "Aciklama": "Sayısal nesnelerin fiziksel dünyaya oturtulması için<strong> tetikleyicilere</strong> ihtiyaç vardır. Bu<strong> tetikleyiciler, </strong>artırılmış gerçeklik ile sayısal nesnelerin nerede, nasıl ve ne zaman ortaya çıkacağını belirlemektedirler."
     },
     {
         "SoruID": 3769591,
@@ -1052,12 +1412,52 @@
         "Unite": 3,
         "Somestre": "2",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:21:06.650486",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.554162",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Xerox Alto kısaca çağdaş bilgisayarların atasıdır. Tek sorun, olasılıkla yüksek fiyatı nedeniyle yaygınlaşamamış olmasıdır. Devamında gelen Apple ve Microsoft gibi şirketler bayrağı devralmış ve sistemi geliştirerek 2000’li yıllara taşımışlardır."
+    },
+    {
+        "SoruID": 3769592,
+        "SoruMetni": "<strong>Aşağıdaki ifadelerden hangisi </strong><strong>Baudrillard’ın</strong><strong> simülasyonun kavramının özelliklerinden biridir?</strong>",
+        "A": "Kişisel olmayan bir bakış sunar.",
+        "B": "Kamera tarafsız bir işlev görür.",
+        "C": "Umutsuz bir atmosfer yaratır.",
+        "D": "Bir kökenden yoksundur.",
+        "E": "Geçmiş ve gelecek zamanın görüntüleridir.",
+        "DogruCevap": "D",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.421832",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<span style=\"font-family: 'Times New Roman',serif;\">Baudrillard’a göre “bir köken ya da bir gerçeklikten yoksun modeller aracılığı ile üretilmesine hiper (üst) gerçek yani simülasyon denilmektedir”.</span>"
+    },
+    {
+        "SoruID": 3769593,
+        "SoruMetni": "<strong>Aşağıdaki ifadelerden hangisi bilgisayarların yarattığı ortamlardan biri <u>değildir?</u></strong>",
+        "A": "Optik bir ortamdır.",
+        "B": "Yazılımlarla yönetilen bir ortamdır.",
+        "C": "Etkileşimli bir ortamdır.",
+        "D": "Üst metinsel bir ortamdır.",
+        "E": "Doğrusal olmayan bir ortamdır.",
+        "DogruCevap": "A",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.433886",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Bilgisayarların yarattığı ortam yazılımlarla yönetilen, etkileşimli, üst metinsel ve doğrusal olmayan bir ortamdır."
     },
     {
         "SoruID": 3769594,
@@ -1080,11 +1480,31 @@
         "Aciklama": "Bilgisayarların oluşturduğu imgeler insan yaşamına nüfuz etmektedir. Bu imgeler “yeni estetik” adı altında James Bridle tarafından kendi Tumblr sayfasında ve SXSW konferansında tartışmaya açılmıştır"
     },
     {
+        "SoruID": 3769595,
+        "SoruMetni": "<strong>Aşağıdaki ifadelerden hangisi </strong><strong>gerçekliğin görsel algısını zenginleştirebilen, eksiltebilen veya başkalaştırabilen sistemlerdir?</strong>",
+        "A": "Siber Uzay",
+        "B": "Sensoroma.",
+        "C": "Gerçeklik ortamlandırıcıları.",
+        "D": "Avatar.",
+        "E": "RFID.",
+        "DogruCevap": "C",
+        "DersAd": "Dijital Kültür",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.453762",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Bilgisayarların, doğası gereği insana ulaşabilmesi için ortamlandırılması gerekir. Bunu yapan aletlere de gerçeklik ortamlandırıcıları (Reality Mediator) denir"
+    },
+    {
         "SoruID": 3769596,
         "SoruMetni": "<strong>Fziksel dünyanın üzerine sayısal enformasyonun yüklenmesi ile oluşan gerçeklik aşağıdaki ifadelerden hangisidir?</strong>",
         "A": "Sanal Gerçeklik.",
         "B": "Artırılmış gerçeklik.",
-        "C": "Hipergerçeklik.<br/> .",
+        "C": "Hipergerçeklik.<br/>.",
         "D": "Genişletilmiş gerçeklik.",
         "E": "Karma Gerçeklik",
         "DogruCevap": "B",
@@ -1117,7 +1537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgilerin kaskın önünde bulunan cam siperlikten okunsn HMD  sisteminde kullanıcı kafasını hareket ettirdiğinde, farklı bir yerdeki kamera da aynı şekilde bakış yönünü değiştirmektedir. Böylece kullanıcı başka bir yerde olsa da başka bir yeri görebilmektedir. Bu sistem ayrıca dünyada ilk defa kurulan uzaktan varoluş sistemidir."
+        "Aciklama": "Bilgilerin kaskın önünde bulunan cam siperlikten okunsn HMD sisteminde kullanıcı kafasını hareket ettirdiğinde, farklı bir yerdeki kamera da aynı şekilde bakış yönünü değiştirmektedir. Böylece kullanıcı başka bir yerde olsa da başka bir yeri görebilmektedir. Bu sistem ayrıca dünyada ilk defa kurulan uzaktan varoluş sistemidir."
     },
     {
         "SoruID": 3769598,
@@ -1137,7 +1557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Azuma’ya (1997, s. 356) göre artırılmış gerçeklik için 3 kriterin sağlanmış olması lazımdır: Fiziksel ve sanalı birleştirmelidir, Gerçek zamanlı olarak etkileşimli olmalıdır, üç boyutlu olmalıdır.<br/><br/>Gömülle hissi sanal gerçeklikle ilgilidir."
+        "Aciklama": "Azuma’ya (1997, s. 356) göre artırılmış gerçeklik için 3 kriterin sağlanmış olması lazımdır: Fiziksel ve sanalı birleştirmelidir, Gerçek zamanlı olarak etkileşimli olmalıdır, üç boyutlu olmalıdır.<br/>Gömülle hissi sanal gerçeklikle ilgilidir."
     },
     {
         "SoruID": 3769599,

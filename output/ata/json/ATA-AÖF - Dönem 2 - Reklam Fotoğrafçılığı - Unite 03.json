@@ -9,14 +9,15 @@
         "E": "Görsel kayıt türü",
         "DogruCevap": "E",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 132510,
@@ -28,18 +29,19 @@
         "E": "Kompozisyon",
         "DogruCevap": "E",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 133670,
-        "SoruMetni": "........................, en basit şekilde ifade edilecek olursa “aynanın/perdenin” açılıp kapanma hızıdır. Bir başka deyişle duyarlı yüzeye girecek olan ışığın süresini belirler.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "........................, en basit şekilde ifade edilecek olursa “aynanın/perdenin” açılıp kapanma hızıdır. Bir başka deyişle duyarlı yüzeye girecek olan ışığın süresini belirler.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Enstantane",
         "B": "Kompozisyon",
         "C": "Filtre",
@@ -47,18 +49,19 @@
         "E": "Diyafram",
         "DogruCevap": "A",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 134822,
-        "SoruMetni": "Konudan yansıyarak gelen ışınları toplayarak duyarlı yüzey (emülsiyon taban-sensör) üzerinde net bir görüntü oluşturmaya yarayan, iç bükey-dış bükey mercekler topluluğuna ................... denir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Konudan yansıyarak gelen ışınları toplayarak duyarlı yüzey (emülsiyon taban-sensör) üzerinde net bir görüntü oluşturmaya yarayan, iç bükey-dış bükey mercekler topluluğuna ................... denir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "objektif",
         "B": "metraj",
         "C": "flaş",
@@ -66,18 +69,19 @@
         "E": "denklanşör",
         "DogruCevap": "A",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 200092,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi kompozisyon düzenlemelerinde etkili <u>değildir</u>?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi kompozisyon düzenlemelerinde etkili <u>değildir</u>?</strong>",
         "A": "Kullanılacak objektifin odak uzaklığı",
         "B": "Konuyla aradaki mesafe",
         "C": "Bakış açısı ve bakış yüksekliği",
@@ -85,18 +89,19 @@
         "E": "Objektifin optik kalitesi",
         "DogruCevap": "E",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 200095,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi kompozisyon kurallarını uygulama amaçları arasında <u>yer almaz</u>?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi kompozisyon kurallarını uygulama amaçları arasında <u>yer almaz</u>?</strong>",
         "A": "Kurallara uymuş olmak",
         "B": "Hoşa gidecek bir biçim oluşturmak",
         "C": "Anlam oluşturmak",
@@ -104,18 +109,19 @@
         "E": "İzleyiciye konu hakkında açık bir iletide bulunmak",
         "DogruCevap": "A",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 200099,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi izleyicilerin anlam oluşturmasında etkili <u>değildir</u>?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi izleyicilerin anlam oluşturmasında etkili <u>değildir</u>?</strong>",
         "A": "Algı düzeyi",
         "B": "Kültürel altyapısı",
         "C": "İnançları",
@@ -123,18 +129,19 @@
         "E": "Ekonomik düzeyi",
         "DogruCevap": "E",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 200105,
-        "SoruMetni": "<strong>Fotoğrafı çekilecek konuyu izleyicinin gözünde yüceltmek için aşağıdaki  değişkenlerden hangisini kullanırdınız?</strong><br/>",
+        "SoruMetni": "<strong>Fotoğrafı çekilecek konuyu izleyicinin gözünde yüceltmek için aşağıdaki değişkenlerden hangisini kullanırdınız?</strong>",
         "A": "Konuya yakın bir mesafeden çekim yapmak",
         "B": "Ayrıntı çekimi yapmak",
         "C": "Teleobjektifle konuyu büyütmek",
@@ -149,11 +156,12 @@
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 200112,
-        "SoruMetni": "<strong>Aşağıdaki kompozisyon kavramlarından hangisini uygulamak izleyicinin  dikkatini çeker?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdaki kompozisyon kavramlarından hangisini uygulamak izleyicinin dikkatini çeker?</strong>",
         "A": "Uyum",
         "B": "Zıtlık",
         "C": "Simetri",
@@ -168,11 +176,12 @@
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 200117,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi hız ve hareket izlenimi yaratmada etki  <u>etmemektedir</u>?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi hız ve hareket izlenimi yaratmada etki <u>etmemektedir</u>?</strong>",
         "A": "Hareketin hızı",
         "B": "Hareketin yönü",
         "C": "Hareket boşluğu",
@@ -180,18 +189,19 @@
         "E": "Objektifin odak uzaklığı",
         "DogruCevap": "E",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 200123,
-        "SoruMetni": "<strong>Fotoğrafta sade bir anlatım yapabilmek için aşağıdakilerden hangisi etkili <u>olmaz</u>?</strong><br/>",
+        "SoruMetni": "<strong>Fotoğrafta sade bir anlatım yapabilmek için aşağıdakilerden hangisi etkili <u>olmaz</u>?</strong>",
         "A": "Geniş açı objektif kullanmak",
         "B": "Hareketli konularda doğru zamanlama",
         "C": "Bakış yüksekliğini değiştirmek",
@@ -199,18 +209,19 @@
         "E": "Fonu gölgede bırakan yarı ters ışık kullanmak",
         "DogruCevap": "A",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 200128,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi insan fotoğraflarında kullanılan çekim  ölçeklendirmeleri arasında <u>yer almaz</u>?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi insan fotoğraflarında kullanılan çekim ölçeklendirmeleri arasında <u>yer almaz</u>?</strong>",
         "A": "Baş plan",
         "B": "Yakın plan",
         "C": "Boy plan",
@@ -225,11 +236,12 @@
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 200131,
-        "SoruMetni": "<strong>Fotoğrafçının hangi özellikleri çekim esnasında yapacağı tercihlerde anlam  oluşumuna doğrudan etki <u>etmemektedir</u>?</strong><br/>",
+        "SoruMetni": "<strong>Fotoğrafçının hangi özellikleri çekim esnasında yapacağı tercihlerde anlam oluşumuna doğrudan etki <u>etmemektedir</u>?</strong>",
         "A": "Fotoğrafçının görme yeteneği",
         "B": "Fotoğrafçının politik ve dünya görüşü",
         "C": "Fotoğrafçının maddi durumu",
@@ -244,11 +256,12 @@
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 200135,
-        "SoruMetni": "<strong>İzleyiciye zaman ile ilgili bilgi aşağıdakilerden hangisiyle verilebilir?</strong><br/>",
+        "SoruMetni": "<strong>İzleyiciye zaman ile ilgili bilgi aşağıdakilerden hangisiyle verilebilir?</strong>",
         "A": "Konunun hareketi",
         "B": "Konu ile kamera arasındaki mesafe",
         "C": "Kullanılan çekim ölçeği",
@@ -263,11 +276,12 @@
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 240449,
-        "SoruMetni": "<strong>Aşağıdaki kompozisyon ögelerinden hangisi çokluk etkisi yaratmada kullanılmaktadır?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdaki kompozisyon ögelerinden hangisi çokluk etkisi yaratmada kullanılmaktadır?</strong>",
         "A": "Derinlik",
         "B": "Uyum",
         "C": "Ritm",
@@ -275,18 +289,19 @@
         "E": "Simetri",
         "DogruCevap": "C",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 240455,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi iki ya da daha fazla figürün birbirini tamamlayarak anlam oluşumuna katkı sağlayarak uyum ya da armoni olarak ifade edilmesini sağlayabilir?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi iki ya da daha fazla figürün birbirini tamamlayarak anlam oluşumuna katkı sağlayarak uyum ya da armoni olarak ifade edilmesini sağlayabilir?</strong>",
         "A": "Renk",
         "B": "Ton",
         "C": "Yön",
@@ -294,14 +309,15 @@
         "E": "Zıtlık",
         "DogruCevap": "E",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 345383,
@@ -309,22 +325,23 @@
         "A": "Pozlama",
         "B": "Kadraj",
         "C": "1/3 kuralı",
-        "D": "Yakın plan",
+        "D": "Yakın plan",
         "E": "Siluet",
         "DogruCevap": "C",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 345406,
-        "SoruMetni": "<strong>Etkili bir kompozisyon oluşturmak isteyen bir fotoğrafçı, konuya yaklaşıp uzaklaşarak ya da objektifinin odak uzaklığını değiştirerek aşağıdakilerden hangisini amaçlamaktadır?</strong>",
+        "SoruMetni": "<strong>Etkili bir kompozisyon oluşturmak isteyen bir fotoğrafçı, konuya yaklaşıp uzaklaşarak ya da objektifinin odak uzaklığını değiştirerek aşağıdakilerden hangisini amaçlamaktadır?</strong>",
         "A": "Diyafram değeri belirleme",
         "B": "Kelvin değerini belirleme",
         "C": "ISO değerini değiştirme",
@@ -332,18 +349,19 @@
         "E": "Enstantene değeri belirleme",
         "DogruCevap": "D",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 346657,
-        "SoruMetni": "I. Dosya boyutu<br/> <br/>II. Hareketin hızı<br> <br/>III. Hareketin yönü<br> <br/><strong>Hareketli nesnelerin hız ve hareketinin ifadesi, teknik bilgi ve deneyimin yanı sıra yukarıdaki değişkenlerden hangisi ya da hangilerine bağlıdır?</strong></br></br>",
+        "SoruMetni": "I. Dosya boyutu<br/>II. Hareketin hızı<br/>III. Hareketin yönü<br/><strong>Hareketli nesnelerin hız ve hareketinin ifadesi, teknik bilgi ve deneyimin yanı sıra yukarıdaki değişkenlerden hangisi ya da hangilerine bağlıdır?</strong></br></br>",
         "A": "I ve II",
         "B": "I, II ve III",
         "C": "Yalnız I",
@@ -351,13 +369,14 @@
         "E": "Yalnız II",
         "DogruCevap": "D",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     }
 ]

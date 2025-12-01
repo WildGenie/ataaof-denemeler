@@ -1,7 +1,7 @@
 # Tipografi (Dönem 2) - Tüm Sorular
 
 ## Unite 1
-1. Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ne ad verilir?
+1. Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ne ad verilir?
     - A-) Logogram
     - B-) Pictogram
     - C-) Amblem
@@ -38,7 +38,7 @@
     - **Cevap D-) Linotype**
     - E-) Monotype
 
-    > **Açıklama:** Linotype, Ottmar Mergenthaler tarafından 1886 yılında icat edilmiştir. Klavye, çoğaltma kalıbı mağazası ve kurşun döküm birimiyle sıcak kurşun satır dökümü yapan bir makine olarak tasarlanmıştır. Bu döneme kadar matbaada basılabilen boyutlar sınırlı iken, Linotype ile geniş sayfalarda basımlar yapılabilmiştir. 1980’lere kadar gazeteler, dergiler ve posterler için küçük boyutlu gövde metni olmak üzere yazı tipini ayarlamak için temel yöntemlerden biri olarak kullanılmıştır.
+    > **Açıklama:** Linotype, Ottmar Mergenthaler tarafından 1886 yılında icat edilmiştir. Klavye, çoğaltma kalıbı mağazası ve kurşun döküm birimiyle sıcak kurşun satır dökümü yapan bir makine olarak tasarlanmıştır. Bu döneme kadar matbaada basılabilen boyutlar sınırlı iken, Linotype ile geniş sayfalarda basımlar yapılabilmiştir. 1980’lere kadar gazeteler, dergiler ve posterler için küçük boyutlu gövde metni olmak üzere yazı tipini ayarlamak için temel yöntemlerden biri olarak kullanılmıştır.
 
     ***
 1. 1455 yılında, Gutenberg basımevinde basılan ilk kitap aşağıdakilerden hangisidir?
@@ -51,14 +51,14 @@
     > **Açıklama:** 1455’te Gutenberg tarafından basılan kitap için yaklaşık üç yüz farklı harf biçimi döktüğü düşünülmektedir 1455 yılında, basımevinde baskısının yapıldığı belgelenen ilk kitap olan, 42-Line Bible (Kırkiki Satırlı İncil) basılmıştır.
 
     ***
-1. 18. yüzyılda punto dizgesinin ölçümlenmesini geliştiren kişi aşağıdakilerden hangisidir?
+1. 18\. yüzyılda punto dizgesinin ölçümlenmesini geliştiren kişi aşağıdakilerden hangisidir?
     - A-) William Caslon
     - **Cevap B-) Pierre Simon Fournier**
     - C-) İbrahim Müteferrika
     - D-) John Baskerville
     - E-) Nicolas Jenson
 
-    > **Açıklama:** 18. yüzyılda punto dizgesinin ölçümlenmesini Pierre Simon Fournier geliştirmiştir.
+    > **Açıklama:** 18\. yüzyılda punto dizgesinin ölçümlenmesini Pierre Simon Fournier geliştirmiştir.
 
     ***
 1. Aşağıdakilerden hangisi Gutenberg'in basımcılığa sağladığı katkılardan biri değildir?
@@ -90,7 +90,7 @@
     > • Matrisler daha sonra yeniden kullanılmak üzere geldikleri tip dergisine döndürülür.
 
     ***
-1. 1800’lerde desenlerin otomatik olarak kumaş dokumasına aktarabilen, 1887’de yazı karakterlerini iki yana yaslı satırlarda ayarlayan basım tekniği aşağıdakilerden hangisidir?
+1. 1800’lerde desenlerin otomatik olarak kumaş dokumasına aktarabilen, 1887’de yazı karakterlerini iki yana yaslı satırlarda ayarlayan basım tekniği aşağıdakilerden hangisidir?
     - **Cevap A-) Monotype**
     - B-) Linotype
     - C-) Jacquard kartları
@@ -101,10 +101,10 @@
     > Henüz 1800lerin başında patenti alınan delikli Jacquard kartları ile karmaşık desenlerin
     > **otomatik olarak kumaş dokumasına aktarılması sağlanmıştı.** Üzerine delik açılmış Jacquard
     > kartları gibi delikli kağıttan bir dizgi makinesini çalıştırma konsepti, ilk olarak William Martin tarafından 1800 lerin ortalarında patentlenmiştir. Bu sistem kısa bir süre sonra Alexander Mackie tarafından geliştirilmiş, ancak o dönem mekanize dizgi için gerekli işlevsellikte olmaması nedeniyle yeterince talep görmemiştir.
-    > 1887’de Tolbert Lanston, kurmuş olduğu Lanston Type Machine Company’de Linotype makinesi gibi **yazı satırları yerine tek tek yazı karakterlerini iki yana yaslı satırlarda ayarlayan bir makine olan Monotype makinesinin prototipini üretmiştir.** Lanston’ın ilk **dizgi makinesi**, piyano rulosu gibi bir kağıt makarası üzerinde, bir işin delikli kaydını üreten bir klavyeden oluşmaktadır. Monotype makinası ile bilinen ilk baskı 1889 yılında yapılmıştır. İlk baskıda Monotype baskı makinasını ayrıntılı bir şekilde anlatan bir broşür üretilmiştir.
+    > 1887’de Tolbert Lanston, kurmuş olduğu Lanston Type Machine Company’de Linotype makinesi gibi **yazı satırları yerine tek tek yazı karakterlerini iki yana yaslı satırlarda ayarlayan bir makine olan Monotype makinesinin prototipini üretmiştir.** Lanston’ın ilk **dizgi makinesi**, piyano rulosu gibi bir kağıt makarası üzerinde, bir işin delikli kaydını üreten bir klavyeden oluşmaktadır. Monotype makinası ile bilinen ilk baskı 1889 yılında yapılmıştır. İlk baskıda Monotype baskı makinasını ayrıntılı bir şekilde anlatan bir broşür üretilmiştir.
 
     ***
-1. **Kavram**<br />1. Piktogram<br />2. İdeogram<br />3. Trajan Kapital<br />4. Logogram<br />5. Hiyeroglif yazı<br />**Tanım**<br />1. Bir düşünceyi betimlemek için kullanılan resim ya da grafik gibi basit göstergeler<br />2. Bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgeler<br />3. Herhangi bir ses ya da hece değil, doğrudan bir kelime ya da ifadeyi anlatan sembollerin genel adı<br />Yazı biçemleri ile ilgili yukarıdaki kavram ve tanımların doğru eşleştirmesi aşağıdakilerin hangisinde verilmiştir?
+1. **Kavram**<br />1\. Piktogram<br />2\. İdeogram<br />3\. Trajan Kapital<br />4\. Logogram<br />5\. Hiyeroglif yazı<br />**Tanım**<br />1\. Bir düşünceyi betimlemek için kullanılan resim ya da grafik gibi basit göstergeler<br />2\. Bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgeler<br />3\. Herhangi bir ses ya da hece değil, doğrudan bir kelime ya da ifadeyi anlatan sembollerin genel adı<br />Yazı biçemleri ile ilgili yukarıdaki kavram ve tanımların doğru eşleştirmesi aşağıdakilerin hangisinde verilmiştir?
     - A-) 1-A, 2-B, 3-C
     - **Cevap B-) 1-B, 2-A, 4-C**
     - C-) 2-A, 3-C, 4-B
@@ -128,7 +128,8 @@
     - D-) Epigram
     - E-) Histogram
 
-    > **Açıklama:** Piktogramlar, bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelerdir
+    > **Açıklama:** YAZININ KEŞFİ İLE PİKTOGRAMİK VE FONETİK ALFABELERİN GELİŞİMİ
+    > Piktogramlar, bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelerdir
 
     ***
 1. Aşağıdaki uygarlıklardan hangisi yazıyı icat etmiştir?
@@ -138,7 +139,8 @@
     - D-) Mısırlılar
     - E-) Asurlular
 
-    > **Açıklama:** M.Ö. 3500 civarında yani günümüzden yaklaşık 5500 yıl önce yazıyı Sümerler icat etmiştir.
+    > **Açıklama:** YAZININ KEŞFİ İLE PİKTOGRAMİK VE FONETİK ALFABELERİN GELİŞİMİ
+    > M.Ö. 3500 civarında yani günümüzden yaklaşık 5500 yıl önce yazıyı Sümerler icat etmiştir.
 
     ***
 1. Aramic yazıların ilk defa kullanıldığı tarih aşağıdakilerden hangisidir?
@@ -148,7 +150,8 @@
     - D-) MS 3. yüzyıl
     - E-) MS100
 
-    > **Açıklama:** Aramic yazıların ilk defa yaklaşık MÖ 850’de Orta Doğu’da kullanıldığı bilinmektedir.
+    > **Açıklama:** YAZININ KEŞFİ İLE PİKTOGRAMİK VE FONETİK ALFABELERİN GELİŞİMİ
+    > Aramic yazıların ilk defa yaklaşık MÖ 850’de Orta Doğu’da kullanıldığı bilinmektedir.
 
     ***
 1. Aşağıdakilerden hangisi Fenikeliler tarafından gerçekleştirilmiştir?
@@ -158,7 +161,8 @@
     - D-) İlk uluslararası antlaşmayı imzaladılar
     - E-) Yazıyı icat ettiler
 
-    > **Açıklama:** Fonetik (sesçil) alfabe, MÖ 15.yy ile MÖ 8.yy arasında, Mısır, Kıbrıs, Girit, Yunan, Anadolu, Ortadoğu ve diğer Ege halkları ile ilişki içinde olan Fenikeliler tarafından geliştirilmiştir.
+    > **Açıklama:** Fonetik Alfabelerin Gelişimi
+    > Fonetik (sesçil) alfabe, MÖ 15.yy ile MÖ 8.yy arasında, Mısır, Kıbrıs, Girit, Yunan, Anadolu, Ortadoğu ve diğer Ege halkları ile ilişki içinde olan Fenikeliler tarafından geliştirilmiştir.
 
     ***
 1. Aşağıdakilerden hangisi dini bilgileri yayma gereksinimi için kullanılan el yazmalarıdır?
@@ -168,17 +172,19 @@
     - D-) Trajan
     - E-) Karolenj
 
-    > **Açıklama:** Dini bilgileri yayma gereksinimi ile manuscript adı verilen el yazmaları ortaya çıkmıştır.
+    > **Açıklama:** Fonetik Alfabelerin Gelişimi
+    > Dini bilgileri yayma gereksinimi ile manuscript adı verilen el yazmaları ortaya çıkmıştır.
 
     ***
 1. Gotik yazıların erken örnekleri hangi yüzyılda görülmüştür?
-    - **Cevap A-) 11. yy**
-    - B-) 3. yy
-    - C-) 15.yy
-    - D-) 7.yy
-    - E-) 5.yy
+    - **Cevap A-) 11\. yy**
+    - B-) 3\. yy
+    - C-) 15\.yy
+    - D-) 7\.yy
+    - E-) 5\.yy
 
-    > **Açıklama:** Gotik yazıların 11. yüzyılda erken örnekleri görülmüştür.
+    > **Açıklama:** Fonetik Alfabelerin Gelişimi
+    > Gotik yazıların 11. yüzyılda erken örnekleri görülmüştür.
 
     ***
 1. Bu dönemde \_\_\_\_\_\_\_, harflerin kesilmesi, dizilmesi, basılması süreçlerinin tamamını yürüten kişi idi.<br />Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -188,7 +194,8 @@
     - D-) Stenograf
     - E-) Siklograf
 
-    > **Açıklama:** Bu dönemde tipograf, harflerin kesilmesi, dizilmesi, basılması süreçlerinin tamamını yürüten kişi idi.
+    > **Açıklama:** MATBAA VE HURUFAT TEKNOLOJİSİ
+    > Bu dönemde tipograf, harflerin kesilmesi, dizilmesi, basılması süreçlerinin tamamını yürüten kişi idi.
 
     ***
 1. Gutenberg tarafından basılan ilk ürün aşağıdakilerden hangisidir?
@@ -198,7 +205,8 @@
     - D-) Kağıt para
     - E-) Ölüm ilanı
 
-    > **Açıklama:** Gutenberg, basımcılığı geliştirme hedefinde ih-tiyaç duyduğu maddi desteği avukat Johann Fust ile ortak olarak sağlamıştır. 1448’de basılan Astro-nomi Takvimi, basımevinin bilinen ilk ürünüdür.
+    > **Açıklama:** Matbaa ve Hurufat Teknolojisi
+    > Gutenberg, basımcılığı geliştirme hedefinde ih-tiyaç duyduğu maddi desteği avukat Johann Fust ile ortak olarak sağlamıştır. 1448’de basılan Astro-nomi Takvimi, basımevinin bilinen ilk ürünüdür.
 
     ***
 1. Osmanlı Devleti'nde basılan ilk kitap Aşağıdakilerden hangisidir?
@@ -208,7 +216,8 @@
     - D-) Tarih-i Seyyah
     - E-) Gülşen-i Hülefa
 
-    > **Açıklama:** İki cilt halinde basılan Arapça sözlük, Vankulu Lügatı, basılan ilk kitaptır.
+    > **Açıklama:** Matbaa ve Hurufat Teknolojisi
+    > İki cilt halinde basılan Arapça sözlük, Vankulu Lügatı, basılan ilk kitaptır.
 
     ***
 1. Aşağıdakilerden hangisi ile ilk defa geniş sayfalarda basımlar yapılabilmiştir?
@@ -218,7 +227,8 @@
     - D-) Ofset
     - E-) Fligran
 
-    > **Açıklama:** Linotype, Ottmar Mergenthaler tarafından 1886 yılında icat edilmiştir. Klavye, çoğaltma kalıbı mağazası ve kurşun döküm birimiyle sıcak kurşun satır dökümü yapan bir makine olarak tasarlanmıştır. Bu döneme kadar matbaada basılabilen boyutlar sınırlı iken, Linotype ile geniş sayfalarda basımlar yapılabilmiştir.
+    > **Açıklama:** LİNOTYPE VE MONOTYPE TEKNOLOJİLERİ
+    > Linotype, Ottmar Mergenthaler tarafından 1886 yılında icat edilmiştir. Klavye, çoğaltma kalıbı mağazası ve kurşun döküm birimiyle sıcak kurşun satır dökümü yapan bir makine olarak tasarlanmıştır. Bu döneme kadar matbaada basılabilen boyutlar sınırlı iken, Linotype ile geniş sayfalarda basımlar yapılabilmiştir.
 
     ***
 1. Aşağıdakilerden hangisi bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgeyi tanımlar?
@@ -281,7 +291,7 @@
     > **Açıklama:** Lidyalılar ise madeni sikkeleri icat ederek değiş-tokuş ile yapılan ticareti para ile yapmaya başlamışlardır
 
     ***
-1. Phaistos Diski üzerindeki ilk piktogramları hangi medeniyet  bulunmuştur.
+1. Phaistos Diski üzerindeki ilk piktogramları hangi medeniyet bulunmuştur.
     - **Cevap A-) Girit**
     - B-) Asur
     - C-) Mısır
@@ -329,7 +339,7 @@
     - D-) MÖ 1.000ler
     - E-) MS 1.500ler
 
-    > **Açıklama:** Lascaux Mağarası (Güney Fransa) duvarlarında buluntulanan el çizimleri ile Altamira Mağarası (Kuzey İspanya) duvarlarında buluntulanan boğa ve bizon çizimleri MÖ 15.000lere aittir (Becer, 1997).
+    > **Açıklama:** Tarihsel süreçte, yazının keşfinden önce, MÖ 25.000 ile 20.000 yıllarında insanların mağara duvarlarına türlü amaçlar için çeşitli desenler çizdikleri bilinmektedir. Lascaux Mağarası (Güney Fransa) duvarlarında buluntulanan el çizimleri ile Altamira Mağarası (Kuzey İspanya) duvarlarında buluntulanan boğa ve bizon çizimleri MÖ 15.000lere aittir (Becer, 1997). Ancak günümüzde bu resimler yapılmış olsaydı da, hangi döneme ait olduğunu ilk bakışta anlamakta zorlanabilirdik (Frascara, 2004).
 
     ***
 1. "14.500 yıl öncesine ait Altamira mağarasındaki kırmızı ve siyah paleolitik bizon resimleri ..........'da bulunmaktadır." ifadesindeki boşluğa aşağıdaki ülkelerden hangisi gelmelidir?
@@ -339,7 +349,7 @@
     - D-) Fransa
     - E-) Finlandiya
 
-    > **Açıklama:** 14.500 yıl öncesine ait Altamira mağarasındaki kırmızı ve siyah paleolitik bizon resimleri, Santillana del Mar, Cantabria, İspanya’da bulunmaktadır.
+    > **Açıklama:** Görsel 1.2 14.500 yıl öncesine ait Altamira mağarasındaki kırmızı ve siyah paleolitik bizon resimleri, Santillana del Mar, Cantabria, İspanya’da bulunmaktadır.
 
     ***
 1. "Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ........ denir." ifadesindeki boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -359,7 +369,8 @@
     - D-) Tipografi
     - E-) Alfabe
 
-    > **Açıklama:** Piktogramlar, bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelerdir.
+    > **Açıklama:** Piktogramlar, bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelerdir (Becer, 1997).
+    > Piktogramlar, bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelerdir.
 
     ***
 1. "İsmi, M.Ö 2000’lerde icat edildiği Bergama’dan gelen .............., özel yöntemlerle hazırlanarak kağıda benzer bir özellik kazanan hayvan derisidir. Üretim süresi uzun ve zahmetli olmakla birlikte dayanıklı bir yazı yüzeyi olması nedeniyle tercih edilmiştir." ifadesigndeki boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -369,7 +380,7 @@
     - D-) Piktogram
     - E-) Paleolitik
 
-    > **Açıklama:** İsmi, M.Ö 2000’lerde icat edildiği Bergama’dan gelen Parşömen, özel yöntemlerle hazırlanarak kağıda benzer bir özellik kazanan hayvan derisidir. Üretim süresi uzun ve zahmetli olmakla birlikte dayanıklı bir yazı yüzeyi olması nedeniyle tercih edilmiştir.
+    > **Açıklama:** El yazmaları için kağıt benzeri bir tabaka olan papirüs, Mısır’da iletişim açısından önemli bir adımdır. Papirüs bitkisi, antik çağda Nil Nehri kıyısı boyunca sığ bataklıklarda yetişen bir bitkiydi. Bu bitki, üzerine yazı yazmak dışında yelken, hasır, kumaş, ip yapımında; yakıt olarak ve tapınaklarda çelenkler hazırlamak için kullanılmıştır. İsmi, M.Ö 2000’lerde icat edildiği Bergama’dan gelen Parşömen, özel yöntemlerle hazırlanarak kağıda benzer bir özellik kazanan hayvan derisidir. Üretim süresi uzun ve zahmetli olmakla birlikte dayanıklı bir yazı yüzeyi olması nedeniyle tercih edilmiştir.
 
     ***
 1. Herhangi bir ses ya da hece değil, doğrudan bir kelime ya da ifadeyi anlatan sembollere verilen genel ad aşağıdakilerlen hangisidir?
@@ -392,7 +403,7 @@
     > **Açıklama:** Fonetik (sesçil) alfabe, piktogramik alfabelerden tamamen farklı olarak, seslerin yazılı olarak gösterilmesini sağlayan semboller veya harfler bütünüdür.
 
     ***
-1. Gutenberg tarafından hareketli (değiştirilebilir) hurufat tekniğinin kullanımı ile ortaya çıkan ve bu dönemde harflerin kesilmesi, dizilmesi, basılması süreçlerinin tamamını yürüten ve baskı öncesi gerekli olan işlevsel ve estetik düzenlemeleri yapan kişilere verilen isim aşağıdakilerden hangisiydi?
+1. Gutenberg tarafından hareketli (değiştirilebilir) hurufat tekniğinin kullanımı ile ortaya çıkan ve bu dönemde harflerin kesilmesi, dizilmesi, basılması süreçlerinin tamamını yürüten ve baskı öncesi gerekli olan işlevsel ve estetik düzenlemeleri yapan kişilere verilen isim aşağıdakilerden hangisiydi?
     - A-) Hurufat
     - B-) Grafiker
     - **Cevap C-) Tipograf**
@@ -409,7 +420,7 @@
     - D-) Monotype
     - **Cevap E-) Linotype**
 
-    > **Açıklama:** Linotype, Ottmar Mergenthaler tarafından 1886 yılında icat edilmiştir. Klavye, çoğaltma kalıbı mağazası ve kurşun döküm birimiyle sıcak kurşun satır dökümü yapan bir makine olarak tasarlanmıştır. Bu döneme kadar matbaada basılabilen boyutlar sınırlı iken, Linotype ile geniş sayfalarda basımlar yapılabilmiştir.
+    > **Açıklama:** Linotype, Ottmar Mergenthaler tarafından 1886 yılında icat edilmiştir. Klavye, çoğaltma kalıbı mağazası ve kurşun döküm birimiyle sıcak kurşun satır dökümü yapan bir makine olarak tasarlanmıştır. Bu döneme kadar matbaada basılabilen boyutlar sınırlı iken, Linotype ile geniş sayfalarda basımlar yapılabilmiştir. Linotype sisteminde klavye ile, her satırı mükemmel bir şekilde doldurmak için kelimeleri otomatik olarak birbirinden ayıran konik boşluk bantları da dahil olmak üzere, metnin her satırını oluşturmak için gereken düzenlemeler yapılır (Solomon, 1994).
 
     ***
 1. Basımevinde baskısının yapıldığı belgelenen ilk kitap olan ve Gutenberg tarafından basılan 42-Line Bible (Kırkiki Satırlı İncil) hangi tarihte basılmıştır?
@@ -419,7 +430,7 @@
     - D-) 1990
     - E-) 1350
 
-    > **Açıklama:** Matbaa ve hurufat teknolojisi Gutenberg ile gelişmekte iken tek bir harf için bile yedek harfler, boşluklar, noktalamalar planlanmaktaydı. 1455’te Gutenberg tarafından basılan kitap için yaklaşık üç yüz farklı harf biçimi döktüğü düşünülmektedir (Garfield, 2012). 1455 yılında, basımevinde baskısının yapıldığı belgelenen ilk kitap olan, 42-Line Bible (Kırkiki Satırlı İncil) basılmıştır.
+    > **Açıklama:** Matbaa ve hurufat teknolojisi Gutenberg ile gelişmekte iken tek bir harf için bile yedek harfler, boşluklar, noktalamalar planlanmaktaydı. 1455’te Gutenberg tarafından basılan kitap için yaklaşık üç yüz farklı harf biçimi döktüğü düşünülmektedir (Garfield, 2012). 1455 yılında, basımevinde baskısının yapıldığı belgelenen ilk kitap olan, 42-Line Bible (Kırkiki Satırlı İncil) basılmıştır.
 
     ***
 ## Unite 2
@@ -430,7 +441,8 @@
     - **Cevap D-) William Caslon**
     - E-) William Bulmer
 
-    > **Açıklama:** William Caslon
+    > **Açıklama:** GİRİŞ
+    > William Caslon
 
     ***
 1. Modern sanat akımlarından etkilenen Yeni Tipografi akımı çerçevesinde oldukça çok tırnaksız yazı karakterleri tasarlanmıştır. Edward Johnston tarafından tasarlanan ve değişmeden, sürekli olarak tabelalarda, afişlerde ve tanıtımlarda kullanılmakta olan yazı karakteri aşağıdaki seçeneklerden hangisidir?
@@ -440,7 +452,8 @@
     - D-) Helvetica
     - E-) Garamond
 
-    > **Açıklama:** Railway Type
+    > **Açıklama:** MODERN SANAT AKIMLARI BAĞLAMINDA YENİ TİPOGRAFİ
+    > Railway Type
 
     ***
 1. Tipografide kavramsallık, yazının görselle bütünleşmesi, harflerin birer görsel imaj haline gelmesiyle görsel bir ifadeye sahip olmasıdır. Gerçek anlamda kavramsal tipografik tasarımları ilk başlatan sanatçılar kimlerdir?
@@ -450,7 +463,8 @@
     - D-) Maniherist sanatçılar
     - **Cevap E-) Fütürist sanatçılar**
 
-    > **Açıklama:** Fütürist sanatçılar
+    > **Açıklama:** Fütürist Tipografi
+    > Fütürist sanatçılar
 
     ***
 1. Dadaist Tipografi çalışmalarında, Dadaist sanatçıların tasarımlarının ortak özelliği aşağıdaki seçeneklerden hangisidir?
@@ -460,7 +474,8 @@
     - D-) Resimli afişin öncüsü olmaları
     - E-) Çiçek motifleri, organik biçimlerin kullanılması
 
-    > **Açıklama:** Diyagonal bir veya iki satır metin kullanılması
+    > **Açıklama:** Dadaist Tipografi
+    > Diyagonal bir veya iki satır metin kullanılması
 
     ***
 1. Sovyet Devrimi esnasında ortaya çıkan, grafik tasarımı ve tipografiyi etkileyen sanat akımı olan, Konstrüktivizmin içeriklerinin formülleşmesi konusunda ilk girişimi başlatan kimdir?
@@ -470,17 +485,19 @@
     - D-) Vladimir Tatlin
     - E-) El Lissitzky
 
-    > **Açıklama:** Alexei Gan
+    > **Açıklama:** Konstrüktivizm
+    > Alexei Gan
 
     ***
-1. 20.yüzyılın başlarında görsel sanatların tüm alanlarında görülmeye başlayan De Stijl akımının sanat anlayışı aşağıdaki hangi seçenektir?
+1. 20\.yüzyılın başlarında görsel sanatların tüm alanlarında görülmeye başlayan De Stijl akımının sanat anlayışı aşağıdaki hangi seçenektir?
     - **Cevap A-) Düz çizgi, dik açı ve üç belirli renk**
     - B-) Bart van der Leck tarafından saf renklerin kullanılması
     - C-) Soyutlamayı temel alan sanat kuramının benimsenmesi
-    - D-) Piet Mondrian’ın  sanat hareketinin felsefesinin yaratıcısı olması
+    - D-) Piet Mondrian’ın sanat hareketinin felsefesinin yaratıcısı olması
     - E-) De Stijl akımının öncüsü Theo van Doesburg’tur
 
-    > **Açıklama:** Düz çizgi, dik açı ve üç belirli renk
+    > **Açıklama:** De Stijl Etkisinde Tipografi
+    > Düz çizgi, dik açı ve üç belirli renk
 
     ***
 1. Yeni Tipografi Hareketi, tasarımcıların geleneksel tipografi kullanımının sınırlarından kurtulmasını sağlamıştır. Yeni Tipografiyinin öncüsü olarak kabul edilen tasarımcı kimdir?
@@ -490,7 +507,7 @@
     - **Cevap D-) Jan Tschichold**
     - E-) Herbert Matter
 
-    > **Açıklama:** Jan Tschichold
+    > **Açıklama:** Yeni Tipografi ve Öncüsü Jan Tschichold
 
     ***
 1. Grafik tasarımda 1950’liler yeni teknolojilerin sunduğu olanaklarla ifade edilen yaklaşımların hakim olduğu bir dönemdir. Amerikan Grafik Tasarımına modernizim hangi tasarımcı ile uyarlanmıştır?
@@ -500,7 +517,8 @@
     - D-) Saul Bass
     - E-) Robert Brownjohn
 
-    > **Açıklama:** Paul Rand
+    > **Açıklama:** TİPOGRAFİDE İLETİŞİM ÇAĞI
+    > Paul Rand
 
     ***
 1. De Stijl, Konstrüktivizm, Bauhaus ve Yeni tipografi akımlarının anlayışını taşıyan bir hareket olan İsviçre Tipografi çalışmalarında, sans serif yazı karakteri niçin tercih edilmiştir?
@@ -510,7 +528,8 @@
     - D-) Sanatsal düzenlemelere uygun olduğu için
     - **Cevap E-) Okunaklı olduğu için**
 
-    > **Açıklama:** Okunaklı olduğu için
+    > **Açıklama:** İsviçre Tipografisi
+    > Okunaklı olduğu için
 
     ***
 1. New York Okulu, hangi sanat akımlarının etkisiyle ortaya çıkmıştır?
@@ -520,17 +539,18 @@
     - D-) Orta Amerika Sanat akımlarının etkisiyle
     - E-) Avrupa klasik sanat akımlarının etkisiyle
 
-    > **Açıklama:** Avrupa modern sanat akımlarının etkisiyle
+    > **Açıklama:** New York Okulu
+    > Avrupa modern sanat akımlarının etkisiyle
 
     ***
-1. Tipografide aşağıdaki hangi yüzyılda bir devrimin  etkisiyle üretken bir dönem başlamış ve teknolojik gelişmelerle yaratıcı formlar ortaya çıkmıştır.
-    - A-) 16. yüzyılda
-    - B-) 17. yüzyılda
-    - C-) 18. Yüzyılda
-    - **Cevap D-) 19. Yüzyılda**
-    - E-) 20. Yüzyılda
+1. Tipografide aşağıdaki hangi yüzyılda bir devrimin etkisiyle üretken bir dönem başlamış ve teknolojik gelişmelerle yaratıcı formlar ortaya çıkmıştır.
+    - A-) 16\. yüzyılda
+    - B-) 17\. yüzyılda
+    - C-) 18\. Yüzyılda
+    - **Cevap D-) 19\. Yüzyılda**
+    - E-) 20\. Yüzyılda
 
-    > **Açıklama:** Tipografide 19. Yüzyılda Sanayi Devriminin etkisiyle üretken bir dönem başlamış ve teknolojik
+    > **Açıklama:** Tipografide 19. Yüzyılda Sanayi Devriminin etkisiyle üretken bir dönem başlamış ve teknolojik
     > gelişmelerle yaratıcı formlar ortaya çıkmıştır. Bu nedenle doğru yanıt D şıkkıdır, diğer şıklardaki ifadeler uygun değildir.
 
     ***
@@ -541,81 +561,90 @@
     - D-) 1995
     - E-) 2016
 
-    > **Açıklama:** 1800’lü yılların başlarında görülen bir diğer yenilik tırnaksız (sans serif) yazı karakteri olmuştur. William Caslon tarafından 1816 yılında tasarlanan bir kitapta kullanılmıştır.
+    > **Açıklama:** 1800’lü yılların başlarında görülen bir diğer yenilik tırnaksız (sans serif) yazı karakteri olmuştur. William Caslon tarafından 1816 yılında tasarlanan bir kitapta kullanılmıştır.
     > Bu nedenle C doğru diğer şıklar ise uygun değildir.
 
     ***
-1. Aşağıdakilerin hangisinde  Gotik harflere göre daha geniş tasarlanmış, birbirini anımsatan karakterlerinde farklılaşmalar yaratılmış ve harflerin köşeleri yuvarlatılmıştır?
+1. Aşağıdakilerin hangisinde Gotik harflere göre daha geniş tasarlanmış, birbirini anımsatan karakterlerinde farklılaşmalar yaratılmış ve harflerin köşeleri yuvarlatılmıştır?
     - A-) Pickering
     - B-) Chaucer
     - C-) Linotype
     - **Cevap D-) Troy**
     - E-) Venedik Romen
 
-    > **Açıklama:** Troy yazı karakteri, Gotik harflere göre daha geniş tasarlanmış, birbirini anımsatan karakterlerinde farklılaşmalar yaratılmış ve harflerin köşeleri yuvarlatılmıştır. Doğru yanıt D dir. Diğer şıklar bu bağlamda uygun değildir.
+    > **Açıklama:** Troy yazı karakteri, Gotik harflere göre daha geniş tasarlanmış, birbirini anımsatan karakterlerinde farklılaşmalar yaratılmış ve harflerin köşeleri yuvarlatılmıştır. Doğru yanıt D dir. Diğer şıklar bu bağlamda uygun değildir.
 
     ***
-1. Aşağıdakilerden hangisinde dört renk baskısı gelişmiş ve çok renkli tasarımlarla doku çeşitliliği de gün yüzüne çıkmıştır?
+1. Aşağıdakilerden hangisinde dört renk baskısı gelişmiş ve çok renkli tasarımlarla doku çeşitliliği de gün yüzüne çıkmıştır?
     - **Cevap A-) 1830’lu yıllarda**
     - B-) 1815 yılında
     - C-) 1798'lerde
     - D-) 1995'de
     - E-) 1816'da
 
-    > **Açıklama:** 1830’lu yıllarda dört renk baskısı gelişmiş ve çok renkli tasarımlarla doku çeşitliliği de
+    > **Açıklama:** 1830’lu yıllarda dört renk baskısı gelişmiş ve çok renkli tasarımlarla doku çeşitliliği de
     > gün yüzüne çıkmıştır. Bu nedenle doğru yanıt A şıkkıdir, diğer şıklardaki ifadeler uygun değildir.
 
     ***
-1. Aşağıdakilerden hangisi İngiliz Sanat ve El Sanatları bakış açısını Avrupalı izleyici kitlesine tanıtmak için tasarlanmıştır?
+1. Aşağıdakilerden hangisi İngiliz Sanat ve El Sanatları bakış açısını Avrupalı izleyici kitlesine tanıtmak için tasarlanmıştır?
     - A-) Dream of John Ball
     - B-) Order of Chivalry Chaucer
     - C-) Glittering Plain
     - D-) The Elements of Euclid
     - **Cevap E-) Hobby Horse**
 
-    > **Açıklama:** Hobby Horse, İngiliz Sanat ve El Sanatları bakış açısını Avrupalı izleyici kitlesine tanıtmak için tasarlanmıştır.
+    > **Açıklama:** Hobby Horse, İngiliz Sanat ve El Sanatları bakış açısını Avrupalı izleyici kitlesine tanıtmak için tasarlanmıştır.
 
     ***
-1. Aşağıdaki sanatçılardan  hangisi 1886 yılında Paris’te açtığı basımevinde gerçekleştirdiği ilk afiş<br />olan Sarah Bernhardt’ın rol aldığı La Biche au Bois adlı oyunu duyuran bir tasarımla resimli afişin öncüsü olarak tarihe geçmiştir?
+1. Aşağıdaki sanatçılardan hangisi 1886 yılında Paris’te açtığı basımevinde gerçekleştirdiği ilk afiş<br />olan Sarah Bernhardt’ın rol aldığı La Biche au Bois adlı oyunu duyuran bir tasarımla resimli afişin öncüsü olarak tarihe geçmiştir?
     - A-) Bauer
     - **Cevap B-) Chéret**
     - C-) Klingspor
     - D-) Stempel
     - E-) Tschichold
 
-    > **Açıklama:** Chéret’in 1886 yılında Paris’te açtığı basımevinde gerçekleştirdiği ilk afiş olan Sarah Bernhardt’ın rol aldığı La Biche au Bois adlı oyunu duyuran bir tasarımla resimli afişin öncüsü olarak tarihe geçmiştir. Doğru yanıt B şıkkıdır. Diğer şıklar uygun değildir.
+    > **Açıklama:** Chéret’in 1886 yılında Paris’te açtığı basımevinde gerçekleştirdiği ilk afiş olan Sarah Bernhardt’ın rol aldığı La Biche au Bois adlı oyunu duyuran bir tasarımla resimli afişin öncüsü olarak tarihe geçmiştir. Doğru yanıt B şıkkıdır. Diğer şıklar uygun değildir.
 
     ***
-1. Aşağıdakilerden hangisi Fütürizm ile birlikte göze çarpan ve duygu aktarımı ön planda olan, Tasarım, fontun sahip olduğu yazı ailesinin bütün üyeleriyle zenginleşmekte olan ve mesajın anlamını destekleyen nesne kullanımı gözlendiği kavramdır?
+1. Aşağıdakilerden hangisi Fütürizm ile birlikte göze çarpan ve duygu aktarımı ön planda olan, Tasarım, fontun sahip olduğu yazı ailesinin bütün üyeleriyle zenginleşmekte olan ve mesajın anlamını destekleyen nesne kullanımı gözlendiği kavramdır?
     - A-) Mallarmé
     - B-) Un Coup
     - **Cevap C-) özgür sözcük**
     - D-) a Dadaizm
     - E-) Kaligram
 
-    > **Açıklama:** Fütürizm ile birlikte özgür sözcük kavramı göze çarpmaktadır. Bu kavramla duygu aktarımı ön
-    > plandadır. Tasarım, fontun sahip olduğu yazı ailesinin bütün üyeleriyle zenginleşmektedir. Buna ek olarak da mesajın anlamını destekleyen nesne kullanımı
-    > gözlenmektedir
+    > **Açıklama:** Fütürizm ile birlikte özgür sözcük kavramı göze çarpmaktadır. Bu kavramla duygu aktarımı ön
+    > plandadır. Tasarım, fontun sahip olduğu yazı ailesinin bütün üyeleriyle zenginleşmektedir. Buna ek olarak da mesajın anlamını destekleyen nesne kullanımı gözlenmektedir.
 
     ***
-1. Fütürizmde Seslerin ve hareketin kullanımının en önemli örneği Marinetti, Zang Tumb Tumb adlı şiiri olan ve burada seslerin anlamı yansıtacak şekilde ifade edilmesi için teknik dizimi göze çarpan akım aşağıdakilerin hangisidir?
+1. Fütürizmde Seslerin ve hareketin kullanımının en önemli örneği Marinetti, Zang Tumb Tumb adlı şiiri olan ve burada seslerin anlamı yansıtacak şekilde ifade edilmesi için teknik dizimi göze çarpan akım aşağıdakilerin hangisidir?
     - A-) Kübizm
     - B-) Art Nouveau
     - C-) Dadaizm
     - **Cevap D-) Fütürizm**
     - E-) Secessionstil
 
-    > **Açıklama:** Fütürizmde seslerin ve hareketin kullanımının en önemli örneği Marinetti, Zang Tumb Tumb adlı şiiridir (Görsel 2.7). Burada seslerin anlamı yansıtacak şekilde ifade edilmesi için teknik dizimi göze çarpmaktadır.
+    > **Açıklama:** Fütürizmde seslerin ve hareketin kullanımının en önemli örneği Marinetti, Zang Tumb Tumb adlı şiiridir (Görsel 2.7). Burada seslerin anlamı yansıtacak şekilde ifade edilmesi için teknik dizimi göze çarpmaktadır.
 
     ***
-1. Merz dergisine yaptığı çalışmalarla  ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğrafları manipüle eden dergisine yaptığı çalışmalarla (Görsel 2.13) ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğraflarını manipüle ederek bütünleştiren sanatçı aşağıdakilerin hangisidir?
+1. Aşağıdakilerden hangisi sayfa üzerinde tasarımı anlamlı hale getirirken aynı zamanda görsel şiire de katkı sağlamıştır?
+    - A-) Bradley
+    - **Cevap B-) Apollinaire**
+    - C-) Saussure
+    - D-) Carol
+    - E-) Blackwell
+
+    > **Açıklama:** Apollinaire, sayfa üzerinde tasarımı anlamlı hale getirirken aynı zamanda görsel şiire de katkı sağlamıştır.
+
+    ***
+1. Merz dergisine yaptığı çalışmalarla ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğrafları manipüle eden dergisine yaptığı çalışmalarla (Görsel 2.13) ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğraflarını manipüle ederek bütünleştiren sanatçı aşağıdakilerin hangisidir?
     - A-) Stephan Mallarmé
     - B-) Vienne
     - C-) El Lissitzky
     - **Cevap D-) Kurt Schwitters**
     - E-) Alexander Rodchenko
 
-    > **Açıklama:** Dadaist Kurt Schwitters, Merz dergisine yaptığı çalışmalarla  ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğrafları manipüle ede dergisine yaptığı çalışmalarla (Görsel 2.13) ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğrafları manipüle ederek bütünleştirmiştir.
+    > **Açıklama:** Dadaist Kurt Schwitters, Merz dergisine yaptığı çalışmalarla ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğrafları manipüle ede dergisine yaptığı çalışmalarla (Görsel 2.13) ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğrafları manipüle ederek bütünleştirmiştir.
     > Bundan dolayı doğru yanıt D şıkkıdır. Diğer şıklar uygun değildir.
 
     ***
@@ -623,8 +652,8 @@
     - A-) Fransız Devrimi
     - **Cevap B-) Sanayi Devrimi**
     - C-) Rusya Devrimi
-    - D-) 2. Dünya Savaşı
-    - E-) 1. Dünya Savaşı
+    - D-) 2\. Dünya Savaşı
+    - E-) 1\. Dünya Savaşı
 
     > **Açıklama:** Tipografide 19. Yüzyılda Sanayi Devriminin etkisiyle üretken bir dönem başlamış ve teknolojik gelişmelerle yaratıcı formlar ortaya çıkmıştır. Sanayi devrimi tipografide ekonomik bir rol oynayarak afiş tasarımcılarının, reklamcıların ve matbaacıların yayılmasına olanak tanımıştır. Bu süreçte el yazmalarının karşılamadığı yazı karakterlerinde, sayfa düzeninde, renklerde görsel etkilerle ilgili yeni talepler doğmuştur. Yazı karakteri tasarımlarında alışık olmadık kalın harfler ortaya çıkmaya başlamıştır. Özellikle Robert Thorne ile harflerde vuruşların kalınlığı genişletilmiş, kalın, şişman yazı karakterleri görülmeye başlamıştır. 1800’lü yılların başlarında görülen bir diğer yenilik tırnaksız (sans serif) yazı karakteri olmuştur. William Caslon tarafından 1816 yılında tasarlanan bir kitapta kullanılmıştır.
 
@@ -676,7 +705,7 @@
     - D-) Georges Vantongerloo
     - E-) Picasso
 
-    > **Açıklama:** El Lissitzky: Lissitzky, zamanla afiş ve kitap kapağı tasarımlarına ilgi duymuştur. Lissitzky’nin o dönemin
+    > **Açıklama:** El Lissitzky: Lissitzky, zamanla afiş ve kitap kapağı tasarımlarına ilgi duymuştur. Lissitzky’nin o dönemin
     > ilk akla gelen eseri “Beyazları Kırmızı Kamayla Vurun” adlı propaganda afişi olmuştur. Sanatçı, kızıl, beyaz renkler ve geometrik
     > şekiller ile toplumun belirli kesimlerini simgelemiştir.
 
@@ -688,7 +717,7 @@
     - D-) El Lissitzky
     - **Cevap E-) Theo Van Doesburg**
 
-    > **Açıklama:** 20. yüzyılın başlarında görsel sanatların tüm alanlarında görülmeye başlayan De Stijl akımının öncüsü Theo van Doesburg’tur. Van Doesburg her zaman sanatta yeni ifade arayışlarında olmuştur. Van Doesburg önceleri resmin yanında mimari alanında çalışmalar yaparken sonraları maddi ve manevi dünyası arasında bir bağlantı kurmak için sözcüklere yönelen çok yönlü bir sanatçı olarak görülmüştür.
+    > **Açıklama:** 20\. yüzyılın başlarında görsel sanatların tüm alanlarında görülmeye başlayan De Stijl akımının öncüsü Theo van Doesburg’tur. Van Doesburg her zaman sanatta yeni ifade arayışlarında olmuştur. Van Doesburg önceleri resmin yanında mimari alanında çalışmalar yaparken sonraları maddi ve manevi dünyası arasında bir bağlantı kurmak için sözcüklere yönelen çok yönlü bir sanatçı olarak görülmüştür.
 
     ***
 1. Walter Gropius’un öncülüğünde 1919 tarihinde açılan çağdaş sanat ve tasarım anlayışı amaçlayan bir sanat ve tasarım okulu olarak gelişen ekol aşağıdakilerden hangisidir?
@@ -738,7 +767,18 @@
     - D-) Duygu aktarımı
     - **Cevap E-) Renk aktarımı**
 
-    > **Açıklama:** 20. Yüzyıla gelindiğinde görsel dil arayışları sonucunda oluşan biçimsel sanat hareketlerine rastlanmıştır. Bunlardan biri olan bağımsız tasarım anlayışını içeren Kübizm akımıdır. Bu akımda geometrik stilizasyonlarla, kolajlarla mekan ve duygu aktarımında yeni bir yaklaşım görülmektedir. Doğru yanıt E'dir.
+    > **Açıklama:** 20\. Yüzyıla gelindiğinde görsel dil arayışları sonucunda oluşan biçimsel sanat hareketlerine rastlanmıştır. Bunlardan biri olan bağımsız tasarım anlayışını içeren Kübizm akımıdır. Bu akımda geometrik stilizasyonlarla, kolajlarla mekan ve duygu aktarımında yeni bir yaklaşım görülmektedir. Doğru yanıt E'dir.
+
+    ***
+1. Aşağıdakilerden hangisi serbest dizgede inşa edilmiş yazı karakterlerinin kullanıldığı bir görsel dile sahiptir?
+    - **Cevap A-) Kübizm**
+    - B-) Art Nouveau
+    - C-) Asimetrik kompozisyon
+    - D-) Konstrüktivizm
+    - E-) Fütürizm
+
+    > **Açıklama:** Kübizmin hakim olduğu tasarımlarda özgün, serbest dizgede inşa edilmiş yazı karakterleri kullanılmıştır. Çalışmalarda keçi, boğa, güvercin ve insan yüzü gibi illüstratif öğeler
+    > de yer almıştır. Doğru yanıt A'dır.
 
     ***
 1. Oluşturulan kompozisyonların simetrik olmamasına rağmen asimetrik oluşlarında bir dengenin hakim olduğu tipografi akımı hangi isimle anılmaktadır?
@@ -751,7 +791,7 @@
     > **Açıklama:** Yeni Tipografi olarak adlandırılan harekette, modernist tasarımcılar, simetrik sütunlarda geleneksel yazı düzenlemesini reddederek, basılı sayfa üzerinde asimetrik kompozisyon arayışlarına gitmişlerdir. Kompozisyonlar simetrik olmamasına rağmen asimetrik oluşlarında da bir denge hakimdir. Doğru yanıt B'dir.
 
     ***
-1. Edward Johnston tarafından tasarlanan ve Johnston olarak adlandırılan yazı tipi dünyadaki hangi ünlü metro sistemiyle özdeşleşmiştir?
+1. Edward Johnston tarafından tasarlanan ve Johnston olarak adlandırılan yazı tipi dünyadaki hangi ünlü metro sistemiyle özdeşleşmiştir?
     - A-) New York
     - B-) Moskova
     - **Cevap C-) Londra**
@@ -768,7 +808,7 @@
     - **Cevap D-) Will Bradley**
     - E-) Kurt Schwitters
 
-    > **Açıklama:** Will Bradley Art Nouveau temsilcisi olarak yazı karakteri tasarımı, illüstrasyonlar, kitap tasarımı gibi grafik ürünlerle ilgilenmiştir. Diğer isimler ise Yeni Tipografi düşüncesinin ilk tohumlarını gün yüzüne çıkaran görüşlere sahiplerdir. Doğru yanıt D'dir.
+    > **Açıklama:** Will Bradley Art Nouveau temsilcisi olarak yazı karakteri tasarımı, illüstrasyonlar, kitap tasarımı gibi grafik ürünlerle ilgilenmiştir. Diğer isimler ise Yeni Tipografi düşüncesinin ilk tohumlarını gün yüzüne çıkaran görüşlere sahiplerdir. Doğru yanıt D'dir.
 
     ***
 1. Matematiksel olarak oluşturulmuş bir ızgara sistemi üzerinde asimetrik kompozisyon düzenlemeleri yapılan, sol ve sağ kenar boşluklarında düzen arayışı bulunmayan tipografi hareketinin adı nedir?
@@ -821,7 +861,8 @@
     - D-) İsviçre Tipografisi
     - E-) Fütürist Tipografi
 
-    > **Açıklama:** Sayısal Tipografi
+    > **Açıklama:** GİRİŞ
+    > Sayısal Tipografi
 
     ***
 1. Sayısal tipografi teknolojisi ne zaman başlamıştır?
@@ -831,7 +872,8 @@
     - **Cevap D-) Fotodizgi sonrası bilgisayarın keşfi ile başlamıştır**
     - E-) Yeni Tipografi hareketi sonucu başlamıştır
 
-    > **Açıklama:** Fotodizgi sonrası bilgisayarın keşfi ile başlamıştır
+    > **Açıklama:** SAYISAL TİPOGRAFİ TEKNOLOJİLERİ
+    > Fotodizgi sonrası bilgisayarın keşfi ile başlamıştır
 
     ***
 1. Bilgisayarlar için üretilen **postscript**, yazılımını açıklayan seçenek aşağıdakilerden hangisidir?
@@ -841,7 +883,8 @@
     - D-) Sayfa düzenleme programıdır
     - E-) Grafik görüntüleme yöntemidir
 
-    > **Açıklama:** Grafik ve yazıların tanınmasına ve çıktı alınmasını sağlayan bir tanımlama dilidir
+    > **Açıklama:** PostScript
+    > Grafik ve yazıların tanınmasına ve çıktı alınmasını sağlayan bir tanımlama dilidir
 
     ***
 1. 1984 yılından 2005 yılına kadar her üç ayda bir olmak üzere çıkarılan Emigre dergisinin önemi nedir?
@@ -851,7 +894,8 @@
     - **Cevap D-) Sayısal tipografinin nasıl şekillendirildiğinin ilk örneklerinin yayınlanmasıdır**
     - E-) Dergide kullanılan yazı karaktelerine talep yoğunluğunun olması
 
-    > **Açıklama:** Sayısal tipografinin nasıl şekillendirildiğinin ilk örneklerinin yayınlanmasıdır
+    > **Açıklama:** Emigre Dergisi
+    > Sayısal tipografinin nasıl şekillendirildiğinin ilk örneklerinin yayınlanmasıdır
 
     ***
 1. Yazı tasarımcısı ve görsel sanatçı olan Zuzana Licko, **Mrs Eaves** fontunu tasarlarken hangi fontu yorumlamıştır?
@@ -861,7 +905,8 @@
     - D-) Vendetta fontu
     - **Cevap E-) Baskerville fontu**
 
-    > **Açıklama:** Baskerville fontu
+    > **Açıklama:** Mrs Eaves Fontu
+    > Baskerville fontu
 
     ***
 1. 1967 yılında dönemin öğrenci kuşağının sanatsal zevkleri ve politik duyarlılıklarına hitap etmeyi amaçlayarak yayın hayatına başlayan Rolling Stone dergisinin başarılı sanat yönetmeni kimdir?
@@ -871,7 +916,8 @@
     - D-) Gail Anderson
     - E-) Jann Wenner
 
-    > **Açıklama:** Fred Woodward
+    > **Açıklama:** Rolling Stone Dergisi
+    > Fred Woodward
 
     ***
 1. Ray Gun Dergisinin kurucu sanat yönetmeni olan David Carson’un, tasarımlarının sansasyon yaratmasında nasıl bir tipografi anlayışı bulunmaktadır?
@@ -881,7 +927,8 @@
     - D-) Fütürist Tipografi anlayışı
     - E-) Dadaist Tipografi anlayışı
 
-    > **Açıklama:** Grunge Tipografi anlayışı
+    > **Açıklama:** Ray Gun Dergisi
+    > Grunge Tipografi anlayışı
 
     ***
 1. Neville Brody’nin, tipografi ve harf tasarımı üzerine tasarladığı dünya genelinde tanınan, izlenen ve etki yaratan süreli grafik tasarım dergisi aşağıdaki seçeneklerden hangisidir?
@@ -891,7 +938,8 @@
     - **Cevap D-) Fuse dergisi**
     - E-) Eye dergisi
 
-    > **Açıklama:** Fuse dergisi
+    > **Açıklama:** Neville Brody
+    > Fuse dergisi
 
     ***
 1. Max Kisman’ın tasarımı olan ‘Fudoni tasarımı’,hangi yazıkarakterlerinin birleştirilmesi sonucu tasarlanmıştır?
@@ -901,7 +949,8 @@
     - **Cevap D-) Futura + Bodoni**
     - E-) Futura + Calibri
 
-    > **Açıklama:** Futura + Bodoni
+    > **Açıklama:** Max Kisman
+    > Futura + Bodoni
 
     ***
 1. Jacque fontu, slim, regular ve fat olmak üzere üç farklı şekilde tasarlanmıştır. Jacque fontunun tasarımcısı kimdir?
@@ -921,7 +970,7 @@
     - D-) Toplumla
     - E-) Sanatla
 
-    > **Açıklama:** 19. yüzyıl başında modernizm akımları ile tipografi, içerik ile bağlantı kurmaya başlamıştır. Tipografi sadece bilginin görselleştirilerek okunması ve okutulmasının dışında biçimsel bir gösterge olmuştur. Kullanılan karakterler düşünce ve fikirleri ifade etmenin bir yolu olarak kullanılmıştır. Doğru yanıt A'dır.
+    > **Açıklama:** 19\. yüzyıl başında modernizm akımları ile tipografi, içerik ile bağlantı kurmaya başlamıştır. Tipografi sadece bilginin görselleştirilerek okunması ve okutulmasının dışında biçimsel bir gösterge olmuştur. Kullanılan karakterler düşünce ve fikirleri ifade etmenin bir yolu olarak kullanılmıştır. Doğru yanıt A'dır.
 
     ***
 1. Sayısal tipografi terimi yayıncılığın hangi aşamaya geçmesiyle bilinir bir terim olmaya başlamıştır?
@@ -931,7 +980,7 @@
     - D-) Bilgisayar teknolojileri
     - **Cevap E-) Masaüstü yayıncılık**
 
-    > **Açıklama:** Sayısal tipografi terimi masaüstü yayıncılığın keşfi ile dillendirilmeye başlanmıştır. Harflerin sayısallaşması (dijital) tipografinin içerik ile olan bağlantısını güçlendirmek adına yeni olanaklar sağlamıştır. Doğru yanıt E'dir.
+    > **Açıklama:** Sayısal tipografi terimi masaüstü yayıncılığın keşfi ile dillendirilmeye başlanmıştır. Harflerin sayısallaşması (dijital) tipografinin içerik ile olan bağlantısını güçlendirmek adına yeni olanaklar sağlamıştır. Doğru yanıt E'dir.
 
     ***
 1. Mürekkebin gelmesini istediğiniz yerlere "1", boş kalacak alanlara "0" dizerek sayfa tasarımı<br />yapılan bir ortam aşağıdakilerden hangisiyle eşleştirilebilir?
@@ -941,7 +990,17 @@
     - D-) Metal formlu yazılar
     - E-) Fotomekanik yöntemler
 
-    > **Açıklama:** Sayısal baskı teknikleri ve tipografinin sayısallaşması temelde mürekkebin gelmesini istediğiniz yerlere "1", boş kalacak alanlara "0" dizilerek sayfa tasarımının yapılmasına dayanmaktadır. Doğru yanıt B'dir.
+    > **Açıklama:** Sayısal baskı teknikleri ve tipografinin sayısallaşması temelde mürekkebin gelmesini istediğiniz yerlere "1", boş kalacak alanlara "0" dizilerek sayfa tasarımının yapılmasına dayanmaktadır. Doğru yanıt B'dir.
+
+    ***
+1. Vektör yazı karakteri oluşturma teknolojilerinden biri olan Postscript hangi teknoloji firması tarafından geliştirilmiştir?
+    - **Cevap A-) Adobe**
+    - B-) Mac
+    - C-) Apple
+    - D-) Google
+    - E-) Metafont
+
+    > **Açıklama:** En önemli vektör yazı karakteri oluşturma teknolojileri arasında gösterilen Postscript, Adobe tarafından geliştirilmiştir. Doğru yanıt A'dır.
 
     ***
 1. Aşağıdakilerden hangisi aldığı verilere tepki vererek değiştirilen ve içerik yoluyla anlamlandırma sürecinin geliştirildiği iletişimsel bir ortam sunan font türüdür?
@@ -1051,7 +1110,7 @@
     - **Cevap A-) Bitmap font**
     - B-) QR Type font
     - C-) OpenType font
-    - D-) TrueType  font
+    - D-) TrueType font
     - E-) Postscript font
 
     > **Açıklama:** Bitmap fontlar piksel tabanlıdır. Postscript (Type 1, Type 3) TrueType ve OpenType vektör fontlardır. Görsel 3.3’te bézier eğrileri ile çizilmişa karakteri ve O karakterinde çizime nerden başlandığı rakamlar ile (0,1,2..) sırasıy-la gösterilmektedir.
@@ -1107,7 +1166,7 @@
     > **Açıklama:** Barnbrook’un tipografi çalışmalarının tanınma­sına yol açan ilk çalışması Priori yazı karakterinin David Bowie’nin 2002 yılında çıkarmışolduğu al­büm olan Heathen’in kapak tasarımında yer alma­sıdır.
 
     ***
-1. "**...**  Tipografi, sayısal dönemin gereksindiği görsel değerleri ve bilgisayarın bu süreçteki etkilerini de içeren yaratıcı ve yenilikçi font tasarımları ve tipografi anlayışıdır" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
+1. "**...**  Tipografi, sayısal dönemin gereksindiği görsel değerleri ve bilgisayarın bu süreçteki etkilerini de içeren yaratıcı ve yenilikçi font tasarımları ve tipografi anlayışıdır" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - **Cevap A-) Sayısal**
     - B-) Metal
     - C-) Mekanik
@@ -1147,7 +1206,7 @@
     > **Açıklama:** **Masaüstü yayıncılık**, kişisel bilgisayarların kullanımıyla baskıya hazırlık süreçlerini kolaylaştırmayı sağlayan, tasarımcıların çalışmalarını “Ne Görürsen Onu Alırsın” mantığıyla doğrudan yazıcılara ulaştırabilecekleri bir ortam içinde harf formları ve diğer görsel unsurlarla çalıştıkları yayıncılık faaliyetlerini ifade etmektedir.
 
     ***
-1. Rudy Vanderlands ve Zuzana Licko tarafından 1984 yılından 2005 yılına kadar her üç ayda bir olmak üzere  çıkardığı ve sayısal tipografiye getirdiği yenilikleri hem font tasarımlarına hem de sayfa düzenlerine (layout) yansıyan dergi aşağıdakilerden hangisidir?
+1. Rudy Vanderlands ve Zuzana Licko tarafından 1984 yılından 2005 yılına kadar her üç ayda bir olmak üzere çıkardığı ve sayısal tipografiye getirdiği yenilikleri hem font tasarımlarına hem de sayfa düzenlerine (layout) yansıyan dergi aşağıdakilerden hangisidir?
     - A-) The Face
     - B-) Arena
     - C-) Arena Homme+
@@ -1177,14 +1236,14 @@
     > **Açıklama:** Sayısal (dijital) font dağıtımında yaşanılan boşluğun fark edilmesiyle Erik Spiekerman ve Neville Brody tarafından **FontShop** firması kurulur.
 
     ***
-1. The Face, Arena, Fuse, Arena Homme gibi dergilerin sanat yönetmenliğini yapan, FF Autotrace, FF Digitalogue, FF Dirty, FF Tokyo ve FF Pop gibi birçok sayısal fontun yanı sıra ‘A Rage in Harlem’ filmi afişi için Harlem isimli fontu tasarlayan İngiliz grafik tasarımcı, tipografist ve sanat yönetmeni aşağıdakilerden hangisidir?
+1. The Face, Arena, Fuse, Arena Homme gibi dergilerin sanat yönetmenliğini yapan, FF Autotrace, FF Digitalogue, FF Dirty, FF Tokyo ve FF Pop gibi birçok sayısal fontun yanı sıra ‘A Rage in Harlem’ filmi afişi için Harlem isimli fontu tasarlayan İngiliz grafik tasarımcı, tipografist ve sanat yönetmeni aşağıdakilerden hangisidir?
     - A-) Erik Spiekerman
     - B-) David Carson
     - **Cevap C-) Neville Brody**
     - D-) Conan O’brien
     - E-) David Fricke
 
-    > **Açıklama:** **Neville Brody,** 1957 Londra doğumlu İngiliz grafik tasarımcı, tipografist ve sanat yönetmenidir. Hornsey College ve London College’de eğitimini alan Brody, The Face, Arena, Fuse, Arena Homme gibi dergilerin sanat yönetmenliğini yapmıştır. Brody, FF Autotrace, FF Digitalogue, FF Dirty, FF Tokyo ve FF Pop gibi birçok sayısal fontun yanı sıra  ‘A Rage in Harlem’ filmi afişi için Harlem isimli fontu tasarlamıştır.
+    > **Açıklama:** **Neville Brody,** 1957 Londra doğumlu İngiliz grafik tasarımcı, tipografist ve sanat yönetmenidir. Hornsey College ve London College’de eğitimini alan Brody, The Face, Arena, Fuse, Arena Homme gibi dergilerin sanat yönetmenliğini yapmıştır. Brody, FF Autotrace, FF Digitalogue, FF Dirty, FF Tokyo ve FF Pop gibi birçok sayısal fontun yanı sıra ‘A Rage in Harlem’ filmi afişi için Harlem isimli fontu tasarlamıştır.
 
     ***
 1. Modernitenin bir görüngüsü olan ‘Futura’ yazı tasarımı ile 18. yüzyıl sonu ve 19. yüzyıl başındaki ‘Modern’ yazı tasarımlarından ‘Bodoni’nin ustaca bir araya getirilmesine dayanan ve son derece başarılı üç biçemli bir yazı tasarımı olan ve Max Kisman'a ait font aşağıdakilerden hangisidir?
@@ -1202,22 +1261,34 @@
     - B-) Fransız felsefeci ve göstergebilimci
     - C-) Sayısal bir font ismi
     - **Cevap D-) Çağdaş sanat sergisi**
-    - E-) Amerika  doğumlu tasarımcı ve yazar
+    - E-) Amerika doğumlu tasarımcı ve yazar
 
     > **Açıklama:** **Helter Skelter**, The Beatles’ın Charles Manson’ı motive eden şarkısından adını alan 1990’lardaki L.A. Art, 26 Ocak - 26 Nisan 1992 tarihleri arasında L.A. Museum of Contemporary Art’ta düzenlenen bir çağdaş sanat sergisidir.
 
     ***
 ## Unite 4
-1. I. Old Style                      a. Palatino<br />II. Sans Serif (Tırnaksız)   b. Clarendon<br />III. Serif (Tırnaklı)            c. Helvetica<br />Yukarıda verilen yazı sistemleri ve yazı karakterlerinin doğru eşlemesi aşağıdakilerden hangisidir?
+1. Birbirinden bağımsız karakterlerin satırlar, paragraflar ve sayfalar oluşturacak şekilde dizilip basıldıktan sonra sökülerek tekrar kullanılmasını sağlayan bir baskı sistemine \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ denir.<br />Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?
+    - **Cevap A-) Hareketli Hurufat**
+    - B-) Tipografi
+    - C-) Blackletter
+    - D-) Ofset
+    - E-) İtalik
+
+    > **Açıklama:** Giriş
+    > Hareketli hurufat (movable type), 15. yy’da hurufat adı verilen birbirinden bağımsız karakterlerin satırlar, paragraflar ve sayfalar oluşturacak şekilde dizilip basıldıktan sonra sökülerek tekrar kullanılmasını sağlayan bir baskı sistemi
+
+    ***
+1. I. Old Style a. Palatino<br />II. Sans Serif (Tırnaksız) b. Clarendon<br />III. Serif (Tırnaklı) c. Helvetica<br />Yukarıda verilen yazı sistemleri ve yazı karakterlerinin doğru eşlemesi aşağıdakilerden hangisidir?
     - **Cevap A-) I-a, II-c, III-b**
     - B-) I-a, II-b, III-c
     - C-) I-c, II-b, III-a
     - D-) I-b, II-c, III-a
     - E-) I-b, II-a, III-c
 
-    > **Açıklama:** I. Old Style                      a. Palatino
-    > II. Sans Serif (Tırnaksız)   b. Helvetica
-    > III. Serif (Tırnaklı)            c. Clarendon
+    > **Açıklama:** Geometrik Altyapılar
+    > I. Old Style a. Palatino
+    > II. Sans Serif (Tırnaksız) b. Helvetica
+    > III. Serif (Tırnaklı) c. Clarendon
 
     ***
 1. Hareketli hurufat sistemi ile kullanılmak üzere hazırlanan **ilk kalıp stili (fount-font)** aşağıdakilerden hangisidir?
@@ -1227,7 +1298,7 @@
     - D-) Helvetica
     - E-) Humanist
 
-    > **Açıklama:** Blackletter
+    > **Açıklama:** **Blackletter yazı stili** hareketli hurufat sistemi ile kullanılmak üzere hazırlanan ilk kalıp (fount-font) olmuştur.
 
     ***
 1. Hareketli hurufat ile yapılan ilk örnek baskı için kullanılan Blackletter yazı karakteri, ağır lekesel değeriyle okumayı zorlaştıran bir yapıdaydı. Bu yazı karakteri zaman içinde yerini daha okunaklı olan hangi yazı karakterlerine bırakır?
@@ -1237,7 +1308,8 @@
     - D-) Arial
     - **Cevap E-) Humanist**
 
-    > **Açıklama:** Humanist
+    > **Açıklama:** Hareketli hurufat ile yapılan ilk örnek baskı için kullanılan Blackletter yazı karakteri, ağır lekesel de-
+    > ğeriyle okumayı zorlaştıran bir yapıdaydı. Bu yazı karakteri zaman içinde yerini daha okunaklı olan **Humanist** yazı karakterlerine bırakır.
 
     ***
 1. Aşağıdakilerden hangisi eşit-en sistemindeki serif tırnaklı yazı karakterlerinden birisidir?
@@ -1247,7 +1319,8 @@
     - D-) Palatino
     - E-) Garamond
 
-    > **Açıklama:** Serif (Tırnaklı) yazı karakterlerine ise Clarendon, Bookman örnek verilebilir
+    > **Açıklama:** Geometrik Altyapılar
+    > Serif (Tırnaklı) yazı karakterlerine ise Clarendon, Bookman örnek verilebilir
 
     ***
 1. Yazıdan daha çok yazının yazılmasını sağlayan parçaların bir araya gelmesiyle oluşan sistem aşağıdakilerden hangisidir?
@@ -1257,7 +1330,8 @@
     - **Cevap D-) Tipografi**
     - E-) Gramatoloji
 
-    > **Açıklama:** Tipografi
+    > **Açıklama:** **Tipografi,** yazıdan daha çok yazının yazılmasını sağlayan parçaların bir araya gelmesiyle
+    > oluşan bir sistemdir
 
     ***
 1. Aşağıdakilerden hangisi temel yazı karakterini oluşturan setlerden **değildir?**
@@ -1267,7 +1341,8 @@
     - D-) Semboller
     - **Cevap E-) İmajlar**
 
-    > **Açıklama:** İmajlar
+    > **Açıklama:** Yazı karakterleri, harfler (büyük ve küçük), rakamlar, noktalama işaretleri ve özel sembolleri içeren karakter setlerinden oluşur.
+    > İmajlar
 
     ***
 1. I. Gill Sans<br />II. Helvetica<br />III. Palatino<br />IV. Clarendon<br />V. Trajan<br />Yukarıdakilerden hangisi ya da hangileri eski biçem yani old style (geometrik formları kullanan) sistemi yazı karakterleridir?
@@ -1277,7 +1352,20 @@
     - D-) III-IV-V
     - E-) IV-V
 
-    > **Açıklama:** Bu yapıda olan yazı karakterlerine Gill Sans, Garamond, Jenson, Trajan, Palatino, Minion Pro örnek verilebilir
+    > **Açıklama:** Geometrik Altyapılar
+    > Bu yapıda olan yazı karakterlerine Gill Sans, Garamond, Jenson, Trajan, Palatino, Minion Pro örnek verilebilir
+
+    ***
+1. Yazı karakterleri geometrik altyapısına göre kaça ayrılmaktadır?
+    - **Cevap A-) 2**
+    - B-) 3
+    - C-) 4
+    - D-) 5
+    - E-) 6
+
+    > **Açıklama:** Yazı karakterleri geometrik altyapısına göre **ikiye** ayrılmaktadır. Bu yapılardan biri;
+    > **1-Eski Biçem (Old Style), diğeri ise,**
+    > **2-Eşit-en’dir (Transitional).**
 
     ***
 1. Bu yazı karakteri yapı sisteminde kullandığı geometrik formları deforme eder. Karenin dikdörtgene, üçgenin yamuğa, dairenin elipse dönüştürüldüğü bu sistemde karakter setlerindeki harfleri birbirlerine görsel olarak yakınlaştırmak amaçlanır. Bu yazı karakteri geometrik altyapı sistemi aşağıdakilerden hangisidir?
@@ -1287,7 +1375,18 @@
     - D-) Transitional
     - **Cevap E-) Eşit-en (Evenwidth)**
 
-    > **Açıklama:** Eşit-en (Evenwidth)
+    > **Açıklama:** **Eşit-en (Evenwidth) sistemi,** Eski Biçem sisteminin kullandığı geometrik formları deforme eder. Karenin dikdörtgene, üçgenin yamuğa, dairenin elipse dönüştürüldüğü bu sistemde karakter setlerindeki harfleri birbirlerine görsel olarak yakınlaştırmak amaçlanır.
+
+    ***
+1. Eşit-en sistemi temel geometrik formları deforme ettiğinden her zaman her yazı karakteri için farklılık gösterebilir. Bu durum elips, dikdörtgen ve yamuk temelli olması nedeniyle Eşit-en sistemini değişken kılar. Aşağıdakilerden hangisi Eşit-en yazı grubundan **değildir?**
+    - A-) Univers
+    - **Cevap B-) Garamond**
+    - C-) Bookman
+    - D-) Clarendon
+    - E-) Helvetica
+
+    > **Açıklama:** Eşit-en sistemi temel geometrik formları deforme ettiğinden her zaman her yazı karakteri için farklılık gösterebilir. Bu durum elips, dikdörtgen ve yamuk temelli olması nedeniyle Eşit-en sistemini değişken kılar. Bu yapıda olan yazı karakterlerine Sans Serif (Tırnaksız) yazı grubundan **Helvetica, Univers; Serif (Tırnaklı) yazı karakterlerine ise Clarendon, Bookman** örnek verilebilir.
+    > Garamond
 
     ***
 1. Bir metnin aynı hizada tutulabilir görüntü oluşum düzeninde bazı parametreler vardır. Aşağıdakilerden hangisi bu parametrelerden **değildir?**
@@ -1297,7 +1396,8 @@
     - D-) Punto ölçüsü
     - **Cevap E-) Kelime sayısı**
 
-    > **Açıklama:** Kelime sayısı
+    > **Açıklama:** Metin, satır çizgisi (baseline) sayesinde aynı hizada tutulabilir ancak bir metnin düzeni için daha birçok parametreye ihtiyaç vardır. **Satır arası boşluk, punto ölçüsü, harf arası boşluk, kelime arası boşluk, satır uzunluğu gibi parametreler** metnin görüntüsüyle ya da oluşumuyla direk olarak ilgilidir.
+    > Kelime sayısı
 
     ***
 1. Aşağıdaki harflerden hangisinde Leg (bacak) vardır?
@@ -1307,7 +1407,8 @@
     - D-) C
     - E-) S
 
-    > **Açıklama:** Leg (Bacak): Bir harfin gövde çizgisinden çıkan ve bir ucu açık olan K, R gibi harflerin taban çizgisine doğru uzanan eğik çizgilerine verilen ad.
+    > **Açıklama:** HARF ANATOMİSİ VE TERİMLER
+    > Leg (Bacak): Bir harfin gövde çizgisinden çıkan ve bir ucu açık olan K, R gibi harflerin taban çizgisine doğru uzanan eğik çizgilerine verilen ad.
 
     ***
 1. Bir metindeki tüm karakterler arasındaki mesafe/boşluk ayarına **ne ad verilir?**
@@ -1317,7 +1418,18 @@
     - **Cevap D-) Tracking**
     - E-) Kerning
 
-    > **Açıklama:** Tracking
+    > **Açıklama:** **Tracking:** Bir metindeki tüm karakter arasındaki mesafe/boşluk ayarı.
+
+    ***
+1. Yazı karakterleri üç ana grupta sınıflandırılır. Bu yazı karakterlerinden biri olan bu yazı grubu ayrıca Roma tipi olarak da adlandırılır. Bunun nedeni temellerini Roma yazıtlarından almış olmasıdır. Bu tür yazı karakterleri en okunaklı yazı tipleri olduğundan genellikle gövde metinlerde kullanılsalar da başlıklar için de uygundurlar. Bu yazı sınıflamasına ya da grubuna **ne ad verilir?**
+    - A-) Blackletter yazı stili
+    - B-) Display
+    - **Cevap C-) Tırnaklı (Serif)**
+    - D-) Tırnaksız (Sans Serif)
+    - E-) Point (punto)
+
+    > **Açıklama:** Tırnaklı (Serif) yazı karakterleri ayrıca Roma tipi olarak da adlandırılır. Bunun nedeni temellerini
+    > Roma yazıtlarından almış olmasıdır. Bu tür yazı karakterleri en okunaklı yazı tipleri olduğundan genellikle gövde metinlerde kullanılsalar da başlıklar için de uygundurlar. Günümüzde de Serif karakterler üretiliyor olmasına rağmen kaynağını geçmişten alır.
 
     ***
 1. Aşağıdaki harflerden hangisinde loop (ilmik) vardır?
@@ -1327,7 +1439,8 @@
     - D-) z
     - E-) f
 
-    > **Açıklama:** Loop (İlmik): Sadece iki katlı (two storey) küçük “g” harfinin alt kısmına verilen özel isim.
+    > **Açıklama:** HARF ANATOMİSİ VE TERİMLER
+    > Loop (İlmik): Sadece iki katlı (two storey) küçük “g” harfinin alt kısmına verilen özel isim.
 
     ***
 1. Aşağıdaki harflerden hangisinde sholder (omuz) vardır?
@@ -1337,7 +1450,8 @@
     - D-) l
     - E-) z
 
-    > **Açıklama:** Sholder (Omuz): Küçük harf h, m ve n’nin harflerin omuz gibi görünen kavisli çizgisine verilen ad.
+    > **Açıklama:** HARF ANATOMİSİ VE TERİMLER
+    > Sholder (Omuz): Küçük harf h, m ve n’nin harflerin omuz gibi görünen kavisli çizgisine verilen ad.
 
     ***
 1. Bir metindeki belli iki karakter arasındaki boşluğun ayarlanmasına \_\_\_\_\_\_\_\_ denir.<br />Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -1347,7 +1461,19 @@
     - D-) Stroke
     - E-) Hairline
 
-    > **Açıklama:** Kerning: Bir metindeki belli iki karakter arasındaki boşluk ayarı.
+    > **Açıklama:** Harf Anatomisi/Harfleri Oluşturan Yapılar
+    > Kerning: Bir metindeki belli iki karakter arasındaki boşluk ayarı.
+
+    ***
+1. Bir yazı karakterini oluşturan çizgilerin kalınlığı, yazı karakterinin sayfa üzerindeki \_\_\_\_\_\_\_ belirler.<br />Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?
+    - **Cevap A-) Ağırlığını**
+    - B-) Genişliğini
+    - C-) Derinliğini
+    - D-) Boyutunu
+    - E-) Hacmini
+
+    > **Açıklama:** YAZI KARAKTERİ AİLESİ
+    > Bir yazı karakterini oluşturan çizgilerin kalınlığı, yazı karakterinin sayfa üzerindeki ağırlığını belirler.
 
     ***
 1. Aşağıdkilerden hangisi hurufat olarak hazırlanmış ilk kalıp (fount-font) yazı karakterleridir?
@@ -1357,7 +1483,18 @@
     - D-) Cursive
     - E-) Graphic
 
-    > **Açıklama:** Blackletter yazı karakterleri hurufat olarak hazırlanmış ilk kalıp (fount-font) yazı karakterleridir.
+    > **Açıklama:** YAZI KARAKTERLERİNİ SINIFLANDIRMA
+    > Blackletter yazı karakterleri hurufat olarak hazırlanmış ilk kalıp (fount-font) yazı karakterleridir.
+
+    ***
+1. Aşağıdakilerden hangisi eşit-en sistemine sahip bir yazı karakteridir?
+    - A-) Minion
+    - B-) Palatino
+    - C-) Trajan
+    - D-) Garamond
+    - **Cevap E-) Clarendon**
+
+    > **Açıklama:** Clarendon, eşit-en sistemine sahip bir yazı karakteridir.
 
     ***
 1. Harflerin üzerine oturduğu hayali çizgiye ne ad verilir?
@@ -1437,7 +1574,7 @@
     - **Cevap D-) Futura**
     - E-) Times
 
-    > **Açıklama:** Paul Renner tarafından 1927 yılında tasarlanan  Futura, Geometrik San Serif bir yazı karakteridir.
+    > **Açıklama:** Paul Renner tarafından 1927 yılında tasarlanan Futura, Geometrik San Serif bir yazı karakteridir.
 
     ***
 1. Yazı karakteri ailesi içindeki sıkıştırılarak daraltılmış varyasyona ne denir?
@@ -1450,7 +1587,17 @@
     > **Açıklama:** Yazı karakteri ailesi içindeki sıkıştırılarak daraltılmış varyasyona condesed denir. Aynı terim için condens, narrow, compact terimleri de kullanılabilmektedir.
 
     ***
-1. "**...  ...** harfler (büyük ve küçük), rakamlar, noktalama işaretleri ve özel sembolleri içeren karakter setlerinden oluşur" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
+1. Hareketli hurufat ile yapılan ilk örnek baskı için kullanılan yazı karakteri aşağıdakilerden hangisidir?
+    - **Cevap A-) Blackletter**
+    - B-) Old style
+    - C-) Transitional
+    - D-) Slab Serif
+    - E-) Sans Serif
+
+    > **Açıklama:** Hareketli hurufat ile yapılan ilk örnek baskı için kullanılan **Blackletter** yazı karakteri, ağır lekesel de- ğeriyle okumayı zorlaştıran bir yapıdaydı.
+
+    ***
+1. "**... ...** harfler (büyük ve küçük), rakamlar, noktalama işaretleri ve özel sembolleri içeren karakter setlerinden oluşur" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - A-) Tipo baskı
     - **Cevap B-) Yazı karakterleri**
     - C-) Hareketli hurufat
@@ -1460,7 +1607,7 @@
     > **Açıklama:** **Yazı karakterleri**, harfler (büyük ve küçük), rakamlar, noktalama işaretleri ve özel sembolleri içeren karakter setlerinden oluşur.
 
     ***
-1. Küçük harflerde, “y, g” gibi harfler taban çizgisinden aşağı doğru uzar. Bu uzantıların ulaştığı çizgiye ne ad verilir?
+1. Küçük harflerde, “y, g” gibi harfler taban çizgisinden aşağı doğru uzar. Bu uzantıların ulaştığı çizgiye ne ad verilir?
     - **Cevap A-) Descent**
     - B-) Ascent
     - C-) Meanline
@@ -1500,7 +1647,7 @@
     > **Açıklama:** Art arda gelen iki harfin bazı parçaları nedeniyle ya birbirlerinden uzaklaşırlar ya da parçalar birbiri üzerine binip kötü bir görüntü oluştururlar. Bu durumu engellemek adına bu tip harfler birleştirilip tek bir harf haline dönüştürülür. Bu birleşik harflere ligature denir ve ekstra karakterler olarak karakter setinde yerini alırlar. Doğru cevap A seçeneğidir.
 
     ***
-1. Harf anatomisi/harfleri oluşturan yapılara ilişkin aşağıdaki eşleştirmelerden hangisi veya hangileri doğrudur?<br />I. Ear (Kulak) - Küçük harf g’nin üzerinden çıkan kulağa benzeyen küçük çizgiye verilen ad.<br />II. Counter (İç Boşluk) - Dairesel harflerdeki tamamen kapalı ya da yarı açık iç boşluğa verilen ad.<br />III. Bar / Crossbar (Köprü) - C, b, p, d gibi dairesel formlu karakterlerdeki kavisi oluşturan çizgiye verilen ad.
+1. Harf anatomisi/harfleri oluşturan yapılara ilişkin aşağıdaki eşleştirmelerden hangisi veya hangileri doğrudur?<br />I. Ear (Kulak) - Küçük harf g’nin üzerinden çıkan kulağa benzeyen küçük çizgiye verilen ad.<br />II. Counter (İç Boşluk) - Dairesel harflerdeki tamamen kapalı ya da yarı açık iç boşluğa verilen ad.<br />III. Bar / Crossbar (Köprü) - C, b, p, d gibi dairesel formlu karakterlerdeki kavisi oluşturan çizgiye verilen ad.
     - A-) Yalnız I
     - **Cevap B-) I ve II**
     - C-) I ve III
@@ -1508,7 +1655,7 @@
     - E-) I, II ve III
 
     > **Açıklama:** Ear (Kulak) - Küçük harf g’nin üzerinden çıkan kulağa benzeyen küçük çizgiye verilen ad.
-    > Counter (İç Boşluk) - Dairesel harflerdeki tamamen kapalı ya da yarı açık iç boşluğa verilen ad.
+    > Counter (İç Boşluk) - Dairesel harflerdeki tamamen kapalı ya da yarı açık iç boşluğa verilen ad.
     > Bar / Crossbar (Köprü): A, H, R, e, veya f gibi harflerin yatay çizgilerine verilen ad.
     > Doğru cevap B seçeneğidir.
 
@@ -1530,7 +1677,7 @@
     - **Cevap D-) Modern**
     - E-) Slab Serif
 
-    > **Açıklama:** 18. yy sonlarında ve 19. yy başlarında tasarlanan Modern fontlar çok stilize bir yapıdadırlar. Adının Modern olmasına rağmen bu yazı karakterlerinin temeli 200 yıl önceye dayanır. 1700’lerin sonuna doğru kağıt kalitesi, baskı teknolojisi ve ciltlemedeki gelişmeler, son derece ince ayrıntılara ve canlı, keskin kenarlara sahip harfler basmalarını sağladı. 1700’lü yılların sonlarında Fransa’da Firmin Didot ailesi tarafından öncülüğü yapılan bu tarz; İtalya’da Giambattista Bodoni ailesi tarafından geliştirilip mükemmelleştirilir. Doğru cevap D seçeneğidir.
+    > **Açıklama:** 18\. yy sonlarında ve 19. yy başlarında tasarlanan Modern fontlar çok stilize bir yapıdadırlar. Adının Modern olmasına rağmen bu yazı karakterlerinin temeli 200 yıl önceye dayanır. 1700’lerin sonuna doğru kağıt kalitesi, baskı teknolojisi ve ciltlemedeki gelişmeler, son derece ince ayrıntılara ve canlı, keskin kenarlara sahip harfler basmalarını sağladı. 1700’lü yılların sonlarında Fransa’da Firmin Didot ailesi tarafından öncülüğü yapılan bu tarz; İtalya’da Giambattista Bodoni ailesi tarafından geliştirilip mükemmelleştirilir. Doğru cevap D seçeneğidir.
 
     ***
 1. Bir yazı karakterinde ağırlıklar çok fazla çeşitlilik içeriyorsa, hangi sistemle numaratik olarak belirleme yapılabilir?
@@ -1541,6 +1688,16 @@
     - E-) Slab serif
 
     > **Açıklama:** Bir yazı karakterinde ağırlıklar çok fazla çeşitlilik içeriyorsa Frutiger ızgarası olarak tanımlanan sistemle numaratik olarak belirlenebilir. Doğru cevap A seçeneğidir.
+
+    ***
+1. 15\. yy’ın ilk yarısında Fransız Claude Garamond ve Venedikli Aldus Manutius gibi ustalar tarafından tasarlanan yazı karakteri aşağıdakilerden hangisidir?
+    - **Cevap A-) Eski biçem**
+    - B-) Transitional
+    - C-) Modern
+    - D-) Humanist
+    - E-) Slab serif
+
+    > **Açıklama:** Eski Biçem (Oldstyle/Garalde) yazı karakteri 15. yy’ın ilk yarısında Fransız Claude Garamond ve Venedikli Aldus Manutius gibi ustalar tarafından tasarlandı. Doğru cevap A seçeneğidir.
 
     ***
 1. Hurufat olarak hazırlanmış ilk kalıp (fount-font) yazı karakteri aşağıdakilerden hangisidir?
@@ -1573,24 +1730,24 @@
     > **Açıklama:** **Meanline (Orta Çizgi):** Tüm küçük harf karakterlerin hizalandığı üst çizgi. Büyük harf yüksekliğinden aşağıda kalır. Küçük harflerin üst sınırlarını, üst uzantılarından ayıran hayali çizgidir.
 
     ***
-1. Bir harfin gövde çizgisinden çıkan ve bir ya da iki ucu açık olan E, F, L, T, Y, V, K gibi harflerin yatay ya da yukarı doğru çıkan eğik çizgilerine verilen ad aşağıdakilerden hangisidir?
+1. Bir harfin gövde çizgisinden çıkan ve bir ya da iki ucu açık olan E, F, L, T, Y, V, K gibi harflerin yatay ya da yukarı doğru çıkan eğik çizgilerine verilen ad aşağıdakilerden hangisidir?
     - A-) Ascender (Üst Uzantılar)
     - B-) Axis (Eksen)
     - C-) Bar / Crossbar (Köprü)
     - D-) Leg (Bacak)
     - **Cevap E-) Arm (Kol)**
 
-    > **Açıklama:** **Arm (Kol):** Bir harfin gövde çizgisinden çıkan ve bir ya da iki ucu açık olan E, F, L, T, Y, V, K gibi harflerin yatay ya da yukarı doğru çıkan eğik çizgilerine verilen ad.
+    > **Açıklama:** **Arm (Kol):** Bir harfin gövde çizgisinden çıkan ve bir ya da iki ucu açık olan E, F, L, T, Y, V, K gibi harflerin yatay ya da yukarı doğru çıkan eğik çizgilerine verilen ad.
 
     ***
-1. Bir harfin bitişini gösteren tırnaksız çizgi ucu (terminal) ya da tırnak (serif) yerine kullanılan süslü çizgi aşağıdakilerden hangisidir?
+1. Bir harfin bitişini gösteren tırnaksız çizgi ucu (terminal) ya da tırnak (serif) yerine kullanılan süslü çizgi aşağıdakilerden hangisidir?
     - **Cevap A-) Swash (Çalkantı)**
     - B-) Sholder (Omuz)
     - C-) Spine (Omurga)
     - D-) Stroke (Çizgi)
     - E-) Tail (Kuyruk)
 
-    > **Açıklama:** **Swash (Çalkantı):** Bir harfin bitişini gösteren tırnaksız çizgi ucu (terminal) ya da tırnak (serif) yerine kullanılan süslü çizgi.
+    > **Açıklama:** **Swash (Çalkantı):** Bir harfin bitişini gösteren tırnaksız çizgi ucu (terminal) ya da tırnak (serif) yerine kullanılan süslü çizgi.
 
     ***
 1. Bir metni oluşturan satırların arasındaki mesafeye ne ad verilir?
@@ -1623,7 +1780,7 @@
     > **Açıklama:** **Century yazı karakteri**, Century Dergisi için 1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteridir. Century Expanded, rafine bir Mısır (Egyption) ya da Slab Serif, yazı karakteri için mükemmel bir örnektir. Büyük x yüksekliği ve basit formları olması bu yazı karakterini çok okunaklı bir yazı karakteri yüzü yapar.
 
     ***
-1. "**...    ...,** Adrian Frutiger’in 1957’de Univers ailesini tasarlamasıyla oluşturduğu bir sistemdir. Sistem Univers yazı karakteri ailesinin (21 adet) ağırlık ve genişliklerini tanımlamak için tasarladığı bir sayı sistemidir" açıklamasında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
+1. "**... ...,** Adrian Frutiger’in 1957’de Univers ailesini tasarlamasıyla oluşturduğu bir sistemdir. Sistem Univers yazı karakteri ailesinin (21 adet) ağırlık ve genişliklerini tanımlamak için tasarladığı bir sayı sistemidir" açıklamasında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - A-) Oblique varyasyon
     - B-) İtalik versiyon
     - C-) Condensed light
@@ -1643,6 +1800,16 @@
     > **Açıklama:** Blackletter yazı stili hareketli hurufat sistemi ile kullanılmak üzere hazırlanan ilk kalıp (fount-font) olmuştur. Dik ve kalın çizgilerden oluşan biçemin harf boşluklarının az olması nedeniyle sayfada bıraktığı ağır siyah leke bu adı almasını sağlamıştır. Bu yazı karakteri zaman içinde yerini daha okunaklı olan Humanist yazı karakterlerine bırakır.
 
     ***
+1. İlk Roma biçemi yazı karakterlerinin kaynağı M.S. 2.yy’da yapılan ………………………’dur.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+    - **Cevap A-) Trajan Sütunu**
+    - B-) Gotlar Sütunu
+    - C-) Korinth
+    - D-) Colosseum
+    - E-) Tuscan
+
+    > **Açıklama:** İlk Roma biçemi yazı karakterlerinin kaynağı M.S. 2.yy’da yapılan Trajan Sütunu’dur.
+
+    ***
 1. Aşağıdakilerden hangisi Eşit-en (Evenwidth) sistemi ile ilgili doğru bir ifadedir?
     - A-) Eski Biçem sisteminin kullandığı geometrik şekillere sadık kalır.
     - B-) Görsel eşitlik aynı birim ölçüsü anlamına gelir.
@@ -1651,6 +1818,16 @@
     - E-) Karakterler arasında genişlik farklılıkları yaratır.
 
     > **Açıklama:** Eşit-en (Evenwidth) sistemi, Eski Biçem sisteminin kullandığı geometrik formları deforme eder. Görsel eşitlik hiçbir zaman aynı birim ölçüsü anlamına gelmez. Eski Biçem sistemde geometrik şekillere sadık kalındığından, bazı harfler çok geniş bazıları ise çok dar görünür. Eşit-en sisteminde, karakterler arasındaki genişlik farklılıkları eski biçem sisteminde olduğu gibi çok fazla farklılık göstermez. Eşit-en sisteminde temel geometrik yapı olan daire yanlardan basılmış bir elips formuna dönüşür.
+
+    ***
+1. Aşağıdakilerden hangisi tüm küçük harf karakterlerin hizalandığı hayali üst çizgiyi tanımlar?
+    - A-) Baseline
+    - B-) Cap Line
+    - C-) Descent
+    - **Cevap D-) Meanline**
+    - E-) Ascent
+
+    > **Açıklama:** Meanline (Orta Çizgi): Tüm küçük harf karakterlerin hizalandığı üst çizgidir.
 
     ***
 1. C, b, p, d gibi dairesel formlu karakterlerdeki kavisi oluşturan çizgiye ne ad verilir?
@@ -1683,6 +1860,16 @@
     > **Açıklama:** Tracking: Bir metindeki tüm karakter arasındaki mesafe/boşluk ayarıdır.
 
     ***
+1. Leading değeri artı olarak fazla verildiğinde oluşan etki aşağıdakilerden hangisidir?
+    - A-) Sözcükler birbirinden uzaklaşır.
+    - B-) Harfler birbirinden uzaklaşır.
+    - C-) Sözcükler birbirine yaklaşır.
+    - **Cevap D-) Satırlar birbirlerinden uzaklaşır.**
+    - E-) Satırlar birbirine çok yaklaşır.
+
+    > **Açıklama:** Leading (satır arası): Bir metni oluşturan satırların arasındaki mesafedir. Leading değeri eksi ya da artı olarak verilebilir. Değer artı olarak fazla verildiğinde satırlar birbirlerinden çok uzaklaşır.
+
+    ***
 1. Aşağıdakilerden hangisi ‘geometric sans serif’ yazı karakterlerinden biridir?
     - **Cevap A-) Futura**
     - B-) Garamond
@@ -1703,14 +1890,15 @@
     > **Açıklama:** Bir font klasörü bir yazı karakterinin tüm karakter setlerini içerirken aynı zamanda “bold, light, regular” gibi farklı ağırlıklarının yanı sıra “extended, condensed, italic” gibi genişlik olarak farklılaştırılmış versiyonlarını da içerebilir.
 
     ***
-1. Aşağıdakilerden hangisi  MS 2.yy.da yapılmış ve ilk Roma biçemi yazı karakterlerinin kaynağı olarak kabul edilen yapı parçasıdır?
+1. Aşağıdakilerden hangisi MS 2.yy.da yapılmış ve ilk Roma biçemi yazı karakterlerinin kaynağı olarak kabul edilen yapı parçasıdır?
     - **Cevap A-) Trajan Sütunu**
     - B-) Anthony Pio Sütunu
     - C-) Marcus Aurelius Sütunu
     - D-) Colonna di Foça
     - E-) İmmaculate Sütunu
 
-    > **Açıklama:** İlk Roma biçemi yazı karakterlerinin kaynağı M.S. 2.yy’da yapılan Trajan Sütunu’dur. Buna bağlı olarak Eski Biçem sisteminin kaynağı da mermere kazınmış Trajan büyük harfleridir.
+    > **Açıklama:** Lütfen "Eski Biçem (Old Style)" başlıklı yazıyı gözden geçiriniz.
+    > İlk Roma biçemi yazı karakterlerinin kaynağı M.S. 2.yy’da yapılan Trajan Sütunu’dur. Buna bağlı olarak Eski Biçem sisteminin kaynağı da mermere kazınmış Trajan büyük harfleridir.
 
     ***
 1. Tüm harfleri ya da karakter setlerini aynı düzlem üzerinde, bir düzen içerisinde bir araya getiren temel çizginin adı aşağıdakilerden hangisidir?
@@ -1720,7 +1908,8 @@
     - D-) Point Size.
     - E-) Meanline.
 
-    > **Açıklama:** Satır çizgisine tüm harfleri ya da karakter setlerini aynı düzlem üzerinde, bir düzen içerisinde bir araya getiren temel çizgidir (baseline) denilebilir.
+    > **Açıklama:** Lütfen "Temel Çizgiler" başlıklı yazıyı gözden geçiriniz.
+    > Satır çizgisine tüm harfleri ya da karakter setlerini aynı düzlem üzerinde, bir düzen içerisinde bir araya getiren temel çizgidir (baseline) denilebilir.
 
     ***
 1. Yazı karakterlerindeki büyük harflere verilen ad aşağıdakilerden hangisidir?
@@ -1730,7 +1919,30 @@
     - D-) Lowercase.
     - **Cevap E-) Uppercase.**
 
-    > **Açıklama:** Uppercase (Büyük Harf): Yazı karakterlerindeki büyük harflere verilen addır.
+    > **Açıklama:** Lütfen "Temel Çizgiler" başlıklı yazıyı gözden geçiriniz.
+    > Uppercase (Büyük Harf): Yazı karakterlerindeki büyük harflere verilen addır.
+
+    ***
+1. Aşağıdakilerden hangisi yazı karakterleri oluşturan karakter setlerinden **değildir?**
+    - **Cevap A-) Fontlar.**
+    - B-) Büyük harfler.
+    - C-) Küçük harfler.
+    - D-) Rakamlar.
+    - E-) Noktalama işaretleri.
+
+    > **Açıklama:** Lütfen "HARF ANATOMİSİ VE TERİMLER" başlıklı yazıyı gözden geçiriniz.
+    > Yazı karakterleri oluşturan karakter setleri; büyük harfler, küçük harfler, rakamlar, noktalama işaretleri ve özel işaretler içerir.
+
+    ***
+1. Bir harfin gövde çizgisinden çıkan ve bir ucu açık olan K, R gibi harflerin taban çizgisine doğru uzanan eğik çizgilerine verilen ad aşağıdakilerden hangisidir?
+    - A-) Arm (Kol).
+    - B-) Axis (Eksen).
+    - C-) Ear (Kulak).
+    - **Cevap D-) Leg (Bacak).**
+    - E-) Loop (İlmik).
+
+    > **Açıklama:** Lütfen "Harf Anatomisi/Harfleri Oluşturan Yapılar" başlıklı yazıyı gözden geçiriniz.
+    > Leg (Bacak): Bir harfin gövde çizgisinden çıkan ve bir ucu açık olan K, R gibi harflerin taban çizgisine doğru uzanan eğik çizgilerine verilen ad.
 
     ***
 1. Bir metni oluşturan satırların arasındaki mesafeye aşağıdakilerden hangi isim verilir?
@@ -1740,7 +1952,8 @@
     - D-) Stroke.
     - E-) Tail.
 
-    > **Açıklama:** Leading (satır arası): Bir metni oluşturan satırların arasındaki mesafe.
+    > **Açıklama:** Lütfen "Ölçü/Boyut (Punto)" başlıklı yazıyı gözden geçiriniz.
+    > Leading (satır arası): Bir metni oluşturan satırların arasındaki mesafe.
 
     ***
 1. Old Style / Garalde (Eski Biçem/Stil) hangi yüzyıllar arasında tasarlanmıştır?
@@ -1750,7 +1963,8 @@
     - **Cevap D-) 15 ve 16.yy**
     - E-) 16 ve 17.yy.
 
-    > **Açıklama:** Oldstyle (Eski Biçem) yazı karakterleri, Garalde (Eski Biçem) yazı karakterleri olarak da adlandırılır. Eski Biçem (Oldstyle/Garalde) yazı karakteri 15. yy’ın ilk yarısında Fransız Claude Garamond ve Venedikli Aldus Manutius gibi ustalar tarafından tasarlandı.15. yy ve 16. yy İtalya’sında yaratılan az çizgi kontrastı ve Humanist yazı karakterlerine göre daha az eğimli vurgusuyla tırnaklı (serif) yazı karakterlerinin dönemsel olarak üretilen ikinci versiyonudur.
+    > **Açıklama:** Lütfen "Old Style / Garalde (Eski Biçem/Stil) – 15. ve 16. Yy" başlıklı yazıyı gözden geçiriniz.
+    > Oldstyle (Eski Biçem) yazı karakterleri, Garalde (Eski Biçem) yazı karakterleri olarak da adlandırılır. Eski Biçem (Oldstyle/Garalde) yazı karakteri 15. yy’ın ilk yarısında Fransız Claude Garamond ve Venedikli Aldus Manutius gibi ustalar tarafından tasarlandı.15. yy ve 16. yy İtalya’sında yaratılan az çizgi kontrastı ve Humanist yazı karakterlerine göre daha az eğimli vurgusuyla tırnaklı (serif) yazı karakterlerinin dönemsel olarak üretilen ikinci versiyonudur.
 
     ***
 1. Bir Amerikan dergisi için 1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakterinin adı aşağıdakilerden hangisidir?
@@ -1760,7 +1974,8 @@
     - D-) Baskerville.
     - E-) Times New Roman.
 
-    > **Açıklama:** Century yazı karakteri, Century Dergisi için 1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteridir.
+    > **Açıklama:** Lütfen "Slab Serif (Egyption-Mechanistic) – 19. Yy" başlıklı yazıyı gözden geçiriniz.
+    > Century yazı karakteri, Century Dergisi için 1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteridir.
 
     ***
 1. Dünyada en yaygın olarak kullanılan ve 1957’de Max Miedinger tarafından tasarlanan Transitional sans serif yazı karakteri aşağıdakilerden hangisidir?
@@ -1770,7 +1985,8 @@
     - **Cevap D-) Helvetica**
     - E-) Circus
 
-    > **Açıklama:** Helvetica, 1957’de Max Miedinger tarafından tasarlanan dünyanın en yaygın olarak kullanılan Transitional sans serif yazı karakteridir.
+    > **Açıklama:** Lütfen "Transitional / Grotesk / Neo-Grotesk" başlıklı yazıyı gözden geçiriniz.
+    > Helvetica, 1957’de Max Miedinger tarafından tasarlanan dünyanın en yaygın olarak kullanılan Transitional sans serif yazı karakteridir.
 
     ***
 1. Bir yazı karakterini oluşturan çizgilerin kalınlığı, yazı karakterinin sayfa üzerindeki aşağıdaki hangi özelliğini belirler?
@@ -1780,7 +1996,8 @@
     - D-) Yüksekliğini
     - E-) Şeklini
 
-    > **Açıklama:** Bir yazı karakterini oluşturan çizgilerin kalınlığı, yazı karakterinin sayfa üzerindeki ağırlığını belirler.
+    > **Açıklama:** Lütfen "Ağırlık" başlıklı yazıyı gözden geçiriniz.
+    > Bir yazı karakterini oluşturan çizgilerin kalınlığı, yazı karakterinin sayfa üzerindeki ağırlığını belirler.
 
     ***
 1. "Hareketli hurufat ile yapılan ilk örnek baskı için kullanılan .................... yazı karakteri, ağır lekesel değeriyle okumayı zorlaştıran bir yapıdaydı. Bu yazı karakteri zaman içinde yerini daha okunaklı olan Humanist yazı karakterlerine bırakır." ifadesinde boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -1813,7 +2030,7 @@
     > **Açıklama:** Eski Biçem (Old Style): İlk Roma biçemi yazı karakterlerinin kaynağı M.S. 2.yy’da yapılan Trajan Sütunu’dur. Buna bağlı olarak Eski Biçem sisteminin kaynağı da mermere kazınmış Trajan büyük harfleridir. Sistem, Trajan büyük harflerinin oluşumundaki geometri temel alınarak geliştirilir.
 
     ***
-1. Eski Biçem (Old Style) sistemi, harflerin oluşmasında kullanılan geometrik şekillere (üçgen, kare, daire) olabildiğince sadık kalan bir yapıdır. Aşağıdakilerden hangisi Eski Biçem geometrik altyapılı yazı karakterine örnek **verilemez?**
+1. Eski Biçem (Old Style) sistemi, harflerin oluşmasında kullanılan geometrik şekillere (üçgen, kare, daire) olabildiğince sadık kalan bir yapıdır. Aşağıdakilerden hangisi Eski Biçem geometrik altyapılı yazı karakterine örnek **verilemez?**
     - **Cevap A-) Brush Script**
     - B-) Trajan
     - C-) Palatino
@@ -1821,6 +2038,16 @@
     - E-) Minion
 
     > **Açıklama:** Eski Biçem (Old Style) sistemi, harflerin oluşmasında kullanılan geometrik şekillere (üçgen, kare, daire) olabildiğince sadık kalan bir yapıdır. Bazı karakterler tek geometrik elemandan (A harfi tek bir üçgenden) oluşturulurken bazı karakterler çift geometrik elemandan (S harfi üst üste gelen iki daireden) oluşturulur (Görsel 4.7). Bu yapıda olan yazı karakterlerine Gill Sans, Garamond, Jenson, Trajan, Palatino, Minion Pro örnek verilebilir (Görsel 4.8).
+
+    ***
+1. Sans Serif (Tırnaksız) yazı grubundan Helvetica ve Univers; Serif (Tırnaklı) yazı karakterlerine ise Clarendon, Bookman örnek verilebilecek yapıya sahip yazı karakterleri sistemine ne ad verilir?
+    - A-) Serifsiz
+    - B-) Eski Biçem
+    - **Cevap C-) Eşit-En**
+    - D-) Uppercase (Büyük Harf)
+    - E-) Modern
+
+    > **Açıklama:** Eşit-en sistemi temel geometrik formları deforme ettiğinden her zaman her yazı karakteri için farklılık gösterebilir. Bu durum elips, dikdörtgen ve yamuk temelli olması nedeniyle Eşit-en sistemini değişken kılar. Bu yapıda olan yazı karakterlerine Sans Serif (Tırnaksız) yazı grubundan Helvetica, Univers; Serif (Tırnaklı) yazı karakterlerine ise Clarendon, Bookman örnek verilebilir (Görsel 4.10).
 
     ***
 1. Ard arda gelen iki harfin bazı parçaları nedeniyle ya birbirlerinden uzaklaşırlar ya da parçalar birbiri üzerine binip kötü bir görüntü oluştururlar. Bu durumu engellemek adına bu tip harfler birleştirilip tek bir harf haline dönüştürülür. Bu birleşik harflere ne ad verilir?
@@ -1874,14 +2101,15 @@
 
     ***
 ## Unite 5
-1. Tipografi ile ilgili olarak aşağıdaki ifadelerden hangileri doğrudur?<br />I Görsel ve işitsel iletişim sürecinde bir iletişim aracı olarak bilgi alışverişini sağlayan grafik tasarımın tamamlayıcı ögesidir.<br />II Tipografinin birincil işlevi görünürlüğün sağlanmasıdır.<br />III Yazıyla ilgilenen ve yazının okunurluğunu arttırmaya yönelik araştırmalar yapan bir disiplindir.<br />IV Belirlenmiş bir sayfa üzerinde yer alan harf, sözcük, satır ve boşluklama için gerekli olan diğer elemanlar ile oluşturulan işlevsel ve görsel düzenlemelerdir.<br />V Tipografi, diğer görsel elemanlar ile birlik ve uyum içerisinde olmalıdır.
+1. Tipografi ile ilgili olarak aşağıdaki ifadelerden hangileri doğrudur?<br />I Görsel ve işitsel iletişim sürecinde bir iletişim aracı olarak bilgi alışverişini sağlayan grafik tasarımın tamamlayıcı ögesidir.<br />II Tipografinin birincil işlevi görünürlüğün sağlanmasıdır.<br />III Yazıyla ilgilenen ve yazının okunurluğunu arttırmaya yönelik araştırmalar yapan bir disiplindir.<br />IV Belirlenmiş bir sayfa üzerinde yer alan harf, sözcük, satır ve boşluklama için gerekli olan diğer elemanlar ile oluşturulan işlevsel ve görsel düzenlemelerdir.<br />V Tipografi, diğer görsel elemanlar ile birlik ve uyum içerisinde olmalıdır.
     - **Cevap A-) III-IV-V**
     - B-) I-II
     - C-) I-III-V
     - D-) II-III-IV
     - E-) II-V
 
-    > **Açıklama:** III Yazıyla ilgilenen ve yazının okunurluğunu arttırmaya yönelik araştırmalar yapan bir disiplindir.
+    > **Açıklama:** Giriş
+    > III Yazıyla ilgilenen ve yazının okunurluğunu arttırmaya yönelik araştırmalar yapan bir disiplindir.
     > IV Belirlenmiş bir sayfa üzerinde yer alan harf, sözcük, satır ve boşluklama için gerekli olan diğer elemanlar ile oluşturulan işlevsel ve görsel düzenlemelerdir.
     > V Tipografi, diğer görsel elemanlar ile birlik ve uyum içerisinde olmalıdır.
 
@@ -1893,7 +2121,18 @@
     - D-) II-IV
     - E-) III-IV-V
 
-    > **Açıklama:** Tipografik tasarımlarda harflerin, sözcüklerin, paragrafların ya da sütunların birbirleri ile ve tasarımda yer alan diğer öğeler ile uyum içerisinde olması, işlevsel bir biçimde düzenlenmesi tasarım ilkeleri ile sağlanabilir.
+    > **Açıklama:** TASARIM İLKELERİ VE TİPOGRAFİ
+    > Tipografik tasarımlarda harflerin, sözcüklerin, paragrafların ya da sütunların birbirleri ile ve tasarımda yer alan diğer öğeler ile uyum içerisinde olması, işlevsel bir biçimde düzenlenmesi tasarım ilkeleri ile sağlanabilir.
+
+    ***
+1. "Fiziksel anlamda iki varlığın eşitlik durumu olarak tanımlanan ................., görsel tasarım bağlamında tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesidir." ifadesinde boş bırakılan yere hangisi gelmelidir?
+    - **Cevap A-) denge**
+    - B-) paragraf
+    - C-) kompozisyon
+    - D-) görsel ağırlık
+    - E-) düzenleme
+
+    > **Açıklama:** Fiziksel anlamda iki varlığın eşitlik durumu olarak tanımlanan denge, görsel tasarım bağlamında tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesidir.
 
     ***
 1. "................... dengede, tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olmalıdır." ifadesinde boşluğa gelmesi gereken ifade hangisidir?
@@ -1943,7 +2182,8 @@
     - D-) II-IV
     - E-) III-IV-V
 
-    > **Açıklama:** Çoğunlukla görsel ilgiyi arttırmak, vurgu noktası oluşturmak, karmaşıklığı azaltmak ya da tasarımı sadeleştirmek amacıyla tamamlama ilkesine başvurulur.
+    > **Açıklama:** Tamamlama İlkesi
+    > Çoğunlukla görsel ilgiyi arttırmak, vurgu noktası oluşturmak, karmaşıklığı azaltmak ya da tasarımı sadeleştirmek amacıyla tamamlama ilkesine başvurulur.
 
     ***
 1. Hangileri Gestalt ilkelerindendir?<br />I Süreklilik<br />II Yakınlık<br />III Tamamlama<br />IV Mesafe<br />V Akışkanlık
@@ -1953,7 +2193,8 @@
     - D-) I-III-V
     - E-) I-IV-V
 
-    > **Açıklama:** I Süreklilik
+    > **Açıklama:** GESTALT İLKELERİ VE TİPOGRAFİ
+    > I Süreklilik
     > II Yakınlık
     > III Tamamlama
 
@@ -1965,17 +2206,19 @@
     - D-) yakınlık - renk
     - E-) tipografi - grafik
 
-    > **Açıklama:** Herhangi bir kompozisyonda yer alan tasarım öğelerinden, odak noktasını oluşturan görsel eleman(lar) “şekil” olarak algılanırken, geri kalan arka plan ya da kompozisyon alanının geri kalanı “zemin” olarak algılanır.
+    > **Açıklama:** Şekil-Zemin İlkesi
+    > Herhangi bir kompozisyonda yer alan tasarım öğelerinden, odak noktasını oluşturan görsel eleman(lar) “şekil” olarak algılanırken, geri kalan arka plan ya da kompozisyon alanının geri kalanı “zemin” olarak algılanır.
 
     ***
-1. I. Denge, II. Görsel hiyerarşi, III. Ritim, IV. Oran-orantı, V. Bütünlük<br />Yukarıdaki maddelerden hangileri tipografi  tasarımında görsel etkiyi arttıracak faktörlerdendir?
+1. I. Denge, II. Görsel hiyerarşi, III. Ritim, IV. Oran-orantı, V. Bütünlük<br />Yukarıdaki maddelerden hangileri tipografi tasarımında görsel etkiyi arttıracak faktörlerdendir?
     - A-) I, II
     - B-) I, III
     - C-) II, III, V
     - D-) I, III, IV, V
     - **Cevap E-) I, II, III, IV, V**
 
-    > **Açıklama:** Soru cümlesindeki tüm maddeler doğrudur. Doğru yanıt e seçeneğidir.
+    > **Açıklama:** TASARIM İLKELERİ VE TİPOGRAFİ
+    > Soru cümlesindeki tüm maddeler doğrudur. Doğru yanıt e seçeneğidir.
 
     ***
 1. Verilmek istenen mesaj doğrultusunda, tasarım yüzeyi üzerinde yer alan görsel elemanların, baskınlık derecesine göre ölçülendirilerek düzenlenmesine ne ad verilir?
@@ -2015,7 +2258,8 @@
     - D-) Tamamlama İlkesi
     - **Cevap E-) Bütünlük İlkesi**
 
-    > **Açıklama:** Doğru yanıt e seçeneğidir.
+    > **Açıklama:** GESTALT İLKELERİ VE TİPOGRAFİ
+    > Doğru yanıt e seçeneğidir.
 
     ***
 1. Aşağıdaki seçeneklerden hangisi bir nesneyi veya kompozisyon öğesini çevreleyen alan için kullanılır?
@@ -2025,7 +2269,19 @@
     - D-) Çizgi
     - E-) Leke
 
-    > **Açıklama:** Zemin, bir nesneyi veya kompozisyon öğesini çevreleyen alan için kullanılır. Doğru yanıt b seçeneğidir.
+    > **Açıklama:** Şekil-Zemin İlkesi
+    > Zemin, bir nesneyi veya kompozisyon öğesini çevreleyen alan için kullanılır. Doğru yanıt b seçeneğidir.
+
+    ***
+1. Görsel ilgiyi arttırmak, vurgu noktası oluşturmak, karmaşıklığı azaltmak ya da tasarımı sadeleştirmek amacıyla yapılan tasarımlar gestalt ilkelerinden hangisiyle açıklanır?
+    - A-) Benzerlik İlkesi
+    - B-) Devamlılık İlkesi
+    - **Cevap C-) Tamamlama İlkesi**
+    - D-) Yakınlık İlkesi
+    - E-) Şekil-Zemin İlkesi
+
+    > **Açıklama:** Tamamlama İlkesi
+    > Çoğunlukla görsel ilgiyi arttırmak, vurgu noktası oluşturmak, karmaşıklığı azaltmak ya da tasarımı sadeleştirmek amacıyla tamamlama ilkesine başvurulur. Doğru yanıt c seçeneğidir.
 
     ***
 1. "Bir bütün içerisindeki en küçük birimin, büyük birime olan oranı, büyük birimin ise bütüne olan oranına eşittir" ifadesi aşağıdaki seçeneklerden hangisiyle açıklanır?
@@ -2035,7 +2291,20 @@
     - **Cevap D-) Altın oran**
     - E-) Oran orantı
 
-    > **Açıklama:** Doğru yanıt d seçeneğidir.
+    > **Açıklama:** Oran-Orantı
+    > Doğru yanıt d seçeneğidir.
+
+    ***
+1. Aşağıdaki seçeneklerden hangisi tipografik düzenlemelerde görsel ağırlığı belirleyen faktörlerden değildir?
+    - A-) Şekil
+    - B-) Renk
+    - C-) Doku
+    - **Cevap D-) Işık**
+    - E-) Büyük-küçük ilişkisi
+
+    > **Açıklama:** TASARIM İLKELERİ VE TİPOGRAFİ
+    > Tipografik düzenlemelerde de şekil, renk, doku, büyük-küçük ilişkisi, konumlandırma ve düzenleme görsel ağırlığı belirleyen faktörlerdir.
+    > Doğru yanıt d seçeneğidir.
 
     ***
 1. Tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesini aşağıdaki seçeneklerden hangisi açıklar?
@@ -2055,7 +2324,8 @@
     - **Cevap D-) Çoğunlukla simetrik bir yapıya sahiptir**
     - E-) Benzer görsel elemanların düzensiz biçimde tekrarıdır
 
-    > **Açıklama:** Çoğunlukla simetrik bir yapıya sahiptir
+    > **Açıklama:** Tasarım İlkeleri ve Tipografi - Denge
+    > Çoğunlukla simetrik bir yapıya sahiptir
 
     ***
 1. Grafik tasarım alanında genel olarak kabul görmüş olan tasarım ilkelerinden olan, Görsel Hiyerarşiyi ifade eden seçenek hangisidir?
@@ -2065,7 +2335,8 @@
     - D-) Tasarım ilkeleri, görsel elemanların bir tasarım yüzeyi üzerinde nasıl ve hangi özellikler ile konumlandırılacağını belirleyen ilkelerdir
     - E-) Tipografik hiyerarşiyi desteklemeye yardımcı olması için rengi bir araç olarak kullanmadır
 
-    > **Açıklama:** Tasarımda yer alan fotoğraf, illüstrasyon, metin gibi görsel elemanları vurgulanmak istenen mesaja göre ölçülendirerek düzenleme yapılmasıdır
+    > **Açıklama:** Tasarım İlkeleri ve Tipografi - Görsel Hiyerarşi
+    > Tasarımda yer alan fotoğraf, illüstrasyon, metin gibi görsel elemanları vurgulanmak istenen mesaja göre ölçülendirerek düzenleme yapılmasıdır
 
     ***
 1. Tasarım İlkelerinden olan vurgu, bir tasarımda nasıl sağlabilir?
@@ -2075,7 +2346,8 @@
     - D-) Tasarım yüzeyinde yer alan eşdeğer ya da benzer görsel elemanların belirli aralıklarla, düzenli ya da düzensiz bir biçimde tekrar etmesiyle sağlanabilir
     - E-) Düzenli olarak tekrar eden ritmik yapılar ile dokusal görüntüler ya da hareket izlenimi yaratan görüntüler oluşturmadır
 
-    > **Açıklama:** Ön plana çıkması istenen baskın öğe ile ikinci planda kalması istenen öğeler arasında gerçekleştirilen zıtlıklarla sağlanabilir
+    > **Açıklama:** Tasarım İlkeleri ve Tipografi - Vurgu
+    > Ön plana çıkması istenen baskın öğe ile ikinci planda kalması istenen öğeler arasında gerçekleştirilen zıtlıklarla sağlanabilir
 
     ***
 1. Grafik tasarımda, tekrar düzenli bir yapı oluştururken, varyasyonun izleyicideki etkisi nedir?
@@ -2085,7 +2357,8 @@
     - D-) Görsel Hiyerarşidir
     - **Cevap E-) Dikkat çekmesidir**
 
-    > **Açıklama:** Dikkat çekmesidir
+    > **Açıklama:** Tasarım İlkeleri ve Tipografi - Ritm
+    > Dikkat çekmesidir
 
     ***
 1. Tipografik bir tasarımda bütünlük algısı nasıl oluşturulur?
@@ -2095,7 +2368,18 @@
     - D-) Tasarımda en az görsel ağırlığa sahip olan öğeledir
     - E-) Tasarımda en fazla görsel ağırlık verilen elemanla oluşturulur
 
-    > **Açıklama:** Birbiri ile uyumlu yazı karakterlerinin seçimi, hizalama, hareket ve yön birlikteliğinin sağlanması, gibi farklı yöntemlerle oluşturulabilir
+    > **Açıklama:** Tasarım İlkeleri ve Tipografi - Bütünlük
+    > Birbiri ile uyumlu yazı karakterlerinin seçimi, hizalama, hareket ve yön birlikteliğinin sağlanması, gibi farklı yöntemlerle oluşturulabilir
+
+    ***
+1. Oluşturulan tasarımlarda izleyicinin ilk olarak büyük olan parçayı algılaması, daha sonra küçük olan parçaları algılayarak parça-bütün ilişkisini kurması gestalt ilkelerinden hangisidir?
+    - A-) Benzerlik İlkesi
+    - B-) Tamamlama İlkesi
+    - C-) Şekil-Zemin İlkesi
+    - D-) Devamlılık İlkesi
+    - **Cevap E-) Yakınlık İlkesi**
+
+    > **Açıklama:** Gestalt İlkeleri ve Tipografi- Yakınlık İlkesi
 
     ***
 1. Herhangi bir kompozisyonda yer alan tasarım öğelerinden, odak noktasını oluşturan görsel elemanlar “şekil” olarak algılanırken, geri kalan arka plan ya da kompozisyon alanının geri kalanı “zemin” olarak algılanır. Tasarımda, Şekil-Zemin ilişkisinin oluşturulmasında, aşağıdaki seçeneklerden hangisi dikkat edilmesi gereken en önemli unsurdur?
@@ -2105,7 +2389,19 @@
     - D-) Renklerin kombinasyonu
     - E-) Tamamlama ilkesinin kullanımı
 
-    > **Açıklama:** Zıtlıkların kullanımı
+    > **Açıklama:** Gestalt İlkeleri ve Tipografi- Şekil-Zemin ilkesi
+    > Zıtlıkların kullanımı
+
+    ***
+1. Tasarım uygulamalarında, Gestalt İlkelerinin en önemli özelliği aşağıdaki seçeneklerden hangisidir?
+    - A-) Tasarımı sadeleştirmek amacıyla tamamlama ilkesi kullanılır
+    - B-) Genel yapıları benzerlik gösteren, ortak özelliklere sahip görsel elemanlar algısal bir grup oluşturmasıdır
+    - **Cevap C-) Bir tasarımda yalnızca bir ilke değil, birden fazla ilke bir arada yer alabilir**
+    - D-) Yazı karakteri tasarımlarında da tamamlama ilkesi kullanılabilir
+    - E-) Yakınlık ilkesi doğrultusunda oluşturulan tasarımlarda izleyicinin ilk olarak büyük olan parçayı algılamasıdır
+
+    > **Açıklama:** Gestalt İlkeleri ve Tipografi
+    > Bir tasarımda yalnızca bir ilke değil, birden fazla ilke bir arada yer alabilir
 
     ***
 1. Bir tasarımda, çoğunlukla görsel ilgiyi arttırmak, vurgu noktası oluşturmak, karmaşıklığı azaltmak ya da tasarımı sadeleştirmek amacıyla, gestalt ilkelerinden hangisi kullanılır?
@@ -2125,7 +2421,8 @@
     - D-) Renklerin etkisini arttırır
     - E-) Benzerlik İlkesini oluşturur
 
-    > **Açıklama:** Odak noktasını oluşturur
+    > **Açıklama:** Devamlılık İlkesi
+    > Odak noktasını oluşturur
 
     ***
 1. Aşağıdaki seçeneklerden hangisi tasarım ilkelerinden değildir?
@@ -2135,7 +2432,8 @@
     - D-) Oran-orantı
     - E-) Bütünlük
 
-    > **Açıklama:** A seçeneği doğru yanıttır.
+    > **Açıklama:** TASARIM İLKELERİ VE TİPOGRAFİ
+    > A seçeneği doğru yanıttır.
 
     ***
 1. Aşağıdakilerden hangisi tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesine verilen addır?
@@ -2145,7 +2443,19 @@
     - D-) Vurgu
     - E-) Oran-Orantı
 
-    > **Açıklama:** görsel tasarım bağlamında tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesidir. Doğru yanıt b seçeneğidir.
+    > **Açıklama:** Denge
+    > görsel tasarım bağlamında tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesidir. Doğru yanıt b seçeneğidir.
+
+    ***
+1. Aşağıdakilerden hangisi görsel tasarımda tipografik düzenlemelerde görsel ağırlığı belirleyen faktörlerden değildir?
+    - A-) Şekil
+    - B-) Renk
+    - C-) Doku
+    - **Cevap D-) Ritim**
+    - E-) Büyük küçük ilişkisi
+
+    > **Açıklama:** TASARIM İLKELERİ VE TİPOGRAFİ
+    > Doğru yanıt d seçeneğidir.
 
     ***
 1. Verilmek istenen mesaj doğrultusunda, tasarım yüzeyi üzerinde yer alan görsel elemanların, baskınlık derecesine göre ölçülendirilerek düzenlenmesine ne ad verilir?
@@ -2165,7 +2475,8 @@
     - D-) I, III, IV, V
     - **Cevap E-) I, II, III, IV, V**
 
-    > **Açıklama:** Soruda yer alan tüm maddeler doğrudur. Doğru yanıt e seçeneğidir.
+    > **Açıklama:** Görsel Hiyerarşi
+    > Soruda yer alan tüm maddeler doğrudur. Doğru yanıt e seçeneğidir.
 
     ***
 1. Aşağıdaki seçeneklerden hangisi birbirinin aynısı ya da benzer olan öğelerin belirli bir düzen içerisinde tekrar etmesi olarak tanımlanır?
@@ -2195,15 +2506,16 @@
     - D-) Tamamlama
     - E-) Süreklilik
 
-    > **Açıklama:** Doğru yanıt c seçeneğidir.
+    > **Açıklama:** GESTALT İLKELERİ VE TİPOGRAFİ
+    > Doğru yanıt c seçeneğidir.
 
     ***
-1. Ayrı parçalardan oluşan ya da dış hatları tamamen tamamlanmayan görsel elemanların bir bütün olarak algılanması gestalt ilkelerinden hangisi ile açıklanır?
+1. Ayrı parçalardan oluşan ya da dış hatları tamamen tamamlanmayan görsel elemanların bir bütün olarak algılanması gestalt ilkelerinden hangisi ile açıklanır?
     - A-) Yakınlık İlkesi
-    - B-) Benzerlik İlkesi
-    - C-) Şekil-zemin İlkesi
-    - **Cevap D-) Tamamlama İlkesi**
-    - E-) Süreklilik İlkesi
+    - B-) Benzerlik İlkesi
+    - C-) Şekil-zemin İlkesi
+    - **Cevap D-) Tamamlama İlkesi**
+    - E-) Süreklilik İlkesi
 
     > **Açıklama:** Doğru yanıt tamamlama İlkesi d seçeneğidir.
 
@@ -2215,7 +2527,8 @@
     - D-) Yakınlık ilkesi
     - **Cevap E-) Altın oran**
 
-    > **Açıklama:** Doğru yanıt altın oran, e seçeneğidir.
+    > **Açıklama:** Oran-orantı
+    > Doğru yanıt altın oran, e seçeneğidir.
 
     ***
 1. Tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesi hangi tasarım ilkesiyle ilgilidir?
@@ -2338,6 +2651,16 @@
     > **Açıklama:** Fiziksel anlamda iki varlığın eşitlik durumu olarak tanımlanan **denge,** görsel tasarım bağlamında tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesidir.
 
     ***
+1. Aşağıdakilerden hangisi görsel ağırlığı belirleyen faktörler arasında **değildir?**
+    - A-) Biçim
+    - B-) Renk
+    - **Cevap C-) Sayfa sayısı**
+    - D-) Doku
+    - E-) Büyük-küçük ilişkisi
+
+    > **Açıklama:** Görsel tasarımda “ağırlık”, gerçek veya fiziksel bir yerçekimi kuvveti olarak değil, “görsel ağırlık” olarak tanımlanır. Diğer görsel tasarım elemanlarında olduğu gibi tipografik düzenlemelerde de **şekil, renk, doku, büyük-küçük ilişkisi, konumlandırma** ve **düzenleme** görsel ağırlığı belirleyen faktörlerdir.
+
+    ***
 1. "Çoğunlukla simetrik bir yapıya sahip olan **...,** bir veya daha fazla kelimenin yalnızca sunulduğu biçimde değil, aynı zamanda farklı yönlerden de okunabildiği tipografik düzenlemelerdir" açıklamasında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - A-) Amblem
     - B-) Denge
@@ -2388,7 +2711,7 @@
     > **Açıklama:** **Altın oran**, bütün içerisinde bir dizi bölme sonucu elde edilen orantısal bir ilişkidir. **Altın oran**a göre; bir bütün içerisindeki en küçük birimin, büyük birime olan oranı, büyük birimin ise bütüne olan oranına eşittir.
 
     ***
-1. "**...**   ilkesi doğrultusunda oluşturulan tasarımlarda izleyici ilk olarak büyük olan parçayı algılar, daha sonra küçük olan parçaları algılayarak parça-bütün ilişkisini kurar ve tasarımın bütüncül anlamına ulaşır" tanımında sözü edilen Gestalt ilkesi aşağıdakilerden hangisidir?
+1. "**...**  ilkesi doğrultusunda oluşturulan tasarımlarda izleyici ilk olarak büyük olan parçayı algılar, daha sonra küçük olan parçaları algılayarak parça-bütün ilişkisini kurar ve tasarımın bütüncül anlamına ulaşır" tanımında sözü edilen Gestalt ilkesi aşağıdakilerden hangisidir?
     - A-) Benzerlik
     - **Cevap B-) Yakınlık**
     - C-) Tamamlama
@@ -2398,7 +2721,18 @@
     > **Açıklama:** **Yakınlık** ilkesi doğrultusunda oluşturulan tasarımlarda izleyici ilk olarak büyük olan parçayı algılar, daha sonra küçük olan parçaları algılayarak parça-bütün ilişkisini kurar ve tasarımın bütüncül anlamına ulaşır.
 
     ***
-1. Aşağıdakilerden hangisi Gestalt **şekil-zemin** ilkesini doğru biçimde tanımlamaktadır?
+1. Tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesine dayalı tasarım ilkesi aşağıdakilerden hangisidir?
+    - **Cevap A-) Denge**
+    - B-) Görsel Hiyerarşi
+    - C-) Vurgu
+    - D-) Ritim
+    - E-) Bütünlük
+
+    > **Açıklama:** Fiziksel anlamda iki varlığın eşitlik durumu olarak tanımlanan denge, görsel tasarım bağlamında
+    > tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesidir. Bir kompozisyonda denge, kimi zaman eşdeğer ve benzer öğeler ile kimi zaman ise farklı görsel özelliklere sahip, birbirine benzemeyen öğelerin düzenlenmesiyle sağlanabilir (Poulin, 2011).
+
+    ***
+1. Aşağıdakilerden hangisi Gestalt **şekil-zemin** ilkesini doğru biçimde tanımlamaktadır?
     - A-) Bilişsel sistemimiz açık figürleri, kapalı figürler olarak algılama eğilimindedir. Bu nedenle ayrı parçalardan oluşan ya da dış hatları tamamen tamamlanmayan görsel elemanlar, bir bütün olarak algılanabilir. Kimi zaman boş bir alan bile bir nesne olarak algılanabilir.
     - **Cevap B-) Bilişsel sistemimiz görsel bir alanı, ön plan ve arka plan olmak üzere ikiye ayırır. Şekil olarak algılanan ön plan, tasarım yüzeyi üzerinde birincil olarak dikkatimizi çeken görsel eleman(lar)dır. Zemin olarak algılanan arka plan ise, ikincil olarak dikkatimizi çeken diğer unsur(lar)dır.**
     - C-) Görsel ele- manları gruplama, organize etme eğiliminde olan bilişsel sistemimiz, sürekliliği olan biçimleri bir bütün olarak algılar. Birbiri ile bağlantısı olmayan görsel elemanlar, birbiri ile bağlantılı görsel elemanlara göre daha karmaşıktır ve zor algılanırlar.
@@ -2415,7 +2749,20 @@
     - D-) Ritim
     - E-) Bütünlük
 
-    > **Açıklama:** Görsel hiyerarşi
+    > **Açıklama:** Bir tasarımcının en önemli görevlerinden birisi, mesajın izleyici tarafından doğru anlaşılmasını sağlamaktır. Bu nedenle her tasarımcı, tasarımda yer alan fotoğraf, illüstrasyon, metin gibi görsel elemanları vurgulanmak istenen mesaja göre ölçülendirerek görsel hiyerarşiyi sağlamalıdır. Tasarım yüzeyi üzerinde yer alan görsel elemanların birbirlerinin algılanmasını engellemeden, belirli bir sıraya göre düzenlenmesi, mesajın izleyiciye ulaşma başarısını olumlu yönde etkileyecektir. Bu nedenle tasarımda yer alan öğeler, birincil, ikincil, üçüncül ve giderek azalan üstünlük derecesine göre sınıflandırılmalıdır (Turgut, 2013).
+
+    ***
+1. Tasarımın ana metni olan ve genellikle tasarımdaki en küçük türlerden biri olan ancak tüm potansiyel kullanıcılar tarafından tamamen okunabilecek kadar büyük olması gereken tipografik düzey aşağıdakilerden hangisidir?
+    - **Cevap A-) Üçüncül düzey**
+    - B-) Diğer düzeyler
+    - C-) Birincil düzey
+    - D-) İkincil düzey
+    - E-) Alt bilgiler düzeyi
+
+    > **Açıklama:** Üçüncü düzey ise, tasarımın ana metnidir. Genellikle tasarımdaki en küçük türlerden biridir,
+    > ancak tüm potansiyel kullanıcılar tarafından tamamen okunabilecek kadar büyük olması gerekir.
+    > Bu düzeyde kullanılacak olan yazı karakteri seçimi, tasarım, boşluk ve genel kullanım açısından
+    > basit ve tutarlı olmalıdır.
 
     ***
 1. Görsel bir düzenlemede, görsel bir elemandan diğerine doğru akışı sağlayan ilke aşağıdakilerden hangisidir?
@@ -2433,7 +2780,7 @@
     - B-) Sıcak-soğuk ilişkisi
     - **Cevap C-) Benzerlik ilişkisi**
     - D-) Parça-bütün ilişkisi
-    - E-) Büyük-küçük ilişkisi
+    - E-) Büyük-küçük ilişkisi
 
     > **Açıklama:** Benzerlik ilişkisi
 
@@ -2470,12 +2817,12 @@
     ***
 1. İzleyicinin ilk olarak büyük olan parçayı algılaması, daha sonra küçük parçaları algılayarak parça-bütün ilişkisi kurarak tasarımın bütüncül anlamına ulaşması Gestalt kuramının hangi ilkesiyle açıklanabilir?
     - A-) Benzerlik ilkesi
-    - B-) Tamamlama ilkesi
-    - C-) Şekil-zemin ilkesi
-    - D-) Devamlılık ilkesi
-    - **Cevap E-) Yakınlık ilkesi**
+    - B-) Tamamlama ilkesi
+    - C-) Şekil-zemin ilkesi
+    - D-) Devamlılık ilkesi
+    - **Cevap E-) Yakınlık ilkesi**
 
-    > **Açıklama:** Yakınlık ilkesi
+    > **Açıklama:** Yakınlık ilkesi
 
     ***
 1. Özellikle zıtlıkların kullanımı ile doğrudan ilişkili olan Gestalt kuramı aşağıdaki seçeneklerden hangisinde verilmiştir?
@@ -2510,12 +2857,12 @@
     ***
 1. Tasarımın ana metnini oluşturan tipografik tasarım düzeyi aşağıdaki seçeneklerden hangisinde verilmiştir?
     - A-) Birincil düzey
-    - B-) İkincil düzey
-    - **Cevap C-) Üçüncü düzey**
-    - D-) Dördüncü düzey
-    - E-) Diğer düzeyler
+    - B-) İkincil düzey
+    - **Cevap C-) Üçüncü düzey**
+    - D-) Dördüncü düzey
+    - E-) Diğer düzeyler
 
-    > **Açıklama:** Üçüncü düzey
+    > **Açıklama:** Üçüncü düzey
 
     ***
 1. Kapalılık olarak da bilinen ve bilişsel sistemimiz açık figürleri, kapalı figürler olarak algılama eğilimine dayalı olan Gestalt tasarım ilkesi aşağıdakilerden hangisidir?
@@ -2525,7 +2872,8 @@
     - D-) Şekil-zemin
     - E-) Süreklilik
 
-    > **Açıklama:** Tamamlama
+    > **Açıklama:** Görsel iletişimde tamamlama, görsel bir yanılsama olarak tanımlanabilir. Kapalılık olarak da bilinen
+    > tamamlama ilkesine göre bilişsel sistemimiz açık figürleri, kapalı figürler olarak algılama eğilimindedir. Bu nedenle ayrı parçalardan oluşan ya da dış hatları tamamen tamamlanmayan görsel elemanlar, bir bütün olarak algılanabilir. Kimi zaman boş bir alan bile bir nesne olarak algılanabilir.
 
     ***
 1. Tipografik devamlılığın sağlanmasında önemli olan ve kullanılan yaklaşım aşağıdakilerden hangisidir?
@@ -2535,7 +2883,8 @@
     - D-) Dikkat
     - E-) Algıda seçicilik
 
-    > **Açıklama:** Hizalama
+    > **Açıklama:** Tipografik devamlılığın sağlanmasında “hizalama” oldukça önemlidir. Harfler alt alta
+    > ya da yan yana aynı hizada yer alacak şekilde düzenlenerek bu düzen sürdürülürse devamlılık da sürdürülür.
 
     ***
 1. “Bilişsel sistemimiz görsel bir alanı tasarım yüzeyi üzerinde birincil olarak dikkatimizi çeken görsel elemanlar ve ikincil olarak dikkatimizi çeken diğer unsurlara göre algılar” ifadesinde birincil ve ikincil olarak dikkat çeken unsurlar Gestalt tasarım ilkesinin hangi boyutu ile ilgilidir?
@@ -2545,7 +2894,7 @@
     - D-) Benzerlik
     - E-) Tamamlama
 
-    > **Açıklama:** Şekil-zemin
+    > **Açıklama:** Şekil-zemin ilkesine göre bilişsel sistemimiz görsel bir alanı, ön plan (şekil) ve arka plan (zemin) olmak üzere ikiye ayırır. Şekil olarak algılanan ön plan, tasarım yüzeyi üzerinde birincil olarak dikkatimizi çeken görsel eleman(lar)dır. Zemin olarak algılanan arka plan ise, ikincil olarak dikkatimizi çeken diğer unsur(lar)dır.
 
     ***
 1. Aşağıdakilerden hangisi etkili bir tipografik hiyerarşi için dikkat edilmesi gerekenlerden biridir?
@@ -2555,7 +2904,15 @@
     - D-) Tipografik hiyerarşide rengi bir amaç olarak kullanmak gerekir.
     - E-) Tasarımda tipografik hiyerarşide siyah alanı vurgu oluşturmak için kullanın.
 
-    > **Açıklama:** Kenar çubukları, madde işaretlendirmeleri ve renklendirme kutuları ile uzun metinleri düzenleyin.
+    > **Açıklama:** Etkili bir tipografik hiyerarşi için dikkat edilmesi gerekenler (Strizver, 2014);
+    > • Bilgilerin önem sırasını belirleyin.
+    > • En önemli bilgileri odak noktası haline getirin.
+    > • Metni ayırmaya ve vurgulamaya yardımcı olabilecek alt başlıklar, büyük-küçük harf kullanımı ve
+    > paragraf girişleri kullanın.
+    > • Kenar çubukları, madde işaretlendirmeleri ve renklendirme kutuları ile uzun metinleri düzenleyin.
+    > • Metin hizalamalarına ve sütun genişliklerine dikkat edin.
+    > • Tipografik hiyerarşiyi desteklemeye yardımcı olması için rengi bir araç olarak kullanın.
+    > • Kenar boşluklarını ve beyaz alanları vurgu oluşturmak için kullanın.
 
     ***
 1. Tasarımda vurgu oluşturulması sürecinde dikkat edilmesi gereken noktalar aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?
@@ -2565,17 +2922,19 @@
     - D-) Vurgulama, sadece ön plana çıkması istenen öğeler arasında sağlanır.
     - E-) İkinci planda kalması istenen öğeler vurgulama sürecinde dikkate alınmamalıdır.
 
-    > **Açıklama:** Tasarımda vurgu sağlamak için birincil ve ikincil plandaki öğeler arasında zıtlık oluşturulur.
+    > **Açıklama:** Tasarımda belirli bir öğe vurgulanabileceği gibi birden fazla öğe ya da belirli bir alan da vurgulanabilir. Ancak bir tasarımda tüm görsel eleman(lar) ya da alan(lar) aynı anda dikkat çekemezler. Bu nedenle tasarımda birden fazla vurgulayıcı unsurun olmamasına dikkat edilmelidir. Vurgulama, ön plana çıkması istenen baskın öğe ile ikinci planda kalması istenen öğeler arasında gerçekleştirilen zıtlıklarla sağlanabilir.
+    > Tasarımda vurgu sağlamak için birincil ve ikincil plandaki öğeler arasında zıtlık oluşturulur.
 
     ***
-1. 1. Büyük/küçük harf kullanımı<br />2. Beyaz alan kullanımı<br />3. Yazı tipi seçimleri ve yön, yerleşim<br />4. Açık renk-koyu renk karşıtlığı<br />5. Sıcak renk-soğuk renk karşıtlığı<br />Yukarıdakilerden hangileri grafik tasarım ilkelerinden "vurgulama" ilkesi için kullanılabilecek uygulama seçeneklerindendir?
+1. 1\. Büyük/küçük harf kullanımı<br />2\. Beyaz alan kullanımı<br />3\. Yazı tipi seçimleri ve yön, yerleşim<br />4\. Açık renk-koyu renk karşıtlığı<br />5\. Sıcak renk-soğuk renk karşıtlığı<br />Yukarıdakilerden hangileri grafik tasarım ilkelerinden "vurgulama" ilkesi için kullanılabilecek uygulama seçeneklerindendir?
     - A-) I, II, III, IV
     - B-) III ve V
     - C-) I, III, V
     - D-) IV ve V
     - **Cevap E-) I, II, III, IV, V**
 
-    > **Açıklama:** Vurgulama,
+    > **Açıklama:** Tipografik düzenlemelerde zıtlık (kontrastlık), büyük/küçük harf kullanımı, hizalamalar, beyaz alan kullanımı, yazı tipi seçimleri ve yön, yerleşim, boyut, biçim, doku, renk karşıtlıkları (açık renk-koyu renk, sıcak renk-soğuk renk) ile sağlanabilir (Becer, 2015; Poulin, 2017).
+    > Vurgulama,
     > ön plana çıkması istenen baskın öğe ile ikinci planda
     > kalması istenen öğeler arasında gerçekleştirilen
     > zıtlıklarla sağlanabilir. Tipografik düzenlemelerde
@@ -2584,6 +2943,17 @@
     > ve yön, yerleşim, boyut, biçim, doku, renk karşıtlıkları
     > (açık renk-koyu renk, sıcak renk-soğuk renk)
     > ile sağlanabilir (Becer, 2015; Poulin, 2017).
+
+    ***
+1. Genellikle görsel öğelerin boyut, uzunluk veya ağırlık bakımından benzer olduğu, öğeler arasındaki aralıkların düzenli olduğu yapıların oluşturduğu ritim aşağıdakilerden hangisidir?
+    - **Cevap A-) Düzenli ritim**
+    - B-) Akan ritim
+    - C-) Aşamalı ritim
+    - D-) Ritmik yapı
+    - E-) Varyasyon ritmi
+
+    > **Açıklama:** Düzenli Ritim (Regular): Genellikle görsel öğelerin boyut, uzunluk veya ağırlık bakımından benzer
+    > olduğu, öğeler arasındaki aralıkların düzenli olduğu yapıların oluşturduğu ritimdir.
 
     ***
 ## Unite 6
@@ -2595,6 +2965,16 @@
     - E-) İmge
 
     > **Açıklama:** Tipografi bir metne yönelik vurgu, bağlam, hiyerarşi gibi amaçları gerçekleştirmek için yazıyı (harfleri) karakter, büyüklük, boşluk, açıklık ve paragraf özelliklerini kullanarak şekillendiren tasarım disiplinidir. Yazılı bir fikre görsel form verilmesini amaçlar.
+
+    ***
+1. Günümüz terminolojisinde “**.......... ...........**” tanımlaması, **..............** az olduğu ya da hiç olmadığı, **.............** bizzat mesajın taşıyıcısı olduğu çalışmaları tarif etmek için kullanılmaktadır.<br />Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?
+    - A-) logotype tasarım / imgenin / tipografinin
+    - B-) tipografik tasarım / metnin / imgenin
+    - C-) logotype tasarım / görselin / tipografinin
+    - **Cevap D-) tipografik tasarım / görselin / yazının**
+    - E-) Jenerik tasarım / yazının / görselin
+
+    > **Açıklama:** Günümüz terminolojisinde **“tipografik tasarım”** tanımlaması, **görselin** az olduğu ya da hiç olmadığı, **yazının** (harflerin vb.) bizzat mesajın taşıyıcısı olduğu çalışmaları tarif etmek için kullanılmaktadır.
 
     ***
 1. Tipografinin konumlandırma ve ölçülendirme üzerine her projede yeniden hazırlık ve hesaplama yapılması gereken kullanım alanı aşağıdakilerden hangisidir?
@@ -2618,6 +2998,18 @@
     > **Açıklama:** Form ile Oluşturulan Kurumsal İmge: Amblem
 
     ***
+1. Bir kurum, kuruluş ya da düşüncenin akılda kalıcı ve benzersiz bir görselleştirme ile temsil edilmesine ne ad verilir?
+    - A-) İşaretleme
+    - **Cevap B-) Logo**
+    - C-) Logogram
+    - D-) Sergileme
+    - E-) Piktogram
+
+    > **Açıklama:** Kurumsal kimlik tasarımının yapı taşı ve başlangıç noktası logodur. Logo, amblem veya Logotype’dan
+    > meydana gelir. Logo, bir kurum, kuruluş ya da düşüncenin akılda kalıcı ve benzersiz bir görselleştirme ile temsil
+    > edilmesidir.
+
+    ***
 1. Tipografi tasarımını süre ve sekansa göre düzenleyen ilk medyum aşağıdakilerden hangisidir?
     - A-) Televizyon yayıncılığı
     - B-) Masaüstü yayıncılığı
@@ -2627,7 +3019,7 @@
 
     > **Açıklama:** Sinema ve hareketli grafik tasarımcıların öncü örneklerinde tipografik tasarım hareketlendirilerek
     > tasarımın yeni boyutu olan süre ve sekansa göre düzenlenmeye başlanmıştır. Saul Bass’ın Görsel
-    > 6.4’te görülen jenerik tasarımı, bilgisayar ve benzeri kolaylaştırıcı teknolojilerin çok öncesinde, sinema film kareleri üzerine çalışılarak gerçekleştirilmiştir.
+    > 6\.4’te görülen jenerik tasarımı, bilgisayar ve benzeri kolaylaştırıcı teknolojilerin çok öncesinde, sinema film kareleri üzerine çalışılarak gerçekleştirilmiştir.
     > Bir yandan akan bir jeneriğin parçası olan tasarım, tipografi ile yaratılan imgenin büyüklüğü sayesinde
     > sinema filmine ait bir kurumsal kimlik gibi de algılanmaktadır. Heyecan verici bu çalışmalar zamanın
     > afiş tasarımlarında da yansımalarını göstermiştir.
@@ -2636,7 +3028,7 @@
     > etapta yalnızca sinema filmleri için yapılıyor olması kitlelerin bu tasarımlarla buluşmasını kısıtlamıştır. Daha sonra televizyonun hızla evlere girmesi ve ardından başlayan televizyon yayıncılığı jenerik konusundaki bilgi birikiminin değerlendirildiği yeni bir ortam olmuştur.
 
     ***
-1. 1. Tasarım uygulanacak mekâna/alana göre tasarlanır.<br />2. Tasarım mesafeye göre tasarlanır.<br />3. İzleyici hareketlidir.<br />4. İzleyicinin içeriği deneyimlemesi hedeflenir.<br />5. Harf yüksekliği punto cinsinden tarif edilir.<br />Çevresel grafik tasarımın diğer dalı olan sergileme tasarımı ile ilgili yukarıdaki ifadelerden hangileri doğrudur?
+1. 1\. Tasarım uygulanacak mekâna/alana göre tasarlanır.<br />2\. Tasarım mesafeye göre tasarlanır.<br />3\. İzleyici hareketlidir.<br />4\. İzleyicinin içeriği deneyimlemesi hedeflenir.<br />5\. Harf yüksekliği punto cinsinden tarif edilir.<br />Çevresel grafik tasarımın diğer dalı olan sergileme tasarımı ile ilgili yukarıdaki ifadelerden hangileri doğrudur?
     - A-) Yalnız I ve II
     - B-) Yalnız I ve III
     - C-) II, III ve V
@@ -2668,7 +3060,7 @@
     > karakteri de **16 px** olarak seçilmelidir.
 
     ***
-1. 1. Yazı boyutlarını diğer elemanlar ile benzer katsayı sistemle seçmek<br />2. Satır genişliğini 45-75 karakter arasında seçmek<br />3. İtalik ve ince yazı karakterleri kullanmak<br />4. Arayüz fonuyla ayrışan renklerde font belirlemek<br />5. Satır aralarını sık ayarlamak<br />Dijital ekranlarda tipografinin doğru kullanımı için dikkat edilmesi gereken okunaklılık kıstasları yukarıdakilerden hangileridir?
+1. 1\. Yazı boyutlarını diğer elemanlar ile benzer katsayı sistemle seçmek<br />2\. Satır genişliğini 45-75 karakter arasında seçmek<br />3\. İtalik ve ince yazı karakterleri kullanmak<br />4\. Arayüz fonuyla ayrışan renklerde font belirlemek<br />5\. Satır aralarını sık ayarlamak<br />Dijital ekranlarda tipografinin doğru kullanımı için dikkat edilmesi gereken okunaklılık kıstasları yukarıdakilerden hangileridir?
     - A-) Yalnız I ve II
     - B-) I, II ve III
     - **Cevap C-) I, II ve IV**
@@ -2678,10 +3070,13 @@
     > **Açıklama:** Okumayı kolaylaştırmanın bir diğer önemli kıstası satır genişliğidir. Bugün en ideal satır genişliği boşluk ve noktalama işaretleri dahil 45-75 karakter arasında seçilmelidir.
     > Çok sık ayarlanmış satır araları ya da çok geniş ayarlanmış paragraf genişlikleri okuma deneyimini sekteye
     > uğratmaktadır.
-    > Bir diğer önemli nokta ise yazı boyutlarının arayüz tasarımını diğer elemanları ile benzer katsayıları paylaşan bir sistemle ile seçilmesi gerektiğidir. Doğru boyutlandırmanın yanında okunurluğun en büyük yardımcılarından biri de doğru font seçimidir. Günümüz ekran teknolojileri her ne kadar pek çok yazı karakterini en iyi biçimde görüntüleyebilecek biçimde gelişse de özellikle ufak boyutlarda bazı sınırlandırmalara dikkat etmek önem taşır. Özellikle İtalik ve İnce yazı karakterleri dijital ekranlarda en zor görüntülenen biçemlerdir. Onların ardından genellikle iç boşlukları çok ufak olan Black kalınlıktaki yazı karakterleri izlemektedir. Küçük boyutlarda azalan piksel sayısını takiben kolaylıkla harf içi boşlukları yok olan bu yazı karakterleri özellikle mobil arabirimlerde
+    > Bir diğer önemli nokta ise yazı boyutlarının arayüz tasarımını diğer elemanları ile benzer katsayıları paylaşan bir sistemle ile seçilmesi gerektiğidir. Doğru boyutlandırmanın yanında okunurluğun en büyük yardımcılarından biri de doğru font seçimidir. Günümüz ekran teknolojileri her ne kadar pek çok yazı karakterini en iyi biçimde görüntüleyebilecek biçimde gelişse de özellikle ufak boyutlarda bazı sınırlandırmalara dikkat etmek önem taşır. Özellikle İtalik ve İnce yazı karakterleri dijital ekranlarda en zor görüntülenen biçemlerdir. Onların ardından genellikle iç boşlukları çok ufak olan Black kalınlıktaki yazı karakterleri izlemektedir. Küçük boyutlarda azalan piksel sayısını takiben kolaylıkla harf içi boşlukları yok olan bu yazı karakterleri özellikle mobil arabirimlerde
     > tercih edilmemektedir. Bir diğer dikkat edilmesi gereken nokta ise uzun metinlerde seçilen yazı karakteri
+    > seçimleridir. Bilhassa piksel sayısı düşük ekranlarda ince ayrıntılara sahip tırnaklı yazı karakterleri tercih
+    > edilmemektedir.
     > Dijital okumalar için doğru yazı karakteri seçiminin anahtarı farklı
     > kullanımları (başlık, alt başlık ve gövde metin) arasında belirgin kontrast farklılıkları barındıran, arayüz
+    > fonuyla ayrışan renklere sahip, uyumlu font ailelerini harmanlayabilmekte yatmaktadır.
 
     ***
 1. Pek çok font belgesini tek bir belgeye indirgeyerek dinamik font belgeleri yaratılabilen yazı karakteri türü aşağıdakilerden hangisidir?
@@ -2694,6 +3089,19 @@
     > **Açıklama:** Güncelin dijital etkileşimlerinin gereklilikleri odaklı tasarlanan değişken yazı karakterleri gelenekselleşmiş font ailesi kavramını tek bir font belgesi üzerinde toplamaktadır. Font aileleri Bold, İtalik, Extended, Condensed gibi farklı ağırlık ve genişlikteki türleri ayrı font belgesi olarak saklamaktayken değişken yazı karakterleri tüm bu aile özelliklerini yazılım parametreleri haline getirip sonsuz olasılıkta değişkenlik sağlayan dinamik font belgeleri yaratmaktadır.
 
     ***
+1. Tipografiyle ilgili olarak aşağıda verilen tanımlardan hangisi ya da hangileri söylenebilir?<br />I- Yazıya anlam, hiyerarşi ve ruh kazandıran tasarım disiplinidir.<br />II-Yazılı bir fikre görsel form verilmesini sağlar.<br />III-Mesaj iletişiminde yazının görünümünü ve işlevini yöneten çalışma alanıdır.
+    - A-) I ve II
+    - B-) II ve III
+    - C-) Sadece III
+    - **Cevap D-) I, II ve III**
+    - E-) Sadece I
+
+    > **Açıklama:** Tipografiyi tanımlamak
+    > Tipografi ise yazıya anlam, hiyerarşi ve ruh kazandırır ve yazılı bir fikre görsel form verilmesini
+    > amaçlar. Mesaj iletişiminde yazının görünümünü ve işlevini yöneten çalışma
+    > alanıdır.
+
+    ***
 1. Kurumsal kimlik tasarımının yapı taşı ve başlangıç noktası ........ olarak kabul edilir.<br />Yukarıda boş bırakılan yere gelecek olan terim aşağıdaki şıklardan hangisinde verilmiştir?
     - A-) Davetiye
     - **Cevap B-) Logo**
@@ -2701,7 +3109,8 @@
     - D-) Afiş
     - E-) Piktogram
 
-    > **Açıklama:** Kurumsal kimlik tasarımının yapı taşı ve başlangıç noktası logodur. Logo, amblem veya Logotype’dan meydana gelir. Pazarlamacılar logoyu kalabalıktaki tanıdık yüz olarak tanımlamaktadırlar.
+    > **Açıklama:** TİPOGRAFİNİN LOGO TASARIMINDA KULLANIMI
+    > Kurumsal kimlik tasarımının yapı taşı ve başlangıç noktası logodur. Logo, amblem veya Logotype’dan meydana gelir. Pazarlamacılar logoyu kalabalıktaki tanıdık yüz olarak tanımlamaktadırlar.
 
     ***
 1. Harflerin kendilerine özgü formlarını, okunurluğu bozmadan harflerin alanlarına özgün eklentiler yaparak oluşturulan yazıyla bütünleşik kurumsal imgeye ne ad verilir?
@@ -2711,7 +3120,8 @@
     - D-) Marka
     - E-) Afiş
 
-    > **Açıklama:** Logotype da logonun kendisi salt yazıyla oluşturulmaktadır (Lupton, 2010). Harfler hali hazırda kendilerine özgü birer formken, okunurluğu
+    > **Açıklama:** Yazıyla Bütünleşik Kurumsal İmge: Logotayp
+    > Logotype da logonun kendisi salt yazıyla oluşturulmaktadır (Lupton, 2010). Harfler hali hazırda kendilerine özgü birer formken, okunurluğu
     > bozmadan harflerin alanlarına özgün eklentiler yapmak son derece zor bir iştir. Logotype ile amblem yazısı arasındaki temel
     > fark, logotype harfler üzerinde oluşturulan formun harflerle, artık sökülemeyecek kadar iç içe geçmiş olmasıdır. Oluşturulan form bir harfin yerini almış
     > ya da oluşan boşluğa sıkışmış olabilir.
@@ -2724,7 +3134,8 @@
     - **Cevap D-) I ve II**
     - E-) II ve III
 
-    > **Açıklama:** Yazının tipografi pratiğindeki gelişimini asıl hızlandıran unsur 1980 sonrası yaşanan teknolojik
+    > **Açıklama:** Tipografiyi anlamak
+    > Yazının tipografi pratiğindeki gelişimini asıl hızlandıran unsur 1980 sonrası yaşanan teknolojik
     > gelişmelerdir (Hillner, 2009). Masaüstü yayıncılık teknolojisinin gelişmesi ve erişilebilir olması tasarımın hayata geçirilme sürecindeki zahmetleri ortadan kaldırarak bir anda büyük deneme kolaylığı getirmiştir.
 
     ***
@@ -2735,21 +3146,23 @@
     - **Cevap D-) I, II ve III**
     - E-) I ve II
 
-    > **Açıklama:** Yazının bir görsel form gibi şekillendirilmeye başlanması 20. yüzyıldaki öncü tasarımcıların çalışmalarıyla gerçekleşmiştir. Öncesinde sistematik olarak dizilen yazı, artık en küçük yapı taşı olan
+    > **Açıklama:** Tipografiyi tanımlamak
+    > Yazının bir görsel form gibi şekillendirilmeye başlanması 20. yüzyıldaki öncü tasarımcıların çalışmalarıyla gerçekleşmiştir. Öncesinde sistematik olarak dizilen yazı, artık en küçük yapı taşı olan
     > harfe kadar özenle şekillendiriliyor ve böylece içerik neredeyse harf vurgusuyla dahi ilişkilendiriliyordu.
     > Sinema ve hareketli grafik tasarımcıların öncü örneklerinde tipografik tasarım hareketlendirilerek
-    > tasarımın yeni boyutu olan süre ve sekansa göre düzenlenmeye başlanmıştır. Bu tür çalışmaların ilk
+    > tasarımın yeni boyutu olan süre ve sekansa göre düzenlenmeye başlanmıştır. Bu tür çalışmaların ilk
     > etapta yalnızca sinema filmleri için yapılıyor olması kitlelerin bu tasarımlarla buluşmasını kısıtlamıştır. Daha sonra televizyonun hızla evlere girmesi ve ardından başlayan televizyon yayıncılığı jenerik konusundaki bilgi birikiminin değerlendirildiği yeni bir ortam olmuştur.
 
     ***
-1. Aşağıdakilerden hangisi ya da hangileri basılı grafikler arasında yer alan bilboradlarda  yüzeyin taşıyacağı içerik üretimini belirleyen unsurlar arasında yer alır?<br />I-İzleyicinin yüzeye olan mesafesi<br />II-İzleyicinin ayırabileceği zaman<br />III- İzleyicinin yaş grubu
+1. Aşağıdakilerden hangisi ya da hangileri basılı grafikler arasında yer alan bilboradlarda yüzeyin taşıyacağı içerik üretimini belirleyen unsurlar arasında yer alır?<br />I-İzleyicinin yüzeye olan mesafesi<br />II-İzleyicinin ayırabileceği zaman<br />III- İzleyicinin yaş grubu
     - A-) Sadece III
     - B-) Sadece I
     - C-) Sadece II
     - **Cevap D-) I ve II**
     - E-) I ve III
 
-    > **Açıklama:** Basılı yüzey, ister broşür gibi küçük bir alan, ister megaboard gibi büyük bir
+    > **Açıklama:** İletişimin Vazgeçilmez Ortamı: Basılı Yüzeyler
+    > Basılı yüzey, ister broşür gibi küçük bir alan, ister megaboard gibi büyük bir
     > alan olsun özünde sınırları olan bir tasarımdır. Yüzeyin taşıyabileceği içerik de boyutla değil, izleyicinin yüzeye olan mesafesi ve ayırabileceği zamanıyla ilgilidir.
 
     ***
@@ -2760,17 +3173,19 @@
     - D-) amblem tasarımı
     - E-) logotype tasarımı
 
-    > **Açıklama:** Çevresel Grafik Tasarımın diğer dalı olan sergileme tasarımında, bir anlatı dahilinde eser ve objelerin izleyiciye sunulması ve izleyicinin içeriği deneyimlemesi hedeflenmektedir.
+    > **Açıklama:** Anlatı ve Akışın İçeriği Aktarması: Sergileme Tasarımı
+    > Çevresel Grafik Tasarımın diğer dalı olan sergileme tasarımında, bir anlatı dahilinde eser ve objelerin izleyiciye sunulması ve izleyicinin içeriği deneyimlemesi hedeflenmektedir.
 
     ***
-1. Aşağıdakilerden hangisi ya da hangileri dış mekân grafiklerinde gövde metnini belirlemede etken olan unsurlar arasında yer alır?<br />I-Mekan büyüklüğü<br />II-Marka değeri<br />III-İzleyici ile olan mesafe
+1. Aşağıdakilerden hangisi ya da hangileri dış mekân grafiklerinde gövde metnini belirlemede etken olan unsurlar arasında yer alır?<br />I-Mekan büyüklüğü<br />II-Marka değeri<br />III-İzleyici ile olan mesafe
     - A-) Sadece III
     - B-) I ve II
     - **Cevap C-) I ve III**
     - D-) Sadece I
     - E-) Sadece II
 
-    > **Açıklama:** Dış mekân grafikleri ya da yaygın kullanımıyla çevresel grafik tasarım, grafik tasarımın kâğıttan (ya
+    > **Açıklama:** TİPOGRAFİNİN DIŞ MEKÂNDA KULLANIMI
+    > Dış mekân grafikleri ya da yaygın kullanımıyla çevresel grafik tasarım, grafik tasarımın kâğıttan (ya
     > da branda baskıdan) koptuğu yerdir. Bu projelerde tasarımcının konumlandırma ve ölçülendirme üzerine her projede yeniden hazırlık ve hesaplama yapması gerekmektedir. Tipografinin kullanımında hemen her projede yeniden hesaplama yapmak gerekmektedir. Kâğıdın sınırlayıcı ama güvenli ortamından farklı olarak, sınırların kalktığı dış mekânda yazı büyüklüğü (punto yüksekliği) ya da boşluklar ezberden, bir başka deyişle mekân üzerine hazırlık yapılmadan çalışılamaz.
     > Her ne kadar çeşitli kitaplarda/ kılavuzlarda dış mekânda yazı kullanımına ilişkin önceden hazırlanmış birtakım tablolar ve şemalar yer alsa da dış mekânda tipografi kullanımı, içinde yer alacağı mekâna göre her seferinde yeniden hesaplanır.
     > Yazı büyüklüğüne yönelik hazırlanan şemalarda iddia edildiği gibi okunurluğun, tasarım ürününe olan mesafesiyle hesaplanacağı bir formül genel geçer olamaz. Şema ya da kılavuz kullanımı ancak tüm ortamların(ortamların) birbirine denk olduğu, çeşitliliğin az ve farklı senaryoların neredeyse hiç olmadığı otoyol gibi mekânlarda verimli bir biçimde kullanılabilir. Otoyol ve karayollarında kullanılan
@@ -2785,17 +3200,19 @@
     - D-) 1970'li yıllar
     - **Cevap E-) 1980'li yıllar**
 
-    > **Açıklama:** 80’li yıllar ekran odaklı piksel teknolojisine ayak uyduran yeni dijital yazı karakterlerinin de doğduğu yıllardır. Basılı ortamlarda kullanım üzerine ihtisaslaşmış font evlerinin yanı sıra dönemin yenilikçi tipografları Bitmap yazı karakterleri üzerine uzmanlaşmaya başlamışlardır.
+    > **Açıklama:** Ekranlarda Yazı Teknolojisinin Evrimi
+    > 80’li yıllar ekran odaklı piksel teknolojisine ayak uyduran yeni dijital yazı karakterlerinin de doğduğu yıllardır. Basılı ortamlarda kullanım üzerine ihtisaslaşmış font evlerinin yanı sıra dönemin yenilikçi tipografları Bitmap yazı karakterleri üzerine uzmanlaşmaya başlamışlardır.
 
     ***
-1. Aşağıdakilerden hangisi ya da hangileri tipografinin yazılım teknolojileri ile evriminin kilometre taşları arasında yer alır?<br />I-Piksel tabanlı Bitmap yazı karakterlerinin gelişimi<br />II-Matbaanın icadı<br />III-Open Type font belgelerinin geliştirilmesi
+1. Aşağıdakilerden hangisi ya da hangileri tipografinin yazılım teknolojileri ile evriminin kilometre taşları arasında yer alır?<br />I-Piksel tabanlı Bitmap yazı karakterlerinin gelişimi<br />II-Matbaanın icadı<br />III-Open Type font belgelerinin geliştirilmesi
     - A-) Sadece II
     - B-) I ve II
     - C-) II ve III
     - **Cevap D-) I ve III**
     - E-) Sadece I
 
-    > **Açıklama:** Ekran teknolojilerini temel alan Bitmap yazı karakterleri sayısal ortamlarda daha rahat
+    > **Açıklama:** Ekranlarda Yazı Teknolojisinin Evrimi
+    > Ekran teknolojilerini temel alan Bitmap yazı karakterleri sayısal ortamlarda daha rahat
     > gösterilmesi için tasarlanmış, her ayrı punto büyüklüğüne göre yeniden düzenlenmiş piksel tabanlı fontlardır. Erken dönem Bitmap yazı karakterlerini gelenekselleşmiş font ailelerinin
     > sayısal imitasyonları olarak görmek mümkünken, ilerleyen dönemlerde çağının yenilikçi tasarımcıları
     > tarafından ekran dünyasına özel, pikselleri bir oyun alanı olarak kullanan cesur örneklerine de rastlamak mümkündür.
@@ -2852,6 +3269,16 @@
     > **Açıklama:** yönlendirmeler, bir mekânı daha önce hiç deneyimlememiş kişilerin, mekân içerisindeki hedeflerine en kısa ve kolay yoldan ulaşmalarını sağlayan iletişim ürünleridir.
 
     ***
+1. Aşağıdaki dış mekân uygulamalarının hangisinde kullanılan harflerin ölçüsü daha büyük olmalıdır?
+    - A-) Kapı numarası
+    - **Cevap B-) Otoyol tabelası**
+    - C-) Sokak tabelası
+    - D-) Bina tabelası
+    - E-) Şehiriçi yönlendirme
+
+    > **Açıklama:** Araç içerisinde ve yüksek hızda, üstelik uzaktan ve kısa sürede görüleceği düşünülürse otoyol tabelalarındaki yazıların daha büyük ölçülerde olması beklenir.
+
+    ***
 1. OpenType teknolojisi hangi tarihte geliştirilmiştir?
     - A-) 1965
     - B-) 1972
@@ -2865,9 +3292,9 @@
 1. OpenType fontlar kaç glif içerebilir?
     - A-) 120
     - B-) 256
-    - C-) 1.000
-    - D-) 10.000
-    - **Cevap E-) 65.000**
+    - C-) 1\.000
+    - D-) 10\.000
+    - **Cevap E-) 65\.000**
 
     > **Açıklama:** OpenType fontlar 65.000 glif içerebilir.
 
@@ -2879,7 +3306,7 @@
     - D-) Hedef sunum platformu
     - **Cevap E-) Baskı tekniği**
 
-    > **Açıklama:** Baskı tekniği, tipografi tasarımında göz önünde bulundurulması gereken bir konudur. Fakat tipografinin dijital ortamdaki doğru kullanımında önemli bir etken değildir.
+    > **Açıklama:** Baskı tekniği, tipografi tasarımında göz önünde bulundurulması gereken bir konudur. Fakat tipografinin dijital ortamdaki doğru kullanımında önemli bir etken değildir.
 
     ***
 1. Hangisi tipografinin uygulama alanlarından biri olan dijital ortamdır?
@@ -2899,7 +3326,9 @@
     - D-) Televizyon
     - E-) internet
 
-    > **Açıklama:** Tipografi
+    > **Açıklama:** Tipografi mesaj iletişiminde yazının görünümünü
+    > ve işlevini yöneten çalışma
+    > alanıdır.
 
     ***
 1. Yazının iletişim mesajını taşıması ve yazıların estetik olarak görselleştirilmesi üzerine çalışan tasarım disiplininin adı nedir?
@@ -2909,7 +3338,9 @@
     - D-) Radyo
     - E-) Televizyon
 
-    > **Açıklama:** Tipografi
+    > **Açıklama:** Tipografi, yazının iletişim mesajını taşıması ve
+    > yazıların estetik olarak görselleştirilmesi üzerine çalışan
+    > bir tasarım disiplinidir.
 
     ***
 1. Matbaa sonrasında kitapların çoğaltılmaya başlanması ile yaşanan en önemli gelişme ne olmuştur?
@@ -2919,7 +3350,11 @@
     - D-) Pek çok kişi bilgiye erişememiştir.
     - E-) Matbaa sonrasında kitaplara ulaşım zorlaşmıştır.
 
-    > **Açıklama:** Pek çok kişi bilgiye erişebilir hale gelmiştir.
+    > **Açıklama:** Matbaa sonrasında ise kitaplar
+    > çoğaltılmaya başlanmış, böylece pek
+    > çok kişi bilgiye erişebilir hale gelmiştir.
+    > Uygarlığın gelişimi de bilginin yayılmasıyla
+    > mümkün olabilmiştir.
 
     ***
 1. Kurumsal kimlik tasarımının yapı taşı ve başlangıç noktası nedir?
@@ -2929,7 +3364,7 @@
     - **Cevap D-) Logodur**
     - E-) Simetridir
 
-    > **Açıklama:** Logodur
+    > **Açıklama:** Kurumsal kimlik tasarımının yapı taşı ve başlangıç noktası logodur
 
     ***
 1. Logotype ile amblem yazısı arasındaki temel fark nedir?
@@ -2939,7 +3374,11 @@
     - D-) Formun asimetrik olması
     - **Cevap E-) Formun harfler ile iç içe geçmesi**
 
-    > **Açıklama:** Formun harfler ile iç içe geçmesi
+    > **Açıklama:** Logotype ile amblem yazısı arasındaki temel
+    > fark, logotype harfler üzerinde oluşturulan formun
+    > harflerle, artık sökülemeyecek kadar iç içe geçmiş
+    > olmasıdır.
+    > Formun harfler ile iç içe geçmesi
 
     ***
 1. "Özellikle ............. alan pozitif alan şeklinde tasarlanan çözümlerde en ufak bir görsel müdahale anlamı değiştirecektir."<br />Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -2949,7 +3388,9 @@
     - D-) küçük
     - E-) koyu
 
-    > **Açıklama:** negatif
+    > **Açıklama:** Özellikle negatif
+    > alan pozitif alan şeklinde tasarlanan çözümlerde
+    > en ufak bir görsel müdahale anlamı değiştirecektir.
 
     ***
 1. Otoyol ve karayollarında kullanılan yol tabelalarının grafikleri, neye göre formüle edilerek uygulanabilmektedir?
@@ -2960,6 +3401,8 @@
     - E-) Temel ihtiyaçlara
 
     > **Açıklama:** Otoyol ve karayollarında kullanılan
+    > yol tabelalarının grafikleri, yolun düzeyine göre formüle edilerek uygulanabilmektedir.
+    > Otoyol ve karayollarında kullanılan
     > yol tabelalarının grafikleri, yolun düzeyine göre formüle edilerek uygulanabilmektedir.
 
     ***
@@ -2970,7 +3413,8 @@
     - D-) işaretleme ve trafik
     - E-) Yönlendirme ve hava şartları
 
-    > **Açıklama:** yönlendirme ve işaretleme
+    > **Açıklama:** Çevresel grafik tasarımın alt dallarından yönlendirme ve işaretleme tasarımında iletişim,
+    > kullanıcının belirli noktalara ulaşma amacı bağlamında mekânla kurulmaktadır.
 
     ***
 1. "Çevresel grafik tasarımında tipografi, mekân ile kullanıcının ilişkisini kuran yönlendirme stratejisi dahilinde, tasarlanan .............. üzerinde belirgin bir şekilde kullanılarak yönlendirme tasarımı projeleri hayata geçirilir." Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -2980,7 +3424,8 @@
     - **Cevap D-) tabelalar**
     - E-) gazeteler
 
-    > **Açıklama:** tabelalar
+    > **Açıklama:** Tipografi, mekân ile kullanıcının ilişkisini kuran yönlendirme stratejisi dahilinde, tasarlanan tabelalar
+    > üzerinde belirgin bir şekilde kullanılarak yönlendirme tasarımı projeleri hayata geçirilir.
 
     ***
 1. Günümüzde teknolojinin tipografi alanındaki en büyük gelişmesi nedir?
@@ -2990,7 +3435,8 @@
     - D-) Bitmap yazı karakterleri
     - **Cevap E-) Değişken yazı karakterleri**
 
-    > **Açıklama:** Değişken yazı karakterleri
+    > **Açıklama:** Bugün ise teknolojinin tipografi alanındaki en
+    > büyük gelişmesi değişken yazı karakterleri
 
     ***
 1. Tipografinin iletişim tasarımında anlaşılması zor olan bir çalışma alanı olmasının nedeni nedir?
@@ -3000,17 +3446,19 @@
     - D-) Tipografinin çok sofistike teknolojik araçlara ihtiyacı var
     - E-) Tipografinin çok teferruatlı laboratuvara ihtiyacı var
 
-    > **Açıklama:** Tipografi, iletişim tasarımında anlaşılması, ta­nımlanması ve icra edilmesi kolay olmayan bir çalışma alanıdır. Bunun temel nedeni tipografinin somut bir nesne olmamasıdır.
+    > **Açıklama:** Tipografinin Kullanım Alanları
+    > Tipografi, iletişim tasarımında anlaşılması, ta­nımlanması ve icra edilmesi kolay olmayan bir çalışma alanıdır. Bunun temel nedeni tipografinin somut bir nesne olmamasıdır.
 
     ***
 1. Yazının tipografi pratiğindeki gelişimi hangi yıllarda hızlanmaya başlamıştır?
-    - A-) 1890  sonrası
+    - A-) 1890 sonrası
     - **Cevap B-) 1980 sonrası**
     - C-) 1920 sonrası
     - D-) 2000 sonrası
     - E-) 1990 sonrası
 
-    > **Açıklama:** Yazının tipografi pratiğindeki gelişimini asıl hızlandıran unsur 1980 sonrası yaşanan teknolojik gelişmelerdir. Masaüstü yayıncılık teknolojisinin gelişmesi ve erişilebilir olması tasa­rımın hayata geçirilme sürecindeki zahmetleri or­tadan kaldırarak bir anda büyük deneme kolaylığı getirmiştir.
+    > **Açıklama:** Tipografinin Kullanım Alanları
+    > Yazının tipografi pratiğindeki gelişimini asıl hızlandıran unsur 1980 sonrası yaşanan teknolojik gelişmelerdir. Masaüstü yayıncılık teknolojisinin gelişmesi ve erişilebilir olması tasa­rımın hayata geçirilme sürecindeki zahmetleri or­tadan kaldırarak bir anda büyük deneme kolaylığı getirmiştir.
 
     ***
 1. Aşağıdakilerin hangisi logotype ile amblem yazısı arasındaki temel farkı açıklar?
@@ -3020,7 +3468,8 @@
     - D-) Logotype yazısı daha açıklayıcı mesaj taşır
     - **Cevap E-) Logotype harfler üzerinde oluşturulan formun harflerle, artık sökülemeyecek kadar iç içe geçmiş**
 
-    > **Açıklama:** Logotype ile amblem yazısı arasındaki temel fark, logotype harfler üzerinde oluşturulan formun harflerle, artık sökülemeyecek kadar iç içe geçmiş olmasıdır.
+    > **Açıklama:** TİPOGRAFİNİN LOGO TASARIMINDA KULLANIMI
+    > Logotype ile amblem yazısı arasındaki temel fark, logotype harfler üzerinde oluşturulan formun harflerle, artık sökülemeyecek kadar iç içe geçmiş olmasıdır.
 
     ***
 1. Dış mekân yönlendirme tasarımında harf yüksekliği kent içindeki cadde üzerinde hangi boyutta olabilir?
@@ -3030,7 +3479,8 @@
     - D-) 40 cm
     - E-) 20 punto
 
-    > **Açıklama:** Dış mekân yönlendirme tasarımında harf yüksekliği kent içindeki cadde üzerinde 15 cm iken, otoyollarda 40 cm’ye kadar çıkabilir
+    > **Açıklama:** TİPOGRAFİNİN DIŞ MEKÂNDA KULLANIMI
+    > Dış mekân yönlendirme tasarımında harf yüksekliği kent içindeki cadde üzerinde 15 cm iken, otoyollarda 40 cm’ye kadar çıkabilir
 
     ***
 1. Sergileme tasarımında bir müze için gövde metni kaç büyüklüğünde olabilir?
@@ -3040,17 +3490,19 @@
     - **Cevap D-) 18 - 54 punto arası**
     - E-) 54 cm kadar
 
-    > **Açıklama:** Sergileme tasarımında bir müze için gövde metni 18 puntodan 54 puntoya kadar aralıkta kullanı­labilir, çünkü mekânın büyüklüğü, tavan yüksekliği, eserlere olan mesafe vb. belirleyici etmenler olurlar.
+    > **Açıklama:** TİPOGRAFİNİN DIŞ MEKÂNDA KULLANIMI
+    > Sergileme tasarımında bir müze için gövde metni 18 puntodan 54 puntoya kadar aralıkta kullanı­labilir, çünkü mekânın büyüklüğü, tavan yüksekliği, eserlere olan mesafe vb. belirleyici etmenler olurlar.
 
     ***
-1. Aşağıdakilerin hangisinin en büyük özelliklerinden biri, döneminde  256 harf ve biçim ile sınırlı font belgelerinin zenginliğini 65.536 Gilif ’e (Harf ve noktalama işaretleri) kadar çıkarabilmiş olmasıdır?
+1. Aşağıdakilerin hangisinin en büyük özelliklerinden biri, döneminde 256 harf ve biçim ile sınırlı font belgelerinin zenginliğini 65.536 Gilif ’e (Harf ve noktalama işaretleri) kadar çıkarabilmiş olmasıdır?
     - **Cevap A-) Open Type**
     - B-) Bitmap
     - C-) Variable Fonts
     - D-) Times New Roman
     - E-) Arial
 
-    > **Açıklama:** *Open Type* font belgelerinin en önemli özelliklerinden biri de döneminde 256 harf ve biçim ile sınırlı font belgelerinin zenginliğini 65.536 Gilif ’e (Harf ve noktalama işaretleri) kadar çıkarabilmiş olmasıdır.
+    > **Açıklama:** TİPOGRAFİNİN DİJİTAL ORTAMLARDA KULLANIMI
+    > *Open Type* font belgelerinin en önemli özelliklerinden biri de döneminde 256 harf ve biçim ile sınırlı font belgelerinin zenginliğini 65.536 Gilif ’e (Harf ve noktalama işaretleri) kadar çıkarabilmiş olmasıdır.
 
     ***
 1. Aşağıdakilerin hangisi hareketli medya için yara­tıcı kodlama temelli çalışmalarda değişken yazı karakterlerinin esnekliğinden yararlanmak için olanak sağlar?
@@ -3060,7 +3512,8 @@
     - D-) Arial
     - **Cevap E-) Variable Fonts**
 
-    > **Açıklama:** Değişken font, donanımsal verimliliğin yanı sıra günümüzün yenilikçi dijital deneyim tasarımlarında değişken yazı karakterlerinin yaratıcı kullanımlarını keşfetmek mümkündür. Özellikle hareketli medya için yara­tıcı kodlama temelli çalışmalarda değişken yazı karakterlerinin esnekliğinden yararlanmak oldukça ilgi çekici denemeler sunmaktadır.
+    > **Açıklama:** TİPOGRAFİNİN DİJİTAL ORTAMLARDA KULLANIMI
+    > Değişken font, donanımsal verimliliğin yanı sıra günümüzün yenilikçi dijital deneyim tasarımlarında değişken yazı karakterlerinin yaratıcı kullanımlarını keşfetmek mümkündür. Özellikle hareketli medya için yara­tıcı kodlama temelli çalışmalarda değişken yazı karakterlerinin esnekliğinden yararlanmak oldukça ilgi çekici denemeler sunmaktadır.
 
     ***
 1. Dijital ortamda hangi ölçeklendirme biçimi kullanılır?
@@ -3070,7 +3523,50 @@
     - D-) dm
     - E-) mm
 
-    > **Açıklama:** Basılı ortamlarda endüstri standardı olan Punto (Pt) ölçek­lendirme biçimi kullanılırken dijital or­tamlarda Piksel (Px) ölçeklendirmesi kul­lanılmaktadır. Punto yazı ölçeğinin dijital ortamlarda kullanımı yanıltıcı sonuçlar vermektedir.
+    > **Açıklama:** TİPOGRAFİNİN DİJİTAL ORTAMLARDA KULLANIMI
+    > Basılı ortamlarda endüstri standardı olan Punto (Pt) ölçek­lendirme biçimi kullanılırken dijital or­tamlarda Piksel (Px) ölçeklendirmesi kul­lanılmaktadır. Punto yazı ölçeğinin dijital ortamlarda kullanımı yanıltıcı sonuçlar vermektedir.
+
+    ***
+1. Dijital arabirimlerde okunaklı bir metin için hangi ölçü kullanılır?
+    - **Cevap A-) Minimum 13 px**
+    - B-) Minimum 13 pt
+    - C-) 18 - 54 pt arası
+    - D-) Maksimum 15 cm
+    - E-) 12 pt
+
+    > **Açıklama:** TİPOGRAFİNİN DİJİTAL ORTAMLARDA KULLANIMI
+    > Genelde dijital arabirimlerde okunaklı bir metin için minimum 13px ölçüsünden aşağı düş­memek elzemdir.
+
+    ***
+1. Aşağıdakilerin hangisi afiş tasarımında öncelikle düzenlenir?
+    - A-) Renk netliği
+    - **Cevap B-) Okunma sırası**
+    - C-) Kâğıt kalitesi
+    - D-) Afiş boyutu
+    - E-) Baskı sayısı
+
+    > **Açıklama:** Tipografinin Basılı Or­tamlarda Kullanımı
+    > Basılı yüzey, ister broşür gibi küçük bir alan, ister megaboard gibi büyük bir alan olsun özünde sınırları olan bir tasarımdır. Yüzeyin taşıyabileceği içerik de boyutla değil, izleyicinin yüzeye olan mesafesi ve ayırabileceği zamanıyla ilgilidir. Dolayısıyla bir billboardun büyüyüp megaboarda dönüşmesi içeriğin artacağı ve daha çok bilgiyi taşıyabileceği anlamına gelmemektedir. Boyut büyüdüğünde takibi de zorlaşmaktadır. Kent yaşamında artan hız ve yoğunluk nedeniyle bir iletişim tasarımı ürünü artık yakın mesafeden incelenememektedir. Büyüyen kentler ve hızlı kent içi hareketler nedeniyle bu tür tanıtım çalışmalarına daha uzaktan bakılmaktadır. Bu nedenle billboard ya da megaboard en yoğun haliyle bir afiş kadar bilgi verebilmektedir. Ancak broşür ya da gazete ilanında izleyicinin gönüllü bir şekilde iletişim materyalini elinde tutarak 30-50 cm mesafeden bakıyor olması, bu iletişim ürünlerinde daha çok içerik sunulmasına olanak vermektedir.
+
+    ***
+1. İnsanlık tarihi açısından elde edilen bulgular ışığında yazının kullanımı kaç yıldır mevcuttur?
+    - **Cevap A-) 6000**
+    - B-) 5500
+    - C-) 5000
+    - D-) 4500
+    - E-) 4000
+
+    > **Açıklama:** Yazı, insanlık tarihinin başlangıç noktasıdır. Milyonlarca yıldır dünyada var olan insanlar ancak 6000 yıldır yazmaktadır. Bir başka deyişle insanlık hakkında içeriği bilinen kayıtlar ancak 6000 yıl öncesine kadar gitmektedir. Cevap A seçeneğidir.
+
+    ***
+1. “Bir metne yönelik vurgu, bağlam, hiyerarşi gibi amaçları gerçekleştirmek için yazıyı (harfleri) karakter, büyüklük, boşluk, açıklık ve paragraf özelliklerini kullanarak şekillendiren tasarım disiplinidir. Yazılı bir fikre görsel form verilmesini amaçlar.” Bu ifadeye göre aşağıdakilerden hangi görsel iletişim tasarımını tanımlamaktadır?
+    - A-) Amblem
+    - B-) Logo
+    - C-) İdeogram
+    - **Cevap D-) Tipografi**
+    - E-) Piktogram
+
+    > **Açıklama:** Tipografi, bir metne yönelik vurgu, bağlam, hiyerarşi gibi amaçları gerçekleştirmek için yazıyı (harfleri) karakter, büyüklük, boşluk, açıklık ve paragraf özelliklerini kullanarak şekillendiren tasarım disiplinidir. Yazılı bir fikre görsel form verilmesini amaçlar.”. Cevap D seçeneğidir.
 
     ***
 1. Yazının bir görsel form gibi şekillendirilmeye başlanması tam anlamıyla hangi dönemde gerçekleşmiştir?
@@ -3078,7 +3574,7 @@
     - B-) Matbaanın icat edilmesinden önce
     - C-) Matbaanın icat edilmesinden sonra
     - D-) Sanayi devrimiyle
-    - **Cevap E-) 20. yüzyılda öncü tasarımcılarla**
+    - **Cevap E-) 20\. yüzyılda öncü tasarımcılarla**
 
     > **Açıklama:** Yazının bir görsel form gibi şekillendirilmeye başlanması 20. yüzyıldaki öncü tasarımcıların çalışmalarıyla gerçekleşmiştir. Öncesinde sistematik olarak dizilen yazı, artık en küçük yapı taşı olan harfe kadar özenle şekillendiriliyor ve böylece içerik neredeyse harf vurgusuyla dahi ilişkilendiriliyordu. Cevap E seçeneğidir.
 
@@ -3123,7 +3619,7 @@
     > **Açıklama:** Çevresel grafik tasarım ürünleri de şu ana kadar anlatılan ürünler gibi iletişim kurma görevini yerine getirmektedir. Çevresel grafik tasarımın alt dallarından yönlendirme ve işaretleme tasarımında iletişim, kullanıcının belirli noktalara ulaşma amacı bağlamında mekânla kurulmaktadır. Bir mekânı daha önce hiç deneyimlememiş kişilerin, mekân içerisindeki muhtemel hedef noktaları ve hareketleri ön görülmekte, yönlendirme ve işaretleme tabelaları aracılığıyla kurulan görünmez ağ sayesinde kullanıcı hareketlerinin doğru yönetilmesi amaçlanmaktadır. Çevresel Grafik Tasarımın diğer dalı olan sergileme tasarımında, bir anlatı dahilinde eser ve objelerin izleyiciye sunulması ve izleyicinin içeriği deneyimlemesi hedeflenmektedir. Kurumsal Kimlik tasarımı, çevresel grafik tasarımı uygulama alanına tam anlamıyla girmemektedir. Cevap C seçeneğidir.
 
     ***
-1. Kent içinde caddelerde dış mekân yönlendirme tasarımında harf yüksekliği  kaç santimetredir?
+1. Kent içinde caddelerde dış mekân yönlendirme tasarımında harf yüksekliği kaç santimetredir?
     - **Cevap A-) 15 cm**
     - B-) 20 cm
     - C-) 35 cm
@@ -3140,7 +3636,7 @@
     - **Cevap D-) 40 cm**
     - E-) 45 cm
 
-    > **Açıklama:** Otoyollarda dış mekân yönlendirme tasarımında harf yüksekliği  40 cm’e kadar çıkabilir. Cevap D seçeneğidir.
+    > **Açıklama:** Otoyollarda dış mekân yönlendirme tasarımında harf yüksekliği 40 cm’e kadar çıkabilir. Cevap D seçeneğidir.
 
     ***
 1. Tipografi tasarımında Open Type Font belgelerinin en önemli katkısı nedir?
@@ -3170,7 +3666,7 @@
     - D-) Gösterge
     - E-) Mühür
 
-    > **Açıklama:** Logo, bir kurum, kuruluş ya da düşüncenin akılda kalıcı ve benzersiz bir görselleştirme ile temsil edilmesidir. Markanın temelinde yer alır ve kurumsal kimliğin başlangıç noktasını oluşturur.
+    > **Açıklama:** Logo, bir kurum, kuruluş ya da düşüncenin akılda kalıcı ve benzersiz bir görselleştirme ile temsil edilmesidir. Markanın temelinde yer alır ve kurumsal kimliğin başlangıç noktasını oluşturur.
 
     ***
 1. Hangisi tipografinin basılı ortamda kullanımına örnek **değildir?**
@@ -3180,7 +3676,7 @@
     - D-) Katalog
     - E-) Afiş
 
-    > **Açıklama:** Jenerik  dijital ortamlarla alakalı olup, tipografinin basılı ortamda kullanımına örnek değildir. Günümüzde dergi, broşür afiş gibi görsel iletişim ürünlerinin dijital varyasyonları da vardır fakat bu seçenekler basılı ortamda doğmuş ürünlerdir. Jenerik teriminin basılı ortamda karşılığı yoktur.
+    > **Açıklama:** Jenerik dijital ortamlarla alakalı olup, tipografinin basılı ortamda kullanımına örnek değildir. Günümüzde dergi, broşür afiş gibi görsel iletişim ürünlerinin dijital varyasyonları da vardır fakat bu seçenekler basılı ortamda doğmuş ürünlerdir. Jenerik teriminin basılı ortamda karşılığı yoktur.
 
     ***
 1. Hangi basılı üründe tipografinin daha büyük puntolarda olması gerekir?
@@ -3243,15 +3739,25 @@
     > **Açıklama:** Open Type teknolojisi Bitmap fontlardan vektör tabanlı fontlara dek pek çok çapraz platformda (Macintosh ve Windows) sorunsuz biçimde adapte olup çalışabilen font belgeleri olarak tanımlanabilir.
 
     ***
+1. Gelenekselleşmiş font ailesi kavramını tek bir font belgesi üzerinde toplayan, Bold, İtalik, Extended, Condensed gibi aile içindeki çeşitlemeleri yazılım parametreleri haline getirip sonsuz olasılıkta değişkenlik sağlayan fontlar hangileridir?
+    - A-) Metal fontlar
+    - B-) True Type fontlar
+    - C-) Post Script fontlar
+    - D-) Open Type fontlar
+    - **Cevap E-) Variable fontlar**
+
+    > **Açıklama:** Gelenekselleşmiş font ailesi kavramını tek bir font belgesi üzerinde toplayan, Bold, İtalik, Extended, Condensed gibi aile içindeki çeşitlemeleri yazılım parametreleri haline getirip sonsuz olasılıkta değişkenlik sağlayan fontlar variable fontlardır.
+
+    ***
 ## Unite 7
-1. Birbiri arasında ardışık ilişki bulunan ve her sayının kendinden önceki sayı ile toplanması sonucu elde edilen sayı dizisine ne ad verilir?
+1. Birbiri arasında ardışık ilişki bulunan ve her sayının kendinden önceki sayı ile toplanması sonucu elde edilen sayı dizisine ne ad verilir?
     - **Cevap A-) Fibonacci sayıları**
     - B-) Modulor sayıları
     - C-) Birleşik sayılar
     - D-) Çoğul sayılar
     - E-) Tam sayılar
 
-    > **Açıklama:** Birbiri arasında ardışık ilişki bulunan ve her sayının kendinden önceki sayı ile toplanması sonucu elde edilen sayı dizisine Fibonacci sayıları denir.
+    > **Açıklama:** Birbiri arasında ardışık ilişki bulunan ve her sayının kendinden önceki sayı ile toplanması sonucu elde edilen sayı dizisine Fibonacci sayıları denir.
 
     ***
 1. Orta çağ el yazmanlarında kullanılan sayfa genişliği ile yüksekliği arasında kurulan oran kaçtır?
@@ -3277,7 +3783,7 @@
 1. Bir kenarı “1”, diğer kenarı “1,618” ile orantılı olarak yaratılan dikdörtgene ne ad verilir?
     - A-) Paralelkenar
     - B-) Deltoid
-    - C-) Eşkenar dörtgen
+    - C-) Eşkenar dörtgen
     - **Cevap D-) Altın dikdörtgen**
     - E-) Yamuk dikdörtgen
 
@@ -3364,17 +3870,17 @@
     > **Açıklama:** Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranına eşit olduğu ilkesine dayanan **“altın oran”** prensibi, “a:b = b:(a+b)” şeklinde formüle edilir.
 
     ***
-1. **A4** kağıt ölçüsü aşağıdakilerden hangisidir?
+1. **A4** kağıt ölçüsü aşağıdakilerden hangisidir?
     - A-) 148x210 mm
     - B-) 297x420 mm
     - **Cevap C-) 210 x 297 mm**
     - D-) 420x594 mm
     - E-) 594x841 mm
 
-    > **Açıklama:** Kenarları arasında altın oran ilişkisi bulunan **A4 kâğıt ölçüsü (210 x 297 mm)** ise bir altın dikdörtgendir. A serisinin tüm kâğıt ölçüleri arasında, altın oran prensibine göre iki kat ölçüde artış veya 1⁄2 oranında azalma mevcuttur. Bu oransal ilişki bilgisi ve A4 kâğıdın ölçüsü, basit bir matematik ile diğer kâğıt boyutlarını hesaplamakta bize referans olacaktır.
+    > **Açıklama:** Kenarları arasında altın oran ilişkisi bulunan **A4 kâğıt ölçüsü (210 x 297 mm)** ise bir altın dikdörtgendir. A serisinin tüm kâğıt ölçüleri arasında, altın oran prensibine göre iki kat ölçüde artış veya 1⁄2 oranında azalma mevcuttur. Bu oransal ilişki bilgisi ve A4 kâğıdın ölçüsü, basit bir matematik ile diğer kâğıt boyutlarını hesaplamakta bize referans olacaktır.
 
     ***
-1. "Belirli iletişim hedeflerine ulaşmak amacıyla tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesine **...**  denir" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
+1. "Belirli iletişim hedeflerine ulaşmak amacıyla tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesine **...**  denir" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - A-) Altın dikdörtgen
     - B-) Tasarım öğeleri
     - C-) Ara başlık
@@ -3414,7 +3920,17 @@
     > **Açıklama:** **Izgara (grid),** sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenmesidir.
 
     ***
-1. "Tasarımcının sayfa boyunca ve aşağısında tutarlı bir hizalama oluşturmasına yardımcı olan kılavuzlardır. **...**  görsel öğelerin yatay konumla- rını ve sütun kenarları boyunca nasıl yükselip alçaldıklarını belirler" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
+1. Sayfa kenarı ile içerik (metin ve görsellerin oluşturduğu) arasındaki çevrelenen negatif alan aşağıdakilerden hangisidir?
+    - A-) Sütunlar (columns)
+    - B-) Satırlar (rows)
+    - **Cevap C-) Sayfa Kenar Boşlukları (marjin)**
+    - D-) Sütun Boşluğu (gutters)
+    - E-) Modüller (modules)
+
+    > **Açıklama:** **Sayfa Kenar Boşlukları (marjin);** sayfa kenarı ile içerik (metin ve görsellerin oluşturduğu) arasındaki çevrelenen negatif alandır.
+
+    ***
+1. "Tasarımcının sayfa boyunca ve aşağısında tutarlı bir hizalama oluşturmasına yardımcı olan kılavuzlardır. **...**  görsel öğelerin yatay konumla- rını ve sütun kenarları boyunca nasıl yükselip alçaldıklarını belirler" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - A-) Cilt payı
     - B-) İç boşluk
     - C-) Oluk (gutter)
@@ -3441,7 +3957,8 @@
     - D-) bilgi akışı
     - E-) kompozisyon
 
-    > **Açıklama:** ızgara
+    > **Açıklama:** SAYFA YAPISINA YÖNELİK TEMEL BİLGİLER
+    > ızgara
 
     ***
 1. ........ bir kenarı “1”, diğer kenarı “1,618” ile orantılı olarak yaratılan dikdörtgendir.<br />Yukarıdaki cümleyi aşağıdakilerden hangisi tamamlar?
@@ -3451,7 +3968,9 @@
     - D-) Fibonacci sayıları
     - E-) A4 kağıt
 
-    > **Açıklama:** altın dikdörtgen
+    > **Açıklama:** SAYFA YAPISINA YÖNELİK TEMEL
+    > BİLGİLER
+    > altın dikdörtgen
 
     ***
 1. Aşağıdakilerden hangisi soldan sağa okuma yönündeki çoklu sayfalara sahip çalışmaların başlangıç sayfası için geçerli değildir?
@@ -3461,7 +3980,19 @@
     - **Cevap D-) verso'dur**
     - E-) sonraki sayfa numarası 2'dir
 
-    > **Açıklama:** verso'dur
+    > **Açıklama:** Sayfa Düzeni (Layout)
+    > verso'dur
+
+    ***
+1. Aşağıdakilerden hangisi satırların en rahat okunabildiği uzunluk için geçerlidir?
+    - A-) ortalama beş karakterden oluşan üç-beş kelime
+    - B-) ortalama beş karakterden oluşan dört-altı kelime
+    - **Cevap C-) ortalama altı karakterden oluşan beş-yedi kelime**
+    - D-) ortalama altı karakterden oluşan altı-sekiz kelime
+    - E-) ortalama beş karakterden oluşan yedi-dokuz kelime
+
+    > **Açıklama:** METİN VE BOŞLUKLARIN DÜZENLENMESİ
+    > ortalama altı karakterden oluşan beş-yedi kelime
 
     ***
 1. Tasarımcının tercihine göre yoğunluğuna karar verilen boşlukların düzenlenmesinde, en temel öncelik aşağıdakilerden hangisidir?
@@ -3471,7 +4002,8 @@
     - D-) sağdan ya da soldan okuma
     - **Cevap E-) okunabilirlik**
 
-    > **Açıklama:** okunabilirlik
+    > **Açıklama:** Boşluk Düzenleme Biçimleri
+    > okunabilirlik
 
     ***
 1. Aşağıdakilerden hangisi metnin sahip olduğu pozitif alan dokusunu bozar?
@@ -3481,30 +4013,55 @@
     - D-) Başlangıç sayfa numarasının 1 olması
     - E-) Yazının sütun içerisinde kapladığı alanın değişmesi
 
-    > **Açıklama:** Kelimelerin arasına birden fazla boşluk bırakılması
+    > **Açıklama:** Boşluk Düzenleme Biçimleri
+    > Kelimelerin arasına birden fazla boşluk bırakılması
 
     ***
-1. Aşağıdakilerden hangisi “harf arası boşluk” düzenlemesidir?
+1. Aşağıdakilerden hangisi sözcüğün algılanırlığını doğrudan etkileyen bir faktördür?
+    - A-) Soldan ya da sağdan girinti kullanımı
+    - B-) Metinde satırbaşı kullanılması
+    - **Cevap C-) Metin içerisinde yer alan harflerin tümünün küçük veya tümünün büyük kullanılması**
+    - D-) Paragraf boşluğu kullanımı
+    - E-) Beyaz zeminde siyah renkte yazı kullanılması
+
+    > **Açıklama:** Paragraf Boşluğu Düzeni
+    > Metin içerisinde yer alan harflerin tümünün küçük veya tümünün büyük kullanılması
+
+    ***
+1. Aşağıdakilerden hangisi “harf arası boşluk” düzenlemesidir?
     - A-) flowline
     - **Cevap B-) tracking**
     - C-) leading
     - D-) spacing
     - E-) alignment
 
-    > **Açıklama:** tracking
+    > **Açıklama:** Harf Arası Boşluk Düzeni
+    > tracking
 
     ***
-1. Aşağıdakilerden hangisi  sistematik düzenin oluşturulması amacıyla tasarlanan ızgaranın yapısal parçalarından biri değildir?
+1. .............. düzenlemesine sahip metinlerin küçük boyutlarda okunması güçtür.<br />Yukarıdaki boşluğa uygun düşen ifade aşağıdakilerden hangisidir?
+    - A-) Tümü büyük harf
+    - B-) Tümü küçük harf
+    - C-) Sağa hizalı
+    - **Cevap D-) Dar boşluk**
+    - E-) Sola hizalı
+
+    > **Açıklama:** Harf Arası Boşluk Düzeni
+    > dar boşluk
+
+    ***
+1. Aşağıdakilerden hangisi sistematik düzenin oluşturulması amacıyla tasarlanan ızgaranın yapısal parçalarından biri değildir?
     - A-) sayfa kenar boşlukları (marjin)
     - B-) sütunlar
     - C-) satırlar
     - D-) modüller
     - **Cevap E-) sayfa numarası**
 
-    > **Açıklama:** sayfa numarası
+    > **Açıklama:** Izgara Mimarisi
+    > sayfa numarası
 
     ***
-1. Aşağıdakilerden hangisi, birbiri arasında ardışık ilişki bulunan Fibonacci sayıları  kendisinden önceki sayıya bölündüğünde hangi orana ulaşıyor?
+1. Aşağıdakilerden hangisi, birbiri arasında ardışık ilişki bulunan Fibonacci sayıları kendisinden önceki sayıya bölündüğünde hangi orana ulaşıyor?
     - **Cevap A-) Altın**
     - B-) Gümüş
     - C-) Titanyum
@@ -3565,6 +4122,16 @@
     > **Açıklama:** Lorem ipsum, dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinleridir.
 
     ***
+1. Metin içerisinde yer alan harflerin tümünün kullanılması da harflerin zemin ile oluşturacağı negatif/pozitif boşluk nedeniyle, sözcüğün algılanırlığını doğrudan etkileyen faktör nedir?
+    - **Cevap A-) Harflerin küçük veya tümünün büyük kullanılması**
+    - B-) Harflerin sıkışık kullanıması
+    - C-) Harflerin aralıklı kullanılması
+    - D-) Harflerin italik kullanılması
+    - E-) Harflerin serifli kullanılması
+
+    > **Açıklama:** Metin içerisinde yer alan har erin tümünün küçük veya TÜMÜNÜN BÜYÜK kullanılması da har erin zemin ile oluşturacağı negatif/pozitif boşluk nedeniyle, sözcüğün algılanırlığını doğrudan etkileyen bir faktördür.
+
+    ***
 1. Metnin genel yapısında (harfler, kelimeler ve satır boyunca) var olan boşluklarda görsel bir sıkışıklık veya gevşeklik sağlayan yöntem aşağıdakilerden hangisidir?
     - **Cevap A-) Tracking (letterspacing)**
     - B-) Kerning
@@ -3585,7 +4152,7 @@
     > **Açıklama:** Kerning; belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesidir.
 
     ***
-1. Sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenir.  Bu sistem aşağıdakilerden hangisidir?
+1. Sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenir. Bu sistem aşağıdakilerden hangisidir?
     - **Cevap A-) Izgara**
     - B-) Sütun
     - C-) Oluk
@@ -3635,6 +4202,16 @@
     > **Açıklama:** Belirli iletişim hedeflerine ulaşmak amacıyla tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesine **sayfa düzeni (layout)** denir.
 
     ***
+1. Dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinlere ne ad verilir?
+    - A-) Garamond Pro
+    - B-) Verso
+    - C-) Recto
+    - D-) Satır uzunluğu
+    - **Cevap E-) Lorem ipsum**
+
+    > **Açıklama:** **Lorem ipsum**, dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinleridir.
+
+    ***
 1. Belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesine ne ad verilir?
     - **Cevap A-) Kerning**
     - B-) Tracking
@@ -3655,6 +4232,16 @@
     > **Açıklama:** **Soldan bloklama,** okuma yönü soldan sağa olan dillerde kullanılıp satır başlarının soldan aynı dikey noktaya yaslandığı, satır sonlarının ise serbest bırakıldığı düzendir.
 
     ***
+1. Sayfa kenarı ile içerik (metin ve görsellerin oluşturduğu) arasındaki çevrelenen negatif alan aşağıdakilerden hangisidir?
+    - A-) Modül
+    - B-) Oluk
+    - **Cevap C-) Sayfa Kenar Boşlukları (marjin)**
+    - D-) Satır
+    - E-) Sütun
+
+    > **Açıklama:** **Sayfa Kenar Boşlukları (marjin),** sayfa kenarı ile içerik (metin ve görsellerin oluşturduğu) arasındaki çevrelenen negatif alandır.
+
+    ***
 1. Gazete, dergi, faaliyet raporu, katalog gibi tasarımlarda sıklıkla kullanılan ızgara biçimi aşağıdakilerden hangisidir?
     - A-) Simetrik ızgara
     - B-) Sütun boşluğu
@@ -3665,7 +4252,7 @@
     > **Açıklama:** Sütun ızgaralar, çok sayıdaki parçalı öğenin birden fazla sütun ile düzenlenmesine olanak sağlar. Sürekli olmayan yazı alanları veya çok sayıda alt bölüme, makaleye ayrılmış metinler için kullanılır. Gazete, dergi, faaliyet raporu, katalog gibi tasarımlarda sıklıkla **sütun ızgara** biçimi tercih edilir.
 
     ***
-1. Çoklu ihtiyaca yönelik bir ızgara çeşidi olarak tercih edilmesinin yanı sıra kavramsal bir estetiğe sahip olan ve İsviçre tipografisi veya 1950’lerin ve 60’ların Uluslararası Tipografik Stili  özellikle de Bauhaus’un rasyonalist düşüncesindeki nesnelliği, düzeni ve netliği vurgulaması sebebiyle, bu idealleri benimseyen tasarımcıların mesajlarını iletmek için çalışmalarında  kullandığı ızgara çeşidi aşağıdakilerden hangisidir?
+1. Çoklu ihtiyaca yönelik bir ızgara çeşidi olarak tercih edilmesinin yanı sıra kavramsal bir estetiğe sahip olan ve İsviçre tipografisi veya 1950’lerin ve 60’ların Uluslararası Tipografik Stili özellikle de Bauhaus’un rasyonalist düşüncesindeki nesnelliği, düzeni ve netliği vurgulaması sebebiyle, bu idealleri benimseyen tasarımcıların mesajlarını iletmek için çalışmalarında kullandığı ızgara çeşidi aşağıdakilerden hangisidir?
     - A-) Sütun ızgara
     - B-) Hiyerarşik ızgara
     - C-) Blok ızgara
@@ -3685,6 +4272,17 @@
     > **Açıklama:** *Sayfa düzeni* kavramı çok sayıdaki öğenin tekil ve bir arada kullanımıyla tanımlı alan içerisinde gerçekleştirilen bir gösteriye benzetilebilir. Sözcükler, görseller, şekiller ve boşluklardan oluşan tasarım öğeleri ise tıpkı akrobat­lar gibi etkileyici ve keyif veren bir düzenlemede tekil ve bir arada görev almaktadır. Bu doğrultuda her bir öğenin ayrı ayrı işlevlerini doğru biçimde yerine getirmesi ve bir arada oluşturdukları uyum, sayfa düzeninde istenilen başarının anahtarı olmaktadır.
 
     ***
+1. Dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinlerine ………………adı verilir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?
+    - A-) Altın Dikdörtgen
+    - **Cevap B-) Lorem ipsum**
+    - C-) Marjin
+    - D-) Oluk
+    - E-) Izgara
+
+    > **Açıklama:** METİN VE BOŞLUKLARIN DÜZENLENMESİ
+    > **Lorem ipsum,** dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinleridir.
+
+    ***
 1. Aşağıdakilerden hangisi ya da hangileri doğru boşluk düzeninin sağladığı avantajlar arasında yer alır?<br />I-Yazının daha iyi görünmesi<br />II-Yazının okunurluğunun artması<br />III-Yazının daha çok kişiye ulaşması
     - A-) I ve III
     - **Cevap B-) I ve II**
@@ -3692,7 +4290,8 @@
     - D-) Sadece I
     - E-) Sadece II
 
-    > **Açıklama:** İster harf arası isterse kelime arası boşluktan bahsedelim, doğru boşluk düzeni yazının daha iyi görünmesinin yanı sıra okunurluğunu da etkiler. Çok temel olarak harf arası boşlukların oranı arttığında, bir satırın barındırdığı harf karakter sayıları da aynı oranda azalacaktır. Tasarımcının tercihine göre yoğunluğuna karar verilen bu boşlukların düzenlenmesinde, en temel öncelik metnin okunabilirliğidir. Boşluklara bağlı olarak satırların oluşturduğu gri renk değerinin artması/azalması, paragrafların oluşturduğu yazı alanının yoğunluğunu da etkileyecek­tir.
+    > **Açıklama:** Boşluk düzenleme biçimleri
+    > İster harf arası isterse kelime arası boşluktan bahsedelim, doğru boşluk düzeni yazının daha iyi görünmesinin yanı sıra okunurluğunu da etkiler. Çok temel olarak harf arası boşlukların oranı arttığında, bir satırın barındırdığı harf karakter sayıları da aynı oranda azalacaktır. Tasarımcının tercihine göre yoğunluğuna karar verilen bu boşlukların düzenlenmesinde, en temel öncelik metnin okunabilirliğidir. Boşluklara bağlı olarak satırların oluşturduğu gri renk değerinin artması/azalması, paragrafların oluşturduğu yazı alanının yoğunluğunu da etkileyecek­tir.
 
     ***
 1. Aşağıdakilerden hangisi ya da hangileri metinlerin düzenlendiği yazı alanı içerisinde yer alan yatay bloklama biçimlerindendir?<br />I- Soldan blok<br />II-Üste blok<br />III- Sağdan blok
@@ -3712,7 +4311,8 @@
     - D-) Sadece I
     - E-) I ve II
 
-    > **Açıklama:** Metin alanları içerisinde harfler ve sözcükler arasında oluşan tanımsız beyaz boşluklar görsel ve işlevsel açıdan sıkıntıya sebep olacaktır. Sıklıkla dar sütunlardaki yazı alanlarında karşılaşılan nehir oluşumları şu çözümler ile önlenebilmektedir;
+    > **Açıklama:** Bloklama
+    > Metin alanları içerisinde harfler ve sözcükler arasında oluşan tanımsız beyaz boşluklar görsel ve işlevsel açıdan sıkıntıya sebep olacaktır. Sıklıkla dar sütunlardaki yazı alanlarında karşılaşılan nehir oluşumları şu çözümler ile önlenebilmektedir;
     > Satır uzunluğunu ve buna bağlı sütunların genişlik ölçüsünü değiştirmek,
     > Metin içerisinde tireleme yapmak,
     > Metni tam blok değil, sola blok biçiminde düzenlemek.
@@ -3735,7 +4335,18 @@
     - D-) II ve III
     - E-) Sadece I
 
-    > **Açıklama:** Izgara sistemi, tasarımcının zamanını verimli şekilde kullanabilmesi, farklı çeşitlilikte kompozisyonlar oluşturabilmesi ve tasarımın genelinde tutarlılık sağlamasına yardımcı bir araçtır. **Izgara**, sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenmesi­dir.
+    > **Açıklama:** SAYFA TASARIMINDA IZGARA (GRID) SİSTEMİ
+    > Izgara sistemi, tasarımcının zamanını verimli şekilde kullanabilmesi, farklı çeşitlilikte kompozisyonlar oluşturabilmesi ve tasarımın genelinde tutarlılık sağlamasına yardımcı bir araçtır. **Izgara**, sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenmesi­dir.
+
+    ***
+1. Sayfa tasarımında Izgara sistemi içinde, sayfayı yatay uzamsal bölümlere ayıran ve görsel öğelerin yerleşimi için ek hizalama noktaları oluşturan yardımcı kılavuzlar aşağıdakilerden hangisidir?
+    - A-) Modül
+    - B-) Marjin
+    - C-) Sütun
+    - **Cevap D-) Akış çizgisi**
+    - E-) Oluk
+
+    > **Açıklama:** **Akış çizgisi (flowline);** sayfayı yatay uzamsal bölümlere ayırır ve görsel öğelerin yerleşimi için ek hizalama noktaları oluşturur. Tasarımcının sayfa boyunca ve aşağısında tutarlı bir hiza­lama oluşturmasına yardımcı olan kılavuzlardır. Akış çizgileri, görsel öğelerin yatay konumla­rını ve sütun kenarları boyunca nasıl yükselip alçaldıklarını belirler.
 
     ***
 1. Sayfa tasarımında Izgara sistemi içinde, metinler ve görsellerden oluşan içeriği barındıran, yukarıdan aşağıya uzanan di­key bölümlere ne ad verilir?
@@ -3746,6 +4357,27 @@
     - E-) Modül
 
     > **Açıklama:** **Sütunlar (columns);** metinler ve görsellerden oluşan içeriği barındıran, yukarıdan aşağıya uzanan di­key bölümlerdir. Sütunların içeriklerinin birbirine müdahale etmesini önleyen, “sokak (alley)” isimli dar, dikey boşluklar ile ayrılırlar. Bazı yazılımlarda bu boşluklar için “oluk (gutter) tabiri de kullanılır
+
+    ***
+1. Tasarım öğelerinin ızgaranın sütunları ve satır­ları arasında “kendiliğinden” organik biçimdeki yerleşimine sahip ızgaralara……………..adı verilir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?
+    - A-) Kerning
+    - B-) Blok ızgara
+    - C-) Sütun ızgara
+    - D-) Modüler ızgara
+    - **Cevap E-) Hiyerarşik ızgara**
+
+    > **Açıklama:** Serbest stil olarak da tanımlanabilen hiyerarşik ızgaralar, tasarım öğelerinin ızgaranın sütunları ve satır­ları arasında “kendiliğinden” organik biçimdeki yerleşimine sahip ızgaralardır. Buna bağlı olarak sütun ge­nişlikleri, satır yükseklikleri veya aralıklar ızgara boyunca değişkendir. Hiyerarşik ızgaranın temeli, düzenli tekrarlanan sütunlar, ara boşluklardan daha çok öğelerin oranlarına göre özelleştirilmiş hizalamalara ve sezgisel yerleşime dayanır. Serbest tasarım anlayışına sahip çalışmalarda sıklıkla tercih edilir
+
+    ***
+1. Aşağıdakilerden hangisi bir Bloklama (Alignment) biçimi **değildir?**
+    - A-) Soldan Blok
+    - B-) Sağdan Blok
+    - C-) Ortadan Blok
+    - **Cevap D-) Çapraz Blok**
+    - E-) Tam Blok
+
+    > **Açıklama:** Bloklama (hizalama), metinlerin düzenlendiği yazı alanı içerisindeki yatay ve dikey konumlarını belirtir. Yatay bloklama biçimleri için soldan blok, ortadan blok, sağdan blok ve her iki tarafa yaslı (tam blok) ifadelerini kullanırız. Dikey bloklama biçimleri ise metin yazı alanındaki konumuna göre üste, ortaya, alta ve tam blok şeklinde ifade edilir (
+    > Bloklama (hizalama), metinlerin düzenlendiği yazı alanı içerisindeki yatay ve dikey konumlarını belirtir. Yatay bloklama biçimleri için soldan blok, ortadan blok, sağdan blok ve her iki tarafa yaslı (tam blok) ifadelerini kullanırız. Dikey bloklama biçimleri ise metin yazı alanındaki konumuna göre üste, ortaya, alta ve tam blok şeklinde ifade edilir.
 
     ***
 1. "Dar ölçüye sahip gazete sütunu gibi metinlerde, tam bloklama biçiminde .......... adı verilen hatalı beyaz boşluklar oluşabilir." ifadesindeki boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -3786,6 +4418,7 @@
     - E-) Web Izgara
 
     > **Açıklama:** ![](https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png)
+    > ![](https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png)
 
     ***
 1. ![](https://ets.anadolu.edu.tr/storage/nfs/questions/45b0c6dc63642a75faca320d4ee777c4.png)<br />Görselde verilen ızgara türü aşağıdakilerden hangisidir?
@@ -3796,6 +4429,7 @@
     - E-) Verso Izgara
 
     > **Açıklama:** ![](https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png)
+    > ![](https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png)
 
     ***
 1. "Belirli iletişim hedeflerine ulaşmak amacıyla sayfa üzerinde tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesine .................... denir."<br />Yukarıdaki boşluğa uygun gelen ifade aşağıdakilerden hangisidir?
@@ -3815,7 +4449,8 @@
     - D-) Eames dörtgeni
     - E-) Fibonacci
 
-    > **Açıklama:** Altın dikdörtgen bir kenarı “1”, diğer kenarı “1,618” ile orantılı olarak yaratılan dikdörtgendir. Altın dikdörtgen içinden, her seferinde kısa kenar uzunluğu karenin bir kenarını oluşturacak şekildeki kareler çıkarıldığında kalan her dikdörtgen yine altın dikdörtgendir. Bu durum sonsuza kadar kendini tekrarlamakta ve ortaya çıkan karenin köşegenlerinden geçen sarmal ise bir salyangoz sarmalını vermektedir.
+    > **Açıklama:** Altın dikdörtgen bir kenarı “1”, diğer kenarı “1,618” ile orantılı olarak yaratılan dikdörtgendir. Altın dikdörtgen içinden, her seferinde kısa kenar uzunluğu karenin bir kenarını oluşturacak şekildeki kareler çıkarıldığında kalan her dikdörtgen yine altın dikdörtgendir. Bu durum sonsuza kadar kendini tekrarlamakta ve ortaya çıkan karenin köşegenlerinden geçen sarmal ise bir salyangoz sarmalını vermektedir (
+    > Altın dikdörtgen bir kenarı “1”, diğer kenarı “1,618” ile orantılı olarak yaratılan dikdörtgendir. Altın dikdörtgen içinden, her seferinde kısa kenar uzunluğu karenin bir kenarını oluşturacak şekildeki kareler çıkarıldığında kalan her dikdörtgen yine altın dikdörtgendir. Bu durum sonsuza kadar kendini tekrarlamakta ve ortaya çıkan karenin köşegenlerinden geçen sarmal ise bir salyangoz sarmalını vermektedir.
 
     ***
 1. Dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinlere ne ad verilir?
@@ -3909,6 +4544,16 @@
     > **Açıklama:** Bir yazı karakterinin eksenin 7 ila 20 derece arasında eğimli versiyonuna Eğik yazılar denir.
 
     ***
+1. Yazı boyutu ne ölçüsü ile ifade edilmektedir?
+    - A-) satır
+    - B-) Optik Hizalama
+    - C-) Hizalamalar
+    - D-) Paragraflar Ayrımları
+    - **Cevap E-) punto**
+
+    > **Açıklama:** Yazı boyutu punto ölçüsü ile ifade edilmektedir.
+
+    ***
 1. Aşağıdakilerden hangisi kelimelerin, cümlelerin ve metin bloklarının okuturluğuna katkıda bulunan ana başlıklardan değildir?
     - **Cevap A-) Tırnaklı ve Tırnaksız Yazılar**
     - B-) Satır Arası Boşluklar
@@ -3929,7 +4574,7 @@
     > **Açıklama:** Uyumlama (Kerning), iki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesine denmektedir
 
     ***
-1. ……………………………  küçük harfin büyük harfe göre yüksekliğini ifade eder.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. …………………………… küçük harfin büyük harfe göre yüksekliğini ifade eder.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
     - A-) Kontrast
     - **Cevap B-) x-yüksekliği**
     - C-) Condensed
@@ -3959,6 +4604,16 @@
     > **Açıklama:** Bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklar şunlardır: x- yüksekliği, karakter ağırlığı, karakter genişliği, harf çizgisi kontrastı, iç boşluklar, tırnaklı ve tırnaksız yazılar, başlık yazı karakterleri, bitişik yazılar.
 
     ***
+1. Yazı karakterinin ağırlığı neyi ifade etmektedir?
+    - **Cevap A-) Harf çizgilerinin kalınlığını**
+    - B-) Harf karakterinin boyutunu
+    - C-) Karakter genişliğini
+    - D-) Harfteki kalın ve ince çizgilerin birbiriyle olan ilişkisini
+    - E-) Karakter çizgisinin bitiminde bulunan küçük çıkıntıları
+
+    > **Açıklama:** Yazı karakterinin ağırlığı, harf çizgilerinin kalınlığını ifade etmektedir.
+
+    ***
 1. Aşağıdakilerden hangisi bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her birini tanımlayan kavramdır?
     - A-) Counter
     - B-) Subhead
@@ -3969,6 +4624,16 @@
     > **Açıklama:** Allograf: Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her biridir. Örneğin büyük harf, küçük harf, italik ve bir harfin çeşitli el yazısı biçimleridir.
 
     ***
+1. Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyut aralığı hangisidir?
+    - A-) 6 ile 8 punto
+    - B-) 8 ile 10 punto
+    - **Cevap C-) 9 ile 12 punto**
+    - D-) 12 ile 16 punto
+    - E-) 16 ile 18 punto
+
+    > **Açıklama:** Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları 9 ile 12 punto arasında değişmektedir.
+
+    ***
 1. Aşağıdakilerden hangisi kelime, satır veya tüm paragraftaki karakterler arasındaki boşluğun eşit değerde azaltılması veya artırılmasını tanımlayan kavramdır?
     - A-) Kerning
     - B-) Pilcrow
@@ -3977,6 +4642,16 @@
     - E-) Caption
 
     > **Açıklama:** Harf arası ayarı (Tracking), kelime, satır veya tüm paragraftaki karakterler arasındaki boşluğun eşit değerde azaltılması veya artırılmasıdır.
+
+    ***
+1. Aşağıdakilerden hangisi paragrafları birbirinden ayırt edebilmek için en çok kullanılan yöntemlerden biri değildir?
+    - A-) Paragraf başı girintisi
+    - B-) Satır arası boşluğu ile paragraf ayrımı
+    - C-) Asılı girinti ile paragraf ayrımı
+    - D-) Paragraf işareti veya özel işaretler kullanılarak yapılan paragraf ayrımı
+    - **Cevap E-) Harf arası ayarı ile yapılan paragraf ayrımı**
+
+    > **Açıklama:** Paragrafları birbirinden ayırt edebilmek için en çok kullanılan yöntemlerden bazıları şu şekildedir: paragraf başı girintisi, satır arası boşluğu ile paragraf ayrımı, asılı girinti ile paragraf ayrımı, paragraf işareti veya özel işaretler kullanılarak yapılan paragraf ayrımı.
 
     ***
 1. Ton (Hue), rengin hangi özelliğini ifade etmektedir?
@@ -3999,6 +4674,25 @@
     > **Açıklama:** Genel olarak kabul edilen standart, satır başına yaklaşık 45-75 karakterdir.
 
     ***
+1. Aşağıdakilerden hangisi ya da hangileri bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklar arasında yer alır?<br />I-Karakter Ağırlığı<br />II-İç Boşluklar<br />III-Bitişik Yazılar
+    - A-) Sadece I
+    - B-) II ve III
+    - **Cevap C-) I, II ve III**
+    - D-) I ve III
+    - E-) Sadece II
+
+    > **Açıklama:** Okunurluk
+    > Bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklar şunlardır:
+    > • x- yüksekliği
+    > • Karakter Ağırlığı
+    > • Karakter Genişliği
+    > • Harf Çizgisi Kontrastı
+    > • İç Boşluklar
+    > • Tırnaklı ve Tırnaksız Yazılar
+    > • Başlık Yazı Karakterleri
+    > • Bitişik Yazılar
+
+    ***
 1. "Yazı karaterinin ağırlığı" yla ilgili olarak aşağıda verilen bilgilerden hangisi ya da hangileri **doğrudur**?<br />I-Küçük harfi büyük harfe göre yüksekliğini ifade etmektedir.<br />II-İç boşlukları ifade etmektedir.<br />III-Harf çizgilerinin kalınlığını ifade etmektedir.
     - A-) II ve III
     - **Cevap B-) Sadece III**
@@ -4006,7 +4700,8 @@
     - D-) Sadece I
     - E-) I ve II
 
-    > **Açıklama:** Yazı karakterinin ağırlığı, harf çizgilerinin kalınlığını ifade etmektedir.
+    > **Açıklama:** Karakter ağırlığı
+    > Yazı karakterinin ağırlığı, harf çizgilerinin kalınlığını ifade etmektedir.
 
     ***
 1. "x-yüksekliğiyle" ilgili olarak aşağıda verilen bilgilerden hangisi ya da hangileri **doğrudur**?<br />I-Harf çizgilerinin kalınlığını ifade etmektedir.<br />II-Küçük harfin büyük harfe göre yüksekliğini ifade eder.<br />III-İç boşlukları ifade etmektedir.
@@ -4016,7 +4711,8 @@
     - D-) I ve II
     - **Cevap E-) Sadece II**
 
-    > **Açıklama:** Küçük harfin büyük harfe göre yüksekliğini ifade eder.
+    > **Açıklama:** x-yüksekliği
+    > Küçük harfin büyük harfe göre yüksekliğini ifade eder.
 
     ***
 1. İç boşlukların okunurluğa etkisi bağlamında aşağıdaki bilgilerden hangisi ya da hangileri **doğrudur?**<br />I-Yarı kapalı iç boşluklarının açık olması okunurluğu olumlu yönde etkiler.<br />II-İç boşlukları ne kadar büyükse okunurluğu artar.<br />III-Açıklığın az olması okunurluğu arttırır.
@@ -4050,7 +4746,7 @@
     > **Açıklama:** Başlık yazı karakterleri büyük puntoların kullanıldığı tasarımlarda veya dergi, gazete başlıkları için kullanılmalıdır. Gövde metinlerinde kullanılmamalıdır.
 
     ***
-1. "Bitişik yazı" karakterlerinin kullanımıyla ilgili olarak aşağıda verilen bilgilerden hangisi ya da hangileri **doğrudur**?<br />I-Bitişik yazılar gövde metinlerinde kullanılmamalıdır.<br />II-Bitişik yazılar kısa metinler olarak kullanılmalıdır.<br />III-Bitişik yazılar; başlıklarda, davetiyelerde, karakteristik logolarda kullanılmalıdır.
+1. "Bitişik yazı" karakterlerinin kullanımıyla ilgili olarak aşağıda verilen bilgilerden hangisi ya da hangileri **doğrudur**?<br />I-Bitişik yazılar gövde metinlerinde kullanılmamalıdır.<br />II-Bitişik yazılar kısa metinler olarak kullanılmalıdır.<br />III-Bitişik yazılar; başlıklarda, davetiyelerde, karakteristik logolarda kullanılmalıdır.
     - A-) Sadece I
     - B-) Sadece II
     - C-) II ve III
@@ -4061,14 +4757,15 @@
     > kullanılmamalıdır. Bitişik yazılar; gösterişli başlıklarda, davetiyelerde, karakteristik logolarda veya zarif markalamalarda kısa metinler olarak kullanılmalıdır.
 
     ***
-1. Aşağıdakilerden hangisi ya da hangileri kelimelerin, cümlelerin ve metin bloklarının okuturluğuna katkıda bulunan ana başlıklar arasında yer alır?<br />I-Karakter ağırlığı<br />II-Satır arası boşluklar<br />III-Paragraflar ayrımları
+1. Aşağıdakilerden hangisi ya da hangileri kelimelerin, cümlelerin ve metin bloklarının okuturluğuna katkıda bulunan ana başlıklar arasında yer alır?<br />I-Karakter ağırlığı<br />II-Satır arası boşluklar<br />III-Paragraflar ayrımları
     - **Cevap A-) II ve III**
     - B-) Sadece I
     - C-) Sadece II
     - D-) Sadece III
     - E-) I ve III
 
-    > **Açıklama:** Kelimelerin, cümlelerin ve metin bloklarının okuturluğuna katkıda bulunan ana başlıklar şunlardır:
+    > **Açıklama:** Okuturluk
+    > Kelimelerin, cümlelerin ve metin bloklarının okuturluğuna katkıda bulunan ana başlıklar şunlardır:
     > • Yazı Boyutu
     > • Büyük ve Küçük Harfler
     > • Harfler ve Kelimeler Arası Boşluklar
@@ -4088,7 +4785,18 @@
     - **Cevap D-) 9-12 punto**
     - E-) 3-6 punto
 
-    > **Açıklama:** Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları 9 ile 12 punto arasında değişmektedir.
+    > **Açıklama:** Yazı boyutu
+    > Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları 9 ile 12 punto arasında değişmektedir.
+
+    ***
+1. İki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesine .................denmektedir.<br />Yukarıda belirtilen boşluğa gelecek terim aşağıdaki şıklardan hangisinde verilmiştir?
+    - A-) Paragraf girintisi
+    - B-) Hizalama
+    - **Cevap C-) Uyumlama**
+    - D-) Kırıntılar
+    - E-) Dişi yazı
+
+    > **Açıklama:** Uyumlama (Kerning), iki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesine denmektedir
 
     ***
 1. Okunurluk harflerin hangi özelliğine atıfta bulunur?
@@ -4149,6 +4857,16 @@
     > **Açıklama:** Okuturluk; kelimelerin, cümlelerin veya metin bloklarının ne kadar kolay tanınıp okunabileceğini ifade eder.
 
     ***
+1. Aşağıdakilerden hangi puntoda göz daha fazla duraklar ve okuma akışını kesintiye uğratır?
+    - **Cevap A-) 20**
+    - B-) 9
+    - C-) 8
+    - D-) 7
+    - E-) 11
+
+    > **Açıklama:** 12 puntodan büyük yazı boyutlarında göz daha fazla duraklar ve okuma akışını kesintiye uğratır. Bu durum okumayı rahatsız ve verimsiz hale getirebilmektedir. Daha az duraklama olduğunda ise daha fazla okuma verimliliği ve anlama vardır. Yazı boyutu 9 puntodan küçük olduğunda ise harfin okunur olma özellikleri azalabilir ve okunurluğu etkileyebilir. Yazı boyutu çok küçükse okuyucu yazıyı net bir şekilde göremeyecek ve har eri birbirinden tek tek ayırt edemeyecektir
+
+    ***
 1. İki harf arasındaki boşluğun özel olarak ayarlanması, optik olarak dengelenmesi işlemi aşağıdakilerden hangisidir?
     - **Cevap A-) Uyumlama**
     - B-) Harf Arası Ayar
@@ -4173,6 +4891,17 @@
     > * Paragraf İşareti veya Özel İşaretler Kullanılarak Yapılan Paragraf Ayrımı
 
     ***
+1. Tipografik olarak metin gövdesinde, bir düşünceyi diğerinden ayırt etmek, içeriği netleştirmek ve okuyucunun kavrayışını artırmak için aşağıdakilerden hangisi uygulanır?
+    - **Cevap A-) Paragraflar Ayrımı**
+    - B-) Satır Uzunlukları
+    - C-) Hizalamalar
+    - D-) Optik Hizalama
+    - E-) Renk, Kontrast ve Dişi Yazı
+
+    > **Açıklama:** Paragraflar Ayrımları
+    > Tipografik olarak bir düşünceyi diğerinden ayırt etmek, içeriği netleştirmek ve okuyucunun kavrayışını artırmak tasarımcı için önemli bir amaçtır. Bir metin gövdesindeki paragrafların net bir şekilde ayrılması bu amacı gerçekleştirmenin bir yoludur. Bir girinti veya satır boşluğu yeni bir paragrafın başlangıcını gösterir
+
+    ***
 1. Koyu zeminde açık renk harflerin kullanıldığı yazı türü aşağıdakilerden hangisidir?
     - **Cevap A-) Dişi**
     - B-) İnce
@@ -4191,7 +4920,8 @@
     - D-) Satır Uzunlukları
     - E-) Optik Hizalama
 
-    > **Açıklama:** Karakter Ağırlığı
+    > **Açıklama:** Okunurluk
+    > Karakter Ağırlığı
 
     ***
 1. Yazı karakterinin seçimi ve ayarı, yazının okuturluğunu ve görsel ritmini etkilemektedir. Bir yazı karakterinin okunurluğuna katkıda bulunan, **karakter ağırlığını** ifade eden seçenek hangisidir?
@@ -4201,7 +4931,8 @@
     - D-) Harflerin regular biçimleridir
     - E-) Harflerin Puntosudur
 
-    > **Açıklama:** Harf çizgilerinin kalınlığıdır
+    > **Açıklama:** Karakter Ağırlığı
+    > Harf çizgilerinin kalınlığıdır
 
     ***
 1. Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her biri o harfin nesi olarak ifade edilir?
@@ -4211,7 +4942,8 @@
     - D-) Kerning olarak
     - **Cevap E-) Allograf olarak**
 
-    > **Açıklama:** Allograf olarak
+    > **Açıklama:** Tek Katlı – Çift Katlı Harfler
+    > Allograf olarak
 
     ***
 1. Eğik yazılar, bir yazı karakterinin ekseni 7 ila 20 derece arasında eğimli versiyonudur. Eğik yazılardan olan Oblik yazı karakterlerinin en önemli özelliği nedir?
@@ -4221,7 +4953,8 @@
     - D-) Eğik yazı karakterleri metin içerisinde vurgu sağlamak ve sözlü ifadeleri ayırt etmek için kullanılmaktadır
     - E-) Eğik yazı karakterleri okuma hızını yavaşlatır
 
-    > **Açıklama:** Elle eğim verilmesidir
+    > **Açıklama:** Eğik Yazılar
+    > Elle eğim verilmesidir
 
     ***
 1. Aşağıdakilerin hangisi bitişik yazılar için kullanılabilecek uygun bir ifadedir?
@@ -4231,7 +4964,8 @@
     - D-) Okunurluk derecesi doğrudan metnin uzunluğu ile ilişkilidir
     - E-) Bitişik yazılar; gösterişli başlıklarda kullanılmalıdır
 
-    > **Açıklama:** Bitişik yazı kulllanılan metinlerde bütün harfler büyük yazılmamalıdır
+    > **Açıklama:** Bitişik Yazılar
+    > Bitişik yazı kulllanılan metinlerde bütün harfler büyük yazılmamalıdır
 
     ***
 1. Okuturluk; kelimelerin, cümlelerin veya metin bloklarının ne kadar kolay tanınıp okunabileceğini ifade eder. Aşağıdaki seçeneklerden hangisi, kelimelerin, cümlelerin ve metin bloklarının okuturluğuna katkıda bulunur?
@@ -4241,7 +4975,8 @@
     - D-) Bitişik Yazılar
     - E-) Başlık Yazı Karakterleri
 
-    > **Açıklama:** Satır Arası Boşluklar
+    > **Açıklama:** Okuturluk
+    > Satır Arası Boşluklar
 
     ***
 1. Yazı boyutu punto ölçüsü ile ifade edilmektedir ve okuturluk için metinlerde yazı boyutuna dikkat edilmesi gerekmektedir. Yapılan araştırmalara göre 8-9 yaş için kullanılacak yazı boyutu kaç punto olmalıdır?
@@ -4251,7 +4986,8 @@
     - D-) 18 punto
     - E-) 20 punto
 
-    > **Açıklama:** 16 punto
+    > **Açıklama:** Yazı Boyutu
+    > 16 punto
 
     ***
 1. Bir metin için gereken kuralları uygulayabilme ve okuturluğu yüksek metinler oluşturabilmede, Kerning’i ifade eden seçenek hangisidir?
@@ -4261,7 +4997,8 @@
     - D-) Kelime, satır veya tüm paragraftaki karakterler arasındaki boşluğun eşit değerde azaltılması veya artırılmasıdır
     - E-) Bir satırın taban çizgisinden diğer satırın taban çizgisine olan uzaklığıdır
 
-    > **Açıklama:** İki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesidir
+    > **Açıklama:** Uyumlama
+    > İki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesidir
 
     ***
 1. Uygun bir satır uzunluğu, okuyucunun rahatlamasına ve kelimelerin içeriğine konsantre olmasına izin veren iyi bir okuma ritmi elde etmek için gerekmektedir. Genel olarak x-yüksekliği küçük olan yazı karakteri için maksimum satır uzunluğu yaklaşık kaç karakterdir?
@@ -4271,7 +5008,8 @@
     - **Cevap D-) 65 karakter**
     - E-) 75 karakter
 
-    > **Açıklama:** 65 karakter
+    > **Açıklama:** Satır Uzunlukları
+    > 65 karakter
 
     ***
 1. Metnin dikey bir kenar boyunca kusursuz hizalanabilmesi için, ne tür işlem yapılmalıdır?
@@ -4284,6 +5022,18 @@
     > **Açıklama:** Optik hizalama
 
     ***
+1. "Okunurluk harflerin tasarımına atıfta bulunurken, ................... bir tasarımcının kelimeleri düzenleme biçimine atıfta bulunur" Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
+    - **Cevap A-) okuturluk**
+    - B-) yazarlık
+    - C-) kelime
+    - D-) metin
+    - E-) cümle
+
+    > **Açıklama:** Okunurluk harflerin tasarımına atıfta
+    > bulunurken, okuturluk bir tasarımcının kelimeleri
+    > düzenleme biçimine atıfta bulunur
+
+    ***
 1. Aşağıdakilerden hangisi bir okuyucunun metni anlamasının ne kadar kolay veya zor olduğunun ölçüsü olarak tanımlanmaktadır?
     - A-) Cümle
     - **Cevap B-) Okuturluk**
@@ -4291,7 +5041,9 @@
     - D-) Metin
     - E-) Paragraf
 
-    > **Açıklama:** Okuturluk
+    > **Açıklama:** Okuturluk, bir okuyucunun metni anlamasının
+    > ne kadar kolay veya zor olduğunun ölçüsü olarak
+    > tanımlanmaktadır.
 
     ***
 1. "Bir yazı karakterinin x-yüksekliği, tüm karakterlerin oturduğu ................................ başlamakta ve küçük harflerin yüksekliğine kadar ulaşmaktadır" Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -4301,7 +5053,8 @@
     - D-) kelime tekrarından sonra
     - E-) paragraf sonundan
 
-    > **Açıklama:** satır taban çizgisinden
+    > **Açıklama:** Bir yazı karakterinin x-yüksekliği, tüm karakterlerin oturduğu satır taban çizgisinden (baseline) başlamakta
+    > ve küçük harflerin yüksekliğine kadar ulaşmaktadır
 
     ***
 1. En yüksek üst uzantının tepesinden en alçak alt uzantının tabanına kadar olan harf ölçüsünün adı nedir?
@@ -4311,7 +5064,10 @@
     - **Cevap D-) Punto boyutu**
     - E-) Harf sıklığı
 
-    > **Açıklama:** Punto Boyutu
+    > **Açıklama:** Punto Boyutu (Point Size): Genellikle
+    > en yüksek üst uzantının tepesinden en alçak
+    > alt uzantının tabanına kadar olan harf
+    > ölçüsüdür.
 
     ***
 1. "Bir yazı karakterinin .................. ne kadar küçükse okunurluğu o kadar zor olabilir." Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -4321,7 +5077,19 @@
     - D-) rengi
     - **Cevap E-) iç boşlukları**
 
-    > **Açıklama:** iç boşlukları
+    > **Açıklama:** Bir yazı karakterinin iç boşlukları ne kadar küçükse okunurluğu o kadar zor olabilir.
+
+    ***
+1. Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her birine ne ad verilir?
+    - **Cevap A-) Allograf**
+    - B-) Punto
+    - C-) Counter
+    - D-) Aperture
+    - E-) Caption
+
+    > **Açıklama:** Allograf: Bir alfabenin bir harfinin iki veya daha fazla alternatif
+    > biçiminden her biridir. Örneğin büyük harf, küçük
+    > harf, italik ve bir harfin çeşitli el yazısı biçimleridir.
 
     ***
 1. Özellikle roman gibi uzun metinlerde satır boyunca yatay harf çizgileri oluşturması, yatay göz hareketine ve akışa yardımcı olması ve satır atlamayı engellemesi nedeniyle okuturluğunun daha kolay olduğu karakter çizgisinin bitiminde bulunan küçük çıkıntılara ne ad verilir?
@@ -4331,7 +5099,10 @@
     - D-) Caption
     - E-) Punto
 
-    > **Açıklama:** Serif
+    > **Açıklama:** Tırnaklı (Serif) ve Tırnaksız (Sans Serif) Yazılar
+    > Tırnaklar, karakter çizgisinin bitiminde bulunan küçük çıkıntılardır. Tırnaksız yazı karakterlerinde ise
+    > bu çıkıntılar yoktur. Tırnaklı yazı karakterleri kullanıldığında metin bloklarının okuturluğunun daha iyi
+    > olduğuna inanılmaktadır.
 
     ***
 1. Bir rengin yoğunluğu ve görece parlaklığını ifade aşağıdakilerden hangisi ifade etmektedir?
@@ -4341,7 +5112,39 @@
     - D-) plan
     - E-) değer
 
-    > **Açıklama:** doygunluk
+    > **Açıklama:** Yazı tipi ve arka planı arasındaki uygun kontrast için; ton (Hue), değer
+    > (Value) ve doygunluk (Saturation) olmak üzere üç temel renk özelliğini dikkate almanız gerekmektedir.
+    > Ton rengin derecesini, değer bir rengin açıklığını veya koyuluğunu, doygunluk ise bir rengin yoğunluğu ve
+    > görece parlaklığını ifade etmektedir (Carter, 2014).
+
+    ***
+1. Yazı koyu renk zeminde açık renk harflerin kullanılmasına ne ad verilir?
+    - A-) Simultane
+    - B-) Complementary
+    - C-) pozitif yazı
+    - **Cevap D-) negatif yazı**
+    - E-) tipografik yazı
+
+    > **Açıklama:** Dişi (negatif ) yazı koyu renk zeminde açık renk harflerin kullanılmasıdır. Uzun metinlerde dişi yazı
+    > kulanılması okuturluğu zorlaştırmaktadır. İnce ve tırnaklı yazı karakterleri küçük puntolar ile kullanıldıklarında
+    > kopmalara maruz kalabilirler. Bu yüzden daha kalın hatlara sahip yazı karakterleri seçmek gerekmektedir.
+    > Küçük puntolarda mürekkebin şişme yapacağı göz önünde bulundurularak daha açık harf arası
+    > espas değeri kullanmak gerekmektedir (Başer Nejat, 2017).
+    > negatif yazı
+
+    ***
+1. Metni dikey bir kenar boyunca kusursuz hizalayabilmemiz için hangi hizalamaya ihtiyaç duyulmaktadır?
+    - A-) Justified
+    - B-) Align Left
+    - C-) Align Right
+    - D-) Simetrik
+    - **Cevap E-) optik**
+
+    > **Açıklama:** Metni dikey bir kenar boyunca kusursuz hizalayabilmemiz için optik hizalamaya ihtiyaç duyulmaktadır.
+    > Optik hizalama (Optical aligment), hafif girintili görünen belirli karakterlerin kenar boşluğuna itilmesine
+    > olanak tanımaktadır. Büyük A, T, V, W harfleri ve 1 rakamı gibi belirli karakterler bir satırın başına
+    > yerleştirildiğinde sola doğru hafif girinti verilmesi gerekmektedir. Bazı karakterler dikey hizalama noktasının
+    > biraz soluna ya da sağına yeniden konumlandırılmalıdır.
 
     ***
 1. Aşağıda hangisi ya da hangileri bir yazı karakterinin okunurluğuna katkıda bu­lunan ana başlıklar arasında yer alır?<br />I- İç boşluklar<br />II-Paragraf sayısı<br />III-Bitişik Yazılar
@@ -4351,7 +5154,8 @@
     - D-) Sadece I
     - E-) I ve II
 
-    > **Açıklama:** Bir yazı karakterinin okunurluğuna katkıda bu­lunan ana başlıklar şunlardır:
+    > **Açıklama:** Okunurluk
+    > Bir yazı karakterinin okunurluğuna katkıda bu­lunan ana başlıklar şunlardır:
     > * x- yüksekliği
     > * Karakter Ağırlığı
     > * Karakter Genişliği
@@ -4389,7 +5193,8 @@
     - D-) X-Yüksekliği
     - **Cevap E-) Allograf**
 
-    > **Açıklama:** Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her birine Allograf adı verilir.
+    > **Açıklama:** Tek Katlı – Çift Katlı Harfler
+    > Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her birine Allograf adı verilir.
 
     ***
 1. Kolayca okunması, net bir şekilde anlaşılması gereken gövde metinlerinde okuturluk açısından kullanılmaması gereken, daha çok gösterişli başlıklar, davetiyeler, karakteristik logolar veya zarif markalamalarda kısa metinler olarak kullanılması gereken yazı türü aşağıdakilerden hangisidir?
@@ -4399,7 +5204,33 @@
     - D-) Tırnaklı yazılar
     - E-) Eğik yazılar
 
-    > **Açıklama:** Bitişik yazılar (Script)  kolayca okunması, net bir şekilde anlaşılması gereken gövde metinlerinde okuturluk açısından iyi bir seçim değildir, bitişik yazılar gövde metinlerinde kullanılmamalıdır. Bitişik yazılar; gösterişli başlıklarda, davetiyelerde, karakteristik logolarda veya zarif markalamalarda kısa metinler olarak kullanılmalıdır.
+    > **Açıklama:** Bitişik yazılar (Script) kolayca okunması, net bir şekilde anlaşılması gereken gövde metinlerinde okuturluk açısından iyi bir seçim değildir, bitişik yazılar gövde metinlerinde kullanılmamalıdır. Bitişik yazılar; gösterişli başlıklarda, davetiyelerde, karakteristik logolarda veya zarif markalamalarda kısa metinler olarak kullanılmalıdır.
+
+    ***
+1. Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları hangi punto aralıkları arasında değişmektedir?
+    - A-) 3-6 punto
+    - B-) 2-5 punto
+    - C-) 14-24 punto
+    - **Cevap D-) 9-12 punto**
+    - E-) 14-28 punto
+
+    > **Açıklama:** Yazı boyutu
+    > Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları 9 ile 12 punto arasında değişmektedir.
+
+    ***
+1. Başlık yazıları hangi punto aralıkları arasındadır?
+    - **Cevap A-) 24 punto ve üzeri**
+    - B-) 9-12 punto
+    - C-) 14-24 punto
+    - D-) 3-6 punto
+    - E-) 6-8 punto
+
+    > **Açıklama:** Yazı boyutu
+    > Karakterler, tasarım amaçlarına uygun olarak kullanıldıkları punto büyüklüklerine göre aşağıdaki şekilde sınıflandırılmaktadır:
+    > Başlık (Display) 24 pt ve üzeri,
+    > Alt başlık (Subhead) 14 pt – 24 pt
+    > Gövde metni (Body copy) 9 pt – 14 pt
+    > Alt yazı (Caption) 6 pt – 8 pt (Cullen, 2012).
 
     ***
 1. İki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak denge­lenmesine ……………….denmektedir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?
@@ -4419,7 +5250,8 @@
     - **Cevap D-) I, II ve III**
     - E-) Sadece III
 
-    > **Açıklama:** Paragrafları birbirinden ayırt edebilmek için en çok kullanılan yöntemlerden bazıları şu şekildedir:
+    > **Açıklama:** Paragraf ayrımları
+    > Paragrafları birbirinden ayırt edebilmek için en çok kullanılan yöntemlerden bazıları şu şekildedir:
     > * Paragraf Başı Girintisi
     > * Satır Arası Boşluğu ile Paragraf Ayrımı
     > * Asılı Girinti ile Paragraf Ayrımı
@@ -4433,7 +5265,8 @@
     - D-) 150-200 karakter
     - E-) 250-260 karakter
 
-    > **Açıklama:** Genel olarak kabul edilen standart, satır başına yaklaşık 45-75 karakterdir (kelime boşlukları dahil),
+    > **Açıklama:** satır Uzunlukları
+    > Genel olarak kabul edilen standart, satır başına yaklaşık 45-75 karakterdir (kelime boşlukları dahil),
     > 80 karaktere gidebilir ancak bu seçilen yazı karakterine bağlıdır. Genel olarak x-yüksekliği küçük olan
     > yazı karakteri için maksimum satır uzunluğu yaklaşık 65 karakterdir.
 
@@ -4448,7 +5281,7 @@
     > **Açıklama:** "Allograf: Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her biridir" (s.224). Buna göre cevap c seçeneğidir.
 
     ***
-1. Yazı karakter çizgisinin bitiminde bulunan küçük çıkıntılara ne ad verilmektedir?
+1. Yazı karakter çizgisinin bitiminde bulunan küçük çıkıntılara ne ad verilmektedir?
     - A-) Kırıntı
     - **Cevap B-) Tırnak**
     - C-) Allograf
@@ -4468,6 +5301,17 @@
     > **Açıklama:** "**İtalik** yazı karakterlerinde bazı harfler tekrar tasarlanırken **Oblik** yazı karakterlerinde ise harflere sadece eğim verilmektedir" (s.225). Buna göre cevap a seçeneğidir.
 
     ***
+1. I- Davetiye<br />II- Karakteristik Logo<br />III- Gövde Metni<br />IV- Gösterişli Başlık<br />Bitişik yazıların yukarıdaki maddelerde belirtilen hangi yerlerde kullanılması doğru olur?
+    - A-) I ve II
+    - B-) I ve IV
+    - C-) I, II, III
+    - **Cevap D-) I, II, IV**
+    - E-) I, II, III, IV
+
+    > **Açıklama:** "...bitişik yazılar **gövde metinlerinde** kullanılmamalıdır. Bitişik yazılar; **gösterişli başlıklarda, davetiyelerde, karakteristik logolarda** veya zarif markalamalarda kısa metinler olarak kullanılmalıdır (Adams vd., 2012)" (s.226).
+    > Buna göre cevap d seçeneğidir.
+
+    ***
 1. Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları ....... punto arasında değişmektedir.<br />Yukarıdaki cümlede boş bırakılan yeri seçeneklerden hangisi doğru şekilde tamamlar?
     - A-) 7 ile 10
     - B-) 8 ile 11
@@ -4478,14 +5322,14 @@
     > **Açıklama:** "Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları 9 ile 12 punto arasında değişmektedir." (s.229). Buna göre cevap c seçeneğidir.
 
     ***
-1. I- Küçük harfler şekil çeşitliliği açısından daha zengindir.<br />II-  Düzensiz kelime biçimi küçük harfleri daha az tanınır kılmaktadır.<br />III-Küçük harflerin iç boşluk açıklıkları metinde okuturluğu azaltmaktadır.<br />IV- Küçük harflerle yazılan kelimeler, büyük harflerle yazılanlardan daha okuturdur.<br />Küçük harflere ilişkin yukarıdaki ifadelerden hangileri doğrudur?
+1. I- Küçük harfler şekil çeşitliliği açısından daha zengindir.<br />II- Düzensiz kelime biçimi küçük harfleri daha az tanınır kılmaktadır.<br />III-Küçük harflerin iç boşluk açıklıkları metinde okuturluğu azaltmaktadır.<br />IV- Küçük harflerle yazılan kelimeler, büyük harflerle yazılanlardan daha okuturdur.<br />Küçük harflere ilişkin yukarıdaki ifadelerden hangileri doğrudur?
     - A-) I ve II
     - **Cevap B-) I ve IV**
     - C-) II ve III
     - D-) I, II ve III
     - E-) I, II, IV
 
-    > **Açıklama:** "**Küçük harflerle yazılan kelimeler, tamamı büyük harflerle yazılan kelimelerden daha okuturdur**, **Küçük harfler şekil çeşitliliği açısından daha zengindi**r ve **düzensiz kelime biçimi küçük harfleri daha tanınır kılmaktadır**. Küçük harflerin üst uzantıları ve alt uzantıları tatmin edici kontrastlar sağlamaktadır. Ayrıca **küçük harflerin sahip olduğu iç boşluk açıklıkları** ve çift katlı karakterler **metinde okuturluğu arttırmaktadır**." (s.230). Buna göre cevap b seçeneğidir.
+    > **Açıklama:** "**Küçük harflerle yazılan kelimeler, tamamı büyük harflerle yazılan kelimelerden daha okuturdur**, **Küçük harfler şekil çeşitliliği açısından daha zengindi**r ve **düzensiz kelime biçimi küçük harfleri daha tanınır kılmaktadır**. Küçük harflerin üst uzantıları ve alt uzantıları tatmin edici kontrastlar sağlamaktadır. Ayrıca **küçük harflerin sahip olduğu iç boşluk açıklıkları** ve çift katlı karakterler **metinde okuturluğu arttırmaktadır**." (s.230). Buna göre cevap b seçeneğidir.
 
     ***
 1. "........................., iki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesine denmektedir"<br />Yukarıdaki cümlede yer boşluğu aşağıdakilerden hangisi doğru tamamlar?
@@ -4508,7 +5352,7 @@
     > **Açıklama:** "**Harf arası ayarı (Tracking)**, kelime, satır veya tüm paragraftaki karakterler arasındaki boşluğun eşit değerde azaltılması veya artırılmasıdır." (s.232). Buna göre cevap c seçeneğidir.
 
     ***
-1. Aşağıdakilerden hangisinde kelimeler arasında oluşan beyaz boşluklardan dolayı nehirler (river) meydana gelebilir?
+1. Aşağıdakilerden hangisinde kelimeler arasında oluşan beyaz boşluklardan dolayı nehirler (river) meydana gelebilir?
     - **Cevap A-) Sağlı-sollu hizalanmış metinler**
     - B-) Ortalı hizalı metinler
     - C-) Sağa hizalı metinler

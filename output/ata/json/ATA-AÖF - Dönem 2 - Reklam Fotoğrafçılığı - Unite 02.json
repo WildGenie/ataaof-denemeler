@@ -9,14 +9,15 @@
         "E": "Objektif boyutu",
         "DogruCevap": "C",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 133563,
@@ -28,14 +29,15 @@
         "E": "Geniş açı",
         "DogruCevap": "C",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 133590,
@@ -47,14 +49,15 @@
         "E": "Bel çekim",
         "DogruCevap": "A",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 133761,
@@ -66,14 +69,15 @@
         "E": "Göğüs çekim",
         "DogruCevap": "B",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 133805,
@@ -85,18 +89,19 @@
         "E": "Geniş açılı objektif",
         "DogruCevap": "B",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 200000,
-        "SoruMetni": "<strong>Aşağıdaki fotoğraf makinası türlerinden hangisinde obtüratör olarak ayna <u>kullanılmaz</u>?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdaki fotoğraf makinası türlerinden hangisinde obtüratör olarak ayna <u>kullanılmaz</u>?</strong>",
         "A": "Dijital Tek Objektifli Refleks Fotoğraf Makinaları",
         "B": "Değişken Objektifli Refleks Dijital Fotoğraf Makinaları",
         "C": "Aynasız Değişken Objektifli Refleks Dijital Fotoğraf Makinaları",
@@ -104,18 +109,19 @@
         "E": "Aynalı Değişken Objektifli Refleks Dijital Fotoğraf Makinaları",
         "DogruCevap": "C",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 200005,
-        "SoruMetni": "<strong>Fotoğraflanması istenen bir kişiyi ezik ve komik göstermek için aşağıdaki objektiflerden hangisi kullanılmalıdır?</strong><br/>",
+        "SoruMetni": "<strong>Fotoğraflanması istenen bir kişiyi ezik ve komik göstermek için aşağıdaki objektiflerden hangisi kullanılmalıdır?</strong>",
         "A": "Normal 50 mm objektif",
         "B": "Dar açılı 200 mm tele objektif",
         "C": "80-210 mm zoom objektif",
@@ -123,18 +129,19 @@
         "E": "10 mm balık gözü objektif",
         "DogruCevap": "E",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 200010,
-        "SoruMetni": "<strong>Fotoğraflanması istenen bir kişiyi güçlü, heybetli ve büyük göstermek için ne tür bir objektif kullanılması gerekir?</strong><br/>",
+        "SoruMetni": "<strong>Fotoğraflanması istenen bir kişiyi güçlü, heybetli ve büyük göstermek için ne tür bir objektif kullanılması gerekir?</strong>",
         "A": "20 mm balık gözü objektif",
         "B": "Normal 50 mm objektif",
         "C": "Dar açılı 90 mm tele objektif",
@@ -142,14 +149,15 @@
         "E": "10 mm balık gözü objektif",
         "DogruCevap": "D",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 200019,
@@ -161,18 +169,19 @@
         "E": "Paylaşmak",
         "DogruCevap": "D",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 200039,
-        "SoruMetni": "<strong>Aşağıdakilerden hangi enstantane/örtücü değeri deklanşöre basıldığı sürece perdenin açık kalıp pozlamanın devam ettiğinin göstergesidir?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangi enstantane/örtücü değeri deklanşöre basıldığı sürece perdenin açık kalıp pozlamanın devam ettiğinin göstergesidir?</strong>",
         "A": "1/1000",
         "B": "1/200",
         "C": "B",
@@ -180,18 +189,19 @@
         "E": "Z",
         "DogruCevap": "C",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 200046,
-        "SoruMetni": "<strong>Objektif ile duyarlı yüzey/sensör arasında bulunan ve f ile simgelenen değere ne ad verilir?</strong><br/>",
+        "SoruMetni": "<strong>Objektif ile duyarlı yüzey/sensör arasında bulunan ve f ile simgelenen değere ne ad verilir?</strong>",
         "A": "Diyafram",
         "B": "Enstantane",
         "C": "Alan derinliği",
@@ -199,18 +209,19 @@
         "E": "Odak uzaklığı",
         "DogruCevap": "E",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 200053,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi dar açılı objektiflere ait <u>değildir</u>?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi dar açılı objektiflere ait <u>değildir</u>?</strong>",
         "A": "Büyüklük",
         "B": "Yığılma etkisi",
         "C": "Mesafelerin yakınmış izlenimi vermesi",
@@ -218,18 +229,19 @@
         "E": "Sınırsız alan derinliği",
         "DogruCevap": "E",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 200061,
-        "SoruMetni": "<strong>Balık gözü gibi çok geniş açılı objektifler fotoğraf çekmek için ne tür mekânlarda fotoğrafçının işini kolaylaştırırlar?</strong><br/>",
+        "SoruMetni": "<strong>Balık gözü gibi çok geniş açılı objektifler fotoğraf çekmek için ne tür mekânlarda fotoğrafçının işini kolaylaştırırlar?</strong>",
         "A": "Çok dar mesafeli mekânlarda",
         "B": "Eski evlerde",
         "C": "Antik kentlerde",
@@ -244,11 +256,12 @@
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 200067,
-        "SoruMetni": "<strong>Diyafram kısıldıkça (rakamsal olarak büyüdükçe) alan derinliği ne olur?</strong><br/>",
+        "SoruMetni": "<strong>Diyafram kısıldıkça (rakamsal olarak büyüdükçe) alan derinliği ne olur?</strong>",
         "A": "Azalır.",
         "B": "Artar.",
         "C": "Sabit kalır.",
@@ -256,18 +269,19 @@
         "E": "İso değişir.",
         "DogruCevap": "B",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 200074,
-        "SoruMetni": "“Yüksek enstantane çekimleri ile ..................; düşük enstantene ile yapılan çekimler ise ......................... görülür.”<br/> <br/><strong>Cümlede boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?</strong><br> <br/></br>",
+        "SoruMetni": "“Yüksek enstantane çekimleri ile ..................; düşük enstantene ile yapılan çekimler ise ......................... görülür.”<br/><strong>Cümlede boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
         "A": "portre - makro",
         "B": "harekette netsizlik - hareketin yakalanması",
         "C": "hareketin yakalanması - harekette netsizlik",
@@ -282,7 +296,8 @@
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 240445,
@@ -294,14 +309,15 @@
         "E": "İso değişir.",
         "DogruCevap": "A",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 240448,
@@ -313,14 +329,15 @@
         "E": "Kararma",
         "DogruCevap": "B",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 294372,
@@ -332,14 +349,15 @@
         "E": "Paylaşmak",
         "DogruCevap": "D",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 294382,
@@ -351,18 +369,19 @@
         "E": "Iso",
         "DogruCevap": "C",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 345373,
-        "SoruMetni": "I. Perde<br/> <br/>II. Enstantene<br> <br/>III. Shutter<br> <br/>IV. Odak uzaklığı<br> <br/><strong>Yukarıdakilerden hangileri ışığın film ya da sensör üzerine düştüğü süreyi belirtmek için kullanılabilecek ifadelerdendir?</strong></br></br></br>",
+        "SoruMetni": "I. Perde<br/>II. Enstantene<br/>III. Shutter<br/>IV. Odak uzaklığı<br/><strong>Yukarıdakilerden hangileri ışığın film ya da sensör üzerine düştüğü süreyi belirtmek için kullanılabilecek ifadelerdendir?</strong></br></br></br>",
         "A": "I ve II",
         "B": "III ve IV",
         "C": "I, II ve III",
@@ -370,14 +389,15 @@
         "E": "I, II, III ve IV",
         "DogruCevap": "C",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 345779,
@@ -389,13 +409,14 @@
         "E": "Parasoley kullanmak",
         "DogruCevap": "C",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     }
 ]

@@ -1,8 +1,8 @@
 [
     {
         "SoruID": 3487898,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Kullanım alanlarına göre üç boyutlu tipografiyi, aşağıdakilerden hangi guruplarla sınıflandırmak mümkündür?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>1.Bilgilendirme amaçlı 2.mimari imge olarak 3. gösteri-reklam amaçlı 4.yer imi amaçlı 5. heykelsi şekiller amaçlı 6. oyun amaçlı-obje çıkışlı <br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Kullanım alanlarına göre üç boyutlu tipografiyi, aşağıdakilerden hangi guruplarla sınıflandırmak mümkündür?",
+        "A": "<br/>1.Bilgilendirme amaçlı 2.mimari imge olarak 3. gösteri-reklam amaçlı 4.yer imi amaçlı 5. heykelsi şekiller amaçlı 6. oyun amaçlı-obje çıkışlı",
         "B": "1.Deneysel yaklaşım amaçlı 2.mimari imge olarak 3. gösteri-reklam amaçlı 4.yer imi amaçlı 5. sanat-tasarım amaçlı 6. oyun amaçlı-obje çıkışlı",
         "C": "1.Bilgilendirme amaçlı 2.mimari imge olarak 3. gösteri-reklam amaçlı 4.yer imi amaçlı 5. sanat-tasarım amaçlı 6. hareket ve performans amaçlı",
         "D": "1.Bilgilendirme amaçlı 2.mimari imge olarak 3. alfabeyi tanıtım amaçlı 4.sanat-tasarım amaçlı 5. oyun amaçlı-obje çıkışlı 6. geleneksel sanat amaçlı",
@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Kullanım alanlarına göre üç boyutlu tipografiyi;<br/><br/>1.Bilgilendirme amaçlı üç boyutlu tipografi,<br/><br/>2.Mimari imge olarak üç boyutlu tipografi,<br/><br/>3.Gösteri-reklam amaçlı üç boyutlu tipografi,<br/><br/>4.Yer imi amaçlı üç boyutlu tipografi,<br/><br/>5.Sanat-tasarım amaçlı üç boyutlu tipografi,<br/><br/>6.Oyun amaçlı-obje çıkışlı üç boyutlu tipografi<br/><br/>olarak sınıflandırmak mümkündür.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>KULLANIM ALANLARINA GÖRE ÜÇ BOYUTLU TİPOGRAFİ<br><br/>Kullanım alanlarına göre üç boyutlu tipografiyi;<br/>1.Bilgilendirme amaçlı üç boyutlu tipografi,<br/>2.Mimari imge olarak üç boyutlu tipografi,<br/>3.Gösteri-reklam amaçlı üç boyutlu tipografi,<br/>4.Yer imi amaçlı üç boyutlu tipografi,<br/>5.Sanat-tasarım amaçlı üç boyutlu tipografi,<br/>6.Oyun amaçlı-obje çıkışlı üç boyutlu tipografi<br/>olarak sınıflandırmak mümkündür."
     },
     {
         "SoruID": 3487899,
@@ -37,7 +37,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Why Not Associates ajansının, Swansea’deki National Waterfront Museum için sanatçı Gordon Young’la ortaklaşa tasarladığı “Pobl Machines” adlı dış mekân enstalasyonu da üç boyutlu olarak var olmuştur. Harf biçimli oturma grupların- dan oluşan tasarım,...."
+        "Aciklama": "<br/>Bilgilendirme Amaçlı Üç Boyutlu Tipografi<br>Why Not Associates ajansının, Swansea’deki National Waterfront Museum için sanatçı Gordon Young’la ortaklaşa tasarladığı “Pobl Machines” adlı dış mekân enstalasyonu da üç boyutlu olarak var olmuştur. Harf biçimli oturma grupların- dan oluşan tasarım,...."
+    },
+    {
+        "SoruID": 3487900,
+        "SoruMetni": "<br/>Çevresel tasarımlarda boyut etkisinin yaratılmasının önemini vurgulayan “Dimensional Typography” kitabının yazarı kimdir?",
+        "A": "<br/>Gavin Ambrose",
+        "B": "<br/>Jan Middendorp",
+        "C": "<br/>Abbott Miller",
+        "D": "<br/>Herbert Bayer",
+        "E": "<br/>Josep Maria Subirachs",
+        "DogruCevap": "C",
+        "DersAd": "İleri Tipografi",
+        "Unite": 2,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:43.575628",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<br/>Mimari İmge Olarak Üç Boyutlu Tipografi<br><br/>“Dimensional Typography” kitabının yazarı Abbott Miller’dır."
     },
     {
         "SoruID": 3487906,
@@ -57,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Tam Benim Tipim” kitabının yazarı Simon Garfield (2012) şöyle demiştir: “Lily Allen, “it’s not me, it’s you” adlı albümün kapağında ana imaj olarak bir harf kullandı:..."
+        "Aciklama": "<br/>Gösteri Reklam Amaçlı Üç Boyutlu Tipografi<br>“Tam Benim Tipim” kitabının yazarı Simon Garfield (2012) şöyle demiştir: “Lily Allen, “it’s not me, it’s you” adlı albümün kapağında ana imaj olarak bir harf kullandı:..."
     },
     {
         "SoruID": 3487907,
@@ -77,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Laszlo Moholy-Nagy, 1925 yılında kaleme aldığı “Tipofoto” adlı makalesinde, tipografik malzemelerin kendilerinin, yalnızca dolaylı bir entelektüellik ile kalmaksızın ayrıca doğrudan görünürlüklü, güçlü bir optik somutluğa sahip olduğundan söz etmiştir (Armstrong, 2012)."
+        "Aciklama": "<br/>Çeşitli Nesneler Kullanılarak Oluşturulan Üç Boyutlu Tipografi<br>Laszlo Moholy-Nagy, 1925 yılında kaleme aldığı “Tipofoto” adlı makalesinde, tipografik malzemelerin kendilerinin, yalnızca dolaylı bir entelektüellik ile kalmaksızın ayrıca doğrudan görünürlüklü, güçlü bir optik somutluğa sahip olduğundan söz etmiştir (Armstrong, 2012)."
     },
     {
         "SoruID": 3487908,
@@ -97,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karbondioksit salınımının ekoloji için yaptığı problemlere dikkat çekmek için Japon Kokokumaru firması tarafından düzenlenen yazılarda üç boyutlu mekânda belli bir açıdan bakıldığında yazı iki boyutlu ve düz olarak algılanmaktadır"
+        "Aciklama": "<br/>Bakış Açısına Göre Değişen (Anamorfik) Üç Boyutlu Tipografi<br>Karbondioksit salınımının ekoloji için yaptığı problemlere dikkat çekmek için Japon Kokokumaru firması tarafından düzenlenen yazılarda üç boyutlu mekânda belli bir açıdan bakıldığında yazı iki boyutlu ve düz olarak algılanmaktadır"
     },
     {
         "SoruID": 3487910,
@@ -117,11 +137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Almanya, Köln’de bulunan tipografik anıtın tasarımcıları Ruedi Baur, Denis Coueignoux, Vera Kockot ve Karim Sabano’dur. 1 Eylül 2009 tarihinde yerleştirilen tipografik anıt, Nazi kuvvetlerine karşı askerî isyankarlara, işine bağlı muhaliflere, sivil savaş karşıtlarına adanmıştır."
+        "Aciklama": "<br/>Tipografik Heykel Olarak Oluşturulan Üç Boyutlu Tipografi<br>Almanya, Köln’de bulunan tipografik anıtın tasarımcıları Ruedi Baur, Denis Coueignoux, Vera Kockot ve Karim Sabano’dur. 1 Eylül 2009 tarihinde yerleştirilen tipografik anıt, Nazi kuvvetlerine karşı askerî isyankarlara, işine bağlı muhaliflere, sivil savaş karşıtlarına adanmıştır."
     },
     {
         "SoruID": 3487915,
-        "SoruMetni": "“Letterform for the Ephemeral” 2009-2010 yılları arasında, giyilebilir tipografiden yola çıkılarak deneyimlenen bir projedir. Bolero tarzı kollardan geçirilen birbirine bağlı kumaş parçasının, kollar ve omuz yardımıyla harf formlarının oluşturulduğu ve birkaç evreden meydana gelen bu düzenleme kime aittir?",
+        "SoruMetni": "“Letterform for the Ephemeral” 2009-2010 yılları arasında, giyilebilir tipografiden yola çıkılarak deneyimlenen bir projedir. Bolero tarzı kollardan geçirilen birbirine bağlı kumaş parçasının, kollar ve omuz yardımıyla harf formlarının oluşturulduğu ve birkaç evreden meydana gelen bu düzenleme kime aittir?",
         "A": "Amandine Alessandra’nın projesidir.",
         "B": "Ossi Naukkarinen'in projesidir.",
         "C": "Joan Brossa'nın projesidir.",
@@ -137,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Amandine Alessandra’nın projesi “Letterform for the Ephemeral” 2009-2010 yılları arasında oluşturulmuş, birkaç evreden meydana gelen bir projedir. Giyilebilir tipografiden yola çıkılarak deneyimlenen proje, bolero tarzı kollardan geçirilen birbirine bağlı kumaş parçasının kollar ve omuz yardımıyla harf formlarının oluşturulduğu bir düzenlemedir."
+        "Aciklama": "<br/>Hareket ya da Performans Oluşturulan Üç Boyutlu Tipografi<br>Amandine Alessandra’nın projesi “Letterform for the Ephemeral” 2009-2010 yılları arasında oluşturulmuş, birkaç evreden meydana gelen bir projedir. Giyilebilir tipografiden yola çıkılarak deneyimlenen proje, bolero tarzı kollardan geçirilen birbirine bağlı kumaş parçasının kollar ve omuz yardımıyla harf formlarının oluşturulduğu bir düzenlemedir."
     },
     {
         "SoruID": 3487916,
@@ -157,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "El Lissitzky, 1926 yılında yazdığı bir yazıda: “Kullanılan malzeme miktarı düşüyor, maddesizleşiyoruz ve yüklü malzemeler giderek serbest kalmış enerjiye dönüşüyor.” demiştir."
+        "Aciklama": "<br/>Hareket ya da Performans Oluşturulan Üç Boyutlu Tipografi<br>El Lissitzky, 1926 yılında yazdığı bir yazıda: “Kullanılan malzeme miktarı düşüyor, maddesizleşiyoruz ve yüklü malzemeler giderek serbest kalmış enerjiye dönüşüyor.” demiştir."
     },
     {
         "SoruID": 3487917,
@@ -177,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Japon tasarımcı Takenobu Igarashi’nin üç boyutlu alfabe çalışmaları kendi tanımıyla mimari alfabeleri 1980’li yıllarda büyük ses getirmiştir. Alüminyum plakaların farklı kesitlerle bir araya getirilmesiyle oluşan alfabe serisinde Igarashi, üç boyutlu formların potansiyellerini keşfetmiştir."
+        "Aciklama": "Çeşitli Nesneler Kullanılarak Oluşturulan Üç Boyutlu Tipografi<br>Japon tasarımcı Takenobu Igarashi’nin üç boyutlu alfabe çalışmaları kendi tanımıyla mimari alfabeleri 1980’li yıllarda büyük ses getirmiştir. Alüminyum plakaların farklı kesitlerle bir araya getirilmesiyle oluşan alfabe serisinde Igarashi, üç boyutlu formların potansiyellerini keşfetmiştir."
     },
     {
         "SoruID": 3487928,
@@ -197,11 +217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 12pt;\">Deneysel tipografinin herkes tarafından üzerin­de uzlaşılmış bir tanımı olduğu söylenememekte­dir. Amerikalı tasarımcı David Carson deneyseli, “daha önce denemediğim, görülmemiş veya duyul­mamış bir şey” şeklinde ifade edip yaratıcı sürecin biricikliğine ve öznel oluşuna vurgu yapmaktadır. </span><span style=\"font-size: 14pt;\">Dolayısıyla, <span style=\"font-family: 'Times New Roman',serif;\">doğru yanıt E seçeneğidir.</span></span>"
+        "Aciklama": "<strong><span style=\"font-size: 13.0pt;\">TASARIMDA DENEY, DENEYSEL VE ANTRENMAN KAVRAMLARI</span></strong><br><span style=\"font-size: 12pt;\">Deneysel tipografinin herkes tarafından üzerin­de uzlaşılmış bir tanımı olduğu söylenememekte­dir. Amerikalı tasarımcı David Carson deneyseli, “daha önce denemediğim, görülmemiş veya duyul­mamış bir şey” şeklinde ifade edip yaratıcı sürecin biricikliğine ve öznel oluşuna vurgu yapmaktadır. </span><span style=\"font-size: 14pt;\">Dolayısıyla, <span style=\"font-family: 'Times New Roman',serif;\">doğru yanıt E seçeneğidir.</span></span>"
     },
     {
         "SoruID": 3487929,
-        "SoruMetni": "I. Purizm<br/> II. Realizm<br/> III. Romantizm<br/> IV. Ekspresyonizm<br/> Yukarıdakilerden hangileri Avrupa’dan dünyaya yayılan öncü (avant-garde) sanat ve tasarım akımları arasında sayılmaktadır?",
+        "SoruMetni": "I. Purizm<br/>II. Realizm<br/>III. Romantizm<br/>IV. Ekspresyonizm<br/>Yukarıdakilerden hangileri Avrupa’dan dünyaya yayılan öncü (avant-garde) sanat ve tasarım akımları arasında sayılmaktadır?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve IV",
@@ -217,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Avrupa’dan dünyaya yayılan öncü (avant-garde) sanat ve tasarım akımları modernizm bayrağı altında Konstrüktivizm, Kübizm, Dadaizm, Ekspresyonizm, Fütürizm, Prodüktivizm, Purizm, Süprematizm, Vortisizm, Zenitizm ve De Stijl gibi pek çok akım ortaya çıkarmıştır. Bu akımlar içerisinde Kübizm’in genelgeçer kurallardan uzak kompozisyon anlayışı sanatçılara ve tasarım­cılara yeni yollar açmış, “bu yenilikçi düşüncelerin ilk uygulan­dığı alanlardan biri de tipografi olmuştur”  Dolayısıyla, doğru yanıt C seçeneğidir."
+        "Aciklama": "<strong>GÖRSEL İLETİŞİM TARİHİNDE DENEYSEL TİPOGRAFİ</strong><br>Avrupa’dan dünyaya yayılan öncü (avant-garde) sanat ve tasarım akımları modernizm bayrağı altında Konstrüktivizm, Kübizm, Dadaizm, Ekspresyonizm, Fütürizm, Prodüktivizm, Purizm, Süprematizm, Vortisizm, Zenitizm ve De Stijl gibi pek çok akım ortaya çıkarmıştır. Bu akımlar içerisinde Kübizm’in genelgeçer kurallardan uzak kompozisyon anlayışı sanatçılara ve tasarım­cılara yeni yollar açmış, “bu yenilikçi düşüncelerin ilk uygulan­dığı alanlardan biri de tipografi olmuştur” Dolayısıyla, doğru yanıt C seçeneğidir."
     },
     {
         "SoruID": 3487930,
@@ -237,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt B seçeneğidir. Çünkü, görsel iletişim tasarımında “Biçim işlevi izler.” düsturuyla asimetrik sayfa düzenlerini, ızgara (grid) düzenine sıkı sıkıya bağlılığı, beyaz alanlara daha çok yer verilmesini, serifsiz yazıların kulla­nımını ve süslemeden neredeyse bütünüy­le kaçınılmasını savunan akım “modernizm”dir."
+        "Aciklama": "<strong>GÖRSEL İLETİŞİM TARİHİNDE DENEYSEL TİPOGRAFİ</strong><br>Doğru yanıt B seçeneğidir. Çünkü, görsel iletişim tasarımında “Biçim işlevi izler.” düsturuyla asimetrik sayfa düzenlerini, ızgara (grid) düzenine sıkı sıkıya bağlılığı, beyaz alanlara daha çok yer verilmesini, serifsiz yazıların kulla­nımını ve süslemeden neredeyse bütünüy­le kaçınılmasını savunan akım “modernizm”dir."
     },
     {
         "SoruID": 3487931,
-        "SoruMetni": "Gutenberg’ten bu yana oluşan işlev öncelikli, kuralcı ve durağan olan tipografik geleneğe karşı çıkış, yaratıcı insanları özgür ve dinamik ifade biçimlerinin kapısını aralamaya çağırmış; …………….. düşünce edebiyat, felsefe, tiyatro, mimari, reklam, fotoğraf, sinema gibi birçok alanda kendini göstermiştir.<br/>  Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Gutenberg’ten bu yana oluşan işlev öncelikli, kuralcı ve durağan olan tipografik geleneğe karşı çıkış, yaratıcı insanları özgür ve dinamik ifade biçimlerinin kapısını aralamaya çağırmış; …………….. düşünce edebiyat, felsefe, tiyatro, mimari, reklam, fotoğraf, sinema gibi birçok alanda kendini göstermiştir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Dadaizm",
         "B": "Fütürist",
         "C": "Kübizm",
@@ -257,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt B seçeneğidir. Çünkü, Gutenberg’ten bu yana oluşan işlev öncelikli, kuralcı ve durağan olan tipografik geleneğe karşı çıkış, yaratıcı insanları özgür ve dinamik ifade biçimlerinin kapısını aralamaya çağırmış; fütürist düşünce edebiyat, felsefe, tiyatro, mimari, reklam, fotoğraf, sinema gibi birçok alanda kendini göstermiştir."
+        "Aciklama": "<strong>Fütürizm ve Deneysel Tipografi</strong><br>Doğru yanıt B seçeneğidir. Çünkü, Gutenberg’ten bu yana oluşan işlev öncelikli, kuralcı ve durağan olan tipografik geleneğe karşı çıkış, yaratıcı insanları özgür ve dinamik ifade biçimlerinin kapısını aralamaya çağırmış; fütürist düşünce edebiyat, felsefe, tiyatro, mimari, reklam, fotoğraf, sinema gibi birçok alanda kendini göstermiştir."
     },
     {
         "SoruID": 3487932,
@@ -277,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dada’nın tipografik açıdan ilk deneysel örnekleri Hugo Ball’ın şiirlerinde görülür. Dolayısıyla, doğru yanıt B seçeneğidir."
+        "Aciklama": "<strong>Dadaizm ve Deneysel Tipografi</strong><br>Dada’nın tipografik açıdan ilk deneysel örnekleri Hugo Ball’ın şiirlerinde görülür. Dolayısıyla, doğru yanıt B seçeneğidir."
     },
     {
         "SoruID": 3487933,
@@ -297,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt, E seçeneğidir. Çünkü, yeni tipografi; 1925 yılında Jan Tschichold tarafından sistemleştirilen, modernizmin tipografiye yansıması olarak asimetrik, serifsiz yazı kullanımı ve geometriye verilen önemle öne çıkmış, zamanının tipografi anlayışını kökten değiştirmiştir."
+        "Aciklama": "<strong>Yeni Tipografi ve Deneysellik</strong><br>Doğru yanıt, E seçeneğidir. Çünkü, yeni tipografi; 1925 yılında Jan Tschichold tarafından sistemleştirilen, modernizmin tipografiye yansıması olarak asimetrik, serifsiz yazı kullanımı ve geometriye verilen önemle öne çıkmış, zamanının tipografi anlayışını kökten değiştirmiştir."
     },
     {
         "SoruID": 3487934,
@@ -317,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: 'Times New Roman',serif;\">Kişisel bilgisayarın yaygınlaşması, grafik yazı­lımların ortaya çıkması, dijital fotoğraf makine­lerinin ortaya çıkışı, tarayıcı ve yazıcıların ofislere girmesi tasarımcıların deneyler yapmasını ve kendi ifade biçimlerini aramalarını sağlamıştır. Tasarım­cıların yaratıcılıklarıyla birleştirdiği bu keşifler, her yeni gün taze fikirlerin, olası olanakların kapısını aralamaktadır. Dolayısıyla, doğru yanıt A seçeneğidir.</span>"
+        "Aciklama": "<strong>Postmodernizm ve Deneysel Tipografi</strong><br><span style=\"font-family: 'Times New Roman',serif;\">Kişisel bilgisayarın yaygınlaşması, grafik yazı­lımların ortaya çıkması, dijital fotoğraf makine­lerinin ortaya çıkışı, tarayıcı ve yazıcıların ofislere girmesi tasarımcıların deneyler yapmasını ve kendi ifade biçimlerini aramalarını sağlamıştır. Tasarım­cıların yaratıcılıklarıyla birleştirdiği bu keşifler, her yeni gün taze fikirlerin, olası olanakların kapısını aralamaktadır. Dolayısıyla, doğru yanıt A seçeneğidir.</span>"
     },
     {
         "SoruID": 3487935,
@@ -337,11 +357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Deneysel tipografi yaklaşımları tasarımcılara, onların bilgi, birikim ve hayal güçlerine göre çeşitlenebileceğinden; sunulduk­ları mecrayı önceleyen, farklı türden malzemeler kullanılmasıyla öne çıkan, odağına hareketi temel alan veya teknolojinin verdiği imkânların sınırlarını zorlayan çalışmalar üzerinden düşünülerek <em>mecra, malzeme, hareket </em>ve <em>teknoloji </em>temelli olmak üzere dört kategoride toplanmıştır. Dolayısıyla, doğru yanıt C seçeneğidir."
+        "Aciklama": "<strong>GÜNCEL TASARIMDA DENEYSEL TİPOGRAFİ YAKLAŞIMLARI</strong><br>Deneysel tipografi yaklaşımları tasarımcılara, onların bilgi, birikim ve hayal güçlerine göre çeşitlenebileceğinden; sunulduk­ları mecrayı önceleyen, farklı türden malzemeler kullanılmasıyla öne çıkan, odağına hareketi temel alan veya teknolojinin verdiği imkânların sınırlarını zorlayan çalışmalar üzerinden düşünülerek <em>mecra, malzeme, hareket </em>ve <em>teknoloji </em>temelli olmak üzere dört kategoride toplanmıştır. Dolayısıyla, doğru yanıt C seçeneğidir."
     },
     {
         "SoruID": 3487936,
-        "SoruMetni": "Amerikalı sanatçı Jenny Holzer’in 1993 yılında Bosna’da işlenen savaş suçlarına tepki olarak hazırla­dığı <em>Lustmord </em>adlı çalışması, insan bedeni üzerine …………. kullanarak üretilmiştir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Amerikalı sanatçı Jenny Holzer’in 1993 yılında Bosna’da işlenen savaş suçlarına tepki olarak hazırla­dığı <em>Lustmord </em>adlı çalışması, insan bedeni üzerine …………. kullanarak üretilmiştir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Boya",
         "B": "Kumaş",
         "C": "Mürekkep",
@@ -357,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C seçeneğidir. Çünkü, Amerikalı sanatçı Jenny Holzer’in 1993 yılında Bosna’da işlenen savaş suçlarına tepki olarak hazırla­dığı <em>Lustmord </em>adlı çalışması, insan bedeni üzerine mürekkep kullanarak üretilmiştir."
+        "Aciklama": "<strong>Mecra Temelli Deneysel Tipografi</strong><br>Doğru yanıt C seçeneğidir. Çünkü, Amerikalı sanatçı Jenny Holzer’in 1993 yılında Bosna’da işlenen savaş suçlarına tepki olarak hazırla­dığı <em>Lustmord </em>adlı çalışması, insan bedeni üzerine mürekkep kullanarak üretilmiştir."
     },
     {
         "SoruID": 3487937,
@@ -401,7 +421,7 @@
     },
     {
         "SoruID": 3488075,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Orjinal fikir geliştirme </li> <li>Ön bilgilerini kullanma </li> <li>Farklı malzemeler kullanma </li> </ol> Yukarıdakilerden hangisi ya da hangileri tasarımcının yaratıcı sürecinde yaşadıkları ile ilgili değildir?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Orjinal fikir geliştirme </li> <li>Ön bilgilerini kullanma </li> <li>Farklı malzemeler kullanma </li> </ol> Yukarıdakilerden hangisi ya da hangileri tasarımcının yaratıcı sürecinde yaşadıkları ile ilgili değildir?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "II ve III",
@@ -421,7 +441,7 @@
     },
     {
         "SoruID": 3488076,
-        "SoruMetni": "Tasarımcı David Carson'a göre deneysel tipografi  “daha önce denemediğim, görülmemiş veya duyulmamış bir şey” dir.  sözü aşağıdaki kavramlardan hangisini vurgular?",
+        "SoruMetni": "Tasarımcı David Carson'a göre deneysel tipografi “daha önce denemediğim, görülmemiş veya duyulmamış bir şey” dir. sözü aşağıdaki kavramlardan hangisini vurgular?",
         "A": "Genelleme",
         "B": "Nesnellik",
         "C": "Öznellik",
@@ -481,7 +501,7 @@
     },
     {
         "SoruID": 3488079,
-        "SoruMetni": "Savaşın dehşetine, Avrupa toplumunun çöküşüne, teknolojik ilerlemeye körü körüne inanmanın<br/>sığlığına ve dinin ve geleneksel ahlak kurallarının yetersizliğine şiddetle isyan eder.<br/><br/>Yukarıdaki söz aşağıdaki akımların hangisiyle doğrudan ilişkilidir?",
+        "SoruMetni": "Savaşın dehşetine, Avrupa toplumunun çöküşüne, teknolojik ilerlemeye körü körüne inanmanın<br/>sığlığına ve dinin ve geleneksel ahlak kurallarının yetersizliğine şiddetle isyan eder.<br/>Yukarıdaki söz aşağıdaki akımların hangisiyle doğrudan ilişkilidir?",
         "A": "Kübizm",
         "B": "Dadaizm",
         "C": "Fütürizm",
@@ -532,16 +552,16 @@
         "Unite": 2,
         "Somestre": "4",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:21:28.661412",
+        "OlusturmaTarihi": "2025-12-01T04:16:54.454827",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1925 yılında Jan Tschichold tarafından sistemleştirilen yeni tipografide asimetrik, serifsiz yazı kullanımı ve geometriye verilen önemle öne çıkmış  zamanının tipografi anlayışını kökten değiştirmiştir."
+        "Aciklama": "1925 yılında Jan Tschichold tarafından sistemleştirilen yeni tipografide asimetrik, serifsiz yazı kullanımı ve geometriye verilen önemle öne çıkmış zamanının tipografi anlayışını kökten değiştirmiştir."
     },
     {
         "SoruID": 3488082,
-        "SoruMetni": "Aşağıdaki tasarımcılardan hangisi harflerin biçimlerini yapıbozumuna uğratarak karıştıran ve birbirine bağlayan tipografik biçimler oluşturmuştur?",
+        "SoruMetni": "Aşağıdaki tasarımcılardan hangisi harflerin biçimlerini yapıbozumuna uğratarak karıştıran ve birbirine bağlayan tipografik biçimler oluşturmuştur?",
         "A": "Edward Fella",
         "B": "Katherine McCoy",
         "C": "David Frej",
@@ -601,7 +621,7 @@
     },
     {
         "SoruID": 3488155,
-        "SoruMetni": "I. Tasarımda deney; geleneksel kısıtlamaların ortadan kalktığı, temel işlev ve estetik kavramlara meydan okunduğu, bir şeyi denemenin, oynamanın yoludur.<br/> II. Tasarımda deney, “daha önce kalkışılmamış başarılara girişmek ve başarısız olma lisansına sahip olmak” demektir.<br/> III. Genellikle pozitif bilimlerde kullanılan deney kavramı, sanat ve tasarım alanlarında  kullanılmamaktadır.<br/> IV. Her yaratıcı çözüm süreci, özü itibarıyla deneyseldir.<br/> Yukardaki tanımlamalardan hangisi/hangileri doğrudur?",
+        "SoruMetni": "I. Tasarımda deney; geleneksel kısıtlamaların ortadan kalktığı, temel işlev ve estetik kavramlara meydan okunduğu, bir şeyi denemenin, oynamanın yoludur.<br/>II. Tasarımda deney, “daha önce kalkışılmamış başarılara girişmek ve başarısız olma lisansına sahip olmak” demektir.<br/>III. Genellikle pozitif bilimlerde kullanılan deney kavramı, sanat ve tasarım alanlarında kullanılmamaktadır.<br/>IV. Her yaratıcı çözüm süreci, özü itibarıyla deneyseldir.<br/>Yukardaki tanımlamalardan hangisi/hangileri doğrudur?",
         "A": "I ve II",
         "B": "II ve IV",
         "C": "I, II ve III",
@@ -617,11 +637,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I. Tasarımda deney; geleneksel kısıtlamaların ortadan kalktığı, temel işlev ve estetik kavramlara meydan okunduğu, bir şeyi denemenin, oynamanın yoludur.<br/> II. Tasarımda deney, “daha önce kalkışılmamış başarılara girişmek ve başarısız olma lisansına sahip olmak” demektir.<br/> III. Genellikle pozitif bilimlerde kullanılan deney kavramı, sanat ve tasarım alanlarında  <strong>kullanılmaktadır.</strong><br/> IV. Her yaratıcı çözüm süreci, özü itibarıyla deneyseldir."
+        "Aciklama": "I. Tasarımda deney; geleneksel kısıtlamaların ortadan kalktığı, temel işlev ve estetik kavramlara meydan okunduğu, bir şeyi denemenin, oynamanın yoludur.<br/>II. Tasarımda deney, “daha önce kalkışılmamış başarılara girişmek ve başarısız olma lisansına sahip olmak” demektir.<br/>III. Genellikle pozitif bilimlerde kullanılan deney kavramı, sanat ve tasarım alanlarında <strong>kullanılmaktadır.</strong><br/>IV. Her yaratıcı çözüm süreci, özü itibarıyla deneyseldir."
     },
     {
         "SoruID": 3488156,
-        "SoruMetni": "Tipografide geleneğe karşı atılan adımlar, deney ve görselleştirme ile ilgili yenilikçi yaklaşımlar en çok hangi  alanda görülmüştür?",
+        "SoruMetni": "Tipografide geleneğe karşı atılan adımlar, deney ve görselleştirme ile ilgili yenilikçi yaklaşımlar en çok hangi alanda görülmüştür?",
         "A": "Roman",
         "B": "Şiir",
         "C": "Resim",
@@ -641,10 +661,10 @@
     },
     {
         "SoruID": 3488157,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Yazılı içeriği aktaran harflerin ve sözcüklerin, içerikle eşdeğer biçimde var olduğu şiir türü aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Yazılı içeriği aktaran harflerin ve sözcüklerin, içerikle eşdeğer biçimde var olduğu şiir türü aşağıdakilerden hangisidir?",
         "A": "Pastoral şiir",
         "B": "Lirik şiir",
-        "C": "<br/> <br/> <br/> <br/>Görsel Şiir<br/><br/><br/><br/>",
+        "C": "<br/>Görsel Şiir",
         "D": "Epik şiir",
         "E": "Didaktik şiir",
         "DogruCevap": "C",
@@ -657,11 +677,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><strong>Görsel Şiir:</strong> Yazılı içeriği aktaran harflerin ve sözcüklerin, içerikle eşdeğer biçimde var olduğu şiir türüdür. Görüntüyü imgesellikten çıkarıp somutlaştırdığı için somut şiir (concrete poetry) olarak da geçmektedir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><strong>Görsel Şiir:</strong> Yazılı içeriği aktaran harflerin ve sözcüklerin, içerikle eşdeğer biçimde var olduğu şiir türüdür. Görüntüyü imgesellikten çıkarıp somutlaştırdığı için somut şiir (concrete poetry) olarak da geçmektedir."
     },
     {
         "SoruID": 3488160,
-        "SoruMetni": "I. Mekanik okuma biçimini doğrulayan bir anlayışın ürünüdür.<br/> II. Herhangi bir teknolojik kısıtlama olmaksızın oluşturuldukları için doğrusal yazımın geleneklerinden kaçmış ve okurları algısal bir mücadeleye zorlamıştır.<br/> III. Apollinaire’nin 1918 tarihli Calligrammes adlı kitabında yayımlanan Il Pleut şiirinde harfler, içeriği yansıtacak şekilde dizilmiş ve yağmur yağdığı izlenimi uyandırarak sayfanın aşağısına doğru akıtılmıştır.<br/> IV. Latin tipografisinin soldan sağa doğru olan doğrusal okuma düzeni yıkılmış, biçim ile içerik arasında ilişki kurulması ve içeriğin daha etkin bir şekilde okura aktarılması hedeflenmiştir.<br/> Apollinaire’nin şiirleri için yukardakilerden hangisi/hangileri doğrudur?",
+        "SoruMetni": "I. Mekanik okuma biçimini doğrulayan bir anlayışın ürünüdür.<br/>II. Herhangi bir teknolojik kısıtlama olmaksızın oluşturuldukları için doğrusal yazımın geleneklerinden kaçmış ve okurları algısal bir mücadeleye zorlamıştır.<br/>III. Apollinaire’nin 1918 tarihli Calligrammes adlı kitabında yayımlanan Il Pleut şiirinde harfler, içeriği yansıtacak şekilde dizilmiş ve yağmur yağdığı izlenimi uyandırarak sayfanın aşağısına doğru akıtılmıştır.<br/>IV. Latin tipografisinin soldan sağa doğru olan doğrusal okuma düzeni yıkılmış, biçim ile içerik arasında ilişki kurulması ve içeriğin daha etkin bir şekilde okura aktarılması hedeflenmiştir.<br/>Apollinaire’nin şiirleri için yukardakilerden hangisi/hangileri doğrudur?",
         "A": "I, II ve III",
         "B": "I, III ve IV",
         "C": "II ve III",
@@ -677,11 +697,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I. Mekanik okuma biçimini <strong>protesto eden</strong> bir anlayışın ürünüdür.<br/> II. Herhangi bir teknolojik kısıtlama olmaksızın oluşturuldukları için doğrusal yazımın geleneklerinden kaçmış ve okurları algısal bir mücadeleye zorlamıştır.<br/> III. Apollinaire’nin 1918 tarihli Calligrammes adlı kitabında yayımlanan Il Pleut şiirinde harfler, içeriği yansıtacak şekilde dizilmiş ve yağmur yağdığı izlenimi uyandırarak sayfanın aşağısına doğru akıtılmıştır.<br/> IV. Latin tipografisinin soldan sağa doğru olan doğrusal okuma düzeni yıkılmış, biçim ile içerik arasında ilişki kurulması ve içeriğin daha etkin bir şekilde okura aktarılması hedeflenmiştir."
+        "Aciklama": "I. Mekanik okuma biçimini <strong>protesto eden</strong> bir anlayışın ürünüdür.<br/>II. Herhangi bir teknolojik kısıtlama olmaksızın oluşturuldukları için doğrusal yazımın geleneklerinden kaçmış ve okurları algısal bir mücadeleye zorlamıştır.<br/>III. Apollinaire’nin 1918 tarihli Calligrammes adlı kitabında yayımlanan Il Pleut şiirinde harfler, içeriği yansıtacak şekilde dizilmiş ve yağmur yağdığı izlenimi uyandırarak sayfanın aşağısına doğru akıtılmıştır.<br/>IV. Latin tipografisinin soldan sağa doğru olan doğrusal okuma düzeni yıkılmış, biçim ile içerik arasında ilişki kurulması ve içeriğin daha etkin bir şekilde okura aktarılması hedeflenmiştir."
     },
     {
         "SoruID": 3488164,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Görsel iletişim tasarımında “Biçim işlevi izler” düsturuyla asimetrik sayfa düzenlerini, ızgara (grid) düzenine sıkı sıkıya bağlılığı, beyaz alanlara daha çok yer verilmesini, serifsiz yazıların kullanımını ve süslemeden neredeyse bütünüyle kaçınılmasını savunan akım aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Görsel iletişim tasarımında “Biçim işlevi izler” düsturuyla asimetrik sayfa düzenlerini, ızgara (grid) düzenine sıkı sıkıya bağlılığı, beyaz alanlara daha çok yer verilmesini, serifsiz yazıların kullanımını ve süslemeden neredeyse bütünüyle kaçınılmasını savunan akım aşağıdakilerden hangisidir?",
         "A": "Modernizm",
         "B": "Romantizm",
         "C": "Empresyonizm",
@@ -697,11 +717,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><strong>Modernizm:</strong> Görsel iletişim tasarımında \"Biçim işlevi izler” düsturuyla asimetrik sayfa düzenlerini, ızgara (grid) düzenine sıkı sıkıya bağlılığı, beyaz alanlara daha çok yer verilmesini, serifsiz yazıların kullanımını ve süslemeden neredeyse bütünüyle kaçınılmasını savunan akım.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><strong>Modernizm:</strong> Görsel iletişim tasarımında \"Biçim işlevi izler” düsturuyla asimetrik sayfa düzenlerini, ızgara (grid) düzenine sıkı sıkıya bağlılığı, beyaz alanlara daha çok yer verilmesini, serifsiz yazıların kullanımını ve süslemeden neredeyse bütünüyle kaçınılmasını savunan akım."
     },
     {
         "SoruID": 3488168,
-        "SoruMetni": "\"Mayakovski’nin For The Voice başlıklı şiir kitabı için yaptığı tasarımlarda tipografi asimetrik, dinamik ancak birbirleriyle yapısal olarak ilişki içinde görülmektedir. Her bir sayfa, tipografik kuralları alaşağı eden, kendi başına yekpare bir eser gibi tasarlanmıştır. 'Bir tasarımcı olarak  kitabı süslememiş, görsel açıdan programlayarak bütün nesneyi inşa etmiştir'. Konstrüktivizmin ateşli bir uygulayıcısı olmuştur\".<br/> Yukarıda anlatılan sanatçı aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Mayakovski’nin For The Voice başlıklı şiir kitabı için yaptığı tasarımlarda tipografi asimetrik, dinamik ancak birbirleriyle yapısal olarak ilişki içinde görülmektedir. Her bir sayfa, tipografik kuralları alaşağı eden, kendi başına yekpare bir eser gibi tasarlanmıştır. 'Bir tasarımcı olarak kitabı süslememiş, görsel açıdan programlayarak bütün nesneyi inşa etmiştir'. Konstrüktivizmin ateşli bir uygulayıcısı olmuştur\".<br/>Yukarıda anlatılan sanatçı aşağıdakilerden hangisidir?",
         "A": "Filippo T. Marinetti",
         "B": "Lissitzky",
         "C": "Fortunato Depero",
@@ -717,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Lissitzky</strong>’nin, Mayakovski’nin For The Voice başlıklı şiir kitabı için yaptığı tasarımlarda tipografi asimetrik, dinamik ancak birbirleriyle yapısal olarak ilişki içinde görülmektedir. Her bir sayfa, tipografik kuralları alaşağı eden, kendi başına yekpare bir eser gibi tasarlanmıştır. “Bir tasarımcı olarak <strong>Lissitzky</strong> kitabı süslememiş, görsel açıdan programlayarak bütün nesneyi inşa etmiştir”. <strong>Lissitzky</strong>  konstrüktivizmin ateşli bir uygulayıcısı olmuştur."
+        "Aciklama": "<strong>Lissitzky</strong>’nin, Mayakovski’nin For The Voice başlıklı şiir kitabı için yaptığı tasarımlarda tipografi asimetrik, dinamik ancak birbirleriyle yapısal olarak ilişki içinde görülmektedir. Her bir sayfa, tipografik kuralları alaşağı eden, kendi başına yekpare bir eser gibi tasarlanmıştır. “Bir tasarımcı olarak <strong>Lissitzky</strong> kitabı süslememiş, görsel açıdan programlayarak bütün nesneyi inşa etmiştir”. <strong>Lissitzky</strong> konstrüktivizmin ateşli bir uygulayıcısı olmuştur."
     },
     {
         "SoruID": 3488170,
@@ -741,7 +761,7 @@
     },
     {
         "SoruID": 3488172,
-        "SoruMetni": "\"<span style=\"text-decoration: underline;\"><strong>...</strong> </span> temelli deneysel tipografi çalışmaları, çalışmanın sunulduğu ortamın gerektirdiği koşulları dikkate alan geniş bir üretim yelpazesini kapsamaktadır. Bu kapsamda <span style=\"text-decoration: underline;\"><strong>...</strong></span>; binanın dış cephesi, bir nesnenin, duvarın veya kâğıdın yüzeyi, hatta insan bedeni bile olabilir\" tanımlamasında yer alan boşluklara gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"<span style=\"text-decoration: underline;\"><strong>...</strong> </span> temelli deneysel tipografi çalışmaları, çalışmanın sunulduğu ortamın gerektirdiği koşulları dikkate alan geniş bir üretim yelpazesini kapsamaktadır. Bu kapsamda <span style=\"text-decoration: underline;\"><strong>...</strong></span>; binanın dış cephesi, bir nesnenin, duvarın veya kâğıdın yüzeyi, hatta insan bedeni bile olabilir\" tanımlamasında yer alan boşluklara gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Malzeme",
         "B": "Hareket",
         "C": "Teknoloji",
@@ -962,11 +982,11 @@
     {
         "SoruID": 3488183,
         "SoruMetni": "Çoğu zaman metin olarak okunamayan, metafor ve hareket yoluyla karmaşık semiyotik deneyimler yaratan fiziksel şekiller olarak algılanan tipografi yöntemi aşağıdakilerden hangisidir?",
-        "A": "Organik tipografi",
-        "B": "Bulunmuş tipografi",
-        "C": "İleri tipografi",
-        "D": "Kinetik tipografi",
-        "E": "Anamorfik tipografi",
+        "A": "Organik tipografi",
+        "B": "Bulunmuş tipografi",
+        "C": "İleri tipografi",
+        "D": "Kinetik tipografi",
+        "E": "Anamorfik tipografi",
         "DogruCevap": "D",
         "DersAd": "İleri Tipografi",
         "Unite": 2,
@@ -977,7 +997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kinetik tipografi"
+        "Aciklama": "Kinetik tipografi"
     },
     {
         "SoruID": 3488204,
@@ -1057,6 +1077,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Neville Brody postmodernist deneysel dilin geliştirilmesinde öncü olmuş grafik tasarımcılardan biridir."
+        "Aciklama": "Neville Brody postmodernist deneysel dilin geliştirilmesinde öncü olmuş grafik tasarımcılardan biridir."
     }
 ]

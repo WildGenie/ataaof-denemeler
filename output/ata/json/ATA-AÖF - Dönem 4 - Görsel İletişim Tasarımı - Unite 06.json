@@ -9,18 +9,19 @@
         "E": "İlk harfi küçük olarak yazılan yazılardır.",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 182877,
-        "SoruMetni": "I. Müşterinin ve ürünün özelliklerini yansıtmalıdır.<br/> <br/>II. Basılı materyallerde kullanıma uygun olmalıdır.<br> <br/>III. Tek renkle basıldığında özelliklerini kaybetmemelidir.<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri sembol tasarımında göz önünde bulundurulması gereken kriterlerdendir?</strong></br></br>",
+        "SoruMetni": "I. Müşterinin ve ürünün özelliklerini yansıtmalıdır.<br/>II. Basılı materyallerde kullanıma uygun olmalıdır.<br/>III. Tek renkle basıldığında özelliklerini kaybetmemelidir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri sembol tasarımında göz önünde bulundurulması gereken kriterlerdendir?</strong></br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -28,14 +29,15 @@
         "E": "I, II ve III",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182878,
@@ -47,14 +49,15 @@
         "E": "İşaret",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 182879,
@@ -66,14 +69,15 @@
         "E": "Piktogram",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182880,
@@ -85,14 +89,15 @@
         "E": "Renk",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 182881,
@@ -104,14 +109,15 @@
         "E": "Benzerlik/zıtlık",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 182882,
@@ -123,14 +129,15 @@
         "E": "Kampanya yapmak",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182883,
@@ -142,14 +149,15 @@
         "E": "Mesajınız kimi hedefliyor?",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 182885,
@@ -161,14 +169,15 @@
         "E": "Sentez Yöntemi",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 192539,
@@ -180,14 +189,15 @@
         "E": "Seyircinin veya tüketicinin görmesi gereken görsel veri miktarını sınırlamak anlamına gelir.",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 192540,
@@ -199,14 +209,15 @@
         "E": "Buluş / uygulama",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 192543,
@@ -218,14 +229,15 @@
         "E": "Tasarımın gelişimi",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 192544,
@@ -237,14 +249,15 @@
         "E": "Basitlik / sadelik",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 192545,
@@ -256,14 +269,15 @@
         "E": "Rast gele dizilmiş üçgen şekillerin olması",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 192546,
@@ -275,18 +289,19 @@
         "E": "Sarı",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 340480,
-        "SoruMetni": "<strong>Görsel değerlerin oluşum sürecinde temsilî anlamı oluştururken yapısal bir dinamik yaratan ifade aracı aşağıdakilerden hangisidir? </strong>",
+        "SoruMetni": "<strong>Görsel değerlerin oluşum sürecinde temsilî anlamı oluştururken yapısal bir dinamik yaratan ifade aracı aşağıdakilerden hangisidir? </strong>",
         "A": "Çizgi",
         "B": "Form",
         "C": "Renk",
@@ -294,18 +309,19 @@
         "E": "Nokta",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 342070,
-        "SoruMetni": "I. Sembol, tasarımcının özelliklerini yansıtmalıdır.<br/> <br/>II. Sembol, küçük ve büyük basılı materyallerde kullanıma uygun olmalıdır.<br> <br/>III. Sembol, tek renkle basıldığında özelliklerini kaybetmemelidir.<br> <br/><strong>Sembol tasarımında göz önünde bulundurulması gereken yukarıdaki kriterlerden hangisi ya da hangileri <u>yanlıştır</u>?</strong></br></br>",
+        "SoruMetni": "I. Sembol, tasarımcının özelliklerini yansıtmalıdır.<br/>II. Sembol, küçük ve büyük basılı materyallerde kullanıma uygun olmalıdır.<br/>III. Sembol, tek renkle basıldığında özelliklerini kaybetmemelidir.<br/><strong>Sembol tasarımında göz önünde bulundurulması gereken yukarıdaki kriterlerden hangisi ya da hangileri <u>yanlıştır</u>?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -313,18 +329,19 @@
         "E": "I ve III",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 342074,
-        "SoruMetni": "Estetik açıdan göze hoş gelen kompozisyonlar yaratabildiğimiz bir tasarım prensibidir. Fiziksel dünyadaki nesnelerin ağırlığını yargıladığımız gibi, bir kompozisyondaki ögeler \"görsel ağırlığa\" sahip olarak algılanır.<br/> <br/><strong>Yukarıdaki tanımlama grafik tasarım ilkelerinden hangisine karşılık gelmektedir? </strong>",
+        "SoruMetni": "Estetik açıdan göze hoş gelen kompozisyonlar yaratabildiğimiz bir tasarım prensibidir. Fiziksel dünyadaki nesnelerin ağırlığını yargıladığımız gibi, bir kompozisyondaki ögeler \"görsel ağırlığa\" sahip olarak algılanır.<br/><strong>Yukarıdaki tanımlama grafik tasarım ilkelerinden hangisine karşılık gelmektedir? </strong>",
         "A": "Birlik",
         "B": "Hiyerarşi",
         "C": "Denge",
@@ -332,13 +349,14 @@
         "E": "Vurgu",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     }
 ]

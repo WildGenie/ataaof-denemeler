@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 2852235,
-        "SoruMetni": "Halil İnalcık, Anadolu’da 13. Yüzyılda yaşanan hangi gelişmelerin Osmanlı Beyliği’nin ortaya çıkışında etkili olduğunu savunmuştur?<br/> <ol style=\"list-style-type: upper-roman;\"> <li>Oğuzların/Türkmenlerin Anadolu’ya kitlesel göç etmesi ve Selçuklu saltanatının kurulması</li> <li>Moğolların Anadolu’daki egemenliği altındaki Türkmenlerin bir kısmının Batı’daki Bizans topraklarını istila etmesi</li> <li>Dördüncü haçlı seferinin Bizans’ı zayıflatması</li> <li>Türk-İslâm gaza hareketinin Anadolu’da yeni bir güç kazanması </li> </ol>",
+        "SoruMetni": "Halil İnalcık, Anadolu’da 13. Yüzyılda yaşanan hangi gelişmelerin Osmanlı Beyliği’nin ortaya çıkışında etkili olduğunu savunmuştur?<br/><ol style=\"list-style-type: upper-roman;\"> <li>Oğuzların/Türkmenlerin Anadolu’ya kitlesel göç etmesi ve Selçuklu saltanatının kurulması</li> <li>Moğolların Anadolu’daki egemenliği altındaki Türkmenlerin bir kısmının Batı’daki Bizans topraklarını istila etmesi</li> <li>Dördüncü haçlı seferinin Bizans’ı zayıflatması</li> <li>Türk-İslâm gaza hareketinin Anadolu’da yeni bir güç kazanması </li> </ol>",
         "A": "I, II, IV",
         "B": "II, III, IV",
         "C": "I, III, IV",
@@ -140,6 +140,26 @@
         "Aciklama": "İstanbul Rasathanesini kuran Osmanlı astronomi bilgini Takiyyüddin er-Râsıd'dır."
     },
     {
+        "SoruID": 2852260,
+        "SoruMetni": "Osmanlı mimarisinin en ihtişamlı anıtsal yapıları hangi padişah döneminde inşa edilmiştir?",
+        "A": "Kanuni Sultan Süleyman",
+        "B": "Fatih Sultan Mehmed",
+        "C": "IV. Murad",
+        "D": "I.Murad",
+        "E": "II. Selim",
+        "DogruCevap": "A",
+        "DersAd": "Anadolu Kültür Tarihi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.268477",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Osmanlı mimarisinin en ihtişamlı anıtsal yapıları Kanuni Sultan Süleyman döneminde inşa edilmiştir."
+    },
+    {
         "SoruID": 2852261,
         "SoruMetni": "Ezilerek fırçayla sürülecek hale getirilmiş olan varak altın ve çeşitli renklerin kullanılmasıyla gerçekleştirilen kitap sanatına ne ad verilir?",
         "A": "Tezhip",
@@ -197,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İslâm dininin Türkler tarafından benimsenmesiyle birlik­te Arapça ve Farsça etkisi görülmeye başlandı. Kaş­garlı Mahmud, bu gelişmeye reddiye niteliğinde Divanü Lugât-it Türk adlı eseri kaleme aldı. Söz konusu eser Türkçenin Arapça kadar zengin bir dil olduğunun kanıtlanması için yazılmıştı."
+        "Aciklama": "Kuruluş Döneminde Dil ve Edebiyat<br>İslâm dininin Türkler tarafından benimsenmesiyle birlik­te Arapça ve Farsça etkisi görülmeye başlandı. Kaş­garlı Mahmud, bu gelişmeye reddiye niteliğinde Divanü Lugât-it Türk adlı eseri kaleme aldı. Söz konusu eser Türkçenin Arapça kadar zengin bir dil olduğunun kanıtlanması için yazılmıştı."
     },
     {
         "SoruID": 2853182,
@@ -217,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Osmanlıca, Türk dilinin Güney Batı kolunu oluşturan Oğuz Grubu Türkçesi içinde yer alır. Günümüzde bu yazı dili, genellikle, üç evrede ele alınmaktadır. Bunlardan biri;<br/> Eski Osmanlıca (13.-15. yüzyıllar). Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denilmektedir ve beylikler döneminden baş­layarak İstanbul’un fethine kadar getirilir"
+        "Aciklama": "KURULUŞ YILLARINDA KÜLTÜR ORTAMI<br>Osmanlıca, Türk dilinin Güney Batı kolunu oluşturan Oğuz Grubu Türkçesi içinde yer alır. Günümüzde bu yazı dili, genellikle, üç evrede ele alınmaktadır. Bunlardan biri;<br/>Eski Osmanlıca (13.-15. yüzyıllar). Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denilmektedir ve beylikler döneminden baş­layarak İstanbul’un fethine kadar getirilir"
     },
     {
         "SoruID": 2853183,
@@ -237,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 10.0pt; font-family: 'Times New Roman',serif; color: #221e1f;\">Mevlâna Celâleddin-i Rumî (ölümü 1273) Farsça, altı ciltlik <em>Mesnevi </em>adlı eserinde didaktik dinî-tasavvufi görüşlerini hikayelerle anlatır. Bu kitap otuz binden fazla dizeden oluşmaktadır.</span>"
+        "Aciklama": "KURULUŞ YILLARINDA KÜLTÜR ORTAMI<br><span style=\"font-size: 10.0pt; font-family: 'Times New Roman',serif; color: #221e1f;\">Mevlâna Celâleddin-i Rumî (ölümü 1273) Farsça, altı ciltlik <em>Mesnevi </em>adlı eserinde didaktik dinî-tasavvufi görüşlerini hikayelerle anlatır. Bu kitap otuz binden fazla dizeden oluşmaktadır.</span>"
     },
     {
         "SoruID": 2853184,
@@ -257,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.0pt; color: #221e1f;\">Klasik edebiyat alanında yer alan edebi türler arasında birkaçını şöyle tanıtabiliriz. Nergisî (öl. 1634) ve Taşlıcalı Yahya Bey gibi yazarlar hamse ve mesnevi geleneğini sürdürmüşlerdir. Taşlıcalı Yahya Bey, adalet, zulüm, velilik, doğruluk, gibi konuları ele aldı.</span>"
+        "Aciklama": "Klasik Dönem Türk Edebiyatı<br><span style=\"font-size: 11.0pt; color: #221e1f;\">Klasik edebiyat alanında yer alan edebi türler arasında birkaçını şöyle tanıtabiliriz. Nergisî (öl. 1634) ve Taşlıcalı Yahya Bey gibi yazarlar hamse ve mesnevi geleneğini sürdürmüşlerdir. Taşlıcalı Yahya Bey, adalet, zulüm, velilik, doğruluk, gibi konuları ele aldı.</span>"
     },
     {
         "SoruID": 2853186,
@@ -277,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.0pt; color: #221e1f;\">Erken Osmanlı dönemi halıları, 15. ve 16. yüzyıla dayandırılmakta ve bu halıların bir bölümü Alman ressam Hans Holbein’in tablolarında yer alması nedeniyle araştırmacılar tarafından Holbein halıları ola­rak adlandırılmıştır.</span>"
+        "Aciklama": "Klasik Dönemde Mimari ve Güzel Sanatlar<br><span style=\"font-size: 11.0pt; color: #221e1f;\">Erken Osmanlı dönemi halıları, 15. ve 16. yüzyıla dayandırılmakta ve bu halıların bir bölümü Alman ressam Hans Holbein’in tablolarında yer alması nedeniyle araştırmacılar tarafından Holbein halıları ola­rak adlandırılmıştır.</span>"
     },
     {
         "SoruID": 2853188,
@@ -297,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.0pt; color: #221e1f;\">Doğu ile Batı gele­neklerini bağdaştıran diğer bir sanatçı ise Matrak­çı Nasuh’tur. Bu sanatçı Kanuni’nin isteği üzerine şehir tasvirciliği, manzara resimleri de yapmıştı. Ayrıca süslediği veya resimlediği tarih kitaplarıyla İslam dünyasında tamamen Osmanlıya özgü bir üslup oluşturmuştu.</span>"
+        "Aciklama": "Klasik Dönemde Mimari ve Güzel Sanatlar<br><span style=\"font-size: 11.0pt; color: #221e1f;\">Doğu ile Batı gele­neklerini bağdaştıran diğer bir sanatçı ise Matrak­çı Nasuh’tur. Bu sanatçı Kanuni’nin isteği üzerine şehir tasvirciliği, manzara resimleri de yapmıştı. Ayrıca süslediği veya resimlediği tarih kitaplarıyla İslam dünyasında tamamen Osmanlıya özgü bir üslup oluşturmuştu.</span>"
     },
     {
         "SoruID": 2853190,
@@ -317,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.0pt; color: #221e1f;\">Eğitimden hukuka, yönetimden iktisadi yapıya ve kültüre kadar toplum ve devlet yapısı Batılı değerler çerçevesinde değiştirilmeye çalışıldı. Söz konusu değişim süreci kültürel anlayış ve kurumlara nüfuz etti ve çok sayıda Batılı kültürel kurum oluşturuldu. Geleneksel olanları da değişime zorladı. Bu süreci tanımlamak için; Islahat, Reform, Avrupaileşme, Alafrangalaşma, Garplılaş­ma, Asrîleşme, Muasırlaşma, Batılılaşma ve Yenileşme gibi kavramlar kullanılmaktadır.</span>"
+        "Aciklama": "YENİLEŞME DÖNEMİNDE OSMANLI KÜLTÜRÜ<br><span style=\"font-size: 11.0pt; color: #221e1f;\">Eğitimden hukuka, yönetimden iktisadi yapıya ve kültüre kadar toplum ve devlet yapısı Batılı değerler çerçevesinde değiştirilmeye çalışıldı. Söz konusu değişim süreci kültürel anlayış ve kurumlara nüfuz etti ve çok sayıda Batılı kültürel kurum oluşturuldu. Geleneksel olanları da değişime zorladı. Bu süreci tanımlamak için; Islahat, Reform, Avrupaileşme, Alafrangalaşma, Garplılaş­ma, Asrîleşme, Muasırlaşma, Batılılaşma ve Yenileşme gibi kavramlar kullanılmaktadır.</span>"
     },
     {
         "SoruID": 2853191,
@@ -337,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.0pt; color: #221e1f;\">Osmanlı’da müzik eğitimi ve öğretimi “meşk” adı verilen bir usulle yapılmaktaydı. Repertua­rın, icranın inceliklerinin, usul ve makamların ustadan dinlenmesi ve tekrarlanması esasına dayanmaktaydı.</span>"
+        "Aciklama": "Klasik Dönemde Mimari ve Güzel Sanatlar<br><span style=\"font-size: 11.0pt; color: #221e1f;\">Osmanlı’da müzik eğitimi ve öğretimi “meşk” adı verilen bir usulle yapılmaktaydı. Repertua­rın, icranın inceliklerinin, usul ve makamların ustadan dinlenmesi ve tekrarlanması esasına dayanmaktaydı.</span>"
     },
     {
         "SoruID": 2853193,
@@ -357,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.0pt; color: #221e1f;\">II. Mahmud portresini kamu dairelerine astırdığı için halk tarafından “ga­vur padişah” olarak nitelendirilmiştir.</span>"
+        "Aciklama": "Yenileşme Döneminde Mimari ve Güzel Sanatlar<br><span style=\"font-size: 11.0pt; color: #221e1f;\">II. Mahmud portresini kamu dairelerine astırdığı için halk tarafından “ga­vur padişah” olarak nitelendirilmiştir.</span>"
     },
     {
         "SoruID": 2853195,
@@ -377,11 +397,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanayi-i Nefise Mektebi’nde heykeltıraşlar yetiştirildi. Yervant Osgan Efendi, İhsan (Özsoy) ve İsa Behzat dönemin Osmanlı heykeltıraşlarıdır"
+        "Aciklama": "Yenileşme Döneminde Mimari ve Güzel Sanatlar<br>Sanayi-i Nefise Mektebi’nde heykeltıraşlar yetiştirildi. Yervant Osgan Efendi, İhsan (Özsoy) ve İsa Behzat dönemin Osmanlı heykeltıraşlarıdır"
     },
     {
         "SoruID": 2856206,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri Osmanlı Döneminde mimaride iç mekanda kullanılan süsleme öğeleri arasında yer alır?<br/><br/>I-Mavi-beyaz çiniler<br/><br/>II-Sırlı tuğla<br/><br/>III-Kalem işi boyamalar",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri Osmanlı Döneminde mimaride iç mekanda kullanılan süsleme öğeleri arasında yer alır?<br/>I-Mavi-beyaz çiniler<br/>II-Sırlı tuğla<br/>III-Kalem işi boyamalar",
         "A": "Sadece II",
         "B": "I ve II",
         "C": "II ve III",
@@ -397,11 +417,51 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Selçukluların iç mekânda taş kabartma, sırlı tuğla ve çini mozaikle süsleme biçimi yerine, dini mimaride, sıva üzerine kalem işi boyamalar, alçılar, düz<br/>çini plakalar, renkli sır tekniğinde ve “mavi-beyaz” olarak isimlendirilen sıraltı tekniğinde çiniler kullanıldı"
+        "Aciklama": "Çini ve Seramik sanatı<br>Selçukluların iç mekânda taş kabartma, sırlı tuğla ve çini mozaikle süsleme biçimi yerine, dini mimaride, sıva üzerine kalem işi boyamalar, alçılar, düz<br/>çini plakalar, renkli sır tekniğinde ve “mavi-beyaz” olarak isimlendirilen sıraltı tekniğinde çiniler kullanıldı"
+    },
+    {
+        "SoruID": 2856208,
+        "SoruMetni": "Özellikle 16. yüzyılın ikinci yarısında \"Klasik Osmanlı\" tarzıyla çini ve seramik sanatının özgün örnekleriyle öne çıkan şehirler aşağıdakilerden hangisi ya da hangileridir?<br/>I-Avanos<br/>II-Kütahya<br/>III-İznik",
+        "A": "Sadece I",
+        "B": "I ve II",
+        "C": "II ve III",
+        "D": "Sadece II",
+        "E": "Sadece III",
+        "DogruCevap": "C",
+        "DersAd": "Anadolu Kültür Tarihi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.326993",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "16. yüzyılın başlarından 17. yüzyılın sonlarına kadar çini ve seramik sanatında “klasik Osmanlı”<br/>üslubundan söz edilebilir. 16. yüzyılın ikinci yarısında İznik ve Kütahya’da çok başarılı çini imâlatı<br/>yapılmıştır."
+    },
+    {
+        "SoruID": 2856225,
+        "SoruMetni": "Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denilen ve beylikler döneminden başlayarak İstanbul’un fethine kadar getirilen dil evresi aşağıdakilerden hangisidir?",
+        "A": "Yeni Osmanlıca",
+        "B": "Klasik Osmanlıca",
+        "C": "Farsça",
+        "D": "Eski Osmanlıca",
+        "E": "Lehçe",
+        "DogruCevap": "D",
+        "DersAd": "Anadolu Kültür Tarihi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.361322",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kuruluş döneminde dil ve edebiyat<br>Osmanlıca, Türk dilinin Güney Batı kolunu oluşturan Oğuz Grubu Türkçesi içinde yer alır. Günümüzde bu yazı dili, genellikle, üç evrede ele alınmaktadır. Bunlar;<br/>1. Eski Osmanlıca (13.-15. yüzyıllar). Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denilmektedir ve beylikler döneminden başlayarak İstanbul’un fethine kadar getirilir.<br/>2. Klasik Osmanlıca (16.-19. yüzyıllar). Türkçe esas olmak üzere Arapça ve Farsça kelimelerle kurallarının Türkçe ile birleştirmesinden oluşur.<br/>3. Yeni Osmanlıca (19.-20. yüzyılın başları). Yenileşme hareketlerine paralel olarak dilde sadeleşmeyi içerir."
     },
     {
         "SoruID": 2856234,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri Osmanlı bilim-kültür ikilisinin en önemli alanlarındandır?<br/> I-Astronomi<br/> II-Gastronomi<br/> III-Matematik",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri Osmanlı bilim-kültür ikilisinin en önemli alanlarındandır?<br/>I-Astronomi<br/>II-Gastronomi<br/>III-Matematik",
         "A": "Sadece II",
         "B": "I ve III",
         "C": "Sadece I",
@@ -417,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Osmanlı bilim-kültür ikilisinin en önemli alanlarından biri astronomiydi. Osmanlı bilim hayatında, metafizik, tabiat felsefesi ve mantık alanında çalışmalar yapıldı. Osmanlı’da matematik; felsefi tavır, astronomi ve arazi ölçümü ile vergi sistemi gibi günlük hayattaki pratikler bağlamında önemsendi. Gastronomi yemek ve kültür alanı arasındaki ilişkiyi irdeleyen bir alandır ve Osmanlı tarihi döneminde bu bağlamda bir öneme sahip değildir."
+        "Aciklama": "Osmanlı bilimi<br>Osmanlı bilim-kültür ikilisinin en önemli alanlarından biri astronomiydi. Osmanlı bilim hayatında, metafizik, tabiat felsefesi ve mantık alanında çalışmalar yapıldı. Osmanlı’da matematik; felsefi tavır, astronomi ve arazi ölçümü ile vergi sistemi gibi günlük hayattaki pratikler bağlamında önemsendi. Gastronomi yemek ve kültür alanı arasındaki ilişkiyi irdeleyen bir alandır ve Osmanlı tarihi döneminde bu bağlamda bir öneme sahip değildir."
     },
     {
         "SoruID": 2856389,
@@ -437,11 +497,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Osmanlı mimarisinin en ihtişamlı anıtsal yapıları Kanuni Sultan Süleyman döneminde inşa edilenlerdi."
+        "Aciklama": "Klasik Dönemde Mimari ve Güzel Sanatlar<br>Osmanlı mimarisinin en ihtişamlı anıtsal yapıları Kanuni Sultan Süleyman döneminde inşa edilenlerdi."
     },
     {
         "SoruID": 2856417,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri  16. yüzyıl Osmanlı mimarisine damga vuran Mimar Sinan'ın eserlerindendir?<br/> I-Süleymaniye Külliyesi<br/> II-Sultan Ahmed Camii<br/> III-Selimiye Külliyesi",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri 16. yüzyıl Osmanlı mimarisine damga vuran Mimar Sinan'ın eserlerindendir?<br/>I-Süleymaniye Külliyesi<br/>II-Sultan Ahmed Camii<br/>III-Selimiye Külliyesi",
         "A": "I ve III",
         "B": "I ve II",
         "C": "II ve III",
@@ -457,11 +517,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "16. yüzyıl Osmanlı mimarisine damga vuran Mimar Sinan’dı. Süleymaniye ve Selimiye Külliyeleri başta olmak üzere birçok gösterişli eserin mimarıydı. <br/> Sedefkar Mehmed Ağa’nın en önemli eseri ise inşası 7 yıl süren ve İstanbul’un en çok turist çeken camilerinden biri olan Sultanahmet Camii’dir."
+        "Aciklama": "Klasik Dönemde Mimari ve Güzel Sanatlar<br>16. yüzyıl Osmanlı mimarisine damga vuran Mimar Sinan’dı. Süleymaniye ve Selimiye Külliyeleri başta olmak üzere birçok gösterişli eserin mimarıydı. <br/>Sedefkar Mehmed Ağa’nın en önemli eseri ise inşası 7 yıl süren ve İstanbul’un en çok turist çeken camilerinden biri olan Sultanahmet Camii’dir."
     },
     {
         "SoruID": 2856433,
-        "SoruMetni": "Türk Halıcılığında 15. ve 16. yüzyıla dayandırılan ve bu halıların bir bölümü Alman ressam Hans Holbein’in tablolarında yer alması nedeniyle araştırmacılar tarafından Holbein halıları olarak adlandırılan evre aşağıdakilerden hangisinde doğru olarak verilmiştir?<br/> I-Erken Osmanlı Dönemi<br/> II- Geç Osmanlı Dönemi<br/> III-Klasik Osmanlı Dönemi<br/> IV-Selçuklu Dönemi",
+        "SoruMetni": "Türk Halıcılığında 15. ve 16. yüzyıla dayandırılan ve bu halıların bir bölümü Alman ressam Hans Holbein’in tablolarında yer alması nedeniyle araştırmacılar tarafından Holbein halıları olarak adlandırılan evre aşağıdakilerden hangisinde doğru olarak verilmiştir?<br/>I-Erken Osmanlı Dönemi<br/>II- Geç Osmanlı Dönemi<br/>III-Klasik Osmanlı Dönemi<br/>IV-Selçuklu Dönemi",
         "A": "Sadece I",
         "B": "Sadece II",
         "C": "II ve III",
@@ -477,11 +537,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Erken Osmanlı dönemi halıları, 15. ve 16. yüzyıla dayandırılmakta ve bu halıların bir bölümü Alman ressam Hans Holbein’in tablolarında yer alması nedeniyle araştırmacılar tarafından Holbein halıları olarak adlandırılmıştır. Bu evreye ait teknik, desen açısından farklı bazı halılar da İtalyan ressam Lorenzo Loto’nun tablolarında resmedilmiştir. Hatta Flaman ressamların tablolarına da konu olmuştur."
+        "Aciklama": "Osmanlı İpek Kumaşları<br>Erken Osmanlı dönemi halıları, 15. ve 16. yüzyıla dayandırılmakta ve bu halıların bir bölümü Alman ressam Hans Holbein’in tablolarında yer alması nedeniyle araştırmacılar tarafından Holbein halıları olarak adlandırılmıştır. Bu evreye ait teknik, desen açısından farklı bazı halılar da İtalyan ressam Lorenzo Loto’nun tablolarında resmedilmiştir. Hatta Flaman ressamların tablolarına da konu olmuştur."
     },
     {
         "SoruID": 2856449,
-        "SoruMetni": "Osmanlı Dönemi Hat Sanatıyla ilgili olarak aşağıda verilen bilgilerden hangisi ya da hangileri söylenebilir?<br/><br/>I - Latin harfleriyle oluşturulmuş İslâmî bir sanat türüdür.<br/><br/>II - İslam ve Türk-İslam devletlerinde ilgi çekmiş, yönetici elit tarafından desteklenmiştir.<br/><br/>III - İmparatorluk mimarisinin ihtişamını tamamlayan unsurlardan biridir.",
+        "SoruMetni": "Osmanlı Dönemi Hat Sanatıyla ilgili olarak aşağıda verilen bilgilerden hangisi ya da hangileri söylenebilir?<br/>I - Latin harfleriyle oluşturulmuş İslâmî bir sanat türüdür.<br/>II - İslam ve Türk-İslam devletlerinde ilgi çekmiş, yönetici elit tarafından desteklenmiştir.<br/>III - İmparatorluk mimarisinin ihtişamını tamamlayan unsurlardan biridir.",
         "A": "Sadece I",
         "B": "I ve III",
         "C": "Sadece III",
@@ -517,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Her iki terim de Tezhip sanatı içinde kullanılır. Zahriye:”Arkalık, sırtlık” anlamına gelen zahriye, yazma kitaplarda esas metnin başladığı ilk sayfanın arkasındaki -yani bir öncesindeki- için kullanılan deyimdir. Halkârî:”Halkârî denilen gölgeli altın sürülme tekniğine, al renkli lâl mürekkebinin de aynı devirde eklendiği, yarı şeffaf olan bu mürekkebin, kesif altın zerrelerinin bulunduğu motif uçlarında yer aldığı görülür. Desene ayrı bir güzellik veren ve foyalı halkârî ismiyle bilinen bu tarz uzun süre uygulanmıştır."
+        "Aciklama": "Her iki terim de Tezhip sanatı içinde kullanılır. Zahriye:”Arkalık, sırtlık” anlamına gelen zahriye, yazma kitaplarda esas metnin başladığı ilk sayfanın arkasındaki -yani bir öncesindeki- için kullanılan deyimdir. Halkârî:”Halkârî denilen gölgeli altın sürülme tekniğine, al renkli lâl mürekkebinin de aynı devirde eklendiği, yarı şeffaf olan bu mürekkebin, kesif altın zerrelerinin bulunduğu motif uçlarında yer aldığı görülür. Desene ayrı bir güzellik veren ve foyalı halkârî ismiyle bilinen bu tarz uzun süre uygulanmıştır."
     },
     {
         "SoruID": 2857788,
@@ -560,9 +620,29 @@
         "Aciklama": "Beylikler dönemi cami mimarisinin özelliklerini Osmanlı’ya aktaran en iyi örneklerden bir Manisa’da Saruhanoğullarının 1376’da yaptırdıkları Ulucami’dir."
     },
     {
+        "SoruID": 2857799,
+        "SoruMetni": "Osmanlı bilim hayatına katkısı, Merâga ve Semerkant birikimini, kelâm ve irfan çizgisiyle bütünleştirmesi ile anılan düşünür aşağıdakilerden hangisidir.?",
+        "A": "Ali Kuşcu",
+        "B": "İbn-i Sina",
+        "C": "İbnü’l Heysem",
+        "D": "Gelenbevi İsmail Efendi",
+        "E": "Vidinli Hüseyin Tevfik Paşa",
+        "DogruCevap": "A",
+        "DersAd": "Anadolu Kültür Tarihi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.363088",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Hiç kuşkusuz Ali Kuşçu Osmanlı bilim hayatına büyük katkılarda bulundu. Ali Kuşçu ve öğrencileri Merâga ve Semerkant birikimini, kelâm ve irfan çizgisiyle bütünleştirdi."
+    },
+    {
         "SoruID": 2857803,
         "SoruMetni": "Aşağıdadaki yazar ve eser eşleştirmelerinden hangisi <strong><u>yanlış </u></strong>yapılmıştır?",
-        "A": "Ahmed-i Dâ’î -  Cengnâme",
+        "A": "Ahmed-i Dâ’î - Cengnâme",
         "B": "Bursalı Niyazi İlyas – Mansurnâme",
         "C": "Hızır Ahmedî – Hamzanâme",
         "D": "Mevlânâ Celâleddin-i Rûmî – Vesîletü’n-Necât",
@@ -621,7 +701,7 @@
     },
     {
         "SoruID": 2857814,
-        "SoruMetni": "Aşağıdakilerden hangisi çok öven anlamına gelmekte;  seyirlik sanatlar bağlamında bir topluluk önünde hikâye anlatan ve canlandıran kişiyi tanımlamaktadır?",
+        "SoruMetni": "Aşağıdakilerden hangisi çok öven anlamına gelmekte; seyirlik sanatlar bağlamında bir topluluk önünde hikâye anlatan ve canlandıran kişiyi tanımlamaktadır?",
         "A": "Hattat",
         "B": "Halkârî",
         "C": "Kopuz",
@@ -677,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Geleneksel tiyatrodan Batı tiyatrosuna geçiş Tanzimat yenileşmesiyle olanaklı oldu. Tanzimat Fermanı’nın ilan edildiği yıl olan 1839’da dört tiyatro sahnesi açılmıştı. Metin And’a göre Batı’dan alınan yeni tiyatro anlayışının benimsenmesi ve yerleşmesinde altı etken rol oynamıştı: Saray ve Çevresi, Yüksek Devlet Görevlileri -Türk Elçileri - Basın, Yabancı Elçilikler, Azınlıklar, Yabancı topluluklar ve İlk Türkçe Oyunlar."
+        "Aciklama": "Geleneksel tiyatrodan Batı tiyatrosuna geçiş Tanzimat yenileşmesiyle olanaklı oldu. Tanzimat Fermanı’nın ilan edildiği yıl olan 1839’da dört tiyatro sahnesi açılmıştı. Metin And’a göre Batı’dan alınan yeni tiyatro anlayışının benimsenmesi ve yerleşmesinde altı etken rol oynamıştı: Saray ve Çevresi, Yüksek Devlet Görevlileri -Türk Elçileri - Basın, Yabancı Elçilikler, Azınlıklar, Yabancı topluluklar ve İlk Türkçe Oyunlar."
     },
     {
         "SoruID": 2857833,
@@ -717,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Büyük Selçuklu Devleti yazı ve kültür dili olarak Farsçayı kullanmıştır."
+        "Aciklama": "Anadolu Selçuklu Devleti (1081-1308), Büyük Selçuklu Devleti gibi (1026-1300) yazı ve kültür dili olarak Farsçayı benimsedi. Bu tutum bir-iki istisna dışında değişmedi.<br>Büyük Selçuklu Devleti yazı ve kültür dili olarak Farsçayı kullanmıştır."
     },
     {
         "SoruID": 2859318,
@@ -737,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anadolu'da yazılan ilk Farsça eser Keşfü’l-Akabe'dir."
+        "Aciklama": "Anadolu’da yazılan ilk Farsça eser, Keşfü’l -Akabe adlı eserdir ve astronomi ile ilgiliydi.<br>Anadolu'da yazılan ilk Farsça eser Keşfü’l-Akabe'dir."
     },
     {
         "SoruID": 2859326,
@@ -757,11 +837,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anadolu'da yazılmış ilk Türkçe eser Behçetü’l – hadâik fi Mev’izeti’l – Halâik'tır."
+        "Aciklama": "Anadolu’da yazılan ilk Türkçe eser hakkında uzun süreden beri bir tartışma sürdürülmektedir. Ünlü tarihçi M. Fuad Köprülü Ahmed Fakîh’in Çarhnâme adlı eserini ilk Türkçe eser olarak kabul eder. Ancak son yapılan araştırmalarda bu eserin 1350’den sonra yazıldığı belirtilmekte ve ilk Türkçe eserin Behçetü’l – hadâik fi Mev’izeti’l – Halâik olduğu kesinlik kazanmış durumdadır.<br>Anadolu'da yazılmış ilk Türkçe eser Behçetü’l – hadâik fi Mev’izeti’l – Halâik'tır."
+    },
+    {
+        "SoruID": 2859357,
+        "SoruMetni": "Hoca Dehhâni'nin Selçuklu Sultanı Alâeddin Keykubad’ın isteğiyle kaleme aldığı eser aşağıdakilerden hangisidir?",
+        "A": "Salsalnâme",
+        "B": "Şehnâme",
+        "C": "Mirsâdü’l-İbâd",
+        "D": "Mesnevi",
+        "E": "Keşfü’l -Akabe",
+        "DogruCevap": "B",
+        "DersAd": "Anadolu Kültür Tarihi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.315617",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Hoca Dehhâni bunlardan biridir. Firdevsî’nin Şehnâme’si gibi Farsça 20 bin beyitlik bir Şehnâme’yi Selçuklu Sultanı Alâeddin Keykubad’ın isteğiyle yazmıştır.<br>Firdevsî’nin Selçuklu Sultanı Alâeddin Keykubad’ın isteğiyle kaleme aldığı eser Şehnâme'dir."
     },
     {
         "SoruID": 2859375,
-        "SoruMetni": "İhsan Fazlıoğlu'na göre üç döneme ayrılan Osmanlı bilim hayatının klasik dönemi aşağıdakilerden hangisidir?",
+        "SoruMetni": "İhsan Fazlıoğlu'na göre üç döneme ayrılan Osmanlı bilim hayatının klasik dönemi aşağıdakilerden hangisidir?",
         "A": "Devletin kuruluşundan İstanbul'un fethine kadar olan dönem.",
         "B": "1702’den modern eğitim kurumlarının kurulduğu 1773’e kadar devam eden dönem.",
         "C": "Devletin kuruluşundan Müneccimbaşı Ahmed Dede’nin ölümüne kadar süren dönem.",
@@ -777,7 +877,47 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İhsan Fazlıoğlu'na göre üç döneme ayrılan Osmanlı bilim hayatının klasik dönem, devletin kuruluşundan Müneccimbaşı Ahmed Dede’nin ölümüne kadar süren dönemdir."
+        "Aciklama": "İhsan Fazlıoğlu, Osmanlı bilim hayatını üç döneme ayırarak incelemenin daha uygun olacağı görüşündedir. Bunlar;<br/>1. Devletin kuruluşundan Müneccimbaşı Ahmed Dede’nin 1702’de ölümüne kadar süren klasik dönem<br/>2. 1702’den modern eğitim kurumlarının kurulduğu 1773’e kadar devam eden bunalım ve arayış dönemi<br/>3. 1773’ten itibaren devletin siyasi bir teşkilat olarak ortadan kalktığı 1923’e kadar süren klasik paradigmanın terkedilmeye başlandığı yenileşme dönemi.<br>İhsan Fazlıoğlu'na göre üç döneme ayrılan Osmanlı bilim hayatının klasik dönem, devletin kuruluşundan Müneccimbaşı Ahmed Dede’nin ölümüne kadar süren dönemdir."
+    },
+    {
+        "SoruID": 2859384,
+        "SoruMetni": "Aşağıdakilerden hangisi Osmanlı bilim insanları içinde modern matematiğin temsilcileri arasında gösterilen Başhoca İshak'ın eseridir?",
+        "A": "Hulâşatü’l-minhâc fi ilmi’l-hisâb",
+        "B": "Tuhfetü’l a’dad li-zevir’r-rüşd ve’s-sedâd",
+        "C": "Hulâşatü’l-hisâb",
+        "D": "Tahrîru uşûli’l hendese",
+        "E": "Mecmûa-ı Ulûm-i Riyâziyye",
+        "DogruCevap": "E",
+        "DersAd": "Anadolu Kültür Tarihi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.328931",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Modern matematiğin en önemli temsilcileri arasında Başhoca İshak Efendi gösterilmektedir. Onun Mecmûa-ı Ulûm-i Riyâziyye adlı eseri matematiğin uygulama alanını genişletmiştir.<br>Mecmûa-ı Ulûm-i Riyâziyye Osmanlı bilim insanları içinde modern matematiğin temsilcileri arasında gösterilen Başhoca İshak'ın eseridir."
+    },
+    {
+        "SoruID": 2859476,
+        "SoruMetni": "Osmanlıca içinde sade dilin terkedilerek süslü ve yabancı sözcüklerin ağırlık kazandığı dile geçilmesi hangi padişahtan itibaren gerçekleşmiştir?",
+        "A": "II.Mahmut",
+        "B": "Kanuni Sultan Süleyman",
+        "C": "Fatih Sultan Mehmet",
+        "D": "Yavuz Sultan Selim",
+        "E": "II. Abdülhamit",
+        "DogruCevap": "C",
+        "DersAd": "Anadolu Kültür Tarihi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.299665",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fatih’in döneminden başlayarak resmi yazışmalarda kullanılan sade üslup yavaş yavaş terk edilmiş<br/>ve Arapça ile Farsça sözcükler kullanılmaya başlandı. Edebi eserler de bu değişimden etkilendi. Süslü, yeni bir Osmanlı inşa dili meydana getirildi.<br>Osmanlıca içinde sade dilin terkedilerek süslü ve yabancı sözcüklerin ağırlık kazandığı dile geçilmesi Fatih Sultan Mehmet'ten itibaren gerçekleşmiştir."
     },
     {
         "SoruID": 2859488,
@@ -797,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Osmanlı tarihini bütün olarak ele alan ilk kaynak kitap Aşıkpaşazade Tarihi'dir."
+        "Aciklama": "Osmanlı tarihi kaynakları içerisinde önemli bir yere sahip olan ve Osmanlı tarihini bütün olarak ele alan ilk kaynak Aşıkpaşazade Tarihi’dir. 1485 tarihli bu eser, Yahşi Fakih’in menâkıbnâmesini esas almıştır.<br>Osmanlı tarihini bütün olarak ele alan ilk kaynak kitap Aşıkpaşazade Tarihi'dir."
     },
     {
         "SoruID": 2859497,
@@ -817,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Adli mahlası ile şiirler yazan padişah II. Bayezid'dir."
+        "Aciklama": "II. Bayezid döneminde (1481-1512) aynı süreçte hem Doğu hem de Batı kültürüne ilgi duyma<br/>heyecanı sona erdi. Bununla birlikte yeni Padişah da Adlî mahlası ile şiirler yazmış ve şiirlerini bir<br/>divanda toplamıştı. II. Bayezid ve bazı üst düzey yöneticilerin şairleri himaye ettikleri ve destekledikleri bilinmektedir.<br>Adli mahlası ile şiirler yazan padişah II. Bayezid'dir."
     },
     {
         "SoruID": 2859519,
@@ -837,11 +977,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Osmanlı tarihi alanında resimleştirilen ilk eserin adı Selimname'dir."
+        "Aciklama": "1520-1530 yılları arasında da Osmanlı tarihi alanında resimlendirilen ilk eser Selimname’dir.<br>Osmanlı tarihi alanında resimleştirilen ilk eserin adı Selimname'dir."
     },
     {
         "SoruID": 2859819,
-        "SoruMetni": "Osmanlıca , genellikle, üç evrede<br/>ele alınmaktadır. Aşağıdaki ifadelerden hangisi bunlardan ilki olan \"Eski Osmanlıca\" evresini açıklar ?<br/> <br/><br/><br/>",
+        "SoruMetni": "Osmanlıca , genellikle, üç evrede<br/>ele alınmaktadır. Aşağıdaki ifadelerden hangisi bunlardan ilki olan \"Eski Osmanlıca\" evresini açıklar ?",
         "A": "Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de<br/>denilmektedir ve beylikler döneminden başlayarak İstanbul’un fethine kadar getirilir.",
         "B": "16.-19. yüzyıllar arasında kullanılır,",
         "C": "Türkçe esas olmak üzere Arapça ve Farsça kelimelerle kurallarının Türkçe ile birleştirmesinden oluşur.",
@@ -861,8 +1001,8 @@
     },
     {
         "SoruID": 2859831,
-        "SoruMetni": "Osmanlıca , genellikle, üç evrede<br/>ele alınmaktadır. Aşağıdaki ifadelerden hangisi bunlardan ikincisi olan \"Klasik Osmanlıca\" evresini açıklar ?",
-        "A": "Eski Osmanlıcadır ve  13.-15. yüzyıllar arasında kullanılır, ,",
+        "SoruMetni": "Osmanlıca , genellikle, üç evrede<br/>ele alınmaktadır. Aşağıdaki ifadelerden hangisi bunlardan ikincisi olan \"Klasik Osmanlıca\" evresini açıklar ?",
+        "A": "Eski Osmanlıcadır ve 13.-15. yüzyıllar arasında kullanılır, ,",
         "B": "Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de<br/>denilmektedir,",
         "C": "Beylikler döneminden başlayarak İstanbul’un fethine kadar gelen dönemde kullanılır,",
         "D": "Yenileşme hareketlerine paralel olarak dilde sadeleşmeyi içerir.",
@@ -878,6 +1018,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Klasik Osmanlıca (16.-19. yüzyıllar). Türkçe esas olmak üzere Arapça ve Farsça kelimelerle kurallarının Türkçe ile birleştirmesinden oluşur."
+    },
+    {
+        "SoruID": 2859842,
+        "SoruMetni": "Günümüz araştırmaları içerisinde genellikle üç evrede ele alınan ve yenileşme hareketlerine paralel olarak dilde sadeleşmeyi de içeren Osmanlıcanın üçüncü ve son safhası, yani \"<em>Yeni Osmanlıca</em>\", aşağıdaki dönemlerden hangisinde karşımıza çıkmaktadır?",
+        "A": "13. - 15. yüzyıllar arasında",
+        "B": "Beylikler döneminde",
+        "C": "16. Yüzyılda",
+        "D": "Duraklama döneminde",
+        "E": "19. - 20. yüzyıl başları",
+        "DogruCevap": "E",
+        "DersAd": "Anadolu Kültür Tarihi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.258922",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Günümüzde Osmanlıca genellikle, üç evrede ele alınmaktadır. Bunlar; <br/>1. Eski Osmanlıca (13.-15. yüzyıllar). Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denilmektedir ve beylikler döneminden başlayarak İstanbul’un fethine kadar getirilir.<br/>2. Klasik Osmanlıca (16.-19. yüzyıllar). Türkçe esas olmak üzere Arapça ve Farsça kelimelerle kurallarının Türkçe ile birleştirmesinden oluşur.<br/>3. Yeni Osmanlıca (19.-20. yüzyılın başları). Yenileşme hareketlerine paralel olarak dilde sadeleşmeyi içerir."
     },
     {
         "SoruID": 2859877,
@@ -904,7 +1064,7 @@
         "SoruMetni": "Aşağıdaki camilerden hangisi 14. yüzyıldan sonra inşa edilmiştir?",
         "A": "Beyşehir’deki Eşrefoğlu cami",
         "B": "Birgi’deki Aydınoğlu Mehmed Bey’in yaptırdığı Ulucami",
-        "C": "Selçuk’ta inşa edilen İsa Bey Camisi,",
+        "C": "Selçuk’ta inşa edilen İsa Bey Camisi,",
         "D": "Manisa’da Saruhanoğullarının yaptırdıkları Ulucami,",
         "E": "Manisa'da inşa edilen Muradiye Camii",
         "DogruCevap": "E",
@@ -917,11 +1077,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Manisa'da inşa edilen Muradiye Camii 16. yüzyılda inşa edilen camilerdendir."
+        "Aciklama": "Çok destekli cami geleneği Beylikler döneminde<br/>de sürdürülmüştü. Beyşehir’deki Eşrefoğlu cami<br/>(1297) bu geleneğin bir ürünüdür. Selçuklu mimari anlayışının etkisi vardı. Birgi’deki Aydınoğlu Mehmed Bey’in yaptırdığı Ulucami (1312) de<br/>benzer mimari özellikler taşımaktadır. Selçuk’ta<br/>1374 inşa edilen İsa Bey Camisi de mimari yeniliklerin olduğu bir yapıdır. Beylikler dönemi cami<br/>mimarisinin özelliklerini Osmanlı’ya aktaran en<br/>iyi örneklerden bir Manisa’da Saruhanoğullarının 1376’da yaptırdıkları Ulucami’dir.<br>Manisa'da inşa edilen Muradiye Camii 16. yüzyılda inşa edilen camilerdendir."
     },
     {
         "SoruID": 2859938,
-        "SoruMetni": "Molla Gürâni, Molla Hüsrev, Molla Yegân<br/>ve Sinan Paşa gibi dönemin ünlü hocalarından<br/>ders alan, yabancı dil öğrenmeye meraklı, binlerce kitaptan oluşan bir kütüphaneye sahip ve  birçok tarihçi tarafından bir Rönesans hükümdarı olarak tanımlanan Osmanlı hükümdarı kimdir?",
+        "SoruMetni": "Molla Gürâni, Molla Hüsrev, Molla Yegân<br/>ve Sinan Paşa gibi dönemin ünlü hocalarından<br/>ders alan, yabancı dil öğrenmeye meraklı, binlerce kitaptan oluşan bir kütüphaneye sahip ve birçok tarihçi tarafından bir Rönesans hükümdarı olarak tanımlanan Osmanlı hükümdarı kimdir?",
         "A": "Fatih Sultan Mehmed",
         "B": "Yavuz Sultan Selim",
         "C": "Kanuni Sultan Süleyman",
@@ -940,8 +1100,28 @@
         "Aciklama": "Fatih; Molla Gürâni, Molla Hüsrev, Molla Yegân<br/>ve Sinan Paşa gibi dönemin ünlü hocalarından<br/>ders almıştı. Yabancı dil öğrenmeye meraklıydı<br/>ve binlerce kitaptan oluşan bir kütüphaneye sahipti. Fatih, birçok tarihçi tarafından bir Rönesans hükümdarı olarak tanımlanmaktadır"
     },
     {
+        "SoruID": 2859965,
+        "SoruMetni": "<br/>Mevlânâ Celâleddin-i Rûmî’nin Mesnevisi Mesnevisi, Mesnevî-i Muradiyye adıyla Türkçe’ye tercüme edildi. Bu tercüme, Türk edebiyatında yapılan ilk mesnevi tercümesidir. Tercüme hangi dönemde yapılmıştır?",
+        "A": "II. Murad döneminde (1421-1451)",
+        "B": "II. Mehmed (1432-1481)",
+        "C": "I. Selim (1470-1520)",
+        "D": "II. Bayezid (1447-1512)",
+        "E": "I. Süleyman (1494-1566)",
+        "DogruCevap": "A",
+        "DersAd": "Anadolu Kültür Tarihi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.349851",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Osmanlı Devleti’nin kuruluşunun ikinci yüzyılında II. Murad döneminde (1421-1451) edebi faaliyetler açısından büyük bir canlanma görüldü. Edebî, coğrafi, tasavvufî, tıbbî vb. alanlarda tercümeler yapıldı. Mevlânâ Celâleddin-i Rûmî’nin Mesnevisi 1436’da Mesnevî-i Muradiyye adıyla Türkçe’ye tercüme edildi. Bu tercüme, Türk edebiyatında yapılan ilk mesnevi tercümesidir. Bu dönem Divan edebiyatının ilk dönemi kabul edilmiş ve sonraki dönemlere zemin hazırlamıştır."
+    },
+    {
         "SoruID": 2859982,
-        "SoruMetni": ".......................döneminde (1481-1512) aynı süreçte hem Doğu hem de Batı kültürüne ilgi duyma<br/>heyecanı sona erdi. Bununla birlikte yeni Padişah da Adlî mahlası ile şiirler yazmış ve şiirlerini bir<br/>divanda toplamıştı. ........................ve bazı üst düzey yöneticilerin şairleri himaye ettikleri ve destekledikleri bilinmektedir. <br/> Yukarıda boş bırakılan alanlara aşağıdaki şıklardan hangisi gelmelidir?",
+        "SoruMetni": ".......................döneminde (1481-1512) aynı süreçte hem Doğu hem de Batı kültürüne ilgi duyma<br/>heyecanı sona erdi. Bununla birlikte yeni Padişah da Adlî mahlası ile şiirler yazmış ve şiirlerini bir<br/>divanda toplamıştı. ........................ve bazı üst düzey yöneticilerin şairleri himaye ettikleri ve destekledikleri bilinmektedir. <br/>Yukarıda boş bırakılan alanlara aşağıdaki şıklardan hangisi gelmelidir?",
         "A": "II. Bayezid",
         "B": "I. Selim",
         "C": "I. Mehmed",
@@ -961,7 +1141,7 @@
     },
     {
         "SoruID": 2860033,
-        "SoruMetni": "Edirneli Nazmi (öl. 1548) ve Tatavlalı Mahremi’nin (öl 1548) <br/>.............................başlatarak Türkçe ile şiirler yazmaları Osmanlı üst kültüründe pek etkili olamamıştır. <br/><br/>Yukarıda boş bırakılan alana aşağıdaki seçeneklerden hangisi gelmelidir?",
+        "SoruMetni": "Edirneli Nazmi (öl. 1548) ve Tatavlalı Mahremi’nin (öl 1548) <br/>.............................başlatarak Türkçe ile şiirler yazmaları Osmanlı üst kültüründe pek etkili olamamıştır. <br/>Yukarıda boş bırakılan alana aşağıdaki seçeneklerden hangisi gelmelidir?",
         "A": "Türkî-i basit akımını",
         "B": "Fecr-İ Ati akımını",
         "C": "Edebiyat-ı Cedide akımını",
@@ -981,7 +1161,7 @@
     },
     {
         "SoruID": 2860076,
-        "SoruMetni": "Abdülaziz’in 1871 yılında yapılan ve Beylerbeyi Sarayı’nın bahçesine konulan atlı heykeli hangi heykeltraş tarafından yapılmıştır?",
+        "SoruMetni": "Abdülaziz’in 1871 yılında yapılan ve Beylerbeyi Sarayı’nın bahçesine konulan atlı heykeli hangi heykeltraş tarafından yapılmıştır?",
         "A": "İngiliz heykeltıraş Charles F. Fuller",
         "B": "Yervant Osgan Efendi",
         "C": "İhsan (Özsoy)",
@@ -1001,7 +1181,7 @@
     },
     {
         "SoruID": 2860370,
-        "SoruMetni": "Sözlük anlamı “meylettirme, cezbetme, gönül alma” olan ve  Osmanlı kroniklerinde “halkı ve özellikle gayrimüslim tebaayı gözetme, onlara karşı hoşgörülü davranma ve raiyyet perverlik” anlamında kullanılmış olan terim aşağıdakilerden hangisidir ?",
+        "SoruMetni": "Sözlük anlamı “meylettirme, cezbetme, gönül alma” olan ve Osmanlı kroniklerinde “halkı ve özellikle gayrimüslim tebaayı gözetme, onlara karşı hoşgörülü davranma ve raiyyet perverlik” anlamında kullanılmış olan terim aşağıdakilerden hangisidir ?",
         "A": "İstimâlet",
         "B": "Zeâmet",
         "C": "Risâlet",
@@ -1017,7 +1197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözlük anlamı “meylettirme, cezbetme, gönül alma” olan ve  Osmanlı kroniklerinde “halkı ve özellikle gayrimüslim tebaayı gözetme, onlara karşı hoşgörülü davranma ve raiyyet perverlik” anlamında kullanılmış olan terim İstimâlet’tir.<br/> Doğru Cevap A’dır."
+        "Aciklama": "Sözlük anlamı “meylettirme, cezbetme, gönül alma” olan ve Osmanlı kroniklerinde “halkı ve özellikle gayrimüslim tebaayı gözetme, onlara karşı hoşgörülü davranma ve raiyyet perverlik” anlamında kullanılmış olan terim İstimâlet’tir.<br/>Doğru Cevap A’dır."
     },
     {
         "SoruID": 2860380,
@@ -1037,11 +1217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Divanü Lugat-it Türk adlı eserin yazarı Kaşgarlı Mahmud’dur.<br/> Doğru Cevap C’dir."
+        "Aciklama": "Divanü Lugat-it Türk adlı eserin yazarı Kaşgarlı Mahmud’dur.<br/>Doğru Cevap C’dir."
     },
     {
         "SoruID": 2860389,
-        "SoruMetni": "Eski Anadolu Türkçesinin önemli eserlerinden<span> birisi olan </span>Garipnâme'nin yazarı aşağıdakilerden hangisidir ?",
+        "SoruMetni": "Eski Anadolu Türkçesinin önemli eserlerinden<span> birisi olan </span>Garipnâme'nin yazarı aşağıdakilerden hangisidir ?",
         "A": "Mevlana Celâleddin-i Rumi",
         "B": "Yunus Emre",
         "C": "Ahmed Yesevi",
@@ -1057,7 +1237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eski Anadolu Türkçesinin önemli eserlerinden<span> birisi olan </span>Garipnâme'nin yazarı Aşık Paşa'dır."
+        "Aciklama": "Eski Anadolu Türkçesinin önemli eserlerinden<span> birisi olan </span>Garipnâme'nin yazarı Aşık Paşa'dır."
     },
     {
         "SoruID": 2860395,
@@ -1077,7 +1257,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hamzanâme ve İskendernâme adlı eserleri ile tanınan şair Ahmedî’dir.<br/> Doğru Cevap E’dir."
+        "Aciklama": "Hamzanâme ve İskendernâme adlı eserleri ile tanınan şair Ahmedî’dir.<br/>Doğru Cevap E’dir."
+    },
+    {
+        "SoruID": 2860407,
+        "SoruMetni": "En iyi bilinen eserlerinden birisi Leyla vü Mecnun olan Klasik dönem Türk Edebiyatçısı aşağıdakilerden hangisidir ?",
+        "A": "Fuzûli",
+        "B": "Nedim",
+        "C": "Ahmed-i Dâ’i",
+        "D": "Ahmedî",
+        "E": "Hayâlî",
+        "DogruCevap": "A",
+        "DersAd": "Anadolu Kültür Tarihi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.265011",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "En iyi bilinen eserlerinden birisi Leyla vü Mecnun olan Klasik dönem Türk Edebiyatçısı Fuzûli’dir.<br/>Doğru Cevap A’dır."
     },
     {
         "SoruID": 2860410,
@@ -1098,6 +1298,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Fatih Külliyesi, İstanbul’da Türk-İslam döneminin en eski yapısıdır. Doğru Cevap A’dır."
+    },
+    {
+        "SoruID": 2860420,
+        "SoruMetni": "Aşağıdakilerden hangisi, Kuruluş Dönemi Osmanlı eserlerinden biri olarak belirtilebilir?",
+        "A": "Bursa Ulu Cami",
+        "B": "Sadabad Kasrı",
+        "C": "III. Ahmed Çeşmesi",
+        "D": "Nur-u Osmaniye Camii ve Külliyesi",
+        "E": "Birgi Ulu Cami",
+        "DogruCevap": "E",
+        "DersAd": "Anadolu Kültür Tarihi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.345142",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Anadolu’nun çeşitli bölgelerinde hüküm süren Türk Beylikleri mimarî açıdan Selçuklu mimarisinden etkilenmekle birlikte (özellikle Karama-noğulları) her beylik kendi özel şartları içerisinde farklı gelişme göstermiştir. Bu farklılık cami tiplerinde daha belirgindir. Eş büyüklükteki çok sayıda birimle desteklenen cami tipi Selçuklular’da mevcuttu ve bu tarz Osmanlı’ya da geçmişti. Çok destekli cami geleneği Beylikler döneminde de sürdürülmüştü. Beyşehir’deki Eşrefoğlu cami (1297) bu geleneğin bir ürünüdür. Selçuklu mimari anlayışının etkisi vardı. Birgi’deki Aydınoğlu Mehmed Bey’in yaptırdığı Ulucami (1312) de benzer mimari özellikler taşımaktadır. Selçuk’ta 1374 inşa edilen İsa Bey Camisi de mimari yeniliklerin olduğu bir yapıdır. Beylikler dönemi cami mimarisinin özelliklerini Osmanlı’ya aktaran en iyi örneklerden bir Manisa’da Saruhanoğullarının 1376’da yaptırdıkları Ulucami’dir."
     },
     {
         "SoruID": 2860424,
@@ -1157,7 +1377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Osmanlı sarayında ilk kez III. Selim  döneminde opera sahnelenmiştir.  Doğru Cevap D’dir."
+        "Aciklama": "Osmanlı sarayında ilk kez III. Selim döneminde opera sahnelenmiştir. Doğru Cevap D’dir."
     },
     {
         "SoruID": 3075901,
@@ -1177,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Günümüzde bu yazı dili, genellikle, üç evrede ele alınmaktadır. Bunlar;<br/> 1. Eski Osmanlıca (13.-15. yüzyıllar). Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denilmektedir ve beylikler döneminden başlayarak İstanbul’un fethine kadar getirilir.<br/> 2. Klasik Osmanlıca (16.-19. yüzyıllar). Türk-çe esas olmak üzere Arapça ve Farsça kelimelerle kurallarının Türkçe ile birleştirmesinden oluşur.<br/> 3. Yeni Osmanlıca (19.-20. yüzyılın başları). Yenileşme hareketlerine paralel olarak dilde sadeleşmeyi içerir."
+        "Aciklama": "Günümüzde bu yazı dili, genellikle, üç evrede ele alınmaktadır. Bunlar;<br/>1. Eski Osmanlıca (13.-15. yüzyıllar). Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denilmektedir ve beylikler döneminden başlayarak İstanbul’un fethine kadar getirilir.<br/>2. Klasik Osmanlıca (16.-19. yüzyıllar). Türk-çe esas olmak üzere Arapça ve Farsça kelimelerle kurallarının Türkçe ile birleştirmesinden oluşur.<br/>3. Yeni Osmanlıca (19.-20. yüzyılın başları). Yenileşme hareketlerine paralel olarak dilde sadeleşmeyi içerir."
     },
     {
         "SoruID": 3075902,
@@ -1201,7 +1421,7 @@
     },
     {
         "SoruID": 3075903,
-        "SoruMetni": "“<em>Ezilerek fırçayla sürülecek hale getirilmiş olan varak altın ve çeşitli renklerin kullanılmasıyla gerçekleştirilen, parlak ve cazip kitap sanatına ……………………………..denilmektedir.</em>”<br/> Yukarıdaki boşluğa gelmesi gereken uygun sözcük aşağıdakilerden hangisidir?",
+        "SoruMetni": "“<em>Ezilerek fırçayla sürülecek hale getirilmiş olan varak altın ve çeşitli renklerin kullanılmasıyla gerçekleştirilen, parlak ve cazip kitap sanatına ……………………………..denilmektedir.</em>”<br/>Yukarıdaki boşluğa gelmesi gereken uygun sözcük aşağıdakilerden hangisidir?",
         "A": "Hat sanatı",
         "B": "Cilt sanatı",
         "C": "Nakkaş sanatı",
@@ -1238,6 +1458,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "18. yüzyılın ikinci yarısından itibaren Padişahlar yerli ve yabancı birçok ustaya portrelerini yaptırmışlardır. Bunlar genellikle guaj veya yağlı boyadır. III. Selim ve II. Mahmud padişah portreciliğinde başı çekmişlerdir. II. Mahmud portresini kamu dairelerine astırdığı için halk tarafından “gavur padişah” olarak nitelendirilmiştir."
+    },
+    {
+        "SoruID": 3334553,
+        "SoruMetni": "Aşağıdakilerden hangisi, Türk halıcılığının zirvesini teşkil eden Klasik Dönem Osmanlı halıcılığında büyük bir ekonomik değer oluşturmuş merkezlerden biri olarak belirtilebilir?",
+        "A": "Uşak",
+        "B": "Kırşehir",
+        "C": "Milas",
+        "D": "Ladik",
+        "E": "Alaşehir",
+        "DogruCevap": "A",
+        "DersAd": "Anadolu Kültür Tarihi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.346689",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Klasik dönem halıları, Türk halıcılığının zirvesini teşkil eder. Bu evrede saray halıları ve Uşak halıları olmak üzere iki grup halı çeşidi öne çıkar. 16. yüzyılda Uşak’ta halıcılık büyük bir ekonomik değer olmuştur. Batı Anadolu-Bergama-Uşak bölgesinde dokunan halılar Avrupa’ya ihraç edilmiştir. Hiç kuşkusuz bu halılar İstanbul’da saray çevresinde ve dini yapılarda da kullanılmıştır."
     },
     {
         "SoruID": 3334585,

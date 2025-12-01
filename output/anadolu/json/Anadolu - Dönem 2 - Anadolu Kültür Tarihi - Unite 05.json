@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 2851285,
-        "SoruMetni": "Heraklios döneminde Müslüman Arapların akınlarını Anadolu’da önleyebilmek için Bizans Devleti, Anadolu’yu dört eyalete bölmüştür. Bu eyaletler kelimesi hangi isim ile adlandırılmıştır?",
+        "SoruMetni": "Heraklios döneminde Müslüman Arapların akınlarını Anadolu’da önleyebilmek için Bizans Devleti, Anadolu’yu dört eyalete bölmüştür. Bu eyaletler kelimesi hangi isim ile adlandırılmıştır?",
         "A": "Thema",
         "B": "Heretik",
         "C": "Bizanslı",
@@ -61,11 +61,11 @@
     },
     {
         "SoruID": 2851286,
-        "SoruMetni": "Dört başlı manasına gelen ve İmparator Diokletianus'un kurduğu yeni yönetim sisteminin adı nedir?",
+        "SoruMetni": "Dört başlı manasına gelen ve İmparator Diokletianus'un kurduğu yeni yönetim sisteminin adı nedir?",
         "A": "Thema",
         "B": "Heretik",
         "C": "Senato",
-        "D": "Tetrarşi (tetrarhia)",
+        "D": "Tetrarşi (tetrarhia)",
         "E": "Eklogi",
         "DogruCevap": "D",
         "DersAd": "Anadolu Kültür Tarihi",
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 2851512,
-        "SoruMetni": "Bizans İmparatorluğu Akdeniz etrafında kurulmuş ve kültürü bu coğrafyadan fazlasıyla etkilenmiş bir uygarlıktır. Bu nedenle Bizans’ın iletişimi, ticareti, endüstrisi ve iklimi genellikle Akdeniz’in özellikleri tarafından belirlenmiştir.<br/> Yukarıda verilen parçada Akdeniz'in hangi özelliğinden söz edilmektedir?",
+        "SoruMetni": "Bizans İmparatorluğu Akdeniz etrafında kurulmuş ve kültürü bu coğrafyadan fazlasıyla etkilenmiş bir uygarlıktır. Bu nedenle Bizans’ın iletişimi, ticareti, endüstrisi ve iklimi genellikle Akdeniz’in özellikleri tarafından belirlenmiştir.<br/>Yukarıda verilen parçada Akdeniz'in hangi özelliğinden söz edilmektedir?",
         "A": "Akdeniz kıyılarının oldukça girintili ve çıkıntılı olması",
         "B": "Deniz suyu sıcaklığı",
         "C": "Akdeniz’in doğusunda 7. yüzyıla kadar Bizans’ın elinde kalan ancak Arap fetihleri sonucu kaybedilen Suriye ve Mısır'ın önemli alanlarından biri olması",
@@ -222,11 +222,11 @@
     {
         "SoruID": 2851519,
         "SoruMetni": "Bizans İmparatorluğunun uzun yıllar sınırlarını oluşturan nehirler hangileridir?",
-        "A": "Kuzey sınırı Tuna Nehri<br/> Güney sınırı Struma Nehri",
-        "B": "Kuzey sınırı Tuna Nehri<br/> Doğu sınırı Fırat Nehri",
-        "C": "Doğu sınırı Fırat Nehri<br/> Batı sınırı Mesta Nehri",
-        "D": "Güney sınırı Struma Nehri<br/> Doğu sınırı Fırat Nehri",
-        "E": "Güney sınırı Struma Nehri<br/> Batı sınırı Mesta Nehri",
+        "A": "Kuzey sınırı Tuna Nehri<br/>Güney sınırı Struma Nehri",
+        "B": "Kuzey sınırı Tuna Nehri<br/>Doğu sınırı Fırat Nehri",
+        "C": "Doğu sınırı Fırat Nehri<br/>Batı sınırı Mesta Nehri",
+        "D": "Güney sınırı Struma Nehri<br/>Doğu sınırı Fırat Nehri",
+        "E": "Güney sınırı Struma Nehri<br/>Batı sınırı Mesta Nehri",
         "DogruCevap": "B",
         "DersAd": "Anadolu Kültür Tarihi",
         "Unite": 5,
@@ -277,16 +277,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "A, B, C, E şıkları İmparator I. Konstantinos tarafından geliştirilen sivil idari yapılardır. D şıkkı ise Tetrarşi tanımıdır."
+        "Aciklama": "A, B, C, E şıkları İmparator I. Konstantinos tarafından geliştirilen sivil idari yapılardır. D şıkkı ise Tetrarşi tanımıdır."
     },
     {
         "SoruID": 2852195,
-        "SoruMetni": "I. Hukuk kurumları \"İnstituiones\"<br/> II. Hukuk bilimi ve hukuk tarihi” Digesta ya da “Pandektis”<br/> III. Güncellenen emirnameler  “Codex”<br/> IV. Yeni kanunlar “Novellae” <br/> V. Taç Giyme Töreni \"Skylitzes Kroniği\"<br/> Yukarıdakilerden hangisi Roma hukuku içeriği ve kapsamı Corpus Iuris Civilis (Medeni Hukuk Derlemesi) isimli derlemede yer almamaktadır?",
+        "SoruMetni": "I. Hukuk kurumları \"İnstituiones\"<br/>II. Hukuk bilimi ve hukuk tarihi” Digesta ya da “Pandektis”<br/>III. Güncellenen emirnameler “Codex”<br/>IV. Yeni kanunlar “Novellae” <br/>V. Taç Giyme Töreni \"Skylitzes Kroniği\"<br/>Yukarıdakilerden hangisi Roma hukuku içeriği ve kapsamı Corpus Iuris Civilis (Medeni Hukuk Derlemesi) isimli derlemede yer almamaktadır?",
         "A": "I. Hukuk kurumları \"İnstituiones\"",
         "B": "II. Hukuk bilimi ve hukuk tarihi” Digesta ya da “Pandektis”",
-        "C": "III. Güncellenen emirnameler  “Codex”",
+        "C": "III. Güncellenen emirnameler “Codex”",
         "D": "IV. Yeni kanunlar “Novellae”",
-        "E": "V. Taç Giyme Töreni \"Skylitzes Kroniği\"",
+        "E": "V. Taç Giyme Töreni \"Skylitzes Kroniği\"",
         "DogruCevap": "E",
         "DersAd": "Anadolu Kültür Tarihi",
         "Unite": 5,
@@ -302,7 +302,7 @@
     {
         "SoruID": 2852200,
         "SoruMetni": "Milano Fermanı nedir?",
-        "A": "313 yılında Theodosios (379-395) döneminde Hıristiyanlığın serbest bir din olarak kabulü ve  Kilisenin kurulmasıyla Hıristiyanlık resmi devlet dini haline gelmiştir. Kilise örgütlenmesi de devletin örgütlenmesine göre<br/>biçimlenmiştir",
+        "A": "313 yılında Theodosios (379-395) döneminde Hıristiyanlığın serbest bir din olarak kabulü ve Kilisenin kurulmasıyla Hıristiyanlık resmi devlet dini haline gelmiştir. Kilise örgütlenmesi de devletin örgütlenmesine göre<br/>biçimlenmiştir",
         "B": "Bizans eğitim sisteminde antikitenin yedi yüksek bilimine bağlı kalmasıdır",
         "C": "Orta Bizans döneminde imparatorluğun sınır savunma sistemidir",
         "D": "Roma imparatorluk ordusunda disiplin ve talim ön plana çıkarken, ardılı olan Bizans ordusunda stratejinin temel dayanak olması sözleşmesidir",
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 2852201,
-        "SoruMetni": "Hıristiyanlığın ilk yıllarında dünyadan el etek çekip, toplumdan uzakta inzivaya çekilerek dua ve ibadet yoluyla Tanrı’yı arama yani inziva yolunu seçen kişi münzevi olarak tanımlanmıştır. Münzevi yaşamda, duyguların köreltilmesi, cinsellik, zenginlik, aşırı istek gibi dünyevi duygulardan arınmayı içeren ruhani akımdır.<br/><br/>Aşağıdakilerden hangisi bu akımın güçlenmesinin nedenlerinden biri değildir?",
+        "SoruMetni": "Hıristiyanlığın ilk yıllarında dünyadan el etek çekip, toplumdan uzakta inzivaya çekilerek dua ve ibadet yoluyla Tanrı’yı arama yani inziva yolunu seçen kişi münzevi olarak tanımlanmıştır. Münzevi yaşamda, duyguların köreltilmesi, cinsellik, zenginlik, aşırı istek gibi dünyevi duygulardan arınmayı içeren ruhani akımdır.<br/>Aşağıdakilerden hangisi bu akımın güçlenmesinin nedenlerinden biri değildir?",
         "A": "Hz. İsa’yı örnek almak, onun bilgisine sahip olmak, aklın ve vücudun getirdiği günahlara karşı mücadele etmek",
         "B": "Manastırların köy manzaralarının doğal bir parçası olarak görülmesi",
         "C": "Hıristiyanlara yapılan zulümlerden kaçmak",
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 2852208,
-        "SoruMetni": "I. Roma tipi tiyatro gösterileri ve hipodromlardaki araba yarışlarının giderek terk edilmesi<br/><br/>II. Tarımsal üretim Bizans kent ekonomisinin bel kemiği olması<br/><br/>III. Bizans’ta köylerin, Bizans ekonomisinin ve toplumunun temel bir özelliği olarak karşımıza çıkması<br/><br/>IV. Uzun mesafeli ticaretin azalması<br/><br/>V. Balkanlar’daki şehirlerin, Avarlar ve Slavlar tarafından harap edilmesi<br/><br/>Yukarıdakilerden hangileri Bizans şehirlerinde ekonomik etkinliklerin azalması sonucuna yol açmıştır?",
+        "SoruMetni": "I. Roma tipi tiyatro gösterileri ve hipodromlardaki araba yarışlarının giderek terk edilmesi<br/>II. Tarımsal üretim Bizans kent ekonomisinin bel kemiği olması<br/>III. Bizans’ta köylerin, Bizans ekonomisinin ve toplumunun temel bir özelliği olarak karşımıza çıkması<br/>IV. Uzun mesafeli ticaretin azalması<br/>V. Balkanlar’daki şehirlerin, Avarlar ve Slavlar tarafından harap edilmesi<br/>Yukarıdakilerden hangileri Bizans şehirlerinde ekonomik etkinliklerin azalması sonucuna yol açmıştır?",
         "A": "I ve II",
         "B": "II ve III",
         "C": "III ve IV",
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Göktürkler"
+        "Aciklama": "Bizans’ın zaman zaman barış ama genellikle savaş halinde olduğu ve sınırlarında da sürekli değişen komşuları şunlardır. Doğu’da Sasaniler, Emeviler, Abbasiler, Selçuklular, Osmanlılar; Kuzeyli Türk komşuları Hunlar, Göktürkler, Avarlar, Bulgarlar, Hazarlar, Peçenekler, Oğuzlar, Kıpçaklar, Tatarlar; Batı’da ise Gotlar, Vizigotlar, Ostrogotlar, Vandallar, Lombardlar, Franklar, Normanlar, Varanglar, Venedikliler ve Cenevizliler’dir."
     },
     {
         "SoruID": 2852733,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Augustus"
+        "Aciklama": "Bizans Devletinin monarşik yapısı, Augustus (MÖ.63-14) dönemindeki imparatorluk rejiminden miras kalmıştır. Diocletianus ve daha sonra Constantinus tarafından şekillendirilen yeni imparatorlukta hükümdar, tüm kamusal güçleri tek bir elde toplayan bir otoriteye sahiptir. Roma hukukunu temel alan imparatorlukta Bizans ordusu tümüyle imparatora bağlı bir örgüt olarak karşımıza çıkmaktadır. Eğitim ise genellikle itibarlı kadınlar dışında erkeklere sunulan bir hizmettir."
     },
     {
         "SoruID": 2852735,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Roma"
+        "Aciklama": "Bizans hukukunun temel kaynağı Roma hukukudur. Roma hukuku içeriği ve kapsamı I. Iustinianos’un (527-565) Corpus Iuris Civilis (Medeni Hukuk Derlemesi) isimli derlemesinde toplanmış ve Bizans hukukuna aktarılmıştır"
     },
     {
         "SoruID": 2852737,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Epanagogi"
+        "Aciklama": "Orta Bizans Dönemi’nde uygulamaya konulan ilk yasa metni “Epanagogi” olarak bilinmektedir.Söz konusu metin ile Kilise ve Devlet arasındaki ilişkiler yeniden düzenlenmiş, patrik ve imparator devlet içinde en yüksek ve eşit iki güç olarak tanımlanmıştır."
     },
     {
         "SoruID": 2852740,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Milano Fermanı"
+        "Aciklama": "Roma İmparatorluğu içinde Hıristiyanlara yardım etmek için MS 313 Şubat ayında yapılan anlaşmadır. İmparator I. Konstantinos Batı’nın Augustusu ve Licinius Doğu’nun Augustus olarak birlikte Milano’da tüm imparatorluk sınırları içinde Hıristiyanlığın serbest bir din olduğunu ilan etmiştir.<br>Milano Fermanı"
     },
     {
         "SoruID": 2852947,
@@ -517,11 +517,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eparhos"
+        "Aciklama": "Eparhos: Şehirde en yüksek dereceli memur (Vali). Eparhos yasa ve emirlerin devamlılığının sağlamak ve kamu hizmetlerinden sorumludur."
     },
     {
         "SoruID": 2852949,
-        "SoruMetni": "Bizans döneminde kırsal nüfus 4. yüzyıldan itibaren istikrarlı bir şekilde artmıştır. Bu süreçte  Konstantinopolis tahılının büyük bölümünü hangi ülkeden elde etmekteydi?",
+        "SoruMetni": "Bizans döneminde kırsal nüfus 4. yüzyıldan itibaren istikrarlı bir şekilde artmıştır. Bu süreçte Konstantinopolis tahılının büyük bölümünü hangi ülkeden elde etmekteydi?",
         "A": "Mısır",
         "B": "Suriye",
         "C": "Filistin",
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mısır"
+        "Aciklama": "Kırsal nüfus 4. yüzyıldan itibaren istikrarlı bir şekilde artmıştır. Kentsel büyüme de kendini her alanda göstermiştir. Konstantinopolis’teki ve diğer büyük şehir merkezlerindeki gıda ve diğer mallara olan talep, bu maddelerin büyük ölçekte kara yoluyla ve özellikle deniz yoluyla taşınmasını gerektiriyordu. Konstantinopolis tahılının büyük bölümü Mısır’dan, şarabı ise Suriye ve Filistin’den geliyordu."
     },
     {
         "SoruID": 2852950,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ahşap"
+        "Aciklama": "r. Bizans sanatının büyük ölçüde dini amaçlarla ısmarlandığı, kiliseler ve manastırlarda kullanılmak üzere tahsis edilmiş olduğunu söyleyebiliriz. Bununla beraber diğer Ortaçağ toplumlarında olduğu gibi, üretilen sanat genellikle himayeye dayanmaktaydı. Yani hanedan ve saray mensupları dini yapıları ve dini sanatı himaye etmeye istekliydiler. Örneğin baştan beri tüm lüks mallar (ipek, altın, gümüş, fildişi, cam) devlet tekeli olarak işlem görmüştür<br>Ahşap"
     },
     {
         "SoruID": 2852953,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Roma"
+        "Aciklama": "Başkent Konstantinopolis’in ilk çağlarda su ihtiyacı, kentteki sarnıçlarla sağlanmıştır. Roma İmparatorluğu döneminde ise ilk su tesisleri yapılmıştır. Erken Bizans dönemi diğer kentlerinde olduğu gibi Konstantinopolis’te de antik çağda inşa edilmiş su kemerleri ve kanallar gerektiğinde onarılarak kullanılmıştır. Roma İmparatoru Valens (364-378) tarafından yaptırılan ve Türk döneminde “Bozdoğan Su Kemeri” olarak adlandırılmış su kemeri bugün İstanbul’daki önemli su yapısı örneklerinden biridir."
     },
     {
         "SoruID": 2852954,
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yerel halk"
+        "Aciklama": "İkonalar: İsa, Meryem, Azizler ve Azizlerin yaşamlarının canlandırıldığı, taşınabilir nitelikte ibadet amacı taşıyan dini konulu resimlerdir<br>Yerel halk"
     },
     {
         "SoruID": 2853985,
@@ -841,7 +841,7 @@
     },
     {
         "SoruID": 2857068,
-        "SoruMetni": "\"Müslüman Arapların akınlarını önleyebilmek için Bizans Devleti Anadoluyu dört eyalete bölmüştür. Bu eyaletler ........................ kelimesi ile adlandırılmıştır.\"<br/> Yukarıdaki ifadede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "\"Müslüman Arapların akınlarını önleyebilmek için Bizans Devleti Anadoluyu dört eyalete bölmüştür. Bu eyaletler ........................ kelimesi ile adlandırılmıştır.\"<br/>Yukarıdaki ifadede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "Thema",
         "B": "Tetraşi",
         "C": "Heretik",

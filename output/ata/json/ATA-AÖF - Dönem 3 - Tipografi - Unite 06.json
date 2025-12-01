@@ -16,7 +16,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 323519,
@@ -35,7 +36,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 323521,
@@ -54,7 +56,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 323522,
@@ -73,7 +76,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 323524,
@@ -92,7 +96,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 323526,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 323528,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 323530,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 323531,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 323532,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 326329,
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 326351,
@@ -225,11 +236,12 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 326356,
-        "SoruMetni": "Yazı karakterlerinin getirdiği tipografik özgürlük 256 karakterle sınırlı olmayıp bir dosyanın 65.536 şekil içerebilmesidir. Bu sayede çağdaş yazı karakterlerinin pek çoğu düzinelerce farklı small caps (küçük büyük harfler), farklı rakamlar ve sayısız özel karakterler içerecek şekilde geliştirilmektedir.<br/> <br/><strong>Paragraftaki ifade hangi yazı karakterine aittir?</strong><br> <br/></br>",
+        "SoruMetni": "Yazı karakterlerinin getirdiği tipografik özgürlük 256 karakterle sınırlı olmayıp bir dosyanın 65.536 şekil içerebilmesidir. Bu sayede çağdaş yazı karakterlerinin pek çoğu düzinelerce farklı small caps (küçük büyük harfler), farklı rakamlar ve sayısız özel karakterler içerecek şekilde geliştirilmektedir.<br/><strong>Paragraftaki ifade hangi yazı karakterine aittir?</strong><br/></br>",
         "A": "Bitmap",
         "B": "Type 1",
         "C": "TrueType",
@@ -244,11 +256,12 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 327252,
-        "SoruMetni": "<strong>Apple ilk kuşak Macintosh bilgisayarları hangi yıl üretilmiştir?</strong>",
+        "SoruMetni": "<strong>Apple ilk kuşak Macintosh bilgisayarları hangi yıl üretilmiştir?</strong>",
         "A": "1930",
         "B": "1984",
         "C": "1971",
@@ -263,16 +276,17 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 327253,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi dijital tanımlama sistemlerinden Postscript Fontu'nun özelliklerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi dijital tanımlama sistemlerinden Postscript Fontu'nun özelliklerinden biri <u>değildir</u>?</strong>",
         "A": "Masaüstü yayıncılığı mümkün kılan ve “Type 1” olarak da bilinen bir fonttur.",
         "B": "1985 yılında Adobe tarafından geliştirilmiştir.",
         "C": "İlk olarak Apple'ın lazer yazıcılarında kullanılmıştır.",
         "D": "Sabit boyutlu bitmap dosyasını kullanarak ekrandaki karakterlerin çizilmesini sağlar.",
-        "E": "Latin alfabesini kullanan dillerin gerektirdiği alternatif karakter ve aksanları barındırır ve aynı zamanda Yunan ve Kiril gibi farklı alfabeleri de kapsamaktadır.",
+        "E": "Latin alfabesini kullanan dillerin gerektirdiği alternatif karakter ve aksanları barındırır ve aynı zamanda Yunan ve Kiril gibi farklı alfabeleri de kapsamaktadır.",
         "DogruCevap": "E",
         "DersAd": "Tipografi",
         "Somestre": 1,
@@ -282,7 +296,8 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 363289,
@@ -301,11 +316,12 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 370394,
-        "SoruMetni": "<strong>Masaüstü yayıncılık hakkında aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>",
+        "SoruMetni": "<strong>Masaüstü yayıncılık hakkında aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>",
         "A": "Masaüstü yayıncılık terimi ilk olarak bu sistemi bulan Aldus, Apple ve Adobe tarafından 1984’te kullanılır.",
         "B": "Masaüstü yayıncılık sayesinde asırlardır onlarca kişi tarafından gerçekleştirilen yayıncılık tek bir kişi tarafından yapılabilir hâle gelir.",
         "C": "Masaüstü yayıncılık, daktilo ile yazma ve dizgi makinesinde harf kalıpları dizme eylemlerini bir araya getirir.",
@@ -320,7 +336,8 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 370395,
@@ -339,6 +356,7 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     }
 ]

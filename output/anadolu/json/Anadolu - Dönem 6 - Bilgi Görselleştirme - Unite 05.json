@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3763352,
-        "SoruMetni": "Aşağıdakilerden hangisi bilginin aktarılmasında yazının icadından önce sözlü bilgiyi yaygınlaştıran önemli bir faaliyettir?",
+        "SoruMetni": "Aşağıdakilerden hangisi bilginin aktarılmasında yazının icadından önce sözlü bilgiyi yaygınlaştıran önemli bir faaliyettir?",
         "A": "Üç boyutlu görselleştirme",
         "B": "Pratik uygulamalar",
         "C": "Toplumsal dayanışma",
@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Deneyim aktarımı"
+        "Aciklama": "BİLGİNİN GELENEKSEL GÖSTERİMİ<br>Deneyim aktarımı"
     },
     {
         "SoruID": 3763353,
@@ -37,16 +37,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazının icadıyla"
+        "Aciklama": "Bilginin Metin Olarak Gösterilmesi<br>Yazının icadıyla"
     },
     {
         "SoruID": 3763354,
         "SoruMetni": "Aşağıdakilerden hangisi bilginin metne dönüştürülmesinin olumlu özelliklerinden <span style=\"text-decoration: underline;\">biri değildir?</span>",
         "A": "Yoğun içerikler her kitabın ön sayfalarında “içindekiler” (indeks ya da fihrist) ile daha kolay takip edilebilir hâle getirilmektedir.",
         "B": "Bilgi metin içerisinde kolay erişilebilir şekilde verildiğinde okuyucunun konuya hâkimiyeti artar.",
-        "C": "Deneyim aktarımı sözlü bilgiyi yaygınlaştıran bir faaliyet olarak önemli ölçüde bir birikimin oluşmasına katkı sağlamıştır.",
+        "C": "Deneyim aktarımı sözlü bilgiyi yaygınlaştıran bir faaliyet olarak önemli ölçüde bir birikimin oluşmasına katkı sağlamıştır.",
         "D": "Maddeler hâlinde verilen bilgiler, okuyucunun konuyu daha kolay hazmetmesini sağlar.",
-        "E": "Grafikler bilgi ve içerik görselleştirme yöntemidir ve tercih edilen formların verilerle kurulan nesnel ilişkisinden yararlanılır.",
+        "E": "Grafikler bilgi ve içerik görselleştirme yöntemidir ve tercih edilen formların verilerle kurulan nesnel ilişkisinden yararlanılır.",
         "DogruCevap": "C",
         "DersAd": "Bilgi Görselleştirme",
         "Unite": 5,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Deneyim aktarımı sözlü bilgiyi yaygınlaştıran bir faaliyet olarak önemli ölçüde bir birikimin oluşmasına katkı sağlamıştır."
+        "Aciklama": "Bilginin Metin Olarak Gösterilmesi<br>Deneyim aktarımı sözlü bilgiyi yaygınlaştıran bir faaliyet olarak önemli ölçüde bir birikimin oluşmasına katkı sağlamıştır."
     },
     {
         "SoruID": 3763355,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İndeks ya da fihrist"
+        "Aciklama": "Bilginin Tablo ile Gösterilmesi<br>İndeks ya da fihrist"
     },
     {
         "SoruID": 3763356,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlave bir görselleştirmenin tablo alanında yapılmasına imkan tanır"
+        "Aciklama": "Bilginin Tablo ile Gösterilmesi<br>İlave bir görselleştirmenin tablo alanında yapılmasına imkan tanır"
     },
     {
         "SoruID": 3763357,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Özünde doğruluğu içermiyorsa"
+        "Aciklama": "Bilginin Görselleştirilmesinde İçeriğin Önemi<br>Özünde doğruluğu içermiyorsa"
     },
     {
         "SoruID": 3763358,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sosyal medya gönderileri"
+        "Aciklama": "Bilgi Görselleştirmede Nesnellik<br>Sosyal medya gönderileri"
     },
     {
         "SoruID": 3763359,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çarpıtma ve Manipülasyon"
+        "Aciklama": "Görsel Tasarım Unsurları<br>Çarpıtma ve Manipülasyon"
     },
     {
         "SoruID": 3763360,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Verilerin vurgulanmasında ve dikkatin belirli bir noktaya odaklanmasında"
+        "Aciklama": "Görsel Tasarım Unsurları<br>Verilerin vurgulanmasında ve dikkatin belirli bir noktaya odaklanmasında"
     },
     {
         "SoruID": 3763361,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sabit bilgi"
+        "Aciklama": "Görsel Tasarım Unsurları<br>Sabit bilgi"
     },
     {
         "SoruID": 3763494,

@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3488742,
-        "SoruMetni": "Aşağıdakilerden hangisi bir hareketli grafik videosu üretmek için takip edilen adımlardan biri değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi bir hareketli grafik videosu üretmek için takip edilen adımlardan biri değildir?",
         "A": "Görüşme",
         "B": "Moodboard",
         "C": "Modelleme",
@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Raporlama bu süreçler içerisinde yer almaz. Görüşme ile başlayan süreç Montaj ve Kurgu aşaması ile sonlanır."
+        "Aciklama": "Raporlama bu süreçler içerisinde yer almaz. Görüşme ile başlayan süreç Montaj ve Kurgu aşaması ile sonlanır."
     },
     {
         "SoruID": 3488743,
-        "SoruMetni": "Üç boyutlu hareketli nesnelerin seçilen yazılımda  üç boyutlu olarak çizilmesine ne ad verilmektedir?",
+        "SoruMetni": "Üç boyutlu hareketli nesnelerin seçilen yazılımda üç boyutlu olarak çizilmesine ne ad verilmektedir?",
         "A": "Modelleme",
         "B": "Doku kaplama",
         "C": "Hareketlendirme",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3488747,
-        "SoruMetni": "2007 yılında bir belgesel dizisi olan How We Built Britain için yönetmen Gareth Edwards tarafından hazırlanan  jenerik aşağıdaki yöntemlerden hangisi ile üretilmiştir?",
+        "SoruMetni": "2007 yılında bir belgesel dizisi olan How We Built Britain için yönetmen Gareth Edwards tarafından hazırlanan jenerik aşağıdaki yöntemlerden hangisi ile üretilmiştir?",
         "A": "3 Boyutlu Bilgisayar Animasyonu",
         "B": "Cel Animasyon",
         "C": "Cut-out",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3488748,
-        "SoruMetni": "Cinema 4D arayüzünde sahnedeki tüm ögeleri listeleyen ve  bir sahnede nesneleri ve bunların hiyerarşisini gösteren bir yapı olarak biçimlendiren menü aşağıdakilerden hangisidir?",
+        "SoruMetni": "Cinema 4D arayüzünde sahnedeki tüm ögeleri listeleyen ve bir sahnede nesneleri ve bunların hiyerarşisini gösteren bir yapı olarak biçimlendiren menü aşağıdakilerden hangisidir?",
         "A": "Koordinatlar Yöneticisi",
         "B": "Malzeme Yöneticisi",
         "C": "Nesne Yöneticisi",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3488749,
-        "SoruMetni": "Seçilen bir nesnenin konumu, boyutu ve dönüşü hakkında bilgi olarak kullanılabilen veya nesneyi değiştirmek için sayısal veriler sağladığı için hassas modelleme veya işleme için kullanılan Cinema 4D arayüzündeki ana yönetici menü aşağıdakilerden hangisidir?",
+        "SoruMetni": "Seçilen bir nesnenin konumu, boyutu ve dönüşü hakkında bilgi olarak kullanılabilen veya nesneyi değiştirmek için sayısal veriler sağladığı için hassas modelleme veya işleme için kullanılan Cinema 4D arayüzündeki ana yönetici menü aşağıdakilerden hangisidir?",
         "A": "Object Manager",
         "B": "Attributes Manager",
         "C": "Materials Manager",
@@ -377,11 +377,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Televizyonda en sık rastlanan hareketli grafik uygulamalarına broadcasting denilen kanalların haber, spor, reklam gibi programların başlangıç ve kapanış tasarımlarında rastlanılmaktadır. Tasarım stüdyoları kanallar için kurumsal bir tasarım (id pack) üretir ve tüm tasarımlar bu çerçevede yapılır. Aynı tasarım anlayışı haber, spor, eğlence ve reklam gibi tüm programlara uygulanır. Yirminci yüzyılda yayına başlayan Doctor Who dizisi geçmiş ile günümüz tasarımlarını karşılaştırmak adına uygun bir örnektir. Öyle ki BBC tarafından 1963 yılında çekilmeye başlanan Doctor Who adlı televizyon dizisi açılış jeneriklerinde kullandığı yaratıcı çözümler ile önemlidir. Doğru cevap D seçeneğidir."
+        "Aciklama": "Televizyonda en sık rastlanan hareketli grafik uygulamalarına broadcasting denilen kanalların haber, spor, reklam gibi programların başlangıç ve kapanış tasarımlarında rastlanılmaktadır. Tasarım stüdyoları kanallar için kurumsal bir tasarım (id pack) üretir ve tüm tasarımlar bu çerçevede yapılır. Aynı tasarım anlayışı haber, spor, eğlence ve reklam gibi tüm programlara uygulanır. Yirminci yüzyılda yayına başlayan Doctor Who dizisi geçmiş ile günümüz tasarımlarını karşılaştırmak adına uygun bir örnektir. Öyle ki BBC tarafından 1963 yılında çekilmeye başlanan Doctor Who adlı televizyon dizisi açılış jeneriklerinde kullandığı yaratıcı çözümler ile önemlidir. Doğru cevap D seçeneğidir."
     },
     {
         "SoruID": 3489064,
-        "SoruMetni": "Yaratıcı yönetmenliği Brandon Hırzel tarafından yapılan She Wolf müzik klibinin hareketli grafikleri hangi yazılımla üretilmiştir?",
+        "SoruMetni": "Yaratıcı yönetmenliği Brandon Hırzel tarafından yapılan She Wolf müzik klibinin hareketli grafikleri hangi yazılımla üretilmiştir?",
         "A": "Cut-out Yöntemi",
         "B": "Motion Capture Yöntemi",
         "C": "Adobe After Effects",
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Moodboard"
+        "Aciklama": "Moodboard: Video yapımında kullanılması<br/>düşünülen tüm nesne ve ögeler (gerçek veya dijital)<br/>fotoğraf, illüstrasyon, metinler, font, renk, müzik<br/>ve varsa seslendirme bir pano hâlinde tasarlanır."
     },
     {
         "SoruID": 3489189,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Modelleme"
+        "Aciklama": "Modelleme: Üç boyutlu hareketli grafik yapılacaksa<br/>kullanılacak nesneler öncelikle seçilen yazılımda<br/>(3Ds Max Studio, Cinema 4D, Blender,<br/>Maya vb.) üç boyutlu olarak çizilir."
     },
     {
         "SoruID": 3489190,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cel Animasyon"
+        "Aciklama": "Kare kare animasyon, geleneksel animasyon<br/>tekniğidir. Zoetrope gibi cihazların ortaya çıkmasıyla<br/>beraber kökleri on dokuzuncu yüzyıla kadar<br/>dayanmaktadır. Animasyon süreci kullanılacak sekansların<br/>her bir karesini ayrı bir sayfaya çizmeyi ve<br/>ardından sekansları istenen hızda ve sırayla görüntülemeyi<br/>içermektedir.<br>Cel Animasyon"
     },
     {
         "SoruID": 3489191,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cut out"
+        "Aciklama": "Cut-out Yöntemi<br/>Bu yöntemde, animasyondaki tüm parçalar ayrı ayrı hareket ettirilerek yapılmaktadır. Elde kesilmiş<br/>ögeler öndeki figür, arka plan ve yazılar gibi ayrı katmanlara yerleştirilerek hareket ettirilmektedir.<br>Cut out"
     },
     {
         "SoruID": 3489192,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Stop-motion"
+        "Aciklama": "Stop-motion animasyon, bir nesnenin adımlarını fotoğraflayarak nesneyi her çekim arasında<br/>küçük değişimlerle hareket ettirme işlemidir. Tekrarlanan bu küçük değişimler birleştirildiğinde<br/>sürekli hareket yanılsaması verir. Stop-motion animasyonun kökenleri neredeyse animasyonun<br/>kendisi kadar eskidir ve en eski örnekleri ondokuzuncu yüzyılın sonlarında ortaya<br/>çıkmıştır. Teknik, başlangıcından bu yana çok az değişime uğramıştır (Crook ve Beare, 2017)."
     },
     {
         "SoruID": 3489193,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Rotoskopi"
+        "Aciklama": "Rotoskopi, gerçek görüntüleri çizgi film görüntülerine dönüştürmek için kullanılan bir animasyon<br/>tekniğidir. Herhangi bir ortamda çekilen gerçek görüntüler farklı bir arka plan veya sahneye alınıp kare<br/>kare birleştirmektedir."
     },
     {
         "SoruID": 3489194,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Motion Capture"
+        "Aciklama": "Motion Capture Yöntemi<br/>Gerçek aktörlerin hareketlerinin 3 boyutlu iskelet sistemine aktarılmasına ve sonrasında bilgisayara<br/>alınarak hareketlendirilerek oluşturulmasına verilen isimdir. Bu yöntem ile kayıt edilen aktörlerin yerini<br/>bilgisayarda çizgi, şekil, nesne veya üretilen hayali karakterler alabilmektedir."
     },
     {
         "SoruID": 3489195,
@@ -557,11 +557,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cinema 4D"
+        "Aciklama": "Cinema 4D yazılımı üç boyutlu hareketli grafikler,<br/>ürün görselleştirmeleri, video, animasyon gibi grafik<br/>unsurlarını oluşturmak için kullanılmaktadır."
     },
     {
         "SoruID": 3489196,
-        "SoruMetni": "2 ve 3 boyutlu (element 3D vb eklenti veya 3D kamera) tasarımlar üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren  görüntü işleme yazılımı aşağıdakilerden hangisidir?",
+        "SoruMetni": "2 ve 3 boyutlu (element 3D vb eklenti veya 3D kamera) tasarımlar üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren görüntü işleme yazılımı aşağıdakilerden hangisidir?",
         "A": "Maxon Cinema 4D",
         "B": "Motion Capture",
         "C": "Rotoskopi",
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Adobe After Effects"
+        "Aciklama": "Adobe After Effects<br/>After Effects yazılımı, 2 ve 3 boyutlu (element<br/>3D vb eklenti veya 3D kamera) tasarımlar üretilmesine,<br/>değiştirilmesine, birleştirilmesine ve canlandırılmasına<br/>izin veren bir görüntü işleme yazılımıdır."
     },
     {
         "SoruID": 3489197,
@@ -597,11 +597,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Adobe Premiere"
+        "Aciklama": "Adobe Premiere<br/>Adobe Premiere, hareketli grafik tasarımcılarının geçişler, görsel efektler, ses efektleri, müzik ve birden<br/>fazla videoyu birbirine ekleme gibi son dokunuşları eklemek için kullandıkları montaj yazılımıdır. Videonun<br/>son halini alması için gereken akış ve senkronizasyon gibi düzenlemeler Adobe Premiere yazılımı<br/>kullanılarak yapılabilmektedir."
     },
     {
         "SoruID": 3489198,
-        "SoruMetni": "İyi bir hareketli grafik videosu üretmek için gerekli olan adımlarda biri olan ve modellenen, hareketlendirilen, kaplanan sonra ışıklandırılan nesneler ile üretilen videoların görselleri, render motorları ile nesneleri, ışıkları, efektleri ve diğer detayların hesaplandığı ve görüntülerin (hareketli veya durağan) üretildiği aşamaya aşağıdaki şıklarda belirtilen adlardan hangisi verilmiştir ?",
+        "SoruMetni": "İyi bir hareketli grafik videosu üretmek için gerekli olan adımlarda biri olan ve modellenen, hareketlendirilen, kaplanan sonra ışıklandırılan nesneler ile üretilen videoların görselleri, render motorları ile nesneleri, ışıkları, efektleri ve diğer detayların hesaplandığı ve görüntülerin (hareketli veya durağan) üretildiği aşamaya aşağıdaki şıklarda belirtilen adlardan hangisi verilmiştir ?",
         "A": "Render",
         "B": "Kaplama",
         "C": "Kamera",
@@ -617,11 +617,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Render: Modellenen, hareketlendirilen, kaplanan sonra ışıklandırılan nesneler ile üretilen videoların görselleri, render motorları ile nesneleri, ışıkları, efektleri ve diğer detayları hesaplanır ve görüntüleri (hareketli veya durağan) üretilir. Dolayısıyla cevap A şıkkıdır."
+        "Aciklama": "Render: Modellenen, hareketlendirilen, kaplanan sonra ışıklandırılan nesneler ile üretilen videoların görselleri, render motorları ile nesneleri, ışıkları, efektleri ve diğer detayları hesaplanır ve görüntüleri (hareketli veya durağan) üretilir. Dolayısıyla cevap A şıkkıdır."
     },
     {
         "SoruID": 3489199,
-        "SoruMetni": "İyi bir hareketli grafik videosu üretmek için gerekli adımlardan biri olan ve video yapımında kullanılması düşünülen tüm nesne ve ögeler (gerçek veya dijital) fotoğraf, illüstrasyon, metinler, font, renk, müzik ve varsa seslendirmelerin bir pano hâlinde tasarlandığı aşama aşağıdaki şıklardan hangisinde belirtilmiştir ?",
+        "SoruMetni": "İyi bir hareketli grafik videosu üretmek için gerekli adımlardan biri olan ve video yapımında kullanılması düşünülen tüm nesne ve ögeler (gerçek veya dijital) fotoğraf, illüstrasyon, metinler, font, renk, müzik ve varsa seslendirmelerin bir pano hâlinde tasarlandığı aşama aşağıdaki şıklardan hangisinde belirtilmiştir ?",
         "A": "Storyboard",
         "B": "Moodboard",
         "C": "Modelleme",
@@ -637,11 +637,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Moodboard: Video yapımında kullanılması düşünülen tüm nesne ve ögeler (gerçek veya dijital) fotoğraf, illüstrasyon, metinler, font, renk, müzik ve varsa seslendirme bir pano hâlinde tasarlanır. Dolayısıyla cevap B şıkkıdır."
+        "Aciklama": "Moodboard: Video yapımında kullanılması düşünülen tüm nesne ve ögeler (gerçek veya dijital) fotoğraf, illüstrasyon, metinler, font, renk, müzik ve varsa seslendirme bir pano hâlinde tasarlanır. Dolayısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3489200,
-        "SoruMetni": "En geleneksel animasyon biçimlerinden biri olan ve genellikle karakterler olmak üzere nesnelerin şeffaf selüloit yapraklara elle çizilmesi ve boyalı arka planlara yerleştirilmesi ile oluşan hareketli grafik yapımı yöntemine verilen ad aşağıdaki hangi şıkta belirtilmiştir ?",
+        "SoruMetni": "En geleneksel animasyon biçimlerinden biri olan ve genellikle karakterler olmak üzere nesnelerin şeffaf selüloit yapraklara elle çizilmesi ve boyalı arka planlara yerleştirilmesi ile oluşan hareketli grafik yapımı yöntemine verilen ad aşağıdaki hangi şıkta belirtilmiştir ?",
         "A": "Stop motion yöntemi",
         "B": "Cut-out yöntemi",
         "C": "Cel animasyon yöntemi",
@@ -657,11 +657,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cel animasyon, en geleneksel animasyon biçimlerinden biridir ve genellikle  karakterler olmak üzere nesnelerin şeffaf selüloit yapraklara elle çizilmesi ve boyalı arka planlara yerleştirilmesi ile oluşur. Dolayısıyla cevap C şıkkıdır."
+        "Aciklama": "Cel animasyon, en geleneksel animasyon biçimlerinden biridir ve genellikle karakterler olmak üzere nesnelerin şeffaf selüloit yapraklara elle çizilmesi ve boyalı arka planlara yerleştirilmesi ile oluşur. Dolayısıyla cevap C şıkkıdır."
     },
     {
         "SoruID": 3489201,
-        "SoruMetni": "Gerçek görüntüleri çizgi film görüntülerine dönüştürmek için kullanılan bir animasyon tekniği olan ve herhangi bir ortamda çekilen gerçek görüntülerin farklı bir arka plan veya sahneye alınıp kare kare birleştirildiği hareketli grafik yapımı yöntemi aşağıdaki hangi şıkta belirtilmiştir.",
+        "SoruMetni": "Gerçek görüntüleri çizgi film görüntülerine dönüştürmek için kullanılan bir animasyon tekniği olan ve herhangi bir ortamda çekilen gerçek görüntülerin farklı bir arka plan veya sahneye alınıp kare kare birleştirildiği hareketli grafik yapımı yöntemi aşağıdaki hangi şıkta belirtilmiştir.",
         "A": "Cut-out yöntemi",
         "B": "Cel animasyon yöntemi",
         "C": "Stop motion yöntemi",
@@ -677,11 +677,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Rotoskopi, gerçek görüntüleri çizgi film görüntülerine dönüştürmek için kullanılan bir animasyon tekniğidir. Herhangi bir ortamda çekilen gerçek görüntüler farklı bir arka plan veya sahneye alınıp kare kare birleştirmektedir. Dolayısıyla cevap D şıkkıdır."
+        "Aciklama": "Rotoskopi, gerçek görüntüleri çizgi film görüntülerine dönüştürmek için kullanılan bir animasyon tekniğidir. Herhangi bir ortamda çekilen gerçek görüntüler farklı bir arka plan veya sahneye alınıp kare kare birleştirmektedir. Dolayısıyla cevap D şıkkıdır."
     },
     {
         "SoruID": 3489202,
-        "SoruMetni": "BBC’nin 2007 yılında bir belgesel dizisi olan How We Built Britain (İngiltere’yi Nasıl İnşa Ettik) için yönetmen Gareth Edwards tarafından bir film jeneriği tasarlanmıştır. Jenerik tamamen üç boyutlu bir animasyon olarak tasarlanmasa da farklı yazılımlardan yararlanılarak 3 boyutlu ögeler kullanılarak oluşturulması açısından önemlidir. Braha ve Byrne’a göre Gareth, kabul edilen konseptin dışında kaç farklı konsept üretmiştir ?",
+        "SoruMetni": "BBC’nin 2007 yılında bir belgesel dizisi olan How We Built Britain (İngiltere’yi Nasıl İnşa Ettik) için yönetmen Gareth Edwards tarafından bir film jeneriği tasarlanmıştır. Jenerik tamamen üç boyutlu bir animasyon olarak tasarlanmasa da farklı yazılımlardan yararlanılarak 3 boyutlu ögeler kullanılarak oluşturulması açısından önemlidir. Braha ve Byrne’a göre Gareth, kabul edilen konseptin dışında kaç farklı konsept üretmiştir ?",
         "A": "4",
         "B": "7",
         "C": "5",
@@ -697,11 +697,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BBC’nin 2007 yılında bir belgesel dizisi olan How We Built Britain (İngiltere’yi Nasıl İnşa Ettik) için yönetmen Gareth Edwards tarafından bir film jeneriği tasarlanmıştır. Jenerik tamamen üç boyutlu bir animasyon olarak tasarlanmasa da farklı yazılımlardan yararlanılarak 3 boyutlu ögeler kullanılarak oluşturulması açısından önemlidir. Braha ve Byrne’a göre Gareth, kabul edilen konseptin dışında 8 farklı konsept üretmiştir. Dolayısıyla cevap E şıkkıdır."
+        "Aciklama": "BBC’nin 2007 yılında bir belgesel dizisi olan How We Built Britain (İngiltere’yi Nasıl İnşa Ettik) için yönetmen Gareth Edwards tarafından bir film jeneriği tasarlanmıştır. Jenerik tamamen üç boyutlu bir animasyon olarak tasarlanmasa da farklı yazılımlardan yararlanılarak 3 boyutlu ögeler kullanılarak oluşturulması açısından önemlidir. Braha ve Byrne’a göre Gareth, kabul edilen konseptin dışında 8 farklı konsept üretmiştir. Dolayısıyla cevap E şıkkıdır."
     },
     {
         "SoruID": 3489203,
-        "SoruMetni": "Gerçek aktörlerin hareketlerinin 3 boyutlu iskelet sistemine aktarılmasına ve sonrasında bilgisayara alınarak hareketlendirilerek oluşturulan ve bu yöntem ile kayıt edilen aktörlerin yerini bilgisayarda çizgi, şekil, nesne veya üretilen hayali karakterler alabildiği hareketli grafik yapımı yöntemine verilen isim aşağıdaki hangi şıkta belirtilmiştir ?",
+        "SoruMetni": "Gerçek aktörlerin hareketlerinin 3 boyutlu iskelet sistemine aktarılmasına ve sonrasında bilgisayara alınarak hareketlendirilerek oluşturulan ve bu yöntem ile kayıt edilen aktörlerin yerini bilgisayarda çizgi, şekil, nesne veya üretilen hayali karakterler alabildiği hareketli grafik yapımı yöntemine verilen isim aşağıdaki hangi şıkta belirtilmiştir ?",
         "A": "Motion capture yöntemi",
         "B": "Cel animasyon yöntemi",
         "C": "Rotoskopi yöntemi",
@@ -717,11 +717,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Motion Capture Yöntemi: Gerçek aktörlerin hareketlerinin 3 boyutlu iskelet sistemine aktarılmasına ve sonrasında bilgisayara alınarak hareketlendirilerek oluşturulmasına verilen isimdir. Bu yöntem ile kayıt edilen aktörlerin yerini bilgisayarda çizgi, şekil, nesne veya üretilen hayali karakterler alabilmektedir. Dolayısıyla cevap A şıkkıdır."
+        "Aciklama": "Motion Capture Yöntemi: Gerçek aktörlerin hareketlerinin 3 boyutlu iskelet sistemine aktarılmasına ve sonrasında bilgisayara alınarak hareketlendirilerek oluşturulmasına verilen isimdir. Bu yöntem ile kayıt edilen aktörlerin yerini bilgisayarda çizgi, şekil, nesne veya üretilen hayali karakterler alabilmektedir. Dolayısıyla cevap A şıkkıdır."
     },
     {
         "SoruID": 3489204,
-        "SoruMetni": "Hareketli grafikler, modelleme, animasyon ve simülasyon efektleri için yaygın olarak kullanılan, özellikle televizyon yayıncılığı (broadcasting), televizyon reklamcılığında (commercials) tercih edilen ve Adobe After Effects ile olan uyumu, hareketli tipografi tasarımı konusunda olan becerileri, çeşitli modelleme (MoGraph) teknikleri artılarından bazıları olan hareketli grafik oluşturma yazılımı aşağıdaki hangi şıkta belirtilmiştir ?",
+        "SoruMetni": "Hareketli grafikler, modelleme, animasyon ve simülasyon efektleri için yaygın olarak kullanılan, özellikle televizyon yayıncılığı (broadcasting), televizyon reklamcılığında (commercials) tercih edilen ve Adobe After Effects ile olan uyumu, hareketli tipografi tasarımı konusunda olan becerileri, çeşitli modelleme (MoGraph) teknikleri artılarından bazıları olan hareketli grafik oluşturma yazılımı aşağıdaki hangi şıkta belirtilmiştir ?",
         "A": "Adobe Premiere",
         "B": "Maxon Cinema 4D",
         "C": "Adobe Photoshop",
@@ -737,11 +737,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareketli grafik tasarımcıları, Cinema 4D yazılımını, hareketli grafikler, modelleme, animasyon ve simülasyon efektleri için yaygın olarak kullanılmaktadır. Yazılım özellikle televizyon yayıncılığı (broadcasting), televizyon reklamcılığında (commercials) kullanılmaktadır. Yazılımın Adobe After Effects ile olan uyumu, hareketli tipografi tasarımı konusunda olan becerileri, çeşitli modelleme (MoGraph) teknikleri artılarından bazılarıdır. Dolayısıyla cevap B şıkkıdır."
+        "Aciklama": "Hareketli grafik tasarımcıları, Cinema 4D yazılımını, hareketli grafikler, modelleme, animasyon ve simülasyon efektleri için yaygın olarak kullanılmaktadır. Yazılım özellikle televizyon yayıncılığı (broadcasting), televizyon reklamcılığında (commercials) kullanılmaktadır. Yazılımın Adobe After Effects ile olan uyumu, hareketli tipografi tasarımı konusunda olan becerileri, çeşitli modelleme (MoGraph) teknikleri artılarından bazılarıdır. Dolayısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3489205,
-        "SoruMetni": "Cinema 4D arayüzü kaç adet ana yönetici menüden oluşmaktadır ?",
+        "SoruMetni": "Cinema 4D arayüzü kaç adet ana yönetici menüden oluşmaktadır ?",
         "A": "5",
         "B": "2",
         "C": "4",
@@ -757,16 +757,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cinema 4D arayüzü 4 ana yönetici menüden oluşmaktadır. Dolayısıyla cevap C şıkkıdır."
+        "Aciklama": "Cinema 4D arayüzü 4 ana yönetici menüden oluşmaktadır. Dolayısıyla cevap C şıkkıdır."
     },
     {
         "SoruID": 3489206,
-        "SoruMetni": "Hareketli grafik tasarımcılarının geçişler, görsel efektler, ses efektleri, müzik ve birden fazla videoyu birbirine ekleme gibi son dokunuşları eklemek için kullandıkları montaj yazılımına verilen isim aşağıdaki hangi şıkta belirtilmiştir ?",
+        "SoruMetni": "Hareketli grafik tasarımcılarının geçişler, görsel efektler, ses efektleri, müzik ve birden fazla videoyu birbirine ekleme gibi son dokunuşları eklemek için kullandıkları montaj yazılımına verilen isim aşağıdaki hangi şıkta belirtilmiştir ?",
         "A": "Adobe After Effects",
         "B": "Maxon Cinema 4D",
         "C": "Final Cut Pro",
         "D": "Adobe Premiere",
-        "E": "Avid Video Composer",
+        "E": "Avid Video Composer",
         "DogruCevap": "D",
         "DersAd": "Dijital Görüntüleme İşleme Yöntemleri",
         "Unite": 4,
@@ -777,11 +777,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Adobe Premiere, hareketli grafik tasarımcılarının geçişler, görsel efektler, ses efektleri, müzik ve birden fazla videoyu birbirine ekleme gibi son dokunuşları eklemek için kullandıkları montaj yazılımıdır. Dolayısıyla cevap D şıkkıdır."
+        "Aciklama": "Adobe Premiere, hareketli grafik tasarımcılarının geçişler, görsel efektler, ses efektleri, müzik ve birden fazla videoyu birbirine ekleme gibi son dokunuşları eklemek için kullandıkları montaj yazılımıdır. Dolayısıyla cevap D şıkkıdır."
     },
     {
         "SoruID": 3489207,
-        "SoruMetni": "Hareketli grafik, çeşitli yerlerde kullanılan kimliklerde karşımıza çıkmaktadır. Hareketli grafik kullanım alanları temel olarak kaça ayrılabilir ?",
+        "SoruMetni": "Hareketli grafik, çeşitli yerlerde kullanılan kimliklerde karşımıza çıkmaktadır. Hareketli grafik kullanım alanları temel olarak kaça ayrılabilir ?",
         "A": "Beş",
         "B": "İki",
         "C": "Dört",
@@ -797,6 +797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareketli grafik, jeneriklerde, reklam filmlerinde, TV reklamlarında, etkileşimli yazılımlarda, web sayfası tasarımlarında ve kısa logo animasyonlarında veya televizyon/internet yayınlarında kullanılan kimliklerde karşımıza çıkmaktadır. Bununla birlikte hareketli grafik kullanım alanları temel olarak üçe ayrılabilir, Bunlar: Sinema, Televizyon ve Dijital Ortamlar olarak sınıflandırılabilir. Dolayısıyla cevap E şıkkıdır."
+        "Aciklama": "Hareketli grafik, jeneriklerde, reklam filmlerinde, TV reklamlarında, etkileşimli yazılımlarda, web sayfası tasarımlarında ve kısa logo animasyonlarında veya televizyon/internet yayınlarında kullanılan kimliklerde karşımıza çıkmaktadır. Bununla birlikte hareketli grafik kullanım alanları temel olarak üçe ayrılabilir, Bunlar: Sinema, Televizyon ve Dijital Ortamlar olarak sınıflandırılabilir. Dolayısıyla cevap E şıkkıdır."
     }
 ]

@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264382,
@@ -35,11 +36,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 264384,
-        "SoruMetni": "I. Alıcı süreç<br/> <br/>II. Simgesel süreç<br> <br/>III. Duyusal süreç<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri algı sürecinin bölümlerindendir?</strong></br></br>",
+        "SoruMetni": "I. Alıcı süreç<br/>II. Simgesel süreç<br/>III. Duyusal süreç<br/><strong>Yukarıdakilerden hangisi ya da hangileri algı sürecinin bölümlerindendir?</strong></br></br>",
         "A": "Yalnız I",
         "B": "II ve III",
         "C": "I, II ve III",
@@ -54,7 +56,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264385,
@@ -73,11 +76,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 264388,
-        "SoruMetni": "<strong>I. Aynı doğrultuda yürüyen insanlar küme hâlinde algılanabilir<br/> <br/>II. Sürü halinde ilerleyen kuşlar grup olarak algılanır<br> <br/>III. Cümle içinde birbirine yakın konumlanmış harf grupları kelime olarak algılanır<br> <br/>Yukarıda verilen örnekler hangi görsel algılama ilkesine uygundur?</br></br></strong>",
+        "SoruMetni": "<strong>I. Aynı doğrultuda yürüyen insanlar küme hâlinde algılanabilir<br/>II. Sürü halinde ilerleyen kuşlar grup olarak algılanır<br/>III. Cümle içinde birbirine yakın konumlanmış harf grupları kelime olarak algılanır<br/>Yukarıda verilen örnekler hangi görsel algılama ilkesine uygundur?</br></br></strong>",
         "A": "Yakınlık ilkesi",
         "B": "Tamamlama ilkesi",
         "C": "Benzerlik ilkesi",
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266651,
@@ -111,11 +116,12 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266654,
-        "SoruMetni": "Bir elma gördüğümüzde meyvenin rengi, formu, tadı ve kokusu dışında Adem ile Havva, Apple veya Newton ile bağ kurarız.<br/> <br/><strong>Aşağıdakilerden hangisi cümlede bahsedilen durumu açıklar?</strong>",
+        "SoruMetni": "Bir elma gördüğümüzde meyvenin rengi, formu, tadı ve kokusu dışında Adem ile Havva, Apple veya Newton ile bağ kurarız.<br/><strong>Aşağıdakilerden hangisi cümlede bahsedilen durumu açıklar?</strong>",
         "A": "Süreklilik İlkesi",
         "B": "Benzerlik İlkesi",
         "C": "Yakınlık İlkesi",
@@ -130,11 +136,12 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 266658,
-        "SoruMetni": "<strong>“…………., organizmamızın işleyiş mekanizması gereği görsel dünya uyarılarını tanımlayarak soyutlama yeteneğidir.”<br/> <br/>Yukarıda verilen tanımlamada boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "<strong>“…………., organizmamızın işleyiş mekanizması gereği görsel dünya uyarılarını tanımlayarak soyutlama yeteneğidir.”<br/>Yukarıda verilen tanımlamada boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?</strong>",
         "A": "Alıcı süreç",
         "B": "Simgesel süreç",
         "C": "Bakma",
@@ -149,11 +156,12 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266661,
-        "SoruMetni": "<strong>I. Renk<br/> <br/>II. Doku<br> <br/>III. Afiş<br> <br/>IV. Çizgi<br> <br/>Yukarıda verilen seçeneklerden hangileri tasarım yüzeyini oluşturan unsurlar arasında yer alır?</br></br></br></strong>",
+        "SoruMetni": "<strong>I. Renk<br/>II. Doku<br/>III. Afiş<br/>IV. Çizgi<br/>Yukarıda verilen seçeneklerden hangileri tasarım yüzeyini oluşturan unsurlar arasında yer alır?</br></br></br></strong>",
         "A": "I ve II",
         "B": "I, II ve IV",
         "C": "I, II ve III",
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266662,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 266664,
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266667,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 266669,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 332175,
@@ -263,11 +276,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 332179,
-        "SoruMetni": "............... kavramı, herhangi bir görsel ögenin parçalara ayrılmış birimlerini bütün olarak algılatacağı gibi, farklı bir formu da görünür kılacak şartları belirleyebilir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "............... kavramı, herhangi bir görsel ögenin parçalara ayrılmış birimlerini bütün olarak algılatacağı gibi, farklı bir formu da görünür kılacak şartları belirleyebilir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Arka plan",
         "B": "Perspektif",
         "C": "Benzerlik",
@@ -282,11 +296,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 332183,
-        "SoruMetni": "<strong>Aynı yöndeki uyarıların bütün olarak algılandığını işaret eden Gestalt Algılanma İlkesi aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Aynı yöndeki uyarıların bütün olarak algılandığını işaret eden Gestalt Algılanma İlkesi aşağıdakilerden hangisidir?</strong>",
         "A": "Şekil ve Zemin İlkesi",
         "B": "Yakınlık İlkesi",
         "C": "Benzerlik İlkesi",
@@ -301,11 +316,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 332191,
-        "SoruMetni": "I. Serap görmek<br/> <br/>II. İşittiğimiz sesi başka sese benzetmek<br> <br/>III. Gökyüzünde hızla ilerleyen  bir uçağın yavaş ilerlediği yanılgısına kapılmak<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri algıya getirdiğimiz yorumdur?</strong></br></br>",
+        "SoruMetni": "I. Serap görmek<br/>II. İşittiğimiz sesi başka sese benzetmek<br/>III. Gökyüzünde hızla ilerleyen bir uçağın yavaş ilerlediği yanılgısına kapılmak<br/><strong>Yukarıdakilerden hangisi ya da hangileri algıya getirdiğimiz yorumdur?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -320,7 +336,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 332197,
@@ -339,11 +356,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 367715,
-        "SoruMetni": "<strong>Görsel uyaranların birbirleriyle olan konumlarının bu  ögeleri bütünsel bir yapıda algılatabileceğini gösteren Gestalt algılama ilkesi aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Görsel uyaranların birbirleriyle olan konumlarının bu ögeleri bütünsel bir yapıda algılatabileceğini gösteren Gestalt algılama ilkesi aşağıdakilerden hangisidir?</strong>",
         "A": "Şekil",
         "B": "Yanılsama",
         "C": "Yakınlık",
@@ -358,16 +376,17 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 367721,
-        "SoruMetni": "<strong>Görsel iletişim tasarımında görsel hiyerarşi ve vurguyu belirleyen en önemli yapı elemanı aşağıdakilerden hangisidir?</strong>",
-        "A": "Yakınlık İlkesi",
-        "B": "Şekil ve Zemin İlkesi",
-        "C": "Benzerlik İlkesi",
-        "D": "Tamamlama İlkesi",
-        "E": "Süreklilik İlkesi",
+        "SoruMetni": "<strong>Görsel iletişim tasarımında görsel hiyerarşi ve vurguyu belirleyen en önemli yapı elemanı aşağıdakilerden hangisidir?</strong>",
+        "A": "Yakınlık İlkesi",
+        "B": "Şekil ve Zemin İlkesi",
+        "C": "Benzerlik İlkesi",
+        "D": "Tamamlama İlkesi",
+        "E": "Süreklilik İlkesi",
         "DogruCevap": "B",
         "DersAd": "Temel Tasarım I",
         "Somestre": 1,
@@ -377,15 +396,16 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 367783,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi Gestalt Algılama İlkeleri'nin özelliklerinden biri <u>değildir</u>?</strong>",
-        "A": "Tasarım sürecini ilgilendiren pek çok grafik öğe arasında bağlantılar kurmayı sağlayabilir.",
-        "B": "Tasarımın görsel hiyerarşisini bütünsel bir sistemle değerlendirmeye katkı sunabilir.",
-        "C": "Tasarımın vurgusunu etkileyebilir.",
-        "D": "Tasarımın içeriği ve biçim dili arasındaki etkileşimi güçlendirebilir.",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi Gestalt Algılama İlkeleri'nin özelliklerinden biri <u>değildir</u>?</strong>",
+        "A": "Tasarım sürecini ilgilendiren pek çok grafik öğe arasında bağlantılar kurmayı sağlayabilir.",
+        "B": "Tasarımın görsel hiyerarşisini bütünsel bir sistemle değerlendirmeye katkı sunabilir.",
+        "C": "Tasarımın vurgusunu etkileyebilir.",
+        "D": "Tasarımın içeriği ve biçim dili arasındaki etkileşimi güçlendirebilir.",
         "E": "Tasarımın rengi, kompozisyon algısını etkileyebilir.",
         "DogruCevap": "E",
         "DersAd": "Temel Tasarım I",
@@ -396,11 +416,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 390412,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi Gestalt algılama ilkelerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi Gestalt algılama ilkelerinden biri <u>değildir</u>?</strong>",
         "A": "Tasarım sürecini ilgilendiren pek çok grafik öge arasında bağlantılar kurmayı sağlayabilir.",
         "B": "Tasarımın görsel hiyerarşisini bütünsel bir sistemle değerlendirmeye katkı sunabilir.",
         "C": "Tasarımın vurgusunu etkileyebilir.",
@@ -415,11 +436,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 390850,
-        "SoruMetni": "<strong> İnsan algısındaki her yapıyı bir kavramla ilişkilendirip bir bütün olarak değerlendirme süreci aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong> İnsan algısındaki her yapıyı bir kavramla ilişkilendirip bir bütün olarak değerlendirme süreci aşağıdakilerden hangisidir?</strong>",
         "A": "Simgesel Süreç",
         "B": "Alıcı Süreç",
         "C": "Uygulayıcı Süreç",
@@ -434,11 +456,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 392371,
-        "SoruMetni": "<strong>1995 yılında tasarlanan, şekil ve zemin algısının değişken yapısının izlenebildiği afiş aşağıdaki hangi sanatçıya aittir?</strong>",
+        "SoruMetni": "<strong>1995 yılında tasarlanan, şekil ve zemin algısının değişken yapısının izlenebildiği afiş aşağıdaki hangi sanatçıya aittir?</strong>",
         "A": "Shigeo Fukuda",
         "B": "Yossi Lemel",
         "C": "Gleitman",
@@ -453,6 +476,7 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     }
 ]

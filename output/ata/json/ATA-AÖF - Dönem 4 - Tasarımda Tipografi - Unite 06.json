@@ -9,14 +9,15 @@
         "E": "Sosyal bilimler alanındaki gelişmeler",
         "DogruCevap": "B",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 338310,
@@ -35,7 +36,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 338311,
@@ -47,14 +49,15 @@
         "E": "Görselliği ön plana çıkarmak için",
         "DogruCevap": "D",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 338312,
@@ -73,7 +76,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 338421,
@@ -92,7 +96,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 338422,
@@ -104,14 +109,15 @@
         "E": "Altın Kollu Adam",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 338423,
@@ -123,14 +129,15 @@
         "E": "Sosyal medya uygulamalarının video dosyalarını desteklemeye başlaması",
         "DogruCevap": "D",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 338424,
@@ -142,14 +149,15 @@
         "E": "Last Kingdom, 2011",
         "DogruCevap": "C",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 338425,
@@ -161,14 +169,15 @@
         "E": "Mobil internet hızlarının artması",
         "DogruCevap": "B",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 342949,
@@ -180,18 +189,19 @@
         "E": "Sarp Sözdinler",
         "DogruCevap": "C",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 343486,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi reklamlar için kullanılan belli başlı animasyon tekniklerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi reklamlar için kullanılan belli başlı animasyon tekniklerinden biri <u>değildir</u>?</strong>",
         "A": "Stop jenerik",
         "B": "Kare kare çizim yöntemi",
         "C": "Stop motion",
@@ -199,14 +209,15 @@
         "E": "Üç boyutlu görüntüler",
         "DogruCevap": "A",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 347929,
@@ -218,14 +229,15 @@
         "E": "Harold Lloyd",
         "DogruCevap": "D",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 347931,
@@ -237,14 +249,15 @@
         "E": "Saul Bass ile yakın arkadaşlık kurmaları",
         "DogruCevap": "B",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 347934,
@@ -256,14 +269,15 @@
         "E": "Sosyal medya uygulamalarındaki gelişmeler",
         "DogruCevap": "B",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 347935,
@@ -275,13 +289,14 @@
         "E": "Televizyon yöneticilerinin talepleri",
         "DogruCevap": "D",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     }
 ]

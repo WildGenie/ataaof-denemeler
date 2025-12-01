@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3764397,
-        "SoruMetni": "Matbaacılık tarihin­deki en önemli dönüm noktalarından biri, 1450’de Johannes Gutenberg tarafından Almanya’da mü­kemmelleştirilen ………….. baskı tekniğidir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Matbaacılık tarihin­deki en önemli dönüm noktalarından biri, 1450’de Johannes Gutenberg tarafından Almanya’da mü­kemmelleştirilen ………….. baskı tekniğidir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
         "A": "Tipo",
         "B": "Serigrafi",
         "C": "Litografi",
@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Matbaacılık tarihin­deki en önemli dönüm noktalarından biri, 1450’de Johannes Gutenberg tarafından Almanya’da mü­kemmelleştirilen tipo baskı tekniğidir."
+        "Aciklama": "Bir yüksek baskı çeşidi olan tipo baskı, birbirinden bağımsız olarak üretilmiş harflerin yan yana dizilerek, mü­rekkeplenip, basılacak kâğıda preslenmesi şeklinde özetlenebilir.<br>Matbaacılık tarihin­deki en önemli dönüm noktalarından biri, 1450’de Johannes Gutenberg tarafından Almanya’da mü­kemmelleştirilen tipo baskı tekniğidir."
     },
     {
         "SoruID": 3764402,
@@ -37,11 +37,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Litografi, fotoğraf teknolojisiyle bir araya geldiğinde, günümüz ofset baskı sistemlerinin sunduğu üretim imkanlarının temeli atılmıştır."
+        "Aciklama": "Fotoğrafın litografi ile buluşmasından önce, litografi daha kısıtlı bir üretim alanına sa­hipti.<br>Litografi, fotoğraf teknolojisiyle bir araya geldiğinde, günümüz ofset baskı sistemlerinin sunduğu üretim imkanlarının temeli atılmıştır."
     },
     {
         "SoruID": 3764405,
-        "SoruMetni": "…….. yılında Alois Senefelder’in litografiyi keşfetmesi, ofset baskının temel çalışma prensibi olan su ve yağın birbirlerine karış­maması ilkesinin baskı üretiminde kullanılmasını sağlamıştır.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "…….. yılında Alois Senefelder’in litografiyi keşfetmesi, ofset baskının temel çalışma prensibi olan su ve yağın birbirlerine karış­maması ilkesinin baskı üretiminde kullanılmasını sağlamıştır.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
         "A": "1450",
         "B": "1650",
         "C": "1698",
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1798 yılında Alois Senefelder’in litografiyi keşfetmesi, ofset baskının temel çalışma prensibi olan su ve yağın birbirlerine karış­maması ilkesinin baskı üretiminde kullanılmasını sağlamıştır."
+        "Aciklama": "Litografi öncesinde gravür, tipo baskı, ahşap baskı gibi tekniklerle üretilen baskılarda kalıp hazırlığı çukur ya da rölyef alanlar gerektirdiği için, oyma, kazıma, yontma, kalıp dökme gibi fiziksel süreçler gerektirmekteydi.<br>1798 yılında Alois Senefelder’in litografiyi keşfetmesi, ofset baskının temel çalışma prensibi olan su ve yağın birbirlerine karış­maması ilkesinin baskı üretiminde kullanılmasını sağlamıştır."
     },
     {
         "SoruID": 3764406,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1800’lü yılların başlarında Alois Senefelder çok renkli taş baskı denemeleri üzerinde çalışmaya başlamıştır."
+        "Aciklama": "Teknik hakkında yazdığı kitabında ise, gelecekte litografi­nin tablo gibi sanat eserlerinin yeniden üretiminde kullanılacağını tahmin ettiğini belirtmiştir.<br>1800’lü yılların başlarında Alois Senefelder çok renkli taş baskı denemeleri üzerinde çalışmaya başlamıştır."
     },
     {
         "SoruID": 3764408,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Joseph Niepce, 1826’da dünyanın ilk fotoğrafını üret­ti."
+        "Aciklama": "Joseph Niepce, Fransız bir bilim adamıdır.<br>Joseph Niepce, 1826’da dünyanın ilk fotoğrafını üret­ti."
     },
     {
         "SoruID": 3764410,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İngiltere’den Henry Talbot, 1852’de fotoğrafla­rın çoğaltılması için ilk yarı ton perdeyi kullandı."
+        "Aciklama": "Yaklaşık 33 yıl sonra, Amerikalı Frederick Ives, çizgilerle çizilmiş iki açık cam negatiften oluşan ilk pratik yarım ton perdeyi tasarladı.<br>İngiltere’den Henry Talbot, 1852’de fotoğrafla­rın çoğaltılması için ilk yarı ton perdeyi kullandı."
     },
     {
         "SoruID": 3764411,
@@ -137,11 +137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ofset baskı sistemleri çeşitli temel bi­leşenlerin bir araya gelmesi ile çalışır. Bu bileşenler;<br/> <ul> <li>Mürekkepleme ünitesi,</li> <li>Nemlendirme ünitesi,</li> <li>Kalıp silindiri,</li> <li>Blanket (Kauçuk) silindiri,</li> <li>Baskı silindiri.</li> </ul>"
+        "Aciklama": "Şekil 4.7 de Ofset baskı sisteminin şematik görünümü verilmiştir.<br>Ofset baskı sistemleri çeşitli temel bi­leşenlerin bir araya gelmesi ile çalışır. Bu bileşenler;<br/><ul> <li>Mürekkepleme ünitesi,</li> <li>Nemlendirme ünitesi,</li> <li>Kalıp silindiri,</li> <li>Blanket (Kauçuk) silindiri,</li> <li>Baskı silindiri.</li> </ul>"
     },
     {
         "SoruID": 3764423,
-        "SoruMetni": "………………….. baskının oluşturulması is­tenen görüntünün üzerine çeşitli işlemlerle aktarıl­dığı baskı kalıbını taşımakla görevlidir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "………………….. baskının oluşturulması is­tenen görüntünün üzerine çeşitli işlemlerle aktarıl­dığı baskı kalıbını taşımakla görevlidir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
         "A": "Blanket silindiri",
         "B": "Kalıp silindiri",
         "C": "Transfer silindiri",
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kalıp silindiri baskının oluşturulması is­tenen görüntünün üzerine çeşitli işlemlerle aktarıl­dığı baskı kalıbını taşımakla görevlidir."
+        "Aciklama": "Baskı kalıbı kalıp silindirinin etrafına sarılır ve sabitlenir.<br>Kalıp silindiri baskının oluşturulması is­tenen görüntünün üzerine çeşitli işlemlerle aktarıl­dığı baskı kalıbını taşımakla görevlidir."
     },
     {
         "SoruID": 3764425,
@@ -177,11 +177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Rotatif ofset adıyla da anılabilen ve gazeteler, kitaplar, dergi ve bro­şürler gibi yüksek baskı sayısına sahip ürünler ve baskı sonrasında forma hâline getirilerek ciltleme işlemi uygulanacak işler için daha uygun olan web ofset baskıdır."
+        "Aciklama": "En önemli avantajı basım hızı olan web ofset, tabaka ofset baskıda kullanıma uygun olmayan incelikte ve hafiflikte baskı altı malzemeleri kullanmaya da olanak tanır.<br>Rotatif ofset adıyla da anılabilen ve gazeteler, kitaplar, dergi ve bro­şürler gibi yüksek baskı sayısına sahip ürünler ve baskı sonrasında forma hâline getirilerek ciltleme işlemi uygulanacak işler için daha uygun olan web ofset baskıdır."
     },
     {
         "SoruID": 3764426,
-        "SoruMetni": "<strong>I.</strong> ElectroInk – elektro mürekkep       <br/> <strong>II.</strong> Anında renk değiştirme<br/> <strong>III.</strong> Termal ofset transfer teknolojisi    <br/> Yukarı verilen ifadelerden hangisi/hangileri Dijital of­set baskı sürecinin temel teknolojisidir?",
+        "SoruMetni": "<strong>I.</strong> ElectroInk – elektro mürekkep <br/><strong>II.</strong> Anında renk değiştirme<br/><strong>III.</strong> Termal ofset transfer teknolojisi <br/>Yukarı verilen ifadelerden hangisi/hangileri Dijital of­set baskı sürecinin temel teknolojisidir?",
         "A": "<span style=\"font-family: verdana, geneva, sans-serif;\">Yalnız I</span>",
         "B": "<span style=\"font-family: verdana, geneva, sans-serif;\">Yalnız III</span>",
         "C": "<span style=\"font-family: verdana, geneva, sans-serif;\">I ve II </span>",
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital of­set baskı sürecinin üç temel teknolojisi şunlardır:<br/> <ul> <li>ElectroInk – elektro mürekkep</li> <li>Termal ofset transfer teknolojisi</li> <li>Anında renk değiştirme.</li> </ul>"
+        "Aciklama": "Dijital ofset baskı sistemi, dijital baskı yöntem­lerinin avantajları ile geleneksel ofset baskının hız ve kalitesini bir araya getirmeyi amaçlayan yeni bir baskı sistemidir.<br>Dijital of­set baskı sürecinin üç temel teknolojisi şunlardır:<br/><ul> <li>ElectroInk – elektro mürekkep</li> <li>Termal ofset transfer teknolojisi</li> <li>Anında renk değiştirme.</li> </ul>"
     },
     {
         "SoruID": 3764495,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ofset baskı"
+        "Aciklama": "Hem tabaka hem de bobin kâğıt kullanımına imkân sağlayan türleri; iki renkten on iki renge<br/>kadar renk ünitesi bulunan alternatifleri, yüksek sayılı çoğaltımlarda sunduğu yüksek hız ve düşük<br/>maliyeti, tutarlı renk sonuçları, hassas baskı kalitesi gibi özellikleri ofset baskı tekniği yaygın olarak<br/>kullanılan baskı tekniklerinden biri yapmaktadır."
     },
     {
         "SoruID": 3764496,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Litografi-Fotoğraf"
+        "Aciklama": "Fotoğrafın litografi ile buluşmasından önce, litografi daha kısıtlı bir üretim alanına sahipken,<br/>fotoğraf teknolojisiyle bir araya geldiğinde, günümüz ofset baskı sistemlerinin sunduğu üretim<br/>imkanlarının temeli atılmıştır.<br>Litografi-Fotoğraf"
     },
     {
         "SoruID": 3764497,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Litografi"
+        "Aciklama": "Senefelder, litografiyi nasıl keşfettiğini anlatan kitabında bu süreci şu sözlerle özetlemiştir:<br/>“O anda böylesine yeni ve özgün bir matbaa türü icat edeceğimi tahmin edemezdim. Mekanik olmayan, tamamen kimyasal temellere dayalı bir yöntem…"
     },
     {
         "SoruID": 3764498,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kromolitografi"
+        "Aciklama": "Fransız sanatçı Engelmann, 1837 yılında <strong>kromolitografi</strong> tekniğinin patentini almış ve böylece tekniğin kâşifi Senefelder’in de üzerinde çalışmalar yaptığı renkli taş baskı tekniği hayata geçmiştir."
     },
     {
         "SoruID": 3764499,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ofset baskı"
+        "Aciklama": "Günümüzde en yaygın kullanılan baskı tekniklerinin başında gelen <strong>ofset baskı</strong>, renkli litografinin<br/>endüstriyel üretime uyarlanmış biçimidir."
     },
     {
         "SoruID": 3764500,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kauçuk bilyesi"
+        "Aciklama": "Ofset baskı sistemleri çeşitli temel bileşenlerin bir araya gelmesi ile çalışır. <strong>Bu bileşenler;</strong><br/>• Mürekkepleme ünitesi,<br/>• Nemlendirme ünitesi,<br/>• Kalıp silindiri,<br/>• Blanket (Kauçuk) silindiri,<br/>• Baskı silindiri.<br>Kauçuk bilyesi"
     },
     {
         "SoruID": 3764501,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Beyaz"
+        "Aciklama": "<strong>CMYK:</strong> Cyan (<strong>mav</strong>i/camgöbeği), Magenta (<strong>pembemsi kırmızı)</strong>, Yellow (<strong>sarı)</strong>, Key (<strong>Siyah</strong>) renklerinin kısaltmasıdır.<br>Beyaz"
     },
     {
         "SoruID": 3764502,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lazerli Ofset baskı"
+        "Aciklama": "Bu başlıkta inceleyeceğimiz ofset baskı çeşitlerinden ilk ikisi olan <strong>tabaka ofset</strong> ve <strong>web ofset baskı...</strong>İnceleyeceğimiz diğer iki ofset baskı türü olan <strong>nemlendirme sistemli ofset</strong> ve <strong>susuz (kuru) ofset baskı</strong> sistemleri ise, baskı aşamasında teknik ve süreç farklılıkları göstermektedir.<br>Lazerli Ofset baskı"
     },
     {
         "SoruID": 3764503,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gün ışığı"
+        "Aciklama": "Ofset baskıda baskı kalitesine etki çeşitli unsurlar bulunur. Kullanılan mürekkebin akışkanlığı,<br/>yoğunluğu, (nemlendirmeli ofset baskı sistemlerinde kullanılan) nemlendirme suyunun mürekkeple<br/>olan oranı, sertliği, içerdiği katkı malzemeleri, pH derecesi, kâğıdın nemi, kalıp ve blanket gibi parçaların koşulları, nokta kalitesi, hatta ortam ısısı gibi çok sayıda etmen baskı kalitesini etkilemektedir.<br>Gün ışığı"
     },
     {
         "SoruID": 3764504,
@@ -397,16 +397,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3"
+        "Aciklama": "Basılı grafik ürünlerin üretiminde rengi ölçmek için kullanılan <strong>üç önemli</strong> yöntemdir. <br/>1-Densitometre,<br/>2-Kalorimetre<br/>3-Spektral fotometreler,"
     },
     {
         "SoruID": 3764594,
-        "SoruMetni": "<span><span><span>Basılı grafik ürünlerin üretiminde </span></span><span><span>yaygın</span> <span>olan</span> <span>kullanılan</span> <span>baskı</span> <span>tekniği aşağıdakilerden hangisidir?</span></span></span><br/> <span><br role=\"presentation\"/><br/></span>",
-        "A": "<span><span>Ofset </span></span><span><span>baskı tekniği</span></span>",
+        "SoruMetni": "<span><span><span>Basılı grafik ürünlerin üretiminde </span></span><span><span>yaygın</span> <span>olan</span> <span>kullanılan</span> <span>baskı</span> <span>tekniği aşağıdakilerden hangisidir?</span></span></span><br/><span><br role=\"presentation\"/><br/></span>",
+        "A": "<span><span>Ofset </span></span><span><span>baskı tekniği</span></span>",
         "B": "Serigrafi baskı",
-        "C": "Gravür baskı",
-        "D": "Linol baskı",
-        "E": "Ağaç baskı",
+        "C": "Gravür baskı",
+        "D": "Linol baskı",
+        "E": "Ağaç baskı",
         "DogruCevap": "A",
         "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
         "Unite": 4,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span>Ofset litografi olarak da adlandırılabilen ofset </span></span><span><span>baskı tekniği, basılı grafik ürünlerin üretiminde </span></span><span><span>yaygın</span> <span>olan</span> <span>kullanılan</span> <span>baskı</span> <span>tekniklerindendir.</span></span>"
+        "Aciklama": "<span><span>Ofset litografi olarak da adlandırılabilen ofset </span></span><span><span>baskı tekniği, basılı grafik ürünlerin üretiminde </span></span><span><span>yaygın</span> <span>olan</span> <span>kullanılan</span> <span>baskı</span> <span>tekniklerindendir.</span></span>"
     },
     {
         "SoruID": 3764595,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span>Baskı tekniklerinin tarihi, belirli bir görüntüyü </span></span><span><span>yeniden üretmek için kullanılan mühür ve damga</span></span><span><span>lara kadar uzanmaktadır. Fakat matbaacılık tarihin</span></span><span><span>deki en önemli dönüm noktalarından biri, 1450’de </span></span><span><span>Johannes Gutenberg tarafından Almanya’da mü</span></span><span><span>kemmelleştirilen tipo baskı tekniğidir. </span></span>"
+        "Aciklama": "<span><span>Baskı tekniklerinin tarihi, belirli bir görüntüyü </span></span><span><span>yeniden üretmek için kullanılan mühür ve damga</span></span><span><span>lara kadar uzanmaktadır. Fakat matbaacılık tarihin</span></span><span><span>deki en önemli dönüm noktalarından biri, 1450’de </span></span><span><span>Johannes Gutenberg tarafından Almanya’da mü</span></span><span><span>kemmelleştirilen tipo baskı tekniğidir. </span></span>"
     },
     {
         "SoruID": 3764596,
@@ -457,13 +457,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span> Hareketli tipo baskılar 11. yüzyılda </span></span><span><span>Çin’de ve 15. yüzyılın başlarında Kore’de yapılmış</span></span><span><br role=\"presentation\"/><span>ancak binlerce karakterli Asya dillerine uygun ol</span></span><span><span>madığı için yaygınlaşmamıştır. </span></span>"
+        "Aciklama": "<span><span> Hareketli tipo baskılar 11. yüzyılda </span></span><span><span>Çin’de ve 15. yüzyılın başlarında Kore’de yapılmış</span></span><span><br role=\"presentation\"/><span>ancak binlerce karakterli Asya dillerine uygun ol</span></span><span><span>madığı için yaygınlaşmamıştır. </span></span>"
     },
     {
         "SoruID": 3764597,
         "SoruMetni": "<span><span>Litografi kimin tarafından icat edilmiştir?</span></span>",
         "A": "<span><span>Alo</span></span><span><span>is Senefelder</span></span>",
-        "B": "<span><span>Johanne </span></span>Gutenberg",
+        "B": "<span><span>Johanne </span></span>Gutenberg",
         "C": "<span><span> Henry Talbot</span></span>",
         "D": "<span><span> Louis Ducos du Hauron</span></span>",
         "E": "<span><span>Joseph Niepce</span></span>",
@@ -477,11 +477,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span>Litografinin icadı, oyun ve tiyatro yazarı Alo</span></span><span><span>is Senefelder’in, yüzeyini mumla kapladığı cilalı </span></span><span><span>kireçtaşından bir tablet üzerine; mum, sabun ve </span></span><span><span>lamba isi ile hazırlanmış mürekkeple yazı yazdığı, </span></span><span><span>ardından kısa bir süre için bir asit çözeltisi uygula</span></span><span><span>dığı 1798 yılına kadar uzanmaktadır.</span></span>"
+        "Aciklama": "<span><span>Litografinin icadı, oyun ve tiyatro yazarı Alo</span></span><span><span>is Senefelder’in, yüzeyini mumla kapladığı cilalı </span></span><span><span>kireçtaşından bir tablet üzerine; mum, sabun ve </span></span><span><span>lamba isi ile hazırlanmış mürekkeple yazı yazdığı, </span></span><span><span>ardından kısa bir süre için bir asit çözeltisi uygula</span></span><span><span>dığı 1798 yılına kadar uzanmaktadır.</span></span>"
     },
     {
         "SoruID": 3764598,
-        "SoruMetni": "<span><span>Fransız </span></span><span><span> bilim adamı olan Joseph Niepce <span>fotolitografiyi tekniği ile ilk fotografı hangi tarihte</span></span></span><span><span> üret</span></span><span><span>ti?</span></span>",
+        "SoruMetni": "<span><span>Fransız </span></span><span><span> bilim adamı olan Joseph Niepce <span>fotolitografiyi tekniği ile ilk fotografı hangi tarihte</span></span></span><span><span> üret</span></span><span><span>ti?</span></span>",
         "A": "<span><span>1826</span></span>",
         "B": "1868",
         "C": "1837",
@@ -497,11 +497,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span> Litogra</span></span><span><span>fi, baskı kalıpları üretmek için aradığı çözüm orta</span></span><span><span>ğını fotoğrafta buldu. Böylece litografi ve fotoğrafın </span></span><span><span>bir araya gelmesiyle</span></span><span> <span>fotolitografi</span></span><span> <span>doğdu. Fransız</span></span><span><br role=\"presentation\"/><span>bir bilim adamı olan Joseph Niepce, </span></span><span><span>1826’da dünyanın ilk fotoğrafını üret</span></span><span><span>ti.</span></span>"
+        "Aciklama": "<span><span> Litogra</span></span><span><span>fi, baskı kalıpları üretmek için aradığı çözüm orta</span></span><span><span>ğını fotoğrafta buldu. Böylece litografi ve fotoğrafın </span></span><span><span>bir araya gelmesiyle</span></span><span> <span>fotolitografi</span></span><span> <span>doğdu. Fransız</span></span><span><br role=\"presentation\"/><span>bir bilim adamı olan Joseph Niepce, </span></span><span><span>1826’da dünyanın ilk fotoğrafını üret</span></span><span><span>ti.</span></span>"
     },
     {
         "SoruID": 3764599,
-        "SoruMetni": "<span><span>Orijinal bir fotoğ</span><span>rafı noktalara ve baskı reprodüksiyonuna </span><span>uygun değişen boyutlara ayırma eylemine ne denir?</span></span>",
+        "SoruMetni": "<span><span>Orijinal bir fotoğ</span><span>rafı noktalara ve baskı reprodüksiyonuna </span><span>uygun değişen boyutlara ayırma eylemine ne denir?</span></span>",
         "A": "<span><span>Yarı Ton (Halftone)</span></span>",
         "B": "<span><span>Fotolitograf</span></span>",
         "C": "Litografi",
@@ -521,7 +521,7 @@
     },
     {
         "SoruID": 3764600,
-        "SoruMetni": "<span><span>Ofset baskı sistemleri çeşitli temel bi</span></span><span><span>leşenlerden biri <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span> </span></span><br/> <span><span>I.</span>   <span>Mürekkepleme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>II.</span>  <span>Nemlendirme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>III. </span><span>Kalıp</span> <span>silindiri,</span></span><span><br role=\"presentation\"/>IV.  <span>Blanket</span> <span>(Kauçuk)</span> <span>silindiri,</span></span><span><br role=\"presentation\"/>V.   <span>Baskı</span> <span>tasarımı</span></span>",
+        "SoruMetni": "<span><span>Ofset baskı sistemleri çeşitli temel bi</span></span><span><span>leşenlerden biri <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span> </span></span><br/><span><span>I.</span> <span>Mürekkepleme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>II.</span> <span>Nemlendirme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>III. </span><span>Kalıp</span> <span>silindiri,</span></span><span><br role=\"presentation\"/>IV. <span>Blanket</span> <span>(Kauçuk)</span> <span>silindiri,</span></span><span><br role=\"presentation\"/>V. <span>Baskı</span> <span>tasarımı</span></span>",
         "A": "V",
         "B": "IV",
         "C": "III",
@@ -537,11 +537,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span> Ofset baskı sistemleri çeşitli temel bi</span></span><span><span>leşenlerin bir araya gelmesi ile çalışır. Bu bileşenler;</span></span><br/> <span><br role=\"presentation\"/><span>•</span> <span>Mürekkepleme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Nemlendirme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Kalıp</span> <span>silindiri,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Blanket</span> <span>(Kauçuk)</span> <span>silindiri,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Baskı</span> <span>silindiri</span></span>"
+        "Aciklama": "<span><span> Ofset baskı sistemleri çeşitli temel bi</span></span><span><span>leşenlerin bir araya gelmesi ile çalışır. Bu bileşenler;</span></span><br/><span><br role=\"presentation\"/><span>•</span> <span>Mürekkepleme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Nemlendirme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Kalıp</span> <span>silindiri,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Blanket</span> <span>(Kauçuk)</span> <span>silindiri,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Baskı</span> <span>silindiri</span></span>"
     },
     {
         "SoruID": 3764601,
-        "SoruMetni": "<span><span>Çıkarımsal renk </span><span>sistemine göre tasarlanmış olan, bileşim</span><br role=\"presentation\"/><span>matbaacılıkta kullanılan dört ana renk </span><span>sisteminin kısaltılmış hali nasıl yazılır?</span></span>",
+        "SoruMetni": "<span><span>Çıkarımsal renk </span><span>sistemine göre tasarlanmış olan, bileşim</span><br role=\"presentation\"/><span>matbaacılıkta kullanılan dört ana renk </span><span>sisteminin kısaltılmış hali nasıl yazılır?</span></span>",
         "A": "CMYK",
         "B": "MYKC",
         "C": "YKCM",
@@ -561,7 +561,7 @@
     },
     {
         "SoruID": 3764602,
-        "SoruMetni": "<span><span>Bir bilgiyi, düşün</span><span>ceyi ya da mesajı başka birine iletmek için </span><span>kâğıt, kumaş, plastik, ahşap gibi bir yüzey </span><span>üzerinde görsel değişiklikler yapmaya ya da </span><span>uygulandığı yüzeyin izleyici tarafından algı</span><span>lanan rengini değiştirmeye yarayan araç aşağıdakilerden hangisidir?</span></span>",
+        "SoruMetni": "<span><span>Bir bilgiyi, düşün</span><span>ceyi ya da mesajı başka birine iletmek için </span><span>kâğıt, kumaş, plastik, ahşap gibi bir yüzey </span><span>üzerinde görsel değişiklikler yapmaya ya da </span><span>uygulandığı yüzeyin izleyici tarafından algı</span><span>lanan rengini değiştirmeye yarayan araç aşağıdakilerden hangisidir?</span></span>",
         "A": "<span><span>Mürekkep</span></span>",
         "B": "Silindir",
         "C": "Kağıt",
@@ -577,11 +577,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span>Mürekkep</span><span>: Mürekkep bir bilgiyi, düşün</span><span>ceyi ya da mesajı başka birine iletmek için </span><span>kâğıt, kumaş, plastik, ahşap gibi bir yüzey </span><span>üzerinde görsel değişiklikler yapmaya ya da </span><span>uygulandığı yüzeyin izleyici tarafından algı</span><span>lanan rengini değiştirmeye yarayan araçtır.</span></span>"
+        "Aciklama": "<span><span>Mürekkep</span><span>: Mürekkep bir bilgiyi, düşün</span><span>ceyi ya da mesajı başka birine iletmek için </span><span>kâğıt, kumaş, plastik, ahşap gibi bir yüzey </span><span>üzerinde görsel değişiklikler yapmaya ya da </span><span>uygulandığı yüzeyin izleyici tarafından algı</span><span>lanan rengini değiştirmeye yarayan araçtır.</span></span>"
     },
     {
         "SoruID": 3764603,
-        "SoruMetni": "<span><span>Ofset</span> <span>baskı </span><span>tekniğiyle basılmak üzere bilgisayarda ta</span><span>mamlanan tasarımı ya da oluşturulan gö</span><span>rüntüyü, film kullanımı gerekmeden doğ</span><span>ruca kalıba taşıyan pozlandırma sistemine ne ad verilir?</span></span>",
+        "SoruMetni": "<span><span>Ofset</span> <span>baskı </span><span>tekniğiyle basılmak üzere bilgisayarda ta</span><span>mamlanan tasarımı ya da oluşturulan gö</span><span>rüntüyü, film kullanımı gerekmeden doğ</span><span>ruca kalıba taşıyan pozlandırma sistemine ne ad verilir?</span></span>",
         "A": "<span><span>CtP</span></span>",
         "B": "CYMK",
         "C": "Tabaka",
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span>CtP:</span> <span>(Computer-to-plate)</span> <span>Ofset</span> <span>baskı </span><span>tekniğiyle basılmak üzere bilgisayarda ta</span><span>mamlanan tasarımı ya da oluşturulan gö</span><span>rüntüyü, film kullanımı gerekmeden doğ</span><span>ruca kalıba taşıyan pozlandırma sistemi.</span></span>"
+        "Aciklama": "<span><span>CtP:</span> <span>(Computer-to-plate)</span> <span>Ofset</span> <span>baskı </span><span>tekniğiyle basılmak üzere bilgisayarda ta</span><span>mamlanan tasarımı ya da oluşturulan gö</span><span>rüntüyü, film kullanımı gerekmeden doğ</span><span>ruca kalıba taşıyan pozlandırma sistemi.</span></span>"
     },
     {
         "SoruID": 3764840,
@@ -617,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yarı ton"
+        "Aciklama": "Yarı Ton (Halftone): Orijinal bir fotoğrafı noktalara ve baskı reprodüksiyonuna uygun değişen boyutlara ayırma eylemi."
     },
     {
         "SoruID": 3764844,
@@ -637,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kurutma ünitesi"
+        "Aciklama": "Ofset baskı sistemleri çeşitli temel bileşenlerin bir araya gelmesi ile çalışır. Bu bileşenler; • Mürekkepleme ünitesi, • Nemlendirme ünitesi, • Kalıp silindiri, • Blanket (Kauçuk) silindiri, • Baskı silindiri<br>Kurutma ünitesi"
     },
     {
         "SoruID": 3764848,
@@ -646,7 +646,7 @@
         "B": "Nemlendirme sistemli ofset - Kuru ofset",
         "C": "Tabaka ofset - Nemlendirme sistemli ofset",
         "D": "Tabaka ofset - Web ofset",
-        "E": "Web ofset - Nemlendirme sistemli ofset",
+        "E": "Web ofset - Nemlendirme sistemli ofset",
         "DogruCevap": "D",
         "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
         "Unite": 4,
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tabaka ofset - Web ofset"
+        "Aciklama": "Bu başlıkta inceleyeceğimiz ofset baskı çeşitlerinden ilk ikisi olan tabaka ofset ve web ofset baskı türlerinin temel farkı, baskı sürecinden çok, kullanılan baskı altı malzemesinin biçimi ile ilgilidir..<br>Tabaka ofset - Web ofset"
     },
     {
         "SoruID": 3764849,
@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nemlendirme sistemli ofset - Susuz ofset"
+        "Aciklama": "İnceleyeceğimiz diğer iki ofset baskı türü olan nemlendirme sistemli ofset ve susuz (kuru) ofset baskı sistemleri ise, baskı aşamasında teknik ve süreç farklılıkları göstermektedir<br>Nemlendirme sistemli ofset - Susuz ofset"
     },
     {
         "SoruID": 3764851,
@@ -697,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mürekkep"
+        "Aciklama": "Baskı altı malzemesi herhangi bir baskı yönteminde kullanılan ve baskının oluşturulacağı yüzeyi ifade eder<br>Mürekkep"
     },
     {
         "SoruID": 3764852,
@@ -717,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeşil"
+        "Aciklama": "CMYK: Cyan (mavi/camgöbeği), Magenta (pembemsi kırmızı), Yellow (sarı), Key (Siyah) renklerinin kısaltmasıdır.<br>Yeşil"
     },
     {
         "SoruID": 3764854,
@@ -737,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web ofset baskı"
+        "Aciklama": "Web ofset baskı gazeteler, kitaplar, dergi ve broşürler gibi yüksek baskı sayısına sahip ürünler ve baskı sonrasında forma hâline getirilerek ciltleme işlemi uygulanacak işler için daha uygun bir ofset baskı çeşididir."
     },
     {
         "SoruID": 3764857,
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tabaka ofset baskı"
+        "Aciklama": "Tabaka ofset baskı makineleri az sayıda basılması; planlanan dergiler, broşürler, antetli kâğıt benzeri kurumsal evraklar gibi, küçük ebatlı ya da düşük baskı adedi gerektiren işlerde ekonomik bir baskı alternatifi sunmaktadır."
     },
     {
         "SoruID": 3764859,
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Joseph Niepce"
+        "Aciklama": "Fransız bir bilim adamı olan Joseph Niepce, 1826’da dünyanın ilk fotoğrafını üretti."
     },
     {
         "SoruID": 3764860,
@@ -797,6 +797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hız, maliyet ve fonksiyonellik bakımından geleneksel yayıncılıktan bir farkı yoktur."
+        "Aciklama": "Hız, maliyet ve fonksiyonellik bakımından geleneksel yayıncılıktan oldukça farklıdır.<br>Hız, maliyet ve fonksiyonellik bakımından geleneksel yayıncılıktan bir farkı yoktur."
     }
 ]

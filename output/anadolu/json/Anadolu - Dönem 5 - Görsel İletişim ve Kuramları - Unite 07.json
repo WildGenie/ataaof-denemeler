@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3603431,
-        "SoruMetni": "\"Doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal olarak tatmin edici olanın aranması; yaratı ile duyusal tatmin arasındaki ilişkinin öznesi\" olarak tanımlanan kavram aşağıdakilerden hangisidir?<br/><br/>",
+        "SoruMetni": "\"Doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal olarak tatmin edici olanın aranması; yaratı ile duyusal tatmin arasındaki ilişkinin öznesi\" olarak tanımlanan kavram aşağıdakilerden hangisidir?",
         "A": "Güzellik",
         "B": "Varlık",
         "C": "Tinsellik",
@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal olarak tatmin edici olanın aranması; yaratı ile duyusal tatmin arasındaki ilişkinin öznesi olarak tanımlanabilecek kavram estetiktir.<br/><br/>Doğru yanıt D'dir."
+        "Aciklama": "Doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal olarak tatmin edici olanın aranması; yaratı ile duyusal tatmin arasındaki ilişkinin öznesi olarak tanımlanabilecek kavram estetiktir.<br/>Doğru yanıt D'dir."
     },
     {
         "SoruID": 3603432,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Immanuel Kant, estetik kavramını etimolojik kökeninden alıp felsefe bağlamında ilk tartışan düşünürlerin başında gelir. Kant’ın kavram üzerindeki tanım ve görüşleri, estetik felsefesi alanında oldukça etkili olmuştur. Kant’a göre estetik, algı ve duyuların öncelediği bir oluşumdur ve sanat eserinin güzelliği ile ilgili değil, doğada var olanın genel güzelliği ile ilişkilidir. Bu çerçevede Kant’ın yaklaşımının güzellik duygusunu oluşturan öz’de/kök’te ne olduğunun anlamaya çalışma durumu olarak nitelemek mümkündür. Kant ayrıca, estetiği oluşturan unsurları kategorik olarak belirlemeye çalışmıştır. Estetik özne, estetik nesne, estetik yaşantı gibi başlıklar altında, estetik unsurunu algılayan, bu unsuru oluşturan ve unsurun içinde bulunduğu zaman-mekân uzamı gibi alanlarda kavramı detaylandırarak ele alır.<br/><br/>Doğru cevap C'dir."
+        "Aciklama": "Immanuel Kant, estetik kavramını etimolojik kökeninden alıp felsefe bağlamında ilk tartışan düşünürlerin başında gelir. Kant’ın kavram üzerindeki tanım ve görüşleri, estetik felsefesi alanında oldukça etkili olmuştur. Kant’a göre estetik, algı ve duyuların öncelediği bir oluşumdur ve sanat eserinin güzelliği ile ilgili değil, doğada var olanın genel güzelliği ile ilişkilidir. Bu çerçevede Kant’ın yaklaşımının güzellik duygusunu oluşturan öz’de/kök’te ne olduğunun anlamaya çalışma durumu olarak nitelemek mümkündür. Kant ayrıca, estetiği oluşturan unsurları kategorik olarak belirlemeye çalışmıştır. Estetik özne, estetik nesne, estetik yaşantı gibi başlıklar altında, estetik unsurunu algılayan, bu unsuru oluşturan ve unsurun içinde bulunduğu zaman-mekân uzamı gibi alanlarda kavramı detaylandırarak ele alır.<br/>Doğru cevap C'dir."
     },
     {
         "SoruID": 3603433,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Estetik kavramını, Kant'tan sonra yine 18. yüzyılda terim olarak ilk dile getiren ise 1735 yılında Alman filozof Alexander Gottlieb Baumgarten olmuştur. Baumgarten estetiği, duyusal bilgi ve deneyimin bilimi olarak niteler. Baumgarten, idrak etmenin deneyimi olarak sanatı ve bu bağlamda estetiği tanımlar. Baumgarten’in estetik üzerine yaptığı anlamlandırmalar, modern estetik kuramının ilk tanımları olarak kabul görür.<br/><br/>Doğru cevap A'dır."
+        "Aciklama": "Estetik kavramını, Kant'tan sonra yine 18. yüzyılda terim olarak ilk dile getiren ise 1735 yılında Alman filozof Alexander Gottlieb Baumgarten olmuştur. Baumgarten estetiği, duyusal bilgi ve deneyimin bilimi olarak niteler. Baumgarten, idrak etmenin deneyimi olarak sanatı ve bu bağlamda estetiği tanımlar. Baumgarten’in estetik üzerine yaptığı anlamlandırmalar, modern estetik kuramının ilk tanımları olarak kabul görür.<br/>Doğru cevap A'dır."
     },
     {
         "SoruID": 3603434,
@@ -65,7 +65,7 @@
         "A": "Sadece güzellik sanat felsefesinin odak noktasıdır.",
         "B": "Çirkinlik, estetik algının hiçbir rol oynamadığı bir konudur.",
         "C": "Güzellik ve çirkinlik, sadece sanatın dışında gerçek dünyada önemlidir.",
-        "D": "Çirkinlikte de belirli bir estetik algısı vardır ve çirkinlik de eleştirel olarak ele alınabilir.",
+        "D": "Çirkinlikte de belirli bir estetik algısı vardır ve çirkinlik de eleştirel olarak ele alınabilir.",
         "E": "Güzellik ve çirkinlik, sadece kişisel tercihlere dayalıdır ve sanat felsefesiyle ilgisi yoktur.",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim ve Kuramları",
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanat felsefesi, sanat eserini estetik unsurlarıyla birlikte incelese de estetik kavramını temsil etmek yerine, kavramı oluşturan unsurları kullanarak esere karşı eleştirisini sunar. Güzelliğin zıttı olan çirkinlikte de ve diğer zıt bileşenlerde de belirli bir estetik algısının olduğu ve/veya eleştirel olarak ele alınabileceği, güzellik unsuru kadar baskın olmasa da zaman zaman gündemde olmuştur.<br/><br/>Doğru cevap D'dir."
+        "Aciklama": "Sanat felsefesi, sanat eserini estetik unsurlarıyla birlikte incelese de estetik kavramını temsil etmek yerine, kavramı oluşturan unsurları kullanarak esere karşı eleştirisini sunar. Güzelliğin zıttı olan çirkinlikte de ve diğer zıt bileşenlerde de belirli bir estetik algısının olduğu ve/veya eleştirel olarak ele alınabileceği, güzellik unsuru kadar baskın olmasa da zaman zaman gündemde olmuştur.<br/>Doğru cevap D'dir."
     },
     {
         "SoruID": 3603435,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Güzelliğin uyumla ilişkisi Pythagoras’ın (MÖ 570–MÖ 495) yaklaşımlarında önemli bir<br/>yer tutar. Pythagorascı okul, matematik ile güzellik kavramı arasında bağ olduğunu, nesnelerin altın orana yaklaştıkça daha çekici göründüklerini belirtir. Okula göre, güzel olanın estetik zevk unsuru olarak ilişkilendiği ve estetik bağlamında pozitif bir katma değer yarattığı ifade edilir.<br/><br/>Doğru cevap C'dir."
+        "Aciklama": "Güzelliğin uyumla ilişkisi Pythagoras’ın (MÖ 570–MÖ 495) yaklaşımlarında önemli bir<br/>yer tutar. Pythagorascı okul, matematik ile güzellik kavramı arasında bağ olduğunu, nesnelerin altın orana yaklaştıkça daha çekici göründüklerini belirtir. Okula göre, güzel olanın estetik zevk unsuru olarak ilişkilendiği ve estetik bağlamında pozitif bir katma değer yarattığı ifade edilir.<br/>Doğru cevap C'dir."
     },
     {
         "SoruID": 3603436,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Güzellik kavramı böylelikle iki temel felsefi görüşte varlık bulur. Bir taraf, doğayı taklit eden veya idealara dayalı olan, genel ve objektif bir kavram olarak ele alırken, diğer taraf kavramı öznel ve gözlemcinin duygusal tepkisine göre değişken bir anlayış, görüş olarak kavrar. Öyle ki, Shakespeare’den (1588), Benjamin Franklin’e (1741), David Hume’dan (1742), Margaret Wolfe Hungerford’a (1878) kadar, zaman içinde çeşitli söyleyiş farkları ile karşımıza sıklıkla çıkan bir ifadeyle karşılık bulur “güzellik, bakan kişinin gözündedir”. Aynı ifade, bizim topraklarımızda ve kültürümüzde de dünyaca ünlü bir ozanın sazında, Aşık Veysel Şatıroğlu ile can bulur; “Güzelliğin on par’ etmez, bu bendeki aşk olmasa”. <br/><br/>Doğru cevap A'dır."
+        "Aciklama": "Güzellik kavramı böylelikle iki temel felsefi görüşte varlık bulur. Bir taraf, doğayı taklit eden veya idealara dayalı olan, genel ve objektif bir kavram olarak ele alırken, diğer taraf kavramı öznel ve gözlemcinin duygusal tepkisine göre değişken bir anlayış, görüş olarak kavrar. Öyle ki, Shakespeare’den (1588), Benjamin Franklin’e (1741), David Hume’dan (1742), Margaret Wolfe Hungerford’a (1878) kadar, zaman içinde çeşitli söyleyiş farkları ile karşımıza sıklıkla çıkan bir ifadeyle karşılık bulur “güzellik, bakan kişinin gözündedir”. Aynı ifade, bizim topraklarımızda ve kültürümüzde de dünyaca ünlü bir ozanın sazında, Aşık Veysel Şatıroğlu ile can bulur; “Güzelliğin on par’ etmez, bu bendeki aşk olmasa”. <br/>Doğru cevap A'dır."
     },
     {
         "SoruID": 3603437,
@@ -137,11 +137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Antik Yunan ve Roma uygarlıklarından 18. yüzyıldaki zanaat ve güzel sanatlar kırılımına kadar olan dönemde, estetik ve güzellik kavramları daha çok işlevsel bağlamlarla ilişkilendirilmiştir ve toplumsal işlevleri yerine getiren icra veya yapılar ön plandadır. Bu dönem boyunca, güzellik kavramı sadece fiziksel görünümle sınırlı kalmamış, ahlaki, zihinsel ve toplumsal değerleri ifade etmek için kullanılmıştır. Bu nedenle işlevsellik ve güzellik birlikte değerlendirilmiştir.<br/> Doğru cevap B'dir."
+        "Aciklama": "Antik Yunan ve Roma uygarlıklarından 18. yüzyıldaki zanaat ve güzel sanatlar kırılımına kadar olan dönemde, estetik ve güzellik kavramları daha çok işlevsel bağlamlarla ilişkilendirilmiştir ve toplumsal işlevleri yerine getiren icra veya yapılar ön plandadır. Bu dönem boyunca, güzellik kavramı sadece fiziksel görünümle sınırlı kalmamış, ahlaki, zihinsel ve toplumsal değerleri ifade etmek için kullanılmıştır. Bu nedenle işlevsellik ve güzellik birlikte değerlendirilmiştir.<br/>Doğru cevap B'dir."
     },
     {
         "SoruID": 3603438,
-        "SoruMetni": "İyi bir mobilya tasarımcısından beklenen sandalye tasarımının hem oldukça rahat ve ergonomik bir yapı ile üzerine oturanı saatlerce rahat ettirecek şekilde taşıması hem de aynı zamanda ürünün satın alma adımında tercih edilebilir ve ayırt edilebilir bir estetiğe ve güzelliğe sahip olmasıdır.<br/> Yukarıdaki tanıma göre tasarımın başarısıyla ilgili aşağıdakilerden hangisi doğrudur?",
+        "SoruMetni": "İyi bir mobilya tasarımcısından beklenen sandalye tasarımının hem oldukça rahat ve ergonomik bir yapı ile üzerine oturanı saatlerce rahat ettirecek şekilde taşıması hem de aynı zamanda ürünün satın alma adımında tercih edilebilir ve ayırt edilebilir bir estetiğe ve güzelliğe sahip olmasıdır.<br/>Yukarıdaki tanıma göre tasarımın başarısıyla ilgili aşağıdakilerden hangisi doğrudur?",
         "A": "Tasarımın başarısı sadece estetik ve güzellikle ilişkilendirilir.",
         "B": "Tasarımın başarısı yalnızca işlevselliği içerir ve estetik önemli değildir.",
         "C": "Tasarımın başarısı, hem işlevselliği hem de estetiği dengede tutabilmesine bağlıdır.",
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Başarılı bir tasarımın sadece işlevselliği veya sadece estetiği değil, her ikisini de dengelemesi gerektiği vurgulanmaktadır. Örneğin, bir mobilya tasarımının sadece rahat olması yeterli değil, aynı zamanda estetik olarak tercih edilebilir olması gerekmektedir.<br/> Doğru cevap C'dir."
+        "Aciklama": "Başarılı bir tasarımın sadece işlevselliği veya sadece estetiği değil, her ikisini de dengelemesi gerektiği vurgulanmaktadır. Örneğin, bir mobilya tasarımının sadece rahat olması yeterli değil, aynı zamanda estetik olarak tercih edilebilir olması gerekmektedir.<br/>Doğru cevap C'dir."
     },
     {
         "SoruID": 3603439,
@@ -177,13 +177,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanat eseri, işlevsellik üreterek iletişimsel bir yapı sağlar. Bu, anlamların ve algının görsel kültür ürününün taşıdığı işaretler ve kodlar aracılığıyla kişiler ve kitleler arasında iletilmesini sağlar. Bu nedenle sanat eseri, sadece galerilerde sergilenen bir seyirlik nesne olmaktan çıkar ve toplumsal işlev gören bir dolaşım nesnesine dönüşür. <br/> Doğru cevap B'dir."
+        "Aciklama": "Sanat eseri, işlevsellik üreterek iletişimsel bir yapı sağlar. Bu, anlamların ve algının görsel kültür ürününün taşıdığı işaretler ve kodlar aracılığıyla kişiler ve kitleler arasında iletilmesini sağlar. Bu nedenle sanat eseri, sadece galerilerde sergilenen bir seyirlik nesne olmaktan çıkar ve toplumsal işlev gören bir dolaşım nesnesine dönüşür. <br/>Doğru cevap B'dir."
     },
     {
         "SoruID": 3603440,
         "SoruMetni": "Banksy'nin \"Girl With Balloon\" adlı eseriyle ilgili olarak aşağıdaki bilgilerden hangisi doğrudur?",
         "A": "\"Girl With Balloon\" eseri, Banksy'nin savaş karşıtlığını göstermek için icra ettiği dijital eserlerinden biridir.",
-        "B": "<br/> <form class=\"stretch mx-2 flex flex-row gap-3 last:mb-2 md:mx-4 md:last:mb-6 lg:mx-auto lg:max-w-2xl xl:max-w-3xl\"><br/> <br/> <br/> \"Girl With Balloon\" eseri, sadece Banksy'nin kimliğini ifşa etmek için kullanılan bir sanat projesidir.<br/><br/><br/></form>",
+        "B": "<br/><form class=\"stretch mx-2 flex flex-row gap-3 last:mb-2 md:mx-4 md:last:mb-6 lg:mx-auto lg:max-w-2xl xl:max-w-3xl\"><br/>\"Girl With Balloon\" eseri, sadece Banksy'nin kimliğini ifşa etmek için kullanılan bir sanat projesidir.<br/></form>",
         "C": "Banksy, eserlerinin içeriğini ve amacını herkesle paylaşır ve eserlerini kimliğini gizlemeksizin yapar.",
         "D": "Banksy'nin sanat anlayışı sadece galerilerde sergilenen eserlerle sınırlıdır ve toplumsal bir işlevi yoktur.",
         "E": "Eserin reprodüksiyon versiyonu, 1,4 milyon dolara alıcıya satıldığında yarıya kadar kendi kendini şeritler halinde kesmiştir.",
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Banksy'nin \"Girl With Balloon\" adlı eserinin reprodüksiyon versiyonu bir açık artırmada satışa sunulmuştur ve eser alıcı tarafından satın alındığında otomatik olarak kendi kendini yok etmeye başlayıp yarıya kadar kendiliğinden şeritler halinde kesilmiştir. Bu olay, Banksy'nin sanatının ve eleştirilerinin bir parçasıdır ve sanat eserlerinin satışı ve sanat endüstrisi üzerine bir eleştiri olarak kabul edilmektedir.<br/><br/>Doğru cevap E'dir."
+        "Aciklama": "Banksy'nin \"Girl With Balloon\" adlı eserinin reprodüksiyon versiyonu bir açık artırmada satışa sunulmuştur ve eser alıcı tarafından satın alındığında otomatik olarak kendi kendini yok etmeye başlayıp yarıya kadar kendiliğinden şeritler halinde kesilmiştir. Bu olay, Banksy'nin sanatının ve eleştirilerinin bir parçasıdır ve sanat eserlerinin satışı ve sanat endüstrisi üzerine bir eleştiri olarak kabul edilmektedir.<br/>Doğru cevap E'dir."
     },
     {
         "SoruID": 3603538,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Estetik: </strong>Doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal ola­rak tatmin edici olanın aranması; yaratı ile du­yusal tatmin arasındaki ilişkinin öznesi olarak tanımlanabilir. Doğru cevap C’dir."
+        "Aciklama": "Detaylı bilgi için ilgili bölüm incelenebilir.<br><strong>Estetik: </strong>Doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal ola­rak tatmin edici olanın aranması; yaratı ile du­yusal tatmin arasındaki ilişkinin öznesi olarak tanımlanabilir. Doğru cevap C’dir."
     },
     {
         "SoruID": 3603539,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Güzellik kavramı iki temel felsefi görüşte varlık bulur. Bir taraf, doğayı taklit eden veya idealara dayalı olan, genel ve objektif bir kavram olarak ele alırken, diğer taraf kavramı  gözlemcinin duygusal tepkisine göre değişken bir anlayış, görüş olarak kavrar. Doğru cevap B’dir."
+        "Aciklama": "Detaylı bilgi için ilgili bölüm incelenebilir.<br><br/>Güzellik kavramı iki temel felsefi görüşte varlık bulur. Bir taraf, doğayı taklit eden veya idealara dayalı olan, genel ve objektif bir kavram olarak ele alırken, diğer taraf kavramı gözlemcinin duygusal tepkisine göre değişken bir anlayış, görüş olarak kavrar. Doğru cevap B’dir."
     },
     {
         "SoruID": 3603540,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Shiner (2004)Antik Yunan ve Roma uygarlıklarından bu yana, bugün sanat eseri olarak tanımlamaya meyilli olduğumuz estetik unsurların, daha ziyade toplumsal işlevleri yerine getiren ve iş­levsel varlıkları ile algılanan icra veya yapılar oldu­ğunu vurgular. Doğru cevap B’dir."
+        "Aciklama": "Detaylı bilgi için ilgili bölüm incelenebilir.<br>Shiner (2004)Antik Yunan ve Roma uygarlıklarından bu yana, bugün sanat eseri olarak tanımlamaya meyilli olduğumuz estetik unsurların, daha ziyade toplumsal işlevleri yerine getiren ve iş­levsel varlıkları ile algılanan icra veya yapılar oldu­ğunu vurgular. Doğru cevap B’dir."
     },
     {
         "SoruID": 3603541,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bugün salt zanaat olarak algılanan birçok icra biçimi Orta Çağ Dönemi’nde, resim ve heykel kadar dikkat çek­mektedir. Rönesans Dönemi’ndeki nakkaşlar, mi­marlık, aşçılık, denizcilik, seyislik, ayakkabıcılık ve hokkabazlık gibi icracı meslekler hem yoğun işlev­sel görevleri yerine getiren yapıları maharetle kur­makta hem de bu esnada üretilen icranın estetik ve güzellik unsurlarına da mükemmellik derecesinde özen göstermektedir. Doğru cevap B’dir."
+        "Aciklama": "Detaylı bilgi için ilgili bölüm incelenebilir.<br>Bugün salt zanaat olarak algılanan birçok icra biçimi Orta Çağ Dönemi’nde, resim ve heykel kadar dikkat çek­mektedir. Rönesans Dönemi’ndeki nakkaşlar, mi­marlık, aşçılık, denizcilik, seyislik, ayakkabıcılık ve hokkabazlık gibi icracı meslekler hem yoğun işlev­sel görevleri yerine getiren yapıları maharetle kur­makta hem de bu esnada üretilen icranın estetik ve güzellik unsurlarına da mükemmellik derecesinde özen göstermektedir. Doğru cevap B’dir."
     },
     {
         "SoruID": 3603542,
@@ -286,7 +286,7 @@
         "B": "İşlevsellik",
         "C": "Denge",
         "D": "Bağlamlar arasılık",
-        "E": "Temsiliyet<br/>",
+        "E": "Temsiliyet",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim ve Kuramları",
         "Unite": 7,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pop-Art sanat akımının en önemli temsilcilerinden Andy Warhol’un, Duchamp’ın hazır-nesne ile sanat eseri üretme yaklaşımına benzer bir şe­kilde, günlük yaşam nesnelerinden ürettiği sanat eserle­rinden biri olan ve dönemin tüketim alışkanlıklarını ve aynılaşmayı eleştiren eseri, işlevsel anlamda sanat eseri­nin farklı mesaj ve bağlamlar taşımasına gösterilebilecek en güzel örneklerdendir.  Günümüzde başta Banksy (www.banksy.co.uk) olmak üzere birçok sokak sanatçısı, dijital sanatçı vb. estetik, güzellik, fonksiyon ve felsefe bağlamlarında yeniden ve bağlamlar-arası düşünmemi­zi sağlayan sanatçı tavrı sergilemekte ve çok sayıda eser vermektedir.  Doğru cevap D’dir."
+        "Aciklama": "Detaylı bilgi için ilgili bölüm incelenebilir.<br>Pop-Art sanat akımının en önemli temsilcilerinden Andy Warhol’un, Duchamp’ın hazır-nesne ile sanat eseri üretme yaklaşımına benzer bir şe­kilde, günlük yaşam nesnelerinden ürettiği sanat eserle­rinden biri olan ve dönemin tüketim alışkanlıklarını ve aynılaşmayı eleştiren eseri, işlevsel anlamda sanat eseri­nin farklı mesaj ve bağlamlar taşımasına gösterilebilecek en güzel örneklerdendir. Günümüzde başta Banksy (www.banksy.co.uk) olmak üzere birçok sokak sanatçısı, dijital sanatçı vb. estetik, güzellik, fonksiyon ve felsefe bağlamlarında yeniden ve bağlamlar-arası düşünmemi­zi sağlayan sanatçı tavrı sergilemekte ve çok sayıda eser vermektedir. Doğru cevap D’dir."
     },
     {
         "SoruID": 3603544,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong><em>Çözüm: </em></strong>Kant’a göre estetik, algı ve duyuların öncelediği bir oluşumdur ve sanat eserinin güzelliği ile ilgili değil, doğada var olanın genel güzelliği ile ilişkilidir. Doğru cevap B’dir."
+        "Aciklama": "Detaylı bilgi için ilgili ünite incelenebilir.<br><strong><em>Çözüm: </em></strong>Kant’a göre estetik, algı ve duyuların öncelediği bir oluşumdur ve sanat eserinin güzelliği ile ilgili değil, doğada var olanın genel güzelliği ile ilişkilidir. Doğru cevap B’dir."
     },
     {
         "SoruID": 3603545,
@@ -337,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Farklı düşünürlerin çalışmaları incelendiğinde  insanın güzeli arayış ve anlatma çabası, estetik felsefesinin en temel motivasyonlarından biri olarak görünmektedir. Doğru cevap E’dir."
+        "Aciklama": "Detaylı bilgi için ilgili bölüm incelenebilir.<br>Farklı düşünürlerin çalışmaları incelendiğinde insanın güzeli arayış ve anlatma çabası, estetik felsefesinin en temel motivasyonlarından biri olarak görünmektedir. Doğru cevap E’dir."
     },
     {
         "SoruID": 3603547,
-        "SoruMetni": "“Picasso’nun La Guernica eserinde İspanya İç Savaşı’nın yıkımı resmedilmiştir.”<br/> Yukarıda paylaşılan bilgide, sanat eserinin hangi özelliği vurgulanmıştır?",
+        "SoruMetni": "“Picasso’nun La Guernica eserinde İspanya İç Savaşı’nın yıkımı resmedilmiştir.”<br/>Yukarıda paylaşılan bilgide, sanat eserinin hangi özelliği vurgulanmıştır?",
         "A": "Eserin biricikliği",
         "B": "Eserin dönemi",
         "C": "Eserin icra yöntemi",
@@ -357,16 +357,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<em>İnsanoğlunun</em> kültürel ve teknolojik olarak özellikle üretim ve mecra bağlamında ilerlediği günümüze yakın olan dönemlerde, sanatı tanımlayan unsurlar aynı kalmakla birlikte; sanat eseri­nin ne olduğu ve eseri tanımlayan unsur olarak orijinalite meselesi çokça tartışılan bir yapı olarak karşımıza çıkmıştır. Örneğin, Şekil 3’te yer alan eserden yola çıkacak olursak; eseri, sanat eseri olarak tanımlamamızı sağlayan iki temel unsur yer almaktadır. Birincisi eserin, ünlü İspanyol ressam Picasso tarafından hayata geçirilmiş olmasıdır. İkincisi ise Picasso’nun bu eseri, İspanya iç savaşının yıkımını anlatmak için resmetmiş olmasıdır. Doğru cevap B’dir."
+        "Aciklama": "Detaylı bilgi için ilgili bölüm incelenebilir.<br><em>İnsanoğlunun</em> kültürel ve teknolojik olarak özellikle üretim ve mecra bağlamında ilerlediği günümüze yakın olan dönemlerde, sanatı tanımlayan unsurlar aynı kalmakla birlikte; sanat eseri­nin ne olduğu ve eseri tanımlayan unsur olarak orijinalite meselesi çokça tartışılan bir yapı olarak karşımıza çıkmıştır. Örneğin, Şekil 3’te yer alan eserden yola çıkacak olursak; eseri, sanat eseri olarak tanımlamamızı sağlayan iki temel unsur yer almaktadır. Birincisi eserin, ünlü İspanyol ressam Picasso tarafından hayata geçirilmiş olmasıdır. İkincisi ise Picasso’nun bu eseri, İspanya iç savaşının yıkımını anlatmak için resmetmiş olmasıdır. Doğru cevap B’dir."
     },
     {
         "SoruID": 3603548,
-        "SoruMetni": "Sanatın güzellik  olmadan da var olabileceğini savunan sanatçılar, aşağıdakilerden hangisidir?",
+        "SoruMetni": "Sanatın güzellik olmadan da var olabileceğini savunan sanatçılar, aşağıdakilerden hangisidir?",
         "A": "Dadaistler",
         "B": "Dışavurumcular",
         "C": "Naturalistler",
         "D": "Kübistler",
-        "E": "Sürrealistler<br/>",
+        "E": "Sürrealistler",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim ve Kuramları",
         "Unite": 7,
@@ -377,11 +377,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Güzellik kavramını ve güzel sanatların yapısını ele alan sanat felsefesinde  güzelliğin zıttı olan çirkinlikte de ve diğer zıt bileşenlerde de belirli bir estetik algısının olduğu ve/veya eleştirel olarak ele alınabileceği, güzellik unsuru kadar baskın olmasa da zaman zaman gündemde olmuştur. Danto’nun, (2013, s. 14) ünlü Dadaist sanatçı Marcel Duchamp’ın yaklaşımından bahsi, bu noktada güzel bir örnek oluşturur: Danto, Duchamp’ın “kaçınılması gereken tehlike estetik zevktir” dediğini ve 1913 ile 1917 yılları arasında meydana getirdiği ünlü hazır- nesne eserlerdeki amacı, bir anlamda estetik kaygılardan muaf eserler oluşturmak olarak aktarır."
+        "Aciklama": "Detaylı bilgi için ilgili bölüm incelenebilir.<br>Güzellik kavramını ve güzel sanatların yapısını ele alan sanat felsefesinde güzelliğin zıttı olan çirkinlikte de ve diğer zıt bileşenlerde de belirli bir estetik algısının olduğu ve/veya eleştirel olarak ele alınabileceği, güzellik unsuru kadar baskın olmasa da zaman zaman gündemde olmuştur. Danto’nun, (2013, s. 14) ünlü Dadaist sanatçı Marcel Duchamp’ın yaklaşımından bahsi, bu noktada güzel bir örnek oluşturur: Danto, Duchamp’ın “kaçınılması gereken tehlike estetik zevktir” dediğini ve 1913 ile 1917 yılları arasında meydana getirdiği ünlü hazır- nesne eserlerdeki amacı, bir anlamda estetik kaygılardan muaf eserler oluşturmak olarak aktarır."
     },
     {
         "SoruID": 3603550,
-        "SoruMetni": "Banksy  müzayede evi satışı esnasında (2018) kendi kendini imha eden eseri ile hangi noktaya dikkat çekmek istemiştir?",
+        "SoruMetni": "Banksy müzayede evi satışı esnasında (2018) kendi kendini imha eden eseri ile hangi noktaya dikkat çekmek istemiştir?",
         "A": "Eserin bağlamsallığına",
         "B": "Sanatın özgünlüğüne ve biçimselliğine",
         "C": "Hazzın geçiciliğine",
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Banksy’nin en ünlü eserleri arasında olan “Girl with the Baloon” adlı eseri 2018 tarihli  yeniden üretilen reprodüksiyon versiyonu, müzayede evindeki satış esnasında, herkesin gözleri önünde kendi kendini yok eden otomatik bir mekanizmanın devreye girmesiyle, yarıya kadar kendi kendini şeritler hâlinde kesmiştir. Banksy’nin önceden planladığı ve kendisi dışında kimse tarafından bilinmeyen bu durum eserin icrasına yöne­lik yeni bir eylem katmandır. Banksy’nin bu eyle­mi, sanatın alım-satım yapılan bir endüstriye dö­nüşmesi ve sanatı yöneten tekel kurumlar sistemine yönelik, en büyük eleştirilerden biri olarak dünya sanat tarihinde yerini almıştır."
+        "Aciklama": "Detaylı bilgi için ilgili bölüm incelenebilir.<br>Banksy’nin en ünlü eserleri arasında olan “Girl with the Baloon” adlı eseri 2018 tarihli yeniden üretilen reprodüksiyon versiyonu, müzayede evindeki satış esnasında, herkesin gözleri önünde kendi kendini yok eden otomatik bir mekanizmanın devreye girmesiyle, yarıya kadar kendi kendini şeritler hâlinde kesmiştir. Banksy’nin önceden planladığı ve kendisi dışında kimse tarafından bilinmeyen bu durum eserin icrasına yöne­lik yeni bir eylem katmandır. Banksy’nin bu eyle­mi, sanatın alım-satım yapılan bir endüstriye dö­nüşmesi ve sanatı yöneten tekel kurumlar sistemine yönelik, en büyük eleştirilerden biri olarak dünya sanat tarihinde yerini almıştır."
     },
     {
         "SoruID": 3839998,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "The Spectator, Joseph Addison"
+        "Aciklama": "Etimolojik yaklaşımlar doğrultusunda, estetik kavramından ilk bahseden kaynak, 1712 yılında Joseph Addison tarafından, <strong>“The Spectator”</strong> dergisinde yazılan bir seri makale olan “Hayalgücünün Zevkleri” olmuştur.<br>The Spectator, Joseph Addison"
     },
     {
         "SoruID": 3839999,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Estetik nesne"
+        "Aciklama": "Kant ayrıca, estetiği oluşturan unsurları kategorik olarak belirlemeye çalışmıştır. <strong>Estetik özne, estetik nesne, estetik yaşantı gibi başlıklar altında, estetik unsurunu algılayan, bu unsuru oluşturan ve unsurun içinde bulunduğu zaman-mekân uzamı gibi</strong> alanlarda kavramı detaylandırarak ele alır (Kula, 2012)."
     },
     {
         "SoruID": 3840002,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tolstoy"
+        "Aciklama": "Tolstoy ....insanın güzeli anlatmak istediğini söyler: <strong>“İnsanın silahı güzelliktir. Verilen emek ancak, sanatın güzeli anlatabilmesi içindir. Sanatın özelliği, insana zevk vermesi, güzel görünmesi ve çok zengin ögelerle”</strong> işlenmesidir (Tolstoy, 1995, ss. 56–57)."
     },
     {
         "SoruID": 3840003,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Marcel Duchamp"
+        "Aciklama": ".... <strong>Duchamp’ın</strong> hazır nesneleri, estetik unsuru gözetilmeden de sanat eserinden ve sanat yapma kavramından bahsedilmesi demektir.<br>Marcel Duchamp"
     },
     {
         "SoruID": 3840005,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Âşık Veysel"
+        "Aciklama": "Bizim topraklarımızda ve kültürümüzde de dünyaca ünlü bir ozanın sazında, <strong>Aşık Veysel Şatıroğlu</strong> ile can bulur; <strong>“Güzelliğin on par’ etmez, bu bendeki aşk olmasa”</strong><br>Âşık Veysel"
     },
     {
         "SoruID": 3840017,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Martin Heidegger"
+        "Aciklama": "Martin Heidegger ise, kavramı <strong>“varlığın aydınlanması, doğruluk”</strong> olarak tanımlar. Heidegger’in<br/>ele aldığı doğruluk, mantıksal olan değil, gerçek olan doğruluk yani varlıkların içinde olandır. <strong>Bu</strong><br/><strong>bağlamda gizli olanı, herkesin görebileceği şekilde açığa çıkarmak, güzelliği ortaya koymaktır</strong> (Heidegger, 2007; Kula, 2012)."
     },
     {
         "SoruID": 3840018,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Larry Shiner"
+        "Aciklama": "<strong>Shiner</strong>’ın (2004, s. 53) aktardıklarıyla; kavram “biçim ya da fiziksel görünüm için olduğu kadar<br/>zihin ve karakter, gelenekler ve siyasal sistemler için de kullanılan genel bir övgü terimi olarak” çalışır.<br>Larry Shiner"
     },
     {
         "SoruID": 3840019,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipograf"
+        "Aciklama": "Rönesans Dönemi’ndeki <strong>nakkaşlar, mimarlık, aşçılık, denizcilik, seyislik, ayakkabıcılık ve</strong><br/><strong>hokkabazlık gibi icracı meslekler</strong> hem yoğun işlevsel görevleri yerine getiren yapıları maharetle kurmakta hem de bu esnada üretilen icranın estetik ve güzellik unsurlarına da mükemmellik derecesinde özen göstermektedir (Shiner, 2004).<br>Tipograf"
     },
     {
         "SoruID": 3840020,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanatçının çevresel gücü"
+        "Aciklama": "Sanat eserinin görsel kültür bağlamında fonksiyonundan bahsederken ele alınması gereken bir bakış<br/>açısı daha bulunmaktadır. İşlev sadece teknik olarak yerine gelen hazza dayalı çözüm değildir. Aynı zamanda <strong>icra edilen eserin, içinde bulunulan sosyoekonomik yapı, toplumsal hareketler, sanatçısının duruşu ve tavrı gibi bağlamlarda ilişkiye geçtiği ve esere has bir anlam yarattığı</strong> alan olarak da değerlendirilmelidir.<br>Sanatçının çevresel gücü"
     },
     {
         "SoruID": 3840021,
@@ -597,6 +597,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İşaret-Kodlar"
+        "Aciklama": "Bu anlamda işlev gören eserler, icraları bağlamında, belirli <strong>işaret ve kodlar</strong> taşır. <strong>İşaret ve kodlar,</strong> kültürel temellerin ikiz yapıları gibi düşünülebilir ve mesaj ve anlam bağlamlarında karşılık bulur (Barnard, 2005, s. 26).<br>İşaret-Kodlar"
     }
 ]

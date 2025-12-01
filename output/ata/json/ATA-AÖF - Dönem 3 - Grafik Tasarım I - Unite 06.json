@@ -16,7 +16,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 321527,
@@ -35,14 +36,15 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 321529,
         "SoruMetni": "<strong>Kâğıt nerede bulunmuş ve geliştirilmiştir?</strong>",
         "A": "Çin",
         "B": "Hindistan",
-        "C": "İran\r<br/>",
+        "C": "İran",
         "D": "İngiltere",
         "E": "İtalya",
         "DogruCevap": "A",
@@ -54,7 +56,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 321531,
@@ -73,7 +76,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 321534,
@@ -92,12 +96,13 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 321537,
         "SoruMetni": "<strong>Hangisi geleneksel ciltlerde bulunan bir eleman <u>değildir</u>?</strong>",
-        "A": "Kapak\r<br/>",
+        "A": "Kapak",
         "B": "Sırt",
         "C": "Yan kağıtlar",
         "D": "Dikilmiş formalar",
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 321538,
@@ -130,12 +136,13 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 321543,
-        "SoruMetni": "I. Kitabın okuma yönü tasarımın akışını belirler.<br/> <br/>II. Kitabın sayfa tasarımında göz yukarıdan aşağıya doğru bir hareket izler<br> <br/>III. Kitabın tasarımında sayfalar bir bütün olarak tasarlanmalıdır.<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri kitabın okunma ilkelerindendir?</strong> </br></br>",
-        "A": "Yalnız III\r<br/>",
+        "SoruMetni": "I. Kitabın okuma yönü tasarımın akışını belirler.<br/>II. Kitabın sayfa tasarımında göz yukarıdan aşağıya doğru bir hareket izler<br/>III. Kitabın tasarımında sayfalar bir bütün olarak tasarlanmalıdır.<br/><strong>Yukarıdakilerden hangisi ya da hangileri kitabın okunma ilkelerindendir?</strong> </br></br>",
+        "A": "Yalnız III",
         "B": "I, II ve III",
         "C": "Yalnız II",
         "D": "I ve II",
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 321544,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 321546,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 326014,
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 326023,
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 326035,
@@ -244,11 +256,12 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 326053,
-        "SoruMetni": "<strong>Kitap kapağı tasarım sürecinde soldan sağa doğru </strong><strong>öğelerin sıralanış biçimi aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Kitap kapağı tasarım sürecinde soldan sağa doğru </strong><strong>öğelerin sıralanış biçimi aşağıdakilerden hangisidir?</strong>",
         "A": "Ön kapak-Arka kapak-Sırt",
         "B": "Sırt-Ön kapak-Arka kapak",
         "C": "Arka kapak-Ön kapak-Sırt",
@@ -263,11 +276,12 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 326917,
-        "SoruMetni": "<strong>Bir kitabın koruyucusu olan ve aynı zamanda okuyucuyla iletişim kuran ilk tasarım ögesi aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Bir kitabın koruyucusu olan ve aynı zamanda okuyucuyla iletişim kuran ilk tasarım ögesi aşağıdakilerden hangisidir?</strong>",
         "A": "Kapak",
         "B": "Ayraç",
         "C": "Sayfalar",
@@ -282,7 +296,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 364928,
@@ -301,7 +316,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 368734,
@@ -320,7 +336,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 368738,
@@ -339,7 +356,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 396643,
@@ -358,11 +376,12 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 398636,
-        "SoruMetni": "I. Denge<br/> <br/>II. Boşluk<br> <br/>III. Hiyerarşi<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri kitap tasarımında dikkate alınmalıdır?</strong></br></br>",
+        "SoruMetni": "I. Denge<br/>II. Boşluk<br/>III. Hiyerarşi<br/><strong>Yukarıdakilerden hangisi ya da hangileri kitap tasarımında dikkate alınmalıdır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -377,7 +396,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 398637,
@@ -396,6 +416,7 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     }
 ]

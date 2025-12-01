@@ -102,7 +102,7 @@
 
     ***
 ## Unite 2
-1. Hedef kitlenin dikkatini çekmek, karmaşık konuları kolayca anlatmak, eğlendirmek ve güçlü marka kimliklerinin yaratılmasında grafik tasarım öğelerinin zaman, ses, mekân unsurları ile birlikteliğinden oluşan yapı aşağıdakilerden hangisidir?
+1. Hedef kitlenin dikkatini çekmek, karmaşık konuları kolayca anlatmak, eğlendirmek ve güçlü marka kimliklerinin yaratılmasında grafik tasarım öğelerinin zaman, ses, mekân unsurları ile birlikteliğinden oluşan yapı aşağıdakilerden hangisidir?
     - **Cevap A-) Hareketli grafik**
     - B-) Animasyon
     - C-) Video
@@ -114,10 +114,10 @@
     ***
 1. Yeni geliştirilen yöntemler ile sıralı hareketin fiilen gösterilebilmesi, bilimin hareket eden çizgi ve cisimlerin algılanması alanına ilgi duyması sonucunda görülen hareket, hareket sürecinin algılanması ve nesnelerin üç boyutluluğu üzerine ilk bilimsel çalışmalar hangi dönemde yapılmıştır?
     - A-) Taş devri
-    - **Cevap B-) 19.yüzyıl**
+    - **Cevap B-) 19\.yüzyıl**
     - C-) Mısır mezar resimleri
-    - D-) 20.yüzyıl
-    - E-) 21.yüzyıl
+    - D-) 20\.yüzyıl
+    - E-) 21\.yüzyıl
 
     > **Açıklama:** Yeni geliştirilen yöntemler ile sıralı hareketin fiilen gösterilebilmesi, bilimin hareket eden çizgi ve cisimlerin algılanması alanına ilgi duyması sonucunda, 19. yüzyıl başında görülen hareket, hareket sürecinin algılanması ve nesnelerin üç boyutluluğu üzerine ilk bilimsel çalışmalar yapılmıştır. Sanatçılar arasında konunun ileri düzey öncüleri, ışık ve perspektif gibi konularda fizik, matematik ve teknoloji alanlarındaki yenilikçi başarıları ve keşifleri de resimsel anlatımlarında kullanmışlardır. Bu sebeple **19. yüzyıl** geriye dönük olarak hareket ve hızın keşfedildiği yüzyıl olarak tanımlanmaktadır.
 
@@ -221,7 +221,7 @@
     > **Açıklama:** Isotype, detaylardan arındırılmış sembol ve işaretlerden başlı başına bir dil oluşturmak; kavramlara, nesnelere, durum ve mekânlara açıklamalar getirmek ve görsel dili bir işaret dili olarak kullanmaktır (Wikipedia, 2023).
 
     ***
-1. Kaynağındaki biçimiyle kaydedilebilen, saklanabilen ve iletilen görüntü türleri nasıl  tanımlanır?
+1. Kaynağındaki biçimiyle kaydedilebilen, saklanabilen ve iletilen görüntü türleri nasıl tanımlanır?
     - **Cevap A-) Analog görüntü**
     - B-) Piksel Görüntü
     - C-) Vektör görüntü
@@ -322,7 +322,8 @@
     - D-) Ses-etkileşim-algı
     - E-) Mesaj-etkileşim-algı
 
-    > **Açıklama:** Hareket-ses-etkileşim
+    > **Açıklama:** GİRİŞ
+    > Hareket-ses-etkileşim
 
     ***
 1. Aşağıdakilerden hangisi denge ilkesi özelliklerinden biri değildir?
@@ -332,7 +333,8 @@
     - **Cevap D-) Karmaşık bilgileri organize etmek ve izleyicinin dikkatini bir çerçeve/kurgu boyunca görsel ve işitsel düzeyde yönlendirebilmek için denge kullanılır.**
     - E-) Radyal denge ve kristalografik denge de birer simetrik denge türleridir.
 
-    > **Açıklama:** Karmaşık bilgileri organize etmek ve izleyicinin dikkatini bir çerçeve/kurgu boyunca görsel ve işitsel düzeyde yönlendirebilmek için hiyerarşi kullanılır.
+    > **Açıklama:** Denge
+    > Karmaşık bilgileri organize etmek ve izleyicinin dikkatini bir çerçeve/kurgu boyunca görsel ve işitsel düzeyde yönlendirebilmek için hiyerarşi kullanılır.
 
     ***
 1. Rorschach mürekkep lekesi, aşağıdaki hangi ilkeye verilebilecek iyi bir örnektir?
@@ -342,7 +344,8 @@
     - D-) Görsel hiyerarşi
     - E-) Görsel zıtlık
 
-    > **Açıklama:** Dikey simetri
+    > **Açıklama:** Denge
+    > Dikey simetri
 
     ***
 1. Aşağıdakilerden hangisi yerleşim zıtlığı oluşturan karşıt özelliklerden biri değildir?
@@ -352,7 +355,8 @@
     - **Cevap D-) Düzenli-düzensiz**
     - E-) Yakın-uzak
 
-    > **Açıklama:** Düzenli-düzensiz
+    > **Açıklama:** Zıtlık
+    > Düzenli-düzensiz
 
     ***
 1. Aşağıdakilerden hangisi tipografik zıtlık oluşturan karşıt özelliklerden biri değildir?
@@ -362,7 +366,8 @@
     - D-) Büyük punto-küçük punto
     - E-) Regular-bold
 
-    > **Açıklama:** Düz-pürüzlü doku zıtlığıdır.
+    > **Açıklama:** Zıtlık
+    > Düz-pürüzlü doku zıtlığıdır.
 
     ***
 1. Bir denizin kabaran ve alçalan dalgaları hangi ritme örnek olarak verilebilir?
@@ -372,10 +377,11 @@
     - D-) Gelişen
     - E-) Rastlantısal
 
-    > **Açıklama:** Akıcı
+    > **Açıklama:** Ritim
+    > Akıcı
 
     ***
-1. Bir grafiğin bütününde siyah renkli metinler hakim iken metinler arasında  belirli kısımlarının kırmızı renkte yazılması hangi tasarım ilkesi ile ilişkilidir?
+1. Bir grafiğin bütününde siyah renkli metinler hakim iken metinler arasında belirli kısımlarının kırmızı renkte yazılması hangi tasarım ilkesi ile ilişkilidir?
     - A-) Denge
     - B-) Ritim
     - C-) Oran
@@ -412,7 +418,8 @@
     - D-) Bir doku
     - E-) Bir yön
 
-    > **Açıklama:** Bir alan
+    > **Açıklama:** Devamlılık
+    > Bir alan
 
     ***
 ## Unite 5
@@ -423,7 +430,8 @@
     - D-) Hareketli grafikler, ilk olarak 1890’larda sinema filmlerinde yer almaya başlamış, ancak dijital devrim bu grafiklerin tarihsel kökenlerinin biçimini ve yapısını etkilememiştir.
     - E-) Geleneksel baskı tekniklerinde grafik tasarımın vizyonu hareketsizken, hareketli grafiklerin ortaya çıkışı bu vizyonu etkilememiştir.
 
-    > **Açıklama:** Hareketli grafiklerin üretimi, bilgisayar teknolojilerinin yaygınlaşmasıyla birlikte daha az karmaşık ve düşük maliyetli hale gelmiştir.
+    > **Açıklama:** Bilinen en yaygın grafik tasarım stili hareketsiz, düz grafiktir. Bu grafik stili, görsellerin, yazı karakterlerinin ve renklerin kombinasyonuyla izleyiciyi maksimum bilgiye odaklamak, izleyicinin dikkatini çekmek, bilgiyi aktarıp toparlamak için kullanılır. Yirminci yüzyılın ikinci yarısında, yeni medya teknolojilerinin gelişimiyle grafik tasarımın uygulama alanının da genişlediği görülmektedir. Geng’e (2016, s. 761) göre geleneksel baskı tekniklerinde grafik tasarımın vizyonu statikken Yeni Medya Grafik Tasarımla birlikte birden fazla duyuya hitap eden dinamik performansa kavuşmuştur. Sonuç olarak, dinamik medya kullanımı orijinal Grafik Tasarımdan Hareketli Grafik Tasarıma dönüşmüştür. Betancourt’un (2019, s. 43) da belirttiği gibi, hareketlendirilmiş logolar, bilgi grafikleri ve diğer hareketli tasarım türleri sinemanın başlangıcı olan 1890’lardan bu yana sinema filmlerinin bir parçasıdır. Ancak bilgisayar teknolojileri gibi daha ucuz, daha verimli ve daha fazla hassasiyet sunan yeni teknolojiler yaygı
+    > Hareketli grafiklerin üretimi, bilgisayar teknolojilerinin yaygınlaşmasıyla birlikte daha az karmaşık ve düşük maliyetli hale gelmiştir.
 
     ***
 1. Grafik tasarım ve animasyon arasındaki ilişki hakkında aşağıdaki ifadelerden hangisi doğrudur?
@@ -433,7 +441,8 @@
     - D-) Hareketli grafikler, sadece film dili kullanarak animasyon tekniklerini uygular ve grafik tasarım kurallarını göz ardı eder.
     - E-) Grafik tasarım, animasyon tekniklerini kullanarak sadece hareket ilüzyonu oluşturur, hareketli grafiklerin tasarımına dair hiçbir katkıda bulunmaz.
 
-    > **Açıklama:** Hareketli grafikler, animasyon tekniklerinden faydalansa da, grafik tasarımın temel kurallarına tabidir ve tasarımın özgü ihtiyaçlarına yanıt verir.
+    > **Açıklama:** Grafik tasarım ve animasyon arasında hareket bağlamında bir bağlantı kurulması, bu iki alanın birbiriyle birleştiği ya da aynı şey olduğu anlamına gelmemektedir. Hareketli grafik, animasyondan faydalansa da film diline değil, grafik tasarımın temel kurallarına tabidir ve grafik tasarıma özgü ihtiyaçlara cevap veren bir tasarım ürünüdür. “Animasyonda görüntülerin gerçekliği ve hareketi taklit etmek için ardışık olarak yakalandığını veya oluşturulduğunu, dolayısıyla yaşam ilüzyonuna (illusion of life) dayandığı varsayılabilir. Hareketli grafikler ise animasyonu bir teknik olarak kullanır ve grafik tasarımcıların fikirlerini hareketle iletmelerini sağlar” (Schlittler, 2015). Geng’in (2016, s. 761) de belirttiği gibi, hareketli grafik tasarım bilginin yeniden yapılandırılmasına dayanan bir tür popüler bilgi animasyonudur.
+    > Hareketli grafikler, animasyon tekniklerinden faydalansa da, grafik tasarımın temel kurallarına tabidir ve tasarımın özgü ihtiyaçlarına yanıt verir.
 
     ***
 1. Hareketli grafik yapım sürecindeki ön hazırlık hakkında aşağıdaki ifadelerden hangisi doğrudur?
@@ -443,7 +452,8 @@
     - D-) Hareketli grafik tasarım sürecinde, yaratıcı özet hazırlanması gerekmeksizin doğrudan yapım aşamasına geçilir ve müşteriyle görüşmeye gerek duyulmaz
     - E-) Hareketli grafiklerin tasarımı, bir bina inşası gibi planlama gerektirir; ancak bu planlama süreci yaratıcı özetin hazırlanmasından farklıdır.
 
-    > **Açıklama:** Yaratıcı özet hazırlamak, müşteriyle görüşmeyi ve projeyi anlamayı içerir; bu aşama, hareketli grafiklerin yapım sürecinde iletişim ve uyum sağlamak için önemlidir.
+    > **Açıklama:** Hareketli Grafik yapımı aynı film prodüksiyonlarında olduğu gibi bir ön hazırlık süreci gerektirir. Prodüksiyon çalışmasını bir bina inşa etmek gibi görmek mümkün; neticede hiçbir yapı planlama olmadan inşa aşamasına geçemez; işe, planlama ve tasarım olmadan tuğlaları bir araya getirerek başlanmaz. Dolayısıyla inşa edilecek yapı ister bir sinema filmi isterse de grafik tasarım çalışması olsun sistematik bir ön çalışmaya ihtiyaç vardır. Tasarım alanında bu ön hazırlık süreci yaratıcı özet (creative brief) olarak tanımlanmaktadır. “Yaratıcı özet hazırlamak için önce müşteriyle görüşmek, proje hakkında bilgi edinmek ve ardından mümkün olduğunca çok araştırma yapmak gerekir” (Braha & Byrne, 2011, s. 3). Bu özetin amacı, proje başlamadan önce paydaşlar arasında bir iletişim ve uyum sağlamaktır. Bundan ötürü hareketli grafik tasarımında yaratıcı süreç hem yapım aşamasını kolaylaştıracak hazırlıkları hem de hangi alıcı kitleye hangi bilginin ne ölçüde sunulması gerektiğiyle ilgili bir hedef bilgisi içermelidi
+    > Yaratıcı özet hazırlamak, müşteriyle görüşmeyi ve projeyi anlamayı içerir; bu aşama, hareketli grafiklerin yapım sürecinde iletişim ve uyum sağlamak için önemlidir.
 
     ***
 1. Yaratıcı özetin rolü ve önemi hakkında aşağıdaki ifadelerden hangisi **yanlıştır**?
@@ -453,7 +463,8 @@
     - **Cevap D-) Yaratıcı özet, yalnızca estetik tasarımın özetini içerir ve hareketli grafik tasarımında proje hedefleriyle ilgili bilgi sağlamaz.**
     - E-) Yaratıcı özet hazırlığı, hareketli grafik yapım sürecini sistematik bir şekilde organize etmek için gereklidir.
 
-    > **Açıklama:** Yaratıcı özet, yalnızca estetik tasarımın özetini içerir ve hareketli grafik tasarımında proje hedefleriyle ilgili bilgi sağlamaz.
+    > **Açıklama:** D şıkkındaki 'Yaratıcı özet, yalnızca estetik tasarımın özetini içerir ve hareketli grafik tasarımında proje hedefleriyle ilgili bilgi sağlamaz' bilgisi yanlış bilgidir.
+    > Yaratıcı özet, yalnızca estetik tasarımın özetini içerir ve hareketli grafik tasarımında proje hedefleriyle ilgili bilgi sağlamaz.
 
     ***
 1. Hazırlık aşamasının teknik ve mali ihtiyaçların belirlenmesindeki rolü hakkında aşağıdaki ifadelerden hangisi doğrudur?
@@ -463,7 +474,8 @@
     - D-) Teknik türler, bütçeye uygun olarak tercih edilmez ve bu nedenle bütçeye uygun maliyetli tekniklerin seçilmesine gerek bulunmaz.
     - E-) Yapım sürecine başlamadan önce maliyeti belirlenmiş bir iş, müşteri ve tasarımcı için herhangi bir güvenlik ve organizasyon sağlanmaz.
 
-    > **Açıklama:** Teknik ve mali ihtiyaçlar, yapım süreci başladıktan sonra belirlendiğinde, tasarım sürecinde sorun yaşanabilir ve zaman kaybı yaşanabilir.
+    > **Açıklama:** Hazırlık aşaması aynı zamanda çalışmanın teknik ve mali ihtiyaçlarının belirlenmesi için de önemlidir. Bu ihtiyaçların daha hazırlık aşamasında hesaplanması hem tasarımcının yapım sürecindeki ihtiyaçlarının önceden karşılanmasını hem de müşterinin beklediği iş için ayırması gereken bütçeyi öğrenmesini ve kendisini buna göre ayarlamasını sağlar. Örneğin bir reklam filmi için yapılacak çalışmada tasarımcının ihtiyaç duyduğu bilgisayar sisteminin ya da kullanılacak programların yapım aşamasına geçmeden önce hazırlanması, gerekirse satın alınması gerekir. Bu tür ihtiyaçların yapım süreci başladıktan sonra sağlanması hem zaman kaybı yaratır hem de ortaya çıkabilecek sorunlarda sürecin kilitlenmesi riskini ortaya çıkarır. Benzer şekilde maliyeti belli olmayan bir işin yürütülmesi hem müşteri hem de tasarımcı için büyük bir sıkıntı, karmaşa ve güvensizlik yaratacaktır. Ayrıca teknik türler de bütçeye uygun şekilde tercih edilir. Örneğin bütçe kompleks bir 3D çalışmayı karşılamaya yetmiyorsa ya bütçenin revize edi
+    > Teknik ve mali ihtiyaçlar, yapım süreci başladıktan sonra belirlendiğinde, tasarım sürecinde sorun yaşanabilir ve zaman kaybı yaşanabilir.
 
     ***
 1. Bir yaratıcı özet kağıdında bulunması gereken ana başlıklardan hangisinde izleyicide uyandırması amaçlanan duygulara yer verir?
@@ -473,7 +485,7 @@
     - D-) Proje Çıktıları
     - E-) Sinopsis
 
-    > **Açıklama:** Verilecek Mesaj
+    > **Açıklama:** Verilecek Mesaj: Projenin vereceği mesaj nedir? İzleyicide uyandırması beklenen duygular nelerdir? İzleyicide nasıl bir etki bırakması hedeflenmektedir?
 
     ***
 1. Hareketli grafik yapım sürecindeki aşamaların açıklamalarıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?
@@ -483,7 +495,8 @@
     - D-) Post-prodüksiyon aşamasında, filmin gösterim tarihine kadar hiçbir ek hazırlık veya tasarım yapılmaz.
     - **Cevap E-) Ön-prodüksiyon aşamasında hazırlanan tüm öğeler, prodüksiyon aşamasında uygulanmaya başlanır ve post-prodüksiyon aşamasında kurgulanır.**
 
-    > **Açıklama:** Ön-prodüksiyon aşamasında hazırlanan tüm öğeler, prodüksiyon aşamasında uygulanmaya başlanır ve post-prodüksiyon aşamasında kurgulanır.
+    > **Açıklama:** Hareketli grafik yapım aşamaları, daha önce de belirtildiği gibi animasyon film ve reel-görüntü film yapım aşamalarıyla benzer bir yol izlemektedir. Bu yol ön-prodüksiyon, prodüksiyon ve post-prodüksiyon olmak üzere üç aşamadan oluşmaktadır. İlk aşama yapım aşamasına geçmeden önce yapılan hazırlıkları, tasarımları ve planlamaları içerir. Prodüksiyon aşamasına geçmeden her türlü ayrıntının, senaryonun, taslağın, karakterlerin, konseptlerin, kamera, mekân ve sahne tasarımlarının, teknik ihtiyaçların, ışık ve ses planlamalarının yapıldığı süreçtir. Bu aşama animasyon/film/hareketli grafik yapım sürecinin en uzun ve ayrıntılı kısmını oluşturur. İkinci aşama olan prodüksiyona geçildiğinde zaten önceden hazırlanmış her öğe uygulamaya geçer. Animasyonlar, çekimler yapılır, oyuncular rollerini oynar, ses ve ışık ekibi çekimler sırasında görevlerini yapar. Ön-prodüksiyon aşamasında planlanmış tüm çekimler yapıldığında, tüm animasyonlar tamamlandığında üçüncü aşamaya, post-prodüksiyona geçilir. Yapım sonrası, film g
+    > Ön-prodüksiyon aşamasında hazırlanan tüm öğeler, prodüksiyon aşamasında uygulanmaya başlanır ve post-prodüksiyon aşamasında kurgulanır.
 
     ***
 1. Animasyon film ve reel-görüntü film yapımı arasındaki farklar hakkında aşağıdaki ifadelerden hangisi doğrudur?
@@ -493,7 +506,8 @@
     - D-) Hareketli grafik yapımında ses tasarımı ve görüntü ilişkisi, reel-görüntü filmlerinde olduğu gibi aynıdır.
     - **Cevap E-) Reel-görüntü filmlerinde ses, görüntünün üzerine eklenirken, animasyon filmlerinde görüntü sesin üzerine eklenir.**
 
-    > **Açıklama:** Reel-görüntü filmlerinde ses, görüntünün üzerine eklenirken, animasyon filmlerinde görüntü sesin üzerine eklenir.
+    > **Açıklama:** Animasyon film ve reel-görüntü film yapımı arasında belli farklılıklar olduğu gibi hareketli grafik yapımında da farklılıklar mevcuttur. Örneğin reel-görüntü filmlerinde ses tasarımı görüntünün üzerine eklenen bir öğeyken animasyon filmlerde görüntü sesin üzerine eklenir. Reel-görüntü filmlerinde çerçeve içerisinde ne gösterildiği daha önemliyken animasyonun merkezinde hareket olgusu bulunduğu için “çerçeveler arası” geçişler önemlidir. Bu farklılıklar yapım sürecindeki önceliklerin, ihtiyaçların ve yapım ekibindeki görevlerin de değişmesini gerektirir. Hareketli Grafik yapımında amaç, bilgi aktarımı olduğu için hikâyenin/senaryonun olay örgüsü de aynı üç perdeli yapıya dayanmasına rağmen değişime uğramaktadır.
+    > Reel-görüntü filmlerinde ses, görüntünün üzerine eklenirken, animasyon filmlerinde görüntü sesin üzerine eklenir.
 
     ***
 1. Hareketli grafik yapımında üç perdeli yapının nasıl uygulandığına dair aşağıdaki ifadelerden hangisi doğrudur?
@@ -503,7 +517,8 @@
     - D-) Üç perdeli yapının son bölümünde, hareketli grafiklerde bilgi, karakterlerin çözüm süreciyle ilgili olarak derinlemesine işlenir ve tatmin edici sonuçlar elde edilir.
     - E-) Hareketli grafiklerde üç perdeli yapı, bilgi aktarımında sadece başlangıç aşamasını kapsar; gelişme ve sonuç aşamaları bilgi aktarımını etkilemez.
 
-    > **Açıklama:** Üç perdeli yapı, hareketli grafiklerde bilgi akışını açıklamak için kullanılır; gelişme bölümünde bilgiye dair çözümler belirlenir ve sonuç bölümünde bilgi tatmin edici bir şekilde sunulur.
+    > **Açıklama:** Blazer’ın (2016) da belirttiği gibi, üç perdeli yapı, bilgi odaklı hareketli grafikler için de işe yaramaktadır. Sorun çözmeyi amaçlayan karakterlerle çalışılmıyor olsa da yanıtlanması gereken bir soru ya da problem mevcuttur. Animasyon film yapımında olay örgüsünün birinci aşaması olan giriş (birinci Perde) bölümünde karakterin tanıtılması, davranış ve tepkilerine göre ruh halinin ortaya konması, karakterin içinde bulunduğu dünya ve koşulların gösterilmesi, ileride gerçekleşecek olaylara/sorunlara zemin hazırlanması gibi bir başlangıç söz konusudur. Hareketli grafik yapımında bunun yerini kurguya konu olan bilgiyi açıklamaya zemin hazırlayacak soruların ve sorunların ortaya konması gerekmektedir. Üç Perdeli Yapının ikinci perdesinde yani gelişme bölümünde ise Hareketli Grafik yapımında başlangıçta ortaya konulan sorunun çözülmesi için gerekli durumlar belirlenir, sorulara cevaplar aranır, yanlış cevaplar elenir, sonuca giden yol aydınlatılır. Doruk noktasına varıldığında gerçek cevap ya da sorunun çözümüy
+    > Üç perdeli yapı, hareketli grafiklerde bilgi akışını açıklamak için kullanılır; gelişme bölümünde bilgiye dair çözümler belirlenir ve sonuç bölümünde bilgi tatmin edici bir şekilde sunulur.
 
     ***
 1. Belirli bir başlangıcı, ortası ve sonu olan, tek bir fikirle birbirine bağlanan bir diziyi tanımlayan terim aşağıdakilerden hangisidir?
@@ -513,7 +528,7 @@
     - D-) Film parçası
     - **Cevap E-) Sekans**
 
-    > **Açıklama:** Sekans
+    > **Açıklama:** Sekans “belirli bir başlangıcı, ortası ve sonu olan, tek bir fikirle birbirine bağlanan bir dizi sahnedir. Tek bir fikirle birleştirilen dramatik bir eylem birimi ya da bloğudur. Senaryonun iskeleti ya da omurgasıdır ve her şeyi bir arada tutar” (Field, 2004, s. 184).
 
     ***
 ## Unite 6
@@ -599,7 +614,7 @@
     ***
 1. Aşağıdaki seçeneklerde yer alan yöntemlerden hangisi ekonomik açıdan diğerlerine göre daha dezavantajlıdır?
     - A-) 2D
-    - B-) 2.5D
+    - B-) 2\.5D
     - C-) Rotoskop
     - D-) Kısıtlı animasyon
     - **Cevap E-) 3D**
@@ -612,7 +627,7 @@
     - B-) Cel animasyon
     - **Cevap C-) CGI**
     - D-) 2D
-    - E-) 2.5D
+    - E-) 2\.5D
 
     > **Açıklama:** Projelerde CGI kullanımı ise karmaşık efektlerin ve animasyonların oluşturulmasında yoğun işgücü ve yazılım kullanabilme bilgisi gerektirmektedir.
 
@@ -668,17 +683,17 @@
     > **Açıklama:** Gerçek kameralar veya bilgisayar ortamında bulunan sanal kameralar, hareketli grafiklerin kayıt altına alınması aşamasında temel oluşturmaktadır. Hem gerçek dünyadaki hem de sanal kameraların temel özellikleri; görünümü ve hissiyatı bakımından daha hassas bir şekilde projelerde kullanılabilmesidir. Film kameraları, kareleri film şeritlerine kaydeder. Işığa duyarlı bir **emülsiyona** sahip selüloidden, hareketsiz bir film rulosundan negatifler geliştirmeye benzer bir işlemle geliştirilir.
 
     ***
-1. Farklı lensler alınarak tek bir kamera ile makro çekimden panoramik manzaralara kadar çekim olanağı sağlayan, hem profesyonel hem de amatör fotoğrafçılar tarafından kullanılan dijital kameralara ne ad verilir?
+1. Farklı lensler alınarak tek bir kamera ile makro çekimden panoramik manzaralara kadar çekim olanağı sağlayan, hem profesyonel hem de amatör fotoğrafçılar tarafından kullanılan dijital kameralara ne ad verilir?
     - **Cevap A-) DSLR**
     - B-) SDLR
     - C-) DRLS
     - D-) DLRS
     - E-) DSRL
 
-    > **Açıklama:** **DSLR** ya da Digital Single Lens Reflex kamera (Tr. Dijital Tek Mercek Yansımalı kamera), hem profesyonel hem de amatör fotoğrafçılar tarafından kullanılan bir fotoğraf makinesi türüdür. Dijital SLR’lere farklı lensler alınarak tek bir kamera gövdesinin makro fotoğrafçılıktan panoramik manzaralara kadar her şeyi çekmesine olanak tanınabilir.
+    > **Açıklama:** **DSLR** ya da Digital Single Lens Reflex kamera (Tr. Dijital Tek Mercek Yansımalı kamera), hem profesyonel hem de amatör fotoğrafçılar tarafından kullanılan bir fotoğraf makinesi türüdür. Dijital SLR’lere farklı lensler alınarak tek bir kamera gövdesinin makro fotoğrafçılıktan panoramik manzaralara kadar her şeyi çekmesine olanak tanınabilir.
 
     ***
-1. Aşağıdakilerden hangisi, SSD’deki sıralı ve rastgele veri istekleri için yüksek okuma/yazma performansı sağlamak üzere optimize edilmiş yapılandırmanın iki temel bileşeninden biridir?
+1. Aşağıdakilerden hangisi, SSD’deki sıralı ve rastgele veri istekleri için yüksek okuma/yazma performansı sağlamak üzere optimize edilmiş yapılandırmanın iki temel bileşeninden biridir?
     - A-) Mekanik kol
     - B-) Döner plakalar
     - **Cevap C-) Flash denetleyici**
@@ -733,7 +748,7 @@
     > **Açıklama:** Sanal Gerçeklik (VR), Artırılmış Gerçeklik (AR) ve Karma Gerçekliği (MR) kapsayan **Genişletilmiş Gerçekliğin (XR)** ortaya çıkışı, yeni bir sürükleyici deneyimler çağını müjdelemektedir. Bu teknolojiler hareketli grafik tasarımcılarının ve hareketli görüntü ile çalışan sanatçıların tuvalini genişleterek geleneksel medyanın kısıtlamalarına meydan okuyan çok boyutlu, etkileşimli anlatılar yaratmalarını sağlamaktadır.
 
     ***
-1. “Yapay zeka” teriminin ilk kez kullanıldığı Dartmouth Konferansı kaç yılında gerçekleşmiştir?
+1. “Yapay zeka” teriminin ilk kez kullanıldığı Dartmouth Konferansı kaç yılında gerçekleşmiştir?
     - A-) 1955
     - **Cevap B-) 1956**
     - C-) 1957

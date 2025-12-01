@@ -12,8 +12,7 @@
         "D": "<p>Vektör (Vector) modelleme</p>",
         "E": "<p>Çokgen ağ (Polygon Mesh) modelleme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832592,
@@ -28,8 +27,7 @@
         "D": "<p>Çokgen ağ modelleme</p>",
         "E": "<p>Vektör modelleme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832594,
@@ -44,8 +42,7 @@
         "D": "<p>Grafik tasarım</p>",
         "E": "<p>Harita çizimi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832598,
@@ -60,8 +57,7 @@
         "D": "<p>Yüzey modelleme</p>",
         "E": "<p>Çokgen ağ</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832601,
@@ -76,8 +72,7 @@
         "D": "<p>CSG (Constructive Solid Geometry)</p>",
         "E": "<p>Katı modelleme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832603,
@@ -92,8 +87,7 @@
         "D": "<p>Photoshop</p>",
         "E": "<p>Fusion 360</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832610,
@@ -108,8 +102,7 @@
         "D": "<p>Yüzey modelleme</p>",
         "E": "<p>Parametrik modelleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832613,
@@ -124,8 +117,7 @@
         "D": "<p>Sadece animasyon yapmak için kullanılır.</p>",
         "E": "<p>Yüzey oluşturmak için kullanılır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832615,
@@ -140,8 +132,7 @@
         "D": "<p>Katı modelleme yapamaz.</p>",
         "E": "<p>Yanlızca vektörel model oluşturur.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832616,
@@ -156,7 +147,6 @@
         "D": "<p>Film prodüksiyonu</p>",
         "E": "<p>Web tasarımında</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

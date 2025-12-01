@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 110839,
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 110856,
@@ -54,11 +56,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 110879,
-        "SoruMetni": "I. Bir imgeye bakışta farklı yollar ileri sürmektedir.<br/> <br/>II. Fotoğrafa bakan kişiye farklı bakış açısı kazandırarak keşfetmeye yöneltir.<br> <br/>III. Anlamın sınırsız okunmasına imkân sağlamaktadır.<br> <br/><strong>Yukarıda özellikleri verilen fotoğraf türü hangisidir?</strong></br></br>",
+        "SoruMetni": "I. Bir imgeye bakışta farklı yollar ileri sürmektedir.<br/>II. Fotoğrafa bakan kişiye farklı bakış açısı kazandırarak keşfetmeye yöneltir.<br/>III. Anlamın sınırsız okunmasına imkân sağlamaktadır.<br/><strong>Yukarıda özellikleri verilen fotoğraf türü hangisidir?</strong></br></br>",
         "A": "Sanat fotoğrafı",
         "B": "Belgesel fotoğraf",
         "C": "Deneysel fotoğraf",
@@ -73,7 +76,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 110893,
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 118273,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 118282,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 118285,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 118289,
@@ -168,11 +176,12 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 118298,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi </strong><strong>Cumhuriyet’in ilk yıllarında fotoğrafçılıkta egemen olan Romantik Akım’ın özelliklerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi </strong><strong>Cumhuriyet’in ilk yıllarında fotoğrafçılıkta egemen olan Romantik Akım’ın özelliklerinden biri <u>değildir</u>?</strong>",
         "A": "Türkiye’nin tanıtımı hedeflenmiştir.",
         "B": "İnkılapların yerleşmesine çalışılmıştır.",
         "C": "Ülkenin güzellikleri fotoğraflanmıştır.",
@@ -187,11 +196,12 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 118301,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi </strong><strong>1980 Sonrası Fotoğrafçılık Akımı'nın özellikleri arasında <u>yer almaz</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi </strong><strong>1980 Sonrası Fotoğrafçılık Akımı'nın özellikleri arasında <u>yer almaz</u>?</strong>",
         "A": "Kurgusaldır.",
         "B": "Gerçekçidir.",
         "C": "Bireyseldir.",
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 118304,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 118306,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 118310,
@@ -263,11 +276,12 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 118311,
-        "SoruMetni": "I. Görüntünün önceden izlenebilmesi<br/> <br/>II. Fotoğraf filminin ortadan kalkması<br> <br/>III. Görüntünün anında elde edilebilmesi<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri dijital fotoğrafçılığın özellikleri arasında yer alır?</strong> </br></br>",
+        "SoruMetni": "I. Görüntünün önceden izlenebilmesi<br/>II. Fotoğraf filminin ortadan kalkması<br/>III. Görüntünün anında elde edilebilmesi<br/><strong>Yukarıdakilerden hangisi ya da hangileri dijital fotoğrafçılığın özellikleri arasında yer alır?</strong> </br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -282,7 +296,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 155794,
@@ -301,7 +316,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 155795,
@@ -320,7 +336,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 155796,
@@ -339,7 +356,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 155797,
@@ -358,7 +376,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 155808,
@@ -377,7 +396,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 155810,
@@ -396,11 +416,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 331106,
-        "SoruMetni": "I. Burhan Felek<br/> <br/>II. Ara Güler<br> <br/>III. Ferit İbrahim<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri Osmanlı Dönemi fotoğrafçıları arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Burhan Felek<br/>II. Ara Güler<br/>III. Ferit İbrahim<br/><strong>Yukarıdakilerden hangisi ya da hangileri Osmanlı Dönemi fotoğrafçıları arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -415,11 +436,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 331118,
-        "SoruMetni": "……………………fotoğrafın kitaplaşma çalışmalarına ev sahipliği yapmıştır. Bu dönemde fotoğrafla ilgili iki kitap olan Risale-i Fotografya yayınlanmıştır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "……………………fotoğrafın kitaplaşma çalışmalarına ev sahipliği yapmıştır. Bu dönemde fotoğrafla ilgili iki kitap olan Risale-i Fotografya yayınlanmıştır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Osmanlı Dönemi",
         "B": "Romantik Dönem",
         "C": "Cumhuriyet Dönemi",
@@ -434,7 +456,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 331124,
@@ -453,7 +476,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 363132,
@@ -472,7 +496,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 363604,
@@ -491,7 +516,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 366231,
@@ -510,6 +536,7 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     }
 ]

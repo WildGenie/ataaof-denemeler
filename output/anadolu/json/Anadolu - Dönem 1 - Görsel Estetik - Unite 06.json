@@ -52,7 +52,7 @@
         "Unite": 6,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.740353",
+        "OlusturmaTarihi": "2025-12-01T04:16:16.220668",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 3858320,
-        "SoruMetni": "Yazılı kültürün dil bilgisi ve söz dizimi kavramların görsel sanatlardaki karşılığına _____________ adı verilir.<br/> Yukarıdaki boşluğu aşağıdakilerden hangisi en iyi şekilde tamamlar?",
+        "SoruMetni": "Yazılı kültürün dil bilgisi ve söz dizimi kavramların görsel sanatlardaki karşılığına _____________ adı verilir.<br/>Yukarıdaki boşluğu aşağıdakilerden hangisi en iyi şekilde tamamlar?",
         "A": "perspektif",
         "B": "estetik",
         "C": "komposizyon",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3858322,
-        "SoruMetni": "Nesnelerin fiziksel yapılarının iç özelliklerini, dış yüzeylerinden anlamamızı sağlayan işlevsel özelliklere ____________ denir ve doğanın en temel yapısal özelliklerinden birisidir.<br/> Aşağıdakilerden hangisi yukarıdaki cümleyi en iyi şekilde tamamlar?",
+        "SoruMetni": "Nesnelerin fiziksel yapılarının iç özelliklerini, dış yüzeylerinden anlamamızı sağlayan işlevsel özelliklere ____________ denir ve doğanın en temel yapısal özelliklerinden birisidir.<br/>Aşağıdakilerden hangisi yukarıdaki cümleyi en iyi şekilde tamamlar?",
         "A": "Biçim",
         "B": "Doku",
         "C": "Renk",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3858323,
-        "SoruMetni": "______________ ışınların nesnelere çarptıktan sonra yansımaları sonucu gözümüzün algıladığı duyumlardır.<br/> Aşağıdakilerden hangisi, yukarıdaki cümleyi en iyi şekilde tamamlar?",
+        "SoruMetni": "______________ ışınların nesnelere çarptıktan sonra yansımaları sonucu gözümüzün algıladığı duyumlardır.<br/>Aşağıdakilerden hangisi, yukarıdaki cümleyi en iyi şekilde tamamlar?",
         "A": "Biçim",
         "B": "Doku",
         "C": "Ölçü",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3858324,
-        "SoruMetni": "I. Tekrar<br/><br/>II. Hareket<br/><br/>III. Zıtlık<br/><br/>IV. Egemenlik<br/><br/>Yukarıdakilerden hangileri, kompozisyon oluşturmanın temel ilkeleridir?",
+        "SoruMetni": "I. Tekrar<br/>II. Hareket<br/>III. Zıtlık<br/>IV. Egemenlik<br/>Yukarıdakilerden hangileri, kompozisyon oluşturmanın temel ilkeleridir?",
         "A": "I ve II",
         "B": "I ve III",
         "C": "I, II ve III",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 3858325,
-        "SoruMetni": "Bir kompozisyonda tasarım ögelerini, tasarım ilkelerine göre kullanarak varacağımız nokta _____________. <br/> Aşağıdakilerden hangisi, yukarıdaki cümleyi en iyi şekilde tamamlar?",
+        "SoruMetni": "Bir kompozisyonda tasarım ögelerini, tasarım ilkelerine göre kullanarak varacağımız nokta _____________. <br/>Aşağıdakilerden hangisi, yukarıdaki cümleyi en iyi şekilde tamamlar?",
         "A": "...hareket ve değişimdir.",
         "B": "...uyum ve değişimdir.",
         "C": "...denge ve birliktir.",
@@ -200,6 +200,26 @@
         "Aciklama": "Denge ve Birlik: Bir kompozisyonda tasarım ögelerini, tasarım ilkelerine göre kullanarak varacağımız nokta denge ve birliktir. Denge tarafların ya da kuvvetlerin eşit olma hâlidir. Göz her zaman dengeyi arar. Doğada örneklerini sıklıkla gördüğümüz simetri, denge kurmada sıklıkla başvurulan en eski yöntemlerden birisidir. Asaleti, saygınlığı ve dürüstlüğü de simgeler. Simetride her şey karşılıklıdır. Asimetrik denge dediğimizde, daha önce bahsedilmiş olan Altın Oran, altın kesim gözün aradığı denge ölçütüdür ki ancak egemenlik ve zıtlık yoluyla oluşturulabilir. Simetrideki gibi aynı olmayan ya da birbirlerine benzemeyen ögelerin arasındaki dinamik dengedir. Birlik ya da bütünlük ancak denge kurulursa oluşturulabilir."
     },
     {
+        "SoruID": 3858326,
+        "SoruMetni": "Yüzey organizasyonunda, iki boyutlu bir düzlemde üçüncü boyut yani derinlik yanılsaması vermek için kullanılan tekniğe ne ad verilir?",
+        "A": "Perspektif",
+        "B": "Figür",
+        "C": "Örtme",
+        "D": "Saydamlık",
+        "E": "Egemenlik",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 6,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:08.944065",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Tüm iki boyutlu sanatsal çalışmalarda üç boyutlu görünüm elde etme (görüldükleri gibi çizme) perspektif çizim tekniği kullanılarak yapılır. Perspektif, yüzey organizasyonunda, iki boyutlu bir düzlemde üçüncü boyut yani derinlik yanılsaması vermek için kullanılan tekniktir. Kesin geometrik kurallara ve orantılara bağlıdır. Bugün çizgi perspektifin tek, iki ve üç kaçar noktalı çizim yöntemlerin yanında hava perspektifi de kullanılmaktadır."
+    },
+    {
         "SoruID": 3858327,
         "SoruMetni": "Aşağıdakilerden hangisi, uzaklık ve derinlik algısı yaratmada kullanılan ilkelerden biridir?",
         "A": "Yakınlık",
@@ -212,7 +232,7 @@
         "Unite": 6,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.743337",
+        "OlusturmaTarihi": "2025-12-01T04:16:16.230938",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -221,7 +241,7 @@
     },
     {
         "SoruID": 3858328,
-        "SoruMetni": "Geniş, açık ve aydınlık yüzeyler/ alanlar, benzer ölçüde tekrarlanan ögeler sıcak-soğuk renk zıtlıkları, doku zıtlıkları ve zıtlığın kendisi kompozisyonda figürden daha çok ve geniş yer kaplayarak ____________ yaratırlar.<br/> Aşağıdakilerden hangisi, yukarıdaki cümleyi en iyi şekilde tamamlar?",
+        "SoruMetni": "Geniş, açık ve aydınlık yüzeyler/ alanlar, benzer ölçüde tekrarlanan ögeler sıcak-soğuk renk zıtlıkları, doku zıtlıkları ve zıtlığın kendisi kompozisyonda figürden daha çok ve geniş yer kaplayarak ____________ yaratırlar.<br/>Aşağıdakilerden hangisi, yukarıdaki cümleyi en iyi şekilde tamamlar?",
         "A": "görsel algılamada belirliliği",
         "B": "uzaklık ve derinlik etkisi",
         "C": "fon/zemin etkisi",
@@ -480,6 +500,46 @@
         "Aciklama": "<span style=\"font-size: 11.0pt;\">Fibonacci Sayıları: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144</span>"
     },
     {
+        "SoruID": 3858453,
+        "SoruMetni": "“Bugün kullanılmakta olan renk kuramını; Aslında 1919 -1923 yılları arasında Bauhaus okulunda verdiği derslerde geliştiren, daha sonra kendi kur­muş olduğu tasarım okulunda öğreten …….. …..’e borç­luyuz.”<br/>Yukarıda verilen paragrafta boş bırakılan yere aşağıdaki hangi sanatçıdan bahsetmektedir?",
+        "A": "William Morris",
+        "B": "Walter Gropius",
+        "C": "Josef Albers",
+        "D": "Johannes Itten",
+        "E": "Oskar Schlemmer",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Estetik",
+        "Unite": 6,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:09.076104",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Bugün kullanılmakta olan renk kuramını; Aslında 1919 -1923 yılları arasında Bauhaus okulunda verdiği derslerde geliştiren, daha sonra kendi kur­muş olduğu tasarım okulunda öğreten Johannes Itten’e borç­luyuz."
+    },
+    {
+        "SoruID": 3858454,
+        "SoruMetni": "“Aynı olmama, benzer yönlerin olmama­sı, karşıt olma, çelişkili olmak demektir. Felsefedeki karşıtların birliği ilkesi evrendeki her şeyin karşıtla­rın dengesi üzerine oluştuğunu varsayar. Buna göre hafifi tanımlayabilmek için ağırın bilinmesi, beyazı tanımlayabilmek için siyahın bilinmesi ince/kalın açık/koyu, geniş/dar, dişi/erkek, iyi/kötü, mat/ parlak, güzel/çirkin v.b. gibi örnekler çoğaltılabilir.”<br/>Yukarıda verilen paragrafta aşağıdaki temel tasarım ilkesinden bahsetmektedir?",
+        "A": "Zıtlık",
+        "B": "Tekrar",
+        "C": "Egemenlik",
+        "D": "Komposizyon",
+        "E": "Ayrıntı",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 6,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:08.981501",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Zıtlık: Aynı olmama, benzer yönlerin olmama­sı, karşıt olma, çelişkili olmak demektir. Felsefedeki karşıtların birliği ilkesi evrendeki her şeyin karşıtla­rın dengesi üzerine oluştuğunu varsayar. Buna göre hafifi tanımlayabilmek için ağırın bilinmesi, beyazı tanımlayabilmek için siyahın bilinmesi ince/kalın açık/koyu, geniş/dar, dişi/erkek, iyi/kötü, mat/ parlak, güzel/çirkin v.b. gibi örnekler çoğaltılabilir."
+    },
+    {
         "SoruID": 3858543,
         "SoruMetni": "MÖ 5. yüzyılda perspektif üzerine temel bir kitap yazan yunan ressam aşağıdakilerden hangisidir?",
         "A": "Aetion",
@@ -517,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tüm iki boyutlu sanatsal çalışmalarda üç boyutlu görünüm elde etme (görüldükleri gibi çizme) perspektif çizim tekniği kullanılarak yapılır. Perspektif, yüzey organizasyonunda, iki boyutlu bir düzlemde üçüncü boyut yani derinlik yanılsaması vermek için kullanılan tekniktir. Kesin geometrik kurallara ve orantılara bağlıdır. Bu­gün çizgi perspektifin tek, iki ve üç kaçar noktalı çizim yöntemlerin yanında hava perspektifi de kullanılmaktadır.<br/> Resim sanatında perspektifi ilk kez onun uyguladığı söylenen Leonardo Da Vinci’den çok daha önce­leri bile, antikite denilen dönemde yani eski Yunan ve Roma uygarlıklarında uygulandığı bilinmektedir, Resim 6.32. Ancak tarihin tüm çağlarında kullanılan bir teknik de değildir. Minyatür sanatı buna en basit örnektir. Çin, Hitit, Mezopotamya ve Mısır uygarlıklarında da kullanılmamıştır."
+        "Aciklama": "Tüm iki boyutlu sanatsal çalışmalarda üç boyutlu görünüm elde etme (görüldükleri gibi çizme) perspektif çizim tekniği kullanılarak yapılır. Perspektif, yüzey organizasyonunda, iki boyutlu bir düzlemde üçüncü boyut yani derinlik yanılsaması vermek için kullanılan tekniktir. Kesin geometrik kurallara ve orantılara bağlıdır. Bu­gün çizgi perspektifin tek, iki ve üç kaçar noktalı çizim yöntemlerin yanında hava perspektifi de kullanılmaktadır.<br/>Resim sanatında perspektifi ilk kez onun uyguladığı söylenen Leonardo Da Vinci’den çok daha önce­leri bile, antikite denilen dönemde yani eski Yunan ve Roma uygarlıklarında uygulandığı bilinmektedir, Resim 6.32. Ancak tarihin tüm çağlarında kullanılan bir teknik de değildir. Minyatür sanatı buna en basit örnektir. Çin, Hitit, Mezopotamya ve Mısır uygarlıklarında da kullanılmamıştır."
     },
     {
         "SoruID": 3858545,
@@ -580,26 +640,6 @@
         "Aciklama": "Şekil (Biçim) Arnheim’e göre bir nesnenin fiziksel yapısına bire bir benzemese de nesnenin tanınmasını sağlayan, nesnenin dış sınırlarını belirten ve bakıldığında hemen göze çarparak algılanabilen en temel özelliklerdir. Şekil iki boyutluluğu (en-boy) Form üç boyutluğu (en-boy-yükseklik) tanımlar."
     },
     {
-        "SoruID": 3858587,
-        "SoruMetni": "Aşağıdakilerden hangisi bir nesnenin başka bir nesneyle ya da bir bütün içerisinde yer alan bir parçanın diğer parçalarla veya bütün ile karşılaştırılarak herhangi bir özelliğinin algılanması anlamına gelen sözcüktür?",
-        "A": "Oran",
-        "B": "Yön",
-        "C": "Hareket",
-        "D": "Nokta",
-        "E": "Çizgi",
-        "DogruCevap": "A",
-        "DersAd": "Görsel Estetik",
-        "Unite": 6,
-        "Somestre": "1",
-        "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.792496",
-        "GelYer": 0,
-        "DersId": 0,
-        "OBSDersId": 0,
-        "CevapSira": null,
-        "Aciklama": "Bir nesnenin başka bir nesneyle ya da bir bütün içerisinde yer alan bir parçanın diğer parçalarla veya bütün ile karşılaştırılarak herhangi bir özelliğinin algılanmasına Ölçü / oran denmektedir. Doğru cevap A'dır."
-    },
-    {
         "SoruID": 3858588,
         "SoruMetni": "Düzenli bir tekrara dayanarak hareketi başlatan, sürdüren, birleştirici ve uyum sağlayıcı bir öge olan, ve bireyin algılamasına kolaylık sağlar. Renk, ton<br/>değeri, doku, çizgi, biçim öğelerin bir düzen içerisinde birbiriyle ilişkilerini sağlayan, ön-arka ilişkisi kurduran, kompozisyon elemanı aşağıdakilerden hangisidir?",
         "A": "Ritim",
@@ -657,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Resim sanatında perspektifi ilk kez onun uyguladığı söylenen Leonardo Da Vinci’den çok daha önceleri bile, antikite denilen dönemde yani eski Yunan ve Roma uygarlıklarında uygulandığı bilinmektedir. Ancak tarihin tüm çağlarında kullanılan bir teknik de değildir. Minyatür sanatı buna en basit örnektir. Çin, Hitit, Mezopotamya ve Mısır uygarlıklarında da kullanılmamıştır. Doğru cevap D'dir."
+        "Aciklama": "Resim sanatında perspektifi ilk kez onun uyguladığı söylenen Leonardo Da Vinci’den çok daha önceleri bile, antikite denilen dönemde yani eski Yunan ve Roma uygarlıklarında uygulandığı bilinmektedir. Ancak tarihin tüm çağlarında kullanılan bir teknik de değildir. Minyatür sanatı buna en basit örnektir. Çin, Hitit, Mezopotamya ve Mısır uygarlıklarında da kullanılmamıştır. Doğru cevap D'dir."
     },
     {
         "SoruID": 3858591,
@@ -732,7 +772,7 @@
         "Unite": 6,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.829350",
+        "OlusturmaTarihi": "2025-12-01T04:16:16.216777",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -741,7 +781,7 @@
     },
     {
         "SoruID": 3859313,
-        "SoruMetni": "Maddelerden hangileri herhangi bir zamanda ve yerde, insanlar tarafından üretilmiş olan bir yapıtı var eden ortak temel özelliklerdendir?<br/> <strong>I.</strong> Bireysellik                <strong>II.</strong> Renk                        <strong>III.</strong> Zaman<br/> <strong>IV.</strong> Hareket                 <strong> V.</strong> Malzeme                  <strong> VI.</strong> Evrensellik",
+        "SoruMetni": "Maddelerden hangileri herhangi bir zamanda ve yerde, insanlar tarafından üretilmiş olan bir yapıtı var eden ortak temel özelliklerdendir?<br/><strong>I.</strong> Bireysellik <strong>II.</strong> Renk <strong>III.</strong> Zaman<br/><strong>IV.</strong> Hareket <strong> V.</strong> Malzeme <strong> VI.</strong> Evrensellik",
         "A": "II, VI",
         "B": "I, III, VI",
         "C": "II, V, VI",
@@ -761,7 +801,7 @@
     },
     {
         "SoruID": 3859314,
-        "SoruMetni": "Kompozisyona ilişkin verilen ifadelerden hangileri doğrudur?<br/> <strong>I.</strong> Kompozisyon yapma yöntemini; yapıtın farklı yapısal kısımlarının, bütüne göre dinamik ya da yavaşça kendilerini belirlemeleri, birbirlerine bağımlı ve bir düzen içerisinde bütünlüğü oluşturmak için bir araya getirilmeleri olarak tanımlanabilir.<br/> <strong>II.</strong> Kompozisyon, yapıtın farklı yapısal kısımlarının, bütünden nasıl ayrıştıklarını belirleme, parçaların birbirlerinden bağımsız varlığı için bir araya getirilmelerini ölçütleme kriteri olarak tanımlanır.<br/> <strong>III.</strong> Görüntüyü düzenleyeceğimiz yüzey parçası içerisine alacağımız tüm ögeleri, önem sırasına göre belirli bir düzene göre yerleştirme düzenine kompozisyon denir.<br/> <strong>IV.</strong> Kompozisyonun esas işlevi, bir iletişim için bildirimde bulunmaktır. Çünkü sanatsal bir ürün, ancak bir anlatım ile varlığını kazanabilen iletişim aracıdır.<br/> <strong>V.</strong> Yazılı kültürün dil ve sözlem kavramların görsel sanatlardaki karşılığı kompozisyondur.",
+        "SoruMetni": "Kompozisyona ilişkin verilen ifadelerden hangileri doğrudur?<br/><strong>I.</strong> Kompozisyon yapma yöntemini; yapıtın farklı yapısal kısımlarının, bütüne göre dinamik ya da yavaşça kendilerini belirlemeleri, birbirlerine bağımlı ve bir düzen içerisinde bütünlüğü oluşturmak için bir araya getirilmeleri olarak tanımlanabilir.<br/><strong>II.</strong> Kompozisyon, yapıtın farklı yapısal kısımlarının, bütünden nasıl ayrıştıklarını belirleme, parçaların birbirlerinden bağımsız varlığı için bir araya getirilmelerini ölçütleme kriteri olarak tanımlanır.<br/><strong>III.</strong> Görüntüyü düzenleyeceğimiz yüzey parçası içerisine alacağımız tüm ögeleri, önem sırasına göre belirli bir düzene göre yerleştirme düzenine kompozisyon denir.<br/><strong>IV.</strong> Kompozisyonun esas işlevi, bir iletişim için bildirimde bulunmaktır. Çünkü sanatsal bir ürün, ancak bir anlatım ile varlığını kazanabilen iletişim aracıdır.<br/><strong>V.</strong> Yazılı kültürün dil ve sözlem kavramların görsel sanatlardaki karşılığı kompozisyondur.",
         "A": "I, II, III, IV, V",
         "B": "II, III, IV, V",
         "C": "II, V",
@@ -777,11 +817,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kompozisyonun bugünkü tanım ve işlevini ele alan Jean Rudel’ e göre kompozisyon yapma yöntemini; yapıtın farklı yapısal kısımlarının, bütüne göre dinamik ya da yavaşça kendilerini belirlemeleri, birbirlerine bağımlı ve bir düzen içerisinde bütünlüğü oluşturmak için bir araya getirilmeleri olarak tanımlar. Kompozisyonun esas işlevi, bir iletişim için bildirimde bulunmaktır. Çünkü sanatsal bir ürün, ancak bir anlatım ile varlığını kazanabilen iletişim aracıdır. Yazılı kültürün dil bilgisi ve söz dizimi kavramların görsel sanatlardaki karşılığı kompozisyondur.<br/> Gördüklerimiz arasında bir önem sıralaması yapmayız ama eğer bir yüzey organizasyonu için düzenleme yapacaksak (yönetmen, ressam, fotoğraf sanatçısı, mimar olarak), görüntüyü düzenleyeceğimiz yüzey parçası içerisine alacağımız tüm ögeleri, önem sırasına göre belirli bir düzene göre yerleştirmek durumundadır. ‘’Kompozisyon’’ bu düzenlemenin adıdır. Bir kompozisyon (Yüzey organizasyonu) oluşturarak bir bildirimde bulunabilmek için; Birbirinden çeşitli yönlerden farklılık ya da benzerlik gösteren bütünün temsilcisi yapısal parçaların olması, bu yapısal parçaları oluşturan öğelerin birbirleriyle etkileşimini (parçadaki herhangi bir değişim bütünü de değiştirir) belirleyecek belirli bir düzenin olması ve tüm bunların sonucunda bir bütünlüğe ulaşılması gerekir."
+        "Aciklama": "Kompozisyonun bugünkü tanım ve işlevini ele alan Jean Rudel’ e göre kompozisyon yapma yöntemini; yapıtın farklı yapısal kısımlarının, bütüne göre dinamik ya da yavaşça kendilerini belirlemeleri, birbirlerine bağımlı ve bir düzen içerisinde bütünlüğü oluşturmak için bir araya getirilmeleri olarak tanımlar. Kompozisyonun esas işlevi, bir iletişim için bildirimde bulunmaktır. Çünkü sanatsal bir ürün, ancak bir anlatım ile varlığını kazanabilen iletişim aracıdır. Yazılı kültürün dil bilgisi ve söz dizimi kavramların görsel sanatlardaki karşılığı kompozisyondur.<br/>Gördüklerimiz arasında bir önem sıralaması yapmayız ama eğer bir yüzey organizasyonu için düzenleme yapacaksak (yönetmen, ressam, fotoğraf sanatçısı, mimar olarak), görüntüyü düzenleyeceğimiz yüzey parçası içerisine alacağımız tüm ögeleri, önem sırasına göre belirli bir düzene göre yerleştirmek durumundadır. ‘’Kompozisyon’’ bu düzenlemenin adıdır. Bir kompozisyon (Yüzey organizasyonu) oluşturarak bir bildirimde bulunabilmek için; Birbirinden çeşitli yönlerden farklılık ya da benzerlik gösteren bütünün temsilcisi yapısal parçaların olması, bu yapısal parçaları oluşturan öğelerin birbirleriyle etkileşimini (parçadaki herhangi bir değişim bütünü de değiştirir) belirleyecek belirli bir düzenin olması ve tüm bunların sonucunda bir bütünlüğe ulaşılması gerekir."
     },
     {
         "SoruID": 3859315,
-        "SoruMetni": "Metne göre boş bırakılan yer seçeneklerden hangisi ile uygun şekilde tamamlanabilir?<br/> “Elvin Toffler diyor ki; geleceğin cahili, okuma yazma bilmeyen değil ………………………………………dır. Günümüzde bilgiye ulaşmada öğrenenin, edindiği bilgileri analiz ve sentez etmesi gerektiği için, gelişen ve değişen okuryazarlık becerilerinin de edinilme zorunluluğu ortadadır. 1983 yılındaki ABD’nin nüfus dairesinin istatistiklerine göre, Amerikalıların %99’u okuryazar sayılmasına rağmen, pek çok uzman her beş yetişkinden birinin (%20) uygulamada, (çağdaş kültürün gerektirdiği bilgi eksiklerinden ötürü, teknoloji okuryazarlığı eksikliği gibi) okuma yazma bilmeyenler grubuna katıldığını belirtilmiştir.”",
+        "SoruMetni": "Metne göre boş bırakılan yer seçeneklerden hangisi ile uygun şekilde tamamlanabilir?<br/>“Elvin Toffler diyor ki; geleceğin cahili, okuma yazma bilmeyen değil ………………………………………dır. Günümüzde bilgiye ulaşmada öğrenenin, edindiği bilgileri analiz ve sentez etmesi gerektiği için, gelişen ve değişen okuryazarlık becerilerinin de edinilme zorunluluğu ortadadır. 1983 yılındaki ABD’nin nüfus dairesinin istatistiklerine göre, Amerikalıların %99’u okuryazar sayılmasına rağmen, pek çok uzman her beş yetişkinden birinin (%20) uygulamada, (çağdaş kültürün gerektirdiği bilgi eksiklerinden ötürü, teknoloji okuryazarlığı eksikliği gibi) okuma yazma bilmeyenler grubuna katıldığını belirtilmiştir.”",
         "A": "Bilgiye nasıl erişilebileceğini bilmeyen",
         "B": "Maddi imkanları olmayan",
         "C": "Farklı dil ve lehçeleri bilmeyen",
@@ -801,7 +841,7 @@
     },
     {
         "SoruID": 3859316,
-        "SoruMetni": "Metne göre boş bırakılan yere seçeneklerden hangisinde uygun terimler sırasıyla verilmiştir?<br/>  “…………………x1…………………….. kavramı, özne ile nesne arasındaki ilişkiden doğan her türlü ürün olarak tanımlanır. ……………………x2……………………….. kavramı da özne ile nesne arasında var olan belirli bir anlaşma olarak ele alınır. Görülüyor ki ……………………..x1……………….. ile ……………….x2……………………. kavramlarının her ikisi de özne ile nesne arasındaki alışverişe, ilişkiye dayanmaktadır. ………………..x2…………..nin ………………………..x1…………………..den farkı ise, öznenin istediği niteliksel özellik ve ilişki türünü içeren anlaşmanın aranmasıdır. Sanatsal bir tasarım ya da düzenlemede de bu iki yöntem kullanılagelmiştir. Hangi yöntem kullanılırsa kullanılsın, sanatsal bir tasarım ya da düzenlemede önemsenmesi gereken, istendik niteliksel özelliklerin ve ilişki türlerinin var olması gerektiğidir.”",
+        "SoruMetni": "Metne göre boş bırakılan yere seçeneklerden hangisinde uygun terimler sırasıyla verilmiştir?<br/>“…………………x1…………………….. kavramı, özne ile nesne arasındaki ilişkiden doğan her türlü ürün olarak tanımlanır. ……………………x2……………………….. kavramı da özne ile nesne arasında var olan belirli bir anlaşma olarak ele alınır. Görülüyor ki ……………………..x1……………….. ile ……………….x2……………………. kavramlarının her ikisi de özne ile nesne arasındaki alışverişe, ilişkiye dayanmaktadır. ………………..x2…………..nin ………………………..x1…………………..den farkı ise, öznenin istediği niteliksel özellik ve ilişki türünü içeren anlaşmanın aranmasıdır. Sanatsal bir tasarım ya da düzenlemede de bu iki yöntem kullanılagelmiştir. Hangi yöntem kullanılırsa kullanılsın, sanatsal bir tasarım ya da düzenlemede önemsenmesi gereken, istendik niteliksel özelliklerin ve ilişki türlerinin var olması gerektiğidir.”",
         "A": "Bilgi – Düzen",
         "B": "İletişim – Bilgi",
         "C": "Düzen – Bilgi",
@@ -821,7 +861,7 @@
     },
     {
         "SoruID": 3859317,
-        "SoruMetni": "Aşağıdakilerden hangileri kompozisyonun öğelerindendir?<br/> <strong>I.</strong> Nokta                            <strong> II.</strong> Çizgi                               <strong> III.</strong> Virgül<br/> <strong>IV.</strong> Doku                           <strong> V. </strong> Biçim                               <strong> VI.</strong> Işık- Gölge<br/> <strong>VII.</strong> Yön ve Hareket       <strong> VIII.</strong> Oran- Orantı                    <strong>  IX.</strong> Büyüklük- Küçüklük",
+        "SoruMetni": "Aşağıdakilerden hangileri kompozisyonun öğelerindendir?<br/><strong>I.</strong> Nokta <strong> II.</strong> Çizgi <strong> III.</strong> Virgül<br/><strong>IV.</strong> Doku <strong> V. </strong> Biçim <strong> VI.</strong> Işık- Gölge<br/><strong>VII.</strong> Yön ve Hareket <strong> VIII.</strong> Oran- Orantı <strong> IX.</strong> Büyüklük- Küçüklük",
         "A": "I, II, VII, VIII, IX",
         "B": "I, II, IV, V, VI, VII, VIII",
         "C": "I, II, IV, V, VI, VII, VIII, IX",
@@ -881,7 +921,7 @@
     },
     {
         "SoruID": 3859320,
-        "SoruMetni": "Renk kuramına göre, rengin değişken özellikleri nelerdir?<br/> <strong>I.</strong> Kızıllığı              <strong>II.</strong> Maviliği                  <strong> III.</strong> Sarılığı<br/> <strong>                            IV.</strong> Yeşilliği<br/> <strong>V.</strong> Türü                <strong> VI.</strong> Değeri                   <strong> VII.</strong> Kroması",
+        "SoruMetni": "Renk kuramına göre, rengin değişken özellikleri nelerdir?<br/><strong>I.</strong> Kızıllığı <strong>II.</strong> Maviliği <strong> III.</strong> Sarılığı<br/><strong> IV.</strong> Yeşilliği<br/><strong>V.</strong> Türü <strong> VI.</strong> Değeri <strong> VII.</strong> Kroması",
         "A": "I, II, III, IV, V, VI, VII",
         "B": "I, II, III, V, VI, VII",
         "C": "I, II, III",
@@ -892,7 +932,7 @@
         "Unite": 6,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.779841",
+        "OlusturmaTarihi": "2025-12-01T04:16:16.222742",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -921,7 +961,7 @@
     },
     {
         "SoruID": 3859322,
-        "SoruMetni": "<img alt=\"Türk Halı Motifi\" height=\"326\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/fd94fb0bbb79126b2582fb06727aa605.jpeg\" width=\"478\"/><br/> Verilen halı örneğinin motifi hangi kompozisyon türünde oluşturulmuştur?",
+        "SoruMetni": "<img alt=\"Türk Halı Motifi\" height=\"326\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/fd94fb0bbb79126b2582fb06727aa605.jpeg\" width=\"478\"/><br/>Verilen halı örneğinin motifi hangi kompozisyon türünde oluşturulmuştur?",
         "A": "Üçgen",
         "B": "Dairesel",
         "C": "Serbest",
@@ -952,7 +992,7 @@
         "Unite": 6,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.882819",
+        "OlusturmaTarihi": "2025-12-01T04:16:16.224226",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -960,8 +1000,28 @@
         "Aciklama": "Herhangi bir zamanda ve yerde, insanlar tarafından üretilmiş olan bir yapıt üç temel özelliğiyle var olmaktadır. Bunlar ‘Bireysellik’ ‘Zaman’ ve ‘Evrensellik’ ölçüt özellikleridir. Bireysellik, bireyi ve yapıtını aynı çağda yaşadığı diğer insanlardan ayıran özellikleridir. Zaman, bireyi ve yapıtı çağdaşlarıyla bütünleştirirken, kendinden önce yaşamış atalarından ve gelecekte yaşayacak olanlardan ayıran özelliktir. Evrensellik özelliği ise, yapıt hangi zamanda ve kim tarafından üretilirse üretsin sonuçta yapıt, bir insanlık ürünüdür ve bir kültür ürünü olarak tarihte yerini almış ya da alacaktır."
     },
     {
+        "SoruID": 3859324,
+        "SoruMetni": "Kompozisyon yapma yöntemini; yapıtın farklı yapısal kısımlarının, bütüne göre dinamik ya da yavaşça kendilerini belirlemeleri, birbirlerine bağımlı ve bir düzen içerisinde bütünlüğü oluşturmak için bir araya getirilmeleri olarak tanımlayan kişi aşağıdakilerden hangisidir?",
+        "A": "Jean Rudel",
+        "B": "Michelangelo",
+        "C": "Charles Batteux",
+        "D": "Paul Martin Lester,",
+        "E": "Elvin Toffler",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 6,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:08.988135",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kompozisyonun bugünkü tanım ve işlevini ele alan Jean Rudel’ e göre kompozisyon yapma yöntemini; yapıtın farklı yapısal kısımlarının, bütüne göre dinamik ya da yavaşça kendilerini belirlemeleri, birbirlerine bağımlı ve bir düzen içerisinde bütünlüğü oluşturmak için bir araya getirilmeleri olarak tanımlar."
+    },
+    {
         "SoruID": 3859325,
-        "SoruMetni": "19.yüzyılın ikinci yarısından itibaren hızlı bir şekilde yaşanmaya başlanan felsefi, siyasi, bilimsel ve teknolojik değişimlerin sonucu olarak ortaya çıkan dönüşümlerin, özellikle de sanat alanlarındaki izdüşümlerini vurgulayan ve kapsayan eskiyi dışlayıp ondan ayrılmayı, yeniye geçişi ve güncelliği önemseyen kavrama ne ad verilir?",
+        "SoruMetni": "19.yüzyılın ikinci yarısından itibaren hızlı bir şekilde yaşanmaya başlanan felsefi, siyasi, bilimsel ve teknolojik değişimlerin sonucu olarak ortaya çıkan dönüşümlerin, özellikle de sanat alanlarındaki izdüşümlerini vurgulayan ve kapsayan eskiyi dışlayıp ondan ayrılmayı, yeniye geçişi ve güncelliği önemseyen kavrama ne ad verilir?",
         "A": "Evrensellik",
         "B": "Modernizm",
         "C": "Saydamlık",
@@ -1077,7 +1137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlke daha önce denenerek doğruluğu kabul edilmiş, tartışmaya açık olmayan, uyulması gereken ana kurallar yani prensipler demektir. İnsanların hem uygulamalı çalışmalarında hem de kuramsal çalışmalarında titizlikle uyulduğunda istenen sonuca varmada onlara yol gösteren köşe taşlarıdır. Tasarım ilkelerindeki esas amaç tasarıdaki uyumu, birliği sağlamak, görsel ilgiyi ve anlamını pekiştirmektir."
+        "Aciklama": "İlke daha önce denenerek doğruluğu kabul edilmiş, tartışmaya açık olmayan, uyulması gereken ana kurallar yani prensipler demektir. İnsanların hem uygulamalı çalışmalarında hem de kuramsal çalışmalarında titizlikle uyulduğunda istenen sonuca varmada onlara yol gösteren köşe taşlarıdır. Tasarım ilkelerindeki esas amaç tasarıdaki uyumu, birliği sağlamak, görsel ilgiyi ve anlamını pekiştirmektir."
     },
     {
         "SoruID": 3859331,
@@ -1181,7 +1241,7 @@
     },
     {
         "SoruID": 3859336,
-        "SoruMetni": "<ul> <li>Eğer bir düzen veya yapı içerisinde tek bir öge yinelenirse .... </li> <li>Birden fazla öge bir arada belirli aralıklarla yinelenirse ....</li> </ul> Yukarıdaki cümleleri sırasıyla tamamlayan uygun madde aşağıdakilerden hangisidir?",
+        "SoruMetni": "<ul> <li>Eğer bir düzen veya yapı içerisinde tek bir öge yinelenirse .... </li> <li>Birden fazla öge bir arada belirli aralıklarla yinelenirse ....</li> </ul> Yukarıdaki cümleleri sırasıyla tamamlayan uygun madde aşağıdakilerden hangisidir?",
         "A": "Ölçü-Tekrar",
         "B": "Tekrar-Ritim",
         "C": "Tekrar-Ölçü",
@@ -1197,7 +1257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eğer bir düzen veya yapı içerisinde tek bir öge yinelenirse (aralıklı ya da aralıksız) tekrar, birden fazla öge bir arada belirli aralıklarla yinelenirse ritim oluşturmuş oluruz, <br/>Yani ritim tekrardan oluşmaktadır ama birden fazla ögenin bir arada tekrarlanması gerekir. Ritim düzenli bir tekrara dayanarak hareketi başlatan, sürdüren, birleştirici ve uyum sağlayıcı bir ögedir ve bireyin algılamasına kolaylık sağlar. Doğru cevap B'dir."
+        "Aciklama": "Eğer bir düzen veya yapı içerisinde tek bir öge yinelenirse (aralıklı ya da aralıksız) tekrar, birden fazla öge bir arada belirli aralıklarla yinelenirse ritim oluşturmuş oluruz, <br/>Yani ritim tekrardan oluşmaktadır ama birden fazla ögenin bir arada tekrarlanması gerekir. Ritim düzenli bir tekrara dayanarak hareketi başlatan, sürdüren, birleştirici ve uyum sağlayıcı bir ögedir ve bireyin algılamasına kolaylık sağlar. Doğru cevap B'dir."
     },
     {
         "SoruID": 3859337,
@@ -1292,7 +1352,7 @@
         "Unite": 6,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.782894",
+        "OlusturmaTarihi": "2025-12-01T04:16:16.228003",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1406,7 +1466,7 @@
         "B": "Tiyatro",
         "C": "Müzik",
         "D": "Dans",
-        "E": "<br/> <br/> <br/> <br/>Dokumacılık<br/><br/><br/><br/>",
+        "E": "<br/>Dokumacılık",
         "DogruCevap": "E",
         "DersAd": "Görsel Estetik",
         "Unite": 6,
@@ -1417,7 +1477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>(Endüstriyel sanatlar) kavram şemsiyesi adı altında, özellikle de işlevselliği ön plana alan, ‘ Biçim, işlevi takip eder’ teziyle kümelenebilen Dokumacılık, Ayakkabıcılık, Nakışcılık, Sarraflık, Takıcılık, Saatçilik, Marangozluk ve Aşçılık gibi pratik alanları içeren, güzel sanatlar alanında kullanılan araçların da <br>kullanılabildiği, günlük hayatımızda iş olarak yaptığımız ve belli bir alışkanlık ve ustalık isteyen sanat dalları yer aldı.</br><br/><br/><br/><br/>"
+        "Aciklama": "<br/>(Endüstriyel sanatlar) kavram şemsiyesi adı altında, özellikle de işlevselliği ön plana alan, ‘ Biçim, işlevi takip eder’ teziyle kümelenebilen Dokumacılık, Ayakkabıcılık, Nakışcılık, Sarraflık, Takıcılık, Saatçilik, Marangozluk ve Aşçılık gibi pratik alanları içeren, güzel sanatlar alanında kullanılan araçların da <br/>kullanılabildiği, günlük hayatımızda iş olarak yaptığımız ve belli bir alışkanlık ve ustalık isteyen sanat dalları yer aldı.</br>"
     },
     {
         "SoruID": 3859348,
@@ -1541,7 +1601,7 @@
     },
     {
         "SoruID": 3859354,
-        "SoruMetni": "<ol> <li>Düz çizgi kesinlik belirtisidir.</li> <li>Düz çizgi aynı zamanda kargaşa, çatışma ve şiddet gibi kavramları simgeler.</li> <li>Dikey çizgi yüksekliği belirterek dengeyi ve gücü (kuvvet) vurgular.</li> <li>Eğri çizgi yön değiştirmesinden ötürü süreklilik algısına yol açar.</li> <li>Kırık ya da zikzak çizgiler ise sakinlik ve dinginliği simgeler. </li> </ol> Yukarıda çizgi ile ilgili verilen bilgilerden hangileri doğrudur?",
+        "SoruMetni": "<ol> <li>Düz çizgi kesinlik belirtisidir.</li> <li>Düz çizgi aynı zamanda kargaşa, çatışma ve şiddet gibi kavramları simgeler.</li> <li>Dikey çizgi yüksekliği belirterek dengeyi ve gücü (kuvvet) vurgular.</li> <li>Eğri çizgi yön değiştirmesinden ötürü süreklilik algısına yol açar.</li> <li>Kırık ya da zikzak çizgiler ise sakinlik ve dinginliği simgeler. </li> </ol> Yukarıda çizgi ile ilgili verilen bilgilerden hangileri doğrudur?",
         "A": "1,2,4",
         "B": "2,3,5",
         "C": "2,3,4",
@@ -1621,7 +1681,7 @@
     },
     {
         "SoruID": 3859358,
-        "SoruMetni": "Renk, ton değeri, doku, çizgi, biçim öğelerin bir düzen içerisinde birbiriyle ilişkilerini sağlayan, ön-arka ilişkisi kurduran, hareketlendiren  bir birlik ortaya çıkması anlamına gelen kavram aşağıdakilerden hangisidir?",
+        "SoruMetni": "Renk, ton değeri, doku, çizgi, biçim öğelerin bir düzen içerisinde birbiriyle ilişkilerini sağlayan, ön-arka ilişkisi kurduran, hareketlendiren bir birlik ortaya çıkması anlamına gelen kavram aşağıdakilerden hangisidir?",
         "A": "Zıtlık",
         "B": "Armoni",
         "C": "Denge",
@@ -1761,7 +1821,7 @@
     },
     {
         "SoruID": 3859365,
-        "SoruMetni": "Hareketsiz, sakin bir yapıya sahiptir. Bu özelliği ile göz hareketini kontrol ederek onu bakması gereken alana doğru yönlendirir, dikkati toplar, odaklar.<br/> Yukarıda özellikleri verilen öğe kompozisyonun temel tasarım öğelerinden hangisidir?",
+        "SoruMetni": "Hareketsiz, sakin bir yapıya sahiptir. Bu özelliği ile göz hareketini kontrol ederek onu bakması gereken alana doğru yönlendirir, dikkati toplar, odaklar.<br/>Yukarıda özellikleri verilen öğe kompozisyonun temel tasarım öğelerinden hangisidir?",
         "A": "Çizgi",
         "B": "Doku",
         "C": "Nokta",
@@ -1777,11 +1837,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareketsiz, sakin bir yapıya sahiptir. Bu özelliği ile göz hareketini kontrol ederek onu bakması gereken alana doğru yönlendirir, dikkati toplar, odaklar.<br/> Yukarıda özellikleri verilen öğe kompozisyonun temel öğelerinden nokta'dır. Doğru cevap \"c\"dir."
+        "Aciklama": "Hareketsiz, sakin bir yapıya sahiptir. Bu özelliği ile göz hareketini kontrol ederek onu bakması gereken alana doğru yönlendirir, dikkati toplar, odaklar.<br/>Yukarıda özellikleri verilen öğe kompozisyonun temel öğelerinden nokta'dır. Doğru cevap \"c\"dir."
     },
     {
         "SoruID": 3859366,
-        "SoruMetni": "Temel olarak yön belirleyen algısal bir etkiye sahiptir ve bu özelliğiyle hem yatay hem dikey hem de eğik biçimde kullanılabilmektedir. Bir yüzey içinde aldığı biçimlere göre tek başına farklı algısal etkiler yaratabilmektedir. Bir alanı / düzlemi bölmek için kullanılır.<br/> Yukarıda özellikleri belirtilen temel tasarım öğesi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Temel olarak yön belirleyen algısal bir etkiye sahiptir ve bu özelliğiyle hem yatay hem dikey hem de eğik biçimde kullanılabilmektedir. Bir yüzey içinde aldığı biçimlere göre tek başına farklı algısal etkiler yaratabilmektedir. Bir alanı / düzlemi bölmek için kullanılır.<br/>Yukarıda özellikleri belirtilen temel tasarım öğesi aşağıdakilerden hangisidir?",
         "A": "Nokta",
         "B": "Doku",
         "C": "Renk",
@@ -1797,11 +1857,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Temel olarak yön belirleyen algısal bir etkiye sahiptir ve bu özelliğiyle hem yatay hem dikey hem de eğik biçimde kullanılabilmektedir. Bir yüzey içinde aldığı biçimlere göre tek başına farklı algısal etkiler yaratabilmektedir. Bir alanı / düzlemi bölmek için kullanılır.<br/> Yukarıda özellikleri belirtilen temel tasarım öğesi çizgidir. Doğru cevap \"d\"dir."
+        "Aciklama": "Temel olarak yön belirleyen algısal bir etkiye sahiptir ve bu özelliğiyle hem yatay hem dikey hem de eğik biçimde kullanılabilmektedir. Bir yüzey içinde aldığı biçimlere göre tek başına farklı algısal etkiler yaratabilmektedir. Bir alanı / düzlemi bölmek için kullanılır.<br/>Yukarıda özellikleri belirtilen temel tasarım öğesi çizgidir. Doğru cevap \"d\"dir."
     },
     {
         "SoruID": 3859367,
-        "SoruMetni": "Herhangi bir nesnenin yapısında ya da bir tasarımda bir ögenin aynen veya çok yakın değerde birden fazla sayıda var olması ..............  oluşturur. Birbirleriyle eşdeğer olan parçaların bir düzen içerisinde bir sıra oluşturarak birbirleriyle ilişkili yer almaları .................. 'ın ana özelliğidir. Doğa’nın özünde ............. zaten vardır.<br/> Yukarıda boşluklara gelmesi gereken kompozisyonun temel ilkesi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Herhangi bir nesnenin yapısında ya da bir tasarımda bir ögenin aynen veya çok yakın değerde birden fazla sayıda var olması .............. oluşturur. Birbirleriyle eşdeğer olan parçaların bir düzen içerisinde bir sıra oluşturarak birbirleriyle ilişkili yer almaları .................. 'ın ana özelliğidir. Doğa’nın özünde ............. zaten vardır.<br/>Yukarıda boşluklara gelmesi gereken kompozisyonun temel ilkesi aşağıdakilerden hangisidir?",
         "A": "Zıtlık",
         "B": "Birlik",
         "C": "Görsellik",
@@ -1817,11 +1877,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Herhangi bir nesnenin yapısında ya da bir tasarımda bir ögenin aynen veya çok yakın değerde birden fazla sayıda var olması ..............  oluşturur. Birbirleriyle eşdeğer olan parçaların bir düzen içerisinde bir sıra oluşturarak birbirleriyle ilişkili yer almaları .................. 'ın ana özelliğidir. Doğa’nın özünde ............. zaten vardır.<br/> Yukarıda boşluklara gelmesi gereken kompozisyonun temel ilkesi tekrar'dır. Doğru cevap \"e\"dir."
+        "Aciklama": "Herhangi bir nesnenin yapısında ya da bir tasarımda bir ögenin aynen veya çok yakın değerde birden fazla sayıda var olması .............. oluşturur. Birbirleriyle eşdeğer olan parçaların bir düzen içerisinde bir sıra oluşturarak birbirleriyle ilişkili yer almaları .................. 'ın ana özelliğidir. Doğa’nın özünde ............. zaten vardır.<br/>Yukarıda boşluklara gelmesi gereken kompozisyonun temel ilkesi tekrar'dır. Doğru cevap \"e\"dir."
     },
     {
         "SoruID": 3859368,
-        "SoruMetni": "Aynı olmama, benzer yönlerin olmaması, karşıt olma, çelişkili olmak demektir. Felsefedeki karşıtların birliği ilkesi evrendeki her şeyin karşıtların dengesi üzerine oluştuğunu varsayar. Buna göre hafifi tanımlayabilmek için ağırın bilinmesi, beyazı tanımlayabilmek için siyahın bilinmesi gerekir.<br/> Yukarıda açıklanan kompozisyonun temel ilkesi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Aynı olmama, benzer yönlerin olmaması, karşıt olma, çelişkili olmak demektir. Felsefedeki karşıtların birliği ilkesi evrendeki her şeyin karşıtların dengesi üzerine oluştuğunu varsayar. Buna göre hafifi tanımlayabilmek için ağırın bilinmesi, beyazı tanımlayabilmek için siyahın bilinmesi gerekir.<br/>Yukarıda açıklanan kompozisyonun temel ilkesi aşağıdakilerden hangisidir?",
         "A": "Zıtlık",
         "B": "Tekrar",
         "C": "Denge",
@@ -1837,7 +1897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Aynı olmama, benzer yönlerin olmaması, karşıt olma, çelişkili olmak demektir. Felsefedeki karşıtların birliği ilkesi evrendeki her şeyin karşıtların dengesi üzerine oluştuğunu varsayar. Buna göre hafifi tanımlayabilmek için ağırın bilinmesi, beyazı tanımlayabilmek için siyahın bilinmesi gerekir.<br/> Yukarıda açıklanan kompozisyonun temel ilkesi zıtlıktır. Doğru cevap \"a\"dır."
+        "Aciklama": "Aynı olmama, benzer yönlerin olmaması, karşıt olma, çelişkili olmak demektir. Felsefedeki karşıtların birliği ilkesi evrendeki her şeyin karşıtların dengesi üzerine oluştuğunu varsayar. Buna göre hafifi tanımlayabilmek için ağırın bilinmesi, beyazı tanımlayabilmek için siyahın bilinmesi gerekir.<br/>Yukarıda açıklanan kompozisyonun temel ilkesi zıtlıktır. Doğru cevap \"a\"dır."
     },
     {
         "SoruID": 3859369,
@@ -1901,7 +1961,7 @@
     },
     {
         "SoruID": 3859372,
-        "SoruMetni": "I. Etkili çevre<br/> II. Örtme<br/> III. Saydamlık<br/> IV. Ölçü derecelemesi<br/> V. Ton derecelemesi <br/> Yukarıdakilerden hangisi-hangileri uzaklık ve derinlik algısı yaratmada kullanılan ilkelerdir?",
+        "SoruMetni": "I. Etkili çevre<br/>II. Örtme<br/>III. Saydamlık<br/>IV. Ölçü derecelemesi<br/>V. Ton derecelemesi <br/>Yukarıdakilerden hangisi-hangileri uzaklık ve derinlik algısı yaratmada kullanılan ilkelerdir?",
         "A": "Yalnız I.",
         "B": "I. ve II.",
         "C": "I. II. ve III.",
@@ -1912,12 +1972,12 @@
         "Unite": 6,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.728822",
+        "OlusturmaTarihi": "2025-12-01T04:16:16.218908",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I. Etkili çevre<br/> II. Örtme<br/> III. Saydamlık<br/> IV. Ölçü derecelemesi<br/> V. Ton derecelemesi <br/> Yukarıdakilerden hepsi uzaklık ve derinlik algısı yaratmada kullanılan ilkelerdendir. Doğru cevap \"e\"dir."
+        "Aciklama": "I. Etkili çevre<br/>II. Örtme<br/>III. Saydamlık<br/>IV. Ölçü derecelemesi<br/>V. Ton derecelemesi <br/>Yukarıdakilerden hepsi uzaklık ve derinlik algısı yaratmada kullanılan ilkelerdendir. Doğru cevap \"e\"dir."
     },
     {
         "SoruID": 3859373,
@@ -1997,16 +2057,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Z ekseni kompozisyon"
+        "Aciklama": "Z ekseni kompozisyon"
     },
     {
         "SoruID": 3859377,
         "SoruMetni": "Aşağıdakilerden hangisi simetrik kompozisyon türevlerinden biri değildir?",
         "A": "Üçgen kompozisyon",
-        "B": "Spiral kompozisyon",
-        "C": "Daire kompozisyon",
-        "D": "Dörtgen kompozisyon",
-        "E": "Serbest kompozisyon",
+        "B": "Spiral kompozisyon",
+        "C": "Daire kompozisyon",
+        "D": "Dörtgen kompozisyon",
+        "E": "Serbest kompozisyon",
         "DogruCevap": "E",
         "DersAd": "Görsel Estetik",
         "Unite": 6,
@@ -2017,7 +2077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Serbest kompozisyon"
+        "Aciklama": "Serbest kompozisyon"
     },
     {
         "SoruID": 3859378,
@@ -2082,29 +2142,29 @@
     {
         "SoruID": 3859381,
         "SoruMetni": "Bellek birbirine benzeyen uyaranları, birbirine yakın bulunan uyaranları gruplama eğilimi gösterir (I.), bünyesinde eksik olan parçaları bütünleştirme ve tamamlama eğilimi gösterir (II), aynı yönde giden ve hareket edenler birbiri ile ilişkili olarak algılanır (III) ve dikkati toplar, basit parçalar karmaşık parçalardan daha kolay algılanır. Aşağıdakilerden hangisinde parantez içine yazılacak yasalar doğru olarak ve sırasıyla verilmiştir?",
-        "A": "I. Tamamlama yasası<br/><br/>II. Benzerlik ve Yakınlık yasası<br/><br/>III. Süreklilik yasası",
-        "B": "I. Tamamlama yasası<br/><br/>II. Süreklilik yasası<br/><br/>III. Benzerlik ve Yakınlık yasası",
-        "C": "I. Tamamlama yasası<br/><br/>II. Süreklilik yasası<br/><br/>III. Pragnanz yasaları",
-        "D": "I. Benzerlik ve Yakınlık yasası<br/><br/>II. Tamamlama yasası<br/><br/>III. Süreklilik yasası",
-        "E": "I. Benzerlik ve Yakınlık yasası<br/><br/>II. Süreklilik yasası<br/><br/>III.Tamamlama yasası",
+        "A": "I. Tamamlama yasası<br/>II. Benzerlik ve Yakınlık yasası<br/>III. Süreklilik yasası",
+        "B": "I. Tamamlama yasası<br/>II. Süreklilik yasası<br/>III. Benzerlik ve Yakınlık yasası",
+        "C": "I. Tamamlama yasası<br/>II. Süreklilik yasası<br/>III. Pragnanz yasaları",
+        "D": "I. Benzerlik ve Yakınlık yasası<br/>II. Tamamlama yasası<br/>III. Süreklilik yasası",
+        "E": "I. Benzerlik ve Yakınlık yasası<br/>II. Süreklilik yasası<br/>III.Tamamlama yasası",
         "DogruCevap": "D",
         "DersAd": "Görsel Estetik",
         "Unite": 6,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.879683",
+        "OlusturmaTarihi": "2025-12-01T04:16:16.226442",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I. Benzerlik ve Yakınlık yasası<br/><br/>II. Tamamlama yasası<br/><br/>III. Süreklilik yasası"
+        "Aciklama": "I. Benzerlik ve Yakınlık yasası<br/>II. Tamamlama yasası<br/>III. Süreklilik yasası"
     },
     {
         "SoruID": 3859382,
         "SoruMetni": "Günümüz yaşam biçimine ve postmodern dünya görüşüne uygun düşen, hiçbir kural kabul etmeyen kompozisyon aşağıdakilerden hangisidir?",
-        "A": "Elips kompozisyon",
-        "B": "Daire kompozisyon",
-        "C": "Spiral kompozisyon",
+        "A": "Elips kompozisyon",
+        "B": "Daire kompozisyon",
+        "C": "Spiral kompozisyon",
         "D": "Üçgen kompozisyon",
         "E": "Serbest kompozisyon",
         "DogruCevap": "E",
@@ -2161,7 +2221,7 @@
     },
     {
         "SoruID": 3859385,
-        "SoruMetni": "I. Doğal <br/> II. Pürüzlü<br/> III. Yapay<br/> IV. Keskin uçlu<br/> V. Girintili çıkıntılı<br/> Yukarıda verilen  doku özelliklerden hangileri nesneleri bulundukları yerden daha yakınmış gibi algılamamıza neden olur?",
+        "SoruMetni": "I. Doğal <br/>II. Pürüzlü<br/>III. Yapay<br/>IV. Keskin uçlu<br/>V. Girintili çıkıntılı<br/>Yukarıda verilen doku özelliklerden hangileri nesneleri bulundukları yerden daha yakınmış gibi algılamamıza neden olur?",
         "A": "I-II",
         "B": "III-IV",
         "C": "II-IV-V",
@@ -2192,7 +2252,7 @@
         "Unite": 6,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.759680",
+        "OlusturmaTarihi": "2025-12-01T04:16:16.229500",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -2241,7 +2301,7 @@
     },
     {
         "SoruID": 3859389,
-        "SoruMetni": "I.Ögelerin iyi devamlılığı <br/> II.Çevre çizgisinin kapanması<br/> III. Ögelerin birbiriyle bağıntılı olması<br/> IV. Simetri<br/> Yukarıda sıralanan özellikler, görsel algılamada belirliliği sağlayan hangi ilkeye bağlıdır?",
+        "SoruMetni": "I.Ögelerin iyi devamlılığı <br/>II.Çevre çizgisinin kapanması<br/>III. Ögelerin birbiriyle bağıntılı olması<br/>IV. Simetri<br/>Yukarıda sıralanan özellikler, görsel algılamada belirliliği sağlayan hangi ilkeye bağlıdır?",
         "A": "Benzerlik",
         "B": "Yakınlık",
         "C": "Ayırıcı nitelik",
@@ -2281,7 +2341,7 @@
     },
     {
         "SoruID": 3859391,
-        "SoruMetni": "I. Serbest<br/> II. Spiral<br/> III. Daire<br/> IV. Z ekseni<br/> V. Altın oran<br/> Yukarıdakilerden hangisi asimetrik kompozisyon türevlerindendir?",
+        "SoruMetni": "I. Serbest<br/>II. Spiral<br/>III. Daire<br/>IV. Z ekseni<br/>V. Altın oran<br/>Yukarıdakilerden hangisi asimetrik kompozisyon türevlerindendir?",
         "A": "II-V",
         "B": "I-IV",
         "C": "IV-V",
@@ -2320,28 +2380,8 @@
         "Aciklama": "Herhangi bir renkten bahsediyorsak biz o rengin üç değişken özelliğinden de bahsetmemiz gerekir. Bunlardan birincisi o rengin türüdür (cinsi) sarı, kırmızı, mavi gibi. İkinci değişken özelliği o rengin değeridir yani her rengin algılamada siyahla beyaz arasında bulunan bir ton değeri vardır. Örneğin; kırmızı ve yeşil gri değerdedir, sarı beyaza mor ise siyaha yakın bir gri değerdedir. Üçüncü değişken özelliği ise ‘chroma’ yani yoğunluğudur. Herhangi bir renk içerisine başka bir renk almadığı sürece o renk kroması yüksek durumdadır ama içine başka renkler karışarak griye yaklaştıkça kroması düşer. Gri, Siyah ve Beyaz sıfır kromalı yani kromasız renklerdir. Doğru cevap B Şıkkıdır."
     },
     {
-        "SoruID": 3859393,
-        "SoruMetni": "<img alt=\"https://tr.depositphotos.com/29545541/stock-photo-brown-texture-warm-stone-wall.html\" height=\"281\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/15f555f3efb0c7da95d601d4e98eb0a8.jpeg\" width=\"397\"/><br/> Yukarıdaki resimde hangi görsel anlatımın verilmesi amaçlanmış olabilir?",
-        "A": "Doku",
-        "B": "Çizgi",
-        "C": "Yön",
-        "D": "Ölçü",
-        "E": "Aralık",
-        "DogruCevap": "A",
-        "DersAd": "Görsel Estetik",
-        "Unite": 6,
-        "Somestre": "1",
-        "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.761354",
-        "GelYer": 0,
-        "DersId": 0,
-        "OBSDersId": 0,
-        "CevapSira": null,
-        "Aciklama": "Nesnelerin fiziksel yapılarının iç özelliklerini, dış yüzeylerinden anlamamızı sağlayan işlevsel özelliklere doku denir ve doğanın en temel yapısal özelliklerinden birisidir. Her nesnenin kendine özgü bir dokusu vardır ve bu doku görsel algılama da o nesneyi diğer nesnelerden ayırmamızı sağlayan en temel ögelerden birisidir."
-    },
-    {
         "SoruID": 3859394,
-        "SoruMetni": "<img alt=\"https://umityasar.com/kompozisyon-ogeleri-cizgiler-desenler/\" height=\"500\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/348b35d2967b8576bb8e1b65ab92c15d.jpeg\" width=\"333\"/><br/> Yukarıdaki fotoğrafta hangi kompozisyon verilmeye çalışılıyor olabilir?",
+        "SoruMetni": "<img alt=\"https://umityasar.com/kompozisyon-ogeleri-cizgiler-desenler/\" height=\"500\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/348b35d2967b8576bb8e1b65ab92c15d.jpeg\" width=\"333\"/><br/>Yukarıdaki fotoğrafta hangi kompozisyon verilmeye çalışılıyor olabilir?",
         "A": "Tekrarlar",
         "B": "Doku",
         "C": "Ölçü/oran",
@@ -2361,7 +2401,7 @@
     },
     {
         "SoruID": 3859395,
-        "SoruMetni": "<img alt=\"https://tr.pinterest.com/pin/531917405960048583/\" height=\"351\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/79ffc1a24f4d7d3ac3cc6e4913aab281.jpeg\" width=\"309\"/><br/> Yukarıdaki fotoğrafta hangi kompozisyon daha baskındır?",
+        "SoruMetni": "<img alt=\"https://tr.pinterest.com/pin/531917405960048583/\" height=\"351\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/79ffc1a24f4d7d3ac3cc6e4913aab281.jpeg\" width=\"309\"/><br/>Yukarıdaki fotoğrafta hangi kompozisyon daha baskındır?",
         "A": "Düzenli tekrar",
         "B": "Biçimsel egemenlik",
         "C": "Asimetrik denge",
@@ -2401,7 +2441,7 @@
     },
     {
         "SoruID": 3859397,
-        "SoruMetni": "<img alt=\"https://www.flickr.com/photos/moran/1604096255\" height=\"343\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e6238b949f78920163728ba3f8759924.jpeg\" width=\"511\"/><br/> Fotoğraf hangi kompozisyon türüne örnek olarak verilebilir?",
+        "SoruMetni": "<img alt=\"https://www.flickr.com/photos/moran/1604096255\" height=\"343\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e6238b949f78920163728ba3f8759924.jpeg\" width=\"511\"/><br/>Fotoğraf hangi kompozisyon türüne örnek olarak verilebilir?",
         "A": "Spiral Kompozisyon",
         "B": "Simetrik kompozisyon",
         "C": "Dairesel Kompozisyon",
@@ -2412,7 +2452,7 @@
         "Unite": 6,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.734348",
+        "OlusturmaTarihi": "2025-12-01T04:16:16.233286",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -2421,7 +2461,7 @@
     },
     {
         "SoruID": 3859398,
-        "SoruMetni": "<img alt=\"\" height=\"300\" src=\"https://lafazanlar.wordpress.com/2010/09/22/celi-sulus-serbest-harf-kompozisyon-calismasi/\" width=\"298\"/><img alt=\"https://lafazanlar.wordpress.com/2010/09/22/celi-sulus-serbest-harf-kompozisyon-calismasi/\" height=\"300\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/505946cc66c7926caf5769289396340c.jpeg\" width=\"298\"/><br/> Kaynak: <a href=\"https://lafazanlar.wordpress.com/2010/09/22/celi-sulus-serbest-harf-kompozisyon-calismasi/\">https://lafazanlar.wordpress.com/2010/09/22/celi-sulus-serbest-harf-kompozisyon-calismasi/</a><br/> Resimde hangi kompozisyon türü kullanılmıştır?",
+        "SoruMetni": "<img alt=\"\" height=\"300\" src=\"https://lafazanlar.wordpress.com/2010/09/22/celi-sulus-serbest-harf-kompozisyon-calismasi/\" width=\"298\"/><img alt=\"https://lafazanlar.wordpress.com/2010/09/22/celi-sulus-serbest-harf-kompozisyon-calismasi/\" height=\"300\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/505946cc66c7926caf5769289396340c.jpeg\" width=\"298\"/><br/>Kaynak: <a href=\"https://lafazanlar.wordpress.com/2010/09/22/celi-sulus-serbest-harf-kompozisyon-calismasi/\">https://lafazanlar.wordpress.com/2010/09/22/celi-sulus-serbest-harf-kompozisyon-calismasi/</a><br/>Resimde hangi kompozisyon türü kullanılmıştır?",
         "A": "Dairesel Kompozisyon",
         "B": "Serbest kompozisyon",
         "C": "Kare Kompozisyon",
@@ -2444,7 +2484,7 @@
         "SoruMetni": "Kompozisyon için aşağıdakilerden hangisi doğru olmaz?",
         "A": "Bir iletişim için bildirimde bulunmaktır.",
         "B": "Yazılı kültürün dil bilgisi ve söz dizimi kavramların görsel sanatlardaki karşılığıdır.",
-        "C": "Görsel sanatlarda kompozisyonun kesin ve belirli kuralı bulunmamaktadır.<br/><br/>",
+        "C": "Görsel sanatlarda kompozisyonun kesin ve belirli kuralı bulunmamaktadır.",
         "D": "Sınır çizgisi, Fon(düzlem), Figür (biçim), Doku ve Renk temel ögelerini oluşturmaktadır.",
         "E": "Görsel sanatlarda tek bir kompozisyondan söz edilebilir.",
         "DogruCevap": "E",
@@ -2461,7 +2501,7 @@
     },
     {
         "SoruID": 3859400,
-        "SoruMetni": "<img alt=\"\" height=\"292\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/280706d62faa092a9b906396300b67ff.jpeg\" width=\"443\"/><br/> Kaynak: <a href=\"https://www.yesilist.com/altin-oranin-dogaya-yansidigi-17-ornek/\">https://www.yesilist.com/altin-oranin-dogaya-yansidigi-17-ornek/</a> <br/> Yukarıdaki fotoğrafta hangi görsel anlatım ön plandadır?",
+        "SoruMetni": "<img alt=\"\" height=\"292\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/280706d62faa092a9b906396300b67ff.jpeg\" width=\"443\"/><br/>Kaynak: <a href=\"https://www.yesilist.com/altin-oranin-dogaya-yansidigi-17-ornek/\">https://www.yesilist.com/altin-oranin-dogaya-yansidigi-17-ornek/</a> <br/>Yukarıdaki fotoğrafta hangi görsel anlatım ön plandadır?",
         "A": "Çizgi",
         "B": "Şekil",
         "C": "Ölçü/ oran",
@@ -2481,10 +2521,10 @@
     },
     {
         "SoruID": 3859401,
-        "SoruMetni": "\"Bellek(zihin) birbirine benzeyen uyaranları, birbirine yakın bulunan uyaranları gruplama eğilimi gösterir...........  bünyesinde eksik olan parçaları bütünleştirme ve tamamlama eğilimi gösterir .............\" Boşluğa aşağıdaki kavramlardan hangilerinin gelmesi uygun olur?",
-        "A": "Benzerlik ve Yakınlık yasası- Tamamlama yasası",
-        "B": "Tamamlama yasası- Süreklilik yasası",
-        "C": "Benzerlik ve Yakınlık yasası - Süreklilik yasası",
+        "SoruMetni": "\"Bellek(zihin) birbirine benzeyen uyaranları, birbirine yakın bulunan uyaranları gruplama eğilimi gösterir........... bünyesinde eksik olan parçaları bütünleştirme ve tamamlama eğilimi gösterir .............\" Boşluğa aşağıdaki kavramlardan hangilerinin gelmesi uygun olur?",
+        "A": "Benzerlik ve Yakınlık yasası- Tamamlama yasası",
+        "B": "Tamamlama yasası- Süreklilik yasası",
+        "C": "Benzerlik ve Yakınlık yasası - Süreklilik yasası",
         "D": "Süreklilik yasası-Tamamlama yasası",
         "E": "Tamamlama yasası-Benzerlik ve Yakınlık yasası",
         "DogruCevap": "A",
@@ -2497,11 +2537,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Boşuklar Benzerlik ve Yakınlık yasası- Tamamlama yasası şeklinde doldurulmalıdır."
+        "Aciklama": "Boşuklar Benzerlik ve Yakınlık yasası- Tamamlama yasası şeklinde doldurulmalıdır."
     },
     {
         "SoruID": 3859402,
-        "SoruMetni": "Temel olarak yön belirleyen algısal bir etkiye sahip olan ve bu özelliğiyle hem yatay hem dikey hem de eğik biçimde kullanılabilen tasarı ögesi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Temel olarak yön belirleyen algısal bir etkiye sahip olan ve bu özelliğiyle hem yatay hem dikey hem de eğik biçimde kullanılabilen tasarı ögesi aşağıdakilerden hangisidir?",
         "A": "Çizgi",
         "B": "Şekil",
         "C": "Doku",
@@ -2557,7 +2597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğada bulunan nesnelerin ölçüme ve deneye gerek duymadan gözle hemen algılanabilen özelliklerine görsel özellikler diyoruz. Bunlar biçim (yuvarlak, köşeli, dörtgen, üçgen) doku (sert, yumuşak, düz, pürüzlü) ölçü/Boyut (büyük, orta, küçük) <strong>renk</strong> <strong>(kroması, değeri, türü, mat, parlak</strong>) ve nesnenin fiziksel yapısıdır (katı, gaz, sıvı). Sertlik doku ile ilgili bir özellik olup renk ile ilgili değildir.  Doğru yanıt E’dir."
+        "Aciklama": "Doğada bulunan nesnelerin ölçüme ve deneye gerek duymadan gözle hemen algılanabilen özelliklerine görsel özellikler diyoruz. Bunlar biçim (yuvarlak, köşeli, dörtgen, üçgen) doku (sert, yumuşak, düz, pürüzlü) ölçü/Boyut (büyük, orta, küçük) <strong>renk</strong> <strong>(kroması, değeri, türü, mat, parlak</strong>) ve nesnenin fiziksel yapısıdır (katı, gaz, sıvı). Sertlik doku ile ilgili bir özellik olup renk ile ilgili değildir. Doğru yanıt E’dir."
     },
     {
         "SoruID": 3859405,
@@ -2592,7 +2632,7 @@
         "Unite": 6,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.824638",
+        "OlusturmaTarihi": "2025-12-01T04:16:16.234856",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -2661,7 +2701,7 @@
     },
     {
         "SoruID": 3859410,
-        "SoruMetni": "Aşağıdaki görselde hangi tür kompozisyon kullanılmıştır?<br/> <img alt=\"\" height=\"283\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/c46e73841660a4c5bc826caf98ec46b5.png\" width=\"392\"/>",
+        "SoruMetni": "Aşağıdaki görselde hangi tür kompozisyon kullanılmıştır?<br/><img alt=\"\" height=\"283\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/c46e73841660a4c5bc826caf98ec46b5.png\" width=\"392\"/>",
         "A": "Simetrik",
         "B": "Kapalı",
         "C": "Üçgen",
@@ -2677,7 +2717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Altın kesimin en basiti, kullanılan yüzeyi enine ve boyuna üçe bölmektir.1/3 kuralı olarak da bilinen bu üç parçaya bölmede, ikisini bir tarafa diğerini öbür tarafa aldığımız zaman altın kesime uygun parçalama yapmış oluruz. Bu bölme de kesişim noktaları görsel ilgi çekme noktalarıdır, dikkati toplarlar. Bu noktalara yerleştirilen figürlerle yapılan kompozisyonlar canlı, hareket içeren, göze uyumlu ve alımlı ama simetrik olmayan, en bilindik kompozisyon türüdür ve asimetrik (açık) bir kompozisyondur. Doğru yanıt D’dir.<br/> <img alt=\"\" height=\"297\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/d1778246d906d9484b143e4bc5268fe3.png\" width=\"415\"/>"
+        "Aciklama": "Altın kesimin en basiti, kullanılan yüzeyi enine ve boyuna üçe bölmektir.1/3 kuralı olarak da bilinen bu üç parçaya bölmede, ikisini bir tarafa diğerini öbür tarafa aldığımız zaman altın kesime uygun parçalama yapmış oluruz. Bu bölme de kesişim noktaları görsel ilgi çekme noktalarıdır, dikkati toplarlar. Bu noktalara yerleştirilen figürlerle yapılan kompozisyonlar canlı, hareket içeren, göze uyumlu ve alımlı ama simetrik olmayan, en bilindik kompozisyon türüdür ve asimetrik (açık) bir kompozisyondur. Doğru yanıt D’dir.<br/><img alt=\"\" height=\"297\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/d1778246d906d9484b143e4bc5268fe3.png\" width=\"415\"/>"
     },
     {
         "SoruID": 3859411,
@@ -2721,7 +2761,7 @@
     },
     {
         "SoruID": 3859603,
-        "SoruMetni": "Yapma yöntemini; yapıtın farklı yapısal kısımlarının, bütüne göre dinamik ya da yavaşça kendilerini belirlemeleri, birbirlerine bağımlı ve bir düzen içerisinde bütünlüğü oluşturmak için bir araya getirilmeleri tanımının karşılığı aşağıdaki hangi şıkta belirtilmiştir ?",
+        "SoruMetni": "Yapma yöntemini; yapıtın farklı yapısal kısımlarının, bütüne göre dinamik ya da yavaşça kendilerini belirlemeleri, birbirlerine bağımlı ve bir düzen içerisinde bütünlüğü oluşturmak için bir araya getirilmeleri tanımının karşılığı aşağıdaki hangi şıkta belirtilmiştir ?",
         "A": "Kompozisyon",
         "B": "Bireysellik",
         "C": "Zaman",
@@ -2737,11 +2777,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kompozisyonun bugünkü tanım ve işlevini ele alan Jean Rudel’ e göre kompozisyon yapma yöntemini; yapıtın farklı yapısal kısımlarının, bütüne göre dinamik ya da yavaşça kendilerini belirlemeleri, birbirlerine bağımlı ve bir düzen içerisinde bütünlüğü oluşturmak için bir araya getirilmeleri olarak tanımlar. Dolayısıyla cevap A şıkkıdır."
+        "Aciklama": "Kompozisyonun bugünkü tanım ve işlevini ele alan Jean Rudel’ e göre kompozisyon yapma yöntemini; yapıtın farklı yapısal kısımlarının, bütüne göre dinamik ya da yavaşça kendilerini belirlemeleri, birbirlerine bağımlı ve bir düzen içerisinde bütünlüğü oluşturmak için bir araya getirilmeleri olarak tanımlar. Dolayısıyla cevap A şıkkıdır."
     },
     {
         "SoruID": 3859604,
-        "SoruMetni": "Sanatsal bir tasarım ya da düzenlemede kaç yöntem kullanılagelmiştir ?",
+        "SoruMetni": "Sanatsal bir tasarım ya da düzenlemede kaç yöntem kullanılagelmiştir ?",
         "A": "5",
         "B": "2",
         "C": "6",
@@ -2781,7 +2821,7 @@
     },
     {
         "SoruID": 3859606,
-        "SoruMetni": "Kompozsiyonda kesinlik belirtisi olup ama aynı zamanda da ufuk belirleyicisi olarak serinlik ve sessizliği de simgeleyen çizgi türü aşağıdaki hangi şıkta belirtilmiştir ?",
+        "SoruMetni": "Kompozsiyonda kesinlik belirtisi olup ama aynı zamanda da ufuk belirleyicisi olarak serinlik ve sessizliği de simgeleyen çizgi türü aşağıdaki hangi şıkta belirtilmiştir ?",
         "A": "Dikey çizgi",
         "B": "Eğri çizgi",
         "C": "Zikzak çizgi",
@@ -2797,7 +2837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kompozsiyonda düz çizgi kesinlik belirtisidir ama aynı zamanda da ufuk belirleyicisi olarak serinlik ve sessizliği de simgeler. Dolayısıyla cevap D şıkkıdır."
+        "Aciklama": "Kompozsiyonda düz çizgi kesinlik belirtisidir ama aynı zamanda da ufuk belirleyicisi olarak serinlik ve sessizliği de simgeler. Dolayısıyla cevap D şıkkıdır."
     },
     {
         "SoruID": 3859607,
@@ -2821,7 +2861,7 @@
     },
     {
         "SoruID": 3859608,
-        "SoruMetni": "Nesnelerin fiziksel yapılarının iç özelliklerini, dış yüzeylerinden anlamamızı sağlayan işlevsel özelliklere ne denir ?",
+        "SoruMetni": "Nesnelerin fiziksel yapılarının iç özelliklerini, dış yüzeylerinden anlamamızı sağlayan işlevsel özelliklere ne denir ?",
         "A": "Doku",
         "B": "Yön",
         "C": "Hareket",
@@ -2837,11 +2877,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nesnelerin fiziksel yapılarının iç özelliklerini, dış yüzeylerinden anlamamızı sağlayan işlevsel özelliklere doku denir. Dolayısıyla cevap A şıkkıdır."
+        "Aciklama": "Nesnelerin fiziksel yapılarının iç özelliklerini, dış yüzeylerinden anlamamızı sağlayan işlevsel özelliklere doku denir. Dolayısıyla cevap A şıkkıdır."
     },
     {
         "SoruID": 3859609,
-        "SoruMetni": "Bir nesnenin başka bir nesneyle ya da bir bütün içerisinde yer alan bir parçanın diğer parçalarla veya bütün ile karşılaştırılarak herhangi bir özelliğinin algılanmasına ne denir ?",
+        "SoruMetni": "Bir nesnenin başka bir nesneyle ya da bir bütün içerisinde yer alan bir parçanın diğer parçalarla veya bütün ile karşılaştırılarak herhangi bir özelliğinin algılanmasına ne denir ?",
         "A": "Çizgi",
         "B": "Ölçü/oran",
         "C": "Şekil",
@@ -2857,7 +2897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ölçü/Oran bir nesnenin başka bir nesneyle ya da bir bütün içerisinde yer alan bir parçanın diğer parçalarla veya bütün ile karşılaştırılarak herhangi bir özelliğinin algılanmasıdır. Dolayısıyla cevap B şıkkıdır."
+        "Aciklama": "Ölçü/Oran bir nesnenin başka bir nesneyle ya da bir bütün içerisinde yer alan bir parçanın diğer parçalarla veya bütün ile karşılaştırılarak herhangi bir özelliğinin algılanmasıdır. Dolayısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3859610,
@@ -2878,6 +2918,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Bauhaus öğretilerine göre temel tasarım ilkelerini tekrar, zıtlık ve egemenlik adı altında üç ana başlık da toplayabiliriz. Dolayısıyla cevap C şıkkıdır."
+    },
+    {
+        "SoruID": 3859611,
+        "SoruMetni": "Tüm iki boyutlu sanatsal çalışmalarda üç boyutlu görünüm elde etme (görüldükleri gibi çizme) hangi çizim tekniği kullanılarak yapılır ?",
+        "A": "Figür",
+        "B": "Fon",
+        "C": "Zemin",
+        "D": "Perspektif",
+        "E": "Yüzey",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Estetik",
+        "Unite": 6,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:09.183735",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Tüm iki boyutlu sanatsal çalışmalarda üç boyutlu görünüm elde etme (görüldükleri gibi çizme) perspektif çizim tekniği kullanılarak yapılır. Dolayısıyla cevap D şıkkıdır."
     },
     {
         "SoruID": 3859612,

@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kripto paralara yönelik yapılan bazı eleştiriler:<br/> <ul> <li>Kripto paraların kara para aklama ya da illegal işlemlerde kullanılması sık sık gündeme geliyor. Burada bahsedilen suçların çoğunun hâlâ resmî/geleneksel para birimleri üzerinden yapıldığını belirtelim.</li> <li>Ponciano (2021) ise Bitcoin üretiminde harcanan enerjiye dikkat çekiyor ve kripto paraların çevreye zararını tartışmaya açıyor. Burada diğer kripto paraların daha az enerji harcadığını ve muhtemelen genel olarak gelecekte daha az enerji ile kripto para üretiminin gerçekleşeceğini belirtelim. </li> <li>Kripto para çevrelerine yönelik başka bir eleştiri de alandaki kadınların azlığı. Diğer tüm bilim ve teknoloji alanlarında kadınların eksikliğinin yarattığı eksiklikler ve sistematik önyargılar burada da olabilir.</li> </ul>"
+        "Aciklama": "Kripto paralara yönelik yapılan bazı eleştiriler:<br/><ul> <li>Kripto paraların kara para aklama ya da illegal işlemlerde kullanılması sık sık gündeme geliyor. Burada bahsedilen suçların çoğunun hâlâ resmî/geleneksel para birimleri üzerinden yapıldığını belirtelim.</li> <li>Ponciano (2021) ise Bitcoin üretiminde harcanan enerjiye dikkat çekiyor ve kripto paraların çevreye zararını tartışmaya açıyor. Burada diğer kripto paraların daha az enerji harcadığını ve muhtemelen genel olarak gelecekte daha az enerji ile kripto para üretiminin gerçekleşeceğini belirtelim. </li> <li>Kripto para çevrelerine yönelik başka bir eleştiri de alandaki kadınların azlığı. Diğer tüm bilim ve teknoloji alanlarında kadınların eksikliğinin yarattığı eksiklikler ve sistematik önyargılar burada da olabilir.</li> </ul>"
     },
     {
         "SoruID": 3769113,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tim Berners-Lee tarafından WWW standartlarının geliştirilmesi"
+        "Aciklama": "İngiliz bilim insanı Tim Berners-Lee tarafından geliştirilen WWW standartları sayesinde metin, ses, resim, görüntü gibi her türlü formatı İnternet üzerinde barındırmak, almak ve göndermek mümkün hâle gelmiş ve İnternet’in kitlesel bir iletişim ortamı hâline dönüşmesinin temelleri atılmıştır.<br>Tim Berners-Lee tarafından WWW standartlarının geliştirilmesi"
     },
     {
         "SoruID": 3769131,
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İşleyişin merkezi yapıda olması"
+        "Aciklama": "İşleyişin merkezi yapıda olması, Bitcoin'in geleneksel paradan temel farklarından biri değildir."
     },
     {
         "SoruID": 3769132,
-        "SoruMetni": "Aşağıdakilerden hangisi Blokzincir'i tanımlayan bir ifadedir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Blokzincir'i tanımlayan bir ifadedir?",
         "A": "Dijital Güven Protokolü",
         "B": "Dijital Para",
         "C": "Bircoin",
@@ -257,12 +257,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital Güven Protokolü"
+        "Aciklama": "Blokzinciri; bireylere, toplumlara, topluluklara, kurumlara, kuruluşlara ve hatta devletlere adil, şeffaf<br/>ve denetlenebilir işleyişler sunan bir Dijital Güven Protokolü olarak tanımlanmaktadır."
     },
     {
         "SoruID": 3769133,
         "SoruMetni": "Aşağıdakilerden hangisi paradaki merkezsizleşme ihtiyacının en somut olarak hissedildiği vakadır?",
-        "A": "2020 Dağıtık Ağ Mimarisi",
+        "A": "2020 Dağıtık Ağ Mimarisi",
         "B": "2020 Dijital Dönüşüm",
         "C": "1994 İnternet'in doğuşu",
         "D": "2008 ABD Finans Krizi",
@@ -277,7 +277,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2008 ABD Finans Krizi"
+        "Aciklama": "Paradaki merkezsizleşme ihtiyacının en somut olarak hissedildiği ve çözüm arayışlarına girildiği ilk vaka, 2008 ABD Finans Krizi olmuştur."
+    },
+    {
+        "SoruID": 3769134,
+        "SoruMetni": "Aşağıdakilerden hangisi Bitcoin’i resmî para birimi olarak kabul eden ilk ülkedir?",
+        "A": "Fransa",
+        "B": "Türkiye",
+        "C": "El Salvador",
+        "D": "Hindistan",
+        "E": "İtalya",
+        "DogruCevap": "C",
+        "DersAd": "Dijital Kültür",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:54.384235",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "El Salvador devleti, Bitcoin’i resmî para birimi olarak kabul eden ilk ülke olmuştur."
     },
     {
         "SoruID": 3769135,
@@ -297,16 +317,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeniden güven tazeleme zorunluluğu olanlar"
+        "Aciklama": "Yeniden güven tazeleme zorunluluğu olanlar, Blokzincire ihtiyaç duyulan alanlardan biri değildir."
     },
     {
         "SoruID": 3769149,
-        "SoruMetni": "Aşağıdakilerden hangisi ilk kriptoparanın dayandığı blok zincir türüdür?",
+        "SoruMetni": "Aşağıdakilerden hangisi ilk kriptoparanın dayandığı blok zincir türüdür?",
         "A": "Genel blokzinciri",
         "B": "Özel blokzinciri",
         "C": "Konsorsiyum",
         "D": "Yan zincir",
-        "E": "Hibrit blokzincir",
+        "E": "Hibrit blokzincir",
         "DogruCevap": "A",
         "DersAd": "Dijital Kültür",
         "Unite": 4,
@@ -317,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Genel blokzinciri"
+        "Aciklama": "İlk kriptoparanın dayandığı blok zincir kamuya açık genel blokzinciri (public blockchain) idi."
     },
     {
         "SoruID": 3769150,
@@ -337,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Telife tabi eserler"
+        "Aciklama": "Açıklık ve şeffaf kayıt zorunluluğu olanlar (Örnek: Telife tabi eserler)"
     },
     {
         "SoruID": 3769151,
@@ -357,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "NFT"
+        "Aciklama": "NFT (İngilizce. non-fungible token), dijital bir varlığın benzersiz olduğunu ve bu nedenle birbirinin yerine geçemeyeceğini onaylayan, blokzincir adı verilen bir dijital defterde depolanan veri birimidir."
     },
     {
         "SoruID": 3769152,
@@ -377,11 +397,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "CryptoKitties"
+        "Aciklama": "CryptoKitties şu ana kadar blokzincir tabanlı en tanınmış oyun olarak görülüyor."
     },
     {
         "SoruID": 3769276,
-        "SoruMetni": "Tim Berners-Lee tarafından geliştirilen WWW standartları sayesinde metin,.........., resim, görüntü gibi her türlü formatı İnternet üzerinde barındırmak, almak ve göndermek mümkün hâle gelmiş ve İnternet’in kitlesel bir iletişim ortamı hâline dönüşmesinin temelleri atılmıştır.<br/> Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+        "SoruMetni": "Tim Berners-Lee tarafından geliştirilen WWW standartları sayesinde metin,.........., resim, görüntü gibi her türlü formatı İnternet üzerinde barındırmak, almak ve göndermek mümkün hâle gelmiş ve İnternet’in kitlesel bir iletişim ortamı hâline dönüşmesinin temelleri atılmıştır.<br/>Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
         "A": "Ses",
         "B": "Video",
         "C": "CD",
@@ -457,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ICO kripto para arzı anlamına gelmektedir. Doğru cevap B seçeneğidir."
+        "Aciklama": "ICO kripto para arzı anlamına gelmektedir. Doğru cevap B seçeneğidir."
     },
     {
         "SoruID": 3769284,
@@ -497,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tapu dairesi nesnel ve manipüle edilemeyecek kayıt saklama zorunluluğu olan birimlere örnektir. Doğru cevap D seçeneğidir."
+        "Aciklama": "Tapu dairesi nesnel ve manipüle edilemeyecek kayıt saklama zorunluluğu olan birimlere örnektir. Doğru cevap D seçeneğidir."
     },
     {
         "SoruID": 3769287,
@@ -541,7 +561,7 @@
     },
     {
         "SoruID": 3769291,
-        "SoruMetni": "........ genel ile özel arasında konumlanmış blok zincirlerdir. <br/> Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+        "SoruMetni": "........ genel ile özel arasında konumlanmış blok zincirlerdir. <br/>Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
         "A": "Bitcoin",
         "B": "Kripto",
         "C": "Konsorsiyum",
@@ -561,7 +581,7 @@
     },
     {
         "SoruID": 3769292,
-        "SoruMetni": "....... blok zincileri  kamuya kapalıdır.<br/> Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+        "SoruMetni": "....... blok zincileri kamuya kapalıdır.<br/>Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
         "A": "Konsorsiyum",
         "B": "Coin",
         "C": "Kripto",
@@ -577,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Özel blok zincileri  kamuya kapalıdır. Doğru cevap E seçeneğidir."
+        "Aciklama": "Özel blok zincileri kamuya kapalıdır. Doğru cevap E seçeneğidir."
     },
     {
         "SoruID": 3769306,
@@ -597,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Paradaki merkezsizleşme ihtiyacının en somut olarak hissedildiği ve çözüm arayışlarına girildiği ilk vaka, 2008 ABD Finans Krizi olmuştur."
+        "Aciklama": "<strong>Sorunun doğru yanıtı \"Paranın Tarihsel Evrimi ve Dijital Dönüşümü\" başlığı altında bulunmaktadır.</strong><br>Paradaki merkezsizleşme ihtiyacının en somut olarak hissedildiği ve çözüm arayışlarına girildiği ilk vaka, 2008 ABD Finans Krizi olmuştur."
     },
     {
         "SoruID": 3769307,
@@ -617,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bireylerin ve toplumların onayı alınmadan alınan ancak faturası da onlara çıkartılan bu tür kriz süreçlerinde ihtiyaç duyulan adil, şeffaf, denetlenebilir bir işleyişin nasıl kurulabileceği sorunsalından hareketle 2008 yılı sonunda İnternet üzerinde başlatılan tartışmalar, giderek bir kural manzumesine dönüştürülmüş ve nihayet bu kural manzumesi de üzerinde geniş bir mutabakat sağlandıktan sonra kimsenin (kurucusu veya kurucularının bile) tek başına değiştiremeyeceği bir koda dönüştürülerek 2009 yılında Bitcoin adı verilen bir finansal işleyiş olarak hayata geçirilmiştir."
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Paranın Tarihsel Evrimi ve Dijital Dönüşümü\" başlığı altında bulunmaktadır. </strong><br>Bireylerin ve toplumların onayı alınmadan alınan ancak faturası da onlara çıkartılan bu tür kriz süreçlerinde ihtiyaç duyulan adil, şeffaf, denetlenebilir bir işleyişin nasıl kurulabileceği sorunsalından hareketle 2008 yılı sonunda İnternet üzerinde başlatılan tartışmalar, giderek bir kural manzumesine dönüştürülmüş ve nihayet bu kural manzumesi de üzerinde geniş bir mutabakat sağlandıktan sonra kimsenin (kurucusu veya kurucularının bile) tek başına değiştiremeyeceği bir koda dönüştürülerek 2009 yılında Bitcoin adı verilen bir finansal işleyiş olarak hayata geçirilmiştir."
     },
     {
         "SoruID": 3769309,
@@ -637,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Geleneksel finans kurumlarında işlem kayıtları, kurumun yönetiminin belirlediği oranda şeffaf ve denetime açıktır. Bitcoin ve özgün türevlerinde ise, tutulan işlem kayıtları ilk işlemden bugüne İnternet üzerinde isteyen herkesin görüş ve denetimine açıktır."
+        "Aciklama": "<strong>Sorunun doğru yanıtı \"Merkez Bankalarından Merkezsiz Finansa; Farklı Olan Ne?\" başlığı altında bulunmaktadır. </strong><br>Geleneksel finans kurumlarında işlem kayıtları, kurumun yönetiminin belirlediği oranda şeffaf ve denetime açıktır. Bitcoin ve özgün türevlerinde ise, tutulan işlem kayıtları ilk işlemden bugüne İnternet üzerinde isteyen herkesin görüş ve denetimine açıktır."
     },
     {
         "SoruID": 3769310,
@@ -657,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bitcoin benzeri açık kaynak kodlu blokzincirler olarak geliştirilen Dijital Güven Protokolleri de <strong><em>Kriptopara </em></strong>olarak adlandırılmaktadır."
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Merkez Bankalarından Merkezsiz Finansa; Farklı Olan Ne?\" başlığı altında bulunmaktadır. </strong><br>Bitcoin benzeri açık kaynak kodlu blokzincirler olarak geliştirilen Dijital Güven Protokolleri de <strong><em>Kriptopara </em></strong>olarak adlandırılmaktadır."
     },
     {
         "SoruID": 3769312,
@@ -677,11 +697,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu arada El Salvador devleti ise Bitcoin’i resmî para birimi olarak kabul eden ilk ülke oldu (Renteria ve arkadaşları, 2021)."
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"İlgili Regülasyonlar\" başlığı altındadır.</strong><br>Bu arada El Salvador devleti ise Bitcoin’i resmî para birimi olarak kabul eden ilk ülke oldu (Renteria ve arkadaşları, 2021)."
     },
     {
         "SoruID": 3769314,
-        "SoruMetni": "I. İşleyiş merkezi<br/> II. Kamuya açık işlem kayıtları<br/> III. Dijital güvenlik<br/> IV. İşleyiş merkezsiz<br/> V. Kuruma açık işlem kayıtları<br/> Yukarıdakilerden hangisi ya da hangileri Bitcoin ve türe­vi yeni nesil dijital finans işleyişlerinin mevcut finansal işleyişten farkı nedir?",
+        "SoruMetni": "I. İşleyiş merkezi<br/>II. Kamuya açık işlem kayıtları<br/>III. Dijital güvenlik<br/>IV. İşleyiş merkezsiz<br/>V. Kuruma açık işlem kayıtları<br/>Yukarıdakilerden hangisi ya da hangileri Bitcoin ve türe­vi yeni nesil dijital finans işleyişlerinin mevcut finansal işleyişten farkı nedir?",
         "A": "Yalnız IV",
         "B": "II ve IV",
         "C": "I, II, III ve V",
@@ -697,11 +717,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<table> <tbody> <tr> <td> <strong>İşleyiş </strong><br/> </td> <td> Merkezi<br/> </td> <td> Merkezsiz<br/> </td> </tr> <tr> <td> <strong>İşlem Kayıtları </strong><br/> </td> <td> Kuruma açık<br/> </td> <td> Kamuya açık<br/> </td> </tr> <tr> <td> <strong>Mahremiyet </strong><br/> </td> <td> Kurum<br/> </td> <td> Kullanıcı<br/> </td> </tr> <tr> <td> <strong>Güvenlik </strong><br/> </td> <td> Dijital<br/> </td> <td> Kripto<br/> </td> </tr> </tbody> </table>"
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Merkez Bankalarından Merkezsiz Finansa; Farklı Olan Ne?\"başlığı altında bulunmaktadır. </strong><br><table> <tbody> <tr> <td> <strong>İşleyiş </strong><br/></td> <td> Merkezi<br/></td> <td> Merkezsiz<br/></td> </tr> <tr> <td> <strong>İşlem Kayıtları </strong><br/></td> <td> Kuruma açık<br/></td> <td> Kamuya açık<br/></td> </tr> <tr> <td> <strong>Mahremiyet </strong><br/></td> <td> Kurum<br/></td> <td> Kullanıcı<br/></td> </tr> <tr> <td> <strong>Güvenlik </strong><br/></td> <td> Dijital<br/></td> <td> Kripto<br/></td> </tr> </tbody> </table>"
     },
     {
         "SoruID": 3769315,
-        "SoruMetni": "I. Gümrükler<br/> II. Tapu daireler<br/> III. Telife tabi eserler<br/> IV. Kamu kurumlarıyla iş yapanlar<br/> V. Taahhüt işleri yapanlar yukarıda yer alanlardan hangisi ya da hangileri blokzincire ihtiyaç duyar?",
+        "SoruMetni": "I. Gümrükler<br/>II. Tapu daireler<br/>III. Telife tabi eserler<br/>IV. Kamu kurumlarıyla iş yapanlar<br/>V. Taahhüt işleri yapanlar yukarıda yer alanlardan hangisi ya da hangileri blokzincire ihtiyaç duyar?",
         "A": "Yalnız V",
         "B": "II, III ve V",
         "C": "I, II, III ve V",
@@ -717,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Blokzincire kimler ve neden ihtiyaç duyar? Bu soruyu kısa bir ifadeyle “aralarında güven problemi olan iki veya fazla sayıda sosyal veya ticari taraf ” olarak yanıtlayabiliriz. Bu ifadeyi detaylandırmak gerekirse:<br/> <ul> <li>İş kayıtlarını başkalarıyla ortak tutma, kullanma ve paylaşma zorunluluğu olanlar, (Örnek: Proje/ taahhüt işleri yapanlar, kamu kurumlarıyla iş yapanlar)</li> <li>Nesnel ve manipüle edilemeyecek kayıt saklama zorunluluğu olanlar, (Ör: Tapu daireleri)</li> <li>Çalışma ilkeleri farklılık gösterenler (Ör: Gümrükler)</li> <li>İş ilkelerini ve içeriğini değiştirmeden saklama ihtiyacında olanlar (Ör: Diploma)</li> <li>Açıklık ve şeffaf kayıt zorunluluğu olanlar (Örnek: Telife tabi eserler)</li> </ul>"
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Blokzincir Ekonomisi ve Ötesi\" başlığı altında bulunmaktadır.</strong><br>Blokzincire kimler ve neden ihtiyaç duyar? Bu soruyu kısa bir ifadeyle “aralarında güven problemi olan iki veya fazla sayıda sosyal veya ticari taraf ” olarak yanıtlayabiliriz. Bu ifadeyi detaylandırmak gerekirse:<br/><ul> <li>İş kayıtlarını başkalarıyla ortak tutma, kullanma ve paylaşma zorunluluğu olanlar, (Örnek: Proje/ taahhüt işleri yapanlar, kamu kurumlarıyla iş yapanlar)</li> <li>Nesnel ve manipüle edilemeyecek kayıt saklama zorunluluğu olanlar, (Ör: Tapu daireleri)</li> <li>Çalışma ilkeleri farklılık gösterenler (Ör: Gümrükler)</li> <li>İş ilkelerini ve içeriğini değiştirmeden saklama ihtiyacında olanlar (Ör: Diploma)</li> <li>Açıklık ve şeffaf kayıt zorunluluğu olanlar (Örnek: Telife tabi eserler)</li> </ul>"
     },
     {
         "SoruID": 3769317,
@@ -737,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Konsorsiyum </strong>(<em>Hybrid blockchain</em>) ise genel ile özel arasında konumlanmış blok zincirlerdir"
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Blokzincir Ekonomisi ve Ötesi\" başlığı altındadır. </strong><br><strong>Konsorsiyum </strong>(<em>Hybrid blockchain</em>) ise genel ile özel arasında konumlanmış blok zincirlerdir"
     },
     {
         "SoruID": 3769318,
@@ -757,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ICO: ICO, İngilizce “Initial Coin Offering” teriminin kısaltmasıdır ve kriptopara arzı anlamına gelmektedir. Projelere fon toplamak amacıyla, yeni üretilen bir jeton ya da kripto varlığın, Bitcoin, Ethereum gibi popüler kriptoparalar karşılığında satışa sunulması sürecini tanımlamaktadır."
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Dijital Çağda Para\" başlığı altında bulunmaktadır.</strong><br>ICO: ICO, İngilizce “Initial Coin Offering” teriminin kısaltmasıdır ve kriptopara arzı anlamına gelmektedir. Projelere fon toplamak amacıyla, yeni üretilen bir jeton ya da kripto varlığın, Bitcoin, Ethereum gibi popüler kriptoparalar karşılığında satışa sunulması sürecini tanımlamaktadır."
     },
     {
         "SoruID": 3769319,
@@ -777,6 +797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kriptoparaların çıkışında en önemli beklen­tilerden birisi, aracı kurumları aradan çıkarmak yanından insanlara dayanmadan yüksek teknoloji ile güven sorununu çözüp varlığını sürdürmekti. Ancak kriptoparalar en azından şu aşamada onları kullanan, yaşatan ve geliştiren topluluklar olmadan varlıklarını sürdüremiyor (Dodd, 2018"
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Kriptoparalar ve Blokzincir ile İlgili Eleştirilere Toplu Bir Bakış\" başlığı altında bulunmaktadır. </strong><br>Kriptoparaların çıkışında en önemli beklen­tilerden birisi, aracı kurumları aradan çıkarmak yanından insanlara dayanmadan yüksek teknoloji ile güven sorununu çözüp varlığını sürdürmekti. Ancak kriptoparalar en azından şu aşamada onları kullanan, yaşatan ve geliştiren topluluklar olmadan varlıklarını sürdüremiyor (Dodd, 2018"
     }
 ]

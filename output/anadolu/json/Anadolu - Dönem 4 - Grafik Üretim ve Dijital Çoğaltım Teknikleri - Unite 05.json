@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong><em>Elek baskı </em></strong>boyanın kalıbın geçirgen olan veya olmayan yerlerinden yüzeye aktarılmasıyla elde edilen baskıdır. Şablon baskı da elek baskı adı altında ele alınır.<span> Cevap A'dır.</span>"
+        "Aciklama": "<strong><em>Elek baskı </em></strong>boyanın kalıbın geçirgen olan veya olmayan yerlerinden yüzeye aktarılmasıyla elde edilen baskıdır. Şablon baskı da elek baskı adı altında ele alınır.<span> Cevap A'dır.</span>"
     },
     {
         "SoruID": 3764345,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Emülsyon çekme küreği; Boş ipek eleğin emülsiyon malzemesiyle kaplanması için kullanılan gereçtir. Mantık olarak rakleye benzer ancak farklı bir forma sahiptir. Bir kürek gibi emülsiyon malzemesini içinde tutar, elle biraz eğildiğinde ise akıcı emülsiyon sıvısının eşit ve homojen bir şekilde ve ince bir tabaka oluşturacak biçimde eleğe sürülmesini sağlar.<span> Cevap C'dir.</span>"
+        "Aciklama": "Emülsyon çekme küreği; Boş ipek eleğin emülsiyon malzemesiyle kaplanması için kullanılan gereçtir. Mantık olarak rakleye benzer ancak farklı bir forma sahiptir. Bir kürek gibi emülsiyon malzemesini içinde tutar, elle biraz eğildiğinde ise akıcı emülsiyon sıvısının eşit ve homojen bir şekilde ve ince bir tabaka oluşturacak biçimde eleğe sürülmesini sağlar.<span> Cevap C'dir.</span>"
     },
     {
         "SoruID": 3764347,
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 3764348,
-        "SoruMetni": "Serigrafide aynı anda ve aynı kalıpta farklı renkler kullanarak karıştırılması ve birbirine geçişli renklerin elde edilmesine<span> ne ad verilir?</span>",
+        "SoruMetni": "Serigrafide aynı anda ve aynı kalıpta farklı renkler kullanarak karıştırılması ve birbirine geçişli renklerin elde edilmesine<span> ne ad verilir?</span>",
         "A": "Pozlama",
         "B": "Kros",
         "C": "Emülsyon",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3764349,
-        "SoruMetni": "Serigrafide birden fazla kalıpla renkleri hızlıca basmaya elveren tezgahlara<span> ne ad verilir?</span>",
+        "SoruMetni": "Serigrafide birden fazla kalıpla renkleri hızlıca basmaya elveren tezgahlara<span> ne ad verilir?</span>",
         "A": "Ahtapot",
         "B": "Degrate",
         "C": "Pozlama",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3764350,
-        "SoruMetni": "Aşağıdakilerden hangisi indirgeme yöntemiyle oyularak hazırlanan kalıplar için kullanılan bir terimdir?",
+        "SoruMetni": "Aşağıdakilerden hangisi indirgeme yöntemiyle oyularak hazırlanan kalıplar için kullanılan bir terimdir?",
         "A": "Yüksek baskı",
         "B": "Çukur baskı",
         "C": "Emülsyon",
@@ -157,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong><em>Düz baskı </em></strong> kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu tekniklerdir (Örn. Litografi, Ofset Litografi). Cevap C'dir."
+        "Aciklama": "<strong><em>Düz baskı </em></strong> kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu tekniklerdir (Örn. Litografi, Ofset Litografi). Cevap C'dir."
     },
     {
         "SoruID": 3764352,
-        "SoruMetni": "Aşağıdakilerden hangisi kalıptan yüzeye aktarılacak olan yerlerin yüksekte kalarak mürekkep aldığı tekniktir?",
+        "SoruMetni": "Aşağıdakilerden hangisi kalıptan yüzeye aktarılacak olan yerlerin yüksekte kalarak mürekkep aldığı tekniktir?",
         "A": "Çukur baskı",
         "B": "Düz baskı",
         "C": "Elek baskı",
@@ -221,11 +221,11 @@
     },
     {
         "SoruID": 3764546,
-        "SoruMetni": "<span style=\"font-size: 11.0pt; color: #221e1f;\">İpek kumaşın ilk kez kullanıldığı elek baskı pa­tenti, kim tarafından, ne zaman alınmıştır. </span><br/><br/>",
-        "A": "Samuel Simon tarafından 1907 yılında<br/><br/>",
-        "B": "Roy Beck tarafından 1910’larda<br/>",
-        "C": "Charles Peter tarafından 1909’da<br/>",
-        "D": "Edward Owens tarafından 1905’de<br/>",
+        "SoruMetni": "<span style=\"font-size: 11.0pt; color: #221e1f;\">İpek kumaşın ilk kez kullanıldığı elek baskı pa­tenti, kim tarafından, ne zaman alınmıştır. </span>",
+        "A": "Samuel Simon tarafından 1907 yılında",
+        "B": "Roy Beck tarafından 1910’larda",
+        "C": "Charles Peter tarafından 1909’da",
+        "D": "Edward Owens tarafından 1905’de",
         "E": "Duncan Grant ve Frank Dobson gibi sanat­çılar tarafından 1908 yılında",
         "DogruCevap": "A",
         "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 3764553,
-        "SoruMetni": "Serigrafi denilince ilk akla gelen sanatçılardandır. Serigrafi de dahil olmak üzere birçok sanat projesinin stüdyosu olarak hizmet veren The Factory’yi 1963 yılında Manhattan’da açmıştır. Tüm sanatsal üretimlerini burada yapmaya başlayan sanatçı, aynı zamanda büyük boy serigrafi baskılar yapabileceği geniş bir alanı da yaratmıştır. Sanatçı, popüler kültürün eleştirisini üretim üzerinden yapmıştır. Seri üretim ve tekrarı kullandığı imgelerle ve ünlü yıldızların portreleriyle pekiştir­miş, bu imgeleri kendi özgün diliyle birleştirmiş, serigrafi baskılarla çoğaltarak ve sanatı bir tüketim nesne­si hâline getirmiştir.<br/> Yukarıda tasvir edilen sanatçı aşağıdakilerden hangisidir.",
+        "SoruMetni": "Serigrafi denilince ilk akla gelen sanatçılardandır. Serigrafi de dahil olmak üzere birçok sanat projesinin stüdyosu olarak hizmet veren The Factory’yi 1963 yılında Manhattan’da açmıştır. Tüm sanatsal üretimlerini burada yapmaya başlayan sanatçı, aynı zamanda büyük boy serigrafi baskılar yapabileceği geniş bir alanı da yaratmıştır. Sanatçı, popüler kültürün eleştirisini üretim üzerinden yapmıştır. Seri üretim ve tekrarı kullandığı imgelerle ve ünlü yıldızların portreleriyle pekiştir­miş, bu imgeleri kendi özgün diliyle birleştirmiş, serigrafi baskılarla çoğaltarak ve sanatı bir tüketim nesne­si hâline getirmiştir.<br/>Yukarıda tasvir edilen sanatçı aşağıdakilerden hangisidir.",
         "A": "Eduardo Paolozzi",
         "B": "Edward Ruscha",
         "C": "Andy Warhol",
@@ -381,7 +381,7 @@
     },
     {
         "SoruID": 3764554,
-        "SoruMetni": "Serigrafide birden fazla kalıpla renkleri hızlıca basmaya elveren tezgahlar bulunmakta,  baskı bu makinalarla hızlı bir şekilde yapılmaktadır. Bu makinalar, genellikle ti­şört baskısında kullanılır ve yarı otomatiktir. Aşağıda verilenlerden hangisi bu makinalara verilen isimdir?",
+        "SoruMetni": "Serigrafide birden fazla kalıpla renkleri hızlıca basmaya elveren tezgahlar bulunmakta, baskı bu makinalarla hızlı bir şekilde yapılmaktadır. Bu makinalar, genellikle ti­şört baskısında kullanılır ve yarı otomatiktir. Aşağıda verilenlerden hangisi bu makinalara verilen isimdir?",
         "A": "Marimekko",
         "B": "The Factory",
         "C": "Ahtapot",
@@ -401,7 +401,7 @@
     },
     {
         "SoruID": 3764747,
-        "SoruMetni": "Çinlerden Japonlara geçen, daha çok kumaş baskısında kullanılan, ipeğin üzerine maskeleyerek boyanması tekniğine verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?",
+        "SoruMetni": "Çinlerden Japonlara geçen, daha çok kumaş baskısında kullanılan, ipeğin üzerine maskeleyerek boyanması tekniğine verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?",
         "A": "Katazome",
         "B": "Katagami",
         "C": "Kasnak",
@@ -417,11 +417,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çinlerden Japonlara geçen teknik daha çok kumaş baskısında kullanılır. Japonya’da serigrafi tekniği daha da ileri düzeye taşınır. Şablonlarla tek renkli veya çok renkli desenleri katagami adı verdikleri bu tekniği ile uygulamaya başlarlar. Elle şablon kesme tekniğine katagami, ipeğin üzerine maskeleyerek boyanması tekniğine ise katazome adı verilir. Dolayısıyla cevap A şıkkıdır."
+        "Aciklama": "Çinlerden Japonlara geçen teknik daha çok kumaş baskısında kullanılır. Japonya’da serigrafi tekniği daha da ileri düzeye taşınır. Şablonlarla tek renkli veya çok renkli desenleri katagami adı verdikleri bu tekniği ile uygulamaya başlarlar. Elle şablon kesme tekniğine katagami, ipeğin üzerine maskeleyerek boyanması tekniğine ise katazome adı verilir. Dolayısıyla cevap A şıkkıdır."
     },
     {
         "SoruID": 3764748,
-        "SoruMetni": "Birinci Dünya Savaşı patlak verdiğinde matbaa üretimi hızlandı ve San Francisco’da John Pilsworth tarafından bir çok-renkli yöntem geliştirildi. Basılmakta olan renklere karşılık gelen ekranın alanını bloke ederek çok renkli işin basılması için bir kalıp kullan yönteme verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?",
+        "SoruMetni": "Birinci Dünya Savaşı patlak verdiğinde matbaa üretimi hızlandı ve San Francisco’da John Pilsworth tarafından bir çok-renkli yöntem geliştirildi. Basılmakta olan renklere karşılık gelen ekranın alanını bloke ederek çok renkli işin basılması için bir kalıp kullan yönteme verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?",
         "A": "Katagami",
         "B": "Selectasine",
         "C": "Katazome",
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Birinci Dünya Savaşı patlak verdiğinde matbaa üretimi hızlandı ve San Francisco’da John Pilsworth tarafından bir çok-renkli yöntem geliştirildi. Selectasine yöntemi olarak bilinen bu yöntem, basılmakta olan renklere karşılık gelen ekranın alanını bloke ederek çok renkli işin basılması için bir kalıp kullanıyordu. Dolayısıyla cevap B şıkkıdır."
+        "Aciklama": "Birinci Dünya Savaşı patlak verdiğinde matbaa üretimi hızlandı ve San Francisco’da John Pilsworth tarafından bir çok-renkli yöntem geliştirildi. Selectasine yöntemi olarak bilinen bu yöntem, basılmakta olan renklere karşılık gelen ekranın alanını bloke ederek çok renkli işin basılması için bir kalıp kullanıyordu. Dolayısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3764749,
@@ -461,7 +461,7 @@
     },
     {
         "SoruID": 3764750,
-        "SoruMetni": "Kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu baskı tekniklerine verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?",
+        "SoruMetni": "Kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu baskı tekniklerine verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?",
         "A": "Çukur baskı",
         "B": "Elek baskı",
         "C": "Yüksek baskı",
@@ -477,11 +477,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düz baskı ise kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu tekniklerdir. Dolayısıyla cevap D şıkkıdır."
+        "Aciklama": "Düz baskı ise kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu tekniklerdir. Dolayısıyla cevap D şıkkıdır."
     },
     {
         "SoruID": 3764751,
-        "SoruMetni": "Özel kırmızı renkte bir filmle çalışılan, adı bu alanda en yaygın ürünün markasından gelen, bu filmin kırmızı rengi sayesinde ultraviyole ışığın eleğe geçişini engellediği, bu filmin kalın asetat üzerine yapışmış ince kırmızı film tabakasından meydana geldiği ve kesilen alanlardan kırmızı filmin sıyrılarak çalışmanın yapıldığı  serigrafi kalıbı hazırlama yöntemine verilen ad aşağıdaki hangi şıkta belirtilmiştir ?",
+        "SoruMetni": "Özel kırmızı renkte bir filmle çalışılan, adı bu alanda en yaygın ürünün markasından gelen, bu filmin kırmızı rengi sayesinde ultraviyole ışığın eleğe geçişini engellediği, bu filmin kalın asetat üzerine yapışmış ince kırmızı film tabakasından meydana geldiği ve kesilen alanlardan kırmızı filmin sıyrılarak çalışmanın yapıldığı serigrafi kalıbı hazırlama yöntemine verilen ad aşağıdaki hangi şıkta belirtilmiştir ?",
         "A": "Gravür",
         "B": "Linol baskı",
         "C": "Şablon baskı",
@@ -497,11 +497,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir yöntem ise rubylith adı verilen özel kırmızı renkte bir filmle çalışmaktır. Adı bu alanda en yaygın ürünün markasından gelmektedir. Bu film kırmızı rengi sayesinde ultraviyole ışığın eleğe geçişini engeller. Bu film kalın asetat üzerine yapışmış ince kırmızı film tabakasından meydana gelir. Kesilen alanlardan kırmızı film sıyrılarak çalışma yapılır. Dolayısıyla cevap E şıkkıdır."
+        "Aciklama": "Bir yöntem ise rubylith adı verilen özel kırmızı renkte bir filmle çalışmaktır. Adı bu alanda en yaygın ürünün markasından gelmektedir. Bu film kırmızı rengi sayesinde ultraviyole ışığın eleğe geçişini engeller. Bu film kalın asetat üzerine yapışmış ince kırmızı film tabakasından meydana gelir. Kesilen alanlardan kırmızı film sıyrılarak çalışma yapılır. Dolayısıyla cevap E şıkkıdır."
     },
     {
         "SoruID": 3764752,
-        "SoruMetni": "Fotografik pozlama ile kalıp hazırlama yönteminde renkli fotografik imgelerin da basılması mümkündür. Baskı öncesi aşamada bilgisayar ortamında basılmak istenen görsel CMYK renklerine ayrıştırılarak film çıktısı alınır, sonrasında bu ayrı filmlerin her biri kaç adet ayrı kalıpta pozlanır ?",
+        "SoruMetni": "Fotografik pozlama ile kalıp hazırlama yönteminde renkli fotografik imgelerin da basılması mümkündür. Baskı öncesi aşamada bilgisayar ortamında basılmak istenen görsel CMYK renklerine ayrıştırılarak film çıktısı alınır, sonrasında bu ayrı filmlerin her biri kaç adet ayrı kalıpta pozlanır ?",
         "A": "Dört",
         "B": "Altı",
         "C": "İki",
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotografik pozlama ile kalıp hazırlama yönteminde, renkli fotografik imgelerin da basılması mümkündür. Baskı öncesi aşamada bilgisayar ortamında basılmak istenen görsel CMYK renklerine ayrıştırılarak film çıktısı alınır, sonrasında bu dört ayrı filmin her biri 4 ayrı kalıpta pozlanır. Dolayısıyla cevap A şıkkıdır."
+        "Aciklama": "Fotografik pozlama ile kalıp hazırlama yönteminde, renkli fotografik imgelerin da basılması mümkündür. Baskı öncesi aşamada bilgisayar ortamında basılmak istenen görsel CMYK renklerine ayrıştırılarak film çıktısı alınır, sonrasında bu dört ayrı filmin her biri 4 ayrı kalıpta pozlanır. Dolayısıyla cevap A şıkkıdır."
     },
     {
         "SoruID": 3764753,
@@ -557,11 +557,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Emülsiyon çekme küreği, boş ipek eleğin emülsiyon malzemesiyle kaplanması için kullanılan gereçtir. Dolayısıyla cevap C şıkkıdır."
+        "Aciklama": "Emülsiyon çekme küreği, boş ipek eleğin emülsiyon malzemesiyle kaplanması için kullanılan gereçtir. Dolayısıyla cevap C şıkkıdır."
     },
     {
         "SoruID": 3764755,
-        "SoruMetni": "Serigrafi tekniğini kullanan hangi sanatçı, farklı renklerde mürekkepleri birleştiren ticari sürecin ilk güzel sanat uygulamalarından biri olan “split fountain” (degrade) tekniğiyle yapılan harmanlanmış renklerin yanı sıra düz, düz renkli alanlar elde etmeyi başarmıştır ?",
+        "SoruMetni": "Serigrafi tekniğini kullanan hangi sanatçı, farklı renklerde mürekkepleri birleştiren ticari sürecin ilk güzel sanat uygulamalarından biri olan “split fountain” (degrade) tekniğiyle yapılan harmanlanmış renklerin yanı sıra düz, düz renkli alanlar elde etmeyi başarmıştır ?",
         "A": "Warhol",
         "B": "Keating",
         "C": "Opie",
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Serigrafi tekniğini kullanan Ruscha, farklı renklerde mürekkepleri birleştiren ticari sürecin ilk güzel sanat uygulamalarından biri olan “split fountain” (degrade) tekniğiyle yapılan harmanlanmış renklerin yanı sıra düz, düz renkli alanlar elde etmeyi başardı. Dolayısıyla cevap D şıkkıdır."
+        "Aciklama": "Serigrafi tekniğini kullanan Ruscha, farklı renklerde mürekkepleri birleştiren ticari sürecin ilk güzel sanat uygulamalarından biri olan “split fountain” (degrade) tekniğiyle yapılan harmanlanmış renklerin yanı sıra düz, düz renkli alanlar elde etmeyi başardı. Dolayısıyla cevap D şıkkıdır."
     },
     {
         "SoruID": 3764756,
@@ -637,11 +637,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İpek elek, çekme küreği yardımıyla emülsiyon denilen bir sıvı bir malzemeyle kaplanır. Bu ince tabaka ışığa duyarlıdır. İstenilen tasarımın siyah beyaz olarak çıktısının alındığı veya elle hazırlanan film ışığı duyarlı bu kalıp ile birlikte kaplanıp pozlama ünitesinde gerekli ışık ve zaman ayarı yapılarak pozlanır.Emülsiyonlu kalıp pozitif filmle pozlanır ve böylelikle siyah olan alanlar ışığı geçirmeyerek yumuşak kalır, ışık alan alanlar ise sertleşerek sabitlenir.<br/> Emülsiyon pozlama aşaması , onun dışındaki malzemeler  baskı aşaması için gereklidir."
+        "Aciklama": "İpek elek, çekme küreği yardımıyla emülsiyon denilen bir sıvı bir malzemeyle kaplanır. Bu ince tabaka ışığa duyarlıdır. İstenilen tasarımın siyah beyaz olarak çıktısının alındığı veya elle hazırlanan film ışığı duyarlı bu kalıp ile birlikte kaplanıp pozlama ünitesinde gerekli ışık ve zaman ayarı yapılarak pozlanır.Emülsiyonlu kalıp pozitif filmle pozlanır ve böylelikle siyah olan alanlar ışığı geçirmeyerek yumuşak kalır, ışık alan alanlar ise sertleşerek sabitlenir.<br/>Emülsiyon pozlama aşaması , onun dışındaki malzemeler baskı aşaması için gereklidir."
     },
     {
         "SoruID": 3764803,
-        "SoruMetni": "Serigrafi baskıda işlem sıralaması hangisinde doğru verilmiştir? <br/> a.pozlama<br/> b.kalıba emülsiyon çekilmesi <br/> c. baskı<br/> d.kalıbın yıkanması ve kurutulması",
+        "SoruMetni": "Serigrafi baskıda işlem sıralaması hangisinde doğru verilmiştir? <br/>a.pozlama<br/>b.kalıba emülsiyon çekilmesi <br/>c. baskı<br/>d.kalıbın yıkanması ve kurutulması",
         "A": "a,b,c,d",
         "B": "b,a,d,c",
         "C": "a,c,d,b",
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1.kalıba emülsiyon çekilmesi <br/> 2.pozlama <br/> 3.kalıbın yıkanması ve kurutulması <br/> 4.boya hazırlama<br/> 5.baskı"
+        "Aciklama": "1.kalıba emülsiyon çekilmesi <br/>2.pozlama <br/>3.kalıbın yıkanması ve kurutulması <br/>4.boya hazırlama<br/>5.baskı"
     },
     {
         "SoruID": 3764804,
@@ -684,7 +684,7 @@
         "SoruMetni": "Serigrafide kullanılan eleklerin sıklığı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
         "A": "Yüksek sıklıkta elekte yüzeye geçen mürekkep miktarı daha düşüktür.",
         "B": "Elek sıklığı inç başına düşen ip sayısı olarak ölçülür.",
-        "C": "Yüksek sıklıkta elek detaylı baskıların çoğaltımında daha iyi sonuç verir.",
+        "C": "Yüksek sıklıkta elek detaylı baskıların çoğaltımında daha iyi sonuç verir.",
         "D": "Yoğun mürekkebin elekten geçebilmesi için elek sıklığının yüksek olması gerekir",
         "E": "kuşe kağıt gibi yüzeylerde yüksek sıklıkta elekler kullanılır.",
         "DogruCevap": "D",
@@ -761,7 +761,7 @@
     },
     {
         "SoruID": 3764809,
-        "SoruMetni": "Cilt bezi kumaşı üzerine baskıda hangi sıklıkta elek tercih edilir?<br/><br/>",
+        "SoruMetni": "Cilt bezi kumaşı üzerine baskıda hangi sıklıkta elek tercih edilir?",
         "A": "110",
         "B": "160",
         "C": "200",
@@ -781,7 +781,7 @@
     },
     {
         "SoruID": 3764811,
-        "SoruMetni": "Tekstil baskısı için çok renkli bir rotatif serigrafi makinesi geliştiren ve ve patentini alan Amerikalı girişimci, sanatçı ve mucit kimdir?  <br/><br/>",
+        "SoruMetni": "Tekstil baskısı için çok renkli bir rotatif serigrafi makinesi geliştiren ve ve patentini alan Amerikalı girişimci, sanatçı ve mucit kimdir?",
         "A": "Joe Ulano",
         "B": "Andy Warhol",
         "C": "Mildred Rackley",

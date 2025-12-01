@@ -2,10 +2,10 @@
     {
         "SoruID": 3861503,
         "SoruMetni": "Analog ya da dijital fotoğraf makineleri ile sahnede yer alan her hareketin fotoğrafı çekilmesi yoluyla hareketsiz nesnelere hareket vererek tamamlanan animasyon oluşturma tekniğine ne denir?",
-        "A": "Storyboard<br/><br/>",
+        "A": "Storyboard",
         "B": "Sinopsi",
         "C": "Stop motion",
-        "D": "Hareket Yakalama<br/><br/>",
+        "D": "Hareket Yakalama",
         "E": "Sayısal Kolaj",
         "DogruCevap": "C",
         "DersAd": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 3861505,
-        "SoruMetni": "Aşağıdakilerden hangisi objelerle birlikte dekorların ve gerçek aktörlerin kare kare fotoğraflanarak kullanılmasıyla ortaya çıkan bir animasyon tekniğidir?",
+        "SoruMetni": "Aşağıdakilerden hangisi objelerle birlikte dekorların ve gerçek aktörlerin kare kare fotoğraflanarak kullanılmasıyla ortaya çıkan bir animasyon tekniğidir?",
         "A": "Kolaj animasyon",
         "B": "Kukla",
         "C": "Kil ya da Hamur Animasyon",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 3861582,
-        "SoruMetni": "Aşağıdaki film türlerinden  hangisi öyküye dayalı olarak ilerleyen bir kısa film türüdür?",
+        "SoruMetni": "Aşağıdaki film türlerinden hangisi öyküye dayalı olarak ilerleyen bir kısa film türüdür?",
         "A": "Belgesel film",
         "B": "Kurmaca film",
         "C": "Deneysel film",
@@ -237,16 +237,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "OTT (ing. Over e Top Media), izleyicilere internet üzerinden doğrudan ulaşan<br/> Netflix, Blutv, Amazon Prime gibi çeşitli görsel içerik sağlayıcılarını tanımlamak için<br/> kullanılan çatı bir kavramdır."
+        "Aciklama": "OTT (ing. Over e Top Media), izleyicilere internet üzerinden doğrudan ulaşan<br/>Netflix, Blutv, Amazon Prime gibi çeşitli görsel içerik sağlayıcılarını tanımlamak için<br/>kullanılan çatı bir kavramdır."
     },
     {
         "SoruID": 3861794,
-        "SoruMetni": "I. Temanın bulunması<br/><br/>II. Sinopsis, tretman ve çekim senaryosu yazımı<br/><br/>III. Bütçe hazırlama<br/><br/>IV. Oyuncuların ve mekânların belirlenmesi<br/><br/>V. Oyuncularla anlaşma<br/><br/>VI. Çekim izinleri alınması<br/><br/>VII. Telif Hakları<br/><br/>Yukarıdaki bu aşamalar Film yapımında hangi katagoriyi işaret ediyor?",
-        "A": "<br/> <br/> <br/> <br/>Yapım Öncesi<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Çekim Öncesi<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Çekim Aşaması<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Çekim Sonrası<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Yapım Sonrası<br/><br/><br/><br/>",
+        "SoruMetni": "I. Temanın bulunması<br/>II. Sinopsis, tretman ve çekim senaryosu yazımı<br/>III. Bütçe hazırlama<br/>IV. Oyuncuların ve mekânların belirlenmesi<br/>V. Oyuncularla anlaşma<br/>VI. Çekim izinleri alınması<br/>VII. Telif Hakları<br/>Yukarıdaki bu aşamalar Film yapımında hangi katagoriyi işaret ediyor?",
+        "A": "<br/>Yapım Öncesi",
+        "B": "<br/>Çekim Öncesi",
+        "C": "<br/>Çekim Aşaması",
+        "D": "<br/>Çekim Sonrası",
+        "E": "<br/>Yapım Sonrası",
         "DogruCevap": "A",
         "DersAd": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
         "Unite": 8,
@@ -257,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/><table><br/><tbody><br/><tr><br/><td><br/> <br/> <br/>Yapım Öncesi<br/><br/><br/><br/></td><br/><td><br/> <br/> <br/>Çekim Öncesi<br/><br/><br/><br/></td><br/><td><br/> <br/> <br/>Çekim Aşaması<br/><br/><br/><br/></td><br/><td><br/> <br/> <br/>Çekim Sonrası<br/><br/><br/><br/></td><br/><td><br/> <br/> <br/>Yapım Sonrası<br/><br/><br/><br/></td><br/></tr><br/><tr><br/><td><br/> <br/> <br/><ul><br/><li><br/>Temanın bulunması<br/><br/></li><br/><li><br/>Sinopsis, tretman<br/><br/>ve çekim senaryosu<br/><br/>yazımı<br/><br/></li><br/><li><br/>Bütçe hazırlama<br/><br/></li><br/><li><br/>Oyuncuların<br/><br/>ve mekânların<br/><br/>belirlenmesi<br/><br/></li><br/><li><br/>Oyuncularla anlaşma<br/><br/></li><br/><li><br/>Çekim izinleri<br/><br/>alınması<br/><br/></li><br/><li><br/>Telif Hakları<br/><br/></li><br/></ul><br/><br/><br/></td><br/><br/><br/><br/><br/></tr><br/></tbody><br/></table>"
+        "Aciklama": "<br/><table><br/><tbody><br/><tr><br/><td><br/>Yapım Öncesi<br/></td><br/><td><br/>Çekim Öncesi<br/></td><br/><td><br/>Çekim Aşaması<br/></td><br/><td><br/>Çekim Sonrası<br/></td><br/><td><br/>Yapım Sonrası<br/></td><br/></tr><br/><tr><br/><td><br/><ul><br/><li><br/>Temanın bulunması<br/></li><br/><li><br/>Sinopsis, tretman<br/>ve çekim senaryosu<br/>yazımı<br/></li><br/><li><br/>Bütçe hazırlama<br/></li><br/><li><br/>Oyuncuların<br/>ve mekânların<br/>belirlenmesi<br/></li><br/><li><br/>Oyuncularla anlaşma<br/></li><br/><li><br/>Çekim izinleri<br/>alınması<br/></li><br/><li><br/>Telif Hakları<br/></li><br/></ul><br/></td><br/></tr><br/></tbody><br/></table>"
     },
     {
         "SoruID": 3861795,
-        "SoruMetni": "Film yapım aşamaları aşağıdakilerden hangisi veya hangileridir?<br/>         I. Yapım Öncesi<br/>         II. Çekim Öncesi<br/>         III. Çekim Aşaması<br/>         IV. Çekim Sonrası<br/>         V. Yapım Sonrası",
+        "SoruMetni": "Film yapım aşamaları aşağıdakilerden hangisi veya hangileridir?<br/>I. Yapım Öncesi<br/>II. Çekim Öncesi<br/>III. Çekim Aşaması<br/>IV. Çekim Sonrası<br/>V. Yapım Sonrası",
         "A": "I/II/III/IV/V",
         "B": "I/II/III/IV",
         "C": "I/II/III",
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tablo 8.1 Film Yapım Aşamaları (Aytaş, 2015)<br/>   <table> <tbody> <tr> <td>     Yapım Öncesi<br/>   </td> <td>     Çekim Öncesi<br/>   </td> <td>     Çekim Aşaması<br/>   </td> <td>     Çekim Sonrası<br/>   </td> <td>     Yapım Sonrası<br/>   </td> </tr>  </tbody> </table>"
+        "Aciklama": "Tablo 8.1 Film Yapım Aşamaları (Aytaş, 2015)<br/><table> <tbody> <tr> <td> Yapım Öncesi<br/></td> <td> Çekim Öncesi<br/></td> <td> Çekim Aşaması<br/></td> <td> Çekim Sonrası<br/></td> <td> Yapım Sonrası<br/></td> </tr> </tbody> </table>"
     },
     {
         "SoruID": 3861796,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anlatı görsel olarak bu birimlerin bir araya gelmesi ve birbiriyle kurduğu ilişkilerle belirlenir. Söz konusu bu kavramları şu şekilde açıklayabiliriz;<br/>         Sahne:<br/>         Çekim:<br/>         Sekans: Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya sekanslar çıkar."
+        "Aciklama": "Anlatı görsel olarak bu birimlerin bir araya gelmesi ve birbiriyle kurduğu ilişkilerle belirlenir. Söz konusu bu kavramları şu şekilde açıklayabiliriz;<br/>Sahne:<br/>Çekim:<br/>Sekans: Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya sekanslar çıkar."
     },
     {
         "SoruID": 3861799,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Storyboard Oluşturma<br/> Hareketli görüntü tasarımında ortaya konacak olan yapım ile ilgili senaryo oluşturulduktan sonra yapılacak çekimlere ilişkin metnin görselleştirilmesi çok daha başarılı sonuçlar doğurur. Profesyonel film çalışmalarında senaryo belirlendikten sonra hikâye tahtası ya da şeridi olarak çevirebileceğimiz ‘storyboard’ adı verilen, temel çekim kompozis- yonlarının, çerçevenin ve oyuncuların yer aldığı resimli taslaklar çizilir. Film içerisinde yer alan her sahne, kamera açısı, çerçevesi ve oyuncuların ko- numu bu resimli taslak şemasında görselleştirilir. Storyboard çizimleri, çekimler başlamadan önce potansiyel sorunların ortaya çıkmasını engelleme ve filmin önceden görselleştirilmesi noktasında yönetmen ve görüntü yönetmenine yardımcı olur. Bu görsel çizimlere dayalı senaryo, prodüksiyona dâhil olan tüm tara arı bütünleştirir"
+        "Aciklama": "Storyboard Oluşturma<br/>Hareketli görüntü tasarımında ortaya konacak olan yapım ile ilgili senaryo oluşturulduktan sonra yapılacak çekimlere ilişkin metnin görselleştirilmesi çok daha başarılı sonuçlar doğurur. Profesyonel film çalışmalarında senaryo belirlendikten sonra hikâye tahtası ya da şeridi olarak çevirebileceğimiz ‘storyboard’ adı verilen, temel çekim kompozis- yonlarının, çerçevenin ve oyuncuların yer aldığı resimli taslaklar çizilir. Film içerisinde yer alan her sahne, kamera açısı, çerçevesi ve oyuncuların ko- numu bu resimli taslak şemasında görselleştirilir. Storyboard çizimleri, çekimler başlamadan önce potansiyel sorunların ortaya çıkmasını engelleme ve filmin önceden görselleştirilmesi noktasında yönetmen ve görüntü yönetmenine yardımcı olur. Bu görsel çizimlere dayalı senaryo, prodüksiyona dâhil olan tüm tara arı bütünleştirir"
     },
     {
         "SoruID": 3861800,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kare (Frame): Video aslında birbiri ar- dına dizilmiş fotoğrafların sırayla gösterilmesi olayıdır. Kare (frame), videoda görüntüyü oluşturan her bir resme denir.<br/>"
+        "Aciklama": "Kare (Frame): Video aslında birbiri ar- dına dizilmiş fotoğrafların sırayla gösterilmesi olayıdır. Kare (frame), videoda görüntüyü oluşturan her bir resme denir."
     },
     {
         "SoruID": 3861801,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "OTT (ing. Over The Top Media), izleyicilere internet üzerinden doğrudan ulaşan Netflix, Blutv, Amazon Prime gibi çeşitli görsel içerik sağlayıcılarını tanımlamak için kullanılan çatı bir kavramdır."
+        "Aciklama": "HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ<br>OTT (ing. Over The Top Media), izleyicilere internet üzerinden doğrudan ulaşan Netflix, Blutv, Amazon Prime gibi çeşitli görsel içerik sağlayıcılarını tanımlamak için kullanılan çatı bir kavramdır."
     },
     {
         "SoruID": 3861803,
@@ -437,16 +437,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üçüncü aşama yani çekim aşamasında filmin yönetmeni çekimlere başlamadan önce tüm ekiple bir toplantı gerçekleştirerek filmin genel yapısına yönelik bilgileri<br/>ekiple paylaşır. Oyuncular ve teknik ekip çekime başlamadan önce provalarını yapar ve çekim başlar."
+        "Aciklama": "HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ<br>Üçüncü aşama yani çekim aşamasında filmin yönetmeni çekimlere başlamadan önce tüm ekiple bir toplantı gerçekleştirerek filmin genel yapısına yönelik bilgileri<br/>ekiple paylaşır. Oyuncular ve teknik ekip çekime başlamadan önce provalarını yapar ve çekim başlar."
     },
     {
         "SoruID": 3861804,
-        "SoruMetni": "I. Film öyküsünün görüntü diline çevrildiği teknik bir metne karşılık gelir.<br/> II. Bir yazı, müzik ya da görüş olarak televizyon yapımlarınca işlenir<br/>ve konunun dayandığı ana fikri ifade eder.<br/> III. Film öyküsünü özetleyen ilk yazılı taslaktır.<br/> IV. Filmde yer alan kişiler ve mekânların yanı sıra öykünün giriş, gelişme ve sonuç bölümlerini kapsar. <br/> Yukarıda film üretimi sürecine ilişkin kavramların özellikleri ve tanımları yer almaktadır. Bu özellik ve tanımların ait oldukları doğru kavramlar hangi seçenekte verilmiştir?",
-        "A": "I. Senaryo<br/> II. Tema<br/> III. Sinopsis<br/> IV. Tretman",
-        "B": "I. Tretman<br/> II. Tema<br/> III. Sinopsis<br/> IV. Senaryo",
-        "C": "I. Tretman<br/> II. Sinopsis<br/> III. Tema<br/> IV. Senaryo",
-        "D": "I. Sinopsis<br/> II. Tretman<br/> III. Tema<br/> IV. Senaryo",
-        "E": "I. Sinopsis<br/> II. Tretman<br/> III. Senaryo<br/> IV. Tema",
+        "SoruMetni": "I. Film öyküsünün görüntü diline çevrildiği teknik bir metne karşılık gelir.<br/>II. Bir yazı, müzik ya da görüş olarak televizyon yapımlarınca işlenir<br/>ve konunun dayandığı ana fikri ifade eder.<br/>III. Film öyküsünü özetleyen ilk yazılı taslaktır.<br/>IV. Filmde yer alan kişiler ve mekânların yanı sıra öykünün giriş, gelişme ve sonuç bölümlerini kapsar. <br/>Yukarıda film üretimi sürecine ilişkin kavramların özellikleri ve tanımları yer almaktadır. Bu özellik ve tanımların ait oldukları doğru kavramlar hangi seçenekte verilmiştir?",
+        "A": "I. Senaryo<br/>II. Tema<br/>III. Sinopsis<br/>IV. Tretman",
+        "B": "I. Tretman<br/>II. Tema<br/>III. Sinopsis<br/>IV. Senaryo",
+        "C": "I. Tretman<br/>II. Sinopsis<br/>III. Tema<br/>IV. Senaryo",
+        "D": "I. Sinopsis<br/>II. Tretman<br/>III. Tema<br/>IV. Senaryo",
+        "E": "I. Sinopsis<br/>II. Tretman<br/>III. Senaryo<br/>IV. Tema",
         "DogruCevap": "A",
         "DersAd": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
         "Unite": 8,
@@ -457,11 +457,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Etimolojik kökeni Fransızcaya dayanan tema kavramı bir yazı, müzik ya da görüş olarak televizyon yapımlarınca işlenir ve konunun dayandığı ana fikri ifade eder.<br/> Senaryo, film öyküsünün görüntü diline çevrildiği teknik bir metne karşılık gelir. Senaryo, ilke olarak yönetmene verilmiş ayrıntılı bir öneridir.<br/> Sinopsis: Film öyküsünü özetleyen ilk yazılı taslaktır. Sinopsis, sözlük anlamı olarak Yunancada “bir bakışta okunabilen” anlamına gelir.<br/> Tretman, sinopsisin geliştirilmiş hâlidir. Filmde yer alan kişiler ve mekânların yanı sıra öykünün giriş, gelişme ve sonuç bölümleri bulunur."
+        "Aciklama": "HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ<br>Etimolojik kökeni Fransızcaya dayanan tema kavramı bir yazı, müzik ya da görüş olarak televizyon yapımlarınca işlenir ve konunun dayandığı ana fikri ifade eder.<br/>Senaryo, film öyküsünün görüntü diline çevrildiği teknik bir metne karşılık gelir. Senaryo, ilke olarak yönetmene verilmiş ayrıntılı bir öneridir.<br/>Sinopsis: Film öyküsünü özetleyen ilk yazılı taslaktır. Sinopsis, sözlük anlamı olarak Yunancada “bir bakışta okunabilen” anlamına gelir.<br/>Tretman, sinopsisin geliştirilmiş hâlidir. Filmde yer alan kişiler ve mekânların yanı sıra öykünün giriş, gelişme ve sonuç bölümleri bulunur."
     },
     {
         "SoruID": 3861805,
-        "SoruMetni": "\"Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkar.\"<br/> Yukarıda tanımı verilen kavram aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkar.\"<br/>Yukarıda tanımı verilen kavram aşağıdakilerden hangisidir?",
         "A": "Çekim",
         "B": "Sekans",
         "C": "Sahne",
@@ -477,12 +477,32 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sekans: Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya sekanslar çıkar. Sekans çok sayıda sahneden oluşur."
+        "Aciklama": "HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ<br>Sekans: Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya sekanslar çıkar. Sekans çok sayıda sahneden oluşur."
+    },
+    {
+        "SoruID": 3861806,
+        "SoruMetni": "I. Temel çekim kompozisyonlarının, çerçevenin ve oyuncuların yer aldığı resimli taslaklardır. <br/>II. Filmin önceden görselleştirilmesi noktasında yönetmen ve görüntü yönetmenine yardımcı olur.<br/>III. Storyboard ve çekim senaryosu tamamlanmadan çekim zamanı ve takvimi planlanır. <br/>IV. Prodüksiyona dâhil olan tüm tarafları bütünleştirir.<br/>Yukarıda storyboarda ilişkin verilen bilgilerden hangileri doğrudur?",
+        "A": "I- II ve III",
+        "B": "II, III ve IV",
+        "C": "I, II ve IV",
+        "D": "I ve II",
+        "E": "III ve IV",
+        "DogruCevap": "C",
+        "DersAd": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
+        "Unite": 8,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:28.828945",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ<br>Profesyonel film çalışmalarında senaryo belirlendikten sonra<br/>hikâye tahtası ya da şeridi olarak çevirebileceğimiz ‘storyboard’ adı verilen, temel çekim kompozisyonlarının, çerçevenin ve oyuncuların yer aldığı resimli taslaklar çizilir. Film içerisinde yer alan her sahne, kamera açısı, çerçevesi ve oyuncuların konumu bu resimli taslak şemasında görselleştirilir. Storyboard çizimleri, çekimler başlamadan önce potansiyel sorunların ortaya çıkmasını engelleme ve filmin önceden görselleştirilmesi noktasında yönetmen ve görüntü yönetmenine yardımcı olur. Bu görsel çizimlere dayalı senaryo, prodüksiyona dâhil olan tüm tarafları bütünleştirir (Lelie, 2006). Yönetmenin tercihine göre yapımın kurgusu da storyboard’da yer alan sıraya göre dizilir. Yaratıcı ekibin başında yer alan yönetmen, storyboard ve<br/>çekim senaryosu tamamlandıktan sonra çekim zamanı ve takvimini planlar."
     },
     {
         "SoruID": 3861807,
         "SoruMetni": "Aşağıdakilerden hangisi kabul gören çerçeveleme birimlerinden biri <strong>değildir</strong>?",
-        "A": "Uzak çekim<br/><br/>",
+        "A": "Uzak çekim",
         "B": "Genel çekim",
         "C": "Boy çekim",
         "D": "Bel çekim",
@@ -497,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Evrensel olarak ortak bir uzlaşım olmamasına rağmen kabul gören çerçeveleme birimlerinden biri olan çekim açı ve<br/>ölçekleri en genelden en dar açıya şu şekilde sıralanmaktadır; uzak çekim, genel çekim, boy çekim, diz çekim, bel çekim, yakın çekim ve ayrıntı çekim."
+        "Aciklama": "HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ<br>Evrensel olarak ortak bir uzlaşım olmamasına rağmen kabul gören çerçeveleme birimlerinden biri olan çekim açı ve<br/>ölçekleri en genelden en dar açıya şu şekilde sıralanmaktadır; uzak çekim, genel çekim, boy çekim, diz çekim, bel çekim, yakın çekim ve ayrıntı çekim."
     },
     {
         "SoruID": 3861808,
@@ -517,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dolgu Işığı: Anahtar ışığa göre konuya diğer taraftan 45 derecelik açı yapacak şekilde yarısı kadar bir şiddette yöneltilen ikinci yapay aydınlatma kaynağıdır. Dolgu ışığı, anahtar ışığın oluşturduğu sert kontrasttı ve gölgeleri yumuşatmak amacıyla kullanılır."
+        "Aciklama": "HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ<br>Dolgu Işığı: Anahtar ışığa göre konuya diğer taraftan 45 derecelik açı yapacak şekilde yarısı kadar bir şiddette yöneltilen ikinci yapay aydınlatma kaynağıdır. Dolgu ışığı, anahtar ışığın oluşturduğu sert kontrasttı ve gölgeleri yumuşatmak amacıyla kullanılır."
     },
     {
         "SoruID": 3861809,
@@ -537,11 +557,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Rotoskop (Rotoscoping): Animasyon alanında çok daha gerçekçi bir görüntü üretebilmek amacıyla karakter hareketlerinin kare kare çizilmesiyle ortaya çıkan tekniktir. Animasyon karakterlerinin hareketini geliştirmek ve daha gerçekçi görünmelerini sağlamak için 1915 yılında animatör Max Fleischer tarafından icat edildi"
+        "Aciklama": "ANİMASYON (CANLANDIRMA) TÜRLERİ VE YARATICI TEKNİKLER<br>Rotoskop (Rotoscoping): Animasyon alanında çok daha gerçekçi bir görüntü üretebilmek amacıyla karakter hareketlerinin kare kare çizilmesiyle ortaya çıkan tekniktir. Animasyon karakterlerinin hareketini geliştirmek ve daha gerçekçi görünmelerini sağlamak için 1915 yılında animatör Max Fleischer tarafından icat edildi"
     },
     {
         "SoruID": 3861810,
-        "SoruMetni": "Hareketin dinamiğini daha iyi taklit edebilmek ve gerçekçi bir görüntü yakalamak amacıyla oluşturulan; oyuncuların performansı üzerinden alınan referansın bilgisayar üzerinde modellenen karakterle eşlenmesiyle yapılan animasyon tekniği aşağıdakilerden hangisidir?",
+        "SoruMetni": "Hareketin dinamiğini daha iyi taklit edebilmek ve gerçekçi bir görüntü yakalamak amacıyla oluşturulan; oyuncuların performansı üzerinden alınan referansın bilgisayar üzerinde modellenen karakterle eşlenmesiyle yapılan animasyon tekniği aşağıdakilerden hangisidir?",
         "A": "2 Boyutlu Animasyon",
         "B": "Sayısal Kolaj",
         "C": "Hareket Yakalama",
@@ -557,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareket Yakalama (Motion Capture): Hareketin dinamiğini daha iyi taklit edebilmek ve gerçekçi bir görüntü yakalamak amacıyla oluşturulan bu<br/>teknikte oyuncuların performansı üzerinden alınan referansın bilgisayar üzerinde modellenen karakterle eşlenmesiyle yapılır. Bu yöntem animasyon olarak hazırlanan yapımlarda karakterlerin daha gerçekçi hareket etmesini sağlamasının yanında görsel efekt olarak gerçek görüntüye dayalı filmlerde de sıklıkla kullanılır."
+        "Aciklama": "ANİMASYON (CANLANDIRMA) TÜRLERİ VE YARATICI TEKNİKLER<br>Hareket Yakalama (Motion Capture): Hareketin dinamiğini daha iyi taklit edebilmek ve gerçekçi bir görüntü yakalamak amacıyla oluşturulan bu<br/>teknikte oyuncuların performansı üzerinden alınan referansın bilgisayar üzerinde modellenen karakterle eşlenmesiyle yapılır. Bu yöntem animasyon olarak hazırlanan yapımlarda karakterlerin daha gerçekçi hareket etmesini sağlamasının yanında görsel efekt olarak gerçek görüntüye dayalı filmlerde de sıklıkla kullanılır."
     },
     {
         "SoruID": 3861811,
@@ -577,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Belgeseli tanımlamada kullanılan “non-fiction” ve “documentary” terimleri, Türkçede “kurmaca olmayan” ve “belgesel” olarak karşımıza çıkar. Belgesel türü, sinema sanatı içerisinde gerçekliğe yaklaşım ve gerçekliği ele alış biçimine karşılık gelir. En önemli ve ayırt edilebilir kısmı ise gerçekle olan ilgisidir. Grierson, belgeseli “gerçek olayların yaratıcı biçimde yorumlanması” olarak tanımlıyordu. Dünya Belgesel Birliğinin 1948 yılında yaptığı bir başka tanım ise şudur: “Ya olgusal çekimle ya da aslına sadık olarak yeniden kurulmak suretiyle yorumlanan gerçekliğin herhangi bir yönünü, akla ya da duygulara hitap edecek şekilde film üzerine kaydetme yöntemlerinin tümü, belgesel filmdir”."
+        "Aciklama": "YARATICI SANATSAL FİLM UYGULAMALARI<br>Belgeseli tanımlamada kullanılan “non-fiction” ve “documentary” terimleri, Türkçede “kurmaca olmayan” ve “belgesel” olarak karşımıza çıkar. Belgesel türü, sinema sanatı içerisinde gerçekliğe yaklaşım ve gerçekliği ele alış biçimine karşılık gelir. En önemli ve ayırt edilebilir kısmı ise gerçekle olan ilgisidir. Grierson, belgeseli “gerçek olayların yaratıcı biçimde yorumlanması” olarak tanımlıyordu. Dünya Belgesel Birliğinin 1948 yılında yaptığı bir başka tanım ise şudur: “Ya olgusal çekimle ya da aslına sadık olarak yeniden kurulmak suretiyle yorumlanan gerçekliğin herhangi bir yönünü, akla ya da duygulara hitap edecek şekilde film üzerine kaydetme yöntemlerinin tümü, belgesel filmdir”."
     },
     {
         "SoruID": 3861848,
@@ -641,7 +661,7 @@
     },
     {
         "SoruID": 3861861,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri hareketli görüntü tasarımı ya da film üretiminin gerçekleşebilmesi için gerekli olan yaratıcı ögeler arasında yer alır?<br/> I- Tema<br/> II-Senaryo<br/> III-Kurgu",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri hareketli görüntü tasarımı ya da film üretiminin gerçekleşebilmesi için gerekli olan yaratıcı ögeler arasında yer alır?<br/>I- Tema<br/>II-Senaryo<br/>III-Kurgu",
         "A": "Sadece I",
         "B": "II ve III",
         "C": "Sadece III",
@@ -657,11 +677,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareketli görüntü tasarımı ya da film üretimi <strong><em>tema, </em></strong>senaryo, kurgu, ışık, renk ve ses gibi bir­takım yaratıcı ögelerin içerik ve biçem anlamında işlevsel olarak bir araya getirilmesiyle gerçekleşti­rilir."
+        "Aciklama": "Tema ve senaryo<br>Hareketli görüntü tasarımı ya da film üretimi <strong><em>tema, </em></strong>senaryo, kurgu, ışık, renk ve ses gibi bir­takım yaratıcı ögelerin içerik ve biçem anlamında işlevsel olarak bir araya getirilmesiyle gerçekleşti­rilir."
     },
     {
         "SoruID": 3861862,
-        "SoruMetni": "“Bir yazı, müzik ya da gö­rüş olarak televizyon yapımlarınca işlenir olan ve konunun dayandığı ana fikri ifade eden kavrama……….denir.”<br/> Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "“Bir yazı, müzik ya da gö­rüş olarak televizyon yapımlarınca işlenir olan ve konunun dayandığı ana fikri ifade eden kavrama……….denir.”<br/>Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "Fragman",
         "B": "Medya",
         "C": "Tema",
@@ -677,11 +697,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Etimolojik kökeni Fransızcaya dayanan <strong>tema </strong>kavramı bir yazı, müzik ya da gö­rüş olarak televizyon yapımlarınca işlenir ve konunun dayandığı ana fikri ifade eder."
+        "Aciklama": "Film Yapım Aşamaları<br>Etimolojik kökeni Fransızcaya dayanan <strong>tema </strong>kavramı bir yazı, müzik ya da gö­rüş olarak televizyon yapımlarınca işlenir ve konunun dayandığı ana fikri ifade eder."
     },
     {
         "SoruID": 3861863,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri film yapım aşamalarındaki <strong><u>çekim öncesi</u></strong> faaliyetler arasında yer alır yer alır?<br/> I- Malzemelerin tespiti<br/> II-Prova yapılması<br/> III-Film ekibinin kurulması",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri film yapım aşamalarındaki <strong><u>çekim öncesi</u></strong> faaliyetler arasında yer alır yer alır?<br/>I- Malzemelerin tespiti<br/>II-Prova yapılması<br/>III-Film ekibinin kurulması",
         "A": "I ve III",
         "B": "Sadece II",
         "C": "II ve III",
@@ -697,11 +717,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Film yapımında çekim öncesi faaliyetler şunlardır:<br/> Film ekibinin kurulması<br/> Malzemelerin tespiti<br/> Çekim formatını belirleme<br/> Çekim takvimi oluşturma<br/> Yapım için destek ve sponsor tespiti dir. Provalar çekim sırasındaki faaliyetlerdendir."
+        "Aciklama": "Film yapım aşamaları<br>Film yapımında çekim öncesi faaliyetler şunlardır:<br/>Film ekibinin kurulması<br/>Malzemelerin tespiti<br/>Çekim formatını belirleme<br/>Çekim takvimi oluşturma<br/>Yapım için destek ve sponsor tespiti dir. Provalar çekim sırasındaki faaliyetlerdendir."
     },
     {
         "SoruID": 3861864,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri film yapım aşamalarındaki <strong><u>çekim sonrası</u></strong> faaliyetler arasında yer alır yer alır?<br/> I- Kurgu<br/> II-Prova yapılması<br/> III-Görsel efektler",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri film yapım aşamalarındaki <strong><u>çekim sonrası</u></strong> faaliyetler arasında yer alır yer alır?<br/>I- Kurgu<br/>II-Prova yapılması<br/>III-Görsel efektler",
         "A": "Sadece II",
         "B": "I ve III",
         "C": "II ve III",
@@ -717,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çekim sonrası faaliyetleri şunlardır:<br/> <table> <tbody> <tr> <td> • Kurgu formatı ve tekniğinin belirlenmesi<br/> • Kurgu<br/> • İzleme ve değerlendirme<br/> • Seslendirme<br/> • Renk düzeltme<br/> • Görsel efektler<br/> • Fragman<br/> • Tanıtım Filmi’dir. Prova çekim sırasındaki faaliyetlerdendir.<br/> </td> </tr> </tbody> </table>"
+        "Aciklama": "Film yapım aşamaları<br>Çekim sonrası faaliyetleri şunlardır:<br/><table> <tbody> <tr> <td> • Kurgu formatı ve tekniğinin belirlenmesi<br/>• Kurgu<br/>• İzleme ve değerlendirme<br/>• Seslendirme<br/>• Renk düzeltme<br/>• Görsel efektler<br/>• Fragman<br/>• Tanıtım Filmi’dir. Prova çekim sırasındaki faaliyetlerdendir.<br/></td> </tr> </tbody> </table>"
     },
     {
         "SoruID": 3861865,
@@ -737,11 +757,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Film öyküsünü özetleyen ilk yazılı taslağa Sinopsis adı verilir, sözlük anlamı olarak Yunan­cada “bir bakışta okunabilen” anlamına gelir."
+        "Aciklama": "Tema ve senaryo<br>Film öyküsünü özetleyen ilk yazılı taslağa Sinopsis adı verilir, sözlük anlamı olarak Yunan­cada “bir bakışta okunabilen” anlamına gelir."
     },
     {
         "SoruID": 3861866,
-        "SoruMetni": "Görüntü üretiminde ışık kullanımında yapımın türü ve anlatısıyla bağlantılı olarak istenilen atmosferi ve duygu durumlarını yansıtıl­masını içeren aydınlatma türüne…………..denir.<br/> Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "Görüntü üretiminde ışık kullanımında yapımın türü ve anlatısıyla bağlantılı olarak istenilen atmosferi ve duygu durumlarını yansıtıl­masını içeren aydınlatma türüne…………..denir.<br/>Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "Teknik aydınlatma",
         "B": "Arka ışık",
         "C": "Dolgu ışığı",
@@ -757,11 +777,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Teknik aydınlatma; sahne içerisinde yer alan ögelerin karanlık ve aydın­lık dengesi açısından sağlıklı ve dengeli bir biçimde ortaya çıkmasına ilişkin yapılan ışık düzenlemeleri içerir. Sahnenin teknik olarak aydınlatılması dı­şında, yapımın türü ve anlatısıyla bağlantılı olarak istenilen atmosferi ve duygu durumlarını yansıtıl­masını içeren dramatik aydınlatma söz konusudur."
+        "Aciklama": "Işık<br>Teknik aydınlatma; sahne içerisinde yer alan ögelerin karanlık ve aydın­lık dengesi açısından sağlıklı ve dengeli bir biçimde ortaya çıkmasına ilişkin yapılan ışık düzenlemeleri içerir. Sahnenin teknik olarak aydınlatılması dı­şında, yapımın türü ve anlatısıyla bağlantılı olarak istenilen atmosferi ve duygu durumlarını yansıtıl­masını içeren dramatik aydınlatma söz konusudur."
     },
     {
         "SoruID": 3861867,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri kısa film türleri arasında yer alır?<br/> I-Deneysel film<br/> II-Klip<br/> III-Reklam filmi",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri kısa film türleri arasında yer alır?<br/>I-Deneysel film<br/>II-Klip<br/>III-Reklam filmi",
         "A": "Sadece I",
         "B": "II ve III",
         "C": "I, II ve III",
@@ -781,7 +801,7 @@
     },
     {
         "SoruID": 3861868,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri deneysel/imgesel filmleri temel özellikleri arasında sayılabilir?<br/> I-Kamera ve kurgunun sınırlarını zorlamak.<br/> II-Sinemanın alışılagelmiş anlatı kalıplarını ve sınırlarını genişletmek.<br/> III-Gerçeği ve bu gerçeğe tanıklık eden insanları referans almak.",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri deneysel/imgesel filmleri temel özellikleri arasında sayılabilir?<br/>I-Kamera ve kurgunun sınırlarını zorlamak.<br/>II-Sinemanın alışılagelmiş anlatı kalıplarını ve sınırlarını genişletmek.<br/>III-Gerçeği ve bu gerçeğe tanıklık eden insanları referans almak.",
         "A": "II ve III",
         "B": "I ve II",
         "C": "I ve III",
@@ -797,11 +817,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ticari ya da geleneksel sinemadan farklı olarak duygu, düşünce, öykü ve tepkilerini alışılagelmiş ka­lıplar dışında izleyicilerine sunmak isteyen sanatçılar, sinemanın sınırlarını genişletmek adına deneysel bir tavırla filmler meydana getirdiler. Deneysel kısa filmler yapmak, kamera ve kurgunun sınırlarını zorlamak, onlarla neler yapılabileceğini keşfetmek olarak da yorumlanabilir. Deneysel sinema türünde, sinemanın alışılagelmiş anlatı kalıplarını ve sınırlarını genişletmeye yönelik üst üste pozlama, filmi geri sarma, filmin hızıyla oynama gibi birçok yöntemin kullanıldığı görülür."
+        "Aciklama": "Deneysel / İmgesel Kısa Filmler<br>Ticari ya da geleneksel sinemadan farklı olarak duygu, düşünce, öykü ve tepkilerini alışılagelmiş ka­lıplar dışında izleyicilerine sunmak isteyen sanatçılar, sinemanın sınırlarını genişletmek adına deneysel bir tavırla filmler meydana getirdiler. Deneysel kısa filmler yapmak, kamera ve kurgunun sınırlarını zorlamak, onlarla neler yapılabileceğini keşfetmek olarak da yorumlanabilir. Deneysel sinema türünde, sinemanın alışılagelmiş anlatı kalıplarını ve sınırlarını genişletmeye yönelik üst üste pozlama, filmi geri sarma, filmin hızıyla oynama gibi birçok yöntemin kullanıldığı görülür."
     },
     {
         "SoruID": 3861869,
-        "SoruMetni": "Hareketli görüntü üretiminde ışık kullanımını en temelde ………. kategoriye ayırabiliriz. Bunlar tek­nik ve dramatik aydınlatmadır.<br/> Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "Hareketli görüntü üretiminde ışık kullanımını en temelde ………. kategoriye ayırabiliriz. Bunlar tek­nik ve dramatik aydınlatmadır.<br/>Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "Beş",
         "B": "Üç",
         "C": "İki",
@@ -817,11 +837,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareketli görüntü üretiminde ışık kullanımını en temelde iki kategoriye ayırabiliriz. Bunlar tek­nik ve dramatik aydınlatmadır."
+        "Aciklama": "Işık<br>Hareketli görüntü üretiminde ışık kullanımını en temelde iki kategoriye ayırabiliriz. Bunlar tek­nik ve dramatik aydınlatmadır."
     },
     {
         "SoruID": 3861870,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri bilgisayar animasyonu türüne ait tekniklerdendir<strong>?</strong><br/><br/>I- Şekil Değiştirme / Morphing<br/><br/>II-Piksilasyon (Pixilation)<br/><br/>III-Hareket Yakalama (Motion Capture)",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri bilgisayar animasyonu türüne ait tekniklerdendir<strong>?</strong><br/>I- Şekil Değiştirme / Morphing<br/>II-Piksilasyon (Pixilation)<br/>III-Hareket Yakalama (Motion Capture)",
         "A": "I ve III",
         "B": "Sadece II",
         "C": "Sadece III",

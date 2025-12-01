@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3641359,
-        "SoruMetni": "I. Fotoğraf 1820'lerde yaygınlaşmıştır. <br/> II. Radyo 1920'lerde yaygınlaşmıştır. <br/> III. Televizyon 1960'larda yaygınlaşmıştır. <br/> Yukarıdaki bilgilere göre aşağıdaki seçeneklerin hangisi uygundur?",
+        "SoruMetni": "I. Fotoğraf 1820'lerde yaygınlaşmıştır. <br/>II. Radyo 1920'lerde yaygınlaşmıştır. <br/>III. Televizyon 1960'larda yaygınlaşmıştır. <br/>Yukarıdaki bilgilere göre aşağıdaki seçeneklerin hangisi uygundur?",
         "A": "I. Yanlış",
         "B": "II. Yanlış",
         "C": "III. Yanlış",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3641366,
-        "SoruMetni": "Aşağıdakilerden hangisi Wabi-sabi estetiğinin özellikleri arasında <strong>değildir? </strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi Wabi-sabi estetiğinin özellikleri arasında <strong>değildir? </strong>",
         "A": "Yapaylığın taktiri",
         "B": "Basitlik",
         "C": "Ekonomi",
@@ -417,11 +417,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Martin Minsky, akıllı bilgisayar HAL9000'in yer aldığı 2001: A Space Odyssey filmin danışmanıdır."
+        "Aciklama": "<br/>Martin Minsky ise bilgisayarı insan davranışını yöneten kurallara göre önceden programlama yani yukarıdan aşağıya yaklaşımı ile programlamayı o dönem yaygın görüş haline getirmiştir. Minsky, akıllı bilgisayar HAL 9000’in yer aldığı, Stanley Kubrick’ın meşhur filmi 2001: A Space Odyssey filminin de danışmanıdır.<br>Martin Minsky, akıllı bilgisayar HAL9000'in yer aldığı 2001: A Space Odyssey filmin danışmanıdır."
     },
     {
         "SoruID": 3641738,
-        "SoruMetni": "Aşağıdaki türlerden hangisi Elektronik edebiyatta <strong><span style=\"text-decoration: underline;\">yer almaz?</span></strong>",
+        "SoruMetni": "Aşağıdaki türlerden hangisi Elektronik edebiyatta <strong><span style=\"text-decoration: underline;\">yer almaz?</span></strong>",
         "A": "Hiper metin şiir",
         "B": "Etkileşimli kurgu",
         "C": "Kinetik şiir",
@@ -437,11 +437,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Elektronik kompozisyon Elektronik edebiyatta yer almaz."
+        "Aciklama": "<br/>Elektronik edebiyat Hiper metin şiir, hiper metin kurgu, etkileşimli kurgu, kinetik şiir, üretken metin, etkileşimli tiyatro gibi pek çok türü barındırır.<br>Elektronik kompozisyon Elektronik edebiyatta yer almaz."
     },
     {
         "SoruID": 3641739,
-        "SoruMetni": "Aşağıdakilerden hangisi Theo Lutz'un 1959 yılında 'Stochastische Texte' stokastik metinler adını verdiği bilgisayarda yaratılmış şiir ile ilgili bilgiler <strong><span style=\"text-decoration: underline;\">yanlıştır</span></strong><strong><span style=\"text-decoration: underline;\">?</span></strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi Theo Lutz'un 1959 yılında 'Stochastische Texte' stokastik metinler adını verdiği bilgisayarda yaratılmış şiir ile ilgili bilgiler <strong><span style=\"text-decoration: underline;\">yanlıştır</span></strong><strong><span style=\"text-decoration: underline;\">?</span></strong>",
         "A": "İlk elektronik edebiyat eseridir",
         "B": "Fortran programlama dili ile yazılmıştır",
         "C": "Permütasyon tekniği ile oluşturulmuş 'rastlantısal' bir metindir",
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "C seçeneğindeki \"Permütasyon tekniği ile oluşturulmuş 'rastlantısal' bir metindir\" bilgisi Theo Lutz'un 1959 yılında 'Stochastische Texte' stokastik metinler adını verdiği bilgisayarda yaratılmış şiir ile ilgili yanlıştır."
+        "Aciklama": "<br/>Elektronik Edebiyat eseri olarak sınıflandırılabilen ilk metnin (Lutz, 1959, s. 3-9) yazarı olarak kabul edilen Theo Lutz, ‘rastlantısal’ metinlerinden sonra edebi değeri olan birkaç eser daha üretmiştir (Funkhouser, 2012, s. 263). Theo Lutz’ın 1959 yı- lında ‘Stochastische Texte’ stokastik metinler adını verdiği bilgisayarda yaratılmış şiiri elektronik edebiyatın başlangıcı sayılır. Fortran programlama dili ile yazılan, 70 satırlık bilgisayar yapımı bir şiirdir. Stuttgart Teknik Üniversitesinde öğrenim gören Theo Lutz, bilgisayarların sadece metinlerin istatistiksel analiz için değil, aynı zamanda sentez için de kullanılabileceğini düşünmüştür. O dönemde herhangi bir dilin kuralları algoritmalar kullanılarak tanımlanabilmektedir. Lutz’un, üniversiteden bir arkadaşı olan matematikçi Rul Gunzenhäuser (1933–2018) gerekli algoritmaları matematiksel olarak modelleyerek Lutz’un proje<br>C seçeneğindeki \"Permütasyon tekniği ile oluşturulmuş 'rastlantısal' bir metindir\" bilgisi Theo Lutz'un 1959 yılında 'Stochastische Texte' stokastik metinler adını verdiği bilgisayarda yaratılmış şiir ile ilgili yanlıştır."
     },
     {
         "SoruID": 3641740,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgisayarlı sanatın kesinlikle insan sanatının yerini alacağını veya onu geçeceğini ve sanat eğitimi için gerekli olan \"fiziksel eğitim ve kültürel birikimi\" azaltacağını ve insanın sanatsal pratiğini neredeyse yok edeceğini söyleyen Nicolas Schöffer'dir."
+        "Aciklama": "<br/>Schöffer, bilgisayarlı sanatın kesinlikle insan sanatının yerini alacağını veya onu geçeceğini ve sanat eğitimi için gerekli olan “fiziksel eğitim ve kültürel birikimi” azaltacağını ve insanın sanatsal pratiğini neredeyse yok edeceğini söylemiştir.<br>Bilgisayarlı sanatın kesinlikle insan sanatının yerini alacağını veya onu geçeceğini ve sanat eğitimi için gerekli olan \"fiziksel eğitim ve kültürel birikimi\" azaltacağını ve insanın sanatsal pratiğini neredeyse yok edeceğini söyleyen Nicolas Schöffer'dir."
     },
     {
         "SoruID": 3641742,
@@ -521,12 +521,12 @@
     },
     {
         "SoruID": 3641743,
-        "SoruMetni": "Aşağıdakilerden hangisi glitch sanatına hizmet <strong><span style=\"text-decoration: underline;\">etmez?</span></strong>",
-        "A": "Veri Manipülasyonu <em>(Data Manuplation)</em>",
-        "B": "Yanlış Hizalama <em>(Misalignment)</em>",
-        "C": "Gecikme <em>(Delay)</em>",
-        "D": "Yanlış Kayıt <em>(Misregistration)</em>",
-        "E": "Bozulma <em>(Distortion)</em>",
+        "SoruMetni": "Aşağıdakilerden hangisi glitch sanatına hizmet <strong><span style=\"text-decoration: underline;\">etmez?</span></strong>",
+        "A": "Veri Manipülasyonu <em>(Data Manuplation)</em>",
+        "B": "Yanlış Hizalama <em>(Misalignment)</em>",
+        "C": "Gecikme <em>(Delay)</em>",
+        "D": "Yanlış Kayıt <em>(Misregistration)</em>",
+        "E": "Bozulma <em>(Distortion)</em>",
         "DogruCevap": "C",
         "DersAd": "Yeni Medya Sanatı",
         "Unite": 5,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gecikme <em>(Delay) </em>glitch sanatına hizmet etmez."
+        "Aciklama": "Gecikme <em>(Delay) </em>glitch sanatına hizmet etmez."
     },
     {
         "SoruID": 3641744,
@@ -561,7 +561,7 @@
     },
     {
         "SoruID": 3641745,
-        "SoruMetni": "İnternet tabanlı bir sanal dünyayı anlatan, Neal Stephenson'ın 1992 tarihinde yayınlanan bilimkurgu romanı <em>Snow Crash</em>'ten ilham alınarak yaratılan oyun aşağıdakilerden hangisidir?",
+        "SoruMetni": "İnternet tabanlı bir sanal dünyayı anlatan, Neal Stephenson'ın 1992 tarihinde yayınlanan bilimkurgu romanı <em>Snow Crash</em>'ten ilham alınarak yaratılan oyun aşağıdakilerden hangisidir?",
         "A": "Sims",
         "B": "Minecraft",
         "C": "Second Life",
@@ -577,11 +577,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İnternet tabanlı bir sanal dünyayı anlatan, Neal Stephenson'ın 1992 tarihinde yayınlanan bilimkurgu romanı <em>Snow Crash</em>'ten ilham alınarak yaratılan oyun Second Life isimli oyundur."
+        "Aciklama": "<br/>Kendi niş kitlesinin dışında, sanal sosyal dünyalar başlığı altında akademik olarak da incelenmiş olan Second Life adlı oyun bunun ilk örneklerinden biridir. İnternet tabanlı bu sanal dünya, bölümün ilerleyen kısımlarında adından ve çalışmalarından tekrar söz edeceğimiz Neal Stephenson’ın 1992 tarihin yayınlanan bilimkurgu romanı Snow Crash’ten ilham alınarak yaratılmıştır.<br>İnternet tabanlı bir sanal dünyayı anlatan, Neal Stephenson'ın 1992 tarihinde yayınlanan bilimkurgu romanı <em>Snow Crash</em>'ten ilham alınarak yaratılan oyun Second Life isimli oyundur."
     },
     {
         "SoruID": 3641746,
-        "SoruMetni": "Aşağıdakilerden hangisi Second Life adlı bilgisayar oyununda yer alan ve \"sims\" olarak adlandırılan bir sanat galerisi simülasyonu <strong><span style=\"text-decoration: underline;\">değildir?</span></strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi Second Life adlı bilgisayar oyununda yer alan ve \"sims\" olarak adlandırılan bir sanat galerisi simülasyonu <strong><span style=\"text-decoration: underline;\">değildir?</span></strong>",
         "A": "Sisse Singhs",
         "B": "Windlight",
         "C": "Horus",
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Taurus, Second Life adlı bilgisayar oyununda yer alan ve \"sims\" olarak adlandırılan bir sanat galerisi simülasyonu değildir."
+        "Aciklama": "<br/>Second Life’da “sims” olarak adlandırılan çok sayıda sanat galerisi simülasyonu vardır. Popüler galeriler arasında Sisse Singhs Sanat Galerisi, Windlight Sanat Galerisi ve Horus Sanat Galerisi bulunmaktadır. Bunların arasında en dikkate değer olanı, dünyanın ilk sanal çevrimiçi kentsel sanatlar bölgesi olan Cetus Gallery District sanat galerisidir. Cetus, fiziksel dünyada yer alan örneklerinde olduğu gibi içinde sanat galerileri, ofisler, yaşam alanları, yiyecek içecek dükkanları bulunan bir sanat kompleksinin simülasyonudur. Cetus’un içinde yer alan mekanlardaki kiracılar farklı sanatsal aktiviteler gerçekleştirirler.<br>Taurus, Second Life adlı bilgisayar oyununda yer alan ve \"sims\" olarak adlandırılan bir sanat galerisi simülasyonu değildir."
     },
     {
         "SoruID": 3641747,
@@ -661,7 +661,7 @@
     },
     {
         "SoruID": 3641858,
-        "SoruMetni": "“Son zamanlarda, bilgiyi muazzam bir hız ve beceriyle işleyebilen garip dev makineler hakkında çok sayıda haber var... Bu makineler, adeta et ve sinirler yerine donanım ve telden yapılmış bir beyne benziyorlar... Bir makine bilgileri işleyebilir; hesaplayabilir, sonuçlandırabilir ve seçebilir; bilgilerle makul işlemleri gerçekleştirebilir. Dolayısıyla bir makine düşünebilir.”<br/> Yukarıdaki cümlenin temel savı olan makine öğrenmesi fikrini aşağıdaki uzmanlardan  hangisi söylemiştir?",
+        "SoruMetni": "“Son zamanlarda, bilgiyi muazzam bir hız ve beceriyle işleyebilen garip dev makineler hakkında çok sayıda haber var... Bu makineler, adeta et ve sinirler yerine donanım ve telden yapılmış bir beyne benziyorlar... Bir makine bilgileri işleyebilir; hesaplayabilir, sonuçlandırabilir ve seçebilir; bilgilerle makul işlemleri gerçekleştirebilir. Dolayısıyla bir makine düşünebilir.”<br/>Yukarıdaki cümlenin temel savı olan makine öğrenmesi fikrini aşağıdaki uzmanlardan hangisi söylemiştir?",
         "A": "Edmund Berkeley",
         "B": "Harold Cohen",
         "C": "John McCarthy",
@@ -701,7 +701,7 @@
     },
     {
         "SoruID": 3641860,
-        "SoruMetni": "Paris’teki sergisinde ziyaretçilerin farklı duygu durumlarını ve  Guardian gazetesinde yayınlanan 10 makaleden elde edilen ve duygusal olan anahtar kelimelere verdikleri tepkileri resmeden bilgisayar programının ismi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Paris’teki sergisinde ziyaretçilerin farklı duygu durumlarını ve Guardian gazetesinde yayınlanan 10 makaleden elde edilen ve duygusal olan anahtar kelimelere verdikleri tepkileri resmeden bilgisayar programının ismi aşağıdakilerden hangisidir?",
         "A": "DALL-E",
         "B": "AARON",
         "C": "The Painting Fool",
@@ -721,7 +721,7 @@
     },
     {
         "SoruID": 3641861,
-        "SoruMetni": "“……………………. hiper metin şiir, hipermetin kurgu, etkileşimli kurgu, kinetik şiir, üretken metin, etkileşimli tiyatro gibi pek çok türü barındırır.”<br/> Yukarıdaki ifadede boş bırakılan yer, aşağıdaki kavramlardan hangisi ile doğru şekilde tamamlanır?",
+        "SoruMetni": "“……………………. hiper metin şiir, hipermetin kurgu, etkileşimli kurgu, kinetik şiir, üretken metin, etkileşimli tiyatro gibi pek çok türü barındırır.”<br/>Yukarıdaki ifadede boş bırakılan yer, aşağıdaki kavramlardan hangisi ile doğru şekilde tamamlanır?",
         "A": "Protomodern edebiyat",
         "B": "Kuantum edebiyat",
         "C": "Distopik edebiyat",

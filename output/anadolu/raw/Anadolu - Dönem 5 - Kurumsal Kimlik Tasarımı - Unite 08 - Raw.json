@@ -1,19 +1,19 @@
 [
     {
-        "QuestionId": 3862141,
+        "QuestionId": 3862142,
         "UniteNo": 8,
-        "PageNumber": 219,
-        "AnswerExplanation": "<p style=\"text-align: justify;\">Kurumsal kimlik tasarımı, sekiz temel aşamadan oluşur: İlk aşama analiz aşamasıdır. Bu aşamada, rakip ve piyasa analizleri ile hedef kitlenin ve marka oluşturma sürecinin analizleri yapılır. Bu analizler sonucunda, ilerleyen aşamalar için bir yol haritası belirlenir. Analiz aşamasının tamamlanmasının ardından marka tasarım aşamasına geçilir. Bu aşamada, marka isminin belirlenmesi, uygun renk/renklerin ve tipografinin belirlenmesi yer alır. Bu aşama tamamlandığında, marka logosunun tasarımına geçilir. Üçüncü aşama, görsel bileşenlerin tasarımı aşamasıdır ve önceki iki aşama bu aşamanın ilham kaynağını oluşturur. En uygun görsel bileşenler seçilir ve tasarım süreçleri tamamlandığında kurumsal kimlik tasarımının uygulama sürecine geçilir. Bu aşamada, oluşturulan markanın tutarlılığını sağlamak için logo kullanımı, renk paleti, yazı tipleri, görsel bileşenler gibi unsurlar detaylandırılır ve kitapçık hâline getirilir. Sonraki aşama, denetleme aşamasıdır ve tasarlanan materyallerin prova baskısı alınarak veya tasarımlar dijital ortama yüklenerek denetlenir. Bu sayede eksik veya yanlış tasarımlar tespit edilir ve düzeltilir. Kurumsal kimlik tasarımı müşteriye sunmaya hazır hâle geldiğinde geri bildirim ve revizyon aşamasına geçilir. Gerekirse düzeltmeler yapılır ve kurumsal kimlik tasarımının onay ve dağıtım aşamasına geçilir. Bu süreç, sürekli takip ve gözden geçirme aşaması ile tamamlanır.</p>",
+        "PageNumber": 220,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Marka ismi belirleme süreci, markanızın kimliği ve algısı oluşturulurken büyük bir rol oynar. Markanızı temsil eden temel değerleri, misyonu ve vizyonu anlamak, isim seçiminin temelini oluşturur. Markanızın neyi temsil ettiğini ve hedeflerini netleştirmek, isim seçiminizi etkileyecektir. Seçeceğiniz isim, markanızın temel mesajını yansıtmalı ve olumlu izlenim bırakmalıdır.</p>",
         "Title": "",
-        "Text": "<p>Aşağıdakilerden hangisi kurumsal kimlik tasarımı aşamalarından biri değildir?</p>",
-        "A": "<p>analiz</p>",
-        "B": "<p>marka tasarım</p>",
-        "C": "<p>görsel bileşenlerin tasarımı</p>",
-        "D": "<p>marka algısı</p>",
-        "E": "<p> revizyon</p>",
-        "CorrectAnswer": "D",
+        "Text": "<p>Aşağıdakilerden hangisi isim seçerken markanın dikkat etmesi gereken unsurlardan biri değildir?</p>",
+        "A": "<p>Markanın misyonunu ve vizyonunu anlamak</p>",
+        "B": "<p>Markanın neyi temsil ettiğini netleştirmek</p>",
+        "C": "<p>Markanın hedefleri konusunda ikilemde kalmak</p>",
+        "D": "<p>Olumlu izlenim bırakan bir isim seçmek</p>",
+        "E": "<p>Markanın temel mesajını yansıtmak</p>",
+        "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 1
+        "QuestionNumber": 2
     },
     {
         "QuestionId": 3862144,
@@ -28,22 +28,6 @@
         "D": "<p>Soğuk renkler daha uyarıcı etkilere sahiptir.</p>",
         "E": "<p>Yüksek fiyatlı ürünler satan bir mağaza için soğuk renklerin seçilmesi müşterilerde oluşabilecek rahatsızlığı önlemek için doğru bir tercihtir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
-    },
-    {
-        "QuestionId": 3862145,
-        "UniteNo": 8,
-        "PageNumber": 222,
-        "AnswerExplanation": "<p>Kırmızı: Tutkunun rengi olan kırmızı, dikkat arttırıcı, ilgi çekici, hareketlilik sağlayıcı, beyni çalıştırıcı, heyecan verici, sağlık, canlılık, aşk, zafer hissi, enerji, cömertlik, fedakarlık, ihsan, acıma, cesaret, güç, hayat dolu, ısıtıcı etkiler taşır. Abartılması halinde sertlik ve şiddet, tehlike, rahatsız edicilik, zulüm, günah ifade edebilir.</p>",
-        "Title": "",
-        "Text": "<p>Aşağıdakilerin hangisi renklerle ilgili doğru bir ifadedir?</p>",
-        "A": "<p>mavi: hareketlilik sağlayıcı</p>",
-        "B": "<p>kırmızı: dikkat çekici</p>",
-        "C": "<p>yeşil: heyecan verici</p>",
-        "D": "<p>beyaz: canlılık</p>",
-        "E": "<p>pembe: şiddet</p>",
-        "CorrectAnswer": "B",
         "UserAnswer": null,
         "QuestionNumber": 3
     },
@@ -64,22 +48,6 @@
         "QuestionNumber": 4
     },
     {
-        "QuestionId": 3862147,
-        "UniteNo": 8,
-        "PageNumber": 223,
-        "AnswerExplanation": "<p style=\"text-align: justify;\">Tipografi, yazıyı forma sokma tekniği olarak tanımlanabilir. Tipografi, metinsel düzenlemenin tümüdür; harf yüksekliği, yazı karakteri, kalınlığı, stili, satır aralığı, uzunluğu, paragraf hizalama biçimi, paragraf arası boşluk, sütun genişliği, renk vb. gibi.</p>",
-        "Title": "",
-        "Text": "<p>Aşağıdakilerden hangisi tipografinin özelliklerinden biri değildir?</p>",
-        "A": "<p>harf yüksekliği</p>",
-        "B": "<p>yazı karakteri</p>",
-        "C": "<p>metni klasöre kaydetme</p>",
-        "D": "<p>paragraf arası boşluk</p>",
-        "E": "<p>sütun genişliği</p>",
-        "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
-    },
-    {
         "QuestionId": 3862149,
         "UniteNo": 8,
         "PageNumber": 225,
@@ -93,7 +61,7 @@
         "E": "<p>markanın vizyonunu önemsemek</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 7
+        "QuestionNumber": 6
     },
     {
         "QuestionId": 3862150,
@@ -109,23 +77,7 @@
         "E": "<p>sade ve anlaşılır olma</p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 8
-    },
-    {
-        "QuestionId": 3862161,
-        "UniteNo": 8,
-        "PageNumber": 219,
-        "AnswerExplanation": "<p>Tasarıma başlamadan önce kurumsal kimliği hazırlanacak organizasyonun aşamaları;</p> <p>1. Piyasa ve Rakip Analizi</p> <p>2. Hedef Kitle Analizi</p> <p>3. Marka Oluşturma Süreç Analizi ayrıntılı şekilde yapılmalıdır. </p>",
-        "Title": "<p>Kurumsal Kimlik Tasarımı Uygulama Süreci</p>",
-        "Text": "<p>Aşağıdakilerden hangisi kurumsal kimliği hazırlanacak organizasyonun aşamaları arasında yer alır?</p>",
-        "A": "<p>Renk Seçimi</p>",
-        "B": "<p>Tipografi Seçimi</p>",
-        "C": "<p>Logonun Ortaya Çıkışı</p>",
-        "D": "<p>Değişken Görsel Bileşenlerin Tasarımı</p>",
-        "E": "<p>Marka Oluşturma Süreç Analizi</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "QuestionNumber": 7
     },
     {
         "QuestionId": 3862162,
@@ -141,7 +93,7 @@
         "E": "<p>Tipografi, metinsel düzenlemenin tümüdür.</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 9
+        "QuestionNumber": 7
     },
     {
         "QuestionId": 3862163,
@@ -157,7 +109,7 @@
         "E": "<p>Promosyon Ürünleri</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 10
+        "QuestionNumber": 7
     },
     {
         "QuestionId": 3862184,
@@ -173,7 +125,7 @@
         "E": "<p>Font Kullanımı</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 11
+        "QuestionNumber": 8
     },
     {
         "QuestionId": 3862190,
@@ -189,23 +141,23 @@
         "E": "<p>Karmaşık detaylar, kaşenin büyük boyutlarda bulanık bir şekilde görünmesini engelleyebilir.</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 10
     },
     {
-        "QuestionId": 3862191,
+        "QuestionId": 3862192,
         "UniteNo": 8,
-        "PageNumber": 240,
-        "AnswerExplanation": "<p>Kurumsal Kimlik Tasarımını Oluşturan Değişken Görsel Bileşenler</p>",
-        "Title": "<p>Kurumsal Kimlik Tasarımını Oluşturan Değişken Görsel Bileşenler</p>",
-        "Text": "<p>Aşağıdakilerden hangisi kurumsal kimlik tasarımını oluşturan değişken görsel bileşenlerden değildir?</p>",
+        "PageNumber": 244,
+        "AnswerExplanation": "<p>Web sitelerinde, çevrimiçi reklamcılıkta ve dijital pazarlamada kullanılan görsel bir reklam türü olan web banner, genellikle web sayfalarının üst kısmında veya sağ/sol sütunlarda belirli ölçülerde yer alır ve kullanıcıların dikkatini çekmeyi, bir ürünü veya hizmeti tanıtmayı, bir etkinliği duyurmayı veya belirli bir eylemi gerçekleştirmelerini teşvik etmeyi amaçlar</p>",
+        "Title": "<p>Web Banner </p>",
+        "Text": "<p>Web sitelerinde, çevrimiçi reklamcılıkta ve dijital pazarlamada kullanılan görsel bir reklam türü olan kurumsal kimliğinin değişken görsel bileşeni aşağıdakilerden hangisidir?</p>",
         "A": "<p>Araç Giydirme</p>",
-        "B": "<p>Kartlar</p>",
-        "C": "<p>Yaka İğnesi ve Kol Düğmesi</p>",
-        "D": "<p>Promosyon Ürünleri</p>",
-        "E": "<p>Renklerin Farklı Renk Evrenlerindeki Karşılıkları </p>",
+        "B": "<p>Kartlar </p>",
+        "C": "<p>Promosyon Ürünleri</p>",
+        "D": "<p>Bagaj Etiketleri</p>",
+        "E": "<p>Web Banner </p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 13
+        "QuestionNumber": 12
     },
     {
         "QuestionId": 3862193,
@@ -221,23 +173,7 @@
         "E": "<p>Hırka</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 15
-    },
-    {
-        "QuestionId": 3862194,
-        "UniteNo": 8,
-        "PageNumber": 219,
-        "AnswerExplanation": "Doğru yanıt A şıkkıdır. Grup üyeliği toplumsal kimliktir. Oysa Kurumsal kimlik, bir markanın, kurumun veya<br />kuruluşun nasıl görünmesini istediğini belirleyen ve aynı zamanda oluşturulan bu imajın da hedef kitlenin zihnine kazınmasını sağlayan bir araçtır. Markanın renklerinden logosuna, çalışan kartvizitlerinden antetli kağıdına, Web sitesi arayüzünden<br />sosyal medya platformlarındaki materyallere kadar kullanacağı tüm görsel bileşenler, kurumsal kimliğin birer parçasıdır",
-        "Title": "Kurumsal kimlik, bir markanın, kurumun veya kuruluşun nasıl görünmesini istediğini belirleyen ve aynı zamanda oluşturulan bu imajın da hedef kitlenin zihnine kazınmasını sağlayan bir araçtır. Markanın renklerinden logosuna, çalışan kartvizitlerinden antetli kağıdına, Web sitesi arayüzünden sosyal medya platformlarındaki materyallere kadar kullanacağı tüm görsel bileşenler, kurumsal kimliğin birer parçasıdır. Grup üyeliği ise toplumsal kimliktir.",
-        "Text": "Aşağıdakilerden hangisi kurumsal kimlik araçlarından biri <strong>değildir</strong>?",
-        "A": "Logo",
-        "B": "Web sitesi",
-        "C": "Kartvizit",
-        "D": "Antetli kağıt",
-        "E": "Grup üyeliği",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "QuestionNumber": 12
     },
     {
         "QuestionId": 3862195,
@@ -253,7 +189,7 @@
         "E": "I-II-III-IV",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 16
+        "QuestionNumber": 13
     },
     {
         "QuestionId": 3862196,
@@ -269,7 +205,7 @@
         "E": "Revizyon aşaması",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 15
+        "QuestionNumber": 14
     },
     {
         "QuestionId": 3862197,
@@ -288,6 +224,22 @@
         "QuestionNumber": 16
     },
     {
+        "QuestionId": 3862198,
+        "UniteNo": 8,
+        "PageNumber": 222,
+        "AnswerExplanation": "Doğru yanıt D şıkkıdır.<br />En ışıklı, hareketli, parlak ve neşeli renk olan sarı, zenginlik, bolluk, şeref ve sadakati hatırlatır.",
+        "Title": "En ışıklı, hareketli, parlak ve neşeli renk olan sarı, zenginlik, bolluk, şeref ve sadakati hatırlatır.",
+        "Text": "Renklerin psikolojik etkileri bağlamında zenginliği, bolluğu, şerefli olmayı ve sadakati hatırlatan renk aşağıdakilerden hangisidir?",
+        "A": "Mavi",
+        "B": "Turuncu",
+        "C": "Yeşil",
+        "D": "Sarı",
+        "E": "Mor",
+        "CorrectAnswer": "D",
+        "UserAnswer": null,
+        "QuestionNumber": 15
+    },
+    {
         "QuestionId": 3862199,
         "UniteNo": 8,
         "PageNumber": 225,
@@ -301,55 +253,7 @@
         "E": "I-V",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 17
-    },
-    {
-        "QuestionId": 3862202,
-        "UniteNo": 8,
-        "PageNumber": 243,
-        "AnswerExplanation": "Doğru yanıt A şıkkıdır.<br />Outdoor, açık havada bulunan, halkın yoğun olarak geçtiği alanlarda kullanılan reklam ve pazarlama<br />mecralarını ifade eder. Genellikle dış mekânlarda,<br />sokaklarda, caddelerde, alışveriş merkezlerinde, otobüs duraklarında, tren istasyonlarında ve diğer açık<br />hava alanlarında bulunan reklam alanlarıdır. Billboard, CLP / Raket, örümcek stant örnek olabilir.",
-        "Title": "Outdoor, açık havada bulunan, halkın yoğun olarak geçtiği alanlarda kullanılan reklam ve pazarlama<br />mecralarını ifade eder. Genellikle dış mekânlarda,<br />sokaklarda, caddelerde, alışveriş merkezlerinde, otobüs duraklarında, tren istasyonlarında ve diğer açık<br />hava alanlarında bulunan reklam alanlarıdır. Billboard, CLP / Raket, örümcek stant örnek olabilir.",
-        "Text": "Aşağıdakilerden hangisi halkın yoğun olarak geçtiği alanlarda kullanılan ve outdoor olarak adlandırılan reklam ve pazarlama mecralarından biri <strong>değildir</strong>?",
-        "A": "Dergi",
-        "B": "CLP/Raket",
-        "C": "Billboard",
-        "D": "Örümcek stant",
-        "E": "Durak afişi",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
-    },
-    {
-        "QuestionId": 3862142,
-        "UniteNo": 8,
-        "PageNumber": 220,
-        "AnswerExplanation": "<p style=\"text-align: justify;\">Marka ismi belirleme süreci, markanızın kimliği ve algısı oluşturulurken büyük bir rol oynar. Markanızı temsil eden temel değerleri, misyonu ve vizyonu anlamak, isim seçiminin temelini oluşturur. Markanızın neyi temsil ettiğini ve hedeflerini netleştirmek, isim seçiminizi etkileyecektir. Seçeceğiniz isim, markanızın temel mesajını yansıtmalı ve olumlu izlenim bırakmalıdır.</p>",
-        "Title": "",
-        "Text": "<p>Aşağıdakilerden hangisi isim seçerken markanın dikkat etmesi gereken unsurlardan biri değildir?</p>",
-        "A": "<p>Markanın misyonunu ve vizyonunu anlamak</p>",
-        "B": "<p>Markanın neyi temsil ettiğini netleştirmek</p>",
-        "C": "<p>Markanın hedefleri konusunda ikilemde kalmak</p>",
-        "D": "<p>Olumlu izlenim bırakan bir isim seçmek</p>",
-        "E": "<p>Markanın temel mesajını yansıtmak</p>",
-        "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
-    },
-    {
-        "QuestionId": 3862175,
-        "UniteNo": 8,
-        "PageNumber": 226,
-        "AnswerExplanation": "<p>Temel görsel bileşenlerin tasarımı</p> <p>• Logonun Kullanım Şekilleri </p> <p>• Renklerin farklı renk evrenlerindeki karşılıkları</p> <p>• Font Kullanımı</p> <p>• Basılı Dokümanların özellikleri ve kullanım şekilleri (Fatura, İrsaliyeli Fatura, Sevk İrsaliyesi, Gider Pusulası, Tahsilat ve Tediye Makbuzu, Muhasebe Formları (Kasa Fişi, Tahsil Fişi), Teklif ve Sipariş Fişi, Kartvizit, Antetli kağıt, Zarf vb.) </p> <p>• Kartvizit</p> <p>• Antetli Kağıt ve Devam Kağıdı</p> <p>• Zarflar (Torba zarf, diplomat ve para zarfı, pencereli ve penceresiz zarf, hava kabarcıklı zarf, kraft zarf, mektup ve cd/ dvd zarfları)</p> <p>• Dosyalar ve Klasörler</p> <p>• Faturalar, Makbuzlar ve Fişler (Fatura, irsaliyeli fatura, sevk irsaliyesi, gider pusulaları, tahsilat makbuzu, tediye makbuzu, özel fatura tasarımları, teklif formları, sipariş formları, iş takip fişleri, sipariş fişi, kasa fişi ve tahsil fişin)</p> <p>• E-Mail İmzası </p>",
-        "Title": "<p>Logonun Ortaya Çıkışı</p>",
-        "Text": "<p>Aşağıdakilerden hangisi temel görsel bileşenlerin tasarımını oluşturan unsurlar arasında yer almaz?</p>",
-        "A": "<p>Logonun Kullanım Şekilleri </p>",
-        "B": "<p>Renklerin farklı renk evrenlerindeki karşılıkları</p>",
-        "C": "<p>Font Kullanımı</p>",
-        "D": "<p>Dosyalar ve Klasörler</p>",
-        "E": "<p>Sosyal Medya Kiti</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "QuestionNumber": 16
     },
     {
         "QuestionId": 3862200,
@@ -384,20 +288,20 @@
         "QuestionNumber": 18
     },
     {
-        "QuestionId": 3862143,
+        "QuestionId": 3862202,
         "UniteNo": 8,
-        "PageNumber": 220,
-        "AnswerExplanation": "<p>Ayrıca, ismin dil ve kültürel normlara uygun olması, markanızın hedef kitlesiyle daha iyi bağ kurmasına yardımcı olur. Uluslararası pazarlarda anlamlı ve uygun bir isim seçmek de önemlidir. İsim seçerken benzersizlik ve telif hakkı kontrollerini yapmalı ayrıca ismi tescil ettirmeyi unutmamalısınız. İsim, kolayca telaffuz edilebilir ve yazılabilir olmalı, farklı dillerde de anlamlı olmalıdır. Seçeceğiniz isim, insanların duygusal bağ kurabileceği bir çağrışım uyandırmalıdır.</p>",
-        "Title": "",
-        "Text": "<p>Aşağıdakilerden hangisi isim seçerken markanın dikkat etmesi gereken unsurlardan biri değildir?</p>",
-        "A": "<p>İsmin kültürel normlara uygun olmasına dikkat etmek</p>",
-        "B": "<p>İsmin uluslararası pazarlarda anlamlı olup olmadığını önemsememek</p>",
-        "C": "<p>İsmin telif hakkı kontrollerini yaptırmak</p>",
-        "D": "<p>İsmin kolayca telaffuz edilebilir olmasına dikkat etmek</p>",
-        "E": "<p>İsmin insanlarla duygusal bağ oluşturmasına önem vermek</p>",
-        "CorrectAnswer": "B",
+        "PageNumber": 243,
+        "AnswerExplanation": "Doğru yanıt A şıkkıdır.<br />Outdoor, açık havada bulunan, halkın yoğun olarak geçtiği alanlarda kullanılan reklam ve pazarlama<br />mecralarını ifade eder. Genellikle dış mekânlarda,<br />sokaklarda, caddelerde, alışveriş merkezlerinde, otobüs duraklarında, tren istasyonlarında ve diğer açık<br />hava alanlarında bulunan reklam alanlarıdır. Billboard, CLP / Raket, örümcek stant örnek olabilir.",
+        "Title": "Outdoor, açık havada bulunan, halkın yoğun olarak geçtiği alanlarda kullanılan reklam ve pazarlama<br />mecralarını ifade eder. Genellikle dış mekânlarda,<br />sokaklarda, caddelerde, alışveriş merkezlerinde, otobüs duraklarında, tren istasyonlarında ve diğer açık<br />hava alanlarında bulunan reklam alanlarıdır. Billboard, CLP / Raket, örümcek stant örnek olabilir.",
+        "Text": "Aşağıdakilerden hangisi halkın yoğun olarak geçtiği alanlarda kullanılan ve outdoor olarak adlandırılan reklam ve pazarlama mecralarından biri <strong>değildir</strong>?",
+        "A": "Dergi",
+        "B": "CLP/Raket",
+        "C": "Billboard",
+        "D": "Örümcek stant",
+        "E": "Durak afişi",
+        "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 2
+        "QuestionNumber": 19
     },
     {
         "QuestionId": 3862203,
@@ -416,36 +320,36 @@
         "QuestionNumber": 20
     },
     {
-        "QuestionId": 3862189,
+        "QuestionId": 3862141,
         "UniteNo": 8,
-        "PageNumber": 231,
-        "AnswerExplanation": "<p>Kurum ya da kurum çalışanının iletişim bilgilerini içeren belirli boyutlarda ve farklı biçimsel özelliklere sahip kartlara kartvizit denir. Bir kartvizitin üzerinde genellikle kurumun logosu, kişinin adı-soyadı, unvanı, iletişim bilgileri bulunur.</p>",
-        "Title": "<p>Kurumsal Kimlik Tasarımını Oluşturan Temel Görsel Bileşenler</p>",
-        "Text": "<p>Kartvizit ilgili aşağıda ifadelerden hangisi doğrudur?</p>",
-        "A": "<p>Kurum, kuruluş ya da markanın yazı karakteri seçimlerini ve bunları nasıl kullanacağını belirleyen tasarım yönergeleridir.</p>",
-        "B": "<p>Kurum, kuruluş ya da markanın kimliğini yansıtan ve genellikle logoları, Web siteleri, reklamları ve diğer görsel materyalleri tasarlarken kullanılan belirli renklere kurumsal renklerdir.</p>",
-        "C": "<p>Belgelerin veya diğer kâğıt benzeri nesnelerin saklanması veya taşınması için kullanılan, genellikle plastik veya karton malzemeden yapılmış bir tür cebi bulunan dosyalardır.</p>",
-        "D": "<p>Kağıt belgeleri, dosyaları veya diğer materyalleri düzenlemek, saklamak ve taşımak için kullanılan, genellikle karton veya plastikten yapılmış bir tür kapalı saklama birimidir.</p>",
-        "E": "<p>Kurum ya da kurum çalışanının iletişim bilgilerini içeren belirli boyutlarda ve farklı biçimsel özelliklere sahip kartlardır.</p>",
-        "CorrectAnswer": "E",
+        "PageNumber": 219,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Kurumsal kimlik tasarımı, sekiz temel aşamadan oluşur: İlk aşama analiz aşamasıdır. Bu aşamada, rakip ve piyasa analizleri ile hedef kitlenin ve marka oluşturma sürecinin analizleri yapılır. Bu analizler sonucunda, ilerleyen aşamalar için bir yol haritası belirlenir. Analiz aşamasının tamamlanmasının ardından marka tasarım aşamasına geçilir. Bu aşamada, marka isminin belirlenmesi, uygun renk/renklerin ve tipografinin belirlenmesi yer alır. Bu aşama tamamlandığında, marka logosunun tasarımına geçilir. Üçüncü aşama, görsel bileşenlerin tasarımı aşamasıdır ve önceki iki aşama bu aşamanın ilham kaynağını oluşturur. En uygun görsel bileşenler seçilir ve tasarım süreçleri tamamlandığında kurumsal kimlik tasarımının uygulama sürecine geçilir. Bu aşamada, oluşturulan markanın tutarlılığını sağlamak için logo kullanımı, renk paleti, yazı tipleri, görsel bileşenler gibi unsurlar detaylandırılır ve kitapçık hâline getirilir. Sonraki aşama, denetleme aşamasıdır ve tasarlanan materyallerin prova baskısı alınarak veya tasarımlar dijital ortama yüklenerek denetlenir. Bu sayede eksik veya yanlış tasarımlar tespit edilir ve düzeltilir. Kurumsal kimlik tasarımı müşteriye sunmaya hazır hâle geldiğinde geri bildirim ve revizyon aşamasına geçilir. Gerekirse düzeltmeler yapılır ve kurumsal kimlik tasarımının onay ve dağıtım aşamasına geçilir. Bu süreç, sürekli takip ve gözden geçirme aşaması ile tamamlanır.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi kurumsal kimlik tasarımı aşamalarından biri değildir?</p>",
+        "A": "<p>analiz</p>",
+        "B": "<p>marka tasarım</p>",
+        "C": "<p>görsel bileşenlerin tasarımı</p>",
+        "D": "<p>marka algısı</p>",
+        "E": "<p> revizyon</p>",
+        "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 1
     },
     {
-        "QuestionId": 3862192,
+        "QuestionId": 3862145,
         "UniteNo": 8,
-        "PageNumber": 244,
-        "AnswerExplanation": "<p>Web sitelerinde, çevrimiçi reklamcılıkta ve dijital pazarlamada kullanılan görsel bir reklam türü olan web banner, genellikle web sayfalarının üst kısmında veya sağ/sol sütunlarda belirli ölçülerde yer alır ve kullanıcıların dikkatini çekmeyi, bir ürünü veya hizmeti tanıtmayı, bir etkinliği duyurmayı veya belirli bir eylemi gerçekleştirmelerini teşvik etmeyi amaçlar</p>",
-        "Title": "<p>Web Banner </p>",
-        "Text": "<p>Web sitelerinde, çevrimiçi reklamcılıkta ve dijital pazarlamada kullanılan görsel bir reklam türü olan kurumsal kimliğinin değişken görsel bileşeni aşağıdakilerden hangisidir?</p>",
-        "A": "<p>Araç Giydirme</p>",
-        "B": "<p>Kartlar </p>",
-        "C": "<p>Promosyon Ürünleri</p>",
-        "D": "<p>Bagaj Etiketleri</p>",
-        "E": "<p>Web Banner </p>",
-        "CorrectAnswer": "E",
+        "PageNumber": 222,
+        "AnswerExplanation": "<p>Kırmızı: Tutkunun rengi olan kırmızı, dikkat arttırıcı, ilgi çekici, hareketlilik sağlayıcı, beyni çalıştırıcı, heyecan verici, sağlık, canlılık, aşk, zafer hissi, enerji, cömertlik, fedakarlık, ihsan, acıma, cesaret, güç, hayat dolu, ısıtıcı etkiler taşır. Abartılması halinde sertlik ve şiddet, tehlike, rahatsız edicilik, zulüm, günah ifade edebilir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerin hangisi renklerle ilgili doğru bir ifadedir?</p>",
+        "A": "<p>mavi: hareketlilik sağlayıcı</p>",
+        "B": "<p>kırmızı: dikkat çekici</p>",
+        "C": "<p>yeşil: heyecan verici</p>",
+        "D": "<p>beyaz: canlılık</p>",
+        "E": "<p>pembe: şiddet</p>",
+        "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 14
+        "QuestionNumber": 4
     },
     {
         "QuestionId": 3862148,
@@ -461,6 +365,118 @@
         "E": "<p>saygın</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
+        "QuestionNumber": 5
+    },
+    {
+        "QuestionId": 3862161,
+        "UniteNo": 8,
+        "PageNumber": 219,
+        "AnswerExplanation": "<p>Tasarıma başlamadan önce kurumsal kimliği hazırlanacak organizasyonun aşamaları;</p> <p>1. Piyasa ve Rakip Analizi</p> <p>2. Hedef Kitle Analizi</p> <p>3. Marka Oluşturma Süreç Analizi ayrıntılı şekilde yapılmalıdır. </p>",
+        "Title": "<p>Kurumsal Kimlik Tasarımı Uygulama Süreci</p>",
+        "Text": "<p>Aşağıdakilerden hangisi kurumsal kimliği hazırlanacak organizasyonun aşamaları arasında yer alır?</p>",
+        "A": "<p>Renk Seçimi</p>",
+        "B": "<p>Tipografi Seçimi</p>",
+        "C": "<p>Logonun Ortaya Çıkışı</p>",
+        "D": "<p>Değişken Görsel Bileşenlerin Tasarımı</p>",
+        "E": "<p>Marka Oluşturma Süreç Analizi</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
         "QuestionNumber": 6
+    },
+    {
+        "QuestionId": 3862175,
+        "UniteNo": 8,
+        "PageNumber": 226,
+        "AnswerExplanation": "<p>Temel görsel bileşenlerin tasarımı</p> <p>• Logonun Kullanım Şekilleri </p> <p>• Renklerin farklı renk evrenlerindeki karşılıkları</p> <p>• Font Kullanımı</p> <p>• Basılı Dokümanların özellikleri ve kullanım şekilleri (Fatura, İrsaliyeli Fatura, Sevk İrsaliyesi, Gider Pusulası, Tahsilat ve Tediye Makbuzu, Muhasebe Formları (Kasa Fişi, Tahsil Fişi), Teklif ve Sipariş Fişi, Kartvizit, Antetli kağıt, Zarf vb.) </p> <p>• Kartvizit</p> <p>• Antetli Kağıt ve Devam Kağıdı</p> <p>• Zarflar (Torba zarf, diplomat ve para zarfı, pencereli ve penceresiz zarf, hava kabarcıklı zarf, kraft zarf, mektup ve cd/ dvd zarfları)</p> <p>• Dosyalar ve Klasörler</p> <p>• Faturalar, Makbuzlar ve Fişler (Fatura, irsaliyeli fatura, sevk irsaliyesi, gider pusulaları, tahsilat makbuzu, tediye makbuzu, özel fatura tasarımları, teklif formları, sipariş formları, iş takip fişleri, sipariş fişi, kasa fişi ve tahsil fişin)</p> <p>• E-Mail İmzası </p>",
+        "Title": "<p>Logonun Ortaya Çıkışı</p>",
+        "Text": "<p>Aşağıdakilerden hangisi temel görsel bileşenlerin tasarımını oluşturan unsurlar arasında yer almaz?</p>",
+        "A": "<p>Logonun Kullanım Şekilleri </p>",
+        "B": "<p>Renklerin farklı renk evrenlerindeki karşılıkları</p>",
+        "C": "<p>Font Kullanımı</p>",
+        "D": "<p>Dosyalar ve Klasörler</p>",
+        "E": "<p>Sosyal Medya Kiti</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 8
+    },
+    {
+        "QuestionId": 3862194,
+        "UniteNo": 8,
+        "PageNumber": 219,
+        "AnswerExplanation": "Doğru yanıt A şıkkıdır. Grup üyeliği toplumsal kimliktir. Oysa Kurumsal kimlik, bir markanın, kurumun veya<br />kuruluşun nasıl görünmesini istediğini belirleyen ve aynı zamanda oluşturulan bu imajın da hedef kitlenin zihnine kazınmasını sağlayan bir araçtır. Markanın renklerinden logosuna, çalışan kartvizitlerinden antetli kağıdına, Web sitesi arayüzünden<br />sosyal medya platformlarındaki materyallere kadar kullanacağı tüm görsel bileşenler, kurumsal kimliğin birer parçasıdır",
+        "Title": "Kurumsal kimlik, bir markanın, kurumun veya kuruluşun nasıl görünmesini istediğini belirleyen ve aynı zamanda oluşturulan bu imajın da hedef kitlenin zihnine kazınmasını sağlayan bir araçtır. Markanın renklerinden logosuna, çalışan kartvizitlerinden antetli kağıdına, Web sitesi arayüzünden sosyal medya platformlarındaki materyallere kadar kullanacağı tüm görsel bileşenler, kurumsal kimliğin birer parçasıdır. Grup üyeliği ise toplumsal kimliktir.",
+        "Text": "Aşağıdakilerden hangisi kurumsal kimlik araçlarından biri <strong>değildir</strong>?",
+        "A": "Logo",
+        "B": "Web sitesi",
+        "C": "Kartvizit",
+        "D": "Antetli kağıt",
+        "E": "Grup üyeliği",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 13
+    },
+    {
+        "QuestionId": 3862143,
+        "UniteNo": 8,
+        "PageNumber": 220,
+        "AnswerExplanation": "<p>Ayrıca, ismin dil ve kültürel normlara uygun olması, markanızın hedef kitlesiyle daha iyi bağ kurmasına yardımcı olur. Uluslararası pazarlarda anlamlı ve uygun bir isim seçmek de önemlidir. İsim seçerken benzersizlik ve telif hakkı kontrollerini yapmalı ayrıca ismi tescil ettirmeyi unutmamalısınız. İsim, kolayca telaffuz edilebilir ve yazılabilir olmalı, farklı dillerde de anlamlı olmalıdır. Seçeceğiniz isim, insanların duygusal bağ kurabileceği bir çağrışım uyandırmalıdır.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi isim seçerken markanın dikkat etmesi gereken unsurlardan biri değildir?</p>",
+        "A": "<p>İsmin kültürel normlara uygun olmasına dikkat etmek</p>",
+        "B": "<p>İsmin uluslararası pazarlarda anlamlı olup olmadığını önemsememek</p>",
+        "C": "<p>İsmin telif hakkı kontrollerini yaptırmak</p>",
+        "D": "<p>İsmin kolayca telaffuz edilebilir olmasına dikkat etmek</p>",
+        "E": "<p>İsmin insanlarla duygusal bağ oluşturmasına önem vermek</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null,
+        "QuestionNumber": 2
+    },
+    {
+        "QuestionId": 3862147,
+        "UniteNo": 8,
+        "PageNumber": 223,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Tipografi, yazıyı forma sokma tekniği olarak tanımlanabilir. Tipografi, metinsel düzenlemenin tümüdür; harf yüksekliği, yazı karakteri, kalınlığı, stili, satır aralığı, uzunluğu, paragraf hizalama biçimi, paragraf arası boşluk, sütun genişliği, renk vb. gibi.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi tipografinin özelliklerinden biri değildir?</p>",
+        "A": "<p>harf yüksekliği</p>",
+        "B": "<p>yazı karakteri</p>",
+        "C": "<p>metni klasöre kaydetme</p>",
+        "D": "<p>paragraf arası boşluk</p>",
+        "E": "<p>sütun genişliği</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 5
+    },
+    {
+        "QuestionId": 3862189,
+        "UniteNo": 8,
+        "PageNumber": 231,
+        "AnswerExplanation": "<p>Kurum ya da kurum çalışanının iletişim bilgilerini içeren belirli boyutlarda ve farklı biçimsel özelliklere sahip kartlara kartvizit denir. Bir kartvizitin üzerinde genellikle kurumun logosu, kişinin adı-soyadı, unvanı, iletişim bilgileri bulunur.</p>",
+        "Title": "<p>Kurumsal Kimlik Tasarımını Oluşturan Temel Görsel Bileşenler</p>",
+        "Text": "<p>Kartvizit ilgili aşağıda ifadelerden hangisi doğrudur?</p>",
+        "A": "<p>Kurum, kuruluş ya da markanın yazı karakteri seçimlerini ve bunları nasıl kullanacağını belirleyen tasarım yönergeleridir.</p>",
+        "B": "<p>Kurum, kuruluş ya da markanın kimliğini yansıtan ve genellikle logoları, Web siteleri, reklamları ve diğer görsel materyalleri tasarlarken kullanılan belirli renklere kurumsal renklerdir.</p>",
+        "C": "<p>Belgelerin veya diğer kâğıt benzeri nesnelerin saklanması veya taşınması için kullanılan, genellikle plastik veya karton malzemeden yapılmış bir tür cebi bulunan dosyalardır.</p>",
+        "D": "<p>Kağıt belgeleri, dosyaları veya diğer materyalleri düzenlemek, saklamak ve taşımak için kullanılan, genellikle karton veya plastikten yapılmış bir tür kapalı saklama birimidir.</p>",
+        "E": "<p>Kurum ya da kurum çalışanının iletişim bilgilerini içeren belirli boyutlarda ve farklı biçimsel özelliklere sahip kartlardır.</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 9
+    },
+    {
+        "QuestionId": 3862191,
+        "UniteNo": 8,
+        "PageNumber": 240,
+        "AnswerExplanation": "<p>Kurumsal Kimlik Tasarımını Oluşturan Değişken Görsel Bileşenler</p>",
+        "Title": "<p>Kurumsal Kimlik Tasarımını Oluşturan Değişken Görsel Bileşenler</p>",
+        "Text": "<p>Aşağıdakilerden hangisi kurumsal kimlik tasarımını oluşturan değişken görsel bileşenlerden değildir?</p>",
+        "A": "<p>Araç Giydirme</p>",
+        "B": "<p>Kartlar</p>",
+        "C": "<p>Yaka İğnesi ve Kol Düğmesi</p>",
+        "D": "<p>Promosyon Ürünleri</p>",
+        "E": "<p>Renklerin Farklı Renk Evrenlerindeki Karşılıkları </p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 11
     }
 ]

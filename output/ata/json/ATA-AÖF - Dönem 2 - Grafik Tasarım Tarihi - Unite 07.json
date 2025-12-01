@@ -9,22 +9,23 @@
         "E": "Durağan kompozisyon",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 311419,
         "SoruMetni": "<strong>Fütürizim hareketinin yaratıcısı/öncüsü kimdir?</strong>",
         "A": "Filippo Tomasso Marinetti",
-        "B": "Tristian Tzara<br/> <br/><br> <br/></br>",
-        "C": "Andy Warhol<br/> <br/><br> <br/></br>",
-        "D": "Alexander Rodchenko<br/> <br/><br> <br/></br>",
+        "B": "Tristian Tzara<br/></br>",
+        "C": "Andy Warhol<br/></br>",
+        "D": "Alexander Rodchenko<br/></br>",
         "E": "Pablo Picasso",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
@@ -35,15 +36,16 @@
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 311421,
         "SoruMetni": "<strong>Aşağıdakilerden hangisi Fütürist tipografinin özelliklerinden <u>değildir</u>?</strong>",
         "A": "Gramere (dil bilgisine), sözdizimine önem verilmemesi.",
         "B": "Sözcüklerin ve düşüncelerin yaratıcı ve duygusal gücünün ortaya konulduğu bir tuvali yaratma için sayfanın formatının bozulması.",
-        "C": "Değişik büyüklüklerden meydana gelen yazı karakterleri, ağırlıklar ve üslupların çeşitliliği.<br/> <br/><br> <br/></br>",
-        "D": "Mesajın izleyiciye doğrudan ve okunabilir olarak iletilmesi.<br/> <br/><br> <br/></br>",
+        "C": "Değişik büyüklüklerden meydana gelen yazı karakterleri, ağırlıklar ve üslupların çeşitliliği.<br/></br>",
+        "D": "Mesajın izleyiciye doğrudan ve okunabilir olarak iletilmesi.<br/></br>",
         "E": "Sözcük ve harflerin görsel imgelere dönüşmesi.",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım Tarihi",
@@ -54,26 +56,28 @@
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 311422,
         "SoruMetni": "<strong>Fütürist tipografinin özelliklerini taşıyan sembolik bir örnek olan Marinetti’nin görsel şiir çalışması aşağıdakilerden hangisidir?</strong>",
-        "A": "Beethoven Afişi<br/>",
-        "B": "Zang Tumb Tumb<br/>",
-        "C": "Giselle Afişi<br/>",
-        "D": "Merz<br/>",
+        "A": "Beethoven Afişi",
+        "B": "Zang Tumb Tumb",
+        "C": "Giselle Afişi",
+        "D": "Merz",
         "E": "Fuji dağının otuz altı görünümü",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 311423,
@@ -85,60 +89,63 @@
         "E": "Video",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 311424,
         "SoruMetni": "<strong>Aşağıdaki isimlerden hangisi Dada sanatçıları-tasarımcıları arasında <u>yer almaz</u>?</strong>",
-        "A": "John Heartfield<br/>",
-        "B": "Josef Müller Brockmann<br/>",
-        "C": "Marcel Duchamp<br/>",
-        "D": "Francis Picabia<br/>",
+        "A": "John Heartfield",
+        "B": "Josef Müller Brockmann",
+        "C": "Marcel Duchamp",
+        "D": "Francis Picabia",
         "E": "Hannah Höch",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 311425,
-        "SoruMetni": "<strong>Uyumsuz görsel ve sözsel materyali yan yana getirerek, dilin semantik erimesini destekleyen ayrıca Dada grafik sanatçıları için ideal bir teknik hâline gelen teknik aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Uyumsuz görsel ve sözsel materyali yan yana getirerek, dilin semantik erimesini destekleyen ayrıca Dada grafik sanatçıları için ideal bir teknik hâline gelen teknik aşağıdakilerden hangisidir?</strong>",
         "A": "Pop Art",
         "B": "Fotografik",
-        "C": "Punk<br/>",
-        "D": "Fluxus<br/>",
+        "C": "Punk",
+        "D": "Fluxus",
         "E": "Kolaj",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 311426,
         "SoruMetni": "<strong>Dada sanatçılarının felsefeleri ve üretim yöntemleri ile ilgili aşağıdakilerden hangisi <u>söylenemez</u>?</strong>",
         "A": "Kitle üretim malzemelerini yan yana, bir araya getirme.",
-        "B": "Gerçekliği yeniden yaratma ya da sunma biçimi olarak geleneksel sanatın kullanımını ortadan kaldıran kolaj tekniğini kullanma.<br/> <br/><br> <br/></br>",
-        "C": "Savaşı, toplumu, dini, önceki sanatları ve yerleşik bütün değerleri protesto etmek amacıyla gülünç ve şok taktikleri de kullanma.<br/> <br/><br> <br/></br>",
-        "D": "Geleneksel estetik standartları ortadan kaldırmayı amaçlamak.<br/> <br/><br> <br/></br>",
+        "B": "Gerçekliği yeniden yaratma ya da sunma biçimi olarak geleneksel sanatın kullanımını ortadan kaldıran kolaj tekniğini kullanma.<br/></br>",
+        "C": "Savaşı, toplumu, dini, önceki sanatları ve yerleşik bütün değerleri protesto etmek amacıyla gülünç ve şok taktikleri de kullanma.<br/></br>",
+        "D": "Geleneksel estetik standartları ortadan kaldırmayı amaçlamak.<br/></br>",
         "E": "İçeriğin ön planda olduğu minimal tipografi kullanmak.",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım Tarihi",
@@ -149,7 +156,8 @@
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 314501,
@@ -161,18 +169,19 @@
         "E": "1960-1970",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 314502,
-        "SoruMetni": "1927’de Ressam, şair ve tasarımcı Fortunato Depero, Fütürist grafik tasarım ve kişisel promosyonunun ana çalışmalarından biri olan …... adlı meşhur cıvatalı kitabını yayınlamış ve yeni tipografinin bir örneğini oluşturmuştur.<br/> <br/><strong>Cümlesindeki boşluğa aşağıdakilerden hangisi gelmelidir?</strong>",
+        "SoruMetni": "1927’de Ressam, şair ve tasarımcı Fortunato Depero, Fütürist grafik tasarım ve kişisel promosyonunun ana çalışmalarından biri olan …... adlı meşhur cıvatalı kitabını yayınlamış ve yeni tipografinin bir örneğini oluşturmuştur.<br/><strong>Cümlesindeki boşluğa aşağıdakilerden hangisi gelmelidir?</strong>",
         "A": "Die Neue Typographie",
         "B": "Depero Futurista",
         "C": "Litterature",
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 314503,
@@ -199,14 +209,15 @@
         "E": "Pablo Picasso",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 314504,
@@ -218,14 +229,15 @@
         "E": "Kamerayla hareketli bir objenin birçok karesini çekerek yapılan fotoğraflara benzer şekilde, mekânda objenin hareketini betimlemeyi araştırmak",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314505,
@@ -237,14 +249,15 @@
         "E": "Tristan Tzara",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 314506,
@@ -256,14 +269,15 @@
         "E": "Rene Margitte",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 314507,
@@ -275,14 +289,15 @@
         "E": "PROUNS",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314508,
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 314509,
@@ -313,14 +329,15 @@
         "E": "Fransız İhtilali’nin etkisi",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 343834,
@@ -332,18 +349,19 @@
         "E": "1913 ve 1914 yılları arasında “Özgür Sözcükler”le Marinetti, orijinal anlamlarındaki ilişkiyi yok etmek için, sözcükleri parçalamış, büyütmüş (çekmiş) ve bozmuştur.",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 343837,
-        "SoruMetni": "Marinetti ve arkadaşları, gramere (dil bilgisine), söz dizimine önem vermemişler; sözcüklerin ve düşüncelerin yaratıcı ve duygusal gücünün ortaya konduğu bir tuvali yaratmak için sayfanın formatını bozmuşlardır.<br/> <br/><strong>Marinetti'nin bu duruma uygun olarak kaleme aldığı şiir aşağıdakilerden hangisidir? </strong>",
+        "SoruMetni": "Marinetti ve arkadaşları, gramere (dil bilgisine), söz dizimine önem vermemişler; sözcüklerin ve düşüncelerin yaratıcı ve duygusal gücünün ortaya konduğu bir tuvali yaratmak için sayfanın formatını bozmuşlardır.<br/><strong>Marinetti'nin bu duruma uygun olarak kaleme aldığı şiir aşağıdakilerden hangisidir? </strong>",
         "A": "Everyman His Own Football",
         "B": "Depero Futurista",
         "C": "Zang Tumb Tumb",
@@ -351,14 +369,15 @@
         "E": "Die Scheuche Marchen",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 408188,
@@ -370,13 +389,14 @@
         "E": "Hareketli ve renkli imgelerle kompozisyonlarını oluşturmuşlardır.<br type=\"_moz\"/>",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     }
 ]

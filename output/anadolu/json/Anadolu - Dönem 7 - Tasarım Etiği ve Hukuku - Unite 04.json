@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Özel Menfaat Düşüncesiyle Getirilen Sınırlamalar<br/><br/>Kanunun sistematiği incelendiğinde, özel menfaat düşüncesiyle getirilen sınırlamalar altında şahsen çoğaltma, kopya ve teşhir ile umuma açık mahallerde eser ve koruma konularının kullanımı maddeleri yer almaktadır. Umuma açık mahallerde<br>kullanımın kanun sistematiği bakımından yeri yanlış olmakla birlikte bu başlık altında ele alınmıştır.</br>"
+        "Aciklama": "Özel Menfaat Düşüncesiyle Getirilen Sınırlamalar<br/>Kanunun sistematiği incelendiğinde, özel menfaat düşüncesiyle getirilen sınırlamalar altında şahsen çoğaltma, kopya ve teşhir ile umuma açık mahallerde eser ve koruma konularının kullanımı maddeleri yer almaktadır. Umuma açık mahallerde<br/>kullanımın kanun sistematiği bakımından yeri yanlış olmakla birlikte bu başlık altında ele alınmıştır.</br>"
     },
     {
         "SoruID": 3718226,
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 3719445,
-        "SoruMetni": "I. Somut biçimde algılanabilir olmalıdır<br/> II. 5846 sayılı Kanun'da yer alan eser kategorilerine dahil olmasa da o fikri ürün eser sayılabilir<br/> III. Sahibinin hususiyetini taşıması gerekir.<br/> Bir fikri ürünün eser olarak sayılabilmesi için aranan temel şartlarla ilgili olarak yukarıdakilerden hangisi veya hangileri doğrudur?",
+        "SoruMetni": "I. Somut biçimde algılanabilir olmalıdır<br/>II. 5846 sayılı Kanun'da yer alan eser kategorilerine dahil olmasa da o fikri ürün eser sayılabilir<br/>III. Sahibinin hususiyetini taşıması gerekir.<br/>Bir fikri ürünün eser olarak sayılabilmesi için aranan temel şartlarla ilgili olarak yukarıdakilerden hangisi veya hangileri doğrudur?",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -322,7 +322,7 @@
     {
         "SoruID": 3719707,
         "SoruMetni": "Ortak eser sahipliği ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
-        "A": "Bağlı eser olarak da adlandırılan ortak eser sahipliğinde eserler ve dolayısıyla eser sahiplerinin hususiyeti birbirinden ayrılamaz.",
+        "A": "Bağlı eser olarak da adlandırılan ortak eser sahipliğinde eserler ve dolayısıyla eser sahiplerinin hususiyeti birbirinden ayrılamaz.",
         "B": "Ortak eser sahipliğinde bağımsız eserlerin, eser sahiplerinin rızalarıyla tek bir eser olarak birleştirilmesi söz konusudur.",
         "C": "Ortak eser sahipliğinde; eser sahiplerinin birlikte bir eser meydana getirme iradelerinin olması gerekmektedir.",
         "D": "Opera eserlerinde besteci müzik, libretto söz üzerinde eser sahibidir.",
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bağlı eser olarak da adlandırılan ortak eser sahipliğinde eserler ve dolayısıyla eser sahiplerinin hususiyeti birbirinden <strong>ayrılabilmektedir.</strong>"
+        "Aciklama": "Bağlı eser olarak da adlandırılan ortak eser sahipliğinde eserler ve dolayısıyla eser sahiplerinin hususiyeti birbirinden <strong>ayrılabilmektedir.</strong>"
     },
     {
         "SoruID": 3719837,
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 3719852,
-        "SoruMetni": "I. Minimum düzeyde de olsa yaratıcılığı içermesi gerekir<br/> II. Fikri ürüne harcanan emeğin oranı da bu koşulun tespitinde aranan unsurlardandır<br/> III. Bir ürünün ortaya çıkışı kapsamlı teknik bilgiyi gerektiriyorsa artık yaratıcılık aranmadan bu koşulun gerçekleştiği sonucuna varılmalıdır.<br/> Bir fikri ürünün eser olarak korunmasının koşullarından biri olan sahibinin hususiyetini taşıma koşuluyla ilgili olarak yukarıdakilerden hangisi veya hangileri doğrudur?",
+        "SoruMetni": "I. Minimum düzeyde de olsa yaratıcılığı içermesi gerekir<br/>II. Fikri ürüne harcanan emeğin oranı da bu koşulun tespitinde aranan unsurlardandır<br/>III. Bir ürünün ortaya çıkışı kapsamlı teknik bilgiyi gerektiriyorsa artık yaratıcılık aranmadan bu koşulun gerçekleştiği sonucuna varılmalıdır.<br/>Bir fikri ürünün eser olarak korunmasının koşullarından biri olan sahibinin hususiyetini taşıma koşuluyla ilgili olarak yukarıdakilerden hangisi veya hangileri doğrudur?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -381,7 +381,7 @@
     },
     {
         "SoruID": 3719868,
-        "SoruMetni": "I. Müzik eserleri<br/> II. Güzel sanat eserleri<br/> III. Sinema eserleri<br/> Yukarıdakilerden hangisi veya hangileri 5846 sayılı Kanunda sayılan eser kategorilerindendir?",
+        "SoruMetni": "I. Müzik eserleri<br/>II. Güzel sanat eserleri<br/>III. Sinema eserleri<br/>Yukarıdakilerden hangisi veya hangileri 5846 sayılı Kanunda sayılan eser kategorilerindendir?",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -397,13 +397,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "5846 sayılı Kanunda ilim ve edebiyat eserleri, müzik eserleri, güzel sanat eserleri ve sinema eserleri eser kategorisi olarak sayılmıştır.2"
+        "Aciklama": "5846 sayılı Kanunda ilim ve edebiyat eserleri, müzik eserleri, güzel sanat eserleri ve sinema eserleri eser kategorisi olarak sayılmıştır.2"
     },
     {
         "SoruID": 3719883,
         "SoruMetni": "İşlenme ve derleme eserle ilgili olarak aşağıdakilerden hangisi <span style=\"text-decoration: underline;\">söylenemez?</span>",
         "A": "İşlenme eserden söz edebilmek için öncelikle koruma süresi dolmuş bir eser söz konusu olmalıdır",
-        "B": "İşlenme eserden söz edebilmek için yararlanılan eser sahibinin haklarına zarar verilmemesi gerekir",
+        "B": "İşlenme eserden söz edebilmek için yararlanılan eser sahibinin haklarına zarar verilmemesi gerekir",
         "C": "İşlenme eserde işleyen bu esere bağlı kalarak ve kendi hususiyetini katarak yeni bir eser ortaya koymalıdır.",
         "D": "Derleme eserde derlenen ürünlerin eser olmasına gerek yoktur",
         "E": "Derleme eserde derleyenin fikri bir çabası gerekmektedir.",
@@ -421,7 +421,7 @@
     },
     {
         "SoruID": 3719887,
-        "SoruMetni": "I. Tüzel kişiler, hukuken ehliyete sahip olduğundan eser sahipliği sıfatını da kazanabilir<br/> II. Eser sahipliği sıfatını kazanabilmek için Telif Hakları Genel Müdürlüğüne tescil başvurusunda bulunmak gerekir. Sicile tescil kurucu etkiyi haizdir<br/> III. Genel Müdürlüğe tescilin amacı ileride yaşanacak sorunlar için ispat kolaylığı sağlamaktır.<br/> Eser sahipliğinin kazanılmasına ilişkin olarak yukarıdakilerden hangisi veya hangileri söylenebilir?",
+        "SoruMetni": "I. Tüzel kişiler, hukuken ehliyete sahip olduğundan eser sahipliği sıfatını da kazanabilir<br/>II. Eser sahipliği sıfatını kazanabilmek için Telif Hakları Genel Müdürlüğüne tescil başvurusunda bulunmak gerekir. Sicile tescil kurucu etkiyi haizdir<br/>III. Genel Müdürlüğe tescilin amacı ileride yaşanacak sorunlar için ispat kolaylığı sağlamaktır.<br/>Eser sahipliğinin kazanılmasına ilişkin olarak yukarıdakilerden hangisi veya hangileri söylenebilir?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "FSEK'te sayılan mali haklar; işleme hakkı, çoğaltma hakkı, yayma hakkı, temsil hakkı, <strong>umuma iletim hakkı</strong> ve yeniden satış hakkıdır."
+        "Aciklama": "FSEK'te sayılan mali haklar; işleme hakkı, çoğaltma hakkı, yayma hakkı, temsil hakkı, <strong>umuma iletim hakkı</strong> ve yeniden satış hakkıdır."
     },
     {
         "SoruID": 3719905,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hukukumuzda, kıta Avrupası hukukunda olduğu gibi <strong>sınırlamaların sayılması usulü </strong>benimsenmiştir. Oysa Amerikan hukukunda “fair use” olarak da bilenen “adil kullanım” ilkesi esastır. “Adil kullanım” ya da “fair use” ifadesi özellikle yabancı web sayfalarında çok yaygın kullanıldığından, kimi zaman Türk hukukunda da bu ilkenin benimsendiği konusunda yanlış anlaşılmalar ortaya çıkmaktadır. Türk hukukunda sınırlamalar tek tek Kanunun 30’uncu ve 47’inci maddeleri arasında sayılmıştır."
+        "Aciklama": "Hukukumuzda, kıta Avrupası hukukunda olduğu gibi <strong>sınırlamaların sayılması usulü </strong>benimsenmiştir. Oysa Amerikan hukukunda “fair use” olarak da bilenen “adil kullanım” ilkesi esastır. “Adil kullanım” ya da “fair use” ifadesi özellikle yabancı web sayfalarında çok yaygın kullanıldığından, kimi zaman Türk hukukunda da bu ilkenin benimsendiği konusunda yanlış anlaşılmalar ortaya çıkmaktadır. Türk hukukunda sınırlamalar tek tek Kanunun 30’uncu ve 47’inci maddeleri arasında sayılmıştır."
     },
     {
         "SoruID": 3719926,
@@ -521,7 +521,7 @@
     },
     {
         "SoruID": 3719937,
-        "SoruMetni": "Eser niteliği taşımayan koruma konularından eser adı ve alameti ile işaret, ses ve resmin korunması ............................. dayanmaktadır.<br/> Yukarıdaki metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "Eser niteliği taşımayan koruma konularından eser adı ve alameti ile işaret, ses ve resmin korunması ............................. dayanmaktadır.<br/>Yukarıdaki metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "Kişilik hakkına",
         "B": "Haksız fiile",
         "C": "Tüketicinin korunmasına",
@@ -541,7 +541,7 @@
     },
     {
         "SoruID": 3719938,
-        "SoruMetni": "I. Çalışanla çalıştıran arasında bağımlılık ilişkisi bulunmalıdır<br/> II. Eser çalışanın işi görmesi anında veya işyerinde meydana getirilmiş olması gerekir<br/> III.  Hakları kullanma yetkisinin işverende olabilmesi için tarafların aksini kararlaştırmamış olması veya işin niteliğinden aksinin anlaşılmaması gerekmektedir.<br/> Çalışanlar tarafından meydana getirilen eserden doğan hakların  çalıştıran(işveren) tarafından kullanılabilmesine ilişkin yukarıdakilerden hangisi veya hangileri söylenebilir?",
+        "SoruMetni": "I. Çalışanla çalıştıran arasında bağımlılık ilişkisi bulunmalıdır<br/>II. Eser çalışanın işi görmesi anında veya işyerinde meydana getirilmiş olması gerekir<br/>III. Hakları kullanma yetkisinin işverende olabilmesi için tarafların aksini kararlaştırmamış olması veya işin niteliğinden aksinin anlaşılmaması gerekmektedir.<br/>Çalışanlar tarafından meydana getirilen eserden doğan hakların çalıştıran(işveren) tarafından kullanılabilmesine ilişkin yukarıdakilerden hangisi veya hangileri söylenebilir?",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -581,7 +581,7 @@
     },
     {
         "SoruID": 3719965,
-        "SoruMetni": "I. Sınırlı sayı ilkesine tabidir<br/> II. Ölüme bağlı tasarrufa konu edilemez<br/> III. Eserin alenileşmesiyle başlayan ve eser sahibinin ölümünden itibaren 70 yıl sonra sona eren sınırlı sürede kullanılabilir.<br/> Eser sahibinin mali haklarıyla ilgili olarak yukarıdakilerden hangisi veya hangileri doğrudur?",
+        "SoruMetni": "I. Sınırlı sayı ilkesine tabidir<br/>II. Ölüme bağlı tasarrufa konu edilemez<br/>III. Eserin alenileşmesiyle başlayan ve eser sahibinin ölümünden itibaren 70 yıl sonra sona eren sınırlı sürede kullanılabilir.<br/>Eser sahibinin mali haklarıyla ilgili olarak yukarıdakilerden hangisi veya hangileri doğrudur?",
         "A": "Yalnız III",
         "B": "I ve II",
         "C": "I ve III",

@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 3858464,
-        "SoruMetni": "Platon’un ikinci dereceden taklit olarak nitelediği, plastik sanatlar ve form yaratma sürecinin başlangıcı olan sanat dalı hangisidir?",
+        "SoruMetni": "Platon’un ikinci dereceden taklit olarak nitelediği, plastik sanatlar ve form yaratma sürecinin başlangıcı olan sanat dalı hangisidir?",
         "A": "Müzik",
         "B": "Seramik",
         "C": "Heykel",
@@ -245,7 +245,7 @@
         "A": "Fenomen",
         "B": "Estetik",
         "C": "Tin",
-        "D": "Kiç (Kitsch)",
+        "D": "Kiç (Kitsch)",
         "E": "Sanat",
         "DogruCevap": "A",
         "DersAd": "Görsel Estetik",
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İngilizce sketch (taslak) sözcüğünün bozulmuşudur kiç. Münih’te, İngiliz ve Amerikalı alıcılar için piyasaya sürülen ucuz resimleri gösterirdi. Genel olarak sanatsal değeri olmayan, ucuza satın alınabilen, genel beğeni düzeyine uydurulmuş nesneleri dile getirir. Sanatta değersizleşme, yozlaşma, çirkinleşme, meta değerini yükseltmek için sanat eseri görümünde sunulan nesne."
+        "Aciklama": "İngilizce sketch (taslak) sözcüğünün bozulmuşudur kiç. Münih’te, İngiliz ve Amerikalı alıcılar için piyasaya sürülen ucuz resimleri gösterirdi. Genel olarak sanatsal değeri olmayan, ucuza satın alınabilen, genel beğeni düzeyine uydurulmuş nesneleri dile getirir. Sanatta değersizleşme, yozlaşma, çirkinleşme, meta değerini yükseltmek için sanat eseri görümünde sunulan nesne."
     },
     {
         "SoruID": 3858491,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kandinski’nin dediği “her sanat eseri zamanının çocuğu, çoğu zaman da duygularımızın anasıdır”  cümlesinde olduğu gibi yaşadığın zamanla ve insanlığın yaşadığı tüm zamanlarla da ilişkisi olması gerekir estetik süje’nin."
+        "Aciklama": "Kandinski’nin dediği “her sanat eseri zamanının çocuğu, çoğu zaman da duygularımızın anasıdır” cümlesinde olduğu gibi yaşadığın zamanla ve insanlığın yaşadığı tüm zamanlarla da ilişkisi olması gerekir estetik süje’nin."
     },
     {
         "SoruID": 3858695,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Estetik kelimesinin günümüzdeki anlamıyla ilk kullanan kişi A. Baumgarten'dir."
+        "Aciklama": "Estetik kelimesinin günümüzdeki anlamıyla ilk kullanan kişi A. Baumgarten'dir."
     },
     {
         "SoruID": 3858696,
@@ -441,7 +441,7 @@
     },
     {
         "SoruID": 3858697,
-        "SoruMetni": "1.Orta Çağ estetik anlayışı temel olarak inanç etkisi ile mistik-metafizik karakter kazanmıştır<br/> 2.Orta Çağ sanatçısı için, sanat eserinin, ayırıcı bir anlamı yoktur.<br/> 3.Orta Çağ sanatçısı yaptığını estetik kaygılarla değil, yarattığı etki yoluyla somut olanın, gerçeğin yansımalarında görür.<br/> Yukarıdaki maddelerden hangileri doğrudur ?",
+        "SoruMetni": "1.Orta Çağ estetik anlayışı temel olarak inanç etkisi ile mistik-metafizik karakter kazanmıştır<br/>2.Orta Çağ sanatçısı için, sanat eserinin, ayırıcı bir anlamı yoktur.<br/>3.Orta Çağ sanatçısı yaptığını estetik kaygılarla değil, yarattığı etki yoluyla somut olanın, gerçeğin yansımalarında görür.<br/>Yukarıdaki maddelerden hangileri doğrudur ?",
         "A": "1 ve 2",
         "B": "2 ve 3",
         "C": "1ve 3",
@@ -477,15 +477,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Platon modern çağ estetik anlayışı ile bağdaşmaz."
+        "Aciklama": "Platon modern çağ estetik anlayışı ile bağdaşmaz."
     },
     {
         "SoruID": 3858699,
         "SoruMetni": "Aşağıdakilerden hangisi sanat felsefesinin amaçlarından biri değildir?",
         "A": "Sanatın ve sanat yapıtının varlıkça yapısının ne olduğunu araştırmak",
         "B": "Sanatın ve sanat yapıtının insanla olan bağını ortaya koymak",
-        "C": "Sanatın insanın dünyasındaki yerini belirlemek",
-        "D": "Sanatın insanın dünyasındaki işlevini  belirlemek",
+        "C": "Sanatın insanın dünyasındaki yerini belirlemek",
+        "D": "Sanatın insanın dünyasındaki işlevini belirlemek",
         "E": "Doğada ve sanatta güzelin ne olduğunu belirlemek",
         "DogruCevap": "E",
         "DersAd": "Görsel Estetik",
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğada ve sanatta güzelin ne olduğunu belirlemek sanat felsefesinin amaçlarından biri değildir."
+        "Aciklama": "Doğada ve sanatta güzelin ne olduğunu belirlemek sanat felsefesinin amaçlarından biri değildir."
     },
     {
         "SoruID": 3858700,
@@ -523,8 +523,8 @@
         "SoruID": 3858701,
         "SoruMetni": "Resim ile ilgili hangisi doğru bir bilgi değildir ?",
         "A": "Plastik sanatlar ve form yaratma süreci resimle başlamıştır",
-        "B": "Platon resmi ikinci dereceden taklit olarak niteler",
-        "C": "Kant resmi  ikinci dereceden taklit olarak niteler",
+        "B": "Platon resmi ikinci dereceden taklit olarak niteler",
+        "C": "Kant resmi ikinci dereceden taklit olarak niteler",
         "D": "Hikâye yaratma kültürü, resimle başlamıştır denilebilir",
         "E": "Resim, imgenin yaratıldığı en önemli kompozisyon biçimini oluşturur",
         "DogruCevap": "C",
@@ -552,7 +552,7 @@
         "Unite": 1,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:42.704535",
+        "OlusturmaTarihi": "2025-12-01T04:15:38.365862",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -617,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Estetik, olumlu anlamda bir değer ifade etmek, gördüğümüz, duyduğumuz, dokunduğumuz, tattığımız, duyusal algı alanımıza giren ögeleri tanımlamak için kullandığımız kavramdır. Bir şeyi veya şeyleri diğerlerinden ayırıcı, bizim için farklı olanı, bunu farkını fark ettiğimizi belirtmek için de estetik kavramını kullanırız."
+        "Aciklama": "Estetik, olumlu anlamda bir değer ifade etmek, gördüğümüz, duyduğumuz, dokunduğumuz, tattığımız, duyusal algı alanımıza giren ögeleri tanımlamak için kullandığımız kavramdır. Bir şeyi veya şeyleri diğerlerinden ayırıcı, bizim için farklı olanı, bunu farkını fark ettiğimizi belirtmek için de estetik kavramını kullanırız."
     },
     {
         "SoruID": 3858713,
@@ -1180,6 +1180,26 @@
         "Aciklama": "Doğayı anlama ve anlatma kaygısı sanatın doğuşunun asıl nedenidir."
     },
     {
+        "SoruID": 3858815,
+        "SoruMetni": "Duyusal bilgiyi bulanık tasavvurlarla; akılsal bilgiyi açık ve seçik tasavvurlarla elde ederiz. Bu iki tür tasavvur arasında, açık olduğu hâlde seçik olmayan, yani karışık olan tasavvurlar vardır.<br/>Yukarıdaki düşünce aşağıdaki düşünürlerden hangisine aittir?",
+        "A": "Baumgarten",
+        "B": "Adorno",
+        "C": "Croce",
+        "D": "Marx",
+        "E": "Hegel",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:32.942278",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Baumgarten’e göre iki tür bilgi vardır: Duyusal bilgi, akılsal bilgi. Duyusal bilgiyi bulanık tasavvurlarla; akılsal bilgiyi açık ve seçik tasavvurlarla elde ederiz. Bu iki tür tasavvur arasında, açık olduğu hâlde seçik olmayan, yani karışık olan tasavvurlar vardır. Doğru seçenek A' dır."
+    },
+    {
         "SoruID": 3858816,
         "SoruMetni": "Felsefe tarihinde ilk sistemli felsefi düşüncenin kaynağı olarak kabul edilen felsefe aşağıdaki düşünürlerden hangisine aittir?",
         "A": "Sokrates",
@@ -1261,7 +1281,7 @@
     },
     {
         "SoruID": 3858832,
-        "SoruMetni": "I. Dadaist bir sanatçıdır<br/><br/>II. Kavramsal ve Fluxus gibi 1960 sonrası akımların esin kaynağı olmuştur<br/><br/>III. Tabure ve bisiklet tekerleği isimli çalışmayı yapan sanatçıdır<br/><br/>Yukarıdakilerden hangisi ya da hangileri Marcel Duchamp' a aittir?",
+        "SoruMetni": "I. Dadaist bir sanatçıdır<br/>II. Kavramsal ve Fluxus gibi 1960 sonrası akımların esin kaynağı olmuştur<br/>III. Tabure ve bisiklet tekerleği isimli çalışmayı yapan sanatçıdır<br/>Yukarıdakilerden hangisi ya da hangileri Marcel Duchamp' a aittir?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -1277,7 +1297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Marcel Duchamp dadaist sanatçı, 20. yüzyılın ilk çeyreğinde ortaya koyduğu eserlerle tüm yüzyılı etkilemiş, bakma biçimini değiştirmişti. Kavramsal ve Fluxus gibi 1960 sonrası akımların esin kaynağı olmuştur. Çeşme (Pisuar), Tabure ve Bisiklet Tekerleği gibi çalışmalarla çalışmalarla kattığı anlam boyutu, kavramsal olanın derinliği içinde, görmenin geçmiş ve zamanı için bakışını oluşturur."
+        "Aciklama": "Marcel Duchamp dadaist sanatçı, 20. yüzyılın ilk çeyreğinde ortaya koyduğu eserlerle tüm yüzyılı etkilemiş, bakma biçimini değiştirmişti. Kavramsal ve Fluxus gibi 1960 sonrası akımların esin kaynağı olmuştur. Çeşme (Pisuar), Tabure ve Bisiklet Tekerleği gibi çalışmalarla çalışmalarla kattığı anlam boyutu, kavramsal olanın derinliği içinde, görmenin geçmiş ve zamanı için bakışını oluşturur."
     },
     {
         "SoruID": 3858833,
@@ -1361,7 +1381,7 @@
     },
     {
         "SoruID": 3858883,
-        "SoruMetni": "Aşağıdaki şıklarda belirtilen hangi filozof  1750’de yayımladığı Aesthetica adlı yapıtında, akıl’a göre daha aşağı düzeydeki «duyulardan gelen bilginin bilimi» üzerinde dururken felsefe tarihinde estetik sözcüğünü ilk kullanan kişidir ?",
+        "SoruMetni": "Aşağıdaki şıklarda belirtilen hangi filozof 1750’de yayımladığı Aesthetica adlı yapıtında, akıl’a göre daha aşağı düzeydeki «duyulardan gelen bilginin bilimi» üzerinde dururken felsefe tarihinde estetik sözcüğünü ilk kullanan kişidir ?",
         "A": "Baumgarten",
         "B": "Descartes",
         "C": "Rousseau",
@@ -1377,11 +1397,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Alman filozofu Baumgarten (Alexander Gottlieb, 1714-1762) 1750’de yayımladığı Aesthetica adlı yapıtında, akıl’a göre daha aşağı düzeydeki «duyulardan gelen bilginin bilimi» üzerinde dururken felsefe tarihinde estetik sözcüğünü ilk kullanan filozof olmaktadır. Dolayısıyla cevap A şıkkıdır."
+        "Aciklama": "Alman filozofu Baumgarten (Alexander Gottlieb, 1714-1762) 1750’de yayımladığı Aesthetica adlı yapıtında, akıl’a göre daha aşağı düzeydeki «duyulardan gelen bilginin bilimi» üzerinde dururken felsefe tarihinde estetik sözcüğünü ilk kullanan filozof olmaktadır. Dolayısıyla cevap A şıkkıdır."
     },
     {
         "SoruID": 3858885,
-        "SoruMetni": "İlk cildi 1750’de, İkincisi 1758’de yayınlanan doktora çalışmasında Estetik’i genel felsefesi içinde ana başlık olarak ele alması bu alanda bağımsız çalışma olması açısından önem taşıyan ve \"iki tür bilgi vardır: Duyusal bilgi, akılsal bilgi\" şeklinde görüşü olan filozof aşağıdaki hangi şıkta belirtilmiştir ?",
+        "SoruMetni": "İlk cildi 1750’de, İkincisi 1758’de yayınlanan doktora çalışmasında Estetik’i genel felsefesi içinde ana başlık olarak ele alması bu alanda bağımsız çalışma olması açısından önem taşıyan ve \"iki tür bilgi vardır: Duyusal bilgi, akılsal bilgi\" şeklinde görüşü olan filozof aşağıdaki hangi şıkta belirtilmiştir ?",
         "A": "Rousseau",
         "B": "Baumgarten",
         "C": "Hume",
@@ -1397,11 +1417,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Baumgarten’ın ilk cildi 1750’de, İkincisi 1758’de yayınlanan doktora çalışmasında Estetik’i genel felsefesi içinde ana başlık olarak ele alması bu alanda bağımsız çalışma olması açısından önem taşımaktadır. Baumgarten’e göre iki tür bilgi vardır: Duyusal bilgi, akılsal bilgi. Dolayısıyla cevap B şıkkıdır."
+        "Aciklama": "Baumgarten’ın ilk cildi 1750’de, İkincisi 1758’de yayınlanan doktora çalışmasında Estetik’i genel felsefesi içinde ana başlık olarak ele alması bu alanda bağımsız çalışma olması açısından önem taşımaktadır. Baumgarten’e göre iki tür bilgi vardır: Duyusal bilgi, akılsal bilgi. Dolayısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3858888,
-        "SoruMetni": "Sanat eserinin, ayırıcı bir anlamı yoktur. ‘Sanatçı’ yaptığını estetik kaygılarla değil, yarattığı etki yoluyla somut olanın, gerçeğin yansımalarında görmektedir. Bu gerçeklik eserle temasa geçende oluşan vecd/yükselme, kendinden geçme yoluyla gerçekleşmektedir. Derinlik bu anlamda kompozisyonun yaratıldığı alanda değil, izleyenin duygusundadır.<br/> Yukarıda belirtilen anlayış hangi çağ sanatçısına aittir ?",
+        "SoruMetni": "Sanat eserinin, ayırıcı bir anlamı yoktur. ‘Sanatçı’ yaptığını estetik kaygılarla değil, yarattığı etki yoluyla somut olanın, gerçeğin yansımalarında görmektedir. Bu gerçeklik eserle temasa geçende oluşan vecd/yükselme, kendinden geçme yoluyla gerçekleşmektedir. Derinlik bu anlamda kompozisyonun yaratıldığı alanda değil, izleyenin duygusundadır.<br/>Yukarıda belirtilen anlayış hangi çağ sanatçısına aittir ?",
         "A": "İk Çağ",
         "B": "Yeni Çağ",
         "C": "Orta Çağ",
@@ -1417,11 +1437,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Orta Çağ sanatçısı için, sanat eserinin, ayırıcı bir anlamı yoktur. ‘Sanatçı’ yaptığını estetik kaygılarla değil, yarattığı etki yoluyla somut olanın, gerçeğin yansımalarında görür. Bu gerçeklik ise eserle temasa geçende oluşan vecd/yükselme, kendinden geçme yoluyla gerçekleşir. Derinlik bu anlamda kompozisyonun yaratıldığı alanda değil, izleyenin duygusundadır. Dolayısıyla cevap C şıkkıdır."
+        "Aciklama": "Orta Çağ sanatçısı için, sanat eserinin, ayırıcı bir anlamı yoktur. ‘Sanatçı’ yaptığını estetik kaygılarla değil, yarattığı etki yoluyla somut olanın, gerçeğin yansımalarında görür. Bu gerçeklik ise eserle temasa geçende oluşan vecd/yükselme, kendinden geçme yoluyla gerçekleşir. Derinlik bu anlamda kompozisyonun yaratıldığı alanda değil, izleyenin duygusundadır. Dolayısıyla cevap C şıkkıdır."
     },
     {
         "SoruID": 3858889,
-        "SoruMetni": "Estetik kavramı hangi yüzyıldan itibaren yaklaşık bugünkü anlamı üzerinden kullanılmış ve alana ilişkin terminoloji de bu süreçten sonra daha yoğun olarak çeşitlenmeye başlamıştır ?",
+        "SoruMetni": "Estetik kavramı hangi yüzyıldan itibaren yaklaşık bugünkü anlamı üzerinden kullanılmış ve alana ilişkin terminoloji de bu süreçten sonra daha yoğun olarak çeşitlenmeye başlamıştır ?",
         "A": "16. Yüzyıl",
         "B": "17. Yüzyıl",
         "C": "15. Yüzyıl",
@@ -1437,11 +1457,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Estetik kavramı 18. yüzyıldan itibaren yaklaşık bugünkü anlamı üzerinden kullanılmış ve alana ilişkin terminoloji de bu süreçten sonra daha yoğun olarak çeşitlenmeye başlamıştır. Dolayısıyla cevap D şıkkıdır."
+        "Aciklama": "Estetik kavramı 18. yüzyıldan itibaren yaklaşık bugünkü anlamı üzerinden kullanılmış ve alana ilişkin terminoloji de bu süreçten sonra daha yoğun olarak çeşitlenmeye başlamıştır. Dolayısıyla cevap D şıkkıdır."
     },
     {
         "SoruID": 3858891,
-        "SoruMetni": "Bir estetik obje’yi algılayan, onu kavrayan ve ondan estetik olarak hoşlanan, ondan estetik haz duyan bilinç varlığı, ‘ben’ anlamının karşılığı aşağıdaki hangi şıkta belirtilmiştir ?",
+        "SoruMetni": "Bir estetik obje’yi algılayan, onu kavrayan ve ondan estetik olarak hoşlanan, ondan estetik haz duyan bilinç varlığı, ‘ben’ anlamının karşılığı aşağıdaki hangi şıkta belirtilmiştir ?",
         "A": "Estetik obje",
         "B": "Estetik tavır",
         "C": "Estetik beğeni",
@@ -1457,11 +1477,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Estetik süje, bir estetik obje’yi algılayan, onu kavrayan ve ondan estetik olarak hoşlanan, ondan estetik haz duyan bilinç varlığı, ‘ben’ anlamına gelir. Dolayısıyla cevap E şıkkıdır."
+        "Aciklama": "Estetik süje, bir estetik obje’yi algılayan, onu kavrayan ve ondan estetik olarak hoşlanan, ondan estetik haz duyan bilinç varlığı, ‘ben’ anlamına gelir. Dolayısıyla cevap E şıkkıdır."
     },
     {
         "SoruID": 3858892,
-        "SoruMetni": "Bir sanatkâr tarafından yaratılmış bir sanat yapıtı olabileceği gibi, insanın yaratıcı etkinliğinin sonucu olmayıp, tam tersine onun verili ya da hazır bulduğu doğal bir şey, söz gelimi bir doğa manzarası ya da insan bedeni benzeri bir doğal ürün olabilir yani karşısında estetik tavır alınan, estetik yaşantının konusu ya da objesi olan şeyin karşılığı aşağıdaki hangi şık ta belirtilmiştir ?",
+        "SoruMetni": "Bir sanatkâr tarafından yaratılmış bir sanat yapıtı olabileceği gibi, insanın yaratıcı etkinliğinin sonucu olmayıp, tam tersine onun verili ya da hazır bulduğu doğal bir şey, söz gelimi bir doğa manzarası ya da insan bedeni benzeri bir doğal ürün olabilir yani karşısında estetik tavır alınan, estetik yaşantının konusu ya da objesi olan şeyin karşılığı aşağıdaki hangi şık ta belirtilmiştir ?",
         "A": "Estetik nesne",
         "B": "Estetik tavır",
         "C": "Estetik duyu",
@@ -1477,11 +1497,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Estetik nesne; bir sanatkâr tarafından yaratılmış bir sanat yapıtı olabileceği gibi, insanın yaratıcı etkinliğinin sonucu olmayıp, tam tersine onun verili ya da hazır bulduğu doğal bir şey, söz gelimi bir doğa manzarası ya da insan bedeni benzeri bir doğal ürün olabilir. Demek ki estetik nesne, karşısında estetik tavır alınan, estetik yaşantının konusu ya da objesi olan şeydir. Dolayısıyla cevap A şıkkıdır."
+        "Aciklama": "Estetik nesne; bir sanatkâr tarafından yaratılmış bir sanat yapıtı olabileceği gibi, insanın yaratıcı etkinliğinin sonucu olmayıp, tam tersine onun verili ya da hazır bulduğu doğal bir şey, söz gelimi bir doğa manzarası ya da insan bedeni benzeri bir doğal ürün olabilir. Demek ki estetik nesne, karşısında estetik tavır alınan, estetik yaşantının konusu ya da objesi olan şeydir. Dolayısıyla cevap A şıkkıdır."
     },
     {
         "SoruID": 3858894,
-        "SoruMetni": "Hepimizin beğenisine hitap edecek, ortak estetik duyu (sensus communis aestheticus), yaratacak biçimde kompozisyonlar oluşturulabilir mi sorusu, modern çağların söylemleri içinde karşımıza çıkmaktadır. hangi filozof'a göre bu “ortak estetik duyu” bütün insanlarda vardır; beğeni yargılarının genel geçerliği herkesin ortak olduğu bu duyuya dayanır ?",
+        "SoruMetni": "Hepimizin beğenisine hitap edecek, ortak estetik duyu (sensus communis aestheticus), yaratacak biçimde kompozisyonlar oluşturulabilir mi sorusu, modern çağların söylemleri içinde karşımıza çıkmaktadır. hangi filozof'a göre bu “ortak estetik duyu” bütün insanlarda vardır; beğeni yargılarının genel geçerliği herkesin ortak olduğu bu duyuya dayanır ?",
         "A": "Hegel",
         "B": "Kant",
         "C": "Rousseau",
@@ -1497,11 +1517,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hepimizin beğenisine hitap edecek, ortak estetik duyu (sensus communis aestheticus), yaratacak biçimde kompozisyonlar oluşturulabilir mi sorusu, modern çağların söylemleri içinde karşımıza çıkmaktadır. Kant’a göre bu “ortak estetik duyu” bütün insanlarda vardır; beğeni yargılarının genel geçerliği herkesin ortak olduğu bu duyuya dayanır. Dolayısıyla cevap B şıkkıdır."
+        "Aciklama": "Hepimizin beğenisine hitap edecek, ortak estetik duyu (sensus communis aestheticus), yaratacak biçimde kompozisyonlar oluşturulabilir mi sorusu, modern çağların söylemleri içinde karşımıza çıkmaktadır. Kant’a göre bu “ortak estetik duyu” bütün insanlarda vardır; beğeni yargılarının genel geçerliği herkesin ortak olduğu bu duyuya dayanır. Dolayısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3858895,
-        "SoruMetni": "Sanat kavramı kullanıldığı zaman çoğunlukla akla gelen ilk alanlar plastik sanatlardır. Plastik sanat grubuna giren sanat dalları aşağıdaki hangi seçeneklerde belirtilmiştir ?<br/> I-) Mimari<br/> II-) Resim<br/> III-) Müzik<br/> IV-) Heykel<br/> V-) Seramik",
+        "SoruMetni": "Sanat kavramı kullanıldığı zaman çoğunlukla akla gelen ilk alanlar plastik sanatlardır. Plastik sanat grubuna giren sanat dalları aşağıdaki hangi seçeneklerde belirtilmiştir ?<br/>I-) Mimari<br/>II-) Resim<br/>III-) Müzik<br/>IV-) Heykel<br/>V-) Seramik",
         "A": "II, III, IV ve V",
         "B": "I, II, III ve V",
         "C": "I, II, IV ve V",
@@ -1517,11 +1537,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanat kavramı kullanıldığı zaman çoğunlukla akla gelen ilk alanlar, mimari, resim, heykel, seramik gibi plastik sanatlardır. Dolayısıyla cevap C şıkkıdır."
+        "Aciklama": "Sanat kavramı kullanıldığı zaman çoğunlukla akla gelen ilk alanlar, mimari, resim, heykel, seramik gibi plastik sanatlardır. Dolayısıyla cevap C şıkkıdır."
     },
     {
         "SoruID": 3858896,
-        "SoruMetni": "Mimari, işlev merkezli kurulur. Bir yapı hangi dönemde olursa olsun, amacına ve işlevine uygun bir mimari planla inşa edilir.  Geçmişten günümüze mimari formların işlev ve biçim açısından temel ayırıcı alanlarını oluşturan kaç ana başlık vardır ?",
+        "SoruMetni": "Mimari, işlev merkezli kurulur. Bir yapı hangi dönemde olursa olsun, amacına ve işlevine uygun bir mimari planla inşa edilir. Geçmişten günümüze mimari formların işlev ve biçim açısından temel ayırıcı alanlarını oluşturan kaç ana başlık vardır ?",
         "A": "5",
         "B": "2",
         "C": "6",
@@ -1537,7 +1557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mimari, işlev merkezli kurulur. Bir yapı hangi dönemde olursa olsun, amacına ve işlevine uygun bir mimari planla inşa edilir. Üç ana başlık, dinî, sivil ve askerî mimari geçmişten günümüze mimari formların işlev ve biçim açısından temel ayırıcı alanlarını oluşturmuştur. Dolayısıyla cevap D şıkkıdır."
+        "Aciklama": "Mimari, işlev merkezli kurulur. Bir yapı hangi dönemde olursa olsun, amacına ve işlevine uygun bir mimari planla inşa edilir. Üç ana başlık, dinî, sivil ve askerî mimari geçmişten günümüze mimari formların işlev ve biçim açısından temel ayırıcı alanlarını oluşturmuştur. Dolayısıyla cevap D şıkkıdır."
     },
     {
         "SoruID": 3858898,

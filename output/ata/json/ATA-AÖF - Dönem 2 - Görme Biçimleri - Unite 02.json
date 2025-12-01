@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 310748,
@@ -28,14 +29,15 @@
         "E": "David Hume",
         "DogruCevap": "C",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 310749,
@@ -47,14 +49,15 @@
         "E": "Kasimir Malevich",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 310750,
@@ -66,14 +69,15 @@
         "E": "İndirgeme",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 310752,
@@ -85,14 +89,15 @@
         "E": "Nesneler ve boşluk",
         "DogruCevap": "E",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 310753,
@@ -104,14 +109,15 @@
         "E": "Benedetto Croce",
         "DogruCevap": "C",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 310755,
@@ -130,7 +136,8 @@
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 313799,
@@ -142,14 +149,15 @@
         "E": "Duygu Teorisi",
         "DogruCevap": "D",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 313800,
@@ -161,14 +169,15 @@
         "E": "Duyum ve düşünce",
         "DogruCevap": "C",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 313801,
@@ -180,14 +189,15 @@
         "E": "Görsel dünya, görülür.",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 313803,
@@ -199,14 +209,15 @@
         "E": "David Hume",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 313804,
@@ -218,18 +229,19 @@
         "E": "Ernst Mach",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 313805,
-        "SoruMetni": "Görsel dünyanın algısı, objelere yüklenen anlamlarla değil, geçmişteki uyarılara dayanır. Bu hipoteze göre duyumsama, anlık uyarılara dayandığı hâlde algı .............. göre şekillenir.<br/> <br/><strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Görsel dünyanın algısı, objelere yüklenen anlamlarla değil, geçmişteki uyarılara dayanır. Bu hipoteze göre duyumsama, anlık uyarılara dayandığı hâlde algı .............. göre şekillenir.<br/><strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "geçmişteki uyarılara ve hafızaya",
         "B": "duygulara",
         "C": "bulunduğumuz fiziksel pozisyona",
@@ -237,14 +249,15 @@
         "E": "gözleme",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 313806,
@@ -263,7 +276,8 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 313807,
@@ -275,14 +289,15 @@
         "E": "Ernst Mach",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 313808,
@@ -294,14 +309,15 @@
         "E": "Anthony Storr",
         "DogruCevap": "C",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 313809,
@@ -313,18 +329,19 @@
         "E": "Malzemesiyle",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 340848,
-        "SoruMetni": "I. Derinlik<br/> <br/>II. Uzaklık<br> <br/>III. Gerçeklik<br> <br/>IV. Ağırlık<br> <br/><strong>Yukarıdakilerden hangileri fiziksel çevrenin sahip olduğu boyutlar arasında yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. Derinlik<br/>II. Uzaklık<br/>III. Gerçeklik<br/>IV. Ağırlık<br/><strong>Yukarıdakilerden hangileri fiziksel çevrenin sahip olduğu boyutlar arasında yer alır?</strong></br></br></br>",
         "A": "I ve IV",
         "B": "II ve IV",
         "C": "IV ve III",
@@ -332,14 +349,15 @@
         "E": "I, II ve IV",
         "DogruCevap": "D",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 340849,
@@ -351,14 +369,15 @@
         "E": "Edgar Allan Poe",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 340851,
@@ -370,18 +389,19 @@
         "E": "Henry Peach Robinson",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 343843,
-        "SoruMetni": "Objelerin algılanması iki obje arasındaki etkileşimden değil, devam eden bir arka planın etkisiyle oluşur. Bu demektir ki, ancak …........… plan doğru algılandığında ….........….. da algılanır.<br/> <br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Objelerin algılanması iki obje arasındaki etkileşimden değil, devam eden bir arka planın etkisiyle oluşur. Bu demektir ki, ancak …........… plan doğru algılandığında ….........….. da algılanır.<br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "ön / arka",
         "B": "uzak / yan",
         "C": "arka / ışık",
@@ -389,13 +409,14 @@
         "E": "arka / uzaklık",
         "DogruCevap": "E",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     }
 ]

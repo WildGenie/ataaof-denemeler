@@ -9,14 +9,15 @@
         "E": "Düzenleyici grafik",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 337140,
@@ -35,11 +36,12 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337142,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi çevresel grafik tasarımının işlevlerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi çevresel grafik tasarımının işlevlerinden biri <u>değildir</u>?</strong>",
         "A": "Bilgi vermek",
         "B": "Yön bulmak",
         "C": "Satış yapmak",
@@ -47,14 +49,15 @@
         "E": "Mekânı tanımak",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 337144,
@@ -73,7 +76,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 337146,
@@ -92,7 +96,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337147,
@@ -104,18 +109,19 @@
         "E": "Mekânı yaşanır kılmak",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337149,
-        "SoruMetni": "I. Yalın işaretler<br/> <br/>II. Doğru noktalara konmuş bilgilendirmeler<br> <br/>III. Mekânla uyum sağlayan grafikler<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri çevre tasarımının grafik tasarım kapsamındaki işlevleri arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Yalın işaretler<br/>II. Doğru noktalara konmuş bilgilendirmeler<br/>III. Mekânla uyum sağlayan grafikler<br/><strong>Yukarıdakilerden hangisi ya da hangileri çevre tasarımının grafik tasarım kapsamındaki işlevleri arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve III",
@@ -123,14 +129,15 @@
         "E": "I, II ve III",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337150,
@@ -142,14 +149,15 @@
         "E": "Kimlik bilgisi",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337152,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 337154,
@@ -187,26 +196,28 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 346740,
-        "SoruMetni": "<strong> Aşağıdakilerden hangisi grafik tasarımcının görevlerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong> Aşağıdakilerden hangisi grafik tasarımcının görevlerinden biri <u>değildir</u>?</strong>",
         "A": "Düzenli ya da düzensiz yerleşke yapısı içerisinde insanların akışını kolaylaştırmak",
         "B": "Düzenli ya da düzensiz yerleşke yapısı içerisinde insanların yönelişini ve aradığını bulmasını kolaylaştırmak",
         "C": "Çevreye bir kimlik vermek, dokusuna uygun tasarımlar üretmek",
-        "D": "Grafik tasarımcısı çevre tasarımı yaparken en önemli hedefi izleyiciye/kullanıcıya gerekli bilgiyi doğru yerde ve doğru zamanda iletmek",
+        "D": "Grafik tasarımcısı çevre tasarımı yaparken en önemli hedefi izleyiciye/kullanıcıya gerekli bilgiyi doğru yerde ve doğru zamanda iletmek",
         "E": "Çevre tasarım çalışmalarında yer almamak",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 346741,
@@ -218,18 +229,19 @@
         "E": "Düzenleyici (kural) grafikler",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 346742,
-        "SoruMetni": "<strong>Düzenleyici grafikler çevreye ait kuralları gösteren tasarım elemanlarını içerir. Bu ifadeye göre yola çıkılarak  aşağıdakilerden hangisi \"Kural (Düzenleyici) Grafikler / İşaretler\" arasında <u>yer almaz</u>?</strong>",
+        "SoruMetni": "<strong>Düzenleyici grafikler çevreye ait kuralları gösteren tasarım elemanlarını içerir. Bu ifadeye göre yola çıkılarak aşağıdakilerden hangisi \"Kural (Düzenleyici) Grafikler / İşaretler\" arasında <u>yer almaz</u>?</strong>",
         "A": "Uyarıcı",
         "B": "Bilgi verici",
         "C": "Herhangi bir kuraldan bağımsız",
@@ -237,14 +249,15 @@
         "E": "Mekânı düzenleyici",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 346743,
@@ -256,18 +269,19 @@
         "E": "Geçmişini iletişim yoluyla kullanıcıya aktarmayı amaçlar.",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 408885,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi çevresel grafik tasarım olarak da adlandırdığımız çevre grafiği işlevlerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi çevresel grafik tasarım olarak da adlandırdığımız çevre grafiği işlevlerinden biri <u>değildir</u>?</strong>",
         "A": "Kimlik Grafikleri",
         "B": "Yön Grafikleri",
         "C": "Açı Grafikleri",
@@ -275,13 +289,14 @@
         "E": "Düzenleyici Grafikler",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     }
 ]

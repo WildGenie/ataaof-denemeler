@@ -16,11 +16,12 @@
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 310727,
-        "SoruMetni": "‘’Işıklı bir ortamda nesnelere düşen ışığın kırılarak göz retinasına odaklanmasıyla ………… başlar.’’<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "‘’Işıklı bir ortamda nesnelere düşen ışığın kırılarak göz retinasına odaklanmasıyla ………… başlar.’’<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "görme süreci",
         "B": "algılama süreci",
         "C": "bilme süreci",
@@ -28,14 +29,15 @@
         "E": "düşünme süreci",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 310728,
@@ -47,18 +49,19 @@
         "E": "Mercek",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 310729,
-        "SoruMetni": "“Gözün retina tabakasında yer alan ve düşük ışıkta (karanlıkta) görmemizi sağlayan çubuk hücreler görüntüyü ………………………… tonlarda görmemizi sağlarlar.”<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "“Gözün retina tabakasında yer alan ve düşük ışıkta (karanlıkta) görmemizi sağlayan çubuk hücreler görüntüyü ………………………… tonlarda görmemizi sağlarlar.”<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "kırmızı, yeşil ve mavi",
         "B": "mor",
         "C": "sarı",
@@ -66,14 +69,15 @@
         "E": "siyah-beyaz ve gri tonlarda",
         "DogruCevap": "E",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 310731,
@@ -85,14 +89,15 @@
         "E": "Jhannes Kepler",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 310733,
@@ -104,14 +109,15 @@
         "E": "Demokritos",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 310734,
@@ -123,14 +129,15 @@
         "E": "Rene Descartes",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 310735,
@@ -142,18 +149,19 @@
         "E": "Sokrates",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 313772,
-        "SoruMetni": "‘’Işık-göz ve nesne arasında bir dizi karmaşık fizyolojik işlemler sonrasında ………………………. oluşur.’’<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "‘’Işık-göz ve nesne arasında bir dizi karmaşık fizyolojik işlemler sonrasında ………………………. oluşur.’’<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "algı",
         "B": "görme",
         "C": "bilinç",
@@ -161,14 +169,15 @@
         "E": "duygu",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 313773,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 313774,
@@ -199,14 +209,15 @@
         "E": "Kırmızı-mavi-turuncu",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 313775,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 313776,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 313777,
@@ -256,14 +269,15 @@
         "E": "Tat alma duyusu",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 313778,
@@ -275,18 +289,19 @@
         "E": "Yargı",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 313779,
-        "SoruMetni": "<strong>Görmeyi hem nesnelerden hem de gözlerden çıkan ışığın karşılaşması ile oluşan “Görüş Akıntısı” olarak tanımlayan filozof aşağıdakilerden hangisidir ? </strong>",
+        "SoruMetni": "<strong>Görmeyi hem nesnelerden hem de gözlerden çıkan ışığın karşılaşması ile oluşan “Görüş Akıntısı” olarak tanımlayan filozof aşağıdakilerden hangisidir ? </strong>",
         "A": "Eflatun",
         "B": "Sokrates",
         "C": "Krotonlu Alkemeon",
@@ -294,14 +309,15 @@
         "E": "Öklid",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 313780,
@@ -320,7 +336,8 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 313781,
@@ -332,14 +349,15 @@
         "E": "Sir Isaac Newton",
         "DogruCevap": "E",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 343838,
@@ -351,14 +369,15 @@
         "E": "Descartes",
         "DogruCevap": "D",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 343840,
@@ -370,14 +389,15 @@
         "E": "Saydam tabaka",
         "DogruCevap": "D",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 343841,
@@ -389,18 +409,19 @@
         "E": "Damar tabaka",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 343842,
-        "SoruMetni": "Algıyı dokunma duyusuyla ilişkilendirerek bütün duyularımızın dokunma duyusunun değişik biçimleri olduğunu ileri sürerek ruh ve beden ilişkisini algılayan ve bilenin beden değil ruh olduğu tezini öne sürmen Antik Yunan filozofu, Leukippos ………… Teorisi'ni geliştirmiştir.<br/> <br/><strong>Yukarıdaki boşluğa aşağıdaki terimlerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Algıyı dokunma duyusuyla ilişkilendirerek bütün duyularımızın dokunma duyusunun değişik biçimleri olduğunu ileri sürerek ruh ve beden ilişkisini algılayan ve bilenin beden değil ruh olduğu tezini öne sürmen Antik Yunan filozofu, Leukippos ………… Teorisi'ni geliştirmiştir.<br/><strong>Yukarıdaki boşluğa aşağıdaki terimlerden hangisi getirilmelidir?</strong>",
         "A": "Işık",
         "B": "Atomculuk",
         "C": "Göz ışını",
@@ -408,18 +429,19 @@
         "E": "Bilgi",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 408138,
-        "SoruMetni": "<strong>Temel bilgilerimiz mantığın prensipleri gibi aklımızda doğuştan vardır. Dolayısı ile görüntünün bilgisinin de doğuştan geldiği söylenebilir görüşü aşağıdaki filozoflardan hangisine aittir?</strong>",
+        "SoruMetni": "<strong>Temel bilgilerimiz mantığın prensipleri gibi aklımızda doğuştan vardır. Dolayısı ile görüntünün bilgisinin de doğuştan geldiği söylenebilir görüşü aşağıdaki filozoflardan hangisine aittir?</strong>",
         "A": "Eflatun",
         "B": "Sokrates",
         "C": "Democritus",
@@ -427,13 +449,14 @@
         "E": "Aristotales",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     }
 ]

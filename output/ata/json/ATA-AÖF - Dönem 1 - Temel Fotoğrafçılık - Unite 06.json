@@ -16,11 +16,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 108643,
-        "SoruMetni": "I. Fotoğraf makinelerinin bütününde kullanılan diyafram tipidir.<br/> <br/>II. Metal levhalar objektif etrafında yer alan bir levhaya yerleştirilmiştir.<br> <br/>III. Objektif dışındaki kontrol halkasının hareket ettirilmesiyle, ince metal plakaların açılıp kapanmasıyla istenilen diyafram açıklığı elde edilir.<br> <br/><strong>Belirtilen özelliklerin ait olduğu diyafram türü aşağıdakilerden hangisidir?</strong> </br></br>",
+        "SoruMetni": "I. Fotoğraf makinelerinin bütününde kullanılan diyafram tipidir.<br/>II. Metal levhalar objektif etrafında yer alan bir levhaya yerleştirilmiştir.<br/>III. Objektif dışındaki kontrol halkasının hareket ettirilmesiyle, ince metal plakaların açılıp kapanmasıyla istenilen diyafram açıklığı elde edilir.<br/><strong>Belirtilen özelliklerin ait olduğu diyafram türü aşağıdakilerden hangisidir?</strong> </br></br>",
         "A": "Basit diyafram",
         "B": "Otomotik diyafram",
         "C": "Dijital diyafram",
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 108705,
@@ -54,11 +56,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 110755,
-        "SoruMetni": "Fotoğraf makinesinden giren ışık miktarını bir diyafram aracılığı ile kontrol etmek beraberinde ......................... de/da etkilemektedir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Fotoğraf makinesinden giren ışık miktarını bir diyafram aracılığı ile kontrol etmek beraberinde ......................... de/da etkilemektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "alan derinliğini",
         "B": "pozlama süresini",
         "C": "enstantene hızını",
@@ -73,7 +76,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 110946,
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 118628,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 118635,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 118643,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 118653,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 118662,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 118669,
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 118686,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 118714,
@@ -244,11 +256,12 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 118725,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi daha az alan derinliği veya sığ alan derinlik anlamında  kullanılmaktadır?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi daha az alan derinliği veya sığ alan derinlik anlamında kullanılmaktadır?</strong>",
         "A": "F/stop",
         "B": "Düşük f/stop sayısı",
         "C": "Yüksek f/stop sayısı",
@@ -263,11 +276,12 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 156124,
-        "SoruMetni": "<strong>Bir fotoğrafta net olarak görülen alanı ifade eden kavram aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Bir fotoğrafta net olarak görülen alanı ifade eden kavram aşağıdakilerden hangisidir?</strong>",
         "A": "ISO",
         "B": "Enstantane",
         "C": "Diyafram boyutu",
@@ -282,7 +296,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 156137,
@@ -301,7 +316,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 156142,
@@ -320,7 +336,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 156148,
@@ -339,7 +356,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 156156,
@@ -358,7 +376,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 156195,
@@ -377,7 +396,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 156197,
@@ -396,7 +416,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 326248,
@@ -415,7 +436,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 327745,
@@ -434,7 +456,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 327786,
@@ -453,7 +476,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 327791,
@@ -472,11 +496,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 331162,
-        "SoruMetni": "I. Diyafram değeri (ışığın giriş aralığının genişliği)<br/> <br/>II. ISO değeri (sensörün ışığa duyarlılık düzeyi)<br> <br/>III. Enstantane değeri (ışığın giriş süresi)<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri fotoğraf makinelerinde temel pozlama ayarları arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Diyafram değeri (ışığın giriş aralığının genişliği)<br/>II. ISO değeri (sensörün ışığa duyarlılık düzeyi)<br/>III. Enstantane değeri (ışığın giriş süresi)<br/><strong>Yukarıdakilerden hangisi ya da hangileri fotoğraf makinelerinde temel pozlama ayarları arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -491,11 +516,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 363610,
-        "SoruMetni": "Diyafram açıldığında yani rakamsal olarak küçüldüğünde ........... azalır. Sadece netlenen obje görünür.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Diyafram açıldığında yani rakamsal olarak küçüldüğünde ........... azalır. Sadece netlenen obje görünür.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "alan ışığı",
         "B": "alan karanlığı",
         "C": "alan beyazlığı",
@@ -510,11 +536,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 363611,
-        "SoruMetni": "Diyafram iki temel amaçla kullanılır.<br/> <br/><strong>Aşağıdakilerden hangisinde bu iki temel amaç doğru şekilde verilmiştir?</strong>",
+        "SoruMetni": "Diyafram iki temel amaçla kullanılır.<br/><strong>Aşağıdakilerden hangisinde bu iki temel amaç doğru şekilde verilmiştir?</strong>",
         "A": "Işığın yoğunluğu/Net alan derinliği",
         "B": "Işığın zayıflığı/Net alan derinliği",
         "C": "Işığın yansıması/Silüet alan derinliği",
@@ -529,11 +556,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 364616,
-        "SoruMetni": "Bir nesnenin görüntüsünün istenilen biçimde çekilmesi için cisimlerin üzerine düşen ya da etrafındaki ışık miktarını ayarlamak için enstantane ayarına uygun bir ............ ayarı yapılmalıdır. <br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Bir nesnenin görüntüsünün istenilen biçimde çekilmesi için cisimlerin üzerine düşen ya da etrafındaki ışık miktarını ayarlamak için enstantane ayarına uygun bir ............ ayarı yapılmalıdır. <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "flaş",
         "B": "vibrasyon düğmesi",
         "C": "diyafram",
@@ -548,11 +576,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 366239,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi bütün dijital fotoğraf makinelerinde kullanılan bir özelliğe sahiptir? </strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi bütün dijital fotoğraf makinelerinde kullanılan bir özelliğe sahiptir? </strong>",
         "A": "Gelişmiş diyafram",
         "B": "Otomatik kontrollü diyafram",
         "C": "Uzun diyafram",
@@ -567,6 +596,7 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     }
 ]

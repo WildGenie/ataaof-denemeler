@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"text-decoration: underline;\"><strong>Karma Marka:</strong></span> Markanın hem sözcüklerden hem de resimlerden oluştuğu markadır. Örneğin,  BMW’nin mavi beyaz çemberli logosu ve adı gibi karma markalar vardır."
+        "Aciklama": "<span style=\"text-decoration: underline;\"><strong>Karma Marka:</strong></span> Markanın hem sözcüklerden hem de resimlerden oluştuğu markadır. Örneğin, BMW’nin mavi beyaz çemberli logosu ve adı gibi karma markalar vardır."
     },
     {
         "SoruID": 3862116,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tescilsiz Marka: Markanın resmî olarak kaydedilmediği ancak kullanım hakkına sahip olduğu markadır. Tescilsiz markalar, TM işareti ile gösterilir. Örneğin, <span style=\"text-decoration: underline;\"><strong>Google</strong></span> <span style=\"font-size: 8pt;\">TM</span> gibi tescilsiz markalar vardır. Burada bulunan “TM” İngilizce “Trade Mark” kelimelerinin ilk harfleridir. TM markanın tescil başvurusu yapıldığını ifade eden bir açılımı temsil eder."
+        "Aciklama": "Tescilsiz Marka: Markanın resmî olarak kaydedilmediği ancak kullanım hakkına sahip olduğu markadır. Tescilsiz markalar, TM işareti ile gösterilir. Örneğin, <span style=\"text-decoration: underline;\"><strong>Google</strong></span> <span style=\"font-size: 8pt;\">TM</span> gibi tescilsiz markalar vardır. Burada bulunan “TM” İngilizce “Trade Mark” kelimelerinin ilk harfleridir. TM markanın tescil başvurusu yapıldığını ifade eden bir açılımı temsil eder."
     },
     {
         "SoruID": 3862119,
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3862123,
-        "SoruMetni": "Markalaşma ile ilgili aşağıdaki seçeneklerden hangisi doğrudur?<br/><br/>Markalaşma:<br/><br/>I. Bir markanın bilinirliğini artırmak, tüketici zihinlerinde olumlu bir imaj oluşturmak ve marka değerini yükseltmek için yapılan stratejik çalışmalardır.<br/><br/>II. Markanın gelecekte ulaşmak istediği hedefleri ve değerleri tanımlar.<br/><br/>III. Bir ürünün veya hizmetin marka olma sürecini ifade eder.<br/><br/>IV. Markanın oluşturulmasından, konumlandırılmasına, pazarlama iletişimine kadar bir dizi adımı içerir.<br/><br/>V. Temelde farklılaşmaya dayanan bir rekabet stratejisinin önemli bir bileşenidir.",
+        "SoruMetni": "Markalaşma ile ilgili aşağıdaki seçeneklerden hangisi doğrudur?<br/>Markalaşma:<br/>I. Bir markanın bilinirliğini artırmak, tüketici zihinlerinde olumlu bir imaj oluşturmak ve marka değerini yükseltmek için yapılan stratejik çalışmalardır.<br/>II. Markanın gelecekte ulaşmak istediği hedefleri ve değerleri tanımlar.<br/>III. Bir ürünün veya hizmetin marka olma sürecini ifade eder.<br/>IV. Markanın oluşturulmasından, konumlandırılmasına, pazarlama iletişimine kadar bir dizi adımı içerir.<br/>V. Temelde farklılaşmaya dayanan bir rekabet stratejisinin önemli bir bileşenidir.",
         "A": "I, II, III ve IV",
         "B": "I, III, IV ve V",
         "C": "I, II, IV ve V",
@@ -117,11 +117,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Markalaşma:<br/><br/>B seçeneği dışındakiler markalaşma ile ilgili olup. B seçeneği kurum vizyonunu tanımlayan bir ifadedir."
+        "Aciklama": "Markalaşma:<br/>B seçeneği dışındakiler markalaşma ile ilgili olup. B seçeneği kurum vizyonunu tanımlayan bir ifadedir."
     },
     {
         "SoruID": 3862125,
-        "SoruMetni": "Markanın ismi, logo, renkler, tipografi ve diğer görsel ögelerin tasarlanması süreçlerini içeren ve  bu ögelerle markanın tanınabilirliğini ve ayırt ediciliğini artıran bileşen aşağıdakilerden hangisidir?",
+        "SoruMetni": "Markanın ismi, logo, renkler, tipografi ve diğer görsel ögelerin tasarlanması süreçlerini içeren ve bu ögelerle markanın tanınabilirliğini ve ayırt ediciliğini artıran bileşen aşağıdakilerden hangisidir?",
         "A": "Marka Kimliği Oluşturma",
         "B": "Marka Stratejisi ve Konumlandırma",
         "C": "Marka Farkındalığı ve Tanıtım",
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 3862244,
-        "SoruMetni": "Genellikle bir kamu kuruluşunu, özel sektör firmasını veya toplumun bir bölümünü ifade eden kavram aşağıdakilerden hangisidir?<br/>",
+        "SoruMetni": "Genellikle bir kamu kuruluşunu, özel sektör firmasını veya toplumun bir bölümünü ifade eden kavram aşağıdakilerden hangisidir?",
         "A": "Kuruluş",
         "B": "Marka",
         "C": "Örgüt",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kurum"
+        "Aciklama": "<strong>Kurum:</strong> Genellikle bir kamu kuruluşunu, özel sektör firmasını veya toplumun bir bölümünü ifade eder."
     },
     {
         "SoruID": 3862245,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Marka"
+        "Aciklama": "<strong>Marka,</strong> sadece bir isim veya logo değil aynı zamanda bir işletmenin değerlerini, kalitesini, benzersizliğini ve müşterilere sunduğu vaatleri yansıtan bir varlıktır."
     },
     {
         "SoruID": 3862246,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hayvancılık"
+        "Aciklama": "“BRAND” (marka) kelimesi eski İskandinav dilinde yer alan “BRANDR” (yakmak) kökünden gelir.<br/>O dönemde, çiftçilerin <strong>hayvanlarına belirgin işaretler koyarak</strong> onları tanımlamaları, markalama pratiğinin <strong>ilk örneklerindendir.</strong><br>Hayvancılık"
     },
     {
         "SoruID": 3862247,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hedef kitle olarak marka"
+        "Aciklama": "Markanın, ürün olarak marka, kurum/kuruluş olarak marka, kişi olarak marka ve sembol olarak<br/>marka gibi farklı kullanım şekilleri bulunmaktadır. Bu kavramlar, markanın farklı yönlerini ve kullanım<br/>şekillerini temsil eder. <strong>Ürün olarak marka, Kişi olarak marka, Sembol olarak marka, Kurum/Kuruluş olarak marka.</strong> Detaylı sayfa 37. bkz.<br>Hedef kitle olarak marka"
     },
     {
         "SoruID": 3862248,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İnovasyon ve Uyarlanabilirlik"
+        "Aciklama": "<strong>İnovasyon ve Uyarlanabilirlik:</strong> Başarılı markalar zamanla değişen pazar koşullarına ayak uydurabilir ve yeniliklere açık olabilir. İnovasyon ve uyarlanabilirlik, markanın uzun vadeli başarısını destekler."
     },
     {
         "SoruID": 3862249,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karma Marka"
+        "Aciklama": "<u>“Markanın Kapsamına Göre Marka Türleri; </u><strong>Ortak Marka, Aile Markası, Bireysel Marka ve Kurumsal Marka'dır.</strong> <em>Karma Marka </em>Markanın Biçimine Göre olan Marka Türlerindendir."
     },
     {
         "SoruID": 3862250,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karma Marka"
+        "Aciklama": "<strong>Karma Marka:</strong> Markanın hem sözcüklerden hem de resimlerden oluştuğu markadır. Örneğin,<br/>Pepsi’nin mavi kırmızı yuvarlak logosu ve adı, BMW’nin mavi beyaz çemberli logosu ve adı gibi karma<br/>markalar vardır."
     },
     {
         "SoruID": 3862251,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "C"
+        "Aciklama": "marka logolarının yanında karşılaşılması muhtemel <strong>“C”</strong> harfi ise, <strong>“Copyright”</strong> yani telif hakkı<br/>anlamına gelir. Bu simge, bir eserin telif hakkının sahibine ait olduğunu ve eserin izinsiz kullanılmasının yasak olduğunu belirtir. <em>Özellikle yazılı eserler, resimler, müzikler gibi yaratıcı çalışmalar</em> için kullanılır."
     },
     {
         "SoruID": 3862252,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Rekabet"
+        "Aciklama": "Marka kimliği, diğer benzer ürünlerden farklılaşmayı yaratan, tüketiciye ürünü sahip olma,<strong> tutarlılık</strong><br/><strong>ve güven, duygusal bağ, markayı diğer tüketiciler ile paylaşma duygularını</strong> veren, üretici için ise pazarda güçlü bir konumlandırma olanağı sunan bir kavram olarak tanımlanmıştır.<br>Rekabet"
     },
     {
         "SoruID": 3862253,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Marka Konumlandırması"
+        "Aciklama": "<strong>Marka konumlandırması:</strong> Marka mimarisinin temel bir bileşenidir ve markanın hedef kitlesi içinde nasıl algılandığını, hangi pazar segmentlerine hitap ettiğini ve rakiplerine göre nasıl farklılaştığını belirleme sürecini ifade eder."
     }
 ]

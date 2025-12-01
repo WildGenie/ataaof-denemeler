@@ -1,24 +1,31 @@
 # Atatürk İlkeleri ve İnkılap Tarihi I (Dönem 3) - Tüm Sorular
 
 ## Unite 1
-1. 17. yüzyıldaki siyasi kriz (meşruiyet) Osmanlı Devleti’nin egemenlik anlayışını zorlamıştır. Yeniçerilerin, II. Osman’ı katletmesi ile de bir düşünce yıkılmıştır.<br />Yukarıdaki metinde bahsedilen düşünce aşağıdakilerden hangisidir?
-    - **Cevap A-) Sultanın  dokunulmaz olması**
+1. 17\. yüzyıldaki siyasi kriz (meşruiyet) Osmanlı Devleti’nin egemenlik anlayışını zorlamıştır. Yeniçerilerin, II. Osman’ı katletmesi ile de bir düşünce yıkılmıştır.<br />Yukarıdaki metinde bahsedilen düşünce aşağıdakilerden hangisidir?
+    - **Cevap A-) Sultanın dokunulmaz olması**
     - B-) Sultan değişebilir olması
     - C-) Sultanın sefere çıkması
     - D-) Sultan cülüs dağıtması
     - E-) Yeniçerilerin dokunulmaz olması
 
-    > **Açıklama:** Sultanın dokunulmaz olması
+    > **Açıklama:** 17\. yüzyıl’daki siyasi kriz (meşruiyet) Osmanlı
+    > Devleti’nin egemenlik anlayışını zorlamıştır.
+    > Yeniçeriler, II. Osman’ı katlettiğinde
+    > dokunulmaz sultan imgesini de yıkmışlardır.
+    > Sultanın dokunulmaz olması
 
     ***
-1. Osmanlı tarihinde padişahın tahta çıkması ile ilgili veraset sistemi ilk<br />kez  nasıl değiştirmiştir?
-    - A-) Valıde sultanın  arzusu ile
+1. Osmanlı tarihinde padişahın tahta çıkması ile ilgili veraset sistemi ilk<br />kez nasıl değiştirmiştir?
+    - A-) Valıde sultanın arzusu ile
     - B-) Padişahın fermanı ile
-    - C-) Yeniçerilerin  baskısı ile
+    - C-) Yeniçerilerin baskısı ile
     - D-) Sultanların isyanın haklı bulunması ile
     - **Cevap E-) Sultanın oğlu yerine kardeşinin getirilmesi ile**
 
-    > **Açıklama:** Sultanın oğlu yerine kardeşinin getirilmesi ile
+    > **Açıklama:** Osmanlı tarihinde ilk
+    > kez sultanın oğlu yerine kardeşi Mustafa’yı
+    > tahta çıkartmış ve veraset sistemini değiştirmiştir
+    > Sultanın oğlu yerine kardeşinin getirilmesi ile
 
     ***
 1. 18 yüzyılda değişmez düzen(nizam) karşısında ilk defa Nizam-ı Cedit terimini kullanan yazar aşağıdaki seçeneklerden hangisidir?
@@ -28,37 +35,55 @@
     - **Cevap D-) İbrahim Müteferrika**
     - E-) Evliya çelebi
 
-    > **Açıklama:** İbrahim Müteferrika
+    > **Açıklama:** İbrahim Müteferrika, Nizam-ı Cedit terimini
+    > ilk kullanan yazardır. Bu yönüyle değişmez düzen
+    > (nizam) karşısında ilk defa yeni düzen anlayışını
+    > dile getirir. Kâtip Çelebi’nin 17. yüzyılda dile getiremediği
+    > yeni kavramı, yani yeni düzen anlayışını
+    > onun izinden giden Müteferrika 18. yüzyılda dile
+    > getirebilmiştir.
 
     ***
-1. Lale devrin de gerçekleştirilen önemli uygulamalardan  biri aşağıdaki seçeneklerden  hangisidir?
+1. Lale devrin de gerçekleştirilen önemli uygulamalardan biri aşağıdaki seçeneklerden hangisidir?
     - A-) Lale yetiştiriciliğinin artması
     - B-) Tüfeğin icadı
     - **Cevap C-) Matbaanın açılması**
     - D-) Demokratik düzene geçiş
     - E-) Padişahın yetkilerinin sınırlandırılması
 
-    > **Açıklama:** Matbaanın açılması
+    > **Açıklama:** Lale Devri, Yirmisekiz Çelebi Mehmet ve
+    > Müteferrika’nın etkisinde gelişen bir dönemdir. Bu
+    > dönemde yüz kadar şair ve yazar yetişmiş bir çeviri
+    > heyeti kurulmuş, matbaa açılmış ve Batı’nın hiç olmazsa
+    > yüzyıl önceki ilmiyle temasa geçilmiş, Avrupa
+    > ile bilimsel anlamda da bir ilişki başlamıştır.
+    > Matbaanın açılması
 
     ***
-1. Osmanlı Devleti’nin etrafındaki dünya ile münasebeti açısından  Paris, Viyana ve Berlin’de daimi ikamet elçiliklerini hangi padişah kurmuştur ?
+1. Osmanlı Devleti’nin etrafındaki dünya ile münasebeti açısından Paris, Viyana ve Berlin’de daimi ikamet elçiliklerini hangi padişah kurmuştur ?
     - A-) III Mustafa
     - **Cevap B-) III Selim**
     - C-) I Abdülhamit
     - D-) Kanuni Sultan Süleyman
     - E-) II Osman
 
-    > **Açıklama:** III Selim
+    > **Açıklama:** III. Selim’in Osmanlı Devleti’nin etrafındaki dünya ile münasebeti açısından belki de en önemli girişimi,
+    > 1793’te Londra ve 1797’de Paris, Viyana ve Berlin’de daimi ikamet elçiliklerini kurmasıdır. Elçilikler
+    > Osmanlı dışındaki dünyada olup biten siyasi, ekonomik, askerî ve bilimsel gelişmeyi yakından takip ederek
+    > Osmanlı Devleti’nin dönüşümünde öncü rol oynayan modernleşmenin etkili birer aktörleridir.
+    > III Selim
 
     ***
-1. Tanzimat’ın ilanı hangi  Osmanlı Sultanı Dönemi’nde gerçekleşmiştir?
+1. Tanzimat’ın ilanı hangi Osmanlı Sultanı Dönemi’nde gerçekleşmiştir?
     - A-) II Mustafa
     - B-) II Mahmut
     - **Cevap C-) Sultan Abdülmecit**
     - D-) I Vahdettin
     - E-) III selim
 
-    > **Açıklama:** Sultan Abdülmecit
+    > **Açıklama:** Tanzimat’ın ilanı Abdülmecit
+    > Dönemi’nde (1839-1861) gerçekleşti.
+    > Sultan Abdülmecit
 
     ***
 1. Aşağıdaki seçeneklerden hangisi Tanzimat Fermanı'nın getirdiği yeniliklerden biri değildir?
@@ -68,7 +93,12 @@
     - **Cevap D-) Verginin herkesten eşit alınması**
     - E-) Irk ve din temeline bakmadan tüm vatandaşların eşit kabul edilmesi
 
-    > **Açıklama:** Doğru olan, Verginin herkesin gücü nispetinde tahsil edilmesi ve kimseden fazladan bir şey istenmemesi
+    > **Açıklama:** Tanzimat Fermanı bir yandan can, mal, namus
+    > güvenliğini temin ederek keyfi el koymalara son verirken,
+    > diğer yandan Müslüman üstünlüğüne dayalı
+    > sistemden ırk ve din temeline bakmadan tüm vatandaşların
+    > eşitliği yolunda ilk adımın atılmasını sağladı
+    > Doğru olan, Verginin herkesin gücü nispetinde tahsil edilmesi ve kimseden fazladan bir şey istenmemesi
 
     ***
 1. Kanun-i Esasi hükümlerine uyacağına, vatan ve millete sadakat edeceğine dair yemin etmesi şartı ile; padişahlığı meclis tarafından onaylanan ve mecliste yemin eden ilk padişah kimdir?
@@ -78,7 +108,12 @@
     - D-) Yavuz Sultan Selim
     - **Cevap E-) V. Mehmet Reşat**
 
-    > **Açıklama:** V. Mehmet Reşat
+    > **Açıklama:** Değişikliklerle padişahın tahta çıkışında Meclisi
+    > Umumide Şer’i
+    > Şerif ve Kanuni
+    > Esasi hükümlerine uyacağına, vatan ve millete sadakat edeceğine dair yemin etmesi şartı
+    > getirilmiştir. V. Mehmet Reşat, Padişahlığı meclis tarafından onaylanan ve mecliste yemin eden ilk padişah
+    > olmuştur.
 
     ***
 1. Osmanlı Devleti’nin ilk siyasi ideolojisi aşağıdaki seçeneklerden hangisidir.
@@ -94,14 +129,16 @@
     > Abdülhamit Dönemi, İttihat ve Terakki Dönemi olmak üzere üç dönemde değerlendirilebilir.
 
     ***
-1. Osmanlıcılık ne zaman  iflas etmiş<br />bir ideoloji olarak görülmüştür.
+1. Osmanlıcılık ne zaman iflas etmiş<br />bir ideoloji olarak görülmüştür.
     - A-) Cumhuriyetin kuruluşu
     - B-) Kurtuluş savaşı başlaması ile
     - **Cevap C-) Balkan savaşlarından sonra**
-    - D-) Osmanlının  çöküşü ile
-    - E-) Tanzimatın ilanı  sonucunda
+    - D-) Osmanlının çöküşü ile
+    - E-) Tanzimatın ilanı sonucunda
 
-    > **Açıklama:** Balkan savaşlarından sonra
+    > **Açıklama:** Balkan Savaşları sonrasında Osmanlıcılık iflas etmiş
+    > bir ideoloji olarak görülmüştür.
+    > Balkan savaşlarından sonra
 
     ***
 1. ..........,Türkçülüğün Osmanlı entelektüel dünyasında karşılık bulmasında etkili olan isimlerden biridir.
@@ -111,7 +148,7 @@
     - D-) Said Halim Paşa,
     - **Cevap E-) Gaspıralı İsmail**
 
-    > **Açıklama:** Gaspıralı İsmail
+    > **Açıklama:** Gaspıralı İsmail, Türkçülüğün Osmanlı entelektüel dünyasında karşılık bulmasında etkili olan isimlerden biridir
 
     ***
 1. ............. düşüncesi erken Cumhuriyet Dönemi’nin ideolojik temellerinden birisini oluşturmuştur.
@@ -121,7 +158,7 @@
     - D-) İnsanlık
     - E-) Osmanlıcılık
 
-    > **Açıklama:** Türkçülük
+    > **Açıklama:** Türkçülük düşüncesi erken Cumhuriyet Dönemi’nin ideolojik temellerinden birisini oluşturmuştur.
 
     ***
 1. Aşağıdaki seçeneklerden hangisi Türkçülük edebiyatı altıda etkili olan yazarlardan biri **değildir?**
@@ -131,47 +168,62 @@
     - D-) Ziya Gökalp
     - E-) Ahmet Ağaoğlu,
 
-    > **Açıklama:** Abdullah Cevdet,
+    > **Açıklama:** Türk Yurdu, Yeni Mecmua gibi dergiler, Şûrayı Ümmet ve Tanin gibi gazeteler tarafından yoğun biçimde tartışılan kültürel ve siyasal Türkçülük, edebiyat alanında da etkili oldu ve Genç Kalemler (Selanik) gibi dergi ve yayınlarla bu alanda ciddi bir değişimi gerçekleştirdi. Emile Durkheim’den etkilenen Ziya Gökalp, Türkçülüğün sosyolojik bir çerçeveye oturtulmasında, Ahmet Ağaoğlu, Yusuf Akçura ve Hüseyinzâde Ali beyler Osmanlı Devleti dışında yaşayan Türkleri de kapsayan bir Türk dünyası ve Türklük fikrinin kavramsallaştırılmasında, Ömer Seyfettin ve Mehmet Emin beyler sadeleştirilmiş dil ve Türkçü edebiyat tezlerinin oluşturulmasında öncü roller oynamıştır. Ziya Gökalp 1913’te Türk Yurdu’nda neşrettiği “Türkleşmek, İslâmlaşmak, Muâsırlaşmak” başlıklı çalışmasında, bilhassa İslâm Mecmuası’nda ve Yeni Hayat kitabında Türkleştirilmiş bir İslam, “Türk-İslam harsı” tezini işlemiştir. Bu yayınlarda İslam’ın Türkleştiri
+    > Abdullah Cevdet,
 
     ***
-1. Osmanlıcılık,................  itibaren millet tanımına giren halkların yaşadıkları topraklar üzerinde kendi devletlerini kurmak istemeleriyle ilgili gelişmeyi önlemeye yönelik siyasi bir akım olarak ortaya çıkmıştır.
-    - **Cevap A-) 19. yüzyılın ilk çeyreğinden**
-    - B-) 17. yüz yılın son çeyreğinden
-    - C-) 20. yüz yılın başlarında
-    - D-) 18. yüz yılın ortalarından
-    - E-) 19. yüzyılın sonlarında
+1. Osmanlıcılık,................ itibaren millet tanımına giren halkların yaşadıkları topraklar üzerinde kendi devletlerini kurmak istemeleriyle ilgili gelişmeyi önlemeye yönelik siyasi bir akım olarak ortaya çıkmıştır.
+    - **Cevap A-) 19\. yüzyılın ilk çeyreğinden**
+    - B-) 17\. yüz yılın son çeyreğinden
+    - C-) 20\. yüz yılın başlarında
+    - D-) 18\. yüz yılın ortalarından
+    - E-) 19\. yüzyılın sonlarında
 
-    > **Açıklama:** 19. yüzyılın ilk çeyreğinden
+    > **Açıklama:** Osmanlıcılık, 19. yüzyılın ilk çeyreğinden itibaren böyle bir gelişmeyi önlemeye yönelik siyasi bir akım olarak
+    > ortaya çıkmıştır.
 
     ***
-1. (1882) Üçlü İttifak antlaşması hangi devletler arasında imzalandı.
+1. (1882) Üçlü İttifak antlaşması hangi devletler arasında imzalandı.
     - **Cevap A-) Almanya, İtalya ve Avusturya-Macaristan**
     - B-) Almanya, Fransa ve Avusturya-Macaristan
     - C-) Fransa, İtalya ve Avusturya-Macaristan
     - D-) Almanya, Bulgaristan ve Avusturya-Macaristan
     - E-) Almanya, İtalya ve Osmanlı imparatorluğu
 
-    > **Açıklama:** Almanya, İtalya ve Avusturya-Macaristan
+    > **Açıklama:** Üçlü İttifak (1882)
+    > 1882’de Almanya, İtalya ve Avusturya-Macaristan
+    > arasında Üçlü İttifak antlaşması imzalandı.
+    > Üçlü İttifak İtalya’nın teşebbüsü ile gerçekleşmiştir.
+    > Fransa’nın Cezayir’den sonra ani bir hamle ile
+    > Osmanlı himayesinde olan Tunus’u da işgal etmesi
+    > Kuzey Afrika’da sömürge arayışı içinde olan İtalya’yı
+    > rahatsız etmiştir. Bir yandan Fransa korkusu diğer
+    > yandan da sömürgecilik yapabilmesi için sırtını Almanya
+    > gibi büyük bir devlete dayama zorunluluğu,
+    > İtalya’yı Almanya ile ittifak istemeye yöneltti.
 
     ***
 1. Sanayi Devrimi’ni yaşayan Avrupalı olmayan<br />tek ülke aşağıdaki seçeneklerden hangisidir
     - A-) İran
-    - B-) Osmanlı  imparatorluğu
+    - B-) Osmanlı imparatorluğu
     - C-) Çin
     - **Cevap D-) Japonya**
     - E-) Kore
 
-    > **Açıklama:** Japonya
+    > **Açıklama:** Sanayi Devrimi’ni yaşayan Avrupalı olmayan
+    > tek ülkedir.
+    > Japonya
 
     ***
 1. Makedonya’yı ele geçirme noktasında<br />Osmanlı Devleti’ne karşı birleşen balkan devletleri aşağıdaki seçeneklerden hangisidir?
-    - A-) Bulgaristan, Arnavutluk   ve Yunanistan
-    - B-) Romanya, Sırbistan   ve Yunanistan
-    - C-) Bulgaristan, Sırbistan   ve Karadağ
-    - D-) Bulgaristan, Hırvatistan   ve Yunanistan
-    - **Cevap E-) Bulgaristan, Sırbistan   ve Yunanistan**
+    - A-) Bulgaristan, Arnavutluk ve Yunanistan
+    - B-) Romanya, Sırbistan ve Yunanistan
+    - C-) Bulgaristan, Sırbistan ve Karadağ
+    - D-) Bulgaristan, Hırvatistan ve Yunanistan
+    - **Cevap E-) Bulgaristan, Sırbistan ve Yunanistan**
 
-    > **Açıklama:** Bulgaristan, Sırbistan
+    > **Açıklama:** İtalyanların Osman Devleti ile savaşa tutuşmasını
+    > fırsat bilen Balkan devletleri Bulgaristan, Sırbistan
     > ve Yunanistan
 
     ***
@@ -182,7 +234,16 @@
     - D-) Karadağ Krizi
     - E-) Arnavutluk Krizi
 
-    > **Açıklama:** Bosna–Hersek krizi
+    > **Açıklama:** Bosna–Hersek krizi I.
+    > Dünya Savaşı’nın tohumlarını ekmiştir. Avusturya
+    > ve Rusya Balkanlarda ölümüne bir mücadele içine
+    > girmişlerdir. Rusya, Balkanların Slav devletlerini
+    > bir Balkan Ligi içinde birleştirerek Avusturya’ya
+    > karşı bir set oluşturma faaliyeti içine girmiştir ve
+    > 1912-1913 Balkan Savaşları bu faaliyetin sonucu
+    > ortaya çıkmıştır. 28 Haziran 1914’te Saraybosna’da
+    > gerçekleşen suikast I. Dünya Savaşı’nın patlak vermesine
+    > bahane oldu (Armaoğlu, 1997
 
     ***
 1. Aşağıdakilerden hangisi 17. Yüzyılda Osmanlı Devleti’nde, ıslahat raporlarının kaleme alınmasının nedenlerinden biri değildir?
@@ -192,7 +253,8 @@
     - D-) Ticaret yollarının ve dünya ekonomik sisteminin değişmesinin, gümrük gelirlerinin azalmasına neden olması
     - **Cevap E-) Emperyalist politikalar izleyen büyük devletler arasında, Türklerin Anadolu’dan atılma meselesinin yaygınlaşması**
 
-    > **Açıklama:** “Emperyalist politikalar izleyen büyük devletler arasında, Türklerin Anadolu’dan atılma meselesinin yaygınlaşması” 17. Yüzyılda Osmanlı Devleti’nde, ıslahat raporlarının kaleme alınmasının nedenlerinden biri değildir. “Türklerin Anadolu’dan atılması” (Şark Meselesi/Doğu Sorunu), başta İngiltere, Fransa ve Rusya gibi büyük güçlerin, 1774 Küçük Kaynarca Antlaşması sonrasında Osmanlı Devleti’ni Hasta Adam ilan edip İmparatorluğu parçalamaya ve paylaşmaya yönelik planıdır. Doğu sorunun özünde Türklerin Anadolu’dan atılması ve İmparatorluk topraklarının her ülkenin kendi menfaatlerine en uygun şekilde parçalanması ve paylaşılması yatar.
+    > **Açıklama:** ISLAHATTAN YENİLEŞMEYE: BİR İMPARATORLUĞUN DÖNÜŞÜMÜ
+    > “Emperyalist politikalar izleyen büyük devletler arasında, Türklerin Anadolu’dan atılma meselesinin yaygınlaşması” 17. Yüzyılda Osmanlı Devleti’nde, ıslahat raporlarının kaleme alınmasının nedenlerinden biri değildir. “Türklerin Anadolu’dan atılması” (Şark Meselesi/Doğu Sorunu), başta İngiltere, Fransa ve Rusya gibi büyük güçlerin, 1774 Küçük Kaynarca Antlaşması sonrasında Osmanlı Devleti’ni Hasta Adam ilan edip İmparatorluğu parçalamaya ve paylaşmaya yönelik planıdır. Doğu sorunun özünde Türklerin Anadolu’dan atılması ve İmparatorluk topraklarının her ülkenin kendi menfaatlerine en uygun şekilde parçalanması ve paylaşılması yatar.
 
     ***
 1. Aşağıdakilerden hangisi 17. yüzyıldan itibaren Osmanlı Devletinde görülen ıslahat ve reform çabalarının nedenleri arasında gösterilemez?
@@ -245,8 +307,8 @@
     > **Açıklama:** Doğru cevap Sene-i İttifaktır
 
     ***
-1. Aşağıdakilerden hangisi Osmanlı yöneticilerinin devleti ve toplumu ıslah etme ihtiyacının sebeplerinden biri değildir?
-    - A-) 16. yüzyıldan itibaren temel ticaret rotalarındaki değişiklik nedeni ile yaşanan ekonomik krizin sosyo-ekonomik yapıya olumsuz etkileri
+1. Aşağıdakilerden hangisi Osmanlı yöneticilerinin devleti ve toplumu ıslah etme ihtiyacının sebeplerinden biri değildir?
+    - A-) 16\. yüzyıldan itibaren temel ticaret rotalarındaki değişiklik nedeni ile yaşanan ekonomik krizin sosyo-ekonomik yapıya olumsuz etkileri
     - B-) Çocuk yaşta kişilerin padişah olmasının merkezî yönetimi zaafa düşürmesi
     - C-) Askerlikle ilgisi olmayan kişilerin ocağa alınması ile birlikte Yeniçeri Ocağı'nın bozulması
     - D-) Medreselerden mezun olan öğrencilerin iş bulamayınca yol kesmeye ve soyguna başlaması
@@ -255,7 +317,7 @@
     > **Açıklama:** Ticaret yollarının değişmesine paralel olarak dünya ekonomik sisteminin değişmesi, gümrük gelirlerinin **artmasına değil azalmasına neden olmuştur.** Mali güçlükleri aşmak için paranın değerinin düşürülmesi isyanların çıkmasına neden olmuş; Celali İsyanlarının neredeyse yüz yıl sürmesi Anadolu kırsalında toplumsal yaşamı felç etmiştir.
 
     ***
-1. 'İmparatorluğu askerî bir imparatorluktan bürokratik bir devlete dönüştürmeye çalışan, Tanzimat’tan sonraki dönemde genellikle basım yayım yoluyla şekillenmiş insanlar ve dönem' olarak nitelendirilen kâtip sınıfı aşağıdakilerden hangisidir?
+1. 'İmparatorluğu askerî bir imparatorluktan bürokratik bir devlete dönüştürmeye çalışan, Tanzimat’tan sonraki dönemde genellikle basım yayım yoluyla şekillenmiş insanlar ve dönem' olarak nitelendirilen kâtip sınıfı aşağıdakilerden hangisidir?
     - A-) Çelebiler Çağı
     - B-) Sefirler ve Reîsülküttâplar Çağı
     - **Cevap C-) Kahramanlar Çağı**
@@ -292,7 +354,7 @@
     > Yeniçeri isyanları, merkezî idareyi zaafa uğratan zorba idareciler ve âyanların merkezî idareye boyun eğmesi, Sırp ve Yunan milliyetçi ayaklanmaları, İran ve Rus savaşları ve özellikle Mısır Valisi Mehmet Ali Paşa’nın isyanı **II. Mahmut devrini tamamen işgal eden önemli gelişmeler arasındadır.**
 
     ***
-1. Tanzimat’ın ilanı hangi Osmanlı padişahı tarafından gerçekleştirilmiştir?
+1. Tanzimat’ın ilanı hangi Osmanlı padişahı tarafından gerçekleştirilmiştir?
     - A-) III. Selim
     - B-) II. Mahmut
     - C-) I. Abdülhamit
@@ -322,14 +384,14 @@
     > **Açıklama:** **Ruslar,** Berlin Antlaşması’nda (1878), Ermeni sorununu uluslararası bir sorun olarak gündeme getirdi ve Ermeni isyanlarını destekleyen ülkelerin başında yer aldı.
 
     ***
-1. Osmanlı İmparatorluğu'nun daha sonra katılacağı Üçlü İttifak hangi devletler arasında imzalanmıştır?
+1. Osmanlı İmparatorluğu'nun daha sonra katılacağı Üçlü İttifak hangi devletler arasında imzalanmıştır?
     - A-) Almanya, Avusturya ve Rusya
     - **Cevap B-) Almanya, İtalya ve Avusturya-Macaristan**
     - C-) Avusturya, İngiltere ve Rusya
     - D-) İngiltere, Fransa ve Rusya
     - E-) Rusya, Fransa ve İtalya
 
-    > **Açıklama:** Osmanlı İmparatorluğu'nun daha sonra katılacağı Üçlü İttifak; Almanya, İtalya ve Avusturya-Macaristan arasında imzalanmıştır. Üçlü İttifak İtalya’nın teşebbüsü ile gerçekleşmiştir.
+    > **Açıklama:** Osmanlı İmparatorluğu'nun daha sonra katılacağı Üçlü İttifak; Almanya, İtalya ve Avusturya-Macaristan arasında imzalanmıştır. Üçlü İttifak İtalya’nın teşebbüsü ile gerçekleşmiştir.
 
     ***
 1. Aşağıdakilerden hangisi Osmanlı İmparatorluğunu askerî bir imparatorluktan bürokratik bir devlete dönüştürmek isteyen kâtip sınıfının “Sefirler ve Reîsülküttâplar Çağı"ndandır?
@@ -339,7 +401,8 @@
     - D-) Kazım Karabekir
     - E-) Ali Fethi Okyar
 
-    > **Açıklama:** Kalemiye mensupları, 17. yüzyıldan itibaren İmparatorluğun içinde bulunduğu krizi aşma noktasında yaptıkları düşünce üretiminde, kendi sınıflarını merkeze alarak İmparatorluğu dönüştürmeyi hedeflemişlerdir. İmparatorluğu askerî bir imparatorluktan bürokratik bir devlete dönüştürmek isteyen kâtip sınıfını dört kuşak ve çağ üzerinden okumak mümkündür. Bunlar; Çelebiler Çağı, Sefirler ve Reîsülküttâplar Çağı, Münevverler (Aydınlar) Çağı, Kahramanlar Çağı’dır. Sadık Rıfat Paşa “Sefirler ve Reîsülküttâplar Çağı”ndandır. İbrahim Müteferrika Çelebiler Çağı, Hayrullah Efendi Münevverler (Aydınlar) Çağı, Kazım Karabekir ve Ali Fethi Okyar ise Kahramanlar Çağı’ndandır.
+    > **Açıklama:** ISLAHATTAN YENİLEŞMEYE: BİR İMPARATORLUĞUN DÖNÜŞÜMÜ
+    > Kalemiye mensupları, 17. yüzyıldan itibaren İmparatorluğun içinde bulunduğu krizi aşma noktasında yaptıkları düşünce üretiminde, kendi sınıflarını merkeze alarak İmparatorluğu dönüştürmeyi hedeflemişlerdir. İmparatorluğu askerî bir imparatorluktan bürokratik bir devlete dönüştürmek isteyen kâtip sınıfını dört kuşak ve çağ üzerinden okumak mümkündür. Bunlar; Çelebiler Çağı, Sefirler ve Reîsülküttâplar Çağı, Münevverler (Aydınlar) Çağı, Kahramanlar Çağı’dır. Sadık Rıfat Paşa “Sefirler ve Reîsülküttâplar Çağı”ndandır. İbrahim Müteferrika Çelebiler Çağı, Hayrullah Efendi Münevverler (Aydınlar) Çağı, Kazım Karabekir ve Ali Fethi Okyar ise Kahramanlar Çağı’ndandır.
 
     ***
 1. İkinci Mahmud döneminde kaldırılan Yeniçeri Ocağının yerine kurulan ordunun ismi nedir?
@@ -359,7 +422,8 @@
     - D-) Lûtfî Paşa
     - E-) Münif Paşa
 
-    > **Açıklama:** Yukarıdaki cümlede boş bırakılan yeri C seçeneği doğru olarak tamamlar. 17. yüzyılda devletin çöküşünü, yönetici kadronun çürümüşlüğünü ve yetersizliğini, yasaların işlemez olduğunu görenlerin sayısı çoğalmıştır. Bu yüzyılda Ayni Áli Efendi, Kavânîn-i Âl-i Osman der Mezâlim-i Defter-i Divan adını taşıyan bir kitap yazmış; tımar ve zeametin dağılmasının yolsuzluklara yol açtığını, bu alanda düzeltme yapılması gerektiğini savunmuştur.
+    > **Açıklama:** ISLAHATTAN YENİLEŞMEYE: BİR İMPARATORLUĞUN DÖNÜŞÜMÜ
+    > Yukarıdaki cümlede boş bırakılan yeri C seçeneği doğru olarak tamamlar. 17. yüzyılda devletin çöküşünü, yönetici kadronun çürümüşlüğünü ve yetersizliğini, yasaların işlemez olduğunu görenlerin sayısı çoğalmıştır. Bu yüzyılda Ayni Áli Efendi, Kavânîn-i Âl-i Osman der Mezâlim-i Defter-i Divan adını taşıyan bir kitap yazmış; tımar ve zeametin dağılmasının yolsuzluklara yol açtığını, bu alanda düzeltme yapılması gerektiğini savunmuştur.
 
     ***
 1. Yunan ve Sırp isyanlarıyla birlikte milliyetçi bir tutum sergileyen gayrimüslimlerin imparatorluktan ayrılmasını önlemek amacıyla ortaya atılan ve daha sonra sık sık vurgu yapılan bir Osmanlı milleti teşkil etmeyi hedefleyen önemli projenin ilk adımı olarak gösterilebilen Gülhane Hatt-ı Hümayunu hangi padişah döneminde kabul edilmiştir?
@@ -389,7 +453,8 @@
     - D-) Sürat Topçular Ocağının kurulması
     - E-) Hasköy’de top dökümhanesinin yapılması
 
-    > **Açıklama:** “Hendesehane’nin açılması” Baron de Tott’un gözetiminde gerçekleşen askerî alanda yenileşme çabalarından biri değildir. Hendesehane, I. Mahmut Dönemi’nde açılmıştır. III. Mustafa Dönemi’nde (1757-1774) askerî alanda yenileşme çabalarının öncü ismi olarak Baron de Tott dikkati çeker. İstanbul ve Çanakkale Boğazlarındaki kale ve savunma sistemlerinin güçlendirilmesi, Topçu Ocağıyla Tophane’nin düzenlenmesi, Hasköy’de bir top dökümhanesinin yapılarak yeni topların dökülüp top arabalarının ıslah edilmesi, Topçu Okulunun açılması, Sürat Topçular Ocağının kurulması Baron de Tott’un gözetiminde gerçekleşmiştir.
+    > **Açıklama:** ISLAHATTAN YENİLEŞMEYE: BİR İMPARATORLUĞUN DÖNÜŞÜMÜ
+    > “Hendesehane’nin açılması” Baron de Tott’un gözetiminde gerçekleşen askerî alanda yenileşme çabalarından biri değildir. Hendesehane, I. Mahmut Dönemi’nde açılmıştır. III. Mustafa Dönemi’nde (1757-1774) askerî alanda yenileşme çabalarının öncü ismi olarak Baron de Tott dikkati çeker. İstanbul ve Çanakkale Boğazlarındaki kale ve savunma sistemlerinin güçlendirilmesi, Topçu Ocağıyla Tophane’nin düzenlenmesi, Hasköy’de bir top dökümhanesinin yapılarak yeni topların dökülüp top arabalarının ıslah edilmesi, Topçu Okulunun açılması, Sürat Topçular Ocağının kurulması Baron de Tott’un gözetiminde gerçekleşmiştir.
 
     ***
 1. Osmanlı Devleti'nde anayasal yönetime geçişi sağlayan ve devletin ilk anayasası olarak nitelendirilebilecek belge hangisidir?
@@ -419,7 +484,8 @@
     - D-) İngiltere
     - E-) Fransa
 
-    > **Açıklama:** 1882’de Almanya, İtalya ve Avusturya-Macaristan arasında imzalanan Üçlü İttifak antlaşması, İtalya’nın teşebbüsü ile gerçekleşmiştir. Fransa’nın Cezayir’den sonra ani bir hamle ile Osmanlı himayesinde olan Tunus’u da işgal etmesi Kuzey Afrika’da sömürge arayışı içinde olan İtalya’yı rahatsız etmiştir. Bir yandan Fransa korkusu diğer yandan da sömürgecilik yapabilmesi için sırtını Almanya gibi büyük bir devlete dayama zorunluluğu, İtalya’yı Almanya ile ittifak istemeye yöneltmiştir.
+    > **Açıklama:** DOĞU SORUNU
+    > 1882’de Almanya, İtalya ve Avusturya-Macaristan arasında imzalanan Üçlü İttifak antlaşması, İtalya’nın teşebbüsü ile gerçekleşmiştir. Fransa’nın Cezayir’den sonra ani bir hamle ile Osmanlı himayesinde olan Tunus’u da işgal etmesi Kuzey Afrika’da sömürge arayışı içinde olan İtalya’yı rahatsız etmiştir. Bir yandan Fransa korkusu diğer yandan da sömürgecilik yapabilmesi için sırtını Almanya gibi büyük bir devlete dayama zorunluluğu, İtalya’yı Almanya ile ittifak istemeye yöneltmiştir.
 
     ***
 1. Osmanlıcılıkla ilgili aşağıdaki ifadelerden hangisi yanlıştır?
@@ -429,8 +495,9 @@
     - **Cevap D-) Bir devlet siyaseti tarzında Tanzimat’tan Cumhuriyet’e dek değişik şekillerde varlığını korumuş ancak Cumhuriyet’e intikal etmemiştir.**
     - E-) Devleti korumak amacıyla artık Müslüman-Türk unsur tarafından savunulan bir fikir iken gayrimüslim unsurlar bu fikri takip etmemiştir.
 
-    > **Açıklama:** Osmanlıcılıkla ilgili ifadelerden D seçeneği yanlıştır. İdeolojiler ve milletler çağında Osmanlı Devleti’nin ilk siyasi ideolojisi olan Osmanlıcılık bir devlet siyaseti tarzında Tanzimat’tan Cumhuriyet’e kadar değişik şekillerde varlığını korumuş, hatta genel
-    > olarak Cumhuriyet’e de intikal etmiştir. Ancak uygulanışı itibarıyla I. Meşrutiyet’e kadar olan dönem, II. Abdülhamit Dönemi, İttihat ve Terakki Dönemi olmak üzere üç dönemde değerlendirilebilir. Osmanlıcılık düşüncesinin ideali, devleti korumak amacıyla artık Müslüman-Türk unsur tarafından savunulan bir fikir iken gayrimüslim unsurlar bu fikri takip etmemişlerdir. Balkan Savaşları sonrasında Osmanlıcılık iflas etmiş bir ideoloji olarak görülmüştür.
+    > **Açıklama:** OSMANLI DEVLETİ’Nİ KURTARMAYA YÖNELİK ARAYIŞLAR / FİKİR AKIMLAR
+    > Osmanlıcılıkla ilgili ifadelerden D seçeneği yanlıştır. İdeolojiler ve milletler çağında Osmanlı Devleti’nin ilk siyasi ideolojisi olan Osmanlıcılık bir devlet siyaseti tarzında Tanzimat’tan Cumhuriyet’e kadar değişik şekillerde varlığını korumuş, hatta genel
+    > olarak Cumhuriyet’e de intikal etmiştir. Ancak uygulanışı itibarıyla I. Meşrutiyet’e kadar olan dönem, II. Abdülhamit Dönemi, İttihat ve Terakki Dönemi olmak üzere üç dönemde değerlendirilebilir. Osmanlıcılık düşüncesinin ideali, devleti korumak amacıyla artık Müslüman-Türk unsur tarafından savunulan bir fikir iken gayrimüslim unsurlar bu fikri takip etmemişlerdir. Balkan Savaşları sonrasında Osmanlıcılık iflas etmiş bir ideoloji olarak görülmüştür.
 
     ***
 1. Türkçülüğün sosyolojik bir çerçeveye oturtulmasında öncü rol oynayan kişi aşağıdakilerden hangisidir?
@@ -440,7 +507,8 @@
     - D-) Hüseyinzâde Ali
     - E-) Ahmet Ağaoğlu
 
-    > **Açıklama:** Türkçülüğün sosyolojik bir çerçeveye oturtulmasında öncü rol oynayan kişi Ziya Gökalp’tir. Ahmet Ağaoğlu, Yusuf Akçura ve Hüseyinzâde Ali beyler, Osmanlı Devleti dışında yaşayan Türkleri de kapsayan bir Türk dünyası ve Türklük fikrinin kavramsallaştırılmasında, Ömer Seyfettin ve Mehmet Emin beyler de sadeleştirilmiş dil ve Türkçü edebiyat tezlerinin oluşturulmasında öncü roller oynamıştır.
+    > **Açıklama:** OSMANLI DEVLETİ’Nİ KURTARMAYA YÖNELİK ARAYIŞLAR / FİKİR AKIMLAR
+    > Türkçülüğün sosyolojik bir çerçeveye oturtulmasında öncü rol oynayan kişi Ziya Gökalp’tir. Ahmet Ağaoğlu, Yusuf Akçura ve Hüseyinzâde Ali beyler, Osmanlı Devleti dışında yaşayan Türkleri de kapsayan bir Türk dünyası ve Türklük fikrinin kavramsallaştırılmasında, Ömer Seyfettin ve Mehmet Emin beyler de sadeleştirilmiş dil ve Türkçü edebiyat tezlerinin oluşturulmasında öncü roller oynamıştır.
 
     ***
 1. Batıcılık fikrini savunan yazar aşağıdakilerden hangisidir?
@@ -450,7 +518,8 @@
     - D-) Said Halim Paşa
     - E-) Tunalı Hilmi
 
-    > **Açıklama:** Batıcılık fikrini savunan yazar, Kılıçzade Hakkı’dır. “Pek Uyanık Bir Uyku” başlıklı ütopik yazısı Batıcı aydınların fikirlerinin özeti gibidir. Fesin kaldırılmasından, tekke ve zaviyelerin kapanmasına, Avrupa medeni kanunun kabulü, alfabenin kaldırılıp Latin alfabesinin kabulüne kadar 21 maddelik yapılması gerekenler planını okuyucu ile paylaşmıştır.
+    > **Açıklama:** OSMANLI DEVLETİ’Nİ KURTARMAYA YÖNELİK ARAYIŞLAR / FİKİR AKIMLAR
+    > Batıcılık fikrini savunan yazar, Kılıçzade Hakkı’dır. “Pek Uyanık Bir Uyku” başlıklı ütopik yazısı Batıcı aydınların fikirlerinin özeti gibidir. Fesin kaldırılmasından, tekke ve zaviyelerin kapanmasına, Avrupa medeni kanunun kabulü, alfabenin kaldırılıp Latin alfabesinin kabulüne kadar 21 maddelik yapılması gerekenler planını okuyucu ile paylaşmıştır.
 
     ***
 1. Aşağıdakilerden hangisi Türkçülükle ilgili dergilerden biri değildir?
@@ -460,7 +529,8 @@
     - **Cevap D-) Volkan**
     - E-) Tercümân-ı Ahvâl-i Zaman
 
-    > **Açıklama:** Ağaoğlu Ahmet, Hüseyinzâde Ali (Turan), Gaspıralı İsmâil gibi Osmanlı Terakkî ve İttihat Cemiyetiyle ilişkiyi sürdüren liderlerin Hayat, İrşad, Füyûzât, Tercümân-ı Ahvâl-i Zaman gibi dergilerde ileri sürdükleri fikirler, Türkçülüğün Jön Türklüğün temel örgütlenmesi tarafından içselleştirilmesinde önemli rol oynamıştır.  Volkan ise İslamcılıkla ilgili bir dergidir. II. Meşrutiyet’ten sonraki basın ve fikir hürriyeti atmosferinde İslamcı aydınlar, düşüncelerini yoğun ve sistemli bir şekilde Sırât-ı Müstakîm (Sebîlürreşâd), Beyânülhak, Livâü’l-İslâm, Hikmet, İttihâd-ı İslâm, Tasavvuf, İslâm Mecmuası, Volkan gibi gazete ve dergilerde tartışmaya başlamışlardır.
+    > **Açıklama:** OSMANLI DEVLETİ’Nİ KURTARMAYA YÖNELİK ARAYIŞLAR / FİKİR AKIMLAR
+    > Ağaoğlu Ahmet, Hüseyinzâde Ali (Turan), Gaspıralı İsmâil gibi Osmanlı Terakkî ve İttihat Cemiyetiyle ilişkiyi sürdüren liderlerin Hayat, İrşad, Füyûzât, Tercümân-ı Ahvâl-i Zaman gibi dergilerde ileri sürdükleri fikirler, Türkçülüğün Jön Türklüğün temel örgütlenmesi tarafından içselleştirilmesinde önemli rol oynamıştır. Volkan ise İslamcılıkla ilgili bir dergidir. II. Meşrutiyet’ten sonraki basın ve fikir hürriyeti atmosferinde İslamcı aydınlar, düşüncelerini yoğun ve sistemli bir şekilde Sırât-ı Müstakîm (Sebîlürreşâd), Beyânülhak, Livâü’l-İslâm, Hikmet, İttihâd-ı İslâm, Tasavvuf, İslâm Mecmuası, Volkan gibi gazete ve dergilerde tartışmaya başlamışlardır.
 
     ***
 1. Osmanlı merkez vilayetlerinde bir süvari birliğini ve askerî-idarî hiyerarşiyi desteklemek amacıyla yapılan ve miras yoluyla geçmeyen tahsisatı aşağıdakilerden hangisi ifade eder?
@@ -503,7 +573,7 @@
     > **Açıklama:** Kahramanlar çağı
 
     ***
-1. III. Selim döneminde yapılan askerî reformların ve yeniliklerin ortak adı aşağıdakilerden hangisidir?
+1. III. Selim döneminde yapılan askerî reformların ve yeniliklerin ortak adı aşağıdakilerden hangisidir?
     - A-) Nizamı Cihan
     - B-) Nizamı Hüsrev
     - C-) Nizamı Peşrev
@@ -513,7 +583,7 @@
     > **Açıklama:** Nizamı Cedid
 
     ***
-1. Türk eğitim tarihinde modern anlamda ilk defa kurulan  mektebi aşağıdakilerden hangisidir?
+1. Türk eğitim tarihinde modern anlamda ilk defa kurulan mektebi aşağıdakilerden hangisidir?
     - **Cevap A-) Mühendishane-i Bahri Hümayun**
     - B-) Mühendishane-i Bahriye
     - C-) Mühendishane-i Bahri Mekteb
@@ -574,19 +644,19 @@
 
     ***
 ## Unite 2
-1. Ahmet Rıza Bey'in İttihat ve Terakki Cemiyeti adına 1 Aralık 1895’te Paris'te çıkardığı dergi aşağıdakilerden hangisidir?
+1. Ahmet Rıza Bey'in İttihat ve Terakki Cemiyeti adına 1 Aralık 1895’te Paris'te çıkardığı dergi aşağıdakilerden hangisidir?
     - A-) Mizan
     - **Cevap B-) Meşveret**
     - C-) İctihad
     - D-) Serbestî
     - E-) Volkan
 
-    > **Açıklama:** Ahmet Rıza Bey'in İttihat ve Terakki Cemiyeti adına 1 Aralık 1895’te Paris'te çıkardığı dergi Meşveret'tir.
+    > **Açıklama:** Ahmet Rıza Bey'in İttihat ve Terakki Cemiyeti adına 1 Aralık 1895’te Paris'te çıkardığı dergi Meşveret'tir.
 
     ***
 1. Balkan Savaşları ile Birinci Dünya Savaşı arasındaki bağlantı hangi şıkta doğru izah edilmiştir?
     - A-) Osmanlı Devleti, Balkan Savaşlarında tarihin en büyük yenilgilerinden birine uğramış ve Rumeliyi terk etmek zorunda kalmıştır.
-    - B-) Birinci Dünya Savaşı öncesinde Osmanlı Devleti Ege Adalarını kaybetmiş, Arnavutluk ayrı bir devlet olarak ortaya çıkmıştır.
+    - B-) Birinci Dünya Savaşı öncesinde Osmanlı Devleti Ege Adalarını kaybetmiş, Arnavutluk ayrı bir devlet olarak ortaya çıkmıştır.
     - **Cevap C-) Balkan Savaşları devletler arası bloklaşmaları hızlandırıp silahlanmayı da artırarak Birinci Dünya Savaşı’na zemin hazırlamışlardır.**
     - D-) 1913 tarihli Londra Antlaşması gereğince Ege Adalarının geleceği büyük devletlerin kararına bırakılmış, Birinci Dünya savaşına bu şartlarda girilmiştir.
     - E-) Birinci Balkan Savaşında Osmanlı Devleti’nden aldıkları toprakları paylaşamayan Balkan devletleri yeni bir krizin fitilini ateşlemişlerdir.
@@ -608,13 +678,13 @@
     - A-) Osmanlı Hükümeti'nin Almanya ile yakın ilişkiler kurma gayreti ve demiryolları projesindeki ortak mesaileri.
     - B-) Osmanlı Devleti’nin İngiltere'ye peşin para ödeyerek sipariş ettiği iki savaş gemisini İngiltere'nin vermemesi.
     - C-) Saraybosna’yı ziyaret eden Avusturya Veliahtı Franz Ferdinand'ın, bir Sırp milliyetçisi tarafından öldürülmesi.
-    - D-) Osmanlı Devleti ile Almanya arasında 2 Ağustos 1914’te Türk-Alman ittifak anlaşmasının imzalanması.
+    - D-) Osmanlı Devleti ile Almanya arasında 2 Ağustos 1914’te Türk-Alman ittifak anlaşmasının imzalanması.
     - **Cevap E-) Osmanlı filosunun, 29 Ekim 1914’te Karadeniz’e çıkarak Sivastopol ve Odessa’yı bombalaması.**
 
     > **Açıklama:** Osmanlı filosunun, 29 Ekim 1914’te Karadeniz’e çıkarak Sivastopol ve Odessa’yı bombalaması.
 
     ***
-1. Aşağıdakilerden hangisi,  Birinci Dünya Savaşı’nda Osmanlı Devleti'nin, kendi sınırları içinde açılan cephelerden bir **değildir?**
+1. Aşağıdakilerden hangisi, Birinci Dünya Savaşı’nda Osmanlı Devleti'nin, kendi sınırları içinde açılan cephelerden bir **değildir?**
     - **Cevap A-) Makedonya**
     - B-) Kanal
     - C-) Hicaz-Yemen
@@ -634,7 +704,7 @@
     > **Açıklama:** İngiltere ve Fransa’nın yenilgileri uzak bölgelerdeki sömürgeleri üzerinde prestijlerinin sarsılmasına neden olmuştur. Dolayısıyla onların yenilebileceği düşüncesi ileride yapacakları kurtuluş mücadelesi için zemin oluşturmuştur.
 
     ***
-1. 29 Nisan 1916 tarihinde Kutü’l-Amâre’de İngilizlere karşı büyük bir zafer kazanan Bağdat Valisi ve Altıncı Ordu komutan vekili aşağıdakilerden hangisidir?
+1. 29 Nisan 1916 tarihinde Kutü’l-Amâre’de İngilizlere karşı büyük bir zafer kazanan Bağdat Valisi ve Altıncı Ordu komutan vekili aşağıdakilerden hangisidir?
     - A-) Nuri Paşa
     - B-) Cevat Paşa
     - **Cevap C-) Halil Paşa**
@@ -654,14 +724,14 @@
     > **Açıklama:** Mağlup devletlere getirilen ağır koşullar ve galiplerin çıkar çatışmaları.
 
     ***
-1. İtilaf devletleri 27 Kasım 1919’da  Neuilly (Nöyi) Barış Antlaşması’nı savaşın mağluplarından hangisi ile imzalamıştır?
+1. İtilaf devletleri 27 Kasım 1919’da Neuilly (Nöyi) Barış Antlaşması’nı savaşın mağluplarından hangisi ile imzalamıştır?
     - A-) Osmanlı Devleti
     - B-) Avusturya
     - C-) Almanya
     - D-) Macaristan
     - **Cevap E-) Bulgaristan**
 
-    > **Açıklama:** İtilaf devletleri 27 Kasım 1919’da  Neuilly (Nöyi) Barış Antlaşması’nı savaşın mağluplarından Bulgaristan ile imzalamışlardır.
+    > **Açıklama:** İtilaf devletleri 27 Kasım 1919’da Neuilly (Nöyi) Barış Antlaşması’nı savaşın mağluplarından Bulgaristan ile imzalamışlardır.
 
     ***
 1. Rumi takvime göre 31 Mart Vakası olarak adlandırılan olay, miladi takvime göre hangi tarihte meydana gelmiştir?
@@ -677,7 +747,7 @@
 1. Aşağıda sıralanan olaylardan hangisi 31 Mart Vakasını başlatmıştır?
     - A-) İttihat ve Terakki karşıtları tarafından Ahrar Fırkasının kurulması.
     - B-) Üçüncü Orduya bağlı Avcı Taburlarının Selanik’ten İstanbul’a getirtilmesi.
-    - C-) Kâmil Paşa hükûmetinin İttihatçıların baskılarıyla bir gensoru ile düşürülmesi.
+    - C-) Kâmil Paşa hükûmetinin İttihatçıların baskılarıyla bir gensoru ile düşürülmesi.
     - **Cevap D-) Hasan Fehmi’nin Galata Köprüsü’nde faili meçhul bir cinayete kurban gitmesi.**
     - E-) İttihat ve Terakki’ye yakın Hüseyin Hilmi Paşanın sadrazam olması.
 
@@ -690,7 +760,7 @@
     - B-) Hüseyin Hilmi Paşa hükûmetinin istifasının istenmesi.
     - C-) İsmail Kemal’in Meclis-i Mebusan başkanlığına getirilmesi.
     - D-) Ordudan tasfiye edilen alaylı subayların geri dönmesi.
-    - E-) Kâmil Paşa’nın sadarete getirilmesi ve  İttihat ve Terakki’nin ilgası.
+    - E-) Kâmil Paşa’nın sadarete getirilmesi ve İttihat ve Terakki’nin ilgası.
 
     > **Açıklama:** İşgal edilen Meclis-i Mebusan’da da ifade edildiği üzere isyancıların başlıca talepleri şunlardı:
     > • Hüseyin Hilmi Paşa hükûmetinin istifası,
@@ -744,7 +814,7 @@
     - **Cevap D-) II. Balkan Savaşı**
     - E-) Türk-İtalyan Savaşı
 
-    > **Açıklama:** 2. Balkan Savaşı'nda Balkan devletlerinin toprak kavgasını fırsat olarak kullanarak Osmanlı Devleti Edirne'yi geri alır.
+    > **Açıklama:** 2\. Balkan Savaşı'nda Balkan devletlerinin toprak kavgasını fırsat olarak kullanarak Osmanlı Devleti Edirne'yi geri alır.
 
     ***
 1. I. Dünya Savaşında oluşturulan Üçlü İttifak devletleri bloğu hangi ülkeler arasında kurulmuştur?
@@ -767,7 +837,7 @@
     > **Açıklama:** Osmanlı filosu, 29 Ekim 1914’te Karadeniz’e çıkarak Sivastopol ve Odessa’yı bombalamıştır. Böylece Osmanlı Devleti, bir oldu bitti ile savaşa sokulmuştur.
 
     ***
-1. I. Dünya Savaşı sonunda galip devletler ile mağlup devletler arasında antlaşmalar imzalanmıştır.  28 Haziran 1919'da imzalanan Versailles (Versay) Barış Antlaşması hangi mağlup ülke ile imzalanmıştır?
+1. I. Dünya Savaşı sonunda galip devletler ile mağlup devletler arasında antlaşmalar imzalanmıştır. 28 Haziran 1919'da imzalanan Versailles (Versay) Barış Antlaşması hangi mağlup ülke ile imzalanmıştır?
     - A-) Avusturya
     - B-) Bulgaristan
     - C-) Macaristan
@@ -785,7 +855,8 @@
     - D-) İtalya
     - E-) Sırbistan
 
-    > **Açıklama:** Fransa
+    > **Açıklama:** Bu kanlı savaşı sona erdiren mütareke ile birlikte Osmanlı Devleti, Orta Doğu ve Arap Yarımadası’ndaki topraklarından ve Kafkasya’dan vazgeçtiğini kabul etmiş oluyordu, devlet tamamıyla parçalanmış elinde yalnızca Anadolu ve Doğu Trakya kalmış durumdaydı. Tam bir dağılma olan bu parçalanmadan bir sürü Arap Devleti ortaya çıktı. Suriye ve Lübnan ise Fransız mandasına geçti.
+    > Fransa
 
     ***
 1. Aşağıdaki illerden hangisinin terkedilmesi mütareke dönemi için bir kırılma noktası olmuş ve Türk topraklarının Konya ve Sivas bölgesine kadar işgali sonucunu doğurmuştur?
@@ -795,7 +866,17 @@
     - D-) Basra
     - E-) Kerkük
 
-    > **Açıklama:** Musul
+    > **Açıklama:** Musul bölgesinin boşaltılması, Mondros Mütarekesi’nden bir hafta sonra gerçekleşmiştir. 12 Ocak 1920 tarihinde Osmanlı Meclis-i Mebusanında kabul edilen ve tüm dünyaya duyurulan Misakı Millî metninde, Mondros Mütarekesi imzalandığı sırada geçerli olan sınırlarımızın sağlanması teminat altına alınmıştı. Bu sebeple Musul bölgesinin terki hem mütareke döneminin bir kırılma noktası olmuş hem de Türk topraklarının Konya ve Sivas bölgesine kadar işgali sonucunu doğurmuştur.
+
+    ***
+1. Aşağıdakilerden hangisi Milli Mücadele Dönemi’nde işgallere karşı ilk direnişin gösterildiği bölgedir?
+    - A-) Halep
+    - **Cevap B-) İskenderun**
+    - C-) Konya
+    - D-) Uşak
+    - E-) Aydın
+
+    > **Açıklama:** İskenderun bölgesi Milli Mücadele Dönemi’nde, işgallere karşı ilk direnişin gösterildiği yerdir.
 
     ***
 1. İngiltere ve Fransa'nın Orta Doğu ile birlikte Türkiye’nin güney ve güneydoğusunu nasıl paylaşacaklarını belirledikleri antlaşma aşağıdakilerden hangisidir?
@@ -805,17 +886,18 @@
     - **Cevap D-) Suriye Antlaşması**
     - E-) Gümrü Antlaşması
 
-    > **Açıklama:** Suriye Antlaşması
+    > **Açıklama:** İngilizlerin bölgedeki işgalleri 15 Eylül 1919 tarihinde Fransızlar ile yaptıkları Suriye Antlaşması’na kadar devam etmiştir. Orta Doğu ile birlikte Türkiye’nin güney ve güneydoğusunu nasıl paylaşacaklarını belirleyen bu antlaşmaya göre, Irak ve Filistin İngiliz mandasına, Suriye ve Lübnan ile birlikte Antep, Maraş ve Urfa da el değiştirerek Fransız mandasına girmiştir.
 
     ***
-1. Aşağıdakilerden hangisi Milli Mücadele Dönemi’nde Osmanlı Devleti’ne karşı savaşan Yunanistan'ın hedeflerine ulaşmak için kullandığı cemiyetlerden biri değildir?
+1. Aşağıdakilerden hangisi Milli Mücadele Dönemi’nde Osmanlı Devleti’ne karşı savaşan Yunanistan'ın hedeflerine ulaşmak için kullandığı cemiyetlerden biri değildir?
     - A-) Kordos cemiyeti
     - B-) Pontus cemiyeti
     - C-) Etnik-i Eterya cemiyeti
     - **Cevap D-) Hınçak cemiyeti**
     - E-) Mavri Mira cemiyeti
 
-    > **Açıklama:** Hınçak cemiyeti
+    > **Açıklama:** Hem Birinci Dünya Savaşı’nda ve hem de Milli Mücadele Dönemi’nde Osmanlı Devleti’ne
+    > karşı savaşan Yunanistan, hedefine ulaşmak için Etnik-i Eterya, Mavri Mira, Rum Pontus ve Kordos gibi cemiyetleri kullanarak Osmanlı Rumlarını kışkırtmışlar, Batı Anadolu’da ve Karadeniz bölgesinde Rum nüfus çoğunluğunu sağlamak için her türlü yola başvurmuşlardır. Hınçak cemiyeti ile Taşnaksütyun cemiyeti ise Ermeniler tarafından kurulmuş, Millî Mücadele boyunca Osmanlı Devleti’ne ve Millî Mücadele Hareketi’ne karşı Ermeniler için çalışmışlardır.
 
     ***
 1. 15 Mayıs 1919’da İzmir’in işgali üzerine Türk Ocağı ve Karakol Cemiyeti tarafından düzenlenen mitingler aşağıdakilerden hangisidir?
@@ -825,7 +907,7 @@
     - D-) Eyüpsultan mitingleri
     - E-) Üsküdar - Doğancılar mitingleri
 
-    > **Açıklama:** Sultanahmet mitingleri
+    > **Açıklama:** Sultanahmet mitingleri, 15 Mayıs 1919’da İzmir’in işgali üzerine Türk Ocağı ve Karakol Cemiyeti tarafından düzenlenen mitinglerdir. Bundan önce yine İstanbul’da işgali kınamak ve direnişi yaymak için Fatih, Üsküdar–Doğancılar, Kadıköy mitingleri yapılmıştır. Sultanahmet Mitingleri, 23 Mayıs 1919, 30 Mayıs 1919, 10 Ekim 1919, 13 Ocak 1920 tarihlerinde dört kez yapıldı.
 
     ***
 1. Mondros Mütarekesi'nin ardından Lübnan hangi devletin mandasına verilmiştir?
@@ -835,8 +917,20 @@
     - D-) İtalya
     - E-) Almanya
 
-    > **Açıklama:** Mütareke sonrasında Suriye ve Lübnan, Fransız mandasına
+    > **Açıklama:** İşgallere Zemin Hazırlayan Mütareke: Mondros Mütarekesi başlığı altında.
+    > Mütareke sonrasında Suriye ve Lübnan, Fransız mandasına
     > geçti. Doğru yanıt B seçeneğinde verilmiştir.
+
+    ***
+1. Mondros Mütarekesi sonrasında başlayan işgallere karşı *ilk* direnişin gösterildiği bölge aşağıdakilerden hangisidir?
+    - **Cevap A-) İskenderun**
+    - B-) Musul
+    - C-) İzmir
+    - D-) Ayvalık
+    - E-) Antalya
+
+    > **Açıklama:** Çukurova’daki İngiliz-Fransız İşgalleri ve Millî Mücadele’nin İlk Kurşunu başlığı altında.
+    > İskenderun bölgesi aynı zamanda Millî Mücadele Dönemi’nde, işgallere karşı ilk direnişin gösterildiği yerdir. Bu direnişin temelinde yatan sebeplerden birisi de savaş sırasında tehcire tabi tutulmuş olan Ermenilerin, Fransız askerleri ile birlikte bölgeye dönüşleri olmuştur. Dönenler intikam duygusu ile hareket ettikleri gibi, Fransızlar da bunlardan askerî kuvvet olarak yararlanmak istemişler, bu yüzden Ermenilerin Türklere karşı hakaret dolu davranışlarına göz yummuşlardır. Doğru yanıt A seçeneğinde verilmiştir.
 
     ***
 1. Aşağıdakilerden hangisi Fransa ile İngiltere arasında 15 Eylül 1919 tarihinde yapılan Suriye Antlaşması ile Fransız mandasına ***bırakılmamıştır?***
@@ -846,7 +940,8 @@
     - D-) Antep
     - E-) Maraş
 
-    > **Açıklama:** İngilizlerin15 Eylül1919 tarihinde Fransızlarla yaptıkları Suriye Antlaşması’na kadar devam etmiştir. Orta Doğu ile birlikte Türkiye’nin güney ve güneydoğusunu nasıl paylaşacaklarını belirleyen bu antlaşmaya göre, Irak ve Filistin İngiliz mandasına, Suriye ve Lübnan ile birlikte Antep, Maraş ve Urfa da el değiştirerek Fransız mandasına girmiştir. Doğru yanıt C seçeneğinde verilmiştir.
+    > **Açıklama:** Urfa, Antep ve Maraş Bölgesindeki İşgaller başlığı altında.
+    > İngilizlerin15 Eylül1919 tarihinde Fransızlarla yaptıkları Suriye Antlaşması’na kadar devam etmiştir. Orta Doğu ile birlikte Türkiye’nin güney ve güneydoğusunu nasıl paylaşacaklarını belirleyen bu antlaşmaya göre, Irak ve Filistin İngiliz mandasına, Suriye ve Lübnan ile birlikte Antep, Maraş ve Urfa da el değiştirerek Fransız mandasına girmiştir. Doğru yanıt C seçeneğinde verilmiştir.
 
     ***
 1. İtilaf devletlerinin işgallerine tepki olarak Vali Reşit Paşa'nın eşi Melek Hanım'ın başkanlığında Anadolu Kadınları Müdafaa-i Vatan Cemiyeti hangi kentte kurulmuştur?
@@ -856,17 +951,19 @@
     - **Cevap D-) Sivas**
     - E-) Amasya
 
-    > **Açıklama:** Sivas’ta Vali Reşit Paşa’nın eşi Melek Hanım tarafından kurulan Anadolu Kadınları Müdafaa-i Vatan Cemiyeti vardır ki Türk kadınının Millî Mücadele Hareketi sırasındaki tutumunu göstermesi açısından önemli bir cemiyettir. Cemiyet, Türk yurduna ve milletine karşı yapılmakta olan haksızlıkların düzeltilmesi için hükûmetçe gerekli girişimlerde bulunulmasını istemiştir. İstanbul’daki Amerika, İngiltere, Fransa ve İtalya siyasi temsilcilerine de protesto niteliğinde birer telgraf göndermiştir. Doğru yanıt D seçeneğinde verilmiştir.
+    > **Açıklama:** Millî Mücadele’ye Destek Veren Cemiyetler başlığı altında.
+    > Sivas’ta Vali Reşit Paşa’nın eşi Melek Hanım tarafından kurulan Anadolu Kadınları Müdafaa-i Vatan Cemiyeti vardır ki Türk kadınının Millî Mücadele Hareketi sırasındaki tutumunu göstermesi açısından önemli bir cemiyettir. Cemiyet, Türk yurduna ve milletine karşı yapılmakta olan haksızlıkların düzeltilmesi için hükûmetçe gerekli girişimlerde bulunulmasını istemiştir. İstanbul’daki Amerika, İngiltere, Fransa ve İtalya siyasi temsilcilerine de protesto niteliğinde birer telgraf göndermiştir. Doğru yanıt D seçeneğinde verilmiştir.
 
     ***
-1. Mustafa Kemal Paşa'nın Sivas Kongresi sürerken Kuvayı Milliye birliklerine çekidüzen vermek amacıyla Batı Anadolu'daki Kuvayı Milliye birliklerinin başına atadığı komutan kimdir?
+1. Mustafa Kemal Paşa'nın Sivas Kongresi sürerken Kuvayı Milliye birliklerine çekidüzen vermek amacıyla Batı Anadolu'daki Kuvayı Milliye birliklerinin başına atadığı komutan kimdir?
     - A-) Albay İsmet (İnönü) Bey
     - B-) Albay Refet (Bele) Bey
     - C-) Albay İzzettin (Çalışlar) Bey
     - D-) Fevzi (Çakmak) Paşa
     - **Cevap E-) Ali Fuat (Cebesoy) Paşa**
 
-    > **Açıklama:** Sivas Kongresi sürerken Mustafa Kemal Paşa, Kuvayı Milliye birliklerine bir çekidüzen verilmesinin yerinde olacağını düşündü. Bu amaçla Yirminci Kolordu Komutanı Ali Fuat Paşa, Batı Anadolu’daki Kuvayı Milliye birliklerine komutan olarak atandı (9 Eylül 1919). Ali Fuat Paşa, Ege Bölgesi’ndeki Kuvayı Milliye’yi disiplin altına almak için Albay Refet Bey’i görevlendirdi ve bu kuvvetlere destek oldu. Doğru yanıt E seçeneğinde verilmiştir.
+    > **Açıklama:** Kuvayı Milliye başlığı altında.
+    > Sivas Kongresi sürerken Mustafa Kemal Paşa, Kuvayı Milliye birliklerine bir çekidüzen verilmesinin yerinde olacağını düşündü. Bu amaçla Yirminci Kolordu Komutanı Ali Fuat Paşa, Batı Anadolu’daki Kuvayı Milliye birliklerine komutan olarak atandı (9 Eylül 1919). Ali Fuat Paşa, Ege Bölgesi’ndeki Kuvayı Milliye’yi disiplin altına almak için Albay Refet Bey’i görevlendirdi ve bu kuvvetlere destek oldu. Doğru yanıt E seçeneğinde verilmiştir.
 
     ***
 1. * Terhis işlemlerinin hemen durdurulması<br />* Cephane ve silahların düşmana teslim edilmemesi<br />Mustafa Kemal Paşa ile Ali Fuat Paşa'nın İstanbul'da kararlaştırdıkları yukarıdaki hareket tarzı hangi siyasal belgeye duydukları tepkinin yansımasıdır?
@@ -876,7 +973,8 @@
     - D-) Suriye Antlaşması
     - E-) Mudanya Mütarekesi
 
-    > **Açıklama:** Ankara'ya dönmek üzere bulunan Yirminci Kolordu Komutanı Ali Fuat Paşa ile A Mustafa Kemal Paşa arasında İstanbul'da yapılan görüşmede belirlenen harekat tarzlarından olan terhis işlemlerinin hemen durdurulması ile cephane ve silahların düşmana teslim edilmemesi kararları Mondros Mütarekesi hükümlerine duydukları tepkinin bir yansımasıdır. Doğru yanıt A seçeneğinde verilmiştir.
+    > **Açıklama:** Mustafa Kemal Paşa’nın İstanbul’a Gelişi ve Buradaki Çalışmaları başlığı altında.
+    > Ankara'ya dönmek üzere bulunan Yirminci Kolordu Komutanı Ali Fuat Paşa ile A Mustafa Kemal Paşa arasında İstanbul'da yapılan görüşmede belirlenen harekat tarzlarından olan terhis işlemlerinin hemen durdurulması ile cephane ve silahların düşmana teslim edilmemesi kararları Mondros Mütarekesi hükümlerine duydukları tepkinin bir yansımasıdır. Doğru yanıt A seçeneğinde verilmiştir.
 
     ***
 1. Mustafa Kemal Paşa; 9. Ordu Müfettişi olarak yetki bölgesindeki komutan, yönetici ve milli kuruluşlardan, ülkedeki işgalleri büyük ve heyecanlı mitinglerle protesto etmelerini isteyen genelgesini nerede yayınlamıştır?
@@ -886,7 +984,8 @@
     - D-) Erzurum
     - E-) Sivas
 
-    > **Açıklama:** 19 Mayıs 1919’da beraberindekilerle Samsun’a ulaşan Mustafa Kemal Paşa 25 Mayıs 1919’da Havza’ya geçti.  28 Mayıs 1919’da Havza’dan bütün komutanlara, yöneticilere ve millî kuruluşlara gönderdiği genelge ile yabancı işgallerinin giderek genişlediğini, bütün yurdun düşmanlar tarafından çevrilmiş bulunduğunu, bu işgallerin büyük ve heyecanlı mitinglerle protesto edilmesi gerektiğini bildirdi. Doğru yanıt B seçeneğinde verilmiştir.
+    > **Açıklama:** Havza Genelgesi başlığı altında.
+    > 19 Mayıs 1919’da beraberindekilerle Samsun’a ulaşan Mustafa Kemal Paşa 25 Mayıs 1919’da Havza’ya geçti. 28 Mayıs 1919’da Havza’dan bütün komutanlara, yöneticilere ve millî kuruluşlara gönderdiği genelge ile yabancı işgallerinin giderek genişlediğini, bütün yurdun düşmanlar tarafından çevrilmiş bulunduğunu, bu işgallerin büyük ve heyecanlı mitinglerle protesto edilmesi gerektiğini bildirdi. Doğru yanıt B seçeneğinde verilmiştir.
 
     ***
 1. Aşağıdakilerden hangisi Amasya Genelgesi'nin özelliklerinden biri *değildir?*
@@ -896,7 +995,8 @@
     - D-) Milletin haklarını gür bir sesle dünyaya duyurmak için her türlü baskı ve kontrolden uzak milli bir heyetin varlığının zorunluluğuna işaret edilmesi
     - **Cevap E-) Hristiyan azınlıklara siyasi hakimiyet ve sosyal dengeyi bozacak ayrıcalıkların verilemeyeceğinin vurgulanması**
 
-    > **Açıklama:** Amasya Genelgesi Millî Mücadele hareketinin gerekçesini, yöntemini ve dayanacağı gücü açıklayan önemli bir belgedir. Millî egemenliğe dayalı yeni bir Türk Devleti’nin kurulması için atılan ilk adımdır. Genelge ile İstanbul Hükûmeti’nin çaresizlik içerisinde bulunduğu ve üzerine düşen görevi yerine getiremediği belirtilerek millet, bağımsızlık için mücadeleye davet edilmiştir. Hristiyan azınlıklara siyasi hakimiyet ve sosyal dengeyi bozacak ayrıcalıkların verilemeyeceği ise Erzurum Kongresi'nde vurgulanmıştır. Doğru yanıt E seçeneğinde verilmiştir.
+    > **Açıklama:** Amasya Genelgesi başlığı altında.
+    > Amasya Genelgesi Millî Mücadele hareketinin gerekçesini, yöntemini ve dayanacağı gücü açıklayan önemli bir belgedir. Millî egemenliğe dayalı yeni bir Türk Devleti’nin kurulması için atılan ilk adımdır. Genelge ile İstanbul Hükûmeti’nin çaresizlik içerisinde bulunduğu ve üzerine düşen görevi yerine getiremediği belirtilerek millet, bağımsızlık için mücadeleye davet edilmiştir. Hristiyan azınlıklara siyasi hakimiyet ve sosyal dengeyi bozacak ayrıcalıkların verilemeyeceği ise Erzurum Kongresi'nde vurgulanmıştır. Doğru yanıt E seçeneğinde verilmiştir.
 
     ***
 1. Trakya'daki millî teşkilatlanmada önemli rol oynayan komutan kimdir?
@@ -906,19 +1006,21 @@
     - D-) Binbaşı Süleyman Bey
     - E-) Yakup Şevki Paşa
 
-    > **Açıklama:** Mondros Mütarekesi’nden sonra Doğu Trakya’nın Yunanistan’a verileceği söz konusu olunca, Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti 22 Ocak 1919’da İstanbul’da bir kongre toplayarak bazı kararlar almıştır. Bu kararlara göre, Yunan askerlerinin Trakya’dan uzaklaştırılması ve gerekirse
+    > **Açıklama:** Trakya Kongreleri
+    > Mondros Mütarekesi’nden sonra Doğu Trakya’nın Yunanistan’a verileceği söz konusu olunca, Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti 22 Ocak 1919’da İstanbul’da bir kongre toplayarak bazı kararlar almıştır. Bu kararlara göre, Yunan askerlerinin Trakya’dan uzaklaştırılması ve gerekirse
     > halk oylamasıyla bölgenin kaderinin belirlenmesi gerekiyordu. Ancak bu kararlar gerçekleştirilemeyince Edirne’de 16 Ekim 1919’da bir kongre daha
-    > toplanmış ve Trakya’nın geleceği ile ilgili kararlar alınmıştır. Bu bölgedeki millî teşkilatlanmada Kolordu Komutanı Cafer Tayyar Paşa’nın  faaliyetleri yardımcı olmuştur. Doğru yanıt B seçeneğinde verilmiştir.
+    > toplanmış ve Trakya’nın geleceği ile ilgili kararlar alınmıştır. Bu bölgedeki millî teşkilatlanmada Kolordu Komutanı Cafer Tayyar Paşa’nın faaliyetleri yardımcı olmuştur. Doğru yanıt B seçeneğinde verilmiştir.
 
     ***
-1. * İstanbul'a gitmeden önce Ankara'ya uğrayacak tüm milletvekillerinin millî konularda aydınlatılması<br />* Mecliste millî teşkilatın programının esaslarını savunacak kuvvetli bir grubun kurulması<br />* Meclisin güvenli çalıştığı görülünceye dek Heyet-i Temsiliye'nin Anadolu’da kalarak görevini sürdürmesi<br />Yukarıdaki hükümler hangi toplantıda karara bağlanmıştır?
+1. * İstanbul'a gitmeden önce Ankara'ya uğrayacak tüm milletvekillerinin millî konularda aydınlatılması<br />* Mecliste millî teşkilatın programının esaslarını savunacak kuvvetli bir grubun kurulması<br />* Meclisin güvenli çalıştığı görülünceye dek Heyet-i Temsiliye'nin Anadolu’da kalarak görevini sürdürmesi<br />Yukarıdaki hükümler hangi toplantıda karara bağlanmıştır?
     - A-) Amasya Genelgesi
     - B-) Amasya Görüşmeleri
     - **Cevap C-) Komutanlar Toplantısı**
     - D-) Erzurum Kongresi
     - E-) Sivas Kongresi
 
-    > **Açıklama:** İstanbul Hükûmeti bir taraftan seçim hazırlıklarını yürütürken diğer taraftan da meclisin nerede toplanacağı konusunda Heyet-i Temsiliye ile fikir alışverişinde bulunuyordu. Mustafa Kemal Paşa’nın üzerinde durduğu iki şehir, Eskişehir ve Ankara idi. Bu konuyu ve diğer millî konuları görüşmek üzere Üçüncü, On İkinci, On Üçüncü, On Beşinci ve Yirminci Kolordu komutanları Sivas’a davet edildi. 16-29 Kasım 1919 tarihleri arasında yapılan ve yukarıdaki kararların alındığı bu toplantı Komutanlar Toplantısı idi. Doğru yanıt C seçeneğinde verilmiştir.
+    > **Açıklama:** Sivas’ta Komutanlar Toplantısı
+    > İstanbul Hükûmeti bir taraftan seçim hazırlıklarını yürütürken diğer taraftan da meclisin nerede toplanacağı konusunda Heyet-i Temsiliye ile fikir alışverişinde bulunuyordu. Mustafa Kemal Paşa’nın üzerinde durduğu iki şehir, Eskişehir ve Ankara idi. Bu konuyu ve diğer millî konuları görüşmek üzere Üçüncü, On İkinci, On Üçüncü, On Beşinci ve Yirminci Kolordu komutanları Sivas’a davet edildi. 16-29 Kasım 1919 tarihleri arasında yapılan ve yukarıdaki kararların alındığı bu toplantı Komutanlar Toplantısı idi. Doğru yanıt C seçeneğinde verilmiştir.
 
     ***
 1. Hangisi Osmanlı Devleti dağılma sürecindeyken Fransız mandasına geçmiştir?
@@ -928,7 +1030,7 @@
     - D-) Hicaz
     - E-) Ürdün
 
-    > **Açıklama:** Tam bir dağılma olan bu parçalanmadan bir sürü Arap Devleti ortaya çıktı. Irak, Hicaz Kralı Hüseyin’in oğlu Faysal’ın hükümdarlığına getirildiği bir meşruti krallık oldu. Hüseyin’in krallığı altındaki Hicaz da bağımsızlığını ilan etti. Filistin de Irak gibi İngiliz mandasına verildi ve Yahudilerin yerleşimine açıldı. Ürdün, özerk bir prenslik olarak Hüseyin’in diğer oğlu Abdullah’ın yönetiminde Filistin’e bağlandı. Suriye ve Lübnan ise, Fransız mandasına geçti.
+    > **Açıklama:** Tam bir dağılma olan bu parçalanmadan bir sürü Arap Devleti ortaya çıktı. Irak, Hicaz Kralı Hüseyin’in oğlu Faysal’ın hükümdarlığına getirildiği bir meşruti krallık oldu. Hüseyin’in krallığı altındaki Hicaz da bağımsızlığını ilan etti. Filistin de Irak gibi İngiliz mandasına verildi ve Yahudilerin yerleşimine açıldı. Ürdün, özerk bir prenslik olarak Hüseyin’in diğer oğlu Abdullah’ın yönetiminde Filistin’e bağlandı. Suriye ve Lübnan ise, Fransız mandasına geçti.
 
     ***
 1. Mondros Mütarekesi’nin şartlarına göre hareket edilmesini isteyen genelgeyi hangi sadrazam yayınlamıştır?
@@ -991,6 +1093,16 @@
     > **Açıklama:** Yunan emperyalizminin ama­cı olarak bilinen Megali İdea (Büyük Düşünce), Büyük Yunanistan hedefi anlamına gelmektedir. Amacı, tüm Yunan ırkını bir devlet içinde topla­maktır. Bu aynı zamanda Bizans İmparatorluğu’nu yeniden canlandırma siyasetidir. Megali İdea’ya göre, Yunanlılar bir gün birleşecek ve Yunan Kral­lığı “İonya” adı verdikleri devlet, Batı Anadolu’dan Karadeniz’e kadar uzanarak Trakya, Anadolu’nun kıyı bölgeleri ve İstanbul’u da içerisine alacaktır. Bu düşüncenin temelini Etnik-i Eterya Cemiyeti atmıştı.
 
     ***
+1. Yunan işgal kuvvetlerine karşı İzmir’de ilk kurşunu atan kimdir?
+    - A-) Süleyman Fethi
+    - **Cevap B-) Hasan Tahsin**
+    - C-) Hilmi Efendi
+    - D-) Ali Şükrü
+    - E-) Fahri Can
+
+    > **Açıklama:** Yunan işgal kuvvetlerine karşı ilk kurşun İzmir’de işgal sırasında atılmıştı. Hukuk-u Beşer Gazetesi sahibi Hasan Tahsin (Osman Nevres), şehirde törenle ilerleyen Yunan İşgal Kuvvetlerinin bayraktarını tabancayla vurdu.
+
+    ***
 1. Aşağıdakilerden hangisi 15 Mayıs 1919’da İzmir’in İşgali üzerine Sultanahmet Mitinglerini düzenleyicilerindendir?
     - A-) Milli Kongre
     - B-) Milli Ahrar Fırkası
@@ -1018,7 +1130,8 @@
     - **Cevap D-) Mim Mim Cemiyeti**
     - E-) Teali İslam Cemiyeti
 
-    > **Açıklama:** Mim Mim Cemiyeti
+    > **Açıklama:** Milli Mücadele’ye karşı faaliyet gösteren cemiyetlerin başında Hürriyet ve İtilaf Fırkası geliyordu. Bu fırka ile ilişkili olan İngiliz Muhipleri Cemiyeti, Sulh ve Selamet-i Osmaniye Fırkası ve Teali İslam Cemiyeti de çeşitli faaliyetlerle Millî Mücadele Hareketi’nin ve Mustafa Kemal Paşa’nın karşısında yer almışlardır. Bunlar İngiltere himayesi altında bir Osmanlı Devleti talep etmişlerdir. Gizli Karakol Cemiyeti ise İstanbul’da kurulan ve Millî Mücadele’ye destek veren Gizli Felah Grubu, Gizli Karakol Grubu gibi cemiyetlerdendir.
+    > Mim Mim Cemiyeti
 
     ***
 1. Erzurum Kongresi’nde alınan bölgesel kararların tüm memleketi kapsayacak hale dönüştürülmesi aşağıda adı geçen kongrelerden hangisi neticesinde gerçekleşmiştir?
@@ -1028,7 +1141,8 @@
     - D-) Muğla Kongresi
     - E-) Afyon Kongresi
 
-    > **Açıklama:** Sivas Kongresi
+    > **Açıklama:** Sivas Kongresi, Erzurum Kongresi’nin aldığı bölgesel kararları bütün memleketi içine alan bir
+    > hâle getirmiştir. Katılanların farklı bölgelerden olması sebebiyle millî bir kongredir.
 
     ***
 1. Türk kuvvetlerinin Musul'u boşaltmasını ve Nusaybin'e kadar geri çekilmelerini isteyen General Marshall'a mütarekede Musul'un işgaline dair bir hükmün bulunmadığını bildiren Paşa aşağıdakilerden hangisidir?
@@ -1042,7 +1156,7 @@
 
     ***
 1. Hangi tarihte Türk Birlikleri Musul'u boşaltmıştır?
-    - **Cevap A-) 7 Kasım  1918**
+    - **Cevap A-) 7 Kasım 1918**
     - B-) 8 Kasım 1918
     - C-) 7 Kasım 1919
     - D-) 8 Kasım 1919
@@ -1061,10 +1175,20 @@
     > **Açıklama:** İzmir'in Yunanlılar tarafından işgali diğer işgallerden ayrı tutularak ilhak olarak görüldü ve büyük tepkiler doğurdu.
 
     ***
+1. Milli Mücadele Hareketi'nin Fransızlara karşı ilk kurşunu nerede atılmıştır?
+    - **Cevap A-) Dörtyol**
+    - B-) Urfa
+    - C-) Antep
+    - D-) İzmir
+    - E-) Maraş
+
+    > **Açıklama:** Dörtyol
+
+    ***
 1. Antep, Urfa, Maraş Bölgesindeki işgallere büyük direnmenin gösterilmesinin sebebi aşağıdakilerden hangisidir?
     - **Cevap A-) Fransızların Ermenilerle işbirliğine gitmesi**
     - B-) İngiliz kuvvetlerinin Maraş'ı işgal etmesi
-    - C-) Irak ve  Filistin'in İngiliz mandasına girmesi
+    - C-) Irak ve Filistin'in İngiliz mandasına girmesi
     - D-) Diyarbakır ve Adana bölgesine işgal için çetelerin sürülmesi
     - E-) Suriye ve Lübnan'ın Fransa'nın mandasına girmesi
 
@@ -1195,10 +1319,10 @@
     - E-) Türkiye Büyük Millet Meclisine bağlı düzenli ordunun kurulabilmesi için zaman kazandırılması
 
     > **Açıklama:** Millî Mücadele sırasında Kuvayı Milliye birliklerinin faydaları şunlar olmuştur:
-    > 1. Anadolu’yu işgale çalışan kuvvetler daha fazla ilerlemeden belirli noktalarda durduruldu.
-    > 2. Ermeni ve Rum çetelerinin faaliyetlerine karşı Türk yerleşim birimleri korundu.
-    > 3. Millî Mücadele aleyhine çıkan ayaklanmaların bastırılmasında etkili oldu.
-    > 4. Türkiye Büyük Millet Meclisine bağlı düzenli ordunun kurulabilmesi için zaman kazandırdı.
+    > 1\. Anadolu’yu işgale çalışan kuvvetler daha fazla ilerlemeden belirli noktalarda durduruldu.
+    > 2\. Ermeni ve Rum çetelerinin faaliyetlerine karşı Türk yerleşim birimleri korundu.
+    > 3\. Millî Mücadele aleyhine çıkan ayaklanmaların bastırılmasında etkili oldu.
+    > 4\. Türkiye Büyük Millet Meclisine bağlı düzenli ordunun kurulabilmesi için zaman kazandırdı.
     > Doğru cevap b) şıkkıdır.
 
     ***
@@ -1213,6 +1337,17 @@
     > Doğru cevap d) şıkkıdır.
 
     ***
+1. Askerlikten istifa ettikten sonra sıradan bir Osmanlı vatandaşı haline gelmiş olan Mustafa Kemal’e Erzurum Kongresi sırasında, kendisinin ve kolordusunun bağlılığını bildiren komutan aşağıdakilerden hangisinde doğru olarak verilmiştir?
+    - A-) Ahmet Muhtar Paşa
+    - B-) Tevfik Paşa
+    - C-) Ali Fuat Paşa
+    - D-) Cafer Tayyar Paşa
+    - **Cevap E-) Kazım Karabekir Paşa**
+
+    > **Açıklama:** Mustafa Kemal Paşa’nın askerlikten istifası, onu statü olarak sıradan bir Osmanlı vatandaşı durumuna sokmuştur. Bundan sonra Erzurum ve Anadolu’daki konumu, Kazım Karabekir Paşa ile diğer komutanların kendisi hakkında göstereceği tutuma bağlıydı, bu sebeple kendisi de endişeliydi. Fakat Kazım Karabekir Paşa’nın kendisini ziyaret ederek kolordusu ile birlikte emirlerine eskisi gibi hazır olduklarını söylemesi ve bunu bir telgrafla kendisine bildirmesi Mustafa Kemal Paşa’yı rahatlatmıştır.
+    > Doğru cevap e) şıkkıdır.
+
+    ***
 1. Aşağıdakilerden hangisi İstanbul Hükümeti temsilcisi Bahriye Nazırı Salih Paşa ve Mustafa Kemal arasında yapılan ve beş adet protokolle sonuçlanan Amasya Görüşmeleri kararlarından birisi değildir?
     - A-) 30 Ekim 1918’de mütareke ile tespit edilen sınırlar içinde kalan Türklerin oturduğu yerlerden herhangi bir parça, hiçbir nedenle düşmana bırakılmayarak yabancı himaye ve mandası kabul edilmeyecek
     - B-) Gayrimüslimlere Türkiye’nin siyasi egemenliğini ve sosyal düzenini bozacak hiçbir imtiyaz verilmeyecek
@@ -1221,14 +1356,14 @@
     - E-) İtilaf devletleri ile yapılacak barış görüşmelerine Heyet-i Temsiliyenin de uygun gördüğü kişiler gönderilecek
 
     > **Açıklama:** Amasya Görüşmeleri, Sivas Kongresi’nde kabul edilmiş esaslar üzerinde yoğunlaştı ve 20-22 Ekim 1919 tarihleri arasında yapılan görüşmeler sonunda yapılan 5 adet protokolde özetle şu hususlar yer aldı:
-    > 1. 30 Ekim 1918’de mütareke ile tespit edilen sınırlar içinde kalan Türklerin oturduğu yerlerden herhangi bir parça, hiçbir nedenle düşmana bırakılmayarak yabancı himaye ve mandası kabul edilmeyecektir.
-    > 2. Gayrimüslimlere Türkiye’nin siyasi egemenliğini ve sosyal düzenini bozacak hiçbir imtiyaz verilmeyecektir.
-    > 3. Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti hukuki bir teşekkül olmak üzere İstanbul Hükümeti’nce tanınacaktır.
-    > 4. İtilaf devletleri ile yapılacak barış görüşmelerine Heyet-i Temsiliyenin de uygun gördüğü kişiler gönderilecektir.
-    > 5. Osmanlı Meclis-i Mebusanının İstanbul’da toplanması güvenlik açısından uygun değildir.
+    > 1\. 30 Ekim 1918’de mütareke ile tespit edilen sınırlar içinde kalan Türklerin oturduğu yerlerden herhangi bir parça, hiçbir nedenle düşmana bırakılmayarak yabancı himaye ve mandası kabul edilmeyecektir.
+    > 2\. Gayrimüslimlere Türkiye’nin siyasi egemenliğini ve sosyal düzenini bozacak hiçbir imtiyaz verilmeyecektir.
+    > 3\. Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti hukuki bir teşekkül olmak üzere İstanbul Hükümeti’nce tanınacaktır.
+    > 4\. İtilaf devletleri ile yapılacak barış görüşmelerine Heyet-i Temsiliyenin de uygun gördüğü kişiler gönderilecektir.
+    > 5\. Osmanlı Meclis-i Mebusanının İstanbul’da toplanması güvenlik açısından uygun değildir.
 
     ***
-1. Aşağıdakilerden hangisi I. Dünya Savaşı sonucu yıkılan imparatorluklardan biri değildir?
+1. Aşağıdakilerden hangisi I. Dünya Savaşı sonucu yıkılan imparatorluklardan biri değildir?
     - A-) Rus Çarlığı
     - B-) Avusturya-Macaristan İmparatorluğu
     - **Cevap C-) İngiliz Krallığı**
@@ -1279,23 +1414,23 @@
     > Galipler, 3.500 askeri karaya çıkarmak ve Boğaz istihkâmlarına yerleşmek için gemilerde bekliyordu.
 
     ***
-1. İzmir'in Yunanlılar tarafında işgali ile ilgili olarak aşağıdaki bilgilerden hangisi yanlıştır?
+1. İzmir'in Yunanlılar tarafında işgali ile ilgili olarak aşağıdaki bilgilerden hangisi yanlıştır?
     - A-) İzmir, 12.000 mevcutlu Yunan askerî kuvveti tarafından işgal edildi.
-    - B-) Yunan işgal kuvvetlerine karşı ilk kurşun Hukuk-u Beşer Gazetesi sahibi Hasan Tahsin tarafından atılmıştır.
+    - B-) Yunan işgal kuvvetlerine karşı ilk kurşun Hukuk-u Beşer Gazetesi sahibi Hasan Tahsin tarafından atılmıştır.
     - C-) Müttefikler, daha zayıf ve kontrol edilebilir bir ülke olması nedeni ile İzmir'i İtalya yerine Yunanistan’ın işgal etmesine izin vermiştir.
     - D-) ABD Başkanı ve Fransız Cumhurbaşkanı'nın kabulü ile Yunanistan'ın İzmir'i işgali resmiyet kazanmıştır.
     - **Cevap E-) 16 Mayıs 1919’da İzmir Limanı ele geçirilmiş ve şehrin işgali başlamıştır.**
 
     > **Açıklama:** 15 Mayıs 1919’da gelen savaş gemileri ile İzmir Limanı ele geçirilmiş ve şehrin işgali başlamıştır.
-    > **16 Mayıs 1919**Bandırma Vapuru ile  Mustafa Kemal ve silah arkadaşlarının İstanbul'dan Anadolu'ya hareket ettikleri tarihtir.
+    > **16 Mayıs 1919** Bandırma Vapuru ile Mustafa Kemal ve silah arkadaşlarının İstanbul'dan Anadolu'ya hareket ettikleri tarihtir.
 
     ***
 1. "Mustafa Kemal Paşa, Şişli’deki evinde .............., ............... ve ........... ile görüşmelerde bulunarak memleketin geleceği konusunda sık sık görüş alışverişinde bulundu."<br />Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi doğru olarak tamamlar?
     - **Cevap A-) Ali Fuat Paşa / Kâzım Karabekir Paşa / İsmet Paşa**
     - B-) Ali Fuat Paşa / Ali İhsan Paşa/ Kâzım Karabekir Paşa
-    - C-) Ali İhsan Paşa / İsmet Paşa / Ahmet İzzet Paşa
-    - D-) İsmet Paşa / Ahmet İzzet Paşa/ Cafer Tayyar Paşa
-    - E-) Kâzım Karabekir Paşa / Tevfik Paşa / Ali Fuat Paşa
+    - C-) Ali İhsan Paşa / İsmet Paşa / Ahmet İzzet Paşa
+    - D-) İsmet Paşa / Ahmet İzzet Paşa/ Cafer Tayyar Paşa
+    - E-) Kâzım Karabekir Paşa / Tevfik Paşa / Ali Fuat Paşa
 
     > **Açıklama:** Mustafa Kemal Paşa, Şişli’deki evinde **Ali Fuat Paşa, Kâzım Karabekir Paşa** ve **İsmet Beyler** ile görüşmelerde bulunarak memleketin geleceği konusunda sık sık görüş alışverişinde bulundu
 
@@ -1307,15 +1442,15 @@
     - D-) Sivas Kongresi
     - E-) Üç Sancak Kongresi
 
-    > **Açıklama:** Amasya Genelgesi  21-22 Haziran 1919’da gecesi kamuoyu ile paylaşıldı. Bu genelgenin hükümleri şunlardır:
+    > **Açıklama:** Amasya Genelgesi 21-22 Haziran 1919’da gecesi kamuoyu ile paylaşıldı. Bu genelgenin hükümleri şunlardır:
     > **1. Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir.**
-    > 2. İstanbul Hükûmeti üzerine aldığı sorumluluğun gereğini yerine getirememektedir. Bu durum milletimizi yok olmuş gibi gösteriyor.
-    > 3. Milletin bağımsızlığını, yine milletin azim ve kararı kurtaracaktır.
-    > 4. Milletin içinde bulunduğu durum ve şartların gereğini yerine getirmek ve haklarını gür sesle cihana duyurmak için her türlü baskı ve kontrolden uzak bir millî heyetin varlığı zaruridir.
-    > 5. Anadolu’nun her bakımdan en güvenli yeri olan Sivas’ta hemen millî bir kongrenin toplanması kararlaştırılmıştır.
-    > 6. Bunun için bütün illerin her sancağından milletin güvenini kazanmış üç temsilcinin mümkün olan en kısa zamanda yetişmek üzere yola çıkarılması gerekmektedir.
-    > 7. Her ihtimale karşı, bu mesele millî bir sır olarak tutulmalı ve temsilciler, yolculuklarını kendilerini tanıtmadan yapmalıdır.
-    > 8. Doğu illeri adına, 10 Temmuz’da, Erzurum’da bir kongre toplanacaktır. O tarihe kadar öteki illerin temsilcileri de Sivas’a gelebilirlerse, Erzurum Kongresi’nin üyeleri de Sivas Genel Kongresi’ne katılmak üzere hareket edeceklerdir.
+    > 2\. İstanbul Hükûmeti üzerine aldığı sorumluluğun gereğini yerine getirememektedir. Bu durum milletimizi yok olmuş gibi gösteriyor.
+    > 3\. Milletin bağımsızlığını, yine milletin azim ve kararı kurtaracaktır.
+    > 4\. Milletin içinde bulunduğu durum ve şartların gereğini yerine getirmek ve haklarını gür sesle cihana duyurmak için her türlü baskı ve kontrolden uzak bir millî heyetin varlığı zaruridir.
+    > 5\. Anadolu’nun her bakımdan en güvenli yeri olan Sivas’ta hemen millî bir kongrenin toplanması kararlaştırılmıştır.
+    > 6\. Bunun için bütün illerin her sancağından milletin güvenini kazanmış üç temsilcinin mümkün olan en kısa zamanda yetişmek üzere yola çıkarılması gerekmektedir.
+    > 7\. Her ihtimale karşı, bu mesele millî bir sır olarak tutulmalı ve temsilciler, yolculuklarını kendilerini tanıtmadan yapmalıdır.
+    > 8\. Doğu illeri adına, 10 Temmuz’da, Erzurum’da bir kongre toplanacaktır. O tarihe kadar öteki illerin temsilcileri de Sivas’a gelebilirlerse, Erzurum Kongresi’nin üyeleri de Sivas Genel Kongresi’ne katılmak üzere hareket edeceklerdir.
 
     ***
 1. "Her türlü yabancı işgal ve müdahalesine karşı, millet birlik olarak kendisini müdafaa ve mukavemet edecektir." kararı aşağıdaki kongrelerden hangisinde alınmıştır?
@@ -1326,17 +1461,17 @@
     - E-) Balıkesir Kongresi
 
     > **Açıklama:** Erzurum Kongresi 7 Ağustos 1919’da yayımladığı beyanname ile çalışmalarına son verdi. Millî Mücadele için son derece önemli olan bu kongrenin aldığı kararlar şunlardır:
-    > 1. Doğu Anadolu ile Trabzon ve Canik (Samsun) Sancağı hiçbir sebep ve bahane ile Osmanlı Devleti’nden ayrılması mümkün olmayan bir bütündür.
+    > 1\. Doğu Anadolu ile Trabzon ve Canik (Samsun) Sancağı hiçbir sebep ve bahane ile Osmanlı Devleti’nden ayrılması mümkün olmayan bir bütündür.
     > **2. Her türlü yabancı işgal ve müdahalesine karşı, millet birlik olarak kendisini müdafaa ve mukavemet edecektir.**
-    > 3. Vatanın ve istiklalin korunmasına İstanbul Hükûmeti muktedir olmadığı takdirde, gayeyi temin için Anadolu’da geçici bir hükûmet kurulacaktır.
-    > 4. Kuvayı Milliye’yi âmil (millî kuvvetleri etkin) ve irade-i milliyeyi (millî iradeyi) hâkim kılmak esastır.
-    > 5. Hristiyan azınlıklara siyasi hâkimiyet ve sosyal dengemizi bozan imtiyazlar verilemez.
-    > 6. Manda ve himaye kabul olunmaz.
-    > 7. Millî bir meclisin derhâl toplanmasına ve hükûmet işlerinin meclisin denetimi altına yürütülmesine çalışılacaktır.
-    > 8. Milletimiz insani ve medeni gayeleri kabul eder, sanayi ve iktisadi ilerlemeyi takdir eder.
+    > 3\. Vatanın ve istiklalin korunmasına İstanbul Hükûmeti muktedir olmadığı takdirde, gayeyi temin için Anadolu’da geçici bir hükûmet kurulacaktır.
+    > 4\. Kuvayı Milliye’yi âmil (millî kuvvetleri etkin) ve irade-i milliyeyi (millî iradeyi) hâkim kılmak esastır.
+    > 5\. Hristiyan azınlıklara siyasi hâkimiyet ve sosyal dengemizi bozan imtiyazlar verilemez.
+    > 6\. Manda ve himaye kabul olunmaz.
+    > 7\. Millî bir meclisin derhâl toplanmasına ve hükûmet işlerinin meclisin denetimi altına yürütülmesine çalışılacaktır.
+    > 8\. Milletimiz insani ve medeni gayeleri kabul eder, sanayi ve iktisadi ilerlemeyi takdir eder.
 
     ***
-1. Milli Mücadele'nin önemli aşamalarından biri olan Heyeti Temsiliye'nin ve  Mustafa Kemal Paşa'nın Ankara'ya gelişi kaç tarihinde gerçekleşmiştir?
+1. Milli Mücadele'nin önemli aşamalarından biri olan Heyeti Temsiliye'nin ve Mustafa Kemal Paşa'nın Ankara'ya gelişi kaç tarihinde gerçekleşmiştir?
     - A-) 22 Ekim 1919
     - B-) 18 Aralık 1919
     - **Cevap C-) 27 Aralık 1919**
@@ -1355,7 +1490,7 @@
     - D-) Heyet-i Temsiliye
     - E-) Düyun-ı Umumiye
 
-    > **Açıklama:** Misak-ı Millî
+    > **Açıklama:** “Ahd-ı Millî”, “Millî And”, “Peyman-ı Millî” gibi isimlerle de anılan ve Mebusan Meclisinde alınmış olan kararlara Misak-ı Millî adı verilmiştir.
 
     ***
 1. Misak-ı Millî ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
@@ -1365,7 +1500,7 @@
     - D-) Erzurum ve Sivas Kongresi kararları bu metnin temelini oluşturmuştur.
     - E-) Türk vatanının sınırları çizilmiştir.
 
-    > **Açıklama:** 17 şubat 1920 tarihinde yayımlanmıştır.
+    > **Açıklama:** Misak-ı Millî, 17 Şubat 1920 tarihinde yayımlanmıştır.
 
     ***
 1. Meclis-i Mebusan öncelikli olarak 18 Mart’ta çalışmalarına ara vermiş, .............. tarihinde ise Padişah tarafından kapatılmıştır. Böylece Osmanlı Devleti’nin Meşrutiyet Dönemi de sona ermiştir.<br />Yukarıda noktalarla gösterilen boşluğu en doğru şekilde aşağıdakilerden hangisi tamamlar?
@@ -1375,17 +1510,18 @@
     - D-) 16 Nisan 1920
     - E-) 12 Mayıs 1920
 
-    > **Açıklama:** 11 Nisan 1920
+    > **Açıklama:** Meclis-i Mebusan öncelikli olarak 18 Mart’ta çalışmalarına ara vermiş, 11 Nisan 1920 tarihinde ise Padişah tarafından kapatılmıştır. Böylece Osmanlı Devleti’nin Meşrutiyet Dönemi de sona ermiştir.
 
     ***
-1. "Paris’te .............tarihinde  32 ülke temsilcisinin katıldığı barış konferansındaki en temel amaç yeni dünya düzenini belirlemekti."<br />Yukarıdaki boşluğu en doğru şekilde aşağıdakilerden hangisi tamamlar?
+1. "Paris’te .............tarihinde 32 ülke temsilcisinin katıldığı barış konferansındaki en temel amaç yeni dünya düzenini belirlemekti."<br />Yukarıdaki boşluğu en doğru şekilde aşağıdakilerden hangisi tamamlar?
     - **Cevap A-) 18 Ocak 1919**
     - B-) 12 Ocak 1919
     - C-) 18 Şubat 1919
     - D-) 18 Mart 1919
     - E-) 18 Ekim 1919
 
-    > **Açıklama:** 18 Ocak 1919
+    > **Açıklama:** Paris’te 18 Ocak 1919’da 32 ülke temsilcisinin katıldığı barış konferansındaki en temel amaç yeni dünya
+    > düzenini belirlemekti
 
     ***
 1. "...............; ABD, İngiltere, Fransa, İtalya ve Japonya’nın devlet ya da hükûmet başkanları ile dışişleri bakanlarından oluşan yüksek konseye verilen isimdir. Bu konsey aynı zamanda savaş sonrası yeni dünya düzenini de belirlemeyi amaçlamıştır."<br />Yukarıdaki boşluğu en doğru şekilde aşağıdakilerden hangisi tamamlar?
@@ -1395,7 +1531,7 @@
     - D-) Nato Konseyi
     - E-) Birleşmiş Milletler Konseyi
 
-    > **Açıklama:** Onlar Konseyi
+    > **Açıklama:** Onlar Konseyi: ABD, İngiltere, Fransa, İtalya ve Japonya’nın devlet ya da hükûmet başkanları ile dışişleri bakanlarından oluşan yüksek konseye verilen isimdir. Bu konsey aynı zamanda savaş sonrası yeni dünya düzenini de belirlemeyi amaçlamıştır.
 
     ***
 1. "..............; ABD Başkanı Wilson tarafından savunulan ilkeler içinde “ulusların kendi kaderini tayin etme” hakkı olarak tanımlanabilecek politik kavramdır."<br />Yukarıdaki boşluğu aşağıdaki seçeneklerden hangisi en doğru şekilde tamamlar?
@@ -1405,17 +1541,18 @@
     - D-) Birleşmiş Milletler Konseyi
     - E-) Avrupa Konseyi
 
-    > **Açıklama:** Self Determinasyon
+    > **Açıklama:** Self Determinasyon; ABD Başkanı Wilson tarafından savunulan ilkeler içinde “ulusların kendi kaderini tayin etme” hakkı olarak tanımlanabilecek politik kavramdır.
 
     ***
 1. Aşağıdaki konferans ve tarihler eşleştirmelerinin hangisi doğrudur?
     - **Cevap A-) 19-26 Nisan 1920/ San Remo Konferansı**
     - B-) 12 Şubat 1921/ Birinci Londra Konferansı
-    - C-) 18 Aralık 1919/ Paris Barış Konferansı
-    - D-) 15-17 Nisan 1920/ San Remo Konferansı
-    - E-) 21 Mart 1919/ Paris Barış Konferansı
+    - C-) 18 Aralık 1919/ Paris Barış Konferansı
+    - D-) 15-17 Nisan 1920/ San Remo Konferansı
+    - E-) 21 Mart 1919/ Paris Barış Konferansı
 
-    > **Açıklama:** 19-26 Nisan 1920/ San Remo Konferansı
+    > **Açıklama:** 19-20 Nisan 1926/ San Remo Konferansı
+    > 19-26 Nisan 1920/ San Remo Konferansı
 
     ***
 1. "............tarihinde imzalanan Sevr Antlaşması, Osmanlı Devleti ile İngiltere, Fransa, İtalya, Japonya, Ermenistan, Belçika, Yunanistan, Polonya, Romanya, Sırp-Hırvat-Slovenya ve Çekoslovakya arasında imzalandı."<br />Yukarıdaki boşluğu aşağıdaki seçeneklerden hangisi en doğru şekilde tamamlar?
@@ -1425,7 +1562,8 @@
     - D-) 13 Ağustos 1920
     - E-) 14 Ağustos 1920
 
-    > **Açıklama:** 10 Ağustos 1920
+    > **Açıklama:** 10 Ağustos 1920’de imzalanan Sevr Antlaşması, Osmanlı Devleti ile İngiltere, Fransa, İtalya, Japonya, Ermenistan, Belçika, Yunanistan, Polonya, Romanya, Sırp-Hırvat-Slovenya ve Çekoslovakya
+    > arasında imzalandı.
 
     ***
 1. Aşağıdakilerden hangisi Millî Mücadele Dönemi’nde Anadolu’da çıkan gazeteler arasında yer almaz?
@@ -1435,7 +1573,7 @@
     - D-) Albayrak
     - E-) Minber
 
-    > **Açıklama:** Sabah
+    > **Açıklama:** Millî Mücadele’ye karşı yayın yapan önemli gazeteler; Alemdar, Peyam-ı Sabah, Sebillürreşad, Aydede ve Yeni İstanbul gazeteleridir.
 
     ***
 1. Anadolu Ajansı hangi tarihte kurulmuştur?
@@ -1445,7 +1583,7 @@
     - D-) 19 Nisan 1920
     - E-) 27 Nisan 1920
 
-    > **Açıklama:** 6 Nisan 1920
+    > **Açıklama:** Gelişmeleri düzenli ve zamanında halka ulaştırmak ve hükûmet ile halk arasındaki bağlantıyı kuvvetlendirmek amacıyla 06 Nisan 1920 tarihinde Anadolu Ajansı kurulmuştur.
 
     ***
 1. Aşağıdakilerden hangisi TBMM'nin açılışının ardından yapılan seçimle ikinci reisliğe seçilmiştir?
@@ -1458,7 +1596,7 @@
     > **Açıklama:** Son Osmanlı Meclis-i Mebusan Reisi Erzurum mebusu Celalettin Arif Bey de ayrı bir seçim sonucunda 120 oyun 109’unu alarak İkinci Reis oldu.
 
     ***
-1. Aşağıdakilerden hangisi Hıyanet-i Vataniye Kanunu'nun çıkarılmasının sebebidir?
+1. Aşağıdakilerden hangisi Hıyanet-i Vataniye Kanunu'nun çıkarılmasının sebebidir?
     - A-) Padişahın yetkilerinin sınırlandırılması
     - **Cevap B-) Meclisin meşruiyetine yazılı yahut sözlü yapılan saldırıların önlenmesi**
     - C-) Osmanlı hükumetine yapılan saldırıların önlenmesi
@@ -1468,7 +1606,7 @@
     > **Açıklama:** 29 Nisan 1920’de Meclis Hıyanet-i Vataniye Kanunu’nu çıkararak Meclisin meşruiyetine yazılı yahut sözlü dahi olsa yapılan saldırıların vatan hainliği sayılacağı ve ölümle cezalandırılacağını kabul etti.
 
     ***
-1. Aşağıdakilerden hangisi Nisâb-ı Müzakere Kanunu'nun çıkarılma sebeplerinden biridir?
+1. Aşağıdakilerden hangisi Nisâb-ı Müzakere Kanunu'nun çıkarılma sebeplerinden biridir?
     - A-) İstanbul hükumetini yok saymak
     - B-) Vatan hainlerini cezalandırmak
     - **Cevap C-) Milletvekili sayısının ne olması gerektiğini belirlemek**
@@ -1540,7 +1678,7 @@
 
     ***
 ## Unite 5
-1. Aşağıdakilerden hangisi tüm çabalara rağmen Kuvayı Milliye birliklerinin askerî bir disiplin ve hiyerarşi içine sokulamaması ve düşmanın ilerleyişini durdurmakta başarı sağlayamamasının nedenlerindendir?<br />I. Her Kuvayı Milliye grubunun kendi liderinin emrini dinlemesi,<br />II. Gerek asilere ve gerekse halka yönelik keyfi tutum ve davranışların                     sergilenmesi<br />III. Batı Cephesi’nin yeni bir yapılanma ile  ikiye ayrılması<br />IV. İzmir ve Aydın bölgelerinin Yunanlıların eline geçmesi<br />V.   TBMM'nin 2 Mayıs 1920'de çıkardığı bir kanunla Bakanlar Kurulunu            oluşturması
+1. Aşağıdakilerden hangisi tüm çabalara rağmen Kuvayı Milliye birliklerinin askerî bir disiplin ve hiyerarşi içine sokulamaması ve düşmanın ilerleyişini durdurmakta başarı sağlayamamasının nedenlerindendir?<br />I. Her Kuvayı Milliye grubunun kendi liderinin emrini dinlemesi,<br />II. Gerek asilere ve gerekse halka yönelik keyfi tutum ve davranışların sergilenmesi<br />III. Batı Cephesi’nin yeni bir yapılanma ile ikiye ayrılması<br />IV. İzmir ve Aydın bölgelerinin Yunanlıların eline geçmesi<br />V. TBMM'nin 2 Mayıs 1920'de çıkardığı bir kanunla Bakanlar Kurulunu oluşturması
     - **Cevap A-) I ve II**
     - B-) II ve III
     - C-) III ve IV
@@ -1557,7 +1695,7 @@
     - D-) 5 Aralık 1920’de Ermenistan’ın Ruslar tarafından işgal edilmesiyle Ermenilerle ilgili sorunların Ruslara geçmesi
     - E-) 3 Aralık 1920 tarihinde Gümrü Antlaşmasının imzalanması
 
-    > **Açıklama:** Rusya’da 1917’de devrim olması Doğu Anadolu’daki şartarı Türklerin lehine değiştirmiştir. İç karışıklıklarla uğraşan Rus ordusunun etkisi Doğu Anadolu ve Kafkaslarda zayıflamıştır.
+    > **Açıklama:** Rusya’da 1917’de devrim olması Doğu Anadolu’daki şartarı Türklerin lehine değiştirmiştir. İç karışıklıklarla uğraşan Rus ordusunun etkisi Doğu Anadolu ve Kafkaslarda zayıflamıştır. Bunu fırsat bilen Türk ordusu harekete geçmiş, Doğu Anadolu’yu tamamen Rus işgalinden kurtarmakla kalmamış Azerbaycan’ın başkenti Bakü’ye kadar ilerlemişltir. Çarlık Rusya’sını yıkan Bolşevikler 3 Mart 1918’de Brest-Litovsk Antlaşması’nı imzalayarak savaştan çekilmiştir.
 
     ***
 1. I. Düzenli ordu ilk sınavında başarılı olmuş ve ordu kişiliğini kazanmıştır.<br />II. Düzenli ordu-Kuvayı Milliye tartışması son bulmuştur.<br />III. Zafer TBMM Hükûmeti’nin otoritesini güçlendirmiş ve Türk halkına büyük bir moral ve ümit aşılamıştır.<br />IV. Sovyet Rusya’nın TBMM Hükûmeti’ne yaklaşımı daha yapıcı hâle gelmiştir.<br />V. İtilaf devletleri Sevr’i kabul ettirebilmek için şartları yumuşatmayı ve bunun için de Londra’da bir konferans toplamayı kararlaştırmışlardır<br />Yukarıdaki gelişmelere yol açan olay aşağıdakilerden hangisidir?
@@ -1567,28 +1705,45 @@
     - D-) Sakarya Savaşı'nın kazanılması
     - E-) Yunanlıların Gediz'de yenilgiye uğratılması
 
-    > **Açıklama:** Bkz. s. 167 de Birinci İnönü Muharebesi (6-11 Ocak1921) bölümde açıklamalar uzun bir şekilde verilmiştir.
+    > **Açıklama:** Türk ordusunun İnönü’deki zaferi üzerine Anadolu’nun her tarafında vatanın kurtuluşu için gösteriler yapılmış TBMM’ye her taraftan kutlama telgrafları gönderilmiştir. Meclisin 17 Ocak 1921 günkü birinci oturumunda meclise gönderilen telgraflar okunmuştur. Birinci İnönü Muharebesi dar alanda küçük çaplı bir muharebe olmasına rağmen ulusal ve uluslararası önemli sonuçları olmuştur. Bu sonuçların bazıları aşağıda verilmiştir (Turan vd., 2013; Gencer ve Özel, 2014).
+    > • Düzenli ordu ilk sınavında başarılı olmuş ve ordu kişiliğini kazanmıştır.
+    > • Düzenli ordu-Kuvayı Milliye tartışması son bulmuştur.
+    > • Zafer TBMM Hükûmeti’nin otoritesini güçlendirmiş ve Türk halkına büyük bir moral ve ümit aşılamıştır.
+    > • Çerkez Ethem olayı tamamen halledilmiştir.
+    > • Sovyet Rusya’nın TBMM Hükûmeti’ne yaklaşımı daha yapıcı hâle gelmiştir.
+    > • İtilaf devletleri Sevr’i kabul ettirebilmek için şartları yumuşatmayı ve bunun için de Londra’da bir konferans toplamayı kararlaştırmış
+    > Bkz. s. 167 de Birinci İnönü Muharebesi (6-11 Ocak1921) bölümde açıklamalar uzun bir şekilde verilmiştir.
 
     ***
 1. ''Halkın kapitalizm ve emperyalizm baskısı ve zulmünden kurtarılacağı ve halkın yönetim ve egemenliğin tek sahibi yapılacağı ifade edilmiştir. Meclis bünyesinde kurulan Encümen-i Mahsusa (Özel Komisyon) 24 madde ve bir geçici maddeden oluşan Anayasa taslağını hazırlayarak Meclise sundu. Taslak üzerinde yapılan görüşmelerden sonra 20 Ocak 1921’de TBMM’nin çıkardığı 85. Kanun olarak kabul edilmiştir.''<br />Yukarıda verilen parçadan yola çıkarak bir anayasa gerekliliği ve kısa bir metin olarak ortaya konmasının sebebi hangisi olabilir?
     - A-) Konferansın TBMM Hükûmeti açısından en önemli kazanımları arasında, hukuksal alanda uluslararası bir tanınma sağlamış olunması
     - B-) Misak-ı Millî gibi bir yol haritasının olduğunu İtilaf devletlerine duyurmuş olması
     - C-) Fransa ve İtalya artık Yunan yayılmasını, İngiltere’nin Doğu Akdeniz’de kendilerine bağlı bir kukla devlet kurma girişimi olarak görmeleri
-    - **Cevap D-) Olağanüstü bir dönemde ihtiyaçları karşılamak ve geçici olarak ortaya çıkan   kısmi iktidar boşluğunu doldurmak**
+    - **Cevap D-) Olağanüstü bir dönemde ihtiyaçları karşılamak ve geçici olarak ortaya çıkan kısmi iktidar boşluğunu doldurmak**
     - E-) TBMM’de her biri ayrı görüşe sahip değişik gruplar olması
 
     > **Açıklama:** Teşkilat-ı Esasiye Kanunu, olağanüstü bir dönemde ihtiyaçları karşılamak ve geçici olarak ortaya çıkan kısmi iktidar boşluğunu doldurmak üzere hazırlanmış
-    > kısa bir anayasadır.
+    > kısa bir anayasadır. Bu Anayasa aynı zamanda yeni oluşmakta olan Yeni Türk Devleti’nin kuruluş felsefesinin önemli aşamalarından birisidir.
 
     ***
-1. Aşağıdakilerden hangisi Sakarya Meydan Muharebesi’nin  sonuçlanmasının askerî ve siyasi sonuçlarından biri **değildir?**
+1. Aşağıdakilerden hangisi Sakarya Meydan Muharebesi’nin sonuçlanmasının askerî ve siyasi sonuçlarından biri **değildir?**
     - A-) Sakarya Zaferi ile üstünlük Türk ordusuna geçmiştir
     - B-) Önce Sakarya Nehri’nin doğusu, sonra da Afyonkarahisar-Eskişehir hattına kadar olan vatan toprakları Yunanlılardan temizlenmiştir
     - C-) Sakarya Meydan Muharebesi sonuna kadar stratejik savunma yapılırken Sakarya’dan sonra stratejik taarruza dönülmüştür.
-    - D-) Sakarya Zaferi, Büyük Taarruz (26 Ağustos 1922) ve Başkomutanlık Meydan   Muharebesi’nin (30 Ağustos 1922) hazırlıkları için gerekli zamanı kazandırmıştır
+    - D-) Sakarya Zaferi, Büyük Taarruz (26 Ağustos 1922) ve Başkomutanlık Meydan Muharebesi’nin (30 Ağustos 1922) hazırlıkları için gerekli zamanı kazandırmıştır
     - **Cevap E-) Teşkilat-ı Esasiye Kanunu'nun kabul edilmesi**
 
-    > **Açıklama:** Teşkilat-ı Esasiye Kanunu'nun kabul edilmesi I. İnönü Savaşı'ndan sonra gerçekleşmiştir.
+    > **Açıklama:** Sakarya Meydan Muharebesi’nin zaferle sonuçlanmasının askerî ve siyasi sonuçları bakımından Türk tarafına çok önemli katkıları olmuştur. Şöyle ki:
+    > • Sakarya Zaferi ile üstünlük Türk ordusuna geçmiştir.
+    > • Önce Sakarya Nehri’nin doğusu, sonra da Afyonkarahisar-Eskişehir hattına kadar olan vatan toprakları Yunanlılardan temizlenmiştir.
+    > • Türk ordusunun askerî harekâtı yön değiştirmiştir. Sakarya Meydan Muharebesi
+    > sonuna kadar stratejik savunma yapılırken
+    > Sakarya’dan sonra stratejik taarruza dönülmüştür. Zira Yunan ordusu stratejik saldırı yapma gücünü kaybetmiştir.
+    > • Sakarya Zaferi, Büyük Taarruz (26 Ağustos 1922) ve Başkomutanlık Meydan
+    > Muharebesi’nin (30 Ağustos 1922) hazırlıkları için gerekli zamanı kazandırmıştır.
+    > • Sakarya Zaferi’nden sonraTürk milleti, Başkomutan Mustafa Kemal Paşa’ya TBMM aracılığıyla 19 Eylül 1921 tarihinde Gazi unvanı ve Mareşal rütbesini vermiştir.
+    > • Sakarya Zaferi’nden bir ay sonra, 13 Ekim 1921 günü Sovyet Rusya’nın aracılığıyla Ankara
+    > Teşkilat-ı Esasiye Kanunu'nun kabul edilmesi I. İnönü Savaşı'ndan sonra gerçekleşmiştir.
 
     ***
 1. Türkiye adı TBMM Hükûmeti’nin imzaladığı hangi antlaşmada **ilk kez** kullanılmıştır?
@@ -1601,9 +1756,9 @@
     > **Açıklama:** İlk kez “Türkiye” adı geçen ve TBMM Hükûmeti’nin imzaladığı ilk siyasi antlaşması olan Gümrü Antlaşması ile doğu sınırı büyük ölçüde güvence altına alınmıştır.
 
     ***
-1. I. TBMM Hükümeti'ni hukuksal alanda uluslararası bir tanınma sağlamış olunması,<br />II. Misak-ı Milli'yi İtilaf devletlerine duyurmuş olması<br />III. İtilaf devletleri arasındaki Türkiye anlaşmazlığının daha da derinleşmiş                 olması<br />IV. İtilaf devletlerinin arasındaki anlaşmazlığın Fransa’yı Ankara ile anlaşma             yapma noktasına kadar götürmüş olması<br />Yukarıdaki gelişmelere yol açan olay aşağıdakilerden hangisidir?
+1. I. TBMM Hükümeti'ni hukuksal alanda uluslararası bir tanınma sağlamış olunması,<br />II. Misak-ı Milli'yi İtilaf devletlerine duyurmuş olması<br />III. İtilaf devletleri arasındaki Türkiye anlaşmazlığının daha da derinleşmiş olması<br />IV. İtilaf devletlerinin arasındaki anlaşmazlığın Fransa’yı Ankara ile anlaşma yapma noktasına kadar götürmüş olması<br />Yukarıdaki gelişmelere yol açan olay aşağıdakilerden hangisidir?
     - A-) Londra Konferansı’nda TBMM Hükûmeti’ni Dışişleri Bakanı Bekir Sami [KUNDUK] Bey ve heyetinin temsil etmesi
-    - **Cevap B-) İtilaf devletlerinin Londra Konferansına doğrudan doğruya TBMM hükumetini davet etmeleri**
+    - **Cevap B-) İtilaf devletlerinin Londra Konferansına doğrudan doğruya TBMM hükumetini davet etmeleri**
     - C-) Mustafa Kemal Paşa'nın kendi grubu olan Anadolu ve Rumeli Müdafaa-i Hukuk Grubunu teşkilatlandırması
     - D-) Meclis bünyesinde kurulan Encümen-i Mahsusa (Özel Komisyon) 24 madde ve bir geçici maddeden oluşan Anayasa taslağını hazırlayarak Meclise sunması
     - E-) Sovyet Rusya ile Moskova Antlaşması'nın imzalanması
@@ -1626,7 +1781,7 @@
 1. I. Meclisten cepheye bir heyet gönderilmesi<br />II. Ankara’nın savunulması için gerekli tedbirlerin hemen alınmaya başlanması<br />III. Evrak ve ağırlıkların Kayseri’ye taşınması için Meclise yetki verilmesi<br />IV. Meclisin çalışmalarına ara vermeden çalışmalarına devam etmesi<br />Yukarıda verilenler hangisinin sonucu olarak ortaya çıkmıştır?
     - A-) Kütahya-Eskişehir Muharebesi’nden sonra yaşanan bunalımlı günlerden çıkmak için çareler arandığı bir sırada Mustafa Kemal Paşa’nın ordunun bizzat başına geçmesi yönünde görüşler ortaya çıkmıştır.
     - B-) “Mustafa Kemal ordunun başına geçmelidir” sözleri üzerine Mustafa Kemal Paşa koşulların oluştuğunu düşünmüş ve kürsüye çıkarak kendisine duyulan güven için teşekkür etmiş ve bir de önerge sunmuştur.
-    - C-) Vatanın düşmandan kurtarılması için ordunun güçlendirilmesi ve sağlamlaştırılmasına yönelik olarak Anadolu halkından istenilen fedakârlıklarla   ilgili olarak Başkomutanlık 7/8 Ağustos 1921’de Tekâlif-i Milliye emirlerini yayımlamıştır.
+    - C-) Vatanın düşmandan kurtarılması için ordunun güçlendirilmesi ve sağlamlaştırılmasına yönelik olarak Anadolu halkından istenilen fedakârlıklarla ilgili olarak Başkomutanlık 7/8 Ağustos 1921’de Tekâlif-i Milliye emirlerini yayımlamıştır.
     - **Cevap D-) Meclis gizli oturumunda söz alan Fevzi Paşa'nın, şehir ve bölge savaşı yapmadıklarını, tarihî günler yaşandığını, hedefin kesin zafer olduğunu belirten açıklamaları meclis üyelerini ve bu dönemde ilk defa birlikte hareket ederek ortaya çıkan bir muhalif grubu yatıştırmaya yeterli olmamıştır.**
     - E-) Birinci ve İkinci İnönü Muharebelerinde yenik duruma düşen Yunanlılar, Kütahya - Eskişehir Muharebeleri başarılarından elde ettikleri moral ve İngilizlerin de teşvikiyle Anadolu’da ilerlemelerine devam etmek ve Millî Hükûmeti zor duruma sokmak istemişlerdir.
 
@@ -1640,7 +1795,7 @@
     - D-) IV
     - **Cevap E-) V**
 
-    > **Açıklama:** Kütahya-Eskişehir Muharebesi’nden sonra yaşanan bunalımlı günlerden çıkmak için çareler arandığı bir sırada Mustafa Kemal Paşa’nın ordunun bizzat başına geçmesi yönünde görüşler ortaya çıkmıştır. Bu görüş ve tartışmalar arasında on milletvekilinin önergesi ivedilikle görüşülmüş Başkomutanlık Kanunu kabul edilmiştir (Atatürk, 1998).
+    > **Açıklama:** Kütahya-Eskişehir Muharebesi’nden sonra yaşanan bunalımlı günlerden çıkmak için çareler arandığı bir sırada Mustafa Kemal Paşa’nın ordunun bizzat başına geçmesi yönünde görüşler ortaya çıkmıştır. Bu görüş ve tartışmalar arasında on milletvekilinin önergesi ivedilikle görüşülmüş Başkomutanlık Kanunu kabul edilmiştir (Atatürk, 1998).
 
     ***
 ## Unite 6
@@ -1651,7 +1806,7 @@
     - D-) İtalya
     - E-) A.B.D.
 
-    > **Açıklama:** Bulgaristan
+    > **Açıklama:** 1914-1918 yılları arasında gerçekleşen Birinci Dünya Savaşı sonunda İtilaf devletleri (İngiltere, Fransa, İtalya, Amerika Birleşik Devletleri ve Rusya) ile İttifak devletleri (Almanya, Avusturya-Macaristan İmparatorluğu, Osmanlı Devleti ve Bulgaristan) arasında önce ateşkes, ardından barış antlaşmaları imzalanmıştır.
 
     ***
 1. Aşağıdakilerden hangisi Mudanya Mütarekesi'nin maddelerinden biri değildir?
@@ -1661,7 +1816,25 @@
     - D-) Barış antlaşması imzalanmasına kadar Türk ordusu Doğu Trakya’ya geçemeyecektir.
     - E-) Barış antlaşmasının imzalanmasına kadar Meriç’in sağ sahili ve Karaağaç, İtilaf devletlerinin işgali altında kalacaktır.
 
-    > **Açıklama:** Doğu Trakya dışındaki işgal bölgeleri 15 gün içinde boşaltılacaktır.
+    > **Açıklama:** Tamamı 14 maddeden ibaret olan Mudanya
+    > Mütarekesi’nin önemli bazı maddeleri aşağıda verildiği gibidir:
+    > • Mütarekeimzalandıktan üç gün sonra, 14/15
+    > Ekim 1922 gecesi yürürlüğe girecektir.
+    > • Türk ve Yunan kuvvetleri arasındaki silahlı
+    > çatışma sona erecektir.
+    > • Doğu Trakya (Edirne, Kırklareli ve
+    > Tekirdağ)’nın Yunan askerlerince boşaltılması bütün silah, cephane vs. kapsayacak
+    > şekilde 15 gün içinde gerçekleştirilecektir.
+    > • Yunan kuvvetlerinin Meriç nehrinin batısına çekilmesi, mülkî yönetimin devri işlerinin güvenli şekilde yapılması ve asayişin
+    > sağlanması maksadıyla Doğu Trakya’da
+    > müttefik askerleri bulundurulacaktır. Bölge, İtilaf devletleri aracılığıyla 30 gün
+    > içerisinde Türk yönetimine devredilecektir.
+    > • Barış antlaşması imzalanmasına kadar Türk
+    > ordusu Doğu Trakya’ya geçemeyecektir.
+    > Buna karşılık iç güvenlikle ilgili olarak sayısı 8.000’i aşmayacak bir jandarma kuvveti
+    > gönderebilecektir.
+    > • Barış antlaşmasının imzalanmasına
+    > Doğu Trakya dışındaki işgal bölgeleri 15 gün içinde boşaltılacaktır.
 
     ***
 1. Aşağıdakilerden hangisi Mudanya Mütarekesi'nin önemini açıklayan maddelerden biri değildir?
@@ -1669,9 +1842,23 @@
     - B-) Mondros Mütarekesi yok sayılmıştır.
     - C-) TBMM Hükûmeti, İtilaf devletlerince resmen tanınmıştır.
     - D-) Türk Kurtuluş Savaşı’nın zaferle sonuçlandığını gösteren ilk diplomatik ve siyasi belgedir.
-    - E-) İngiltere Başbakanı Lloyd George’un görevinden istifa etmek   zorunda kalmıştır.
+    - E-) İngiltere Başbakanı Lloyd George’un görevinden istifa etmek zorunda kalmıştır.
 
-    > **Açıklama:** İzmir’i işgali ile başlayan Türk-Yunan çatışması daha çok alevlenmiştir.
+    > **Açıklama:** Mudanya Mütarekesi, 15 Mayıs
+    > 1919’da Yunan ordusunun İzmir’i işgali ile başlayan
+    > Türk-Yunan çatışmasına son vermiştir. Mütareke ile
+    > Misak-ı Millî sınırları içerisinde yer alan Edirne dâhil
+    > Doğu Trakya savaş yapılmadan ve Yunan kuvvetlerince tahrip edilmeden kurtarılmıştır. İstanbul ve
+    > Boğazlar üzerinde denetim sağlanması ve Trakya’ya
+    > ordunun geçirilmesi Mütareke şartları gereği mümkün olmamışsa da Lozan görüşmelerine uygun zemin hazırlanması noktasında büyük bir adım atılmıştır (Ertan, 2012). Mudanya barışı ile TBMM
+    > Hükûmeti, İtilaf devletlerince resmen tanınmıştır.
+    > Mudanya Mütarekesi, Türk Kurtuluş Savaşı’nın zaferle sonuçlandığını gösteren ilk diplomatik ve siyasi
+    > belge olması açısından fevkâlede önemlidir (Başyiğit,
+    > 2007). Mütarekenin imzalanması ile yaşanan önemli bir dış gelişme ise İngiliz diplomasisi için büyük
+    > bir yenilgi sayılan Mudanya’dan sonra İngiltere’de
+    > hükûmet değişikliği yaşanması ve Doğu Akdeniz
+    > politikasının iflası ile büyü
+    > İzmir’i işgali ile başlayan Türk-Yunan çatışması daha çok alevlenmiştir.
 
     ***
 1. Aşağıdakilerden hangisi Lozan'da Türkiye'yi temsil edecek heyetin baş delegesidir?
@@ -1681,7 +1868,10 @@
     - **Cevap D-) İsmet İnönü**
     - E-) Fevzi Çakmak
 
-    > **Açıklama:** İsmet İnönü
+    > **Açıklama:** Mustafa Kemal Paşa, Ali Fuat [CEBESOY] ve Fevzi [ÇAKMAK] Paşalar ile Yusuf Kemal Bey, Rauf Bey
+    > ve İsmet Paşa’nın da görüşlerini aldıktan sonra İsmet Paşa’nın Lozan’a gidecek Türk heyetinin başdelegesi
+    > olmasına ilişkin kararını açıklamıştır.
+    > İsmet İnönü
 
     ***
 1. Aşağıdakilerden hangisi Lozan'a giden danışmanlar grubu içinde yer almaz?
@@ -1691,17 +1881,22 @@
     - D-) Zekai Apaydın
     - **Cevap E-) Fevzi Çakmak**
 
-    > **Açıklama:** Fevzi Çakmak
+    > **Açıklama:** Siyasi, askerî, mali, ticari ve hukuki danışmanlar, basın mensupları, mütercimler ve katiplerden teşkil
+    > edilen otuz üç kişilik kalabalık heyetten bazılarının isimleri şöyledir: Celal [BAYAR], Zekai [APAYDIN],
+    > Muhtar [ÇİLLİ), Veli [SALTIK], Zülfü [TİGREL], Münir [ERTEGÜN], Tevfik [BIYIKLIOĞLU], Şükrü [KAYA], Hikmet [BAYUR], Fuat [AĞRALI], Tahir [TANER], Şevket [DORUKER], Ruşen Eşref
+    > [ÜNAYDIN], Yahya Kemal [BEYATLI] Beyler (Tural, 2003).
+    > Fevzi Çakmak
 
     ***
 1. Aşağıdakilerden hangisi Lozan'da görüşülecek konularda uyulması gereken talimatlardan biri değildir?
-    - A-) Güney sınırı, Doğu sınırı ve Doğu Trakya’nın Batı sınırı,   Adalar, Azınlıklar, Düyun-u Umumiye ve Yabancı kurumlar konusunda taviz verilmemesi
+    - A-) Güney sınırı, Doğu sınırı ve Doğu Trakya’nın Batı sınırı, Adalar, Azınlıklar, Düyun-u Umumiye ve Yabancı kurumlar konusunda taviz verilmemesi
     - B-) Temel ilke olarak Misak-ı Millî'nin esas alınması
     - C-) Ortaya çıkacak güçlüklerde Bakanlar Kurulu'ndan talimat alınması
     - **Cevap D-) Zor durumda kalındığında Doğu Anadolu'da Ermenilere toprak verilmesi konusunda esnek davranılması**
     - E-) Kapitülasyonlar konusunda kesinlikle taviz verilmemesi
 
-    > **Açıklama:** Zor durumda kalındığında Doğu Anadolu'da Ermenilere toprak verilmesi konusunda esnek davranılması
+    > **Açıklama:** Bu savunma tezine göre temel ilke olarak Misak-ı Millî esas alınmış, Lozan’a gidecek heyete Güney sınırı, Doğu sınırı ve Doğu Trakya’nın Batı sınırı, Adalar, Kapitülasyonlar, Azınlıklar, Düyun-u Umumiye ve Yabancı kurumlar konusunda taviz verilmemesi, ortaya çıkacak güçlüklerde Bakanlar Kurulundan talimat alınması gibi direktifler verilmiştir. Bunun yanında Lozan’a gidecek heyetten özellikle Doğu Anadolu’da Ermenilere toprak verilmesi ve Kapitülasyonlar konusunda kesinlikle taviz verilmemesi ve gerekirse görüşmelerin kesilmesi de ayrıca istenmiştir.
+    > Zor durumda kalındığında Doğu Anadolu'da Ermenilere toprak verilmesi konusunda esnek davranılması
 
     ***
 1. Lozan Barış Konferansı'nda bütün görüşmelere katılan ülkeler aşağıdaki seçeneklerden hangisidir?
@@ -1711,7 +1906,9 @@
     - D-) Romanya-Türkiye-Yunanistan-Sovyet Rusya
     - E-) Sovyet Rusya-ABD-Türkiye-Yunanistan
 
-    > **Açıklama:** Türkiye-Yunanistan-Romanya-Yugoslavya
+    > **Açıklama:** Bütün görüşmelere katılan devletler Türkiye, Yunanistan, Romanya, Yugoslavya [Sırp-Hırvat-Sloven Devleti]’dır. Bunun dışında gözlemci devlet sıfatıyla ABD, Boğazların statüsüne ilişkin çağrılan devletler olarak Sovyet Rusya ve Bulgaristan, ticaret sözleşmelerine katılan devletler olarak Belçika ve Portekiz yer
+    > almıştır
+    > Türkiye-Yunanistan-Romanya-Yugoslavya
 
     ***
 1. Lozan Barış Konferansı'nda Türkiye öncelikli olarak hangi antlaşmayı esas almıştır?
@@ -1721,7 +1918,9 @@
     - D-) Paris Barış Konferansı
     - E-) Versailles Antlaşması
 
-    > **Açıklama:** Mudanya Mütarekesi
+    > **Açıklama:** Türk heyeti, elde edilen askerî zafere bir de diplomatik kazancı eklemeyi amaçlamış ve bu nedenle Mudanya Mütarekesi’ni esas almıştır.Görüşmeler süresince İngiltere başdelegesi Lord Curzon’un sık sık Mondros’u hatırlatırken İsmet Paşa’nın da “Ben buraya
+    > Mondros’tan değil, Mudanya’dan geldim,” yanıtını vermesi görüşmelerin ne denli zorlu ve sert geçtiğinin bir
+    > göstergesidir
 
     ***
 1. Aşağıdakilerden hangisi 1.Dönem Lozan Barış Konferansı'nda görüşülen konulardan biri değildir?
@@ -1731,7 +1930,8 @@
     - D-) Osmanlı borçları
     - **Cevap E-) A.B.D ile ilişkiler**
 
-    > **Açıklama:** A.B.D ile ilişkiler
+    > **Açıklama:** Lozan Konferansı’nda tartışma konusu olan belli başlı sorunlar arasında Sınırlar (arazi), Boğazlar rejimi, Kapitülasyonlar, Azınlıkların statüsü ve Osmanlı borçları bulunmaktadır
+    > A.B.D ile ilişkiler
 
     ***
 1. Türkiye ve Yunanistan arasındaki silahlı çatışmayı bitiren anlaşma aşağıdakilerden hangisidir?
@@ -1741,7 +1941,8 @@
     - D-) Lozan anlaşması
     - E-) Çanakkale anlaşması
 
-    > **Açıklama:** Mudanya Mütarekesi, 15 Mayıs 1919’da Yunan ordusunun İzmir’i işgali ile başlayan Türk-Yunan çatışmasına son vermiştir. Doğru cevap A seçeneğidir.
+    > **Açıklama:** Mudanya Mütarekesi’nin Önemi
+    > Mudanya Mütarekesi, 15 Mayıs 1919’da Yunan ordusunun İzmir’i işgali ile başlayan Türk-Yunan çatışmasına son vermiştir. Doğru cevap A seçeneğidir.
 
     ***
 1. Aşağıdakilerden hangisi Lozan anlaşmasına katılan Türk heyetinden taviz verilmemesi istenen konular arasında **yer almaz?**
@@ -1751,7 +1952,8 @@
     - D-) Doğu sınırı
     - E-) Adalar
 
-    > **Açıklama:** Lozan’a gidecek Türk heyete Güney sınırı, Doğu sınırı ve Doğu Trakya’nın Batı sınırı, Adalar, Kapitülasyonlar, Azınlıklar, Düyun-u Umumiye ve Yabancı kurumlar konusunda taviz verilmemesi, ortaya çıkacak güçlüklerde Bakanlar Kurulundan talimat alınması gibi direktifler verilmiştir. Bunun yanında Lozan’a gidecek heyetten özellikle Doğu Anadolu’da Ermenilere toprak verilmesi ve Kapitülasyonlar konusunda kesinlikle taviz verilmemesi ve gerekirse görüşmelerin kesilmesi de ayrıca istenmiştir.
+    > **Açıklama:** Lozan Barış Görüşmelerinin Başlaması ve Konferansın Birinci Dönemi
+    > Lozan’a gidecek Türk heyete Güney sınırı, Doğu sınırı ve Doğu Trakya’nın Batı sınırı, Adalar, Kapitülasyonlar, Azınlıklar, Düyun-u Umumiye ve Yabancı kurumlar konusunda taviz verilmemesi, ortaya çıkacak güçlüklerde Bakanlar Kurulundan talimat alınması gibi direktifler verilmiştir. Bunun yanında Lozan’a gidecek heyetten özellikle Doğu Anadolu’da Ermenilere toprak verilmesi ve Kapitülasyonlar konusunda kesinlikle taviz verilmemesi ve gerekirse görüşmelerin kesilmesi de ayrıca istenmiştir.
 
     ***
 1. Lozan anlaşmasına sadece ticaretle ilgili konularda katılan devletler aşağıdakilerden hangisidir?
@@ -1761,7 +1963,8 @@
     - D-) Portekiz-ABD
     - **Cevap E-) Belçika-Portekiz**
 
-    > **Açıklama:** Konferansa Türkiye ile birlikte sekiz devlet görüşmeci olarak davet edilmiştir. Türkiye, Yunanistan, Romanya, Yugoslavya [Sırp-Hırvat-Sloven Devleti] bütün görüşmelere katılmıştır. Gözlemci devlet sıfatıyla ABD, Boğazların statüsüne ilişkin çağrılan devletler Sovyet Rusya ve Bulgaristan, ticaret sözleşmelerine katılan devletler olarak Belçika ve Portekiz yer almıştır.
+    > **Açıklama:** Lozan Barış Görüşmelerinin Başlaması ve Konferansın Birinci Dönemi
+    > Konferansa Türkiye ile birlikte sekiz devlet görüşmeci olarak davet edilmiştir. Türkiye, Yunanistan, Romanya, Yugoslavya [Sırp-Hırvat-Sloven Devleti] bütün görüşmelere katılmıştır. Gözlemci devlet sıfatıyla ABD, Boğazların statüsüne ilişkin çağrılan devletler Sovyet Rusya ve Bulgaristan, ticaret sözleşmelerine katılan devletler olarak Belçika ve Portekiz yer almıştır.
 
     ***
 1. I. Dönem Lozan konferansı görüşmelerinde kapitülasyonların aynen devam ettirilmeye çalışılması iç gelişmelerden hangisine neden olmuştur?
@@ -1771,18 +1974,20 @@
     - **Cevap D-) İzmir İktisat kongresinin toplanması**
     - E-) Nüfus mübadelesi
 
-    > **Açıklama:** Konferansta kapitülasyonların devamının istenmesi ile görüşmeler kesildikten sonra 17 Şubat 1923 tarihinde İzmir’de Türkiye İktisat Kongresi toplanmıştır. Bu kongrede “Misak-ı İktisadi” adıyla kabul edilen ant ile ekonomik bağımsızlığın önemi vurgulanmış ve Türkiye’nin tam bağımsızlık konumundaki kararlı tutumu Batılı devletlere açıklanmıştır. Türkiye bu yolla, Lozan’da çözüme kavuşturulamayan kapitülasyonların kaldırılması konusundaki ısrarından vazgeçmeyeceğini bir kez daha göstermiştir.
+    > **Açıklama:** Lozan Barış Konferansı’nın Kesinti Döneminde Türkiye’deki Gelişmeler (4 Şubat - 23 Nisan 1923)
+    > Konferansta kapitülasyonların devamının istenmesi ile görüşmeler kesildikten sonra 17 Şubat 1923 tarihinde İzmir’de Türkiye İktisat Kongresi toplanmıştır. Bu kongrede “Misak-ı İktisadi” adıyla kabul edilen ant ile ekonomik bağımsızlığın önemi vurgulanmış ve Türkiye’nin tam bağımsızlık konumundaki kararlı tutumu Batılı devletlere açıklanmıştır. Türkiye bu yolla, Lozan’da çözüme kavuşturulamayan kapitülasyonların kaldırılması konusundaki ısrarından vazgeçmeyeceğini bir kez daha göstermiştir.
     > Doğru cevap D seçeneğidir.
 
     ***
-1. Lozan konferansında İsmet Paşa’nın  “Ben buraya Mondros’tan değil, Mudanya’dan geldim” yanıtı itilaf devletlerinin hangi yaklaşımına bir yanıt olarak verilmiştir?
+1. Lozan konferansında İsmet Paşa’nın “Ben buraya Mondros’tan değil, Mudanya’dan geldim” yanıtı itilaf devletlerinin hangi yaklaşımına bir yanıt olarak verilmiştir?
     - A-) İtilaf devletlerinin boğazları almak istemesi
     - **Cevap B-) İtilaf devletlerinin Mondros’u devam ettirmek istemesi**
     - C-) İtilaf devletlerinin kendi aralarında anlaşmazlık olması
     - D-) İtilaf devletlerini kapitülasyonları kabul ettirmek istemesi
     - E-) Lozan konferansına çok sayıda devletin katılması
 
-    > **Açıklama:** İtilaf devletleri, Konferansı Millî Mücadele’nin bir sonucu olarak değil, Birinci Dünya Savaşı’nın devamı olarak gördüklerinden Mudanya’nın değil, Mondros’un esas alınması gerektiğine inanmışlardır. Görüşmeler süresince İngiltere baş delegesi Lord Curzon’un sık sık Mondros’u hatırlatması üzerine İsmet Paşa’nın da “Ben buraya Mondros’tan değil, Mudanya’dan geldim,” yanıtını vermiştir. Bu sözüyle Kurtuluş savaşının kazanımlarını ve yeni Türk devletinin tanınması gerektiğini ifade etmeye çalışmıştır. Doğru cevap B seçeneğidir.
+    > **Açıklama:** Lozan Barış Görüşmelerinin Başlaması ve Konferansın Birinci Dönemi
+    > İtilaf devletleri, Konferansı Millî Mücadele’nin bir sonucu olarak değil, Birinci Dünya Savaşı’nın devamı olarak gördüklerinden Mudanya’nın değil, Mondros’un esas alınması gerektiğine inanmışlardır. Görüşmeler süresince İngiltere baş delegesi Lord Curzon’un sık sık Mondros’u hatırlatması üzerine İsmet Paşa’nın da “Ben buraya Mondros’tan değil, Mudanya’dan geldim,” yanıtını vermiştir. Bu sözüyle Kurtuluş savaşının kazanımlarını ve yeni Türk devletinin tanınması gerektiğini ifade etmeye çalışmıştır. Doğru cevap B seçeneğidir.
 
     ***
 1. Aşağıdaki devletlerden hangisi Lozan barış anlaşmasına imza atmamıştır?
@@ -1792,18 +1997,20 @@
     - D-) Japonya
     - **Cevap E-) ABD**
 
-    > **Açıklama:** ABD, Lozan Konferansı’na gözlemci olarak katıldığından antlaşmaya imza atmamıştır.
+    > **Açıklama:** Türkiye’nin Kurucu Belgesi: Lozan Barış Antlaşması
+    > ABD, Lozan Konferansı’na gözlemci olarak katıldığından antlaşmaya imza atmamıştır.
     > Doğru cevap E seçeneğidir
 
     ***
 1. Aşağıdakilerden hangisi Lozan anlaşmasının batı sınırıyla ilgili sonuçları arasında yer almaz?
     - A-) Bozcaada Türkiye’de kalmıştır.
     - B-) Yunanistan'a verilen adalar askerden arındırılmıştır.
-    - **Cevap C-) Karaağaç  Yunanistan’da kalmıştır.**
+    - **Cevap C-) Karaağaç Yunanistan’da kalmıştır.**
     - D-) Batı Trakya Yunanistan’da kalmıştır.
     - E-) Meriç nehri akım yönü Türkiye Yunanistan sınırı olmuştur.
 
-    > **Açıklama:** Lozan anlaşmasında Karaağaç Savaş tazminatı olarak Türkiye ye verilmiştir. Doğru cevap C seçeneğidir.
+    > **Açıklama:** Lozan Barış Antlaşması’nın Temel Hükümleri
+    > Lozan anlaşmasında Karaağaç Savaş tazminatı olarak Türkiye ye verilmiştir. Doğru cevap C seçeneğidir.
 
     ***
 1. Aşağıdaki devletlerden hangisi Lozan anlaşması sonrasında boğazların yönetimi için kurulan uluslararası komisyonda yer almamıştır?
@@ -1813,7 +2020,8 @@
     - D-) Romanya
     - E-) Japonya
 
-    > **Açıklama:** Lozan anlaşmasıyla, Boğazlar üzerinde İtilaf Devletlerinin işgali tümüyle ortadan kaldırılırken Boğazların, başkanı Türk olan uluslararası bir komisyon tarafından yönetilmesi kararı alınmıştır. Bu komisyonun başkanlığını Türk temsilcinin yapacak ve Fransa, İngiltere, İtalya, Japonya, Sovyet Rusya, Yunanistan, Bulgaristan, Romanya ve Yugoslavya’nın temsilcilerinin bulunacaktı. Bu devletler arasında Almanya yoktur.
+    > **Açıklama:** Lozan Barış Antlaşması’nın Temel Hükümleri
+    > Lozan anlaşmasıyla, Boğazlar üzerinde İtilaf Devletlerinin işgali tümüyle ortadan kaldırılırken Boğazların, başkanı Türk olan uluslararası bir komisyon tarafından yönetilmesi kararı alınmıştır. Bu komisyonun başkanlığını Türk temsilcinin yapacak ve Fransa, İngiltere, İtalya, Japonya, Sovyet Rusya, Yunanistan, Bulgaristan, Romanya ve Yugoslavya’nın temsilcilerinin bulunacaktı. Bu devletler arasında Almanya yoktur.
 
     ***
 1. Lozan anlaşmasında çözülemeyen Musul sorunu aşağıdaki anlaşmalardan hangisi ile çözümlenmiştir?
@@ -1823,7 +2031,8 @@
     - D-) Montrö Anlaşması
     - E-) Kasrı Şirin Anlaşması
 
-    > **Açıklama:** Türkiye, Lozan’da çözümlenemeyen Musul sorununu 5 Haziran 1926 tarihinde imzaladığı Ankara Antlaşması çözümleyebilmiştir.  Bu anlaşmada Musul’u İngiliz mandası altındaki Irak’a bırakmıştır. Bu antlaşma ile bugünkü Türkiye-Irak sınırı çizilmiştir.
+    > **Açıklama:** Lozan Barış Konferansı’nda Çözülemeyen Meseleler
+    > Türkiye, Lozan’da çözümlenemeyen Musul sorununu 5 Haziran 1926 tarihinde imzaladığı Ankara Antlaşması çözümleyebilmiştir. Bu anlaşmada Musul’u İngiliz mandası altındaki Irak’a bırakmıştır. Bu antlaşma ile bugünkü Türkiye-Irak sınırı çizilmiştir.
 
     ***
 1. Lozan Anlaşması'nda çözülemeyen Boğazlar Sorunu Montrö Boğazlar Sözleşmesi ile çözümlenmiştir. Montrö sözleşmesi Lozan Anlaşması'ndan kaç yıl sonra imzalanmıştır?
@@ -1833,7 +2042,8 @@
     - D-) 24
     - E-) 30
 
-    > **Açıklama:** Lozan Anlaşması ise 1923 yılında Montrö Boğazlar Sözleşmesi ise1936 yılında imzalanmıştır. İlki anlaşma arasında 13 yıl farkı vardır. Doğru cevap B seçeneğidir.
+    > **Açıklama:** Türkiye’nin Kurucu Belgesi: Lozan Barış Antlaşması
+    > Lozan Anlaşması ise 1923 yılında Montrö Boğazlar Sözleşmesi ise1936 yılında imzalanmıştır. İlki anlaşma arasında 13 yıl farkı vardır. Doğru cevap B seçeneğidir.
 
     ***
 1. Mudanya Mütarekesinde TBMM Hükümetini temsil eden ekibin başında kim vardır?
@@ -1843,7 +2053,8 @@
     - D-) Fevzi Çakmak
     - E-) Refet Bele
 
-    > **Açıklama:** Mudanya Mütareke görüşmeleri Mudanya’da 3 Ekim 1922 Salı günü saat 15.00’te başlamıştır. Görüşmelerde TBMM Hükümeti’ni Batı Cephesi Komutanı İsmet İnönü Paşa temsil etmiştir.
+    > **Açıklama:** MUDANYA MÜTAREKESİ’NİN İMZALANMASI ve TEMEL HÜKÜMLERİ
+    > Mudanya Mütareke görüşmeleri Mudanya’da 3 Ekim 1922 Salı günü saat 15.00’te başlamıştır. Görüşmelerde TBMM Hükümeti’ni Batı Cephesi Komutanı İsmet İnönü Paşa temsil etmiştir.
 
     ***
 1. Mudanya Mütarekesinde görüşmelere doğrudan katılmayan Yunanistan kim tarafından temsil etmiştir?
@@ -1853,17 +2064,19 @@
     - D-) İspanya
     - E-) Amerika
 
-    > **Açıklama:** Yunan delege heyeti görüşmelere doğrudan doğruya katılmamış ve gelişmeleri bir gemiden izlemekle yetinmiştir. Yunanistan görüşmelerde İngiltere tarafından temsil edilmiştir.
+    > **Açıklama:** MUDANYA MÜTAREKESİ’NİN İMZALANMASI ve TEMEL HÜKÜMLERİ
+    > Yunan delege heyeti görüşmelere doğrudan doğruya katılmamış ve gelişmeleri bir gemiden izlemekle yetinmiştir. Yunanistan görüşmelerde İngiltere tarafından temsil edilmiştir.
 
     ***
-1. Aşağıdaki seçeneklerden hangisi Mudanya Mütarekesi ile gerçekleşmiştir?<br />1. Doğu Trakya savaş yapılmadan kurtarılmıştır.<br />2. TBMM Hükümeti, İtilaf devletlerince resmen tanınmıştır.<br />3. Yunanistan Başbakanı Lloyd George’un görevinden istifa etmiştir.
+1. Aşağıdaki seçeneklerden hangisi Mudanya Mütarekesi ile gerçekleşmiştir?<br />1\. Doğu Trakya savaş yapılmadan kurtarılmıştır.<br />2\. TBMM Hükümeti, İtilaf devletlerince resmen tanınmıştır.<br />3\. Yunanistan Başbakanı Lloyd George’un görevinden istifa etmiştir.
     - A-) Yalnız I
     - B-) Yalnız III
     - C-) II ve III
     - **Cevap D-) I ve II**
     - E-) I ve III
 
-    > **Açıklama:** Mudanya Mütarekesi ile Doğu Trakya savaş yapılmadan kurtarılmıştır. TBMM Hükümeti, İtilaf devletlerince resmen tanınmıştır. İngiltere Başbakanı Lloyd George’un görevinden istifa etmiştir. Üçüncü maddede Lloyd George Yunanistan başbakanı olarak yazılmıştır ve bu bilgi yanlıştır. Doğru maddeler I ve II dir.
+    > **Açıklama:** MUDANYA MÜTAREKESİ’NİN ÖNEMİ
+    > Mudanya Mütarekesi ile Doğu Trakya savaş yapılmadan kurtarılmıştır. TBMM Hükümeti, İtilaf devletlerince resmen tanınmıştır. İngiltere Başbakanı Lloyd George’un görevinden istifa etmiştir. Üçüncü maddede Lloyd George Yunanistan başbakanı olarak yazılmıştır ve bu bilgi yanlıştır. Doğru maddeler I ve II dir.
 
     ***
 1. Türk Kurtuluş Savaşı’nın zaferle sonuçlandığını gösteren ilk diplomatik ve siyasi belge nedir?
@@ -1873,7 +2086,8 @@
     - D-) Sevr Barış Antlaşması
     - E-) Paris Barış Konferansı
 
-    > **Açıklama:** Mudanya barışı ile TBMM Hükümeti, İtilaf devletlerince resmen tanınmıştır. Mudanya Mütarekesi, Türk Kurtuluş Savaşı’nın zaferle sonuçlandığını gösteren ilk diplomatik ve siyasi belge olması açısından fevkalede önemlidir.
+    > **Açıklama:** MUDANYA MÜTAREKESİ’NİN ÖNEMİ
+    > Mudanya barışı ile TBMM Hükümeti, İtilaf devletlerince resmen tanınmıştır. Mudanya Mütarekesi, Türk Kurtuluş Savaşı’nın zaferle sonuçlandığını gösteren ilk diplomatik ve siyasi belge olması açısından fevkalede önemlidir.
 
     ***
 1. TBMM tarafından 19 Kasım 1922’de seçilen son Osmanlı Halifesi kimdir?
@@ -1883,7 +2097,8 @@
     - D-) Tevfik Paşa
     - E-) Rıza Nur Bey
 
-    > **Açıklama:** Son Osmanlı Padişahı VI. Mehmet Vahdettin ise İngiltere’den sığınma talep etmiş ve 17 Kasım 1922’de Dolmabahçe Rıhtımı’nda bekleyen Malaya zırhlısı ile Malta’ya gitmek üzere ülkeyi terk etmiştir. 3 Mart 1924 tarihine kadar Halifelik sıfatını taşıyacak olan Osmanlı Veliahdı Abdülmecit Efendi, TBMM Hükümeti tarafından 18 Kasım 1922’de Halife seçilmiştir.
+    > **Açıklama:** LOZAN BARIŞ KONFERANSI’NIN TOPLANMA SÜRECİ
+    > Son Osmanlı Padişahı VI. Mehmet Vahdettin ise İngiltere’den sığınma talep etmiş ve 17 Kasım 1922’de Dolmabahçe Rıhtımı’nda bekleyen Malaya zırhlısı ile Malta’ya gitmek üzere ülkeyi terk etmiştir. 3 Mart 1924 tarihine kadar Halifelik sıfatını taşıyacak olan Osmanlı Veliahdı Abdülmecit Efendi, TBMM Hükümeti tarafından 18 Kasım 1922’de Halife seçilmiştir.
 
     ***
 1. Lozan Barış Antlaşması’nda TBMM Hükümetini temsil eden ekibin başında kim vardır?
@@ -1893,7 +2108,8 @@
     - D-) Rauf Orbay
     - E-) Fevzi Çakmak
 
-    > **Açıklama:** Mustafa Kemal Paşa, Ali Fuat Cebesoy ve Fevzi Çakmak Paşalar ile Yusuf Kemal Bey, Rauf Bey ve İsmet Paşa’nın da görüşlerini aldıktan sonra İsmet Paşa’nın Lozan’a gidecek Türk heyetinin başdelegesi olmasına ilişkin kararını açıklamıştır.
+    > **Açıklama:** LOZAN BARIŞ KONFERANSI’NA KATILACAK HEYETİN BELİRLENMESİ
+    > Mustafa Kemal Paşa, Ali Fuat Cebesoy ve Fevzi Çakmak Paşalar ile Yusuf Kemal Bey, Rauf Bey ve İsmet Paşa’nın da görüşlerini aldıktan sonra İsmet Paşa’nın Lozan’a gidecek Türk heyetinin başdelegesi olmasına ilişkin kararını açıklamıştır.
 
     ***
 1. Aşağıdaki devletlerden hangisi Lozan Barış Konferansı’na gözlemci olarak katılmıştır?
@@ -1903,7 +2119,8 @@
     - D-) Japonya
     - **Cevap E-) Amerika**
 
-    > **Açıklama:** Bütün görüşmelere katılan devletler Türkiye, Yunanistan, Romanya, Yugoslavya’dır. Bunun dışında gözlemci devlet sıfatıyla ABD, Boğazların statüsüne ilişkin çağrılan devletler olarak Sovyet Rusya ve Bulgaristan, ticaret sözleşmelerine katılan devletler olarak Belçika ve Portekiz yer almıştır.
+    > **Açıklama:** LOZAN BARIŞ KONFERANSI’NA KATILAN ÜLKELER
+    > Bütün görüşmelere katılan devletler Türkiye, Yunanistan, Romanya, Yugoslavya’dır. Bunun dışında gözlemci devlet sıfatıyla ABD, Boğazların statüsüne ilişkin çağrılan devletler olarak Sovyet Rusya ve Bulgaristan, ticaret sözleşmelerine katılan devletler olarak Belçika ve Portekiz yer almıştır.
 
     ***
 1. Aşağıdaki tarihlerden hangisi Lozan Barış Konferansı’nın kesinti dönemine karşılık gelir?
@@ -1913,7 +2130,8 @@
     - D-) 4 Şubat 1923 - 29 Ekim 1923
     - E-) 21 Ocak 1923 - 23 Nisan 1923
 
-    > **Açıklama:** 4 Şubat-23 Nisan 1923 tarihleri arası Lozan Barış Konferansı’nın kesilme dönemidir. Bu dönemde bir yandan görüşmelerin yeniden başlaması için taraflar birbirlerine yeni projeler sunarken, diğer bir yandan da Türkiye’nin iç politikası doğrudan ve dolaylı olarak Lozan Konferansı ile ilgili çeşitli gelişmelere sahne olmuştur.
+    > **Açıklama:** LOZAN BARIŞ KONFERANSI’NIN KESİNTİ DÖNEMİNDE TÜRKİYE’DEKI GELİŞMELER
+    > 4 Şubat-23 Nisan 1923 tarihleri arası Lozan Barış Konferansı’nın kesilme dönemidir. Bu dönemde bir yandan görüşmelerin yeniden başlaması için taraflar birbirlerine yeni projeler sunarken, diğer bir yandan da Türkiye’nin iç politikası doğrudan ve dolaylı olarak Lozan Konferansı ile ilgili çeşitli gelişmelere sahne olmuştur.
 
     ***
 1. Türkiye-İran sınırımızı belirleyen antlaşma hangisidir?
@@ -1923,12 +2141,13 @@
     - **Cevap D-) Kasr-ı Şirin Antlaşması**
     - E-) Paris Barış Antlaşması
 
-    > **Açıklama:** Türkiye-İran sınırı 1639 tarihli Kasr-ı Şirin Antlaşması’nda belirlenmiştir.
+    > **Açıklama:** LOZAN BARIŞ ANTLAŞMASI’NIN TEMEL HÜKÜMLERİ
+    > Türkiye-İran sınırı 1639 tarihli Kasr-ı Şirin Antlaşması’nda belirlenmiştir.
 
     ***
 ## Unite 7
 1. Aşağıdakilerden hangisi Saltanatın kaldırılma nedenlerinden biri **değildir**?
-    - **Cevap A-) Kurtuluş Savaşı’nı TBMM’nin kazanmasına rağmen Lozan Barış Konferansı’na  davet edilmemesi**
+    - **Cevap A-) Kurtuluş Savaşı’nı TBMM’nin kazanmasına rağmen Lozan Barış Konferansı’na davet edilmemesi**
     - B-) İstanbul Hükûmeti’nin ve padişahın, Kurtuluş Savaşı sırasında Millî Mücadele’ye karşı olması
     - C-) Ülke yönetiminde iki ayrı hükûmet bulunmasının mümkün olmaması
     - D-) Saltanat sisteminin, millî egemenlik kavramı ile bağdaşmaması
@@ -1999,15 +2218,15 @@
     ***
 1. "Mustafa Kemal Paşa’nın Cumhurbaşkanlığı döneminde Cumhuriyet Halk Partisi, üç kurultay düzenlemiştir. Ancak 1927 yılında yapılan kurultayda, 4-11 Eylül 1919 tarihleri arasında düzenlenen .............. partinin ilk kurultayı kabul edilmiştir."<br />Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?
     - **Cevap A-) Sivas Kongresi**
-    - B-) Amasra Kongresi
-    - C-) Erzurum Kongresi
-    - D-) İzmir Kongresi
-    - E-) Ankara Kongresi
+    - B-) Amasra Kongresi
+    - C-) Erzurum Kongresi
+    - D-) İzmir Kongresi
+    - E-) Ankara Kongresi
 
     > **Açıklama:** Mustafa Kemal Paşa’nın Cumhurbaşkanlığı döneminde Cumhuriyet Halk Partisi, üç kurultay düzenlemiştir. Ancak 1927 yılında yapılan kurultayda, 4-11 Eylül 1919 tarihleri arasında Sivas’ta düzenlenen Sivas Kongresi partinin ilk kurultayı kabul edilmiştir.
 
     ***
-1. Aşağıdakilerden hangisi Millî Mücadele’nin başladığı tarih olarak kabul edilen ve 20 Haziran 1938 tarihinde çıkarılan 3466 sayılı Yasa bayram ilan edilen tarihtir?
+1. Aşağıdakilerden hangisi Millî Mücadele’nin başladığı tarih olarak kabul edilen ve 20 Haziran 1938 tarihinde çıkarılan 3466 sayılı Yasa bayram ilan edilen tarihtir?
     - **Cevap A-) 19 Mayıs 1919**
     - B-) 30 Ağustos 1923
     - C-) 1 Kasım 1922
@@ -2024,7 +2243,7 @@
     - **Cevap D-) Recep (Peker) Bey**
     - E-) Halit Karsıalan
 
-    > **Açıklama:** D
+    > **Açıklama:** 28 Ekim akşamı M. Kemal Paşa, bazı bakan ve milletvekillerini Çankaya Köşkü’ne çağırmıştı. İsmet İnönü, Kazım Özalp, Fethi Okyar, Ruşen Eşref, Fuat Bulca, Kemalettin Sami ve Halit Karsıalan’ın bulunduğu toplantıda Mustafa Kemal Paşa kararını açıklamıştı: “Yarın Cumhuriyet’i ilan edeceğiz”. Bunun üzerine o akşam, 1921 tarihli Anayasa’da yapılacak değişikliklerle ilgili önerge hazırlandı.
 
     ***
 1. Aşağıdakilerden hangisi Cumhuriyetin ilanından sonra başbakanlık makamına getirilen kişidir?
@@ -2034,7 +2253,7 @@
     - **Cevap D-) İsmet İnönü**
     - E-) Refet Bele
 
-    > **Açıklama:** D
+    > **Açıklama:** 29 Ekim 1923’te, Mecliste kabul edilmesiyle Cumhuriyet ilan edildi. Saat 20.30’da Mecliste “Yaşasın Cumhuriyet” sesleri ve alkışları işitiliyordu. Bu değişikliklerle rejimin adı konulmuştur. Saat 20.45’te ise Cumhurbaşkanlığı seçimine gidilerek Mustafa Kemal Paşa Cumhurbaşkanı seçilmişti. Daha sonra İsmet Paşa ise hükûmeti kurmakla görevlendirilerek Cumhuriyet’in ilk Başbakanı sıfatını kazanacaktı.
 
     ***
 1. Aşağıdakilerden halifeliğin kaldırılması konusunda Mustafa Kemal’i desteklemiştir?
@@ -2044,7 +2263,8 @@
     - D-) İskilipli Atıf Hoca
     - **Cevap E-) Ziya Gökalp**
 
-    > **Açıklama:** E
+    > **Açıklama:** Mustafa Kemal Paşa’nın Sakarya Savaşı öncesinde yaptığı bir Meclis konuşmasında “Barıştan sonra ulus safları içine çekilerek ulusun bir bireyi gibi yaşayacağım” sözünü etmesi, en yakın arkadaşlarında dahi beklenti
+    > yarattığı anlaşılmaktadır. Kazım Karabekir Paşa, Cumhuriyet’i ilan ettikten sonra “sırf tarihi bir nam almak suretiyle mükâfatlandırmak ve maddi olarak da ölünceye kadar bu makamın terfilerinden istifade ettirmek üzere Mustafa Kemal Paşa’yı seçtirmek ve millet kürsüsünden verdiği vaad mucibince istifasından sonra” Cumhurbaşkanı’nın seçilmesi gerektiğini düşünüyordu. 2 Aralık 1922 tarihinde Meclise getirilen bir yasa teklifi ile Türkiye’nin o günkü sınırları içerisinde doğup beş yıl süre boyunca belli bir yerde oturmak koşulunu sağlamayanların milletvekili seçilmemesi dahi önerilmişti. Bu yasa teklifi, doğrudan M. Kemal Paşa’ya yönelikti. Selanik’te doğmuştu ve son 10 yılı cepheden cepheye vatanını savunmakla geçmişti. Önerilen bu teklif Meclis tarafından reddedil
 
     ***
 1. Aşağıdakilerden hangisi Terakkiperver Cumhuriyet Fırkası’nın parti programının en göze batan maddesidir?
@@ -2054,7 +2274,7 @@
     - D-) Tek dereceli seçim sistemi uygulanmalıdır.
     - **Cevap E-) Dinî inançlara ve düşüncelere saygılı olunacaktır.**
 
-    > **Açıklama:** E
+    > **Açıklama:** Terakkiperver Cumhuriyet Fırkası yayımladığı parti programının altıncı maddesine, dinî inançlara ve düşüncelere saygılı olduğunu eklemişti. Halifelik tartışmalarının henüz tam olarak bitmediği bir ortamda bu madde dikkat çekici olmuştu. Aynı zamanda bu yeni parti, toplumsal amaçlarda ilerlemeciliği benimsediğini ve serbest ekonomiyi esas prensip saydığını açıklamıştı. Tek dereceli seçim sistemi, devletin toplum üzerindeki baskısının azaltılması ve yabancı sermayenin teşvik edilmesi önerilerinde bulunmuştur.
 
     ***
 1. Aşağıdakilerden hangisi Terakkiperver Cumhuriyet Fırkası’nın genel başkanı olmuştur?
@@ -2064,7 +2284,7 @@
     - D-) Adnan Adıvar
     - E-) Rauf Orbay
 
-    > **Açıklama:** A
+    > **Açıklama:** 17 Kasım 1924’te Terakkiperver Cumhuriyet Fırkası kuruldu. Partinin genel başkanı Kazım Karabekir, genel sekreteri Ali Fuat Paşa, ikinci başkanları ise Adnan (Adıvar) ve Rauf Beyler oldu.
 
     ***
 1. Aşağıdakilerden hangisi Takrir-i Sükun kanununun kapatılan muhalif basın kuruluşlarının dışındadır?
@@ -2074,7 +2294,7 @@
     - D-) Aydınlık
     - E-) İstikbal
 
-    > **Açıklama:** B
+    > **Açıklama:** TBMM’de seçim kararı alındıktan sonra Mustafa Kemal Paşa 8 Nisan’da, Müdafaa-i Hukuk Grubu’na önceden hazırladığı dokuz maddeden oluşan “Millî Umdeler Beyannamesini” açıkladı (Hakimiyet-i Milliye, 9 Nisan 1923).
 
     ***
 1. Ankara, yeni kurulan devletin başkenti olarak ne zaman kabul edilmiştir?
@@ -2084,7 +2304,7 @@
     - D-) 23 Kasım 1923
     - E-) 2 Aralık 1922
 
-    > **Açıklama:** Kurtuluş Savaşı’nın başarıyla sonuçlanmasının ardından yeni kurulan devletin başkenti olması gerekliydi.  İsmet Paşa ve 14 arkadaşının TBMM’ye verdikleri yasa önerisiyle 13 Ekim 1923’te yeni devletin başkentinin Ankara olduğu kabul edilmiştir.
+    > **Açıklama:** Kurtuluş Savaşı’nın başarıyla sonuçlanmasının ardından yeni kurulan devletin başkenti olması gerekliydi. İsmet Paşa ve 14 arkadaşının TBMM’ye verdikleri yasa önerisiyle 13 Ekim 1923’te yeni devletin başkentinin Ankara olduğu kabul edilmiştir.
 
     ***
 1. Aşağıda Terakkiperver Cumhuriyet Fırkası ile ilgili verilen bilgilerden hangisi doğru **değildir**?
@@ -2094,7 +2314,7 @@
     - **Cevap D-) Partinin genel başkanı İsmet İnönü'dür.**
     - E-) 17 Kasım 1924’te kurulmuştur.
 
-    > **Açıklama:** 17 Kasım 1924’te Terakkiperver Cumhuriyet  Fırkası kuruldu. Partinin genel başkanı Kazım Karabekir, genel sekreteri Ali Fuat Paşa, ikinci başkanları  ise Adnan (Adıvar) ve Rauf Beyler oldu. Terakkiperver Cumhuriyet Fırkası yayımladığı parti programının altıncı maddesine, dinî inançlara ve düşüncelere  saygılı olduğunu eklemişti. Halifelik tartışmalarının henüz tam olarak bitmediği bir ortamda bu madde  dikkat çekici olmuştu. Aynı zamanda bu yeni parti, toplumsal amaçlarda ilerlemeciliği benimsediğini ve  serbest ekonomiyi esas prensip saydığını açıklamıştı. Tek dereceli seçim sistemi, devletin toplum üzerindeki baskısının azaltılması ve yabancı sermayenin teşvik edilmesi önerilerinde bulunmuştur.
+    > **Açıklama:** 17 Kasım 1924’te Terakkiperver Cumhuriyet Fırkası kuruldu. Partinin genel başkanı Kazım Karabekir, genel sekreteri Ali Fuat Paşa, ikinci başkanları ise Adnan (Adıvar) ve Rauf Beyler oldu. Terakkiperver Cumhuriyet Fırkası yayımladığı parti programının altıncı maddesine, dinî inançlara ve düşüncelere saygılı olduğunu eklemişti. Halifelik tartışmalarının henüz tam olarak bitmediği bir ortamda bu madde dikkat çekici olmuştu. Aynı zamanda bu yeni parti, toplumsal amaçlarda ilerlemeciliği benimsediğini ve serbest ekonomiyi esas prensip saydığını açıklamıştı. Tek dereceli seçim sistemi, devletin toplum üzerindeki baskısının azaltılması ve yabancı sermayenin teşvik edilmesi önerilerinde bulunmuştur.
 
     ***
 1. İstiklal Mahkemeleri ne zaman yürürlükten kaldırılmıştır?
@@ -2104,7 +2324,7 @@
     - D-) 6 Mayıs 1950
     - E-) 7 Mayıs 1951
 
-    > **Açıklama:** İstiklal Mahkemeleri üç ayrı dönem görev  yapmış; 1927 yılından itibaren faaliyetlerini bitirmişlerdir. Ancak İstiklal Mahkemesi Kanunu yürürlükte kalmış, nihayet 4 Mayıs 1949 yılında yürürlükten kaldırılmıştır.
+    > **Açıklama:** İstiklal Mahkemeleri üç ayrı dönem görev yapmış; 1927 yılından itibaren faaliyetlerini bitirmişlerdir. Ancak İstiklal Mahkemesi Kanunu yürürlükte kalmış, nihayet 4 Mayıs 1949 yılında yürürlükten kaldırılmıştır.
 
     ***
 1. Şeyh Sait ayaklanması, ne zaman ve nerede başlamıştır?
@@ -2117,14 +2337,14 @@
     > **Açıklama:** Şeyh Sait ayaklanması, 13 Şubat 1925’te Ergani’nin Piran köyünde başlamıştı.
 
     ***
-1. I. Serbest Fırkanın kurulacağına dair ilk haber 9 Ağustos 1930 günü Vakit<br />gazetesinde çıkmıştır.<br />II. Serbest Cumhuriyet Fırkasının resmî kuruluş tarihi, 14 Ağustos 1931'dir.  olmuştu.<br />III. Merkezi Taksim’de olan partinin başkanı Ali Fethi Okyar'dır.<br />IV. Partinin genel sekreteri Nuri Conker'dir.<br />Serbest Cumhuriyet Fıkrası ile ilgili yukarıda verilen bilgilerden hangi/hangileri doğrudur?
+1. I. Serbest Fırkanın kurulacağına dair ilk haber 9 Ağustos 1930 günü Vakit<br />gazetesinde çıkmıştır.<br />II. Serbest Cumhuriyet Fırkasının resmî kuruluş tarihi, 14 Ağustos 1931'dir. olmuştu.<br />III. Merkezi Taksim’de olan partinin başkanı Ali Fethi Okyar'dır.<br />IV. Partinin genel sekreteri Nuri Conker'dir.<br />Serbest Cumhuriyet Fıkrası ile ilgili yukarıda verilen bilgilerden hangi/hangileri doğrudur?
     - A-) I ve II
     - B-) II ve III
     - C-) I, II ve III
     - **Cevap D-) I, III ve IV**
     - E-) II, III ve IV
 
-    > **Açıklama:** Serbest Fırkanın kurulacağına dair ilk haber 9 Ağustos 1930 günü Vakit gazetesinde çıkmıştı. Serbest Cumhuriyet Fırkasının resmî kuruluş tarihi, 12 Ağustos 1930 olmuştu. İlk  merkezi Taksim’de olan partinin yönetimi de şu şekilde olmuştu: Ali Fethi Okyar (Parti Başkanı), Nuri Conker (Genel Sekreter), Ahmet Ağaoğlu, Tahsin Uzer, Mehmet Emin Yurdakul, Süreyya İlmen gibi isimler üye olarak yer almıştır.
+    > **Açıklama:** Serbest Fırkanın kurulacağına dair ilk haber 9 Ağustos 1930 günü Vakit gazetesinde çıkmıştı. Serbest Cumhuriyet Fırkasının resmî kuruluş tarihi, 12 Ağustos 1930 olmuştu. İlk merkezi Taksim’de olan partinin yönetimi de şu şekilde olmuştu: Ali Fethi Okyar (Parti Başkanı), Nuri Conker (Genel Sekreter), Ahmet Ağaoğlu, Tahsin Uzer, Mehmet Emin Yurdakul, Süreyya İlmen gibi isimler üye olarak yer almıştır.
 
     ***
 1. Atatürk Dönemi’nde kaç kez yerel seçim yapılmıştır?
@@ -2159,7 +2379,7 @@
     - E-) Recep Peker
 
     > **Açıklama:** Cumhuriyet’in ilanından Atatürk’ün vefatına kadar geçen süre içerisinde kurulan hükûmetler ile İçişleri Bakanı
-    > **Başvekil -  İçişleri Bakanı**
+    > **Başvekil - İçişleri Bakanı**
     > İsmet İnönü-Ahmet Ferit Tek
     > İsmet İnönü-Ahmet Ferit Tek
     > Fethi Okyar-Recep Peker/ Cemil Uybadın
@@ -2178,7 +2398,7 @@
     - D-) Hasan Rıza Soyak
     - E-) Kazım Özalp
 
-    > **Açıklama:** 20 Eylül 1937 tarihinde Başbakanlık vekâletine atanmış olan İktisat Bakanı Celal Bayar,  Atatürk döneminin son Başbakanı olmuştur.
+    > **Açıklama:** 20 Eylül 1937 tarihinde Başbakanlık vekâletine atanmış olan İktisat Bakanı Celal Bayar, Atatürk döneminin son Başbakanı olmuştur.
 
     ***
 1. Mudanya Ateşkes Anlaşması hangi tarihte imzalanmıştır ?
@@ -2188,7 +2408,7 @@
     - D-) 11 Kasım 1922
     - E-) 11 Aralık 1922
 
-    > **Açıklama:** Mudanya Ateşkes Anlaşması 11 Ekim 1922 tarihinde imzalanmıştır.
+    > **Açıklama:** Mudanya Ateşkes Anlaşması 11 Ekim 1922 tarihinde imzalanmıştır.
 
     ***
 1. 1923 yılında “Halk Fırkası Umdelerinin Tahlil ve Tasnîfiyle Siyâsî Umdelerinin Tefsiri” ismi ile Dokuz Umde’nin maddelerini izah eden yazar aşağıdakilerden hangisidir ?
@@ -2198,17 +2418,17 @@
     - D-) Kemal Tahir
     - E-) Yakup Kadri Karaosmanoğlu
 
-    > **Açıklama:** 1923 yılında Ziya Gökalp “Halk Fırkası Um-delerinin Tahlil ve Tasnîfiyle Siyâsî Umdeleri-nin Tefsiri” ismi ile Dokuz Umde’nin maddele-rini izah etmiştir. Doğru Cevap C'dir.
+    > **Açıklama:** 1923 yılında Ziya Gökalp “Halk Fırkası Um-delerinin Tahlil ve Tasnîfiyle Siyâsî Umdeleri-nin Tefsiri” ismi ile Dokuz Umde’nin maddele-rini izah etmiştir. Doğru Cevap C'dir.
 
     ***
-1. Ankara'nın  başkent olarak kabul edilmesi hangi tarihte kabul edilmiştir ?
+1. Ankara'nın başkent olarak kabul edilmesi hangi tarihte kabul edilmiştir ?
     - A-) 30 Mayıs 1923
     - B-) 19 Haziran 1923
     - C-) 30 Ağustos 1923
     - **Cevap D-) 13 Ekim 1923**
     - E-) 30 Ekim 1923
 
-    > **Açıklama:** Kurtuluş Savaşı’nın başarıyla sonuçlanmasının ardından yeni kurulan devletin başkenti olması gerekliydi. İsmet Paşa ve 14 arkadaşının TBMM’ye verdikleri yasa önerisiyle 13 Ekim 1923’te yeni devletin başkentinin Ankara olduğu kabul edilmiştir. Doğru Cevap D'dir.
+    > **Açıklama:** Kurtuluş Savaşı’nın başarıyla sonuçlanmasının ardından yeni kurulan devletin başkenti olması gerekliydi. İsmet Paşa ve 14 arkadaşının TBMM’ye verdikleri yasa önerisiyle 13 Ekim 1923’te yeni devletin başkentinin Ankara olduğu kabul edilmiştir. Doğru Cevap D'dir.
 
     ***
 1. 29 Ekim 1923’te kurulan Türkiye Cumhuriyeti'nin ilk başbakanı kimdir ?
@@ -2221,7 +2441,7 @@
     > **Açıklama:** 29 Ekim 1923’te kurulan Türkiye Cumhuriyeti'nin ilk başbakanı İsmet Paşa'dır.
 
     ***
-1. Osmanlı Devleti'nde Halife ünvanı ilk defa hangi  hangi padişah tarafından kullanılmıştır ?
+1. Osmanlı Devleti'nde Halife ünvanı ilk defa hangi hangi padişah tarafından kullanılmıştır ?
     - A-) Osman Gazi
     - B-) Çelebi Mehmed
     - C-) Fatih Sultan Mehmed
@@ -2238,7 +2458,7 @@
     - D-) Rauf Orbay
     - E-) İzzettin Çalışlar
 
-    > **Açıklama:** 17 Kasım 1924’te Terakkiperver Cumhuriyet Fırkası kuruldu. Partinin genel başkanı Kazım Karabekir, genel sekreteri Ali Fuat Paşa, ikinci başkanları ise Adnan (Adıvar) ve Rauf Beyler oldu. Doğru Cevap A'dır.
+    > **Açıklama:** 17 Kasım 1924’te Terakkiperver Cumhuriyet Fırkası kuruldu. Partinin genel başkanı Kazım Karabekir, genel sekreteri Ali Fuat Paşa, ikinci başkanları ise Adnan (Adıvar) ve Rauf Beyler oldu. Doğru Cevap A'dır.
 
     ***
 1. Şeyh Sait İsyanını bastırmak için çıkarılan özel yasa aşağıdakilerden hangisidir ?
@@ -2248,17 +2468,17 @@
     - D-) Firariler Hakkında Kanun
     - E-) İstiklal Mehakimi Kanunu
 
-    > **Açıklama:** Şeyh Sait İsyanını bastırmak için çıkarılan özel yasa Takrir-i Sükûn Kanunu'dur. Doğru Cevap B'dir.
+    > **Açıklama:** Şeyh Sait İsyanını bastırmak için çıkarılan özel yasa Takrir-i Sükûn Kanunu'dur. Doğru Cevap B'dir.
 
     ***
-1. 12 Ağustos 1930 tarihinde kurulan Serbest Cumhuriyet Fırkasının ilk parti başkanı aşağıdakilerden hangisidir ?
+1. 12 Ağustos 1930 tarihinde kurulan Serbest Cumhuriyet Fırkasının ilk parti başkanı aşağıdakilerden hangisidir ?
     - A-) Rauf Orbay
     - B-) Refet Bele
     - C-) Nuri Conker
     - D-) İsmet İnönü
     - **Cevap E-) Ali Fethi Okyar**
 
-    > **Açıklama:** 12 Ağustos 1930 tarihinde kurulan Serbest Cumhuriyet Fırkasının ilk parti başkanı Ali Fethi Okyar'dır. Doğru Cevap E'dir.
+    > **Açıklama:** 12 Ağustos 1930 tarihinde kurulan Serbest Cumhuriyet Fırkasının ilk parti başkanı Ali Fethi Okyar'dır. Doğru Cevap E'dir.
 
     ***
 1. 29 Ekim 1923'te Cumhuriyetin ilanından sonra Türkiye Cumhuriyeti'nin ilk dışişleri bakanı aşağıdakilerden hangisidir ?
@@ -2278,7 +2498,8 @@
     - D-) 1925
     - E-) 1924
 
-    > **Açıklama:** 1930 yılında kurulan Serbest Cumhuriyet Fırkası özellikle ekonomik açıdan hükümetin işlerini eleştirecek ve denetleyecek bir parti olarak doğmuşsa da sadece belediye seçimlerine katılabilip başarısız bir deneme olarak kendini feshetmiştir.
+    > **Açıklama:** Giriş
+    > 1930 yılında kurulan Serbest Cumhuriyet Fırkası özellikle ekonomik açıdan hükümetin işlerini eleştirecek ve denetleyecek bir parti olarak doğmuşsa da sadece belediye seçimlerine katılabilip başarısız bir deneme olarak kendini feshetmiştir.
 
     ***
 1. Aşağıdaki seçeneklerin hangisinde Ankara’nın başkent olmasının nedeni doğru olarak ifade edilmiştir?
@@ -2288,7 +2509,8 @@
     - D-) Mebusların olumlu oy vermesi
     - E-) Ulaşımının kolay olması
 
-    > **Açıklama:** Ankara’nın jeopolitik öneminin yanı sıra Millî Mücadele’nin merkezi olması Ankara’nın başkent seçilmesinde en önemli etkenlerdir.
+    > **Açıklama:** Ankara’nın Başkent Oluşu
+    > Ankara’nın jeopolitik öneminin yanı sıra Millî Mücadele’nin merkezi olması Ankara’nın başkent seçilmesinde en önemli etkenlerdir.
 
     ***
 1. Türkiye Cumhuriyeti’nin yönetim şeklinin Cumhuriyet olduğunun kesin hüküm olarak kabul edilmesi hangi Anayasa ile gerçekleşmiştir?
@@ -2298,7 +2520,8 @@
     - D-) 1961
     - **Cevap E-) 1924**
 
-    > **Açıklama:** Yeni devletin idare şeklinin Cumhuriyet olması 1924 Anayasası’nda “Devletin şekli cumhuriyettir.” ifadesiyle kesin hükme bağlanmıştır.
+    > **Açıklama:** Cumhuriyet’in İlanı
+    > Yeni devletin idare şeklinin Cumhuriyet olması 1924 Anayasası’nda “Devletin şekli cumhuriyettir.” ifadesiyle kesin hükme bağlanmıştır.
 
     ***
 1. Halifelik makamını İstanbul’a getiren Osmanlı padişahı aşağıdakilerden hangisidir?
@@ -2308,7 +2531,8 @@
     - D-) II. Murad
     - E-) Yıldırım Bayezid
 
-    > **Açıklama:** Yavuz Sultan Selim Mısır’ı alınca kutsal eşyalarla birlikte halifelik makamını İstanbul’a getirmiştir.
+    > **Açıklama:** Halifeliğin Kaldırılması
+    > Yavuz Sultan Selim Mısır’ı alınca kutsal eşyalarla birlikte halifelik makamını İstanbul’a getirmiştir.
 
     ***
 1. İstanbul Hükümeti’nin Kuva-yı Milliye’ye karşı kurduğu askeri örgüt aşağıdakilerden hangisidir?
@@ -2318,7 +2542,8 @@
     - D-) Hamidiye Alayları
     - E-) Nizam-ı Cedid
 
-    > **Açıklama:** İstanbul Hükümeti’nin Kuva-yı Milliye’ye karşı kurduğu askeri örgüt Hilafet Ordusu olarak da anılan Kuva-yı İnzibatiye Ordusu’dur.
+    > **Açıklama:** İstiklal Mahkemeleri
+    > İstanbul Hükümeti’nin Kuva-yı Milliye’ye karşı kurduğu askeri örgüt Hilafet Ordusu olarak da anılan Kuva-yı İnzibatiye Ordusu’dur.
 
     ***
 1. Şeyh Sait Ayaklanması hangi yılda çıkmıştır?
@@ -2328,7 +2553,8 @@
     - D-) 1928
     - **Cevap E-) 1925**
 
-    > **Açıklama:** Şeyh Sait Ayaklanması13 Şubat 1925’te Ergani’nin Piran köyünde başlamıştır.
+    > **Açıklama:** Şeyh Sait İsyanı ve Takrir-i Sükun Kanunu
+    > Şeyh Sait Ayaklanması13 Şubat 1925’te Ergani’nin Piran köyünde başlamıştır.
 
     ***
 1. Şeyh Sait İsyanı’ndan sonra genç Türkiye Cumhuriyeti’ne yönelik en önemli saldırılardan biri aşağıdakilerden hangisidir?
@@ -2348,7 +2574,8 @@
     - D-) 1928
     - E-) 1930
 
-    > **Açıklama:** Türkiye’de 23 Nisan günü Çocuk Bayramı olarak 1927 yılında kutlanmaya başlanmıştır.
+    > **Açıklama:** Milli Bayramlar ve Yıl Dönümleri
+    > Türkiye’de 23 Nisan günü Çocuk Bayramı olarak 1927 yılında kutlanmaya başlanmıştır.
 
     ***
 1. Atatürk döneminin son başbakanı aşağıdaki isimlerden hangisidir?
@@ -2358,7 +2585,8 @@
     - **Cevap D-) Celal Bayar**
     - E-) Recep Peker
 
-    > **Açıklama:** Atatürk döneminin son başbakanı Celal Bayar’dır.
+    > **Açıklama:** Atatürk ve İnönü Ayrılığı
+    > Atatürk döneminin son başbakanı Celal Bayar’dır.
 
     ***
 ## Unite 8
@@ -2407,7 +2635,7 @@
     - B-) II. Napolyon
     - C-) II Abdulhamit
     - **Cevap D-) Japon kralı Mutsuhito**
-    - E-) ABD başkanı Roosevelt
+    - E-) ABD başkanı Roosevelt
 
     > **Açıklama:** “Asya Asyalılarındır” sözü Çarlık Rusya’sını 1905 yılında yapılan savaşta yenen Japonya İmparatoru Mutsuhito (1867- 1912) tarafından söylenmiştir.
 
@@ -2509,10 +2737,10 @@
     - **Cevap A-) Tarafsızlık, Uzlaşma ve Adlî Tasfiye Antlaşması**
     - B-) Locarno Antlaşması
     - C-) Sınır ve İyi Komşuluk Antlaşması
-    - D-) “Ticaret ve Seyrisefain  Antlaşması
+    - D-) “Ticaret ve Seyrisefain Antlaşması
     - E-) Versay Antlaşması
 
-    > **Açıklama:** Türkiye’nin Batılı devletlerle ilişkilerini geliştirme düşüncesi hem de İtalya’nın Doğu Akdeniz’de bir ittifak arayışı içerisinde olması nedeniyle, Türkiye ile İtalya arasında 30 Mayıs 1928’de Roma’da bir **“Tarafsızlık, Uzlaşma ve Adlî Tasfiye Antlaşması”**  imzalanmıştır.
+    > **Açıklama:** Türkiye’nin Batılı devletlerle ilişkilerini geliştirme düşüncesi hem de İtalya’nın Doğu Akdeniz’de bir ittifak arayışı içerisinde olması nedeniyle, Türkiye ile İtalya arasında 30 Mayıs 1928’de Roma’da bir **“Tarafsızlık, Uzlaşma ve Adlî Tasfiye Antlaşması”** imzalanmıştır.
 
     ***
 1. 30 Ekim 1930’da üç ayrı belgeden oluşan Dostluk, Tarafsızlık, Uzlaşma ve<br />Hakem Antlaşması Türkiye ve hangi ülke arasında imzalanmıştır?
@@ -2527,7 +2755,7 @@
     > Bu ziyaret sırasında, yani 30 Ekim 1930’da üç ayrı belgeden oluşan Dostluk, Tarafsızlık, Uzlaşma ve Hakem Antlaşması imzalanmıştır
 
     ***
-1. Aşağıdakilerden hangisi 25 Mayıs 1928’de hem başkent Ankara’yı hem de<br />yeni Türkiye Cumhuriyeti’ni ilk ziyaret eden ülkenin devlet başkanıdır?
+1. Aşağıdakilerden hangisi 25 Mayıs 1928’de hem başkent Ankara’yı hem de<br />yeni Türkiye Cumhuriyeti’ni ilk ziyaret eden ülkenin devlet başkanıdır?
     - A-) Rusya
     - B-) İran
     - C-) ABD
@@ -2571,7 +2799,7 @@
     > Rusya ile görüşmesinin ve bazı sorunları çözmesinin ardından, Balkan Antantı bu dört devlet tarafından 9 Şubat 1934’te imzalanmıştır
 
     ***
-1. Aşağıdaki ülkelerden hangisi 20 Temmuz 1936’da Montreux (Montrö) Boğazlar Sözleşmesi'ni **imzalamamıştır**?
+1. Aşağıdaki ülkelerden hangisi 20 Temmuz 1936’da Montreux (Montrö) Boğazlar Sözleşmesi'ni **imzalamamıştır**?
     - **Cevap A-) İtalya**
     - B-) Sovyet Rusya
     - C-) Japonya
@@ -2592,7 +2820,7 @@
     > **Açıklama:** Atatürk Dönemi’nde (1923-1938) takip edilen dış politika dikkatle incelendiğinde Atatürk’ün birtakım temel dış politika ilkelerinin olduğu görülmüştür. Bunlar; millîlik, bağımsızlık, gerçekçilik, barışçılık, akılcılık, çağdaşlaşmacılık veya medenileşmecilik, güvenlikçilik ve ittifakçılık gibi temel ilkeleri hemen göze çarpmaktadır.
 
     ***
-1. Birinci Dünya Savaşı'ndan sonra  uluslararası ilişkilerde sorunların savaşa başvurulmadan çözülmesini sağlamak üzere kurulan pakt aşağıdakilerden hangisidir?
+1. Birinci Dünya Savaşı'ndan sonra uluslararası ilişkilerde sorunların savaşa başvurulmadan çözülmesini sağlamak üzere kurulan pakt aşağıdakilerden hangisidir?
     - **Cevap A-) Briand- Kellog Paktı**
     - B-) NATO
     - C-) Bağlantısızlar Paktı
@@ -2609,11 +2837,11 @@
     - D-) Osmanlı Genel Borçları
     - E-) Savaş Tazminatı
 
-    > **Açıklama:** Musul meselesi Lozan Barış Konferansı’nın ikinci döneminde görüşülmemiş, sorunun çözümünü konferans sonrasına bırakılmıştır. 24 Temmuz 1923’te imzalanan Lozan Barış Antlaşması’nın 3. maddesinin 2. fıkrasında, Türkiye ile Irak arasındaki sınırın dokuz ay içerisinde Türkiye ile İngiltere arasında barışçı
+    > **Açıklama:** Musul meselesi Lozan Barış Konferansı’nın ikinci döneminde görüşülmemiş, sorunun çözümünü konferans sonrasına bırakılmıştır. 24 Temmuz 1923’te imzalanan Lozan Barış Antlaşması’nın 3. maddesinin 2. fıkrasında, Türkiye ile Irak arasındaki sınırın dokuz ay içerisinde Türkiye ile İngiltere arasında barışçı
     > yollarla saptanması öngörülmüş, belirlenen zaman içinde iki devlet arasında bir anlaşma sağlanamazsa, meselenin Milletler Cemiyetine götürülmesi kararlaştırılmıştır.
 
     ***
-1. Aşağıdakilerden  hangisi Lozan Barış Antlaşması'ndan sonra Türkiye ile Fransa arasında karşılaşılan sorunlardan biridir?
+1. Aşağıdakilerden hangisi Lozan Barış Antlaşması'ndan sonra Türkiye ile Fransa arasında karşılaşılan sorunlardan biridir?
     - A-) Jandarma ıslahatı
     - **Cevap B-) Adana-Mersin Demiryolunun millîleştirilmesi**
     - C-) Doğu Trakya'nın boşaltılması
@@ -2621,6 +2849,17 @@
     - E-) İstanbul'un boşaltılması
 
     > **Açıklama:** Lozan Barış Antlaşması’nın imzalanmasından sonra, Lozan’da çözümlenemeyen Türkiye-Suriye sınırının belirlenmesi yani İskenderun Sancağı (Hatay) meselesi ve Osmanlı’dan kalan borçların ödenmesi, Türkiye ve Fransa arasındaki önemli sorunlardır. Bunların dışında; Türkiye’deki Fransız misyoner okullarının durumu, Bozkurt- Lotus davası ve Adana-Mersin demir yolunun millîleştirilmesi sırasında yaşananlar diğer dikkati çeken sorunlardır.
+
+    ***
+1. Aşağıdakilerden hangisi 1925'te Türkiye ile Sovyetler Birliği arasında “Türk-Sovyet Tarafsızlık ve Saldırmazlık Antlaşması”nın imzalanmasını etkileyen gelişmelerden biridir?
+    - A-) Stalin'in tek ülkede sosyalizm politikası
+    - B-) Hitler'in iktidara gelmesi
+    - C-) Mussolini'nin iktidara gelmesi
+    - **Cevap D-) Musul Sorunu'nun Türkiye aleyhine sonuçlanması**
+    - E-) Fransa'nın Suriye'yi işgal altında tutmaya devam etmesi
+
+    > **Açıklama:** 1\. Dünya Savaşı’nın galiplerinin yanlarına Almanya’yı da alarak 1 Aralık 1925’te Locarno Antlaşması’nı imzalaması ve Almanya’nın, Sovyet Rusya’dan uzaklaşması, Sovyet Rusya’yı Türkiye’ye yaklaştırmıştır. Ayrıca, Milletler Cemiyetinin Musul meselesinde Türkiye’nin aleyhine olan kararını 16 Aralık 1925’te açıklaması nedeniyle, iki devlet birbirine daha çok yaklaşmıştır.
+    > Bunun sonucu olarak Türkiye ile Sovyet Rusya arasında 17 Aralık 1925’te Paris’te “Türk-Sovyet Tarafsızlık ve Saldırmazlık Antlaşması” imzalanmıştır.
 
     ***
 1. Lozan Barış Antlaşması'ndan sonra Türkiye ile Yunanistan arasında çıkan en önemli sorun aşağıdakilerden hangisidir?
@@ -2651,7 +2890,7 @@
     ***
 1. Cumhuriyet döneminde Türkiye'yi ziyaret eden ilk devlet başkanı aşağıdakilerden hangisidir?
     - A-) Alman Cumhurbaşkanı Hindenburg
-    - **Cevap B-) Afgan Kralı Amanullah Han**
+    - **Cevap B-) Afgan Kralı Amanullah Han**
     - C-) Sovyet lideri Stalin
     - D-) Yunanistan Başbakanı Venizelos
     - E-) İngiltere Kralı VII. Edward
@@ -2666,7 +2905,7 @@
     - D-) 20 Mayıs 1938
     - E-) 19 Ekim 1939
 
-    > **Açıklama:** Milletler Cemiyeti Genel Kurulu, 6 Temmuz 1932’de Çin- Japon anlaşmazlığını görüşmek amacıyla yapmış olduğu olağanüstü toplantıda, İspanya temsilcilerinin teklifi, Yunanistan temsilcisinin desteği ile Türkiye’nin Milletler Cemiyetine davetini öngören bir karar tasarısını kabul etmiştir. Bu kararın Türkiye’ye bildirilmesi üzerine TBMM 9 Temmuz 1932’de bu daveti kabul ettiğine ilişkin genel kurul kararı almıştır.  Bu karar, aynı gün içinde Milletler Cemiyeti Genel Sekreterliğine bildirilmiş, işlemlerin tamamlanmasından sonra, Milletler Cemiyetinin 18 Temmuz 1932’de kırk üç üyesinin ittifakla almış olduğu kararla, Türkiye Milletler Cemiyetinin üyesi olmuştur.
+    > **Açıklama:** Milletler Cemiyeti Genel Kurulu, 6 Temmuz 1932’de Çin- Japon anlaşmazlığını görüşmek amacıyla yapmış olduğu olağanüstü toplantıda, İspanya temsilcilerinin teklifi, Yunanistan temsilcisinin desteği ile Türkiye’nin Milletler Cemiyetine davetini öngören bir karar tasarısını kabul etmiştir. Bu kararın Türkiye’ye bildirilmesi üzerine TBMM 9 Temmuz 1932’de bu daveti kabul ettiğine ilişkin genel kurul kararı almıştır. Bu karar, aynı gün içinde Milletler Cemiyeti Genel Sekreterliğine bildirilmiş, işlemlerin tamamlanmasından sonra, Milletler Cemiyetinin 18 Temmuz 1932’de kırk üç üyesinin ittifakla almış olduğu kararla, Türkiye Milletler Cemiyetinin üyesi olmuştur.
 
     ***
 1. Hatay Cumhuriyeti hangi yıl kurulmuştur?
@@ -2770,7 +3009,7 @@
     > **Açıklama:** Orta Doğu olarak kabul edilen bölgedeki ülkeler içerisinde, Türkiye’nin ilk ve yakın ilişkiler kurmuş olduğu devlet Afganistan olmuştur.
 
     ***
-1. Aşağıdaki ülkelerden hangisi Birleşmiş Milletler’in 1958 yılından itibaren “Orta Doğu”  olarak isimlendirdiği coğrafi sınırlar içerisinde **değildir**?
+1. Aşağıdaki ülkelerden hangisi Birleşmiş Milletler’in 1958 yılından itibaren “Orta Doğu” olarak isimlendirdiği coğrafi sınırlar içerisinde **değildir**?
     - **Cevap A-) Pakistan**
     - B-) Türkiye
     - C-) Yunanistan
@@ -2787,7 +3026,7 @@
     - D-) Hakem ve Uzlaşma Antlaşması
     - E-) Dostluk ve İşbirliği Antlaşması
 
-    > **Açıklama:** Türkiye ve İran arasında Tahran’da 22 Nisan 1926’da Güvenlik ve Dostluk Antlaşması imzalanmıştır. Türkiye ve İran arasında imzalanan bu antlaşmanın bir başka önemli özelliği ise yeni kurulan bu iki devlet arasında imzalanan ilk belge olmasıdır.
+    > **Açıklama:** Türkiye ve İran arasında Tahran’da 22 Nisan 1926’da Güvenlik ve Dostluk Antlaşması imzalanmıştır. Türkiye ve İran arasında imzalanan bu antlaşmanın bir başka önemli özelliği ise yeni kurulan bu iki devlet arasında imzalanan ilk belge olmasıdır.
 
     ***
 1. Aşağıdakilerden hangisi "*Balkanlar Balkan halklarına aittir*” anlayışı çerçevesinde Balkan Paktı’nın kurulmasına giden yolda atılan ilk siyasi girişimdir?

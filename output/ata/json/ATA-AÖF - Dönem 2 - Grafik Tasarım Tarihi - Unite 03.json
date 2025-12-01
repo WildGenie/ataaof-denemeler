@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 311216,
@@ -28,14 +29,15 @@
         "E": "Japonya",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 311217,
@@ -47,14 +49,15 @@
         "E": "Kapitalizme duyulan güven",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 311219,
@@ -66,14 +69,15 @@
         "E": "Kapitalizme yardımcı olma misyonu",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 311220,
@@ -85,14 +89,15 @@
         "E": "Kelmscott Press Kitabı",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 311222,
@@ -104,14 +109,15 @@
         "E": "Walter",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 314292,
@@ -123,18 +129,19 @@
         "E": "Sanatın ve El Sanatları’nın toplum açısından o kadar da önemli olmadığını düşünen makineleşme ve seri üretim mallarının değerinin bilinmesi gerektiğini savunan öncü tasarımcıların döneminde ortaya çıkmıştır.",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 314293,
-        "SoruMetni": "“Tasarım ve mimarideki …………… engellemek ve günlük yaşamda kullanılacak güzel objeler yaratarak dönemin sanatsal dejenerasyonunu durdurmayı amaçlamıştır.”<br/> <br/><strong>Yukarıdaki alıntı cümlesindeki boşluk aşağıdaki hangi kelimeyle doldurulursa Art and Crafts Hareketi’nin Misyonu açısından doğru olur?</strong>",
+        "SoruMetni": "“Tasarım ve mimarideki …………… engellemek ve günlük yaşamda kullanılacak güzel objeler yaratarak dönemin sanatsal dejenerasyonunu durdurmayı amaçlamıştır.”<br/><strong>Yukarıdaki alıntı cümlesindeki boşluk aşağıdaki hangi kelimeyle doldurulursa Art and Crafts Hareketi’nin Misyonu açısından doğru olur?</strong>",
         "A": "yozlaşmayı",
         "B": "devinimi",
         "C": "ivmeyi",
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314294,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 314295,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314296,
@@ -199,14 +209,15 @@
         "E": "Araç ve gerece saygı",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 314297,
@@ -218,14 +229,15 @@
         "E": "T.J. Cobden-Sanderson",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 314298,
@@ -237,14 +249,15 @@
         "E": "Kelmscott Press kitapları için kuramsal alt yapıyı biçimlendirmiştir.",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 314299,
@@ -256,14 +269,15 @@
         "E": "Malzemeye saygı",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 314300,
@@ -275,14 +289,15 @@
         "E": "T. J. Cobden-Sanderson",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314301,
@@ -294,14 +309,15 @@
         "E": "T.J. Cobden-Sanderson",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 343033,
@@ -313,14 +329,15 @@
         "E": "Malzemenin önemli olmadığı ve tasarımcıların, kaliteli ürünleri yaratmak için malzemeyi tanımadan hayal güçlerini kullanmaları gerektiğini vurgular.",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 343045,
@@ -332,18 +349,19 @@
         "E": "Walter Crane",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 343057,
-        "SoruMetni": "I. John Ruskin, Viktorya Dönemi'nin önemli bir sanat eleştirmeni, üretken bir yazarı ve düşünürüdür.<br/> <br/>II. John Ruskin estetiğinin felsefesinde; nesnenin kendisi kadar, o nesnenin ortaya çıktığı sosyal koşulların da önemli olduğunu vurgulamıştır.<br> <br/>III. Ruskin’in inancına göre Orta Çağ üretim sistemi, tasarlayan ve üreten zanaatkarların bireysel ifadesine izin vermektedir.<br> <br/><strong>Arts and Crafts Hareketi’nin önemli temsilcilerinden olan “John Ruskin” ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong></br></br>",
+        "SoruMetni": "I. John Ruskin, Viktorya Dönemi'nin önemli bir sanat eleştirmeni, üretken bir yazarı ve düşünürüdür.<br/>II. John Ruskin estetiğinin felsefesinde; nesnenin kendisi kadar, o nesnenin ortaya çıktığı sosyal koşulların da önemli olduğunu vurgulamıştır.<br/>III. Ruskin’in inancına göre Orta Çağ üretim sistemi, tasarlayan ve üreten zanaatkarların bireysel ifadesine izin vermektedir.<br/><strong>Arts and Crafts Hareketi’nin önemli temsilcilerinden olan “John Ruskin” ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong></br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -351,13 +369,14 @@
         "E": "I, II ve III",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     }
 ]

@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 3858547,
-        "SoruMetni": "“Camera lucida, 1806 yılında …… ………  ta­rafından bulunan ve ressamların manzara sahnesini hatasız bir şekilde resmetmesine yardımcı olan optik bir aygıttır.”<br/> Yukarıda boş bırakılan yerde bahsedilen kişi aşağıdakilerden hangisidir?",
+        "SoruMetni": "“Camera lucida, 1806 yılında …… ……… ta­rafından bulunan ve ressamların manzara sahnesini hatasız bir şekilde resmetmesine yardımcı olan optik bir aygıttır.”<br/>Yukarıda boş bırakılan yerde bahsedilen kişi aşağıdakilerden hangisidir?",
         "A": "Elizabeth Ful­hame",
         "B": "Thomas Wedgwood",
         "C": "Carl Wilhelm Scheele",
@@ -58,6 +58,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Camera obscura karanlık oda çevresindeki görüntüleri ekrana yansıtan optik bir alettir. Çizim amacıyla kullanılır. Ayrıca fotoğraf ve kameranın icadına yol açan buluşlardan da biridir. Came­ra obscura, bir kutu veya oda ve onun bir yüzüne açılmış delikten ibarettir. Dışarıdan gelen ışık delikten geçerek içerisindeki yüzeye düşer ve yansıdığı kaynağın perspektifini ve renklerini koruyarak ters dönmüş (180 derece, baş aşağı) görüntüsünü oluşturur. Resmin bir kağıt üzerine düşürülerek net çizimler elde edilmesini sağlar."
+    },
+    {
+        "SoruID": 3858549,
+        "SoruMetni": "Birden fazla kamera kullanarak yaptığı hareket çekimleriyle; 1878 yılında koşan bir atı, 12 ayrı açıdan çeken ve sinemanın ilk halini bulan İngiliz fotoğrafçı kimdir?",
+        "A": "Carl Wilhelm Scheele",
+        "B": "Eadweard Muybridge",
+        "C": "Joseph Nicéphore Niépce",
+        "D": "Thomas Wollaston",
+        "E": "Etienne-Jules Marey",
+        "DogruCevap": "B",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:16.073905",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Eadweard Muybridge birden fazla kamera kullanarak yaptığı hareket çekimleriyle bilinen İngiliz fotoğrafçıdır. 1878 yılında koşan bir atı, 12 ayrı açıdan çekmiştir ve sinemanın ilk halini bulan kişi olarak bilinir."
     },
     {
         "SoruID": 3858550,
@@ -100,6 +120,26 @@
         "Aciklama": "Alttan bakış: Kameranın çekim konusunu gö­rüntülemek için yukarı doğru doğrultulduğu her türden çekimdir."
     },
     {
+        "SoruID": 3858552,
+        "SoruMetni": "Aşağıdakilerden hangisi <u>yanlış</u> <u>verilmiştir</u>?",
+        "A": "Uzak çekim: Büyük bir alanın, geniş bir mesafeden görüntülenmesidir.",
+        "B": "Genel çekim: İzleyene mekan hakkında bir fikir veren çekim türüdür.",
+        "C": "Boy çekim: Objenin bir kısmının görüntü çerçevesini doldurmasıdır.",
+        "D": "Diz çekim: Dizin hemen altından başın üzerine ve baş boşluğuna kadar olan çerçeve içindeki çekimdir.",
+        "E": "Göğüs çekim: Göğsün tamamının baş boşluğu ile beraber görüntü çerçevesi içine dahil edilmesidir.",
+        "DogruCevap": "C",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.890235",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Uzak çekim: Büyük bir alanın, geniş bir me­safeden görüntülenmesidir.<br/>Genel çekim: İzleyene mekân hakkında bir fikir veren çekim türü­dür.<br/>Boy çekim: Kişinin veya kişilerin bütün vücudu ile göründüğü çekim türüdür.<br/>Diz çekim: Dizin hemen altından başın üzerine ve baş boşluğuna kadar olan çerçeve içindeki çekimdir.<br/>Göğüs çekim: Göğsün tamamının baş boşluğu ile beraber görüntü çerçevesi içine dahil edilmesidir.<br/>Ayrıntı çekim: Objenin bir kısmının görüntü çerçevesini doldurmasıdır."
+    },
+    {
         "SoruID": 3858553,
         "SoruMetni": "Görüntü geçiş türleri arasında en çok kullanılan yöntem olan bir planın ardından hemen ikinci planı getirmekle yapılan işlem aşağıdakilerden hangisidir?",
         "A": "Zincirleme",
@@ -117,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntü geçiş türleri;<br/> Kesme: En çok kullanılan yöntemdir. Bir pla­nın ardından hemen ikinci planı getirmekle yapılır."
+        "Aciklama": "Görüntü geçiş türleri;<br/>Kesme: En çok kullanılan yöntemdir. Bir pla­nın ardından hemen ikinci planı getirmekle yapılır."
     },
     {
         "SoruID": 3858554,
-        "SoruMetni": "“Yönetmenliğini üstlendiği Shirley: Visions of Reality, Edward Hopper’ın Office at Night, Woman in the Sun dâhil olmak üzere 13 farklı tablosunda resmettiği Shirley’in hikayesini 1920’lerde başlayıp, yıllara yayılan bir süreçte anlatarak benzersiz bir hikayeyi önümüze getiriyor.”<br/> Yukarıda bahsedilen film yönetmeni aşağıdakilerden hangisidir?",
+        "SoruMetni": "“Yönetmenliğini üstlendiği Shirley: Visions of Reality, Edward Hopper’ın Office at Night, Woman in the Sun dâhil olmak üzere 13 farklı tablosunda resmettiği Shirley’in hikayesini 1920’lerde başlayıp, yıllara yayılan bir süreçte anlatarak benzersiz bir hikayeyi önümüze getiriyor.”<br/>Yukarıda bahsedilen film yönetmeni aşağıdakilerden hangisidir?",
         "A": "Gustav Deutsch",
         "B": "Edward Hopper",
         "C": "David Wark Griffith",
@@ -132,7 +172,7 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.104672",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.410174",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -152,7 +192,7 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.155357",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.419714",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -237,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kameranın çekim konusunu görüntülemek için yukarı doğru doğrultulduğu her türden çekimdir. Bunun dışında kameranın alt açıdan görüşü söz konusu olunca alt açıdan yapılmış çekimlerde de objeler gereğinden büyük görünürler. Burada çekilen, objenin, cismin özelliğine göre izleyicilerde güçlülük, heybetlik, ululuk duygusu<br/>uyandırmasıdır. Doğru cevap A'dır."
+        "Aciklama": "Kameranın çekim konusunu görüntülemek için yukarı doğru doğrultulduğu her türden çekimdir. Bunun dışında kameranın alt açıdan görüşü söz konusu olunca alt açıdan yapılmış çekimlerde de objeler gereğinden büyük görünürler. Burada çekilen, objenin, cismin özelliğine göre izleyicilerde güçlülük, heybetlik, ululuk duygusu<br/>uyandırmasıdır. Doğru cevap A'dır."
     },
     {
         "SoruID": 3858599,
@@ -292,7 +332,7 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.106176",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.412711",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -357,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntüde kullanılan resimlerin renk değerlerinin açıklık ve koyuluğunun ifadesidir. Ton, çekimin resimsel dengesini ve atmosferini doğrudan etkiler. Bir kompozisyonun duygusal yönü, egemen olan tonlarla yakından ilgilidir. Mesela görüntüde dinamikliği ve değişkenliği anlatabilmek için koyu tonların kullanılması gibi. Kullanılan renklerin ton değerleri objelerin niteliklerine göre ayarlanmalıdır. Doğru cevap A'dır"
+        "Aciklama": "Görüntüde kullanılan resimlerin renk değerlerinin açıklık ve koyuluğunun ifadesidir. Ton, çekimin resimsel dengesini ve atmosferini doğrudan etkiler. Bir kompozisyonun duygusal yönü, egemen olan tonlarla yakından ilgilidir. Mesela görüntüde dinamikliği ve değişkenliği anlatabilmek için koyu tonların kullanılması gibi. Kullanılan renklerin ton değerleri objelerin niteliklerine göre ayarlanmalıdır. Doğru cevap A'dır"
     },
     {
         "SoruID": 3858645,
@@ -398,6 +438,46 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Görüntünün ilk olarak kalıcı hâle getirilmesini başaran Joseph Nicéphore Niépce’dir. Doğru cevap C seçeneğinde verilmiştir."
+    },
+    {
+        "SoruID": 3858647,
+        "SoruMetni": "Camera lucida aşağıdaki kişilerden hangisi tarafından bulunmuştur?",
+        "A": "Joseph Nicéphore Niépce",
+        "B": "Thomas Wollaston",
+        "C": "Danielo Barbaro",
+        "D": "Carl Wilhelm Scheele",
+        "E": "Eadweard Muybridge",
+        "DogruCevap": "B",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:16.165081",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Camera lucida, 1806 yılında Thomas Wollaston tarafından bulunan ve ressamların manzara sahnesini hatasız bir şekilde resmetmesine yardımcı olan optik bir aygıttır. Doğru cevap B seçeneğidir."
+    },
+    {
+        "SoruID": 3858648,
+        "SoruMetni": "Bir saniyede 12 fotoğraf çeken fotoğraf tabancasıyla ilk sıralı çekimini yaparak uçan pelikan fotoğrafını çeken kişi aşağıdakilerden hangisidir?",
+        "A": "Etienne-Jules Marey",
+        "B": "Eadweard Muybridge",
+        "C": "Thomas Wollaston",
+        "D": "Joseph Nicéphore Niépce",
+        "E": "Thomas Wedgwood",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.901427",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fransız bilim insanı olan Etienne-Jules Marey, kuşların nasıl uçtuğunu öğrenme isteği ile bir saniyede 12 fotoğraf çeken fotoğraf tabancasıyla ilk sıralı çekimini yaparak uçan pelikan fotoğrafını çekmiştir. Doğru cevap A seçeneğidir."
     },
     {
         "SoruID": 3858649,
@@ -452,7 +532,7 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.109606",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.414329",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -617,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap E'dir. Kameranın büyüklüğü, kamera açısını belirleyen öğelerden biri değildir."
+        "Aciklama": "Doğru cevap E'dir. Kameranın büyüklüğü, kamera açısını belirleyen öğelerden biri değildir."
     },
     {
         "SoruID": 3858723,
@@ -637,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap D'dir. Kameranın gövdesinin sabit kalmak koşuluyla sağa-sola yapmış olduğu kamera hareketine yatay çevrinme adı verilir."
+        "Aciklama": "Doğru cevap D'dir. Kameranın gövdesinin sabit kalmak koşuluyla sağa-sola yapmış olduğu kamera hareketine yatay çevrinme adı verilir."
     },
     {
         "SoruID": 3858724,
@@ -692,7 +772,7 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.928352",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.417356",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -737,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntü bir kimse veya nesnenin, birtakım optik olayların etkisiyle meydana gelen görünüşüdür. Doğru yanıt B'dir."
+        "Aciklama": "Görüntü bir kimse veya nesnenin, birtakım optik olayların etkisiyle meydana gelen görünüşüdür. Doğru yanıt B'dir."
     },
     {
         "SoruID": 3858851,
@@ -757,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir görüntünün sabitlenmesi Joseph Nicéphore Niépce’nin, 1826 yılında, tarihteki ilk fotoğrafı çekmesiyle olmuştur. Doğru yanıt A'dır."
+        "Aciklama": "Bir görüntünün sabitlenmesi Joseph Nicéphore Niépce’nin, 1826 yılında, tarihteki ilk fotoğrafı çekmesiyle olmuştur. Doğru yanıt A'dır."
     },
     {
         "SoruID": 3858852,
@@ -777,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fransız bilim insanı olan Etienne-Jules Marey kuşların nasıl uçtuğunu öğrenme isteği ile bir saniyede 12 fotoğraf çeken fotoğraf tabancasıyla ilk sıralı çekimini yaparak uçan pelikan fotoğrafı çekmiştir. Doğru yanıt B'dir."
+        "Aciklama": "Fransız bilim insanı olan Etienne-Jules Marey kuşların nasıl uçtuğunu öğrenme isteği ile bir saniyede 12 fotoğraf çeken fotoğraf tabancasıyla ilk sıralı çekimini yaparak uçan pelikan fotoğrafı çekmiştir. Doğru yanıt B'dir."
     },
     {
         "SoruID": 3858853,
@@ -797,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üstten bakış açısı ile çekilmiş görüntü çekimlerinde, objeler gerçekte küçülmediği hâlde olduğundan küçük görünür. Böyle çekim açısının kullanılması seyircilerde ezilmişliği, küçük düşmeyi, yenilgi duygusunu uyandırması içindir. Doğru yanıt D'dir."
+        "Aciklama": "Üstten bakış açısı ile çekilmiş görüntü çekimlerinde, objeler gerçekte küçülmediği hâlde olduğundan küçük görünür. Böyle çekim açısının kullanılması seyircilerde ezilmişliği, küçük düşmeyi, yenilgi duygusunu uyandırması içindir. Doğru yanıt D'dir."
     },
     {
         "SoruID": 3858855,
@@ -817,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yatay çevrinme (pan), kameranın gövdesinin sabit kalmak koşuluyla sağa-sola yapmış olduğu harekettir. En çok yapılan kamera hareketidir. Pan hareketi nesnenin hareketinden geç kalmamalıdır. Doğal akışı bozmadığı için çok kullanılan kamera hareketidir. Doğru yanıt C'dir."
+        "Aciklama": "Yatay çevrinme (pan), kameranın gövdesinin sabit kalmak koşuluyla sağa-sola yapmış olduğu harekettir. En çok yapılan kamera hareketidir. Pan hareketi nesnenin hareketinden geç kalmamalıdır. Doğal akışı bozmadığı için çok kullanılan kamera hareketidir. Doğru yanıt C'dir."
     },
     {
         "SoruID": 3858859,
@@ -837,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Boy çekim, kişinin veya kişilerin bütün vücudu ile göründüğü çekim türüdür. Genel bilgi vermek, kişiyi tanıtmak için kullanılır. Doğru yanıt C'dir."
+        "Aciklama": "Boy çekim, kişinin veya kişilerin bütün vücudu ile göründüğü çekim türüdür. Genel bilgi vermek, kişiyi tanıtmak için kullanılır. Doğru yanıt C'dir."
     },
     {
         "SoruID": 3858860,
@@ -857,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntünün çerçevelenmesinde gelişigüzellik değil genel kabul gören kurallar söz konusudur. Bunlar; baş boşluğu, bakış boşluğu, hareket boşluğu ve altın orandır. Doğru yanıt E'dir."
+        "Aciklama": "Görüntünün çerçevelenmesinde gelişigüzellik değil genel kabul gören kurallar söz konusudur. Bunlar; baş boşluğu, bakış boşluğu, hareket boşluğu ve altın orandır. Doğru yanıt E'dir."
     },
     {
         "SoruID": 3858861,
@@ -877,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kâğıt üzerinde yapılan bu görsel düzenlemeye storyboard denir. Storyboard, çalışması yapılacak çekimlerle ilgili her türlü bilginin görselleştirilmiş hâlidir. Doğru yanıt D'dir."
+        "Aciklama": "Kâğıt üzerinde yapılan bu görsel düzenlemeye storyboard denir. Storyboard, çalışması yapılacak çekimlerle ilgili her türlü bilginin görselleştirilmiş hâlidir. Doğru yanıt D'dir."
     },
     {
         "SoruID": 3858862,
@@ -897,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zincirleme, en çok kullanılan ikinci geçiş türüdür. Bir kameradan diğerine geçilirken ilk kameranın görüntüsünün ağır ağır kaybolması, aynı anda diğer kameranın görüntüsünün ağır ağır belirmesi biçiminde bir geçiş yöntemidir. Doğru yanıt C'dir."
+        "Aciklama": "Zincirleme, en çok kullanılan ikinci geçiş türüdür. Bir kameradan diğerine geçilirken ilk kameranın görüntüsünün ağır ağır kaybolması, aynı anda diğer kameranın görüntüsünün ağır ağır belirmesi biçiminde bir geçiş yöntemidir. Doğru yanıt C'dir."
     },
     {
         "SoruID": 3858863,
@@ -917,11 +997,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kişiler ve nesnelerin kamera karşısında dağınık bir şekilde derinlemesine yerleştirilmesi derinlik hissini artırabilir. Doğru yanıt A'dır."
+        "Aciklama": "Kişiler ve nesnelerin kamera karşısında dağınık bir şekilde derinlemesine yerleştirilmesi derinlik hissini artırabilir. Doğru yanıt A'dır."
     },
     {
         "SoruID": 3858873,
-        "SoruMetni": "<img alt=\"\" height=\"144\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/92f81b933bb6400010a4cdeb68f27a90.png\" width=\"257\"/><br/> The Big Lebowski (1998) filminden alınan bu karede hangi çekim ölçeği kullanılmıştır?",
+        "SoruMetni": "<img alt=\"\" height=\"144\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/92f81b933bb6400010a4cdeb68f27a90.png\" width=\"257\"/><br/>The Big Lebowski (1998) filminden alınan bu karede hangi çekim ölçeği kullanılmıştır?",
         "A": "Ayrıntı çekim",
         "B": "Boy çekim",
         "C": "Omuz çekim",
@@ -937,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap \"göğüs çekim\", yani D şıkkıdır."
+        "Aciklama": "Görüntüde karakterin göğsünün tamamının baş boşluğu ile beraber görüntü çerçevesi içine dâhil edildiği görülmektedir. Bu tür çekim planı, göğüs çekim olarak adlandırılır.<br>Doğru cevap \"göğüs çekim\", yani D şıkkıdır."
     },
     {
         "SoruID": 3858874,
@@ -957,7 +1037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span>Doğru cevap Joseph Nicéphore Niépce, yani B şıkkıdır.</span>"
+        "Aciklama": "Görüntünün sabitlenmesi Joseph Nicéphore Niépce’nin, 1826 yılında, tarihteki ilk fotoğrafı (Pencereden Le Gras’a bakış) çekmesiyle olmuştur.<br><span>Doğru cevap Joseph Nicéphore Niépce, yani B şıkkıdır.</span>"
     },
     {
         "SoruID": 3858875,
@@ -977,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap D şıkkıdır."
+        "Aciklama": "Nesnel görüş açısında kamera hareketleri seyirci tarafından tamamen tarafsız olarak izlenir. Bu tür çalışmaya ‘seyircinin bakış açısı’ da denir. Olay, sahnedeki oyunculardan birinin bakış açısından verilmediği için nesnel kamera açıları kişiliksizdir. Böyle bir çalışmada, filmi çekilen kişiler ortada kamera yokmuş gibi davranırlar, hiçbir zaman objektife doğrudan bakmazlar.<br>Doğru cevap D şıkkıdır."
     },
     {
         "SoruID": 3858876,
@@ -997,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap E şıkkıdır."
+        "Aciklama": "“Zincirleme” en çok kullanılan ikinci geçiş türüdür. Bir kameradan diğerine geçilirken ilk kameranın görüntüsünün ağır ağır kaybolması, aynı anda diğer kameranın görüntüsünün ağır ağır belirmesi biçiminde bir geçiş yöntemidir.<br>Doğru cevap E şıkkıdır."
     },
     {
         "SoruID": 3858877,
@@ -1012,12 +1092,12 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.147191",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.415874",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap kurgu, C şıkkıdır."
+        "Aciklama": "Bir kamera açısından çekilmiş görüntüler, kendi başına bir sanat eseri meydana getiremez. Bu görüntü içindeki cisimler hareket etseler bile, sinema bakımından bu hareketin büyük bir değeri yoktur. Bu parçalar ancak özel bir anlayışla birleştirildikleri vakit sinemaya özgü kullanılışlar meydana çıkar. Belli bir sahnenin tespit edilen görüntüleri, film sanatının sadece malzemesini meydana getirir; asıl film sanatı, kurgu yoluyla, bu parçaların birleştirilmesine geçildiği vakit başlar.<br>Doğru cevap kurgu, C şıkkıdır."
     },
     {
         "SoruID": 3858878,
@@ -1037,7 +1117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap zoom, A şıkkıdır."
+        "Aciklama": "Kamera sabit haldeyken objektif aracılığıyla yapılan hareketlere zoom ya da optik kaydırma denir. Çekilen konunun sabit bir yerde durması ve kamera gövdesi ile hareket etmeye gerek kalmadan görüntü açısının büyümesi veya küçülmesinin mercekler yardımıyla sağlanmasıdır.<br>Doğru cevap zoom, A şıkkıdır."
     },
     {
         "SoruID": 3858879,
@@ -1057,7 +1137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap D şıkkıdır."
+        "Aciklama": "İlk hareketli görüntüyü, koşan bir atı 12 farklı açıdan çeken Eadweard Muybridge elde etmiştir. Bu sebeple, aradığımız cevap D şıkkıdır.<br>Doğru cevap D şıkkıdır."
     },
     {
         "SoruID": 3858880,
@@ -1077,7 +1157,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap altın oran, A şıkkıdır."
+        "Aciklama": "B ve E şıkları, görüntü elde etmek için kullanılan optik aygıtlardır. C şıkkı kurgu öncesi yapılan eskizlerdir. D şıkkı bir kamera açısıdır. Soruda bahsedilen kompozisyon tekniği, altın orandır. Doğru cevap A şıkkıdır.<br>Doğru cevap altın oran, A şıkkıdır."
+    },
+    {
+        "SoruID": 3858881,
+        "SoruMetni": "Mekânın nesneden daha çok yer kapladığı çekim türü aşağıdakilerden hangisidir?",
+        "A": "Ayrıntı çekim",
+        "B": "Genel çekim",
+        "C": "Diz çekim",
+        "D": "Boy çekim",
+        "E": "Baş çekim",
+        "DogruCevap": "B",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:16.122788",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Genel çekim, izleyene mekân hakkında bir fikir veren çekim türüdür. Genel çekim aynı zamanda mekân içindeki elemanlar arasında uzaklık farklılıklarını verme amaçlıdır. Genel çekimde mekân, nesneden daha çok alan kaplamaktadır. Doğru cevap B şıkkıdır.<br>Doğru cevap genel çekim, B şıkkıdır."
     },
     {
         "SoruID": 3858882,
@@ -1097,11 +1197,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap C şıkkıdır."
+        "Aciklama": "Thomas Wollanston tarafından bulunan aygıt camera obscura değil camera lucida’dır. Doğru cevap C şıkkıdır."
     },
     {
         "SoruID": 3859413,
-        "SoruMetni": "Aşağıdaki bilgilerden hangileri derinlemesine görüntüye ilişkin bilgilerdendir?<br/> <strong>I.</strong> Derinlemesine görüntü, cisimden çıkan ışınların aynada yansıdıktan sonra aynanın içinde değil de önünde oluşturduğu görüntüdür.<br/> <strong>II.</strong> Derinlemesine görüntü işlemi çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesidir. Bu da özel yapıdaki mercekler, diyaframın küçülmesi ve iyi bir aydınlatma ile mümkündür.<br/> <strong>III.</strong> Görüş alanını derinlemesine genişletir.<br/> <strong>IV.</strong> Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.<br/> <strong>V.</strong> Derinlemesine görüntüde çözümleme izleyiciye bırakılır.",
+        "SoruMetni": "Aşağıdaki bilgilerden hangileri derinlemesine görüntüye ilişkin bilgilerdendir?<br/><strong>I.</strong> Derinlemesine görüntü, cisimden çıkan ışınların aynada yansıdıktan sonra aynanın içinde değil de önünde oluşturduğu görüntüdür.<br/><strong>II.</strong> Derinlemesine görüntü işlemi çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesidir. Bu da özel yapıdaki mercekler, diyaframın küçülmesi ve iyi bir aydınlatma ile mümkündür.<br/><strong>III.</strong> Görüş alanını derinlemesine genişletir.<br/><strong>IV.</strong> Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.<br/><strong>V.</strong> Derinlemesine görüntüde çözümleme izleyiciye bırakılır.",
         "A": "I, II, III, IV, V",
         "B": "II, III, IV, V",
         "C": "III, IV, V",
@@ -1117,11 +1217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gerçek görüntü, cisimden çıkan ışınların aynada yansıdıktan sonra aynanın içinde değil de önünde oluşturduğu görüntüdür. Gerçek görüntüler cisme göre terstir ve bir ekran üzerine düşürülebilirler.<br/> Derinlemesine görüntü işlemi çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesidir. Bu da özel yapıdaki mercekler, diyaframın küçülmesi ve iyi bir aydınlatma ile mümkündür.<br/> Derinlemesine görüntünün sağladığı özellikleri belirtmek gerekirse:<br/> <ul> <li>Görüş alanını derinlemesine genişletir.</li> <li>Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.</li> <li>Derinlemesine görüntüde çözümleme izleyiciye bırakılır.</li> </ul>"
+        "Aciklama": "Gerçek görüntü, cisimden çıkan ışınların aynada yansıdıktan sonra aynanın içinde değil de önünde oluşturduğu görüntüdür. Gerçek görüntüler cisme göre terstir ve bir ekran üzerine düşürülebilirler.<br/>Derinlemesine görüntü işlemi çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesidir. Bu da özel yapıdaki mercekler, diyaframın küçülmesi ve iyi bir aydınlatma ile mümkündür.<br/>Derinlemesine görüntünün sağladığı özellikleri belirtmek gerekirse:<br/><ul> <li>Görüş alanını derinlemesine genişletir.</li> <li>Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.</li> <li>Derinlemesine görüntüde çözümleme izleyiciye bırakılır.</li> </ul>"
     },
     {
         "SoruID": 3859414,
-        "SoruMetni": "Aşağıdakilerden hangileri kameranın konumlandırılmasına göre yapılan çekimlerdendir?<br/> <strong>I.</strong> Uzak                 <strong>II.</strong> Genel                   <strong>III.</strong> Diz<br/> <strong>IV.</strong> Tepe                <strong>V.</strong> Bel                        <strong>VI.</strong> Omuz<br/> <strong>VII. </strong>Yüz            <strong>VIII.</strong> Ayrıntı                   <strong>IX.</strong> Duvar",
+        "SoruMetni": "Aşağıdakilerden hangileri kameranın konumlandırılmasına göre yapılan çekimlerdendir?<br/><strong>I.</strong> Uzak <strong>II.</strong> Genel <strong>III.</strong> Diz<br/><strong>IV.</strong> Tepe <strong>V.</strong> Bel <strong>VI.</strong> Omuz<br/><strong>VII. </strong>Yüz <strong>VIII.</strong> Ayrıntı <strong>IX.</strong> Duvar",
         "A": "I, II, III, IV, V, VI, VII, VIII, IX",
         "B": "III, IV, V, VI, VII, VIII, IX",
         "C": "I, II, III, V, VI, VII, VIII",
@@ -1177,7 +1277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üstten bakış: Kameranın konuyu görüntülemek için aşağıya doğru eğimlendirildiği bir çekimdir. Kamera yüksekte bir görüş noktasından aşağıya doğru eğilmiş olarak çalıştırıldığında üstten görüş açısı meydana gelir. Bir insanın önüne bakması, yüksek bir yerden aşağıya bakma durumlarında bu bakış açısı kullanılır. Üstten bakış kameranın yüksek bir yere konumlandırılacağı anlamı taşımaz. Tüm açılar görelidir. Çekimi yapılan konunun yüksekliğiyle bağlantılıdır. Çekimi yapılan konunun yüksekliği ne olursa olsun, her türden aşağı doğru açılandırma üstten bakış olarak nitelendirilmelidir. Üstten bakış açısı ile çekilmiş görüntü çekimlerinde, objeler gerçekte küçülmediği hâlde olduğundan küçük görünür. Böyle çekim açısının kullanılması seyircilerde ezilmişliği, küçük düşmeyi, yenilgi duygusunu uyandırması içindir.<br/> Alttan bakış: Kameranın çekim konusunu görüntülemek için yukarı doğru doğrultulduğu her türden çekimdir. Bunun dışında kameranın alt açıdan görüşü söz konusu olunca alt açıdan yapılmış çekimlerde de objeler gereğinden büyük görünürler. Burada çekilen, objenin, cismin özelliğine göre izleyicilerde güçlülük, heybetlik, ululuk duygusu uyandırmasıdır.<br/> Eğik bakış: Kamera kendi ekseninde sağa-sola eğildiği takdirde çekilen görüntüler dikey kenarlara göre sağa-sola eğik olarak görünür. Böyle bir görüntü oluşturma olumsuzluk duygusunu verebilmek için kullanılır. Baş aşağı çekimde ise temel amaç kameranın tamamıyla baş aşağı duruma getirilerek yapılan çekimdir. Burada çekilen, görüntünün birisinin gözüyle çekilmiş gibi sahnenin alışılmamış bir açıdan verilmesidir.<br/> Öznel görüş açısı: Kameranın merceğinin görüntüyü filmdeki kişilerden birinin gözüyle görüyormuş gibi kullanıldığı çekim biçimidir. Daha çok herhangi bir olayın belli bir kişinin gözüyle ortaya konmasında kullanılır. Bu çekimlerde oyunculardan birinin doğrudan doğruya kamera objektifine bakması da seyircinin ilgisini çekmesi bakımından etkilidir."
+        "Aciklama": "Üstten bakış: Kameranın konuyu görüntülemek için aşağıya doğru eğimlendirildiği bir çekimdir. Kamera yüksekte bir görüş noktasından aşağıya doğru eğilmiş olarak çalıştırıldığında üstten görüş açısı meydana gelir. Bir insanın önüne bakması, yüksek bir yerden aşağıya bakma durumlarında bu bakış açısı kullanılır. Üstten bakış kameranın yüksek bir yere konumlandırılacağı anlamı taşımaz. Tüm açılar görelidir. Çekimi yapılan konunun yüksekliğiyle bağlantılıdır. Çekimi yapılan konunun yüksekliği ne olursa olsun, her türden aşağı doğru açılandırma üstten bakış olarak nitelendirilmelidir. Üstten bakış açısı ile çekilmiş görüntü çekimlerinde, objeler gerçekte küçülmediği hâlde olduğundan küçük görünür. Böyle çekim açısının kullanılması seyircilerde ezilmişliği, küçük düşmeyi, yenilgi duygusunu uyandırması içindir.<br/>Alttan bakış: Kameranın çekim konusunu görüntülemek için yukarı doğru doğrultulduğu her türden çekimdir. Bunun dışında kameranın alt açıdan görüşü söz konusu olunca alt açıdan yapılmış çekimlerde de objeler gereğinden büyük görünürler. Burada çekilen, objenin, cismin özelliğine göre izleyicilerde güçlülük, heybetlik, ululuk duygusu uyandırmasıdır.<br/>Eğik bakış: Kamera kendi ekseninde sağa-sola eğildiği takdirde çekilen görüntüler dikey kenarlara göre sağa-sola eğik olarak görünür. Böyle bir görüntü oluşturma olumsuzluk duygusunu verebilmek için kullanılır. Baş aşağı çekimde ise temel amaç kameranın tamamıyla baş aşağı duruma getirilerek yapılan çekimdir. Burada çekilen, görüntünün birisinin gözüyle çekilmiş gibi sahnenin alışılmamış bir açıdan verilmesidir.<br/>Öznel görüş açısı: Kameranın merceğinin görüntüyü filmdeki kişilerden birinin gözüyle görüyormuş gibi kullanıldığı çekim biçimidir. Daha çok herhangi bir olayın belli bir kişinin gözüyle ortaya konmasında kullanılır. Bu çekimlerde oyunculardan birinin doğrudan doğruya kamera objektifine bakması da seyircinin ilgisini çekmesi bakımından etkilidir."
     },
     {
         "SoruID": 3859417,
@@ -1192,7 +1292,7 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.063776",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.385396",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1201,7 +1301,7 @@
     },
     {
         "SoruID": 3859418,
-        "SoruMetni": "“Kameranın gövdesinin sabit kalmak koşuluyla sağa-sola yapmış olduğu harekettir. En çok yapılan kamera hareketidir. Hareket nesnenin hareketinden geç kalmamalıdır. Doğal akışı bozmadığı için çok kullanılan kamera hareketidir.”<br/> Yukarıda anlatılan kamera hareketine ne ad verilir?",
+        "SoruMetni": "“Kameranın gövdesinin sabit kalmak koşuluyla sağa-sola yapmış olduğu harekettir. En çok yapılan kamera hareketidir. Hareket nesnenin hareketinden geç kalmamalıdır. Doğal akışı bozmadığı için çok kullanılan kamera hareketidir.”<br/>Yukarıda anlatılan kamera hareketine ne ad verilir?",
         "A": "Tilt",
         "B": "Kaydırma Hareketi",
         "C": "İleri-Geri Hareket",
@@ -1261,7 +1361,7 @@
     },
     {
         "SoruID": 3859421,
-        "SoruMetni": "Metinde boş bırakılan yerlere uygun terim seçeneklerden hangisidir?<br/> “Kompozisyonun temel unsurlarındandır. Çekim yapan kameramanın amacı görüntüde bir ……………………………….. oluşturabilmektir. Çekimi yapılan objeye göre baş, bakış, hareket boşlukları, kamera açıları vb.nin görüntüde ……………………………. oluşturabilmek için yapılması gerekir. Görüntünün ……………………………………..sını da nesnenin boyutu, rengi ve çevresi içindeki konumu ile diğer nesnelerle aralarındaki ilişki belirler.”",
+        "SoruMetni": "Metinde boş bırakılan yerlere uygun terim seçeneklerden hangisidir?<br/>“Kompozisyonun temel unsurlarındandır. Çekim yapan kameramanın amacı görüntüde bir ……………………………….. oluşturabilmektir. Çekimi yapılan objeye göre baş, bakış, hareket boşlukları, kamera açıları vb.nin görüntüde ……………………………. oluşturabilmek için yapılması gerekir. Görüntünün ……………………………………..sını da nesnenin boyutu, rengi ve çevresi içindeki konumu ile diğer nesnelerle aralarındaki ilişki belirler.”",
         "A": "Renk",
         "B": "Çizgi",
         "C": "Sadelik",
@@ -1281,7 +1381,7 @@
     },
     {
         "SoruID": 3859422,
-        "SoruMetni": "Görsel etkiyi arttırmak için kullanılacak unsurlar hangileridir?<br/> <strong>I.</strong> Renk                 <strong>II.</strong> Nokta               <strong>III.</strong> Çizgi<br/> <strong>IV.</strong> Sadelik            <strong>V.</strong> Denge                <strong>VI.</strong> Derinlik<br/> <strong>VII.</strong> Birlik         <strong>VIII.</strong> Ölçü                   <strong>IX.</strong> Ton",
+        "SoruMetni": "Görsel etkiyi arttırmak için kullanılacak unsurlar hangileridir?<br/><strong>I.</strong> Renk <strong>II.</strong> Nokta <strong>III.</strong> Çizgi<br/><strong>IV.</strong> Sadelik <strong>V.</strong> Denge <strong>VI.</strong> Derinlik<br/><strong>VII.</strong> Birlik <strong>VIII.</strong> Ölçü <strong>IX.</strong> Ton",
         "A": "I, II, III, IV, V, VI, VII, VIII, IX",
         "B": "I, II, III, IV, VIII, IX",
         "C": "I, II, III, IX",
@@ -1297,11 +1397,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel Etkiyi Artırma Yöntemleri<br/> Renkler: Görsel olarak renkler yaşantımızda önemli bir yere sahiptir ve renkleri ışığın cisimler üzerinden yansıması sonucu görürüz. Renk konusunu bilmek ve çekimi yapılacak nesne ile ilgili olarak görüntü çerçevesini ona göre düzenlemek gerekir. Renklerin gerçek değerleri dışında bizlerdeki psikolojik etkileri de önemlidir. Sıcak ve soğuk olarak sınıfladığımız renkleri bilmek ve çekimde ona göre kullanmak görsel etkiyi artırabilir. Görsel etki için yerine göre renkli filtreler, renkli ışıklar da kullanılabilir. Renklerin etkileri kültürlere göre de değişebilir.<br/> Çizgiler: Çizgiler insan üzerinde fiziki yapılarından doğan birtakım anlamlar ve duygular uyandırır. Bu, genel olarak geometrik biçimlerin dış dünyayla ilgili çağrışımlar yaratmasından kaynaklanır. Örneğin düz çizgiler durağanlık etkisi uyandırır. Tabiatta olduğu gibi, sakin bir havada her şey düz, yatay çizgi sistemine uygundur. Ama bir fırtına çıktığında doğadaki düz çizgiler bozularak yerine kırık, eğik çizgiler egemen olur; durgun denizin kırışıksız, yatay çizgisinin kırık, hareketli dalgalara dönüşmesi gibi. İnsanlar yatay çizgilerin dikey çizgilere oranla daha güçlü bir dinginlik duygusu yarattığını bilirler. Diagonal (çapraz, eğik) çizgiler ise dinamizm, resim derinliği ve hareket duygusu sağlar. Asimetrik düzenlemeler dengesizlik yaratır.<br/> Denge: Kompozisyonun temel unsurlarındandır. Çekim yapan kameramanın amacı görüntüde bir denge oluşturabilmektir. Çekimi yapılan objeye göre baş, bakış, hareket boşlukları, kamera açıları vb.nin görüntüde denge oluşturabilmek için yapılması gerekir. Görüntünün dengesini de nesnenin boyutu, rengi ve çevresi içindeki konum.<br/> Birlik: Kompozisyonda denge sağlanırken görüntüde yer alan çeşitli şey ve kişiler arasındaki ilişkilerin düzenlenmesinin gözetilmesi ve ardı ardına gelecek görüntüler arasında, denge yönünden de bir uyum sağlanması anlamına gelir. Örneğin iki kamerayla iki konuşmacının karşılıklı çekiminde, kameramanlar aynı ölçekte çekim yapmalı ve aynı oranda baş boşluğu bırakmalıdır.<br/> Ölçü: Çerçeve içinde yer alan bir konunun büyüklüğünü anlatan bir belirlemedir. Herhangi bir konunun gerçek ölçüsü belirtilmek isteniyorsa çerçeve içine ölçüleri herkes tarafından bilinen bir başka cisim de konmalı ve ona göre düzenleme yapılmalıdır.<br/> Ton: Görüntüde kullanılan resimlerin renk değerlerinin açıklık ve koyuluğunun ifadesidir. Ton, çekimin resimsel dengesini ve atmosferini doğrudan etkiler. Bir kompozisyonun duygusal yönü, egemen olan tonlarla yakından ilgilidir. Mesela görüntüde dinamikliği ve değişkenliği anlatabilmek için koyu tonların kullanılması gibi. Kullanılan renklerin ton değerleri objelerin niteliklerine göre ayarlanmalıdır.<br/> Derinlik: Hacim, derinlik konusu her zaman önemli olmuştur. Derinlik duygusu kamera açısı ve ışıkla sağlanabilir. Kamerada yan açı kullanımı ve kamera hareketleri, tepe ışığı, yan ışık ve anahtar ışık kullanılarak gölgeler oluşturulması, kişiler ve nesnelerin kamera karşısında dağınık bir şekilde derinlemesine yerleştirilmesi derinlik hissini artırabilir.<br/> Sadelik: Çerçevede mümkün olduğu kadar az elemanla konuyu anlatmak önemlidir. Ama konunun dışında anlatımı destekleyen ve çevreyi yansıtan ikinci derece elemanlardan sadece gerekli olanlar alınmalı, gereksiz unsurlar çerçeve dışında kalmalıdır."
+        "Aciklama": "Görsel Etkiyi Artırma Yöntemleri<br/>Renkler: Görsel olarak renkler yaşantımızda önemli bir yere sahiptir ve renkleri ışığın cisimler üzerinden yansıması sonucu görürüz. Renk konusunu bilmek ve çekimi yapılacak nesne ile ilgili olarak görüntü çerçevesini ona göre düzenlemek gerekir. Renklerin gerçek değerleri dışında bizlerdeki psikolojik etkileri de önemlidir. Sıcak ve soğuk olarak sınıfladığımız renkleri bilmek ve çekimde ona göre kullanmak görsel etkiyi artırabilir. Görsel etki için yerine göre renkli filtreler, renkli ışıklar da kullanılabilir. Renklerin etkileri kültürlere göre de değişebilir.<br/>Çizgiler: Çizgiler insan üzerinde fiziki yapılarından doğan birtakım anlamlar ve duygular uyandırır. Bu, genel olarak geometrik biçimlerin dış dünyayla ilgili çağrışımlar yaratmasından kaynaklanır. Örneğin düz çizgiler durağanlık etkisi uyandırır. Tabiatta olduğu gibi, sakin bir havada her şey düz, yatay çizgi sistemine uygundur. Ama bir fırtına çıktığında doğadaki düz çizgiler bozularak yerine kırık, eğik çizgiler egemen olur; durgun denizin kırışıksız, yatay çizgisinin kırık, hareketli dalgalara dönüşmesi gibi. İnsanlar yatay çizgilerin dikey çizgilere oranla daha güçlü bir dinginlik duygusu yarattığını bilirler. Diagonal (çapraz, eğik) çizgiler ise dinamizm, resim derinliği ve hareket duygusu sağlar. Asimetrik düzenlemeler dengesizlik yaratır.<br/>Denge: Kompozisyonun temel unsurlarındandır. Çekim yapan kameramanın amacı görüntüde bir denge oluşturabilmektir. Çekimi yapılan objeye göre baş, bakış, hareket boşlukları, kamera açıları vb.nin görüntüde denge oluşturabilmek için yapılması gerekir. Görüntünün dengesini de nesnenin boyutu, rengi ve çevresi içindeki konum.<br/>Birlik: Kompozisyonda denge sağlanırken görüntüde yer alan çeşitli şey ve kişiler arasındaki ilişkilerin düzenlenmesinin gözetilmesi ve ardı ardına gelecek görüntüler arasında, denge yönünden de bir uyum sağlanması anlamına gelir. Örneğin iki kamerayla iki konuşmacının karşılıklı çekiminde, kameramanlar aynı ölçekte çekim yapmalı ve aynı oranda baş boşluğu bırakmalıdır.<br/>Ölçü: Çerçeve içinde yer alan bir konunun büyüklüğünü anlatan bir belirlemedir. Herhangi bir konunun gerçek ölçüsü belirtilmek isteniyorsa çerçeve içine ölçüleri herkes tarafından bilinen bir başka cisim de konmalı ve ona göre düzenleme yapılmalıdır.<br/>Ton: Görüntüde kullanılan resimlerin renk değerlerinin açıklık ve koyuluğunun ifadesidir. Ton, çekimin resimsel dengesini ve atmosferini doğrudan etkiler. Bir kompozisyonun duygusal yönü, egemen olan tonlarla yakından ilgilidir. Mesela görüntüde dinamikliği ve değişkenliği anlatabilmek için koyu tonların kullanılması gibi. Kullanılan renklerin ton değerleri objelerin niteliklerine göre ayarlanmalıdır.<br/>Derinlik: Hacim, derinlik konusu her zaman önemli olmuştur. Derinlik duygusu kamera açısı ve ışıkla sağlanabilir. Kamerada yan açı kullanımı ve kamera hareketleri, tepe ışığı, yan ışık ve anahtar ışık kullanılarak gölgeler oluşturulması, kişiler ve nesnelerin kamera karşısında dağınık bir şekilde derinlemesine yerleştirilmesi derinlik hissini artırabilir.<br/>Sadelik: Çerçevede mümkün olduğu kadar az elemanla konuyu anlatmak önemlidir. Ama konunun dışında anlatımı destekleyen ve çevreyi yansıtan ikinci derece elemanlardan sadece gerekli olanlar alınmalı, gereksiz unsurlar çerçeve dışında kalmalıdır."
     },
     {
         "SoruID": 3859423,
-        "SoruMetni": "İtalyan ressamı Caravaggio’nun yağlı boya tablosu görüntü kavramıyla ilgili güzel bir çalışmadır.<br/> Bu çalışmanın adı nedir?",
+        "SoruMetni": "İtalyan ressamı Caravaggio’nun yağlı boya tablosu görüntü kavramıyla ilgili güzel bir çalışmadır.<br/>Bu çalışmanın adı nedir?",
         "A": "Ekho",
         "B": "Peri kızı",
         "C": "Narcissus",
@@ -1321,7 +1421,7 @@
     },
     {
         "SoruID": 3859424,
-        "SoruMetni": "‘’Bir kimse veya nesnenin, birtakım optik olayların etkisiyle meydana gelen görünüşüdür. Gerçekte bulunmadığı hâlde varmış gibi görünen şeydir.’’<br/> Aşağıdakilerden hangisi bu tanımı karşılar?",
+        "SoruMetni": "‘’Bir kimse veya nesnenin, birtakım optik olayların etkisiyle meydana gelen görünüşüdür. Gerçekte bulunmadığı hâlde varmış gibi görünen şeydir.’’<br/>Aşağıdakilerden hangisi bu tanımı karşılar?",
         "A": "Görme",
         "B": "Görünürlük",
         "C": "Algılama",
@@ -1337,7 +1437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntü bir kimse veya nesnenin, birtakım optik olayların etkisiyle meydana gelen görünüşüdür. Gerçekte bulunmadığı hâlde varmış gibi görünen şeydir"
+        "Aciklama": "Görüntü bir kimse veya nesnenin, birtakım optik olayların etkisiyle meydana gelen görünüşüdür. Gerçekte bulunmadığı hâlde varmış gibi görünen şeydir"
     },
     {
         "SoruID": 3859425,
@@ -1357,7 +1457,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uzak çekim,Genel çekim,Boy çekim,Omuz çekim,Diz çekim,Göğüs çekim,Bel çekim,Baş çekim,Yüz çekim,Ayrıntı çekim"
+        "Aciklama": "Ayrıntı çekim:Objenin bir kısmının görüntü çerçevesini doldurmasıdır (Resim 7.20).<br/>Kameranın çekim için bu kadar farklı konumlandırılmış olmasının nedeni, görüntü aynı olsa bile görüntü üzerinde bakış açısından dolayı farklılıkların olabileceğidir. Fransız empresyonist ressam Claude Monet de, Rouen Katedrali’nin resmini yapmıştır. Son derece ihtişamlı bir mimariye sahip olan Rouen Katedrali’nin,ışığın bir yapıyı nasıl değiştirdiğini gözlemleyebilmek adına otuzdan fazla resmini yapmıştır (Resim 7.21).<br/>1892 yılında farklı mevsimlerde ve günün farklı saatlerinde katedralin görüntüsünü resmetmiştir.<br>Uzak çekim,Genel çekim,Boy çekim,Omuz çekim,Diz çekim,Göğüs çekim,Bel çekim,Baş çekim,Yüz çekim,Ayrıntı çekim"
+    },
+    {
+        "SoruID": 3859426,
+        "SoruMetni": "Görüntünün sabitlenmesi Joseph Nicéphore Niépce’nin, 1826 yılında, tarihteki ilk fotoğrafı çekmesiyle olmuştur.<br/>Bu fotoğrafın adı nedir?",
+        "A": "Pencereden Le Gras’a bakış",
+        "B": "Kır manzarası",
+        "C": "Gün batışı",
+        "D": "Gün doğumu",
+        "E": "Buğday tarlası görünümü",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:16:23.392337",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Bu görüntünün sabitlenmesi Joseph Nicéphore Niépce’nin, 1826 yılında, tarihteki ilk fotoğrafı (Pencereden Le Gras’a bakış) çekmesiyle olmuştur."
     },
     {
         "SoruID": 3859427,
@@ -1397,7 +1517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üstten bakış, Alttan bakış, Eğik bakış, Öznel görüş açısı, Nesnel görüş açısı"
+        "Aciklama": "Üstten bakış, Alttan bakış, Eğik bakış, Öznel görüş açısı, Nesnel görüş açısı"
     },
     {
         "SoruID": 3859429,
@@ -1417,7 +1537,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yatay çevrinme(pan), Yukarı-Aşağı çevrinme (tilt), Kaydırma hareketi, Optik kaydırma,"
+        "Aciklama": "Yatay çevrinme(pan), Yukarı-Aşağı çevrinme (tilt), Kaydırma hareketi, Optik kaydırma,"
+    },
+    {
+        "SoruID": 3859430,
+        "SoruMetni": "Aşağıdakilerden hangisi Çerçeveleme Kurallarından biridir?",
+        "A": "Netleme ayarlama",
+        "B": "Estantane ayarlama",
+        "C": "Diyafram ayarlama",
+        "D": "Hareket boşluğu ayarlama",
+        "E": "Flaş ayarlama",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.974685",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Baş boşluğu, Bakış boşluğu, Hareket boşluğu, Altın oran,"
     },
     {
         "SoruID": 3859431,
@@ -1437,11 +1577,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kesintisizlik kurgusu, Zincirleme, Bindirme, Silinme"
+        "Aciklama": "Kesintisizlik kurgusu, Zincirleme, Bindirme, Silinme"
+    },
+    {
+        "SoruID": 3859432,
+        "SoruMetni": "Aşağıdakilerden hangisi görsel etkiyi arttırma Yöntemlerinden birinin adı <strong>değildir?</strong>",
+        "A": "Renkler",
+        "B": "Çizgiler",
+        "C": "Eskiz",
+        "D": "Ton",
+        "E": "Birlik",
+        "DogruCevap": "C",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:16.138444",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Renkler, Çizgiler, Denge, Birlik, Ölçü, Ton, Derinlik, Sadelik"
     },
     {
         "SoruID": 3859433,
-        "SoruMetni": "Bir planın ardından hemen ikinci planı getirerek yapılan görüntü geçiş türü aşağıdakilerden hangisidir?",
+        "SoruMetni": "Bir planın ardından hemen ikinci planı getirerek yapılan görüntü geçiş türü aşağıdakilerden hangisidir?",
         "A": "Açılma",
         "B": "Kesme",
         "C": "Zincirleme",
@@ -1460,24 +1620,24 @@
         "Aciklama": "Kesme"
     },
     {
-        "SoruID": 3859435,
-        "SoruMetni": "Sinemanın bu en büyük anlatım özelliğini olan kurguyu sistemli olarak kullanan ilk yönetmen kimdir?",
-        "A": "Thomas Wedgwood",
-        "B": "Joseph Nicéphore Niépce",
-        "C": "Stephen Henry Horgan",
-        "D": "David Wark Griffith",
-        "E": "Gustav Deutsch",
-        "DogruCevap": "D",
+        "SoruID": 3859434,
+        "SoruMetni": "Bir kameradan diğerine geçilirken ilk kameranın görüntüsünün ağır ağır kaybolması, aynı anda diğer kameranın görüntüsünün ağır ağır belirmesi biçimindeki geçiş yöntemi aşağıdakilerden hangisidir?",
+        "A": "Zincirleme",
+        "B": "Bindirme",
+        "C": "Silinme",
+        "D": "Açılma",
+        "E": "Kararma",
+        "DogruCevap": "A",
         "DersAd": "Görsel Estetik",
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.160549",
+        "OlusturmaTarihi": "2025-12-01T04:09:16.029095",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "David Wark Griffith"
+        "Aciklama": "Zincirleme"
     },
     {
         "SoruID": 3859436,
@@ -1561,7 +1721,7 @@
     },
     {
         "SoruID": 3859440,
-        "SoruMetni": "I. Görüş alanını derinlemesine genişletir.<br/>II. Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.<br/>III. Derinlemesine görüntüde çözümleme izleyiciye bırakılır.<br/> Yukarıdakilerden hangisi-hangileri derinlemesine görüntünün sağladığı özelliklerdendir?",
+        "SoruMetni": "I. Görüş alanını derinlemesine genişletir.<br/>II. Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.<br/>III. Derinlemesine görüntüde çözümleme izleyiciye bırakılır.<br/>Yukarıdakilerden hangisi-hangileri derinlemesine görüntünün sağladığı özelliklerdendir?",
         "A": "Yalnız I.",
         "B": "Yalnız II.",
         "C": "I. ve II.",
@@ -1577,11 +1737,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Derinlemesine görüntünün sağladığı özellikleri<br/>belirtmek gerekirse:<br/>• Görüş alanını derinlemesine genişletir.<br/>• Derinlemesine görüntü, izleyiciyi daha aktif<br/>olmaya zorlar.<br/>• Derinlemesine görüntüde çözümleme izleyiciye<br/>bırakılır.<br/> Doğru cevap \"e\"dir."
+        "Aciklama": "Derinlemesine görüntünün sağladığı özellikleri<br/>belirtmek gerekirse:<br/>• Görüş alanını derinlemesine genişletir.<br/>• Derinlemesine görüntü, izleyiciyi daha aktif<br/>olmaya zorlar.<br/>• Derinlemesine görüntüde çözümleme izleyiciye<br/>bırakılır.<br/>Doğru cevap \"e\"dir."
     },
     {
         "SoruID": 3859441,
-        "SoruMetni": "Birden fazla kamera kullanarak yaptığı hareket çekimleriyle bilinen, 1878 yılında koşan bir atı 12 ayrı açıdan çekerek sinemanın ilk hâlini bulan kişi olarak<br/>bilinen İngiliz fotoğrafçı aşağıdakilerden hangisidir?",
+        "SoruMetni": "Birden fazla kamera kullanarak yaptığı hareket çekimleriyle bilinen, 1878 yılında koşan bir atı 12 ayrı açıdan çekerek sinemanın ilk hâlini bulan kişi olarak<br/>bilinen İngiliz fotoğrafçı aşağıdakilerden hangisidir?",
         "A": "Joseph Nicéphore Niépce",
         "B": "Carl Wilhelm Scheele",
         "C": "Etienne-Jules Marey",
@@ -1597,7 +1757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eadweard Muybridge birden fazla kamera kullanarak yaptığı hareket<br/>çekimleriyle bilinen İngiliz fotoğrafçıdır. 1878 yılında koşan bir atı, 12 ayrı açıdan çekmiştir ve sinemanın ilk hâlini bulan kişi olarak<br/>bilinir. Fotoğraf makinelerinden oluşan bir düzenek kurarak 1/1000 enstantane<br/>hızıyla koşan at görüntüsünü elde etmiştir.<br/> Doğru cevap \"d\"dir."
+        "Aciklama": "Eadweard Muybridge birden fazla kamera kullanarak yaptığı hareket<br/>çekimleriyle bilinen İngiliz fotoğrafçıdır. 1878 yılında koşan bir atı, 12 ayrı açıdan çekmiştir ve sinemanın ilk hâlini bulan kişi olarak<br/>bilinir. Fotoğraf makinelerinden oluşan bir düzenek kurarak 1/1000 enstantane<br/>hızıyla koşan at görüntüsünü elde etmiştir.<br/>Doğru cevap \"d\"dir."
     },
     {
         "SoruID": 3859442,
@@ -1661,7 +1821,7 @@
     },
     {
         "SoruID": 3859445,
-        "SoruMetni": "En çok kullanılan ikinci geçiş türüdür. Bir kameradan diğerine geçilirken ilk kameranın görüntüsünün ağır ağır kaybolması, aynı anda diğer kameranın görüntüsünün ağır ağır belirmesi biçiminde bir geçiş yöntemidir.<br/> Yukarıda anlatılan kurgulama tipi aşağıdakilerden hangisdir?",
+        "SoruMetni": "En çok kullanılan ikinci geçiş türüdür. Bir kameradan diğerine geçilirken ilk kameranın görüntüsünün ağır ağır kaybolması, aynı anda diğer kameranın görüntüsünün ağır ağır belirmesi biçiminde bir geçiş yöntemidir.<br/>Yukarıda anlatılan kurgulama tipi aşağıdakilerden hangisdir?",
         "A": "Derleme",
         "B": "Kesme",
         "C": "Zincirleme",
@@ -1672,7 +1832,7 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.025706",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.405571",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1681,7 +1841,7 @@
     },
     {
         "SoruID": 3859446,
-        "SoruMetni": "Kompozisyonda denge sağlanırken görüntüde yer alan çeşitli şey ve kişiler arasındaki ilişkilerin düzenlenmesinin gözetilmesi ve ardı ardına gelecek görüntüler arasında, denge yönünden de bir uyum sağlanması anlamına gelir. Örneğin iki kamerayla iki konuşmacının karşılıklı çekiminde, kameramanlar aynı ölçekte çekim yapmalı ve aynı oranda baş boşluğu bırakmalıdır.<br/> Yukarıda anlatılan görsel etkiyi artırma yöntemi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Kompozisyonda denge sağlanırken görüntüde yer alan çeşitli şey ve kişiler arasındaki ilişkilerin düzenlenmesinin gözetilmesi ve ardı ardına gelecek görüntüler arasında, denge yönünden de bir uyum sağlanması anlamına gelir. Örneğin iki kamerayla iki konuşmacının karşılıklı çekiminde, kameramanlar aynı ölçekte çekim yapmalı ve aynı oranda baş boşluğu bırakmalıdır.<br/>Yukarıda anlatılan görsel etkiyi artırma yöntemi aşağıdakilerden hangisidir?",
         "A": "Derinlik",
         "B": "Sadelik",
         "C": "Ölçü",
@@ -1701,7 +1861,7 @@
     },
     {
         "SoruID": 3859447,
-        "SoruMetni": "Sanat ortamında kullanılan bir kompozisyon yöntemidir. Fotoğraftaki kullanımında yapılması gereken, kadrajı 9 eşit dikdörtgene bölerek ilgi noktasını ortada yer alan dört kesişim noktasından birine yakın yerleştirmektir. 1/3 kuralı olarak bilinen bu prensip düzgün görüntüler oluşturulmasını mümkün kılar. Genel itibariyle bu kurala uygun kadrajlar göze çok daha iyi görünür.<br/> Yukarıda anlatılan kompozisyon yöntemi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Sanat ortamında kullanılan bir kompozisyon yöntemidir. Fotoğraftaki kullanımında yapılması gereken, kadrajı 9 eşit dikdörtgene bölerek ilgi noktasını ortada yer alan dört kesişim noktasından birine yakın yerleştirmektir. 1/3 kuralı olarak bilinen bu prensip düzgün görüntüler oluşturulmasını mümkün kılar. Genel itibariyle bu kurala uygun kadrajlar göze çok daha iyi görünür.<br/>Yukarıda anlatılan kompozisyon yöntemi aşağıdakilerden hangisidir?",
         "A": "Perspektif",
         "B": "Hareket boşluğu",
         "C": "Baş boşluğu",
@@ -1741,7 +1901,7 @@
     },
     {
         "SoruID": 3859449,
-        "SoruMetni": "Aşağıdakilerden hangisi kamera açısını belirleyen ögelerden biridir?",
+        "SoruMetni": "Aşağıdakilerden hangisi kamera açısını belirleyen ögelerden biridir?",
         "A": "Optik kaydırma",
         "B": "Konu açısı",
         "C": "Kaydırma hareketi",
@@ -1772,7 +1932,7 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.150884",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.400116",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1781,7 +1941,7 @@
     },
     {
         "SoruID": 3859451,
-        "SoruMetni": "Fiziki yapılarından dolayı insan üzerinde birtakım anlamlar ve duygular uyandırarak görsel etkiyi artırmaya yarayan yöntem aşağıdakilerden hangisidir?",
+        "SoruMetni": "Fiziki yapılarından dolayı insan üzerinde birtakım anlamlar ve duygular uyandırarak görsel etkiyi artırmaya yarayan yöntem aşağıdakilerden hangisidir?",
         "A": "Renkler",
         "B": "Denge",
         "C": "Sadelik",
@@ -1792,7 +1952,7 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.940926",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.386858",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1840,6 +2000,26 @@
         "Aciklama": "Bir kimse veya nesnenin, birtakım optik olayların etkisiyle meydana gelen görünüşüne \"görüntü\" denir."
     },
     {
+        "SoruID": 3859454,
+        "SoruMetni": "I. Görüş alanını derinlemesine genişletir<br/>II. Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar<br/>III. Derinlemesine görüntüde çözümleme izleyiciye bırakılır<br/>Yukarıdakilerden hangisi derinlemesine görüntünün sağladığı özelliklerdendir?",
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "Yalnız III.",
+        "D": "II. ve III.",
+        "E": "Hepsi",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:16.082492",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Derinlemesine görüntünün sağladığı özellikleri belirtmek gerekirse:<br/>• Görüş alanını derinlemesine genişletir.<br/>• Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.<br/>• Derinlemesine görüntüde çözümleme izleyiciye bırakılır"
+    },
+    {
         "SoruID": 3859455,
         "SoruMetni": "Görüntünün ilk olarak kalıcı hâle getirilmesini başaran kişi kimdir?",
         "A": "Joseph Nicéphore Niépce",
@@ -1872,7 +2052,7 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.942390",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.394113",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1898,6 +2078,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Kamera Açısı Tipleri; üstten bakış, alttan bakış, eğik bakış, öznel görüş açısı, nesnel görüş açısı olmak üzere beş başlıkta incelenmektedir."
+    },
+    {
+        "SoruID": 3859458,
+        "SoruMetni": "Kameranın merceğinin görüntüyü filmdeki kişilerden birinin gözüyle görüyormuş gibi kullanıldığı çekim biçimine ne ad verilir?",
+        "A": "Eğik bakış",
+        "B": "Üstten bakış",
+        "C": "Alttan bakış",
+        "D": "Öznel görüş açısı",
+        "E": "Nesnel görüş açısı",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.979409",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Öznel görüş açısı: Kameranın merceğinin görüntüyü filmdeki kişilerden birinin gözüyle görüyormuş gibi kullanıldığı çekim biçimidir. Daha çok herhangi bir olayın belli bir kişinin gözüyle ortaya konmasında kullanılır. Bu çekimlerde oyunculardan birinin doğrudan doğruya kamera objektifine bakması da seyircinin ilgisini çekmesi bakımından etkilidir."
     },
     {
         "SoruID": 3859459,
@@ -1943,7 +2143,7 @@
         "SoruID": 3859461,
         "SoruMetni": "Aşağıdaki seçeneklerde görüntü ile ilgili verilen bilgilerden hangisi doğrudur?",
         "A": "Çevremize baktığımız zaman her şeyi parçalar halinde görürüz.",
-        "B": "Etrafımıza baktığımızda gördüğümüz şeyler bizde ilk anda etki uyandırır.",
+        "B": "Etrafımıza baktığımızda gördüğümüz şeyler bizde ilk anda etki uyandırır.",
         "C": "Gözle algılamaya görüntü denir.",
         "D": "Gerçek görüntü cisme göre düzdür.",
         "E": "Gerçekte bulunmadığı hâlde varmış gibi görünen şey görüntü olarak tanımlanmaktadır.",
@@ -1957,7 +2157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görme, Gözle algılama, görmek eylemi, ışığı, renkleri, nesne görüntülerini algılama yetisidir. Görüntü ise bir kimse veya nesnenin, birtakım optik olayların etkisiyle meydana gelen görünüşüdür. Gerçekte bulunmadığı hâlde varmış gibi görünen şeydir. Doğru yanıt E seçeneğidir."
+        "Aciklama": "GÖRÜNTÜ başlıklı bölümden alınmıştır.<br>Görme, Gözle algılama, görmek eylemi, ışığı, renkleri, nesne görüntülerini algılama yetisidir. Görüntü ise bir kimse veya nesnenin, birtakım optik olayların etkisiyle meydana gelen görünüşüdür. Gerçekte bulunmadığı hâlde varmış gibi görünen şeydir. Doğru yanıt E seçeneğidir."
     },
     {
         "SoruID": 3859462,
@@ -2017,7 +2217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Derinlemesine görüntü işlemi çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesidir. Sinemanın ilk zamanlarında sonsuza odaklanmış bir mercekle yapılan bu işlemin, II. Dünya Savaşı’ndan bugüne önemli bir hâle geldiği söylenebilir. Nedeni de film görüntüsünde üç boyutluluk algısını en iyi verebilen işlemin derinlemesine görüntü oluşudur. Doğru yanıt A seçeneğidir."
+        "Aciklama": "GÖRÜNTÜ başlıklı bölümden alınmıştır.<br>Derinlemesine görüntü işlemi çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesidir. Sinemanın ilk zamanlarında sonsuza odaklanmış bir mercekle yapılan bu işlemin, II. Dünya Savaşı’ndan bugüne önemli bir hâle geldiği söylenebilir. Nedeni de film görüntüsünde üç boyutluluk algısını en iyi verebilen işlemin derinlemesine görüntü oluşudur. Doğru yanıt A seçeneğidir."
     },
     {
         "SoruID": 3859465,
@@ -2037,7 +2237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntü oluşumu ile ilgili temel değer ışık ve ışığa duyarlı maddedir. Carl Wilhelm Scheele, kimyager Elizabeth Fulhame, Thomas Wedgwood’un fotoğraf fikrine yaklaşarak görüntüler oluşturdukları ama kalıcılığı sağlayamadıkları belirtilir. Görüntünün ilk olarak kalıcı hâle getirilmesini başaran Joseph Nicéphore Niépce’dir. Doğru yanıt B seçeneğidir."
+        "Aciklama": "İLK GÖRÜNTÜLER başlıklı bölümden alınmıştır.<br>Görüntü oluşumu ile ilgili temel değer ışık ve ışığa duyarlı maddedir. Carl Wilhelm Scheele, kimyager Elizabeth Fulhame, Thomas Wedgwood’un fotoğraf fikrine yaklaşarak görüntüler oluşturdukları ama kalıcılığı sağlayamadıkları belirtilir. Görüntünün ilk olarak kalıcı hâle getirilmesini başaran Joseph Nicéphore Niépce’dir. Doğru yanıt B seçeneğidir."
     },
     {
         "SoruID": 3859466,
@@ -2057,7 +2257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Camera obscura karanlık oda çevresindeki görüntüleri ekrana yansıtan optik bir alettir. Çizim amacıyla kullanılır. Ayrıca fotoğraf ve kameranın icadına yol açan buluşlardan da biridir. Camera obscura, bir kutu veya oda ve onun bir yüzüne açılmış delikten ibarettir. Dışarıdan gelen ışık delikten geçerek içerisindeki yüzeye düşer ve yansıdığı kaynağın perspektifini ve renklerini koruyarak ters dönmüş (180 derece, baş aşağı) görüntüsünü oluşturur. Resmin bir kâğıt üzerine düşürülerek net çizimler elde edilmesini sağlar. Doğru yanıt D seçeneğidir."
+        "Aciklama": "İLK GÖRÜNTÜLER başlıklı bölümden alınmıştır.<br>Camera obscura karanlık oda çevresindeki görüntüleri ekrana yansıtan optik bir alettir. Çizim amacıyla kullanılır. Ayrıca fotoğraf ve kameranın icadına yol açan buluşlardan da biridir. Camera obscura, bir kutu veya oda ve onun bir yüzüne açılmış delikten ibarettir. Dışarıdan gelen ışık delikten geçerek içerisindeki yüzeye düşer ve yansıdığı kaynağın perspektifini ve renklerini koruyarak ters dönmüş (180 derece, baş aşağı) görüntüsünü oluşturur. Resmin bir kâğıt üzerine düşürülerek net çizimler elde edilmesini sağlar. Doğru yanıt D seçeneğidir."
     },
     {
         "SoruID": 3859467,
@@ -2077,7 +2277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntünün ilk olarak kalıcı hâle getirilmesini başaran Joseph Nicéphore Niépce’dir. Bu görüntünün sabitlenmesi Joseph Nicéphore Niépce’nin, 1826 yılında, tarihteki ilk fotoğrafı (Pencereden Le Gras’a bakış) çekmesiyle olmuştur. Joseph Nicéphore Niépce, camera obscura kullanarak görüntüyü oluşturmuştur. Doğru yanıt B seçeneğidir."
+        "Aciklama": "İLK GÖRÜNTÜLER başlıklı bölümden alınmıştır.<br>Görüntünün ilk olarak kalıcı hâle getirilmesini başaran Joseph Nicéphore Niépce’dir. Bu görüntünün sabitlenmesi Joseph Nicéphore Niépce’nin, 1826 yılında, tarihteki ilk fotoğrafı (Pencereden Le Gras’a bakış) çekmesiyle olmuştur. Joseph Nicéphore Niépce, camera obscura kullanarak görüntüyü oluşturmuştur. Doğru yanıt B seçeneğidir."
     },
     {
         "SoruID": 3859468,
@@ -2097,7 +2297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Alttan bakış: Kameranın çekim konusunu görüntülemek için yukarı doğru doğrultulduğu her türden çekimdir. Bunun dışında kameranın alt açıdan görüşü söz konusu olunca alt açıdan yapılmış çekimlerde de objeler gereğinden büyük görünürler. Burada çekilen, objenin, cismin özelliğine göre izleyicilerde güçlülük, heybetlik, ululuk duygusu uyandırmasıdır. Doğru yanıt B seçeneğidir."
+        "Aciklama": "KAMERA VE GÖRÜNTÜ başlıklı bölümden alınmıştır.<br>Alttan bakış: Kameranın çekim konusunu görüntülemek için yukarı doğru doğrultulduğu her türden çekimdir. Bunun dışında kameranın alt açıdan görüşü söz konusu olunca alt açıdan yapılmış çekimlerde de objeler gereğinden büyük görünürler. Burada çekilen, objenin, cismin özelliğine göre izleyicilerde güçlülük, heybetlik, ululuk duygusu uyandırmasıdır. Doğru yanıt B seçeneğidir."
     },
     {
         "SoruID": 3859469,
@@ -2117,7 +2317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kaydırma hareketi: Kamera gövdesi hareket ettirilerek yapılan mekanik harekettir. Yapılan kamera hareketi, kameranın herhangi bir araç üzerinde ileri-geri kaydırılmasıdır. Çevrinmede kamera olduğu yerde durur; kaydırmada ise yapılan hareket kameranın gövdesiyle hareket etmesidir. Doğru yanıt E seçeneğidir."
+        "Aciklama": "KAMERA VE GÖRÜNTÜ başlıklı bölümden alınmıştır.<br>Kaydırma hareketi: Kamera gövdesi hareket ettirilerek yapılan mekanik harekettir. Yapılan kamera hareketi, kameranın herhangi bir araç üzerinde ileri-geri kaydırılmasıdır. Çevrinmede kamera olduğu yerde durur; kaydırmada ise yapılan hareket kameranın gövdesiyle hareket etmesidir. Doğru yanıt E seçeneğidir."
     },
     {
         "SoruID": 3859470,
@@ -2137,7 +2337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Genel çekim: İzleyene mekân hakkında bir fikir veren çekim türüdür. Genel çekim aynı zamanda mekân içindeki elemanlar arasında uzaklık farklılıklarını verme amaçlıdır. Genel çekimde mekân, nesneden daha çok alan kaplamaktadır. Doğru yanıt C seçeneğidir."
+        "Aciklama": "ÇEKİM ÖLÇEKLERİ başlıklı bölümden alınmıştır.<br>Genel çekim: İzleyene mekân hakkında bir fikir veren çekim türüdür. Genel çekim aynı zamanda mekân içindeki elemanlar arasında uzaklık farklılıklarını verme amaçlıdır. Genel çekimde mekân, nesneden daha çok alan kaplamaktadır. Doğru yanıt C seçeneğidir."
     },
     {
         "SoruID": 3859471,
@@ -2157,7 +2357,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntünün tek bir kare olması ve fotoğrafik bir görüntüden öteye gitmeyeceği bir gerçektir. Önemli olan görüntünün sinema filmi özelliği bulabilmesi için art arda olması gerekliliğidir. Bu şekilde görüntü oluşturulması ile ilgili olarak görüntüler için farklı kurgulamalar söz konusudur. Bunlardan ilk olanı ve her zaman yapılmasının önemli olduğu vurgulanan, çekim öncesi konu ile ilgili olan görsel düzenlemelerdir. Kâğıt üzerinde yapılan bu görsel düzenlemeye storyboard denir. Doğru yanıt A seçeneğidir."
+        "Aciklama": "GÖRÜNTÜNÜN KURGULANMASI başlıklı bölümden alınmıştır.<br>Görüntünün tek bir kare olması ve fotoğrafik bir görüntüden öteye gitmeyeceği bir gerçektir. Önemli olan görüntünün sinema filmi özelliği bulabilmesi için art arda olması gerekliliğidir. Bu şekilde görüntü oluşturulması ile ilgili olarak görüntüler için farklı kurgulamalar söz konusudur. Bunlardan ilk olanı ve her zaman yapılmasının önemli olduğu vurgulanan, çekim öncesi konu ile ilgili olan görsel düzenlemelerdir. Kâğıt üzerinde yapılan bu görsel düzenlemeye storyboard denir. Doğru yanıt A seçeneğidir."
+    },
+    {
+        "SoruID": 3859472,
+        "SoruMetni": "Görüntülenen nesnenin boyutu, rengi ve çevresi içindeki konumu ile diğer nesnelerle aralarındaki ilişkiyi belirleyen temel unsur aşağıdakilerden hangisidir?",
+        "A": "Kompozisyon",
+        "B": "Ölçü",
+        "C": "Derinlik",
+        "D": "Birlik",
+        "E": "Denge",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.946316",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "GÖRÜNTÜLEME VE ESTETİK KAYGI başlıklı bölümden alınmıştır.<br>Denge, kompozisyonun temel unsurlarındandır. Çekim yapan kameramanın amacı görüntüde bir denge oluşturabilmektir. Çekimi yapılan objeye göre baş, bakış, hareket boşlukları, kamera açıları vb.nin görüntüde denge oluşturabilmek için yapılması gerekir. Görüntünün dengesini de nesnenin boyutu, rengi ve çevresi içindeki konumu ile diğer nesnelerle aralarındaki ilişki belirler. Doğru yanıt E seçeneğidir."
     },
     {
         "SoruID": 3859473,
@@ -2172,32 +2392,12 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.032020",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.408444",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Derinlemesine görüntü işlemi çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesidir. Bu da özel yapıdaki mercekler, diyaframın küçülmesi ve iyi bir aydınlatma ile mümkündür. Buna göre Cevap C’dir."
-    },
-    {
-        "SoruID": 3859474,
-        "SoruMetni": "Kameraman tarafından görüntünün, görüntü çerçevesi içinde kalıcı hâle getirilmesi işlemine ne ad verilir?",
-        "A": "Derinlemesine görüntü",
-        "B": "Çekim",
-        "C": "Netlik",
-        "D": "Görüntü",
-        "E": "Gerçek görüntü",
-        "DogruCevap": "B",
-        "DersAd": "Görsel Estetik",
-        "Unite": 7,
-        "Somestre": "1",
-        "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.070179",
-        "GelYer": 0,
-        "DersId": 0,
-        "OBSDersId": 0,
-        "CevapSira": null,
-        "Aciklama": "Çekim, kameraman tarafından görüntünün, görüntü çerçevesi içinde kalıcı hâle getirilmesidir. Kameramanın bu çekimleri yapabilmesi için kameranın konumlandırılmış olduğu düzlem de önemlidir. Buna göre cevap B’dir."
     },
     {
         "SoruID": 3859475,
@@ -2226,7 +2426,7 @@
         "B": "Camera lucida",
         "C": "Analog fotoğraf makinesi",
         "D": "Storyboard",
-        "E": "Dijital fotoğraf makinesi",
+        "E": "Dijital fotoğraf makinesi",
         "DogruCevap": "B",
         "DersAd": "Görsel Estetik",
         "Unite": 7,
@@ -2241,7 +2441,7 @@
     },
     {
         "SoruID": 3859477,
-        "SoruMetni": "I.Konunun büyüklüğü<br/> II.Konu açışı<br/> III.Kameranın yüksekliği<br/> Yukardakilerden hangisi yada hangileri kamera açısını belirleyen öğelerdendir?",
+        "SoruMetni": "I.Konunun büyüklüğü<br/>II.Konu açışı<br/>III.Kameranın yüksekliği<br/>Yukardakilerden hangisi yada hangileri kamera açısını belirleyen öğelerdendir?",
         "A": "I",
         "B": "II",
         "C": "I - II",
@@ -2257,7 +2457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Konunun büyüklüğü, konu açışı , kameranın yüksekliği kamera açısını belirleyen öğelerdendir. Buna göre doğru cevap D’dir."
+        "Aciklama": "Konunun büyüklüğü, konu açışı , kameranın yüksekliği kamera açısını belirleyen öğelerdendir. Buna göre doğru cevap D’dir."
     },
     {
         "SoruID": 3859478,
@@ -2272,12 +2472,32 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.009062",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.397059",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kameranın gövdesinin sabit kalmak koşuluyla sağa-sola yapmış olduğu harekete  Yatay çevrinme (pan) denir. Buna göre doğru cevap B’dir."
+        "Aciklama": "Kameranın gövdesinin sabit kalmak koşuluyla sağa-sola yapmış olduğu harekete Yatay çevrinme (pan) denir. Buna göre doğru cevap B’dir."
+    },
+    {
+        "SoruID": 3859479,
+        "SoruMetni": "Çekim öncesi yazılı öyküyü görsel hale getirme işlemine ne ad verilir?",
+        "A": "Story",
+        "B": "Storyboard",
+        "C": "Kurgu",
+        "D": "Kesintisizlik kurgusu",
+        "E": "Derleme Kurgusu",
+        "DogruCevap": "B",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:16.109555",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Bunlardan ilk olanı ve her zaman yapılmasının önemli olduğu vurgulanan, çekim öncesi konu ile ilgili olan görsel düzenlemelerdir. Kâğıt üzerinde yapılan bu görsel düzenlemeye storyboard denir. Storyboard çalışmasındaki temel amaç, yazılı öyküyü görsel hale getirmektir. Storyboard, çalışması yapılacak çekimlerle ilgili her türlü bilginin görselleştirilmiş hâlidir. Konu ile ilgili olarak herkesi bağlayandır. Buna göre doğru cevap B’dir."
     },
     {
         "SoruID": 3859480,
@@ -2297,7 +2517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kesintisizlik kurgusu, kesme, açılma ve kararma, zincirleme, bindirme ve silinme <br/>         kurgulama yöntemleridir. Buna göre doğru cevap E’dir."
+        "Aciklama": "Kesintisizlik kurgusu, kesme, açılma ve kararma, zincirleme, bindirme ve silinme <br/>kurgulama yöntemleridir. Buna göre doğru cevap E’dir."
     },
     {
         "SoruID": 3859481,
@@ -2337,7 +2557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Derinlemesine görüntünün sağladığı özellikleri belirtmek gerekirse:<br/>• Görüş alanını derinlemesine genişletir.<br/>• Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.<br/>• Derinlemesine görüntüde çözümleme izleyiciye bırakılır.<br/> Doğru yanıt E'dir."
+        "Aciklama": "Derinlemesine görüntünün sağladığı özellikleri belirtmek gerekirse:<br/>• Görüş alanını derinlemesine genişletir.<br/>• Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.<br/>• Derinlemesine görüntüde çözümleme izleyiciye bırakılır.<br/>Doğru yanıt E'dir."
     },
     {
         "SoruID": 3859483,
@@ -2380,6 +2600,26 @@
         "Aciklama": "Eadweard Muybridge birden fazla kamera kullanarak yaptığı hareket çekimleriyle bilinen İngiliz fotoğrafçıdır. 1878 yılında koşan bir atı, 12 ayrı açıdan çekmiştir ve sinemanın ilk hâlini bulan kişi olarak bilinir. Fotoğraf makinelerinden oluşan bir düzenek kurarak 1/1000 enstantane hızıyla koşan at görüntüsünü elde etmiştir. Doğru yanıt A'dır."
     },
     {
+        "SoruID": 3859485,
+        "SoruMetni": "Kuşların nasıl uçtuğunu öğrenme isteği ile bir saniyede 12 fotoğraf çeken fotoğraf tabancasıyla ilk sıralı çekimi yapan Fransız bilim insanı aşağıdakilerden hangisidir?",
+        "A": "Etienne-Jules Marey",
+        "B": "Eadweard Muybridge",
+        "C": "Elizabeth Fulhame",
+        "D": "Carl Wilhelm Scheele",
+        "E": "Thomas Wedgwood",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:16.180551",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fransız bilim insanı olan Etienne-Jules Marey ise kuşların nasıl uçtuğunu öğrenme isteği ile bir saniyede 12 fotoğraf çeken fotoğraf tabancasıyla ilk sıralı çekimini yaparak uçan pelikan fotoğrafını çekmiştir (1880). Doğru yanıt A'dır."
+    },
+    {
         "SoruID": 3859486,
         "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Üstten Bakış</li> <li>Alttan Bakış</li> <li>Eğik Bakış</li> <li>Öznel Görüş Açısı</li> <li>Nesnel Görüş Açısı</li> </ol> Yukarıdakilerden hangisi / hangileri kamera açısı tipleri arasında yer almaktadır?",
         "A": "Yalnız I",
@@ -2397,7 +2637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kamera Açısı Tipleri:<br/> <ul> <li>Üstten Bakış</li> <li>Alttan Bakış</li> <li>Eğik Bakış</li> <li>Öznel Görüş Açısı</li> <li>Nesnel Görüş Açısı</li> </ul> Doğru yanıt E'dir."
+        "Aciklama": "Kamera Açısı Tipleri:<br/><ul> <li>Üstten Bakış</li> <li>Alttan Bakış</li> <li>Eğik Bakış</li> <li>Öznel Görüş Açısı</li> <li>Nesnel Görüş Açısı</li> </ul> Doğru yanıt E'dir."
     },
     {
         "SoruID": 3859487,
@@ -2417,7 +2657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kamera Hareketleri<br/> <ul> <li>Yatay Çevrinme (pan),</li> <li>Yukarı - Aşağı Çevrinme (tilt),</li> <li>Kaydırma Hareketi,</li> <li>Optik Kaydırma.</li> </ul> Doğru yanıt D'dir."
+        "Aciklama": "Kamera Hareketleri<br/><ul> <li>Yatay Çevrinme (pan),</li> <li>Yukarı - Aşağı Çevrinme (tilt),</li> <li>Kaydırma Hareketi,</li> <li>Optik Kaydırma.</li> </ul> Doğru yanıt D'dir."
     },
     {
         "SoruID": 3859488,
@@ -2437,7 +2677,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çerçeveleme Kuralları<br/> <ul> <li>Baş Boşluğu,</li> <li>Altın Oran,</li> <li>Hareket Boşluğu,</li> <li>Bakış Boşluğu.</li> </ul> Doğru yanıt E'dir."
+        "Aciklama": "Çerçeveleme Kuralları<br/><ul> <li>Baş Boşluğu,</li> <li>Altın Oran,</li> <li>Hareket Boşluğu,</li> <li>Bakış Boşluğu.</li> </ul> Doğru yanıt E'dir."
+    },
+    {
+        "SoruID": 3859489,
+        "SoruMetni": "\"Sanat ortamında kullanılan bir kompozisyon yöntemidir. Fotoğraftaki kullanımında yapılması gereken, kadrajı 9 eşit dikdörtgene bölerek ilgi noktasını ortada yer alan dört kesişim noktasından birine yakın yerleştirmektir.\" aşağıdaki çerçeveleme yöntemlerinden hangisine aittir?",
+        "A": "Altın Oran",
+        "B": "Baş Boşluğu",
+        "C": "Hareket Boşluğu",
+        "D": "Bakış Boşluğu",
+        "E": "Stotyboard",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:16.033794",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<strong>Altın oran:</strong> Sanat ortamında kullanılan bir kompozisyon yöntemidir. Fotoğraftaki kullanımında yapılması gereken, kadrajı 9 eşit dikdörtgene bölerek ilgi noktasını ortada yer alan dört kesişim noktasından birine yakın yerleştirmektir. 1/3 kuralı olarak bilinen bu prensip düzgün görüntüler oluşturulmasını mümkün kılar. Genel itibariyle bu kurala uygun kadrajlar göze çok daha iyi görünür. Doğru yanıt A'dır."
     },
     {
         "SoruID": 3859490,
@@ -2452,12 +2712,12 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.011439",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.401914",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel Etkiyi Artırma Yöntemleri:<br/> <ul> <li>Renkler,</li> <li>Çizgiler,</li> <li>Denge,</li> <li>Birlik,</li> <li>Ölçü,</li> <li>Ton,</li> <li>Derinlik</li> <li>Sadelik.</li> </ul> Doğru yanıt E'dir."
+        "Aciklama": "Görsel Etkiyi Artırma Yöntemleri:<br/><ul> <li>Renkler,</li> <li>Çizgiler,</li> <li>Denge,</li> <li>Birlik,</li> <li>Ölçü,</li> <li>Ton,</li> <li>Derinlik</li> <li>Sadelik.</li> </ul> Doğru yanıt E'dir."
     },
     {
         "SoruID": 3859491,
@@ -2512,7 +2772,7 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.073509",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.388652",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -2558,6 +2818,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Eadweard Muybridge birden fazla kamera kullanarak yaptığı hareket çekimleriyle bilinen İngiliz fotoğrafçıdır. 1878 yılında koşan bir atı 12 ayrı açıdan çekmiştir ve sinemanın ilk hâlini bulan kişi olarak bilinir."
+    },
+    {
+        "SoruID": 3859497,
+        "SoruMetni": "Çekime konu olan objelerin en etkili görülecek açıdan, derinliği olan görüntülerinin<br/>oluşturulmasına ne denir?",
+        "A": "Alttan bakış",
+        "B": "Öznel görüş açısı",
+        "C": "Nesnel görüş açısı",
+        "D": "Konunun büyüklüğü",
+        "E": "Konu açısı",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.983355",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Konu açışı: Çekime konu olan objelerin en etkili görülecek açıdan, derinliği olan görüntülerinin oluşturulması amaçlanır."
     },
     {
         "SoruID": 3859498,
@@ -2620,6 +2900,46 @@
         "Aciklama": "Kâğıt üzerinde yapılan bu görsel düzenlemeye storyboard denir. Storyboard çalışmasındaki temel amaç, yazılı öyküyü görsel hale getirmektir. Storyboard, çalışması yapılacak çekimlerle ilgili her türlü bilginin görselleştirilmiş hâlidir. Konu ile ilgili olarak herkesi bağlayandır."
     },
     {
+        "SoruID": 3859501,
+        "SoruMetni": "Aşağıdakilerden hangisi film kurgusunda kullanılan ve noktalama işaretleri olarak alt başlıklarda geçen tanımlardan biri <strong>değildir</strong>?",
+        "A": "Kesme",
+        "B": "Zincirleme",
+        "C": "Bindirme",
+        "D": "Pan",
+        "E": "Silinme",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.984916",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Görüntü geçiş türleri, “görüntü dilinin noktalama işaretleri” olarak adlandırılırlar. Film kurgusunda kullanılan noktalama işaretleri: Kesme, açılma ve karartma, zincirleme, bindirme, silinme'dir."
+    },
+    {
+        "SoruID": 3859502,
+        "SoruMetni": "Görsel etkiyi artırmak için, çerçevede mümkün olduğu kadar az elemanla konuyu anlatma yöntemi nedir?",
+        "A": "Denge",
+        "B": "Birlik",
+        "C": "Ölçü",
+        "D": "Derinlik",
+        "E": "Sadelik",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:16.129552",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Sadelik: Çerçevede mümkün olduğu kadar az elemanla konuyu anlatmak önemlidir. Ama konunun dışında anlatımı destekleyen ve çevreyi yansıtan ikinci derece elemanlardan sadece gerekli olanlar alınmalı, gereksiz unsurlar çerçeve dışında kalmalıdır."
+    },
+    {
         "SoruID": 3859503,
         "SoruMetni": "Seçeneklerden hangisi kamera açısı tiplerinden değildir?",
         "A": "Nicel görüş açısı",
@@ -2632,7 +2952,7 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.953909",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.403865",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -2721,11 +3041,11 @@
     },
     {
         "SoruID": 3859508,
-        "SoruMetni": "Seçeneklerden hangisi kamera açısını belirleyen unsurlardandır? <br/><br/>",
+        "SoruMetni": "Seçeneklerden hangisi kamera açısını belirleyen unsurlardandır?",
         "A": "Optik kaydırma",
         "B": "Aşağı bakış",
         "C": "Pan",
-        "D": "Kamera yüksekliği<br/><br/>",
+        "D": "Kamera yüksekliği",
         "E": "Tilt",
         "DogruCevap": "D",
         "DersAd": "Görsel Estetik",
@@ -2772,7 +3092,7 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.955746",
+        "OlusturmaTarihi": "2025-12-01T04:16:23.390731",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -2800,8 +3120,28 @@
         "Aciklama": "Eadweard Muybridge"
     },
     {
+        "SoruID": 3859512,
+        "SoruMetni": "Seçeneklerden hangisi bir saniyede 12 fotoğraf çeken fotoğraf tabancasıyla ilk sıralı çekimi yapan fotoğrafçıdır?",
+        "A": "Etienne-Jules Marey",
+        "B": "Eadweard Muybridge",
+        "C": "Elizabeth Fulhame",
+        "D": "Joseph Nicéphore Niépce",
+        "E": "Danielo Barbaro",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:16.091297",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Etienne-Jules Marey"
+    },
+    {
         "SoruID": 3859613,
-        "SoruMetni": "Bir kimse veya nesnenin, birtakım optik olayların etkisiyle meydana gelen görünüşüne ne denilir ?",
+        "SoruMetni": "Bir kimse veya nesnenin, birtakım optik olayların etkisiyle meydana gelen görünüşüne ne denilir ?",
         "A": "Görüntü",
         "B": "Görme",
         "C": "Eğik bakış",
@@ -2817,11 +3157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntü, bir kimse veya nesnenin, birtakım optik olayların etkisiyle meydana gelen görünüşüdür. Dolayısıyla cevap A şıkkıdır."
+        "Aciklama": "Görüntü, bir kimse veya nesnenin, birtakım optik olayların etkisiyle meydana gelen görünüşüdür. Dolayısıyla cevap A şıkkıdır."
     },
     {
         "SoruID": 3859614,
-        "SoruMetni": "Derinlemesine görüntünün sağladığı özellikler aşağıdaki hangi seçeneklerde belirtilmiştir ?<br/> I-) Görüş alanını derinlemesine genişletir<br/>II-) Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar<br/>III-) Derinlemesine görüntüde çözümleme izleyiciye bırakılır<br/>IV-) Karanlık oda çevresindeki görüntüleri ekrana yansıtır",
+        "SoruMetni": "Derinlemesine görüntünün sağladığı özellikler aşağıdaki hangi seçeneklerde belirtilmiştir ?<br/>I-) Görüş alanını derinlemesine genişletir<br/>II-) Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar<br/>III-) Derinlemesine görüntüde çözümleme izleyiciye bırakılır<br/>IV-) Karanlık oda çevresindeki görüntüleri ekrana yansıtır",
         "A": "I, II ve IV",
         "B": "I, II ve III",
         "C": "I ve II",
@@ -2837,11 +3177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Derinlemesine görüntünün sağladığı özellikleri belirtmek gerekirse:<br/>a-) Görüş alanını derinlemesine genişletir.<br/>b-) Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.<br/>c-) Derinlemesine görüntüde çözümleme izleyiciye bırakılır.<br/> Dolayısıyla cevap B şıkkıdır."
+        "Aciklama": "Derinlemesine görüntünün sağladığı özellikleri belirtmek gerekirse:<br/>a-) Görüş alanını derinlemesine genişletir.<br/>b-) Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.<br/>c-) Derinlemesine görüntüde çözümleme izleyiciye bırakılır.<br/>Dolayısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3859615,
-        "SoruMetni": "Kameraman tarafından görüntünün, görüntü çerçevesi içinde kalıcı hâle getirilmesine ne denilmektedir ?",
+        "SoruMetni": "Kameraman tarafından görüntünün, görüntü çerçevesi içinde kalıcı hâle getirilmesine ne denilmektedir ?",
         "A": "Derinlemesine görüntü",
         "B": "Görüntü",
         "C": "Çekim",
@@ -2857,7 +3197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çekim, kameraman tarafından görüntünün, görüntü çerçevesi içinde kalıcı hâle getirilmesidir. Dolayısıyla cevap C şıkkıdır."
+        "Aciklama": "Çekim, kameraman tarafından görüntünün, görüntü çerçevesi içinde kalıcı hâle getirilmesidir. Dolayısıyla cevap C şıkkıdır."
     },
     {
         "SoruID": 3859616,
@@ -2865,7 +3205,7 @@
         "A": "Etienne-Jules Marey",
         "B": "Campo San Giovanni",
         "C": "Elizabeth Fulhame",
-        "D": "Joseph Nicéphore Niépce",
+        "D": "Joseph Nicéphore Niépce",
         "E": "Carl Wilhelm Scheele",
         "DogruCevap": "D",
         "DersAd": "Görsel Estetik",
@@ -2877,11 +3217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntünün ilk olarak kalıcı hâle getirilmesini başaran Joseph Nicéphore Niépce’dir. Dolayısıyla cevap D şıkkıdır."
+        "Aciklama": "Görüntünün ilk olarak kalıcı hâle getirilmesini başaran Joseph Nicéphore Niépce’dir. Dolayısıyla cevap D şıkkıdır."
     },
     {
         "SoruID": 3859617,
-        "SoruMetni": "Kameraları, fotoğraf makinelerinden ayıran kaç temel fark bulunmaktadır ?",
+        "SoruMetni": "Kameraları, fotoğraf makinelerinden ayıran kaç temel fark bulunmaktadır ?",
         "A": "3",
         "B": "6",
         "C": "4",
@@ -2897,11 +3237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kameraları, fotoğraf makinelerinden ayıran iki temel fark bulunmaktadır: tek tek yerine seri hâlde görüntü çekmeleri ve ses kaydedebilmeleri. Dolayısıyla cevap E şıkkıdır."
+        "Aciklama": "Kameraları, fotoğraf makinelerinden ayıran iki temel fark bulunmaktadır: tek tek yerine seri hâlde görüntü çekmeleri ve ses kaydedebilmeleri. Dolayısıyla cevap E şıkkıdır."
     },
     {
         "SoruID": 3859618,
-        "SoruMetni": "Aşağıdaki seçeneklerde belirtilenlerden hangileri \"Kamera Açısı Tipleri\"ndendir ?<br/> I-) Üstten bakış<br/> II-) Alttan bakış<br/> III-) Konu açısı<br/> IV-) Eğik bakış<br/> V-) Öznel görüş açısı",
+        "SoruMetni": "Aşağıdaki seçeneklerde belirtilenlerden hangileri \"Kamera Açısı Tipleri\"ndendir ?<br/>I-) Üstten bakış<br/>II-) Alttan bakış<br/>III-) Konu açısı<br/>IV-) Eğik bakış<br/>V-) Öznel görüş açısı",
         "A": "I, II, IV ve V",
         "B": "I, III, IV ve V",
         "C": "II, III, IV ve V",
@@ -2917,11 +3257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kamera Açısı Tipleri<br/>a-) Üstten bakış<br/>b-) Alttan bakış <br/>c-) Eğik bakış<br/>d-) Öznel görüş açısı <br/>e-) Nesnel görüş açısı<br/> şeklindedir. Konu açısı bunlardan biri değildir. Dolayısıyla cevap A şıkkıdır."
+        "Aciklama": "Kamera Açısı Tipleri<br/>a-) Üstten bakış<br/>b-) Alttan bakış <br/>c-) Eğik bakış<br/>d-) Öznel görüş açısı <br/>e-) Nesnel görüş açısı<br/>şeklindedir. Konu açısı bunlardan biri değildir. Dolayısıyla cevap A şıkkıdır."
     },
     {
         "SoruID": 3859619,
-        "SoruMetni": "Aşağıdakilerden hangileri \"Kamera Açısını Belirleyen Ögeler\" arasında yer almaktadır ?<br/> I-) Konunun büyüklüğü<br/> II-) Konu açısı<br/> III-) Kaydırma hareketi<br/> IV-) Kameranın yüksekliği",
+        "SoruMetni": "Aşağıdakilerden hangileri \"Kamera Açısını Belirleyen Ögeler\" arasında yer almaktadır ?<br/>I-) Konunun büyüklüğü<br/>II-) Konu açısı<br/>III-) Kaydırma hareketi<br/>IV-) Kameranın yüksekliği",
         "A": "I ve II",
         "B": "I, II ve IV",
         "C": "II ve III",
@@ -2937,11 +3277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kamera Açısını Belirleyen Ögeler<br/> a-) Konunun büyüklüğü<br/> b-) Konu açısı<br/> c-) Kameranın yüksekliği<br/> şeklindendir. Kaydırma hareketi bunlardan biri değildir. Doalyısıyla cevap B şıkkıdır."
+        "Aciklama": "Kamera Açısını Belirleyen Ögeler<br/>a-) Konunun büyüklüğü<br/>b-) Konu açısı<br/>c-) Kameranın yüksekliği<br/>şeklindendir. Kaydırma hareketi bunlardan biri değildir. Doalyısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3859620,
-        "SoruMetni": "Aşağıdaki seçeneklerden hangileri \"Kamera Hareketleri\"ndendir ? <br/> I-) Yatay çevrinme<br/> II-) Kameranın yüksekliği<br/> III-) Yukarı-Aşağı çevrinme<br/> IV-) Kaydırma hareketi<br/> V-) Optik kaydırma",
+        "SoruMetni": "Aşağıdaki seçeneklerden hangileri \"Kamera Hareketleri\"ndendir ? <br/>I-) Yatay çevrinme<br/>II-) Kameranın yüksekliği<br/>III-) Yukarı-Aşağı çevrinme<br/>IV-) Kaydırma hareketi<br/>V-) Optik kaydırma",
         "A": "I, II, IV ve V",
         "B": "II, III, IV ve V",
         "C": "I, III, IV ve V",
@@ -2957,11 +3297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kamera Hareketleri<br/> a-) Yatay çevrinme<br/> b-) Yukarı-Aşağı çevrinme<br/> c-) Kaydırma hareketi<br/> d-) Optik kaydırma<br/> şeklindedir. Kameranın yüksekliği bunlardan biri değildir. Dolayısıyla cevap C şıkkıdır."
+        "Aciklama": "Kamera Hareketleri<br/>a-) Yatay çevrinme<br/>b-) Yukarı-Aşağı çevrinme<br/>c-) Kaydırma hareketi<br/>d-) Optik kaydırma<br/>şeklindedir. Kameranın yüksekliği bunlardan biri değildir. Dolayısıyla cevap C şıkkıdır."
     },
     {
         "SoruID": 3859621,
-        "SoruMetni": "Aşağıdaki hangi seçeneklerde \"Temel Çekim Ölçekleri\" belirtilmiştir ?<br/> I-) Uzak çekim<br/> II-) Genel çekim<br/> III-) Boy çekim<br/> IV-) Eğik bakış<br/> V-) Omuz çekim<br/> VI-) Alttan bakış",
+        "SoruMetni": "Aşağıdaki hangi seçeneklerde \"Temel Çekim Ölçekleri\" belirtilmiştir ?<br/>I-) Uzak çekim<br/>II-) Genel çekim<br/>III-) Boy çekim<br/>IV-) Eğik bakış<br/>V-) Omuz çekim<br/>VI-) Alttan bakış",
         "A": "II, III ve IV",
         "B": "IV ve VI",
         "C": "I, II, III ve VI",
@@ -2977,11 +3317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Temel çekim ölçekleri<br/> a-) Uzak çekim<br/> b-) Genel çekim<br/> c-) Boy çekim<br/> d-) Omuz çekim<br/> e-) Göğüs çekim<br/> f-) Baş çekim<br/> g-) Yüz çekim<br/> h-) Ayrıntı çekim<br/> şeklindedir. Eğik bakış ve Alttan bakış bu ölçeklerden değildir. Dolayısıyla cevap D şıkkıdır."
+        "Aciklama": "Temel çekim ölçekleri<br/>a-) Uzak çekim<br/>b-) Genel çekim<br/>c-) Boy çekim<br/>d-) Omuz çekim<br/>e-) Göğüs çekim<br/>f-) Baş çekim<br/>g-) Yüz çekim<br/>h-) Ayrıntı çekim<br/>şeklindedir. Eğik bakış ve Alttan bakış bu ölçeklerden değildir. Dolayısıyla cevap D şıkkıdır."
     },
     {
         "SoruID": 3859622,
-        "SoruMetni": "Aşağıdakilerden hangileri \"Görsel Etkiyi Artırma Yöntemleri\" ana başlıklarındandır ?<br/> I-) Renkler<br/> II-) Çizgiler<br/> III-) Bindirme<br/> IV-) Denge<br/> V-) Ölçü",
+        "SoruMetni": "Aşağıdakilerden hangileri \"Görsel Etkiyi Artırma Yöntemleri\" ana başlıklarındandır ?<br/>I-) Renkler<br/>II-) Çizgiler<br/>III-) Bindirme<br/>IV-) Denge<br/>V-) Ölçü",
         "A": "I, II, III ve IV",
         "B": "I, III, IV ve V",
         "C": "I, II, III ve V",
@@ -2997,6 +3337,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel Etkiyi Artırma Yöntemleri <br/> a-) Renkler<br/> b-) Çizgiler<br/> c-) Denge<br/> d-) Ölçü<br/> şeklindedir. Bindirme bunlardan biri değildir. Dolayısıyla cevap E şıkkıdır."
+        "Aciklama": "Görsel Etkiyi Artırma Yöntemleri <br/>a-) Renkler<br/>b-) Çizgiler<br/>c-) Denge<br/>d-) Ölçü<br/>şeklindedir. Bindirme bunlardan biri değildir. Dolayısıyla cevap E şıkkıdır."
     }
 ]

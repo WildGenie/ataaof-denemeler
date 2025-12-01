@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 173135,
-        "SoruMetni": "<strong>Yakın tarihlerde küçük sensörlü bir makine gövdesi için üretilen ve 35 mm’de karşılığı 24 - 3000 mm’ye denk gelen, değişken odaklı (zoom) lensin optik yaklaştırma oranı aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Yakın tarihlerde küçük sensörlü bir makine gövdesi için üretilen ve 35 mm’de karşılığı 24 - 3000 mm’ye denk gelen, değişken odaklı (zoom) lensin optik yaklaştırma oranı aşağıdakilerden hangisidir?</strong>",
         "A": "24 kat",
         "B": "50 kat",
         "C": "125 kat",
@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 173140,
@@ -35,11 +36,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 173146,
-        "SoruMetni": "<strong>Objektiflerde filtre yuvası (ön bağlantı noktası) çapını ifade eden metrik ölçü birimi aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Objektiflerde filtre yuvası (ön bağlantı noktası) çapını ifade eden metrik ölçü birimi aşağıdakilerden hangisidir?</strong>",
         "A": "cm",
         "B": "feet",
         "C": "mm",
@@ -54,13 +56,14 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 173154,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi ışık geçirgenliğinin özellikleri arasında <u>yer almaz?</u></strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi ışık geçirgenliğinin özellikleri arasında <u>yer almaz?</u></strong>",
         "A": "Objektif hızı olarak da adlandırılır.",
-        "B": "Sayısal değeri  f/…  olarak gösterilir.",
+        "B": "Sayısal değeri f/… olarak gösterilir.",
         "C": "En büyük açıklığı, en küçük sayısal değeridir.",
         "D": "Objektifte optik çap küçüldükçe ışık geçirgenliği de azalır.",
         "E": "En büyük açıklığı, en büyük sayısal değeridir.",
@@ -73,11 +76,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 173157,
-        "SoruMetni": "<strong>Bir göz kapatılarak etrafa bakıldığında, </strong><strong>tam çerçeve (full frame) algılayıcılı gövdeye takılı, yaklaşık kaç mm’lik bir objektif ile benzer bir </strong><strong>görüş elde edilebilir?</strong>",
+        "SoruMetni": "<strong>Bir göz kapatılarak etrafa bakıldığında, </strong><strong>tam çerçeve (full frame) algılayıcılı gövdeye takılı, yaklaşık kaç mm’lik bir objektif ile benzer bir </strong><strong>görüş elde edilebilir?</strong>",
         "A": "146mm",
         "B": "50mm",
         "C": "21mm",
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 173159,
@@ -111,7 +116,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 173166,
@@ -119,7 +125,7 @@
         "A": "24-70mm f/2.8",
         "B": "100-400mm f/4.5-5.6",
         "C": "10-24mm f/4",
-        "D": "24mm f/1.4<br/>",
+        "D": "24mm f/1.4",
         "E": "2x Tele dönüştürücü",
         "DogruCevap": "D",
         "DersAd": "Sayısal Fotoğraf",
@@ -130,15 +136,16 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 173174,
-        "SoruMetni": "<strong>Çoğu balık gözü objektifin derece cinsinden sahip olduğu açısal görüş alanı</strong><strong> aşağıdakilerden hangisidir?</strong><br/>",
-        "A": "45<sup>0 </sup>- 55<sup>0</sup>",
+        "SoruMetni": "<strong>Çoğu balık gözü objektifin derece cinsinden sahip olduğu açısal görüş alanı</strong><strong> aşağıdakilerden hangisidir?</strong>",
+        "A": "45<sup>0 </sup>- 55<sup>0</sup>",
         "B": "170<sup>0</sup> - 180<sup>0</sup>",
-        "C": "270<sup>0 </sup>- 360<sup>0</sup>",
-        "D": "8<sup>0 </sup>- 12<sup>0</sup>",
+        "C": "270<sup>0 </sup>- 360<sup>0</sup>",
+        "D": "8<sup>0 </sup>- 12<sup>0</sup>",
         "E": "36<sup>0</sup> - 24<sup>0</sup>",
         "DogruCevap": "B",
         "DersAd": "Sayısal Fotoğraf",
@@ -149,11 +156,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 173178,
-        "SoruMetni": "Geniş açılı objektiflerde yakın mesafedeki nesneler büyük, orta mesafedeki nesneler küçük ve daha uzak görünür.<br/> <br/><strong>Bu özellik ile aşağıdakilerden hangisi oluşturulur?</strong>",
+        "SoruMetni": "Geniş açılı objektiflerde yakın mesafedeki nesneler büyük, orta mesafedeki nesneler küçük ve daha uzak görünür.<br/><strong>Bu özellik ile aşağıdakilerden hangisi oluşturulur?</strong>",
         "A": "Perspektif derinliği",
         "B": "Alan derinliği",
         "C": "Diyafram",
@@ -168,7 +176,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 173206,
@@ -187,7 +196,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 331747,
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 331749,
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 331752,
@@ -244,7 +256,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 331755,
@@ -263,7 +276,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 331760,
@@ -282,6 +296,7 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     }
 ]

@@ -9,14 +9,15 @@
         "E": "İngiltere, Arts and Crafts",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 311224,
@@ -35,11 +36,12 @@
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 311225,
-        "SoruMetni": "……………… döneminde (19.yy sonu 20.yy başı-Art Nouveau hareketi) Fransa, devrim niteliğinde sanayileşmenin yarattığı çalkantılı bir on dokuzuncu yüzyıldan kültürel kargaşalar ve sınıfsal mücadelelerin yeniden tanımlandığı yirminci yüzyıla geçmektedir.<br/> <br/><strong>Bu dönem aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "……………… döneminde (19.yy sonu 20.yy başı-Art Nouveau hareketi) Fransa, devrim niteliğinde sanayileşmenin yarattığı çalkantılı bir on dokuzuncu yüzyıldan kültürel kargaşalar ve sınıfsal mücadelelerin yeniden tanımlandığı yirminci yüzyıla geçmektedir.<br/><strong>Bu dönem aşağıdakilerden hangisidir?</strong>",
         "A": "“La Belle Époque” ya da “Güzel Çağ”",
         "B": "Modern Style",
         "C": "Orfizm",
@@ -47,14 +49,15 @@
         "E": "Picasso",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 311229,
@@ -66,14 +69,15 @@
         "E": "Eugene Grasset",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 311230,
@@ -92,11 +96,12 @@
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 311232,
-        "SoruMetni": "Lautrec’in Moulin Rouge veya Divan Japonais, Bonnard’ın France- Champagne, Mucha’nın Bieres de La Meuse, Chéret’in La Loïe Fuller, Folies-Bergère adlı afiş çalışmaları, Art Nouveau hareketinde …………...........................….. göstermiştir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Lautrec’in Moulin Rouge veya Divan Japonais, Bonnard’ın France- Champagne, Mucha’nın Bieres de La Meuse, Chéret’in La Loïe Fuller, Folies-Bergère adlı afiş çalışmaları, Art Nouveau hareketinde …………...........................….. göstermiştir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "“yeni kadın” imajını",
         "B": "ürün estetiğini",
         "C": "el sanatlarına özlemi",
@@ -104,14 +109,15 @@
         "E": "kübik formların estetiğini",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314302,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 314303,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 314304,
@@ -161,14 +169,15 @@
         "E": "Théophile Alexandre Steinlen",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 314305,
@@ -180,14 +189,15 @@
         "E": "Théophile Alexandre Steinlen",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 314306,
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 314307,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314308,
@@ -237,14 +249,15 @@
         "E": "Dijital baskı",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 314309,
@@ -263,7 +276,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314310,
@@ -275,14 +289,15 @@
         "E": "Jules Chéret",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 314311,
@@ -294,14 +309,15 @@
         "E": "Jules Chéret",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 343071,
@@ -313,18 +329,19 @@
         "E": "Yaşamı boyunca 1200'den fazla afiş tasarlayan Chéret, naif, sıkıntısız, her zaman gülümseyen, sevimli ve büyüleyici genç kadınların yüzlerini tasarlamıştır.",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 343087,
-        "SoruMetni": "\"Art Nouveau\" terimi Fransızca bir kelime olup <b>.............................. </b>anlamına gelmektedir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "\"Art Nouveau\" terimi Fransızca bir kelime olup <b>.............................. </b>anlamına gelmektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "yeni akım",
         "B": "yeni sanat",
         "C": "yeni bakış",
@@ -332,18 +349,19 @@
         "E": "yeni üslûp",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 343096,
-        "SoruMetni": "I. Afiş üretimini etkileyen en önemli teknik gelişme, 1799’da Aloys Senefelder tarafından icat edilen baskı tekniği “Litografi” olmuştur.<br/> <br/>II.1860’lı yıllarda İngiltere’de müzik kapakları, alışveriş kartları gibi yayınlarda tercih edilen bir baskı tekniği olmuştur.<br> <br/>III. Bu yeni sanat üslubu içerisinde etkin rol oynayan sanatçıların başında Toulouse Lautrec ve Jules Chéret gelmektedir.<br> <br/><strong>Fransız Art Nouveau afişlerinin üretim tekniği ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong></br></br>",
+        "SoruMetni": "I. Afiş üretimini etkileyen en önemli teknik gelişme, 1799’da Aloys Senefelder tarafından icat edilen baskı tekniği “Litografi” olmuştur.<br/>II.1860’lı yıllarda İngiltere’de müzik kapakları, alışveriş kartları gibi yayınlarda tercih edilen bir baskı tekniği olmuştur.<br/>III. Bu yeni sanat üslubu içerisinde etkin rol oynayan sanatçıların başında Toulouse Lautrec ve Jules Chéret gelmektedir.<br/><strong>Fransız Art Nouveau afişlerinin üretim tekniği ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -351,14 +369,15 @@
         "E": "I, II ve III",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 343098,
@@ -370,13 +389,14 @@
         "E": "Théophile Alexandre Steinlen",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     }
 ]

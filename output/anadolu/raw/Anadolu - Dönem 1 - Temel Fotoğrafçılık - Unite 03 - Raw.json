@@ -1,35 +1,19 @@
 [
     {
-        "QuestionId": 3350994,
+        "QuestionId": 3350997,
         "UniteNo": 3,
-        "PageNumber": 57,
-        "AnswerExplanation": "<p>Pozlamayı temel olarak üç etken belirler:<br />1. “f” değeri ile ifade edilen diyafram açıklığı<br />2. Enstantanenin açık kalma süresi<br />3. Film ya da sensörün ışığa olan duyarlılığı (ISO)</p>",
+        "PageNumber": 61,
+        "AnswerExplanation": "<p>Geçmiş dönemde SLR fotoğraf makineleri 100-800 arasındaki ISO değerleri desteklerken, yeni dijital fotoğraf</p>\n<p>makinelerinde bu değer 50-102400’e kadar çıkmıştır.</p>",
         "Title": "<p>FOTOĞRAFI ÇEKMEK: POZLAMA</p>",
-        "Text": "<p>Pozlamayı temel olarak kaç etken belirler?</p>",
-        "A": "<p>1</p>",
-        "B": "<p>2</p>",
-        "C": "<p>3</p>",
-        "D": "<p>4</p>",
-        "E": "<p>5</p>",
-        "CorrectAnswer": "C",
+        "Text": "<p>Geçmiş dönemde SLR fotoğraf makineleri 100-800 arasındaki ISO değerleri desteklerken, yeni dijital fotoğraf makinelerinde bu değer kaça kadar çıkmıştır?</p>",
+        "A": "<p>50-2000</p>",
+        "B": "<p>50-4000</p>",
+        "C": "<p>50-10000</p>",
+        "D": "<p>50-102400</p>",
+        "E": "<p>50-200000</p>",
+        "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 1
-    },
-    {
-        "QuestionId": 3350996,
-        "UniteNo": 3,
-        "PageNumber": 58,
-        "AnswerExplanation": "<p>Standart diyafram açıklıkları değerleri ise şu şekildedir.<br />f:1 - f:1.2 - f1.4 - f1.8 - f2 - f2.8 - f4 - f5.6 - f8 - f11 - f16 - f22 - f32</p>",
-        "Title": "<p>FOTOĞRAFI ÇEKMEK: POZLAMA</p>",
-        "Text": "<p>Aşağıdakilerden hangisi standart diyafram açıklığı değeridir?</p>",
-        "A": "<p>f: 1.6</p>",
-        "B": "<p>f: 2.4</p>",
-        "C": "<p>f: 4</p>",
-        "D": "<p>f: 5.8</p>",
-        "E": "<p>f: 12</p>",
-        "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "QuestionNumber": 3
     },
     {
         "QuestionId": 3350998,
@@ -48,22 +32,6 @@
         "QuestionNumber": 4
     },
     {
-        "QuestionId": 3350999,
-        "UniteNo": 3,
-        "PageNumber": 62,
-        "AnswerExplanation": "<p>Fotoğraf çekiminde bulunulan ortamın ışık değerlerinin doğru ölçülerek uygun diyafram ve enstantane ayarlarının yapılması için dijital fotoğraf makinelerinde birtakım ölçüm yönetim modları bulunmaktadır. Bu ölçüm yönetim modlarını altı ana başlık altında toplayabiliriz.<br />1. Ortalama Ölçüm: Bu ölçüm metodu kadraj alanından algılanan ışık değerlerinin tümüyle okunarak ortalama bir değer bulunması yoluyla gerçekleşir. Işığın her bölge açısından eşit dağılmadığı durumlarda yanlış sonuçlar verebilmektedir. Çoğunlukla manzara ve topluluk fotoğrafları için kullanılmaktadır.<br />2. Merkez Ağırlıklı Ortalama Ölçüm: Bu ölçümde kadraj alanının özellikle orta bölümlerinden gelen ışık değerlendirilerek bir ortalama alınır ve pozlama değeri atanmaktadır. Çoğunlukla portre çekimlerinde kullanılmaktadır.<br />3. Kısmen Ölçüm: Bu ölçüm ağırlıklı olarak kadraj alanının merkezi ve etrafındaki yüzde 10-15’lik bölümünden gelen ışığı okuyarak pozlama değerini bulur. Çoğunlukla konunun arkası ve kenarlarından fazla ışık geldiği ya da karanlığın bulunduğu durumlarda kullanılmaktadır.<br />4. Noktasal Ölçüm: Spot ölçüm olarak da bilinen bu yöntemde kadraj üzerinde odak noktası çevresindeki bir daire ya da dikdörtgen ile belirlenen ve görüntünün küçük bir kısmından yansıyan ışığın ölçülerek pozlama<br />değerinin bulunur. Yalnızca belirlenen bu küçük kısımdan ışık ölçümü gerçekleştirilir. Fotoğraf makinesi noktasal olarak belirlenen bu sınırların dışındaki ışık miktarını değerlendirmeye alınmaz. Çoğunlukla uzakta<br />kalan bir konunun ya da yüksek kontrastlı fotoğrafların çekiminde kullanılmaktadır.<br />5. Çoklu Nokta Ölçüm: Bu ölçümde kadraj üzerinde birden fazla bölgeden noktasal olarak ışık yoğunluğu ölçülür ve bunların ortalaması alınarak pozlama değeri bulunur. Fotoğraf çekiminde noktasal olarak bir<br />den fazla alanın ışık yoğunluğunun önemli olduğu durumlarda kullanılmaktadır.<br />6. Genel Değerlendirmeli Matrix Ölçüm: Bu ölçümde kadrajın çeşitli alanlarından gelen<br />ışık değerlerinin her birinin önemiyle ilişkili olarak en uygun pozlama değeri bulunur. Ayrıca tüm alanlardan gelen ışık değerleri belirlendikten sonra odaklanılan noktanın ölçümleri de yapılır ve pozlama bu değişkenlere göre belirlenir.</p>",
-        "Title": "<p>FOTOĞRAFI ÇEKMEK: POZLAMA</p>",
-        "Text": "Fotoğraf çekiminde bulunulan ortamın ışık değerlerinin doğru ölçülerek uygun diyafram ve enstantane ayarlarının yapılması için dijital fotoğraf makinelerinde birtakım ölçüm yönetim modları bulunmaktadır. Bu ölçüm yönetim modlarını kaç ana başlık altında toplayabiliriz?",
-        "A": "<p>2</p>",
-        "B": "<p>3</p>",
-        "C": "<p>4</p>",
-        "D": "<p>5</p>",
-        "E": "<p>6</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
-    },
-    {
         "QuestionId": 3351000,
         "UniteNo": 3,
         "PageNumber": 67,
@@ -77,7 +45,7 @@
         "E": "<p>5</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 4
+        "QuestionNumber": 6
     },
     {
         "QuestionId": 3351001,
@@ -93,7 +61,7 @@
         "E": "<p>5</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 5
+        "QuestionNumber": 7
     },
     {
         "QuestionId": 3351003,
@@ -109,7 +77,7 @@
         "E": "<p>6</p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 6
+        "QuestionNumber": 8
     },
     {
         "QuestionId": 3351004,
@@ -125,7 +93,7 @@
         "E": "<p>Pozometre</p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 6
+        "QuestionNumber": 7
     },
     {
         "QuestionId": 3351005,
@@ -141,23 +109,39 @@
         "E": "<p>Softbox.</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 7
+        "QuestionNumber": 9
     },
     {
-        "QuestionId": 3351007,
+        "QuestionId": 3351006,
         "UniteNo": 3,
         "PageNumber": 60,
-        "AnswerExplanation": "<p>ISO (International Standards Organization), fotoğraf filmlerinde ışığa olan duyarlılık derecesini belirleyen uluslararası standart ölçüm sistemidir. Dijital fotoğraf makinalarında da algılayıcının ışığa karşı hassasiyeti bulunur. Bu da aynı filmlerde ol­duğu gibi ISO terimiyle ifade edilir.</p>",
+        "AnswerExplanation": "<p>Ha­reketli konu ya da nesnelerin çekiminde hareketin net bir şekilde dondurulması yüksek enstantane değerleri ile sağlanır.</p>",
         "Title": "",
-        "Text": "<p>ISO değerinin anlamı aşağıdaki ifadelerden hangisidir?</p>",
-        "A": "<p>Işık yoğunluğu.</p>",
-        "B": "<p>Pozlama süresi.</p>",
-        "C": "<p>Filmin ışığa karşı duyarlılığı.</p>",
-        "D": "<p>Objektiften geçen ışık miktarı.</p>",
-        "E": "<p>Işık ölçerin hesapladığı f / değeri.</p>",
-        "CorrectAnswer": "C",
+        "Text": "Hareketli bir konunun fotoğrafını çekerken net bir görüntünün oluşturulması için gerekli örtücü hızı aşağıdaki ifadelerden hangisidir?",
+        "A": "<p>1/15.</p>",
+        "B": "<p>1/30.</p>",
+        "C": "<p>1/60.</p>",
+        "D": "<p>1/125.</p>",
+        "E": "<p>1/500.</p>",
+        "CorrectAnswer": "E",
         "UserAnswer": null,
         "QuestionNumber": 9
+    },
+    {
+        "QuestionId": 3351008,
+        "UniteNo": 3,
+        "PageNumber": 60,
+        "AnswerExplanation": "<p>En net ve temiz fotoğraşar için ISO ayarının, fotoğraf makinesinin izin verdiği en düşük değerde (ISO 200, 100, 50) tutulması parazitlenmeyi en aza indirdiği için oldukça önemlidir ISO değerinin yüksekliği fotoğraf kalitesi üzerinde parazitlenmeyi oldukça arttıran bir etmendir.</p>",
+        "Title": "",
+        "Text": "<p>Aydınlık bir ortamda en net ve temiz fotoğraf için doğru ISO değeri aşağıdaki ifadelerden hangisidir?</p>",
+        "A": "<p>100-200.</p>",
+        "B": "<p>200-400.</p>",
+        "C": "<p>400-800.</p>",
+        "D": "<p>800-1600</p>",
+        "E": "<p>1600-3200.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 11
     },
     {
         "QuestionId": 3351009,
@@ -173,7 +157,7 @@
         "E": "<p>Poz telafisi</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 11
+        "QuestionNumber": 12
     },
     {
         "QuestionId": 3351010,
@@ -189,7 +173,7 @@
         "E": "<p>Kullanılan objektif.</p> ",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 13
     },
     {
         "QuestionId": 3351011,
@@ -205,21 +189,21 @@
         "E": "<p>F22.</p> ",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 14
     },
     {
-        "QuestionId": 3351012,
+        "QuestionId": 3351013,
         "UniteNo": 3,
-        "PageNumber": 71,
-        "AnswerExplanation": "<p>Yanal aydınlatma konunun üç boyutluluğunu, derinliğini ve kontrastını arttırmak amacıyla sıklıkla kullanılır. Fotoğrafta dramatik bir etki de sağlayan yanal ışık daha üç boyutlu bir perspektiften çekimi yapılan konuyu arka plandan ayırır.</p>",
+        "PageNumber": 72,
+        "AnswerExplanation": "<p>Renk ısısı, aydınlatma kaynaklarının ortaya çı­kardığı renklerdir. Renk ısısı Kelvin değeri olarak ifade edilir. Aydınlatma kaynağının renk ısısı art­tığında (Kelvin’i yükseldiğinde) mavi renkli tonlar artar, kırmızı renk tonlar azalır. Renk ısısı azaldığı­na ise kırmızı tonlar artar, mavi renki tonlar ise aza­lır.</p>",
         "Title": "",
-        "Text": "<p><strong>Aşağıdaki ifadelerden hangisi konunun üç boyutluluğunu, derinliğini ve kontrastını arttırmak amacıyla kullanılan aydınlatma türüdür?</strong></p>  ",
-        "A": "<p>Cephe aydınlatma.</p> ",
-        "B": "<p>Yanal aydınlatma.</p> ",
-        "C": "<p>Alt aydınlatma.</p> ",
-        "D": "<p>Tepe aydınlatma.</p> ",
-        "E": "<p>Noktasal aydınlatma.</p>",
-        "CorrectAnswer": "B",
+        "Text": "<p><strong>Aydınlatma kaynaklarının renk ısısı birimi aşağıdaki ifadelerden  hangisidir? </strong></p> ",
+        "A": "<p>Kelvin.</p> ",
+        "B": "<p>ISO.</p> ",
+        "C": "<p>Enstantane.</p> ",
+        "D": "<p>Diyafram.</p> ",
+        "E": "<p>Poz telafisi.</p>",
+        "CorrectAnswer": "A",
         "UserAnswer": null,
         "QuestionNumber": 13
     },
@@ -238,22 +222,6 @@
         "CorrectAnswer": "A",
         "UserAnswer": null,
         "QuestionNumber": 15
-    },
-    {
-        "QuestionId": 3351015,
-        "UniteNo": 3,
-        "PageNumber": 57,
-        "AnswerExplanation": "<p>Fotoğraf çekiminde konu üzerine düşen, konudan yansıyan ve ortamdaki ışığın özellikleri, ISO değerleri, beyaz ayarı gibi pek çok etken pozlama üzerinde doğrudan etkilidir. Ancak pozlamayı temel olarak üç etken belirler: Diyafram açıklığı, Enstantane süresi ve ISO değerleri.</p>",
-        "Title": "<p>Fotoğrafı Çekmek: Pozlama</p>",
-        "Text": "<p>I-Diyafram açıklığı</p> <p>II-Enstantane süresi</p> <p>III-ISO</p> <p>IV-Netlik</p> <p>V-Işık ölçümü</p> <p>Yukarıdakilerden hangileri pozlamayı belirleyen üç temel etkendir?</p>",
-        "A": "<p>I-II-III</p>",
-        "B": "<p>I-III-IV</p>",
-        "C": "<p>II-III-IV</p>",
-        "D": "<p>II-IV-V</p>",
-        "E": "<p>III-IV-V</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
     },
     {
         "QuestionId": 3351016,
@@ -285,7 +253,7 @@
         "E": "<p>f 11</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 18
+        "QuestionNumber": 16
     },
     {
         "QuestionId": 3351018,
@@ -317,71 +285,7 @@
         "E": "<p>1/250</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 19
-    },
-    {
-        "QuestionId": 3350997,
-        "UniteNo": 3,
-        "PageNumber": 61,
-        "AnswerExplanation": "<p>Geçmiş dönemde SLR fotoğraf makineleri 100-800 arasındaki ISO değerleri desteklerken, yeni dijital fotoğraf</p>\n<p>makinelerinde bu değer 50-102400’e kadar çıkmıştır.</p>",
-        "Title": "<p>FOTOĞRAFI ÇEKMEK: POZLAMA</p>",
-        "Text": "<p>Geçmiş dönemde SLR fotoğraf makineleri 100-800 arasındaki ISO değerleri desteklerken, yeni dijital fotoğraf makinelerinde bu değer kaça kadar çıkmıştır?</p>",
-        "A": "<p>50-2000</p>",
-        "B": "<p>50-4000</p>",
-        "C": "<p>50-10000</p>",
-        "D": "<p>50-102400</p>",
-        "E": "<p>50-200000</p>",
-        "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
-    },
-    {
-        "QuestionId": 3351006,
-        "UniteNo": 3,
-        "PageNumber": 60,
-        "AnswerExplanation": "<p>Ha­reketli konu ya da nesnelerin çekiminde hareketin net bir şekilde dondurulması yüksek enstantane değerleri ile sağlanır.</p>",
-        "Title": "",
-        "Text": "Hareketli bir konunun fotoğrafını çekerken net bir görüntünün oluşturulması için gerekli örtücü hızı aşağıdaki ifadelerden hangisidir?",
-        "A": "<p>1/15.</p>",
-        "B": "<p>1/30.</p>",
-        "C": "<p>1/60.</p>",
-        "D": "<p>1/125.</p>",
-        "E": "<p>1/500.</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
-    },
-    {
-        "QuestionId": 3351008,
-        "UniteNo": 3,
-        "PageNumber": 60,
-        "AnswerExplanation": "<p>En net ve temiz fotoğraşar için ISO ayarının, fotoğraf makinesinin izin verdiği en düşük değerde (ISO 200, 100, 50) tutulması parazitlenmeyi en aza indirdiği için oldukça önemlidir ISO değerinin yüksekliği fotoğraf kalitesi üzerinde parazitlenmeyi oldukça arttıran bir etmendir.</p>",
-        "Title": "",
-        "Text": "<p>Aydınlık bir ortamda en net ve temiz fotoğraf için doğru ISO değeri aşağıdaki ifadelerden hangisidir?</p>",
-        "A": "<p>100-200.</p>",
-        "B": "<p>200-400.</p>",
-        "C": "<p>400-800.</p>",
-        "D": "<p>800-1600</p>",
-        "E": "<p>1600-3200.</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
-    },
-    {
-        "QuestionId": 3351013,
-        "UniteNo": 3,
-        "PageNumber": 72,
-        "AnswerExplanation": "<p>Renk ısısı, aydınlatma kaynaklarının ortaya çı­kardığı renklerdir. Renk ısısı Kelvin değeri olarak ifade edilir. Aydınlatma kaynağının renk ısısı art­tığında (Kelvin’i yükseldiğinde) mavi renkli tonlar artar, kırmızı renk tonlar azalır. Renk ısısı azaldığı­na ise kırmızı tonlar artar, mavi renki tonlar ise aza­lır.</p>",
-        "Title": "",
-        "Text": "<p><strong>Aydınlatma kaynaklarının renk ısısı birimi aşağıdaki ifadelerden  hangisidir? </strong></p> ",
-        "A": "<p>Kelvin.</p> ",
-        "B": "<p>ISO.</p> ",
-        "C": "<p>Enstantane.</p> ",
-        "D": "<p>Diyafram.</p> ",
-        "E": "<p>Poz telafisi.</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "QuestionNumber": 18
     },
     {
         "QuestionId": 3351021,
@@ -414,5 +318,101 @@
         "CorrectAnswer": "A",
         "UserAnswer": null,
         "QuestionNumber": 20
+    },
+    {
+        "QuestionId": 3350994,
+        "UniteNo": 3,
+        "PageNumber": 57,
+        "AnswerExplanation": "<p>Pozlamayı temel olarak üç etken belirler:<br />1. “f” değeri ile ifade edilen diyafram açıklığı<br />2. Enstantanenin açık kalma süresi<br />3. Film ya da sensörün ışığa olan duyarlılığı (ISO)</p>",
+        "Title": "<p>FOTOĞRAFI ÇEKMEK: POZLAMA</p>",
+        "Text": "<p>Pozlamayı temel olarak kaç etken belirler?</p>",
+        "A": "<p>1</p>",
+        "B": "<p>2</p>",
+        "C": "<p>3</p>",
+        "D": "<p>4</p>",
+        "E": "<p>5</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 1
+    },
+    {
+        "QuestionId": 3350996,
+        "UniteNo": 3,
+        "PageNumber": 58,
+        "AnswerExplanation": "<p>Standart diyafram açıklıkları değerleri ise şu şekildedir.<br />f:1 - f:1.2 - f1.4 - f1.8 - f2 - f2.8 - f4 - f5.6 - f8 - f11 - f16 - f22 - f32</p>",
+        "Title": "<p>FOTOĞRAFI ÇEKMEK: POZLAMA</p>",
+        "Text": "<p>Aşağıdakilerden hangisi standart diyafram açıklığı değeridir?</p>",
+        "A": "<p>f: 1.6</p>",
+        "B": "<p>f: 2.4</p>",
+        "C": "<p>f: 4</p>",
+        "D": "<p>f: 5.8</p>",
+        "E": "<p>f: 12</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 2
+    },
+    {
+        "QuestionId": 3351007,
+        "UniteNo": 3,
+        "PageNumber": 60,
+        "AnswerExplanation": "<p>ISO (International Standards Organization), fotoğraf filmlerinde ışığa olan duyarlılık derecesini belirleyen uluslararası standart ölçüm sistemidir. Dijital fotoğraf makinalarında da algılayıcının ışığa karşı hassasiyeti bulunur. Bu da aynı filmlerde ol­duğu gibi ISO terimiyle ifade edilir.</p>",
+        "Title": "",
+        "Text": "<p>ISO değerinin anlamı aşağıdaki ifadelerden hangisidir?</p>",
+        "A": "<p>Işık yoğunluğu.</p>",
+        "B": "<p>Pozlama süresi.</p>",
+        "C": "<p>Filmin ışığa karşı duyarlılığı.</p>",
+        "D": "<p>Objektiften geçen ışık miktarı.</p>",
+        "E": "<p>Işık ölçerin hesapladığı f / değeri.</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 10
+    },
+    {
+        "QuestionId": 3351012,
+        "UniteNo": 3,
+        "PageNumber": 71,
+        "AnswerExplanation": "<p>Yanal aydınlatma konunun üç boyutluluğunu, derinliğini ve kontrastını arttırmak amacıyla sıklıkla kullanılır. Fotoğrafta dramatik bir etki de sağlayan yanal ışık daha üç boyutlu bir perspektiften çekimi yapılan konuyu arka plandan ayırır.</p>",
+        "Title": "",
+        "Text": "<p><strong>Aşağıdaki ifadelerden hangisi konunun üç boyutluluğunu, derinliğini ve kontrastını arttırmak amacıyla kullanılan aydınlatma türüdür?</strong></p>  ",
+        "A": "<p>Cephe aydınlatma.</p> ",
+        "B": "<p>Yanal aydınlatma.</p> ",
+        "C": "<p>Alt aydınlatma.</p> ",
+        "D": "<p>Tepe aydınlatma.</p> ",
+        "E": "<p>Noktasal aydınlatma.</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null,
+        "QuestionNumber": 15
+    },
+    {
+        "QuestionId": 3351015,
+        "UniteNo": 3,
+        "PageNumber": 57,
+        "AnswerExplanation": "<p>Fotoğraf çekiminde konu üzerine düşen, konudan yansıyan ve ortamdaki ışığın özellikleri, ISO değerleri, beyaz ayarı gibi pek çok etken pozlama üzerinde doğrudan etkilidir. Ancak pozlamayı temel olarak üç etken belirler: Diyafram açıklığı, Enstantane süresi ve ISO değerleri.</p>",
+        "Title": "<p>Fotoğrafı Çekmek: Pozlama</p>",
+        "Text": "<p>I-Diyafram açıklığı</p> <p>II-Enstantane süresi</p> <p>III-ISO</p> <p>IV-Netlik</p> <p>V-Işık ölçümü</p> <p>Yukarıdakilerden hangileri pozlamayı belirleyen üç temel etkendir?</p>",
+        "A": "<p>I-II-III</p>",
+        "B": "<p>I-III-IV</p>",
+        "C": "<p>II-III-IV</p>",
+        "D": "<p>II-IV-V</p>",
+        "E": "<p>III-IV-V</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 16
+    },
+    {
+        "QuestionId": 3350999,
+        "UniteNo": 3,
+        "PageNumber": 62,
+        "AnswerExplanation": "<p>Fotoğraf çekiminde bulunulan ortamın ışık değerlerinin doğru ölçülerek uygun diyafram ve enstantane ayarlarının yapılması için dijital fotoğraf makinelerinde birtakım ölçüm yönetim modları bulunmaktadır. Bu ölçüm yönetim modlarını altı ana başlık altında toplayabiliriz.<br />1. Ortalama Ölçüm: Bu ölçüm metodu kadraj alanından algılanan ışık değerlerinin tümüyle okunarak ortalama bir değer bulunması yoluyla gerçekleşir. Işığın her bölge açısından eşit dağılmadığı durumlarda yanlış sonuçlar verebilmektedir. Çoğunlukla manzara ve topluluk fotoğrafları için kullanılmaktadır.<br />2. Merkez Ağırlıklı Ortalama Ölçüm: Bu ölçümde kadraj alanının özellikle orta bölümlerinden gelen ışık değerlendirilerek bir ortalama alınır ve pozlama değeri atanmaktadır. Çoğunlukla portre çekimlerinde kullanılmaktadır.<br />3. Kısmen Ölçüm: Bu ölçüm ağırlıklı olarak kadraj alanının merkezi ve etrafındaki yüzde 10-15’lik bölümünden gelen ışığı okuyarak pozlama değerini bulur. Çoğunlukla konunun arkası ve kenarlarından fazla ışık geldiği ya da karanlığın bulunduğu durumlarda kullanılmaktadır.<br />4. Noktasal Ölçüm: Spot ölçüm olarak da bilinen bu yöntemde kadraj üzerinde odak noktası çevresindeki bir daire ya da dikdörtgen ile belirlenen ve görüntünün küçük bir kısmından yansıyan ışığın ölçülerek pozlama<br />değerinin bulunur. Yalnızca belirlenen bu küçük kısımdan ışık ölçümü gerçekleştirilir. Fotoğraf makinesi noktasal olarak belirlenen bu sınırların dışındaki ışık miktarını değerlendirmeye alınmaz. Çoğunlukla uzakta<br />kalan bir konunun ya da yüksek kontrastlı fotoğrafların çekiminde kullanılmaktadır.<br />5. Çoklu Nokta Ölçüm: Bu ölçümde kadraj üzerinde birden fazla bölgeden noktasal olarak ışık yoğunluğu ölçülür ve bunların ortalaması alınarak pozlama değeri bulunur. Fotoğraf çekiminde noktasal olarak bir<br />den fazla alanın ışık yoğunluğunun önemli olduğu durumlarda kullanılmaktadır.<br />6. Genel Değerlendirmeli Matrix Ölçüm: Bu ölçümde kadrajın çeşitli alanlarından gelen<br />ışık değerlerinin her birinin önemiyle ilişkili olarak en uygun pozlama değeri bulunur. Ayrıca tüm alanlardan gelen ışık değerleri belirlendikten sonra odaklanılan noktanın ölçümleri de yapılır ve pozlama bu değişkenlere göre belirlenir.</p>",
+        "Title": "<p>FOTOĞRAFI ÇEKMEK: POZLAMA</p>",
+        "Text": "Fotoğraf çekiminde bulunulan ortamın ışık değerlerinin doğru ölçülerek uygun diyafram ve enstantane ayarlarının yapılması için dijital fotoğraf makinelerinde birtakım ölçüm yönetim modları bulunmaktadır. Bu ölçüm yönetim modlarını kaç ana başlık altında toplayabiliriz?",
+        "A": "<p>2</p>",
+        "B": "<p>3</p>",
+        "C": "<p>4</p>",
+        "D": "<p>5</p>",
+        "E": "<p>6</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 5
     }
 ]

@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Marco Polo"
+        "Aciklama": "<span>Büyük kâşif <strong>Marco Polo</strong> 1295 yılında Çin seyahati sonrasında İtalya’ya döndüğünde doğunun baskı teknolojisini de beraberinde getirmiştir. </span>"
     },
     {
         "SoruID": 3234952,
@@ -77,15 +77,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1390"
+        "Aciklama": "<span>Avrupa’da ise <strong>ahşap kalıp baskı 1390’</strong>da kâğıt üretiminin sonrasında başladığı bilinmektedir.</span>"
     },
     {
         "SoruID": 3234953,
-        "SoruMetni": "Avrupa’da ahşap kalıp baskı <strong>hangi ürünün üretilmesiyle</strong> başlamıştır?<br/><br/>",
-        "A": "Papirüs<br/><br/>",
-        "B": "Demir<br/><br/>",
-        "C": "Parşömen<br/><br/>",
-        "D": "Muşamba<br/><br/>",
+        "SoruMetni": "Avrupa’da ahşap kalıp baskı <strong>hangi ürünün üretilmesiyle</strong> başlamıştır?",
+        "A": "Papirüs",
+        "B": "Demir",
+        "C": "Parşömen",
+        "D": "Muşamba",
         "E": "Kâğıt",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -97,15 +97,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kâğıt"
+        "Aciklama": "<span>Avrupa’da ise ahşap kalıp baskı 1390’da <strong>kâğıt üretiminin sonrasında başladığı</strong> bilinmektedir. </span>"
     },
     {
         "SoruID": 3234954,
         "SoruMetni": "Avrupa’da 14. yüzyılda uygulanmaya başlanan ahşap blok baskının ilk örneklerinden birinin 1418 yılında basılan <strong>temanın konusu </strong>aşağıdakilerden hangisidir?",
-        "A": "Oyun kartları <br/><br/>",
-        "B": "Kâşifin erdemli yolculuğu<br/><br/>",
-        "C": "İsa nın Çarmıha gerilişi<br/><br/>",
-        "D": "Dört Azizli Bakire ve Çocuk<br/><br/>",
+        "A": "Oyun kartları",
+        "B": "Kâşifin erdemli yolculuğu",
+        "C": "İsa nın Çarmıha gerilişi",
+        "D": "Dört Azizli Bakire ve Çocuk",
         "E": "Savaş makbuzları",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -117,15 +117,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dört Azizli Bakire ve Çocuk"
+        "Aciklama": "<span>Avrupa’da 14. yüzyılda uygulanmaya başlanan ahşap </span><span>blok baskı</span><span>nın ilk örneklerinden birinin<br/>1418 yılında basılan <strong>“Dört Azizli Bakire ve Çocuk” </strong>olduğu bilinmektedir.</span>"
     },
     {
         "SoruID": 3234955,
         "SoruMetni": "Mürekkebi kumaş veya kâğıda aktarmak için ahşap kauçuk malzeme vb. malzemelere oyulmuş bir kabartma baskı aşağıdakilerden hangisidir?",
-        "A": "Blok Baskı<br/><br/>",
-        "B": "Linol Baskı<br/><br/>",
-        "C": "Serigraf Baskı<br/><br/>",
-        "D": "Gofre Baskı<br/><br/>",
+        "A": "Blok Baskı",
+        "B": "Linol Baskı",
+        "C": "Serigraf Baskı",
+        "D": "Gofre Baskı",
         "E": "Ofset Baskı",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -137,15 +137,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><strong>Blok baskı,</strong> mürekkebi kumaş veya kağıda aktarmak için ahşap kauçuk malzeme vb. malzemelere oyulmuş bir kabartma baskı tekniğidir. Blok, bir tür damga görevi görür ve nihai ürün, oymacılığın ayna görüntüsüdür.</span>"
+        "Aciklama": "<span><strong>Blok baskı,</strong> mürekkebi kumaş veya kağıda aktarmak için ahşap kauçuk malzeme vb. malzemelere oyulmuş bir kabartma baskı tekniğidir. Blok, bir tür damga görevi görür ve nihai ürün, oymacılığın ayna görüntüsüdür.</span>"
     },
     {
         "SoruID": 3234956,
         "SoruMetni": "Gutenberg’in 1452-1454 yılları arasında yaşadığı Mainz’de Latince olarak bastığı en önemli kitaplardan biri aşağıdakilerden hangisidir?",
-        "A": "Dört Azizli Bakire ve Çocuk<br/><br/>",
-        "B": "Biblia Latina<br/><br/>",
-        "C": "Sibylline şiirleri<br/><br/>",
-        "D": "Kıbrıs kralı bağış makbuzları<br/><br/>",
+        "A": "Dört Azizli Bakire ve Çocuk",
+        "B": "Biblia Latina",
+        "C": "Sibylline şiirleri",
+        "D": "Kıbrıs kralı bağış makbuzları",
         "E": "Bizans Krallık savaşları",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -157,15 +157,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biblia Latina"
+        "Aciklama": "<span>Gutenberg’in 1452-1454 yılları arasında yaşadığı Mainz’de Latince olarak bastığı en önemli kitaplardan biri Gutenberg İncili olarak da bilinen<strong> “Biblia Latina”</strong> idi.</span>"
     },
     {
         "SoruID": 3234957,
         "SoruMetni": "1998 yılında son bin yılın en önemli kişiliği milenyumun en önemli olaylarından biri seçilen aşağıdakilerden hangisidir?",
-        "A": "Marco Polo ve Dünya Seyahati<br/><br/>",
-        "B": "Albert Dürer ve Monogram imzası<br/><br/>",
-        "C": "Peter Schoeffer ve kırk iki satırlık İncil kitabı<br/><br/>",
-        "D": "Aldus Manutius ve İtalik yazı tipini içeren ilk kitap Virgil Operası <br/><br/>",
+        "A": "Marco Polo ve Dünya Seyahati",
+        "B": "Albert Dürer ve Monogram imzası",
+        "C": "Peter Schoeffer ve kırk iki satırlık İncil kitabı",
+        "D": "Aldus Manutius ve İtalik yazı tipini içeren ilk kitap Virgil Operası",
         "E": "Gutenberg ve matbaa icadı",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gutenberg ve matbaa icadı"
+        "Aciklama": "<span>Gutenberg’in icadı <strong>milenyumun en önemli olaylarından biriyd</strong>i ve 1998 yılında <strong>son bin yılın en</strong><br/><strong>önemli kişiliği</strong> seçilmiştir.</span><br>Gutenberg ve matbaa icadı"
     },
     {
         "SoruID": 3234958,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kuyumculuk"
+        "Aciklama": "<span>On beşinci yüzyılda geliştirilen<strong> gravür,</strong> ilk başta geleneksel olarak <strong>kuyumculuk sanatının bir dalı</strong><br/>olarak görülüyordu.</span>"
     },
     {
         "SoruID": 3234959,
@@ -217,15 +217,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2"
+        "Aciklama": "<span><strong>Incunabula’lar,</strong> </span><br/><span><em><strong>1-Ksilografik</strong></em> (tüm sayfaların tek tek yontulması ile) ve </span><br/><span><em><strong>2-Tipografik</strong></em> (Johann Gutenberg </span><span>hareketli matbaasında yazı ile) olarak iki farklı türde üretilmişlerdir.</span>"
     },
     {
         "SoruID": 3234960,
         "SoruMetni": "Dönemin matbaacıları tarafından söylenen <strong>“Şüpheye düştüğünüzde şu yazı dökümcüsünün yazı karakterini kullanın”</strong> özdeyişi aşağıdakilerden hangisine aittir?",
-        "A": "Johann Michael Fleischmann<br/><br/>",
-        "B": "Nicolas Jaugeon<br/><br/>",
-        "C": "John Baskerville<br/><br/>",
-        "D": "William Caslon<br/><br/>",
+        "A": "Johann Michael Fleischmann",
+        "B": "Nicolas Jaugeon",
+        "C": "John Baskerville",
+        "D": "William Caslon",
         "E": "Pierre-Simon Fournier",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "William Caslon"
+        "Aciklama": "<span>Caslon yazıyüzünü geliştirmiştir. <strong>“Şüpheye düştüğünüzde Caslon kullanın”</strong> özdeyişi matbaacılar arasında günümüze kadar gelmiştir.</span><br>William Caslon"
     },
     {
         "SoruID": 3234971,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Avrupa’da ise ahşap kalıp baskı 1390’da kâğıt üretiminin sonrasında başladığı bilinmektedir."
+        "Aciklama": "Yanıtınız yanlış ise \"Avrupa’da Erken Dönem Blok Baskı\" başlıklı yazıyı gözden geçiriniz.<br>Avrupa’da ise ahşap kalıp baskı 1390’da kâğıt üretiminin sonrasında başladığı bilinmektedir."
     },
     {
         "SoruID": 3234972,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1440 yılında tipografinin bulunuşu ile yazı ve resim birbirinden ayrılmış blok kitapların oluşturulmasında metin ve resim arasındaki ilişki yer değiştirmiştir."
+        "Aciklama": "Yanıtınız yanlış ise \"Avrupa’da Erken Dönem Blok Baskı\" başlıklı yazıyı gözden geçiriniz.<br>1440 yılında tipografinin bulunuşu ile yazı ve resim birbirinden ayrılmış blok kitapların oluşturulmasında metin ve resim arasındaki ilişki yer değiştirmiştir."
     },
     {
         "SoruID": 3234974,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Blok baskı, mürekkebi kumaş veya kağıda aktarmak için ahşap kauçuk malzeme vb. malzemelere oyulmuş bir kabartma baskı tekniğidir. Blok, bir tür damga görevi görür ve nihai ürün, oymacılığın ayna görüntüsüdür."
+        "Aciklama": "Yanıtınız yanlış ise \"Avrupa’da Erken Dönem Blok Baskı\" başlıklı yazıyı gözden geçiriniz.<br>Blok baskı, mürekkebi kumaş veya kağıda aktarmak için ahşap kauçuk malzeme vb. malzemelere oyulmuş bir kabartma baskı tekniğidir. Blok, bir tür damga görevi görür ve nihai ürün, oymacılığın ayna görüntüsüdür."
     },
     {
         "SoruID": 3234977,
@@ -317,11 +317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Almanya’da bilinen en eski basım örneği bir Sibylline şiirinin basıldığı bir kitap yaprağıdır. Bu eser, latin dilbilgisi ve astronomik bir takvim ile muhtemelen Gutenberg’in Mainz atölyesinde 1444-1447 yılları arasında deneysel olarak basılmıştır."
+        "Aciklama": "Yanıtınız yanlış ise \"Avrupa’da Yazı Basım Teknikleri\" başlıklı yazıyı gözden geçiriniz.<br>Almanya’da bilinen en eski basım örneği bir Sibylline şiirinin basıldığı bir kitap yaprağıdır. Bu eser, latin dilbilgisi ve astronomik bir takvim ile muhtemelen Gutenberg’in Mainz atölyesinde 1444-1447 yılları arasında deneysel olarak basılmıştır."
     },
     {
         "SoruID": 3234980,
-        "SoruMetni": "\"El Presi\" olarak adlandırılan ve çalıştırma kolu elle yatay olarak çekildiğinde, vidalar aracılığıyla forma dikey kuvvet uygulanacak şekilde tasarlanan baskı makinası aşağıdakilerden hangisine aittir?",
+        "SoruMetni": "\"El Presi\" olarak adlandırılan ve çalıştırma kolu elle yatay olarak çekildiğinde, vidalar aracılığıyla forma dikey kuvvet uygulanacak şekilde tasarlanan baskı makinası aşağıdakilerden hangisine aittir?",
         "A": "Aldus Manutius.",
         "B": "Paolo Olbi.",
         "C": "Giovanni Pico.",
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gutenberg’in baskı makinesini üzüm presinin geliştirilmiş olduğu yaygın bir bilgidir. “El presi” olarak adlandırılan bu baskı makinesi, çalıştırma kolu elle yatay olarak çekildiğinde, vidalar aracılığıyla forma dikey kuvvet uygulanacak şekilde tasarlanmıştır."
+        "Aciklama": "Yanıtınız yanlış ise \"GUTENBERG MATBAASININ GELİŞİMİ\" başlıklı yazıyı gözden geçiriniz.<br>Gutenberg’in baskı makinesini üzüm presinin geliştirilmiş olduğu yaygın bir bilgidir. “El presi” olarak adlandırılan bu baskı makinesi, çalıştırma kolu elle yatay olarak çekildiğinde, vidalar aracılığıyla forma dikey kuvvet uygulanacak şekilde tasarlanmıştır."
     },
     {
         "SoruID": 3234985,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Aldus Manutius: Rönesansın bu potansiyelinden ilham alarak bir yayınevi olan Aldine Press’i kurdu. 1495’te ilk kitabı olan Constantine Lascaris tarafından yazılmış Erotemata’yı bastı."
+        "Aciklama": "Yanıtınız yanlış ise \"Aldus Manutius\" başlıklı yazıyı gözden geçiriniz.<br>Aldus Manutius: Rönesansın bu potansiyelinden ilham alarak bir yayınevi olan Aldine Press’i kurdu. 1495’te ilk kitabı olan Constantine Lascaris tarafından yazılmış Erotemata’yı bastı."
     },
     {
         "SoruID": 3234988,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Augsburglu matbaacı Günther Zainer, hareketli matbaacılık tarihinde ilk resimli İncil’i üretmiştir."
+        "Aciklama": "Yanıtınız yanlış ise \"Alman Resimli Kitabı\" başlıklı yazıyı gözden geçiriniz.<br>Augsburglu matbaacı Günther Zainer, hareketli matbaacılık tarihinde ilk resimli İncil’i üretmiştir."
     },
     {
         "SoruID": 3234996,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kolofon (Colophon) eskiden kitabın sonuna konan ve başlığı, basımcının adını ve tarihini gösteren yazı; yayınevinin amblemi."
+        "Aciklama": "Yanıtınız yanlış ise \"Alman Resimli Kitabı\" başlıklı yazıyı gözden geçiriniz.<br>Kolofon (Colophon) eskiden kitabın sonuna konan ve başlığı, basımcının adını ve tarihini gösteren yazı; yayınevinin amblemi."
     },
     {
         "SoruID": 3234997,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1 Nisan 1486’da Alman matbaacı Erhard Ratdolt, Venedik’teki matbaasından muhtemelen bilinen en eski yazıyüzü numune kitabını yayınlamıştır. Numune kitabının kalan tek kopyası München’deki Bayerische Staatsbibliothek’te korunmaktadır."
+        "Aciklama": "Yanıtınız yanlış ise \"RÖNESANS DÖNEMİNDE GRAFİK TASARIM\" başlıklı yazıyı gözden geçiriniz.<br>1 Nisan 1486’da Alman matbaacı Erhard Ratdolt, Venedik’teki matbaasından muhtemelen bilinen en eski yazıyüzü numune kitabını yayınlamıştır. Numune kitabının kalan tek kopyası München’deki Bayerische Staatsbibliothek’te korunmaktadır."
     },
     {
         "SoruID": 3235001,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İngiltere’de yazı tipi etkisinin kurulması William Caslon tarafından neredeyse tek başına sağlanmıştır. Üstün gravür becerisi ile kitap kapakları ve birçok değerli çalışmalar üretmiş, 1720’de kendi tip dökümhanesini kurmuştur."
+        "Aciklama": "Yanıtınız yanlış ise \"Tipografi Çağı ve Öncüleri\" başlıklı yazıyı gözden geçiriniz.<br>İngiltere’de yazı tipi etkisinin kurulması William Caslon tarafından neredeyse tek başına sağlanmıştır. Üstün gravür becerisi ile kitap kapakları ve birçok değerli çalışmalar üretmiş, 1720’de kendi tip dökümhanesini kurmuştur."
     },
     {
         "SoruID": 3235015,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fransız Kralı Louis XIV 1692 yılında Impri\u0002merie Royale (kraliyet matbaası) için yeni bir yazı tipi geliştirmesini ve yazıyüzünün bilimsel kaideler ile tasarlanmasını emretmiştir. Matematikçi Nico\u0002las Jaugeon başkanlığında, akademisyenler geçmiş tüm harf setleri incelemiştir. Yalnızca kraliyetin kullanımı için tasarlanan Romain du Roi karakteri  ilk matematiksel olarak tanımlanmış yazıyüzüdür. Doğru cevap E'dir."
+        "Aciklama": "Fransız Kralı Louis XIV 1692 yılında Impri\u0002merie Royale (kraliyet matbaası) için yeni bir yazı tipi geliştirmesini ve yazıyüzünün bilimsel kaideler ile tasarlanmasını emretmiştir. Matematikçi Nico\u0002las Jaugeon başkanlığında, akademisyenler geçmiş tüm harf setleri incelemiştir. Yalnızca kraliyetin kullanımı için tasarlanan Romain du Roi karakteri ilk matematiksel olarak tanımlanmış yazıyüzüdür. Doğru cevap E'dir."
     },
     {
         "SoruID": 3235118,
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1917’de Bruce Rogers tarafından yeniden keşfedilen Baskerville, 1919’da Harvard Üniversitesi yayınları için lisanslanmıştır. Doğru cevap  D'dir."
+        "Aciklama": "1917’de Bruce Rogers tarafından yeniden keşfedilen Baskerville, 1919’da Harvard Üniversitesi yayınları için lisanslanmıştır. Doğru cevap D'dir."
     },
     {
         "SoruID": 3235149,

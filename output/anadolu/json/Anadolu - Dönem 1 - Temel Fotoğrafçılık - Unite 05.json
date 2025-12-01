@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Makinenin film taşıma magazinlerinden biri­ne takılan polaroid film ile reklam fotoğrafı çekim aşamasında ışığın, kompozisyonun, sahnenin son kontrollerini yapabilmek dijital teknoloji öncesin­de sadece Roll film olarak adlandırılan 120 kodlu filmi kullanan fotoğraf  makineleri ile mümkündür."
+        "Aciklama": "Makinenin film taşıma magazinlerinden biri­ne takılan polaroid film ile reklam fotoğrafı çekim aşamasında ışığın, kompozisyonun, sahnenin son kontrollerini yapabilmek dijital teknoloji öncesin­de sadece Roll film olarak adlandırılan 120 kodlu filmi kullanan fotoğraf makineleri ile mümkündür."
     },
     {
         "SoruID": 3351134,
@@ -178,6 +178,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Fotoğraf yakın çağda âdeta vazgeçilmez bir konuma ulaşmıştır. Reklamdan habere, bilimsel araştırmalardan, sanata ve propagandaya kadar hayatın neredeyse her alanında çok yaygın şekilde kullanılıyor olmasının pek çok nedeni vardır. İlk akla gelen birkaç neden olarak; yazılı ve sözel dil­lerdeki sınırlıkların fotoğraf görsel dilinde bulun­maması (fotoğrafın evrensel bir dile sahip olması), fotoğrafik görüntünün “gerçeğin bir izi” olarak ka­bul edilmesi nedeniyle ikna ve inandırıcılıkta çok önemli avantajlara sahip olması, teknolojik geliş­melerle de desteklenmesinden sonra günümüzde fotoğraf üretmenin, paylaşmanın ve tüketmenin hemen hemen herkesin kolaylıkla yapabiliyor ol­ması sayılabilir."
+    },
+    {
+        "SoruID": 3351139,
+        "SoruMetni": "Analog bir fotoğraf makinesi için satın alınan 36 karelik bir film ile yapılabilecek çekim sayısı <u>en fazla</u> ne kadardır?",
+        "A": "6",
+        "B": "26",
+        "C": "36",
+        "D": "46",
+        "E": "56",
+        "DogruCevap": "C",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 5,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.449223",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Analog makine ile filmin poz sayısı ile sınırlı çekim yapılabilirken dijitalde kartın ve pilin izin verdiği oranda sınırsız çekim yapılabilir."
     },
     {
         "SoruID": 3351140,
@@ -321,7 +341,7 @@
     },
     {
         "SoruID": 3351147,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Analog makine ile filmin poz sayısı ile sınırlı çekim yapılabilirken dijitalde kartın ve pilin izin verdiği oranda sınırsız çekim yapılabilir.</li> <li>Analog makinaya takılan filmin ISO değeri çekimden çekime değiştirilemezken dijital makinede ISO çekimden çekime değiştirilebilir.</li> <li>Dijital makine ile çekimden hemen sonra fotoğrafın ekrandan kontrolü mümkündür.</li> <li>                       Her ne kadar dijital fotoğraf makineleri ile anlatılan süreç bir ölçüde değişime uğramış olsa da hala fotoğraf çekmek için bir karanlık kutu ve ışığa ihtiyaç vardır.<br/> Yukarıda verilen bilgilerden hangileri doğrudur?<br/>            </li> </ol>",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Analog makine ile filmin poz sayısı ile sınırlı çekim yapılabilirken dijitalde kartın ve pilin izin verdiği oranda sınırsız çekim yapılabilir.</li> <li>Analog makinaya takılan filmin ISO değeri çekimden çekime değiştirilemezken dijital makinede ISO çekimden çekime değiştirilebilir.</li> <li>Dijital makine ile çekimden hemen sonra fotoğrafın ekrandan kontrolü mümkündür.</li> <li> Her ne kadar dijital fotoğraf makineleri ile anlatılan süreç bir ölçüde değişime uğramış olsa da hala fotoğraf çekmek için bir karanlık kutu ve ışığa ihtiyaç vardır.<br/>Yukarıda verilen bilgilerden hangileri doğrudur?<br/></li> </ol>",
         "A": "I ve II",
         "B": "I ve III",
         "C": "I, III ve IV",
@@ -337,11 +357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<ul> <li>Analog makine ile filmin poz sayısı ile sınırlı çekim yapılabilirken dijitalde kartın ve pilin izin verdiği oranda sınırsız çekim yapılabilir.</li> <li>Analog makinaya takılan filmin ISO değeri çekimden çekime değiştirilemezken dijital makinede ISO çekimden çekime değiştirilebilir.</li> <li>Dijital makine ile çekimden hemen sonra fotoğrafın ekrandan kontrolü mümkündür.</li> <li>                       Her ne kadar dijital fotoğraf makineleri ile anlatılan süreç bir ölçüde değişime uğramış olsa da hala fotoğraf çekmek için bir karanlık kutu ve ışığa ihtiyaç vardır.<br/>            </li> </ul>"
+        "Aciklama": "<ul> <li>Analog makine ile filmin poz sayısı ile sınırlı çekim yapılabilirken dijitalde kartın ve pilin izin verdiği oranda sınırsız çekim yapılabilir.</li> <li>Analog makinaya takılan filmin ISO değeri çekimden çekime değiştirilemezken dijital makinede ISO çekimden çekime değiştirilebilir.</li> <li>Dijital makine ile çekimden hemen sonra fotoğrafın ekrandan kontrolü mümkündür.</li> <li> Her ne kadar dijital fotoğraf makineleri ile anlatılan süreç bir ölçüde değişime uğramış olsa da hala fotoğraf çekmek için bir karanlık kutu ve ışığa ihtiyaç vardır.<br/></li> </ul>"
     },
     {
         "SoruID": 3351148,
-        "SoruMetni": "Hangileri kullandıkları film formatlarına göre sınıflandırılmış makinelerdir?<br/>         <ol style=\"list-style-type: upper-roman;\"> <li>Küçük Format Film Kullanan (Minyatür Boy)</li> <li>Fotoğraf Makineleri APS Film Kullanan Fotoğraf Makineleri  </li> <li>35mm Film Kullanan (Leica Format) Fotoğraf Makineleri</li> <li>Orta Format (Roll) Film Kullanan Fotoğraf Makineleri  </li> <li>Büyük Format (Tabaka) Film Kullanan Fotoğraf Makineleri</li> </ol>",
+        "SoruMetni": "Hangileri kullandıkları film formatlarına göre sınıflandırılmış makinelerdir?<br/><ol style=\"list-style-type: upper-roman;\"> <li>Küçük Format Film Kullanan (Minyatür Boy)</li> <li>Fotoğraf Makineleri APS Film Kullanan Fotoğraf Makineleri </li> <li>35mm Film Kullanan (Leica Format) Fotoğraf Makineleri</li> <li>Orta Format (Roll) Film Kullanan Fotoğraf Makineleri </li> <li>Büyük Format (Tabaka) Film Kullanan Fotoğraf Makineleri</li> </ol>",
         "A": "I, II, III, IV ve V",
         "B": "II, III, IV ve V",
         "C": "III, IV ve V",
@@ -357,7 +377,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<ul> <li>Küçük Format Film Kullanan (Minyatür Boy)</li> <li>Fotoğraf Makineleri APS Film Kullanan Fotoğraf Makineleri  </li> <li>35mm Film Kullanan (Leica Format) Fotoğraf Makineleri</li> <li>Orta Format (Roll) Film Kullanan Fotoğraf Makineleri  </li> <li>Büyük Format (Tabaka) Film Kullanan Fotoğraf Makineleri</li> </ul>"
+        "Aciklama": "<ul> <li>Küçük Format Film Kullanan (Minyatür Boy)</li> <li>Fotoğraf Makineleri APS Film Kullanan Fotoğraf Makineleri </li> <li>35mm Film Kullanan (Leica Format) Fotoğraf Makineleri</li> <li>Orta Format (Roll) Film Kullanan Fotoğraf Makineleri </li> <li>Büyük Format (Tabaka) Film Kullanan Fotoğraf Makineleri</li> </ul>"
+    },
+    {
+        "SoruID": 3351149,
+        "SoruMetni": "Hangisi bakaç Sistemlerine göre sınıflandırılmış fotoğraf makinelerindendir?",
+        "A": "Küçük Format Film Kullanan (Minyatür Boy",
+        "B": "Fotoğraf Makineleri APS Film Kullanan Fotoğraf Makineleri",
+        "C": "35mm Film Kullanan (Leica Format) Fotoğraf Makineleri",
+        "D": "Büyük Format (Tabaka) Film Kullanan Fotoğraf Makineleri",
+        "E": "SLR Tek Objektifli Yansıtmalı Fotoğraf Makineleri",
+        "DogruCevap": "E",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 5,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.425105",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "SLR Tek Objektifli Yansıtmalı Fotoğraf Makineleri<br/>Objektiften geçen görüntünün objektif eksenine 45° ile makine içine yerleştirilmiş olan ayna yardımıyla önce bakaç üzerinde makinanın üst kısmında yer alan prizmaya, oradan da düzeltilerek gözümüze ulaştırıldığı bakaç sistemine sahip makinelere tek objektifli yansıtmalı (Single Lens Refleks) makineler denir."
     },
     {
         "SoruID": 3351150,
@@ -381,7 +421,7 @@
     },
     {
         "SoruID": 3351151,
-        "SoruMetni": "Hangileri özel amaçlı fotoğraf makineleridir?<br/>         <ol style=\"list-style-type: upper-roman;\"> <li>İğne Deliği Fotoğraf Makineleri</li> <li>Poloroid Fotoğraf Makineleri</li> <li>Stereoskopic Fotoğraf Makineleri</li> <li>Panoramik Fotoğraf Makineleri</li> </ol>",
+        "SoruMetni": "Hangileri özel amaçlı fotoğraf makineleridir?<br/><ol style=\"list-style-type: upper-roman;\"> <li>İğne Deliği Fotoğraf Makineleri</li> <li>Poloroid Fotoğraf Makineleri</li> <li>Stereoskopic Fotoğraf Makineleri</li> <li>Panoramik Fotoğraf Makineleri</li> </ol>",
         "A": "I, II, III ve IV",
         "B": "III ve IV",
         "C": "I ve IV",
@@ -398,6 +438,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Hepsi özel amaçlıdır"
+    },
+    {
+        "SoruID": 3351152,
+        "SoruMetni": "El ile üretilmiş fotoğraf makinesi gövdesi (camera obscura) içine film veya kart yerleştirilerek yapılan çekimler için kullanılan kameraya ne ad verilir?",
+        "A": "İğne Deliği Fotoğraf Makineleri",
+        "B": "Poloroid Fotoğraf Makineleri",
+        "C": "Stereoskopic Fotoğraf Makineleri",
+        "D": "Panoramik Fotoğraf Makineleri",
+        "E": "TRL Çift Objektifli Yansıtmalı Fotoğraf Makineleri",
+        "DogruCevap": "A",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 5,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.563218",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İğne deliği (pinhole) fotoğrafçılık olarak ad- landırılan alanda el ile üretilmiş fotoğraf makinesi gövdesi (camera obscura) içine film veya kart yer- leştirilerek yapılan çekimler için kullanılan kameralardır."
     },
     {
         "SoruID": 3351153,
@@ -441,12 +501,12 @@
     },
     {
         "SoruID": 3351155,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Fotoğraf çekiminden hemen sonra çekilen görüntünün kart baskısını veren özel makinelere ne ad verilir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Fotoğraf çekiminden hemen sonra çekilen görüntünün kart baskısını veren özel makinelere ne ad verilir?",
         "A": "İğne Deliği Fotoğraf Makineleri",
         "B": "Poloroid Fotoğraf Makineleri",
         "C": "Stereoskopic Fotoğraf Makineleri",
         "D": "Panoramik Fotoğraf Makineleri",
-        "E": "<br/> <br/> <br/> <br/>SLR Tek Objektifli Yansıtmalı Fotoğraf Makineleri<br/><br/><br/><br/>",
+        "E": "<br/>SLR Tek Objektifli Yansıtmalı Fotoğraf Makineleri",
         "DogruCevap": "B",
         "DersAd": "Temel Fotoğrafçılık",
         "Unite": 5,
@@ -457,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Polaroid film kullanan makinelerin genel adı polaroid fotoğraf makinesidir. Fotoğraf çekiminden hemen sonra çekilen görüntün kart baskısını veren özel makinelerdir. Görüntüyü hemen çekim sonrası görme şansının yanı sıra bu makineleri en önemli özelliklerinden biri de çekilen görüntünün tek örnek olması ve çoğaltılamamasıdır.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Polaroid film kullanan makinelerin genel adı polaroid fotoğraf makinesidir. Fotoğraf çekiminden hemen sonra çekilen görüntün kart baskısını veren özel makinelerdir. Görüntüyü hemen çekim sonrası görme şansının yanı sıra bu makineleri en önemli özelliklerinden biri de çekilen görüntünün tek örnek olması ve çoğaltılamamasıdır."
     },
     {
         "SoruID": 3351156,
@@ -501,7 +561,7 @@
     },
     {
         "SoruID": 3351158,
-        "SoruMetni": "I. Fiyatları daha ucuzdur<br/> II. Filmle çalışır<br/> III. Çekilen fotoğrafı anında görebilmek mümkün değildir<br/> Yukarıdaki maddelerden hangisi ya da hangileri analog fotoğraf makinesini dijital fotoğraf makinesinden ayıran özellikler arasındadır?",
+        "SoruMetni": "I. Fiyatları daha ucuzdur<br/>II. Filmle çalışır<br/>III. Çekilen fotoğrafı anında görebilmek mümkün değildir<br/>Yukarıdaki maddelerden hangisi ya da hangileri analog fotoğraf makinesini dijital fotoğraf makinesinden ayıran özellikler arasındadır?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -541,7 +601,7 @@
     },
     {
         "SoruID": 3351160,
-        "SoruMetni": "I. Işık<br/> II. Karanlık kutu<br/> III. Işığa duyarlı bir yüzey<br/> IV. Fotoğrafçı<br/> Yukarıdaki maddelerden hangileri fotoğraftan söz edilmesi için gerekli etmenler arasında yer alır?",
+        "SoruMetni": "I. Işık<br/>II. Karanlık kutu<br/>III. Işığa duyarlı bir yüzey<br/>IV. Fotoğrafçı<br/>Yukarıdaki maddelerden hangileri fotoğraftan söz edilmesi için gerekli etmenler arasında yer alır?",
         "A": "I ve II",
         "B": "III ve IV",
         "C": "I, II, III",
@@ -584,7 +644,7 @@
         "SoruMetni": "Şerit film kullanan ve bu nedenle artarda çekim yapabilen makinelerin aksine hangi fotoğraf makinesi türünde her bir film karesi tek tek çekilmek zorundadır?",
         "A": "Küçük Format Film Kullanan Fotoğraf Makineleri",
         "B": "APS Film Kullanan Fotoğraf Makineleri",
-        "C": "35mm Film Kullanan  Fotoğraf Makineleri",
+        "C": "35mm Film Kullanan Fotoğraf Makineleri",
         "D": "Orta Format Film Kullanan Fotoğraf Makineleri",
         "E": "Büyük Format Film Kullanan Fotoğraf Makineleri",
         "DogruCevap": "E",
@@ -660,6 +720,26 @@
         "Aciklama": "Dünya uygarlık tarihindeki en etkili buluşlardan biri olarak nitelenebilecek olan fotoğraf en basit şekilde ışık ile yazmak olarak tanımlanmaktadır. 1839 yılında Fransız Bilimler Akademisinde bulunuşunun ilanından bu yana aradan geçen süre içinde fotoğraf, hem bir sanat hem de bir dalı olarak gelişmiş hem de işlevsel olarak kullanımı artmıştır. Doğru cevap C'dir."
     },
     {
+        "SoruID": 3351166,
+        "SoruMetni": "Günümüzde görüntü kayıt sistemlerine göre fotoğraf makineleri kaç sınıfa ayrılmaktadır?",
+        "A": "Bir",
+        "B": "İki",
+        "C": "Üç",
+        "D": "Dört",
+        "E": "Beş",
+        "DogruCevap": "B",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 5,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.372774",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fotoğraf makinelerine yapılabilecek en önemli sınıflamalardan biri görüntü kayıt sistemlerine göre fotoğraf makineleri ayrımı olarak karşımıza çıkar. Günümüzdeki en önemli ayrımlardan biri olan bu ayrımda iki temel sınıflama yapılmaktadır. İlki dijital fotoğraf makineleri, ikincisi analog fotoğraf makineleri. Doğru cevap B'dir."
+    },
+    {
         "SoruID": 3351167,
         "SoruMetni": "Aşağıdakilerden hangisi doğrudur?",
         "A": "Yıllar içinde büyük değişimler göstermeyen fotoğraf makineleri hayatın her alanında olduğu gibi dijitalleşmenin etkisine uğramamıştır.",
@@ -720,6 +800,26 @@
         "Aciklama": "APS olarak kodlanmış bu formatta “Geliştirilmiş Fotoğraf Sistemi” (Advansed Photo System) kelimelerinin baş harfleri kullanılmıştır. Doğru cevap A'dır."
     },
     {
+        "SoruID": 3351170,
+        "SoruMetni": "Küçük format film kullanan minyatür boy fotoğraf makinesinin en önemli ayırt edici özelliği aşağıdakilerden hangisidir?",
+        "A": "Ağır olmaları",
+        "B": "Hafif olmaları",
+        "C": "Küçük boyutlu ve hafif olmaları",
+        "D": "Küçük boyutlu ve ağır olmaları",
+        "E": "Büyük boyutlu ve hafif olmaları",
+        "DogruCevap": "C",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 5,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.504033",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Küçük format film kullanan minyatür boy fotoğraf makinesinin en önemli ayırt edici özelliği çok küçük boyutlu ve hafif olmalarıdır. Bu format makineler, cebe sığabilecek kadar küçük oldukları için yabancı literatürde “pocket format” olarak da isimlendirilmektedir. Doğru cevap C'dir."
+    },
+    {
         "SoruID": 3351171,
         "SoruMetni": "110’luk adıyla kodlanan filmin görüntü alanı aşağıdakilerden hangisidir?",
         "A": "10x15",
@@ -740,6 +840,26 @@
         "Aciklama": "110’luk adıyla kodlanan filmde görüntü alanı 7x11mm gibi oldukça küçük bir yüzeydir. Doğru cevap B'dir."
     },
     {
+        "SoruID": 3351172,
+        "SoruMetni": "İlk kez Leica firması tarafından kullanılan bir format olması nedeniyle Leica format olarak da adlandırılan nasıl isimlendirilmektedir?",
+        "A": "110 kodlu film",
+        "B": "120 kodlu film",
+        "C": "135 kodlu film",
+        "D": "136 kodlu film",
+        "E": "112 kodlu film",
+        "DogruCevap": "C",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 5,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.383832",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İlk kez Leica firması tarafından kullanılan bir format olması nedeniyle Leica format olarak da adlandırılan bu format aynı zamanda 35mm film veya 135 kodlu film olarak isimlendirilmektedir. Doğru cevap C'dir."
+    },
+    {
         "SoruID": 3351173,
         "SoruMetni": "Bakaç sistemine göre makineleri kaç temel başlık halinde incelemek mümkündür?",
         "A": "Bir",
@@ -757,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bakaç sistemine göre makineleri üç temel başlık hâlinde incelemek mümkündür:<br/> Ayrı BakaçlıFotoğraf Makineleri<br/> SLR Tek Objektifli Yansıtmalı Fotoğraf Makineleri<br/> TRL Çift Objektifli Yansıtmalı Fotoğraf Makineleri<br/> Doğru cevap C'dir."
+        "Aciklama": "Bakaç sistemine göre makineleri üç temel başlık hâlinde incelemek mümkündür:<br/>Ayrı BakaçlıFotoğraf Makineleri<br/>SLR Tek Objektifli Yansıtmalı Fotoğraf Makineleri<br/>TRL Çift Objektifli Yansıtmalı Fotoğraf Makineleri<br/>Doğru cevap C'dir."
     },
     {
         "SoruID": 3351174,
@@ -777,16 +897,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Netlik sistemlerine göre makineleri üç farklı başlıkta inceleyebiliriz:<br/> Netleme Gerektirmeyen Fotoğraf Makineleri<br/> Manuel Netleme Gerektiren Fotoğraf Makineleri<br/> Otomatik Netleme Yapan (AF) Fotoğraf Makineleri<br/> Doğru cevap B'dir."
+        "Aciklama": "Netlik sistemlerine göre makineleri üç farklı başlıkta inceleyebiliriz:<br/>Netleme Gerektirmeyen Fotoğraf Makineleri<br/>Manuel Netleme Gerektiren Fotoğraf Makineleri<br/>Otomatik Netleme Yapan (AF) Fotoğraf Makineleri<br/>Doğru cevap B'dir."
     },
     {
         "SoruID": 3351175,
         "SoruMetni": "Siyah beyaz fotoğraf kartlarının sahip oldukları kontrast değerleri genellikle hangi numaralarla belirtilir?",
         "A": "0-6 arası",
-        "B": "2-4 arası",
-        "C": "5-8 arası",
-        "D": "0-7 arası",
-        "E": "1-6 arası",
+        "B": "2-4 arası",
+        "C": "5-8 arası",
+        "D": "0-7 arası",
+        "E": "1-6 arası",
         "DogruCevap": "A",
         "DersAd": "Temel Fotoğrafçılık",
         "Unite": 5,
@@ -837,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Analog makinaları Dijitallerden ayıran özellikler<br/> Analog makineler Dijitallerden daha ucuzdur.<br/> Analog makinalar için film fiyatları oldukça yüksektir.<br/> 36 kare gibi çekim sayısı sınırlıdır.<br/> Çekilen Fotoğrafı anında görmek mümkün değildir."
+        "Aciklama": "Analog makinaları Dijitallerden ayıran özellikler<br/>Analog makineler Dijitallerden daha ucuzdur.<br/>Analog makinalar için film fiyatları oldukça yüksektir.<br/>36 kare gibi çekim sayısı sınırlıdır.<br/>Çekilen Fotoğrafı anında görmek mümkün değildir."
     },
     {
         "SoruID": 3351178,
@@ -977,7 +1097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Polaroid film kullanan makinelerin genel adı polaroid fotoğraf makinesidir. Fotoğraf çekimin­den hemen sonra çekilen görüntün kart baskısını veren özel makinelerdir. Görüntüyü hemen çekim sonrası görme şansının yanı sıra bu makineleri en önemli özelliklerinden biri de çekilen görüntünün tek örnek olması ve çoğaltılamamasıdır.<br/> Polaroid filmlerde hem negatif emülsiyon hem de kâğıt aynı paket içinde bulunmaktadır. Pozla­ma işlemi sonrasında negatif ve pozitif iki metal merdane arasından geçerken birbirine bastırılır ve aynı esnada kimyasal poşeti patlar. Kartta yayılan kimyasal maddenin aracılığıyla kimyasal banyo iş­lemi tamamlanır ve görüntü kart üzerinde oluşur.<br/> Acil vesikalık ihtiyacını karşılayan makinenin ön yüzeyinde dört objektifi bulunan modelleri ya­nında tek objektifi bulunan modelleri de vardır. Daha çok amatörlerin acil anı, hatıra fotoğrafları için kullanılmış olsa da film magazini değiştirile­bilen orta boy SLR makineler ile gerçekleştirilen profesyonel tanıtım fotoğrafı çekimlerinde ön kontrol amaçlı olarak da polaroid film çekildiği bilinmektedir.<br/> Elde edilen görüntünün biricik, özgün, tek örnek olması polaroid makineleri özellikle sanat­sal kaygılar ile üretim yapan fotoğrafçıların da ilgi alanına sokmaktadır. Çekilen görüntü üzerinde çizme, boyama, kazıma gibi ilave müdahaleler ile zaten tek örnek olan polaroid fotoğraf yüzeyini adeta kendi öznel ifade yüzeyine çevirmiş ve eserle­ri fotoğraf kitaplarına basılmış, müzelerince kabul edilmiş, sergiler açmış birçok fotoğraf sanatçısı bulunmaktadır.<br/> Her bir fotoğraf için yeni kart kullanılması ne­deniyle polaroid fotoğraf üretmenin maliyetli oldu­ğunu belirtmek gerekir. Buna karşın film kullanan birçok makine türü için taze film bulmak sıkıntılı olsa da özellikle Fujifilm tarafından tekrar üretilip piyasaya sürülen Fujifilm Instax serisi makineler ve bunların kartlarını günümüzde sorunsuz şekilde temin etmek mümkündür."
+        "Aciklama": "Polaroid film kullanan makinelerin genel adı polaroid fotoğraf makinesidir. Fotoğraf çekimin­den hemen sonra çekilen görüntün kart baskısını veren özel makinelerdir. Görüntüyü hemen çekim sonrası görme şansının yanı sıra bu makineleri en önemli özelliklerinden biri de çekilen görüntünün tek örnek olması ve çoğaltılamamasıdır.<br/>Polaroid filmlerde hem negatif emülsiyon hem de kâğıt aynı paket içinde bulunmaktadır. Pozla­ma işlemi sonrasında negatif ve pozitif iki metal merdane arasından geçerken birbirine bastırılır ve aynı esnada kimyasal poşeti patlar. Kartta yayılan kimyasal maddenin aracılığıyla kimyasal banyo iş­lemi tamamlanır ve görüntü kart üzerinde oluşur.<br/>Acil vesikalık ihtiyacını karşılayan makinenin ön yüzeyinde dört objektifi bulunan modelleri ya­nında tek objektifi bulunan modelleri de vardır. Daha çok amatörlerin acil anı, hatıra fotoğrafları için kullanılmış olsa da film magazini değiştirile­bilen orta boy SLR makineler ile gerçekleştirilen profesyonel tanıtım fotoğrafı çekimlerinde ön kontrol amaçlı olarak da polaroid film çekildiği bilinmektedir.<br/>Elde edilen görüntünün biricik, özgün, tek örnek olması polaroid makineleri özellikle sanat­sal kaygılar ile üretim yapan fotoğrafçıların da ilgi alanına sokmaktadır. Çekilen görüntü üzerinde çizme, boyama, kazıma gibi ilave müdahaleler ile zaten tek örnek olan polaroid fotoğraf yüzeyini adeta kendi öznel ifade yüzeyine çevirmiş ve eserle­ri fotoğraf kitaplarına basılmış, müzelerince kabul edilmiş, sergiler açmış birçok fotoğraf sanatçısı bulunmaktadır.<br/>Her bir fotoğraf için yeni kart kullanılması ne­deniyle polaroid fotoğraf üretmenin maliyetli oldu­ğunu belirtmek gerekir. Buna karşın film kullanan birçok makine türü için taze film bulmak sıkıntılı olsa da özellikle Fujifilm tarafından tekrar üretilip piyasaya sürülen Fujifilm Instax serisi makineler ve bunların kartlarını günümüzde sorunsuz şekilde temin etmek mümkündür."
     },
     {
         "SoruID": 3351185,
@@ -1060,8 +1180,28 @@
         "Aciklama": "Küçük format film kullanan minyatür boy fotoğraf makinesinin en önemli ayırt edici özelliği<br/>çok küçük boyutlu ve hafif olmalarıdır. Bu format makineler, cebe sığabilecek kadar küçük oldukları için yabancı literatürde “pocket format” olarak da isimlendirilmektedir."
     },
     {
+        "SoruID": 3351189,
+        "SoruMetni": "Fotoğraf makinesinde, fotoğrafı çekilecek olan konunun görülmesini sağlayan görüntü alanın sınırlarını gösteren düzenek bakaç denir.Aşağıdakilerden hangi kelime Bakaç ile aynı anlamdadır?",
+        "A": "Karanlık Oda",
+        "B": "Banyo",
+        "C": "Kamera",
+        "D": "Vizör",
+        "E": "Film",
+        "DogruCevap": "D",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 5,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.437469",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fotoğraf makinesinde, fotoğrafı çekilecek olan konunun görülmesini sağlayan görüntü alanın sınırlarını gösteren düzenek bakaç (<strong>vizör</strong>) olarak tanımlanmaktadır.<br/>Bakaç her zaman, çekim öncesi film üzerine kaydedilecek görüntünün göz ile ön<br/>denetiminin yapılıp sınırlarının tayin edilmesi işlevini üstlenir."
+    },
+    {
         "SoruID": 3351190,
-        "SoruMetni": "Otomatik netleme sistemine sahip fotoğraf makineleri AF  kısaltması ile kodlanırlar. Aşağıdakilerden hangisi bu kısaltmanın tanımıdır?",
+        "SoruMetni": "Otomatik netleme sistemine sahip fotoğraf makineleri AF kısaltması ile kodlanırlar. Aşağıdakilerden hangisi bu kısaltmanın tanımıdır?",
         "A": "al focus",
         "B": "auto focus",
         "C": "auto flight",
@@ -1098,6 +1238,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Fotoğraf makinesinde çekim anında pozometrenin (<strong>ışık ölçerin)</strong> makineye yüklenen filmin ISO<br/>değerini göz önüne alarak ölçüm yapacağı bilinmelidir. Bir başka ifade ile makineye filmin ISO değeri(ki bu değer film kaseti üzerinde yazmaktadır) çekip öncesinde doğru olarak girilmelidir."
+    },
+    {
+        "SoruID": 3351192,
+        "SoruMetni": "İnfrared filmler insan gözünün görme sınırları dışında bulunan kızılötesi ışınlara<br/>duyarlı özel filmlerdir. Bu filmlere.....filmler denir. Cümlesini hangi şıkla tamamlarız?",
+        "A": "Renkli negatif",
+        "B": "Çekim detaylı",
+        "C": "Kızılötesi",
+        "D": "Pozitif filmler",
+        "E": "Dia filmler",
+        "DogruCevap": "C",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 5,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.541806",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İnfrared filmler insan gözünün görme sınırları dışında bulunan kızılötesi ışınlara<br/>duyarlı özel filmlerdir. Bu filmlere kızılötesi filmler denir."
     },
     {
         "SoruID": 3351193,
@@ -1160,6 +1320,26 @@
         "Aciklama": "Capa, 6 Haziran 1944 tarihinde Amerikan ordusunun Fransa’nın Normandiya kıyılarına yaptığı çıkartmaya katılmıştır. Hayatını riske ederek katıldığı bu çıkartmada ilk birkaç saatte 106 tane fotoğraf çekmiştir. Büyük bir şans eseri yara almadan çıkartmadan kurtulan Capa bir gemiyle ulaştığı İngiltere’de çekmiş olduğu filmleri motorlu bir kuryeye teslim etmiş ve ertesi gün Fransa’ya geri dönüştür. Çektiği filmler Life dergisinin Londra’daki ofisine ulaştırılmış ve Life laboratuvarında çalışan 15 yaşındaki bir karanlık oda asistanı tarafından banyo edilmiştir. Filmlerin bir an önce baskıya yetiştirilmesi kaygısıyla film kurutma aşamasında aşırı ısı uygulanması nedeniyle filmler erimiş ve sadece 11 kare görüntü kurtarılabilmiştir. Doğru yanıt C’dir."
     },
     {
+        "SoruID": 3351196,
+        "SoruMetni": "Aşağıdakilerden hangisi dijital makinelerle bilinçsiz bir şekilde arka arkaya çekim yaparken görüntünün iyi olup olmadığını sık sık kontrol eden bir fotoğrafçı adayı için bir dezavantajdır?",
+        "A": "Yenisini çekerken hatanın nerede olduğunu fark edebilmesi",
+        "B": "Tekrarı yaşanmayacak olan önemli bir anın kaçırılması",
+        "C": "Fotoğraf çekimi sırasında ‘neyin fotoğrafını çekiyorum’ diye düşünebilmesi",
+        "D": "Deklanşör sorumluluğunu kazanmış olması",
+        "E": "Görüntü çok iyi olmasa bile sonradan düzeltme şansına sahip olması",
+        "DogruCevap": "B",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 5,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.416418",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Analog makine ile fotoğraf üretirken süreci eksiksiz ve kusursuz tamamladıktan sonra sonuç görüntüyü görmek mümkün iken dijital makine ile çekimden hemen sonra fotoğrafın ekrandan kontrolü mümkündür. Tüm bu avantajları dijital makinenin bilinçsiz bir fotoğrafçı adayını için kolaylıkla dezavantaj yaratabilir. Arka arkaya sınırsız çekim yapma şansı düşünmeden “nasıl olsa biri tutar” mantığı ile çekim yapmaya dönüşmemelidir. Dijital makine çektim, ekrandan baktım, olmamış silip yenisini çekerim mantığı ile hatanın nerede olduğu sorgulaması yapılmadan kullanılmamalıdır. Dijital makine ile tekrarı yaşanmayacak önemli bir olay fotoğraflanırken ekrandan acaba olmuş mu diye kontrol edeyim derken konsantrasyonun kaybedilmesi ve kritik anın kaçırılması sonucu çok olasıdır. Buna karşın birçok noktada dezavantajlı gibi gözüken analog makineler süreç içinde otomatikman “ben neyin fotoğrafını çekiyorum?”, “bu kare çekmeye değer mi?”, “çekim değerlerim doğru mu?” gibi birçok sorgulamayı yapmayı zorunlu kılar. Bu sorgulamaya “deklanşör sorumluluğu kazanmak” nitelemesini yapmak mümkündür. Doğru yanıt B’dir."
+    },
+    {
         "SoruID": 3351197,
         "SoruMetni": "Leica formatın diğer ismi nedir?",
         "A": "35 mm film",
@@ -1217,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İğne deliği (pinhole) ya da camera obscura (karanlık kutu) olarak da adlandırılan bu alet, ilk kez İÖ binli yıllarda söze döken Çin filozofu Mo-Ti’nin döneminden beri kullanılmaktadır. İğne deliği (pinhole) fotoğrafçılık olarak adlandırılan alanda el ile üretilmiş fotoğraf makinesi gövdesi (camera obscura) içine film veya kart yerleştirilerek yapılan çekimler için kullanılan kameralardır. Ticarileşmiş bir makine türü olmadığını ve ilgili ve bilgili kişiler tarafından veya onların eşliğinde el ile üretilen, her biri tek örnek makineler olduğunu vurgulamak gerekir. Bu makine ile gerçekleştirilen fotoğraf çekiminde netlik, vizör, diyafram gibi ışık ve görüntü kontrol mekanizmaları bulunmamaktadır. Benzer şekilde bu makinelerde fotoğrafın çekim süresi de çekim anında fotoğrafçının kararı ile belirlediği bir süre olarak gerçekleşir. Tüm bu özellikleri iğne deliği kamera ile yapılacak çekim ile elde edilecek görüntüyü bir başka çekim ile aynısı elde edilemeyecek bu anlamda tek örnek fotoğraflar yapmaktadır. Teknik ve teknolojik kusursuzluk peşinde koşmayan, özgün fotoğraflar çekmek isteyenler için iğne deliği kameralar ideal makineler olarak tanımlanabilir.  Doğru yanıt B’dir."
+        "Aciklama": "İğne deliği (pinhole) ya da camera obscura (karanlık kutu) olarak da adlandırılan bu alet, ilk kez İÖ binli yıllarda söze döken Çin filozofu Mo-Ti’nin döneminden beri kullanılmaktadır. İğne deliği (pinhole) fotoğrafçılık olarak adlandırılan alanda el ile üretilmiş fotoğraf makinesi gövdesi (camera obscura) içine film veya kart yerleştirilerek yapılan çekimler için kullanılan kameralardır. Ticarileşmiş bir makine türü olmadığını ve ilgili ve bilgili kişiler tarafından veya onların eşliğinde el ile üretilen, her biri tek örnek makineler olduğunu vurgulamak gerekir. Bu makine ile gerçekleştirilen fotoğraf çekiminde netlik, vizör, diyafram gibi ışık ve görüntü kontrol mekanizmaları bulunmamaktadır. Benzer şekilde bu makinelerde fotoğrafın çekim süresi de çekim anında fotoğrafçının kararı ile belirlediği bir süre olarak gerçekleşir. Tüm bu özellikleri iğne deliği kamera ile yapılacak çekim ile elde edilecek görüntüyü bir başka çekim ile aynısı elde edilemeyecek bu anlamda tek örnek fotoğraflar yapmaktadır. Teknik ve teknolojik kusursuzluk peşinde koşmayan, özgün fotoğraflar çekmek isteyenler için iğne deliği kameralar ideal makineler olarak tanımlanabilir. Doğru yanıt B’dir."
     },
     {
         "SoruID": 3351200,
@@ -1277,6 +1457,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Renkli negatif filmlerin banyo işlemi sırasında C-41 ile kodlanmış banyolar uygulanmalıdır. Doğru yanıt E’dir."
+        "Aciklama": "Düzeltme notları: Kitabın 133. sayfasında 'Poloroid' olarak yazılan başlık 'Polaroid' olarak düzeltilmelidir. 136. sayfanın ikinci sütundaki ilk paragrafın sonunda 'dilmeleri' olan sözcük 'edilmeleri' olarak düzeltilmelidir. Aynı sayfada sağ sütunda görselin hemen üzerindeki son cümlede 'orta bot' olarak yazılan sözcük 'orta boy' olmalıdır. Sayfa 138'de sağ sütun ilk paragraf ortalarında 'istenmen sonuçlar' kısmı 'istenmeyen sonuçlar' olarak düzeltilmelidir.<br>Renkli negatif filmlerin banyo işlemi sırasında C-41 ile kodlanmış banyolar uygulanmalıdır. Doğru yanıt E’dir."
     }
 ]

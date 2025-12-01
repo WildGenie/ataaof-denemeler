@@ -9,14 +9,15 @@
         "E": "Piero della Francesca",
         "DogruCevap": "D",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 311839,
@@ -28,14 +29,15 @@
         "E": "Jerry Saltz",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 311841,
@@ -54,7 +56,8 @@
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 311842,
@@ -66,14 +69,15 @@
         "E": "Sürrealizm",
         "DogruCevap": "C",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 311843,
@@ -85,14 +89,15 @@
         "E": "Sürrealizm",
         "DogruCevap": "D",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 311845,
@@ -104,14 +109,15 @@
         "E": "Nesnel-Gölgesel",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 311847,
@@ -130,7 +136,8 @@
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 314873,
@@ -142,14 +149,15 @@
         "E": "Jan van Eyck",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 314874,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314875,
@@ -180,14 +189,15 @@
         "E": "Konik perspektif",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 314876,
@@ -206,11 +216,12 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314877,
-        "SoruMetni": "Diego Velazquez’in 1656 yılında yaptığı resimde mekân, zaman, simgesel anlatım iç içe geçmiştir. Farklı perspektif yöntemleriyle oluşturulan resim Picasso tarafından da 50’nin üzerinde yorumu yapılmıştır.<br/> <br/><strong>Paragrafta hakkında bilgi verilen resim aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "Diego Velazquez’in 1656 yılında yaptığı resimde mekân, zaman, simgesel anlatım iç içe geçmiştir. Farklı perspektif yöntemleriyle oluşturulan resim Picasso tarafından da 50’nin üzerinde yorumu yapılmıştır.<br/><strong>Paragrafta hakkında bilgi verilen resim aşağıdakilerden hangisidir?</strong>",
         "A": "Arnolfini’nin Düğünü",
         "B": "Boşluğa Sıçrayış",
         "C": "Las Meninnas",
@@ -218,14 +229,15 @@
         "E": "Aynadaki Venüs",
         "DogruCevap": "C",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 314878,
@@ -237,14 +249,15 @@
         "E": "Georges Braque",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 314879,
@@ -256,14 +269,15 @@
         "E": "Emile Durkheim",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314880,
@@ -282,11 +296,12 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 314881,
-        "SoruMetni": "Sürrealizm akımının önemli temsilcilerinden biri olan sanatçı, 1924’te yaptığı “İki Çocuk Bir Bülbül Tarafından Tehdit Ediliyor” isimli yapıtında boşluk hem algısal hem de fiziksel olarak vardır.<br/> <br/><strong>Paragrafta bazı özellikleri verilen sanatçı aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "Sürrealizm akımının önemli temsilcilerinden biri olan sanatçı, 1924’te yaptığı “İki Çocuk Bir Bülbül Tarafından Tehdit Ediliyor” isimli yapıtında boşluk hem algısal hem de fiziksel olarak vardır.<br/><strong>Paragrafta bazı özellikleri verilen sanatçı aşağıdakilerden hangisidir?</strong>",
         "A": "Max Ernst",
         "B": "Salvador Dali",
         "C": "Rene Magritte",
@@ -294,14 +309,15 @@
         "E": "Alberto Giacometti",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314882,
@@ -313,18 +329,19 @@
         "E": "Max Ernst",
         "DogruCevap": "D",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 343871,
-        "SoruMetni": "<strong>Sıfırı cebirsel ifade olarak işlemlere katmasıyla pek çok geometrik problemi çözümsüzlükten kurtaran düşünür aşağıdakilerden hangisidir? </strong>",
+        "SoruMetni": "<strong>Sıfırı cebirsel ifade olarak işlemlere katmasıyla pek çok geometrik problemi çözümsüzlükten kurtaran düşünür aşağıdakilerden hangisidir? </strong>",
         "A": "Ömer Hayyam",
         "B": "Aristo",
         "C": "Farabi",
@@ -332,14 +349,15 @@
         "E": "Lao Tzu",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 343874,
@@ -351,14 +369,15 @@
         "E": "Şeffalık",
         "DogruCevap": "D",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 343876,
@@ -370,13 +389,14 @@
         "E": "Minimalizm",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     }
 ]

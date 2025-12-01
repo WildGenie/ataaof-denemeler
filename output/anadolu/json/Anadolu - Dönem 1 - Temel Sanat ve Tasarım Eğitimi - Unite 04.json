@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eskiz"
+        "Aciklama": "Eskiz, sanat ve tasarım geliştirmek için yapılan ön çizimler veya taslak çizimlerdir."
     },
     {
         "SoruID": 3861101,
@@ -37,13 +37,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ressamın adını taşıyan onun kare ve dikdörtgen biçimlerine dayalı kompozisyonun oluştuğu tipografiyle birlikte görsel unsurların da vurgulandığı tasarım türüdür."
+        "Aciklama": "Grafik tasarımında en sık rastlanan taslak türü, ressamın adını taşıyan onun kare ve dikdörtgen biçimlerine dayalı kompozisyonun oluştuğu tipografiyle birlikte görsel unsurların da vurgulandığı Mondrian taslaklarıdır.<br>Ressamın adını taşıyan onun kare ve dikdörtgen biçimlerine dayalı kompozisyonun oluştuğu tipografiyle birlikte görsel unsurların da vurgulandığı tasarım türüdür."
     },
     {
         "SoruID": 3861102,
         "SoruMetni": "Aşağıdaki şıklardan hangisi Marker kalemin özelliklerinden birisidir?",
         "A": "Bu kalemlerin ucu esnek olduğu için farklı boyutlarda çizgi çeşitliliği yaratılabilir olması.",
-        "B": "Değişmez kalınlıkta düzgün çizgileri çizmek için  grafikte, mimaride ve teknik çizimlerde kullanılması.",
+        "B": "Değişmez kalınlıkta düzgün çizgileri çizmek için grafikte, mimaride ve teknik çizimlerde kullanılması.",
         "C": "Şeffaf bir boya olduğu için arka plandan ön plana doğru, açık renklerin üzerine koyu renklerin girilmesiyle sulu boya tekniğine benzer bir şekilde aşamalı olarak kullanılabilmesi.",
         "D": "En basit çizgisel ifade için ve açık-orta ve koyuluğu derecelendirmek için sıklıkla eskizlerin yapıldığı kalem türü olması.",
         "E": "Çizgisel kullanımlar ya da desen, grafik çizimleri için kullanılır. Bu kalemler farklı türde özelliklere sahip oldukları, yazı veya sanatsal çalışmalar için çok eski zamanlardan beri kullanıldığı söylenebilir.",
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Şeffaf bir boya olduğu için arka plandan ön plana doğru, açık renklerin üzerine koyu renklerin girilmesiyle sulu boya tekniğine benzer bir şekilde aşamalı olarak kullanılabilmesi."
+        "Aciklama": "Markerlar şeffaf bir boya olduğu için arka plandan ön plana doğru, açık renklerin üzerine koyu renklerin girilmesiyle sulu boya tekniğine benzer bir şekilde aşamalı olarak kullanılır (Parramón, 2012, s. 88).<br>Şeffaf bir boya olduğu için arka plandan ön plana doğru, açık renklerin üzerine koyu renklerin girilmesiyle sulu boya tekniğine benzer bir şekilde aşamalı olarak kullanılabilmesi."
     },
     {
         "SoruID": 3861103,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yağlı boya"
+        "Aciklama": "Su ile inceltilen boyalardan biri olan guaj boya, yağlı boyaya ve suluboya oranla daha hızlı kurur ve kuruduktan sonra renk tonunun yaklaşık olarak %15’ini yitirir (Artut, 2013). Bu sebeple elde edilmek istenen renk tonunun tasarım yüzeyine uygulanmasından önce farklı bir kâğıt üzerinde deneme yapılması önerilir."
     },
     {
         "SoruID": 3861104,
@@ -97,11 +97,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Guaj boya"
+        "Aciklama": "“Guaj saydam olmayan boyalarla yapılan, bitkisel kökenli zamk ile su karışımının bağlayıcı olarak kullanıldığı bir boya türüdür” (Yılmaz, 2007, s. 47).<br>Guaj boya"
     },
     {
         "SoruID": 3861105,
-        "SoruMetni": "Yağlı boya benzeri kapatıcı bir boya olması, su ile inceltilmesi, çabuk kuruma özelliğinin olması ve üst üste renk katmanı oluşturulabilen boya aşağıdakilerden hangisidir?<br/><br/>",
+        "SoruMetni": "Yağlı boya benzeri kapatıcı bir boya olması, su ile inceltilmesi, çabuk kuruma özelliğinin olması ve üst üste renk katmanı oluşturulabilen boya aşağıdakilerden hangisidir?",
         "A": "Akrilik boya",
         "B": "Sulu boya",
         "C": "Guaj boya",
@@ -117,14 +117,14 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Akrilik boya"
+        "Aciklama": "Akrilik boya, yağlı boya benzeri kapatıcı bir boya olabilmesinin yanında yağlı boyadan farkı su ile inceltilmesidir. Su bazlı olması nedeniyle çabuk kuruma ve hızlı çalışma olanağı sağlar. Eyüboğlu’nun (2005) belirttiği gibi yağlı boya tekniğinde bir renk tabakası üstüne başka bir renk çabuk bir şekilde sürülemezken, akrilik boyada kısa bir zaman içinde üst üste renk katmanı oluşturulabilir."
     },
     {
         "SoruID": 3861106,
         "SoruMetni": "Aşağıdaki şıkların hangisinde \"Kolaj\" tekniği tanımlanmıştır?",
-        "A": "Astar üzerinde ilk renk katmanı olan “imprimatura”, ilk resimleme katmanı olan “underpaiting”, sonra ana resimleme katmanı,  sonra ise pat boya katmanı olan “impasto”nun kullanımı ve son olarak da şeffaf katman olan “glaze” katmanı olarak uygulanan tekniktir.",
+        "A": "Astar üzerinde ilk renk katmanı olan “imprimatura”, ilk resimleme katmanı olan “underpaiting”, sonra ana resimleme katmanı, sonra ise pat boya katmanı olan “impasto”nun kullanımı ve son olarak da şeffaf katman olan “glaze” katmanı olarak uygulanan tekniktir.",
         "B": "Kâğıt, kumaş parçaları, fotoğraf ve farklı çeşitlikte malzemelerin kesilip yapıştırılarak bir araya getirilmesiyle oluşturulan bir görüntü tekniğidir.",
-        "C": "Nemlendirilmiş kâğıt üzerine anlık, tesadüfi lekeler oluşturularak yapılan tekniktir.  Ayrıca farklı teknikleri bir araya getirerek çalışma olanağı da yaratır. <br/><br/>",
+        "C": "Nemlendirilmiş kâğıt üzerine anlık, tesadüfi lekeler oluşturularak yapılan tekniktir. Ayrıca farklı teknikleri bir araya getirerek çalışma olanağı da yaratır.",
         "D": "Yüksek baskı, kalıp üzerinde oyulan kısımlar kısımlar yerine oyulmayan yüksekte kalan kısımlara boya verilmesiyle uygulanan bir tekniktir.",
         "E": "Yağ ile suyun karışmaması ve yağın suyu (bu durumda mürekkebi) itmesiprensibine dayanan baskı türüdür.",
         "DogruCevap": "B",
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kâğıt, kumaş parçaları, fotoğraf ve farklı çeşitlikte malzemelerin kesilip yapıştırılarak bir araya getirilmesiyle oluşturulan bir görüntü tekniğidir."
+        "Aciklama": "Kolaj, kâğıt, kumaş parçaları, fotoğraf ve farklı çeşitlikte malzemelerin kesilip yapıştırılarak bir araya getirilmesiyle oluşturulan bir görüntü tekniğidir. Pablo Picasso ve George Braqua döneminde (20. yy başlarında) daha çok yaygınlaştığı söylenebilir (Ambrose ve Harris, 2010)."
     },
     {
         "SoruID": 3861107,
@@ -157,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ahşap/Tahta baskı (ağaç baskı)"
+        "Aciklama": "Ahşap/Tahta baskı (ağaç baskı), ilk olarak Doğu’da Çin’de kaligrafi kullanımından kaynaklanan özelliği ile öne çıkmış ve sonrasında dünyadaki kullanımı yaygınlaşmıştır (Uçar, 2019, s. 178)."
     },
     {
         "SoruID": 3861108,
-        "SoruMetni": "Farklı ağaç türlerinden (huş, kavak, çam, kayın vb.) elde edilen ağaç tabakalarının birleştirilmesiyle üretilen malzeme aşağıdakilerden hangisidir?<br/><br/>",
+        "SoruMetni": "Farklı ağaç türlerinden (huş, kavak, çam, kayın vb.) elde edilen ağaç tabakalarının birleştirilmesiyle üretilen malzeme aşağıdakilerden hangisidir?",
         "A": "Fotoblok",
         "B": "Soğuk-Pres Kağıdı",
         "C": "Kontraplak",
@@ -177,11 +177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kontraplak"
+        "Aciklama": "Bir diğer taraftan farklı ağaç türlerinden (huş, kavak, çam, kayın vb.) üretilebilen kontrplak ise ağaç tabakalarının birleştirilmesiyle oluşur. Kalınlıkları 6 mm ile 30 mm arasında değişir.<br>Kontraplak"
     },
     {
         "SoruID": 3861109,
-        "SoruMetni": "Matematiksel formüllerle tanımlanan, çok sayıda farklı ve özgün nesneden oluşan, büyütülebilir ve küçültülebilir görüntüye ne ad verilir?<br/>",
+        "SoruMetni": "Matematiksel formüllerle tanımlanan, çok sayıda farklı ve özgün nesneden oluşan, büyütülebilir ve küçültülebilir görüntüye ne ad verilir?",
         "A": "Montaj",
         "B": "Dijital",
         "C": "Piksel",
@@ -197,11 +197,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Vektör"
+        "Aciklama": "Vektör: Matematiksel formüllerle tanımlanan, birçok farklı, özgün ve büyütülüp, küçültülebilir nesneden oluşan görüntüye verilen isim. Vektör grafikleri istenilen herhangi bir boyuta büyütülüp küçültülerek kullanılırlar ve çözünürlük gibi bir problemleri yoktur ancak bir fotoğrafın narin ve ince geçişli tonlarını vektörel bir grafikle elde etmek mümkün değildir” (Ambrose ve Harris, 2010, s. 259)"
     },
     {
         "SoruID": 3861110,
-        "SoruMetni": "\"Görsel düşünme\" ve \"görsel algı\"nın aynı anlamda olduğunu savunan düşünür aşağıdakilerden hangisidir?<br/>",
+        "SoruMetni": "\"Görsel düşünme\" ve \"görsel algı\"nın aynı anlamda olduğunu savunan düşünür aşağıdakilerden hangisidir?",
         "A": "Bugin",
         "B": "Arnheim",
         "C": "Berger",
@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 3861111,
-        "SoruMetni": "Sanat ve tasarım geliştirmek amacıyla yapılan ön çizimler veya taslak çizimlere verilen ad aşağıdakilerden hangisidir?<br/>",
+        "SoruMetni": "Sanat ve tasarım geliştirmek amacıyla yapılan ön çizimler veya taslak çizimlere verilen ad aşağıdakilerden hangisidir?",
         "A": "İllüstrasyon",
         "B": "Kolaj",
         "C": "Efemera",
@@ -241,12 +241,12 @@
     },
     {
         "SoruID": 3861112,
-        "SoruMetni": "Aşağıdakilerden hangisi tasarımda taslak çalışmaların gelişim evrelerinin doğru sırasını göstermektedir?<br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi tasarımda taslak çalışmaların gelişim evrelerinin doğru sırasını göstermektedir?",
         "A": "Karalamalar, ön taslaklar, ayrıntılı taslaklar",
         "B": "Ön taslaklar, karalamalar, ayrıntılı taslaklar",
-        "C": "Ayrıntılı taslaklar, ön taslaklar,  karalamalar",
+        "C": "Ayrıntılı taslaklar, ön taslaklar, karalamalar",
         "D": "Karalamalar, ayrıntılı taslaklar, ön taslaklar",
-        "E": "Ön taslaklar, ayrıntılı taslaklar,  karalamalar",
+        "E": "Ön taslaklar, ayrıntılı taslaklar, karalamalar",
         "DogruCevap": "A",
         "DersAd": "Temel Sanat ve Tasarım Eğitimi",
         "Unite": 4,
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 3861114,
-        "SoruMetni": "Yumuşak ve koyu etki bırakan kurşun kalem derece aralığı aşağıdaki ifadelerden hangisidir?",
+        "SoruMetni": "Yumuşak ve koyu etki bırakan kurşun kalem derece aralığı aşağıdaki ifadelerden hangisidir?",
         "A": "A-8A.",
         "B": "B-8B.",
         "C": "C-8C.",
@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 3861115,
-        "SoruMetni": "Saydam bir rengi diğer renkle kapatmanın mümkün olmadığı  teknik aşağıdaki ifadelerden hangisidir?",
+        "SoruMetni": "Saydam bir rengi diğer renkle kapatmanın mümkün olmadığı teknik aşağıdaki ifadelerden hangisidir?",
         "A": "Akrilik boya",
         "B": "Yağlı boya",
         "C": "Sulu boya",
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kolaj temelinden gelişen uygulama da enstelasyon adı ile anılmaktadır. Postmodern sanat kapsamında ele alınan yerleştirme (enstelasyon)  yine kesyap, kurgu ve toplama mantığı­nın bir uzantısı olan bir tür ve yöntemdir."
+        "Aciklama": "Kolaj temelinden gelişen uygulama da enstelasyon adı ile anılmaktadır. Postmodern sanat kapsamında ele alınan yerleştirme (enstelasyon) yine kesyap, kurgu ve toplama mantığı­nın bir uzantısı olan bir tür ve yöntemdir."
     },
     {
         "SoruID": 3861118,

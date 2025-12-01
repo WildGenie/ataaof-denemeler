@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264444,
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264447,
@@ -54,7 +56,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264456,
@@ -73,7 +76,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 264457,
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264459,
@@ -111,11 +116,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264464,
-        "SoruMetni": "……….., herhangi bir nesneyi veya kavramı resmetmek yoluyla iletişim kurmayı hedefleyen semboldür. Genel olarak soyut bir algılama ile geometrik biçim temelinde tasarlanır.<br/> <br/><strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "……….., herhangi bir nesneyi veya kavramı resmetmek yoluyla iletişim kurmayı hedefleyen semboldür. Genel olarak soyut bir algılama ile geometrik biçim temelinde tasarlanır.<br/><strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Piktogram",
         "B": "Simge",
         "C": "İdeogram",
@@ -130,7 +136,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266684,
@@ -149,11 +156,12 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 266685,
-        "SoruMetni": "………......; bir düşünceyi, sözü ya da sesleri, çeşitli sembollerle ifade eden yazılardır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "………......; bir düşünceyi, sözü ya da sesleri, çeşitli sembollerle ifade eden yazılardır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Piktogram",
         "B": "Simge",
         "C": "İdeogram",
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 266686,
@@ -187,11 +196,12 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266727,
-        "SoruMetni": "I. Beşgen<br/> <br/>II. Kare<br> <br/>III. Daire<br> <br/>IV. Üçgen<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri tasarımın soyut olan temel geometrik biçimleri arasında yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. Beşgen<br/>II. Kare<br/>III. Daire<br/>IV. Üçgen<br/><strong>Yukarıdakilerden hangisi ya da hangileri tasarımın soyut olan temel geometrik biçimleri arasında yer alır?</strong></br></br></br>",
         "A": "Yalnız I",
         "B": "II, III ve IV",
         "C": "Yalnız II",
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266728,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 266729,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266730,
@@ -263,7 +276,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 266731,
@@ -282,11 +296,12 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266732,
-        "SoruMetni": "<strong>“Renk, daha ince olan bir çizgisel kareyi kalın olan bir çizgisel kareye göre daha görünür kılabilir. Yine içi dolu olan bir kare, içi boş olan bir çizgisel kareden daha pasif algılanabilir.”<br/> <br/>Aşağıdaki seçeneklerden hangisi yukarıda bahsedilen durumu ifade eder?</strong>",
+        "SoruMetni": "<strong>“Renk, daha ince olan bir çizgisel kareyi kalın olan bir çizgisel kareye göre daha görünür kılabilir. Yine içi dolu olan bir kare, içi boş olan bir çizgisel kareden daha pasif algılanabilir.”<br/>Aşağıdaki seçeneklerden hangisi yukarıda bahsedilen durumu ifade eder?</strong>",
         "A": "Ön-arka plan ilişkisi",
         "B": "Şekil-açı ilişkisi",
         "C": "Boyut-şekil ilişkisi",
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 332200,
@@ -320,11 +336,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 332203,
-        "SoruMetni": "..........., tasarım sürecinin ilk aşamasından itibaren iyi bir fikir bulmanın anahtarıdır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "..........., tasarım sürecinin ilk aşamasından itibaren iyi bir fikir bulmanın anahtarıdır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Perspektif",
         "B": "Derinlik",
         "C": "Katman",
@@ -339,7 +356,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 332208,
@@ -358,7 +376,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 367734,
@@ -377,11 +396,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 367749,
-        "SoruMetni": "<strong>Tasarımda soyutlamaya dayanan ve en önemli temsilcisi Kazimir Malevich olan sanat akımı aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Tasarımda soyutlamaya dayanan ve en önemli temsilcisi Kazimir Malevich olan sanat akımı aşağıdakilerden hangisidir?</strong>",
         "A": "Konstrüktivizm",
         "B": "Süprematizm",
         "C": "Dada",
@@ -396,7 +416,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 392372,
@@ -415,6 +436,7 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     }
 ]

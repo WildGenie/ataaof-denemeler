@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 130658,
-        "SoruMetni": "……….; yazı, resim başlık gibi unsurların nasıl kullanılacağına ilişkin ilkelerin belirlenmesini ve iletimini kolaylaştırır.<br/> <br/><strong>Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "……….; yazı, resim başlık gibi unsurların nasıl kullanılacağına ilişkin ilkelerin belirlenmesini ve iletimini kolaylaştırır.<br/><strong>Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Şablon",
         "B": "Yazı tipi",
         "C": "Renk",
@@ -9,18 +9,19 @@
         "E": "Metin düzeni",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 130695,
-        "SoruMetni": "………….. aşamasında tasarım raporundaki planlar doğrultusunda ürünün ortaya konulması için gereken işlemler yapılmaktadır.<br/> <br/><strong>Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "………….. aşamasında tasarım raporundaki planlar doğrultusunda ürünün ortaya konulması için gereken işlemler yapılmaktadır.<br/><strong>Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Metin oluşturma",
         "B": "Dosya oluşturma",
         "C": "Geliştirme",
@@ -28,14 +29,15 @@
         "E": "Uygulama",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 136812,
@@ -47,14 +49,15 @@
         "E": "Uygulama ve değerlendirme",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 183532,
@@ -66,18 +69,19 @@
         "E": "Resim ve metinlerin belirlenmesi",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 183534,
-        "SoruMetni": "<strong> Aşağıdakilerden hangisi metne yönelik biçimlendirme işlemlerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong> Aşağıdakilerden hangisi metne yönelik biçimlendirme işlemlerinden biri <u>değildir</u>?</strong>",
         "A": "Metnin büyüklüğü",
         "B": "Yazı tipi",
         "C": "Paragraf ayarları",
@@ -85,14 +89,15 @@
         "E": "Renk ayarı",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 183537,
@@ -104,14 +109,15 @@
         "E": "Siyah",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 183538,
@@ -123,14 +129,15 @@
         "E": "Materyal kontrolü",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 183539,
@@ -149,11 +156,12 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 183540,
-        "SoruMetni": "<strong> Aşağıdakilerden hangisi masaüstü yayımcılık tasarım aşamasında yürütülen temel adımlarından biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong> Aşağıdakilerden hangisi masaüstü yayımcılık tasarım aşamasında yürütülen temel adımlarından biri <u>değildir</u>?</strong>",
         "A": "Yayımın yapısının belirlenmesi",
         "B": "Yazı tipi tercihleri",
         "C": "Resim Kullanımı",
@@ -161,14 +169,15 @@
         "E": "Amaçların belirlenmesi",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 183549,
@@ -180,14 +189,15 @@
         "E": "Yayımın dağıtılması",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 183552,
@@ -199,14 +209,15 @@
         "E": "Değerlendirme",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 183553,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 192799,
@@ -237,14 +249,15 @@
         "E": "Metin Düzeni",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 192805,
@@ -256,14 +269,15 @@
         "E": "Bütün yayımlarda aynı formu kullanma",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 340663,
@@ -275,33 +289,35 @@
         "E": "Renkler",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 341106,
         "SoruMetni": "<strong>Aşağıdakilerin hangisinde masaüstü yayımcılık geliştirme sürecinin adımları doğru bir sıra ile verilmiştir?</strong>",
-        "A": "Analiz - Tasarım - Uygulama - Geliştirme - Değerlendirme",
-        "B": "Tasarım - Analiz - Uygulama - Geliştirme - Değerlendirme",
+        "A": "Analiz - Tasarım - Uygulama - Geliştirme - Değerlendirme",
+        "B": "Tasarım - Analiz - Uygulama - Geliştirme - Değerlendirme",
         "C": "Analiz - Geliştirme - Tasarım - Uygulama - Değerlendirme",
-        "D": "Tasarım - Uygulama - Geliştirme - Değerlendirme - Analiz",
-        "E": "Tasarım - Uygulama - Değerlendirme - Analiz - Geliştirme",
+        "D": "Tasarım - Uygulama - Geliştirme - Değerlendirme - Analiz",
+        "E": "Tasarım - Uygulama - Değerlendirme - Analiz - Geliştirme",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 342340,
@@ -313,13 +329,14 @@
         "E": "Doğru görselleri bulma ya da üretebilme",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     }
 ]

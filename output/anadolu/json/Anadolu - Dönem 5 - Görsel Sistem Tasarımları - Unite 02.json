@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Logotype, yalnızca yazı veya harf kullanılarak tasarlanmış logolara verilen isimdir."
+        "Aciklama": "Grafik tasarımı terimlerinin kavranması<br>Logotype, yalnızca yazı veya harf kullanılarak tasarlanmış logolara verilen isimdir."
     },
     {
         "SoruID": 3862366,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Metaforik yaklaşım, kapak konularında geçen tanımların, aynı anlama varan farklı görselliklerle hatırlatılması veya açıklanmasıdır. Örneğin: “Mimarlıkta Izgara” konusunun ızgara köfte görseliyle açıklanması gibi."
+        "Aciklama": "Dergi kapağı tasarımı<br>Metaforik yaklaşım, kapak konularında geçen tanımların, aynı anlama varan farklı görselliklerle hatırlatılması veya açıklanmasıdır. Örneğin: “Mimarlıkta Izgara” konusunun ızgara köfte görseliyle açıklanması gibi."
     },
     {
         "SoruID": 3862368,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Grafik tasarımda sistem tasarımının temel mantığı, mesajın iletildiği görsel organizasyonun bir sistem içerisinde düzenlenmesi ve kullanıcı deneyiminin sürdürülebilmesi için bir plan veya yapı oluşturulmasına dayanır. Bu da bir mecranın tasarımının bütünsel ve kararlı bir yaklaşımla ele alınmasını sağlar. Renk, tipografi, fotoğraf, işaret vb. grafik elemanların sistematik bir yaklaşımla kullanılması kullanıcı veya tüketici deneyiminde belirli bir alışkanlığın gelişmesine yardımcı olur. Sistem tasarımı, tasarımcıya yeniden kullanılabilir bir yöntem sunar. Bu yaklaşım da tasarıda tutarlı bir dil oluşmasına katkı sağlar."
+        "Aciklama": "Sistem tasarımının özellikleri<br>Grafik tasarımda sistem tasarımının temel mantığı, mesajın iletildiği görsel organizasyonun bir sistem içerisinde düzenlenmesi ve kullanıcı deneyiminin sürdürülebilmesi için bir plan veya yapı oluşturulmasına dayanır. Bu da bir mecranın tasarımının bütünsel ve kararlı bir yaklaşımla ele alınmasını sağlar. Renk, tipografi, fotoğraf, işaret vb. grafik elemanların sistematik bir yaklaşımla kullanılması kullanıcı veya tüketici deneyiminde belirli bir alışkanlığın gelişmesine yardımcı olur. Sistem tasarımı, tasarımcıya yeniden kullanılabilir bir yöntem sunar. Bu yaklaşım da tasarıda tutarlı bir dil oluşmasına katkı sağlar."
     },
     {
         "SoruID": 3862470,
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 3862471,
-        "SoruMetni": "<strong>Seri tasarım anlayışı</strong> için aşağıdaki seçeneklerden hangisi/hangileri doğrudur?<br/><br/>I.Tüketici alışkanlıkları açısından olumlu bir hamledir.<br/><br/>II.Bir markanın kimlik bütünlüğünü koruyup marka altında çıkan ürün gruplarının (veya serisinin) görsel tutarlılığını ve devamlılığını sağlar.<br/><br/>III.Seri tasarım mantığı doğrultusunda tasarımcının vereceği tüm kararlar, tasarımı yapılacak ürünün markası, ait olduğu kurum ve içeriğinden bağımsızdır.<br/><br/>IV.Bir müzik grubunun bir albümü için üretilmiş, başka albümlerde tekrar etmeyecek bir tasarım anlayışına sahip albüm kapağı tasarımı bu anlayışa örnek verilebilir.<br/><br/>V.Grafik tasarımda “seri” mantığı, ürünün tasarımının da seri anlayışta gerçekleştirilmesi gerektiğine işaret eder.",
+        "SoruMetni": "<strong>Seri tasarım anlayışı</strong> için aşağıdaki seçeneklerden hangisi/hangileri doğrudur?<br/>I.Tüketici alışkanlıkları açısından olumlu bir hamledir.<br/>II.Bir markanın kimlik bütünlüğünü koruyup marka altında çıkan ürün gruplarının (veya serisinin) görsel tutarlılığını ve devamlılığını sağlar.<br/>III.Seri tasarım mantığı doğrultusunda tasarımcının vereceği tüm kararlar, tasarımı yapılacak ürünün markası, ait olduğu kurum ve içeriğinden bağımsızdır.<br/>IV.Bir müzik grubunun bir albümü için üretilmiş, başka albümlerde tekrar etmeyecek bir tasarım anlayışına sahip albüm kapağı tasarımı bu anlayışa örnek verilebilir.<br/>V.Grafik tasarımda “seri” mantığı, ürünün tasarımının da seri anlayışta gerçekleştirilmesi gerektiğine işaret eder.",
         "A": "I, II ve III",
         "B": "I, II ve V",
         "C": "II, III ve IV",
@@ -97,11 +97,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><strong>Seri tasarım anlayışı,</strong> bir markanın kimlik bütünlüğünü koruyup marka altında çıkan ürün gruplarının (veya serisinin) görsel tutarlılığını ve devamlılığını sağlar. Bu metot, tüketici alışkanlıkları açısından olumlu bir hamledir. Seri tasarım mantığı doğrultusunda tasarımcının vereceği tüm kararlar, tasarımı yapılacak ürünün markasına, ait olduğu kuruma ve içeriğine bağlıdır. Bir seri tasarım yaklaşımı, söz gelimi yayın hayatına yeni başlayacak olan bir derginin kimliğini tanımlayacak bir ilk adım da olabilir, köklü bir markanın yerleşmiş olan kimliğine aidiyet değeri katacak ve hacmini genişletecek bir müdahaleyi de içerebilir.<br/><br/>Bir seriye ait olmayan, tekil, tekrar etmeyen, şablona dönüşmeyen bir tasarım mantığına bağlı üretime, bir müzik grubunun bir albümü için üretilmiş, başka albümlerde tekrar etmeyecek bir tasarım anlayışına sahip albüm kapağı tasarımı örnek gösterilebilir.<br/><br/> <br/> <br/> <br/> <br/>Grafik tasarımda “seri” mantığı, ürünün tasarımının da seri anlayışta gerçekleştirilmesi gerektiğine işaret eder.<br/><br/><br/><br/><br/><br/><br/><br/><br/>"
+        "Aciklama": "<br/><strong>Seri tasarım anlayışı,</strong> bir markanın kimlik bütünlüğünü koruyup marka altında çıkan ürün gruplarının (veya serisinin) görsel tutarlılığını ve devamlılığını sağlar. Bu metot, tüketici alışkanlıkları açısından olumlu bir hamledir. Seri tasarım mantığı doğrultusunda tasarımcının vereceği tüm kararlar, tasarımı yapılacak ürünün markasına, ait olduğu kuruma ve içeriğine bağlıdır. Bir seri tasarım yaklaşımı, söz gelimi yayın hayatına yeni başlayacak olan bir derginin kimliğini tanımlayacak bir ilk adım da olabilir, köklü bir markanın yerleşmiş olan kimliğine aidiyet değeri katacak ve hacmini genişletecek bir müdahaleyi de içerebilir.<br/>Bir seriye ait olmayan, tekil, tekrar etmeyen, şablona dönüşmeyen bir tasarım mantığına bağlı üretime, bir müzik grubunun bir albümü için üretilmiş, başka albümlerde tekrar etmeyecek bir tasarım anlayışına sahip albüm kapağı tasarımı örnek gösterilebilir.<br/>Grafik tasarımda “seri” mantığı, ürünün tasarımının da seri anlayışta gerçekleştirilmesi gerektiğine işaret eder."
     },
     {
         "SoruID": 3862472,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Yayımlanacak kitapların yayınevi direktörü veya yayınevi editörleri tarafından, türlerine bağlı olarak gruplanması çalışmasına verilen ad aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Yayımlanacak kitapların yayınevi direktörü veya yayınevi editörleri tarafından, türlerine bağlı olarak gruplanması çalışmasına verilen ad aşağıdakilerden hangisidir?",
         "A": "Kurum kimliği",
         "B": "Modelleme",
         "C": "Sayfa düzeni",
@@ -117,14 +117,14 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><strong>Editoryal</strong> tanımı, yayımlanacak kitapların yayınevi direktörü veya yayınevi editörleri tarafından, türlerine bağlı olarak gruplanması çalışmasına verilen addır. Örneğin; “Garip Akımı Şairleri Serisi” veya “Rus Klasikleri Serisi” gibi.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><strong>Editoryal</strong> tanımı, yayımlanacak kitapların yayınevi direktörü veya yayınevi editörleri tarafından, türlerine bağlı olarak gruplanması çalışmasına verilen addır. Örneğin; “Garip Akımı Şairleri Serisi” veya “Rus Klasikleri Serisi” gibi."
     },
     {
         "SoruID": 3862475,
-        "SoruMetni": "<br/> <br/> <br/> <br/>İkinci Dünya Savaşı sonrası Avrupa, İsviçre’den başlayıp Almanya ve İngiltere’de karşılığını bulan ve  tasarımda sadelik, anlaşılırlık, az renk ve tırnaksız yazı karakteri kullanımı ön planda olarak 1970’lerin sonuna dek devam eden anlayış aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>İkinci Dünya Savaşı sonrası Avrupa, İsviçre’den başlayıp Almanya ve İngiltere’de karşılığını bulan ve tasarımda sadelik, anlaşılırlık, az renk ve tırnaksız yazı karakteri kullanımı ön planda olarak 1970’lerin sonuna dek devam eden anlayış aşağıdakilerden hangisidir?",
         "A": "Yeni sistem",
         "B": "Şablon yaklaşımı",
-        "C": "<br/> <br/> <br/> <br/>Uluslararası Tipografik Üslup<br/><br/><br/><br/>",
+        "C": "<br/>Uluslararası Tipografik Üslup",
         "D": "Sistematik yaklaşım",
         "E": "Yazınsal yaklaşım",
         "DogruCevap": "C",
@@ -137,11 +137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>İkinci Dünya Savaşı sonrası Avrupa, İsviçre’den başlayıp Almanya ve İngiltere’de karşılığını bulan <strong>“Uluslararası Tipografik Üslup”</strong> adı verilen bir tasarım anlayışına yönelmiştir. Bu anlayış tasarımda sadelik, anlaşılırlık, az renk ve tırnaksız yazı karakteri kullanımı ön planda olarak 1970’lerin sonuna dek devam etmiştir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>İkinci Dünya Savaşı sonrası Avrupa, İsviçre’den başlayıp Almanya ve İngiltere’de karşılığını bulan <strong>“Uluslararası Tipografik Üslup”</strong> adı verilen bir tasarım anlayışına yönelmiştir. Bu anlayış tasarımda sadelik, anlaşılırlık, az renk ve tırnaksız yazı karakteri kullanımı ön planda olarak 1970’lerin sonuna dek devam etmiştir."
     },
     {
         "SoruID": 3862478,
-        "SoruMetni": "Metis Yayınları’nın <strong>“Ötekini Dinlemek”</strong> serisi için aşağıdaki seçeneklerden hangisi/hangileri doğrudur?<br/> I. Kapak tasarımları, kitap isimlerinden gelen metaforların bir çekmece imgesi ve çekmecenin taşıdığı nesneleri içeren illüstrasyonlarla görselleştirilmiş.<br/> II. Serinin yayın mantığı, ilki 1998 yılında çıkmak üzere, seneler boyu birbirine eklemlenerek devam edecek olmasına dayalıdır.<br/> III. Çekmece imgesi, her kapakta, kitabın adı ve konusuyla aynı biçimde ilişki kuruyor.<br/> IV. Kapaklarda en istikrarlı görsel öge ise yazar, kitap adı ve arka kapak yazısı için seçilen yazı karakteridir.<br/> V. Her kapak aynı renge sahip.",
+        "SoruMetni": "Metis Yayınları’nın <strong>“Ötekini Dinlemek”</strong> serisi için aşağıdaki seçeneklerden hangisi/hangileri doğrudur?<br/>I. Kapak tasarımları, kitap isimlerinden gelen metaforların bir çekmece imgesi ve çekmecenin taşıdığı nesneleri içeren illüstrasyonlarla görselleştirilmiş.<br/>II. Serinin yayın mantığı, ilki 1998 yılında çıkmak üzere, seneler boyu birbirine eklemlenerek devam edecek olmasına dayalıdır.<br/>III. Çekmece imgesi, her kapakta, kitabın adı ve konusuyla aynı biçimde ilişki kuruyor.<br/>IV. Kapaklarda en istikrarlı görsel öge ise yazar, kitap adı ve arka kapak yazısı için seçilen yazı karakteridir.<br/>V. Her kapak aynı renge sahip.",
         "A": "I, II ve III",
         "B": "I, III ve IV",
         "C": "II, III ve V",
@@ -157,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kapak tasarımları, kitap isimlerinden gelen metaforların bir çekmece imgesi ve çekmecenin taşıdığı nesneleri içeren illüstrasyonlarla görselleştirilmiş. Serinin yayın mantığı, ilki 1998 yılında çıkmak üzere, seneler boyu birbirine eklemlenerek devam edecek olmasına dayalıdır.<br/>         Çekmece imgesi, her kapakta, kitabın adı ve konusuyla farklı biçimlerde ilişki kuruyor. Kapaklarda en istikrarlı görsel öge ise yazar, kitap adı ve arka kapak yazısı için seçilen yazı karakteridir. Her kapak ayrı bir renge sahip."
+        "Aciklama": "Kapak tasarımları, kitap isimlerinden gelen metaforların bir çekmece imgesi ve çekmecenin taşıdığı nesneleri içeren illüstrasyonlarla görselleştirilmiş. Serinin yayın mantığı, ilki 1998 yılında çıkmak üzere, seneler boyu birbirine eklemlenerek devam edecek olmasına dayalıdır.<br/>Çekmece imgesi, her kapakta, kitabın adı ve konusuyla farklı biçimlerde ilişki kuruyor. Kapaklarda en istikrarlı görsel öge ise yazar, kitap adı ve arka kapak yazısı için seçilen yazı karakteridir. Her kapak ayrı bir renge sahip."
     },
     {
         "SoruID": 3862481,
-        "SoruMetni": "<br/> <br/> <br/> <br/><strong>Penguin Books Great Ideas</strong> serisi için aşağıdakilerden hangisi/hangileri doğrudur?<br/><br/>I.David Pearson tarafından tasarlanmıştır.<br/><br/>II. Seri, “sistem içerisinde serbestlik” tanımının en iyi örneklerinden sayılabilir.<br/><br/>III. Cep boyutu olarak adlandırılan (111x181mm) ölçüde çıkan serilerin her birisi kendi özel rengine sahip.<br/><br/>IV. Her kapakta mutlaka ait olduğu serinin rengi kullanılmıştır. Serinin genel anlayışına göre kapaklar tipografik, illüstratif, soyutlama gibi anlayışlarla ele alınmıştır. Her kapakta çukur veya kabartı baskı (deboss ve emboss) kullanılmıştır.<br/><br/>V. Seri, felsefe, politika, bilim ve savaş gibi konuları içeren, radikal, öncü ve geleceği öngören yazarların ürettiği kurgusal olmayan metinleri içerir.<br/><br/><br/><br/>",
+        "SoruMetni": "<br/><strong>Penguin Books Great Ideas</strong> serisi için aşağıdakilerden hangisi/hangileri doğrudur?<br/>I.David Pearson tarafından tasarlanmıştır.<br/>II. Seri, “sistem içerisinde serbestlik” tanımının en iyi örneklerinden sayılabilir.<br/>III. Cep boyutu olarak adlandırılan (111x181mm) ölçüde çıkan serilerin her birisi kendi özel rengine sahip.<br/>IV. Her kapakta mutlaka ait olduğu serinin rengi kullanılmıştır. Serinin genel anlayışına göre kapaklar tipografik, illüstratif, soyutlama gibi anlayışlarla ele alınmıştır. Her kapakta çukur veya kabartı baskı (deboss ve emboss) kullanılmıştır.<br/>V. Seri, felsefe, politika, bilim ve savaş gibi konuları içeren, radikal, öncü ve geleceği öngören yazarların ürettiği kurgusal olmayan metinleri içerir.",
         "A": "I, II, III, IV ve V",
         "B": "I, II, III ve IV",
         "C": "II, III ve IV",
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>David Pearson tarafından tasarlanan <strong>Penguin Books Great Ideas</strong> serisi ise “sistem içerisinde serbestlik” tanımının en iyi örneklerinden sayılabilir. Seri, felsefe, politika, bilim ve savaş gibi konuları içeren, radikal, öncü ve geleceği öngören yazarların ürettiği kurgusal olmayan metinleri içerir. Cep boyutu olarak adlandırılan (111x181mm) ölçüde çıkan serilerin her birisi kendi özel rengine sahip. Her kapakta mutlaka ait olduğu serinin rengi kullanılmıştır. Serinin genel anlayışına göre kapaklar tipografik, illüstratif, soyutlama gibi anlayışlarla ele alınmıştır. Her kapakta çukur veya kabartı baskı (deboss ve emboss) kullanılmıştır. <br/><br/><br/><br/>"
+        "Aciklama": "<br/>David Pearson tarafından tasarlanan <strong>Penguin Books Great Ideas</strong> serisi ise “sistem içerisinde serbestlik” tanımının en iyi örneklerinden sayılabilir. Seri, felsefe, politika, bilim ve savaş gibi konuları içeren, radikal, öncü ve geleceği öngören yazarların ürettiği kurgusal olmayan metinleri içerir. Cep boyutu olarak adlandırılan (111x181mm) ölçüde çıkan serilerin her birisi kendi özel rengine sahip. Her kapakta mutlaka ait olduğu serinin rengi kullanılmıştır. Serinin genel anlayışına göre kapaklar tipografik, illüstratif, soyutlama gibi anlayışlarla ele alınmıştır. Her kapakta çukur veya kabartı baskı (deboss ve emboss) kullanılmıştır."
     },
     {
         "SoruID": 3862482,
@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 3862486,
-        "SoruMetni": "<br/> <br/> <br/> <br/><strong>“Casa Da Musica”</strong> Kimlik Tasarımı için aşağıdaki seçeneklerden hangisi/hangileri doğrudur?<br/><br/>I. Casa da Musica, Portekiz’in liman kenti Porto’da yer alan, bir müzik merkezidir.<br/><br/>II. Mimari tasarımı Stefan Sagmeister'e aittir.<br/><br/>III. Stefan Sagmeister, bu merkez için kapsamlı bir kimlik tasarımı ele almıştır. Binanın logosu, doğrudan binanın kendisinden ilhamla tasarlanmıştır.<br/><br/>IV. Logonun formu, basitçe binanın altı farklı açıdan görünüşünün soyutlanmasından oluşuyor.  <br/><br/>V. Müzik türlerinin değişimine göre logo da “bir zar gibi” dönerek karakter değiştiriyor ve her konser için logonun farklı bir yönü kullanılıyor.<br/><br/><br/><br/>",
+        "SoruMetni": "<br/><strong>“Casa Da Musica”</strong> Kimlik Tasarımı için aşağıdaki seçeneklerden hangisi/hangileri doğrudur?<br/>I. Casa da Musica, Portekiz’in liman kenti Porto’da yer alan, bir müzik merkezidir.<br/>II. Mimari tasarımı Stefan Sagmeister'e aittir.<br/>III. Stefan Sagmeister, bu merkez için kapsamlı bir kimlik tasarımı ele almıştır. Binanın logosu, doğrudan binanın kendisinden ilhamla tasarlanmıştır.<br/>IV. Logonun formu, basitçe binanın altı farklı açıdan görünüşünün soyutlanmasından oluşuyor. <br/>V. Müzik türlerinin değişimine göre logo da “bir zar gibi” dönerek karakter değiştiriyor ve her konser için logonun farklı bir yönü kullanılıyor.",
         "A": "I, II, III ve IV",
         "B": "I, II ve IV",
         "C": "II, III, IV",
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><strong>Casa da Musica</strong>, Portekiz’in liman kenti Porto’da yer alan, mimari tasarımı Rem Kohlhaas’a ait olan bir müzik merkezidir. Stefan Sagmeister ise bu merkez için kapsamlı bir kimlik tasarımı ele almıştır. Binanın logosu, doğrudan binanın kendisinden ilhamla tasarlanmıştır.<br/><br/> <br/> <br/> <br/> <br/>Logonun formu, basitçe binanın altı farklı açıdan görünüşünün soyutlanmasından oluşuyor. Müzik türlerinin değişimine göre logo da “bir zar gibi” dönerek karakter değiştiriyor ve her konser için logonun farklı bir yönü kullanılıyor.<br/><br/><br/><br/><br/><br/><br/><br/>"
+        "Aciklama": "<br/><strong>Casa da Musica</strong>, Portekiz’in liman kenti Porto’da yer alan, mimari tasarımı Rem Kohlhaas’a ait olan bir müzik merkezidir. Stefan Sagmeister ise bu merkez için kapsamlı bir kimlik tasarımı ele almıştır. Binanın logosu, doğrudan binanın kendisinden ilhamla tasarlanmıştır.<br/>Logonun formu, basitçe binanın altı farklı açıdan görünüşünün soyutlanmasından oluşuyor. Müzik türlerinin değişimine göre logo da “bir zar gibi” dönerek karakter değiştiriyor ve her konser için logonun farklı bir yönü kullanılıyor."
     },
     {
         "SoruID": 3862488,
-        "SoruMetni": "<br/> <br/> <br/> <br/><strong>Ariel Sanat</strong>’ın 2015-2019 yılları arasında gerçekleşen 21 farklı sergi için Bülent Erkmen, her serginin özel bir işaretine de dönüşen 21 afiş hazırladı. Afiş tasarımlarında sisteme dair ilk göze çarpan görsel kararlar aşağıdakilerden hangisi/hangileridir?<br/><br/>I. Afişlerde yalnızca siyah renk kullanılmış.<br/><br/>II. Dikdörtgen afişin üst kare alanı, serginin kimliğine dönüşen işaretlere, alt kısmı ise sergi bilgilerine ayrılmış.<br/><br/>III. Serginin adı İngilizce olarak yatay yazılmış.<br/><br/>IV. Sergi sahipleri (sanatçılar) işaretin hemen altında yer alıyor.<br/><br/>V. Ariel logosu ise afişin alt orta kısmında bulunuyor.<br/><br/><br/><br/>",
+        "SoruMetni": "<br/><strong>Ariel Sanat</strong>’ın 2015-2019 yılları arasında gerçekleşen 21 farklı sergi için Bülent Erkmen, her serginin özel bir işaretine de dönüşen 21 afiş hazırladı. Afiş tasarımlarında sisteme dair ilk göze çarpan görsel kararlar aşağıdakilerden hangisi/hangileridir?<br/>I. Afişlerde yalnızca siyah renk kullanılmış.<br/>II. Dikdörtgen afişin üst kare alanı, serginin kimliğine dönüşen işaretlere, alt kısmı ise sergi bilgilerine ayrılmış.<br/>III. Serginin adı İngilizce olarak yatay yazılmış.<br/>IV. Sergi sahipleri (sanatçılar) işaretin hemen altında yer alıyor.<br/>V. Ariel logosu ise afişin alt orta kısmında bulunuyor.",
         "A": "I, II ve III",
         "B": "I, III, IV ve V",
         "C": "I, II ve V",
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Afişlerde yalnızca siyah renk kullanılmış. Dikdörtgen afişin üst kare alanı, serginin kimliğine dönüşen işaretlere, alt kısmı ise sergi bilgilerine ayrılmış. Sergi sahipleri (sanatçılar) işaretin hemen altında yer alıyor. Serginin adı ise Türkçe ve İngilizce olarak dikey yazılmış. Ariel logosu ise afişin alt orta kısmında bulunuyor.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Afişlerde yalnızca siyah renk kullanılmış. Dikdörtgen afişin üst kare alanı, serginin kimliğine dönüşen işaretlere, alt kısmı ise sergi bilgilerine ayrılmış. Sergi sahipleri (sanatçılar) işaretin hemen altında yer alıyor. Serginin adı ise Türkçe ve İngilizce olarak dikey yazılmış. Ariel logosu ise afişin alt orta kısmında bulunuyor."
     },
     {
         "SoruID": 3862552,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Grafik tasarımı iki ana üretim kanalından de­ğerlendirebiliriz: <br/> 1. Bir seriye ait olmayan, tekil, tekrar etme­yen, şablona dönüşmeyen bir tasarım man­tığına bağlı üretim,<br/>2.Bir seriye ait, sabit kararları olan, detaylarda değişim olsa bile o gruptaki aidiyetini koru­yan, tasarım kararları bir “şablon” mantığı­na bağlı üretim."
+        "Aciklama": "Grafik tasarımı iki ana üretim kanalından de­ğerlendirebiliriz: <br/>1. Bir seriye ait olmayan, tekil, tekrar etme­yen, şablona dönüşmeyen bir tasarım man­tığına bağlı üretim,<br/>2.Bir seriye ait, sabit kararları olan, detaylarda değişim olsa bile o gruptaki aidiyetini koru­yan, tasarım kararları bir “şablon” mantığı­na bağlı üretim."
     },
     {
         "SoruID": 3862553,
@@ -286,7 +286,7 @@
         "B": "Kitap kapağı",
         "C": "Reklam",
         "D": "Marka",
-        "E": "Logotype<br/><br/>",
+        "E": "Logotype",
         "DogruCevap": "E",
         "DersAd": "Görsel Sistem Tasarımları",
         "Unite": 2,
@@ -366,7 +366,7 @@
         "B": "Empatik",
         "C": "Deneysel",
         "D": "Soyut",
-        "E": "Metaforik<br/><br/>",
+        "E": "Metaforik",
         "DogruCevap": "E",
         "DersAd": "Görsel Sistem Tasarımları",
         "Unite": 2,
@@ -421,11 +421,11 @@
     },
     {
         "SoruID": 3862560,
-        "SoruMetni": "Great Ideas serisinin kitap kapak tasarımcısı aşağıdakilerden hangisdir?<br/>",
+        "SoruMetni": "Great Ideas serisinin kitap kapak tasarımcısı aşağıdakilerden hangisdir?",
         "A": "Rem Kohlhaas",
         "B": "Andre Green",
         "C": "Bülent Erkmen",
-        "D": "Stefan Sagmeister<br/><br/>",
+        "D": "Stefan Sagmeister",
         "E": "David Pearson",
         "DogruCevap": "E",
         "DersAd": "Görsel Sistem Tasarımları",
@@ -441,7 +441,7 @@
     },
     {
         "SoruID": 3862561,
-        "SoruMetni": "Metis Yayınları’nın “Ötekini Dinlemek” serisinin  kitap kimliğini tasarlayan sanatçı aşağıdakilerden hangisidir?",
+        "SoruMetni": "Metis Yayınları’nın “Ötekini Dinlemek” serisinin kitap kimliğini tasarlayan sanatçı aşağıdakilerden hangisidir?",
         "A": "Bülent Erkmen",
         "B": "Yetkin Başarır",
         "C": "Nevzat Akoral",
@@ -461,8 +461,8 @@
     },
     {
         "SoruID": 3862584,
-        "SoruMetni": "David Pearson tarafından tasarlanan ve  “sistem içerisinde serbestlik” tanımının en iyi örneklerinden sayılan seri aşağıdakilerden hangisidir?",
-        "A": "<em>Ejderha Mızrağı</em> Destanı <em>Serisi</em>",
+        "SoruMetni": "David Pearson tarafından tasarlanan ve “sistem içerisinde serbestlik” tanımının en iyi örneklerinden sayılan seri aşağıdakilerden hangisidir?",
+        "A": "<em>Ejderha Mızrağı</em> Destanı <em>Serisi</em>",
         "B": "Garip Akımı Şairleri Serisi",
         "C": "Penguin Books Great Ideas Serisi",
         "D": "Can Lab serisi",
@@ -477,11 +477,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "David Pearson tarafından tasarlanan Penguin Books Great Ideas serisi ise “sistem içerisinde serbestlik” tanımının en iyi örneklerinden sayılabilir. Seri, felsefe, politika, bilim ve savaş gibi konuları içeren, radikal, öncü ve geleceği öngören yazarların ürettiği kurgusal olmayan metinleri içerir."
+        "Aciklama": "sitem içinde serbestlik tanımına örnekler<br>David Pearson tarafından tasarlanan Penguin Books Great Ideas serisi ise “sistem içerisinde serbestlik” tanımının en iyi örneklerinden sayılabilir. Seri, felsefe, politika, bilim ve savaş gibi konuları içeren, radikal, öncü ve geleceği öngören yazarların ürettiği kurgusal olmayan metinleri içerir."
     },
     {
         "SoruID": 3862586,
-        "SoruMetni": "Aşağıda verilenlerden hangileri  Penguin Books Great Ideas serisinin özelliklerindendir?<br/> I. Cep boyutu olarak adlandırılan (111x181mm) ölçüde çıkan serilerin her birisi kendi özel rengine sahiptir.<br/> II. Kapaklardaki tasarım anlayışı serbestmiş gibi görünse de serinin bütününe bakıldığında genel bir tasarım üslubu izlenebilir.<br/> III. Serinin genel anlayışına göre kapaklar tipografik, illüstratif, soyutlama gibi anlayışlarla ele alınmıştır.",
+        "SoruMetni": "Aşağıda verilenlerden hangileri Penguin Books Great Ideas serisinin özelliklerindendir?<br/>I. Cep boyutu olarak adlandırılan (111x181mm) ölçüde çıkan serilerin her birisi kendi özel rengine sahiptir.<br/>II. Kapaklardaki tasarım anlayışı serbestmiş gibi görünse de serinin bütününe bakıldığında genel bir tasarım üslubu izlenebilir.<br/>III. Serinin genel anlayışına göre kapaklar tipografik, illüstratif, soyutlama gibi anlayışlarla ele alınmıştır.",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Great Ideas, şimdiye dek 120 kitaplık altı seri olarak yayımlandı ve devam ediyor. Cep boyutu olarak adlandırılan (111x181mm) ölçüde çıkan serilerin her birisi kendi özel rengine sahip. Kapaklardaki tasarım anlayışı serbestmiş gibi görünse de serinin bütününe bakıldığında genel bir tasarım üslubu izlenebilir. Her kapakta mutlaka ait olduğu serinin rengi kullanılmıştır. Serinin genel anlayışına göre kapaklar tipografik, illüstratif, soyutlama gibi anlayışlarla ele alınmıştır. Her kapakta çukur veya kabartı baskı (deboss ve emboss) kullanılmıştır"
+        "Aciklama": "kitap kapağı tasarımlarına örnekler<br>Great Ideas, şimdiye dek 120 kitaplık altı seri olarak yayımlandı ve devam ediyor. Cep boyutu olarak adlandırılan (111x181mm) ölçüde çıkan serilerin her birisi kendi özel rengine sahip. Kapaklardaki tasarım anlayışı serbestmiş gibi görünse de serinin bütününe bakıldığında genel bir tasarım üslubu izlenebilir. Her kapakta mutlaka ait olduğu serinin rengi kullanılmıştır. Serinin genel anlayışına göre kapaklar tipografik, illüstratif, soyutlama gibi anlayışlarla ele alınmıştır. Her kapakta çukur veya kabartı baskı (deboss ve emboss) kullanılmıştır"
     },
     {
         "SoruID": 3862593,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Editoryal tanımı, yayımlanacak kitapların yayınevi direktörü veya yayınevi editörleri tarafından, türlerine bağlı olarak gruplanması çalışmasına verilen addır. Örneğin; “Garip Akımı Şairleri Serisi” veya “Rus Klasikleri Serisi” gibi."
+        "Aciklama": "kavram ve tanımlar<br>Editoryal tanımı, yayımlanacak kitapların yayınevi direktörü veya yayınevi editörleri tarafından, türlerine bağlı olarak gruplanması çalışmasına verilen addır. Örneğin; “Garip Akımı Şairleri Serisi” veya “Rus Klasikleri Serisi” gibi."
     },
     {
         "SoruID": 3862594,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tschichold’un bu yaklaşımı, İkinci Dünya Savaşı sonrası inşa edilen modernist bir dünya anlayışının yansımasıdır. Bu yaklaşım, tasarımı gereksiz detaylardan ve süsten arındırma ve işlevselliğin ön planda tutulduğu estetik yaklaşıma yönelme, tasarımı “rafine etme” olarak özetlenebilir."
+        "Aciklama": "kavram ve terimler<br>Tschichold’un bu yaklaşımı, İkinci Dünya Savaşı sonrası inşa edilen modernist bir dünya anlayışının yansımasıdır. Bu yaklaşım, tasarımı gereksiz detaylardan ve süsten arındırma ve işlevselliğin ön planda tutulduğu estetik yaklaşıma yönelme, tasarımı “rafine etme” olarak özetlenebilir."
     },
     {
         "SoruID": 3862595,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İkinci Dünya Savaşı sonrası Avrupa, İsviçre’den başlayıp Almanya ve İngiltere’de karşılığını bulan “Uluslararası Tipografik Üslup” adı verilen bir tasarım anlayışına yönelmiştir. Bu anlayış tasarımda sadelik, anlaşılırlık, az renk ve tırnaksız yazı karakteri kullanımı ön planda olarak 1970’lerin sonuna dek devam etmiştir."
+        "Aciklama": "tasarım yaklaşımları<br>İkinci Dünya Savaşı sonrası Avrupa, İsviçre’den başlayıp Almanya ve İngiltere’de karşılığını bulan “Uluslararası Tipografik Üslup” adı verilen bir tasarım anlayışına yönelmiştir. Bu anlayış tasarımda sadelik, anlaşılırlık, az renk ve tırnaksız yazı karakteri kullanımı ön planda olarak 1970’lerin sonuna dek devam etmiştir."
     },
     {
         "SoruID": 3862597,
@@ -597,6 +597,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu dergi kapaklarında dikkat edilmesi gereken ortak nokta, kapakların belirli bir sistem içerisinde değişkenliğe, kapaklara dair bir özgürlüğe sahip olması. Kapak görselleri her sayı değişiyor olsa bile, o görsellerin oluşum mantığı, tasarım fikri, uygulama biçimi değişim göstermediği için serileşiyor, bir bakıma aynılaşıyor. Kapak görsellerinin metaforik anlatımları, dergiyi takip eden okuyucuda bir alışkanlık ve aynı türden bir beklenti yaratıyor. Bu da doğrudan görsel benzerlik üstünden olmasa bile yaklaşım üstünden bir şablon kurma mantığına işaret ediyor."
+        "Aciklama": "kapak tasarımı<br>Bu dergi kapaklarında dikkat edilmesi gereken ortak nokta, kapakların belirli bir sistem içerisinde değişkenliğe, kapaklara dair bir özgürlüğe sahip olması. Kapak görselleri her sayı değişiyor olsa bile, o görsellerin oluşum mantığı, tasarım fikri, uygulama biçimi değişim göstermediği için serileşiyor, bir bakıma aynılaşıyor. Kapak görsellerinin metaforik anlatımları, dergiyi takip eden okuyucuda bir alışkanlık ve aynı türden bir beklenti yaratıyor. Bu da doğrudan görsel benzerlik üstünden olmasa bile yaklaşım üstünden bir şablon kurma mantığına işaret ediyor."
     }
 ]

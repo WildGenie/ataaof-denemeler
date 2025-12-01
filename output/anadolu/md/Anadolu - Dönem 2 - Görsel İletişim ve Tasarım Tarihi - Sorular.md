@@ -8,7 +8,8 @@
     - D-) Kaş (Patara)
     - E-) Dalaman (Indus)
 
-    > **Açıklama:** Bergama (Pergamon)
+    > **Açıklama:** İlk kitaplar başılığını okuyunuz.
+    > Bergama (Pergamon)
 
     ***
 1. M.Ö. 2500 yılı civarında papirüs bitkisini yazı yüzeyi olarak kullanan ilk toplum aşağıdakilerden hangisidir?
@@ -18,7 +19,8 @@
     - **Cevap D-) Mısırlılar**
     - E-) Likyalılar
 
-    > **Açıklama:** Mısırlılar
+    > **Açıklama:** İlk kitaplar bölümünü okuyunuz.
+    > Mısırlılar
 
     ***
 1. Sümer ve Mısır uygarlıklarının hece yazı sistemlerini kullanarak kendi dillerindeki 22 sesle ilk sesçil (fonetik) yazı sistemini oluşturan uygarlık aşağıdakilerden hangisidir?
@@ -28,7 +30,7 @@
     - D-) Bizanslılar
     - E-) Likyalılar
 
-    > **Açıklama:** Fenikeliler
+    > **Açıklama:** Fenikeliler ve İlk Alfabeler
 
     ***
 1. Aşağıdakilerden hangisi **yanlış olarak verilmiştir?**
@@ -38,7 +40,8 @@
     - D-) Hece yazı (Syllogram): Bir nesne veya kavramın ilk hecesini kullanarak bir sesi işaret eder.
     - **Cevap E-) Fonetik (Sesçil): 24 sesli harfle oluşturulan ve Mısır'da keşfedilen bir yazı sistemidir.**
 
-    > **Açıklama:** Fonetik (Sesçil): 24 sesli harfle oluşturulan ve Mısır'da keşfedilen bir yazı sistemidir.
+    > **Açıklama:** Sümerler ve Çivi Yazısı
+    > Fonetik (Sesçil): 24 sesli harfle oluşturulan ve Mısır'da keşfedilen bir yazı sistemidir.
 
     ***
 1. Aşağıdakilerdyen hangisi Göbeklitepe’nin **özelliklerden değildir?**
@@ -48,7 +51,8 @@
     - D-) Taşlar üzerinde hayvan ve insan figürleri kabartma olarak işlenmiştir.
     - **Cevap E-) Duvarlardaki resimlerde insan yüzlü kuşlar gibi fantastik yaratıklar betimlenmiştir.**
 
-    > **Açıklama:** Duvarlardaki resimlerde insan yüzlü kuşlar gibi fantastik yaratıklar betimlenmiştir.
+    > **Açıklama:** Yerleşik hayata geçiş bölümünü okuyunuz.
+    > Duvarlardaki resimlerde insan yüzlü kuşlar gibi fantastik yaratıklar betimlenmiştir.
 
     ***
 1. Günümüze ulaşan en eski kaya resimleri aşağıdakilerden hangisinde bulunmaktadır?
@@ -58,7 +62,8 @@
     - D-) Almanya-Hohlenstein mağarası
     - E-) Türkiye-Göbeklitepe
 
-    > **Açıklama:** Endonezya-Sulawesi mağarası
+    > **Açıklama:** Kaya Resimleri ve Heykelcikleri bölümünü okuyunuz.
+    > Endonezya-Sulawesi mağarası
 
     ***
 1. Medyum kelimesi Türkçe dilinde hangi anlama gelir?
@@ -68,17 +73,19 @@
     - D-) İletişim
     - E-) Teknoloji
 
-    > **Açıklama:** Ortam
+    > **Açıklama:** Teknoloji, iletişim, görsel iletişim ve tasarım
+    > Ortam
 
     ***
-1. 13.yüzyılda hattatların sultanı olarak anılan ucu kesik kalemle çeşitli kalınlıklar içeren yazı yazan kişi aşağıdakilerden hangisidir?
+1. 13\.yüzyılda hattatların sultanı olarak anılan ucu kesik kalemle çeşitli kalınlıklar içeren yazı yazan kişi aşağıdakilerden hangisidir?
     - **Cevap A-) Yâkūt el-Müsta‘sımî**
     - B-) Yâkūt el-Muhammed
     - C-) İbni Mukle
     - D-) İbnü’l-Bevvab
     - E-) İbni Rüşt
 
-    > **Açıklama:** Yâkūt el-Müsta‘sımî
+    > **Açıklama:** İslam Coğrafyasında El Yazmaları
+    > Yâkūt el-Müsta‘sımî
 
     ***
 1. Japonya’da el yapımı kağıtların üzerine siyah mürekkeple resimleme tekniğine ne ad verilir?
@@ -88,7 +95,8 @@
     - D-) Ga-resimleme
     - E-) Kai-Shu
 
-    > **Açıklama:** Sumi-e
+    > **Açıklama:** Uzakdoğu başlığını okuyunuz.
+    > Sumi-e
 
     ***
 1. Aşağıdakilerden hangisi Ortaçağ döneminde yazılan el yazmalarının özelliklerinden **biri değildir?**
@@ -98,7 +106,8 @@
     - D-) Bu dönemde yazılan el yazmalarında daha çok İncil yazılmıştır.
     - **Cevap E-) Ortaçağ Avrupa’sında resimli el yazması yapılmamıştır.**
 
-    > **Açıklama:** Ortaçağ Avrupa’sında resimli el yazması yapılmamıştır.
+    > **Açıklama:** Avrupa’da el yazmaları
+    > Ortaçağ Avrupa’sında resimli el yazması yapılmamıştır.
 
     ***
 1. Türk Dil Kurumu'na göre “Bir sanayi dalı ile ilgili yapım yöntemlerini, kullanılan araç, gereç ve aletleri, bunların kullanım biçimlerini kapsayan uygulama bilgisi, uygulayım bilimi” ve “İnsanın maddi çevresini denetlemek ve değiştirmek amacıyla geliştirdiği araç gereçlerle bunlara ilişkin bilgilerin tümü”ne ne ad verilir?
@@ -138,7 +147,8 @@
     - D-) Ivan Chermayeff
     - E-) William Morris
 
-    > **Açıklama:** Bu kadar geniş bir üretim sürecini ve bu sürecin arkasında yatan yaratıcı zekayı Louis Danziger şöyle tanımlar: “Tasarım zekanın görünür hale getirilmesidir” (aktaran Wheeler, 2018, p.10).
+    > **Açıklama:** Görsel iletişim oldukça önemli bir kavram olmasına rağmen, tasarım kavramı da açıklığa kavuşturulmadan eksik kalmaktadır. Tasarım da bahsi geçen diğer kavramlar gibi çok yönlü bir kavramdır. İçinde bulunduğu zamana ve coğrafyaya göre farklı anlamlar kazanabilmektedir. “Tasarım bir problemin çözümü demektir” (Becer, 2019, s.34). Bu yaklaşım tüm tasarımlar için doğrudur. İster mimari bir tasarım, ister bir endüstriyel tasarım veya reklam grafiği olsun, hepsi bir problemi çözmek için ortaya konulmuş fikirler ve uygulama süreçleridir. Tüm tasarımlar, tasarım probleminin etrafında şekillenir. Örneğin bir kitap baskısı yapılacağı zaman bu kitabın hangi okuyucu kitlesi için hazırlanacağı, hangi boyutlarda basılacağı, kaç sayfa olacağı, renkli mi yoksa siyah beyaz mı olacağı, okuyucunun yaş grubuna göre hangi yazı tipinin hangi boyda kullanılacağı gibi görsel soruların yanında; hangi yöntemle kaç adet basılacağı, nasıl ciltleneceği, okuyuculardan gelecek geri bildirimlerin değerlendirilmesi gibi süreç soruları da
+    > Bu kadar geniş bir üretim sürecini ve bu sürecin arkasında yatan yaratıcı zekayı Louis Danziger şöyle tanımlar: “Tasarım zekanın görünür hale getirilmesidir” (aktaran Wheeler, 2018, p.10).
 
     ***
 1. "Kayaların üzerine püskürtme, kazıma veya fırça ile boyama vb. yöntemler kullanarak insanlar tarafından yapılmış imgelerdir. Görsel iletişimin ilk örnekleri olarak kabul edilmektedirler" ifadesi aşağıdakilerden hangi terimi tanımlar?
@@ -174,7 +184,7 @@
 1. Fransa'da Lascaux mağarasının içerisinde kaç tane figür bulunmaktadır?
     - **Cevap A-) 1963**
     - B-) 18
-    - C-) 20.230
+    - C-) 20\.230
     - D-) 256
     - E-) 9500
 
@@ -208,7 +218,7 @@
     - D-) Marcel Danesi
     - E-) Peter-Paul Verbeek
 
-    > **Açıklama:** Louis Danziger
+    > **Açıklama:** Geniş bir üretim sürecini ve bu sürecin arkasında yatan yaratıcı zekayı Louis Danziger şöyle tanımlar: “Tasarım zekanın görünür hale getirilmesidir”
 
     ***
 1. İlk teknolojik alet kullanımının hangi insanımsı tür ile başladığı kabul edilmektedir.?
@@ -218,7 +228,7 @@
     - D-) Homo erectus
     - E-) Homo antecessor
 
-    > **Açıklama:** Homo habilis
+    > **Açıklama:** Homo Habilis, beyni modern insanın yarısı büyüklükte bir insanımsı türüdür. Nehir yatağından bulduğu taşları yaklaşık on beş kilometre taşımışlar ve kullanmışlardır. Bu, öncüllerinden ve aynı dönemde yaşamış primatlardan farklı olarak onların gelecek için plan yapabildiklerini göstermektedir. Diğer taraftan taş yontma teknikleri ve elde ettikleri aletler neredeyse bir milyon yıl boyunca aynı kalmıştır (Headrick, 2009). Burada önemli olan nokta, taşları kendi bedensel kapasitelerini arttırmak için kullanmalarıdır. Homo Habilislerin taşları yontmaları, işlerine yarayacaklarını düşündükleri bir formu, taş devrinin en kaba formu bile olsa, yontarak üretebildiklerini göstermektedir. Bundan daha eski bazı buluntular olsa da araştırmaları henüz tamamlanmadığı veya noksan noktalar bulunduğu için ilk teknolojik aletin insanımsılarda Homo Habilis ile başladığı kabul edilmektedir.
 
     ***
 1. Aşağıdakilerden hangisi Norfolk bölgesinde üretilen el baltası tasarımında kullanılmıştır?
@@ -228,7 +238,8 @@
     - **Cevap D-) Deniz kabuğu**
     - E-) Kemik
 
-    > **Açıklama:** Deniz kabuğu
+    > **Açıklama:** Norfolk bölgesinde 250.000 yıl önce üretilmiş, ilk bakışta şeklen diğerlerinden farklı olmayan bir el baltasıdır. Bu el baltasının tam ortasında doğal olarak oluşmuş bir deniz kabuğu vardır. Baltayı yontan kişi, büyük bir ustalıkla deniz kabuğuna hiçbir zarar vermeden dikkatlice simetriğe yakın bir form vermiştir. Taş baltalarındaki bu simetrik yapılara dikkat edilmesi, taşların önceden planlanarak taşınması, bazı taş çeşitlerinin özellikle seçilmesi, farklı şekiller verilmesi ve deniz kabuğunun el baltası yontulurken korunması gibi etmenler, bu nesneleri yapanların tasarım ve estetik idraki
+    > olduğunu düşündürmektedir.
 
     ***
 1. Kaya yüzeylerine kazınarak ve oyularak yapılan resimlere ne ad verilir?
@@ -238,7 +249,7 @@
     - D-) Gravür
     - **Cevap E-) Petroglif**
 
-    > **Açıklama:** Petroglif
+    > **Açıklama:** Petroglif: Kaya yüzeylerine kazınarak ve oyularak yapılan resimlere denir.
 
     ***
 1. Kaya resimleri ile ilgili en eski örnek hangi ülkede bulunmuştur?
@@ -248,17 +259,18 @@
     - D-) Tunus
     - E-) Mısır
 
-    > **Açıklama:** Endonezya
+    > **Açıklama:** Kaya resimleri ile ilgili en eski örnek, Endonezya’nın Sulawesi adasında bir mağaranın üst kısmında, üzerinde yer yer mağara oluşumları oluşmuş vaziyette bulunmuştur.
 
     ***
-1. Tarih öncesi dönemde görsel iletişim tekniklerinde aşağıdaki teknolojilerden hangisi yada hangileri kullanılmıştır?<br />I- Boya üretim teknikleri     II- İlkel fırçalar     III- Taş kandiller
+1. Tarih öncesi dönemde görsel iletişim tekniklerinde aşağıdaki teknolojilerden hangisi yada hangileri kullanılmıştır?<br />I- Boya üretim teknikleri II- İlkel fırçalar III- Taş kandiller
     - A-) I
     - B-) I,II
     - C-) II,III
     - D-) I,III
     - **Cevap E-) I,II ve III**
 
-    > **Açıklama:** I,II ve III
+    > **Açıklama:** O dönemde yaşamış olan insanlar karmaşık boya üretim teknikleri, ilkel fırçalar ve hayvan yağı yakan taş kandiller gibi teknolojileri kullanarak ilk görsel iletişim örneklerini yapmışlardır.
+    > I,II ve III
 
     ***
 1. Tarihte insan yüzlü kuş heykeline rastlanılan ilk kült merkezi aşağıdakilerden hangisidir?
@@ -268,7 +280,9 @@
     - D-) Ayn Ghazal
     - E-) Ubaid
 
-    > **Açıklama:** Nevali Çöri
+    > **Açıklama:** Genç bir yerleşim olan Nevali Çöri ören yerinde insan yüzlü bir kuş heykeline rastlanmıştır (Peters
+    > & Schmidt, 2004; Schmidt, 2010). Tarihte insanlar tarafından yapılmış ilk kült merkezi olduğu düşünülen bu yerin, oldukça zengin bir görselliğe sahip olması insanların fikirlerini ve inanışlarını
+    > semboller yolu ile aktarmayı, kalıcı hâle getirmeyi stediğini göstermektedir.
 
     ***
 1. İlk kez büyük boyda yapılan (yaklaşık 1,5 metre) heykelleri ile ünlü olan yerleşim yeri neresidir?
@@ -278,7 +292,8 @@
     - D-) Çatalhöyük
     - E-) Ubaid
 
-    > **Açıklama:** Ayn Ghazal
+    > **Açıklama:** Ayn Hazal’ın ünü ilk defa büyük boyda yapılan (yaklaşık 1,5 metre) heykellerden gelir.
+    > Ayn Ghazal
 
     ***
 1. Vellum nedir?
@@ -288,17 +303,19 @@
     - D-) Matbaa
     - E-) El yazması
 
-    > **Açıklama:** Parşömenin en kalitelisi
+    > **Açıklama:** Parşömenin en iyi kalitelisine “Vellum” denilmektedir ve yeni doğmuş veya anne karnındaki buzağıların derisinden üretilmektedir
+    > Parşömenin en kalitelisi
 
     ***
-1. Aşağıdakilerden hangisi yada hangileri papirüsün dezavantajıdır?<br />I- Kolay zedelenebilmesi   II- Yapısının pürüzlü olması     III- Kırılgan olması
+1. Aşağıdakilerden hangisi yada hangileri papirüsün dezavantajıdır?<br />I- Kolay zedelenebilmesi II- Yapısının pürüzlü olması III- Kırılgan olması
     - A-) I
     - B-) II
     - C-) I,II
     - D-) I,III
     - **Cevap E-) I,II ve III**
 
-    > **Açıklama:** I,II ve III
+    > **Açıklama:** Papirüsün pürüzlü yapısı, kolay zedelenebilmesi ve ham maddesinin Mısır’da olması insanların elde edebilmesini ve kullanımı zorlaştırmaktadır
+    > I,II ve III
 
     ***
 1. Teknoloji kelimesi, dilimize hangi dilden girmiştir ?
@@ -393,11 +410,11 @@
     ***
 ## Unite 2
 1. Avrupa, Çin'den gelen kâğıtla hangi yüzyılda tanışmıştır?
-    - A-) 10. yüzyıl
-    - **Cevap B-) 11. yüzyıl**
-    - C-) 12. yüzyıl
-    - D-) 13. yüzyıl
-    - E-) 14. yüzyıl
+    - A-) 10\. yüzyıl
+    - **Cevap B-) 11\. yüzyıl**
+    - C-) 12\. yüzyıl
+    - D-) 13\. yüzyıl
+    - E-) 14\. yüzyıl
 
     > **Açıklama:** Doğudan batıya doğru gelişen ipek yolu ticareti öncelerinde Avrupa’yı ipek ve baharatla, 11.yüzyılda ise Çin’den gelen kâğıt ile tanıştırmıştır. Doğru cevap B'dir.
 
@@ -419,7 +436,7 @@
     - D-) Albert Dürer
     - E-) Marcus Aurelius
 
-    > **Açıklama:** Marco Polo
+    > **Açıklama:** Büyük kâşif **Marco Polo** 1295 yılında Çin seyahati sonrasında İtalya’ya döndüğünde doğunun baskı teknolojisini de beraberinde getirmiştir.
 
     ***
 1. Avrupa'da **ahşap kalıp baskı** hangi tarihte başlamıştır?
@@ -429,7 +446,7 @@
     - D-) 1452
     - E-) 1453
 
-    > **Açıklama:** 1390
+    > **Açıklama:** Avrupa’da ise **ahşap kalıp baskı 1390’**da kâğıt üretiminin sonrasında başladığı bilinmektedir.
 
     ***
 1. Avrupa’da ahşap kalıp baskı **hangi ürünün üretilmesiyle** başlamıştır?
@@ -439,7 +456,7 @@
     - D-) Muşamba
     - **Cevap E-) Kâğıt**
 
-    > **Açıklama:** Kâğıt
+    > **Açıklama:** Avrupa’da ise ahşap kalıp baskı 1390’da **kâğıt üretiminin sonrasında başladığı** bilinmektedir.
 
     ***
 1. Avrupa’da 14. yüzyılda uygulanmaya başlanan ahşap blok baskının ilk örneklerinden birinin 1418 yılında basılan **temanın konusu** aşağıdakilerden hangisidir?
@@ -449,7 +466,8 @@
     - **Cevap D-) Dört Azizli Bakire ve Çocuk**
     - E-) Savaş makbuzları
 
-    > **Açıklama:** Dört Azizli Bakire ve Çocuk
+    > **Açıklama:** Avrupa’da 14. yüzyılda uygulanmaya başlanan ahşap blok baskının ilk örneklerinden birinin
+    > 1418 yılında basılan **“Dört Azizli Bakire ve Çocuk”** olduğu bilinmektedir.
 
     ***
 1. Mürekkebi kumaş veya kâğıda aktarmak için ahşap kauçuk malzeme vb. malzemelere oyulmuş bir kabartma baskı aşağıdakilerden hangisidir?
@@ -459,7 +477,7 @@
     - D-) Gofre Baskı
     - E-) Ofset Baskı
 
-    > **Açıklama:** **Blok baskı,** mürekkebi kumaş veya kağıda aktarmak için ahşap kauçuk malzeme vb. malzemelere oyulmuş bir kabartma baskı tekniğidir. Blok, bir tür damga görevi görür ve nihai ürün, oymacılığın ayna görüntüsüdür.
+    > **Açıklama:** **Blok baskı,** mürekkebi kumaş veya kağıda aktarmak için ahşap kauçuk malzeme vb. malzemelere oyulmuş bir kabartma baskı tekniğidir. Blok, bir tür damga görevi görür ve nihai ürün, oymacılığın ayna görüntüsüdür.
 
     ***
 1. Gutenberg’in 1452-1454 yılları arasında yaşadığı Mainz’de Latince olarak bastığı en önemli kitaplardan biri aşağıdakilerden hangisidir?
@@ -469,7 +487,7 @@
     - D-) Kıbrıs kralı bağış makbuzları
     - E-) Bizans Krallık savaşları
 
-    > **Açıklama:** Biblia Latina
+    > **Açıklama:** Gutenberg’in 1452-1454 yılları arasında yaşadığı Mainz’de Latince olarak bastığı en önemli kitaplardan biri Gutenberg İncili olarak da bilinen **“Biblia Latina”** idi.
 
     ***
 1. 1998 yılında son bin yılın en önemli kişiliği milenyumun en önemli olaylarından biri seçilen aşağıdakilerden hangisidir?
@@ -479,7 +497,9 @@
     - D-) Aldus Manutius ve İtalik yazı tipini içeren ilk kitap Virgil Operası
     - **Cevap E-) Gutenberg ve matbaa icadı**
 
-    > **Açıklama:** Gutenberg ve matbaa icadı
+    > **Açıklama:** Gutenberg’in icadı **milenyumun en önemli olaylarından biriyd**i ve 1998 yılında **son bin yılın en**
+    > **önemli kişiliği** seçilmiştir.
+    > Gutenberg ve matbaa icadı
 
     ***
 1. On beşinci yüzyılda geliştirilen gravür, ilk başta geleneksel olan hangi sanatının bir dalı olarak görülüyordu?
@@ -489,7 +509,8 @@
     - D-) Dericilik
     - E-) Kunduracılık
 
-    > **Açıklama:** Kuyumculuk
+    > **Açıklama:** On beşinci yüzyılda geliştirilen **gravür,** ilk başta geleneksel olarak **kuyumculuk sanatının bir dalı**
+    > olarak görülüyordu.
 
     ***
 1. Gutenberg matbaasının icadıyla 1450 sonrası 1500’lerin başlarına kadar olan süreç **Incunabula** dönemi olarak bilinir. **Incunabula,** Latince ‘beşik’ anlamına gelir. Incunabula olarak adlandırılan kitaplardan, basılı tarihin “beşiği” olarak söz ederler. **Incunabula’ların** basımı, **kaç farklı türde** üretilmişlerdir?
@@ -499,7 +520,9 @@
     - D-) 5
     - E-) 6
 
-    > **Açıklama:** 2
+    > **Açıklama:** **Incunabula’lar,**
+    > ***1-Ksilografik*** (tüm sayfaların tek tek yontulması ile) ve
+    > ***2-Tipografik*** (Johann Gutenberg hareketli matbaasında yazı ile) olarak iki farklı türde üretilmişlerdir.
 
     ***
 1. Dönemin matbaacıları tarafından söylenen **“Şüpheye düştüğünüzde şu yazı dökümcüsünün yazı karakterini kullanın”** özdeyişi aşağıdakilerden hangisine aittir?
@@ -509,7 +532,8 @@
     - **Cevap D-) William Caslon**
     - E-) Pierre-Simon Fournier
 
-    > **Açıklama:** William Caslon
+    > **Açıklama:** Caslon yazıyüzünü geliştirmiştir. **“Şüpheye düştüğünüzde Caslon kullanın”** özdeyişi matbaacılar arasında günümüze kadar gelmiştir.
+    > William Caslon
 
     ***
 1. Avrupa'da ilk ahşap kalıp baskının tarihi aşağıdakilerden hangisidir?
@@ -519,7 +543,8 @@
     - D-) 1446
     - E-) 1287
 
-    > **Açıklama:** Avrupa’da ise ahşap kalıp baskı 1390’da kâğıt üretiminin sonrasında başladığı bilinmektedir.
+    > **Açıklama:** Yanıtınız yanlış ise "Avrupa’da Erken Dönem Blok Baskı" başlıklı yazıyı gözden geçiriniz.
+    > Avrupa’da ise ahşap kalıp baskı 1390’da kâğıt üretiminin sonrasında başladığı bilinmektedir.
 
     ***
 1. Aşağıdakilerden hangisi tipografinin bulunuş tarihidir?
@@ -529,7 +554,8 @@
     - D-) 1640
     - E-) 1400
 
-    > **Açıklama:** 1440 yılında tipografinin bulunuşu ile yazı ve resim birbirinden ayrılmış blok kitapların oluşturulmasında metin ve resim arasındaki ilişki yer değiştirmiştir.
+    > **Açıklama:** Yanıtınız yanlış ise "Avrupa’da Erken Dönem Blok Baskı" başlıklı yazıyı gözden geçiriniz.
+    > 1440 yılında tipografinin bulunuşu ile yazı ve resim birbirinden ayrılmış blok kitapların oluşturulmasında metin ve resim arasındaki ilişki yer değiştirmiştir.
 
     ***
 1. Mürekkebi kumaş veya kağıda aktarmak için ahşap kauçuk malzeme vb. malzemelere oyulmuş bir kabartma baskı tekniğine aşağıdakilerden hangi isim verilir?
@@ -539,7 +565,8 @@
     - D-) Tipo Baskı.
     - **Cevap E-) Blok Baskı**
 
-    > **Açıklama:** Blok baskı, mürekkebi kumaş veya kağıda aktarmak için ahşap kauçuk malzeme vb. malzemelere oyulmuş bir kabartma baskı tekniğidir. Blok, bir tür damga görevi görür ve nihai ürün, oymacılığın ayna görüntüsüdür.
+    > **Açıklama:** Yanıtınız yanlış ise "Avrupa’da Erken Dönem Blok Baskı" başlıklı yazıyı gözden geçiriniz.
+    > Blok baskı, mürekkebi kumaş veya kağıda aktarmak için ahşap kauçuk malzeme vb. malzemelere oyulmuş bir kabartma baskı tekniğidir. Blok, bir tür damga görevi görür ve nihai ürün, oymacılığın ayna görüntüsüdür.
 
     ***
 1. Almanya'da basıldığı bilinen en eski basım örneği aşağıdakilerden hangisidir?
@@ -549,17 +576,19 @@
     - D-) Peter Schoeffer'ın kırk iki satırlık İncil'i.
     - E-) Biblia Latina.
 
-    > **Açıklama:** Almanya’da bilinen en eski basım örneği bir Sibylline şiirinin basıldığı bir kitap yaprağıdır. Bu eser, latin dilbilgisi ve astronomik bir takvim ile muhtemelen Gutenberg’in Mainz atölyesinde 1444-1447 yılları arasında deneysel olarak basılmıştır.
+    > **Açıklama:** Yanıtınız yanlış ise "Avrupa’da Yazı Basım Teknikleri" başlıklı yazıyı gözden geçiriniz.
+    > Almanya’da bilinen en eski basım örneği bir Sibylline şiirinin basıldığı bir kitap yaprağıdır. Bu eser, latin dilbilgisi ve astronomik bir takvim ile muhtemelen Gutenberg’in Mainz atölyesinde 1444-1447 yılları arasında deneysel olarak basılmıştır.
 
     ***
-1. "El Presi" olarak adlandırılan ve çalıştırma kolu elle yatay olarak çekildiğinde, vidalar aracılığıyla forma dikey kuvvet uygulanacak şekilde tasarlanan baskı makinası aşağıdakilerden hangisine aittir?
+1. "El Presi" olarak adlandırılan ve çalıştırma kolu elle yatay olarak çekildiğinde, vidalar aracılığıyla forma dikey kuvvet uygulanacak şekilde tasarlanan baskı makinası aşağıdakilerden hangisine aittir?
     - A-) Aldus Manutius.
     - B-) Paolo Olbi.
     - C-) Giovanni Pico.
     - D-) Martin Schongauer.
     - **Cevap E-) Johannes Gutenberg.**
 
-    > **Açıklama:** Gutenberg’in baskı makinesini üzüm presinin geliştirilmiş olduğu yaygın bir bilgidir. “El presi” olarak adlandırılan bu baskı makinesi, çalıştırma kolu elle yatay olarak çekildiğinde, vidalar aracılığıyla forma dikey kuvvet uygulanacak şekilde tasarlanmıştır.
+    > **Açıklama:** Yanıtınız yanlış ise "GUTENBERG MATBAASININ GELİŞİMİ" başlıklı yazıyı gözden geçiriniz.
+    > Gutenberg’in baskı makinesini üzüm presinin geliştirilmiş olduğu yaygın bir bilgidir. “El presi” olarak adlandırılan bu baskı makinesi, çalıştırma kolu elle yatay olarak çekildiğinde, vidalar aracılığıyla forma dikey kuvvet uygulanacak şekilde tasarlanmıştır.
 
     ***
 1. Aldine Press’i kuran ve 1495’te ilk kitabı olan Constantine Lascaris tarafından yazılmış Erotemata’yı basan batbaacı aşağıdakilerden hangisidir?
@@ -569,7 +598,8 @@
     - D-) Martin Schongauer.
     - E-) Albrecht Dürer.
 
-    > **Açıklama:** Aldus Manutius: Rönesansın bu potansiyelinden ilham alarak bir yayınevi olan Aldine Press’i kurdu. 1495’te ilk kitabı olan Constantine Lascaris tarafından yazılmış Erotemata’yı bastı.
+    > **Açıklama:** Yanıtınız yanlış ise "Aldus Manutius" başlıklı yazıyı gözden geçiriniz.
+    > Aldus Manutius: Rönesansın bu potansiyelinden ilham alarak bir yayınevi olan Aldine Press’i kurdu. 1495’te ilk kitabı olan Constantine Lascaris tarafından yazılmış Erotemata’yı bastı.
 
     ***
 1. Hareketli matbaacılık tarihinde ilk resimli İncil’i üreten kişi aşağıdakilerden hangisidir?
@@ -579,7 +609,8 @@
     - **Cevap D-) Günther Zainer.**
     - E-) Aldus Manutius.
 
-    > **Açıklama:** Augsburglu matbaacı Günther Zainer, hareketli matbaacılık tarihinde ilk resimli İncil’i üretmiştir.
+    > **Açıklama:** Yanıtınız yanlış ise "Alman Resimli Kitabı" başlıklı yazıyı gözden geçiriniz.
+    > Augsburglu matbaacı Günther Zainer, hareketli matbaacılık tarihinde ilk resimli İncil’i üretmiştir.
 
     ***
 1. Eskiden kitabın sonuna konan ve başlığa, basımcının adını ve tarihini gösteren yazıya; yayınevinin amblemine, aşağıdakilerden hangi asim verilir?
@@ -589,7 +620,8 @@
     - D-) Mühür.
     - E-) İmza.
 
-    > **Açıklama:** Kolofon (Colophon) eskiden kitabın sonuna konan ve başlığı, basımcının adını ve tarihini gösteren yazı; yayınevinin amblemi.
+    > **Açıklama:** Yanıtınız yanlış ise "Alman Resimli Kitabı" başlıklı yazıyı gözden geçiriniz.
+    > Kolofon (Colophon) eskiden kitabın sonuna konan ve başlığı, basımcının adını ve tarihini gösteren yazı; yayınevinin amblemi.
 
     ***
 1. Aşağıdakilerden hangisi bilinen en eski yazıyüzü numune kitabının yayıncısıdır?
@@ -599,7 +631,8 @@
     - D-) Geoffroy Tory.
     - E-) Claude Garamond.
 
-    > **Açıklama:** 1 Nisan 1486’da Alman matbaacı Erhard Ratdolt, Venedik’teki matbaasından muhtemelen bilinen en eski yazıyüzü numune kitabını yayınlamıştır. Numune kitabının kalan tek kopyası München’deki Bayerische Staatsbibliothek’te korunmaktadır.
+    > **Açıklama:** Yanıtınız yanlış ise "RÖNESANS DÖNEMİNDE GRAFİK TASARIM" başlıklı yazıyı gözden geçiriniz.
+    > 1 Nisan 1486’da Alman matbaacı Erhard Ratdolt, Venedik’teki matbaasından muhtemelen bilinen en eski yazıyüzü numune kitabını yayınlamıştır. Numune kitabının kalan tek kopyası München’deki Bayerische Staatsbibliothek’te korunmaktadır.
 
     ***
 1. İngiltere'de yazı tipi etkisinin kurulması aşağıdakilerden kim tarafından sağlanmıştır?
@@ -609,7 +642,8 @@
     - D-) Johann Michael Fleischmann.
     - E-) Christoffel van Dyck.
 
-    > **Açıklama:** İngiltere’de yazı tipi etkisinin kurulması William Caslon tarafından neredeyse tek başına sağlanmıştır. Üstün gravür becerisi ile kitap kapakları ve birçok değerli çalışmalar üretmiş, 1720’de kendi tip dökümhanesini kurmuştur.
+    > **Açıklama:** Yanıtınız yanlış ise "Tipografi Çağı ve Öncüleri" başlıklı yazıyı gözden geçiriniz.
+    > İngiltere’de yazı tipi etkisinin kurulması William Caslon tarafından neredeyse tek başına sağlanmıştır. Üstün gravür becerisi ile kitap kapakları ve birçok değerli çalışmalar üretmiş, 1720’de kendi tip dökümhanesini kurmuştur.
 
     ***
 1. Yayıncılığa en büyük itici gücü veren ülke aşağıdakilerden hangisi olmuştur?
@@ -627,7 +661,7 @@
     - B-) Almanya'daki Nuremburg okulu gravür tekniğini en üst seviyeye taşıdı.
     - C-) Günümüzde gravür sanatçıları çinko levhalar kullanmaktadır.
     - D-) Bu teknik, oyma olarak sınıflandırılmaktadır.
-    - **Cevap E-) 14. yy'da geliştirilmiştir.**
+    - **Cevap E-) 14\. yy'da geliştirilmiştir.**
 
     > **Açıklama:** On beşinci yüzyılda geliştirilen gravür, ilk başta geleneksel olarak kuyumculuk sanatının bir dalı olarak görülüyordu. 15 ve 16. yüzyıla kadar gravür sanatı, İtalya’daki okullar ve sanatçılar tarafından geliştirildi. Onları hızla takip eden Almanya’daki Nuremburg okulu (Martin Schongauer, Durer, Van Mechens) gravürü tekniğini en üst seviyeye taşıdı. Sonrasında Avrupa’ya yayılan gravür sanatı için İngiltere’de okullar açıldı. Oyma olarak sınıflandırılan bu teknik, resmin ana parçalarının bakır plaka üzerine parçalarının kazınmasıyla oluşmaktadır. Bakır, yumuşak ve kolay şekillendirilebilir bir metal olduğundan işlenebiliyordu fakat tek kalıp ile birden fazla baskı yapılamadığı için günümüzde gravür sanatçıları çinko levhalar kullanmaktadırlar. Doğru cevap E'dir.
 
@@ -679,7 +713,7 @@
     - D-) Bodoni
     - **Cevap E-) Romain du Roi**
 
-    > **Açıklama:** Fransız Kralı Louis XIV 1692 yılında Imprimerie Royale (kraliyet matbaası) için yeni bir yazı tipi geliştirmesini ve yazıyüzünün bilimsel kaideler ile tasarlanmasını emretmiştir. Matematikçi Nicolas Jaugeon başkanlığında, akademisyenler geçmiş tüm harf setleri incelemiştir. Yalnızca kraliyetin kullanımı için tasarlanan Romain du Roi karakteri  ilk matematiksel olarak tanımlanmış yazıyüzüdür. Doğru cevap E'dir.
+    > **Açıklama:** Fransız Kralı Louis XIV 1692 yılında Imprimerie Royale (kraliyet matbaası) için yeni bir yazı tipi geliştirmesini ve yazıyüzünün bilimsel kaideler ile tasarlanmasını emretmiştir. Matematikçi Nicolas Jaugeon başkanlığında, akademisyenler geçmiş tüm harf setleri incelemiştir. Yalnızca kraliyetin kullanımı için tasarlanan Romain du Roi karakteri ilk matematiksel olarak tanımlanmış yazıyüzüdür. Doğru cevap E'dir.
 
     ***
 1. Baskerville kaç yılında Harvard Üniversitesi yayınları için lisanslanmıştır?
@@ -689,7 +723,7 @@
     - **Cevap D-) 1919**
     - E-) 1950
 
-    > **Açıklama:** 1917’de Bruce Rogers tarafından yeniden keşfedilen Baskerville, 1919’da Harvard Üniversitesi yayınları için lisanslanmıştır. Doğru cevap  D'dir.
+    > **Açıklama:** 1917’de Bruce Rogers tarafından yeniden keşfedilen Baskerville, 1919’da Harvard Üniversitesi yayınları için lisanslanmıştır. Doğru cevap D'dir.
 
     ***
 1. Aşağıda verilen yazının tarihsel gelişimine ilişkin eşleştirmelerden hangisi doğrudur?
@@ -743,11 +777,11 @@
 
     ***
 1. İllüstrasyonların litografi tekniği ile basılmaya başlandığı yüzyıl aşağıdakilerden hangisidir?
-    - A-) 16.yüzyıl
-    - B-) 17.yüzyıl
-    - C-) 18.yüzyıl
-    - **Cevap D-) 19.yüzyıl**
-    - E-) 20.yüzyıl
+    - A-) 16\.yüzyıl
+    - B-) 17\.yüzyıl
+    - C-) 18\.yüzyıl
+    - **Cevap D-) 19\.yüzyıl**
+    - E-) 20\.yüzyıl
 
     > **Açıklama:** Orta çağ el yazmaları resimler ve illüstrasyonlar da metal gravür kullanılarak basılmış, gravür tekniği 18. yy’ a kadar 17 ve 18. bakır levhalar kullanılarak basılmıştır. 19. yüzyılda icat edilen litografi tekniği ile illüstrasyonlar bu yöntemle basılmaya başlanmıştır. Bu kapsamda cevap 19. Yüzyıldır.
 
@@ -800,7 +834,8 @@
     - **Cevap D-) 1837-1901**
     - E-) 1845-1905
 
-    > **Açıklama:** İngiltere ve İrlanda’nın kraliçesi Victoria, 1837 yılında tahta geçti ve 1901 tarihine kadar da tahta kaldı. Bu nedenle bu döneme dair tüm görsel çalışmalar Viktorya dönemi sanatı altında değerlendirilmiştir. Doğru yanıt d seçeneğidir.
+    > **Açıklama:** VİKTORYA SANATI
+    > İngiltere ve İrlanda’nın kraliçesi Victoria, 1837 yılında tahta geçti ve 1901 tarihine kadar da tahta kaldı. Bu nedenle bu döneme dair tüm görsel çalışmalar Viktorya dönemi sanatı altında değerlendirilmiştir. Doğru yanıt d seçeneğidir.
 
     ***
 1. Aşağıdaki isimlerden hangisi taş baskı (Litografi) tekniğini ilk defa kullanan kişi olmuştur?
@@ -810,17 +845,19 @@
     - D-) Joseph Niepce
     - E-) Henry Cayol
 
-    > **Açıklama:** Alman Bavyeralı bir oyun yazarı Alois Senefelder, kendi oyunlarını yazmak ve çoğaltmak amacıyla tekniği ilk defa kullanan olmuştur. Doğru yanıt a seçeneğidir.
+    > **Açıklama:** Taş Baskı (Litografi) Tekniğinin Gelişim Çizgisi
+    > Alman Bavyeralı bir oyun yazarı Alois Senefelder, kendi oyunlarını yazmak ve çoğaltmak amacıyla tekniği ilk defa kullanan olmuştur. Doğru yanıt a seçeneğidir.
 
     ***
-1. II. Mahmut döneminde İstanbul’a gelerek litografi tekniğinin ülkemizde yayılmasına öncülük etmiş isim aşağıdakilerden hangisidir?
+1. II. Mahmut döneminde İstanbul’a gelerek litografi tekniğinin ülkemizde yayılmasına öncülük etmiş isim aşağıdakilerden hangisidir?
     - A-) Alois Senefelder
     - **Cevap B-) Henry Cayol**
     - C-) Owen Jones
     - D-) Stanislas Arthur Napier
     - E-) Timothy Sullivan
 
-    > **Açıklama:** II. Mahmut döneminde İstanbul’a gelen Henry Cayol adlı bir çizer, Fransa’da öğrendiği litografi tekniğini ülkemize yerleşerek yayılmasına öncülük etmiştir. Doğru yanıt b seçeneğidir.
+    > **Açıklama:** Taş Baskı (Litografi) Tekniğinin Gelişim Çizgisi / Taş Baskı Tekniğin Uygulanması
+    > II. Mahmut döneminde İstanbul’a gelen Henry Cayol adlı bir çizer, Fransa’da öğrendiği litografi tekniğini ülkemize yerleşerek yayılmasına öncülük etmiştir. Doğru yanıt b seçeneğidir.
 
     ***
 1. İlk fotomekanik görüntü renkli illüstrasyon hangi yılda nerede basılmıştır?
@@ -830,7 +867,8 @@
     - D-) 1883-Berlin
     - E-) 1884-Londra
 
-    > **Açıklama:** İlk fotomekanik görüntü renkli illüstrasyon 1881 yılında Paris’in L’llustration dergisinin noel sayısında basılmıştır. Doğru yanıt c seçeneğidir.
+    > **Açıklama:** Fotoğraf ve Sinemanın Görsel İletişim Sahnesine Girişi
+    > İlk fotomekanik görüntü renkli illüstrasyon 1881 yılında Paris’in L’llustration dergisinin noel sayısında basılmıştır. Doğru yanıt c seçeneğidir.
 
     ***
 1. I. Malzemeleri ve Teknikleri iyi tanımak.<br />II. Doğallıktan uzaklaşmamak için geometrik formlardan kaçınmak.<br />III. Renklerin temiz olması ve gölgelemelerin abartıdan uzak açık olması.<br />IV. Eskiz aşamasında sanat tarihinden referans alan çalışmalar yapmak.<br />Yukarıdaki maddelerden hangileri William Morris'in tasarımda önemsediği kurallardır?
@@ -840,7 +878,8 @@
     - D-) II, III, IV
     - **Cevap E-) I, II, III, IV**
 
-    > **Açıklama:** Soru cümlesinde yer alan tüm maddeler William Morris'in tasarımda önemsediği kurallardır. Doğru yanıt e seçeneğidir.
+    > **Açıklama:** ARTS & CRAFTS (SANAT VE ZANAAT) HAREKETİ
+    > Soru cümlesinde yer alan tüm maddeler William Morris'in tasarımda önemsediği kurallardır. Doğru yanıt e seçeneğidir.
 
     ***
 1. 1890 ve 1910 tarihleri arasında Avrupa ve Amerika’da yayılım gösteren, dekoratif öğelerin ağır bastığı bir tasarım dili olan dönem aşağıdaki seçeneklerden hangisidir?
@@ -850,7 +889,8 @@
     - D-) Fütürizm
     - E-) Konstrüktivizm
 
-    > **Açıklama:** 1890 ve 1910 tarihleri arasında Avrupa ve Amerika’da yayılım göstermiş, dekoratif öğelerin ağır bastığı bir tasarım dili olan Art Nouveau, kendine has bir tasarım diline sahiptir. Doğru yanıt a seçeneğidir.
+    > **Açıklama:** ART NOUVEAU (YENİ SANAT) HAREKETİ
+    > 1890 ve 1910 tarihleri arasında Avrupa ve Amerika’da yayılım göstermiş, dekoratif öğelerin ağır bastığı bir tasarım dili olan Art Nouveau, kendine has bir tasarım diline sahiptir. Doğru yanıt a seçeneğidir.
 
     ***
 1. Taş baskı tekniği ile 1891 yılında yapılan “Moulin Rouge-La Gouloue” afişi aşağıdaki sanatçılardan hangisi tarafından yapılmıştır?
@@ -860,7 +900,8 @@
     - D-) Jules Cheret
     - E-) Gustav Klimt
 
-    > **Açıklama:** Henri de Toulouse Lautrec  tarafından 1891 yılında yapılan “Moulin Rouge-La Gouloue” afişi sanatçı için yeni bir dönem başlatmasının yanında aynı zamanda litografi tekniğinin gelişimine de önayak olmuştur.
+    > **Açıklama:** ART NOUVEAU (YENİ SANAT) HAREKETİ
+    > Henri de Toulouse Lautrec tarafından 1891 yılında yapılan “Moulin Rouge-La Gouloue” afişi sanatçı için yeni bir dönem başlatmasının yanında aynı zamanda litografi tekniğinin gelişimine de önayak olmuştur.
     > Doğru yanıt b seçeneğidir.
 
     ***
@@ -871,7 +912,8 @@
     - D-) Henri de Toulouse Lautrec
     - E-) Pierre Bonnard
 
-    > **Açıklama:** Sultan II. Abdülhamit, saray mimarı olarak İtalyan Raimondo D’Aronco (1856-1943) ile anlaşmıştır. Sarayda baş mimar olarak görev yapan bu
+    > **Açıklama:** AYNI DÖNEMDE OSMANLI TOPRAKLARINDAKİ GELİŞMELER
+    > Sultan II. Abdülhamit, saray mimarı olarak İtalyan Raimondo D’Aronco (1856-1943) ile anlaşmıştır. Sarayda baş mimar olarak görev yapan bu
     > önemli isim, Osmanlı kültürünü Art Nouveau kimliği ile harmanlayan önemli eserler ortaya koymuştur. Doğru yanıt c seçeneğidir.
 
     ***
@@ -882,7 +924,8 @@
     - **Cevap D-) Dolmabahçe Sarayı**
     - E-) Botter Apartmanı
 
-    > **Açıklama:** Dolmabahçe Sarayı Osmanlı döneminde Art Nouveau tarzında yapılmış mimari eserlerden değildir. Doğru yanıt d seçeneği.
+    > **Açıklama:** AYNI DÖNEMDE OSMANLI TOPRAKLARINDAKİ GELİŞMELER
+    > Dolmabahçe Sarayı Osmanlı döneminde Art Nouveau tarzında yapılmış mimari eserlerden değildir. Doğru yanıt d seçeneği.
 
     ***
 1. Altın renkli ve dekoratif ögelerin detaylı incelikler ile kullanıldığı, 1907 yılında yapılan “The Kiss” (Öpücük) tablosu aşağıdaki sanatçılardan hangisine aittir?
@@ -892,7 +935,8 @@
     - D-) Louis John Rhead
     - E-) Henri Privat Livemont
 
-    > **Açıklama:** Altın renkli ve dekoratif ögelerin detaylı incelikler ile kullanıldığı, 1907 yılında yapılan “The Kiss” (Öpücük) tablosu Gustav Klimt'e aittir. Doğru yanıt a seçeneğidir.
+    > **Açıklama:** ART NOUVEAU (YENİ SANAT) HAREKETİ
+    > Altın renkli ve dekoratif ögelerin detaylı incelikler ile kullanıldığı, 1907 yılında yapılan “The Kiss” (Öpücük) tablosu Gustav Klimt'e aittir. Doğru yanıt a seçeneğidir.
 
     ***
 1. Harfleri güzel biçimler vererek yazma sanatına ne ad verilir?
@@ -902,7 +946,17 @@
     - D-) Tipografi
     - E-) Gravür
 
-    > **Açıklama:** Kaligrafi
+    > **Açıklama:** Harfleri güzel biçimler vererek yazma sanatına kaligrafi denir.
+
+    ***
+1. Özellikle 1750-1760 tarihleri arasında görünür hâle gelen ve 1850’lere kadar gelişerek ilerleyen üretimin insan ve hayvana dayalı gücünden sıyrılarak makineleşmeye teslim olduğu süreç hangisidir?
+    - **Cevap A-) Sanayi Devrimi**
+    - B-) Endüstri Devrimi
+    - C-) Viktorya Dönemi
+    - D-) Fransız Devrimi
+    - E-) Rönesans
+
+    > **Açıklama:** Özellikle 1750-1760 tarihleri arasında görünür hâle gelen ve 1850’lere kadar gelişerek ilerleyen üretimin insan ve hayvana dayalı gücünden sıyrılarak makineleşmeye teslim olduğu süreç Sanayi Devrimi'dir.
 
     ***
 1. Taş baskı tekniğinin diğer adı nedir?
@@ -945,6 +999,16 @@
     > **Açıklama:** Henri de Toulouse Lautrec
 
     ***
+1. William Morris hangi hareketin taşıyıcısıdır?
+    - **Cevap A-) Arts&Crafts**
+    - B-) Art Nouveau
+    - C-) Jugendstil
+    - D-) Sezessionstil
+    - E-) Viktorya Sanatı
+
+    > **Açıklama:** William Morris Arts&Crafts hareketinin taşıyıcısıdır.
+
+    ***
 1. Kamondo Merdivenleri hakkında aşağıdakilerden hangisi **yanlıştır?**
     - A-) İstanbul'un Galata semtindedir.
     - B-) Banker bir aile tarafından yaptırılmıştır.
@@ -962,17 +1026,19 @@
     - D-) Ankara IV. Vakıfhanı
     - E-) Tayyare Evleri
 
-    > **Açıklama:** Galata Kulesi
+    > **Açıklama:** Ahmet Ratıp Paşa Köşkü, Tayyare Evleri, Edirne Garı, Ankara IV. Vakıfhanı Art Nouveau mimarisini Osmanlı’da en iyi yansıtan ayakta kalmış eserlerdir
+    > Galata Kulesi
 
     ***
 1. Art Nouveau ile ilgili aşağıdaki eşleşmelerden hangisi doğrudur?
     - **Cevap A-) Almanya - Jugendstil**
     - B-) Almanya - Sezessionstil
-    - C-) Avusturya -  Stile Floreale
-    - D-) İspanya - Jugendstil
+    - C-) Avusturya - Stile Floreale
+    - D-) İspanya - Jugendstil
     - E-) İtalya- Modernismo
 
-    > **Açıklama:** Almanya - Jugendstil
+    > **Açıklama:** Almanya’da aynı sanat dili Jugendstil, Avusturya’da Sezessionstil, Italya’da Stile Floreale (Stile Liberty), İspanya’da Modernismo (Modernista) adı altında anılmaktadır.
+    > Almanya - Jugendstil
 
     ***
 1. I- Buhar Gücü<br />II- Elektrik<br />III- Fotograf<br />IV- Fonograf<br />Yukarıdakilerden hangisi(leri) Sanayi Devrimi ile ortaya çıkan önemli unsurlardır?
@@ -982,7 +1048,7 @@
     - D-) I ve II
     - E-) II ve III
 
-    > **Açıklama:** 19. yüzyıldaki teknolojik gelişmeler sadece buhar ve elektrik ile de sınırlı değildir. Kayıt altına alma teknolojileri olan fotoğraf ve fonografın icadı da bu gelişmelere eklenince geçmiş, şu an ve gelecek birbirine bir anlamda bağlanmıştır
+    > **Açıklama:** 19\. yüzyıldaki teknolojik gelişmeler sadece buhar ve elektrik ile de sınırlı değildir. Kayıt altına alma teknolojileri olan fotoğraf ve fonografın icadı da bu gelişmelere eklenince geçmiş, şu an ve gelecek birbirine bir anlamda bağlanmıştır
 
     ***
 1. İngiltere ve İrlanda kraliçesi Viktorya hangi yıllar arasında hüküm sürmüştür?
@@ -993,6 +1059,16 @@
     - E-) 1825-1837
 
     > **Açıklama:** Endüstriyel devrimin ilk ayağının yaşandığı yıllarda İngiltere’de Kraliçe Victoria dönemi yaşanmaktaydı. İngiltere ve İrlanda’nın kraliçesi Victoria, 1837 yılında tahta geçti ve 1901 tarihine kadar da tahta kaldı.
+
+    ***
+1. Chromolitografi ile basım tekniğinin ilk patentini hangi ülke almıştır.
+    - A-) Almanya
+    - B-) İspanya
+    - **Cevap C-) Fransa**
+    - D-) Fas
+    - E-) İngiltere
+
+    > **Açıklama:** Litografinin ilk zamanlardaki renk denemelerinden sonra 1937 yılında Fransızlar chromolitografi ile basım tekniğinin patentini alarak ilerletilmesini sağlamışlardır.
 
     ***
 1. Victorya döneminde baskı yöntemlerinin gelişmesi reklam ajanslarının oluşmasını da etkilemiştir. ilk gerçek reklam ajansı hangi yılda kurulmuştur?
@@ -1072,7 +1148,8 @@
     - D-) Henry Cayol
     - E-) Timothy Sullivan
 
-    > **Açıklama:** Sorunun doğru cevabı A seçeneğinde verilmiştir.
+    > **Açıklama:** Görüntü ve ses kaydı imkanlarını araştıran bilim adamı Thomas Edison, George Eastman tarafından icat edilen ham filmi alarak bugün hâlen kullanılan 35 mm’lik film şeridini ortaya çıkarmıştır.
+    > Sorunun doğru cevabı A seçeneğinde verilmiştir.
 
     ***
 1. Cinematograf adlı cihazı ilk defa Aguste ve Louise Lumier kardeşler bulmuştur. Fakat o dönem için Lumier kardeşler buldukları şeyin bir sanat alanı olacağını ve sinemaya dönüşeceğini tahmin edememişlerdir. Daha çok gündelik olayları belgelemek ve arşivlemek amacıyla ilk aşamada kullanılan bu cihaz, zamanla topluluklara gösterim yapılan bir sanat hâline gelmiştir. Bu anlamdaki de ilk gösterim, Paris Grand Cafe’de hangi yıl yapılmıştır?
@@ -1082,17 +1159,41 @@
     - D-) 1897
     - E-) 1900
 
-    > **Açıklama:** Sorunun doğru yanıtı B seçeneğinde verilmiştir.
+    > **Açıklama:** Cinematograf adlı cihazı ilk defa Aguste ve Louise Lumier kardeşler bulmuştur. Fakat o dönem için Lumier kardeşler buldukları şeyin bir sanat alanı olacağını ve sinemaya dönüşeceğini tahmin edememişlerdir. Daha çok gündelik olayları belgelemek ve arşivlemek amacıyla ilk aşamada kullanılan bu cihaz, zamanla topluluklara gösterim yapılan bir sanat hâline gelmiştir. Bu anlamdaki de ilk gösterim, Paris Grand Cafe’de 22. 12. 1895 günü yapılmıştır.
+    > Sorunun doğru yanıtı B seçeneğinde verilmiştir.
 
     ***
-1. 19. yüzyıl sonlarına doğru Endüstriyel devrimin getirdiği sanatsal karmaşaya karşı bir duruş sergilenme ihtiyacı doğmuştur. Hangi sanat hareketi bu anlamda Endüstriyel devrimin getirdiği somut sonuçlara yapılan ilk eleştiridir?
+1. Animasyonu hareket eden çizimlerin değil çizilenlerin hareketi olarak tanımlayan, her iki kare arasında ne olduğu kare içinde ne olduğundan çok daha önemli olduğu için kareler arasında görünmeyen aralıkları oluşturarak o illüzyonu yakalamanın animasyon sanatının önemli bir inceliği olduğunu ifade eden animasyon sanatının yaratıcılarından olarak kabul edilen sanatçı kimdir?
+    - A-) Walt Disney
+    - B-) Pierre Devignes
+    - **Cevap C-) Norman Mc Laren**
+    - D-) Stuart Blackstone
+    - E-) Mathew Brady
+
+    > **Açıklama:** Animasyon sanatının yaratıcılarından olarak kabul edilen Norman Mc Laren, animasyonu hareket eden çizimlerin değil çizilenlerin hareketi olarak tanımlamıştır. O’na göre her iki kare arasında ne olduğu kare içinde ne olduğundan çok daha önemlidir. Bu nedenle kareler arasında görünmeyen aralıkları oluşturarak o illüzyonu yakalamak bu sanatın önemli bir inceliğidir.
+    > Sorunun doğru yanıtı C seçeneğinde verilmiştir.
+
+    ***
+1. 19\. yüzyıl sonlarına doğru Endüstriyel devrimin getirdiği sanatsal karmaşaya karşı bir duruş sergilenme ihtiyacı doğmuştur. Hangi sanat hareketi bu anlamda Endüstriyel devrimin getirdiği somut sonuçlara yapılan ilk eleştiridir?
     - A-) Jugendstil
     - B-) Sezessionstil
     - C-) Viktorya Sanatı
     - **Cevap D-) Arts and Crafts**
     - E-) Art Nouveau
 
-    > **Açıklama:** Sorunun doğru yanıtı D seçeneğinde verilmiştir.
+    > **Açıklama:** 19\. yüzyıl sonlarına doğru Endüstriyel devrimin getirdiği sanatsal karmaşaya karşı bir duruş sergilenme ihtiyacı doğmuştur. Arts and Crafts hareketi bu anlamda Endüstriyel devrimin getirdiği somut sonuçlara yapılan ilk eleştiridir.
+    > Sorunun doğru yanıtı D seçeneğinde verilmiştir.
+
+    ***
+1. El işçiliğine dayalı ama gerçek bir tarihsel ve ideolojik bağlamı tanımlanamayan, sanatın sanat için yapıldığına ve sanatla toplumun değiştirilebileceğine inanan bir düşünce yapısını benimseyen sanat akımı aşağıdakilerden hangisidir?
+    - A-) Litografi
+    - B-) Fotoğraf
+    - C-) Viktorya Sanatı
+    - D-) Arts and Crafts
+    - **Cevap E-) Art Nouveau**
+
+    > **Açıklama:** El işçiliğine dayalı ama gerçek bir tarihsel ve ideolojik bağlamı tanımlanamayan Art Nouveau, sanatın sanat için yapıldığına ve sanatla toplumun değiştirilebileceğine inanan bir düşünce yapısını benimser.
+    > Sorunun doğru yanıtı E seçeneğinde verilmiştir.
 
     ***
 1. Japonya’da Edo döneminde ortaya çıkmış ve daha sonrasında tüm dünyayı farklılığı ile etkisi altına almış olan Japon ahşap baskı sanatı aşağıdakilerden hangisidir?
@@ -1102,7 +1203,8 @@
     - D-) Nihonga
     - **Cevap E-) Ukiyoe**
 
-    > **Açıklama:** Sorunun doğru yanıtı E seçeneğinde verilmiştir.
+    > **Açıklama:** Japon ahşap baskı sanatı Ukiyoe, Japonya’da Edo döneminde ortaya çıkmış ve daha sonrasında tüm dünyayı farklılığı ile etkisi altına almıştır.
+    > Sorunun doğru yanıtı E seçeneğinde verilmiştir.
 
     ***
 1. 1890 ve 1910 tarihleri arasında Avrupa ve Amerika’da yayılım göstermiş, dekoratif öğelerin ağır bastığı bir tasarım dili olan Art Nouveau, kendine has bir tasarım diline sahiptir. Bu tasarım dilinin en baskın özellikleri; uzun, kıvrımlı organik çizgiler olarak özetlenebilir. Aşağıdakilerden hangisi bu dile dair çalışmaların yapıldığı alanlardan birisi değildir?
@@ -1112,17 +1214,19 @@
     - **Cevap D-) Resim**
     - E-) Cam
 
-    > **Açıklama:** Sorunun doğru yanıtı D seçeneğinde verilmiştir.
+    > **Açıklama:** 1890 ve 1910 tarihleri arasında Avrupa ve Amerika’da yayılım göstermiş, dekoratif öğelerin ağır bastığı bir tasarım dili olan Art Nouveau, kendine has bir tasarım diline sahiptir. Bu tasarım dilinin en baskın özellikleri; uzun, kıvrımlı organik çizgiler olarak özetlenebilir. Mimari, iç mekân tasarımı, mücevher, cam, afiş ve illüstrasyon çalışmalarında bu dile dair öne çıkan çalışmalar gözlemlenmektedir.
+    > Sorunun doğru yanıtı D seçeneğinde verilmiştir.
 
     ***
-1. 1891 yılında yaptığı  “Moulin Rouge-La Gouloue” afişi ile yeni bir dönem başlatmasının yanında, aynı zamanda litografi tekniğinin gelişimine de önayak olmuş ünlü sanatçı aşağıdakilerden hangisidir?
+1. 1891 yılında yaptığı “Moulin Rouge-La Gouloue” afişi ile yeni bir dönem başlatmasının yanında, aynı zamanda litografi tekniğinin gelişimine de önayak olmuş ünlü sanatçı aşağıdakilerden hangisidir?
     - A-) Pierre Bonnard
     - B-) Jules Cheret
     - **Cevap C-) Henri de Toulouse Lautrec**
     - D-) William Morris
     - E-) Aubrey Beardsley
 
-    > **Açıklama:** Sorunun doğru yanıtı C seçeneğinde verilmiştir.
+    > **Açıklama:** Bilinen en önemli Fransız isim, aynı zamanda da ressam olan Henri de Toulouse Lautrec’tir. Sanatçının 1891 yılında yapılan “Moulin Rouge-La Gouloue” afişi sanatçı için yeni bir dönem başlatmasının yanında aynı zamanda litografi tekniğinin gelişimine de önayak olmuştur.
+    > Sorunun doğru yanıtı C seçeneğinde verilmiştir.
 
     ***
 1. Osmanlı’da Art Nouveau mimarisini en iyi yansıtan ve hala ayakta kalmış bazı eserler vardır. Aşağıdakilerden hangisi bunlardan birisi değildir?
@@ -1132,7 +1236,8 @@
     - D-) Edirne Garı
     - E-) Ankara IV. Vakıfhanı
 
-    > **Açıklama:** Sorunun doğru yanıtı B seçeneğinde verilmiştir.
+    > **Açıklama:** Osmanlı’da Art Nouveau eserler veren mimarlar sadece Batılı olmamıştır. Mimar Kemaleddin bu akımdan beslenen en önemli yerel mimardır. Ahmet Ratıp Paşa Köşkü, Tayyare Evleri, Edirne Garı, Ankara IV. Vakıfhanı Art Nouveau mimarisini Osmanlı’da en iyi yansıtan ayakta kalmış eserlerdir.
+    > Sorunun doğru yanıtı B seçeneğinde verilmiştir.
 
     ***
 1. Türkiye’deki kısıtlı mimari \_\_\_\_\_\_\_\_\_\_\_\_ örneklerinden bir tanesi 1870 tarihinde yapılan İstanbul Galata kulesine çıkan “Kamondo” Merivenleridir.<br />Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -1142,17 +1247,30 @@
     - D-) Arts and Crafts
     - E-) Kübizm
 
-    > **Açıklama:** Sorunun doğru yanıtı A seçeneğinde verilmiştir.
+    > **Açıklama:** Türkiye’deki kısıtlı mimari Art Nouveau örneklerinden bir tanesi 1870 tarihinde yapılan İstanbul Galata kulesine çıkan “Kamondo” Merivenleridir.
+    > Sorunun doğru yanıtı A seçeneğinde verilmiştir.
 
     ***
-1. 15. yüzyılda kurumsal kimlik anlamında en eski örnekten bahsetmek gerekirse aşağıdakilerden hangi şehir örnek verilebilir?
+1. 15\. yüzyılda kurumsal kimlik anlamında en eski örnekten bahsetmek gerekirse aşağıdakilerden hangi şehir örnek verilebilir?
     - A-) Berlin
     - B-) Paris
     - **Cevap C-) Floransa**
     - D-) Petersburg
     - E-) Roma
 
-    > **Açıklama:** Floransa
+    > **Açıklama:** Kurumsal kimlik anlamında en eski örnekten bahsetmek gerekirse 15. yüzyılda **Floransa** şehri adına yapılan şehrin çizimi üzerine sanatçı, mimar ve yazarların çağrılmasını örnek verilebilir.
+
+    ***
+1. Ahşaba oyulmuş hissiyatı veren bu yazı stilinde küçük harf bir b harfi çok rahat ters çevrilmiş bir p harfine dönüşebilmektedir. Bu yazı stiline ait sınırsız yerleşim şekli ve kullanım fikri o yıllardaki afişlere farklılık ve çekicilik getirmiştir. Anlatılan bu yazı stili aşağıdakilerden hangisidir**?**
+    - A-) Helvetica
+    - **Cevap B-) Victorian**
+    - C-) Calibri
+    - D-) The Times Roman
+    - E-) * Comic Sans
+
+    > **Açıklama:** Viktorya dönemine ait yazı stilleri **(Victorian Font Ailesi)** **d**önemin afiş ve basılı işlerinde kendi özel karakterini yaratmıştır. Tüm yazı stilleri o dönemde et kalınlığı yüksek, fark edilebilir ve vurgulu bir biçimde düzenlenmiştir. Ahşaba oyulmuş hissiyatı veren bu yazı stilinde küçük harf bir b
+    > harfi çok rahat ters çevrilmiş bir p harfine dönüşebilmektedir. Bu yazı stiline ait sınırsız yerleşim
+    > şekli ve kullanım fikri o yıllardaki afişlere farklılık ve çekicilik getirmiştir.
 
     ***
 1. Litografi tekniği İstanbul’a Henry Cayol tarafından gelmiştir. Türk baskı resim sanatının başlangıcı 19. yüzyılın ilk yarısına değin uzanmaktadır. Litografi tekniği İstanbul’da 1900’lü yılların başında, Harbiye’nin baş ressamlığını yaparken pek çok öğrenciye tekniği aktarmıştır. Bu baş ressam aşağıdakilerden hangisidir?
@@ -1162,7 +1280,9 @@
     - D-) Ziya Arif
     - E-) Mehmet Hulusi
 
-    > **Açıklama:** Hoca Ali Rıza
+    > **Açıklama:** Türk baskı resim sanatının başlangıcı 19. yüzyılın ilk yarısına değin uzanmaktadır. Sanatçıların ağırlıklı olarak basılan eserlerde imzası bulunmamaktadır. Teknik İstanbul’da 1900’lü yılların
+    > başında evrilmiştir. **Hoca Ali Rıza** gibi sanatçılar, Harbiye’nin baş ressamlığını yaparken pek çok
+    > öğrenciye tekniği aktarmıştır.
 
     ***
 1. İlk fotomekanik görüntü renkli illüstrasyon, Paris’in L’llustration dergisinin noel sayısında kaç yılında basılmıştır?
@@ -1172,7 +1292,7 @@
     - D-) 1880
     - **Cevap E-) 1881**
 
-    > **Açıklama:** 1881
+    > **Açıklama:** İlk fotomekanik görüntü renkli illüstrasyon **1881** yılında Paris’in L’llustration dergisinin noel sayısında basılmıştır.
 
     ***
 1. Çizimlerin değil çizilenlerin hareketi olarak tanımlanan ve nesnelerin canlı olduğu yanılsamasını uyandıracak şekilde düzenlenmesi işlemine **ne denir?**
@@ -1182,7 +1302,7 @@
     - **Cevap D-) Animasyon**
     - E-) Karikatür
 
-    > **Açıklama:** Animasyon
+    > **Açıklama:** **Animasyon,** nesnelerin canlı olduğu yanılsamasını uyandıracak şekilde düzenlenmesi işlemidir. Animasyon sanatının yaratıcılarından olarak kabul edilen Norman Mc Laren, animasyonu hareket eden çizimlerin değil çizilenlerin hareketi olarak tanımlamıştır.
 
     ***
 1. 1860’larda ilk olarak İngiltere’de ortaya çıkan Arts and Crafts hareketinin belli başlı özellikleri aşağıdakilerden hangisi **değildir?**
@@ -1192,7 +1312,8 @@
     - D-) İnsan eli ve el emeğine değer verirler.
     - E-) Makineleşmeye karşı tavır alırlar.
 
-    > **Açıklama:** Endüstriyel devrime önem verirler.
+    > **Açıklama:** Sayfa 72. bkz.
+    > Endüstriyel devrime önem verirler.
 
     ***
 1. William Morris, sanat öğrencilerine 1877 yılında verdiği derslerde bazı kuralları vurgulamıştır. Aşağıdakilerden hangisi bu kurallardan **değildir?**
@@ -1202,7 +1323,12 @@
     - D-) Malzemeleri ve Teknikleri iyi tanımak.
     - E-) Geometrik formlardan kaçınmak.
 
-    > **Açıklama:** Doğallıktan uzaklaşmak
+    > **Açıklama:** William Morris, sanat öğrencilerine 1877 yılında verdiği derslerde bazı bazı kuralları vurgulamıştır. Tasarım yaparken bazı kuralı önemsemeleri gerekmektedir:
+    > 1\. Malzemeleri ve Teknikleri iyi tanımak.
+    > 2\. Doğallıktan uzaklaşmamak için geometrik formlardan kaçınmak.
+    > 3\. Renklerin temiz olması ve gölgelemelerin abartıdan uzak açık olması.
+    > 4\. Eskiz aşamasında sanat tarihinden referans alan çalışmalar yapmak.
+    > Doğallıktan uzaklaşmak
 
     ***
 1. Dekoratif öğelerin ağır bastığı bir tasarım diline sahip olarak nitelenen akım, aşağıdakilerden hangisidir?
@@ -1212,7 +1338,8 @@
     - D-) Viktorya Sanatı
     - **Cevap E-) Art Nouveau**
 
-    > **Açıklama:** Art Nouveau
+    > **Açıklama:** 1890 ve 1910 tarihleri arasında Avrupa ve Amerika’da yayılım göstermiş, *dekoratif öğelerin*
+    > *ağır bastığı bir tasarım dili olan* **Art Nouveau**, kendine has bir tasarım diline sahiptir.
 
     ***
 1. Art Nouveau anlayışına sahip en önemli afiş sanatçılarından biridir. Eserleri sanatsal ve kültürel konuların haricinde 19. yüzyıl Fransası’nın gündelik hayatını, kabareleri, tiyatroları, kozmetik ürünleri ve içecekler ile ilgili tanıtımları da içermektedir. Bu afiş sanatçısı aşağıdakilerden hangisidir?
@@ -1222,7 +1349,8 @@
     - D-) Gustav Klimt
     - E-) Emile Galle
 
-    > **Açıklama:** Jules Cheret
+    > **Açıklama:** Art Nouveau anlayışına sahip en önemli afiş sanatçılarından biri de **Jules Cheret’dir**...Eserleri sanatsal ve kültürel konuların haricinde 19. yüzyıl Fransası’nın gündelik hayatını, kabareleri,
+    > tiyatroları, kozmetik ürünleri ve içecekler ile ilgili tanıtımları da içermektedir.
 
     ***
 1. Art Nouveau Osmanlı’da daha çok hangi sanat alanında ve anlamında ortaya çıkmıştır?
@@ -1232,17 +1360,17 @@
     - **Cevap D-) Mimari**
     - E-) Seramik
 
-    > **Açıklama:** Mimari
+    > **Açıklama:** Art Nouveau Osmanlı’da daha çok **mimari** anlamda ortaya çıkmıştır.
 
     ***
-1. 17. yüzyılda egemen olan ve makineleşme ile dünyayı etkisi altına alan felsefe aşağıdakilerden hangisidir?
+1. 17\. yüzyılda egemen olan ve makineleşme ile dünyayı etkisi altına alan felsefe aşağıdakilerden hangisidir?
     - **Cevap A-) Natüralist Felsefe**
     - B-) İdealizm
     - C-) Liberalizm
     - D-) Hümanizm
     - E-) Pragmatizm
 
-    > **Açıklama:** 17. yüzyılda egemen olan natüralist felsefe,
+    > **Açıklama:** 17\. yüzyılda egemen olan natüralist felsefe,
     > gelişen tüm çabalar ile gelen makineleşme ile
     > sonucuna ulaşmış ve dünyayı etkisi altına almıştır.
     > Sanayi Devrimi adı altındaki bu sürecin temelleri
@@ -1385,6 +1513,16 @@
     > el yazması eserlerin basımı için de görevlendirilmiştir.
 
     ***
+1. İngiltere Kraliçesi Victoria’nın eşi Prens Albert’in 1951 yılında yaptığı ünlü büyük sergiyi kaç kişi ziyaret etmiştir?
+    - **Cevap A-) 6 milyon**
+    - B-) 2 milyon
+    - C-) 700\.000
+    - D-) 250\.000
+    - E-) 9\.000
+
+    > **Açıklama:** 1851 yılında, kraliçenin eşi Prens Albert büyük bir sergiye (Great Exhibition) ev sahipliği yapmıştır. Endüstriyel ülkelerden 13.000 katılımcı ile oluşturulan bu sergi, 6 milyon ziyaretçi ile buluşturulmuştur.
+
+    ***
 1. 1937 yılında chromolitografi ile basım tekniğinin patentini alarak ilerlemesini sağlayan ülke aşağıdakilerden hangisidir?
     - **Cevap A-) Fransa**
     - B-) Almanya
@@ -1483,8 +1621,20 @@
     - **Cevap D-) Fütürizm**
     - E-) Art Deco
 
-    > **Açıklama:** Fütürizm Sanat Akımı:
+    > **Açıklama:** MODERN SANAT AKIMLARI
+    > Fütürizm Sanat Akımı:
     > Fütürizm, anlı şanlı İtalyan şair Filippo Tommaso Marinetti tarafından 1909 yılında, bir Paris gazetesinin baş sayfasında gösterişli bir manifestonun yayınlanmasıyla dünyaya duyuruldu.
+
+    ***
+1. Savaşların verdiği heyecanı, makine çağını, hız kavramını, modern yaşamı ve devrim yüceltilirken toplumun katılaşmış değerlerine karşı çıkarak, eskiye bağlı ne varsa göz ardı edilmesini isteyen modern sanat akımı aşağıdakilerden hangisidir?
+    - A-) Kübizm
+    - B-) C. Dadaizm
+    - **Cevap C-) Fütürizm**
+    - D-) Art Deco
+    - E-) De Stijl
+
+    > **Açıklama:** MODERN SANAT AKIMLARI
+    > Future (gelecek) kelimesinden çıkışla Fütürist manifestoda; savaşların verdiği heyecan, makine çağı, hız kavramı, modern yaşam ve devrim yüceltilirken, toplumun katılaşmış değerlerine karşı çıkılarak, eskiye bağlı ne varsa göz ardı edilmesi istenmiştir.
 
     ***
 1. I. Dünya Savaşı’nın katliamlarına ve savaşa duyulan nefretten doğan, teknolojik ilerlemeye körü körüne bağlanmanın yüzeyselliğini,<br />toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto eden modern sanat akımı aşağıdakilerden hangisidir?
@@ -1494,7 +1644,8 @@
     - D-) Art Deco
     - E-) De Stijl
 
-    > **Açıklama:** Dadaizm Sanat Akımı:
+    > **Açıklama:** MODERN SANAT AKIMLARI
+    > Dadaizm Sanat Akımı:
     > I. Dünya Savaşı’nın katliamlarına ve savaşa duyulan nefretten doğan Dadaizm, teknolojik ilerlemeye körü körüne bağlanmanın yüzeyselliğini, toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto etmiştir.
 
     ***
@@ -1505,7 +1656,8 @@
     - D-) Fütürizm
     - E-) Art Deco
 
-    > **Açıklama:** Analitik Kübizm döneminde yapılan eserlerde sanatçılar, konuda işlenen elemanların planlarını değişik açılardan ele alıp analiz ettikten sonra bir araya getirdikleri parçaları ritmik bir kompozisyon oluşturmak için kullanmışlardır. Bu dönemde, konunun düzlemlerini genellikle birkaç bakış açısından analiz ettiler ve bu algıları ritmik geometrik düzlemlerden oluşan bir resim oluşturmak için kullanmışlardır. Asıl konu, uzamsal ilişkilerde kullanılan şekiller, renkler, dokular ve değerlerdir.
+    > **Açıklama:** MODERN SANAT AKIMLARI
+    > Analitik Kübizm döneminde yapılan eserlerde sanatçılar, konuda işlenen elemanların planlarını değişik açılardan ele alıp analiz ettikten sonra bir araya getirdikleri parçaları ritmik bir kompozisyon oluşturmak için kullanmışlardır. Bu dönemde, konunun düzlemlerini genellikle birkaç bakış açısından analiz ettiler ve bu algıları ritmik geometrik düzlemlerden oluşan bir resim oluşturmak için kullanmışlardır. Asıl konu, uzamsal ilişkilerde kullanılan şekiller, renkler, dokular ve değerlerdir.
 
     ***
 1. Kendinden önceki Art Nouveau akımına karşı bir duruş sergileyen, modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi<br />amaçlayan, savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişim ile şekillenen modern sanat akımı aşağıdakilerden hangisidir?
@@ -1515,7 +1667,8 @@
     - D-) Fütürizm
     - **Cevap E-) Art Deco**
 
-    > **Açıklama:** Kendinden önceki Art Nouveau akımına karşı bir duruş sergileyen akım, modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi
+    > **Açıklama:** ART DECO SANAT AKIMI
+    > Kendinden önceki Art Nouveau akımına karşı bir duruş sergileyen akım, modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi
     > amaçlamıştır. Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişim Art Deco’nun şekillenmesinde de etkili olmuştur.
 
     ***
@@ -1526,18 +1679,32 @@
     - D-) Art Deco
     - **Cevap E-) De Stijl**
 
-    > **Açıklama:** “De Stijl’in iki ana özelliği –resim, mimari, plastik, iç mekân tasarımı veya kitap tasarımı dâhil– biçimlerin daima dik açılı, renklerin ise temel renkler–kırmızı, mavi ve sarıdan oluşmasıdır.
+    > **Açıklama:** DE STİJL SANAT AKIMI
+    > “De Stijl’in iki ana özelliği –resim, mimari, plastik, iç mekân tasarımı veya kitap tasarımı dâhil– biçimlerin daima dik açılı, renklerin ise temel renkler–kırmızı, mavi ve sarıdan oluşmasıdır.
 
     ***
-1. 1910 ve 1912 yılları  arasında çalıştıkları yapıtlarına “Analitik Kübizm” adı veren Pablo Picasso ve arkadaşı aşağıdakilerden hangisidir?
+1. 1910 ve 1912 yılları arasında çalıştıkları yapıtlarına “Analitik Kübizm” adı veren Pablo Picasso ve arkadaşı aşağıdakilerden hangisidir?
     - A-) Vilmos Huszar
     - B-) J.J. Oud
     - C-) Piet Mondrian
     - **Cevap D-) Georges Braque**
     - E-) Theo van Doesburg
 
-    > **Açıklama:** Kübizm Akımının Öncüleri:
+    > **Açıklama:** MODERN SANAT AKIMLARI
+    > Kübizm Akımının Öncüleri:
     > Pablo Picasso ve arkadaşı Georges Braque’ın 1910 ve 1912 yılları arasında çalıştıkları yapıtlarına “Analitik Kübizm adı verilmiştir”.
+
+    ***
+1. İtalyan şair Filippo Tommaso Marinetti tarafından 1909 yılında, bir Paris gazetesinin baş sayfasında gösterişli bir manifestonun yayınlanmasıyla dünyaya duyurulan modern sanat akımı aşağıdakilerden hangisidir?
+    - A-) Dadaizm
+    - B-) Kübizm
+    - **Cevap C-) Fütürizm**
+    - D-) Art Deco
+    - E-) De Stijl
+
+    > **Açıklama:** MODERN SANAT AKIMLARI
+    > Fütürizm Sanat Akımı:
+    > Fütürizm, anlı şanlı İtalyan şair Filippo Tommaso Marinetti tarafından 1909 yılında, bir Paris gazetesinin baş sayfasında gösterişli bir manifestonun yayınlanmasıyla dünyaya duyuruldu.
 
     ***
 1. Mona Lisa’nın eserinin reprodüksiyonuna bıyık yapması ile kamuoyunda şok etkisi yaratan Dadaist sanatçı aşağıdakilerden hangisidir?
@@ -1547,7 +1714,8 @@
     - D-) Filippo Marinetti
     - E-) David Carson
 
-    > **Açıklama:** Marcel Duchamp’ın Mona Lisa’nın eserinin reprodüksiyonuna bıyık yapması, kamuoyunda şok etkisi yaratmıştır. Duchamp bu davranışıyla Mona Lisa’yı yermeyi düşünmemiştir, asıl hedef geleneğin zorbalığına ve Rönesans’ın hümanist ruhunu kaybetmiş bir halka yapılmış zekice bir saldırıyı gözler önüne sermek istemiştir. Dadaizm akımında kullanılan sözcüklerde de kelime oyunlarına gidilmiştir. Mona Lisa tablosunun altında yazan L.H.O.O.Q ibaresi Look (Bak) anlamına gelen İngilizce sözcüğünü anımsatmak için kullanılmıştır.
+    > **Açıklama:** MODERN SANAT AKIMLARI
+    > Marcel Duchamp’ın Mona Lisa’nın eserinin reprodüksiyonuna bıyık yapması, kamuoyunda şok etkisi yaratmıştır. Duchamp bu davranışıyla Mona Lisa’yı yermeyi düşünmemiştir, asıl hedef geleneğin zorbalığına ve Rönesans’ın hümanist ruhunu kaybetmiş bir halka yapılmış zekice bir saldırıyı gözler önüne sermek istemiştir. Dadaizm akımında kullanılan sözcüklerde de kelime oyunlarına gidilmiştir. Mona Lisa tablosunun altında yazan L.H.O.O.Q ibaresi Look (Bak) anlamına gelen İngilizce sözcüğünü anımsatmak için kullanılmıştır.
 
     ***
 1. Tasarım felsefesi “Az çoktur (Less is more)” ilkesi ile özdeşleşmiş olan, Rusya’daki Konstrüktivizm ve Hollanda’daki De Stijl tasarım anlayışının etkilerinin izlerini taşıyan modern sanat akımı aşağıdakilerden hangisidir?
@@ -1557,7 +1725,19 @@
     - D-) Art Deco
     - **Cevap E-) Bauhaus okulu**
 
-    > **Açıklama:** Bauhaus okulu: Grafik tasarım tarihinin en önemli ve bilinen okullarından birisi olan Bauhaus, 1919 yılında Walter Gropius önderliğinde daha önce var olan bir Sanat Akademisi ile birleşerek “Staatliches Bauhaus Weimar” adıyla kurulmuştur. Bauhaus 20. yüzyılın tasarımının gelişiminde bir öncü niteliğinde olup, dönemin yaşam reformu hareketinin fikirlerinden yararlanmıştır. Bauhaus okulunun tasarım felsefesi “Az çoktur (Less is more)” ilkesi ile özdeşleşmiş olduğundan Rusya’daki Konstrüktivizm ve Hollanda’daki De Stijl tasarım anlayışının etkilerinin izlerini taşımaktadır.
+    > **Açıklama:** DE STİJL SANAT AKIMI
+    > Bauhaus okulu: Grafik tasarım tarihinin en önemli ve bilinen okullarından birisi olan Bauhaus, 1919 yılında Walter Gropius önderliğinde daha önce var olan bir Sanat Akademisi ile birleşerek “Staatliches Bauhaus Weimar” adıyla kurulmuştur. Bauhaus 20. yüzyılın tasarımının gelişiminde bir öncü niteliğinde olup, dönemin yaşam reformu hareketinin fikirlerinden yararlanmıştır. Bauhaus okulunun tasarım felsefesi “Az çoktur (Less is more)” ilkesi ile özdeşleşmiş olduğundan Rusya’daki Konstrüktivizm ve Hollanda’daki De Stijl tasarım anlayışının etkilerinin izlerini taşımaktadır.
+
+    ***
+1. Lacerba dergi­sinde çıkan bir yazısında tipografik devrim yapma çağrısında bulunan sanatçı aşağıdakilerden hangisidir?
+    - A-) A.M. Cassandre
+    - B-) April Greiman
+    - C-) E.M. Kauffer
+    - **Cevap D-) Filippo Marinetti**
+    - E-) Zuzana Licko
+
+    > **Açıklama:** Tipografik uyum, yeni geliştirilen stilin sayfa üzerindeki oradan oraya savrulan, bomba gibi pat­layan, atlamalar yapan anarşik tavrına ters düştüğü için reddedilirken tipografinin görselliğine vurgu yapması özendirilmiştir.
+    > Marinetti, Lacerba dergi­sinde çıkan bir yazısında tipografik devrim yapma çağrısında bulunmaktadır.
 
     ***
 1. Bir eserinde tuvale sandalye hasırı deseni basılmış bir muşamba parçası yapıştırarak sandalyeyi anlatmış ve eserin kenarını gerçek bir halat ipi ile çerçevelemiş olan sanatçı aşa­ğıdakilerden hangisidir?
@@ -1567,7 +1747,8 @@
     - D-) Rudy Vanderlans
     - E-) Armin Hoffman
 
-    > **Açıklama:** Pablo Picasso bir eserinde tuvale sandalye hasırı deseni basılmış bir muşamba parçası yapıştırarak sandalyeyi anlatmış ve eserin kenarını gerçek bir halat ipi ile çerçevelemiştir.
+    > **Açıklama:** Bu eser Şekil 4.3 de verilmiştir.
+    > Pablo Picasso bir eserinde tuvale sandalye hasırı deseni basılmış bir muşamba parçası yapıştırarak sandalyeyi anlatmış ve eserin kenarını gerçek bir halat ipi ile çerçevelemiştir.
 
     ***
 1. Fütürizm, hangi yılda dünyaya duyuruldu?
@@ -1577,7 +1758,8 @@
     - D-) 1912
     - E-) 1915
 
-    > **Açıklama:** Fütürizm, anlı şanlı İtalyan şair Filippo Tom­maso Marinetti tarafından 1909 yılında, bir Paris gazetesinin baş sayfasında gösterişli bir manifes­tonun yayınlanmasıyla dünyaya duyuruldu.
+    > **Açıklama:** Fütürizm, her türlü tarihsel kavramı reddeden yazınsal bir reform hareketi olarak başlamıştır.
+    > Fütürizm, anlı şanlı İtalyan şair Filippo Tom­maso Marinetti tarafından 1909 yılında, bir Paris gazetesinin baş sayfasında gösterişli bir manifes­tonun yayınlanmasıyla dünyaya duyuruldu.
 
     ***
 1. Macar şair Tristan Tza­ra, DADA adlı dergiyi hangi yılda çıkarmaya başlamıştır?
@@ -1587,7 +1769,8 @@
     - **Cevap D-) 1917**
     - E-) 1919
 
-    > **Açıklama:** Macar şair Tristan Tza­ra, 1917 yılında DADA adlı dergiyi çıkarmaya baş­lamıştır.
+    > **Açıklama:** Macar şair Tristan Tza­ra, Dadaizmin öncülerinden biri olmuştur.
+    > Macar şair Tristan Tza­ra, 1917 yılında DADA adlı dergiyi çıkarmaya baş­lamıştır.
 
     ***
 1. Mona Lisa’nın eserinin reprodüksiyonuna bıyık yapması ile kamuoyunda şok etkisi yaratmış olan sanatçı aşağıdakilerden han­gisidir?
@@ -1597,7 +1780,8 @@
     - D-) Filippo Marinetti
     - **Cevap E-) Marcel Duchamp**
 
-    > **Açıklama:** Duchamp’ın Mona Lisa’nın eserinin reprodüksiyonuna bıyık yapması, kamuoyunda şok etkisi yaratmıştır.
+    > **Açıklama:** Bu eser Şekil 4.11 de verilmiştir.
+    > Duchamp’ın Mona Lisa’nın eserinin reprodüksiyonuna bıyık yapması, kamuoyunda şok etkisi yaratmıştır.
 
     ***
 1. Aşağıdakilerden hangisi Dada sanat akımı sanatçılarından biri **değildir?**
@@ -1607,7 +1791,8 @@
     - **Cevap D-) Georges Braque**
     - E-) Marcel Duchamp
 
-    > **Açıklama:** Georges Braque, Kübizm akımının öncülerindendir, diğerleri ise Dadaizm sanatçılarıdır.
+    > **Açıklama:** Sayfa 98 de Dadaizm sanatçıları hakkında bilgi verilmektedir.
+    > Georges Braque, Kübizm akımının öncülerindendir, diğerleri ise Dadaizm sanatçılarıdır.
 
     ***
 1. Aşağıdakilerden hangisi De Stijl sanat akımı sanatçılarından biridir?
@@ -1617,7 +1802,8 @@
     - D-) Georges Braque
     - E-) Marcel Duchamp
 
-    > **Açıklama:** Piet Mondrian, (1872-1944), “De Stijl” grubunun kurucularındandır ve bu akımın sanatçılarındandır.
+    > **Açıklama:** Bu akımın önemli temsilcileri ve sanatçıları Theo Van Does­burg ve Piet Mondrian’dır.
+    > Piet Mondrian, (1872-1944), “De Stijl” grubunun kurucularındandır ve bu akımın sanatçılarındandır.
 
     ***
 1. A.M. Cassandra aşağıdaki hangi sanat akımının önde gelen isimlerinden biridir?
@@ -1627,7 +1813,8 @@
     - D-) Fütürizm
     - **Cevap E-) Art Deco**
 
-    > **Açıklama:** A.M. Cassandra, Art Deco sanat akımının önde gelen isimlerinden biridir.
+    > **Açıklama:** Sayfa 101 ve 102 de A.M. Cassandra’nın tasarımları verilmiştir.
+    > A.M. Cassandra, Art Deco sanat akımının önde gelen isimlerinden biridir.
 
     ***
 1. ……………… akımı, tasarımdaki Sübjektivizme (öznelcilik) karşı bir duruş sergilemektedir.<br />Yukarıdaki boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -1637,17 +1824,30 @@
     - D-) Fütürizm
     - E-) Art Deco
 
-    > **Açıklama:** De Stijl akımı, tasarımdaki Sübjektivizme (öznelcilik) karşı bir duruş sergilemektedir.
+    > **Açıklama:** Eğri­sel çizgiler, yuvarlatılmış formlara sahip her öge dışlanmakta, dünya çapında bir birlik yakalamak üzere duygusallıktan yoksun, öznellik barındır­mayan görsel elemanlar aranmıştır.
+    > De Stijl akımı, tasarımdaki Sübjektivizme (öznelcilik) karşı bir duruş sergilemektedir.
 
     ***
-1. Londra Metrosu için 141 afiş tasarlayan Ed­ward Mcknight Kauffer, bu afişler sayesinde ulaşıma katkıda bulunmuş ve hafta sonu zevk için seyahatlerini kırsal alanlara yapmaya teşvik edici afişler hazırlayarak aşağıdaki hangi sanat akımına destek olmuştur?
+1. Londra Metrosu için 141 afiş tasarlayan Ed­ward Mcknight Kauffer, bu afişler sayesinde ulaşıma katkıda bulunmuş ve hafta sonu zevk için seyahatlerini kırsal alanlara yapmaya teşvik edici afişler hazırlayarak aşağıdaki hangi sanat akımına destek olmuştur?
     - A-) De Stijl
     - B-) Kübizm
     - **Cevap C-) Art Deco**
     - D-) Dadaizm
     - E-) Fütürizm
 
-    > **Açıklama:** Londra Metrosu için 141 afiş tasarlayan Ed­ward Mcknight Kauffer, bu afişler sayesinde ulaşıma katkıda bulunmuş ve hafta sonu zevk için seyahatlerini kırsal alanlara yapmaya teşvik edici afişler hazırlayarak Art deco akımına destek olmuştur.
+    > **Açıklama:** Ka­uffer manzara ile görsel etki elde etmiş, indirgeyici tasarımla posterlerdeki konuları, karmaşık ortam­ları düzenleyerek birbirine geçen şekiller ile yarat­mıştır.
+    > Londra Metrosu için 141 afiş tasarlayan Ed­ward Mcknight Kauffer, bu afişler sayesinde ulaşıma katkıda bulunmuş ve hafta sonu zevk için seyahatlerini kırsal alanlara yapmaya teşvik edici afişler hazırlayarak Art deco akımına destek olmuştur.
+
+    ***
+1. Aşağıdaki modern sanat akımlarından hangisi görsel iletişimin grafik dilini doğrudan etkilememiştir?
+    - **Cevap A-) Romantizm**
+    - B-) Kübizm
+    - C-) Fütürizm
+    - D-) Dadaizm
+    - E-) Sürrealizm
+
+    > **Açıklama:** Kübizm, Fütürizm, Dada ve Sürrealizm, gibi modern sanat akımları görsel iletişimin grafik dilini doğrudan etkilerken De Stijl ve Art Deco gibi akımlarda belirli bir biçim üzerine yoğunlaşarak özgün bir dil yakalamışlardır.
+    > Sorunun doğru cevabı A seçeneğinde verilmiştir
 
     ***
 1. Hangi modern sanat akımının manifestosunda savaşların verdiği heyecan, makine çağı, hız kavramı, modern yaşam ve devrim yüceltilirken toplumun katılaşmış değerlerine karşı çıkarak, eskiye bağlı ne varsa göz ardı edilmesi istemiştir?
@@ -1657,7 +1857,8 @@
     - D-) Dadaizm
     - E-) Sürrealizm
 
-    > **Açıklama:** Sorunun doğru cevabı B seçeneğinde verilmiştir
+    > **Açıklama:** Future (gelecek) kelimesinden çıkışla Fütürist manifestoda savaşların verdiği heyecanı, makine çağını, hız kavramını, modern yaşamı ve devrim yüceltilirken toplumun katılaşmış değerlerine karşı çıkarak, eskiye bağlı ne varsa göz ardı edilmesini istemişlerdir.
+    > Sorunun doğru cevabı B seçeneğinde verilmiştir
 
     ***
 1. Hangi modern sanatçılar geleneksel sanata karşı duruşlarını, geleneği reddederek yozlaşmış bir toplumla alay ederek aşağıladıklarını ortaya koydukları çalışmalarla gösterirken, fütürizmin görsel dilinden de faydalanmışlardır?
@@ -1667,7 +1868,8 @@
     - D-) Sürrealistler
     - E-) Kübistler
 
-    > **Açıklama:** Sorunun doğru yanıtı C seçeneğinde verilmiştir
+    > **Açıklama:** Dadaistler geleneksel sanata karşı duruşlarını, geleneği reddederek yozlaşmış bir toplumla alay ederek aşağıladıklarını ortaya koydukları çalışmalarla gösterirken, fütürizmin görsel dilinden de faydalanmışlardır.
+    > Sorunun doğru yanıtı C seçeneğinde verilmiştir
 
     ***
 1. Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte bazı alanlardaki değişim Art Deco’nun şekillenmesinde de etkili olmuştur. Aşağıdakilerden hangisi bu alanlardan birisi değildir?
@@ -1677,7 +1879,8 @@
     - **Cevap D-) Müzik**
     - E-) Moda
 
-    > **Açıklama:** Sorunun doğru cevabı D seçeneğinde verilmiştir.
+    > **Açıklama:** Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişim Art Deco’nun şekillenmesinde de etkili olmuştur.
+    > Sorunun doğru cevabı D seçeneğinde verilmiştir.
 
     ***
 1. Art deco akımının hangi önemli ismi Londra Metrosu için 141 afiş tasarlayarak bu afişler sayesinde ulaşıma katkıda bulunmuş ve hafta sonu zevk için seyahatlerini kırsal alanlara yapmaya teşvik edici afişler hazırlayarak bu akıma destek olmuştur?
@@ -1687,7 +1890,8 @@
     - D-) Paul Renner E.
     - **Cevap E-) E.M. Kauffer**
 
-    > **Açıklama:** Sorunun doğru cevabı E seçeneğinde verilmiştir
+    > **Açıklama:** Art deco akımının bir diğer önemli ismi de Edward Mcknight Kauffer’dır. Londra Metrosu için 141 afiş tasarlayan tasarımcı, bu afişler sayesinde ulaşıma katkıda bulunmuş ve hafta sonu zevk için seyahatlerini kırsal alanlara yapmaya teşvik edici afişler hazırlayarak bu akıma destek olmuştur.
+    > Sorunun doğru cevabı E seçeneğinde verilmiştir
 
     ***
 1. Kral mezarlarını süsleyen çapraz motifler, oteller, benzin istasyonları, sinema salonları ve gökdelenleri süsleyen bitki ve hayvan tasvirleri ya da şelale izlenimi veren dikey ve güçlü bloklar, hangi modern sanat akımını farklılaştıran ve zenginleştiren bu anlayışların net birer örneği olarak da okunabilir?
@@ -1697,17 +1901,30 @@
     - D-) De Stijl akımı
     - **Cevap E-) Art Deco akımı**
 
-    > **Açıklama:** Sorunun doğru cevabı E seçeneğinde verilmiştir
+    > **Açıklama:** Kral mezarlarını süsleyen çapraz motifler, oteller, benzin istasyonları, sinema salonları ve gökdelenleri süsleyen bitki ve hayvan tasvirleri ya da şelale izlenimi veren dikey ve güçlü bloklar, Art Deco’yu farklılaştıran ve zenginleştiren bu anlayışların net birer örneği olarak da okunabilir.
+    > Sorunun doğru cevabı E seçeneğinde verilmiştir
 
     ***
-1. 20. yüzyıl başlarında hangi ülkede “De Stijl” olarak adlandırılan modernist bir tasarım akımı görsel sanatların bütün alanlarında etkisini hissettirmeye başlamıştır?
+1. 20\. yüzyıl başlarında hangi ülkede “De Stijl” olarak adlandırılan modernist bir tasarım akımı görsel sanatların bütün alanlarında etkisini hissettirmeye başlamıştır?
     - A-) Rusya
     - B-) Almanya
     - C-) Fransa
     - **Cevap D-) Hollanda**
     - E-) Belçika
 
-    > **Açıklama:** Sorunun doğru cevabı D seçeneğinde verilmiştir.
+    > **Açıklama:** 20\. yüzyıl başlarında Hollanda’da “De Stijl” olarak adlandırılan modernist bir tasarım akımı görsel sanatların bütün alanlarında etkisini hissettirmeye başlamıştır.
+    > Sorunun doğru cevabı D seçeneğinde verilmiştir.
+
+    ***
+1. Aşağıdakilerden hangisi De Stijl modern sanat akımının temel özelliklerinden birisi değildir?
+    - A-) Biçimlerin daima dik açılı kullanılması
+    - B-) Kırmızı rengin kullanılması
+    - **Cevap C-) Yeşil rengin kullanılması**
+    - D-) Mavi rengin kullanılması
+    - E-) Sarı rengin kullanılması
+
+    > **Açıklama:** “De Stijl’in iki ana özelliği –resim, mimari, plastik, iç mekân tasarımı veya kitap tasarımı dâhil– biçimlerin daima dik açılı, renklerin ise temel renkler–kırmızı, mavi ve sarıdan oluşmasıdır.
+    > Sorunun doğru yanıtı C seçeneğinde verilmiştir
 
     ***
 1. De Stijl akımın önemli temsilcilerinden Piet Mondrian, hangi sanat akımına ait resimleri gördükten sonra onlardan etkilenerek geleneksel manzara resminden vazgeçmiş, sembolik bir tasarım anlayışına yönelmiştir?
@@ -1717,7 +1934,8 @@
     - D-) Romantizm
     - E-) Dadaizm
 
-    > **Açıklama:** Sorunun doğru yanıtı B seçeneğinde verilmiştir
+    > **Açıklama:** Bu akımın önemli temsilcileri ve sanatçıları Theo Van Doesburg ve Piet Mondrian’dır. Mondrian, kübist resimleri gördükten sonra onlardan etkilenerek geleneksel manzara resminden vazgeçmiş, sembolik bir tasarım anlayışına yönelmiştir. 105
+    > Sorunun doğru yanıtı B seçeneğinde verilmiştir
 
     ***
 1. Tasarım felsefesi “Az çoktur (Less is more)” ilkesi ile özdeşleşmiş olduğundan Rusya’daki Konstrüktivizm ve Hollanda’daki De Stijl tasarım anlayışının etkilerinin izlerini taşıyan grafik tasarım tarihinin en önemli ve bilinen okulu aşağıdakilerden hangisidir?
@@ -1727,7 +1945,8 @@
     - D-) Yapısalcılık Okulu
     - E-) Minimalizm Okulu
 
-    > **Açıklama:** Sorunun doğru cevabı A seçeneğinde verilmiştir.
+    > **Açıklama:** Grafik tasarım tarihinin en önemli ve bilinen okullarından birisi olan Bauhaus okulunun tasarım felsefesi “Az çoktur (Less is more)” ilkesi ile özdeşleşmiş olduğundan Rusya’daki Konstrüktivizm ve Hollanda’daki De Stijl tasarım anlayışının etkilerinin izlerini taşımaktadır.
+    > Sorunun doğru cevabı A seçeneğinde verilmiştir.
 
     ***
 1. Doğanın gerçekçiliğinden bağımsız bir sanat kavramı yaratarak yeni bir sanatsal gelenek ve görme biçimi kazandırmıştır.<br />Yukarıda sözü edilen sanat akımı aşağıdakilerden hangisidir?
@@ -1737,7 +1956,8 @@
     - D-) Sürrealizm
     - E-) Art Deco
 
-    > **Açıklama:** Kübizm
+    > **Açıklama:** Sanat tarihinde gerçekçi olma geleneğini yıkan Kübizm, doğadan gerçekçiliğinden bağımsız bir sanat kavramı yaratarak yeni bir sanatsal gelenek ve görme biçimi kazandırmıştır. Kübizm soyut bir sanat akımı görünümüde olmasına rağmen gerçekçi bir sanat akımı olan realizmden daha fazla gerçekle ilgilenmiştir çünkü somut bir kavramı soyut hâle getirmek için öncelikle onun çok iyi bir biçimde analiz edilmesi gerekmektedir.
+    > Kübizm
 
     ***
 1. Bu dönemde, konunun düzlemlerini genellikle birkaç bakış açısından analiz ettiler ve bu algıları ritmik geometrik düzlemlerden oluşan bir resim oluşturmak için kullanmışlardır. Asıl konu, uzamsal ilişkilerde kullanılan şekiller, renkler, dokular ve değerlerdir. Yapısalcı (Strüktürel) bir sanat eseri oluşturmak için somut biçimler yerine, görsel açıdan incelenmesini ele almışlardır.<br />Yukarıda açıklanan sanat akımı aşağıdakilerden hangisidir?
@@ -1747,7 +1967,7 @@
     - **Cevap D-) Kübizm**
     - E-) Postmodernizm
 
-    > **Açıklama:** Kübizm
+    > **Açıklama:** Pablo Picasso ve arkadaşı Georges Braque’ın 1910 ve 1912 yılları arasında çalıştıkları yapıtlarına “Analitik Kübizm adı verilmiştir”. Analitik Kübizm döneminde yapılan eserlerde sanatçılar, konuda işlenen elemanların planlarını değişik açılardan ele alıp analiz ettikten sonra bir araya getirdikleri parçaları ritmik bir kompozisyon oluşturmak için kullanmışlardır. Bu dönemde, konunun düzlemlerini genellikle birkaç bakış açısından analiz ettiler ve bu algıları ritmik geometrik düzlemlerden oluşan bir resim oluşturmak için kullanmışlardır. Asıl konu, uzamsal ilişkilerde kullanılan şekiller, renkler, dokular ve değerlerdir. Yapısalcı (Strüktürel) bir sanat eseri oluşturmak için somut biçimler yerine, görsel açıdan incelenmesini ele almışlardır.
 
     ***
 1. Savaşların verdiği heyecanı, makine çağını, hız kavramını, modern yaşamı ve devrim yüceltilirken toplumun katılaşmış değerlerine karşı çıkarak, eskiye bağlı ne varsa göz ardı edilmesini isteyen sanat akımı aşağıdakilerden hangisidir?
@@ -1757,17 +1977,19 @@
     - D-) Art Deco
     - E-) Modernizm
 
-    > **Açıklama:** Fütürizm
+    > **Açıklama:** Future (gelecek) kelimesinden çıkışla Fütürist manifestoda savaşların verdiği heyecanı, makine çağını, hız kavramını, modern yaşamı ve devrim yüceltilirken toplumun katılaşmış değerlerine karşı çıkarak, eskiye bağlı ne varsa göz ardı edilmesini istemişlerdir. Marinetti ve yandaşları bomba etkisi yaratan bu fikirleri ile coşku dolu bir şiir geliştirerek, yazılı ifadenin sözdizimi, dil bilgisi kuralına göre kullanılmasına meydan okumuşlardır.
+    > Fütürizm
 
     ***
-1. Teknolojik ilerlemeye körükörüne bağlanmanın yüzeyselliğini, toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto etmiştir.<br />Yukarıdaki özellikler hangi sanat akımına aittir?
+1. Teknolojik ilerlemeye körükörüne bağlanmanın yüzeyselliğini, toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto etmiştir.<br />Yukarıdaki özellikler hangi sanat akımına aittir?
     - A-) Fütürizm
     - B-) Kübizm
     - **Cevap C-) Dadaizm**
     - D-) Art Deco
     - E-) Ekspresyonizm
 
-    > **Açıklama:** Dadaizm
+    > **Açıklama:** I. Dünya Savaşı’nın katliamlarına ve savaşa duyulan nefretten doğan Dadaizm, teknolojik ilerlemeye körükörüne bağlanmanın yüzeyselliğini, toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto etmiştir.
+    > Dadaizmin her şeye karşı olan tavrı, kendilerinin bile “dada” sözcüğünün anlamı üzerinde ortak bir kanıya varmalarını engellemiştir. Ancak sözlük anlamı ne olursa olsun anlamsız bir sözcük olarak kullanılan bu isim Dada’nın tavrına ve felsefesine tam anlamıyla uymaktadır. Macar şair Tristan Tzara, 1917 yılında DADA adlı dergiyi çıkarmaya başlamış ve Dadaizmin öncülerinden biri olmuştur.
 
     ***
 1. Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişim .............. şekillenmesinde de etkili olmuştur.<br />Yukarıda boş bırakılan yere hangi sanat akımı gelebilir?
@@ -1777,7 +1999,7 @@
     - **Cevap D-) Art Deco**
     - E-) Ekspresyonizm
 
-    > **Açıklama:** Art Deco
+    > **Açıklama:** Art Deco akımı adını, 1925 yılında Paris’te düzenlenen ‘Modern Dekoratif ve Endüstriyel Sanatlar Sergisi’nden almıştır. Kendinden önceki Art Nouveau akımına karşı bir duruş sergileyen akım, modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi amaçlamıştır. Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişim Art Deco’nun şekillenmesinde de etkili olmuştur. Art Deco tasarımlarında düz ve keskin hatlar, geometrik şekiller, hızı temsilen aerodinamik formlar ve aydınlık renkler öne çıkmaktadır. Bu akımın önde gelen isimlerinden biri olan A.M. Cassandra’nın tasarımlarında bu etkileri görmek mümkündür.
 
     ***
 1. Theo Van Doersburg'un önderliğini yaptığı, rusya ve Hollanda da başlayan yalın karakterli görsel bir sanata ulaşma serüvenini Almanya'ya devreden ve Bauhaus Okulu'nun kuruluşuna katkıda bulunan sanat akımı hangisidir?
@@ -1790,7 +2012,7 @@
     > **Açıklama:** De Stijil
 
     ***
-1. 20. yüzyılın tasarımının gelişiminde bir öncü niteliğinde olup, dönemin yaşam reformu hareketinin fikirlerinden yararlanmıştır. Tasarım felsefesi “Az çoktur (Less is more)” ilkesi ile özdeşleşmiş olduğundan Rusya’daki Konstrüktivizm ve Hollanda’daki De Stijl tasarım anlayışının etkilerinin izlerini taşımaktadır.<br />Sözü edilen sanat akımı hangisidir?
+1. 20\. yüzyılın tasarımının gelişiminde bir öncü niteliğinde olup, dönemin yaşam reformu hareketinin fikirlerinden yararlanmıştır. Tasarım felsefesi “Az çoktur (Less is more)” ilkesi ile özdeşleşmiş olduğundan Rusya’daki Konstrüktivizm ve Hollanda’daki De Stijl tasarım anlayışının etkilerinin izlerini taşımaktadır.<br />Sözü edilen sanat akımı hangisidir?
     - **Cevap A-) Bauhaus Okulu**
     - B-) De Stijl
     - C-) Dadaizm
@@ -1805,9 +2027,9 @@
     - B-) Dünya çapında bir birlik yakalamak üzere duygusallıktan yoksundur
     - C-) Bu akımın önemli temsilcileri Theo Van Doesburg ve Piet Mondrian’dır
     - D-) Resimlerin temel elemanları olan dikey ve yataylar çizgiler, düşünsel karşıtlıkların görsel ifadesidir
-    - **Cevap E-) Savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve  protesto eder**
+    - **Cevap E-) Savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve protesto eder**
 
-    > **Açıklama:** Savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve  protesto eder
+    > **Açıklama:** Savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve protesto eder
 
     ***
 1. Aşağıdakilerden hangisi dadaizmin özelliklerinden biri değildir?
@@ -1900,14 +2122,14 @@
     > **Açıklama:** Art Deco tasarımlarında düz ve keskin hatlar, geometrik şekiller, hızı temsilen aerodinamik formlar ve aydınlık renkler öne çıkmaktadır. Bu akımın önde gelen isimlerinden biri olan A.M. Cassandra’nın tasarımlarında bu etkileri görmek mümkündür.
 
     ***
-1. 20. yüzyıl başlarında Hollanda’da “De Stijl” olarak adlandırılan ve görsel sanatların bütün alanlarında etkisini hissettirmeye başlayan sanat akımının önde gelen temsilcisi aşağıdakilerden hangisidir?
+1. 20\. yüzyıl başlarında Hollanda’da “De Stijl” olarak adlandırılan ve görsel sanatların bütün alanlarında etkisini hissettirmeye başlayan sanat akımının önde gelen temsilcisi aşağıdakilerden hangisidir?
     - **Cevap A-) Piet Mondrian**
     - B-) Joan Miro
     - C-) Pablo Picasso
     - D-) Salvador Dali
     - E-) A.M. Cassandre
 
-    > **Açıklama:** 20. yüzyıl başlarında Hollanda’da “De Stijl” olarak adlandırılan modernist bir tasarım akımı görsel sanatların bütün alanlarında etkisini hissettirmeye başlamıştır (Becer, 2007). 1917 yılında eo van Do- esburg (1883-1931), Piet Mondrian, (1872-1944), Vilmos Huszar ve J.J. Oud Hollanda’da “De Stijl” grubunu kurmuşlar; aynı yılın sonbaharında ise “De Stijl” dergisini çıkarmaya başlamışlardır. “De Stijl’in iki ana özelliği –resim, mimari, plastik, iç mekân tasarımı veya kitap tasarımı dâhil– biçimlerin daima dik açılı, renklerin ise temel renkler–kırmızı, mavi ve sarıdan oluşmasıdır.
+    > **Açıklama:** 20\. yüzyıl başlarında Hollanda’da “De Stijl” olarak adlandırılan modernist bir tasarım akımı görsel sanatların bütün alanlarında etkisini hissettirmeye başlamıştır (Becer, 2007). 1917 yılında eo van Do- esburg (1883-1931), Piet Mondrian, (1872-1944), Vilmos Huszar ve J.J. Oud Hollanda’da “De Stijl” grubunu kurmuşlar; aynı yılın sonbaharında ise “De Stijl” dergisini çıkarmaya başlamışlardır. “De Stijl’in iki ana özelliği –resim, mimari, plastik, iç mekân tasarımı veya kitap tasarımı dâhil– biçimlerin daima dik açılı, renklerin ise temel renkler–kırmızı, mavi ve sarıdan oluşmasıdır.
 
     ***
 1. Londra Metrosu için 141 afiş tasarlayan, bu afişler sayesinde ulaşıma katkıda bulunmuş ve hafta sonu zevk için seyahatlerini kırsal alanlara yapmaya teşvik edici afişler hazırlayarak bu akıma destek olan sanatçı aşağıdakilerden hangisidir?
@@ -1930,7 +2152,7 @@
     > **Açıklama:** Bu akımın önemli temsilcileri ve sanatçıları eo Van Doesburg ve Piet Mondrian’dır. Mondrian, kübist re- simleri gördükten sonra onlardan etkilenerek ge-leneksel manzara resminden vazgeçmiş, sembolik bir tasarım anlayışına yönelmiştir. Resimlerinde kullandığı temel elemanlar olan dikey ve yataylar çizgiler, düşünsel karşıtlıkların görsel ifadesidir. Dikeyler evrensel, nesnel, tinsel, aktif ve erkeksi, yataylar ise bireysel, öznel, maddesel, pasif ve dişi- sel kavramların sembolleri olarak tanımlanmıştır. Mondrian, kırmızı, sarı ve maviden oluşan temel renkler dışındaki renklerin öznel duygular uyan- dırdığını düşünerek başka renkler kullanmaktan kaçınmıştır.
 
     ***
-1. "**...**   sanat akımlarında renk ve biçim, sosyal protesto aracı olarak kullanılmış ve kişisel duygusal durumlar hakkında fikir üretmek birçok sanatçının uğraşı olmuştur. **...**  Sanat, 20. yüzyılda Avrupa’da ve Batı etkisindeki diğer bölgelerde resim, heykel ve tasarım sanatında kendini göstermiştir" anlatımında yer alan boşluklara gelmesi en uygun seçenek aşağıdakilerden hangisidir?
+1. "**...**  sanat akımlarında renk ve biçim, sosyal protesto aracı olarak kullanılmış ve kişisel duygusal durumlar hakkında fikir üretmek birçok sanatçının uğraşı olmuştur. **...** Sanat, 20. yüzyılda Avrupa’da ve Batı etkisindeki diğer bölgelerde resim, heykel ve tasarım sanatında kendini göstermiştir" anlatımında yer alan boşluklara gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - **Cevap A-) Modern**
     - B-) Görsel
     - C-) Plastik
@@ -1980,7 +2202,7 @@
     > **Açıklama:** Modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi amaçlamıştır. Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişim **Art Deco**’nun şekillenmesinde de etkili olmuştur.
 
     ***
-1. "Geometrik formların yaygın kullanıldığı **...**  ve Bauhaus etkilerinden farklı olarak Art Deco akımında daha yumuşatılmış formlar öne çıkmaktadır" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
+1. "Geometrik formların yaygın kullanıldığı **...** ve Bauhaus etkilerinden farklı olarak Art Deco akımında daha yumuşatılmış formlar öne çıkmaktadır" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - **Cevap A-) Konstrüktivizm**
     - B-) Dadaizm
     - C-) Sentetik kübizm
@@ -1997,7 +2219,7 @@
     - D-) Kurt Schwitters
     - E-) Filippo Marinetti
 
-    > **Açıklama:** **A.M. Cassandre**'nin Peignot yazı karakterinin yapısında da  Art Deco akımının yumuşatılmış formlarının izlerini görmek mümkündür.
+    > **Açıklama:** **A.M. Cassandre**'nin Peignot yazı karakterinin yapısında da Art Deco akımının yumuşatılmış formlarının izlerini görmek mümkündür.
 
     ***
 1. ABD’nin önemli silüetleri arasında yer alan Chrysler Binası, Empire State ve Rockefeller Center hangi sanat akımı içinde değerlendirilebilir?
@@ -2010,14 +2232,14 @@
     > **Açıklama:** ABD’nin önemli silüetleri, erken 20. yüzyılın en güçlü mimari imgelerine dönüşmüş oldu. Amerikan kapitalizmini resmeden bu yapıların, daha mekanik ve güçlü birer gösterge haline gelmesi amaçlanıyordu. Chrysler Binası, Empire State ve Rockefeller Center da yine bu dönemde ve **Art Deco** mantığında tasarlandı.
 
     ***
-1. 20. yüzyıl başlarında **“De Stijl”** olarak adlandırılan ve görsel sanatların bütün alanlarında etkisini hissettirmeye başlayan modernist tasarım akımı hangi ülkede ortaya çıkmıştır?
+1. 20\. yüzyıl başlarında **“De Stijl”** olarak adlandırılan ve görsel sanatların bütün alanlarında etkisini hissettirmeye başlayan modernist tasarım akımı hangi ülkede ortaya çıkmıştır?
     - A-) ABD
     - B-) Almanya
     - C-) İngiltere
     - **Cevap D-) Hollanda**
     - E-) Fransa
 
-    > **Açıklama:** 20. yüzyıl başlarında **Hollanda**’da “De Stijl” olarak adlandırılan modernist bir tasarım akımı görsel sanatların bütün alanlarında etkisini hissettirmeye başlamıştır.
+    > **Açıklama:** 20\. yüzyıl başlarında **Hollanda**’da “De Stijl” olarak adlandırılan modernist bir tasarım akımı görsel sanatların bütün alanlarında etkisini hissettirmeye başlamıştır.
 
     ***
 1. "**...,** kübist resimleri gördükten sonra onlardan etkilenerek geleneksel manzara resminden vazgeçmiş, sembolik bir tasarım anlayışına yönelmiştir. Resimlerinde kullandığı temel elemanlar olan dikey ve yataylar çizgiler, düşünsel karşıtlıkların görsel ifadesidir" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
@@ -2060,9 +2282,29 @@
     > **Açıklama:** I. Dünya Savaşı’nın katliamlarına ve savaşa duyulan nefretten doğan Dadaizm, teknolojik ilerlemeye körü körüne bağlanmanın yüzeyselliğini, toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto etmiştir.
 
     ***
-1. Aşağıdakilerden hangisi Art Deco akımının özelliklerinden biri değildir?
+1. Aşağıdakilerden hangisi Art Nouveau akımına karşı bir duruş sergileyen ve ardından adını 1925 yılında Paris’te düzenlenen ‘Modern Dekoratif ve Endüstriyel Sanatlar Sergisi’nden alan sanat akımıdır?
+    - **Cevap A-) Art Deco**
+    - B-) Kübizm
+    - C-) Fütürizm
+    - D-) Dada
+    - E-) Sürrealizm
+
+    > **Açıklama:** Art Deco akımı adını, 1925 yılında Paris’te düzenlenen ‘Modern Dekoratif ve Endüstriyel Sanatlar Sergisi’nden almıştır. Kendinden önceki Art Nouveau akımına karşı bir duruş sergileyen akım, modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi amaçlamıştır.
+
+    ***
+1. Grafik tasarım tarihinin en önemli okullarından birisi olan Bauhaus, hangi yıl kurulmuştur?
+    - **Cevap A-) 1919**
+    - B-) 1918
+    - C-) 1917
+    - D-) 1916
+    - E-) 1915
+
+    > **Açıklama:** Bauhaus okulu: Grafik tasarım tarihinin en önemli ve bilinen okullarından birisi olan Bauhaus, 1919 yılında Walter Gropius önderliğinde daha önce var olan bir Sanat Akademisi ile birleşerek “Staatliches Bauhaus Weimar” adıyla kurulmuştur.
+
+    ***
+1. Aşağıdakilerden hangisi Art Deco akımının özelliklerinden biri değildir?
     - A-) Doğal formları kapsar
-    - B-) Pahalı süslemeler içerir.
+    - B-) Pahalı süslemeler içerir.
     - **Cevap C-) Sade renkler içerir.**
     - D-) Simetri özelliği göze çarpar.
     - E-) Geometrik formları kapsar
@@ -2112,7 +2354,7 @@
 
     ***
 ## Unite 5
-1. 1915 yılında Rusya’da ortaya çıkan ve Kurucuları Vladimir Tatlin (1885-1953) ve Alexander Rodchenko (1891-1956) olan sanatsal ve mimari felsefe aşağıdakilerden hangisidir?
+1. 1915 yılında Rusya’da ortaya çıkan ve Kurucuları Vladimir Tatlin (1885-1953) ve Alexander Rodchenko (1891-1956) olan sanatsal ve mimari felsefe aşağıdakilerden hangisidir?
     - **Cevap A-) Konstrüktivizm**
     - B-) Avangard
     - C-) Vkhutemas
@@ -2132,14 +2374,14 @@
     > **Açıklama:** Avangard: Fransızca ordu terimi olarak kullanılmıştır. Ordulardaki öncü birlikleri tarif etmek için kullanılan “Avant-garde” kelimesi sonrasında ilerici ve deneysel sanatı tanımlayan bir terim olarak kullanılmaya başlanmıştır.
 
     ***
-1. Farklı fotoğraflardaki farkı görsellerin yeni bir düzen ve anlam oluşturacak şekilde bir arada kullanılmasına verilen ad olan,  1915 yılında Dadaistler tarafından ilk defa kullanılan, sonrasında Sürrealist sanatçılar tarafından gerçek üstü ve bilinçaltı ile ilgili imgeler meydana getirmek amacıyla kullanılan tekniğe ne ad verilir?
+1. Farklı fotoğraflardaki farkı görsellerin yeni bir düzen ve anlam oluşturacak şekilde bir arada kullanılmasına verilen ad olan, 1915 yılında Dadaistler tarafından ilk defa kullanılan, sonrasında Sürrealist sanatçılar tarafından gerçek üstü ve bilinçaltı ile ilgili imgeler meydana getirmek amacıyla kullanılan tekniğe ne ad verilir?
     - A-) Fotoğraf
     - **Cevap B-) Fotomontaj**
     - C-) Pilyaj
     - D-) Avangard
     - E-) Serigrafi
 
-    > **Açıklama:** Fotomontaj: Farklı fotoğraflardaki farkı görsellerin yeni bir düzen ve anlam oluşturacak şekilde bir arada kullanılmasıdır. 1915 yılında Dadaistler tarafından ilk defa kullanılmıştır. Sonrasında Sürrealist sanatçılar tarafından gerçek üstü ve bilinçaltı ile ilgili imgeler meydana getirmek amacıyla bu teknik kullanılmıştır.
+    > **Açıklama:** Fotomontaj: Farklı fotoğraflardaki farkı görsellerin yeni bir düzen ve anlam oluşturacak şekilde bir arada kullanılmasıdır. 1915 yılında Dadaistler tarafından ilk defa kullanılmıştır. Sonrasında Sürrealist sanatçılar tarafından gerçek üstü ve bilinçaltı ile ilgili imgeler meydana getirmek amacıyla bu teknik kullanılmıştır. 1923 yılında Rus konstrüktivizm akımı sanatçılarında Aleksander Rodchenko da bu tekniği kullanan tasarımcılardandır. Sadece Rodchenko değil aynı zamanda Lissitzki, Klutsis ve Stenberg kardeşler gibi konstrüktivist tasarımcılar bu tekniği tipografik ve grafik tasarım eserlerinde sıklıkla kullanmışlardır.
 
     ***
 1. Kireç taşı üzerine yağlı kalem ya da fırça kullanarak hazırlanan kompozisyonun çoklu bir şekilde basılmasına olanak sağlayan baskı sanatına ne ad verilir?
@@ -2152,7 +2394,7 @@
     > **Açıklama:** Taş baskı ya da litografi, kireç taşı üzerine yağlı kalem ya da fırça kullanarak hazırlanan kompozisyonun çoklu bir şekilde basılmasına olanak sağlayan baskı sanatıdır.
 
     ***
-1. Yayın süresi çok kısa ömürlü olsa da editörlüğünü Lazar Markovich Lissitzky ile yazar İlya Ehrenburg yaptığı “nesne”  (orijinal adı Veshch-Gegenstand Objekt) adındaki, amacı Rus Sanatını Avrupa ülkelerine duyurmak ve onları haberdar etmek olan dergi kaç yılında çıkarılmıştır?
+1. Yayın süresi çok kısa ömürlü olsa da editörlüğünü Lazar Markovich Lissitzky ile yazar İlya Ehrenburg yaptığı “nesne” (orijinal adı Veshch-Gegenstand Objekt) adındaki, amacı Rus Sanatını Avrupa ülkelerine duyurmak ve onları haberdar etmek olan dergi kaç yılında çıkarılmıştır?
     - **Cevap A-) 1922**
     - B-) 1938
     - C-) 1870
@@ -2216,10 +2458,11 @@
     - **Cevap A-) Kazimir Maleviç**
     - B-) Aleksandr Rodchenko
     - C-) Varvara Stepanova
-    - D-) Theo  Van Doesburg
+    - D-) Theo Van Doesburg
     - E-) Naum Gabo
 
-    > **Açıklama:** Sorunun doğru yanıtı A seçeneğinde verilmiştir.
+    > **Açıklama:** Konstrüktivizm akımının kurucularından Rus ressam ve mimar Vladimir Tatlin, Kazimir Maleviç ile birlikte, avangard sanatın önemli iki figürden biriydi.
+    > Sorunun doğru yanıtı A seçeneğinde verilmiştir.
 
     ***
 1. Aşağıdakilerden hangisi Konstrüktivizm akımının genel özelliklerinden birisi değildir?
@@ -2229,7 +2472,8 @@
     - D-) Makine estetiği önem kazanmıştır
     - E-) Teknoloji ve deneysel düşünceden beslenmiştir
 
-    > **Açıklama:** Sorunun doğru cevabı B seçeneğinde verilmiştir
+    > **Açıklama:** Akımın genel özellikleri olarak tasarımlarda amaç önemlidir, amacı-mesajı iletmek için dolaysız anlatım yapılır. Makine estetiği önem kazanmış, akım teknoloji ve deneysel düşünceden beslenmiştir.
+    > Sorunun doğru cevabı B seçeneğinde verilmiştir
 
     ***
 1. Kireç taşı üzerine yağlı kalem ya da fırça kullanarak hazırlanan kompozisyonun çoklu bir şekilde basılmasına olanak sağlayan baskı sanatına ne ad verilir?
@@ -2239,7 +2483,8 @@
     - D-) Fotomontaj
     - E-) Tektonik
 
-    > **Açıklama:** Sorunun doğru cevabı C seçeneğinde verilmiştir.
+    > **Açıklama:** Taş baskı ya da litografi, kireç taşı üzerine yağlı kalem ya da fırça kullanarak hazırlanan kompozisyonun çoklu bir şekilde basılmasına olanak sağlayan baskı sanatıdır.
+    > Sorunun doğru cevabı C seçeneğinde verilmiştir.
 
     ***
 1. Sinema sanatını konstrüktivizm akımının anlatım aracı olarak kullanmış, sine-göz olarak da bilinen sinema kuramının kurucusu ve *Kameralı Adam* (1929) isimli filmin yönetmeni kimdir?
@@ -2249,27 +2494,30 @@
     - **Cevap D-) Dziga Vertov**
     - E-) Lev Kuleşov
 
-    > **Açıklama:** Sorunun doğru cevabı D seçeneğinde verilmiştir
+    > **Açıklama:** Rus yönetmen Dziga Vertov (1896- 1954) sinema sanatını konstrüktivizm akımının anlatım aracı olarak kullanmıştır. Sine-göz olarak da bilinen sinema kuramının kurucusudur (Kinoglaz Manifestosu). 1929 yılında Kameralı Adam filmi sinema tarihinin önemli yapıtlarından bir tanesidir.
+    > Sorunun doğru cevabı D seçeneğinde verilmiştir
 
     ***
 1. Bauhaus okulu 1919 yılında Almanya Weimar’da kim tarafından kurulmuştur?
-    - A-) Henri van de  Velde
+    - A-) Henri van de Velde
     - B-) Lyoner Feininger
     - C-) V. Kandinsky
     - D-) L. Moholy- Nagy
     - **Cevap E-) Walter Gropious**
 
-    > **Açıklama:** Sorunun doğru yanıtı E seçeneğinde verilmiştir
+    > **Açıklama:** 1919 yılında Almanya Weimar’da Walter Gropious tarafından kurulmuştur.
+    > Sorunun doğru yanıtı E seçeneğinde verilmiştir
 
     ***
 1. Bauhuas okulunda Grafik Tasarım eğitimi alan ve bu alanda eserler üreten sadece iki kadın sanatçı olmuştur. Bunlardan bir tanesi fotoğraf ve afiş tasarımı alanlarında eserler üretmiştir, Bauhaus’da bir sene eğitim almış ardından okulu bırakarak grafik tasarımcı olarak çalışmaya başlamıştır. Bu sanatçı aşağıdakilerden hangisidir?
     - A-) Gunta Stölzl
     - B-) Benita Otte
-    - C-) Marguerite  Friedlaender-Wildenhain
-    - D-) Ivana  Tomljenović
+    - C-) Marguerite Friedlaender-Wildenhain
+    - D-) Ivana Tomljenović
     - **Cevap E-) Irmgard Sörensen-Popitz**
 
-    > **Açıklama:** Sorunun doğru yanıtı E seçeneğinde verilmiştir
+    > **Açıklama:** kadın sanatçı olmuştur ve onlar Irmgard Sörensen-Popitz ve Ivana Tomljenović-Meller’dir. Irmgard Sörensen-Popitz fotoğraf ve afiş tasarımı alanlarında eserler üretmiştir. Irmgard Sörensen-Popitz ise Bauhaus’da bir sene eğitim almış ardından okulu bırakarak grafik tasarımcı olarak çalışmaya başlamıştır.
+    > Sorunun doğru yanıtı E seçeneğinde verilmiştir
 
     ***
 1. Bauhaus’ta fotoğraf ve tipografi eğitimi kim tarafından başlatılmıştır?
@@ -2279,7 +2527,8 @@
     - **Cevap D-) Laszlo Moholy-Nagy**
     - E-) Anni Albers
 
-    > **Açıklama:** Sorunun doğru cevabı D seçeneğinde verilmiştir
+    > **Açıklama:** Bauhaus’ta fotoğraf ve tipografi eğitimi Laszlo Moholy-Nagy tarafından başlatılmıştır.
+    > Sorunun doğru cevabı D seçeneğinde verilmiştir
 
     ***
 1. Bauhaus Okulu ne zaman kapanmıştır?
@@ -2289,7 +2538,8 @@
     - D-) 1931
     - E-) 1934
 
-    > **Açıklama:** Sorunun doğru cevabı C seçeneğinde verilmiştir.
+    > **Açıklama:** 1930 yılında Mies’in önderliğinde eğitime devam eden okul dönemin Irkçı bir partisi tarafından yapılan baskılar sonucu 1932 yılında Berlin’e taşınmak zorunda kalmıştır. Taşınma sonrasında devam eden baskılara dayanamayan Bauhaus Okulu 1933 yılında kapatılmıştır.
+    > Sorunun doğru cevabı C seçeneğinde verilmiştir.
 
     ***
 1. Geometrik formlar üzeri-ne yoğunlaşarak eserler üretilmiş bir sanat akımına ne ad verilir?
@@ -2299,7 +2549,8 @@
     - D-) Expresyonizm
     - E-) Sürrealizm
 
-    > **Açıklama:** Sorunun doğru yanıtı B seçeneğinde verilmiştir.
+    > **Açıklama:** Süprematizm; geometrik formlar üzeri-ne yoğunlaşarak eserler üretilmiş bir sanat akımıdır.
+    > Sorunun doğru yanıtı B seçeneğinde verilmiştir.
 
     ***
 1. Vkhutemas’ın eğitiminde etkili olan iki ana sanat akımından biri konstrüktivizm’dir. Diğer akım aşağıdakilerden hangisidir?
@@ -2309,7 +2560,8 @@
     - D-) Realizm
     - E-) Fovizm
 
-    > **Açıklama:** Sorunun doğru yanıtı A seçeneğinde verilmiştir
+    > **Açıklama:** Vkhutemas’ın eğitiminde etkili olan akımlar konstrüktivizm ve süprematizm olmuştur.
+    > Sorunun doğru yanıtı A seçeneğinde verilmiştir
 
     ***
 1. İnşacılık-yapısalcılık olarak da adlandırılan ve Rusya'da ortaya çıkan sanatsal ve mimari felsefeye ne ad verilir?
@@ -2352,14 +2604,14 @@
     > **Açıklama:** Tektonik: Parçalanıp dağılmış yer katmanlarının birbirleri ile olan ilgilerini araştıran yer bilimi kolu (TDK), Konstrüktivizm akımındaki anlamı “Tektonik sözcüğü, dünyanın merkezinden püskürme anlamına gelen jeolojik bir terimden alıntıdır, içsel, organik bir varlığın patlaması anlamındadır.
 
     ***
-1. Bauhaus Okulu ile ilgili aşağıdakilerden hangisi **söylenemez**?
+1. Bauhaus Okulu ile ilgili aşağıdakilerden hangisi **söylenemez**?
     - A-) 1919 yılında Almanya Weimar’da kurulmuştur.
     - B-) Walter Gropious tarafından kurulmuştur.
     - C-) Sanat ve zanaat ile endüstriyi harmanlamayı hedef almıştır.
-    - D-) Dayandığı kuramlar “Fonksiyonalizm” sloganı içinde özetlenir.
+    - D-) Dayandığı kuramlar “Fonksiyonalizm” sloganı içinde özetlenir.
     - **Cevap E-) Süsleme gibi fikrin anlatımına katkı sağlamayan görsel elemanlar tasarıma dâhil edilir.**
 
-    > **Açıklama:** 1919 yılında Almanya Weimar’da Walter Gropious tarafından kurulmuştur. 1907’de kurulan Der Deutsche Werkbund, sanat ve zanaat ile endüstriyi harmanlamayı hedef almıştır. “Bauhaus’un dayandığı kuramlar “Fonksiyonalizm” (İşlevselcilik- çev) sloganı içinde özetlenir. Tasarımlarda renk, çizgi ve şekil önemlidir. Fikrin iletilmesi için gerekli olan elemanlar tasarıma dâhil edilirken süsleme gibi fikrin anlatımına katkı sağlamayan görsel elemanlar tasarıma dâhil edilmez.
+    > **Açıklama:** 1919 yılında Almanya Weimar’da Walter Gropious tarafından kurulmuştur. 1907’de kurulan Der Deutsche Werkbund, sanat ve zanaat ile endüstriyi harmanlamayı hedef almıştır. “Bauhaus’un dayandığı kuramlar “Fonksiyonalizm” (İşlevselcilik- çev) sloganı içinde özetlenir. Tasarımlarda renk, çizgi ve şekil önemlidir. Fikrin iletilmesi için gerekli olan elemanlar tasarıma dâhil edilirken süsleme gibi fikrin anlatımına katkı sağlamayan görsel elemanlar tasarıma dâhil edilmez.
 
     ***
 1. Bauhaus okulunun ilk kurulduğu şehir hangisidir?
@@ -2372,7 +2624,7 @@
     > **Açıklama:** Weimar şehri Bauhaus okulunun ilk kurulduğu yerdir.
 
     ***
-1. Aşağıdakilerden hangisi Paul Renner’in 1925 yılında çizdiği “Futura” karakterinin özelliklerinden biri **değildir**?
+1. Aşağıdakilerden hangisi Paul Renner’in 1925 yılında çizdiği “Futura” karakterinin özelliklerinden biri **değildir**?
     - A-) Tırnaksız bir yazı tipidir.
     - **Cevap B-) Serifli bir yazı karakteridir.**
     - C-) Geometrik formalara dayalıdır.
@@ -2452,7 +2704,7 @@
     > **Açıklama:** 1907’de kurulan Der Deutsche Werkbund, sanat ve zanaat ile endüstriyi harmanlamayı hedef almıştır. Seri üretim ve ucuz üretim ürünlerinin işlev ve estetik açıdan yükseltmeyi hedefleyen bir düşünceye sahiptir. Bu bağlamda bakıldığında Bauhaus Okulu bu hareketin devamı olduğu düşünülebilir.
 
     ***
-1. **Bauhaus’un  “Gesamtkunstwerk” kavramı** **aşağıdaki ifadelerden hangisidir?**
+1. **Bauhaus’un “Gesamtkunstwerk” kavramı** **aşağıdaki ifadelerden hangisidir?**
     - A-) Sanat ve zanaat arasındaki sınırların ortadan kalkması.
     - **Cevap B-) Birçok sanat disiplinin mimarlık ile harmanlanması.**
     - C-) Biçim işlevi izler anlayışı.
@@ -2502,7 +2754,7 @@
     > **Açıklama:** Vkhutemas’ın eğitiminde etkili olan akımlar konstrüktivizm ve süprematizm olmuştur. Bu iki akımın yanı sıra okulun eğitmenleri pek çok farklı akımdan beslenmekteydi ve çok yönlü eserler üretmekteydi.
 
     ***
-1. **Aşağıdaki ifadelerden hangisi** **Vkhutemas eğitiminin odaklandığı dört temel alandan biri** **değildir?**
+1. **Aşağıdaki ifadelerden hangisi** **Vkhutemas eğitiminin odaklandığı dört temel alandan biri**  **değildir?**
     - **Cevap A-) Zaman.**
     - B-) Renk.
     - C-) Hacim.
@@ -2519,7 +2771,10 @@
     - D-) Dada
     - E-) Kübizm
 
-    > **Açıklama:** Konstrüktivizm
+    > **Açıklama:** Konstrüktivizm (inşacılık-yapısalcılık) 1915
+    > yılında Rusya’da ortaya çıkan sanatsal ve mimari
+    > felsefedir. Kurucuları Vladimir Tatlin (1885-1953)
+    > ve Alexander Rodchenko’dur (1891-1956)
 
     ***
 1. "Fransızca ordu terimi olarak kullanılmıştır. Ordulardaki öncü birlikleri tarif etmek için kullanılan “.....................” kelimesi sonrasında ilerici ve deneysel sanatı tanımlayan bir terim olarak kullanılmaya başlanmıştır." Cümlesindeki boşluğa aşağıdakilerden hangisi gelmelidir.
@@ -2529,7 +2784,12 @@
     - D-) Modern
     - E-) Gerçekçilik
 
-    > **Açıklama:** Avant-garde
+    > **Açıklama:** Avangard: Fransızca ordu terimi olarak
+    > kullanılmıştır. Ordulardaki öncü birlikleri
+    > tarif etmek için kullanılan “Avant-garde”
+    > kelimesi sonrasında ilerici ve deneysel sanatı
+    > tanımlayan bir terim olarak kullanılmaya
+    > başlanmıştır.
 
     ***
 1. Dadaist sanatçılar tarafından ilk defa kullanılan ve farklı fotoğraflardaki farklı görsellerin yeni bir düzen ve anlam oluşturacak şekilde bir arada kullanılarak oluşturulan görsellere ne ad verilir.
@@ -2539,7 +2799,11 @@
     - D-) Stancil
     - E-) Modle
 
-    > **Açıklama:** Fotomontaj
+    > **Açıklama:** Fotomontaj: Farklı fotoğraflardaki farkı
+    > görsellerin yeni bir düzen ve anlam oluşturacak
+    > şekilde bir arada kullanılmasıdır.
+    > 1915 yılında Dadaistler tarafından ilk
+    > defa kullanılmıştır.
 
     ***
 1. 1919 yılında Almanya Weimar’da Walter Gropious tarafından kurulan okulun adı nedir?
@@ -2549,7 +2813,9 @@
     - **Cevap D-) Bauhaus**
     - E-) The Glasgow School of Art
 
-    > **Açıklama:** Bauhaus
+    > **Açıklama:** 1919 yılında Almanya Weimar’da Walter Gropious tarafından kurulmuştur. Bauhaus Ekolünün Werkbund
+    > hareketi ile benzerlikler taşıdığı düşünülebilir. Werkbund Hareketi, Almanya’nın endüstrileşme sürecinde
+    > ortaya çıkmış bir harekettir.
 
     ***
 1. Bauhaus Okulu’nun temel ilkelerinden ilki nedir?
@@ -2559,7 +2825,9 @@
     - D-) Sadece zanaatçi yetiştirmektir
     - **Cevap E-) Sanat ve zanaat arasında sınır olmaması gerektiğidir.**
 
-    > **Açıklama:** Sanat ve zanaat arasında sınır olmaması gerektiğidir.
+    > **Açıklama:** Bauhaus Okulu’nun ilkelerinden ilki sanat ve
+    > zanaat arasında sınır olmaması gerektiğidir
+    > Sanat ve zanaat arasında sınır olmaması gerektiğidir.
 
     ***
 1. "Bauhaus tasarımı ......................düşünceden beslenir, tasarımlarda çoğunlukla geometrik biçimler kullanılır." Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -2569,7 +2837,9 @@
     - D-) dışavurumcu
     - E-) varoluşçu
 
-    > **Açıklama:** minimalist
+    > **Açıklama:** Bauhaus tasarımı minimalist
+    > düşünce ile beslenir, tasarımlarda çoğunlukla geometrik
+    > biçimler kullanılır.
 
     ***
 1. Rus Avangard dönemin önemli mimarlık ve sanat okulu olan “Vkhutemas” Devlet Yüksek Sanat ve Teknik<br />Atölyeleri eğitiminde etkili olan akımlar aşağıdakilerden hangisidir
@@ -2579,7 +2849,11 @@
     - D-) Romantizm ve Klasisizm olmuştur.
     - E-) Barok ve Yeni Gerçekçilik olmuştur.
 
-    > **Açıklama:** Konstrüktivizm ve Süprematizm olmuştur.
+    > **Açıklama:** Vkhutemas’ın eğitiminde etkili olan akımlar
+    > konstrüktivizm ve süprematizm olmuştur. Bu iki
+    > akımın yanı sıra okulun eğitmenleri pek çok farklı
+    > akımdan beslenmekteydi ve çok yönlü eserler
+    > üretmekteydi.
 
     ***
 1. Geometrik formlar üzerine yoğunlaşarak eserler üretilmiş sanat akımının adı nedir?
@@ -2589,7 +2863,9 @@
     - D-) Empresyonizm
     - E-) Romantizm
 
-    > **Açıklama:** Süprematizm
+    > **Açıklama:** Süprematizm: Geometrik formlar üzerine
+    > yoğunlaşarak eserler üretilmiş bir sanat
+    > akımıdır.
 
     ***
 1. Bauhaus’ta fotoğraf ve tipografi eğitimi hangi sanatçı tarafından başlatılmıştır?
@@ -2599,7 +2875,8 @@
     - **Cevap D-) Laszlo Moholy-Nagy**
     - E-) Henry van de Velde
 
-    > **Açıklama:** Laszlo Moholy-Nagy
+    > **Açıklama:** Bauhaus’ta fotoğraf ve tipografi eğitimi Laszlo
+    > Moholy-Nagy tarafından başlatılmıştır.
 
     ***
 1. Bauhaus okulunun ilk kurulduğu yer Almanya'nın hangi şehridir.
@@ -2609,7 +2886,8 @@
     - D-) Köln
     - **Cevap E-) Weimar**
 
-    > **Açıklama:** Weimar
+    > **Açıklama:** Weimar şehri Bauhaus okulunun ilk kurulduğu yerdir. Okul binasının mimarı Henry van de Velde’dir.
+    > 1919-24 tarihleri arasında eğitim Weimar’da verilmiştir.
 
     ***
 1. Kitle toplumu kavramı ne zaman gündeme gelmiştir?
@@ -2619,9 +2897,10 @@
     - **Cevap D-) Sanayi Devriminden sonra**
     - E-) Teknolojik Devrimle
 
-    > **Açıklama:** İletişim çağlar boyunca insanların yaşamlarını
+    > **Açıklama:** GİRİŞ
+    > İletişim çağlar boyunca insanların yaşamlarını
     > devam ettirmek, yeme- içme- barınma ihtiyaçlarını
-    > karşılamakla kalmayıp pek çok kişisel gereksinimlerini karşılayabilmek için en önemli faktörlerden biri olmuştur. İletişim sadece sözlü değil görsel olarak da büyük gelişmelere uğramıştır. Teknolojinin gelişimi ile iletimin biçimleri de gelişmiştir. **Sanayi****Devrimi sonrası** ekonomik, siyasal ve toplumsal değişimler yaşanmıştır. Buharlı makinelerin icadı, fabrikaların kurulması burjuva sınıfının yanı sıra
+    > karşılamakla kalmayıp pek çok kişisel gereksinimlerini karşılayabilmek için en önemli faktörlerden biri olmuştur. İletişim sadece sözlü değil görsel olarak da büyük gelişmelere uğramıştır. Teknolojinin gelişimi ile iletimin biçimleri de gelişmiştir. **Sanayi** **Devrimi sonrası** ekonomik, siyasal ve toplumsal değişimler yaşanmıştır. Buharlı makinelerin icadı, fabrikaların kurulması burjuva sınıfının yanı sıra
     > bir işçi sınıfının doğuşuna neden olmuştur. Makine ile tarım yapılması, iş imkânlarının artması gibi gelişmeler de eklenince nüfus artışı meydana gelmiş, şehirler kalabalıklaşmaya başlamıştır. Nüfus artışı, şehirlerdeki karmaşanın azaltılabilmesi gerekliliğini doğurmuştur. **Kitle toplumu kavramı bu dönemde anılmaya başlanmıştır**.
 
     ***
@@ -2632,17 +2911,19 @@
     - **Cevap D-) 1915 - Rusya'da**
     - E-) 1919 - Fransa'da
 
-    > **Açıklama:** **Konstrüktivizm** (inşacılık-yapısalcılık) **1915** yılında **Rusya’da** ortaya çıkan sanatsal ve mimari felsefedir. Kurucuları Vladimir Tatlin (1885-1953) ve Alexander Rodchenko’dur (1891-1956). Bir fikri iletmek amacıyla nesnelerin, çizgilerin ve harflerin kullanımıyla piktografları andıran grafik tasarım ürünleri üretilmiştir. Türkçede “yapımcılık” olarak da bilinmektedir.
+    > **Açıklama:** KONSTRÜKTİVİZM AKIMI VE ÖZELLİKLERİ
+    > **Konstrüktivizm** (inşacılık-yapısalcılık) **1915** yılında **Rusya’da** ortaya çıkan sanatsal ve mimari felsefedir. Kurucuları Vladimir Tatlin (1885-1953) ve Alexander Rodchenko’dur (1891-1956). Bir fikri iletmek amacıyla nesnelerin, çizgilerin ve harflerin kullanımıyla piktografları andıran grafik tasarım ürünleri üretilmiştir. Türkçede “yapımcılık” olarak da bilinmektedir.
 
     ***
-1. Aşağıdakilerden hangisi Konstrüktivizmin genel özelliklerinden biridir?
+1. Aşağıdakilerden hangisi Konstrüktivizmin genel özelliklerinden biridir?
     - A-) İzlenimcilik
     - B-) Doğayı taklit
     - **Cevap C-) Okunaklı tipografi**
     - D-) Gerçeküstücü bir bakış
     - E-) Doğal malzemeler
 
-    > **Açıklama:** Konstrüktivizm: 1915 yılında Rusya’da ortaya çıkan bir sanat akımıdır. Sadece
+    > **Açıklama:** KONSTRÜKTİVİZM AKIMI VE ÖZELLİKLERİ
+    > Konstrüktivizm: 1915 yılında Rusya’da ortaya çıkan bir sanat akımıdır. Sadece
     > sanat alanında değil, mimarlık ve grafik tasarım alanında da etkili olmuştur. Endüstriyel malzemeleri kullanılarak eserler üretilmiştir. Geometrik formlar, okunaklı tipografi, işlevsellik önemli özelliklerinden olmuştur.
 
     ***
@@ -2653,7 +2934,8 @@
     - D-) Heykelde endüstriyel malzeme kullanımı
     - E-) İletişim teknolojilerinin yaygınlaşması
 
-    > **Açıklama:** Konstrüktivizm akımının kurucularından bir diğeri Rus ressam ve grafik
+    > **Açıklama:** KONSTRÜKTİVİZM AKIMI VE ÖZELLİKLERİ
+    > Konstrüktivizm akımının kurucularından bir diğeri Rus ressam ve grafik
     > tasarımcı Alexander Rodchenko (Aleksandr Mihayloviç Rodçenko) fotoğraf
     > ve fotomontaj tekniklerini kullanarak tasarımlar yapmıştır, kendisi aynı zamanda ressamdı. “**Rusya’daki fotomontaj çalışmalarının, filmlerde uygulanmaya başlanan montaj çalışmalarıyla aynı zamanda başlaması, bu çalışmalarda film sanatının bazı anlatım biçimlerinden yararlanılmasına neden olmuştur.**” (Bektaş, 64).
 
@@ -2665,7 +2947,8 @@
     - D-) Big Ben
     - E-) Guinigi Kulesi
 
-    > **Açıklama:** Konstrüktivizm akımının kurucularından Rus ressam ve mimar Vladimir Tatlin, Kazimir Maleviç ile birlikte, avangard sanatın önemli iki figürden biriydi. Moskova Resim Heykel ve Mimarlık Okulunda eğitim gören Tatlin Üçüncü Enternasyonal Anıtı’nı tasarlamıştır. Ali Artun bu anıtı bir makine olarak tanımlamıştır (2019, 90). Tatlin’in en bilindik eserlerinden biridir. Tatlin’nin Kulesi olarak da anılan eser Neva Nehri üzerine yapılması planlanmıştır. Eiffel (Eyfel) kulesinden uzun olması planlanan tasarım gerçeğe dönüştürülmemiştir. “**Kapitalizmin simgesi sayılan, reklam ve eğlence****amacıyla dikilen Eyfel Kulesi’ne karşılık, III. Enternasyonal Anıtı Sosyalizmin simgesi haline gelecekti** (Yılmaz, 89). Katların durağan değil hareketli, döner bir yapıda olması planlanmıştı. Malzeme olarak çelik ve camın kullanılması planlanmıştı. Plan dâhilinde “son derece gelişmiş bir radyo, telefon ve telgraf istasyonu” bulunmaktaydı. Bir vidadan yola çıkarak tasarladığı kule çağın bir simgesi olarak düşünülmüştür (90-91).
+    > **Açıklama:** KONSTRÜKTİVİZM AKIMI VE ÖZELLİKLERİ
+    > Konstrüktivizm akımının kurucularından Rus ressam ve mimar Vladimir Tatlin, Kazimir Maleviç ile birlikte, avangard sanatın önemli iki figürden biriydi. Moskova Resim Heykel ve Mimarlık Okulunda eğitim gören Tatlin Üçüncü Enternasyonal Anıtı’nı tasarlamıştır. Ali Artun bu anıtı bir makine olarak tanımlamıştır (2019, 90). Tatlin’in en bilindik eserlerinden biridir. Tatlin’nin Kulesi olarak da anılan eser Neva Nehri üzerine yapılması planlanmıştır. Eiffel (Eyfel) kulesinden uzun olması planlanan tasarım gerçeğe dönüştürülmemiştir. “**Kapitalizmin simgesi sayılan, reklam ve eğlence** **amacıyla dikilen Eyfel Kulesi’ne karşılık, III. Enternasyonal Anıtı Sosyalizmin simgesi haline gelecekti** (Yılmaz, 89). Katların durağan değil hareketli, döner bir yapıda olması planlanmıştı. Malzeme olarak çelik ve camın kullanılması planlanmıştı. Plan dâhilinde “son derece gelişmiş bir radyo, telefon ve telgraf istasyonu” bulunmaktaydı. Bir vidadan yola çıkarak tasarladığı kule çağın bir simgesi olarak düşünülmüştür (90-91).
 
     ***
 1. *"Bauhaus tasarımı ...... düşünce ile beslenir, tasarımlarda çoğunlukla ...... biçimler kullanılır."* cümlesindeki boşlukları aşağıdakilerden hangileri doğru biçimde tamamlamaktadır?
@@ -2675,7 +2958,31 @@
     - D-) kapitalist - dairesel
     - E-) minimalist - pastoral
 
-    > **Açıklama:** Bauhaus “Gesamtkunstwerk” kavramını kullanır yani bütüncül sanat olarak tanımlanabilecek olan bu kavram birçok sanat disiplinin mimarlık ile harmanlanması şeklinde düşünülebilir. **Bauhaus tasarımı *minimalist* düşünce ile beslenir, tasarımlarda çoğunlukla *geometrik* biçimler kullanılır.** Tasarımlarda renk, çizgi ve şekil önemlidir. Fikrin iletilmesi için gerekli olan elemanlar tasarıma dâhil edilirken süsleme gibi fikrin anlatımına katkı sağlamayan görsel elemanlar tasarıma dâhil edilmez.
+    > **Açıklama:** BAUHAUS OKULU VE ÖZELLİKLERİ
+    > Bauhaus “Gesamtkunstwerk” kavramını kullanır yani bütüncül sanat olarak tanımlanabilecek olan bu kavram birçok sanat disiplinin mimarlık ile harmanlanması şeklinde düşünülebilir. **Bauhaus tasarımı *minimalist* düşünce ile beslenir, tasarımlarda çoğunlukla *geometrik* biçimler kullanılır.** Tasarımlarda renk, çizgi ve şekil önemlidir. Fikrin iletilmesi için gerekli olan elemanlar tasarıma dâhil edilirken süsleme gibi fikrin anlatımına katkı sağlamayan görsel elemanlar tasarıma dâhil edilmez.
+
+    ***
+1. Aşağıdakilerden hangisi Bauhaus’un önemli özelliklerinden biri ***değildir?***
+    - A-) Sanatla endüstriyi birleştirmeyi amaçlar
+    - B-) Estetikten öte işlevsellik ön plana alınır
+    - C-) Bauhaus eğitimde cinsel eşitlikçi bir felsefeye sahiptir
+    - D-) Bauhaus anlayışında biçim işlevi takip eder
+    - **Cevap E-) Bauhaus sadece mimarlık ve tasarıma odaklanır**
+
+    > **Açıklama:** BAUHAUS OKULU VE ÖZELLİKLERİ
+    > Bauhaus sadece mimarlık ya da tasarım alanında değil, aynı zamanda resim ve heykel sanatında da önemli eserlerin üretim yeri olmuştur. “Mimar
+    > Walter Gropius, ressamlardan Lyoner Feininger, Klee, Kandinsky, Moholy- Nagy, 1920-1930 arası… “Bauhaus”’larda coşkulu bir ressam, dekorcu, heykelci nesil yetiştirdi” (Ragon, 28).
+
+    ***
+1. Bauhaus okulunun ilk kurulduğu yer aşağıdakilerden hangisidir?
+    - **Cevap A-) Weimar**
+    - B-) Westfalen
+    - C-) Württemberg
+    - D-) Köln
+    - E-) Hannover
+
+    > **Açıklama:** Weimar Dönemi
+    > Weimar şehri Bauhaus okulunun ilk kurulduğu yerdir. Okul binasının mimarı Henry van de Velde’dir. 1919-24 tarihleri arasında eğitim Weimar’da verilmiştir.
 
     ***
 1. *"Bauhaus’un Weimar döneminin önemli eğitmenlerinden Johannes İtten ...... bir ressamdı."* cümlesini aşağıdakilerden hangisi doğru biçimde tamamlamaktadır?
@@ -2690,14 +2997,15 @@
     > tasarım ve biçim üzerine yazdığı bir kitabı da bulunmaktadır.
 
     ***
-1. Aşağıdakilerden hangisi Laszlo Moholy-Nagy’nın fotografik görüşlerinden biri ***değildir?***
+1. Aşağıdakilerden hangisi Laszlo Moholy-Nagy’nın fotografik görüşlerinden biri ***değildir?***
     - A-) Tam Görme
     - **Cevap B-) Somut Görme**
     - C-) Yavaş Görme
     - D-) Delici Görme
     - E-) Bozulmuş Görme
 
-    > **Açıklama:** Barbaros Gürsel Bauhaus’un Fotoğraf Sanatına Etkisi isimli yazısında Laszlo Moholy-Nagy’nın fotografik görüşlerini şu şekilde sıralamıştır: 1- **Soyut**
+    > **Açıklama:** Weimar Dönemi
+    > Barbaros Gürsel Bauhaus’un Fotoğraf Sanatına Etkisi isimli yazısında Laszlo Moholy-Nagy’nın fotografik görüşlerini şu şekilde sıralamıştır: 1- **Soyut**
     > **Görme**, 2- Tam Görme, 3- Çabuk Görme, 4- Yavaş Görme, 5- Artırılmış Görme (makro fotoğrafçılık ya da kızılötesi fotoğraflar), 6- Delici görme (röntgen filmi gibi), 7- Farklı Şeyleri Aynı Anda Görme ve 8- Bozulmuş Görme (Artun, 446).
 
     ***
@@ -2732,7 +3040,7 @@
     > **Açıklama:** Hiyerarşik ızgaralar çoğunlukla web tasarımında kullanılır. Hiyerarşik bir ızgara tasarımının amacı, ögeleri önem sırasına göre düzenlemektir. Hiyerarşik bir ızgara, serbest stilde veya kılavuz olarak modüler bir ızgarayla kurulabilir.
 
     ***
-1. **Aşağıdaki ifadelerden hangisi  İsviçre Tasarım ilkelerini uluslararası olarak yayan, Uluslararası Stil’in öncülerinden ve ustalarındandır?**
+1. **Aşağıdaki ifadelerden hangisi İsviçre Tasarım ilkelerini uluslararası olarak yayan, Uluslararası Stil’in öncülerinden ve ustalarındandır?**
     - A-) Saul Bass.
     - B-) Paul Rand.
     - C-) Milton Glaser.
@@ -2772,7 +3080,7 @@
     > **Açıklama:** Sans-serif, görsel olarak genellikle sadeliği ve modernliği veya minimalist bir yaklaşımı ve hissiyatını iletmek için kullanılır. Sans terimi, Fransızca’da “yok” anlamına gelir, Bu durumda Sans-Serif, Serifsiz/ Serif’i olmayan anlamına gelmektedir.
 
     ***
-1. **Aşağıdaki ifadelerden hangisi  New York Okulunda yer alan tasarımcılardan biridir?**
+1. **Aşağıdaki ifadelerden hangisi New York Okulunda yer alan tasarımcılardan biridir?**
     - A-) Josef Müller-Brockmann.
     - B-) Eduard Hoffmann.
     - **Cevap C-) Paul Rand.**
@@ -2860,7 +3168,7 @@
     > **Açıklama:** Uluslararası Tipografik Stil’in görsel özellikleri, matematiksel olarak çizilmiş bir kanava (grid) üzerinde, asimetrik olarak düzenlenen tasarım elemanlarıyla elde edilen görsel bir bütünlük; serifsiz harf karakterlerinin kullanılması, yazıların sağdan serbest, soldan blok olarak yerleştirilmesi; metin ve fotoğrafların, ticari reklamlarda kullanılan alışılagelmiş aşırı propaganda ve abartmanın yerine, tarafsız ve net bir mesaj iletmesi şeklinde özetlenebilir.
 
     ***
-1. "**...**   **...**, negatif alan ve boşluk kullanımı, ızgaralar, sans-serif yazı tipleri ve güçlü geometrik şekilleri gibi belirli özelliklerie yapılandırılmıştır" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
+1. "**...**  **...**, negatif alan ve boşluk kullanımı, ızgaralar, sans-serif yazı tipleri ve güçlü geometrik şekilleri gibi belirli özelliklerie yapılandırılmıştır" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - **Cevap A-) Uluslararası Stil**
     - B-) Soyut yapı
     - C-) Klasik modernizm
@@ -2888,7 +3196,7 @@
     - E-) Tipografi, okunabilirlik
 
     > **Açıklama:** Uluslararası Tipografik Stil’inde uygulanan tasarım prensipleri kısaca aşağıdaki gibi sıralanabilir:
-    > • Sadelik, minimalizm, • Düzen, netlik, ızgaralar, • Geometrik, soyutlama, • Tipografi, okunabilirlik, • Rasyonel, objektif, • Evrensel, bütünlük
+    > • Sadelik, minimalizm, • Düzen, netlik, ızgaralar, • Geometrik, soyutlama, • Tipografi, okunabilirlik, • Rasyonel, objektif, • Evrensel, bütünlük
 
     ***
 1. Tasarım sürecini kolaylaştıran ve önemli miktarda zaman kazandırabilen matematiksel olarak oluşturulmuş ve hâlen günümüzde modern grafik tasarımcılar tarafından yoğun bir şekilde kullanılan sisten aşağıdakilerden hangisidir?
@@ -2971,14 +3279,14 @@
     > **Açıklama:** "“Muhtemelen tüm tarihin en başarılı yazı tipi” olarak bilinen **Helvetica**, tasarımcı Max Miedinger ve patronu Eduard Hoffmann tarafından tasarlanmıştır. İlk olarak ismi “Neue Haas Grotesk” olarak ortaya çıkmıştır" (s.151). Buna göre cevap b seçeneğidir.
 
     ***
-1. Berlin’de 1896 yılında tasarlanan ve H. Berthold AG dökümhanesi tarafından piyasaya sürülen yazı tipi aşağıdakilerden hangisidir?
+1. Berlin’de 1896 yılında tasarlanan ve H. Berthold AG dökümhanesi tarafından piyasaya sürülen yazı tipi aşağıdakilerden hangisidir?
     - A-) Gotik-Sans
     - B-) Frutiger
     - C-) Univers
     - **Cevap D-) Akzidenz Grotesk**
     - E-) Helvetica
 
-    > **Açıklama:** "**Akzidenz Grotesk** Berlin’de 1896 yılında tasarlanmış bir yazı karakteridir ve Helvetica’nın tasarlanmasında büyük bir katkısı olmuştur"(s.151).  "Helvetica’nın realist, doğrusal, basit ve zarif, son derece okunaklı olmasının dışındaki bir diğer amacı, rakipleri H. Berthold AG dökümhanesi tarafından piyasaya sürülen yazı tipi **Akzidenz Grotesk’**in başarısına bir nevi karşı koymak olmuştur" (s.151).Buna göre cevap d seçeneğidir.
+    > **Açıklama:** "**Akzidenz Grotesk** Berlin’de 1896 yılında tasarlanmış bir yazı karakteridir ve Helvetica’nın tasarlanmasında büyük bir katkısı olmuştur"(s.151). "Helvetica’nın realist, doğrusal, basit ve zarif, son derece okunaklı olmasının dışındaki bir diğer amacı, rakipleri H. Berthold AG dökümhanesi tarafından piyasaya sürülen yazı tipi **Akzidenz Grotesk’**in başarısına bir nevi karşı koymak olmuştur" (s.151).Buna göre cevap d seçeneğidir.
 
     ***
 1. Aşağıdakilerden hangisi New York Okulunda yer alan tasarımcılardan biri **değildir**?
@@ -3031,7 +3339,7 @@
     - B-) Kenneth Hiebert
     - C-) Hans Neuburg
     - D-) Carlo L. Vivarelli
-    - E-) Karl   Gestner
+    - E-) Karl Gestner
 
     > **Açıklama:** İsviçre tasarımın felsefesi aslında biri Zürih’te, diğeri Basel’de olmak üzere iki büyük okul aracılığıyla yayılmıştır. Joseph Müller-Brockman, bu felsefenin ilk yaklaşımını, Armin Hofmann ise son yaklaşımını simgelemiştir. Doğru cevap A seçeneğidir.
 
@@ -3063,10 +3371,10 @@
     - **Cevap D-) Milton Glaser**
     - E-) Joseph Müller Brockmann
 
-    > **Açıklama:** Milton Glaser; Amerikan graphic tasarımcıdır ve New York Okulunda yer alan tasarımcılardan biridir. Doğru cevap D seçeneğidir.
+    > **Açıklama:** Milton Glaser; Amerikan graphic tasarımcıdır ve New York Okulunda yer alan tasarımcılardan biridir. Doğru cevap D seçeneğidir.
 
     ***
-1. Neo-grotesk sans-serif yazı tiplerinden biri olan 1957’de  piyasaya sürülen font aşağıdakilerden hangisidir?
+1. Neo-grotesk sans-serif yazı tiplerinden biri olan 1957’de piyasaya sürülen font aşağıdakilerden hangisidir?
     - **Cevap A-) Univers**
     - B-) Times New Roman
     - C-) Verdana
@@ -3124,7 +3432,8 @@
     - D-) Dadaist
     - E-) Ekspresyonist
 
-    > **Açıklama:** Postmodernist
+    > **Açıklama:** Türk tasarımında yeni yönelimler
+    > Postmodernist
 
     ***
 1. Aşağıdakilerden hangisi Op Art’ın özelliklerinden **değildir?**
@@ -3134,7 +3443,18 @@
     - D-) Op Sanatçıları, saf geometrik biçimleri figüre dayanmayan bir şekilde, cetvelin kesinliğinde sınırlandırılmış olarak düzenlemişlerdir.
     - **Cevap E-) Hesaplamalar ve ölçeklendirmelere dayanmayan bir sanat akımıdır.**
 
-    > **Açıklama:** Hesaplamalar ve ölçeklendirmelere dayanmayan bir sanat akımıdır.
+    > **Açıklama:** Hesaplamalara ve ölçeklendirmelere dayalı bir sanat olan Op Sanatı, renk çemberleri, valörlere dayanan renk dizileri ile araştırılıp bulunarak yapılmış intibası verirler.
+    > Hesaplamalar ve ölçeklendirmelere dayanmayan bir sanat akımıdır.
+
+    ***
+1. Londra’da 1959 yılında açılan “İşte Yarın” adlı sergisindeki Richard Hamilton'ın “Just what it makes today’s home so different, so appealing?” (Bugünün evlerini bu kadar farklı ve çekici kılan nedir?) başlıklı kolajı ile **hangi akım başlatılmıştır?**
+    - A-) Dadaizm
+    - B-) Empresyonizm
+    - C-) Ekspresyonizm
+    - D-) Op Art
+    - **Cevap E-) Pop Art**
+
+    > **Açıklama:** Pop Art (Pop Sanat) Akım bölümünü okuyunuz.
 
     ***
 1. Tüketildiğinde estetik bir etki yaratan ama herhangi bir sanat akımı kapsamında değerlendirilemeyen sanat ürünlerini kapsayan bir terim aşağıdakilerden hangisidir?
@@ -3144,7 +3464,8 @@
     - D-) Kaleidoscopic
     - E-) Subliminal
 
-    > **Açıklama:** Kitsch
+    > **Açıklama:** Pop Art (Pop Sanat) Akım
+    > Kitsch
 
     ***
 1. Aşağıdakilerden hangisi Pop Art akımının özelliklerinden biridir?
@@ -3154,7 +3475,8 @@
     - D-) Bu akımda üretilen eserlerde deneysel çalışmalar ön plandadır.
     - E-) Sanatçıların manifestolarında “Yeni Dalga”, “Pluralizm” gibi yaklaşımlar sıkça kullanılmıştır.
 
-    > **Açıklama:** Bu akımın en önemli özelliği popüler olan nesnenin yoğun tüketilmesine dayanan bir sanat akımı olmasıdır.
+    > **Açıklama:** Pop Art (Pop Sanat) Akım
+    > Bu akımın en önemli özelliği popüler olan nesnenin yoğun tüketilmesine dayanan bir sanat akımı olmasıdır.
 
     ***
 1. Postmodernizm tanımlamasını 1979 yılında yazdığı “Postmodern Durum” adlı kitabıyla yapan yazar aşağıdakilerden hangisidir?
@@ -3164,7 +3486,8 @@
     - D-) Charles Sanders
     - E-) Mary Wollstone
 
-    > **Açıklama:** Jean Francis Lyotard
+    > **Açıklama:** Postmodernizm
+    > Jean Francis Lyotard
 
     ***
 1. Aşağıdakilerden hangisi *psychedelic* sanatın özelliklerinden **değildir?**
@@ -3174,7 +3497,8 @@
     - D-) Psychedelic Sanat, bilgisayar ve matematik yerine zihnin sınırlarının peşinde düşen bir sanat akımıdır.
     - **Cevap E-) Andre Breton tarafından Fransa’da 1924 yılında ortaya çıkmıştır.**
 
-    > **Açıklama:** Andre Breton tarafından Fransa’da 1924 yılında ortaya çıkmıştır.
+    > **Açıklama:** Psychedelic Sanat
+    > Andre Breton tarafından Fransa’da 1924 yılında ortaya çıkmıştır.
 
     ***
 1. Aşağıdakilerden hangisi 1960 lar sanatını oluşturan nedenler arasında **değildir?**
@@ -3184,17 +3508,19 @@
     - D-) Yeniliğe açık 1960 lı yıllar gençleri, kapitalist düzenin kuralları içerisinde kendini anlamlandırmaya çalışan görsel sanatçıları renk ve nesneye dair yeni anlam arayışlarına sürüklemiştir.
     - **Cevap E-) Bu yıllarda yeni bir sanat akımı ortaya çıkamış, sanatçıların yaratıcılıkları kalmamıştır.**
 
-    > **Açıklama:** Bu yıllarda yeni bir sanat akımı ortaya çıkamış, sanatçıların yaratıcılıkları kalmamıştır.
+    > **Açıklama:** Giriş böümünü okuyunuz.
+    > Bu yıllarda yeni bir sanat akımı ortaya çıkamış, sanatçıların yaratıcılıkları kalmamıştır.
 
     ***
-1. Psychedelic sanatçılar **kim tarafından** yazılan  “Pop Goes Poster” (Pop Postere dönüşürse) adlı makale ile birlikte popüler hâle gelmiştir?
+1. Psychedelic sanatçılar **kim tarafından** yazılan “Pop Goes Poster” (Pop Postere dönüşürse) adlı makale ile birlikte popüler hâle gelmiştir?
     - **Cevap A-) Herbert Gold**
     - B-) Philippe Daverio
     - C-) Rosa Martinez
     - D-) John Berger
     - E-) John Ruskin
 
-    > **Açıklama:** Herbert Gold
+    > **Açıklama:** Psychedelic Sanat
+    > Herbert Gold
 
     ***
 1. Aşağıdakilerden hangisi Psychedelic sanatın görsel anlamda tanımlanmasında öne çıkan sanatçılar arasında **yer almaz?**
@@ -3204,7 +3530,8 @@
     - D-) Wes Wilson
     - **Cevap E-) Andre Breton**
 
-    > **Açıklama:** Andre Breton
+    > **Açıklama:** Psychedelic Sanat
+    > Andre Breton
 
     ***
 1. Bilgisayar ve matematik yerine zihnin sınırlarının peşinde düşen bir sanat akımıdır. “Zihinsel gösteri” anlamına da gelen sanat tarzının tanımlayıcısı olmuştur. Fraktal geometrik desenler, hemen hemen aynı dönemde bu sanat alanına yakın ortaya çıkmaya başlamıştır. Halüsinasyon, sinestezi yani diğer bir deyişle duyum ikiliği ve algı değişimlerini barındıran eserler, özellikle Seneca, Poe ve Shakespeare edebiyat eserlerinden hayli etkilenmiştir.<br />Yukarıdaki ifadeler aşağıda verilenlerden hangisini tanımlamaktadır.
@@ -3247,7 +3574,7 @@
     > **Açıklama:** Psychedelic Sanat Hareketinin Görsel Özellikleri: 1. Konular; Fantastik, metafizik ötesi, sürrealist konu seçimleri. 2. Desenler; Kaleidoscopic, fraktal desen kullanımları. Phosphenes, spiraller, eş merkezli daireler, ışığı kırarak dağıtan desenler ve tekrar eden motifler. 3. Renkler; Parlak ya da aşırı yüksek kontrastlıkta renk kullanımı. 4. Stiller; Normalin ötesinde bir derinlik algısı, derinlik stilizasyonu. (Horror Vacui Stili) 5. Teknikler; Eğilen ve bükülen nesneler ya da temalar. (Yansıtırken Kolaj tekniği kullanımı) 6. Yazılar; Yenilikçi, pozitif ve negatif alanlara dikkat edilen tipografi tasarımları. El yazısı, blok şeklinde kelime ve cümle tasarımları.
 
     ***
-1. Psychedelic  film afişleri, albüm kapakları ve çizgi roman çizimleri ile akıma katkı sağlayan; roman karakteri “Murphy”, “Surfer Magazine” dergisinin ön kapağında yer alan; San Francisco Haight Street’te bulunan Psychedelic Dükkan’da ilk sergisini açmış olan; Amerikan folk müzik grubu “The Charlatans” için yaptığı konser afişleri ile bilinen sanatçı aşağıdakilerden hangisidir?
+1. Psychedelic film afişleri, albüm kapakları ve çizgi roman çizimleri ile akıma katkı sağlayan; roman karakteri “Murphy”, “Surfer Magazine” dergisinin ön kapağında yer alan; San Francisco Haight Street’te bulunan Psychedelic Dükkan’da ilk sergisini açmış olan; Amerikan folk müzik grubu “The Charlatans” için yaptığı konser afişleri ile bilinen sanatçı aşağıdakilerden hangisidir?
     - **Cevap A-) Rick Griffin**
     - B-) Robert Venosa
     - C-) Wes Wilson
@@ -3257,7 +3584,7 @@
     > **Açıklama:** Diğer bir Psychedelic sanatçı Rick Griffin, film afişleri, albüm kapakları ve çizgi roman çizimleri ile akıma katkı sağlamıştır. 1961’de ilk çizdiği çizgi roman karakteri “Murphy”, “Surfer Magazine” dergisinin ön kapağında yer almıştır. İlk yıllarda bir takım illegal dergilerde de çizimler yapan sanatçı, San Francisco Haight Street’te bulunan Psychedelic Dükkan’da ilk sergisini açmıştır. O yılların popüler organizatörlerinin dikkatini çeken tasarımları onu 1967’den sonra bilinen bir afiş tasarımcısı hâline getirmiştir. Diğer Sanatçı arkadaşlarının dâhil olduğu “Büyük Beşli” grubu ile Rock, dans ve festival konserleri için afişler yapmaya başlamıştır. Amerikan folk müzik grubu “The Charlatans” için yaptığı konser afişleri ile bilinirliği artmıştır.
 
     ***
-1. Konserler ve müzik organizasyonları dışında farklı iş kalemlerinden birini temsil eden  “The Red Hat” Afişi aşağıdaki sanatçılardan hangisine aittir.
+1. Konserler ve müzik organizasyonları dışında farklı iş kalemlerinden birini temsil eden “The Red Hat” Afişi aşağıdaki sanatçılardan hangisine aittir.
     - A-) Miles Davis
     - B-) Rick Griffin
     - C-) Robert Venosa
@@ -3271,13 +3598,13 @@
     - A-) Francis Lyotard ve Marshall McLuhan
     - B-) Gilles Deleuze ve Paul-Michel Foucault
     - C-) Marshall McLuhan ve Bruce R. Powers
-    - D-) Bruce R. Powers  ve Jean Baudrillard
+    - D-) Bruce R. Powers ve Jean Baudrillard
     - **Cevap E-) Jurgen Habermas ve Anthony Giddens**
 
     > **Açıklama:** Belirli bir ideolojiyi temsil etmeyen Postmodernizm düşüncesine itiraz eden Jurgen Habernas ve Anthony Giddens gibi isimler, modernizmin sona erdiğini kabul etmemişlerdir. Habernas ve Giddens’a göre, “modernlik tamamlanmamış bir proje, postmodernlik denilen durum ise bunun radikallaşmesinin bir sonucudur”.
 
     ***
-1. 1. Dünya Savaşı sonrası dünyanın yeni geldiği durumun medya ve kitle iletişim araçlarının da etkisi ile yapısal anlamda değişmekte olduğunu ifade etmek için kullanılan **‘global köy’** kavramı aşağıdakilerden hangisi tarafından dile getirilmiştir.
+1. 1\. Dünya Savaşı sonrası dünyanın yeni geldiği durumun medya ve kitle iletişim araçlarının da etkisi ile yapısal anlamda değişmekte olduğunu ifade etmek için kullanılan **‘global köy’** kavramı aşağıdakilerden hangisi tarafından dile getirilmiştir.
     - A-) Francis Lyotard
     - **Cevap B-) Marshall McLuhan**
     - C-) Gilles Deleuze
@@ -3324,7 +3651,7 @@
     - D-) Sürrealizm
     - E-) Optik sanat
 
-    > **Açıklama:** Psychedelic Sanat, bilgisayar ve matematik yerine zihnin sınırlarının peşinde düşen bir sanat akımıdır. “Zihinsel gösteri” anlamına da gelen Psychedelic (Psikedelik) kelimesi, sanat tarzının  tanımlayıcısı olmuştur. Fraktal geometrik desenler, hemen hemen aynı dönemde bu sanat alanına yakın ortaya çıkmaya başlamıştır.
+    > **Açıklama:** Psychedelic Sanat, bilgisayar ve matematik yerine zihnin sınırlarının peşinde düşen bir sanat akımıdır. “Zihinsel gösteri” anlamına da gelen Psychedelic (Psikedelik) kelimesi, sanat tarzının tanımlayıcısı olmuştur. Fraktal geometrik desenler, hemen hemen aynı dönemde bu sanat alanına yakın ortaya çıkmaya başlamıştır.
 
     ***
 1. Psychedelic sanat aşağıdaki hangi sanat akımlarından etkilenmiştir?
@@ -3332,7 +3659,7 @@
     - B-) Postmodernizm ve Yeni akım
     - C-) Optik sanat ve İzlenimcilik
     - D-) Post sanat ve Modernizim
-    - E-) Optik sanat ve Modernizim
+    - E-) Optik sanat ve Modernizim
 
     > **Açıklama:** Sanat akımlarından Sürrealizm ve Sembolizm’den etkilenen Psychedelic sanatçılar, neden-sonuç ilişkisinin bozulmasını, rüya ve hipnoz gibi uygulamaların yarattığı sonuçları deneysel çalışmalar ile araştırmışlardır. Oldukça bozulmuş şekiller, Sürreal görseller ve aşırı parlak neon renkler dönemin afiş ve hareketli görsel ürünlerinde göze çarpar.
 
@@ -3357,6 +3684,16 @@
     > **Açıklama:** Psychedelic sanatçı Rick Griffin, film afişleri, albüm kapakları ve çizgi roman çizimleri ile akıma katkı sağlamıştır. 1961’de ilk çizdiği çizgi roman karakteri “Murphy”, “Surfer Magazine” dergisinin ön kapağında yer almıştır.
 
     ***
+1. Psychedelic sanatçıların desenlerinde sıklıkla kullandıkları, oransal kırılma özelliği gösteren karmaşık geometrik şekiller aşağıdakilerden hangisi ile tanımlanır?
+    - A-) Uzamsal
+    - **Cevap B-) Fraktal**
+    - C-) Soyut
+    - D-) Somut
+    - E-) Pop
+
+    > **Açıklama:** Fraktal: Oransal kırılma özelliği gösteren karmaşık geometrik şekiller. Bilgisayarın o yıllarda insan hayatına girmeye başlaması ile, ilerleyen teknikler ile Psychedelic sanata dair görsel çeşitlilik de artmıştır. Fraktal üreten yazılımlar, sanatçılara istenen deneysel görüntüleri elde etmek için yardımcı olmuştur. İki ve üç boyutlu grafikler ile yaratılan imgesel manipülasyonlar çıtayı yükseklere taşımıştır.
+
+    ***
 1. Postmodernizm tanımını ilk defa ortaya atan felsefe kuramcısı aşağıdakilerden hangisidir?
     - A-) Jayne Odgers
     - B-) Richard Anuszkiewicz
@@ -3364,7 +3701,7 @@
     - D-) Victor Vasarely
     - **Cevap E-) Jean Francis Lyotard**
 
-    > **Açıklama:** 20. yüzyıl sonrasında ortaya çıkan kültürü tanımlama da Modernizm yetersiz kalmaya başlamıştır. Dolayısıyla “Modernizm Sonrası ve Ötesi” anlamındaki Postmodernizm tanımlaması ilk defa 1979 yılında Jean Francis Lyotard tarafından yazılan “Postmodern Durum” adlı kitapta tartışmaya açılmıştır. Felsefe, mimarlık, edebiyat ve güzel sanatlar gibi pek çok alanı etkileyen bu yeni düşünce sistemi, zamanla tüm diğer alanlara yayılmıştır.
+    > **Açıklama:** 20\. yüzyıl sonrasında ortaya çıkan kültürü tanımlama da Modernizm yetersiz kalmaya başlamıştır. Dolayısıyla “Modernizm Sonrası ve Ötesi” anlamındaki Postmodernizm tanımlaması ilk defa 1979 yılında Jean Francis Lyotard tarafından yazılan “Postmodern Durum” adlı kitapta tartışmaya açılmıştır. Felsefe, mimarlık, edebiyat ve güzel sanatlar gibi pek çok alanı etkileyen bu yeni düşünce sistemi, zamanla tüm diğer alanlara yayılmıştır.
 
     ***
 1. Grafik tasarımının profesyonelleşme ve meslek grubu olma sürecine katkı sağlayan sanat akımı aşağıdakilerden hangisidir?
@@ -3401,10 +3738,11 @@
     - **Cevap A-) I ve III**
     - B-) II ve III
     - C-) II, III ve IV
-    - D-) III ve IV    I, II ve IV
+    - D-) III ve IV I, II ve IV
     - E-) I, II ve IV
 
-    > **Açıklama:** I ve III
+    > **Açıklama:** Refah düzeyi artmıştır ve sanatsal üretim belli bir ideolojiye dayanmaz.
+    > I ve III
 
     ***
 1. 1960'lı yıllarda hızlı tüketimin artmasının sanat ürünleri üzerindeki etkisi ne olmuştur?
@@ -3414,7 +3752,8 @@
     - D-) Sanat eğitiminin yaygınlaşması
     - **Cevap E-) Sanat eserinin biricik olma özelliğini yitirmesi**
 
-    > **Açıklama:** Sanat eserinin biricik olma özelliğini yitirmesi
+    > **Açıklama:** Hızlı tüketimin ve kapitalist yaşam biçiminin yaygınlaşması ile sanat eserinin tek ve biricik olma özelliği sona ermiştir.
+    > Sanat eserinin biricik olma özelliğini yitirmesi
 
     ***
 1. Psikedelic sanatta halüsinasyonların yarattığı görsel etkinin sürrealizmdeki karşılığı hangisidir?
@@ -3424,7 +3763,7 @@
     - D-) Duyguların dışa vurumu
     - E-) Gerçeğin psikolojik etkileri
 
-    > **Açıklama:** Sürrealist rüya çıkarımları
+    > **Açıklama:** Sürrealist rüya çıkarımlarının, psikedelic sanattaki karşılığını halüsinasyonların yarattığı görsel etki oluşturur.
 
     ***
 1. Psikedelic sanatçıların en önemli esin kaynağı hangisidir?
@@ -3434,17 +3773,18 @@
     - D-) Şiir
     - E-) Sinema
 
-    > **Açıklama:** Müzik
+    > **Açıklama:** Psikedelic sanatçılar temel olarak müzikten, özellikle rock müzikten etkilenmiştir.
 
     ***
-1. Tipografik düzen ve anlaşılırlık ilkelerini görsel efektler ve sezgisel bir tasarım anlayışıyla<br />bağdaştıran,  farklı yazı karakterleri deneyerek mizahi ve dışavurumcu bir<br />anlayışı benimseyen tasarımcı hangisidir?
+1. Tipografik düzen ve anlaşılırlık ilkelerini görsel efektler ve sezgisel bir tasarım anlayışıyla<br />bağdaştıran, farklı yazı karakterleri deneyerek mizahi ve dışavurumcu bir<br />anlayışı benimseyen tasarımcı hangisidir?
     - A-) Wes Wilson
     - B-) April Greinman
     - **Cevap C-) Wolfgang Weingart**
     - D-) Jane Odgers
     - E-) Joe Mehring
 
-    > **Açıklama:** Wolfgang Weingart
+    > **Açıklama:** Wolfgang Weingart, postmodernizm felsefesinin gelişim sürecinde, geçmişten bu yana getirilen
+    > tipografik kuralları sorgulayan konferanslar vermiştir. Tipografik anlamdaki düzen ve anlaşılırlık ilkelerini görsel efektler ve sezgisel bir tasarım anlayışıyla bağdaştıran sanatçı, aynı sözcük içerisinde farklı yazı karakterleri deneyerek mizahi ve dışavurumcu bir anlayışı benimsemeye çalışmıştır.
 
     ***
 1. Pop sanatla ilgili olarak hangi ifadeler doğrudur?<br />I- Sanatsal bakış açısına sahip her iş sanat eseri olarak görülür, II- Değişim ve yenilenme önemli ögelerdir, III- Uzun vadeli, kalıcı çözümler sunar, IV- Üst sınıfa hitap eder.
@@ -3454,7 +3794,8 @@
     - D-) I ve IV
     - E-) III ve IV
 
-    > **Açıklama:** I ve II
+    > **Açıklama:** Kısa vadeli çözümler sunar ve geniş bir kitle için tasarlanır.
+    > I ve II
 
     ***
 1. Hangisi, Andy Warhol'un Amerikanın görünmeyen yüzü ile ilgili eseridir?
@@ -3464,7 +3805,7 @@
     - D-) Marilyn Diptych
     - E-) Coca Cola Şişeleri
 
-    > **Açıklama:** Elektrikli Sandalye
+    > **Açıklama:** Andy Warhol'un Elektrikli Sandalye Amerikanın görünmeyen yönünü anlatan az bilinen çalışmasıdır.
 
     ***
 1. Psychedelic Sanat’ın kimyasal keşiflerinden ilham alarak kişinin öznel deneyimlerinin gözlemlenebildiği ve yaratıcı anlamda kullanılabildiği bilim insanı aşağıdakilerden hangisidir
@@ -3484,7 +3825,8 @@
     - **Cevap D-) I ve II**
     - E-) II ve IV
 
-    > **Açıklama:** I ve II
+    > **Açıklama:** Tüketim objeleri ve çiçek motifleri optik sanatta değil, pop sanatta kullanılır.
+    > I ve II
 
     ***
 1. Bülent Erkmen'in Olmayan Kadın oyunu için tasarladığı afişin en önemli özelliği nedir?
@@ -3494,7 +3836,8 @@
     - D-) Sarı ve siyah renkleri içermesi
     - E-) Ofset baskı ile çoğaltılması
 
-    > **Açıklama:** Op sanat ve Pop sanata dair ögeler içermesi
+    > **Açıklama:** Olmayan kadın afişinin, diğer özellikleri dışında, en önemli özelliği Op ve Pop sanat özelliklerini taşımasıdır.
+    > Op sanat ve Pop sanata dair ögeler içermesi
 
     ***
 1. Aşağıdaki sanatçılardan hangisi Psychedelic sanatın görsel anlamda tanımlanmasında öne çıkan sanatçılar arasında **yer almaz.**
@@ -3514,7 +3857,8 @@
     - D-) Bülent Erkmen
     - E-) Sait Maden
 
-    > **Açıklama:** Özdemir Altan
+    > **Açıklama:** Makine ve insan konusuna eğilen ve eserlerinde tüketim kültürünün değiştirdiği insanı ele
+    > alan sanatçı Özdemir Altan'dır. Eserlerinde insanın yaşama yabancılaşması kolaj hâlinde kompozisyon yapılmış makine parçaları ile sembolize edilmiştir.
 
     ***
 1. Aşağıdakilerden verilmiş olan özelliklerden hangisi Psychedelic Sanat Hareketinin Görsel Özellikleri arasında **yer almaz.**
@@ -3537,7 +3881,7 @@
     > **Açıklama:** Lyotard’a göre, “Modernizm sanayileşen toplumun estetiğidir. Modernizmin modern olabilmesi için “post” olması gerekmektedir.” Modern sanatta bireysellik, özgürlük gibi kavramlar mutlaka olmalıdır
 
     ***
-1. 1950’lerde, İngiltere’de  Pop Sanatının oluşmasında başlangıç noktası olarak görülen ve “Günümüz evlerini bu denli farklı ve çekici kılan nedir?” kolajının yaratıcısı olan  Popart sanatçısı aşağıdakilerden hangisidir.
+1. 1950’lerde, İngiltere’de Pop Sanatının oluşmasında başlangıç noktası olarak görülen ve “Günümüz evlerini bu denli farklı ve çekici kılan nedir?” kolajının yaratıcısı olan Popart sanatçısı aşağıdakilerden hangisidir.
     - A-) Andy Warhol
     - B-) Roy Lichtenstein
     - C-) Jasper Johns
@@ -3547,24 +3891,24 @@
     > **Açıklama:** İngiltere’de 1950’lerde Hamilton’un işleri Pop Sanatının oluşturulmasında başlangıç noktasını temsil etmiştir.
 
     ***
-1. ‘Campbell çorba kutusu’,  “Single Elvis” ve  “Marilyn Diptych” isimli eserleri üreten, pop art ile özdeşleşmiş sanatçı aşağıdakilerden hangisidir.
+1. ‘Campbell çorba kutusu’, “Single Elvis” ve “Marilyn Diptych” isimli eserleri üreten, pop art ile özdeşleşmiş sanatçı aşağıdakilerden hangisidir.
     - A-) Claes Oldenburg
     - B-) James Rosenquist
     - C-) Jasper Johns
     - **Cevap D-) Andy Warhol**
     - E-) David Hockney
 
-    > **Açıklama:** ‘Campbell çorba kutusu’,  “Single Elvis” ve  “Marilyn Diptych” isimli eserlerin yaratıcısı Andy Warhol’dur
+    > **Açıklama:** ‘Campbell çorba kutusu’, “Single Elvis” ve “Marilyn Diptych” isimli eserlerin yaratıcısı Andy Warhol’dur
 
     ***
-1. “Tüketime dayalı toplumun en iyi yanı, zenginler ile fakirlerin aynı ürünleri tüketebilme olanağına sahip olması” ile  “Gelecekte bir gün herkes on beş dakikalığına ünlü olacak” ifadeleri  kim tarafından söylenmiş ve aşağıdaki sanat anlayışlardan hangisini yansıtmaktadır?
+1. “Tüketime dayalı toplumun en iyi yanı, zenginler ile fakirlerin aynı ürünleri tüketebilme olanağına sahip olması” ile “Gelecekte bir gün herkes on beş dakikalığına ünlü olacak” ifadeleri kim tarafından söylenmiş ve aşağıdaki sanat anlayışlardan hangisini yansıtmaktadır?
     - A-) Postmodernizm-Jurgen Habernas
     - **Cevap B-) Pop Art- Andy Warhol**
     - C-) Optik Art - Victor Vasarely
     - D-) Yeni Gerçekçilik – Yves Klein
     - E-) Soyut Dışavurumculuk - Richard Hamilton
 
-    > **Açıklama:** “Tüketime dayalı toplumun en iyi yanı, zenginler ile fakirlerin aynı ürünleri tüketebilme olanağına sahip olması” ile  “Gelecekte bir gün herkes on beş dakikalığına ünlü olacak” ifadeleri  Pop Art sanat anlayışını yansıtmakta ve Pop Art Sanatçısı Andy Warhol tarafından söylenmiştir
+    > **Açıklama:** “Tüketime dayalı toplumun en iyi yanı, zenginler ile fakirlerin aynı ürünleri tüketebilme olanağına sahip olması” ile “Gelecekte bir gün herkes on beş dakikalığına ünlü olacak” ifadeleri Pop Art sanat anlayışını yansıtmakta ve Pop Art Sanatçısı Andy Warhol tarafından söylenmiştir
 
     ***
 1. “Bu sanat alanının karakterize eden özelliklerin başında, soyut, zıt renklerden oluşan desenler ve bunların göz yanılgısı yaratabilecek şekilde konumlanmasıdır. İzleyici sanatçının bu elemanları kullanarak yaptığı kurgusu ile, görüntünün hareketliliği, gizlenmiş nesnelerin varlığı gibi konular kendi deneyimleri ile elde eder. Titreşim kalıpları, şişme ve deforme olma gibi göz yanılsamaları bu sanat eserleri incelenirken sıklıkla tecrübe edilir.”<br />Bu ifadeler, aşağıdaki sanat anlayışlarından hangisini tanımlamaktadır.
@@ -3615,8 +3959,8 @@
     - D-) Alton Kelley
     - E-) Wes Wilson
 
-    > **Açıklama:** Psychedelic sanatın görsel anlamda tanımlanmasında öne çıkan sanatçılar arasında; Rick Griffin, Victor Moscoso, Stanley Mouse, Alton Kelley ve Wes Wilson sayılabilir. Bu gruba dâhil sanatçılar “Big Five” (Büyük Beşli) olarak anılırlar.
-    > Yakın gelecekte hâlâ bu akımı takip eden ve bilgisayarın sınırlarını zorlayarak ürünler veren sanatçılara en iyi örnek, Nirvana grubunun “In Utero” adlı albümünün kapağını yapan sanatçı Robert Venosa’dır.
+    > **Açıklama:** Psychedelic sanatın görsel anlamda tanımlanmasında öne çıkan sanatçılar arasında; Rick Griffin, Victor Moscoso, Stanley Mouse, Alton Kelley ve Wes Wilson sayılabilir. Bu gruba dâhil sanatçılar “Big Five” (Büyük Beşli) olarak anılırlar.
+    > Yakın gelecekte hâlâ bu akımı takip eden ve bilgisayarın sınırlarını zorlayarak ürünler veren sanatçılara en iyi örnek, Nirvana grubunun “In Utero” adlı albümünün kapağını yapan sanatçı Robert Venosa’dır.
 
     ***
 1. Aşağıdaki kavramlardan hangisi, oransal kırılma özelliği gösteren karmaşık geometrik şekiller anlamına gelmektedir?
@@ -3636,7 +3980,7 @@
     - D-) Theodore Adorno
     - E-) Wolfgang Weingart
 
-    > **Açıklama:** 20. yüzyıl sonrasında ortaya çıkan kültürü tanımlama da Modernizm yetersiz kalmaya başlamıştır. Dolayısıyla “Modernizm Sonrası ve Ötesi” anlamındaki Postmodernizm tanımlaması ilk defa 1979 yılında Jean Francis Lyotard tarafından yazılan “Postmodern Durum” adlı kitapta tartışmaya açılmıştır.
+    > **Açıklama:** 20\. yüzyıl sonrasında ortaya çıkan kültürü tanımlama da Modernizm yetersiz kalmaya başlamıştır. Dolayısıyla “Modernizm Sonrası ve Ötesi” anlamındaki Postmodernizm tanımlaması ilk defa 1979 yılında Jean Francis Lyotard tarafından yazılan “Postmodern Durum” adlı kitapta tartışmaya açılmıştır.
 
     ***
 1. Postmodern dönemdeki hangi akım grafik tasarımda bilgisayar kullanımını daha fazla önemsemiştir?
@@ -3659,7 +4003,7 @@
     > **Açıklama:** Londra’da 1959 yılında açılan “İşte Yarın” adlı sergi ve bu sergide bulunan bir eser Pop sanatın başlangıcı kabul edilmiştir. Richard Hamilton, “Just what it makes today’s home so different, so appealing?” (Bugünün evlerini bu kadar farklı ve çekici kılan nedir?) başlıklı kolajını 1956 yılında sergilediğinde ve kataloğa soktuğunda, Londra’daki White Chapel Galeri, eserin altına “This is Tomorrow” (Bu yarındır) başlığını atmıştır.
 
     ***
-1. Aşağıdakilerden hangisi, Richard Hamilton'ın pop sanat tanımını böldüğü terimlerden biri **değildir**?
+1. Aşağıdakilerden hangisi, Richard Hamilton'ın pop sanat tanımını böldüğü terimlerden biri **değildir**?
     - A-) Popüler
     - **Cevap B-) Kültür**
     - C-) Geçici
@@ -3729,7 +4073,7 @@
     > **Açıklama:** Psychedelic sanatın görsel anlamda tanımlanmasında öne çıkan sanatçılar arasında; Rick Griffin, Victor Moscoso, Stanley Mouse, Alton Kelley ve Wes Wilson sayılabilir.
 
     ***
-1. Aşağıdakilerden hangisi Psychedelic sanat hareketinin görsel özelliklerinden biri değildir?
+1. Aşağıdakilerden hangisi Psychedelic sanat hareketinin görsel özelliklerinden biri değildir?
     - A-) Stiller; Normalin ötesinde bir derinlik algısı, derinlik stilizasyonu.
     - B-) Yazılar; Yenilikçi, pozitif ve negatif alanlara dikkat edilen tipografi tasarımları.
     - **Cevap C-) Renkler; Mat ve karanlık**
@@ -3737,12 +4081,12 @@
     - E-) Konular; Fantastik, metafizik ötesi, sürrealist konu seçimleri.
 
     > **Açıklama:** Psychedelic Sanat Hareketinin Görsel Özellikleri:
-    > 1. Konular; Fantastik, metafizik ötesi, sürrealist konu seçimleri.
-    > 2. Desenler; Kaleidoscopic, fraktal desen kullanımları. Phosphenes, spiraller, eş merkezli daireler, ışığı kırarak dağıtan desenler ve tekrar eden motifler.
-    > 3. Renkler; Parlak ya da aşırı yüksek kontrastlıkta renk kullanımı.
-    > 4. Stiller; Normalin ötesinde bir derinlik algısı, derinlik stilizasyonu. (Horror Vacui Stili)
-    > 5. Teknikler; Eğilen ve bükülen nesneler ya da temalar. (Yansıtırken Kolaj tekniği kullanımı)
-    > 6. Yazılar; Yenilikçi, pozitif ve negatif alanlara dikkat edilen tipografi tasarımları. El yazısı, blok şeklinde kelime ve cümle tasarımları.
+    > 1\. Konular; Fantastik, metafizik ötesi, sürrealist konu seçimleri.
+    > 2\. Desenler; Kaleidoscopic, fraktal desen kullanımları. Phosphenes, spiraller, eş merkezli daireler, ışığı kırarak dağıtan desenler ve tekrar eden motifler.
+    > 3\. Renkler; Parlak ya da aşırı yüksek kontrastlıkta renk kullanımı.
+    > 4\. Stiller; Normalin ötesinde bir derinlik algısı, derinlik stilizasyonu. (Horror Vacui Stili)
+    > 5\. Teknikler; Eğilen ve bükülen nesneler ya da temalar. (Yansıtırken Kolaj tekniği kullanımı)
+    > 6\. Yazılar; Yenilikçi, pozitif ve negatif alanlara dikkat edilen tipografi tasarımları. El yazısı, blok şeklinde kelime ve cümle tasarımları.
 
     ***
 1. Oransal kırılma özelliği gösteren karmaşık geometrik şekillere ne ad verilir?
@@ -3817,7 +4161,8 @@
     - **Cevap D-) Mizanpaj**
     - E-) Tipografi
 
-    > **Açıklama:** Mizanpaj: Gazete, dergi, kitap gibi yayınlardaki sayfa düzeni.
+    > **Açıklama:** DİJİTAL DEVRİMİN KÖKENLERİ
+    > Mizanpaj: Gazete, dergi, kitap gibi yayınlardaki sayfa düzeni.
 
     ***
 1. Aşağıdaki şirketlerden hangisi tarafından icat edilen PostScript programlama dili sayfa mizanpajı yazılımının temelini oluşturmuştur?
@@ -3827,7 +4172,8 @@
     - D-) IBM
     - E-) NEC
 
-    > **Açıklama:** Adobe Systems tarafından icat edilen PostScript programlama dili
+    > **Açıklama:** DİJİTAL DEVRİMİN KÖKENLERİ
+    > Adobe Systems tarafından icat edilen PostScript programlama dili
     > sayfa mizanpajı yazılımının temelini oluştururken, Aldus tarafından yaratılan PageMaker programı, PostScript yazılım dilini kullanarak sayfa tasarımı yapmayı bilgisayar ekranında olanaklı hâle getiren erken yazılımlardan biri olmuştur.
 
     ***
@@ -3838,7 +4184,8 @@
     - D-) Robert Slimbach
     - E-) Fred Woodward
 
-    > **Açıklama:** Yeni teknolojiyi benimseyen ve yaratıcı potansiyelini araştıran ilk öncüler arasında, Los Angeleslı tasarımcı April Greiman (1948), Emigre dergi tasarımcı / editör Rudy Vanderlans (1955), ve yazı karakteri tasarımcısı Zuzana Licko (1961) sayılabilir. Bu tasarımcılar özellikle tasarım dünyasına getirdikleri yeni yaklaşımlar ile adlarını duyurmayı başarmışlardır. Bunların dışında yazıyı dijital hâle getirmede önemli yeri olan Sumner Stone, kendi adını taşıyan yazı karakterini dijitalleştirerek ve Susan Kare de Macintosh için yazı karakterleri üreterek isimlerini duyurmayı başarmışlardır.
+    > **Açıklama:** DİJİTAL DEVRİMİN ÖNCÜLERİ
+    > Yeni teknolojiyi benimseyen ve yaratıcı potansiyelini araştıran ilk öncüler arasında, Los Angeleslı tasarımcı April Greiman (1948), Emigre dergi tasarımcı / editör Rudy Vanderlans (1955), ve yazı karakteri tasarımcısı Zuzana Licko (1961) sayılabilir. Bu tasarımcılar özellikle tasarım dünyasına getirdikleri yeni yaklaşımlar ile adlarını duyurmayı başarmışlardır. Bunların dışında yazıyı dijital hâle getirmede önemli yeri olan Sumner Stone, kendi adını taşıyan yazı karakterini dijitalleştirerek ve Susan Kare de Macintosh için yazı karakterleri üreterek isimlerini duyurmayı başarmışlardır.
 
     ***
 1. Digital devrimin öncülerinden olan, videodan yakalanmış görüntüleri ve onları görselleştirmeyi, boşluktaki görüntüleri katmanlaştırmayı, kelimeleri ve resimleri tek bir bilgisayar dosyası içinde bütünleştirmeyi başarmış kişi aşağıdakilerden hangisidir?
@@ -3848,7 +4195,8 @@
     - D-) Zuzana Licko
     - E-) Susan Kare
 
-    > **Açıklama:** April Greiman, bitmapleştirilmiş yazı, katman ve üstüste binmiş görüntüler, video ve baskı sentezi, dokunsal desen ve yeni teknoloji ile yapılması mümkün olan görsellerin özelliklerini araştırmış ve çalışmalarında sıklıkla bunlara yer vermiştir. Macintosh bilgisayar kullanılarak üretilen tasarımlarında, bitmapleştirilmiş yazı
+    > **Açıklama:** DİJİTAL DEVRİMİN ÖNCÜLERİ
+    > April Greiman, bitmapleştirilmiş yazı, katman ve üstüste binmiş görüntüler, video ve baskı sentezi, dokunsal desen ve yeni teknoloji ile yapılması mümkün olan görsellerin özelliklerini araştırmış ve çalışmalarında sıklıkla bunlara yer vermiştir. Macintosh bilgisayar kullanılarak üretilen tasarımlarında, bitmapleştirilmiş yazı
     > ve bilgisayar tarafından oluşturulan dokuları büyük bir boyuta fotokopi ile çoğaltmış ve geleneksel dizgi ile birleştirilmiştir. Greiman, videodan yakalanmış görüntüleri ve onları görselleştirmeyi, boşluktaki görüntüleri katmanlaştırmayı, kelimeleri ve resimleri tek bir bilgisayar dosyası içinde bütünleştirmeyi başarmıştır.
 
     ***
@@ -3859,7 +4207,8 @@
     - D-) Tabaka
     - E-) Dizgi
 
-    > **Açıklama:** Grid (Izgara): Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere verilen isim.
+    > **Açıklama:** SAYFA TASARIMINDA YENİ YAKLAŞIMLAR
+    > Grid (Izgara): Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere verilen isim.
 
     ***
 1. Sayfa tasarımında plan, yerleşim ve mizanpaj anlamına gelen sözcük aşağıdakilerden hangisidir?
@@ -3869,7 +4218,8 @@
     - D-) Bitmap
     - **Cevap E-) Layout**
 
-    > **Açıklama:** Layout: Sayfa tasarımında plan, yerleşim ve mizanpaj anlamına gelen ingilizce sözcük.
+    > **Açıklama:** SAYFA TASARIMINDA YENİ YAKLAŞIMLAR
+    > Layout: Sayfa tasarımında plan, yerleşim ve mizanpaj anlamına gelen ingilizce sözcük.
 
     ***
 1. Tek bir tabaka kâğıda basılı on altı sayfalık kırılmış kitap, dergi parçası ya da bir kitabın, bir derginin on altışar sayfalık her bir bölümüne ne ad verilir?
@@ -3879,7 +4229,8 @@
     - D-) Mizanpaj
     - E-) Postscript
 
-    > **Açıklama:** Bir matbaa terimi olan forma, tek bir tabaka kâğıda basılı on altı sayfalık kırılmış kitap, dergi parçası ya da bir kitabın, bir derginin on altışar sayfalık her bir bölümüne verilen isimdir. Baskı makinesine işler, işin ebadına göre hesaplanarak bulunan ve bitmiş ölçüsüne göre 1 den fazla adette yerleşimi yapılan kağıt tabakasına yerleştirilerek gönderilir. Örnek olarak, A4 ebadında bitmiş ölçüsü olan ve 16 sayfadan oluşan bir işin, 8 sayfası kağıt tabakasının önüne, kalan 8 sayfada arkasına, katlama düzenine göre yerleştirilir ve bu şekilde baskıya girer. Bu tabakaya “forma” denir.
+    > **Açıklama:** SAYFA TASARIMINDA YENİ YAKLAŞIMLAR
+    > Bir matbaa terimi olan forma, tek bir tabaka kâğıda basılı on altı sayfalık kırılmış kitap, dergi parçası ya da bir kitabın, bir derginin on altışar sayfalık her bir bölümüne verilen isimdir. Baskı makinesine işler, işin ebadına göre hesaplanarak bulunan ve bitmiş ölçüsüne göre 1 den fazla adette yerleşimi yapılan kağıt tabakasına yerleştirilerek gönderilir. Örnek olarak, A4 ebadında bitmiş ölçüsü olan ve 16 sayfadan oluşan bir işin, 8 sayfası kağıt tabakasının önüne, kalan 8 sayfada arkasına, katlama düzenine göre yerleştirilir ve bu şekilde baskıya girer. Bu tabakaya “forma” denir.
 
     ***
 1. 1996’da Microsoft, Adobe ile birlikte yayınladığı yeni bir font dosyası formatı tüm dillerin özel karakterlerine ve gliflerine destek vermektedir ve tek bir font dosyası 65 bin karakter içerebilmektedir. Bu format aşağıdakilerden hangisidir?
@@ -3889,7 +4240,8 @@
     - D-) ZTF
     - E-) QTF
 
-    > **Açıklama:** 1996’da Microsoft, Adobe ile birlikte yeni bir font dosyası formatı yayınlamıştır. OTF (Open Type Font) adındaki bu yeni format, TTF’nin
+    > **Açıklama:** DİJİTAL YAZININ YÜKSELİŞİ
+    > 1996’da Microsoft, Adobe ile birlikte yeni bir font dosyası formatı yayınlamıştır. OTF (Open Type Font) adındaki bu yeni format, TTF’nin
     > bir üst versiyonu gibidir. OTF, tüm dillerin özel karakterlerine ve gliflerine destek vermektedir ve tek bir font dosyası 65 bin karakter içerebilmektedir.
 
     ***
@@ -3900,7 +4252,8 @@
     - D-) 5
     - E-) 6
 
-    > **Açıklama:** Web ilk Cenevre, İsviçre Nükleer Araştırmalar için Avrupa Teşkilatı fizikçi Tim Berners Lee tarafından 1990 yılında geliştirilmiştir. Berners-Lee “Web”in üç ana yapı taşını geliştirdi: Köprü Metni Aktarım Protokolü (HTTP), Köprü Metni Biçimlendirme Dili (HTML) ve her dosyanın “adres” için bir belirtimi sağlayan Uniform Resource Locator (URL). İnternet sayesinde bilgiye erişim daha kolay ve olanaklı hâle gelmiştir.
+    > **Açıklama:** İNTERAKTİF MEDYA
+    > Web ilk Cenevre, İsviçre Nükleer Araştırmalar için Avrupa Teşkilatı fizikçi Tim Berners Lee tarafından 1990 yılında geliştirilmiştir. Berners-Lee “Web”in üç ana yapı taşını geliştirdi: Köprü Metni Aktarım Protokolü (HTTP), Köprü Metni Biçimlendirme Dili (HTML) ve her dosyanın “adres” için bir belirtimi sağlayan Uniform Resource Locator (URL). İnternet sayesinde bilgiye erişim daha kolay ve olanaklı hâle gelmiştir.
 
     ***
 1. Kullandığı kırmızı ve siyah renkler ve tasarımlarında özgün bir grafik dile sahip olması ile onu önemli tasarımcılardan biri yapan, çalıştığı kişiler arasında Alfred Hitchcock, Otto Preminger, Billy Wilder, Stanley Kubrick ve Martin Scorsese gibi Holywood’un tanınmış film yapımcıları ve yönetmenleri olan kişi aşağıdakilerden hangisidir?
@@ -3910,10 +4263,11 @@
     - D-) Robert Slimbach
     - E-) Carol Twombly
 
-    > **Açıklama:** Saul Bass, Amerikalı grafik tasarımcısı ve Oscar sahibi film yapımcısıdır. Kariyerinin 40’lı yıllarında aralarında Alfred Hitchcock, Otto Preminger, Billy Wilder, Stanley Kubrick ve Martin Scorsese gibi Holywood’un tanınmış film yapımcıları ve yönetmenleri ile çalışmıştır. Kullandığı kırmızı ve siyah renkler ve tasarımlarında özgün bir grafik dile sahip olması onu önemli tasarımcılardan biri yapmıştır
+    > **Açıklama:** İNTERAKTİF MEDYA
+    > Saul Bass, Amerikalı grafik tasarımcısı ve Oscar sahibi film yapımcısıdır. Kariyerinin 40’lı yıllarında aralarında Alfred Hitchcock, Otto Preminger, Billy Wilder, Stanley Kubrick ve Martin Scorsese gibi Holywood’un tanınmış film yapımcıları ve yönetmenleri ile çalışmıştır. Kullandığı kırmızı ve siyah renkler ve tasarımlarında özgün bir grafik dile sahip olması onu önemli tasarımcılardan biri yapmıştır
 
     ***
-1. **1980’lerde  gerçekleşen dijital devrimde bireysel grafik tasarımcıların masaüstüne ulaşmada rol oynayan üç şirketten biri aşağıdaki ifadelerden hangisidir?**
+1. **1980’lerde gerçekleşen dijital devrimde bireysel grafik tasarımcıların masaüstüne ulaşmada rol oynayan üç şirketten biri aşağıdaki ifadelerden hangisidir?**
     - A-) Microsoft.
     - B-) Macromedia.
     - C-) Alias.
@@ -4020,7 +4374,11 @@
     - D-) 2005 li yıllar
     - E-) 2010 lu yıllar
 
-    > **Açıklama:** 1980 li yıllar
+    > **Açıklama:** Dijitalleşme ile birlikte teknolojik imkânlara erişim başlarda herkesin ulaşabileceği bir durum olmasa
+    > da 1980’lerde, Apple Computer, Adobe Systems ve Aldus şirketleri tarafından üretilen yazılım ve
+    > donanımlar sayesinde grafik tasarımcılar, masaüstü kişisel bilgisayarlara ulaşılabilir fiyatlarla erişme
+    > imkânı bulmuşlardır.
+    > 1980 li yıllar
 
     ***
 1. Adobe Systems tarafından icat edilen sayfa mizanpajı yazılımının temelini oluşturan, daha çok masaüstü yayıncılığında kullanılan bir sayfa tanımlama ve bir programlama dilidir. Bu programlama dili aşağıdakilerden hangisidir?
@@ -4030,7 +4388,7 @@
     - D-) Visual Basic
     - **Cevap E-) Postscript**
 
-    > **Açıklama:** Postscript
+    > **Açıklama:** PostScript daha çok masaüstü yayıncılığında kullanılan **bir sayfa tanımlama dili ve bir programlama** dilidir.
 
     ***
 1. Yazıyı dijital hâle getirmede önemli yeri olan, kendi adını taşıyan yazı karakterini dijitalleştirerek Macintosh için yazı karakterleri üreterek isimlerini duyurmayı başaran tasarımcı aşağıdakilerden hangisidir?
@@ -4040,7 +4398,7 @@
     - **Cevap D-) Sumner Stone**
     - E-) Edel Rodriguez
 
-    > **Açıklama:** Sumner Stone
+    > **Açıklama:** Yazıyı dijital hâle getirmede önemli yeri olan **Sumner Stone**, kendi adını taşıyan yazı karakterini dijitalleştirerek ve Susan Kare de Macintosh için yazı karakterleri üreterek isimlerini duyurmayı başarmışlardır.
 
     ***
 1. Bilgisayar ekranında bir fotoğrafı veya resmi görüntülemek için gereken tüm renk bilgilerinin ekranı oluşturan piksel renk bilgilerinin verildiği resim formatlarına verilen genel ifade aşağıdakilerden hangisidir?
@@ -4050,7 +4408,7 @@
     - D-) CMYK
     - E-) Tayf
 
-    > **Açıklama:** Bitmap
+    > **Açıklama:** **Bitmap: F**otoğraflar ve resimler için sık sık kullanılan bir ifadedir. Bilgisayar ekranında bir fotoğrafı veya resmi görüntülemek için gereken tüm renk bilgilerinin ekranı oluşturan piksel renk bilgilerinin verildiği resim formatlarına verilen genel ifadedir.
 
     ***
 1. 1984 yılında yayına başlamıştır. İlk sayısı 7000 kopya basılmıştır. Macintosh bilgisayarları kullanan ilk yayınlardan biri olan ve grafik tasarım topluluğu içinde masaüstü yayıncılığa geçişi önemli oranda etkileyen dergi aşağıdakilerden hangisidir?
@@ -4060,7 +4418,9 @@
     - D-) Eye
     - E-) Ed Fella
 
-    > **Açıklama:** Emigre
+    > **Açıklama:** 1984 yılında, Rudy Vanderlans, Émigré adlı dergiyi tasarlamaya, düzenlemeye ve yayımlamaya
+    > başlamıştır... İlk sayısını 7000 kopya baskıyla yapan dergi,...
+    > Emigre
 
     ***
 1. 1939’lu yıllarda dijital tasarımının bir diğer öncülerindendir. Yaratılan harf formlarının, düzensiz aralıklarını, eksantrik karakterleri, kişisel gliflerle ve argo görüntülerin estetik potansiyelini incelemiştir. Tasarımlarında yazınsal malzemeleri, büyük kompozisyonlar eşliğinde, sıklıkla bir kenara dayanmış, notlar ve ana mesaja yapılmış eklentilerle bir araya getirmiştir. Bu tasarımcı aşağıdakilerden hangisidir?
@@ -4070,7 +4430,9 @@
     - D-) Sumner Stone
     - **Cevap E-) Edvar Fella**
 
-    > **Açıklama:** Edvar Fella
+    > **Açıklama:** Dijital tasarımının bir diğer öncü ismi olan **Edward Fella** (1939) yaratılan harf formlarının, düzensiz
+    > aralıklarını, eksantrik karakterleri, kişisel gliflerle ve argo görüntülerin estetik potansiyelini incelenmiştir. Tasarımlarında yazınsal malzemeleri, büyük kompozisyonlar eşliğinde, sıklıkla bir kenara dayanmış, notlar ve ana mesaja yapılmış eklentilerle bir araya getirmiştir.
+    > Edvar Fella
 
     ***
 1. Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere verilen isim aşağıdakilerden hangisidir?
@@ -4080,7 +4442,7 @@
     - D-) Forma
     - E-) Kros
 
-    > **Açıklama:** Grid
+    > **Açıklama:** **Grid (Izgara):** Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere verilen isim.
 
     ***
 1. Tasarımlarında hiyerarşik ve düzenlenmiş sayfa tasarımı yapısı için, kinetik mekânsal çevrede yazı ve görüntü ilişkisi üst üste bindirmeye, solmaya ve bulanıklaşmaya varan görsel özelliklerden faydalanmıştır. Bilinçli olarak sayfalarını, yazıları ve başlıkları bir sayfadan diğerine akıtarak ve sayfanın kenarı etrafından fotoğrafları diğer tarafa sararak sinematik bir izlenim yaratmaya çalışmıştır. Bu tasarımcı aşağıdakilerden hangisidir?
@@ -4090,7 +4452,8 @@
     - **Cevap D-) David Carson**
     - E-) Zuzana Licko
 
-    > **Açıklama:** David Carson
+    > **Açıklama:** Tasarımlarında hiyerarşik ve düzenlenmiş sayfa tasarımı yapısı için, kinetik mekânsal çevrede yazı ve görüntü ilişkisi üst üste bindirmeye, solmaya ve bulanıklaşmaya varan görsel özelliklerden faydalanmıştır. Carson bilinçli olarak sayfalarını, yazıları ve başlıkları bir sayfadan diğerine akıtarak ve sayfanın kenarı etrafından fotoğrafları diğer tarafa sararak sinematik bir izlenim yaratmaya çalışmıştır.
+    > David Carson
 
     ***
 1. Aşağıdakilerden hangisi dijital ortamda yazı tasarlamak için üretilen programlardandır?
@@ -4100,7 +4463,7 @@
     - D-) Adobe Photoshop
     - **Cevap E-) Fontographer**
 
-    > **Açıklama:** Fontographer
+    > **Açıklama:** Masaüstü bilgisayarlar için yazı seçenekleri çoğaldıkça bunları üretmek için de font tasarım yazılımları ortaya çıkmıştır. **Fontographer ve Fontlab** programları dijital ortamda yazı tasarlamak için üretilen programlardır.
 
     ***
 1. Çevresel grafiklerin ilgi alanına insan amacıyla yapılmış her türlü şey girer. Çevresel tasarımın içeriği aşağıdakilerden hangisi **değildir?**
@@ -4110,7 +4473,8 @@
     - D-) Sergi alanları
     - E-) Açık hava reklamcılığı
 
-    > **Açıklama:** Basım teknolojileri
+    > **Açıklama:** Çevresel grafiklerin ilgi alanına insan amacıyla yapılmış her türlü şey girer. Tek bir bina, otel, stadyum gibi yapılar, şehir ya da kampüs gibi binalar kompleksi, park ya da tarihsel alan gibi planlanmış bir açık alan ya da metro, havaalanı ve tren istasyonu gibi ulaşım ağları her zaman çevresel grafiklere ve işaretlere ihtiyaç duyarlar. **Çevresel tasarım bilgilendirme ve yönlendirme işaretleri, sergi alanları ve açık hava reklamcılığını içerir.** Bunun yanı sıra çevremizde kurulu yapılardaki tüm tasarım ögelerini de kapsar.
+    > Basım teknolojileri
 
     ***
 1. Gazete, dergi, kitap gibi yayınlardaki sayfa düzenine ne ad verilir?
@@ -4123,7 +4487,7 @@
     > **Açıklama:** **Mizanpaj:** Gazete, dergi, kitap gibi yayınlardaki sayfa düzeni.
 
     ***
-1. "Adobe System’in   **...** sayfa açıklama dili, yazıcıların çıktı almasını sağlayan metin, resim ve grafik ögelerini ve sayfadaki yerleşimlerini belirlemek üzere yaratılmıştır" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
+1. "Adobe System’in  **...**  sayfa açıklama dili, yazıcıların çıktı almasını sağlayan metin, resim ve grafik ögelerini ve sayfadaki yerleşimlerini belirlemek üzere yaratılmıştır" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - A-) Tasarım
     - **Cevap B-) PostScript**
     - C-) Harf formları
@@ -4143,6 +4507,16 @@
     > **Açıklama:** Yeni teknolojiyi benimseyen ve yaratıcı potansiyelini araştıran ilk öncüler arasında, Los Angeleslı tasarımcı **April Greiman** (1948), Emigre dergi tasarımcı / editör **Rudy Vanderlans** (1955), ve yazı karakteri tasarımcısı **Zuzana Licko** (1961) sayılabilir. Bu tasarımcılar özellikle tasarım dünyasına getirdikleri yeni yaklaşımlar ile adlarını duyurmayı başarmışlardır. Bunların dışında yazıyı diji- tal hâle getirmede önemli yeri olan Sumner Stone, kendi adını taşıyan yazı karakterini dijitalleştirerek ve **Susan Kare** de Macintosh için yazı karakterleri üreterek isimlerini duyurmayı başarmışlardır.
 
     ***
+1. Bilgisayar ekranında bir fotoğrafı veya resmi görüntülemek için gereken tüm renk bilgilerinin ekranı oluşturan piksel renk bilgilerinin verildiği resim formatlarına ne ad verilir?
+    - A-) Görsel iletişim
+    - B-) Çözünürlük
+    - C-) Masaüstü yayıncılık
+    - **Cevap D-) Bitmap**
+    - E-) Tipografi
+
+    > **Açıklama:** **Bitmap:** Bitmap fotoğraflar ve resimler için sık sık kullanılan bir ifadedir. Bilgisayar ekranında bir fotoğrafı veya resmi görüntülemek için gereken tüm renk bilgilerinin ekranı oluşturan piksel renk bilgilerinin verildiği resim formatlarına verilen genel ifadedir.
+
+    ***
 1. Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere verilen isim aşağıdakilerden hangisidir?
     - A-) Layout
     - B-) Forma
@@ -4153,7 +4527,7 @@
     > **Açıklama:** **Grid (Izgara):** Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere verilen isim.
 
     ***
-1. "Bir matbaa terimi olan  **...,** tek bir tabaka kâğıda basılı on altı sayfalık kırılmış kitap, dergi parçası ya da bir kitabın, bir derginin on altışar sayfalık her bir bölümüne verilen isimdir" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
+1. "Bir matbaa terimi olan **...,** tek bir tabaka kâğıda basılı on altı sayfalık kırılmış kitap, dergi parçası ya da bir kitabın, bir derginin on altışar sayfalık her bir bölümüne verilen isimdir" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - **Cevap A-) Forma**
     - B-) Kağıt tabakası
     - C-) Sayfa tasarımı
@@ -4173,7 +4547,7 @@
     > **Açıklama:** Carol Twombly’nin yazı karakterleri tarihsel yazımdan esinlenilmiş ögeleri içerir. Adını Roma Döneminin sütunlarına işlenen yazıdan esinlenerek tasarladığı ve miniskül harfleri olmayan **Trajan** yazı karakteri buna örnek olarak verilebilir.
 
     ***
-1. Kariyerinin 40’lı yıllarında aralarında Alfred Hitchcock, Otto Preminger, Billy Wilder, Stanley Kubrick ve Martin Scorsese gibi Holywood’un tanınmış film yapımcıları ve yönetmenleri ile çalışmış, kullandığı kırmızı ve siyah renkler ve tasarımlarında özgün bir grafik dile sahip olan çok önemli Amerikalı  tasarımcı aşağıdakilerden hangisidir?
+1. Kariyerinin 40’lı yıllarında aralarında Alfred Hitchcock, Otto Preminger, Billy Wilder, Stanley Kubrick ve Martin Scorsese gibi Holywood’un tanınmış film yapımcıları ve yönetmenleri ile çalışmış, kullandığı kırmızı ve siyah renkler ve tasarımlarında özgün bir grafik dile sahip olan çok önemli Amerikalı tasarımcı aşağıdakilerden hangisidir?
     - A-) Danny Yount
     - B-) Kyle Cooper
     - **Cevap C-) Saul Bass**
@@ -4183,7 +4557,7 @@
     > **Açıklama:** **Saul Bass**, Amerikalı grafik tasarımcısı ve Oscar sahibi film yapımcısıdır. Kariyerinin 40’lı yıllarında aralarında Alfred Hitchcock, Otto Preminger, Billy Wilder, Stanley Kubrick ve Martin Scorsese gibi Holywood’un tanınmış film yapımcıları ve yönetmenleri ile çalışmıştır. Kullandığı kırmızı ve siyah renkler ve tasarımlarında özgün bir grafik dile sahip olması onu önemli tasarımcılardan biri yapmıştır.
 
     ***
-1. "**...**  tasarım bilgilendirme ve yönlendirme işaretleri, sergi alanları ve açık hava reklamcılığını içerir. Bunun yanı sıra çevremizde kurulu yapılardaki tüm tasarım ögelerini de kapsar. Her ne kadar basılı veya dijital tasarımla aynı becerileri gerektirse de **...** tasarım farklı alan ve boyutlarda çalışmayı gerektirir ve üzerine yoğunlaştığı başka sorunlar vardır" anlatımında yer alan boşluklara gelmesi en uygun seçenek aşağıdakilerden hangisidir?
+1. "**...** tasarım bilgilendirme ve yönlendirme işaretleri, sergi alanları ve açık hava reklamcılığını içerir. Bunun yanı sıra çevremizde kurulu yapılardaki tüm tasarım ögelerini de kapsar. Her ne kadar basılı veya dijital tasarımla aynı becerileri gerektirse de **...** tasarım farklı alan ve boyutlarda çalışmayı gerektirir ve üzerine yoğunlaştığı başka sorunlar vardır" anlatımında yer alan boşluklara gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - A-) Dijital
     - B-) Endüstriyel
     - C-) Teknolojik

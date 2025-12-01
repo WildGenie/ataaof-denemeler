@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3513426,
-        "SoruMetni": "Aşağıdaki Mustafa Kemal Atatürk ile ilgili tanımlamalardan hangisi doğrudur?<br/>  I. Anafartalar kahramanı<br/> II. Türk İstiklal Savaşı’nın önderi<br/> III. Türkiye Cumhuriyeti’nin kurucusu<br/> IV. Türk çağdaşlaşma hareketinin lideridir",
+        "SoruMetni": "Aşağıdaki Mustafa Kemal Atatürk ile ilgili tanımlamalardan hangisi doğrudur?<br/>I. Anafartalar kahramanı<br/>II. Türk İstiklal Savaşı’nın önderi<br/>III. Türkiye Cumhuriyeti’nin kurucusu<br/>IV. Türk çağdaşlaşma hareketinin lideridir",
         "A": "I, II, III, IV",
         "B": "II ve III",
         "C": "II, III ve IV",
@@ -20,8 +20,28 @@
         "Aciklama": "<span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\">Atatürk, 57 yıllık yaşamı boyunca karşımıza yekvücut bir mücadele adamı olarak çıkmaktadır. Mustafa Kemal Atatürk, Anafartalar kahramanı, Türk İstiklal Savaşı’nın önderi, Türkiye Cumhuriyeti’nin kurucusu, Türk çağdaşlaşma hareketinin lideridir. </span>"
     },
     {
+        "SoruID": 3513427,
+        "SoruMetni": "Mustafa Kemal’in annesinin ve babasının soylarının geldiği yerler aşağıdaki seçeneklerden hangisinde doğru verilmiştir?",
+        "A": "Konya-Karaman",
+        "B": "Ankara-Eskişehir",
+        "C": "Samsun- Havza",
+        "D": "Erzurum-Sivas",
+        "E": "Sivas-Malatya",
+        "DogruCevap": "A",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 2,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:49.802452",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\">Mustafa Kemal’in Anadolu’nun Türkleşmesinde önemli roller oynayan “Kızıl-Oğuz Türkmenleri”nden gelen baba soyu, Karaman’dan gelerek Manastır vilayetinin Debre-i Balâ sancağına bağlı Kocacık köyüne yerleşmiştir. Aile sonradan 1830’lu yıllarda Selanik’e göç etmiştir. Mustafa Kemal’in anne soyu da Fatih Sultan Mehmet döneminde Konya- Karaman civarından Rumeli’ye göç ettirilerek, iskân edilmiş olan Türkmenlerden gelmektedir (Güler, 2015). </span>"
+    },
+    {
         "SoruID": 3513428,
-        "SoruMetni": "Mustafa Kemal ile aynı dönemde Harbiye’de öğrenim görmüş olanlar aşağıdakilerden hangisidir?<br/><br/>I. İsmet İnönü<br/><br/>II. Cafer Tayyar (Eğilmez)<br/><br/>III. Ali Fuat (Cebesoy)",
+        "SoruMetni": "Mustafa Kemal ile aynı dönemde Harbiye’de öğrenim görmüş olanlar aşağıdakilerden hangisidir?<br/>I. İsmet İnönü<br/>II. Cafer Tayyar (Eğilmez)<br/>III. Ali Fuat (Cebesoy)",
         "A": "II ve III",
         "B": "Yalnız I",
         "C": "I, II ve III",
@@ -38,6 +58,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "<span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\">Harp Okulu öğrenimi sırasında Fahrettin (Altay), Cafer Tayyar (Eğilmez), Ali Fuat (Cebesoy), Enver (Paşa), Halil (Kut) gibi sonraki dönemlerin ünlü subayları bir ya da iki devre üst sınıfta bulunsalar da Mustafa Kemal ile aynı dönemde Harbiye’de öğrenim görmüşlerdir. </span>"
+    },
+    {
+        "SoruID": 3513429,
+        "SoruMetni": "Mustafa Kemal, Şam’da görevli iken 20 Haziran 1907’de hangi rütbeye terfi etmiştir?",
+        "A": "Kıdemli Yüzbaşı",
+        "B": "Binbaşı",
+        "C": "Yarbay",
+        "D": "Üsteğmen",
+        "E": "Teğmen",
+        "DogruCevap": "A",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 2,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:49.768521",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\">Kurmay Yüzbaşı Mustafa Kemal’in ilk görev yeri, merkezi Şam’da bulunan 5. Ordu’dur. Mustafa Kemal 5. Ordu’da piyade, topçu ve kurmay sınıflarında staj yapmıştır. Mustafa Kemal, Şam’da görevli iken 20 Haziran 1907’de Kolağası (Kıdemli Yüzbaşı) rütbesine terfi etmiştir. </span>"
     },
     {
         "SoruID": 3513430,
@@ -81,7 +121,7 @@
     },
     {
         "SoruID": 3513432,
-        "SoruMetni": "Aşağıdakilerden hangileri Mustafa Kemal Atatürk’ün kitaplara olan düşkünlüğünü yansıtmaktadır?<br/><br/>I. Atatürk’ün oluşturduğu özel kütüphanesindeki kitapların sayısı 4289’ü, bibliyografik künye de 10.000’i bulmuştur.<br/><br/>II. Mustafa Kemal’in okuduğu kitaplara bakıldığında “sosyoloji” ön planda yer almaktadır.<br/><br/>III. Atatürk’ün kitap okumadaki belirgin özelliklerinden biri, incelediği konuya ilişkin ya da ilgisini çeken konulardaki kitapları, sürekli bir okuma ile bitirmeden bırakmaması olmuştur.<br/><br/>IV. Atatürk okuduğu kitaplarda önemli saydığı cümlelerin altını bazen kırmızı, bazen de mavi kalemle çizmiştir. Kırmızı kalemle çizdikleri, o fikri beğenmediği, mavi kalemle çizdikleri ise fikri kuvvetli bulduğu ve kendisinin de katıldığı anlamına gelmiştir.",
+        "SoruMetni": "Aşağıdakilerden hangileri Mustafa Kemal Atatürk’ün kitaplara olan düşkünlüğünü yansıtmaktadır?<br/>I. Atatürk’ün oluşturduğu özel kütüphanesindeki kitapların sayısı 4289’ü, bibliyografik künye de 10.000’i bulmuştur.<br/>II. Mustafa Kemal’in okuduğu kitaplara bakıldığında “sosyoloji” ön planda yer almaktadır.<br/>III. Atatürk’ün kitap okumadaki belirgin özelliklerinden biri, incelediği konuya ilişkin ya da ilgisini çeken konulardaki kitapları, sürekli bir okuma ile bitirmeden bırakmaması olmuştur.<br/>IV. Atatürk okuduğu kitaplarda önemli saydığı cümlelerin altını bazen kırmızı, bazen de mavi kalemle çizmiştir. Kırmızı kalemle çizdikleri, o fikri beğenmediği, mavi kalemle çizdikleri ise fikri kuvvetli bulduğu ve kendisinin de katıldığı anlamına gelmiştir.",
         "A": "I ve III",
         "B": "I, II, IV",
         "C": "II, III",
@@ -97,11 +137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I. Atatürk’ün oluşturduğu özel kütüphanesindeki kitapların sayısı 4289’ü, bibliyografik künye de 10.000’i bulmuştur.<br/><br/>II. Mustafa Kemal’in okuduğu kitaplara bakıldığında <strong>“tarih”</strong> ön planda yer almaktadır.<br/><br/>III. Atatürk’ün kitap okumadaki belirgin özelliklerinden biri, incelediği konuya ilişkin ya da ilgisini çeken konulardaki kitapları, sürekli bir okuma ile bitirmeden bırakmaması olmuştur.<br/><br/>IV. Atatürk okuduğu kitaplarda önemli saydığı cümlelerin altını bazen kırmızı, bazen de mavi kalemle çizmiştir. Kırmızı kalemle çizdikleri fikri kuvvetli bulduğu ve kendisinin de katıldığı,  mavi kalemle çizdikleri ise o fikri beğenmediği anlamına gelmiştir."
+        "Aciklama": "I. Atatürk’ün oluşturduğu özel kütüphanesindeki kitapların sayısı 4289’ü, bibliyografik künye de 10.000’i bulmuştur.<br/>II. Mustafa Kemal’in okuduğu kitaplara bakıldığında <strong>“tarih”</strong> ön planda yer almaktadır.<br/>III. Atatürk’ün kitap okumadaki belirgin özelliklerinden biri, incelediği konuya ilişkin ya da ilgisini çeken konulardaki kitapları, sürekli bir okuma ile bitirmeden bırakmaması olmuştur.<br/>IV. Atatürk okuduğu kitaplarda önemli saydığı cümlelerin altını bazen kırmızı, bazen de mavi kalemle çizmiştir. Kırmızı kalemle çizdikleri fikri kuvvetli bulduğu ve kendisinin de katıldığı, mavi kalemle çizdikleri ise o fikri beğenmediği anlamına gelmiştir."
     },
     {
         "SoruID": 3513434,
-        "SoruMetni": "Anıtkabir ile ilgili aşağıdakilerden hangileri doğru bilgidir?<br/> I. Anıtkabir'in inşaatı 20 yıl sürmüştür. <br/> II.  Anıtkabir için 49 projenin katıldığı bir proje yarışmasında Prof. Dr. Emin Onat ile Doç. Dr. Orhan Arda’nın ortak projeleri birinci olmuştur. <br/> III. Anıtkabir'in yeri 7 Temmuz 1939'da Rasattepe (Anıttepe) olarak seçmiştir.<br/> IV. Atatürk'ün aziz naaşı Anıtkabir'e inşa edilene kadar Cumhuriyet Müzesi’ndeki geçici kabrinde kalmıştır.",
+        "SoruMetni": "Anıtkabir ile ilgili aşağıdakilerden hangileri doğru bilgidir?<br/>I. Anıtkabir'in inşaatı 20 yıl sürmüştür. <br/>II. Anıtkabir için 49 projenin katıldığı bir proje yarışmasında Prof. Dr. Emin Onat ile Doç. Dr. Orhan Arda’nın ortak projeleri birinci olmuştur. <br/>III. Anıtkabir'in yeri 7 Temmuz 1939'da Rasattepe (Anıttepe) olarak seçmiştir.<br/>IV. Atatürk'ün aziz naaşı Anıtkabir'e inşa edilene kadar Cumhuriyet Müzesi’ndeki geçici kabrinde kalmıştır.",
         "A": "II ve III",
         "B": "I, III, IV",
         "C": "I, III",
@@ -117,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I. Anıtkabir'in inşaatı 15yıl sürmüştür. <br/> II.  Anıtkabir için 49 projenin katıldığı bir proje yarışmasında Prof. Dr. Emin Onat ile Doç. Dr. Orhan Arda’nın ortak projeleri birinci olmuştur. <br/> III. Anıtkabir'in yeri 7 Temmuz 1939'da Rasattepe (Anıttepe) olarak seçmiştir.<br/> IV. Atatürk'ün aziz naaşı Anıtkabir'e inşa edilene kadar Etnografya Müzesi’ndeki geçici kabrinde kalmıştır."
+        "Aciklama": "I. Anıtkabir'in inşaatı 15yıl sürmüştür. <br/>II. Anıtkabir için 49 projenin katıldığı bir proje yarışmasında Prof. Dr. Emin Onat ile Doç. Dr. Orhan Arda’nın ortak projeleri birinci olmuştur. <br/>III. Anıtkabir'in yeri 7 Temmuz 1939'da Rasattepe (Anıttepe) olarak seçmiştir.<br/>IV. Atatürk'ün aziz naaşı Anıtkabir'e inşa edilene kadar Etnografya Müzesi’ndeki geçici kabrinde kalmıştır."
     },
     {
         "SoruID": 3513435,
-        "SoruMetni": "Atatürk'ün ilkelerine ilişkin aşağıdakilerden hangileri doğrudur?<br/><br/>I. Tam bağımsızlık, çağdaşlaşma, akılcılık ve bilimsellik, demokrasi ve ulusal egemenlik bütün ilkelerin içinde bulunan ortak özelliklerdir.<br/><br/>II. Temel ilkeler, tüm ilkeler için temel teşkil eden genel ve ortak esaslardır.<br/><br/>III. Atatürk'ün temel ilkeleri: Tam bağımsızlık, Milli Egemenlik, Çağdaşlaşma, Akıl ve Bilimdir.  <br/><br/>IV. Laiklik bir düşünce sistemidir; her şeyden önce bir zihin ve düşünce özgürlüğüdür.",
+        "SoruMetni": "Atatürk'ün ilkelerine ilişkin aşağıdakilerden hangileri doğrudur?<br/>I. Tam bağımsızlık, çağdaşlaşma, akılcılık ve bilimsellik, demokrasi ve ulusal egemenlik bütün ilkelerin içinde bulunan ortak özelliklerdir.<br/>II. Temel ilkeler, tüm ilkeler için temel teşkil eden genel ve ortak esaslardır.<br/>III. Atatürk'ün temel ilkeleri: Tam bağımsızlık, Milli Egemenlik, Çağdaşlaşma, Akıl ve Bilimdir. <br/>IV. Laiklik bir düşünce sistemidir; her şeyden önce bir zihin ve düşünce özgürlüğüdür.",
         "A": "I, II, IV",
         "B": "I, II, III, IV",
         "C": "III ve IV",
@@ -137,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I. Tam bağımsızlık, çağdaşlaşma, akılcılık ve bilimsellik, demokrasi ve ulusal egemenlik bütün ilkelerin içinde bulunan ortak özelliklerdir.<br/><br/>II. <strong>Bütünleyici ilkeler,</strong> tüm ilkeler için temel teşkil eden genel ve ortak esaslardır.<br/><br/>III. Atatürk'ün <strong>Bütünleyici ilkeleri</strong>: Tam bağımsızlık, Milli Egemenlik, Çağdaşlaşma, Akıl ve Bilimdir.  <br/><br/>IV. Laiklik bir düşünce sistemidir; her şeyden önce bir zihin ve düşünce özgürlüğüdür."
+        "Aciklama": "I. Tam bağımsızlık, çağdaşlaşma, akılcılık ve bilimsellik, demokrasi ve ulusal egemenlik bütün ilkelerin içinde bulunan ortak özelliklerdir.<br/>II. <strong>Bütünleyici ilkeler,</strong> tüm ilkeler için temel teşkil eden genel ve ortak esaslardır.<br/>III. Atatürk'ün <strong>Bütünleyici ilkeleri</strong>: Tam bağımsızlık, Milli Egemenlik, Çağdaşlaşma, Akıl ve Bilimdir. <br/>IV. Laiklik bir düşünce sistemidir; her şeyden önce bir zihin ve düşünce özgürlüğüdür."
     },
     {
         "SoruID": 3513466,
@@ -161,7 +201,7 @@
     },
     {
         "SoruID": 3513467,
-        "SoruMetni": "<span><span style=\"left: 479.528px; top: 924.933px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.980164);\">\"O </span></span><span><span style=\"left: 479.528px; top: 947.599px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.959433);\">dönemde hürriyet ve vatan kavramlarının güçlü ol</span></span><span><span style=\"left: 479.528px; top: 970.266px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.955525);\">duğu ............. şehri, Mustafa Kemal’in fikirlerinin </span></span><span><span style=\"left: 479.528px; top: 992.933px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.970874);\">oluşmasındaki en önemli yerlerden birine sahiptir.\" <br/></span></span><br/><br/><span><span style=\"left: 479.528px; top: 992.933px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.970874);\">Yukarıda boş bırakılan yere aşağıdaki şehir adlarından hangisi gelmelidir?</span></span>",
+        "SoruMetni": "<span><span style=\"left: 479.528px; top: 924.933px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.980164);\">\"O </span></span><span><span style=\"left: 479.528px; top: 947.599px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.959433);\">dönemde hürriyet ve vatan kavramlarının güçlü ol</span></span><span><span style=\"left: 479.528px; top: 970.266px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.955525);\">duğu ............. şehri, Mustafa Kemal’in fikirlerinin </span></span><span><span style=\"left: 479.528px; top: 992.933px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.970874);\">oluşmasındaki en önemli yerlerden birine sahiptir.\" <br/></span></span><br/><span><span style=\"left: 479.528px; top: 992.933px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.970874);\">Yukarıda boş bırakılan yere aşağıdaki şehir adlarından hangisi gelmelidir?</span></span>",
         "A": "Gümülcine",
         "B": "Selanik",
         "C": "Manastır",
@@ -181,7 +221,7 @@
     },
     {
         "SoruID": 3513468,
-        "SoruMetni": "<span><span style=\"left: 479.528px; top: 1151.6px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.974345);\">Aşağıdakilerden hangisi  Mustafa Kemal' in, Ali Fethi (Okyar) aracı</span></span><span><span style=\"left: 479.528px; top: 1174.27px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.985363);\">lığıyla eserleriyle tanıştığı</span></span><span><span style=\"left: 479.528px; top: 1196.93px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.970426);\"> Fransız düşünürlerden <strong>değildir?</strong><br/></span></span>",
+        "SoruMetni": "<span><span style=\"left: 479.528px; top: 1151.6px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.974345);\">Aşağıdakilerden hangisi Mustafa Kemal' in, Ali Fethi (Okyar) aracı</span></span><span><span style=\"left: 479.528px; top: 1174.27px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.985363);\">lığıyla eserleriyle tanıştığı</span></span><span><span style=\"left: 479.528px; top: 1196.93px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.970426);\"> Fransız düşünürlerden <strong>değildir?</strong><br/></span></span>",
         "A": "<span><span style=\"left: 479.528px; top: 1174.27px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.985363);\">J.J. Rousseau,</span></span>",
         "B": "<span><span style=\"left: 479.528px; top: 1174.27px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.985363);\">Voltaire</span></span>",
         "C": "<span><span style=\"left: 479.528px; top: 1174.27px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.985363);\">Auguste Comte</span></span>",
@@ -197,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span style=\"left: 479.528px; top: 1151.6px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.974345);\">Ali Fethi (Okyar) aracı</span></span><span><span style=\"left: 479.528px; top: 1174.27px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.985363);\">lığıyla J.J. Rousseau, Voltaire, Auguste Comte ve </span></span><span><span style=\"left: 479.528px; top: 1196.93px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.970426);\">Montesquieu gibi Fransız düşünürlerin eserleriyle tanışmıştır.</span></span>"
+        "Aciklama": "<span><span style=\"left: 479.528px; top: 1151.6px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.974345);\">Ali Fethi (Okyar) aracı</span></span><span><span style=\"left: 479.528px; top: 1174.27px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.985363);\">lığıyla J.J. Rousseau, Voltaire, Auguste Comte ve </span></span><span><span style=\"left: 479.528px; top: 1196.93px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.970426);\">Montesquieu gibi Fransız düşünürlerin eserleriyle tanışmıştır.</span></span>"
     },
     {
         "SoruID": 3513469,
-        "SoruMetni": "<span><span style=\"left: 524.901px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.93313);\">\"Mustafa</span> <span style=\"left: 592.184px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.927707);\">Kemal,</span> <span style=\"left: 652.996px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.950487);\">Harbiye</span> <span style=\"left: 720.371px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.932848);\">Nazırı</span> <span style=\"left: 774.344px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.996644);\">Mahmut </span></span><span><span style=\"left: 479.528px; top: 358.151px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.00277);\">Şevket Paşa ile birlikte 1910 yılının Mart ayında</span></span><span><br role=\"presentation\"/><span style=\"left: 479.528px; top: 379.484px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.989657);\">..................’ ta /da çıkan isyanı bastırma görevini icra </span></span><span><span style=\"left: 479.528px; top: 400.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.961836);\">etmiştir.\"</span></span><br/><br/><span><span style=\"left: 479.528px; top: 400.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.961836);\">Yukarıdaki cümlede boş bırakılan yeri aşağıdaki ülkelerden hangisi doldurmalıdır?</span></span>",
+        "SoruMetni": "<span><span style=\"left: 524.901px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.93313);\">\"Mustafa</span> <span style=\"left: 592.184px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.927707);\">Kemal,</span> <span style=\"left: 652.996px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.950487);\">Harbiye</span> <span style=\"left: 720.371px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.932848);\">Nazırı</span> <span style=\"left: 774.344px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.996644);\">Mahmut </span></span><span><span style=\"left: 479.528px; top: 358.151px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.00277);\">Şevket Paşa ile birlikte 1910 yılının Mart ayında</span></span><span><br role=\"presentation\"/><span style=\"left: 479.528px; top: 379.484px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.989657);\">..................’ ta /da çıkan isyanı bastırma görevini icra </span></span><span><span style=\"left: 479.528px; top: 400.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.961836);\">etmiştir.\"</span></span><br/><span><span style=\"left: 479.528px; top: 400.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.961836);\">Yukarıdaki cümlede boş bırakılan yeri aşağıdaki ülkelerden hangisi doldurmalıdır?</span></span>",
         "A": "Makedonya",
         "B": "Yunanistan",
         "C": "Arnavutluk",
@@ -217,12 +257,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span style=\"left: 524.901px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.93313);\">Mustafa</span> <span style=\"left: 592.184px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.927707);\">Kemal,</span> <span style=\"left: 652.996px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.950487);\">Harbiye</span> <span style=\"left: 720.371px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.932848);\">Nazırı</span> <span style=\"left: 774.344px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.996644);\">Mahmut </span></span><span><span style=\"left: 479.528px; top: 358.151px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.00277);\">Şevket Paşa ile birlikte 1910 yılının Mart ayında</span></span><span><br role=\"presentation\"/><span style=\"left: 479.528px; top: 379.484px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.989657);\">Arnavutluk’ta çıkan isyanı bastırma görevini icra </span></span><span><span style=\"left: 479.528px; top: 400.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.961836);\">etmiştir. </span></span>"
+        "Aciklama": "<span><span style=\"left: 524.901px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.93313);\">Mustafa</span> <span style=\"left: 592.184px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.927707);\">Kemal,</span> <span style=\"left: 652.996px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.950487);\">Harbiye</span> <span style=\"left: 720.371px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.932848);\">Nazırı</span> <span style=\"left: 774.344px; top: 336.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.996644);\">Mahmut </span></span><span><span style=\"left: 479.528px; top: 358.151px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.00277);\">Şevket Paşa ile birlikte 1910 yılının Mart ayında</span></span><span><br role=\"presentation\"/><span style=\"left: 479.528px; top: 379.484px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.989657);\">Arnavutluk’ta çıkan isyanı bastırma görevini icra </span></span><span><span style=\"left: 479.528px; top: 400.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.961836);\">etmiştir. </span></span>"
     },
     {
         "SoruID": 3513601,
-        "SoruMetni": "<span><span style=\"left: 94.4882px; top: 508.228px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.950563);\">Aşağıdakilerden hangisi İttihat ve Terakki Cemiyeti’nin 1909’da </span></span><span><span style=\"left: 94.4882px; top: 529.561px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.924223);\">Selanik’te yaptığı II.Kongresi'ne Mustafa Kemal ile birlikte katılan arkadaşlarından biri <strong>değildir?</strong></span></span><span><span style=\"left: 94.4882px; top: 593.561px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.985744);\"><br/></span></span>",
-        "A": "<span><span style=\"left: 94.4882px; top: 550.894px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.95202);\">Fethi (Okyar) </span></span>",
+        "SoruMetni": "<span><span style=\"left: 94.4882px; top: 508.228px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.950563);\">Aşağıdakilerden hangisi İttihat ve Terakki Cemiyeti’nin 1909’da </span></span><span><span style=\"left: 94.4882px; top: 529.561px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.924223);\">Selanik’te yaptığı II.Kongresi'ne Mustafa Kemal ile birlikte katılan arkadaşlarından biri <strong>değildir?</strong></span></span><span><span style=\"left: 94.4882px; top: 593.561px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.985744);\"><br/></span></span>",
+        "A": "<span><span style=\"left: 94.4882px; top: 550.894px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.95202);\">Fethi (Okyar) </span></span>",
         "B": "<span><span style=\"left: 94.4882px; top: 529.561px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.924223);\">Ali </span></span><span><span style=\"left: 94.4882px; top: 550.894px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.95202);\">Fuat (Cebesoy)</span></span><span><span style=\"left: 94.4882px; top: 593.561px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.985744);\"><br/></span></span>",
         "C": "<span style=\"font-family: 'times new roman', times, serif; font-size: 14pt;\"><span>Reşit Galip</span></span>",
         "D": "<span><span style=\"left: 94.4882px; top: 550.894px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.95202);\">Kazım (Karabekir)</span></span>",
@@ -237,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span style=\"left: 94.4882px; top: 508.228px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.950563);\">İttihat ve Terakki Cemiyeti’nin 1909’da </span></span><span><span style=\"left: 94.4882px; top: 529.561px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.924223);\">Selanik’te yaptığı II. Kongresine Mustafa Kemal, Ali</span></span><span><br role=\"presentation\"/><span style=\"left: 94.4882px; top: 550.894px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.95202);\">Fuat (Cebesoy), Fethi (Okyar), Kazım (Karabekir), </span></span><span><span style=\"left: 94.4882px; top: 572.228px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.937169);\">Rauf (Orbay), Tevfik Rüştü (Aras) ve İsmet (İnönü) </span></span><span><span style=\"left: 94.4882px; top: 593.561px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.985744);\">de katılmışlardır.</span></span>"
+        "Aciklama": "<span><span style=\"left: 94.4882px; top: 508.228px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.950563);\">İttihat ve Terakki Cemiyeti’nin 1909’da </span></span><span><span style=\"left: 94.4882px; top: 529.561px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.924223);\">Selanik’te yaptığı II. Kongresine Mustafa Kemal, Ali</span></span><span><br role=\"presentation\"/><span style=\"left: 94.4882px; top: 550.894px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.95202);\">Fuat (Cebesoy), Fethi (Okyar), Kazım (Karabekir), </span></span><span><span style=\"left: 94.4882px; top: 572.228px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.937169);\">Rauf (Orbay), Tevfik Rüştü (Aras) ve İsmet (İnönü) </span></span><span><span style=\"left: 94.4882px; top: 593.561px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.985744);\">de katılmışlardır.</span></span>"
     },
     {
         "SoruID": 3513602,
-        "SoruMetni": "<span><span style=\"left: 132.284px; top: 844.048px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.956323);\"><span><span>Birinci Dünya Savaşı'nın başladığı zaman (28 Temmuz 1914) </span></span>Yarbay Mustafa Kemal nerede askeri ataşe olarak görev yapmaktaydı? </span></span>",
+        "SoruMetni": "<span><span style=\"left: 132.284px; top: 844.048px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.956323);\"><span><span>Birinci Dünya Savaşı'nın başladığı zaman (28 Temmuz 1914) </span></span>Yarbay Mustafa Kemal nerede askeri ataşe olarak görev yapmaktaydı? </span></span>",
         "A": "Manastır",
         "B": "Sofya",
         "C": "Tiran",
@@ -261,7 +301,7 @@
     },
     {
         "SoruID": 3513603,
-        "SoruMetni": "<span><span style=\"left: 118.11px; top: 823.552px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.964223);\">\"Atatürk’ün ölümüne neden olan ................ ra</span></span><span><span style=\"left: 94.4882px; top: 845.218px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.947273);\">hatsızlığının ilk belirtileri önce aralıklarla daha son</span></span><span><span style=\"left: 94.4882px; top: 866.885px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.965691);\">ra sık sık görülen burun kanamaları ve bacakların</span></span><span><span style=\"left: 94.4882px; top: 888.552px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.971044);\">da kaşıntı ile ortaya çıkmıştır \"<br/></span></span><br/> <span><span style=\"left: 94.4882px; top: 888.552px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.971044);\">Yukarıdaki<span> boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</span></span></span>",
+        "SoruMetni": "<span><span style=\"left: 118.11px; top: 823.552px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.964223);\">\"Atatürk’ün ölümüne neden olan ................ ra</span></span><span><span style=\"left: 94.4882px; top: 845.218px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.947273);\">hatsızlığının ilk belirtileri önce aralıklarla daha son</span></span><span><span style=\"left: 94.4882px; top: 866.885px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.965691);\">ra sık sık görülen burun kanamaları ve bacakların</span></span><span><span style=\"left: 94.4882px; top: 888.552px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.971044);\">da kaşıntı ile ortaya çıkmıştır \"<br/></span></span><br/><span><span style=\"left: 94.4882px; top: 888.552px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.971044);\">Yukarıdaki<span> boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</span></span></span>",
         "A": "Kalp",
         "B": "Akciğer",
         "C": "Karaciğer",
@@ -281,7 +321,7 @@
     },
     {
         "SoruID": 3513604,
-        "SoruMetni": "<span><span style=\"left: 517.323px; top: 764.476px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.932439);\">“Malik olduğum bütün nukut (nakit para) ve his</span></span><span><span style=\"left: 493.701px; top: 786.143px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.912126);\">se senetleri ile Çankaya’daki menkul ve gayrimenkul </span></span><span><span style=\"left: 493.701px; top: 807.809px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.951185);\">emvalimi, ....................... aşağıdaki şartlarla terk ve </span></span><span><span style=\"left: 493.701px; top: 829.476px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.880821);\">vasiyet ediyorum.\"</span></span><br/><br/><span><span style=\"left: 493.701px; top: 829.476px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.880821);\">Atatürk'ün Vasiyetnamesi'nden <span>aktarılan yukarıdaki cümlede </span> boş bırakılan yere hangi ifade gelmelidir? </span></span>",
+        "SoruMetni": "<span><span style=\"left: 517.323px; top: 764.476px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.932439);\">“Malik olduğum bütün nukut (nakit para) ve his</span></span><span><span style=\"left: 493.701px; top: 786.143px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.912126);\">se senetleri ile Çankaya’daki menkul ve gayrimenkul </span></span><span><span style=\"left: 493.701px; top: 807.809px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.951185);\">emvalimi, ....................... aşağıdaki şartlarla terk ve </span></span><span><span style=\"left: 493.701px; top: 829.476px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.880821);\">vasiyet ediyorum.\"</span></span><br/><span><span style=\"left: 493.701px; top: 829.476px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.880821);\">Atatürk'ün Vasiyetnamesi'nden <span>aktarılan yukarıdaki cümlede </span> boş bırakılan yere hangi ifade gelmelidir? </span></span>",
         "A": "<span><span style=\"left: 493.701px; top: 807.809px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.951185);\">Halk Partisine </span></span>",
         "B": "<span><span style=\"left: 493.701px; top: 807.809px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.951185);\">İş Bankasına<br/></span></span>",
         "C": "<span><span style=\"left: 545.368px; top: 1204.49px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.996281);\">Türk Tarih ve Dil Kurumlarına </span></span>",
@@ -297,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span style=\"left: 517.323px; top: 764.476px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.932439);\">“Malik olduğum bütün nukut (nakit para) ve his</span></span><span><span style=\"left: 493.701px; top: 786.143px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.912126);\">se senetleri ile Çankaya’daki menkul ve gayrimenkul </span></span><span><span style=\"left: 493.701px; top: 807.809px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.951185);\">emvalimi, <strong>Halk Partisi</strong>ne aşağıdaki şartlarla terk ve </span></span><span><span style=\"left: 493.701px; top: 829.476px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.880821);\">vasiyet ediyorum\"</span></span>"
+        "Aciklama": "<span><span style=\"left: 517.323px; top: 764.476px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.932439);\">“Malik olduğum bütün nukut (nakit para) ve his</span></span><span><span style=\"left: 493.701px; top: 786.143px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.912126);\">se senetleri ile Çankaya’daki menkul ve gayrimenkul </span></span><span><span style=\"left: 493.701px; top: 807.809px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.951185);\">emvalimi, <strong>Halk Partisi</strong>ne aşağıdaki şartlarla terk ve </span></span><span><span style=\"left: 493.701px; top: 829.476px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.880821);\">vasiyet ediyorum\"</span></span>"
     },
     {
         "SoruID": 3513605,
-        "SoruMetni": "<span><span style=\"left: 108.661px; top: 997.626px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.98077);\">\"............, sınıfsız, ayrıcalıksız ve kaynaşmış bir </span></span><span><span style=\"left: 108.661px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.00501);\">toplum</span> <span style=\"left: 172.076px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.974985);\">yaratmanın</span> <span style=\"left: 263.67px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.961598);\">temel</span> <span style=\"left: 314.013px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.980802);\">anahtarıdır.\" </span> </span><br/><br/><span><span style=\"left: 314.013px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.980802);\">Yukarıdaki cümlede boş bırakılan yer,  aşağıdaki kavramlardan hangisi tarafından doldurulmalıdır?</span></span>",
+        "SoruMetni": "<span><span style=\"left: 108.661px; top: 997.626px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.98077);\">\"............, sınıfsız, ayrıcalıksız ve kaynaşmış bir </span></span><span><span style=\"left: 108.661px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.00501);\">toplum</span> <span style=\"left: 172.076px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.974985);\">yaratmanın</span> <span style=\"left: 263.67px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.961598);\">temel</span> <span style=\"left: 314.013px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.980802);\">anahtarıdır.\" </span> </span><br/><span><span style=\"left: 314.013px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.980802);\">Yukarıdaki cümlede boş bırakılan yer, aşağıdaki kavramlardan hangisi tarafından doldurulmalıdır?</span></span>",
         "A": "Devletçilik",
         "B": "Halkçılık",
         "C": "Laiklik",
@@ -317,14 +357,14 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span style=\"left: 108.661px; top: 997.626px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.98077);\">Halkçılık, sınıfsız, ayrıcalıksız ve kaynaşmış bir </span></span><span><span style=\"left: 108.661px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.00501);\">toplum</span> <span style=\"left: 172.076px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.974985);\">yaratmanın</span> <span style=\"left: 263.67px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.961598);\">temel</span> <span style=\"left: 314.013px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.980802);\">anahtarıdır.</span> </span>"
+        "Aciklama": "<span><span style=\"left: 108.661px; top: 997.626px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.98077);\">Halkçılık, sınıfsız, ayrıcalıksız ve kaynaşmış bir </span></span><span><span style=\"left: 108.661px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.00501);\">toplum</span> <span style=\"left: 172.076px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.974985);\">yaratmanın</span> <span style=\"left: 263.67px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.961598);\">temel</span> <span style=\"left: 314.013px; top: 1019.29px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.980802);\">anahtarıdır.</span> </span>"
     },
     {
         "SoruID": 3513606,
         "SoruMetni": "<span><span style=\"left: 479.528px; top: 346.445px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.938201);\">Aşağıdakilerden hangisi Ata</span></span><span><span style=\"left: 479.528px; top: 368.112px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.974512);\">türkçü düşünce sisteminin temel özelliklerini des</span></span><span><span style=\"left: 479.528px; top: 389.779px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.962951);\">tekleyen bütünleyici ilkelerden <strong>değildir?</strong></span></span><span><span style=\"left: 479.528px; top: 433.112px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.966745);\"><br/></span></span>",
         "A": "<span><span style=\"left: 683.417px; top: 389.779px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.948301);\">Tam bağımsızlık</span></span>",
         "B": "<span><span style=\"left: 683.417px; top: 389.779px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.948301);\">Mill</span></span><span><span style=\"left: 831.509px; top: 389.779px; font-size: 18.3333px; font-family: serif;\">î </span></span><span><span style=\"left: 479.528px; top: 411.445px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.927971);\">egemenlik</span></span>",
-        "C": "<span><span style=\"left: 479.528px; top: 411.445px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.927971);\"> Küreselcilik</span></span>",
+        "C": "<span><span style=\"left: 479.528px; top: 411.445px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.927971);\"> Küreselcilik</span></span>",
         "D": "<span><span style=\"left: 479.528px; top: 411.445px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.927971);\">Çağdaşlaşma</span></span>",
         "E": "<span><span style=\"left: 479.528px; top: 411.445px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.927971);\">Akıl ve bilim</span></span>",
         "DogruCevap": "C",
@@ -357,11 +397,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mustafa Kemal Atatürk'ün öğrenim gördüğü okulların sıralaması:<br/> Mahalle Mektebi-Şemsi Efendi İlkokulu-Mülkiye Rüştiyesi-Selanik Askerî Rüştiyesi-Manastır Askerî İdadisi-Kara Harp Okulu"
+        "Aciklama": "Mustafa Kemal Atatürk'ün öğrenim gördüğü okulların sıralaması:<br/>Mahalle Mektebi-Şemsi Efendi İlkokulu-Mülkiye Rüştiyesi-Selanik Askerî Rüştiyesi-Manastır Askerî İdadisi-Kara Harp Okulu"
     },
     {
         "SoruID": 3513610,
-        "SoruMetni": "Kurmay Yüzbaşı Mustafa Kemal’in ilk görev yeri, merkezi Şam’da bulunan.........’dur.<br/> Yukarıda boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Kurmay Yüzbaşı Mustafa Kemal’in ilk görev yeri, merkezi Şam’da bulunan.........’dur.<br/>Yukarıda boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "1. Ordu",
         "B": "3. Ordu",
         "C": "5. Ordu",
@@ -381,7 +421,7 @@
     },
     {
         "SoruID": 3513611,
-        "SoruMetni": "Mustafa Kemal Paşa, İzmir’in 15 Mayıs 1919 tarihinde Yunanlılar tarafından işgal edilmesinden bir gün sonra 16 Mayıs 1919 tarihinde ................. ile Samsun’a hareket etmiş; 19 Mayıs<br/>1919 tarihinde Samsun’a ayak basmıştır.<br/> Yukarıda boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Mustafa Kemal Paşa, İzmir’in 15 Mayıs 1919 tarihinde Yunanlılar tarafından işgal edilmesinden bir gün sonra 16 Mayıs 1919 tarihinde ................. ile Samsun’a hareket etmiş; 19 Mayıs<br/>1919 tarihinde Samsun’a ayak basmıştır.<br/>Yukarıda boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Anafartalar Vapuru",
         "B": "Gelibolu Vapuru",
         "C": "Havza Vapuru",
@@ -418,6 +458,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Mustafa Kemal Paşa’nın Türk halkına ilk seslenişi, 28 Mayıs 1919 tarihinde Havza Genelgesi (Bildirisi) ile gerçekleşmiştir."
+    },
+    {
+        "SoruID": 3513613,
+        "SoruMetni": "Aşağıdakilerden hangi muharebede Başkomutan Mustafa Kemal Paşa, Batı cephesi kuvvetlerine tarihe geçen: “Hatt-ı müdafaa yoktur, sathı müdafaa vardır. O satıh, bütün vatandır. Vatanın her karış toprağı vatandaşın kanıyla ıslanmadıkça terk olunamaz.” emrini vermiştir?",
+        "A": "Başkomutan Meydan Muharebesi",
+        "B": "Birinci İnönü Muharebesi",
+        "C": "İkinci İnönü Muharebesi",
+        "D": "Sakarya Meydan Muharebesi",
+        "E": "Nablus Meydan Muharebesi",
+        "DogruCevap": "D",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 2,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:49.813777",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Sakarya Muharebesi, Türk Ordusu’nun zaferiyle sonuçlanmıştır. Bu muharebede Başkomutan Mustafa Kemal Paşa, Batı cephesi kuvvetlerine tarihe geçen şu emrini vermiştir: “Hatt-ı müdafaa yoktur, sathı müdafaa vardır. O satıh, bütün vatandır. Vatanın her karış toprağı vatandaşın kanıyla ıslanmadıkça terk olunamaz.” <strong>Sakarya Meydan </strong>Muharebesini başarıyla yöneten ve Yunan askerini geri çekilmeye mecbur eden Başkomutan Mustafa Kemal Paşa’ya 19 Eylül 1921 tarihinde TBMM tarafından Müşir (Mareşal) rütbesi ve Gazilik unvanı verilmiştir."
     },
     {
         "SoruID": 3513614,
@@ -461,7 +521,7 @@
     },
     {
         "SoruID": 3513616,
-        "SoruMetni": "Atatürk’ün .............. anlayışı, demokrasi ve ulusal egemenlik olmak üzere iki temel esas üzerine inşa edilmiştir.<br/> Yukarıda boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Atatürk’ün .............. anlayışı, demokrasi ve ulusal egemenlik olmak üzere iki temel esas üzerine inşa edilmiştir.<br/>Yukarıda boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Milliyetçilik",
         "B": "Halkçılık",
         "C": "Cumhuriyetçilik",
@@ -497,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk toplumunun yapısına uygun hâle getirilen ve bu hâliyle özgün olan Atatürk ilkelerinin, Türk Devletine yansımaları da aynı anda gerçekleşmemiştir. Kurtuluş Savaşı yıllarında Milliyetçilik ve Halkçılık uygulanırken Cumhuriyetçilik, Laiklik ve İnkılapçılık, Cumhuriyetin ilanı ile devlet ve toplum pratiğine geçmiştir. En son olarak 1930’lu yılların başında <strong>Devletçilik</strong> ilkesi uygulanmaya başlanmıştır."
+        "Aciklama": "Türk toplumunun yapısına uygun hâle getirilen ve bu hâliyle özgün olan Atatürk ilkelerinin, Türk Devletine yansımaları da aynı anda gerçekleşmemiştir. Kurtuluş Savaşı yıllarında Milliyetçilik ve Halkçılık uygulanırken Cumhuriyetçilik, Laiklik ve İnkılapçılık, Cumhuriyetin ilanı ile devlet ve toplum pratiğine geçmiştir. En son olarak 1930’lu yılların başında <strong>Devletçilik</strong> ilkesi uygulanmaya başlanmıştır."
     },
     {
         "SoruID": 3513618,
@@ -517,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Devletçilik ilkesi esas itibariyle Kurtuluş Savaşı’ndan ve Türkiye Cumhuriyeti’nin<br/>kuruluşundan sonra ülkenin en kısa zamanda kalkınması sürecinde, özellikle ekonomik alanda bireylerin yapamayacağı bazı işleri devletin üzerine alması esasına dayanmaktadır Devletçilik ilkesi, Türk ekonomisini geliştirmek, sosyal ve kültürel kalkınmasını sağlamak amacıyla<br/>uygulamaya konulmuştur"
+        "Aciklama": "Devletçilik ilkesi esas itibariyle Kurtuluş Savaşı’ndan ve Türkiye Cumhuriyeti’nin<br/>kuruluşundan sonra ülkenin en kısa zamanda kalkınması sürecinde, özellikle ekonomik alanda bireylerin yapamayacağı bazı işleri devletin üzerine alması esasına dayanmaktadır Devletçilik ilkesi, Türk ekonomisini geliştirmek, sosyal ve kültürel kalkınmasını sağlamak amacıyla<br/>uygulamaya konulmuştur"
     },
     {
         "SoruID": 3513619,
@@ -597,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bulgaristan ile Eylül 1913’te barış antlaşması imzalanmasının ardından 27 Ekim 1913 tarihinde Kurmay Binbaşı Mustafa Kemal, Sofya’ya askeri ataşe olarak tayin edilmiştir. Kurmay Binbaşı Mustafa Kemal, 6 Kasım 1913’te de Dördüncü Rütbeden Osmanî nişanı ile taltif edilmiştir. 11 Ocak 1914 tarihinden itibaren Bükreş, Belgrat ve Çetine askerî ataşeliklerini yürütme görevi de kendisine verilmiştir. Sofya’da görevli iken rütbesinin 1 Mart 1914’te yarbaylığa yükselmesinin ardından Mustafa Kemal’e, 11 Mart 1914’te Fransız Hükûmeti’nce Şövalye rütbesinin Legion d’Honneur nişanı verilmiştir. Doğru cevap D'dir."
+        "Aciklama": "Bulgaristan ile Eylül 1913’te barış antlaşması imzalanmasının ardından 27 Ekim 1913 tarihinde Kurmay Binbaşı Mustafa Kemal, Sofya’ya askeri ataşe olarak tayin edilmiştir. Kurmay Binbaşı Mustafa Kemal, 6 Kasım 1913’te de Dördüncü Rütbeden Osmanî nişanı ile taltif edilmiştir. 11 Ocak 1914 tarihinden itibaren Bükreş, Belgrat ve Çetine askerî ataşeliklerini yürütme görevi de kendisine verilmiştir. Sofya’da görevli iken rütbesinin 1 Mart 1914’te yarbaylığa yükselmesinin ardından Mustafa Kemal’e, 11 Mart 1914’te Fransız Hükûmeti’nce Şövalye rütbesinin Legion d’Homeur nişanı verilmiştir.<br>Bulgaristan ile Eylül 1913’te barış antlaşması imzalanmasının ardından 27 Ekim 1913 tarihinde Kurmay Binbaşı Mustafa Kemal, Sofya’ya askeri ataşe olarak tayin edilmiştir. Kurmay Binbaşı Mustafa Kemal, 6 Kasım 1913’te de Dördüncü Rütbeden Osmanî nişanı ile taltif edilmiştir. 11 Ocak 1914 tarihinden itibaren Bükreş, Belgrat ve Çetine askerî ataşeliklerini yürütme görevi de kendisine verilmiştir. Sofya’da görevli iken rütbesinin 1 Mart 1914’te yarbaylığa yükselmesinin ardından Mustafa Kemal’e, 11 Mart 1914’te Fransız Hükûmeti’nce Şövalye rütbesinin Legion d’Honneur nişanı verilmiştir. Doğru cevap D'dir."
     },
     {
         "SoruID": 3513649,
@@ -800,6 +860,26 @@
         "Aciklama": "Milli Egemenlik"
     },
     {
+        "SoruID": 3513689,
+        "SoruMetni": "Atatürk ilk öğrenimini aşağıdaki eğitim kurumlarından hangisinde sürdürmüştür?",
+        "A": "Mülkiye mektebi",
+        "B": "Şemsi Efendi İlkokulu",
+        "C": "Sıbyan mektebi",
+        "D": "Mekteb-i Osmani",
+        "E": "Acemi Oğlanlar Ocağı",
+        "DogruCevap": "B",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 2,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:49.820722",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Mustafa Kemal Atatürk, babasının da desteğiyle Şemsi Efendi İlkokulunda eğitimine devam etmiştir."
+    },
+    {
         "SoruID": 3513690,
         "SoruMetni": "Atatürk'e hitabet ve edebiyat sevgisini aşılayan şair arkadaşı aşağıdakilerden hangisidir?",
         "A": "Ömer Naci",
@@ -897,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mustafa Kemal Paşa, 8 Haziran 1919’da Osmanlı Hükûmeti tarafından İstanbul’a geri çağrılmasına rağmen bu emre uymayarak, Albay Refet (Bele) Bey ile birlikte Amasya’ya geçmiştir. Burada Ali Fuat Paşa ve Rauf Bey ile buluşan Mustafa Kemal Paşa, Erzurum’daki Kâzım Paşa ve Konya’daki Mersinli Cemal Paşa ile de haberleşerek, 22 Haziran 1919’da Amasya Genelgesi’nin yayımlanmasını sağlamıştır. Bu genelgede; yurdun bütünlüğünün, milletin istiklalinin tehlikede olduğuna dikkat çekilerek ve çözüm olarak “Milletin istiklalini yine milletin azim ve kararı kurtaracaktır.” ifadesine yer verilmiştir. Bir ihtilal beyannamesi niteliğinde olan Amasya Genelgesi; millî egemenliğe ve millî bağımsızlığa yer vererek, vatanın bir bütün olarak kurtuluşunu savunması açısından önem arz etmektedir. Cevap A şıkkıdır."
+        "Aciklama": "Mustafa Kemal Paşa, 8 Haziran 1919’da Osmanlı Hükûmeti tarafından İstanbul’a geri çağrılmasına rağmen bu emre uymayarak, Albay Refet (Bele) Bey ile birlikte Amasya’ya geçmiştir. Burada Ali Fuat Paşa ve Rauf Bey ile buluşan Mustafa Kemal Paşa, Erzurum’daki Kâzım Paşa ve Konya’daki Mersinli Cemal Paşa ile de haberleşerek, 22 Haziran 1919’da Amasya Genelgesi’nin yayımlanmasını sağlamıştır. Bu genelgede; yurdun bütünlüğünün, milletin istiklalinin tehlikede olduğuna dikkat çekilerek ve çözüm olarak “Milletin istiklalini yine milletin azim ve kararı kurtaracaktır.” ifadesine yer verilmiştir. Bir ihtilal beyannamesi niteliğinde olan Amasya Genelgesi; millî egemenliğe ve millî bağımsızlığa yer vererek, vatanın bir bütün olarak kurtuluşunu savunması açısından önem arz etmektedir. Cevap A şıkkıdır."
     },
     {
         "SoruID": 3513695,
@@ -918,6 +998,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "23 Temmuz-7 Ağustos 1919 tarihleri arasında toplanan Erzurum Kongresi’nde; vatanın bir bütün olduğu ve parçalanamayacağı, manda ve himayenin kabul edilemeyeceği, azınlıklara ayrıcalıklar verilemeyeceği yönünde kararlar alınmıştır. Ayrıca bahse konu Kongrede alınan kararla oluşturulan 9 kişilik Heyet-i Temsiliye (Temsil Kurulu)‘nin başkanlığına Mustafa Kemal Paşa getirilmiştir. Askerlik görevinden istifa eden Mustafa Kemal Paşa’ya sivil önderlik yolunu da açan bu Kongre, Doğu Anadolu’daki örgütlenme açısından önemli bir dönüm noktası olarak tarihe geçmiştir. Cevap B seçeneğidir."
+    },
+    {
+        "SoruID": 3513696,
+        "SoruMetni": "Başkomutan Mustafa Kemal Paşa, “Hatt-ı müdafaa yoktur, sathı müdafaa vardır. O satıh, bütün vatandır. Vatanın her karış toprağı vatandaşın kanıyla ıslanmadıkça terk olunamaz.” sözlerini hangi muharebe esnasında dile getirmiştir?",
+        "A": "Çanakkale Savaşı",
+        "B": "Trablusgarp Savaşı",
+        "C": "Sakarya Meydan Muharebesi",
+        "D": "Balkan Savaşları",
+        "E": "Birinci İnönü Muharebesi",
+        "DogruCevap": "C",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 2,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:50.005988",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "... Türk Ordusu, 22 gün boyunca Yunanlılara karşı büyük bir mücadele vermiş ve Sakarya Muharebesi, Türk Ordusu’nun zaferiyle sonuçlanmıştır. Bu muharebede Başkomutan Mustafa Kemal Paşa, Batı cephesi kuvvetlerine tarihe geçen şu emrini vermiştir: “Hatt-ı müdafaa yoktur, sathı müdafaa vardır. O satıh, bütün vatandır. Vatanın her karış toprağı vatandaşın kanıyla ıslanmadıkça terk olunamaz.” Sakarya Meydan Muharebesini başarıyla yöneten ve Yunan askerini geri çekilmeye mecbur eden Başkomutan Mustafa Kemal Paşa’ya 19 Eylül 1921 tarihinde TBMM tarafından Müşir (Mareşal) rütbesi ve Gazilik unvanı verilmiştir. Cevap C şıkkıdır."
     },
     {
         "SoruID": 3513699,
@@ -960,6 +1060,26 @@
         "Aciklama": "Atatürk ilkeleri, Türk toplumunun çağdaşlaşma yönünü belirleyen, Atatürk inkılaplarına temel oluşturan esaslardır. Atatürk temel ilkeleri Cumhuriyetçilik, Milliyetçilik, Halkçılık, Laiklik, Devletçilik ve İnkılapçılık olarak adlandırılmaktadır. Batıcılık temel ilkeler arasında yer almamaktadır. Doğru seçenek E'dir."
     },
     {
+        "SoruID": 3513728,
+        "SoruMetni": "I. Dünya Savaşında Mustafa Kemal'in komutanlığında Osmanlı Devleti'nin son muharebesi ve zaferi olarak tarihe geçen muharebe aşağıdakilerden hangisidir?",
+        "A": "Katma Muharebesi",
+        "B": "I. Anafartalar Muharebesi",
+        "C": "II. Anafartalar Muharebesi",
+        "D": "Nablus Meydan Muharebesi",
+        "E": "I. İnönü Muharebesi",
+        "DogruCevap": "A",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 2,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:49.796321",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Mustafa Kemal'in önderliğinde Birinci Dünya Savaşı’nda Osmanlı Ordusu’nun son muharebesi ve zaferi olarak \"Katma Muharebesi\" tarihe geçmiştir."
+    },
+    {
         "SoruID": 3513730,
         "SoruMetni": "Mustafa Kemal Atatürk'ün Türk İstiklal Harbi döneminde halka ilk seslenişi olarak tarihe geçen gelişme aşağıdakilerden hangisidir?",
         "A": "Amasya Genelgesi",
@@ -998,6 +1118,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Sakarya Meydan Muharebesini başarıyla yöneten ve Yunan askerini geri çekilmeye mecbur eden Başkomutan Mustafa Kemal Paşa’ya 19 Eylül 1921 tarihinde TBMM tarafından Müşir (Mareşal) rütbesi ve Gazilik unvanı verilmiştir."
+    },
+    {
+        "SoruID": 3513732,
+        "SoruMetni": "5.Kolordunun 19-20 Nisan 1911 tarihleri arasında yaptığı ve Mustafa Kemal’in de Kıdemli Yüzbaşı rütbesi ile katıldığı bir askerî tatbikatın not ve krokilerini içeren eseri aşağıdakilerden hangisidir?",
+        "A": "Tâbiye Tatbikat Seyahati",
+        "B": "Nutuk",
+        "C": "Cumalı Ordugâhı- Süvari: Bölük, Alay, Liva Talim ve Manevraları",
+        "D": "Takımın Muharebe Talimi",
+        "E": "Atatürk’ün Not Defterleri",
+        "DogruCevap": "A",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 2,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:49.799461",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "5.Kolordunun 19-20 Nisan 1911 tarihleri arasında yaptığı ve Mustafa Kemal’in de Kıdemli Yüzbaşı rütbesi ile katıldığı bir askerî tatbikatın not ve krokilerini içeren eseri Tâbiye Tatbikat Seyahati'dir."
     },
     {
         "SoruID": 3513733,

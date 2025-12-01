@@ -16,15 +16,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376286,
-        "SoruMetni": "<strong>Word programında oluşturulan belgeyi kaydetmek için kullanılan kısayol tuş bileşeni aşağıdakilerden hangisidir?</strong><br/>",
-        "A": "CTRL+C<br/>",
-        "B": "CTRL+S<br/>",
-        "C": "CTRL+Z<br/>",
-        "D": "CTRL+D<br/>",
+        "SoruMetni": "<strong>Word programında oluşturulan belgeyi kaydetmek için kullanılan kısayol tuş bileşeni aşağıdakilerden hangisidir?</strong>",
+        "A": "CTRL+C",
+        "B": "CTRL+S",
+        "C": "CTRL+Z",
+        "D": "CTRL+D",
         "E": "CTRL+K",
         "DogruCevap": "B",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -35,7 +36,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376287,
@@ -54,7 +56,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376288,
@@ -73,15 +76,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376289,
-        "SoruMetni": "<strong>Word programında metinlerin seslendirilmesi işlevini gören sesli oku komutu aşağıdaki sekmelerin hangisinde yer alır?</strong><br/>",
-        "A": "Giriş<br/>",
-        "B": "Başvurular<br/>",
+        "SoruMetni": "<strong>Word programında metinlerin seslendirilmesi işlevini gören sesli oku komutu aşağıdaki sekmelerin hangisinde yer alır?</strong>",
+        "A": "Giriş",
+        "B": "Başvurular",
         "C": "Tasarım",
-        "D": "Görünüm<br/>",
+        "D": "Görünüm",
         "E": "Gözden geçir",
         "DogruCevap": "E",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -92,15 +96,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376290,
-        "SoruMetni": "<strong>Word programında bir metnin yazı tipini değiştirmek için kullanılan kısayol tuş bileşeni aşağıdakilerden hangisidir?</strong><br/>",
-        "A": "CTRL+SHIFT+Y<br/>",
-        "B": "CTRL+SHIFT+P<br/>",
-        "C": "ALT+SHIFT+Y<br/>",
-        "D": "ALT+SHIFT+P<br/>",
+        "SoruMetni": "<strong>Word programında bir metnin yazı tipini değiştirmek için kullanılan kısayol tuş bileşeni aşağıdakilerden hangisidir?</strong>",
+        "A": "CTRL+SHIFT+Y",
+        "B": "CTRL+SHIFT+P",
+        "C": "ALT+SHIFT+Y",
+        "D": "ALT+SHIFT+P",
         "E": "CTRL+ALT+Y",
         "DogruCevap": "A",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -111,15 +116,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376291,
-        "SoruMetni": "<strong>Word programında bir metindeki küçük/büyük harf değiştirmek için kullanılan kısayol tuş bileşeni aşağıdakilerden hangisidir?</strong><br/>",
-        "A": "SHIFT+F1<br/>",
-        "B": "SHIFT+F3<br/>",
-        "C": "ALT+F1<br/>",
-        "D": "ALT+F3<br/>",
+        "SoruMetni": "<strong>Word programında bir metindeki küçük/büyük harf değiştirmek için kullanılan kısayol tuş bileşeni aşağıdakilerden hangisidir?</strong>",
+        "A": "SHIFT+F1",
+        "B": "SHIFT+F3",
+        "C": "ALT+F1",
+        "D": "ALT+F3",
         "E": "ALT+SHIFT+F1",
         "DogruCevap": "B",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376292,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376293,
@@ -168,15 +176,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376294,
-        "SoruMetni": "<strong>Word programında bir metnin veya nesnenin biçimsel özelliklerinin kopyalanması için kullanılan kısayol tuş bileşeni aşağıdakilerden hangisidir?</strong><br/>",
-        "A": "CTRL+SHIFT+K<br/>",
-        "B": "CTRL+ SHIFT+P<br/>",
-        "C": "CTRL+ SHIFT+T<br/>",
-        "D": "CTRL+ SHIFT+C<br/>",
+        "SoruMetni": "<strong>Word programında bir metnin veya nesnenin biçimsel özelliklerinin kopyalanması için kullanılan kısayol tuş bileşeni aşağıdakilerden hangisidir?</strong>",
+        "A": "CTRL+SHIFT+K",
+        "B": "CTRL+ SHIFT+P",
+        "C": "CTRL+ SHIFT+T",
+        "D": "CTRL+ SHIFT+C",
         "E": "CTRL+ SHIFT+V",
         "DogruCevap": "D",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376673,
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376674,
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376675,
@@ -244,7 +256,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376677,
@@ -263,7 +276,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376679,
@@ -282,7 +296,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376680,
@@ -301,7 +316,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 392891,
@@ -320,11 +336,12 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 394264,
-        "SoruMetni": "I. Sekmeler ve komutlar olmak üzere iki ana bileşenden oluşmaktadır.<br/> <br/>II. Üst sırada 10 temel sekme vardır.<br> <br/>III. Her sekme birbiriyle ilişkili ögeleri bir arada barındıran birkaç gruptan oluşur.<br> <br/><strong>MS Word'de yer alan şerit yapısı ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong></br></br>",
+        "SoruMetni": "I. Sekmeler ve komutlar olmak üzere iki ana bileşenden oluşmaktadır.<br/>II. Üst sırada 10 temel sekme vardır.<br/>III. Her sekme birbiriyle ilişkili ögeleri bir arada barındıran birkaç gruptan oluşur.<br/><strong>MS Word'de yer alan şerit yapısı ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong></br></br>",
         "A": "Yalnız II",
         "B": "I ve II",
         "C": "I ve III",
@@ -339,6 +356,7 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     }
 ]

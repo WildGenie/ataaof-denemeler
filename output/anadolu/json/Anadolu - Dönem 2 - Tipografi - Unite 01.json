@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3769671,
-        "SoruMetni": "Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ne ad verilir?",
+        "SoruMetni": "Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ne ad verilir?",
         "A": "Logogram",
         "B": "Pictogram",
         "C": "Amblem",
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Linotype, Ottmar Mergenthaler tarafından 1886 yılında icat edilmiştir. Klavye, çoğaltma kalıbı mağazası ve kurşun döküm birimiyle sıcak kurşun satır dökümü yapan bir makine olarak tasarlanmıştır. Bu döneme kadar matbaada basılabilen boyutlar sınırlı iken, Linotype ile geniş sayfalarda basımlar yapılabilmiştir. 1980’lere kadar gazeteler, dergiler ve posterler için küçük boyutlu gövde metni olmak üzere yazı tipini ayarlamak için temel yöntemlerden biri olarak kullanılmıştır."
+        "Aciklama": "Linotype, Ottmar Mergenthaler tarafından 1886 yılında icat edilmiştir. Klavye, çoğaltma kalıbı mağazası ve kurşun döküm birimiyle sıcak kurşun satır dökümü yapan bir makine olarak tasarlanmıştır. Bu döneme kadar matbaada basılabilen boyutlar sınırlı iken, Linotype ile geniş sayfalarda basımlar yapılabilmiştir. 1980’lere kadar gazeteler, dergiler ve posterler için küçük boyutlu gövde metni olmak üzere yazı tipini ayarlamak için temel yöntemlerden biri olarak kullanılmıştır."
     },
     {
         "SoruID": 3769675,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1400’lerde Gutenberg, öncesinde tahta baskı tekniği ile çoğaltıldığı bilinen değerli dini<br/>temalı baskıları ve değerli el yazma eserleri aynı nitelikte ve hızla çoğaltmak amacıyla bir baskı<br/>aleti almıştır. Ancak süreç içerisinde baskıyı mükemmelleştirmeye çalışmış; döküm yapabilmek için araçları ve daha iyi baskı için malzemeleri iyileştirmek üzerine yoğunlaşmıştır.<br/>Kağıdın hurufat dizgisine yapışmasını önleyecek, tek değerde ve düzgün dağılım gösteren doğru mürekkep kıvamını oluşturmuştur. Gutenberg öncesinde tahta baskılar dışında metal baskı da kullanılıyordu. Tahta baskılarda baskı kalitesi metal baskı kadar net olamıyordu. Bu dönemde Gutenberg’in getirdiği en büyük yenilik, metal baskının hareketli hurufat ile yapılabilmesidir. Böylece harflerin, farklı dizilimler ile farklı<br/>kelimeleri oluşturacak şekilde hareketli kullanımı mümkün olmuştur.<br/><br/>1448’de basılan Astronomi Takvimi, basımevinin bilinen ilk ürünüdür. Gutenberg’in oluşturduğu sistem ile görsel bir malzemenin pek çok baskısı yapılabilir hale gelmiştir."
+        "Aciklama": "1400’lerde Gutenberg, öncesinde tahta baskı tekniği ile çoğaltıldığı bilinen değerli dini<br/>temalı baskıları ve değerli el yazma eserleri aynı nitelikte ve hızla çoğaltmak amacıyla bir baskı<br/>aleti almıştır. Ancak süreç içerisinde baskıyı mükemmelleştirmeye çalışmış; döküm yapabilmek için araçları ve daha iyi baskı için malzemeleri iyileştirmek üzerine yoğunlaşmıştır.<br/>Kağıdın hurufat dizgisine yapışmasını önleyecek, tek değerde ve düzgün dağılım gösteren doğru mürekkep kıvamını oluşturmuştur. Gutenberg öncesinde tahta baskılar dışında metal baskı da kullanılıyordu. Tahta baskılarda baskı kalitesi metal baskı kadar net olamıyordu. Bu dönemde Gutenberg’in getirdiği en büyük yenilik, metal baskının hareketli hurufat ile yapılabilmesidir. Böylece harflerin, farklı dizilimler ile farklı<br/>kelimeleri oluşturacak şekilde hareketli kullanımı mümkün olmuştur.<br/>1448’de basılan Astronomi Takvimi, basımevinin bilinen ilk ürünüdür. Gutenberg’in oluşturduğu sistem ile görsel bir malzemenin pek çok baskısı yapılabilir hale gelmiştir."
     },
     {
         "SoruID": 3769691,
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3769692,
-        "SoruMetni": "1800’lerde desenlerin otomatik olarak kumaş dokumasına aktarabilen, 1887’de yazı karakterlerini iki yana yaslı satırlarda ayarlayan basım tekniği aşağıdakilerden hangisidir?",
+        "SoruMetni": "1800’lerde desenlerin otomatik olarak kumaş dokumasına aktarabilen, 1887’de yazı karakterlerini iki yana yaslı satırlarda ayarlayan basım tekniği aşağıdakilerden hangisidir?",
         "A": "Monotype",
         "B": "Linotype",
         "C": "Jacquard kartları",
@@ -177,11 +177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Monotype<br/>Henüz 1800lerin başında patenti alınan delikli Jacquard kartları ile karmaşık desenlerin<br/><strong>otomatik olarak kumaş dokumasına aktarılması sağlanmıştı.</strong> Üzerine delik açılmış Jacquard<br/>kartları gibi delikli kağıttan bir dizgi makinesini çalıştırma konsepti, ilk olarak William Martin tarafından 1800 lerin ortalarında patentlenmiştir. Bu sistem kısa bir süre sonra Alexander Mackie tarafından geliştirilmiş, ancak o dönem mekanize dizgi için gerekli işlevsellikte olmaması nedeniyle yeterince talep görmemiştir.<br/>1887’de Tolbert Lanston, kurmuş olduğu Lanston Type Machine Company’de Linotype makinesi gibi <strong>yazı satırları yerine tek tek yazı karakterlerini iki yana yaslı satırlarda ayarlayan bir makine olan Monotype makinesinin prototipini üretmiştir.</strong> Lanston’ın ilk <strong>dizgi makinesi</strong>, piyano rulosu gibi bir kağıt makarası üzerinde, bir işin delikli kaydını üreten bir klavyeden oluşmaktadır. Monotype makinası ile bilinen ilk baskı 1889 yılında yapılmıştır. İlk baskıda Monotype baskı makinasını ayrıntılı bir şekilde anlatan bir broşür üretilmiştir.<br/><br/>"
+        "Aciklama": "Monotype<br/>Henüz 1800lerin başında patenti alınan delikli Jacquard kartları ile karmaşık desenlerin<br/><strong>otomatik olarak kumaş dokumasına aktarılması sağlanmıştı.</strong> Üzerine delik açılmış Jacquard<br/>kartları gibi delikli kağıttan bir dizgi makinesini çalıştırma konsepti, ilk olarak William Martin tarafından 1800 lerin ortalarında patentlenmiştir. Bu sistem kısa bir süre sonra Alexander Mackie tarafından geliştirilmiş, ancak o dönem mekanize dizgi için gerekli işlevsellikte olmaması nedeniyle yeterince talep görmemiştir.<br/>1887’de Tolbert Lanston, kurmuş olduğu Lanston Type Machine Company’de Linotype makinesi gibi <strong>yazı satırları yerine tek tek yazı karakterlerini iki yana yaslı satırlarda ayarlayan bir makine olan Monotype makinesinin prototipini üretmiştir.</strong> Lanston’ın ilk <strong>dizgi makinesi</strong>, piyano rulosu gibi bir kağıt makarası üzerinde, bir işin delikli kaydını üreten bir klavyeden oluşmaktadır. Monotype makinası ile bilinen ilk baskı 1889 yılında yapılmıştır. İlk baskıda Monotype baskı makinasını ayrıntılı bir şekilde anlatan bir broşür üretilmiştir."
     },
     {
         "SoruID": 3769700,
-        "SoruMetni": "<strong>Kavram </strong><br/> <ol> <li>Piktogram  </li> <li>İdeogram</li> <li>Trajan Kapital</li> <li>Logogram</li> <li>Hiyeroglif yazı</li> </ol> <strong>         Tanım</strong><br/> <ol style=\"list-style-type: upper-alpha;\"> <li>Bir düşünceyi betimlemek için kullanılan resim ya da grafik gibi basit göstergeler              </li> <li>Bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgeler                       </li> <li>Herhangi bir ses ya da hece değil, doğrudan bir kelime ya da ifadeyi anlatan sembollerin genel adı   </li> </ol> Yazı biçemleri ile ilgili yukarıdaki kavram ve tanımların doğru eşleştirmesi aşağıdakilerin hangisinde verilmiştir?",
+        "SoruMetni": "<strong>Kavram </strong><br/><ol> <li>Piktogram </li> <li>İdeogram</li> <li>Trajan Kapital</li> <li>Logogram</li> <li>Hiyeroglif yazı</li> </ol> <strong> Tanım</strong><br/><ol style=\"list-style-type: upper-alpha;\"> <li>Bir düşünceyi betimlemek için kullanılan resim ya da grafik gibi basit göstergeler </li> <li>Bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgeler </li> <li>Herhangi bir ses ya da hece değil, doğrudan bir kelime ya da ifadeyi anlatan sembollerin genel adı </li> </ol> Yazı biçemleri ile ilgili yukarıdaki kavram ve tanımların doğru eşleştirmesi aşağıdakilerin hangisinde verilmiştir?",
         "A": "1-A, 2-B, 3-C",
         "B": "1-B, 2-A, 4-C",
         "C": "2-A, 3-C, 4-B",
@@ -197,11 +197,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Piktogramlar,</strong> bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelerdir.<br/> <strong>Logogram,</strong> herhangi bir ses ya da hece değil, doğrudan bir kelime ya da ifadeyi anlatan sembollerin genel adıdır.<br/> <strong>İdeogram,</strong> bir düşünceyi betimlemek için kullanılan resim ya da grafik gibi basit gösterge olarak tanımlanabilir.<br/> Miladi yılların başında İngiltere’den Mısır’a, İspanya’dan İran Körfezi’ne kadar büyük bir güç olan Roma İmparatorluğu, kazanılan zaferler için taklar, geçitler ve dikili taşlar gibi çeşitli anıtlar yaptırmıştır. Bu anıtların üzerlerine de zarif ve estetik bir yazı biçemi ile anıtsal yazılar yazılmıştır. Roma Kapital veya <strong>Trajan Kapital</strong> olarak adlandırılan mermere kazınmış bu yazıların en önemli örneklerinden birisi İmparator Trajan adına dikilen Trajan Sütunu üzerinde görülebilir<br/> Mezopotamya’da ortaya çıkan çivi yazısından sonra eski Mısır uygarlığında, yeni bir yazı çeşidi<br/>olan hiyeroglifler doğmuştur. Çivi yazısına benzeyen fakat farklılıkları olan <strong>hiyeroglifler</strong> M.Ö<br/>3200’lü yıllarda ortaya çıkmıştır. Başlangıçta sadece kral mezarlarının üzerinde yer alan hiyeroglifler,<br/>M.Ö. 2000’lerde kullanılmaya başlanan papirüs üzerine kamış kalemle yazılmıştır"
+        "Aciklama": "<strong>Piktogramlar,</strong> bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelerdir.<br/><strong>Logogram,</strong> herhangi bir ses ya da hece değil, doğrudan bir kelime ya da ifadeyi anlatan sembollerin genel adıdır.<br/><strong>İdeogram,</strong> bir düşünceyi betimlemek için kullanılan resim ya da grafik gibi basit gösterge olarak tanımlanabilir.<br/>Miladi yılların başında İngiltere’den Mısır’a, İspanya’dan İran Körfezi’ne kadar büyük bir güç olan Roma İmparatorluğu, kazanılan zaferler için taklar, geçitler ve dikili taşlar gibi çeşitli anıtlar yaptırmıştır. Bu anıtların üzerlerine de zarif ve estetik bir yazı biçemi ile anıtsal yazılar yazılmıştır. Roma Kapital veya <strong>Trajan Kapital</strong> olarak adlandırılan mermere kazınmış bu yazıların en önemli örneklerinden birisi İmparator Trajan adına dikilen Trajan Sütunu üzerinde görülebilir<br/>Mezopotamya’da ortaya çıkan çivi yazısından sonra eski Mısır uygarlığında, yeni bir yazı çeşidi<br/>olan hiyeroglifler doğmuştur. Çivi yazısına benzeyen fakat farklılıkları olan <strong>hiyeroglifler</strong> M.Ö<br/>3200’lü yıllarda ortaya çıkmıştır. Başlangıçta sadece kral mezarlarının üzerinde yer alan hiyeroglifler,<br/>M.Ö. 2000’lerde kullanılmaya başlanan papirüs üzerine kamış kalemle yazılmıştır"
     },
     {
         "SoruID": 3769734,
-        "SoruMetni": "Bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelere ________ denir?<br/> Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelere ________ denir?<br/>Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Piktogram",
         "B": "Tangram",
         "C": "Anagram",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Piktogramlar, bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelerdir"
+        "Aciklama": "YAZININ KEŞFİ İLE PİKTOGRAMİK VE FONETİK ALFABELERİN GELİŞİMİ<br>Piktogramlar, bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelerdir"
     },
     {
         "SoruID": 3769735,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "M.Ö. 3500 civarında yani günümüzden yaklaşık 5500 yıl önce yazıyı Sümerler icat etmiştir."
+        "Aciklama": "YAZININ KEŞFİ İLE PİKTOGRAMİK VE FONETİK ALFABELERİN GELİŞİMİ<br>M.Ö. 3500 civarında yani günümüzden yaklaşık 5500 yıl önce yazıyı Sümerler icat etmiştir."
     },
     {
         "SoruID": 3769736,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Aramic yazıların ilk defa yaklaşık MÖ 850’de Orta Doğu’da kullanıldığı bilinmektedir."
+        "Aciklama": "YAZININ KEŞFİ İLE PİKTOGRAMİK VE FONETİK ALFABELERİN GELİŞİMİ<br>Aramic yazıların ilk defa yaklaşık MÖ 850’de Orta Doğu’da kullanıldığı bilinmektedir."
     },
     {
         "SoruID": 3769737,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fonetik (sesçil) alfabe, MÖ 15.yy ile MÖ 8.yy arasında, Mısır, Kıbrıs, Girit, Yunan, Anadolu, Ortadoğu ve diğer Ege halkları ile ilişki içinde olan Fenikeliler tarafından geliştirilmiştir."
+        "Aciklama": "Fonetik Alfabelerin Gelişimi<br>Fonetik (sesçil) alfabe, MÖ 15.yy ile MÖ 8.yy arasında, Mısır, Kıbrıs, Girit, Yunan, Anadolu, Ortadoğu ve diğer Ege halkları ile ilişki içinde olan Fenikeliler tarafından geliştirilmiştir."
     },
     {
         "SoruID": 3769738,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dini bilgileri yayma gereksinimi ile manuscript adı verilen el yazmaları ortaya çıkmıştır."
+        "Aciklama": "Fonetik Alfabelerin Gelişimi<br>Dini bilgileri yayma gereksinimi ile manuscript adı verilen el yazmaları ortaya çıkmıştır."
     },
     {
         "SoruID": 3769739,
@@ -317,11 +317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gotik yazıların 11. yüzyılda erken örnekleri görülmüştür."
+        "Aciklama": "Fonetik Alfabelerin Gelişimi<br>Gotik yazıların 11. yüzyılda erken örnekleri görülmüştür."
     },
     {
         "SoruID": 3769740,
-        "SoruMetni": "Bu dönemde _______, harflerin kesilmesi, dizilmesi, basılması süreçlerinin tamamını yürüten kişi idi.<br/> Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Bu dönemde _______, harflerin kesilmesi, dizilmesi, basılması süreçlerinin tamamını yürüten kişi idi.<br/>Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Tipograf",
         "B": "Piktograf",
         "C": "Tomograf",
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu dönemde tipograf, harflerin kesilmesi, dizilmesi, basılması süreçlerinin tamamını yürüten kişi idi."
+        "Aciklama": "MATBAA VE HURUFAT TEKNOLOJİSİ<br>Bu dönemde tipograf, harflerin kesilmesi, dizilmesi, basılması süreçlerinin tamamını yürüten kişi idi."
     },
     {
         "SoruID": 3769741,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gutenberg, basımcılığı geliştirme hedefinde ih-tiyaç duyduğu maddi desteği avukat Johann Fust ile ortak olarak sağlamıştır. 1448’de basılan Astro-nomi Takvimi, basımevinin bilinen ilk ürünüdür."
+        "Aciklama": "Matbaa ve Hurufat Teknolojisi<br>Gutenberg, basımcılığı geliştirme hedefinde ih-tiyaç duyduğu maddi desteği avukat Johann Fust ile ortak olarak sağlamıştır. 1448’de basılan Astro-nomi Takvimi, basımevinin bilinen ilk ürünüdür."
     },
     {
         "SoruID": 3769742,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İki cilt halinde basılan Arapça sözlük, Vankulu Lügatı, basılan ilk kitaptır."
+        "Aciklama": "Matbaa ve Hurufat Teknolojisi<br>İki cilt halinde basılan Arapça sözlük, Vankulu Lügatı, basılan ilk kitaptır."
     },
     {
         "SoruID": 3769744,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Linotype, Ottmar Mergenthaler tarafından 1886 yılında icat edilmiştir. Klavye, çoğaltma kalıbı mağazası ve kurşun döküm birimiyle sıcak kurşun satır dökümü yapan bir makine olarak tasarlanmıştır. Bu döneme kadar matbaada basılabilen boyutlar sınırlı iken, Linotype ile geniş sayfalarda basımlar yapılabilmiştir."
+        "Aciklama": "LİNOTYPE VE MONOTYPE TEKNOLOJİLERİ<br>Linotype, Ottmar Mergenthaler tarafından 1886 yılında icat edilmiştir. Klavye, çoğaltma kalıbı mağazası ve kurşun döküm birimiyle sıcak kurşun satır dökümü yapan bir makine olarak tasarlanmıştır. Bu döneme kadar matbaada basılabilen boyutlar sınırlı iken, Linotype ile geniş sayfalarda basımlar yapılabilmiştir."
     },
     {
         "SoruID": 3769811,
@@ -521,7 +521,7 @@
     },
     {
         "SoruID": 3769867,
-        "SoruMetni": "Phaistos Diski üzerindeki ilk piktogramları hangi medeniyet  bulunmuştur.",
+        "SoruMetni": "Phaistos Diski üzerindeki ilk piktogramları hangi medeniyet bulunmuştur.",
         "A": "Girit",
         "B": "Asur",
         "C": "Mısır",
@@ -617,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lascaux Mağarası (Güney Fransa) duvarlarında buluntulanan el çizimleri ile Altamira Mağarası (Kuzey İspanya) duvarlarında buluntulanan boğa ve bizon çizimleri MÖ 15.000lere aittir (Becer, 1997)."
+        "Aciklama": "Tarihsel süreçte, yazının keşfinden önce, MÖ 25.000 ile 20.000 yıllarında insanların mağara duvarlarına türlü amaçlar için çeşitli desenler çizdikleri bilinmektedir. Lascaux Mağarası (Güney Fransa) duvarlarında buluntulanan el çizimleri ile Altamira Mağarası (Kuzey İspanya) duvarlarında buluntulanan boğa ve bizon çizimleri MÖ 15.000lere aittir (Becer, 1997). Ancak günümüzde bu resimler yapılmış olsaydı da, hangi döneme ait olduğunu ilk bakışta anlamakta zorlanabilirdik (Frascara, 2004)."
     },
     {
         "SoruID": 3769873,
@@ -637,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "14.500 yıl öncesine ait Altamira mağarasındaki kırmızı ve siyah paleolitik bizon resimleri, Santillana del Mar, Cantabria, İspanya’da bulunmaktadır."
+        "Aciklama": "Görsel 1.2 14.500 yıl öncesine ait Altamira mağarasındaki kırmızı ve siyah paleolitik bizon resimleri, Santillana del Mar, Cantabria, İspanya’da bulunmaktadır."
     },
     {
         "SoruID": 3769874,
@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Piktogramlar, bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelerdir."
+        "Aciklama": "Piktogramlar, bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelerdir (Becer, 1997).<br>Piktogramlar, bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelerdir."
     },
     {
         "SoruID": 3769876,
@@ -697,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İsmi, M.Ö 2000’lerde icat edildiği Bergama’dan gelen Parşömen, özel yöntemlerle hazırlanarak kağıda benzer bir özellik kazanan hayvan derisidir. Üretim süresi uzun ve zahmetli olmakla birlikte dayanıklı bir yazı yüzeyi olması nedeniyle tercih edilmiştir."
+        "Aciklama": "El yazmaları için kağıt benzeri bir tabaka olan papirüs, Mısır’da iletişim açısından önemli bir adımdır. Papirüs bitkisi, antik çağda Nil Nehri kıyısı boyunca sığ bataklıklarda yetişen bir bitkiydi. Bu bitki, üzerine yazı yazmak dışında yelken, hasır, kumaş, ip yapımında; yakıt olarak ve tapınaklarda çelenkler hazırlamak için kullanılmıştır. İsmi, M.Ö 2000’lerde icat edildiği Bergama’dan gelen Parşömen, özel yöntemlerle hazırlanarak kağıda benzer bir özellik kazanan hayvan derisidir. Üretim süresi uzun ve zahmetli olmakla birlikte dayanıklı bir yazı yüzeyi olması nedeniyle tercih edilmiştir."
     },
     {
         "SoruID": 3769877,
@@ -741,7 +741,7 @@
     },
     {
         "SoruID": 3769879,
-        "SoruMetni": "Gutenberg tarafından hareketli (değiştirilebilir) hurufat tekniğinin kullanımı ile ortaya çıkan ve bu dönemde harflerin kesilmesi, dizilmesi, basılması süreçlerinin tamamını yürüten ve baskı öncesi gerekli olan işlevsel ve estetik düzenlemeleri yapan kişilere verilen isim aşağıdakilerden hangisiydi?",
+        "SoruMetni": "Gutenberg tarafından hareketli (değiştirilebilir) hurufat tekniğinin kullanımı ile ortaya çıkan ve bu dönemde harflerin kesilmesi, dizilmesi, basılması süreçlerinin tamamını yürüten ve baskı öncesi gerekli olan işlevsel ve estetik düzenlemeleri yapan kişilere verilen isim aşağıdakilerden hangisiydi?",
         "A": "Hurufat",
         "B": "Grafiker",
         "C": "Tipograf",
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Linotype, Ottmar Mergenthaler tarafından 1886 yılında icat edilmiştir. Klavye, çoğaltma kalıbı mağazası ve kurşun döküm birimiyle sıcak kurşun satır dökümü yapan bir makine olarak tasarlanmıştır. Bu döneme kadar matbaada basılabilen boyutlar sınırlı iken, Linotype ile geniş sayfalarda basımlar yapılabilmiştir."
+        "Aciklama": "Linotype, Ottmar Mergenthaler tarafından 1886 yılında icat edilmiştir. Klavye, çoğaltma kalıbı mağazası ve kurşun döküm birimiyle sıcak kurşun satır dökümü yapan bir makine olarak tasarlanmıştır. Bu döneme kadar matbaada basılabilen boyutlar sınırlı iken, Linotype ile geniş sayfalarda basımlar yapılabilmiştir. Linotype sisteminde klavye ile, her satırı mükemmel bir şekilde doldurmak için kelimeleri otomatik olarak birbirinden ayıran konik boşluk bantları da dahil olmak üzere, metnin her satırını oluşturmak için gereken düzenlemeler yapılır (Solomon, 1994)."
     },
     {
         "SoruID": 3769882,
@@ -797,6 +797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Matbaa ve hurufat teknolojisi Gutenberg ile gelişmekte iken tek bir harf için bile yedek harfler, boşluklar, noktalamalar planlanmaktaydı. 1455’te Gutenberg tarafından basılan kitap için yaklaşık üç yüz farklı harf biçimi döktüğü düşünülmektedir (Garfield, 2012). 1455 yılında, basımevinde baskısının yapıldığı belgelenen ilk kitap olan, 42-Line Bible (Kırkiki Satırlı İncil) basılmıştır."
+        "Aciklama": "Matbaa ve hurufat teknolojisi Gutenberg ile gelişmekte iken tek bir harf için bile yedek harfler, boşluklar, noktalamalar planlanmaktaydı. 1455’te Gutenberg tarafından basılan kitap için yaklaşık üç yüz farklı harf biçimi döktüğü düşünülmektedir (Garfield, 2012). 1455 yılında, basımevinde baskısının yapıldığı belgelenen ilk kitap olan, 42-Line Bible (Kırkiki Satırlı İncil) basılmıştır."
     }
 ]

@@ -8,15 +8,15 @@
     - D-) İlk tunç çağı
     - E-) Kalkolitik
 
-    > **Açıklama:** Paleolitik
+    > **Açıklama:** İnsanın fiziksel ve zihinsel gelişimini tamamladığı dönem Paleolitik dönemdir.
 
     ***
 1. Paleolitik dönem hangi jeolojik zaman içinde oluşmuştur?
-    - A-) 1. Jeolojik zaman (Birinci jeolojik zaman)
-    - B-) 2. Jeolojik zaman (İkinci jeolojik zaman)
-    - C-) 3. Jeolojik zaman (Üçüncü jeolojik zaman)
-    - **Cevap D-) 4. Jeolojik zaman (Dördüncü jeolojik zaman)**
-    - E-) 5. Jeolojik zaman (Beşinci jeolojik zaman)
+    - A-) 1\. Jeolojik zaman (Birinci jeolojik zaman)
+    - B-) 2\. Jeolojik zaman (İkinci jeolojik zaman)
+    - C-) 3\. Jeolojik zaman (Üçüncü jeolojik zaman)
+    - **Cevap D-) 4\. Jeolojik zaman (Dördüncü jeolojik zaman)**
+    - E-) 5\. Jeolojik zaman (Beşinci jeolojik zaman)
 
     > **Açıklama:** Paleolitik dönem 4. Jeolojik zamanda olmuştur.
 
@@ -28,7 +28,7 @@
     - D-) Avcı insan
     - E-) Düşünen insan
 
-    > **Açıklama:** Dik yürüyen
+    > **Açıklama:** Homo Erectus: Dik yürüyen insan demektir.
 
     ***
 1. Epi-paleolitik dönemin en belirgin özelliği hangisidir?
@@ -38,7 +38,8 @@
     - D-) Yerleşik hayata geçilmesi
     - E-) Levalua alet tekniği kullanılması
 
-    > **Açıklama:** Mikrolit denen minik aletler yapılması
+    > **Açıklama:** Bu dönemde mikrolit denen küçük aletler üretilmiştir.
+    > Mikrolit denen minik aletler yapılması
 
     ***
 1. Bitki ve hayvanların evcilleştirilmesi ve planlı üretim hangi dönemde ortaya çıkmıştır?
@@ -48,7 +49,7 @@
     - D-) Kalkolitik
     - E-) Tunç çağı
 
-    > **Açıklama:** Neolitik
+    > **Açıklama:** Planlı üretime geçilmesi ve hayvanların evcilleştirilmesi Neolitik dönemde gerçekleşmiştir.
 
     ***
 1. Neolitik dönem mimari yapısının Anadolu'da bütün gelişim aşamalarını en iyi şekilde temsil eden yerleşim hangisidir?
@@ -58,7 +59,7 @@
     - D-) Cafer Höyük
     - E-) Güsir Höyük
 
-    > **Açıklama:** Çayönü
+    > **Açıklama:** Neolitik dönemin mimari gelişiminin tüm evreleri Çayönü'nde görülür.
 
     ***
 1. Mimarlık tarihi açısından Anadolu'da Kalkolitik Dönem'de karşımıza çıkan, "ana mekanları daire biçimli ve giriş kısımları dörtgen bir koridor şeklinde planlanmış yapılara" ne ad verilmektedir?
@@ -68,7 +69,8 @@
     - **Cevap D-) Tholos**
     - E-) Hippodrom
 
-    > **Açıklama:** Halaf yerleşmelerinde karşılaştığımız diğer bir dikkat çekici olgu, “tholos” adı verilen, ana mekanları daire biçimli ve giriş kısımları dörtgen bir koridor şeklinde planlanmış yapılardır. Yüksek ihtimal ile bu yuvarlak yapıların üst taraflarının günümüzde (Urfa) Harran evlerindeki gibi kubbeyle örtülmüş olduğu tahmin edilmektedir. Bu yapılar Kuzey Suriye’den Toroslara uzanan bütün Halaf yerleşmelerinde karşımıza çıkmaktadır. Son Halaf Dönemi, oldukça kısa süren bu kültürün doruk noktasını temsil eder ve Güney Mezopotamya etkilerinin bu bölgeye girmeye başladığı bir süreci temsil eder.
+    > **Açıklama:** Ana mekanları daire biçimli, giriş kısımları dörtgen bir koridor olan yapılara Tholos denir.
+    > Halaf yerleşmelerinde karşılaştığımız diğer bir dikkat çekici olgu, “tholos” adı verilen, ana mekanları daire biçimli ve giriş kısımları dörtgen bir koridor şeklinde planlanmış yapılardır. Yüksek ihtimal ile bu yuvarlak yapıların üst taraflarının günümüzde (Urfa) Harran evlerindeki gibi kubbeyle örtülmüş olduğu tahmin edilmektedir. Bu yapılar Kuzey Suriye’den Toroslara uzanan bütün Halaf yerleşmelerinde karşımıza çıkmaktadır. Son Halaf Dönemi, oldukça kısa süren bu kültürün doruk noktasını temsil eder ve Güney Mezopotamya etkilerinin bu bölgeye girmeye başladığı bir süreci temsil eder.
 
     ***
 1. 2021 yılında UNESCO Dünya Miras Listesine alınan yerleşim yeri hangisidir?
@@ -78,17 +80,17 @@
     - D-) Hacılar
     - E-) Kuruçay
 
-    > **Açıklama:** Arslantepe
+    > **Açıklama:** Arslantepe 2021 yılında UNESCO Dünya Miras Listesine alınmıştır.
 
     ***
-1. Anadolu'da kentleşmenin meydana çıktığı ve etrafı surla çevrili ilk kent yerleşmelerinin ortaya çıktığı  çağ hangisidir?
+1. Anadolu'da kentleşmenin meydana çıktığı ve etrafı surla çevrili ilk kent yerleşmelerinin ortaya çıktığı çağ hangisidir?
     - A-) Paleolitik
     - B-) Kalkolitik
     - C-) Neolitik
     - **Cevap D-) İlk Tunç Çağı**
     - E-) Demir Çağı
 
-    > **Açıklama:** İlk Tunç Çağı
+    > **Açıklama:** İlk Tunç Çağı Anadolu'da surla çevrili kent yerleşmelerinin ortaya çıktığı dönemdir.
 
     ***
 1. Anadolu yerleşim planının anlamı hangisidir?
@@ -98,7 +100,8 @@
     - D-) Göller üzerinde ahşap direkli yerleşim
     - **Cevap E-) Yan yana dizili dörtgen ev grupları**
 
-    > **Açıklama:** Yan yana dizili dörtgen ev grupları
+    > **Açıklama:** Dörtgen ev gruplarının yan yana ortak duvar ve ortak çatı sistemi ile kurulduğu yerleşimlere Anadolu yerleşim planı denir.
+    > Yan yana dizili dörtgen ev grupları
 
     ***
 1. Aşağıdakilerden hangisi Anadolu’da yer alan paleolitik dönem yerleşim merkezlerinden biridir?
@@ -108,27 +111,30 @@
     - D-) Hasankeyf
     - E-) Kanlıtaş
 
-    > **Açıklama:** Çözüm: Anadolu’da Orta Paleolitiği temsil eden yerlerin başında Karain Mağarası (Antalya) yer alır. Diğer merkezler neolitik ve kalkolitik duruma aittir. Doğru cevap B seçeneğidir.
+    > **Açıklama:** Alt, Orta ve Üst Paleolitik Dönem
+    > Çözüm: Anadolu’da Orta Paleolitiği temsil eden yerlerin başında Karain Mağarası (Antalya) yer alır. Diğer merkezler neolitik ve kalkolitik duruma aittir. Doğru cevap B seçeneğidir.
 
     ***
-1. 1. Besinlerin pişirilerek tüketilmeye başlanması<br />2. Gömülen ölülerin yanına eşyalar koyulması<br />3. Kullanım amaçlarına göre farklı aletler yapmak<br />Yukarıda verilen özellikler aşağıda verilen hangi döneme aittir?
+1. 1\. Besinlerin pişirilerek tüketilmeye başlanması<br />2\. Gömülen ölülerin yanına eşyalar koyulması<br />3\. Kullanım amaçlarına göre farklı aletler yapmak<br />Yukarıda verilen özellikler aşağıda verilen hangi döneme aittir?
     - A-) Alt Paleolitik
     - **Cevap B-) Orta Paleolitik**
     - C-) Epi-Paleolitik
     - D-) Kalkolitik
     - E-) Tunç çağları
 
-    > **Açıklama:** Orta paleolitik dönemde, Yontmataş alet teknolojisinde çok daha geniş yelpazede farklı ham maddelerin de alet yapımında kullanıldığı gözlenmektedir. Kullanım amaçlarına uygun aletler yapabilmek için gerekirse daha uzak bölgelere giderek barındıkları yerlere ham madde taşımışlardır. Bu dönemin en belirleyici özelliklerinden biri de artık bu dönem ile birlikte besinlerin de pişirilerek tüketilmeye başlandığını görmekteyiz. Ölülerini gömmeleri ve ölünün yanına eşyalar koymaları, orta paleolitik dönemde gerçekleşmiştir. Doğru cevap B seçeneğidir.
+    > **Açıklama:** Alt, Orta ve Üst Paleolitik Dönem
+    > Orta paleolitik dönemde, Yontmataş alet teknolojisinde çok daha geniş yelpazede farklı ham maddelerin de alet yapımında kullanıldığı gözlenmektedir. Kullanım amaçlarına uygun aletler yapabilmek için gerekirse daha uzak bölgelere giderek barındıkları yerlere ham madde taşımışlardır. Bu dönemin en belirleyici özelliklerinden biri de artık bu dönem ile birlikte besinlerin de pişirilerek tüketilmeye başlandığını görmekteyiz. Ölülerini gömmeleri ve ölünün yanına eşyalar koymaları, orta paleolitik dönemde gerçekleşmiştir. Doğru cevap B seçeneğidir.
 
     ***
-1. 1. Aşağıdakilerden hangisi Homo Neandertal’in özelliklerinden biridir?
+1. 1\. Aşağıdakilerden hangisi Homo Neandertal’in özelliklerinden biridir?
     - A-) Kervan ticareti yapmıştır.
     - B-) Demir işçiliği yapmıştır.
     - **Cevap C-) Ölümden sonraki yaşama inanmıştır.**
     - D-) Büyük kentler kurmuştur.
     - E-) Anıtsal saraylar ve tapınaklar yapmıştır.
 
-    > **Açıklama:** Neandertallerin soyutlama yetisi şaşırtıcı bir özellik olarak karşımıza çıkar. Ölülerini gömmeleri ve ölünün yanına eşyalar koymaları, bu topluluklardaki
+    > **Açıklama:** Alt, Orta ve Üst Paleolitik Dönem
+    > Neandertallerin soyutlama yetisi şaşırtıcı bir özellik olarak karşımıza çıkar. Ölülerini gömmeleri ve ölünün yanına eşyalar koymaları, bu topluluklardaki
     > “ölümden sonraki yaşam” düşüncesinin, yani bir soyutlama yetisinin açık göstergeleridir. Doğru cevap C seçeneğidir. Diğer seçenekler paleolitik dönemde gerçekleşen özellikler değildir. Homo Neandertal paleolitik dönemde yaşamıştır.
 
     ***
@@ -139,17 +145,19 @@
     - D-) Kuaterner
     - E-) Obsidyen
 
-    > **Açıklama:** Holosen: Buz devri olarak da bilinen Pleistosen dönemin bitişiyle başlayan daha sıcak, ılıman iklim koşullarının oluştuğu dönemdi. Okyanus yüzey sıcaklıkları artmış, buzullar kutuplara doğru çekilmiş, bitki çeşitliliği artmıştır.
+    > **Açıklama:** Alt, Orta ve Üst Paleolitik Dönem
+    > Holosen: Buz devri olarak da bilinen Pleistosen dönemin bitişiyle başlayan daha sıcak, ılıman iklim koşullarının oluştuğu dönemdi. Okyanus yüzey sıcaklıkları artmış, buzullar kutuplara doğru çekilmiş, bitki çeşitliliği artmıştır.
 
     ***
-1. 1. Yuvarlak şekilde yapılmıştır.<br />2. Hücre planlı yapılardır.<br />3. Ahşap kirişli yapılardır.<br />4. Daha özenli bir işçilik vardır.<br />5. Dörtgen şekilde yapılardır.<br />Aşağıdakilerden hangisinde Neolitik dönem kamu yapılarının özellikleri birlikte verilmiştir?
+1. 1\. Yuvarlak şekilde yapılmıştır.<br />2\. Hücre planlı yapılardır.<br />3\. Ahşap kirişli yapılardır.<br />4\. Daha özenli bir işçilik vardır.<br />5\. Dörtgen şekilde yapılardır.<br />Aşağıdakilerden hangisinde Neolitik dönem kamu yapılarının özellikleri birlikte verilmiştir?
     - A-) I-II
     - **Cevap B-) I-IV**
     - C-) II-IV
     - D-) II-V
     - E-) III-V
 
-    > **Açıklama:** Neolitik dönemin “Kamu Yapıları” olarak adlandırılan yuvarlak, daha özenli bir işçilik gösteren binalarda görülmektedir.
+    > **Açıklama:** Neolitik Dönem’de Mimari ve ilk Yerleşim Birimleri
+    > Neolitik dönemin “Kamu Yapıları” olarak adlandırılan yuvarlak, daha özenli bir işçilik gösteren binalarda görülmektedir.
     > Doğru cevap B seçeneğidir.
 
     ***
@@ -160,7 +168,8 @@
     - D-) Kalkolitik
     - E-) Tunç çağları
 
-    > **Açıklama:** İşlemesi kolay olan püskürük bir kayaç olan bazalttan öğütme taşları, havanlar ve dibekler, Neolitik Dönem içinde, ilk kez tahılların ezilerek un hâline getirilmesi işini yapan ve günümüzdeki değirmenlerin de öncüsü sayabilecek ögelerdir.
+    > **Açıklama:** Neolitik Dönemde Teknolojik Gelişim ve Ticaret
+    > İşlemesi kolay olan püskürük bir kayaç olan bazalttan öğütme taşları, havanlar ve dibekler, Neolitik Dönem içinde, ilk kez tahılların ezilerek un hâline getirilmesi işini yapan ve günümüzdeki değirmenlerin de öncüsü sayabilecek ögelerdir.
 
     ***
 1. Aşağıdaki dönemlerden hangisinde altın ve gümüş gibi değerli madenler ilk defa işlenmeye başlanmıştır?
@@ -170,17 +179,19 @@
     - **Cevap D-) Kalkolitik**
     - E-) İlk Tunç Çağı
 
-    > **Açıklama:** Bakırdan hariç olarak, altın ve gümüş gibi değerli madenlerin de ilk defa Kalkolitik  dönemde işlenmeye başlandığı görülür.
+    > **Açıklama:** ANADOLU’DA KALKOLİTİK DÖNEM VE BAŞLICA YERLEŞME ALANLARI
+    > Bakırdan hariç olarak, altın ve gümüş gibi değerli madenlerin de ilk defa Kalkolitik dönemde işlenmeye başlandığı görülür.
 
     ***
 1. Güneydoğu Anadolu’da; tarımın insan hayatına belirleyici bir öge olarak girdiği, buğday ve arpanın doğal olarak bulunabildiği ekolojik ortamın dışına çıkıp, yarı kurak ve kurak bölgelere uyum sağladığı dönem aşağıdakilerden hangisinde belirtilmiştir?
     - A-) Alt Paleolitik Dönem
-    - B-) Üst Paleolitik Dönem
-    - C-) Neolitik Dönem
-    - **Cevap D-) Kalkolitik Dönem**
+    - B-) Üst Paleolitik Dönem
+    - C-) Neolitik Dönem
+    - **Cevap D-) Kalkolitik Dönem**
     - E-) İlk Tunç Çağı
 
-    > **Açıklama:** Toplumsal çalkantılardan etkilenen Güneydoğu Anadolu’da, Seramikli Neolitik Çağ’ın sonunda kültürel anlamda yeniden bir bütünlük görülmeye başlanır. Bu dönemde tarımın insan hayatına belirleyici bir öge olarak girmesi, buğday ve arpanın doğal olarak bulunabildiği ekolojik ortamın dışına çıkıp, yarı kurak ve kurak bölgelere uyum sağlaması, bu bölgede Kalkolitik Çağ’ın temel altyapısını oluşturur. MÖ 5500-3000 yılları arasına tarihlenen Kalkolitik (Bakır Taş Devri) dönem, Mezopotamya uygarlığının da temellerinin gerçek anlamda atıldığı dönemdir. Mezopotamya’da Halaf ve Obeyd kültürleri ile başlayıp, Uruk kültürü ile devam eden süreçte, önce gelişkin köyler ve sonra da ilk şehirler ortaya çıkar. Yontmataş alet endüstrisi önemini giderek yitirir ve yerine, madenciliğin önem kazanması ile birlikte bölgeler arası ticaret daha da önem kazanır. Bakırdan hariç olarak, altın ve gümüş gibi değerli madenlerin de ilk defa bu dönemde işlenmeye başlandığı görülür. Kentleşmeye doğru ilerleyen bu sürecin arkasında yatan belki de en önemli nedenin, o dönemin köy yaşam şekli içindeki birikmeye başlayan “artı ürün” olduğu, günümüzde bütün bilim adamları tarafından kabul edilen bir olgudur.
+    > **Açıklama:** ANADOLU’DA KALKOLİTİK DÖNEM VE BAŞLICA YERLEŞME ALANLARI
+    > Toplumsal çalkantılardan etkilenen Güneydoğu Anadolu’da, Seramikli Neolitik Çağ’ın sonunda kültürel anlamda yeniden bir bütünlük görülmeye başlanır. Bu dönemde tarımın insan hayatına belirleyici bir öge olarak girmesi, buğday ve arpanın doğal olarak bulunabildiği ekolojik ortamın dışına çıkıp, yarı kurak ve kurak bölgelere uyum sağlaması, bu bölgede Kalkolitik Çağ’ın temel altyapısını oluşturur. MÖ 5500-3000 yılları arasına tarihlenen Kalkolitik (Bakır Taş Devri) dönem, Mezopotamya uygarlığının da temellerinin gerçek anlamda atıldığı dönemdir. Mezopotamya’da Halaf ve Obeyd kültürleri ile başlayıp, Uruk kültürü ile devam eden süreçte, önce gelişkin köyler ve sonra da ilk şehirler ortaya çıkar. Yontmataş alet endüstrisi önemini giderek yitirir ve yerine, madenciliğin önem kazanması ile birlikte bölgeler arası ticaret daha da önem kazanır. Bakırdan hariç olarak, altın ve gümüş gibi değerli madenlerin de ilk defa bu dönemde işlenmeye başlandığı görülür. Kentleşmeye doğru ilerleyen bu sürecin arkasında yatan belki de en önemli nedenin, o dönemin köy yaşam şekli içindeki birikmeye başlayan “artı ürün” olduğu, günümüzde bütün bilim adamları tarafından kabul edilen bir olgudur.
 
     ***
 1. Megaron türünde yapıların ortaya çıkışı hangi döneme rastlamaktadır?
@@ -190,7 +201,7 @@
     - D-) Kalkolitik
     - **Cevap E-) İlk Tunç Çağı**
 
-    > **Açıklama:** Batı ve Orta Anadolu’da İlk Tunç Çağında, Troia I yerleşiminde ilk megaron planlı yapıların ve kale yerleşimlerinin görülmüştür. Sağlam kesme taşlardan yapılmış eğimli surlar ile  çevrili olan kente, anıtsal sayılabilecek giriş kapılarından geçilerek ulaşılmaktadır. Surun içerisinde, Ege dünyası için çok tercih  edilen bir yapı tarzı olan “megaron” türünde yapıların ilk örneklerine rastlanmıştır.
+    > **Açıklama:** Batı ve Orta Anadolu’da İlk Tunç Çağında, Troia I yerleşiminde ilk megaron planlı yapıların ve kale yerleşimlerinin görülmüştür. Sağlam kesme taşlardan yapılmış eğimli surlar ile çevrili olan kente, anıtsal sayılabilecek giriş kapılarından geçilerek ulaşılmaktadır. Surun içerisinde, Ege dünyası için çok tercih edilen bir yapı tarzı olan “megaron” türünde yapıların ilk örneklerine rastlanmıştır.
 
     ***
 1. Doğudan batıya ticaret yolları aşağıdaki dönemlerden hangisinde gelişmiştir?
@@ -200,7 +211,8 @@
     - D-) Kalkolitik
     - **Cevap E-) İlk Tunç Çağı**
 
-    > **Açıklama:** İlk Tunç Çağı ise, Anadolu’da metalürjinin gelişimini tamamladığı, kentleşmenin meydana çıktığı ve beraberinde etrafı surla çevrili ilk kent yerleşimlerinin görüldüğü, doğudan batıya ticaret yollarının geliştiği bir dönemdir.
+    > **Açıklama:** İLK TUNÇ ÇAĞINDA ANADOLU VE ÖNASYA
+    > İlk Tunç Çağı ise, Anadolu’da metalürjinin gelişimini tamamladığı, kentleşmenin meydana çıktığı ve beraberinde etrafı surla çevrili ilk kent yerleşimlerinin görüldüğü, doğudan batıya ticaret yollarının geliştiği bir dönemdir.
 
     ***
 1. Homo Habilis (becerikli insan), hangi dönemde ortaya çıkmıştır?
@@ -210,7 +222,8 @@
     - D-) Epipaleolitik
     - E-) Neolitik
 
-    > **Açıklama:** Homo Habilis (becerikli insan), Alt Paleolitik Dönemde ortaya çıkmıştır.
+    > **Açıklama:** Alt Paleolitik Dönem’de, insanoğlu hominid (insansı) ailesinden sıyrılarak, iki ayağı üzerinde dik duran ve bu özelliğin ellerine getirdiği serbestlik ile de ellerini kullanarak alet üretebilen insan haline gelmiştir. Bu ilk insan türüne Homo Habilis (becerikli insan) ismi verilmiştir.
+    > Homo Habilis (becerikli insan), Alt Paleolitik Dönemde ortaya çıkmıştır.
 
     ***
 1. Besinlerini pişirerek yiyen ilk insan türü aşağıdakilerden hangisidir?
@@ -220,7 +233,8 @@
     - **Cevap D-) Homo Neandertal**
     - E-) Homo Ergaster
 
-    > **Açıklama:** Besinlerini pişirerek yiyen ilk insan türü Homo Neandertal'dir.
+    > **Açıklama:** Neandertallerin Orta Paleolitik Dönemde ateşi besin pişirme amacıyla da kullandıklarını görmekteyiz.
+    > Besinlerini pişirerek yiyen ilk insan türü Homo Neandertal'dir.
 
     ***
 1. Pleistosen dönemin bitişiyle başlayan daha sıcak, ılıman iklim koşullarının oluştuğu dönem aşağıdakilerden hangisidir?
@@ -230,7 +244,8 @@
     - D-) Kalkolitik
     - E-) Musteryen
 
-    > **Açıklama:** Pleistosen dönemin bitişiyle başlayan daha sıcak, ılıman iklim koşullarının oluştuğu dönem Holosen'dir.
+    > **Açıklama:** Holosen: Buz devri olarak da bilinen Pleistosen dönemin bitişiyle başlayan daha sıcak, ılıman iklim koşullarının oluştuğu dönem. Okyanus yüzey sıcaklıkları artmış, buzullar kutuplara doğru çekilmiş, bitki çeşitliliği artmıştır.
+    > Pleistosen dönemin bitişiyle başlayan daha sıcak, ılıman iklim koşullarının oluştuğu dönem Holosen'dir.
 
     ***
 1. Mezolitik olarak da adlandırılan dönem, aşağıdakilerden hangisidir?
@@ -240,7 +255,9 @@
     - D-) Kalkolitik
     - E-) Erken Tunç Çağ
 
-    > **Açıklama:** Mezolitik olarak da adlandırılan dönem, Epipaleolitik'dir.
+    > **Açıklama:** Üst Paleolitik dönemin ardından Anadolu’da G.Ö 17.000-10.000 yılları arasındaki zaman dilimi dünyadaki genel adıyla Mezolitik olarak adlandırılsa da, Anadolu’daki kültürlerin daha çok Doğu
+    > Akdeniz Levant bölgesi ile uyumundan dolayı Epi-Paleolitik Dönem olarak adlandırılmaktadır.
+    > Mezolitik olarak da adlandırılan dönem, Epipaleolitik'dir.
 
     ***
 1. “Doğal Yaşam Bölgesi” kuramı, aşağıdaki araştırmacılardan hangisine aittir?
@@ -250,7 +267,8 @@
     - D-) İgor Diakonoff
     - E-) Guillermo Algaze
 
-    > **Açıklama:** “Doğal Yaşam Bölgesi” kuramı, Robert Braidwood'aaittir.
+    > **Açıklama:** Braidwood, iklimin ılımanlaştığı bu dönem ile ilgili olarak, tarıma ilk başlayan toplulukların vahalar ya da nehir boylarından ziyade, bol yağışlı dağ eteklerinde yaşamış olmaları gerektiği yönündeki, görüşü ile “Doğal Yaşam Bölgesi” kuramını ortaya koymuştur.
+    > “Doğal Yaşam Bölgesi” kuramı, Robert Braidwood'aaittir.
 
     ***
 1. Dünyanın en erken tapınakları olarak kabul edilen kabul edilen yapılar, aşağıdaki yerleşimlerden hangisinde bulunmuştur?
@@ -260,17 +278,19 @@
     - D-) Can Hasan
     - E-) Karain
 
-    > **Açıklama:** Dünyanın en erken tapınakları olarak kabul edilen kabul edilen yapılar, Göbeklitepe'detespit edilmiştir.
+    > **Açıklama:** 1990’ların ortalarından itibaren kazılan Göbekli Tepe (Urfa) yerleşmesinde, şu ana kadar Ön Asya’da eşi benzerine rastlanmamış, dünyanın en erken “tapınak” yapısı örnekleri ortaya çıkartılmıştır. Bugün benzerleri Şanlıurfa Harran’ı çevreleyen Tek Tek Dağları’nda Karahan Tepe, Harbetsuvan ve daha birçokları ortaya çıkarılmaktadır.
+    > Dünyanın en erken tapınakları olarak kabul edilen kabul edilen yapılar, Göbeklitepe'detespit edilmiştir.
 
     ***
-1. Anadolu Neolitik Dönemi üzerine önemli bilgiler veren “Kafataslı Yapı”, aşağıdaki yerleşimlerden hangisindedir?
+1. Anadolu Neolitik Dönemi üzerine önemli bilgiler veren “Kafataslı Yapı”, aşağıdaki yerleşimlerden hangisindedir?
     - A-) Çatalhöyük
     - B-) Göbeklitepe
     - C-) Karahantepe
     - D-) Nevali Çori
     - **Cevap E-) Çayönü**
 
-    > **Açıklama:** Anadolu Neolitik Dönemi üzerine önemli bilgiler veren “Kafataslı Yapı”, Çayönü'ndedir.
+    > **Açıklama:** Çayönü kazısında karşılaştığımız “Kafataslı Yapı”, ölü gömme geleneklerinin anlaşılması açısından önemli bulgular vermektedir. Anıtsal boyuttaki, birçok kez yenilenmiş bu yapıda, toplam 450 kadar bireye ait olduğu anlaşılan kemik, üstü kapalı mahzen gibi hücrelerde kafatasları ile istiflenmiş şekilde bulunmuştur.
+    > Anadolu Neolitik Dönemi üzerine önemli bilgiler veren “Kafataslı Yapı”, Çayönü'ndedir.
 
     ***
 1. “Tholos” adı verilen, ana mekanları daire biçimli ve giriş kısımları dörtgen<br />bir koridor şeklinde planlanmış yapılar hangi kültürel evreye aittir?
@@ -280,7 +300,8 @@
     - D-) Samarra
     - E-) Obeyd
 
-    > **Açıklama:** “Tholos” adı verilen, ana mekanları daire biçimli ve giriş kısımları dörtgen
+    > **Açıklama:** Halaf yerleşmelerinde karşılaştığımız diğer bir dikkat çekici olgu, “tholos” adı verilen, ana mekanları daire biçimli ve giriş kısımları dörtgen bir koridor şeklinde planlanmış yapılardır.
+    > “Tholos” adı verilen, ana mekanları daire biçimli ve giriş kısımları dörtgen
     > bir koridor şeklinde planlanmış yapılar Halaf kültürüne aittir.
 
     ***
@@ -291,7 +312,8 @@
     - D-) Uruk
     - **Cevap E-) Obeyd**
 
-    > **Açıklama:** Güney Mezopotamya’nın ilk defa yerleşime açıldığı dönem Obeyd Dönemidir.
+    > **Açıklama:** Obeyd döneminde üretim teknolojisi ve sosyal örgütlenmede önemli gelişimler söz konusu olmuştur. Sulama kanalları sayesinde yağmur görmeyen Güney Mezopotamya’nın, bu döneminde ilk defa yerleşime açılmasına şahit oluruz.
+    > Güney Mezopotamya’nın ilk defa yerleşime açıldığı dönem Obeyd Dönemidir.
 
     ***
 1. MÖ 3000 yıllarında başlayarak yaklaşık bin yıl süren dönemin adı aşağıdakilerden hangisidir?
@@ -301,7 +323,8 @@
     - **Cevap D-) İlk Tunç Çağı**
     - E-) Orta Tunç Çağı
 
-    > **Açıklama:** MÖ 3000 yıllarında başlayarak yaklaşık bin yıl süren dönemin adı İlk Tunç Çağıdır.
+    > **Açıklama:** Yaklaşık MÖ. 3000’de başlayan İlk Tunç Çağı, pek çok bölgede kültürlerin sıçrama yapmadan düzenli bir şekilde geliştiği, hatta bazı bölgelerde daha durağan bir kültür gelişiminin görüldüğü bir dönem olarak 1000 yıllık bir süreci kapsar.
+    > MÖ 3000 yıllarında başlayarak yaklaşık bin yıl süren dönemin adı İlk Tunç Çağıdır.
 
     ***
 1. Prehistoryada ilk İnsan türü ve aletlerin ortaya çıkması ile yaklaşık olarak 2,5 milyon yıllık dönemi kapsayan, insanların avcılık ve besin toplayıcılığı ile geçindiği döneme ne ad verilir?
@@ -314,7 +337,7 @@
     > **Açıklama:** **Paleolitik Dönem:** Prehistoryada ilk İnsan türü ve aletlerin ortaya çıkması ile yaklaşık olarak 2,5 milyon yıllık dönemi kapsayan, insanların avcılık ve besin toplayıcılığı ile geçindiği dönem.
 
     ***
-1. Yontmataş - Eskitaş çağları olarak adlandırılan dönem aşağıdakilerden hangisidir?
+1. Yontmataş - Eskitaş çağları olarak adlandırılan dönem aşağıdakilerden hangisidir?
     - A-) Prehistorya
     - **Cevap B-) Paleolitik**
     - C-) Obsidyen
@@ -498,7 +521,7 @@
     > olduğunu belirten IV. Tudhaliya “Senin tüccarların Asur ülkesine gitmeyecek; oradan gelen bir tüccarı da sen ülkene almayacaksın, ülkene gireni de yakalayıp bana yolla; eğer ki Asur ile savaşırsam benim yanımda yer alacaksın, hazırlıklarını yap” demektedir. Bu tarihte bilinen ilk ticari ambargodur. Doğru cevap A'dır.
 
     ***
-1. I. Melid Krallığı - Malatya/Arslantepe,<br />II. Tabal Krallığı - Karaman/Kayseri<br />II.Sam’al Krallığı - Gaziantep/Zincirli Höyük<br />IV. Gurgum Krallığı - Maraş<br />V. Azatiwataya Krallığı - Osmaniye/Karatepe<br />Yukarıda verilen Demir Çağı Geç Hitit Krallıkları ve günümü yerleşimlerinin eşleştirmelerinden hangisi/hangileri doğru olarak verilmiştir?
+1. I. Melid Krallığı - Malatya/Arslantepe,<br />II. Tabal Krallığı - Karaman/Kayseri<br />II.Sam’al Krallığı - Gaziantep/Zincirli Höyük<br />IV. Gurgum Krallığı - Maraş<br />V. Azatiwataya Krallığı - Osmaniye/Karatepe<br />Yukarıda verilen Demir Çağı Geç Hitit Krallıkları ve günümü yerleşimlerinin eşleştirmelerinden hangisi/hangileri doğru olarak verilmiştir?
     - A-) Yalnız I
     - B-) I ve II
     - C-) II ve III
@@ -515,7 +538,7 @@
     - D-) Geç Tunç Çağı
     - E-) Demir Çağı
 
-    > **Açıklama:** Orta Tunç Çağı
+    > **Açıklama:** Orta Tunç Çağı’nda Anadolu yazıyla tanışmış ve protohistorik dönem başlamıştır.
 
     ***
 1. Asurlu tüccarlar ticaret sürecinde taşınan malların açılmamalarını garanti altına almak için çuval bağlarını kil topakla sağlamlaştırıyor ve kilin üzerine mühür basılıyordu. Mühürlenmiş topağın tahrip olmaksızın son istasyona varması zarar görmediğinin işaretiydi. Bu tür mühür baskılı kil topaklarına ne ad verilir?
@@ -525,7 +548,7 @@
     - D-) Talent
     - E-) Targumannum
 
-    > **Açıklama:** Bulla
+    > **Açıklama:** Asurlu tüccarlar işlerini bir aile şirketinin esaslarına uygun şekilde yürütüyorlardı. Tüccarın Asur’daki yakını (karısı, kız ya da erkek kardeşi) malların Asur’dan eşeklere yüklenmesi görevini üstleniyordu. Eşeklere yüklenen mallar torbaların içine yerleştiriliyor ve ağızları bağlanıyordu. Kaniş’e varıncaya kadar açılmamalarını garanti altına almak için bağlar bir kil topakla sağlamlaştırılıyor ve kilin üzerine mühür basılıyordu. Bu tür mühür baskılı kil topaklarına bulla denilmektedir.
 
     ***
 1. Anadolu’daki yerel krallıkları tek çatı altında toplamış ve sınırlarını Anadolu dışına taşacak kadar genişletmiş olan Anadolu’nun ilk merkezi krallığı aşağıdakilerden hangisidir?
@@ -535,17 +558,17 @@
     - D-) Frig Devleti
     - E-) İyon Devleti
 
-    > **Açıklama:** Hitit Devleti
+    > **Açıklama:** Eski Yakındoğu’da Geç Tunç Çağı’nda Anadolu’da belirleyici siyasi güç Hitit Devleti olmuştur. Hitit Devleti Anadolu’nun ilk merkezi krallığıdır ve Anadolu’da daha önce varlık göstermiş olan yerel krallıkları tek çatı altında toplamış ve sınırlarını Anadolu dışına taşacak kadar genişletmiştir. Devletin tarihi, prensip olarak “Eski Krallık” ve “İmparatorluk” olmak üzere iki ana başlık altında incelenmektedir.
 
     ***
 1. MÖ. 20. yüzyılın başlarından 18. yüzyılın sonlarına kadar iki yüz yıl boyunca Asurlu tüccarlar Anadolu’da etkin bir ticaret hayatı sürdürmüşlerdir. Asurlu tüccarların Anadolu’da kurdukları kolonilere Karum denmektedir. Karum’ların merkezi aşağıdakilerden hangisidir?
-    - A-) Şanlıurfa Göbeklitepe
+    - A-) Şanlıurfa Göbeklitepe
     - B-) Konya Çatalhöyük
     - C-) Aydın Afrodisias
     - D-) Çanakkale Troya
     - **Cevap E-) Kayseri Kültepe**
 
-    > **Açıklama:** Kayseri Kültepe
+    > **Açıklama:** Karum ve wabartum’ların Anadolulu kralların saraylarının hemen yakınında kurulmuş olmaları, krallarla tüccarların arasında bir bağ olduğunu açıkça ortaya koyar. Karum’ların merkezi, eski adı Kaniş olan, bugünkü Kayseri Kültepe’dir. Diğer karum’ların hepsi merkez karum’a bağlıydı ve her türlü meselede son karar mercii Kaniş karum’u idi.
 
     ***
 1. Vahşi hayvanları kraliyetin çatısı altına ge­tirtip kendini “Büyük Kral” olarak ta­nımlayan, dünyanın en eski hayvanat bahçesini kuran -tartışmalı da olsa- Hititlerin öncü krallarından biri olarak kabul edilen isim aşağıdakilerden hangisidir?
@@ -555,7 +578,8 @@
     - D-) Murşili
     - E-) Hattuşili
 
-    > **Açıklama:** Anitta
+    > **Açıklama:** -tartışmalı da olsa- Anitta, Hititlerin öncü krallarından biri olarak kabul edilir.
+    > Metne göre kendini “Büyük Kral” olarak ta­nımlayan Anitta, Anadolu’da pek çok kenti ele geçirmiş ve ganimetleri Kaniş’in tapınaklarına yığ­mıştır. Dünyanın en eski hayvanat bahçesini kuran da odur. Vahşi hayvanları kraliyetin çatısı altına ge­tirtmiştir. Eski kralların vahşi hayvanları dize getir­me, onları güç sembolü olarak kullanma, tören ve gösterilerde onlarla övünme merakları bilinen bir durumdur.
 
     ***
 1. Kemal Balkan tarafından 1957 yılında “Mama Kralı Anumhirbi’nin Kaniş Kralı Warşama’ya Mektubu” adıyla yayımlanan eserin içeriği aşağıdakilerden hangisidir?
@@ -565,7 +589,8 @@
     - D-) Anadolu’daki ekonomik politikalar ve ticaret yolları
     - E-) Asur Koloni Dönemi’ne ait yazılı ve yazısız eserlerin tanıtımı
 
-    > **Açıklama:** Krallıkların birbirlerine karşı durumları ve Anadolu’daki siyasi örgütlenme
+    > **Açıklama:** Krallıkların birbirlerine karşı durumları ve Ana­dolu’daki siyasi örgütlenmenin nasıl olduğu hakkın­da çok değerli bilgiler veren bir mektup Kültepe’de höyükte yani kraliyetin egemenlik sahasında yapılan kazılar sırasında ele geçmiştir. Bu çok değerli belge Kemal Balkan tarafından 1957 yılında “*Mama Kra­lı Anumhirbi’nin Kaniş Kralı Warşama’ya Mektubu*” adıyla yayımlanmıştır. Mektup, Kaniş Kralı’nın Mama Kralına göndermiş olduğu önceki mektuba cevap niteliğindedir.
+    > Krallıkların birbirlerine karşı durumları ve Anadolu’daki siyasi örgütlenme
 
     ***
 1. Hitit Devleti Kralı I. Murşili’nin Babil dönüşü saraydaki damat tarafından öldürülmesi ardından tahta oturan her kral bir öncekinin katili olmuştur. Bu kötü gidişatı tahta çıkış yasalarını belirleyen bir fermanla düzenleyen kral aşağıdakilerden hangisidir?
@@ -575,7 +600,8 @@
     - **Cevap D-) Telipinu**
     - E-) Şuppiluliuma
 
-    > **Açıklama:** Telipinu
+    > **Açıklama:** Kral I. Murşili’yi Babil'den geri döndüğünde kötü bir sürpriz beklemektedir. O yokken saray entrikaları almış yürümüş ve bir komplo hazırlanmıştır. Saraydaki damat, kralı öldürüp, tahta oturur.Bundan sonra Hitit krallığı bir iç karışıklığın pençesine düşer.Kazandığı toprakları kaybeder ve Kızılırmak yayının içine çekilir.Üste- lik Karadeniz Bölgesi’nde oturan Gaşka halkı başkente uzanan akınla- rıyla devleti yıpratmaya başlar.Üstüne üstlük saraydaki cinayetlerin ardı arkası kesilmez.Tahta oturan her kral bir öncekinin katilidir.
+    > Bu kötü gidişatı durdurmaya çalışan Kral Telipinu (yaklaşık olarak MÖ. 1500’ler) bir ferman yayınlayarak tahta çıkış yasalarını belirler.Telipinu Fermanına göre en büyük erkek çocuk, yoksa en büyük kız çocuğun eşi yani damat kral olacaktır.
 
     ***
 1. Aşağıdakilerin hangisinde Hitit Büyük Kralı ve Hitit Büyük Kraliçesi ünvanları bir arada verilmiştir?
@@ -585,7 +611,9 @@
     - D-) Han-Hanım
     - **Cevap E-) T/Labarna-Tavananna**
 
-    > **Açıklama:** T/Labarna-Tavananna
+    > **Açıklama:** T/Labarna: Hitit Büyük Kralı
+    > Tavananna: Hitit Büyük Kraliçesi
+    > T/Labarna-Tavananna
 
     ***
 1. Alacahöyük ortostatları aşağıdakilerden hangisine ilişkin en güzel örnekler üzerindeki tasvirlerdir?
@@ -595,7 +623,7 @@
     - D-) Tanrılar
     - E-) Kadınlar
 
-    > **Açıklama:** Bayram törenleri
+    > **Açıklama:** İmparatorluk Döneminde de bayram törenleri için en güzel örnekler Alacahöyük ortostatları üzerindeki tasvirlerdir. Bu tasvirler[1]de kral ve kraliçe resmi giysileri içinde töreni yönetmekte, kurbanlık hayvanlar tören alanına sevk edilmekte, sihirbazlar gösteri yapmaktadır. Bayram havası kompozisyonun bütününe sinmiştir.
 
     ***
 1. Geç Hitit Krallıkları Dönemi aşağıdakilerin hangisinde yaşanmıştır?
@@ -605,7 +633,7 @@
     - D-) Geç Tunç Çağı
     - **Cevap E-) Demir Çağı**
 
-    > **Açıklama:** Demir Çağı
+    > **Açıklama:** Bu dönemde demir işleme teknolojisi gelişmiş ve yaygın olarak kullanılmaya başlanmıştır. Bunun sonucunda MÖ. 1. binyıl “Demir Çağı” olarak da adlandırılmıştır. Geç Hitit Krallıkları, Hititlerin sanat ve mimari geleneklerinin hayatta kalmayı başardığı bir dönemdir. Orta Anadolu’nun güneyinde ve Güneydoğu Anadolu bölgesinde ortaya çıkan Geç Hitit Beyliklerinin bazen Luwi-Arami Beylikleri olarak isimlendirildikleri de literatürde karşımıza çıkabilmektedir.
 
     ***
 1. Aşağıdakilerden hangisi kralların diktirdiği ‘steller’ in özelliklerinden biri **değildir?**
@@ -615,7 +643,8 @@
     - D-) Kraliyetin kullandığı bir iletişim aracıdır.
     - **Cevap E-) Kralın kim olduğu anlaşılamaz**
 
-    > **Açıklama:** Büyük olasılıkla stellerdeki tasvirdeki detaylar sayesinde kralın kim olduğunu biliyorlardı. Bu nedenle E seçeneği doğrudur.
+    > **Açıklama:** Sorunun cevabını “Erken Tunç Çağında Akad Krallarının Anadolu Politikası” başlığı altında bulabilirsiniz.
+    > Büyük olasılıkla stellerdeki tasvirdeki detaylar sayesinde kralın kim olduğunu biliyorlardı. Bu nedenle E seçeneği doğrudur.
 
     ***
 1. Aşağıdakilerden hangisi yerel krallıkların yanında kurulan en çok bilinen karum ve wabartum dan birisi **değildir?**
@@ -625,7 +654,8 @@
     - D-) Wahşuşana
     - E-) Şalatuwara
 
-    > **Açıklama:** "Sarmut" yerel krallıkların yanında kurulan en çok bilinen karum ve wabartum dan birisi değildir?
+    > **Açıklama:** Sorunun cevabını "Orta Tunç Çağı- Asur Ticaret Kolonileri Dönemi" başlığı altında bulabilirsiniz.
+    > "Sarmut" yerel krallıkların yanında kurulan en çok bilinen karum ve wabartum dan birisi değildir?
 
     ***
 1. Asur Koloni Dönemine Kaniş’e varıncaya kadar açılmamalarını garanti altına almak için kilin üzerine mühür basılıyordu. Bu tür mühür baskılı kil topaklarına ne ad verilir?
@@ -635,7 +665,8 @@
     - D-) Şekel
     - E-) Tunç
 
-    > **Açıklama:** Asur Koloni Dönemine Kaniş’e varıncaya kadar açılmamalarını garanti altına almak için kilin üzerine mühür basılıyordu. Bu tür mühür baskılı kil topaklarına "Bulla" adı verilir.
+    > **Açıklama:** Sorunun cevabını “Orta Tunç Çağı- Asur Ticaret Kolonileri Dönemi” başlığı altında bulabilirsiniz.
+    > Asur Koloni Dönemine Kaniş’e varıncaya kadar açılmamalarını garanti altına almak için kilin üzerine mühür basılıyordu. Bu tür mühür baskılı kil topaklarına "Bulla" adı verilir.
 
     ***
 1. Tapınılan tanrı/tanrıçaların kutsal hayvanları biçiminde olan ve dini törenlerde kullanılan kapların adı nedir?
@@ -645,7 +676,8 @@
     - D-) Kibele
     - E-) Aşşur
 
-    > **Açıklama:** Tapınılan tanrı/tanrıçaların kutsal hayvanları biçiminde olan ve dini törenlerde kullanılan kapların adı "Riton" dur.
+    > **Açıklama:** Sorunun cevabını ‘Orta Tunç Çağı- Asur Ticaret Kolonileri Dönemi ‘ başlığı altında bulabilirsiniz.
+    > Tapınılan tanrı/tanrıçaların kutsal hayvanları biçiminde olan ve dini törenlerde kullanılan kapların adı "Riton" dur.
 
     ***
 1. Aşağıdakilerden hangisi hitit devletinin başkentidir?
@@ -655,7 +687,8 @@
     - D-) Asur
     - E-) Alalah (Antakya)
 
-    > **Açıklama:** Hattuşa Hitit devletinin başkentidir.
+    > **Açıklama:** Sorunun cevabını ‘Eski Krallık’ başlığı altında bulabilirsiniz.
+    > Hattuşa Hitit devletinin başkentidir.
 
     ***
 1. Anadolu’daki Akadlı tüccarların yerli Anadolu krallarından mustarip oldukları için yardımını istedikleri Akad kralı kimdir?
@@ -765,7 +798,8 @@
     - D-) Vedat Ali Özkan
     - **Cevap E-) İhsan Sabri Çağlayangil**
 
-    > **Açıklama:** 1970 yılında tarihteki Hitit-Mısır Antlaşmasının 2 metre boyundaki bakır kopyası, Birleşmiş Milletlerin New York’ daki genel merkez binasının duvarına asılmıştır. Bu antlaşmayı imzalayan dönemin dış işleri bakanı İhsan Sabri Çağlayangil'dir.
+    > **Açıklama:** Sorunun cevabını “Erken Tunç Çağında Akad Krallarının Anadolu Politikası” başlığı altında bulabilirsiniz.
+    > 1970 yılında tarihteki Hitit-Mısır Antlaşmasının 2 metre boyundaki bakır kopyası, Birleşmiş Milletlerin New York’ daki genel merkez binasının duvarına asılmıştır. Bu antlaşmayı imzalayan dönemin dış işleri bakanı İhsan Sabri Çağlayangil'dir.
 
     ***
 1. Aşağıdakilerden hangisi tapınağın ana bölümünde genelde tanrı/tanrıça heykellerinin yerleştirildiği en kutsal odanın adıdır?
@@ -775,7 +809,8 @@
     - D-) Tavananna
     - E-) Murşili
 
-    > **Açıklama:** Cella tapınağın ana bölümünde genelde tanrı/tanrıça heykellerinin yerleştirildiği en kutsal odanın adıdıri
+    > **Açıklama:** Sorunun cevabını “Erken Tunç Çağında Akad Krallarının Anadolu Politikası” başlığı altında bulabilirsiniz.
+    > Cella tapınağın ana bölümünde genelde tanrı/tanrıça heykellerinin yerleştirildiği en kutsal odanın adıdıri
 
     ***
 1. Aşağıdakilerden hangisi İmparatorluk dönemi’nde hitit kültürüne ait tanrılarından birisi **değildir?**
@@ -785,7 +820,8 @@
     - D-) Tanrıça İştar
     - **Cevap E-) Zaman Tanrısı**
 
-    > **Açıklama:** Zaman Tanrısı İmparatorluk dönemi’nde hitit kültürüne ait tanrılarından birisi **değildir.**
+    > **Açıklama:** Sorunun cevabını “Erken Tunç Çağında Akad Krallarının Anadolu Politikası” başlığı altında bulabilirsiniz.
+    > Zaman Tanrısı İmparatorluk dönemi’nde hitit kültürüne ait tanrılarından birisi **değildir.**
 
     ***
 1. Hitit Devletini Yakındoğu’nun süper güçlerinden birine dönüştüren, darbeyle Genç Tudhaliya’yı tahttan indiren ve öldüren kral aşağıdakilerden hangisidir?
@@ -795,7 +831,8 @@
     - D-) II. Murşili
     - E-) Şarri-kuşuh
 
-    > **Açıklama:** Hitit Devletini Yakındoğu’nun süper güçlerinden birine dönüştüren, darbeyle Genç Tudhaliya’yı tahttan indiren ve öldüren kral "Şuppiluliuma" dır.
+    > **Açıklama:** Sorunun cevabını “İmparatorluk Dönemi” başlığı altında bulabilirsiniz.
+    > Hitit Devletini Yakındoğu’nun süper güçlerinden birine dönüştüren, darbeyle Genç Tudhaliya’yı tahttan indiren ve öldüren kral "Şuppiluliuma" dır.
 
     ***
 1. Geç Hitit Krallıkları Döneminde kullanılan yazılar arasında **yer almayan** aşağıdakilerden hangisidir?
@@ -805,7 +842,8 @@
     - D-) Arami yazısı
     - **Cevap E-) Koptik**
 
-    > **Açıklama:** "Koptik" Geç Hitit Krallıkları Döneminde kullanılan yazılar arasında yer almaz.
+    > **Açıklama:** Sorunun cevabını “Giriş” başlığı altında bulabilirsiniz.
+    > "Koptik" Geç Hitit Krallıkları Döneminde kullanılan yazılar arasında yer almaz.
 
     ***
 ## Unite 3
@@ -927,38 +965,63 @@
     - D-) Minua
     - E-) II. Sarduri
 
-    > **Açıklama:** Aramu’dan sonra başka bir sülaleden Lutipri oğlu I. Sarduri MÖ. 9. yüzyılın ortalarında Urartu Devleti’ni sağlam temeller üzerine oturtmuştur. Kral Van Gölü’nün doğu kıyısındaki başkent Tuşpa’nın (Van Kalesi) da kurucusudur.
+    > **Açıklama:** URARTULAR
+    > Aramu’dan sonra başka bir sülaleden Lutipri oğlu I. Sarduri MÖ. 9. yüzyılın ortalarında Urartu Devleti’ni sağlam temeller üzerine oturtmuştur. Kral Van Gölü’nün doğu kıyısındaki başkent Tuşpa’nın (Van Kalesi) da kurucusudur.
 
     ***
-1. Medlerle saldırılarıyla birlikte, MÖ. 7. yüzyılın sonlarına doğru Urartu Krallığı'nın yıkılmasına neden olmuş halk aşağıdakilerden hangisidir?
+1. Medlerle saldırılarıyla birlikte, MÖ. 7. yüzyılın sonlarına doğru Urartu Krallığı'nın yıkılmasına neden olmuş halk aşağıdakilerden hangisidir?
     - A-) Frig
     - B-) Lidya
     - C-) Kimmer
     - **Cevap D-) İskit**
     - E-) Hun
 
-    > **Açıklama:** Urartu Krallığı MÖ. 7. yüzyılın sonları, MÖ. 6. yüzyılın başlarında İskitler ve Medlerin akınları sonucunda yıkılmıştır. Doğu Anadolu yeniden sonun başlangıcına dönerek göçebe beyler arasında paylaşılmıştır. Bu bilgi cevabın D şıkkı olduğunu göstermektedir.
+    > **Açıklama:** URARTULAR
+    > Urartu Krallığı MÖ. 7. yüzyılın sonları, MÖ. 6. yüzyılın başlarında İskitler ve Medlerin akınları sonucunda yıkılmıştır. Doğu Anadolu yeniden sonun başlangıcına dönerek göçebe beyler arasında paylaşılmıştır. Bu bilgi cevabın D şıkkı olduğunu göstermektedir.
 
     ***
-1. Urartularda, ilk sıradaki, devletin baş tanrısı  olan ve aynı zamanda savaş tanrısı temsil eden ilah, aşağıdakilerden hangisidir?
+1. Aşağıdakilerden hangisi, Urartu toplumunu oluşturan sınıflardan **birisi değildir?**
+    - A-) Köleler
+    - **Cevap B-) Ruhban**
+    - C-) Soylular
+    - D-) Askerler
+    - E-) Köylüler
+
+    > **Açıklama:** Urartulardan, toplum, soylular, savaşçılar, köylüler ve köleler gibi sınıflardan oluşmaktadır. Dolayısıyla ruhban sınıfı bunlardan birisi değildir?
+
+    ***
+1. Urartularda, ilk sıradaki, devletin baş tanrısı olan ve aynı zamanda savaş tanrısı temsil eden ilah, aşağıdakilerden hangisidir?
     - A-) Kibele
     - B-) Teişeba
     - C-) Şivini
     - D-) Hurri
     - **Cevap E-) Haldi**
 
-    > **Açıklama:** İlk sıradaki tanrı, devletin baş tanrısı ve aynı zamanda savaş
+    > **Açıklama:** URARTULAR
+    > İlk sıradaki tanrı, devletin baş tanrısı ve aynı zamanda savaş
     > tanrısı olan Haldi’dir.
 
     ***
-1. Aşağıdaki yerleşim bölgelerden hangisi veya hangileri Frig yayılım alanı içinde yer alır?<br />I. Bursa<br />II. Eskişehir<br />III. Kütahya<br />IV. Denizli<br />V. Afyonkarahisar
+1. Aşağıdaki yerleşim bölgelerden hangisi veya hangileri Frig yayılım alanı içinde yer alır?<br />I. Bursa<br />II. Eskişehir<br />III. Kütahya<br />IV. Denizli<br />V. Afyonkarahisar
     - A-) I ve II
     - B-) II, III ve IV
     - C-) III ve V
     - **Cevap D-) II, III ve V**
     - E-) I, III ve V
 
-    > **Açıklama:** Frig yayılım alanı içinde Eskişehir, Afyonkarahisar ve Kütahya illeri arasında kalan bölge Dağlık Frigya Bölgesi olarak adlandırılır. Cevap D şıkkıdır.
+    > **Açıklama:** FRİGLER
+    > Frig yayılım alanı içinde Eskişehir, Afyonkarahisar ve Kütahya illeri arasında kalan bölge Dağlık Frigya Bölgesi olarak adlandırılır. Cevap D şıkkıdır.
+
+    ***
+1. Frig toplumsal yapısının ağırlıklı kısmını oluşturan kesim aşağıdakilerden hangisidir?
+    - A-) Soylular
+    - B-) Tüccar
+    - C-) Rahipler
+    - D-) Yöneticiler
+    - **Cevap E-) Köylüler**
+
+    > **Açıklama:** FRİGLER
+    > Frig kentlerinde yöneticiler, rahipler, zanaatkârlar ve tüccar gibi sınıflar yaşardı. Halkının büyük bölümünü köylerde yaşayan tarım ve hayvancılıkla geçinen köylüler oluşturuyordu.
 
     ***
 1. Friglerde krallar ve soyluların gömülmesi için yapılan genellikle ahşaptan ya da taştan bir mezar odasının içine ölü ve armağanlarının yerleştirilmesinden sonra üzerine toprak ya da taş yığılarak oluşturulan yığma mezar tepesine ne ad verilir?
@@ -968,7 +1031,8 @@
     - D-) Niş
     - E-) Tapınak
 
-    > **Açıklama:** Krallar ve soyluların gömülmesi için yapılan bir mezar türüdür. Genellikle ahşaptan ya da taştan bir mezar odasının içine ölü ve armağanlarının yerleştirilmesinden sonra üzerine toprak ya da taş yığılarak oluşturulan yığma mezar tepesine verilen isimdir.
+    > **Açıklama:** FRİGLER
+    > Krallar ve soyluların gömülmesi için yapılan bir mezar türüdür. Genellikle ahşaptan ya da taştan bir mezar odasının içine ölü ve armağanlarının yerleştirilmesinden sonra üzerine toprak ya da taş yığılarak oluşturulan yığma mezar tepesine verilen isimdir.
 
     ***
 1. Lidya Krallığı'nın ortaya çıktığı alan genel hatlarıyla bugün ülkemizdeki hangi bölgenin sınırları içinde kalmaktadır?
@@ -978,7 +1042,8 @@
     - **Cevap D-) Ege**
     - E-) Akdeniz
 
-    > **Açıklama:** Lidya Krallığı’nın kurulduğu İç Ege Bölgesi’ne ne zaman geldikleri kesin olarak bilinmemektedir. MÖ. 2. bin yıldan beri bu bölgede ikamet ettikleri düşünülmektedir. Lidya Krallığı’nın kurulduğu topraklar esas olarak Hermos (Gediz) Nehri ile Kaystros (Küçük Menderes) nehirleri arası ve çevresidir. Lidya’nın kuzeyini Kaykos (Kaikos=Bakırçay) Nehri, güneyini ise Mayandros (Maiandros=Büyük Menderes) Nehri sınırlar. Batısında Ayolya (Aiolia) ve İyonya (İonia) kent devletleri, kuzeyinde Misya (Mysia), güneyinde Karya (Karia), doğusunda da Frigya bölgesi yer alır.
+    > **Açıklama:** LİDYALILAR
+    > Lidya Krallığı’nın kurulduğu İç Ege Bölgesi’ne ne zaman geldikleri kesin olarak bilinmemektedir. MÖ. 2. bin yıldan beri bu bölgede ikamet ettikleri düşünülmektedir. Lidya Krallığı’nın kurulduğu topraklar esas olarak Hermos (Gediz) Nehri ile Kaystros (Küçük Menderes) nehirleri arası ve çevresidir. Lidya’nın kuzeyini Kaykos (Kaikos=Bakırçay) Nehri, güneyini ise Mayandros (Maiandros=Büyük Menderes) Nehri sınırlar. Batısında Ayolya (Aiolia) ve İyonya (İonia) kent devletleri, kuzeyinde Misya (Mysia), güneyinde Karya (Karia), doğusunda da Frigya bölgesi yer alır.
 
     ***
 1. Lidyalıların, festivallerde köpek yavruları boğarak kurban sundukları tanrı aşağıdakilerden hangisidir?
@@ -988,28 +1053,39 @@
     - D-) Zeus
     - E-) Baki
 
-    > **Açıklama:** Lidyalılar, Tanrı Kandaules için dini festivallerde köpek yavruları boğarak kurban etmişlerdir.
+    > **Açıklama:** LİDYALILAR
+    > Lidyalılar, Tanrı Kandaules için dini festivallerde köpek yavruları boğarak kurban etmişlerdir.
 
     ***
 1. Anadolu’da Tunç Çağı’nın sona erdiği ve Demir Çağı’nın başladığı tarih aşağıdakilerden hangisidir ?
     - A-) M.Ö. 3200
-    - B-) M.Ö. 2800
-    - C-) M.Ö. 2200
-    - **Cevap D-) M.Ö. 1200**
-    - E-) M.Ö. 800
+    - B-) M.Ö. 2800
+    - C-) M.Ö. 2200
+    - **Cevap D-) M.Ö. 1200**
+    - E-) M.Ö. 800
 
     > **Açıklama:** M.Ö. 1200’de Anadolu’da Tunç Çağı’nın sona ermiş ve Demir Çağı başlamıştır.
     > Doğru Cevap D’dır.
 
     ***
-1. MÖ. 9. yüzyılın ortalarından, MÖ. 7. yüzyılın sonlarına kadar Anadolu'da hüküm sürmüş,  başkenti Tuşpa olan uygarlık aşağıdakilerden hangisidir?
+1. MÖ. 9. yüzyılın ortalarından, MÖ. 7. yüzyılın sonlarına kadar Anadolu'da hüküm sürmüş, başkenti Tuşpa olan uygarlık aşağıdakilerden hangisidir?
     - **Cevap A-) Urartu Devleti**
-    - B-) Frig Devleti
-    - C-) Asur Devleti
-    - D-) Hitit Devleti
-    - E-) Lidya Devleti
+    - B-) Frig Devleti
+    - C-) Asur Devleti
+    - D-) Hitit Devleti
+    - E-) Lidya Devleti
 
     > **Açıklama:** M.Ö. 9. yüzyılın ortalarından M.Ö. 7. yüzyılın sonlarına kadar hüküm süren ve başkenti Tuşpa olan uygarlık Urartu Devleti'dir.
+
+    ***
+1. Assur kaynaklarının "Urartular" olarak adlandırdığı ve genelde hep bu şekilde bilinen halkın, kendilerine verdiği isim aşağıdakilerden hangisinde belirtilmiştir?
+    - A-) Hurri
+    - **Cevap B-) Biaini**
+    - C-) Sarduri
+    - D-) Aramu
+    - E-) Teişeba
+
+    > **Açıklama:** Urartular devletlerini Biaini Devleti olarak adlandırmışlardır, ancak Eski çağ Tarihi ve arkeolojide bu devlet adlandırılırken Assurluların dediği gibi Urartu Krallığı terimi tercih edilmiştir.
 
     ***
 1. Urartularda aynı zamanda savaş tanrısı olan ve her Urartu kalesinde adına bir tapınağı bulunan Urartu tanrısı aşağıdakilerden hangisidir ?
@@ -1024,15 +1100,15 @@
     ***
 1. M.Ö. 9.-7. yüzyıllar arasında Anadolu'da etkili bir güç ve başkenti Gordion olan devlet aşağıdakilerden hangisidir ?
     - A-) Urartu Devleti
-    - **Cevap B-) Frig Devleti**
-    - C-) Asur Devleti
-    - D-) Hitit Devleti
-    - E-) Lidya Devleti
+    - **Cevap B-) Frig Devleti**
+    - C-) Asur Devleti
+    - D-) Hitit Devleti
+    - E-) Lidya Devleti
 
-    > **Açıklama:** Başkenti Gordion olup M.Ö. 9.-7. yüzyıllar arasında etkin olan Anadolu Uygarlığı Frig Devleti'dir.
+    > **Açıklama:** Başkenti Gordion olup M.Ö. 9.-7. yüzyıllar arasında etkin olan Anadolu Uygarlığı Frig Devleti'dir.
 
     ***
-1. Anadolu’ya "*Tümülüs*" mezar geleneğini getiren uygarlık aşağıdakilerden hangisidir  ?
+1. Anadolu’ya "*Tümülüs*" mezar geleneğini getiren uygarlık aşağıdakilerden hangisidir ?
     - A-) Urartu
     - B-) Assur
     - C-) Hitit
@@ -1044,10 +1120,10 @@
     ***
 1. Başkentleri Sardeis olan ve MÖ. 680 - 546 yılları arasında Mermnad Hanedanı zamanında güçlü bir krallık olarak tarih sahnesinde yerini almış uygarlık aşağıdakilerden hangisidir?
     - A-) Urartu Devleti
-    - B-) Asur Devleti
-    - C-) Hitit Devleti
-    - **Cevap D-) Lidya Devleti**
-    - E-) Frig Devleti
+    - B-) Asur Devleti
+    - C-) Hitit Devleti
+    - **Cevap D-) Lidya Devleti**
+    - E-) Frig Devleti
 
     > **Açıklama:** Başkentleri Sardeis olan ve M.Ö. 680-M . 546 yılları arasında Mermnad hanedanı zamanında güçlü bir krallık olarak tarih sahnesinde yerini almış uygarlık Lidya’dır.
 
@@ -1082,28 +1158,41 @@
     > **Açıklama:** Lidyalıların başkenti olan Sardeis antik kenti bugün Manisa ili sınırları içerisinde yer almaktadır.
 
     ***
-1. Anadolu MÖ. kaç yılından itibaren Demir Çağı denilen yeni bir döneme girmiş ve Tunç çağları sona ermiştir?
+1. Anadolu MÖ. kaç yılından itibaren Demir Çağı denilen yeni bir döneme girmiş ve Tunç çağları sona ermiştir?
     - A-) MÖ. 1100
     - **Cevap B-) MÖ.1200**
     - C-) MÖ.1300
     - D-) MÖ.1400
     - E-) MÖ.1500
 
-    > **Açıklama:** Anadolu MÖ. 1200 yılından itibaren Demir Çağı denilen yeni bir döneme girmiş ve Tunç çağları sona ermiştir.
+    > **Açıklama:** Anadolu Kültür Tarihi (Giriş)
+    > Anadolu MÖ. 1200 yılından itibaren Demir Çağı denilen yeni bir döneme girmiş ve Tunç çağları sona ermiştir.
 
     ***
-1. Urartular için aşağıdakilerden hangileri doğrudur?<br />I. MÖ. 9. yüzyılın ortalarından MÖ. 7. yüzyılın sonlarına kadar hüküm sürdüler.<br />II. Merkezleri Van Gölü’nün doğusunda yer alan Tuşpa'dır.<br />III. Yayılım alanları günümüzdeki Doğu Anadolu, Kuzeybatı İran, Ermenistan ve Gürcistan topraklarını kapsar.<br />IV. MÖ. 7. yüzyılın sonları, MÖ. 6. yüzyılın başlarında İskitler ve Medlerin akınları sonucunda yıkılmıştır.<br />V. Urartu Krallığı’nın yükselişi Lidyalılar tarafından yenilgiye uğratıldıkları bir savaşta MÖ. 8. yüzyılda sona ermiştir.
+1. Geç Hitit Krallıkları, Urartu Krallığı, Frig Krallığı ve Lidya Krallığı'nın ortaya çıktığı döneme genel olarak bilim dünyasında ne ad verilmektedir?
+    - **Cevap A-) Demir Çağı**
+    - B-) Bakır Çağı
+    - C-) Tunç Çağı
+    - D-) Orta Çağ
+    - E-) Yakın Çağ
+
+    > **Açıklama:** Anadolu Kültür Tarihi (Giriş)
+    > Demir Çağı’nda Geç Hitit Krallıkları, Urartu Krallığı, Frig krallığı ve Lidya krallığı Anadolu’nun tarih ve kültüründe en önemli rolleri oynamışlardır.
+
+    ***
+1. Urartular için aşağıdakilerden hangileri doğrudur?<br />I. MÖ. 9. yüzyılın ortalarından MÖ. 7. yüzyılın sonlarına kadar hüküm sürdüler.<br />II. Merkezleri Van Gölü’nün doğusunda yer alan Tuşpa'dır.<br />III. Yayılım alanları günümüzdeki Doğu Anadolu, Kuzeybatı İran, Ermenistan ve Gürcistan topraklarını kapsar.<br />IV. MÖ. 7. yüzyılın sonları, MÖ. 6. yüzyılın başlarında İskitler ve Medlerin akınları sonucunda yıkılmıştır.<br />V. Urartu Krallığı’nın yükselişi Lidyalılar tarafından yenilgiye uğratıldıkları bir savaşta MÖ. 8. yüzyılda sona ermiştir.
     - **Cevap A-) I, II, III, IV**
     - B-) I, II, III, V
     - C-) II, III, IV, V
     - D-) I, III, IV, V
     - E-) I, II, IV, V
 
-    > **Açıklama:** Doğru cevap A şıkkı: I, II, III, IV.
+    > **Açıklama:** Demir Çağı’nda Geç Hitit Krallıkları, Urartu Krallığı, Frig krallığı ve Lidya krallığı Anadolu’nun tarih ve kültüründe en önemli rolleri oynamışlardır.
+    > Doğru cevap A şıkkı: I, II, III, IV.
     > I. MÖ. 9. yüzyılın ortalarından MÖ. 7. yüzyılın sonlarına kadar hüküm sürdüler.
     > II. Merkezleri Van Gölü’nün doğusunda yer alan Tuşpa'dır.
-    > III. Yayılım alanları günümüzdeki Doğu Anadolu, Kuzeybatı İran, Ermenistan ve Gürcistan topraklarını kapsar.
-    > IV. MÖ. 7. yüzyılın sonları, MÖ. 6. yüzyılın başlarında İskitler ve Medlerin akınları sonucunda yıkılmıştır.
+    > III. Yayılım alanları günümüzdeki Doğu Anadolu, Kuzeybatı İran, Ermenistan ve Gürcistan topraklarını kapsar.
+    > IV. MÖ. 7. yüzyılın sonları, MÖ. 6. yüzyılın başlarında İskitler ve Medlerin akınları sonucunda yıkılmıştır.
     > Urartu Krallığı’nın yükselişi Lidyalılar tarafından değil, Assurlular tarafından yenilgiye uğratıldıkları bir savaşta MÖ. 8. yüzyılda sona ermiştir.
 
     ***
@@ -1114,17 +1203,19 @@
     - **Cevap D-) Hurriler**
     - E-) Mermnadlar
 
-    > **Açıklama:** MÖ. 13. yüzyılın ilk çeyreğinde Doğu Anadolu’da Van Gölü çevresindeki topraklarda Uruatri ve Nairi adını taşıyan coğrafi bölgelerde Hurri kökenli beylikler bulunmaktaydı.
+    > **Açıklama:** Urartular
+    > MÖ. 13. yüzyılın ilk çeyreğinde Doğu Anadolu’da Van Gölü çevresindeki topraklarda Uruatri ve Nairi adını taşıyan coğrafi bölgelerde Hurri kökenli beylikler bulunmaktaydı.
 
     ***
-1. Assur baskısının artması üzerine beylikler bir araya gelmiş ve MÖ. kaçıncı  yüzyılın ortalarında Urartu Krallığı kurulmuştur?
-    - A-) 6. Yüzyıl
-    - B-) 7. Yüzyıl
-    - C-) 8. Yüzyıl
-    - **Cevap D-) 9. Yüzyıl**
-    - E-) 11. Yüzyıl
+1. Assur baskısının artması üzerine beylikler bir araya gelmiş ve MÖ. kaçıncı yüzyılın ortalarında Urartu Krallığı kurulmuştur?
+    - A-) 6\. Yüzyıl
+    - B-) 7\. Yüzyıl
+    - C-) 8\. Yüzyıl
+    - **Cevap D-) 9\. Yüzyıl**
+    - E-) 11\. Yüzyıl
 
-    > **Açıklama:** Assur baskısının artması üzerine beylikler bir araya gelmiş ve **MÖ. 9. yü**zyılın ortalarında Urartu Krallığı kurulmuştur.
+    > **Açıklama:** Urartular
+    > Assur baskısının artması üzerine beylikler bir araya gelmiş ve **MÖ. 9. yü**zyılın ortalarında Urartu Krallığı kurulmuştur.
 
     ***
 1. Uruatri ve Nairi beyliklerini bir araya getiren bey, ilk Urartu kralı kimdir?
@@ -1134,17 +1225,78 @@
     - D-) Ninurta
     - E-) Tiglatpileser
 
-    > **Açıklama:** Uruatri ve Nairi beyliklerini bir araya getiren bey, ilk Urartu kralı olarak kabul edilen **Aramu**’dur.
+    > **Açıklama:** Urartular
+    > Uruatri ve Nairi beyliklerini bir araya getiren bey, ilk Urartu kralı olarak kabul edilen **Aramu**’dur.
 
     ***
-1. Haldi ve Teişaba'dan sonra Urartu panteonunda yer alan Hurri kökenli ve güneş ile özdeşleşmiş üçüncü tanrı aşağıdakilerden hangisidir?
+1. Bitişken diller grubundan olan Urartu Devleti’nin resmi dili Urartucanın bu gruptaki tek akrabası olan dil aşağıdakilerden hangisidir?
+    - **Cevap A-) Hurrice**
+    - B-) Ermenice
+    - C-) Çeçence
+    - D-) İnguşca
+    - E-) Uygurca
+
+    > **Açıklama:** Urartu Kültürü
+    > Urartu Devleti’nin resmi dili Urartu dili idi. Bu dilin özelliği bitişken diller grubunda oluşudur. Tek akrabası Hurricedir.
+
+    ***
+1. Urartu kralları fethettikleri topraklarda yaşayan halkların tanrılarını da kendi tanrılarının arasına katmışlar ve ne oluşturmuşlardır?
+    - A-) Senato
+    - **Cevap B-) Panteonu**
+    - C-) Ordu
+    - D-) Beylik
+    - E-) Tapınak
+
+    > **Açıklama:** Urartu Kültürü
+    > Urartu kralları fethettikleri topraklarda yaşayan halkların tanrılarını da kendi tanrılarının arasına katmışlar böylece bir devlet **panteonu** (tanrılar birliği) oluşturmuşlardı.
+
+    ***
+1. Urartularda ilk sıradaki tanrı, devletin baş tanrısı ve aynı zamanda savaş tanrısı olan hangisidir?
+    - A-) Kyros
+    - B-) Pisiri
+    - **Cevap C-) Haldi**
+    - D-) Gyges
+    - E-) Minua
+
+    > **Açıklama:** Urartu Kültürü
+    > Urartu tanrıların adları ve onlara hangi hayvanların, hangi sayıda kurban edileceği hiyerarşik sıra içinde belirtilmiştir. Toplam 79 tanrı ve tanrıçanın çoğu hakkında bilgimiz yoktur. İlk sıradaki tanrı, devletin baş tanrısı ve aynı zamanda savaş tanrısı olan **Haldi**’dir.
+
+    ***
+1. Aşağıdaki eşleşmeler hangi konuda bilgi vermektedir?<br />I. Urartu kralı Aramu, Assur kralı III. Salmanassar<br />II. Urartu kralı II. Sarduri, Assur kralı III. Tiglatpileser<br />III. Urartu kralı I. Rusa, Assur kralı II. Sargon
+    - A-) Birbirleriyle dostluk anlaşması yapmış Urartu ve Assur kralları
+    - **Cevap B-) Birbirleriyle savaşmış Urartu ve Assur kralları**
+    - C-) Ortak yönetimle aynı topraklarda hüküm sürmüş Urartu ve Assur kralları
+    - D-) Birbirleriyle ticaret yapmış Urartu ve Assur kralları
+    - E-) Karşılıklı evlilikler yoluyla güçlerini birleştirmiş Urartu ve Assur kralları
+
+    > **Açıklama:** Doğru cevap B şıkkı: Birbirleriyle savaşmış Urartu ve Assur kralları
+    > Assur baskısının artması üzerine MÖ. 9. yüzyılın ortalarında bir araya gelmiş beylikler tarafından kurulan Urartu Krallığı tarihi boyunca Assurlular ile savaşmıştır. Soruda verilen eşleşmeler bu savaşların bazılarında başta bulunan yöneticilerin adlarıdır.
+    > I. Urartu kralı Aramu, Assur kralı III. Salmanassar
+    > II. Urartu kralı II. Sarduri, Assur kralı III. Tiglatpileser
+    > III. Urartu kralı I. Rusa, Assur kralı II. Sargon
+
+    ***
+1. Haldi ve Teişaba'dan sonra Urartu panteonunda yer alan Hurri kökenli ve güneş ile özdeşleşmiş üçüncü tanrı aşağıdakilerden hangisidir?
     - A-) Kandaules
     - B-) Mithras
     - C-) Teşup
     - D-) Matar
     - **Cevap E-) Şivini**
 
-    > **Açıklama:** Hurri kökenli güneş tanrısı Şivini panteonun üçüncü sırasındaki tanrısıydı.
+    > **Açıklama:** Urartu Kültürü
+    > Hurri kökenli güneş tanrısı Şivini panteonun üçüncü sırasındaki tanrısıydı.
+
+    ***
+1. Günümüzde yaşayan bir Çeçen'e aşağıdaki antik dillerde yazılmış metinlerden hangisi sesli olarak okunduğunda ses ve söz dizimi tanıdık gelecektir?
+    - A-) Hitit dili
+    - B-) Lidya dili
+    - **Cevap C-) Urartu dili**
+    - D-) Frig dili
+    - E-) Kelt dili
+
+    > **Açıklama:** Urartu Devleti’nin resmi dili Urartu dili idi. Bu dilin özelliği bitişken diller grubunda oluşudur. Tek akrabası Hurricedir. Urartuca, Kuzeydoğu Kafkas
+    > dil ailesinden Çeçen dili ve İnguş dili ile benzerdir.
+    > Doğru cevap C şıkkı: Urartu dili. Günümüzde yaşayan bir Çeçen'e Urartu dilinde yazılmış metinler sesli olarak okunduğunda ses ve söz dizimi tanıdık gelecektir. Hurrice ile akraba olan Urartu dili, günümüzde konuşulan Çeçen ve İnguş dilleri ile çok yakın benzerlik göstermektedir.
 
     ***
 1. İlkçağ Anadolu kültürlerinin bazılarında görülen "ölülerin yakılmadan gömülmesi uygulamasına" ne ad verilmektedir?
@@ -1154,7 +1306,8 @@
     - D-) Remasyon
     - E-) İntomasyon
 
-    > **Açıklama:** İnhumasyon: Ölülerin yakılmadan gömülmesi uygulamasıdır.
+    > **Açıklama:** Urartu Kültürü
+    > İnhumasyon: Ölülerin yakılmadan gömülmesi uygulamasıdır.
 
     ***
 1. "*Urartu kalelerinde iki tapınak varsa tapınaklardan biri ....., diğeri ise o bölgenin tanrısının tapınağı olurdu.*"<br />Yukarıdaki boşluğa hangi tanrının adı gelmelidir?
@@ -1164,7 +1317,8 @@
     - D-) Teişeba
     - **Cevap E-) Haldi**
 
-    > **Açıklama:** Doğru cevap E şıkkı: Haldi.
+    > **Açıklama:** Urartu dini, çok tanrılıydı. Urartu kralları fethettikleri topraklarda yaşayan halkların tanrılarını da kendi tanrılarının arasına katmışlar böylece bir devlet panteonu (tanrılar birliği) oluşturmuşlardır. Urartularda ilk sıradaki tanrı, devletin baş tanrısı ve aynı zamanda savaş tanrısı olan Haldi’dir. Urartu kalelerinde iki tapınak varsa tapınaklardan biri Haldi, diğeri ise o bölgenin tanrısının tapınağı olurdu.
+    > Doğru cevap E şıkkı: Haldi.
     > Urartularda ilk sıradaki tanrı, devletin baş tanrısı ve aynı zamanda savaş
     > tanrısı olan Haldi’dir. Urartu kalelerinde iki tapınak varsa tapınaklardan biri Haldi, diğeri ise o bölgenin tanrısının tapınağı olurdu.
     > Teişeba ve Şivini de Urartu tanrıları olmakla birlikte Haldi baş tanrıdır ve bu nedenle tapınaklardan biri mutlaka ona aittir. Diğer şıklarda yer alan Kibele bir Frig tanrıçası, Jüpiter ise Roma tanrısıdır.
@@ -1187,9 +1341,9 @@
     - D-) Friglerin dini törenlerine dair yazılı kayıtlar okunmak suretiyle bu törenler hakkında detaylı bilgi edinilmiştir.
     - E-) Antik kaynaklarda Frig eserlerine yer verilmediği için ürettikleri eserlerle ilgili yazılı kayıt bulunmamaktadır.
 
-    > **Açıklama:** Doğru cevap b şıkkı: Frigler çok tanrılı olmakla birlikte sadece Matar (Ana) adını verdikleri tanrıçalarının tasvirlerini yapmışlar ve ona tek tanrı gibi saygı göstermişlerdir.
+    > **Açıklama:** Doğru cevap b şıkkı: Frigler çok tanrılı olmakla birlikte sadece Matar (Ana) adını verdikleri tanrıçalarının tasvirlerini yapmışlar ve ona tek tanrı gibi saygı göstermişlerdir.
     > Diğer şıklarda yer alanlar doğru değildir:
-    > Gordion tümülüsünde ele geçen zengin buluntulu mezar odasının Midas’a ait olmadığı dendrokronoloji yöntemi ile saptanmıştır. Frig toplumu sınıflı bir toplumdur. Frig yazısı deşifre edilememiştir, ayrıca yazılı belgelerimiz olmadığı için Friglerin kaya anıtlarının önünde ne çeşit törenler düzenledikleri kesin olarak bilinememektedir. Antik kaynaklar Frig eserlerine yer vermiştir. Antik kaynaklarda verilen bilgilerden öğrenildiğine göre Frig dokumaları ünlüydü.
+    > Gordion tümülüsünde ele geçen zengin buluntulu mezar odasının Midas’a ait olmadığı dendrokronoloji yöntemi ile saptanmıştır. Frig toplumu sınıflı bir toplumdur. Frig yazısı deşifre edilememiştir, ayrıca yazılı belgelerimiz olmadığı için Friglerin kaya anıtlarının önünde ne çeşit törenler düzenledikleri kesin olarak bilinememektedir. Antik kaynaklar Frig eserlerine yer vermiştir. Antik kaynaklarda verilen bilgilerden öğrenildiğine göre Frig dokumaları ünlüydü.
 
     ***
 1. Aşağıdakilerden hangileri Frigler tarafından Anadolu'ya tanıtılmış, Anadolu'da ilk kez uygulanmıştır?
@@ -1199,7 +1353,8 @@
     - D-) Tümülüs, sikke
     - E-) Megaron, sikke
 
-    > **Açıklama:** Doğru cevap C şıkkı: Tümülüs, fibula.
+    > **Açıklama:** Friglerde maden işçiliği, mobilyacılık, dokumacılık ve çanak çömlekçilik gelişmiştir. Maden işçiliğinde demir, tunç ve değerli maden işçiliği vardı. Ancak tunç işçiliği daha fazla gelişmiştir. Tunç eser örnekleri Gordion’da yerleşmeden ve tümülüslerden ele geçirilmiştir. Frigler soylularını tümülüslere veya kaya mezarlarına gömmüşlerdir. Anadolu’ya tümülüs mezar geleneğini Frigler getirmişlerdir. Ege’de MÖ. 13. yüzyıldan beri kullanılan bir tür çengelli iğne olan fibulaları Anadolu’da ilk kullanan toplum Friglerdir.
+    > Doğru cevap C şıkkı: Tümülüs, fibula.
     > Frigler soylularını tümülüslere veya kaya mezarlarına gömmüşlerdir. Anadolu’ya tümülüs mezar geleneğini Frigler getirmişlerdir.
     > Ege’de MÖ. 13. yüzyıldan beri kullanılan bir tür çengelli iğne olan fibulaları Anadolu’da ilk kullanan toplum Friglerdir.
 
@@ -1212,17 +1367,18 @@
     - E-) Sümerler
 
     > **Açıklama:** Doğru cevap D şıkkı: Lidyalılar.
-    > Anadolu’nun Demir Çağı krallıklarından biri olan Lidya Krallığı MÖ. 680-MÖ. 546 yılları arasında güçlü bir krallık olarak tarih sahnesinde yerini almıştır. Lidyalılar sikkeyi (madeni para) icat ederek uygarlığa en büyük katkılardan birini yapmışlardır. Güncel bilgilerimize göre onların döneminden önce sikke kullanımı mevcut değildir. Diğer şıklarda yer alan topluluklar Lidyalılardan önce yaşamış oldukları için sikke kullanmamışlardır.
+    > Anadolu’nun Demir Çağı krallıklarından biri olan Lidya Krallığı MÖ. 680-MÖ. 546 yılları arasında güçlü bir krallık olarak tarih sahnesinde yerini almıştır. Lidyalılar sikkeyi (madeni para) icat ederek uygarlığa en büyük katkılardan birini yapmışlardır. Güncel bilgilerimize göre onların döneminden önce sikke kullanımı mevcut değildir. Diğer şıklarda yer alan topluluklar Lidyalılardan önce yaşamış oldukları için sikke kullanmamışlardır.
 
     ***
-1. Lidyalılar ile ilgili olarak aşağıdakilerden hangisi söylenebilir?<br />I. Sikkeyi icat ettiler.<br />II. Fibulayı icat ettiler.<br />III. Başkentleri Sardeis'tir.<br />IV. Anadolu'da tümülüs kullanımını başlattılar.
+1. Lidyalılar ile ilgili olarak aşağıdakilerden hangisi söylenebilir?<br />I. Sikkeyi icat ettiler.<br />II. Fibulayı icat ettiler.<br />III. Başkentleri Sardeis'tir.<br />IV. Anadolu'da tümülüs kullanımını başlattılar.
     - A-) I, II
     - **Cevap B-) I, III**
     - C-) I, IV
     - D-) II, IV
     - E-) II, III
 
-    > **Açıklama:** Lidyalılar sikkeyi icat ettiler; başkentleri Sardeis'tir. Diğer ifadelerde bahsedilen Anadolu'da tümülüs kullanımını başlatan Friglerdir. Fibula ise Ege toplumlarında daha önceden bilinmekle birlikte Anadolu'da Frigler tarafından uygulanmıştır.
+    > **Açıklama:** Persler Lidya Krallığı'nı MÖ. 547’de yıkarak bundan sonra bütün Anadolu’ya hâkim olmuşlardır. Persler tarafından yenilgiye uğratılmaları Anadolu'da Pers hakimiyetinin başlamasına neden olan krallık Lidya Krallığı'dır.
+    > Lidyalılar sikkeyi icat ettiler; başkentleri Sardeis'tir. Diğer ifadelerde bahsedilen Anadolu'da tümülüs kullanımını başlatan Friglerdir. Fibula ise Ege toplumlarında daha önceden bilinmekle birlikte Anadolu'da Frigler tarafından uygulanmıştır.
 
     ***
 1. Antik çağda parfüm ve kremleri Lidyalılardan temin edilen bir hanım bu ürünleri hangi kapta muhafaza ederdi?
@@ -1232,7 +1388,8 @@
     - **Cevap D-) Lydion**
     - E-) Kantharos
 
-    > **Açıklama:** Doğru cevap D şıkkı: Lydion.
+    > **Açıklama:** Diğer şıklarda yer alanlar da antik kap formları olmakla birlikte, Lydionlar Lidya’ya özgü kaplardır. Bunlar Lidya kremleri ve bakkaris adlı parfümlerinin içine konulup ihraç edilmesinde kullanılmışlardır.
+    > Doğru cevap D şıkkı: Lydion.
     > Lydionlar Lidya’ya özgü kaplardır. Bunlar Lidya kremleri ve bakkaris adlı parfümlerinin içine konulup ihraç edilmesinde kullanılmışlardır.
 
     ***
@@ -1254,6 +1411,16 @@
     - E-) III. Sarduri
 
     > **Açıklama:** Aramu
+
+    ***
+1. Urartu krallığının yönetim biçimi aşağıdaki seçeneklerden hangisidir?
+    - A-) Otoriter
+    - B-) Devletçi
+    - C-) Oligarşik
+    - **Cevap D-) Teokratik Monarşi**
+    - E-) Aristokrasi
+
+    > **Açıklama:** Teokratik Monarşi
 
     ***
 1. Urartu krallığının Meherkapı Nişi içinde bulunan yazıtta devletin baş tanrısı ve savaş tanrısı aşağıdakilerden hangisidir?
@@ -1284,6 +1451,16 @@
     - E-) M.Ö. 579
 
     > **Açıklama:** M.Ö. 585
+
+    ***
+1. Frig tapınağının ön cephelerini temsil eden megaron planlı fasadların Eskişehir'de ele geçirilmiş örneği için aşağıdakilerden hangisi gösterilebilir?
+    - A-) Maltaş Anıtı
+    - B-) Aslankaya Anıtı
+    - **Cevap C-) Yazılıkaya Anıtı**
+    - D-) Büyük Kapı Kaya Anıtı
+    - E-) Deliklitaş Anıtı
+
+    > **Açıklama:** Frigler tanrıça için Eskişehir, Kütahya ve Afyonkarahisar illeri arasındaki Dağlık Frigya Bölgesi’ndeki kayalıklara fasadlar (işlenmiş kaya cephesi), altarlar ve nişler olmak üzere çeşitli dinsel kaya anıtları yontmuşlardır. Fasadlar megaron planlı bir Frig tapınağının ön cephelerini temsil etmektedirler. Kendi içlerinde Anıtsal Fasadlar ve Küçük Fasadlar olmak üzere iki gruba ayrılırlar. Anıtsal fasad örneklerini Eskişehir’de Yazılıkaya Midas Anıtı, Bitmemiş Anıt, Arezastis veya Areyastis Anıtı, Bahşayiş Anıtı; Afyonkarahisar’da Maltaş Anıtı, Aslankaya Anıtı, Değirmen Anıtı ve Burmeç Anıtı; Kütahya yöresinde ise Deliklitaş Anıtı oluşturur. Eskişehir’de Midas Kenti’nde Sümbüllü Anıt ve Küçük Anıt, Kümbet köyünde Kümbet Berberini Anıtı; Afyonkarahisar’da Büyük Kapı Kaya Anıtı, Küçük Kapı Kaya Anıtı, Kumcaboğaz Kapı Kaya Anıtı ve Döğer Asar Kaya Anıtı küçük fasadların örnekleridir.
 
     ***
 1. Lidya'nın başkenti Sardeis günümüzde hangi ilimiz sınırları içinde yer almaktadır?
@@ -1343,7 +1520,8 @@
     - D-) Teişeba
     - E-) Nalaini
 
-    > **Açıklama:** Urartu Kültürü’nde ilk sıradaki tanrı, devletin baş tanrısı ve aynı zamanda savaş tanrısı olan Haldi’dir.
+    > **Açıklama:** İkinci sırada yer alan tanrı Hurri kökenli fırtına ve gök gürültüsü tanrısı olan Teişeba’dır Hurri kökenli güneş tanrısı Şivini ise panteonun üçüncü sırasındaki tanrısıdır.
+    > Urartu Kültürü’nde ilk sıradaki tanrı, devletin baş tanrısı ve aynı zamanda savaş tanrısı olan Haldi’dir.
 
     ***
 1. MÖ. 9.-7. yüzyıllar arasında Orta Anadolu’da etkin bir krallık kurmuş olan Frigler, Anadolu'ya gelmiş oldukları bölge aşağıdakilerden hangisidir?
@@ -1366,6 +1544,16 @@
     > **Açıklama:** Friglerin ilk kralı Gordios’tur.
 
     ***
+1. Frigler, tanrıçaları için kayalıklara fasadlar (işlenmiş kaya cephesi), altarlar ve nişler olmak üzere çeşitli dinsel kaya anıtları yontmuşlardır. Bu gösterişli anıtlardan biri olan Yazılıkaya-Midas Anıtı hangi ilimizde bulunmaktadır?
+    - **Cevap A-) Eskişehir**
+    - B-) Tokat
+    - C-) Afyon
+    - D-) Uşak
+    - E-) Konya
+
+    > **Açıklama:** Frigler tanrıça için Eskişehir, Kütahya ve Afyonkarahisar illeri arasındaki Dağlık Frigya Bölgesi’ndeki kayalıklara fasadlar (işlenmiş kaya cephesi), altarlar ve nişler olmak üzere çeşitli dinsel kaya anıtları yontmuşlardır. Fasadlar megaron planlı bir Frig tapınağının ön cephelerini temsil etmektedirler. Kendi içlerinde Anıtsal Fasadlar ve Küçük Fasadlar olmak üzere iki gruba ayrılırlar. Anıtsal fasad örneklerinden biri olan Yazılıkaya Midas Anıtı, Eskişehir’dedir.
+
+    ***
 1. Anadolu’ya ……………. mezar geleneğini Frigler getirmişlerdir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
     - A-) Megaron
     - B-) İnhumasyon
@@ -1376,7 +1564,7 @@
     > **Açıklama:** Anadolu’ya tümülüs mezar geleneğini Frigler getirmişlerdir.
 
     ***
-1. Frig soylularının gömüldüğü mezar türlerinden biri olan kaya mezarları genellikle Frig kalelerinin eteklerinde ya da yakınlarındaki kayalıklara oyulmuşlardır. Küçük dikdörtgen kapıları genellikle yerden ulaşılması zor yüksekte bulunur. Bunun yanında zemin seviyesinde ve toprak altındaki kayalara oyulmuş örnekleri de vardır. Bu noktada 40 adet kaya mezarı ile en büyük Frig nekropolü olarak belirlenmiş alan aşağıdaki yerlerden hangisinde bulunmaktadır?
+1. Frig soylularının gömüldüğü mezar türlerinden biri olan kaya mezarları genellikle Frig kalelerinin eteklerinde ya da yakınlarındaki kayalıklara oyulmuşlardır. Küçük dikdörtgen kapıları genellikle yerden ulaşılması zor yüksekte bulunur. Bunun yanında zemin seviyesinde ve toprak altındaki kayalara oyulmuş örnekleri de vardır. Bu noktada 40 adet kaya mezarı ile en büyük Frig nekropolü olarak belirlenmiş alan aşağıdaki yerlerden hangisinde bulunmaktadır?
     - A-) Eskişehir Çukurca Köyü
     - **Cevap B-) Afyonkarahisar Köhnüş Vadisi**
     - C-) Eskişehir Sivrihisar İlçesi
@@ -1413,7 +1601,8 @@
     - D-) Madencilik
     - **Cevap E-) Denizcilik**
 
-    > **Açıklama:** Urartular MÖ. 9. yüzyılın ortalarından MÖ. 7. yüzyılın sonlarına kadar Van Gölü’nün doğu kıyısında yer alan Tuşpa (Van Kalesi) merkez olmaküzere güçlü bir krallık kurmuşlardır. Yayılım alanı günümüzdeki Doğu Anadolu, Kuzeybatı İran, Ermenistan ve Gürcistan topraklarını kapsamıştır. Bölge arazisinin büyük bir bölümü sıradağlar ve yaylalarla kaplıdır, tarıma elverişli ovalar az sayıdadır. Urartu Krallığı’nda tarım, hayvancılık, mimari, madencilik, taş işçiliği ve çanak çömlekçilik gelişmiştir.
+    > **Açıklama:** Urartular karasal bir bölgede yaşadıkları için denizcilikle hiçbir zaman uğraşmamışlardır.
+    > Urartular MÖ. 9. yüzyılın ortalarından MÖ. 7. yüzyılın sonlarına kadar Van Gölü’nün doğu kıyısında yer alan Tuşpa (Van Kalesi) merkez olmaküzere güçlü bir krallık kurmuşlardır. Yayılım alanı günümüzdeki Doğu Anadolu, Kuzeybatı İran, Ermenistan ve Gürcistan topraklarını kapsamıştır. Bölge arazisinin büyük bir bölümü sıradağlar ve yaylalarla kaplıdır, tarıma elverişli ovalar az sayıdadır. Urartu Krallığı’nda tarım, hayvancılık, mimari, madencilik, taş işçiliği ve çanak çömlekçilik gelişmiştir.
 
     ***
 1. Urartu Krallığının başkenti olan Tuşpa (Van) hangi kral zamanında kurulmuştur?
@@ -1423,7 +1612,7 @@
     - D-) II. Argişti
     - E-) I. Rusa
 
-    > **Açıklama:** Uruatri ve Nairi beyliklerini bir araya getiren bey, ilk Urartu kralı olarak kabul edilen Aramu’dur. Aramu beylikleri bir çatı altında toplamış ve Arzaşkun adlı bir başkent kurmuştur. Ancak Urartu Devleti’nin kurulması Assur’un Doğu Anadolu’nun kaynaklarını yağmalamasına engel olacağından Assur Kralı III. Salmanassar (MÖ. 858-824) bölgeye sefer yaparak Aramu’nun başkenti Arzaşkun’u ve Sugunia’nın da içinde bulunduğu kentlerini ele geçirip, tahrip etmiştir. **Aramu’dan sonra başka bir sülaleden Lutipri oğlu I. Sarduri MÖ. 9. yüzyılın ortalarında Urartu Devleti’ni sağlam temeller üzerine oturtmuştur. Kral Van Gölü’nün doğu kıyısındaki başkent Tuşpa’nın (Van Kalesi) da kurucusudur.**
+    > **Açıklama:** Uruatri ve Nairi beyliklerini bir araya getiren bey, ilk Urartu kralı olarak kabul edilen Aramu’dur. Aramu beylikleri bir çatı altında toplamış ve Arzaşkun adlı bir başkent kurmuştur. Ancak Urartu Devleti’nin kurulması Assur’un Doğu Anadolu’nun kaynaklarını yağmalamasına engel olacağından Assur Kralı III. Salmanassar (MÖ. 858-824) bölgeye sefer yaparak Aramu’nun başkenti Arzaşkun’u ve Sugunia’nın da içinde bulunduğu kentlerini ele geçirip, tahrip etmiştir. **Aramu’dan sonra başka bir sülaleden Lutipri oğlu I. Sarduri MÖ. 9. yüzyılın ortalarında Urartu Devleti’ni sağlam temeller üzerine oturtmuştur. Kral Van Gölü’nün doğu kıyısındaki başkent Tuşpa’nın (Van Kalesi) da kurucusudur.**
 
     ***
 1. Aşağıdakilerden hangisi Urartu Krallığı dininde yer alan tanrı Haldi'nin niteliklerini göstermektedir?
@@ -1433,7 +1622,7 @@
     - **Cevap D-) Baş tanrı ve savaş tanrısı**
     - E-) Baş tanrı ve bilgelik tanrısı
 
-    > **Açıklama:** Urartu dini, çok tanrılıydı. Urartu kralları fethettikleri topraklarda yaşayan halkların tanrılarını da kendi tanrılarının arasına katmışlar böylece bir devlet panteonu (tanrılar birliği) oluşturmuşlardır. Van ovasında Toprakkale yakınlarındaki Meherkapı Nişi içinde bulunan yazıtta, Urartu tanrıların adları ve onlara hangi hayvanların, hangi sayıda kurban edileceği hiyerarşik sıra içinde belirtilmiştir. Toplam 79 tanrı ve tanrıçanın çoğu hakkında bilgimiz yoktur. İlk sıradaki tanrı, devletin baş tanrısı ve aynı zamanda savaş tanrısı olan Haldi’dir. Tanrı Haldi tapınaklarına savaş silahları adak olarak bırakılırdı, büyük bir mızrak Haldi’yi simgelerdi.
+    > **Açıklama:** Urartu dini, çok tanrılıydı. Urartu kralları fethettikleri topraklarda yaşayan halkların tanrılarını da kendi tanrılarının arasına katmışlar böylece bir devlet panteonu (tanrılar birliği) oluşturmuşlardır. Van ovasında Toprakkale yakınlarındaki Meherkapı Nişi içinde bulunan yazıtta, Urartu tanrıların adları ve onlara hangi hayvanların, hangi sayıda kurban edileceği hiyerarşik sıra içinde belirtilmiştir. Toplam 79 tanrı ve tanrıçanın çoğu hakkında bilgimiz yoktur. İlk sıradaki tanrı, devletin baş tanrısı ve aynı zamanda savaş tanrısı olan Haldi’dir. Tanrı Haldi tapınaklarına savaş silahları adak olarak bırakılırdı, büyük bir mızrak Haldi’yi simgelerdi.
 
     ***
 1. İlk Frig kralından ismini alan ve Frig Krallığı'na başkentlik yapan merkez aşağıdakilerden hangisidir?
@@ -1443,7 +1632,7 @@
     - D-) Hattuşa
     - E-) Sardeis
 
-    > **Açıklama:** Yangın ile tahrip olan Erken Frig yerleşmesinin üzerine beş metre kalınlığında bir kil tabakası yığılmıştır. Bu kil tabakası üzerine yeni yerleşme eski plan esas alınarak gelişmiş inşa teknikleriyle inşa edilmiştir (Orta Frig Dönem: MÖ. 800-550). MÖ. 8. yüzyılın sonlarına doğru tamamlanan yerleşme Frig Krallığı’nın da kurulduğu yerleşmedir. Başkent Gordion’a adını veren Friglerin ilk kralı Gordios’tur. Kral Gordios’un siyasi faaliyetleri hakkında bilgi bulunmamaktadır.
+    > **Açıklama:** Yangın ile tahrip olan Erken Frig yerleşmesinin üzerine beş metre kalınlığında bir kil tabakası yığılmıştır. Bu kil tabakası üzerine yeni yerleşme eski plan esas alınarak gelişmiş inşa teknikleriyle inşa edilmiştir (Orta Frig Dönem: MÖ. 800-550). MÖ. 8. yüzyılın sonlarına doğru tamamlanan yerleşme Frig Krallığı’nın da kurulduğu yerleşmedir. Başkent Gordion’a adını veren Friglerin ilk kralı Gordios’tur. Kral Gordios’un siyasi faaliyetleri hakkında bilgi bulunmamaktadır.
 
     ***
 1. Frig Krallığı'nda yaşayan halkın ve bu anlamda devletin ana geçim kaynağı aşağıdaki hangi seçenekte belirtilmiştir?
@@ -1453,7 +1642,7 @@
     - D-) Hayvancılık ve madencilik
     - **Cevap E-) Tarım ve hayvancılık**
 
-    > **Açıklama:** Yazılı belgelerimiz olmadığı için Friglerin kaya anıtlarının önünde ne çeşit törenler düzenlediklerini kesin olarak bilemiyoruz. Ancak geçimlerini çoğunlukla tarım ve hayvancılıkla sağlayan Friglerin dinî törenlerde tanrıçadan kendilerine bolluk ve bereket getirmesini istedikleri anlaşılmaktadır.
+    > **Açıklama:** Yazılı belgelerimiz olmadığı için Friglerin kaya anıtlarının önünde ne çeşit törenler düzenlediklerini kesin olarak bilemiyoruz. Ancak geçimlerini çoğunlukla tarım ve hayvancılıkla sağlayan Friglerin dinî törenlerde tanrıçadan kendilerine bolluk ve bereket getirmesini istedikleri anlaşılmaktadır.
 
     ***
 1. Frig krallarının ölü gömme geleneğinde mezarları nasıl inşa edilmiştir?
@@ -1463,27 +1652,27 @@
     - D-) Yığma toprak, ahşap odalı ve dromoslu
     - E-) Yığma toprak, taş odalı ve ahşap dromosludur.
 
-    > **Açıklama:** Frigler soylularını tümülüslere veya kaya mezarlarına gömmüşlerdir. Anadolu’ya tümülüs mezar geleneğini Frigler getirmişlerdir. Frig tümülüslerinin altında ölüler için genellikle ahşap küçük bir mezar odası inşa edilirdi veya ahşapla kaplanmış dikdörtgen çukurlar oluşturulurdu. Mezar odasının içine ölü elbiseleriyle yatırıldıktan sonra, yanına mezar hediyeleri yerleştirilir ve mezar odasının düz ya da iki yana eğimli çatısı ahşaplarla kapatılırdı. Oda kapısı yoktu. Mezar odasının üzerine önce yumruk büyüklüğünde çakıl taşı tabakası, onun üzerine ıslak kil tabakası, ıslak kil tabakasının üzerine de kuru kil tabakası yığılırdı. Tümülüsün yüksekliği içinde yatan soylunun önemine göre artırılırdı. Tümülüsler tek kişilik mezar anıtlarıdır. Frig tümülüslerinin en yoğun olduğu yer 100 kadar tümülüs içeren Gordion Nekropolü ve 20 kadar tümülüs içeren Ankara’dır.
+    > **Açıklama:** Frigler soylularını tümülüslere veya kaya mezarlarına gömmüşlerdir. Anadolu’ya tümülüs mezar geleneğini Frigler getirmişlerdir. Frig tümülüslerinin altında ölüler için genellikle ahşap küçük bir mezar odası inşa edilirdi veya ahşapla kaplanmış dikdörtgen çukurlar oluşturulurdu. Mezar odasının içine ölü elbiseleriyle yatırıldıktan sonra, yanına mezar hediyeleri yerleştirilir ve mezar odasının düz ya da iki yana eğimli çatısı ahşaplarla kapatılırdı. Oda kapısı yoktu. Mezar odasının üzerine önce yumruk büyüklüğünde çakıl taşı tabakası, onun üzerine ıslak kil tabakası, ıslak kil tabakasının üzerine de kuru kil tabakası yığılırdı. Tümülüsün yüksekliği içinde yatan soylunun önemine göre artırılırdı. Tümülüsler tek kişilik mezar anıtlarıdır. Frig tümülüslerinin en yoğun olduğu yer 100 kadar tümülüs içeren Gordion Nekropolü ve 20 kadar tümülüs içeren Ankara’dır.
 
     ***
 1. MÖ. 590-585 yılları arasında Lidya Krallığı ile Med Krallığı'nın Kızılırmak boyunca beş yıl art arda süren savaşlarının bitmesine neden olan etken aşağıdakilerden hangisidir?
     - A-) Kimmer saldırılarından dolayı kralların ülkelerini savunmak zorunda kalışı
-    - B-) Med kralı Kyaksares savaş meydanında ölmesi
-    - C-) Lidya Kralı Alyattes'in savaş sırasındaki ölümü
+    - B-) Med kralı Kyaksares savaş meydanında ölmesi
+    - C-) Lidya Kralı Alyattes'in savaş sırasındaki ölümü
     - D-) Savaş kazanılmamış ve her iki devlet arasında barış paktı sağlanarak savaşa son verilmiştir.
     - **Cevap E-) Savaş sırasında yaşanan güneş tutulması olayının, savaşı bitirmek için tanrısal bir işaret olarak yorumlanması**
 
-    > **Açıklama:** Medler Urartu Krallığı’nın ortadan kalkmasından sonra kralları Kyaksares önderliğinde batı yönde Anadolu içlerine ilerlemeye başlamışlar ve Kızılırmak’ın doğu kıyısına gelmişlerdir. Lidya kralı Alyattes Med ordusunu Kızılırmak’ta ordusuyla karşılamıştır. MÖ. 590 yılında Pteria’da (Yozgat Kerkenes) yapılan savaşta iki ordu da birbirine üstünlük sağlayamamıştır. Eskiçağ’da savaşlar ilkbahar ve yaz aylarında yapıldığından, her iki ordu kışı geçirmek için ülkelerine geri dönmüştür. Ertesi yıl ilkbahar ve yaz aylarında yapılan savaşta da üstünlük sağlayan olmamış ve bu şekilde savaş beş yıl boyunca devam etmiştir. Beşinci yıl MÖ. 28 Mayıs 585 günü gündüz vakti iki ordu savaşırken güneş tutulması meydana geldi. İki ordu tanrıların barış yapmalarını istediğini düşünerek barış anlaşması imzalamıştır.
+    > **Açıklama:** Medler Urartu Krallığı’nın ortadan kalkmasından sonra kralları Kyaksares önderliğinde batı yönde Anadolu içlerine ilerlemeye başlamışlar ve Kızılırmak’ın doğu kıyısına gelmişlerdir. Lidya kralı Alyattes Med ordusunu Kızılırmak’ta ordusuyla karşılamıştır. MÖ. 590 yılında Pteria’da (Yozgat Kerkenes) yapılan savaşta iki ordu da birbirine üstünlük sağlayamamıştır. Eskiçağ’da savaşlar ilkbahar ve yaz aylarında yapıldığından, her iki ordu kışı geçirmek için ülkelerine geri dönmüştür. Ertesi yıl ilkbahar ve yaz aylarında yapılan savaşta da üstünlük sağlayan olmamış ve bu şekilde savaş beş yıl boyunca devam etmiştir. Beşinci yıl MÖ. 28 Mayıs 585 günü gündüz vakti iki ordu savaşırken güneş tutulması meydana geldi. İki ordu tanrıların barış yapmalarını istediğini düşünerek barış anlaşması imzalamıştır.
 
     ***
 1. Lidyalıların başkenti Sardeis'de aşağıdaki tapınaklardan hangisi veya hangileri bulunmakaatdır?
     - A-) Kybele ve Artemis Tapınakları
-    - **Cevap B-) Kybele ve Apollon Tapınakları**
+    - **Cevap B-) Kybele ve Apollon Tapınakları**
     - C-) Artemis ve Apollon Tapınakları
     - D-) Kybele ve Demeter Tapınakları
-    - E-) Artemis ve Leto Tapınakları
+    - E-) Artemis ve Leto Tapınakları
 
-    > **Açıklama:** Sardeis’te Lidya krallarının sarayları, yönetim binaları, Kybele ve Apollon tapınakları, altın arıtma atölyeleri, pazar yeri ve kralî bahçeler bulunurdu. Halka ait konutlar dikdörtgen planlı, taş temelli ve kerpiç duvarlıydı. Evlerde iç bölmeler halı ve kilimler ile yapılmıştır. Halkın çoğunluğu köylerde yaşıyor tarım ve hayvancılık yapıyorlardı. Tarım ürünleri arasında tahıl, elma, üzüm, zeytin, incir, soğan, kestane, ceviz ve safran bulunmaktadır. Hayvancılıkta koyun yetiştiriciliği önemlidir. Şarap, zeytinyağı, parfüm, krem, ilaç, boya üretimi de yapılmıştır.
+    > **Açıklama:** Sardeis’te Lidya krallarının sarayları, yönetim binaları, Kybele ve Apollon tapınakları, altın arıtma atölyeleri, pazar yeri ve kralî bahçeler bulunurdu. Halka ait konutlar dikdörtgen planlı, taş temelli ve kerpiç duvarlıydı. Evlerde iç bölmeler halı ve kilimler ile yapılmıştır. Halkın çoğunluğu köylerde yaşıyor tarım ve hayvancılık yapıyorlardı. Tarım ürünleri arasında tahıl, elma, üzüm, zeytin, incir, soğan, kestane, ceviz ve safran bulunmaktadır. Hayvancılıkta koyun yetiştiriciliği önemlidir. Şarap, zeytinyağı, parfüm, krem, ilaç, boya üretimi de yapılmıştır.
 
     ***
 1. İlk kaz Lidyalılar tarafından kullanılan sikkenin ham maddesi aşağıdaki seçeneklerden hangisinde gösterilmiştir?
@@ -1493,7 +1682,17 @@
     - D-) Sadece altın
     - **Cevap E-) Altın-gümüş**
 
-    > **Açıklama:** Lidyalılar sikke adı verilen madeni parayı icat ederek uygarlık tarihine en büyük katkılardan birini yapmışlardır. Herodotos ilk olarak altın ve gümüş para basanların Lidyalılar olduklarını belirtir. Kolophonlu Ksenophanes de sikkenin icadını Lidyalılara bağlar. İlk sikkeler altın ve gümüş karışımı bir alaşım olan elektrondan yapılmışlardır**.** Lidyalılar Paktolos (Sart) Çayı’nın kumlarından elde ettikleri, Lidya bölgesine özgü elektronu ilk sikkelerin basımında kullanmışlardır. Sikkeden önce elektron, külçe, parça ve toz halinde mal ve hizmetlerin ücretlerinin ödenmesinde kullanılmıştır. MÖ. 7. yüzyılın ikinci yarısında elektrondan ilk sikkeler basılmıştır.
+    > **Açıklama:** Lidyalılar sikke adı verilen madeni parayı icat ederek uygarlık tarihine en büyük katkılardan birini yapmışlardır. Herodotos ilk olarak altın ve gümüş para basanların Lidyalılar olduklarını belirtir. Kolophonlu Ksenophanes de sikkenin icadını Lidyalılara bağlar. İlk sikkeler altın ve gümüş karışımı bir alaşım olan elektrondan yapılmışlardır**.** Lidyalılar Paktolos (Sart) Çayı’nın kumlarından elde ettikleri, Lidya bölgesine özgü elektronu ilk sikkelerin basımında kullanmışlardır. Sikkeden önce elektron, külçe, parça ve toz halinde mal ve hizmetlerin ücretlerinin ödenmesinde kullanılmıştır. MÖ. 7. yüzyılın ikinci yarısında elektrondan ilk sikkeler basılmıştır.
+
+    ***
+1. Lidya seramiğinde "Lydion" diye isimlendirilen kapların özelliği nedir?
+    - **Cevap A-) Lidya kremleri ve bakkaris adlı parfümlerinin konduğu kaplardır.**
+    - B-) Lidya'da üretilen özel zeytinyağının konduğu şişelerdir.
+    - C-) Lidyalı doktorların ürettikleri ilaçların konduğu kaplardır.
+    - D-) Altın sikkelerin saklandığı kumbaralardır.
+    - E-) Lydionlar aslında Lidya üretimi anlamında kullanılmıştır. Özel bir kap formu değildir.
+
+    > **Açıklama:** Çömlekçilikte MÖ. 7. ve 6. yüzyıllarda Lidya çanak çömlekçiliğinde tek renk ve boyalı kaplar kullanılmıştır. Soluk gri ve siyah parlak tek renk kaplar yapılmıştır. Boyalı kaplarda kırmızı üzerine siyah mermer deseni verilmiş mermer taklidi kaplar vardır. Ayrıca kaplar üzerinde çeşitli kuşaklar, şeritler, çengeller, taralı üçgen ve kareler gibi geometrik motifler ile hayvan ve bitki figürleri görülür. Sardeis’te bulunan kayık ve ördek biçimli kaplar Lidya çömlekçiliğinin güzel ürünleridir. Lydionlar Lidya’ya özgü kaplardır. Bunlar Lidya kremleri ve bakkaris adlı parfümlerinin içine konulup ihraç edilmesinde kullanılmışlardır.
 
     ***
 1. Assur baskısının artması üzerine Uruatri ve Nairi beyliklerini bir araya getiren bey ………, MÖ. 9. yüzyılın ortalarında kurulan Urartu Krallığının ilk kralı olarak kabul edilir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -1567,6 +1766,16 @@
     > **Açıklama:** Anadolu’ya tümülüs mezar geleneğini Frigler getirmişlerdir.
 
     ***
+1. Aşağıdakilerden hangisi Lidya başkenti Sardeis'in günümüzde bulunduğu şehirdir?
+    - **Cevap A-) Manisa**
+    - B-) Ankara
+    - C-) Eskişehir
+    - D-) Kırşehir
+    - E-) Van
+
+    > **Açıklama:** Lidya başkenti Sardeis günümüzde Manisa ilinin Salihli ilçesinin Sart beldesinde bulunmaktadır.
+
+    ***
 1. Lidya kralları ve kraliyet ailesi mensupları başkent Sardeis’in kuzeyinde bulunan ve Bin Tepe Mezarlığı denilen alandaki tümülüs mezarlara gömülmüşlerdir. Bu mezarlardan en büyüğü, aşağıdaki krallardan hangisi için inşa edilmiştir?
     - A-) Kroisos
     - **Cevap B-) Alyattes**
@@ -1595,7 +1804,8 @@
     - **Cevap D-) Antik Helen**
     - E-) Antik Mısır
 
-    > **Açıklama:** Antik Helen
+    > **Açıklama:** Batı uygarlığının temeli Helen uygarlığı olarak görülmektedir.
+    > Antik Helen
 
     ***
 1. M.Ö. ikinci binin ikinci yarısında başlayan Anadolu'ya göç hareketi sırasında kullandıkları lehçelere göre Batı Anadolu'nun kuzeyine hangi halklar yerleşmiştir?
@@ -1605,7 +1815,7 @@
     - D-) Firigler
     - E-) Lidyalılar
 
-    > **Açıklama:** Aioller
+    > **Açıklama:** Göçler sırasında bu bölgeye yerleşen halk Aioller'dir.
 
     ***
 1. Anadolu'da kent devleti (polis) örgütlenme biçimi hangi yüzyılda ortaya çıkmıştır?
@@ -1615,7 +1825,7 @@
     - **Cevap D-) M.Ö.9. yüzyıl**
     - E-) M.Ö.10. yüzyıl
 
-    > **Açıklama:** M.Ö. 9. yüzyıl
+    > **Açıklama:** Kent devleti Anadolu'da M.Ö. 9. yüzyılda ortaya çıkmıştır.
 
     ***
 1. M.Ö. 6 yüzyılda Batı Anadolu kimler tarafından işgal edilmiştir?
@@ -1625,7 +1835,8 @@
     - D-) Dorlar
     - E-) Karlar
 
-    > **Açıklama:** Persler
+    > **Açıklama:** Bu dönemde batı Anadolu Karlar tarafından işgal edildi.
+    > Persler
 
     ***
 1. Genelde mimari anlamda büyümelerine engel teşkil etmeyecek bir savunma sistemi oluşturularak yüksek bir alanda kurulan kentlere ne ad verilir?
@@ -1635,7 +1846,7 @@
     - D-) Arşitrav
     - E-) Tholos
 
-    > **Açıklama:** Akropolis
+    > **Açıklama:** Yüksekte kurulan kentlere Akropolis denir.
 
     ***
 1. Edebiyat konusunda Ionia'nın yetiştirdiği en önemli yazar hangisidir?
@@ -1645,7 +1856,7 @@
     - D-) Anaksimenes
     - E-) Herodot
 
-    > **Açıklama:** Homeros
+    > **Açıklama:** Ionia' nın en tanınmış ve büyük yazarı Homeros'tur.
 
     ***
 1. Büyük İskender'in Doğu seferiyle başlayıp VII. Cleopatra'nın ölümüyle sona eren ve doğu batı uygarlıklarının her anlamda birbiriyle etkileşim içinde bulunduğu çağa ne ad verilir?
@@ -1655,7 +1866,7 @@
     - D-) Hitit
     - E-) Firig
 
-    > **Açıklama:** Hellenistik
+    > **Açıklama:** Söz edilen özellikler Hellenistik dönemin özellikleridir.
 
     ***
 1. Anadolu'da Hellenistik dönemin ardından M.Ö. 510'da Anadolu'ya nüfuz etmeye başlayan uygarlık hangisidir?
@@ -1665,7 +1876,7 @@
     - D-) Seleukos Krallığı
     - **Cevap E-) Roma**
 
-    > **Açıklama:** Roma
+    > **Açıklama:** Hellenistik dönemin sonlarına doğru Anadolu'da Roma uygarlığı etkili olmaya başlamıştır.
 
     ***
 1. "Divide et impera" ne demektir?
@@ -1675,7 +1886,7 @@
     - D-) Fethet ve yönet
     - E-) İlahi güçle yönet
 
-    > **Açıklama:** Böl ve yönet
+    > **Açıklama:** "Divide et impera" Latince "böl ve yönet" demektir.
 
     ***
 1. İmparatorluk döneminde Romalıların Anadolu'da eyaletlerde mimari ve teknik olarak en fazla hangisine önem vermişlerdir?
@@ -1685,7 +1896,7 @@
     - D-) Kütüphaneler
     - E-) Surlar
 
-    > **Açıklama:** Yol yapımı
+    > **Açıklama:** Romalılar eyaletlerde en çok yol yapımına önem vermiştir.
 
     ***
 1. MÖ. 2000’in ikinci yarısından sonra Avrupa’dan Yunanistan üzerinden Batı Anadolu’ya giren Anadolu’daki yerli halklarla karışıp yeni sentez kültürler oluşturan “Akalar” ve “Dorlar” denilen büyük halk gruplarının hikayesi **hangi eserde anlatılır?**
@@ -1695,7 +1906,8 @@
     - D-) İgor-Rus
     - E-) Oğuz Kağan-Türk
 
-    > **Açıklama:** Homeros-İlyada
+    > **Açıklama:** HELLEN GÖÇLERİ SONRASI BATI ANADOLU
+    > Homeros-İlyada
 
     ***
 1. Ege Coğrafyasında Akalar ve Dorların yaşadığı M.Ö. 1100-900 yılları arasındaki dönem **nasıl anılır?**
@@ -1705,7 +1917,8 @@
     - D-) Orta Çağ
     - E-) Tarih Öncesi Çağ
 
-    > **Açıklama:** Karanlık Çağ
+    > **Açıklama:** HELLEN GÖÇLERİ SONRASI BATI ANADOLU
+    > Karanlık Çağ
 
     ***
 1. MÖ. 2000’in ikinci yarısından sonra Avrupa’dan Yunanistan üzerinden Batı Anadolu’ya giren halk gruplarından biri olan İyonların (M.Ö. 1200-700) kurdukları şehir/şehirler **aşağıdakilerden hangisidir?**<br />I.Gordion<br />II.Kolophon<br />III.Samos<br />IV.Palu<br />V.Tuşpa
@@ -1715,7 +1928,8 @@
     - D-) Yalnız II
     - E-) Yalnız IV
 
-    > **Açıklama:** II.Kolophon
+    > **Açıklama:** Göç Hareketleri Sonrasında Batı Anadolu
+    > II.Kolophon
     > III.Samos
 
     ***
@@ -1726,7 +1940,7 @@
     - D-) koloni
     - **Cevap E-) polis**
 
-    > **Açıklama:** polis
+    > **Açıklama:** Kent Devletlerinin (Polis) Ortaya Çıkışı ve Kolonizasyon Hareketleri
 
     ***
 1. M.Ö. 6. Yüzyılda Batı Anadolu (I)ler tarafından işgal edilmiştir. İşgalciler (II) denilen bir çeşit eyalet sistemi olan siyasi şehirler kurup (III) tarafından yönetmişlerdir.<br />Yukarıdaki cümlelerde parantez içi (I),(II),(III) kısımları doğru şekilde dolduran ifadeler **aşağıdakilerden hangisidir?**
@@ -1736,47 +1950,52 @@
     - D-) Türk, beylik, kağanlar
     - E-) Bizans, şehir, tekfurlar
 
-    > **Açıklama:** Pers, satrap, tiranlar
+    > **Açıklama:** Persler, İonia Ayaklanması ve Sonuçları
+    > Pers, satrap, tiranlar
 
     ***
-1. 6. yüzyılda Pers işgalinden sonra Miletuslu kent planlayıcısı (I)’un ilk kez “düzenli bir kent planı” (II) sistemini hazırlamıştır. MÖ. 5. yüzyıldan sonra bu plan; Priene, Miletus, Herakleia Latmos ve Knidos gibi kentlerde uygulanmıştır.<br />Yukarıdaki cümledeki (I), (II) boşluklarını doğru şekilde dolduran seçenek **aşağıdakilerden hangisidir?**
+1. 6\. yüzyılda Pers işgalinden sonra Miletuslu kent planlayıcısı (I)’un ilk kez “düzenli bir kent planı” (II) sistemini hazırlamıştır. MÖ. 5. yüzyıldan sonra bu plan; Priene, Miletus, Herakleia Latmos ve Knidos gibi kentlerde uygulanmıştır.<br />Yukarıdaki cümledeki (I), (II) boşluklarını doğru şekilde dolduran seçenek **aşağıdakilerden hangisidir?**
     - **Cevap A-) Hippodamos, ızgara**
     - B-) Antiganos, tapınak
     - C-) Hippodamos, koloni
     - D-) Kassandros, kale
     - E-) Menestheus, liman
 
-    > **Açıklama:** Hippodamos, ızgara
+    > **Açıklama:** Kültürel Hareketlilik
+    > Hippodamos, ızgara
 
     ***
-1. 4. yüzyılda Pers işgali altındaki Anadolu’yu Makedonya Kralı (I) güçlü ordusu ve askerlik yeteneği ile önce Batıdan başlayarak ele geçirmiş, daha sonra Mısır ve Hindistan’a kadar ilerleyen imparatorluğunu kurmuştur.<br />Yukarıdaki cümledeki (I) boşluğunu doğru şekilde dolduran seçenek **aşağıdakilerden hangisidir?**
+1. 4\. yüzyılda Pers işgali altındaki Anadolu’yu Makedonya Kralı (I) güçlü ordusu ve askerlik yeteneği ile önce Batıdan başlayarak ele geçirmiş, daha sonra Mısır ve Hindistan’a kadar ilerleyen imparatorluğunu kurmuştur.<br />Yukarıdaki cümledeki (I) boşluğunu doğru şekilde dolduran seçenek **aşağıdakilerden hangisidir?**
     - **Cevap A-) III. Aleksandros**
     - B-) Antigonos
     - C-) Darius
     - D-) Gordios
     - E-) Pythagoras
 
-    > **Açıklama:** III. Aleksandros
+    > **Açıklama:** HELLENİSTİK DÖNEM’DE ANADOLU
+    > III. Aleksandros
 
     ***
-1. Makedon General (I) M.Ö. 3. yüzyılın başlarında Anadolu’nun hakimi olmuştur.  (II) ünvanı ile (III) hazırlatarak güç sembolü oluşturmuştur.<br />Yukarıdaki cümledeki (I), (II), (III) kısımlarını doğru şekilde dolduran seçenek **aşağıdakilerden hangisidir?**
+1. Makedon General (I) M.Ö. 3. yüzyılın başlarında Anadolu’nun hakimi olmuştur. (II) ünvanı ile (III) hazırlatarak güç sembolü oluşturmuştur.<br />Yukarıdaki cümledeki (I), (II), (III) kısımlarını doğru şekilde dolduran seçenek **aşağıdakilerden hangisidir?**
     - **Cevap A-) Antigonos, basileus, sikke**
     - B-) Kassandros, basileus, heykel
     - C-) III. Aleksandros, kral, sikke
     - D-) Lysimakhos, satrap, kılıç
     - E-) Darius, kral, heykel
 
-    > **Açıklama:** Antigonos, basileus, sikke
+    > **Açıklama:** İskender’in Ölümünün Ardından Anadolu’nun Genel Görünümü
+    > Antigonos, basileus, sikke
 
     ***
-1. Büyük İskender’in İssos Savaşı’ndan sonra kurdurduğu (I) kenti günümüzde de önemli bir ticaret limanına sahiptir.  Ayrıca fethettiği yerlerde aynı isimde pek çok kent kurdurduğu tahmin edilmektedir.<br />Yukarıdaki cümledeki (I) boşluğunu doğru şekilde dolduran seçenek **aşağıdakilerden hangisidir?**
+1. Büyük İskender’in İssos Savaşı’ndan sonra kurdurduğu (I) kenti günümüzde de önemli bir ticaret limanına sahiptir. Ayrıca fethettiği yerlerde aynı isimde pek çok kent kurdurduğu tahmin edilmektedir.<br />Yukarıdaki cümledeki (I) boşluğunu doğru şekilde dolduran seçenek **aşağıdakilerden hangisidir?**
     - **Cevap A-) Aleksandreia**
     - B-) Antigoneia
     - C-) Nikomedia
     - D-) Antiokheia
     - E-) Seleukeia
 
-    > **Açıklama:** Aleksandreia
+    > **Açıklama:** İskender’in Ölümünün Ardından Anadolu’nun Genel Görünümü
+    > Aleksandreia
 
     ***
 1. M.Ö. 753-476 yılları arasında Anadolu’da üç farklı siyasi yapı ile yönetilen büyük bir uygarlık **aşağıdakilerden hangisidir?**
@@ -1786,7 +2005,7 @@
     - D-) Urartu
     - E-) İyon
 
-    > **Açıklama:** Roma
+    > **Açıklama:** ROMA DÖNEMİ’NDE ANADOLU
 
     ***
 1. 12 İon kentinin kendi aralarında kurdukları dinsel birliğe ne ad verilmektedir?
@@ -1799,7 +2018,7 @@
     > **Açıklama:** Panionion, 12 İon kentinin kendi aralarında kurdukları dinsel birliktir. Kentlere ilişkin ortak kararların alındığı birliğin istikrarı sayesinde Batı Anadolu’daki İonia kültürü MÖ. 5. yüzyıla değin Ege Bölgesi’nde üstün bir görünüm sergilemiştir.
 
     ***
-1. 1. Kral<br />2. Siyasal haklara sahip özgür yurttaşlar<br />3. Özgür ama siyasal haklardan yoksun insanlar<br />4. Toprağa bağlı her tür haktan yoksun köylüler<br />5. Köleler<br />Kent devletlerinde yukarıda yer alan zümrelerin kaçı bulunmaktadır?
+1. 1\. Kral<br />2\. Siyasal haklara sahip özgür yurttaşlar<br />3\. Özgür ama siyasal haklardan yoksun insanlar<br />4\. Toprağa bağlı her tür haktan yoksun köylüler<br />5\. Köleler<br />Kent devletlerinde yukarıda yer alan zümrelerin kaçı bulunmaktadır?
     - A-) 1
     - B-) 2
     - C-) 3
@@ -1889,7 +2108,7 @@
     > **Açıklama:** Epikurosçular insanın, eğer hırs ve isteklerini yenip, acı ile sonuçlanan hazlardan kaçınmayı başarırsa ve kendisini manevi açıdan tatmin edecek şeyleri yapıp, ölüm karşısında kayıtsız kalabilirse erdeme erişebileceğine inanmışlardır. Bu düşünceye göre devlet, insan grupları tarafından oluşturulmuş bir örgüttür. Bu nedenle bilge insan bu örgütün dışında kalmalıdır.
 
     ***
-1. 1. “\_\_\_\_\_\_\_\_\_\_ yılındaki \_\_\_\_\_\_\_\_\_\_ Savaşı’ndan sonra Octavianus, tüm rakiplerini ortadan kaldırmış ve Roma’nın tek hâkimi olmuştur. Hellenistik Dönem sona ererken, Roma için yeni bir süreç, İmparatorluk Dönemi başlamıştır.” Boşlukları hangileri doğru biçimde tamamlar?
+1. 1\. “\_\_\_\_\_\_\_\_\_\_ yılındaki \_\_\_\_\_\_\_\_\_\_ Savaşı’ndan sonra Octavianus, tüm rakiplerini ortadan kaldırmış ve Roma’nın tek hâkimi olmuştur. Hellenistik Dönem sona ererken, Roma için yeni bir süreç, İmparatorluk Dönemi başlamıştır.” Boşlukları hangileri doğru biçimde tamamlar?
     - A-) MÖ. 25 Galatia
     - **Cevap B-) MÖ. 31 Actium**
     - C-) MÖ.47 Zela
@@ -1919,7 +2138,7 @@
     > **Açıklama:** Döneminin en önemli olaylarından biri hiç şüphesiz ki sadece Roma tarihini değil, dünya tarihini de derinden etkileyecek olan MS. 313 Milano Fermanı’dır. Bu ferman, Roma İmparatorluğu’nun resmi olarak Hıristiyanlığı tanıdığını açıkça ortaya koymaktadır. Böylelikle Hıristiyanlar üzerindeki devlet baskısı kalkmış, kovuşturmaya uğramış ya da malları müsadere edilmek suretiyle hukuki bir ayrımcılığa uğrayan Hıristiyanlar haklarını geri alabilmişlerdir.
 
     ***
-1. 1. Şehir dışında tiyatrolar<br />2. Spor etkinliklerinin gerçekleştirildiği gymnasionlar<br />3. Hamamlar<br />Hellen kentlerinde yukarıdaki yapılardan hangisi ya da hangilerine rastlanır?
+1. 1\. Şehir dışında tiyatrolar<br />2\. Spor etkinliklerinin gerçekleştirildiği gymnasionlar<br />3\. Hamamlar<br />Hellen kentlerinde yukarıdaki yapılardan hangisi ya da hangilerine rastlanır?
     - A-) Yalnız I
     - **Cevap B-) I ve II**
     - C-) I ve III
@@ -1956,7 +2175,7 @@
     - B-) III. Antiokhos
     - C-) III. Attalos
     - D-) IV. Nikomedes
-    - E-) II. Seleukos
+    - E-) II. Seleukos
 
     > **Açıklama:** Pontos Kralı VI. Mithradates Eupator'un, yarı efsanevi yarı tarihi bilgiler ışığında; dokuz yıl boyunca ormanlarda gizlenip, vahşi hayvanlarla dövüşerek kendisini güçlendirdiği, her türlü zehre karşı bağışıklık kazandığı, birçok dil bildiği ve ordusundaki farklı milletlerden askerlerin her birinin kendi dilinde konuştuğu bilinmektedir. Karadeniz’in kuzey kıyısındaki zengin (Kırım) kentleriyle olan ilişkiler sonucu politik ve ekonomik açıdan oldukça güçlenen VI. Mithradates, Roma’ya karşı Anadolu’daki halkların koruyucusu olarak ortaya çıkmış, yerel krallıklara ait toprakları bazen işgal bazen de antlaşma yoluyla elde ederek Roma ile büyük bir mücadeleye girmiştir. MÖ. 88 yılında başlayan ilk savaşın kazananı ve kısa zamanda neredeyse bütün Anadolu’nun egemeni Mithradates oldu.
 
@@ -1969,7 +2188,7 @@
     - E-) Lucullus
 
     > **Açıklama:** Actium zaferinden sonra Roma dünyasının her yanında genel bir barış döneminin başladığını ilan
-    > eden Octavianus’a Senato, princeps (birinci vatandaş), Augustus (kutsal), vb. çeşitli unvanlar vererek onu yönetimdeki tek adam statüsüne getirmiştir. Fiili olarak olmasa da aslında ilk başlarda yaşanan tüm gelişmeler Cumhuriyet Dönemi’nin sona erdiğine ve yeni bir çağın başladığına açık bir işarettir. Zira yönetimi sırasında Cumhuriyet döneminin meclisleri ve kurumları varlığını sürdürdüğü için ortada Eski Doğu veya Hellenistik krallıklarda olduğu gibi mutlak monarşi görünümü yoktur. Ama ne olursa olsun Octavianus’un aldığı unvanlar onu bir imparator konumuna getirmiştir. Zaten süreçte imparatorların otoriteleri artmış ve Roma’yı hanedanlar yönetmeye başlamıştır. Bu anlamda ilk hanedanlık Octavianus ile başlayan ve Nero’nun öldürülmesiyle sona eren Iulius- Claudius Hanedanlığı (MÖ. 27-MS. 68) olmuştur.
+    > eden Octavianus’a Senato, princeps (birinci vatandaş), Augustus (kutsal), vb. çeşitli unvanlar vererek onu yönetimdeki tek adam statüsüne getirmiştir. Fiili olarak olmasa da aslında ilk başlarda yaşanan tüm gelişmeler Cumhuriyet Dönemi’nin sona erdiğine ve yeni bir çağın başladığına açık bir işarettir. Zira yönetimi sırasında Cumhuriyet döneminin meclisleri ve kurumları varlığını sürdürdüğü için ortada Eski Doğu veya Hellenistik krallıklarda olduğu gibi mutlak monarşi görünümü yoktur. Ama ne olursa olsun Octavianus’un aldığı unvanlar onu bir imparator konumuna getirmiştir. Zaten süreçte imparatorların otoriteleri artmış ve Roma’yı hanedanlar yönetmeye başlamıştır. Bu anlamda ilk hanedanlık Octavianus ile başlayan ve Nero’nun öldürülmesiyle sona eren Iulius- Claudius Hanedanlığı (MÖ. 27-MS. 68) olmuştur.
 
     ***
 1. MS. 313 Milano Fermanı ile aşağıdakilerin hangisi gerçekleşmiştir?
@@ -1995,11 +2214,11 @@
     ***
 ## Unite 5
 1. Bizanslı kavramı kaçıncı yüzyılda ortaya çıkmıştır?
-    - A-) 14.
-    - B-) 17.
-    - **Cevap C-) 16.**
-    - D-) 19.
-    - E-) 13.
+    - A-) 14\.
+    - B-) 17\.
+    - **Cevap C-) 16\.**
+    - D-) 19\.
+    - E-) 13\.
 
     > **Açıklama:** Bizanslı kavramı 16. yüzyılda ortaya çıkmıştır.
 
@@ -2014,7 +2233,7 @@
     > **Açıklama:** Hıristiyan kilisesinde“heretik”, Ortodoks olmayan bir görüşü benimseyen kişi olarak tanımlanır.
 
     ***
-1. Heraklios döneminde Müslüman Arapların akınlarını Anadolu’da önleyebilmek için Bizans Devleti, Anadolu’yu dört eyalete bölmüştür. Bu eyaletler kelimesi hangi isim ile adlandırılmıştır?
+1. Heraklios döneminde Müslüman Arapların akınlarını Anadolu’da önleyebilmek için Bizans Devleti, Anadolu’yu dört eyalete bölmüştür. Bu eyaletler kelimesi hangi isim ile adlandırılmıştır?
     - **Cevap A-) Thema**
     - B-) Heretik
     - C-) Bizanslı
@@ -2024,24 +2243,24 @@
     > **Açıklama:** Heraklios döneminde (610-640) Müslüman Arapların akınlarını Anadolu’da önleyebilmek için Bizans Devleti, Anadolu’yu dört eyalete bölmüştür. Bu eyaletler thema kelimesi ile adlandırılmıştır.
 
     ***
-1. Dört başlı manasına gelen ve İmparator Diokletianus'un kurduğu yeni yönetim sisteminin adı nedir?
+1. Dört başlı manasına gelen ve İmparator Diokletianus'un kurduğu yeni yönetim sisteminin adı nedir?
     - A-) Thema
     - B-) Heretik
     - C-) Senato
-    - **Cevap D-) Tetrarşi (tetrarhia)**
+    - **Cevap D-) Tetrarşi (tetrarhia)**
     - E-) Eklogi
 
     > **Açıklama:** İmparator Diokletianus, dört başlı manasında Tetrarşi(tetrarhia) denilen yeni bir yönetim sistemi kurmuştur.
 
     ***
 1. Bizansta kaçıncı yüzyıldan sonra ise tahtın babadan oğula geçmesi yolu benimsenmiştir?
-    - A-) 8.
-    - **Cevap B-) 7.**
-    - C-) 9.
-    - D-) 10.
-    - E-) 11.
+    - A-) 8\.
+    - **Cevap B-) 7\.**
+    - C-) 9\.
+    - D-) 10\.
+    - E-) 11\.
 
-    > **Açıklama:** 7. yüzyıldan sonra ise tahtın babadan oğula geçmesi yolu benimsenmiştir.
+    > **Açıklama:** 7\. yüzyıldan sonra ise tahtın babadan oğula geçmesi yolu benimsenmiştir.
 
     ***
 1. Bizans hukukunun temel kaynağı hangi hukuktur?
@@ -2105,17 +2324,17 @@
 
     ***
 1. Bizans İmparatorluğunun uzun yıllar sınırlarını oluşturan nehirler hangileridir?
-    - A-) Kuzey sınırı Tuna Nehri    Güney sınırı Struma Nehri
-    - **Cevap B-) Kuzey sınırı Tuna Nehri    Doğu sınırı Fırat Nehri**
-    - C-) Doğu sınırı Fırat Nehri    Batı sınırı Mesta Nehri
-    - D-) Güney sınırı Struma Nehri    Doğu sınırı Fırat Nehri
-    - E-) Güney sınırı Struma Nehri    Batı sınırı Mesta Nehri
+    - A-) Kuzey sınırı Tuna Nehri Güney sınırı Struma Nehri
+    - **Cevap B-) Kuzey sınırı Tuna Nehri Doğu sınırı Fırat Nehri**
+    - C-) Doğu sınırı Fırat Nehri Batı sınırı Mesta Nehri
+    - D-) Güney sınırı Struma Nehri Doğu sınırı Fırat Nehri
+    - E-) Güney sınırı Struma Nehri Batı sınırı Mesta Nehri
 
     > **Açıklama:** Bizans İmparatorluğunun uzun yıllar kuzey sınırı Tuna Nehri, doğu sınırı ise Fırat Nehri’dir.
 
     ***
 1. Thema sistemi ne demektir?
-    - A-) 4. yüzyıldan başlayarak 6. yüzyıla kadar merkezi idarenin en önemli üst düzey görevlisine denir
+    - A-) 4\. yüzyıldan başlayarak 6. yüzyıla kadar merkezi idarenin en önemli üst düzey görevlisine denir
     - B-) Saray törenlerinden, ulaşımdan ve istihbarattan sorumlu görevliye verilen addır
     - **Cevap C-) Bizans Devleti, Anadolu’yu dört eyalete bölmüştür. Bu eyaletler thema kelimesi ile adlandırılmıştır.**
     - D-) Madenler, darphane, belirli vergilerin toplanması sistemidir
@@ -2131,21 +2350,21 @@
     - **Cevap D-) Tetrarşi: İmparator Diokletianus, dört başlı manasında tetrarhia denilen yeni bir yönetim sistemi kurmuştur. Bu sisteme göre imparatorluğu iki agustus ve iki (Caesar) sezar birlikte yöneteceklerdi. Agustuslardan biri imparatorluğun batısına diğeri ise doğusuna hükmedecekti.**
     - E-) Praepositus sacri cubiculi: Mabeyinci, haremağası, imparatora ulaşımı kontrol eden kişidir.
 
-    > **Açıklama:** A, B, C, E şıkları İmparator I. Konstantinos tarafından geliştirilen sivil idari yapılardır. D şıkkı ise Tetrarşi tanımıdır.
+    > **Açıklama:** A, B, C, E şıkları İmparator I. Konstantinos tarafından geliştirilen sivil idari yapılardır. D şıkkı ise Tetrarşi tanımıdır.
 
     ***
-1. I. Hukuk kurumları "İnstituiones"<br />II. Hukuk bilimi ve hukuk tarihi” Digesta ya da “Pandektis”<br />III. Güncellenen emirnameler  “Codex”<br />IV. Yeni kanunlar “Novellae”<br />V. Taç Giyme Töreni "Skylitzes Kroniği"<br />Yukarıdakilerden hangisi Roma hukuku içeriği ve kapsamı Corpus Iuris Civilis (Medeni Hukuk Derlemesi) isimli derlemede yer almamaktadır?
+1. I. Hukuk kurumları "İnstituiones"<br />II. Hukuk bilimi ve hukuk tarihi” Digesta ya da “Pandektis”<br />III. Güncellenen emirnameler “Codex”<br />IV. Yeni kanunlar “Novellae”<br />V. Taç Giyme Töreni "Skylitzes Kroniği"<br />Yukarıdakilerden hangisi Roma hukuku içeriği ve kapsamı Corpus Iuris Civilis (Medeni Hukuk Derlemesi) isimli derlemede yer almamaktadır?
     - A-) I. Hukuk kurumları "İnstituiones"
     - B-) II. Hukuk bilimi ve hukuk tarihi” Digesta ya da “Pandektis”
-    - C-) III. Güncellenen emirnameler  “Codex”
+    - C-) III. Güncellenen emirnameler “Codex”
     - D-) IV. Yeni kanunlar “Novellae”
-    - **Cevap E-) V. Taç Giyme Töreni "Skylitzes Kroniği"**
+    - **Cevap E-) V. Taç Giyme Töreni "Skylitzes Kroniği"**
 
     > **Açıklama:** Bizans hukukunun temel kaynağı Roma hukukudur. Roma hukuku içeriği ve kapsamı I. Iustinianos’un (527-565) Corpus Iuris Civilis (Medeni Hukuk Derlemesi) isimli derlemesinde toplanmış ve Bizans hukukuna aktarılmıştır. 528-534 yılları arasında hazırlanan Corpus Iuris Civilis dört ana bölümden oluşmaktaydı. Birinci bölümde hukuk kurumları (instituiones) hakkında genel bilgiler yer alır, “Digesta” ya da “Pandektis” olarak bilinen ikinci bölüm hukuk bilimi ve hukuk tarihini içermektedir. “Codex” adını taşıyan üçüncü bölümde güncellenen emirnameler yer alır ve 12 bölümdür. Dördüncü bölümü ise Latince “Novellae” olarak bilinen yeni kanunlar oluşturur.
 
     ***
 1. Milano Fermanı nedir?
-    - **Cevap A-) 313 yılında Theodosios (379-395) döneminde Hıristiyanlığın serbest bir din olarak kabulü ve  Kilisenin kurulmasıyla Hıristiyanlık resmi devlet dini haline gelmiştir. Kilise örgütlenmesi de devletin örgütlenmesine göre   biçimlenmiştir**
+    - **Cevap A-) 313 yılında Theodosios (379-395) döneminde Hıristiyanlığın serbest bir din olarak kabulü ve Kilisenin kurulmasıyla Hıristiyanlık resmi devlet dini haline gelmiştir. Kilise örgütlenmesi de devletin örgütlenmesine göre biçimlenmiştir**
     - B-) Bizans eğitim sisteminde antikitenin yedi yüksek bilimine bağlı kalmasıdır
     - C-) Orta Bizans döneminde imparatorluğun sınır savunma sistemidir
     - D-) Roma imparatorluk ordusunda disiplin ve talim ön plana çıkarken, ardılı olan Bizans ordusunda stratejinin temel dayanak olması sözleşmesidir
@@ -2174,7 +2393,7 @@
     > **Açıklama:** Asgari evlilik yaşı erkeklerde 15, kızlarda 12 ya da 13 idi. Bizans’ta ortalama yaşam ömrünün 35 yaş olduğu göz önüne alındığında erken yaşta evlenmek çocuk sahibi olmak için bir zorunluluk gibi görünmektedir
 
     ***
-1. I. Roma tipi tiyatro gösterileri ve hipodromlardaki araba yarışlarının giderek terk edilmesi<br />II. Tarımsal üretim Bizans kent ekonomisinin bel kemiği olması<br />III. Bizans’ta köylerin, Bizans ekonomisinin ve toplumunun temel bir özelliği olarak karşımıza çıkması<br />IV. Uzun mesafeli ticaretin azalması<br />V. Balkanlar’daki şehirlerin, Avarlar ve Slavlar tarafından harap edilmesi<br />Yukarıdakilerden hangileri Bizans şehirlerinde ekonomik etkinliklerin azalması sonucuna yol açmıştır?
+1. I. Roma tipi tiyatro gösterileri ve hipodromlardaki araba yarışlarının giderek terk edilmesi<br />II. Tarımsal üretim Bizans kent ekonomisinin bel kemiği olması<br />III. Bizans’ta köylerin, Bizans ekonomisinin ve toplumunun temel bir özelliği olarak karşımıza çıkması<br />IV. Uzun mesafeli ticaretin azalması<br />V. Balkanlar’daki şehirlerin, Avarlar ve Slavlar tarafından harap edilmesi<br />Yukarıdakilerden hangileri Bizans şehirlerinde ekonomik etkinliklerin azalması sonucuna yol açmıştır?
     - A-) I ve II
     - B-) II ve III
     - C-) III ve IV
@@ -2201,7 +2420,7 @@
     - D-) Selçuklular
     - **Cevap E-) Göktürkler**
 
-    > **Açıklama:** Göktürkler
+    > **Açıklama:** Bizans’ın zaman zaman barış ama genellikle savaş halinde olduğu ve sınırlarında da sürekli değişen komşuları şunlardır. Doğu’da Sasaniler, Emeviler, Abbasiler, Selçuklular, Osmanlılar; Kuzeyli Türk komşuları Hunlar, Göktürkler, Avarlar, Bulgarlar, Hazarlar, Peçenekler, Oğuzlar, Kıpçaklar, Tatarlar; Batı’da ise Gotlar, Vizigotlar, Ostrogotlar, Vandallar, Lombardlar, Franklar, Normanlar, Varanglar, Venedikliler ve Cenevizliler’dir.
 
     ***
 1. Bizans Devletinin monarşik yapısı, kimin dönemindeki imparatorluk rejiminden miras kalmıştır?
@@ -2211,7 +2430,7 @@
     - D-) İmparator Herakleios
     - E-) II. Iustinianus
 
-    > **Açıklama:** Augustus
+    > **Açıklama:** Bizans Devletinin monarşik yapısı, Augustus (MÖ.63-14) dönemindeki imparatorluk rejiminden miras kalmıştır. Diocletianus ve daha sonra Constantinus tarafından şekillendirilen yeni imparatorlukta hükümdar, tüm kamusal güçleri tek bir elde toplayan bir otoriteye sahiptir. Roma hukukunu temel alan imparatorlukta Bizans ordusu tümüyle imparatora bağlı bir örgüt olarak karşımıza çıkmaktadır. Eğitim ise genellikle itibarlı kadınlar dışında erkeklere sunulan bir hizmettir.
 
     ***
 1. Bizans hukukunun temel kaynağı hangi imparatorluğun hukukuna dayanmaktadır?
@@ -2221,7 +2440,7 @@
     - D-) Emeviler
     - E-) Abbasiler
 
-    > **Açıklama:** Roma
+    > **Açıklama:** Bizans hukukunun temel kaynağı Roma hukukudur. Roma hukuku içeriği ve kapsamı I. Iustinianos’un (527-565) Corpus Iuris Civilis (Medeni Hukuk Derlemesi) isimli derlemesinde toplanmış ve Bizans hukukuna aktarılmıştır
 
     ***
 1. Orta Bizans Dönemi’nde uygulamaya konulan ilk yasa metni aşağıdakilerden hangisidir?
@@ -2231,7 +2450,7 @@
     - **Cevap D-) Epanagogi**
     - E-) Senato
 
-    > **Açıklama:** Epanagogi
+    > **Açıklama:** Orta Bizans Dönemi’nde uygulamaya konulan ilk yasa metni “Epanagogi” olarak bilinmektedir.Söz konusu metin ile Kilise ve Devlet arasındaki ilişkiler yeniden düzenlenmiş, patrik ve imparator devlet içinde en yüksek ve eşit iki güç olarak tanımlanmıştır.
 
     ***
 1. Roma İmparatorluğu içinde Hıristiyanlara yardım etmek için MS 313 Şubat ayında yapılan anlaşmanın adı aşağıdakilerden hangisidir?
@@ -2241,7 +2460,8 @@
     - D-) Viyana Fermanı
     - E-) Sofya Fermanı
 
-    > **Açıklama:** Milano Fermanı
+    > **Açıklama:** Roma İmparatorluğu içinde Hıristiyanlara yardım etmek için MS 313 Şubat ayında yapılan anlaşmadır. İmparator I. Konstantinos Batı’nın Augustusu ve Licinius Doğu’nun Augustus olarak birlikte Milano’da tüm imparatorluk sınırları içinde Hıristiyanlığın serbest bir din olduğunu ilan etmiştir.
+    > Milano Fermanı
 
     ***
 1. Bizans döneminde şehirde en yüksek dereceli olup, yasa ve emirlerin devamlılığının sağlayıp, kamu hizmetlerinden sorumlu memur, aşağıdakilerden hangisidir?
@@ -2251,17 +2471,17 @@
     - D-) Pakhomios
     - E-) Eklogi
 
-    > **Açıklama:** Eparhos
+    > **Açıklama:** Eparhos: Şehirde en yüksek dereceli memur (Vali). Eparhos yasa ve emirlerin devamlılığının sağlamak ve kamu hizmetlerinden sorumludur.
 
     ***
-1. Bizans döneminde kırsal nüfus 4. yüzyıldan itibaren istikrarlı bir şekilde artmıştır. Bu süreçte  Konstantinopolis tahılının büyük bölümünü hangi ülkeden elde etmekteydi?
+1. Bizans döneminde kırsal nüfus 4. yüzyıldan itibaren istikrarlı bir şekilde artmıştır. Bu süreçte Konstantinopolis tahılının büyük bölümünü hangi ülkeden elde etmekteydi?
     - **Cevap A-) Mısır**
     - B-) Suriye
     - C-) Filistin
     - D-) Ceneviz
     - E-) Makedonya
 
-    > **Açıklama:** Mısır
+    > **Açıklama:** Kırsal nüfus 4. yüzyıldan itibaren istikrarlı bir şekilde artmıştır. Kentsel büyüme de kendini her alanda göstermiştir. Konstantinopolis’teki ve diğer büyük şehir merkezlerindeki gıda ve diğer mallara olan talep, bu maddelerin büyük ölçekte kara yoluyla ve özellikle deniz yoluyla taşınmasını gerektiriyordu. Konstantinopolis tahılının büyük bölümü Mısır’dan, şarabı ise Suriye ve Filistin’den geliyordu.
 
     ***
 1. Bizans sanatı büyük ölçüde dini amaçlarla ısmarlanmakta, kiliseler ve manastırlarda kullanılmak üzere tahsis edilmekteydi. Hanedan ve saray mensupları dini yapıları ve dini sanatı himaye etmeye istekliydi. Bazı lüks mallar devlet tekelindeydi.Aşağıdakilerden hangisi o mallardan biri değildir?
@@ -2271,7 +2491,8 @@
     - D-) Cam
     - **Cevap E-) Ahşap**
 
-    > **Açıklama:** Ahşap
+    > **Açıklama:** r. Bizans sanatının büyük ölçüde dini amaçlarla ısmarlandığı, kiliseler ve manastırlarda kullanılmak üzere tahsis edilmiş olduğunu söyleyebiliriz. Bununla beraber diğer Ortaçağ toplumlarında olduğu gibi, üretilen sanat genellikle himayeye dayanmaktaydı. Yani hanedan ve saray mensupları dini yapıları ve dini sanatı himaye etmeye istekliydiler. Örneğin baştan beri tüm lüks mallar (ipek, altın, gümüş, fildişi, cam) devlet tekeli olarak işlem görmüştür
+    > Ahşap
 
     ***
 1. Günümüzde İstanbul’daki önemli su yapısı örneklerinden biri olan, Türk döneminde de “Bozdoğan Su Kemeri” olarak adlandırılmış su kemeri, hangi imparatorluk tarafından yaptırılmıştır?
@@ -2281,7 +2502,7 @@
     - D-) Sasaniler
     - E-) Kıpçaklar
 
-    > **Açıklama:** Roma
+    > **Açıklama:** Başkent Konstantinopolis’in ilk çağlarda su ihtiyacı, kentteki sarnıçlarla sağlanmıştır. Roma İmparatorluğu döneminde ise ilk su tesisleri yapılmıştır. Erken Bizans dönemi diğer kentlerinde olduğu gibi Konstantinopolis’te de antik çağda inşa edilmiş su kemerleri ve kanallar gerektiğinde onarılarak kullanılmıştır. Roma İmparatoru Valens (364-378) tarafından yaptırılan ve Türk döneminde “Bozdoğan Su Kemeri” olarak adlandırılmış su kemeri bugün İstanbul’daki önemli su yapısı örneklerinden biridir.
 
     ***
 1. Aşağıdakilerden hangisi ikonaların konularından biri değildir?
@@ -2291,7 +2512,8 @@
     - D-) Azizlerin yaşamları
     - **Cevap E-) Yerel halk**
 
-    > **Açıklama:** Yerel halk
+    > **Açıklama:** İkonalar: İsa, Meryem, Azizler ve Azizlerin yaşamlarının canlandırıldığı, taşınabilir nitelikte ibadet amacı taşıyan dini konulu resimlerdir
+    > Yerel halk
 
     ***
 1. Bizans kültürüyle ilgili aşağıdaki ifadelerden hangisi doğru **değildir**?
@@ -2571,12 +2793,12 @@
     > verilmiştir.
 
     ***
-1. Anadolu, ne zaman milletlerarası ticaretin merkezi olmuştur?
-    - A-) 10. yüzyıl sonlarında
-    - B-) 11. yüzyıl sonlarında
-    - C-) 14. yüzyıl sonlarında
-    - **Cevap D-) 12. yüzyılın sonlarında**
-    - E-) 9. yüzyıl sonlarında
+1. Anadolu, ne zaman milletlerarası ticaretin merkezi olmuştur?
+    - A-) 10\. yüzyıl sonlarında
+    - B-) 11\. yüzyıl sonlarında
+    - C-) 14\. yüzyıl sonlarında
+    - **Cevap D-) 12\. yüzyılın sonlarında**
+    - E-) 9\. yüzyıl sonlarında
 
     > **Açıklama:** Anadolu yolları üzerinden pek çok han ve kervansaray yapılmıştır.
     > Kervansaraylar iktisadî vazifeleri dışında hudutlara
@@ -2657,7 +2879,7 @@
     > süreci içine girmiş, yeniden merkez coğrafya olarak toplum-devlet-şehir çerçeveli bir medeniyet ortaya çıkmıştır.
 
     ***
-1. Moğol istilasının fiili başlangıcı kabul edilen Kösedağ Savaşı (1243), Anadolu'da XIII. yüzyılın ikinci yarısına girerken devlet hayatında derin sarsıntılara sebep olan iki önemli olaydan biridir. Aynı dönemlerde benzer olumsuz etkiyi yaratmış diğer gelişme aşağıdakilerden hangisinde belirtilmiştir?
+1. Moğol istilasının fiili başlangıcı kabul edilen Kösedağ Savaşı (1243), Anadolu'da XIII. yüzyılın ikinci yarısına girerken devlet hayatında derin sarsıntılara sebep olan iki önemli olaydan biridir. Aynı dönemlerde benzer olumsuz etkiyi yaratmış diğer gelişme aşağıdakilerden hangisinde belirtilmiştir?
     - A-) Bizans Saldırıları
     - B-) Haçlı İstilası
     - C-) Şeyh Bedrettin İsyanı
@@ -2739,7 +2961,7 @@
     > Aksaray’da iki medrese yaptırmıştır
 
     ***
-1. 12.yüzyılın sonlarından itibaren Diyar-ı Rum denilen Anadolu’ya ………………………..denilmeye başlamasıburadaki değişim ve dönüşüm yanında yeni toplumun yani Türk varlığının önemli bir işaretidir.<br />**Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?**
+1. 12\.yüzyılın sonlarından itibaren Diyar-ı Rum denilen Anadolu’ya ………………………..denilmeye başlamasıburadaki değişim ve dönüşüm yanında yeni toplumun yani Türk varlığının önemli bir işaretidir.<br />**Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?**
     - A-) Eratna
     - **Cevap B-) Turchia**
     - C-) Uz
@@ -2796,7 +3018,7 @@
     - D-) Sadece I
     - **Cevap E-) I ve II**
 
-    > **Açıklama:** Din ve toprak, Selçuklu Anadolu’sunu da kap-sayan Ortaçağlarda medeni yapıların iki temel esası idi. Şehirlerin oluşmasında önemli bir unsur bahsedilen sebeple sultanların toprak siyasetleriydi. Süleyman Şah (1075-1086) Selçuklu Devleti’ni kurunca, toprak ve üzerindeki yapıları devlet malı yaparak topraksız ve esir çiftçilere dağıtmış; şahıslara işleyebileceği kadar toprak kullanma imkanı verilmiştir. Türkiye’de böylece hukukî ve toplum açısından büyük bir dönüşüm gerçekleşmiş, hürriyete, adalete ve toprağa kavuşan halk kitleleri çok memnun olmuş ve Bizans yönetiminde sıkıntı çeken yerli halk Anadolu’da Türk hâkimiyetini tercih etmişlerdi. Devlet mülkiyeti (miri) hukukunun hâkim olmasıyla göçebelerin aşamalı olarak iskân edilmesi, ziraî üretime ve yerleşik hayata bağlanması da bu sistem sayesinde kolaylıkla mümkün olmuş, devlet göçebe Türkmenleri miri hukukuna göre boş veya terk edilmiş topraklar üzerine yerleştirmişti. 3. asrın ilk yarısında, Karadeniz ve Akdeniz’de mühim limanlara sahip olan ve memleket içinde sükûn ve asayişi temin ederek büyük ticaret yollarını ve ticaret emniyetini tanzim eden Selçuklu idaresi, Anadolu şehir hayatının kuvvetlenmesini ve bunun tabii neticesi olarak, büyük merkezlerde kültür seviyesinin şimdiye kadar sanıldığından fazla yükselmesini sağlamıştır. Moğol istilası sonrasında Moğol sınırlarından Anadolu’ya bilim adamı, sanatkâr, zengin tacirler ve sufiler gelmişlerdi. Bu durum Anadolu’daki fikri ve iktisadî hayatı canlandırmıştı.
+    > **Açıklama:** Din ve toprak, Selçuklu Anadolu’sunu da kap-sayan Ortaçağlarda medeni yapıların iki temel esası idi. Şehirlerin oluşmasında önemli bir unsur bahsedilen sebeple sultanların toprak siyasetleriydi. Süleyman Şah (1075-1086) Selçuklu Devleti’ni kurunca, toprak ve üzerindeki yapıları devlet malı yaparak topraksız ve esir çiftçilere dağıtmış; şahıslara işleyebileceği kadar toprak kullanma imkanı verilmiştir. Türkiye’de böylece hukukî ve toplum açısından büyük bir dönüşüm gerçekleşmiş, hürriyete, adalete ve toprağa kavuşan halk kitleleri çok memnun olmuş ve Bizans yönetiminde sıkıntı çeken yerli halk Anadolu’da Türk hâkimiyetini tercih etmişlerdi. Devlet mülkiyeti (miri) hukukunun hâkim olmasıyla göçebelerin aşamalı olarak iskân edilmesi, ziraî üretime ve yerleşik hayata bağlanması da bu sistem sayesinde kolaylıkla mümkün olmuş, devlet göçebe Türkmenleri miri hukukuna göre boş veya terk edilmiş topraklar üzerine yerleştirmişti. 3. asrın ilk yarısında, Karadeniz ve Akdeniz’de mühim limanlara sahip olan ve memleket içinde sükûn ve asayişi temin ederek büyük ticaret yollarını ve ticaret emniyetini tanzim eden Selçuklu idaresi, Anadolu şehir hayatının kuvvetlenmesini ve bunun tabii neticesi olarak, büyük merkezlerde kültür seviyesinin şimdiye kadar sanıldığından fazla yükselmesini sağlamıştır. Moğol istilası sonrasında Moğol sınırlarından Anadolu’ya bilim adamı, sanatkâr, zengin tacirler ve sufiler gelmişlerdi. Bu durum Anadolu’daki fikri ve iktisadî hayatı canlandırmıştı.
 
     ***
 1. Aşağıdaki yapılardan hangisinin Anadolu Selçuklu döneminde; sefer sırasında ordunun konakladığı, yabancıhükümdarların ağırlandığı, gerektiğinde hapishane ve sığınak olarak da kullanıldığı bilinmektedir?
@@ -2873,11 +3095,11 @@
 
     ***
 1. Anadolu beylikleri ne zaman ortaya çıkmaya başlamıştır?
-    - **Cevap A-) 13.yy**
-    - B-) 14.yy
-    - C-) 15.yy
-    - D-) 16.yy
-    - E-) 17.yy
+    - **Cevap A-) 13\.yy**
+    - B-) 14\.yy
+    - C-) 15\.yy
+    - D-) 16\.yy
+    - E-) 17\.yy
 
     > **Açıklama:** Anadolu beylikleri 13. yüzyılın son yarısında, İlhanlıların zayıflaması ile ortaya çıkarlar.
     > Doğru cevap "a"şıkkıdır.
@@ -2950,7 +3172,7 @@
 
     ***
 ## Unite 7
-1. Halil İnalcık, Anadolu’da 13. Yüzyılda yaşanan hangi gelişmelerin Osmanlı Beyliği’nin ortaya çıkışında etkili olduğunu savunmuştur?<br />1. Oğuzların/Türkmenlerin Anadolu’ya kitlesel göç etmesi ve Selçuklu saltanatının kurulması<br />2. Moğolların Anadolu’daki egemenliği altındaki Türkmenlerin bir kısmının Batı’daki Bizans topraklarını istila etmesi<br />3. Dördüncü haçlı seferinin Bizans’ı zayıflatması<br />4. Türk-İslâm gaza hareketinin Anadolu’da yeni bir güç kazanması
+1. Halil İnalcık, Anadolu’da 13. Yüzyılda yaşanan hangi gelişmelerin Osmanlı Beyliği’nin ortaya çıkışında etkili olduğunu savunmuştur?<br />1\. Oğuzların/Türkmenlerin Anadolu’ya kitlesel göç etmesi ve Selçuklu saltanatının kurulması<br />2\. Moğolların Anadolu’daki egemenliği altındaki Türkmenlerin bir kısmının Batı’daki Bizans topraklarını istila etmesi<br />3\. Dördüncü haçlı seferinin Bizans’ı zayıflatması<br />4\. Türk-İslâm gaza hareketinin Anadolu’da yeni bir güç kazanması
     - **Cevap A-) I, II, IV**
     - B-) II, III, IV
     - C-) I, III, IV
@@ -3020,6 +3242,16 @@
     > **Açıklama:** İstanbul Rasathanesini kuran Osmanlı astronomi bilgini Takiyyüddin er-Râsıd'dır.
 
     ***
+1. Osmanlı mimarisinin en ihtişamlı anıtsal yapıları hangi padişah döneminde inşa edilmiştir?
+    - **Cevap A-) Kanuni Sultan Süleyman**
+    - B-) Fatih Sultan Mehmed
+    - C-) IV. Murad
+    - D-) I.Murad
+    - E-) II. Selim
+
+    > **Açıklama:** Osmanlı mimarisinin en ihtişamlı anıtsal yapıları Kanuni Sultan Süleyman döneminde inşa edilmiştir.
+
+    ***
 1. Ezilerek fırçayla sürülecek hale getirilmiş olan varak altın ve çeşitli renklerin kullanılmasıyla gerçekleştirilen kitap sanatına ne ad verilir?
     - **Cevap A-) Tezhip**
     - B-) Minyatür
@@ -3047,7 +3279,8 @@
     - D-) Kelîle vü Dimne
     - **Cevap E-) Divanü Lugât-it Türk**
 
-    > **Açıklama:** İslâm dininin Türkler tarafından benimsenmesiyle birlik­te Arapça ve Farsça etkisi görülmeye başlandı. Kaş­garlı Mahmud, bu gelişmeye reddiye niteliğinde Divanü Lugât-it Türk adlı eseri kaleme aldı. Söz konusu eser Türkçenin Arapça kadar zengin bir dil olduğunun kanıtlanması için yazılmıştı.
+    > **Açıklama:** Kuruluş Döneminde Dil ve Edebiyat
+    > İslâm dininin Türkler tarafından benimsenmesiyle birlik­te Arapça ve Farsça etkisi görülmeye başlandı. Kaş­garlı Mahmud, bu gelişmeye reddiye niteliğinde Divanü Lugât-it Türk adlı eseri kaleme aldı. Söz konusu eser Türkçenin Arapça kadar zengin bir dil olduğunun kanıtlanması için yazılmıştı.
 
     ***
 1. Hangi dil Eski Türkiye Türkçesi olarak ta bilinir ve beylikler döneminden baş­layarak İstanbul’un fethine kadar gelir?
@@ -3057,7 +3290,8 @@
     - D-) Eski Anadolu Türkçesi
     - E-) Modern Anadolu Türkçesi
 
-    > **Açıklama:** Osmanlıca, Türk dilinin Güney Batı kolunu oluşturan Oğuz Grubu Türkçesi içinde yer alır. Günümüzde bu yazı dili, genellikle, üç evrede ele alınmaktadır. Bunlardan biri;
+    > **Açıklama:** KURULUŞ YILLARINDA KÜLTÜR ORTAMI
+    > Osmanlıca, Türk dilinin Güney Batı kolunu oluşturan Oğuz Grubu Türkçesi içinde yer alır. Günümüzde bu yazı dili, genellikle, üç evrede ele alınmaktadır. Bunlardan biri;
     > Eski Osmanlıca (13.-15. yüzyıllar). Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denilmektedir ve beylikler döneminden baş­layarak İstanbul’un fethine kadar getirilir
 
     ***
@@ -3068,7 +3302,8 @@
     - D-) Tiflisî’nin Kâmilü’t -ta’bir
     - E-) Divanü Lugât-it Türk
 
-    > **Açıklama:** Mevlâna Celâleddin-i Rumî (ölümü 1273) Farsça, altı ciltlik *Mesnevi* adlı eserinde didaktik dinî-tasavvufi görüşlerini hikayelerle anlatır. Bu kitap otuz binden fazla dizeden oluşmaktadır.
+    > **Açıklama:** KURULUŞ YILLARINDA KÜLTÜR ORTAMI
+    > Mevlâna Celâleddin-i Rumî (ölümü 1273) Farsça, altı ciltlik *Mesnevi* adlı eserinde didaktik dinî-tasavvufi görüşlerini hikayelerle anlatır. Bu kitap otuz binden fazla dizeden oluşmaktadır.
 
     ***
 1. Hangi isim Klasik Dönem Türk Edebiyatı alanında öne çıkmıştır?
@@ -3078,7 +3313,8 @@
     - **Cevap D-) Taşlıcalı Yahya Bey**
     - E-) Necmüddin Dâye
 
-    > **Açıklama:** Klasik edebiyat alanında yer alan edebi türler arasında birkaçını şöyle tanıtabiliriz. Nergisî (öl. 1634) ve Taşlıcalı Yahya Bey gibi yazarlar hamse ve mesnevi geleneğini sürdürmüşlerdir. Taşlıcalı Yahya Bey, adalet, zulüm, velilik, doğruluk, gibi konuları ele aldı.
+    > **Açıklama:** Klasik Dönem Türk Edebiyatı
+    > Klasik edebiyat alanında yer alan edebi türler arasında birkaçını şöyle tanıtabiliriz. Nergisî (öl. 1634) ve Taşlıcalı Yahya Bey gibi yazarlar hamse ve mesnevi geleneğini sürdürmüşlerdir. Taşlıcalı Yahya Bey, adalet, zulüm, velilik, doğruluk, gibi konuları ele aldı.
 
     ***
 1. Hangisi Erken Osmanlı Dönemi Halıları grubunda yer alır?
@@ -3088,7 +3324,8 @@
     - D-) Kula halıları
     - E-) Bergama halıları
 
-    > **Açıklama:** Erken Osmanlı dönemi halıları, 15. ve 16. yüzyıla dayandırılmakta ve bu halıların bir bölümü Alman ressam Hans Holbein’in tablolarında yer alması nedeniyle araştırmacılar tarafından Holbein halıları ola­rak adlandırılmıştır.
+    > **Açıklama:** Klasik Dönemde Mimari ve Güzel Sanatlar
+    > Erken Osmanlı dönemi halıları, 15. ve 16. yüzyıla dayandırılmakta ve bu halıların bir bölümü Alman ressam Hans Holbein’in tablolarında yer alması nedeniyle araştırmacılar tarafından Holbein halıları ola­rak adlandırılmıştır.
 
     ***
 1. Aşağıdakilerin hangisi resimlediği tarih kitaplarıyla İslam dünyasında tamamen Osmanlıya özgü bir üslup oluşturmuştu?
@@ -3098,7 +3335,8 @@
     - D-) Necmüddin Dâye
     - E-) Haydar Reis
 
-    > **Açıklama:** Doğu ile Batı gele­neklerini bağdaştıran diğer bir sanatçı ise Matrak­çı Nasuh’tur. Bu sanatçı Kanuni’nin isteği üzerine şehir tasvirciliği, manzara resimleri de yapmıştı. Ayrıca süslediği veya resimlediği tarih kitaplarıyla İslam dünyasında tamamen Osmanlıya özgü bir üslup oluşturmuştu.
+    > **Açıklama:** Klasik Dönemde Mimari ve Güzel Sanatlar
+    > Doğu ile Batı gele­neklerini bağdaştıran diğer bir sanatçı ise Matrak­çı Nasuh’tur. Bu sanatçı Kanuni’nin isteği üzerine şehir tasvirciliği, manzara resimleri de yapmıştı. Ayrıca süslediği veya resimlediği tarih kitaplarıyla İslam dünyasında tamamen Osmanlıya özgü bir üslup oluşturmuştu.
 
     ***
 1. Kültürel anlayış ve kurumlara nüfuz eden değişim süreci tanımlamak için hangi kavram kullanılmaktadır?
@@ -3108,7 +3346,8 @@
     - D-) Halkârî
     - E-) Minyatür
 
-    > **Açıklama:** Eğitimden hukuka, yönetimden iktisadi yapıya ve kültüre kadar toplum ve devlet yapısı Batılı değerler çerçevesinde değiştirilmeye çalışıldı. Söz konusu değişim süreci kültürel anlayış ve kurumlara nüfuz etti ve çok sayıda Batılı kültürel kurum oluşturuldu. Geleneksel olanları da değişime zorladı. Bu süreci tanımlamak için; Islahat, Reform, Avrupaileşme, Alafrangalaşma, Garplılaş­ma, Asrîleşme, Muasırlaşma, Batılılaşma ve Yenileşme gibi kavramlar kullanılmaktadır.
+    > **Açıklama:** YENİLEŞME DÖNEMİNDE OSMANLI KÜLTÜRÜ
+    > Eğitimden hukuka, yönetimden iktisadi yapıya ve kültüre kadar toplum ve devlet yapısı Batılı değerler çerçevesinde değiştirilmeye çalışıldı. Söz konusu değişim süreci kültürel anlayış ve kurumlara nüfuz etti ve çok sayıda Batılı kültürel kurum oluşturuldu. Geleneksel olanları da değişime zorladı. Bu süreci tanımlamak için; Islahat, Reform, Avrupaileşme, Alafrangalaşma, Garplılaş­ma, Asrîleşme, Muasırlaşma, Batılılaşma ve Yenileşme gibi kavramlar kullanılmaktadır.
 
     ***
 1. Repertua­rın, icranın inceliklerinin, usul ve makamların ustadan dinlenmesi ve tekrarlanması esasına dayanan eğitime ne denir?
@@ -3118,7 +3357,8 @@
     - D-) Tanzimat
     - E-) Ölüp-dirilme
 
-    > **Açıklama:** Osmanlı’da müzik eğitimi ve öğretimi “meşk” adı verilen bir usulle yapılmaktaydı. Repertua­rın, icranın inceliklerinin, usul ve makamların ustadan dinlenmesi ve tekrarlanması esasına dayanmaktaydı.
+    > **Açıklama:** Klasik Dönemde Mimari ve Güzel Sanatlar
+    > Osmanlı’da müzik eğitimi ve öğretimi “meşk” adı verilen bir usulle yapılmaktaydı. Repertua­rın, icranın inceliklerinin, usul ve makamların ustadan dinlenmesi ve tekrarlanması esasına dayanmaktaydı.
 
     ***
 1. Yenileşme Döneminde hangisi halk tarafından “ga­vur padişah” olarak nitelendirilmiştir?
@@ -3128,7 +3368,8 @@
     - D-) III. Mehmed
     - **Cevap E-) II. Mahmud**
 
-    > **Açıklama:** II. Mahmud portresini kamu dairelerine astırdığı için halk tarafından “ga­vur padişah” olarak nitelendirilmiştir.
+    > **Açıklama:** Yenileşme Döneminde Mimari ve Güzel Sanatlar
+    > II. Mahmud portresini kamu dairelerine astırdığı için halk tarafından “ga­vur padişah” olarak nitelendirilmiştir.
 
     ***
 1. Hangisi Osmanlı dönemin heykeltıraşıdır?
@@ -3138,7 +3379,8 @@
     - D-) Kırşehirli Yusuf b. Nizameddin
     - E-) Necmüddin Dâye
 
-    > **Açıklama:** Sanayi-i Nefise Mektebi’nde heykeltıraşlar yetiştirildi. Yervant Osgan Efendi, İhsan (Özsoy) ve İsa Behzat dönemin Osmanlı heykeltıraşlarıdır
+    > **Açıklama:** Yenileşme Döneminde Mimari ve Güzel Sanatlar
+    > Sanayi-i Nefise Mektebi’nde heykeltıraşlar yetiştirildi. Yervant Osgan Efendi, İhsan (Özsoy) ve İsa Behzat dönemin Osmanlı heykeltıraşlarıdır
 
     ***
 1. Aşağıdakilerden hangisi ya da hangileri Osmanlı Döneminde mimaride iç mekanda kullanılan süsleme öğeleri arasında yer alır?<br />I-Mavi-beyaz çiniler<br />II-Sırlı tuğla<br />III-Kalem işi boyamalar
@@ -3148,18 +3390,46 @@
     - D-) Sadece III
     - **Cevap E-) I ve III**
 
-    > **Açıklama:** Selçukluların iç mekânda taş kabartma, sırlı tuğla ve çini mozaikle süsleme biçimi yerine, dini mimaride, sıva üzerine kalem işi boyamalar, alçılar, düz
+    > **Açıklama:** Çini ve Seramik sanatı
+    > Selçukluların iç mekânda taş kabartma, sırlı tuğla ve çini mozaikle süsleme biçimi yerine, dini mimaride, sıva üzerine kalem işi boyamalar, alçılar, düz
     > çini plakalar, renkli sır tekniğinde ve “mavi-beyaz” olarak isimlendirilen sıraltı tekniğinde çiniler kullanıldı
 
     ***
-1. Aşağıdakilerden hangisi ya da hangileri Osmanlı bilim-kültür ikilisinin en önemli alanlarındandır?<br />I-Astronomi<br />II-Gastronomi<br />III-Matematik
+1. Özellikle 16. yüzyılın ikinci yarısında "Klasik Osmanlı" tarzıyla çini ve seramik sanatının özgün örnekleriyle öne çıkan şehirler aşağıdakilerden hangisi ya da hangileridir?<br />I-Avanos<br />II-Kütahya<br />III-İznik
+    - A-) Sadece I
+    - B-) I ve II
+    - **Cevap C-) II ve III**
+    - D-) Sadece II
+    - E-) Sadece III
+
+    > **Açıklama:** 16\. yüzyılın başlarından 17. yüzyılın sonlarına kadar çini ve seramik sanatında “klasik Osmanlı”
+    > üslubundan söz edilebilir. 16. yüzyılın ikinci yarısında İznik ve Kütahya’da çok başarılı çini imâlatı
+    > yapılmıştır.
+
+    ***
+1. Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denilen ve beylikler döneminden başlayarak İstanbul’un fethine kadar getirilen dil evresi aşağıdakilerden hangisidir?
+    - A-) Yeni Osmanlıca
+    - B-) Klasik Osmanlıca
+    - C-) Farsça
+    - **Cevap D-) Eski Osmanlıca**
+    - E-) Lehçe
+
+    > **Açıklama:** Kuruluş döneminde dil ve edebiyat
+    > Osmanlıca, Türk dilinin Güney Batı kolunu oluşturan Oğuz Grubu Türkçesi içinde yer alır. Günümüzde bu yazı dili, genellikle, üç evrede ele alınmaktadır. Bunlar;
+    > 1\. Eski Osmanlıca (13.-15. yüzyıllar). Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denilmektedir ve beylikler döneminden başlayarak İstanbul’un fethine kadar getirilir.
+    > 2\. Klasik Osmanlıca (16.-19. yüzyıllar). Türkçe esas olmak üzere Arapça ve Farsça kelimelerle kurallarının Türkçe ile birleştirmesinden oluşur.
+    > 3\. Yeni Osmanlıca (19.-20. yüzyılın başları). Yenileşme hareketlerine paralel olarak dilde sadeleşmeyi içerir.
+
+    ***
+1. Aşağıdakilerden hangisi ya da hangileri Osmanlı bilim-kültür ikilisinin en önemli alanlarındandır?<br />I-Astronomi<br />II-Gastronomi<br />III-Matematik
     - A-) Sadece II
     - **Cevap B-) I ve III**
     - C-) Sadece I
     - D-) Sadece III
     - E-) I ve II
 
-    > **Açıklama:** Osmanlı bilim-kültür ikilisinin en önemli alanlarından biri astronomiydi. Osmanlı bilim hayatında, metafizik, tabiat felsefesi ve mantık alanında çalışmalar yapıldı. Osmanlı’da matematik; felsefi tavır, astronomi ve arazi ölçümü ile vergi sistemi gibi günlük hayattaki pratikler bağlamında önemsendi. Gastronomi yemek ve kültür alanı arasındaki ilişkiyi irdeleyen bir alandır ve Osmanlı tarihi döneminde bu bağlamda bir öneme sahip değildir.
+    > **Açıklama:** Osmanlı bilimi
+    > Osmanlı bilim-kültür ikilisinin en önemli alanlarından biri astronomiydi. Osmanlı bilim hayatında, metafizik, tabiat felsefesi ve mantık alanında çalışmalar yapıldı. Osmanlı’da matematik; felsefi tavır, astronomi ve arazi ölçümü ile vergi sistemi gibi günlük hayattaki pratikler bağlamında önemsendi. Gastronomi yemek ve kültür alanı arasındaki ilişkiyi irdeleyen bir alandır ve Osmanlı tarihi döneminde bu bağlamda bir öneme sahip değildir.
 
     ***
 1. Osmanlı mimarisinin en ihtişamlı anıtsal yapıları hangi hükümdar döneminde inşa edilmiştir?
@@ -3169,17 +3439,19 @@
     - D-) Sultan Abdülmecit
     - E-) Timurlenk
 
-    > **Açıklama:** Osmanlı mimarisinin en ihtişamlı anıtsal yapıları Kanuni Sultan Süleyman döneminde inşa edilenlerdi.
+    > **Açıklama:** Klasik Dönemde Mimari ve Güzel Sanatlar
+    > Osmanlı mimarisinin en ihtişamlı anıtsal yapıları Kanuni Sultan Süleyman döneminde inşa edilenlerdi.
 
     ***
-1. Aşağıdakilerden hangisi ya da hangileri  16. yüzyıl Osmanlı mimarisine damga vuran Mimar Sinan'ın eserlerindendir?<br />I-Süleymaniye Külliyesi<br />II-Sultan Ahmed Camii<br />III-Selimiye Külliyesi
+1. Aşağıdakilerden hangisi ya da hangileri 16. yüzyıl Osmanlı mimarisine damga vuran Mimar Sinan'ın eserlerindendir?<br />I-Süleymaniye Külliyesi<br />II-Sultan Ahmed Camii<br />III-Selimiye Külliyesi
     - **Cevap A-) I ve III**
     - B-) I ve II
     - C-) II ve III
     - D-) Sadece III
     - E-) Sadece II
 
-    > **Açıklama:** 16. yüzyıl Osmanlı mimarisine damga vuran Mimar Sinan’dı. Süleymaniye ve Selimiye Külliyeleri başta olmak üzere birçok gösterişli eserin mimarıydı.
+    > **Açıklama:** Klasik Dönemde Mimari ve Güzel Sanatlar
+    > 16\. yüzyıl Osmanlı mimarisine damga vuran Mimar Sinan’dı. Süleymaniye ve Selimiye Külliyeleri başta olmak üzere birçok gösterişli eserin mimarıydı.
     > Sedefkar Mehmed Ağa’nın en önemli eseri ise inşası 7 yıl süren ve İstanbul’un en çok turist çeken camilerinden biri olan Sultanahmet Camii’dir.
 
     ***
@@ -3190,7 +3462,8 @@
     - D-) Sadece III
     - E-) Sadece IV
 
-    > **Açıklama:** Erken Osmanlı dönemi halıları, 15. ve 16. yüzyıla dayandırılmakta ve bu halıların bir bölümü Alman ressam Hans Holbein’in tablolarında yer alması nedeniyle araştırmacılar tarafından Holbein halıları olarak adlandırılmıştır. Bu evreye ait teknik, desen açısından farklı bazı halılar da İtalyan ressam Lorenzo Loto’nun tablolarında resmedilmiştir. Hatta Flaman ressamların tablolarına da konu olmuştur.
+    > **Açıklama:** Osmanlı İpek Kumaşları
+    > Erken Osmanlı dönemi halıları, 15. ve 16. yüzyıla dayandırılmakta ve bu halıların bir bölümü Alman ressam Hans Holbein’in tablolarında yer alması nedeniyle araştırmacılar tarafından Holbein halıları olarak adlandırılmıştır. Bu evreye ait teknik, desen açısından farklı bazı halılar da İtalyan ressam Lorenzo Loto’nun tablolarında resmedilmiştir. Hatta Flaman ressamların tablolarına da konu olmuştur.
 
     ***
 1. Osmanlı Dönemi Hat Sanatıyla ilgili olarak aşağıda verilen bilgilerden hangisi ya da hangileri söylenebilir?<br />I - Latin harfleriyle oluşturulmuş İslâmî bir sanat türüdür.<br />II - İslam ve Türk-İslam devletlerinde ilgi çekmiş, yönetici elit tarafından desteklenmiştir.<br />III - İmparatorluk mimarisinin ihtişamını tamamlayan unsurlardan biridir.
@@ -3210,7 +3483,7 @@
     - **Cevap D-) Tezhip**
     - E-) Minyatür
 
-    > **Açıklama:** Her iki terim de Tezhip sanatı içinde kullanılır. Zahriye:”Arkalık, sırtlık” anlamına gelen zahriye, yazma kitaplarda esas metnin başladığı ilk sayfanın arkasındaki -yani bir öncesindeki- için kullanılan deyimdir. Halkârî:”Halkârî denilen gölgeli altın sürülme tekniğine, al renkli lâl mürekkebinin de aynı devirde eklendiği, yarı şeffaf olan bu mürekkebin, kesif altın zerrelerinin bulunduğu motif uçlarında yer aldığı görülür. Desene ayrı bir güzellik veren ve foyalı halkârî ismiyle bilinen bu tarz uzun süre uygulanmıştır.
+    > **Açıklama:** Her iki terim de Tezhip sanatı içinde kullanılır. Zahriye:”Arkalık, sırtlık” anlamına gelen zahriye, yazma kitaplarda esas metnin başladığı ilk sayfanın arkasındaki -yani bir öncesindeki- için kullanılan deyimdir. Halkârî:”Halkârî denilen gölgeli altın sürülme tekniğine, al renkli lâl mürekkebinin de aynı devirde eklendiği, yarı şeffaf olan bu mürekkebin, kesif altın zerrelerinin bulunduğu motif uçlarında yer aldığı görülür. Desene ayrı bir güzellik veren ve foyalı halkârî ismiyle bilinen bu tarz uzun süre uygulanmıştır.
 
     ***
 1. “Bugünden sonra dîvanda, dergâhta, bargâhta, mecliste, meydanda Türkçeden başka dil konuşulmasın” şeklinde bir ferman yayımlanarak Türkçenin resmi dil olmasının sağlanması aşağıdaki kişilerden hangisine atfedilir.
@@ -3233,8 +3506,18 @@
     > **Açıklama:** Beylikler dönemi cami mimarisinin özelliklerini Osmanlı’ya aktaran en iyi örneklerden bir Manisa’da Saruhanoğullarının 1376’da yaptırdıkları Ulucami’dir.
 
     ***
+1. Osmanlı bilim hayatına katkısı, Merâga ve Semerkant birikimini, kelâm ve irfan çizgisiyle bütünleştirmesi ile anılan düşünür aşağıdakilerden hangisidir.?
+    - **Cevap A-) Ali Kuşcu**
+    - B-) İbn-i Sina
+    - C-) İbnü’l Heysem
+    - D-) Gelenbevi İsmail Efendi
+    - E-) Vidinli Hüseyin Tevfik Paşa
+
+    > **Açıklama:** Hiç kuşkusuz Ali Kuşçu Osmanlı bilim hayatına büyük katkılarda bulundu. Ali Kuşçu ve öğrencileri Merâga ve Semerkant birikimini, kelâm ve irfan çizgisiyle bütünleştirdi.
+
+    ***
 1. Aşağıdadaki yazar ve eser eşleştirmelerinden hangisi **yanlış** yapılmıştır?
-    - A-) Ahmed-i Dâ’î -  Cengnâme
+    - A-) Ahmed-i Dâ’î - Cengnâme
     - B-) Bursalı Niyazi İlyas – Mansurnâme
     - C-) Hızır Ahmedî – Hamzanâme
     - **Cevap D-) Mevlânâ Celâleddin-i Rûmî – Vesîletü’n-Necât**
@@ -3263,7 +3546,7 @@
     > **Açıklama:** Nakkaş Osman, kendine özgü bir üsluba sahipti. Osman Nakkaş’ın hazırlanmasında rol aldığı eserler arasında 46 minyatür içeren Şahnâme-i Selim Han, 58 minyatürlü Şehinşahnâme-i Murad, Zafername ve Zübdetü’t Tevârih sayılabilir.
 
     ***
-1. Aşağıdakilerden hangisi çok öven anlamına gelmekte;  seyirlik sanatlar bağlamında bir topluluk önünde hikâye anlatan ve canlandıran kişiyi tanımlamaktadır?
+1. Aşağıdakilerden hangisi çok öven anlamına gelmekte; seyirlik sanatlar bağlamında bir topluluk önünde hikâye anlatan ve canlandıran kişiyi tanımlamaktadır?
     - A-) Hattat
     - B-) Halkârî
     - C-) Kopuz
@@ -3283,14 +3566,14 @@
     > **Açıklama:** Yabancı elçilikler resim ve heykel ile ilgili çalışmalarda bulunmamışlardır.
 
     ***
-1. 1. Saray ve Çevresi<br />2. Yüksek Devlet Görevlileri-Türk Elçileri-Basın<br />3. Yabancı Elçilikler<br />4. Azınlıklar<br />5. Yabancı topluluklar<br />6. İlk Türkçe Oyunlar<br />Yukarıda belirtilen etmenlerden hangileri, Batı’dan alınan yeni tiyatro anlayışının, Osmanlılar arasında benimsenmesi ve yerleşmesinde etken rol oynamıştır?
+1. 1\. Saray ve Çevresi<br />2\. Yüksek Devlet Görevlileri-Türk Elçileri-Basın<br />3\. Yabancı Elçilikler<br />4\. Azınlıklar<br />5\. Yabancı topluluklar<br />6\. İlk Türkçe Oyunlar<br />Yukarıda belirtilen etmenlerden hangileri, Batı’dan alınan yeni tiyatro anlayışının, Osmanlılar arasında benimsenmesi ve yerleşmesinde etken rol oynamıştır?
     - A-) 1, 2 ve 3
     - B-) 1, 2, 3 ve 4
     - C-) 2, 3, 4 ve 5
     - D-) 1, 2, 3, 4 ve 5
     - **Cevap E-) 1, 2, 3, 4, 5 ve 6**
 
-    > **Açıklama:** Geleneksel tiyatrodan Batı tiyatrosuna geçiş Tanzimat yenileşmesiyle olanaklı oldu. Tanzimat Fermanı’nın ilan edildiği yıl olan 1839’da dört tiyatro sahnesi açılmıştı. Metin And’a göre Batı’dan alınan yeni tiyatro anlayışının benimsenmesi ve yerleşmesinde altı etken rol oynamıştı: Saray ve Çevresi, Yüksek Devlet Görevlileri -Türk Elçileri - Basın, Yabancı Elçilikler, Azınlıklar, Yabancı topluluklar ve İlk Türkçe Oyunlar.
+    > **Açıklama:** Geleneksel tiyatrodan Batı tiyatrosuna geçiş Tanzimat yenileşmesiyle olanaklı oldu. Tanzimat Fermanı’nın ilan edildiği yıl olan 1839’da dört tiyatro sahnesi açılmıştı. Metin And’a göre Batı’dan alınan yeni tiyatro anlayışının benimsenmesi ve yerleşmesinde altı etken rol oynamıştı: Saray ve Çevresi, Yüksek Devlet Görevlileri -Türk Elçileri - Basın, Yabancı Elçilikler, Azınlıklar, Yabancı topluluklar ve İlk Türkçe Oyunlar.
 
     ***
 1. Türk edebiyatında bulunmayan makale, tiyatro, hikâye, roman, anı eleştiri gibi yeni edebi türler hangi dönemde edebiyatımıza girmiştir.
@@ -3310,7 +3593,8 @@
     - D-) Rumca
     - E-) Çince
 
-    > **Açıklama:** Büyük Selçuklu Devleti yazı ve kültür dili olarak Farsçayı kullanmıştır.
+    > **Açıklama:** Anadolu Selçuklu Devleti (1081-1308), Büyük Selçuklu Devleti gibi (1026-1300) yazı ve kültür dili olarak Farsçayı benimsedi. Bu tutum bir-iki istisna dışında değişmedi.
+    > Büyük Selçuklu Devleti yazı ve kültür dili olarak Farsçayı kullanmıştır.
 
     ***
 1. Anadolu'da yazılan ilk Farsça eser aşağıdakilerden hangisidir?
@@ -3320,7 +3604,8 @@
     - D-) Beşâ’irü’n-Nezâir
     - **Cevap E-) Keşfü’l-Akabe**
 
-    > **Açıklama:** Anadolu'da yazılan ilk Farsça eser Keşfü’l-Akabe'dir.
+    > **Açıklama:** Anadolu’da yazılan ilk Farsça eser, Keşfü’l -Akabe adlı eserdir ve astronomi ile ilgiliydi.
+    > Anadolu'da yazılan ilk Farsça eser Keşfü’l-Akabe'dir.
 
     ***
 1. Aşağıdakilerden hangisi Anadolu'da yazılmış ilk Türkçe eserdir?
@@ -3330,17 +3615,56 @@
     - D-) Keşfü’l – Esrâr
     - E-) Ravzatu’l – Küttâb
 
-    > **Açıklama:** Anadolu'da yazılmış ilk Türkçe eser Behçetü’l – hadâik fi Mev’izeti’l – Halâik'tır.
+    > **Açıklama:** Anadolu’da yazılan ilk Türkçe eser hakkında uzun süreden beri bir tartışma sürdürülmektedir. Ünlü tarihçi M. Fuad Köprülü Ahmed Fakîh’in Çarhnâme adlı eserini ilk Türkçe eser olarak kabul eder. Ancak son yapılan araştırmalarda bu eserin 1350’den sonra yazıldığı belirtilmekte ve ilk Türkçe eserin Behçetü’l – hadâik fi Mev’izeti’l – Halâik olduğu kesinlik kazanmış durumdadır.
+    > Anadolu'da yazılmış ilk Türkçe eser Behçetü’l – hadâik fi Mev’izeti’l – Halâik'tır.
 
     ***
-1. İhsan Fazlıoğlu'na göre üç döneme ayrılan Osmanlı bilim hayatının klasik dönemi aşağıdakilerden hangisidir?
+1. Hoca Dehhâni'nin Selçuklu Sultanı Alâeddin Keykubad’ın isteğiyle kaleme aldığı eser aşağıdakilerden hangisidir?
+    - A-) Salsalnâme
+    - **Cevap B-) Şehnâme**
+    - C-) Mirsâdü’l-İbâd
+    - D-) Mesnevi
+    - E-) Keşfü’l -Akabe
+
+    > **Açıklama:** Hoca Dehhâni bunlardan biridir. Firdevsî’nin Şehnâme’si gibi Farsça 20 bin beyitlik bir Şehnâme’yi Selçuklu Sultanı Alâeddin Keykubad’ın isteğiyle yazmıştır.
+    > Firdevsî’nin Selçuklu Sultanı Alâeddin Keykubad’ın isteğiyle kaleme aldığı eser Şehnâme'dir.
+
+    ***
+1. İhsan Fazlıoğlu'na göre üç döneme ayrılan Osmanlı bilim hayatının klasik dönemi aşağıdakilerden hangisidir?
     - A-) Devletin kuruluşundan İstanbul'un fethine kadar olan dönem.
     - B-) 1702’den modern eğitim kurumlarının kurulduğu 1773’e kadar devam eden dönem.
     - **Cevap C-) Devletin kuruluşundan Müneccimbaşı Ahmed Dede’nin ölümüne kadar süren dönem.**
     - D-) 1773’ten itibaren devletin siyasi bir teşkilat olarak ortadan kalktığı 1923’e kadar süren dönem.
     - E-) Devletin kuruluşundan Pasarofça antlaşmasına kadar olan dönem.
 
-    > **Açıklama:** İhsan Fazlıoğlu'na göre üç döneme ayrılan Osmanlı bilim hayatının klasik dönem, devletin kuruluşundan Müneccimbaşı Ahmed Dede’nin ölümüne kadar süren dönemdir.
+    > **Açıklama:** İhsan Fazlıoğlu, Osmanlı bilim hayatını üç döneme ayırarak incelemenin daha uygun olacağı görüşündedir. Bunlar;
+    > 1\. Devletin kuruluşundan Müneccimbaşı Ahmed Dede’nin 1702’de ölümüne kadar süren klasik dönem
+    > 2\. 1702’den modern eğitim kurumlarının kurulduğu 1773’e kadar devam eden bunalım ve arayış dönemi
+    > 3\. 1773’ten itibaren devletin siyasi bir teşkilat olarak ortadan kalktığı 1923’e kadar süren klasik paradigmanın terkedilmeye başlandığı yenileşme dönemi.
+    > İhsan Fazlıoğlu'na göre üç döneme ayrılan Osmanlı bilim hayatının klasik dönem, devletin kuruluşundan Müneccimbaşı Ahmed Dede’nin ölümüne kadar süren dönemdir.
+
+    ***
+1. Aşağıdakilerden hangisi Osmanlı bilim insanları içinde modern matematiğin temsilcileri arasında gösterilen Başhoca İshak'ın eseridir?
+    - A-) Hulâşatü’l-minhâc fi ilmi’l-hisâb
+    - B-) Tuhfetü’l a’dad li-zevir’r-rüşd ve’s-sedâd
+    - C-) Hulâşatü’l-hisâb
+    - D-) Tahrîru uşûli’l hendese
+    - **Cevap E-) Mecmûa-ı Ulûm-i Riyâziyye**
+
+    > **Açıklama:** Modern matematiğin en önemli temsilcileri arasında Başhoca İshak Efendi gösterilmektedir. Onun Mecmûa-ı Ulûm-i Riyâziyye adlı eseri matematiğin uygulama alanını genişletmiştir.
+    > Mecmûa-ı Ulûm-i Riyâziyye Osmanlı bilim insanları içinde modern matematiğin temsilcileri arasında gösterilen Başhoca İshak'ın eseridir.
+
+    ***
+1. Osmanlıca içinde sade dilin terkedilerek süslü ve yabancı sözcüklerin ağırlık kazandığı dile geçilmesi hangi padişahtan itibaren gerçekleşmiştir?
+    - A-) II.Mahmut
+    - B-) Kanuni Sultan Süleyman
+    - **Cevap C-) Fatih Sultan Mehmet**
+    - D-) Yavuz Sultan Selim
+    - E-) II. Abdülhamit
+
+    > **Açıklama:** Fatih’in döneminden başlayarak resmi yazışmalarda kullanılan sade üslup yavaş yavaş terk edilmiş
+    > ve Arapça ile Farsça sözcükler kullanılmaya başlandı. Edebi eserler de bu değişimden etkilendi. Süslü, yeni bir Osmanlı inşa dili meydana getirildi.
+    > Osmanlıca içinde sade dilin terkedilerek süslü ve yabancı sözcüklerin ağırlık kazandığı dile geçilmesi Fatih Sultan Mehmet'ten itibaren gerçekleşmiştir.
 
     ***
 1. Osmanlı tarihini bütün olarak ele alan ilk kaynak kitap aşağıdakilerden hangisidir?
@@ -3350,7 +3674,8 @@
     - D-) Lûgat-ı Halîmî
     - E-) Tevârih-i Âl-i Osman
 
-    > **Açıklama:** Osmanlı tarihini bütün olarak ele alan ilk kaynak kitap Aşıkpaşazade Tarihi'dir.
+    > **Açıklama:** Osmanlı tarihi kaynakları içerisinde önemli bir yere sahip olan ve Osmanlı tarihini bütün olarak ele alan ilk kaynak Aşıkpaşazade Tarihi’dir. 1485 tarihli bu eser, Yahşi Fakih’in menâkıbnâmesini esas almıştır.
+    > Osmanlı tarihini bütün olarak ele alan ilk kaynak kitap Aşıkpaşazade Tarihi'dir.
 
     ***
 1. Adli mahlası ile şiirler yazan padişah, aşağıdakilerden hangisidir?
@@ -3360,7 +3685,10 @@
     - **Cevap D-) II. Bayezid**
     - E-) I. Adbülhamid
 
-    > **Açıklama:** Adli mahlası ile şiirler yazan padişah II. Bayezid'dir.
+    > **Açıklama:** II. Bayezid döneminde (1481-1512) aynı süreçte hem Doğu hem de Batı kültürüne ilgi duyma
+    > heyecanı sona erdi. Bununla birlikte yeni Padişah da Adlî mahlası ile şiirler yazmış ve şiirlerini bir
+    > divanda toplamıştı. II. Bayezid ve bazı üst düzey yöneticilerin şairleri himaye ettikleri ve destekledikleri bilinmektedir.
+    > Adli mahlası ile şiirler yazan padişah II. Bayezid'dir.
 
     ***
 1. Osmanlı tarihi alanında resimleştirilen ilk eserin adı aşağıdakilerden hangisidir?
@@ -3370,12 +3698,13 @@
     - D-) Şehname
     - E-) Zafername
 
-    > **Açıklama:** Osmanlı tarihi alanında resimleştirilen ilk eserin adı Selimname'dir.
+    > **Açıklama:** 1520-1530 yılları arasında da Osmanlı tarihi alanında resimlendirilen ilk eser Selimname’dir.
+    > Osmanlı tarihi alanında resimleştirilen ilk eserin adı Selimname'dir.
 
     ***
 1. Osmanlıca , genellikle, üç evrede<br />ele alınmaktadır. Aşağıdaki ifadelerden hangisi bunlardan ilki olan "Eski Osmanlıca" evresini açıklar ?
-    - **Cevap A-) Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de   denilmektedir ve beylikler döneminden başlayarak İstanbul’un fethine kadar getirilir.**
-    - B-) 16.-19. yüzyıllar arasında kullanılır,
+    - **Cevap A-) Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denilmektedir ve beylikler döneminden başlayarak İstanbul’un fethine kadar getirilir.**
+    - B-) 16\.-19. yüzyıllar arasında kullanılır,
     - C-) Türkçe esas olmak üzere Arapça ve Farsça kelimelerle kurallarının Türkçe ile birleştirmesinden oluşur.
     - D-) Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denir.
     - E-) Yenileşme hareketlerine paralel olarak dilde sadeleşmeyi içerir.
@@ -3385,14 +3714,27 @@
     > denilmektedir ve beylikler döneminden başlayarak İstanbul’un fethine kadar getirilir.
 
     ***
-1. Osmanlıca , genellikle, üç evrede<br />ele alınmaktadır. Aşağıdaki ifadelerden hangisi bunlardan ikincisi olan "Klasik Osmanlıca" evresini açıklar ?
-    - A-) Eski Osmanlıcadır ve  13.-15. yüzyıllar arasında kullanılır, ,
-    - B-) Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de   denilmektedir,
+1. Osmanlıca , genellikle, üç evrede<br />ele alınmaktadır. Aşağıdaki ifadelerden hangisi bunlardan ikincisi olan "Klasik Osmanlıca" evresini açıklar ?
+    - A-) Eski Osmanlıcadır ve 13.-15. yüzyıllar arasında kullanılır, ,
+    - B-) Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denilmektedir,
     - C-) Beylikler döneminden başlayarak İstanbul’un fethine kadar gelen dönemde kullanılır,
     - D-) Yenileşme hareketlerine paralel olarak dilde sadeleşmeyi içerir.
     - **Cevap E-) Türkçe esas olmak üzere Arapça ve Farsça kelimelerle kurallarının Türkçe ile birleştirmesinden oluşur.**
 
     > **Açıklama:** Klasik Osmanlıca (16.-19. yüzyıllar). Türkçe esas olmak üzere Arapça ve Farsça kelimelerle kurallarının Türkçe ile birleştirmesinden oluşur.
+
+    ***
+1. Günümüz araştırmaları içerisinde genellikle üç evrede ele alınan ve yenileşme hareketlerine paralel olarak dilde sadeleşmeyi de içeren Osmanlıcanın üçüncü ve son safhası, yani "*Yeni Osmanlıca*", aşağıdaki dönemlerden hangisinde karşımıza çıkmaktadır?
+    - A-) 13\. - 15. yüzyıllar arasında
+    - B-) Beylikler döneminde
+    - C-) 16\. Yüzyılda
+    - D-) Duraklama döneminde
+    - **Cevap E-) 19\. - 20. yüzyıl başları**
+
+    > **Açıklama:** Günümüzde Osmanlıca genellikle, üç evrede ele alınmaktadır. Bunlar;
+    > 1\. Eski Osmanlıca (13.-15. yüzyıllar). Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denilmektedir ve beylikler döneminden başlayarak İstanbul’un fethine kadar getirilir.
+    > 2\. Klasik Osmanlıca (16.-19. yüzyıllar). Türkçe esas olmak üzere Arapça ve Farsça kelimelerle kurallarının Türkçe ile birleştirmesinden oluşur.
+    > 3\. Yeni Osmanlıca (19.-20. yüzyılın başları). Yenileşme hareketlerine paralel olarak dilde sadeleşmeyi içerir.
 
     ***
 1. Aşağıdakilerden hangisi, XIII. yüzyılda yaşamış büyük mutassavıf Mevlâna Celâleddin-i Rumî'nin eserlerinin özellikleri arasında **yer almaz?**
@@ -3408,14 +3750,21 @@
 1. Aşağıdaki camilerden hangisi 14. yüzyıldan sonra inşa edilmiştir?
     - A-) Beyşehir’deki Eşrefoğlu cami
     - B-) Birgi’deki Aydınoğlu Mehmed Bey’in yaptırdığı Ulucami
-    - C-) Selçuk’ta inşa edilen İsa Bey Camisi,
+    - C-) Selçuk’ta inşa edilen İsa Bey Camisi,
     - D-) Manisa’da Saruhanoğullarının yaptırdıkları Ulucami,
     - **Cevap E-) Manisa'da inşa edilen Muradiye Camii**
 
-    > **Açıklama:** Manisa'da inşa edilen Muradiye Camii 16. yüzyılda inşa edilen camilerdendir.
+    > **Açıklama:** Çok destekli cami geleneği Beylikler döneminde
+    > de sürdürülmüştü. Beyşehir’deki Eşrefoğlu cami
+    > (1297) bu geleneğin bir ürünüdür. Selçuklu mimari anlayışının etkisi vardı. Birgi’deki Aydınoğlu Mehmed Bey’in yaptırdığı Ulucami (1312) de
+    > benzer mimari özellikler taşımaktadır. Selçuk’ta
+    > 1374 inşa edilen İsa Bey Camisi de mimari yeniliklerin olduğu bir yapıdır. Beylikler dönemi cami
+    > mimarisinin özelliklerini Osmanlı’ya aktaran en
+    > iyi örneklerden bir Manisa’da Saruhanoğullarının 1376’da yaptırdıkları Ulucami’dir.
+    > Manisa'da inşa edilen Muradiye Camii 16. yüzyılda inşa edilen camilerdendir.
 
     ***
-1. Molla Gürâni, Molla Hüsrev, Molla Yegân<br />ve Sinan Paşa gibi dönemin ünlü hocalarından<br />ders alan, yabancı dil öğrenmeye meraklı, binlerce kitaptan oluşan bir kütüphaneye sahip ve  birçok tarihçi tarafından bir Rönesans hükümdarı olarak tanımlanan Osmanlı hükümdarı kimdir?
+1. Molla Gürâni, Molla Hüsrev, Molla Yegân<br />ve Sinan Paşa gibi dönemin ünlü hocalarından<br />ders alan, yabancı dil öğrenmeye meraklı, binlerce kitaptan oluşan bir kütüphaneye sahip ve birçok tarihçi tarafından bir Rönesans hükümdarı olarak tanımlanan Osmanlı hükümdarı kimdir?
     - **Cevap A-) Fatih Sultan Mehmed**
     - B-) Yavuz Sultan Selim
     - C-) Kanuni Sultan Süleyman
@@ -3426,6 +3775,16 @@
     > ve Sinan Paşa gibi dönemin ünlü hocalarından
     > ders almıştı. Yabancı dil öğrenmeye meraklıydı
     > ve binlerce kitaptan oluşan bir kütüphaneye sahipti. Fatih, birçok tarihçi tarafından bir Rönesans hükümdarı olarak tanımlanmaktadır
+
+    ***
+1. Mevlânâ Celâleddin-i Rûmî’nin Mesnevisi Mesnevisi, Mesnevî-i Muradiyye adıyla Türkçe’ye tercüme edildi. Bu tercüme, Türk edebiyatında yapılan ilk mesnevi tercümesidir. Tercüme hangi dönemde yapılmıştır?
+    - **Cevap A-) II. Murad döneminde (1421-1451)**
+    - B-) II. Mehmed (1432-1481)
+    - C-) I. Selim (1470-1520)
+    - D-) II. Bayezid (1447-1512)
+    - E-) I. Süleyman (1494-1566)
+
+    > **Açıklama:** Osmanlı Devleti’nin kuruluşunun ikinci yüzyılında II. Murad döneminde (1421-1451) edebi faaliyetler açısından büyük bir canlanma görüldü. Edebî, coğrafi, tasavvufî, tıbbî vb. alanlarda tercümeler yapıldı. Mevlânâ Celâleddin-i Rûmî’nin Mesnevisi 1436’da Mesnevî-i Muradiyye adıyla Türkçe’ye tercüme edildi. Bu tercüme, Türk edebiyatında yapılan ilk mesnevi tercümesidir. Bu dönem Divan edebiyatının ilk dönemi kabul edilmiş ve sonraki dönemlere zemin hazırlamıştır.
 
     ***
 1. .......................döneminde (1481-1512) aynı süreçte hem Doğu hem de Batı kültürüne ilgi duyma<br />heyecanı sona erdi. Bununla birlikte yeni Padişah da Adlî mahlası ile şiirler yazmış ve şiirlerini bir<br />divanda toplamıştı. ........................ve bazı üst düzey yöneticilerin şairleri himaye ettikleri ve destekledikleri bilinmektedir.<br />Yukarıda boş bırakılan alanlara aşağıdaki şıklardan hangisi gelmelidir?
@@ -3454,7 +3813,7 @@
     > kültüründe pek etkili olamamıştır.
 
     ***
-1. Abdülaziz’in 1871 yılında yapılan ve Beylerbeyi Sarayı’nın bahçesine konulan atlı heykeli hangi heykeltraş tarafından yapılmıştır?
+1. Abdülaziz’in 1871 yılında yapılan ve Beylerbeyi Sarayı’nın bahçesine konulan atlı heykeli hangi heykeltraş tarafından yapılmıştır?
     - **Cevap A-) İngiliz heykeltıraş Charles F. Fuller**
     - B-) Yervant Osgan Efendi
     - C-) İhsan (Özsoy)
@@ -3466,14 +3825,14 @@
     > noktasıdır.
 
     ***
-1. Sözlük anlamı “meylettirme, cezbetme, gönül alma” olan ve  Osmanlı kroniklerinde “halkı ve özellikle gayrimüslim tebaayı gözetme, onlara karşı hoşgörülü davranma ve raiyyet perverlik” anlamında kullanılmış olan terim aşağıdakilerden hangisidir ?
+1. Sözlük anlamı “meylettirme, cezbetme, gönül alma” olan ve Osmanlı kroniklerinde “halkı ve özellikle gayrimüslim tebaayı gözetme, onlara karşı hoşgörülü davranma ve raiyyet perverlik” anlamında kullanılmış olan terim aşağıdakilerden hangisidir ?
     - **Cevap A-) İstimâlet**
     - B-) Zeâmet
     - C-) Risâlet
     - D-) Azamet
     - E-) Asalet
 
-    > **Açıklama:** Sözlük anlamı “meylettirme, cezbetme, gönül alma” olan ve  Osmanlı kroniklerinde “halkı ve özellikle gayrimüslim tebaayı gözetme, onlara karşı hoşgörülü davranma ve raiyyet perverlik” anlamında kullanılmış olan terim İstimâlet’tir.
+    > **Açıklama:** Sözlük anlamı “meylettirme, cezbetme, gönül alma” olan ve Osmanlı kroniklerinde “halkı ve özellikle gayrimüslim tebaayı gözetme, onlara karşı hoşgörülü davranma ve raiyyet perverlik” anlamında kullanılmış olan terim İstimâlet’tir.
     > Doğru Cevap A’dır.
 
     ***
@@ -3488,14 +3847,14 @@
     > Doğru Cevap C’dir.
 
     ***
-1. Eski Anadolu Türkçesinin önemli eserlerinden birisi olan Garipnâme'nin yazarı aşağıdakilerden hangisidir ?
+1. Eski Anadolu Türkçesinin önemli eserlerinden birisi olan Garipnâme'nin yazarı aşağıdakilerden hangisidir ?
     - A-) Mevlana Celâleddin-i Rumi
     - B-) Yunus Emre
     - C-) Ahmed Yesevi
     - **Cevap D-) Aşık Paşa**
     - E-) Ahmedî
 
-    > **Açıklama:** Eski Anadolu Türkçesinin önemli eserlerinden birisi olan Garipnâme'nin yazarı Aşık Paşa'dır.
+    > **Açıklama:** Eski Anadolu Türkçesinin önemli eserlerinden birisi olan Garipnâme'nin yazarı Aşık Paşa'dır.
 
     ***
 1. Hamzanâme ve İskendernâme adlı eserleri ile tanınan şair aşağıdakilerden hangisidir ?
@@ -3509,6 +3868,17 @@
     > Doğru Cevap E’dir.
 
     ***
+1. En iyi bilinen eserlerinden birisi Leyla vü Mecnun olan Klasik dönem Türk Edebiyatçısı aşağıdakilerden hangisidir ?
+    - **Cevap A-) Fuzûli**
+    - B-) Nedim
+    - C-) Ahmed-i Dâ’i
+    - D-) Ahmedî
+    - E-) Hayâlî
+
+    > **Açıklama:** En iyi bilinen eserlerinden birisi Leyla vü Mecnun olan Klasik dönem Türk Edebiyatçısı Fuzûli’dir.
+    > Doğru Cevap A’dır.
+
+    ***
 1. İstanbul’da Türk İslam mimarisini temsil eden en erken tarihli eser aşağıdakilerden hangisidir ?
     - **Cevap A-) Fatih Külliyesi**
     - B-) Valide Sultan Külliyesi
@@ -3517,6 +3887,16 @@
     - E-) Muradiye Külliyesi
 
     > **Açıklama:** Fatih Külliyesi, İstanbul’da Türk-İslam döneminin en eski yapısıdır. Doğru Cevap A’dır.
+
+    ***
+1. Aşağıdakilerden hangisi, Kuruluş Dönemi Osmanlı eserlerinden biri olarak belirtilebilir?
+    - A-) Bursa Ulu Cami
+    - B-) Sadabad Kasrı
+    - C-) III. Ahmed Çeşmesi
+    - D-) Nur-u Osmaniye Camii ve Külliyesi
+    - **Cevap E-) Birgi Ulu Cami**
+
+    > **Açıklama:** Anadolu’nun çeşitli bölgelerinde hüküm süren Türk Beylikleri mimarî açıdan Selçuklu mimarisinden etkilenmekle birlikte (özellikle Karama-noğulları) her beylik kendi özel şartları içerisinde farklı gelişme göstermiştir. Bu farklılık cami tiplerinde daha belirgindir. Eş büyüklükteki çok sayıda birimle desteklenen cami tipi Selçuklular’da mevcuttu ve bu tarz Osmanlı’ya da geçmişti. Çok destekli cami geleneği Beylikler döneminde de sürdürülmüştü. Beyşehir’deki Eşrefoğlu cami (1297) bu geleneğin bir ürünüdür. Selçuklu mimari anlayışının etkisi vardı. Birgi’deki Aydınoğlu Mehmed Bey’in yaptırdığı Ulucami (1312) de benzer mimari özellikler taşımaktadır. Selçuk’ta 1374 inşa edilen İsa Bey Camisi de mimari yeniliklerin olduğu bir yapıdır. Beylikler dönemi cami mimarisinin özelliklerini Osmanlı’ya aktaran en iyi örneklerden bir Manisa’da Saruhanoğullarının 1376’da yaptırdıkları Ulucami’dir.
 
     ***
 1. Ezilerek fırçayla sürülecek hale getirilmiş olan varak altın ve  çeşitli renklerin kullanılmasıyla gerçekleştirilen, parlak ve cazip bir kitap sanatını tanımlayan terim aşağıdakilerden hangisidir ?
@@ -3546,20 +3926,20 @@
     - **Cevap D-) III. Selim**
     - E-) III. Ahmed
 
-    > **Açıklama:** Osmanlı sarayında ilk kez III. Selim  döneminde opera sahnelenmiştir.  Doğru Cevap D’dir.
+    > **Açıklama:** Osmanlı sarayında ilk kez III. Selim döneminde opera sahnelenmiştir. Doğru Cevap D’dir.
 
     ***
 1. Günümüz araştırmaları içerisinde genellikle üç evrede ele alınan ve yenileşme hareketlerine paralel olarak dilde sadeleşmeyi de içeren Osmanlıcanın üçüncü ve son safhası, yani "*Yeni Osmanlıca*", aşağıdaki dönemlerden hangisinde karşımıza çıkmaktadır?
-    - A-) 13. - 15. yüzyıllar arasında
+    - A-) 13\. - 15. yüzyıllar arasında
     - B-) Beylikler döneminde
-    - C-) 16. yüzyılda
+    - C-) 16\. yüzyılda
     - D-) Duraklama döneminde
-    - **Cevap E-) 19. yüzyıl ve 20. yüzyıl başları arasında**
+    - **Cevap E-) 19\. yüzyıl ve 20. yüzyıl başları arasında**
 
     > **Açıklama:** Günümüzde bu yazı dili, genellikle, üç evrede ele alınmaktadır. Bunlar;
-    > 1. Eski Osmanlıca (13.-15. yüzyıllar). Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denilmektedir ve beylikler döneminden başlayarak İstanbul’un fethine kadar getirilir.
-    > 2. Klasik Osmanlıca (16.-19. yüzyıllar). Türk-çe esas olmak üzere Arapça ve Farsça kelimelerle kurallarının Türkçe ile birleştirmesinden oluşur.
-    > 3. Yeni Osmanlıca (19.-20. yüzyılın başları). Yenileşme hareketlerine paralel olarak dilde sadeleşmeyi içerir.
+    > 1\. Eski Osmanlıca (13.-15. yüzyıllar). Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denilmektedir ve beylikler döneminden başlayarak İstanbul’un fethine kadar getirilir.
+    > 2\. Klasik Osmanlıca (16.-19. yüzyıllar). Türk-çe esas olmak üzere Arapça ve Farsça kelimelerle kurallarının Türkçe ile birleştirmesinden oluşur.
+    > 3\. Yeni Osmanlıca (19.-20. yüzyılın başları). Yenileşme hareketlerine paralel olarak dilde sadeleşmeyi içerir.
 
     ***
 1. Kendilerine özgü yapıları ve nitelikleriyle inşa edilmiş Beyşehir’deki Eşrefoğlu Cami, Birgi’deki Ulucami, Selçuk’taki İsa Bey Cami ve Manisa’daki Ulucami gibi mimari yapılar Osmanlı sanatının hangi dönemine aittir?
@@ -3589,7 +3969,17 @@
     - D-) Abdülmecid
     - E-) II. Ahmet
 
-    > **Açıklama:** 18. yüzyılın ikinci yarısından itibaren Padişahlar yerli ve yabancı birçok ustaya portrelerini yaptırmışlardır. Bunlar genellikle guaj veya yağlı boyadır. III. Selim ve II. Mahmud padişah portreciliğinde başı çekmişlerdir. II. Mahmud portresini kamu dairelerine astırdığı için halk tarafından “gavur padişah” olarak nitelendirilmiştir.
+    > **Açıklama:** 18\. yüzyılın ikinci yarısından itibaren Padişahlar yerli ve yabancı birçok ustaya portrelerini yaptırmışlardır. Bunlar genellikle guaj veya yağlı boyadır. III. Selim ve II. Mahmud padişah portreciliğinde başı çekmişlerdir. II. Mahmud portresini kamu dairelerine astırdığı için halk tarafından “gavur padişah” olarak nitelendirilmiştir.
+
+    ***
+1. Aşağıdakilerden hangisi, Türk halıcılığının zirvesini teşkil eden Klasik Dönem Osmanlı halıcılığında büyük bir ekonomik değer oluşturmuş merkezlerden biri olarak belirtilebilir?
+    - **Cevap A-) Uşak**
+    - B-) Kırşehir
+    - C-) Milas
+    - D-) Ladik
+    - E-) Alaşehir
+
+    > **Açıklama:** Klasik dönem halıları, Türk halıcılığının zirvesini teşkil eder. Bu evrede saray halıları ve Uşak halıları olmak üzere iki grup halı çeşidi öne çıkar. 16. yüzyılda Uşak’ta halıcılık büyük bir ekonomik değer olmuştur. Batı Anadolu-Bergama-Uşak bölgesinde dokunan halılar Avrupa’ya ihraç edilmiştir. Hiç kuşkusuz bu halılar İstanbul’da saray çevresinde ve dini yapılarda da kullanılmıştır.
 
     ***
 1. Divanü Lûgat-it Türk ile Yunus Emre’nin divanında adı geçen ve Türk müziğinin bilinen en eski çalgılarından biri olarak kabul edilen enstrüman aşağıdakilerden hangisinde gösterilmiştir?
@@ -3620,7 +4010,8 @@
     - **Cevap D-) Din**
     - E-) Siyasi durum
 
-    > **Açıklama:** Ağırlıklı olarak tarımla uğraşan Müslüman nüfusun kültürel özelliklerini başlıca belirleyen öğe ise, din olmuştur.
+    > **Açıklama:** OSMANLI MİRASI, ULUS-İNŞASI VE CUMHURİYET REJİMİNİN KÜLTÜR POLİTİKASI
+    > Ağırlıklı olarak tarımla uğraşan Müslüman nüfusun kültürel özelliklerini başlıca belirleyen öğe ise, din olmuştur.
 
     ***
 1. Reformlar, birbirinden bağımsız olmayan hangi iki temel ilke üzerinde yapılmıştır?
@@ -3630,7 +4021,8 @@
     - D-) Irkçılık ve ülkücülük
     - **Cevap E-) Laiklik ve milliyetçilik**
 
-    > **Açıklama:** Reformlar, birbirinden bağımsız olmayan iki temel ilke üzerinde yapılmıştır: Laiklik ve milliyetçilik
+    > **Açıklama:** **OSMANLI MİRASI, ULUS-İNŞASI VE CUMHURİYET REJİMİNİN KÜLTÜR POLİTİKASI**
+    > Reformlar, birbirinden bağımsız olmayan iki temel ilke üzerinde yapılmıştır: Laiklik ve milliyetçilik
 
     ***
 1. Türklük tanımı hangi ilkeler üzerinde kurulmuştur?
@@ -3640,7 +4032,8 @@
     - D-) Ekonomik durum ve siyasi görüş
     - E-) Ülkücülük ve dini görüş
 
-    > **Açıklama:** Türklük tanımı vatandaşlık ve etnik-kültürel temelde yapılmıştır.
+    > **Açıklama:** **OSMANLI MİRASI, ULUS-İNŞASI VE CUMHURİYET REJİMİNİN KÜLTÜR POLİTİKASI**
+    > Türklük tanımı vatandaşlık ve etnik-kültürel temelde yapılmıştır.
 
     ***
 1. 1924 yılında Şer’iyye ve Evkaf Vekâleti yerine, İslam’ın “ay­dın” bir yorumunu yapması ve icra etmesi için hangi kurum kurulmuştur?
@@ -3650,7 +4043,8 @@
     - D-) Diyanet Departmanı
     - E-) Diyanet Komisyonu
 
-    > **Açıklama:** 1924 Mart’ının başlarında halifeliğin kaldırılmasıyla eş zamanlı olarak, Şer’iyye ve Evkaf Vekâleti (Şeriat ve Vakıflar Bakanlığı) ilga edilmiş, yerine, İslam’ın “ay­dın” bir yorumunu yapması ve icra etmesi beklenen Diyanet İşleri Reisliği (Müdürlüğü) kurulmuştur.
+    > **Açıklama:** OSMANLI MİRASI, ULUS-İNŞASI VE CUMHURİYET REJİMİNİN KÜLTÜR POLİTİKASI
+    > 1924 Mart’ının başlarında halifeliğin kaldırılmasıyla eş zamanlı olarak, Şer’iyye ve Evkaf Vekâleti (Şeriat ve Vakıflar Bakanlığı) ilga edilmiş, yerine, İslam’ın “ay­dın” bir yorumunu yapması ve icra etmesi beklenen Diyanet İşleri Reisliği (Müdürlüğü) kurulmuştur.
 
     ***
 1. Hangi reform Doğu me­deniyetinden Batı medeniyetine geçmesi amacıyla yapılmıştır?
@@ -3660,7 +4054,8 @@
     - D-) Şapka reformu
     - E-) Nüfus Mübadelesi
 
-    > **Açıklama:** Alfabe değişikliği, dil reformu ve yeni tarih anlayışı yeni Türkiye devletinin Osmanlı dev-letinden ve İslam kültüründen kültürel bir kopuş sağlama niyetini gösterir. Millî kimli-ğin temelini oluşturacak kültürün kaynakları, Osmanlı İmparatorluğu’nun Ortadoğulu ve İslami olan uygarlığından ayrıştırılmış ve bunların yerine Batı uygarlığına ait öğelerin yerleştirilmesi daha mümkün olmuştur. Dil ve tarih alanındaki yenilikler, arkeoloji ve antropoloji alanlarında yapılan çalışmalarla desteklenmeye çalışılmıştır
+    > **Açıklama:** OSMANLI MİRASI, ULUS-İNŞASI VE CUMHURİYET REJİMİNİN KÜLTÜR POLİTİKASI
+    > Alfabe değişikliği, dil reformu ve yeni tarih anlayışı yeni Türkiye devletinin Osmanlı dev-letinden ve İslam kültüründen kültürel bir kopuş sağlama niyetini gösterir. Millî kimli-ğin temelini oluşturacak kültürün kaynakları, Osmanlı İmparatorluğu’nun Ortadoğulu ve İslami olan uygarlığından ayrıştırılmış ve bunların yerine Batı uygarlığına ait öğelerin yerleştirilmesi daha mümkün olmuştur. Dil ve tarih alanındaki yenilikler, arkeoloji ve antropoloji alanlarında yapılan çalışmalarla desteklenmeye çalışılmıştır
 
     ***
 1. Türkiyede 1950’li yıllarda başlayan kültürel değişimin yönünü hangi faktörler belirlemiştir?
@@ -3670,7 +4065,8 @@
     - D-) Eğitim sistemindeki reformlar
     - E-) SSCB ülkeleri ile ilişkiler
 
-    > **Açıklama:** 1950’li yıllardan başlayarak, yakın zamanlara kadar toplumun geniş kesimlerinin etkisi altında kalacağı kültür, büyük ölçüde *Amerikanlaşma* ile birlikte kırdan kente göçle biçimlenecek olan, tü­ketime dönük popüler kültürdür.
+    > **Açıklama:** Türkiyede kültürel değişimin yönünü belirleyen ana faktörler: amerikanlaşma ve göç.
+    > 1950’li yıllardan başlayarak, yakın zamanlara kadar toplumun geniş kesimlerinin etkisi altında kalacağı kültür, büyük ölçüde *Amerikanlaşma* ile birlikte kırdan kente göçle biçimlenecek olan, tü­ketime dönük popüler kültürdür.
 
     ***
 1. Hangi faktör 1960’larda yoğun yapılaşmış semtlerin ortaya çıkmasına neden olmuştur?
@@ -3680,7 +4076,8 @@
     - D-) Eğitim seviyesinin yükselmesi
     - E-) Ekonomik refah
 
-    > **Açıklama:** 1960’larda iyice yaygınlaşacak olan yapsatçılık (müteahhitlik), konut üretiminin küçük girişimciler tarafından örgütlenmesi anlamına gelmiştir. Yapsatçı olarak bilinen bu girişimciler, şehrin imara açık yerlerinde çok katlı binalar yaparak yoğun yapılaşmış semtlerin ortaya çıkmasına neden olmuşlardır.
+    > **Açıklama:** Kültürel Değişim Örnekleri Olarak Müzik, Sinema ve Mimarlık
+    > 1960’larda iyice yaygınlaşacak olan yapsatçılık (müteahhitlik), konut üretiminin küçük girişimciler tarafından örgütlenmesi anlamına gelmiştir. Yapsatçı olarak bilinen bu girişimciler, şehrin imara açık yerlerinde çok katlı binalar yaparak yoğun yapılaşmış semtlerin ortaya çıkmasına neden olmuşlardır.
 
     ***
 1. Batılılaşma döneminde heykel ve mimarlık alanında hangi özellik izlenmiştir?
@@ -3690,7 +4087,8 @@
     - **Cevap D-) Cumhuriyet rejimin sembollerinin yansıtması**
     - E-) Geçmişle ve modern kültürün sentezi
 
-    > **Açıklama:** Heykelcilik, Cumhuriyet rejiminin halka benimsetilmesi, millî bilincin güçlendirilmesi ve yakın dönem tarihinin, özellikle Kurtuluş Savaşı’nın gelecek nesillere aktarılması için önem atfedilen bir alandı. Bu amaçlar doğrultusunda, heykel alanındaki gelişme, anıt yapımıyla sınırlı kalmıştı. Sanat alanındaki diğer gelişmelerde olduğu gibi, bu alanda da Mustafa Kemal’in görüşleri ve inisiyatifi etkili olmuştur. Kentlerde anıt yapımının sembolik ve anlamsal önemini kavrayan bir yönetici olarak, Mustafa Kemal büyük boyutta anıtların yapılması gerektiğini ileri sürmüştü
+    > **Açıklama:** Sanatta ve Mimarlıkta Batılılaşma
+    > Heykelcilik, Cumhuriyet rejiminin halka benimsetilmesi, millî bilincin güçlendirilmesi ve yakın dönem tarihinin, özellikle Kurtuluş Savaşı’nın gelecek nesillere aktarılması için önem atfedilen bir alandı. Bu amaçlar doğrultusunda, heykel alanındaki gelişme, anıt yapımıyla sınırlı kalmıştı. Sanat alanındaki diğer gelişmelerde olduğu gibi, bu alanda da Mustafa Kemal’in görüşleri ve inisiyatifi etkili olmuştur. Kentlerde anıt yapımının sembolik ve anlamsal önemini kavrayan bir yönetici olarak, Mustafa Kemal büyük boyutta anıtların yapılması gerektiğini ileri sürmüştü
 
     ***
 1. Konservatuvar kuruluşunun başta gelen amacı nedir?
@@ -3700,7 +4098,8 @@
     - D-) Arap musikisini halka benimsetmek
     - E-) Arabesk musikisi yöntemlerini yayacak öğretmenleri yetiştirmek
 
-    > **Açıklama:** Konservatuvarın başta gelen amacı, Batı musikisi yöntemlerini uygulayacak, yeni müzik anlayışını tüm ülkeye yayacak öğretmenleri yetiştirmek ve müzik sorunlarıyla ilgili araştırma yapmaktı
+    > **Açıklama:** Sanatta ve Mimarlıkta Batılılaşma
+    > Konservatuvarın başta gelen amacı, Batı musikisi yöntemlerini uygulayacak, yeni müzik anlayışını tüm ülkeye yayacak öğretmenleri yetiştirmek ve müzik sorunlarıyla ilgili araştırma yapmaktı
 
     ***
 1. Hangi özellik Türkiye Cumhuriyeti’ne Osmanlı döneminden ge­çmiştir**?**
@@ -3710,7 +4109,8 @@
     - D-) Gelişmiş sanayi yapılaşması
     - **Cevap E-) Etnik, dinsel ve dilsel kozmopolit kültürel yapısı**
 
-    > **Açıklama:** Kozmopolit kültürel yapı, et­nik ve dinsel açılardan farklı unsurların varlığına dayanan kültürel çoğulculuk, Osmanlı devletinin kapitalist dünya düzenine eklemlenmeye başladığı 19. yüzyılın ikinci yarısından itibaren kent haya­tının belirgin bir özelliği ortaya çıkmıştır. Kültü­rel çoğulculuğu, nüfusun heterojen olduğu kırsal alanda da görmek mümkündür. Bu bağlamda, Anadolu’nun genelinde, oranları değişmekle bir­likte, Müslüman-Gayrimüslim farklı etnik ve dini grupların varlığı söz konusudur
+    > **Açıklama:** Osmanlı’dan Cumhuriyet’e Geçerken Toplumsal Yapı ve Kültür
+    > Kozmopolit kültürel yapı, et­nik ve dinsel açılardan farklı unsurların varlığına dayanan kültürel çoğulculuk, Osmanlı devletinin kapitalist dünya düzenine eklemlenmeye başladığı 19. yüzyılın ikinci yarısından itibaren kent haya­tının belirgin bir özelliği ortaya çıkmıştır. Kültü­rel çoğulculuğu, nüfusun heterojen olduğu kırsal alanda da görmek mümkündür. Bu bağlamda, Anadolu’nun genelinde, oranları değişmekle bir­likte, Müslüman-Gayrimüslim farklı etnik ve dini grupların varlığı söz konusudur
 
     ***
 1. I. Nüfusun %80-85’i kırsal alanda, tarımla uğraşan köylülerden oluşuyordu.<br />II. Kentleşme oranı düşüktür.<br />III. Kent merkezli nüfusun oranı yüksektir.<br />IV. Cumhuriyet kurulduğunda Türkiye’nin nüfusu 36 milyondur.<br />V. Ticaret hayatının canlı olduğu kentler, büyük ölçüde gayrimüslim unsurların yerleşik<br />olduğu mekanlardır.<br />**Yukarıdakilerden hangileri, Osmanlı’dan Cumhuriyet’e geçerken toplumsal yapı ve kültür içinde değerlendirilmelidir?**
@@ -3820,7 +4220,9 @@
     - **Cevap D-) I, II ve III**
     - E-) I ve III
 
-    > **Açıklama:** Batılılaşma-milliyetçilik-laiklik ekseninde millî bir kültür oluşturmayı hedeflemiştir. Bu amaç doğrultusunda, devletin ve toplumun dayandığı kültürel
+    > **Açıklama:** Kültürel Hayatın Şekillendirilmesi
+    > Bağlamında Yapılan Reformlar
+    > Batılılaşma-milliyetçilik-laiklik ekseninde millî bir kültür oluşturmayı hedeflemiştir. Bu amaç doğrultusunda, devletin ve toplumun dayandığı kültürel
     > yapının temellerini değiştirmek üzere, geniş alana yayılan reformlar yapılmıştır.
 
     ***
@@ -3831,7 +4233,9 @@
     - D-) II ve III
     - E-) I ve II
 
-    > **Açıklama:** Eğitim ve hukuk alanında yapılan reformlar, devlet yönetiminin dini etkilerden azade kılınmasını öngörüyordu. Bu doğrultuda, 1924 Mart’ının başlarında halifeliğin kaldırılmasıyla eş zamanlı olarak, Şer’iyye ve Evkaf Vekâleti (Şeriat ve Vakıflar Bakanlığı) ilga edilmiş, yerine, İslam’ın “aydın” bir yorumunu yapması ve icra etmesi beklenen Diyanet İşleri Reisliği (Müdürlüğü) kurulmuştur.
+    > **Açıklama:** Kültürel Hayatın Şekillendirilmesi
+    > Bağlamında Yapılan Reformlar
+    > Eğitim ve hukuk alanında yapılan reformlar, devlet yönetiminin dini etkilerden azade kılınmasını öngörüyordu. Bu doğrultuda, 1924 Mart’ının başlarında halifeliğin kaldırılmasıyla eş zamanlı olarak, Şer’iyye ve Evkaf Vekâleti (Şeriat ve Vakıflar Bakanlığı) ilga edilmiş, yerine, İslam’ın “aydın” bir yorumunu yapması ve icra etmesi beklenen Diyanet İşleri Reisliği (Müdürlüğü) kurulmuştur.
     > Devamında, eğitimin laikleştirilmesini amaçlayan Tevhid-i Tedrisat (Eğitimin Birleştirilmesi) Kanunu kabul edildi ve medreseler kapatıldı. Laikleştirme çabasında ön plana çıkan diğer alan, simgeler alanıydı. Reformla, dinsel simgeler yerini Avrupa uygarlığının simgelerine bırakacaktı. Bu girişimin tipik örneği, 1925 yılında fesin yasaklanması ve yerine şapka giyilmesini öngören, Şapka Kanunu’nun kabul edilmesiydi. Dinsel kılık kıyafetin giyilmesi, ibadet yerleriyle sınırlandırıldı.
     > Hukuk alanında ise, laikleştirme doğrultusunda bu dönemde atılan en belirgin adım, aile hukukunun laikleşmesinin sağlanması ve kadının toplumsal yaşam içindeki konumunun güçlendirilmesi amacıyla, Medeni Kanun’un kabul edilmesiydi.
 
@@ -3843,7 +4247,10 @@
     - **Cevap D-) 1928**
     - E-) 1927
 
-    > **Açıklama:** 1928 yılında, Mustafa Kemal’in yönetiminde kurulan ve üyelerinin Latin alfabesine geçişi savunduğu Dil Encümeni adında bir komisyon kuruldu. Komisyonun
+    > **Açıklama:** Arap Alfabesinden Latin Alfabesine
+    > Geçiş, Dilde Reform Meselesi ve Yeni
+    > Tarih Anlayışı
+    > 1928 yılında, Mustafa Kemal’in yönetiminde kurulan ve üyelerinin Latin alfabesine geçişi savunduğu Dil Encümeni adında bir komisyon kuruldu. Komisyonun
     > hazırladığı rapordan sonra, Latin harflerine geçişin milleti cehaletten kurtarmak için gerekli olduğu ve geçilecek alfabenin aslında Türk alfabesi olduğu
     > sonuçlarına varıldı. Nihayet, 3 Kasım 1928’de alfabe değişikliğine dair karar Türkiye Büyük Millet Meclisi’nde kanunlaşmıştır.
 
@@ -3855,18 +4262,21 @@
     - D-) Darü’l-Bedayi
     - E-) Darü’l-Elhan
 
-    > **Açıklama:** 1928 yılında Güzel Sanatlar Akademisi olarak adlandırılacak kurum, 19. yüzyılın sonlarına doğru, mimarlık, şehircilik, resim ve heykel gibi sanat dallarında
+    > **Açıklama:** Resim-Heykel Alanındaki Gelişmeler:
+    > 1928 yılında Güzel Sanatlar Akademisi olarak adlandırılacak kurum, 19. yüzyılın sonlarına doğru, mimarlık, şehircilik, resim ve heykel gibi sanat dallarında
     > Batı tarzında sistemli bir öğretimi sağlamak amacıyla kurulan Sanayi-i Nefise Mektebi’nin yeni koşullarda reforma tabi tutulması sonucu kuruldu.
 
     ***
-1. Aşağıdakilerden hangisi ya da hangileri Erken Cumhuriyet döneminde Köy Enstitülerinin üstlendiği işlevler arasında yer alır?<br />I-Rasyonelliğe dayalı bilimsel araştırmalar yapmak<br />II-Kırsal alanın geliştirilmesi, kırsal alandaki insanların bilinçlendirilmesi<br />III-Kırsal alanlarda yaşayan insanların millî amaçların dayanağı olacak şekilde bilgi ve becerilerle donatılması
+1. Aşağıdakilerden hangisi ya da hangileri Erken Cumhuriyet döneminde Köy Enstitülerinin üstlendiği işlevler arasında yer alır?<br />I-Rasyonelliğe dayalı bilimsel araştırmalar yapmak<br />II-Kırsal alanın geliştirilmesi, kırsal alandaki insanların bilinçlendirilmesi<br />III-Kırsal alanlarda yaşayan insanların millî amaçların dayanağı olacak şekilde bilgi ve becerilerle donatılması
     - A-) Sadece II
     - B-) I ve II
     - **Cevap C-) II ve III**
     - D-) Sadece III
     - E-) Sadece I
 
-    > **Açıklama:** Köy Enstitülerinin, ilköğretimin köylere yaygınlaştırılması ve kırsal alana öğretmen yetiştirmek
+    > **Açıklama:** Yeni Kültürü Yayma Aracı Olarak
+    > Eğitim
+    > Köy Enstitülerinin, ilköğretimin köylere yaygınlaştırılması ve kırsal alana öğretmen yetiştirmek
     > yanında, kırsal alanın geliştirilmesi, kırsal alandaki insanların bilinçlendirilmesi ve onları millî amaçların dayanağı
     > olacak şekilde bilgi ve becerilerle donatmak amaçları arasındaydı.
 
@@ -3898,7 +4308,9 @@
     - **Cevap D-) I, II ve III**
     - E-) Sadece II
 
-    > **Açıklama:** 1950’lerden
+    > **Açıklama:** Kültürel Değişimin Yönünü Belirleyen
+    > Ana Faktörler: Amerikanlaşma ve Göç
+    > 1950’lerden
     > 1980’lere kadar, sayıları milyonlarca ifade edilen
     > köy kökenli nüfusun şehirlere akın etmesi (1950-
     > 1960 arasında dört büyük şehrin nüfusu %75 artmıştır), şehirlerde konut sıkıntısına yol açacak ve
@@ -3918,32 +4330,32 @@
     > varoşlarla sınırlı bir kültürü temsil etmişlerdir.
 
     ***
-1. Hangisi, Anadolu'nun, Türklerin kültür tarihi içinde 19. yüzyılın sonlarına doğru ilgi odağı olmasının sebeplerinden değildir?<br />I-Anadolu'nun, Osmanlı devleti için asker ve vergi kaynağı olması,<br />II-Milliyetçilik akımının etkisiyle bazı aydınların, Anadolu’yu Türk kültürünün gerçek<br />temsilcisi olarak görmeye başlaması,<br />III-Anadolu, Türk kültürünün en önemli öğesi, Türkçe’nin en sade haliyle konuşulduğu ve Türk folklorunun, değerlerinin yaşatıldığı yer olarak tanımlanmaya başlaması,<br />IV- Osmanlı İmparatorluğu’nun son dönemindeki toprak kayıpları sonucunda, sınırlarının iyice<br />Anadolu’ya çekilmesiyle, Anadolu'nun, Türk vatanı ve Türklerin<br />ana yurdu olarak görülmeye başlaması,
+1. Hangisi, Anadolu'nun, Türklerin kültür tarihi içinde 19. yüzyılın sonlarına doğru ilgi odağı olmasının sebeplerinden değildir?<br />I-Anadolu'nun, Osmanlı devleti için asker ve vergi kaynağı olması,<br />II-Milliyetçilik akımının etkisiyle bazı aydınların, Anadolu’yu Türk kültürünün gerçek<br />temsilcisi olarak görmeye başlaması,<br />III-Anadolu, Türk kültürünün en önemli öğesi, Türkçe’nin en sade haliyle konuşulduğu ve Türk folklorunun, değerlerinin yaşatıldığı yer olarak tanımlanmaya başlaması,<br />IV- Osmanlı İmparatorluğu’nun son dönemindeki toprak kayıpları sonucunda, sınırlarının iyice<br />Anadolu’ya çekilmesiyle, Anadolu'nun, Türk vatanı ve Türklerin<br />ana yurdu olarak görülmeye başlaması,
     - **Cevap A-) I**
     - B-) II
     - C-) III
     - D-) IV
     - E-) II-IV
 
-    > **Açıklama:** 19. yüzyıla değin Anadolu'nun Osmanlı devleti için
+    > **Açıklama:** 19\. yüzyıla değin Anadolu'nun Osmanlı devleti için
     > önemi, asker ve vergi kaynağı olmasından ötürüdür.
 
     ***
-1. Osmanlı devlet ve toplum kültüründe Batının kültürel etkilerine büyük ölçüde kapalı, hatta<br />tepkili olan grup aşağıdakilerden hangisidir ?
+1. Osmanlı devlet ve toplum kültüründe Batının kültürel etkilerine büyük ölçüde kapalı, hatta<br />tepkili olan grup aşağıdakilerden hangisidir ?
     - A-) Devlet yönetimi,
     - B-) Devletin yönetim kadroları,
     - C-) Aydınlar,
     - D-) Kent merkezli gayrimüslimler,
     - **Cevap E-) Kırsal alanda yerleşik olan Müslüman nüfus,**
 
-    > **Açıklama:** Osmanlı devlet ve toplum kültüründe, Kırsal alanda yerleşik olan Müslüman nüfus, Batının kültürel etkilerine büyük ölçüde kapalı, hatta tepkilidir.
+    > **Açıklama:** Osmanlı devlet ve toplum kültüründe, Kırsal alanda yerleşik olan Müslüman nüfus, Batının kültürel etkilerine büyük ölçüde kapalı, hatta tepkilidir.
 
     ***
 1. Aşağıdaki ifadelerden hangisi Erken Cumhuriyet dönemi Kültür politikalarını tanımlamaz?
-    - A-) I-Osmanlı İmparatorluğu’ndan Türkiye Cumhuriyeti’ne geçen toplumsal ve kültürel miras, oluşturulmak   istenen ulusa atfedilen özelliklere göre yeniden tanımlanmaya ve şekillendirilmeye başlanmıştır.
+    - A-) I-Osmanlı İmparatorluğu’ndan Türkiye Cumhuriyeti’ne geçen toplumsal ve kültürel miras, oluşturulmak istenen ulusa atfedilen özelliklere göre yeniden tanımlanmaya ve şekillendirilmeye başlanmıştır.
     - B-) II-Erken Cumhuriyet dönemi yönetimi, ulusu, çağdaş olmanın yanı sıra milliyetçi ve laik özellikler barındıran bir yapı olarak tasarlamıştır.
-    - C-) III-Erken Cumhuriyet döneminin kültür politikası, Batılılaşma-milliyetçilik-laiklik ekseninde millî bir   kültür oluşturmayı hedeflemiştir.
-    - D-) IV-Erken Cumhuriyet döneminde devletin ve toplumun dayandığı kültürel yapının temellerini değiştirmek üzere, geniş alana   yayılan reformlar yapılmıştır.
+    - C-) III-Erken Cumhuriyet döneminin kültür politikası, Batılılaşma-milliyetçilik-laiklik ekseninde millî bir kültür oluşturmayı hedeflemiştir.
+    - D-) IV-Erken Cumhuriyet döneminde devletin ve toplumun dayandığı kültürel yapının temellerini değiştirmek üzere, geniş alana yayılan reformlar yapılmıştır.
     - **Cevap E-) V-Osmanlı İmparatorluğu’ndan Türkiye Cumhuriyeti’ne geçen toplumsal ve kültürel miras tamamen reddedilmiştir.**
 
     > **Açıklama:** "Osmanlı İmparatorluğu’ndan Türkiye Cumhuriyeti’ne geçen toplumsal ve kültürel miras tamamen reddedilmiştir" ifadesi
@@ -3970,7 +4382,17 @@
     > **Açıklama:** Milliyetçilik temel ilkesinin amacı, Osmanlıdan gelen kozmopolit kültürel yapıyı, etnik, dinsel ve dilsel farklılıkları Türklük potasında eritmektir.
 
     ***
-1. Aşağıdaki şıklardan hangisi 1932’de gerçekleşen I. Türk Tarih Kongresi’nde<br />kabul edilen Türk Tarih Tezini anlatır?<br />1-Türk tarihinin kökenlerini<br />keşfetmeye, temellendirmeye ve Türkiye’nin köklü<br />bir devlet olduğunu kanıtlamaya dönük bir arayışın<br />sonucudur.<br />II-Türk kültürünün temellerini Orta Asya’da görmüştür.<br />III-Türklerin Orta Asya’da yaşarken, kuraklık<br />ve kıtlıktan dolayı Çin, Avrupa ve Yakındoğu gibi<br />başka bölgelere göç etmek zorunda kaldıklarını kabul etmiştir.<br />IV-Türkler, göç ettikleri yerlerde uygarlıklar kurmuşlardı. Yakındoğu’da kurulan Sümerler ve Hititler esasen<br />Türk idiler. Bu yönüyle  Öte yandan, Anadolu’nun çok eskiden beri Türklerin yerleşik olduğu bir yer olduğunu kabul etmiştir.<br />V-Ağustos 1936’da yapılan III. Dil Kurultayı, Güneş-Dil Teorisi’nin<br />kabul edilmesiyle sonuçlanmıştır. Aslında, bu teori 1932’de gerçekleşen I. Türk Tarih Kongresi’nde<br />kabul edilen Türk Tarih Tezi’nin dil alanındaki iz<br />düşümüdür.
+1. Erken Cumhuriyet dönemi kültür politikasının radikalliğinin boyutunu gösteren en çarpıcı örneklerden biri, yapılan alfabe değişikliğidir. Bu hangi yıl yapılmıştır?
+    - A-) 1924 yılında
+    - B-) 1926 yılında
+    - **Cevap C-) 1928 yılında**
+    - D-) 1930 yılında
+    - E-) 1936 yılında
+
+    > **Açıklama:** Erken Cumhuriyet dönemi kültür politikasının radikalliğinin boyutunu gösteren en çarpıcı örneklerden biri, 1928 yılında yapılan alfabe değişikliğidir.
+
+    ***
+1. Aşağıdaki şıklardan hangisi 1932’de gerçekleşen I. Türk Tarih Kongresi’nde<br />kabul edilen Türk Tarih Tezini anlatır?<br />1-Türk tarihinin kökenlerini<br />keşfetmeye, temellendirmeye ve Türkiye’nin köklü<br />bir devlet olduğunu kanıtlamaya dönük bir arayışın<br />sonucudur.<br />II-Türk kültürünün temellerini Orta Asya’da görmüştür.<br />III-Türklerin Orta Asya’da yaşarken, kuraklık<br />ve kıtlıktan dolayı Çin, Avrupa ve Yakındoğu gibi<br />başka bölgelere göç etmek zorunda kaldıklarını kabul etmiştir.<br />IV-Türkler, göç ettikleri yerlerde uygarlıklar kurmuşlardı. Yakındoğu’da kurulan Sümerler ve Hititler esasen<br />Türk idiler. Bu yönüyle Öte yandan, Anadolu’nun çok eskiden beri Türklerin yerleşik olduğu bir yer olduğunu kabul etmiştir.<br />V-Ağustos 1936’da yapılan III. Dil Kurultayı, Güneş-Dil Teorisi’nin<br />kabul edilmesiyle sonuçlanmıştır. Aslında, bu teori 1932’de gerçekleşen I. Türk Tarih Kongresi’nde<br />kabul edilen Türk Tarih Tezi’nin dil alanındaki iz<br />düşümüdür.
     - A-) I
     - B-) I-II
     - C-) I-II-III
@@ -3988,8 +4410,8 @@
     > ve kıtlıktan dolayı Çin, Avrupa ve Yakındoğu gibi
     > başka bölgelere göç etmek zorunda kaldıklarını kabul etmiştir.
     > IV-Türkler, göç ettikleri yerlerde uygarlıklar kurmuşlardı. Yakındoğu’da kurulan Sümerler ve Hititler esasen
-    > Türk idiler. Bu yönüyle  Öte yandan, Anadolu’nun çok eskiden beri Türklerin yerleşik olduğu bir yer olduğunu kabul etmiştir.
-    > V-Ağustos 1936’da yapılan III. Dil Kurultayı, Güneş-Dil Teorisi’nin
+    > Türk idiler. Bu yönüyle Öte yandan, Anadolu’nun çok eskiden beri Türklerin yerleşik olduğu bir yer olduğunu kabul etmiştir.
+    > V-Ağustos 1936’da yapılan III. Dil Kurultayı, Güneş-Dil Teorisi’nin
     > kabul edilmesiyle sonuçlanmıştır. Aslında, bu teori 1932’de gerçekleşen I. Türk Tarih Kongresi’nde
     > kabul edilen Türk Tarih Tezi’nin dil alanındaki iz
     > düşümüdür.
@@ -4012,7 +4434,7 @@
     - D-) Avusturyalı Heykeltraş Josef Thorak
     - E-) Avusturyalı Heykeltraş Anton Hanak ve Josef Thorak
 
-    > **Açıklama:** Ankara’da Ulus meydanında, ana figür olarak ata binmiş Atatürk’ü gösteren Atatürk Anıtı, Avusturyalı heykeltıraş Heinrich Krippel'in eseridir.
+    > **Açıklama:** Ankara’da Ulus meydanında, ana figür olarak ata binmiş Atatürk’ü gösteren Atatürk Anıtı, Avusturyalı heykeltıraş Heinrich Krippel'in eseridir.
 
     ***
 1. 1928 yılında yapılan yarışmada, Ankara'yı elli yıl sonra 300 bin nüfuslu çağdaş bir kent olacak şekilde tasarlayan mimar aşağıdakilerden hangisidir?
@@ -4025,24 +4447,30 @@
     > **Açıklama:** Kent planlaması ve düzenlenmesi için 1928 yılında yapılan yarışmayı, Berlin şehir planlamasını da kazanmış olan Herman Jansen kazanmıştır. Yaptığı planlamada Ankara, 50 yıl sonra 300 bin nüfuslu olacak şekilde, çağdaş bir şehir olarak tasarlanmıştır. Planlanan kent dokusu, geçmişteki Anadolu Türk kenti imgesinden hayli farklıdır; geniş bulvarlar, caddelerin üzerinde özenle yapılmış kurumsal binaların bulunduğu, temiz, yeşil alanlara sahip bir çağdaş kent kurulması öngörülmüştür.
 
     ***
-1. 1928 yılında Güzel Sanatlar Akademisi olarak adlandırılacak kurum, 19. yüzyılın sonlarına doğru, mimarlık, şehircilik, resim ve heykel gibi sanat dallarında Batı tarzında sistemli bir öğretimi sağlamak amacıyla kurulan eğitim kurumu ..................dir.<br />Yukarıdaki boş bırakılan yeri dolduracak cevap aşağıdaki şıklardan hangisinde verilmiştir?
+1. 1928 yılında Güzel Sanatlar Akademisi olarak adlandırılacak kurum, 19. yüzyılın sonlarına doğru, mimarlık, şehircilik, resim ve heykel gibi sanat dallarında Batı tarzında sistemli bir öğretimi sağlamak amacıyla kurulan eğitim kurumu ..................dir.<br />Yukarıdaki boş bırakılan yeri dolduracak cevap aşağıdaki şıklardan hangisinde verilmiştir?
     - A-) Musiki Muallim Mektebi
     - **Cevap B-) Sanayi-i Nefise Mektebi**
     - C-) Darü’l-Elhan
     - D-) Darü’l-Bedayi
     - E-) Tatbiki Güzel Sanatlar
 
-    > **Açıklama:** 1928 yılında Güzel Sanatlar Akademisi olarak adlandırılacak kurum, 19. yüzyılın sonlarına doğru, mimarlık, şehircilik, resim ve heykel gibi sanat dallarında Batı tarzında sistemli bir öğretimi sağlamak amacıyla kurulan eğitim kurumu Sanayi-i Nefise Mektebi'dir.
+    > **Açıklama:** Resim-Heykel Alanındaki Gelişmeler:
+    > Sanayi-i Nefise Mektebi’nden Güzel Sanatlar
+    > Akademisi’ne:
+    > 1928 yılında Güzel Sanatlar Akademisi olarak adlandırılacak kurum, 19. yüzyılın sonlarına doğru, mimarlık, şehircilik, resim ve heykel gibi sanat dallarında Batı tarzında sistemli bir öğretimi sağlamak amacıyla kurulan eğitim kurumu Sanayi-i Nefise Mektebi'dir.
 
     ***
-1. Aşağıdakilerden hangisi ya da hangileri Cumhuriyet rejiminin halka benimsetilmesi, millî bilincin güçlendirilmesi ve yakın dönem tarihinin, özellikle Kurtuluş Savaşı’nın gelecek nesillere aktarılması  amacıyla  Cumhuriyet Döneminde yapılan anıt heykellerin sanatçıları (heykeltıraşları) arasında yer alır?<br />I-Heinrich Krippel<br />II-Pietro Canonica<br />III-François-Auguste Rodin
+1. Aşağıdakilerden hangisi ya da hangileri Cumhuriyet rejiminin halka benimsetilmesi, millî bilincin güçlendirilmesi ve yakın dönem tarihinin, özellikle Kurtuluş Savaşı’nın gelecek nesillere aktarılması amacıyla Cumhuriyet Döneminde yapılan anıt heykellerin sanatçıları (heykeltıraşları) arasında yer alır?<br />I-Heinrich Krippel<br />II-Pietro Canonica<br />III-François-Auguste Rodin
     - A-) Sadece III
     - B-) II ve III
     - C-) Sadece I
     - **Cevap D-) I ve II**
     - E-) I ve III
 
-    > **Açıklama:** Avusturyalı heykeltıraş Heinrich Krippel’in yaptığı, 1926’da törenle açılan Sarayburnu Atatürk Heykeli’dir. Devamında Krippel, Konya Atatürk Heykeli’ni, Ankara’da Ulus meydanında, ana figür olarak ata binmiş Atatürk’ü gösteren Atatürk Anıtı’nı, Afyon’da Zafer Anıtı’nı yapmıştır. Diğer bir heykeltıraş, İtalyan Pietro Canonica ise, Ankara Etnografya Müzesi önündeki Atlı Anıt’ı, Ankara Zafer alanındaki Atatürk Heykeli’ni, İstanbul Taksim Cumhuriyet Anıtı’nı ve İzmir Atlı Anıtı’nı yapmıştır
+    > **Açıklama:** Resim-Heykel Alanındaki Gelişmeler:
+    > Sanayi-i Nefise Mektebi’nden Güzel Sanatlar
+    > Akademisi’ne:
+    > Avusturyalı heykeltıraş Heinrich Krippel’in yaptığı, 1926’da törenle açılan Sarayburnu Atatürk Heykeli’dir. Devamında Krippel, Konya Atatürk Heykeli’ni, Ankara’da Ulus meydanında, ana figür olarak ata binmiş Atatürk’ü gösteren Atatürk Anıtı’nı, Afyon’da Zafer Anıtı’nı yapmıştır. Diğer bir heykeltıraş, İtalyan Pietro Canonica ise, Ankara Etnografya Müzesi önündeki Atlı Anıt’ı, Ankara Zafer alanındaki Atatürk Heykeli’ni, İstanbul Taksim Cumhuriyet Anıtı’nı ve İzmir Atlı Anıtı’nı yapmıştır
 
     ***
 1. Aşağıdakilerden hangisi ya da hangileri Türkiye de 1950’li yıllardan 1970 lere kadar, resmi müzik anlayışı yerine, toplumdaki değişimi yansıtacak şekilde ortaya çıkan müzik türleri arasında yer alır?<br />I-Arabesk<br />II-Rock’n’roll<br />III-Hip pop
@@ -4052,7 +4480,9 @@
     - D-) Sadece II
     - E-) I ve III
 
-    > **Açıklama:** 1950’li yıllardan itibaren, resmi müzik anlayışı yerini, toplumdaki değişimi yansıtacak şekilde,
+    > **Açıklama:** Kültürel Değişim Örnekleri Olarak
+    > Müzik, Sinema ve Mimarlık
+    > 1950’li yıllardan itibaren, resmi müzik anlayışı yerini, toplumdaki değişimi yansıtacak şekilde,
     > başka anlayışlara bırakır. Türk Sanat Müziği ya da yerliliği ifade eden, ancak yapısal bir dönüşüme
     > uğrayan biçimiyle alaturka müzik ve Amerikan hayat tarzının şehirdeki yansıması olarak, özellikle üniversite gençliğinin katıldığı partilerde dans müziği olarak benimsenen “Rock’n’roll” toplumun farklı kesimlerinin rağbet ettiği müzik anlayışları olarak çıkacaktır.
     > Arabeskin çıkış kaynağı olarak, halkın alaturka müziğin radyoda yasaklandığı yıllarda, ona yakın

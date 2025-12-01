@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Harita"
+        "Aciklama": "<strong>Harita,</strong> belirli bir kullanım amacı için, yeryüzünün ya da bir parçasının kuş bakışı görünümünün<br/>belirli bir oranda küçültülerek bir düzlem üzerinde gösterilmesidir."
     },
     {
         "SoruID": 3862348,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kâğıt"
+        "Aciklama": "<strong>Kâğıdın</strong> kullanıma geçmesiyle birlikte yaygınlaşan haritalar taşınabilir ve kolay çoğaltılabilir hâle gelmiştir.<br>Kâğıt"
     },
     {
         "SoruID": 3862349,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Konum"
+        "Aciklama": "Haritanın hazırlanabilmesi ve kullanılabilmesi için <strong>konum bilgisine</strong> gereksinim vardır."
     },
     {
         "SoruID": 3862350,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ölçek"
+        "Aciklama": "Haritaların renk, desen, doku, yazı, sembol, ölçek gibi pek çok bileşeni bulunmaktadır. <strong>Bunların şüphesiz en belirleyicisi ölçektir. </strong>"
     },
     {
         "SoruID": 3862352,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Renk"
+        "Aciklama": "<strong>Haritada ayrıca renkler fiziksel yapıları ayırt etmede</strong>, desen ve dokular yüzeyleri tanımlamada, yazılar açıklamalarda ve semboller tekrar eden bilgileri gruplandırarak anlatmak amacıyla <strong>kullanılır.</strong>"
     },
     {
         "SoruID": 3862353,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ölçek"
+        "Aciklama": "Kullanılan yüzeyin boyutu ve sığdırılmak istenen içeriğin miktarına bağlı olarak <strong>ölçek</strong> değişir."
     },
     {
         "SoruID": 3862354,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ölçek"
+        "Aciklama": "<strong>Bilgi panolarının oluşturulmasında belirleyici unsur</strong> taşıyacağı içeriktir. İçerik derken bilgi, görseller ve tablo çizim vb. gibi diğer öğeler de kastedilmektedir. Söz konusu tasarım ürününün hedefi belirli bir içeriği görselleştirerek izleyiciye aktarmak olacağı için, içeriğin salt metinden oluşacağı düşünülemez. <strong>Daha da detaya inmek gerekirse içerik başlık, gövde metin, fotoğraf, illüstrasyon, tablo, şema gibi öğelerden oluşmaktadır.</strong> Bütün bu ögeler algılanma sırasına göre hiyerarşik olarak düzenlenmiş dengeli bir kompozisyonda bir araya getirilirler.<br>Ölçek"
     },
     {
         "SoruID": 3862355,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgi ve içerikle ilgili konularda uyarıda bulunmak için yapılmış tasarımlardır."
+        "Aciklama": "Yönlendirme ve işaretleme tasarımı kendi başına çalışan ve kullanıcıların kapalı/açık mekanları<br/>kullanmasını sağlayan tasarım sistemleridir (Sayfa 97 Bkz.)...<br>Bilgi ve içerikle ilgili konularda uyarıda bulunmak için yapılmış tasarımlardır."
     },
     {
         "SoruID": 3862356,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Henry Beck"
+        "Aciklama": "Bu alanda tarihin ilk profesyonel yönlendirme ve işaretleme tasarımcısının <strong>Henry Beck</strong> olduğuna dair ortak bir görüş vardır. <em><strong>Beck’in Londra Metrosu</strong> </em>için 1931 yılında hazırladığı metro haritası kalabalıklaşan kentsel yaşama yönelik ciddi anlamda bir yeniliktir."
     },
     {
         "SoruID": 3862358,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Heyecan"
+        "Aciklama": "Etkili bir yönlendirme sistemi, yayaları ve araç trafiğini iç ve dış mekânlarda yönlendirir, bilgilendirir ve düzene sokar. Yönlendirme tasarımıyla verimlilik artar, mekâna yönelik olumlu bir izlenim oluşur ve kullanıcılara tanımadıkları bir mekanda kendilerini güvende hissettirir.<br>Heyecan"
     },
     {
         "SoruID": 3862473,
@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 3862474,
-        "SoruMetni": "GPS teknolojisinin 100 yılı aşmayan geçmişinden önce insanlar ..................................... için değişmez coğrafi noktaları, güneşi, ayı ve yıldızları referans olarak kullanmıştır. Boş bırakılan yere gelmesi gereken ifade hangisidir?",
+        "SoruMetni": "GPS teknolojisinin 100 yılı aşmayan geçmişinden önce insanlar ..................................... için değişmez coğrafi noktaları, güneşi, ayı ve yıldızları referans olarak kullanmıştır. Boş bırakılan yere gelmesi gereken ifade hangisidir?",
         "A": "Ülkeleri adlandırmak",
         "B": "Kıtaları keşfetmek",
         "C": "Yabancılarla anlaşmak",
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yönlendirme ve işaretleme tasarımı, bulunduğu mekanlara göre ayrıştırılarak daha iyi incelenebilir:<br/>Kamusal Binalar, Ulaştırma Birimleri, Kültürel Mekânlar, Kent, Kurum Kimlik Uygulamaları.<br/> Her geçen gün kalabalıklaşan kentlerde insanlar bilgilendirmeye gereksinim duymaktadırlar. Kent içinde yapılan yönlendirme ve işaretleme tasarımı, belirli bir plan dahilinde kullanıcıyı bir noktadan diğer bir noktaya ya da merkeze yönlendirme amacı taşımaktadır. Her ne kadar kara yollarını işleyen bir sistem varsa da yayaların yaşam ve dolaşım alanları hâlen sıkıntılıdır. Gelişen şehircilik anlayışlarının da etkisiyle, dünyada kimi yerleri bir parkur gibi tasarlanmış kentlerin sayısı hızla artmaktadır. Yapılan tasarım ürünleri görevini yerine getirir ve kullanıcılar tarafından benimsenirse, tıpkı logo gibi kent adına birer sembol-eser hâline de gelebilirler."
+        "Aciklama": "Yönlendirme ve işaretleme tasarımı, bulunduğu mekanlara göre ayrıştırılarak daha iyi incelenebilir:<br/>Kamusal Binalar, Ulaştırma Birimleri, Kültürel Mekânlar, Kent, Kurum Kimlik Uygulamaları.<br/>Her geçen gün kalabalıklaşan kentlerde insanlar bilgilendirmeye gereksinim duymaktadırlar. Kent içinde yapılan yönlendirme ve işaretleme tasarımı, belirli bir plan dahilinde kullanıcıyı bir noktadan diğer bir noktaya ya da merkeze yönlendirme amacı taşımaktadır. Her ne kadar kara yollarını işleyen bir sistem varsa da yayaların yaşam ve dolaşım alanları hâlen sıkıntılıdır. Gelişen şehircilik anlayışlarının da etkisiyle, dünyada kimi yerleri bir parkur gibi tasarlanmış kentlerin sayısı hızla artmaktadır. Yapılan tasarım ürünleri görevini yerine getirir ve kullanıcılar tarafından benimsenirse, tıpkı logo gibi kent adına birer sembol-eser hâline de gelebilirler."
     }
 ]

@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görmek ve göstermek insanın yaşadığı dünyayla kurduğu en temel akıl ilişkileri arasındadır. İnsan, gördüğünü göstermek istemiştir. Gördüğünü<br/>göstermek isteyen insanın bu yol ile kendi dışındaki insanlarla iletişime geçişi hem yaşadığı zaman hem de sonraki zamanlar için onu anlamada temel<br/>anahtar olmuştur. Ortaya koyduğu dil sadece gördüklerini değil, düşündükleri, hayalleri ve inançlarını da kapsar. Görünmeyenin görünür hâle gelmesi, insanın erken tarihlerden itibaren araç yapabilme, yaşama,<br/>doğaya karşı direnebilmesi dışında, kendi olabilmesinin en önemli özelliğidir. Bu bilgiler bize resim sanatının görme duyusu yoluyla insanın dünyayla ilişki kurmasını sağladığın göstermektedir."
+        "Aciklama": "GİRİŞ<br>Görmek ve göstermek insanın yaşadığı dünyayla kurduğu en temel akıl ilişkileri arasındadır. İnsan, gördüğünü göstermek istemiştir. Gördüğünü<br/>göstermek isteyen insanın bu yol ile kendi dışındaki insanlarla iletişime geçişi hem yaşadığı zaman hem de sonraki zamanlar için onu anlamada temel<br/>anahtar olmuştur. Ortaya koyduğu dil sadece gördüklerini değil, düşündükleri, hayalleri ve inançlarını da kapsar. Görünmeyenin görünür hâle gelmesi, insanın erken tarihlerden itibaren araç yapabilme, yaşama,<br/>doğaya karşı direnebilmesi dışında, kendi olabilmesinin en önemli özelliğidir. Bu bilgiler bize resim sanatının görme duyusu yoluyla insanın dünyayla ilişki kurmasını sağladığın göstermektedir."
     },
     {
         "SoruID": 3354032,
-        "SoruMetni": "Mağara duvar resmi deyince ilk akla gelen Lascaux Mağarası şu an hangi ülke sınırları içindedir?",
+        "SoruMetni": "Mağara duvar resmi deyince ilk akla gelen Lascaux Mağarası şu an hangi ülke sınırları içindedir?",
         "A": "Amerika",
         "B": "İngiltere",
         "C": "Hindistan",
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Paleolitik Dönem’e ait, Güney Fransa’da Montignac’ta (Dordogne) Lascaux Mağarası ve İspanya’nın kuzeyinde bulunan Altamira Mağarası, mağara duvar resmi denilince ilk akla gelen örnekleri oluşturmaktadırlar."
+        "Aciklama": "TARİH ÖNCESİ VE ANTİK ÇAĞ RESMİ<br>Paleolitik Dönem’e ait, Güney Fransa’da Montignac’ta (Dordogne) Lascaux Mağarası ve İspanya’nın kuzeyinde bulunan Altamira Mağarası, mağara duvar resmi denilince ilk akla gelen örnekleri oluşturmaktadırlar."
     },
     {
         "SoruID": 3354033,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mezopotamya sanatına katkıda bulunan medeniyetler; Sümer, Asur, Babil,<br/>Akad gibi medeniyetlerdir ve Likya buraya ait değildir."
+        "Aciklama": "TARİH ÖNCESİ VE ANTİK ÇAĞ RESMİ<br>Mezopotamya sanatına katkıda bulunan medeniyetler; Sümer, Asur, Babil,<br/>Akad gibi medeniyetlerdir ve Likya buraya ait değildir."
     },
     {
         "SoruID": 3354034,
@@ -77,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Babil  İştar Kapısı üzerinde realist bir dille işlenen hayvan formları bulunmaktadır (bkz. Resim 5.5)"
+        "Aciklama": "ARİH ÖNCESİ VE ANTİK ÇAĞ<br/>RESMİ<br>Babil İştar Kapısı üzerinde realist bir dille işlenen hayvan formları bulunmaktadır (bkz. Resim 5.5)"
     },
     {
         "SoruID": 3354035,
-        "SoruMetni": "\"Toz boyalara tutucu malzeme olarak yumurta akı katılarak elde edilen<br/>boya malzemesi\"  tanımı aşağıdaki hangi kavramın doğru karşılığıdır?",
+        "SoruMetni": "\"Toz boyalara tutucu malzeme olarak yumurta akı katılarak elde edilen<br/>boya malzemesi\" tanımı aşağıdaki hangi kavramın doğru karşılığıdır?",
         "A": "Fresko",
         "B": "Mozaik",
         "C": "Tempera",
@@ -97,7 +97,47 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tempera: Toz boyalara tutucu malzeme olarak yumurta akı katılarak elde edilen boya malzemesi."
+        "Aciklama": "DİNİN RESME ETKİSİ: ORTA ÇAĞ DÜNYASI<br>Tempera: Toz boyalara tutucu malzeme olarak yumurta akı katılarak elde edilen boya malzemesi."
+    },
+    {
+        "SoruID": 3354036,
+        "SoruMetni": "Aşağıdaki sanatçılardan hangisi rönesans döneminde eserleri üretmiştir?",
+        "A": "Monet",
+        "B": "Dali",
+        "C": "Koontz",
+        "D": "Raffaello",
+        "E": "Warhol",
+        "DogruCevap": "D",
+        "DersAd": "Sanatta Eleştirel Düşünce",
+        "Unite": 5,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:03.858525",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "KÜLTÜREL DEĞİŞİMİN MERKEZİNDE SANAT: RÖNESANS VE BAROK RESMİ<br>İtalyan Rönesans’ının temel taşları en büyük ustaları Leonardo Da Vinci (1452-1519), Michelangelo (1475-1564) ve Raffaello (1483-1520)dur."
+    },
+    {
+        "SoruID": 3354037,
+        "SoruMetni": "Yağlı boya ilk kez hangi dönemde kullanılmıştır?",
+        "A": "İlkçağ",
+        "B": "Antik Yunan",
+        "C": "Ortaçağ",
+        "D": "Rönesans",
+        "E": "Endüstri Devrimi",
+        "DogruCevap": "D",
+        "DersAd": "Sanatta Eleştirel Düşünce",
+        "Unite": 5,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:03.825567",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Leonardo, Michelangelo, Raffaello Resminin Özellikleri<br>Yağlı boya ilk kez rönesans döneminde kullanılmıştır."
     },
     {
         "SoruID": 3354038,
@@ -117,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanayi Devrimi’nin getirdiği teknolojik gelişmeler ve ekonomik yapıdaki farklılaşma toplumsal yaşamda köklü değişimlere neden olmuş, bir yandan kırsaldan sanayileşmiş büyük kentlere akan yoğun göçlerle birlikte nüfus patlamaları yaşanırken öte yandan buharlı trenler, gemiler kıtalararası gidiş gelişlerle âdeta dünyayı küçültmüştür. Telefon, telgraf ve baskı tekniklerindeki buluşlar ve gelişmeler iletişimin uluslararası bir niteliğe kavuşmasını sağlamıştır. Tüm bu değişim ve gelişimler, kültürel yaşamın sınırlarını genişleterek uluslararası sanat piyasasını oluşturmakla kalmayıp Doğu’nun ‘egzotik’ dünyasını ve sanatını da tanınır kılmıştır."
+        "Aciklama": "19.YY. SANAYİLEŞME VE KÜLTÜREL ORTAMIN RESME ETKİSİ<br>Sanayi Devrimi’nin getirdiği teknolojik gelişmeler ve ekonomik yapıdaki farklılaşma toplumsal yaşamda köklü değişimlere neden olmuş, bir yandan kırsaldan sanayileşmiş büyük kentlere akan yoğun göçlerle birlikte nüfus patlamaları yaşanırken öte yandan buharlı trenler, gemiler kıtalararası gidiş gelişlerle âdeta dünyayı küçültmüştür. Telefon, telgraf ve baskı tekniklerindeki buluşlar ve gelişmeler iletişimin uluslararası bir niteliğe kavuşmasını sağlamıştır. Tüm bu değişim ve gelişimler, kültürel yaşamın sınırlarını genişleterek uluslararası sanat piyasasını oluşturmakla kalmayıp Doğu’nun ‘egzotik’ dünyasını ve sanatını da tanınır kılmıştır."
     },
     {
         "SoruID": 3354039,
@@ -137,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Goya hariç diğer sanatçılar Rönesans döneminde eserlerini vermiştir."
+        "Aciklama": "19.YY. SANAYİLEŞME VE KÜLTÜREL ORTAMIN RESME ETKİSİ<br>Goya hariç diğer sanatçılar Rönesans döneminde eserlerini vermiştir."
     },
     {
         "SoruID": 3354040,
@@ -157,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kolaj tekniği, kübist anlayışla resim sanatına girer. Kübizm, soyut bir sanat değildir ama soyutlayıcı bir sanattır."
+        "Aciklama": "20. YY.DA MODERN VE POSTMODERN ANLATIMDA RESİM<br>Kolaj tekniği, kübist anlayışla resim sanatına girer. Kübizm, soyut bir sanat değildir ama soyutlayıcı bir sanattır."
     },
     {
         "SoruID": 3354419,
@@ -177,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaş sıva üzerine renkli boyalarla yapılan duvar resmi tekniği B seçeneğinde verilen Freskodur. Bu teknikte sıva kurudukça boyayı içine çekecek ve böylece resmin duvardan dökülmesi daha zor hâle gelecektir."
+        "Aciklama": "Yaş sıva üzerine renkli boyalarla yapılan duvar resmi tekniği B seçeneğinde verilen Freskodur. Bu teknikte sıva kurudukça boyayı içine çekecek ve böylece resmin duvardan dökülmesi daha zor hâle gelecektir."
     },
     {
         "SoruID": 3354425,
@@ -241,8 +281,8 @@
     },
     {
         "SoruID": 3354444,
-        "SoruMetni": "Aşağıdakilerden hangisi Orta Çağ resminin özelliklerinden biri <strong>değildir? </strong>",
-        "A": "Hangi çağda resim sanatı konularını dini hikâyelerden alır.",
+        "SoruMetni": "Aşağıdakilerden hangisi Orta Çağ resminin özelliklerinden biri <strong>değildir? </strong>",
+        "A": "Hangi çağda resim sanatı konularını dini hikâyelerden alır.",
         "B": "Sanatçı bağımsız eser üreten bir kimliğe sahip değildir.",
         "C": "Esas olan yaratıcılık değil uygulayıcılıktır.",
         "D": "Sanatçıdan beklenen, izleyenin eserin görsel yönünden çok duygusal yönü ile hissetmesini ve etkilenmesini sağlamasıdır.",
@@ -277,14 +317,14 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu dönemde resmin özellikleri aşağıda verilmiştir: <br/> ‘Çizgisel perspektif ’ bulunur ve gerçeğin yanılsamasında ustalık taşıyan kompozisyonlar simetri<br/>ve dengenin ön planda olduğu matematiksel bir düzen içinde resmedilir. Perspektif kurallarına<br/>mekân, hacim ve ışık-gölge de eklenerek yeni bir resim anlayışı ortaya çıkar. Figürün kompozisyon<br/>içindeki yeri önem kazanır. Anatomik gerçekliğe ve Klasik güzelliğe odaklanılır. Yağlı boyanın kullanılmasıyla resim sanatında hem renk hem de konu zenginleşir. Orta Çağ’ın fresk ve mozaikleri yerini tuval resmine bırakınca ‘resim’ evlerin duvarlarına ulaşır. E seçeneğinde verilen \"Resim sanatı teknik olarak fresko, mozaik ve çoğunlukla tempera tekniğinde yapılan ikonlardan oluşur\" özellik Orta Çağ resim sanatının özelliklerindendir."
+        "Aciklama": "Bu dönemde resmin özellikleri aşağıda verilmiştir: <br/>‘Çizgisel perspektif ’ bulunur ve gerçeğin yanılsamasında ustalık taşıyan kompozisyonlar simetri<br/>ve dengenin ön planda olduğu matematiksel bir düzen içinde resmedilir. Perspektif kurallarına<br/>mekân, hacim ve ışık-gölge de eklenerek yeni bir resim anlayışı ortaya çıkar. Figürün kompozisyon<br/>içindeki yeri önem kazanır. Anatomik gerçekliğe ve Klasik güzelliğe odaklanılır. Yağlı boyanın kullanılmasıyla resim sanatında hem renk hem de konu zenginleşir. Orta Çağ’ın fresk ve mozaikleri yerini tuval resmine bırakınca ‘resim’ evlerin duvarlarına ulaşır. E seçeneğinde verilen \"Resim sanatı teknik olarak fresko, mozaik ve çoğunlukla tempera tekniğinde yapılan ikonlardan oluşur\" özellik Orta Çağ resim sanatının özelliklerindendir."
     },
     {
         "SoruID": 3354446,
         "SoruMetni": "Bir formun karakteri kaybolmadan yalınlaştırılmış an­latımı biçimi aşağıdakilerden hangisi ile tanımlanır?",
         "A": "Stilizasyon",
-        "B": "Mozaik<br/><br/>",
-        "C": "Kompozisyon<br/><br/>",
+        "B": "Mozaik",
+        "C": "Kompozisyon",
         "D": "Modelleme",
         "E": "Figür",
         "DogruCevap": "A",
@@ -424,7 +464,7 @@
         "SoruMetni": "Nesneleri iki boyutlu bir düz­lemde üç boyutlu gösterme tekniği aşağıdakilerden hangisidir?",
         "A": "İdol",
         "B": "Mozaik",
-        "C": "İkon<br/><br/>",
+        "C": "İkon",
         "D": "Hale",
         "E": "Perspektif:",
         "DogruCevap": "E",
@@ -442,7 +482,7 @@
     {
         "SoruID": 3354455,
         "SoruMetni": "İtalyan Rönesans’ının en büyük resim ustası, filozofu, astronomu, heykeltıraşı ve yazarı aşağıdakilerden hangisidir?",
-        "A": "Leonardo Da Vinci<br/><br/>",
+        "A": "Leonardo Da Vinci",
         "B": "Giotto",
         "C": "Umberto Eco",
         "D": "Rubens",
@@ -557,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İspanya"
+        "Aciklama": "Paleolitik Dönem’e ait, Güney Fransa’da Montignac’ta (Dordogne) Lascaux Mağarası ve İspanya’nın kuzeyinde bulunan Altamira Mağarası, mağara duvar resmi denilince ilk akla gelen örnekleri oluşturmaktadırlar."
     },
     {
         "SoruID": 3354471,
@@ -577,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mısırlılar"
+        "Aciklama": "Hiyeroglif yazı, resim özelliği ile anlatmak istediklerini temel olarak doğadan öykünerek Mısırlıların bulduğu yazı biçimidir."
     },
     {
         "SoruID": 3354472,
@@ -597,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1 ve 3"
+        "Aciklama": "Fayyum Portreleri: Mısır’da MS 1. ve 3. yüzyıllar arasında görülen ölen kişinin yüzünü ve ifadesini korumak amaçlı yapılan portrelerdir.<br>1 ve 3"
     },
     {
         "SoruID": 3354478,
@@ -617,11 +657,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Felsefe"
+        "Aciklama": "II. Julius tarafından bizzat Roma’ya davet edilen Raffaello, Vatikan Sarayı’nda Papa’nın özel kütüphanesinde freskler yapmaya başlar. Raffaello, Vatikan Sarayı’nın Raffaello Odaları olarak adlandırılan, İmparator Konstantin Salonu, Heliodorus Odası, İmza Odası ve Borgo’daki Yangın Odası olarak ayrılan dört odanın her birinde kullanımına uygun sahneler resmetmiştir. Atina Okulu adlı resim, İmza Odası olarak bilinen Stanza della Segnatura içinde yer alan dört ana freskten biridir. Bu freskler, Felsefe, Şiir, İlahiyat ve Hukuku özetler. Atina Okulu ile Felsefe temsil edilir."
     },
     {
         "SoruID": 3354492,
-        "SoruMetni": "Delacroix’nın yapıtlarındaki canlı renkler ve fırça vuruşlarının dramatik etkisi……… ve Ku- zey Afrika seyahati ile daha da çarpıcı ve tutkulu bir dile dönüşmüştür.<br/> Yukarıdaki cümlede boşluğa aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "Delacroix’nın yapıtlarındaki canlı renkler ve fırça vuruşlarının dramatik etkisi……… ve Ku- zey Afrika seyahati ile daha da çarpıcı ve tutkulu bir dile dönüşmüştür.<br/>Yukarıdaki cümlede boşluğa aşağıdakilerden hangisi gelmelidir?",
         "A": "İt",
         "B": "Almanya",
         "C": "Danimarka",
@@ -637,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İspanya"
+        "Aciklama": "Delacroix’nın yapıtlarındaki canlı renkler ve fırça vuruşlarının dramatik etkisi İspanya ve Ku- zey Afrika seyahati ile daha da çarpıcı ve tutkulu bir dile dönüşmüştür."
     },
     {
         "SoruID": 3354493,
@@ -657,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1849"
+        "Aciklama": "Courbet’nin ‘Taş Kırıcılar’ (1849) resmi, yaşadığımız dünyada her zaman karşılaştığımız ama çoğunlukla görmediğimiz, dikkat etmediğimiz bir sahneyi resminin konusu yaparak, bir anlamda görmeyen insanların önüne getirir."
     },
     {
         "SoruID": 3354514,

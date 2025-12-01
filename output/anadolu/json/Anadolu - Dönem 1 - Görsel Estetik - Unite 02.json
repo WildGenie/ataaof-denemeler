@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bazı ünlü düşünür ve sanatçıların konuya ilişkin duyarlılıklarını ifade eden cümleler aşağıda verilmiştir:<br/> Bence ressam, olduğu gibi değil, hissettiği gibi resmedendir. (Van Gogh)"
+        "Aciklama": "Bazı ünlü düşünür ve sanatçıların konuya ilişkin duyarlılıklarını ifade eden cümleler aşağıda verilmiştir:<br/>Bence ressam, olduğu gibi değil, hissettiği gibi resmedendir. (Van Gogh)"
     },
     {
         "SoruID": 3858473,
@@ -117,16 +117,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntünün film veya sensör üzerine istenilen kalitede ulaşmasını sağlayan mercekler sistemidir. Farklı çekim teknikleri için farklı objektifler kullanılması gereklidir."
+        "Aciklama": "Görüntünün film veya sensör üzerine istenilen kalitede ulaşmasını sağlayan mercekler sistemidir. Farklı çekim teknikleri için farklı objektifler kullanılması gereklidir."
     },
     {
         "SoruID": 3858478,
         "SoruMetni": "1900 yıllarında gelişen ve Henri Cartier Bresson'un öncüğünü yaptığı fotoğrafçılık türü aşağıdakilerden hangisidir?",
         "A": "Haber fotoğrafçılığı",
         "B": "Blegesel fotoğrafçılığı",
-        "C": "Sokak fotoğrafçılığı",
+        "C": "Sokak fotoğrafçılığı",
         "D": "Gündelik yaşam fotoğrafçılığı",
-        "E": "Portre fotoğrafçılığı",
+        "E": "Portre fotoğrafçılığı",
         "DogruCevap": "C",
         "DersAd": "Görsel Estetik",
         "Unite": 2,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir işin sanat olması veya bir nesnenin sanat eseri olabilmesi için hangi koşulların gerekli olduğu bu özellikler ile belirlenebilir:<br/> 1. Sanat, insan üretimidir, sanat eserini insan yaratır. Ne doğada ne de hayvanların yaptıkları işlerde (güzellik olsa bile) sanat olamaz. Zekâ düzeyi ne olursa olsun hayvanlar sanat yapamazlar.<br/>2. Sanat eseri kalıcılık özelliği taşır. Rastlantılar ve günlük kullanıma dönük nesnelerde çoğu zaman bu özellik yoktur.<br/>3. Sanat bir biçim yaratır, kendini biçim (form) ile ifade eder. Biçim yoksa orada sanat da yoktur. Sanat ağırlıklı biçimlere dönüştürülebilen duygu ve düşünceler,  karşımıza bazen bir tablo, bazen bir beste, bazen de bir fotoğraf veya sinema filmi olarak çıkabilir.<br/>4. Sanat bir eğlenme, oyalanma aracı veya bir lüks değildir. Gerçi sanatın doğuşunda, kaynağında ve kökeninde oyunun bir yeri olduğu ileri sürülür. Ancak sanat, sonunda denge ve tutarlılık içinde bir evrensel bildiri taşır. Diğer bir deyişle, felsefi bir öz taşımayan sanat eseri bulmak güçtür."
+        "Aciklama": "Bir işin sanat olması veya bir nesnenin sanat eseri olabilmesi için hangi koşulların gerekli olduğu bu özellikler ile belirlenebilir:<br/>1. Sanat, insan üretimidir, sanat eserini insan yaratır. Ne doğada ne de hayvanların yaptıkları işlerde (güzellik olsa bile) sanat olamaz. Zekâ düzeyi ne olursa olsun hayvanlar sanat yapamazlar.<br/>2. Sanat eseri kalıcılık özelliği taşır. Rastlantılar ve günlük kullanıma dönük nesnelerde çoğu zaman bu özellik yoktur.<br/>3. Sanat bir biçim yaratır, kendini biçim (form) ile ifade eder. Biçim yoksa orada sanat da yoktur. Sanat ağırlıklı biçimlere dönüştürülebilen duygu ve düşünceler, karşımıza bazen bir tablo, bazen bir beste, bazen de bir fotoğraf veya sinema filmi olarak çıkabilir.<br/>4. Sanat bir eğlenme, oyalanma aracı veya bir lüks değildir. Gerçi sanatın doğuşunda, kaynağında ve kökeninde oyunun bir yeri olduğu ileri sürülür. Ancak sanat, sonunda denge ve tutarlılık içinde bir evrensel bildiri taşır. Diğer bir deyişle, felsefi bir öz taşımayan sanat eseri bulmak güçtür."
     },
     {
         "SoruID": 3858617,
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 3858619,
-        "SoruMetni": "Fotoğrafçılık, 20. yüzyılın başında aşağıdaki sanatçılardan hangisi tarafından resim sanatına paralel ve eşit bir yaratıcı etkinlik olarak uygulanmıştır?",
+        "SoruMetni": "Fotoğrafçılık, 20. yüzyılın başında aşağıdaki sanatçılardan hangisi tarafından resim sanatına paralel ve eşit bir yaratıcı etkinlik olarak uygulanmıştır?",
         "A": "Francesco Melzi",
         "B": "Man Ray",
         "C": "Gentile Bellini",
@@ -352,7 +352,7 @@
         "Unite": 2,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:42.852747",
+        "OlusturmaTarihi": "2025-12-01T04:15:45.828234",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -381,7 +381,7 @@
     },
     {
         "SoruID": 3858624,
-        "SoruMetni": "İnsanın kişiliğini, duygusal durumunu ve diğer bilgilerini aktaran, ifadesinin kişiye özgü aktarıldığı fotoğraf türü aşağıdakilerden hangisidir?",
+        "SoruMetni": "İnsanın kişiliğini, duygusal durumunu ve diğer bilgilerini aktaran, ifadesinin kişiye özgü aktarıldığı fotoğraf türü aşağıdakilerden hangisidir?",
         "A": "Gündelik yaşam fotoğrafları",
         "B": "Sokak fotoğrafçılığı",
         "C": "Stüdyo fotoğrafçılığı",
@@ -441,7 +441,7 @@
     },
     {
         "SoruID": 3858627,
-        "SoruMetni": "Aşağıda “Estetik” ile ilgili verilen ifadelerden hangisi <em><strong>yanlıştır?</strong></em>",
+        "SoruMetni": "Aşağıda “Estetik” ile ilgili verilen ifadelerden hangisi <em><strong>yanlıştır?</strong></em>",
         "A": "Estetik kelimesi diğer bir deyişle duyarlı algılama anlamına da gelir.",
         "B": "Güzelin ne olduğunu, sanatın özünü ve kaynağını, değerini araştıran felsefe dalıdır.",
         "C": "“Sanat Felsefesi” anlamına gelen estetik, kimi zaman bilim dalı olarak da tanıtılmıştır.",
@@ -537,11 +537,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Haber fotoğraflarının bazı temel özelliklerini şunlardır: Düşünsel bir yanının olması, ikna etme gücünün olması, tarihe tanıklık etmesi, anlık olması, yazıyla desteklemesi. Bu sebeple doğru cevap C seçeneğidir."
+        "Aciklama": "Haber fotoğraflarının bazı temel özelliklerini şunlardır: Düşünsel bir yanının olması, ikna etme gücünün olması, tarihe tanıklık etmesi, anlık olması, yazıyla desteklemesi. Bu sebeple doğru cevap C seçeneğidir."
     },
     {
         "SoruID": 3858632,
-        "SoruMetni": "Aşağıdaki fotoğrafçılık türlerinden hangisinde amaç, fotoğraflarla bir hikâye anlatmaktır?",
+        "SoruMetni": "Aşağıdaki fotoğrafçılık türlerinden hangisinde amaç, fotoğraflarla bir hikâye anlatmaktır?",
         "A": "Sokak Fotoğrafçılığı",
         "B": "Stüdyo Fotoğrafçılığı",
         "C": "Haber Fotoğrafçılığı",
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Belgesel Fotoğrafçılıkta amaç, fotoğraflarla bir hikâye anlatmaktır. Ele aldığı konular sosyal sorunlar, güncel konulardır. Doğru cevap D seçeneğidir."
+        "Aciklama": "Belgesel Fotoğrafçılıkta amaç, fotoğraflarla bir hikâye anlatmaktır. Ele aldığı konular sosyal sorunlar, güncel konulardır. Doğru cevap D seçeneğidir."
     },
     {
         "SoruID": 3858633,
@@ -604,9 +604,9 @@
         "SoruMetni": "Sanatın evrensel nitelikleri genel bir tanıma gitmeyi engellese de, sanatın tanımı gerçekte hangi nedenle her dönem tartışma konusu olmuştur?",
         "A": "Sanatın geniş anlamlarının olması nedeni ile",
         "B": "Sanatın sadece yenilik niteliği nedeni ile",
-        "C": "Sanatın sadece  tek olma niteliği  nedeni ile",
+        "C": "Sanatın sadece tek olma niteliği nedeni ile",
         "D": "Sanatın, toplumsal yaşamın bir sonucu olması nedeni ile",
-        "E": "Sanatın  bilim gibi kesin doğrularla tanımlanamaması nedeni ile",
+        "E": "Sanatın bilim gibi kesin doğrularla tanımlanamaması nedeni ile",
         "DogruCevap": "E",
         "DersAd": "Görsel Estetik",
         "Unite": 2,
@@ -681,7 +681,7 @@
     },
     {
         "SoruID": 3858659,
-        "SoruMetni": "Gerçek dünya ve fotoğraflar arasında benzerlikler olmasına rağmen aradaki ilişkiyi  ne belirlemektedir?",
+        "SoruMetni": "Gerçek dünya ve fotoğraflar arasında benzerlikler olmasına rağmen aradaki ilişkiyi ne belirlemektedir?",
         "A": "Vizör",
         "B": "Çerçeve",
         "C": "Fotoğrafçı",
@@ -732,7 +732,7 @@
         "Unite": 2,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:42.871006",
+        "OlusturmaTarihi": "2025-12-01T04:15:45.853685",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -761,7 +761,7 @@
     },
     {
         "SoruID": 3858663,
-        "SoruMetni": "Amacı fotoğraflarla bir hikâye anlatmak ve ele aldığı konular sosyal sorunlar, güncel konular olan, hem günümüz sorunlarına tanıklık ederek topluma bilgi akışı sağlayıp, hem de  farkındalık yaratarak, kimi zaman çözüm yollarının bulunmasına yardımcı olup iletişim kurmaya çalışan fotoğrafçılık; konu alanına göre hangisidir?",
+        "SoruMetni": "Amacı fotoğraflarla bir hikâye anlatmak ve ele aldığı konular sosyal sorunlar, güncel konular olan, hem günümüz sorunlarına tanıklık ederek topluma bilgi akışı sağlayıp, hem de farkındalık yaratarak, kimi zaman çözüm yollarının bulunmasına yardımcı olup iletişim kurmaya çalışan fotoğrafçılık; konu alanına göre hangisidir?",
         "A": "Haber fotoğrafçılığı",
         "B": "Belgesel Fotoğrafçılık",
         "C": "Reklam fotoğrafçılığı",
@@ -781,7 +781,7 @@
     },
     {
         "SoruID": 3858664,
-        "SoruMetni": "İnsanın kişiliğini, duygusal durumunu ve diğer bilgilerini aktaran, ifadesinin kişiye özgü aktarıldığı  fotoğraf türü hangisidir?",
+        "SoruMetni": "İnsanın kişiliğini, duygusal durumunu ve diğer bilgilerini aktaran, ifadesinin kişiye özgü aktarıldığı fotoğraf türü hangisidir?",
         "A": "Mimari fotoğraf (mekan Fotoğrafı)",
         "B": "Müzeler ve koleksiyonculuk",
         "C": "Portre Fotoğrafçılığı",
@@ -841,7 +841,7 @@
     },
     {
         "SoruID": 3858667,
-        "SoruMetni": "Aşağıdakilerden hangisi bir işin sanat veya bir nesnenin sanat eseri olabilmesi için gerekli koşullardan biri <span style=\"text-decoration: underline;\">değildir? </span>",
+        "SoruMetni": "Aşağıdakilerden hangisi bir işin sanat veya bir nesnenin sanat eseri olabilmesi için gerekli koşullardan biri <span style=\"text-decoration: underline;\">değildir? </span>",
         "A": "Konu",
         "B": "İçerik",
         "C": "Biçim",
@@ -857,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir işin sanat olması veya bir nesnenin sanat eseri olabilmesi için gerekli olan bazı koşullar söz konusudur. Öncelikle sanat insan üretimidir. İkincisi, sanat eseri kalıcılık özelliği taşır, rastlantılar ve günlük kullanıma dönük nesnelerde çoğu zaman bu özellik yoktur. Ayrıca sanat bir biçim yaratır, yani kendini biçim (form) ile ifade eder.  Buna ek olarak, belirli bir konu ve içerik taşımayan güzellik sanat sayılmaz. Doğru cevap D’dir."
+        "Aciklama": "Bir işin sanat olması veya bir nesnenin sanat eseri olabilmesi için gerekli olan bazı koşullar söz konusudur. Öncelikle sanat insan üretimidir. İkincisi, sanat eseri kalıcılık özelliği taşır, rastlantılar ve günlük kullanıma dönük nesnelerde çoğu zaman bu özellik yoktur. Ayrıca sanat bir biçim yaratır, yani kendini biçim (form) ile ifade eder. Buna ek olarak, belirli bir konu ve içerik taşımayan güzellik sanat sayılmaz. Doğru cevap D’dir."
     },
     {
         "SoruID": 3858668,
@@ -878,6 +878,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Sanatın mutlak bir tanımını yapmanın mümkün olmadığını bazı sanatçıların ve felsefecilerin sanat ile ilgili farklı düşüncelerine bakarak anlamak mümkündür. Bu felsefecilerden biri olan Kant, duyguları ve duyarlılığı incelemek için estetiği genel bir kavram olarak kullanmıştır. Doğru cevap C’dir."
+    },
+    {
+        "SoruID": 3858669,
+        "SoruMetni": "Estetiğin bilim dalları arasında yer almasını sağlayan düşünür aşağıdakilerden hangisidir?",
+        "A": "Alexander G. Baumgarten",
+        "B": "Laszlo Moholy-Nagy",
+        "C": "Marcel Duchamp",
+        "D": "Man Ray",
+        "E": "Edgar Degas",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 2,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:40.088067",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Genel anlamda güzelin ne olduğunu, sanatın özünü ve kaynağını, değerini araştıran felsefe dalı olarak tanımlanan ve genellikle “sanat felsefesi” anlamına gelen estetik, kimi zaman bilim dalı olarak da tanımlanmıştır. Bilim olarak tanımlanmasının nedeni, güzellik duygusu yaratan nesnelerin deneyden geçirilerek bilimsel yöntemlerle ortaya konulması amacıyla çalışmalar yapılmış olmasıdır. Bilim dalları arasında yer alması Alman düşünür Alexander G. Baumgarten (1714-1762) tarafından gerçekleştirilmiştir. Doğru cevap A’dır."
     },
     {
         "SoruID": 3858670,
@@ -917,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Diyafram objektif üzerinde bulanan birimdir. İçinden geçen ışığın şiddetini ayarlayan, genişleyip daralabilen bir mekanizmadır ve ( f ) değeri ile gösterilir (f: 1/ 1.4/ 2/ 2.8 /4/ 5.6 /8 /11 ...).  Rakamlar küçüldükçe daha çok ışık alır ve alan derinliği azalır. Rakamlar büyüdükçe daha az ışık geçer ve alan derinliği artar. Doğru cevap E’dir."
+        "Aciklama": "Diyafram objektif üzerinde bulanan birimdir. İçinden geçen ışığın şiddetini ayarlayan, genişleyip daralabilen bir mekanizmadır ve ( f ) değeri ile gösterilir (f: 1/ 1.4/ 2/ 2.8 /4/ 5.6 /8 /11 ...). Rakamlar küçüldükçe daha çok ışık alır ve alan derinliği azalır. Rakamlar büyüdükçe daha az ışık geçer ve alan derinliği artar. Doğru cevap E’dir."
     },
     {
         "SoruID": 3858672,
@@ -981,7 +1001,7 @@
     },
     {
         "SoruID": 3858787,
-        "SoruMetni": "Günün onaylanmış  ve geçerli sanat anlayışlarını yadsıyan deneyci sanatçıları ve onların yapıtlarını niteleyen sanat dalı aşağıdaki seçeneklerden hangisinde doğru verilmiştir ?",
+        "SoruMetni": "Günün onaylanmış ve geçerli sanat anlayışlarını yadsıyan deneyci sanatçıları ve onların yapıtlarını niteleyen sanat dalı aşağıdaki seçeneklerden hangisinde doğru verilmiştir ?",
         "A": "Modern Sanat",
         "B": "Avangard Sanat",
         "C": "Postmodernizm",
@@ -1001,12 +1021,12 @@
     },
     {
         "SoruID": 3858788,
-        "SoruMetni": "Platon \"Sanat ve güzelliğin asıl kaynağını arayıp öncesiz, sonrasız ve tanrısal olan öz yapısını saptamaktır\"<br/> -Aristoteles, \"Güzeli açıklayan sanata vurgu yaparak gerçekliğin taklit edilmesidir\"<br/> - Hegel, \" Sanattaki güzellik doğadaki güzellikten üstündür\"<br/>   Yukarıda  ünlü düşünürlerin sanat hakkında yaptığı yorumlar göz önüne alındığında sanat kavramı için hangisini söylemek daha genel bir ifade olur ?",
-        "A": "Sanat  kavramı özneldir tek bir tanımla sınırlandırılamaz.",
-        "B": "Sanat kavramı  güzelliği açıklayan bir unsurdur.",
+        "SoruMetni": "Platon \"Sanat ve güzelliğin asıl kaynağını arayıp öncesiz, sonrasız ve tanrısal olan öz yapısını saptamaktır\"<br/>-Aristoteles, \"Güzeli açıklayan sanata vurgu yaparak gerçekliğin taklit edilmesidir\"<br/>- Hegel, \" Sanattaki güzellik doğadaki güzellikten üstündür\"<br/>Yukarıda ünlü düşünürlerin sanat hakkında yaptığı yorumlar göz önüne alındığında sanat kavramı için hangisini söylemek daha genel bir ifade olur ?",
+        "A": "Sanat kavramı özneldir tek bir tanımla sınırlandırılamaz.",
+        "B": "Sanat kavramı güzelliği açıklayan bir unsurdur.",
         "C": "Sanat kavramı filozoflar için bir uğraş alanı olmuştur",
         "D": "Sanat kavramı gerçeği taklit eden bir alandır",
-        "E": "Sanat kavramı  doğadaki güzelliğin bir dışavurumudur.",
+        "E": "Sanat kavramı doğadaki güzelliğin bir dışavurumudur.",
         "DogruCevap": "A",
         "DersAd": "Görsel Estetik",
         "Unite": 2,
@@ -1021,7 +1041,7 @@
     },
     {
         "SoruID": 3858789,
-        "SoruMetni": "İğne deliği olarak da bilinen,fotoğraf makinelerinin atası olan ve görüntüyü kopyalamaya yardımcı olan  teknik hangisidir ?",
+        "SoruMetni": "İğne deliği olarak da bilinen,fotoğraf makinelerinin atası olan ve görüntüyü kopyalamaya yardımcı olan teknik hangisidir ?",
         "A": "Dslr",
         "B": "Sinematograf",
         "C": "Camera Obscura",
@@ -1041,7 +1061,7 @@
     },
     {
         "SoruID": 3858790,
-        "SoruMetni": "Camera Obscura içerisinde koyduğu duyarkatı, sekiz saat pozlandırarak ilk görüntüyü yakalayan  kişi kimdir ?",
+        "SoruMetni": "Camera Obscura içerisinde koyduğu duyarkatı, sekiz saat pozlandırarak ilk görüntüyü yakalayan kişi kimdir ?",
         "A": "Jacques Mande Daguerre",
         "B": "Josep Nicephore Niepce",
         "C": "İbni Heysemin",
@@ -1057,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Josep Nicephore Niepce  Camera Obscura içerisinde koyduğu duyarkatı, sekiz saat pozlandırarak ilk görüntüyü yakalamıştır."
+        "Aciklama": "Josep Nicephore Niepce Camera Obscura içerisinde koyduğu duyarkatı, sekiz saat pozlandırarak ilk görüntüyü yakalamıştır."
     },
     {
         "SoruID": 3858791,
@@ -1102,11 +1122,11 @@
     {
         "SoruID": 3858794,
         "SoruMetni": "Alan derinliği ile ilgili aşağıdaki bilgilerden hangisi doğru değildir ?",
-        "A": "Diyafram derecesindeki sayılar küçüldükçe  (1.4) alan derinliği azalır",
+        "A": "Diyafram derecesindeki sayılar küçüldükçe (1.4) alan derinliği azalır",
         "B": "Diyafram derecesindeki sayılar büyüdükçe (22) alan derinliği artar",
         "C": "Manzara fotoğrafçılığında geniş alan derinliği tercih edilmelidir",
         "D": "Diyafram derecesindeki sayılar büyüdükçe(22) alan derinliği azalır",
-        "E": "Odaklama yapılan alanın önü ve arkasını kapsayan  net görüntüye alan derinliği denir",
+        "E": "Odaklama yapılan alanın önü ve arkasını kapsayan net görüntüye alan derinliği denir",
         "DogruCevap": "D",
         "DersAd": "Görsel Estetik",
         "Unite": 2,
@@ -1123,7 +1143,7 @@
         "SoruID": 3858795,
         "SoruMetni": "Mimari fotoğraf çekimlerinde iç mekanlarda hangi iki objektifin kullanılması daha doğru olur?",
         "A": "Balık Gözü Objektif- Dar açılı Objektif",
-        "B": "Geniş açılı  Objektif-Balık Gözü Objektif",
+        "B": "Geniş açılı Objektif-Balık Gözü Objektif",
         "C": "Normal açılı Objektif - Dar Açılı Objektif",
         "D": "Geniş Açılı Objektif - Dar Açılı Objektif",
         "E": "Zoom Objektif - Normal Açılı Objektif",
@@ -1161,11 +1181,11 @@
     },
     {
         "SoruID": 3858799,
-        "SoruMetni": "Henri  Cartier Bresson hangi fotoğrafçılık türünün öncülerindendir ?",
+        "SoruMetni": "Henri Cartier Bresson hangi fotoğrafçılık türünün öncülerindendir ?",
         "A": "Haber fotoğrafçılığı",
         "B": "Mimari fotoğrafçılık",
         "C": "Sokak fotoğrafçılığı",
-        "D": "Reklam  fotoğrafçılık",
+        "D": "Reklam fotoğrafçılık",
         "E": "Portre fotoğrafçılığı",
         "DogruCevap": "C",
         "DersAd": "Görsel Estetik",
@@ -1181,7 +1201,7 @@
     },
     {
         "SoruID": 3858921,
-        "SoruMetni": "Latince “modo” kökünden türetilmiş, “şimdi” anlamına gelen ve 18. ve 19. yüzyıl, endüstrileşme çağını işaret eden sanat türü aşağıdaki hangi şıkta belirtilmiştir ?",
+        "SoruMetni": "Latince “modo” kökünden türetilmiş, “şimdi” anlamına gelen ve 18. ve 19. yüzyıl, endüstrileşme çağını işaret eden sanat türü aşağıdaki hangi şıkta belirtilmiştir ?",
         "A": "Modern sanat",
         "B": "Postmodernizm",
         "C": "Güncel sanat",
@@ -1197,11 +1217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Modern sanat, Latince “modo” kökünden türetilmiş, “şimdi” anlamına gelir. 18 ve 19. yüzyıl, endüstrileşme çağını işaret eder. Dolayısıyla cevap A şıkkıdır."
+        "Aciklama": "Modern sanat, Latince “modo” kökünden türetilmiş, “şimdi” anlamına gelir. 18 ve 19. yüzyıl, endüstrileşme çağını işaret eder. Dolayısıyla cevap A şıkkıdır."
     },
     {
         "SoruID": 3858922,
-        "SoruMetni": "Günün onaylanmış ve geçerli sanat anlayışlarını yadsıyan deneyci deneyci sanatçıları ve onların yapıtlarını niteleyen sanat türü aşağıdaki hangi şıkta belirtilmiştir ?",
+        "SoruMetni": "Günün onaylanmış ve geçerli sanat anlayışlarını yadsıyan deneyci deneyci sanatçıları ve onların yapıtlarını niteleyen sanat türü aşağıdaki hangi şıkta belirtilmiştir ?",
         "A": "Fonetik sanat",
         "B": "Avangard sanat",
         "C": "Postmodernizm",
@@ -1217,11 +1237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Avangard sanat günün onaylanmış ve geçerli sanat anlayışlarını yadsıyan deneyci deneyci sanatçıları ve onların yapıtlarını niteler. Dolayısıyla cevap B şıkkıdır."
+        "Aciklama": "Avangard sanat günün onaylanmış ve geçerli sanat anlayışlarını yadsıyan deneyci deneyci sanatçıları ve onların yapıtlarını niteler. Dolayısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3858923,
-        "SoruMetni": "Sanatın, mutlak bir tanımını yapmak bu kavramın anlaşılması açısından olabilecek en güzel durum olabilir ancak bazı sanatçıların ve felsefecilerin, sanat ile ilgili düşüncelerine bakarsak sonsuza dek sanatın tek bir tanımının olmayacağını anlaşılmaktadır. Sanatın tanımı olarak, güzeli açıklayan sanata vurgu yaparak gerçekliğin taklit edilmesidir diyen felsefeci aşağıdaki hangi şıkta belirtilmiştir ?r",
+        "SoruMetni": "Sanatın, mutlak bir tanımını yapmak bu kavramın anlaşılması açısından olabilecek en güzel durum olabilir ancak bazı sanatçıların ve felsefecilerin, sanat ile ilgili düşüncelerine bakarsak sonsuza dek sanatın tek bir tanımının olmayacağını anlaşılmaktadır. Sanatın tanımı olarak, güzeli açıklayan sanata vurgu yaparak gerçekliğin taklit edilmesidir diyen felsefeci aşağıdaki hangi şıkta belirtilmiştir ?r",
         "A": "Kant",
         "B": "Platon",
         "C": "Aristoteles",
@@ -1241,7 +1261,7 @@
     },
     {
         "SoruID": 3858924,
-        "SoruMetni": "Oturduğumuz kentlerden uzaklaşıp köylere giderek veya uygarlaşmış ülkelerimizden ayrılıp hâlâ eski yaşam şekillerini sürdüren topluluklar arasına girsek sanatın anlamının en yalın hâlini görebiliriz. Bu tür sanat ne olarak tanımlanmaktadır ?",
+        "SoruMetni": "Oturduğumuz kentlerden uzaklaşıp köylere giderek veya uygarlaşmış ülkelerimizden ayrılıp hâlâ eski yaşam şekillerini sürdüren topluluklar arasına girsek sanatın anlamının en yalın hâlini görebiliriz. Bu tür sanat ne olarak tanımlanmaktadır ?",
         "A": "Modern sanat",
         "B": "Postmodernizm",
         "C": "Güncel sanat",
@@ -1257,27 +1277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oturduğumuz kentlerden uzaklaşıp köylere giderek veya uygarlaşmış ülkelerimizden ayrılıp hâlâ eski yaşam şekillerini sürdüren topluluklar arasına girsek sanatın anlamının en yalın hâlini görebiliriz, buna “İlkel sanat” diyoruz. Dolayısıyla cevap D şıkkıdır."
-    },
-    {
-        "SoruID": 3858925,
-        "SoruMetni": "Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında aşağıda şıklarda belirtilen hangi özellik de fotoğrafı oluşturmasında önemli niteliklerden biri sayılmaktadır ?",
-        "A": "Fizik bilgisi",
-        "B": "Kimya bilgisi",
-        "C": "Malzeme bilgisi",
-        "D": "Tarih bilgisi",
-        "E": "Sanat bilgisi",
-        "DogruCevap": "E",
-        "DersAd": "Görsel Estetik",
-        "Unite": 2,
-        "Somestre": "1",
-        "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:42.782442",
-        "GelYer": 0,
-        "DersId": 0,
-        "OBSDersId": 0,
-        "CevapSira": null,
-        "Aciklama": "Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında sanat bilgisi de fotoğrafı oluşturmasında<br/>önemli niteliklerden biri sayılır. Dolayısıyla cevap E şıkkıdır."
+        "Aciklama": "Oturduğumuz kentlerden uzaklaşıp köylere giderek veya uygarlaşmış ülkelerimizden ayrılıp hâlâ eski yaşam şekillerini sürdüren topluluklar arasına girsek sanatın anlamının en yalın hâlini görebiliriz, buna “İlkel sanat” diyoruz. Dolayısıyla cevap D şıkkıdır."
     },
     {
         "SoruID": 3858926,
@@ -1301,7 +1301,7 @@
     },
     {
         "SoruID": 3858927,
-        "SoruMetni": "1800'lü yıllarda fotoğraf teknikleri ile görüntünün kaydedilmesi konusunda kimyasal çalışmalar yapılmaktaydı. Bu çalışmaların bir yarışa dönüştüğü bile söylenebilir çünkü ortaya çıkan ürünlerin yüksek bir ticari değeri olacağı tahmin edilmekteydi. 1837 yılında, pozlama süresini ortalama 1-2 saate indirerek ilk fotoğrafını çeken kişi aşağıdaki hangi şıkta belirtilmiştir ?",
+        "SoruMetni": "1800'lü yıllarda fotoğraf teknikleri ile görüntünün kaydedilmesi konusunda kimyasal çalışmalar yapılmaktaydı. Bu çalışmaların bir yarışa dönüştüğü bile söylenebilir çünkü ortaya çıkan ürünlerin yüksek bir ticari değeri olacağı tahmin edilmekteydi. 1837 yılında, pozlama süresini ortalama 1-2 saate indirerek ilk fotoğrafını çeken kişi aşağıdaki hangi şıkta belirtilmiştir ?",
         "A": "Josep Nicephore Niepce",
         "B": "Jacques Mande Daguerre",
         "C": "İbni Heysemin (Alhasen)",
@@ -1317,11 +1317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotoğraf teknikleri ile görüntünün kaydedilmesi konusunda kimyasal çalışmalar yapılmaktaydı. Bu çalışmaların bir yarışa dönüştüğü bile söylenebilir çünkü ortaya çıkan ürünlerin yüksek bir ticari değeri olacağı tahmin edilmekteydi.1837 yılında Jacques Mande Daguerre, pozlama süresini ortalama 1-2 saate indirerek ilk fotoğrafını çekmiş ve buluşunu kendi adıyla ‘‘Daguerreotype’’ olarak tescil ettirmiştir. Dolayısıyla cevap B şıkkıdır."
+        "Aciklama": "Fotoğraf teknikleri ile görüntünün kaydedilmesi konusunda kimyasal çalışmalar yapılmaktaydı. Bu çalışmaların bir yarışa dönüştüğü bile söylenebilir çünkü ortaya çıkan ürünlerin yüksek bir ticari değeri olacağı tahmin edilmekteydi.1837 yılında Jacques Mande Daguerre, pozlama süresini ortalama 1-2 saate indirerek ilk fotoğrafını çekmiş ve buluşunu kendi adıyla ‘‘Daguerreotype’’ olarak tescil ettirmiştir. Dolayısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3858928,
-        "SoruMetni": "İlk Daguerre portre çalışmalarına 1840’ta ABD’nin doğu sahillerinde açılan ticari atölyelerde başlanır. Poz süresinin on saniyeye düştüğü bu dönemde, yalnızca 1853’te New York’ta yüzden fazla Dagerotip atölyede üç milyon kadar portreden başka gezici fotoğrafçıların ürettikleri fotoğraflar da vardır. Portre çalışmanın yanı sıra Dagerotipler mimari ve peyzaj çalışmalarınıda yaparlar. Dagerotip atölyeler Avrupa’nın büyük kentlerinde hızla yayılır. Daguerre’nin en yaygın dönemi 1839-1850 arasını kapsar ve Daguerre en çok Amerika’da gelişir. Daguerre'nin en önemli sorunları aşağıdaki hangi seçeneklerde belirtilmiştir ?<br/>I. Poz süresinin uzun olması,<br/><br/>II. Tek kopya olması,<br/><br/>III. Renk ve ton aralığının geniş olması,<br/><br/>IV. Metal levhadan oluştuğundan ağır oluşu,<br/><br/>V. Oksitlenmeden etkilenmesi ayrıca metal levhanın çizilir olması.",
+        "SoruMetni": "İlk Daguerre portre çalışmalarına 1840’ta ABD’nin doğu sahillerinde açılan ticari atölyelerde başlanır. Poz süresinin on saniyeye düştüğü bu dönemde, yalnızca 1853’te New York’ta yüzden fazla Dagerotip atölyede üç milyon kadar portreden başka gezici fotoğrafçıların ürettikleri fotoğraflar da vardır. Portre çalışmanın yanı sıra Dagerotipler mimari ve peyzaj çalışmalarınıda yaparlar. Dagerotip atölyeler Avrupa’nın büyük kentlerinde hızla yayılır. Daguerre’nin en yaygın dönemi 1839-1850 arasını kapsar ve Daguerre en çok Amerika’da gelişir. Daguerre'nin en önemli sorunları aşağıdaki hangi seçeneklerde belirtilmiştir ?<br/>I. Poz süresinin uzun olması,<br/>II. Tek kopya olması,<br/>III. Renk ve ton aralığının geniş olması,<br/>IV. Metal levhadan oluştuğundan ağır oluşu,<br/>V. Oksitlenmeden etkilenmesi ayrıca metal levhanın çizilir olması.",
         "A": "II, III, IV ve V",
         "B": "I, III, IV ve V",
         "C": "I, II, IV ve V",
@@ -1337,11 +1337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlk Daguerre portre çalışmalarına 1840’ta ABD’nin doğu sahillerinde açılan ticari atölyelerde başlanır. Poz süresinin on saniyeye düştüğü bu dönemde, yalnızca 1853’te New York’ta yüzden fazla Dagerotip atölyede üç milyon kadar portreden başka gezici fotoğrafçıların ürettikleri fotoğraflar da vardır. Portre çalışmanın yanı sıra Dagerotipler mimari ve peyzaj çalışmalarınıda yaparlar. Dagerotip atölyeler Avrupa’nın büyük kentlerinde hızla yayılır. Daguerre’nin en yaygın dönemi 1839-1850 arasını kapsar ve Daguerre en çok Amerika’da gelişir.<br/>En önemli sorunları; poz süresinin uzun olması, tek kopya olması, <strong>renk ve ton aralığının olmaması</strong>, metal levhadan oluştuğundan ağır oluşu, oksitlenmeden etkilenmesi ayrıca metal levhanın çizilir olması biçiminde sıralandırılır."
+        "Aciklama": "İlk Daguerre portre çalışmalarına 1840’ta ABD’nin doğu sahillerinde açılan ticari atölyelerde başlanır. Poz süresinin on saniyeye düştüğü bu dönemde, yalnızca 1853’te New York’ta yüzden fazla Dagerotip atölyede üç milyon kadar portreden başka gezici fotoğrafçıların ürettikleri fotoğraflar da vardır. Portre çalışmanın yanı sıra Dagerotipler mimari ve peyzaj çalışmalarınıda yaparlar. Dagerotip atölyeler Avrupa’nın büyük kentlerinde hızla yayılır. Daguerre’nin en yaygın dönemi 1839-1850 arasını kapsar ve Daguerre en çok Amerika’da gelişir.<br/>En önemli sorunları; poz süresinin uzun olması, tek kopya olması, <strong>renk ve ton aralığının olmaması</strong>, metal levhadan oluştuğundan ağır oluşu, oksitlenmeden etkilenmesi ayrıca metal levhanın çizilir olması biçiminde sıralandırılır."
     },
     {
         "SoruID": 3858929,
-        "SoruMetni": "Fotoğraf makinelerinin görüntü oluşturabilmesi için ihtiyaç duyulan ışık miktarına ne denmektedir ?",
+        "SoruMetni": "Fotoğraf makinelerinin görüntü oluşturabilmesi için ihtiyaç duyulan ışık miktarına ne denmektedir ?",
         "A": "Kadraj",
         "B": "Pozlama",
         "C": "Beyaz Dengesi",
@@ -1357,11 +1357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotoğraf makinelerinin görüntü oluşturabilmesi için ihtiyaç duyulan ışık miktarına pozlama denmektedir."
+        "Aciklama": "Fotoğraf makinelerinin görüntü oluşturabilmesi için ihtiyaç duyulan ışık miktarına pozlama denmektedir."
     },
     {
         "SoruID": 3858930,
-        "SoruMetni": "Haber fotoğraflarının bazı temel özellikleri aşağıdaki hangi seçeneklerde belirtilmiştir ?<br/><br/>I-) Düşünsel bir yanının olması<br/>II-) İkna etme gücünün olması<br/>III-) Tarihe tanıklık etmesi<br/>IV-) Anlık olması<br/>V-) Yazıyla desteklemesi",
+        "SoruMetni": "Haber fotoğraflarının bazı temel özellikleri aşağıdaki hangi seçeneklerde belirtilmiştir ?<br/>I-) Düşünsel bir yanının olması<br/>II-) İkna etme gücünün olması<br/>III-) Tarihe tanıklık etmesi<br/>IV-) Anlık olması<br/>V-) Yazıyla desteklemesi",
         "A": "I, II ve III",
         "B": "II, III, IV ve V",
         "C": "III, IV ve V",
@@ -1377,11 +1377,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Haber fotoğraflarının bazı temel özelliklerini şu<br/>şekilde belirtebiliriz:<br/>1. Düşünsel bir yanının olması<br/>2. İkna etme gücünün olması<br/>3. Tarihe tanıklık etmesi<br/>4. Anlık olması<br/>5. Yazıyla desteklemesi<br/> Dolayısıyla cevap E şıkkıdır."
+        "Aciklama": "Haber fotoğraflarının bazı temel özelliklerini şu<br/>şekilde belirtebiliriz:<br/>1. Düşünsel bir yanının olması<br/>2. İkna etme gücünün olması<br/>3. Tarihe tanıklık etmesi<br/>4. Anlık olması<br/>5. Yazıyla desteklemesi<br/>Dolayısıyla cevap E şıkkıdır."
     },
     {
         "SoruID": 3858961,
-        "SoruMetni": "Klasik dönem hangi  zaman dilimini kapsar?",
+        "SoruMetni": "Klasik dönem hangi zaman dilimini kapsar?",
         "A": "MÖ 6. yüzyıl-MS 4. yüzyıl",
         "B": "MÖ 7. yüzyıl- MS 5. yüzyıl",
         "C": "MÖ 4. yüzyıl- MS 3. yüzyıl",
@@ -1500,6 +1500,26 @@
         "Aciklama": "Fotoğraf makinelerinin görüntü oluşturabilmesi için ihtiyaç duyulan ışık miktarına pozlama denmektedir. Doğru cevap B'dir."
     },
     {
+        "SoruID": 3858967,
+        "SoruMetni": "Hangisi haber fotoğrafının özelliklerinden biri <span style=\"text-decoration: underline;\">değildir</span>?",
+        "A": "İkna etme gücünün olması",
+        "B": "Tarihe tanıklık etmesi",
+        "C": "Düşünsel bir yanının olması",
+        "D": "Planlı bir şekilde yapılması",
+        "E": "Yazıyla desteklenmesi",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Estetik",
+        "Unite": 2,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:40.611421",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fotoğraflarla bir hikaye anlatmak, haber fotoğrafçılığının değil belgesel fotoğrafçılığın özellikleri arasındadır. Doğru cevap D'dir."
+    },
+    {
         "SoruID": 3858968,
         "SoruMetni": "Fotoğrafta odaklama yapılan noktanın önü ve arkasını da kapsayan, net görülen bölgedir.",
         "A": "Pozlama (Exposure)",
@@ -1581,7 +1601,7 @@
     },
     {
         "SoruID": 3858972,
-        "SoruMetni": "I. Resim<br/> II. Heykel<br/> III. Grafik<br/> IV. Fotoğraf<br/> Yukarıdakilerden hangi ya da hangileri 3 boyuta sahiptir?",
+        "SoruMetni": "I. Resim<br/>II. Heykel<br/>III. Grafik<br/>IV. Fotoğraf<br/>Yukarıdakilerden hangi ya da hangileri 3 boyuta sahiptir?",
         "A": "II ve III",
         "B": "I, III ve IV",
         "C": "Sadece II",
@@ -1661,7 +1681,7 @@
     },
     {
         "SoruID": 3858976,
-        "SoruMetni": "1. Düşünsel bir yanının olması<br/> 2. İkna etme gücünün olması<br/> 3. Tarihe tanıklık etmesi<br/> 4. Anlık olması<br/> 5. Yazıyla desteklemesi<br/> Yukarıda verilen özellikler hangi fotoğraf çekim türüne aittir?",
+        "SoruMetni": "1. Düşünsel bir yanının olması<br/>2. İkna etme gücünün olması<br/>3. Tarihe tanıklık etmesi<br/>4. Anlık olması<br/>5. Yazıyla desteklemesi<br/>Yukarıda verilen özellikler hangi fotoğraf çekim türüne aittir?",
         "A": "Stüdyo Fotoğrafçılığı",
         "B": "Reklam Fotoğrafçılığı",
         "C": "Sokak Fotoğrafçılığı",
@@ -1701,7 +1721,7 @@
     },
     {
         "SoruID": 3858978,
-        "SoruMetni": "Maddelerden hangileri bir işin sanat olması veya bir nesnenin sanat eseri olabilmesi için gerekli koşullardandır?<br/> <strong>I.</strong> Sanat, insan üretimidir, sanat eserini insan yaratır. Ne doğada ne de hayvanların yaptıkları işlerde (güzellik olsa bile) sanat olamaz.<br/> <strong>II.</strong> Sanat eseri kalıcılık özelliği taşır.<br/> <strong>III.</strong> Sanat bir biçim yaratır, kendini biçim (form) ile ifade eder. Biçim yoksa orada sanat da yoktur. Sanat ağırlıklı biçimlere dönüştürülebilen duygu ve düşünceler, karşımıza bazen bir tablo, bazen bir beste, bazen de bir fotoğraf veya sinema filmi olarak çıkabilir.<br/> <strong>IV.</strong> Sanat bir eğlenme, oyalanma aracı ve bir lükstür.<br/> <strong>V.</strong> Sanatın doğuşunda, kaynağında ve kökeninde oyunun bir yeri olduğu ileri sürülür. Ancak sanat, sonunda denge ve tutarlılık içinde bir evrensel bildiri taşır.",
+        "SoruMetni": "Maddelerden hangileri bir işin sanat olması veya bir nesnenin sanat eseri olabilmesi için gerekli koşullardandır?<br/><strong>I.</strong> Sanat, insan üretimidir, sanat eserini insan yaratır. Ne doğada ne de hayvanların yaptıkları işlerde (güzellik olsa bile) sanat olamaz.<br/><strong>II.</strong> Sanat eseri kalıcılık özelliği taşır.<br/><strong>III.</strong> Sanat bir biçim yaratır, kendini biçim (form) ile ifade eder. Biçim yoksa orada sanat da yoktur. Sanat ağırlıklı biçimlere dönüştürülebilen duygu ve düşünceler, karşımıza bazen bir tablo, bazen bir beste, bazen de bir fotoğraf veya sinema filmi olarak çıkabilir.<br/><strong>IV.</strong> Sanat bir eğlenme, oyalanma aracı ve bir lükstür.<br/><strong>V.</strong> Sanatın doğuşunda, kaynağında ve kökeninde oyunun bir yeri olduğu ileri sürülür. Ancak sanat, sonunda denge ve tutarlılık içinde bir evrensel bildiri taşır.",
         "A": "I, IV",
         "B": "III, IV, V",
         "C": "I, II, III, V",
@@ -1717,7 +1737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir işin sanat olması veya bir nesnenin sanat eseri olabilmesi için hangi koşulların gerekli olduğunu belirlemeye çalışalım:<br/> <ol> <li>Sanat, insan üretimidir, sanat eserini insan yaratır. Ne doğada ne de hayvanların yaptıkları işlerde (güzellik olsa bile) sanat olamaz. Zekâ düzeyi ne olursa olsun hayvanlar sanat yapamazlar.</li> <li>Sanat eseri kalıcılık özelliği taşır. Rastlantılar ve günlük kullanıma dönük nesnelerde çoğu zaman bu özellik yoktur.</li> <li>Sanat bir biçim yaratır, kendini biçim (form) ile ifade eder. Biçim yoksa orada sanat da yoktur. Sanat ağırlıklı biçimlere dönüştürülebilen duygu ve düşünceler, karşımıza bazen bir tablo, bazen bir beste, bazen de bir fotoğraf veya sinema filmi olarak çıkabilir.</li> <li>Sanat bir eğlenme, oyalanma aracı veya bir lüks değildir. Gerçi sanatın doğuşunda, kaynağında ve kökeninde oyunun bir yeri olduğu ileri sürülür. Ancak sanat, sonunda denge ve tutarlılık içinde bir evrensel bildiri taşır. Diğer bir deyişle, felsefi bir öz taşımayan sanat eseri bulmak güçtür. Yerine göre, çoğumuzun oldukça basit gördüğü bir natürmort bile, doğa’nın dinamik ve canlı çağrışımlarını dile getirir. O hâlde, belirli bir konu ve içerik taşımayan güzellik sanat sayılmaz. En genel çizgileriyle, bir sanat  tanımı vermek gerekirse: “Sanat, belirli bir düşünme şekliyle duyguları harekete geçirmek ve ilgili sanat disiplininin araçlarıyla özgün ve yeni anlatımlarda bulunmak, yaşama ilişkin yeni şeyler önermek, sanatçı ve izleyici açısından ise estetik haz oluşturmaktır”.</li> </ol>"
+        "Aciklama": "Bir işin sanat olması veya bir nesnenin sanat eseri olabilmesi için hangi koşulların gerekli olduğunu belirlemeye çalışalım:<br/><ol> <li>Sanat, insan üretimidir, sanat eserini insan yaratır. Ne doğada ne de hayvanların yaptıkları işlerde (güzellik olsa bile) sanat olamaz. Zekâ düzeyi ne olursa olsun hayvanlar sanat yapamazlar.</li> <li>Sanat eseri kalıcılık özelliği taşır. Rastlantılar ve günlük kullanıma dönük nesnelerde çoğu zaman bu özellik yoktur.</li> <li>Sanat bir biçim yaratır, kendini biçim (form) ile ifade eder. Biçim yoksa orada sanat da yoktur. Sanat ağırlıklı biçimlere dönüştürülebilen duygu ve düşünceler, karşımıza bazen bir tablo, bazen bir beste, bazen de bir fotoğraf veya sinema filmi olarak çıkabilir.</li> <li>Sanat bir eğlenme, oyalanma aracı veya bir lüks değildir. Gerçi sanatın doğuşunda, kaynağında ve kökeninde oyunun bir yeri olduğu ileri sürülür. Ancak sanat, sonunda denge ve tutarlılık içinde bir evrensel bildiri taşır. Diğer bir deyişle, felsefi bir öz taşımayan sanat eseri bulmak güçtür. Yerine göre, çoğumuzun oldukça basit gördüğü bir natürmort bile, doğa’nın dinamik ve canlı çağrışımlarını dile getirir. O hâlde, belirli bir konu ve içerik taşımayan güzellik sanat sayılmaz. En genel çizgileriyle, bir sanat tanımı vermek gerekirse: “Sanat, belirli bir düşünme şekliyle duyguları harekete geçirmek ve ilgili sanat disiplininin araçlarıyla özgün ve yeni anlatımlarda bulunmak, yaşama ilişkin yeni şeyler önermek, sanatçı ve izleyici açısından ise estetik haz oluşturmaktır”.</li> </ol>"
     },
     {
         "SoruID": 3858979,
@@ -1752,7 +1772,7 @@
         "Unite": 2,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:42.737142",
+        "OlusturmaTarihi": "2025-12-01T04:15:45.855208",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1772,7 +1792,7 @@
         "Unite": 2,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:42.738656",
+        "OlusturmaTarihi": "2025-12-01T04:15:45.856734",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1781,7 +1801,7 @@
     },
     {
         "SoruID": 3858982,
-        "SoruMetni": "Fotoğraf makinesinin bulunması maddeler halinde verilen değişiklerden hangilerine sebep olmuştur?<br/> <strong>I.</strong> Fotoğraf makinesinin bulunması insanın görüşünü değiştirdi.<br/> <strong>II.</strong> Görünen nesneler başka bir anlama gelmeye başladı.<br/> <strong>III.</strong> Fotoğraf makinesinin bulunuşu daha önce yapılan resimlere bakışı da değiştirdi.<br/> <strong>IV.</strong> Buluşun etkileri, yeni anlamlandırmalar resimlerde de hissedildi.<br/> <strong>V.</strong> Resim sanatı yerini fotoğraf sanatına bıraktı.",
+        "SoruMetni": "Fotoğraf makinesinin bulunması maddeler halinde verilen değişiklerden hangilerine sebep olmuştur?<br/><strong>I.</strong> Fotoğraf makinesinin bulunması insanın görüşünü değiştirdi.<br/><strong>II.</strong> Görünen nesneler başka bir anlama gelmeye başladı.<br/><strong>III.</strong> Fotoğraf makinesinin bulunuşu daha önce yapılan resimlere bakışı da değiştirdi.<br/><strong>IV.</strong> Buluşun etkileri, yeni anlamlandırmalar resimlerde de hissedildi.<br/><strong>V.</strong> Resim sanatı yerini fotoğraf sanatına bıraktı.",
         "A": "I, V",
         "B": "I, II, V",
         "C": "I, II, III, V",
@@ -1801,7 +1821,7 @@
     },
     {
         "SoruID": 3858983,
-        "SoruMetni": "Maddelerden hangileri bir uygulama alanı olarak fotoğrafçılığın ön koşul saydığı en temel konulardandır?<br/> <strong>I.</strong> Teknik Bilgi<br/> <strong>II.</strong> Malzeme Deneyimi<br/> <strong>III.</strong> Ekipman Bilgisi<br/> <strong>IV.</strong> Sanatsal Bilgi<br/> <strong>V.</strong> Işık<br/> <strong>VI.</strong> Kompozisyon<br/> <strong>VII.</strong> Görsel Okuryazarlık",
+        "SoruMetni": "Maddelerden hangileri bir uygulama alanı olarak fotoğrafçılığın ön koşul saydığı en temel konulardandır?<br/><strong>I.</strong> Teknik Bilgi<br/><strong>II.</strong> Malzeme Deneyimi<br/><strong>III.</strong> Ekipman Bilgisi<br/><strong>IV.</strong> Sanatsal Bilgi<br/><strong>V.</strong> Işık<br/><strong>VI.</strong> Kompozisyon<br/><strong>VII.</strong> Görsel Okuryazarlık",
         "A": "V, VI, VII",
         "B": "IV, V, VI, VII",
         "C": "III, IV, V, VI, VII",
@@ -1881,7 +1901,7 @@
     },
     {
         "SoruID": 3858987,
-        "SoruMetni": "Maddelerden hangileri haber fotoğraflarının bazı temel özelliklerindendir?<br/> <strong>I.</strong> Düşünsel bir yanının olması<br/> <strong>II.</strong> İkna etme gücünün olması<br/> <strong>III.</strong> Tarihe tanıklık etmesi<br/> <strong>IV.</strong> Gerekli en önemli faktörün kontrol edilebilir ışık olması<br/> <strong>V.</strong> Anlık olması<br/> <strong>VI.</strong> Yazıyla desteklemesi",
+        "SoruMetni": "Maddelerden hangileri haber fotoğraflarının bazı temel özelliklerindendir?<br/><strong>I.</strong> Düşünsel bir yanının olması<br/><strong>II.</strong> İkna etme gücünün olması<br/><strong>III.</strong> Tarihe tanıklık etmesi<br/><strong>IV.</strong> Gerekli en önemli faktörün kontrol edilebilir ışık olması<br/><strong>V.</strong> Anlık olması<br/><strong>VI.</strong> Yazıyla desteklemesi",
         "A": "II, III, IV",
         "B": "III, IV, V, VI",
         "C": "I, II, III, IV, V, VI",
@@ -1897,7 +1917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Haber fotoğraflarının bazı temel özelliklerini şu şekilde belirtebiliriz:<br/> <ol> <li>Düşünsel bir yanının olması</li> <li>İkna etme gücünün olması</li> <li>Tarihe tanıklık etmesi</li> <li>Anlık olması</li> <li>Yazıyla desteklemesi</li> </ol>"
+        "Aciklama": "Haber fotoğraflarının bazı temel özelliklerini şu şekilde belirtebiliriz:<br/><ol> <li>Düşünsel bir yanının olması</li> <li>İkna etme gücünün olması</li> <li>Tarihe tanıklık etmesi</li> <li>Anlık olması</li> <li>Yazıyla desteklemesi</li> </ol>"
     },
     {
         "SoruID": 3858988,
@@ -1918,6 +1938,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Zanaat, geleneksel bilgiyle üretilen ve belirli fonksiyonları olan, belirli modellere göre üretilen, özgün denilemeyecek ve sanattan niteliksel olarak farklı olan ürünlerdir."
+    },
+    {
+        "SoruID": 3858989,
+        "SoruMetni": "Hangi dönemden sonra sanatçının bağımsızlaşması ve buna bağlı olarak sanat eserlerinin değişmesi, özgünleşmesi ve sanat eserlerinin belirli kesimlerin tekelinden kurtulması söz konusudur?",
+        "A": "Postmodernizm",
+        "B": "Rönesans",
+        "C": "Antik Yunan Dönemi",
+        "D": "Roma Dönemi",
+        "E": "Modernizm",
+        "DogruCevap": "B",
+        "DersAd": "Görsel Estetik",
+        "Unite": 2,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:40.373497",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Sanat ve zanaat, Rönesans’a kadar eş değer tutulmuştur. Bu dönemden sonra sanatçının bağımsızlaşması ve buna bağlı olarak sanat eserlerinin değişmesi, özgünleşmesi ve sanat eserlerinin belirli kesimlerin tekelinden kurtulmasıyla, akademiler aracılığı ile 19. yüzyıla kadar belirli standartlar devam etmiştir. Yine kuramsal temelleri Rönesans’a dayanan güzel sanatlar ile ilgili sınıflamalar da yapılarak sanat-zanaat ayrımı tartışılmıştır. Rönesans ile başlayan sanat, yeni şekli “modernizm” ve günümüzde tanımı hâlâ tam olarak yapılmamış “postmodern” eğilim veya uygulamalar ile devam etmektedir. 19. yüzyıldan günümüze, geleneksel sanatları ve el sanatlarını bir kenara alırsak güncel sanat alanlarının sınırlarının belirsiz hâle gelmeye başladığını görebiliriz."
     },
     {
         "SoruID": 3858990,
@@ -1997,7 +2037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İki boyut en ve boy olarak da açıklanacağı gibi,  kısaca  “yüzey” olarak da nitelendirilebilir. İstisnalar hariç olmak üzere,  resim, grafik, baskı  ve  fotoğraf  iki  boyutlu  yüzeylere  uygulanan sanat türlerindendir. Heykel ise üç boyutlu bir sanat dalıdır. Doğru yanıt E’dir."
+        "Aciklama": "İki boyut en ve boy olarak da açıklanacağı gibi, kısaca “yüzey” olarak da nitelendirilebilir. İstisnalar hariç olmak üzere, resim, grafik, baskı ve fotoğraf iki boyutlu yüzeylere uygulanan sanat türlerindendir. Heykel ise üç boyutlu bir sanat dalıdır. Doğru yanıt E’dir."
     },
     {
         "SoruID": 3858994,
@@ -2032,7 +2072,7 @@
         "Unite": 2,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:42.789614",
+        "OlusturmaTarihi": "2025-12-01T04:15:45.825421",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,

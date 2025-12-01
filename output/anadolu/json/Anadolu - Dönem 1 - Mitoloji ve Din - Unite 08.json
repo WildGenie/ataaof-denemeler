@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hz. İbrahim ve eşi Sare’nin yaşları  ilerlemiş  olmasına rağmen çocukları  olmamıştır. Sare’nin de ısrarı ile cariyesi Hacer ile evlenen Hz. İbrahim’in İsmail adlı ilk çocuğu olmuştur. Aynı dönemde Sare’den de İshak adlı  ikinci bir oğlu olmuş, Sare’nin kıskançlığı sebebiyle Hacer ve İsmail Hz İbrahim tarafından Mekke’ye götürülmüştür. Daha sonraki dönemlerde İsmail Arapların atası olmuş, İshak ta Yahudilerin atası olarak kabul edilmiştir. Doğru yanıt D'dir."
+        "Aciklama": "Hz. İbrahim ve eşi Sare’nin yaşları ilerlemiş olmasına rağmen çocukları olmamıştır. Sare’nin de ısrarı ile cariyesi Hacer ile evlenen Hz. İbrahim’in İsmail adlı ilk çocuğu olmuştur. Aynı dönemde Sare’den de İshak adlı ikinci bir oğlu olmuş, Sare’nin kıskançlığı sebebiyle Hacer ve İsmail Hz İbrahim tarafından Mekke’ye götürülmüştür. Daha sonraki dönemlerde İsmail Arapların atası olmuş, İshak ta Yahudilerin atası olarak kabul edilmiştir. Doğru yanıt D'dir."
     },
     {
         "SoruID": 3374282,
@@ -72,7 +72,7 @@
         "Unite": 8,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:54.166237",
+        "OlusturmaTarihi": "2025-12-01T04:16:30.694755",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -180,6 +180,26 @@
         "Aciklama": "Hristiyanlığın kısa bir süre içinde Yahudi olmayanların arasında yayılmasındaki en büyük gayret Pavlos’a aittir. Pavlos Tarsus’lu bir Yahudi din adamı olarak vazife yaparken, Şam yolunda geçirmiş olduğu bir vizyon ile Hristiyanlığı kabul eden bir şahıstır. İsa ile bizzat görüşmeyen ve Havariler arasında yer almayan Pavlos, İsa’nın \"<em>Beni izle</em>\" demesi üzerine Hristiyan olmuştur. Yahudilerin dışındaki toplumlarda Hristiyanlığı yaydığı için de kendisine \"<em>Yabancıların Havarisi</em>\" denilmiştir. Doğru yanıt D’dir."
     },
     {
+        "SoruID": 3374290,
+        "SoruMetni": "İslam ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+        "A": "Din adamları İslam’a göre özel bir toplumsal sınıftır.",
+        "B": "Kuran’da geçen iman esasları arasında kurtarıcı bir Mesih inancı vardır.",
+        "C": "İbadet anlayışı kişinin bütün hayatını ve davranışlarını kapsayan bir olgudur.",
+        "D": "İslam’da peygamberler olağanüstü ilahi özellikler taşıyabilirler.",
+        "E": "İslam’da günlük ve yıllık ibadetler güneşin hareketlerine göre belirlenir.",
+        "DogruCevap": "C",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.970627",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İslamiyet’te ruhbanlık yoktur, İslam din adamları sınıfını kabul etmez; bu konuda Kuran’da Hristiyanlar eleştirilmiştir. İslamiyet’te iman esasları arasında kurtarıcı bir Mesih inancı da bulunmaz; Kuran’da Mesih anlayışına yer verilmemiştir. İslam’da peygamberler dahil hiçbir insan olağanüstü ilahi özellikler taşımaz; bu yönüyle hiçbir varlık mutlak manada mükemmel olamaz, mükemmel olan sadece Allah’tır. İslam’da günlük ibadetler güneşe göre, yıllık ibadetler ise ayın hareketlerine göre belirlenir. Bunlara karşılık İslam’ın ibadet anlayışı kişinin bütün hayatını kapsayan bir olgudur. Müslüman’ın çalışması, uyuması, yemesi ve yürümesi gibi bütün davranışları ibadet olarak değerlendirilir. Doğru yanıt C’dir."
+    },
+    {
         "SoruID": 3374320,
         "SoruMetni": "Aşağıdakilerden hangisi Ortadoğu kökenli bir din değildir?",
         "A": "Mecusilik",
@@ -277,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/>Yahudi hukukuna göre Yahudi olmayanlar “Nuhiler” ve putperestler olmak üzere ikiye ayrılırlar. Nuhi denilen kişiler Hz. Nuh’un getirdiği esasları kabul eden toplumlardır. Yahudilerin gözünde bir Hristiyan veya Müslüman Nuhi kabul edilmektedir. Fakat Hz. İsa ve Hz. Muhammed peygamber olarak kabul edilmezler.<br/><br/><br/>"
+        "Aciklama": "<br/>Yahudi hukukuna göre Yahudi olmayanlar “Nuhiler” ve putperestler olmak üzere ikiye ayrılırlar. Nuhi denilen kişiler Hz. Nuh’un getirdiği esasları kabul eden toplumlardır. Yahudilerin gözünde bir Hristiyan veya Müslüman Nuhi kabul edilmektedir. Fakat Hz. İsa ve Hz. Muhammed peygamber olarak kabul edilmezler."
     },
     {
         "SoruID": 3374325,
@@ -317,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tamaşa, İslam’daki gusüle benzer. Nehre üç defa dalarak gerçekleştirilen temizlik, doğumdan sonra, cinsel ilişkinin ardından gerçekleştirilir. Doğru cevap E'dir."
+        "Aciklama": "Tamaşa, İslam’daki gusüle benzer. Nehre üç defa dalarak gerçekleştirilen temizlik, doğumdan sonra, cinsel ilişkinin ardından gerçekleştirilir. Doğru cevap E'dir."
     },
     {
         "SoruID": 3374327,
@@ -378,6 +398,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Kuran ayetleri Hz. Ebu Bekir döneminde kitap haline getirilmiştir. Doğru cevap C'dir."
+    },
+    {
+        "SoruID": 3374380,
+        "SoruMetni": "Yahudilikte halkın birliğini sağlayacak olan mabet inşasına kimin zamanında başlanmıştır?",
+        "A": "Hz. Musa",
+        "B": "Hz. Davut",
+        "C": "Hz. Süleyman",
+        "D": "Hz. Harun",
+        "E": "Hz. Samuel",
+        "DogruCevap": "B",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.916549",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Hz. Davut ile başkent Kudüs ve çevresinde ciddi imar faaliyetlerine girişilmiştir. İnanç konusunda halkın birliğini sağlayacak olan bir mabet inşasına başlanmıştır. Hz. Davut’un başlattığı mabet oğlu Hz. Süleyman döneminde iken tamamlanmıştır."
     },
     {
         "SoruID": 3374381,
@@ -581,7 +621,7 @@
     },
     {
         "SoruID": 3375006,
-        "SoruMetni": "İsrailoğullarını, kendi kutsal topraklarına kim  götürmüştür?",
+        "SoruMetni": "İsrailoğullarını, kendi kutsal topraklarına kim götürmüştür?",
         "A": "Hz. Musa",
         "B": "Yeşu",
         "C": "Hz. Harun",
@@ -680,6 +720,26 @@
         "Aciklama": "Mecusilik için batılı araştırmacılar Zerdüştilik demektedirler. Ateşe tapanlar olarak ifade edilir."
     },
     {
+        "SoruID": 3375011,
+        "SoruMetni": "Dinsel anlayışları ikili anlayışa dayanan, bir yanda “ışık evreni”, diğer yanda “karanlık<br/>evrenin\" bulunduğuna inanan topluluk, hangi dine mensuptur?",
+        "A": "Yahudilik",
+        "B": "Protestan",
+        "C": "Sabiilik",
+        "D": "Hristiyanlık",
+        "E": "Müslümanlık",
+        "DogruCevap": "C",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:16:30.702505",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Sabiilerin dinsel anlayışları tümüyle gnostik düalizm temeline dayanmaktadır. Bu ikili anlayışta, bir yanda “ışık evreni”, diğer yanda ise “karanlık evreni” bulunmaktadır."
+    },
+    {
         "SoruID": 3375012,
         "SoruMetni": "Sabiilerin mabedlerini nehir kenarına kurma nedeni, aşağıdakilerden hangisidir?",
         "A": "Mabede, doğal sınır oluşturmak",
@@ -761,7 +821,7 @@
     },
     {
         "SoruID": 3375016,
-        "SoruMetni": "I.   Kutsal Toprak<br/> II.  Mabet<br/> III. Seçilmişlik<br/> IV. Mesih<br/> Yukarıdakilerden hangisi Yahudiliği diğer dinlerden ayıran özellikler arasındadır?",
+        "SoruMetni": "I. Kutsal Toprak<br/>II. Mabet<br/>III. Seçilmişlik<br/>IV. Mesih<br/>Yukarıdakilerden hangisi Yahudiliği diğer dinlerden ayıran özellikler arasındadır?",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -781,7 +841,7 @@
     },
     {
         "SoruID": 3375017,
-        "SoruMetni": "I.   Putlara tapmayacaksın.<br/> II.  Kan dökmeyeceksin.<br/> III. Güçlü olanın yanında olacaksın.<br/> IV. Hırsızlık yapmayacaksın.<br/> Yukarıdakilerden hangisi Nuhi kanunlar arasında sayılamaz?",
+        "SoruMetni": "I. Putlara tapmayacaksın.<br/>II. Kan dökmeyeceksin.<br/>III. Güçlü olanın yanında olacaksın.<br/>IV. Hırsızlık yapmayacaksın.<br/>Yukarıdakilerden hangisi Nuhi kanunlar arasında sayılamaz?",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -797,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nuhi kanunlar şunlardır:<br/>1. Putlara tapmayacaksın,<br/>2. Zina yapmayacaksın,<br/>3. Kan dökmeyeceksin,<br/>4. Adalete riayet edeceksin,<br/>5. Hırsızlık yapmayacaksın,<br/>6. Ana, babaya hürmet edeceksin,<br/>7. Boğulmuş hayvan yemeyeceksin.<br/> Doğru cevap E'dir."
+        "Aciklama": "Nuhi kanunlar şunlardır:<br/>1. Putlara tapmayacaksın,<br/>2. Zina yapmayacaksın,<br/>3. Kan dökmeyeceksin,<br/>4. Adalete riayet edeceksin,<br/>5. Hırsızlık yapmayacaksın,<br/>6. Ana, babaya hürmet edeceksin,<br/>7. Boğulmuş hayvan yemeyeceksin.<br/>Doğru cevap E'dir."
     },
     {
         "SoruID": 3375018,
@@ -806,7 +866,7 @@
         "B": "Reformist Yahudilik",
         "C": "Muhafazakar Yahudilik",
         "D": "Köktenci Yahudilik",
-        "E": "Rekonstrüksiyonist Yahudilik",
+        "E": "Rekonstrüksiyonist Yahudilik",
         "DogruCevap": "D",
         "DersAd": "Mitoloji ve Din",
         "Unite": 8,
@@ -821,7 +881,7 @@
     },
     {
         "SoruID": 3375019,
-        "SoruMetni": "Avesta'da Tanrısal varlıklardan bahsedilen kısmın adı nedir?",
+        "SoruMetni": "Avesta'da Tanrısal varlıklardan bahsedilen kısmın adı nedir?",
         "A": "Yasna",
         "B": "Vispered",
         "C": "Yaşt",
@@ -837,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Avesta beş bölümden meydana gelmektedir :<br/> Bunlardan <em>Vispered</em>, Tanrısal varlıklardan bahseden kısımdır. Doğru cevap B'dir."
+        "Aciklama": "Avesta beş bölümden meydana gelmektedir :<br/>Bunlardan <em>Vispered</em>, Tanrısal varlıklardan bahseden kısımdır. Doğru cevap B'dir."
     },
     {
         "SoruID": 3375020,
@@ -857,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<em>Rişama </em>: Gün doğmadan dini törenlerden önce yapılan abdeste benzer temizliktir. Doğru cevap D'dir."
+        "Aciklama": "<em>Rişama </em>: Gün doğmadan dini törenlerden önce yapılan abdeste benzer temizliktir. Doğru cevap D'dir."
     },
     {
         "SoruID": 3375021,
@@ -881,7 +941,7 @@
     },
     {
         "SoruID": 3375022,
-        "SoruMetni": "I.   Ermeni kilisesi<br/> II.  Kıpti kilisesi<br/> III. Rum Ortodoks Kilisesi<br/> IV. Habeş kilisesi<br/> Yukarıdaki kiliselerden hangisi monofizit kiliseler arasında sayılabilir?",
+        "SoruMetni": "I. Ermeni kilisesi<br/>II. Kıpti kilisesi<br/>III. Rum Ortodoks Kilisesi<br/>IV. Habeş kilisesi<br/>Yukarıdaki kiliselerden hangisi monofizit kiliseler arasında sayılabilir?",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -897,11 +957,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>MONOFİZİT KİLİSELER</strong><br/> 1- Ermeni kilisesi<br/>2- Süryani kilisesi<br/>3- Kıpti kilisesi<br/>4- Habeş kilisesi<br/> Doğru cevap E'dir."
+        "Aciklama": "<strong>MONOFİZİT KİLİSELER</strong><br/>1- Ermeni kilisesi<br/>2- Süryani kilisesi<br/>3- Kıpti kilisesi<br/>4- Habeş kilisesi<br/>Doğru cevap E'dir."
     },
     {
         "SoruID": 3375023,
-        "SoruMetni": "Kuran ayetleri Hz. Muhammed'in vefatından sonra kimin döneminde kitap haline getirilmiştir?",
+        "SoruMetni": "Kuran ayetleri Hz. Muhammed'in vefatından sonra kimin döneminde kitap haline getirilmiştir?",
         "A": "Hz. Osman",
         "B": "Hz. Ebu Bekir",
         "C": "Hz. Ömer",
@@ -918,6 +978,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Kuran ayetleri Hz. Muhammed zamanında yazılı ve sözlü olarak korunmuş vefatından hemen sonra Hz. Ebu Bekir döneminde kitap haline getirilmiş, Hz. Osman zamanında çoğaltılarak Müslümanların istifadesine sunulmuştur. Doğru cevap B'dir."
+    },
+    {
+        "SoruID": 3375024,
+        "SoruMetni": "İslam'da kıyamet koptuktan sonra bütün insanların toplandığı yerin adı nedir?",
+        "A": "Cennet",
+        "B": "Cehennem",
+        "C": "Mahşer",
+        "D": "Sırat köprüsü",
+        "E": "Ahir zaman",
+        "DogruCevap": "C",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.958272",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Mahşer, kıyamet koptuktan sonra bütün insanların toplandığı yerdir. Doğru cevap C'dir."
     },
     {
         "SoruID": 3375025,
@@ -941,7 +1021,7 @@
     },
     {
         "SoruID": 3375026,
-        "SoruMetni": "\"Hz. Musa’ın getirdiği kanunlara harfiyen uyan ve mabedin yıkılışından bu yana çoğunluğu oluşturan Yahudi topluluğudur. Hem Tevrat’a hem de Talmut’a sıkıca bağlıdırlar. Bunlar geleneğe bağlıdırlar, Mesih’in geleceğine inanırlar.\" <br/> Yukarıda verilen tanım hangi yahudi mezhebine aittir?",
+        "SoruMetni": "\"Hz. Musa’ın getirdiği kanunlara harfiyen uyan ve mabedin yıkılışından bu yana çoğunluğu oluşturan Yahudi topluluğudur. Hem Tevrat’a hem de Talmut’a sıkıca bağlıdırlar. Bunlar geleneğe bağlıdırlar, Mesih’in geleceğine inanırlar.\" <br/>Yukarıda verilen tanım hangi yahudi mezhebine aittir?",
         "A": "Katolik Yahudilik",
         "B": "Ortodoks Yahudilik",
         "C": "Muhafazakar Yahudilik",
@@ -960,8 +1040,28 @@
         "Aciklama": "Günümüzde Yahudiliğin önde gelen mezhepleri dört tanedir. Ortodoks Yahudilik, Muhafazakar Yahudilik, Reformist Yahudilik ve Rekonstrüksiyonist (yeniden yapılanmacı) Yahudilik.<br/>Ortodoks Yahudilik, Hz. Musa’ın getirdiği kanunlara harfiyen uyan ve mabedin yıkılışından bu yana çoğunluğu oluşturan Yahudi topluluğudur. Hem Tevrat’a hem de Talmut’a sıkıca bağlıdırlar. Bunlar geleneğe bağlıdırlar, Mesih’in geleceğine inanırlar. Doğru cevap B'dir."
     },
     {
+        "SoruID": 3375027,
+        "SoruMetni": "Batılı araştırmacıların Zerdüştilik dedikleri din hangisidir?",
+        "A": "Yahudilik",
+        "B": "İslamiyet",
+        "C": "Hristiyanlık",
+        "D": "Sabiilik",
+        "E": "Mecusilik",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.979060",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Mecusilik için batılı araştırmacılar Zerdüştilik demektedirler. Ateşe tapanlar olarak ifade edilir. Mecusi terimi aslen Zerdüşt anlamına gelmektedir. Zerdüşt, bu dinin kurucusunun adıdır. Doğru cevap E'dir."
+    },
+    {
         "SoruID": 3375028,
-        "SoruMetni": "Mecusiliğin kutsal kitabı Gathalar ve Avesta’dır. Avesta beş bölümden meydana gelmektedir. Aşağıdakilerden hangisi tanrısal varlıklardan bahseden kısımdır?",
+        "SoruMetni": "Mecusiliğin kutsal kitabı Gathalar ve Avesta’dır. Avesta beş bölümden meydana gelmektedir. Aşağıdakilerden hangisi tanrısal varlıklardan bahseden kısımdır?",
         "A": "Vispered",
         "B": "Yasna",
         "C": "Yaşt",
@@ -977,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Avesta beş bölümden meydana gelmektedir :<br/>1. Yasna : İbadet ve duaların şeklinden bahseder, Avesta’nın dil açısından en eski metnidir. Gathaların onyedi tanesi bu bölümde yer almaktadır.<br/>2. Vispered : Tanrısal varlıklardan bahseden kısımdır.<br/>3. Yaşt : Tanrıya karşı övgü ve yakarışlara yer verilmiştir.<br/>4. Vendidat : Şeytanlar ve büyülere karşı sergilenecek tavır anlatılır.<br/>5. Khordavesta : Küçük Avesta demektir. Bir yönüyle ilmihal türü bilgiler ihtiva eder.<br/> Doğru cevap A'dır."
+        "Aciklama": "Avesta beş bölümden meydana gelmektedir :<br/>1. Yasna : İbadet ve duaların şeklinden bahseder, Avesta’nın dil açısından en eski metnidir. Gathaların onyedi tanesi bu bölümde yer almaktadır.<br/>2. Vispered : Tanrısal varlıklardan bahseden kısımdır.<br/>3. Yaşt : Tanrıya karşı övgü ve yakarışlara yer verilmiştir.<br/>4. Vendidat : Şeytanlar ve büyülere karşı sergilenecek tavır anlatılır.<br/>5. Khordavesta : Küçük Avesta demektir. Bir yönüyle ilmihal türü bilgiler ihtiva eder.<br/>Doğru cevap A'dır."
     },
     {
         "SoruID": 3375029,
@@ -998,6 +1098,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Sabiilik Ortadoğu kökenli bir inançtır. Fakat Sabiilerin inançlarının bölgede var olan kültürlerle karışmış olması araştırmacıların zaman zaman yanlış yorumlamalarına neden olmuştur. Sabiiler için bazı kaynaklarda yıldıza tapanlar oldukları söylenilir. Bu konu İslam kaynaklarında özellikle tefsirlerde en çok vurgulanan husustur. Doğru cevap D'dir."
+    },
+    {
+        "SoruID": 3375030,
+        "SoruMetni": "Sabiilerde ibadet öncesi su ile temizlik yapılmaktadır. Bu sebeple Sabiilerin mabetleri nehir kenarlarında yapılmışlardır. Mabedin ortasında devamlı akan bir havuz bulunur. Üç türlü temizlikleri vardır. Aşağıdakilerden hangisi Gün doğmadan dini törenlerden önce yapılan abdeste benzer temizliktir?",
+        "A": "Masbuta",
+        "B": "Ginza",
+        "C": "Qolasta",
+        "D": "Rişama",
+        "E": "Tamaşa",
+        "DogruCevap": "D",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.929315",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "1. Masbuta: Haftada en az bir defa din adamı gözetiminde yapılan manevi temizliktir. Yahudilikteki gibi pis sayılan şeylerle temas sonrası, ölüye dokunma, evlilik ve bayram merasimleri öncesi yapılır.<br/>2. Rişama: Gün doğmadan dini törenlerden önce yapılan abdeste benzer temizliktir.<br/>3. Tamaşa: İslam’daki gusüle benzer. Nehre üç defa dalarak gerçekleştirilen temizlik, doğumdan sonra, cinsel ilişkinin ardından gerçekleştirilir.<br/>Doğru cevap D'dir."
     },
     {
         "SoruID": 3375031,
@@ -1037,7 +1157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "MONOFİZİT KİLİSELER<br/>1- Ermeni kilisesi<br/>2- Süryani kilisesi<br/>3- Kıpti kilisesi<br/>4- Habeş kilisesi<br/> Doğru cevap E'dir."
+        "Aciklama": "MONOFİZİT KİLİSELER<br/>1- Ermeni kilisesi<br/>2- Süryani kilisesi<br/>3- Kıpti kilisesi<br/>4- Habeş kilisesi<br/>Doğru cevap E'dir."
     },
     {
         "SoruID": 3375034,
@@ -1058,6 +1178,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "İslamiyet 7. yüzyılın başında Arabistan’da doğmuştur. Doğru cevap B'dir."
+    },
+    {
+        "SoruID": 3375035,
+        "SoruMetni": "Aşağıdakilerden hangisi ilk Müslümanlardan <strong>değildir</strong>?",
+        "A": "Hz. Ayşe",
+        "B": "Hz. Hatice",
+        "C": "Hz. Ebubekir",
+        "D": "Hz. Ali",
+        "E": "Hz. Zeyd Bin Harise",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.900512",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Hz. Muhammed başından geçenleri eşi Hz. Hatice’ye anlattı. Hz. Hatice O’na iman ederek ilk Müslümanlardan oldu. Ardından Hz. Ali, Hz. Ebu Bekir ve Zeyd bin Harise İslamiyet’e girdi, İslam hızla yayılmaya başladı. Doğru cevap A'dır."
     },
     {
         "SoruID": 3375067,
@@ -1081,7 +1221,7 @@
     },
     {
         "SoruID": 3375068,
-        "SoruMetni": "Aşağıdakilerden hangisi Hz. Musa’ya verilen On Emir’de geçen hükümler arasında <span style=\"text-decoration: underline;\">değildir?</span>",
+        "SoruMetni": "Aşağıdakilerden hangisi Hz. Musa’ya verilen On Emir’de geçen hükümler arasında <span style=\"text-decoration: underline;\">değildir?</span>",
         "A": "Anne ve babaya hürmet edeceksin.",
         "B": "Tanrı adı boş yere ağza alınmayacak.",
         "C": "Tanrı tektir. Başka ilahlar tanınmayacak.",
@@ -1097,7 +1237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru seçenek E şıkkında verilmiştir. Oyma put yapmak, ve resim yapıp tapmak yasaktır"
+        "Aciklama": "Doğru seçenek E şıkkında verilmiştir. Oyma put yapmak, ve resim yapıp tapmak yasaktır"
     },
     {
         "SoruID": 3375069,
@@ -1120,6 +1260,26 @@
         "Aciklama": "Doğru seçenek A şıkkında verilmiştir."
     },
     {
+        "SoruID": 3375070,
+        "SoruMetni": "MS kaçıncı yüzyılda Mesucilikte zayıflamalar başlamıştır?",
+        "A": "MS 5. yüzyıl",
+        "B": "MS 7. yüzyıl",
+        "C": "MS 6. yüzyıl",
+        "D": "MS 4. yüzyıl",
+        "E": "MS 8. yüzyıl",
+        "DogruCevap": "C",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:23.021886",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Doğru seçenek C şıkkında verilmiştir. MS 6. yüzyıldan itibaren Mecusilikte zayıflamalar başlamıştır."
+    },
+    {
         "SoruID": 3375071,
         "SoruMetni": "Aşağıdakilerden Hangisi Sabiilik için <span style=\"text-decoration: underline;\">yanlıştır?</span>",
         "A": "İnanç esaslarının şekillenişinde Gnostisizmin tesiri çok olmuştur.",
@@ -1138,6 +1298,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Doğru seçenek D şıkkında verilmiştir."
+    },
+    {
+        "SoruID": 3375072,
+        "SoruMetni": "Günümüzde dünya üzerinde nüfusu en kalabalık olan din hangisidir?",
+        "A": "Yahudilik",
+        "B": "İslamiyet",
+        "C": "Hıristiyanlık",
+        "D": "Sabiilik",
+        "E": "Mesucilik",
+        "DogruCevap": "C",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.980666",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Doğru seçenek C şıkkında verilmiştir. Günümüzde dünya üzerinde nüfusu en kalabalık olan din Hristiyanlıktır."
     },
     {
         "SoruID": 3375073,
@@ -1221,7 +1401,7 @@
     },
     {
         "SoruID": 3375186,
-        "SoruMetni": "Tevrat’ın anlatımına göre Hz. İbrahim hangi şehirden yola çıkmıştır?",
+        "SoruMetni": "Tevrat’ın anlatımına göre Hz. İbrahim hangi şehirden yola çıkmıştır?",
         "A": "Harran",
         "B": "Kudüs",
         "C": "Babil",
@@ -1257,7 +1437,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nuhi kanunlar şunlardır:<br/> <ol> <li> Putlara tapmayacaksın,<br/> </li> <li> Zina yapmayacaksın,<br/> </li> <li> Kan dökmeyeceksin,<br/> </li> <li> Adalete riayet edeceksin,<br/> </li> <li> Hırsızlık yapmayacaksın,<br/> </li> <li> Ana, babaya hürmet edeceksin,<br/> </li> <li> Boğulmuş hayvan yemeyeceksin.<br/> </li> </ol> Doğru yanıt E'dir."
+        "Aciklama": "Nuhi kanunlar şunlardır:<br/><ol> <li> Putlara tapmayacaksın,<br/></li> <li> Zina yapmayacaksın,<br/></li> <li> Kan dökmeyeceksin,<br/></li> <li> Adalete riayet edeceksin,<br/></li> <li> Hırsızlık yapmayacaksın,<br/></li> <li> Ana, babaya hürmet edeceksin,<br/></li> <li> Boğulmuş hayvan yemeyeceksin.<br/></li> </ol> Doğru yanıt E'dir."
+    },
+    {
+        "SoruID": 3375188,
+        "SoruMetni": "Mecusiliğin kurucusu kimdir?",
+        "A": "Konfüçyüs",
+        "B": "Lao Tzu",
+        "C": "Sidharta Gautama",
+        "D": "Guru Narak",
+        "E": "Zerdüşt",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.908415",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Mecusilik için batılı araştırmacılar Zerdüştilik demektedirler. Ateşe tapanlar olarak ifade edilir. Mecusi terimi aslen Zerdüşt anlamına gelmektedir. Zerdüşt, bu dinin kurucusunun adıdır. Doğru yanıt E'dir."
     },
     {
         "SoruID": 3375189,
@@ -1297,7 +1497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Avesta beş bölümden meydana gelmektedir :<br/> <ol> <li>Yasna : İbadet ve duaların şeklinden bahseder, Avesta’nın dil açısından en eski metnidir. Gathaların onyedi tanesi bu bölümde yer almaktadır.</li> <li>Vispered : Tanrısal varlıklardan bahseden kısımdır.</li> <li>Yaşt : Tanrıya karşı övgü ve yakarışlara yer verilmiştir.</li> <li>Vendidat : Şeytanlar ve büyülere karşı sergilenecek tavır anlatılır.</li> <li>Khordavesta : Küçük Avesta demektir. Bir yönüyle ilmihal türü bilgiler ihtiva eder.</li> </ol> Doğru yanıt B'dir."
+        "Aciklama": "Avesta beş bölümden meydana gelmektedir :<br/><ol> <li>Yasna : İbadet ve duaların şeklinden bahseder, Avesta’nın dil açısından en eski metnidir. Gathaların onyedi tanesi bu bölümde yer almaktadır.</li> <li>Vispered : Tanrısal varlıklardan bahseden kısımdır.</li> <li>Yaşt : Tanrıya karşı övgü ve yakarışlara yer verilmiştir.</li> <li>Vendidat : Şeytanlar ve büyülere karşı sergilenecek tavır anlatılır.</li> <li>Khordavesta : Küçük Avesta demektir. Bir yönüyle ilmihal türü bilgiler ihtiva eder.</li> </ol> Doğru yanıt B'dir."
     },
     {
         "SoruID": 3375191,
@@ -1317,7 +1517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gün doğmadan dini törenlerden önce yapılan abdeste benzer temizliğe Rişama adı verilir. Doğru yanıt A'dır."
+        "Aciklama": "Gün doğmadan dini törenlerden önce yapılan abdeste benzer temizliğe Rişama adı verilir. Doğru yanıt A'dır."
     },
     {
         "SoruID": 3375192,
@@ -1340,8 +1540,28 @@
         "Aciklama": "“Ginza” Hazine anlamındadır, yaklaşık 600 sayfadır ve “Adem’in Kitabı” diye de adlandırılır. Çeşitli dualar, teoloji, mitoloji, ölüm ve ölüm sonrası gibi konuları içerir. Doğru yanıt D'dir."
     },
     {
+        "SoruID": 3375193,
+        "SoruMetni": "Adını İbranice 'Yağlanarak kutsanmış' anlamına gelen Maşiah kelimesinden yola çıkılarak bulmuş din aşağıdakilerden hangisidir?",
+        "A": "Hristiyanlık",
+        "B": "Sabiilik",
+        "C": "Mecusilik",
+        "D": "Yahudilik",
+        "E": "Musevilik",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:23.043136",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Hristiyan kelimesi İbranice, “Maşiah” karşılığında Grekçe, “Hıristos” kelimesinden gelmektedir. “Yağlanarak kutsanmış” anlamındadır. Doğru yanıt A'dır."
+    },
+    {
         "SoruID": 3375194,
-        "SoruMetni": "İsa’nın havarilerle yediği son akşam yemeğinin hatırasına yapılan törenin adı nedir?",
+        "SoruMetni": "İsa’nın havarilerle yediği son akşam yemeğinin hatırasına yapılan törenin adı nedir?",
         "A": "Konfirmasyon",
         "B": "Vaftiz",
         "C": "Evharistiya",
@@ -1380,6 +1600,26 @@
         "Aciklama": "Arap toplumu İslam’ın doğuşundan önce dini, sosyal ve ahlaki bir çöküntü içerisinde bulunmak- taydı. Kız çocukları diri diri gömülüyor, halk putlara tapıyordu. Kabe putların konulduğu ve ziyaret edilen bir mekana dönüşmüştü. Her kabilenin bir putu olup en büyüklerinin adı Hubel idi. Doğru yanıt B'dir."
     },
     {
+        "SoruID": 3375327,
+        "SoruMetni": "İsrail ünvanı verilen ve bu yönüyle öne çıkan peygamber kimdir?",
+        "A": "Hz. Yakub",
+        "B": "Hz. İshak",
+        "C": "Hz. Yusuf",
+        "D": "Hz.İbrahim",
+        "E": "Hz Musa",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.968959",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Yahudiliğin Tarihçesi<br>Yakub"
+    },
+    {
         "SoruID": 3375328,
         "SoruMetni": "Hz. Yakup’un kaç çocuğu vardır.",
         "A": "12",
@@ -1397,11 +1637,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "12"
+        "Aciklama": "Yahudiliğin Tarihçesi<br>12"
     },
     {
         "SoruID": 3375329,
-        "SoruMetni": "Sina yarımadasının güney ucundaki Tur dağının eteğinde yerleşen İsrailoğulları yaşanan olayların her aşamasında Hz. Musa’ya zorluklar çıkarmıştır. Bu olaylardan birisi Hz Musa’nın Tur dağına çıkışıdır. Hz. Musa Tur dağında kaç gün kalmıştır?",
+        "SoruMetni": "Sina yarımadasının güney ucundaki Tur dağının eteğinde yerleşen İsrailoğulları yaşanan olayların her aşamasında Hz. Musa’ya zorluklar çıkarmıştır. Bu olaylardan birisi Hz Musa’nın Tur dağına çıkışıdır. Hz. Musa Tur dağında kaç gün kalmıştır?",
         "A": "40",
         "B": "30",
         "C": "33",
@@ -1417,7 +1657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "30+10=Toplamda 40 gün<br/><br/>Hz Musa’nın otuz günlüğüne Tur dağına çıkışıdır. Bu dönemde kavmin başında kardeşi Hz. Harun bulunmuştur. Hz. Musa’nın<br>kaldığı süreyi on gün uzatması kavmin içerisinde<br/>huzursuzluğa sebep olmuş,</br>"
+        "Aciklama": "Yahudiliğin Tarihçesi<br>30+10=Toplamda 40 gün<br/>Hz Musa’nın otuz günlüğüne Tur dağına çıkışıdır. Bu dönemde kavmin başında kardeşi Hz. Harun bulunmuştur. Hz. Musa’nın<br/>kaldığı süreyi on gün uzatması kavmin içerisinde<br/>huzursuzluğa sebep olmuş,</br>"
     },
     {
         "SoruID": 3375330,
@@ -1437,7 +1677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ezra"
+        "Aciklama": "Yahudiliğin Tarihçesi<br>Ezra"
     },
     {
         "SoruID": 3375331,
@@ -1457,7 +1697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "On Emir"
+        "Aciklama": "Yahudiliğin Özellikleri<br>On Emir"
     },
     {
         "SoruID": 3375332,
@@ -1477,12 +1717,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üç"
+        "Aciklama": "Yahudilikte İbadet<br>Üç"
     },
     {
         "SoruID": 3375333,
-        "SoruMetni": "Yahudi hukukuna göre Yahudi olmayanlar “Nuhiler” ve putperestler olmak üzere ikiye ayrılırlar. Nuhi denilen kişiler Hz. Nuh’un getirdiği esasları kabul eden toplumlardır. Yahudilerin gözünde bir Hristiyan veya Müslüman Nuhi kabul edilmektedir. Ayrıca Hz. İsa ve Hz. Muhammed peygamber olarak kabul edilmezler. Bir Yahudi Nuhilerle iş yapabilir, ticaret ve alışverişini gerçekleştirebilir. Fakat Nuhi kanunlara inanmayan putperestlerle hiçbir temasta bulunamaz. Aşağıda yer alan Nuhi kanunlarından hangisi bu kanunlar arasında yer almaz?",
-        "A": "<br/>Çocuklara hürmet edeceksin<br/><br/>",
+        "SoruMetni": "Yahudi hukukuna göre Yahudi olmayanlar “Nuhiler” ve putperestler olmak üzere ikiye ayrılırlar. Nuhi denilen kişiler Hz. Nuh’un getirdiği esasları kabul eden toplumlardır. Yahudilerin gözünde bir Hristiyan veya Müslüman Nuhi kabul edilmektedir. Ayrıca Hz. İsa ve Hz. Muhammed peygamber olarak kabul edilmezler. Bir Yahudi Nuhilerle iş yapabilir, ticaret ve alışverişini gerçekleştirebilir. Fakat Nuhi kanunlara inanmayan putperestlerle hiçbir temasta bulunamaz. Aşağıda yer alan Nuhi kanunlarından hangisi bu kanunlar arasında yer almaz?",
+        "A": "<br/>Çocuklara hürmet edeceksin",
         "B": "Putlara tapmayacaksın",
         "C": "Boğulmuş hayvan yemeyeceksin",
         "D": "Zina yapmayacaksın",
@@ -1497,7 +1737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çocuklara hürmet edeceksin"
+        "Aciklama": "Yahudiliğin Diğer Toplumlara Bakışı<br>Çocuklara hürmet edeceksin"
     },
     {
         "SoruID": 3375334,
@@ -1517,7 +1757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dört"
+        "Aciklama": "Günümüzde Yahudi Mezhepleri<br>Dört"
     },
     {
         "SoruID": 3375335,
@@ -1537,7 +1777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İki"
+        "Aciklama": "Mecusiliğin Özellikleri<br>İki"
     },
     {
         "SoruID": 3375336,
@@ -1557,6 +1797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pavlos"
+        "Aciklama": "Hristiyanlığın Tarihçesi<br>Pavlos"
     }
 ]

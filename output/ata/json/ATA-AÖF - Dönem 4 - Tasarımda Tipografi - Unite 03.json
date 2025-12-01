@@ -16,7 +16,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 337390,
@@ -35,7 +36,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337391,
@@ -47,14 +49,15 @@
         "E": "Eski biçem (old style) yazılar",
         "DogruCevap": "C",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 337392,
@@ -66,14 +69,15 @@
         "E": "Her ikisi de el yazısı karakterleridir.",
         "DogruCevap": "A",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 337393,
@@ -92,7 +96,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337394,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 337395,
@@ -123,14 +129,15 @@
         "E": "Tipografi",
         "DogruCevap": "D",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337396,
@@ -142,14 +149,15 @@
         "E": "Asimetrik düzenleme yapılır.",
         "DogruCevap": "D",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337397,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 341081,
@@ -180,18 +189,19 @@
         "E": "Pica",
         "DogruCevap": "A",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 342923,
-        "SoruMetni": "I. 1700-1800’lü yıllar arası dönemde kullanılan yazı tiplerinin tanımlanmasında kullanılır.<br/> <br/>II. Kalın ve ince çizgiler arasındaki kontrast daha keskindir.<br> <br/>III. Kavisli seriflerin yerine düz ve ince serifler bulunur.<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri modern yazı karekterlerinin özelliklerindendir?</strong><br> <br/></br></br></br>",
+        "SoruMetni": "I. 1700-1800’lü yıllar arası dönemde kullanılan yazı tiplerinin tanımlanmasında kullanılır.<br/>II. Kalın ve ince çizgiler arasındaki kontrast daha keskindir.<br/>III. Kavisli seriflerin yerine düz ve ince serifler bulunur.<br/><strong>Yukarıdakilerden hangisi ya da hangileri modern yazı karekterlerinin özelliklerindendir?</strong><br/></br></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -199,14 +209,15 @@
         "E": "I, II ve III",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 342926,
@@ -218,14 +229,15 @@
         "E": "Baskerville",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 347612,
@@ -237,18 +249,19 @@
         "E": "El yazısı",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 347614,
-        "SoruMetni": "Bauhaus Akımı özellikle De Stijl ve Konstrüktivizm etkisinde kalmakla beraber, Almanya’nın savaşta aldığı yenilgiyle birlikte sosyal, ekonomik ve kültürel alanlarda yeni bir düzen arayışından ortaya çıkmıştır. <br/> <br/><strong>Buna göre Bauhaus Akımı kimin önderliğinde ortaya çıkmıştır?</strong><br> <br/></br>",
+        "SoruMetni": "Bauhaus Akımı özellikle De Stijl ve Konstrüktivizm etkisinde kalmakla beraber, Almanya’nın savaşta aldığı yenilgiyle birlikte sosyal, ekonomik ve kültürel alanlarda yeni bir düzen arayışından ortaya çıkmıştır. <br/><strong>Buna göre Bauhaus Akımı kimin önderliğinde ortaya çıkmıştır?</strong><br/></br>",
         "A": "Walter Gropius",
         "B": "Moholy-Nagy",
         "C": "Jan Tschichold",
@@ -256,14 +269,15 @@
         "E": "Pierre Simon",
         "DogruCevap": "A",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 347616,
@@ -275,14 +289,15 @@
         "E": "Olduğu gibi kullanmak",
         "DogruCevap": "C",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 347618,
@@ -294,13 +309,14 @@
         "E": "Serifsiz yazı karakterleri",
         "DogruCevap": "A",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     }
 ]

@@ -2,10 +2,10 @@
     {
         "SoruID": 3234909,
         "SoruMetni": "İtalyan şair Filippo Tommaso Marinetti tarafından 1909 yılında, bir Paris gazetesinin baş sayfasında gösterişli bir manifestonun yayınlanmasıyla dünyaya duyurduğu modern sanat akımı aşağıdakilerden hangisidir?",
-        "A": "De Stijl<br/><br/>",
-        "B": "Kübizm<br/><br/>",
-        "C": "Dadaizm<br/><br/>",
-        "D": "Fütürizm<br/><br/>",
+        "A": "De Stijl",
+        "B": "Kübizm",
+        "C": "Dadaizm",
+        "D": "Fütürizm",
         "E": "Art Deco",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -17,16 +17,36 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fütürizm Sanat Akımı:<br/>Fütürizm, anlı şanlı İtalyan şair Filippo Tommaso Marinetti tarafından 1909 yılında, bir Paris gazetesinin baş sayfasında gösterişli bir manifestonun yayınlanmasıyla dünyaya duyuruldu."
+        "Aciklama": "MODERN SANAT AKIMLARI<br>Fütürizm Sanat Akımı:<br/>Fütürizm, anlı şanlı İtalyan şair Filippo Tommaso Marinetti tarafından 1909 yılında, bir Paris gazetesinin baş sayfasında gösterişli bir manifestonun yayınlanmasıyla dünyaya duyuruldu."
+    },
+    {
+        "SoruID": 3234910,
+        "SoruMetni": "Savaşların verdiği heyecanı, makine çağını, hız kavramını, modern yaşamı ve devrim yüceltilirken toplumun katılaşmış değerlerine karşı çıkarak, eskiye bağlı ne varsa göz ardı edilmesini isteyen modern sanat akımı aşağıdakilerden hangisidir?",
+        "A": "Kübizm",
+        "B": "C. Dadaizm",
+        "C": "Fütürizm",
+        "D": "Art Deco",
+        "E": "De Stijl",
+        "DogruCevap": "C",
+        "DersAd": "Görsel İletişim ve Tasarım Tarihi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.262855",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "MODERN SANAT AKIMLARI<br>Future (gelecek) kelimesinden çıkışla Fütürist manifestoda; savaşların verdiği heyecan, makine çağı, hız kavramı, modern yaşam ve devrim yüceltilirken, toplumun katılaşmış değerlerine karşı çıkılarak, eskiye bağlı ne varsa göz ardı edilmesi istenmiştir."
     },
     {
         "SoruID": 3234911,
         "SoruMetni": "I. Dünya Savaşı’nın katliamlarına ve savaşa duyulan nefretten doğan, teknolojik ilerlemeye körü körüne bağlanmanın yüzeyselliğini,<br/>toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto eden modern sanat akımı aşağıdakilerden hangisidir?",
-        "A": "Kübizm<br/><br/>",
+        "A": "Kübizm",
         "B": "Dadaizm",
-        "C": "Fütürizm<br/><br/>",
+        "C": "Fütürizm",
         "D": "Art Deco",
-        "E": "De Stijl<br/><br/>",
+        "E": "De Stijl",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
         "Unite": 4,
@@ -37,15 +57,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dadaizm Sanat Akımı:<br/>I. Dünya Savaşı’nın katliamlarına ve savaşa duyulan nefretten doğan Dadaizm, teknolojik ilerlemeye körü körüne bağlanmanın yüzeyselliğini, toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto etmiştir."
+        "Aciklama": "MODERN SANAT AKIMLARI<br>Dadaizm Sanat Akımı:<br/>I. Dünya Savaşı’nın katliamlarına ve savaşa duyulan nefretten doğan Dadaizm, teknolojik ilerlemeye körü körüne bağlanmanın yüzeyselliğini, toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto etmiştir."
     },
     {
         "SoruID": 3234912,
         "SoruMetni": "Konuda işlenen elemanların planlarını değişik açılardan ele alıp analiz ettikten sonra bir araya getirdikleri parçaları ritmik bir kompozisyon oluşturmak için kullanan, asıl konunun uzamsal ilişkilerde kullanılan şekiller, renkler, dokular ve değerler olduğunu iddia eden modern sanat akımı aşağıdakilerden hangisidir?",
-        "A": "Kübizm<br/><br/>",
-        "B": "De Stijl<br/><br/>",
-        "C": "Dadaizm<br/><br/>",
-        "D": "Fütürizm<br/><br/>",
+        "A": "Kübizm",
+        "B": "De Stijl",
+        "C": "Dadaizm",
+        "D": "Fütürizm",
         "E": "Art Deco",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -57,15 +77,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Analitik Kübizm döneminde yapılan eserlerde sanatçılar, konuda işlenen elemanların planlarını değişik açılardan ele alıp analiz ettikten sonra bir araya getirdikleri parçaları ritmik bir kompozisyon oluşturmak için kullanmışlardır. Bu dönemde, konunun düzlemlerini genellikle birkaç bakış açısından analiz ettiler ve bu algıları ritmik geometrik düzlemlerden oluşan bir resim oluşturmak için kullanmışlardır. Asıl konu, uzamsal ilişkilerde kullanılan şekiller, renkler, dokular ve değerlerdir."
+        "Aciklama": "MODERN SANAT AKIMLARI<br>Analitik Kübizm döneminde yapılan eserlerde sanatçılar, konuda işlenen elemanların planlarını değişik açılardan ele alıp analiz ettikten sonra bir araya getirdikleri parçaları ritmik bir kompozisyon oluşturmak için kullanmışlardır. Bu dönemde, konunun düzlemlerini genellikle birkaç bakış açısından analiz ettiler ve bu algıları ritmik geometrik düzlemlerden oluşan bir resim oluşturmak için kullanmışlardır. Asıl konu, uzamsal ilişkilerde kullanılan şekiller, renkler, dokular ve değerlerdir."
     },
     {
         "SoruID": 3234913,
         "SoruMetni": "Kendinden önceki Art Nouveau akımına karşı bir duruş sergileyen, modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi<br/>amaçlayan, savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişim ile şekillenen modern sanat akımı aşağıdakilerden hangisidir?",
-        "A": "De Stijl<br/><br/>",
-        "B": "Kübizm<br/><br/>",
-        "C": "Dadaizm<br/><br/>",
-        "D": "Fütürizm<br/><br/>",
+        "A": "De Stijl",
+        "B": "Kübizm",
+        "C": "Dadaizm",
+        "D": "Fütürizm",
         "E": "Art Deco",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -77,16 +97,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kendinden önceki Art Nouveau akımına karşı bir duruş sergileyen akım, modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi<br/>amaçlamıştır. Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişim Art Deco’nun şekillenmesinde de etkili olmuştur."
+        "Aciklama": "ART DECO SANAT AKIMI<br>Kendinden önceki Art Nouveau akımına karşı bir duruş sergileyen akım, modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi<br/>amaçlamıştır. Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişim Art Deco’nun şekillenmesinde de etkili olmuştur."
     },
     {
         "SoruID": 3234914,
         "SoruMetni": "İki ana özelliği –resim, mimari, plastik, iç mekân tasarımı veya kitap tasarımı dâhil– biçimlerin daima dik açılı, renklerin ise temel renkler–kırmızı, mavi ve sarıdan oluşmasını öngören modern sanat akımı aşağıdakilerden hangisidir?",
-        "A": "Kübizm<br/><br/>",
-        "B": "Dadaizm<br/><br/>",
+        "A": "Kübizm",
+        "B": "Dadaizm",
         "C": "Fütürizm",
         "D": "Art Deco",
-        "E": "De Stijl<br/><br/>",
+        "E": "De Stijl",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
         "Unite": 4,
@@ -97,15 +117,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“De Stijl’in iki ana özelliği –resim, mimari, plastik, iç mekân tasarımı veya kitap tasarımı dâhil– biçimlerin daima dik açılı, renklerin ise temel renkler–kırmızı, mavi ve sarıdan oluşmasıdır."
+        "Aciklama": "DE STİJL SANAT AKIMI<br>“De Stijl’in iki ana özelliği –resim, mimari, plastik, iç mekân tasarımı veya kitap tasarımı dâhil– biçimlerin daima dik açılı, renklerin ise temel renkler–kırmızı, mavi ve sarıdan oluşmasıdır."
     },
     {
         "SoruID": 3234915,
-        "SoruMetni": "1910 ve 1912 yılları  arasında çalıştıkları yapıtlarına “Analitik Kübizm” adı veren Pablo Picasso ve arkadaşı aşağıdakilerden hangisidir?",
-        "A": "Vilmos Huszar<br/><br/>",
-        "B": "J.J. Oud<br/><br/>",
-        "C": "Piet Mondrian<br/><br/>",
-        "D": "Georges Braque<br/><br/>",
+        "SoruMetni": "1910 ve 1912 yılları arasında çalıştıkları yapıtlarına “Analitik Kübizm” adı veren Pablo Picasso ve arkadaşı aşağıdakilerden hangisidir?",
+        "A": "Vilmos Huszar",
+        "B": "J.J. Oud",
+        "C": "Piet Mondrian",
+        "D": "Georges Braque",
         "E": "Theo van Doesburg",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -117,15 +137,35 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kübizm Akımının Öncüleri:<br/>Pablo Picasso ve arkadaşı Georges Braque’ın 1910 ve 1912 yılları arasında çalıştıkları yapıtlarına “Analitik Kübizm adı verilmiştir”."
+        "Aciklama": "MODERN SANAT AKIMLARI<br>Kübizm Akımının Öncüleri:<br/>Pablo Picasso ve arkadaşı Georges Braque’ın 1910 ve 1912 yılları arasında çalıştıkları yapıtlarına “Analitik Kübizm adı verilmiştir”."
+    },
+    {
+        "SoruID": 3234916,
+        "SoruMetni": "İtalyan şair Filippo Tommaso Marinetti tarafından 1909 yılında, bir Paris gazetesinin baş sayfasında gösterişli bir manifestonun yayınlanmasıyla dünyaya duyurulan modern sanat akımı aşağıdakilerden hangisidir?",
+        "A": "Dadaizm",
+        "B": "Kübizm",
+        "C": "Fütürizm",
+        "D": "Art Deco",
+        "E": "De Stijl",
+        "DogruCevap": "C",
+        "DersAd": "Görsel İletişim ve Tasarım Tarihi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.143290",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "MODERN SANAT AKIMLARI<br>Fütürizm Sanat Akımı:<br/>Fütürizm, anlı şanlı İtalyan şair Filippo Tommaso Marinetti tarafından 1909 yılında, bir Paris gazetesinin baş sayfasında gösterişli bir manifestonun yayınlanmasıyla dünyaya duyuruldu."
     },
     {
         "SoruID": 3234917,
         "SoruMetni": "Mona Lisa’nın eserinin reprodüksiyonuna bıyık yapması ile kamuoyunda şok etkisi yaratan Dadaist sanatçı aşağıdakilerden hangisidir?",
-        "A": "Robert Slimbach<br/><br/>",
-        "B": "Marcel Duchamp<br/><br/>",
-        "C": "Sumner Stone<br/><br/>",
-        "D": "Filippo Marinetti<br/><br/>",
+        "A": "Robert Slimbach",
+        "B": "Marcel Duchamp",
+        "C": "Sumner Stone",
+        "D": "Filippo Marinetti",
         "E": "David Carson",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -137,14 +177,14 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Marcel Duchamp’ın Mona Lisa’nın eserinin reprodüksiyonuna bıyık yapması, kamuoyunda şok etkisi yaratmıştır. Duchamp bu davranışıyla Mona Lisa’yı yermeyi düşünmemiştir, asıl hedef geleneğin zorbalığına ve Rönesans’ın hümanist ruhunu kaybetmiş bir halka yapılmış zekice bir saldırıyı gözler önüne sermek istemiştir. Dadaizm akımında kullanılan sözcüklerde de kelime oyunlarına gidilmiştir. Mona Lisa tablosunun altında yazan L.H.O.O.Q ibaresi Look (Bak) anlamına gelen İngilizce sözcüğünü anımsatmak için kullanılmıştır."
+        "Aciklama": "MODERN SANAT AKIMLARI<br>Marcel Duchamp’ın Mona Lisa’nın eserinin reprodüksiyonuna bıyık yapması, kamuoyunda şok etkisi yaratmıştır. Duchamp bu davranışıyla Mona Lisa’yı yermeyi düşünmemiştir, asıl hedef geleneğin zorbalığına ve Rönesans’ın hümanist ruhunu kaybetmiş bir halka yapılmış zekice bir saldırıyı gözler önüne sermek istemiştir. Dadaizm akımında kullanılan sözcüklerde de kelime oyunlarına gidilmiştir. Mona Lisa tablosunun altında yazan L.H.O.O.Q ibaresi Look (Bak) anlamına gelen İngilizce sözcüğünü anımsatmak için kullanılmıştır."
     },
     {
         "SoruID": 3234918,
         "SoruMetni": "Tasarım felsefesi “Az çoktur (Less is more)” ilkesi ile özdeşleşmiş olan, Rusya’daki Konstrüktivizm ve Hollanda’daki De Stijl tasarım anlayışının etkilerinin izlerini taşıyan modern sanat akımı aşağıdakilerden hangisidir?",
-        "A": "Fütürizm<br/><br/>",
-        "B": "Kübizm <br/><br/>",
-        "C": "Dadaizm<br/><br/>",
+        "A": "Fütürizm",
+        "B": "Kübizm",
+        "C": "Dadaizm",
         "D": "<br/>Art Deco",
         "E": "Bauhaus okulu",
         "DogruCevap": "E",
@@ -157,7 +197,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bauhaus okulu: Grafik tasarım tarihinin en önemli ve bilinen okullarından birisi olan Bauhaus, 1919 yılında Walter Gropius önderliğinde daha önce var olan bir Sanat Akademisi ile birleşerek “Staatliches Bauhaus Weimar” adıyla kurulmuştur. Bauhaus 20. yüzyılın tasarımının gelişiminde bir öncü niteliğinde olup, dönemin yaşam reformu hareketinin fikirlerinden yararlanmıştır. Bauhaus okulunun tasarım felsefesi “Az çoktur (Less is more)” ilkesi ile özdeşleşmiş olduğundan Rusya’daki Konstrüktivizm ve Hollanda’daki De Stijl tasarım anlayışının etkilerinin izlerini taşımaktadır."
+        "Aciklama": "DE STİJL SANAT AKIMI<br>Bauhaus okulu: Grafik tasarım tarihinin en önemli ve bilinen okullarından birisi olan Bauhaus, 1919 yılında Walter Gropius önderliğinde daha önce var olan bir Sanat Akademisi ile birleşerek “Staatliches Bauhaus Weimar” adıyla kurulmuştur. Bauhaus 20. yüzyılın tasarımının gelişiminde bir öncü niteliğinde olup, dönemin yaşam reformu hareketinin fikirlerinden yararlanmıştır. Bauhaus okulunun tasarım felsefesi “Az çoktur (Less is more)” ilkesi ile özdeşleşmiş olduğundan Rusya’daki Konstrüktivizm ve Hollanda’daki De Stijl tasarım anlayışının etkilerinin izlerini taşımaktadır."
+    },
+    {
+        "SoruID": 3234941,
+        "SoruMetni": "Lacerba dergi­sinde çıkan bir yazısında tipografik devrim yapma çağrısında bulunan sanatçı aşağıdakilerden hangisidir?",
+        "A": "A.M. Cassandre",
+        "B": "April Greiman",
+        "C": "E.M. Kauffer",
+        "D": "Filippo Marinetti",
+        "E": "Zuzana Licko",
+        "DogruCevap": "D",
+        "DersAd": "Görsel İletişim ve Tasarım Tarihi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.216172",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Tipografik uyum, yeni geliştirilen stilin sayfa üzerindeki oradan oraya savrulan, bomba gibi pat­layan, atlamalar yapan anarşik tavrına ters düştüğü için reddedilirken tipografinin görselliğine vurgu yapması özendirilmiştir.<br>Marinetti, Lacerba dergi­sinde çıkan bir yazısında tipografik devrim yapma çağrısında bulunmaktadır."
     },
     {
         "SoruID": 3234942,
@@ -177,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pablo Picasso bir eserinde tuvale sandalye hasırı deseni basılmış bir muşamba parçası yapıştırarak sandalyeyi anlatmış ve eserin kenarını gerçek bir halat ipi ile çerçevelemiştir."
+        "Aciklama": "Bu eser Şekil 4.3 de verilmiştir.<br>Pablo Picasso bir eserinde tuvale sandalye hasırı deseni basılmış bir muşamba parçası yapıştırarak sandalyeyi anlatmış ve eserin kenarını gerçek bir halat ipi ile çerçevelemiştir."
     },
     {
         "SoruID": 3234943,
@@ -197,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fütürizm, anlı şanlı İtalyan şair Filippo Tom­maso Marinetti tarafından 1909 yılında, bir Paris gazetesinin baş sayfasında gösterişli bir manifes­tonun yayınlanmasıyla dünyaya duyuruldu."
+        "Aciklama": "Fütürizm, her türlü tarihsel kavramı reddeden yazınsal bir reform hareketi olarak başlamıştır.<br>Fütürizm, anlı şanlı İtalyan şair Filippo Tom­maso Marinetti tarafından 1909 yılında, bir Paris gazetesinin baş sayfasında gösterişli bir manifes­tonun yayınlanmasıyla dünyaya duyuruldu."
     },
     {
         "SoruID": 3234944,
@@ -217,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Macar şair Tristan Tza­ra, 1917 yılında DADA adlı dergiyi çıkarmaya baş­lamıştır."
+        "Aciklama": "Macar şair Tristan Tza­ra, Dadaizmin öncülerinden biri olmuştur.<br>Macar şair Tristan Tza­ra, 1917 yılında DADA adlı dergiyi çıkarmaya baş­lamıştır."
     },
     {
         "SoruID": 3234945,
@@ -237,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Duchamp’ın Mona Lisa’nın eserinin reprodüksiyonuna bıyık yapması, kamuoyunda şok etkisi yaratmıştır."
+        "Aciklama": "Bu eser Şekil 4.11 de verilmiştir.<br>Duchamp’ın Mona Lisa’nın eserinin reprodüksiyonuna bıyık yapması, kamuoyunda şok etkisi yaratmıştır."
     },
     {
         "SoruID": 3234946,
@@ -257,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Georges Braque, Kübizm akımının öncülerindendir, diğerleri ise Dadaizm sanatçılarıdır."
+        "Aciklama": "Sayfa 98 de Dadaizm sanatçıları hakkında bilgi verilmektedir.<br>Georges Braque, Kübizm akımının öncülerindendir, diğerleri ise Dadaizm sanatçılarıdır."
     },
     {
         "SoruID": 3234947,
@@ -277,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Piet Mondrian, (1872-1944), “De Stijl” grubunun kurucularındandır ve bu akımın sanatçılarındandır."
+        "Aciklama": "Bu akımın önemli temsilcileri ve sanatçıları Theo Van Does­burg ve Piet Mondrian’dır.<br>Piet Mondrian, (1872-1944), “De Stijl” grubunun kurucularındandır ve bu akımın sanatçılarındandır."
     },
     {
         "SoruID": 3234948,
@@ -297,11 +357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "A.M. Cassandra, Art Deco sanat akımının önde gelen isimlerinden biridir."
+        "Aciklama": "Sayfa 101 ve 102 de A.M. Cassandra’nın tasarımları verilmiştir.<br>A.M. Cassandra, Art Deco sanat akımının önde gelen isimlerinden biridir."
     },
     {
         "SoruID": 3234949,
-        "SoruMetni": "……………… akımı, tasarımdaki Sübjektivizme (öznelcilik) karşı bir duruş sergilemektedir.<br/> Yukarıdaki boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "……………… akımı, tasarımdaki Sübjektivizme (öznelcilik) karşı bir duruş sergilemektedir.<br/>Yukarıdaki boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Kübizm",
         "B": "Dadaizm",
         "C": "De Stijl",
@@ -317,11 +377,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "De Stijl akımı, tasarımdaki Sübjektivizme (öznelcilik) karşı bir duruş sergilemektedir."
+        "Aciklama": "Eğri­sel çizgiler, yuvarlatılmış formlara sahip her öge dışlanmakta, dünya çapında bir birlik yakalamak üzere duygusallıktan yoksun, öznellik barındır­mayan görsel elemanlar aranmıştır.<br>De Stijl akımı, tasarımdaki Sübjektivizme (öznelcilik) karşı bir duruş sergilemektedir."
     },
     {
         "SoruID": 3234950,
-        "SoruMetni": "Londra Metrosu için 141 afiş tasarlayan Ed­ward Mcknight Kauffer, bu afişler sayesinde ulaşıma katkıda bulunmuş ve hafta sonu zevk için seyahatlerini kırsal alanlara yapmaya teşvik edici afişler hazırlayarak aşağıdaki hangi sanat akımına destek olmuştur?",
+        "SoruMetni": "Londra Metrosu için 141 afiş tasarlayan Ed­ward Mcknight Kauffer, bu afişler sayesinde ulaşıma katkıda bulunmuş ve hafta sonu zevk için seyahatlerini kırsal alanlara yapmaya teşvik edici afişler hazırlayarak aşağıdaki hangi sanat akımına destek olmuştur?",
         "A": "De Stijl",
         "B": "Kübizm",
         "C": "Art Deco",
@@ -337,7 +397,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Londra Metrosu için 141 afiş tasarlayan Ed­ward Mcknight Kauffer, bu afişler sayesinde ulaşıma katkıda bulunmuş ve hafta sonu zevk için seyahatlerini kırsal alanlara yapmaya teşvik edici afişler hazırlayarak Art deco akımına destek olmuştur."
+        "Aciklama": "Ka­uffer manzara ile görsel etki elde etmiş, indirgeyici tasarımla posterlerdeki konuları, karmaşık ortam­ları düzenleyerek birbirine geçen şekiller ile yarat­mıştır.<br>Londra Metrosu için 141 afiş tasarlayan Ed­ward Mcknight Kauffer, bu afişler sayesinde ulaşıma katkıda bulunmuş ve hafta sonu zevk için seyahatlerini kırsal alanlara yapmaya teşvik edici afişler hazırlayarak Art deco akımına destek olmuştur."
+    },
+    {
+        "SoruID": 3235448,
+        "SoruMetni": "Aşağıdaki modern sanat akımlarından hangisi görsel iletişimin grafik dilini doğrudan <u>etkilememiştir?</u>",
+        "A": "Romantizm",
+        "B": "Kübizm",
+        "C": "Fütürizm",
+        "D": "Dadaizm",
+        "E": "Sürrealizm",
+        "DogruCevap": "A",
+        "DersAd": "Görsel İletişim ve Tasarım Tarihi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.244176",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kübizm, Fütürizm, Dada ve Sürrealizm, gibi modern sanat akımları görsel iletişimin grafik dilini doğrudan etkilerken De Stijl ve Art Deco gibi akımlarda belirli bir biçim üzerine yoğunlaşarak özgün bir dil yakalamışlardır.<br>Sorunun doğru cevabı A seçeneğinde verilmiştir"
     },
     {
         "SoruID": 3235449,
@@ -357,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı B seçeneğinde verilmiştir"
+        "Aciklama": "Future (gelecek) kelimesinden çıkışla Fütürist manifestoda savaşların verdiği heyecanı, makine çağını, hız kavramını, modern yaşamı ve devrim yüceltilirken toplumun katılaşmış değerlerine karşı çıkarak, eskiye bağlı ne varsa göz ardı edilmesini istemişlerdir.<br>Sorunun doğru cevabı B seçeneğinde verilmiştir"
     },
     {
         "SoruID": 3235450,
@@ -377,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı C seçeneğinde verilmiştir"
+        "Aciklama": "Dadaistler geleneksel sanata karşı duruşlarını, geleneği reddederek yozlaşmış bir toplumla alay ederek aşağıladıklarını ortaya koydukları çalışmalarla gösterirken, fütürizmin görsel dilinden de faydalanmışlardır.<br>Sorunun doğru yanıtı C seçeneğinde verilmiştir"
     },
     {
         "SoruID": 3235451,
@@ -397,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı D seçeneğinde verilmiştir."
+        "Aciklama": "Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişim Art Deco’nun şekillenmesinde de etkili olmuştur.<br>Sorunun doğru cevabı D seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3235452,
@@ -417,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı E seçeneğinde verilmiştir"
+        "Aciklama": "Art deco akımının bir diğer önemli ismi de Edward Mcknight Kauffer’dır. Londra Metrosu için 141 afiş tasarlayan tasarımcı, bu afişler sayesinde ulaşıma katkıda bulunmuş ve hafta sonu zevk için seyahatlerini kırsal alanlara yapmaya teşvik edici afişler hazırlayarak bu akıma destek olmuştur.<br>Sorunun doğru cevabı E seçeneğinde verilmiştir"
     },
     {
         "SoruID": 3235453,
@@ -437,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı E seçeneğinde verilmiştir"
+        "Aciklama": "Kral mezarlarını süsleyen çapraz motifler, oteller, benzin istasyonları, sinema salonları ve gökdelenleri süsleyen bitki ve hayvan tasvirleri ya da şelale izlenimi veren dikey ve güçlü bloklar, Art Deco’yu farklılaştıran ve zenginleştiren bu anlayışların net birer örneği olarak da okunabilir.<br>Sorunun doğru cevabı E seçeneğinde verilmiştir"
     },
     {
         "SoruID": 3235454,
@@ -457,7 +537,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı D seçeneğinde verilmiştir."
+        "Aciklama": "<ol start=\"20\"><br/><li>yüzyıl başlarında Hollanda’da “De Stijl” olarak adlandırılan modernist bir tasarım akımı görsel sanatların bütün alanlarında etkisini hissettirmeye başlamıştır. </li><br/></ol><br>Sorunun doğru cevabı D seçeneğinde verilmiştir."
+    },
+    {
+        "SoruID": 3235455,
+        "SoruMetni": "Aşağıdakilerden hangisi De Stijl modern sanat akımının temel özelliklerinden birisi <u>değildir?</u>",
+        "A": "Biçimlerin daima dik açılı kullanılması",
+        "B": "Kırmızı rengin kullanılması",
+        "C": "Yeşil rengin kullanılması",
+        "D": "Mavi rengin kullanılması",
+        "E": "Sarı rengin kullanılması",
+        "DogruCevap": "C",
+        "DersAd": "Görsel İletişim ve Tasarım Tarihi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.279899",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "“De Stijl’in iki ana özelliği –resim, mimari, plastik, iç mekân tasarımı veya kitap tasarımı dâhil– biçimlerin daima dik açılı, renklerin ise temel renkler–kırmızı, mavi ve sarıdan oluşmasıdır.<br>Sorunun doğru yanıtı C seçeneğinde verilmiştir"
     },
     {
         "SoruID": 3235456,
@@ -477,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı B seçeneğinde verilmiştir"
+        "Aciklama": "Bu akımın önemli temsilcileri ve sanatçıları Theo Van Doesburg ve Piet Mondrian’dır. Mondrian, kübist resimleri gördükten sonra onlardan etkilenerek geleneksel manzara resminden vazgeçmiş, sembolik bir tasarım anlayışına yönelmiştir. 105<br>Sorunun doğru yanıtı B seçeneğinde verilmiştir"
     },
     {
         "SoruID": 3235457,
@@ -497,11 +597,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı A seçeneğinde verilmiştir."
+        "Aciklama": "Grafik tasarım tarihinin en önemli ve bilinen okullarından birisi olan Bauhaus okulunun tasarım felsefesi “Az çoktur (Less is more)” ilkesi ile özdeşleşmiş olduğundan Rusya’daki Konstrüktivizm ve Hollanda’daki De Stijl tasarım anlayışının etkilerinin izlerini taşımaktadır.<br>Sorunun doğru cevabı A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3235458,
-        "SoruMetni": "Doğanın gerçekçiliğinden bağımsız bir sanat kavramı yaratarak yeni bir sanatsal gelenek ve görme biçimi kazandırmıştır.<br/> <span>Yukarıda sözü edilen sanat akımı aşağıdakilerden hangisidir?</span>",
+        "SoruMetni": "Doğanın gerçekçiliğinden bağımsız bir sanat kavramı yaratarak yeni bir sanatsal gelenek ve görme biçimi kazandırmıştır.<br/><span>Yukarıda sözü edilen sanat akımı aşağıdakilerden hangisidir?</span>",
         "A": "Kübizm",
         "B": "Fütürizm",
         "C": "Dadaizm",
@@ -517,11 +617,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kübizm"
+        "Aciklama": "<br/>Sanat tarihinde gerçekçi olma geleneğini yıkan Kübizm, doğadan gerçekçiliğinden bağımsız bir sanat kavramı yaratarak yeni bir sanatsal gelenek ve görme biçimi kazandırmıştır. Kübizm soyut bir sanat akımı görünümüde olmasına rağmen gerçekçi bir sanat akımı olan realizmden daha fazla gerçekle ilgilenmiştir çünkü somut bir kavramı soyut hâle getirmek için öncelikle onun çok iyi bir biçimde analiz edilmesi gerekmektedir.<br>Kübizm"
     },
     {
         "SoruID": 3235459,
-        "SoruMetni": "Bu dönemde, konunun düzlemlerini genellikle birkaç bakış açısından analiz ettiler ve bu algıları ritmik geometrik düzlemlerden oluşan bir resim oluşturmak için kullanmışlardır. Asıl konu, uzamsal ilişkilerde kullanılan şekiller, renkler, dokular ve değerlerdir. Yapısalcı (Strüktürel) bir sanat eseri oluşturmak için somut biçimler yerine, görsel açıdan incelenmesini ele almışlardır.<br/> <span>Yukarıda açıklanan sanat akımı aşağıdakilerden hangisidir?</span>",
+        "SoruMetni": "Bu dönemde, konunun düzlemlerini genellikle birkaç bakış açısından analiz ettiler ve bu algıları ritmik geometrik düzlemlerden oluşan bir resim oluşturmak için kullanmışlardır. Asıl konu, uzamsal ilişkilerde kullanılan şekiller, renkler, dokular ve değerlerdir. Yapısalcı (Strüktürel) bir sanat eseri oluşturmak için somut biçimler yerine, görsel açıdan incelenmesini ele almışlardır.<br/><span>Yukarıda açıklanan sanat akımı aşağıdakilerden hangisidir?</span>",
         "A": "Fütürizm",
         "B": "Art Deco",
         "C": "De Stijl",
@@ -537,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kübizm"
+        "Aciklama": "<br/>Pablo Picasso ve arkadaşı Georges Braque’ın 1910 ve 1912 yılları arasında çalıştıkları yapıtlarına “Analitik Kübizm adı verilmiştir”. Analitik Kübizm döneminde yapılan eserlerde sanatçılar, konuda işlenen elemanların planlarını değişik açılardan ele alıp analiz ettikten sonra bir araya getirdikleri parçaları ritmik bir kompozisyon oluşturmak için kullanmışlardır. Bu dönemde, konunun düzlemlerini genellikle birkaç bakış açısından analiz ettiler ve bu algıları ritmik geometrik düzlemlerden oluşan bir resim oluşturmak için kullanmışlardır. Asıl konu, uzamsal ilişkilerde kullanılan şekiller, renkler, dokular ve değerlerdir. Yapısalcı (Strüktürel) bir sanat eseri oluşturmak için somut biçimler yerine, görsel açıdan incelenmesini ele almışlardır."
     },
     {
         "SoruID": 3235460,
@@ -557,11 +657,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fütürizm"
+        "Aciklama": "<br/>Future (gelecek) kelimesinden çıkışla Fütürist manifestoda savaşların verdiği heyecanı, makine çağını, hız kavramını, modern yaşamı ve devrim yüceltilirken toplumun katılaşmış değerlerine karşı çıkarak, eskiye bağlı ne varsa göz ardı edilmesini istemişlerdir. Marinetti ve yandaşları bomba etkisi yaratan bu fikirleri ile coşku dolu bir şiir geliştirerek, yazılı ifadenin sözdizimi, dil bilgisi kuralına göre kullanılmasına meydan okumuşlardır.<br>Fütürizm"
     },
     {
         "SoruID": 3235461,
-        "SoruMetni": "Teknolojik ilerlemeye körükörüne bağlanmanın yüzeyselliğini, toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto etmiştir.<br/> <span>Yukarıdaki özellikler hangi sanat akımına </span>aittir?",
+        "SoruMetni": "Teknolojik ilerlemeye körükörüne bağlanmanın yüzeyselliğini, toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto etmiştir.<br/><span>Yukarıdaki özellikler hangi sanat akımına </span>aittir?",
         "A": "Fütürizm",
         "B": "Kübizm",
         "C": "Dadaizm",
@@ -577,11 +677,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dadaizm"
+        "Aciklama": "<br/>I. Dünya Savaşı’nın katliamlarına ve savaşa duyulan nefretten doğan Dadaizm, teknolojik ilerlemeye körükörüne bağlanmanın yüzeyselliğini, toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto etmiştir.<br/>Dadaizmin her şeye karşı olan tavrı, kendilerinin bile “dada” sözcüğünün anlamı üzerinde ortak bir kanıya varmalarını engellemiştir. Ancak sözlük anlamı ne olursa olsun anlamsız bir sözcük olarak kullanılan bu isim Dada’nın tavrına ve felsefesine tam anlamıyla uymaktadır. Macar şair Tristan Tzara, 1917 yılında DADA adlı dergiyi çıkarmaya başlamış ve Dadaizmin öncülerinden biri olmuştur."
     },
     {
         "SoruID": 3235462,
-        "SoruMetni": "Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişim .............. şekillenmesinde de etkili olmuştur.<br/> <span>Yukarıda boş bırakılan yere hangi sanat akımı gelebilir?</span>",
+        "SoruMetni": "Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişim .............. şekillenmesinde de etkili olmuştur.<br/><span>Yukarıda boş bırakılan yere hangi sanat akımı gelebilir?</span>",
         "A": "Fütürizm",
         "B": "Dadaizm",
         "C": "Kübizm",
@@ -597,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Art Deco"
+        "Aciklama": "<br/>Art Deco akımı adını, 1925 yılında Paris’te düzenlenen ‘Modern Dekoratif ve Endüstriyel Sanatlar Sergisi’nden almıştır. Kendinden önceki Art Nouveau akımına karşı bir duruş sergileyen akım, modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi amaçlamıştır. Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişim Art Deco’nun şekillenmesinde de etkili olmuştur. Art Deco tasarımlarında düz ve keskin hatlar, geometrik şekiller, hızı temsilen aerodinamik formlar ve aydınlık renkler öne çıkmaktadır. Bu akımın önde gelen isimlerinden biri olan A.M. Cassandra’nın tasarımlarında bu etkileri görmek mümkündür."
     },
     {
         "SoruID": 3235463,
@@ -621,7 +721,7 @@
     },
     {
         "SoruID": 3235464,
-        "SoruMetni": "20. yüzyılın tasarımının gelişiminde bir öncü niteliğinde olup, dönemin yaşam reformu hareketinin fikirlerinden yararlanmıştır. Tasarım felsefesi “Az çoktur (Less is more)” ilkesi ile özdeşleşmiş olduğundan Rusya’daki Konstrüktivizm ve Hollanda’daki De Stijl tasarım anlayışının etkilerinin izlerini taşımaktadır.<br/> <span>Sözü edilen sanat akımı hangisidir?</span>",
+        "SoruMetni": "20. yüzyılın tasarımının gelişiminde bir öncü niteliğinde olup, dönemin yaşam reformu hareketinin fikirlerinden yararlanmıştır. Tasarım felsefesi “Az çoktur (Less is more)” ilkesi ile özdeşleşmiş olduğundan Rusya’daki Konstrüktivizm ve Hollanda’daki De Stijl tasarım anlayışının etkilerinin izlerini taşımaktadır.<br/><span>Sözü edilen sanat akımı hangisidir?</span>",
         "A": "Bauhaus Okulu",
         "B": "De Stijl",
         "C": "Dadaizm",
@@ -646,7 +746,7 @@
         "B": "Dünya çapında bir birlik yakalamak üzere duygusallıktan yoksundur",
         "C": "Bu akımın önemli temsilcileri Theo Van Doesburg ve Piet Mondrian’dır",
         "D": "Resimlerin temel elemanları olan dikey ve yataylar çizgiler, düşünsel karşıtlıkların görsel ifadesidir",
-        "E": "Savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve  protesto eder",
+        "E": "Savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve protesto eder",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
         "Unite": 4,
@@ -657,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve  protesto eder"
+        "Aciklama": "Savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve protesto eder"
     },
     {
         "SoruID": 3235466,
@@ -901,7 +1001,7 @@
     },
     {
         "SoruID": 3235513,
-        "SoruMetni": "\"<span style=\"text-decoration: underline;\"><strong>...</strong> </span>  sanat akımlarında renk ve biçim, sosyal protesto aracı olarak kullanılmış ve kişisel duygusal durumlar hakkında fikir üretmek birçok sanatçının uğraşı olmuştur. <span style=\"text-decoration: underline;\"><strong>...</strong></span>  Sanat, 20. yüzyılda Avrupa’da ve Batı etkisindeki diğer bölgelerde resim, heykel ve tasarım sanatında kendini göstermiştir\" anlatımında yer alan boşluklara gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"<span style=\"text-decoration: underline;\"><strong>...</strong> </span> sanat akımlarında renk ve biçim, sosyal protesto aracı olarak kullanılmış ve kişisel duygusal durumlar hakkında fikir üretmek birçok sanatçının uğraşı olmuştur. <span style=\"text-decoration: underline;\"><strong>...</strong></span> Sanat, 20. yüzyılda Avrupa’da ve Batı etkisindeki diğer bölgelerde resim, heykel ve tasarım sanatında kendini göstermiştir\" anlatımında yer alan boşluklara gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Modern",
         "B": "Görsel",
         "C": "Plastik",
@@ -922,11 +1022,11 @@
     {
         "SoruID": 3235514,
         "SoruMetni": "Aşağıdaki sanatçılardan hangisi Kübizm akımında yer alır?",
-        "A": "<br/> <br/> <br/> <br/>Filippo Tommaso Marinetti<br/><br/><br/><br/>",
+        "A": "<br/>Filippo Tommaso Marinetti",
         "B": "George Braque",
-        "C": "<br/> <br/> <br/> <br/>Mallarme<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Fortunato Depero<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Emile Zola<br/><br/><br/><br/>",
+        "C": "<br/>Mallarme",
+        "D": "<br/>Fortunato Depero",
+        "E": "<br/>Emile Zola",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
         "Unite": 4,
@@ -937,15 +1037,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Pablo Picasso ve <span style=\"text-decoration: underline;\"><strong>Georges Braque</strong></span>, Kübizm'in öncüleridir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Pablo Picasso ve <span style=\"text-decoration: underline;\"><strong>Georges Braque</strong></span>, Kübizm'in öncüleridir."
     },
     {
         "SoruID": 3235515,
-        "SoruMetni": "<br/> <br/> <br/> <br/>\"Her türlü tarihsel kavramı reddeden yazınsal bir reform hareketi olarak başlayan <span style=\"text-decoration: underline;\"><strong>...,</strong></span> genç İtalyan sanatçıların Marinetti’nin çağrısına canı gönülden karşılık vermesiyle kısa sürede diğer disiplinlere de yayıldı\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>\"Her türlü tarihsel kavramı reddeden yazınsal bir reform hareketi olarak başlayan <span style=\"text-decoration: underline;\"><strong>...,</strong></span> genç İtalyan sanatçıların Marinetti’nin çağrısına canı gönülden karşılık vermesiyle kısa sürede diğer disiplinlere de yayıldı\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Analitik Kübizm",
         "B": "Fluxus",
         "C": "Fütürizm",
-        "D": "<br/> <br/> <br/> <br/>De Stijl<br/><br/><br/><br/>",
+        "D": "<br/>De Stijl",
         "E": "Art Nouveau",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -957,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Her türlü tarihsel kavramı reddeden yazınsal bir reform hareketi olarak başlayan <span style=\"text-decoration: underline;\"><strong>Fütürizm</strong></span>, genç İtalyan sanatçıların Marinetti’nin çağrısına canı gönülden karşılık vermesiyle kısa sürede diğer disiplinlere de yayıldı.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Her türlü tarihsel kavramı reddeden yazınsal bir reform hareketi olarak başlayan <span style=\"text-decoration: underline;\"><strong>Fütürizm</strong></span>, genç İtalyan sanatçıların Marinetti’nin çağrısına canı gönülden karşılık vermesiyle kısa sürede diğer disiplinlere de yayıldı."
     },
     {
         "SoruID": 3235516,
@@ -981,11 +1081,11 @@
     },
     {
         "SoruID": 3235517,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi amaçlayan, Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişimle şekillenen sanat akımı aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Konstrüktivizm<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi amaçlayan, Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişimle şekillenen sanat akımı aşağıdakilerden hangisidir?",
+        "A": "<br/>Konstrüktivizm",
         "B": "Bauhaus",
-        "C": "<br/> <br/> <br/> <br/>Crude Art<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Fransız Art Concret<br/><br/><br/><br/>",
+        "C": "<br/>Crude Art",
+        "D": "<br/>Fransız Art Concret",
         "E": "Art Deco",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -997,11 +1097,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi amaçlamıştır. Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişim <span style=\"text-decoration: underline;\"><strong>Art Deco</strong>’</span>nun şekillenmesinde de etkili olmuştur.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi amaçlamıştır. Savaş sonrası dönemden sonra rahatlamaya başlayan toplumsal düzendeki sosyal değişimlerin de etkisiyle birlikte mimari, tasarım, dekorasyon, görsel sanatlar ve moda gibi alanlardaki değişim <span style=\"text-decoration: underline;\"><strong>Art Deco</strong>’</span>nun şekillenmesinde de etkili olmuştur."
     },
     {
         "SoruID": 3235518,
-        "SoruMetni": "\"Geometrik formların yaygın kullanıldığı <span style=\"text-decoration: underline;\"><strong>...</strong>  </span>ve Bauhaus etkilerinden farklı olarak Art Deco akımında daha yumuşatılmış formlar öne çıkmaktadır\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Geometrik formların yaygın kullanıldığı <span style=\"text-decoration: underline;\"><strong>...</strong> </span>ve Bauhaus etkilerinden farklı olarak Art Deco akımında daha yumuşatılmış formlar öne çıkmaktadır\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Konstrüktivizm",
         "B": "Dadaizm",
         "C": "Sentetik kübizm",
@@ -1021,12 +1121,12 @@
     },
     {
         "SoruID": 3235519,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Art Deco, döneminde tasarlanan yazı karakteri olan “Peignot” aşağıdaki sanatçılardan hangisine aittir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Mcknight Kauffer<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>A.M. Cassandra<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>John Hartfield<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Kurt Schwitters<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Filippo Marinetti<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Art Deco, döneminde tasarlanan yazı karakteri olan “Peignot” aşağıdaki sanatçılardan hangisine aittir?",
+        "A": "<br/>Mcknight Kauffer",
+        "B": "<br/>A.M. Cassandra",
+        "C": "<br/>John Hartfield",
+        "D": "<br/>Kurt Schwitters",
+        "E": "<br/>Filippo Marinetti",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
         "Unite": 4,
@@ -1037,11 +1137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><span style=\"text-decoration: underline;\"><strong>A.M. Cassandre</strong></span>'nin Peignot yazı karakterinin yapısında da  Art Deco akımının yumuşatılmış formlarının izlerini görmek mümkündür.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><span style=\"text-decoration: underline;\"><strong>A.M. Cassandre</strong></span>'nin Peignot yazı karakterinin yapısında da Art Deco akımının yumuşatılmış formlarının izlerini görmek mümkündür."
     },
     {
         "SoruID": 3235520,
-        "SoruMetni": "<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>ABD’nin önemli silüetleri arasında yer alan Chrysler Binası, Empire State ve Rockefeller Center hangi sanat akımı içinde değerlendirilebilir?<br/><br/><br/><br/><br/><br/><br/><br/>",
+        "SoruMetni": "<br/>ABD’nin önemli silüetleri arasında yer alan Chrysler Binası, Empire State ve Rockefeller Center hangi sanat akımı içinde değerlendirilebilir?",
         "A": "Kübizm",
         "B": "Art Nouveau",
         "C": "Art Deco",
@@ -1057,11 +1157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>ABD’nin önemli silüetleri, erken 20. yüzyılın en güçlü mimari imgelerine dönüşmüş oldu. Amerikan kapitalizmini resmeden bu yapıların, daha mekanik ve güçlü birer gösterge haline gelmesi amaçlanıyordu. Chrysler Binası, Empire State ve Rockefeller Center da yine bu dönemde ve <span style=\"text-decoration: underline;\"><strong>Art Deco</strong> </span>mantığında tasarlandı.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>ABD’nin önemli silüetleri, erken 20. yüzyılın en güçlü mimari imgelerine dönüşmüş oldu. Amerikan kapitalizmini resmeden bu yapıların, daha mekanik ve güçlü birer gösterge haline gelmesi amaçlanıyordu. Chrysler Binası, Empire State ve Rockefeller Center da yine bu dönemde ve <span style=\"text-decoration: underline;\"><strong>Art Deco</strong> </span>mantığında tasarlandı."
     },
     {
         "SoruID": 3235521,
-        "SoruMetni": "<br/> <br/> <br/> <br/>20. yüzyıl başlarında <span style=\"text-decoration: underline;\"><strong>“De Stijl”</strong></span> olarak adlandırılan ve görsel sanatların bütün alanlarında etkisini hissettirmeye başlayan modernist tasarım akımı hangi ülkede ortaya çıkmıştır?<br/><br/>  <br/><br/><br/>",
+        "SoruMetni": "<br/>20. yüzyıl başlarında <span style=\"text-decoration: underline;\"><strong>“De Stijl”</strong></span> olarak adlandırılan ve görsel sanatların bütün alanlarında etkisini hissettirmeye başlayan modernist tasarım akımı hangi ülkede ortaya çıkmıştır?",
         "A": "ABD",
         "B": "Almanya",
         "C": "İngiltere",
@@ -1077,16 +1177,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>20. yüzyıl başlarında <span style=\"text-decoration: underline;\"><strong>Hollanda</strong></span>’da “De Stijl” olarak adlandırılan modernist bir tasarım akımı görsel sanatların bütün alanlarında etkisini hissettirmeye başlamıştır.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>20. yüzyıl başlarında <span style=\"text-decoration: underline;\"><strong>Hollanda</strong></span>’da “De Stijl” olarak adlandırılan modernist bir tasarım akımı görsel sanatların bütün alanlarında etkisini hissettirmeye başlamıştır."
     },
     {
         "SoruID": 3235522,
-        "SoruMetni": "<br/> <br/> <br/> <br/>\"<span style=\"text-decoration: underline;\"><strong>...,</strong></span> kübist resimleri gördükten sonra onlardan etkilenerek geleneksel manzara resminden vazgeçmiş, sembolik bir tasarım anlayışına yönelmiştir. Resimlerinde kullandığı temel elemanlar olan dikey ve yataylar çizgiler, düşünsel karşıtlıkların görsel ifadesidir\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Theo Van Doesburg<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Walter Gropius<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>J.J. Oud<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Vilmos Huszar<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Piet Mondrian<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>\"<span style=\"text-decoration: underline;\"><strong>...,</strong></span> kübist resimleri gördükten sonra onlardan etkilenerek geleneksel manzara resminden vazgeçmiş, sembolik bir tasarım anlayışına yönelmiştir. Resimlerinde kullandığı temel elemanlar olan dikey ve yataylar çizgiler, düşünsel karşıtlıkların görsel ifadesidir\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
+        "A": "<br/>Theo Van Doesburg",
+        "B": "<br/>Walter Gropius",
+        "C": "<br/>J.J. Oud",
+        "D": "<br/>Vilmos Huszar",
+        "E": "<br/>Piet Mondrian",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
         "Unite": 4,
@@ -1097,7 +1197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><span style=\"text-decoration: underline;\"><strong>Piet Mondrian</strong></span>, kübist resimleri gördükten sonra onlardan etkilenerek geleneksel manzara resminden vazgeçmiş, sembolik bir tasarım anlayışına yönelmiştir. Resimlerinde kullandığı temel elemanlar olan dikey ve yataylar çizgiler, düşünsel karşıtlıkların görsel ifadesidir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><span style=\"text-decoration: underline;\"><strong>Piet Mondrian</strong></span>, kübist resimleri gördükten sonra onlardan etkilenerek geleneksel manzara resminden vazgeçmiş, sembolik bir tasarım anlayışına yönelmiştir. Resimlerinde kullandığı temel elemanlar olan dikey ve yataylar çizgiler, düşünsel karşıtlıkların görsel ifadesidir."
     },
     {
         "SoruID": 3235523,
@@ -1160,10 +1260,50 @@
         "Aciklama": "I. Dünya Savaşı’nın katliamlarına ve savaşa duyulan nefretten doğan Dadaizm, teknolojik ilerlemeye körü körüne bağlanmanın yüzeyselliğini, toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto etmiştir."
     },
     {
+        "SoruID": 3235526,
+        "SoruMetni": "Aşağıdakilerden hangisi Art Nouveau akımına karşı bir duruş sergileyen ve ardından adını 1925 yılında Paris’te düzenlenen ‘Modern Dekoratif ve Endüstriyel Sanatlar Sergisi’nden alan sanat akımıdır?",
+        "A": "Art Deco",
+        "B": "Kübizm",
+        "C": "Fütürizm",
+        "D": "Dada",
+        "E": "Sürrealizm",
+        "DogruCevap": "A",
+        "DersAd": "Görsel İletişim ve Tasarım Tarihi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.179513",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Art Deco akımı adını, 1925 yılında Paris’te düzenlenen ‘Modern Dekoratif ve Endüstriyel Sanatlar Sergisi’nden almıştır. Kendinden önceki Art Nouveau akımına karşı bir duruş sergileyen akım, modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi amaçlamıştır."
+    },
+    {
+        "SoruID": 3235532,
+        "SoruMetni": "Grafik tasarım tarihinin en önemli okullarından birisi olan Bauhaus, hangi yıl kurulmuştur?",
+        "A": "1919",
+        "B": "1918",
+        "C": "1917",
+        "D": "1916",
+        "E": "1915",
+        "DogruCevap": "A",
+        "DersAd": "Görsel İletişim ve Tasarım Tarihi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.208095",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Bauhaus okulu: Grafik tasarım tarihinin en önemli ve bilinen okullarından birisi olan Bauhaus, 1919 yılında Walter Gropius önderliğinde daha önce var olan bir Sanat Akademisi ile birleşerek “Staatliches Bauhaus Weimar” adıyla kurulmuştur."
+    },
+    {
         "SoruID": 3235533,
-        "SoruMetni": "Aşağıdakilerden hangisi Art Deco akımının özelliklerinden biri değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Art Deco akımının özelliklerinden biri değildir?",
         "A": "Doğal formları kapsar",
-        "B": "Pahalı süslemeler içerir.",
+        "B": "Pahalı süslemeler içerir.",
         "C": "Sade renkler içerir.",
         "D": "Simetri özelliği göze çarpar.",
         "E": "Geometrik formları kapsar",
@@ -1177,7 +1317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Art Deco Üslubu<br/> Çoğu zaman akışkan görünen Art Deco tasarımları, geometrik olduğu kadar doğal formları da kapsıyor. Bu akımın ayrıca iddialı renklere ve pahalı süslemelere de yoğun bir ilgisi mevcut. Modern makinelerin kusursuz görünen işçiliğine hayranlık duyan Art Deco çatısı altında simetri ve kusursuz bir biçimde yeniden üretme (tasarımların birbirine olan benzerliği) göze çarpıyor."
+        "Aciklama": "Art Deco Üslubu<br/>Çoğu zaman akışkan görünen Art Deco tasarımları, geometrik olduğu kadar doğal formları da kapsıyor. Bu akımın ayrıca iddialı renklere ve pahalı süslemelere de yoğun bir ilgisi mevcut. Modern makinelerin kusursuz görünen işçiliğine hayranlık duyan Art Deco çatısı altında simetri ve kusursuz bir biçimde yeniden üretme (tasarımların birbirine olan benzerliği) göze çarpıyor."
     },
     {
         "SoruID": 3235534,
@@ -1242,7 +1382,7 @@
     {
         "SoruID": 3235537,
         "SoruMetni": "“Doğa orantılarını yıkarken sanatçı, temel sanatsal orantıları ortaya çıkarır.” sözünü kim söylemiştir?",
-        "A": "<br/> <br/> <br/> <br/>J.J. Oud<br/><br/><br/><br/>",
+        "A": "<br/>J.J. Oud",
         "B": "Georges Braque",
         "C": "Vilmos Huszar",
         "D": "Theo van Doesburg",

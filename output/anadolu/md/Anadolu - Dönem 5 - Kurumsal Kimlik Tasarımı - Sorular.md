@@ -119,7 +119,8 @@
     - D-) Kurumsal iletişim
     - E-) Kurum felsefesi
 
-    > **Açıklama:** Kurumsal Kimliğin Unsurları (Bileşenleri):  Kurum Felsefesi, Kurumsal Davranış, Kurumsal İletişim, Kurumsal Tasarım.
+    > **Açıklama:** KURUMSAL KİMLİK
+    > Kurumsal Kimliğin Unsurları (Bileşenleri): Kurum Felsefesi, Kurumsal Davranış, Kurumsal İletişim, Kurumsal Tasarım.
 
     ***
 1. “Markanın zihinlerde algılanmasını ve hatırlanmasını sağlayan en önemli unsur” olarak yapılan tanım aşağıdakilerden hangisine aittir?
@@ -129,7 +130,8 @@
     - D-) Kurum felsefesi
     - E-) Kurumsal kimlik
 
-    > **Açıklama:** Görsel kimlik, markanın zihinlerde algılanmasını ve hatırlanmasını sağlayan en önemli unsurdur. Görsel kimlik, bir markanın “giyindiği elbise” olarak düşünülebilir.
+    > **Açıklama:** Kurumsal kimlik
+    > Görsel kimlik, markanın zihinlerde algılanmasını ve hatırlanmasını sağlayan en önemli unsurdur. Görsel kimlik, bir markanın “giyindiği elbise” olarak düşünülebilir.
 
     ***
 1. Aşağıdakilerden hangisi görsel kimliğin niteliklerinden biridir?
@@ -149,7 +151,8 @@
     - D-) Tasarım dönemi
     - E-) Stratejik dönem
 
-    > **Açıklama:** Kurumsal kimliğin geçmişten günümüze kadar geçirdiği evreler ve özellikleri incelendiğinde, bu süreci dört dönem olarak sınıflandırmak mümkündür (Okay, 2003). Bu evreler; geleneksel dönem, marka teknikleri dönemi, tasarım dönemi ve stratejik dönem olarak sınıflandırılabilir.
+    > **Açıklama:** Kurumsal kimlikte tarihsel süreçler
+    > Kurumsal kimliğin geçmişten günümüze kadar geçirdiği evreler ve özellikleri incelendiğinde, bu süreci dört dönem olarak sınıflandırmak mümkündür (Okay, 2003). Bu evreler; geleneksel dönem, marka teknikleri dönemi, tasarım dönemi ve stratejik dönem olarak sınıflandırılabilir.
 
     ***
 1. Kurumsal kimliğin geleneksel dönemi hangi zaman dilimini kapsar?
@@ -159,7 +162,8 @@
     - D-) İkinci Dünya Savaşı dönemi
     - E-) İkinci Dünya Savaşı’ndan sonraki dönem
 
-    > **Açıklama:** Geleneksel dönem, Birinci Dünya Savaşı’nın sonuna kadar süren bir zaman dilimini ifade eder.
+    > **Açıklama:** KURUMSAL KİMLİKTE TARİHSEL SÜREÇLER
+    > Geleneksel dönem, Birinci Dünya Savaşı’nın sonuna kadar süren bir zaman dilimini ifade eder.
 
     ***
 1. Geleneksel dönemde kurumsal kimlik tasarımına yönelik ilk çabalar hangi yılllarda sergilenmiştir?
@@ -169,7 +173,8 @@
     - D-) 1840’lı yıllar
     - **Cevap E-) 1850’li yıllar**
 
-    > **Açıklama:** Geleneksel dönemde kurumsal kimlik tasarımına yönelik ilk çabalar, 1850’li yıllarda İngiliz demiryolu şirketleri tarafından sergilenmiştir.
+    > **Açıklama:** KURUMSAL KİMLİKTE TARİHSEL SÜREÇLER
+    > Geleneksel dönemde kurumsal kimlik tasarımına yönelik ilk çabalar, 1850’li yıllarda İngiliz demiryolu şirketleri tarafından sergilenmiştir.
 
     ***
 1. Geleneksel dönemde kurumsal kimlik talebiyle tasarımcı görevlendiren ilk kurum aşağıdakilerden hangisidir?
@@ -179,17 +184,19 @@
     - **Cevap D-) AEG**
     - E-) Krupp
 
-    > **Açıklama:** Geleneksel dönemde AEG kurumsal kimlik talebiyle tasarımcı görevlendiren ilk kurum olmuştur.
+    > **Açıklama:** KURUMSAL KİMLİKTE TARİHSEL SÜREÇLER
+    > Geleneksel dönemde AEG kurumsal kimlik talebiyle tasarımcı görevlendiren ilk kurum olmuştur.
 
     ***
-1. Kaligrafi tarzındaki Coca-Cola logosu Frank Mason Robinson tarafından hangi yılda tasarlanmıştır?
+1. Kaligrafi tarzındaki Coca-Cola logosu Frank Mason Robinson tarafından hangi yılda tasarlanmıştır?
     - **Cevap A-) 1885**
     - B-) 1886
     - C-) 1887
     - D-) 1888
     - E-) 1889
 
-    > **Açıklama:** Aynı dönemde Coca-Cola da önemli bir marka olarak öne çıkmıştır (Okay, 2018). 1885 yılında Frank Mason Robinson tarafından tasarlanan kaligrafi tarzındaki logo, o günden bu yana değişmeden gelmiştir (Heller ve Vienne, 2016). Kurumsal kimlik tasarımının temellerini oluşturan bu tasarım, günümüzde hâlâ geçerliliğini korumaktadır.
+    > **Açıklama:** KURUMSAL KİMLİKTE TARİHSEL SÜREÇLER
+    > Aynı dönemde Coca-Cola da önemli bir marka olarak öne çıkmıştır (Okay, 2018). 1885 yılında Frank Mason Robinson tarafından tasarlanan kaligrafi tarzındaki logo, o günden bu yana değişmeden gelmiştir (Heller ve Vienne, 2016). Kurumsal kimlik tasarımının temellerini oluşturan bu tasarım, günümüzde hâlâ geçerliliğini korumaktadır.
 
     ***
 1. “Kurum kimliği” ifadesi Lipincott ve Margulies (L&M) ajansı tarafından ilk kez hangi ülkede kullanılmıştır?
@@ -199,7 +206,8 @@
     - D-) Avusturya
     - E-) Almanya
 
-    > **Açıklama:** Amerika Birleşik Devletleri’nde bu alanda öncü bir ajans olan Lipincott ve Margulies’tir. Lipincott ve Margulies (L&M) ajansı “kurum kimliği” ifadesini ilk kez kullanan ajans olarak bilinir.
+    > **Açıklama:** KURUMSAL KİMLİKTE TARİHSEL SÜREÇLER
+    > Amerika Birleşik Devletleri’nde bu alanda öncü bir ajans olan Lipincott ve Margulies’tir. Lipincott ve Margulies (L&M) ajansı “kurum kimliği” ifadesini ilk kez kullanan ajans olarak bilinir.
 
     ***
 1. Aşağıdakilerden hangisi monolitik kimlik özelliklerinden biridir?
@@ -209,7 +217,8 @@
     - **Cevap D-) Bu tür işletmeleri kontrol etmek, ana kuruluş tarafından kolay, ekonomik ve ucuz bir şekilde gerçekleştirilir**
     - E-) Kuruluşların, faaliyet gösterdikleri ülkelere bağlı olarak, üretim yerleri değişkenlik gösterebilmektedir
 
-    > **Açıklama:** Olins’e göre monolitik kimlikle faaliyet gösteren işletmeler, şu özelliklere sahiptir: • Organizasyon tarafından tanıtılan her ürün ve hizmetin aynı isme, tarza, niteliklere ve karaktere sahip olmasından dolayı tek kimliğin esas gücü ortaya çıkar. • Bu tür işletmeleri kontrol etmek, ana kuruluş tarafından kolay, ekonomik ve ucuz bir şekilde gerçekleştirilir. • Kimlik bakımından dar bir alanda çalışırlar. • Uzun ömürlü işletmelerdir. Tek kimliğe sahip işletmelerin tanınırlık oranı daha yüksektir; bu da pazar açısından büyük bir avantaj sağlar.
+    > **Açıklama:** KURUMSAL KİMLİK YAPILARI
+    > Olins’e göre monolitik kimlikle faaliyet gösteren işletmeler, şu özelliklere sahiptir: • Organizasyon tarafından tanıtılan her ürün ve hizmetin aynı isme, tarza, niteliklere ve karaktere sahip olmasından dolayı tek kimliğin esas gücü ortaya çıkar. • Bu tür işletmeleri kontrol etmek, ana kuruluş tarafından kolay, ekonomik ve ucuz bir şekilde gerçekleştirilir. • Kimlik bakımından dar bir alanda çalışırlar. • Uzun ömürlü işletmelerdir. Tek kimliğe sahip işletmelerin tanınırlık oranı daha yüksektir; bu da pazar açısından büyük bir avantaj sağlar.
 
     ***
 ## Unite 2
@@ -240,7 +249,7 @@
     - D-) Şekil markası
     - E-) Renk markası
 
-    > **Açıklama:** **Karma Marka:** Markanın hem sözcüklerden hem de resimlerden oluştuğu markadır. Örneğin,  BMW’nin mavi beyaz çemberli logosu ve adı gibi karma markalar vardır.
+    > **Açıklama:** **Karma Marka:** Markanın hem sözcüklerden hem de resimlerden oluştuğu markadır. Örneğin, BMW’nin mavi beyaz çemberli logosu ve adı gibi karma markalar vardır.
 
     ***
 1. Aşağıdakilerden hangisi tescilsiz markalara örnek gösterilebilir?
@@ -250,7 +259,7 @@
     - **Cevap D-) Google**
     - E-) McDonald’s
 
-    > **Açıklama:** Tescilsiz Marka: Markanın resmî olarak kaydedilmediği ancak kullanım hakkına sahip olduğu markadır. Tescilsiz markalar, TM işareti ile gösterilir. Örneğin, **Google** TM gibi tescilsiz markalar vardır. Burada bulunan “TM” İngilizce “Trade Mark” kelimelerinin ilk harfleridir. TM markanın tescil başvurusu yapıldığını ifade eden bir açılımı temsil eder.
+    > **Açıklama:** Tescilsiz Marka: Markanın resmî olarak kaydedilmediği ancak kullanım hakkına sahip olduğu markadır. Tescilsiz markalar, TM işareti ile gösterilir. Örneğin, **Google** TM gibi tescilsiz markalar vardır. Burada bulunan “TM” İngilizce “Trade Mark” kelimelerinin ilk harfleridir. TM markanın tescil başvurusu yapıldığını ifade eden bir açılımı temsil eder.
 
     ***
 1. Bir işletmenin veya ürünün kendine özgü bir kimlik oluşturarak tüketicilerin zihinlerinde yer edinmesi süreci aşağıdakilerden hangisidir?
@@ -274,7 +283,7 @@
     > B seçeneği dışındakiler markalaşma ile ilgili olup. B seçeneği kurum vizyonunu tanımlayan bir ifadedir.
 
     ***
-1. Markanın ismi, logo, renkler, tipografi ve diğer görsel ögelerin tasarlanması süreçlerini içeren ve  bu ögelerle markanın tanınabilirliğini ve ayırt ediciliğini artıran bileşen aşağıdakilerden hangisidir?
+1. Markanın ismi, logo, renkler, tipografi ve diğer görsel ögelerin tasarlanması süreçlerini içeren ve bu ögelerle markanın tanınabilirliğini ve ayırt ediciliğini artıran bileşen aşağıdakilerden hangisidir?
     - **Cevap A-) Marka Kimliği Oluşturma**
     - B-) Marka Stratejisi ve Konumlandırma
     - C-) Marka Farkındalığı ve Tanıtım
@@ -321,7 +330,7 @@
     - D-) İşletme
     - **Cevap E-) Kurum**
 
-    > **Açıklama:** Kurum
+    > **Açıklama:** **Kurum:** Genellikle bir kamu kuruluşunu, özel sektör firmasını veya toplumun bir bölümünü ifade eder.
 
     ***
 1. Bir işletmenin değerlerini, kalitesini, benzersizliğini ve müşterilere sunduğu vaatleri yansıtan, bir ürün, hizmet veya organizasyonun tanınmışlığını anlatan kavram aşağıdakilerden hangisidir?
@@ -331,7 +340,7 @@
     - D-) Örgüt
     - E-) İşletme
 
-    > **Açıklama:** Marka
+    > **Açıklama:** **Marka,** sadece bir isim veya logo değil aynı zamanda bir işletmenin değerlerini, kalitesini, benzersizliğini ve müşterilere sunduğu vaatleri yansıtan bir varlıktır.
 
     ***
 1. Markalama pratiğinin ilk örneklerinden olan sektör aşağıdakilerden hangisine aittir?
@@ -341,7 +350,9 @@
     - D-) Sebzecilik
     - E-) Toptancılık
 
-    > **Açıklama:** Hayvancılık
+    > **Açıklama:** “BRAND” (marka) kelimesi eski İskandinav dilinde yer alan “BRANDR” (yakmak) kökünden gelir.
+    > O dönemde, çiftçilerin **hayvanlarına belirgin işaretler koyarak** onları tanımlamaları, markalama pratiğinin **ilk örneklerindendir.**
+    > Hayvancılık
 
     ***
 1. Markanın farklı kullanım şekilleri bulunmaktadır. Aşağıdakilerden hangisi bu şekillerden **değildir?**
@@ -351,7 +362,10 @@
     - D-) Kurum/Kuruluş olarak marka
     - E-) Ürün olarak marka
 
-    > **Açıklama:** Hedef kitle olarak marka
+    > **Açıklama:** Markanın, ürün olarak marka, kurum/kuruluş olarak marka, kişi olarak marka ve sembol olarak
+    > marka gibi farklı kullanım şekilleri bulunmaktadır. Bu kavramlar, markanın farklı yönlerini ve kullanım
+    > şekillerini temsil eder. **Ürün olarak marka, Kişi olarak marka, Sembol olarak marka, Kurum/Kuruluş olarak marka.** Detaylı sayfa 37. bkz.
+    > Hedef kitle olarak marka
 
     ***
 1. “Başarılı markalar zamanla değişen pazar koşullarına ayak uydurabilir ve yeniliklere açık olabilir olma” özelliği markanın başarılı bir şekilde oluşturulmasında temel ilkelerindendir. Bu temel ilke aşağıdakilerden hangisidir?
@@ -361,7 +375,7 @@
     - **Cevap D-) İnovasyon ve Uyarlanabilirlik**
     - E-) Hedef Kitlenin Tanınması
 
-    > **Açıklama:** İnovasyon ve Uyarlanabilirlik
+    > **Açıklama:** **İnovasyon ve Uyarlanabilirlik:** Başarılı markalar zamanla değişen pazar koşullarına ayak uydurabilir ve yeniliklere açık olabilir. İnovasyon ve uyarlanabilirlik, markanın uzun vadeli başarısını destekler.
 
     ***
 1. Aşağıdakilerden hangisi “Markanın Kapsamına Göre Marka Türlerinden” **değildir?**
@@ -371,7 +385,7 @@
     - D-) Bireysel Marka
     - E-) Kurumsal Marka
 
-    > **Açıklama:** Karma Marka
+    > **Açıklama:** “Markanın Kapsamına Göre Marka Türleri; **Ortak Marka, Aile Markası, Bireysel Marka ve Kurumsal Marka'dır.** *Karma Marka* Markanın Biçimine Göre olan Marka Türlerindendir.
 
     ***
 1. Markanın hem sözcüklerden hem de resimlerden oluştuğu marka aşağıdakilerden hangisidir?
@@ -381,7 +395,9 @@
     - D-) Bireysel Marka
     - **Cevap E-) Karma Marka**
 
-    > **Açıklama:** Karma Marka
+    > **Açıklama:** **Karma Marka:** Markanın hem sözcüklerden hem de resimlerden oluştuğu markadır. Örneğin,
+    > Pepsi’nin mavi kırmızı yuvarlak logosu ve adı, BMW’nin mavi beyaz çemberli logosu ve adı gibi karma
+    > markalar vardır.
 
     ***
 1. Marka logolarının yanında karşılaşılması muhtemel işaretler bulunur. Bir eserin telif hakkının sahibine ait olduğunu ve eserin izinsiz kullanılmasının yasak olduğunu belirten işaret aşağıdakilerden hangisidir?
@@ -391,7 +407,8 @@
     - D-) B
     - E-) SM
 
-    > **Açıklama:** C
+    > **Açıklama:** marka logolarının yanında karşılaşılması muhtemel **“C”** harfi ise, **“Copyright”** yani telif hakkı
+    > anlamına gelir. Bu simge, bir eserin telif hakkının sahibine ait olduğunu ve eserin izinsiz kullanılmasının yasak olduğunu belirtir. *Özellikle yazılı eserler, resimler, müzikler gibi yaratıcı çalışmalar* için kullanılır.
 
     ***
 1. Marka kimliği, diğer benzer ürünlerden farklılaşmayı yaratan bazı güçlü, etkili özellikleri vardır. Aşağıdakilerden hangisi bu özelliklerden **değildir?**
@@ -401,7 +418,9 @@
     - D-) Duygusal Bağ
     - E-) Paylaşım
 
-    > **Açıklama:** Rekabet
+    > **Açıklama:** Marka kimliği, diğer benzer ürünlerden farklılaşmayı yaratan, tüketiciye ürünü sahip olma, **tutarlılık**
+    > **ve güven, duygusal bağ, markayı diğer tüketiciler ile paylaşma duygularını** veren, üretici için ise pazarda güçlü bir konumlandırma olanağı sunan bir kavram olarak tanımlanmıştır.
+    > Rekabet
 
     ***
 1. Marka mimarisinin, *“bir markanın hedef kitlesi içinde nasıl algılandığını, hangi pazar segmentlerine hitap ettiğini ve rakiplerine göre nasıl farklılaştığını belirleme sürecini ifade eden”* beş temel öğesinden aşağıdakilerden hangisidir?
@@ -411,7 +430,7 @@
     - **Cevap D-) Marka Konumlandırması**
     - E-) Marka Kişiliği
 
-    > **Açıklama:** Marka Konumlandırması
+    > **Açıklama:** **Marka konumlandırması:** Marka mimarisinin temel bir bileşenidir ve markanın hedef kitlesi içinde nasıl algılandığını, hangi pazar segmentlerine hitap ettiğini ve rakiplerine göre nasıl farklılaştığını belirleme sürecini ifade eder.
 
     ***
 ## Unite 3
@@ -436,7 +455,7 @@
     > Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şekline Monolitik (Tekli Kimlik) denilmektedir. Monolitik (Tek- li Kimlik) için verilecek örnekler arasında, Shell, THY, Mcdonalds verilebilir.
 
     ***
-1. Aşağıdakilerden hangisi veya hangileri  Kurum Logosunu anlamlandırabilmekle, bir markanın gücünü ve günlük hayatımızı nasıl şekillendirebileceğini tanımlamaktadır?<br />I. Markalaşmayı tanımlamak<br />II. Markalaşmanın amacını anlamak<br />III. Markalaşma sürecini planlamak<br />IV. Markalaşmayı öğrenmek<br />V: Kurumsal Kimliğin amacını anlamak<br />VI. Kurumsal Kimlik tasarım süreci hakkında bilgi sahibi olmak
+1. Aşağıdakilerden hangisi veya hangileri Kurum Logosunu anlamlandırabilmekle, bir markanın gücünü ve günlük hayatımızı nasıl şekillendirebileceğini tanımlamaktadır?<br />I. Markalaşmayı tanımlamak<br />II. Markalaşmanın amacını anlamak<br />III. Markalaşma sürecini planlamak<br />IV. Markalaşmayı öğrenmek<br />V: Kurumsal Kimliğin amacını anlamak<br />VI. Kurumsal Kimlik tasarım süreci hakkında bilgi sahibi olmak
     - **Cevap A-) Hepsi**
     - B-) II/III/IV/V/VI
     - C-) I/II/III/IV/V
@@ -473,7 +492,7 @@
     > Başka bir tasarım ögesinin yapamayacağı kadar etkili bir şekilde mesajını iletebilen renk; sözsüz iletimin en etkili görsel ögesidir.
 
     ***
-1. Aşağıdakilerden hangisi, günlük hayatımızda oldukça sık karşılaştığımız, farklı birçok konuda, ileti (mesaj) aktarımını sağlayarak bizleri uyaran ve hayatımızı kolaylaştıran sembollere verilen isimdir?
+1. Aşağıdakilerden hangisi, günlük hayatımızda oldukça sık karşılaştığımız, farklı birçok konuda, ileti (mesaj) aktarımını sağlayarak bizleri uyaran ve hayatımızı kolaylaştıran sembollere verilen isimdir?
     - **Cevap A-) Piktogram**
     - B-) Görsel algı
     - C-) Kurumsal kimlik
@@ -525,6 +544,10 @@
     > İletişim hede eri nelerdir?
     > Simgeler neyi temsil etmektedir?
     > Simgeler bir sistemin parçası mıdır?
+    > Sistem genelinde hangi tarzda çalışılacak ve tüm tasarım projesi için uygulanacak mı?
+    > Mobil medya, cep telefonu sosyal medya ortamları için kullanıma uygun mu?
+    > Bir simge sistemi tasarlamak, net bir tasarım konsepti ve ölçü, perspektif, şekiller, çizgi, renk ve doku gibi görsel öğelerin tutarlı bir şekilde kurgu- lanmasını gerektirir.
+    > Bir sistemdeki simgelerde üslup birliği olmalıdır.
 
     ***
 1. Nesneleri birbirine benzemesi, ritim oluşturacak şekilde grup veya motif şeklinde görünmesi ilkesine ne denir?
@@ -545,7 +568,19 @@
     - D-) I-III-IV-V
     - **Cevap E-) I-II-III-IV-V**
 
-    > **Açıklama:** Doğru yanıt E şıkkıdır
+    > **Açıklama:** Başarılı bir logonun özellikleri;
+    > Yalın bir görüntüsel özelliğe sahip olmalı.
+    > Estetik olmalı ve göze hoş gelmelidir.
+    > Farklı ölçü boyutlarında değer kaybetmemelidir.
+    > Amblem ve logoyu oluşturan unsurlarda denge ve görsel hiyerarşi
+    > gözetilmelidir.
+    > Akılda kalıcı olmalı.
+    > Baskı sürecine ve teknolojilerine uygun olarak hazırlanmalı.
+    > Renk ögesi kurum kimliğini destekleyici nitelikte ve iletilmek istenen
+    > anlama yönelik tercih edilmelidir.
+    > Tipografi ve yazı karakterleri iletilmek istenen mesaja veya anlama
+    > yönelik seçilmelidir
+    > Doğru yanıt E şıkkıdır
     > **Başarılı bir logonun özellikleri**
     > Yalın bir görüntüsel özelliğe sahip olmalı.
     > Estetik olmalı ve göze hoş gelmelidir.
@@ -616,7 +651,7 @@
 
     > **Açıklama:** Ticari planları ***soyutlaştırma*** değildir.
     > Doğru olan cümle şöyledir;
-    > **Ticari planları somutlaştırma** olacaktır (sayfa 99. bkz).
+    > **Ticari planları somutlaştırma** olacaktır (sayfa 99. bkz).
     > Cevap şıkkı D' dir.
 
     ***
@@ -658,7 +693,7 @@
     > Beyin Fırtınası, yaratıcı düşünme sürecini teşvik etmek ve yeni fikirler geliştirmek için kullanılan bir grup çalışması yöntemidir.
 
     ***
-1. Bir tasarımın basıldığında nasıl görüneceğini tahmin etme,  son üründe kullanılacak gerçek kâğıt, mürekkep setleri ve asıl baskının alınacağı makineden alınan bir çıktı örneğine ne denir?
+1. Bir tasarımın basıldığında nasıl görüneceğini tahmin etme, son üründe kullanılacak gerçek kâğıt, mürekkep setleri ve asıl baskının alınacağı makineden alınan bir çıktı örneğine ne denir?
     - **Cevap A-) Baskı Provası**
     - B-) Uygulama Aşaması
     - C-) Geri Bildirim Aşaması
@@ -690,7 +725,8 @@
     - D-) Gelişim problemi
     - E-) İşlemli problem
 
-    > **Açıklama:** Çözülmemiş sorunun tanımı, çözüm için kullanılabilecek olası işlemlerin belirlenmesi, çözülmüş problemin tanımı, çözümün hemen belli olmaması gibi özelliklere sahip bir problem tanımlı problemdir
+    > **Açıklama:** Doğru yanıt A şıkkıdır
+    > Çözülmemiş sorunun tanımı, çözüm için kullanılabilecek olası işlemlerin belirlenmesi, çözülmüş problemin tanımı, çözümün hemen belli olmaması gibi özelliklere sahip bir problem tanımlı problemdir
 
     ***
 1. Gerçek hayatta var olan, çözülmemiş sorunun tanımı, çözüm için kullanılabilecek olası işlemlerin belirlenmesi, çözülmüş problemin tanımı, çözümün hemen belli olmaması gibi özelliklerin tamamına sahip olmayan problemler ne olarak isimlendirilir?
@@ -700,17 +736,19 @@
     - D-) Gelişim problemi
     - **Cevap E-) Tanımsız problem**
 
-    > **Açıklama:** Gerçek hayatta var olan, çözülmemiş sorunun tanımı, çözüm için kullanılabilecek olası işlemlerin belirlenmesi, çözülmüş problemin tanımı, çözümün hemen belli olmaması gibi özelliklerin tamamına sahip olmayan problemler tanımsız problemlerdir
+    > **Açıklama:** Yanıt E şıkkıdır
+    > Gerçek hayatta var olan, çözülmemiş sorunun tanımı, çözüm için kullanılabilecek olası işlemlerin belirlenmesi, çözülmüş problemin tanımı, çözümün hemen belli olmaması gibi özelliklerin tamamına sahip olmayan problemler tanımsız problemlerdir
 
     ***
 1. Yaratıcılık ile ilgili çalışmalar üç ana akım bakış açısıyla ele alınabilir. Birinci yaklaşımlarda yaratıcılık ……… bir nitelik olarak ele alınır. İkincil yaklaşımlarda …….. olarak ele alını. Üçüncü akımda ise ……… boyutunu ele alır.<br />Yukarıda yaratıcılık tanımlarıyla ilgili yaklaşımlarda yer alan boşlukları doğru ve sıralı şekilde tamamlayan ifadeler aşağıdakilerden hangileridir?
     - **Cevap A-) Bireysel - Üretken bir çaba - Sosyal etkileşim**
-    - B-) Üretken bir çaba - Bireysel -  Sosyal etkileşim
+    - B-) Üretken bir çaba - Bireysel - Sosyal etkileşim
     - C-) Bireysel - Sosyal etkileşim - Üretken bir çaba
     - D-) Sosyal etkileşim - Üretken bir çaba - Bireysel
     - E-) Sosyal etkileşim -Bireysel - Üretken bir çaba
 
-    > **Açıklama:** Yaratıcılık ile ilgili çalışmalar üç ana akım bakış açısıyla ele alınabilir. Birinci yaklaşımlarda yaratıcılık bireysel bir nitelik olarak ele alınır. İkincil yaklaşımlarda üretken bir çaba olarak ele alını. Üçüncü akımda ise sosyal etkileşim boyutunu ele alır.
+    > **Açıklama:** Doğru sıralama A şıkkıdır
+    > Yaratıcılık ile ilgili çalışmalar üç ana akım bakış açısıyla ele alınabilir. Birinci yaklaşımlarda yaratıcılık bireysel bir nitelik olarak ele alınır. İkincil yaklaşımlarda üretken bir çaba olarak ele alını. Üçüncü akımda ise sosyal etkileşim boyutunu ele alır.
 
     ***
 1. Olası çözümler için bir arka plan olarak kullanılabilecek çok sayıda yeni fikir üretme eylemi aşağıdakilerden hangisidir?
@@ -720,7 +758,8 @@
     - D-) Eleştirel düşünme
     - E-) Gözlem yapma
 
-    > **Açıklama:** Olası çözümler için bir arka plan olarak kullanılabilecek çok sayıda yeni fikir üretme eylemi ıraksak düşünmedir.
+    > **Açıklama:** Doğru yanıt C şıkkıdır
+    > Olası çözümler için bir arka plan olarak kullanılabilecek çok sayıda yeni fikir üretme eylemi ıraksak düşünmedir.
 
     ***
 1. Farklı kaynaklardan veya fikirlerden bilgi birleştirme, azaltılmış bir fikir kümesi geliştirme ve nihayetinde çeşitli değerlendirmeler sonucunda uygun bir tek çözüm bulma çabası aşağıdakilerden hangisidir?
@@ -730,7 +769,8 @@
     - D-) Eleştirel düşünme
     - E-) Gözlem yapma
 
-    > **Açıklama:** Farklı kaynaklardan veya fikirlerden bilgi birleştirme, azaltılmış bir fikir kümesi geliştirme ve nihayetinde çeşitli değerlendirmeler sonucunda uygun bir tek çözüm bulma çabası yakınsak düşünmedir.
+    > **Açıklama:** Doğru yanıt A şıkkıdır
+    > Farklı kaynaklardan veya fikirlerden bilgi birleştirme, azaltılmış bir fikir kümesi geliştirme ve nihayetinde çeşitli değerlendirmeler sonucunda uygun bir tek çözüm bulma çabası yakınsak düşünmedir.
 
     ***
 1. Tasarım ekibi, kurumun, markanın ve ürünün kimliği ve hedefleri hakkında derinlemesine bir anlayış geliştirdiği aşama aşağıdakilerden hangisidir?
@@ -740,7 +780,8 @@
     - D-) İlkörnek oluşturma
     - E-) Deneyimleme
 
-    > **Açıklama:** Tasarım ekibi, kurumun, markanın ve ürünün kimliği ve hedefleri hakkında derinlemesine bir anlayış geliştirdiği aşama tanımlama aşamasıdır
+    > **Açıklama:** Doğru yanıt C şıkkıdır
+    > Tasarım ekibi, kurumun, markanın ve ürünün kimliği ve hedefleri hakkında derinlemesine bir anlayış geliştirdiği aşama tanımlama aşamasıdır
 
     ***
 1. Tasarım ekibinin içerik ve rekabet analizleri yaptığı,mevcut pazar koşulları, rakiplerin kimlikleri ve sektör trendleri gibi faktörleri araştırdığı ve hedef kitlenin ihtiyaçlarını ve beklentilerini değerlendirdiği aşama hangisidir?
@@ -750,7 +791,8 @@
     - D-) İlkörnek oluşturma
     - E-) Deneyimleme
 
-    > **Açıklama:** Tasarım ekibinin içerik ve rekabet analizleri yaptığı,mevcut pazar koşulları, rakiplerin kimlikleri ve sektör trendleri gibi faktörleri araştırdığı ve hedef kitlenin ihtiyaçlarını ve beklentilerini değerlendirdiği aşama keşfetme aşamasıdır
+    > **Açıklama:** Doğru yanıt A şıkkıdır
+    > Tasarım ekibinin içerik ve rekabet analizleri yaptığı,mevcut pazar koşulları, rakiplerin kimlikleri ve sektör trendleri gibi faktörleri araştırdığı ve hedef kitlenin ihtiyaçlarını ve beklentilerini değerlendirdiği aşama keşfetme aşamasıdır
 
     ***
 1. Keşfetme aşamasında, markanın müşteri deneyimini daha iyi anlamak, duygusal bağlantıları incelemek ve strateji geliştirmek için önemli bir araç olarak görülen analiz türü hangisidir?
@@ -760,7 +802,8 @@
     - **Cevap D-) Temas noktaları analizi**
     - E-) Kullanıcı haritaları analizi
 
-    > **Açıklama:** Keşfetme aşamasında, markanın müşteri deneyimini daha iyi anlamak, duygusal bağlantıları incelemek ve strateji geliştirmek için önemli bir araç olarak görülen analiz türü temas noktaları analizidir
+    > **Açıklama:** Doğru yanıt D şıkkıdır
+    > Keşfetme aşamasında, markanın müşteri deneyimini daha iyi anlamak, duygusal bağlantıları incelemek ve strateji geliştirmek için önemli bir araç olarak görülen analiz türü temas noktaları analizidir
 
     ***
 1. Belirli bir kavramı, duyguyu veya temayı bir dizi resim, renk ve diğer görsel ögeler ile yansıtan görsel kolaj aşağıdakilerden hangisidir?
@@ -770,7 +813,8 @@
     - D-) İlham panoları
     - E-) Prototip
 
-    > **Açıklama:** Belirli bir kavramı, duyguyu veya temayı bir dizi resim, renk ve diğer görsel ögeler ile yansıtan görsel kolaj duygu panolarıdır
+    > **Açıklama:** Doğru yanıt B şıkkıdır
+    > Belirli bir kavramı, duyguyu veya temayı bir dizi resim, renk ve diğer görsel ögeler ile yansıtan görsel kolaj duygu panolarıdır
 
     ***
 1. Hedef kitleden bilgi toplamak için hazırlanan bir dizi soru ve diğer ipuçlarını içeren araştırma araçları aşağıdakilerden hangisidir?
@@ -780,7 +824,8 @@
     - D-) Temas noktaları analizi
     - E-) Kullanıcı haritaları
 
-    > **Açıklama:** Hedef kitleden bilgi toplamak için hazırlanan bir dizi soru ve diğer ipuçlarını içeren araştırma araçları anketlerdir
+    > **Açıklama:** Doğru yanıt B şıkkıdır
+    > Hedef kitleden bilgi toplamak için hazırlanan bir dizi soru ve diğer ipuçlarını içeren araştırma araçları anketlerdir
 
     ***
 ## Unite 5
@@ -891,7 +936,8 @@
     - **Cevap D-) Tasarım sürecinin yalnızca görsel boyutunu vurgulamak**
     - E-) Tasarımın gerçek dünyadaki işlevini göstermek
 
-    > **Açıklama:** Tasarım sürecinin yalnızca görsel boyutunu vurgulamak, bu işlevlerden biri değildir
+    > **Açıklama:** Doğru yanıt D şıkkıdır
+    > Tasarım sürecinin yalnızca görsel boyutunu vurgulamak, bu işlevlerden biri değildir
 
     ***
 1. Bir markanın çeşitli kanallardaki mesajlarında kullandığı tutarlı ve ayırt edici ton, stil ve iletişim biçimini ifade eden kavram aşağıdakilerden hangisidir?
@@ -901,7 +947,8 @@
     - D-) Marka sayfası
     - E-) Marka karşılaması
 
-    > **Açıklama:** Bir markanın çeşitli kanallardaki mesajlarında kullandığı tutarlı ve ayırt edici ton, stil ve iletişim biçimini ifade eden kavram marka sesidir
+    > **Açıklama:** Doğru yanıt A şıkkıdır
+    > Bir markanın çeşitli kanallardaki mesajlarında kullandığı tutarlı ve ayırt edici ton, stil ve iletişim biçimini ifade eden kavram marka sesidir
 
     ***
 1. Markanın tekliflerini, değerlerini ve özelliklerini net ve farklı bir şekilde şekillendirerek rakiplerinden ayrıştıran süreci ifade eden kavram aşağıdakilerden hangisidir?
@@ -911,7 +958,8 @@
     - **Cevap D-) Marka konumlandırma**
     - E-) Marka stratejisi
 
-    > **Açıklama:** Markanın tekliflerini, değerlerini ve özelliklerini net ve farklı bir şekilde şekillendirerek rakiplerinden ayrıştıran süreci ifade eden kavram marka konumlandırmadır.
+    > **Açıklama:** Doğru yanıt D şıkkıdır
+    > Markanın tekliflerini, değerlerini ve özelliklerini net ve farklı bir şekilde şekillendirerek rakiplerinden ayrıştıran süreci ifade eden kavram marka konumlandırmadır.
 
     ***
 1. Kurumun ismini, sembolünü veya bunların kombinasyonunu içerebilen, markanın sembolik temsili olan unsur hangisidir?
@@ -921,7 +969,8 @@
     - D-) Font
     - E-) Renk
 
-    > **Açıklama:** Kurumun ismini, sembolünü veya bunların kombinasyonunu içerebilen, markanın sembolik temsili olan unsur logodur
+    > **Açıklama:** Doğru yanıt B şıkkıdır
+    > Kurumun ismini, sembolünü veya bunların kombinasyonunu içerebilen, markanın sembolik temsili olan unsur logodur
 
     ***
 1. Aşağıdakilerden hangisi CMYK modu içerisinde yer alan bir kavram değildir?
@@ -931,7 +980,8 @@
     - D-) Yellow
     - E-) Key
 
-    > **Açıklama:** Blue, CMYK içerisinde yer almaz
+    > **Açıklama:** Doğru yanıt C şıkkıdır
+    > Blue, CMYK içerisinde yer almaz
 
     ***
 1. Aşağıdakilerden hangisi kurum kimliği kataloğunda kullanılacak renklerle ilgili dikkat edilmesi gereken unsurlardan biri **değildir**?
@@ -941,7 +991,8 @@
     - D-) Renk paleti, markanın tüm iletişim materyallerinde ve kanallarında tutarlı bir şekilde kullanılmalıdır
     - **Cevap E-) Çok fazla renk kullanmak tasarımı daha iyi hale getirir**
 
-    > **Açıklama:** Çok fazla renk kullanmak tasarımı daha karmaşık bir hale getirir.
+    > **Açıklama:** Doğru yanıt E şıkkıdır
+    > Çok fazla renk kullanmak tasarımı daha karmaşık bir hale getirir.
 
     ***
 1. Renk trendlerine yön veren ve her yıl “Yılın Rengi”ni belirleyerek tasarımcıların ve markaların renk seçimlerini güncel tutmalarına katkıda bulunan renk sistemi aşağıdakilerden hangisidir?
@@ -951,7 +1002,8 @@
     - D-) Switcher
     - E-) HEX
 
-    > **Açıklama:** Renk trendlerine yön veren ve her yıl “Yılın Rengi”ni belirleyerek tasarımcıların ve markaların renk seçimlerini güncel tutmalarına katkıda bulunan renk sistemi Pantone'dir.
+    > **Açıklama:** Doğru yanıt B şıkkıdır
+    > Renk trendlerine yön veren ve her yıl “Yılın Rengi”ni belirleyerek tasarımcıların ve markaların renk seçimlerini güncel tutmalarına katkıda bulunan renk sistemi Pantone'dir.
 
     ***
 1. Aşağıdakilerden hangisi karmaşık veya soyut konuları anlatırken hikâyeler veya anekdotlar kullanarak anlatımı daha çekici, anlaşılır ve etkili hâle getirme yöntemidir?
@@ -961,7 +1013,8 @@
     - D-) Vurgulama
     - E-) Retorik
 
-    > **Açıklama:** Karmaşık veya soyut konuları anlatırken hikâyeler veya anekdotlar kullanarak anlatımı daha çekici, anlaşılır ve etkili hâle getirme yöntemi hikayeleştirmedir
+    > **Açıklama:** Doğru yanıt A şıkkıdır.
+    > Karmaşık veya soyut konuları anlatırken hikâyeler veya anekdotlar kullanarak anlatımı daha çekici, anlaşılır ve etkili hâle getirme yöntemi hikayeleştirmedir
 
     ***
 1. Yapılan tasarımın gerçek dünyaya uygulandığında nasıl görüneceğini, malzeme ile uyumunu ve etkisini kağıt üzerinde görmeye yarayan araç aşağıdakilerden hangisidir?
@@ -971,7 +1024,8 @@
     - D-) Retorik
     - E-) Logo
 
-    > **Açıklama:** Yapılan tasarımın gerçek dünyaya uygulandığında nasıl görüneceğini, malzeme ile uyumunu ve etkisini kağıt üzerinde görmeye yarayan araç mockup olarak isimlendirilir
+    > **Açıklama:** Doğru yanıt B şıkkıdır
+    > Yapılan tasarımın gerçek dünyaya uygulandığında nasıl görüneceğini, malzeme ile uyumunu ve etkisini kağıt üzerinde görmeye yarayan araç mockup olarak isimlendirilir
 
     ***
 1. Ürün tasarımının gerçek boyutlu veya ölçekli modellerinin bulunduğu, ürünün şekli, renkleri ve detayları gerçekçi bir şekilde görüntülendiği mockup türü hangisidir?
@@ -981,7 +1035,8 @@
     - D-) Web mockuplar
     - E-) Mobil mockuplar
 
-    > **Açıklama:** Ürün tasarımının gerçek boyutlu veya ölçekli modellerinin bulunduğu, ürünün şekli, renkleri ve detayları gerçekçi bir şekilde görüntülendiği mockup türü fiziksel ürün mockuplardır.
+    > **Açıklama:** Doğru yanıt C şıkkıdır.
+    > Ürün tasarımının gerçek boyutlu veya ölçekli modellerinin bulunduğu, ürünün şekli, renkleri ve detayları gerçekçi bir şekilde görüntülendiği mockup türü fiziksel ürün mockuplardır.
 
     ***
 ## Unite 6
@@ -1085,7 +1140,7 @@
     > **Açıklama:** Simon Sinek’in kıymetli bir TED konuşmasında dile getirdiği Altın Çember (Golden Circle) prensibi, kuvvetli ve etkileyici bir iletişim metodolojisi sunmaktadır. Sinek, bu konuşmasında etkili iletişim kurabilecek bireylerin, ne yaptıklarından ziyade niçin yaptıklarına dair ifadelere öncelik verdiklerini belirtmiştir. Bunun doğrudan bir iş birliği yaratabileceği ya da söz konusu bireyin ifadelerinin kişi üzerinde ikna edici bir etki yaratabileceğini aktarmıştır. Sinek bu durumu oldukça basit bir çember figürü ile açıklamıştır. Merkezde ‘neden’ bulunurken bir sonraki halka ‘nasıl’ı ve en dış halka da ‘ne’yi temsil etmektedir.
 
     ***
-1. Marka kavramını, “Siz odada olmadığınız zaman tüketicinin sizin hakkınızda ne konuştuklarıdır” şeklinde tanımlayan kişi aşağıdakilerden hangisidir?
+1. Marka kavramını, “Siz odada olmadığınız zaman tüketicinin sizin hakkınızda ne konuştuklarıdır” şeklinde tanımlayan kişi aşağıdakilerden hangisidir?
     - **Cevap A-) Jeff Bezos**
     - B-) Walter Landor
     - C-) Anselmo Ramos
@@ -1116,7 +1171,8 @@
     - D-) Marka sadakati
     - E-) Marka imajı
 
-    > **Açıklama:** Doğru yanıt B şıkkıdır.
+    > **Açıklama:** Sağlam bir marka mimarisi, ürün ve hizmetler hakkında belirgin bir bilinç sağlayarak ve markalarınızın ve alt markalarınızın birbiriyle nasıl ilişki kuracağı üzerinde etki yaratmaktadır.
+    > Doğru yanıt B şıkkıdır.
     > Marka mimarisi bir şirketin markalarını, alt
     > markalarını ve ürün veya hizmetlerini yapılandırmak için kullandığı organizasyon çerçevesidir.
 
@@ -1171,7 +1227,7 @@
     > Konumlandırma kavramı, bir pazarlama stratejisi olarak, marka veya ürünün rekabetçi pazarlarda temel farklılaştırıcı özelliklerini belirleme ve bu farklılık üzerinden bir pozisyon belirleme çabasına işaret etmektedir
 
     ***
-1. Stengel'in Grow adlı eserinde aşağıdakilerden hangisi  markaların taşıdığı değer ve benimsediği alanlardan biri olarak **gösterilmez**?
+1. Stengel'in Grow adlı eserinde aşağıdakilerden hangisi markaların taşıdığı değer ve benimsediği alanlardan biri olarak **gösterilmez**?
     - **Cevap A-) İnsanları eğitme**
     - B-) İnsanların gururlanması sağlama
     - C-) Bağlantı kaynağı olma
@@ -1209,14 +1265,15 @@
 
     ***
 ## Unite 7
-1. Aşağıdakilerden hangisi kurum kimliği içinde sayılan görsel kimliğin  amaçlarından değildir?
+1. Aşağıdakilerden hangisi kurum kimliği içinde sayılan görsel kimliğin amaçlarından değildir?
     - A-) Konumlandırmaya ve isme bir kişilik katarak markaya hayat vermek
     - B-) Markanın kabulünü ve anımsanmasını yaygınlaştırmak
     - C-) Markanın rekabet içerisinde farklılaşmasına yardım etmek
     - D-) Farklı marka unsurlarını aynı görü ve duygu içerisinde birbirine bağlamak
     - **Cevap E-) Kurum kimliği kataloğunun kapsamını ve amacını açıklayabilmek**
 
-    > **Açıklama:** Kurum kimliği içinde sayılan görsel kimliğin dört tane amacı vardır: Bunlardan birincisi, konumlandırmaya ve isme bir kişilik katarak markaya hayat vermektir. İkincisi, markanın kabulünü ve anımsanmasını yaygınlaştırmaktır. Üçüncü amaç ise markanın rekabet içerisinde farklılaşmasına yardım etmektir. Dördüncü amaç da farklı marka unsurlarını aynı görü ve duygu içerisinde birbirine bağlamaktır (Perry ve Wisnom’dan aktaran (Öztürk, 2006).
+    > **Açıklama:** Kurum Kimliği Katalogu
+    > Kurum kimliği içinde sayılan görsel kimliğin dört tane amacı vardır: Bunlardan birincisi, konumlandırmaya ve isme bir kişilik katarak markaya hayat vermektir. İkincisi, markanın kabulünü ve anımsanmasını yaygınlaştırmaktır. Üçüncü amaç ise markanın rekabet içerisinde farklılaşmasına yardım etmektir. Dördüncü amaç da farklı marka unsurlarını aynı görü ve duygu içerisinde birbirine bağlamaktır (Perry ve Wisnom’dan aktaran (Öztürk, 2006).
 
     ***
 1. Aşağıdakilerden hangisi kurumsal kimliği oluşturan unsurlar arasında yoktur?
@@ -1226,7 +1283,8 @@
     - D-) Kurumsal yapı
     - **Cevap E-) Etkili pazarlama**
 
-    > **Açıklama:** Kurumsal iletişim tablosu
+    > **Açıklama:** Kurum Kimlik Kataloğu
+    > Kurumsal iletişim tablosu
 
     ***
 1. Aşağıdakilerden hangisi kurum kimliği katalogun önemi ve avantajlarından değildir?
@@ -1236,7 +1294,8 @@
     - D-) Çalışan Bağlılığı ve Motivasyonu
     - **Cevap E-) Digital Dönüşüm**
 
-    > **Açıklama:** Kurumsal kimlik kılavuzunun oluşturulmasının temel amacı, markanın tutarlı bir şekilde temsil edilmesini sağlamaktır. Çalışanlar, tedarikçiler ve diğer paydaşlar, kılavuz sayesinde markanın değerlerine uygun davranışlar sergiler ve iletişim kurarlar. Bu, markanın güvenilirliğini artırır ve rekabetçi avantaj sağlar. Ayrıca, kurumsal kimlik kılavuzu sayesinde, farklı departmanlar ve pazarlama ekipleri arasında koordinasyon kolaylaşır ve markanın bütünlüğü korunmuş olur.
+    > **Açıklama:** Kurum Kimliği Katalogunun Önemi ve Avantajları
+    > Kurumsal kimlik kılavuzunun oluşturulmasının temel amacı, markanın tutarlı bir şekilde temsil edilmesini sağlamaktır. Çalışanlar, tedarikçiler ve diğer paydaşlar, kılavuz sayesinde markanın değerlerine uygun davranışlar sergiler ve iletişim kurarlar. Bu, markanın güvenilirliğini artırır ve rekabetçi avantaj sağlar. Ayrıca, kurumsal kimlik kılavuzu sayesinde, farklı departmanlar ve pazarlama ekipleri arasında koordinasyon kolaylaşır ve markanın bütünlüğü korunmuş olur.
 
     ***
 1. Aşağıdakilerden kurumsal kimlik kılavuzunun tasarım sürecinin aşamaları arasında yer almaz?
@@ -1256,7 +1315,8 @@
     - D-) Digital Dönüşüm
     - **Cevap E-) Tipografi**
 
-    > **Açıklama:** Görsel Kimlik Unsurları: Logo, renk paleti, tipografi ve semboller gibi görsel kimlik unsurları organizasyonun markasını tanımlayan önemli öğelerdir. Tasarım sürecinde bu unsurlar, organizasyonun değerlerini ve karakterini yansıtacak şekilde seçilir ve tasarlanır.
+    > **Açıklama:** Kurumsal Kimlik Kılavuzunun Tasarım Süreci ve İçeriği
+    > Görsel Kimlik Unsurları: Logo, renk paleti, tipografi ve semboller gibi görsel kimlik unsurları organizasyonun markasını tanımlayan önemli öğelerdir. Tasarım sürecinde bu unsurlar, organizasyonun değerlerini ve karakterini yansıtacak şekilde seçilir ve tasarlanır.
 
     ***
 1. Aşağıdakilerden hangisi kılavuz içeriği ve yapısının başlıklardan değildir?
@@ -1266,7 +1326,8 @@
     - D-) Tipografi tercihleri
     - **Cevap E-) Revizyon ve Güncelleme**
 
-    > **Açıklama:** Kılavuz İçeriği ve Yapısı: Kurumsal kimlik kılavuzunun içeriği, genellikle aşağıdaki başlıklardan oluşur:
+    > **Açıklama:** Kurumsal Kimlik Kılavuzunun Tasarım Süreci ve İçeriği
+    > Kılavuz İçeriği ve Yapısı: Kurumsal kimlik kılavuzunun içeriği, genellikle aşağıdaki başlıklardan oluşur:
     > • Organizasyonun tanıtımı
     > • Logo kullanımı ve örnekleri
     > • Renk paleti ve renk kombinasyonları
@@ -1284,7 +1345,8 @@
     - D-) Entegrasyon ve Uygulama
     - **Cevap E-) Revizyon ve Güncelleme**
 
-    > **Açıklama:** Revizyon ve Güncelleme: Kurumsal kimlik kılavuzu, organizasyonun gelişimine paralel olarak zaman zaman güncellenmelidir. Değişen pazar koşulları, hedef kitlesi ve iletişim kanalları göz önünde bulundurularak kılavuzun yenilenmesi gerekebilir.
+    > **Açıklama:** Kurumsal Kimlik Kılavuzunun Tasarım Süreci ve İçeriği
+    > Revizyon ve Güncelleme: Kurumsal kimlik kılavuzu, organizasyonun gelişimine paralel olarak zaman zaman güncellenmelidir. Değişen pazar koşulları, hedef kitlesi ve iletişim kanalları göz önünde bulundurularak kılavuzun yenilenmesi gerekebilir.
 
     ***
 1. Aşağıdakilerden hangisi şirket kültürü oluşturan unsurlardan değildir?
@@ -1294,7 +1356,8 @@
     - D-) Kurumsal yönergeler
     - **Cevap E-) Dolaylı iletişim**
 
-    > **Açıklama:** Kurumsal kimlik kılavuzuna daha yakından bakmak ve hem biçim hem içerik açısından incelemek, marka ile olan bağını sorgulamak, ileride tasarlanacak kurumsal kimliklere nasıl yaklaşmamız gerektiği konusunda bize yeni bakış açıları kazandıracaktır.
+    > **Açıklama:** Kurum Kimlik Katalogu
+    > Kurumsal kimlik kılavuzuna daha yakından bakmak ve hem biçim hem içerik açısından incelemek, marka ile olan bağını sorgulamak, ileride tasarlanacak kurumsal kimliklere nasıl yaklaşmamız gerektiği konusunda bize yeni bakış açıları kazandıracaktır.
 
     ***
 1. Aşağıdakilerden hangisi marka farkındalığını ifade eder?
@@ -1304,7 +1367,8 @@
     - D-) İşletmenin marka imajının korunmasına ve güçlendirilmesine büyük katkı sağlar
     - **Cevap E-) Tüketicilerin bir markayı tanıdığı ve hatırladığı derecedir**
 
-    > **Açıklama:** Bir kurumsal kimlik kılavuzu, markanın benzersiz kimliğini ve değerlerini yansıtan unsurların kullanılmasını sağlar. Bu, markanın hedef kitlesi tarafından daha iyi anlaşılmasını sağlar ve markanın akılda kalıcılığını artırır. Güçlü bir kurumsal kimlik, markanın rekabetçi pazarda öne çıkmasını ve fark yaratmasını sağlar.
+    > **Açıklama:** Marka Farkındalığı
+    > Bir kurumsal kimlik kılavuzu, markanın benzersiz kimliğini ve değerlerini yansıtan unsurların kullanılmasını sağlar. Bu, markanın hedef kitlesi tarafından daha iyi anlaşılmasını sağlar ve markanın akılda kalıcılığını artırır. Güçlü bir kurumsal kimlik, markanın rekabetçi pazarda öne çıkmasını ve fark yaratmasını sağlar.
 
     ***
 1. Aşağıdakilerden hangisinde kurum kimliği kataloğu içinde yer almaz?
@@ -1314,7 +1378,8 @@
     - D-) Görsel ve sözel öğeler
     - **Cevap E-) Marka kimliği**
 
-    > **Açıklama:** Logolar, renk paletleri, tipografi, dil tonu ve diğer görsel ve sözel öğeler, kurum kimliği kataloğu içinde yer alır.
+    > **Açıklama:** Giriş
+    > Logolar, renk paletleri, tipografi, dil tonu ve diğer görsel ve sözel öğeler, kurum kimliği kataloğu içinde yer alır.
 
     ***
 1. I.Pazar analizi<br />II. Marka değerinin tanımlanması<br />III.Hedef kitlenin belirlenmesi<br />IV.Marka mesajının tanımlanması<br />İyi bir kurum kimliği kataloğu ve marka stratejisi oluşturmak için yukarıda verilenlerden hangisi gerekmektedir?
@@ -1374,7 +1439,7 @@
     > oluşturur
 
     ***
-1. Tüketicilerin aynı renkler, logo ve tipografiyi gördüklerinde bir markayı hızla tanıması aşağıda verilen kavramlardan hangisi yardımıyla açıklanabilmektedir?
+1. Tüketicilerin aynı renkler, logo ve tipografiyi gördüklerinde bir markayı hızla tanıması aşağıda verilen kavramlardan hangisi yardımıyla açıklanabilmektedir?
     - **Cevap A-) Tutarlılık**
     - B-) Güvenilirlik
     - C-) Profesyonellik
@@ -1395,7 +1460,9 @@
     - D-) Markaya yönelik tutum
     - E-) Marka satın alma
 
-    > **Açıklama:** Doğru yanıt B şıkkıdır.
+    > **Açıklama:** Marka farkındalığı, tüketicilerin bir markayı tanıdığı ve hatırladığı derecedir. Tutarlı bir kurumsal
+    > kimlik, işletmelerin markalarını daha hızlı tanınır ve hatırlanır hâle getirerek marka farkındalığını artırır.
+    > Doğru yanıt B şıkkıdır.
     > **Marka farkındalığı**, tüketicilerin bir markayı tanıdığı ve hatırladığı derecedir. Tutarlı bir kurumsal
     > kimlik, işletmelerin markalarını daha hızlı tanınır ve hatırlanır hâle getirerek marka farkındalığını artırır.
 
@@ -1412,7 +1479,7 @@
     > İlk adım, kuruluşun misyonu, vizyonu ve değerlerinin belirlenmesidir. Bu temel unsurlar, markanın kişiliğini ve hedeflerini şekillendirmede önemli rol oynar.
 
     ***
-1. Kurumsal kimlik tasarımı sürecinde  organizasyonun kimliğini şekillendirecek temel öğelerin belirlendiği ve kimlik<br />kılavuzunun ana hedefinin netleştirildiği aşama aşağıdakilerden hangisidir?
+1. Kurumsal kimlik tasarımı sürecinde organizasyonun kimliğini şekillendirecek temel öğelerin belirlendiği ve kimlik<br />kılavuzunun ana hedefinin netleştirildiği aşama aşağıdakilerden hangisidir?
     - A-) Entegrasyon ve Uygulama
     - B-) Metinsel İçerikler Oluşturma
     - C-) Revizyon ve Güncelleme
@@ -1428,7 +1495,7 @@
     ***
 1. Kurumsal kimlik kılavuzunda başlık yazıları, gövde metinleri ve alt başlıklar için kullanılacak yazı tipi ve boyutları aşağıdakilerden hangisi yardımıyla belirlenmektedir?
     - **Cevap A-) Tipografi kuralları**
-    - B-) Kurumun misyon ve  vizyonu
+    - B-) Kurumun misyon ve vizyonu
     - C-) Kurum logosu ve amblemi
     - D-) Marka dil ve söylemi
     - E-) Kurumsal iletişim stratejileri
@@ -1550,10 +1617,11 @@
     - D-) Değişken Görsel Bileşenlerin Tasarımı
     - **Cevap E-) Marka Oluşturma Süreç Analizi**
 
-    > **Açıklama:** Tasarıma başlamadan önce kurumsal kimliği hazırlanacak organizasyonun aşamaları;
-    > 1. Piyasa ve Rakip Analizi
-    > 2. Hedef Kitle Analizi
-    > 3. Marka Oluşturma Süreç Analizi ayrıntılı şekilde yapılmalıdır.
+    > **Açıklama:** Kurumsal Kimlik Tasarımı Uygulama Süreci
+    > Tasarıma başlamadan önce kurumsal kimliği hazırlanacak organizasyonun aşamaları;
+    > 1\. Piyasa ve Rakip Analizi
+    > 2\. Hedef Kitle Analizi
+    > 3\. Marka Oluşturma Süreç Analizi ayrıntılı şekilde yapılmalıdır.
 
     ***
 1. Aşağıdakilerden hangisi tipografinin tanımıdır?
@@ -1563,7 +1631,8 @@
     - D-) Tipografi,yaratıcı ve stratejik düşünceyi bir araya getirmektir.
     - **Cevap E-) Tipografi, metinsel düzenlemenin tümüdür.**
 
-    > **Açıklama:** Tipografi, metinsel düzenlemenin tümüdür; harf yüksekliği, yazı karakteri, kalınlığı, stili, satır aralığı, uzunluğu, paragraf hizalama biçimi, paragraf arası boşluk, sütun genişliği, renk vb. gibi.
+    > **Açıklama:** Tipografi Seçimi
+    > Tipografi, metinsel düzenlemenin tümüdür; harf yüksekliği, yazı karakteri, kalınlığı, stili, satır aralığı, uzunluğu, paragraf hizalama biçimi, paragraf arası boşluk, sütun genişliği, renk vb. gibi.
 
     ***
 1. Aşağıdakilerden hangisi kurumsal kimlik tasarımı uygulama sürecini oluşturan unsurlardan değildir?
@@ -1583,7 +1652,8 @@
     - D-) Dosyalar ve Klasörler
     - **Cevap E-) Sosyal Medya Kiti**
 
-    > **Açıklama:** Temel görsel bileşenlerin tasarımı
+    > **Açıklama:** Logonun Ortaya Çıkışı
+    > Temel görsel bileşenlerin tasarımı
     > • Logonun Kullanım Şekilleri
     > • Renklerin farklı renk evrenlerindeki karşılıkları
     > • Font Kullanımı
@@ -1603,7 +1673,8 @@
     - D-) Renk Seçimine
     - **Cevap E-) Font Kullanımı**
 
-    > **Açıklama:** Logo tasarımı yapılırken aşağıdaki özelliklere dikkat edilmelidir.
+    > **Açıklama:** Logo Kullanım Şekilleri
+    > Logo tasarımı yapılırken aşağıdaki özelliklere dikkat edilmelidir.
     > Marka Kimliğini Yansıtmasına: Logo, markanın kişiliğini, değerlerini ve amacını yansıtmalıdır.
     > Basitliğine: Logo tasarımı sade ve anlaşılır olmalıdır.
     > Çeşitli Boyutlarda Etkili Olmasına: Logo, farklı boyutlarda ve platformlarda da etkili olmalıdır. Hem büyük reklam panolarında hem de küçük mobil cihaz ekranlarında aynı etkiyi oluşturmalıdır.
@@ -1620,7 +1691,8 @@
     - D-) Kağıt belgeleri, dosyaları veya diğer materyalleri düzenlemek, saklamak ve taşımak için kullanılan, genellikle karton veya plastikten yapılmış bir tür kapalı saklama birimidir.
     - **Cevap E-) Kurum ya da kurum çalışanının iletişim bilgilerini içeren belirli boyutlarda ve farklı biçimsel özelliklere sahip kartlardır.**
 
-    > **Açıklama:** Kurum ya da kurum çalışanının iletişim bilgilerini içeren belirli boyutlarda ve farklı biçimsel özelliklere sahip kartlara kartvizit denir. Bir kartvizitin üzerinde genellikle kurumun logosu, kişinin adı-soyadı, unvanı, iletişim bilgileri bulunur.
+    > **Açıklama:** Kurumsal Kimlik Tasarımını Oluşturan Temel Görsel Bileşenler
+    > Kurum ya da kurum çalışanının iletişim bilgilerini içeren belirli boyutlarda ve farklı biçimsel özelliklere sahip kartlara kartvizit denir. Bir kartvizitin üzerinde genellikle kurumun logosu, kişinin adı-soyadı, unvanı, iletişim bilgileri bulunur.
 
     ***
 1. Aşağıdakilerden hangisi kaşede dikkat edilmesi özeliklerden yer almaz?
@@ -1630,7 +1702,8 @@
     - D-) Tasarım mümkün olduğunca basit ve sade olmalıdır.
     - **Cevap E-) Karmaşık detaylar, kaşenin büyük boyutlarda bulanık bir şekilde görünmesini engelleyebilir.**
 
-    > **Açıklama:** Kaşe tasarımında dikkat edilmesi gereken unsurlar olarak şunlara dikkat edilmelidir. Kaşe üzerindeki sembol ve yazılar net ve okunabilir olmalıdır. Farklı boyutlarda kaşe kullanılabilir, bu nedenle tasarımın küçük boyutlarda bile net bir şekilde görülebilmesi önemlidir. Tasarım mümkün olduğunca basit ve sade olmalıdır. Karmaşık detaylar, kaşenin küçük boyutlarda net bir şekilde görünmesini engelleyebilir.
+    > **Açıklama:** Kurumsal Kimlik Tasarımını Oluşturan Temel Görsel Bileşenler
+    > Kaşe tasarımında dikkat edilmesi gereken unsurlar olarak şunlara dikkat edilmelidir. Kaşe üzerindeki sembol ve yazılar net ve okunabilir olmalıdır. Farklı boyutlarda kaşe kullanılabilir, bu nedenle tasarımın küçük boyutlarda bile net bir şekilde görülebilmesi önemlidir. Tasarım mümkün olduğunca basit ve sade olmalıdır. Karmaşık detaylar, kaşenin küçük boyutlarda net bir şekilde görünmesini engelleyebilir.
 
     ***
 1. Aşağıdakilerden hangisi kurumsal kimlik tasarımını oluşturan değişken görsel bileşenlerden değildir?
@@ -1660,7 +1733,7 @@
     - D-) Üniforma ve ceket
     - **Cevap E-) Hırka**
 
-    > **Açıklama:** Üniformalar
+    > **Açıklama:** Kurum ya da kuruluşun çalışanlarını tanımak, profesyonel bir görüntü oluşturmak ve kurumsal kimliği yansıtmak amacıyla giydirdiği standart kıyafetlerdir. Bu üniformalar, işletmenin sektörüne, tarzına ve amacına göre çeşitli şekillerde tasarlanabilir. Yelek, önlük, tulum, tişört ve sweatshirt, üniforma ve ceket çalışan üniformalarına örnektir.
 
     ***
 1. Aşağıdakilerden hangisi kurumsal kimlik araçlarından biri **değildir**?
@@ -1670,8 +1743,9 @@
     - D-) Antetli kağıt
     - E-) Grup üyeliği
 
-    > **Açıklama:** Doğru yanıt A şıkkıdır. Grup üyeliği toplumsal kimliktir. Oysa Kurumsal kimlik, bir markanın, kurumun veya
-    > kuruluşun nasıl görünmesini istediğini belirleyen ve aynı zamanda oluşturulan bu imajın da hedef kitlenin zihnine kazınmasını sağlayan bir araçtır. Markanın renklerinden logosuna, çalışan kartvizitlerinden antetli kağıdına, Web sitesi arayüzünden
+    > **Açıklama:** Kurumsal kimlik, bir markanın, kurumun veya kuruluşun nasıl görünmesini istediğini belirleyen ve aynı zamanda oluşturulan bu imajın da hedef kitlenin zihnine kazınmasını sağlayan bir araçtır. Markanın renklerinden logosuna, çalışan kartvizitlerinden antetli kağıdına, Web sitesi arayüzünden sosyal medya platformlarındaki materyallere kadar kullanacağı tüm görsel bileşenler, kurumsal kimliğin birer parçasıdır. Grup üyeliği ise toplumsal kimliktir.
+    > Doğru yanıt A şıkkıdır. Grup üyeliği toplumsal kimliktir. Oysa Kurumsal kimlik, bir markanın, kurumun veya
+    > kuruluşun nasıl görünmesini istediğini belirleyen ve aynı zamanda oluşturulan bu imajın da hedef kitlenin zihnine kazınmasını sağlayan bir araçtır. Markanın renklerinden logosuna, çalışan kartvizitlerinden antetli kağıdına, Web sitesi arayüzünden
     > sosyal medya platformlarındaki materyallere kadar kullanacağı tüm görsel bileşenler, kurumsal kimliğin birer parçasıdır
 
     ***
@@ -1712,7 +1786,18 @@
     > Piyasa ve Rakip Analizi, hedef kitlenin beklentileri, soyoekonomik statüsü,yaşadığı yer gibi değişkenler ise doğrudan renk seçimini etkileyen unsurlardır.
 
     ***
-1. 1. Marka değerlerini yansıtır.<br />II. Marka ismini belirler.<br />III.Markanın tipografisini oluşturur.<br />IV. Marka kişiliğinin oluşumuna katkı sağlar.<br />V. Markanın iletmek istediği mesajı görsel olarak iletir.<br />Logo için yukarıda verilen ifadelerden hangileri **söylenemez**?
+1. Renklerin psikolojik etkileri bağlamında zenginliği, bolluğu, şerefli olmayı ve sadakati hatırlatan renk aşağıdakilerden hangisidir?
+    - A-) Mavi
+    - B-) Turuncu
+    - C-) Yeşil
+    - **Cevap D-) Sarı**
+    - E-) Mor
+
+    > **Açıklama:** Doğru yanıt D şıkkıdır.
+    > En ışıklı, hareketli, parlak ve neşeli renk olan sarı, zenginlik, bolluk, şeref ve sadakati hatırlatır.
+
+    ***
+1. 1\. Marka değerlerini yansıtır.<br />II. Marka ismini belirler.<br />III.Markanın tipografisini oluşturur.<br />IV. Marka kişiliğinin oluşumuna katkı sağlar.<br />V. Markanın iletmek istediği mesajı görsel olarak iletir.<br />Logo için yukarıda verilen ifadelerden hangileri **söylenemez**?
     - A-) I-II
     - B-) III-IV
     - **Cevap C-) II-III**
@@ -1737,7 +1822,7 @@
 
     ***
 1. Aşağıdakilerden hangisi araç giydirme tasarımı oluştururken tasarımcının dikkat etmesi gereken unsurlardan biri **değildir**?
-    - A-) Okunabilir  ve sade olmalı
+    - A-) Okunabilir ve sade olmalı
     - B-) Bölgesel yasal düzenlemelere dikkat edilmeli
     - **Cevap C-) Detaylı tasarımlara yer verilmeli**
     - D-) Trafik güvenliği standartlarına dikkat edilmeli
@@ -1755,7 +1840,7 @@
     > **bozulabilir veya okunaksız hâle gelebilir.**
 
     ***
-1. Aşağıdakilerden hangisi halkın yoğun olarak geçtiği alanlarda kullanılan ve outdoor olarak adlandırılan reklam ve pazarlama mecralarından biri **değildir**?
+1. Aşağıdakilerden hangisi halkın yoğun olarak geçtiği alanlarda kullanılan ve outdoor olarak adlandırılan reklam ve pazarlama mecralarından biri **değildir**?
     - **Cevap A-) Dergi**
     - B-) CLP/Raket
     - C-) Billboard

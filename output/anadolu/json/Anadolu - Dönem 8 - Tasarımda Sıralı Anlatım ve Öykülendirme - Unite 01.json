@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3833671,
-        "SoruMetni": "Sens tarafından geliştirilen TRADE Sistemi (Conceptual Framework of Transmedia Design), transmedya tasarımını her biri kendi alt bileşenlerine sahip kaç boyut üzerinden ele almaktadır?<br/>",
+        "SoruMetni": "Sens tarafından geliştirilen TRADE Sistemi (Conceptual Framework of Transmedia Design), transmedya tasarımını her biri kendi alt bileşenlerine sahip kaç boyut üzerinden ele almaktadır?",
         "A": "2",
         "B": "3",
         "C": "4",
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sens (2021) tarafından ortaya konan TRADE Sistemi (Conceptual framework of transmedia designTRADE System), transmedya tasarımını, her biri alt bileşenlere sahip üç boyut üzerinden ele alan bir kavramsal çerçevedir.  Bu boyutlar:  Endüstriyel ve pazarlama boyutu; Bilgi ve iletişim boyutu ve Estetik ve deneyimsel boyuttur."
+        "Aciklama": "Sens (2021) tarafından ortaya konan TRADE Sistemi (Conceptual framework of transmedia designTRADE System), transmedya tasarımını, her biri alt bileşenlere sahip üç boyut üzerinden ele alan bir kavramsal çerçevedir. Bu boyutlar: Endüstriyel ve pazarlama boyutu; Bilgi ve iletişim boyutu ve Estetik ve deneyimsel boyuttur."
     },
     {
         "SoruID": 3833674,
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3833691,
-        "SoruMetni": "Hangisi, Pratten'in  Transmedya Hikâyeciliğin 3K’sı (The Three C’s of<br/>Transmedia Storytelling) olarak adlandırdığı içeriği doğru olarak sıralamıştır?",
+        "SoruMetni": "Hangisi, Pratten'in Transmedya Hikâyeciliğin 3K’sı (The Three C’s of<br/>Transmedia Storytelling) olarak adlandırdığı içeriği doğru olarak sıralamıştır?",
         "A": "Plot / Kolaylık / Düğüm",
         "B": "Hikaye / Karakterler / Fanlar",
         "C": "Hikaye / Karakterler / Olay",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3833696,
-        "SoruMetni": "Pratten’a göre transmedya hikâyeciliği kaç türde incelenebilir?",
+        "SoruMetni": "Pratten’a göre transmedya hikâyeciliği kaç türde incelenebilir?",
         "A": "4",
         "B": "7",
         "C": "2",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 3833703,
-        "SoruMetni": "Transmedya evrenlerindeki hikâyeler, her izleyicinin kendine özgü bir deneyim yaşamasına imkân tanımaktadır. İzleyiciler, bu hikâyeleri kendi yaşam deneyimleriyle birleştirerek, karakterlerle daha güçlü bir empati kurmaktadırlar.<br/> Yukarıdaki paragraf Robert Pratten’in kurguladığı transmedya tasarımının 7 İlkesinden hangisini tarif etmektedir?",
+        "SoruMetni": "Transmedya evrenlerindeki hikâyeler, her izleyicinin kendine özgü bir deneyim yaşamasına imkân tanımaktadır. İzleyiciler, bu hikâyeleri kendi yaşam deneyimleriyle birleştirerek, karakterlerle daha güçlü bir empati kurmaktadırlar.<br/>Yukarıdaki paragraf Robert Pratten’in kurguladığı transmedya tasarımının 7 İlkesinden hangisini tarif etmektedir?",
         "A": "Yayılma",
         "B": "Kalıcılık",
         "C": "Kişiselleştirme",

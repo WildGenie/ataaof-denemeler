@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3764521,
-        "SoruMetni": "Kullanımı dikkat gerektiren, izleyiciyi ha­rekete geçirme etkisine sahip; yalnız başına kulla­nıldığında dahi birçok farklı mesajı iletebilen, duy­gu yaratma gücü olan hatta insan bedeninde ya da zihninde ölçülebilir reaksiyonlara neden olabilen, kuvvetli bir tasarım elemanıdır.<br/><br/>Bu ifadeler aşağıdakilerden hangisini tanımlamaktadır.",
+        "SoruMetni": "Kullanımı dikkat gerektiren, izleyiciyi ha­rekete geçirme etkisine sahip; yalnız başına kulla­nıldığında dahi birçok farklı mesajı iletebilen, duy­gu yaratma gücü olan hatta insan bedeninde ya da zihninde ölçülebilir reaksiyonlara neden olabilen, kuvvetli bir tasarım elemanıdır.<br/>Bu ifadeler aşağıdakilerden hangisini tanımlamaktadır.",
         "A": "Ritm",
         "B": "Denge",
         "C": "Renk",
@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 3764523,
-        "SoruMetni": "Renk çemberleri renklerin arasındaki ilişkileri anlamak, birbiri ile uyumlu renk armoni­leri kurmak, renk seçimleri yaparken birbirilerinin etkisini artırabilecek renkleri seçerken birbirinin etkisini zayıflatabilecek eşleşmelerden kaçınmak için faydalı araçlardır. Renk çemberi aşağıda isimleri  verilen kişilerden hangisinin deneyimleri sonucunda düzenlemiştir.",
+        "SoruMetni": "Renk çemberleri renklerin arasındaki ilişkileri anlamak, birbiri ile uyumlu renk armoni­leri kurmak, renk seçimleri yaparken birbirilerinin etkisini artırabilecek renkleri seçerken birbirinin etkisini zayıflatabilecek eşleşmelerden kaçınmak için faydalı araçlardır. Renk çemberi aşağıda isimleri verilen kişilerden hangisinin deneyimleri sonucunda düzenlemiştir.",
         "A": "Lupton",
         "B": "Phillips",
         "C": "Newton",
@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3764524,
-        "SoruMetni": "CMYK olarak kabul edilen  renkler aşağıdakilerden hangisidir",
+        "SoruMetni": "CMYK olarak kabul edilen renkler aşağıdakilerden hangisidir",
         "A": "Mor, Yeşil, Siyah, Cyan",
         "B": "Sarı, Magenta, Kırmızı, Mor",
         "C": "Magenta, Sarı, Cyan, Siyah,",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 3764544,
-        "SoruMetni": "Aşağıdaki araçlardan  hangisi detaylı bir kullanım bilgisi gerektirmeyen, görsellerin renk ve kontrast gibi değerlerini hızlı şekilde düzeltme imkânı sağlayan araçlardandır. ?",
+        "SoruMetni": "Aşağıdaki araçlardan hangisi detaylı bir kullanım bilgisi gerektirmeyen, görsellerin renk ve kontrast gibi değerlerini hızlı şekilde düzeltme imkânı sağlayan araçlardandır. ?",
         "A": "Seçmeli Renk",
         "B": "Doygunluk",
         "C": "Ton",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "•  3 ikincil (yeşil, <strong>mor,</strong> turuncu)"
+        "Aciklama": "Renk Teorisi<br>• 3 ikincil (yeşil, <strong>mor,</strong> turuncu)"
     },
     {
         "SoruID": 3764579,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "• 3 birincil (sarı, mavi, <strong>kırmızı)•</strong>"
+        "Aciklama": "Renk Teorisi<br>• 3 birincil (sarı, mavi, <strong>kırmızı)•</strong>"
     },
     {
         "SoruID": 3764604,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Renk yönetimi</strong>, tasarım ve üretim aşamasında kullanılan cihazlar arasında renk dönüşümlerinin yapılmasını, baskı sonucunun ekranda ve provada simüle edilmesini sağlar."
+        "Aciklama": "<strong>ICC ve Renk Profilleri</strong><br><strong>Renk yönetimi</strong>, tasarım ve üretim aşamasında kullanılan cihazlar arasında renk dönüşümlerinin yapılmasını, baskı sonucunun ekranda ve provada simüle edilmesini sağlar."
     },
     {
         "SoruID": 3764606,
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 3764608,
-        "SoruMetni": "Aşağıdaki kavramlardan hangisi tüm baskı birimlerinin tutarlı bir şekilde aynı sonuçları sağladığından emin olmayı içerir?",
+        "SoruMetni": "Aşağıdaki kavramlardan hangisi tüm baskı birimlerinin tutarlı bir şekilde aynı sonuçları sağladığından emin olmayı içerir?",
         "A": "Renk Profilleri",
         "B": "Stabilizasyon",
         "C": "Kalibrasyon",
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 3764610,
-        "SoruMetni": "Aşağıdaki boşluğu doldurunuz?<br/> Toplamsal renk metodunun üç ana rengi olan kırmızı yeşil ve mavi, beyaz ışığın bir bileşenini temsil eder ve böylece tüm renklerin üst üste geldiği yerde ............. üretilir.",
+        "SoruMetni": "Aşağıdaki boşluğu doldurunuz?<br/>Toplamsal renk metodunun üç ana rengi olan kırmızı yeşil ve mavi, beyaz ışığın bir bileşenini temsil eder ve böylece tüm renklerin üst üste geldiği yerde ............. üretilir.",
         "A": "Sarı",
         "B": "Turuncu",
         "C": "Siyah",
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Toplamsal renk metodunun üç ana rengi olan kırmızı yeşil ve mavi, beyaz ışığın bir bileşenini temsil eder ve böylece tüm renklerin üst üste geldiği yerde beyaz üretilir."
+        "Aciklama": "Işık ile Oluşan Renk (Toplamsal Renk Metodu)<br>Toplamsal renk metodunun üç ana rengi olan kırmızı yeşil ve mavi, beyaz ışığın bir bileşenini temsil eder ve böylece tüm renklerin üst üste geldiği yerde beyaz üretilir."
     },
     {
         "SoruID": 3764611,
@@ -401,7 +401,7 @@
     },
     {
         "SoruID": 3764757,
-        "SoruMetni": "…………..kitap, dergi, Logo tasarımı, ambalaj tasarımı, web sayfası tasarımları, afiş, kartvizit vb. tanıtıma ve bilgilendirmeye yönelik ürünlerdir. Bu ürünler, yaratıcı fikir çerçevesinde tasarlanarak üretilir ve çoğaltılarak hedef kitlesine ulaştırılır.<br/> Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "…………..kitap, dergi, Logo tasarımı, ambalaj tasarımı, web sayfası tasarımları, afiş, kartvizit vb. tanıtıma ve bilgilendirmeye yönelik ürünlerdir. Bu ürünler, yaratıcı fikir çerçevesinde tasarlanarak üretilir ve çoğaltılarak hedef kitlesine ulaştırılır.<br/>Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "Web Ürün",
         "B": "Grafik ürün",
         "C": "Tipografik ürün",
@@ -461,7 +461,7 @@
     },
     {
         "SoruID": 3764760,
-        "SoruMetni": "Dijital görüntüleme sistemlerinde Renk Yönetimi ………………………gibi endüstriyel baskı sistemleri arasında kontrollü bir renk iletişimi sağlamak anlamına gelir.<br/> Yukarıdaki boş yere aşağıdakilerden hangisi gelemez?",
+        "SoruMetni": "Dijital görüntüleme sistemlerinde Renk Yönetimi ………………………gibi endüstriyel baskı sistemleri arasında kontrollü bir renk iletişimi sağlamak anlamına gelir.<br/>Yukarıdaki boş yere aşağıdakilerden hangisi gelemez?",
         "A": "Tarayıcılar",
         "B": "Telgraflar",
         "C": "Televizyon ekranları",
@@ -481,7 +481,7 @@
     },
     {
         "SoruID": 3764761,
-        "SoruMetni": "…………… bir renk modelinde, belli bir renk evreninin (ya da bir cihazın) üretebildiği renk aralığını tanımlar.<br/> Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "…………… bir renk modelinde, belli bir renk evreninin (ya da bir cihazın) üretebildiği renk aralığını tanımlar.<br/>Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "Renk gamı",
         "B": "Renk değeri",
         "C": "Renk katmanı",
@@ -501,7 +501,7 @@
     },
     {
         "SoruID": 3764762,
-        "SoruMetni": "Dijital grafiklerin üretiminde tercih edilen, renkleri tanımlarken 6 haneli kodlar kullanan ve RGB sistemindeki 3 rengin olası tüm permütasyonlarını bu kodlarla karşılayan renk sistemi. <br/> Yukarıda tanımı verilen kavram nedir?",
+        "SoruMetni": "Dijital grafiklerin üretiminde tercih edilen, renkleri tanımlarken 6 haneli kodlar kullanan ve RGB sistemindeki 3 rengin olası tüm permütasyonlarını bu kodlarla karşılayan renk sistemi. <br/>Yukarıda tanımı verilen kavram nedir?",
         "A": "CMYK",
         "B": "RCB",
         "C": "HSL",
@@ -561,7 +561,7 @@
     },
     {
         "SoruID": 3764765,
-        "SoruMetni": "……………. tüm baskı birimlerinin tutarlı bir şekilde aynı sonuçları sağladığından emin olmayı içerir. Mekanik hatalar veya nem ve sıcaklık gibi değişken çevresel koşullar nedeniyle tutarsızlıklar meydana gelebilir. <br/><br/>Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "……………. tüm baskı birimlerinin tutarlı bir şekilde aynı sonuçları sağladığından emin olmayı içerir. Mekanik hatalar veya nem ve sıcaklık gibi değişken çevresel koşullar nedeniyle tutarsızlıklar meydana gelebilir. <br/>Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "Stabilizasyon",
         "B": "Kalibrasyon",
         "C": "Özelleştirme",
@@ -581,7 +581,7 @@
     },
     {
         "SoruID": 3764766,
-        "SoruMetni": "……………………“renk içeriği verilerinin açık bir şekilde yorumlanması için gerekli olan verilerin iletilmesi, dönüştürülmesi ve böylece amaçlanan renk üretiminin sağlanabilmesi” olarak tanımlanabilir.<br/> Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "……………………“renk içeriği verilerinin açık bir şekilde yorumlanması için gerekli olan verilerin iletilmesi, dönüştürülmesi ve böylece amaçlanan renk üretiminin sağlanabilmesi” olarak tanımlanabilir.<br/>Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "Renk karşılaştırması",
         "B": "Renk belirlemesi",
         "C": "Renk yönetimi",

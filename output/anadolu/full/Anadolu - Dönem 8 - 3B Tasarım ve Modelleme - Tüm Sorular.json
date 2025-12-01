@@ -41,8 +41,8 @@
     },
     {
         "SoruID": 3831761,
-        "SoruMetni": "Bilgisayar destekli tasarım ve yazılımlar  İlk olarak hangi  alanlarda kullanılmaya başlandı?",
-        "A": "Ticaret ve tarım gibi alanlarda kullanılmaya başlandı.",
+        "SoruMetni": "Bilgisayar destekli tasarım ve yazılımlar İlk olarak hangi alanlarda kullanılmaya başlandı?",
+        "A": "Ticaret ve tarım gibi alanlarda kullanılmaya başlandı.",
         "B": "Obje tasarımı ve otomotiv gibi endüstriyel alanlarda kullanılmaya başlandı.",
         "C": "Üretim ve yedek parça gibi endüstriyel alanlarda kullanılmaya başlandı.",
         "D": "Mühendislik ve mimarlık gibi endüstriyel alanlarda kullanılmaya başlandı.",
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 3832610,
-        "SoruMetni": "3 boyutlu modelleme, bilgisayar grafikleri, animasyon ve film endüstrilerinde sıklıkla hangi modelleme yöntemi kullanılır?",
+        "SoruMetni": "3 boyutlu modelleme, bilgisayar grafikleri, animasyon ve film endüstrilerinde sıklıkla hangi modelleme yöntemi kullanılır?",
         "A": "Çokgen ağ modelleme",
         "B": "Tel kafes modelleme",
         "C": "Katı modelleme",
@@ -343,10 +343,10 @@
         "SoruID": 3832613,
         "SoruMetni": "Render motorları hangi amaçla kullanılır?",
         "A": "3D modelleri gerçekçi ışıklandırma ve gölgelendirme ile görselleştirmek için kullanılır.",
-        "B": "Sadece modelin iskelet yapısını oluşturmak için kullanılır.",
-        "C": "Sadece doku oluşturmak için kullanılır.",
-        "D": "Sadece animasyon yapmak için kullanılır.",
-        "E": "Yüzey oluşturmak için kullanılır.",
+        "B": "Sadece modelin iskelet yapısını oluşturmak için kullanılır.",
+        "C": "Sadece doku oluşturmak için kullanılır.",
+        "D": "Sadece animasyon yapmak için kullanılır.",
+        "E": "Yüzey oluşturmak için kullanılır.",
         "DogruCevap": "A",
         "DersAd": "3B Tasarım ve Modelleme",
         "Unite": 2,
@@ -617,11 +617,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Malzeme ve doku"
+        "Aciklama": "Malzeme ve doku, üç boyutlu modellemede birbirini<br/>tamamlayan iki önemli unsurdur. Malzemeler objenin temelini<br/>oluştururken dokular objeye gerçekçilik ve derinlik<br/>katar. Bir benzetmeyle açıklamak gerekirse, üç boyutlu bir<br/>model bir heykel olarak ele alınabilir. Malzeme, heykelin<br/>temel formunu oluşturmak için kullanılan kil veya metal<br/>gibiyken doku yüzeye oyulmuş veya boyanmış detaylar gibidir<br/>ve heykeli hayata geçirir. Malzeme ve doku etkili bir<br/>şekilde birleştirilerek gerçekçi ve görsel olarak çarpıcı üç<br/>boyutlu dijital objeler oluşturulabilir."
     },
     {
         "SoruID": 3831911,
-        "SoruMetni": "Üç boyutlu modellemede dijital malzeme için aşağıdakilerden hangileri doğrudur.<br/> <ol style=\"list-style-type: lower-roman;\"> <li>Bir objenin temel görsel ve fiziksel özelliklerini tanımlar.</li> <li>Objenin neyden yapıldığının “özü” olarak düşünülebilir.</li> <li>Işığın yüzey ile nasıl etkileşime gireceğini kontrol ederek şunları etkiler:<br/>- Renk (dağıtık renk/diffuse color)<br/>- Yansıtıcılık (speküler özellikler/specular properties)<br/>- Parlaklık/Matlık (pürüzlülük/roughness)<br/>- Şeffaflık (opasite ve kırılma indisi/opacity ve refraction index)</li> <li>Örnek olarak ahşap, metal, kumaş, plastik veya cam gösterilebilir.</li> <li>Objenin genel görünümünü ve hissini belirler (ahşap bir masa, parlak krom bir küre).</li> </ol>",
+        "SoruMetni": "Üç boyutlu modellemede dijital malzeme için aşağıdakilerden hangileri doğrudur.<br/><ol style=\"list-style-type: lower-roman;\"> <li>Bir objenin temel görsel ve fiziksel özelliklerini tanımlar.</li> <li>Objenin neyden yapıldığının “özü” olarak düşünülebilir.</li> <li>Işığın yüzey ile nasıl etkileşime gireceğini kontrol ederek şunları etkiler:<br/>- Renk (dağıtık renk/diffuse color)<br/>- Yansıtıcılık (speküler özellikler/specular properties)<br/>- Parlaklık/Matlık (pürüzlülük/roughness)<br/>- Şeffaflık (opasite ve kırılma indisi/opacity ve refraction index)</li> <li>Örnek olarak ahşap, metal, kumaş, plastik veya cam gösterilebilir.</li> <li>Objenin genel görünümünü ve hissini belirler (ahşap bir masa, parlak krom bir küre).</li> </ol>",
         "A": "i ve ii",
         "B": "ii ve iii",
         "C": "ii, ii ve iii",
@@ -641,7 +641,7 @@
     },
     {
         "SoruID": 3831913,
-        "SoruMetni": "Üç boyutlu modellemede doku için aşağıdakilerden hangileri söylenebilir?<br/> <ol style=\"list-style-type: lower-roman;\"> <li>Bir objenin yüzeyindeki ayrıntıları ve desenleri temsil eder.</li> <li>Yüzeydeki ince ayrıntıları göstererek görsel karmaşıklık ve gerçekçilik katar.</li> <li>Doku uygulamaları olarak şunlar gösterilebilir:<br/>- Tek bir renk (düz doku)<br/>- Ahşap dokusu, kumaş örgüsü veya tuğla desenleri gibi ayrıntıları gösteren bir görüntü dosyası (bitmap dokusu)<br/>- Doğal desenler için matematiksel algoritmalar kullanılarak belirli bir prosedüre bağlı olarak<br/>oluşturulur. Örnek olarak masa yüzeyindeki ahşap damarları, deri ceketteki kırışıklıklar, parke taşlı yoldaki çıkıntılar gösterilebilir.</li> <li>Objenin yüzey gerçekçiliğini ve derinliğini artırır.</li> </ol>",
+        "SoruMetni": "Üç boyutlu modellemede doku için aşağıdakilerden hangileri söylenebilir?<br/><ol style=\"list-style-type: lower-roman;\"> <li>Bir objenin yüzeyindeki ayrıntıları ve desenleri temsil eder.</li> <li>Yüzeydeki ince ayrıntıları göstererek görsel karmaşıklık ve gerçekçilik katar.</li> <li>Doku uygulamaları olarak şunlar gösterilebilir:<br/>- Tek bir renk (düz doku)<br/>- Ahşap dokusu, kumaş örgüsü veya tuğla desenleri gibi ayrıntıları gösteren bir görüntü dosyası (bitmap dokusu)<br/>- Doğal desenler için matematiksel algoritmalar kullanılarak belirli bir prosedüre bağlı olarak<br/>oluşturulur. Örnek olarak masa yüzeyindeki ahşap damarları, deri ceketteki kırışıklıklar, parke taşlı yoldaki çıkıntılar gösterilebilir.</li> <li>Objenin yüzey gerçekçiliğini ve derinliğini artırır.</li> </ol>",
         "A": "i ve ii",
         "B": "ii ve iii",
         "C": "iii ve iv",
@@ -661,7 +661,7 @@
     },
     {
         "SoruID": 3831915,
-        "SoruMetni": "Doku haritalarında ustalaşmak pratik ve deneme yanılma gerektirir. Aşağıda verilen doku haritaları uygulamalarında yaşanabilecek teknik zorluklar ve başarılı sonuçlar almak için düşünülmesi gereken hususlar verilmiştir hangileri doğrudur?<br/> <ol style=\"list-style-type: lower-roman;\"> <li>Doku haritalarının çözünürlüğü doğrudan elde edilebilecek detay seviyesini etkiler. Yüksek çözünürlüklü<br/>haritalar daha ince detaylara ve daha keskin görsellere izin verir ancak aynı zamanda daha<br/>fazla işlem gücü ve bellek gerektirir.</li> <li>Dokular geniş yüzeylere uygulanırken aynı doku deseninin belirgin şekilde tekrarladığı döşeme<br/>problemleriyle karşılaşılabilir. Bir doku deseni belirgin bir şekilde tekrarlanıyor ise yeterince gerçekçi<br/>algılanmayabilir. Doku döşeme ve prosedürel dokular gibi teknikler bu sorunun hafifletilmesine<br/>yardımcı olmaktadır.</li> <li>Ekleme sınırları (seam) açısından, doku haritalarını modelin farklı bölümleri boyunca sorunsuz bir şekilde hizalamak zorlu olabilir. Düzgün ve görsel olarak inandırıcı bir görünüm sağlamak için kaplanacak yüzeyin uygun UV açılımı çok önemlidir.</li> <li>Doku haritalamada sonuçların kalitesi, kaynak dokuların kalitesine bağlıdır. Taklit etmeye çalışılan malzemelerin ince detaylarını yakalayan yüksek çözünürlüklü görüntüler kullanılmalıdır.</li> <li>Birçok üç boyutlu modelleme yazılımı, ahşap, metal veya plastik gibi gerçekçi malzemeler oluşturmak için çeşitli doku haritalarını birleştiren önceden oluşturulmuş malzeme ön ayarları sunar. Sunulan ön ayarlar değerli bir başlangıç noktası olarak düşünebilse de istenilen görünümü elde etmek için ön ayarların özelleştirilmesi önemlidir.</li> <li>Doku haritalarının, son görsel efekti elde etmek için aydınlatma ile birlikte çalıştığı unutulmamalıdır. Işık kaynakları dikkatlice konumlandırılmalı ve gölgeler ayarlanarak modellerin gerçekçiliği daha da arttırılmalıdır.</li> </ol>",
+        "SoruMetni": "Doku haritalarında ustalaşmak pratik ve deneme yanılma gerektirir. Aşağıda verilen doku haritaları uygulamalarında yaşanabilecek teknik zorluklar ve başarılı sonuçlar almak için düşünülmesi gereken hususlar verilmiştir hangileri doğrudur?<br/><ol style=\"list-style-type: lower-roman;\"> <li>Doku haritalarının çözünürlüğü doğrudan elde edilebilecek detay seviyesini etkiler. Yüksek çözünürlüklü<br/>haritalar daha ince detaylara ve daha keskin görsellere izin verir ancak aynı zamanda daha<br/>fazla işlem gücü ve bellek gerektirir.</li> <li>Dokular geniş yüzeylere uygulanırken aynı doku deseninin belirgin şekilde tekrarladığı döşeme<br/>problemleriyle karşılaşılabilir. Bir doku deseni belirgin bir şekilde tekrarlanıyor ise yeterince gerçekçi<br/>algılanmayabilir. Doku döşeme ve prosedürel dokular gibi teknikler bu sorunun hafifletilmesine<br/>yardımcı olmaktadır.</li> <li>Ekleme sınırları (seam) açısından, doku haritalarını modelin farklı bölümleri boyunca sorunsuz bir şekilde hizalamak zorlu olabilir. Düzgün ve görsel olarak inandırıcı bir görünüm sağlamak için kaplanacak yüzeyin uygun UV açılımı çok önemlidir.</li> <li>Doku haritalamada sonuçların kalitesi, kaynak dokuların kalitesine bağlıdır. Taklit etmeye çalışılan malzemelerin ince detaylarını yakalayan yüksek çözünürlüklü görüntüler kullanılmalıdır.</li> <li>Birçok üç boyutlu modelleme yazılımı, ahşap, metal veya plastik gibi gerçekçi malzemeler oluşturmak için çeşitli doku haritalarını birleştiren önceden oluşturulmuş malzeme ön ayarları sunar. Sunulan ön ayarlar değerli bir başlangıç noktası olarak düşünebilse de istenilen görünümü elde etmek için ön ayarların özelleştirilmesi önemlidir.</li> <li>Doku haritalarının, son görsel efekti elde etmek için aydınlatma ile birlikte çalıştığı unutulmamalıdır. Işık kaynakları dikkatlice konumlandırılmalı ve gölgeler ayarlanarak modellerin gerçekçiliği daha da arttırılmalıdır.</li> </ol>",
         "A": "i ve ii",
         "B": "ii ve iii",
         "C": "iii ve iv",
@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doku haritalarında ustalaşmak pratik ve deneme yanılma gerektirir. Doku haritaları uygulamalarında<br/>yaşanabilecek teknik zorluklar ve başarılı sonuçlar almak için düşünülmesi gereken hususlardan bazıları<br/>şunlardır:<br/>• Doku haritalarının çözünürlüğü doğrudan elde edilebilecek detay seviyesini etkiler. Yüksek çözünürlüklü<br/>haritalar daha ince detaylara ve daha keskin görsellere izin verir ancak aynı zamanda daha<br/>fazla işlem gücü ve bellek gerektirir.<br/>• Dokular geniş yüzeylere uygulanırken aynı doku deseninin belirgin şekilde tekrarladığı döşeme<br/>problemleriyle karşılaşılabilir. Bir doku deseni belirgin bir şekilde tekrarlanıyor ise yeterince gerçekçi<br/>algılanmayabilir. Doku döşeme ve prosedürel dokular gibi teknikler bu sorunun hafifletilmesine<br/>yardımcı olmaktadır.<br/> • Ekleme sınırları (seam) açısından, doku haritalarını modelin farklı bölümleri boyunca sorunsuz<br/>bir şekilde hizalamak zorlu olabilir. Düzgün ve görsel olarak inandırıcı bir görünüm sağlamak için<br/>kaplanacak yüzeyin uygun UV açılımı çok önemlidir.<br/>• Doku haritalamada sonuçların kalitesi, kaynak dokuların kalitesine bağlıdır. Taklit etmeye çalışılan<br/>malzemelerin ince detaylarını yakalayan yüksek çözünürlüklü görüntüler kullanılmalıdır.<br/>• Birçok üç boyutlu modelleme yazılımı, ahşap, metal veya plastik gibi gerçekçi malzemeler oluşturmak<br/>için çeşitli doku haritalarını birleştiren önceden oluşturulmuş malzeme ön ayarları sunar.<br/>Sunulan ön ayarlar değerli bir başlangıç noktası olarak düşünebilse de istenilen görünümü elde<br/>etmek için ön ayarların özelleştirilmesi önemlidir.<br/>• Doku haritalarının, son görsel efekti elde etmek için aydınlatma ile birlikte çalıştığı unutulmamalıdır.<br/>Işık kaynakları dikkatlice konumlandırılmalı ve gölgeler ayarlanarak modellerin gerçekçiliği<br/>daha da arttırılmalıdır."
+        "Aciklama": "Doku haritalarında ustalaşmak pratik ve deneme yanılma gerektirir. Doku haritaları uygulamalarında<br/>yaşanabilecek teknik zorluklar ve başarılı sonuçlar almak için düşünülmesi gereken hususlardan bazıları<br/>şunlardır:<br/>• Doku haritalarının çözünürlüğü doğrudan elde edilebilecek detay seviyesini etkiler. Yüksek çözünürlüklü<br/>haritalar daha ince detaylara ve daha keskin görsellere izin verir ancak aynı zamanda daha<br/>fazla işlem gücü ve bellek gerektirir.<br/>• Dokular geniş yüzeylere uygulanırken aynı doku deseninin belirgin şekilde tekrarladığı döşeme<br/>problemleriyle karşılaşılabilir. Bir doku deseni belirgin bir şekilde tekrarlanıyor ise yeterince gerçekçi<br/>algılanmayabilir. Doku döşeme ve prosedürel dokular gibi teknikler bu sorunun hafifletilmesine<br/>yardımcı olmaktadır.<br/>• Ekleme sınırları (seam) açısından, doku haritalarını modelin farklı bölümleri boyunca sorunsuz<br/>bir şekilde hizalamak zorlu olabilir. Düzgün ve görsel olarak inandırıcı bir görünüm sağlamak için<br/>kaplanacak yüzeyin uygun UV açılımı çok önemlidir.<br/>• Doku haritalamada sonuçların kalitesi, kaynak dokuların kalitesine bağlıdır. Taklit etmeye çalışılan<br/>malzemelerin ince detaylarını yakalayan yüksek çözünürlüklü görüntüler kullanılmalıdır.<br/>• Birçok üç boyutlu modelleme yazılımı, ahşap, metal veya plastik gibi gerçekçi malzemeler oluşturmak<br/>için çeşitli doku haritalarını birleştiren önceden oluşturulmuş malzeme ön ayarları sunar.<br/>Sunulan ön ayarlar değerli bir başlangıç noktası olarak düşünebilse de istenilen görünümü elde<br/>etmek için ön ayarların özelleştirilmesi önemlidir.<br/>• Doku haritalarının, son görsel efekti elde etmek için aydınlatma ile birlikte çalıştığı unutulmamalıdır.<br/>Işık kaynakları dikkatlice konumlandırılmalı ve gölgeler ayarlanarak modellerin gerçekçiliği<br/>daha da arttırılmalıdır."
     },
     {
         "SoruID": 3831917,
@@ -741,7 +741,7 @@
     },
     {
         "SoruID": 3831921,
-        "SoruMetni": "BSDF fonksiyonunun temel özellikleri hangisinde doğru verilmiştir?<br/> <ol> <li>Simetriklik: BSDF fonksiyonu, ışığın geliş ve yansıma açılarının yer değiştirmesi durumunda değişmez.</li> <li>Fiziksel olarak doğru ışık dağılımını sağlar.</li> <li>Enerji Korunumu: BSDF, yüzeyin toplam enerji dengesini koruyacak şekilde tasarlanmıştır. Yüzeye gelen ışık enerjisinin toplamı, yansıyan ve iletilen enerjinin toplamına eşittir.</li> <li>Hemisferik Dağılım: BSDF, ışığın bir yüzeyden yansıdıktan veya geçtikten sonra hangi açılarda<br/>dağıldığını hemisferik olarak tanımlar.</li> </ol>",
+        "SoruMetni": "BSDF fonksiyonunun temel özellikleri hangisinde doğru verilmiştir?<br/><ol> <li>Simetriklik: BSDF fonksiyonu, ışığın geliş ve yansıma açılarının yer değiştirmesi durumunda değişmez.</li> <li>Fiziksel olarak doğru ışık dağılımını sağlar.</li> <li>Enerji Korunumu: BSDF, yüzeyin toplam enerji dengesini koruyacak şekilde tasarlanmıştır. Yüzeye gelen ışık enerjisinin toplamı, yansıyan ve iletilen enerjinin toplamına eşittir.</li> <li>Hemisferik Dağılım: BSDF, ışığın bir yüzeyden yansıdıktan veya geçtikten sonra hangi açılarda<br/>dağıldığını hemisferik olarak tanımlar.</li> </ol>",
         "A": "1 ve 2",
         "B": "2 ve 3",
         "C": "3 ve 4",
@@ -781,7 +781,7 @@
     },
     {
         "SoruID": 3831923,
-        "SoruMetni": "BSDF, çeşitli görselleştirme motorları ve üç boyutlu modelleme yazılımlarında farklı şekillerde uygulanır. Aşağıdakilerden hangisi doğrudur?<br/> <ol style=\"list-style-type: lower-roman;\"> <li>Yaygın BSDF türleri ve kullanım alanlarından bazıları şunlardır:<br/>Lambert Yansıması: Lambert yansıma modeli, ideal bir mat yüzey modelidir. Bu model, ışığın<br/>yüzeye eşit olarak dağıldığını varsayar. Lambert yüzeyleri, her yönde aynı miktarda ışık yansıtır ve bu da difüz yansıma olarak bilinir.</li> <li>Phong Yansıması: Phong yansıma modeli hem speküler (parlak) hem de difüz yansımaları içerir. Speküler yansıma, ışığın yüzeyde belirli bir açıyla yansımasını simüle eder ve parlak noktalar oluşturur.</li> <li>Blinn-Phong Yansıması: Blinn-Phong modeli, Phong modeline benzer ancak hesaplama açısından daha verimlidir. Speküler yansımanın hesaplanmasında kullanılan normal vektörleri ile görüntüleme açısını optimize eder.</li> <li>Cook-Torrance Modeli: Cook-Torrance modeli, metalik ve dielektrik malzemeler için daha gerçekçi yansımalar sağlar. Yüzey pürüzlülüğü ve mikrofacet dağılımı gibi faktörleri dikkate alır.</li> <li>GGX Microfacet Modeli: GGX mikrofacet modeli, modern görselleştirme motorlarında yaygın<br/>olarak kullanılan bir modeldir. Yüzey pürüzlülüğünü ve mikrofacet dağılımını çok hassas bir şekilde simüle eder ve özellikle metalik ve parlak yüzeylerde gerçekçi yansımalar sağlar.</li> </ol>",
+        "SoruMetni": "BSDF, çeşitli görselleştirme motorları ve üç boyutlu modelleme yazılımlarında farklı şekillerde uygulanır. Aşağıdakilerden hangisi doğrudur?<br/><ol style=\"list-style-type: lower-roman;\"> <li>Yaygın BSDF türleri ve kullanım alanlarından bazıları şunlardır:<br/>Lambert Yansıması: Lambert yansıma modeli, ideal bir mat yüzey modelidir. Bu model, ışığın<br/>yüzeye eşit olarak dağıldığını varsayar. Lambert yüzeyleri, her yönde aynı miktarda ışık yansıtır ve bu da difüz yansıma olarak bilinir.</li> <li>Phong Yansıması: Phong yansıma modeli hem speküler (parlak) hem de difüz yansımaları içerir. Speküler yansıma, ışığın yüzeyde belirli bir açıyla yansımasını simüle eder ve parlak noktalar oluşturur.</li> <li>Blinn-Phong Yansıması: Blinn-Phong modeli, Phong modeline benzer ancak hesaplama açısından daha verimlidir. Speküler yansımanın hesaplanmasında kullanılan normal vektörleri ile görüntüleme açısını optimize eder.</li> <li>Cook-Torrance Modeli: Cook-Torrance modeli, metalik ve dielektrik malzemeler için daha gerçekçi yansımalar sağlar. Yüzey pürüzlülüğü ve mikrofacet dağılımı gibi faktörleri dikkate alır.</li> <li>GGX Microfacet Modeli: GGX mikrofacet modeli, modern görselleştirme motorlarında yaygın<br/>olarak kullanılan bir modeldir. Yüzey pürüzlülüğünü ve mikrofacet dağılımını çok hassas bir şekilde simüle eder ve özellikle metalik ve parlak yüzeylerde gerçekçi yansımalar sağlar.</li> </ol>",
         "A": "i ve ii",
         "B": "ii ve iii",
         "C": "iii ve iv",
@@ -817,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gerçek hayata daha yakın görseller kullanıldıkça, izleyici olayların ve karakterlerin reel gerçeklikle tutarlı olmasını bekler."
+        "Aciklama": "3B animasyonların amacı, gerçeği taklit etmek ve izleyiciye<br/>gerçek hayata mümkün olduğunca yakın bir deneyim sunmaktır. Dolayısıyla görüntü, fotografik dünya<br/>görüntüsüne yaklaştıkça, izleyici gördüklerini yaşanılan dünyayla daha fazla özdeşleştirir, izlediği kurmaca<br/>olayları ve görüntüleri gerçekmiş gibi kabul etmek için, ikna edilmeye ihtiyaç duyar. Görüntü gerçeğe ne<br/>kadar yakınsa izleyici, filmin olay ve kişilerinin reel gerçekliğin tutarlılığına ve kurallarına o kadar yaklaşması<br/>beklentisi içine girer. Bu anlamda geleneksel animasyonun hiçbir zaman ikna gibi bir problemi<br/>olmamıştır çünkü izleyici, filmi daha izlemeye niyetlendiği andan itibaren, göreceklerinin hiçbir şekilde<br/>gerçek olmadığını, olayların saçma ve aykırı, abartılı hareketler ve durumlar görebileceğini kendi kendine<br/>kabullenmiştir. İkna problemi, bilhassa Hiper-gerçekçi 3B animasyon filmlerin ve reel-görüntü filmlerinin<br/>karşılaştığı zorluklardan biridir. İzleyicinin, animasyonu yaşadığı dünya g<br>Gerçek hayata daha yakın görseller kullanıldıkça, izleyici olayların ve karakterlerin reel gerçeklikle tutarlı olmasını bekler."
     },
     {
         "SoruID": 3830702,
@@ -837,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mevcut durumunu koruyarak hareketsiz kalır veya sabit hızda hareketine devam eder."
+        "Aciklama": "obje mevcut ağırlığını koruyarak hareketsiz kalacaktır. Elbette kütle ne kadar büyükse eylemsizliği de o<br/>kadar büyüktür (örn. örs). Yani net kuvvet sıfırsa (0-zero-null), cisim hareketsizdir. Buna göre, Webster’in<br/>(2005: 14) de belirttiği gibi Newton’un birinci hareket yasası; ağırlığı olan her objenin, üzerine bir kuvvet<br/>uygulanana kadar hareketsiz kalmasıdır. Yani bir obje hareketsizse, bir dış kuvvet onu etkileyene kadar<br/>mevcut durumunu koruyacaktır. Bir obje hareket ettiğinde, hızını ya da yönünü etkileyen bir dış kuvvet<br/>tarafından etkilenene kadar düz bir çizgide hareket etmeye devam edecektir.<br/>Zıt yönlü ama eşit kuvvetlerin oluşturduğu net kuvvetin karşılığı sıfırdır. Obje sabit bir hızda hareket<br/>hâlindeyse başka bir güç tarafından durmaya zorlanmadığı sürece hızını ve yönünü sabit bir şekilde koruyacaktır.<br/>Sabit hızda giden bir objeyi durmaya zorlayan güç artarsa obje buna direnecektir. Otomobilin<br/>ani duruşunda arkasının yükselmesi ya da sürücünün camdan<br>Mevcut durumunu koruyarak hareketsiz kalır veya sabit hızda hareketine devam eder."
     },
     {
         "SoruID": 3830706,
@@ -857,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İkinci obje, ilk objeye eşit büyüklükte ancak zıt yönlü bir kuvvet uygular."
+        "Aciklama": "Etki-tepkinin oluşması için tek bir obje yeterli gelmez. İki obje olmalıdır. Zemin/duvar ya da hava da<br/>bir obje olarak değerlendirilir. Dolayısıyla birinci obje ikinci objeye bir kuvvet uygularsa (etki), ikinci obje<br/>de birinci objeye bir kuvvet uygular (tepki). Jet uçaklarının havaya uyguladığı etki ve havanın jete uyguladığı<br/>tepkiyle ortaya çıkan ses buna örnektir. Webster (2005: 15), Newton’un üçüncü hareket yasasına göre<br/>her etki için eşit ve zıt bir tepki olduğunu belirtir. Bu, bir cisme bir kuvvet uygulandığında, cismin kuvveti<br/>uygulayan cisme eşit ve zıt bir kuvvetle tepki vereceği anlamına gelir.<br>İkinci obje, ilk objeye eşit büyüklükte ancak zıt yönlü bir kuvvet uygular."
     },
     {
         "SoruID": 3830708,
@@ -877,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tiyatro, vodvil ve sinema oyuncularının hareketlerini inceleyerek geliştirilmiştir."
+        "Aciklama": "“Disney animatörleri bu ilkeleri icat etmemiş, tiyatro, vodvil<br/>ve sinema oyuncularının eylemlerini incelerken keşfetmişlerdir. Örneğin; Charlie Chaplin, oyuncuların seyirciye<br/>ne yapacaklarını söylemeleri gerektiğini, sonra bunu yapmaları gerektiğini ve son olarak da seyirciye<br/>ne yaptıklarını söylemeleri gerektiğini ifade etmiştir. Animatörler bu basit kuraldan yola çıkarak Beklenti<br/>yaratımı ilkesini formüle etmişlerdir” (Ratner, 2004: 264). Bu prensipler sadece hareket estetiği değil, aynı<br/>zamanda animasyonun dili, duygu yaratımı, sunumu ve tekniğiyle ilgili de bir temel teşkil eder. Teknik<br/>türe bağlı olarak bu prensiplerin dereceleri de kuvvetlenir ya da azalır. Örneğin; prensiplerden biri olan<br/>abartının derecesi, animasyonun gerçekçilik derecesine göre artar ya da azalır, ancak asla ortadan kalkmaz.<br/>Buna göre animasyonun 12 temel prensibi vardır.<br>Tiyatro, vodvil ve sinema oyuncularının hareketlerini inceleyerek geliştirilmiştir."
     },
     {
         "SoruID": 3830730,
@@ -897,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pozdan Poza tekniğinde anahtar pozlar belirlenir ve aralar sonradan doldurulurken, Düz İleri tekniğinde animasyon sıfırdan başlayarak adım adım ilerler."
+        "Aciklama": "Düz İleri tekniğinde animasyona en baştan başlayıp adım adım, istenilen hareket tamamlanana kadar<br/>sıralı olarak bir sonraki hareket anı oluşturulur. “Düz İleri animasyonun ilk pozuyla başlar ve hareket sonuna<br/>kadar adım adım geliştirilir” (Bühler, Schlaich ve Sinner, 2017: 4). Düz İleri animasyonunu hareketin<br/>türüne göre kullanmak gerekse de genelde hata yapmaya en açık yöntemdir ve ustalık gerektirir. Bu tekniğin<br/>en büyük avantajı, sunduğu serbestlik ve doğaçlamaya açık olmasıdır. Bu nedenle Düz İleri tekniği genelde<br/>deneysel çalışmalarda kullanılır. Webster’in (2005: 26) de belirttiği gibi Düz İleri tekniği, animasyona aşırı<br/>planlı bir yaklaşımla engel olmaz, hareketi akışa bırakmak mümkün olur. Bu, farklı ögelerin kendi zamanlamalarına<br/>sahip olduğu birden fazla hareket içeren eylemlerde çok kullanışlıdır. Öte yandan, bu durum<br/>animatörün üzerinde büyük bir baskı yaratır, çünkü mevcut bir sekansın içine kareler ekleyerek düzeltme<br/>yapmak kolay bir iş değildir (W<br>Pozdan Poza tekniğinde anahtar pozlar belirlenir ve aralar sonradan doldurulurken, Düz İleri tekniğinde animasyon sıfırdan başlayarak adım adım ilerler."
     },
     {
         "SoruID": 3830732,
@@ -917,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareketin gerçekçilik kazanmasını sağlar ve karakterlerin ruh hâlini yansıtmasına yardımcı olur."
+        "Aciklama": "Zamanlama (Timing): Sahneyi oluşturan her bir eylemin kendi içinde gerçekleşme süresiyle ilgilidir.<br/>Örneğin; bir bayrağın dalgalanışı, karakterin yürümesi, bir eşyanın düşmesi, bir ışığın yanıp<br/>sönmesi gibi bir sahnede yer alabilecek her eylem, birbirinden bağımsız olarak farklı zamanlamalara<br/>sahiptir. Yani her objenin kendi zamanlaması vardır. Sahnede birden fazla obje olduğunda her objenin<br/>önce kendi içinde, sonra diğer objelerle zamanlaması kurgulanıp planlanmalıdır.<br>Hareketin gerçekçilik kazanmasını sağlar ve karakterlerin ruh hâlini yansıtmasına yardımcı olur."
     },
     {
         "SoruID": 3830733,
@@ -937,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareketi daha doğal ve gerçekçi hâle getirerek objelerin veya karakterlerin fizik kurallarına uygun şekilde hareket etmesini sağlar."
+        "Aciklama": "Peşi Sıra Takip ve Örtüşüm Eylemi (Follow Through &amp; Overlapping Action)<br/>Bu prensip, genel olarak ana hareketin yan hareketlerle belli bir zamanlamada ve devamlılık hareketiyle<br/>desteklenmesine karşılık gelir. Bir objeye ait destekleyici parçaların ana objeyle uyumlu ama bağımsız bir<br/>hareket algısı oluşturmasıdır. Peşi sıra takip yöntemi ana hareketi tamamlayarak gerçekçi kılarken Örtüşüm<br/>eylemi, hareketle uyumlu ikinci bir hareket oluşturarak benzer bir etki yaratmaktadır. “Peşi sıra takipte, animatörlerin<br/>bir objenin parçalarının, objenin tamamı durduktan sonra bile hareket etmeye devam ğini göstermelerini sağlar. Örneğin, uzun saçlı bir karakter yürümeyi bıraktığında, saç gövdeyi/başı aşacak ve<br/>sonra duracaktır” (Beane, 2012:100). Bilhassa saç, giysi, kostümlerde bu yöntem sıklıkla kullanılmaktadır.<br/>“Örtüşüm eyleminde ise bir karakterin tüm vücudu hareket ederken farklı hızlarda hareket eden vücut parçaları<br/>için geçerlidir. Bu, örneğin şişman bir karakterin göbe<br>Hareketi daha doğal ve gerçekçi hâle getirerek objelerin veya karakterlerin fizik kurallarına uygun şekilde hareket etmesini sağlar."
     },
     {
         "SoruID": 3830735,
@@ -957,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareketin doğal, akıcı ve gerçekçi görünmesini sağlar."
+        "Aciklama": "Arklar (Arcs)<br/>Hareketin başlangıcından bitimine giden hayali, eğimli çizgileri ifade eder. Her hareketin takip ettiği<br/>bir yol, bir aks, bir akış bulunmaktadır. “Doğal harmonik hareketler genellikle yay şeklinde bir yol izler.<br/>Objelerin hareketi fiziksel yasaları takip eder” (Bühler, Schlaich, Sinner, 2017: 5).<br/>Gerçek dünyadaki canlıların hareketleri de bir arka (yay şekli) bağlıdır. Arklar hareketleri daha akıcı ve<br/>gerçekçi kılar. İnsan ve hayvan formları eklemler dolayısıyla, objeler yer çekiminden kaynaklı ark sistemine<br/>göre hareket eder. Bir kuşun kanatlarını çırpması, bir insanın kolunu kaldırması, yaprakların rüzgârda<br/>savrulması vs. Arkı olmayan hareketler mekanik hareketlerdir ancak bu mekanik hareketlerin bir arka sahip<br/>olamayacağı anlamına gelmez. 3B çalışmalarda arklar parametrelere bağlı olduğu için estetik bir planlamadan<br/>ziyade hesaplanmış bir yoldur.<br>Hareketin doğal, akıcı ve gerçekçi görünmesini sağlar."
     },
     {
         "SoruID": 3830737,
@@ -977,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Animatörün canlandırdığı karakterin veya objenin hareketlerini gerçek hayatta gözlemleyerek mantıklı bir çerçevede oluşturmasıyla."
+        "Aciklama": "Animasyonda Rol Yapmanın Önemi<br/>Animasyonda hareket hâlindeki objeler ve karakterler daha önce de belirtildiği yalnızca kıpırdamamaktadır.<br/>Animasyon, öykü içersin ya da içermesin hareketlerin dramatik bir aksiyon olarak yansıtılmasını<br/>gerektirir. Basit bir üçgenin A noktasından B noktasına gitmesinde dahi bir neden sonuç ilişkisi, estetik<br/>bir kaygı, bir ifade biçimi vardır. Dolayısıyla animasyonda sadece karakterler değil, hareket hâlindeki her<br/>objenin bir rolü olduğu unutulmamalıdır. Animasyonda yer alan her tür obje, karakter hatta ışık, efekt ve<br/>ses dahi dramatik aksiyonu bütünleyen bir oyuncudur. Ancak hareketlendirilen her ne ise rol, “...tiyatro ve<br/>reel görüntü filmlerinde olduğu gibi bir aktörün bedeninde hayat bulup sahnede yer almaz; animatörün<br/>parmakları arasında, bir kukla gibi oynatılır. Bu kuklanın ne kadar başarılı olduğu ne kadar iyi hareketlendirildiğiyle,<br/>hareket estetiğinin çalışmaya ne kadar iyi yansıtılabildiğiyle ölçülür” (Halaçoğlu, 2020: 48<br>Animatörün canlandırdığı karakterin veya objenin hareketlerini gerçek hayatta gözlemleyerek mantıklı bir çerçevede oluşturmasıyla."
     },
     {
         "SoruID": 3830739,
@@ -997,11 +997,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "FK’da ebeveyn hareket ettiğinde çocuk kemikleri onu takip ederken, IK’da çocuk hareket ettiğinde ebeveyn kemikleri onu takip eder."
+        "Aciklama": "İskelet yapısı hiyerarşik bir sisteme dayanır. Her bir kemik, kendisinden önceki ya da sonraki kemikle<br/>bağlantılıdır ve hareket alanı iskelet sistemindeki ilişki biçimine tabidir. Kemiklerin birbirine bağlanması<br/>olgusu, ebeveyn / çocuk (parent / child) kavramını anlamayı gerektirir. Görsel 5.12’de de görüldüğü gibi<br/>eğer birbiriyle bağlantılı A, B ve C kemikleri arasında ebeveyn/çocuk ilişkisi varsa, örneğin A kemiği ebeveynse,<br/>B ve C kemikleri onun çocuğu olacak ve A kemiği hareket ettirildiğinde onu takip ederek, A kemiğinin<br/>hareketlerine uyumlu hareket edeceklerdir. Hiyerarşiye göre B kemiği de C kemiğinin ebeveyni, C<br/>kemiği hem A hem de B kemiğinin çocuğu durumundadır.<br>FK’da ebeveyn hareket ettiğinde çocuk kemikleri onu takip ederken, IK’da çocuk hareket ettiğinde ebeveyn kemikleri onu takip eder."
     },
     {
         "SoruID": 3834299,
-        "SoruMetni": "Sahne tasarımında bir yüzeyin sık seyrek dokulu olması, derinlik ya da çıkıntı  ile ilgili durumları  performans ve zaman kaybını azaltarak çözümleyen yöntem aşağıdakilerden hangisidir?",
+        "SoruMetni": "Sahne tasarımında bir yüzeyin sık seyrek dokulu olması, derinlik ya da çıkıntı ile ilgili durumları performans ve zaman kaybını azaltarak çözümleyen yöntem aşağıdakilerden hangisidir?",
         "A": "Bump harita",
         "B": "Displacement harita",
         "C": "Render",
@@ -1017,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Displacement harita, kabaca bir malzemenin ne kadar ve ne şekilde yer değiştirerek 3B görünüm kazanacağını belirler. Sahnelerde saç, kıl, ot ve tüy gibi tek tek modellemenin hem zaman hem de performans kaybı olacağı durumlarda tercih edilen bir haritalandırma yöntemidir"
+        "Aciklama": "sayfa 190 Displacement haritalandırma ile oluşturulan malzemelerin 2B olarak dokulara atanan haritalardan bir başka farkı da sahnedeki ışık ve gölge ile olan ilişkisidir. Görsel 6.9’da displacement harita ile oluşturulmuş örgünün bir malzemenin sık dokulu hâli ile seyrek dokulu<br/>hâlini yan yana görülmektedir.<br>Displacement harita, kabaca bir malzemenin ne kadar ve ne şekilde yer değiştirerek 3B görünüm kazanacağını belirler. Sahnelerde saç, kıl, ot ve tüy gibi tek tek modellemenin hem zaman hem de performans kaybı olacağı durumlarda tercih edilen bir haritalandırma yöntemidir"
     },
     {
         "SoruID": 3834307,
@@ -1077,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Geniş açılı bir lens kullanmak, sahnenin daha geniş ve derin görünmesine yardımcı olurken,  sahnedeki objeler arasındaki mesafeyi sıkıştırarak daha samimi ve yoğun bir görüntü oluşturabilen telefoto lens kullanımıdır."
+        "Aciklama": "Geniş açılı bir lens kullanmak, sahnenin daha geniş ve derin görünmesine yardımcı olurken, sahnedeki objeler arasındaki mesafeyi sıkıştırarak daha samimi ve yoğun bir görüntü oluşturabilen telefoto lens kullanımıdır."
     },
     {
         "SoruID": 3834317,
@@ -1141,7 +1141,7 @@
     },
     {
         "SoruID": 3834326,
-        "SoruMetni": "I Büyük bütçeli film ve animasyon stüdyoları tarafından sıklıkla tercih edilir.<br/> II Bağımsız geliştiriciler ve hobi kullanıcıları için maliyet etkin bir çözümdür.<br/> III Mimari görselleştirme, iç mekân sahneleri, yüksek çözünürlüklü görseller için kullanılır.<br/> IV Fiziksel olarak doğru aydınlatma hesaplamaları yapar<br/> V yüksek poligonlu objeler için kullanılır<br/> VI Blender 3B yazılımında kullanılır<br/> VII kullanıcı dostu arayüzüne ve geniş malzeme kütüphanesine sahiptir.<br/> Yukarıda verilen render motorlarına ait kullanım ve popülerlik özelliklerinden hangileri Arnold için geçerlidir?",
+        "SoruMetni": "I Büyük bütçeli film ve animasyon stüdyoları tarafından sıklıkla tercih edilir.<br/>II Bağımsız geliştiriciler ve hobi kullanıcıları için maliyet etkin bir çözümdür.<br/>III Mimari görselleştirme, iç mekân sahneleri, yüksek çözünürlüklü görseller için kullanılır.<br/>IV Fiziksel olarak doğru aydınlatma hesaplamaları yapar<br/>V yüksek poligonlu objeler için kullanılır<br/>VI Blender 3B yazılımında kullanılır<br/>VII kullanıcı dostu arayüzüne ve geniş malzeme kütüphanesine sahiptir.<br/>Yukarıda verilen render motorlarına ait kullanım ve popülerlik özelliklerinden hangileri Arnold için geçerlidir?",
         "A": "II, IV, VII",
         "B": "V, VI,VII",
         "C": "I, IV, V",
@@ -1157,7 +1157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Arnold büyük bütçeli film ve animasyon stüdyoları tarafından sıklıkla tercih edilir. Fiziksel olarak doğru aydınlatma hesaplamaları yapar, yüksek poligonlu objeler için kullanılır."
+        "Aciklama": "Arnold<br/>Fiziksel olarak doğru aydınlatma<br/>hesaplamaları, üstün bellek<br/>yönetimi, yüksek performans<br/>Sinema endüstrisi,<br/>karmaşık karakter<br/>animasyonları, VFX<br/>projeleri, yüksek<br/>poligonlu objeler</br><br/>Büyük bütçeli film ve<br/>animasyon stüdyoları<br/>tarafından sıklıkla tercih<br/>edilir.</br><br>Arnold büyük bütçeli film ve animasyon stüdyoları tarafından sıklıkla tercih edilir. Fiziksel olarak doğru aydınlatma hesaplamaları yapar, yüksek poligonlu objeler için kullanılır."
     },
     {
         "SoruID": 3834329,
@@ -1237,11 +1237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3 boyutlu modelleme sürecinin avantajlarını belirli maddeler hâlinde sıralayacak olursak:<br/> <ul> <li> Tasarımın Doğruluğunu Artırır: 3B modelleme, tasarımdaki hassasiyeti artırarak her detayın tam ve doğru olmasını sağlayacaktır. Modellenen ile inşa edilenin tam olarak eşleşmesini sağlayarak tahminleri ortadan kaldıracaktır.<br/> </li> <li> Üretim Süresinden Tasarruf Sağlar: 3B modellerin kullanılması üretim sürecini hızlandırarak değişikliklerin hızlı bir şekilde yapılmasını sağlar. Böylece tasarım yinelemeleri için gereken toplam sürenin azalmasına yardımcı olur.<br/> </li> <li> Tasarım Hatalarını Azaltır: 3B modelleme ile tasarımda hata yapma olasılığı önemli ölçüde aza- lır. Herhangi bir potansiyel sorun, gerçek hayatta maliyeti daha yüksek hatalara dönüşmeden önce obje üzerinde belirlenerek düzeltilebilir.<br/> </li> <li> Sanal Prototiplemeyi Etkinleştirir: 3B modelleme programlarıyla fiziksel nesne masrafı olmadan test ve iyileştirme yapılmasına olanak tanıyan sanal prototipler oluşturarak hem zamandan hem de kaynaklardan tasarruf sağlanabilir. Bu duruma örnek olarak bir lavabo tasarladığımızı düşünelim. İstenen su akışını test etmek için birden fazla lavaboyu somut olarak üretmek, kalıp maliyetleri dü- şünüldüğünde üretici firma açısından masraflı olacaktır. Alternatif tasarımlar bilgisayar ortamında modellenerek, tasarlanan lavabolardaki suyun akışının simüle edilmesiyle bu masraf ortadan kalk- mış olacaktır.<br/> </li> <li> Görsel İletişimi Geliştirir: 3B modeller tasarımın net ve kapsamlı bir görünümünü sağlayarak herkesin projeyi anlamasını ve projeye dahil olmasını kolaylaştırıp görsel iletişimi geliştirir.<br/> </li> </ul>"
+        "Aciklama": "3 boyutlu modelleme sürecinin avantajlarını belirli maddeler hâlinde sıralayacak olursak:<br/><ul> <li> Tasarımın Doğruluğunu Artırır: 3B modelleme, tasarımdaki hassasiyeti artırarak her detayın tam ve doğru olmasını sağlayacaktır. Modellenen ile inşa edilenin tam olarak eşleşmesini sağlayarak tahminleri ortadan kaldıracaktır.<br/></li> <li> Üretim Süresinden Tasarruf Sağlar: 3B modellerin kullanılması üretim sürecini hızlandırarak değişikliklerin hızlı bir şekilde yapılmasını sağlar. Böylece tasarım yinelemeleri için gereken toplam sürenin azalmasına yardımcı olur.<br/></li> <li> Tasarım Hatalarını Azaltır: 3B modelleme ile tasarımda hata yapma olasılığı önemli ölçüde aza- lır. Herhangi bir potansiyel sorun, gerçek hayatta maliyeti daha yüksek hatalara dönüşmeden önce obje üzerinde belirlenerek düzeltilebilir.<br/></li> <li> Sanal Prototiplemeyi Etkinleştirir: 3B modelleme programlarıyla fiziksel nesne masrafı olmadan test ve iyileştirme yapılmasına olanak tanıyan sanal prototipler oluşturarak hem zamandan hem de kaynaklardan tasarruf sağlanabilir. Bu duruma örnek olarak bir lavabo tasarladığımızı düşünelim. İstenen su akışını test etmek için birden fazla lavaboyu somut olarak üretmek, kalıp maliyetleri dü- şünüldüğünde üretici firma açısından masraflı olacaktır. Alternatif tasarımlar bilgisayar ortamında modellenerek, tasarlanan lavabolardaki suyun akışının simüle edilmesiyle bu masraf ortadan kalk- mış olacaktır.<br/></li> <li> Görsel İletişimi Geliştirir: 3B modeller tasarımın net ve kapsamlı bir görünümünü sağlayarak herkesin projeyi anlamasını ve projeye dahil olmasını kolaylaştırıp görsel iletişimi geliştirir.<br/></li> </ul>"
     },
     {
         "SoruID": 3831016,
-        "SoruMetni": "Aşağıdakilerden hangisi 3 boyutlu modelleme sürecinin avantajları yanında dikkate alınması gereken dezavantajlarından biri <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span>",
+        "SoruMetni": "Aşağıdakilerden hangisi 3 boyutlu modelleme sürecinin avantajları yanında dikkate alınması gereken dezavantajlarından biri <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span>",
         "A": "Tasarımın Doğruluğunu Artırır",
         "B": "Öğrenme ve Kullanım Maliyetleri",
         "C": "Zaman Alan Süreç",
@@ -1257,7 +1257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3 boyutlu modelleme sürecinin avantajları yanında dikkate alınması gereken bazı dezavantajları da olabilir:<br/> <ul> <li> Öğrenme ve Kullanım Maliyetleri: 3B modelleme becerilerinin kazanılması, pahalı yazılımların satın alınmasını ve mesleki eğitim gerektirmesi nedeniyle maliyetli olabilir.<br/> </li> <li> Zaman Alan Süreç: 3B modelleri oluşturmak zaman alıcı olabilir ve her objenin tasarımı, iyileşti- rilmesi ve son hâline getirilmesi uzun saatler gerektirebilir.<br/> </li> <li> Üst Düzey Donanım Gereksinimleriâ 3B modelleme yazılımının sorunsuz çalışması için genellikle gelişmiş grafik özelliklere sahip, yüksek performanslı bilgisayarlara ihtiyaç olabilir.<br/> </li> <li> Ustalaşmanın Zorlukları 3B modellemenin karmaşıklığı hem sanatsal hem de teknik kavramların bu alanda uzmanlaşmayı hedefleyen kişi tarafından derinlemesine anlaşılmasını gerektirir.<br/> </li> <li> Sınırlı Fiziksel Etkileşim: Gerçek dünyadaki heykeltraşlığın aksine, 3B modelleme sınırlı fiziksel etkileşim sunar ve bu da bazen sanatçıların vizyonlarını tam olarak gerçekleştirmelerine engel ola- bilir.<br/> </li> </ul>"
+        "Aciklama": "3 boyutlu modelleme sürecinin avantajları yanında dikkate alınması gereken bazı dezavantajları da olabilir:<br/><ul> <li> Öğrenme ve Kullanım Maliyetleri: 3B modelleme becerilerinin kazanılması, pahalı yazılımların satın alınmasını ve mesleki eğitim gerektirmesi nedeniyle maliyetli olabilir.<br/></li> <li> Zaman Alan Süreç: 3B modelleri oluşturmak zaman alıcı olabilir ve her objenin tasarımı, iyileşti- rilmesi ve son hâline getirilmesi uzun saatler gerektirebilir.<br/></li> <li> Üst Düzey Donanım Gereksinimleriâ 3B modelleme yazılımının sorunsuz çalışması için genellikle gelişmiş grafik özelliklere sahip, yüksek performanslı bilgisayarlara ihtiyaç olabilir.<br/></li> <li> Ustalaşmanın Zorlukları 3B modellemenin karmaşıklığı hem sanatsal hem de teknik kavramların bu alanda uzmanlaşmayı hedefleyen kişi tarafından derinlemesine anlaşılmasını gerektirir.<br/></li> <li> Sınırlı Fiziksel Etkileşim: Gerçek dünyadaki heykeltraşlığın aksine, 3B modelleme sınırlı fiziksel etkileşim sunar ve bu da bazen sanatçıların vizyonlarını tam olarak gerçekleştirmelerine engel ola- bilir.<br/></li> </ul>"
     },
     {
         "SoruID": 3831017,
@@ -1281,7 +1281,7 @@
     },
     {
         "SoruID": 3831018,
-        "SoruMetni": "Aşağıdakilerden hangisi 3 boyutlu modelleme için yaygın olarak kullanılan programlardan biri<strong><span style=\"text-decoration: underline;\"> değildir? </span></strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi 3 boyutlu modelleme için yaygın olarak kullanılan programlardan biri<strong><span style=\"text-decoration: underline;\"> değildir? </span></strong>",
         "A": "Illustrator",
         "B": "3DS Max",
         "C": "Autodesk Fusion 360",
@@ -1301,7 +1301,7 @@
     },
     {
         "SoruID": 3831027,
-        "SoruMetni": "Aşağıdakilerden hangisi veya hangileri Film çekimi sonrasındaki Postprodüksiyon aşamalarıdır?<br/> I. Düzenleme<br/> II. Ses Tasarımı<br/> III. Görsel Efektler<br/> IV. Renk Düzeltme<br/> V. Başlıklar, Jenerik ve Grafikler<br/> VII. Müzik ve Ses Miksajı<br/> VII. Dağıtım Materyalleri",
+        "SoruMetni": "Aşağıdakilerden hangisi veya hangileri Film çekimi sonrasındaki Postprodüksiyon aşamalarıdır?<br/>I. Düzenleme<br/>II. Ses Tasarımı<br/>III. Görsel Efektler<br/>IV. Renk Düzeltme<br/>V. Başlıklar, Jenerik ve Grafikler<br/>VII. Müzik ve Ses Miksajı<br/>VII. Dağıtım Materyalleri",
         "A": "I/II/III/IV/V/VI/VII",
         "B": "I/II/III/IV/V/VI",
         "C": "III/IV/V/VI/VII",
@@ -1317,7 +1317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Film çekimi sonrasındaki Postprodüksiyon aşamaları şunlardır<br/> <ul> <li>Düzenleme: Editörlerin net bir anlatı oluşturmak için ham görüntüleri kesip birleştirdiği montaj aşamadır.</li> <li>Ses Tasarımı: Ses editörlerinin, diyalogları temizleyerek, gerekirse ortam sesleri ve müzikleri ekleyerek ses kalitesini arttırdıkları aşamadır.</li> <li>Görsel Efektler: Gerek CGI (Bilgisayar Üretimi Görüntü) gerekse yeşil ekranlara karşı çekilen sahneleri geliştirerek görsel efektlerin oluşturulduğu aşamadır. Çekimler yeşil perde üzerinden yapıldığında, Post-prodüksiyon aşamasında eklenen görsel efektler ile en fantastik ve gerçek olamayacak durumlar bile gerçek gibi görünebilmektedir.</li> <li>Renk Düzeltme: Renk uzmanları, istenen görünümü elde etmek için renk dengesini, doygunluğu ve kontrastı ayarlar. Bu adım, farklı sahneler arasında tutarlılığı sağlamak için önemlidir.</li> <li>Başlıklar, Jenerik ve Grafikler: Filmin açılış ve kapanış jenerikleri ile ekrandaki herhangi bir metin veya grafiklerin eklendiği aşamadır.</li> <li>Müzik ve Ses Miksajı: Filmin müziklerinin entegre edilmesi ve gerekli ses miksajının yapılmasıyla tüm ses ögelerinin uyumlu bir şekilde harmanlanması sağlanır.</li> <li>Dağıtım Materyalleri: Post-prodüksiyon ayrıca dijital dosyalar, baskılar ve fragmanlar gibi dağıtım için gereken materyallerin hazırlanmasını da içermektedir.</li> </ul>"
+        "Aciklama": "Film çekimi sonrasındaki Postprodüksiyon aşamaları şunlardır<br/><ul> <li>Düzenleme: Editörlerin net bir anlatı oluşturmak için ham görüntüleri kesip birleştirdiği montaj aşamadır.</li> <li>Ses Tasarımı: Ses editörlerinin, diyalogları temizleyerek, gerekirse ortam sesleri ve müzikleri ekleyerek ses kalitesini arttırdıkları aşamadır.</li> <li>Görsel Efektler: Gerek CGI (Bilgisayar Üretimi Görüntü) gerekse yeşil ekranlara karşı çekilen sahneleri geliştirerek görsel efektlerin oluşturulduğu aşamadır. Çekimler yeşil perde üzerinden yapıldığında, Post-prodüksiyon aşamasında eklenen görsel efektler ile en fantastik ve gerçek olamayacak durumlar bile gerçek gibi görünebilmektedir.</li> <li>Renk Düzeltme: Renk uzmanları, istenen görünümü elde etmek için renk dengesini, doygunluğu ve kontrastı ayarlar. Bu adım, farklı sahneler arasında tutarlılığı sağlamak için önemlidir.</li> <li>Başlıklar, Jenerik ve Grafikler: Filmin açılış ve kapanış jenerikleri ile ekrandaki herhangi bir metin veya grafiklerin eklendiği aşamadır.</li> <li>Müzik ve Ses Miksajı: Filmin müziklerinin entegre edilmesi ve gerekli ses miksajının yapılmasıyla tüm ses ögelerinin uyumlu bir şekilde harmanlanması sağlanır.</li> <li>Dağıtım Materyalleri: Post-prodüksiyon ayrıca dijital dosyalar, baskılar ve fragmanlar gibi dağıtım için gereken materyallerin hazırlanmasını da içermektedir.</li> </ul>"
     },
     {
         "SoruID": 3831030,
@@ -1357,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3 boyutlu mimari projelerle ilişkili yaygın olarak kullanılan dokümantasyon yöntemleri şunlardır (URL-3);<br/> <ul> <li> Dijital Durağan Görüntü Dosyaları: Dijital cihazlarda (Örneğin; bilgisayar monitörleri, TV’ler ve projektörler) görüntülenecek 2 veya 3 boyutlu durağan görüntü oluşturma biçimidir. Web si- telerinde ve PowerPoint sunularındaki görüntülerin geneli dijital hareketsiz görüntü dosyalarıdır. Yaygın dosya biçimleri JPG, GIF ve PNG’dir.<br/> </li> <li> Baskılar: Kullanılan baskı işlemi, büyük ölçüde bütçeye ve kaç baskıya ihtiyaç duyulduğuna bağ- lıdır. (Örneğin, A4 parlak kâğıda baskı, A3 mat kâğıda baskı, vb.)<br/> </li> <li> Dijital Animasyon ve Video Dosyaları: Dijital cihazlarda görüntülenecek hareketli dosyaları oluş- turma biçimidir. Bir web sitesindeki hareketli görsel veya dijital sunumun bir parçası olarak görülen animasyon veya videolar bu başlığa örnek olarak verilebilir. Yaygın dosya formatları MPEG, AVI ve FLV’dir.<br/> </li> <li> CD/DVD Aracılığı ile Dağıtım: CD veya DVD’ler seri olarak üretilerek bilgisayarlarda oynatıl- mak üzere hedef kitleye dağıtılabilir. Bu yöntemin günümüzde modası geçmiş olup, yerini aynı içeriği ve etkileşimi CD çoğaltma maliyeti olmadan çevrim içi olarak kullanılabilir hâle getirebilen sosyal medya veya web tabanlı dağıtım yöntemleri almıştır. Bazı durumlarda (özellikle bir video web’de güvenilir bir şekilde görüntülenemeyecek kadar büyük olduğunda), video içeriğini dağıt- mak için hâlen CD/DVD’lerden yararlanılmaktadır.<br/> </li> </ul>"
+        "Aciklama": "3 boyutlu mimari projelerle ilişkili yaygın olarak kullanılan dokümantasyon yöntemleri şunlardır (URL-3);<br/><ul> <li> Dijital Durağan Görüntü Dosyaları: Dijital cihazlarda (Örneğin; bilgisayar monitörleri, TV’ler ve projektörler) görüntülenecek 2 veya 3 boyutlu durağan görüntü oluşturma biçimidir. Web si- telerinde ve PowerPoint sunularındaki görüntülerin geneli dijital hareketsiz görüntü dosyalarıdır. Yaygın dosya biçimleri JPG, GIF ve PNG’dir.<br/></li> <li> Baskılar: Kullanılan baskı işlemi, büyük ölçüde bütçeye ve kaç baskıya ihtiyaç duyulduğuna bağ- lıdır. (Örneğin, A4 parlak kâğıda baskı, A3 mat kâğıda baskı, vb.)<br/></li> <li> Dijital Animasyon ve Video Dosyaları: Dijital cihazlarda görüntülenecek hareketli dosyaları oluş- turma biçimidir. Bir web sitesindeki hareketli görsel veya dijital sunumun bir parçası olarak görülen animasyon veya videolar bu başlığa örnek olarak verilebilir. Yaygın dosya formatları MPEG, AVI ve FLV’dir.<br/></li> <li> CD/DVD Aracılığı ile Dağıtım: CD veya DVD’ler seri olarak üretilerek bilgisayarlarda oynatıl- mak üzere hedef kitleye dağıtılabilir. Bu yöntemin günümüzde modası geçmiş olup, yerini aynı içeriği ve etkileşimi CD çoğaltma maliyeti olmadan çevrim içi olarak kullanılabilir hâle getirebilen sosyal medya veya web tabanlı dağıtım yöntemleri almıştır. Bazı durumlarda (özellikle bir video web’de güvenilir bir şekilde görüntülenemeyecek kadar büyük olduğunda), video içeriğini dağıt- mak için hâlen CD/DVD’lerden yararlanılmaktadır.<br/></li> </ul>"
     },
     {
         "SoruID": 3831032,
@@ -1417,7 +1417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3B modelleme ve tasarım, bilgisayar destekli tasarım (CAD) yazılımları ve 3B yazıcılar sayesinde üretim süreçlerini hızlandırarak prototipleme ve kişiselleştirilmiş üretim imkânı sunmuştur."
+        "Aciklama": "3B modelleme ve tasarım, bilgisayar destekli tasarım (CAD) yazılımları sayesinde mühendislerin ve<br/>tasarımcıların karmaşık parçaları daha hızlı ve etkin şekilde tasarlamalarını sağlamış, 3B yazıcılar ise bu tasarımları<br/>fiziksel nesnelere dönüştürme yeteneği ile prototipleme ve üretim süreçlerini hızlandırmıştır. Bu<br/>yenilikler, ürün geliştirme süreçlerini devrimleştirerek, piyasaya sürülme sürelerini kısaltmış ve kişiselleştirilmiş<br/>üretim seçeneklerini artırmıştır (Gibson et al., 2015). Ayrıca 3B modelleme ve tasarımın Endüstriyel<br/>Devrim’deki rolü, üretim süreçlerini sadece hızlandırmakla kalmamış, aynı zamanda sürdürülebilirlik ve<br/>verimlilik açısından da önemli katkılar sunmuştur. Malzeme israfını azaltarak ve enerji tüketimini optimize<br/>ederek çevresel etkiyi minimuma indirgemeye yardımcı olmuştur. Ayrıca, karmaşık geometrilerin ve hafif<br/>yapıların üretimini mümkün kılarak, otomotiv ve havacılık gibi sektörlerde yenilikçi çözümler sunmuştur.<br>3B modelleme ve tasarım, bilgisayar destekli tasarım (CAD) yazılımları ve 3B yazıcılar sayesinde üretim süreçlerini hızlandırarak prototipleme ve kişiselleştirilmiş üretim imkânı sunmuştur."
     },
     {
         "SoruID": 3830612,
@@ -1437,7 +1437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Esnek üretim hatları sayesinde farklı ürünlerin aynı üretim hattında, minimum zaman ve maliyetle üretilmesine olanak tanımaktadır."
+        "Aciklama": "Maliyet azaltma, Endüstri 4.0 ve bilgisayar destekli tasarımın üretim süreçlerine entegrasyonunun<br/>getirdiği başka bir önemli avantajdır. 3B modelleme ve tasarım, hızlı prototipleme (ilk örnek) ve doğrudan<br/>dijital üretim gibi imalat teknolojilerini kullanarak<br/>sanatçı, tasarımcı ve mühendislere karmaşık<br/>geometrileri ve özelleştirilmiş parçaları hızlı ve maliyet<br/>etkin bir şekilde üretme olanağı tanır. Bu, geleneksel<br/>üretim yöntemlerine kıyasla önemli maliyet<br/>avantajları sağlar çünkü 3B baskı malzeme israfını<br/>azaltır ve montaj süreçlerini basitleştirir<br>Esnek üretim hatları sayesinde farklı ürünlerin aynı üretim hattında, minimum zaman ve maliyetle üretilmesine olanak tanımaktadır."
     },
     {
         "SoruID": 3830616,
@@ -1457,7 +1457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3B modelleme ve tasarım, malzeme israfını azaltarak ve üretim süreçlerini optimize ederek çevresel ayak izini küçültmektedir."
+        "Aciklama": "Günümüz dünyasında sürdürülebilirlik, çevresel etkilerin azaltılması, kaynakların verimli kullanımı<br/>ve gelecek nesillere yaşanabilir bir dünya bırakma hedefi ile giderek artan bir önem kazanmaktadır. Bu<br/>bağlamda, 3B modelleme ve tasarım teknolojileri, endüstriyel süreçleri yeniden şekillendirerek sürdürülebilirlik<br/>ilkelerini benimseyen öncü uygulamalardan biri hâline gelmiştir. Üç boyutlu bilgisayar yazılımları<br/>kullanılarak objelerin ve sistemlerin dijital ortamda modellenmesi, malzeme israfını önemli ölçüde<br/>azaltarak ve üretim süreçlerini optimize ederek çevresel ayak izini küçültmektedir (<br>3B modelleme ve tasarım, malzeme israfını azaltarak ve üretim süreçlerini optimize ederek çevresel ayak izini küçültmektedir."
     },
     {
         "SoruID": 3830660,
@@ -1477,7 +1477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Etki Değerlendirmesi"
+        "Aciklama": "Etki Değerlendirmesi: Envanter analizinde elde edilen verilerin çevresel etkilere dönüştürülmesi<br/>ve değerlendirilmesini içerir. Bu aşamada, hangi çevresel etkilerin en önemli olduğu belirlenir ve bu<br/>etkilerin minimize edilmesi için stratejiler geliştirilir."
     },
     {
         "SoruID": 3830663,
@@ -1497,7 +1497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital ikizler ve sanal prototipleme kullanılarak, fiziksel prototip ihtiyacını azaltıp malzeme israfını önlemek."
+        "Aciklama": "Tasarım ve üretimde esneklik, atık azaltma yöntemlerinin uygulanmasını kolaylaştırır. Esnek üretim hatları,<br/>farklı ürünlerin hızlı ve verimli bir şekilde üretilmesine olanak tanır, böylece gereksiz stok ve malzeme<br/>israfı önlenir (Bartle, 2004; Jürgens, 2000).<br/>Geri dönüştürülebilir malzemeler ve çevre dostu üretim süreçleri, sürdürülebilirlik ve 3B modelleme ve<br/>tasarımın önemli unsurlarıdır. Bu konseptler, çevresel etkiyi azaltma ve kaynak verimliliğini artırma amacıyla<br/>bir araya gelir. Özellikle biyo-tabanlı polimerler gibi yenilenebilir malzemeler, fosil yakıtlara dayalı<br/>geleneksel plastiklerin yerini alarak, sera gazı emisyonlarını düşürmeye ve atık yönetimini iyileştirmeye<br/>yardımcı olur. Biyo-tabanlı polimerlerin kullanımı, 3B baskı teknolojileri ile birleştiğinde, üretim süreçlerinin<br/>çevresel etkisini azaltma potansiyeline sahiptir. 3B baskı, malzeme israfını önleyerek ve sadece ihtiyaç<br/>duyulan malzemeyi kullanarak, üretim sürecini optimize eder. Bu, gelene<br>Dijital ikizler ve sanal prototipleme kullanılarak, fiziksel prototip ihtiyacını azaltıp malzeme israfını önlemek."
     },
     {
         "SoruID": 3830668,
@@ -1517,7 +1517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hastaların bireysel anatomik yapısına uygun protez ve implant üretimine olanak tanıması."
+        "Aciklama": "Bu avantajların yanı sıra 3B baskı teknolojisinin bir diğer önemli yönü maliyet etkinliği ve hızlı üretim<br/>süreçleridir. Geleneksel yöntemlerle üretilen tıbbi cihazlar, uzun üretim süreçleri ve yüksek maliyetler<br/>gerektirirken 3B baskı bu süreçleri önemli ölçüde hızlandırabilir ve maliyetleri azaltabilir. Bu, sağlık hizmetlerinin<br/>daha geniş bir kitleye ulaşmasını sağlar. Ayrıca, 3B baskı ile üretilen tıbbi cihazlar, hasta ihtiyaçlarına<br/>göre kolayca uyarlanabilir ve güncellenebilir bu da tedavi süreçlerinin esnekliğini artırır<br>Hastaların bireysel anatomik yapısına uygun protez ve implant üretimine olanak tanıması."
     },
     {
         "SoruID": 3830672,
@@ -1537,7 +1537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biyo uyumlu olmaları ve vücut tarafından kabul edilebilmeleri."
+        "Aciklama": "Bu doğrultuda biyomalzemelerin biyouyumluluğu, vücut tarafından kabul edilme yeteneği anlamına<br/>gelir. Bu malzemeler, inflamasyon veya alerjik reaksiyonlar oluşturmadan vücut dokuları ile uyumlu olmalıdır.<br/>Örneğin; titanyum ve bazı polimerler, yüksek biyouyumlulukları nedeniyle tıbbi implantlar için sıklıkla<br/>tercih edilen malzemeler arasındadır (Hopkinson, Hague&amp; Dickens, 2006). Biyouyumlu malzemeler,<br/>vücutla daha iyi entegre olma yetenekleri sayesinde implantların başarısını artırır. Bu malzemelerin doğru<br/>seçimi, hastaların iyileşme sürecini hızlandırır ve komplikasyon riskini azaltır.<br>Biyo uyumlu olmaları ve vücut tarafından kabul edilebilmeleri."
     },
     {
         "SoruID": 3830674,
@@ -1557,7 +1557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ürün geliştirme sürecini hızlandırarak pazardaki değişimlere daha hızlı uyum sağlama imkânı tanır."
+        "Aciklama": "Hızlı prototipleme, ayrıca pazara giriş süresini kısaltarak işletmelerin rekabet gücünü artırır.<br/>Bir ürünün hızla prototipleşip test edilmesi, pazara sunulma sürecini hızlandırır. Bu da<br/>işletmelerin rakiplerinden önce yeni ürünleri piyasaya sunmasını sağlar. Erken pazara giriş,<br/>müşteri sadakati oluşturma ve pazar payını artırma açısından kritik öneme sahiptir.<br>Ürün geliştirme sürecini hızlandırarak pazardaki değişimlere daha hızlı uyum sağlama imkânı tanır."
     },
     {
         "SoruID": 3830677,
@@ -1577,7 +1577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Malzeme israfını azaltarak üretim hızını artırır ve ürün kalitesini iyileştirir."
+        "Aciklama": "AI destekli tasarım araçları, 3B modelleme ve tasarım ve üretim süreçlerini dönüştürmekte ve endüstriyel<br/>tasarımın geleceğini şekillendirmektedir. Bu araçlar, tasarımcıların daha hızlı ve etkili çalışmalarını<br/>sağlayarak karmaşık tasarım problemlerini çözmelerine yardımcı olur ve yenilikçi ürünlerin geliştirilmesine<br/>olanak tanır. AI destekli tasarım araçları, tasarım sürecindeki veri analizini ve karar verme süreçlerini otomatize<br/>eder (Gibson, Rosen, &amp; Stucker, 2015). 3B baskı üretim, dağıtım ve tüketimi yeniden yapılandırır<br/>ve AI destekli araçlar bu süreçleri daha da ileriye taşır. Bu araçlar, özel sipariş ürünlerin tasarımında ve<br/>üretiminde kullanılarak müşteri ihtiyaçlarına daha hızlı ve doğru bir şekilde yanıt verilmesini sağlar. Aynı<br/>zamanda bu araçlar, tasarım süreçlerini daha verimli hâle getirerek, kişiselleştirilmiş ürünlerin hızlı bir şekilde<br/>üretilmesini sağlar. Tao, Zhang ve Nee (2019) tarafından tanımlanan Dijital İkiz teknolojisi, AI destekli<br/>ta<br>Malzeme israfını azaltarak üretim hızını artırır ve ürün kalitesini iyileştirir."
     },
     {
         "SoruID": 3830681,
@@ -1597,6 +1597,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Öğrencilerin karmaşık teorik kavramları somutlaştırarak daha derinlemesine anlamalarını sağlar."
+        "Aciklama": "3B modelleme, tasarım ve yazdırma süreçleri, öğrencilerin ders materyallerini daha iyi kavramalarını ve<br/>teorik bilgileri pratik uygulamalarla pekiştirmelerini sağlayarak eğitimde öğrenme başarısını artırır. Öğretmenler<br/>bu araçları kullanarak öğrencilere karmaşık kavramları basit ve anlaşılır hâle getirebilir, böylece öğrenme<br/>sürecini daha verimli hâle getirebilirler (Schwab, 2016). Bu eğitim teknolojilerinin benimsenmesi,<br/>özellikle STEM (bilim, teknoloji, mühendislik, matematik) alanlarında öğrencilerin ilgisini çekmekte ve<br/>bu disiplinlerde kariyer yapmaları için motivasyon sağlamaktadır. Gençler, 3B baskı teknolojisi sayesinde<br/>erken yaşlarda mühendislik ve tasarım gibi alanlarda pratik yetenekler edinebilir ve bu sayede gelecekteki<br/>meslek seçimlerini bu yönde şekillendirebilirler.<br>Öğrencilerin karmaşık teorik kavramları somutlaştırarak daha derinlemesine anlamalarını sağlar."
     }
 ]

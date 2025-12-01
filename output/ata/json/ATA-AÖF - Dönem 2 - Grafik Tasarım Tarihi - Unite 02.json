@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 311203,
-        "SoruMetni": "Japon Ukiyo-e sanatı baskıları ve resimleri, Edo’da 1660’dan 1860’lara kadar ki dönem esnasında ……………….. olarak büyük başarı kazanmıştır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Japon Ukiyo-e sanatı baskıları ve resimleri, Edo’da 1660’dan 1860’lara kadar ki dönem esnasında ……………….. olarak büyük başarı kazanmıştır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "popüler sanat",
         "B": "Batı sanatı",
         "C": "Doğu sanatı",
@@ -9,18 +9,19 @@
         "E": "Avrupa sanatı",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 311204,
-        "SoruMetni": "……………………….. resimleyen illüstrasyonlar olarak başlayan ukiyo-e baskıları, kısa zamanda çay evlerini, geyşaları ve belli Kabuki oyuncularını tanıtarak günlük yaşam içerisinde kendi yerini bulmuştur.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "……………………….. resimleyen illüstrasyonlar olarak başlayan ukiyo-e baskıları, kısa zamanda çay evlerini, geyşaları ve belli Kabuki oyuncularını tanıtarak günlük yaşam içerisinde kendi yerini bulmuştur.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Takvimleri",
         "B": "Hikaye kitaplarını",
         "C": "Sumo güreşçilerini",
@@ -28,18 +29,19 @@
         "E": "Batı sanatını",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 311206,
-        "SoruMetni": "<strong>Japonya sanatçılarından Toshusai Sharaku hangi çalışmaları ile tanınmaktadır?</strong><br/>",
+        "SoruMetni": "<strong>Japonya sanatçılarından Toshusai Sharaku hangi çalışmaları ile tanınmaktadır?</strong>",
         "A": "Afiş",
         "B": "Çerçeve",
         "C": "Baskı",
@@ -47,14 +49,15 @@
         "E": "Portre ve oyuncu",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 311207,
@@ -73,7 +76,8 @@
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 311208,
@@ -85,14 +89,15 @@
         "E": "Figürlerde renk kullanımı farklıdır.",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 311209,
@@ -104,14 +109,15 @@
         "E": "Hikaye Kitapları",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 311210,
@@ -123,14 +129,15 @@
         "E": "Utagawa Hiroshige",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 311211,
@@ -142,14 +149,15 @@
         "E": "Figür",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 314282,
@@ -161,14 +169,15 @@
         "E": "19. yüzyıldan 20. yüzyıla kadar Avrupa’da",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314283,
@@ -180,14 +189,15 @@
         "E": "Modern tasarım hareketini etkilememiştir.",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 314284,
@@ -199,14 +209,15 @@
         "E": "Açık Hava / Manzara (Peyzaj)",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 314285,
@@ -218,22 +229,23 @@
         "E": "Okinawa",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 314286,
-        "SoruMetni": "“İlk çok renkli Ukiyo-e baskıları, karşılıklı değiştirme geleneğinin olduğu Edo’daki zengin patronlar grubu için, sipariş üzerine yapılan ………..…?”<br/> <br/><strong>Örnek cümle aşağıdaki şıklardan hangisiyle birleştirilirse doğru bilgi vermiş olur?</strong>",
+        "SoruMetni": "“İlk çok renkli Ukiyo-e baskıları, karşılıklı değiştirme geleneğinin olduğu Edo’daki zengin patronlar grubu için, sipariş üzerine yapılan ………..…?”<br/><strong>Örnek cümle aşağıdaki şıklardan hangisiyle birleştirilirse doğru bilgi vermiş olur?</strong>",
         "A": "Takvimlerdir",
         "B": "Posterlerdir",
         "C": "Panolardır",
-        "D": "Gölgelerdir<br/> <br/><br> <br/></br>",
+        "D": "Gölgelerdir<br/></br>",
         "E": "Sanatçılardır",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
@@ -244,15 +256,16 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314287,
         "SoruMetni": "<strong>Ukiyo-e’nin en üretken sanatçısı kimdir?</strong>",
         "A": "Toshusai Sharaku",
-        "B": "Utagawa Hiroshige<br/> <br/><br> <br/></br>",
-        "C": "Kitagawa Utamaro<br/> <br/><br> <br/></br>",
-        "D": "Katsushika Hokusai<br/> <br/><br> <br/></br>",
+        "B": "Utagawa Hiroshige<br/></br>",
+        "C": "Kitagawa Utamaro<br/></br>",
+        "D": "Katsushika Hokusai<br/></br>",
         "E": "Degas",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım Tarihi",
@@ -263,7 +276,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 314288,
@@ -275,18 +289,19 @@
         "E": "Kitagawa Utamaro",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314289,
-        "SoruMetni": "Katsushika Hokusai'nin eskiz kitaplarının on beş ciltlik serisi olan Manga çalışması, Japon baskılarıyla ilgilenen ………….. sanatçıları için önemli bir başvuru kaynağı olmuştur.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Katsushika Hokusai'nin eskiz kitaplarının on beş ciltlik serisi olan Manga çalışması, Japon baskılarıyla ilgilenen ………….. sanatçıları için önemli bir başvuru kaynağı olmuştur.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Alman",
         "B": "İtalyan",
         "C": "Japon",
@@ -294,14 +309,15 @@
         "E": "Fransız",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 314290,
@@ -320,7 +336,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314291,
@@ -332,14 +349,15 @@
         "E": "Çapraz çizgiler",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 343014,
@@ -351,18 +369,19 @@
         "E": "Ukiyo-e baskı tasarımcılarının kompozisyon anlayışlarından biri, bir resmin altının izleyiciye en yakın gösterilmesidir.",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 343020,
-        "SoruMetni": "Ukiyo-e baskı tasarımcılarından en önemlisi olan <strong>…………………………… </strong>çok renkli ve bloklu baskının gelişiminde öncü tasarımcı olmuştur.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Ukiyo-e baskı tasarımcılarından en önemlisi olan <strong>…………………………… </strong>çok renkli ve bloklu baskının gelişiminde öncü tasarımcı olmuştur.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Suzuki Harunobu",
         "B": "Toshusai Sharaku",
         "C": "Utagawa Hiroshige",
@@ -370,14 +389,15 @@
         "E": "Katsushika Hokusai",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 343025,
@@ -389,14 +409,15 @@
         "E": "Baskı sanatçıları arasında eserleri ile manzara illüstrasyonları alanında en fazla tanınan sanatçıdır.",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 343030,
@@ -408,14 +429,15 @@
         "E": "Katsukawa Shun",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 408180,
@@ -427,13 +449,14 @@
         "E": "Toshusai Sharaku",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     }
 ]

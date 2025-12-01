@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3717073,
-        "SoruMetni": "I. Sınırlı bir münhasır hak vererek yeni teknik buluşları koruması<br/><br/> II. Mevcut ürünlerde küçük iyileştirmeler yapan buluşları koruması<br/><br/>III. Kısa ticari ömrü olan buluşları korumak için uygun olması <br/><br/>IV. Genellikle yerel mucitler tarafından kullanılması  <br/><br/>Yukarıda bazı özelliklerine yer verilen fikri ve sınai mülkiyet hakkı aşağıdakilerden hangisidir?",
+        "SoruMetni": "I. Sınırlı bir münhasır hak vererek yeni teknik buluşları koruması<br/>II. Mevcut ürünlerde küçük iyileştirmeler yapan buluşları koruması<br/>III. Kısa ticari ömrü olan buluşları korumak için uygun olması <br/>IV. Genellikle yerel mucitler tarafından kullanılması <br/>Yukarıda bazı özelliklerine yer verilen fikri ve sınai mülkiyet hakkı aşağıdakilerden hangisidir?",
         "A": "Marka",
         "B": "Patent",
         "C": "Faydalı model",
@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Faydalı model"
+        "Aciklama": "Faydalı modeller, patentlere benzer şekilde hak sahiplerinin rızası olmadan başkalarının korunan buluşları ticari olarak kullanmasını önlemek için sınırlı bir münhasır hak vererek yeni teknik buluşları korur. Koruma elde etmek için bir başvuru yapılmalı ve bir faydalı model verilmelidir. Bazen “kısa süreli patentler”, “faydalı yenilikler” veya “yenilik patentleri” olarak da adlandırılırlar. Bir ülkeden diğerine değiştiği için faydalı modeli tanımlamak kolay değildir. Genel olarak faydalı modellerin, mevcut ürünlerde küçük iyileştirmeler ve uyarlamalar yapan<br/>veya kısa bir ticari ömrü olan buluşları korumak için özellikle uygun olduğu düşünülmektedir. Faydalı model sistemleri genellikle yerel mucitler tarafından kullanılır. Tüm bu açıklamalar doğrultusunda cevap C şıkkıdır."
     },
     {
         "SoruID": 3717096,
-        "SoruMetni": "\"Bir buluşun patent veya faydalı modelle korunabilmesi için yeni olması gerekir.\" Bu bilgiye göre \"yenilik\" kavramı aşağıdakilerden hangisini ifade eder?”<br/>",
+        "SoruMetni": "\"Bir buluşun patent veya faydalı modelle korunabilmesi için yeni olması gerekir.\" Bu bilgiye göre \"yenilik\" kavramı aşağıdakilerden hangisini ifade eder?”",
         "A": "Buluşun patent ya da faydalı model başvuru tarihinden önceki son 3 yıl içinde gerçekleştirilmiş olmasını ifade eder.",
         "B": "Patent veya faydalı model başvuru tarihinden sonraki bir tarihte o buluş üzerinde herhangi bir değişiklik yapılmamasını ifade eder.",
         "C": "Buluşun son 10 yılda gerçekleştirilen benzer buluşlardan en az iki yönüyle farklılaşması gereğini ifade eder.",
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Buluşun tekniğin bilinen durumuna dahil olmamasını ifade eder."
+        "Aciklama": "Ülkemizde SMK 82/1. madde hükmü gereği yeni olan, buluş basamağı içeren ve sanayiye uygulanabilir buluşlara patent verilebilir. Tekniğin bilinen durumuna dâhil olmayan buluşun yeni olduğu kabul edilir (SMK 83/1. m). Bu nedenle cevap D şıkkıdır.<br>Buluşun tekniğin bilinen durumuna dahil olmamasını ifade eder."
     },
     {
         "SoruID": 3717109,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bitkisel mide ilacı"
+        "Aciklama": "Ülkemizde 6769 sayılı Sınai Mülkiyet Kanunu'nun 82/2. madde hükmü gereğince bazı konu ve faaliyetler buluş niteliğinde kabul edilmediğinden, patentlenebilirliğin dışında kalmaktadır. <br/>Bunların başında keşifler gelir. Bilimsel teoriler, örneğin formül gibi matematiksel yöntemler de bu kapsamda yer alır. Bundan başka bilgisayar programları, edebiyat ve sanat eserleri ile bilim eserler de buluş niteliğinde kabul edilmeyen, dolayısıyla patentlenebilirliğin dışında kalan konu ve faaliyetlerdendir. Bu doğrultuda cevap E şıkkıdır.<br>Bitkisel mide ilacı"
     },
     {
         "SoruID": 3717120,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "10"
+        "Aciklama": "6769 sayılı Sınai Mülkiyet Kanunu'nun 101. maddesi uyarınca başvuru tarihinden başlamak üzere patentin koruma süresi 20 yıl iken faydalı modelin koruma süresi 10 yıldır. Bu süreler uzatılamaz. Bu nedenle cevap E şıkkıdır."
     },
     {
         "SoruID": 3717121,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kelime markası"
+        "Aciklama": "6769 Sayılı Sınai Mülkiyet Kanunu’nun 4. maddesine göre bir teşebbüsün mallarının veya hizmetlerinin diğer teşebbüslerin mallarından veya hizmetlerinden ayırt edilmesini sağlayan ve marka sahibine sağlanan korumanın konusunun açık ve kesin olarak anlaşılmasını sağlayabilecek şekilde sicilde gösterilebilir olması şartıyla kişi adları dâhil sözcükler, şekiller, renkler, harfler, sayılar, sesler ve malların veya ambalajlarının biçimi olmak üzere her türden işaret marka olabilir. Soruda marka sadece bir sözcükten ibaret olduğu için bu marka bir kelime markası örneğidir. Dolayısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3717122,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "10"
+        "Aciklama": "Tescilli markanın koruma süresi başvuru tarihinden itibaren on yıldır. İstenirse bu süre, onar yıllık dönemler hâlinde yenilenebilir. Bu nedenle cevap A şıkkıdır.<br>10"
     },
     {
         "SoruID": 3717232,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Temsil hakkı"
+        "Aciklama": "Eser sahibinin fikir ve sanat eseri üzerindeki mali hakları şunlardır; işleme hakkı, çoğaltma hakkı, yayma hakkı, temsil hakkı, işaret ses ve/veya görüntü nakline yarayan araçlarla umuma iletim hakkı. Dolayısıyla cevap C şıkkıdır."
     },
     {
         "SoruID": 3717253,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "70"
+        "Aciklama": "Eser sahibine tanınan mali hakların korunma süresi eser sahibinin yaşadığı müddetçe devam ederken, bu süre ölümünden itibaren 70 yıl daha devam eder. Bu duğrultuda cevap E şıkkıdır."
     },
     {
         "SoruID": 3717256,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bağlantılı hak"
+        "Aciklama": "Bağlantılı haklar; eser sahibinin manevi ve mali haklarına zarar vermemek kaydıyla filmlerin ilk tespitini gerçekleştiren film yapımcılarının sahip oldukları haklardır. Dolayısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3717257,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3"
+        "Aciklama": "Tescilsiz tasarımların koruma süresi, koruma talep edilen tasarımın kamuya ilk sunulduğu tarihten itibaren üç yıldır. Cevap C şıkkıdır.<br>3"
     },
     {
         "SoruID": 3717788,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "6769 sayılı Sınai Mülkiyet Kanunu ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu"
+        "Aciklama": "Günümüzde<br/>Türk Hukuku’nda genel eğilim fikrî mülkiyete<br/>geniş anlam yükleme yönündedir (Güneş, 2021,<br/>s. 29). Ülkemizde sınai mülkiyet hakları 6769 sayılı Sınai Mülkiyet Kanunu (bundan sonra kısaca<br/>“SMK” olarak anılacaktır) ve ikincil mevzuat ile<br/>düzenlenmekte iken telif hakları/eser üzerindeki<br/>haklar 5846 sayılı Fikir ve Sanat Eserleri Kanunu<br/>(bundan sonra kısaca “FSEK” olarak anılacaktır) ve<br/>ikincil mevzuat ile düzenlenmektedir.<br/>Fikrî mülkiyet hakkı, kişilerin fikrî gayretleri ve emekleri ile ortaya çıkardıkları fikri ürünler<br/>için kendilerine sağlanan haklardır. Fikri ürün soyuttur, maddi bir eşya değildir.<br>6769 sayılı Sınai Mülkiyet Kanunu ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu"
     },
     {
         "SoruID": 3717791,
@@ -237,15 +237,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fikrî ürünlerin hangi haklarla korunduğunu anlamak ve hukuka aykırı kullanımlardan kaçınmak için."
+        "Aciklama": "Fikrî mülkiyet farkındalığı niçin önemlidir?<br/>Fikrî ürünler, yaşamımızın her yerinde olmasına<br/>bir başka ifade ile bir fikrî ürün okyanusunda yaşıyor olmamıza rağmen, hangi fikrî ürünlerin fikrî<br/>mülkiyet konusuna girdiği, fikrî ürün üreticisi isek<br/>hangi fikrî mülkiyet haklarına sahip olduğumuz<br/>veya fikrî mülkiyet tüketicisi isek hangi fikrî mülkiyet haklarını hukuka aykırı olarak kullandığımız ve<br/>bu durumun hangi hukuki sonuçlara neden olacağı konusunda farkındalığın geliştirilmesinin önemi<br/>son yıllarda çarpıcı şekilde artmıştır.<br>Fikrî ürünlerin hangi haklarla korunduğunu anlamak ve hukuka aykırı kullanımlardan kaçınmak için."
     },
     {
         "SoruID": 3717794,
         "SoruMetni": "Türk hukukunda sınai mülkiyet haklarının doğumu açısından hangi ilke benimsenmiştir?",
-        "A": "Kullanım ilkesi<br/><br/>",
-        "B": "Yayın ilkesi<br/><br/>",
+        "A": "Kullanım ilkesi",
+        "B": "Yayın ilkesi",
         "C": "Tescil ilkesi",
-        "D": "Başvuru ilkesi<br/><br/>",
+        "D": "Başvuru ilkesi",
         "E": "Kamuya sunulma ilkesi",
         "DogruCevap": "C",
         "DersAd": "Tasarım Etiği ve Hukuku",
@@ -257,13 +257,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tescil ilkesi"
+        "Aciklama": "Türk Hukukunda Sınai Mülkiyet Kanunu ile<br/>düzenlenmiş olan sınai mülkiyet haklarında hakkın<br/>doğumu açısından kural olarak tescil ilkesi benimsenmiştir. Kural olarak marka, patent, faydalı model<br/>ve tasarım hakları ülkesel tescil ofislerinde gerçekleşecek tescil ile doğmaktadır. Ülkemizde marka, patent, faydalı model ve tasarım hakları Türk Patent<br/>ve Marka Kurumuna tescil başvurusu yapılarak başlatılır. Bu başvurular, ilgili oldukları düzenlemelere<br/>ilişkin olarak şekli inceleme, yayımlama, itiraz vb.<br/>işlemlerin başarılı ve engelsiz tamamlanması ile sicile<br/>tescil edilerek koruma altına alınır. Hukukumuzda<br/>kullanım yoluyla oluşan tescilsiz marka hakları veya<br/>kamuya sunulma yoluyla oluşan tescilsiz tasarım<br/>hakları da hukuken kabul edilmiştir. Ancak, bu hakların korunma kapsamı ve koruma şekilleri tescilli<br/>marka ve tasarımlara göre daha sınırlıdır"
     },
     {
         "SoruID": 3717797,
         "SoruMetni": "Fikrî mülkiyet haklarının korunmasında \"ülkesellik ilkesi\" ne anlama gelmektedir?",
         "A": "Bir ülkede yapılan tescilin diğer tüm ülkelerde de geçerli olması.",
-        "B": "Tescil işleminin tüm ülkeler için zorunlu olması.<br/> .",
+        "B": "Tescil işleminin tüm ülkeler için zorunlu olması.<br/>.",
         "C": "Tescil yapılan ülkede hak sahibine sınırsız haklar verilmesi.",
         "D": "Korunmak istenilen tescilli hakkın sadece tescil yapılan ülkede geçerli olması.",
         "E": "Tescil işleminin Dünya Fikrî Mülkiyet Teşkilatı (WIPO) tarafından yürütülmesi.",
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Korunmak istenilen tescilli hakkın sadece tescil yapılan ülkede geçerli olması."
+        "Aciklama": "Ülkesellik ilkesi, korunmak istenilen tescilli<br/>hakkın sadece tescil yapılan ülkede korunacağı anlamına gelir. Bu nedenle koruma talep edilen ülkelerde tescil yapılması gerekmektedir. Çünkü bir ülkede yapılan marka, patent, faydalı model, tasarım<br/>tescili başka ülkelerde geçerli değildir. Ülkesellik ilkesi gereği, her ülke fikrî mülkiyet haklarını kendi<br/>ülkelerinin sınırları içinde korur.<br/>Birden fazla ülkede marka, patent veya tasarım<br/>tescili için her ülkede ayrı tescil başvurusu mu yapılmalıdır? Bunun daha kolay bir yolu yok mudur?<br/>Başvuruların kolaylaştırılması için bazı ülkeler<br/>arasında uluslararası anlaşmalar yapılmıştır. Bu<br/>uluslararası anlaşmalar, hak sahiplerine anlaşmaya üye ülkelerin tamamında geçerli olacak şekilde<br/>Dünya Fikrî Mülkiyet Teşkilatının (WIPO) Uluslararası Bürosu aracılığıyla tek bir başvuru yapabilme olanağı sağlamaktadır. Yine aynı şekilde Avrupa<br/>Patent Ofisi gibi bölgesel bazı ofisler de başvuru<br/>kolaylığı sağlamaktadır. Bu anlaşm<br>Korunmak istenilen tescilli hakkın sadece tescil yapılan ülkede geçerli olması."
     },
     {
         "SoruID": 3717799,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Faydalı modeller, mevcut ürünlerde küçük iyileştirmeler ve uyarlamalar yapan buluşları korumak için daha uygundur."
+        "Aciklama": "Patent ve Faydalı Model Nedir?<br/>Patent, bir buluş için verilen münhasır bir haktır. Genel olarak bir patent, patent sahibine buluşun<br/>başkaları tarafından kullanılıp kullanılamayacağına<br/>karar verme hakkı sağlar. Bu hak karşılığında patent sahibi, buluşla ilgili teknik bilgileri yayınlanan<br/>patent belgesinde kamuya açık hâle getirir (https://<br/>www.wipo.int/about-ip/en/).<br/>Faydalı modeller, patentlere benzer şekilde, hak<br/>sahiplerinin rızası olmadan başkalarının korunan<br/>buluşları ticari olarak kullanmasını önlemek için sınırlı bir münhasır hak vererek yeni teknik buluşları<br/>korur. Koruma elde etmek için bir başvuru yapılmalı ve bir faydalı model verilmelidir. Bazen “kısa<br/>süreli patentler”, “faydalı yenilikler” veya “yenilik<br/>patentleri” olarak da adlandırılırlar. Bir ülkeden diğerine değiştiği için faydalı modeli tanımlamak kolay değildir. Genel olarak faydalı modellerin, mevcut<br/>ürünlerde küçük iyileştirmeler ve uyarlamalar yapan<br/>veya kısa bir ticari ö<br>Faydalı modeller, mevcut ürünlerde küçük iyileştirmeler ve uyarlamalar yapan buluşları korumak için daha uygundur."
     },
     {
         "SoruID": 3717805,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Faydalı modelde buluş basamağı şartı aranmazken, patentte bu şart gereklidir."
+        "Aciklama": "Hangi Buluşlar Patentlenebilir veya<br/>Faydalı Model ile Korunur?<br/>Ülkemizde SMK m. 82/1 hükmü gereği yeni<br/>olan, buluş basamağı içeren ve sanayiye uygulanabilir buluşlara patent verilebilir.<br/>SMK m. 142 hükmü gereği yeni olan ve sanayiye uygulanabilir buluşlar, faydalı model verilerek<br/>korunur.<br/>“Faydalı modelleri, patentten ayıran ilk fark, buluş<br/>basamağının aranmaması veya daha gevşek değerlendirilmesidir. Uygulamada patentlenebilme kriterlerinin karşılanmadığı hallerde, patentten vazgeçilerek<br/>faydalı modele yönelme görülmektedir. İkinci önemli<br/>fark, patentin koruma süresi yirmi yıl olduğu halde<br/>faydalı modelin koruma süresinin Dünyada 7 ila 10<br/>yıl arasında değişmesidir.” (Güneş, 2017:447).<br>Faydalı modelde buluş basamağı şartı aranmazken, patentte bu şart gereklidir."
     },
     {
         "SoruID": 3717808,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgisayar programları"
+        "Aciklama": "Bir Buluşun Sanayiye Uygulanabilir<br/>Olması Ne Demektir?<br/>Buluş, tarım dâhil sanayinin herhangi bir dalında üretilebilir veya kullanılabilir nitelikteyse,<br/>sanayiye uygulanabilir olduğu kabul edilir (SMK<br/>m. 83/6).<br/>Hangi Konu ve Faaliyetler Buluş<br/>Niteliğinde Kabul Edilmez?<br/>Ülkemizde 6769 Sayılı Sınai Mülkiyet Kanunu<br/>m. 82/2 hükmü gereği aşağıdaki konu ve faaliyetler<br/>buluş niteliğinde kabul edilmediğinden, patentlenebilirliğin dışında kalır.<br/>(ı) Keşifler, bilimsel teoriler ve matematiksel<br/>yöntemler.<br/>(ıı) Zihni faaliyetler, iş faaliyetleri veya oyunlara ilişkin plan, kural ve yöntemler.<br/>(ııı)Bilgisayar programları.<br/>(ıv)Estetik niteliği bulunan mahsuller, edebiyat<br/>ve sanat eserleri ile bilim eserleri.<br/>(v) Bilginin sunumu."
     },
     {
         "SoruID": 3717816,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İnsan veya hayvan vücuduna uygulanacak cerrahi ve tedavi yöntemleri"
+        "Aciklama": "Hangi Buluşlara Patent Verilemez?<br/>Ülkemizde SMK m. 82/3 hükmü gereği aşağıda<br/>belirtilen buluşlara patent verilemez:<br/>(ı) Kamu düzenine veya genel ahlaka aykırı<br/>olan buluşlar.<br/>(ıı) Mikrobiyolojik işlemler veya bu işlemler sonucu elde edilen ürünler hariç olmak üzere,<br/>bitki çeşitleri veya hayvan ırkları ile bitki<br/>veya hayvan üretimine yönelik esas olarak<br/>biyolojik işlemler.<br/>(ııı)İnsan veya hayvan vücuduna uygulanacak teşhis yöntemleri ile cerrahi yöntemler<br/>dâhil tüm tedavi yöntemleri.<br/>(ıv)Oluşumunun ve gelişiminin çeşitli aşamalarında insan bedeni ve bir gen dizisi veya<br/>kısmi gen dizisi de dâhil olmak üzere insan<br/>bedeninin öğelerinden birinin sadece keşfi.<br/>(v) İnsan klonlama işlemleri, insan eşey hattının genetik kimliğini değiştirme işlemleri, insan embriyosunun sınai ya da ticari<br/>amaçlarla kullanılması, insan ya da hayvanlara önemli bir tıbbi fayda sağlamaksızın<br/>hayvanlara acı çektirebilecek genetik kimlik<br/>değiştirme işleml<br>İnsan veya hayvan vücuduna uygulanacak cerrahi ve tedavi yöntemleri"
     },
     {
         "SoruID": 3717818,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tescilli marka ile aynı veya benzer olan ve markanın itibarına zarar verecek herhangi bir işaretin kullanılması"
+        "Aciklama": "Marka Tescili Ne Demek ve Gerekli Mi?<br/>Markaların tescili zorunlu olmamakla birlikte tescil, marka üzerindeki hakları ispatlayan ve marka ihlalini engelleyen en önemli araçtır. Tescilsiz markalar, SMK tarafından marka sahibine tanınmış haklardan<br/>yararlanamazlar. Haksız rekabet gibi farklı hukuki düzenlemeler ile sınırlı olarak korunabilirler.<br/>Markanın tescil başvurusu Türk Patent ve Marka Kurumu’na yapılır. Marka başvurusu Kurum tarafından mutlak ret nedenleri açısından re’sen ve nispi ret nedenleri açısından itiraz üzerine incelenir. İnceleme<br/>sonucunda markanın koruma kapsamında yer alan tüm mal ve hizmetler bakımından tesciline, reddine<br/>veya kısmen tesciline /reddine karar verilir.<br/>Markanın tesciline karar verilmesi halinde tescil ücretinin de yatırılmasıyla birlikte SMK m. 23 gereği<br/>marka, başvuru tarihinden itibaren on yıl süreyle korunur. Bu süre onar yıllık dönemler halinde yenilenir.<br/>Tescilli Marka Sahibi Başkalarının Hangi Fiillerini Önleyebilir?<br/>SMK m. 7<br>Tescilli marka ile aynı veya benzer olan ve markanın itibarına zarar verecek herhangi bir işaretin kullanılması"
     },
     {
         "SoruID": 3717822,
@@ -397,11 +397,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgilenmiş kullanıcı üzerinde bıraktığı genel izlenim ile daha önce sunulmuş tasarımların aynı kullanıcıda bıraktığı izlenim arasındaki farklılık"
+        "Aciklama": "Tasarım Hangi Koşullarda Hukuken Korunur?<br/>Hukukumuzda yeni ve ayırt edici nitelikteki tasarımlar korunur.<br/>Yenilik yer ve zamana göre değişebilen, dinamik bir kavramdır. Yeniliğin belirlenmesinde tescilli tasarımlar için başvuru tarihi ve tescilsiz tasarımlar için ilk kez kamuya sunma tarihi esas alınır. Bir tasarımın<br/>aynısı tescilli tasarım için başvuru veya rüçhan tarihinden önce ve tescilsiz tasarım için tasarımın kamuya<br/>ilk sunulduğu tarihten önce, dünyanın herhangi bir yerinde kamuya sunulmamış ise o tasarım yeni kabul<br/>edilir. Tasarımlar sadece küçük ayrıntılarda farklılık gösteriyorsa aynı kabul edilir (SMK m. 56/4).<br/>Bir tasarımın bilgilenmiş kullanıcı üzerinde bıraktığı genel izlenim; tescilli tasarım için başvuru veya rüçhan tarihinden önce ve tescilsiz tasarım için tasarımın kamuya ilk sunulduğu tarihten önce, kamuya sunulmuş herhangi bir tasarımın aynı kullanıcı üzerinde yarattığı genel izlenimden farklı ise bu tasarımın ayırt edici niteliğe sahip olduğu kabul edilir<br>Bilgilenmiş kullanıcı üzerinde bıraktığı genel izlenim ile daha önce sunulmuş tasarımların aynı kullanıcıda bıraktığı izlenim arasındaki farklılık"
     },
     {
         "SoruID": 3719235,
-        "SoruMetni": "Türk Hukukunda Sınai Mülkiyet Kanunu ile düzenlenmiş olan sınai mülkiyet haklarında hakkın<br/>doğumu açısından kural olarak ____________ benimsenmiştir.<br/>  Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?",
+        "SoruMetni": "Türk Hukukunda Sınai Mülkiyet Kanunu ile düzenlenmiş olan sınai mülkiyet haklarında hakkın<br/>doğumu açısından kural olarak ____________ benimsenmiştir.<br/>Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?",
         "A": "Şahsilik ilkesi",
         "B": "Mülkiyet ilkesi",
         "C": "Serbesti ilkesi",
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk Hukukunda Sınai Mülkiyet Kanunu ile düzenlenmiş olan sınai mülkiyet haklarında hakkın<br/>doğumu açısından kural olarak tescil ilkesi benimsenmiştir. Kural olarak marka, patent, faydalı model ve tasarım hakları ülkesel tescil ofislerinde gerçekleşecek tescil ile doğmaktadır."
+        "Aciklama": "Ülkemizde marka, patent, faydalı model ve tasarım hakları Türk Patent ve Marka Kurumuna tescil başvurusu yapılarak başlatılır. Bu başvurular, ilgili oldukları düzenlemelere ilişkin olarak şekli inceleme, yayımlama, itiraz vb. işlemlerin başarılı ve engelsiz tamamlanması ile sicile tescil edilerek koruma altına alınır. Hukukumuzda kullanım yoluyla oluşan tescilsiz marka hakları veya kamuya sunulma yoluyla oluşan tescilsiz tasarım hakları da hukuken kabul edilmiştir.<br>Türk Hukukunda Sınai Mülkiyet Kanunu ile düzenlenmiş olan sınai mülkiyet haklarında hakkın<br/>doğumu açısından kural olarak tescil ilkesi benimsenmiştir. Kural olarak marka, patent, faydalı model ve tasarım hakları ülkesel tescil ofislerinde gerçekleşecek tescil ile doğmaktadır."
     },
     {
         "SoruID": 3719240,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Faydalı modeller, patentlere benzer şekilde, hak sahiplerinin rızası olmadan başkalarının korunan buluşları ticari olarak kullanmasını önlemek için sınırlı bir münhasır hak vererek yeni teknik buluşları korur. Koruma elde etmek için bir başvuru yapılmalı ve bir faydalı model verilmelidir. Bazen “kısa süreli patentler”, “faydalı yenilikler” veya “yenilik patentleri” olarak da adlandırılırlar. Bir ülkeden diğerine değiştiği için faydalı modeli tanımlamak kolay değildir. Genel olarak faydalı modellerin, mevcut ürünlerde küçük iyileştirmeler ve uyarlamalar yapan veya kısa bir ticari ömrü olan buluşları korumak için özellikle uygun olduğu düşünülmektedir."
+        "Aciklama": "Faydalı model sistemleri genellikle yerel mucitler tarafından kullanılır.<br>Faydalı modeller, patentlere benzer şekilde, hak sahiplerinin rızası olmadan başkalarının korunan buluşları ticari olarak kullanmasını önlemek için sınırlı bir münhasır hak vererek yeni teknik buluşları korur. Koruma elde etmek için bir başvuru yapılmalı ve bir faydalı model verilmelidir. Bazen “kısa süreli patentler”, “faydalı yenilikler” veya “yenilik patentleri” olarak da adlandırılırlar. Bir ülkeden diğerine değiştiği için faydalı modeli tanımlamak kolay değildir. Genel olarak faydalı modellerin, mevcut ürünlerde küçük iyileştirmeler ve uyarlamalar yapan veya kısa bir ticari ömrü olan buluşları korumak için özellikle uygun olduğu düşünülmektedir."
     },
     {
         "SoruID": 3719246,
@@ -457,11 +457,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hangi Konu ve Faaliyetler Buluş<br/>Niteliğinde Kabul Edilmez?<br/> <br/>Ülkemizde 6769 Sayılı Sınai Mülkiyet Kanunu<br/>m. 82/2 hükmü gereği aşağıdaki konu ve faaliyetler<br/>buluş niteliğinde kabul edilmediğinden, patentlenebilirliğin dışında kalır.<br/>(ı) Keşifler, bilimsel teoriler ve matematiksel<br/>yöntemler.<br/>(ıı) Zihni faaliyetler, iş faaliyetleri veya oyunlara ilişkin plan, kural ve yöntemler.<br/>(ııı)Bilgisayar programları.<br/>(ıv)Estetik niteliği bulunan mahsuller, edebiyat<br/>ve sanat eserleri ile bilim eserleri.<br/>(v) Bilginin sunumu."
+        "Aciklama": "Buluş, tarım dâhil sanayinin herhangi bir dalında üretilebilir veya kullanılabilir nitelikteyse, sanayiye uygulanabilir olduğu kabul edilir.<br>Hangi Konu ve Faaliyetler Buluş<br/>Niteliğinde Kabul Edilmez?<br/>Ülkemizde 6769 Sayılı Sınai Mülkiyet Kanunu<br/>m. 82/2 hükmü gereği aşağıdaki konu ve faaliyetler<br/>buluş niteliğinde kabul edilmediğinden, patentlenebilirliğin dışında kalır.<br/>(ı) Keşifler, bilimsel teoriler ve matematiksel<br/>yöntemler.<br/>(ıı) Zihni faaliyetler, iş faaliyetleri veya oyunlara ilişkin plan, kural ve yöntemler.<br/>(ııı)Bilgisayar programları.<br/>(ıv)Estetik niteliği bulunan mahsuller, edebiyat<br/>ve sanat eserleri ile bilim eserleri.<br/>(v) Bilginin sunumu."
     },
     {
         "SoruID": 3719252,
-        "SoruMetni": "Patentin koruma süresi kaç yıldır?<br/><br/>",
+        "SoruMetni": "Patentin koruma süresi kaç yıldır?",
         "A": "5",
         "B": "10",
         "C": "15",
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ülkemizde SMK m.101 gereği başvuru tarihinden başlamak üzere, patentin koruma süresi yirmi<br/>yıldır."
+        "Aciklama": "Bu süre uzatılamaz.<br>Ülkemizde SMK m.101 gereği başvuru tarihinden başlamak üzere, patentin koruma süresi yirmi<br/>yıldır."
     },
     {
         "SoruID": 3719254,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ülkemizde SMK m.101 gereği başvuru tarihinden başlamak üzere, faydalı modelin koruma süresi on yıldır."
+        "Aciklama": "Bu süre uzatılamaz.<br>Ülkemizde SMK m.101 gereği başvuru tarihinden başlamak üzere, faydalı modelin koruma süresi on yıldır."
     },
     {
         "SoruID": 3719260,
@@ -517,11 +517,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Markanın tesciline karar verilmesi halinde tescil ücretinin de yatırılmasıyla birlikte SMK m. 23 gereği marka, başvuru tarihinden itibaren on yıl süreyle korunur. Bu süre onar yıllık dönemler halinde yenilenir."
+        "Aciklama": "Markaların tescili zorunlu olmamakla birlikte tescil, marka üzerindeki hakları ispatlayan ve marka ihlalini engelleyen en önemli araçtır. Tescilsiz markalar, SMK tarafından marka sahibine tanınmış haklardan yararlanamazlar. Haksız rekabet gibi farklı hukuki düzenlemeler ile sınırlı olarak korunabilirler.<br>Markanın tesciline karar verilmesi halinde tescil ücretinin de yatırılmasıyla birlikte SMK m. 23 gereği marka, başvuru tarihinden itibaren on yıl süreyle korunur. Bu süre onar yıllık dönemler halinde yenilenir."
     },
     {
         "SoruID": 3719267,
-        "SoruMetni": "Eser sahibine tanınan mali hakların koruma süresi eser sahibinin yaşadığı müddetçe ve ölümünden itibaren _______________ yıl devam eder.<br/> Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?",
+        "SoruMetni": "Eser sahibine tanınan mali hakların koruma süresi eser sahibinin yaşadığı müddetçe ve ölümünden itibaren _______________ yıl devam eder.<br/>Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?",
         "A": "10",
         "B": "20",
         "C": "30",
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Koruma süresi eser sahibinin yaşadığı müddetçe ve ölümünden itibaren 70 yıl devam eder. Bu süre,<br/>eser sahibinin birden fazla olması durumunda, hayatta kalan son eser sahibinin ölümünden itibaren yetmiş<br/>yıl geçmekle son bulur."
+        "Aciklama": "İlk eser sahibi tüzel kişi ise, koruma süresi aleniyet tarihinden itibaren 70 yıldır.<br>Koruma süresi eser sahibinin yaşadığı müddetçe ve ölümünden itibaren 70 yıl devam eder. Bu süre,<br/>eser sahibinin birden fazla olması durumunda, hayatta kalan son eser sahibinin ölümünden itibaren yetmiş<br/>yıl geçmekle son bulur."
     },
     {
         "SoruID": 3719275,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İşleme Hakkı: Bir eserden, onu işlemek suretiyle faydalanma hakkı munhasıran eser sahibine aittir<br/>(FSEK m. 21). Mali haktır."
+        "Aciklama": "Mali Hak Türleri: İşleme hakkı; Çoğaltma hakkı; Yayma hakkı; Temsil hakkı; İşaret, ses ve/veya görüntü nakline yarayan araçlarla umuma iletim hakkı.<br>İşleme Hakkı: Bir eserden, onu işlemek suretiyle faydalanma hakkı munhasıran eser sahibine aittir<br/>(FSEK m. 21). Mali haktır."
     },
     {
         "SoruID": 3719277,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eser sahipleri arasındaki birlik/elbirliği ile eser sahipliği: Birden fazla kimsenin iştirakiyle vücuda getirilen eser ayrılmaz bir bütün teşkil ediyorsa, eserin sahibi, onu vücuda getirenlerin birliğidir."
+        "Aciklama": "Eser sahiplerinin birden fazla oluşu/ortak eser sahipliği: Birden fazla kimselerin birlikte vücuda getirdikleri eserin kısımlara ayrılması mümkünse, bunlardan her biri vücuda getirdiği kısmın sahibi sayılır.<br>Eser sahipleri arasındaki birlik/elbirliği ile eser sahipliği: Birden fazla kimsenin iştirakiyle vücuda getirilen eser ayrılmaz bir bütün teşkil ediyorsa, eserin sahibi, onu vücuda getirenlerin birliğidir."
     },
     {
         "SoruID": 3719282,
@@ -597,6 +597,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tescilsiz tasarımların koruma süresi, koruma talep edilen tasarımın kamuya ilk sunulduğu tarihten itibaren üç yıldır."
+        "Aciklama": "Tescilli tasarımların koruma süresi başvuru tarihinden itibaren beş yıldır. Bu süre beşer yıllık dönemler hâlinde yenilenmek suretiyle toplam yirmi beş yıla kadar uzatılabilir.<br>Tescilsiz tasarımların koruma süresi, koruma talep edilen tasarımın kamuya ilk sunulduğu tarihten itibaren üç yıldır."
     }
 ]

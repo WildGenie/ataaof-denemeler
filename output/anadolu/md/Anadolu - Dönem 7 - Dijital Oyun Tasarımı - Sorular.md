@@ -68,7 +68,7 @@
     - D-) Platform oyunları
     - **Cevap E-) Gerçek zamanlı strateji oyunları**
 
-    > **Açıklama:** Gerçek zamanlı strateji oyunları zamanın işleyişi ve oynanış özelliklerine göre yapılmış bir sınıflandırmayı temsil eder.
+    > **Açıklama:** Gerçek zamanlı strateji oyunları zamanın işleyişi ve oynanış özelliklerine göre yapılmış bir sınıflandırmayı temsil eder.
 
     ***
 1. Unity adlı oyun geliştirme platformu hangi yıl yayınlanmaya başlamıştır?
@@ -109,7 +109,8 @@
     - D-) Mitchel Resnick
     - E-) John Madden
 
-    > **Açıklama:** Unreal Engine yazılımını 1998 yılında geliştiren isim Tim Sweeney'dir.
+    > **Açıklama:** Doğru yanıt A şıkkıdır
+    > Unreal Engine yazılımını 1998 yılında geliştiren isim Tim Sweeney'dir.
 
     ***
 1. Önemli bir oyun firması olan Epic Games’i kim kurmuştur?
@@ -119,7 +120,8 @@
     - D-) Mitchel Resnick
     - E-) John Madden
 
-    > **Açıklama:** Önemli bir oyun firması olan Epic Games’i Tim Sweeney kurmuştur
+    > **Açıklama:** Doğru yanıt C şıkkıdır
+    > Önemli bir oyun firması olan Epic Games’i Tim Sweeney kurmuştur
 
     ***
 1. Önemli bir oyun motoru olan Godot’u 2007 yılında piyasaya süren isim aşağıdakilerden hangisidir?
@@ -129,7 +131,8 @@
     - D-) Mitchel Resnick
     - E-) John Madden
 
-    > **Açıklama:** Önemli bir oyun motoru olan Godot’u 2007 yılında piyasaya süren isim Juan Linietsky'dir.
+    > **Açıklama:** Doğru yanıt B şıkkıdır
+    > Önemli bir oyun motoru olan Godot’u 2007 yılında piyasaya süren isim Juan Linietsky'dir.
 
     ***
 1. Aşağıdakilerden hangisi önemli bir teknoloji firması olan Amazon’un piyasaya sürmüş olduğu oyun motorudur?
@@ -139,7 +142,8 @@
     - D-) Unity
     - **Cevap E-) Lumberyard**
 
-    > **Açıklama:** Amazon’un piyasaya sürmüş olduğu oyun motoru Lumberyard'dır.
+    > **Açıklama:** Doğru yanıt E şıkkıdır
+    > Amazon’un piyasaya sürmüş olduğu oyun motoru Lumberyard'dır.
 
     ***
 1. Dijital oyunlar modüllerden oluşur. Bir eylemin oluşması durumunda nesnelerde meydana gelecek değişiklik efektinin kontrol edilmesini sağlayan modül aşağıdakilerden hangisidir?
@@ -149,7 +153,8 @@
     - D-) Ağ modülü
     - E-) Yapay zeka modülü
 
-    > **Açıklama:** Bir eylemin oluşması durumunda nesnelerde meydana gelecek değişiklik efektinin kontrol edilmesini sağlayan modül animasyon/fizik motoru modülüdür
+    > **Açıklama:** Doğru yanıt C şıkkıdır
+    > Bir eylemin oluşması durumunda nesnelerde meydana gelecek değişiklik efektinin kontrol edilmesini sağlayan modül animasyon/fizik motoru modülüdür
 
     ***
 1. Oyun oynayan bireyler dışında oyunda yer alan ve bilgisayar tarafından oyuncunun hareketlerine göre hareket eden nesnelerin davranışlarını kontrol etmeyi sağlayan modül aşağıdakilerden hangisidir?
@@ -159,7 +164,8 @@
     - D-) Ağ modülü
     - **Cevap E-) Yapay zeka modülü**
 
-    > **Açıklama:** Oyun oynayan bireyler dışında oyunda yer alan ve bilgisayar tarafından oyuncunun hareketlerine göre hareket eden nesnelerin davranışlarını kontrol etmeyi sağlayan modül yapay zeka modülüdür.
+    > **Açıklama:** Doğru yanıt E şıkkıdır
+    > Oyun oynayan bireyler dışında oyunda yer alan ve bilgisayar tarafından oyuncunun hareketlerine göre hareket eden nesnelerin davranışlarını kontrol etmeyi sağlayan modül yapay zeka modülüdür.
 
     ***
 1. Hazır kütüphaneler bakımından öne çıkan, Pygame kütüphanesi ile oyun tasarımcılarına yönelik çok sayıda işlevi bulunduran dil aşağıdakilerden hangisidir?
@@ -169,7 +175,8 @@
     - D-) Bluepring
     - E-) Scratch
 
-    > **Açıklama:** Hazır kütüphaneler bakımından öne çıkan, Pygame kütüphanesi ile oyun tasarımcılarına yönelik çok sayıda işlevi bulunduran dil Python'dır.
+    > **Açıklama:** Doğru yanıt B şıkkıdır
+    > Hazır kütüphaneler bakımından öne çıkan, Pygame kütüphanesi ile oyun tasarımcılarına yönelik çok sayıda işlevi bulunduran dil Python'dır.
 
     ***
 1. Aşağıdakilerden hangisi HTML5 ortamında çalışabilecek oyunlar geliştirmeye olanak sağlayan gelişmiş ve ücretsiz bir oyun motorudur?
@@ -179,7 +186,8 @@
     - D-) Unreal Engine
     - **Cevap E-) Phaser**
 
-    > **Açıklama:** HTML5 ortamında çalışabilecek oyunlar geliştirmeye olanak sağlayan gelişmiş ve ücretsiz bir oyun motoru Phaser'dir
+    > **Açıklama:** Doğru yanıt E şıkkıdır
+    > HTML5 ortamında çalışabilecek oyunlar geliştirmeye olanak sağlayan gelişmiş ve ücretsiz bir oyun motoru Phaser'dir
 
     ***
 1. Game Maker Studio 2 oyun motorunu kullandığı dil aşağıdakilerden hangisidir?
@@ -189,7 +197,8 @@
     - D-) Bluepring
     - E-) GDScript
 
-    > **Açıklama:** Game Maker Studio 2 oyun motorunu kullandığı dil GML'dir.
+    > **Açıklama:** Doğru yanıt A şıkkıdır
+    > Game Maker Studio 2 oyun motorunu kullandığı dil GML'dir.
 
     ***
 1. Aşağıdakilerden hangisi açık kaynak kodlu bir oyun motorudur?
@@ -199,7 +208,8 @@
     - D-) GML
     - E-) Linux
 
-    > **Açıklama:** Phaser açık kaynak kodlu bir oyun motorudur
+    > **Açıklama:** Doğru yanıt C şıkkıdır.
+    > Phaser açık kaynak kodlu bir oyun motorudur
 
     ***
 ## Unite 3
@@ -210,7 +220,8 @@
     - D-) LCD
     - E-) CRT
 
-    > **Açıklama:** 1970 ve 1980lerde kullanılan ekranları tanımlamak için kullanılan ve resim, çizim, tasarım ve fotoğrafların tek renkten oluştuğunu ifade eden bir sözcükten gelen ekran türü monokrom ekranlardır
+    > **Açıklama:** Doğru yanıt A şıkkıdır
+    > 1970 ve 1980lerde kullanılan ekranları tanımlamak için kullanılan ve resim, çizim, tasarım ve fotoğrafların tek renkten oluştuğunu ifade eden bir sözcükten gelen ekran türü monokrom ekranlardır
 
     ***
 1. Aşağıda oyunlarda 2D ve 3D grafik geliştirme ile ilgili bazı ifadeler yer almaktadır. Bu ifadelerden hangisi doğrudur?
@@ -220,7 +231,8 @@
     - D-) 3D grafiklerin sınırlı perspektife sahiptir
     - **Cevap E-) 2D grafiklerin sunduğu sanatsal özgürlük daha yüksektir**
 
-    > **Açıklama:** 2D grafiklerin sunduğu sanatsal özgürlük daha yüksektir. Diğer şıklar yanlış ifadeler içermektedir.
+    > **Açıklama:** Doğru yanıt E şıkkıdır
+    > 2D grafiklerin sunduğu sanatsal özgürlük daha yüksektir. Diğer şıklar yanlış ifadeler içermektedir.
 
     ***
 1. Poligonların birleşiminden oluşan ağ yapısını ifade edilen ve 3D modellerin iskeleti olarak görülen kavram aşağıdakilerden hangisidir?
@@ -230,7 +242,8 @@
     - D-) Sprite
     - E-) Tileset
 
-    > **Açıklama:** Poligonların birleşiminden oluşan ağ yapısını ifade edilen ve 3D modellerin iskeleti olarak görülen kavram mesh'dir.
+    > **Açıklama:** Doğru yanıt C şıkkıdır
+    > Poligonların birleşiminden oluşan ağ yapısını ifade edilen ve 3D modellerin iskeleti olarak görülen kavram mesh'dir.
 
     ***
 1. 2D oyunlarda zemin, duvar, tavan ve diğer tekrar eden ögeler için kullanılan resim setlerine ne isim verilir?
@@ -240,7 +253,8 @@
     - D-) Sprite
     - **Cevap E-) Tileset**
 
-    > **Açıklama:** 2D oyunlarda zemin, duvar, tavan ve diğer tekrar eden ögeler için kullanılan resim setlerine tileset denir
+    > **Açıklama:** Doğru yanıt E şıkkıdır
+    > 2D oyunlarda zemin, duvar, tavan ve diğer tekrar eden ögeler için kullanılan resim setlerine tileset denir
 
     ***
 1. Konsept tasarımı aşaması bazı adımlardan oluşmaktadır. Aşağıda verilenlerden hangisi bu adımlardan ilkidir?
@@ -250,7 +264,8 @@
     - D-) Görsel geliştirme
     - E-) Fikir üretimi
 
-    > **Açıklama:** Konsept tasarımı aşamasının ilk adımı araştırmadır.
+    > **Açıklama:** Doğru yanıt C şıkkıdır
+    > Konsept tasarımı aşamasının ilk adımı araştırmadır.
 
     ***
 1. Modellere renk, desen ve detay ekleyerek onları daha gerçekçi veya stilize hâle getiren süreç aşağıdakilerden hangisidir?
@@ -260,7 +275,8 @@
     - D-) Blendleme
     - E-) Sketch
 
-    > **Açıklama:** Modellere renk, desen ve detay ekleyerek onları daha gerçekçi veya stilize hâle getiren süreç tekstürlemedir.
+    > **Açıklama:** Doğru yanıt B şıkkıdır
+    > Modellere renk, desen ve detay ekleyerek onları daha gerçekçi veya stilize hâle getiren süreç tekstürlemedir.
 
     ***
 1. C# programlama dilini kullanarak oyun mantığını ve etkileşimlerini geliştirmeye olanak tanıyan, Asset Store’da geliştiricilere hazır oyun varlıkları, scriptler ve daha fazlasını sunan yazılım aşağıdakilerden hangisidir?
@@ -270,7 +286,8 @@
     - D-) Cinema 4D
     - E-) Unreal Engine
 
-    > **Açıklama:** C# programlama dilini kullanarak oyun mantığını ve etkileşimlerini geliştirmeye olanak tanıyan, Asset Store’da geliştiricilere hazır oyun varlıkları, scriptler ve daha fazlasını sunan yazılım Unity'dir.
+    > **Açıklama:** Doğru yanıt C şıkkıdır
+    > C# programlama dilini kullanarak oyun mantığını ve etkileşimlerini geliştirmeye olanak tanıyan, Asset Store’da geliştiricilere hazır oyun varlıkları, scriptler ve daha fazlasını sunan yazılım Unity'dir.
 
     ***
 1. Aşağıdaki yazılımlardan hangisini Autodesk firması geliştirmiştir?
@@ -280,7 +297,8 @@
     - **Cevap D-) Maya**
     - E-) Cinema 4D
 
-    > **Açıklama:** Maya, Autodesk'in geliştirdiği bir yazılımdır
+    > **Açıklama:** Doğru yanıt D şıkkıdır
+    > Maya, Autodesk'in geliştirdiği bir yazılımdır
 
     ***
 1. 2D tasarım ve model geliştirmelerde kullanılan ve Adobe firmasının geliştirmiş olduğu yazılım aşağıdakilerden hangisidir?
@@ -290,7 +308,8 @@
     - D-) Kenney
     - E-) Aseprite
 
-    > **Açıklama:** 2D tasarım ve model geliştirmelerde kullanılan ve Adobe firmasının geliştirmiş olduğu yazılım Illustrator'dur.
+    > **Açıklama:** Doğru yanıt A şıkkıdır
+    > 2D tasarım ve model geliştirmelerde kullanılan ve Adobe firmasının geliştirmiş olduğu yazılım Illustrator'dur.
 
     ***
 1. Aşağıdakilerden hangisi oyun geliştirici ve tasarımcılarının içerik indirebileceği platformlardandır?
@@ -300,7 +319,8 @@
     - **Cevap D-) Kenney**
     - E-) Aseprite
 
-    > **Açıklama:** Kenney, oyun geliştirici ve tasarımcılarının içerik indirebileceği platformlardandır
+    > **Açıklama:** Doğru yanıt D şıkkıdır
+    > Kenney, oyun geliştirici ve tasarımcılarının içerik indirebileceği platformlardandır
 
     ***
 ## Unite 4
@@ -311,7 +331,10 @@
     - D-) Hikaye anlatımı
     - E-) Oyun geribildirimleri
 
-    > **Açıklama:** Karakter animasyonu
+    > **Açıklama:** Karakter animasyonları, oyuncuların oyunun karakterleriyle duygusal bağ kurmasını sağlar. Karakterlerin mimikleri, hareketleri ve tepkileri, onların kişiliklerini ve hikâyelerini anlatır. Karakter
+    > animasyonları, kullanıcıların karakter kontrolüne ilişkin geri bildirim sağlar. Bir karakterin koşma,
+    > zıplama veya saldırı animasyonu, oyun içi fizik ve hareket sisteminin anlaşılmasına yardımcı olur. Yüz animasyonları ve beden dili, karakterlerin duygularını ve niyetlerini ifade etmede kritik öneme sahiptir. Bu, özellikle hikâye odaklı oyunlarda, oyuncuların hikâyeye daha fazla dahil olmasını sağlar.
+    > Karakter animasyonu
 
     ***
 1. Aşağıdakilerden hangisi temel animasyon prensiplerinden bir hareketin başlamadan önceki hazırlık evresini ifade eder?
@@ -321,7 +344,7 @@
     - D-) Sıkıştırma ve germe
     - E-) Zamanlama
 
-    > **Açıklama:** Beklenti
+    > **Açıklama:** Beklenti, bir hareketin başlamadan önceki hazırlık evresini ifade eder. Bu, izleyicinin veya oyuncunun bir sonraki hareketi öngörebilmesini sağlar. Örneğin, bir karakterin zıplamadan önce dizlerini bükmesi, atış yapmadan önce geri çekilmesi gibi. Dijital oyunlarda öncül, oyunculara hareketlerin ne zaman gerçekleşeceği konusunda ipuçları verir ve böylece daha interaktif bir deneyim sunar.
 
     ***
 1. Aşağıdakilerden hangisi temel animasyon prensiplerinden animasyonun odak noktasını belirginleştirmek ve hikâyenin ne hakkında olduğunu açıkça iletmek için kullanımını ifade eder?
@@ -331,7 +354,9 @@
     - D-) Mübalağa
     - E-) Sıkıştırma ve germe
 
-    > **Açıklama:** Sahneleme
+    > **Açıklama:** Sahneleme, animasyonun odak noktasını belirginleştirmek ve hikâyenin ne hakkında olduğunu
+    > açıkça iletmek için kullanılır. Bir sahnede, hareket, ışıklandırma, kamera açıları ve arka plan, izleyicinin dikkatini nereye yönlendirmesi gerektiğini
+    > belirlemeye yardımcı olur. Dijital oyunlarda, sahneleme özellikle oyuncunun dikkatini çeşitli görevlere, düşmanlara veya nesnelere yönlendirebilmek için önemli bir prensiptir.
 
     ***
 1. Aşağıdakilerden hangisi animasyondaki hareketlerin hızı ve ritmi ile ilgili olup doğru tasarlandığında animasyonun gerçekçiliğini ve etkisini belirleyerek savaş sahneleri, diyaloglar ve interaktif elementler için kritik önem taşır?
@@ -341,7 +366,7 @@
     - D-) Hacimli çizim
     - E-) Çekicilik
 
-    > **Açıklama:** Zamanlama
+    > **Açıklama:** Zamanlama prensibi animasyondaki hareketlerin hızı ve ritmi ile ilgilidir. Doğru zamanlama, animasyonun gerçekçiliğini ve etkisini belirler. Oyunlarda, zamanlama savaş sahneleri, diyaloglar ve interaktif elementler için kritik önem taşır.
 
     ***
 1. Aşağıdakilerden hangisi animatörlerin karakterlerin ve nesnelerin çeşitli hareket durumlarını temsil eden bir dizi 2D görüntü oluşturmasını gerektiren animasyon türüdür?
@@ -351,7 +376,8 @@
     - D-) 3D Animasyon
     - E-) Rig Animasyonu
 
-    > **Açıklama:** Sprite Tabanlı Animasyonlar
+    > **Açıklama:** Sprite tabanlı animasyonlar, animatörlerin karakterlerin ve nesnelerin çeşitli hareket durumlarını temsil eden bir dizi 2D görüntü oluşturmasını gerektirir. Bu görüntüler, oyun içinde belirli bir sıra ve hızda gösterilerek animasyon etkisi yaratır. Hollow Knight (Team Cherry) 2D oyunlara örnek olarak verilebilir. Bu metroidvania tarzı oyun, el çizimi 2D animasyonların
+    > iyi bir örneğidir.
 
     ***
 1. Aşağıdakilerden hangisi fizik motorları ve algoritmalar kullanılarak gerçek zamanlı olarak oluşturulan, özellikle oyun içi dinamiklerin ve etkileşimlerin gerçekçiliğini artırmak için kullanılan ve karakterlerin yüzeylerle etkileşimini ve çevresel faktörlere tepkilerini gerçekçi bir şekilde simüle eden animasyon türüdür?
@@ -361,7 +387,8 @@
     - D-) 3D Animasyon
     - E-) Rig Animasyonu
 
-    > **Açıklama:** Prosedürel Animasyon
+    > **Açıklama:** Prosedürel animasyon, fizik motorları ve algoritmalar kullanılarak gerçek zamanlı olarak oluşturulan
+    > animasyon türüdür. Bu yöntem, özellikle oyun içi dinamiklerin ve etkileşimlerin gerçekçiliğini artırmak için kullanılır. Prosedürel animasyon, karakterlerin yüzeylerle etkileşimini ve çevresel faktörlere tepkilerini gerçekçi bir şekilde simüle eder. Bu, özellikle açık dünya oyunları ve simülasyon oyunlarında kullanışlıdır.
 
     ***
 1. Aşağıdakilerden hangisi animatörlerin belirli anahtar pozisyonları elle çizdiği veya tasarladığı, ardından yazılımın bu anahtarlar arasındaki hareketi otomatik olarak doldurduğu bir animasyon tekniğidir?
@@ -371,7 +398,8 @@
     - D-) Dinamik simülasyon tekniği
     - E-) NPC hareket tekniği
 
-    > **Açıklama:** Kilit Kare (Keyframe) tekniği
+    > **Açıklama:** Kilit kare animasyonu, animatörlerin belirli anahtar pozisyonları elle çizdiği veya tasarladığı, ardından yazılımın bu kilit kareler arasındaki hareketi otomatik olarak doldurduğu bir tekniktir. Örneğin “Cuphead” oyunu, kilit kare tekniğini kullanarak karakterlerin animasyonlarında 1930’ların çizgi filmlerine özgü bir estetik sunar.
+    > Kilit Kare (Keyframe) tekniği
 
     ***
 1. Aşağıdakilerden hangisi kendine özgü render motorları olan Cycles ve Eevee’yi kullanan animasyon geliştirme aracıdır?
@@ -381,7 +409,7 @@
     - D-) Unreal Engine
     - E-) Python
 
-    > **Açıklama:** Blender
+    > **Açıklama:** Blender kendine özgü render motorları olan Cycles ve Eevee’yi kullanır. Blender, Cycles render motoru sayesinde gerçek zamanlı render alabilir. Cycles, Blender için geliştirilmiş olan hem GPU hem de CPU destekli, fiziksel olarak doğru aydınlatma ve malzemeleri simüle eden bir render motorudur. Ayrıca, Blender’ın Grease Pencil özelliği, 2D çizim ve animasyonların 3D sahnelerle entegre edilmesini sağlar. Grease Pencil, Blender içinde 2D çizim ve animasyon oluşturmak için kullanılan güçlü bir araçtır. Son olarak Blender, Python programlama dili desteği ile genişletilebilir ve özelleştirilebilir bir araçtır.
 
     ***
 1. Aşağıdakilerden hangisi sesin kaynağının yönünü ve mesafesini simüle ederek oyuncuya mekânsal<br />farkındalık kazandıran özellikle VR oyunlar ve açık dünya oyunları için kritik öneme sahip olan ses tasarımıdır?
@@ -391,7 +419,10 @@
     - D-) Diyalog Sesleri
     - E-) Ses Efektleri
 
-    > **Açıklama:** 3D Ses ve Mekansal Ses
+    > **Açıklama:** 3D Ses ve Mekânsal Ses: Sesin kaynağının yönünü ve mesafesini simüle ederek oyuncuya mekânsal
+    > farkındalık kazandıran tekniktir. Özellikle VR oyunlar ve açık dünya oyunları için kritik öneme
+    > sahiptir.
+    > 3D Ses ve Mekansal Ses
 
     ***
 1. Aşağıdakilerden hangisi oyunlarda mekânsal ses kullanımı için bir standart olarak kabul edilen, sesleri sadece yatay düzlemde değil, aynı zamanda dikey düzlemde de konumlandırabilen ve sesleri gerçek dünyadaki gibi daha doğal ve üç boyutlu bir şekilde sunan ses teknolojisidir?
@@ -401,7 +432,8 @@
     - D-) Interactive Audio
     - E-) ITU-R Standardı
 
-    > **Açıklama:** Dolby Atmos
+    > **Açıklama:** Dolby Atmos (Mekânsal Ses): Dolby Atmos, oyunlarda mekânsal ses kullanımı için bir
+    > standart olarak kabul edilir. Sesleri sadece yatay düzlemde değil, aynı zamanda dikey düzlemde de konumlandırabilen bu teknoloji, sesleri gerçek dünyadaki gibi daha doğal ve üç boyutlu bir şekilde sunar.
 
     ***
 ## Unite 5
@@ -412,7 +444,7 @@
     - D-) Sınıflar ve Nesneler
     - E-) Arayüzler ve Soyut Sınıflar
 
-    > **Açıklama:** Değişkenler ve Veri Tipleri
+    > **Açıklama:** Değişkenler ve Veri Tipleri: Programın temelini oluşturan, verilerin saklanmasını ve manipüle edilmesini sağlayan yapı bloklarıdır.
 
     ***
 1. Aşağıdakilerden hangisi if-else, switch ve döngüler ile programın akışını belirler ve karmaşık algoritmaların uygulanmasına olanak tanır?
@@ -422,7 +454,7 @@
     - D-) Arayüzler ve Soyut Sınıflar
     - E-) Değişkenler ve Veri Tipleri
 
-    > **Açıklama:** Kontrol Yapıları
+    > **Açıklama:** Kontrol Yapıları: if-else, switch ve döngüler gibi yapılar programın akışını belirler ve karmaşık algoritmaların uygulanmasına olanak tanır.
 
     ***
 1. Aşağıdakilerden hangisi Unity’de belirli bir davranışı modellemek için oluşturulan ve bileşenlerin temel algoritmalarını ve davranışını yöneten dosyalardır?
@@ -432,7 +464,7 @@
     - D-) Node düğümleri
     - E-) Java sistemleri
 
-    > **Açıklama:** Script varlıkları
+    > **Açıklama:** Unity’de belirli bir davranışı modellemek için Script varlıkları (assets) oluşturulması gerekmektedir. Bu Script varlıkları, bileşenlerin temel algoritmalarını ve davranışını yöneten dosyalardır
 
     ***
 1. Aşağıdakilerden hangisi Unity’de kodlama yaparken fare hareketlerini algılamak ve tuşlarının basılı olup olmadığını tespit etmeyi olanaklı hale getiren bir yaklaşımdır?
@@ -442,7 +474,8 @@
     - D-) Tuş kombinasyonları ile oyunların kontrol mekanizmalarını geliştirme
     - E-) Klavye girdilerini almak için kullanılır ve bir tuşa basıldığında gerçekleştirilmesi gereken
 
-    > **Açıklama:** Üye değişken tanımlayarak dönme hızını kontrol altına alma
+    > **Açıklama:** Unity’de kodlama yaparken fare hareketlerini algılamak ve tuşlarının basılı olup olmadığını tespit etmek mümkündür. Fare hareketlerini algılamak ve bunları nesnenin dönüş hareketlerine dönüştürmek yaygın bir uygulamadır. Bu etkileşimleri yönetmek için öncelikle üye değişken tanımlanarak dönme hızını kontrol altına alabilirsiniz.
+    > Üye değişken tanımlayarak dönme hızını kontrol altına alma
 
     ***
 1. Unity'de sahne dışına çıkan veya görüş alanından kaybolan mermi nesnelerinin, bilgisayar kaynaklarını gereksiz yere tüketmemesi için ne yapılmalıdır?
@@ -452,17 +485,19 @@
     - D-) Mermi nesnesi sürekli görünür olacak şekilde kameraya sabitlenmelidir.
     - E-) Mermi nesnesi hareketine sonsuza kadar devam etmelidir.
 
-    > **Açıklama:** Mermi nesnesi belirli bir süre sonra otomatik olarak yok edilmelidir.
+    > **Açıklama:** Örneğin farenin sol tuşuna basıldığında yeni bir mermi nesnesi oluşturulmakta ve hareket etmeye başlamaktadır. Ancak bu nesneler çok uzaklaşıp görünmez hâle gelse bile varlığını sürdürmekte ve sahnenin görünmeyen bir bölümünde hareketlerine devam etmektedirler. Bu durumda ham bellek hem de işlemci gücü tüketmeye devam edeceklerdir. Bu durumda kısa sürede bilgisayar kaynaklarının aşırı kullanımı ve performans kayıplarına yol açar. Dolayısıyla Unity’de, sahne dışına çıkan veya görüş alanından kaybolan mermi gibi nesnelerin hafıza ve işlemci kaynaklarını boşa harcamamaları için, onları belirli bir süre sonra otomatik olarak yok etmek önemlidir. Bunun önüne geçmek için, mermi nesnesini yok etmek üzere Destroy fonksiyonu kullanılır.
+    > Mermi nesnesi belirli bir süre sonra otomatik olarak yok edilmelidir.
 
     ***
 1. Unity'de, oyuncu karakterini takip eden bir kamera sistemi oluşturmak için hangi adım izlenmelidir?
     - **Cevap A-) Hierarchy bölümünden Main Camera seçilmeli ve Inspector penceresinden yeni bir Script eklenmelidir.**
     - B-) Hierarchy bölümünden Main Camera'yı silip, yeniden oluşturmak gerekir.
     - C-) Main Camera'yı Prefab olarak kaydedip, inspector menüsünden sahneye yeniden eklemek gerekir.
-    - D-) Kamerayı sabitlemek ve  hierarchy bölümünden oyun karakteriyle bağımsız hale getirmek gerekir.
+    - D-) Kamerayı sabitlemek ve hierarchy bölümünden oyun karakteriyle bağımsız hale getirmek gerekir.
     - E-) Hierarcyhy menüsünden Main Camera'yı başka bir kamera ile değiştirmek gerekir.
 
-    > **Açıklama:** Hierarchy bölümünden Main Camera seçilmeli ve Inspector penceresinden yeni bir Script eklenmelidir.
+    > **Açıklama:** Unity oyunlarında kamera kontrolü, oyuncu deneyiminin önemli bir parçasıdır ve genellikle oyun
+    > karakterini takip etmesi istenen bir kameraya ihtiyaç duyulur. Oyuncu karakterini takip eden bir kamera sistemi oluşturmak için, Main Camera’ya bir Script eklenebilir ve bu Script içerisinde kameranın karakteri nasıl takip edeceğini belirlenebilir. Bunun için Hierarchy bölümünden Main Camera seçilmeli ve Inspector penceresinden yeni bir Script eklenmelidir.
 
     ***
 1. Unity'de bir karakterin fiziksel olarak diğer nesnelerle çarpışmasını sağlamak için ne yapılmalıdır?
@@ -472,7 +507,15 @@
     - D-) Karakterin hareketini durdurmak gerekir.
     - E-) Karakterin Renderer bileşeni devre dışı bırakılmalıdır.
 
-    > **Açıklama:** Karakter nesnesine bir Collider eklemek gerekir.
+    > **Açıklama:** Unity’de fiziksel etkileşimlerin ve nesnelerin birbirleriyle doğru şekilde etkileşimde bulunmalarının
+    > sağlanması için Collider bişenleri kullanılır. Collider’lar, fizik motorunun hangi nesnelerin birbirleriyle
+    > çarpışabileceğini ve hangi nesnelerin geçilmez olduğunu anlamasına olanak tanır. Örneğin; bir oyun karakterinin duvarlardan veya diğer nesnelerden geçmesini engellemek istiyorsanız, karakter nesnesine uygun bir Collider eklemelisiniz.
+    > Bu örnekte karakter kapsül şeklinde olduğu için, Capsule Collider bileşeninin kullanılması mantıklıdır.
+    > Capsule Collider, özellikle insan biçimindeki karakterler için popüler bir seçimdir çünkü insan vücudunun düzgün, dikey şekline uyumludur. Capsule Collider’ı bir karaktere eklemek için aşağıdaki adımlar takip edilebilir (Görsel 5.10).
+    > • Unity Editor’deki Hierarchy panelinden karakter nesnesi seçilmelidir.
+    > • İnspector panelinde, Add Component butonuna tıklanmalıdır.
+    > • Physics kategorisinden Capsule Collider bulunup ve seçilmelidir.</p
+    > Karakter nesnesine bir Collider eklemek gerekir.
 
     ***
 1. Unity’de, karakterin zeminin altına düşmesini önlemek için hangi Collider bileşeni kullanılmalıdır?
@@ -482,7 +525,7 @@
     - D-) Wheel Collider
     - E-) Mesh Collider
 
-    > **Açıklama:** Terrain Collider
+    > **Açıklama:** Karakterin üzerinde yürüdüğü zemin için Terrain Collider eklemek de önemlidir. Bu, karakterin zeminin altına düşmesini önler. Duvarlar ve diğer dik duran yapılar için de Box Collider tercih edilebilir, böylece bu yüzeylerin de gerçekçi engeller oluşturması sağlanır. Bu Collider’ların doğru şekilde ayarlanıp yerleştirilmesi, oyununuzun fiziksel etkileşimlerinin ve çevresel engellerinin gerçekçi ve ikna edici olmasını sağlar.
 
     ***
 1. Unity'de Layer Collision Matrix kullanarak hangi işlemi gerçekleştirebilirsiniz?
@@ -492,7 +535,8 @@
     - D-) Oyun karakterinin görünürlüğünü ve görünürlüğe dayalı yönünü ayarlayabilirsiniz.
     - E-) Mermilerin yönünü ve katmanlar arasında geçişini değiştirebilirsiniz.
 
-    > **Açıklama:** Hangi katmanlar arasında çarpışma olacağını veya olmayacağını belirleyebilirsiniz.
+    > **Açıklama:** Unity’de çarpışma bileşenler çok çeşitlidir ve detaylı ayarları yapılabilmektedir. Unity’de çarpışma algılama ve fiziksel etkileşim, çarpışma bileşenleri (Collider’lar) ve fizik motoru aracılığıyla yönetilir. Örneğin mermiler gibi bazı nesnelerin çarpışması istenmeyen bir durum olabilir: Karakter ile karakter mermisi, düşman ile düşman mermileri çarpışmamalıdır. Bu gibi durumlar çeşitli ayarlar yapılarak çözülebilmektedir. Project Settings / Physics bölümünde bulunan Layer Collision Matrix kullanılarak hangi nesneler arasında çarpışma olacağı veya olmayacağı seçilebilmektedir.
+    > Hangi katmanlar arasında çarpışma olacağını veya olmayacağını belirleyebilirsiniz.
 
     ***
 1. E-script işleyişinde Unity’de bir oyunda düşman nesnelerinin nasıl yönetildiğiyle ilgili aşağıdakilerden hangisi doğrudur?
@@ -502,7 +546,17 @@
     - D-) Düşmanlar belirli bir y pozisyonuna ulaştığında oyun sonlanır.
     - E-) Düşman nesneleri sürekli sahnede kalır ve oyun sonlanmaz.
 
-    > **Açıklama:** Düşman nesneleri rastgele sürelerle oluşturulur ve her seferinde süre sıfırlanır.
+    > **Açıklama:** e Script’in işleyişi şu adımları içerir:
+    > • Oyun aktif olarak devam edip etmediği basla bool değişkeninde tutulmaktadır.
+    > • Başlangıçta (Start metodunda) ilk düşman nesnesi yaratılır ve rastgele bir süre belirlenir. Her düşman oluşturulduğunda 3 ile 10 saniye arasında rastgele bir sayi üretilmekte ve bir sonraki düşmanbu kadar saniye sonra oluşturulmaktadır.
+    > • Update metodu her karede çağrıldığında geçen süreyi izler (süre değişkeni ile) ve belirlenen süre
+    > geçtiğinde yeni bir düşman nesnesi yaratır.
+    > • Yeni bir düşman yaratıldıktan sonra süre sıfırlanır ve yeni bir rastgele süre tanımlanır.
+    > • Her düşman nesnesi, dusmanlar listesinde saklanır ve bu liste üzerinden takip edilir.
+    > • Eğer bir düşman nesnesi belirli bir z pozisyonunun altına inerse (örneğin 40F), oyun sonlandırılır
+    > (gameOverPanel aktif hâle getirilir ve basla değişkeni false olarak ayarlanır). Panel oluşturmak için
+    > GameObject / UI / Panel seçeneği seçilebilir. Panel’in altında Oyun sona erdiği ve tekrar
+    > Düşman nesneleri rastgele sürelerle oluşturulur ve her seferinde süre sıfırlanır.
 
     ***
 ## Unite 6
@@ -614,7 +668,11 @@
     - D-) Senaryo akışları
     - E-) Teknik beceri
 
-    > **Açıklama:** Demografik özellikler
+    > **Açıklama:** Dijital oyunlar bilişim dünyasının en eski ve popüler alanlarından birisidir. Dijital oyunların
+    > tasarlanması ve geliştirilmesi büyük çaba gerektirmektedir. Basit oyunlardan çok kullanıcılı
+    > karmaşık oyunlara kadar olan geniş oyun yelpazesinde oyunları geliştirmek için **programlama**,
+    > **teknik beceriler**, **grafik tasarım üretimleri**, **senaryo akışları** ve diğer bileşenler yer alır.
+    > Demografik özellikler
 
     ***
 1. Oyun yayıncı şirketler, geliştiricilere bazı konularda servisler sunmaktadır. Aşağıdakilerden hangisi bu servisler arasında **değildir?**
@@ -624,7 +682,8 @@
     - D-) İstatistik
     - **Cevap E-) İnsan kaynakları**
 
-    > **Açıklama:** İnsan kaynakları
+    > **Açıklama:** Oyun yayıncı şirketler geliştiricilere pazarlama, reklam, satış, destek ve istatistik anlamında servisler sunmaktadır.
+    > İnsan kaynakları
 
     ***
 1. Avrupa 2023 verilerine göre, oyun sektöründe ekonomik gelir anlamında ilk 5 ülke sıralanmasında aşağıdakilerden hangi ülke **yoktur?**
@@ -634,7 +693,14 @@
     - D-) İtalya
     - E-) İspanya
 
-    > **Açıklama:** Türkiye
+    > **Açıklama:** Avrupa 2023 verilerine göre ise ekonomik gelir anlamında
+    > 1\. Birleşik Krallık – 7,94 milyar ABD doları
+    > 2\. Almanya – 4,83 milyar ABD doları
+    > 3\. Fransa – 3,45 milyar ABD doları
+    > 4\. İtalya – 2,16 milyar ABD doları
+    > 5\. İspanya – 1,43 milyar ABD doları
+    > şeklinde ilk 5 ülke sıralanmaktadır (Statista, 2024).
+    > Türkiye
 
     ***
 1. Dijital oyunların geliştirilmesinde çeşitli bileşenler vardır. Aşağıdakilerden hangisi bu bileşendir**?**
@@ -644,7 +710,16 @@
     - D-) Mobil cihazlar
     - E-) Televizyon ve geniş ekranlar
 
-    > **Açıklama:** Oyunun bütçesi
+    > **Açıklama:** Dijital oyunların geliştirilmesinde çeşitli bileşenler vardır. Bir oyunun
+    > **• Bütçesi**
+    > **• Türü**
+    > **• Platformu**
+    > **• Programlama Dili**
+    > **• Oyun Motoru**
+    > **• Hedef Kitlesi**
+    > **• Yayıncı**
+    > **• ve Dağıtım Kanalı** bunlardan bazılarıdır.
+    > Oyunun bütçesi
 
     ***
 1. Aşağıdakilerden hangisi oyun geliştirmede kullanılan programlama dillerinden **değildir?**
@@ -654,7 +729,14 @@
     - **Cevap D-) Montaj**
     - E-) Lua
 
-    > **Açıklama:** Montaj
+    > **Açıklama:** Oyun geliştirmede kullanılan programlama dillerinden bazıları
+    > **• C++**
+    > **• C#**
+    > **• Java**
+    > **• Python**
+    > **• JavaScript**
+    > **• ve Lua** olarak listelenebilir.
+    > Montaj
 
     ***
 1. Dijital oyunların dağıtımında en ön planda olan paydaş aşağıdakilerden hangisidir?
@@ -664,7 +746,7 @@
     - D-) Oyuncular (Müşteriler)
     - **Cevap E-) Oyun geliştiriciler**
 
-    > **Açıklama:** Oyun geliştiriciler
+    > **Açıklama:** Dijital oyunların dağıtımında en ön planda **oyun geliştiriciler** yer almaktadır.
 
     ***
 1. Oyunların oyuncularla buluşması genel olarak belli aşamalarda gerçekleşmektedir. Aşağıdakilerden hangisi bu aşamalardan **değildir?**
@@ -674,7 +756,12 @@
     - D-) Üretim
     - E-) Satış sonrası destek hizmetleri
 
-    > **Açıklama:** Kalite değerlendirme
+    > **Açıklama:** Oyunların oyuncularla buluşması genel olarak
+    > **• Üretim**
+    > **• Yayınlama**
+    > **• Pazarlama**
+    > **• Satış sonrası destek hizmetleri** gibi aşamalarda gerçekleşmektedir.
+    > Kalite değerlendirme
 
     ***
 1. Oyun geliştirme süreci oyunu fikir ve hayal gücünden son ürün olarak oyunu tasarlamak, planlamak ve bir ürün olarak ortaya koyma sürecidir. Oyunun üretim aşamasında aşağıdakilerden hangisi **yer almaz?**
@@ -684,7 +771,13 @@
     - D-) Alfa Beta denemeleri
     - E-) Son ürün ve yayınlama
 
-    > **Açıklama:** Kullanıcı anketi
+    > **Açıklama:** Oyunun üretim aşamaları;
+    > **1. Kavramsal tasarım**
+    > **2. Ön üretim ve prototip geliştirme**
+    > **3. Üretim**
+    > **4. Alfa Beta denemeleri**
+    > **5. Son ürün ve yayınlama** şeklindedir.
+    > Kullanıcı anketi
 
     ***
 1. Oyunun planlama sürecinde hedeflenen yere ulaşabilme potansiyelini denemek için oyunun belli özellikleri incelenir. Aşağıdakilerden hangisi bu özeliklerden **değildir?**
@@ -694,7 +787,13 @@
     - **Cevap D-) Oyunun satın alınabilirliği**
     - E-) Oyun mekaniği
 
-    > **Açıklama:** Oyunun satın alınabilirliği
+    > **Açıklama:** Oyunun;
+    > **• Kullanıcı deneyimi**
+    > **• Hikâyesinin akıcılığı ve senaryosu**
+    > **• Karakterlerin kişilik özellikleri**
+    > **• Oynanabilirliği**
+    > **• Oyun mekaniği ve kinematik özellikleri** incelenir.
+    > Oyunun satın alınabilirliği
 
     ***
 1. Google Play Console’da oyun türleri olarak aşağıdakilerden hangisi **yer almaz?**
@@ -704,7 +803,20 @@
     - D-) Eğitici
     - E-) Bulmaca
 
-    > **Açıklama:** IQ testleri
+    > **Açıklama:** Google Play Console’da sonraki aşamalarda oyunun tür seçimi ve etiketleri belirleme işlemleri
+    > yapılır. Oyun türleri olarak
+    > **• Aksiyon**
+    > **• Arcade**
+    > **• Bulmaca**
+    > **• Eğitici**
+    > **• Gündelik**
+    > **• Kâğıt**
+    > **• Kelime**
+    > **• Macera**
+    > **• Masa**
+    > **• Müzik**
+    > **• Rol oyunu** yer almaktadır.
+    > IQ testleri
 
     ***
 ## Unite 8
@@ -715,7 +827,8 @@
     - D-) Üst düzey uyumluluk
     - E-) Oyun tasarımını demokratikleştirme
 
-    > **Açıklama:** **Donanım teknolojisiyle birlikte gelişme**
+    > **Açıklama:** **Donanım teknolojisiyle birlikte gelişme:** Görsel varlıkları anlık çağırma ve yükleme zamanlarını
+    > azaltma adına oyun motorları uyumlanmaya ve kendini optimize etmeye devam edecektir.
 
     ***
 1. Kapsamlı bir yaşam döngüsüne sahip olan oyun geliştirme sürecinde aşağıdakilerden hangisi yoktur?
@@ -725,7 +838,9 @@
     - D-) Yayımlama
     - **Cevap E-) Demografik yapı belirleme**
 
-    > **Açıklama:** Demografik yapı belirleme
+    > **Açıklama:** Bilindiği üzere oyun geliştirme süreci **programlama**dan **veri toplama**ya; veri toplamadan
+    > **maddi kaynak oluşturma** ve **yayınlamaya** kadar oldukça kapsamlı bir yaşam döngüsüne sahne olmaktadır.
+    > Demografik yapı belirleme
 
     ***
 1. Gelecekte oyun geliştirmeyi oyuncu beklentileriyle uyumlu kılmak için yola çıkan karşılıklı uğraşlar ve etkileşimde bulunan aktörler bütününe ne denir?
@@ -735,7 +850,7 @@
     - D-) Optimizasyon
     - E-) Veri kodlama
 
-    > **Açıklama:** **Programlama ekosistemi,** adından da anlaşılacağı üzere gelecekte oyun geliştirmeyi oyuncu beklentileriyle uyumlu kılmak için yola çıkan karşılıklı uğraşlar ve etkileşimde bulunan aktörler bütünüdür.
+    > **Açıklama:** **Programlama ekosistemi,** adından da anlaşılacağı üzere gelecekte oyun geliştirmeyi oyuncu beklentileriyle uyumlu kılmak için yola çıkan karşılıklı uğraşlar ve etkileşimde bulunan aktörler bütünüdür.
 
     ***
 1. Üst seviye oyun deneyimi sağlayan daha büyük ekranlı mobil tabletlere olan talebin artması aşağıdakilerden hangisiyle ilişkilendirilmektedir**?**
@@ -745,7 +860,7 @@
     - D-) Yeni neslin teknolojiye uyumu
     - E-) Geniş oyun yelpazesi
 
-    > **Açıklama:** Mobil segmentin genişlemesi
+    > **Açıklama:** **Mobil segmentin genişlemesi**, akıllı telefon penetrasyonunun dünya çapındaki artışına bağlanmış olup, üst seviye oyun deneyimi sağlayan daha büyük ekranlı mobil tabletlere olan talebin artmasıyla da ilişkilendirilmiştir.
 
     ***
 1. Kestirimsel analiz olarak ifade edilen analiz yön­teminde *“**bir oyuncu her gün sisteme giriş yapıyor fakat aniden oynamayı bırakıyorsa, bu onun oyundan koptuğunu gösteren bir uyarı işareti olabilmektedir”* bu analizde ön plana çıkan veri kaynağı aşağıdakilerden hangisidir?
@@ -755,7 +870,8 @@
     - **Cevap D-) Oyuncu katılımı**
     - E-) Oyun içi satın alma davranışları
 
-    > **Açıklama:** Oyuncu katılımı
+    > **Açıklama:** **Oyuncu katılımı:** Kestirimsel analiz, oyuncu verilerini analiz ederek herhangi bir platform ya da oyunun katılımcı kaybına neden olabilecek işleyişleri kalıp hâline getirip sunma özelliğine sahiptir. **Örneğin;** b*ir oyuncu her gün sisteme giriş yapıyor fakat aniden oynamayı bırakıyorsa, bu onun*
+    > *oyundan koptuğunu gösteren bir uyarı işareti olabilmektedir.* Oyun geliştiricileri bu veriyi anlık ve erken tespit ederek oyuncunun sistemde kalması için gerekli adımların erkenden atılmasını sağlayabilirler.
 
     ***
 1. Kestirimsel analiz (predictive analysis) veri madenciliği yönteminin tanımı aşağıdakilerden hangisidir?
@@ -765,7 +881,7 @@
     - D-) Geçmiş verilerden yararlanarak şimdiki verilere ilişkin kapsamlı tahminler
     - E-) Gelecek verilerden yararlanarak şimdiki verilere ilişkin kapsamlı tahminler
 
-    > **Açıklama:** Geçmiş verilerden yararlanarak gelecek verilere ilişkin kapsamlı tahminler
+    > **Açıklama:** **Kestirimsel analiz (predictive analysis)**, geçmiş verilerden yararlanarak gelecek verilere ilişkin kapsamlı tahminlerin yürütüldüğü bir veri madenciliği yöntemidir (Sze, 2005).
 
     ***
 1. Oyun endüstrisinin benzer bir anlayış ve özellikle araştırma tabanlı ele alınması konusunda gelecek trendleri arasında aşağıdakilerden hangisi **değildir?**
@@ -775,17 +891,20 @@
     - D-) Kullanıcı psikolojisi ve müşteri ilişkileri
     - E-) İnovasyon Yönetimi
 
-    > **Açıklama:** Oyun tasarımı
+    > **Açıklama:** Goh, Al-Tabbaa ve Khan (2023) oyun endüstrisinin benzer bir anlayış ve özellikle araştırma tabanlı ele alınması konusunda gelecek trendleri altı başlık altında ele almışlardır: sayfa 193 bkz.
+    > Oyun tasarımı
 
     ***
 1. 2019 yılı itibarıyla Dünya Sağlık Örgütü (DSÖ) tarafından *dijital oyun bağımlılığı*, uluslararası ortak hastalıklar sıralamasında kaçıncı sıradadır?
-    - A-) 1.sırada
-    - B-) 5.sırada
-    - C-) 8.sırada
-    - D-) 9.sırada
-    - **Cevap E-) 11.sırada**
+    - A-) 1\.sırada
+    - B-) 5\.sırada
+    - C-) 8\.sırada
+    - D-) 9\.sırada
+    - **Cevap E-) 11\.sırada**
 
-    > **Açıklama:** 11.sırada
+    > **Açıklama:** 2019 yılı itibarıyla Dünya Sağlık Örgütü (DSÖ) tarafından dijital oyun bağımlılığı, uluslararası
+    > ortak hastalıklar sıralamasına **11. sıradan** girmiştir.
+    > 11\.sırada
 
     ***
 1. Gelecekte oyun dünyasındaki çocuklara yönelik sorumlulukta kişi, kurum ve yönetimlerin takınacağı bir dizi öneriler ele alınmıştır. Aşağıdakilerden hangisi bu öneri grupları içinde **değildir?**
@@ -795,7 +914,8 @@
     - **Cevap D-) Eğitimciler**
     - E-) Hükûmetler
 
-    > **Açıklama:** Eğitimciler
+    > **Açıklama:** Dolayısıyla gelecekte bu konuda özellikle oyun dünyasındaki metaverse etkisinin artması öngörüsü doğrultusunda, söz konusu ortama şimdiden ileri seviyede ilgi gösteren çocuklara yönelik sorumluluk sahibi kişi, kurum ve yönetimlerin takınacağı tavırlar bir dizi öneriyle ele alınmıştır: ...devamına sayfa 196 bkz.
+    > Eğitimciler
 
     ***
 1. Lucintel (2021)’in oyun tasarımı ve oyunculuğun bir arada ele alındığı bir raporda, video oyunların dünyasında yaşanmakta olan ve olası yaşanacak gelişmeleri ele alarak, geleceği şekillendirecek beş trendi özetlemiştir aşağıdakilerden hangisi bu trendlerden **değildir?**
@@ -805,6 +925,7 @@
     - D-) Bulut oyunculuğu
     - E-) Giyilebilir Oyunculuk
 
-    > **Açıklama:** Sürdürülebilir Oyunculuk
+    > **Açıklama:** Oyun tasarımı ve oyunculuğun bir arada ele alındığı bir raporda Lucintel (2021) video oyunların dünyasında yaşanmakta olan ve olası yaşanacak gelişmeleri ele alarak, geleceği şekillendirecek beş trendi özetlemiştir:...devamına sayfa 198 bkz.
+    > Sürdürülebilir Oyunculuk
 
     ***

@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eğretileme"
+        "Aciklama": "imgelerin dili<br>Eğretileme"
     },
     {
         "SoruID": 3354072,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yansıtma kuramı, anlatımcılık, biçimci kuram."
+        "Aciklama": "EDEBİYAT KURAMLARI VE ELEŞTİRİ<br>Yansıtma kuramı, anlatımcılık, biçimci kuram."
     },
     {
         "SoruID": 3354073,
@@ -57,11 +57,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Platon"
+        "Aciklama": "Yansıtma (Mimesis, Taklit) Kuramı<br>Platon"
     },
     {
         "SoruID": 3354074,
-        "SoruMetni": "“……….......dünya görüşü, insanın doğuştan günahkâr, sefil, ahlaksız bir varlık olduğunu kabul eden kiliseye karşı çıkar ve insanın başlı başına özerk (bağımsız), evrensel bir değer olduğunu ileri sürer.”<br/> Yukarıdaki boşluğa aşağıdaki hangi kelime getirilmelidir?",
+        "SoruMetni": "“……….......dünya görüşü, insanın doğuştan günahkâr, sefil, ahlaksız bir varlık olduğunu kabul eden kiliseye karşı çıkar ve insanın başlı başına özerk (bağımsız), evrensel bir değer olduğunu ileri sürer.”<br/>Yukarıdaki boşluğa aşağıdaki hangi kelime getirilmelidir?",
         "A": "Hümanist",
         "B": "Rasyonalist",
         "C": "Realist",
@@ -77,15 +77,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hümanist"
+        "Aciklama": "Yansıtma (Mimesis, Taklit) Kuramı<br>Hümanist"
     },
     {
         "SoruID": 3354075,
-        "SoruMetni": "Deliliğe Övgü adlı edebiyat eserini yazan kişi aşağıdakilerden hangisidir?<br/><br/><br/>",
-        "A": "Desiderius Erasmus<br/><br/>",
-        "B": "Stefan Zweig<br/><br/>",
-        "C": "Emile Zola<br/><br/>",
-        "D": "Thomas Mann<br/><br/>",
+        "SoruMetni": "Deliliğe Övgü adlı edebiyat eserini yazan kişi aşağıdakilerden hangisidir?",
+        "A": "Desiderius Erasmus",
+        "B": "Stefan Zweig",
+        "C": "Emile Zola",
+        "D": "Thomas Mann",
         "E": "Gustav Mahler",
         "DogruCevap": "A",
         "DersAd": "Sanatta Eleştirel Düşünce",
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Desiderius Erasmus"
+        "Aciklama": "Edebiyatın Aynası ve Eleştirel Bakış: Deliliğe Övgü<br>Desiderius Erasmus"
     },
     {
         "SoruID": 3354076,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Emile Zola"
+        "Aciklama": "<br/>Eleştirel Düşünce ve Gerçekçilik: Dreyfus Olayı ve Emile Zola"
     },
     {
         "SoruID": 3354078,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu kurama göre sanatçının bir yaratım ürünü olan, tamamlanmış, tek (biricik, unique) ve özgün yapıt olursa önemsenir."
+        "Aciklama": "Biçimci Kuram<br/>E. Bu şıkkında sanat yapıtı tanımlanmıştır. Biçimci kuram özellikleri bulunmaz. Yapıt, sanatın hangi dalına ait olursa olsun konu, içerik, öz, biçim ve biçemden oluşan bir bütündür.<br>Bu kurama göre sanatçının bir yaratım ürünü olan, tamamlanmış, tek (biricik, unique) ve özgün yapıt olursa önemsenir."
     },
     {
         "SoruID": 3354079,
@@ -157,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu akımın sanatçıları için doğa ayrıcalıklıdır çünkü insan ancak doğayla iç içe olduğunda düşüncelerini aklın denetiminden kurtararak içgüdüsel şekilde dışa vurabilir."
+        "Aciklama": "<br/>Sembolizm: Alternatif Bir Gerçeklik Arayış<br>Bu akımın sanatçıları için doğa ayrıcalıklıdır çünkü insan ancak doğayla iç içe olduğunda düşüncelerini aklın denetiminden kurtararak içgüdüsel şekilde dışa vurabilir."
     },
     {
         "SoruID": 3354080,
-        "SoruMetni": "<em>\"Hem bıçağım hem de yara</em><br/><br/><em>Hem yanağım hem de tokat</em><br/><br/><em>Hem kurbanım hem de cellat</em><br/><br/><em>Ezen ve ezilen çarkta”</em><br/><br/>dizelerinin sahibi olan Fransız şair Charles Baudelaire’in bu anlatımı aşağıdaki hangi akıma örnek olarak verilebilir?",
+        "SoruMetni": "<em>\"Hem bıçağım hem de yara</em><br/><em>Hem yanağım hem de tokat</em><br/><em>Hem kurbanım hem de cellat</em><br/><em>Ezen ve ezilen çarkta”</em><br/>dizelerinin sahibi olan Fransız şair Charles Baudelaire’in bu anlatımı aşağıdaki hangi akıma örnek olarak verilebilir?",
         "A": "Sembolizm",
         "B": "Romantizm",
         "C": "Natüralizm",
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sembolizm"
+        "Aciklama": "Sembolizm: Alternatif Bir Gerçeklik Arayış"
     },
     {
         "SoruID": 3354124,
@@ -224,8 +224,8 @@
         "SoruMetni": "Aşağıdakilerden hangisi bir şeyi, o şeyin adını anmadan, kullanmadan, kendisine türlü yönlerden benzeyen başka bir şeyin adıyla ifade etmek anlamında kullanılan bir kavramdır?",
         "A": "Eğretileme",
         "B": "Sembolizm",
-        "C": "Yansıtma<br/><br/>",
-        "D": "Anlatımcılık<br/><br/>",
+        "C": "Yansıtma",
+        "D": "Anlatımcılık",
         "E": "Biçimcilik",
         "DogruCevap": "A",
         "DersAd": "Sanatta Eleştirel Düşünce",
@@ -303,7 +303,7 @@
         "SoruID": 3354134,
         "SoruMetni": "Aşağıdakilerden hangisi sanat yapıtının dış dünyadan, sanatçıdan, sanatın alımlayıcısından bağımsız, kendi başına yeterli bir yapı, dizge ya da düzen olduğunu savunan kuramdır?",
         "A": "Biçimci kuram",
-        "B": "Anlatımcılık<br/><br/>",
+        "B": "Anlatımcılık",
         "C": "Yansıtma kuramı",
         "D": "Gerçekçilik",
         "E": "Doğalcılık",
@@ -343,9 +343,9 @@
         "SoruID": 3354136,
         "SoruMetni": "Aşağıdakilerden hangisi sanat tarihinin farklı dönemlerinde geliştirilip, yorumlanarak günümüze kadar gelen farklı yansıtma kuramlarından biri olarak sıralanamaz?",
         "A": "Sanat görüngü dünyasını yansıtır.",
-        "B": "İdeayı / özü yansıtır.<br/><br/>",
+        "B": "İdeayı / özü yansıtır.",
         "C": "Genel tabiatı, ideal olanı yansıtır.",
-        "D": "Gerçek olmayanı yansıtır.<br/><br/>",
+        "D": "Gerçek olmayanı yansıtır.",
         "E": "Toplumsal gerçeği yansıtır.",
         "DogruCevap": "D",
         "DersAd": "Sanatta Eleştirel Düşünce",
@@ -441,7 +441,7 @@
     },
     {
         "SoruID": 3354211,
-        "SoruMetni": "<strong>“Gerçek ya da düşsel durumların, olayların, kişilerin ve kişiler arasındaki ilişkilerin çeşitli gösterge dizgeleri (harfler, işaretler, sesler, renkler vb.) aracılığıyla anlatılması, öykülenmesidir.”</strong><br/> Yukarıda verilmiş olan tanımlama aşağıdakilerden hangisine aittir?",
+        "SoruMetni": "<strong>“Gerçek ya da düşsel durumların, olayların, kişilerin ve kişiler arasındaki ilişkilerin çeşitli gösterge dizgeleri (harfler, işaretler, sesler, renkler vb.) aracılığıyla anlatılması, öykülenmesidir.”</strong><br/>Yukarıda verilmiş olan tanımlama aşağıdakilerden hangisine aittir?",
         "A": "Betimleme",
         "B": "Metin",
         "C": "Düzyazı",
@@ -501,7 +501,7 @@
     },
     {
         "SoruID": 3354214,
-        "SoruMetni": "Şiir formu üzerine Papirüs Dergisindeki “Şiir ve Devrim” adlı başyazısında,<br/> <strong> “Bir kere, şiir eğlence (distraction) niteliğini hiç taşımayan bir sanat. Bu bakımdan çok genel anlamda temizleyici, (belki) yetiştirici, (mutlaka) bileyici nitelikleri dışında bir nedenle bir aracının ona yaklaşması söz konusu olamaz.” </strong>düşüncesini savunan Türk şairimiz aşağıdakilerden hangisidir?",
+        "SoruMetni": "Şiir formu üzerine Papirüs Dergisindeki “Şiir ve Devrim” adlı başyazısında,<br/><strong> “Bir kere, şiir eğlence (distraction) niteliğini hiç taşımayan bir sanat. Bu bakımdan çok genel anlamda temizleyici, (belki) yetiştirici, (mutlaka) bileyici nitelikleri dışında bir nedenle bir aracının ona yaklaşması söz konusu olamaz.” </strong>düşüncesini savunan Türk şairimiz aşağıdakilerden hangisidir?",
         "A": "Atilla İlhan",
         "B": "Cemal Süreya",
         "C": "Nazım Hikmet",
@@ -584,7 +584,7 @@
         "SoruMetni": "Yeterli ve zorunlu sınıflama koşulunu sağlayan tanımlamaya ne ad verilir?",
         "A": "Kavram",
         "B": "Kapalı Kavram",
-        "C": "Açık Kavram",
+        "C": "Açık Kavram",
         "D": "Etkin Tanımlama",
         "E": "Biçimsel Tanımlama",
         "DogruCevap": "E",
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anlatı, gerçek ya da düşsel durumların, olayların, kişilerin ve kişiler arasındaki<br/>ilişkilerin çeşitli gösterge dizgeleri (harfler,<br/>işaretler, sesler, renkler vb.) aracılığıyla  anlatılması, öykülenmesidir."
+        "Aciklama": "Anlatı, gerçek ya da düşsel durumların, olayların, kişilerin ve kişiler arasındaki<br/>ilişkilerin çeşitli gösterge dizgeleri (harfler,<br/>işaretler, sesler, renkler vb.) aracılığıyla anlatılması, öykülenmesidir."
     },
     {
         "SoruID": 3354232,
@@ -721,7 +721,7 @@
     },
     {
         "SoruID": 3354259,
-        "SoruMetni": "Aşağıdaki yansıtma kuramlarından hangisi Aristotales'in görüşünü ifade eder?",
+        "SoruMetni": "Aşağıdaki yansıtma kuramlarından hangisi Aristotales'in görüşünü ifade eder?",
         "A": "Sanat görüngü (fenomen) dünyasını yansıtır",
         "B": "İdeayı / özü yansıtır",
         "C": "Genel tabiatı, ideal olanı yansıtır",
@@ -741,7 +741,7 @@
     },
     {
         "SoruID": 3354260,
-        "SoruMetni": "Aşağıdaki yansıtma kuramlarından hangisi Platon'un görüşünü ifade eder?",
+        "SoruMetni": "Aşağıdaki yansıtma kuramlarından hangisi Platon'un görüşünü ifade eder?",
         "A": "Sanat görüngü (fenomen) dünyasını yansıtır",
         "B": "İdeayı / özü yansıtır",
         "C": "Toplumsal gerçeği yansıtır",

@@ -121,12 +121,12 @@
     },
     {
         "SoruID": 3670792,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Hareketli görüntünün kaydedilmesi veya görüntünün hareketli olarak izlenebilmesini sağlayan ilerleme, 19. yüzyılda fotoğraf makinesinin icadına kadar olan süreçte teknik olarak hangi araca bağlı kalmıştır?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Hareketli görüntünün kaydedilmesi veya görüntünün hareketli olarak izlenebilmesini sağlayan ilerleme, 19. yüzyılda fotoğraf makinesinin icadına kadar olan süreçte teknik olarak hangi araca bağlı kalmıştır?",
         "A": "Camera Obscura",
-        "B": "<br/> <br/> <br/> <br/>Praksinoskop<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Flipbook (çevir çizim)<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Kinora<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Cinématographe<br/><br/><br/><br/>",
+        "B": "<br/>Praksinoskop",
+        "C": "<br/>Flipbook (çevir çizim)",
+        "D": "<br/>Kinora",
+        "E": "<br/>Cinématographe",
         "DogruCevap": "A",
         "DersAd": "Hareketli Grafik Tasarımı",
         "Unite": 1,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Hareketli görüntünün kaydedilmesi veya görüntünün hareketli olarak izlenebilmesini sağlayan ilerleme, 19. yüzyılda fotoğraf makinesinin icadına kadar olan süreçte teknik olarak Camera Obscura’ya bağlı kalmıştır. Modern kameranın öncüsü, atası olarak kabul edilen Camera Obscura, görüntünün hareketlendirilmesinin seyrini şekillendirmede çok önemli bir rol oynamıştır. İmgenin harekete geçirilmesi süreci, ışık ve gölgenin manipülasyonunu, optik oyuncakların kullanımını ve Camera Obscura’nın entegrasyonunu aracılığıyla olmuştur.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Hareketli görüntünün kaydedilmesi veya görüntünün hareketli olarak izlenebilmesini sağlayan ilerleme, 19. yüzyılda fotoğraf makinesinin icadına kadar olan süreçte teknik olarak Camera Obscura’ya bağlı kalmıştır. Modern kameranın öncüsü, atası olarak kabul edilen Camera Obscura, görüntünün hareketlendirilmesinin seyrini şekillendirmede çok önemli bir rol oynamıştır. İmgenin harekete geçirilmesi süreci, ışık ve gölgenin manipülasyonunu, optik oyuncakların kullanımını ve Camera Obscura’nın entegrasyonunu aracılığıyla olmuştur."
     },
     {
         "SoruID": 3670809,

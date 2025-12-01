@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3862619,
-        "SoruMetni": "\"İnsan faaliyetleri sonucunda doğal çevreye yayılan zararlı maddelerin neden<br/>olduğu olumsuz etkilerin genel adıdır.\"<br/> Yukarıda verilen tanım aşağıdaki seçeneklerden hangisine aittir?",
+        "SoruMetni": "\"İnsan faaliyetleri sonucunda doğal çevreye yayılan zararlı maddelerin neden<br/>olduğu olumsuz etkilerin genel adıdır.\"<br/>Yukarıda verilen tanım aşağıdaki seçeneklerden hangisine aittir?",
         "A": "Çevresel kirlilik",
         "B": "Hava kirliliği",
         "C": "Su kirliliği",
@@ -41,11 +41,11 @@
     },
     {
         "SoruID": 3862621,
-        "SoruMetni": "Aşağıdakilerden hangisi hem üreticilere hem de tüketicilere ek mali yükler getirdiği için yenilikçi ve çevre dostu ambalajların tasarlanmasını teşvik etmek için kullanılan düzenlemelerden <em><strong>biri değildir?</strong></em>",
+        "SoruMetni": "Aşağıdakilerden hangisi hem üreticilere hem de tüketicilere ek mali yükler getirdiği için yenilikçi ve çevre dostu ambalajların tasarlanmasını teşvik etmek için kullanılan düzenlemelerden <em><strong>biri değildir?</strong></em>",
         "A": "Teşvik",
-        "B": "Yasaklama<br/><br/>",
-        "C": "Vergilendirme<br/><br/>",
-        "D": "Ücretlendirme<br/><br/>",
+        "B": "Yasaklama",
+        "C": "Vergilendirme",
+        "D": "Ücretlendirme",
         "E": "Gönüllülük",
         "DogruCevap": "A",
         "DersAd": "Ambalaj Tasarımı",
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Ülke </strong>                  <strong>Tek kullanımlık ambalajların azaltılması yönündeki düzenleme türü</strong><br/>Arjantin                  Yasaklama<br/>Belçika                   Vergilendirme, Gönüllülük<br/>Bulgaristan             Ücretlendirme<br/>Çin                         Ücretlendirme<br/>Danimarka              Vergilendirme, Ücretlendirme<br/>Fransa                    Yasaklama<br/>Kenya                     Yasaklama, Vergilendirme<br/>Portekiz                  Gönüllülük<br/>Türkiye                   Yasaklama, Ücretlendirme<br/>Birleşik Krallık         Ücretlendirme"
+        "Aciklama": "<strong>Ülke </strong> <strong>Tek kullanımlık ambalajların azaltılması yönündeki düzenleme türü</strong><br/>Arjantin Yasaklama<br/>Belçika Vergilendirme, Gönüllülük<br/>Bulgaristan Ücretlendirme<br/>Çin Ücretlendirme<br/>Danimarka Vergilendirme, Ücretlendirme<br/>Fransa Yasaklama<br/>Kenya Yasaklama, Vergilendirme<br/>Portekiz Gönüllülük<br/>Türkiye Yasaklama, Ücretlendirme<br/>Birleşik Krallık Ücretlendirme"
     },
     {
         "SoruID": 3862623,
@@ -117,11 +117,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kağıt/Karton- %33<br/><br/>Plastikler- %45<br/><br/>Metaller- %12<br/><br/>Cam- %6<br/><br/>Diğer Malzemeler- %4"
+        "Aciklama": "Kağıt/Karton- %33<br/>Plastikler- %45<br/>Metaller- %12<br/>Cam- %6<br/>Diğer Malzemeler- %4"
     },
     {
         "SoruID": 3862625,
-        "SoruMetni": "\"Atık malzemelerin orijinal amacı veya başka amaçlar için ürünlere, malzemelere veya hammaddeye dönüştürüldüğü tüm geri kazanım işlemleridir.\"<br/> Yukarıda verilen tanım aşağıdaki seçeneklerden hangisine aittir?",
+        "SoruMetni": "\"Atık malzemelerin orijinal amacı veya başka amaçlar için ürünlere, malzemelere veya hammaddeye dönüştürüldüğü tüm geri kazanım işlemleridir.\"<br/>Yukarıda verilen tanım aşağıdaki seçeneklerden hangisine aittir?",
         "A": "Geri dönüşüm",
         "B": "Faydalı ömür sonu",
         "C": "Nakliye aşaması",
@@ -242,11 +242,11 @@
     {
         "SoruID": 3862706,
         "SoruMetni": "Aşağıdakilerden hangisi veya hangileri mikroplastiklerin gıda olarak tüketilen deniz canlıları aracılığı ile insanlara taşınması sıralamasıdır?",
-        "A": "Mikroplastikler ambalajdan çözünür<br/> Akarsu/deniz/göllere karışır<br/>         Deniz canlılarının bünyesine geçer<br/>         Deniz canlısı gıda olarak tüketilir<br/>         Mikroplastikler insan bünyesine geçer",
-        "B": "Akarsu/deniz/göllere karışır<br/>         Deniz canlılarının bünyesine geçer<br/>         Deniz canlısı gıda olarak tüketilir<br/>         Mikroplastikler insan bünyesine geçer<br/> Mikroplastikler ambalajdan çözünür",
-        "C": "Deniz canlısı gıda olarak tüketilir<br/>         Mikroplastikler insan bünyesine geçer<br/>     Mikroplastikler ambalajdan çözünür<br/> Akarsu/deniz/göllere karışır<br/>         Deniz canlılarının bünyesine geçer",
-        "D": "Mikroplastikler ambalajdan çözünür<br/>          Deniz canlısı gıda olarak tüketilir<br/>                 Mikroplastikler insan bünyesine geçer<br/> Akarsu/deniz/göllere karışır<br/>         Deniz canlılarının bünyesine geçer",
-        "E": "Mikroplastikler ambalajdan çözünür<br/> Akarsu/deniz/göllere karışır<br/>         Deniz canlısı gıda olarak tüketilir<br/>                 Mikroplastikler insan bünyesine geçer<br/> Deniz canlılarının bünyesine geçer",
+        "A": "Mikroplastikler ambalajdan çözünür<br/>Akarsu/deniz/göllere karışır<br/>Deniz canlılarının bünyesine geçer<br/>Deniz canlısı gıda olarak tüketilir<br/>Mikroplastikler insan bünyesine geçer",
+        "B": "Akarsu/deniz/göllere karışır<br/>Deniz canlılarının bünyesine geçer<br/>Deniz canlısı gıda olarak tüketilir<br/>Mikroplastikler insan bünyesine geçer<br/>Mikroplastikler ambalajdan çözünür",
+        "C": "Deniz canlısı gıda olarak tüketilir<br/>Mikroplastikler insan bünyesine geçer<br/>Mikroplastikler ambalajdan çözünür<br/>Akarsu/deniz/göllere karışır<br/>Deniz canlılarının bünyesine geçer",
+        "D": "Mikroplastikler ambalajdan çözünür<br/>Deniz canlısı gıda olarak tüketilir<br/>Mikroplastikler insan bünyesine geçer<br/>Akarsu/deniz/göllere karışır<br/>Deniz canlılarının bünyesine geçer",
+        "E": "Mikroplastikler ambalajdan çözünür<br/>Akarsu/deniz/göllere karışır<br/>Deniz canlısı gıda olarak tüketilir<br/>Mikroplastikler insan bünyesine geçer<br/>Deniz canlılarının bünyesine geçer",
         "DogruCevap": "A",
         "DersAd": "Ambalaj Tasarımı",
         "Unite": 8,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mikroplastiklerin gıda olarak tüketilen deniz canlıları aracılığı ile insanlara taşınması şeması<br/>          Mikroplastikler ambalajdan çözünür Akarsu/deniz/göllere karışır<br/>         Deniz canlılarının bünyesine geçer<br/>         Deniz canlısı gıda olarak tüketilir<br/>         Mikroplastikler insan bünyesine geçer"
+        "Aciklama": "Mikroplastiklerin gıda olarak tüketilen deniz canlıları aracılığı ile insanlara taşınması şeması<br/>Mikroplastikler ambalajdan çözünür Akarsu/deniz/göllere karışır<br/>Deniz canlılarının bünyesine geçer<br/>Deniz canlısı gıda olarak tüketilir<br/>Mikroplastikler insan bünyesine geçer"
     },
     {
         "SoruID": 3862707,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mikroplastikleri insan sağlığına verdiği zararlar şu başlıklar altında özetlenebilir (Rahman ve ark.., 2021):<br/> <ul> <li> Oksidatif stres (vücutta biriken serbest radikallerin DNA gibi hücresel seviyedeki bileşenlere zarar ermesi)<br/> </li> <li> Sitotoksisite (zehirli maddelerin hücrelere zarar vermesi)<br/> </li> <li> Bağışıklık problemleri<br/> </li> <li> Sinir sistemi problemleri<br/> </li> <li> Üreme sistemi ile ilgili problemler<br/> </li> <li> Kanser riski<br/> </li> </ul>"
+        "Aciklama": "Mikroplastikleri insan sağlığına verdiği zararlar şu başlıklar altında özetlenebilir (Rahman ve ark.., 2021):<br/><ul> <li> Oksidatif stres (vücutta biriken serbest radikallerin DNA gibi hücresel seviyedeki bileşenlere zarar ermesi)<br/></li> <li> Sitotoksisite (zehirli maddelerin hücrelere zarar vermesi)<br/></li> <li> Bağışıklık problemleri<br/></li> <li> Sinir sistemi problemleri<br/></li> <li> Üreme sistemi ile ilgili problemler<br/></li> <li> Kanser riski<br/></li> </ul>"
     },
     {
         "SoruID": 3862708,
@@ -377,16 +377,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Aynı zamanda bazı düzenlemeler, hem üreticilere hem de tüketicilere ek mali yükler ge- tirdiği için yenilikçi ve çevre dostu ambalajların tasarlanmasını teşvik etmekte, yönlendirmektedirler. Bu düzenlemeler farklı şekillerde olabilmektedir:<br/> • Yasaklama<br/> • Vergilendirme<br/> • Ücretlendirme<br/> • Gönüllülük"
+        "Aciklama": "Aynı zamanda bazı düzenlemeler, hem üreticilere hem de tüketicilere ek mali yükler ge- tirdiği için yenilikçi ve çevre dostu ambalajların tasarlanmasını teşvik etmekte, yönlendirmektedirler. Bu düzenlemeler farklı şekillerde olabilmektedir:<br/>• Yasaklama<br/>• Vergilendirme<br/>• Ücretlendirme<br/>• Gönüllülük"
     },
     {
         "SoruID": 3862714,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Ambalajlar dahil endüstriyel ürünlerin yaşam döngüsü basamakları aşağıdakilerden hangisinde doğru olarak sıralanmıştır?<br/><br/><br/><br/>",
-        "A": "<ul><br/><li><br/>Hammaddenin seçimi/üretilmesi<br/><br/></li><br/><li><br/>Üretim<br/><br/></li><br/><li><br/>Nakliye<br/><br/></li><br/><li><br/>Kullanım<br/><br/></li><br/><li><br/>Faydalı ömür sonu<br/><br/></li><br/></ul>",
-        "B": "<ul><br/><li><br/>Üretim<br/><br/></li><br/><li><br/>Nakliye<br/><br/></li><br/><li><br/>Kullanım<br/><br/></li><br/><li><br/>Faydalı ömür sonu<br/><br/></li><br/><li>Hammaddenin seçimi/üretilmesi</li><br/></ul>",
-        "C": "<ul><br/><li><br/>Hammaddenin seçimi/üretilmesi<br/><br/></li><br/><li><br/>Üretim<br/><br/></li><br/><li><br/>Kullanım<br/><br/></li><br/><li><br/>Faydalı ömür sonu<br/><br/></li><br/><li><br/>Nakliye<br/><br/></li><br/></ul>",
-        "D": "<ul><br/><li><br/>Hammaddenin seçimi/üretilmesi<br/><br/></li><br/><li><br/>Kullanım<br/><br/></li><br/><li><br/>Faydalı ömür sonu<br/><br/></li><br/><li>Nakliye<br><br/></br></li><br/><li>Üretim</li><br/></ul>",
-        "E": "<ul><br/><li><br/>Hammaddenin seçimi/üretilmesi<br/><br/></li><br/><li><br/>Nakliye<br/><br/></li><br/><li><br/>Üretim<br/><br/></li><br/><li>Kullanım<br><br/></br></li><br/><li>Faydalı ömür sonu</li><br/></ul>",
+        "SoruMetni": "<br/>Ambalajlar dahil endüstriyel ürünlerin yaşam döngüsü basamakları aşağıdakilerden hangisinde doğru olarak sıralanmıştır?",
+        "A": "<ul><br/><li><br/>Hammaddenin seçimi/üretilmesi<br/></li><br/><li><br/>Üretim<br/></li><br/><li><br/>Nakliye<br/></li><br/><li><br/>Kullanım<br/></li><br/><li><br/>Faydalı ömür sonu<br/></li><br/></ul>",
+        "B": "<ul><br/><li><br/>Üretim<br/></li><br/><li><br/>Nakliye<br/></li><br/><li><br/>Kullanım<br/></li><br/><li><br/>Faydalı ömür sonu<br/></li><br/><li>Hammaddenin seçimi/üretilmesi</li><br/></ul>",
+        "C": "<ul><br/><li><br/>Hammaddenin seçimi/üretilmesi<br/></li><br/><li><br/>Üretim<br/></li><br/><li><br/>Kullanım<br/></li><br/><li><br/>Faydalı ömür sonu<br/></li><br/><li><br/>Nakliye<br/></li><br/></ul>",
+        "D": "<ul><br/><li><br/>Hammaddenin seçimi/üretilmesi<br/></li><br/><li><br/>Kullanım<br/></li><br/><li><br/>Faydalı ömür sonu<br/></li><br/><li>Nakliye<br/></br></li><br/><li>Üretim</li><br/></ul>",
+        "E": "<ul><br/><li><br/>Hammaddenin seçimi/üretilmesi<br/></li><br/><li><br/>Nakliye<br/></li><br/><li><br/>Üretim<br/></li><br/><li>Kullanım<br/></br></li><br/><li>Faydalı ömür sonu</li><br/></ul>",
         "DogruCevap": "A",
         "DersAd": "Ambalaj Tasarımı",
         "Unite": 8,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Ambalajlar da, kitabın önceki bölümlerinde pek çok defa belirtildiği gibi içerdikleri üründen bağımsız olarak, tek başlarına ele alınması gereken endüstriyel ürünlerdir. Dolayısı ile ambalajların yaşam döngüleri diğer endüstriyel ürünler ile büyük ölçüde benzerdir. Ambalajlar dahil endüstriyel ürünlerin yaşam döngü- sü basamakları şu şekilde sıralanmaktadır:<br/><br/> <br/> <br/> <br/> <br/><ol><br/><li><br/>Hammaddenin seçimi/üretilmesi<br/><br/></li><br/><li><br/>Üretim<br/><br/></li><br/><li><br/>Nakliye<br/><br/></li><br/><li><br/>Kullanım<br/><br/></li><br/><li><br/>Faydalı ömür sonu<br/><br/></li><br/></ol><br/>Ambalajlar, diğer tüm endüstriyel ürünler gibi yaşamlarının pek çok basamağında enerji ve su gibi kaynakları tüketirler ve her basamağında çevresel maliyetleri bulunmaktadır (Görsel 8.4).<br/><br/><br/><br/><br/><br/><br/><br/>"
+        "Aciklama": "<br/>Ambalajlar da, kitabın önceki bölümlerinde pek çok defa belirtildiği gibi içerdikleri üründen bağımsız olarak, tek başlarına ele alınması gereken endüstriyel ürünlerdir. Dolayısı ile ambalajların yaşam döngüleri diğer endüstriyel ürünler ile büyük ölçüde benzerdir. Ambalajlar dahil endüstriyel ürünlerin yaşam döngü- sü basamakları şu şekilde sıralanmaktadır:<br/><ol><br/><li><br/>Hammaddenin seçimi/üretilmesi<br/></li><br/><li><br/>Üretim<br/></li><br/><li><br/>Nakliye<br/></li><br/><li><br/>Kullanım<br/></li><br/><li><br/>Faydalı ömür sonu<br/></li><br/></ol><br/>Ambalajlar, diğer tüm endüstriyel ürünler gibi yaşamlarının pek çok basamağında enerji ve su gibi kaynakları tüketirler ve her basamağında çevresel maliyetleri bulunmaktadır (Görsel 8.4)."
     }
 ]

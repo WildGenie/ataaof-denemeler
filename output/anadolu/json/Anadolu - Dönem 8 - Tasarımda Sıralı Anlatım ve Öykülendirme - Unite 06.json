@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Transmedya"
+        "Aciklama": "<strong>Transmedya,</strong> hikâye anlatımının ve içeriğin farklı medya platformları üzerinden genişletilmesi<br/>ve entegre edilmesi anlamına gelir."
     },
     {
         "SoruID": 3832031,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Konsept geliştirme"
+        "Aciklama": "Eğitsel Transmedya Projeleri Geliştirmede Tasarım İlkeleri sayfa 160 detaylı bkz.<br>Konsept geliştirme"
     },
     {
         "SoruID": 3832035,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Andragoji Teorisi"
+        "Aciklama": "Knowles’in (1975) <strong>Andragoji Teorisiyle</strong> uyumlu olarak, öğrenenlerin kendi öğrenme süreçlerini yönetmelerine olanak tanır, böylece öğrenen özerkliğini destekler."
     },
     {
         "SoruID": 3832037,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital Öğrenme"
+        "Aciklama": "Transmedya eğitimin özel eğitim alanındaki uygulamaları;<br/>• Çoklu duyusal öğrenme,<br/>• Bireyselleştirilmiş öğrenme,<br/>• Motivasyon ve katılım,<br/>• İletişim becerilerinin geliştirilmesi,<br/>• Sosyal etkileşim sağlanmasında faydalıdır.<br>Dijital Öğrenme"
     },
     {
         "SoruID": 3832040,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Titreşim bazlı geri bildirim sağlayan interaktif uygulamalar"
+        "Aciklama": "Fiziksel engelli öğrenciler için:<br/>• Göz izleme teknolojisi veya ses kontrolü ile yönetilebilen interaktif uygulamalar<br/>geliştirilebilir.<br/>• Sanal gerçeklik ve artırılmış gerçeklik uygulamaları ile fiziksel olarak erişilemeyen<br/>deneyimler sağlanabilir.<br/>• Uyarlanabilir giriş cihazları kullanılarak çeşitli dijital içeriklerle etkileşim kurulabilir.<br>Titreşim bazlı geri bildirim sağlayan interaktif uygulamalar"
     },
     {
         "SoruID": 3832041,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyun tasarımlarının pazarlanmasında"
+        "Aciklama": "Transmedya eğitim uygulamaları ayrıca farkındalık yaratma ve topluluk katılımı için Sivil Toplum Kuruluşlarında, transmedya dijital okuryazarlık programları ve interaktif hikâye anlatımı etkinlikleri için kütüphanelerde, çalışan eğitimi ve kurumsal sosyal sorumluluk projeleri için şirketlerde, destinasyon pazarlaması ve kültürel deneyim sunumu için turizm sektöründe, vatandaş katılımı ve topluluk eğitimi projeleri için yerel yönetimlerde, interaktif sergi deneyimleri ve sanat eğitimi programları gibi sanata yönelik olarak kullanılmaktadırlar.<br>Oyun tasarımlarının pazarlanmasında"
     },
     {
         "SoruID": 3832046,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kalite yönetimi ve değerlendirme."
+        "Aciklama": "“Transmedya projeleri için öğretmen eğitiminin temel bileşenleri ve güncel araçların kullanımındaki” içerikleri sayfa 168 bkz.<br>Kalite yönetimi ve değerlendirme."
     },
     {
         "SoruID": 3832048,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Demografik anket değerlendirmesi"
+        "Aciklama": "Trasnmedya ile Eğitimde Ölçme-Değerlendirme Yöntemleri için sayfa 170-171 detaylı bkz.<br>Demografik anket değerlendirmesi"
     },
     {
         "SoruID": 3832049,
@@ -177,11 +177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Performans değerlendirmesi"
+        "Aciklama": "Performans değerlendirmesi ise öğrencilerin proje boyunca gösterdikleri katılım ve etkinliği ölçer;<br/>bu da süreç odaklı bir yaklaşımın benimsenmesine olanak tanır. Örneğin bir çevre bilinci projesinde<br/>öğrencilerin sosyal medya kampanyası yürütme, topluluk etkinlikleri düzenleme ve veri toplama gibi<br/>faaliyetlerdeki performansları değerlendirilebilir."
     },
     {
         "SoruID": 3832052,
-        "SoruMetni": "Sağlıktan dil eğitimine kadar geniş bir yelpazede kullanılabilecek olan kısa, odaklanmış öğrenme deneyimlerini,  öğrenme materyalleri, farklı medya kanalları aracılığıyla bütünleşik bir hikâye olarak sunan bu kullanım, zaman ve mekân sınırlamalarını aşabilme, yaşam boyu öğrenme ve anlık bilgi edinme ihtiyaçlarına cevap verme potansiyeline sahip, Transmedya ile eğitimde güncel eğilimler ve geleceğe yönelik öngörü aşağıdakilerden hangisidir?",
+        "SoruMetni": "Sağlıktan dil eğitimine kadar geniş bir yelpazede kullanılabilecek olan kısa, odaklanmış öğrenme deneyimlerini, öğrenme materyalleri, farklı medya kanalları aracılığıyla bütünleşik bir hikâye olarak sunan bu kullanım, zaman ve mekân sınırlamalarını aşabilme, yaşam boyu öğrenme ve anlık bilgi edinme ihtiyaçlarına cevap verme potansiyeline sahip, Transmedya ile eğitimde güncel eğilimler ve geleceğe yönelik öngörü aşağıdakilerden hangisidir?",
         "A": "Veri Analitiği ve Öğrenme Analitiği",
         "B": "Mobil Öğrenme ve Mikro-Öğrenme",
         "C": "Oyunlaştırma ve Ciddi Oyunlar",
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mobil Öğrenme ve Mikro-Öğrenme"
+        "Aciklama": "<strong>Mobil Öğrenme ve Mikro-Öğrenme</strong><br/>Sağlıktan dil eğitimine kadar geniş bir yelpazede kullanılabilecek olan kısa, odaklanmış öğrenme deneyimleri sunan Transmedya projeleri mobil cihazlar üzerinden kullanılacak uygulamalar olarak geliştirilebilmektedir. Öğrenme materyalleri, farklı medya kanalları aracılığıyla bütünleşik bir hikâye olarak sunulabilmektedir. Bu kullanım, zaman ve mekân sınırlamalarını aşabilme, yaşam boyu öğrenme ve anlık bilgi edinme ihtiyaçlarına cevap verme potansiyeline sahiptir."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3763658,
-        "SoruMetni": "\".....................: İçeriğin belirlenmesinde ve sürece alınmasında verimli olması amaçlanmalıdır.\"<br/><br/>Yukarıdaki verilen eğitim programları ilkelerine yönelik ifadedeki boşluğu <span style=\"text-decoration: underline;\">doğru</span> bir biçimde doldurun?",
+        "SoruMetni": "\".....................: İçeriğin belirlenmesinde ve sürece alınmasında verimli olması amaçlanmalıdır.\"<br/>Yukarıdaki verilen eğitim programları ilkelerine yönelik ifadedeki boşluğu <span style=\"text-decoration: underline;\">doğru</span> bir biçimde doldurun?",
         "A": "Geçerlik ve güvenirlik",
         "B": "Bireylerin ilgi ve ihtiyaçlarına yönelik olma",
         "C": "Aktarılabilirlik ve uygunluk",
@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İçeriğin düzenlenmesine yönelik bazı ilkeler ve yaklaşımlar bulunmaktadır. Bir etkinliğe ilişkin içeriğin belirlenmesi ve tasarlanmasına yönelik ilkeler aşağıdaki gibi özetlenebilir;<br/><br/>Geçerlik ve güvenirlik<br/><br/>Bireylerin ilgi ve ihtiyaçlarına yönelik olma<br/><br/>Aktarılabilirlik ve uygunluk<br/><br/>Toplumsal fayda<br/><br/>İçeriğin mantıksal yapısı<br/><br/>Bilimsellik<br/><br/>İçeriğin psikolojik temeli<br/><br/><strong>Ekonomiklik: </strong>İçeriğin belirlenmesinde ve<br>sürece alınmasında verimli olması amaçlanmalıdır.</br>"
+        "Aciklama": "İçeriğin düzenlenmesine yönelik bazı ilkeler ve yaklaşımlar bulunmaktadır. Bir etkinliğe ilişkin içeriğin belirlenmesi ve tasarlanmasına yönelik ilkeler aşağıdaki gibi özetlenebilir;<br/>Geçerlik ve güvenirlik<br/>Bireylerin ilgi ve ihtiyaçlarına yönelik olma<br/>Aktarılabilirlik ve uygunluk<br/>Toplumsal fayda<br/>İçeriğin mantıksal yapısı<br/>Bilimsellik<br/>İçeriğin psikolojik temeli<br/><strong>Ekonomiklik: </strong>İçeriğin belirlenmesinde ve<br/>sürece alınmasında verimli olması amaçlanmalıdır.</br>"
     },
     {
         "SoruID": 3763660,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"><br/><li>Yapılandırılmış sorgulama</li><br/><li>Rehberli sorgulama</li><br/><li>Destekli sorgulama</li><br/><li>Açık uçlu sorgulama</li><br/></ol><br/>Yukarıdakilerden hangileri Sadeh ve Zion tarafından belirtilen araştırmaya-sorgulamaya dayalı yöntemlerdir?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"><br/><li>Yapılandırılmış sorgulama</li><br/><li>Rehberli sorgulama</li><br/><li>Destekli sorgulama</li><br/><li>Açık uçlu sorgulama</li><br/></ol><br/>Yukarıdakilerden hangileri Sadeh ve Zion tarafından belirtilen araştırmaya-sorgulamaya dayalı yöntemlerdir?",
         "A": "Yalnız I ve II",
         "B": "Yalnız II ve III",
         "C": "I, II ve III",
@@ -46,7 +46,7 @@
         "B": "Ortak duygu, diyalog ve karşılıklı etkileşimin insanlar arasında bağlayıcı olacağına inanılmaktadır.",
         "C": "Yeni neslin beklentilerine ve arzularına hitap edebilir.",
         "D": "Bireysel ihtiyaçlara ve beklentilere cevap verebilecek esnek bir yapıya sahiptir.",
-        "E": "Eğitim bireysel gelişimin önemsendiği bilişsel ve  duyuşsal bir alan olarak algılanır.",
+        "E": "Eğitim bireysel gelişimin önemsendiği bilişsel ve duyuşsal bir alan olarak algılanır.",
         "DogruCevap": "A",
         "DersAd": "Eğitici İçerik Tasarımı",
         "Unite": 7,
@@ -77,14 +77,14 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong> Foucault’a göre</strong> iktidar, bireyin kendisiyle ve ötekilerle kurduğu ilişkilerin içinde her yerde var olmaktadır . O, bu eksende bilgiyi de <strong>iktidarla ilişkisi içinde ele alarak iktidarın kendi varlığını sürdürebilmek adına bilgiye ihtiyaç duyduğunu belirtmektedir </strong>"
+        "Aciklama": "<strong> Foucault’a göre</strong> iktidar, bireyin kendisiyle ve ötekilerle kurduğu ilişkilerin içinde her yerde var olmaktadır . O, bu eksende bilgiyi de <strong>iktidarla ilişkisi içinde ele alarak iktidarın kendi varlığını sürdürebilmek adına bilgiye ihtiyaç duyduğunu belirtmektedir </strong>"
     },
     {
         "SoruID": 3763667,
         "SoruMetni": "Pedagoji kapsamında “insanlaşma” ve “insandışılaşma” kavramlarını irdeleyen düşünür aşağıdakilerden hangisidir?",
         "A": "Brian McHale",
-        "B": "Edward Said<br/><br/>",
-        "C": "Ihab Hassan<br/><br/>",
+        "B": "Edward Said",
+        "C": "Ihab Hassan",
         "D": "Paulo Freire",
         "E": "Jurgen Habermas",
         "DogruCevap": "D",
@@ -102,7 +102,7 @@
     {
         "SoruID": 3763669,
         "SoruMetni": "Coney’in düşünme becerilerini sınıflandırmasına göre 'teorik düşünmenin' tanımı aşağıdakilerden hangisidir?",
-        "A": "Bireyin yeni, farklı, orijinal, özgün, ayrıştırıcı düşünme, alternatifli düşünme ve ürünler ortaya koymasıdır.",
+        "A": "Bireyin yeni, farklı, orijinal, özgün, ayrıştırıcı düşünme, alternatifli düşünme ve ürünler ortaya koymasıdır.",
         "B": "Bireyin kişisel ve sosyal hayatını ve ilişkilerini yönlendirmesiyle açıklanmaktadır.",
         "C": "Ontolojik anlamda varlık ve var olan şeyler üzerine yapılan sorgulamalara karşılık gelmektedir.",
         "D": "Problemin belirlenmesi, çözüm önerileri geliştirilmesi, karar verilmesi ve uygulamaya geçilmesi adımlarının takip edilerek yaşamın sürdürülmesiyle bağıntılıdır.",
@@ -117,11 +117,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Coney düşünme becerilerini teknik düşünme, pratik düşünme, teorik düşünme ve eleştirel düşünme olmak üzere dört ana başlık altında toplayarak ele almıştır. Teknik düşünme becerisi bireyin sahip olduğu meta, malzeme ve araçlarla istendik bir ürün ortaya çıkarması olarak düşünülebilir. Pratik düşünme,<br/>bireyin kişisel ve sosyal hayatını ve ilişkilerini yönlendirmesiyle açıklanmaktadır. <strong>Teorik düşünme, ontolojik anlamda varlık ve var olan şeyler üzerine</strong><br/><strong>yapılan sorgulamalara karşılık gelmektedir.</strong> Eleştirel düşünme ise problemin belirlenmesi, çözüm önerileri geliştirilmesi, karar verilmesi ve uygulamaya  geçilmesi adımlarının takip edilerek yaşamınsürdürülmesiyle bağıntılıdır."
+        "Aciklama": "Coney düşünme becerilerini teknik düşünme, pratik düşünme, teorik düşünme ve eleştirel düşünme olmak üzere dört ana başlık altında toplayarak ele almıştır. Teknik düşünme becerisi bireyin sahip olduğu meta, malzeme ve araçlarla istendik bir ürün ortaya çıkarması olarak düşünülebilir. Pratik düşünme,<br/>bireyin kişisel ve sosyal hayatını ve ilişkilerini yönlendirmesiyle açıklanmaktadır. <strong>Teorik düşünme, ontolojik anlamda varlık ve var olan şeyler üzerine</strong><br/><strong>yapılan sorgulamalara karşılık gelmektedir.</strong> Eleştirel düşünme ise problemin belirlenmesi, çözüm önerileri geliştirilmesi, karar verilmesi ve uygulamaya geçilmesi adımlarının takip edilerek yaşamınsürdürülmesiyle bağıntılıdır."
     },
     {
         "SoruID": 3763670,
-        "SoruMetni": "“Bireyin ulaşmış olduğu sonuç ya da sonuçları kavramsal, kuramsal ve metodolojik boyutta ifade etmesidir. Bireyin ulaştığı sonuçları gerekçelendirmesi, geliştirdiği argümanlarla diğer kişilerle tartışmalar yapabilmesidir.”<br/> Yukarıdaki ifade eleştirel düşünmenin aşağıdaki alt becerilerinden hangisini açıklar?",
+        "SoruMetni": "“Bireyin ulaşmış olduğu sonuç ya da sonuçları kavramsal, kuramsal ve metodolojik boyutta ifade etmesidir. Bireyin ulaştığı sonuçları gerekçelendirmesi, geliştirdiği argümanlarla diğer kişilerle tartışmalar yapabilmesidir.”<br/>Yukarıdaki ifade eleştirel düşünmenin aşağıdaki alt becerilerinden hangisini açıklar?",
         "A": "Yorumlama",
         "B": "Çıkarsama",
         "C": "Çözümleme",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3763674,
-        "SoruMetni": "“Eleştirel düşünebilme yetisine sahip birey/ bireyler yaşadıkları deneyimler aracılığıyla içselleştirdikleri bilgileri karşılaştıkları benzer ve/veya yeni durumların içinde etkin şekilde kullanabilirler.”<br/> Yukarıdaki ifade eleştirel düşünme stratejilerinden/makro yeteneklerden hangisini açıklar?",
+        "SoruMetni": "“Eleştirel düşünebilme yetisine sahip birey/ bireyler yaşadıkları deneyimler aracılığıyla içselleştirdikleri bilgileri karşılaştıkları benzer ve/veya yeni durumların içinde etkin şekilde kullanabilirler.”<br/>Yukarıdaki ifade eleştirel düşünme stratejilerinden/makro yeteneklerden hangisini açıklar?",
         "A": "Bilgi kaynaklarının güvenirliğinden emin olma",
         "B": "Derinlemesine sorgulamanın gerekliliği",
         "C": "Yaşadıkları deneyimlerden öğrendiklerini diğer bir benzer deneyime transfer edebilme",

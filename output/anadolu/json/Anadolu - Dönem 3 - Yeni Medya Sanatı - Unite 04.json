@@ -40,6 +40,26 @@
         "Aciklama": "İnsanlar en azından MS 2. yüzyıldan beri verileri tablolar (sütunlar ve satırlar) halinde düzenlemişler, ancak nicel bilgiyi grafiksel olarak temsil etme fikri 17. yüzyıla kadar ortaya çıkmamıştır. Bu yenilik Fransız filozof ve matematikçi <strong>Rene Descartes’a</strong> aittir."
     },
     {
+        "SoruID": 3641422,
+        "SoruMetni": "I. Bilginin daha hızlı bir şekilde anlaşılması sağlar.<br/>II. Verilerin erişilebilir, açık ve anlaşılır olmasını sağlar.<br/>III. Soyut veriler sağlar ve böylelikle anlamayı kolaylaştırır.<br/>Yukarıdakilerden hangileri veri görselleştirmenin önemini vurgular?",
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "Yalnız III",
+        "D": "I ve II",
+        "E": "I, II ve III",
+        "DogruCevap": "D",
+        "DersAd": "Yeni Medya Sanatı",
+        "Unite": 4,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:55.747295",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Veri görselleştirmenin önemini şu şekilde özetleyebiliriz: Bilginin daha hızlı bir şekilde anlaşılmasına, buna bağlı iç görüler geliştirilmesine ve kararların daha çabuk alınmasına yardımcı olur. Verilerin erişilebilir, açık ve anlaşılır olmasını sağlar. Daha hızlı anlaşılma sağladığı için hata payını en aza indirir. Gelişme ve iyileşme yolunda yapılması gerekenlerin daha iyi anlaşılmasını sağlar. Bu kapsamda I. ve II. maddeler veri görselleştirmenin önemini vurgulamaktadır. III madde ise yanlıştır çünkü veri görselleştirme soyut verilerin somutlaşmasını sağlar."
+    },
+    {
         "SoruID": 3641423,
         "SoruMetni": "Aşağıdakilerden hangisi Stephen Few tarafından tanımlanan ve ürün koduna göre satış hacmi gibi belirli bir sırayla kategorik alt bölümleri karşılaştırma amacıyla kullanılabilecek nicel grafiktir?",
         "A": "Korelasyon",
@@ -81,7 +101,7 @@
     },
     {
         "SoruID": 3641425,
-        "SoruMetni": "Aşağıdakilerden hangisi, okların genişliğinin akış hızıyla orantılı olduğu,  ayrı akışların büyüklüğünü gösteren farklı genişliklerdeki çizgi ve oklar kullanarak verilerin akışını gösteren görselleştirme tekniğidir?",
+        "SoruMetni": "Aşağıdakilerden hangisi, okların genişliğinin akış hızıyla orantılı olduğu, ayrı akışların büyüklüğünü gösteren farklı genişliklerdeki çizgi ve oklar kullanarak verilerin akışını gösteren görselleştirme tekniğidir?",
         "A": "Ağ Diyagramı",
         "B": "Daire Paketleme Şeması",
         "C": "Dağılım Grafiği",
@@ -101,7 +121,7 @@
     },
     {
         "SoruID": 3641426,
-        "SoruMetni": "I. Bağlantı<br/> II. Esneklik<br/> III. Derinleştirme<br/> IV. Keşfedilebilirlik<br/> V. Kullanılabilirlik<br/> Yukarıdakilerden hangileri veri görselleştirme aracının sahip olması gereken özellikler arasında yer alır?",
+        "SoruMetni": "I. Bağlantı<br/>II. Esneklik<br/>III. Derinleştirme<br/>IV. Keşfedilebilirlik<br/>V. Kullanılabilirlik<br/>Yukarıdakilerden hangileri veri görselleştirme aracının sahip olması gereken özellikler arasında yer alır?",
         "A": "I, II ve V",
         "B": "I, III ve IV",
         "C": "II, III ve IV",
@@ -117,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Etkili ve uygun bir şekilde gerçekleştirmek için veri görselleştirme aracının sahip olması gereken özellikler: • Kullanılabilirlik:  Kullanım kolaylığı bir veri görselleştirme aracında bulunması gereken en önemli özelliklerden biridir. Otomatik görselleştirme kullanım kolaylığına örnek olarak gösterilebilir. • Bağlantı:  Bir veri görselleştirme aracının farklı kaynaklardan veri yükleyebiliyor olması önemli bir özelliktir. İş analitiği görevlerini yerine getirebilen bağlantılı veri görselleştirme araçlarının seçilmesi maliyet ve uyumsuzluk gibi birtakım zorluklar ortadan kaldırılabilir. • Esneklik:  Bir veri görselleştirme aracında makine öğrenimi ve yapay zekadan faydalanılmasının olumlu etkileri olsa da insan ve makine arasında kolay geçiş yapabilme özelliğine sahip olması da son derece önemlidir. Esneklikle kastedilen de budur. Böylece, belirli zamanlarda ve belli alanlarda kullanıcı kendi yeterlilikleri kapsamında bir düzenleme gerçekleştirilebilir. Bu kapsamda Bağlantı (I), Esneklik (II) ve Kullanılabilirlik (V) yer aldığı A şıkkı doğru cevaptır."
+        "Aciklama": "Etkili ve uygun bir şekilde gerçekleştirmek için veri görselleştirme aracının sahip olması gereken özellikler: • Kullanılabilirlik: Kullanım kolaylığı bir veri görselleştirme aracında bulunması gereken en önemli özelliklerden biridir. Otomatik görselleştirme kullanım kolaylığına örnek olarak gösterilebilir. • Bağlantı: Bir veri görselleştirme aracının farklı kaynaklardan veri yükleyebiliyor olması önemli bir özelliktir. İş analitiği görevlerini yerine getirebilen bağlantılı veri görselleştirme araçlarının seçilmesi maliyet ve uyumsuzluk gibi birtakım zorluklar ortadan kaldırılabilir. • Esneklik: Bir veri görselleştirme aracında makine öğrenimi ve yapay zekadan faydalanılmasının olumlu etkileri olsa da insan ve makine arasında kolay geçiş yapabilme özelliğine sahip olması da son derece önemlidir. Esneklikle kastedilen de budur. Böylece, belirli zamanlarda ve belli alanlarda kullanıcı kendi yeterlilikleri kapsamında bir düzenleme gerçekleştirilebilir. Bu kapsamda Bağlantı (I), Esneklik (II) ve Kullanılabilirlik (V) yer aldığı A şıkkı doğru cevaptır."
     },
     {
         "SoruID": 3641427,
@@ -221,7 +241,7 @@
     },
     {
         "SoruID": 3641441,
-        "SoruMetni": "<strong>John Tukey’in  veri görselleştirmenin gücünü tanıttığı istatistiksel yaklaşım </strong><strong>aşağıdaki ifadelerden hangisidir?</strong>",
+        "SoruMetni": "<strong>John Tukey’in veri görselleştirmenin gücünü tanıttığı istatistiksel yaklaşım </strong><strong>aşağıdaki ifadelerden hangisidir?</strong>",
         "A": "Kartezyen koordinat sistemi.",
         "B": "Minard Diyagramı.",
         "C": "Zamanın Kartografileri.",
@@ -301,7 +321,7 @@
     },
     {
         "SoruID": 3641446,
-        "SoruMetni": "<strong>“</strong><strong>Sanatsal Veri Görselleştirme”  kavramını ortaya atan düşünürler </strong><strong>aşağıdaki ifadelerden hangisidir?</strong>",
+        "SoruMetni": "<strong>“</strong><strong>Sanatsal Veri Görselleştirme” kavramını ortaya atan düşünürler </strong><strong>aşağıdaki ifadelerden hangisidir?</strong>",
         "A": "Pierre de Fermat ve Blaise Pascal.",
         "B": "Viegas ve Wattenberg.",
         "C": "Edward Tufte ve E. John Tukey.",
@@ -321,7 +341,7 @@
     },
     {
         "SoruID": 3641447,
-        "SoruMetni": "<strong>Bir veri kümesini bir başka veri kümesine  eşleştirme işlemi </strong><strong>aşağıdaki ifadelerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Bir veri kümesini bir başka veri kümesine eşleştirme işlemi </strong><strong>aşağıdaki ifadelerden hangisidir?</strong>",
         "A": "Veri madenciliği.",
         "B": "Veri seti.",
         "C": "Veri Haritalama.",
@@ -397,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlk belgelenmiş veri görselleştirmesi jeolojik kaynakların ne şekilde dağıldığını gösteren ve bu kaynaklar hakkında bilgi sağlayan Torino Papirüs Haritası ile MÖ 1160 yılına kadar izlenebilir."
+        "Aciklama": "<img alt=\"Torino Papirüs Haritası\" height=\"270\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/ed82e5cca8ca2f78464ca01a329232dc.jpeg\" width=\"1147\"/><br>İlk belgelenmiş veri görselleştirmesi jeolojik kaynakların ne şekilde dağıldığını gösteren ve bu kaynaklar hakkında bilgi sağlayan Torino Papirüs Haritası ile MÖ 1160 yılına kadar izlenebilir."
     },
     {
         "SoruID": 3641636,
@@ -517,11 +537,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "RAW, D3.js JavaScript kitaplığı ile oluşturulmuş bir açık web uygulamasıdır ve İtalyan araştırma  laboratuvarı DensityDesign tarafından geliştirilmiştir."
+        "Aciklama": "RAW, D3.js JavaScript kitaplığı ile oluşturulmuş bir açık web uygulamasıdır ve İtalyan araştırma laboratuvarı DensityDesign tarafından geliştirilmiştir."
     },
     {
         "SoruID": 3641642,
-        "SoruMetni": "Veri görselleştirme, ……………………………. grafiksel temsiline odaklanan disiplinlerarası bir alandır.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Veri görselleştirme, ……………………………. grafiksel temsiline odaklanan disiplinlerarası bir alandır.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Ham verilerin",
         "B": "Gösterge tablolarının",
         "C": "Fotoğrafların",
@@ -557,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir veri görselleştirme aracında makine öğrenimi ve yapay zekadan faydalanılmasının olumlu etkileri  olsa da insan ve makine arasında kolay geçiş yapabilme özelliğine sahip olması da son derece önemlidir. Esneklikle kastedilen de budur."
+        "Aciklama": "Bir veri görselleştirme aracında makine öğrenimi ve yapay zekadan faydalanılmasının olumlu etkileri olsa da insan ve makine arasında kolay geçiş yapabilme özelliğine sahip olması da son derece önemlidir. Esneklikle kastedilen de budur."
     },
     {
         "SoruID": 3641644,
@@ -741,7 +761,7 @@
     },
     {
         "SoruID": 3641723,
-        "SoruMetni": "ABD’de satılık her evi temsil eden bir dizi fotoğraftan oluşan, her satılık ev görüntüsünün renk değerlerinin ortalaması alınarak oluşturulan ve evlerin hayalet görüntülerini sunan “Homes for Sale” isimli sayısal verilere dayanan ve  statik veri sanatına örnek olarak gösterilen eser aşağıdakilerden hangisine aittir?",
+        "SoruMetni": "ABD’de satılık her evi temsil eden bir dizi fotoğraftan oluşan, her satılık ev görüntüsünün renk değerlerinin ortalaması alınarak oluşturulan ve evlerin hayalet görüntülerini sunan “Homes for Sale” isimli sayısal verilere dayanan ve statik veri sanatına örnek olarak gösterilen eser aşağıdakilerden hangisine aittir?",
         "A": "Jason Salavon",
         "B": "George Legrady",
         "C": "Matt Willey",
@@ -757,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ABD’de satılık her evi temsil eden bir dizi fotoğraftan oluşan, her satılık ev görüntüsünün renk değerlerinin ortalaması alınarak oluşturulan ve evlerin hayalet görüntülerini sunan “Homes for Sale” isimli sayısal verilere dayanan ve  statik veri sanatına örnek olarak gösterilen eser, Jason Salavon'a aittir."
+        "Aciklama": "ABD’de satılık her evi temsil eden bir dizi fotoğraftan oluşan, her satılık ev görüntüsünün renk değerlerinin ortalaması alınarak oluşturulan ve evlerin hayalet görüntülerini sunan “Homes for Sale” isimli sayısal verilere dayanan ve statik veri sanatına örnek olarak gösterilen eser, Jason Salavon'a aittir."
     },
     {
         "SoruID": 3641724,
@@ -781,7 +801,7 @@
     },
     {
         "SoruID": 3641758,
-        "SoruMetni": "\"..........  ........ kavramı, verileri analiz etme ve kullanıcıya iletme süreçlerini kapsar\" ifadesindeki boşluğu aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "\".......... ........ kavramı, verileri analiz etme ve kullanıcıya iletme süreçlerini kapsar\" ifadesindeki boşluğu aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "Veri bilimi",
         "B": "Büyük veri",
         "C": "Veri görselleştirme",
@@ -917,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İnfografik: İnfografik görseller genel olarak elde çizilir. Sahip olduğu güçlü görsel içerikleriyle estetik görünürler. Fakat bilgilerin elle kodlanması nedeniyle veri açısından zayıftırlar. Yapılacak her bir değişikliğin de elle yapılması gerektiğinden bir infografikteki verilerin değiştirilmesi ya da güncellenmesi zordur. Doğru cevap D'dir."
+        "Aciklama": "İnfografik: İnfografik görseller genel olarak elde çizilir. Sahip olduğu güçlü görsel içerikleriyle estetik görünürler. Fakat bilgilerin elle kodlanması nedeniyle veri açısından zayıftırlar. Yapılacak her bir değişikliğin de elle yapılması gerektiğinden bir infografikteki verilerin değiştirilmesi ya da güncellenmesi zordur. Doğru cevap D'dir."
     },
     {
         "SoruID": 3641765,
@@ -937,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dataviz: <br/> Dataviz görseller çok büyük oranda bilgisayarlar aracılığı ile algoritmik olarak çizilirler. Bilgisayar kullanıldığı için farklı veriler kullanarak yeniden oluşturulması çok daha kolaydır. Aynı şekil farklı veri kümelerini temsil edecek şekilde yeniden kullanılabilirler. Büyük hacimli verilere uygulanabildiğinden infografiklere göre veri açısından zengindir. Fakat büyük verileri görselleştirmek için kullanılan dataviz yöntemi estetik açıdan infografiklere göre daha zayıf kalır. Doğru cevap D'dir."
+        "Aciklama": "Dataviz: <br/>Dataviz görseller çok büyük oranda bilgisayarlar aracılığı ile algoritmik olarak çizilirler. Bilgisayar kullanıldığı için farklı veriler kullanarak yeniden oluşturulması çok daha kolaydır. Aynı şekil farklı veri kümelerini temsil edecek şekilde yeniden kullanılabilirler. Büyük hacimli verilere uygulanabildiğinden infografiklere göre veri açısından zengindir. Fakat büyük verileri görselleştirmek için kullanılan dataviz yöntemi estetik açıdan infografiklere göre daha zayıf kalır. Doğru cevap D'dir."
     },
     {
         "SoruID": 3641766,
@@ -1061,7 +1081,7 @@
     },
     {
         "SoruID": 3641793,
-        "SoruMetni": "Aşağıdakilerden hangisi nicel mesajı ve bu mesajları iletmeye yardımcı olmak<br/>için kullanılabilecek grafikleri tanımlamıyor?",
+        "SoruMetni": "Aşağıdakilerden hangisi nicel mesajı ve bu mesajları iletmeye yardımcı olmak<br/>için kullanılabilecek grafikleri tanımlamıyor?",
         "A": "Veri hikayesi anlatımı, hikayelerin başka insanlarla paylaşılabilmesine imkan sağlar",
         "B": "sıralama",
         "C": "parçadan bütüne",
@@ -1138,5 +1158,25 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Küme ısı haritası"
+    },
+    {
+        "SoruID": 3641800,
+        "SoruMetni": "Aşağıdakilerden hangisi ağ diyagramı kullanım alanlarından değildir?",
+        "A": "Ağdaki kümeleri bulma (örneğin, Facebook<br/>arkadaşlarını farklı kümeler halinde gruplandırma)",
+        "B": "Ağdaki kümeler arasındaki köprüleri keşfetme.",
+        "C": "Ağdaki en etkili düğümlerin belirlenmesi<br/>(örneğin, bir şirketin pazarlama kampanyası için belli bir sosyal ağdaki küçük bir grubu hedeflemek istemesi).",
+        "D": "Herhangi bir kümeye uymayan veya bir<br/>ağın çevresinde bulunan aykırı aktörleri<br/>bulma",
+        "E": "Esneklik",
+        "DogruCevap": "E",
+        "DersAd": "Yeni Medya Sanatı",
+        "Unite": 4,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:55.858067",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Esneklik"
     }
 ]

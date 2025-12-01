@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3833465,
-        "SoruMetni": "I. Temsil ettiği kişi veya kurumun öne çıkarmak istediği özelliklerini etkili biçimde yansıtması<br/> II. Hedefe uygun düzenlenmiş olması<br/> III. İçeriğinin ve tasarımının kendi kendisini başka bir eyleme gerek kalmaksızın tanıtacak biçimde tasarlanmış olması <br/> IV. Pahalı malzemelerle oluşturulmuş olması<br/> V. Elde taşınabilir olması<br/> Yukarıdakilerden hangisi başarılı bir portfolyonun özellikleri arasında yer alır?",
+        "SoruMetni": "I. Temsil ettiği kişi veya kurumun öne çıkarmak istediği özelliklerini etkili biçimde yansıtması<br/>II. Hedefe uygun düzenlenmiş olması<br/>III. İçeriğinin ve tasarımının kendi kendisini başka bir eyleme gerek kalmaksızın tanıtacak biçimde tasarlanmış olması <br/>IV. Pahalı malzemelerle oluşturulmuş olması<br/>V. Elde taşınabilir olması<br/>Yukarıdakilerden hangisi başarılı bir portfolyonun özellikleri arasında yer alır?",
         "A": "I, III, IV",
         "B": "I, II, III",
         "C": "II, III, V",
@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I, II, III.<br/> I. Temsil ettiği kişi veya kurumun öne çıkarmak istediği özelliklerini etkili biçimde yansıtması<br/> II. Hedefe uygun düzenlenmiş olması<br/> III. İçeriğinin ve tasarımının kendi kendisini başka bir eyleme gerek kalmaksızın tanıtacak biçimde tasarlanmış olması"
+        "Aciklama": "Başarılı bir portfolyonun özellikleri arasında temsil ettiği kişi veya kurumun öne çıkarmak istediği özelliklerini etkili biçimde yansıtması; hedefe uygun düzenlenmiş olması; içeriğinin ve tasarımının kendi kendisini başka bir eyleme gerek kalmaksızın tanıtacak biçimde tasarlanmış olması yer alır. <br/>IV. ve V. şıklarda yer alan pahalı malzemelerle oluşturulmuş olması ve elde taşınabilir olması özellikleri başarılı bir portfolyo için elzem değildir.<br>I, II, III.<br/>I. Temsil ettiği kişi veya kurumun öne çıkarmak istediği özelliklerini etkili biçimde yansıtması<br/>II. Hedefe uygun düzenlenmiş olması<br/>III. İçeriğinin ve tasarımının kendi kendisini başka bir eyleme gerek kalmaksızın tanıtacak biçimde tasarlanmış olması"
     },
     {
         "SoruID": 3833512,
-        "SoruMetni": "I. Bir mimarlık şirketinin uluslararası mimarlık yarışmasına sunduğu portfolyo<br/> II. Üniversite mezunu bir öğrencinin yüksek lisans programına başvururken sunduğu portfolyo<br/> III. Bir mücevher tasarımcısının özel sektörde iş başvurusunda sunduğu portfolyo<br/> A. Profesyonel portfolyo<br/> B. Akademik portfolyo<br/> C. Ödül portfolyosu<br/> Yukarıdaki verilere göre aşağıdaki eşleşmelerden hangisi doğrudur?",
+        "SoruMetni": "I. Bir mimarlık şirketinin uluslararası mimarlık yarışmasına sunduğu portfolyo<br/>II. Üniversite mezunu bir öğrencinin yüksek lisans programına başvururken sunduğu portfolyo<br/>III. Bir mücevher tasarımcısının özel sektörde iş başvurusunda sunduğu portfolyo<br/>A. Profesyonel portfolyo<br/>B. Akademik portfolyo<br/>C. Ödül portfolyosu<br/>Yukarıdaki verilere göre aşağıdaki eşleşmelerden hangisi doğrudur?",
         "A": "I-C, II-B, III-A",
         "B": "I-B, II-A, III-C",
         "C": "I-A, II-B, III-C",
@@ -37,11 +37,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I-C, II-B, III-A<br/> Bir mimarlık şirketinin uluslararası mimarlık yarışmasına sunduğu portfolyo, ödül portfolyosudur.<br/> Üniversite mezunu bir öğrencinin yüksek lisans programına başvururken sunduğu portfolyo, akademik portfolyodur.<br/> Bir mücevher tasarımcısının özel sektörde iş başvurusunda sunduğu portfolyo, profesyonel portfolyodur."
+        "Aciklama": "I-C, II-B, III-A<br/>Bir mimarlık şirketinin uluslararası mimarlık yarışmasına sunduğu portfolyo, ödül portfolyosudur.<br/>Üniversite mezunu bir öğrencinin yüksek lisans programına başvururken sunduğu portfolyo, akademik portfolyodur.<br/>Bir mücevher tasarımcısının özel sektörde iş başvurusunda sunduğu portfolyo, profesyonel portfolyodur."
     },
     {
         "SoruID": 3833514,
-        "SoruMetni": "Eserlerinin replikalarını ve minimal ölçekteki üç boyutlu çalışmalarını bir araya getirerek oluşturduğu  “Boîte-en-valise” adlı çalışmasında sanatçı Marcel Duchamp aşağıdakilerden hangisini gerçekleştirmiştir?",
+        "SoruMetni": "Eserlerinin replikalarını ve minimal ölçekteki üç boyutlu çalışmalarını bir araya getirerek oluşturduğu “Boîte-en-valise” adlı çalışmasında sanatçı Marcel Duchamp aşağıdakilerden hangisini gerçekleştirmiştir?",
         "A": "Sanatı önemsemediğini göstermiştir.",
         "B": "Portfolyonun kendisini bir sanat eserine dönüştürmüştür.",
         "C": "İş dünyasını eleştirmiştir.",
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "B. Portfolyonun kendisini bir sanat eserine dönüştürmüştür."
+        "Aciklama": "Eserlerinin replikalarını ve minimal ölçekteki üç boyutlu çalışmalarını bir araya getirerek oluşturduğu “Boîte-en-valise” adlı çalışmasında sanatçı Marcel Duchamp portfolyonun kendisini bir sanat eserine dönüştürmüştür.<br>B. Portfolyonun kendisini bir sanat eserine dönüştürmüştür."
     },
     {
         "SoruID": 3833516,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "A. Hedef kitlesine göre tasarım yapmıştır.<br/> Bir tekstil markasının yöneticileriyle yaptığı iş görüşmesinde çalışmalarını kumaş kaplı bir portfolyoda sunan bir tasarımcı başvurduğu pozisyonun içeriğine uygun bir sunum oluşturmuştur."
+        "Aciklama": "Bir tekstil markasının yöneticileriyle yaptığı iş görüşmesinde çalışmalarını kumaş kaplı bir portfolyoda sunan bir tasarımcı başvurduğu pozisyonun içeriğine uygun bir sunum oluşturarak portfolyosunda kumaş kullanmıştır.<br>A. Hedef kitlesine göre tasarım yapmıştır.<br/>Bir tekstil markasının yöneticileriyle yaptığı iş görüşmesinde çalışmalarını kumaş kaplı bir portfolyoda sunan bir tasarımcı başvurduğu pozisyonun içeriğine uygun bir sunum oluşturmuştur."
     },
     {
         "SoruID": 3833519,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "D. Başvurular arasında objektif bir değerlendirme yapılabilmesi"
+        "Aciklama": "Ayrımcılık Yasası'nın geçerli olduğu ABD gibi bazı ülkelerde başvuru sırasında fotoğraf kullanılması değerlendirmede önyargıya yol açabileceği gerekçesiyle doğru bulunmayabilmektedir.<br>D. Başvurular arasında objektif bir değerlendirme yapılabilmesi"
     },
     {
         "SoruID": 3833522,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "E. Anlatma, göster.<br/> Bir grafik tasarım ürünü olarak portfolyo tasarımları metinle veya sözle  açıklamak zorunda kalmadan kendisini anlatabilecek nitelikte olmalıdır."
+        "Aciklama": "Grafik tasarımlarda tasarlanan işin kendisini başka yollara gerek kalmadan anlatabilmesi beklenir.<br>E. Anlatma, göster.<br/>Bir grafik tasarım ürünü olarak portfolyo tasarımları metinle veya sözle açıklamak zorunda kalmadan kendisini anlatabilecek nitelikte olmalıdır."
     },
     {
         "SoruID": 3833525,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "C. İnternet bağlantısı"
+        "Aciklama": "Çevrim içi portfolyolara erişim için internet bağlantısı gereklidir.<br>C. İnternet bağlantısı"
     },
     {
         "SoruID": 3833529,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "C. Mizanpaj, tipografi ve renk gibi unsurların her sayfada otomatik olarak yer almasını sağlar."
+        "Aciklama": "Masaüstü yayıncılık ve mizanpaj düzenlemelerinde yaygın olarak kullanılan InDesign tasarımının çok sayfalı grafik tasarımlarda sağladığı Parent Page (Asıl Sayfa) özelliği sayesinde mizanpaj, tipografi ve renk gibi unsurlar her sayfada otomatik olarak yer alır.<br>C. Mizanpaj, tipografi ve renk gibi unsurların her sayfada otomatik olarak yer almasını sağlar."
     },
     {
         "SoruID": 3833545,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "C. Standart web tasarım veya ekran ölçü oranları<br/> Dijital portfolyo formatlarında boyut belirleme aşamasında standart web tasarım veya ekran ölçü oranlarının dikkate alınması gerekir. Kişinin boyu ile portfolyonun boyutları arasında olması gereken orantı ise yüz yüze sunumlarda dikkate alınması gereken bir özelliktir."
+        "Aciklama": "Standart web tasarım veya ekran ölçü oranları dijital portfolyo formatlarında boyut belirleme aşamasında dikkate alınmalıdır.<br>C. Standart web tasarım veya ekran ölçü oranları<br/>Dijital portfolyo formatlarında boyut belirleme aşamasında standart web tasarım veya ekran ölçü oranlarının dikkate alınması gerekir. Kişinin boyu ile portfolyonun boyutları arasında olması gereken orantı ise yüz yüze sunumlarda dikkate alınması gereken bir özelliktir."
     },
     {
         "SoruID": 3833558,
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "E. Karmaşık <br/> Etkili bir sunum için portfolyoda yer alan metinlerin etkili ve sade, entelektüel açıdan güçlü, akıcı ve açık olması uygun olacaktır. Karmaşık anlatım istenen etkiyi yaratmak açısından olumsuz bir özelliktir."
+        "Aciklama": "E. Karmaşık <br/>Etkili bir sunum için portfolyoda yer alan metinlerin etkili ve sade, entelektüel açıdan güçlü, akıcı ve açık olması uygun olacaktır. Karmaşık anlatım istenen etkiyi yaratmak açısından olumsuz bir özelliktir."
     }
 ]

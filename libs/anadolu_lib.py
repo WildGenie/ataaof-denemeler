@@ -3,8 +3,10 @@ import json
 import urllib.request
 import urllib.error
 import urllib.parse
+import re
 from datetime import datetime
 from dotenv import load_dotenv
+from bs4 import BeautifulSoup
 from libs.shared import clean_html, questions_to_markdown
 
 # Load environment variables
@@ -60,8 +62,35 @@ def fetch_url(url):
         print(f"Error fetching {url}: {e}")
         return None
 
+def get_text_content(html_content):
+    if not html_content: return ""
+    soup = BeautifulSoup(html_content, 'html.parser')
+    text = soup.get_text(separator=' ', strip=True)
+    return re.sub(r'\s+', ' ', text).lower().strip()
+
 def map_to_old_format(api_question, course_name, unit_or_type, donem):
     # Map API response to the structure expected by the existing system (Soru class)
+    explanation = clean_html(api_question.get("AnswerExplanation"))
+    title = clean_html(api_question.get("Title"))
+
+    if title:
+        if explanation:
+            # Normalize for comparison using text content only
+            t_norm = get_text_content(title)
+            e_norm = get_text_content(explanation)
+
+            if t_norm and e_norm and (t_norm in e_norm):
+                # Title is contained in explanation, use explanation (it's longer or equal)
+                pass
+            elif t_norm and e_norm and (e_norm in t_norm):
+                # Explanation is contained in title, use title (it's longer)
+                explanation = title
+            else:
+                # Distinct content, concatenate
+                explanation = f"{title}<br>{explanation}"
+        else:
+            explanation = title
+
     return {
         "SoruID": api_question.get("QuestionId"),
         "SoruMetni": clean_html(api_question.get("Text")),
@@ -80,5 +109,5 @@ def map_to_old_format(api_question, course_name, unit_or_type, donem):
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": None,
-        "Aciklama": clean_html(api_question.get("AnswerExplanation"))
+        "Aciklama": explanation
     }

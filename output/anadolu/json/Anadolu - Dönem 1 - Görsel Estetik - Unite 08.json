@@ -12,7 +12,7 @@
         "Unite": 8,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.315602",
+        "OlusturmaTarihi": "2025-12-01T04:16:30.730321",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 3858337,
-        "SoruMetni": "Aşağıdakilerden hangisinde zamanı diğer kaynaklardan ayıran özellik <strong>doğru</strong> olarak verilmiştir?",
+        "SoruMetni": "Aşağıdakilerden hangisinde zamanı diğer kaynaklardan ayıran özellik <strong>doğru</strong> olarak verilmiştir?",
         "A": "Depolanabilir",
         "B": "Devredilebilir",
         "C": "İkame edilemez",
@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3858359,
-        "SoruMetni": "Zamanın hareket olmaksızın tek başına var olamayacağını söyleyen düşünür hangisidir?",
+        "SoruMetni": "Zamanın hareket olmaksızın tek başına var olamayacağını söyleyen düşünür hangisidir?",
         "A": "Platon",
         "B": "Aristoteles",
         "C": "Kant",
@@ -78,6 +78,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Aristoteles'e göre zaman, önce ve sonraya göre devinimin/hareketin sayısıdır. Bireylerin, zihinlerinde bir şey değişmediğinde ya da herhangi bir değişimi fark etmediklerinde zamanın da geçmediğini düşünmektedir. hareket olmaksızın tek başına var olabilmesi olanaklı değildir. Doğru cevap B'dir."
+    },
+    {
+        "SoruID": 3858361,
+        "SoruMetni": "\"Mutlak zaman\" görüşünü savunan düşünür hangisidir?",
+        "A": "Platon",
+        "B": "Aristoteles",
+        "C": "Kant",
+        "D": "Newton",
+        "E": "Einstein",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:16:30.731787",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Zaman anlayışı göreli ve mutlak zaman olarak da ele alınmaktadır. Newton, mutlak zaman görüşünü savunmaktadır. Newton bu yaklaşımı çerçevesinde, mutlak ve evrensel zamanın ölçülebilir, hesaplanabilir olduğunu ve zamanın temelde dışsal bir öğeden bağımsız olarak aktığını belirtir. Doğru cevap D'dir."
     },
     {
         "SoruID": 3858363,
@@ -97,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Resim seçeneği doğru gibi gözükmesine rağmen yapılış sürecindeki geçen zaman anı resmetmek için yeterli değildir bu yüzden yapılan resim aslında farklı anların bütünleşmiş tek bir görüntüsünün resmidir. Mekân ve hareketle ilişkili olarak fotoğraf makinesi nesneyi şimdiki zamanında dinamik bir şey olarak değil statik bir şey olarak resmeder. Yani an’ı dondurur. Doğru cevap B'dir."
+        "Aciklama": "Resim seçeneği doğru gibi gözükmesine rağmen yapılış sürecindeki geçen zaman anı resmetmek için yeterli değildir bu yüzden yapılan resim aslında farklı anların bütünleşmiş tek bir görüntüsünün resmidir. Mekân ve hareketle ilişkili olarak fotoğraf makinesi nesneyi şimdiki zamanında dinamik bir şey olarak değil statik bir şey olarak resmeder. Yani an’ı dondurur. Doğru cevap B'dir."
     },
     {
         "SoruID": 3858364,
@@ -121,10 +141,10 @@
     },
     {
         "SoruID": 3858365,
-        "SoruMetni": "<ul> <li>Filmdeki olayların bir gün içerisinde gerçekleşmesi</li> <li>Bireyin büyümesi  iki saatlik bir zaman diliminde anlatılırken bu sürecin içerisinde geçen ve sadece 30 saniye süren bir kaza sahnesi izleyicide saatler sürmüşçesine bir etki yaratabilir.</li> <li>İzleyicinin film izleme sürecinde salonda tükettiği reel zaman</li> </ul> Aşağıdakilerden hangisinde doğru sinemasal zaman kategorileri yukarıda verilen örneklerle sırasıyla eşleşmektedir?",
-        "A": "Süjesel zaman, Kameranın pelikül üzerinde kaydettiği zaman, Reel zaman",
-        "B": "İzleyici tarafından algılanan zaman, Kameranın pelikül üzerinde kaydettiği zaman, Süjesel zaman",
-        "C": "Kameranın pelikül üzerinde kaydettiği zaman, Reel zaman, İzleyici tarafından algılanan zaman",
+        "SoruMetni": "<ul> <li>Filmdeki olayların bir gün içerisinde gerçekleşmesi</li> <li>Bireyin büyümesi iki saatlik bir zaman diliminde anlatılırken bu sürecin içerisinde geçen ve sadece 30 saniye süren bir kaza sahnesi izleyicide saatler sürmüşçesine bir etki yaratabilir.</li> <li>İzleyicinin film izleme sürecinde salonda tükettiği reel zaman</li> </ul> Aşağıdakilerden hangisinde doğru sinemasal zaman kategorileri yukarıda verilen örneklerle sırasıyla eşleşmektedir?",
+        "A": "Süjesel zaman, Kameranın pelikül üzerinde kaydettiği zaman, Reel zaman",
+        "B": "İzleyici tarafından algılanan zaman, Kameranın pelikül üzerinde kaydettiği zaman, Süjesel zaman",
+        "C": "Kameranın pelikül üzerinde kaydettiği zaman, Reel zaman, İzleyici tarafından algılanan zaman",
         "D": "İzleyici tarafından algılanan zaman,Süjesel zaman, Kameranın pelikül üzerinde kaydettiği zaman",
         "E": "Süjesel zaman, İzleyici tarafından algılanan zaman, Reel zaman",
         "DogruCevap": "E",
@@ -137,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Filmdeki olayların bir gün içerisinde gerçekleşmesi hâlinde filmin sujesel zamanı bir gün olmaktadır. Sinemada zamana ilişkin üçüncü kategori ise izleyici tarafından algılanan zamandır. Bir sinema filminde, filmsel zamanın akışı ile alılmamanın zamanının birbirleriye yakın ilişkileri olsa da zamanın daralması ve genişlemesi aracılığıyla oluşturulan anlatının izleyiciler üzerinde yarattığı farklı duygusal etkiler farklı zaman algılarına neden olacaktır. İzleyicinin film izleme sürecinde salonda tükettiği zaman reel zamandır?"
+        "Aciklama": "Filmdeki olayların bir gün içerisinde gerçekleşmesi hâlinde filmin sujesel zamanı bir gün olmaktadır. Sinemada zamana ilişkin üçüncü kategori ise izleyici tarafından algılanan zamandır. Bir sinema filminde, filmsel zamanın akışı ile alılmamanın zamanının birbirleriye yakın ilişkileri olsa da zamanın daralması ve genişlemesi aracılığıyla oluşturulan anlatının izleyiciler üzerinde yarattığı farklı duygusal etkiler farklı zaman algılarına neden olacaktır. İzleyicinin film izleme sürecinde salonda tükettiği zaman reel zamandır?"
     },
     {
         "SoruID": 3858605,
@@ -181,7 +201,7 @@
     },
     {
         "SoruID": 3858607,
-        "SoruMetni": "Aşağıdaki düşünürlerden hangisi zamanın, zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana geldiğini söylemiştir?",
+        "SoruMetni": "Aşağıdaki düşünürlerden hangisi zamanın, zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana geldiğini söylemiştir?",
         "A": "Kant",
         "B": "Bergson",
         "C": "Aristoteles",
@@ -241,7 +261,7 @@
     },
     {
         "SoruID": 3858610,
-        "SoruMetni": "Aşağıdakilerden hangisi filmde geçen bir zaman diliminin, öznel çekimlerle ya da kurgu yoluyla gerçek zamana göre kısaltılması veya uzatılmasına verilen addır?",
+        "SoruMetni": "Aşağıdakilerden hangisi filmde geçen bir zaman diliminin, öznel çekimlerle ya da kurgu yoluyla gerçek zamana göre kısaltılması veya uzatılmasına verilen addır?",
         "A": "Kurgusal zaman",
         "B": "Hayali zaman",
         "C": "Mevhum zaman",
@@ -341,7 +361,7 @@
     },
     {
         "SoruID": 3858730,
-        "SoruMetni": "Zaman söz konusu olduğunda çoğunlukla üç farklı zaman diliminden söz edilir. Bu ‘an’lar dan hangisi \"yaşanmıştır\"?",
+        "SoruMetni": "Zaman söz konusu olduğunda çoğunlukla üç farklı zaman diliminden söz edilir. Bu ‘an’lar dan hangisi \"yaşanmıştır\"?",
         "A": "Geçmiş zaman",
         "B": "Şimdiki zaman",
         "C": "Gelecek zaman",
@@ -378,6 +398,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Canlıların acıkmasından, kimi hayvanların kış uykusuna yatması ya da horozların belli bir saatte ötmesi biyolojik saat ile ilişkilidir. Biyolojik saat, alışkanlıklara göre kurulur. Çoğu zaman uyanmak için kurduğumuz saatin alarmı çalmadan biraz önce uyanırız. Biyolojik saat, bize kalkma zamanının geldiğini söylemiştir. Canlıların uyuma uyanma, yeme içme saatini değiştirmesi hâlinde biyolojik saatte yeni programa göre kendisini ayarlayacaktır. Doğru cevap D'dir."
+    },
+    {
+        "SoruID": 3858734,
+        "SoruMetni": "Aşağıdakilerden hangisi zamanı diğer kaynaklardan (para, insan gücü, ham madde vb.) ayıran özelliklerden biridir?",
+        "A": "Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanabilir.",
+        "B": "Zaman istenildiği an tüketilebilir.",
+        "C": "Zaman ikame edilemez",
+        "D": "Zaman yenilenebilir",
+        "E": "Zaman para gibi borç alınıp verilebilir",
+        "DogruCevap": "C",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:16:30.744112",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Zamanı diğer kaynaklardan (para, insan gücü, ham madde vb.) ayıran özellikleri ise şu şekilde sıralamak mümkündür (Demirel ve Ramazanoğlu, 2005: 31-32):<br/><ul> <li>Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.</li> <li>Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez. Birinin zamanını başka biri onun adına kullanamaz. Zaman sadece kişinin kendisine bağlıdır.</li> <li>Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.</li> <li>Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.</li> <li>Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir.</li> </ul> Doğru cevap C'dir."
     },
     {
         "SoruID": 3858736,
@@ -441,7 +481,7 @@
     },
     {
         "SoruID": 3858739,
-        "SoruMetni": "20. yüzyılda ortaya çıkan ve  Einstein'ın görelilik kuramı ile ilişkili olan sanat akımı aşağıdakilerden hangisidir?",
+        "SoruMetni": "20. yüzyılda ortaya çıkan ve Einstein'ın görelilik kuramı ile ilişkili olan sanat akımı aşağıdakilerden hangisidir?",
         "A": "Romantizm",
         "B": "Klasizm",
         "C": "Kübizm",
@@ -461,7 +501,7 @@
     },
     {
         "SoruID": 3858775,
-        "SoruMetni": "I- Horozların belli bir saatte ötmesi<br/><br/>II- Trenle Ankara’dan Eskişehir’e 1.5 saatte gelinmesi<br/><br/>III-Bir insanın her sabah aynı saatte uyanması<br/><br/>IV- Uçak korkusu olan birine yolculuğun vaktinden uzun gelmesi<br/><br/>V- Yakını ameliyatta olan birine 10 dk’nın 1 saat gibi gelmesi.<br/><br/>Yukarıdakilerden hangisi veya hangileri biyolojik zamana örnek olabilir?",
+        "SoruMetni": "I- Horozların belli bir saatte ötmesi<br/>II- Trenle Ankara’dan Eskişehir’e 1.5 saatte gelinmesi<br/>III-Bir insanın her sabah aynı saatte uyanması<br/>IV- Uçak korkusu olan birine yolculuğun vaktinden uzun gelmesi<br/>V- Yakını ameliyatta olan birine 10 dk’nın 1 saat gibi gelmesi.<br/>Yukarıdakilerden hangisi veya hangileri biyolojik zamana örnek olabilir?",
         "A": "II ve V",
         "B": "I ve III",
         "C": "IV",
@@ -477,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I- Horozların belli bir saatte ötmesi<br/><br/> III-Bir insanın her sabah aynı saatte uyanması"
+        "Aciklama": "I- Horozların belli bir saatte ötmesi<br/>III-Bir insanın her sabah aynı saatte uyanması"
     },
     {
         "SoruID": 3858776,
@@ -500,6 +540,26 @@
         "Aciklama": "Platon’a göre zaman, zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana gelmiştir. Zaman, idealar dünyasının<br/>sadece bir taklididir."
     },
     {
+        "SoruID": 3858777,
+        "SoruMetni": "“Uzay ve zaman noktaları, uzaysal koordinatlarına ek olarak, ayrı bir ‘şimdiler’ çokluğu ile belirlenirler. Bu belirlenen ‘şimdiler’ tikel-göreli ‘şimdiler’dir. Bu nedenle, zamanın nesnel bir algılanışından söz etmek mümkün değildir.” Zamanla ilgili yukarıdaki görüşü savunan düşünür aşağıdakilerden hangisidir?",
+        "A": "Platon",
+        "B": "Bergson",
+        "C": "Newton",
+        "D": "Kant",
+        "E": "Einstein",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:23.313455",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Einstein’a göre; uzay ve zaman noktaları, uzaysal koordinatlarına ek olarak, ayrı bir ‘şimdiler’ çokluğu ile belirlenirler. Bu belirlenen ‘şimdiler’ tikel-göreli ‘şimdiler’dir. Bu nedenle, zamanın nesnel bir algılanışından söz etmek mümkün değildir. Nesnel zamanın yerine geçen göreli zaman ölçümünde ‘şimdi’ sonsuz küçüklükteki ayrımları olan parçalara ayrılır ve böylece sonsuz bir şimdiler çoklusu üretilir."
+    },
+    {
         "SoruID": 3858778,
         "SoruMetni": "Aşağıdakilerden hangisi hareketli görüntüde zaman boyutunun oluşturulmasında kullanılan tekniklerden değildir?",
         "A": "Çekim ölçekleri",
@@ -512,7 +572,7 @@
         "Unite": 8,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.374012",
+        "OlusturmaTarihi": "2025-12-01T04:16:30.733250",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -557,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kurgusal zamana  bir kovalama anının farklı açılardan farklı planlarla görüntülenerek ekranda hız ve heyecan yaratmasını örnek olarak vermek mümkündür."
+        "Aciklama": "Kurgusal zamana bir kovalama anının farklı açılardan farklı planlarla görüntülenerek ekranda hız ve heyecan yaratmasını örnek olarak vermek mümkündür."
     },
     {
         "SoruID": 3858781,
@@ -577,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zaman ikame edilemez. Zamanın ne diğer  bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir."
+        "Aciklama": "Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir."
     },
     {
         "SoruID": 3858782,
@@ -661,7 +721,7 @@
     },
     {
         "SoruID": 3858823,
-        "SoruMetni": "3 dakika 10 saniye süren bir sekansın işitsel boyutunda 3 dakika 10 saniyelik bir müzik parçasının çalması o sekansa ilişkin ...... zamanın ifadesi iken sekansın görsel içeriğinde yaratılan .... zaman daha uzun ya da daha kısa olabilmektedir.<br/><br/>Yukarıda verilen boşluklar sırasıyla hangileri ile doldurulmalıdır?",
+        "SoruMetni": "3 dakika 10 saniye süren bir sekansın işitsel boyutunda 3 dakika 10 saniyelik bir müzik parçasının çalması o sekansa ilişkin ...... zamanın ifadesi iken sekansın görsel içeriğinde yaratılan .... zaman daha uzun ya da daha kısa olabilmektedir.<br/>Yukarıda verilen boşluklar sırasıyla hangileri ile doldurulmalıdır?",
         "A": "Reel zaman-Kurgusal Zaman",
         "B": "Kurgusal zaman-Kurgusal zaman",
         "C": "Kurgusal zaman-Reel zaman",
@@ -672,12 +732,12 @@
         "Unite": 8,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.317168",
+        "OlusturmaTarihi": "2025-12-01T04:16:30.746200",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> S\u001enemada zamanı ele aldıgımızda “Reel (astronom<br>\u001fk) Zaman”, “Kurgusal (\u001frreel) Zaman” ve<br/>“Hayal\u001f (mevhum) Zaman” olmak üzere üçe ayırmak<br/>mümkündür. Reel zaman, f\u001elmde geçen süren<br/>\u001en gerçek zamanla uyum hâl\u001ende oldugu zaman<br/>türüdür. Örneg\u001en; f\u001elmde b\u001er karakter\u001en koltuktan<br/>kalkarak mutfaga g\u001etme süres\u001e gerçek zamanla b\u001ere<br/>b\u001er uyum hâl\u001ende olur. Kurgusal zaman; f\u001elmde<br/>geçen b\u001er zaman d\u001el\u001em\u001en\u001en, öznel çek\u001emlerle ya<br/>da kurgu yoluyla gerçek zamana göre kısaltılması<br/>veya uzatılmasıdır. Dem\u001er’\u001en (1994: 6) de bel\u001ertt<br/>\u001eg\u001e g\u001eb\u001e gerçek zamanda ve mekânda yapılan bu<br/>seçmeler aks\u001eyonun gel\u001es\u001em\u001ende en öneml\u001e unsurdur.<br/>Kurgusal zamana saatler sürecek b\u001er yolculugun<br/>baslangıcı ve b\u001et\u001es\u001ene \u001el\u001esk\u001en görüntüler\u001en<br/>kurgu yoluyla kısaltılmasını ya da b\u001er kovalama<br/>anının farklı açılardan farklı planlarla görüntülenerek<br/>ekranda hız ve heyecan yaratmasını örnek<br/>olarak vermek mümkündür. Hayal\u001e zaman \u001ese<br/>daha çok b\u001el\u001em kurgu f\u001elmlerde görülen, nasıl ve<br/>ne zaman oldugu bell\u001e olmayan zaman türüdür.<br/>Bunun yanı sıra f\u001elmdek\u001e kahramanlardan b\u001er\u001en\u001en<br/>düsünceler\u001e ya da \u001estekler\u001e görsellest\u001er\u001eld\u001eg\u001ende<br/>bu da hayal\u001e zaman olarak n\u001etelend\u001er\u001el\u001er. S\u001enema<br/>dogası gereg\u001e reel zaman ve hayal\u001e zamanı aynı<br/>anda görsellest\u001ereb\u001elmekted\u001er. Örneg\u001en; 3 dak\u001eka<br/>10 san\u001eye süren b\u001er sekansın \u001es\u001etsel boyutunda 3<br/>dak\u001eka 10 san\u001eyel\u001ek b\u001er müz\u001ek parçasının çalması<br/>o sekansa \u001el\u001esk\u001en reel zamanın \u001efades\u001e \u001eken sekansın<br/>görsel \u001eçer\u001eg\u001ende yaratılan hayal\u001e zaman daha<br/>uzun ya da daha kısa olab\u001elmekted\u001er ( Doğru cevap D'dir.</br><br/><br/> <br/>  <br/>"
+        "Aciklama": "<br/>Sinemada zamanı ele aldıgımızda “Reel (astronom<br/>ik) Zaman”, “Kurgusal (irreel) Zaman” ve<br/>“Hayali (mevhum) Zaman” olmak üzere üçe ayırmak<br/>mümkündür. Reel zaman, filmde geçen süren<br/>in gerçek zamanla uyum hâlinde oldugu zaman<br/>türüdür. Örnegin; filmde bir karakterin koltuktan<br/>kalkarak mutfaga gitme süresi gerçek zamanla bire<br/>bir uyum hâlinde olur. Kurgusal zaman; filmde<br/>geçen bir zaman diliminin, öznel çekimlerle ya<br/>da kurgu yoluyla gerçek zamana göre kısaltılması<br/>veya uzatılmasıdır. Demir’in (1994: 6) de belirtt<br/>igi gibi gerçek zamanda ve mekânda yapılan bu<br/>seçmeler aksiyonun gelisiminde en önemli unsurdur.<br/>Kurgusal zamana saatler sürecek bir yolculugun<br/>baslangıcı ve bitisine iliskin görüntülerin<br/>kurgu yoluyla kısaltılmasını ya da bir kovalama<br/>anının farklı açılardan farklı planlarla görüntülenerek<br/>ekranda hız ve heyecan yaratmasını örnek<br/>olarak vermek mümkündür. Hayali zaman ise<br/>daha çok bilim kurgu filmlerde görülen, nasıl ve<br/>ne zaman oldugu belli olmayan zaman türüdür.<br/>Bunun yanı sıra filmdeki kahramanlardan birinin<br/>düsünceleri ya da istekleri görsellestirildiginde<br/>bu da hayali zaman olarak nitelendirilir. Sinema<br/>dogası geregi reel zaman ve hayali zamanı aynı<br/>anda görsellestirebilmektedir. Örnegin; 3 dakika<br/>10 saniye süren bir sekansın isitsel boyutunda 3<br/>dakika 10 saniyelik bir müzik parçasının çalması<br/>o sekansa iliskin reel zamanın ifadesi iken sekansın<br/>görsel içeriginde yaratılan hayali zaman daha<br/>uzun ya da daha kısa olabilmektedir ( Doğru cevap D'dir.</br>"
     },
     {
         "SoruID": 3858884,
@@ -712,7 +772,7 @@
         "Unite": 8,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.350853",
+        "OlusturmaTarihi": "2025-12-01T04:16:30.734707",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -761,7 +821,7 @@
     },
     {
         "SoruID": 3858893,
-        "SoruMetni": "I. Mercekler<br/> II. Kamera açıları<br/> III. Görsel efektler<br/> Yukarıdakilerden hangisi ya da hangileri hareketli görüntüde zaman boyutunun oluşturmasında öne çıkan teknik, estetik aygıtlar arasındadır?",
+        "SoruMetni": "I. Mercekler<br/>II. Kamera açıları<br/>III. Görsel efektler<br/>Yukarıdakilerden hangisi ya da hangileri hareketli görüntüde zaman boyutunun oluşturmasında öne çıkan teknik, estetik aygıtlar arasındadır?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -778,6 +838,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Hareketli görüntüde zaman boyutunun oluşturmasında öne çıkan teknik, estetik aygıtlar bulunmaktadır. Bunlar; mercekler, çekim ölçekleri, kamera açıları, kamera hareketlerinin kullanımı, görsel efektler, kurgu, ses vb. ögelerdir. Doğru seçenek E'dir."
+    },
+    {
+        "SoruID": 3858897,
+        "SoruMetni": "Bergson'un, Zenon’un paradokslarına verdiği modern ad aşağıdakilerden hangisidir?",
+        "A": "Sinematografik İllüzyon",
+        "B": "Sinema",
+        "C": "Fotoğraf",
+        "D": "İzafiyet teorisi",
+        "E": "Görsel efektler",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:23.432837",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Bergson, dış dünyayla temasımızı bütünüyle sinematografik bir zemine indirger. Bu bakış açısıyla sinema, imgeye hareket ve zaman gibi iki tane sıfat vermiş olsa da en eski illüzyondan başka bir şey değildir. Böylece Bergson, Zenon’un paradokslarına modern bir ad verir: Sinematografik illüzyon. Sinema bize yapay hareket verir. Bu hareket art arda gelen anlık bölümlerin bir çizgisel dizimidir. Doğru seçenek A'dır."
     },
     {
         "SoruID": 3858899,
@@ -841,7 +921,7 @@
     },
     {
         "SoruID": 3858902,
-        "SoruMetni": "I. Reel zaman<br/> II. Kurgusal Zaman<br/> III. Hayali zaman<br/> Yukarıdakilerden hangisi ya da hangileri sinemadaki zamanları ifade eden kavramlardır?",
+        "SoruMetni": "I. Reel zaman<br/>II. Kurgusal Zaman<br/>III. Hayali zaman<br/>Yukarıdakilerden hangisi ya da hangileri sinemadaki zamanları ifade eden kavramlardır?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -992,7 +1072,7 @@
         "Unite": 8,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.367464",
+        "OlusturmaTarihi": "2025-12-01T04:16:30.737292",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1040,6 +1120,26 @@
         "Aciklama": "Genel çekimlerin daha fazla detay içermesi, ekran zamanını daha fazla işgal etmekte, yakın çekimlerin daha az bilgi içermesi ve daha kolay kavranabilmesi sayesinde ekran zamanını daha az işgal etmektedirler. Doğru cevap E'dir."
     },
     {
+        "SoruID": 3859523,
+        "SoruMetni": "Aşağıdaki zamanla ilgili özelliklerden hangisi doğru <u>değildir</u>?",
+        "A": "Durağan bir şeydir.",
+        "B": "Bir birikimdir.",
+        "C": "Bir büyük gelişme sürecidir.",
+        "D": "Yaratıcıdır.",
+        "E": "Metafiziğin aslıdır.",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:16:30.756032",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Zaman bir birikim, bir büyük gelişme süreciyken, sadece akıp giden bir şey değildir, aynı zamanda yaratıcıdır. Akıp giden zaman, gerçekliğin geçmişini ortaya çıkarırken, geçmişin içinde şekillendiği anı da yaratmış olur. Bu yolla süre evrimsel gelişimin temelini oluştururken, metafiziğin de aslıdır."
+    },
+    {
         "SoruID": 3859524,
         "SoruMetni": "Uçak korkusu olan bir yolcunun 50 dakikalık bir yolculuğu çok daha uzun hissetmesi aşağıdaki zaman türlerinden hangisi ile açıklanabilir?",
         "A": "Objektif zaman",
@@ -1080,6 +1180,26 @@
         "Aciklama": "Aristoteles harekete bağlı bir zaman tanımı yapmıştır. Ona göre zaman, önce ve sonraya göre devinimin/hareketin sayısıdır. Bireylerin, zihinlerinde bir şey değişmediğinde ya da herhangi bir değişimi fark etmediklerinde zamanın da geçmediğini düşünmektedir. Zamanın hareket olmaksızın tek başına var olabilmesi olanaklı değildir."
     },
     {
+        "SoruID": 3859526,
+        "SoruMetni": "Aşağıdakilerden hangisi mutlak ve evrensel zamanın ölçülebilir, hesaplanabilir olduğu ve zamanın temelde dışsal bir öğeden bağımsız olarak aktığı \"mutlak zaman\" görüşünü savunmaktadır?",
+        "A": "Einstein",
+        "B": "Kant",
+        "C": "Bergson",
+        "D": "Newton",
+        "E": "Glidens",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:23.438150",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Newton, mutlak zaman görüşünü savunmaktadır. Newton bu yaklaşımı çerçevesinde, mutlak ve evrensel zamanın ölçülebilir, hesaplanabilir olduğunu ve zamanın temelde dışsal bir öğeden bağımsız olarak aktığını belirtir."
+    },
+    {
         "SoruID": 3859527,
         "SoruMetni": "Aşağıdakilerden hangisinin ortaya çıkışı ile sonsuz zaman ve mekân kavrayışı yerini gerçek mekânlara ve sonu olan bir zaman anlayışına bırakmıştır?",
         "A": "Rönesans",
@@ -1100,6 +1220,26 @@
         "Aciklama": "Rönesans’ın ortaya çıkışı ile sonsuz zaman ve mekân kavrayışı yerini gerçek mekânlara ve sonu olan bir zaman anlayışına bırakmıştır."
     },
     {
+        "SoruID": 3859528,
+        "SoruMetni": "Aşağıdakilerden hangisi ile birlikte sadece dinsel tarih anlayışı dışında nesnel bir zaman akışının var olduğu düşüncesinin yanına bireyin, sanatçının iç dünyasına ait bir zaman akışının da var olduğu düşüncesi eklenmiştir?",
+        "A": "Modernizm",
+        "B": "Rönesans",
+        "C": "Endüstri Devrimi",
+        "D": "Kübist Devrim",
+        "E": "Romantizm Akımı",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:23.318227",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Romantizm akımı ile birlikte ise sadece dinsel tarih anlayışı dışında nesnel bir zaman akışının var olduğu düşüncesinin yanına bireyin, sanatçının iç dünyasına ait bir zaman akışının da var olduğu düşüncesi eklenmiştir. Sanatçının, iç dünyasına ait öznel zamanı yansıtma arayışına girmesi de modern sanata özgü üslupların ortaya çıkmasını sağlamıştır."
+    },
+    {
         "SoruID": 3859529,
         "SoruMetni": "Aşağıdakilerden hangisine göre sinemada hareket-imge, kamera hareketi ve montaj ile oluşur?",
         "A": "Deleuze",
@@ -1112,7 +1252,7 @@
         "Unite": 8,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.356743",
+        "OlusturmaTarihi": "2025-12-01T04:16:30.751144",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1158,6 +1298,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Reel zaman, filmde geçen sürenin gerçek zamanla uyum hâlinde olduğu zaman türüdür. Örneğin; filmde bir karakterin koltuktan kalkarak mutfağa gitme süresi gerçek zamanla bire bir uyum hâlinde olur."
+    },
+    {
+        "SoruID": 3859532,
+        "SoruMetni": "Daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türü aşağıdakilerden hangisidir?",
+        "A": "Kurgusal zaman",
+        "B": "Gelecek zaman",
+        "C": "Hayali zaman",
+        "D": "Reel zaman",
+        "E": "Subjektif zaman",
+        "DogruCevap": "C",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:23.481283",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Hayali zaman, daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türüdür."
     },
     {
         "SoruID": 3859533,
@@ -1257,7 +1417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zamanı diğer kaynaklardan ayıran özellikleri ise şu şekilde sıralamak mümkündür:<br/>• Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.<br/>• Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez. Birinin zamanını başka biri onun adına kullanamaz. Zaman sadece kişinin kendisine bağlıdır.<br/>• Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir. <br/>• Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.<br/>• Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir."
+        "Aciklama": "Zamanı diğer kaynaklardan ayıran özellikleri ise şu şekilde sıralamak mümkündür:<br/>• Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.<br/>• Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez. Birinin zamanını başka biri onun adına kullanamaz. Zaman sadece kişinin kendisine bağlıdır.<br/>• Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir. <br/>• Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.<br/>• Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir."
     },
     {
         "SoruID": 3859538,
@@ -1321,7 +1481,7 @@
     },
     {
         "SoruID": 3859541,
-        "SoruMetni": "I.   Yaşanmış an<br/> II.  Yaşanması muhtemel an<br/> III. Yaşanacak an<br/> IV. Yaşanan an<br/> Yukarıdakilerden hangisi zaman söz konusu olduğunda çoğunlukla bahsedilen üç farklı zaman dilimi arasında sayılabilir?",
+        "SoruMetni": "I. Yaşanmış an<br/>II. Yaşanması muhtemel an<br/>III. Yaşanacak an<br/>IV. Yaşanan an<br/>Yukarıdakilerden hangisi zaman söz konusu olduğunda çoğunlukla bahsedilen üç farklı zaman dilimi arasında sayılabilir?",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -1332,7 +1492,7 @@
         "Unite": 8,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.369247",
+        "OlusturmaTarihi": "2025-12-01T04:16:30.748780",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1441,7 +1601,7 @@
     },
     {
         "SoruID": 3859547,
-        "SoruMetni": "I.   Mercekler<br/> II.  Çekim ölçekleri<br/> III. Tripod<br/> IV. Kurgu<br/> Yukarıdakilerden hangisi hareketli görüntüde zaman boyutunun oluşturmasında öne çıkan ögeler arasında sayılabilir?",
+        "SoruMetni": "I. Mercekler<br/>II. Çekim ölçekleri<br/>III. Tripod<br/>IV. Kurgu<br/>Yukarıdakilerden hangisi hareketli görüntüde zaman boyutunun oluşturmasında öne çıkan ögeler arasında sayılabilir?",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -1540,6 +1700,26 @@
         "Aciklama": "Aristoteles harekete bağlı bir zaman tanımı yapmıştır. Ona göre zaman, önce ve sonraya göre devinimin / hareketin sayısıdır."
     },
     {
+        "SoruID": 3859552,
+        "SoruMetni": "I. Reel zaman<br/>II. Kurgusal zaman<br/>III. Hayali zaman<br/>Yukarıdakilerden hangisi / hangileri sinemada zamanın bölümleri arasındadır?",
+        "A": "Yalnız II",
+        "B": "I ve II",
+        "C": "I ve III",
+        "D": "II ve III",
+        "E": "I, II ve III",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:16:30.738915",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Sinemada zamanı ele aldığımızda <em>“Reel (astronomik) Zaman”, “Kurgusal (irreel) Zaman” </em>ve <em>“Hayali (mevhum) Zaman” </em>olmak üzere üçe ayırmak mümkündür. Doğru yanıt E seçeneğidir."
+    },
+    {
         "SoruID": 3859553,
         "SoruMetni": "Aşağıdakilerden hangisi sinemada zamanı kategorize eden başlıklar arasında yer almaz?",
         "A": "Süje zaman",
@@ -1601,7 +1781,7 @@
     },
     {
         "SoruID": 3859556,
-        "SoruMetni": "Aşağıdakilerden hangisi internet ve internetin yaygınlaşması ile ortaya çıkan yeni toplumsal yapıyı “ağ toplumu” olarak nitelendirir?",
+        "SoruMetni": "Aşağıdakilerden hangisi internet ve internetin yaygınlaşması ile ortaya çıkan yeni toplumsal yapıyı “ağ toplumu” olarak nitelendirir?",
         "A": "Baker",
         "B": "Castels",
         "C": "Bergson",
@@ -1657,7 +1837,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Einstein yaklaşımında  evrensel bir zaman anlayışının mümkün olmadığını, başka herhangi bir şeyin türevleri olmayan, bununla birlikte kendi özlerinde belirli varoluşlara sahip olan zaman ve uzayın bükülebilir olduğunu ileri sürer. Doğru yanıt A seçeneğidir."
+        "Aciklama": "Einstein yaklaşımında evrensel bir zaman anlayışının mümkün olmadığını, başka herhangi bir şeyin türevleri olmayan, bununla birlikte kendi özlerinde belirli varoluşlara sahip olan zaman ve uzayın bükülebilir olduğunu ileri sürer. Doğru yanıt A seçeneğidir."
+    },
+    {
+        "SoruID": 3859559,
+        "SoruMetni": "I. Zaman nesnel dünyadan kazanılmış birşey değildir.<br/>II. İnsanın nesnel dünyayı algılamasının temel şartıdır.<br/>III. Zaman insanın zihnindedir.<br/>Yukarıdakilerden hangisi/hangileri Kant'ın zaman anlayışını yansıtır?",
+        "A": "Yalnız III",
+        "B": "I ve II",
+        "C": "I ve III",
+        "D": "II ve III",
+        "E": "I, II ve III",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:23.329585",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Seçeneklerin tamamı Kant'ın zaman görüşünü yansıtır. Doğru yanıt E seçeneğidir."
     },
     {
         "SoruID": 3859560,
@@ -1821,7 +2021,7 @@
     },
     {
         "SoruID": 3859568,
-        "SoruMetni": "Kerime Üstünova bir çalışmasında, bir eylemin gerçekleşmesi için, olmazsa olmaz türünden iki koşula gereksinim olduğunu belirtir. Bunlardan biri eylemi yapan kişi, diğeri de eylemin yapılma zamanıdır. Bu nedenle eylemde var olan zaman, sözcüklerle tanımlayamayacağımız kadar soyuttur. Zaman eklerinin görevi, eylemde var olan soyut zamanı somuta çevirmektir. Zaman ifade eden sözcükler, bu konuda zaman eklerinin destekçisidir. Çünkü onlar da somutluğu zaman yelpazesi içinde daha kesin bir çizgiye oturtmakla yükümlüdürler. Bu nedenle çekimli, çekimsiz, kök, gövde her tür eylemin içinde zaman kavramı bulunmaktadır der. Bu çalışma aşağıdakilerden hangisidir?",
+        "SoruMetni": "Kerime Üstünova bir çalışmasında, bir eylemin gerçekleşmesi için, olmazsa olmaz türünden iki koşula gereksinim olduğunu belirtir. Bunlardan biri eylemi yapan kişi, diğeri de eylemin yapılma zamanıdır. Bu nedenle eylemde var olan zaman, sözcüklerle tanımlayamayacağımız kadar soyuttur. Zaman eklerinin görevi, eylemde var olan soyut zamanı somuta çevirmektir. Zaman ifade eden sözcükler, bu konuda zaman eklerinin destekçisidir. Çünkü onlar da somutluğu zaman yelpazesi içinde daha kesin bir çizgiye oturtmakla yükümlüdürler. Bu nedenle çekimli, çekimsiz, kök, gövde her tür eylemin içinde zaman kavramı bulunmaktadır der. Bu çalışma aşağıdakilerden hangisidir?",
         "A": "“İletişim Açısından Ters Tekrar\"",
         "B": "<strong>\"Türkçede Zaman Kavramı ve İşlenişi\"</strong>",
         "C": "“Cümleler Arası Anlam ve Biçim Bağı Sağlayan Öğeler”",
@@ -1858,6 +2058,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Zaman kavramına ilişkin görüş belirten ilk isimler arasında Platon ve Aristoteles yer almaktadır. Doğru cevap D'dir."
+    },
+    {
+        "SoruID": 3859570,
+        "SoruMetni": "\"Zaman, zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana gelmiştir. Zaman, idealar dünyasının sadece bir taklididir. Çünkü idealar dünyası değişmez ve zaman dışıdır.\" diyen düşünür kimdir?",
+        "A": "Platon",
+        "B": "Pisagor",
+        "C": "Sokrates",
+        "D": "Aristoteles",
+        "E": "Descartes",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:23.362078",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Platon’a göre zaman, zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana gelmiştir. Zaman, idealar dünyasının sadece bir taklididir. Çünkü idealar dünyası değişmez ve zaman dışıdır. Doğru cevap A'dır."
     },
     {
         "SoruID": 3859571,
@@ -1901,7 +2121,7 @@
     },
     {
         "SoruID": 3859573,
-        "SoruMetni": "Kime göre, zaman bir nokta üzerinden diğer bir nokta üzerine hareket eden kesintisiz, dinamik ve döngüsel olmayan şeydir?",
+        "SoruMetni": "Kime göre, zaman bir nokta üzerinden diğer bir nokta üzerine hareket eden kesintisiz, dinamik ve döngüsel olmayan şeydir?",
         "A": "Immanuel Kant",
         "B": "Henri Bergson",
         "C": "Edmund Husseri",
@@ -1941,7 +2161,7 @@
     },
     {
         "SoruID": 3859576,
-        "SoruMetni": "Saate ve/veya takvime bağlı  olarak ölçülebilen, gözlenebilen, takip edilebilen zaman biçimi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Saate ve/veya takvime bağlı olarak ölçülebilen, gözlenebilen, takip edilebilen zaman biçimi aşağıdakilerden hangisidir?",
         "A": "Objekjtif zaman",
         "B": "Geçmiş zaman",
         "C": "Gelecek zaman",
@@ -1958,6 +2178,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Objektif zaman, saate ve/veya takvime bağlı (saat, gün, hafta, ay) olarak ölçülebilen, gözlenebilen, takip edilebilen zamandır"
+    },
+    {
+        "SoruID": 3859577,
+        "SoruMetni": "“Montaj, uyuşumlarla, kesmelerle ve uyuşumsuzluklarla bütünün belirlenmesidir”. diyen düşünür aşağıdakilerden hangisidir?",
+        "A": "Tarkovski",
+        "B": "Deleuze",
+        "C": "Bergson",
+        "D": "Einstein",
+        "E": "Kant",
+        "DogruCevap": "B",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:16:30.725348",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Deleuze’e göre hareket-imge temelde iki yolla oluşur: Bunlardan ilki kamera hareketi diğeri ise montajdır. “Montaj, uyuşumlarla, kesmelerle ve uyuşumsuzluklarla bütünün belirlenmesidir”. Filmde ise hareket-imge montaj yoluyla değil, kamera hareketleri ile yaratılmıştır. Buna ek olarak yönetmen açı, perspektif ve kadraj gibi unsurlardan yararlanmaktadır. Deleuze hareket-imgenin olay örgüsüne dayandığını iddia etmiştir. Buna göre doğru cevap B'dir."
     },
     {
         "SoruID": 3859578,
@@ -2060,6 +2300,26 @@
         "Aciklama": "Henri Bergson ise, göre, zaman bir nokta üzerinden diğer bir nokta üzerine hareket eden kesintisiz, dinamik ve döngüsel olmayan şeydir. İki farklı anlayışı olduğunu savunan Bergson için, birincisi; bireyin içinde var olan ve sezgi yoluyla elde edilen süre, ikincisi ise nesnel dünyanın yansıması olarak araya “mekân fikri sokulan süre”olduğunu ifade eder. Doğru cevap C'dir."
     },
     {
+        "SoruID": 3859583,
+        "SoruMetni": "Zamanın nesnel dünyadan kazanılmış bir şey olmadığını ancak insanın nesnel dünyayı algılamasının temel şartı olduğunu söyleyen düşünür kimdir?",
+        "A": "Kant",
+        "B": "Bergson",
+        "C": "Platon",
+        "D": "Descartes",
+        "E": "Arisitoteles",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:23.389139",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kant, zamanın nesnel dünyadan kazanılmış bir şey olmadığını ancak insanın nesnel dünyayı algılamasının temel şartı olduğunu dile getirir. Kant’a göre zaman öznel ve idealdir"
+    },
+    {
         "SoruID": 3859584,
         "SoruMetni": "Zaman ve uzayın bükülebilir olduğunu ileri süren bilim insanı aşağıdakilerden hangisidir?",
         "A": "Bergson",
@@ -2117,7 +2377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Newton, mutlak zaman görüşünü savunmaktadır. Newton’a göre, bireyler psikolojik olarak zamanın akışını farklı hissedebilirler ancak zaman özünde hiç değişmemektedir. Dolayısı ile saat kişisel hissedişten bağımsız olarak zamanın nesnel olarak ölçülebilmesini sağlamaktadır"
+        "Aciklama": "Newton, mutlak zaman görüşünü savunmaktadır. Newton’a göre, bireyler psikolojik olarak zamanın akışını farklı hissedebilirler ancak zaman özünde hiç değişmemektedir. Dolayısı ile saat kişisel hissedişten bağımsız olarak zamanın nesnel olarak ölçülebilmesini sağlamaktadır"
     },
     {
         "SoruID": 3859587,
@@ -2138,6 +2398,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Yenişehirlioğlu’nun (1993, s.197-198) belirttiği gibi Modernizm öncesi zamanı mitik ve metafizik (dinsel) olarak değerlendirilebilir. Modernizim öncesi mitolojik zaman, tabiatla bağlantılı olarak gece-gündüz döngüsü, mevsimlerin değişimi gibi döngüselliklerle bağlantılıdır. doğru cevap D'dir."
+    },
+    {
+        "SoruID": 3859588,
+        "SoruMetni": "İnternet ve internetin yaygınlaşması ile ortaya çıkan yeni toplumsal yapıyı, “ağ toplumu” olarak nitelendiren düşünür aşağıdakilerden hangisidir?",
+        "A": "Descartes",
+        "B": "Deleuze",
+        "C": "Kant",
+        "D": "Castells",
+        "E": "Einstein",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:16:30.740471",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İnternet ve internetin yaygınlaşması ile ortaya çıkan yeni toplumsal yapıyı Castells,<br/>“ağ toplumu” olarak nitelendirir. Ağ toplumunda internetin ortaya çıkardığı yeni zaman deneyimi, zamanın düz çizgisel, geri döndürülemez ve hesaplanabilir olduğuna ilişkin var olana anlayışı ortadan kaldırmıştır. Doğru cevap D'dir."
     },
     {
         "SoruID": 3859589,
@@ -2241,7 +2521,7 @@
     },
     {
         "SoruID": 3859595,
-        "SoruMetni": "Aşağıdakilerden hangisi, sinemanın kendine özgü özellikleri dikkate alındığında, zamana ilişkin 4 farklı kategorizasyonundan biri  değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi, sinemanın kendine özgü özellikleri dikkate alındığında, zamana ilişkin 4 farklı kategorizasyonundan biri değildir?",
         "A": "Süjesel zaman",
         "B": "Kameranın pelikül üzerinde kaydettiği zaman",
         "C": "Mutlak zaman",
@@ -2252,12 +2532,12 @@
         "Unite": 8,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.293140",
+        "OlusturmaTarihi": "2025-12-01T04:16:30.727848",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Buna ek olarak sinemanın kendine özgü özellikleri dikkate alındığında zamana ilişkin farklı bir kategorizasyonu daha gerektirdiği görülmektedir. Zamanı bu çerçevede dört başlık altında incelemek mümkün olmaktadır. Bunlardan ilki süjesel zamandır ki bu filmsel olayın sujede ele alınış biçimiyle ilişkili zamandır.  \"...\"  İkinci zaman türü ise,kameranın pelikül üzerinde kaydettiği zamandır. Film üzerine kaydedilen zaman ile gösterim anındaki zaman birbirinden farklı olabilir.  \"...\" Sinemada zamana ilişkin üçüncü kategori ise izleyici tarafından algılanan zamandır. Bir film deneyiminde, görüntülerin şimdiki zamanının yanında izleyicinin zamanı algılamasının da etken oluşu nedeniyle karmaşık bir zamansallık söz konusudur. \"...\" Sinemaya ilişkin dördüncü zaman ise izleyicinin film izleme sürecinde salonda tükettiği reel zamandır (Aslanyürek, 2011: 175-176; Biro, 2011: 51). <br/> \"Mutlak zaman\" ise Newton'un zamana ilişkin yaklaşımını tanımlar."
+        "Aciklama": "Buna ek olarak sinemanın kendine özgü özellikleri dikkate alındığında zamana ilişkin farklı bir kategorizasyonu daha gerektirdiği görülmektedir. Zamanı bu çerçevede dört başlık altında incelemek mümkün olmaktadır. Bunlardan ilki süjesel zamandır ki bu filmsel olayın sujede ele alınış biçimiyle ilişkili zamandır. \"...\" İkinci zaman türü ise,kameranın pelikül üzerinde kaydettiği zamandır. Film üzerine kaydedilen zaman ile gösterim anındaki zaman birbirinden farklı olabilir. \"...\" Sinemada zamana ilişkin üçüncü kategori ise izleyici tarafından algılanan zamandır. Bir film deneyiminde, görüntülerin şimdiki zamanının yanında izleyicinin zamanı algılamasının da etken oluşu nedeniyle karmaşık bir zamansallık söz konusudur. \"...\" Sinemaya ilişkin dördüncü zaman ise izleyicinin film izleme sürecinde salonda tükettiği reel zamandır (Aslanyürek, 2011: 175-176; Biro, 2011: 51). <br/>\"Mutlak zaman\" ise Newton'un zamana ilişkin yaklaşımını tanımlar."
     },
     {
         "SoruID": 3859596,
@@ -2272,7 +2552,7 @@
         "Unite": 8,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.378321",
+        "OlusturmaTarihi": "2025-12-01T04:16:30.753915",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -2284,9 +2564,9 @@
         "SoruMetni": "Aşağıdakilerden hangisi, zamanı diğer kaynaklardan ayıran özelliklerden değildir?",
         "A": "Ölçülemez olması",
         "B": "Devredilemez olması",
-        "C": "Yenilenemez olması",
-        "D": "Depolanamaz olması",
-        "E": "Alınıp verilemez olması",
+        "C": "Yenilenemez olması",
+        "D": "Depolanamaz olması",
+        "E": "Alınıp verilemez olması",
         "DogruCevap": "A",
         "DersAd": "Görsel Estetik",
         "Unite": 8,
@@ -2297,11 +2577,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "• Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.<br/> • Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez. Birinin zamanını başka biri onun adına kullanamaz. Zaman sadece kişinin kendisine bağlıdır.<br/>• Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.<br/> • Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.<br/> <br/>• Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir."
+        "Aciklama": "• Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.<br/>• Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez. Birinin zamanını başka biri onun adına kullanamaz. Zaman sadece kişinin kendisine bağlıdır.<br/>• Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.<br/>• Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.<br/>• Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir."
     },
     {
         "SoruID": 3859598,
-        "SoruMetni": "Deleuze, Bergson’dan süre ve sezgi kavramlarını ödünç alarak zaman-imge kavramını geliştirmiştir. Bu yaklaşıma göre gündelik hayata ait zaman uzamsaldır ve nicel yöntemlerle ölçülebilir. Süre ise öznenin içsel zamanına göre akan, duran, geri ve ileri gidebilen esnek bir bütünlüktedir. <br/> Deleuze'ün bu yaklaşımına göre aşağıdakilerden hangisi süre'nin özelliklerinden olamaz?",
+        "SoruMetni": "Deleuze, Bergson’dan süre ve sezgi kavramlarını ödünç alarak zaman-imge kavramını geliştirmiştir. Bu yaklaşıma göre gündelik hayata ait zaman uzamsaldır ve nicel yöntemlerle ölçülebilir. Süre ise öznenin içsel zamanına göre akan, duran, geri ve ileri gidebilen esnek bir bütünlüktedir. <br/>Deleuze'ün bu yaklaşımına göre aşağıdakilerden hangisi süre'nin özelliklerinden olamaz?",
         "A": "Süre içinde cisimler sıkışmakta, zaman genişlemektedir.",
         "B": "Niceliksel sıfatlarla ilişkilendirilebilir.",
         "C": "Şimdi, geçmiş ve gelecek bir bütün olarak sezilmektedir.",
@@ -2361,7 +2641,7 @@
     },
     {
         "SoruID": 3859601,
-        "SoruMetni": "Objektif zaman, saate ve/veya takvime bağlı (saat, gün, hafta, ay) olarak ölçülebilen, gözlenebilen, takip edilebilen zamandır.<br/>........... zaman ise algılanılan, hissedilen zamandır.<br/> Yukarıdaki cümlede noktalı yere gelecek olan kelimeyi işaretleyiniz.",
+        "SoruMetni": "Objektif zaman, saate ve/veya takvime bağlı (saat, gün, hafta, ay) olarak ölçülebilen, gözlenebilen, takip edilebilen zamandır.<br/>........... zaman ise algılanılan, hissedilen zamandır.<br/>Yukarıdaki cümlede noktalı yere gelecek olan kelimeyi işaretleyiniz.",
         "A": "yaşanan",
         "B": "biyolojik",
         "C": "subjektif",
@@ -2383,7 +2663,7 @@
         "SoruID": 3859602,
         "SoruMetni": "Zamanı durdurmak, anı yakalamak ve hareketi kaydetmek gibi özellikleri olan fotoğraf ve sinema için hangisi söylenemez?",
         "A": "Kameranın aracılığı ile üç boyutlu olan uzay iki boyutlu bir yüzey üzerine indirgenebilmektedir.",
-        "B": "Diğer sanatlardan faklı olarak fotoğraf ve sinema, görüntünün oluşma sürecindeki aralığı en aza indirmiştir.",
+        "B": "Diğer sanatlardan faklı olarak fotoğraf ve sinema, görüntünün oluşma sürecindeki aralığı en aza indirmiştir.",
         "C": "Fotoğraf makinesi ışıkla resmeder.",
         "D": "Mekân ve hareketle ilişkili olarak fotoğraf makinesi nesneyi şimdiki zamanında dinamik bir şey olarak resmeder.",
         "E": "Videoda hareket doğrusal olarak ilerlemek zorunda değildir.",
@@ -2397,7 +2677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zamanı durdurmak, anı yakalamak ve hareketi kaydetmek, görsel ve görsel-işitsel sanatlar için oldukça önemlidir. Örneğin; fotoğraf ve sinema, temelde iki boyutlu bir görüntü sağlamaktadır. Kameranın aracılığı ile üç boyutlu olan uzay iki boyutlu bir yüzey üzerine indirgenebilmektedir. Bu doğrultuda, görüntüde düzenleme yapılamasının amacı izleyicileri mümkün olduğu kadar uzay yanılmasına inandırabilmektir. Tarihsel süreçte diğer sanatlardan faklı olarak fotoğraf ve görsel-işitsel bir sanat dalı olarak sinema, görüntünün oluşma sürecindeki aralığı en aza indirmiştir. Fotoğraf makinesi ışıkla resmetmekte, nesneden yansıyan ışık makinenin optiğinden geçerek yüzey üzerinde görüntü oluşturmaktadır. Bu süreçte fotoğrafı çekilen nesnenin an’ı (resmedilen an) ile makinenin içinde resmedildiği an (resmedilme eylemi anı) neredeyse aynıdır. Yani fotoğrafı çekilen nesnenin şimdiki zamanı ile makinenin içinde ortaya çıkan görüntünün şimdiki zamanı aynıdır. Bu nedenle fotoğraf makinesi şimdiyi resmeden bir aygıt olarak değerlendirilebilir. Mekân ve hareketle ilişkili olarak fotoğraf makinesi nesneyi şimdiki zamanında dinamik bir şey olarak değil statik bir şey olarak resmeder. \"...\" Videoda hareket doğrusal olarak ilerlemek zorunda<br/>değildir. Bu nedenle, bir hareket diğeri ile bağlantısızdır."
+        "Aciklama": "Zamanı durdurmak, anı yakalamak ve hareketi kaydetmek, görsel ve görsel-işitsel sanatlar için oldukça önemlidir. Örneğin; fotoğraf ve sinema, temelde iki boyutlu bir görüntü sağlamaktadır. Kameranın aracılığı ile üç boyutlu olan uzay iki boyutlu bir yüzey üzerine indirgenebilmektedir. Bu doğrultuda, görüntüde düzenleme yapılamasının amacı izleyicileri mümkün olduğu kadar uzay yanılmasına inandırabilmektir. Tarihsel süreçte diğer sanatlardan faklı olarak fotoğraf ve görsel-işitsel bir sanat dalı olarak sinema, görüntünün oluşma sürecindeki aralığı en aza indirmiştir. Fotoğraf makinesi ışıkla resmetmekte, nesneden yansıyan ışık makinenin optiğinden geçerek yüzey üzerinde görüntü oluşturmaktadır. Bu süreçte fotoğrafı çekilen nesnenin an’ı (resmedilen an) ile makinenin içinde resmedildiği an (resmedilme eylemi anı) neredeyse aynıdır. Yani fotoğrafı çekilen nesnenin şimdiki zamanı ile makinenin içinde ortaya çıkan görüntünün şimdiki zamanı aynıdır. Bu nedenle fotoğraf makinesi şimdiyi resmeden bir aygıt olarak değerlendirilebilir. Mekân ve hareketle ilişkili olarak fotoğraf makinesi nesneyi şimdiki zamanında dinamik bir şey olarak değil statik bir şey olarak resmeder. \"...\" Videoda hareket doğrusal olarak ilerlemek zorunda<br/>değildir. Bu nedenle, bir hareket diğeri ile bağlantısızdır."
     },
     {
         "SoruID": 3859623,
@@ -2438,6 +2718,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Platon’a göre zaman, zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana gelmiştir. Dolayısıyla cevap B şıkkıdır."
+    },
+    {
+        "SoruID": 3859625,
+        "SoruMetni": "Aşağıda belirtilen hangi filozofa göre zaman öznel ve idealdir ?",
+        "A": "Platon",
+        "B": "Aristoteles",
+        "C": "Kant",
+        "D": "Bergson",
+        "E": "Sokrates",
+        "DogruCevap": "C",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:23.338029",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kant’a göre zaman öznel ve idealdir. Dolayısıyla cevap C şıkkıdır."
     },
     {
         "SoruID": 3859626,
@@ -2481,7 +2781,7 @@
     },
     {
         "SoruID": 3859628,
-        "SoruMetni": "Görüntü hareket ve zaman söz konusu olduğunda Hareket-imge ve Zaman-imge, kavramlarına değinilmesi gereken, sinema üzerine yaptığı çalışmalarla da adından söz ettiren, sinemanın hareket, kurgu, kadraj, görsel efekt gibi tekniklerle kendine özgü imgeler yaratarak izleyicinin algısını kontrol ettiğine diğer bir ifade ile perdedeki imgenin, izleyici tarafından harekete bağlı olarak anlamlandırıldığına değinen ünlü düşünür aşağıdaki hangi şıkta belirttilmiştir ?",
+        "SoruMetni": "Görüntü hareket ve zaman söz konusu olduğunda Hareket-imge ve Zaman-imge, kavramlarına değinilmesi gereken, sinema üzerine yaptığı çalışmalarla da adından söz ettiren, sinemanın hareket, kurgu, kadraj, görsel efekt gibi tekniklerle kendine özgü imgeler yaratarak izleyicinin algısını kontrol ettiğine diğer bir ifade ile perdedeki imgenin, izleyici tarafından harekete bağlı olarak anlamlandırıldığına değinen ünlü düşünür aşağıdaki hangi şıkta belirttilmiştir ?",
         "A": "Deleuze",
         "B": "Bergson",
         "C": "Zeno",
@@ -2501,7 +2801,7 @@
     },
     {
         "SoruID": 3859629,
-        "SoruMetni": "Hangi ünlü felsefeci açısından sinematografik metot, biricik metottur ve bilginin akışıyla eylemlerin akışını birbirine uydurarak pratik hayata hâkim olmamızı sağlar ?",
+        "SoruMetni": "Hangi ünlü felsefeci açısından sinematografik metot, biricik metottur ve bilginin akışıyla eylemlerin akışını birbirine uydurarak pratik hayata hâkim olmamızı sağlar ?",
         "A": "Deleuze",
         "B": "Bergson",
         "C": "Zeno",
@@ -2520,28 +2820,8 @@
         "Aciklama": "Bergson açısından sinematografik metot, biricik metottur ve bilginin akışıyla eylemlerin akışını birbirine uydurarak pratik hayata hâkim olmamızı sağlar. Dolayısıyla cevap B şıkkıdır."
     },
     {
-        "SoruID": 3859630,
-        "SoruMetni": "Daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türüne ne ad verilir ?",
-        "A": "Reel zaman",
-        "B": "Kurgusal zaman",
-        "C": "Hayali zaman",
-        "D": "Süjesel zaman",
-        "E": "Algılanan zaman",
-        "DogruCevap": "C",
-        "DersAd": "Görsel Estetik",
-        "Unite": 8,
-        "Somestre": "1",
-        "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:44.358167",
-        "GelYer": 0,
-        "DersId": 0,
-        "OBSDersId": 0,
-        "CevapSira": null,
-        "Aciklama": "Hayali zaman, daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türüdür. Dolayısıyla cevap C şıkkıdır."
-    },
-    {
         "SoruID": 3859631,
-        "SoruMetni": "Filmde geçen bir zaman diliminin, öznel çekimlerle ya da kurgu yoluyla gerçek zamana göre kısaltılması veya uzatılmasına ne denilir ?",
+        "SoruMetni": "Filmde geçen bir zaman diliminin, öznel çekimlerle ya da kurgu yoluyla gerçek zamana göre kısaltılması veya uzatılmasına ne denilir ?",
         "A": "Reel zaman",
         "B": "Hayali zaman",
         "C": "Süjesel zaman",
@@ -2561,7 +2841,7 @@
     },
     {
         "SoruID": 3859632,
-        "SoruMetni": "Sinemanın kendine özgü özellikleri dikkate alındığında zamana ilişkin farklı bir<br/>kategorizasyonu daha gerektirdiği görülmektedir. Zamanı bu çerçevede kaç başlık altında incelemek mümkün olmaktadır ?",
+        "SoruMetni": "Sinemanın kendine özgü özellikleri dikkate alındığında zamana ilişkin farklı bir<br/>kategorizasyonu daha gerektirdiği görülmektedir. Zamanı bu çerçevede kaç başlık altında incelemek mümkün olmaktadır ?",
         "A": "5",
         "B": "2",
         "C": "3",

@@ -9,14 +9,15 @@
         "E": "Fütürizm",
         "DogruCevap": "C",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 311831,
@@ -28,14 +29,15 @@
         "E": "Romantizm",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 311832,
@@ -47,14 +49,15 @@
         "E": "Konstrüktivizm",
         "DogruCevap": "D",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 311833,
@@ -66,18 +69,19 @@
         "E": "Sürrealizm",
         "DogruCevap": "E",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 311834,
-        "SoruMetni": "“Büyük Cam” olarak da bilinen yapıtı “Bekârları Tarafından Çırılçıplak Soyulan Gelin”i cam kullanarak mekânla bütünleştirmenin ötesine geçirerek akıp giden zamanın içine de dâhil etmiştir.<br/> <br/><strong>Yukarıda tanıtılan yapıt kime aittir?</strong>",
+        "SoruMetni": "“Büyük Cam” olarak da bilinen yapıtı “Bekârları Tarafından Çırılçıplak Soyulan Gelin”i cam kullanarak mekânla bütünleştirmenin ötesine geçirerek akıp giden zamanın içine de dâhil etmiştir.<br/><strong>Yukarıda tanıtılan yapıt kime aittir?</strong>",
         "A": "Marcel Duchamp",
         "B": "Kazimir Maleviç",
         "C": "Vassily Kandisky",
@@ -85,14 +89,15 @@
         "E": "Mikhail Matiushin",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 311836,
@@ -111,7 +116,8 @@
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 311837,
@@ -123,14 +129,15 @@
         "E": "Soyut Sanat",
         "DogruCevap": "D",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 314863,
@@ -149,11 +156,12 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 314864,
-        "SoruMetni": "“Uzak Doğu uygarlıklarında ……………………. varlık algısının temeli olarak tanımlanır.”<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "“Uzak Doğu uygarlıklarında ……………………. varlık algısının temeli olarak tanımlanır.”<br/><strong>Cümlede boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?</strong>",
         "A": "Hiçlik ve Boşluk",
         "B": "Geometri",
         "C": "Şekil ve Konum",
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314865,
@@ -187,11 +196,12 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 314866,
-        "SoruMetni": "<strong>\"Boşluk, içinde hiçbir duyulur cismin bulunmadığı aralık, ara nesnedir.\" görüşünü ortaya atan düşünür aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>\"Boşluk, içinde hiçbir duyulur cismin bulunmadığı aralık, ara nesnedir.\" görüşünü ortaya atan düşünür aşağıdakilerden hangisidir?</strong>",
         "A": "Farabi",
         "B": "İbni Sina",
         "C": "Aristo",
@@ -199,14 +209,15 @@
         "E": "Pisagor",
         "DogruCevap": "C",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 314867,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 314868,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314869,
@@ -256,18 +269,19 @@
         "E": "Umberto Boccinoni",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 314870,
-        "SoruMetni": "…………………… heykel mimariden tamamen bağımsızlaşarak etrafında dolaşılarak her açıdan algılanan kendi başına anlam yüklenen bir sanat dalına dönüşmüştür.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "…………………… heykel mimariden tamamen bağımsızlaşarak etrafında dolaşılarak her açıdan algılanan kendi başına anlam yüklenen bir sanat dalına dönüşmüştür.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Rönesans’ta",
         "B": "Gotik’te",
         "C": "Barok'ta",
@@ -275,14 +289,15 @@
         "E": "Orta Çağ’da",
         "DogruCevap": "C",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 314871,
@@ -294,14 +309,15 @@
         "E": "Umberto Boccinoni",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 314872,
@@ -320,7 +336,8 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 340869,
@@ -332,18 +349,19 @@
         "E": "Descartes",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 343867,
-        "SoruMetni": "……………düşünürleri boşluğu fiziksel bir zemin üzerinden ele alırken, ………………. boşluk kavramını daha tasavvufî (içsel) açıdan ele almışlardır.<br/> <br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "……………düşünürleri boşluğu fiziksel bir zemin üzerinden ele alırken, ………………. boşluk kavramını daha tasavvufî (içsel) açıdan ele almışlardır.<br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "İslam – Batı rasyonalist düşünürleri",
         "B": "Batı rasyonalist - İslam filozofları",
         "C": "Antik çağ – İslam filozofları",
@@ -351,14 +369,15 @@
         "E": "Antik çağ - Batı rasyonalist düşünürleri",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 343870,
@@ -370,13 +389,14 @@
         "E": "Üç boyutludur.",
         "DogruCevap": "E",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     }
 ]

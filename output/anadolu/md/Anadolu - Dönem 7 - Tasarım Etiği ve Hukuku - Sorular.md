@@ -8,7 +8,8 @@
     - D-) Felsefe
     - E-) Hukuk
 
-    > **Açıklama:** Etik olgusu; değer ve değerler, erdem, ahlak, felsefe ve hukuk olgularından bağımsız ele alınamaz. Bu nedenle felsefenin bir alt dalı olarak ele alınan etik kavramının, kendisiyle herhangi bir anlamsal ya da neden sonuç ilişkisi içinde olmayan "mülkiyet" kavramıyla ilintisi bulunmamamaktadır.
+    > **Açıklama:** Doğru yanıt için "Etik ve İlişkili Kavramlar" başlığı okunabilir.
+    > Etik olgusu; değer ve değerler, erdem, ahlak, felsefe ve hukuk olgularından bağımsız ele alınamaz. Bu nedenle felsefenin bir alt dalı olarak ele alınan etik kavramının, kendisiyle herhangi bir anlamsal ya da neden sonuç ilişkisi içinde olmayan "mülkiyet" kavramıyla ilintisi bulunmamamaktadır.
 
     ***
 1. Aşağıdakilerden hangisi profesyonel değerlerden birini oluşturmaz?
@@ -18,7 +19,8 @@
     - D-) İnsan onurunu korumak
     - E-) Gizliliği korumak
 
-    > **Açıklama:** Kişinin davranışları ile ilgili olan kişisel değerler, kişinin tüm inanç, tutum ve eylemlerini belirlemekle beraber davranışları için yol gösterici olmaktadırlar. Barışçıl olmak, güvenilir olmak, **kendine hâkim ve ölçülü olmak**, insan ilişkilerinde nazik ve düşünceli olmak, doğa ile ilişkilerde dikkatli ve sorumluluk içinde olmak, dürüst olmak, inançlara saygılı olmak, güvenilir olmak, iyi kalpli olmak, adil olmak bunlar arasında yer alır. Dolayısıyla profesyonel değerlerler arasında kendine hakim ve ölçülü olmak yer almamaktadır. Profesyonel değerler; kişisel değerlerin yansıması ile oluşmakta ve mesleki etik değerlerden köken almaktadır. Meslekte yeterli olmak, insan onurunu korumak, mesleki bağlılık, gizliliği korumak ise profesyonel
+    > **Açıklama:** Doğru yanıt için "Değer ve değerler" alt başlığını okuyabilirsiniz.
+    > Kişinin davranışları ile ilgili olan kişisel değerler, kişinin tüm inanç, tutum ve eylemlerini belirlemekle beraber davranışları için yol gösterici olmaktadırlar. Barışçıl olmak, güvenilir olmak, **kendine hâkim ve ölçülü olmak**, insan ilişkilerinde nazik ve düşünceli olmak, doğa ile ilişkilerde dikkatli ve sorumluluk içinde olmak, dürüst olmak, inançlara saygılı olmak, güvenilir olmak, iyi kalpli olmak, adil olmak bunlar arasında yer alır. Dolayısıyla profesyonel değerlerler arasında kendine hakim ve ölçülü olmak yer almamaktadır. Profesyonel değerler; kişisel değerlerin yansıması ile oluşmakta ve mesleki etik değerlerden köken almaktadır. Meslekte yeterli olmak, insan onurunu korumak, mesleki bağlılık, gizliliği korumak ise profesyonel
     > değerler arasında sıralanmaktadır.
 
     ***
@@ -29,7 +31,8 @@
     - D-) Değer
     - E-) Erdem
 
-    > **Açıklama:** En genel anlamıyla “bilgi sevgisi” demek olan felsefe, Antikçağda bilgiyi sevmek ve aramak olarak nitelendiriliyordu. Felsefe, *“insanın evrenle ilişkisini kavramsal olarak açıklayan sistematik, bilimsel bilgidir”* olarak tanımlanan felsefeyi bilgi arayışı ve bilgiye ulaşma serüvenini içeren bir yolculuk süreci olarak nitelendirmek de mümkündür. Bu çerçevede evrene, insana, doğaya ve yaşama ilişkin hakikat arayışı felsefenin kapsamını şekillendirmektedir.
+    > **Açıklama:** Sorunun doğru yanıtı için "Felsefe" alt başlığını okuyabilirsiniz.
+    > En genel anlamıyla “bilgi sevgisi” demek olan felsefe, Antikçağda bilgiyi sevmek ve aramak olarak nitelendiriliyordu. Felsefe, *“insanın evrenle ilişkisini kavramsal olarak açıklayan sistematik, bilimsel bilgidir”* olarak tanımlanan felsefeyi bilgi arayışı ve bilgiye ulaşma serüvenini içeren bir yolculuk süreci olarak nitelendirmek de mümkündür. Bu çerçevede evrene, insana, doğaya ve yaşama ilişkin hakikat arayışı felsefenin kapsamını şekillendirmektedir.
 
     ***
 1. Aşağıdakilerden hangisi, en önemli toplumsal düzen kuralları olarak nitelendirilmektedir?
@@ -39,7 +42,8 @@
     - **Cevap D-) Hukuk**
     - E-) Görgü
 
-    > **Açıklama:** Toplumu düzenleyen ve devletin yaptırım gücünü belirleyen yasaların bütünü” olarak tanımlanan hukuk kuralları bu kapsam etki gücü sayesinde en önemli sosyal düzen kuralları olarak görülmektedir.
+    > **Açıklama:** Sorunun doğru yanıtı için "Etikle İlişkili Kavramlar / Hukuk" başlığını okuyabilirsiniz.
+    > Toplumu düzenleyen ve devletin yaptırım gücünü belirleyen yasaların bütünü” olarak tanımlanan hukuk kuralları bu kapsam etki gücü sayesinde en önemli sosyal düzen kuralları olarak görülmektedir.
 
     ***
 1. Aşağıdakilerden hangisi etik ve ahlak kavramları arasında yapılan karşılaştırma için söylenebilir?
@@ -49,7 +53,8 @@
     - D-) Etiğin, değerler arasında bir hiyerarşi belirlemesine karşın ahlakın böyle hiyerarşik ilişkilenme kurmadığı
     - **Cevap E-) Etiğin birincil olarak bilmekle ilgili iken, ahlakın yapmakla ilgili olduğu**
 
-    > **Açıklama:** Toplumun benimsediği değer normları olan ahlak, değerler arasında bir hiyerarşi belirler. Neyin değer olduğunu belirlemeye çalışan etik ise değerler arasında bir hiyerarşi kurmaz. Etik değerler, evrensel olup dünyanın her yerinde geçerli değerler olarak kabul görürler. Dünyanın hemen her yerinde etik değerler ortaktır ve kişiler arasında da farklılık göstermez. Buna karşın ahlak ise her toplumda değişebilecek gelenekler, alışkanlıklar, töreler, örf-adetler, tabular, yaşam biçimi gibi tutum ve davranışlar, ahlaki değerlerimizi şekillendirmektedir. **Etik birincil olarak bilmekle ilgili iken, ahlak yapmakla ilgilidir.** Ahlak kuralları toplumsal, etik ilkeler ise evrenseldir. Etik ahlakı kapsar ve inceler. Ahlaki kurallar özneldir, etik ilkeler nesneldir. Ahlaki kurallar özneldir, etik ilkeler ise nesnel ve rasyoneldir. Etik ahlaka göre daha geniş kapsamlıdır.
+    > **Açıklama:** Sorunun doğru yanıtı için "Etik İle Ahlak Arasındaki Farklılıklar" başlığını okuyabilirsiniz.
+    > Toplumun benimsediği değer normları olan ahlak, değerler arasında bir hiyerarşi belirler. Neyin değer olduğunu belirlemeye çalışan etik ise değerler arasında bir hiyerarşi kurmaz. Etik değerler, evrensel olup dünyanın her yerinde geçerli değerler olarak kabul görürler. Dünyanın hemen her yerinde etik değerler ortaktır ve kişiler arasında da farklılık göstermez. Buna karşın ahlak ise her toplumda değişebilecek gelenekler, alışkanlıklar, töreler, örf-adetler, tabular, yaşam biçimi gibi tutum ve davranışlar, ahlaki değerlerimizi şekillendirmektedir. **Etik birincil olarak bilmekle ilgili iken, ahlak yapmakla ilgilidir.** Ahlak kuralları toplumsal, etik ilkeler ise evrenseldir. Etik ahlakı kapsar ve inceler. Ahlaki kurallar özneldir, etik ilkeler nesneldir. Ahlaki kurallar özneldir, etik ilkeler ise nesnel ve rasyoneldir. Etik ahlaka göre daha geniş kapsamlıdır.
 
     ***
 1. Aşağıdakilerden hangisi, ahlak ve hukuk arasında ortaklaşan esaslardan biri olarak söylenemez?
@@ -59,17 +64,19 @@
     - D-) Her ikisinin de dayandığı ilkeler bakımından normatiflik özelliği göstermesi
     - E-) Her ikisinin de tarihsel süreç içinde değişkenlik göstermesi
 
-    > **Açıklama:** Ahlak ile hukuk arasında ortaklıklar bulunmaktadır. Ortaklıklar arasında her ikisinin de insanların birbiri ile yaşamalarındaki zorunluluğun bir sonucu olarak oluşan toplumsal yaşam içerisinde var olmaları sayılabilir. Her ikisi de kurallar bütünü olarak değerlendirilmektedir. Her ikisi de dayandıkları ilkeler bakımından normatiftir. Her ikisi de tarihsel süreç içinde değişebilirlik özelliğine sahiptir. **Ahlak kurallarının ihlali karşısındaki yaptırım, ayıplama, kınama, gruptan dışlanma gibi tepkiler iken; hukuk kurallarına aykırı davranışların devlet tarafından somut ve maddi yaptırımları vardır. Diğer bir deyişle hukuk kuralları devlet gücü ile sağlanmış yaptırımlardır.**
+    > **Açıklama:** Sorunun doğru yanıtı için "Etik, Ahlak ve Hukuk Arasındaki İlişki" başlığı okunabilir.
+    > Ahlak ile hukuk arasında ortaklıklar bulunmaktadır. Ortaklıklar arasında her ikisinin de insanların birbiri ile yaşamalarındaki zorunluluğun bir sonucu olarak oluşan toplumsal yaşam içerisinde var olmaları sayılabilir. Her ikisi de kurallar bütünü olarak değerlendirilmektedir. Her ikisi de dayandıkları ilkeler bakımından normatiftir. Her ikisi de tarihsel süreç içinde değişebilirlik özelliğine sahiptir. **Ahlak kurallarının ihlali karşısındaki yaptırım, ayıplama, kınama, gruptan dışlanma gibi tepkiler iken; hukuk kurallarına aykırı davranışların devlet tarafından somut ve maddi yaptırımları vardır. Diğer bir deyişle hukuk kuralları devlet gücü ile sağlanmış yaptırımlardır.**
 
     ***
 1. Aşağıdakilerden hangisi, etik ile hukuk arasındaki ortak özelliklerden biridir?
     - A-) Her ikisinin de ülkeden ülkeye değişiklik gösterme özelliğinin bulunması
-    - **Cevap B-) Her ikisinin de kabul edilmeyen insan davranışları için yaptırım öngörmesi**
+    - **Cevap B-) Her ikisinin de kabul edilmeyen insan davranışları için yaptırım öngörmesi**
     - C-) Her ikisinin de her zaman birbiriyle örtüşmesi
     - D-) Her ikisinin de yazılılık özelliğine sahip olması
     - E-) Her ikisinin de zamanla değişime uğrayabilmesi
 
-    > **Açıklama:** Etik, zaman zaman hukuk ile yakından ilişkilidir. Her iki alan da insanların davranış normları ile ilgilenmektedir. Her ikisi de kendine özgü yöntemlerle kabul edilmeyen insan davranışlarına yaptırımlar getirmektedir. A, C, D ve E şıklarındaki saptamalar etik ilkeler ile hukuk kurallarının ayrıştığı özelliklere işaret etmektedir.
+    > **Açıklama:** Sorunun doğru yanıtı için "Etik, Ahlak ve Hukuk Arasındaki İlişki" konu başlığı okunabilir.
+    > Etik, zaman zaman hukuk ile yakından ilişkilidir. Her iki alan da insanların davranış normları ile ilgilenmektedir. Her ikisi de kendine özgü yöntemlerle kabul edilmeyen insan davranışlarına yaptırımlar getirmektedir. A, C, D ve E şıklarındaki saptamalar etik ilkeler ile hukuk kurallarının ayrıştığı özelliklere işaret etmektedir.
 
     ***
 1. Aşağıdakilerden hangisi, etik sorunlardan biri olarak kabul edilmektedir?
@@ -79,7 +86,8 @@
     - D-) Etik kod
     - E-) Etik kararlılık
 
-    > **Açıklama:** Bir kişinin etik değerler, dinsel inanışlar, ideolojik bağlılıklar gibi çeşitli unsurlar nedeniyle yasal olarak kendisine yüklenmiş bir zorunluluğu ya da bir görevi yerine getirmekten kaçınmasını ifade için kullanılan vicdani ret, bir etik sorun olarak kabul edilmektedir.
+    > **Açıklama:** Sorunun doğru yanıtı için "Etik Sorunlar" konu başlığını okuyabilirsiniz.
+    > Bir kişinin etik değerler, dinsel inanışlar, ideolojik bağlılıklar gibi çeşitli unsurlar nedeniyle yasal olarak kendisine yüklenmiş bir zorunluluğu ya da bir görevi yerine getirmekten kaçınmasını ifade için kullanılan vicdani ret, bir etik sorun olarak kabul edilmektedir.
 
     ***
 1. Aşağıdakilerden hangisi, etik karar verme basamaklarından biri değildir?
@@ -89,7 +97,8 @@
     - **Cevap D-) Sonuçları peşinen kabul etme**
     - E-) Eyleme karar verme
 
-    > **Açıklama:** Etik karar verme, “birbiriyle çelişen seçeneklerin olduğu durumda ahlaki açıdan en doğru eyleme karar verilmesi gereken süreçtir” . Etik karar verme basamakları:
+    > **Açıklama:** Sorunun doğru yanıtı için "Etik Kuram, Etik İlke, Etik Kod ve Etik Değerlendirme" konu başlığı okunabilir.
+    > Etik karar verme, “birbiriyle çelişen seçeneklerin olduğu durumda ahlaki açıdan en doğru eyleme karar verilmesi gereken süreçtir” . Etik karar verme basamakları:
     > • Problemi (sorunu) tanımlama
     > • Etik yönden inceleme/değerlendirme
     > • Seçenekleri belirleme
@@ -105,7 +114,8 @@
     - D-) Meslek üyelerinin herhangi bir disiplin uygulamasından korumak
     - **Cevap E-) Bilim ve tekniğin açık bıraktığı güdüleme boşluğunu kapatmak**
 
-    > **Açıklama:** **Meslek etiği, bilim ve tekniğin açık bıraktığı güdüleme boşluğunu kapatmaya çalışır.** Çünkü bilim ve teknik kendi bilgilerinin kullanımında, kendilerinden yola çıkarak, neyin iyi ve doğru olduğunu ortaya koyamaz. Meslek etiği, “belirli bir meslek grubunun, mesleğe ilişkin faaliyetlerini sürdürürken ahlaki ve mesleki ilkelere göre hareket etme disiplini” olarak tanımlanabilir. Meslek etiği, “meslek üyelerine uymaları gereken ilkeleri gösteren, onları belli bir şekilde davranmaya zorlayan, yetersiz ve ilkesiz üyeleri meslekten dışlayan; meslek içi rekabeti düzenleyen ve hizmet standartlarını korumayı amaçlayan mesleki ilkeler bütünü” olarak da tanımlanmaktadır. Meslek etiği, bir mesleğe mensup bireyin hem kendini hem de mesleğini korumak, geliştirmek ve değerli kılmak adına oluşturulmuştur. Meslek etiği, kişisel davranışlara ve çıkarlara bir sınır çizer. Böylelikle iş ve meslek hayatındaki tüm ilişkiler belirli bir etik anlayış çerçevesinde yürütülür.
+    > **Açıklama:** Sorunun doğru yanıtı için "Meslek ve Meslek Etiği Kavramı" konu başlığı okunabilir.
+    > **Meslek etiği, bilim ve tekniğin açık bıraktığı güdüleme boşluğunu kapatmaya çalışır.** Çünkü bilim ve teknik kendi bilgilerinin kullanımında, kendilerinden yola çıkarak, neyin iyi ve doğru olduğunu ortaya koyamaz. Meslek etiği, “belirli bir meslek grubunun, mesleğe ilişkin faaliyetlerini sürdürürken ahlaki ve mesleki ilkelere göre hareket etme disiplini” olarak tanımlanabilir. Meslek etiği, “meslek üyelerine uymaları gereken ilkeleri gösteren, onları belli bir şekilde davranmaya zorlayan, yetersiz ve ilkesiz üyeleri meslekten dışlayan; meslek içi rekabeti düzenleyen ve hizmet standartlarını korumayı amaçlayan mesleki ilkeler bütünü” olarak da tanımlanmaktadır. Meslek etiği, bir mesleğe mensup bireyin hem kendini hem de mesleğini korumak, geliştirmek ve değerli kılmak adına oluşturulmuştur. Meslek etiği, kişisel davranışlara ve çıkarlara bir sınır çizer. Böylelikle iş ve meslek hayatındaki tüm ilişkiler belirli bir etik anlayış çerçevesinde yürütülür.
 
     ***
 1. Etik olgusu; hangi olgularından bağımsız ele alınamaz?
@@ -131,7 +141,7 @@
     ***
 1. Türk Dil Kurumu Türkçe Sözlük’e göre hukuk, nasıl tanımlanmaktadır?
     - A-) “toplumu düzenleyen ve insanların yaptırım gücünü belirleyen yasaların bütünü” olarak tanımlanmaktadır.
-    - B-) “doğayı düzenleyen ve devletin  gücünü belirleyen yasaların bütünü” olarak tanımlanmaktadır.
+    - B-) “doğayı düzenleyen ve devletin gücünü belirleyen yasaların bütünü” olarak tanımlanmaktadır.
     - **Cevap C-) “toplumu düzenleyen ve devletin yaptırım gücünü belirleyen yasaların bütünü” olarak tanımlanmaktadır.**
     - D-) “devletin yaptırım gücünü belirleyen belirli yasalar” olarak tanımlanmaktadır.
     - E-) “toplumu yönlendiren ve devletin yapıcı gücünü belirleyen bir kısım yasalar” olarak tanımlanmaktadır.
@@ -191,7 +201,7 @@
     > **Açıklama:** Meslek üyelerinin bazı yükümlülükleri bulunmaktadır: mesleki yetenek, mesleki yetkinlik, meslek onuru en önemli yükümlülükler arasında yer almaktadır
 
     ***
-1. "......., bir mesleğe mensup bireyin hem kendini hem de mesleğini korumak, geliştirmek ve değerli kılmak adına oluşturulmuştur." Cümlesindeki boşluğa aşağıdaki seçeneklerden hangisi gelmelidir?
+1. "......., bir mesleğe mensup bireyin hem kendini hem de mesleğini korumak, geliştirmek ve değerli kılmak adına oluşturulmuştur." Cümlesindeki boşluğa aşağıdaki seçeneklerden hangisi gelmelidir?
     - A-) Mesleki davranış,
     - B-) Meslek üyesi,
     - C-) Mesleki kararlılık,
@@ -202,11 +212,11 @@
 
     ***
 1. Kamu Görevlileri Etik Davranış ve İlkeleri, Resmî Gazete’de hangi tarih ve sayı ile bir yönetmelik hâlinde yayınlanıp yürürlüğe konmuştur?
-    - A-) 18.02.2005 tarih ve 5785 sayı ile,
-    - **Cevap B-) 13.04.2005 tarih ve 25785 sayı ile,**
-    - C-) 13.04.2012 tarih ve 25234 sayı ile,
-    - D-) 25.04.2002 tarih ve34785 sayı ile,
-    - E-) 13.02.2005 tarih ve 25345 sayı ile,
+    - A-) 18\.02.2005 tarih ve 5785 sayı ile,
+    - **Cevap B-) 13\.04.2005 tarih ve 25785 sayı ile,**
+    - C-) 13\.04.2012 tarih ve 25234 sayı ile,
+    - D-) 25\.04.2002 tarih ve34785 sayı ile,
+    - E-) 13\.02.2005 tarih ve 25345 sayı ile,
 
     > **Açıklama:** Kamu Görevlileri Etik Davranış ve İlkeleri,13.04.2005 tarih ve 25785 sayılı Resmî Gazete’de bir yönetmelik hâlinde yayınlanıp yürürlüğe konmuştur
 
@@ -353,7 +363,8 @@
     - D-) İdealar
     - E-) Matematik
 
-    > **Açıklama:** Öncelikle şu konuyu belirtelim ki sanatı içinde bulunduğu koşullardan bağımsız düşünmek mümkün değildir. Dönemlere göre işlev ve temsil ettiği değerler değişmiştir. Bulunduğu çağda sanat olarak algılanmayan birçok şeyi bugün sa­nat olarak tanımlanabilmektedir. Nitekim müzelerde sergilenen eski kültürlerin kullanım nesneleri, **enstalasyonlar** ya da performans sanatları, Land art gibi… Buna karşılık önceden sanat olarak kabul edilen bazı şeyler de bugün sanat olarak kabul edilmemektedir örneğin ortaçağa kadar matematik biliminin bazı konuları özgür sanat olarak anılması gibi... Tarihi süreç içinde toplumsal ve teknolojik gelişmeler sonucunda bugün hâlâ bazı sanat dalları tartışsak da yeni sanat dalları ortaya çıkmıştır örneğin medya sanatları vb… Bu durumda “B” şıkkı olarak görülmektedir.
+    > **Açıklama:** Eğer doğru yanıt verilemediyse, kılavuz kitabımızın **“**Sanat Nedir” bölümünü (sayfa 26) tekrar gözden geçiriniz.
+    > Öncelikle şu konuyu belirtelim ki sanatı içinde bulunduğu koşullardan bağımsız düşünmek mümkün değildir. Dönemlere göre işlev ve temsil ettiği değerler değişmiştir. Bulunduğu çağda sanat olarak algılanmayan birçok şeyi bugün sa­nat olarak tanımlanabilmektedir. Nitekim müzelerde sergilenen eski kültürlerin kullanım nesneleri, **enstalasyonlar** ya da performans sanatları, Land art gibi… Buna karşılık önceden sanat olarak kabul edilen bazı şeyler de bugün sanat olarak kabul edilmemektedir örneğin ortaçağa kadar matematik biliminin bazı konuları özgür sanat olarak anılması gibi... Tarihi süreç içinde toplumsal ve teknolojik gelişmeler sonucunda bugün hâlâ bazı sanat dalları tartışsak da yeni sanat dalları ortaya çıkmıştır örneğin medya sanatları vb… Bu durumda “B” şıkkı olarak görülmektedir.
 
     ***
 1. Aşağıdakilerden antikçağ okul ve eğitim dünyasında yedi özgür sanat ya da yedi liberal sanattan biri **değildir?**
@@ -363,7 +374,8 @@
     - D-) Gökbilim
     - **Cevap E-) Enstalasyon**
 
-    > **Açıklama:** Konuyla ilgili bölüm dikkatlice gözden geçirildiğinde, Yedi özgür sanat ya da yedi liberal sanatın antikçağ okul ve eğitim dünyasında gramer, mantık, retorik, geometri, aritmetik, müzik, gökbilim olduğu görülür. Bu noktadan bakıldığında çeldiricilerden hareketle yanıtın “E” şıkkı olduğu kolayca görülür.
+    > **Açıklama:** Eğer doğru yanıt verilemediyse, kılavuz kitabımızın Sanat Nedir” bölümünü (sayfa 27) tekrar gözden geçiriniz.
+    > Konuyla ilgili bölüm dikkatlice gözden geçirildiğinde, Yedi özgür sanat ya da yedi liberal sanatın antikçağ okul ve eğitim dünyasında gramer, mantık, retorik, geometri, aritmetik, müzik, gökbilim olduğu görülür. Bu noktadan bakıldığında çeldiricilerden hareketle yanıtın “E” şıkkı olduğu kolayca görülür.
 
     ***
 1. I. Tiyatro<br />II. Masal<br />III. Radyo oyunu<br />IV. Edebiyat<br />V. Destan<br />VI. Çizgi roman<br />Yukarıda verilenlere göre aşağıdakilerden hangisinde kavramsal sanatlar **en doğru ve kapsamlı** biçimde ifade edilmektedir?
@@ -373,7 +385,8 @@
     - **Cevap D-) II, III IV ve V**
     - E-) II, III, IV ve VI
 
-    > **Açıklama:** Sorunun yanıtının verilmesi için  Sanatın Türleri ve Sınıflandırılması orta başlığında sayfa 28’deki Tablo 2.1’de verilen bilgiler gözden geçirildiğinde kavramsal sanatların masal, radyo oyunu, edebiyat, destan olduğu görülmektedir. Bu durumda “D” şıkkı doğru yanıt olmaktadır
+    > **Açıklama:** Eğer doğru yanıt verilemediyse, kılavuz kitabımızın Sanatın Türleri ve Sınıflandırılması (sayfa 27) orta başlığının altında özellikle sayfa 28’i gözden geçiriniz.
+    > Sorunun yanıtının verilmesi için Sanatın Türleri ve Sınıflandırılması orta başlığında sayfa 28’deki Tablo 2.1’de verilen bilgiler gözden geçirildiğinde kavramsal sanatların masal, radyo oyunu, edebiyat, destan olduğu görülmektedir. Bu durumda “D” şıkkı doğru yanıt olmaktadır
 
     ***
 1. I. Masal<br />II. Fotoğraf<br />III. Seramik<br />IV. Rölyef<br />V. Edebiyat<br />VI. Enstalasyon<br />Yukarıda verilenlere göre aşağıdakilerden hangisinde algısal sanatlar en doğru ve kapsamlı biçimde ifade edilmektedir?
@@ -383,17 +396,19 @@
     - D-) II, III IV ve V
     - **Cevap E-) II, III, IV ve VI**
 
-    > **Açıklama:** Sorunun yanıtının verilmesi için  Sanatın Türleri ve Sınıflandırılması orta başlığında sayfa 28’deki Tablo 2.1’de verilen bilgiler gözden geçirildiğinde algısal sanatların heykel, seramik, resim, fotoğraf, rölyef, hat, grafik, mimarlık ve enstalasyon olduğu görülmektedir. Bu durumda “E” şıkkı doğru yanıt olmaktadır.
+    > **Açıklama:** Eğer doğru yanıt verilemediyse, kılavuz kitabımızın Sanatın Türleri ve Sınıflandırılması (sayfa 27) orta başlığının altında özellikle sayfa 28’i gözden geçiriniz.
+    > Sorunun yanıtının verilmesi için Sanatın Türleri ve Sınıflandırılması orta başlığında sayfa 28’deki Tablo 2.1’de verilen bilgiler gözden geçirildiğinde algısal sanatların heykel, seramik, resim, fotoğraf, rölyef, hat, grafik, mimarlık ve enstalasyon olduğu görülmektedir. Bu durumda “E” şıkkı doğru yanıt olmaktadır.
 
     ***
-1. Özgün yaratım için gerekli olan koşullar iki gruba ayırılmaktadır, bunlardan birincisi dış koşul­lar ki bunlar;  \_\_\_\_\_\_\_\_\_\_\_\_, sanatçının bağlı olduğu etik ilkeler ve \_\_\_\_\_\_\_\_\_. İkincisi ise iç koşullar­dır ki bunlar ise \_\_\_\_\_\_\_ , \_\_\_\_\_\_\_ ve özdür.<br />Yukarıda verilen tümcede boş bırakılan yerlere özgün yaratım için gerekli olan iç ve dış koşullara ilişkin ögeler en doğru biçimde aşağıdakilerden hangisinde tamamlanmaktadır?
+1. Özgün yaratım için gerekli olan koşullar iki gruba ayırılmaktadır, bunlardan birincisi dış koşul­lar ki bunlar; \_\_\_\_\_\_\_\_\_\_\_\_, sanatçının bağlı olduğu etik ilkeler ve \_\_\_\_\_\_\_\_\_. İkincisi ise iç koşullar­dır ki bunlar ise \_\_\_\_\_\_\_ , \_\_\_\_\_\_\_ ve özdür.<br />Yukarıda verilen tümcede boş bırakılan yerlere özgün yaratım için gerekli olan iç ve dış koşullara ilişkin ögeler en doğru biçimde aşağıdakilerden hangisinde tamamlanmaktadır?
     - A-) topluluk / özne / biçim / içerik
     - B-) konu – biçim / içerik / sosyo-kültürel ortam/ konu
     - **Cevap C-) sosyo-kültürel ortam/ konu – biçim/ içerik**
     - D-) kültür / özne / biçim / içerik
     - E-) kişisel gelişim / konu/ topluluk/ içerik
 
-    > **Açıklama:** Sorunun yanıtının verilmesi için Sanatın Temel Bileşenleri ve Aktörleri orta başlığında sayfa 31’deki bilgiler gözden geçirildiğinde özgün yaratım için gerekli olan koşulları genel olarak iki gruba ayırılmaktadır. Bunlardan birincisi dış koşullar ki bunlar; sosyo-kültürel ortam, sanatçının bağlı olduğu etik ilkeler ve konudur. İkincisi ise iç koşullardır ki bunlar ise biçim, içerik ve öz olduğu görülmektedir. Bu noktadan bakıldığında sorunun yanıtına ilişkin verilen çeldiriciler içinden “C” şıkkının yanıt olduğu görülmektedir.
+    > **Açıklama:** Eğer doğru yanıt verilemediyse, kılavuz kitabımızın Sanatın Temel Bileşenleri ve Aktörleri (sayfa 31) bölümünü yeniden çalışıp gözden geçiriniz.
+    > Sorunun yanıtının verilmesi için Sanatın Temel Bileşenleri ve Aktörleri orta başlığında sayfa 31’deki bilgiler gözden geçirildiğinde özgün yaratım için gerekli olan koşulları genel olarak iki gruba ayırılmaktadır. Bunlardan birincisi dış koşullar ki bunlar; sosyo-kültürel ortam, sanatçının bağlı olduğu etik ilkeler ve konudur. İkincisi ise iç koşullardır ki bunlar ise biçim, içerik ve öz olduğu görülmektedir. Bu noktadan bakıldığında sorunun yanıtına ilişkin verilen çeldiriciler içinden “C” şıkkının yanıt olduğu görülmektedir.
 
     ***
 1. Özgün yaratım açısından sanatçının alıcılara vermek istediği mesaj aşağıdaki kavramlardan hangisidir?
@@ -403,7 +418,8 @@
     - D-) Ortam
     - E-) Konu
 
-    > **Açıklama:** Sorunun yanıtının verilmesi için Sanatın Temel Bileşenleri ve Aktörleri orta başlığında sayfa 33’deki bilgiler gözden geçirildiğinde sanatçının, alıcılarına vermek istediği mesajdır. İzleyicide uyandırmak istediği hissiyat, heyecan ve kaygı ve izleyicide izin içerik olarak betimlendiği görülmektedir. Bu noktadan bakıldığında sorunun yanıtına ilişkin verilen çeldiriciler içinden “C” şıkkının yanıt olduğu görülmektedir.
+    > **Açıklama:** Eğer doğru yanıt verilemediyse, kılavuz kitabımızın Sanatın Temel Bileşenleri ve Aktörleri (sayfa 33) bölümünü yeniden çalışıp gözden geçiriniz.
+    > Sorunun yanıtının verilmesi için Sanatın Temel Bileşenleri ve Aktörleri orta başlığında sayfa 33’deki bilgiler gözden geçirildiğinde sanatçının, alıcılarına vermek istediği mesajdır. İzleyicide uyandırmak istediği hissiyat, heyecan ve kaygı ve izleyicide izin içerik olarak betimlendiği görülmektedir. Bu noktadan bakıldığında sorunun yanıtına ilişkin verilen çeldiriciler içinden “C” şıkkının yanıt olduğu görülmektedir.
 
     ***
 1. Aşağıdakilerden hangisinde Bauhaus’un sanayi ve eğitimde iş­birliği idealinden bahsederken ifade ettiği tasarıma yaklaşımını en doğru biçimde ifade edilmektedir?
@@ -413,17 +429,19 @@
     - D-) algıların ve mantığın etkin olduğu bir akıl yürütme süreci
     - E-) yaratıcı çözümler gerektiren karmaşık düşünme etkinliği
 
-    > **Açıklama:** Sorunun yanıtının verilmesi için “Tasarım ve Tasarlama Nedir?” orta başlığında sayfa 38’ ve izleyen kısımlardaki bilgiler gözden geçirildiğinde Bauhaus’un sanayi ve eğitimde iş­birliği idealinden bahsederken ifade ettiği tasarıma yaklaşımını araç ve malzeme arasındaki etkileşim deneyimi olduğu görülecektir. Çeldiricilerde verilen diğer şıklar genel olarak akademisyenlerin yorumları içeren tanımlar olduğu belirgindir. Bu noktadan bakıldığında sorunun yanıtına ilişkin verilen çeldiriciler içinden “C” şıkkının yanıt olduğu görülmektedir.
+    > **Açıklama:** Eğer doğru yanıt verilemediyse, kılavuz kitabımızın “Tasarım ve Tasarlama Nedir?” (sayfa 38) bölümünü yeniden çalışıp gözden geçiriniz.
+    > Sorunun yanıtının verilmesi için “Tasarım ve Tasarlama Nedir?” orta başlığında sayfa 38’ ve izleyen kısımlardaki bilgiler gözden geçirildiğinde Bauhaus’un sanayi ve eğitimde iş­birliği idealinden bahsederken ifade ettiği tasarıma yaklaşımını araç ve malzeme arasındaki etkileşim deneyimi olduğu görülecektir. Çeldiricilerde verilen diğer şıklar genel olarak akademisyenlerin yorumları içeren tanımlar olduğu belirgindir. Bu noktadan bakıldığında sorunun yanıtına ilişkin verilen çeldiriciler içinden “C” şıkkının yanıt olduğu görülmektedir.
 
     ***
-1. İşlevsel ve estetik bir amacı olan otomobili ele alınırsa, aracın teknik kısmını oluş­turan motor, aksam, dinamik yapısı, lastiklerin fiziksel ve kimyasal oluşumu, elektronik aksanı, çip gibi parçaları öngörülebilir, kesin, sistematik ve matematiksel olduğu­nu buna karşılık biçiminin belirsiz, sezgisel, karmaşık bir yapıya sahip ol­duğunu görürüz. Bu anlamda örnek yelpazesini genişletmek mümkündür. Şehir planlama, mimarlık, iç mekân tasarımı, endüstriyel tasarım, grafik tasarım, tekstil vb. bu alanlardaki üretimler hem \_\_\_\_\_\_\_\_\_\_  hem de \_\_\_\_\_\_\_\_\_.<br />Yukarıda verilen paragrafta boş bırakılan yerlere tasarımın boyutları en doğru biçimde aşağıdakilerden hangisinde tamamlanmaktadır?
+1. İşlevsel ve estetik bir amacı olan otomobili ele alınırsa, aracın teknik kısmını oluş­turan motor, aksam, dinamik yapısı, lastiklerin fiziksel ve kimyasal oluşumu, elektronik aksanı, çip gibi parçaları öngörülebilir, kesin, sistematik ve matematiksel olduğu­nu buna karşılık biçiminin belirsiz, sezgisel, karmaşık bir yapıya sahip ol­duğunu görürüz. Bu anlamda örnek yelpazesini genişletmek mümkündür. Şehir planlama, mimarlık, iç mekân tasarımı, endüstriyel tasarım, grafik tasarım, tekstil vb. bu alanlardaki üretimler hem \_\_\_\_\_\_\_\_\_\_ hem de \_\_\_\_\_\_\_\_\_.<br />Yukarıda verilen paragrafta boş bırakılan yerlere tasarımın boyutları en doğru biçimde aşağıdakilerden hangisinde tamamlanmaktadır?
     - A-) dinamik / mimaridir
     - **Cevap B-) matematiksel / sezgiseldir**
     - C-) fiziksel / kimyasaldır
     - D-) kimyasal / duygusaldır
     - E-) dinamik / trigonometriktir
 
-    > **Açıklama:** Sorunun yanıtının verilmesi için “Tasarım ve Tasarlama Nedir?” orta başlığında sayfa 38’ ve izleyen kısımlardaki bilgiler (özellikle sayfa 39) gözden geçirildiğinde ilgili paragrafta tasarımın matematiksel ve sezgisel boyutları ifade edilmektedir. Bu nedenle paragrafın “… Bu anlamda örnek yelpazesini genişletmek mümkündür. Şehir planlama, mimarlık, iç mekân tasarımı, endüstriyel tasarım, grafik tasarım, tekstil vb. bu alanlardaki üretimler hem **matematiksel** hem de **sezgiseldir****.**” Şeklinde oluşturulduğu görülmektedir. Bu noktadan bakıldığında ve dikkatlice izlenildiğinde sorunun yanıtına ilişkin verilen çeldiriciler içinden “B” şıkkının yanıt olduğu görülmektedir.
+    > **Açıklama:** Eğer doğru yanıt verilemediyse, kılavuz kitabımızın “Tasarım ve Tasarlama Nedir?” (sayfa 38) bölümünde özellikle sayfa 39’daki bilgiler yeniden çalışıp gözden geçiriniz.
+    > Sorunun yanıtının verilmesi için “Tasarım ve Tasarlama Nedir?” orta başlığında sayfa 38’ ve izleyen kısımlardaki bilgiler (özellikle sayfa 39) gözden geçirildiğinde ilgili paragrafta tasarımın matematiksel ve sezgisel boyutları ifade edilmektedir. Bu nedenle paragrafın “… Bu anlamda örnek yelpazesini genişletmek mümkündür. Şehir planlama, mimarlık, iç mekân tasarımı, endüstriyel tasarım, grafik tasarım, tekstil vb. bu alanlardaki üretimler hem **matematiksel** hem de **sezgiseldir****.**” Şeklinde oluşturulduğu görülmektedir. Bu noktadan bakıldığında ve dikkatlice izlenildiğinde sorunun yanıtına ilişkin verilen çeldiriciler içinden “B” şıkkının yanıt olduğu görülmektedir.
 
     ***
 1. Tasarımın sürecinin bileşenleri açısından bakıldığında, aşağıdakilerden hangisi biçimsel bileşenlerinden biri **değildir?**
@@ -433,7 +451,8 @@
     - **Cevap D-) metodoloji**
     - E-) form
 
-    > **Açıklama:** Sorunun yanıtının verilmesi için “Tasarım ve Tasarlama Nedir?” orta başlığında sayfa 38’ ve izleyen kısımlardaki bilgiler (özellikle sayfa 44) gözden geçirildiğinde konuyla ilgili olarak tasarımın görsel karakteristiğini; nesnenin biçimi, rengi, dokusu, proporsi­yonu (oranları), ölçeği belirlerken (bunlar nesnenin verilerini oluşturur), denge, Harmoni, Birlik, Ritim ve Vurgu nesnenin estetik anlamda değerini verdiği ifade edilmektedir. Bu açıdan bakıldığında sorunun çeldiricilerinde bulunan doku, renk, ölçü ve form’un biçimsel bileşenlerden olduğu görülmektedir. Metodoloji tasarımın işlevsel bileşenlerinden biridir. Bu nedenle sorunun yanıtının “D” şıkkının olduğu görülmektedir.
+    > **Açıklama:** Eğer doğru yanıt verilemediyse, kılavuz kitabımızın “Tasarım ve Tasarlama Nedir?” (sayfa 38) bölümünde özellikle sayfa 44’deki bilgiler yeniden çalışıp gözden geçiriniz.
+    > Sorunun yanıtının verilmesi için “Tasarım ve Tasarlama Nedir?” orta başlığında sayfa 38’ ve izleyen kısımlardaki bilgiler (özellikle sayfa 44) gözden geçirildiğinde konuyla ilgili olarak tasarımın görsel karakteristiğini; nesnenin biçimi, rengi, dokusu, proporsi­yonu (oranları), ölçeği belirlerken (bunlar nesnenin verilerini oluşturur), denge, Harmoni, Birlik, Ritim ve Vurgu nesnenin estetik anlamda değerini verdiği ifade edilmektedir. Bu açıdan bakıldığında sorunun çeldiricilerinde bulunan doku, renk, ölçü ve form’un biçimsel bileşenlerden olduğu görülmektedir. Metodoloji tasarımın işlevsel bileşenlerinden biridir. Bu nedenle sorunun yanıtının “D” şıkkının olduğu görülmektedir.
 
     ***
 1. Aşağıdakilerden hangisi tasarımın işlevsel bileşenlerinden biri **değildir?**
@@ -443,7 +462,8 @@
     - D-) D) estetik
     - E-) E) birlik
 
-    > **Açıklama:** Sorunun yanıtının verilmesi için “Tasarım ve Tasarlama Nedir?” orta başlığında sayfa 38’ ve izleyen kısımlardaki bilgiler (özellikle sayfa 44) gözden geçirildiğinde konuyla ilgili olarak tasarımın işlevsel bileşenleri *metot*, kullanım, ihtiyaç, tedbirlilik, birlik ve estetik biçiminde sıralanmaktadır. Bu açıdan bakıldığında sorunun çeldiricilerinde bulunan ölçünün tasarımın biçimsel bileşenleri arasında olduğu görülmektedir. Bu nedenle sorunun yanıtının “A” şıkkının olduğu görülmektedir.
+    > **Açıklama:** Eğer doğru yanıt verilemediyse, kılavuz kitabımızın “Tasarım ve Tasarlama Nedir?” (sayfa 38) bölümünde özellikle sayfa 44’deki bilgiler yeniden çalışıp gözden geçiriniz.
+    > Sorunun yanıtının verilmesi için “Tasarım ve Tasarlama Nedir?” orta başlığında sayfa 38’ ve izleyen kısımlardaki bilgiler (özellikle sayfa 44) gözden geçirildiğinde konuyla ilgili olarak tasarımın işlevsel bileşenleri *metot*, kullanım, ihtiyaç, tedbirlilik, birlik ve estetik biçiminde sıralanmaktadır. Bu açıdan bakıldığında sorunun çeldiricilerinde bulunan ölçünün tasarımın biçimsel bileşenleri arasında olduğu görülmektedir. Bu nedenle sorunun yanıtının “A” şıkkının olduğu görülmektedir.
 
     ***
 1. Aşağıdakilerden hangisi iletişim çağında sanata dahil olmuş sanat dallarından biridir?
@@ -484,7 +504,8 @@
     - D-) Enstalasyon
     - **Cevap E-) Rölyef**
 
-    > **Açıklama:** Heykel, Seramik, Mimarlık ve Enstalasyon üç boyutlu görsel sanatlardır. Rölyef ise iki boyutlu görsel sanattır.
+    > **Açıklama:** Tablo 2.1 Sanat dallarının sınıflandırılması
+    > Heykel, Seramik, Mimarlık ve Enstalasyon üç boyutlu görsel sanatlardır. Rölyef ise iki boyutlu görsel sanattır.
 
     ***
 1. Aşağıdakilerden hangisi İşitsel-Görsel-Kavramsal sanat dalına dahil sanatlardan biri değildir?
@@ -494,11 +515,16 @@
     - D-) Dijital video
     - E-) Animasyon
 
-    > **Açıklama:** İŞİTSEL-GÖRSEL-KAVRAMSAL sanatlar başlığı altındaki sanat alanları şunlardır:
+    > **Açıklama:** Tablo 2.1 Sanat dallarının sınıflandırılması
+    > İŞİTSEL-GÖRSEL-KAVRAMSAL sanatlar başlığı altındaki sanat alanları şunlardır:
     > TİYATRO
     > BALE
+    > OPERA
+    > KUKLA
     > SİNEMA
     > ANİMASYON
+    > DİJİTAL
+    > VİDEO
     > Radyo oyunu ise, sözel sanatlar alanında yer alır.
 
     ***
@@ -509,11 +535,12 @@
     - **Cevap D-) İçerik**
     - E-) Öz
 
-    > **Açıklama:** Bu özgün yaratım için gerekli olan koşulları Sıtkı Erinç iki gruba ayırmaktadır, bunlardan birincisi dış koşullar ki bunlar; konu sosyo-kültürel ortam, sanatçının bağlı olduğu etik ilkeler ve konudur. İkincisi ise iç koşullardır ki bunlar ise biçim, içerik ve özdür (Balkır, 20).
+    > **Açıklama:** 31 ve 33. sayfalar
+    > Bu özgün yaratım için gerekli olan koşulları Sıtkı Erinç iki gruba ayırmaktadır, bunlardan birincisi dış koşullar ki bunlar; konu sosyo-kültürel ortam, sanatçının bağlı olduğu etik ilkeler ve konudur. İkincisi ise iç koşullardır ki bunlar ise biçim, içerik ve özdür (Balkır, 20).
     > İçerik, sanatçının, alıcılarına vermek istediği mesajdır. İzleyicide uyandırmak istediği hissiyat, heyecan ve kaygıdır. İzleyicide iz bırakandır.
 
     ***
-1. Özgün yaratım için gerekli koşullardan ve sanatçının etkisinden çok alıcının eserden ne anladığı, nasıl bir çıkarım yaptığıyla ilgili olan kavram aşağıdakilerden hangisidir?
+1. Özgün yaratım için gerekli koşullardan ve sanatçının etkisinden çok alıcının eserden ne anladığı, nasıl bir çıkarım yaptığıyla ilgili olan kavram aşağıdakilerden hangisidir?
     - **Cevap A-) Öz**
     - B-) Biçim
     - C-) İçerik
@@ -577,7 +604,7 @@
     - D-) Müzik
     - **Cevap E-) Edebiyat**
 
-    > **Açıklama:** Yedi özgür sanat (ya da yedi liberal sanat, Lat. septem artes liberales), antikçağ okul ve eğitim dünyasında öğretilen çeşitli bilim ve sanat alanlarını belirtir. Gramer, mantık, retorik, geometri, aritmetik, müzik, gökbilim.
+    > **Açıklama:** Yedi özgür sanat (ya da yedi liberal sanat, Lat. septem artes liberales), antikçağ okul ve eğitim dünyasında öğretilen çeşitli bilim ve sanat alanlarını belirtir. Gramer, mantık, retorik, geometri, aritmetik, müzik, gökbilim.
 
     ***
 1. Aşağıdakilerden hangisi görsel sanatların sınıflandırılmasında iki boyutlu görsel sanat olarak değerlendirilmez?
@@ -680,7 +707,8 @@
     - D-) Coğrafi işaret
     - E-) Geleneksel ürün adı
 
-    > **Açıklama:** Faydalı model
+    > **Açıklama:** Faydalı modeller, patentlere benzer şekilde hak sahiplerinin rızası olmadan başkalarının korunan buluşları ticari olarak kullanmasını önlemek için sınırlı bir münhasır hak vererek yeni teknik buluşları korur. Koruma elde etmek için bir başvuru yapılmalı ve bir faydalı model verilmelidir. Bazen “kısa süreli patentler”, “faydalı yenilikler” veya “yenilik patentleri” olarak da adlandırılırlar. Bir ülkeden diğerine değiştiği için faydalı modeli tanımlamak kolay değildir. Genel olarak faydalı modellerin, mevcut ürünlerde küçük iyileştirmeler ve uyarlamalar yapan
+    > veya kısa bir ticari ömrü olan buluşları korumak için özellikle uygun olduğu düşünülmektedir. Faydalı model sistemleri genellikle yerel mucitler tarafından kullanılır. Tüm bu açıklamalar doğrultusunda cevap C şıkkıdır.
 
     ***
 1. "Bir buluşun patent veya faydalı modelle korunabilmesi için yeni olması gerekir." Bu bilgiye göre "yenilik" kavramı aşağıdakilerden hangisini ifade eder?”
@@ -690,7 +718,8 @@
     - **Cevap D-) Buluşun tekniğin bilinen durumuna dâhil olmamasını ifade eder.**
     - E-) Buluşun sanayiye uygulanabilir olmasını ifade eder.
 
-    > **Açıklama:** Buluşun tekniğin bilinen durumuna dahil olmamasını ifade eder.
+    > **Açıklama:** Ülkemizde SMK 82/1. madde hükmü gereği yeni olan, buluş basamağı içeren ve sanayiye uygulanabilir buluşlara patent verilebilir. Tekniğin bilinen durumuna dâhil olmayan buluşun yeni olduğu kabul edilir (SMK 83/1. m). Bu nedenle cevap D şıkkıdır.
+    > Buluşun tekniğin bilinen durumuna dahil olmamasını ifade eder.
 
     ***
 1. Aşağıdaki konu veya faaliyetlerden hangisi buluş niteliğinde kabul edildiğinden patentlenmesi söz konusudur?
@@ -700,7 +729,9 @@
     - D-) Kuantum teorisi
     - **Cevap E-) Bitkisel mide ilacı**
 
-    > **Açıklama:** Bitkisel mide ilacı
+    > **Açıklama:** Ülkemizde 6769 sayılı Sınai Mülkiyet Kanunu'nun 82/2. madde hükmü gereğince bazı konu ve faaliyetler buluş niteliğinde kabul edilmediğinden, patentlenebilirliğin dışında kalmaktadır.
+    > Bunların başında keşifler gelir. Bilimsel teoriler, örneğin formül gibi matematiksel yöntemler de bu kapsamda yer alır. Bundan başka bilgisayar programları, edebiyat ve sanat eserleri ile bilim eserler de buluş niteliğinde kabul edilmeyen, dolayısıyla patentlenebilirliğin dışında kalan konu ve faaliyetlerdendir. Bu doğrultuda cevap E şıkkıdır.
+    > Bitkisel mide ilacı
 
     ***
 1. 6769 sayılı Sınai Mülkiyet Kanunu'na göre faydalı modelin koruma süresi başvuru tarihinden itibaren kaç yıldır?
@@ -710,7 +741,7 @@
     - D-) 12
     - **Cevap E-) 10**
 
-    > **Açıklama:** 10
+    > **Açıklama:** 6769 sayılı Sınai Mülkiyet Kanunu'nun 101. maddesi uyarınca başvuru tarihinden başlamak üzere patentin koruma süresi 20 yıl iken faydalı modelin koruma süresi 10 yıldır. Bu süreler uzatılamaz. Bu nedenle cevap E şıkkıdır.
 
     ***
 1. "TURKO" sözcüğünden oluşan tıraş köpüğü markası ne tür bir marka örneği teşkil eder?
@@ -720,7 +751,7 @@
     - D-) Ses markası
     - E-) Üç boyutlu marka
 
-    > **Açıklama:** Kelime markası
+    > **Açıklama:** 6769 Sayılı Sınai Mülkiyet Kanunu’nun 4. maddesine göre bir teşebbüsün mallarının veya hizmetlerinin diğer teşebbüslerin mallarından veya hizmetlerinden ayırt edilmesini sağlayan ve marka sahibine sağlanan korumanın konusunun açık ve kesin olarak anlaşılmasını sağlayabilecek şekilde sicilde gösterilebilir olması şartıyla kişi adları dâhil sözcükler, şekiller, renkler, harfler, sayılar, sesler ve malların veya ambalajlarının biçimi olmak üzere her türden işaret marka olabilir. Soruda marka sadece bir sözcükten ibaret olduğu için bu marka bir kelime markası örneğidir. Dolayısıyla cevap B şıkkıdır.
 
     ***
 1. Tescilli bir markanın koruma süresi kaç yıllık dönemler halinde yenilenebilir?
@@ -730,7 +761,8 @@
     - D-) 4
     - E-) 2
 
-    > **Açıklama:** 10
+    > **Açıklama:** Tescilli markanın koruma süresi başvuru tarihinden itibaren on yıldır. İstenirse bu süre, onar yıllık dönemler hâlinde yenilenebilir. Bu nedenle cevap A şıkkıdır.
+    > 10
 
     ***
 1. Aşağıdakilerden hangisi eser sahibinin fikir ve sanat eseri üzerindeki mali haklarından biridir?
@@ -740,7 +772,7 @@
     - D-) Eseri sergileme hakkı
     - E-) Adın belirtilmesi hakkı
 
-    > **Açıklama:** Temsil hakkı
+    > **Açıklama:** Eser sahibinin fikir ve sanat eseri üzerindeki mali hakları şunlardır; işleme hakkı, çoğaltma hakkı, yayma hakkı, temsil hakkı, işaret ses ve/veya görüntü nakline yarayan araçlarla umuma iletim hakkı. Dolayısıyla cevap C şıkkıdır.
 
     ***
 1. Eser sahibine tanınan mali hakların koruma süresi eser sahibinin vefatından itibaren kaç yıl daha devam eder?
@@ -750,7 +782,7 @@
     - D-) 50
     - **Cevap E-) 70**
 
-    > **Açıklama:** 70
+    > **Açıklama:** Eser sahibine tanınan mali hakların korunma süresi eser sahibinin yaşadığı müddetçe devam ederken, bu süre ölümünden itibaren 70 yıl daha devam eder. Bu duğrultuda cevap E şıkkıdır.
 
     ***
 1. Aşağıdaki kavramlardan hangisi eser sahibinin mali ve manevi haklarına zarar vermemek koşuluyla filmlerin ilk tespitini gerçekleştiren film yapımcılarının sahip olduğu hakkı ifade eder?
@@ -760,7 +792,7 @@
     - D-) Komşu hak
     - E-) Münferit hak
 
-    > **Açıklama:** Bağlantılı hak
+    > **Açıklama:** Bağlantılı haklar; eser sahibinin manevi ve mali haklarına zarar vermemek kaydıyla filmlerin ilk tespitini gerçekleştiren film yapımcılarının sahip oldukları haklardır. Dolayısıyla cevap B şıkkıdır.
 
     ***
 1. Tescilsiz tasarımların koruma süresi koruma talep edilen tasarımın kamuya ilk sunulduğu tarihten itibaren kaç yıldır?
@@ -770,7 +802,8 @@
     - D-) 4
     - E-) 5
 
-    > **Açıklama:** 3
+    > **Açıklama:** Tescilsiz tasarımların koruma süresi, koruma talep edilen tasarımın kamuya ilk sunulduğu tarihten itibaren üç yıldır. Cevap C şıkkıdır.
+    > 3
 
     ***
 1. Türkiye’de fikrî mülkiyet haklarının düzenlenmesi hangi kanunlarla yapılmaktadır?
@@ -780,7 +813,18 @@
     - D-) 5846 sayılı Telif Hakları Kanunu ve 6769 sayılı Tasarım Kanunu
     - E-) 6769 sayılı Sanat Eserleri Kanunu ve 5846 sayılı İkinci Mevzuat Kanunu
 
-    > **Açıklama:** 6769 sayılı Sınai Mülkiyet Kanunu ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu
+    > **Açıklama:** Günümüzde
+    > Türk Hukuku’nda genel eğilim fikrî mülkiyete
+    > geniş anlam yükleme yönündedir (Güneş, 2021,
+    > s. 29). Ülkemizde sınai mülkiyet hakları 6769 sayılı Sınai Mülkiyet Kanunu (bundan sonra kısaca
+    > “SMK” olarak anılacaktır) ve ikincil mevzuat ile
+    > düzenlenmekte iken telif hakları/eser üzerindeki
+    > haklar 5846 sayılı Fikir ve Sanat Eserleri Kanunu
+    > (bundan sonra kısaca “FSEK” olarak anılacaktır) ve
+    > ikincil mevzuat ile düzenlenmektedir.
+    > Fikrî mülkiyet hakkı, kişilerin fikrî gayretleri ve emekleri ile ortaya çıkardıkları fikri ürünler
+    > için kendilerine sağlanan haklardır. Fikri ürün soyuttur, maddi bir eşya değildir.
+    > 6769 sayılı Sınai Mülkiyet Kanunu ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu
 
     ***
 1. Fikrî mülkiyet hakları farkındalığının artması neden önemlidir?
@@ -790,7 +834,15 @@
     - D-) Fikrî mülkiyetin yalnızca kültürel ürünleri kapsadığını vurgulamak için.
     - E-) Fikrî ürünlerin yalnızca teknolojik yönünü ön plana çıkarmak için.
 
-    > **Açıklama:** Fikrî ürünlerin hangi haklarla korunduğunu anlamak ve hukuka aykırı kullanımlardan kaçınmak için.
+    > **Açıklama:** Fikrî mülkiyet farkındalığı niçin önemlidir?
+    > Fikrî ürünler, yaşamımızın her yerinde olmasına
+    > bir başka ifade ile bir fikrî ürün okyanusunda yaşıyor olmamıza rağmen, hangi fikrî ürünlerin fikrî
+    > mülkiyet konusuna girdiği, fikrî ürün üreticisi isek
+    > hangi fikrî mülkiyet haklarına sahip olduğumuz
+    > veya fikrî mülkiyet tüketicisi isek hangi fikrî mülkiyet haklarını hukuka aykırı olarak kullandığımız ve
+    > bu durumun hangi hukuki sonuçlara neden olacağı konusunda farkındalığın geliştirilmesinin önemi
+    > son yıllarda çarpıcı şekilde artmıştır.
+    > Fikrî ürünlerin hangi haklarla korunduğunu anlamak ve hukuka aykırı kullanımlardan kaçınmak için.
 
     ***
 1. Türk hukukunda sınai mülkiyet haklarının doğumu açısından hangi ilke benimsenmiştir?
@@ -800,17 +852,40 @@
     - D-) Başvuru ilkesi
     - E-) Kamuya sunulma ilkesi
 
-    > **Açıklama:** Tescil ilkesi
+    > **Açıklama:** Türk Hukukunda Sınai Mülkiyet Kanunu ile
+    > düzenlenmiş olan sınai mülkiyet haklarında hakkın
+    > doğumu açısından kural olarak tescil ilkesi benimsenmiştir. Kural olarak marka, patent, faydalı model
+    > ve tasarım hakları ülkesel tescil ofislerinde gerçekleşecek tescil ile doğmaktadır. Ülkemizde marka, patent, faydalı model ve tasarım hakları Türk Patent
+    > ve Marka Kurumuna tescil başvurusu yapılarak başlatılır. Bu başvurular, ilgili oldukları düzenlemelere
+    > ilişkin olarak şekli inceleme, yayımlama, itiraz vb.
+    > işlemlerin başarılı ve engelsiz tamamlanması ile sicile
+    > tescil edilerek koruma altına alınır. Hukukumuzda
+    > kullanım yoluyla oluşan tescilsiz marka hakları veya
+    > kamuya sunulma yoluyla oluşan tescilsiz tasarım
+    > hakları da hukuken kabul edilmiştir. Ancak, bu hakların korunma kapsamı ve koruma şekilleri tescilli
+    > marka ve tasarımlara göre daha sınırlıdır
 
     ***
 1. Fikrî mülkiyet haklarının korunmasında "ülkesellik ilkesi" ne anlama gelmektedir?
     - A-) Bir ülkede yapılan tescilin diğer tüm ülkelerde de geçerli olması.
-    - B-) Tescil işleminin tüm ülkeler için zorunlu olması.    .
+    - B-) Tescil işleminin tüm ülkeler için zorunlu olması. .
     - C-) Tescil yapılan ülkede hak sahibine sınırsız haklar verilmesi.
     - **Cevap D-) Korunmak istenilen tescilli hakkın sadece tescil yapılan ülkede geçerli olması.**
     - E-) Tescil işleminin Dünya Fikrî Mülkiyet Teşkilatı (WIPO) tarafından yürütülmesi.
 
-    > **Açıklama:** Korunmak istenilen tescilli hakkın sadece tescil yapılan ülkede geçerli olması.
+    > **Açıklama:** Ülkesellik ilkesi, korunmak istenilen tescilli
+    > hakkın sadece tescil yapılan ülkede korunacağı anlamına gelir. Bu nedenle koruma talep edilen ülkelerde tescil yapılması gerekmektedir. Çünkü bir ülkede yapılan marka, patent, faydalı model, tasarım
+    > tescili başka ülkelerde geçerli değildir. Ülkesellik ilkesi gereği, her ülke fikrî mülkiyet haklarını kendi
+    > ülkelerinin sınırları içinde korur.
+    > Birden fazla ülkede marka, patent veya tasarım
+    > tescili için her ülkede ayrı tescil başvurusu mu yapılmalıdır? Bunun daha kolay bir yolu yok mudur?
+    > Başvuruların kolaylaştırılması için bazı ülkeler
+    > arasında uluslararası anlaşmalar yapılmıştır. Bu
+    > uluslararası anlaşmalar, hak sahiplerine anlaşmaya üye ülkelerin tamamında geçerli olacak şekilde
+    > Dünya Fikrî Mülkiyet Teşkilatının (WIPO) Uluslararası Bürosu aracılığıyla tek bir başvuru yapabilme olanağı sağlamaktadır. Yine aynı şekilde Avrupa
+    > Patent Ofisi gibi bölgesel bazı ofisler de başvuru
+    > kolaylığı sağlamaktadır. Bu anlaşm
+    > Korunmak istenilen tescilli hakkın sadece tescil yapılan ülkede geçerli olması.
 
     ***
 1. Patent ve faydalı model arasındaki temel fark nedir?
@@ -820,7 +895,21 @@
     - D-) Faydalı modeller kamuya açık olarak paylaşılmak zorunda değildir.
     - **Cevap E-) Faydalı modeller, mevcut ürünlerde küçük iyileştirmeler ve uyarlamalar yapan buluşları korumak için daha uygundur.**
 
-    > **Açıklama:** Faydalı modeller, mevcut ürünlerde küçük iyileştirmeler ve uyarlamalar yapan buluşları korumak için daha uygundur.
+    > **Açıklama:** Patent ve Faydalı Model Nedir?
+    > Patent, bir buluş için verilen münhasır bir haktır. Genel olarak bir patent, patent sahibine buluşun
+    > başkaları tarafından kullanılıp kullanılamayacağına
+    > karar verme hakkı sağlar. Bu hak karşılığında patent sahibi, buluşla ilgili teknik bilgileri yayınlanan
+    > patent belgesinde kamuya açık hâle getirir (https://
+    > www.wipo.int/about-ip/en/).
+    > Faydalı modeller, patentlere benzer şekilde, hak
+    > sahiplerinin rızası olmadan başkalarının korunan
+    > buluşları ticari olarak kullanmasını önlemek için sınırlı bir münhasır hak vererek yeni teknik buluşları
+    > korur. Koruma elde etmek için bir başvuru yapılmalı ve bir faydalı model verilmelidir. Bazen “kısa
+    > süreli patentler”, “faydalı yenilikler” veya “yenilik
+    > patentleri” olarak da adlandırılırlar. Bir ülkeden diğerine değiştiği için faydalı modeli tanımlamak kolay değildir. Genel olarak faydalı modellerin, mevcut
+    > ürünlerde küçük iyileştirmeler ve uyarlamalar yapan
+    > veya kısa bir ticari ö
+    > Faydalı modeller, mevcut ürünlerde küçük iyileştirmeler ve uyarlamalar yapan buluşları korumak için daha uygundur.
 
     ***
 1. Faydalı model ile patent arasındaki temel farklardan biri nedir?
@@ -830,7 +919,19 @@
     - D-) Faydalı model yalnızca yeni olmayan buluşları korur.
     - E-) Faydalı model, buluşun ticari kullanımını garanti ederken patent bu hakkı sağlamaz.
 
-    > **Açıklama:** Faydalı modelde buluş basamağı şartı aranmazken, patentte bu şart gereklidir.
+    > **Açıklama:** Hangi Buluşlar Patentlenebilir veya
+    > Faydalı Model ile Korunur?
+    > Ülkemizde SMK m. 82/1 hükmü gereği yeni
+    > olan, buluş basamağı içeren ve sanayiye uygulanabilir buluşlara patent verilebilir.
+    > SMK m. 142 hükmü gereği yeni olan ve sanayiye uygulanabilir buluşlar, faydalı model verilerek
+    > korunur.
+    > “Faydalı modelleri, patentten ayıran ilk fark, buluş
+    > basamağının aranmaması veya daha gevşek değerlendirilmesidir. Uygulamada patentlenebilme kriterlerinin karşılanmadığı hallerde, patentten vazgeçilerek
+    > faydalı modele yönelme görülmektedir. İkinci önemli
+    > fark, patentin koruma süresi yirmi yıl olduğu halde
+    > faydalı modelin koruma süresinin Dünyada 7 ila 10
+    > yıl arasında değişmesidir.” (Güneş, 2017:447).
+    > Faydalı modelde buluş basamağı şartı aranmazken, patentte bu şart gereklidir.
 
     ***
 1. Aşağıdakilerden hangisi Türk Patent Kanunu'na göre buluş niteliğinde kabul edilmediği için patentlenemez?
@@ -840,7 +941,23 @@
     - D-) Sanayiye uygulanabilir bir cihaz
     - E-) Tarımsal ürünleri artırmaya yönelik bir sistem
 
-    > **Açıklama:** Bilgisayar programları
+    > **Açıklama:** Bir Buluşun Sanayiye Uygulanabilir
+    > Olması Ne Demektir?
+    > Buluş, tarım dâhil sanayinin herhangi bir dalında üretilebilir veya kullanılabilir nitelikteyse,
+    > sanayiye uygulanabilir olduğu kabul edilir (SMK
+    > m. 83/6).
+    > Hangi Konu ve Faaliyetler Buluş
+    > Niteliğinde Kabul Edilmez?
+    > Ülkemizde 6769 Sayılı Sınai Mülkiyet Kanunu
+    > m. 82/2 hükmü gereği aşağıdaki konu ve faaliyetler
+    > buluş niteliğinde kabul edilmediğinden, patentlenebilirliğin dışında kalır.
+    > (ı) Keşifler, bilimsel teoriler ve matematiksel
+    > yöntemler.
+    > (ıı) Zihni faaliyetler, iş faaliyetleri veya oyunlara ilişkin plan, kural ve yöntemler.
+    > (ııı)Bilgisayar programları.
+    > (ıv)Estetik niteliği bulunan mahsuller, edebiyat
+    > ve sanat eserleri ile bilim eserleri.
+    > (v) Bilginin sunumu.
 
     ***
 1. Türk Patent Kanunu'na göre aşağıdakilerden hangisi patent ile korunamaz?
@@ -850,7 +967,25 @@
     - D-) Tarımsal ürünlerin dayanıklılığını artırmak için geliştirilmiş bir makine
     - E-) İnsan vücudundaki bir gen dizisinin keşfi
 
-    > **Açıklama:** İnsan veya hayvan vücuduna uygulanacak cerrahi ve tedavi yöntemleri
+    > **Açıklama:** Hangi Buluşlara Patent Verilemez?
+    > Ülkemizde SMK m. 82/3 hükmü gereği aşağıda
+    > belirtilen buluşlara patent verilemez:
+    > (ı) Kamu düzenine veya genel ahlaka aykırı
+    > olan buluşlar.
+    > (ıı) Mikrobiyolojik işlemler veya bu işlemler sonucu elde edilen ürünler hariç olmak üzere,
+    > bitki çeşitleri veya hayvan ırkları ile bitki
+    > veya hayvan üretimine yönelik esas olarak
+    > biyolojik işlemler.
+    > (ııı)İnsan veya hayvan vücuduna uygulanacak teşhis yöntemleri ile cerrahi yöntemler
+    > dâhil tüm tedavi yöntemleri.
+    > (ıv)Oluşumunun ve gelişiminin çeşitli aşamalarında insan bedeni ve bir gen dizisi veya
+    > kısmi gen dizisi de dâhil olmak üzere insan
+    > bedeninin öğelerinden birinin sadece keşfi.
+    > (v) İnsan klonlama işlemleri, insan eşey hattının genetik kimliğini değiştirme işlemleri, insan embriyosunun sınai ya da ticari
+    > amaçlarla kullanılması, insan ya da hayvanlara önemli bir tıbbi fayda sağlamaksızın
+    > hayvanlara acı çektirebilecek genetik kimlik
+    > değiştirme işleml
+    > İnsan veya hayvan vücuduna uygulanacak cerrahi ve tedavi yöntemleri
 
     ***
 1. Hangisi, tescilli marka sahibinin izinsiz yapılması hâlinde engelleyebileceği fiillerden biridir?
@@ -860,7 +995,17 @@
     - **Cevap D-) Tescilli marka ile aynı veya benzer olan ve markanın itibarına zarar verecek herhangi bir işaretin kullanılması**
     - E-) Tescilli markanın yalnızca kendi şirket çalışanları tarafından kullanılması
 
-    > **Açıklama:** Tescilli marka ile aynı veya benzer olan ve markanın itibarına zarar verecek herhangi bir işaretin kullanılması
+    > **Açıklama:** Marka Tescili Ne Demek ve Gerekli Mi?
+    > Markaların tescili zorunlu olmamakla birlikte tescil, marka üzerindeki hakları ispatlayan ve marka ihlalini engelleyen en önemli araçtır. Tescilsiz markalar, SMK tarafından marka sahibine tanınmış haklardan
+    > yararlanamazlar. Haksız rekabet gibi farklı hukuki düzenlemeler ile sınırlı olarak korunabilirler.
+    > Markanın tescil başvurusu Türk Patent ve Marka Kurumu’na yapılır. Marka başvurusu Kurum tarafından mutlak ret nedenleri açısından re’sen ve nispi ret nedenleri açısından itiraz üzerine incelenir. İnceleme
+    > sonucunda markanın koruma kapsamında yer alan tüm mal ve hizmetler bakımından tesciline, reddine
+    > veya kısmen tesciline /reddine karar verilir.
+    > Markanın tesciline karar verilmesi halinde tescil ücretinin de yatırılmasıyla birlikte SMK m. 23 gereği
+    > marka, başvuru tarihinden itibaren on yıl süreyle korunur. Bu süre onar yıllık dönemler halinde yenilenir.
+    > Tescilli Marka Sahibi Başkalarının Hangi Fiillerini Önleyebilir?
+    > SMK m. 7
+    > Tescilli marka ile aynı veya benzer olan ve markanın itibarına zarar verecek herhangi bir işaretin kullanılması
 
     ***
 1. Bir tasarımın ayırt edici niteliğe sahip olduğunu belirlemek için hangi faktör göz önünde bulundurulur?
@@ -870,7 +1015,14 @@
     - D-) Tasarımın tescil edilip edilmediği
     - **Cevap E-) Bilgilenmiş kullanıcı üzerinde bıraktığı genel izlenim ile daha önce sunulmuş tasarımların aynı kullanıcıda bıraktığı izlenim arasındaki farklılık**
 
-    > **Açıklama:** Bilgilenmiş kullanıcı üzerinde bıraktığı genel izlenim ile daha önce sunulmuş tasarımların aynı kullanıcıda bıraktığı izlenim arasındaki farklılık
+    > **Açıklama:** Tasarım Hangi Koşullarda Hukuken Korunur?
+    > Hukukumuzda yeni ve ayırt edici nitelikteki tasarımlar korunur.
+    > Yenilik yer ve zamana göre değişebilen, dinamik bir kavramdır. Yeniliğin belirlenmesinde tescilli tasarımlar için başvuru tarihi ve tescilsiz tasarımlar için ilk kez kamuya sunma tarihi esas alınır. Bir tasarımın
+    > aynısı tescilli tasarım için başvuru veya rüçhan tarihinden önce ve tescilsiz tasarım için tasarımın kamuya
+    > ilk sunulduğu tarihten önce, dünyanın herhangi bir yerinde kamuya sunulmamış ise o tasarım yeni kabul
+    > edilir. Tasarımlar sadece küçük ayrıntılarda farklılık gösteriyorsa aynı kabul edilir (SMK m. 56/4).
+    > Bir tasarımın bilgilenmiş kullanıcı üzerinde bıraktığı genel izlenim; tescilli tasarım için başvuru veya rüçhan tarihinden önce ve tescilsiz tasarım için tasarımın kamuya ilk sunulduğu tarihten önce, kamuya sunulmuş herhangi bir tasarımın aynı kullanıcı üzerinde yarattığı genel izlenimden farklı ise bu tasarımın ayırt edici niteliğe sahip olduğu kabul edilir
+    > Bilgilenmiş kullanıcı üzerinde bıraktığı genel izlenim ile daha önce sunulmuş tasarımların aynı kullanıcıda bıraktığı izlenim arasındaki farklılık
 
     ***
 1. Türk Hukukunda Sınai Mülkiyet Kanunu ile düzenlenmiş olan sınai mülkiyet haklarında hakkın<br />doğumu açısından kural olarak \_\_\_\_\_\_\_\_\_\_\_\_ benimsenmiştir.<br />Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?
@@ -880,7 +1032,8 @@
     - **Cevap D-) Tescil ilkesi**
     - E-) Evrensellik ilkesi
 
-    > **Açıklama:** Türk Hukukunda Sınai Mülkiyet Kanunu ile düzenlenmiş olan sınai mülkiyet haklarında hakkın
+    > **Açıklama:** Ülkemizde marka, patent, faydalı model ve tasarım hakları Türk Patent ve Marka Kurumuna tescil başvurusu yapılarak başlatılır. Bu başvurular, ilgili oldukları düzenlemelere ilişkin olarak şekli inceleme, yayımlama, itiraz vb. işlemlerin başarılı ve engelsiz tamamlanması ile sicile tescil edilerek koruma altına alınır. Hukukumuzda kullanım yoluyla oluşan tescilsiz marka hakları veya kamuya sunulma yoluyla oluşan tescilsiz tasarım hakları da hukuken kabul edilmiştir.
+    > Türk Hukukunda Sınai Mülkiyet Kanunu ile düzenlenmiş olan sınai mülkiyet haklarında hakkın
     > doğumu açısından kural olarak tescil ilkesi benimsenmiştir. Kural olarak marka, patent, faydalı model ve tasarım hakları ülkesel tescil ofislerinde gerçekleşecek tescil ile doğmaktadır.
 
     ***
@@ -891,7 +1044,8 @@
     - D-) Patent
     - E-) Mesuliyet kaydı
 
-    > **Açıklama:** Faydalı modeller, patentlere benzer şekilde, hak sahiplerinin rızası olmadan başkalarının korunan buluşları ticari olarak kullanmasını önlemek için sınırlı bir münhasır hak vererek yeni teknik buluşları korur. Koruma elde etmek için bir başvuru yapılmalı ve bir faydalı model verilmelidir. Bazen “kısa süreli patentler”, “faydalı yenilikler” veya “yenilik patentleri” olarak da adlandırılırlar. Bir ülkeden diğerine değiştiği için faydalı modeli tanımlamak kolay değildir. Genel olarak faydalı modellerin, mevcut ürünlerde küçük iyileştirmeler ve uyarlamalar yapan veya kısa bir ticari ömrü olan buluşları korumak için özellikle uygun olduğu düşünülmektedir.
+    > **Açıklama:** Faydalı model sistemleri genellikle yerel mucitler tarafından kullanılır.
+    > Faydalı modeller, patentlere benzer şekilde, hak sahiplerinin rızası olmadan başkalarının korunan buluşları ticari olarak kullanmasını önlemek için sınırlı bir münhasır hak vererek yeni teknik buluşları korur. Koruma elde etmek için bir başvuru yapılmalı ve bir faydalı model verilmelidir. Bazen “kısa süreli patentler”, “faydalı yenilikler” veya “yenilik patentleri” olarak da adlandırılırlar. Bir ülkeden diğerine değiştiği için faydalı modeli tanımlamak kolay değildir. Genel olarak faydalı modellerin, mevcut ürünlerde küçük iyileştirmeler ve uyarlamalar yapan veya kısa bir ticari ömrü olan buluşları korumak için özellikle uygun olduğu düşünülmektedir.
 
     ***
 1. Aşağıdaki konu ve faaliyetlerden hangisi buluştur?
@@ -901,7 +1055,8 @@
     - D-) Roman
     - E-) Futbolda ofsayt kuralı
 
-    > **Açıklama:** Hangi Konu ve Faaliyetler Buluş
+    > **Açıklama:** Buluş, tarım dâhil sanayinin herhangi bir dalında üretilebilir veya kullanılabilir nitelikteyse, sanayiye uygulanabilir olduğu kabul edilir.
+    > Hangi Konu ve Faaliyetler Buluş
     > Niteliğinde Kabul Edilmez?
     > Ülkemizde 6769 Sayılı Sınai Mülkiyet Kanunu
     > m. 82/2 hükmü gereği aşağıdaki konu ve faaliyetler
@@ -922,7 +1077,8 @@
     - **Cevap D-) 20**
     - E-) 25
 
-    > **Açıklama:** Ülkemizde SMK m.101 gereği başvuru tarihinden başlamak üzere, patentin koruma süresi yirmi
+    > **Açıklama:** Bu süre uzatılamaz.
+    > Ülkemizde SMK m.101 gereği başvuru tarihinden başlamak üzere, patentin koruma süresi yirmi
     > yıldır.
 
     ***
@@ -933,7 +1089,8 @@
     - D-) 20
     - E-) 25
 
-    > **Açıklama:** Ülkemizde SMK m.101 gereği başvuru tarihinden başlamak üzere, faydalı modelin koruma süresi on yıldır.
+    > **Açıklama:** Bu süre uzatılamaz.
+    > Ülkemizde SMK m.101 gereği başvuru tarihinden başlamak üzere, faydalı modelin koruma süresi on yıldır.
 
     ***
 1. Markanın tesciline karar verilmesi halinde tescil ücretinin de yatırılmasıyla birlikte marka kaçar yıllık dönemler halinde korunur?
@@ -943,7 +1100,8 @@
     - D-) 20'şer
     - E-) 25'er
 
-    > **Açıklama:** Markanın tesciline karar verilmesi halinde tescil ücretinin de yatırılmasıyla birlikte SMK m. 23 gereği marka, başvuru tarihinden itibaren on yıl süreyle korunur. Bu süre onar yıllık dönemler halinde yenilenir.
+    > **Açıklama:** Markaların tescili zorunlu olmamakla birlikte tescil, marka üzerindeki hakları ispatlayan ve marka ihlalini engelleyen en önemli araçtır. Tescilsiz markalar, SMK tarafından marka sahibine tanınmış haklardan yararlanamazlar. Haksız rekabet gibi farklı hukuki düzenlemeler ile sınırlı olarak korunabilirler.
+    > Markanın tesciline karar verilmesi halinde tescil ücretinin de yatırılmasıyla birlikte SMK m. 23 gereği marka, başvuru tarihinden itibaren on yıl süreyle korunur. Bu süre onar yıllık dönemler halinde yenilenir.
 
     ***
 1. Eser sahibine tanınan mali hakların koruma süresi eser sahibinin yaşadığı müddetçe ve ölümünden itibaren \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ yıl devam eder.<br />Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?
@@ -953,7 +1111,8 @@
     - D-) 50
     - **Cevap E-) 70**
 
-    > **Açıklama:** Koruma süresi eser sahibinin yaşadığı müddetçe ve ölümünden itibaren 70 yıl devam eder. Bu süre,
+    > **Açıklama:** İlk eser sahibi tüzel kişi ise, koruma süresi aleniyet tarihinden itibaren 70 yıldır.
+    > Koruma süresi eser sahibinin yaşadığı müddetçe ve ölümünden itibaren 70 yıl devam eder. Bu süre,
     > eser sahibinin birden fazla olması durumunda, hayatta kalan son eser sahibinin ölümünden itibaren yetmiş
     > yıl geçmekle son bulur.
 
@@ -965,7 +1124,8 @@
     - D-) Eseri Sergileme Hakkı
     - **Cevap E-) Eseri İşleme Hakkı**
 
-    > **Açıklama:** İşleme Hakkı: Bir eserden, onu işlemek suretiyle faydalanma hakkı munhasıran eser sahibine aittir
+    > **Açıklama:** Mali Hak Türleri: İşleme hakkı; Çoğaltma hakkı; Yayma hakkı; Temsil hakkı; İşaret, ses ve/veya görüntü nakline yarayan araçlarla umuma iletim hakkı.
+    > İşleme Hakkı: Bir eserden, onu işlemek suretiyle faydalanma hakkı munhasıran eser sahibine aittir
     > (FSEK m. 21). Mali haktır.
 
     ***
@@ -976,7 +1136,8 @@
     - D-) Ortak eser sahipliği
     - E-) Eser sahipliğinde iştirak
 
-    > **Açıklama:** Eser sahipleri arasındaki birlik/elbirliği ile eser sahipliği: Birden fazla kimsenin iştirakiyle vücuda getirilen eser ayrılmaz bir bütün teşkil ediyorsa, eserin sahibi, onu vücuda getirenlerin birliğidir.
+    > **Açıklama:** Eser sahiplerinin birden fazla oluşu/ortak eser sahipliği: Birden fazla kimselerin birlikte vücuda getirdikleri eserin kısımlara ayrılması mümkünse, bunlardan her biri vücuda getirdiği kısmın sahibi sayılır.
+    > Eser sahipleri arasındaki birlik/elbirliği ile eser sahipliği: Birden fazla kimsenin iştirakiyle vücuda getirilen eser ayrılmaz bir bütün teşkil ediyorsa, eserin sahibi, onu vücuda getirenlerin birliğidir.
 
     ***
 1. Tescilsiz tasarımların koruma süresi, koruma talep edilen tasarımın kamuya ilk sunulduğu tarihten itibaren kaç yıldır?
@@ -986,7 +1147,8 @@
     - D-) 10
     - E-) 15
 
-    > **Açıklama:** Tescilsiz tasarımların koruma süresi, koruma talep edilen tasarımın kamuya ilk sunulduğu tarihten itibaren üç yıldır.
+    > **Açıklama:** Tescilli tasarımların koruma süresi başvuru tarihinden itibaren beş yıldır. Bu süre beşer yıllık dönemler hâlinde yenilenmek suretiyle toplam yirmi beş yıla kadar uzatılabilir.
+    > Tescilsiz tasarımların koruma süresi, koruma talep edilen tasarımın kamuya ilk sunulduğu tarihten itibaren üç yıldır.
 
     ***
 ## Unite 4
@@ -1010,13 +1172,13 @@
     > **Açıklama:** Güzel sanat eserleri oldukça geniş bir eser kategorisidir. Kanunda da örnekler verilmek suretiyle açıklanmıştır.
     > Bu kategorinin altında eserler örnek olarak aşağıdakiler olarak sayılmıştır:
     > “1. Yağlı ve suluboya tablolar; her türlü resimler, desenler, pasteller, gravürler, güzel yazılar ve tezhipler, kazıma, oyma, kakma veya benzeri usullerle maden, taş, ağaç veya diğer maddelerle çizilen veya tespit edilen eserler, kaligrafi, serigrafi,
-    > 2. Heykeller, kabartmalar ve oymalar,
-    > 3. Mimarlık eserleri,
-    > 4. El işleri ve küçük sanat eserleri, minyatürler ve süsleme sanatı ürünleri ile tekstil, moda tasarımları,
-    > 5. Fotoğrafik eserler ve slaytlar,
-    > 6. Grafik eserler,
-    > 7. Karikatür eserleri,
-    > 8. Her türlü tiplemelerdir.
+    > 2\. Heykeller, kabartmalar ve oymalar,
+    > 3\. Mimarlık eserleri,
+    > 4\. El işleri ve küçük sanat eserleri, minyatürler ve süsleme sanatı ürünleri ile tekstil, moda tasarımları,
+    > 5\. Fotoğrafik eserler ve slaytlar,
+    > 6\. Grafik eserler,
+    > 7\. Karikatür eserleri,
+    > 8\. Her türlü tiplemelerdir.
 
     ***
 1. Özgün eser üzerindeki haklar saklı kalmak kaydıyla, ansiklopediler ve antolojiler gibi muhtevası seçme ve düzenlemelerden oluşan ve bir düşünce yaratıcılığı sonucu olan eserlere ne ad verilir?
@@ -1152,15 +1314,15 @@
 
     > **Açıklama:** Güzel sanat eserleri oldukça geniş bir eser kategorisidir. Kanunda da örnekler verilmek suretiyle açıklanmıştır.
     > Bu kategorinin altında eserler örnek olarak aşağıdakiler olarak sayılmıştır:
-    > 1. Yağlı ve suluboya tablolar; her türlü resimler, desenler, pasteller, gravürler, güzel yazılar ve tezhipler, kazıma, oyma, kakma veya benzeri usullerle maden, taş, ağaç veya diğer
+    > 1\. Yağlı ve suluboya tablolar; her türlü resimler, desenler, pasteller, gravürler, güzel yazılar ve tezhipler, kazıma, oyma, kakma veya benzeri usullerle maden, taş, ağaç veya diğer
     > maddelerle çizilen veya tespit edilen eserler, kaligrafi, serigrafi,
-    > 2. Heykeller, kabartmalar ve oymalar,
-    > 3. Mimarlık eserleri,
-    > 4. El işleri ve küçük sanat eserleri, minyatürler ve süsleme sanatı ürünleri ile tekstil, moda tasarımları,
-    > 5. Fotoğrafik eserler ve slaytlar,
-    > 6. Grafik eserler,
-    > 7. Karikatür eserleri,
-    > 8. Her türlü tiplemelerdir.
+    > 2\. Heykeller, kabartmalar ve oymalar,
+    > 3\. Mimarlık eserleri,
+    > 4\. El işleri ve küçük sanat eserleri, minyatürler ve süsleme sanatı ürünleri ile tekstil, moda tasarımları,
+    > 5\. Fotoğrafik eserler ve slaytlar,
+    > 6\. Grafik eserler,
+    > 7\. Karikatür eserleri,
+    > 8\. Her türlü tiplemelerdir.
 
     ***
 1. Veri tabanı yapımcısının haklarının koruma süresi aleniyet tarihinden itibaren kaç yıldır?
@@ -1174,13 +1336,13 @@
 
     ***
 1. Ortak eser sahipliği ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?
-    - **Cevap A-) Bağlı eser olarak da adlandırılan ortak eser sahipliğinde eserler ve dolayısıyla eser sahiplerinin hususiyeti birbirinden ayrılamaz.**
+    - **Cevap A-) Bağlı eser olarak da adlandırılan ortak eser sahipliğinde eserler ve dolayısıyla eser sahiplerinin hususiyeti birbirinden ayrılamaz.**
     - B-) Ortak eser sahipliğinde bağımsız eserlerin, eser sahiplerinin rızalarıyla tek bir eser olarak birleştirilmesi söz konusudur.
     - C-) Ortak eser sahipliğinde; eser sahiplerinin birlikte bir eser meydana getirme iradelerinin olması gerekmektedir.
     - D-) Opera eserlerinde besteci müzik, libretto söz üzerinde eser sahibidir.
     - E-) Ortak eser sahiplerinin her biri kendi kısmının sahibidir. Ancak bazı hâllerde birlikte hareket etmeleri gerekmektedir.
 
-    > **Açıklama:** Bağlı eser olarak da adlandırılan ortak eser sahipliğinde eserler ve dolayısıyla eser sahiplerinin hususiyeti birbirinden **ayrılabilmektedir.**
+    > **Açıklama:** Bağlı eser olarak da adlandırılan ortak eser sahipliğinde eserler ve dolayısıyla eser sahiplerinin hususiyeti birbirinden **ayrılabilmektedir.**
 
     ***
 1. Aşağıdakilerden hangisi fikri ürünün eser olarak nitelendirilebilmesi için aranan şartlardan birisidir?
@@ -1210,12 +1372,12 @@
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** 5846 sayılı Kanunda ilim ve edebiyat eserleri, müzik eserleri, güzel sanat eserleri ve sinema eserleri eser kategorisi olarak sayılmıştır.2
+    > **Açıklama:** 5846 sayılı Kanunda ilim ve edebiyat eserleri, müzik eserleri, güzel sanat eserleri ve sinema eserleri eser kategorisi olarak sayılmıştır.2
 
     ***
 1. İşlenme ve derleme eserle ilgili olarak aşağıdakilerden hangisi söylenemez?
     - **Cevap A-) İşlenme eserden söz edebilmek için öncelikle koruma süresi dolmuş bir eser söz konusu olmalıdır**
-    - B-) İşlenme eserden söz edebilmek için yararlanılan eser sahibinin haklarına zarar verilmemesi gerekir
+    - B-) İşlenme eserden söz edebilmek için yararlanılan eser sahibinin haklarına zarar verilmemesi gerekir
     - C-) İşlenme eserde işleyen bu esere bağlı kalarak ve kendi hususiyetini katarak yeni bir eser ortaya koymalıdır.
     - D-) Derleme eserde derlenen ürünlerin eser olmasına gerek yoktur
     - E-) Derleme eserde derleyenin fikri bir çabası gerekmektedir.
@@ -1241,7 +1403,7 @@
     - D-) Eserin bütünlüğünün korunması hakkı
     - E-) Eserin aslına erişim hakkı
 
-    > **Açıklama:** FSEK'te sayılan mali haklar; işleme hakkı, çoğaltma hakkı, yayma hakkı, temsil hakkı, **umuma iletim hakkı** ve yeniden satış hakkıdır.
+    > **Açıklama:** FSEK'te sayılan mali haklar; işleme hakkı, çoğaltma hakkı, yayma hakkı, temsil hakkı, **umuma iletim hakkı** ve yeniden satış hakkıdır.
 
     ***
 1. Müşterek eser sahipliğiyle ilgili olarak aşağıdakilerden hangisi söylenemez?
@@ -1261,7 +1423,7 @@
     - D-) Amerikan hukukunda “fair use” olarak da bilenen “adil kullanım” ilkesi esastır.
     - E-) Kanunda kamu düzeni, genel menfaat, özel menfaat amacıyla getirilen bu sınırlamaları hükümete tanınan yetkiler gelmektedir.
 
-    > **Açıklama:** Hukukumuzda, kıta Avrupası hukukunda olduğu gibi **sınırlamaların sayılması usulü**benimsenmiştir. Oysa Amerikan hukukunda “fair use” olarak da bilenen “adil kullanım” ilkesi esastır. “Adil kullanım” ya da “fair use” ifadesi özellikle yabancı web sayfalarında çok yaygın kullanıldığından, kimi zaman Türk hukukunda da bu ilkenin benimsendiği konusunda yanlış anlaşılmalar ortaya çıkmaktadır. Türk hukukunda sınırlamalar tek tek Kanunun 30’uncu ve 47’inci maddeleri arasında sayılmıştır.
+    > **Açıklama:** Hukukumuzda, kıta Avrupası hukukunda olduğu gibi **sınırlamaların sayılması usulü** benimsenmiştir. Oysa Amerikan hukukunda “fair use” olarak da bilenen “adil kullanım” ilkesi esastır. “Adil kullanım” ya da “fair use” ifadesi özellikle yabancı web sayfalarında çok yaygın kullanıldığından, kimi zaman Türk hukukunda da bu ilkenin benimsendiği konusunda yanlış anlaşılmalar ortaya çıkmaktadır. Türk hukukunda sınırlamalar tek tek Kanunun 30’uncu ve 47’inci maddeleri arasında sayılmıştır.
 
     ***
 1. Aşağıdakilerden hangisi, FSEK m.80’de düzenlenen bağlantılı hak sahipleri arasında yer almaz?
@@ -1274,7 +1436,7 @@
     > **Açıklama:** FSEK m.80’de düzenlenen bağlantılı hak sahipleri; icracı sanatçılar (icrayı organize eden müteşebbis de dâhil), fonogram yapımcıları, film yapımcıları ile Radyo ve TV kuruluşlarıdır. Bunun dışında bağlantılı hak sahibi bulunmamaktadır.
 
     ***
-1. Eser niteliği taşımayan koruma konularından eser adı ve alameti ile işaret, ses ve resmin korunması ............................. dayanmaktadır.<br />Yukarıdaki metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
+1. Eser niteliği taşımayan koruma konularından eser adı ve alameti ile işaret, ses ve resmin korunması ............................. dayanmaktadır.<br />Yukarıdaki metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
     - A-) Kişilik hakkına
     - B-) Haksız fiile
     - C-) Tüketicinin korunmasına
@@ -1284,7 +1446,7 @@
     > **Açıklama:** Eser niteliği taşımayan koruma konularından eser adı ve alameti ile işaret, ses ve resmin korunması **haksız rekabete** dayanmaktadır.
 
     ***
-1. I. Çalışanla çalıştıran arasında bağımlılık ilişkisi bulunmalıdır<br />II. Eser çalışanın işi görmesi anında veya işyerinde meydana getirilmiş olması gerekir<br />III.  Hakları kullanma yetkisinin işverende olabilmesi için tarafların aksini kararlaştırmamış olması veya işin niteliğinden aksinin anlaşılmaması gerekmektedir.<br />Çalışanlar tarafından meydana getirilen eserden doğan hakların  çalıştıran(işveren) tarafından kullanılabilmesine ilişkin yukarıdakilerden hangisi veya hangileri söylenebilir?
+1. I. Çalışanla çalıştıran arasında bağımlılık ilişkisi bulunmalıdır<br />II. Eser çalışanın işi görmesi anında veya işyerinde meydana getirilmiş olması gerekir<br />III. Hakları kullanma yetkisinin işverende olabilmesi için tarafların aksini kararlaştırmamış olması veya işin niteliğinden aksinin anlaşılmaması gerekmektedir.<br />Çalışanlar tarafından meydana getirilen eserden doğan hakların çalıştıran(işveren) tarafından kullanılabilmesine ilişkin yukarıdakilerden hangisi veya hangileri söylenebilir?
     - A-) Yalnız I
     - B-) I ve II
     - **Cevap C-) I ve III**
@@ -1530,7 +1692,7 @@
     - B-) Türkiye’de eserlerin korunması, belirli koşulları sağlayan eserlerin 5846 sayılı yasa kapsamında değerlendirilmesiyle mümkündür.
     - **Cevap C-) İlk patent kanunu 1443 yılında İngiltere’de yürürlüğe girmiştir ve Eton Koleji’ne özgü düzenlemeleri içermektedir.**
     - D-) Venedik’te 1474 yılında yürürlüğe giren düzenleme, modern patent sisteminin temelini oluşturan ilk uygulamalardan biridir.
-    - E-) 18. yüzyıl sonlarında Almanya ve bazı Avrupa ülkeleri ulusal patent düzenlemelerini hayata geçirmiştir.
+    - E-) 18\. yüzyıl sonlarında Almanya ve bazı Avrupa ülkeleri ulusal patent düzenlemelerini hayata geçirmiştir.
 
     > **Açıklama:** Fikri mülkiyet hakları, temelde, fikir ve sanat eserlerine ilişkin haklar (copyright) ve sınai mülki­yet hakları olarak iki kola ayrılmaktadır. Ülkemizde eserler, temel eser kategorilerinden birine dâhil ol­mak ve gerekli şartları sağlamak koşuluyla 5846 sayı­lı Fikir ve Sanat Eserleri Kanunu ile korunmaktadır.
     > Fikri mülkiyet korunmasının ilk olarak Venedik’te görüldüğü bilinmektedir. Günümüz yaklaşımlarının temelini oluşturan ilk patent ka­nunu 1443 yılında çıkarılmıştır. 1474 yılında Venedik’te yürürlüğe girmiştir (Suluk 2003, 97; Hill-King 2007, 35).
@@ -1545,7 +1707,7 @@
     - D-) Paris Sözleşmesi (1883)
     - E-) TRIPS Anlaşması (1995)
 
-    > **Açıklama:** 19. yüzyılın ikinci yarısında ortaya çıkan geliş­meler ve uluslararası anlaşmalar ile sınır ötesi fikri mülkiyet haklarının temelleri atılmıştır. Bu arada küreselleşme başlamış ve nüfusun kentlere geçişi hızlanmıştır (Hill-King 2007, 37; Suluk, 2003).
+    > **Açıklama:** 19\. yüzyılın ikinci yarısında ortaya çıkan geliş­meler ve uluslararası anlaşmalar ile sınır ötesi fikri mülkiyet haklarının temelleri atılmıştır. Bu arada küreselleşme başlamış ve nüfusun kentlere geçişi hızlanmıştır (Hill-King 2007, 37; Suluk, 2003).
     > Coğrafyamızda, sınai mülkiyet haklarının res­mi düzenleme anlamındaki tarihi, Osmanlı İm­paratorluğu Dönemi’ne dayanmaktadır. Alamet-i Farika (marka) ve İhtira Beratı (patent) öncüllerini takiben Cumhuriyet döneminde, Gümrük Birliği ile birlikte Avrupa ülkeleri ile eşzamanlı gelişmeler yaşanmış ve ülkemizde son derece önemli kararna­meler yürürlüğe girmiştir.
     > Kısaca, ülkemiz ile ilgili olarak, fikri mülkiyet haklarına ilişkin ilk ulusal düzenlemeler, Osmanlı patent sistemi “ İhtirâ Berâtı ” (1879) (dünyada­ki altıncı patent kanunu olarak görülür) ve mar­ka yönetmeliği “ Alâmet-i Fârika Nizamnamesi ” (1871)’dir (Kala, 2008, 15).
 
@@ -1757,7 +1919,7 @@
     - D-) 4
     - E-) 20
 
-    > **Açıklama:** Tescil edilmiş bir markanın koruma süresi 10 yıldır. Tescil edilmiş bir markanın koruma süresi 10 yıldır. Koruma süresi 10 yıl sonra tekrar bir 10 yıl uzatılabilir.
+    > **Açıklama:** Tescil edilmiş bir markanın koruma süresi 10 yıldır. Tescil edilmiş bir markanın koruma süresi 10 yıldır. Koruma süresi 10 yıl sonra tekrar bir 10 yıl uzatılabilir.
 
     ***
 1. Aşağıdakilerden hangisi, Türkiye'de marka hukukunun şu an yürürlükte olan temel yasal kaynağıdır?
@@ -1874,10 +2036,10 @@
     ***
 1. SMK md. 7 ile md. 29 arasındaki temel fark aşağıdakilerden hangisidir?
     - A-) Biri uluslararası, diğeri yerel uygulamayı düzenler
-    - B-) 7. madde sadece yazılı markaları kapsar
-    - C-) 7. madde yalnızca hizmet markalarını kapsar
-    - **Cevap D-) 7. madde aynı işareti, 29. madde ise ayırt edilemeyecek kadar benzerini düzenler**
-    - E-) 29. madde yalnızca görsel işaretleri kapsar
+    - B-) 7\. madde sadece yazılı markaları kapsar
+    - C-) 7\. madde yalnızca hizmet markalarını kapsar
+    - **Cevap D-) 7\. madde aynı işareti, 29. madde ise ayırt edilemeyecek kadar benzerini düzenler**
+    - E-) 29\. madde yalnızca görsel işaretleri kapsar
 
     > **Açıklama:** Aynı Olan Marka
     > SMK md. 7/2 (a)’ya ve 29/1 (b)’ye göre mar-
@@ -1898,7 +2060,7 @@
     > Buna göre markanın birebir aynısı kullanılarak
     > marka taklit edilirse 7. maddenin ihlali, ayırt edi-
     > lemeyecek kadar benzeri kullanılarak taklit edilirse
-    > 29. maddedeki ihlal hâli söz konusu olacaktır
+    > 29\. maddedeki ihlal hâli söz konusu olacaktır
 
     ***
 1. Markanın tescili ile marka sahibi \_\_\_\_\_\_\_\_\_\_ bir hak elde etmekle birlikte, kamu düzeni gereği bu hakkın kullanımı \_\_\_\_\_\_\_\_\_\_ değildir.<br />Yukarıdaki boşluklar aşağıdakilerden hangisi ile tamamlanmalıdır?
@@ -1919,18 +2081,20 @@
     - D-) Haksız Rekabet Kanunu
     - E-) Medeni Kanun
 
-    > **Açıklama:** Tasarım kavramı, Türk hukukunda Sınai Mülkiyet Kanunu’nda düzenlenmektedir. Sınai Mülkiyet Kanunu’nda bu kavram endüstriyel tasarım olarak değil, “tasarım” olarak geçmektedir
+    > **Açıklama:** Görsel iletişimde tasarımın öneminin modern dönemden sonra arttığı ve birçok alanda görsel iletişimden yararlanıldığı tespit edilmiştir. Günümüzde görsel iletişimde tasarımın geldiği nokta incelendiğinde, bu bileşenin reklam ve sosyal medya üzerinde çok yoğun bir şekilde kullanıldığı ve hatta gözümüzün görebildiği her noktaya yayıldığı söylenebilir.
+    > Tasarım kavramı, Türk hukukunda Sınai Mülkiyet Kanunu’nda düzenlenmektedir. Sınai Mülkiyet Kanunu’nda bu kavram endüstriyel tasarım olarak değil, “tasarım” olarak geçmektedir
 
     ***
-1. I- İki tacirin bir ürünü 1000 TL’den daha düşük fiyata satmamaları konusunda uzlaşmaları<br />II- İki tacirin belirli bir standart altında ürün satmama konusunda uzlaşmaları<br />III- Pazarı elinde tutan tacirin  o sektördeki daha küçük işletmeleri bünyesinde toplaması<br />Yukarıda sayılanlardan hangisi veya hangileri haksız rekabete örnek olarak gösterilebilir?
+1. I- İki tacirin bir ürünü 1000 TL’den daha düşük fiyata satmamaları konusunda uzlaşmaları<br />II- İki tacirin belirli bir standart altında ürün satmama konusunda uzlaşmaları<br />III- Pazarı elinde tutan tacirin o sektördeki daha küçük işletmeleri bünyesinde toplaması<br />Yukarıda sayılanlardan hangisi veya hangileri haksız rekabete örnek olarak gösterilebilir?
     - A-) I veII
     - B-) II ve III
     - **Cevap C-) I ve III**
     - D-) I-II ve III
     - E-) Yalnızca II
 
-    > **Açıklama:** 1. Bazen büyük işletmeler veya aynı sektörde çalışan tacirler, birbirleriyle rekabet etmeleri gerekirken, gizlice birbirleriyle anlaşabilmektedirler. Örneğin, ikisinin de 400 TL’den daha düşük fiyata satmamaları konusunda uzlaşabilirler.
-    > 2. Büyük bir sektörde o pazarı elinde tutan tacir (hakim durumdaki işletme), o sektördeki daha küçük işletmeleri bünyesinde toplayabilmektedir. Örneğin, onları baskıyla ya da satın alarak elde
+    > **Açıklama:** Anayasamıza göre, rekabet, temel haklardan biri olup her bireyin rekabet etme hakkı bulunmaktadır. İşletmelerin rekabet etmeleri müşterilerin lehinedir, zira onlar rekabet ettikleri zaman müşteriler daha kaliteli ürünleri daha ucuza alabileceklerdir.
+    > 1\. Bazen büyük işletmeler veya aynı sektörde çalışan tacirler, birbirleriyle rekabet etmeleri gerekirken, gizlice birbirleriyle anlaşabilmektedirler. Örneğin, ikisinin de 400 TL’den daha düşük fiyata satmamaları konusunda uzlaşabilirler.
+    > 2\. Büyük bir sektörde o pazarı elinde tutan tacir (hakim durumdaki işletme), o sektördeki daha küçük işletmeleri bünyesinde toplayabilmektedir. Örneğin, onları baskıyla ya da satın alarak elde
     > edebilmektedir. O sektörde hakim durumda olup bu durumu kötüye kullanabilmektedir. Örneğin,
     > belirli sayıda büyük yatak şirketi olduğunu varsayalım. Bir yatak şirketinin diğer yatak şirketlerini satın alması hâlinde, bütün yatak şirketlerinin aynı grubun eline geçmesi hâlinde, rekabet hakkı ortadan kaldırılmış olur.
 
@@ -1942,7 +2106,8 @@
     - D-) Tüketici dernekleri, esnaf odaları, birlikler, ticaret ve sanayi odaları vs. davacı olabilir.
     - E-) Haksız rekabetten söz edilebilmesi için haksız rekabette bulunan kişinin bu fiiliyle kendisine veya başkasına bir menfaat sağlamış olması şart değildir.
 
-    > **Açıklama:** Haksız rekabet iki rakip arasında olan ilişki midir? Adından yola çıkarak, bunun mutlaka bir rekabet ilişkisinin sonucu olduğunu söyleyebilir miyiz? Hayır. Genellikle, aynı sektörde ve birbirine rakip olanlar arasında ortaya çıkmaktadır. Fakat böyle bir zorunluluk yoktur.
+    > **Açıklama:** Farklı sektörler arasında haksız rekabet olabilmektedir. Hatta müşteri olarak dava açtığımızda, rakip olabilecek bir sektörümüz bile olmayabilmektedir.
+    > Haksız rekabet iki rakip arasında olan ilişki midir? Adından yola çıkarak, bunun mutlaka bir rekabet ilişkisinin sonucu olduğunu söyleyebilir miyiz? Hayır. Genellikle, aynı sektörde ve birbirine rakip olanlar arasında ortaya çıkmaktadır. Fakat böyle bir zorunluluk yoktur.
 
     ***
 1. Aşağıdakilerden hangisi haksız rekabet hallerinden biri olarak değerlendirilemez?
@@ -1952,17 +2117,19 @@
     - **Cevap D-) Sahip olduğu diploma, ödül vs. reklamlarda kullanmak**
     - E-) Müşterinin karar verme özgürlüğünü sınırlamak
 
-    > **Açıklama:** Diploma, ödül vs sahip olmadığı hâlde böyle bir imaj oluşturmak (TTK Madde 55/1-a.3) haksız rekabettir.
+    > **Açıklama:** Hakkı olmayan unvanları, meslek adları, derece ve sembolleri kullanarak kendini üstün yetenekli göstermek, haksız rekabet sayılır.
+    > Diploma, ödül vs sahip olmadığı hâlde böyle bir imaj oluşturmak (TTK Madde 55/1-a.3) haksız rekabettir.
 
     ***
-1. I- İki ürünün aynı, benzer sınıfta ve benzer özelliklere sahip olması gerekir.<br />II-Bu karşılaştırmanın gerçekten dürüst olması gerekmektedir.<br />III-Karşılaştırmalı reklamın karşı tarafı kötüleme, karşı tarafın tanınmışlığından yararlanma şeklinde yapılmaması gerekmektedir.<br />Yukarıdakilerden hangisi veya hangileri karşılaştırmalı reklamların  hukuka uygun ve geçerli olması için  aranan koşullardandır?
+1. I- İki ürünün aynı, benzer sınıfta ve benzer özelliklere sahip olması gerekir.<br />II-Bu karşılaştırmanın gerçekten dürüst olması gerekmektedir.<br />III-Karşılaştırmalı reklamın karşı tarafı kötüleme, karşı tarafın tanınmışlığından yararlanma şeklinde yapılmaması gerekmektedir.<br />Yukarıdakilerden hangisi veya hangileri karşılaştırmalı reklamların hukuka uygun ve geçerli olması için aranan koşullardandır?
     - A-) I
     - B-) I ve II
     - C-) I ve III
     - **Cevap D-) I- II-III**
     - E-) Yalnızca III
 
-    > **Açıklama:** Karşılaştırmalı reklamlar, kural olarak hukuka uygun ve geçerlidir. Ancak bazı şartları vardır: a) İki ürünün aynı, benzer sınıfta ve benzer özelliklere sahip olması gerekir. b) Bu karşılaştırmanın gerçekten dürüst olması gerekmektedir. c) Karşılaştırmalı reklamın karşı tarafı kötüleme, karşı tarafın tanınmışlığından yararlanma şeklinde yapılmaması gerekmektedir.
+    > **Açıklama:** Karşılaştırmalı reklamlar (TTK Madde 55/1- a.5): Kendisini, mallarını, iş ürünlerini, faaliyetlerini, fiyatlarını gerçeğe aykırı, yanıltıcı, rakibini gereksiz yere kötüleyici veya gereksiz yere onun tanınmışlığından yararlanacak şekilde; başkaları, malları, iş ürünleri veya fiyatları ile karşılaştırmak ya da üçüncü kişiyi benzer yollardan öne geçirmek, haksız rekabete yol açmaktadır. Bazen iki malın bazı özellikleri karşılaştırılmakta ve bir markanın diğer markadan daha üstün olduğu mesajı verilmeye çalışılmaktadır.
+    > Karşılaştırmalı reklamlar, kural olarak hukuka uygun ve geçerlidir. Ancak bazı şartları vardır: a) İki ürünün aynı, benzer sınıfta ve benzer özelliklere sahip olması gerekir. b) Bu karşılaştırmanın gerçekten dürüst olması gerekmektedir. c) Karşılaştırmalı reklamın karşı tarafı kötüleme, karşı tarafın tanınmışlığından yararlanma şeklinde yapılmaması gerekmektedir.
 
     ***
 1. I- Tespit davası<br />II- Tazminat davası<br />III- Haksız rekabetin ortadan kaldırılması davası<br />Yukarıdaki davalardan hangisi veya hangilerini meslek birliklerinin açması mümkün değildir?
@@ -1972,7 +2139,8 @@
     - D-) I- II-III
     - **Cevap E-) Yalnızca II**
 
-    > **Açıklama:** Tazminat davasının açılmasını mesleki birlikler isteyemez.
+    > **Açıklama:** Tazminat davası açılabilmesi için, zarar ve kusur şarttır. Ancak, diğer talepler için zararın doğmuş olması gerekmez, zarar tehlikesinin doğması dahi yeterlidir.
+    > Tazminat davasının açılmasını mesleki birlikler isteyemez.
     > - Zarar + kusur şarttır.
 
     ***
@@ -1983,7 +2151,8 @@
     - D-) 4
     - E-) 5
 
-    > **Açıklama:** Hukukî sorumluluk yanında, bazı haksız rekabet fiilleri ayrıca birer suçtur. Bu suçların cezası da Türk Ceza Kanunu’nda değil, TTK’da düzenlenmiştir. Dolayısıyla, haksız rekabet, ceza sorumluluğuna da yol açmaktadır. TTK Madde 62’ye göre, bu durumlar 2 yıla kadar hapis cezası veya adli para cezası ile cezalandırılmaktadır.
+    > **Açıklama:** Ancak, hapis cezası 2 yıla kadar olunca ertelenme söz konusu olduğu için, uygulamada haksız rekabetten kimsenin hapis cezası aldığı görülmemektedir.
+    > Hukukî sorumluluk yanında, bazı haksız rekabet fiilleri ayrıca birer suçtur. Bu suçların cezası da Türk Ceza Kanunu’nda değil, TTK’da düzenlenmiştir. Dolayısıyla, haksız rekabet, ceza sorumluluğuna da yol açmaktadır. TTK Madde 62’ye göre, bu durumlar 2 yıla kadar hapis cezası veya adli para cezası ile cezalandırılmaktadır.
 
     ***
 1. Fikri mülkiyet hakları bakımından \_\_\_\_\_\_\_\_\_\_\_\_\_ koruma ilkesi kabul edilmektedir.<br />Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?
@@ -1993,7 +2162,8 @@
     - **Cevap D-) Kümülatif**
     - E-) Kalitatif
 
-    > **Açıklama:** Fikri mülkiyet hakları bakımından kümülatif (çoklu) koruma ilkesi kabul edilmektedir. Bir başka deyişle, bir fikri çalışma, fikri mülkiyeti düzenleyen birden çok yasal düzenlemenin koruma şartlarını taşıyabilir.
+    > **Açıklama:** Örneğin, bir üründeki hem tasarım, hem buluş, hem marka aynı anda korumaya tabi olabilir. Bir fikri ürün birden çok yasal düzenlemenin koruma şartlarını aynı anda karşılıyorsa, hak sahibi, birden çok yasal düzenlemeye dayanabilir.
+    > Fikri mülkiyet hakları bakımından kümülatif (çoklu) koruma ilkesi kabul edilmektedir. Bir başka deyişle, bir fikri çalışma, fikri mülkiyeti düzenleyen birden çok yasal düzenlemenin koruma şartlarını taşıyabilir.
 
     ***
 1. Haksız rekabet davalarında zamanaşımı nedir?
@@ -2003,7 +2173,8 @@
     - D-) Davacının fiili ve faili öğrenmesinden itibaren 2 yıl, herhâlükarda fiilin gerçekleştiği tarihten itibaren 7 yıl
     - E-) Davacının fiili ve faili öğrenmesinden itibaren 2 yıl, herhâlükarda fiilin gerçekleştiği tarihten itibaren 5 yıl
 
-    > **Açıklama:** Davacının fiili ve faili öğrenmesinden itibaren 1 yıl, herhâlükarda fiilin gerçekleştiği tarihten itibaren 3 yıl içinde bu davaların açılması gerekmektedir.
+    > **Açıklama:** Haksız rekabet, haksız fiil türüdür. Borçlar Kanunu’nda haksız fiil için öngörülen zamanaşımı süresi 2 ve 10 yıl olmasına rağmen, haksız rekabette daha kısa bir zamanaşımı süresi öngörülmüştür.
+    > Davacının fiili ve faili öğrenmesinden itibaren 1 yıl, herhâlükarda fiilin gerçekleştiği tarihten itibaren 3 yıl içinde bu davaların açılması gerekmektedir.
 
     ***
 1. Fikri mülkiyet ve haksız rekabet mevzuatı arasında, \_\_\_\_\_\_\_\_\_\_\_\_\_\_ ilişkisi devreye girmektedir.<br />Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?
@@ -2013,7 +2184,8 @@
     - D-) Yer bakımından uygulanma
     - E-) Normlar hiyerarşisi
 
-    > **Açıklama:** Fikri mülkiyet ve haksız rekabet mevzuatı arasında, özel hüküm - genel hüküm ilişkisi devreye girmektedir. Bu ilişkide ilk olarak özel hükümler uygulanmaktadır. Özel hükümler, konusunu tamamen kapsadığı ve daha kapsamlı ve üstün bir koruma sağladığı durumlarda genel hükümlere üstün gelir.
+    > **Açıklama:** Özel hükümlerin getirdiği sınırlamalar genel hükümlere dayanılarak bertaraf edilemez. Dolayısıyla, genel bir kanun tarafından sağlanan bir korumadan, özel kanunun belirli kısıtlamalar nedeniyle korumayı esirgediği durumlarda faydalanmak mümkün değildir.
+    > Fikri mülkiyet ve haksız rekabet mevzuatı arasında, özel hüküm - genel hüküm ilişkisi devreye girmektedir. Bu ilişkide ilk olarak özel hükümler uygulanmaktadır. Özel hükümler, konusunu tamamen kapsadığı ve daha kapsamlı ve üstün bir koruma sağladığı durumlarda genel hükümlere üstün gelir.
 
     ***
 1. Haksız rekabetin temel amacı nedir?
@@ -2094,8 +2266,8 @@
     - E-) Beyanların düzeltilmesi talebi
 
     > **Açıklama:** Haksız rekabetin ortadan kaldırılması (ref ’i/eski hâle iadesi) davası: Haksız reka­bet sonucunda ortaya çıkan maddi duru­mun ortadan kaldırılması talep edilir.
-    > 1. Beyanların düzeltilmesi talebiyle: Hak­sız rekabet, kötüleme, yanlış veya yanıl­tıcı beyan ve eylemler ile yapılmış ise, bunların nasıl düzeltileceği, mahkeme hükmünde açıkça belirtilir.
-    > 2. Kaçınılmaz ise, araç ve malların imhası talebiyle: Örneğin; ticari sırlardan ya­rarlanarak imal edilen makinenin imha­sına karar verilebilir. Örneğin; iltibasa neden olan taklit marka, etiket, amba­lajların sökülmesi, silinmesi, imalat ve ticaret sırlarını içeren belge ve formülle­rin iadesi istenebilir. Müşteri isteyemez!
+    > 1\. Beyanların düzeltilmesi talebiyle: Hak­sız rekabet, kötüleme, yanlış veya yanıl­tıcı beyan ve eylemler ile yapılmış ise, bunların nasıl düzeltileceği, mahkeme hükmünde açıkça belirtilir.
+    > 2\. Kaçınılmaz ise, araç ve malların imhası talebiyle: Örneğin; ticari sırlardan ya­rarlanarak imal edilen makinenin imha­sına karar verilebilir. Örneğin; iltibasa neden olan taklit marka, etiket, amba­lajların sökülmesi, silinmesi, imalat ve ticaret sırlarını içeren belge ve formülle­rin iadesi istenebilir. Müşteri isteyemez!
 
     ***
 1. Aşağıdakilerden hangisi TTK Madde 62/1-a’ya göre hapis veya adli para cezası gerektiren haksız rekabet fiillerinden biridir?
@@ -2128,27 +2300,30 @@
     - **Cevap D-) Eserin değiştirilmesini yasaklama hakkı**
     - E-) Eseri yayma hakkı
 
-    > **Açıklama:** Eseri umuma arz etme hakkı, adın belirtilmesi hakkı, eserin değiştirilmesini yasaklama hakkı ve zilyet ile malike karşı haklar gibi manevi haklar (FSEK m. 14-17) ise eser sahibinin kişiliği ile yakından ilişkili olmaları sebebiyle hukuki işlemlere konu olmamaktadır.
+    > **Açıklama:** Mali haklar; eseri işleme, çoğaltma, yayma, temsil etme ve umuma iletme haklarıdır (FSEK m. 21 vd.).
+    > Eseri umuma arz etme hakkı, adın belirtilmesi hakkı, eserin değiştirilmesini yasaklama hakkı ve zilyet ile malike karşı haklar gibi manevi haklar (FSEK m. 14-17) ise eser sahibinin kişiliği ile yakından ilişkili olmaları sebebiyle hukuki işlemlere konu olmamaktadır.
 
     ***
 1. Sanatsever A, B'den bir tablo satın almış ve bu tabloyu ticari amaçlarla kullanmak istemektedir.<br />A'nın bunu yapabilmesinin şartı nedir?
     - **Cevap A-) Eser sahibiyle ayrı bir “mali hakların devri sözleşmesi” yapmalıdır**
     - B-) Eser sahibiyle ayrı bir “manevi hakların devri sözleşmesi” yapmalıdır
     - C-) Eser sahibiyle ayrı bir “maddi devir sözleşmesi” yapmalıdır
-    - D-) Eser sahibiyle ayrı bir “zilyetliğin  devri sözleşmesi” yapmalıdır
+    - D-) Eser sahibiyle ayrı bir “zilyetliğin devri sözleşmesi” yapmalıdır
     - E-) Eser sahibiyle ayrı bir “protokol” yapmalıdır
 
-    > **Açıklama:** Bir sanatsever, ünlü bir ressamın tablosunu satın aldığında, bu satış, tablonun fiziksel mülkiyetini sanatsevere devreder; ancak tablo üzerindeki mali nitelikteki fikrî haklar (telif hakları) doğrudan tabloyu satın alan kişiye geçmez. Dolayısıyla tabloyu satın alan kişi onu evinde sergileyebilir; ancak tablonun kopyalarını yapma, dağıtma veya tabloyu ticari amaçla yahut kendi özel alanı dışında kullanım haklarına sahip değildir. Bu haklar hâlâ eserin yaratıcısına aittir. Eğer tabloyu satın alan sanatsever bu hakları da elde etmek istiyorsa, eser sahibiyle ayrı bir “mali hakların devri sözleşmesi” yapmalıdır.
+    > **Açıklama:** Bu sözleşme, eser üzerindeki telif haklarının ne ölçüde ve hangi koşullar altında devredileceğini belirler. Bununla birlikte, henüz meydana getirilmemiş/tamamlanmamış eserler ile ilgili olarak yapılan “mali hakkın devri sözleşmesi” hakkın doğrudan karşı tarafa geçmesini sağlamaz (FSEK m. 48/3).
+    > Bir sanatsever, ünlü bir ressamın tablosunu satın aldığında, bu satış, tablonun fiziksel mülkiyetini sanatsevere devreder; ancak tablo üzerindeki mali nitelikteki fikrî haklar (telif hakları) doğrudan tabloyu satın alan kişiye geçmez. Dolayısıyla tabloyu satın alan kişi onu evinde sergileyebilir; ancak tablonun kopyalarını yapma, dağıtma veya tabloyu ticari amaçla yahut kendi özel alanı dışında kullanım haklarına sahip değildir. Bu haklar hâlâ eserin yaratıcısına aittir. Eğer tabloyu satın alan sanatsever bu hakları da elde etmek istiyorsa, eser sahibiyle ayrı bir “mali hakların devri sözleşmesi” yapmalıdır.
 
     ***
-1. I- C'nin hissesi A ve B  arasında paylaştırılır<br />II- A ve B, C'nin mirasçılarına uygun bir bedel öder<br />III- A ve B mirasçılarla ödenecek miktar konusunda anlaşamazlarsa miktarı mahkeme belirler<br />Yukarıdakilerden hangisi veya hangileri A, B ve C adlı kişiler ortak bir sanat eseri meydana getirmekteyken, C ölmesi durumunda söz konusu olabilir?
+1. I- C'nin hissesi A ve B arasında paylaştırılır<br />II- A ve B, C'nin mirasçılarına uygun bir bedel öder<br />III- A ve B mirasçılarla ödenecek miktar konusunda anlaşamazlarsa miktarı mahkeme belirler<br />Yukarıdakilerden hangisi veya hangileri A, B ve C adlı kişiler ortak bir sanat eseri meydana getirmekteyken, C ölmesi durumunda söz konusu olabilir?
     - **Cevap A-) I-II-III**
     - B-) II-III
     - C-) Yalnızca III
     - D-) I ve III
     - E-) I -II
 
-    > **Açıklama:** FSEK m. 64’e göre; şayet eser birden fazla kişi tarafından ortaklaşa meydana getirilmişse, eserin tamamlanmasından ya da alenileşmesinden önce vefat eden ortağın hissesi diğer ortaklar arasında paylaştırılır. Diğer ortaklar, ölenin mirasçılarına uygun bir bedel ödemekle yükümlüdürler. Eğer mirasçılarla ödenecek miktar konusunda anlaşmazlık yaşanırsa miktar mahkeme tarafından tespit edilir.
+    > **Açıklama:** Eğer ortaklardan biri eserin alenileşmesinden sonra vefat ederse, diğer ortaklar eserin sahipliğini ölen ortağın mirasçılarıyla devam ettirme konusunda serbesttirler. Eğer devam etme kararı alırlarsa, kalan eser sahipleri, birlik adına hareket etmek üzere mirasçılar arasından bir temsilci belirlenmesini talep edebilirler. Eğer devam etme kararı alınmazsa, eserin sahipliği ile ilgili bir önceki kural (yani ölüm öncesinde ortaklık hissesinin taksimi ve mirasçılara bedel ödenmesi) uygulanır.
+    > FSEK m. 64’e göre; şayet eser birden fazla kişi tarafından ortaklaşa meydana getirilmişse, eserin tamamlanmasından ya da alenileşmesinden önce vefat eden ortağın hissesi diğer ortaklar arasında paylaştırılır. Diğer ortaklar, ölenin mirasçılarına uygun bir bedel ödemekle yükümlüdürler. Eğer mirasçılarla ödenecek miktar konusunda anlaşmazlık yaşanırsa miktar mahkeme tarafından tespit edilir.
 
     ***
 1. FSEK m. 48, eser sahibi veya mirasçılarının kendilerine kanunen tanınan mali hakları başkalarına devredebilecekleri gibi bu hakların yalnızca kullanma yetkisini de diğer bir kimseye bırakabileceklerini kabul etmiş ve söz konusu hukuki işlemi “ruhsat” olarak nitelendirmiştir.<br />Uygulamada ruhsat yerine hangi ifade de kullanılmaktadır?
@@ -2158,27 +2333,30 @@
     - D-) Devir
     - E-) İntikal
 
-    > **Açıklama:** FSEK m. 48, eser sahibi veya mirasçılarının kendilerine kanunen tanınan mali hakları başkalarına devredebilecekleri gibi bu hakların yalnızca kullanma yetkisini de diğer bir kimseye bırakabileceklerini kabul etmiş ve söz konusu hukuki işlemi “ruhsat” olarak nitelendirmiştir. Ancak uygulamada ruhsat yerine “lisans” ifadesi de kullanır.
+    > **Açıklama:** FSEK m. 56’ya göre ruhsat; mali hak sahibinin başkalarına da aynı ruhsatı vermesine mâni değilse “basit ruhsat”; yalnız bir kimseye mahsus olduğu takdirde “tam ruhsat” olarak adlandırılır. Kanun veya sözleşmeden aksi anlaşılmadıkça her ruhsat basit sayılır.
+    > FSEK m. 48, eser sahibi veya mirasçılarının kendilerine kanunen tanınan mali hakları başkalarına devredebilecekleri gibi bu hakların yalnızca kullanma yetkisini de diğer bir kimseye bırakabileceklerini kabul etmiş ve söz konusu hukuki işlemi “ruhsat” olarak nitelendirmiştir. Ancak uygulamada ruhsat yerine “lisans” ifadesi de kullanır.
 
     ***
-1. Aşağıdakilerden hangisi en kısıtlayıcı lisans türüdür?
+1. Aşağıdakilerden hangisi en kısıtlayıcı lisans türüdür?
     - A-) CC BY-SA (Attribution-ShareAlike)
     - B-) CC BY (Attribution)
     - C-) CC BY-ND (Attribution-NoDerivs)
     - **Cevap D-) CC BY-NC-ND (Attribution-NonCommercial-NoDerivs),**
     - E-) CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)
 
-    > **Açıklama:** CC BY-NC-ND (Attribution-NonCommercial-NoDerivs), en kısıtlayıcı lisans türüdür.
+    > **Açıklama:** Bu lisans eserin yalnızca ticari olmayan amaçlarla ve değiştirilmeden kullanılmasına izin verir ve eserin kaynağına atıf yapılmasını şart koşar.
+    > CC BY-NC-ND (Attribution-NonCommercial-NoDerivs), en kısıtlayıcı lisans türüdür.
 
     ***
-1. FSEK'e göre  cayma ihbarının tebliğinden itibaren hangi süre geçtikten sonra caymaya karşı itiraz davası açılamaz?
+1. FSEK'e göre cayma ihbarının tebliğinden itibaren hangi süre geçtikten sonra caymaya karşı itiraz davası açılamaz?
     - A-) 15 gün
     - B-) 3 hafta
     - **Cevap C-) 4 hafta**
     - D-) 60 gün
     - E-) 3 ay
 
-    > **Açıklama:** Mehil verilmesine gerek duyulan durumlarda verilen mehil sonuçsuz kalmışsa, noter aracılığı ile yapılacak ihbar neticesinde cayma, hüküm ve sonuçlarını doğurur (FSEK m. 58/3). Cayma ihbarının tebliğinden itibaren 4 hafta geçtikten sonra caymaya karşı itiraz davası açılamaz.
+    > **Açıklama:** Mali hakkı devralan kişinin kullanmamakta kusuru yoksa veya eser sahibinin kusuru daha ağır ise cayma hakkını kullanan kişiden uygun bir tazminat istenebilir (FSEK m. 58/4).
+    > Mehil verilmesine gerek duyulan durumlarda verilen mehil sonuçsuz kalmışsa, noter aracılığı ile yapılacak ihbar neticesinde cayma, hüküm ve sonuçlarını doğurur (FSEK m. 58/3). Cayma ihbarının tebliğinden itibaren 4 hafta geçtikten sonra caymaya karşı itiraz davası açılamaz.
 
     ***
 1. A adlı kişi B adlı kişinin kendi adına tescil ettirmiş olduğu sanat eserinin gerçek sahibi olduğunu iddia etmektedir.<br />Aşağıdakilerden hangisi A'nın bu durum karşısında açabileceği davadır?
@@ -2188,37 +2366,41 @@
     - D-) Tazminat davası
     - E-) Terditli dava
 
-    > **Açıklama:** Tespit davası, bir hukuki ilişkinin veya bir hakkın varlığının ya da yokluğunun mahkeme tarafından resmî olarak tespiti için açılan davadır. Davanın açılmasındaki temel amaç, belirsiz bir hukuki durumu netleştirmek ve ileride oluşabilecek uyuşmazlıkları önlemektir. Tespit davasının sonucu, gelecekteki hukuki işlemlere ve kararlara yön verir; taraflar arasındaki belirsizliği ortadan kaldırır. Bununla birlikte FSEK’te genel bir “tecavüzün tespiti” davası düzenlenmemiştir.
+    > **Açıklama:** Kanun’da yalnızca eser sahipliğinin tespitine yönelik bir talep hakkı öngörülmüştür (FSEK m. 15/3). Hükme göre, eğer eserin kim tarafından yaratıldığı konusunda bir anlaşmazlık varsa ya da bir kişi eserin sahibi olduğunu iddia ediyorsa, eserin gerçek sahibinin belirlenmesi için mahkemeye başvurulabilir.
+    > Tespit davası, bir hukuki ilişkinin veya bir hakkın varlığının ya da yokluğunun mahkeme tarafından resmî olarak tespiti için açılan davadır. Davanın açılmasındaki temel amaç, belirsiz bir hukuki durumu netleştirmek ve ileride oluşabilecek uyuşmazlıkları önlemektir. Tespit davasının sonucu, gelecekteki hukuki işlemlere ve kararlara yön verir; taraflar arasındaki belirsizliği ortadan kaldırır. Bununla birlikte FSEK’te genel bir “tecavüzün tespiti” davası düzenlenmemiştir.
 
     ***
-1. I- Bu davanın tecavüzün önlenmesi amacıyla açılması hâlinde, tecavüzün gerçekleşeceğine dair yakın bir tehlike bulunduğuna ilişkin kanıtların ileri sürülmesi gerekir.<br />II-Bu davanın açılabilmesi için haksız eylemi gerçekleştiren ya da gerçekleştireceğinden şüphe duyulan kişinin kusurunun bulunması şarttır.<br />III- Tecavüzün men’i” ifadesinde geçen “men” kelimesi, Türkçede “engelleme” veya “durdurma” anlamına gelir.<br />Yukarıda  tecavüzün men’i davası ile ilgili verilen bilgilerden hangisi veya hangileri doğrudur?
+1. I- Bu davanın tecavüzün önlenmesi amacıyla açılması hâlinde, tecavüzün gerçekleşeceğine dair yakın bir tehlike bulunduğuna ilişkin kanıtların ileri sürülmesi gerekir.<br />II-Bu davanın açılabilmesi için haksız eylemi gerçekleştiren ya da gerçekleştireceğinden şüphe duyulan kişinin kusurunun bulunması şarttır.<br />III- Tecavüzün men’i” ifadesinde geçen “men” kelimesi, Türkçede “engelleme” veya “durdurma” anlamına gelir.<br />Yukarıda tecavüzün men’i davası ile ilgili verilen bilgilerden hangisi veya hangileri doğrudur?
     - A-) I-II-III
     - B-) I ve II
     - C-) II ve III
     - **Cevap D-) I ve III**
     - E-) Yalnızca II
 
-    > **Açıklama:** Bu davanın açılabilmesi için haksız eylemi gerçekleştiren ya da gerçekleştireceğinden şüphe duyulan kişinin kusurunun bulunması şart değildir.
+    > **Açıklama:** Mahkeme, kusurun mevcudiyeti ve ağırlığını dikkate alarak, tecavüzün men’i için uygun tedbirlerin neler olduğunu belirler (FSEK m. 69/2, m. 66/4)
+    > Bu davanın açılabilmesi için haksız eylemi gerçekleştiren ya da gerçekleştireceğinden şüphe duyulan kişinin kusurunun bulunması şart değildir.
 
     ***
-1. Bir tasarımcı,  05.05. 2023 tarihinde üretmiş olduğu FSEK veya SMK ile korunan tasarımının bir şirket tarafından 07.07. 2024 tarihinde izinsiz kullanıldığını fark etmiştir.<br />Söz konusu tasarımcı en geç hangi tarihe kadar tazminat davası açabilir?
-    - A-) 05.05.2025
-    - **Cevap B-) 07.07.2026**
-    - C-) 07.07.2028
-    - D-) 07.07. 2034
-    - E-) 05.05.2023
+1. Bir tasarımcı, 05.05. 2023 tarihinde üretmiş olduğu FSEK veya SMK ile korunan tasarımının bir şirket tarafından 07.07. 2024 tarihinde izinsiz kullanıldığını fark etmiştir.<br />Söz konusu tasarımcı en geç hangi tarihe kadar tazminat davası açabilir?
+    - A-) 05\.05.2025
+    - **Cevap B-) 07\.07.2026**
+    - C-) 07\.07.2028
+    - D-) 07\.07. 2034
+    - E-) 05\.05.2023
 
-    > **Açıklama:** Bir tasarımcı, FSEK veya SMK ile korunan tasarımının bir şirket tarafından izinsiz kullanıldığını fark ederse, zararı ve tazminat yükümlüsü şirketi öğrendiği tarihten itibaren iki yıl içinde tazminat davası açmalıdır. Aksi hâlde bir daha bu talebi ileri süremez.
+    > **Açıklama:** Dava, her hâlükarda izinsiz kullanımının gerçekleştiği tarihten itibaren on yıl içinde açılmalıdır. O hâlde örneğin, izinsiz kullanım 2012 yılında gerçekleşmişse ama tasarımcı bu durumu 2023 yılında öğrenmişse olayın gerçekleştiği tarihten itibaren on yıl geçtiği için artık tazminat talep edilemez.
+    > Bir tasarımcı, FSEK veya SMK ile korunan tasarımının bir şirket tarafından izinsiz kullanıldığını fark ederse, zararı ve tazminat yükümlüsü şirketi öğrendiği tarihten itibaren iki yıl içinde tazminat davası açmalıdır. Aksi hâlde bir daha bu talebi ileri süremez.
 
     ***
-1. Marka koruması olduğunu belirten işareti mal veya ambalaj üzerinden yetkisi olmadan kaldıran kişi ise bir yıldan üç yıla kadar hapis ve \_\_\_\_\_\_\_\_\_\_\_\_\_ kadar adli para cezası ile cezalandırılır.<br />Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?
+1. Marka koruması olduğunu belirten işareti mal veya ambalaj üzerinden yetkisi olmadan kaldıran kişi ise bir yıldan üç yıla kadar hapis ve \_\_\_\_\_\_\_\_\_\_\_\_\_ kadar adli para cezası ile cezalandırılır.<br />Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?
     - **Cevap A-) Beş bin güne**
     - B-) 730 güne
     - C-) Bin güne
     - D-) Üç bin güne
     - E-) İki bin güne
 
-    > **Açıklama:** Marka koruması olduğunu belirten işareti mal veya ambalaj üzerinden yetkisi olmadan kaldıran kişi ise bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır. Yetkisi olmadığı hâlde başkasına ait marka hakkını devretmek, lisans veya rehin vermek suretiyle tasarrufta bulunan kişiye verilecek ceza ise iki yıldan dört yıla kadar hapis ve beş bin güne kadar adli para cezasıdır.
+    > **Açıklama:** Başkasının hak sahibi olduğu marka taklit edilerek üretilmiş malı, satışa arz eden veya satan kişinin bu malı nereden temin ettiğini bildirmesi ve bu suretle üretenlerin ortaya çıkarılmasını ve üretilmiş mallara el konulmasını sağlaması hâlinde hakkında cezaya hükmolunmaz.
+    > Marka koruması olduğunu belirten işareti mal veya ambalaj üzerinden yetkisi olmadan kaldıran kişi ise bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır. Yetkisi olmadığı hâlde başkasına ait marka hakkını devretmek, lisans veya rehin vermek suretiyle tasarrufta bulunan kişiye verilecek ceza ise iki yıldan dört yıla kadar hapis ve beş bin güne kadar adli para cezasıdır.
 
     ***
 1. Aşağıdakilerden hangisi fikrî mülkiyet haklarıyla ilgili hukuki işlemler hakkında **yanlıştır**?
@@ -2337,7 +2519,7 @@
     > FSEK m. 70/3 hükmüne göre hakkı tecavüze uğrayan kişinin, tazminattan başka, hakkı ihlal eden kişi tarafından elde edilen kârın kendisine verilmesini isteme hakkı da bulunmaktadır. Ancak bu kişiden tecavüz’ün ref ’i davası kapsamında üç kat lisans bedeli talep edilmişse, elde edilen bu beden, ihlali gerçek­leştiren tarafından iade edilecek olan kâr bedelinden düşülür.
 
     ***
-1. "Kanun tarafından kişilere tanınan hakların, hukuki işlemlere konu edilebilmeleri için .......................... haklar olmaları gerekir" cümlesinde boş bırakılan yere aşağıdaki ifadelerin hangisi getirilmelidir?
+1. "Kanun tarafından kişilere tanınan hakların, hukuki işlemlere konu edilebilmeleri için .......................... haklar olmaları gerekir" cümlesinde boş bırakılan yere aşağıdaki ifadelerin hangisi getirilmelidir?
     - **Cevap A-) Üzerlerinde tasarruf edilebilir nitelikte**
     - B-) Tek taraflı
     - C-) Malike karşı
@@ -2354,7 +2536,8 @@
     - **Cevap D-) Eseri satan alan kişi eser sahip olduğu için kopyasını satabilir.**
     - E-) Mülkiyet ve mali hak devri gerekmektedir.
 
-    > **Açıklama:** Mülkiyet ve mali hak devri sözleşmesi birlikte yapılmış ise bu işlemi yapabilir.
+    > **Açıklama:** Sadece mülkiyet devri ile eseri kopyalayıp satamaz. Mali haklarının devri sözleşmesinin de yapılması gerekir.
+    > Mülkiyet ve mali hak devri sözleşmesi birlikte yapılmış ise bu işlemi yapabilir.
 
     ***
 1. Eser sahibi veya mirasçılarından mali bir hakkı devralan kişinin, bu hakkı yeniden üçüncü bir kişiye devretmesi mümkündür. Ancak bu durumda aşağıdakilerin hangisini yapması gerekir?
@@ -2364,7 +2547,7 @@
     - D-) Güncel bedel farkını eser sahibine ödemesi
     - E-) Mali haklar hariç sadece mülkiyet hakkını devretmesi
 
-    > **Açıklama:** Eser sahibi veya mirasçılarından yazılı izin alması gerekir.
+    > **Açıklama:** Eser sahibi veya mirasçılarından yazılı izin alması gerekir. Aksi halde devredemez.
 
     ***
 1. FSEK m. 48, eser sahibi veya mirasçılarının kendilerine kanunen tanınan mali hakları başkalarına devredebilecekleri gibi bu hakların yalnızca kullanma yetkisini de diğer bir kimseye bırakabileceklerini kabul etmiştir. Bu işlem aşağıdakilerin hangisidir?
@@ -2384,11 +2567,12 @@
     - D-) Mülkiyet devri
     - E-) Mali hak devri
 
-    > **Açıklama:** Günümüzdeki en yaygın açık lisans uygulamalarından biri Creative Commons
+    > **Açıklama:** Günümüz dünyasında, sanat ve ilim eserlerinin dijital platformlarda yayılması, bu eserlerin daha geniş bir kitleye ulaşmasını sağlamış ve bunların başka çalışmalarda kullanılma isteği, her kullanıcı için ayrı ayrı ruhsat/lisans anlaşmaları yapmanın zorluğu nedeniyle “açık lisans” sistemlerinin gelişmesine neden olmuştur.
+    > Günümüzdeki en yaygın açık lisans uygulamalarından biri Creative Commons
     > (CC) olarak anılan, eser sahiplerinin eserlerini belirli şartlar altında kullanıma açmasını sağlayan lisans sistemidir.
 
     ***
-1. Eserin herhangi bir amaç için kullanılmasına izin veren; ancak eser sahibine atıf yapılmasını gerektiren Creative Commons (CC) lisans türü aşağıdakilerin hangisidir?
+1. Eserin herhangi bir amaç için kullanılmasına izin veren; ancak eser sahibine atıf yapılmasını gerektiren Creative Commons (CC) lisans türü aşağıdakilerin hangisidir?
     - A-) CC BY-SA (Attribution-ShareAlike)
     - B-) CC BY-ND (Attribution-NoDerivs)
     - **Cevap C-) CC BY (Attribution)**
@@ -2405,17 +2589,19 @@
     - D-) Sınai Haklar
     - E-) Lisans
 
-    > **Açıklama:** FSEK’in 53 ve 54. maddeleri, mali hakların devri ve kullanım ruhsatlarının verilmesi süreçlerinde hem hak sahiplerini hem de alıcıları koruyan önlemler içerir. Kanun koyucu bu maddeleri “Tekeffül” başlığı altında düzenlemiştir.
+    > **Açıklama:** Tekeffül, “sorumluluk” anlamına gelir.
+    > FSEK’in 53 ve 54. maddeleri, mali hakların devri ve kullanım ruhsatlarının verilmesi süreçlerinde hem hak sahiplerini hem de alıcıları koruyan önlemler içerir. Kanun koyucu bu maddeleri “Tekeffül” başlığı altında düzenlemiştir.
 
     ***
-1. Aşağıda verilen Fikrî mülkiyet haklarını ihlal eden kişiye açılacak davaların hangisinde  ihlal eden kişinin bir kusurunun olması ve hakkı ihlal edilen kişinin zarara uğraması şartı bulunur?
+1. Aşağıda verilen Fikrî mülkiyet haklarını ihlal eden kişiye açılacak davaların hangisinde ihlal eden kişinin bir kusurunun olması ve hakkı ihlal edilen kişinin zarara uğraması şartı bulunur?
     - A-) Tespit Davası
     - B-) Tecavüzün Men’i Davası
     - **Cevap C-) Tazminat Davası**
     - D-) Tespit Davası
     - E-) Tecavüzün Durdurulması Davası
 
-    > **Açıklama:** Tazminat dışındaki taleplerde, ihlal eden kişinin bir kusurunun olması ve hakkı ihlal edilen kişinin zarara uğraması şart değildir.
+    > **Açıklama:** Tazminat, hakkına tecavüz edilen kişinin bu ihlal nedeniyle zarara uğraması hâlinde açılabilecek bir davadır. Ayrıca bu davanın açılabilmesi için hakkı ihlal edilen kişinin kusurlu olması ve ihlal fiili ile uğranılan zarar arasında nedensellik bağının bulunması gerekir.
+    > Tazminat dışındaki taleplerde, ihlal eden kişinin bir kusurunun olması ve hakkı ihlal edilen kişinin zarara uğraması şart değildir.
 
     ***
 1. Henüz alenileşmemiş bir eser, sahibinin rızası olmaksızın veya arzusuna aykırı olarak<br />umuma arz edildiği takdirde aşağıdaki davaların hangisi açılabilir?
@@ -2426,7 +2612,7 @@
     - E-) Tecavüzün durdurulması davası
 
     > **Açıklama:** Tecavüzün Ref’i Davası Hakları tecavüze uğrayan eser sahibinin tecavüz edene karşı açabileceği bir diğer dava ise tecavüzün ref’i (tecavüzün kaldırılması) davasıdır (FSEK m.
-    > 66). Bu davayla, meydana gelen ihlalin etkilerinin giderilmesi amaçlanır. Manevi hakların ihlali hâlinde ileri sürülebilecek tecavüzün ref’i talebi, FSEK m. 67’de düzenlenmiştir. Hatırlatmak gerekirse manevi haklardan ilki, eserin umuma arz edilip edilmemesini, yayımlanma zamanını ve tarzını tayin etme hakkıydı (FSEK m. 14). Henüz alenileşmemiş bir eser, sahibinin rızası olmaksızın veya arzusuna aykırı olarak umuma arz edildiği takdirde tecavüzün ref’i davası açılabilir.
+    > 66). Bu davayla, meydana gelen ihlalin etkilerinin giderilmesi amaçlanır. Manevi hakların ihlali hâlinde ileri sürülebilecek tecavüzün ref’i talebi, FSEK m. 67’de düzenlenmiştir. Hatırlatmak gerekirse manevi haklardan ilki, eserin umuma arz edilip edilmemesini, yayımlanma zamanını ve tarzını tayin etme hakkıydı (FSEK m. 14). Henüz alenileşmemiş bir eser, sahibinin rızası olmaksızın veya arzusuna aykırı olarak umuma arz edildiği takdirde tecavüzün ref’i davası açılabilir.
 
     ***
 1. Fikri ve sinai haklarin ihlalinde açılan ceza davalarına ilişkin aşağıda verilenlerin hangisi **yanlış** bir ifadedir?
@@ -2436,6 +2622,7 @@
     - D-) Ceza davalarında cezalarla ilgili temel ilkeler gözetilir.
     - **Cevap E-) Sınai Mülkiyet Kanunundaki hakların tümünün ihlalinde ceza davası söz konusudur.**
 
-    > **Açıklama:** Sınai Mülkiyet Kanunundaki hakların tümünün ihlalinde ceza davası söz konusu değildir. Sadece marka sahipliğine yönelik ceza davaları söz konusudur.
+    > **Açıklama:** SMK’de düzenlenen hakların ihlali hâlinde hak sahibinin çeşitli hukuk davaları açma imkânı mevcuttur. Ceza davalarını açma imkânı ise tüm sınai hak sahiplerine değil yalnızca marka sahiplerine tanınmıştır.
+    > Sınai Mülkiyet Kanunundaki hakların tümünün ihlalinde ceza davası söz konusu değildir. Sadece marka sahipliğine yönelik ceza davaları söz konusudur.
 
     ***

@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 3863494,
-        "SoruMetni": "\"Genelde belirli bir meslek alanına ilişkin bilgi, beceri ve tutumların olası en kısa sürede kazandırılması ve en kısa sürede bireylerin bunları uygulamaya aktarmalarını hedefleyen eğitim etkinliğidir.\"<br/><br/>Tanımı verilen kavram aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Genelde belirli bir meslek alanına ilişkin bilgi, beceri ve tutumların olası en kısa sürede kazandırılması ve en kısa sürede bireylerin bunları uygulamaya aktarmalarını hedefleyen eğitim etkinliğidir.\"<br/>Tanımı verilen kavram aşağıdakilerden hangisidir?",
         "A": "Eğitim",
         "B": "Öğretim",
         "C": "Öğrenme",
@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3863497,
-        "SoruMetni": "Öğrenmeyi bireyin zihinde depoladığı bilgi miktarındaki değişim olarak tanımlayan yaklaşım aşağıdakilerden hangisidir?",
+        "SoruMetni": "Öğrenmeyi bireyin zihinde depoladığı bilgi miktarındaki değişim olarak tanımlayan yaklaşım aşağıdakilerden hangisidir?",
         "A": "Davranışcı",
         "B": "Yapıcı",
         "C": "Bilişçi",
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 3863498,
-        "SoruMetni": "I.  nesnelcilik (objectivism)<br/> II. yapılandırmacılık (constructivism)<br/> III.  davranışçılık (behaviorism)<br/> Yukarıdakilerden hangisi ya da hangileri felsefi bakış açısı içerisinde yer alan yaklaşımdır?",
+        "SoruMetni": "I. nesnelcilik (objectivism)<br/>II. yapılandırmacılık (constructivism)<br/>III. davranışçılık (behaviorism)<br/>Yukarıdakilerden hangisi ya da hangileri felsefi bakış açısı içerisinde yer alan yaklaşımdır?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3863500,
-        "SoruMetni": "I• Öğrenme, organizmada var olan tepkinin yeni bir uyarıcı ile ortaya çıkarılmasıdır.<br/> II• Organizma koşullu uyaranları birbirinden ayırt ederek farklı koşullu tepkilerde bulunabilir. <br/> III• Sönmüş koşullu tepkiler, koşulsuz uyarıcılarla birlikte koşullu uyarıcılar verildiğinde kendiliğinden geri gelir. <br/> Yukarıdakilerden hangisi ya da hangileri Rus fizyolog Pavlov’un özellikle köpekler üzerinde yapmış olduğu deneyler sonunda ortaya koyduğu Klasik koşullanma (classical) ilkelerindendir?",
+        "SoruMetni": "I• Öğrenme, organizmada var olan tepkinin yeni bir uyarıcı ile ortaya çıkarılmasıdır.<br/>II• Organizma koşullu uyaranları birbirinden ayırt ederek farklı koşullu tepkilerde bulunabilir. <br/>III• Sönmüş koşullu tepkiler, koşulsuz uyarıcılarla birlikte koşullu uyarıcılar verildiğinde kendiliğinden geri gelir. <br/>Yukarıdakilerden hangisi ya da hangileri Rus fizyolog Pavlov’un özellikle köpekler üzerinde yapmış olduğu deneyler sonunda ortaya koyduğu Klasik koşullanma (classical) ilkelerindendir?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Klasik koşullanma (classical), Rus fizyolog Pavlov’un özellikle köpekler üzerinde yapmış olduğu deneyler sonunda ortaya koyduğu bir kuramdır. Bu kuramın ilkeleri şöyle özetlenebilir:<br/> • Öğrenme, organizmada var olan tepkinin yeni bir uyarıcı ile ortaya çıkarılmasıdır.<br/> • İki tür uyarıcı vardır: (1) Her zaman aynı tepkiyi uyandıran koşulsuz uyarıcı ve (2) başlangıçta etkisiz olan ancak koşulsuz uyarıcıyla eşleştirildiğinde koşullu tepkiyi uyandıran öğrenilmiş koşullu uyaran.<br/> • Organizma koşullu uyarıcılara karşı zamanla koşullu tepkilerde bulunma -genelleme- eğilimi gösterir.<br/> • Organizma koşullu uyaranları birbirinden ayırt ederek farklı koşullu tepkilerde bulunabilir.<br/> • Koşulsuz uyaran verilmeden koşullu uyaran verildiğinde sergilenen koşullu tepkide zamanla azalma ya da sönme gözlenebilir.<br/> • Sönmüş koşullu tepkiler, koşulsuz uyarıcılarla birlikte koşullu uyarıcılar verildiğinde kendiliğinden geri gelir."
+        "Aciklama": "Klasik koşullanma (classical), Rus fizyolog Pavlov’un özellikle köpekler üzerinde yapmış olduğu deneyler sonunda ortaya koyduğu bir kuramdır. Bu kuramın ilkeleri şöyle özetlenebilir:<br/>• Öğrenme, organizmada var olan tepkinin yeni bir uyarıcı ile ortaya çıkarılmasıdır.<br/>• İki tür uyarıcı vardır: (1) Her zaman aynı tepkiyi uyandıran koşulsuz uyarıcı ve (2) başlangıçta etkisiz olan ancak koşulsuz uyarıcıyla eşleştirildiğinde koşullu tepkiyi uyandıran öğrenilmiş koşullu uyaran.<br/>• Organizma koşullu uyarıcılara karşı zamanla koşullu tepkilerde bulunma -genelleme- eğilimi gösterir.<br/>• Organizma koşullu uyaranları birbirinden ayırt ederek farklı koşullu tepkilerde bulunabilir.<br/>• Koşulsuz uyaran verilmeden koşullu uyaran verildiğinde sergilenen koşullu tepkide zamanla azalma ya da sönme gözlenebilir.<br/>• Sönmüş koşullu tepkiler, koşulsuz uyarıcılarla birlikte koşullu uyarıcılar verildiğinde kendiliğinden geri gelir."
     },
     {
         "SoruID": 3863501,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Davranışçılık, eğitim alanında en uzun süre etkili olan yaklaşımdır. Biliş, yapıcı ve bağlantıcı yaklaşımların gelişmesiyle birlikte zayıflamasına karşın bu yaklaşımın uygulamalar üzerindeki etkileri hâlâ devam etmektedir. Bu etkiler ya da katkılarından bazıları seçeneklerde de paylaşılmıştır. <br/>* Öğretim tasarımı, öğrenme-öğretme ilkelerinden yararlanılarak öğretim etkinliklerinin ve gereçlerinin sistematik olarak düzenlenmesi sürecidir. <br/>* Tam öğrenme, öğretime başlamadan önce, öğrencilerin bir ön değerlendirmeye alınması; böylece öğrencilerin belirli bir düzeyden öğretme-öğrenme sürecine başlamalarının ve yeni sunulacak gereçleri %90 başarıyla özümseyene kadar çalışmalarının sağlanmasıdır. <br/>* Pekiştirme, beklenen davranışın ortaya çıkması için öğrenciye çeşitli uyaranların verilmesi şeklinde tanımlanabilir. Bu bağlamda doğru seçenektir. <br/>* Öğretme makineleri, programlı öğretim gereçlerini sunan özel araçlardır. <br/>* Programlı öğretim, öğretilecek içeriğin basitten karmaşığa doğru giden ardışık ve küçük parçalar halinde düzenlenmesi; bu düzenin, hata oranını en aza indirinceye kadar incelenmesi ve düzeltilmesi; öğrencinin sürece etken olarak katılması ve tepkide bulunması; tepki sonrası doğru yanıtın hemen sunulması; öğrencilerin, kendi öğrenme hızlarına göre materyali çalışmalarına olanak tanıyacak bireysel öğrenmenin sağlanmasıdır. <br/>* Öğretme makineleri ise programlı öğretim gereçlerini sunan özel araçlardır."
+        "Aciklama": "Davranışçılık, eğitim alanında en uzun süre etkili olan yaklaşımdır. Biliş, yapıcı ve bağlantıcı yaklaşımların gelişmesiyle birlikte zayıflamasına karşın bu yaklaşımın uygulamalar üzerindeki etkileri hâlâ devam etmektedir. Bu etkiler ya da katkılarından bazıları seçeneklerde de paylaşılmıştır. <br/>* Öğretim tasarımı, öğrenme-öğretme ilkelerinden yararlanılarak öğretim etkinliklerinin ve gereçlerinin sistematik olarak düzenlenmesi sürecidir. <br/>* Tam öğrenme, öğretime başlamadan önce, öğrencilerin bir ön değerlendirmeye alınması; böylece öğrencilerin belirli bir düzeyden öğretme-öğrenme sürecine başlamalarının ve yeni sunulacak gereçleri %90 başarıyla özümseyene kadar çalışmalarının sağlanmasıdır. <br/>* Pekiştirme, beklenen davranışın ortaya çıkması için öğrenciye çeşitli uyaranların verilmesi şeklinde tanımlanabilir. Bu bağlamda doğru seçenektir. <br/>* Öğretme makineleri, programlı öğretim gereçlerini sunan özel araçlardır. <br/>* Programlı öğretim, öğretilecek içeriğin basitten karmaşığa doğru giden ardışık ve küçük parçalar halinde düzenlenmesi; bu düzenin, hata oranını en aza indirinceye kadar incelenmesi ve düzeltilmesi; öğrencinin sürece etken olarak katılması ve tepkide bulunması; tepki sonrası doğru yanıtın hemen sunulması; öğrencilerin, kendi öğrenme hızlarına göre materyali çalışmalarına olanak tanıyacak bireysel öğrenmenin sağlanmasıdır. <br/>* Öğretme makineleri ise programlı öğretim gereçlerini sunan özel araçlardır."
     },
     {
         "SoruID": 3863503,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Wilson, Teslow ve Osman-Jouchoux (1995) yapıcılığın temelinde yatan düşünceleri şöyle sıralamışlardır: Zihin gerçektir ve zihinsel olayların incelenmesi gerekir. Bilgi, bellek içindedir ve dinamiktir. Anlam birey tarafından yapılandırılmıştır. Yansıma/soyutlama uzman olmak için önemlidir. Öğrenme, simgelerin yapılandırılmasını içerir. Öğretme, anlamın yapılandırılması için tartışmaktır. Düşünme ve algılama birbirinden ayrılamaz. Sorun çözme, bilişçi süreçlerin merkezindedir. Bu ilkelerden hareketle bilgi birey tarafından yapılandırılır; öğretme, anlamın yapılandırılması için tartışma sürecidir. Bu nedenle bireysel anlam inşasına, tartışmaya ve yansıtmaya dayalı öğrenme etkinlikleri yapılandırmacılığın özünü yansıtır. Diğer seçeneklerde ağırlıklı olarak öğretmen kontrolünde, doğru olan tek bir bilginin tek bir kaynaktan sunulduğu bağlamlara gönderme yapılmıştır."
+        "Aciklama": "Wilson, Teslow ve Osman-Jouchoux (1995) yapıcılığın temelinde yatan düşünceleri şöyle sıralamışlardır: Zihin gerçektir ve zihinsel olayların incelenmesi gerekir. Bilgi, bellek içindedir ve dinamiktir. Anlam birey tarafından yapılandırılmıştır. Yansıma/soyutlama uzman olmak için önemlidir. Öğrenme, simgelerin yapılandırılmasını içerir. Öğretme, anlamın yapılandırılması için tartışmaktır. Düşünme ve algılama birbirinden ayrılamaz. Sorun çözme, bilişçi süreçlerin merkezindedir. Bu ilkelerden hareketle bilgi birey tarafından yapılandırılır; öğretme, anlamın yapılandırılması için tartışma sürecidir. Bu nedenle bireysel anlam inşasına, tartışmaya ve yansıtmaya dayalı öğrenme etkinlikleri yapılandırmacılığın özünü yansıtır. Diğer seçeneklerde ağırlıklı olarak öğretmen kontrolünde, doğru olan tek bir bilginin tek bir kaynaktan sunulduğu bağlamlara gönderme yapılmıştır."
     },
     {
         "SoruID": 3863504,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
+        "Aciklama": "ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
     },
     {
         "SoruID": 3863610,
@@ -441,7 +441,7 @@
     },
     {
         "SoruID": 3924069,
-        "SoruMetni": "\"Bağlantıcı yaklaşım, bilginin ağa bağlı ilişkilerden oluştuğunu ve öğrenmenin bu ağlarda gezinme<br/>yeteneği olduğunu ileri sürmektedir. Bu yaklaşım, bilgi okuryazarlığına ayrı bir önem vermekte ve<br/>öğrencilerin kendi öğrenme ağları içinde bilgiyi gezinmelerine ve değerlendirmelerine yardımcı olmanın önemini vurgulamaktadır (Transue, 2013).\" <br/><br/>Bu bilgiden hareketle öğretenin rolüne ilişkin aşağıdaki çıkarımlardan hangisi yapılabilir?",
+        "SoruMetni": "\"Bağlantıcı yaklaşım, bilginin ağa bağlı ilişkilerden oluştuğunu ve öğrenmenin bu ağlarda gezinme<br/>yeteneği olduğunu ileri sürmektedir. Bu yaklaşım, bilgi okuryazarlığına ayrı bir önem vermekte ve<br/>öğrencilerin kendi öğrenme ağları içinde bilgiyi gezinmelerine ve değerlendirmelerine yardımcı olmanın önemini vurgulamaktadır (Transue, 2013).\" <br/>Bu bilgiden hareketle öğretenin rolüne ilişkin aşağıdaki çıkarımlardan hangisi yapılabilir?",
         "A": "Öğrenenlerin yeni ağlara erişmelerini kolaylaştırır.",
         "B": "Bilgiyi düzenler ve önceki bilgilerle ilişkilendirir.",
         "C": "Öğrencilerin dikkatini çekerek geri çağırma ve kodlamaya yardımcı olur.",
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
+        "Aciklama": "Bu soru tipi ADDIE modelinin daha iyi kavranması bağlamında yararlı olabilir. Bu nedenle birkaç versiyonu hazırlanmıştır.<br>ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
     },
     {
         "SoruID": 3940023,
@@ -497,6 +497,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
+        "Aciklama": "ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
     }
 ]

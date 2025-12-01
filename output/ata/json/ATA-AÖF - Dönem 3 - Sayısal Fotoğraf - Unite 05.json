@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 173210,
-        "SoruMetni": "<strong>Pozlandırma değeri 54 olan (54 EV'lik) bir flaş </strong><strong>100 ISO’da f/1.4 diyafram ve </strong><strong>tam güç patlama ile</strong><strong>yaklaşık kaç metre uzaktaki bir cismi aydınlatır?</strong>",
+        "SoruMetni": "<strong>Pozlandırma değeri 54 olan (54 EV'lik) bir flaş </strong><strong>100 ISO’da f/1.4 diyafram ve </strong><strong>tam güç patlama ile</strong><strong>yaklaşık kaç metre uzaktaki bir cismi aydınlatır?</strong>",
         "A": "540m",
         "B": "75.6m",
         "C": "120m",
@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 173215,
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 173219,
@@ -54,11 +56,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 173226,
-        "SoruMetni": "<strong>Sürekli ışık kaynakları içinde LED ışıkların halojen lambalı ışıklara olan üstünlüğü aşağıdakilerin hangisinde doğru olarak verilmiştir?</strong><br/> <br/><br> <br/></br>",
+        "SoruMetni": "<strong>Sürekli ışık kaynakları içinde LED ışıkların halojen lambalı ışıklara olan üstünlüğü aşağıdakilerin hangisinde doğru olarak verilmiştir?</strong><br/></br>",
         "A": "1200 kelvin ışık verir.",
         "B": "Çok yüksek aydınlatma gücüne sahiptir.",
         "C": "Çoğunlukla sarı ışık verir.",
@@ -73,7 +76,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 173231,
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 173234,
@@ -111,7 +116,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 173237,
@@ -130,7 +136,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 173241,
@@ -149,7 +156,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 173244,
@@ -168,7 +176,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 173247,
@@ -187,7 +196,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 178514,
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 178516,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 178518,
@@ -244,11 +256,12 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 178519,
-        "SoruMetni": "<strong>Stüdyoda 800 watt güçte birinci ışık 1/2 güçte tas ile soldan, 1500 watt güçte ikinci ışık 1/1 güçle softbox ile karşıdan verildiğinde kullanılan yapay ışık kaynağı aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Stüdyoda 800 watt güçte birinci ışık 1/2 güçte tas ile soldan, 1500 watt güçte ikinci ışık 1/1 güçle softbox ile karşıdan verildiğinde kullanılan yapay ışık kaynağı aşağıdakilerden hangisidir?</strong>",
         "A": "Paraflaş",
         "B": "Pop-up flaş",
         "C": "Tepe flaşı",
@@ -263,11 +276,12 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 178521,
-        "SoruMetni": "<strong>Fotoğraf makinelerinde kullanılan </strong><strong>güncel </strong><strong>4 hafıza kartı sınıfı aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Fotoğraf makinelerinde kullanılan </strong><strong>güncel </strong><strong>4 hafıza kartı sınıfı aşağıdakilerden hangisidir?</strong>",
         "A": "CF, SD, Mikro SD, XQD",
         "B": "CF, SD, UHD, HD",
         "C": "AF-S, QD, SD, ML",
@@ -282,7 +296,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 178523,
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 178525,
@@ -320,11 +336,12 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 178526,
-        "SoruMetni": "<strong>Kamerayı tripota sabitleyerek özellikle video ve panorama çekimleri yapmak için kullanılması gereken kafa türü aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Kamerayı tripota sabitleyerek özellikle video ve panorama çekimleri yapmak için kullanılması gereken kafa türü aşağıdakilerden hangisidir?</strong>",
         "A": "Shift yapan Mekanik Kafa",
         "B": "Top Kafa (Ball-Head)",
         "C": "Monolit Kafa",
@@ -339,7 +356,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 331764,
@@ -358,11 +376,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 331767,
-        "SoruMetni": "I. Konuyu doğrudan aydınlatma<br/> <br/>II. Görüntü ögelerine vurgu yapma<br> <br/>III. Özel efektler oluşturma<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri fotoğraf çekimlerinde flaş kullanımının amaçları arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Konuyu doğrudan aydınlatma<br/>II. Görüntü ögelerine vurgu yapma<br/>III. Özel efektler oluşturma<br/><strong>Yukarıdakilerden hangisi ya da hangileri fotoğraf çekimlerinde flaş kullanımının amaçları arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -377,11 +396,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 331770,
-        "SoruMetni": "Bütün flaşların bir çakma (ışık gücü) indeksi vardır. Bu, paraflaşlarda .......... olarak ifade edilirken çok kullanılan güncel tepe flaşlarında kılavuz numarası “EV”<br/> <br/>(Exposure Value) yani “Pozlandırma Değeri” ile ifade edilir.<br> <br/><strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "Bütün flaşların bir çakma (ışık gücü) indeksi vardır. Bu, paraflaşlarda .......... olarak ifade edilirken çok kullanılan güncel tepe flaşlarında kılavuz numarası “EV”<br/>(Exposure Value) yani “Pozlandırma Değeri” ile ifade edilir.<br/><strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
         "A": "Derece",
         "B": "Volt",
         "C": "Watt",
@@ -396,7 +416,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 331773,
@@ -415,11 +436,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 331776,
-        "SoruMetni": "<strong>Fotoğraf çekerken morötesi ışınım yani görünür ışıktan daha kısa olan 10 nm ila 400 nm dalga boylu arasındaki elektromanyetik radyasyon ışınlarının film düzlemine veya dijital sensöre ulaşmasını önlemek amacıyla kullanılan filtre türü aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Fotoğraf çekerken morötesi ışınım yani görünür ışıktan daha kısa olan 10 nm ila 400 nm dalga boylu arasındaki elektromanyetik radyasyon ışınlarının film düzlemine veya dijital sensöre ulaşmasını önlemek amacıyla kullanılan filtre türü aşağıdakilerden hangisidir?</strong>",
         "A": "Polarize Filtre",
         "B": "UV (Ultraviyole) Filtre",
         "C": "Nötr Yoğunluklu (ND) Filtre",
@@ -434,6 +456,7 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     }
 ]

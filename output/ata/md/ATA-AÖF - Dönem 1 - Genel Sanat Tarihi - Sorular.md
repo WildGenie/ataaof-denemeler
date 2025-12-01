@@ -141,7 +141,7 @@
     - D-) Rölyef
     - E-) Çini
     ***
-1. **Kiliselerde koronun arkasında bulunan ve camilerdeki mihrap bölümünü teşkil eden, doğu yönünü gösteren genellikle yarım yuvarlak planlı niş için aşağıdaki ifadelerden hangisi kullanılır?**
+1. **Kiliselerde koronun arkasında bulunan ve camilerdeki mihrap bölümünü teşkil eden, doğu yönünü gösteren genellikle yarım yuvarlak planlı niş için aşağıdaki ifadelerden hangisi kullanılır?**
     - A-) Mihrap
     - **Cevap B-) Apsis**
     - C-) Narteks
@@ -282,10 +282,10 @@
     - D-) J. Lubbock
     - **Cevap E-) Friedrich Hrozny**
     ***
-1. **Günümüzden 12.000 yıl öncesine tarihlenen Göbekli Tepe hangi döneme  ait bir inanç merkezidir?**
+1. **Günümüzden 12.000 yıl öncesine tarihlenen Göbekli Tepe hangi döneme ait bir inanç merkezidir?**
     - **Cevap A-) Paleolitik Dönem**
-    - B-) Neolitik Dönem
-    - C-) Kalkolitik Dönem
+    - B-) Neolitik Dönem
+    - C-) Kalkolitik Dönem
     - D-) Bronz Devri
     - E-) Tunç Devri
     ***
@@ -310,7 +310,7 @@
     - D-) Vandallar
     - E-) Burgondlar
     ***
-1. **MÖ 10.000 yani günümüzden 12.000 yıl öncesine tarihlenen, Neolitik Dönem’e ait bir inanç merkezi olan ve "T" biçimindeki dikilitaşlarıyla ön plana çıkan bölge aşağıdakilerden hangisidir?**
+1. **MÖ 10.000 yani günümüzden 12.000 yıl öncesine tarihlenen, Neolitik Dönem’e ait bir inanç merkezi olan ve "T" biçimindeki dikilitaşlarıyla ön plana çıkan bölge aşağıdakilerden hangisidir?**
     - A-) Nevali Çori
     - B-) Çayönü
     - **Cevap C-) Göbeklitepe**
@@ -324,7 +324,7 @@
     - **Cevap D-) Asurlular**
     - E-) Likyalılar
     ***
-1. I. Çavuştepe<br />II.Toprakkale
+1. I. Çavuştepe<br />II.Toprakkale<br />III. Alişar<br />**Yukarıdaki yerleşim yerlerinden hangisi ya da hangileri Urartuların önemli kale veya tapınak yerlerinden biri değildir?**
     - A-) I ve II
     - B-) Yalnız I
     - C-) Yalnız II
@@ -409,7 +409,7 @@
     - D-) Asur
     - E-) Mısır
     ***
-1. **Aşağıdakilerden hangisi Çin Seddi'nin yapılış amaçlarından biri değildir?**
+1. **Aşağıdakilerden hangisi Çin Seddi'nin yapılış amaçlarından biri değildir?**
     - A-) Türk boylarının saldırısına karşı savunmak
     - B-) Uzun savaşlar sonunda yıktığı beyliklerin esir düşen yöneticilerini sürgün ve ağır işe sürerek cezalandırmak
     - C-) Ülkeden kaçışları önlemek
@@ -472,7 +472,7 @@
     - D-) Zeus Tapınağı
     - E-) Halikarnas Mozolesi
     ***
-1. I. Dikili Taşlar<br />II. Mastabalar
+1. I. Dikili Taşlar<br />II. Mastabalar<br />III. Ev Mimarisi<br />**Yukarıdaki yapılardan hangisi Mısır'ın anıtsal örnekleri arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) Yalnız III
@@ -571,7 +571,7 @@
     - D-) Nimfeum
     - E-) Gymnasium
     ***
-1. **Duvar örgüsünde taş ve tuğlaları pozolona adı verilen,  volkanik küllerden oluşan, günümüz çimentosunu andıran harçla birleştirerek kullanarak, büyük yapıların gelişmesini sağlayan medeniyet aşağıdakilerden hangisidir?**
+1. **Duvar örgüsünde taş ve tuğlaları pozolona adı verilen, volkanik küllerden oluşan, günümüz çimentosunu andıran harçla birleştirerek kullanarak, büyük yapıların gelişmesini sağlayan medeniyet aşağıdakilerden hangisidir?**
     - A-) Yunan
     - **Cevap B-) Roma**
     - C-) Etrüsk
@@ -592,7 +592,7 @@
     - D-) Piramid
     - **Cevap E-) Pantheon**
     ***
-1. **Dünyanın en iyi korunmuş Antik Roma Anıtı olarak biliniyor. İlk başta içerisinde pagan tanrı heykelleri varken, kilise tarafından bu heykeller yok edilmiş,  bir Katolik kilisesi hâline getirilmiş yapı aşağıdakilerden hangisidir?**
+1. **Dünyanın en iyi korunmuş Antik Roma Anıtı olarak biliniyor. İlk başta içerisinde pagan tanrı heykelleri varken, kilise tarafından bu heykeller yok edilmiş, bir Katolik kilisesi hâline getirilmiş yapı aşağıdakilerden hangisidir?**
     - A-) Ayasofya
     - **Cevap B-) Pantheon**
     - C-) San Pier
@@ -627,7 +627,7 @@
     - D-) Evin diğer odaları avlunun etrafında simetrik bir şekilde düzenlenmiştir.
     - **Cevap E-) Ev odaları karanlık bir atrium ile avluya bağlıdır.**
     ***
-1. I. Arkaik Dönem: Mısır ve Mezopotamya sanatının etkileri görülür.<br />II. Hellenistik Dönem: Üstün estetik değerlere ve dışavurumcu güce sahip heykeller yapılmıştır.
+1. I. Arkaik Dönem: Mısır ve Mezopotamya sanatının etkileri görülür.<br />II. Hellenistik Dönem: Üstün estetik değerlere ve dışavurumcu güce sahip heykeller yapılmıştır.<br />III. Klasik Dönem: Figürlerde idealizm ön plandadır, yapılan heykel doğal gerçekliğe kavuşturulmuştur.<br />**Yukarıdakilerden hangisi ya da hangileri Antik Yunan Heykeli özellikleri arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -662,24 +662,24 @@
     - D-) Franklar
     - **Cevap E-) Roma**
     ***
-1. MÖ 7. yüzyıldan itibaren tanrılar için inşa edilen, taştan yapılmaya başlanan tapınaklar ve bunların biçimi, süslemesi, planı belirli kurallara bağlanmıştır. Bu kurallara “nizam” adı verilmektedir. Tapınakların hangi nizama göre yapıldığı cephe düzeni ve sütun başlıklarından anlaşılmaktadır. **Bu nizamların isimleri aşağıdakilerden hangisinde doğru verilmiştir?**
+1. MÖ 7. yüzyıldan itibaren tanrılar için inşa edilen, taştan yapılmaya başlanan tapınaklar ve bunların biçimi, süslemesi, planı belirli kurallara bağlanmıştır. Bu kurallara “nizam” adı verilmektedir. Tapınakların hangi nizama göre yapıldığı cephe düzeni ve sütun başlıklarından anlaşılmaktadır.**Bu nizamların isimleri aşağıdakilerden hangisinde doğru verilmiştir?**
     - **Cevap A-) Dor, İyon ve Korint**
     - B-) Dor, Samerra ve Ampir
     - C-) Korint, A Üslubu ve Barok
     - D-) İyon, Antik ve Volüt
     - E-) Dor, İyon ve C Üslubu
     ***
-1. **Yunanistan’da güçlü surlarla korunan şehirlere “polis” adı verilir, bu şehirler surlarla çevrilmişlerdir.  Bu şehirlerde birbirine paralel ve birbirini dik kesen düzenli caddelerin bulunduğu Hippodamos planının diğer ismi aşağıdakilerden hangisidir?**
+1. **Yunanistan’da güçlü surlarla korunan şehirlere “polis” adı verilir, bu şehirler surlarla çevrilmişlerdir. Bu şehirlerde birbirine paralel ve birbirini dik kesen düzenli caddelerin bulunduğu Hippodamos planının diğer ismi aşağıdakilerden hangisidir?**
     - A-) Karışık Plan
     - **Cevap B-) Izgara Plan**
     - C-) Rotond Plan
     - D-) Klasik Plan
     - E-) Eyvanlı Plan
     ***
-1. **Roma, efsaneye göre MÖ 27 Nisan 753 tarihinde, Truva Prensi Aeneas'ın torunları olarak da bilinen hangi kardeşler tarafından kurulmuştur?**
+1. **Roma, efsaneye göre MÖ 27 Nisan 753 tarihinde, Truva Prensi Aeneas'ın torunları olarak da bilinen hangi kardeşler tarafından kurulmuştur?**
     - **Cevap A-) Romulus ve Remus**
     - B-) Attila ve Bleda
-    - C-) Herodot ve Pasteur
+    - C-) Herodot ve Pasteur
     - D-) Herkül-Apollo
     - E-) Gog-Magog
     ***
@@ -734,11 +734,11 @@
     - E-) Orta Bizans Dönemi
     ***
 1. Roma İmparatoru Septimus tarafından yaptırılan ve daha sonra Konstantinus tarafından genişletilen ve imparatorluğun değişik yerlerinden getirilen eserlerle donatılan Hipodromun; eni 117, boyu ise 480 metreye, kapasitesi ise ………… kişiye ulaşıyordu.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
-    - A-) 2.000
-    - B-) 5.000
-    - C-) 10.000
-    - D-) 40.000
-    - **Cevap E-) 100.000**
+    - A-) 2\.000
+    - B-) 5\.000
+    - C-) 10\.000
+    - D-) 40\.000
+    - **Cevap E-) 100\.000**
     ***
 1. Delfi’deki Apollon Tapınağı’na sunulmuş olan üç ayaklı altından kazanın kaidesidir. Birbirine sarılmış üç büyük yılan başları üzerinde altından bir kazanı taşıyordu. Anıtın orijinali 8 metre yüksekliğinde olup 29 boğumludur. Bizans İmparatoru Konstantinus, anıtı Delfi kehanet merkezinden söktürerek Konstantinapolis’e getirtmiş ve Hipodroma diktirmiştir.<br />**Yukarıda özellikleri anlatılan Delfi kehanet merkezi hangi ülkededir?**
     - A-) Mısır
@@ -803,14 +803,14 @@
     - **Cevap D-) Erken Hristiyan**
     - E-) Geç Devir
     ***
-1. 325 yılında…………. toplanan I. Konsil Hristiyanlığa yeni bir güç kazandırmıştır. **Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+1. 325 yılında…………. toplanan I. Konsil Hristiyanlığa yeni bir güç kazandırmıştır.**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - **Cevap A-) İznik’te**
     - B-) Kadıköy’de
     - C-) Trabzon’da
     - D-) İstanbul’da
     - E-) Antakya’da
     ***
-1. Bizans mimarisinde çeşitli plan tipleri uygulanmıştır.<br />**Aşağıdakilerden hangisi bu plan tiplerinden biri değildir?**
+1. Bizans mimarisinde çeşitli plan tipleri uygulanmıştır.<br />**Aşağıdakilerden hangisi bu plan tiplerinden biri değildir?**
     - A-) Bazilikal plan
     - B-) Merkezî plan
     - C-) Serbest ve Yunan haçı plan
@@ -824,7 +824,7 @@
     - D-) Çanakkale
     - E-) Antakya
     ***
-1. Bizans Dönemi’nden kalma İstanbul’da yedi tane dikilitaş mevcuttur.<br />**Aşağıdakilerden hangisi bu dikilitaşlardan biri değildir?**
+1. Bizans Dönemi’nden kalma İstanbul’da yedi tane dikilitaş mevcuttur.<br />**Aşağıdakilerden hangisi bu dikilitaşlardan biri değildir?**
     - A-) Obelisk (Dikilitaş)
     - B-) Yılanlı Sütun
     - C-) Örmeli Sütun
@@ -838,7 +838,7 @@
     - D-) Mozaik
     - E-) Tempera
     ***
-1. **Aşağıdakilerden hangisi Bizans İmparatorluğu'nun tarihi dönemlerinden biri değildir?**
+1. **Aşağıdakilerden hangisi Bizans İmparatorluğu'nun tarihi dönemlerinden biri değildir?**
     - A-) İntikal ve Geçiş Dönemi
     - B-) İkonoklazma Dönemi
     - C-) Latin İstilası
@@ -852,7 +852,7 @@
     - D-) Ayasofya Sarnıcı
     - E-) Aya İrini Sarnıcı
     ***
-1. I. Gotlar Sütunu<br />II. Arkadius Sütunu
+1. I. Gotlar Sütunu<br />II. Arkadius Sütunu<br />III. Çemberlitaş Sütunu<br />**Yukarıdakilerden hangisi ya da hangileri Topkapı Sarayı'nın dış bahçesinde yer alan, yekpare mermerden yapılmış 18,5 m yüksekliğindeki korint başlıklı ve kartal armalı sütundur?**
     - **Cevap A-) Yalnız I**
     - B-) Yalnız II
     - C-) Yalnız III
@@ -989,11 +989,11 @@
 1. **Sîdî Ukbe Camii kim tarafından ne zaman yaptırılmıştır?**
     - **Cevap A-) Ukbe b. Nafi tarafından 670’te**
     - B-) Halife Abdülmelik b. Mervan tarafından 691’te
-    - C-) Halife I. Velid b. Abdülmelik  tarafından 705-715’te
+    - C-) Halife I. Velid b. Abdülmelik tarafından 705-715’te
     - D-) Süleyman bin Abdülmelik tarafından 715-716'da
-    - E-) Sa'd bin Ebi Vakkas  tarafından 635‘te
+    - E-) Sa'd bin Ebi Vakkas tarafından 635‘te
     ***
-1. **Kur’an-ı Kerim’deki ayetlere göre  Kâbe ne zaman yapılmıştır?**
+1. **Kur’an-ı Kerim’deki ayetlere göre Kâbe ne zaman yapılmıştır?**
     - **Cevap A-) Hz. İbrahim’den önce**
     - B-) Hz. Muhammed’ten önce
     - C-) Hz. Musa’dan önce
@@ -1007,7 +1007,7 @@
     - D-) Çok kubbeli
     - E-) Taphaneli
     ***
-1. **Dört Halife Dönemi’nden sonra kurulan ve 661-750 yılları arasında hüküm sürmüş olan, Mescid-i Aksa ve Kubbetü's Sahra gibi yapıları inşa eden Müslüman Arap Devleti aşağıdakilerden hangisidir?**
+1. **Dört Halife Dönemi’nden sonra kurulan ve 661-750 yılları arasında hüküm sürmüş olan, Mescid-i Aksa ve Kubbetü's Sahra gibi yapıları inşa eden Müslüman Arap Devleti aşağıdakilerden hangisidir?**
     - **Cevap A-) Emeviler**
     - B-) Abbasiler
     - C-) Gazneliler
@@ -1043,7 +1043,7 @@
     - D-) Büyük Selçuklular
     - E-) Hazarlar
     ***
-1. ……………....... minyatür sanatının başlangıcı  Maniciliğin kutsal kitabında bulunan resimlere dayanmaktadır. Maniheizm etkileri minyatür, el yazmalarında ve çeşitli metinlerde görülür.<br />**Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+1. ……………....... minyatür sanatının başlangıcı Maniciliğin kutsal kitabında bulunan resimlere dayanmaktadır. Maniheizm etkileri minyatür, el yazmalarında ve çeşitli metinlerde görülür.<br />**Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - **Cevap A-) Uygur**
     - B-) Göktürk
     - C-) Buda
@@ -1127,7 +1127,7 @@
     - **Cevap D-) Balbal**
     - E-) Kabartma
     ***
-1. 8. yüzyılda “………………” Doğu Türkistan’a nüfuz etmeleriyle duvar resimleri devri başlamıştır. Böylece ortaya çıkan resim üslubu zamanla bütün Orta Asya ülkelerini etkisi altına almıştır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+1. 8\. yüzyılda “………………” Doğu Türkistan’a nüfuz etmeleriyle duvar resimleri devri başlamıştır. Böylece ortaya çıkan resim üslubu zamanla bütün Orta Asya ülkelerini etkisi altına almıştır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Hunlar
     - B-) Göktürkler
     - **Cevap C-) Uygurlar**
@@ -1162,14 +1162,14 @@
     - D-) Avarlar
     - **Cevap E-) Göktürkler**
     ***
-1. **Afganistan sınırları içerisinde Alp Tegin tarafından kurulan, 961 - 1187 arasında hüküm süren, Leşker-i Bazar Sarayı, Leşker-i Bazar Ulu Camii ve  Ribat-ı Mahi gibi eserleri Türk-İslam mimarisine kazandıran devlet aşağıdakilerden hangisidir?**
+1. **Afganistan sınırları içerisinde Alp Tegin tarafından kurulan, 961 - 1187 arasında hüküm süren, Leşker-i Bazar Sarayı, Leşker-i Bazar Ulu Camii ve Ribat-ı Mahi gibi eserleri Türk-İslam mimarisine kazandıran devlet aşağıdakilerden hangisidir?**
     - A-) Karahanlılar
     - B-) Anadolu Selçuklu Devleti
     - C-) Samaniler
     - **Cevap D-) Gazneliler**
     - E-) Müvahidler
     ***
-1. I. Anav<br />II. Karasuk
+1. I. Anav<br />II. Karasuk<br />III. Taştık<br />IV. Afanesyevo<br />**Orta Asya’da yukarıda verilen kültürlerden hangisi ya da hangileri Türk Sanatı'nın ilk örneklerini oluşturmaktadır?**
     - A-) Yalnız I
     - B-) II ve IV
     - C-) Yalnız III

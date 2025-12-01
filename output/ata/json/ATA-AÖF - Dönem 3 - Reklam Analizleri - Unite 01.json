@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 107818,
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 107873,
@@ -54,7 +56,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 107898,
@@ -73,7 +76,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 108272,
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 127762,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 127780,
@@ -130,11 +136,12 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 166544,
-        "SoruMetni": "................................., ayrı bir dil oluşturarak kişilere içerdiği sözcükler ve görüntüler bütünüyle birlikte bir okuma alanı yaratmaktadır. Çeşitli grafik, fotoğraf, resim, desenler ile sözcükler ve metinler bu alanı oluşturmaktadır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "................................., ayrı bir dil oluşturarak kişilere içerdiği sözcükler ve görüntüler bütünüyle birlikte bir okuma alanı yaratmaktadır. Çeşitli grafik, fotoğraf, resim, desenler ile sözcükler ve metinler bu alanı oluşturmaktadır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Halkla ilişkiler okuryazarlığı",
         "B": "Sağlık okuryazarlığı",
         "C": "Harita okuryazarlığı",
@@ -149,7 +156,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 166547,
@@ -168,7 +176,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 166548,
@@ -187,11 +196,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 166549,
-        "SoruMetni": "I. Mesaj<br/> <br/>II. Medya<br> <br/>III. Gürültü<br> <br/>IV. Pazarlama stratejileri<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri iyi bir reklam analizi için hakkında bilgi sahibi olunması gereken reklam oluşturucu unsurlardandır?</strong></br></br></br>",
+        "SoruMetni": "I. Mesaj<br/>II. Medya<br/>III. Gürültü<br/>IV. Pazarlama stratejileri<br/><strong>Yukarıdakilerden hangisi ya da hangileri iyi bir reklam analizi için hakkında bilgi sahibi olunması gereken reklam oluşturucu unsurlardandır?</strong></br></br></br>",
         "A": "Yalnız I",
         "B": "I ve IV",
         "C": "I, II ve III",
@@ -206,11 +216,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 166550,
-        "SoruMetni": "Früh, kategori sistemini araştırma kapsamında düzenledikten sonra içerik analizine ilişkin bir yol önermektedir.<br/> <br/><strong>Aşağıdakilerden hangisi bu önerilerden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "Früh, kategori sistemini araştırma kapsamında düzenledikten sonra içerik analizine ilişkin bir yol önermektedir.<br/><strong>Aşağıdakilerden hangisi bu önerilerden biri <u>değildir</u>?</strong>",
         "A": "Basitleştirme",
         "B": "Gruplandırma",
         "C": "Genelleştirme",
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 166561,
@@ -244,7 +256,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 175965,
@@ -263,7 +276,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 175966,
@@ -282,11 +296,12 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 175967,
-        "SoruMetni": "……….............., hedef kitleye ürün hakkında bilgi ileten, hedef kitleyi meraklandıran hatta duygusal olarak etkileyen önemli bir bileşen olarak bilinmektedir. Bu süreçte reklamcı \"kime, neyi, nasıl söyleyeceğini\" belirlemektedir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "……….............., hedef kitleye ürün hakkında bilgi ileten, hedef kitleyi meraklandıran hatta duygusal olarak etkileyen önemli bir bileşen olarak bilinmektedir. Bu süreçte reklamcı \"kime, neyi, nasıl söyleyeceğini\" belirlemektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Yaratıcı süreç",
         "B": "Stratejik araştırma",
         "C": "Swot analizi",
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 175968,
@@ -320,7 +336,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 175969,
@@ -339,7 +356,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 175970,
@@ -358,11 +376,12 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 175971,
-        "SoruMetni": "Reklam mesajının alıcıda nasıl bir etki uyandırdığını ya da reklamın alıcılara (hedef kitlelere) ne söylediğini, alıcıları nasıl etkilediğini, nasıl bilgilendirdiğini ya da yönlendirdiğini anlamaya yönelik süreç ……………… olarak tanımlanabilir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Reklam mesajının alıcıda nasıl bir etki uyandırdığını ya da reklamın alıcılara (hedef kitlelere) ne söylediğini, alıcıları nasıl etkilediğini, nasıl bilgilendirdiğini ya da yönlendirdiğini anlamaya yönelik süreç ……………… olarak tanımlanabilir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Reklam Analizi",
         "B": "İletişim",
         "C": "Söylem Analizi",
@@ -377,11 +396,12 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 294041,
-        "SoruMetni": "I. Reklamın içinde bulunduğu durumu değerlendirmek<br/> <br/>II. Rekabet ortamında başarıyı sağlayacak ürünü ön plana çıkartmak<br> <br/>III. Rekabet ortamında başarıyı sağlayacak markayı ortaya çıkarmak<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri pazarlamacılar ve reklamcılar tarafından belirlenen reklam süreçleri arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Reklamın içinde bulunduğu durumu değerlendirmek<br/>II. Rekabet ortamında başarıyı sağlayacak ürünü ön plana çıkartmak<br/>III. Rekabet ortamında başarıyı sağlayacak markayı ortaya çıkarmak<br/><strong>Yukarıdakilerden hangisi ya da hangileri pazarlamacılar ve reklamcılar tarafından belirlenen reklam süreçleri arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -396,7 +416,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 294045,
@@ -415,11 +436,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 325095,
-        "SoruMetni": "<strong>Bir reklam analizinde, ürün politikaları, fiyatlandırma ve dağıtım stratejileri, diğer iletişim uygulamaları, rekabette izlenen yöntemleri incelediyse </strong><strong>araştırmacı</strong><strong> hangi alanda bir inceleme yapmıştır?</strong>",
+        "SoruMetni": "<strong>Bir reklam analizinde, ürün politikaları, fiyatlandırma ve dağıtım stratejileri, diğer iletişim uygulamaları, rekabette izlenen yöntemleri incelediyse </strong><strong>araştırmacı</strong><strong> hangi alanda bir inceleme yapmıştır?</strong>",
         "A": "Pazarlama stratejileri",
         "B": "Tüketici davranışları",
         "C": "Sosyokültürel yapı",
@@ -434,11 +456,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 327668,
-        "SoruMetni": "I. Reklamın hedef kitlede nasıl bir etki bıraktığı<br/> <br/>II. Reklamın kitleyi nasıl yönlendirdiği<br> <br/>III. Reklamın kitleyi nasıl bilgilendirdiği<br> <br/><strong>Yukarıdakilerden hangisine ya da hangilerine reklam analizleri aracılığıyla ulaşılabilir?</strong></br></br>",
+        "SoruMetni": "I. Reklamın hedef kitlede nasıl bir etki bıraktığı<br/>II. Reklamın kitleyi nasıl yönlendirdiği<br/>III. Reklamın kitleyi nasıl bilgilendirdiği<br/><strong>Yukarıdakilerden hangisine ya da hangilerine reklam analizleri aracılığıyla ulaşılabilir?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -453,11 +476,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 327789,
-        "SoruMetni": "I.   Örneklemin oluşturulması<br/> <br/>II.  Örneklemin bölüneceği birimler, itemler ya da kayıt birimleri ve bunların içinde toplanacağı kategorilerin saptanması   <br> <br/>III. Araştırma hedeflerini belirlemek<br> <br/>IV. Değerlendirme, çıkarsama ve yorumlama<br> <br/><strong>Aşağıdakilerden hangisinde içerik analizi sürecinin sıralaması doğru olarak verilmiştir?</strong></br></br></br>",
+        "SoruMetni": "I. Örneklemin oluşturulması<br/>II. Örneklemin bölüneceği birimler, itemler ya da kayıt birimleri ve bunların içinde toplanacağı kategorilerin saptanması <br/>III. Araştırma hedeflerini belirlemek<br/>IV. Değerlendirme, çıkarsama ve yorumlama<br/><strong>Aşağıdakilerden hangisinde içerik analizi sürecinin sıralaması doğru olarak verilmiştir?</strong></br></br></br>",
         "A": "I - II - III - IV",
         "B": "III - I - II - IV",
         "C": "III - I - IV - II",
@@ -472,11 +496,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 366809,
-        "SoruMetni": "I. Metnin bugün itibarıyla ne anlama geldiğini, verileri sayısal verilere dönüştürerek ortaya koyar.<br/> <br/>II.Metni parçalar, atomlaştırır ve tekrar birleştirerek yorumlar.<br> <br/>III.Metnin ardındaki yorumu, söylemi ortaya çıkarmaya çalışır.<br> <br/><strong>Yukarıda verilen özelliklerden hangisi ya da hangileri içerik analizi tekniğine aittir? </strong></br></br>",
+        "SoruMetni": "I. Metnin bugün itibarıyla ne anlama geldiğini, verileri sayısal verilere dönüştürerek ortaya koyar.<br/>II.Metni parçalar, atomlaştırır ve tekrar birleştirerek yorumlar.<br/>III.Metnin ardındaki yorumu, söylemi ortaya çıkarmaya çalışır.<br/><strong>Yukarıda verilen özelliklerden hangisi ya da hangileri içerik analizi tekniğine aittir? </strong></br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -491,11 +516,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 366821,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi içerik analizinin temel taşı olan kategorilerin belirlenmesi sürecinde dikkat edilmesi gereken ana unsurlardan biri <u>değildir</u>? </strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi içerik analizinin temel taşı olan kategorilerin belirlenmesi sürecinde dikkat edilmesi gereken ana unsurlardan biri <u>değildir</u>? </strong>",
         "A": "Aynı içerik farklı kategorilerde yer almamalıdır.",
         "B": "Kategoriler karşılıklı olarak birbirini dışlamalıdır.",
         "C": "Kategoriler bütünsel olmalı, metnin bütün boyutlarını içerebilmelidir.",
@@ -510,7 +536,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 393853,
@@ -529,6 +556,7 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     }
 ]

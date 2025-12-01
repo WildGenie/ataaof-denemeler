@@ -9,14 +9,15 @@
         "E": "Tipografik ögelerin metin gövdesinde uygun bir şekilde sıralanması",
         "DogruCevap": "B",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 337399,
@@ -28,14 +29,15 @@
         "E": "İçerik ve amaç doğrultusunda sayfada tipografik bir düzen oluşturmak",
         "DogruCevap": "D",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337400,
@@ -47,14 +49,15 @@
         "E": "Yazıda renk farklılıkları",
         "DogruCevap": "B",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 337401,
@@ -73,7 +76,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337402,
@@ -85,14 +89,15 @@
         "E": "Sayfada yer alan tipografik unsur miktarı",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337403,
@@ -104,14 +109,15 @@
         "E": "Tasarımda yer alan bilgi türlerini öncelik sırasına göre belirlemek",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337404,
@@ -123,14 +129,15 @@
         "E": "İçeriği anlama konusunda herhangi bir sıkıntı yaratmaz.",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337405,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 337406,
@@ -168,11 +176,12 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 342936,
-        "SoruMetni": "<strong>Farklı formda yazı tipleri, hatta aynı yazı ailesinde farklı stillerdeki yazılar, beyaz sayfa üzerinde farklı koyulukta lekeler olarak algılanan tipografik hiyerarşi oluşturma tekniği aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Farklı formda yazı tipleri, hatta aynı yazı ailesinde farklı stillerdeki yazılar, beyaz sayfa üzerinde farklı koyulukta lekeler olarak algılanan tipografik hiyerarşi oluşturma tekniği aşağıdakilerden hangisidir?</strong>",
         "A": "Farklı yazı tipi kullanımı",
         "B": "Kalın (Bold) yazı kullanımı",
         "C": "İtalik yazı kullanımı",
@@ -180,14 +189,15 @@
         "E": "Değişen renk ve ton oluşturma",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 343459,
@@ -199,14 +209,15 @@
         "E": "Birden fazla farklı yazı tipi kullanımı ile karakterlerin birbirinden farklılaşıp ayrışması",
         "DogruCevap": "D",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 347664,
@@ -218,14 +229,15 @@
         "E": "Üç ve daha fazla yazı tipi kullanımı",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 347666,
@@ -237,13 +249,14 @@
         "E": "İmajların arkada fon oluşturacak şekilde doku işleviyle kullanımı",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     }
 ]

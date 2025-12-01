@@ -4,7 +4,7 @@
         "SoruMetni": "Aşağıda ölçme ve değerlendirme kavramlarına ilişkin verilen bilgilerden hangisi <span style=\"text-decoration: underline;\">yanlıştır</span>?",
         "A": "Değerlendirme ölçmenin temelini oluşturur.",
         "B": "Ölçme bir niteliğin sayı ve sembollerle ifade edilmesidir.",
-        "C": "Ölçmede ölçülen nesnenin sahip olduğu özellik ya da niteliğin miktarı belirlenir.",
+        "C": "Ölçmede ölçülen nesnenin sahip olduğu özellik ya da niteliğin miktarı belirlenir.",
         "D": "Bir öğrenenin matematik sınavından 90 puan alması, ölçme işlemine örnek olarak gösterilebilir.",
         "E": "Değerlendirme ise ölçme sonuçlarına dayanarak bir yargıya varma sürecidir.",
         "DogruCevap": "A",
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hatırlama Basamağı: Yenilenmiş Bloom taksonomisine göre, hatırlama bilişsel alanın en temel düzeyini ifade eder. Bu aşamada, öğrenenler önceden öğrendikleri bilgileri hatırlama becerisine sahiptirler. Hatırlama düzeyini ölçmek amacıyla kullanılan sorular genellikle kısa ve doğrudan yanıtlar içerir <br/> Hatırlama basamağında öğrenenin temel öğrenme düzeyini değerlendirmek amacıyla, öğrenene öğrendiği materyalin sunulduğu koşullara benzer bir ortamda, tanıma veya hatırlama görevi verilir. Bu görevler genellikle öğrenenin öğrendiği bilgileri basit bir şekilde geri çağırma yeteneğini ölçer ve daha derin anlama veya genişletilmiş düşünme becerilerini test etmekten ziyade, öğrenenin öğrenilenleri temel düzeyde hatırlama kapasitesine odaklanır. Örneğin, bir öğrenen 10 İngilizce kelimenin Türkçe karşılıklarını öğrendiyse, bir hatırlama sınavıyla, öğrenenden bir listedeki İngilizce kelimeleri ikinci listedeki Türkçe karşılıklarıyla eşleştirmeleri (yani tanıma) veya listede sunulan her İngilizce kelimenin yanına karşılık gelen Türkçe kelimeyi yazmaları (yani hatırlama) istenebilir (Anderson ve Krathwohl, 2001). Ayrıca “Türkiye’nin başkentineresidir?”, “Mustafa Kemal Atatürk, Samsun’a kaç yılında çıkmıştır?”, “İstiklal Marşı’nın yazarı kimdir?”gibi sorular da öğrenenin hatırlama düzeyini ölçmek amacıyla kullanılabilecek örnek sorulardır (Anderson<br/> ve Krathwohl, 2001)."
+        "Aciklama": "Hatırlama Basamağı: Yenilenmiş Bloom taksonomisine göre, hatırlama bilişsel alanın en temel düzeyini ifade eder. Bu aşamada, öğrenenler önceden öğrendikleri bilgileri hatırlama becerisine sahiptirler. Hatırlama düzeyini ölçmek amacıyla kullanılan sorular genellikle kısa ve doğrudan yanıtlar içerir <br/>Hatırlama basamağında öğrenenin temel öğrenme düzeyini değerlendirmek amacıyla, öğrenene öğrendiği materyalin sunulduğu koşullara benzer bir ortamda, tanıma veya hatırlama görevi verilir. Bu görevler genellikle öğrenenin öğrendiği bilgileri basit bir şekilde geri çağırma yeteneğini ölçer ve daha derin anlama veya genişletilmiş düşünme becerilerini test etmekten ziyade, öğrenenin öğrenilenleri temel düzeyde hatırlama kapasitesine odaklanır. Örneğin, bir öğrenen 10 İngilizce kelimenin Türkçe karşılıklarını öğrendiyse, bir hatırlama sınavıyla, öğrenenden bir listedeki İngilizce kelimeleri ikinci listedeki Türkçe karşılıklarıyla eşleştirmeleri (yani tanıma) veya listede sunulan her İngilizce kelimenin yanına karşılık gelen Türkçe kelimeyi yazmaları (yani hatırlama) istenebilir (Anderson ve Krathwohl, 2001). Ayrıca “Türkiye’nin başkentineresidir?”, “Mustafa Kemal Atatürk, Samsun’a kaç yılında çıkmıştır?”, “İstiklal Marşı’nın yazarı kimdir?”gibi sorular da öğrenenin hatırlama düzeyini ölçmek amacıyla kullanılabilecek örnek sorulardır (Anderson<br/>ve Krathwohl, 2001)."
     },
     {
         "SoruID": 3863423,
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3863424,
-        "SoruMetni": "Bir sporcunun kişisel en iyi zamanlarını takip etmesi ve zaman içindeki ilerlemesini değerlendirmesi hangi değerlendirme türüne örnek olarak verilebilir.",
+        "SoruMetni": "Bir sporcunun kişisel en iyi zamanlarını takip etmesi ve zaman içindeki ilerlemesini değerlendirmesi hangi değerlendirme türüne örnek olarak verilebilir.",
         "A": "Tanılayıcı değerlendirme",
         "B": "Öz değerlendirme",
         "C": "Biçimlendirici değerlendirme",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3863425,
-        "SoruMetni": "Bir tartı ile ağırlığınızı birer dakika arayla dört defa ölçtüğünüzü düşünelim. Birinci ölçümde 65 kg, ikinci ölçümde 63 kg, üçüncü ölçümde 66,5 kg, dördüncü ölçümde ise 64 kg gibi farklı sonuçlar elde ettiğinizi varsayalım.  Bu tartının bir ölçme aracında bulunması gereken özeliklerden hangisinde bir sorunu vardır?",
+        "SoruMetni": "Bir tartı ile ağırlığınızı birer dakika arayla dört defa ölçtüğünüzü düşünelim. Birinci ölçümde 65 kg, ikinci ölçümde 63 kg, üçüncü ölçümde 66,5 kg, dördüncü ölçümde ise 64 kg gibi farklı sonuçlar elde ettiğinizi varsayalım. Bu tartının bir ölçme aracında bulunması gereken özeliklerden hangisinde bir sorunu vardır?",
         "A": "Güvenirlik",
         "B": "Geçerlik",
         "C": "Kullanışlılık",
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kısa Cevaplı Sorular: Kısa cevaplı sorular, öğrenenlerin cevabını açık uçlu olarak ifade etmelerini gerektiren bir soru türüdür. Sorular, doğrudan bir soru, tamamlanmamış bir ifade veya soru şeklinde olabilir. Kısa cevaplı sorular, bilişsel alan basamaklarının alt düzeylerindeki yeterliklerini test etmek için kullanılabilir. Öğrenenin olası yanıtlar listesinden doğru yanıtı belirlemek yerine bir yanıt vermesini gerektirir, böylece şans başarısını azaltır.<br/> Kısa cevaplı sorular, eksik cümle türünde (boşluk doldurma) ya da kökü soru ifadesiyle biten sorular olarak iki türdür. Boşluk doldurma soruları, öğrenenlerin eksik kelimeleri veya sayıları tamamlamasını gerektiren bir soru türüdür. Boşluklar bir cümlenin içinde veya bir sorunun sonunda yer alabilir. Ayrıca, birden fazla boşluk bir metin paragrafına veya bir tabloya da dağıtılabilir."
+        "Aciklama": "Kısa Cevaplı Sorular: Kısa cevaplı sorular, öğrenenlerin cevabını açık uçlu olarak ifade etmelerini gerektiren bir soru türüdür. Sorular, doğrudan bir soru, tamamlanmamış bir ifade veya soru şeklinde olabilir. Kısa cevaplı sorular, bilişsel alan basamaklarının alt düzeylerindeki yeterliklerini test etmek için kullanılabilir. Öğrenenin olası yanıtlar listesinden doğru yanıtı belirlemek yerine bir yanıt vermesini gerektirir, böylece şans başarısını azaltır.<br/>Kısa cevaplı sorular, eksik cümle türünde (boşluk doldurma) ya da kökü soru ifadesiyle biten sorular olarak iki türdür. Boşluk doldurma soruları, öğrenenlerin eksik kelimeleri veya sayıları tamamlamasını gerektiren bir soru türüdür. Boşluklar bir cümlenin içinde veya bir sorunun sonunda yer alabilir. Ayrıca, birden fazla boşluk bir metin paragrafına veya bir tabloya da dağıtılabilir."
     },
     {
         "SoruID": 3863427,
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Öğrenenler için geri bildirim aşağıdaki faydaları sağlayabilir (Nicol ve McFarlane-Dick, 2006):<br/> • Kendi öğrenme süreçlerini kontrol etme yeteneği kazandırarak öz-düzenleyici öğrenenler olmalarına yardımcı olur.<br/> • Kendi performanslarını izleme ve düzenleme sürecine aktif katılımlarını sağlar.<br/> • Performansları hakkındaki belirsizliği azaltabilir. Kavram yanılgılarını veya uygun olmayan stratejileri düzeltmeye yardımcı olabilir.<br/> •Daha yüksek motivasyon seviyelerine ve daha etkili stratejiler geliştirmelerine olanak tanır.<br/> D seçeneği öğretmene sağlayacağı faydayı ifade etmektedir."
+        "Aciklama": "Öğrenenler için geri bildirim aşağıdaki faydaları sağlayabilir (Nicol ve McFarlane-Dick, 2006):<br/>• Kendi öğrenme süreçlerini kontrol etme yeteneği kazandırarak öz-düzenleyici öğrenenler olmalarına yardımcı olur.<br/>• Kendi performanslarını izleme ve düzenleme sürecine aktif katılımlarını sağlar.<br/>• Performansları hakkındaki belirsizliği azaltabilir. Kavram yanılgılarını veya uygun olmayan stratejileri düzeltmeye yardımcı olabilir.<br/>•Daha yüksek motivasyon seviyelerine ve daha etkili stratejiler geliştirmelerine olanak tanır.<br/>D seçeneği öğretmene sağlayacağı faydayı ifade etmektedir."
     }
 ]

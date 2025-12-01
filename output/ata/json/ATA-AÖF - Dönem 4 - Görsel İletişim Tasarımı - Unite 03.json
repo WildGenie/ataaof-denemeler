@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 182803,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi görsel okuryazarlıkla ilgili <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi görsel okuryazarlıkla ilgili <u>değildir</u>?</strong>",
         "A": "Görsel okuryazarlık için çok perspektifli bir yaklaşım ve donanım gereklidir.",
         "B": "Görsel okuryazarlık 1950 ve 1960'lı yıllarda pedagojik içerikli bir kavram olarak ele alınmıştır.",
         "C": "Görsel okuryazarlık eleştirel düşünmeyi gerektirmektedir.",
@@ -9,14 +9,15 @@
         "E": "Görsel okuryazarlık birçok disiplinin etkin olduğu ve kullanıldığı bir okuma türüdür.",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 182804,
@@ -28,14 +29,15 @@
         "E": "Radyo",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182805,
@@ -47,18 +49,19 @@
         "E": "Çözümleme",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 182806,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi sosyal medyaya bir okuryazar gözüyle bakıldığında dikkat edilmesi gereken hususlardan biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi sosyal medyaya bir okuryazar gözüyle bakıldığında dikkat edilmesi gereken hususlardan biri <u>değildir</u>?</strong>",
         "A": "Gerçek-kurgu ayrımı",
         "B": "Röntgencilik-teşhircilik",
         "C": "Dezenformasyon",
@@ -66,14 +69,15 @@
         "E": "Beğenilme düzeyi",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182807,
@@ -85,14 +89,15 @@
         "E": "Öykülü filmlerin babası George Melies’tir.",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 182809,
@@ -104,14 +109,15 @@
         "E": "Feminist eleştiri, filmdeki toplumsal cinsiyet ve kadın-erkek rollerinin nasıl yansıtıldığını incelemektedir.",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 182810,
@@ -123,14 +129,15 @@
         "E": "Mekanik çoğaltmaya imkân tanır.",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 182812,
@@ -142,14 +149,15 @@
         "E": "Tanımlama- analiz etme",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 182816,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 254910,
@@ -180,14 +189,15 @@
         "E": "Günümüzde görsel materyaller hem çeşitlilik hem de sayıca oldukça fazladır.",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 254911,
@@ -199,14 +209,15 @@
         "E": "Telgraf",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 254912,
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 254913,
@@ -244,7 +256,8 @@
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 254914,
@@ -256,14 +269,15 @@
         "E": "İklim Afişleri",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 254916,
@@ -275,14 +289,15 @@
         "E": "Fotoğrafın öncüsüdür.",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 254917,
@@ -301,11 +316,12 @@
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 341182,
-        "SoruMetni": "<strong>Görsel okuryazarlıkta görseli okuyanın, kendine ve okuma sürecine dönük sorgulaması ve okunan materyale yönelik yargıda bulunmasının söz konusu olduğu işlemsel süreç aşağıdakilerden hangisidir? </strong>",
+        "SoruMetni": "<strong>Görsel okuryazarlıkta görseli okuyanın, kendine ve okuma sürecine dönük sorgulaması ve okunan materyale yönelik yargıda bulunmasının söz konusu olduğu işlemsel süreç aşağıdakilerden hangisidir? </strong>",
         "A": "Değerlendirme",
         "B": "Kodlama",
         "C": "Çözümleme",
@@ -313,14 +329,15 @@
         "E": "Kurgulama",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 341184,
@@ -332,14 +349,15 @@
         "E": "Röntgencilik-Teşhircilik",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 342045,
@@ -351,18 +369,19 @@
         "E": "Görsel okuryazarlık, eleştirel düşünmeyi gerektirmez.",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 342050,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi televizyonun özelliklerinden biri <u>değildir</u>? </strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi televizyonun özelliklerinden biri <u>değildir</u>? </strong>",
         "A": "Geniş bir hedef kitleye sahiptir.",
         "B": "Etki düzeyi düşüktür.",
         "C": "İnsanların duygularına tercüman olur.",
@@ -370,13 +389,14 @@
         "E": "Parçalı ama kesintisiz bir yayın sunar.",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     }
 ]

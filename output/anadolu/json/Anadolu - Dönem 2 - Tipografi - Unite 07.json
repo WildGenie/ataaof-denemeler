@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3769611,
-        "SoruMetni": "Birbiri arasında ardışık ilişki bulunan ve her sayının kendinden önceki sayı ile toplanması sonucu elde edilen sayı dizisine ne ad verilir?",
+        "SoruMetni": "Birbiri arasında ardışık ilişki bulunan ve her sayının kendinden önceki sayı ile toplanması sonucu elde edilen sayı dizisine ne ad verilir?",
         "A": "Fibonacci sayıları",
         "B": "Modulor sayıları",
         "C": "Birleşik sayılar",
@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Birbiri arasında ardışık ilişki bulunan ve her sayının kendinden önceki sayı ile toplanması sonucu elde edilen sayı dizisine Fibonacci sayıları denir."
+        "Aciklama": "Birbiri arasında ardışık ilişki bulunan ve her sayının kendinden önceki sayı ile toplanması sonucu elde edilen sayı dizisine Fibonacci sayıları denir."
     },
     {
         "SoruID": 3769612,
@@ -64,7 +64,7 @@
         "SoruMetni": "Bir kenarı “1”, diğer kenarı “1,618” ile orantılı olarak yaratılan dikdörtgene ne ad verilir?",
         "A": "Paralelkenar",
         "B": "Deltoid",
-        "C": "Eşkenar dörtgen",
+        "C": "Eşkenar dörtgen",
         "D": "Altın dikdörtgen",
         "E": "Yamuk dikdörtgen",
         "DogruCevap": "D",
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 3769676,
-        "SoruMetni": "<br/> <br/> <br/> <br/>\"<span style=\"text-decoration: underline;\"><strong>...,</strong></span> tanımlı yüzey üzerinde yarattığı görsel biçim ile tasarımın karakterini belirleyip, içeriğin barındırdığı fikre okurun nasıl tepki vereceğini önemli ölçüde etkiler\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>\"<span style=\"text-decoration: underline;\"><strong>...,</strong></span> tanımlı yüzey üzerinde yarattığı görsel biçim ile tasarımın karakterini belirleyip, içeriğin barındırdığı fikre okurun nasıl tepki vereceğini önemli ölçüde etkiler\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Tipografi",
         "B": "İletişim",
         "C": "Sayfa",
@@ -217,15 +217,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><span style=\"text-decoration: underline;\"><strong>Tipografi</strong></span>, tanımlı yüzey üzerinde yarattığı görsel biçim ile tasarımın karakterini belirleyip, içeriğin barındırdığı fikre okurun nasıl tepki vereceğini önemli ölçüde etkiler.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><span style=\"text-decoration: underline;\"><strong>Tipografi</strong></span>, tanımlı yüzey üzerinde yarattığı görsel biçim ile tasarımın karakterini belirleyip, içeriğin barındırdığı fikre okurun nasıl tepki vereceğini önemli ölçüde etkiler."
     },
     {
         "SoruID": 3769677,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranına eşit olduğu ilkesine dayanan ve “a:b = b:(a+b)” şeklinde formüle edilen prensip aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranına eşit olduğu ilkesine dayanan ve “a:b = b:(a+b)” şeklinde formüle edilen prensip aşağıdakilerden hangisidir?",
         "A": "Sayfa düzeni",
         "B": "Altın oran",
         "C": "Bütünlük",
-        "D": "<br/> <br/> <br/> <br/>Sayfa marjı<br/><br/><br/><br/>",
+        "D": "<br/>Sayfa marjı",
         "E": "Boşluk düzeni",
         "DogruCevap": "B",
         "DersAd": "Tipografi",
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranına eşit olduğu ilkesine dayanan <span style=\"text-decoration: underline;\"><strong>“altın oran”</strong></span> prensibi, “a:b = b:(a+b)” şeklinde formüle edilir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranına eşit olduğu ilkesine dayanan <span style=\"text-decoration: underline;\"><strong>“altın oran”</strong></span> prensibi, “a:b = b:(a+b)” şeklinde formüle edilir."
     },
     {
         "SoruID": 3769678,
-        "SoruMetni": "<span style=\"text-decoration: underline;\"><strong>A4</strong></span> kağıt ölçüsü aşağıdakilerden hangisidir?",
+        "SoruMetni": "<span style=\"text-decoration: underline;\"><strong>A4</strong></span> kağıt ölçüsü aşağıdakilerden hangisidir?",
         "A": "148x210 mm",
         "B": "297x420 mm",
         "C": "210 x 297 mm",
@@ -257,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kenarları arasında altın oran ilişkisi bulunan <strong>A4 kâğıt ölçüsü (210 x 297 mm)</strong> ise bir altın dikdörtgendir. A serisinin tüm kâğıt ölçüleri arasında, altın oran prensibine göre iki kat ölçüde artış veya 1⁄2 oranında azalma mevcuttur. Bu oransal ilişki bilgisi ve A4 kâğıdın ölçüsü, basit bir matematik ile diğer kâğıt boyutlarını hesaplamakta bize referans olacaktır."
+        "Aciklama": "Kenarları arasında altın oran ilişkisi bulunan <strong>A4 kâğıt ölçüsü (210 x 297 mm)</strong> ise bir altın dikdörtgendir. A serisinin tüm kâğıt ölçüleri arasında, altın oran prensibine göre iki kat ölçüde artış veya 1⁄2 oranında azalma mevcuttur. Bu oransal ilişki bilgisi ve A4 kâğıdın ölçüsü, basit bir matematik ile diğer kâğıt boyutlarını hesaplamakta bize referans olacaktır."
     },
     {
         "SoruID": 3769679,
-        "SoruMetni": "\"Belirli iletişim hedeflerine ulaşmak amacıyla tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesine <span style=\"text-decoration: underline;\"><strong>...</strong> </span> denir\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Belirli iletişim hedeflerine ulaşmak amacıyla tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesine <span style=\"text-decoration: underline;\"><strong>...</strong> </span> denir\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Altın dikdörtgen",
         "B": "Tasarım öğeleri",
         "C": "Ara başlık",
@@ -281,10 +281,10 @@
     },
     {
         "SoruID": 3769680,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinlere ne denir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Satır<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinlere ne denir?",
+        "A": "<br/>Satır",
         "B": "Sütun",
-        "C": "<br/> <br/> <br/> <br/>Satır aralığı<br/><br/><br/><br/>",
+        "C": "<br/>Satır aralığı",
         "D": "Okunabilir satır uzunluğu",
         "E": "Lorem ipsum",
         "DogruCevap": "E",
@@ -297,15 +297,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <strong>Lorem ipsum,</strong> dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinleridir."
+        "Aciklama": "<br/><strong>Lorem ipsum,</strong> dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinleridir."
     },
     {
         "SoruID": 3769681,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesi aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Kerning<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesi aşağıdakilerden hangisidir?",
+        "A": "<br/>Kerning",
         "B": "Yazı karakteri",
         "C": "Görsel sıkışıklık",
-        "D": "<br/> <br/> <br/> <br/>Tracking (letterspacing)<br/><br/><br/><br/>",
+        "D": "<br/>Tracking (letterspacing)",
         "E": "Yazı boyutu",
         "DogruCevap": "A",
         "DersAd": "Tipografi",
@@ -317,16 +317,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><strong>Kerning;</strong> belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesidir. Otomatik olarak eşit uygulanan boşluk değerlerinin, belirli harf kombinasyonlarına uygun olmaması ve kötü görüntülerin ortadan kaldırılmasına yöneliktir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><strong>Kerning;</strong> belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesidir. Otomatik olarak eşit uygulanan boşluk değerlerinin, belirli harf kombinasyonlarına uygun olmaması ve kötü görüntülerin ortadan kaldırılmasına yöneliktir."
     },
     {
         "SoruID": 3769682,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenmesi aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Metin alanları<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Izgara (grid)<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Başlıklar<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Kompozisyon<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Görüntü öğeleri<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenmesi aşağıdakilerden hangisidir?",
+        "A": "<br/>Metin alanları",
+        "B": "<br/>Izgara (grid)",
+        "C": "<br/>Başlıklar",
+        "D": "<br/>Kompozisyon",
+        "E": "<br/>Görüntü öğeleri",
         "DogruCevap": "B",
         "DersAd": "Tipografi",
         "Unite": 7,
@@ -337,16 +337,36 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><strong>Izgara (grid),</strong> sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenmesidir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><strong>Izgara (grid),</strong> sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenmesidir."
+    },
+    {
+        "SoruID": 3769683,
+        "SoruMetni": "<br/>Sayfa kenarı ile içerik (metin ve görsellerin oluşturduğu) arasındaki çevrelenen negatif alan aşağıdakilerden hangisidir?",
+        "A": "<br/>Sütunlar (columns)",
+        "B": "<br/>Satırlar (rows)",
+        "C": "<br/>Sayfa Kenar Boşlukları (marjin)",
+        "D": "<br/>Sütun Boşluğu (gutters)",
+        "E": "<br/>Modüller (modules)",
+        "DogruCevap": "C",
+        "DersAd": "Tipografi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.845157",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<br/><strong>Sayfa Kenar Boşlukları (marjin);</strong> sayfa kenarı ile içerik (metin ve görsellerin oluşturduğu) arasındaki çevrelenen negatif alandır."
     },
     {
         "SoruID": 3769684,
-        "SoruMetni": "<br/> <br/> <br/> <br/>\"Tasarımcının sayfa boyunca ve aşağısında tutarlı bir hizalama oluşturmasına yardımcı olan kılavuzlardır. <span style=\"text-decoration: underline;\"><strong>...</strong> </span> görsel öğelerin yatay konumla- rını ve sütun kenarları boyunca nasıl yükselip alçaldıklarını belirler\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>\"Tasarımcının sayfa boyunca ve aşağısında tutarlı bir hizalama oluşturmasına yardımcı olan kılavuzlardır. <span style=\"text-decoration: underline;\"><strong>...</strong> </span> görsel öğelerin yatay konumla- rını ve sütun kenarları boyunca nasıl yükselip alçaldıklarını belirler\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Cilt payı",
         "B": "İç boşluk",
-        "C": "<br/> <br/> <br/> <br/>Oluk (gutter)<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/> Akış çizgileri (flowline)<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Negatif alan<br/><br/><br/><br/>",
+        "C": "<br/>Oluk (gutter)",
+        "D": "<br/>Akış çizgileri (flowline)",
+        "E": "<br/>Negatif alan",
         "DogruCevap": "D",
         "DersAd": "Tipografi",
         "Unite": 7,
@@ -357,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Tasarımcının sayfa boyunca ve aşağısında tutarlı bir hiza- lama oluşturmasına yardımcı olan kılavuzlardır. <span style=\"text-decoration: underline;\"><strong>Akış çizgileri (flowline)</strong> </span>görsel öğelerin yatay konumlarını ve sütun kenarları boyunca nasıl yükselip alçaldıklarını belirler.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Tasarımcının sayfa boyunca ve aşağısında tutarlı bir hiza- lama oluşturmasına yardımcı olan kılavuzlardır. <span style=\"text-decoration: underline;\"><strong>Akış çizgileri (flowline)</strong> </span>görsel öğelerin yatay konumlarını ve sütun kenarları boyunca nasıl yükselip alçaldıklarını belirler."
     },
     {
         "SoruID": 3769685,
@@ -397,11 +417,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ızgara"
+        "Aciklama": "SAYFA YAPISINA YÖNELİK TEMEL BİLGİLER<br>ızgara"
     },
     {
         "SoruID": 3769817,
-        "SoruMetni": "........ bir kenarı “1”, diğer kenarı “1,618” ile orantılı olarak yaratılan dikdörtgendir.<br/> Yukarıdaki cümleyi aşağıdakilerden hangisi tamamlar?",
+        "SoruMetni": "........ bir kenarı “1”, diğer kenarı “1,618” ile orantılı olarak yaratılan dikdörtgendir.<br/>Yukarıdaki cümleyi aşağıdakilerden hangisi tamamlar?",
         "A": "Sayfa düzeni",
         "B": "Altın dikdörtgen",
         "C": "Altın oran",
@@ -417,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "altın dikdörtgen"
+        "Aciklama": "SAYFA YAPISINA YÖNELİK TEMEL<br/>BİLGİLER<br>altın dikdörtgen"
     },
     {
         "SoruID": 3769818,
@@ -437,7 +457,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "verso'dur"
+        "Aciklama": "Sayfa Düzeni (Layout)<br>verso'dur"
+    },
+    {
+        "SoruID": 3769819,
+        "SoruMetni": "Aşağıdakilerden hangisi satırların en rahat okunabildiği uzunluk için geçerlidir?",
+        "A": "ortalama beş karakterden oluşan üç-beş kelime",
+        "B": "ortalama beş karakterden oluşan dört-altı kelime",
+        "C": "ortalama altı karakterden oluşan beş-yedi kelime",
+        "D": "ortalama altı karakterden oluşan altı-sekiz kelime",
+        "E": "ortalama beş karakterden oluşan yedi-dokuz kelime",
+        "DogruCevap": "C",
+        "DersAd": "Tipografi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.777664",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "METİN VE BOŞLUKLARIN DÜZENLENMESİ<br>ortalama altı karakterden oluşan beş-yedi kelime"
     },
     {
         "SoruID": 3769820,
@@ -457,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "okunabilirlik"
+        "Aciklama": "Boşluk Düzenleme Biçimleri<br>okunabilirlik"
     },
     {
         "SoruID": 3769821,
@@ -477,11 +517,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kelimelerin arasına birden fazla boşluk bırakılması"
+        "Aciklama": "Boşluk Düzenleme Biçimleri<br>Kelimelerin arasına birden fazla boşluk bırakılması"
+    },
+    {
+        "SoruID": 3769822,
+        "SoruMetni": "Aşağıdakilerden hangisi sözcüğün algılanırlığını doğrudan etkileyen bir faktördür?",
+        "A": "Soldan ya da sağdan girinti kullanımı",
+        "B": "Metinde satırbaşı kullanılması",
+        "C": "Metin içerisinde yer alan harflerin tümünün küçük veya tümünün büyük kullanılması",
+        "D": "Paragraf boşluğu kullanımı",
+        "E": "Beyaz zeminde siyah renkte yazı kullanılması",
+        "DogruCevap": "C",
+        "DersAd": "Tipografi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.779324",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Paragraf Boşluğu Düzeni<br>Metin içerisinde yer alan harflerin tümünün küçük veya tümünün büyük kullanılması"
     },
     {
         "SoruID": 3769823,
-        "SoruMetni": "Aşağıdakilerden hangisi “harf arası boşluk” düzenlemesidir?",
+        "SoruMetni": "Aşağıdakilerden hangisi “harf arası boşluk” düzenlemesidir?",
         "A": "flowline",
         "B": "tracking",
         "C": "leading",
@@ -497,13 +557,33 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "tracking"
+        "Aciklama": "Harf Arası Boşluk Düzeni<br>tracking"
+    },
+    {
+        "SoruID": 3769824,
+        "SoruMetni": ".............. düzenlemesine sahip metinlerin küçük boyutlarda okunması güçtür.<br/>Yukarıdaki boşluğa uygun düşen ifade aşağıdakilerden hangisidir?",
+        "A": "Tümü büyük harf",
+        "B": "Tümü küçük harf",
+        "C": "Sağa hizalı",
+        "D": "Dar boşluk",
+        "E": "Sola hizalı",
+        "DogruCevap": "D",
+        "DersAd": "Tipografi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.850080",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Harf Arası Boşluk Düzeni<br>dar boşluk"
     },
     {
         "SoruID": 3769825,
-        "SoruMetni": "Aşağıdakilerden hangisi  sistematik düzenin oluşturulması amacıyla tasarlanan ızgaranın yapısal parçalarından biri değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi sistematik düzenin oluşturulması amacıyla tasarlanan ızgaranın yapısal parçalarından biri değildir?",
         "A": "sayfa kenar boşlukları (marjin)",
-        "B": "sütunlar<br/><br/>",
+        "B": "sütunlar",
         "C": "satırlar",
         "D": "modüller",
         "E": "sayfa numarası",
@@ -517,11 +597,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "sayfa numarası"
+        "Aciklama": "Izgara Mimarisi<br>sayfa numarası"
     },
     {
         "SoruID": 3770101,
-        "SoruMetni": "Aşağıdakilerden hangisi, birbiri arasında ardışık ilişki bulunan Fibonacci sayıları  kendisinden önceki sayıya bölündüğünde hangi orana ulaşıyor?",
+        "SoruMetni": "Aşağıdakilerden hangisi, birbiri arasında ardışık ilişki bulunan Fibonacci sayıları kendisinden önceki sayıya bölündüğünde hangi orana ulaşıyor?",
         "A": "Altın",
         "B": "Gümüş",
         "C": "Titanyum",
@@ -557,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "GİRİŞ<br/> Duygu, düşünce ve fikirlerin karşılıklı alışverişi- ne dayalı bir süreç olan iletişimin kalıcı hale getiril- mesinde yazı önemli araçlardan birisidir. Tipografi ise yazılı bir fikre, görsel biçim vermenin yoludur (Ambrose &amp; Harris, 2009, s. 38). Yeniliklere açık olduğu kadar, değişime karşı sağlam durabilen za- mansız bir kavramdır. Tipografi, tanımlı yüzey üzerinde yarattığı görsel biçim ile tasarımın karak- terini belirleyip, içeriğin barındırdığı fikre okurun nasıl tepki vereceğini önemli ölçüde etkiler."
+        "Aciklama": "GİRİŞ<br/>Duygu, düşünce ve fikirlerin karşılıklı alışverişi- ne dayalı bir süreç olan iletişimin kalıcı hale getiril- mesinde yazı önemli araçlardan birisidir. Tipografi ise yazılı bir fikre, görsel biçim vermenin yoludur (Ambrose &amp; Harris, 2009, s. 38). Yeniliklere açık olduğu kadar, değişime karşı sağlam durabilen za- mansız bir kavramdır. Tipografi, tanımlı yüzey üzerinde yarattığı görsel biçim ile tasarımın karak- terini belirleyip, içeriğin barındırdığı fikre okurun nasıl tepki vereceğini önemli ölçüde etkiler."
     },
     {
         "SoruID": 3770103,
@@ -601,8 +681,8 @@
     },
     {
         "SoruID": 3770105,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Belirli iletişim hedeflerine ulaşmak amacıyla tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesi aşağıdakilerin hangisidir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Sayfa düzeni (layout)<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Belirli iletişim hedeflerine ulaşmak amacıyla tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesi aşağıdakilerin hangisidir?",
+        "A": "<br/>Sayfa düzeni (layout)",
         "B": "Espas",
         "C": "Altın dikdörtgen",
         "D": "Verso",
@@ -617,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Belirli iletişim hede erine ulaşmak amacıyla tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesine sayfa düzeni (layout) denir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Belirli iletişim hede erine ulaşmak amacıyla tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesine sayfa düzeni (layout) denir."
     },
     {
         "SoruID": 3770106,
@@ -638,6 +718,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Lorem ipsum, dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinleridir."
+    },
+    {
+        "SoruID": 3770107,
+        "SoruMetni": "<br/>Metin içerisinde yer alan harflerin tümünün kullanılması da harflerin zemin ile oluşturacağı negatif/pozitif boşluk nedeniyle, sözcüğün algılanırlığını doğrudan etkileyen faktör nedir?",
+        "A": "Harflerin küçük veya tümünün büyük kullanılması",
+        "B": "Harflerin sıkışık kullanıması",
+        "C": "Harflerin aralıklı kullanılması",
+        "D": "Harflerin italik kullanılması",
+        "E": "Harflerin serifli kullanılması",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.785927",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<br/>Metin içerisinde yer alan har erin tümünün küçük veya TÜMÜNÜN BÜYÜK kullanılması da har erin zemin ile oluşturacağı negatif/pozitif boşluk nedeniyle, sözcüğün algılanırlığını doğrudan etkileyen bir faktördür."
     },
     {
         "SoruID": 3770108,
@@ -661,9 +761,9 @@
     },
     {
         "SoruID": 3770110,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesi işlemi aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesi işlemi aşağıdakilerden hangisidir?",
         "A": "Kerning",
-        "B": "<br/> <br/> <br/> <br/>Tracking<br/><br/><br/><br/>",
+        "B": "<br/>Tracking",
         "C": "Lorem ipsum",
         "D": "Verso",
         "E": "Recto",
@@ -677,11 +777,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Kerning; belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesidir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Kerning; belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesidir."
     },
     {
         "SoruID": 3770111,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenir.  Bu sistem aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenir. Bu sistem aşağıdakilerden hangisidir?",
         "A": "Izgara",
         "B": "Sütun",
         "C": "Oluk",
@@ -697,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Izgara, sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenmesidir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Izgara, sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenmesidir."
     },
     {
         "SoruID": 3770121,
@@ -761,10 +861,10 @@
     },
     {
         "SoruID": 3770124,
-        "SoruMetni": "<br/> Belirli iletişim hedeflerine ulaşmak amacıyla tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesine ne ad verilir?",
+        "SoruMetni": "<br/>Belirli iletişim hedeflerine ulaşmak amacıyla tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesine ne ad verilir?",
         "A": "Altın dikdörtgen",
         "B": "Sayfa boyutu",
-        "C": "<br/> <br/> <br/> <br/>Tasarım ilkeleri<br/><br/><br/><br/>",
+        "C": "<br/>Tasarım ilkeleri",
         "D": "Sayfa düzeni (layout)",
         "E": "Ana başlık",
         "DogruCevap": "D",
@@ -777,13 +877,33 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> Belirli iletişim hedeflerine ulaşmak amacıyla tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesine <span style=\"text-decoration: underline;\"><strong>sayfa düzeni (layout)</strong> </span>denir."
+        "Aciklama": "<br/>Belirli iletişim hedeflerine ulaşmak amacıyla tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesine <span style=\"text-decoration: underline;\"><strong>sayfa düzeni (layout)</strong> </span>denir."
+    },
+    {
+        "SoruID": 3770125,
+        "SoruMetni": "Dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinlere ne ad verilir?",
+        "A": "Garamond Pro",
+        "B": "Verso",
+        "C": "Recto",
+        "D": "Satır uzunluğu",
+        "E": "Lorem ipsum",
+        "DogruCevap": "E",
+        "DersAd": "Tipografi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.788227",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<span style=\"text-decoration: underline;\"><strong>Lorem ipsum</strong></span>, dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinleridir."
     },
     {
         "SoruID": 3770126,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesine ne ad verilir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Kerning<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Tracking<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesine ne ad verilir?",
+        "A": "<br/>Kerning",
+        "B": "<br/>Tracking",
         "C": "Sayfa tasarımı",
         "D": "Negatif boşluk",
         "E": "Pozitif boşluk",
@@ -797,16 +917,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><span style=\"text-decoration: underline;\"><strong>Kerning,</strong></span> belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesidir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><span style=\"text-decoration: underline;\"><strong>Kerning,</strong></span> belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesidir."
     },
     {
         "SoruID": 3770127,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Okuma yönü soldan sağa olan dillerde kullanılıp satır başlarının soldan aynı dikey noktaya yaslandığı, satır sonlarının ise serbest bırakıldığı düzen aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Yatay Bloklama<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Soldan bloklama<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Sağdan bloklama<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Ortadan bloklama<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Her iki tarafa yaslı bloklama<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Okuma yönü soldan sağa olan dillerde kullanılıp satır başlarının soldan aynı dikey noktaya yaslandığı, satır sonlarının ise serbest bırakıldığı düzen aşağıdakilerden hangisidir?",
+        "A": "<br/>Yatay Bloklama",
+        "B": "<br/>Soldan bloklama",
+        "C": "<br/>Sağdan bloklama",
+        "D": "<br/>Ortadan bloklama",
+        "E": "<br/>Her iki tarafa yaslı bloklama",
         "DogruCevap": "B",
         "DersAd": "Tipografi",
         "Unite": 7,
@@ -817,7 +937,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><span style=\"text-decoration: underline;\"><strong>Soldan bloklama,</strong></span> okuma yönü soldan sağa olan dillerde kullanılıp satır başlarının soldan aynı dikey noktaya yaslandığı, satır sonlarının ise serbest bırakıldığı düzendir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><span style=\"text-decoration: underline;\"><strong>Soldan bloklama,</strong></span> okuma yönü soldan sağa olan dillerde kullanılıp satır başlarının soldan aynı dikey noktaya yaslandığı, satır sonlarının ise serbest bırakıldığı düzendir."
+    },
+    {
+        "SoruID": 3770128,
+        "SoruMetni": "<br/>Sayfa kenarı ile içerik (metin ve görsellerin oluşturduğu) arasındaki çevrelenen negatif alan aşağıdakilerden hangisidir?",
+        "A": "Modül",
+        "B": "Oluk",
+        "C": "<br/>Sayfa Kenar Boşlukları (marjin)",
+        "D": "Satır",
+        "E": "Sütun",
+        "DogruCevap": "C",
+        "DersAd": "Tipografi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.833308",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<br/><span style=\"text-decoration: underline;\"><strong>Sayfa Kenar Boşlukları (marjin),</strong></span> sayfa kenarı ile içerik (metin ve görsellerin oluşturduğu) arasındaki çevrelenen negatif alandır."
     },
     {
         "SoruID": 3770129,
@@ -841,7 +981,7 @@
     },
     {
         "SoruID": 3770130,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Çoklu ihtiyaca yönelik bir ızgara çeşidi olarak tercih edilmesinin yanı sıra kavramsal bir estetiğe sahip olan ve İsviçre tipografisi veya 1950’lerin ve 60’ların Uluslararası Tipografik Stili  özellikle de Bauhaus’un rasyonalist düşüncesindeki nesnelliği, düzeni ve netliği vurgulaması sebebiyle, bu idealleri benimseyen tasarımcıların mesajlarını iletmek için çalışmalarında  kullandığı ızgara çeşidi aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Çoklu ihtiyaca yönelik bir ızgara çeşidi olarak tercih edilmesinin yanı sıra kavramsal bir estetiğe sahip olan ve İsviçre tipografisi veya 1950’lerin ve 60’ların Uluslararası Tipografik Stili özellikle de Bauhaus’un rasyonalist düşüncesindeki nesnelliği, düzeni ve netliği vurgulaması sebebiyle, bu idealleri benimseyen tasarımcıların mesajlarını iletmek için çalışmalarında kullandığı ızgara çeşidi aşağıdakilerden hangisidir?",
         "A": "Sütun ızgara",
         "B": "Hiyerarşik ızgara",
         "C": "Blok ızgara",
@@ -857,11 +997,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><span style=\"text-decoration: underline;\"><strong>Modüler ızgara</strong></span>, çoklu ihtiyaca yönelik bir ızgara çeşidi olarak tercih edilmesinin yanı sıra kavramsal bir estetiğe sahiptir. “Modüler ızgaralar İsviçre tipografisi veya 1950’lerin ve 60’ların Uluslararası Tipografik Stili ile ilişkilidir” (Harkins, 2010, s. 63). Özellikle Bauhaus’un rasyonalist düşüncesindeki nesnelliği, düzeni ve netliği vurgulaması sebebiyle, bu idealleri benimseyen tasarımcıların mesajlarını iletmek için çalışmalarında modüler ızgaralar kullandığı da bilinmektedir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><span style=\"text-decoration: underline;\"><strong>Modüler ızgara</strong></span>, çoklu ihtiyaca yönelik bir ızgara çeşidi olarak tercih edilmesinin yanı sıra kavramsal bir estetiğe sahiptir. “Modüler ızgaralar İsviçre tipografisi veya 1950’lerin ve 60’ların Uluslararası Tipografik Stili ile ilişkilidir” (Harkins, 2010, s. 63). Özellikle Bauhaus’un rasyonalist düşüncesindeki nesnelliği, düzeni ve netliği vurgulaması sebebiyle, bu idealleri benimseyen tasarımcıların mesajlarını iletmek için çalışmalarında modüler ızgaralar kullandığı da bilinmektedir."
     },
     {
         "SoruID": 3770196,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri sayfa düzeninde yer alan tasarım öğelerindendir?<br/> I-Şekiller<br/> II-Boşluklar<br/> III-Görseller",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri sayfa düzeninde yer alan tasarım öğelerindendir?<br/>I-Şekiller<br/>II-Boşluklar<br/>III-Görseller",
         "A": "sadece I",
         "B": "sadece II",
         "C": "II ve III",
@@ -880,8 +1020,28 @@
         "Aciklama": "<em>Sayfa düzeni </em>kavramı çok sayıdaki öğenin tekil ve bir arada kullanımıyla tanımlı alan içerisinde gerçekleştirilen bir gösteriye benzetilebilir. Sözcükler, görseller, şekiller ve boşluklardan oluşan tasarım öğeleri ise tıpkı akrobat­lar gibi etkileyici ve keyif veren bir düzenlemede tekil ve bir arada görev almaktadır. Bu doğrultuda her bir öğenin ayrı ayrı işlevlerini doğru biçimde yerine getirmesi ve bir arada oluşturdukları uyum, sayfa düzeninde istenilen başarının anahtarı olmaktadır."
     },
     {
+        "SoruID": 3770197,
+        "SoruMetni": "Dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinlerine ………………adı verilir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
+        "A": "Altın Dikdörtgen",
+        "B": "Lorem ipsum",
+        "C": "Marjin",
+        "D": "Oluk",
+        "E": "Izgara",
+        "DogruCevap": "B",
+        "DersAd": "Tipografi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.804836",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "METİN VE BOŞLUKLARIN DÜZENLENMESİ<br><strong>Lorem ipsum, </strong>dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinleridir."
+    },
+    {
         "SoruID": 3770198,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri doğru boşluk düzeninin sağladığı avantajlar arasında yer alır?<br/> I-Yazının daha iyi görünmesi<br/> II-Yazının okunurluğunun artması<br/> III-Yazının daha çok kişiye ulaşması",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri doğru boşluk düzeninin sağladığı avantajlar arasında yer alır?<br/>I-Yazının daha iyi görünmesi<br/>II-Yazının okunurluğunun artması<br/>III-Yazının daha çok kişiye ulaşması",
         "A": "I ve III",
         "B": "I ve II",
         "C": "Sadece III",
@@ -897,11 +1057,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İster harf arası isterse kelime arası boşluktan bahsedelim, doğru boşluk düzeni yazının daha iyi görünmesinin yanı sıra okunurluğunu da etkiler. Çok temel olarak harf arası boşlukların oranı arttığında, bir satırın barındırdığı harf karakter sayıları da aynı oranda azalacaktır. Tasarımcının tercihine göre yoğunluğuna karar verilen bu boşlukların düzenlenmesinde, en temel öncelik metnin okunabilirliğidir. Boşluklara bağlı olarak satırların oluşturduğu gri renk değerinin artması/azalması, paragrafların oluşturduğu yazı alanının yoğunluğunu da etkileyecek­tir."
+        "Aciklama": "Boşluk düzenleme biçimleri<br>İster harf arası isterse kelime arası boşluktan bahsedelim, doğru boşluk düzeni yazının daha iyi görünmesinin yanı sıra okunurluğunu da etkiler. Çok temel olarak harf arası boşlukların oranı arttığında, bir satırın barındırdığı harf karakter sayıları da aynı oranda azalacaktır. Tasarımcının tercihine göre yoğunluğuna karar verilen bu boşlukların düzenlenmesinde, en temel öncelik metnin okunabilirliğidir. Boşluklara bağlı olarak satırların oluşturduğu gri renk değerinin artması/azalması, paragrafların oluşturduğu yazı alanının yoğunluğunu da etkileyecek­tir."
     },
     {
         "SoruID": 3770199,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri metinlerin düzenlendiği yazı alanı içerisinde yer alan yatay bloklama biçimlerindendir?<br/> I- Soldan blok<br/> II-Üste blok<br/> III- Sağdan blok",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri metinlerin düzenlendiği yazı alanı içerisinde yer alan yatay bloklama biçimlerindendir?<br/>I- Soldan blok<br/>II-Üste blok<br/>III- Sağdan blok",
         "A": "Sadece II",
         "B": "I ve II",
         "C": "II ve III",
@@ -921,7 +1081,7 @@
     },
     {
         "SoruID": 3770200,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri metin alanları içerisinde harfler ve sözcükler arasında oluşan tanımsız beyaz boşlukların görsel ve işlevsel açıdan yarattığı sıkıntıyı giderecek çözüm yollarındandır?<br/> I- Satır uzunluğunu ve buna bağlı sütunların genişlik ölçüsünü değiştirmek<br/> II-Yazının içeriğini değiştirmek<br/> III- Metin içerisinde tireleme yapmak",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri metin alanları içerisinde harfler ve sözcükler arasında oluşan tanımsız beyaz boşlukların görsel ve işlevsel açıdan yarattığı sıkıntıyı giderecek çözüm yollarındandır?<br/>I- Satır uzunluğunu ve buna bağlı sütunların genişlik ölçüsünü değiştirmek<br/>II-Yazının içeriğini değiştirmek<br/>III- Metin içerisinde tireleme yapmak",
         "A": "I ve III",
         "B": "Sadece II",
         "C": "II ve III",
@@ -937,11 +1097,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Metin alanları içerisinde harfler ve sözcükler arasında oluşan tanımsız beyaz boşluklar görsel ve işlevsel açıdan sıkıntıya sebep olacaktır. Sıklıkla dar sütunlardaki yazı alanlarında karşılaşılan nehir oluşumları şu çözümler ile önlenebilmektedir;<br/> Satır uzunluğunu ve buna bağlı sütunların genişlik ölçüsünü değiştirmek,<br/> Metin içerisinde tireleme yapmak,<br/> Metni tam blok değil, sola blok biçiminde düzenlemek."
+        "Aciklama": "Bloklama<br>Metin alanları içerisinde harfler ve sözcükler arasında oluşan tanımsız beyaz boşluklar görsel ve işlevsel açıdan sıkıntıya sebep olacaktır. Sıklıkla dar sütunlardaki yazı alanlarında karşılaşılan nehir oluşumları şu çözümler ile önlenebilmektedir;<br/>Satır uzunluğunu ve buna bağlı sütunların genişlik ölçüsünü değiştirmek,<br/>Metin içerisinde tireleme yapmak,<br/>Metni tam blok değil, sola blok biçiminde düzenlemek."
     },
     {
         "SoruID": 3770201,
-        "SoruMetni": "Dar ölçüye sahip gazete sütunu gibi metinlerde, tam bloklama biçiminde oluşan hatalı be­yaz boşluklara ………………..adı verilir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Dar ölçüye sahip gazete sütunu gibi metinlerde, tam bloklama biçiminde oluşan hatalı be­yaz boşluklara ………………..adı verilir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
         "A": "Lorem Ipsum",
         "B": "Marjin",
         "C": "Kerning",
@@ -961,7 +1121,7 @@
     },
     {
         "SoruID": 3770202,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri sayfa düzeninde ızgara sisteminin tasarımcıya sağladığı avantajlar arasında yer alır?<br/> I-Zamanın verimli kullanılması<br/> II-Farklı kompozisyon seçeneklerinin oluşturulması<br/> III-Maliyeti düşürmesi",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri sayfa düzeninde ızgara sisteminin tasarımcıya sağladığı avantajlar arasında yer alır?<br/>I-Zamanın verimli kullanılması<br/>II-Farklı kompozisyon seçeneklerinin oluşturulması<br/>III-Maliyeti düşürmesi",
         "A": "Sadece III",
         "B": "Sadece II",
         "C": "I ve II",
@@ -977,7 +1137,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Izgara sistemi, tasarımcının zamanını verimli şekilde kullanabilmesi, farklı çeşitlilikte kompozisyonlar oluşturabilmesi ve tasarımın genelinde tutarlılık sağlamasına yardımcı bir araçtır. <strong>Izgara</strong>, sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenmesi­dir."
+        "Aciklama": "SAYFA TASARIMINDA IZGARA (GRID) SİSTEMİ<br>Izgara sistemi, tasarımcının zamanını verimli şekilde kullanabilmesi, farklı çeşitlilikte kompozisyonlar oluşturabilmesi ve tasarımın genelinde tutarlılık sağlamasına yardımcı bir araçtır. <strong>Izgara</strong>, sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenmesi­dir."
+    },
+    {
+        "SoruID": 3770203,
+        "SoruMetni": "Sayfa tasarımında Izgara sistemi içinde, sayfayı yatay uzamsal bölümlere ayıran ve görsel öğelerin yerleşimi için ek hizalama noktaları oluşturan yardımcı kılavuzlar aşağıdakilerden hangisidir?",
+        "A": "Modül",
+        "B": "Marjin",
+        "C": "Sütun",
+        "D": "Akış çizgisi",
+        "E": "Oluk",
+        "DogruCevap": "D",
+        "DersAd": "Tipografi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.824045",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<strong>Akış çizgisi (flowline); </strong>sayfayı yatay uzamsal bölümlere ayırır ve görsel öğelerin yerleşimi için ek hizalama noktaları oluşturur. Tasarımcının sayfa boyunca ve aşağısında tutarlı bir hiza­lama oluşturmasına yardımcı olan kılavuzlardır. Akış çizgileri, görsel öğelerin yatay konumla­rını ve sütun kenarları boyunca nasıl yükselip alçaldıklarını belirler."
     },
     {
         "SoruID": 3770204,
@@ -998,6 +1178,46 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "<strong>Sütunlar (columns); </strong>metinler ve görsellerden oluşan içeriği barındıran, yukarıdan aşağıya uzanan di­key bölümlerdir. Sütunların içeriklerinin birbirine müdahale etmesini önleyen, “sokak (alley)” isimli dar, dikey boşluklar ile ayrılırlar. Bazı yazılımlarda bu boşluklar için “oluk (gutter) tabiri de kullanılır"
+    },
+    {
+        "SoruID": 3770205,
+        "SoruMetni": "Tasarım öğelerinin ızgaranın sütunları ve satır­ları arasında “kendiliğinden” organik biçimdeki yerleşimine sahip ızgaralara……………..adı verilir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
+        "A": "Kerning",
+        "B": "Blok ızgara",
+        "C": "Sütun ızgara",
+        "D": "Modüler ızgara",
+        "E": "Hiyerarşik ızgara",
+        "DogruCevap": "E",
+        "DersAd": "Tipografi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.762793",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Serbest stil olarak da tanımlanabilen hiyerarşik ızgaralar, tasarım öğelerinin ızgaranın sütunları ve satır­ları arasında “kendiliğinden” organik biçimdeki yerleşimine sahip ızgaralardır. Buna bağlı olarak sütun ge­nişlikleri, satır yükseklikleri veya aralıklar ızgara boyunca değişkendir. Hiyerarşik ızgaranın temeli, düzenli tekrarlanan sütunlar, ara boşluklardan daha çok öğelerin oranlarına göre özelleştirilmiş hizalamalara ve sezgisel yerleşime dayanır. Serbest tasarım anlayışına sahip çalışmalarda sıklıkla tercih edilir"
+    },
+    {
+        "SoruID": 3770261,
+        "SoruMetni": "Aşağıdakilerden hangisi bir Bloklama (Alignment) biçimi <strong>değildir?</strong>",
+        "A": "Soldan Blok",
+        "B": "Sağdan Blok",
+        "C": "Ortadan Blok",
+        "D": "Çapraz Blok",
+        "E": "Tam Blok",
+        "DogruCevap": "D",
+        "DersAd": "Tipografi",
+        "Unite": 7,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.764839",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Bloklama (hizalama), metinlerin düzenlendiği yazı alanı içerisindeki yatay ve dikey konumlarını belirtir. Yatay bloklama biçimleri için soldan blok, ortadan blok, sağdan blok ve her iki tarafa yaslı (tam blok) ifadelerini kullanırız. Dikey bloklama biçimleri ise metin yazı alanındaki konumuna göre üste, ortaya, alta ve tam blok şeklinde ifade edilir (<br>Bloklama (hizalama), metinlerin düzenlendiği yazı alanı içerisindeki yatay ve dikey konumlarını belirtir. Yatay bloklama biçimleri için soldan blok, ortadan blok, sağdan blok ve her iki tarafa yaslı (tam blok) ifadelerini kullanırız. Dikey bloklama biçimleri ise metin yazı alanındaki konumuna göre üste, ortaya, alta ve tam blok şeklinde ifade edilir."
     },
     {
         "SoruID": 3770262,
@@ -1061,7 +1281,7 @@
     },
     {
         "SoruID": 3770265,
-        "SoruMetni": "<img alt=\"\" height=\"156\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/f7ccbb8640a4a4cc6c13b121b93df30c.png\" width=\"118\"/><br/> Görselde verilen ızgara türü aşağıdakilerden hangisidir?",
+        "SoruMetni": "<img alt=\"\" height=\"156\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/f7ccbb8640a4a4cc6c13b121b93df30c.png\" width=\"118\"/><br/>Görselde verilen ızgara türü aşağıdakilerden hangisidir?",
         "A": "Blok Izgara",
         "B": "Sütun Izgara",
         "C": "Modüler Izgara",
@@ -1077,11 +1297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<img alt=\"\" height=\"204\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png\" width=\"578\"/>"
+        "Aciklama": "<img alt=\"\" height=\"204\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png\" width=\"578\"/><br><img alt=\"\" height=\"204\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png\" width=\"578\"/>"
     },
     {
         "SoruID": 3770266,
-        "SoruMetni": "<img alt=\"\" height=\"144\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/45b0c6dc63642a75faca320d4ee777c4.png\" width=\"105\"/><br/> Görselde verilen ızgara türü aşağıdakilerden hangisidir?",
+        "SoruMetni": "<img alt=\"\" height=\"144\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/45b0c6dc63642a75faca320d4ee777c4.png\" width=\"105\"/><br/>Görselde verilen ızgara türü aşağıdakilerden hangisidir?",
         "A": "Blok Izgara",
         "B": "Sütun Izgara",
         "C": "Modüler Izgara",
@@ -1097,11 +1317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<img alt=\"\" height=\"204\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png\" width=\"578\"/>"
+        "Aciklama": "<img alt=\"\" height=\"204\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png\" width=\"578\"/><br><img alt=\"\" height=\"204\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png\" width=\"578\"/>"
     },
     {
         "SoruID": 3770267,
-        "SoruMetni": "\"Belirli iletişim hedeflerine ulaşmak amacıyla sayfa üzerinde tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesine .................... denir.\"<br/><br/>Yukarıdaki boşluğa uygun gelen ifade aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Belirli iletişim hedeflerine ulaşmak amacıyla sayfa üzerinde tanımlı alandaki tasarım unsurlarının, birbiriyle olan ilişkilerinin düzenlenmesine .................... denir.\"<br/>Yukarıdaki boşluğa uygun gelen ifade aşağıdakilerden hangisidir?",
         "A": "sayfa düzeni (layout)",
         "B": "Serif",
         "C": "Kerning",
@@ -1137,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Altın dikdörtgen bir kenarı “1”, diğer kenarı “1,618” ile orantılı olarak yaratılan dikdörtgendir. Altın dikdörtgen içinden, her seferinde kısa kenar uzunluğu karenin bir kenarını oluşturacak şekildeki kareler çıkarıldığında kalan her dikdörtgen yine altın dikdörtgendir. Bu durum sonsuza kadar kendini tekrarlamakta ve ortaya çıkan karenin köşegenlerinden geçen sarmal ise bir salyangoz sarmalını vermektedir."
+        "Aciklama": "Altın dikdörtgen bir kenarı “1”, diğer kenarı “1,618” ile orantılı olarak yaratılan dikdörtgendir. Altın dikdörtgen içinden, her seferinde kısa kenar uzunluğu karenin bir kenarını oluşturacak şekildeki kareler çıkarıldığında kalan her dikdörtgen yine altın dikdörtgendir. Bu durum sonsuza kadar kendini tekrarlamakta ve ortaya çıkan karenin köşegenlerinden geçen sarmal ise bir salyangoz sarmalını vermektedir (<br>Altın dikdörtgen bir kenarı “1”, diğer kenarı “1,618” ile orantılı olarak yaratılan dikdörtgendir. Altın dikdörtgen içinden, her seferinde kısa kenar uzunluğu karenin bir kenarını oluşturacak şekildeki kareler çıkarıldığında kalan her dikdörtgen yine altın dikdörtgendir. Bu durum sonsuza kadar kendini tekrarlamakta ve ortaya çıkan karenin köşegenlerinden geçen sarmal ise bir salyangoz sarmalını vermektedir."
     },
     {
         "SoruID": 3770269,

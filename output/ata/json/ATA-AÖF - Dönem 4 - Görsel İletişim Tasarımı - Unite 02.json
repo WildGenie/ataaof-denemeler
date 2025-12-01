@@ -9,14 +9,15 @@
         "E": "Aksesuar",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 182791,
@@ -28,14 +29,15 @@
         "E": "Mağara duvarlarına çizilen hiyeroglif",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182792,
@@ -47,18 +49,19 @@
         "E": "Radyo",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 182793,
-        "SoruMetni": "...................., işaretler, semboller ya da figürler aracılığıyla insanlar arasında söze gerek duymadan gerçekleştirilen iletişim türlerinden biridir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br> <br/></br>",
+        "SoruMetni": "...................., işaretler, semboller ya da figürler aracılığıyla insanlar arasında söze gerek duymadan gerçekleştirilen iletişim türlerinden biridir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
         "A": "Sözlü iletişim",
         "B": "Görsel iletişim",
         "C": "Yazılı iletişim",
@@ -66,18 +69,19 @@
         "E": "Kişiler arası iletişim",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 182794,
-        "SoruMetni": "<strong>Görsel iletişimde bireyin mesajı anlamlandırma sürecinin ilk basamağında yer alan duyu aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Görsel iletişimde bireyin mesajı anlamlandırma sürecinin ilk basamağında yer alan duyu aşağıdakilerden hangisidir?</strong>",
         "A": "Koklama",
         "B": "Duyma",
         "C": "Konuşma",
@@ -85,14 +89,15 @@
         "E": "Tat alma",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 182795,
@@ -104,14 +109,15 @@
         "E": "Ekonomik",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 182796,
@@ -123,14 +129,15 @@
         "E": "Ivy Bound",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 182797,
@@ -142,14 +149,15 @@
         "E": "Ren geyiği",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 182798,
@@ -161,14 +169,15 @@
         "E": "Eğitmek",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 182799,
@@ -180,18 +189,19 @@
         "E": "Televizyon",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 192486,
-        "SoruMetni": "I. Televizyon<br/> <br/>II. Mağara resimleri<br> <br/>III. Fotoğraf<br> <br/>IV. Yazı<br> <br/><strong>Görsel iletişimle ilgili yukarıda yer alan gelişmelerin kronolojik açıdan doğru sıralanışı aşağıdakilerden hangisidir?</strong></br></br></br>",
+        "SoruMetni": "I. Televizyon<br/>II. Mağara resimleri<br/>III. Fotoğraf<br/>IV. Yazı<br/><strong>Görsel iletişimle ilgili yukarıda yer alan gelişmelerin kronolojik açıdan doğru sıralanışı aşağıdakilerden hangisidir?</strong></br></br></br>",
         "A": "I-II-III-IV",
         "B": "II-III-IV-I",
         "C": "II-IV-III-I",
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 192489,
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 192490,
@@ -237,14 +249,15 @@
         "E": "Pastel Boya",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 192491,
@@ -263,7 +276,8 @@
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 192492,
@@ -275,14 +289,15 @@
         "E": "Conception",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 192493,
@@ -294,14 +309,15 @@
         "E": "Duman ve güvercin",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 342034,
@@ -313,14 +329,15 @@
         "E": "Televizyon",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 342038,
@@ -332,18 +349,19 @@
         "E": "1877 - Tsai Lun",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 342039,
-        "SoruMetni": "I. Sanayi Devrimi ile teknolojik aygıtların çoğalması, görsel iletişimin hız kazanmasını sağlamıştır.<br/> <br/>II. Sosyal ve kültürel paylaşımlar görsel iletişim aracılığıyla gerçekleşmektedir.<br> <br/>III. Görsel iletişimde yararlanılan farklı disiplinler aktarılmak istenen mesajın etkisi arttırır.<br> <br/><strong>Görsel iletişim ile ilgili olarak yukarıdaki açıklamalardan hangisi ya da hangileri doğrudur? </strong></br></br>",
+        "SoruMetni": "I. Sanayi Devrimi ile teknolojik aygıtların çoğalması, görsel iletişimin hız kazanmasını sağlamıştır.<br/>II. Sosyal ve kültürel paylaşımlar görsel iletişim aracılığıyla gerçekleşmektedir.<br/>III. Görsel iletişimde yararlanılan farklı disiplinler aktarılmak istenen mesajın etkisi arttırır.<br/><strong>Görsel iletişim ile ilgili olarak yukarıdaki açıklamalardan hangisi ya da hangileri doğrudur? </strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -351,14 +369,15 @@
         "E": "I, II ve III",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 342041,
@@ -370,13 +389,14 @@
         "E": "Bradbury Thompson",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     }
 ]

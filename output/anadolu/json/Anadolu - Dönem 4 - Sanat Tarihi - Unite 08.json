@@ -23,7 +23,7 @@
         "SoruID": 2937167,
         "SoruMetni": "Aşağıdakilerden hangisi bir realizm akımı sanatçısıdır?",
         "A": "Johnn Winckelmann",
-        "B": "Gustave Courbet <br/><br/>",
+        "B": "Gustave Courbet",
         "C": "William Turner",
         "D": "Jean Leon Gerome",
         "E": "Fausto Zonaro",
@@ -38,6 +38,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Realizmin önde gelen sanatçıları Gustave Courbet, Constantin Meunier, Wilhelm Leibl, Honore Daumier ve Jean François Millet’dir."
+    },
+    {
+        "SoruID": 2937168,
+        "SoruMetni": "Claude Monet hangi sanat akımına ait bir sanatçıdır?",
+        "A": "Romantizm",
+        "B": "Ekpresyonizm",
+        "C": "Empresyonizm",
+        "D": "Realizm",
+        "E": "Pre-Raphaelite",
+        "DogruCevap": "C",
+        "DersAd": "Sanat Tarihi",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:35.484893",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Monet, Empresyonizm ya da diğer adıyla izlenimcilik akımının en önemli temsilcilerindendir."
     },
     {
         "SoruID": 2937169,
@@ -80,6 +100,26 @@
         "Aciklama": "Sembolizm olarak ortaya çıkan anlayışı benimseyen sanatçılara göre gerçek sadece fiziksel olanla sınırlı değildir, düşünceyi de içermektedir."
     },
     {
+        "SoruID": 2937171,
+        "SoruMetni": "Aşağıdakilerden hangisi 19. yüzyıla ait bir sanat akımıdır?",
+        "A": "Empresyonizm",
+        "B": "Kubizm",
+        "C": "Postmodernizm",
+        "D": "Dadaizm",
+        "E": "Süprematizm",
+        "DogruCevap": "A",
+        "DersAd": "Sanat Tarihi",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:35.614769",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Empresyonizm 19. yüzyıla ait bir sanat akımıdır."
+    },
+    {
         "SoruID": 2937172,
         "SoruMetni": "Aşağıdakilerden hangisi 20. yüzyıla ait bir sanat akımıdır?",
         "A": "Kübizm",
@@ -118,6 +158,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Sürrealizm akımının en önemli temsilcilerinden olan ispanyol Salvador Dali, eserlerinde Freud'un kuramlarını yansıtmıştır."
+    },
+    {
+        "SoruID": 2937174,
+        "SoruMetni": "\"Sanat öldü, yaşasın sanat” söylemiyle sanatı geleneksel, akılcı tutumundan kurtarmayı amaçlayan sanatçıların ekolü aşağıdakilerden hangisidir?",
+        "A": "Dadaizm",
+        "B": "Port Modernizm",
+        "C": "Realizm",
+        "D": "Konstrüktivizm",
+        "E": "Süprematizm",
+        "DogruCevap": "A",
+        "DersAd": "Sanat Tarihi",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:35.558137",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Dadaistler, “sanat öldü, yaşasın sanat” söylemiyle sanatı geleneksel, akılcı tutumundan kurtarmayı amaçlamışlardır. Gazete kâğıdı, tahta, çivi gibi günlük eşyaları, nesne ve atıkları kolaj tekniğiyle rastlantısal ve anlık olarak, estetik kaygısı olmadan bir araya getirerek eserlerini gerçekleştirmişlerdir."
     },
     {
         "SoruID": 2937175,
@@ -261,7 +321,7 @@
     },
     {
         "SoruID": 2937182,
-        "SoruMetni": "-  Sanatı anlamlandırma ve çözümlemede kuramsal yöntemlerin uygulanması<br/> -  Kullanılan araçlar değil, düşüncenin kendisi asıl yapıt olarak öne çıkar<br/> Yukarıda anlatılmak istenen akım aşağıdakilerden hangisidir?",
+        "SoruMetni": "- Sanatı anlamlandırma ve çözümlemede kuramsal yöntemlerin uygulanması<br/>- Kullanılan araçlar değil, düşüncenin kendisi asıl yapıt olarak öne çıkar<br/>Yukarıda anlatılmak istenen akım aşağıdakilerden hangisidir?",
         "A": "Fütürizm",
         "B": "Sürrealizm",
         "C": "Minimalizm",
@@ -281,7 +341,7 @@
     },
     {
         "SoruID": 2937183,
-        "SoruMetni": "I. Türkiye’de de temsilcilerinin olduğu gösteri sanatı dünyanın birçok ülkesinde sürmektedir II. Geleneksel resim ve heykel sanatı, yeni yüzyılın hem uzağında hem de yakınındadır III.  Gelecekçilik akımının dinamizmi öne çıkaran anlayışa bir tepkisi vardır Yukarıda verilen ifadelerden hangisi/hangileri 21. yüzyıl sanatı ile ilgilidir?",
+        "SoruMetni": "I. Türkiye’de de temsilcilerinin olduğu gösteri sanatı dünyanın birçok ülkesinde sürmektedir II. Geleneksel resim ve heykel sanatı, yeni yüzyılın hem uzağında hem de yakınındadır III. Gelecekçilik akımının dinamizmi öne çıkaran anlayışa bir tepkisi vardır Yukarıda verilen ifadelerden hangisi/hangileri 21. yüzyıl sanatı ile ilgilidir?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -297,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çağdaş sanat etkinlikleri, kavramsal sanatın çeşitlenerek etkisinin sürdüğünü göstermekle beraber 21. yüzyılın sanatı hakkında da fikir verecek ipuçları içermektedir.<br/>Örneğin Türkiye’de de temsilcilerinin olduğu gösteri sanatı dünyanın birçok ülkesinde sürmektedir. Geleneksel resim, heykel sanatı ise yeni yüzyılın hem uzağında<br/>hem de yakınındadır."
+        "Aciklama": "Çağdaş sanat etkinlikleri, kavramsal sanatın çeşitlenerek etkisinin sürdüğünü göstermekle beraber 21. yüzyılın sanatı hakkında da fikir verecek ipuçları içermektedir.<br/>Örneğin Türkiye’de de temsilcilerinin olduğu gösteri sanatı dünyanın birçok ülkesinde sürmektedir. Geleneksel resim, heykel sanatı ise yeni yüzyılın hem uzağında<br/>hem de yakınındadır."
     },
     {
         "SoruID": 2937184,
@@ -557,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gustave Courbet Realizm akımının önde gelen sanatçılarından biri olup cevap d seçeneğidir."
+        "Aciklama": "Gustave Courbet Realizm akımının önde gelen sanatçılarından biri olup cevap d seçeneğidir."
     },
     {
         "SoruID": 2937197,
@@ -597,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sembolist sanatçılar değil neo-empresyonist sanatçılar renk üzerine yapılmış bilimsel çalışmaların etkisiyle divizyonizm denilen bir teknik geliştirmişlerdir. Bu nedenle cevap d seçeneğidir."
+        "Aciklama": "Sembolist sanatçılar değil neo-empresyonist sanatçılar renk üzerine yapılmış bilimsel çalışmaların etkisiyle divizyonizm denilen bir teknik geliştirmişlerdir. Bu nedenle cevap d seçeneğidir."
     },
     {
         "SoruID": 2937199,
@@ -617,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Avignonlu Kadınlar, Picasso'nun kübist sanat anlayışının ilk örneği, modern resmin başlangıcı sayılan eseri olup, cevap a seçeneğidir."
+        "Aciklama": "Avignonlu Kadınlar, Picasso'nun kübist sanat anlayışının ilk örneği, modern resmin başlangıcı sayılan eseri olup, cevap a seçeneğidir."
     },
     {
         "SoruID": 2937200,
@@ -637,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlk olarak 20. yüzyıl sanatçıları tarafından kullanılan, gazete ve dergi parçaları, fotoğraf gibi değişik, iki boyutlu malzemelerin bir tuval üzerinde birleştirilmesi ilkesine dayanan tekniğe kolaj denilip cevap b seçeneğidir."
+        "Aciklama": "İlk olarak 20. yüzyıl sanatçıları tarafından kullanılan, gazete ve dergi parçaları, fotoğraf gibi değişik, iki boyutlu malzemelerin bir tuval üzerinde birleştirilmesi ilkesine dayanan tekniğe kolaj denilip cevap b seçeneğidir."
     },
     {
         "SoruID": 2937201,
@@ -657,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kasimir Malevich, 20. yüzyıl başlarında Rusya'da ortaya çıkan Süprematizm adlı sanat hareketini başlatan sanatçı olup cevap a seçeneğidir."
+        "Aciklama": "Kasimir Malevich, 20. yüzyıl başlarında Rusya'da ortaya çıkan Süprematizm adlı sanat hareketini başlatan sanatçı olup cevap a seçeneğidir."
     },
     {
         "SoruID": 2937202,
@@ -681,11 +741,11 @@
     },
     {
         "SoruID": 2937203,
-        "SoruMetni": "Aşağıdakilerden hangisi Takashi Murakami'nin önderliğinde ortaya çıkan postmodern bir sanat hareketidir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Takashi Murakami'nin önderliğinde ortaya çıkan postmodern bir sanat hareketidir?",
         "A": "Superflat",
         "B": "Superstroke",
         "C": "Stuckism",
-        "D": "Immagine &amp; Poesia",
+        "D": "Immagine &amp; Poesia",
         "E": "Graffiti",
         "DogruCevap": "A",
         "DersAd": "Sanat Tarihi",
@@ -697,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Superflat Takashi Murakami'nin önderliğinde ortaya çıkan postmodern bir sanat hareketinin adı olup cevap a seçeneğidir."
+        "Aciklama": "Superflat Takashi Murakami'nin önderliğinde ortaya çıkan postmodern bir sanat hareketinin adı olup cevap a seçeneğidir."
     },
     {
         "SoruID": 2937204,
@@ -717,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Stuckism, kavramsal sanatın karşısında figüratif resmi savunan İngiliz sanatçılar  Billy Childish ve Charles Thomson tarafından ortaya konulan ve birçok ülkeye yayılan sanat hareketinin adı olup, cevap c seçeneğidir."
+        "Aciklama": "Stuckism, kavramsal sanatın karşısında figüratif resmi savunan İngiliz sanatçılar Billy Childish ve Charles Thomson tarafından ortaya konulan ve birçok ülkeye yayılan sanat hareketinin adı olup, cevap c seçeneğidir."
     },
     {
         "SoruID": 2937205,
@@ -737,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kiliseler ve soylular"
+        "Aciklama": "19. yüzyıl kültür<br/>ortamında beğeniler de koşullara bağlı olarak değişime uğramıştır. Önceki yüzyılda<br/>sanatçıların başlıca koruyucusu ve sipariş aldığı yer olan kilise ve soyluların yerini<br/>burjuvalar, ulusal devlet kurumları ve akademiler almıştır. Böylece daha önceden<br/>belirlenmiş kurallara ve sanat koruyucularının zevkine uygun eserler üreten sanatçılar,<br/>konularında ve üsluplarında özgürleşmeye başlamışlardır<br>Kiliseler ve soylular"
     },
     {
         "SoruID": 2937206,
@@ -757,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Neoklasisizm"
+        "Aciklama": "Neoklasisizm yazarlar ve kuramcılar tarafından yaratılan ve<br/>akademik bir dil olarak kabul gören ilk sanat üslubudur. Bu üslubun en önemli<br/>kuramcısı Alman sanat tarihçisi ve eleştirmen Johnn Winckelmann’dır"
     },
     {
         "SoruID": 2937207,
@@ -777,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Romantizm"
+        "Aciklama": "Romantizm: Akademik çevrelerin desteklediği<br/>neoklasisizmin soğukkanlılığına karşı, bireysel coşkuyu ön plana çıkaran bu<br/>akımın başlıca özellikleri; akıldışıcılık, duygusallık, heyecan, içgüdü, öznellik,<br/>sezgi ve ifade özgürlüğü, yalnızlık, doğa ile insanın gerilimi ya da uyumu olarak<br/>özetlenebilir"
     },
     {
         "SoruID": 2937208,
@@ -797,7 +857,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Realizm ve Pre-Raphaelite"
+        "Aciklama": "Realizm ve Pre-Raphaelite (Ön-Raffaelloculuk): Fransız düşünür Auguste<br/>Comte’un geliştirdiği, dayanağını gerçekten alan pozitivist felsefeden etkilenen<br/>realizm/gerçekçilik 1840’lardan 1880’lere kadar Batı dünyasındaki en güçlü sanat<br/>akımıdır. Klasik ve romantik akımlardan farklı olarak realizm şimdiki anı yüceltmiş,<br/>gerçek dünyanın dikkatli bir gözlemle, doğru, nesnel ve tarafsız betimlenmesini<br/>amaçlamıştır. Bu akımla edebi ve dinsel konuların yerini iş ve işçilik temaları<br/>almıştır. Realizmin önde gelen sanatçıları Gustave Courbet, Constantin Meunier,<br/>Wilhelm Leibl, Honore Daumier ve Jean François Millet’dir"
+    },
+    {
+        "SoruID": 2937209,
+        "SoruMetni": "Hugo SimbergWilliam Blake, Gustave Dore, PhilippOtto Runge ve Pre-Raphaelist sanatçılar hangi sanatın öncleri arasında yer almaktadır?",
+        "A": "Sembolizm",
+        "B": "Fovizm",
+        "C": "Neo Empresyonizm",
+        "D": "Oryantalizm",
+        "E": "Ekspresyonizm",
+        "DogruCevap": "A",
+        "DersAd": "Sanat Tarihi",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:35.524725",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Sembolizm olarak ortaya çıkan anlayışı<br/>benimseyen sanatçılara göre gerçek sadece<br/>fiziksel olanla sınırlı değildir, düşünceyi<br/>de içermektedir. Hugo Simberg<br/>William Blake, Gustave Dore, Philipp<br/>Otto Runge ve Pre-Raphaelist sanatçılar<br/>sembolizmin öncüleri arasında yer alırlar."
     },
     {
         "SoruID": 2937210,
@@ -817,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pablo Picasso"
+        "Aciklama": "Özellikle resim sanatında kendini hissettiren kübizmde, izlenimci<br/>ilkelere aykırı bir çevreye bakış söz konusudur. Geleneksel perspektif anlayışı<br/>yıkılarak modern bir sanat anlayışı yaratılmış, gerçek nesnenin kendisinde aranırken<br/>geometrik biçimlerde parçalara bölünerek, farklı bakış açılarıyla (cepheden,<br/>yandan, arkadan, üstten, alttan kesitleri alınarak, arkaya öne katlanarak) üçüncü<br/>boyutunun verilmesi sağlanmıştır. Bu akımın en önemli temsilcisi İspanyol Ressam<br/>Pablo Picasso’dur"
     },
     {
         "SoruID": 2937211,
@@ -857,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sürrealizm"
+        "Aciklama": "Gerçeküstücülük: 1922’den<br/>sonra dadaist gruptan ayrılan sanatçılar<br/>gerçeküstücülük, diğer<br/>adıyla sürrealizm akımının oluşmasında<br/>etkili olmuşlardır"
     },
     {
         "SoruID": 2937213,
@@ -877,11 +957,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kavramsal Sanat"
+        "Aciklama": "Kavramsal Sanat: Düşünce sanatı olarak da tanımlanan kavramsal sanat, sanatı<br/>anlamlandırma ve çözümlemede kuramsal yöntemlerin uygulanmasıdır. Bu anlayışta,<br/>sanat eseri olarak düşünce iletilirken resim, heykel gibi herhangi bir türe,<br/>biçime, kurala bağlı kalmadan dil, doğa, çeşitli nesneler ve insan bedeni araç olarak<br/>kullanılmıştır. Sanat yapıtlarının putlaştırılmamasını savunan bu görüşe göre<br/>sanatçının ilettiği mesaj verilirken kullanılan araçlar değil, düşüncenin kendisi asıl<br/>yapıt olarak öne çıkmalıdır."
     },
     {
         "SoruID": 2937214,
-        "SoruMetni": "Yoksul sanat haraketinin  özelliği  aşağıdaki seçeneklerden hangisidir",
+        "SoruMetni": "Yoksul sanat haraketinin özelliği aşağıdaki seçeneklerden hangisidir",
         "A": "İnsan vücutunu resmeder",
         "B": "Kavramsal düşünceyi savunur",
         "C": "Sanatçıların doğanın, yaşamın bir parçası olması gerektiği<br/>savunur. Hazır nesne kullanımı benimser",
@@ -897,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "sanatçıların doğanın, yaşamın bir parçası olması gerektiği<br/>savunur. Hazır nesne kullanımı benimser"
+        "Aciklama": "Hazır nesne<br/>kullanımı açısından dadaizm ile benzerliği olan yoksul sanatta doğadaki, çevredeki<br/>maddelere yönelinmiş, sanatçıların doğanın, yaşamın bir parçası olması gerektiği<br/>savunularak doğal, saf, arı olan taş, su, ağaç, toprak, hayvan gibi sanatçının<br/>ihtiyacı olabilecek her şeyin doğada zaten olduğu, yeni kalıplar yaratılmasına,üretilmesine gerek olmadığı belirtilmiştir.<br>sanatçıların doğanın, yaşamın bir parçası olması gerektiği<br/>savunur. Hazır nesne kullanımı benimser"
     },
     {
         "SoruID": 2937215,
@@ -917,7 +997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Arts and Crafts"
+        "Aciklama": "Giriş<br>Arts and Crafts"
     },
     {
         "SoruID": 2937216,
@@ -937,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu akımın içinde yaratılan Barbizon okulu dönemin en önemli manzara ressamlarının yetişmesini sağlamıştır."
+        "Aciklama": "19. Yüzyıl sanat akımları<br>Bu akımın içinde yaratılan Barbizon okulu dönemin en önemli manzara ressamlarının yetişmesini sağlamıştır."
     },
     {
         "SoruID": 2937217,
@@ -957,7 +1037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oryantalizm"
+        "Aciklama": "19. Yüzyıl sanat akımları<br>Oryantalizm"
     },
     {
         "SoruID": 2937218,
@@ -977,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kolaj"
+        "Aciklama": "Soyut sanat akımları<br>Kolaj"
     },
     {
         "SoruID": 2937219,
@@ -997,11 +1077,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Empresyonizm"
+        "Aciklama": "19. Yüzyıl sanat akımları<br>Empresyonizm"
     },
     {
         "SoruID": 2937220,
-        "SoruMetni": "1900 lerin başında Henry Matisse öncülüğünde Fransa’da geliştirilen bu akımın en önemli temsilcisi Andrea Derain, Maurice Vlaminck gibi isimlerdir.  Bu akım aşağıdakilerden hangisidir?",
+        "SoruMetni": "1900 lerin başında Henry Matisse öncülüğünde Fransa’da geliştirilen bu akımın en önemli temsilcisi Andrea Derain, Maurice Vlaminck gibi isimlerdir. Bu akım aşağıdakilerden hangisidir?",
         "A": "Oryantalizm",
         "B": "Ekspresyonizm",
         "C": "Romantizm",
@@ -1017,7 +1097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fovizm"
+        "Aciklama": "19. yüzyıl sanat akımları<br>Fovizm"
     },
     {
         "SoruID": 2937221,
@@ -1040,6 +1120,26 @@
         "Aciklama": "Pop Sanat"
     },
     {
+        "SoruID": 2937222,
+        "SoruMetni": "Dışavurumculuk yada anlatımcılık olarak adlandırılan akım izlenimcilik ve romantizm manzara resmine karşı doğmuştur. Bu akım aşağıdakilerden hangisidir?",
+        "A": "Der Blaue Reiter",
+        "B": "Die Brücke",
+        "C": "Ekspresyonizm",
+        "D": "Empresyonizm",
+        "E": "Oryantalizm",
+        "DogruCevap": "C",
+        "DersAd": "Sanat Tarihi",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:35.509916",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "19. yüzyıl sanat akımları<br>Ekspresyonizm"
+    },
+    {
         "SoruID": 2937223,
         "SoruMetni": "Fransızca \"tahta at\" anlamına gelen akımın adı aşağıdakilerden hangisidir?",
         "A": "Metafizik sanat",
@@ -1057,7 +1157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dadaizm"
+        "Aciklama": "Soyut sanat akımları<br>Dadaizm"
     },
     {
         "SoruID": 2937224,
@@ -1077,7 +1177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanatçının Avignonlu Kadınlar tablosu kübist anlayışın ilk örneklerinden biridir."
+        "Aciklama": "Soyut Sanat akımları<br>Sanatçının Avignonlu Kadınlar tablosu kübist anlayışın ilk örneklerinden biridir."
     },
     {
         "SoruID": 2937225,
@@ -1097,7 +1197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "20. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz."
     },
     {
         "SoruID": 2937226,
@@ -1117,7 +1217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "19. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz."
     },
     {
         "SoruID": 2937227,
@@ -1137,7 +1237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "20. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz."
     },
     {
         "SoruID": 2937228,
@@ -1157,7 +1257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "20. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz."
     },
     {
         "SoruID": 2937229,
@@ -1177,7 +1277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "20. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz."
     },
     {
         "SoruID": 2937230,
@@ -1197,7 +1297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "20. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz."
     },
     {
         "SoruID": 2937231,
@@ -1217,7 +1317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "20. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz."
     },
     {
         "SoruID": 2937232,
@@ -1237,7 +1337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "20. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz."
     },
     {
         "SoruID": 2937233,
@@ -1257,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "19. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz."
     },
     {
         "SoruID": 2937234,
@@ -1277,7 +1377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "19. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz."
     },
     {
         "SoruID": 2937235,
@@ -1297,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Empresyonizm: Empresyonizm ya da diğer adıyla izlenimcilik akımının temeli, 1874 yılında Paris’te bir grup sanatçının, fotoğrafçı Nadar’ın stüdyosunda açtığı sergiyle atılmıştır. Söz konusu sergide Claude Monet’in Impression (İzlenim)/Gün Doğumu adlı eserini gören eleştirmen Louis Leroy, Empresyonistlerin Sergisi başlıklı yazısında bu eseri küçümsemiştir. Impression terimi diğer sanatçılar tarafından benimsenerek akıma adını vermiştir. 1874-1886 yılları arasında yedi sergi<br/>açan empresyonistler arasında Auguste Renoir, Camille Pisarro, Alfred Sisley, Edgar Degas, Berthe Morisot ve Paul Cézanne yer almıştır."
+        "Aciklama": "19. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz.<br>Empresyonizm: Empresyonizm ya da diğer adıyla izlenimcilik akımının temeli, 1874 yılında Paris’te bir grup sanatçının, fotoğrafçı Nadar’ın stüdyosunda açtığı sergiyle atılmıştır. Söz konusu sergide Claude Monet’in Impression (İzlenim)/Gün Doğumu adlı eserini gören eleştirmen Louis Leroy, Empresyonistlerin Sergisi başlıklı yazısında bu eseri küçümsemiştir. Impression terimi diğer sanatçılar tarafından benimsenerek akıma adını vermiştir. 1874-1886 yılları arasında yedi sergi<br/>açan empresyonistler arasında Auguste Renoir, Camille Pisarro, Alfred Sisley, Edgar Degas, Berthe Morisot ve Paul Cézanne yer almıştır."
     },
     {
         "SoruID": 2937236,
@@ -1317,7 +1417,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "19. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz."
+    },
+    {
+        "SoruID": 2937237,
+        "SoruMetni": "Aşağıdakilerden hangisi günümüzde yaygın olan görsel sanat türlerinden birisi değildir?",
+        "A": "Graffiti",
+        "B": "Enstalasyon",
+        "C": "Superflat",
+        "D": "Superstroke",
+        "E": "Shunga",
+        "DogruCevap": "E",
+        "DersAd": "Sanat Tarihi",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:35.569115",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "21. yüzyıla geçerken ortaya çıkan değişimleri ve sanat hareketlerini açıklayabileceksiniz."
     },
     {
         "SoruID": 2937238,
@@ -1337,7 +1457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "20. yüzyıl başlarında Fransa’da, doğanın aynen resmedilmesine ve özellikle empresyonizme karşı duran bazı sanatçılar geometrik soyut sanat akımı olarak tanımlanabilecek kübizmin doğmasına yol açmışlardır. Dolayısıyla Kübizm 19. yy Sanat Akımları arasında yer almaz."
+        "Aciklama": "20. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz.<br>20. yüzyıl başlarında Fransa’da, doğanın aynen resmedilmesine ve özellikle empresyonizme karşı duran bazı sanatçılar geometrik soyut sanat akımı olarak tanımlanabilecek kübizmin doğmasına yol açmışlardır. Dolayısıyla Kübizm 19. yy Sanat Akımları arasında yer almaz."
     },
     {
         "SoruID": 2937239,
@@ -1357,7 +1477,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Barbizon ekolünün ressamlarından biri olan Millet de manzaradan figüre geçmiş ve resimlerinde köy yaşamından sahneleri, tarlalarda çalışan kadın ve erkekleri tüm gerçekçilikleri ile betimlemeye çalışmıştır. Başak Toplayan Kadınlar, sanatçının bu tarz resimlerine örnektir."
+        "Aciklama": "19. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz.<br>Barbizon ekolünün ressamlarından biri olan Millet de manzaradan figüre geçmiş ve resimlerinde köy yaşamından sahneleri, tarlalarda çalışan kadın ve erkekleri tüm gerçekçilikleri ile betimlemeye çalışmıştır. Başak Toplayan Kadınlar, sanatçının bu tarz resimlerine örnektir."
+    },
+    {
+        "SoruID": 2937240,
+        "SoruMetni": "20. Yüzyıl başında Rusya'da ortaya çıkan ve üçgen, daire, haç biçimleri gibi saf geometrik soyutlamaların ortaya konduğu sanat akımı aşağıdakilerden hangisidir?",
+        "A": "Dadaizm",
+        "B": "Minimalizm",
+        "C": "Süprematizm",
+        "D": "Kübizm",
+        "E": "Fütürizm",
+        "DogruCevap": "C",
+        "DersAd": "Sanat Tarihi",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:35.515216",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "20. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz.<br>1920’lere kadar süren süprematizm’de sıfır biçim savunulmuş, üçgen, daire, haç biçimleri gibi saf geometrik soyutlamalar ortaya konulmuştur."
     },
     {
         "SoruID": 2937241,
@@ -1377,7 +1517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "II. Dünya Savaşından sonra özellikle endüstriyel yeniliklerden kaynaklanan yeni ticari kültürün etkilerinin yansıdığı bir ortamda, 1950’lerin sonunda ve 1960’lı yıllarda Amerika ve Avrupa’da pop sanat (pop art) yayılmıştır."
+        "Aciklama": "20. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz.<br>II. Dünya Savaşından sonra özellikle endüstriyel yeniliklerden kaynaklanan yeni ticari kültürün etkilerinin yansıdığı bir ortamda, 1950’lerin sonunda ve 1960’lı yıllarda Amerika ve Avrupa’da pop sanat (pop art) yayılmıştır."
     },
     {
         "SoruID": 2937242,
@@ -1397,7 +1537,67 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Genellikle duvarlara ve ortak yaşam alanları içindeki her türlü zemine uygulanabilen, çoğu sprey boyalarla yapılmış çeşitli resimler, yazılar ve semboller içeren görsel uygulamalar Graffiti olarak adlandırılmaktadır."
+        "Aciklama": "21. yüzyıla geçerken ortaya çıkan değişimleri ve sanat hareketlerini açıklayabileceksiniz.<br>Genellikle duvarlara ve ortak yaşam alanları içindeki her türlü zemine uygulanabilen, çoğu sprey boyalarla yapılmış çeşitli resimler, yazılar ve semboller içeren görsel uygulamalar Graffiti olarak adlandırılmaktadır."
+    },
+    {
+        "SoruID": 2937243,
+        "SoruMetni": "Aşağıdakilerden hangisi 19. yüzyılda, her türlü ön yargıyı bir yana bırakarak doğayı gözlemlemek ve nesnelerin güneş ışığı ile birlikte değişen anlarını yakalamayı amaçlayan sanatçılara verilen addır?",
+        "A": "Empresyonist",
+        "B": "Realist",
+        "C": "Romantik",
+        "D": "Oryantalist",
+        "E": "Süprematist",
+        "DogruCevap": "A",
+        "DersAd": "Sanat Tarihi",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:35.586588",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "19. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz.<br>Empresyonist sanatçıların amacı her türlü ön yargıyı bir yana bırakarak doğayı gözlemlemek ve nesnelerin güneş ışığı ile birlikte değişen anlarını ışık ve renk kullanarak yakalamaktır. Bu dönem sanatçıları Empresyonist olarak adlandırılırlar."
+    },
+    {
+        "SoruID": 2937244,
+        "SoruMetni": "Afrikan modernizmini yansıtan soyutlamaları kapsayan sanat hareketinin adı hangisidir ?",
+        "A": "Superstroke",
+        "B": "Süperflat",
+        "C": "Stuckism",
+        "D": "Kübizm",
+        "E": "Pürizm",
+        "DogruCevap": "A",
+        "DersAd": "Sanat Tarihi",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:35.600586",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "21. yüzyıla geçerken ortaya çıkan değişimleri ve sanat hareketlerini açıklayabileceksiniz.<br>Güney Afrika çıkışlı superstroke; kavramsal sanat›n karşısında figüratif resmi savunan ve İngiliz sanatçılarca ortaya konulan stuckism, yeni yüzyıla geçerken ortaya çıkmış; henüz sonuçlar›, etkileri belirsiz olan sanat hareketleri arasında sayılabilir"
+    },
+    {
+        "SoruID": 2937245,
+        "SoruMetni": "Jacques-Louis David'in önemli eseri Marat'ın Ölümü aşağıdaki akımlardan hangisinin örneğidir?",
+        "A": "Romantizm",
+        "B": "Oryantalizm",
+        "C": "Realizm",
+        "D": "Neoklasisizm",
+        "E": "Neoempersyonizm",
+        "DogruCevap": "D",
+        "DersAd": "Sanat Tarihi",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:35.556655",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "19. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz.<br>Doğru Cevap D"
     },
     {
         "SoruID": 2937246,
@@ -1417,6 +1617,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru Cevap B"
+        "Aciklama": "19. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz.<br>Doğru Cevap B"
     }
 ]

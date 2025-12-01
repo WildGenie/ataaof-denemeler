@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 3769017,
-        "SoruMetni": "Aşağıdaki düşünürlerden  hangisine göre sanat; sahip olduğu form olgusuyla ön plana çıkan kültür ve fikir ürünüdür?",
+        "SoruMetni": "Aşağıdaki düşünürlerden hangisine göre sanat; sahip olduğu form olgusuyla ön plana çıkan kültür ve fikir ürünüdür?",
         "A": "Wölffline",
         "B": "Fischer",
         "C": "Benjamin",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3769018,
-        "SoruMetni": "I. Mekanik çoğaltım çağını olumsuz olarak ele almaz.<br/><br/>II. Yeni teknolojilerin sanatın alımlanmasındaki demokratik ilkelerine yoğunlaşır. <br/><br/>Yukarıdaki görüşler aşağıdakilerden hangisine aittir?",
+        "SoruMetni": "I. Mekanik çoğaltım çağını olumsuz olarak ele almaz.<br/>II. Yeni teknolojilerin sanatın alımlanmasındaki demokratik ilkelerine yoğunlaşır. <br/>Yukarıdaki görüşler aşağıdakilerden hangisine aittir?",
         "A": "Benjamin",
         "B": "Adorno",
         "C": "Lucas",
@@ -120,8 +120,28 @@
         "Aciklama": "Benjamin"
     },
     {
+        "SoruID": 3769019,
+        "SoruMetni": "Aşağıdakilerden hangisi elektronik edebiyat türü <strong>değildir? </strong>",
+        "A": "Müzikli kitap",
+        "B": "Hipermetin şiir",
+        "C": "Kinetik şiir",
+        "D": "Etkileşimli tiyatro",
+        "E": "Etkileşimli kurgu",
+        "DogruCevap": "A",
+        "DersAd": "Dijital Kültür",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.245063",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Müzikli kitap"
+    },
+    {
         "SoruID": 3769020,
-        "SoruMetni": "Aşağıdakilerden hangisi yeni medya sanatı adı altında <strong>değildir? </strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi yeni medya sanatı adı altında <strong>değildir? </strong>",
         "A": "Kültür sanatı",
         "B": "Bilgisayar sanatı",
         "C": "Dijital sanat",
@@ -197,11 +217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1990’da  internet teknolojilerini şekillendiren www (World wide web), İsviçre’nin Cenevre şehrindeki Avrupa Nükleer Araştırma Örgütü’nde (CERN) çalışan fizik mühendisi Tim Berners-Lee tarafından geliştirilmiştir. Berners-Lee, ağ için üç ana yapı taşı geliştirmiştir, bunlar; HTTP (Hiper metin transfer protokolü), HTML (Hiper metin işaretleme dili) ve ağdaki her dosyanın “adresi” için URL (Tekdüzen kaynak bulucu) teknolojileridir."
+        "Aciklama": "1990’da internet teknolojilerini şekillendiren www (World wide web), İsviçre’nin Cenevre şehrindeki Avrupa Nükleer Araştırma Örgütü’nde (CERN) çalışan fizik mühendisi Tim Berners-Lee tarafından geliştirilmiştir. Berners-Lee, ağ için üç ana yapı taşı geliştirmiştir, bunlar; HTTP (Hiper metin transfer protokolü), HTML (Hiper metin işaretleme dili) ve ağdaki her dosyanın “adresi” için URL (Tekdüzen kaynak bulucu) teknolojileridir."
     },
     {
         "SoruID": 3769115,
-        "SoruMetni": "Birbirinden farklı teknolojilerin birlikte çalışması yeni medyaya … özelliğini kazandırmıştır.<br/><br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Birbirinden farklı teknolojilerin birlikte çalışması yeni medyaya … özelliğini kazandırmıştır.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Yakınsama",
         "B": "Üç boyutluluk",
         "C": "Değersizleştirme",
@@ -217,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgi ekonomisini yaratan  küresel ağ yazılım, donanım, dilbilim, bilişim, endüstriyel tasarım, grafik tasarım gibi farklı alan ve teknolojilerin birlikte çalışmasıyla mümkün olmuştur. Birbirinden farklı teknolojilerin birlikte çalışması yeni medyaya <strong>yakınsama</strong> özelliğini kazandırmıştır."
+        "Aciklama": "Bilgi ekonomisini yaratan küresel ağ yazılım, donanım, dilbilim, bilişim, endüstriyel tasarım, grafik tasarım gibi farklı alan ve teknolojilerin birlikte çalışmasıyla mümkün olmuştur. Birbirinden farklı teknolojilerin birlikte çalışması yeni medyaya <strong>yakınsama</strong> özelliğini kazandırmıştır."
     },
     {
         "SoruID": 3769116,
@@ -237,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2020’lerde gelişimini sürdüren <strong>Web 3.0 kavramı  Berners-Lee’nin tanımından yola çıkarak, “oku, yaz, uygula” şeklinde tanımlanabilir. Semantik web olarak da bilinen</strong> bu yeni aşamasında webin anlamsal biçimlendirme işlevi öne çıkar."
+        "Aciklama": "2020’lerde gelişimini sürdüren <strong>Web 3.0 kavramı Berners-Lee’nin tanımından yola çıkarak, “oku, yaz, uygula” şeklinde tanımlanabilir. Semantik web olarak da bilinen</strong> bu yeni aşamasında webin anlamsal biçimlendirme işlevi öne çıkar."
     },
     {
         "SoruID": 3769117,
@@ -261,7 +281,7 @@
     },
     {
         "SoruID": 3769118,
-        "SoruMetni": "Küçük kusur anlamına gelen ve kökeni analog medyaya dayanan ... bir görüntü dili olduğu gibi ses efekti olarak da kullanılmaktadır.<br/><br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?<br/>",
+        "SoruMetni": "Küçük kusur anlamına gelen ve kökeni analog medyaya dayanan ... bir görüntü dili olduğu gibi ses efekti olarak da kullanılmaktadır.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Glitch",
         "B": "Gren",
         "C": "Karlanma",
@@ -297,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Creative Commons, sağladığı  özgür yasal araçlar ile  yaratıcılığın ve bilginin paylaşımına, tekrar kullanımına olanak veren kâr  amacı gütmeyen bir organizasyon olarak, yeni medya teknolojilerinin doğasına uygun,  açık lisanslar topluluğu sunar. Creative Commons (kısaca CC) kâr amacı gütmeyen, telif hakları alanında esneklik ve paylaşımı yaygınlaştırmak amacıyla kurulmuş bir düşünce hareketi ve organizasyonudur. 2001 yılında Center for the Public Domain kuruluşunun desteğiyle başlayan ve aralarında fikri mülkiyet konusunda uzmanı James Boyle, Michael Carroll, Molly Shaffer Van Houweling ve Lawrence Lessig, MIT’de bilgisayar bilimleri profesörü Hal Abelson, hukuk kökenli belgesel filmci ve siber hukuk uzmanı Eric Saltzman gibi sanatçı ve entelektüellerin bulunduğu bir grup tarafından kurulmuştur. Creative Commons, amacına ulaşmak için sanatçılara ve genel olarak tüm eser sahiplerine, yasanın kendilerine tanıdığı kimi hakları kamuyla paylaşabilmelerine imkân verecek, özel olarak hazırlanmış telif lisansı sözleşmeleri önermektedir. <strong>21. yüzyıla kadar telif haklarında alışılagelmiş “tüm hakları saklıdır” yerine, “bazı hakları saklıdır” sloganıyla yola çıkan Creative Commons, bilimden eğitime pek çok alanı kapsayan paylaşmanın önünü açacak düzenlemeler üzerinde çalışmaktadır.</strong>"
+        "Aciklama": "Creative Commons, sağladığı özgür yasal araçlar ile yaratıcılığın ve bilginin paylaşımına, tekrar kullanımına olanak veren kâr amacı gütmeyen bir organizasyon olarak, yeni medya teknolojilerinin doğasına uygun, açık lisanslar topluluğu sunar. Creative Commons (kısaca CC) kâr amacı gütmeyen, telif hakları alanında esneklik ve paylaşımı yaygınlaştırmak amacıyla kurulmuş bir düşünce hareketi ve organizasyonudur. 2001 yılında Center for the Public Domain kuruluşunun desteğiyle başlayan ve aralarında fikri mülkiyet konusunda uzmanı James Boyle, Michael Carroll, Molly Shaffer Van Houweling ve Lawrence Lessig, MIT’de bilgisayar bilimleri profesörü Hal Abelson, hukuk kökenli belgesel filmci ve siber hukuk uzmanı Eric Saltzman gibi sanatçı ve entelektüellerin bulunduğu bir grup tarafından kurulmuştur. Creative Commons, amacına ulaşmak için sanatçılara ve genel olarak tüm eser sahiplerine, yasanın kendilerine tanıdığı kimi hakları kamuyla paylaşabilmelerine imkân verecek, özel olarak hazırlanmış telif lisansı sözleşmeleri önermektedir. <strong>21. yüzyıla kadar telif haklarında alışılagelmiş “tüm hakları saklıdır” yerine, “bazı hakları saklıdır” sloganıyla yola çıkan Creative Commons, bilimden eğitime pek çok alanı kapsayan paylaşmanın önünü açacak düzenlemeler üzerinde çalışmaktadır.</strong>"
     },
     {
         "SoruID": 3769120,
@@ -321,7 +341,7 @@
     },
     {
         "SoruID": 3769121,
-        "SoruMetni": "Aşağıdakilerden hangisi yapay zekayı sanatın enstrümanı olarak uygulayan  sanatçıların çoğunlukla kullandığı bir ağdır?",
+        "SoruMetni": "Aşağıdakilerden hangisi yapay zekayı sanatın enstrümanı olarak uygulayan sanatçıların çoğunlukla kullandığı bir ağdır?",
         "A": "GAN",
         "B": "RUN",
         "C": "Instagram",
@@ -377,7 +397,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital teknolojiler, sanatçılara bu teknolojileri eserlerinin konusu yapmaları dışında, onları yaratmak için kullandıkları<strong> araç da</strong> olmuşlardır. Araç Olarak Üretimin bütünü veya bir kademesinde dijital teknolojiler kullanımı: • Foto-manipülasyon; bilgisayar programları aracılığıyla gerçekleştirilmesiVideo kurgu, post-prodüksiyon, video efektleri, Ses manipülasyonu, DJ dijital miksaj teknikleri, • Dijital baskı, yazıcı, plotter, vb ile yapılan üretimler, • Web tasarımı için üretim teknikleri, • Programlama, programlama dilleridir . <strong>Hactivizm</strong> ise  sanat eserinin konusu olarak yer almaktadır."
+        "Aciklama": "Dijital teknolojiler, sanatçılara bu teknolojileri eserlerinin konusu yapmaları dışında, onları yaratmak için kullandıkları<strong> araç da</strong> olmuşlardır. Araç Olarak Üretimin bütünü veya bir kademesinde dijital teknolojiler kullanımı: • Foto-manipülasyon; bilgisayar programları aracılığıyla gerçekleştirilmesiVideo kurgu, post-prodüksiyon, video efektleri, Ses manipülasyonu, DJ dijital miksaj teknikleri, • Dijital baskı, yazıcı, plotter, vb ile yapılan üretimler, • Web tasarımı için üretim teknikleri, • Programlama, programlama dilleridir . <strong>Hactivizm</strong> ise sanat eserinin konusu olarak yer almaktadır."
+    },
+    {
+        "SoruID": 3769128,
+        "SoruMetni": "İnternetin atası olarak kabul edilen ağ hangisidir?",
+        "A": "Dotnet",
+        "B": "Arpanet",
+        "C": "Visual Studio",
+        "D": "TCP/IP",
+        "E": "Darpa",
+        "DogruCevap": "B",
+        "DersAd": "Dijital Kültür",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.153006",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "1957 yılında Sovyetler Birliği’nin Sputnik uydusunu fırlatması ve soğuk savaşta Amerika’nın önüne geçmesi ile Pentagon tarafından kurulan DARPA (Defense Advanced Research Projects Agency), on yıl içinde farklı ekipler arasında bilgi alışverişini kolaylaştırmak amacıyla internetin atası ARPANET ağını kurmuştur (Mattelart, 2004; 46)."
     },
     {
         "SoruID": 3769129,
@@ -397,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kullanıcılar ağa katılırken mutlaka bir isim bildirmek zorundadır."
+        "Aciklama": "Kullanıcılar aynı zamanda ağa isterlerse anonim olarak da katılabilmektedirler. Anonimlik yeni medyaya öteki mevcudiyet özelliğini kazandırmaktadır.<br>Kullanıcılar ağa katılırken mutlaka bir isim bildirmek zorundadır."
     },
     {
         "SoruID": 3769130,
@@ -417,11 +457,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web 3.0"
+        "Aciklama": "Daha soyut bir kavram olan, 2020’lerde gelişimini sürdüren Web 3.0 kavramı ise Berners-Lee’nin tanımından yola çıkarak, “oku, yaz, uygula” şeklinde tanımlanabilir."
     },
     {
         "SoruID": 3769136,
-        "SoruMetni": "Aşağıdaki ifadelerden hangisi ya da hangileri doğrudur?<br/><br/>I- 20. yüzyılda kültür kavramı endüstrileşmiş, sanat nesnesi de alınıp satılan bir meta hâline gelmiştir.<br/><br/>II- Modern sanat, medya sanatıdır.<br/><br/>III- Video sanatının ve kameranın izleyici açısından etkilerinden biri küresel çağın değişen mekân ve zaman kavramlarıdır.",
+        "SoruMetni": "Aşağıdaki ifadelerden hangisi ya da hangileri doğrudur?<br/>I- 20. yüzyılda kültür kavramı endüstrileşmiş, sanat nesnesi de alınıp satılan bir meta hâline gelmiştir.<br/>II- Modern sanat, medya sanatıdır.<br/>III- Video sanatının ve kameranın izleyici açısından etkilerinden biri küresel çağın değişen mekân ve zaman kavramlarıdır.",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -437,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I, II ve III"
+        "Aciklama": "<strong>20. yüzyılda kültür kavramı endüstrileşmiş, sanat nesnesi de alınıp satılan bir meta hâline gelmiştir.</strong> Adorno (Adorno, 2011; 13) ve Lukacs gibi Frankfurt okulundan çağdaşlarının aksine Benjamin “Mekanik Çoğaltım Çağı”nı negatif bir olgu olarak anlamlandırmaz. Yeni teknolojilerin sanatın alımlanmasındaki demokratik etkilerine yoğunlaşır. Benjamin’e göre; sanat yapıtının tekniğin olanaklarıyla yeniden üretilebilirliği anda sanat yapıtı ilk kez kutsal törenlerin asalağı olmaktan kurtulup, özgürleşmiştir (Benjamin, 1992; 52). “Kapitalist Kültür Endüstri”sinden bağımsız insanların olabileceğini savunan Benjamin’i, Marshall McLuhan, Jean Baudrillard ve Paul Virilio gibi kuramcıların düşünceleri doğrular niteliktedir. Van Gogh Alive adlı gezici, dijital teknolojilerle desteklenmiş, çoklu ortam sergisi Benjamin’in <br/>özgürleşen sanat eserlerine örnek olabilir. Sergi sayesinde Van Gogh’un eserleri koleksiyonlarında bu eserlerin bulunduğu belli yerlerdeki müze ve galerile<br>I, II ve III"
     },
     {
         "SoruID": 3769137,
@@ -457,11 +497,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İmgelem gücü ve soyut düşünce"
+        "Aciklama": "İnsanların, doğayı ve çevrelerini değiştirme çabası için harcanan emek Marx’a göre yaratıcıdır (Marx-Engels; 1973). Yaratıcı sürecin işlemesindeki iki önemli bileşen imgelem gücü ve soyut düşüncedir.<br>İmgelem gücü ve soyut düşünce"
     },
     {
         "SoruID": 3769138,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri elektronik edebiyat türlerindendir?<br/> I- Hipermetin Şiir<br/> II- Etkileşimli Tiyatro<br/> III- Kinetik Şiir",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri elektronik edebiyat türlerindendir?<br/>I- Hipermetin Şiir<br/>II- Etkileşimli Tiyatro<br/>III- Kinetik Şiir",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -477,11 +517,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I, II ve III"
+        "Aciklama": "Elektronik edebiyat okur/kullanıcıları kapağı açıldığında müzik çalan bir kitaptan fazlasına sahiptirler. Elektronik edebiyat; hipermetin şiir, hipermetin kurgu, etkileşimli kurgu, kinetik şiir, üretken metin, etkileşimli tiyatro gibi pek çok türü barındırır.<br>I, II ve III"
     },
     {
         "SoruID": 3769195,
-        "SoruMetni": "Hangisi ya da hangileri dijital kültür çağı sanat kategorilerindendir?<br/><br/>I- Ağ Sanatı<br/><br/>II- Elektronik Edebiyat<br/><br/>III- Bilgisayar Oyunları",
+        "SoruMetni": "Hangisi ya da hangileri dijital kültür çağı sanat kategorilerindendir?<br/>I- Ağ Sanatı<br/>II- Elektronik Edebiyat<br/>III- Bilgisayar Oyunları",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -497,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I, II ve III"
+        "Aciklama": "Ağ ve bilgisayarlarla beslenen; ağ sanatı, elektronik edebiyat ve bilgisayar oyunları dijital kültür çağı sanatı kategorilerindendir.<br>I, II ve III"
     },
     {
         "SoruID": 3769196,
@@ -517,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel sanatlarda gerçekçilik kavramı, sanatçının eserini fiziksel dünyadaki görüntü kadar gerçekçi yapmasını sağlayacak zanaatkarlık üzerinden değerlendirilirken, 1 ve 0’lardan oluşan dijital dünyada durum tamamen aynıdır."
+        "Aciklama": "Görsel sanatlarda gerçekçilik kavramı, sanatçının eserini fiziksel dünyadaki görüntü kadar gerçekçi yapmasını sağlayacak zanaatkarlık üzerinden değerlendirilirken, 1 ve 0’lardan oluşan dijital dünyada durum farklıdır.<br>Görsel sanatlarda gerçekçilik kavramı, sanatçının eserini fiziksel dünyadaki görüntü kadar gerçekçi yapmasını sağlayacak zanaatkarlık üzerinden değerlendirilirken, 1 ve 0’lardan oluşan dijital dünyada durum tamamen aynıdır."
     },
     {
         "SoruID": 3769209,
@@ -537,11 +577,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üretici-Ayrımcı"
+        "Aciklama": "Yapay zekayı sanatın enstrümanı olarak kullanan sanatçılar, 2014 yılından itibaren çoğunlukla GAN (Generative Adversarial Network) adlı ağı kullanmaktadırlar. “Üretici”, ve “Ayrımcı” adlı iki bölümden oluşan bu yapay zeka ağında üretici yeni görüntüler yaratırken, ayrımcının rolü; hangi görüntülerin bilgisayarda üretildiğini bulmaktır.<br>Üretici-Ayrımcı"
+    },
+    {
+        "SoruID": 3769210,
+        "SoruMetni": "Aşağdakilerden hangisi NFT kısaltmasının açılımıdır?",
+        "A": "Non-fundable technic",
+        "B": "Non-fungible tokens",
+        "C": "Non-frustrated theatre",
+        "D": "Not fundamental trick",
+        "E": "Near Function Treatment",
+        "DogruCevap": "B",
+        "DersAd": "Dijital Kültür",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.223598",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Takas Edilemez Jeton olarak Türkçeleştirebileceğimiz, non-fungible tokens (NFT), Beeple lakaplı grafik tasarımcının “Everydays: the First 5000 day” (Resim 3.2) adlı, 5000 gün boyunca, günde 1 tane üreterek kolaj hâline getirdiği tasarımı 69 milyon dolara satması (http 5) ile geniş kitleler tarafından bilinir hâle gelmiştir."
     },
     {
         "SoruID": 3769491,
-        "SoruMetni": "İkinci Dünya Savaşı sırasında, İngilizlerin, Almanların kendi aralarındaki şifreli mesajlarını çözmek için yaptıkları çalışmalar, 1. nesil elektronik bilgisayarların doğmasına neden olmuştur. ________________ gibi öncüler tarafından geliştirilen bu ilk elektronik bilgisayarlar ortalama bir oda büyüklüğünde ve hayli karmaşık makineler olarak tarihe geçmişlerdir.<br/>  Yukarıdaki boşluğa aşağıdaki isimlerden hangisi gelmelidir?",
+        "SoruMetni": "İkinci Dünya Savaşı sırasında, İngilizlerin, Almanların kendi aralarındaki şifreli mesajlarını çözmek için yaptıkları çalışmalar, 1. nesil elektronik bilgisayarların doğmasına neden olmuştur. ________________ gibi öncüler tarafından geliştirilen bu ilk elektronik bilgisayarlar ortalama bir oda büyüklüğünde ve hayli karmaşık makineler olarak tarihe geçmişlerdir.<br/>Yukarıdaki boşluğa aşağıdaki isimlerden hangisi gelmelidir?",
         "A": "Alain Turing",
         "B": "Marshall McLuhan",
         "C": "Bill Gates",
@@ -557,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı A seçeneğinde verilmiştir."
+        "Aciklama": "İkinci Dünya Savaşı sırasında, İngilizlerin, Almanların kendi aralarındaki şifreli mesajlarını çözmek için yaptıkları çalışmalar, 1. nesil elektronik bilgisayarların doğmasına neden olmuştur. Alain Turing gibi öncüler tarafından geliştirilen bu ilk elektronik bilgisayarlar ortalama bir oda büyüklüğünde ve hayli karmaşık makineler olarak tarihe geçmişlerdir.<br>Sorunun doğru yanıtı A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3769492,
@@ -577,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı B seçeneğinde verilmiştir."
+        "Aciklama": "1990’da ise internet teknolojilerini şekillendiren www (World wide web), İsviçre’nin Cenevre şehrindeki Avrupa Nükleer Araştırma Örgütü’nde (CERN) çalışan fizik mühendisi Tim Berners-Lee tarafından geliştirilmiştir. Berners-Lee, ağ için üç ana yapı taşı geliştirmiştir, bunlar; HTTP (Hiper metin transfer protokolü), HTML (Hiper metin işaretleme dili) ve ağdaki her dosyanın “adresi” için URL (Tekdüzen kaynak bulucu) teknolojileridir.<br>Sorunun doğru yanıtı B seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3769493,
@@ -597,11 +657,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Kevin Systrom ve Mike Krieger tarafından Ekim 2010’da ücretsiz olarak kullanıma açılan Instagram, fotoğraf ve video paylaşma uygulamasıdır.<br/><br/><br/><br/>"
+        "Aciklama": "Kevin Systrom ve Mike Krieger tarafından Ekim 2010’da ücretsiz olarak kullanıma açılan Instagram, fotoğraf ve video paylaşma uygulamasıdır.<br><br/>Kevin Systrom ve Mike Krieger tarafından Ekim 2010’da ücretsiz olarak kullanıma açılan Instagram, fotoğraf ve video paylaşma uygulamasıdır."
     },
     {
         "SoruID": 3769494,
-        "SoruMetni": "Daha soyut bir kavram olan, 2020’lerde gelişimini sürdüren _________ kavramı ise Berners-Lee’nin tanımından yola çıkarak, “oku, yaz, uygula” şeklinde tanımlanabilir.  Semantik web olarak da bilinen bu yeni aşamasında webin anlamsal biçimlendirme işlevi öne çıkar.<br/>  Yukarıdaki boşluğa aşağıdakilerden hangisinin gelmesi daha uygun olur?",
+        "SoruMetni": "Daha soyut bir kavram olan, 2020’lerde gelişimini sürdüren _________ kavramı ise Berners-Lee’nin tanımından yola çıkarak, “oku, yaz, uygula” şeklinde tanımlanabilir. Semantik web olarak da bilinen bu yeni aşamasında webin anlamsal biçimlendirme işlevi öne çıkar.<br/>Yukarıdaki boşluğa aşağıdakilerden hangisinin gelmesi daha uygun olur?",
         "A": "Metavers",
         "B": "Web 1.0",
         "C": "Web 2.0",
@@ -617,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı D seçeneğinde verilmiştir."
+        "Aciklama": "Daha soyut bir kavram olan, 2020’lerde gelişimini sürdüren Web 3.0 kavramı ise Berners-Lee’nin tanımından yola çıkarak, “oku, yaz, uygula” şeklinde tanımlanabilir. Semantik web olarak da bilinen bu yeni aşamasında webin anlamsal biçimlendirme işlevi öne çıkar.<br>Sorunun doğru cevabı D seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3769495,
@@ -637,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı E seçeneğinde verilmiştir."
+        "Aciklama": "Walter Benjamin İlk Çağ’dan 20. yüzyıla kadar sanat eserini kuşatan “aura” kavramını da tanımlamaktır. Benjamin, makalesinde çoğaltma teknolojileriyle birlikte bu “aura”nın nasıl yok olduğunu çözümler ve bu yok oluşun sosyal temelini, çağdaş kitlelerin evrensel eşitlik algısıyla ilişkilendirir.<br>Sorunun doğru cevabı E seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3769496,
@@ -657,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Elektronik edebiyat basılı değildir."
+        "Aciklama": "Elektronik edebiyat; hipermetin şiir, hipermetin kurgu, etkileşimli kurgu, kinetik şiir, üretken metin, etkileşimli tiyatro gibi pek çok türü barındırır.<br>Elektronik edebiyat basılı değildir."
     },
     {
         "SoruID": 3769497,
@@ -677,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı D seçeneğinde verilmiştir."
+        "Aciklama": "Elektronik edebiyatın tarihi Theo Lutz’ın 1959 yılında “Stochastische Texte” adını verdiği bilgisayarda yaratılmış şiiri ile başlar.<br>Sorunun doğru yanıtı D seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3769498,
@@ -697,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı C seçeneğinde verilmiştir."
+        "Aciklama": "Ağ tabanlı popüler kültür ürünleri, dijital ve ağ tabanlı sanat uygulamaları, elektronik edebiyat ve bilgisayar oyunları, anlatı ve oyun teorisi çalışmaları konseptinde analiz edilmektedir. Bu yeni sanat ortamında e-posta, canlı video, yazılım, web enstalasyonları, ses, web tarayıcı, istemsiz e-posta (spam e-mail) sanatı gibi farklı araç ve ortamları kullanan türler bulunur.<br>Sorunun doğru yanıtı C seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3769499,
@@ -717,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı B seçeneğinde verilmiştir."
+        "Aciklama": "Üretiminden sunumuna kadar dijital teknolojilerin kullanımı: • Yerleştirme (Enstalasyon) Film, video ve animasyon • Internet ve ağ sanatı • Yazılım sanatı (Software art) • Sanal gerçeklik (virtual reality) ve artırılmış gerçeklik (augmented reality) • Oyunlar ve sosyal dünyalar<br>Sorunun doğru yanıtı B seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3769500,
@@ -737,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı A seçeneğinde verilmiştir."
+        "Aciklama": "Yapay zekayı sanatın enstrümanı olarak kullanan sanatçılar, 2014 yılından itibaren çoğunlukla GAN (Generative Adversarial Network) adlı ağı kullanmaktadırlar.<br>Sorunun doğru yanıtı A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3769561,
@@ -757,11 +817,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: 'Times New Roman',serif;\">Voltaire’e göre kültür;“… aklın bazı yetenek birimlerinin amaca elverişli düşünsel çalışma ve pratiklerle geliştirilmesi’dir” Kültür, sosyal/kültürel antropolojinin konusudur ve tek bir tanımla anlatmak detaylı bir bakış açısı gerektirir. Bu noktada Marx’ın tanımı fikir verici olabilir. Marx’a göre kültür, doğanın yarattıklarına karşılık insanın yarattığı her şeydir. </span>"
+        "Aciklama": "<span style=\"font-family: 'Times New Roman',serif;\">Voltaire’e göre kültür;“… aklın bazı yetenek birimlerinin amaca elverişli düşünsel çalışma ve pratiklerle geliştirilmesi’dir” Kültür, sosyal/kültürel antropolojinin konusudur ve tek bir tanımla anlatmak detaylı bir bakış açısı gerektirir. Bu noktada Marx’ın tanımı fikir verici olabilir. Marx’a göre kültür, doğanın yarattıklarına karşılık insanın yarattığı her şeydir. </span>"
     },
     {
         "SoruID": 3769562,
-        "SoruMetni": "Digital devrim olarak adlandırılan kişisel bilgisayarların halka açılma tarihleri aşağıdaki ifadelerden hangisidir?",
+        "SoruMetni": "Digital devrim olarak adlandırılan kişisel bilgisayarların halka açılma tarihleri aşağıdaki ifadelerden hangisidir?",
         "A": "1960-1970.",
         "B": "1970-1980.",
         "C": "1980-1990.",
@@ -821,7 +881,7 @@
     },
     {
         "SoruID": 3769565,
-        "SoruMetni": "Aşağıdakilerden hangisi Web 2.0.’ın  bilginin düzenlenmesini sağlayan uygulamalarından biridir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Web 2.0.’ın bilginin düzenlenmesini sağlayan uygulamalarından biridir?",
         "A": "ARPANET",
         "B": "TCP/IP",
         "C": "Blokzincir",
@@ -940,6 +1000,26 @@
         "Aciklama": "Alain Turing gibi öncüler tarafından geliştirilen bu ilk elektronik bilgisayarlar ortalama bir oda büyüklüğünde ve hayli karmaşık makineler olarak tarihe geçmişlerdir."
     },
     {
+        "SoruID": 3769571,
+        "SoruMetni": "Daha 1967’de, dijital teknolojilerin de insanları değiştirmesine dair “Aletlerimize biçim veririz, ardından aletlerimiz bize biçim verir” gibi haklı bir öngörüyü dile getiren kişi aşağıdakilerden hangisidir?",
+        "A": "Vint Cerf",
+        "B": "John M. Culkin",
+        "C": "William Henry Fox Talbot",
+        "D": "Ernst Fischer",
+        "E": "Bob Kahn",
+        "DogruCevap": "B",
+        "DersAd": "Dijital Kültür",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.237645",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Ancak, birçok kaynakta McLuhan'ın sanılan fakat yakın arkadaşı John M. Culkin’e ait “Aletlerimize biçim veririz, ardından aletlerimiz bize biçim verir” tanım, dijital teknolojilerin de insanları değiştirmesine dair haklı bir öngörüdür (Culkin, 1967; 70). K"
+    },
+    {
         "SoruID": 3769572,
         "SoruMetni": "Aşağıdakilerden hangisi yeni medyanın en yaygın aracı olan internetin keşfedilmesinde ve geliştirilmesine katkı sağlayan kişilerden birisi <strong>değildir?</strong>",
         "A": "Vint Cerf",
@@ -1037,11 +1117,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ortam Olarak Üretiminden sunumuna kadar dijital teknolojilerin kullanımı:<br/><br/>• Yerleştirme (Enstalasyon) Film, video ve animasyon<br/><br/>• Internet ve ağ sanatı<br/><br/>• Yazılım sanatı (Software art)<br/><br/>• Sanal gerçeklik (virtual reality) ve artırılmış gerçeklik (augmented reality)<br/><br/>• Oyunlar ve sosyal dünyalar"
+        "Aciklama": "Ortam Olarak Üretiminden sunumuna kadar dijital teknolojilerin kullanımı:<br/>• Yerleştirme (Enstalasyon) Film, video ve animasyon<br/>• Internet ve ağ sanatı<br/>• Yazılım sanatı (Software art)<br/>• Sanal gerçeklik (virtual reality) ve artırılmış gerçeklik (augmented reality)<br/>• Oyunlar ve sosyal dünyalar"
     },
     {
         "SoruID": 3769577,
-        "SoruMetni": "“Görünür kılmak, zihinde bir imaj yaratmak anlamına gelir. İşlemi öncesi zihinde görsel bir form yoktur. Form bu işlemin sonunda oluşur. 1990’lardan itibarense bu defa verileri anlamlandırmak için, farklı tekniklerle ve daha soyut şekilde yapılmaya başlanmıştır”<br/><br/>Bu ifadeler aşağıdakilerden hangisini tanımlamaktadır?",
+        "SoruMetni": "“Görünür kılmak, zihinde bir imaj yaratmak anlamına gelir. İşlemi öncesi zihinde görsel bir form yoktur. Form bu işlemin sonunda oluşur. 1990’lardan itibarense bu defa verileri anlamlandırmak için, farklı tekniklerle ve daha soyut şekilde yapılmaya başlanmıştır”<br/>Bu ifadeler aşağıdakilerden hangisini tanımlamaktadır?",
         "A": "Veri toplama",
         "B": "Kurgulama",
         "C": "Araştırma",
@@ -1117,7 +1197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<ol start=\"20\"><br/><li>yüzyılda kültür kavramı endüstrileşmiş, sanat nesnesi de alınıp satılan bir meta hâline gelmiştir. Ador­no ve Lukacs gibi Frankfurt okulundan çağdaşlarının aksine Benjamin “Me­kanik Çoğaltım Çağı”nı negatif bir olgu olarak anlamlandırmaz. Yeni teknolojilerin sanatın alım­lanmasındaki demokratik etkilerine yoğunlaşır. maz. Yeni teknolojilerin sanatın alım­lanmasındaki demokratik etkilerine yoğunlaşır. </li><br/></ol>"
+        "Aciklama": "<ol start=\"20\"><br/><li>yüzyılda kültür kavramı endüstrileşmiş, sanat nesnesi de alınıp satılan bir meta hâline gelmiştir. Ador­no ve Lukacs gibi Frankfurt okulundan çağdaşlarının aksine Benjamin “Me­kanik Çoğaltım Çağı”nı negatif bir olgu olarak anlamlandırmaz. Yeni teknolojilerin sanatın alım­lanmasındaki demokratik etkilerine yoğunlaşır. maz. Yeni teknolojilerin sanatın alım­lanmasındaki demokratik etkilerine yoğunlaşır. </li><br/></ol>"
     },
     {
         "SoruID": 3769601,
@@ -1180,6 +1260,26 @@
         "Aciklama": "ARPANET teknolojisiyle oluşan ilk ağdan sonraki diğer önemli icat, farklı ağların birbirine bağlanmasını sağlayan teknoloji, ağlar arası bağlantı protokolü olan TCP/IP’nin hayata geçmesidir. 1973 yılında Vint Cerf ve Bob Kahn adlı internet öncüleri tarafından geliştirilen bu protokol internetin son hâlini almasında önemli bir gelişme olmuştur"
     },
     {
+        "SoruID": 3769604,
+        "SoruMetni": "1990 yılında ortaya çıkan ve internet teknolojilerini şekillendiren www (World wide web), hangi bilim insanı tarafından geliştirilmiştir?",
+        "A": "Vint Cerf",
+        "B": "Bob Kahn",
+        "C": "Marc Andreessen",
+        "D": "Alain Turing",
+        "E": "Tim Berners-Lee",
+        "DogruCevap": "E",
+        "DersAd": "Dijital Kültür",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.199896",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<br/>1990’da internet teknolojilerini şekillendiren www (World wide web), İsviçre’nin Cenevre şehrindeki Avrupa Nükleer Araştırma Örgütü’nde (CERN) çalışan fizik mühendisi Tim Berners-Lee tarafından geliştirilmiştir. Berners-Lee, ağ için üç ana yapı taşı geliştirmiştir, bunlar; HTTP (Hiper metin transfer protokolü), HTML (Hiper metin işaretleme dili) ve ağdaki her dosyanın “adresi” için URL (Tekdüzen kaynak bulucu) teknolojileridir."
+    },
+    {
         "SoruID": 3769605,
         "SoruMetni": "Sosyal ağları, sosyal medyayı, blog ve vikileri tanımlayan kavram hangisidir?",
         "A": "Web 1.0",
@@ -1201,7 +1301,7 @@
     },
     {
         "SoruID": 3769606,
-        "SoruMetni": "Hangisi dijital sanat <strong>değildir?</strong>",
+        "SoruMetni": "Hangisi dijital sanat <strong>değildir?</strong>",
         "A": "Genetik sanat",
         "B": "Fraktal sanat",
         "C": "Litografi sanatı",
@@ -1217,7 +1317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Litografi bir taş baskı tekniği ve sanatıdır. Dijital sanat değildir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Litografi bir taş baskı tekniği ve sanatıdır. Dijital sanat değildir."
     },
     {
         "SoruID": 3769607,
@@ -1237,11 +1337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>1970’lerden itibaren bilgisayar sanatı, çoklu ortam sanatı, dijital sanat, ağ sanatı, dijital yerleştirme sanatı, sanal gerçeklik sanatı gibi, üretildiği veya sergilendiği teknolojiye göre isimlendiren, yeni dijital ifade biçimlerini, yeni medya sanatı adı altında toplamak mümkündür.<br/><br/>Yerleştirme sanatı ya da enstalasyon bilgisayarın olmadığı fiziksel ortamlar için de mümkündür. Bu yüzden yeni medya yerleştirmeleri \"dijital yerleştirme\", \"web yerleştirmesi\" şeklinde ifade edilerek diğerinden ayrılır. <br/><br/><br/><br/>"
+        "Aciklama": "<br/>1970’lerden itibaren bilgisayar sanatı, çoklu ortam sanatı, dijital sanat, ağ sanatı, dijital yerleştirme sanatı, sanal gerçeklik sanatı gibi, üretildiği veya sergilendiği teknolojiye göre isimlendiren, yeni dijital ifade biçimlerini, yeni medya sanatı adı altında toplamak mümkündür.<br/>Yerleştirme sanatı ya da enstalasyon bilgisayarın olmadığı fiziksel ortamlar için de mümkündür. Bu yüzden yeni medya yerleştirmeleri \"dijital yerleştirme\", \"web yerleştirmesi\" şeklinde ifade edilerek diğerinden ayrılır."
     },
     {
         "SoruID": 3769608,
-        "SoruMetni": "Aşağıdakilerden hangisi dijital teknolojilerin sanat için <strong>ortam olarak</strong> kullanımına örnektir?",
+        "SoruMetni": "Aşağıdakilerden hangisi dijital teknolojilerin sanat için <strong>ortam olarak</strong> kullanımına örnektir?",
         "A": "Foto-manipülasyon",
         "B": "Dijital baskı",
         "C": "Yazılım sanatı",
@@ -1257,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital teknolojiler, sanatçılara bu teknolojileri eserlerinin konusu yapmaları dışında, onları yaratmak için kullandıkları araç ve ortam da olur. Alt başlıkları gelişen teknolojilerle her geçen gün güncellenmekte olsa da, son durumda <strong>\"yazılım sanatı\"</strong> dijital teknolojilerin sanat için ortam olarak kullanımına örnektir."
+        "Aciklama": "Dijital teknolojiler, sanatçılara bu teknolojileri eserlerinin konusu yapmaları dışında, onları yaratmak için kullandıkları araç ve ortam da olur. Alt başlıkları gelişen teknolojilerle her geçen gün güncellenmekte olsa da, son durumda <strong>\"yazılım sanatı\"</strong> dijital teknolojilerin sanat için ortam olarak kullanımına örnektir."
     },
     {
         "SoruID": 3769609,
@@ -1277,6 +1377,26 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Processing adlı açık kaynak kodlu, ücretsiz yazılım, MIT Medya Laboratuvarında “Aesthetics and Computation Group” eski elemanları olan Casey Reas ve Benjamin Fry tarafından başlatılmış bir projedir. Proje görsel bağlamda bilgisayar programcılığının temellerini öğretmek ve elektronik eskiz defterleri için bir kurum olarak hizmet vermek amacıyla elektronik sanatlar, görsel tasarım toplulukları için geliştirilmiştir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Processing adlı açık kaynak kodlu, ücretsiz yazılım, MIT Medya Laboratuvarında “Aesthetics and Computation Group” eski elemanları olan Casey Reas ve Benjamin Fry tarafından başlatılmış bir projedir. Proje görsel bağlamda bilgisayar programcılığının temellerini öğretmek ve elektronik eskiz defterleri için bir kurum olarak hizmet vermek amacıyla elektronik sanatlar, görsel tasarım toplulukları için geliştirilmiştir."
+    },
+    {
+        "SoruID": 3769610,
+        "SoruMetni": "2003 yılından beri oynanan, özellikleri nedeniyle aynı zamanda sosyal medya alt türü olarak değerlendirilen, oyuncuların ürettikleri sanat eserleri ve avatarlarının dijital sanatın önemli eserleri arasında yer aldığı açık kaynak kodlu oyun hangisidir?",
+        "A": "Second Life",
+        "B": "Farm Wille",
+        "C": "Snow Crash",
+        "D": "DALL-E",
+        "E": "NFT",
+        "DogruCevap": "A",
+        "DersAd": "Dijital Kültür",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.282401",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "2003 yılından beri oynanan dijital oyun Second Life, özellikleri nedeniyle aynı zamanda sosyal medya alt türü olarak değerlendirilmektedir. Açık kaynak kodlu olması oyunun oyuncuları tarafından sürekli geliştirilmesini sağlamaktadır."
     }
 ]

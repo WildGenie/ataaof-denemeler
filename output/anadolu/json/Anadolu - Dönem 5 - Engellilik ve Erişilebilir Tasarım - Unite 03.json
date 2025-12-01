@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çözümleri denemek.<br/> Tasarım odaklı düşüncenin beş aşaması izleyen şekilde sıralanabilir: • Empati yapın: Kullanıcılarınızın ihtiyaçlarını araştırın. • Tanımlayın: Kullanıcılarınızın ihtiyaçlarını ve sorunlarını belirtin. • Fikir üretin: Varsayımlara meydan okuyun ve fikirler yaratın. • Prototip oluşturun: Çözüm üretmeye başlayın. • Test edin: Çözümlerinizi deneyin."
+        "Aciklama": "Çözümleri denemek.<br/>Tasarım odaklı düşüncenin beş aşaması izleyen şekilde sıralanabilir: • Empati yapın: Kullanıcılarınızın ihtiyaçlarını araştırın. • Tanımlayın: Kullanıcılarınızın ihtiyaçlarını ve sorunlarını belirtin. • Fikir üretin: Varsayımlara meydan okuyun ve fikirler yaratın. • Prototip oluşturun: Çözüm üretmeye başlayın. • Test edin: Çözümlerinizi deneyin."
     },
     {
         "SoruID": 3862970,
-        "SoruMetni": "Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak için aşağıdakilerden hangilerini yaparsınız?<br/> <ol style=\"list-style-type: upper-roman;\"> <li>Uzmanlara danışmak</li> <li>Kullanıcılarla etkileşim kurmak</li> <li>Gözlemler yapmak</li> <li>Kendi varsayımlarını dikkate almak </li> </ol>",
+        "SoruMetni": "Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak için aşağıdakilerden hangilerini yaparsınız?<br/><ol style=\"list-style-type: upper-roman;\"> <li>Uzmanlara danışmak</li> <li>Kullanıcılarla etkileşim kurmak</li> <li>Gözlemler yapmak</li> <li>Kendi varsayımlarını dikkate almak </li> </ol>",
         "A": "II-III-IV",
         "B": "I-III-IV",
         "C": "I-II-IV",
@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 3862971,
-        "SoruMetni": "Tasarımcılar veya değerlendiriciler, prototip aşamasında belirlenen en iyi çözümleri kullanarak tüm ürünü titizlikle ........... .......... .<br/><br/>Yukarıdaki cümleyi en iyi tamamlayan ifade aşağıdaki seçeneklerden hangisinde yer almaktadır?",
+        "SoruMetni": "Tasarımcılar veya değerlendiriciler, prototip aşamasında belirlenen en iyi çözümleri kullanarak tüm ürünü titizlikle ........... .......... .<br/>Yukarıdaki cümleyi en iyi tamamlayan ifade aşağıdaki seçeneklerden hangisinde yer almaktadır?",
         "A": "Empati yaparlar",
         "B": "Prototip geliştirirler",
         "C": "Düşünceleştirirler",
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kırmızı, hız cesaret heyecan tutku duygularını çağrıştırır.<br/><br/><strong>Turuncu, neşe ve dostluk duygusu yaratır. Sosyallik enerji ve kendine güven yansıtır. </strong><br/><br/>Sarı, güneşin rengidir. Aynı zamanda neşe canlılık iyi hissetmeyi çağrıştırır. İyimserlik içtenlik ve sıcaklık duygusu yaratır.<br/><br/>Yeşil, doğanın rengidir. Sağlık, doğallık, organiklik, büyüme ile ilişkilendirilir<br/><br/>Mavi, deniz ve gökyüzünün rengidir. Koyu mavi güç ve kararlılık yansıtır. Güven uyandırır. Özellikle açık mavi sonsuzluk ve huzur duygusu uyandırabilir.<br/><br/>Pembe, masumiyet ve şefkatin rengidir. Sakinlik sevecenlik uyandırır.<br/><br/>Mor, düş rengidir. Bilgelik, yaratıcılık lüks çağrışımları uyandırır. Ayrıca inanç ve ruhaniliğin rengidir"
+        "Aciklama": "Kırmızı, hız cesaret heyecan tutku duygularını çağrıştırır.<br/><strong>Turuncu, neşe ve dostluk duygusu yaratır. Sosyallik enerji ve kendine güven yansıtır. </strong><br/>Sarı, güneşin rengidir. Aynı zamanda neşe canlılık iyi hissetmeyi çağrıştırır. İyimserlik içtenlik ve sıcaklık duygusu yaratır.<br/>Yeşil, doğanın rengidir. Sağlık, doğallık, organiklik, büyüme ile ilişkilendirilir<br/>Mavi, deniz ve gökyüzünün rengidir. Koyu mavi güç ve kararlılık yansıtır. Güven uyandırır. Özellikle açık mavi sonsuzluk ve huzur duygusu uyandırabilir.<br/>Pembe, masumiyet ve şefkatin rengidir. Sakinlik sevecenlik uyandırır.<br/>Mor, düş rengidir. Bilgelik, yaratıcılık lüks çağrışımları uyandırır. Ayrıca inanç ve ruhaniliğin rengidir"
     },
     {
         "SoruID": 3862977,
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gönderici: Mesajı gönderen, kişi, grup veya kurumdur. Tasarımcı hedef kitleye iletmek isteği mesajı önce zihninde oluşturur daha sonra bu oluşan fikri kodlayarak -sözcüklere, rakamlara, sembollere, işaretlere dönüştürerek- iletişim aracılığı ile alıcıya gönderir. Bu durum hedef kitlenin ihtiyaçları ve kapsayıcı tasarım yönünde kararlar ile desteklenmelidir.<br/><br/><br>Mesaj: Gönderici tarafından kodlanarak alıcıya gönderilen, gönderici ve alıcı için aynı anlamı taşıyan, duygu ve düşünceleri ifade eder. Tasarımcı sözcükleri, rakamları, sembolleri, işaretlere dönüştürerek iletişim aracılığıyla alıcıya gönderir.</br><br/><br/>Geri bildirim: Alıcının algıladığı ve yorumladığı iletilere, sözlü ve/veya sözsüz tepki verme sürecidir. Gönderici ve hedef arasındaki geriye bilgi akışı olarak tanımlanabilecek geri bildirim, mesajın alıcı tarafından anlaşılıp anlaşılmadığı, ne şekilde anlaşıldığı ve yorumlandığının kaynak tarafından bilinmesine olanak sağlar.<br/><br/>İletişim aracı: İletişimde kullanılan yoldur. Alıcı ile verici arasındaki iletiler sözlü veya yazılı olabilir.<br/><br/><br>Alıcı: Göndericinin gönderdiği iletiyi alan ve anlamlandıran kişi veya topluluktur.</br><br/><br/>Doğru cevap C'dir."
+        "Aciklama": "Gönderici: Mesajı gönderen, kişi, grup veya kurumdur. Tasarımcı hedef kitleye iletmek isteği mesajı önce zihninde oluşturur daha sonra bu oluşan fikri kodlayarak -sözcüklere, rakamlara, sembollere, işaretlere dönüştürerek- iletişim aracılığı ile alıcıya gönderir. Bu durum hedef kitlenin ihtiyaçları ve kapsayıcı tasarım yönünde kararlar ile desteklenmelidir.<br/>Mesaj: Gönderici tarafından kodlanarak alıcıya gönderilen, gönderici ve alıcı için aynı anlamı taşıyan, duygu ve düşünceleri ifade eder. Tasarımcı sözcükleri, rakamları, sembolleri, işaretlere dönüştürerek iletişim aracılığıyla alıcıya gönderir.</br><br/>Geri bildirim: Alıcının algıladığı ve yorumladığı iletilere, sözlü ve/veya sözsüz tepki verme sürecidir. Gönderici ve hedef arasındaki geriye bilgi akışı olarak tanımlanabilecek geri bildirim, mesajın alıcı tarafından anlaşılıp anlaşılmadığı, ne şekilde anlaşıldığı ve yorumlandığının kaynak tarafından bilinmesine olanak sağlar.<br/>İletişim aracı: İletişimde kullanılan yoldur. Alıcı ile verici arasındaki iletiler sözlü veya yazılı olabilir.<br/>Alıcı: Göndericinin gönderdiği iletiyi alan ve anlamlandıran kişi veya topluluktur.</br><br/>Doğru cevap C'dir."
     },
     {
         "SoruID": 3863036,
-        "SoruMetni": "I. Tasarım uygulamasının ortaya konması (uygulama)<br/> II. Kavramların geliştirilmesi (çözüm oluşturma)<br/> III. Araştırma (bilgi toplama)<br/> IV. Fikir üretimi (yaratılış ve buluş)<br/> V. Özetin geliştirilmesi (problemin tanımı)<br/> Görsel iletişim tasarım süreci yukarıdaki aşamalardan oluşmaktadır. Aşağıdaki seçeneklerden hangisinde bu aşamalar doğru bir şekilde sıralanmıştır?",
+        "SoruMetni": "I. Tasarım uygulamasının ortaya konması (uygulama)<br/>II. Kavramların geliştirilmesi (çözüm oluşturma)<br/>III. Araştırma (bilgi toplama)<br/>IV. Fikir üretimi (yaratılış ve buluş)<br/>V. Özetin geliştirilmesi (problemin tanımı)<br/>Görsel iletişim tasarım süreci yukarıdaki aşamalardan oluşmaktadır. Aşağıdaki seçeneklerden hangisinde bu aşamalar doğru bir şekilde sıralanmıştır?",
         "A": "III-V-IV-II-I",
         "B": "V-III-IV-II-I",
         "C": "V-III-IV-I-II",
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel iletişim tasarım süreci, görsel iletişimin oluşturulması için gereken faaliyetler ve akışı tanımlar. Belirli bir tasarım özeti için görsel iletişim oluştururken bir çerçeve olarak<br/>kullanılabilecek belirli aşamaları içerir. Bunlar sırasıyla; özetin geliştirilmesi (problemin tanımı), araştırma (bilgi toplama), fikir üretimi (yaratıcılık ve buluş süreci), kavramların geliştirilmesi (çözüm oluşturma) ve tasarım uygulamasının ortaya konulması (uygulama) aşamalarıdır. <br/> Doğru cevap B'dir."
+        "Aciklama": "Görsel iletişim tasarım süreci, görsel iletişimin oluşturulması için gereken faaliyetler ve akışı tanımlar. Belirli bir tasarım özeti için görsel iletişim oluştururken bir çerçeve olarak<br/>kullanılabilecek belirli aşamaları içerir. Bunlar sırasıyla; özetin geliştirilmesi (problemin tanımı), araştırma (bilgi toplama), fikir üretimi (yaratıcılık ve buluş süreci), kavramların geliştirilmesi (çözüm oluşturma) ve tasarım uygulamasının ortaya konulması (uygulama) aşamalarıdır. <br/>Doğru cevap B'dir."
     },
     {
         "SoruID": 3863037,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tasarım odaklı düşünme, problemlerin çözümüne yönelik çözüme dayalı bir yaklaşım sağlayan bir<br/>metodolojidir. Kötü tanımlanmış veya bilinmeyen karmaşık sorunların üstesinden gelmek için kullanıldığında son derece yararlıdır. Çünkü insan ihtiyaçlarını anlamaya, sorunu insan merkezli yollarla yeniden çerçevelemeye, beyin fırtınası yaparken sayısız fikir oluşturmaya ve uygulamalı bir yaklaşım benimsemeye hizmet eder. Tasarım odaklı düşüncenin beş aşaması izleyen şekilde sıralanabilir:<br/>• Empati yapın: Kullanıcılarınızın ihtiyaçlarını araştırın.<br/>• Tanımlayın: Kullanıcılarınızın ihtiyaçlarını ve sorunlarını belirtin.<br/>• Fikir üretin: Varsayımlara meydan okuyun ve fikirler yaratın.<br/>• Prototip oluşturun: Çözüm üretmeye başlayın.<br/>• Test edin: Çözümlerinizi deneyin.<br/> Doğru cevap A'dır."
+        "Aciklama": "Tasarım odaklı düşünme, problemlerin çözümüne yönelik çözüme dayalı bir yaklaşım sağlayan bir<br/>metodolojidir. Kötü tanımlanmış veya bilinmeyen karmaşık sorunların üstesinden gelmek için kullanıldığında son derece yararlıdır. Çünkü insan ihtiyaçlarını anlamaya, sorunu insan merkezli yollarla yeniden çerçevelemeye, beyin fırtınası yaparken sayısız fikir oluşturmaya ve uygulamalı bir yaklaşım benimsemeye hizmet eder. Tasarım odaklı düşüncenin beş aşaması izleyen şekilde sıralanabilir:<br/>• Empati yapın: Kullanıcılarınızın ihtiyaçlarını araştırın.<br/>• Tanımlayın: Kullanıcılarınızın ihtiyaçlarını ve sorunlarını belirtin.<br/>• Fikir üretin: Varsayımlara meydan okuyun ve fikirler yaratın.<br/>• Prototip oluşturun: Çözüm üretmeye başlayın.<br/>• Test edin: Çözümlerinizi deneyin.<br/>Doğru cevap A'dır."
     },
     {
         "SoruID": 3863038,
@@ -297,11 +297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipografi, tasarlanmış yazı görsel iletişim aracı olarak grafik tasarımda fotoğraf ve illüstrasyon ile<br/>birlikte kullanılır. 1800’lü yılların başlarında İngiliz baskı ve tipografi ustası Thomas Codben-Sanderson tipografi konusunda şunları yazar: “Tipografinin görevi, yazar tarafından iletilmek istenilen düşünce ve imgeyi gözden kaçırmadan okurun hayal gücüne seslenmektedir”. Kısaca tipografi, bir metnin yazı formunun tasarlanmasıdır. Aynı zamanda tipografi kavramı yazı karakterleri ve onların sistematik sınıflandırılmasıdır. Bir yazı karakteri, alfabedeki her bir harfe karşılık gelen harf sembolleri, rakamlar ve noktalama işaretlerinden oluşur.<br/> Doğru cevap D'dir."
+        "Aciklama": "Tipografi, tasarlanmış yazı görsel iletişim aracı olarak grafik tasarımda fotoğraf ve illüstrasyon ile<br/>birlikte kullanılır. 1800’lü yılların başlarında İngiliz baskı ve tipografi ustası Thomas Codben-Sanderson tipografi konusunda şunları yazar: “Tipografinin görevi, yazar tarafından iletilmek istenilen düşünce ve imgeyi gözden kaçırmadan okurun hayal gücüne seslenmektedir”. Kısaca tipografi, bir metnin yazı formunun tasarlanmasıdır. Aynı zamanda tipografi kavramı yazı karakterleri ve onların sistematik sınıflandırılmasıdır. Bir yazı karakteri, alfabedeki her bir harfe karşılık gelen harf sembolleri, rakamlar ve noktalama işaretlerinden oluşur.<br/>Doğru cevap D'dir."
     },
     {
         "SoruID": 3863039,
-        "SoruMetni": "Tipografide; .... satırların uzunluğunu, .... harf ölçüsünü ölçmek için kullanılır.<br/><br/>Yukarıdaki cümledeki boşlukları doğru olarak tamamlayan seçenek aşağıdakilerden hangisidir?",
+        "SoruMetni": "Tipografide; .... satırların uzunluğunu, .... harf ölçüsünü ölçmek için kullanılır.<br/>Yukarıdaki cümledeki boşlukları doğru olarak tamamlayan seçenek aşağıdakilerden hangisidir?",
         "A": "Kapital-Miniskül",
         "B": "Majüskül-Miniskül",
         "C": "Pika-Punto",
@@ -317,11 +317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Punto harf ölçüsünü ölçmek, pika ise satırların uzunluğunu ölçmek için kullanılır. Büyük harflere majüskül ya da kapital denir. Küçük harflere miniskül denir. Hurufat basımda, baskı işinde kullanılan metal vb. bir maddeden yapılmış harf, rakam, noktalama işaretleri gibi kalıplardan oluşur. Yazı karakteri aynı karakteristik özelliklere sahip harflerin, rakamların, sembollerin, noktalama işaretlerinin vb. bir araya gelmesinden oluşan tasarımdır. <br/><br/>Doğru cevap C'dir."
+        "Aciklama": "Punto harf ölçüsünü ölçmek, pika ise satırların uzunluğunu ölçmek için kullanılır. Büyük harflere majüskül ya da kapital denir. Küçük harflere miniskül denir. Hurufat basımda, baskı işinde kullanılan metal vb. bir maddeden yapılmış harf, rakam, noktalama işaretleri gibi kalıplardan oluşur. Yazı karakteri aynı karakteristik özelliklere sahip harflerin, rakamların, sembollerin, noktalama işaretlerinin vb. bir araya gelmesinden oluşan tasarımdır. <br/>Doğru cevap C'dir."
     },
     {
         "SoruID": 3863040,
-        "SoruMetni": "Engellilere yönelik tasarımlar yaparken, disleksi veya takıntı problemi olanlar için mesajınızın daha açık ve anlaşılır olmasını istiyorsanız Helvatica gibi daha .... fontlar kullanmanız önemlidir. <br/><br/>Yukarıdaki cümledeki boşluğu doğru olarak tamamlayabilecek seçenek aşağıdakilerden hangisidir?",
+        "SoruMetni": "Engellilere yönelik tasarımlar yaparken, disleksi veya takıntı problemi olanlar için mesajınızın daha açık ve anlaşılır olmasını istiyorsanız Helvatica gibi daha .... fontlar kullanmanız önemlidir. <br/>Yukarıdaki cümledeki boşluğu doğru olarak tamamlayabilecek seçenek aşağıdakilerden hangisidir?",
         "A": "Hareketli",
         "B": "Küçük",
         "C": "Orantılı",
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Disleksi veya takıntı problemi olanlar için Comic Sans gibi hareketli harf boyutlarına sahip fontlar tam bir kabus olabilir. Bu nedenle de mesajınızın daha açık ve anlaşılır olmasını istiyorsanız Helvatica gibi daha orantılı fontlar kullanmanızda yarar var. Örneğin Courier, Arial, Verdana ve Computer Modern Unicode fontları da yine harf orantısı ve harfler arası boşluklar bakımından oldukça başarılı ve kullanılabilir fontlardır.<br/><br/>Doğru cevap C'dir."
+        "Aciklama": "Disleksi veya takıntı problemi olanlar için Comic Sans gibi hareketli harf boyutlarına sahip fontlar tam bir kabus olabilir. Bu nedenle de mesajınızın daha açık ve anlaşılır olmasını istiyorsanız Helvatica gibi daha orantılı fontlar kullanmanızda yarar var. Örneğin Courier, Arial, Verdana ve Computer Modern Unicode fontları da yine harf orantısı ve harfler arası boşluklar bakımından oldukça başarılı ve kullanılabilir fontlardır.<br/>Doğru cevap C'dir."
     },
     {
         "SoruID": 3863041,
@@ -357,11 +357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir tasarımda mesajın iletilmesinde ve tipografi kullanımında renklerin psikolojik etkilerine dikkat edilmelidir (ör. hedef kitle doğrultusunda tanımlanan engel gruplarına göre sosyal, kültürel farklılar göz önünde bulundurulmalı ve renk seçimi ona göre yapılmalıdır. <br/>• Engel gruplarına göre renk algıda seçicilik yaratabilir (ör. görme yetersizliğine ya da renk körlüğüne sahip bireyler için renk seçilmesi ve belki de yazıyla desteklenmesi gibi).<br/>• Engelli bireyler için algılamayı destekleyici teknolojilerin kullanılması konusunda çok yönlü, yaratıcı<br/>ve problem çözücü olunmalıdır (ör. engelliler için web sayfası tasarlarken ya da işitme engelliler<br/>için renk kullanımıyla izleyicinin sıkılmadan erişilebilirliğin sağlanması gibi).<br/>• Bir tasarımda veri görselleştirmesi yaparken algılamayı güçleştirecek parlak ve çok renkten kaçınılmalıdır Veri görselleştirmesi birçok engel grubundaki bireyler için karmaşık gibi görünen bilgilerin açık ve ulaşılabilir olmasını sağlar.<br/><br/>Doğru cevap E'dir."
+        "Aciklama": "Bir tasarımda mesajın iletilmesinde ve tipografi kullanımında renklerin psikolojik etkilerine dikkat edilmelidir (ör. hedef kitle doğrultusunda tanımlanan engel gruplarına göre sosyal, kültürel farklılar göz önünde bulundurulmalı ve renk seçimi ona göre yapılmalıdır. <br/>• Engel gruplarına göre renk algıda seçicilik yaratabilir (ör. görme yetersizliğine ya da renk körlüğüne sahip bireyler için renk seçilmesi ve belki de yazıyla desteklenmesi gibi).<br/>• Engelli bireyler için algılamayı destekleyici teknolojilerin kullanılması konusunda çok yönlü, yaratıcı<br/>ve problem çözücü olunmalıdır (ör. engelliler için web sayfası tasarlarken ya da işitme engelliler<br/>için renk kullanımıyla izleyicinin sıkılmadan erişilebilirliğin sağlanması gibi).<br/>• Bir tasarımda veri görselleştirmesi yaparken algılamayı güçleştirecek parlak ve çok renkten kaçınılmalıdır Veri görselleştirmesi birçok engel grubundaki bireyler için karmaşık gibi görünen bilgilerin açık ve ulaşılabilir olmasını sağlar.<br/>Doğru cevap E'dir."
     },
     {
         "SoruID": 3863042,
-        "SoruMetni": "Dilin işaret ve sembollerle yapılanmış bir sistem olduğunu öneren, önerdiği ilkeleri ile göstergebilimin kurumsallaşmasını sağlayan ve bu ilkeleri 1960’ların sonuna kadar eleştirel ve kültürel çalışmalarda yoğun şekilde kullanılan dilbilimci aşağıdakilerden hangisidir?",
+        "SoruMetni": "Dilin işaret ve sembollerle yapılanmış bir sistem olduğunu öneren, önerdiği ilkeleri ile göstergebilimin kurumsallaşmasını sağlayan ve bu ilkeleri 1960’ların sonuna kadar eleştirel ve kültürel çalışmalarda yoğun şekilde kullanılan dilbilimci aşağıdakilerden hangisidir?",
         "A": "Ferdinand de Saussure",
         "B": "Sigmund Freud",
         "C": "Lev Vygotsky",
@@ -377,11 +377,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ferdinand de Saussure (1857-1913) çok önemli İsveçli bir dilbilimcidir. Dilin işaret ve sembollerle<br/>yapılanmış bir sistem olduğunu önermiştir. İlkeleri, göstergebilimin kurumsallaşmasını sağlamış ve<br/>1960’ların sonuna kadar eleştirel ve kültürel çalışmalarda yoğun şekilde kullanılmıştır.<br/><br/>Doğru cevap A'dır."
+        "Aciklama": "Ferdinand de Saussure (1857-1913) çok önemli İsveçli bir dilbilimcidir. Dilin işaret ve sembollerle<br/>yapılanmış bir sistem olduğunu önermiştir. İlkeleri, göstergebilimin kurumsallaşmasını sağlamış ve<br/>1960’ların sonuna kadar eleştirel ve kültürel çalışmalarda yoğun şekilde kullanılmıştır.<br/>Doğru cevap A'dır."
     },
     {
         "SoruID": 3863043,
-        "SoruMetni": "Aşağıdakilerden hangisi engelliler için görsel iletişim tasarımında imge kullanımıyla ilgili doğru bir bilgi <strong>değildir? </strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi engelliler için görsel iletişim tasarımında imge kullanımıyla ilgili doğru bir bilgi <strong>değildir? </strong>",
         "A": "Hedef kitle iyi araştırılmalıdır.",
         "B": "Soyut anlatımlar tercih edilmelidir.",
         "C": "Basit, net ve anlaşılabilir mesajlar kullanılmalıdır.",
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Engelliler için görsel iletişim tasarımında imge kullanımıyla ilgili izleyen noktalara dikkat edilebilir:<br/>• Hedef kitlenin iyi araştırılması (ör., gelişimsel yetersizliğe sahip bireylerin sosyal, işitme engellilerin<br/>dil gelişimine bağlı kavramsal yetersizliğinin bilinmesi gibi)<br/>• Basit ve net anlaşılabilir mesaj kullanımı (ör., soyut kavramlardan kaçılması, gelişimsel yetersizliğe<br/>sahip bireylerin anlamlandırmada yaşayabilecekleri sorunlar nedeniyle gerekmedikçe kullanılmaması, gerekli ise somut imajlar ile desteklenmesi gibi)<br/>• Engel gruplarına göre imajın düzenlenmesi (ör. görme yetersizliğine ya da renk körlüğüne sahip<br/>bireyler düşünüldüğünde verilmek istenen mesaj doğrultusunda büyük imaj kullanılırken doğru<br/>renk seçilmesi ve belki de yazıyla desteklenmesi gibi)<br/>• Bir tasarımda imaj seçiminde yapılan hatalar da gönderilen iletiyle algılanan ileti arasında farklılaşmaya neden olabilir (ör. burada yine hedef kitle doğrultusunda tanımlanan engel gruplarına göre sosyal, kültürel farklılar göz önünde bulundurulmalı ve imaj seçimi ona göre yapılmalıdır).<br/><br/>Doğru cevap B'dir."
+        "Aciklama": "Engelliler için görsel iletişim tasarımında imge kullanımıyla ilgili izleyen noktalara dikkat edilebilir:<br/>• Hedef kitlenin iyi araştırılması (ör., gelişimsel yetersizliğe sahip bireylerin sosyal, işitme engellilerin<br/>dil gelişimine bağlı kavramsal yetersizliğinin bilinmesi gibi)<br/>• Basit ve net anlaşılabilir mesaj kullanımı (ör., soyut kavramlardan kaçılması, gelişimsel yetersizliğe<br/>sahip bireylerin anlamlandırmada yaşayabilecekleri sorunlar nedeniyle gerekmedikçe kullanılmaması, gerekli ise somut imajlar ile desteklenmesi gibi)<br/>• Engel gruplarına göre imajın düzenlenmesi (ör. görme yetersizliğine ya da renk körlüğüne sahip<br/>bireyler düşünüldüğünde verilmek istenen mesaj doğrultusunda büyük imaj kullanılırken doğru<br/>renk seçilmesi ve belki de yazıyla desteklenmesi gibi)<br/>• Bir tasarımda imaj seçiminde yapılan hatalar da gönderilen iletiyle algılanan ileti arasında farklılaşmaya neden olabilir (ör. burada yine hedef kitle doğrultusunda tanımlanan engel gruplarına göre sosyal, kültürel farklılar göz önünde bulundurulmalı ve imaj seçimi ona göre yapılmalıdır).<br/>Doğru cevap B'dir."
     },
     {
         "SoruID": 3863314,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt D'dir. İletişimdir."
+        "Aciklama": "“İletişim nedir?” diye sorulduğunda iletişim kavramı için çok şey söylenebilir. En yaygın tanımıyla iletişim “duygu, düşünce veya bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılması, bildirişim, haberleşme, komünikasyon” olarak tanımlanabilir (Türk Dil Kurumu [TDK]).<br>Yanıt D'dir. İletişimdir."
     },
     {
         "SoruID": 3863315,
@@ -437,11 +437,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt A'dır. Gönderici - mesaj - alıcıdır."
+        "Aciklama": "Gönderici: Mesajı gönderen, kişi, grup veya kurumdur. Tasarımcı hedef kitleye iletmek isteği mesajı önce zihninde oluşturur daha sonra bu oluşan fikri kodlayarak -sözcüklere, rakamlara, sembollere, işaretlere dönüştürerek- iletişim aracılığı ile alıcıya gönderir. Bu durum hedef kitlenin ihtiyaçları ve kapsayıcı tasarım yönünde kararlar ile desteklenmelidir.<br/>Mesaj: Gönderici tarafından kodlanarak alıcıya gönderilen, gönderici ve alıcı için aynı anlamı taşıyan, duygu ve düşünceleri ifade eder. Tasarımcı sözcükleri, rakamları, sembolleri, işaretlere dönüştürerek iletişim aracılığıyla alıcıya gönderir. <br/>Alıcı: Göndericinin gönderdiği iletiyi alan ve anlamlandıran kişi veya topluluktur.<br>Yanıt A'dır. Gönderici - mesaj - alıcıdır."
     },
     {
         "SoruID": 3863316,
-        "SoruMetni": "Görsel tasarım sürecinde aşağıda bahsedilen etkinlikler hangi aşamayı açıklar?<br/><br/>\"Hangi fikir yada fikirlerle devam edileceğine karar verildikten sonra çeşitli ortamlar, malzemeler, yöntemler, tasarım öğeleri ve ilkeler uygulanarak görselleştirme oluşturulur. Tasarım müşteri geri bildirimine ve/veya özete göre görsel düzenleme, uyarlamalar yapılarak tamamlanır.\"",
+        "SoruMetni": "Görsel tasarım sürecinde aşağıda bahsedilen etkinlikler hangi aşamayı açıklar?<br/>\"Hangi fikir yada fikirlerle devam edileceğine karar verildikten sonra çeşitli ortamlar, malzemeler, yöntemler, tasarım öğeleri ve ilkeler uygulanarak görselleştirme oluşturulur. Tasarım müşteri geri bildirimine ve/veya özete göre görsel düzenleme, uyarlamalar yapılarak tamamlanır.\"",
         "A": "Özetin geliştirilmesi",
         "B": "Bilgi toplama",
         "C": "Kavramların geliştirilmesi",
@@ -457,7 +457,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt C'dir. Kavramların geliştirilmesidir."
+        "Aciklama": "Kavramların geliştirilmesi (çözüm oluşturma): Hangi fikir yada fikirlerle devam edileceğine karar verildikten sonra çeşitli ortamlar, malzemeler, yöntemler, tasarım öğeleri ve ilkeler uygulanarak görselleştirme oluşturulur. Tasarım müşteri geri bildirimine ve/veya özete göre görsel düzenleme, uyarlamalar yapılarak tamamlanır.<br>Yanıt C'dir. Kavramların geliştirilmesidir."
+    },
+    {
+        "SoruID": 3863317,
+        "SoruMetni": "\"Konu hakkındaki bilgiler bir araya getirilerek değerlendirilir. Araştırmalardan yararlanılarak<br/>olası fikirler bulunup görselleştirme taslakları ya da fikir eskizleri oluşturulur. Tasarımcı kağıda ilk eskizlerini karalar.\"<br/>Açıklanan bu etkinlikler görsel iletişim tasarım sürecinde hangi aşamaya aittir?",
+        "A": "Fikir üretimi",
+        "B": "Araştırma",
+        "C": "Problemin tanımı",
+        "D": "Kavramların geliştirilmesi",
+        "E": "Tasarım uygulamasının ortaya konması",
+        "DogruCevap": "A",
+        "DersAd": "Engellilik ve Erişilebilir Tasarım",
+        "Unite": 3,
+        "Somestre": "5",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:59.239067",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fikir üretimi (yaratılıcılık ve buluş süreci): Öncelikle konu hakkındaki bilgiler bir araya getirilerek değerlendirilir. Araştırmalardan yararlanılarak olası fikirler bulunup görselleştirme taslakları ya da fikir eskizleri oluşturulur. Tasarımcı kağıda ilk eskizlerini karaladığında “dışavurumculu yaratıcılık” aşamasındadır. Eskiz biraz daha ayrıntılı bir hale getirildiğinde ise “üretken yaratıcılık” aşamasına geçilmiş olur.<br>Yanıt A'dır. Fikir üretimidir."
     },
     {
         "SoruID": 3863318,
@@ -477,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt E'dir. Empati kurmadır."
+        "Aciklama": "Empati kurun: Tasarım odaklı düşünmenin ilk aşaması, kullanıcılar ve onların ihtiyaçları hakkında gerçek bilgiler edinmektir. Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak istiyorsanız, daha fazla bilgi edinmek için uzmanlara danışmak ve kullanıcılarla etkileşim kurmak ve empati kurmak için gözlemler yapmak uygun olacaktır. Ayrıca ilgili sorunların yanı sıra deneyimleri ve motivasyonları hakkında daha derin, kişisel bir anlayış kazanmak için kendinizi kullanıcılarınızın fiziksel ortamına sokmak isteyebilirsiniz. Empati, tasarım düşünürlerinin dünyayla ilgili kendi varsayımlarını bir kenara bırakmalarına<br/>ve kullanıcılar ve onların ihtiyaçları hakkında gerçek bir iç görü kazanmalarına olanak tanıdığından, problem çözme ve insan merkezli bir tasarım sürecinin merkezinde yer alır. Özellikle engelliler söz konusu olduğunda genel kalıpları bir kenara bırakmak gerekir. Bir engellinin algısı söz konusu olduğunda ne kalıplar ne de bizim kendi algılama deneyimimiz<br/>bize yol göstermeyecekti<br>Yanıt E'dir. Empati kurmadır."
     },
     {
         "SoruID": 3863319,
@@ -497,11 +517,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt D'dir. \"Punto satırların uzunluğunu ölçmek için kullanılır.\" ifadesi yanlıştır."
+        "Aciklama": "\"Punto satırların uzunluğunu ölçmek için kullanılır.\" ifadesi yanlıştır. Punto harf ölçüsünü ölçmek, pika ise satırların uzunluğunu ölçmek için kullanılır.<br>Yanıt D'dir. \"Punto satırların uzunluğunu ölçmek için kullanılır.\" ifadesi yanlıştır."
     },
     {
         "SoruID": 3863320,
-        "SoruMetni": "Aşağıdaki açıklama neyin tanımıdır?<br/><br/>\"Yazı karakterlerinden kağıt seçimine, renk ilişkileri, kontrast ve bütün baskı nesneleriyle ilgilidir ve her düzenleme etkeninin nasıl olduğunu içerir. Bir başka deyişle her şeyin hoşnut edici bir okuma yaratmasıdır.\"",
+        "SoruMetni": "Aşağıdaki açıklama neyin tanımıdır?<br/>\"Yazı karakterlerinden kağıt seçimine, renk ilişkileri, kontrast ve bütün baskı nesneleriyle ilgilidir ve her düzenleme etkeninin nasıl olduğunu içerir. Bir başka deyişle her şeyin hoşnut edici bir okuma yaratmasıdır.\"",
         "A": "Tipografi",
         "B": "Uygunluk",
         "C": "Okunurluk",
@@ -517,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt D'dir. Okuturluktur."
+        "Aciklama": "Okuturluk: Okuturluk okunurluktan farklıdır; bu kavram yalnız yazı karakterini içermez. Okuturluk yazı karakterlerinden kağıt seçimine, renk ilişkileri, kontrast ve bütün baskı nesneleriyle ilgilidir ve her düzenleme etkeninin nasıl olduğunu içerir. Bir başka deyişle her şeyin hoşnut edici bir okuma yaratmasıdır. Okunurluk yazı karakteri ve hart ölçüsüne bağlıyken okuturluk bütün tasarımda temellenir.<br>Yanıt D'dir. Okuturluktur."
     },
     {
         "SoruID": 3863321,
@@ -537,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt A'dır. CMYK renk modeli dijital ortamlarda kullanılır ifadesi yanlıştır."
+        "Aciklama": "CMYK (Cyan, Magenta, Yellow, Key) kağıda basılacak tasarımlarda kullanılan çıkarmalı renk<br/>modeldir CMYK modeli, beyaz bir yüzeyi maskeleme prensibi ile çalışır. Işık mürekkep tarafından emilir bu nedenle model çıkarmalı olarak adlandırılır, çünkü mürekkepler beyaz ışıktan kırmızı, yeşil ve mavi renkleri “çıkarır.” Cyan: camgöbeğinin, Magenta: macentanın, Yellow: sarının ve Key: anahtar(siyah)ın kısaltmasıdır. <br/>RGB (Red, Green, Blue) renk modeli dijital ortamlarda kullanılır. İnternette bulunan grafikler ve imajlarda ve bilgisayar veya LCD ekran teknolojisinde Red: kırmızı, Green: yeşil, Blue: mavi renklerin kısaltmasıdır. Bu sistemde renkler mürekkepten değil ışıktan oluşur.<br>Yanıt A'dır. CMYK renk modeli dijital ortamlarda kullanılır ifadesi yanlıştır."
     },
     {
         "SoruID": 3863322,
@@ -561,7 +581,7 @@
     },
     {
         "SoruID": 3863323,
-        "SoruMetni": "\"Belli bir grup veya kültür için bir göstergenin belli bir şeyi, nesneyi veya kavramı temsil<br/>etmesi üzerine bir anlaşmadır. Bu, park yeri, dolar işareti, kahve fincanı kahve gibi dünya çapında anlaşılan bir gösterge veya bir futbol takımının sembolu olarak kara kartal yada kanarya gibi daha özel olabilir.\" <br/><br/>Yukarıdaki açıklama Roland Barthes'ın göstergebilim için tanımladığı hangi kavrama aittir?",
+        "SoruMetni": "\"Belli bir grup veya kültür için bir göstergenin belli bir şeyi, nesneyi veya kavramı temsil<br/>etmesi üzerine bir anlaşmadır. Bu, park yeri, dolar işareti, kahve fincanı kahve gibi dünya çapında anlaşılan bir gösterge veya bir futbol takımının sembolu olarak kara kartal yada kanarya gibi daha özel olabilir.\" <br/>Yukarıdaki açıklama Roland Barthes'ın göstergebilim için tanımladığı hangi kavrama aittir?",
         "A": "Uylaşım",
         "B": "Düz anlam",
         "C": "Yan anlam",
@@ -577,6 +597,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt A'dır. Uylaşımdır."
+        "Aciklama": "Roland Barthes (1915-1980) göstergebilimde etkili bir figür olmuştur. Açıkladığı kavramlardan biri olan uylaşımın açıklaması:<br/>Uylaşım: Belli bir grup veya kültür için bir göstergenin belli bir şeyi, nesneyi veya kavramı temsil etmesi üzerine bir anlaşmadır. Bu, park yeri, dolar işareti, kahve fincanı kahve gibi dünya çapında anlaşılan bir gösterge veya bir futbol takımının sembolu olarak kara kartal yada kanarya gibi daha özel olabilir.<br>Yanıt A'dır. Uylaşımdır."
     }
 ]

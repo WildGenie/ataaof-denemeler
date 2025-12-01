@@ -1,8 +1,8 @@
 [
     {
         "SoruID": 3887265,
-        "SoruMetni": "17. yüzyıldaki siyasi kriz (meşruiyet) Osmanlı Devleti’nin egemenlik anlayışını zorlamıştır. Yeniçerilerin, II. Osman’ı katletmesi ile de bir düşünce yıkılmıştır.<br/><br/>Yukarıdaki metinde bahsedilen düşünce aşağıdakilerden hangisidir?",
-        "A": "Sultanın  dokunulmaz olması",
+        "SoruMetni": "17. yüzyıldaki siyasi kriz (meşruiyet) Osmanlı Devleti’nin egemenlik anlayışını zorlamıştır. Yeniçerilerin, II. Osman’ı katletmesi ile de bir düşünce yıkılmıştır.<br/>Yukarıdaki metinde bahsedilen düşünce aşağıdakilerden hangisidir?",
+        "A": "Sultanın dokunulmaz olması",
         "B": "Sultan değişebilir olması",
         "C": "Sultanın sefere çıkması",
         "D": "Sultan cülüs dağıtması",
@@ -17,14 +17,14 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sultanın dokunulmaz olması"
+        "Aciklama": "17. yüzyıl’daki siyasi kriz (meşruiyet) Osmanlı<br/>Devleti’nin egemenlik anlayışını zorlamıştır.<br/>Yeniçeriler, II. Osman’ı katlettiğinde<br/>dokunulmaz sultan imgesini de yıkmışlardır.<br>Sultanın dokunulmaz olması"
     },
     {
         "SoruID": 3887266,
-        "SoruMetni": "Osmanlı tarihinde padişahın tahta çıkması ile ilgili veraset sistemi ilk<br/>kez  nasıl değiştirmiştir?",
-        "A": "Valıde sultanın  arzusu ile",
+        "SoruMetni": "Osmanlı tarihinde padişahın tahta çıkması ile ilgili veraset sistemi ilk<br/>kez nasıl değiştirmiştir?",
+        "A": "Valıde sultanın arzusu ile",
         "B": "Padişahın fermanı ile",
-        "C": "Yeniçerilerin  baskısı ile",
+        "C": "Yeniçerilerin baskısı ile",
         "D": "Sultanların isyanın haklı bulunması ile",
         "E": "Sultanın oğlu yerine kardeşinin getirilmesi ile",
         "DogruCevap": "E",
@@ -37,11 +37,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sultanın oğlu yerine kardeşinin getirilmesi ile"
+        "Aciklama": "Osmanlı tarihinde ilk<br/>kez sultanın oğlu yerine kardeşi Mustafa’yı<br/>tahta çıkartmış ve veraset sistemini değiştirmiştir<br>Sultanın oğlu yerine kardeşinin getirilmesi ile"
     },
     {
         "SoruID": 3887267,
-        "SoruMetni": "<br/> 18 yüzyılda değişmez düzen(nizam) karşısında ilk defa Nizam-ı Cedit terimini kullanan yazar aşağıdaki seçeneklerden hangisidir?",
+        "SoruMetni": "<br/>18 yüzyılda değişmez düzen(nizam) karşısında ilk defa Nizam-ı Cedit terimini kullanan yazar aşağıdaki seçeneklerden hangisidir?",
         "A": "Hezarfen Hüseyin Çelebi",
         "B": "Kâtip Çelebi",
         "C": "Namık Kemal",
@@ -57,11 +57,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İbrahim Müteferrika"
+        "Aciklama": "İbrahim Müteferrika, Nizam-ı Cedit terimini<br/>ilk kullanan yazardır. Bu yönüyle değişmez düzen<br/>(nizam) karşısında ilk defa yeni düzen anlayışını<br/>dile getirir. Kâtip Çelebi’nin 17. yüzyılda dile getiremediği<br/>yeni kavramı, yani yeni düzen anlayışını<br/>onun izinden giden Müteferrika 18. yüzyılda dile<br/>getirebilmiştir."
     },
     {
         "SoruID": 3887268,
-        "SoruMetni": "Lale devrin de gerçekleştirilen önemli uygulamalardan  biri aşağıdaki seçeneklerden  hangisidir?",
+        "SoruMetni": "Lale devrin de gerçekleştirilen önemli uygulamalardan biri aşağıdaki seçeneklerden hangisidir?",
         "A": "Lale yetiştiriciliğinin artması",
         "B": "Tüfeğin icadı",
         "C": "Matbaanın açılması",
@@ -77,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Matbaanın açılması"
+        "Aciklama": "Lale Devri, Yirmisekiz Çelebi Mehmet ve<br/>Müteferrika’nın etkisinde gelişen bir dönemdir. Bu<br/>dönemde yüz kadar şair ve yazar yetişmiş bir çeviri<br/>heyeti kurulmuş, matbaa açılmış ve Batı’nın hiç olmazsa<br/>yüzyıl önceki ilmiyle temasa geçilmiş, Avrupa<br/>ile bilimsel anlamda da bir ilişki başlamıştır.<br>Matbaanın açılması"
     },
     {
         "SoruID": 3887269,
-        "SoruMetni": "Osmanlı Devleti’nin etrafındaki dünya ile münasebeti açısından  Paris, Viyana ve Berlin’de daimi ikamet elçiliklerini hangi padişah kurmuştur ?",
+        "SoruMetni": "Osmanlı Devleti’nin etrafındaki dünya ile münasebeti açısından Paris, Viyana ve Berlin’de daimi ikamet elçiliklerini hangi padişah kurmuştur ?",
         "A": "III Mustafa",
         "B": "III Selim",
         "C": "I Abdülhamit",
@@ -97,11 +97,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "III Selim"
+        "Aciklama": "III. Selim’in Osmanlı Devleti’nin etrafındaki dünya ile münasebeti açısından belki de en önemli girişimi,<br/>1793’te Londra ve 1797’de Paris, Viyana ve Berlin’de daimi ikamet elçiliklerini kurmasıdır. Elçilikler<br/>Osmanlı dışındaki dünyada olup biten siyasi, ekonomik, askerî ve bilimsel gelişmeyi yakından takip ederek<br/>Osmanlı Devleti’nin dönüşümünde öncü rol oynayan modernleşmenin etkili birer aktörleridir.<br>III Selim"
     },
     {
         "SoruID": 3887270,
-        "SoruMetni": "Tanzimat’ın ilanı hangi  Osmanlı Sultanı Dönemi’nde gerçekleşmiştir?",
+        "SoruMetni": "Tanzimat’ın ilanı hangi Osmanlı Sultanı Dönemi’nde gerçekleşmiştir?",
         "A": "II Mustafa",
         "B": "II Mahmut",
         "C": "Sultan Abdülmecit",
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sultan Abdülmecit"
+        "Aciklama": "Tanzimat’ın ilanı Abdülmecit<br/>Dönemi’nde (1839-1861) gerçekleşti.<br>Sultan Abdülmecit"
     },
     {
         "SoruID": 3887271,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru olan, Verginin herkesin gücü nispetinde tahsil edilmesi ve kimseden fazladan bir şey istenmemesi"
+        "Aciklama": "Tanzimat Fermanı bir yandan can, mal, namus<br/>güvenliğini temin ederek keyfi el koymalara son verirken,<br/>diğer yandan Müslüman üstünlüğüne dayalı<br/>sistemden ırk ve din temeline bakmadan tüm vatandaşların<br/>eşitliği yolunda ilk adımın atılmasını sağladı<br>Doğru olan, Verginin herkesin gücü nispetinde tahsil edilmesi ve kimseden fazladan bir şey istenmemesi"
     },
     {
         "SoruID": 3887272,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "V. Mehmet Reşat"
+        "Aciklama": "Değişikliklerle padişahın tahta çıkışında Meclisi<br/>Umumide Şer’i<br/>Şerif ve Kanuni<br/>Esasi hükümlerine uyacağına, vatan ve millete sadakat edeceğine dair yemin etmesi şartı<br/>getirilmiştir. V. Mehmet Reşat, Padişahlığı meclis tarafından onaylanan ve mecliste yemin eden ilk padişah<br/>olmuştur."
     },
     {
         "SoruID": 3887273,
@@ -181,12 +181,12 @@
     },
     {
         "SoruID": 3887274,
-        "SoruMetni": "Osmanlıcılık ne zaman  iflas etmiş<br/>bir ideoloji olarak görülmüştür.",
+        "SoruMetni": "Osmanlıcılık ne zaman iflas etmiş<br/>bir ideoloji olarak görülmüştür.",
         "A": "Cumhuriyetin kuruluşu",
         "B": "Kurtuluş savaşı başlaması ile",
         "C": "Balkan savaşlarından sonra",
-        "D": "Osmanlının  çöküşü ile",
-        "E": "Tanzimatın ilanı  sonucunda",
+        "D": "Osmanlının çöküşü ile",
+        "E": "Tanzimatın ilanı sonucunda",
         "DogruCevap": "C",
         "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi I",
         "Unite": 1,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Balkan savaşlarından sonra"
+        "Aciklama": "Balkan Savaşları sonrasında Osmanlıcılık iflas etmiş<br/>bir ideoloji olarak görülmüştür.<br>Balkan savaşlarından sonra"
     },
     {
         "SoruID": 3887275,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gaspıralı İsmail"
+        "Aciklama": "Gaspıralı İsmail, Türkçülüğün Osmanlı entelektüel dünyasında karşılık bulmasında etkili olan isimlerden biridir"
     },
     {
         "SoruID": 3887276,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçülük"
+        "Aciklama": "Türkçülük düşüncesi erken Cumhuriyet Dönemi’nin ideolojik temellerinden birisini oluşturmuştur."
     },
     {
         "SoruID": 3887277,
@@ -257,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Abdullah Cevdet,"
+        "Aciklama": "Türk Yurdu, Yeni Mecmua gibi dergiler, Şûrayı Ümmet ve Tanin gibi gazeteler tarafından yoğun biçimde tartışılan kültürel ve siyasal Türkçülük, edebiyat alanında da etkili oldu ve Genç Kalemler (Selanik) gibi dergi ve yayınlarla bu alanda ciddi bir değişimi gerçekleştirdi. Emile Durkheim’den etkilenen Ziya Gökalp, Türkçülüğün sosyolojik bir çerçeveye oturtulmasında, Ahmet Ağaoğlu, Yusuf Akçura ve Hüseyinzâde Ali beyler Osmanlı Devleti dışında yaşayan Türkleri de kapsayan bir Türk dünyası ve Türklük fikrinin kavramsallaştırılmasında, Ömer Seyfettin ve Mehmet Emin beyler sadeleştirilmiş dil ve Türkçü edebiyat tezlerinin oluşturulmasında öncü roller oynamıştır. Ziya Gökalp 1913’te Türk Yurdu’nda neşrettiği “Türkleşmek, İslâmlaşmak, Muâsırlaşmak” başlıklı çalışmasında, bilhassa İslâm Mecmuası’nda ve Yeni Hayat kitabında Türkleştirilmiş bir İslam, “Türk-İslam harsı” tezini işlemiştir. Bu yayınlarda İslam’ın Türkleştiri<br>Abdullah Cevdet,"
     },
     {
         "SoruID": 3887278,
-        "SoruMetni": "Osmanlıcılık,................  itibaren millet tanımına giren halkların yaşadıkları topraklar üzerinde kendi devletlerini kurmak istemeleriyle ilgili gelişmeyi önlemeye yönelik siyasi bir akım olarak ortaya çıkmıştır.",
+        "SoruMetni": "Osmanlıcılık,................ itibaren millet tanımına giren halkların yaşadıkları topraklar üzerinde kendi devletlerini kurmak istemeleriyle ilgili gelişmeyi önlemeye yönelik siyasi bir akım olarak ortaya çıkmıştır.",
         "A": "19. yüzyılın ilk çeyreğinden",
         "B": "17. yüz yılın son çeyreğinden",
         "C": "20. yüz yılın başlarında",
@@ -277,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "19. yüzyılın ilk çeyreğinden"
+        "Aciklama": "Osmanlıcılık, 19. yüzyılın ilk çeyreğinden itibaren böyle bir gelişmeyi önlemeye yönelik siyasi bir akım olarak<br/>ortaya çıkmıştır."
     },
     {
         "SoruID": 3887279,
-        "SoruMetni": "(1882) Üçlü İttifak antlaşması hangi devletler arasında imzalandı. <br/><br/>",
+        "SoruMetni": "(1882) Üçlü İttifak antlaşması hangi devletler arasında imzalandı.",
         "A": "Almanya, İtalya ve Avusturya-Macaristan",
         "B": "Almanya, Fransa ve Avusturya-Macaristan",
         "C": "Fransa, İtalya ve Avusturya-Macaristan",
@@ -297,13 +297,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Almanya, İtalya ve Avusturya-Macaristan"
+        "Aciklama": "Üçlü İttifak (1882)<br/>1882’de Almanya, İtalya ve Avusturya-Macaristan<br/>arasında Üçlü İttifak antlaşması imzalandı.<br/>Üçlü İttifak İtalya’nın teşebbüsü ile gerçekleşmiştir.<br/>Fransa’nın Cezayir’den sonra ani bir hamle ile<br/>Osmanlı himayesinde olan Tunus’u da işgal etmesi<br/>Kuzey Afrika’da sömürge arayışı içinde olan İtalya’yı<br/>rahatsız etmiştir. Bir yandan Fransa korkusu diğer<br/>yandan da sömürgecilik yapabilmesi için sırtını Almanya<br/>gibi büyük bir devlete dayama zorunluluğu,<br/>İtalya’yı Almanya ile ittifak istemeye yöneltti."
     },
     {
         "SoruID": 3887280,
         "SoruMetni": "Sanayi Devrimi’ni yaşayan Avrupalı olmayan<br/>tek ülke aşağıdaki seçeneklerden hangisidir",
         "A": "İran",
-        "B": "Osmanlı  imparatorluğu",
+        "B": "Osmanlı imparatorluğu",
         "C": "Çin",
         "D": "Japonya",
         "E": "Kore",
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Japonya"
+        "Aciklama": "Sanayi Devrimi’ni yaşayan Avrupalı olmayan<br/>tek ülkedir.<br>Japonya"
     },
     {
         "SoruID": 3887281,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bulgaristan, Sırbistan<br/>ve Yunanistan"
+        "Aciklama": "İtalyanların Osman Devleti ile savaşa tutuşmasını<br/>fırsat bilen Balkan devletleri Bulgaristan, Sırbistan<br/>ve Yunanistan"
     },
     {
         "SoruID": 3887282,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bosna–Hersek krizi"
+        "Aciklama": "Bosna–Hersek krizi I.<br/>Dünya Savaşı’nın tohumlarını ekmiştir. Avusturya<br/>ve Rusya Balkanlarda ölümüne bir mücadele içine<br/>girmişlerdir. Rusya, Balkanların Slav devletlerini<br/>bir Balkan Ligi içinde birleştirerek Avusturya’ya<br/>karşı bir set oluşturma faaliyeti içine girmiştir ve<br/>1912-1913 Balkan Savaşları bu faaliyetin sonucu<br/>ortaya çıkmıştır. 28 Haziran 1914’te Saraybosna’da<br/>gerçekleşen suikast I. Dünya Savaşı’nın patlak vermesine<br/>bahane oldu (Armaoğlu, 1997"
     },
     {
         "SoruID": 3887283,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Emperyalist politikalar izleyen büyük devletler arasında, Türklerin Anadolu’dan atılma meselesinin yaygınlaşması” 17. Yüzyılda Osmanlı Devleti’nde, ıslahat raporlarının kaleme alınmasının nedenlerinden biri <u>değildir. </u>“Türklerin Anadolu’dan atılması” (Şark Meselesi/Doğu Sorunu), başta İngiltere, Fransa ve Rusya gibi büyük güçlerin, 1774 Küçük Kaynarca Antlaşması sonrasında Osmanlı Devleti’ni Hasta Adam ilan edip İmparatorluğu parçalamaya ve paylaşmaya yönelik planıdır. Doğu sorunun özünde Türklerin Anadolu’dan atılması ve İmparatorluk topraklarının her ülkenin kendi menfaatlerine en uygun şekilde parçalanması ve paylaşılması yatar."
+        "Aciklama": "ISLAHATTAN YENİLEŞMEYE: BİR İMPARATORLUĞUN DÖNÜŞÜMÜ<br>“Emperyalist politikalar izleyen büyük devletler arasında, Türklerin Anadolu’dan atılma meselesinin yaygınlaşması” 17. Yüzyılda Osmanlı Devleti’nde, ıslahat raporlarının kaleme alınmasının nedenlerinden biri <u>değildir. </u>“Türklerin Anadolu’dan atılması” (Şark Meselesi/Doğu Sorunu), başta İngiltere, Fransa ve Rusya gibi büyük güçlerin, 1774 Küçük Kaynarca Antlaşması sonrasında Osmanlı Devleti’ni Hasta Adam ilan edip İmparatorluğu parçalamaya ve paylaşmaya yönelik planıdır. Doğu sorunun özünde Türklerin Anadolu’dan atılması ve İmparatorluk topraklarının her ülkenin kendi menfaatlerine en uygun şekilde parçalanması ve paylaşılması yatar."
     },
     {
         "SoruID": 3887284,
@@ -421,7 +421,7 @@
     },
     {
         "SoruID": 3887286,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Topçu Ocağında yeni topların dökülmesi, Mühendishane-i Bahr-i Hümayun ile Mühendishane-i Berr-i Hümayun’un öncüsü olan Hendesehane ve Yalova’da kâğıt imalathanesinin açılması gibi yenilikler hangi Osmanlı padişahı döneminde gerçekleştirilmiştir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Topçu Ocağında yeni topların dökülmesi, Mühendishane-i Bahr-i Hümayun ile Mühendishane-i Berr-i Hümayun’un öncüsü olan Hendesehane ve Yalova’da kâğıt imalathanesinin açılması gibi yenilikler hangi Osmanlı padişahı döneminde gerçekleştirilmiştir?",
         "A": "Üçüncü Selim",
         "B": "Genç Osman",
         "C": "Birinci Mahmut",
@@ -481,8 +481,8 @@
     },
     {
         "SoruID": 3887289,
-        "SoruMetni": "Aşağıdakilerden hangisi Osmanlı yöneticilerinin devleti ve toplumu ıslah etme ihtiyacının sebeplerinden <u>biri değildir?</u>",
-        "A": "16. yüzyıldan itibaren temel ticaret rotalarındaki değişiklik nedeni ile yaşanan ekonomik krizin sosyo-ekonomik yapıya olumsuz etkileri",
+        "SoruMetni": "Aşağıdakilerden hangisi Osmanlı yöneticilerinin devleti ve toplumu ıslah etme ihtiyacının sebeplerinden <u>biri değildir?</u>",
+        "A": "16. yüzyıldan itibaren temel ticaret rotalarındaki değişiklik nedeni ile yaşanan ekonomik krizin sosyo-ekonomik yapıya olumsuz etkileri",
         "B": "Çocuk yaşta kişilerin padişah olmasının merkezî yönetimi zaafa düşürmesi",
         "C": "Askerlikle ilgisi olmayan kişilerin ocağa alınması ile birlikte Yeniçeri Ocağı'nın bozulması",
         "D": "Medreselerden mezun olan öğrencilerin iş bulamayınca yol kesmeye ve soyguna başlaması",
@@ -501,7 +501,7 @@
     },
     {
         "SoruID": 3887290,
-        "SoruMetni": "'İmparatorluğu askerî bir imparatorluktan bürokratik bir devlete dönüştürmeye çalışan, Tanzimat’tan sonraki dönemde genellikle basım yayım yoluyla şekillenmiş insanlar ve dönem' olarak nitelendirilen kâtip sınıfı aşağıdakilerden hangisidir?",
+        "SoruMetni": "'İmparatorluğu askerî bir imparatorluktan bürokratik bir devlete dönüştürmeye çalışan, Tanzimat’tan sonraki dönemde genellikle basım yayım yoluyla şekillenmiş insanlar ve dönem' olarak nitelendirilen kâtip sınıfı aşağıdakilerden hangisidir?",
         "A": "Çelebiler Çağı",
         "B": "Sefirler ve Reîsülküttâplar Çağı",
         "C": "Kahramanlar Çağı",
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İmparatorluğu askerî bir imparatorluktan bürokratik bir devlete dönüştürmek isteyen <br/>kâtip sınıfını dört kuşak ve çağ üzerinden okumak mümkündür:<br/> <ul> <li>Çelebiler Çağı,</li> <li>Sefirler ve Reîsülküttâplar Çağı</li> <li>Münevverler (Aydınlar) Çağı,</li> <li>Kahramanlar Çağı</li> </ul> <strong>Kahramanlar Çağı:</strong> Tanzimat’tan sonraki dönemde ve genellikle basım yayım yoluyla şekillenmiş veya şekillendirilmiş insanları ve dönemi nitelendirmek için kullanılmıştır."
+        "Aciklama": "İmparatorluğu askerî bir imparatorluktan bürokratik bir devlete dönüştürmek isteyen <br/>kâtip sınıfını dört kuşak ve çağ üzerinden okumak mümkündür:<br/><ul> <li>Çelebiler Çağı,</li> <li>Sefirler ve Reîsülküttâplar Çağı</li> <li>Münevverler (Aydınlar) Çağı,</li> <li>Kahramanlar Çağı</li> </ul> <strong>Kahramanlar Çağı:</strong> Tanzimat’tan sonraki dönemde ve genellikle basım yayım yoluyla şekillenmiş veya şekillendirilmiş insanları ve dönemi nitelendirmek için kullanılmıştır."
     },
     {
         "SoruID": 3887291,
@@ -557,11 +557,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "III. Selim'in sarayda öldürülmüş olarak bulunmasından sonra yerine Osmanlı tahtına <strong>II. Mahmut (28 Temmuz 1808) padişah oldu. </strong><br/> Yeniçeri isyanları, merkezî idareyi zaafa uğratan zorba idareciler ve âyanların merkezî idareye boyun eğmesi, Sırp ve Yunan milliyetçi ayaklanmaları, İran ve Rus savaşları ve özellikle Mısır Valisi Mehmet Ali Paşa’nın isyanı <strong>II. Mahmut devrini tamamen işgal eden önemli gelişmeler arasındadır.</strong>"
+        "Aciklama": "III. Selim'in sarayda öldürülmüş olarak bulunmasından sonra yerine Osmanlı tahtına <strong>II. Mahmut (28 Temmuz 1808) padişah oldu. </strong><br/>Yeniçeri isyanları, merkezî idareyi zaafa uğratan zorba idareciler ve âyanların merkezî idareye boyun eğmesi, Sırp ve Yunan milliyetçi ayaklanmaları, İran ve Rus savaşları ve özellikle Mısır Valisi Mehmet Ali Paşa’nın isyanı <strong>II. Mahmut devrini tamamen işgal eden önemli gelişmeler arasındadır.</strong>"
     },
     {
         "SoruID": 3887293,
-        "SoruMetni": "Tanzimat’ın ilanı hangi Osmanlı padişahı tarafından gerçekleştirilmiştir?",
+        "SoruMetni": "Tanzimat’ın ilanı hangi Osmanlı padişahı tarafından gerçekleştirilmiştir?",
         "A": "III. Selim",
         "B": "II. Mahmut",
         "C": "I. Abdülhamit",
@@ -601,7 +601,7 @@
     },
     {
         "SoruID": 3887295,
-        "SoruMetni": "..........., Berlin Antlaşması’nda (1878), Ermeni sorununu uluslararası bir sorun olarak gündeme getirdi ve Ermeni isyanlarını destekleyen ülkelerin başında yer aldı.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "..........., Berlin Antlaşması’nda (1878), Ermeni sorununu uluslararası bir sorun olarak gündeme getirdi ve Ermeni isyanlarını destekleyen ülkelerin başında yer aldı.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "İngiltere",
         "B": "Rusya",
         "C": "Fransa",
@@ -621,7 +621,7 @@
     },
     {
         "SoruID": 3887296,
-        "SoruMetni": "Osmanlı İmparatorluğu'nun daha sonra katılacağı Üçlü İttifak hangi devletler arasında imzalanmıştır?",
+        "SoruMetni": "Osmanlı İmparatorluğu'nun daha sonra katılacağı Üçlü İttifak hangi devletler arasında imzalanmıştır?",
         "A": "Almanya, Avusturya ve Rusya",
         "B": "Almanya, İtalya ve Avusturya-Macaristan",
         "C": "Avusturya, İngiltere ve Rusya",
@@ -637,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Osmanlı İmparatorluğu'nun daha sonra katılacağı Üçlü İttifak; Almanya, İtalya ve Avusturya-Macaristan arasında imzalanmıştır. Üçlü İttifak İtalya’nın teşebbüsü ile gerçekleşmiştir."
+        "Aciklama": "Osmanlı İmparatorluğu'nun daha sonra katılacağı Üçlü İttifak; Almanya, İtalya ve Avusturya-Macaristan arasında imzalanmıştır. Üçlü İttifak İtalya’nın teşebbüsü ile gerçekleşmiştir."
     },
     {
         "SoruID": 3887297,
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kalemiye mensupları, 17. yüzyıldan itibaren İmparatorluğun içinde bulunduğu krizi aşma noktasında yaptıkları düşünce üretiminde, kendi sınıflarını merkeze alarak İmparatorluğu dönüştürmeyi hedeflemişlerdir. İmparatorluğu askerî bir imparatorluktan bürokratik bir devlete dönüştürmek isteyen kâtip sınıfını dört kuşak ve çağ üzerinden okumak mümkündür. Bunlar; Çelebiler Çağı, Sefirler ve Reîsülküttâplar Çağı, Münevverler (Aydınlar) Çağı, Kahramanlar Çağı’dır. Sadık Rıfat Paşa “Sefirler ve Reîsülküttâplar Çağı”ndandır. İbrahim Müteferrika Çelebiler Çağı, Hayrullah Efendi Münevverler (Aydınlar) Çağı, Kazım Karabekir ve Ali Fethi Okyar ise Kahramanlar Çağı’ndandır."
+        "Aciklama": "ISLAHATTAN YENİLEŞMEYE: BİR İMPARATORLUĞUN DÖNÜŞÜMÜ<br>Kalemiye mensupları, 17. yüzyıldan itibaren İmparatorluğun içinde bulunduğu krizi aşma noktasında yaptıkları düşünce üretiminde, kendi sınıflarını merkeze alarak İmparatorluğu dönüştürmeyi hedeflemişlerdir. İmparatorluğu askerî bir imparatorluktan bürokratik bir devlete dönüştürmek isteyen kâtip sınıfını dört kuşak ve çağ üzerinden okumak mümkündür. Bunlar; Çelebiler Çağı, Sefirler ve Reîsülküttâplar Çağı, Münevverler (Aydınlar) Çağı, Kahramanlar Çağı’dır. Sadık Rıfat Paşa “Sefirler ve Reîsülküttâplar Çağı”ndandır. İbrahim Müteferrika Çelebiler Çağı, Hayrullah Efendi Münevverler (Aydınlar) Çağı, Kazım Karabekir ve Ali Fethi Okyar ise Kahramanlar Çağı’ndandır."
     },
     {
         "SoruID": 3887298,
@@ -681,7 +681,7 @@
     },
     {
         "SoruID": 3887299,
-        "SoruMetni": "--------------17. yüzyılda “Kavânîn-i Âl-i Osman der Mezâlim-i Defter-i Divan” adını taşıyan bir kitap yazmış; tımar ve zeametin dağılmasının yolsuzluklara yol açtığını, bu alanda düzeltme yapılması gerektiğini savunmuştur.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "--------------17. yüzyılda “Kavânîn-i Âl-i Osman der Mezâlim-i Defter-i Divan” adını taşıyan bir kitap yazmış; tımar ve zeametin dağılmasının yolsuzluklara yol açtığını, bu alanda düzeltme yapılması gerektiğini savunmuştur.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "Koçi Bey",
         "B": "Kâtip Çelebi",
         "C": "Ayni Áli Efendi",
@@ -697,11 +697,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yukarıdaki cümlede boş bırakılan yeri C seçeneği doğru olarak tamamlar. 17. yüzyılda devletin çöküşünü, yönetici kadronun çürümüşlüğünü ve yetersizliğini, yasaların işlemez olduğunu görenlerin sayısı çoğalmıştır. Bu yüzyılda Ayni Áli Efendi, Kavânîn-i Âl-i Osman der Mezâlim-i Defter-i Divan adını taşıyan bir kitap yazmış; tımar ve zeametin dağılmasının yolsuzluklara yol açtığını, bu alanda düzeltme yapılması gerektiğini savunmuştur."
+        "Aciklama": "ISLAHATTAN YENİLEŞMEYE: BİR İMPARATORLUĞUN DÖNÜŞÜMÜ<br>Yukarıdaki cümlede boş bırakılan yeri C seçeneği doğru olarak tamamlar. 17. yüzyılda devletin çöküşünü, yönetici kadronun çürümüşlüğünü ve yetersizliğini, yasaların işlemez olduğunu görenlerin sayısı çoğalmıştır. Bu yüzyılda Ayni Áli Efendi, Kavânîn-i Âl-i Osman der Mezâlim-i Defter-i Divan adını taşıyan bir kitap yazmış; tımar ve zeametin dağılmasının yolsuzluklara yol açtığını, bu alanda düzeltme yapılması gerektiğini savunmuştur."
     },
     {
         "SoruID": 3887300,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Yunan ve Sırp isyanlarıyla birlikte milliyetçi bir tutum sergileyen gayrimüslimlerin imparatorluktan ayrılmasını önlemek amacıyla ortaya atılan ve daha sonra sık sık vurgu yapılan bir Osmanlı milleti teşkil etmeyi hedefleyen önemli projenin ilk adımı olarak gösterilebilen Gülhane Hatt-ı Hümayunu hangi padişah döneminde kabul edilmiştir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Yunan ve Sırp isyanlarıyla birlikte milliyetçi bir tutum sergileyen gayrimüslimlerin imparatorluktan ayrılmasını önlemek amacıyla ortaya atılan ve daha sonra sık sık vurgu yapılan bir Osmanlı milleti teşkil etmeyi hedefleyen önemli projenin ilk adımı olarak gösterilebilen Gülhane Hatt-ı Hümayunu hangi padişah döneminde kabul edilmiştir?",
         "A": "Sultan Abdülmecid",
         "B": "Sultan Abdülhamid",
         "C": "Sultan Mahmud",
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Hendesehane’nin açılması” Baron de Tott’un gözetiminde gerçekleşen askerî alanda yenileşme çabalarından biri değildir. Hendesehane, I. Mahmut Dönemi’nde açılmıştır. III. Mustafa Dönemi’nde (1757-1774) askerî alanda yenileşme çabalarının öncü ismi olarak Baron de Tott dikkati çeker. İstanbul ve Çanakkale Boğazlarındaki kale ve savunma sistemlerinin güçlendirilmesi, Topçu Ocağıyla Tophane’nin düzenlenmesi, Hasköy’de bir top dökümhanesinin yapılarak yeni topların dökülüp top arabalarının ıslah edilmesi, Topçu Okulunun açılması, Sürat Topçular Ocağının kurulması Baron de Tott’un gözetiminde gerçekleşmiştir."
+        "Aciklama": "ISLAHATTAN YENİLEŞMEYE: BİR İMPARATORLUĞUN DÖNÜŞÜMÜ<br>“Hendesehane’nin açılması” Baron de Tott’un gözetiminde gerçekleşen askerî alanda yenileşme çabalarından biri değildir. Hendesehane, I. Mahmut Dönemi’nde açılmıştır. III. Mustafa Dönemi’nde (1757-1774) askerî alanda yenileşme çabalarının öncü ismi olarak Baron de Tott dikkati çeker. İstanbul ve Çanakkale Boğazlarındaki kale ve savunma sistemlerinin güçlendirilmesi, Topçu Ocağıyla Tophane’nin düzenlenmesi, Hasköy’de bir top dökümhanesinin yapılarak yeni topların dökülüp top arabalarının ıslah edilmesi, Topçu Okulunun açılması, Sürat Topçular Ocağının kurulması Baron de Tott’un gözetiminde gerçekleşmiştir."
     },
     {
         "SoruID": 3887303,
@@ -817,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1882’de Almanya, İtalya ve Avusturya-Macaristan arasında imzalanan Üçlü İttifak antlaşması, İtalya’nın teşebbüsü ile gerçekleşmiştir. Fransa’nın Cezayir’den sonra ani bir hamle ile Osmanlı himayesinde olan Tunus’u da işgal etmesi Kuzey Afrika’da sömürge arayışı içinde olan İtalya’yı rahatsız etmiştir. Bir yandan Fransa korkusu diğer yandan da sömürgecilik yapabilmesi için sırtını Almanya gibi büyük bir devlete dayama zorunluluğu, İtalya’yı Almanya ile ittifak istemeye yöneltmiştir."
+        "Aciklama": "DOĞU SORUNU<br>1882’de Almanya, İtalya ve Avusturya-Macaristan arasında imzalanan Üçlü İttifak antlaşması, İtalya’nın teşebbüsü ile gerçekleşmiştir. Fransa’nın Cezayir’den sonra ani bir hamle ile Osmanlı himayesinde olan Tunus’u da işgal etmesi Kuzey Afrika’da sömürge arayışı içinde olan İtalya’yı rahatsız etmiştir. Bir yandan Fransa korkusu diğer yandan da sömürgecilik yapabilmesi için sırtını Almanya gibi büyük bir devlete dayama zorunluluğu, İtalya’yı Almanya ile ittifak istemeye yöneltmiştir."
     },
     {
         "SoruID": 3887306,
@@ -837,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Osmanlıcılıkla ilgili ifadelerden D seçeneği yanlıştır. İdeolojiler ve milletler çağında Osmanlı Devleti’nin ilk siyasi ideolojisi olan Osmanlıcılık bir devlet siyaseti tarzında Tanzimat’tan Cumhuriyet’e kadar değişik şekillerde varlığını korumuş, hatta genel<br/>olarak Cumhuriyet’e de intikal etmiştir. Ancak uygulanışı itibarıyla I. Meşrutiyet’e kadar olan dönem, II. Abdülhamit Dönemi, İttihat ve Terakki Dönemi olmak üzere üç dönemde değerlendirilebilir. Osmanlıcılık düşüncesinin ideali, devleti korumak amacıyla artık Müslüman-Türk unsur tarafından savunulan bir fikir iken gayrimüslim unsurlar bu fikri takip etmemişlerdir. Balkan Savaşları sonrasında Osmanlıcılık iflas etmiş bir ideoloji olarak görülmüştür."
+        "Aciklama": "OSMANLI DEVLETİ’Nİ KURTARMAYA YÖNELİK ARAYIŞLAR / FİKİR AKIMLAR<br>Osmanlıcılıkla ilgili ifadelerden D seçeneği yanlıştır. İdeolojiler ve milletler çağında Osmanlı Devleti’nin ilk siyasi ideolojisi olan Osmanlıcılık bir devlet siyaseti tarzında Tanzimat’tan Cumhuriyet’e kadar değişik şekillerde varlığını korumuş, hatta genel<br/>olarak Cumhuriyet’e de intikal etmiştir. Ancak uygulanışı itibarıyla I. Meşrutiyet’e kadar olan dönem, II. Abdülhamit Dönemi, İttihat ve Terakki Dönemi olmak üzere üç dönemde değerlendirilebilir. Osmanlıcılık düşüncesinin ideali, devleti korumak amacıyla artık Müslüman-Türk unsur tarafından savunulan bir fikir iken gayrimüslim unsurlar bu fikri takip etmemişlerdir. Balkan Savaşları sonrasında Osmanlıcılık iflas etmiş bir ideoloji olarak görülmüştür."
     },
     {
         "SoruID": 3887307,
@@ -857,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçülüğün sosyolojik bir çerçeveye oturtulmasında öncü rol oynayan kişi Ziya Gökalp’tir. Ahmet Ağaoğlu, Yusuf Akçura ve Hüseyinzâde Ali beyler, Osmanlı Devleti dışında yaşayan Türkleri de kapsayan bir Türk dünyası ve Türklük fikrinin kavramsallaştırılmasında, Ömer Seyfettin ve Mehmet Emin beyler de sadeleştirilmiş dil ve Türkçü edebiyat tezlerinin oluşturulmasında öncü roller oynamıştır."
+        "Aciklama": "OSMANLI DEVLETİ’Nİ KURTARMAYA YÖNELİK ARAYIŞLAR / FİKİR AKIMLAR<br>Türkçülüğün sosyolojik bir çerçeveye oturtulmasında öncü rol oynayan kişi Ziya Gökalp’tir. Ahmet Ağaoğlu, Yusuf Akçura ve Hüseyinzâde Ali beyler, Osmanlı Devleti dışında yaşayan Türkleri de kapsayan bir Türk dünyası ve Türklük fikrinin kavramsallaştırılmasında, Ömer Seyfettin ve Mehmet Emin beyler de sadeleştirilmiş dil ve Türkçü edebiyat tezlerinin oluşturulmasında öncü roller oynamıştır."
     },
     {
         "SoruID": 3887308,
@@ -877,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Batıcılık fikrini savunan yazar, Kılıçzade Hakkı’dır. “Pek Uyanık Bir Uyku” başlıklı ütopik yazısı Batıcı aydınların fikirlerinin özeti gibidir. Fesin kaldırılmasından, tekke ve zaviyelerin kapanmasına, Avrupa medeni kanunun kabulü, alfabenin kaldırılıp Latin alfabesinin kabulüne kadar 21 maddelik yapılması gerekenler planını okuyucu ile paylaşmıştır."
+        "Aciklama": "OSMANLI DEVLETİ’Nİ KURTARMAYA YÖNELİK ARAYIŞLAR / FİKİR AKIMLAR<br>Batıcılık fikrini savunan yazar, Kılıçzade Hakkı’dır. “Pek Uyanık Bir Uyku” başlıklı ütopik yazısı Batıcı aydınların fikirlerinin özeti gibidir. Fesin kaldırılmasından, tekke ve zaviyelerin kapanmasına, Avrupa medeni kanunun kabulü, alfabenin kaldırılıp Latin alfabesinin kabulüne kadar 21 maddelik yapılması gerekenler planını okuyucu ile paylaşmıştır."
     },
     {
         "SoruID": 3887309,
@@ -897,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ağaoğlu Ahmet, Hüseyinzâde Ali (Turan), Gaspıralı İsmâil gibi Osmanlı Terakkî ve İttihat Cemiyetiyle ilişkiyi sürdüren liderlerin Hayat, İrşad, Füyûzât, Tercümân-ı Ahvâl-i Zaman gibi dergilerde ileri sürdükleri fikirler, Türkçülüğün Jön Türklüğün temel örgütlenmesi tarafından içselleştirilmesinde önemli rol oynamıştır.  Volkan ise İslamcılıkla ilgili bir dergidir. II. Meşrutiyet’ten sonraki basın ve fikir hürriyeti atmosferinde İslamcı aydınlar, düşüncelerini yoğun ve sistemli bir şekilde Sırât-ı Müstakîm (Sebîlürreşâd), Beyânülhak, Livâü’l-İslâm, Hikmet, İttihâd-ı İslâm, Tasavvuf, İslâm Mecmuası, Volkan gibi gazete ve dergilerde tartışmaya başlamışlardır."
+        "Aciklama": "OSMANLI DEVLETİ’Nİ KURTARMAYA YÖNELİK ARAYIŞLAR / FİKİR AKIMLAR<br>Ağaoğlu Ahmet, Hüseyinzâde Ali (Turan), Gaspıralı İsmâil gibi Osmanlı Terakkî ve İttihat Cemiyetiyle ilişkiyi sürdüren liderlerin Hayat, İrşad, Füyûzât, Tercümân-ı Ahvâl-i Zaman gibi dergilerde ileri sürdükleri fikirler, Türkçülüğün Jön Türklüğün temel örgütlenmesi tarafından içselleştirilmesinde önemli rol oynamıştır. Volkan ise İslamcılıkla ilgili bir dergidir. II. Meşrutiyet’ten sonraki basın ve fikir hürriyeti atmosferinde İslamcı aydınlar, düşüncelerini yoğun ve sistemli bir şekilde Sırât-ı Müstakîm (Sebîlürreşâd), Beyânülhak, Livâü’l-İslâm, Hikmet, İttihâd-ı İslâm, Tasavvuf, İslâm Mecmuası, Volkan gibi gazete ve dergilerde tartışmaya başlamışlardır."
     },
     {
         "SoruID": 3887310,
@@ -981,7 +981,7 @@
     },
     {
         "SoruID": 3887314,
-        "SoruMetni": "III. Selim döneminde yapılan askerî reformların ve yeniliklerin ortak adı aşağıdakilerden hangisidir?",
+        "SoruMetni": "III. Selim döneminde yapılan askerî reformların ve yeniliklerin ortak adı aşağıdakilerden hangisidir?",
         "A": "Nizamı Cihan",
         "B": "Nizamı Hüsrev",
         "C": "Nizamı Peşrev",
@@ -1001,7 +1001,7 @@
     },
     {
         "SoruID": 3887315,
-        "SoruMetni": "Türk eğitim tarihinde modern anlamda ilk defa kurulan  mektebi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Türk eğitim tarihinde modern anlamda ilk defa kurulan mektebi aşağıdakilerden hangisidir?",
         "A": "Mühendishane-i Bahri Hümayun",
         "B": "Mühendishane-i Bahriye",
         "C": "Mühendishane-i Bahri Mekteb",

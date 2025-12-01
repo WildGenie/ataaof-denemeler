@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 108074,
-        "SoruMetni": ".........................., genelde çerçeveden hafif taşacak şekilde arka planı ortadan kaldıran bir yapıya sahiptir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": ".........................., genelde çerçeveden hafif taşacak şekilde arka planı ortadan kaldıran bir yapıya sahiptir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Detay çekim",
         "B": "Genel çekim",
         "C": "Omuz çekim",
@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 108133,
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 108146,
@@ -54,7 +56,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 108155,
@@ -73,7 +76,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 111245,
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 127913,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 127932,
@@ -130,11 +136,12 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 166582,
-        "SoruMetni": "<strong>Altın oranda ekran hayalî olarak kaç eşit parçaya bölünmektedir?</strong>",
+        "SoruMetni": "<strong>Altın oranda ekran hayalî olarak kaç eşit parçaya bölünmektedir?</strong>",
         "A": "2",
         "B": "4",
         "C": "6",
@@ -149,7 +156,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 166583,
@@ -168,7 +176,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 166584,
@@ -187,7 +196,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 166586,
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 166588,
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 166594,
@@ -244,7 +256,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 166596,
@@ -263,7 +276,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 166600,
@@ -282,11 +296,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 176003,
-        "SoruMetni": ".................. kullanmanın dramatik etkisiyle sahnelerde kişi çaresiz, zavallı, aşağılanmış, sıkıntılı bir durumda yansıtılabilir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": ".................. kullanmanın dramatik etkisiyle sahnelerde kişi çaresiz, zavallı, aşağılanmış, sıkıntılı bir durumda yansıtılabilir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Alt açı",
         "B": "Üst açı",
         "C": "Görüş açısı",
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 176005,
@@ -320,11 +336,12 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 176006,
-        "SoruMetni": ".................... çizgiler durağanlık etkisi uyandırır, .................... çizgiler sükunet ve huzuru niteler.<br/> <br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": ".................... çizgiler durağanlık etkisi uyandırır, .................... çizgiler sükunet ve huzuru niteler.<br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Düz - uzun yatay",
         "B": "Kısa - dik",
         "C": "Sert - kavisli",
@@ -339,7 +356,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 176008,
@@ -358,7 +376,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 176011,
@@ -377,7 +396,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 176012,
@@ -396,7 +416,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 176015,
@@ -415,7 +436,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 176016,
@@ -434,11 +456,12 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 294776,
-        "SoruMetni": "Genellikle reklamcılar çekecekleri reklam filmleri için ...................... (resimli taslak) çalışmaları yaparak reklam filminin her karesini tasarlamaktadırlar.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br> <br/></br>",
+        "SoruMetni": "Genellikle reklamcılar çekecekleri reklam filmleri için ...................... (resimli taslak) çalışmaları yaparak reklam filminin her karesini tasarlamaktadırlar.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
         "A": "flashback",
         "B": "storyboard",
         "C": "flycam",
@@ -453,7 +476,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 294781,
@@ -472,7 +496,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 294792,
@@ -491,11 +516,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 327839,
-        "SoruMetni": "........... görüntüde yer alması istenen kişi ya da nesnelerin belli kurallar doğrultusunda düzenlenmesidir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "........... görüntüde yer alması istenen kişi ya da nesnelerin belli kurallar doğrultusunda düzenlenmesidir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Dengeleme",
         "B": "Konumlandırma",
         "C": "Çerçeveleme",
@@ -510,7 +536,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 327874,
@@ -529,11 +556,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 327881,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi nesnel kamera açısının özelliklerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi nesnel kamera açısının özelliklerinden biri <u>değildir</u>?</strong>",
         "A": "Bu bakış açısı sayesinde seyirci olaya dışarıdan katılıyormuş izlenimi yaratılmaktadır.",
         "B": "Seyirci, sahneyi âdeta kulak misafiri oluyormuş gibi görünmeyen bir gözlemcinin gözünden izler.",
         "C": "Seyirci bu bakış açısından sahnede verilen olayı tarafsız bir bakışla izler.",
@@ -548,11 +576,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 327888,
-        "SoruMetni": "I.   Kamera yukarı doğru eğimlidir.<br/> <br/>II.  Kamera çekimi yapılacak nesneden aşağıdadır.<br> <br/>III. Dramatik olarak yarattığı etki; saygınlık, yücelik ve güç kazandırıcıdır.<br> <br/>IV. Bu açıyla çekilen kişiler daha heybetli bir görüntü kazanırlar.<br> <br/><strong>Özellikleri verilen kamera açısı aşağıdakilerden hangisidir?</strong> </br></br></br>",
+        "SoruMetni": "I. Kamera yukarı doğru eğimlidir.<br/>II. Kamera çekimi yapılacak nesneden aşağıdadır.<br/>III. Dramatik olarak yarattığı etki; saygınlık, yücelik ve güç kazandırıcıdır.<br/>IV. Bu açıyla çekilen kişiler daha heybetli bir görüntü kazanırlar.<br/><strong>Özellikleri verilen kamera açısı aşağıdakilerden hangisidir?</strong> </br></br></br>",
         "A": "Üst açı",
         "B": "Öznel açı",
         "C": "Eğik açı",
@@ -567,11 +596,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 363762,
-        "SoruMetni": "<strong>Psikolojik dengenin yitirilmesini sergilemek ya da sarhoşluk anlatımlarında kullanılan kamera açısı aşağıdakilerden hangisidir? </strong>",
+        "SoruMetni": "<strong>Psikolojik dengenin yitirilmesini sergilemek ya da sarhoşluk anlatımlarında kullanılan kamera açısı aşağıdakilerden hangisidir? </strong>",
         "A": "Alt açı",
         "B": "Göz hizası açısı",
         "C": "Eğik açı",
@@ -586,11 +616,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 366840,
-        "SoruMetni": "<strong>Sert gölgeleri yumuşatmak, gölgelerde detayı oluşturmak amacıyla kullanılan ışık kaynağı aşağıdakilerden hangisidir? </strong>",
+        "SoruMetni": "<strong>Sert gölgeleri yumuşatmak, gölgelerde detayı oluşturmak amacıyla kullanılan ışık kaynağı aşağıdakilerden hangisidir? </strong>",
         "A": "Anahtar ışık",
         "B": "Dolgu ışık",
         "C": "Arka ışık",
@@ -605,11 +636,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 393863,
-        "SoruMetni": "<strong>Bir pırlanta firmasının reklam filminde yüzük ve pırlantanın yakın çekimle verilmesi örneğinde olduğu gibi ürünün izleyici için daha dikkat çekici hâle getirildiği, ürünü ön plana çıkaran çekim ölçeği aşağıdakilerden hangisidir? </strong>",
+        "SoruMetni": "<strong>Bir pırlanta firmasının reklam filminde yüzük ve pırlantanın yakın çekimle verilmesi örneğinde olduğu gibi ürünün izleyici için daha dikkat çekici hâle getirildiği, ürünü ön plana çıkaran çekim ölçeği aşağıdakilerden hangisidir? </strong>",
         "A": "Baş çekim",
         "B": "Ayrıntı çekim",
         "C": "Omuz çekim",
@@ -624,6 +656,7 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     }
 ]

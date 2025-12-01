@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Endüstri Devrimi"
+        "Aciklama": "Teknolojinin gelişimini, sanayileşmeyi arttıran dönemsel faktörün adı Endüstri Devrimidir, sorunun yanıtı C şıkkıdır."
     },
     {
         "SoruID": 3764226,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Önleme, Azaltma, Tekrar Kullanım"
+        "Aciklama": "Katı atık hiyerarşisinde ilk tercih edilmesi gereken adımlar Önleme, Azaltma, Tekrar Kullanım dır, sorunun yanıtı D şıkkıdır."
     },
     {
         "SoruID": 3764227,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2019"
+        "Aciklama": "Geri dönüşüm kavramı 2019 yılında Resmi Gazetede tanımlanmıştır, sorunun yanıtı E şıkkıdır."
     },
     {
         "SoruID": 3764228,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1.Sırada"
+        "Aciklama": "Önleme (prevention):Adımı geri dönüşümün adımları arasında 1. sırasında yer alır, sorunun yanıtı D şıkkıdır.<br>1.Sırada"
     },
     {
         "SoruID": 3764229,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "5.Sırada"
+        "Aciklama": "Bertaraf (disposal) adımı geri dönüşümün adımları arasında 5. sırasında yer alır, sorunun yanıtı A şıkkıdır.<br>5.Sırada"
     },
     {
         "SoruID": 3764230,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sikke"
+        "Aciklama": "Geri dönüşüm yoluyla da basılan antik paralara sikke adı verilir, sorunun yanıtı E şıkkıdır."
     },
     {
         "SoruID": 3764231,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kağıt"
+        "Aciklama": "Tarihte belgelenmiş ilk geri dönüşüm ürünü kağıttır, sorunun yanıtı D şıkkıdır."
     },
     {
         "SoruID": 3764232,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "New York"
+        "Aciklama": "1897 yılında kurulan ilk geri kazanım tesisi New York şehrinde kurulmuştur, sorunun yanıtı B şıkkıdır."
     },
     {
         "SoruID": 3764233,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "5 Haziran"
+        "Aciklama": "Dünya çevre gününün tarihi 5 hazirandır, sorunun yanıtı E şıkkıdır."
     },
     {
         "SoruID": 3764234,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gary Anderson"
+        "Aciklama": "Dönen oklardan oluşan geri dönüşüm sembolünü tasarlayan Gary Anderson'dur, sorunun yanıtı C şıkkıdır."
     },
     {
         "SoruID": 3764286,
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 3764289,
-        "SoruMetni": "I- Tasarım boyutu<br/> II- Espas<br/> III- Font türü<br/> IV- Mürekkep cinsi<br/> Bir grafik tasarım ürününün çevreye etkisini azaltmak için yukarıdaki unsurlardan hangilerine dikkat edilmelidir?",
+        "SoruMetni": "I- Tasarım boyutu<br/>II- Espas<br/>III- Font türü<br/>IV- Mürekkep cinsi<br/>Bir grafik tasarım ürününün çevreye etkisini azaltmak için yukarıdaki unsurlardan hangilerine dikkat edilmelidir?",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve IV",
@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 3764291,
-        "SoruMetni": "I- Ampuller<br/> II- Floresan lambalar<br/> III- Pişirme kapları<br/> IV- Araba camları<br/> Yukarıdaki cam türlerinden hangileri geri dönüşüm işlemine dâhil edilmez ya da ayrı bir geri dönüşüm süreci gerektirir?",
+        "SoruMetni": "I- Ampuller<br/>II- Floresan lambalar<br/>III- Pişirme kapları<br/>IV- Araba camları<br/>Yukarıdaki cam türlerinden hangileri geri dönüşüm işlemine dâhil edilmez ya da ayrı bir geri dönüşüm süreci gerektirir?",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -364,7 +364,7 @@
         "SoruMetni": "İleri dönüşüme ilişkin aşağıdaki ifadelerden hangisi <strong>yanlıştır</strong>?",
         "A": "İleri dönüşüm, işlevini yitirmiş kabul edilen her şeyin daha yüksek kaliteye ve<br/>estetik değerlere dönüştürülerek yeniden kullanılmasıdır.",
         "B": "İleri dönüşüm, ürünlerin atık hâline gelmeden tekrar kullanılmasıyla atık oluşumunu önlemektedir.",
-        "C": "İleri dönüşümde yukarı yönlü dönüşüm yapılmış olur.",
+        "C": "İleri dönüşümde yukarı yönlü dönüşüm yapılmış olur.",
         "D": "Gerek kimyasal gerekse mekanik olarak ileri dönüşüm süreci belli miktarda enerji gerektirmektedir",
         "E": "İleri dönüşüm daha az atık depolama alanı kullanılması açısından fayda sağlamaktadır",
         "DogruCevap": "D",
@@ -381,7 +381,7 @@
     },
     {
         "SoruID": 3764295,
-        "SoruMetni": "I- Beton<br/> II- Röntgen filmi<br/> III- Motor yağı<br/> IV- Bitkisel yağ<br/> Yukarıdakilerden hangileri geri dönüştürülebilir atık cinslerinden biridir?",
+        "SoruMetni": "I- Beton<br/>II- Röntgen filmi<br/>III- Motor yağı<br/>IV- Bitkisel yağ<br/>Yukarıdakilerden hangileri geri dönüştürülebilir atık cinslerinden biridir?",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "III ve IV",

@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 200843,
-        "SoruMetni": "<strong> Sanatı taklit olarak değerlendiren düşünür aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong> Sanatı taklit olarak değerlendiren düşünür aşağıdakilerden hangisidir?</strong>",
         "A": "İbni Haldun",
         "B": "Aristo",
         "C": "Marx",
@@ -9,18 +9,19 @@
         "E": "Durkheim",
         "DogruCevap": "B",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 200844,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi sanatın temel ögelerinden biri <u>değildir</u>?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi sanatın temel ögelerinden biri <u>değildir</u>?</strong>",
         "A": "Sanatçı",
         "B": "Sanat eseri",
         "C": "Sanat alıcısı",
@@ -28,18 +29,19 @@
         "E": "Lider",
         "DogruCevap": "E",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 200848,
-        "SoruMetni": "Sanat ürünü bir kez yaratıldıktan sonra artık onun eşi ve benzeri yoktur.<br/> <br/><strong>Bu cümlede sanat ürününün hangi özelliği vurgulanmıştır?</strong><br> <br/></br>",
+        "SoruMetni": "Sanat ürünü bir kez yaratıldıktan sonra artık onun eşi ve benzeri yoktur.<br/><strong>Bu cümlede sanat ürününün hangi özelliği vurgulanmıştır?</strong><br/></br>",
         "A": "Orijinallik",
         "B": "Evrensellik",
         "C": "Yerellik",
@@ -47,18 +49,19 @@
         "E": "Objektiflik",
         "DogruCevap": "A",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 200852,
-        "SoruMetni": "<strong>Hohle Fels Venüsü hangi döneme ait bir eserdir?</strong><br/>",
+        "SoruMetni": "<strong>Hohle Fels Venüsü hangi döneme ait bir eserdir?</strong>",
         "A": "Paleolitik",
         "B": "Neolitik",
         "C": "Uygarlık",
@@ -66,18 +69,19 @@
         "E": "Modern",
         "DogruCevap": "A",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 200856,
-        "SoruMetni": "<strong>Cilalı Taş Devri olarak da bilinen dönem aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Cilalı Taş Devri olarak da bilinen dönem aşağıdakilerden hangisidir?</strong>",
         "A": "Paleolitik",
         "B": "Neolitik",
         "C": "Feodalizm",
@@ -85,18 +89,19 @@
         "E": "Post kapitalizm",
         "DogruCevap": "B",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 200860,
-        "SoruMetni": "<strong>Çeşitli araç gereçlerin ve silahların yapımında kalay ve bakırın karışımından faydalanarak üretim yapan insanoğlu aşağıdaki dönemlerin hangisinde yaşamıştır?</strong><br/>",
+        "SoruMetni": "<strong>Çeşitli araç gereçlerin ve silahların yapımında kalay ve bakırın karışımından faydalanarak üretim yapan insanoğlu aşağıdaki dönemlerin hangisinde yaşamıştır?</strong>",
         "A": "Demir",
         "B": "Bakır",
         "C": "Tunç",
@@ -104,18 +109,19 @@
         "E": "Kalay",
         "DogruCevap": "C",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 200864,
-        "SoruMetni": "<strong>Derebeylik düzeninde toprakta çalışan köylülere ne ad verilir?</strong><br/>",
+        "SoruMetni": "<strong>Derebeylik düzeninde toprakta çalışan köylülere ne ad verilir?</strong>",
         "A": "Senyör",
         "B": "Lord",
         "C": "Burjuva",
@@ -123,14 +129,15 @@
         "E": "Serf",
         "DogruCevap": "E",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 200867,
@@ -142,18 +149,19 @@
         "E": "Balmumu",
         "DogruCevap": "D",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 200870,
-        "SoruMetni": "<strong>Antik Yunan ve Roma sanatının yeniden doğuşu anlamına gelen dönem aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Antik Yunan ve Roma sanatının yeniden doğuşu anlamına gelen dönem aşağıdakilerden hangisidir?</strong>",
         "A": "Reform",
         "B": "Rönesans",
         "C": "Aydınlanma",
@@ -161,18 +169,19 @@
         "E": "Kapitalizm",
         "DogruCevap": "B",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 200877,
-        "SoruMetni": "<strong>18. yüzyıl sonrası sanatta etkili olan iki akım aşağıdakilerden hangisinde doğru verilmiştir?</strong><br/>",
+        "SoruMetni": "<strong>18. yüzyıl sonrası sanatta etkili olan iki akım aşağıdakilerden hangisinde doğru verilmiştir?</strong>",
         "A": "Milliyetçilik - Klasizm",
         "B": "Klasizm - Romantizm",
         "C": "Romantizm - Gerçekçilik",
@@ -180,18 +189,19 @@
         "E": "Muhafazakârlık - Romantizm",
         "DogruCevap": "C",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 210254,
-        "SoruMetni": "<strong>Sanatı taklit olarak değerlendiren ve bu taklidin düz bir yansıtma olduğunu kabul eden düşünür aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Sanatı taklit olarak değerlendiren ve bu taklidin düz bir yansıtma olduğunu kabul eden düşünür aşağıdakilerden hangisidir?</strong>",
         "A": "Platon",
         "B": "Engels",
         "C": "Childe",
@@ -199,18 +209,19 @@
         "E": "Giddens",
         "DogruCevap": "A",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 210257,
-        "SoruMetni": "<strong>Estetik bilgiye sahip olması beklenen özgün etkinliklerde bulunan kişi aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Estetik bilgiye sahip olması beklenen özgün etkinliklerde bulunan kişi aşağıdakilerden hangisidir?</strong>",
         "A": "Lider",
         "B": "Zanaatkâr",
         "C": "Siyasetçi",
@@ -218,18 +229,19 @@
         "E": "Bilim adamı",
         "DogruCevap": "D",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 241869,
-        "SoruMetni": "<strong>Tarım, hayvancılık ve çanak-çömlek yapımı ile diğer dönemlerden ayrılan çağ aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Tarım, hayvancılık ve çanak-çömlek yapımı ile diğer dönemlerden ayrılan çağ aşağıdakilerden hangisidir?</strong>",
         "A": "Paleolitik",
         "B": "Uygarlık",
         "C": "Modern",
@@ -237,18 +249,19 @@
         "E": "İlkel",
         "DogruCevap": "D",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 241873,
-        "SoruMetni": "<strong>Geç Tunç Çağı’ndan sonra geçişi temsil eden dönem aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Geç Tunç Çağı’ndan sonra geçişi temsil eden dönem aşağıdakilerden hangisidir?</strong>",
         "A": "Bakır Çağı",
         "B": "Demir Çağı",
         "C": "İlkel Çağ",
@@ -256,18 +269,19 @@
         "E": "Post Kapitalist Dönem",
         "DogruCevap": "B",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 241883,
-        "SoruMetni": "<strong>Tanrıça Afrodit heykeli aşağıdakilerden hangisi tarafından yapılmıştır?</strong><br/>",
+        "SoruMetni": "<strong>Tanrıça Afrodit heykeli aşağıdakilerden hangisi tarafından yapılmıştır?</strong>",
         "A": "Michelangelo",
         "B": "Leonardo Da Vinci",
         "C": "Auguste Rodin",
@@ -282,11 +296,12 @@
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 241885,
-        "SoruMetni": "<strong>Rönesans sanatı aşağıdaki ülkelerin hangisinde ortaya çıkmıştır?</strong><br/>",
+        "SoruMetni": "<strong>Rönesans sanatı aşağıdaki ülkelerin hangisinde ortaya çıkmıştır?</strong>",
         "A": "Fransa",
         "B": "Almanya",
         "C": "İngiltere",
@@ -294,18 +309,19 @@
         "E": "Türkiye",
         "DogruCevap": "D",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 241888,
-        "SoruMetni": "<strong>Sanatta romantizme tepki olarak ortaya çıkan akım aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Sanatta romantizme tepki olarak ortaya çıkan akım aşağıdakilerden hangisidir?</strong>",
         "A": "Gerçekçilik",
         "B": "Muhafazakârlık",
         "C": "Ulusalcılık",
@@ -320,7 +336,8 @@
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 294230,
@@ -339,7 +356,8 @@
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 345701,
@@ -351,18 +369,19 @@
         "E": "Dinleyici",
         "DogruCevap": "A",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 345705,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi sanatın işlevlerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi sanatın işlevlerinden biri <u>değildir</u>?</strong>",
         "A": "Yapıcı",
         "B": "Öğüt verici",
         "C": "Eğitici",
@@ -370,14 +389,15 @@
         "E": "Kültürel işlev",
         "DogruCevap": "B",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 345706,
@@ -389,13 +409,14 @@
         "E": "Milattan Önce",
         "DogruCevap": "D",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     }
 ]

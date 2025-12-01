@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 2852631,
-        "SoruMetni": "I. Melid Krallığı - Malatya/Arslantepe,<br/> II. Tabal Krallığı - Karaman/Kayseri<br/> II.Sam’al Krallığı - Gaziantep/Zincirli Höyük <br/> IV. Gurgum Krallığı - Maraş<br/> V. Azatiwataya Krallığı - Osmaniye/Karatepe <br/> Yukarıda verilen Demir Çağı Geç Hitit Krallıkları ve günümü yerleşimlerinin eşleştirmelerinden hangisi/hangileri doğru olarak verilmiştir?",
+        "SoruMetni": "I. Melid Krallığı - Malatya/Arslantepe,<br/>II. Tabal Krallığı - Karaman/Kayseri<br/>II.Sam’al Krallığı - Gaziantep/Zincirli Höyük <br/>IV. Gurgum Krallığı - Maraş<br/>V. Azatiwataya Krallığı - Osmaniye/Karatepe <br/>Yukarıda verilen Demir Çağı Geç Hitit Krallıkları ve günümü yerleşimlerinin eşleştirmelerinden hangisi/hangileri doğru olarak verilmiştir?",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Orta Tunç Çağı"
+        "Aciklama": "Orta Tunç Çağı’nda Anadolu yazıyla tanışmış ve protohistorik dönem başlamıştır."
     },
     {
         "SoruID": 2853844,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bulla"
+        "Aciklama": "Asurlu tüccarlar işlerini bir aile şirketinin esaslarına uygun şekilde yürütüyorlardı. Tüccarın Asur’daki yakını (karısı, kız ya da erkek kardeşi) malların Asur’dan eşeklere yüklenmesi görevini üstleniyordu. Eşeklere yüklenen mallar torbaların içine yerleştiriliyor ve ağızları bağlanıyordu. Kaniş’e varıncaya kadar açılmamalarını garanti altına almak için bağlar bir kil topakla sağlamlaştırılıyor ve kilin üzerine mühür basılıyordu. Bu tür mühür baskılı kil topaklarına bulla denilmektedir."
     },
     {
         "SoruID": 2853847,
@@ -257,12 +257,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hitit Devleti"
+        "Aciklama": "Eski Yakındoğu’da Geç Tunç Çağı’nda Anadolu’da belirleyici siyasi güç Hitit Devleti olmuştur. Hitit Devleti Anadolu’nun ilk merkezi krallığıdır ve Anadolu’da daha önce varlık göstermiş olan yerel krallıkları tek çatı altında toplamış ve sınırlarını Anadolu dışına taşacak kadar genişletmiştir. Devletin tarihi, prensip olarak “Eski Krallık” ve “İmparatorluk” olmak üzere iki ana başlık altında incelenmektedir."
     },
     {
         "SoruID": 2853848,
         "SoruMetni": "MÖ. 20. yüzyılın başlarından 18. yüzyılın sonlarına kadar iki yüz yıl boyunca Asurlu tüccarlar Anadolu’da etkin bir ticaret hayatı sürdürmüşlerdir. Asurlu tüccarların Anadolu’da kurdukları kolonilere Karum denmektedir. Karum’ların merkezi aşağıdakilerden hangisidir?",
-        "A": "Şanlıurfa Göbeklitepe",
+        "A": "Şanlıurfa Göbeklitepe",
         "B": "Konya Çatalhöyük",
         "C": "Aydın Afrodisias",
         "D": "Çanakkale Troya",
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kayseri Kültepe"
+        "Aciklama": "Karum ve wabartum’ların Anadolulu kralların saraylarının hemen yakınında kurulmuş olmaları, krallarla tüccarların arasında bir bağ olduğunu açıkça ortaya koyar. Karum’ların merkezi, eski adı Kaniş olan, bugünkü Kayseri Kültepe’dir. Diğer karum’ların hepsi merkez karum’a bağlıydı ve her türlü meselede son karar mercii Kaniş karum’u idi."
     },
     {
         "SoruID": 2853849,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anitta"
+        "Aciklama": "-tartışmalı da olsa- Anitta, Hititlerin öncü krallarından biri olarak kabul edilir.<br/>Metne göre kendini “Büyük Kral” olarak ta­nımlayan Anitta, Anadolu’da pek çok kenti ele geçirmiş ve ganimetleri Kaniş’in tapınaklarına yığ­mıştır. Dünyanın en eski hayvanat bahçesini kuran da odur. Vahşi hayvanları kraliyetin çatısı altına ge­tirtmiştir. Eski kralların vahşi hayvanları dize getir­me, onları güç sembolü olarak kullanma, tören ve gösterilerde onlarla övünme merakları bilinen bir durumdur."
     },
     {
         "SoruID": 2853850,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Krallıkların birbirlerine karşı durumları ve Anadolu’daki siyasi örgütlenme"
+        "Aciklama": "Krallıkların birbirlerine karşı durumları ve Ana­dolu’daki siyasi örgütlenmenin nasıl olduğu hakkın­da çok değerli bilgiler veren bir mektup Kültepe’de höyükte yani kraliyetin egemenlik sahasında yapılan kazılar sırasında ele geçmiştir. Bu çok değerli belge Kemal Balkan tarafından 1957 yılında “<em>Mama Kra­lı Anumhirbi’nin Kaniş Kralı Warşama’ya Mektubu</em>” adıyla yayımlanmıştır. Mektup, Kaniş Kralı’nın Mama Kralına göndermiş olduğu önceki mektuba cevap niteliğindedir.<br>Krallıkların birbirlerine karşı durumları ve Anadolu’daki siyasi örgütlenme"
     },
     {
         "SoruID": 2853852,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Telipinu"
+        "Aciklama": "Kral I. Murşili’yi Babil'den geri döndüğünde kötü bir sürpriz beklemektedir. O yokken saray entrikaları almış yürümüş ve bir komplo hazırlanmıştır. Saraydaki damat, kralı öldürüp, tahta oturur.Bundan sonra Hitit krallığı bir iç karışıklığın pençesine düşer.Kazandığı toprakları kaybeder ve Kızılırmak yayının içine çekilir.Üste- lik Karadeniz Bölgesi’nde oturan Gaşka halkı başkente uzanan akınla- rıyla devleti yıpratmaya başlar.Üstüne üstlük saraydaki cinayetlerin ardı arkası kesilmez.Tahta oturan her kral bir öncekinin katilidir.<br/>Bu kötü gidişatı durdurmaya çalışan Kral Telipinu (yaklaşık olarak MÖ. 1500’ler) bir ferman yayınlayarak tahta çıkış yasalarını belirler.Telipinu Fermanına göre en büyük erkek çocuk, yoksa en büyük kız çocuğun eşi yani damat kral olacaktır."
     },
     {
         "SoruID": 2853854,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "T/Labarna-Tavananna"
+        "Aciklama": "T/Labarna: Hitit Büyük Kralı<br/>Tavananna: Hitit Büyük Kraliçesi<br>T/Labarna-Tavananna"
     },
     {
         "SoruID": 2853855,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bayram törenleri"
+        "Aciklama": "İmparatorluk Döneminde de bayram törenleri için en güzel örnekler Alacahöyük ortostatları üzerindeki tasvirlerdir. Bu tasvirler[1]de kral ve kraliçe resmi giysileri içinde töreni yönetmekte, kurbanlık hayvanlar tören alanına sevk edilmekte, sihirbazlar gösteri yapmaktadır. Bayram havası kompozisyonun bütününe sinmiştir."
     },
     {
         "SoruID": 2853857,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Demir Çağı"
+        "Aciklama": "Bu dönemde demir işleme teknolojisi gelişmiş ve yaygın olarak kullanılmaya başlanmıştır. Bunun sonucunda MÖ. 1. binyıl “Demir Çağı” olarak da adlandırılmıştır. Geç Hitit Krallıkları, Hititlerin sanat ve mimari geleneklerinin hayatta kalmayı başardığı bir dönemdir. Orta Anadolu’nun güneyinde ve Güneydoğu Anadolu bölgesinde ortaya çıkan Geç Hitit Beyliklerinin bazen Luwi-Arami Beylikleri olarak isimlendirildikleri de literatürde karşımıza çıkabilmektedir."
     },
     {
         "SoruID": 2858230,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Büyük olasılıkla stellerdeki tasvirdeki detaylar sayesinde kralın kim olduğunu biliyorlardı. Bu nedenle E seçeneği doğrudur."
+        "Aciklama": "Sorunun cevabını “Erken Tunç Çağında Akad Krallarının Anadolu Politikası” başlığı altında bulabilirsiniz.<br>Büyük olasılıkla stellerdeki tasvirdeki detaylar sayesinde kralın kim olduğunu biliyorlardı. Bu nedenle E seçeneği doğrudur."
     },
     {
         "SoruID": 2858242,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Sarmut\" yerel krallıkların yanında kurulan en çok bilinen karum ve wabartum dan birisi <u>değildir?</u>"
+        "Aciklama": "Sorunun cevabını \"Orta Tunç Çağı- Asur Ticaret Kolonileri Dönemi\" başlığı altında bulabilirsiniz.<br>\"Sarmut\" yerel krallıkların yanında kurulan en çok bilinen karum ve wabartum dan birisi <u>değildir?</u>"
     },
     {
         "SoruID": 2858250,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Asur Koloni Dönemine Kaniş’e varıncaya kadar açılmamalarını garanti altına almak için kilin üzerine mühür basılıyordu. Bu tür mühür baskılı kil topaklarına \"Bulla\" adı verilir."
+        "Aciklama": "Sorunun cevabını “Orta Tunç Çağı- Asur Ticaret Kolonileri Dönemi” başlığı altında bulabilirsiniz.<br>Asur Koloni Dönemine Kaniş’e varıncaya kadar açılmamalarını garanti altına almak için kilin üzerine mühür basılıyordu. Bu tür mühür baskılı kil topaklarına \"Bulla\" adı verilir."
     },
     {
         "SoruID": 2858256,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tapınılan tanrı/tanrıçaların kutsal hayvanları biçiminde olan ve dini törenlerde kullanılan kapların adı \"Riton\" dur."
+        "Aciklama": "Sorunun cevabını ‘Orta Tunç Çağı- Asur Ticaret Kolonileri Dönemi ‘ başlığı altında bulabilirsiniz.<br>Tapınılan tanrı/tanrıçaların kutsal hayvanları biçiminde olan ve dini törenlerde kullanılan kapların adı \"Riton\" dur."
     },
     {
         "SoruID": 2858264,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hattuşa Hitit devletinin başkentidir."
+        "Aciklama": "Sorunun cevabını ‘Eski Krallık’ başlığı altında bulabilirsiniz.<br>Hattuşa Hitit devletinin başkentidir."
     },
     {
         "SoruID": 2858445,
@@ -717,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1970 yılında tarihteki Hitit-Mısır Antlaşmasının 2 metre boyundaki bakır kopyası, Birleşmiş Milletlerin New York’ daki genel merkez binasının duvarına asılmıştır. Bu antlaşmayı imzalayan dönemin dış işleri bakanı İhsan Sabri Çağlayangil'dir."
+        "Aciklama": "Sorunun cevabını “Erken Tunç Çağında Akad Krallarının Anadolu Politikası” başlığı altında bulabilirsiniz.<br>1970 yılında tarihteki Hitit-Mısır Antlaşmasının 2 metre boyundaki bakır kopyası, Birleşmiş Milletlerin New York’ daki genel merkez binasının duvarına asılmıştır. Bu antlaşmayı imzalayan dönemin dış işleri bakanı İhsan Sabri Çağlayangil'dir."
     },
     {
         "SoruID": 2859920,
@@ -737,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cella tapınağın ana bölümünde genelde tanrı/tanrıça heykellerinin yerleştirildiği en kutsal odanın adıdıri"
+        "Aciklama": "Sorunun cevabını “Erken Tunç Çağında Akad Krallarının Anadolu Politikası” başlığı altında bulabilirsiniz.<br>Cella tapınağın ana bölümünde genelde tanrı/tanrıça heykellerinin yerleştirildiği en kutsal odanın adıdıri"
     },
     {
         "SoruID": 2859924,
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zaman Tanrısı İmparatorluk dönemi’nde hitit kültürüne ait tanrılarından birisi <strong><u>değildir.</u></strong>"
+        "Aciklama": "Sorunun cevabını “Erken Tunç Çağında Akad Krallarının Anadolu Politikası” başlığı altında bulabilirsiniz.<br>Zaman Tanrısı İmparatorluk dönemi’nde hitit kültürüne ait tanrılarından birisi <strong><u>değildir.</u></strong>"
     },
     {
         "SoruID": 2859964,
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hitit Devletini Yakındoğu’nun süper güçlerinden birine dönüştüren, darbeyle Genç Tudhaliya’yı tahttan indiren ve öldüren kral \"Şuppiluliuma\" dır."
+        "Aciklama": "Sorunun cevabını “İmparatorluk Dönemi” başlığı altında bulabilirsiniz.<br>Hitit Devletini Yakındoğu’nun süper güçlerinden birine dönüştüren, darbeyle Genç Tudhaliya’yı tahttan indiren ve öldüren kral \"Şuppiluliuma\" dır."
     },
     {
         "SoruID": 2860078,
@@ -797,6 +797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Koptik\" Geç Hitit Krallıkları Döneminde kullanılan yazılar arasında yer almaz."
+        "Aciklama": "Sorunun cevabını “Giriş” başlığı altında bulabilirsiniz.<br>\"Koptik\" Geç Hitit Krallıkları Döneminde kullanılan yazılar arasında yer almaz."
     }
 ]

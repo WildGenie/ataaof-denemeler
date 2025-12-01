@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazı türü"
+        "Aciklama": "Yazı karakteri terimi alfabenin özgün bir tasarımını tanımlamak için kullanılır. İngilizce “typeface” terimi için Türkçe kaynaklarda yazı karakteri yanında; yazı tipi, yazı biçimi, yazı yüzü, karşılıkları da kullanılmaktadır.<br>Yazı türü"
     },
     {
         "SoruID": 3487949,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İnisiyal"
+        "Aciklama": "İnisiyal (İlk, büyük harf): El yazması ya da basılı sayfalarda; bir kelimenin, bölümün veya paragrafın başında metnin geri kalanından daha büyük olarak yazılan ya da dizilen harftir."
     },
     {
         "SoruID": 3487950,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Serif"
+        "Aciklama": "Serifler, harfi oluşturan ana hatları genellikle dik olarak kesen küçük hatlardır."
     },
     {
         "SoruID": 3487951,
@@ -77,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pangram"
+        "Aciklama": "Pangram, bir dilin alfabesi içindeki tüm harfleri içeren anlamlı cümlelere verilen genel addır."
     },
     {
         "SoruID": 3487952,
-        "SoruMetni": "Aşağıdakilerden hangisi Font (karakter seti)'u oluşturan elemanlardan biri değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Font (karakter seti)'u oluşturan elemanlardan biri değildir?",
         "A": "Majüskül ve miniskül alfabeler",
         "B": "Rakamlar",
         "C": "Noktalama işaretleri",
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Serif"
+        "Aciklama": "Font (karakter seti), majüskül ve miniskül alfabeler, rakamlar, noktalama işaretleri, bütün semboller, bileşik harfler, üst ve alt karakterler, küçük majüsküller ve aksanlı harflerden oluşan bir settir.<br>Serif"
     },
     {
         "SoruID": 3487953,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ağırlık"
+        "Aciklama": "Harflerin yükseklikleriyle bağlantılı hat kalınlıkları “ağırlık” olarak isimlendirilir."
     },
     {
         "SoruID": 3487954,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gotikler"
+        "Aciklama": "Gotikler, el yazısından baskıya uyarlanan ilk yazı karakterleri olduğundan, grafik tasarımda özel bir yere sahiptirler."
     },
     {
         "SoruID": 3487955,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1/7"
+        "Aciklama": "Normal ağırlıkta bir harfin hat kalınlığı yaklaşık olarak harf yüksekliğinin 1/7’si kadardır."
     },
     {
         "SoruID": 3487956,
@@ -177,11 +177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Font"
+        "Aciklama": "“Font” terimi metal dizgi döneminde belirli bir kalınlık ve punto ölçüsündeki yazı karakteri setini tanımlamada kullanılıyordu. Ama bu terim dijital teknoloji çağında herhangi bir yazı karakterini belirten genel bir tanıma dönüşmüştür."
     },
     {
         "SoruID": 3487957,
-        "SoruMetni": "<em>Yazı karakteri tasarlarken eskiz aşamasında tüm harfleri çizmek gerekmez, kurgulanan sistemin birkaç harf üzerinde denenmesiyle devam kararı alınabilir. </em><br/><br/>Buna göre aşağıdakilerden hangisi Yakovleva' nın  “kontrol karakterleri” olarak isimlendirdiği harflerden biri değildir?",
+        "SoruMetni": "<em>Yazı karakteri tasarlarken eskiz aşamasında tüm harfleri çizmek gerekmez, kurgulanan sistemin birkaç harf üzerinde denenmesiyle devam kararı alınabilir. </em><br/>Buna göre aşağıdakilerden hangisi Yakovleva' nın “kontrol karakterleri” olarak isimlendirdiği harflerden biri değildir?",
         "A": "R",
         "B": "H",
         "C": "N",
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "R"
+        "Aciklama": "Kaligrafide, mürekkep tonlamaları yazıyı daha güzel gösterebilir fakat bu güzellikler font versiyonuna aktarılamayacağından, ön çalışmalar yanıltıcı olabilir. Bu aşamada tüm harfleri çizmek gerekmez, kurgulanan sistemin birkaç harf üzerinde denenmesiyle devam kararı alınabilir. Yakovleva (2021) bu birkaç harfi “kontrol karakterleri” olarak isimlendirir ve “H”, “n”, “o” ve “y” olarak sıralar."
     },
     {
         "SoruID": 3487984,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ağırlık"
+        "Aciklama": "Harflerin yükseklikleriyle bağlantılı hat kalınlıkları “ağırlık” olarak isimlendirilir. Ağırlıklar, bir yazı karakteri ailesi içindeki farklı kalınlıklara sahip çeşitlemelerdir. Normal ağırlıkta bir harfin hat kalınlığı yaklaşık olarak harf yüksekliğinin 1/7’si kadardır."
     },
     {
         "SoruID": 3487985,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Göbek"
+        "Aciklama": "Göbek ve İçalan (bowl, counter): Harflerde içalanları kapatan yuvarlak hatlara göbek denir. Göbek, harfin bir ana hattıyla birleşiyorsa kapalı içalan, birleşmiyorsa açık içalan oluşturur."
     },
     {
         "SoruID": 3487986,
@@ -257,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Serif"
+        "Aciklama": "Serif: Serifler, harfi oluşturan ana hatları genellikle dik olarak kesen küçük hatlardır. Farklı ölçü ve şekillerde olabilirler. Serifler şekillerine göre isimlendirilirler. En yaygın olanlar düz serif, kare serif ve destekli (kavisli) seriftir. Bu seriflerin her biri kendi içlerinde de çeşitlilik gösterebilir. Düz bir serife ağırlık eklenmesiyle kare serif elde edilir. Kare serifler de yatay bir dikdörtgen, tam kare, dikey dikdörtgen ve kavislendirilmiş kare serif şeklinde çeşitlilik gösterebilir"
     },
     {
         "SoruID": 3487987,
-        "SoruMetni": "Tasarımcıların yazı karakterlerini sınıflandırıp tanımlamakta kullandığı kullanışlı yollar vardır. Aşağıdakilerden hangisi  bu sınıflandırmalardan biri değildir?",
+        "SoruMetni": "Tasarımcıların yazı karakterlerini sınıflandırıp tanımlamakta kullandığı kullanışlı yollar vardır. Aşağıdakilerden hangisi bu sınıflandırmalardan biri değildir?",
         "A": "Kullanım şekli",
         "B": "Kullanım yeri",
         "C": "Tarihsel süreç",
@@ -277,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Arial"
+        "Aciklama": "Tasarımcıların yazı karakterlerini sınıflandırıp tanımlamakta kullandığı kullanışlı yollar vardır. Bu sınıflandırmalar, kullanım şekli, kullanım yeri, tarihsel süreç, serif şekli, çizim stili, ağırlık, büyüklük, anatomi, boşluklama gibi pek çok farklı kıstas üzerine kuruludur.<br>Arial"
     },
     {
         "SoruID": 3487988,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri  yazı karakterlerinde, seriflerine göre sınıflandırmada alt grup olarak incelenir?<br/> I) Serifsiz olanlar,<br/> II) kavisli serifliler (curved serif, braketed serif)<br/> III) kare serifliler (slab serif, square serif)<br/> IV) düz serifliler (straight serif, flat serif)",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri yazı karakterlerinde, seriflerine göre sınıflandırmada alt grup olarak incelenir?<br/>I) Serifsiz olanlar,<br/>II) kavisli serifliler (curved serif, braketed serif)<br/>III) kare serifliler (slab serif, square serif)<br/>IV) düz serifliler (straight serif, flat serif)",
         "A": "I ve II",
         "B": "II ve III",
         "C": "Hepsi",
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hepsi"
+        "Aciklama": "Seriflerine göre sınıflandırma yaygın olarak kullanılır. Yazı karakterleri, seriflerine göre genellikle dört alt grup olarak incelenir: Serifsiz olanlar, kavisli serifliler (curved serif, braketed serif), kare serifliler (slab serif, square serif) ve düz serifliler (straight serif, flat serif) (Görsel 5.26). Sadece serif yapısına göre yapılan bu sınıflandırma üzerinde birlik sağlanmamıştır. Yazı karakterlerini, serifli olanlar ve olmayanlar olarak iki gruba ayıranlar olduğu gibi, bu dört kategoriyi alt kategorilere ayırıp çok daha detaylı sınıflandırmalar da yapılır. Seriflerine göre sınıflandırma, yazı karakterlerinin tanınması ve tanımlanması açısından yararlıdır ama yeterli değildir. Tanımlama sadece serif yapısı üzerinden olduğu için başta el yazısı benzerleri olmak üzere, pek çok yazı karakteri tasarımını kapsam dışı bırakır.<br>Hepsi"
     },
     {
         "SoruID": 3488029,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gotik el yazısından baskıya adapte edilen ve ilk yazı karakterleri olma unvanına sahip olan yazılardan oluşur.  Bu tür, farklı kaynaklarda “Gothic”, “Text Letter”, “Blackletter”, “Text or Blackletter”,<br/>“Fraktur”, “Broken Letters” ve “Old English” isimlerinden biriyle karşımıza çıkabilir."
+        "Aciklama": "Gotik el yazısından baskıya adapte edilen ve ilk yazı karakterleri olma unvanına sahip olan yazılardan oluşur. Bu tür, farklı kaynaklarda “Gothic”, “Text Letter”, “Blackletter”, “Text or Blackletter”,<br/>“Fraktur”, “Broken Letters” ve “Old English” isimlerinden biriyle karşımıza çıkabilir."
     },
     {
         "SoruID": 3488035,
@@ -441,7 +441,7 @@
     },
     {
         "SoruID": 3488036,
-        "SoruMetni": "Kabaca belirlenen ana ölçüleri, keskinleştirip, defalarca test etme zamanı burasıdır. Yazı karakteri tasarım aşamalarından biri olan bu aşama aşağıdakilerden hangisidir?",
+        "SoruMetni": "Kabaca belirlenen ana ölçüleri, keskinleştirip, defalarca test etme zamanı burasıdır. Yazı karakteri tasarım aşamalarından biri olan bu aşama aşağıdakilerden hangisidir?",
         "A": "Tasarım fikri",
         "B": "Eskiz geliştirme",
         "C": "Eskiz olgunlaştırma",
@@ -501,7 +501,7 @@
     },
     {
         "SoruID": 3488069,
-        "SoruMetni": "\"Bu tür, farklı kaynaklarda Antik yazılar ve Hümanistik yazılar isimleriyle de yer alır. Bazı araştırmacılar bu türün alt grupları olan Klasik, Geçiş Dönemi ve Modern  olmak üzere ayrı türler olarak ele alırlar.\" Cümlesinde hangi yazı karakterinden bahsedilmektedir?",
+        "SoruMetni": "\"Bu tür, farklı kaynaklarda Antik yazılar ve Hümanistik yazılar isimleriyle de yer alır. Bazı araştırmacılar bu türün alt grupları olan Klasik, Geçiş Dönemi ve Modern olmak üzere ayrı türler olarak ele alırlar.\" Cümlesinde hangi yazı karakterinden bahsedilmektedir?",
         "A": "Roman",
         "B": "Gotik",
         "C": "Text Letter",
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Roman"
+        "Aciklama": "Bu tür, farklı kaynaklarda Antik yazılar ve Hümanistik yazılar isimleriyle de yer alır. Bazı araştırmacılar Roman türünün alt grupları olan Klasik, Geçiş Dönemi ve Modern Romanları ayrı türler olarak ele alırlar. Modern Romanlar diğerlerinden açıkça ayrılsa da Klasik ve Geçiş Dönemi Romanları ancak eğitimli gözler ayırt edebilir."
     },
     {
         "SoruID": 3488070,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kare Serifliler"
+        "Aciklama": "Kare Serifliler modern grafik tasarımda manşetler, reklam ve afiş başlıkları için kullanılır. Metin için tek ve çift ağırlıklı olanları özenle seçilerek kullanılabilir. Yine de uzun metinler için önerilmez. Tasarım aşamasında, tek ağırlıklılar için Sans Serif, çift ağırlıklılar için Roman karakterler incelenebilir."
     },
     {
         "SoruID": 3488071,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eski yazılara ait harf örneklerini günümüz ihtiyaçlarına göre yeniden yorumlanması uygun olmaz."
+        "Aciklama": "Haley, yeni harf formu arayışındaki tasarımcılara kaynak olabilecek dört alanı işaret eder:<br/>1. Tasarımcı, tipografi tarihini araştırarak henüz keşfedilmemiş kaynaklarına ulaşabilir. Eski yazılara ait harf örneklerini günümüz ihtiyaçlarına göre yeniden yorumlayabilir.<br/>2. Yeni teknolojiler tipografik tasarımın sınırlarını genişletip, yeni imkanlar yaratabilir.<br/>3. Tarihi sınıflandırmalardaki yazı türleri ve tasarım süreçleri sorgulanarak bu türler arası melez harf biçimleri yaratma çabasına girilebilir.<br/>4. Latin alfabesi dışındaki diller için yazı karakteri tasarlamak tipografik ufku genişletecektir (Haley vd. 2012: 51).<br>Eski yazılara ait harf örneklerini günümüz ihtiyaçlarına göre yeniden yorumlanması uygun olmaz."
     },
     {
         "SoruID": 3488072,
@@ -577,11 +577,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gotik"
+        "Aciklama": "Tür dışı yazı karakterleri, türlerden birinde yer almayan tüm yazı karakterlerinin dâhil edildiği bir gruptur. Bu grup çeşitli kaynaklarda, Miscellaneous, Novelty, Specialty, Artistic, Period, Fancy ve Ornamental gibi isimlerle karşımıza çıkar.<br>Gotik"
     },
     {
         "SoruID": 3488073,
-        "SoruMetni": "Harfleri tasarlarken; temel kılavuz çizgileri kullanılarak, tasarımın karakteristiğini belirleyecek detaylar üzerinde bolca  yapılan denemelere ne denir?",
+        "SoruMetni": "Harfleri tasarlarken; temel kılavuz çizgileri kullanılarak, tasarımın karakteristiğini belirleyecek detaylar üzerinde bolca yapılan denemelere ne denir?",
         "A": "Eskiz geliştirme",
         "B": "Harflerin üretimi",
         "C": "Harflerin pazarlanması",
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eskiz geliştirme"
+        "Aciklama": "Eskiz geliştirme aşamasında, temel kılavuz çizgileri kullanılarak, tasarımın karakteristiğini belirleyecek detaylar üzerinde bolca deneme yapmak önemlidir"
     },
     {
         "SoruID": 3488194,
@@ -617,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ağırlık"
+        "Aciklama": "Harflerin yükseklikleriyle bağlantılı hat kalınlıkları “ağırlık” olarak isimlendirilir. Ağırlıklar, bir yazı<br/>karakteri ailesi içindeki farklı kalınlıklara sahip çeşitlemelerdir. Normal ağırlıkta bir harfin hat kalınlığı<br/>yaklaşık olarak harf yüksekliğinin 1/7’si kadardır. Bu normal hat kalınlığı, inceltilip kalınlaştırılarak farklı ağırlıklar oluşturulur. Aile içinde oluşturulabilecek temel ağırlıklar ince (light), normal (medium, plain ya da regular) ve kalın (bold) çeşitlemeleridir (Görsel 5.5). Normal ve ince arasına yarı ince (book) ağırlığı eklenebilir ve özellikle metinler için uygun olan ve tercih edilen bir ağırlıktır. Normal ve kalın arasında da yarı kalın (demi, semibold) ağırlığı vardır. Ağırlıktaki çeşitlemeler çok ince (extra light) ve çok kalın (extra bold, ultra bold, ultra/extra black, heavy) ağırlıklarıyla çoğaltılabilir Tasarımcı, kompozisyonu hareketlendirmek, sözcük ya da sözcük grupları üzerinde vurgu yaratmak için farklı ağırlıkları kullanabilir"
     },
     {
         "SoruID": 3488195,
@@ -637,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Font"
+        "Aciklama": "Font terimi, özgün bir tasarımı olan yazı karakterlerinin belli bir stil ve ölçüsündeki harfler, rakamlar, noktalama işaretleri ve sembollerini içeren setini tanımlamak için kullanılır."
     },
     {
         "SoruID": 3488196,
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hat"
+        "Aciklama": "Hat (stroke): Harfi oluşturan tüm çizgilerin genel adıdır. Hatlar, harfte bulundukları yere ve büyüklüğüne göre ayrıca isimlendirilir. Sap, göbek, kuyruk, kol, bacak ve serifler de harfi oluşturan hatlardandır."
     },
     {
         "SoruID": 3488197,
@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sap"
+        "Aciklama": "Sap (stem): Sap terimi genel olarak harflerin dikey ana hatlarını tanımlamak için kullanılır. Bu terim<br/>üzerinde fikir birliği yoktur. Bazı kaynaklarda minisküllerin alt uzantıları da “sap” olarak nitelendirilir."
     },
     {
         "SoruID": 3488198,
@@ -697,11 +697,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kiriş"
+        "Aciklama": "Kiriş (bar): Uçları boşlukta olmayan yatay hatları tanımlamak için kullanılır. Kiriş, iki dikey ya da diyagonal hattı birleştirebileceği gibi, “e” harfinde olduğu gibi eğri bir hat içinde de yer alabilir."
     },
     {
         "SoruID": 3488199,
-        "SoruMetni": "Yazı karakterlerinin seriflerine göre sıralanmasında tür ismi farklı kaynaklarda “Egyptian”,<br/> ya da “Slab Serif” isimleriyle bilinen serif türü aşağıdakilerden hangisidir?",
+        "SoruMetni": "Yazı karakterlerinin seriflerine göre sıralanmasında tür ismi farklı kaynaklarda “Egyptian”,<br/>ya da “Slab Serif” isimleriyle bilinen serif türü aşağıdakilerden hangisidir?",
         "A": "Kare serifliler",
         "B": "Gotik serifliler",
         "C": "Sans serif",
@@ -717,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kare serifliler"
+        "Aciklama": "Yazı karakteri türlerinde üçüncüsü Kare Seriflilerdir. Tür ismini farklı kaynaklarda “Egyptian”, “Square<br/>Serif” ya da “Slab Serif” isimleriyle görmek mümkündür."
     },
     {
         "SoruID": 3488200,
@@ -737,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kulak"
+        "Aciklama": "Kulak (ear): Miniskül “g”nin üst parçasından dışarıya doğru uzanan küçük hatta verilen isimdir. ‘İlmikli g’ (bowl and loop g) olarak adlandırılan harfte bulunur. Bazı kaynaklarda “r” ve “f” harflerinin üst uç noktalarının da kulak olarak adlandırıldığına rastlanmaktadır. Kulaklar, yazı karakterinin yapısına göre düz, top ya da damla şeklinde olabilir."
     },
     {
         "SoruID": 3488201,
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Omurga"
+        "Aciklama": "Omurga (spine): Majüskül ve miniskül “s”nin ana eğri hattı omurga olarak adlandırılır"
     },
     {
         "SoruID": 3488202,
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Grotesk Sans Serifler"
+        "Aciklama": "Grotesk Sans Serifler; tarihsel olarak bakıldığında ticari olarak ilk popülerlik kazanan alt gruptur. Bazı aileler basit ve kaba bir yapıya sahip olsa da bu alt grup, Sans Serif türü içindeki kişilikli yazı karakterlerini barındırır: Trade Gothic, Alternate Gothic, News Gothic ve Franklin Gothic bu alt grupta yer alan tasarımlardır."
     },
     {
         "SoruID": 3488203,
@@ -797,6 +797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İnisiyal"
+        "Aciklama": "İnisiyal (İlk, büyük harf): El yazması ya da basılı sayfalarda; bir kelimenin, bölümün<br/>veya paragrafın başında metnin geri kalanından daha büyük olarak yazılan ya da<br/>dizilen harftir."
     }
 ]

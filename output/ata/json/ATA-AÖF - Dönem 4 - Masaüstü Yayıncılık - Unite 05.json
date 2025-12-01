@@ -9,14 +9,15 @@
         "E": "Broşürler, yaygın bir şekilde A4 kâğıt boyutu ile tek veya iki katlamalı olarak hazırlanmaktadır.",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 130852,
@@ -28,18 +29,19 @@
         "E": "Broşürde kullanılan tüm görsellerin birbirleri ile uyumlu olması gerekmez.",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 136957,
-        "SoruMetni": "Dikkat çekici tasarımlara sahip olan ürün, hizmet, proje, araştırma, firma, etkinlik veya uygulama, sanatsal veya kültürel olayların tanıtımını yapmak için kullanılan basılı materyale ……… denilmektedir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Dikkat çekici tasarımlara sahip olan ürün, hizmet, proje, araştırma, firma, etkinlik veya uygulama, sanatsal veya kültürel olayların tanıtımını yapmak için kullanılan basılı materyale ……… denilmektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "dergi",
         "B": "gazete",
         "C": "broşür",
@@ -47,14 +49,15 @@
         "E": "makale",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 183795,
@@ -66,14 +69,15 @@
         "E": "Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programları ile bilgi vermek",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 183796,
@@ -85,18 +89,19 @@
         "E": "6 sayfalı",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 183840,
-        "SoruMetni": "<strong> Aşağıdakilerden hangisi broşür tasarımında dikkat edilmesi gereken özelliklerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong> Aşağıdakilerden hangisi broşür tasarımında dikkat edilmesi gereken özelliklerinden biri <u>değildir</u>?</strong>",
         "A": "Dikkat çekici ögeler kolay anlaşılmalı, sade ve basit olmalıdır.",
         "B": "Verilmek istenen mesajda hedef kitleye dikkat edilmelidir.",
         "C": "Tasarımda kâğıtların ebat ve boyutuna karar verilmelidir.",
@@ -104,18 +109,19 @@
         "E": "Broşürde tüm konular ön plana çıkarılmalıdır.",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 183844,
-        "SoruMetni": "<strong> Aşağıdakilerden hangisi Publisher 2016 programında hazırlanan materyallerden biri <u>d</u></strong><u><strong>eğildi</strong></u><strong><u>r</u>?</strong>",
+        "SoruMetni": "<strong> Aşağıdakilerden hangisi Publisher 2016 programında hazırlanan materyallerden biri <u>d</u></strong><u><strong>eğildi</strong></u><strong><u>r</u>?</strong>",
         "A": "Bülten",
         "B": "Sunum",
         "C": "Etiket",
@@ -123,14 +129,15 @@
         "E": "Kartpostal",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 183845,
@@ -142,14 +149,15 @@
         "E": "Tasarlanan yayının içeriği görüntüsü yer alır.",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 183846,
@@ -161,14 +169,15 @@
         "E": "Düzen",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 183847,
@@ -180,14 +189,15 @@
         "E": "Dosya&gt;&gt;Broşürler&gt;&gt;Yeni",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 183878,
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 183896,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 183899,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 192961,
@@ -256,14 +269,15 @@
         "E": "Sayfa Tasarımı",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 192962,
@@ -275,14 +289,15 @@
         "E": "Broşürün zemin ve yazı renginin belirlenmesi",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 192963,
@@ -294,33 +309,35 @@
         "E": "Giriş",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 341111,
-        "SoruMetni": "I. Kurum, kuruluş ya da birimlerin reklamlarını yapmak<br/> <br/>II. Bir ürün veya hizmet satmaya zorlamak<br> <br/>III. Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programları ile bilgi vermek<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri broşürlerin kullanım amaçları arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Kurum, kuruluş ya da birimlerin reklamlarını yapmak<br/>II. Bir ürün veya hizmet satmaya zorlamak<br/>III. Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programları ile bilgi vermek<br/><strong>Yukarıdakilerden hangisi ya da hangileri broşürlerin kullanım amaçları arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve III",
         "D": "II ve III",
-        "E": "I, II ve III",
+        "E": "I, II ve III",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 341112,
@@ -332,18 +349,19 @@
         "E": "Dikkat çekme sürecinde karmaşık ifadeler veya görseller kullanılmalıdır.",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 342346,
-        "SoruMetni": "<strong>Publisher 2016 çalışma ortamında yayın içerisinde yazım denetimi yapma, eş anlamlıları bulma ve dil işlemleri ile metni başka bir dile çevirme işlemlerinin yapıldığı sekme aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Publisher 2016 çalışma ortamında yayın içerisinde yazım denetimi yapma, eş anlamlıları bulma ve dil işlemleri ile metni başka bir dile çevirme işlemlerinin yapıldığı sekme aşağıdakilerden hangisidir?</strong>",
         "A": "Gözden Geçir",
         "B": "Görünüm",
         "C": "Sayfa Tasarımı",
@@ -351,13 +369,14 @@
         "E": "Postalar",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     }
 ]

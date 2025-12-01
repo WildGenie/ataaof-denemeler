@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 3601428,
-        "SoruMetni": "Aşağıda verilen cümlede, bırakılan boşluklara gelmesi gereken yanıt çiftini seçeneklere göre belirleyiniz.<br/><br/>Bir dijital oyunda……………….. eylemi   ……………. mekanik örneğidir.",
+        "SoruMetni": "Aşağıda verilen cümlede, bırakılan boşluklara gelmesi gereken yanıt çiftini seçeneklere göre belirleyiniz.<br/>Bir dijital oyunda……………….. eylemi ……………. mekanik örneğidir.",
         "A": "Ana karakterin koşması/ikincil",
         "B": "Ana karakterin harita toplaması /temel",
         "C": "Ana karakterin sağa sola dönmesi/ yardımcı",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3601434,
-        "SoruMetni": "Dijital oyunlarda klavyedeki A tuşu en yaygın kullanımıyla  hangi hareketi sağlar?",
+        "SoruMetni": "Dijital oyunlarda klavyedeki A tuşu en yaygın kullanımıyla hangi hareketi sağlar?",
         "A": "İleri",
         "B": "Geri",
         "C": "Yukarı",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3601435,
-        "SoruMetni": "<em>Mobil oyunlar, çoğunlukla dokunmatik ekranlar üzerinde oynandığından kullanıcı arayüzü (UI) tasarımları bazı temel jestlere (gesture) dayalı olarak yapılandırılır</em>.<br/><br/>Aşağıdakilerden hangisi mobil oyun arayüzlerinde kullanılan jestlerden biri olarak <span style=\"text-decoration: underline;\">nitelendirilemez</span>?",
+        "SoruMetni": "<em>Mobil oyunlar, çoğunlukla dokunmatik ekranlar üzerinde oynandığından kullanıcı arayüzü (UI) tasarımları bazı temel jestlere (gesture) dayalı olarak yapılandırılır</em>.<br/>Aşağıdakilerden hangisi mobil oyun arayüzlerinde kullanılan jestlerden biri olarak <span style=\"text-decoration: underline;\">nitelendirilemez</span>?",
         "A": "Dokunma",
         "B": "Kaydırma",
         "C": "Sürükleme",
@@ -177,11 +177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyunlar tasarlanırken bilgisayar veya konsol oyunlarındaki gibi karmaşık tuş kombinasyonları ve karmaşık kontrolleri mobil tasarımda uygulamak mümkün değildir. Piyasadaki en popüler oyunlar, kullanıcıların sadece gerekli eylemleri gerçekleştirmelerine yardımcı olan belirli özellikler setine sahiptir. Kontroller, oyuncuların ekran üzerindeki eylemleri kolayca ve sezgisel olarak gerçekleştirmelerine olanak tanımalıdır. <strong>Modifikasyon - Bilgisayarlarda oynanan oyunların kullanıcı tarafından geliştirilmesi ve değiştirilmesi  ise mobil oyunların değil, PC’leri diğer oyun platformlarından ayıran başlıca  özellikler içinde yer alır</strong>"
+        "Aciklama": "Oyunlar tasarlanırken bilgisayar veya konsol oyunlarındaki gibi karmaşık tuş kombinasyonları ve karmaşık kontrolleri mobil tasarımda uygulamak mümkün değildir. Piyasadaki en popüler oyunlar, kullanıcıların sadece gerekli eylemleri gerçekleştirmelerine yardımcı olan belirli özellikler setine sahiptir. Kontroller, oyuncuların ekran üzerindeki eylemleri kolayca ve sezgisel olarak gerçekleştirmelerine olanak tanımalıdır. <strong>Modifikasyon - Bilgisayarlarda oynanan oyunların kullanıcı tarafından geliştirilmesi ve değiştirilmesi ise mobil oyunların değil, PC’leri diğer oyun platformlarından ayıran başlıca özellikler içinde yer alır</strong>"
     },
     {
         "SoruID": 3601436,
-        "SoruMetni": "Aşağıdakilerden hangisi oyun arayüzlerindeki  oyun-içi  bileşenlere örnektir?",
+        "SoruMetni": "Aşağıdakilerden hangisi oyun arayüzlerindeki oyun-içi bileşenlere örnektir?",
         "A": "Oyun dünyasındaki harita",
         "B": "Skor tablosu",
         "C": "Karakter metinleri",

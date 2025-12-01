@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264967,
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264968,
@@ -54,7 +56,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 264969,
@@ -73,7 +76,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264988,
@@ -92,11 +96,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264989,
-        "SoruMetni": "İspanya'nın Cordoba şehrinde ilk olarak I. Abdurrahman tarafından 785 - 86 yılında 75,00 x 100,00 m ebatlarında yaptırılan, “…………………”, daha sonraki yapılan eklemelerle genişletilmiş, 178,00 x 125,00 m ölçülerinde 22.000 m<sup>2'</sup>lik alana kurulmuştur. Endülüs Emevilerinin başkentindeki en anıtsal ve ihtişamlı eserdir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "İspanya'nın Cordoba şehrinde ilk olarak I. Abdurrahman tarafından 785 - 86 yılında 75,00 x 100,00 m ebatlarında yaptırılan, “…………………”, daha sonraki yapılan eklemelerle genişletilmiş, 178,00 x 125,00 m ölçülerinde 22.000 m<sup>2'</sup>lik alana kurulmuştur. Endülüs Emevilerinin başkentindeki en anıtsal ve ihtişamlı eserdir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Elhamra",
         "B": "Kurtuba Büyük Camii",
         "C": "Kubbetü’s-Süleybiye",
@@ -111,7 +116,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264990,
@@ -130,7 +136,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 267117,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 267127,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 267136,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 267159,
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 267161,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 267175,
@@ -244,11 +256,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 267182,
-        "SoruMetni": "<strong>Mescid-i Nebevi’de “……………….” en büyük imar işlerini gerçekleştiren Osmanlı padişahıdır.<br/> <br/>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "<strong>Mescid-i Nebevi’de “……………….” en büyük imar işlerini gerçekleştiren Osmanlı padişahıdır.<br/>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Kanuni Sultan Süleyman",
         "B": "Sultan II. Mustafa",
         "C": "Sultan I. Mahmud",
@@ -263,11 +276,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 267183,
-        "SoruMetni": "<strong>“………………..”, üç yıl süren bir çalışmadan sonra Mescidi Nebevi’nin kubbe kasnaklarını, duvarlarını, kapılarını, mihrap ve sütunlarını kuşak hâlinde celî sülüs tarzında ayetler, hadisler, Hz. Peygamber’in ve mescidinin adları ve sıfatlarıyla tezyin etmiştir.<br/> <br/>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "<strong>“………………..”, üç yıl süren bir çalışmadan sonra Mescidi Nebevi’nin kubbe kasnaklarını, duvarlarını, kapılarını, mihrap ve sütunlarını kuşak hâlinde celî sülüs tarzında ayetler, hadisler, Hz. Peygamber’in ve mescidinin adları ve sıfatlarıyla tezyin etmiştir.<br/>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Kazasker Mustafa İzzet",
         "B": "Hafız Osman",
         "C": "Hasan Çelebi",
@@ -282,7 +296,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 267184,
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 267185,
@@ -320,7 +336,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328804,
@@ -339,16 +356,17 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 328806,
         "SoruMetni": "<strong>Sîdî Ukbe Camii kim tarafından ne zaman yaptırılmıştır?</strong>",
         "A": "Ukbe b. Nafi tarafından 670’te",
         "B": "Halife Abdülmelik b. Mervan tarafından 691’te",
-        "C": "Halife I. Velid b. Abdülmelik  tarafından 705-715’te",
+        "C": "Halife I. Velid b. Abdülmelik tarafından 705-715’te",
         "D": "Süleyman bin Abdülmelik tarafından 715-716'da",
-        "E": "Sa'd bin Ebi Vakkas  tarafından 635‘te",
+        "E": "Sa'd bin Ebi Vakkas tarafından 635‘te",
         "DogruCevap": "A",
         "DersAd": "Genel Sanat Tarihi",
         "Somestre": 1,
@@ -358,11 +376,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328812,
-        "SoruMetni": "<strong>Kur’an-ı Kerim’deki ayetlere göre  Kâbe ne zaman yapılmıştır?</strong>",
+        "SoruMetni": "<strong>Kur’an-ı Kerim’deki ayetlere göre Kâbe ne zaman yapılmıştır?</strong>",
         "A": "Hz. İbrahim’den önce",
         "B": "Hz. Muhammed’ten önce",
         "C": "Hz. Musa’dan önce",
@@ -377,7 +396,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328815,
@@ -396,11 +416,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 367097,
-        "SoruMetni": "<strong>Dört Halife Dönemi’nden sonra kurulan ve 661-750 yılları arasında hüküm sürmüş olan, Mescid-i Aksa ve Kubbetü's Sahra gibi yapıları inşa eden Müslüman Arap Devleti aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Dört Halife Dönemi’nden sonra kurulan ve 661-750 yılları arasında hüküm sürmüş olan, Mescid-i Aksa ve Kubbetü's Sahra gibi yapıları inşa eden Müslüman Arap Devleti aşağıdakilerden hangisidir?</strong>",
         "A": "Emeviler",
         "B": "Abbasiler",
         "C": "Gazneliler",
@@ -415,11 +436,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 367106,
-        "SoruMetni": "Abbasiler Dönemin'de tuğladan sekizgen planda inşa edilen yapı, İslam sanatının ilk türbe mimarisi olması açısından önem teşkil etmektedir.<br/> <br/><strong>Samerra'da Dicle Nehri'nin batı kıyısında yer alan bu türbe aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "Abbasiler Dönemin'de tuğladan sekizgen planda inşa edilen yapı, İslam sanatının ilk türbe mimarisi olması açısından önem teşkil etmektedir.<br/><strong>Samerra'da Dicle Nehri'nin batı kıyısında yer alan bu türbe aşağıdakilerden hangisidir?</strong>",
         "A": "Arap Ata Türbesi",
         "B": "Ayşe Bibi Türbesi",
         "C": "Kubbetü’s-Süleybiye",
@@ -434,7 +456,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 393964,
@@ -453,7 +476,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 393966,
@@ -472,6 +496,7 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     }
 ]

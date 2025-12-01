@@ -12,8 +12,7 @@
         "D": "<p>Spine</p>",
         "E": "<p>Gumball</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830843,
@@ -28,8 +27,7 @@
         "D": "<p>Ortografik çizim</p>",
         "E": "<p>Snap</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830849,
@@ -44,8 +42,7 @@
         "D": "<p>Pah kırma (chamfer)</p>",
         "E": "<p>Kavis verme (fillet)</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830853,
@@ -60,8 +57,7 @@
         "D": "<p>Kontrol noktaları tarafından tanımlanan şekle yakın bir şekilde düzgün bir eğri veya yüzey oluşturur ancak bunlardan geçmek zorunda değildir.</p>",
         "E": "<p>Hassasiyet ve doğruluk önemli olduğunda, özellikle mühendislik ve CAD (Bilgisayar Destekli Tasarım) uygulamalarında sıklıkla kullanılırlar.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830855,
@@ -76,8 +72,7 @@
         "D": "<p>Genel şekli tanımlamada daha fazla esneklik sunarlar, kontrol noktaları arasında daha yumuşak geçişlere izin verir.</p>",
         "E": "<p>Kullanıcı tarafından sağlanan tüm kontrol noktalarından geçer.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830856,
@@ -92,8 +87,7 @@
         "D": "<p>NURBS temelli modelleme</p>",
         "E": "<p>Boolean intersection</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830858,
@@ -108,8 +102,7 @@
         "D": "<p>Düzlemsel yüzey</p>",
         "E": "<p>Kenar yüzey</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830859,
@@ -124,8 +117,7 @@
         "D": "<p>Ray üzerinde döndürme (rail revolve) komutu</p>",
         "E": "<p>Döndürme (revolve) komutu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830860,
@@ -140,8 +132,7 @@
         "D": "<p>Döndürme (revolve) komutu</p>",
         "E": "<p>Yüzey örme işlemlerinden olan doldurma (loft) komutu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830861,
@@ -156,7 +147,6 @@
         "D": "<p>Doldurma (loft) komutu</p>",
         "E": "<p>Süpürme (sweep) komutu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

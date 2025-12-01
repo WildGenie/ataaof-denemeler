@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 3862214,
-        "SoruMetni": "Marka kavramını, “Siz odada olmadığınız zaman tüketicinin sizin hakkınızda ne konuştuklarıdır” şeklinde tanımlayan kişi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Marka kavramını, “Siz odada olmadığınız zaman tüketicinin sizin hakkınızda ne konuştuklarıdır” şeklinde tanımlayan kişi aşağıdakilerden hangisidir?",
         "A": "Jeff Bezos",
         "B": "Walter Landor",
         "C": "Anselmo Ramos",
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt B şıkkıdır.<br/>Marka mimarisi bir şirketin markalarını, alt<br/>markalarını ve ürün veya hizmetlerini yapılandırmak için kullandığı organizasyon çerçevesidir."
+        "Aciklama": "Sağlam bir marka mimarisi, ürün ve hizmetler hakkında belirgin bir bilinç sağlayarak ve markalarınızın ve alt markalarınızın birbiriyle nasıl ilişki kuracağı üzerinde etki yaratmaktadır.<br>Doğru yanıt B şıkkıdır.<br/>Marka mimarisi bir şirketin markalarını, alt<br/>markalarını ve ürün veya hizmetlerini yapılandırmak için kullandığı organizasyon çerçevesidir."
     },
     {
         "SoruID": 3862217,
@@ -341,7 +341,7 @@
     },
     {
         "SoruID": 3862221,
-        "SoruMetni": "Stengel'in Grow adlı eserinde aşağıdakilerden hangisi  markaların taşıdığı değer ve benimsediği alanlardan biri olarak <strong>gösterilmez</strong>?",
+        "SoruMetni": "Stengel'in Grow adlı eserinde aşağıdakilerden hangisi markaların taşıdığı değer ve benimsediği alanlardan biri olarak <strong>gösterilmez</strong>?",
         "A": "İnsanları eğitme",
         "B": "İnsanların gururlanması sağlama",
         "C": "Bağlantı kaynağı olma",

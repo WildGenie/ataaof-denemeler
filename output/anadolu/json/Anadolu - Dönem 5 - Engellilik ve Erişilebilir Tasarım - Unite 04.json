@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Asimetriklik"
+        "Aciklama": "Dijital ortamlar kullanıcılara etkileşim ve iletişim yapısı olarak demokratik bir<br/>yapı sunuyor olmasına karşın, hizmet sağlayıcıların çok büyük şirket ve organizasyonlar olması, dijital ortamların asimetriklik özelliğini vurgulamaktadır."
     },
     {
         "SoruID": 3863025,
@@ -25,7 +25,7 @@
         "A": "Geleneksel ve yeni ortamların birbirine yaklaşmasıdır.",
         "B": "Ortamlardaki içeriğin hem geçici hem kalıcı olmasıdır.",
         "C": "Çok sayıda ve nitelikte içeriğin birbirine bağlanmasıdır.",
-        "D": "Ortamdaki etkileşim, akış ve hareketin veriye dönüşmesidir.<br/><br/>",
+        "D": "Ortamdaki etkileşim, akış ve hareketin veriye dönüşmesidir.",
         "E": "Ortamların içeriklere doğrusal olmayan bağlantılar sağlamasıdır.",
         "DogruCevap": "B",
         "DersAd": "Engellilik ve Erişilebilir Tasarım",
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ortamlardaki içeriğin hem geçici hem kalıcı olmasıdır."
+        "Aciklama": "Dijital ortamların akışkanlık özelliği, hem kalıcı hem de geçici bir yapıya sahip olmasını ifade etmektedir.<br>Ortamlardaki içeriğin hem geçici hem kalıcı olmasıdır."
     },
     {
         "SoruID": 3863026,
@@ -57,11 +57,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilişsel"
+        "Aciklama": "Dijital katılım boyutları şunlardır: (a) duyusalmotor, (b) bilişsel, (c) teknik, (d) teknolojik cihazlara ve (e) kodlara ve kurallara erişim."
     },
     {
         "SoruID": 3863027,
-        "SoruMetni": "I. Eğitim tekniklerini paylaşma fırsatı sağlamak<br/> II. Özerkliği teşvik etmek<br/> III. Motivasyon sağlamak<br/> IV. Tipik gelişen akranlarla bir arada bulunmak<br/> Yukarıdaki maddelerden hangileri dijital ortamların öğrencilere sağladığı <strong>yararlar</strong> arasındadır?",
+        "SoruMetni": "I. Eğitim tekniklerini paylaşma fırsatı sağlamak<br/>II. Özerkliği teşvik etmek<br/>III. Motivasyon sağlamak<br/>IV. Tipik gelişen akranlarla bir arada bulunmak<br/>Yukarıdaki maddelerden hangileri dijital ortamların öğrencilere sağladığı <strong>yararlar</strong> arasındadır?",
         "A": "I, II ve III",
         "B": "I, III ve IV",
         "C": "I,II ve IV",
@@ -77,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "II,III ve IV"
+        "Aciklama": "Dijital ortamların öğrencilere genel olarak yararları; (a) öğrenci özerkliğini teşvik etmek, (b) iletişim zorluklarını ve engellerini aşmaya yardımcı olmak, (c) öğrencilere çalışma başarılarını uygun bir şekilde gösterme fırsatı sağlamak, (d) öğrencilerin bireysel becerileri ve yetenekleri dikkate alınarak görevler geliştirmek, (e) tipik gelişen akranlarla bir arada bulunmak, motivasyon sağlamaktır.<br>II,III ve IV"
     },
     {
         "SoruID": 3863028,
-        "SoruMetni": "I. Veri, veri tabanı ve araştırmalarda engelli bireylerin yetersiz olması<br/> II. Engelli bireylere az destek verilmesi<br/> III. Öğretmenlerin verilen teknoloji eğitimleri için istekli olmaları<br/> IV. Farklı engelli öğrencileri olsa da öğretmenin teknolojiyi kullanabilir olması<br/> V. Öğretmenlerin zamanlarının kısıtlı olması<br/> Yukarıdakilerden hangisi engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı <strong>engeller </strong>arasındadır?",
+        "SoruMetni": "I. Veri, veri tabanı ve araştırmalarda engelli bireylerin yetersiz olması<br/>II. Engelli bireylere az destek verilmesi<br/>III. Öğretmenlerin verilen teknoloji eğitimleri için istekli olmaları<br/>IV. Farklı engelli öğrencileri olsa da öğretmenin teknolojiyi kullanabilir olması<br/>V. Öğretmenlerin zamanlarının kısıtlı olması<br/>Yukarıdakilerden hangisi engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı <strong>engeller </strong>arasındadır?",
         "A": "I, II, III",
         "B": "I, II, IV",
         "C": "I, II, V",
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I, II, V"
+        "Aciklama": "Engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engeller izleyen şekilde sıralanabilir:<br/>• Engelli bireylerin dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği<br/>• Dijital teknolojilere erişilebilirlik hakkında yasalar, standartlar, politikalar ve iyi uygulama örnekleri hakkındaki bilginin yetersizliği<br/>• Engellilere yönelik dijital teknolojileri kullanım standartlarının yetersizliği ve/veya bulunmayışı<br/>• Sürekli gelişim halinde olan teknolojilerin, dijital teknolojilere erişilebilirlik ile kullanılabilirliğini azaltması ve maliyetleri artırması<br/>• Bazı durumlarda engelli bireylere yetersiz veya eksik destek verilmesi<br/>• Aile üyelerinin ya da bakıcılarının İnternet kullanımındaki ve eğitimindeki yetersizlikleri<br/>• Öğretmenlerin öğretim yapma ya da verilen teknoloji eğitimler için isteksiz olmaları<br/>• Sınıfta engelli öğrenci azlığı ya da çok farklı engelli öğrenci olması nedeniyle<br/>öğretmenin teknolojiyi<br>I, II, V"
     },
     {
         "SoruID": 3863029,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çevrim içi takvimler, not alma, uyarılar gibi hafızaya yardımcı araçlar"
+        "Aciklama": "Metinden konuşmaya, yorumlama ve konuşma/ses, çıkışı<br/>Dokunmatik ekranlı cihazlar<br/>• Arttırıcı ve Alternatif İletişim<br/>(AAİ) cihazlarını, iletişim için<br/>elektronik resim panolarını<br/>taklit eden mobil uygulamalar<br/>ve çevrim içi kaynaklar<br/>• Çevrim içi takvimler, not alma,<br/>uyarılar gibi düzenleme ve<br/>hafızaya yardımcı araçlar<br/>• GPS destekli navigasyon<br/>• Anlamaya yardımcı olmak<br/>için multimedya kullanımı,<br/>örneğin videolar, grafikler<br>Çevrim içi takvimler, not alma, uyarılar gibi hafızaya yardımcı araçlar"
     },
     {
         "SoruID": 3863030,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kullanıcının hızına uyarlanması"
+        "Aciklama": "Dijital ortamların tasarımında kullanımda esneklik ilkesi yönergeleri izleyen şekilde sıralanabilir:<br/>• Kullanım yöntemlerinde seçim sağlanması<br/>• Sağ veya sol elle erişilmesi ve kullanılması<br/>• Kullanıcının doğruluğunu ve hassasiyetini kolaylaştırması<br/>• Kullanıcının hızına uyarlanması"
     },
     {
         "SoruID": 3863031,
@@ -157,15 +157,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Basit ve sezgisel kullanım"
+        "Aciklama": "Basit ve sezgisel kullanım ilkesine aşamalı açıklama ile görsel dağınıklığın azaltılması örnek olarak verilebilir. Aşamalı açıklama, etkileşim tasarım tekniklerindendir. Arayüzdeki ilgisiz bilgileri kaldırarak görsel karmaşayı azaltır. Bu teknikle dijital ortamların tasarımında kullanıcı ihtiyaç ve etkileşimlerine bağlı olarak görüntülenecek bilgilere öncelik verilir."
     },
     {
         "SoruID": 3863032,
         "SoruMetni": "Tasarlanan dijital ortamın, irade dışı, kazayla ve kullanım örüntüsü dışında kullanımında karşılaşılabilecek kötü, tehlikeli, riskli veya olumsuz sonuçları engelleyici veya en aza indirici nitelikte olmasını gerektiren ilke aşağıdakilerden hangisidir?",
-        "A": "Basit ve sezgisel kullanım<br/><br/>",
-        "B": "Algılanabilir bilgi<br/><br/>",
-        "C": "Yaklaşmaya ve kullanıma uygun ölçüler ve mekân<br/> <br/><br/>",
-        "D": "Düşük fiziksel çaba<br/><br/>",
+        "A": "Basit ve sezgisel kullanım",
+        "B": "Algılanabilir bilgi",
+        "C": "Yaklaşmaya ve kullanıma uygun ölçüler ve mekân",
+        "D": "Düşük fiziksel çaba",
         "E": "Hatalara tolerans",
         "DogruCevap": "E",
         "DersAd": "Engellilik ve Erişilebilir Tasarım",
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hatalara tolerans"
+        "Aciklama": "Hatalara tolerans, tasarlanan dijital ortamın, irade dışı, kazayla ve kullanım örüntüsü dışında kullanımında karşılaşılabilecek kötü, tehlikeli, riskli veya olumsuz sonuçları engelleyici veya en aza indirici nitelikte olmasını<br/>gerektiren ilkedir."
     },
     {
         "SoruID": 3863033,
@@ -197,11 +197,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital medyanın hayatı daha zor hale getirmesi"
+        "Aciklama": "Dijital çağda engelli çocukların haklarına yönelik küresel konular izleyen biçimde sıralanabilir:<br/>• Engelli çocukların dijital medya kullanımları ve uygulamalarına ilişkin temel verilere daha fazla ihtiyaç duyulması, çocuklar arasında dijital medya kullanımına ilişkin araştırmalara ve veri toplamaya dahil edilmesi<br/>•Dijital medyanın hayatı daha kolay ve zevkli hâle getirebileceğinin yanı sıra engelli çocuklar için erişilemeyen yeni alanlar ortaya çıkarabileceğinin kabul edilmesi<br/>• Dijital alanda haklara odaklanmanın engelli çocuğu pekiştirmesine ilişkin potansiyel riskler ve engelli çocukların seslerinin duyulabileceği alanlar ve fırsatlar yaratmanın önemli olması<br/>• Koruma hakları ile engelli çocukların uygun düzeyde eylemlilik, özerklik ve kontrol kullanma hakları arasında denge kurulması ihtiyacının olması<br/>• Erişilebilirlik ve katılım için birden çok iletişim yöntemine izin verecek şekilde araştırma yöntemlerini (çevrim içi anketler ve yüz yüze görüşmeler gibi) çerçevelemek ve</br></br><br>Dijital medyanın hayatı daha zor hale getirmesi"
     },
     {
         "SoruID": 3863044,
-        "SoruMetni": "Aşağıdakilerden hangisi kullanıcıların metin, resim, görüntü ve video türü içerikleri belirli ağlar üzerinden paylaşımlarına olanak sağlayan dijital ortamlardır?",
+        "SoruMetni": "Aşağıdakilerden hangisi kullanıcıların metin, resim, görüntü ve video türü içerikleri belirli ağlar üzerinden paylaşımlarına olanak sağlayan dijital ortamlardır?",
         "A": "Sanal gerçeklik uygulamaları",
         "B": "Sosyal paylaşım ortamları",
         "C": "Sohbet uygulamaları",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sosyal paylaşım ortamları"
+        "Aciklama": "Sosyal paylaşım ortamları, kullanıcıların metin, resim, görüntü ve video türü içerikleri belirli ağlar üzerinden paylaşımlarına olanak sağlayan ortamlar özelliğindedir."
     },
     {
         "SoruID": 3863045,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital ortamların yaygınlık özelliğine sahip olması, dijital teknolojilerin kullanıcıların sürekli bağlantıda olmasını sağlaması ve hayatın her alanında nüfuz etmesidir."
+        "Aciklama": "Dijital ortamların yaygınlık özelliğine sahip olması, dijital teknolojilerin kullanıcıların sürekli<br/>bağlantıda olmasını sağlaması ve hayatın her alanında nüfuz etmesidir.<br>Dijital ortamların yaygınlık özelliğine sahip olması, dijital teknolojilerin kullanıcıların sürekli bağlantıda olmasını sağlaması ve hayatın her alanında nüfuz etmesidir."
     },
     {
         "SoruID": 3863046,
@@ -257,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaygınlık özelliği"
+        "Aciklama": "Twitter üzerinden bilgiye ulaşmak ve bu bilgiyi paylaşmakla birlikte Instagram’da canlı yayın yapmak, dijital ortamın yaygınlık özelliğidir"
     },
     {
         "SoruID": 3863047,
-        "SoruMetni": "Aşağıdakilerden hangisi zihin yetersizliği olan bireyler için dijital katılımın önündeki engellerden biri <strong>değildir</strong>? <br/><br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi zihin yetersizliği olan bireyler için dijital katılımın önündeki engellerden biri <strong>değildir</strong>?",
         "A": "Dijital cihazlara erişim",
         "B": "Duyumotor becerileri",
         "C": "Bilişsel yetenekler",
@@ -277,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Entegrasyon yeterlikleri"
+        "Aciklama": "Zihin yetersizlikleri olan bireyler için dijital katılımın önündeki beş engeli izleyen şekilde sıralamışlardır: <br/>(a) Dijital cihazlara erişim, <br/>(b) cihazları kullanmak için duyumotor becerileri, <br/>(c) bilişsel yetenekler, <br/>(d) teknik gereklilikler ve (e) iletişim.<br>Entegrasyon yeterlikleri"
     },
     {
         "SoruID": 3863072,
-        "SoruMetni": "I. Eğitim kaynaklarını iyileştirmek<br/><br/>II. Dijital teknolojilerin kullanımına ilişkin farkındalığı geliştirmek<br/><br/>III. Öğrencinin kişisel gelişiminin başlangıç seviyesini belirlemek<br/><br/>IV. Engelli öğrencilerin öğrenimini destekleme<br/><br/>Yukarıdakilerden hangileri eğitim alanında engelli öğrencileri desteklemek için dijital teknolojileri kullanma alanlarıdır?",
+        "SoruMetni": "I. Eğitim kaynaklarını iyileştirmek<br/>II. Dijital teknolojilerin kullanımına ilişkin farkındalığı geliştirmek<br/>III. Öğrencinin kişisel gelişiminin başlangıç seviyesini belirlemek<br/>IV. Engelli öğrencilerin öğrenimini destekleme<br/>Yukarıdakilerden hangileri eğitim alanında engelli öğrencileri desteklemek için dijital teknolojileri kullanma alanlarıdır?",
         "A": "I-II",
         "B": "II-III",
         "C": "II-IV",
@@ -297,11 +297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "II-III-IV"
+        "Aciklama": "Eğitim alanında engelli öğrencileri desteklemek için dijital<br/>teknolojileri kullanma alanları; öğrencinin kişisel gelişiminin başlangıç seviyesini belirlemek, yeni becerilerin oluşumu yoluyla kişisel gelişimi desteklemek veya halihazırda edinilmiş olanları geliştirmek, eğitim kaynaklarına erişimi iyileştirmek, iletişim ve ağ desteği yoluyla coğrafi veya sosyal uzaklığın üstesinden gelmek ve engelli öğrencilerin öğrenimini destekleme aracı olarak dijital teknolojilerin yararlarının kullanımını teşvik etmek ve farkındalığı artırmak şeklinde özetlemektedir.<br>II-III-IV"
     },
     {
         "SoruID": 3863073,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Yetersiz veya eksik destek</li> <li>Öğretmenlerin eğitimler için isteksiz olmaları </li> <li>Dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği</li> <li>Aile üyelerinin dijital teknoloji yetkinliği</li> </ol> Yukarıdakilerden hangileri engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engellerdir?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Yetersiz veya eksik destek</li> <li>Öğretmenlerin eğitimler için isteksiz olmaları </li> <li>Dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği</li> <li>Aile üyelerinin dijital teknoloji yetkinliği</li> </ol> Yukarıdakilerden hangileri engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engellerdir?",
         "A": "I-II-III",
         "B": "I-III",
         "C": "I-II",
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I-II-III"
+        "Aciklama": "Yetersiz veya eksik destek, öğretmenlerin eğitimler için isteksiz olmaları, dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engellerdir.<br>I-II-III"
     },
     {
         "SoruID": 3863137,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Adil, eşitlikçi kullanım"
+        "Aciklama": "Dijital ortamlarda renk körü engeline sahip kullanıcıların da bir ekrandaki içeriğin tamamını görebilmesi için tasarımda yüksek kontrast kullanılması dijital ortamların tasarımında adil, eşitlikçi kullanım ilkesine örnektir."
     },
     {
         "SoruID": 3863139,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sağ veya sol elle erişilmesi ve kullanılması"
+        "Aciklama": "Sağ veya sol elle erişilmesi ve kullanılması, dijital ortam kullanımında esneklik ilkesi yönergelerinden biridir."
     },
     {
         "SoruID": 3863140,
@@ -397,13 +397,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hatalara tolerans"
+        "Aciklama": "Dijital ortamların tasarımında, kullanıcı tercihinden kaynaklanabilecek olası hataları en aza indirgemek için en son yapılan işlemi “Geri Al” seçeneği imkânı tanınması, hatalara tolerans ilkesidir."
     },
     {
         "SoruID": 3863141,
-        "SoruMetni": "Aşağıdakilerden hangisi dijital çağda engelli çocukların haklarına yönelik küresel gündem konularından biri <strong>değildir</strong>?",
+        "SoruMetni": "Aşağıdakilerden hangisi dijital çağda engelli çocukların haklarına yönelik küresel gündem konularından biri <strong>değildir</strong>?",
         "A": "Engelli çocukların dijital ve sosyal haklarını ele alan kamu programlarının genişletilmesi",
-        "B": "Dijital medyanın engelli çocuklar için erişilemeyen yeni alanlar ortaya çıkarabileceğinin kabul edilmesi",
+        "B": "Dijital medyanın engelli çocuklar için erişilemeyen yeni alanlar ortaya çıkarabileceğinin kabul edilmesi",
         "C": "Engelli bireylere medya okuryazarlığı becerilerinin kazandırılması",
         "D": "Hem çocuklara yönelik medya politikasından hem de engellilik alanından en iyi uygulamaların benimsenmesi",
         "E": "Koruma hakları ile engelli çocukların uygun düzeyde eylemlilik, özerklik ve kontrol kullanma hakları arasında denge kurulması ihtiyacının olması",
@@ -417,11 +417,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Engelli bireylere medya okuryazarlığı becerilerinin kazandırılması"
+        "Aciklama": "Engelli bireylere medya okuryazarlığı becerilerinin kazandırılması, dijital çağda engelli çocukların haklarına yönelik küresel gündem konularından biri <strong>değildir. </strong>"
     },
     {
         "SoruID": 3863142,
-        "SoruMetni": "Dijital ortamların özelliklerinden biri olan Bağlantısallık Özelliği, dijital ortamlar için .......... kavramını ortaya çıkarmıştır.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "Dijital ortamların özelliklerinden biri olan Bağlantısallık Özelliği, dijital ortamlar için .......... kavramını ortaya çıkarmıştır.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "gezinme",
         "B": "çeşitlilik",
         "C": "akışkanlık",
@@ -441,7 +441,7 @@
     },
     {
         "SoruID": 3863143,
-        "SoruMetni": "Aşağıdakilerden hangisi dijital ortamların öğrencilere sunduğu yararlardan <u>biri değildir?</u>",
+        "SoruMetni": "Aşağıdakilerden hangisi dijital ortamların öğrencilere sunduğu yararlardan <u>biri değildir?</u>",
         "A": "Öğrencilerle etkin çalışmalar için dijital teknolojileri kullanmada becerilerini geliştirme fırsat sağlamak",
         "B": "Öğrencilerin bireysel becerileri ve yetenekleri dikkate alınarak görevler geliştirmek",
         "C": "Tipik gelişen akranlarla bir arada bulunmak, motivasyon sağlamak",
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital ortamların öğrencilere genel olarak yararları;<br/> (a) öğrenci özerkliğini teşvik etmek,<br/> (b) iletişim zorluklarını ve engellerini aşmaya yardımcı olmak,<br/> (c) öğrencilere çalışma başarılarını uygun bir şekilde gösterme fırsatı sağlamak,<br/> (d) öğrencilerin bireysel becerileri ve yetenekleri dikkate alınarak görevler geliştirmek<br/> (e) tipik gelişen akranlarla bir arada bulunmak, motivasyon sağlamaktır<br/> Öğrencilerle etkin çalışmayı sağlamak için dijital teknolojileri kullanma konusunda kendi becerilerini geliştirme fırsatı ise <strong>eğitimde görev alan öğretmenlere</strong> yönelik faydalardan biridir."
+        "Aciklama": "Dijital ortamların öğrencilere genel olarak yararları;<br/>(a) öğrenci özerkliğini teşvik etmek,<br/>(b) iletişim zorluklarını ve engellerini aşmaya yardımcı olmak,<br/>(c) öğrencilere çalışma başarılarını uygun bir şekilde gösterme fırsatı sağlamak,<br/>(d) öğrencilerin bireysel becerileri ve yetenekleri dikkate alınarak görevler geliştirmek<br/>(e) tipik gelişen akranlarla bir arada bulunmak, motivasyon sağlamaktır<br/>Öğrencilerle etkin çalışmayı sağlamak için dijital teknolojileri kullanma konusunda kendi becerilerini geliştirme fırsatı ise <strong>eğitimde görev alan öğretmenlere</strong> yönelik faydalardan biridir."
     },
     {
         "SoruID": 3863144,
@@ -497,16 +497,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Evrensel tasarım kapsamında;  tasarlanan dijital ortamın, sadece belirli kullanıcı özellikleri dikkate alınarak değil de herkesin kullanabileceği teknolojiler ve bu teknolojilerin boyutlarıyla uygun tasarlanması ilkesi Ölçü, alan Yaklaşımı ve Kullanımı ilkesidir."
+        "Aciklama": "Evrensel tasarım kapsamında; tasarlanan dijital ortamın, sadece belirli kullanıcı özellikleri dikkate alınarak değil de herkesin kullanabileceği teknolojiler ve bu teknolojilerin boyutlarıyla uygun tasarlanması ilkesi Ölçü, alan Yaklaşımı ve Kullanımı ilkesidir."
     },
     {
         "SoruID": 3863146,
-        "SoruMetni": "Dijital ortamlarda tasarım unsurlarını etkileyen durumlar: Dijital ortamın ........... özelliği, sunum şekilleri sunma özelliği ve dijital ortamların .......... üzerindeki etkisidir.<br/> Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?",
-        "A": "dağıtım ortamı / duyuşsal algı biçimleri",
-        "B": "sunum şekilleri / dağıtım ortamı",
+        "SoruMetni": "Dijital ortamlarda tasarım unsurlarını etkileyen durumlar: Dijital ortamın ........... özelliği, sunum şekilleri sunma özelliği ve dijital ortamların .......... üzerindeki etkisidir.<br/>Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?",
+        "A": "dağıtım ortamı / duyuşsal algı biçimleri",
+        "B": "sunum şekilleri / dağıtım ortamı",
         "C": "duyuşsal algı biçimleri / tasarım ilkeleri",
         "D": "tasarım ilkeleri / dağıtım ortamı",
-        "E": "sunma / keskin ayrım biçimleri",
+        "E": "sunma / keskin ayrım biçimleri",
         "DogruCevap": "A",
         "DersAd": "Engellilik ve Erişilebilir Tasarım",
         "Unite": 4,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital ortamlarda tasarım unsurlarını etkileyen durumlar: Dijital ortamın <strong>dağıtım ortamı </strong>özelliği, dijital ortamın sunum şekilleri sunma özelliği ve dijital ortamların <strong>duyuşsal algı biçimleri üzerindeki etkisidir.</strong>"
+        "Aciklama": "Dijital ortamlarda tasarım unsurlarını etkileyen durumlar: Dijital ortamın <strong>dağıtım ortamı </strong>özelliği, dijital ortamın sunum şekilleri sunma özelliği ve dijital ortamların <strong>duyuşsal algı biçimleri üzerindeki etkisidir.</strong>"
     },
     {
         "SoruID": 3863210,
@@ -561,7 +561,7 @@
     },
     {
         "SoruID": 3863213,
-        "SoruMetni": "İşitme engelli kullanıcıların video dökümü ile videoları izlemesinin sağlanması ve altyazı alternatifinin sağlanması evrensel tasarım ilkelerinden hangisi ile ilişkilidir?",
+        "SoruMetni": "İşitme engelli kullanıcıların video dökümü ile videoları izlemesinin sağlanması ve altyazı alternatifinin sağlanması evrensel tasarım ilkelerinden hangisi ile ilişkilidir?",
         "A": "Algınalabilir bilgi",
         "B": "Adil, eşitlikçi kullanım",
         "C": "Kullanımda esneklik",
@@ -577,6 +577,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İşitme engelli kullanıcıların video dökümü ile videoları izlemesinin sağlanması ve altyazı alternatifinin sağlanması evrensel tasarım ilkelerinden <strong>algılanabilir bilgi</strong> ile ilişkilidir."
+        "Aciklama": "İşitme engelli kullanıcıların video dökümü ile videoları izlemesinin sağlanması ve altyazı alternatifinin sağlanması evrensel tasarım ilkelerinden <strong>algılanabilir bilgi</strong> ile ilişkilidir."
     }
 ]

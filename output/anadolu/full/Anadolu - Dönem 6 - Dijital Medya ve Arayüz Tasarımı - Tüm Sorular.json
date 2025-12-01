@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3593441,
-        "SoruMetni": "…………………………..; fikirlerin düşük maliyetli, hızlı ve somut modelleridir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "…………………………..; fikirlerin düşük maliyetli, hızlı ve somut modelleridir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Amblemler",
         "B": "Videolar",
         "C": "Tasarımlar",
@@ -282,10 +282,10 @@
     {
         "SoruID": 3598566,
         "SoruMetni": "Aşağıdakilerden hangisi bir tasarım sürecinin ilk adımıdır?",
-        "A": "Problemi tanımlama<br/><br/>",
-        "B": "Öneri geliştirme<br/><br/>",
-        "C": "Taslak oluşturma<br/><br/>",
-        "D": "Prototip geliştirme<br/><br/>",
+        "A": "Problemi tanımlama",
+        "B": "Öneri geliştirme",
+        "C": "Taslak oluşturma",
+        "D": "Prototip geliştirme",
         "E": "Geribildirim",
         "DogruCevap": "A",
         "DersAd": "Dijital Medya ve Arayüz Tasarımı",
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ekonomiye katkı"
+        "Aciklama": "İBE, kullanıcı dostu, erişilebilir ve etkili arayüz tasarımları yoluyla teknolojiyi insan ihtiyaçlarına<br/>daha iyi hizmet eder hâle getirmeyi amaçlar. Sayfa 34 okuyup, bkz.<br>Ekonomiye katkı"
     },
     {
         "SoruID": 3592860,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bağlam"
+        "Aciklama": "Bağlam, kullanıcıların teknoloji ile etkileşime girdikleri fiziksel ve sosyal ortamı ifade eder."
     },
     {
         "SoruID": 3592862,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Arayüz"
+        "Aciklama": "Yazılım ve kullanıcı arasındaki iletişimi kolaylaştıran, komutları alıp işleyen ve bilgiyi kullanıcıya geri besleyen her türlü işlemi, aracı ve süresi kapsar.<br>Arayüz"
     },
     {
         "SoruID": 3592863,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çoklu ortamlar"
+        "Aciklama": "Arayüzler; grafik kullanıcı arayüzleri (GUI), komut satırı arayüzleri (CLI), dokunmatik ekranlar, sesli komut arayüzleri gibi çeşitli formlarda olabilir. Arayüzler, insanların bilgisayar sistemleriyle ile etkileşim kurabilmelerinin en temel aracıdır.<br>Çoklu ortamlar"
     },
     {
         "SoruID": 3592864,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Erişilebilirlik"
+        "Aciklama": "Erişebilirlik: Engelli kullanıcılar da dahil olmak üzere herkesin teknolojiyi kullanabilmesini sağlamayı hedefler.<br>Erişilebilirlik"
     },
     {
         "SoruID": 3592865,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İkon"
+        "Aciklama": "<strong>İkonlar:</strong> kullanıcıların uygulama içinde kolayca navigasyon yapmalarını sağlayan görsel ipuçlarıdır."
     },
     {
         "SoruID": 3592866,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Onay Kutusu (Checkbox)"
+        "Aciklama": "<strong>Onay Kutusu (Checkbox):</strong> Kullanıcının birden fazla seçeneği işaretlemesine imkân verir."
     },
     {
         "SoruID": 3592868,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Başlık (Header)"
+        "Aciklama": "Tipik bir web ya da mobil uygulama arayüzü üç ana bölümden oluşur: <strong>Başlık (header)</strong>, ana içerik (<strong>main content veya body)</strong> ve <strong>altbilgi (footer)</strong>."
     },
     {
         "SoruID": 3592870,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Modüler (Modular) Izgara Sistemi"
+        "Aciklama": "Modüler ızgaralar, farklı içerik türlerini (metin, resim, video vb.) bütünleştirmek için esnek bir yapı sunar. Tasarımcılar, içeriğin boyutuna ve türüne göre modülleri uygun şekilde boyutlandırabilirler.<br>Modüler (Modular) Izgara Sistemi"
     },
     {
         "SoruID": 3592872,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Grunge Design (Dağınık Tasarım)"
+        "Aciklama": "Popüler Tasarım Stilleri Arayüz tasarımı, çeşitli stil türlerini kullanarak estetik çeşitlilik sunan dinamik bir disiplindir. Bu stiller;...Flat Design (Düz Tasarım), Product-Oriented Design (Ürün Odaklı Tasarım), Typography-Centric Design (Tipografi Odaklı Tasarım), Minimalist Design (Minimalist Tasarım) ve Illustrative Design (İllüstratif Tasarım) popüler tasarım stillerinin başlıcalarıdır.<br>Grunge Design (Dağınık Tasarım)"
     },
     {
         "SoruID": 3597916,
@@ -641,7 +641,7 @@
     },
     {
         "SoruID": 3597919,
-        "SoruMetni": "Aşağıdakilerden hangisi arayüz ile ilgili <strong>yanlış</strong> bir ifadedir?",
+        "SoruMetni": "Aşağıdakilerden hangisi arayüz ile ilgili <strong>yanlış</strong> bir ifadedir?",
         "A": "Herhangi bir dijital cihaz ile kullanıcıları arasında etkileşimi sağlayan bir katmandır.",
         "B": "Komutları alıp işler ve bilgiyi kullanıcıya geri besleyen her türlü işlemi yapar.",
         "C": "Kullanıcıların bir sistemle deneyimini doğrudan etkiler.",
@@ -797,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kullanılabilirliğin beş temel prensiplerinden biri olan ve belirli bir görevi tamamlamak için gereken zaman ve kaynakların oranını verimlilik ile ifade ederiz"
+        "Aciklama": "Doğru yanıt verimlilik<br>Kullanılabilirliğin beş temel prensiplerinden biri olan ve belirli bir görevi tamamlamak için gereken zaman ve kaynakların oranını verimlilik ile ifade ederiz"
     },
     {
         "SoruID": 3594979,
@@ -817,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uygulama ve iyileştirme geribildirim döngüsü adımlarındandır"
+        "Aciklama": "Doğru yanıt A'dır<br>Uygulama ve iyileştirme geribildirim döngüsü adımlarındandır"
     },
     {
         "SoruID": 3594981,
@@ -837,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okunulabilirlik Gestalt ilkelerinden değildir."
+        "Aciklama": "Doğru yanıt E şıkkıdır.<br>Okunulabilirlik Gestalt ilkelerinden değildir."
     },
     {
         "SoruID": 3594983,
@@ -857,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Başlıklar, alt başlıklar ve metin blokları arasındaki uygun hiyerarşi, kullanıcıların içeriği tarayabilmesini ve önemli bilgileri bulmalarını sağlayan görsel hiyerarşidir."
+        "Aciklama": "Yanıt D şıkkıdır<br>Başlıklar, alt başlıklar ve metin blokları arasındaki uygun hiyerarşi, kullanıcıların içeriği tarayabilmesini ve önemli bilgileri bulmalarını sağlayan görsel hiyerarşidir."
     },
     {
         "SoruID": 3594986,
@@ -877,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaştığı ve her türlü düşünceye açık bir ortamda yapılan oturuma beyin fırtınası adı verilir."
+        "Aciklama": "Yanıt E şıkkıdır<br>Ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaştığı ve her türlü düşünceye açık bir ortamda yapılan oturuma beyin fırtınası adı verilir."
     },
     {
         "SoruID": 3594989,
@@ -897,13 +897,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "UX, kullanıcı araştırmaları, kullanıcı senaryoları ve kullanıcı hikayeleri gibi stratejik ve araştırma odaklı süreçleri içerirken UI, renk şemaları gibi daha görsel ve estetik özelliklere odaklanır"
+        "Aciklama": "Doğru yanıt D şıkkıdır.<br>UX, kullanıcı araştırmaları, kullanıcı senaryoları ve kullanıcı hikayeleri gibi stratejik ve araştırma odaklı süreçleri içerirken UI, renk şemaları gibi daha görsel ve estetik özelliklere odaklanır"
     },
     {
         "SoruID": 3595028,
         "SoruMetni": "Aşağıdakilerden hangisi kullanıcı deneyimi tasarım araçlarının takım içindeki iş birliğini arttırmak ve tutarlı tasarım sistemleri oluşturmak için sağladığı özelliklerden biri değildir?",
         "A": "tasarım ve prototipleme",
-        "B": "iş  birliği ve paylaşım",
+        "B": "iş birliği ve paylaşım",
         "C": "kullanabilirlik testleri",
         "D": "kullanıcılardan geri bildirim alma",
         "E": "görsel hiyerarşi",
@@ -917,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kullanıcı deneyimi tasarım araçlarının takım içindeki iş birliğini arttırmak ve tutarlı tasarım sistemleri oluşturmak için sağladığı özelliklerden biri görsel hiyerarşi değildir."
+        "Aciklama": "Doğru yanıt E şıkkıdır<br>Kullanıcı deneyimi tasarım araçlarının takım içindeki iş birliğini arttırmak ve tutarlı tasarım sistemleri oluşturmak için sağladığı özelliklerden biri görsel hiyerarşi değildir."
     },
     {
         "SoruID": 3595032,
@@ -937,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Adobe XD, Adobe bünyesinde bir yazılımdır"
+        "Aciklama": "Yanıt C şıkkıdır<br>Adobe XD, Adobe bünyesinde bir yazılımdır"
     },
     {
         "SoruID": 3595034,
@@ -957,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ürünlerin sadece işlevsel olmaktan öteye geçerek kullanıcılar üzerinde olumlu bir duygusal etki bırakmayı hedeflemesini açıklayan kavram duygu tasarımıdır"
+        "Aciklama": "Yanıt A şıkkıdır<br>Ürünlerin sadece işlevsel olmaktan öteye geçerek kullanıcılar üzerinde olumlu bir duygusal etki bırakmayı hedeflemesini açıklayan kavram duygu tasarımıdır"
     },
     {
         "SoruID": 3595036,
@@ -977,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Aynı doğrultuda olan ve birbirine bağlı olan unsurların, insanlar tarafından aynı gruba ait olarak algılanmasını devamlılık kavramı ifade eder"
+        "Aciklama": "Yanıt D şıkkıdır<br>Aynı doğrultuda olan ve birbirine bağlı olan unsurların, insanlar tarafından aynı gruba ait olarak algılanmasını devamlılık kavramı ifade eder"
     },
     {
         "SoruID": 3592891,
@@ -1097,7 +1097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Duyarlı tasarımın temel bileşenleri şunlardır:<br/> • <strong>Esnek Sayfa Düzenleri:</strong> CSS kullanılarak, sayfa düzeninin (layout) genişlik ve yükseklik değerleri yüzdelik birimler gibi esnek birimlerle tanımlanır. Bu sayede, sayfa düzeni cihaz ekranının boyutuna göre genişleyebilir veya daralabilir.<br/> •<strong> Esnek Görseller ve Medya:</strong> Görseller, videolar ve diğer medya türleri, içerisinde bulundukları konteynerlerin (div, section, vb.) genişliğine ve/veya yüksekliğine göre boyutlandırılır.<br/> • <strong>Medya Sorguları (Media Queries):</strong> CSS medya sorguları; cihazın özelliklerine (ekran çözünürlüğü, cihaz tipi, yatay/dikey tutuş pozisyonu, vb.) göre farklı stil kurallarının uygulanmasını sağlar. Medya sorgularını kullanarak tasarımcılar, farklı ekran boyutları için özelleştirilmiş düzenler ve stiller oluşturabilir."
+        "Aciklama": "Duyarlı tasarımın temel bileşenleri şunlardır:<br/>• <strong>Esnek Sayfa Düzenleri:</strong> CSS kullanılarak, sayfa düzeninin (layout) genişlik ve yükseklik değerleri yüzdelik birimler gibi esnek birimlerle tanımlanır. Bu sayede, sayfa düzeni cihaz ekranının boyutuna göre genişleyebilir veya daralabilir.<br/>•<strong> Esnek Görseller ve Medya:</strong> Görseller, videolar ve diğer medya türleri, içerisinde bulundukları konteynerlerin (div, section, vb.) genişliğine ve/veya yüksekliğine göre boyutlandırılır.<br/>• <strong>Medya Sorguları (Media Queries):</strong> CSS medya sorguları; cihazın özelliklerine (ekran çözünürlüğü, cihaz tipi, yatay/dikey tutuş pozisyonu, vb.) göre farklı stil kurallarının uygulanmasını sağlar. Medya sorgularını kullanarak tasarımcılar, farklı ekran boyutları için özelleştirilmiş düzenler ve stiller oluşturabilir."
     },
     {
         "SoruID": 3594194,
@@ -1137,7 +1137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Android işletim sistemi, farklı cihaz türleri için özelleştirilmiş çeşitli sürümlere sahiptir. Bu sürümler, spesifik cihazların ihtiyaçlarına ve kullanım senaryolarına göre tasarlanmıştır.<br/> • Wear OS: Özellikle akıllı saatler ve giyilebilir cihazlar için tasarlanmıştır."
+        "Aciklama": "Android işletim sistemi, farklı cihaz türleri için özelleştirilmiş çeşitli sürümlere sahiptir. Bu sürümler, spesifik cihazların ihtiyaçlarına ve kullanım senaryolarına göre tasarlanmıştır.<br/>• Wear OS: Özellikle akıllı saatler ve giyilebilir cihazlar için tasarlanmıştır."
     },
     {
         "SoruID": 3594882,
@@ -1157,7 +1157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Büyük teknoloji firmalarının tasarım vizyonunu yansıtan bu sistemler; pek çok farklı açıdan kullanıcıları, sektörü ve tasarımcıları etkilemektedir:<br/> Standartlaşma ve Tutumluluk<br/> İnovasyon ve Kullanıcı Deneyimi<br/> Kullanıcı Beklentilerinin Yönlendirilmesi<br/> Yaratıcılığın Sınırlanması"
+        "Aciklama": "Büyük teknoloji firmalarının tasarım vizyonunu yansıtan bu sistemler; pek çok farklı açıdan kullanıcıları, sektörü ve tasarımcıları etkilemektedir:<br/>Standartlaşma ve Tutumluluk<br/>İnovasyon ve Kullanıcı Deneyimi<br/>Kullanıcı Beklentilerinin Yönlendirilmesi<br/>Yaratıcılığın Sınırlanması"
     },
     {
         "SoruID": 3594887,
@@ -1177,11 +1177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fluent Design’ın temeli derinlik, hareket, malzeme, ışık ve ölçek olmak üzere beş ana unsur üzerine kuruludur:<br/> Derinlik: Fluent Design’da derinlik, kullanıcı arayüzlerine katmanlar ve görsel hiyerarşi ekleyerek daha zengin bir deneyim oluşturmayı ve uygulamalar arası geçişleri, içerik organizasyonunu daha sezgisel hâle getirmeyi amaçlar; kullanıcılara hangi elementlerin etkileşime açık olduğunu ve hangi içeriğin önemli olduğunu görsel olarak iletmeye yardımcı olur."
+        "Aciklama": "Fluent Design’ın temeli derinlik, hareket, malzeme, ışık ve ölçek olmak üzere beş ana unsur üzerine kuruludur:<br/>Derinlik: Fluent Design’da derinlik, kullanıcı arayüzlerine katmanlar ve görsel hiyerarşi ekleyerek daha zengin bir deneyim oluşturmayı ve uygulamalar arası geçişleri, içerik organizasyonunu daha sezgisel hâle getirmeyi amaçlar; kullanıcılara hangi elementlerin etkileşime açık olduğunu ve hangi içeriğin önemli olduğunu görsel olarak iletmeye yardımcı olur."
     },
     {
         "SoruID": 3596818,
-        "SoruMetni": "Aşağıdakilerden hangisi Favori web tarayıcınızı kullanarak bir web adresine erişmek istediğinizde istemci ve sunucu arasında yürütülen işlem adımlarından birisi değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Favori web tarayıcınızı kullanarak bir web adresine erişmek istediğinizde istemci ve sunucu arasında yürütülen işlem adımlarından birisi değildir?",
         "A": "Adım 1: URL Kullanımı",
         "B": "Adım 2: DNS Sorgulama",
         "C": "Adım 3: HTTP İsteği",
@@ -1241,7 +1241,7 @@
     },
     {
         "SoruID": 3597040,
-        "SoruMetni": "Aşağıdakilerden hangisi JavaScript’in yaygın kullanım biçimleri ve alanlarından <strong>değildir?</strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi JavaScript’in yaygın kullanım biçimleri ve alanlarından <strong>değildir?</strong>",
         "A": "Seçici (Selector)",
         "B": "Ön Uç Geliştirme",
         "C": "Arka Uç Geliştirme",
@@ -1261,7 +1261,7 @@
     },
     {
         "SoruID": 3597043,
-        "SoruMetni": "Aşağıdakilerden hangisi Web arayüzlerini diğer arayüz türlerinden, özellikle geleneksel masaüstü ve mobil uygulama arayüzlerinden ayrıştıran bazı temel unsurlardan değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Web arayüzlerini diğer arayüz türlerinden, özellikle geleneksel masaüstü ve mobil uygulama arayüzlerinden ayrıştıran bazı temel unsurlardan değildir?",
         "A": "Platform Bağımsızlığı",
         "B": "Canlı Güncellemeler",
         "C": "Kapsam ve Uygulama",
@@ -1281,7 +1281,7 @@
     },
     {
         "SoruID": 3597242,
-        "SoruMetni": "Aşağıdakilerden hangisi Web ve arayüz (UI) tasarımı süreçleri, temelde<br/>benzer aşamalardan geçse de odaklandıkları alanlarda ve uygulamalarda bazı farklılıklar gösterirler.<br/>Her iki süreç arasındaki ayrışma, özellikle tasarımın kapsamı, teknik gereklilikler ve etkileşim detaylarına dair aşamalardan biridir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Web ve arayüz (UI) tasarımı süreçleri, temelde<br/>benzer aşamalardan geçse de odaklandıkları alanlarda ve uygulamalarda bazı farklılıklar gösterirler.<br/>Her iki süreç arasındaki ayrışma, özellikle tasarımın kapsamı, teknik gereklilikler ve etkileşim detaylarına dair aşamalardan biridir?",
         "A": "Canlı Güncellemeler",
         "B": "Teknik Bilgi ve Araçlar",
         "C": "Erişilebilirlik ve Uyumluluk",
@@ -1301,7 +1301,7 @@
     },
     {
         "SoruID": 3597243,
-        "SoruMetni": "Aşağıdakilerden hangisi Duyarlı tasarımın temel bileşenlerinden biridir?<br/><br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi Duyarlı tasarımın temel bileşenlerinden biridir?",
         "A": "Esnek Sayfa Düzenleri",
         "B": "Etkileşim ve Animasyon:",
         "C": "Teknik Bilgi ve Araçlar",
@@ -1321,7 +1321,7 @@
     },
     {
         "SoruID": 3597256,
-        "SoruMetni": "Aşağıdakilerden hangisi Tasarım sistemleri, arayüz ve kullanıcı deneyimine yönelik standartlar, uygulama örnekleri ve<br/>öneriler sunarak tutarlı, kullanıcı dostu ve estetik<br/>açıdan etkileyici mobil, web ve masaüstü uygulamalar geliştirilmesine yardımcı olmaktadır. Büyük<br/>teknoloji firmalarının tasarım vizyonunu yansıtan<br/>bu sistemler; pek çok farklı açıdan kullanıcıları,<br/>sektörü ve tasarımcılara olan etklerinden biri değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Tasarım sistemleri, arayüz ve kullanıcı deneyimine yönelik standartlar, uygulama örnekleri ve<br/>öneriler sunarak tutarlı, kullanıcı dostu ve estetik<br/>açıdan etkileyici mobil, web ve masaüstü uygulamalar geliştirilmesine yardımcı olmaktadır. Büyük<br/>teknoloji firmalarının tasarım vizyonunu yansıtan<br/>bu sistemler; pek çok farklı açıdan kullanıcıları,<br/>sektörü ve tasarımcılara olan etklerinden biri değildir?",
         "A": "Standartlaşma ve Tutumluluk",
         "B": "İnovasyon ve Kullanıcı Deneyimi",
         "C": "Kullanıcı Beklentilerinin Yönlendirilmesi",
@@ -1341,7 +1341,7 @@
     },
     {
         "SoruID": 3597269,
-        "SoruMetni": "Aşağıdakilerden hangisi Fluent Design’ın temel unsurlarından değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Fluent Design’ın temel unsurlarından değildir?",
         "A": "Derinlik",
         "B": "Hareket",
         "C": "Malzeme",
@@ -1361,7 +1361,7 @@
     },
     {
         "SoruID": 3597288,
-        "SoruMetni": "iOS mobil işletim sistemi de araçların ihtiyaçlarına uygun tasarlanmıştır.Aşağıdakilerden hangisi bunlardan biridir?<br/><br/>",
+        "SoruMetni": "iOS mobil işletim sistemi de araçların ihtiyaçlarına uygun tasarlanmıştır.Aşağıdakilerden hangisi bunlardan biridir?",
         "A": "iPadOS",
         "B": "Wear OS:",
         "C": "Android Auto",
@@ -1397,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1906 yılında J. Stuart Blackton tarafından yapılan ve animasyonun ilk örneklerinden biri olarak görülen film <span style=\"font-weight: 400;\">The Humorous Phases of Funny Faces'dir</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br>1906 yılında J. Stuart Blackton tarafından yapılan ve animasyonun ilk örneklerinden biri olarak görülen film <span style=\"font-weight: 400;\">The Humorous Phases of Funny Faces'dir</span>"
     },
     {
         "SoruID": 3601490,
@@ -1417,12 +1417,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">1834 yılında İngiliz matematikçi William Horner tarafından icat edilen cihaz Zoetrope'dur</span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">1834 yılında İngiliz matematikçi William Horner tarafından icat edilen cihaz Zoetrope'dur</span>"
     },
     {
         "SoruID": 3601491,
         "SoruMetni": "<span style=\"font-weight: 400;\">Dünyanın ilk uzun metraj 3B animasyon filmi aşağıdakilerden hangisidir?</span>",
-        "A": "<span style=\"font-weight: 400;\">Snow White </span>",
+        "A": "<span style=\"font-weight: 400;\">Snow White </span>",
         "B": "<span style=\"font-weight: 400;\">Seven Dwarfs</span>",
         "C": "<span style=\"font-weight: 400;\">Toy Story</span>",
         "D": "<span style=\"font-weight: 400;\">Madagaskar</span>",
@@ -1437,7 +1437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Dünyanın ilk uzun metraj 3B animasyon filmi Toy Story'dir. </span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">Dünyanın ilk uzun metraj 3B animasyon filmi Toy Story'dir. </span>"
     },
     {
         "SoruID": 3601492,
@@ -1457,11 +1457,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karakter ve nesnelerin üç boyutlu görünmesini sağlamak için hacim, ağırlık, denge ve anatomiyi dikkate alan çizimler oluşturmayı ifade eden prensip sağlam çizimdir."
+        "Aciklama": "Doğru şık D'dir.<br>Karakter ve nesnelerin üç boyutlu görünmesini sağlamak için hacim, ağırlık, denge ve anatomiyi dikkate alan çizimler oluşturmayı ifade eden prensip sağlam çizimdir."
     },
     {
         "SoruID": 3601493,
-        "SoruMetni": "<span style=\"font-weight: 400;\">Hareketin yer aldığı kompozisyonun arka plan, ışık kullanımı ve kamera açılarıyla desteklenmesini ifade eden prensip hangisidir? </span>",
+        "SoruMetni": "<span style=\"font-weight: 400;\">Hareketin yer aldığı kompozisyonun arka plan, ışık kullanımı ve kamera açılarıyla desteklenmesini ifade eden prensip hangisidir? </span>",
         "A": "<span style=\"font-weight: 400;\">Sahneleme</span>",
         "B": "<span style=\"font-weight: 400;\">Öncülük</span>",
         "C": "<span style=\"font-weight: 400;\">Takip ve Üst Üste Binme Hareketi</span>",
@@ -1477,7 +1477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Hareketin yer aldığı kompozisyonun arka plan, ışık kullanımı ve kamera açılarıyla desteklenmesini ifade eden prensip sahnelemedir</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">Hareketin yer aldığı kompozisyonun arka plan, ışık kullanımı ve kamera açılarıyla desteklenmesini ifade eden prensip sahnelemedir</span>"
     },
     {
         "SoruID": 3601494,
@@ -1497,11 +1497,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Animasyonlarda karaktere bir iskelet sistemi eklenerek doğal insan hareketleri simüle edilmesine rigging denir</span>"
+        "Aciklama": "Doğru yanıt B şıkkıdır<br><span style=\"font-weight: 400;\">Animasyonlarda karaktere bir iskelet sistemi eklenerek doğal insan hareketleri simüle edilmesine rigging denir</span>"
     },
     {
         "SoruID": 3601495,
-        "SoruMetni": "<span style=\"font-weight: 400;\">2B animasyonlarda uygulanan bir teknikle, ana kareler (keyframe) animatör tarafından tasarlandıktan sonra hareketi meydana getirecek ara kareler (frame) animasyon yazılımı tarafından otomatik olarak oynatılır. Bu tekniğin adı nedir? </span>",
+        "SoruMetni": "<span style=\"font-weight: 400;\">2B animasyonlarda uygulanan bir teknikle, ana kareler (keyframe) animatör tarafından tasarlandıktan sonra hareketi meydana getirecek ara kareler (frame) animasyon yazılımı tarafından otomatik olarak oynatılır. Bu tekniğin adı nedir? </span>",
         "A": "<span style=\"font-weight: 400;\">Tweening</span>",
         "B": "<span style=\"font-weight: 400;\">Rigging</span>",
         "C": "<span style=\"font-weight: 400;\">Frame by frame</span>",
@@ -1517,11 +1517,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bahsedilen tekniğin adı tweening'dir."
+        "Aciklama": "Doğru yanıt A şıkkıdır.<br>Bahsedilen tekniğin adı tweening'dir."
     },
     {
         "SoruID": 3601496,
-        "SoruMetni": "<span style=\"font-weight: 400;\">Videolar genellikle çok büyük dosya boyutlarına sahip olduğundan veri depolama ve aktarımı kolaylaştırmak için bazı  video kodlama standartlarını kullanılarak sıkıştırılır. Aşağıdakilerden hangisi bunlardan birisidir?</span>",
+        "SoruMetni": "<span style=\"font-weight: 400;\">Videolar genellikle çok büyük dosya boyutlarına sahip olduğundan veri depolama ve aktarımı kolaylaştırmak için bazı video kodlama standartlarını kullanılarak sıkıştırılır. Aşağıdakilerden hangisi bunlardan birisidir?</span>",
         "A": "<span style=\"font-weight: 400;\">H.264 </span>",
         "B": "<span style=\"font-weight: 400;\">CCD</span>",
         "C": "CMOS",
@@ -1537,7 +1537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">H.264 bir sıkıştırma türüdür.</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">H.264 bir sıkıştırma türüdür.</span>"
     },
     {
         "SoruID": 3601497,
@@ -1557,7 +1557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir öğenin yavaşça kaybolup başka bir görüntü veya ögeyle değişmesi dissolve ile ifade edilir"
+        "Aciklama": "Doğru yanıt D şıkkıdır<br>Bir öğenin yavaşça kaybolup başka bir görüntü veya ögeyle değişmesi dissolve ile ifade edilir"
     },
     {
         "SoruID": 3601427,
@@ -1581,7 +1581,7 @@
     },
     {
         "SoruID": 3601428,
-        "SoruMetni": "Aşağıda verilen cümlede, bırakılan boşluklara gelmesi gereken yanıt çiftini seçeneklere göre belirleyiniz.<br/><br/>Bir dijital oyunda……………….. eylemi   ……………. mekanik örneğidir.",
+        "SoruMetni": "Aşağıda verilen cümlede, bırakılan boşluklara gelmesi gereken yanıt çiftini seçeneklere göre belirleyiniz.<br/>Bir dijital oyunda……………….. eylemi ……………. mekanik örneğidir.",
         "A": "Ana karakterin koşması/ikincil",
         "B": "Ana karakterin harita toplaması /temel",
         "C": "Ana karakterin sağa sola dönmesi/ yardımcı",
@@ -1701,7 +1701,7 @@
     },
     {
         "SoruID": 3601434,
-        "SoruMetni": "Dijital oyunlarda klavyedeki A tuşu en yaygın kullanımıyla  hangi hareketi sağlar?",
+        "SoruMetni": "Dijital oyunlarda klavyedeki A tuşu en yaygın kullanımıyla hangi hareketi sağlar?",
         "A": "İleri",
         "B": "Geri",
         "C": "Yukarı",
@@ -1721,7 +1721,7 @@
     },
     {
         "SoruID": 3601435,
-        "SoruMetni": "<em>Mobil oyunlar, çoğunlukla dokunmatik ekranlar üzerinde oynandığından kullanıcı arayüzü (UI) tasarımları bazı temel jestlere (gesture) dayalı olarak yapılandırılır</em>.<br/><br/>Aşağıdakilerden hangisi mobil oyun arayüzlerinde kullanılan jestlerden biri olarak <span style=\"text-decoration: underline;\">nitelendirilemez</span>?",
+        "SoruMetni": "<em>Mobil oyunlar, çoğunlukla dokunmatik ekranlar üzerinde oynandığından kullanıcı arayüzü (UI) tasarımları bazı temel jestlere (gesture) dayalı olarak yapılandırılır</em>.<br/>Aşağıdakilerden hangisi mobil oyun arayüzlerinde kullanılan jestlerden biri olarak <span style=\"text-decoration: underline;\">nitelendirilemez</span>?",
         "A": "Dokunma",
         "B": "Kaydırma",
         "C": "Sürükleme",
@@ -1737,11 +1737,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyunlar tasarlanırken bilgisayar veya konsol oyunlarındaki gibi karmaşık tuş kombinasyonları ve karmaşık kontrolleri mobil tasarımda uygulamak mümkün değildir. Piyasadaki en popüler oyunlar, kullanıcıların sadece gerekli eylemleri gerçekleştirmelerine yardımcı olan belirli özellikler setine sahiptir. Kontroller, oyuncuların ekran üzerindeki eylemleri kolayca ve sezgisel olarak gerçekleştirmelerine olanak tanımalıdır. <strong>Modifikasyon - Bilgisayarlarda oynanan oyunların kullanıcı tarafından geliştirilmesi ve değiştirilmesi  ise mobil oyunların değil, PC’leri diğer oyun platformlarından ayıran başlıca  özellikler içinde yer alır</strong>"
+        "Aciklama": "Oyunlar tasarlanırken bilgisayar veya konsol oyunlarındaki gibi karmaşık tuş kombinasyonları ve karmaşık kontrolleri mobil tasarımda uygulamak mümkün değildir. Piyasadaki en popüler oyunlar, kullanıcıların sadece gerekli eylemleri gerçekleştirmelerine yardımcı olan belirli özellikler setine sahiptir. Kontroller, oyuncuların ekran üzerindeki eylemleri kolayca ve sezgisel olarak gerçekleştirmelerine olanak tanımalıdır. <strong>Modifikasyon - Bilgisayarlarda oynanan oyunların kullanıcı tarafından geliştirilmesi ve değiştirilmesi ise mobil oyunların değil, PC’leri diğer oyun platformlarından ayıran başlıca özellikler içinde yer alır</strong>"
     },
     {
         "SoruID": 3601436,
-        "SoruMetni": "Aşağıdakilerden hangisi oyun arayüzlerindeki  oyun-içi  bileşenlere örnektir?",
+        "SoruMetni": "Aşağıdakilerden hangisi oyun arayüzlerindeki oyun-içi bileşenlere örnektir?",
         "A": "Oyun dünyasındaki harita",
         "B": "Skor tablosu",
         "C": "Karakter metinleri",
@@ -1777,11 +1777,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Gerçek Ortam,</strong> yalnızca fiziksel nesnelerden oluşur. <strong>Sanal Ortam</strong>, yalnızca dijital nesnelerden oluşur. <br/> <strong>Arttırılmış Gerçeklik:</strong> Gerçek dünyanın, sanal unsurlarla “arttırıldığı” bir ortama atıf yapar. Bir cep telefonu kamerası aracılığıyla gerçek dünya görüntülerine sanal nesnelerin veya bilgilerin eklenmesi arttırılmış gerçeklik uygulamalarına güzel bir örnektir.<br/> <strong>Arttırılmış Sanallık:</strong> Temelde sanal olan ancak gerçek dünya ögeleriyle zenginleştirilmiş ortamları ifade eder. Örneğin, bir video oyununda gerçek dünya fotoğraflarının veya videolarının kullanılması arttırılmış sanallık uygulaması olarak değerlendirilebilir.<br/> <strong>Sanal Gerçeklik:</strong> Kullanıcıları tamamen sanal bir ortamdaki gerçek üstü deneyimlere sürükleyen uygulamaları tanımlar. Genellikle başa takılan gözlükler aracılığıyla deneyimlenir ve kullanıcılara 360 derece, üç boyutlu bir deneyim sunmak üzere tasarlanır."
+        "Aciklama": "<strong>Gerçek Ortam,</strong> yalnızca fiziksel nesnelerden oluşur. <strong>Sanal Ortam</strong>, yalnızca dijital nesnelerden oluşur. <br/><strong>Arttırılmış Gerçeklik:</strong> Gerçek dünyanın, sanal unsurlarla “arttırıldığı” bir ortama atıf yapar. Bir cep telefonu kamerası aracılığıyla gerçek dünya görüntülerine sanal nesnelerin veya bilgilerin eklenmesi arttırılmış gerçeklik uygulamalarına güzel bir örnektir.<br/><strong>Arttırılmış Sanallık:</strong> Temelde sanal olan ancak gerçek dünya ögeleriyle zenginleştirilmiş ortamları ifade eder. Örneğin, bir video oyununda gerçek dünya fotoğraflarının veya videolarının kullanılması arttırılmış sanallık uygulaması olarak değerlendirilebilir.<br/><strong>Sanal Gerçeklik:</strong> Kullanıcıları tamamen sanal bir ortamdaki gerçek üstü deneyimlere sürükleyen uygulamaları tanımlar. Genellikle başa takılan gözlükler aracılığıyla deneyimlenir ve kullanıcılara 360 derece, üç boyutlu bir deneyim sunmak üzere tasarlanır."
     },
     {
         "SoruID": 3601438,
-        "SoruMetni": "Sanal gerçeklik teknolojisinin öncü fikirlerinden sayılan ve 1838'de Sir Charles Wheatstone tarafından icat edilen cihaz aşağıdakilerden hangisidir?",
+        "SoruMetni": "Sanal gerçeklik teknolojisinin öncü fikirlerinden sayılan ve 1838'de Sir Charles Wheatstone tarafından icat edilen cihaz aşağıdakilerden hangisidir?",
         "A": "Mavi Kutu",
         "B": "Stereoskop",
         "C": "Telesfer Maskesi",
@@ -1797,7 +1797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanal gerçeklik teknolojisinin kökeni, 19. yüzyılın önemli bilim insanlarından biri olan Sir Charles Wheatstone’ın 1838’de icat ettiği ve temelde üç boyutlu görüntü oluşturmaya yarayan <strong>stereoskop</strong> cihazına kadar dayanmaktadır. Bir görsel illüzyon oluşturma konsepti ile çalışan bu cihaz, 2B düzlemde beyni aldatarak üçüncü bir boyut eklemektedir. Stereoskop ile bir nesneye farklı açılardan odaklanıldığında insan beyni iki farklı görüntüyü birleştirmekte ve ortaya 3 boyutlu (3B) bir görüntü çıkmaktadır.<br/> 1929 yılında Edwin Albert Link tarafından icat edilen ve çoğunlukla <strong>Blue Box (Mavi Kutu)</strong> veya Link Trainer adıyla bilinen cihaz, dünyanın ilk ticari uçuş simülatörü olarak bilinmektedir. Link’in bu icadı, günümüzdeki sanal gerçeklik teknolojilerinin altında yatan pek çok yeniliğin ilham kaynağı olmuştur.<br/> Bugünkü anlamdaki sanal gerçeklik gözlüklerinin en ilkel versiyonlarından biri, 1960’ta Morton Heilig tarafından icat edilmiştir. <strong>Telesfer Maskesi</strong> adıyla bilinen bu cihaz, kullanıcının kafasına takabildiği, taşınabilir, bireysel kullanım amaçlı stereoskopik bir sisteme sahiptir.<br/> Morton Heilig tarafından çalışmalarına 1950’li yıllarda başlanan ve 1962 yılında alınan bir patent ile tescillenen <strong>Sensorama</strong>, yalnızca görüntü ve sesi değil tüm duyuları harekete geçiren bir tiyatro kabiniydi.<br/> Ivan E. Sutherland tarafından 1968 yılında hayata geçirilen <strong>Demokles’in Kılıcı</strong> isimli icat, o tarihe kadarki en gelişmiş başa takılan sanal gerçeklik cihazı (HMD) olarak dikkatleri üzerine toplamıştır."
+        "Aciklama": "Sanal gerçeklik teknolojisinin kökeni, 19. yüzyılın önemli bilim insanlarından biri olan Sir Charles Wheatstone’ın 1838’de icat ettiği ve temelde üç boyutlu görüntü oluşturmaya yarayan <strong>stereoskop</strong> cihazına kadar dayanmaktadır. Bir görsel illüzyon oluşturma konsepti ile çalışan bu cihaz, 2B düzlemde beyni aldatarak üçüncü bir boyut eklemektedir. Stereoskop ile bir nesneye farklı açılardan odaklanıldığında insan beyni iki farklı görüntüyü birleştirmekte ve ortaya 3 boyutlu (3B) bir görüntü çıkmaktadır.<br/>1929 yılında Edwin Albert Link tarafından icat edilen ve çoğunlukla <strong>Blue Box (Mavi Kutu)</strong> veya Link Trainer adıyla bilinen cihaz, dünyanın ilk ticari uçuş simülatörü olarak bilinmektedir. Link’in bu icadı, günümüzdeki sanal gerçeklik teknolojilerinin altında yatan pek çok yeniliğin ilham kaynağı olmuştur.<br/>Bugünkü anlamdaki sanal gerçeklik gözlüklerinin en ilkel versiyonlarından biri, 1960’ta Morton Heilig tarafından icat edilmiştir. <strong>Telesfer Maskesi</strong> adıyla bilinen bu cihaz, kullanıcının kafasına takabildiği, taşınabilir, bireysel kullanım amaçlı stereoskopik bir sisteme sahiptir.<br/>Morton Heilig tarafından çalışmalarına 1950’li yıllarda başlanan ve 1962 yılında alınan bir patent ile tescillenen <strong>Sensorama</strong>, yalnızca görüntü ve sesi değil tüm duyuları harekete geçiren bir tiyatro kabiniydi.<br/>Ivan E. Sutherland tarafından 1968 yılında hayata geçirilen <strong>Demokles’in Kılıcı</strong> isimli icat, o tarihe kadarki en gelişmiş başa takılan sanal gerçeklik cihazı (HMD) olarak dikkatleri üzerine toplamıştır."
     },
     {
         "SoruID": 3601439,
@@ -1821,7 +1821,7 @@
     },
     {
         "SoruID": 3601440,
-        "SoruMetni": "Sanal gerçeklik ortamında varlık ve telebulunma arasındaki temel fark, durumun algılanması ile ilgilidir. Varlık ........... algıyı, telebulunma ise .............. algıyı ifade eder.<br/><br/>Yukarıdaki boşluklara sırasıyla aşağıdaki şıklardan hangisi gelmelidir?",
+        "SoruMetni": "Sanal gerçeklik ortamında varlık ve telebulunma arasındaki temel fark, durumun algılanması ile ilgilidir. Varlık ........... algıyı, telebulunma ise .............. algıyı ifade eder.<br/>Yukarıdaki boşluklara sırasıyla aşağıdaki şıklardan hangisi gelmelidir?",
         "A": "aracılı - aracısız",
         "B": "doğal - yapay",
         "C": "yapay - aracısız",
@@ -1841,7 +1841,7 @@
     },
     {
         "SoruID": 3601441,
-        "SoruMetni": "Sanal gerçeklikte öğrenme sürecini daha interaktif ve uygulamalı hâle getiren bir yaklaşımdır. Kullanıcılara sanal ortamda belirli zorluklar, sorunlar ve görevler sunarak motor ve zihinsel becerilerini geliştirmelerine olanak tanır.<br/> Yukarıda bahsedilen sürükleyicilik türü aşağıdakilerden hangisidir?",
+        "SoruMetni": "Sanal gerçeklikte öğrenme sürecini daha interaktif ve uygulamalı hâle getiren bir yaklaşımdır. Kullanıcılara sanal ortamda belirli zorluklar, sorunlar ve görevler sunarak motor ve zihinsel becerilerini geliştirmelerine olanak tanır.<br/>Yukarıda bahsedilen sürükleyicilik türü aşağıdakilerden hangisidir?",
         "A": "Duyusal sürükleyicilik",
         "B": "Meydan okumaya dayalı sürükleyicilik",
         "C": "Yaratıcı sürükleyicilik",
@@ -1857,7 +1857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Duyusal Sürükleyicilik:</strong> Duyusal sürükleyicilik, bir kişinin bir ortama veya deneyime tamamen dalmış ve çevresel duyularıyla yoğun bir şekilde etkileşimde bulunduğu bir durumu ifade eder.<br/> <strong>Meydan okumaya dayalı sürükleyicilik:</strong> Sanal gerçeklikte öğrenme sürecini daha interaktif ve uygulamalı hâle getiren bir yaklaşımdır. Kullanıcılara sanal ortamda belirli zorluklar, sorunlar ve görevler sunarak motor ve zihinsel becerilerini geliştirmelerine olanak tanır.<br/> <strong>Yaratıcı sürükleyicilik:</strong> Kullanıcının gerçek dünyadan ayrılıp hayal gücünün rehberliğinde farklı bir dünyaya girdiği anları tanımlar. Bu tür bir sanal gerçeklik ortamı, özellikle deneyimlerin fiziksel tehlikesini azaltarak gerçek dünyada deneyimlenmesi mümkün olmayan senaryoların oluşturulmasına olanak tanımaktadır.<br/> <strong>Sembolik/Anlatısal Sürükleyicilik:</strong> Kullanıcının semboller, öyküler ve anlatılar aracılığıyla bir konsepte veya deneyime tamamen dalma durumunu ifade eder.<br/> <strong>Sosyal Sürükleyicilik:</strong> Sanal gerçeklik ortamları tek veya çok kullanıcılı olacak şekilde tasarlanabilmektedir. Çok kullanıcılı sanal gerçeklik uygulamaları genellikle internet bağlantısına sahiptir dolayısıyla katılımcılar sanal dünyalarda aynı anda benzer bir deneyimi paylaşabilirler."
+        "Aciklama": "<strong>Duyusal Sürükleyicilik:</strong> Duyusal sürükleyicilik, bir kişinin bir ortama veya deneyime tamamen dalmış ve çevresel duyularıyla yoğun bir şekilde etkileşimde bulunduğu bir durumu ifade eder.<br/><strong>Meydan okumaya dayalı sürükleyicilik:</strong> Sanal gerçeklikte öğrenme sürecini daha interaktif ve uygulamalı hâle getiren bir yaklaşımdır. Kullanıcılara sanal ortamda belirli zorluklar, sorunlar ve görevler sunarak motor ve zihinsel becerilerini geliştirmelerine olanak tanır.<br/><strong>Yaratıcı sürükleyicilik:</strong> Kullanıcının gerçek dünyadan ayrılıp hayal gücünün rehberliğinde farklı bir dünyaya girdiği anları tanımlar. Bu tür bir sanal gerçeklik ortamı, özellikle deneyimlerin fiziksel tehlikesini azaltarak gerçek dünyada deneyimlenmesi mümkün olmayan senaryoların oluşturulmasına olanak tanımaktadır.<br/><strong>Sembolik/Anlatısal Sürükleyicilik:</strong> Kullanıcının semboller, öyküler ve anlatılar aracılığıyla bir konsepte veya deneyime tamamen dalma durumunu ifade eder.<br/><strong>Sosyal Sürükleyicilik:</strong> Sanal gerçeklik ortamları tek veya çok kullanıcılı olacak şekilde tasarlanabilmektedir. Çok kullanıcılı sanal gerçeklik uygulamaları genellikle internet bağlantısına sahiptir dolayısıyla katılımcılar sanal dünyalarda aynı anda benzer bir deneyimi paylaşabilirler."
     },
     {
         "SoruID": 3601442,
@@ -1877,7 +1877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Şıklardaki şirketler ve çıkardıkları ürünlerin ismi aşağıdaki gibidir:<br/> Google Glass<br/> Apple Vision Pro<br/> Sony PlayStation VR<br/> Microsof HoloLens<br/> HTC Vive"
+        "Aciklama": "Şıklardaki şirketler ve çıkardıkları ürünlerin ismi aşağıdaki gibidir:<br/>Google Glass<br/>Apple Vision Pro<br/>Sony PlayStation VR<br/>Microsof HoloLens<br/>HTC Vive"
     },
     {
         "SoruID": 3601443,
@@ -1937,7 +1937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "XR projeleri, yüksek teknik bilgi birikimi gerektirir ve multidisipliner bir yaklaşımı zorunlu kılar bu nedenle en uygun geliştirme metodolojisini belirlemek, projenin sonuçlarını doğrudan etkiler. <strong>Çevik (Agile) metodolojisi,</strong> süreci kısa geliştirme döngüleri şeklinde yöneterek hızlı ve esnek bir geliştirme süreci sağlar; sürekli geri bildirim ile hızlı adaptasyonu mümkün kılar böylece değişen ihtiyaçlara çabucak yanıt verilebilir. Agile, değişken projeler için idealdir ve projenin her aşamasında işlevsel ürünlerin ya da ürün parçalarının teslim edilmesini hedefler. Scrum, Agile’ın en popüler çerçevelerinden biri olarak öne çıkar.<br/> Agile’a oranla daha geleneksel bir yaklaşım sunan <strong>Waterfall geliştirme modeli;</strong> projeyi gerek- sinim analizi, tasarım, implementasyon, test ve dağıtım olmak üzere belirli aşamalara ayırır. <em>Her bir geliştirme aşaması sırayla takip edilir</em> ve projenin geliştirme süreci doğrusal olarak yönetilir. Waterfall, özellikle baştan itibaren net bir şekilde tanımlanmış gereksinimlere sahip ve değişikliğe pek açık olmayan projeler için uygun bir seçenektir."
+        "Aciklama": "XR projeleri, yüksek teknik bilgi birikimi gerektirir ve multidisipliner bir yaklaşımı zorunlu kılar bu nedenle en uygun geliştirme metodolojisini belirlemek, projenin sonuçlarını doğrudan etkiler. <strong>Çevik (Agile) metodolojisi,</strong> süreci kısa geliştirme döngüleri şeklinde yöneterek hızlı ve esnek bir geliştirme süreci sağlar; sürekli geri bildirim ile hızlı adaptasyonu mümkün kılar böylece değişen ihtiyaçlara çabucak yanıt verilebilir. Agile, değişken projeler için idealdir ve projenin her aşamasında işlevsel ürünlerin ya da ürün parçalarının teslim edilmesini hedefler. Scrum, Agile’ın en popüler çerçevelerinden biri olarak öne çıkar.<br/>Agile’a oranla daha geleneksel bir yaklaşım sunan <strong>Waterfall geliştirme modeli;</strong> projeyi gerek- sinim analizi, tasarım, implementasyon, test ve dağıtım olmak üzere belirli aşamalara ayırır. <em>Her bir geliştirme aşaması sırayla takip edilir</em> ve projenin geliştirme süreci doğrusal olarak yönetilir. Waterfall, özellikle baştan itibaren net bir şekilde tanımlanmış gereksinimlere sahip ve değişikliğe pek açık olmayan projeler için uygun bir seçenektir."
     },
     {
         "SoruID": 3601446,
@@ -1981,7 +1981,7 @@
     },
     {
         "SoruID": 3601506,
-        "SoruMetni": "Hangi kurama göre teknolojik yenilikler toplumun her kesiminde aynı hızda ve aynı zamanda  gerçekleşmez?",
+        "SoruMetni": "Hangi kurama göre teknolojik yenilikler toplumun her kesiminde aynı hızda ve aynı zamanda gerçekleşmez?",
         "A": "Rogers- Yeniliklerin yayılması kuramı",
         "B": "Heidegger- Teknolojinin ekonomi politiği kuramı",
         "C": "Marcuse- Kültlürel farklılıklar kuramı",
@@ -1997,7 +1997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Rogers'ın yeniliklerin yayılması kuramına göre  teknolojik yenilikler toplumun her kesiminde aynı hızda ve zamanda gerçekleşmez. Doğru yanıt A'dır."
+        "Aciklama": "Rogers'ın yeniliklerin yayılması kuramına göre teknolojik yenilikler toplumun her kesiminde aynı hızda ve zamanda gerçekleşmez. Doğru yanıt A'dır."
     },
     {
         "SoruID": 3601512,
@@ -2021,7 +2021,7 @@
     },
     {
         "SoruID": 3601516,
-        "SoruMetni": "\"toplumun çoğunluğu güncel teknolojileri  kullanırken öncü kesimler .................... denemektedirler\"<br/> Yukarıdaki ifadede boş yere aşağıdakilerden hangisi gelebilir?",
+        "SoruMetni": "\"toplumun çoğunluğu güncel teknolojileri kullanırken öncü kesimler .................... denemektedirler\"<br/>Yukarıdaki ifadede boş yere aşağıdakilerden hangisi gelebilir?",
         "A": "Direnmeyi",
         "B": "Sınırdaki teknolojileri",
         "C": "Yapay zekayı",

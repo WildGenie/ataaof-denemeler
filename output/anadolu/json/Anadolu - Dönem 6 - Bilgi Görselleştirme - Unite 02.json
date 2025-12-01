@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karmaşık verileri daha anlaşılır ve hızlı bir şekilde iletmek amacıyla verileri görsel olarak temsil etmek için kullanılan grafik araçlarına diyagram denir"
+        "Aciklama": "Doğru yanıt diyagramdır<br>Karmaşık verileri daha anlaşılır ve hızlı bir şekilde iletmek amacıyla verileri görsel olarak temsil etmek için kullanılan grafik araçlarına diyagram denir"
     },
     {
         "SoruID": 3763434,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Johannes Kepler’in diyagramla gezegenlerin güneşe olan mesafeleriyle hızlarındaki değişimi matematiksel olarak açıkladığı kitabı Yeni Astronomi'dir"
+        "Aciklama": "Doğru yanıt Yeni Astronomi<br>Johannes Kepler’in diyagramla gezegenlerin güneşe olan mesafeleriyle hızlarındaki değişimi matematiksel olarak açıkladığı kitabı Yeni Astronomi'dir"
     },
     {
         "SoruID": 3763435,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Optik gözlemlerine dayanarak ayın ilk haritasını çizen Galileo Galilei'dir"
+        "Aciklama": "Yanıt Galileo Galilei'dir<br>Optik gözlemlerine dayanarak ayın ilk haritasını çizen Galileo Galilei'dir"
     },
     {
         "SoruID": 3763436,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mısır’ın Üçüncü Hanedanlığı Dönemi ve ardından üretilen mezar resimleri ve yazıtlarda kullanılan kavramlardan türetilen eser Ölüler Kitabı'dır"
+        "Aciklama": "Doğru yanıt Ölüler Kitabı<br>Mısır’ın Üçüncü Hanedanlığı Dönemi ve ardından üretilen mezar resimleri ve yazıtlarda kullanılan kavramlardan türetilen eser Ölüler Kitabı'dır"
     },
     {
         "SoruID": 3763437,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Itinerarium  Antik Roma’da yol haritalarını ifade eder"
+        "Aciklama": "Yanıt Antik Roma’da yol haritalarıdır<br>Itinerarium Antik Roma’da yol haritalarını ifade eder"
     },
     {
         "SoruID": 3763438,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mesafe, açı ve yükseklik ölçümleri gibi coğrafi özelliklerin doğru ölçümlerini almak için kullanılan ölçüm aletine nirengi denir"
+        "Aciklama": "Yanıt nirengidir<br>Mesafe, açı ve yükseklik ölçümleri gibi coğrafi özelliklerin doğru ölçümlerini almak için kullanılan ölçüm aletine nirengi denir"
     },
     {
         "SoruID": 3763439,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İskoç yazar ve bilim insanı William Playfair kartezyen koordinatları ve analitik geometriyi, istatiksel verileri sembolik grafiklere dönüştürmek için kullanmıştır"
+        "Aciklama": "Yanıt \"istatiksel verileri sembolik grafiklere dönüştürmek için kullanmıştır\"'tır.<br>İskoç yazar ve bilim insanı William Playfair kartezyen koordinatları ve analitik geometriyi, istatiksel verileri sembolik grafiklere dönüştürmek için kullanmıştır"
     },
     {
         "SoruID": 3763440,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kimya Prensipleri kitabını yayımlayan bilim insanı Dmitri Mendeleev'dir"
+        "Aciklama": "Yanıt Dmitri Mendeleev<br>Kimya Prensipleri kitabını yayımlayan bilim insanı Dmitri Mendeleev'dir"
     },
     {
         "SoruID": 3763441,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sosyal dokunun bilgigrafi tasarımcısı olarak tanımlanan isim Charles Booth'tur"
+        "Aciklama": "Yanıt Charles Booth<br>Sosyal dokunun bilgigrafi tasarımcısı olarak tanımlanan isim Charles Booth'tur"
     },
     {
         "SoruID": 3763442,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Döngüsel zaman modeli kullanarak tıbbi veriler üreten, “Doğru Ordusunda Ölüm Nedenleri Diyagramı” çalışmasını gerçekleştiren ünlü İngiliz Hemşire Florence Nightingale'dir."
+        "Aciklama": "Yanıt Florence Nightingale<br>Döngüsel zaman modeli kullanarak tıbbi veriler üreten, “Doğru Ordusunda Ölüm Nedenleri Diyagramı” çalışmasını gerçekleştiren ünlü İngiliz Hemşire Florence Nightingale'dir."
     },
     {
         "SoruID": 3763604,
@@ -217,11 +217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Isaac Newton’un biliminden etkilenen İngiliz entomolog (böcek bilimci) ve oymacı Moses Harris, ışık renkleri üzerine çalışan Newton’un aksine sadece somut dünyadaki renklerin ilişkileri üzerine çalışmıştır. 1769 ve 1776 yılları arasında yayımladığı “Prizmatik Renk Çemberi” (Prismatic color wheel) isimli çalışmasında, renklerin ve birbirleriyle olan ilişkilerinin farklılıklarının ortaya çıkarmaya çalışmıştır ve görsel kültür üzerinde derin bir etki bırakmıştır."
+        "Aciklama": "Isaac Newton’un biliminden etkilenen İngiliz entomolog (böcek bilimci) ve oymacı Moses Harris, ışık renkleri üzerine çalışan Newton’un aksine sadece somut dünyadaki renklerin ilişkileri üzerine çalışmıştır. 1769 ve 1776 yılları arasında yayımladığı “Prizmatik Renk Çemberi” (Prismatic color wheel) isimli çalışmasında, renklerin ve birbirleriyle olan ilişkilerinin farklılıklarının ortaya çıkarmaya çalışmıştır ve görsel kültür üzerinde derin bir etki bırakmıştır. Yayımladığı çalışmasındaki renk çemberi diyagramı, kırmızı, sarı ve maviden yeni renklerin nasıl oluşturulabileceğini gösterir ve üç ana rengin üst üste bindiği merkezi üçgende ortaya çıkan siyah karışımın açıklandığı ilk örnek olma özelliğini taşır."
     },
     {
         "SoruID": 3763605,
-        "SoruMetni": "<img alt=\"\" height=\"406\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/2fa73b76695b1f57cce33918fe5feaa4.png\" width=\"581\"/><br/> Görselde verilen “Biyografi Tablosu”nun bir yeni versiyonu olan “Yeni Bir Tarih Grafiği”ni, 1769 yılında yayımlanmıştır. Bu şema tasarımı aşağıdakilerden hangi tasarımcıya aittir?",
+        "SoruMetni": "<img alt=\"\" height=\"406\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/2fa73b76695b1f57cce33918fe5feaa4.png\" width=\"581\"/><br/>Görselde verilen “Biyografi Tablosu”nun bir yeni versiyonu olan “Yeni Bir Tarih Grafiği”ni, 1769 yılında yayımlanmıştır. Bu şema tasarımı aşağıdakilerden hangi tasarımcıya aittir?",
         "A": "Joseph Priestley",
         "B": "Harry Beck",
         "C": "Valentine Seaman",
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İngiliz teolog, din adamı ve doğal filozofluğunun yanında şema tasarımında da önemli bir isim olan Joseph Priestley (1733-1804), 1765 yılında MÖ 1200 ile 1800 yılları arasında yaşamış tarihin önemli figürlerini gösteren bir “Biyografi Tablosu” yayımlamıştır. Yaklaşık olarak 60x90 cm boyutundaki bir diyagram içeren ve iki bin isimden oluşan kitapçıkla, öğrencileri için tarih ve genel politikadaki derslerini somutlaştırmıştır. 1769 yılına gelindiğinde ise daha yeni versiyonu olarak “Yeni Bir Tarih Grafiği”ni tekrar yayımlanmıştır"
+        "Aciklama": "<img alt=\"\" height=\"398\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/c902fe294886e555d051224ba55513c6.png\" width=\"764\"/><br>İngiliz teolog, din adamı ve doğal filozofluğunun yanında şema tasarımında da önemli bir isim olan Joseph Priestley (1733-1804), 1765 yılında MÖ 1200 ile 1800 yılları arasında yaşamış tarihin önemli figürlerini gösteren bir “Biyografi Tablosu” yayımlamıştır. Yaklaşık olarak 60x90 cm boyutundaki bir diyagram içeren ve iki bin isimden oluşan kitapçıkla, öğrencileri için tarih ve genel politikadaki derslerini somutlaştırmıştır. 1769 yılına gelindiğinde ise daha yeni versiyonu olarak “Yeni Bir Tarih Grafiği”ni tekrar yayımlanmıştır"
     },
     {
         "SoruID": 3763606,
-        "SoruMetni": "İngiltere’nin 18. Yüzyıl Boyunca Ticari Gelişimi, Gelir, Gider ve Borçlarını Renkli Gravür Baskılarla Sunan Ticari ve Siyasi Atlası tasarımıyla ünlenen ve kartezyen koordinatları ve analitik geometriyi istatistiksel verileri sembolik grafiklere dönüştürmek için ustalıkla kullanan yazar ve bilim adamı aşağıdakilerden hangisidir?",
+        "SoruMetni": "İngiltere’nin 18. Yüzyıl Boyunca Ticari Gelişimi, Gelir, Gider ve Borçlarını Renkli Gravür Baskılarla Sunan Ticari ve Siyasi Atlası tasarımıyla ünlenen ve kartezyen koordinatları ve analitik geometriyi istatistiksel verileri sembolik grafiklere dönüştürmek için ustalıkla kullanan yazar ve bilim adamı aşağıdakilerden hangisidir?",
         "A": "Valentine Seaman",
         "B": "William Playfair",
         "C": "Peter Saville",
@@ -261,12 +261,12 @@
     },
     {
         "SoruID": 3763607,
-        "SoruMetni": "<img alt=\"\" height=\"412\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/97e0a1908f40e6c93d23c41b619b5a08.png\" width=\"571\"/><br/> Yukarıda verilen görsel kim tarafından tasarlanmıştır ve neyi göstermektedir?",
+        "SoruMetni": "<img alt=\"\" height=\"412\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/97e0a1908f40e6c93d23c41b619b5a08.png\" width=\"571\"/><br/>Yukarıda verilen görsel kim tarafından tasarlanmıştır ve neyi göstermektedir?",
         "A": "John Show - Londra’daki kolera salgını haritası",
-        "B": "Harry Beck - Londra’daki kolera salgını haritası",
-        "C": "Florence Nightingale -  Doğu Ordusunda Ölüm Nedenleri Diyagramı",
+        "B": "Harry Beck - Londra’daki kolera salgını haritası",
+        "C": "Florence Nightingale - Doğu Ordusunda Ölüm Nedenleri Diyagramı",
         "D": "Charles Joseph Minard - Londra Metrosu",
-        "E": "Harry Beck - Londra metrosu",
+        "E": "Harry Beck - Londra metrosu",
         "DogruCevap": "A",
         "DersAd": "Bilgi Görselleştirme",
         "Unite": 2,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<img alt=\"\" height=\"498\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/1f672a19ea19fc059359154422080cb9.png\" width=\"550\"/>"
+        "Aciklama": "<img alt=\"\" height=\"498\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/1f672a19ea19fc059359154422080cb9.png\" width=\"550\"/><br><img alt=\"\" height=\"498\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/1f672a19ea19fc059359154422080cb9.png\" width=\"550\"/>"
     },
     {
         "SoruID": 3763608,
@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 3763609,
-        "SoruMetni": "<img alt=\"\" height=\"346\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/b93033d30573cdb3cb5db103b89d08b5.png\" width=\"560\"/><br/> İngiliz hemşire Florence Nightingale’in, 1858’de yayımladığı döngüsel bir zaman modeli kullanarak ürettiği “Doğu Ordusunda Ölüm Nedenleri Diyagramı (Diagram of the Causes of Mortality in the Army in the East)” isimli tasarım aşağıdakilerden hangi veri yöntemini kullanmıştır?",
+        "SoruMetni": "<img alt=\"\" height=\"346\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/b93033d30573cdb3cb5db103b89d08b5.png\" width=\"560\"/><br/>İngiliz hemşire Florence Nightingale’in, 1858’de yayımladığı döngüsel bir zaman modeli kullanarak ürettiği “Doğu Ordusunda Ölüm Nedenleri Diyagramı (Diagram of the Causes of Mortality in the Army in the East)” isimli tasarım aşağıdakilerden hangi veri yöntemini kullanmıştır?",
         "A": "Gül grafikleri veya kutup grafiği",
         "B": "İstatistiksel ve resimsel grafikler",
         "C": "Çiçek grafikleri veya düz grafikler",
@@ -341,7 +341,7 @@
     },
     {
         "SoruID": 3763613,
-        "SoruMetni": "Charles Booth, Londra’daki İnsanların Emeği (Labour of the People in London) isimli ünlü sosyal araştırmasında, halkı sosyo ekonomik değerler üzerinden incelenmiştir. Booth'un bu incelemesinde en öne çıkan özellik aşağıdakilerden hangisidir? <img alt=\"\" height=\"256\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/1bd20ba392fa459a08c16609a83219e1.png\" width=\"642\"/>",
+        "SoruMetni": "Charles Booth, Londra’daki İnsanların Emeği (Labour of the People in London) isimli ünlü sosyal araştırmasında, halkı sosyo ekonomik değerler üzerinden incelenmiştir. Booth'un bu incelemesinde en öne çıkan özellik aşağıdakilerden hangisidir? <img alt=\"\" height=\"256\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/1bd20ba392fa459a08c16609a83219e1.png\" width=\"642\"/>",
         "A": "Sokak ve blokların yoksulluk ve refah derecelerine göre kromatik kodlanmış olması",
         "B": "Kullanılan yazı karakterinin tırnaksız (serifsiz) oluşu",
         "C": "İlk kez coğrafi bilgiyi kullanmış olması",
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Otto Neurath’ın Görsel Dil Mirası: ISOTYPE Avusturyalı ekonomist, ekonomi tarihçisi, filozof ve politikacı Otto Neurath (1882-1945), bu alanlardaki çalışmalarının yanında bilgi görselleştirmede de oldukça önemli çalışmalar gerçekleştirmiş ve bilgigrafi tarihine öncü isimlerden biri olarak geçmiştir. Uluslararası bir dil yaratma arzusuyla ortaya çıkan ISOTYPE hareketi, özellikle katmanlı ve istatistiki bilgiyi vermek için görsel temsiller kullanılmasını öngörmektedir."
+        "Aciklama": "Avusturyalı ekonomist, ekonomi tarihçisi, filozof ve politikacı Otto Neurath (1882-1945), bu alanlardaki çalışmalarının yanında bilgi görselleştirmede de oldukça önemli çalışmalar gerçekleştirmiş ve bilgigrafi tarihine öncü isimlerden biri olarak geçmiştir. Neurath, “Görsel eğitimin, entelektüel demokrasinin toplumlardaki ve insanlık içindeki genişlemesiyle ilişkili olduğunu” savunmuştur (Oven ve Požar, 2016). Neurath, Viyana merkezli konut, şehircilik, toplum ve ekonomi başlıklarıyla ilgili iki müzenin kurulmasını sağlamış ve bu müzeleri yönetmiştir. Müzelerin sergilerini oluşturmak için çalışırken, aralarında grafik tasarımcı Gerd Arntz’ın da bulunduğu ekibiyle birlikte önceleri “Viyana Yöntemi” olarak isimlendirdikleri görsel bir dil yaratmışlardır. Daha sonra ismine 42 “Uluslararası Tipografik Resim Eğitimi SistemiISOTYPE” dedikleri bu ikonik görsel dil, “bazı değerli bilgileri sunmak, çarpıcı bir şekilde bir ilişki veya gelişme göstermek, ilgiyi uyandırmak, dikkati yönlendirmek ve seyirciyi aktif katı<br>Otto Neurath’ın Görsel Dil Mirası: ISOTYPE Avusturyalı ekonomist, ekonomi tarihçisi, filozof ve politikacı Otto Neurath (1882-1945), bu alanlardaki çalışmalarının yanında bilgi görselleştirmede de oldukça önemli çalışmalar gerçekleştirmiş ve bilgigrafi tarihine öncü isimlerden biri olarak geçmiştir. Uluslararası bir dil yaratma arzusuyla ortaya çıkan ISOTYPE hareketi, özellikle katmanlı ve istatistiki bilgiyi vermek için görsel temsiller kullanılmasını öngörmektedir."
     },
     {
         "SoruID": 3763615,

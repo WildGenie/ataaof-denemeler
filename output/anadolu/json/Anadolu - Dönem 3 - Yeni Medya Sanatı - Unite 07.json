@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3641450,
-        "SoruMetni": "I. Generatif sanat tarihi eskilere dayanmakla birlikte, bilgisayar teknolojisinin yaygınlaşmasıyla daha geniş kitlelere ulaşmıştır.<br/> II. Generatif sanatı anlamaya çalışırken onu bilgisayar sanatı, evrimsel sanat, robotik sanat, kod sanatı gibi kategorilerden biri olarak değerlendirmek gerekir.<br/> III. Generatif sanat içeriği üretmek kadar içeriği üreten sistemleri keşfetmeyi de kapsar.<br/> Generatif sanat ile ilgili yukarıda verilen bilgilerden hangisi/hangileri doğrudur?",
+        "SoruMetni": "I. Generatif sanat tarihi eskilere dayanmakla birlikte, bilgisayar teknolojisinin yaygınlaşmasıyla daha geniş kitlelere ulaşmıştır.<br/>II. Generatif sanatı anlamaya çalışırken onu bilgisayar sanatı, evrimsel sanat, robotik sanat, kod sanatı gibi kategorilerden biri olarak değerlendirmek gerekir.<br/>III. Generatif sanat içeriği üretmek kadar içeriği üreten sistemleri keşfetmeyi de kapsar.<br/>Generatif sanat ile ilgili yukarıda verilen bilgilerden hangisi/hangileri doğrudur?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 3641452,
-        "SoruMetni": "I. Somut çıktı<br/> II. İçerik ve form<br/> III. Sistem ve süreç<br/> IV. Kontrol<br/> Yukarıdakilerden hangileri generatif bir sanat eserinin iki yüzeyi arasında yer alır?",
+        "SoruMetni": "I. Somut çıktı<br/>II. İçerik ve form<br/>III. Sistem ve süreç<br/>IV. Kontrol<br/>Yukarıdakilerden hangileri generatif bir sanat eserinin iki yüzeyi arasında yer alır?",
         "A": "I ve II",
         "B": "I ve III",
         "C": "II ve III",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 3641459,
-        "SoruMetni": "Kodla üretilmiş bir sanat eserine bakıldığında programcılığın en temel yapı taşı olan ……………… kullanıldığı hemen farkedilebilir.<br/> Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "Kodla üretilmiş bir sanat eserine bakıldığında programcılığın en temel yapı taşı olan ……………… kullanıldığı hemen farkedilebilir.<br/>Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "algoritmaların",
         "B": "döngülerin",
         "C": "parametrelerin",
@@ -217,11 +217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Generatif sanat</strong> içeriği üretmek kadar içeriği üreten sistemleri keşfetmeyi de kapsar."
+        "Aciklama": "Yeni Medya Sanatı (Giriş)<br><strong>Generatif sanat</strong> içeriği üretmek kadar içeriği üreten sistemleri keşfetmeyi de kapsar."
     },
     {
         "SoruID": 3641593,
-        "SoruMetni": "Sanat dalı görsel sanatlar olsa da  elektronik müzik ve algoritmik kompozisyon, bilgisayar grafikleri ve animasyonu, VJ kültürü, endüstriyel tasarım ve mimari gibi pek çok alanda karşımıza çıkan sanatı hangisi içerir?",
+        "SoruMetni": "Sanat dalı görsel sanatlar olsa da elektronik müzik ve algoritmik kompozisyon, bilgisayar grafikleri ve animasyonu, VJ kültürü, endüstriyel tasarım ve mimari gibi pek çok alanda karşımıza çıkan sanatı hangisi içerir?",
         "A": "Modern sanat",
         "B": "Klasik sanat",
         "C": "Retro sanat",
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 12pt;\"><strong>C-art (Bilgisayar sanatı): </strong><span style=\"font-family: Adobe Garamond Pro,Adobe Garamond Pro;\">Bilgisayarları sanatsal üretim sürecinin bir parçası olarak kullanır. </span></span><br/> <span style=\"font-size: 12pt;\"><span style=\"font-family: Adobe Garamond Pro,Adobe Garamond Pro;\">. </span></span>"
+        "Aciklama": "Generatif Sanat<br><span style=\"font-size: 12pt;\"><strong>C-art (Bilgisayar sanatı): </strong><span style=\"font-family: Adobe Garamond Pro,Adobe Garamond Pro;\">Bilgisayarları sanatsal üretim sürecinin bir parçası olarak kullanır. </span></span><br/><span style=\"font-size: 12pt;\"><span style=\"font-family: Adobe Garamond Pro,Adobe Garamond Pro;\">. </span></span>"
     },
     {
         "SoruID": 3641597,
@@ -317,11 +317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: arial,helvetica,sans-serif; font-size: 12pt;\"><strong>CI-art (Bilgisayar temelli interaktif sanat): </strong>Bilgisayar temelli sanat eserinin içeriği ve formu, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillenir. </span>"
+        "Aciklama": "Generatif Sanat<br><span style=\"font-family: arial,helvetica,sans-serif; font-size: 12pt;\"><strong>CI-art (Bilgisayar temelli interaktif sanat): </strong>Bilgisayar temelli sanat eserinin içeriği ve formu, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillenir. </span>"
     },
     {
         "SoruID": 3641598,
-        "SoruMetni": "Generatif sanat üreten sistemler zaman içinde teknoloji ile birlikte evrim geçirseler de hangisi aynı kalır?",
+        "SoruMetni": "Generatif sanat üreten sistemler zaman içinde teknoloji ile birlikte evrim geçirseler de hangisi aynı kalır?",
         "A": "Algoritmalar",
         "B": "Matematiksel işlemler",
         "C": "Geometrik şekiller",
@@ -337,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Algoritmalar doğanın bir parçasıdır ve evrenseldir, generatif sanat üreten sistemler zaman içinde teknoloji ile birlikte evrim geçirseler de <strong>algoritmalar</strong> aynı kalır."
+        "Aciklama": "<br/>GENERATİF SANATIN TARİHÇESİ<br><br/>Algoritmalar doğanın bir parçasıdır ve evrenseldir, generatif sanat üreten sistemler zaman içinde teknoloji ile birlikte evrim geçirseler de <strong>algoritmalar</strong> aynı kalır."
     },
     {
         "SoruID": 3641599,
-        "SoruMetni": "Bilgisayar programcılığında algoritmalar genellikle ne ile ifade edilir?",
+        "SoruMetni": "Bilgisayar programcılığında algoritmalar genellikle ne ile ifade edilir?",
         "A": "Bit",
         "B": "Bayt",
         "C": "Sözde kod",
@@ -357,11 +357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgisayar programcılığında algoritmalar genellikle <strong>sözde kod</strong> (pseudocode) ile ifade edilir."
+        "Aciklama": "<br/>GENERATİF SANATIN TARİHÇESİ<br>Bilgisayar programcılığında algoritmalar genellikle <strong>sözde kod</strong> (pseudocode) ile ifade edilir."
     },
     {
         "SoruID": 3641600,
-        "SoruMetni": "1805 yılında bir programı delikli kartlara kaydetme fikri, generatif dokuma sanatında hangi sanatçı bir devrim yarattı?",
+        "SoruMetni": "1805 yılında bir programı delikli kartlara kaydetme fikri, generatif dokuma sanatında hangi sanatçı bir devrim yarattı?",
         "A": "Jacquard",
         "B": "Georg Nees",
         "C": "Frieder Nake",
@@ -377,11 +377,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1805 yılında <strong>Jacquard’ın</strong> bir programı delikli kartlara kaydetme fikri, generatif dokuma sanatında bir devrim yarattı."
+        "Aciklama": "<br/>GENERATİF SANATIN TARİHÇESİ<br>1805 yılında <strong>Jacquard’ın</strong> bir programı delikli kartlara kaydetme fikri, generatif dokuma sanatında bir devrim yarattı."
     },
     {
         "SoruID": 3641601,
-        "SoruMetni": "2001 yılında Simon Colton ve meslektaşları tarafından geliştirilen bir bilgisayar programı ve eserlerini sayısal olarak üreten ve farklı stillerde boyayabilen yazılım hangisidir?",
+        "SoruMetni": "2001 yılında Simon Colton ve meslektaşları tarafından geliştirilen bir bilgisayar programı ve eserlerini sayısal olarak üreten ve farklı stillerde boyayabilen yazılım hangisidir?",
         "A": "IDE",
         "B": "Processing",
         "C": "The Painting Fool",
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: medium;\"><strong>The Painting Fool: </strong></span><span style=\"font-family: Adobe Garamond Pro,Adobe Garamond Pro; font-size: medium;\">The Painting Fool, 2001 yılında Simon Colton ve meslektaşları tarafından geliştirilen bir bilgisayar programı, yapay bir sanatçıdır. Bu yazılım eserlerini sayısal olarak üretir ve farklı stillerde boyayabilir.</span>"
+        "Aciklama": "Örnekler<br><span style=\"font-size: medium;\"><strong>The Painting Fool: </strong></span><span style=\"font-family: Adobe Garamond Pro,Adobe Garamond Pro; font-size: medium;\">The Painting Fool, 2001 yılında Simon Colton ve meslektaşları tarafından geliştirilen bir bilgisayar programı, yapay bir sanatçıdır. Bu yazılım eserlerini sayısal olarak üretir ve farklı stillerde boyayabilir.</span>"
     },
     {
         "SoruID": 3641605,
@@ -421,11 +421,11 @@
     },
     {
         "SoruID": 3641606,
-        "SoruMetni": "Aşağıdakilerden hangisi Boden ve Edmonds'a göre generative sanat’ın temel özelliklerinden biri <strong>değildir?</strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi Boden ve Edmonds'a göre generative sanat’ın temel özelliklerinden biri <strong>değildir?</strong>",
         "A": "Bilgisayar destekli olması",
-        "B": "Bilgisayarlarla yapılan sanatla sınırlandırılmaması<br/>",
-        "C": "Galerilerde ve müzelerde sergilenmesi<br/>",
-        "D": "Üretme, ortaya çıkarma, yeniden üretme gücü ya da işlevine sahip olması<br/>",
+        "B": "Bilgisayarlarla yapılan sanatla sınırlandırılmaması",
+        "C": "Galerilerde ve müzelerde sergilenmesi",
+        "D": "Üretme, ortaya çıkarma, yeniden üretme gücü ya da işlevine sahip olması",
         "E": "Sonucun kısmen de olsa sistem tarafından ortaya çıkması",
         "DogruCevap": "A",
         "DersAd": "Yeni Medya Sanatı",
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Generatif sanat otonom olarak işleyen bir sistem tarafından oluşturulmuş sanata işaret eder. Sanatçı söz konusu sistemi kendisi oluşturabileceği gibi, sadece var olan bir sistemin sonucu etkileyecek parametrelerini de değiştirebilir. Ancak sonuç en azından kısmen de olsa sanatçı değil, sistem tarafından ortaya çıkartılır. Generatif sanat sistemleri, özellikle günümüzde sıklıkla bilgisayar yazılımları olsa da biyolojik, sosyal ve diğer sistemler<br/>de generatif sanat üretiminde kullanılabilir. <strong>Ayrıca bilgisayar aracılığı ile üretilen her sanat eseri generatif sanata örnek teşkil etmez. Boden ve Edmonds (2009) da generatif sanatın<br/>sadece bilgisayarlarla yapılan sanatla sınırlandırılmaması gerektiği konusunda hemfikirdir. </strong>"
+        "Aciklama": "Generatif sanat otonom olarak işleyen bir sistem tarafından oluşturulmuş sanata işaret eder. Sanatçı söz konusu sistemi kendisi oluşturabileceği gibi, sadece var olan bir sistemin sonucu etkileyecek parametrelerini de değiştirebilir. Ancak sonuç en azından kısmen de olsa sanatçı değil, sistem tarafından ortaya çıkartılır. Generatif sanat sistemleri, özellikle günümüzde sıklıkla bilgisayar yazılımları olsa da biyolojik, sosyal ve diğer sistemler<br/>de generatif sanat üretiminde kullanılabilir. <strong>Ayrıca bilgisayar aracılığı ile üretilen her sanat eseri generatif sanata örnek teşkil etmez. Boden ve Edmonds (2009) da generatif sanatın<br/>sadece bilgisayarlarla yapılan sanatla sınırlandırılmaması gerektiği konusunda hemfikirdir. </strong>"
     },
     {
         "SoruID": 3641607,
@@ -521,7 +521,7 @@
     },
     {
         "SoruID": 3641611,
-        "SoruMetni": "Fotoğrafları sanat eserlerine dönüştürebilen  yapay zeka temelli generatif sanat programı aşağıdakilerden hangisidir?",
+        "SoruMetni": "Fotoğrafları sanat eserlerine dönüştürebilen yapay zeka temelli generatif sanat programı aşağıdakilerden hangisidir?",
         "A": "GANbreeder",
         "B": "Deepart.i.o",
         "C": "Paint",
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Processing bilgisayar ortamında generatif sanat üretmek için pek çok sanatçı tarafından kullanılan bir programlama ortamıdır. Processing elektronik sanat, yeni medya sanatı ve görsel tasarım toplulukları için, programcınolmayanlara bilgisayar programcılığının temellerini görsel bir bağlam içerisinde öğretme amacıyla Java programlama dili kullanılarak oluşturulmuş bir grafik kütüphane ve tümleşik geliştirme ortamıdır (IDE). Processing aslında bir programlama dili değil, daha çok bir programlama ortamıdır. Bunun sebebi<br/><strong>Processing’in Java programlama dili üzerine kurulu olmasıdır.</strong> Elbette ki Java’nın kendisini oluşturan parçalar da C ve C++ gibi başka programlama dilleri ile oluşturulmuştur (Peters, 2007). Processing kullandığınızda aslında Java kullanıyorsunuz demektir, Processing sadece Java kullanarak yazmanız gereken koddan çok daha basitleştirilmiş kodlar yazarak amacınıza ulaşmanıza olanak verir."
+        "Aciklama": "Processing bilgisayar ortamında generatif sanat üretmek için pek çok sanatçı tarafından kullanılan bir programlama ortamıdır. Processing elektronik sanat, yeni medya sanatı ve görsel tasarım toplulukları için, programcınolmayanlara bilgisayar programcılığının temellerini görsel bir bağlam içerisinde öğretme amacıyla Java programlama dili kullanılarak oluşturulmuş bir grafik kütüphane ve tümleşik geliştirme ortamıdır (IDE). Processing aslında bir programlama dili değil, daha çok bir programlama ortamıdır. Bunun sebebi<br/><strong>Processing’in Java programlama dili üzerine kurulu olmasıdır.</strong> Elbette ki Java’nın kendisini oluşturan parçalar da C ve C++ gibi başka programlama dilleri ile oluşturulmuştur (Peters, 2007). Processing kullandığınızda aslında Java kullanıyorsunuz demektir, Processing sadece Java kullanarak yazmanız gereken koddan çok daha basitleştirilmiş kodlar yazarak amacınıza ulaşmanıza olanak verir."
     },
     {
         "SoruID": 3641614,
@@ -622,10 +622,10 @@
     {
         "SoruID": 3641656,
         "SoruMetni": "<strong>Pearson'a göre generatif sanatın temel araçları aşağıdaki ifadelerden hangisidir?</strong>",
-        "A": "<span style=\"font-family: 'Times New Roman',serif;\">Yazılım.</span><br/>",
-        "B": "<span style=\"font-family: 'Times New Roman',serif;\">Donanım.</span><br/>",
-        "C": "<span style=\"font-family: 'Times New Roman',serif;\">Program.</span><br/>",
-        "D": "<span style=\"font-family: 'Times New Roman',serif;\">Algoritma.</span><br/>",
+        "A": "<span style=\"font-family: 'Times New Roman',serif;\">Yazılım.</span>",
+        "B": "<span style=\"font-family: 'Times New Roman',serif;\">Donanım.</span>",
+        "C": "<span style=\"font-family: 'Times New Roman',serif;\">Program.</span>",
+        "D": "<span style=\"font-family: 'Times New Roman',serif;\">Algoritma.</span>",
         "E": "<span style=\"font-family: 'Times New Roman',serif;\">Değişken.</span>",
         "DogruCevap": "D",
         "DersAd": "Yeni Medya Sanatı",
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözde kodlar (pseudocode)  bir algoritmanın çalışma prensiplerini tanımlayan ve makinenin değil, insanın algoritmayı anlaması için oluşturulan talimatları kapsar."
+        "Aciklama": "Sözde kodlar (pseudocode) bir algoritmanın çalışma prensiplerini tanımlayan ve makinenin değil, insanın algoritmayı anlaması için oluşturulan talimatları kapsar."
     },
     {
         "SoruID": 3641658,
@@ -821,7 +821,7 @@
     },
     {
         "SoruID": 3641803,
-        "SoruMetni": "Generatif bir sanat eserinin iki yüzeyi olduğu söylenebilir; bunlardan biri.........., diğeri ise .............<br/> Yukarıda verilen cümledeki boşluğa gelecek <span style=\"text-decoration: underline;\">en uygun</span> ifade aşağıdakilerden hangisidir?",
+        "SoruMetni": "Generatif bir sanat eserinin iki yüzeyi olduğu söylenebilir; bunlardan biri.........., diğeri ise .............<br/>Yukarıda verilen cümledeki boşluğa gelecek <span style=\"text-decoration: underline;\">en uygun</span> ifade aşağıdakilerden hangisidir?",
         "A": "Sanat-sanatçı",
         "B": "Somut çıktı-arka plandaki sistem ve süreç",
         "C": "Sanatın içeriği-sanatın formu",
@@ -861,7 +861,7 @@
     },
     {
         "SoruID": 3641811,
-        "SoruMetni": "-Bu düzenek bir kalem yardımı ile büyük bir kağıt üzerine mürekkeple çizimler yapabilmektedir.<br/> -Çizgileri çok kabaca önceden planlanmıştır.<br/> -Çizimin nerede ve ne ile başlayacağını ve ne zaman biteceğini program kendisi belirlemektedir.<br/> Yukarıda verilen ifadeler hangi bilgisayar programını tanımlamaktadır?",
+        "SoruMetni": "-Bu düzenek bir kalem yardımı ile büyük bir kağıt üzerine mürekkeple çizimler yapabilmektedir.<br/>-Çizgileri çok kabaca önceden planlanmıştır.<br/>-Çizimin nerede ve ne ile başlayacağını ve ne zaman biteceğini program kendisi belirlemektedir.<br/>Yukarıda verilen ifadeler hangi bilgisayar programını tanımlamaktadır?",
         "A": "Tree Drawings",
         "B": "DARCI",
         "C": "Pretty Little Flocker",
@@ -881,7 +881,7 @@
     },
     {
         "SoruID": 3641812,
-        "SoruMetni": "...............bilgisayar ortamında generatif sanat üretmek için pek çok sanatçı tarafından kullanılan bir programlama ortamıdır.<br/> Yukarıda verilen cümlede boşluğa gelecek <span style=\"text-decoration: underline;\">en uygun</span> ifade aşağıdakilerden hangisidir?",
+        "SoruMetni": "...............bilgisayar ortamında generatif sanat üretmek için pek çok sanatçı tarafından kullanılan bir programlama ortamıdır.<br/>Yukarıda verilen cümlede boşluğa gelecek <span style=\"text-decoration: underline;\">en uygun</span> ifade aşağıdakilerden hangisidir?",
         "A": "Dönüştürme",
         "B": "Parametreleştirme",
         "C": "Processing",
@@ -941,7 +941,7 @@
     },
     {
         "SoruID": 3641815,
-        "SoruMetni": "-Frieder Nake’in ilk çalışmaları bunun en güzel örnekleridir.<br/> -Programcılar sıklıkla bilgisayarın bu yeteneğinden faydalanmışlardır.<br/> Yukarıda verilen ifadeler bir bilgisayar programının sanatsal anlamda kullanılan hangi özelliğini açıklamaktadır?",
+        "SoruMetni": "-Frieder Nake’in ilk çalışmaları bunun en güzel örnekleridir.<br/>-Programcılar sıklıkla bilgisayarın bu yeteneğinden faydalanmışlardır.<br/>Yukarıda verilen ifadeler bir bilgisayar programının sanatsal anlamda kullanılan hangi özelliğini açıklamaktadır?",
         "A": "Parametreleştirme",
         "B": "Tekrar",
         "C": "Dönüştürme",
@@ -981,7 +981,7 @@
     },
     {
         "SoruID": 3641817,
-        "SoruMetni": "I-Manfred Mohr                              a-Subsets<br/> II-Frieder Nake                               b-100 Special Moments<br/> III-Tim Knowles                              c-Tekrar                                                 <br/> IV-Jason Salavon                            d-Lindenmayer sistemleri<br/> V-Simon Colton                               e- Ağaç Çizimleri <br/> VI-Harold Cohen<br/> VII-Aristid Lindenmayer   <br/> Yukarıda yer alan kişilere karşılık gelen örnek ya da kavramlar aşağıdakilerden hangisinde doğru verilmiştir?",
+        "SoruMetni": "I-Manfred Mohr a-Subsets<br/>II-Frieder Nake b-100 Special Moments<br/>III-Tim Knowles c-Tekrar <br/>IV-Jason Salavon d-Lindenmayer sistemleri<br/>V-Simon Colton e- Ağaç Çizimleri <br/>VI-Harold Cohen<br/>VII-Aristid Lindenmayer <br/>Yukarıda yer alan kişilere karşılık gelen örnek ya da kavramlar aşağıdakilerden hangisinde doğru verilmiştir?",
         "A": "I-a, II-c, III-e, IV-b, VII-d",
         "B": "I-b, II-e, III-a, V-c, VII-d",
         "C": "III-e, IV-b, V-a, VII-d",
@@ -997,6 +997,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I-Manfred Mohr <strong>a</strong>                             a-Subsets<br/> II-Frieder Nake  <strong>c</strong>                             b-100 Special Moments<br/> III-Tim Knowles  <strong>e</strong>                            c-Tekrar                                                 <br/> IV-Jason Salavon  <strong>b</strong>                          d-Lindenmayer sistemleri<br/> V-Simon Colton                                e- Ağaç Çizimleri <br/> VI-Harold Cohen<br/> VII-Aristid Lindenmayer   <strong>d</strong>"
+        "Aciklama": "I-Manfred Mohr <strong>a</strong> a-Subsets<br/>II-Frieder Nake <strong>c</strong> b-100 Special Moments<br/>III-Tim Knowles <strong>e</strong> c-Tekrar <br/>IV-Jason Salavon <strong>b</strong> d-Lindenmayer sistemleri<br/>V-Simon Colton e- Ağaç Çizimleri <br/>VI-Harold Cohen<br/>VII-Aristid Lindenmayer <strong>d</strong>"
     }
 ]

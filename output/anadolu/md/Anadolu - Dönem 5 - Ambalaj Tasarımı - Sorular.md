@@ -4,11 +4,12 @@
 1. Plastik, kağıt, film, alüminyum folyo gibi malzemelerden hangi ambalajlar yapılır?
     - A-) Rijit Ambalajlar
     - **Cevap B-) Esnek Ambalajlar**
-    - C-) Kalaylama ambalajlar
+    - C-) Kalaylama ambalajlar
     - D-) Metal ambalajlar
     - E-) Cam ambalaj
 
-    > **Açıklama:** Esnek Ambalajlar: Esnek ambalajlar genellikle plastik, kağıt, film, alüminyum folyo gibi malzemelerden yapılır.
+    > **Açıklama:** Ambalaj Tasarımının Tarihi
+    > Esnek Ambalajlar: Esnek ambalajlar genellikle plastik, kağıt, film, alüminyum folyo gibi malzemelerden yapılır.
 
     ***
 1. Aşağıdaki terimlerden hangisi ucuz metallerin levha halindeyken paslanmaya karşı dirençli hale getirilmesini sağlayan kaplama tekniğidir?
@@ -18,7 +19,8 @@
     - D-) Kvervi
     - E-) Rijit
 
-    > **Açıklama:** Kalaylama (galvanizleme), ucuz metallerin levha halindeyken paslanmaya karşı dirençli hale getirilmesini sağlayan kaplama tekniğidir.
+    > **Açıklama:** Ambalaj Tasarımının Tarihi
+    > Kalaylama (galvanizleme), ucuz metallerin levha halindeyken paslanmaya karşı dirençli hale getirilmesini sağlayan kaplama tekniğidir.
 
     ***
 1. Aşağıdaki terimlerden hangisi resimsel yazıyı ifade eder?
@@ -28,7 +30,8 @@
     - **Cevap D-) Piktografik**
     - E-) Polipropilen
 
-    > **Açıklama:** Piktografik (resimsel) yazı: İdeografik yazı, fikirlerin karşı tarafa iletilmesi ihtiyacı sonrası ortaya çıkmıştır.
+    > **Açıklama:** Ambalaj Tasarımı
+    > Piktografik (resimsel) yazı: İdeografik yazı, fikirlerin karşı tarafa iletilmesi ihtiyacı sonrası ortaya çıkmıştır.
 
     ***
 1. Aşağıdaki terimlerden hangisi genellikle cam, metal, sert plastik ve bazen ahşap gibi malzemelerden yapılır?
@@ -38,7 +41,8 @@
     - D-) Piktografik ambalajlar
     - **Cevap E-) Rijit ambalajlar**
 
-    > **Açıklama:** Rijit Ambalajlar: Rijit ambalajlar genellikle cam, metal, sert plastik ve bazen ahşap gibi malzemelerden yapılır.
+    > **Açıklama:** Ambalaj Tasarımı
+    > Rijit Ambalajlar: Rijit ambalajlar genellikle cam, metal, sert plastik ve bazen ahşap gibi malzemelerden yapılır.
 
     ***
 1. Aşağıdakilerden hangisi mezopotamyalı tüccarların avuç içi büyüklüğünde kil tabletler üzerine yapılan ticari işin niteliğini tanımlamak için tercih ettiği iletişim aracıdır?
@@ -48,7 +52,8 @@
     - D-) Jüt
     - E-) Polietilen
 
-    > **Açıklama:** Piktografik dil özellikle Mezopotamyalı tüccarların avuç içi büyüklüğünde kil tabletler üzerine yapılan ticari işin niteliğini tanımlamak için yoğunluklu olarak tercih ettiği iletişim aracı olmuştur (Tunçel, 2020).
+    > **Açıklama:** Ambalaj Tasarımı
+    > Piktografik dil özellikle Mezopotamyalı tüccarların avuç içi büyüklüğünde kil tabletler üzerine yapılan ticari işin niteliğini tanımlamak için yoğunluklu olarak tercih ettiği iletişim aracı olmuştur (Tunçel, 2020).
 
     ***
 1. Aşağıdakilerden hangisi 1796 yılında Alman Alois Senefelder tarafından keşfedilen baskı yöntemidir?
@@ -58,7 +63,8 @@
     - D-) Dijital baskı
     - E-) Serigrafi
 
-    > **Açıklama:** Litografi (taş baskı), 1796 yılında Alman Alois Senefelder tarafından keşfedilen baskı yöntemidir.
+    > **Açıklama:** Ambalaj Tasarımı
+    > Litografi (taş baskı), 1796 yılında Alman Alois Senefelder tarafından keşfedilen baskı yöntemidir.
 
     ***
 1. 1879 yılında mukavva katlama makinesini icat eden mucit kimdir?
@@ -68,7 +74,8 @@
     - D-) Ben Nash
     - E-) John Vassos
 
-    > **Açıklama:** Robert Gair, 1879 yılında mukavva katlama makinesini icat etmiştir.
+    > **Açıklama:** Ambalaj Tasarımı
+    > Robert Gair, 1879 yılında mukavva katlama makinesini icat etmiştir.
 
     ***
 1. Yağ, protein ve karbonhidrat gibi doğal bileşenlerden üretilebilen yenilebilir ambalajlar tiplerine göre kaça ayrılır?
@@ -78,7 +85,8 @@
     - **Cevap D-) Beş**
     - E-) Altı
 
-    > **Açıklama:** Yenilebilir ambalajlar yağ, protein ve karbonhidrat gibi doğal bileşenlerden üretilebilmektedir. Chapman Üniversitesi’nin yayınladığı bir rapora (https://blogs.chapman.edu/scst/2016/01/19/edible-food-packaging) göre yenilebilir ambalaj tipleri aşağıdaki haliyle **beşe** ayrılır:
+    > **Açıklama:** Ambalaj Tasarımı
+    > Yenilebilir ambalajlar yağ, protein ve karbonhidrat gibi doğal bileşenlerden üretilebilmektedir. Chapman Üniversitesi’nin yayınladığı bir rapora (https://blogs.chapman.edu/scst/2016/01/19/edible-food-packaging) göre yenilebilir ambalaj tipleri aşağıdaki haliyle **beşe** ayrılır:
     > • Gıda içine sarılmış gıda
     > • Yenilebilir/doğada çözünür ambalaj ile eşleştirilmiş gıda
     > • İçeriğiyle birlikte yenilebilir hazne
@@ -93,7 +101,8 @@
     - D-) Asurlular
     - E-) Romalılar
 
-    > **Açıklama:** Yazınsal iletişim sistemlerinin geliştirilmesi de ambalajın tarihi için önemli mihenk taşlarından biridir. Sümerliler 5000 yıl önce yazılı bir iletişim sistemi kullanarak sakladıkları tarımsal ürünleri tanımlamak ve ticareti kolaylaştırmak için kullanmışlardır (Klimchuk & Krasovec, 2013, s. 1). Örneğin “buğday” için geliştirilen sembol Sümerlilerin kullandığı en erken gösterim örneklerinden biridir. Sümerliler öncelikle sembolik gösterimler ile piktografik yazı dilini geliştirmişlerdir.ir.
+    > **Açıklama:** Ambalaj Tasarımının Tarihi
+    > Yazınsal iletişim sistemlerinin geliştirilmesi de ambalajın tarihi için önemli mihenk taşlarından biridir. Sümerliler 5000 yıl önce yazılı bir iletişim sistemi kullanarak sakladıkları tarımsal ürünleri tanımlamak ve ticareti kolaylaştırmak için kullanmışlardır (Klimchuk & Krasovec, 2013, s. 1). Örneğin “buğday” için geliştirilen sembol Sümerlilerin kullandığı en erken gösterim örneklerinden biridir. Sümerliler öncelikle sembolik gösterimler ile piktografik yazı dilini geliştirmişlerdir.ir.
 
     ***
 1. Aşağıdakilerden hangisi kağıdın bir ambalaj malzemesi olarak kullanılmasında ambalaj tasarımına etkilerinden birisi **değildir?**
@@ -196,17 +205,17 @@
     > **Açıklama:** HDPE :Yüksek yoğunluklu polietilen
 
     ***
-1. I    Ahşap<br />II   Mantar<br />III  Pamuk<br />IV Jüt, kenevir<br />V  Mukavva<br />yukarıdaki şıklardan hangisi organik malzeme kategorisinde ambalaj malzemesi olarak kabul **edilmez?**
+1. I Ahşap<br />II Mantar<br />III Pamuk<br />IV Jüt, kenevir<br />V Mukavva<br />yukarıdaki şıklardan hangisi organik malzeme kategorisinde ambalaj malzemesi olarak kabul **edilmez?**
     - A-) I
     - B-) II
     - C-) III
     - D-) IV
     - **Cevap E-) V**
 
-    > **Açıklama:** Organik Malzeme : Ahşap - Mantar- Pamuk-  Jüt, kenevir
+    > **Açıklama:** Organik Malzeme : Ahşap - Mantar- Pamuk- Jüt, kenevir
 
     ***
-1. Şampuan, şırınga gibi ürünlerin üretiminde kullanılan Polipropilen malzemesinin kısaltması aşağıdakilerden hangisidir?
+1. Şampuan, şırınga gibi ürünlerin üretiminde kullanılan Polipropilen malzemesinin kısaltması aşağıdakilerden hangisidir?
     - A-) PET
     - **Cevap B-) PP**
     - C-) PVC
@@ -253,7 +262,7 @@
     - D-) 1990
     - E-) 2000
 
-    > **Açıklama:** 1938 yılında  ABD’de Federal Food, Drug, and Cosmetic Act (Federal Gıda, İlaç ve Kozmetik Yasası) kabul edilmiştir.
+    > **Açıklama:** 1938 yılında ABD’de Federal Food, Drug, and Cosmetic Act (Federal Gıda, İlaç ve Kozmetik Yasası) kabul edilmiştir.
 
     ***
 1. 1796 yılında Alman Alois Senefelder tarafından keşfedilen baskı yöntemidir. Kireçtaşı üzerine çizilen bir çizimin yağ ve suyun birbirine karışmama prensibini kullanarak yüzeylere baskı olarak uygulanmasına olanak tanıyan bir yöntemdir.<br />Metinde tanımlanan baskı yöntemi aşağıdakilerden hangisidir?
@@ -266,7 +275,7 @@
     > **Açıklama:** Litografi (taş baskı), 1796 yılında Alman Alois Senefelder tarafından keşfedilen baskı yöntemidir. Litografi kireçtaşı üzerine çizilen bir çizimin yağ ve suyun birbirine karışmama prensibini kullanarak yüzeylere baskı olarak uygulanmasına olanak tanımıştır.
 
     ***
-1. I. Benzer ve standart tasarımlara yönlendirme<br />II. Marka tanınırlığını arttırma<br />III. Dayanıklılık ve korumayı güçlendirme<br />IV. Renkli ve görsel imkanları çoğaltma<br />Yukarıdaki maddelerden hangileri Litografinin ambalaj tasarımına katkıları arasındadır?
+1. I. Benzer ve standart tasarımlara yönlendirme<br />II. Marka tanınırlığını arttırma<br />III. Dayanıklılık ve korumayı güçlendirme<br />IV. Renkli ve görsel imkanları çoğaltma<br />Yukarıdaki maddelerden hangileri Litografinin ambalaj tasarımına katkıları arasındadır?
     - A-) Yalnız I
     - B-) II - III
     - C-) III - IV
@@ -281,7 +290,7 @@
     > • Dayanıklılık ve koruma: Litografi baskılar, ambalajların üzerine koruyucu bir tabaka sağlar. Bu, ambalajların dış etkilere karşı daha dayanıklı olmasını ve ürünlerin güvenli bir şekilde korunmasını sağlar. Baskı tabakası, ambalajın üzerindeki yazıların ve grafiklerin solmamasını ve aşınmamasını sağlar.
 
     ***
-1. I. Ağır üretim<br />II.  Metin işleme<br />III. Çeşitlilik<br />IV. Kalitesiz baskı<br />Yukarıdaki maddelerden hangileri Linotip dizgi makinelerinin ambalaj tasarımının gelişimine sağladığı katkıları arasındadır?
+1. I. Ağır üretim<br />II. Metin işleme<br />III. Çeşitlilik<br />IV. Kalitesiz baskı<br />Yukarıdaki maddelerden hangileri Linotip dizgi makinelerinin ambalaj tasarımının gelişimine sağladığı katkıları arasındadır?
     - A-) Yalnız III
     - B-) I - IV
     - **Cevap C-) II - III**
@@ -323,11 +332,11 @@
     - **Cevap D-) Kişiselleştirme**
     - E-) Marka kimliği
 
-    > **Açıklama:** Kişiselleştirme, tüketicilerin bireysel tercihlerine ve ihtiyaçlarına hitap eden ambalajlar, markaların hedef kitleleriyle daha derin bağlar kurmasına olanak tanımaktadır. 2015 yılında Coca Cola içecek ambalajlarının üstüne isimler yazdığı bir kişiselleştirme kampanyası yürütmüştür. Bu kampanya ambalaj tasarımında kişiselleştirme akımının ilk örneklerinden biridir.
+    > **Açıklama:** Kişiselleştirme, tüketicilerin bireysel tercihlerine ve ihtiyaçlarına hitap eden ambalajlar, markaların hedef kitleleriyle daha derin bağlar kurmasına olanak tanımaktadır. 2015 yılında Coca Cola içecek ambalajlarının üstüne isimler yazdığı bir kişiselleştirme kampanyası yürütmüştür. Bu kampanya ambalaj tasarımında kişiselleştirme akımının ilk örneklerinden biridir.
 
     ***
 ## Unite 2
-1. 1. Tüketici satın alma kararlarını etkileme,<br />2. Marka sadakati oluşturma,<br />3. Çevresel sürdürülebilirlik sağlama,<br />Yukarıdaki faktörlerden hangisi ya da hangileri ambalaj tasarımının önemli bir parçası olarak görülmektedir?
+1. 1\. Tüketici satın alma kararlarını etkileme,<br />2\. Marka sadakati oluşturma,<br />3\. Çevresel sürdürülebilirlik sağlama,<br />Yukarıdaki faktörlerden hangisi ya da hangileri ambalaj tasarımının önemli bir parçası olarak görülmektedir?
     - A-) Yalnız I
     - B-) I ve II
     - C-) I ve III
@@ -367,7 +376,7 @@
     > **Açıklama:** Ambalaj tasarımı süreci çok disiplinli bir yapıdan beslenir. Bir ambalaj tasarımcısı tüm bu alanlar ile iletişime geçebilen, bu alanlardan beslenen ve özellikle grafik tasarım ve endüstriyel tasarıma hâkim, yaratıcı süreçlerde rol alan ve üretim yapabilen bir tasarımcıdır. *Salt işlevsel anlamıyla ambalajlama kavramı ile ambalaj tasarımını birbirinden ayıran en önemli unsur* **ambalaj üzerine anlam yükleme ve üretme çabasıdır**. Bu çaba belli düzeyde profesyonellik ve deneyim gerektirir. Dolayısıyla **Doğru Cevap B** seçeneğidir.
 
     ***
-1. 1. Nokta,<br />2. Yüzey,<br />3. Renk ve doku,<br />Temel tasarım ögeleri bir bütünü oluşturan parçalardır ancak bütünden ayrıştırıldığında da kendi başlarına anlam taşırlar. Tasarım ögeleri doğal ve yapay varlıkları oluşturan materyaller olarak tanımlanırlar ve tasarım ögelerinin her insan yapısı olguda var oldukları kabul edilir. Bu bilgilere göre yukarıdakilerden hangisi ya da hangileri Temel Tasarım Ögeleri (Elemanları) arasında yer alır?
+1. 1\. Nokta,<br />2\. Yüzey,<br />3\. Renk ve doku,<br />Temel tasarım ögeleri bir bütünü oluşturan parçalardır ancak bütünden ayrıştırıldığında da kendi başlarına anlam taşırlar. Tasarım ögeleri doğal ve yapay varlıkları oluşturan materyaller olarak tanımlanırlar ve tasarım ögelerinin her insan yapısı olguda var oldukları kabul edilir. Bu bilgilere göre yukarıdakilerden hangisi ya da hangileri Temel Tasarım Ögeleri (Elemanları) arasında yer alır?
     - A-) Yalnız III
     - B-) I ve II
     - C-) I ve III
@@ -384,7 +393,7 @@
     - **Cevap D-) Baskınlık İlkesi**
     - E-) Ölçü İlkesi
 
-    > **Açıklama:** *Ölçü ilkesi* varlıkların farklı boyut ve ebatlarda olabileceğini anlatır. Örneğin bir kompozisyonda büyük bir karenin yanında küçük bir karede olabilir. Bir bina cephesindeki pencereleri bir birim olarak düşünürseniz her bir birimin belli bir düzende birbirlerinden belli bir mesafede tanımlanmış sıra ile *tekrar* ettiğini görülebilir. Bu düzen eğer eşit sıklıkta ise tekdüze (monoton) bir tekrardan söz edilebilir. Bu düzende tekdüzelik belli bir kurala göre bozulursa belki dinamik, hareketli bir tekrardan söz edilebilir. *Ritim* aslında dinamik bir tekrardır. Aynı müzikte olduğu gibi bazı görsel ögeler belli bir kural göre ritmik şekilde tekrar edebilir. Bu ritim tekdüze veya aksak (dinamik) olabilir. ***Baskınlık ilkesi***, bir grup tasarım ögesi içerisinde birinin veya birkaçının diğerlerinden önde olması veya önce algılanması ile ilgidir. Baskın öge dikkat çeker ve izleyici ilk bakışta o ögeye bakma eğiliminde olur. Bir diğer ilke olan *hiyerarşi* aslında tasarım ögeleri arasında baskınlık derecelerinin kendi içinde bir silsileye göre planlanmasıdır. Bu bilgilere göre **Doğru Cevap D** seçeneği olur.
+    > **Açıklama:** *Ölçü ilkesi* varlıkların farklı boyut ve ebatlarda olabileceğini anlatır. Örneğin bir kompozisyonda büyük bir karenin yanında küçük bir karede olabilir. Bir bina cephesindeki pencereleri bir birim olarak düşünürseniz her bir birimin belli bir düzende birbirlerinden belli bir mesafede tanımlanmış sıra ile *tekrar* ettiğini görülebilir. Bu düzen eğer eşit sıklıkta ise tekdüze (monoton) bir tekrardan söz edilebilir. Bu düzende tekdüzelik belli bir kurala göre bozulursa belki dinamik, hareketli bir tekrardan söz edilebilir. *Ritim* aslında dinamik bir tekrardır. Aynı müzikte olduğu gibi bazı görsel ögeler belli bir kural göre ritmik şekilde tekrar edebilir. Bu ritim tekdüze veya aksak (dinamik) olabilir. ***Baskınlık ilkesi***, bir grup tasarım ögesi içerisinde birinin veya birkaçının diğerlerinden önde olması veya önce algılanması ile ilgidir. Baskın öge dikkat çeker ve izleyici ilk bakışta o ögeye bakma eğiliminde olur. Bir diğer ilke olan *hiyerarşi* aslında tasarım ögeleri arasında baskınlık derecelerinin kendi içinde bir silsileye göre planlanmasıdır. Bu bilgilere göre **Doğru Cevap D** seçeneği olur.
 
     ***
 1. ............ İlkesine göre eğer bir formun parçaları düzenli, yalın ve sıralı bir örüntü oluşturuyorlarsa grup oluşturuyorlarmış gibi algılanırlar. Buna göre verilen ifadede boş bırakılan yere getirilmesi gereken Gestalt İlkesi aşağıdakilerden hangisidir?
@@ -394,7 +403,7 @@
     - D-) Devamlılık
     - **Cevap E-) İyi Form**
 
-    > **Açıklama:** *Yakınlık ilkesine* göre tasarım ögeleri algılarken birbirine yakın olanları bir grup oluşturacak şekilde algılanır. Benzerlik ilkesine göre bütünü oluşturan parçalar birbirine benziyorsa, bu parçalar birbirleriyle grup gibi algılanır. *Benzerlik ilkesine* göre benzer şekil, renk, ton, doku, biçim, ölçü, oran, konum sahip formlar gruplaşma eğilimindedir. *Tamamlama (kapatma)* ilkesine göre form üzerindeki detaylar tamamlanmasa bile izleyicinin eksik yerleri kendi kişisel deneyimini, kültürel birikimini ve kendi hafızasını kullanarak tam gibi algılar. *Simetri İlkesi* formların simetrik olarak bir referans noktasına göre yorumlanıp yapılandırarak algılandığını söyler. *Devamlılık (Ortak Hareket)* İlkesine göre iki form kesiştiğinde, formlar birbirini takip eder şekilde ve bölünmemiş gibi algılanır. ***İyi Form İlkesine*** göre eğer bir formun parçaları düzenli, yalın ve sıralı bir örüntü oluşturuyorlarsa grup oluşturuyorlarmış gibi algılanırlar. Bu bilgilere göre **Doğru Cevap E** seçeneği olur.
+    > **Açıklama:** *Yakınlık ilkesine* göre tasarım ögeleri algılarken birbirine yakın olanları bir grup oluşturacak şekilde algılanır. Benzerlik ilkesine göre bütünü oluşturan parçalar birbirine benziyorsa, bu parçalar birbirleriyle grup gibi algılanır. *Benzerlik ilkesine* göre benzer şekil, renk, ton, doku, biçim, ölçü, oran, konum sahip formlar gruplaşma eğilimindedir. *Tamamlama (kapatma)* ilkesine göre form üzerindeki detaylar tamamlanmasa bile izleyicinin eksik yerleri kendi kişisel deneyimini, kültürel birikimini ve kendi hafızasını kullanarak tam gibi algılar. *Simetri İlkesi* formların simetrik olarak bir referans noktasına göre yorumlanıp yapılandırarak algılandığını söyler. *Devamlılık (Ortak Hareket)* İlkesine göre iki form kesiştiğinde, formlar birbirini takip eder şekilde ve bölünmemiş gibi algılanır. ***İyi Form İlkesine*** göre eğer bir formun parçaları düzenli, yalın ve sıralı bir örüntü oluşturuyorlarsa grup oluşturuyorlarmış gibi algılanırlar. Bu bilgilere göre **Doğru Cevap E** seçeneği olur.
 
     ***
 1. Aşağıdakilerden hangisi imajların ambalaj tasarımlarında kullanılma amaçlarından biridir?
@@ -412,7 +421,7 @@
     - B-) Farklı seviyelerde tüketici gruplarını ve paralel hedef kitleyi ürüne çeker.
     - C-) Önerdiği yaklaşımıyla yenilikçi ve çığır açıcıdır.
     - D-) Tüketicisine duygusal olarak dokunur.
-    - **Cevap E-) Marka ve ambalaj ve içeriğin birbirinden ayırt edilmesini sağlar.**
+    - **Cevap E-) Marka ve ambalaj ve içeriğin birbirinden ayırt edilmesini sağlar.**
 
     > **Açıklama:** Şaşırtıcı ambalajların ortak özellikleri şöyle listelenebilir:
     > • İlgili ürün kategori içinde ürüne olan algıyı yükseltir.
@@ -421,10 +430,10 @@
     > • ***Marka ve ambalaj ve içeriğin birbiriyle iç içe** olmasını, ayrılamaz hale gelmesini sağlar.*
     > • Birbirine benzeyen onlarca ambalaj arasında öne çıkar.
     > • Tüketicisine duygusal olarak dokunur.
-    > Bu bilgilere göre "Marka ve ambalaj ve içeriğin birbirinden ayırt edilmesini sağlar." ifadesi şaşırtıcı ambalajların ortak özelliklerinden biri değildir. Buna göre **Doğru Cevap E** seçeneğidir.
+    > Bu bilgilere göre "Marka ve ambalaj ve içeriğin birbirinden ayırt edilmesini sağlar." ifadesi şaşırtıcı ambalajların ortak özelliklerinden biri değildir. Buna göre **Doğru Cevap E** seçeneğidir.
 
     ***
-1. 1. Kaynak ile hedef arasındaki veri kaybını önlemek,<br />2. Başarılı iletişimi sağlamak,<br />3. Ambalaj ve içeriği ile ilgili duygusal bağ oluşturmak,<br />Yukarıdakilerden hangisi ya da hangileri Shannon ve Weaver modelinin önerdiği amaç ya da amaçlar arasında yer alır?
+1. 1\. Kaynak ile hedef arasındaki veri kaybını önlemek,<br />2\. Başarılı iletişimi sağlamak,<br />3\. Ambalaj ve içeriği ile ilgili duygusal bağ oluşturmak,<br />Yukarıdakilerden hangisi ya da hangileri Shannon ve Weaver modelinin önerdiği amaç ya da amaçlar arasında yer alır?
     - A-) Yalnız II
     - **Cevap B-) I ve II**
     - C-) I ve III
@@ -434,7 +443,7 @@
     > **Açıklama:** Shannon ve Weaver modelinin önerdiği amaç, *kaynak ile hedef arasındaki veri kaybını önlemek* ve *başarılı iletişimi sağlamak*tır. Bu bilgilere göre **I. ve II. öncüller doğru**, III. öncül yanlış olmaktadır. Bu nedenle **Doğru Cevap B** seçeneğidir.
 
     ***
-1. Aşağıdakilerden hangisi veya hangileri ambalajlama eylemlerindendir?<br />I-Koruma II-  Taşıma III- Saklama IV- Depolama
+1. Aşağıdakilerden hangisi veya hangileri ambalajlama eylemlerindendir?<br />I-Koruma II- Taşıma III- Saklama IV- Depolama
     - **Cevap A-) I-II-III-IV**
     - B-) I-II
     - C-) I-IV
@@ -463,7 +472,7 @@
     - D-) I-III
     - E-) I-III-IV
 
-    > **Açıklama:** Günümüzde Temel Tasarım öğretisi  temel olarak dört amaca yönelik kurgulanmaktadır (Özer, 2004).
+    > **Açıklama:** Günümüzde Temel Tasarım öğretisi temel olarak dört amaca yönelik kurgulanmaktadır (Özer, 2004).
     > Bunlar, tasarımcıların davranışsal, zihinsel ve teknik özelliklerini geliştirmek, tasarımcıların yaratıcılıklarını ortaya çıkarmak, tasarım öge ve ilkelerini kavratmak ve algı ve anlamlandırma süreçleri ile görsel bir dil öğretmek olarak listelenebilir
 
     ***
@@ -503,7 +512,7 @@
     > • Tüketicisine duygusal olarak dokunur.
 
     ***
-1. Ambalaj tasarımının iki farklı işlevinden bahsedilebilir. Bunlardan<br />ilki “temel amaçlar” olarak düşünebileceğimiz işlev hangisi veya hangileri olarak sayılabilir?<br />I- Güvenlik II- Koruma III-Fiziksel dayanıklılık IV-  Bilgilendirme<br />ve etiketleme  V- Kullanım kolaylığı
+1. Ambalaj tasarımının iki farklı işlevinden bahsedilebilir. Bunlardan<br />ilki “temel amaçlar” olarak düşünebileceğimiz işlev hangisi veya hangileri olarak sayılabilir?<br />I- Güvenlik II- Koruma III-Fiziksel dayanıklılık IV- Bilgilendirme<br />ve etiketleme V- Kullanım kolaylığı
     - **Cevap A-) I-II-III-IV-V**
     - B-) I-III
     - C-) I-IV-V
@@ -514,7 +523,7 @@
     > ilki “temel amaçlar” olarak düşünebileceğimiz: güvenlik, koruma, fiziksel dayanıklılık, bilgilendirme ve etiketleme, taşınabilirlik, kullanım kolaylığı, görünüm ve sürdürülebilirliktir.
 
     ***
-1. Ambalaj tasarımında “niyet ve hedefler” olarak yorumlayabileceğimiz işlev aşağıdakilerden  hangisi veya hangileridir?<br />I- Dikkat ve ilgi çekme II- Motivasyon oluşturma III- Arzu ve istek<br />uyandırma
+1. Ambalaj tasarımında “niyet ve hedefler” olarak yorumlayabileceğimiz işlev aşağıdakilerden hangisi veya hangileridir?<br />I- Dikkat ve ilgi çekme II- Motivasyon oluşturma III- Arzu ve istek<br />uyandırma
     - **Cevap A-) I-II-III**
     - B-) Yanlız I
     - C-) I-II
@@ -535,14 +544,14 @@
     > **Açıklama:** Antropometri: İnsan vücudunun boyutlarını ve diğer fiziksel özelliklerini araştıran bilim dalıdır.
 
     ***
-1. "Bir formun parçaları düzenli, yalın ve sıralı bir örüntü oluşturuyorlarsa grup oluşturuyorlarmış gibi algılanırlar. Buna göre basit, yalın ve geometrik formlar daha kolay algılanırlar ve birbirleriyle gruplaşma eğilimi<br />içindedirler. "<br />Yukarıdaki ifade Gestalt kuramının ortaya koyduğu ilkelerden hangisi için söylenebilir?
+1. "Bir formun parçaları düzenli, yalın ve sıralı bir örüntü oluşturuyorlarsa grup oluşturuyorlarmış gibi algılanırlar. Buna göre basit, yalın ve geometrik formlar daha kolay algılanırlar ve birbirleriyle gruplaşma eğilimi<br />içindedirler. "<br />Yukarıdaki ifade Gestalt kuramının ortaya koyduğu ilkelerden hangisi için söylenebilir?
     - **Cevap A-) İyi Form İlkesi**
     - B-) Simetri İlkesi
     - C-) Benzerlik ilkesi
     - D-) Yakınlık İlkesi
     - E-) Tamamlama ilkesi
 
-    > **Açıklama:** İyi Form İlkesine göre eğer bir formun parçaları düzenli, yalın ve sıralı bir örüntü oluşturuyorlarsa grup oluşturuyorlarmış gibi algılanırlar. Buna göre basit, yalın ve geometrik formlar daha kolay algılanırlar ve birbirleriyle gruplaşma eğilimi
+    > **Açıklama:** İyi Form İlkesine göre eğer bir formun parçaları düzenli, yalın ve sıralı bir örüntü oluşturuyorlarsa grup oluşturuyorlarmış gibi algılanırlar. Buna göre basit, yalın ve geometrik formlar daha kolay algılanırlar ve birbirleriyle gruplaşma eğilimi
     > içindedirler.
 
     ***
@@ -554,7 +563,10 @@
     - D-) Ürün Alanı
     - E-) Marka alanı
 
-    > **Açıklama:** Tasarım yüzeyi üzerinde bulunan ana ekran paneli, aynı zamanda başlıca ekran paneli veya PDP
+    > **Açıklama:** Tasarım yüzeyi üzerinde bulunan marka kimliği ve tüm ana iletişim
+    > unsurları için ayrılmış olan ambalaj tasarımındaki
+    > alan ana ekran panelidir.
+    > Tasarım yüzeyi üzerinde bulunan ana ekran paneli, aynı zamanda başlıca ekran paneli veya PDP
     > olarak bilinen, marka kimliği ve tüm ana iletişim
     > unsurları için ayrılmış olan ambalaj tasarımındaki
     > alandır.
@@ -567,7 +579,8 @@
     - D-) Cam
     - E-) metal
 
-    > **Açıklama:** Mukavva malzeme de suya karşı dayanıksızdır ve nemle temas halinde kolayca zarar görebilir. Bu nedenle, mukavva ambalajların suya dayanıklı bir kaplama veya bariyer malzemesi ile korunması gerekebilir. Mukavva ambalajlar ayrıca taşıma sırasında düzgün desteklenmezse ezilebilir veya şekil değiştirebilir.
+    > **Açıklama:** Mukavva ezilme ve şekil değiştirmeye diğer malzemelere göre yatkındır.
+    > Mukavva malzeme de suya karşı dayanıksızdır ve nemle temas halinde kolayca zarar görebilir. Bu nedenle, mukavva ambalajların suya dayanıklı bir kaplama veya bariyer malzemesi ile korunması gerekebilir. Mukavva ambalajlar ayrıca taşıma sırasında düzgün desteklenmezse ezilebilir veya şekil değiştirebilir.
 
     ***
 1. Aşağıdaki sorulardan hangisi ambalajın üretim ortamında zorluk yaratmadan üretilebilmesi ile ilgili değildir?
@@ -587,7 +600,8 @@
     - D-) Gerektiğinde ambalaj ve içindekiler sterilize edilebilir mi?
     - E-) Ambalaj kırılma, kontrol gibi konularda olağandışı zorluklar getiriyor mu?
 
-    > **Açıklama:** Yapısal olarak:
+    > **Açıklama:** bak
+    > Yapısal olarak:
     > • Yüksek hızlarda mekanize üretimden geçecek mi?
     > • Taşıma ve nakliye sırasında aşırı sıcaklık ve/veya soğutma koşullarına dayanabilir mi?
     > • Depolarda ve perakende satış mağazalarında depolama koşullarında ayakta duracak mı?
@@ -604,7 +618,7 @@
 
     > **Açıklama:** İşlevsel bir ürün olan ambalajın temel işlevi ürünü dış etkilere karşı korumaktır. Bu işlev ambalajın
     > malzemesini, biçimini, boyutunu ve bunun gibi faktörlerini belirler. Ambalajın üzerinin tasarımı
-    > ise daha çok pazarlamaya yönelik, estetik, albenisi olan, bilgi veren, güven verici ve dikkat çekici olmak üzerinedir.
+    > ise daha çok pazarlamaya yönelik, estetik, albenisi olan, bilgi veren, güven verici ve dikkat çekici olmak üzerinedir.
 
     ***
 1. Bir markanın gücünü, değerini ve algılanışını anlamak için yapılan ayrıntılı in­celeme sürecine ne ad verilir?
@@ -614,7 +628,7 @@
     - D-) Üretim süreci
     - E-) Tüketici anketleri
 
-    > **Açıklama:** Marka analizi, bir markanın gücünü, değerini ve algılanışını anlamak için yapılan ayrıntılı bir inceleme sürecidir. Bu analiz, markanın mevcut durumunu değerlendirmek, rekabet ortamında nasıl konumlandığını anlamak ve pazarlama stratejilerini belirlemek için kullanılır.
+    > **Açıklama:** Marka analizi, bir markanın gücünü, değerini ve algılanışını anlamak için yapılan ayrıntılı bir inceleme sürecidir. Bu analiz, markanın mevcut durumunu değerlendirmek, rekabet ortamında nasıl konumlandığını anlamak ve pazarlama stratejilerini belirlemek için kullanılır.
 
     ***
 1. Beş aşamalı keşif sürecinde hangi basamak en sonda yer alır?
@@ -644,7 +658,7 @@
     - D-) Müşteri ne tür bir geri bildirim aldı veya ta­lep etti?
     - **Cevap E-) Tasarım hedef kitlenin duygularını harekete geçiriyor mu?**
 
-    > **Açıklama:** Yedi aşamalı tasarım sürecinin 5.basamağı olan seçme evresinde, daha önceki evrelerde bulunan fikirler ve bu fikirler doğrultusunda üretilen çözümlerden bir tanesi geliştirilmek üzere seçilir. Seçme evresinin kontrol listesi şu şekildedir:
+    > **Açıklama:** Yedi aşamalı tasarım sürecinin 5.basamağı olan seçme evresinde, daha önceki evrelerde bulunan fikirler ve bu fikirler doğrultusunda üretilen çözümlerden bir tanesi geliştirilmek üzere seçilir. Seçme evresinin kontrol listesi şu şekildedir:
     > • Tasarım yön bilgide tanımlanan gereksinimleri
     > karşılıyor mu?
     > • Tasarım hedef kitlenin duygularını harekete
@@ -663,7 +677,7 @@
     - D-) III ve IV
     - E-) III ve V
 
-    > **Açıklama:** Tasarım yüzeyi üzerinde bulunan ana ekran paneli (başlıca ekran paneli veya PDP) marka kimliği ve tüm ana iletişim unsurları için ayrılmış olan ambalaj tasarımındaki alandır. İyi tasarlanmış bir PDP marka ve ürün bilgilerini içerir ve bilgileri hiyerarşik bir şekilde sunar. İhtiyaca göre 2 veya 3 alana bölünerek tasarlanabilir. Bir PDP’nin tasarımı, tipografi, renk, imgeleme (örneğin illüstrasyonlar, fotoğraflar, semboller, grafik cihazlar ve simgeler), boyut, şekil ve yapı gibi mevcut olan tüm araçları ve seçenekleri kullanabilir.
+    > **Açıklama:** Tasarım yüzeyi üzerinde bulunan ana ekran paneli (başlıca ekran paneli veya PDP) marka kimliği ve tüm ana iletişim unsurları için ayrılmış olan ambalaj tasarımındaki alandır. İyi tasarlanmış bir PDP marka ve ürün bilgilerini içerir ve bilgileri hiyerarşik bir şekilde sunar. İhtiyaca göre 2 veya 3 alana bölünerek tasarlanabilir. Bir PDP’nin tasarımı, tipografi, renk, imgeleme (örneğin illüstrasyonlar, fotoğraflar, semboller, grafik cihazlar ve simgeler), boyut, şekil ve yapı gibi mevcut olan tüm araçları ve seçenekleri kullanabilir.
 
     ***
 1. Bir ürün ambalajının neme, darbelere ve sıkışmalara dayanıklı ve çevre dostu olması isteniyorsa bu ambalajın üretiminde hangi malzemenin kullanımı uygun olur?
@@ -713,7 +727,16 @@
     - **Cevap D-) Moodboard**
     - E-) Soultable
 
-    > **Açıklama:** MOODBOARD: Görüntüleri, malzemeleri, metni ve diğer tasarım öğelerini nihai
+    > **Açıklama:** MOODBOARD: Görüntüleri, malzemeleri, metni ve diğer tasarım öğelerini nihai
+    > tasarımın stilini temsil eden bir formatta
+    > düzenleyen fiziksel veya dijital kolajlardır.
+    > “mood”+”board” kelimelerinden oluşup;
+    > Türkçe karşılığı “ruh hali, duygu durumu”+ “pano” olarak çevrilir, ilham panosu
+    > olarak kullanılır. Moodboard, tasarım sürecinde ilham almak için kullanılan, üzerine resim veya yazı gibi birçok materyalin
+    > yerleştirildiği, konuyu daha iyi kavramak
+    > ve görsel bir dil oluşturmak adına yapılan
+    > panolardır. İlham panoları tasarım disiplinin birçok alanında, özellikle hazırlık sürecinde kullanılır. (Gök
+    > MOODBOARD: Görüntüleri, malzemeleri, metni ve diğer tasarım öğelerini nihai
     > tasarımın stilini temsil eden bir formatta
     > düzenleyen fiziksel veya dijital kolajlardır.
     > “mood”+”board” kelimelerinden oluşup;
@@ -731,7 +754,8 @@
     - D-) SPC
     - E-) CtG
 
-    > **Açıklama:** Beşikten beşiğe (cradle to cradle) ise kimyager Michael Braungart ve mimar William McDonough tarafından ortaya atılan bir değerlendirme modelidir. Bu model “Atığın” olmadığı kapalı döngü bir sistemdir.
+    > **Açıklama:** Braungart, paketin ilk kullanımını tasarlarken reenkarnasyon için tasarım yapmayı ve malzemenin bir sonraki kullanımını planlamayı tavsiye eder.
+    > Beşikten beşiğe (cradle to cradle) ise kimyager Michael Braungart ve mimar William McDonough tarafından ortaya atılan bir değerlendirme modelidir. Bu model “Atığın” olmadığı kapalı döngü bir sistemdir.
 
     ***
 1. Paketin ilk kullanımını tasarlarken reenkarnasyon için tasarım yapmayı ve malzemenin bir sonraki kullanımını planlamayı tavsiye eden bilim insanı kimdir?
@@ -741,7 +765,8 @@
     - D-) Ambrose
     - E-) Python
 
-    > **Açıklama:** Braungart, paketin ilk kullanımını tasarlarken ***reenkarnasyon\**** için tasarım yapmayı ve malzemenin bir sonraki kullanımını planlamayı tavsiye eder.
+    > **Açıklama:** Beşikten beşiğe (cradle to cradle) ise kimyager Michael Braungart ve mimar William McDonough tarafından ortaya atılan bir değerlendirme modelidir. Bu model “Atığın” olmadığı kapalı döngü bir sistemdir. Kullanım ömrünün sonundaki ambalajlar, ya bir üretim sistemi için teknik bir besin maddesi olarak ya da biyolojik olarak güvenli bir şekilde parçalanan biyolojik bir besin maddesi olarak tekrar tekrar geri dönüştürülür veya başka bir amaca uygun hale getirilir. Braungart, paketin ilk kullanımını tasarlarken reenkarnasyon için tasarım yapmayı ve malzemenin bir sonraki kullanımını planlamayı tavsiye eder.
+    > Braungart, paketin ilk kullanımını tasarlarken ***reenkarnasyon\**** için tasarım yapmayı ve malzemenin bir sonraki kullanımını planlamayı tavsiye eder.
     > NOT:
     > \*Braungart'ın tasarım modeli çağrısında kullandığı Design for Reincarnation" (reenkarnasyon için tasarlayın) ifadesinde reenkarnasyon kelimesini tercih etmesi, tasarım ürününün yaşam döngüsünü tıpkı canlılardaki biyolojik sürece benzetmesine dayanır.
     > Atık oluşturmamanın hedeflendiği bu sistemde kullanım süresini doldurmuş tasarım ürünü atığa dönüşmek yerine, ya bir üretim sistemi için teknik bir **besin** maddesi olarak ya da biyolojik olarak güvenli bir şekilde parçalanan biyolojik bir **besin** maddesi olarak tekrar tekrar geri dönüştürülür veya başka bir amaca uygun hale getirilir. Braungart bu tasarım yaklaşımında besin ve reenkarnasyon benzeri ifadeleri, endüstriyel ürünlerin de tıpkı canlıların geçirdiği doğum, beslenme, ölüm gibi biyolojik süreçlere tabi olduğunu vurgulamak için kullandığı benzetmelerdir.
@@ -754,7 +779,10 @@
     - D-) Genellikle ekonomiklerdir
     - E-) Standart boyutlarda ve tasarımlarda üretilirler
 
-    > **Açıklama:** Stok ambalajları genellikle
+    > **Açıklama:** Stok ambalajı, genellikle birçok farklı ürün için
+    > kullanılabilen ve kolayca erişilebilen bir ambalaj
+    > çeşididir.
+    > Stok ambalajları genellikle
     > markasızdır ve ürünlerin tanıtımına yönelik özel
     > tasarımları veya baskıları bulunmaz.
 
@@ -766,7 +794,8 @@
     - **Cevap D-) Müşteri ve ajansın yüz yüze görüşmesi ile sorulara yanıt aranır**
     - E-) Bu çalışma sadece tasarım detayları üzerine yapılır.
 
-    > **Açıklama:** Proje kabul edildikten sonra müşteriyi ve talebi doğru anlamak adına müşteri
+    > **Açıklama:** Kitabımızda görüşmenin yüz yüze yapılması önerilmektedir.
+    > Proje kabul edildikten sonra müşteriyi ve talebi doğru anlamak adına müşteri
     > ile yüz yüze bir görüşme yapılarak yönbilgi (brief)
     > tüm detaylarıyla alınmalı, müşterinin tam olarak
     > ne istediği iki taraf için de netleşene kadar sorular
@@ -780,7 +809,8 @@
     - D-) Hedef kitleyi harekete geçirecek uyarıcı etmenler ve tasarımın başarısına engel olacak etmenler belirlemek.
     - E-) Müşteri ve tasarım ekibinin aynı terimleri kullandığından emin olmak.
 
-    > **Açıklama:** Tanımlama: Yapılan bu tanımlama birçok
+    > **Açıklama:** Kitabımızda fikir bulma aşaması için "Fikirler, çizimler, eskizler, moodboardlar veya diğer görsel araçlarla ifade edilir. Bu süreçte, farklı yaklaşımlar deneyerek sınırları zorlamak ve yaratıcılığı teşvik etmek önemlidir" denmiştir. Fikir bulma aşaması tanımlama aşamasından sonra gelir.
+    > Tanımlama: Yapılan bu tanımlama birçok
     > noktada beş aşamalı sürece benzemektedir. İlk aşama olan tanımlama süreci müşteriden alınan yönbilgi ile başlar. Yönbilginin netleştirilmesi için bir
     > kontrol listesi yapılabilir:
     > • Müşterinin ne istediğini anladınız mı?
@@ -881,7 +911,7 @@
     > **Açıklama:** Üçüncü seviye ambalajlar ise ikinci seviye ambalajların gruplandırılıp plastik filmlerle sarılarak paletlerle dağıtıma hazır ve taşınabilir hale getirilmelerini sağlarken, hem bü- tünlüğü sağlama hem de ürünlerin korunmasına destek olma görevlerini yerine getirir. Tüketiciler üçüncü seviye ambalajlar neredeyse hiçbir zaman etkileşime geçmez.
 
     ***
-1. Aşağıdakilerden hangisi veya hangileri gıda ambalajlarında sıklıkla seçilen malzemelerdir?<br />I.     Cam<br />II.    Alüminyum<br />III.   Teneke<br />IV.    Çelik<br />V.     Polyolefin<br />VI.   Polyester<br />VII.  PVC<br />VIII. Polistiren<br />IX.   Poliamid<br />X.    EVA<br />XI.   PLA<br />XII.  Kağıt ve karton<br />XIII. Laminasyon
+1. Aşağıdakilerden hangisi veya hangileri gıda ambalajlarında sıklıkla seçilen malzemelerdir?<br />I. Cam<br />II. Alüminyum<br />III. Teneke<br />IV. Çelik<br />V. Polyolefin<br />VI. Polyester<br />VII. PVC<br />VIII. Polistiren<br />IX. Poliamid<br />X. EVA<br />XI. PLA<br />XII. Kağıt ve karton<br />XIII. Laminasyon
     - **Cevap A-) I/II/III/IV/V/VI/VII/VIII/IX/X/XI/XII/XIII**
     - B-) I/II/III/IV/V/VI/VIII/IX/X/XI/XIII
     - C-) I/II/IV/V/VI/VII/VIII/IX/X/XI/XII
@@ -921,7 +951,8 @@
     - **Cevap D-) İklim şartlarına göre gıda ürünün korunması**
     - E-) Tüketicide dikkat çekme
 
-    > **Açıklama:** İklim şartlarına göre gıda ürünün korunması
+    > **Açıklama:** **Başlangıçta sadece iklim şartlarından korunma ve/veya gıda ürünlerinin korunması ihtiyacından** **ortaya çıkan ambalaj,** endüstrileşme ve ticaretin yaygınlaşmasıyla, tüketicilerin dikkatini çeken, içerdiği ürünü tanıtan ve satın alma eylemine etki eden önemli bir unsur görevler üstlenmiştir.
+    > İklim şartlarına göre gıda ürünün korunması
 
     ***
 1. Ambalaj, üretim aşamasından tüketiciye ulaşım sürecinde farklı işlemleri kolaylaştırır. Aşağıdakilerden hangisi bu işlemlerden **değildir?**
@@ -931,7 +962,8 @@
     - D-) Ürünü dağıtma
     - E-) Ürünü tanıtma
 
-    > **Açıklama:** Ürün tüketimini hızlandırma
+    > **Açıklama:** Üretim aşamasından tüketiciye ulaşıncaya kadar, ürünü bir arada tutarak taşıma, depolama, dağıtma, tanıtma gibi işlemleri...
+    > Ürün tüketimini hızlandırma
 
     ***
 1. Ambalaj malzemeleri, hammadde farklılıklarının yanı sıra daha birçok çeşitli özelliklere sahip olabilirler. Aşağıdakilerden hangisi bu özelliklerden **değildir?**
@@ -941,7 +973,9 @@
     - D-) Geçirgenlik
     - E-) Biyobozunurluk
 
-    > **Açıklama:** Ekonomiklik
+    > **Açıklama:** Ambalaj malzemeleri, hammadde farklılıklarının yanı sıra; dayanıklılık, esneklik, geçirgenlik, renk,
+    > biyobozunurluk ve daha birçok çeşitli özelliklere sahip olabilirler.
+    > Ekonomiklik
 
     ***
 1. Aşağıdakilerden hangisi cam ambalajların olumlu özelliklerinden **değildir?**
@@ -951,7 +985,23 @@
     - D-) Sterilize edilebilir.
     - E-) Çeşitli renk, büyüklük ve formda üretilebilir.
 
-    > **Açıklama:** Geçirgendir
+    > **Açıklama:** **Cam ambalajların olumlu özellikleri:**
+    > • İçine konulan ürün görülebilir.
+    > • Aşınma ve bozulmalara karşı dayanıklıdır.
+    > • Renkli çeşitlerinde belirli düzeyde ışığa karşı
+    > koruma sağlar.
+    > • Geçirgen değildir.
+    > • Isı ve basınca dayanımı yüksektir.
+    > • Sterilize edilebilir.
+    > • Tüketim sonunda farklı amaçlar için de
+    > kullanılabilir.
+    > • Çeşitli renk, büyüklük ve formda üretilebilir.
+    > • Uzun raf ömrü sağlar.
+    > • Ambalajlanan ürünler kimyasal etkileşim
+    > göstermez.
+    > • Defalarca kullanım özelliği olduğundan
+    > ekonomiktir.
+    > Geçirgendir
 
     ***
 1. Sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünlerin ambalajlanmasında, hava geçirgenlikleri nedeniyle meyve ve sebzelerin paketlenmesinde, kendine has dokusunun olması nedeniyle de özel tasarım ürünleri ve birçok hediyenin sunumu için yaygın olarak kullanılan ambalaj malzemesi aşağıdakilerden hangisidir?
@@ -961,7 +1011,7 @@
     - D-) Plastik
     - **Cevap E-) Ahşap**
 
-    > **Açıklama:** Ahşap
+    > **Açıklama:** **Ahşap ambalaj malzemeleri,** sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünlerin ambalajlanmasında, hava geçirgenlikleri nedeniyle meyve ve sebzelerin paketlenmesinde, kendine has dokusunun olması nedeniyle de özel tasarım ürünleri ve birçok hediyenin sunumu için yaygın olarak kullanılmaktadır.
 
     ***
 1. Hafif, paslanmayan, korozif olmayan, yüksek ısı ve elektrik yalıtım özelliklerine sahip, kolay zarar görmeyen, esnek, yumuşak ve kolay kalıplanabilen yapıya sahip ambalaj malzemesi aşağıdakilerden hangisidir?
@@ -971,7 +1021,7 @@
     - D-) Ahşap
     - E-) Cam
 
-    > **Açıklama:** Plastik
+    > **Açıklama:** Plastik ve plastik esaslı hammaddelerin hafif, paslanmayan, korozif olmayan, yüksek ısı ve elektrik yalıtım özelliklerine sahip, kolay zarar görmeyen, esnek, yumuşak ve kolay kalıplanabilen yapıya sahip olmaları plastik hammaddeleri ambalaj malzemelerinin vazgeçilmezlerinden biri haline getirmektedir.
 
     ***
 1. Karton ve oluklu mukavva koliler, shrink filmler, streç filmler, plastik kemerler, paletler ve kasalar yaygın kullanılan ambalaj türü aşağıdakilerden hangisidir?
@@ -981,7 +1031,8 @@
     - D-) İkincil Ambalajlar
     - **Cevap E-) Üçüncül Ambalajlar**
 
-    > **Açıklama:** Üçüncül Ambalajlar
+    > **Açıklama:** Karton ve oluklu mukavva koliler, shrink filmler, streç filmler, plastik kemerler, paletler ve kasalar
+    > yaygın kullanılan **üçüncül ambalajlardır.**
 
     ***
 1. Bir ambalajın yapısal tasarım uygulamaları genellikle kim tarafından yapılır?
@@ -991,7 +1042,7 @@
     - **Cevap D-) Endüstri tasarımcı**
     - E-) İllüstratör
 
-    > **Açıklama:** Endüstri tasarımcı
+    > **Açıklama:** Yapısal tasarım uygulamaları genellikle **endüstri tasarımcılar**ı tarafından yapılır ve bu tasarımcılar ambalaj üretiminde kullanılan temel malzemeler üzerinde geniş bilgi ve birikime sahip olmalıdırlar.
 
     ***
 1. Aşağıdakilerden hangisi ambalajın yapı tasarımında dikkat edilmesi gereken özelliklerden **değildir?**
@@ -1001,7 +1052,12 @@
     - D-) Ambalajın üretimi ve dolum süreci
     - E-) Ambalajlanacak ürünün kimyasal ve fiziksel özellikleri
 
-    > **Açıklama:** Ambalajlanacak ürünün dağıtımı
+    > **Açıklama:** **Ambalajın yapı tasarımında aşağıdakilere dikkat edilmesi gerekir:**
+    > • Ambalajlanacak ürünün kimyasal ve fiziksel özellikleri (Katı, sıvı, gaz, toz, granül…)
+    > • Ambalajlanacak ürünün geometrik form özellikleri (Üçgen, dikdörtgen, prizma, küp, silindir…)
+    > • Ambalajlanacak ürüne uygun malzeme cinsi seçimi (Cam, metal, plastik, ahşap, kâğıt…)
+    > • Ambalajın üretimi ve dolum süreci
+    > Ambalajlanacak ürünün dağıtımı
 
     ***
 1. Aşağıdakilerden hangisi çukur, düz, bombeli, girintili çıkıntılı ya da eğimli gibi farklı yapı formlarından oluşan yüzeylere baskı yapmak için kullanılan endüstriyel baskı tekniğidir?
@@ -1011,7 +1067,8 @@
     - **Cevap D-) Tampon baskı**
     - E-) Ofset baskı
 
-    > **Açıklama:** Tampon baskı
+    > **Açıklama:** **Tampon baskı:** Çukur, düz, bombeli, girintili çıkıntılı ya da eğimli gibi farklı yapı formlarından
+    > oluşan yüzeylere baskı yapmak için kullanılan bir tekniktir (Tepecik, 2002, s. 115).
 
     ***
 1. * Isıya dayanıklıdır<br />* Geri dönüştürülebilirdir<br />* Kimyasallara karşı dirençlidir<br />Yukarıda özellikleri belirtilen ambalaj malzemesi aşağıdakilerden hangisidir?
@@ -1034,7 +1091,7 @@
     > **Açıklama:** Buharla bükme ve CNC ile işleme yöntemleri ahşaba şekil verme de kullanılır (Thompson, 2007, s. 421-422).
 
     ***
-1. Günlük hayatımızda sıklıkla karşımıza çıkan içecek ya da konserve kutuları, boya tüpleri ve yağ tenekeleri hangi ambalajlara örnek olarak verilebilir.
+1. Günlük hayatımızda sıklıkla karşımıza çıkan içecek ya da konserve kutuları, boya tüpleri ve yağ tenekeleri hangi ambalajlara örnek olarak verilebilir.
     - A-) Kağıt
     - B-) Cam
     - C-) Ahşap
@@ -1072,7 +1129,7 @@
     - D-) Termoformlama
     - E-) Vakum şekillendirme
 
-    > **Açıklama:** Plastik ambalajların üretim yöntemleri arasında ekstrüzyon, enjeksiyon kalıplama, şişirme kalıplama, termoformlama ve vakum şekillendirme gibi işlemler bulunur. İndirme-çökertme tekniği cam yapım-işlemede kullanılmaktadır.
+    > **Açıklama:** Plastik ambalajların üretim yöntemleri arasında ekstrüzyon, enjeksiyon kalıplama, şişirme kalıplama, termoformlama ve vakum şekillendirme gibi işlemler bulunur. İndirme-çökertme tekniği cam yapım-işlemede kullanılmaktadır.
 
     ***
 1. * Cam gibi şeffaftır ve su ve gazlı içecekler için kullanılır.<br />* Hardal, fıstıkezmesi, yenilebilir yağlar ve şuruplar gibi yiyecekler için kullanılır.<br />* Gıda ve tıbbi ürünler için keseler bu malzemeden üretilir.<br />Yukarıda özellikleri verilen plastik ambalaj türü aşağıdakilerden hangisidir?
@@ -1102,7 +1159,7 @@
     - D-) Dördüncül ambalaj
     - E-) Beşincil ambalaj
 
-    > **Açıklama:** Üçüncül Ambalaj, nakliye ambalajı, depolama ambalajı veya yükleme ambalajı olarak da isimlendirilir. Bu ambalaj ürünün tüketiciye sunulma sürecinde nakliye işlemlerini kolaylaştırmak amacıyla kullanılır ve son tüketiciye ulaşmazlar.
+    > **Açıklama:** Üçüncül Ambalaj, nakliye ambalajı, depolama ambalajı veya yükleme ambalajı olarak da isimlendirilir. Bu ambalaj ürünün tüketiciye sunulma sürecinde nakliye işlemlerini kolaylaştırmak amacıyla kullanılır ve son tüketiciye ulaşmazlar.
 
     ***
 1. Bilgisayar ortamında tasarlanan çalışmaların film ya da kalıp hazırlama gibi işlem basamakları olmadan doğrudan baskı makinalarına gönderilip, tasarımın baskı altı malzemelerine aktarılması suretiyle yapılan baskı tekniği aşağıdakilerden hangisidir?
@@ -1112,18 +1169,19 @@
     - D-) Düz baskı tekniği
     - E-) Şablon baskı tekniği
 
-    > **Açıklama:** Bilgisayar ortamında tasarlanan çalışmaların film ya da kalıp hazırlama gibi işlem basamakları olmadan doğrudan baskı makinalarını gönderilip, tasarımın baskı altı malzemelerine aktarılması suretiyle yapılan baskılara dijital baskı denir.  Dijital baskı tekniğini, geleneksel baskı tekniklerinden ayıran en önemli özellik film ve kalıp hazırlama sürecinin olmaması ve tasarımların baskılarda kişiye özel basılabilmesine imkân sunmasıdır.
+    > **Açıklama:** Bilgisayar ortamında tasarlanan çalışmaların film ya da kalıp hazırlama gibi işlem basamakları olmadan doğrudan baskı makinalarını gönderilip, tasarımın baskı altı malzemelerine aktarılması suretiyle yapılan baskılara dijital baskı denir. Dijital baskı tekniğini, geleneksel baskı tekniklerinden ayıran en önemli özellik film ve kalıp hazırlama sürecinin olmaması ve tasarımların baskılarda kişiye özel basılabilmesine imkân sunmasıdır.
 
     ***
 ## Unite 6
-1. 19. ve 20. yüzyıllarda ambalaj üretiminin amacı/amaçları aşağıdakilerden hangisi/hangileridir?<br />I.maliyet verimliliği<br />II.nakliye ve satış sürecinde ürünün korunması<br />III.üretici tercihi<br />IV.sürdürülebilirlik ve atık azaltma<br />V.kişisel beğeni
+1. 19\. ve 20. yüzyıllarda ambalaj üretiminin amacı/amaçları aşağıdakilerden hangisi/hangileridir?<br />I.maliyet verimliliği<br />II.nakliye ve satış sürecinde ürünün korunması<br />III.üretici tercihi<br />IV.sürdürülebilirlik ve atık azaltma<br />V.kişisel beğeni
     - A-) I,II,III
     - B-) IV,V
     - C-) I,III,V
     - D-) yalnız IV
     - **Cevap E-) I,II,IV**
 
-    > **Açıklama:** 19. ve 20. yüzyıllarda, sanayileşme ve seri üre­tim tekniklerinin yükselişi, ambalaj alanında stan­dartlaştırılmış formatların benimsenerek bir amba­laj devrimi başlatmıştır. Bu dönemde, temel odak noktası maliyet verimliliği ve nakliye süreçlerindeki korumayı amaçlayan ambalaj, çevresel kaygıların artmasıyla birlikte sürdürülebilirlik ve atık azaltma konuları ön plana çıkmış bu da çevre dostu malze­melerin ve yalın tasarımların benimsenmesine yol açmıştır. Doğru cevap: E- I,II,IV
+    > **Açıklama:** Giriş
+    > 19\. ve 20. yüzyıllarda, sanayileşme ve seri üre­tim tekniklerinin yükselişi, ambalaj alanında stan­dartlaştırılmış formatların benimsenerek bir amba­laj devrimi başlatmıştır. Bu dönemde, temel odak noktası maliyet verimliliği ve nakliye süreçlerindeki korumayı amaçlayan ambalaj, çevresel kaygıların artmasıyla birlikte sürdürülebilirlik ve atık azaltma konuları ön plana çıkmış bu da çevre dostu malze­melerin ve yalın tasarımların benimsenmesine yol açmıştır. Doğru cevap: E- I,II,IV
 
     ***
 1. Akıllı ambalajların alıcılara sağladığı fayda/faydalar aşağıdakilerden hangisidir?<br />I.ürünü algılamak<br />II.daha bol ürün alma imkanı<br />III.ürünle ilgili doğru verileri iletmek,<br />IV.ürün hakkında bilgi vermek<br />V.güvenli ve bilinçli alışveriş imkanı<br />VI.hızlı alışveriş imkanı
@@ -1133,7 +1191,8 @@
     - D-) Yalnız III
     - E-) I,V
 
-    > **Açıklama:** Akıllı ambalajlar, algılama, barkod ve ticari marka bilgi sistemlerini kullanarak ürünle ilgili doğru verileri kullanıcılara ileterek, tü­keticilerin ürünler hakkında daha fazla bilgi sahibi olmalarını, güvenli ve bilinçli alışveriş yapmalarını sağlamaktadır.
+    > **Açıklama:** Giriş
+    > Akıllı ambalajlar, algılama, barkod ve ticari marka bilgi sistemlerini kullanarak ürünle ilgili doğru verileri kullanıcılara ileterek, tü­keticilerin ürünler hakkında daha fazla bilgi sahibi olmalarını, güvenli ve bilinçli alışveriş yapmalarını sağlamaktadır.
     > Doğru cevap A-I,III,IV,V
 
     ***
@@ -1144,18 +1203,20 @@
     - D-) Yalnız II
     - E-) I,II,III,IV
 
-    > **Açıklama:** Aktif ambalaj, raf ömrünü uzatmak için paket­lenmiş ürünle etkileşime giren oksijen tutucular veya nem alıcılar gibi maddelerin kullanılmasını içermektedir.
+    > **Açıklama:** Aktif ve Akıllı Ambalajlar
+    > Aktif ambalaj, raf ömrünü uzatmak için paket­lenmiş ürünle etkileşime giren oksijen tutucular veya nem alıcılar gibi maddelerin kullanılmasını içermektedir.
     > Doğru cevap C-Yalnız I
 
     ***
-1. Aşağıdakilerden hangisi/hangileri akıllı ambalaj çözümlerinin temel amaçlarındandır?<br />I. Raf ömrünü uzatmak<br />II. Tedarik zinciri yönetimini iyileştirmek<br />III. Ürünü pazardaki rakiplerinden ayırmak
+1. Aşağıdakilerden hangisi/hangileri akıllı ambalaj çözümlerinin temel amaçlarındandır?<br />I. Raf ömrünü uzatmak<br />II. Tedarik zinciri yönetimini iyileştirmek<br />III. Ürünü pazardaki rakiplerinden ayırmak
     - A-) Yalnız II
     - **Cevap B-) I, II**
     - C-) Yalnız I
     - D-) I, II, III
     - E-) I, III
 
-    > **Açıklama:** Akıllı ambalajlar, tüketici deneyimlerini geliştiren, ürünlerin **raf ömrünü uzatan** ve **tedarik zinciri yönetimini iyileştiren** yenilikçi tasarım ve teknoloji entegrasyonuyla sektörde devrim yaratan çözümler olarak karşımıza çıkmaktadır.
+    > **Açıklama:** Aktif ve Akıllı Ambalajlar
+    > Akıllı ambalajlar, tüketici deneyimlerini geliştiren, ürünlerin **raf ömrünü uzatan** ve **tedarik zinciri yönetimini iyileştiren** yenilikçi tasarım ve teknoloji entegrasyonuyla sektörde devrim yaratan çözümler olarak karşımıza çıkmaktadır.
     > Doğru cevap: B) I, II
 
     ***
@@ -1166,7 +1227,8 @@
     - D-) Yalnız II
     - E-) II,V
 
-    > **Açıklama:** Aktif ambalaj sistemlerinde sıklıkla kullanılan bileşenler arasında oksijen tutucular, etilen tutucular, aroma ve koku alıcılar/salıcılar, antimikrobiyaller ve anti­oksidanlar bulunmaktadır.
+    > **Açıklama:** **Aktif ve Akıllı Ambalajlar**
+    > Aktif ambalaj sistemlerinde sıklıkla kullanılan bileşenler arasında oksijen tutucular, etilen tutucular, aroma ve koku alıcılar/salıcılar, antimikrobiyaller ve anti­oksidanlar bulunmaktadır.
     > Doğru cevap: B-I,II,III,IV
 
     ***
@@ -1177,7 +1239,8 @@
     - D-) II, IV, VI
     - E-) Yalnız VII
 
-    > **Açıklama:** Doğru tanımlar I, III ve V.
+    > **Açıklama:** **Akıllı Ambalaj Teknolojileri**
+    > Doğru tanımlar I, III ve V.
     > Barkod ve QR kod açıklamaları ters olarak verilmiştir.
     > NFC ve TTI açıklamaları ters olarak verilmiştir.
     > RFID, Nanoteknoloji ve Nesnelerin interneti doğrudur.
@@ -1197,7 +1260,8 @@
     - D-) II,IV,VI
     - **Cevap E-) I,II,III,IV,V,VI**
 
-    > **Açıklama:** Yapay zeka entegrasyonu, IoT ilerlemeleri, sürdü­rülebilirlik uygulamaları, güvenlik özellikleri ve kullanıcı merkezli tasarım alanlarındaki araştırma ve geliştirmeler sayesinde akıllı ambalajlar gelişme­ye devam edecek ve hem tüketiciler hem de işlet­meler için bir dizi faydalar sunacaktır. Gelecekçi bir zihniyeti benimsenmesi sürdürülebilir, güvenli ve kullanıcı dostu çözümlere öncelik verilmesi, akıllı ambalajın önümüzdeki yıllarda daha verimli, sür­dürülebilir bir ambalaj ortamını şekillendirmesinin önünü açacaktır.
+    > **Açıklama:** **Akıllı Ambalajların Gelecek Beklentileri ve Araştırma Önerileri**
+    > Yapay zeka entegrasyonu, IoT ilerlemeleri, sürdü­rülebilirlik uygulamaları, güvenlik özellikleri ve kullanıcı merkezli tasarım alanlarındaki araştırma ve geliştirmeler sayesinde akıllı ambalajlar gelişme­ye devam edecek ve hem tüketiciler hem de işlet­meler için bir dizi faydalar sunacaktır. Gelecekçi bir zihniyeti benimsenmesi sürdürülebilir, güvenli ve kullanıcı dostu çözümlere öncelik verilmesi, akıllı ambalajın önümüzdeki yıllarda daha verimli, sür­dürülebilir bir ambalaj ortamını şekillendirmesinin önünü açacaktır.
     > Doğru cevap. E-I,II,III,IV,V,VI
 
     ***
@@ -1233,7 +1297,8 @@
     - D-) satış stratejisi
     - E-) format
 
-    > **Açıklama:** tipografi, doğru cevap: B
+    > **Açıklama:** Tipoloji
+    > tipografi, doğru cevap: B
 
     ***
 1. Ambalaj tasarımında bir nesnenin şekil, renk, doku ve diğer görsel unsurlar gibi nitelikleri tarafından uyarılan duyu­sal deneyimlerin yorumlanmasına ne ad verilir?
@@ -1243,7 +1308,8 @@
     - D-) psikoloji
     - E-) felsefe
 
-    > **Açıklama:** C-estetik doğru cevap
+    > **Açıklama:** Estetik Değerler
+    > C-estetik doğru cevap
 
     ***
 1. Aşağıdakilerden hangisi aktif ambalaj sistemlerinde sıklıkla kullanılan bileşenler arasında **yer almaz?**
@@ -1257,11 +1323,11 @@
 
     ***
 1. "Akıllı ambalaj" terimi hangi dönemde popüler hale gelmiştir?
-    - A-) 21. yüzyıl
-    - **Cevap B-) 20. yüzyıl sonu**
-    - C-) 20. yüzyıl başı
-    - D-) 19. yüzyıl sonu
-    - E-) 19. yüzyıl başı
+    - A-) 21\. yüzyıl
+    - **Cevap B-) 20\. yüzyıl sonu**
+    - C-) 20\. yüzyıl başı
+    - D-) 19\. yüzyıl sonu
+    - E-) 19\. yüzyıl başı
 
     > **Açıklama:** “Akıllı ambalaj” terimi, geleneksel muhafaza ve korumanın ötesinde ek işlevler sağlayabilen teknolojileri içeren ambalajları ifade etmektedir. Bu kavram, 20. yüzyılın sonlarında hızla popülerlik kazanmış ve o zamandan beri bir yenilikçi ambalaj alanı haline gelmiştir.
 
@@ -1343,7 +1409,7 @@
     - D-) Güvenlik özellikleri önem kazanması
     - **Cevap E-) Ambalajsız satışların artması**
 
-    > **Açıklama:** Ambalajsız satışların artması, ambalaj tasarımının geleceğini yönlendiren gelişmelerden biri değildir.
+    > **Açıklama:** Ambalajsız satışların artması, ambalaj tasarımının geleceğini yönlendiren gelişmelerden biri değildir.
 
     ***
 ## Unite 7
@@ -1466,14 +1532,14 @@
     > Bu bilgilere göre soruda verilen ifadenin karşılığı ***bilgilendirme aşaması*** olup **Doğru Cevap A** seçeneğidir.
 
     ***
-1. 1. Ürün bilgisi,<br />2. Duygusal bağ,<br />3. Sürdürülebilirlik,<br />Yukarıdakilerden hangisi ya da hangileri ambalajın tüketici davranışı üzerindeki genel etkisine katkıda bulunmaktadır?
+1. 1\. Ürün bilgisi,<br />2\. Duygusal bağ,<br />3\. Sürdürülebilirlik,<br />Yukarıdakilerden hangisi ya da hangileri ambalajın tüketici davranışı üzerindeki genel etkisine katkıda bulunmaktadır?
     - A-) Yalnız I
     - B-) I ve II
     - C-) I ve III
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Görsel çekicilik, marka bilinirliği, ürün bilgisi (**I. öncül doğru olur**), algılanan kalite, duygusal bağ (**II. öncül doğru olur**) ve sürdürülebilirlik (**III. öncül doğru olur**), ambalajın tüketici davranışı üzerindeki genel etkisine katkıda bulunmaktadır. Bu bilgilere göre **Doğru Cevap E** seçeneğidir.
+    > **Açıklama:** Görsel çekicilik, marka bilinirliği, ürün bilgisi (**I. öncül doğru olur**), algılanan kalite, duygusal bağ (**II. öncül doğru olur**) ve sürdürülebilirlik (**III. öncül doğru olur**), ambalajın tüketici davranışı üzerindeki genel etkisine katkıda bulunmaktadır. Bu bilgilere göre **Doğru Cevap E** seçeneğidir.
 
     ***
 1. Başarılı bir ambalaj tasarımının ilk adımı aşağıdakilerden hangisidir?
@@ -1494,20 +1560,20 @@
     - E-) Ürün niteliklerini belirli bir süre boyunca koruma,
 
     > **Açıklama:** Herhangi bir sektörde, bir marka ambalajının amaç ve niyet olmak üzere iki farklı işlevi vardır. Amaç
-    > bir ürünü korumak ve sunmak için ambalajın fiziksel olarak ne yapması gerektiğiyle ilgilidir. Ambalaj, bir ürünün belirli bir hacmini veya ölçüsünü içerecek, nakliye süreci boyunca ve mağazada sergilenmesi sırasında kirlenmeden saklayacak, kolay ve verimli bir şekilde taşınmasını ve istiflenmesini kolaylaştıracak, ürün niteliklerini belirli bir süre boyunca koruyacak (bir ürünün taze kalmasını ve bozulmamasını sağlayacak) ve nem, ısı, çarpma ve düşürülme etkisi gibi çeşitli hasar türlerine karşı korunmasını sağlayacak şekilde tasarlanmıştır. ***Niyet*** ise markalı ambalajın amacı bir kitleyi cezbetmesiyle ilgilidir. Perakende ortamlarında, bir ambalajın ***potansiyel alıcıların dikkatini çekmesi ve çeşitli marka* değerlerini hızlı bir şekilde iletmesi** gerekir. Belirli ihtiyaçları başarılı bir şekilde karşılama kabiliyeti, tüketicilerin ürüne pozitif geri bildirimi ve satın alma yönünde motive olmasına yol açacaktır. Zamanla, marka iletişimi, tüketici ihtiyaçlarının tekrar tekrar karşılanması ile birleştiğinde, bir markaya olan müşteri sadakatini yaratacaktır. Alıcıların uyum sağladığı değerlerin sürekli olarak tekrarlanması satın alma isteklerinin harekete geçirebilecektir. Dolayısıyla **Doğru Cevap C** seçeneğidir.
+    > bir ürünü korumak ve sunmak için ambalajın fiziksel olarak ne yapması gerektiğiyle ilgilidir. Ambalaj, bir ürünün belirli bir hacmini veya ölçüsünü içerecek, nakliye süreci boyunca ve mağazada sergilenmesi sırasında kirlenmeden saklayacak, kolay ve verimli bir şekilde taşınmasını ve istiflenmesini kolaylaştıracak, ürün niteliklerini belirli bir süre boyunca koruyacak (bir ürünün taze kalmasını ve bozulmamasını sağlayacak) ve nem, ısı, çarpma ve düşürülme etkisi gibi çeşitli hasar türlerine karşı korunmasını sağlayacak şekilde tasarlanmıştır. ***Niyet*** ise markalı ambalajın amacı bir kitleyi cezbetmesiyle ilgilidir. Perakende ortamlarında, bir ambalajın ***potansiyel alıcıların dikkatini çekmesi ve çeşitli marka* değerlerini hızlı bir şekilde iletmesi** gerekir. Belirli ihtiyaçları başarılı bir şekilde karşılama kabiliyeti, tüketicilerin ürüne pozitif geri bildirimi ve satın alma yönünde motive olmasına yol açacaktır. Zamanla, marka iletişimi, tüketici ihtiyaçlarının tekrar tekrar karşılanması ile birleştiğinde, bir markaya olan müşteri sadakatini yaratacaktır. Alıcıların uyum sağladığı değerlerin sürekli olarak tekrarlanması satın alma isteklerinin harekete geçirebilecektir. Dolayısıyla **Doğru Cevap C** seçeneğidir.
 
     ***
-1. 1. Bir şirketin pazardaki genel prestijini, geleneğini, uzmanlığını ve itibarını kullanarak, müşterilerin şirketin nitelikli ürünler sunduğunu bilmesini sağlamak için kullanılmaktadır.<br />2. Farklı ürün çeşitleri için, bir ana şirket markasına bağlıymış gibi sunulan markalar bulunur.<br />3. Ana markaya herhangi bir atıfta bulunmadan her çeşitlilik için geliştirilen bir markayı tanımlar.<br />Yukarıda markaların benzersizlik ölçütleri ifade edilmiştir. Buna göre aşağıdakilerden hangisinde bu ölçütler doğru bir biçimde eşleştirilmiştir.
+1. 1\. Bir şirketin pazardaki genel prestijini, geleneğini, uzmanlığını ve itibarını kullanarak, müşterilerin şirketin nitelikli ürünler sunduğunu bilmesini sağlamak için kullanılmaktadır.<br />2\. Farklı ürün çeşitleri için, bir ana şirket markasına bağlıymış gibi sunulan markalar bulunur.<br />3\. Ana markaya herhangi bir atıfta bulunmadan her çeşitlilik için geliştirilen bir markayı tanımlar.<br />Yukarıda markaların benzersizlik ölçütleri ifade edilmiştir. Buna göre aşağıdakilerden hangisinde bu ölçütler doğru bir biçimde eşleştirilmiştir.
     - A-) I. Onaylayıcı Marka - II. Tek-Baskın Marka (Monolitik) - III. Bağımsız Marka
-    - **Cevap B-) I. Tek-Baskın Marka (Monolitik) - II. Onaylayıcı Marka - III. Bağımsız Marka**
-    - C-) I. Bağımsız Marka - II. Onaylayıcı Marka - III. Tek-Baskın Marka (Monolitik)
-    - D-) I. Tek-Baskın Marka (Monolitik) - II. Bağımsız Marka - III. Onaylayıcı Marka
+    - **Cevap B-) I. Tek-Baskın Marka (Monolitik) - II. Onaylayıcı Marka - III. Bağımsız Marka**
+    - C-) I. Bağımsız Marka - II. Onaylayıcı Marka - III. Tek-Baskın Marka (Monolitik)
+    - D-) I. Tek-Baskın Marka (Monolitik) - II. Bağımsız Marka - III. Onaylayıcı Marka
     - E-) I. Onaylayıcı Marka - II. Bağımsız Marka - III. Tek-Baskın Marka (Monolitik)
 
-    > **Açıklama:** Tek-Baskın Marka (Monolitik): Bir şirketin pazardaki genel prestijini, geleneğini, uzmanlığını ve itibarını kullanarak, müşterilerin şirketin nitelikli ürünler sunduğunu bilmesini sağlamak için kullanılan tek bir markadır. Dolayısıyla I. Tek-Baskın Marka (Monolitik) olacaktır.
+    > **Açıklama:** Tek-Baskın Marka (Monolitik): Bir şirketin pazardaki genel prestijini, geleneğini, uzmanlığını ve itibarını kullanarak, müşterilerin şirketin nitelikli ürünler sunduğunu bilmesini sağlamak için kullanılan tek bir markadır. Dolayısıyla I. Tek-Baskın Marka (Monolitik) olacaktır.
     > Onaylayıcı Marka: Farklı ürün çeşitleri için, bir ana şirket markasına bağlıymış gibi sunulan markalar bulunur. Dolayısıyla II. Onaylayıcı Marka olacaktır.
     > Bağımsız Marka: Ana markaya herhangi bir atıfta bulunmadan her çeşitlilik için geliştirilen bir markayı tanımlar. Dolayısıyla III. Bağımsız Marka olacaktır.
-    > Buna göre doğru sıralama ***I. Tek-Baskın Marka (Monolitik) - II. Onaylayıcı Marka - III. Bağımsız Marka*** olup, ***Doğru Cevap B*** seçeneğidir.
+    > Buna göre doğru sıralama ***I. Tek-Baskın Marka (Monolitik) - II. Onaylayıcı Marka - III. Bağımsız Marka*** olup, ***Doğru Cevap B*** seçeneğidir.
 
     ***
 1. Aşağıdakilerden hangisi retoriğin eşit aralıklarla ilerleyen beş adımından **biri değildir**?
@@ -1529,15 +1595,15 @@
     - E-) Göz yanılması
 
     > **Açıklama:** Mizah çok uzun zamandır bir öğrenme aracı olarak başvurulan ve reklamcılıkta insanlarla bir bağ kurmak için yaygın olarak kullanılan bir yöntem olmuştur. Tasarımda tipik olarak kullanılan mizah türleri aşağıda incelenmiştir:
-    > 1. Karşılaştırma: Bir ürünün açıkça olmayan bir şey ile kıyaslanmasını içermektedir.
-    > 2. Kişileştirme: Ürünü temsil eden mizahi bir marka kişiliğinin yaratılmasıdır.
-    > 3. Abartma: Bir şeyi olduğundan fazla abartmak ve büyütmektir.
-    > 4. Ekleme: Bir öğenin anlamını değiştiren bir unsur eklemek anlamına gelmektedir.
-    > 5. Çıkarma: Bir ürünün ne olmadığı gerçeğiyle oynamak için kullanılan bir yöntemdir.
-    > 6. Kelime oyunu: Ürünü görsel bir kelime oyununun parçası olarak kullanan kelime oyunları mizahi bir dönüş yaratabilir.
+    > 1\. Karşılaştırma: Bir ürünün açıkça olmayan bir şey ile kıyaslanmasını içermektedir.
+    > 2\. Kişileştirme: Ürünü temsil eden mizahi bir marka kişiliğinin yaratılmasıdır.
+    > 3\. Abartma: Bir şeyi olduğundan fazla abartmak ve büyütmektir.
+    > 4\. Ekleme: Bir öğenin anlamını değiştiren bir unsur eklemek anlamına gelmektedir.
+    > 5\. Çıkarma: Bir ürünün ne olmadığı gerçeğiyle oynamak için kullanılan bir yöntemdir.
+    > 6\. Kelime oyunu: Ürünü görsel bir kelime oyununun parçası olarak kullanan kelime oyunları mizahi bir dönüş yaratabilir.
     > ***7. İkame: Ürünün açıkça olmadığı bir şeyin* yerine kullanılmasıdır.**
-    > 8. Saygı Duruşu: Sanat ve tarihten referans noktaları kullanmak gibi tanıdık bir şeye mizahi bir yorum getirmeyi içerir.
-    > 9. Göz Yanılması: Sahte ile gerçeğin buluşmasını ifade eder, örneğin ambalajın farklı bir ürün gibi görünmesini sağlamak için kullanılmaktadır.
+    > 8\. Saygı Duruşu: Sanat ve tarihten referans noktaları kullanmak gibi tanıdık bir şeye mizahi bir yorum getirmeyi içerir.
+    > 9\. Göz Yanılması: Sahte ile gerçeğin buluşmasını ifade eder, örneğin ambalajın farklı bir ürün gibi görünmesini sağlamak için kullanılmaktadır.
     > Buna göre Doğru Cevap C seçeneğidir.
 
     ***
@@ -1548,7 +1614,7 @@
     - **Cevap D-) Pathos**
     - E-) Logos
 
-    > **Açıklama:** Ethos, Pathos ve Logos, Aristoteles’e göre hedef kitlemizi, işverenimizi, proje paydaşlarımızı, konuştuğumuz ve yazdığımız muhatabımızı, bildiğimiz ve doğruluğuna inandığımız bir şeye ikna etmek için kullandığımız üç temel referanstır. Ethos (Etik) bir anlatıcının otoritesine ve statüsüne duyulan güvenle ikna edici bir çekicilik yaratmaya çalışır. Marka yöneticilerinin tüketicilerin algılarıyla bağlantı kuran bir marka kişiliği geliştirmeye çalışmaları bunun sonucudur. ***Pathos (Empati)*** izleyicinin veya dinleyicinin ilgisini çekmek ya da onların sempatisini kazanmaya çalışarak duygularına hitap etmek olarak tanımlanabilir. ***Ürünler arasında çok az fark olduğunda bir* ürünle duygusal bağlantılar kurmak için kullanılmaktadır.** Logos (Mantık) ise mantıksal argümanlar oluşturarak izleyiciyi ikna etme çabası olarak tanımlanabilir. Görünür mantıksal kanıtlar göstererek ikna etme anlamına da gelen Logos, bir ürünün rakiplerinden tam olarak ne kadar iyi olduğunu, daha güçlü, daha uzun ömürlü, daha değerli veya üstün kaliteli olduğunu anlatan tasarımlarda görülebilir. Bu bilgilere göre ***Doğru Cevap D*** seçeneğidir.
+    > **Açıklama:** Ethos, Pathos ve Logos, Aristoteles’e göre hedef kitlemizi, işverenimizi, proje paydaşlarımızı, konuştuğumuz ve yazdığımız muhatabımızı, bildiğimiz ve doğruluğuna inandığımız bir şeye ikna etmek için kullandığımız üç temel referanstır. Ethos (Etik) bir anlatıcının otoritesine ve statüsüne duyulan güvenle ikna edici bir çekicilik yaratmaya çalışır. Marka yöneticilerinin tüketicilerin algılarıyla bağlantı kuran bir marka kişiliği geliştirmeye çalışmaları bunun sonucudur. ***Pathos (Empati)*** izleyicinin veya dinleyicinin ilgisini çekmek ya da onların sempatisini kazanmaya çalışarak duygularına hitap etmek olarak tanımlanabilir. ***Ürünler arasında çok az fark olduğunda bir* ürünle duygusal bağlantılar kurmak için kullanılmaktadır.** Logos (Mantık) ise mantıksal argümanlar oluşturarak izleyiciyi ikna etme çabası olarak tanımlanabilir. Görünür mantıksal kanıtlar göstererek ikna etme anlamına da gelen Logos, bir ürünün rakiplerinden tam olarak ne kadar iyi olduğunu, daha güçlü, daha uzun ömürlü, daha değerli veya üstün kaliteli olduğunu anlatan tasarımlarda görülebilir. Bu bilgilere göre ***Doğru Cevap D*** seçeneğidir.
 
     ***
 1. Kullanıcı verimliliğini en üst düzeye çıkaran, kullanım zorluklarını azaltan tasarım disiplini aşağıdakilerden hangisidir?
@@ -1558,7 +1624,7 @@
     - D-) Biçim
     - **Cevap E-) Ergonomi**
 
-    > **Açıklama:** Ambalajın biçimi, maliyeti ve yeterli fiziksel işlevleri sağlayabilecek, uygun malzemeler ile *form*un geliştirilmesidir. *Tasarım*, insanları satın almaya ikna etmek için gereken cazibeyi yaratmak amacıyla bir hikâye veya bir anlatı oluşturmayı amaçlar. Bir ürünün ambalajında aktarılması gereken ürün veya marka bilgilerinin önem sırası ve *hiyerarşisi*ne karar verilerek bu bilgilerin açık ve anlaşılır şekilde sunulmasını sağlanmalıdır. *Biçim*, nesnenin neye benzediği ve bunun anlattığı tasarım fikri iken, ***ergonomi*** kullanıcı verimliliğini en üst düzeye çıkaran, kullanım zorluklarını azaltan tasarım disiplinidir. Dolayısıyla **Doğru Cevap E** seçeneğidir.
+    > **Açıklama:** Ambalajın biçimi, maliyeti ve yeterli fiziksel işlevleri sağlayabilecek, uygun malzemeler ile *form*un geliştirilmesidir. *Tasarım*, insanları satın almaya ikna etmek için gereken cazibeyi yaratmak amacıyla bir hikâye veya bir anlatı oluşturmayı amaçlar. Bir ürünün ambalajında aktarılması gereken ürün veya marka bilgilerinin önem sırası ve *hiyerarşisi*ne karar verilerek bu bilgilerin açık ve anlaşılır şekilde sunulmasını sağlanmalıdır. *Biçim*, nesnenin neye benzediği ve bunun anlattığı tasarım fikri iken, ***ergonomi*** kullanıcı verimliliğini en üst düzeye çıkaran, kullanım zorluklarını azaltan tasarım disiplinidir. Dolayısıyla **Doğru Cevap E** seçeneğidir.
 
     ***
 1. Kullanıcıların gücü, el becerisi ve hareket aralığı gibi fiziksel yeteneklerini dikkate alan, ambalaj tasarımında ergonominin önemi anlatan ifade aşağıdakilerden hangisidir?
@@ -1572,7 +1638,7 @@
     > *a. Kullanıcı Deneyimi:* Ergonomi, tutması, açması ve kapatması kolay ambalajlar tasarlayarak genel kullanıcı deneyimini geliştirmeyi amaçlar. Ambalajın sezgisel olmasını sağlayarak ürüne erişmek ve kullanmak için gereken çabayı azaltır. Bu da müşteri memnuniyetini artırır ve hatta satın alma kararlarını etkileyebilir.
     > *b. Güvenlik:* Ergonomi, ambalaj tasarımıyla ilişkili potansiyel tehlikelerin belirlenmesine ve en aza indirilmesine yardımcı olur. Keskin kenarlar, uygun sızdırmazlık ve güvenli kapaklar gibi faktörleri göz önünde bulundurarak, taşıma, nakliye ve depolama sırasında kaza, yaralanma ve ürün hasarı riskini azaltır.
     > ***c. Kullanım Kolaylığı:*** *Ergonomik olarak tasarlanmış ambalajlar, kullanıcıların gücü, el becerisi ve hareket aralığı gibi fiziksel yeteneklerini dikkate almaktadır.* Ambalajın tutulması, taşınmasının kolay olmasını sağlayarak zorlanma ve yorgunluğu azaltır. Bu özellikle engelli veya yaşa bağlı kısıtlamaları olan bireyler için çok önemlidir.
-    > *d. Erişilebilirlik ve Kapsayıcılık:* Ergonomik ambalaj tasarımı, özel gereksinimli bireyleri de içine alan kapsayıcı bir bakış açısı ile ürün tasarımını gerçekleştirmek zorundadır. Daha büyük metinler, dokunsal göstergeler, okunması kolay talimatlar ve kullanıcı dostu ara yüzler gibi özellikler sayesinde ambalajlar daha erişilebilir ve kapsayıcı hale gelir.
+    > *d. Erişilebilirlik ve Kapsayıcılık:* Ergonomik ambalaj tasarımı, özel gereksinimli bireyleri de içine alan kapsayıcı bir bakış açısı ile ürün tasarımını gerçekleştirmek zorundadır. Daha büyük metinler, dokunsal göstergeler, okunması kolay talimatlar ve kullanıcı dostu ara yüzler gibi özellikler sayesinde ambalajlar daha erişilebilir ve kapsayıcı hale gelir.
     > *e. Verimlilik ve Üretkenlik:* Ergonomi hem son kullanıcılar hem de sektör profesyonelleri için ambalajlama süreçlerinin verimliliğini uygun hale getirmeye odaklanır. İyi tasarlanmış ambalajlar montaj, istifleme, depolama ve nakliye gibi işlerin daha hızlı ve sorunsuz yapılmasını sağlar. Ayrıca envanter yönetimi ve yeniden stoklama için gereken zaman ve çabayı da azaltabilir.
     > *f. Çevresel Hususlar:* Ergonomik ambalaj tasarımı sürdürülebilirliği ve çevresel etkileri dikkate almak zorundadır. Uygun malzeme kullanımı, paket boyutlarının optimize edilmesi ve gereksiz paketleme unsurlarını azaltarak atıkları en aza indirilmesine, depolama alanlarının en iyi şekilde kullanılmasına ve lojistik maliyetlerinin düşürülmesine yardımcı olmaktadır.
     > *g. Marka Algısı:* Ambalaj genellikle tüketici ile ürün arasındaki ilk temas noktasıdır. Ergonomik ambalaj tasarımı, kalite ve detaylara gösterilen özen ile müşteriye gösterilen saygıya yansıtarak olumlu bir marka algısı yaratabilir. Bu marka imajını güçlendirerek müşteri sadakatini teşvik edecektir.
@@ -1601,7 +1667,7 @@
     > **Açıklama:** 1991 tarihli Ambalaj Atıklarının Kontrolü Yönetmeliği ambalaj atıklarının geri dönüşüm ve bertaraflarını resmi olarak düzenleyen ilk yönetmeliklerden bir tanesidir. 2005 yılında yürürlüğe giren bir sonraki Ambalaj Atıklarının Kontrolü Yönetmeliği ise bir önceki yönetmeliğin kapsamını teşvik vb. konuları da içerecek şekilde genişletmiştir. 2012 tarihinde bir kere daha revize edilen yönetmelik, kaynağında ayrıştırma ve çevre dostu malzemeler gibi konuları da içermektedir. 2018 tarihinde yapılan değişikliklerle de yönetmeliğin Avrupa Birliği (AB) standartları ile uyumu hedeflenmiştir.
 
     ***
-1. Aşağıdakilerden hangisi hem üreticilere hem de tüketicilere ek mali yükler getirdiği için yenilikçi ve çevre dostu ambalajların tasarlanmasını teşvik etmek için kullanılan düzenlemelerden ***biri değildir?***
+1. Aşağıdakilerden hangisi hem üreticilere hem de tüketicilere ek mali yükler getirdiği için yenilikçi ve çevre dostu ambalajların tasarlanmasını teşvik etmek için kullanılan düzenlemelerden ***biri değildir?***
     - **Cevap A-) Teşvik**
     - B-) Yasaklama
     - C-) Vergilendirme
@@ -1621,17 +1687,17 @@
     - D-) Çin- Ücretlendirme
     - E-) Portekiz-Gönüllülük
 
-    > **Açıklama:** **Ülke**                  **Tek kullanımlık ambalajların azaltılması yönündeki düzenleme türü**
-    > Arjantin                  Yasaklama
-    > Belçika                   Vergilendirme, Gönüllülük
-    > Bulgaristan             Ücretlendirme
-    > Çin                         Ücretlendirme
-    > Danimarka              Vergilendirme, Ücretlendirme
-    > Fransa                    Yasaklama
-    > Kenya                     Yasaklama, Vergilendirme
-    > Portekiz                  Gönüllülük
-    > Türkiye                   Yasaklama, Ücretlendirme
-    > Birleşik Krallık         Ücretlendirme
+    > **Açıklama:** **Ülke**  **Tek kullanımlık ambalajların azaltılması yönündeki düzenleme türü**
+    > Arjantin Yasaklama
+    > Belçika Vergilendirme, Gönüllülük
+    > Bulgaristan Ücretlendirme
+    > Çin Ücretlendirme
+    > Danimarka Vergilendirme, Ücretlendirme
+    > Fransa Yasaklama
+    > Kenya Yasaklama, Vergilendirme
+    > Portekiz Gönüllülük
+    > Türkiye Yasaklama, Ücretlendirme
+    > Birleşik Krallık Ücretlendirme
 
     ***
 1. Ambalajlar dahil endüstriyel ürünlerin yaşam döngüsünde en son basamak aşağıdakilerden hangisidir?
@@ -1641,11 +1707,11 @@
     - D-) Üretim
     - E-) Hammaddenin seçimi/üretilmesi
 
-    > **Açıklama:** 1. Hammaddenin seçimi/üretilmesi
-    > 2. Üretim
-    > 3. Nakliye
-    > 4. Kullanım
-    > 5. Faydalı ömür sonu
+    > **Açıklama:** 1\. Hammaddenin seçimi/üretilmesi
+    > 2\. Üretim
+    > 3\. Nakliye
+    > 4\. Kullanım
+    > 5\. Faydalı ömür sonu
 
     ***
 1. Aşağıdaki malzemelerden hangisi, küresel ambalaj pazarında hammadde olarak kullanım oranı açısından en yüksek olanıdır?
@@ -1680,8 +1746,8 @@
     - E-) Altı
 
     > **Açıklama:** Temizlenme sürecinde kağıt püresinden uzaklaştırılması gereken önemli kirleticilerden bir tanesi de mürekkeplerdir. Mürekkepler liflerden iki temel şekilde uzaklaştırılabilirler:
-    > 1. Yıkama ile mürekkep uzaklaştırma
-    > 2. Yüzdürme ile mürekkep uzaklaştırma
+    > 1\. Yıkama ile mürekkep uzaklaştırma
+    > 2\. Yüzdürme ile mürekkep uzaklaştırma
 
     ***
 1. Mürekkep uzaklaştırma puanlarına göre 71-100 puan arası hangi şekilde sınıflandırılır?
@@ -1729,11 +1795,11 @@
 
     ***
 1. Aşağıdakilerden hangisi veya hangileri mikroplastiklerin gıda olarak tüketilen deniz canlıları aracılığı ile insanlara taşınması sıralamasıdır?
-    - **Cevap A-) Mikroplastikler ambalajdan çözünür    Akarsu/deniz/göllere karışır    Deniz canlılarının bünyesine geçer    Deniz canlısı gıda olarak tüketilir    Mikroplastikler insan bünyesine geçer**
-    - B-) Akarsu/deniz/göllere karışır    Deniz canlılarının bünyesine geçer    Deniz canlısı gıda olarak tüketilir    Mikroplastikler insan bünyesine geçer    Mikroplastikler ambalajdan çözünür
-    - C-) Deniz canlısı gıda olarak tüketilir    Mikroplastikler insan bünyesine geçer    Mikroplastikler ambalajdan çözünür    Akarsu/deniz/göllere karışır    Deniz canlılarının bünyesine geçer
-    - D-) Mikroplastikler ambalajdan çözünür     Deniz canlısı gıda olarak tüketilir    Mikroplastikler insan bünyesine geçer    Akarsu/deniz/göllere karışır    Deniz canlılarının bünyesine geçer
-    - E-) Mikroplastikler ambalajdan çözünür    Akarsu/deniz/göllere karışır    Deniz canlısı gıda olarak tüketilir    Mikroplastikler insan bünyesine geçer    Deniz canlılarının bünyesine geçer
+    - **Cevap A-) Mikroplastikler ambalajdan çözünür Akarsu/deniz/göllere karışır Deniz canlılarının bünyesine geçer Deniz canlısı gıda olarak tüketilir Mikroplastikler insan bünyesine geçer**
+    - B-) Akarsu/deniz/göllere karışır Deniz canlılarının bünyesine geçer Deniz canlısı gıda olarak tüketilir Mikroplastikler insan bünyesine geçer Mikroplastikler ambalajdan çözünür
+    - C-) Deniz canlısı gıda olarak tüketilir Mikroplastikler insan bünyesine geçer Mikroplastikler ambalajdan çözünür Akarsu/deniz/göllere karışır Deniz canlılarının bünyesine geçer
+    - D-) Mikroplastikler ambalajdan çözünür Deniz canlısı gıda olarak tüketilir Mikroplastikler insan bünyesine geçer Akarsu/deniz/göllere karışır Deniz canlılarının bünyesine geçer
+    - E-) Mikroplastikler ambalajdan çözünür Akarsu/deniz/göllere karışır Deniz canlısı gıda olarak tüketilir Mikroplastikler insan bünyesine geçer Deniz canlılarının bünyesine geçer
 
     > **Açıklama:** Mikroplastiklerin gıda olarak tüketilen deniz canlıları aracılığı ile insanlara taşınması şeması
     > Mikroplastikler ambalajdan çözünür Akarsu/deniz/göllere karışır
@@ -1813,18 +1879,18 @@
 
     ***
 1. Ambalajlar dahil endüstriyel ürünlerin yaşam döngüsü basamakları aşağıdakilerden hangisinde doğru olarak sıralanmıştır?
-    - **Cevap A-) * Hammaddenin seçimi/üretilmesi    * Üretim    * Nakliye    * Kullanım    * Faydalı ömür sonu**
-    - B-) * Üretim    * Nakliye    * Kullanım    * Faydalı ömür sonu    * Hammaddenin seçimi/üretilmesi
-    - C-) * Hammaddenin seçimi/üretilmesi    * Üretim    * Kullanım    * Faydalı ömür sonu    * Nakliye
-    - D-) * Hammaddenin seçimi/üretilmesi    * Kullanım    * Faydalı ömür sonu    * Nakliye    * Üretim
-    - E-) * Hammaddenin seçimi/üretilmesi    * Nakliye    * Üretim    * Kullanım    * Faydalı ömür sonu
+    - **Cevap A-) * Hammaddenin seçimi/üretilmesi * Üretim * Nakliye * Kullanım * Faydalı ömür sonu**
+    - B-) * Üretim * Nakliye * Kullanım * Faydalı ömür sonu * Hammaddenin seçimi/üretilmesi
+    - C-) * Hammaddenin seçimi/üretilmesi * Üretim * Kullanım * Faydalı ömür sonu * Nakliye
+    - D-) * Hammaddenin seçimi/üretilmesi * Kullanım * Faydalı ömür sonu * Nakliye * Üretim
+    - E-) * Hammaddenin seçimi/üretilmesi * Nakliye * Üretim * Kullanım * Faydalı ömür sonu
 
     > **Açıklama:** Ambalajlar da, kitabın önceki bölümlerinde pek çok defa belirtildiği gibi içerdikleri üründen bağımsız olarak, tek başlarına ele alınması gereken endüstriyel ürünlerdir. Dolayısı ile ambalajların yaşam döngüleri diğer endüstriyel ürünler ile büyük ölçüde benzerdir. Ambalajlar dahil endüstriyel ürünlerin yaşam döngü- sü basamakları şu şekilde sıralanmaktadır:
-    > 1. Hammaddenin seçimi/üretilmesi
-    > 2. Üretim
-    > 3. Nakliye
-    > 4. Kullanım
-    > 5. Faydalı ömür sonu
+    > 1\. Hammaddenin seçimi/üretilmesi
+    > 2\. Üretim
+    > 3\. Nakliye
+    > 4\. Kullanım
+    > 5\. Faydalı ömür sonu
     > Ambalajlar, diğer tüm endüstriyel ürünler gibi yaşamlarının pek çok basamağında enerji ve su gibi kaynakları tüketirler ve her basamağında çevresel maliyetleri bulunmaktadır (Görsel 8.4).
 
     ***

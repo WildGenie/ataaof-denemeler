@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 264261,
-        "SoruMetni": "<strong>Birinci Dünya Savaşı'nın ardından 1919 yılında Almanya Weimar’da, Walter Gropius tarafından kurulan  sanat okulu aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Birinci Dünya Savaşı'nın ardından 1919 yılında Almanya Weimar’da, Walter Gropius tarafından kurulan sanat okulu aşağıdakilerden hangisidir?</strong>",
         "A": "Frankfurt Okulu",
         "B": "Royal Sanat Okulu",
         "C": "Bauhaus Sanat Okulu",
@@ -16,11 +16,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264262,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi tasarım sürecine temelden etki eden kavramlardan biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi tasarım sürecine temelden etki eden kavramlardan biri <u>değildir</u>?</strong>",
         "A": "Metafor",
         "B": "Gösterilen",
         "C": "İmge",
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264263,
@@ -54,7 +56,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 264264,
@@ -73,11 +76,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264265,
-        "SoruMetni": "I. Grafik Tasarım<br/> <br/>II. Çevre Tasarımı<br> <br/>III. Endüstriyel Tasarım<br> <br/>IV. Web Tasarımı<br> <br/><strong>Yukarıdakilerden hangileri tasarımın alt başlıklarını oluşturur?</strong></br></br></br>",
+        "SoruMetni": "I. Grafik Tasarım<br/>II. Çevre Tasarımı<br/>III. Endüstriyel Tasarım<br/>IV. Web Tasarımı<br/><strong>Yukarıdakilerden hangileri tasarımın alt başlıklarını oluşturur?</strong></br></br></br>",
         "A": "I ve III",
         "B": "I ve II",
         "C": "I, III ve IV",
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264266,
@@ -111,7 +116,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264269,
@@ -130,7 +136,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264270,
@@ -149,7 +156,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266536,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 266537,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266538,
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266539,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 266540,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266541,
@@ -263,7 +276,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266542,
@@ -282,7 +296,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266544,
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266545,
@@ -320,11 +336,12 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 332139,
-        "SoruMetni": "Biçem ve biçim, tasarımın ............... işaret eder.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Biçem ve biçim, tasarımın ............... işaret eder.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "rengini",
         "B": "dokusunu",
         "C": "özüne",
@@ -339,7 +356,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 332140,
@@ -358,7 +376,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 332142,
@@ -377,7 +396,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 332144,
@@ -396,7 +416,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 364700,
@@ -415,7 +436,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 367661,
@@ -434,6 +456,7 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     }
 ]

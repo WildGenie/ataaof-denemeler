@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 337095,
-        "SoruMetni": "<strong>Alfabeyi ilk bulan uygarlık aşağıdakilerden hangisidir? </strong>",
+        "SoruMetni": "<strong>Alfabeyi ilk bulan uygarlık aşağıdakilerden hangisidir? </strong>",
         "A": "Romalılar",
         "B": "Fenikeliler",
         "C": "Yunanlılar",
@@ -9,14 +9,15 @@
         "E": "Mısırlılar",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 337097,
@@ -28,14 +29,15 @@
         "E": "Karışık",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 337101,
@@ -54,7 +56,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 337103,
@@ -73,7 +76,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 337104,
@@ -92,7 +96,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 337108,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337109,
@@ -123,14 +129,15 @@
         "E": "Side",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 337110,
@@ -142,14 +149,15 @@
         "E": "Katlanabilmesi",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337111,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 337113,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 346737,
@@ -199,14 +209,15 @@
         "E": "Doku",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 347343,
@@ -218,14 +229,15 @@
         "E": "Tetra ve Gama sözcüklerinin bir araya gelmesinden türemiştir.",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 347350,
@@ -237,13 +249,14 @@
         "E": "Kalem",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 3,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     }
 ]

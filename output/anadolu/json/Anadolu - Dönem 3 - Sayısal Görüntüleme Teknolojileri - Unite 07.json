@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3353234,
-        "SoruMetni": "I. Adobe Pho­toshop<br/><br/>II. Corel PaintShop Pro<br/><br/>III. Picasa<br/><br/>IV. Gimp<br/><br/>Yukarıdaki uygulamalardan hangisi/hangileri tüketici düzeyinde basit arayüzlerle çalışır?",
+        "SoruMetni": "I. Adobe Pho­toshop<br/>II. Corel PaintShop Pro<br/>III. Picasa<br/>IV. Gimp<br/>Yukarıdaki uygulamalardan hangisi/hangileri tüketici düzeyinde basit arayüzlerle çalışır?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I,II",
@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 3353235,
-        "SoruMetni": "Hareketli görüntülerin işlenmesinde <em>-----------------</em>ve kurgu yazılımlarının gelişimi,  bu alanda çalışan amatör ve profesyonel içerik üreticilerinin işle­rini oldukça kolaylaştırmıştır.<br/><br/>Yukarıda boş bırakılan yeri aşağıdakilerden hangisi doğru tamamlar?",
+        "SoruMetni": "Hareketli görüntülerin işlenmesinde <em>-----------------</em>ve kurgu yazılımlarının gelişimi, bu alanda çalışan amatör ve profesyonel içerik üreticilerinin işle­rini oldukça kolaylaştırmıştır.<br/>Yukarıda boş bırakılan yeri aşağıdakilerden hangisi doğru tamamlar?",
         "A": "doğrusal olmayan düzenleme",
         "B": "analog sistemlerle çalışma kolaylığı",
         "C": "dijital talep",
@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 3353236,
-        "SoruMetni": "OBJ, DWF, MAX, STL ve MGF  dosya türleri  hangi görüntü formatına aittir?",
+        "SoruMetni": "OBJ, DWF, MAX, STL ve MGF dosya türleri hangi görüntü formatına aittir?",
         "A": "Analog",
         "B": "Bitmap",
         "C": "Raster",
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>3 Boyutlu görüntü dosyaları</strong> bilgisayar yazılımları tarafın­dan  oluşturulan 3 boyutlu modellemeler, animasyon ve projelerin hacim, aydınlatma ve gölgeleme gibi bilgilerini içerir. En yaygın dosya türleri OBJ, DWF, MAX, STL ve MGF’dir."
+        "Aciklama": "<strong>3 Boyutlu görüntü dosyaları</strong> bilgisayar yazılımları tarafın­dan oluşturulan 3 boyutlu modellemeler, animasyon ve projelerin hacim, aydınlatma ve gölgeleme gibi bilgilerini içerir. En yaygın dosya türleri OBJ, DWF, MAX, STL ve MGF’dir."
     },
     {
         "SoruID": 3353237,
@@ -65,7 +65,7 @@
         "A": "Piksel yoğunluğunun kısaltmasıdır",
         "B": "Bir inç (2.54 cm) başına düşen piksel sayısını verir",
         "C": "PPI değeri yükseldikçe ekrandaki görüntünün keskinliği artar",
-        "D": "PPI değeri  cihazda kullanılan ekranın boyutuna ve çözünürlüğüne göre değişiklik gösterir",
+        "D": "PPI değeri cihazda kullanılan ekranın boyutuna ve çözünürlüğüne göre değişiklik gösterir",
         "E": "Baskı teknikleriyle alakalı olarak kullanılan bir kısaltmadır",
         "DogruCevap": "E",
         "DersAd": "Sayısal Görüntüleme Teknolojileri",
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>İnç Başına Düşen Piksel Sayısı (PPI): </strong>Piksel yoğunluğu olarak da bilinir. Bir inç (2.54 cm) başına düşen piksel sayısını verir. PPI değeri yükseldikçe ekrandaki görüntünün keskinliği artar. Bu değer cihazda kullanılan ekranın boyutuna ve çözünürlüğüne göre değişiklik gösterir<br/> DPI (inç başına düşen nokta sayısı) ile PPI’ı karıştırmamak gerekir. PPI dijital ekranlarla alakalı bir terim iken, DPI daha çok baskı teknikleriyle alakalı olarak kullanılır"
+        "Aciklama": "<strong>İnç Başına Düşen Piksel Sayısı (PPI): </strong>Piksel yoğunluğu olarak da bilinir. Bir inç (2.54 cm) başına düşen piksel sayısını verir. PPI değeri yükseldikçe ekrandaki görüntünün keskinliği artar. Bu değer cihazda kullanılan ekranın boyutuna ve çözünürlüğüne göre değişiklik gösterir<br/>DPI (inç başına düşen nokta sayısı) ile PPI’ı karıştırmamak gerekir. PPI dijital ekranlarla alakalı bir terim iken, DPI daha çok baskı teknikleriyle alakalı olarak kullanılır"
     },
     {
         "SoruID": 3353238,
@@ -105,7 +105,7 @@
         "A": "Seçilen fotoğrafın pozlama değerlerini grafik eğrisi olarak gösterir",
         "B": "Gö­rüntü saklama başlıklarını içeren paneldir",
         "C": "Yeniden kadrajlama işlemi için bir dizi seçenek sunar",
-        "D": "Fotoğraf üzerinde istenmeyen leke ve dokuları temizleme panelidir<br/>",
+        "D": "Fotoğraf üzerinde istenmeyen leke ve dokuları temizleme panelidir",
         "E": "Parazitlenmeyi azaltabile­cek birtakım seçenek­ler sunan paneldir",
         "DogruCevap": "A",
         "DersAd": "Sayısal Görüntüleme Teknolojileri",
@@ -157,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ağırlıklı olarak profesyonel kullanıcıların tercih ettiği bir sayısal hareketli görüntü düzenleme yazılımı olan Premier Pro’nun temel özelliklerinden bazılarıları şunlardır:<br/><br/><ul><br/><li>Adobe yaratıcı takım uygulamalarıyla entegre çalışabilmesi</li><br/><li>Görüntü ve ses filtrelerinin çeşitliliği</li><br/><li>360 derece video desteği</li><br/><li>Sanal gerçeklik video desteği</li><br/><li>Bulut üzerinden başkalarıyla iş birliği içerisinde çalışabilme242</li><br/><li><strong> Her türlü kaynaktan gelen video içeriğini import edebilme </strong></li><br/><li>Yüzlerce farklı dosya formatıyla uyumlu ça­lışabilme</li><br/><li>Birden fazla kamerayla gerçekleştirilen çe­kimlerde otomatik senkronizasyon özelliği</li><br/><li>Mobil uygulamalarla entegre çalışılabilmesi</li><br/><li>Çeşitli eklentilerle sonradan yeni özellikler ekleyebilme</li><br/></ul>"
+        "Aciklama": "Ağırlıklı olarak profesyonel kullanıcıların tercih ettiği bir sayısal hareketli görüntü düzenleme yazılımı olan Premier Pro’nun temel özelliklerinden bazılarıları şunlardır:<br/><ul><br/><li>Adobe yaratıcı takım uygulamalarıyla entegre çalışabilmesi</li><br/><li>Görüntü ve ses filtrelerinin çeşitliliği</li><br/><li>360 derece video desteği</li><br/><li>Sanal gerçeklik video desteği</li><br/><li>Bulut üzerinden başkalarıyla iş birliği içerisinde çalışabilme242</li><br/><li><strong> Her türlü kaynaktan gelen video içeriğini import edebilme </strong></li><br/><li>Yüzlerce farklı dosya formatıyla uyumlu ça­lışabilme</li><br/><li>Birden fazla kamerayla gerçekleştirilen çe­kimlerde otomatik senkronizasyon özelliği</li><br/><li>Mobil uygulamalarla entegre çalışılabilmesi</li><br/><li>Çeşitli eklentilerle sonradan yeni özellikler ekleyebilme</li><br/></ul>"
     },
     {
         "SoruID": 3353242,
-        "SoruMetni": "Fotoğraf makineleri, kameralar, bilgisayar ekranları görüntüyü ---------------renk uzayıyla oluştururken, baskı makineleri ve yazıcılar CMYK renk uzayıyla oluştururlar.<br/> Yukarıda boş bırakılan yeri aşağıdakilerden hangisi, doğru tamamlar?",
+        "SoruMetni": "Fotoğraf makineleri, kameralar, bilgisayar ekranları görüntüyü ---------------renk uzayıyla oluştururken, baskı makineleri ve yazıcılar CMYK renk uzayıyla oluştururlar.<br/>Yukarıda boş bırakılan yeri aşağıdakilerden hangisi, doğru tamamlar?",
         "A": "RGB",
         "B": "GGB",
         "C": "RCT",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Picasa, Gimp gibi tüketici düzeyinde daha basit arayüzlerle çalışan ve çoğunlukla ücretsiz uygulamalar da ardı ardına ortaya çıkarak kullanıcıların beğenisine sunulmuştur."
+        "Aciklama": "<br/>Hareketsiz görüntünün sayısallaştırılarak bilgi- sayar ortamına taşınmasıyla beraber pek çok farklı işlev ve özelliği bir arada yürütebilen Adobe Photoshop ve Lightroom, Corel PaintShop Pro gibi profesyonel görüntü işleme yazılımların yanında Picasa, Gimp gibi tüketici düzeyinde daha basit arayüzlerle çalışan ve çoğunlukla ücretsiz uygula- malar da ardı ardına ortaya çıkarak kullanıcıların beğenisine sunulmuştur.<br>Picasa, Gimp gibi tüketici düzeyinde daha basit arayüzlerle çalışan ve çoğunlukla ücretsiz uygulamalar da ardı ardına ortaya çıkarak kullanıcıların beğenisine sunulmuştur."
     },
     {
         "SoruID": 3353245,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayısal görüntü, temel anlamda piksellerden oluşur. Sayısal görüntüler, ya orijinal basılı fotoğraf/filmlerden taranır ya da sayısal fotoğraf makineleri/kameralar ile çekilir. Görüntüyü oluşturan her bir piksel üzerinde renk, ışık ya da parlaklık gibi bilgileri içeren değerler bulunur. Bu değerler <strong>iki rakamlı (ing.binary)</strong> bilgisayar veri algoritmasına uygun bir biçimde kodlanarak sayısallaştırılır."
+        "Aciklama": "Beş değil iki rakamlı olacak.<br>Sayısal görüntü, temel anlamda piksellerden oluşur. Sayısal görüntüler, ya orijinal basılı fotoğraf/filmlerden taranır ya da sayısal fotoğraf makineleri/kameralar ile çekilir. Görüntüyü oluşturan her bir piksel üzerinde renk, ışık ya da parlaklık gibi bilgileri içeren değerler bulunur. Bu değerler <strong>iki rakamlı (ing.binary)</strong> bilgisayar veri algoritmasına uygun bir biçimde kodlanarak sayısallaştırılır."
     },
     {
         "SoruID": 3353246,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Vektörelin; en yaygın dosya türleri. AI, EPS, SVG, CDR ve PDF’dir."
+        "Aciklama": "C seçeneği vektörel, diğer seçenekler raster (bitmap) görüntü formatı kapsamındadır.<br>Vektörelin; en yaygın dosya türleri. AI, EPS, SVG, CDR ve PDF’dir."
     },
     {
         "SoruID": 3353248,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3 boyutlu görüntü formatının en yaygın dosya türleri OBJ, DWF, MAX, STL ve MGF’dir."
+        "Aciklama": "E seçeneği hariç diğerleri diğer görüntü formatlarının dosya türleridir.<br>3 boyutlu görüntü formatının en yaygın dosya türleri OBJ, DWF, MAX, STL ve MGF’dir."
     },
     {
         "SoruID": 3353249,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İnternet üzerin- den görüntü transferi açısından kullanılan bir baş- ka çözüm ise dosya transferi üzerine uzmanlaşmış internet sitelerinin verdiği aktarım hizmetleridir. WeTransfer ve FirefoxSend gibi internet siteleri e-posta adreslerine gönderilen indirme linkleriyle yüksek ebatlı dosya ve görüntü transferlerinin hızlı bir biçimde gönderilmesine olanak tanırlar."
+        "Aciklama": "B seçeneği dosya transferi üzerine uzmanlaşmış internet sitesi iken diğer seçenekler bulut depolama örnekleridir.<br>İnternet üzerin- den görüntü transferi açısından kullanılan bir baş- ka çözüm ise dosya transferi üzerine uzmanlaşmış internet sitelerinin verdiği aktarım hizmetleridir. WeTransfer ve FirefoxSend gibi internet siteleri e-posta adreslerine gönderilen indirme linkleriyle yüksek ebatlı dosya ve görüntü transferlerinin hızlı bir biçimde gönderilmesine olanak tanırlar."
     },
     {
         "SoruID": 3353254,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Vektör grafikleri, vektör şekilleri veya vektör nesneleri olarak da adlandırılan vektörel görüntüler ise görüntü işleme ve tasarım yazılımları tarafından matematiksel denklemler aracılığıyla sayısal olarak oluşturulurlar. Bu nedenle çözünürlükleri bağımsız olduğu için büyütüldüklerinde ayrıntılarını kaybetmezler. En yaygın dosya türleri. AI, EPS, SVG, CDR ve PDF’dir.  Cevap B seçeneğidir."
+        "Aciklama": "Vektör grafikleri, vektör şekilleri veya vektör nesneleri olarak da adlandırılan vektörel görüntüler ise görüntü işleme ve tasarım yazılımları tarafından matematiksel denklemler aracılığıyla sayısal olarak oluşturulurlar. Bu nedenle çözünürlükleri bağımsız olduğu için büyütüldüklerinde ayrıntılarını kaybetmezler. En yaygın dosya türleri. AI, EPS, SVG, CDR ve PDF’dir. Cevap B seçeneğidir."
     },
     {
         "SoruID": 3353257,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sıkıştırılmamış format görüntü dosyasının oluşturulması sırasında yer alan tüm ham veriyi içerisinde bulundurur. Bu sıkıştırma türü görüntünün renk, ışık vb. tüm bilgilerini ham olarak barındırdığı için dosyanın boyutu depolama biriminde çok daha fazla yer kaplar. Bu başlığa uyan ve en sık kullanılan sıkıştırmasız format ise RAW’dır.  Cevap D seçeneğidir."
+        "Aciklama": "Sıkıştırılmamış format görüntü dosyasının oluşturulması sırasında yer alan tüm ham veriyi içerisinde bulundurur. Bu sıkıştırma türü görüntünün renk, ışık vb. tüm bilgilerini ham olarak barındırdığı için dosyanın boyutu depolama biriminde çok daha fazla yer kaplar. Bu başlığa uyan ve en sık kullanılan sıkıştırmasız format ise RAW’dır. Cevap D seçeneğidir."
     },
     {
         "SoruID": 3353258,

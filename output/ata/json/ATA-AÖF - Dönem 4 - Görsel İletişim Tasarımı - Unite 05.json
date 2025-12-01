@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 182868,
-        "SoruMetni": "I. Yenilikçilik<br/> <br/>II. Hünerlilik<br> <br/>III. İşlevsellik<br> <br/><strong>Renault’un 1900’lü yılların başından günümüze kadar uzanan yolculuğu incelendiğinde marka imajının yaratılmasında yukarıdaki kavramlardan hangisinin ya da hangilerinin ön plana çıktığı görülmektedir?</strong></br></br>",
+        "SoruMetni": "I. Yenilikçilik<br/>II. Hünerlilik<br/>III. İşlevsellik<br/><strong>Renault’un 1900’lü yılların başından günümüze kadar uzanan yolculuğu incelendiğinde marka imajının yaratılmasında yukarıdaki kavramlardan hangisinin ya da hangilerinin ön plana çıktığı görülmektedir?</strong></br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -9,14 +9,15 @@
         "E": "I, II ve III",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182869,
@@ -28,18 +29,19 @@
         "E": "Geçmişi yaşama",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182870,
-        "SoruMetni": "I. Dilbilgisi<br/> <br/>II. Diyalektik<br> <br/>III. Retorik<br> <br/><strong>Tarihsel çıkış noktası dikkate alındığında hitabetin yukarıdakilerden hangisi ya da hangileri ile ilgili olduğu görülmektedir?</strong></br></br>",
+        "SoruMetni": "I. Dilbilgisi<br/>II. Diyalektik<br/>III. Retorik<br/><strong>Tarihsel çıkış noktası dikkate alındığında hitabetin yukarıdakilerden hangisi ya da hangileri ile ilgili olduğu görülmektedir?</strong></br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -47,18 +49,19 @@
         "E": "I, II ve III",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182871,
-        "SoruMetni": "I. Hız<br/> <br/>II. Harcama<br> <br/>III. Anlık yaşama<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri postmodern dönemin temel çalışma prensipleri arasındadır?</strong></br></br>",
+        "SoruMetni": "I. Hız<br/>II. Harcama<br/>III. Anlık yaşama<br/><strong>Yukarıdakilerden hangisi ya da hangileri postmodern dönemin temel çalışma prensipleri arasındadır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -66,14 +69,15 @@
         "E": "I, II ve III",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182872,
@@ -85,14 +89,15 @@
         "E": "Belirsiz",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 182873,
@@ -104,14 +109,15 @@
         "E": "Kültürel deneyimlerini araştırmak",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 182874,
@@ -123,14 +129,15 @@
         "E": "Tarihsel determinizm",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 182875,
@@ -142,18 +149,19 @@
         "E": "Yazabilen insan sayısının azlığı",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 192525,
-        "SoruMetni": "Gardner, Goodman'ın Semboller Teorisi’ni ortaya atanlardan birisi olduğunu belirtmekte ve ................ vurgu yapmaktadır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br> <br/></br>",
+        "SoruMetni": "Gardner, Goodman'ın Semboller Teorisi’ni ortaya atanlardan birisi olduğunu belirtmekte ve ................ vurgu yapmaktadır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
         "A": "etkileşimselliğe",
         "B": "bilişselliğe",
         "C": "bilişime",
@@ -161,14 +169,15 @@
         "E": "yaratıcılığa",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 192526,
@@ -180,14 +189,15 @@
         "E": "Tümleşik İletişim",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 192527,
@@ -199,18 +209,19 @@
         "E": "Ev yapımı şeklinde",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 341251,
-        "SoruMetni": "<strong>Sembollerin, yazılı ve görsel dilin en yoğun kullanıldığı sanat aşağıdakilerden hangisidir? </strong>",
+        "SoruMetni": "<strong>Sembollerin, yazılı ve görsel dilin en yoğun kullanıldığı sanat aşağıdakilerden hangisidir? </strong>",
         "A": "Resim",
         "B": "Sinema",
         "C": "Mimari",
@@ -218,14 +229,15 @@
         "E": "Müzik",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 342067,
@@ -237,14 +249,15 @@
         "E": "Stefan Zweig",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 342069,
@@ -256,14 +269,15 @@
         "E": "Görsel gerçeklik",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 408429,
@@ -275,13 +289,14 @@
         "E": "Görsel ögelerin estetik dışında hiçbir anlam taşımaması",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     }
 ]

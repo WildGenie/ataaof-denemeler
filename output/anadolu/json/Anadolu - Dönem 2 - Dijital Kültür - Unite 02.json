@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3768993,
-        "SoruMetni": "<span style=\"font-size: 11pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Yeni iletişim teknolojileri ve dijitalleşmenin toplum üzerindeki etkilerini açıklarken sıklıkla kullanılan kavram ya da kavramlar aşağıdakilerden hangisidir?</span></span><br/> <span style=\"font-family: arial, helvetica, sans-serif;\">I. Ağ toplumu</span><br/> <span style=\"font-family: arial, helvetica, sans-serif;\">II. Kamusal alan</span><br/> <span style=\"font-family: arial, helvetica, sans-serif;\">III. Sosyalleşme</span>",
+        "SoruMetni": "<span style=\"font-size: 11pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Yeni iletişim teknolojileri ve dijitalleşmenin toplum üzerindeki etkilerini açıklarken sıklıkla kullanılan kavram ya da kavramlar aşağıdakilerden hangisidir?</span></span><br/><span style=\"font-family: arial, helvetica, sans-serif;\">I. Ağ toplumu</span><br/><span style=\"font-family: arial, helvetica, sans-serif;\">II. Kamusal alan</span><br/><span style=\"font-family: arial, helvetica, sans-serif;\">III. Sosyalleşme</span>",
         "A": "I ve II",
         "B": "I, II ve III",
         "C": "I ve III",
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 3768997,
-        "SoruMetni": "Bedenen ya da fiziksel mekân açısından bir arada bulunmayı gerektirmeyen, katılımcıların gerçek toplumsal ilişkilerle değil dijital teknolojiler aracılığıyla yaptıkları paylaşımlarla bir arada olmasına olanak sağlayan ortamlar olan çevrimiçi topluluklarda iletişim yüz yüze değil ses, görüntü ve yazışmalardan oluşan paylaşımlarla sağlanmaktadır. <em>Aşağıdakilerden hangisi bu durumlara  </em>örnek olarak gösterilebilir?<br/> I. Facebook<br/> II. Ekşi Sözlük<br/> III. Sanal Cemaat",
+        "SoruMetni": "Bedenen ya da fiziksel mekân açısından bir arada bulunmayı gerektirmeyen, katılımcıların gerçek toplumsal ilişkilerle değil dijital teknolojiler aracılığıyla yaptıkları paylaşımlarla bir arada olmasına olanak sağlayan ortamlar olan çevrimiçi topluluklarda iletişim yüz yüze değil ses, görüntü ve yazışmalardan oluşan paylaşımlarla sağlanmaktadır. <em>Aşağıdakilerden hangisi bu durumlara </em>örnek olarak gösterilebilir?<br/>I. Facebook<br/>II. Ekşi Sözlük<br/>III. Sanal Cemaat",
         "A": "I ve II",
         "B": "Yalnız III",
         "C": "Yalnız II",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3769000,
-        "SoruMetni": "\"Kullanıcıların konum verisi paylaşmasına olanak sağlayan popüler sosyal ağlar ve mobil uygulamalardan bazıları Facebook, Twitter, Gowalla, Foursquare, Instagram, WhatsApp, Google+, Tinder, Swarm ve Bumble olarak sıralanabilir.\" Aşağıdakilerden hangisi fiziksel mekâna bindirilen artırılmış gerçeklik uygulamaları da bu verileri kullanan diğer platformalar arasındadır?<br/><br/> I. Google Maps,<br/><br/>II. Yandex Navigasyon,<br/><br/>III. TripAdvisor,<br/><br/>IV. Uber",
+        "SoruMetni": "\"Kullanıcıların konum verisi paylaşmasına olanak sağlayan popüler sosyal ağlar ve mobil uygulamalardan bazıları Facebook, Twitter, Gowalla, Foursquare, Instagram, WhatsApp, Google+, Tinder, Swarm ve Bumble olarak sıralanabilir.\" Aşağıdakilerden hangisi fiziksel mekâna bindirilen artırılmış gerçeklik uygulamaları da bu verileri kullanan diğer platformalar arasındadır?<br/>I. Google Maps,<br/>II. Yandex Navigasyon,<br/>III. TripAdvisor,<br/>IV. Uber",
         "A": "I, II, III ve IV",
         "B": "I, III ve IV",
         "C": "II, III ve IV",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 3769002,
-        "SoruMetni": "Kullanım koşulları, yönergeler, forum kuralları, hüküm ve koşullar, web sitesi kullanıcı sözleşmesi veya forum politikası gibi başlıklar aşağıdakilerden hangisi veya hangilerinin altında sunulmaktadır?<br/><br/>I. Açık etik kurallar<br/><br/>II. Örtülü etik kurallar<br/><br/>III. Dijital kurallar",
+        "SoruMetni": "Kullanım koşulları, yönergeler, forum kuralları, hüküm ve koşullar, web sitesi kullanıcı sözleşmesi veya forum politikası gibi başlıklar aşağıdakilerden hangisi veya hangilerinin altında sunulmaktadır?<br/>I. Açık etik kurallar<br/>II. Örtülü etik kurallar<br/>III. Dijital kurallar",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -262,10 +262,10 @@
     {
         "SoruID": 3769046,
         "SoruMetni": "Aşağıdakilerden hangisi çevrimiçi topluluklarının bileşenleri arasında yer <strong>almaz?</strong>",
-        "A": "Kendi ihtiyaçlarını karşılamak amacıyla toplumsal olarak etkileşime giren insanlar,<br/><br/>",
+        "A": "Kendi ihtiyaçlarını karşılamak amacıyla toplumsal olarak etkileşime giren insanlar,",
         "B": "Dijital ortam yöneticisine kazandırılmak üzere büyük meblağdaki ödemeler",
-        "C": "Çıkar, ihtiyaç ya da iş birliği yapmak gibi ortak bir amaç,<br/><br/>",
-        "D": "Topluluk üyelerinin davranışlarını yönlendiren örtük ya da açık kurallar biçimindeki prensipler,<br/><br/>",
+        "C": "Çıkar, ihtiyaç ya da iş birliği yapmak gibi ortak bir amaç,",
+        "D": "Topluluk üyelerinin davranışlarını yönlendiren örtük ya da açık kurallar biçimindeki prensipler,",
         "E": "Sosyal etkileşime aracılık eden taşıyıcı dijital platform olarak hizmet veren teknik bir sistem",
         "DogruCevap": "B",
         "DersAd": "Dijital Kültür",
@@ -278,6 +278,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Çevrimiçi topluluklar bireysel, grupla ilgili ve<br/>teknolojiyle ilgili boyutlar içermektedir. Çevrimiçi<br/>bir topluluk dört temel bileşenden oluşur (Preece,<br/>2000: 3):<br/>• Kendi ihtiyaçlarını karşılamak amacıyla<br/>toplumsal olarak etkileşime giren insanlar,<br/>• Çıkar, ihtiyaç ya da iş birliği yapmak gibi<br/>ortak bir amaç,<br/>• Topluluk üyelerinin davranışlarını yönlendiren örtük ya da açık kurallar biçimindeki<br/>prensipler,<br/>• Sosyal etkileşime aracılık eden taşıyıcı dijital platform olarak hizmet veren teknik bir<br/>sistem."
+    },
+    {
+        "SoruID": 3769047,
+        "SoruMetni": "Aşağıdakilerden hangisi aktivizm amaçlı çevrimiçi gruplardan biridir?",
+        "A": "Twitch",
+        "B": "Everquest",
+        "C": "Wikipedia",
+        "D": "BitTorrent",
+        "E": "MoveOn",
+        "DogruCevap": "E",
+        "DersAd": "Dijital Kültür",
+        "Unite": 2,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:40.228780",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Sosyalleşme amaçlı çevrimiçi gruplar: Facebook, Swarm<br/>• Oyun amaçlı çevrimiçi gruplar: Twitch,<br/>Everquest, Full Tilt Poker<br/>• İçerik paylaşımı amaçlı çevrimiçi gruplar:<br/>YouTube, BitTorrent<br/>• Bilgi paylaşımı amaçlı çevrimiçi gruplar:<br/>Wikipedia, Slashdot, SMC<br/>• Aktivizm amaçlı çevrimiçi gruplar: Change.<br/>org, MoveOn, ImmigrationVoice<br/>• Geliştirme amaçlı çevrimiçi gruplar: Linux,<br/>InnovationJam<br/>• Değişim ve satış amaçlı çevrimiçi gruplar:<br/>eBay, Craigslist"
     },
     {
         "SoruID": 3769048,
@@ -301,7 +321,7 @@
     },
     {
         "SoruID": 3769049,
-        "SoruMetni": "İnternet’te insanların keyfini kaçırmak ya da münakaşa başlatmak için tohum ekmeye çalışmak, alaycı söylemlerle hakaret ederek rahatsızlık vermek olarak tanımlanan kavram aşağıdakilerden hangisidir?<br/><br/>",
+        "SoruMetni": "İnternet’te insanların keyfini kaçırmak ya da münakaşa başlatmak için tohum ekmeye çalışmak, alaycı söylemlerle hakaret ederek rahatsızlık vermek olarak tanımlanan kavram aşağıdakilerden hangisidir?",
         "A": "Mobbing",
         "B": "Siber zorbalık",
         "C": "Trollük",
@@ -341,7 +361,7 @@
     },
     {
         "SoruID": 3769051,
-        "SoruMetni": "Aşağıdakilerden hangisi konum verilerinin kullanımına ilişkin etik ve sorumlu yaklaşımları desteklemek adına oluşturulan Locus Charter İlkeleri <br/>arasında <strong>yer almaz?</strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi konum verilerinin kullanımına ilişkin etik ve sorumlu yaklaşımları desteklemek adına oluşturulan Locus Charter İlkeleri <br/>arasında <strong>yer almaz?</strong>",
         "A": "İhlalleri en aza indiriniz",
         "B": "Verileri mümkün olduğunca çoğaltınız",
         "C": "Zarar görme ihtimali olanları koruyunuz",
@@ -381,7 +401,7 @@
     },
     {
         "SoruID": 3769180,
-        "SoruMetni": "Dijitalleşme ile birlikte toplumun dönüşüme uğradığı fikri çok sayıda düşünür tarafından farklı<br/>kavramlarla ifade edilmektedir. Seçeneklerden hangisi bilgisayar teknolojilerinin, bilginin ve zihinsel<br/>emeğin günümüz toplumsal yaşamındaki artan önemini tanımlamak için kullanılan kavramlardan <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span>",
+        "SoruMetni": "Dijitalleşme ile birlikte toplumun dönüşüme uğradığı fikri çok sayıda düşünür tarafından farklı<br/>kavramlarla ifade edilmektedir. Seçeneklerden hangisi bilgisayar teknolojilerinin, bilginin ve zihinsel<br/>emeğin günümüz toplumsal yaşamındaki artan önemini tanımlamak için kullanılan kavramlardan <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span>",
         "A": "İnternet toplumu",
         "B": "Bilgi toplumu",
         "C": "Sanal toplum",
@@ -417,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ağ toplumunda temel toplumsal yapılar ve faaliyetler bilgi ve iletişim teknolojileri<br/>etrafında düzenlenmektedir. Dijital bilgi ağlarından yararlanma becerisi hem bireyler hem de kurumlar için kritik hâle gelmiştir. Dolayısıyla ağ toplumu insan etkinliklerinin, deneyimlerinin<br/>ve gücünün internetin ağ yapısından etkilendiği mevcut toplum yapısını tasvir etmektedir."
+        "Aciklama": "Ağ toplumunda temel toplumsal yapılar ve faaliyetler bilgi ve iletişim teknolojileri<br/>etrafında düzenlenmektedir. Dijital bilgi ağlarından yararlanma becerisi hem bireyler hem de kurumlar için kritik hâle gelmiştir. Dolayısıyla ağ toplumu insan etkinliklerinin, deneyimlerinin<br/>ve gücünün internetin ağ yapısından etkilendiği mevcut toplum yapısını tasvir etmektedir."
     },
     {
         "SoruID": 3769184,
@@ -441,7 +461,7 @@
     },
     {
         "SoruID": 3769188,
-        "SoruMetni": "............... genişlemesi, siyasi kararların alınmasında halkı yalnızca izleyici konumuna<br/>indirgeyerek kamusal alanı yok etmiştir. boş bırakılan yere gelmesi gereken ifade hangisidir?",
+        "SoruMetni": "............... genişlemesi, siyasi kararların alınmasında halkı yalnızca izleyici konumuna<br/>indirgeyerek kamusal alanı yok etmiştir. boş bırakılan yere gelmesi gereken ifade hangisidir?",
         "A": "Kapitalizmin",
         "B": "Monarşilerin",
         "C": "Dijitalleşmenin",
@@ -537,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çevrimiçi topluluklar bireysel, grupla ilgili ve<br/>teknolojiyle ilgili boyutlar içermektedir. Çevrimiçi<br/>bir topluluk dört temel bileşenden oluşur <br/>• Kendi ihtiyaçlarını karşılamak amacıyla<br/>toplumsal olarak etkileşime giren insanlar,<br/>• Çıkar, ihtiyaç ya da iş birliği yapmak gibi<br/>ortak bir amaç,<br/>• Topluluk üyelerinin davranışlarını yönlendiren<br/>örtük ya da açık kurallar biçimindeki<br/>prensipler,<br/>• Sosyal etkileşime aracılık eden taşıyıcı dijital<br/>platform olarak hizmet veren teknik bir<br/>sistem."
+        "Aciklama": "Çevrimiçi topluluklar bireysel, grupla ilgili ve<br/>teknolojiyle ilgili boyutlar içermektedir. Çevrimiçi<br/>bir topluluk dört temel bileşenden oluşur <br/>• Kendi ihtiyaçlarını karşılamak amacıyla<br/>toplumsal olarak etkileşime giren insanlar,<br/>• Çıkar, ihtiyaç ya da iş birliği yapmak gibi<br/>ortak bir amaç,<br/>• Topluluk üyelerinin davranışlarını yönlendiren<br/>örtük ya da açık kurallar biçimindeki<br/>prensipler,<br/>• Sosyal etkileşime aracılık eden taşıyıcı dijital<br/>platform olarak hizmet veren teknik bir<br/>sistem."
     },
     {
         "SoruID": 3769193,
@@ -601,7 +621,7 @@
     },
     {
         "SoruID": 3769262,
-        "SoruMetni": "Ağ toplumu kavramı ile ilgili aşağıdakilerden hangisi veya hangileri doğrudur? <br/> I) küreselleşmenin toplumsal etkileri ve elektronik iletişim teknolojilerinin toplumdaki giderek artan rolüyle yakından ilişkilidir<br/> II) tarihsel kökeni bulunmayan, bu çağa özgü bir olgudur<br/> III)  bu toplumda bütün kurumlar hem kendi aralarında <br/>hem de kendi içlerinde bir ağ biçiminde örgütlenmektedir",
+        "SoruMetni": "Ağ toplumu kavramı ile ilgili aşağıdakilerden hangisi veya hangileri doğrudur? <br/>I) küreselleşmenin toplumsal etkileri ve elektronik iletişim teknolojilerinin toplumdaki giderek artan rolüyle yakından ilişkilidir<br/>II) tarihsel kökeni bulunmayan, bu çağa özgü bir olgudur<br/>III) bu toplumda bütün kurumlar hem kendi aralarında <br/>hem de kendi içlerinde bir ağ biçiminde örgütlenmektedir",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -641,7 +661,7 @@
     },
     {
         "SoruID": 3769264,
-        "SoruMetni": "Kamusal alan aşağıdakilerden hangisini içermez? <br/>",
+        "SoruMetni": "Kamusal alan aşağıdakilerden hangisini içermez?",
         "A": "İfade özgürlüğü",
         "B": "Farklı görüşler",
         "C": "Toplumsal sorunlar",
@@ -681,7 +701,7 @@
     },
     {
         "SoruID": 3769266,
-        "SoruMetni": "Aşağıdakilerden hangisi veya hangileri dijital teknolojilerin demokratikleştirici bir güç olduğu yönündeki görüşe karşı geliştirilen argümanlardandır?<br/> I) McChesney'in interneti, tekelci güçlerin yayılmasına yarayan bir güç kaynağı olarak nitelemesi  <br/> II) Gandy’nin interneti  gerçek bir kamusal alan ümidini tehdit eden, “gerçek bir dijital bölünme\" olarak tanımlaması<br/> III) Schiller’in interneti yoksulların özne olarak var  olabilecekleri bir ortam olarak tanımlaması",
+        "SoruMetni": "Aşağıdakilerden hangisi veya hangileri dijital teknolojilerin demokratikleştirici bir güç olduğu yönündeki görüşe karşı geliştirilen argümanlardandır?<br/>I) McChesney'in interneti, tekelci güçlerin yayılmasına yarayan bir güç kaynağı olarak nitelemesi <br/>II) Gandy’nin interneti gerçek bir kamusal alan ümidini tehdit eden, “gerçek bir dijital bölünme\" olarak tanımlaması<br/>III) Schiller’in interneti yoksulların özne olarak var olabilecekleri bir ortam olarak tanımlaması",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -721,7 +741,7 @@
     },
     {
         "SoruID": 3769268,
-        "SoruMetni": "Aşağıdakilerden hangileri çevirimiçi toplulukların özelliklerindendir ? <br/> I) Fiziksel olarak bir arada bulunmayı gerektirmez<br/> II) Paylaşımlar görüntü ve yazışmalarla gerçekleşir<br/> III) Bireyler belli bir amaç olmadan bir araya gelirler<br/> IV) Sanal topluluk veya dijital topluluk gibi isimlerle de anılır",
+        "SoruMetni": "Aşağıdakilerden hangileri çevirimiçi toplulukların özelliklerindendir ? <br/>I) Fiziksel olarak bir arada bulunmayı gerektirmez<br/>II) Paylaşımlar görüntü ve yazışmalarla gerçekleşir<br/>III) Bireyler belli bir amaç olmadan bir araya gelirler<br/>IV) Sanal topluluk veya dijital topluluk gibi isimlerle de anılır",
         "A": "I ve II",
         "B": "I ve III",
         "C": "II ve III",
@@ -737,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çevrimiçi topluluk, Web 2.0 çağında popülerlik kazanan sözcüklerinden biridir. Belirli bir amaç için bilgisayar ve mobil teknolojiler aracılığıyla bir araya gelen, aktif ya da pasif olarak katılım gösteren gönüllü bir kullanıcı grubunu tanımlamak için kullanılan bir kavramdır. Bedenen ya da fiziksel mekân açısından bir arada bulunmayı gerektirmeyen, katılımcıların gerçek toplumsal ilişkilerle değil dijital teknolojiler aracılığıyla yaptıkları paylaşımlarla bir arada olmasına olanak sağlayan ortamlar (Vatandaş, 2020: 23) olan çevrimiçi topluluklarda iletişim yüz yüze değil ses, görüntü ve yazışmalardan oluşan paylaşımlarla sağlanmaktadır."
+        "Aciklama": "Çevrimiçi topluluk, Web 2.0 çağında popülerlik kazanan sözcüklerinden biridir. Belirli bir amaç için bilgisayar ve mobil teknolojiler aracılığıyla bir araya gelen, aktif ya da pasif olarak katılım gösteren gönüllü bir kullanıcı grubunu tanımlamak için kullanılan bir kavramdır. Bedenen ya da fiziksel mekân açısından bir arada bulunmayı gerektirmeyen, katılımcıların gerçek toplumsal ilişkilerle değil dijital teknolojiler aracılığıyla yaptıkları paylaşımlarla bir arada olmasına olanak sağlayan ortamlar (Vatandaş, 2020: 23) olan çevrimiçi topluluklarda iletişim yüz yüze değil ses, görüntü ve yazışmalardan oluşan paylaşımlarla sağlanmaktadır."
     },
     {
         "SoruID": 3769269,

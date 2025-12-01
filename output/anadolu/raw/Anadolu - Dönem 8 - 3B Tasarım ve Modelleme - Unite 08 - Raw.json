@@ -12,8 +12,7 @@
         "D": "<p>3B modelleme ve tasarım, yalnızca mimari projeler için geliştirilmiş bir teknoloji olup, sanayide kullanılmamaktadır.</p>",
         "E": "<p>3B modelleme, yalnızca Endüstri 2.0 döneminde etkili olmuş ve daha sonraki sanayi devrimlerinde önemini kaybetmiştir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830612,
@@ -28,8 +27,7 @@
         "D": "<p>Ürün geliştirme sürecini daha karmaşık hâle getirerek mühendislerin yenilikçi çözümler üretmesini zorlaştırmaktadır.</p>",
         "E": "<p>Lojistik maliyetlerini artırarak karbon ayak izini büyütmektedir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830616,
@@ -44,8 +42,7 @@
         "D": "<p>3B modelleme ve tasarım teknolojileri, üretim süreçlerini hızlandırarak karbon emisyonlarının artmasına neden olmaktadır.</p>",
         "E": "<p>3B modelleme ve tasarım, yerel üretimi teşvik ederek küçük ölçekli üreticilere erişim sağlamakta ve ekonomik kalkınmaya katkıda bulunmaktadır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830660,
@@ -60,8 +57,7 @@
         "D": "<p>Etki Değerlendirmesi</p>",
         "E": "<p>Üretim Süreci Planlaması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830663,
@@ -76,8 +72,7 @@
         "D": "<p>Fosil yakıt bazlı malzemelerin üretimde daha yaygın kullanılmasını teşvik etmek.</p>",
         "E": "<p>Dijital ikizler ve sanal prototipleme kullanılarak, fiziksel prototip ihtiyacını azaltıp malzeme israfını önlemek.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830668,
@@ -92,8 +87,7 @@
         "D": "<p>Cerrahi operasyonların daha karmaşık ve uzun sürede tamamlanmasına neden olması.</p>",
         "E": "<p>Tıbbi cihazların güncellenmesini ve hastalara özel tasarlanmasını zorlaştırması.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830672,
@@ -108,8 +102,7 @@
         "D": "<p>Yüzey özelliklerinin kontrol edilememesi nedeniyle doku entegrasyonunun zor olması.</p>",
         "E": "<p>3B baskı teknolojisi ile özelleştirilememeleri.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830674,
@@ -124,8 +117,7 @@
         "D": "<p>Stok yönetimini karmaşık hâle getirerek talep üzerine üretim modelini engeller.</p>",
         "E": "<p>Ürünlerin müşteri geri bildirimleri doğrultusunda geliştirilmesine engel olur.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830677,
@@ -140,8 +132,7 @@
         "D": "<p>Malzeme israfını azaltarak üretim hızını artırır ve ürün kalitesini iyileştirir.</p>",
         "E": "<p>Endüstriyel tasarım süreçlerini standart hâle getirerek inovasyonu kısıtlar.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830681,
@@ -156,7 +147,6 @@
         "D": "<p>Öğrencilerin yaratıcı düşünme becerilerini sınırlayarak problem çözme yeteneklerini olumsuz etkiler.</p>",
         "E": "<p>Öğrencilerin karmaşık teorik kavramları somutlaştırarak daha derinlemesine anlamalarını sağlar.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

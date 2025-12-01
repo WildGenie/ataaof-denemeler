@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görme alan"
+        "Aciklama": "Görme alanı, baş çevrilmeden ve gözler oynatılmadan görülebilen sağ ve sol, yukarıda ve aşağıda kalan tüm alandır. Normal görme alanı yaklaşık 180 derecedir."
     },
     {
         "SoruID": 3863120,
@@ -37,11 +37,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kortikal görme yetersizliği"
+        "Aciklama": "Kortikal görme yetersizliği: Beynin doğum sırasında oksijensiz kalması, prematüre doğum gibi nedenlerle kortikal görme yetersizliği ortaya çıkabilir. Kortikal görme yetersizliğinde görme alanı problemleri de<br/>ortaya çıkabilir."
     },
     {
         "SoruID": 3863121,
-        "SoruMetni": "Hangi algının,  duyular tarafından sağlanan bilgileri birleştiren, genel bir anlam kazandıran bütünleştirici bir rolü vardır?",
+        "SoruMetni": "Hangi algının, duyular tarafından sağlanan bilgileri birleştiren, genel bir anlam kazandıran bütünleştirici bir rolü vardır?",
         "A": "İşitsel",
         "B": "Görsel",
         "C": "Tatsal",
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel"
+        "Aciklama": "Görsel algının, duyular tarafından sağlanan bilgileri birleştiren, genel bir anlam kazandıran bütünleştirici bir rolü vardır. Görsel uyarıcı yoksunluğu çeşitli gelişim alanlarında (ör., motor, bilişsel, sosyal, dil<br/>ve iletişim) yaşanabilecek problemleri de beraberinde getirebilmektedir."
     },
     {
         "SoruID": 3863122,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bütünleştirme"
+        "Aciklama": "Bütünleştirme kavramı, yetersizlikten etkilenmiş kişilerin toplumda bağımsız bir yaşam sürdürebilmesi<br/>için diğer kişilerin yararlandığı hak ve olanaklardan eşit şekilde yararlanması gerektiğini vurgulamaktadır.<br/>Bütünleştirmenin gerçekleştirilmesinde başarılı bir okul yaşamı için akranlarıyla aynı miktarda bilgiye ulaşması ve toplumun yetersizlikten etkilenmiş kişilere bakış açısının olumlu yönde değiştirilmesi gerekmektedir."
     },
     {
         "SoruID": 3863123,
@@ -97,11 +97,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hepsi"
+        "Aciklama": "Görme yetersizliği olan öğrencilere matematik derslerinde kullanabilmeleri için erişilebilir matematik araçları<br/>hazırlanmıştır. Küptaş, küptaş kasa ve abaküs kullanılarak işlemler yapılabilir, Braille cetvel, gönye, iletki ile öğrencilerin ölçüm yapmaları sağlanabilir, rulet ve özel hazırlanmış pergelle şekilleri çizmeleri sağlanabilir.<br>Hepsi"
     },
     {
         "SoruID": 3863124,
-        "SoruMetni": "Aşağıdaki uygulamalardan hangisi yapay zekâ üzerinden görsel tanıma ve betimleme teknolojisiyle oluşturulmuştur?",
+        "SoruMetni": "Aşağıdaki uygulamalardan hangisi yapay zekâ üzerinden görsel tanıma ve betimleme teknolojisiyle oluşturulmuştur?",
         "A": "JAWS",
         "B": "NVDA",
         "C": "Seeing AI",
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Seeing AI"
+        "Aciklama": "“Seeing AI” uygulaması, yapay zekâ üzerinden görsel tanıma ve betimleme teknolojisiyle oluşturulmuş,<br/>çok sayıda görsel unsura yönelik kolaylık sağlayan bir uygulamadır. Bu uygulamayla görme yetersizliği olan<br/>kişiler çevrelerindeki tüm görsel ögeleri ses yoluyla algılamaktadırlar."
     },
     {
         "SoruID": 3863125,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Destekleyici teknolojik araçlar"
+        "Aciklama": "Destekleyici teknolojik araçlar: Az gören kişilerin yazıları ve görselleri büyütmesini sağlayan teknolojilerdir. Görmeyen kişilerin kullanacağı bazı sesli araçları (ör., sesli terazi, şeker ölçüm cihazı vb.) az gören kişiler de kullanmaktadır."
     },
     {
         "SoruID": 3863127,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hafif/Taşınabilir"
+        "Aciklama": "Erken çocukluk döneminden itibaren denge problemi olan çocukların çevrelerinde bağımsız hareket edebilmeleri için daha kolay kullanabilecekleri baston tasarımları yapılabilir. Tasarımı yapılacak bastonun hafif/taşınabilir olmasına dikkat edilmelidir."
     },
     {
         "SoruID": 3863129,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hepsi"
+        "Aciklama": "Yemek yaparken parmakların kesilmesini engelleyen bir aparat tasarlanması herkesin kullanabileceği,<br/>işlevsel bir tasarımdır. Sıvı seviye gösterge cihazı (Gösterge kupa ya da bardağın kenarına yerleştirilir, bip sesi<br/>çıkana kadar sıvı dökülür.) gibi tasarımlar erişilebilir tasarımlardandır. Ölçü kapları herkes için görselliği<br/>de (Saydam yüzey üzerinde şekiller ve yazıları görmek zordur.) artırılarak dokunsal, sesli olarak erişilebilir<br/>şekilde tasarlanabilir. Depolama alanlarının düzenlenmesi, baharat kapları gibi mutfak düzenlemelerinin<br/>üzerine yapıştırılacak bir barkod ile telefonunu yaklaştırdığında sesli olarak dinleyebileceği ve dokunsal<br/>olarak ayırt etmeyi kolaylaştıracak düzenlemeler tasarlanabilir. Alışveriş yaparken destekleyici teknolojilerde açıklanan Seeing AI gibi yazılım programları erişilebilirliği sağlayacaktır ve ev içi ortamlar için de kişilere kolaylık sağlayacak tasarımlar geliştirilebilir. Görünürlüğü kolaylaştıracak bir tarafı açık renkte diğer<br/>tarafı<br>Hepsi"
     },
     {
         "SoruID": 3863131,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hepsi"
+        "Aciklama": "Görme yetersizliği olan çocukların duyularını geliştirmeye yönelik çeşitli çalışmalar yapılmaktadır.<br/>Görmesi sınırlı ya da göremeyen çocukların dokunsal, işitsel, kinestetik, koklama duyularını destekleyecek<br/>tasarımların üretilmesi büyük önem taşımaktadır. Az gören çocukların da görme becerilerini ve diğer duyularını destekleyecek tasarımların üretilmesi gerekmektedir. Bu tasarımlar, çocukların duyularının gelişimini<br/>desteklemenin yanı sıra bilişsel, sosyal, dil ve psiko-motor gelişimlerini de desteklemektedir.<br>Hepsi"
     },
     {
         "SoruID": 3863206,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görme alanı"
+        "Aciklama": "<strong>Görme alanı</strong>, baş çevrilmeden ve gözler oynatılmadan görülebilen sağ ve sol, yukarıda ve<br/>aşağıda kalan tüm alandır."
     },
     {
         "SoruID": 3863207,
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kolobom"
+        "Aciklama": "<strong>Kolobom:</strong> Gözle ilgili herhangi bir oluşumun (ör., gözkapağı, iris, retina vb.) doğumsal gelişim kusurudur."
     },
     {
         "SoruID": 3863208,
-        "SoruMetni": "Aşağıdakilerden hangisi görme yetersizliği olan kişiler için geliştirilmiş bir oyundur?",
+        "SoruMetni": "Aşağıdakilerden hangisi görme yetersizliği olan kişiler için geliştirilmiş bir oyundur?",
         "A": "Hentbol",
         "B": "Goalball",
         "C": "Voleybol",
@@ -257,16 +257,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Goalball"
+        "Aciklama": "Görme yetersizliği olan kişiler için goalball, showdown gibi oyunlar geliştirilmiştir."
     },
     {
         "SoruID": 3863209,
-        "SoruMetni": "Aşağıdakilerden hangisi az görenler için geliştirilen yardımcı ve destek teknolojilerinden <span style=\"text-decoration: underline;\">uzağı görmede</span>  kullanılan araçlardan biri <strong>değildir?</strong><br/><br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi az görenler için geliştirilen yardımcı ve destek teknolojilerinden <span style=\"text-decoration: underline;\">uzağı görmede</span> kullanılan araçlardan biri <strong>değildir?</strong>",
         "A": "Ayaklı büyüteçler",
-        "B": "Elle tutulan tek gözle kullanılan araçlar (monoküler)<br/><br/>",
+        "B": "Elle tutulan tek gözle kullanılan araçlar (monoküler)",
         "C": "Biyoptik tasarımlar",
-        "D": "Teleskoplar<br/><br/>",
-        "E": "Gözlüğe takılı olan teleskobik cihazlar<br/><br/>",
+        "D": "Teleskoplar",
+        "E": "Gözlüğe takılı olan teleskobik cihazlar",
         "DogruCevap": "A",
         "DersAd": "Engellilik ve Erişilebilir Tasarım",
         "Unite": 7,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ayaklı büyüteçler"
+        "Aciklama": "Uzak görme için:<br/>Teleskoplar, Elle tutulan tek gözle kullanılan araçlar (monoküler), Klipsli, gözlüğe takılı olan teleskobik cihazlar, Biyoptik tasarımlar<br/>Yakın görme için: Ayaklı büyüteçler"
     },
     {
         "SoruID": 3863212,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Seeing AI”"
+        "Aciklama": "“Seeing AI” uygulaması, yapay zekâ üzerinden görsel tanıma ve betimleme teknolojisiyle oluşturulmuş, çok sayıda görsel unsura yönelik kolaylık sağlayan bir uygulamadır."
     },
     {
         "SoruID": 3863214,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Teleskoplar"
+        "Aciklama": "Kontrast (şekil-zemin zıtlığı) arttırıcı araçlar:<br/><ul><br/><li>Keçeli, koyu renk tükenmez kalemler,</li><br/><li>satırları koyu çizilmiş kağıtlar,</li><br/><li>yazma kılavuzu,</li><br/><li>nesne ya da baskı üzerinde iyi aydınlatma (lamba)</li><br/></ul><br/>Uzak görme için: Teleskoplar"
     },
     {
         "SoruID": 3863215,
@@ -337,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zoomtext"
+        "Aciklama": "Zoomtext programı, ekranın hangi bölümünün büyütüleceğini ve yazı tipi uyarlamalarını (ör. puntosu, harf dizimi, kalınlık ve koyuluk ayarları sayesinde yazıların kalınlığını ve boşluk ayarlarını istenilen şekle getirme) belirlemeye olanak veren bir programdır."
     },
     {
         "SoruID": 3863216,
-        "SoruMetni": "Aşağıdakilerden hangisi optik araçlar arasında yer alır?",
+        "SoruMetni": "Aşağıdakilerden hangisi optik araçlar arasında yer alır?",
         "A": "Okuma stantları",
         "B": "Malzemelerle zıtlık sağlanmış doğrama tahtası",
         "C": "Büyük puntolu kitaplar",
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Büyüteç"
+        "Aciklama": "Optik olmayan araçlar: Uygun aydınlatma, okuma stantları (Boynunu eğerek okuması boynun ağrımasına ve gölgesinin kâğıda düşerek okumakta zorlanmasına neden olduğu için okuma materyallerini göz seviyesine getirmek amacıyla kullanılır.), şekil-zemin zıtlığı sağlanmış görseller (ör. satırları koyu çizilmiş çizgiler), malzemelerle zıtlık sağlanmış doğrama tahtası, okuma pencereleri, büyük puntolu kitaplar vb. düzenlemeler vardır.<br/>Optik araçlar: Büyüteçten teleskoplara kadar çok çeşitlilik göstermektedir."
     },
     {
         "SoruID": 3863217,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Korunma teknikleri"
+        "Aciklama": "Temel bağımsız hareket becerileri; elle duvar takibi, <strong>korunma teknikleri,</strong> baston becerileri, rehberle yürüme becerileridir."
     },
     {
         "SoruID": 3863294,
@@ -401,7 +401,7 @@
     },
     {
         "SoruID": 3863295,
-        "SoruMetni": "Ali, 8 yaşında albinizmli bir çocuktur. Gözleri ışığa karşı oldukça duyarlı olduğu için sınıfta pencere kenarında oturmaktan rahatsız olur ve tahtayı görmekte zorlanır. Öğretmeni, Ali’nin bakışlarının sürekli istemsizce hareket ettiğini ve odaklanmakta zorlandığını fark eder. Ayrıca Ali’nin yakından bakarak okuma eğiliminde olduğu görülür.<br/><br/>Ali’de görülen ve bakışlarının istemsizce hareket etmesine neden olan durumun adı aşağıdakilerden hangisidir?<br/>",
+        "SoruMetni": "Ali, 8 yaşında albinizmli bir çocuktur. Gözleri ışığa karşı oldukça duyarlı olduğu için sınıfta pencere kenarında oturmaktan rahatsız olur ve tahtayı görmekte zorlanır. Öğretmeni, Ali’nin bakışlarının sürekli istemsizce hareket ettiğini ve odaklanmakta zorlandığını fark eder. Ayrıca Ali’nin yakından bakarak okuma eğiliminde olduğu görülür.<br/>Ali’de görülen ve bakışlarının istemsizce hareket etmesine neden olan durumun adı aşağıdakilerden hangisidir?",
         "A": "Miyopi",
         "B": "Nistagmus",
         "C": "Katarakt",
@@ -417,11 +417,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>Nistagmus, göz kaslarının istemsiz, ritmik hareketleriyle ortaya çıkan bir durumdur. Albinizmli bireylerde sıkça görülür ve kişinin sabit bir noktaya odaklanmasını zorlaştırır. Bu yüzden Ali’nin bakışlarının sürekli hareket etmesi ve odaklanmada güçlük yaşaması, nistagmus belirtisidir.<br/><br/><br/><br/><br/><br/><br/><br/><br/>"
+        "Aciklama": "<br/>Nistagmus, göz kaslarının istemsiz, ritmik hareketleriyle ortaya çıkan bir durumdur. Albinizmli bireylerde sıkça görülür ve kişinin sabit bir noktaya odaklanmasını zorlaştırır. Bu yüzden Ali’nin bakışlarının sürekli hareket etmesi ve odaklanmada güçlük yaşaması, nistagmus belirtisidir."
     },
     {
         "SoruID": 3863296,
-        "SoruMetni": "<img alt=\"\" height=\"178\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/9f53bc95f1eb333d222c46d38419aeed.png\" width=\"221\"/><br/> Yukarıdaki görsel, bir kişinin görüşünü temsil etmektedir. Kişi, karşısındaki insanları seçmekte zorlanmakta, ancak çevresindeki nesneleri daha net görebilmektedir. Özellikle merkezi görüşü bulanık ya da karanlık olarak algılamaktadır.<br/> Bu görme kaybına neden olan en olası durum aşağıdakilerden hangisidir?",
+        "SoruMetni": "<img alt=\"\" height=\"178\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/9f53bc95f1eb333d222c46d38419aeed.png\" width=\"221\"/><br/>Yukarıdaki görsel, bir kişinin görüşünü temsil etmektedir. Kişi, karşısındaki insanları seçmekte zorlanmakta, ancak çevresindeki nesneleri daha net görebilmektedir. Özellikle merkezi görüşü bulanık ya da karanlık olarak algılamaktadır.<br/>Bu görme kaybına neden olan en olası durum aşağıdakilerden hangisidir?",
         "A": "Katarakt",
         "B": "Glokom",
         "C": "Diyabetik retinopati",
@@ -437,11 +437,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Maküler Dejenerasyon: Makula, merkezi görmeden sorumlu retina bölgesidir. Maküler dejenerasyon, özellikle yaşa bağlı olarak gelişir ve merkezi görme kaybına yol açar. Görselde olduğu gibi ortada kararma/bulanıklık, çevresel görüşün korunması tipiktir.<br/> Katarakt: Katarakt, göz merceğinin bulanıklaşmasıdır. Görme genel olarak bulanıklaşır, merkezi ya da çevresel bir ayrım yoktur; her şey sisli/flu görünür. Görseldeki gibi sadece merkezi kararma olmaz.<br/>  Glokom: Glokomda, genellikle periferik görüş kaybı ön plandadır. Tünel görme olarak tanımlanır; merkez genellikle korunur. Burada ise periferik değil, merkezi görme etkilenmiş.<br/>  Diyabetik Retinopati: Diyabetik retinopatide kanamalar, ödemler nedeniyle her alanda düzensiz görme bozuklukları olur. Bazen merkez, bazen çevre etkilenebilir ama genelde düzensiz ve dağınık bir görme kaybı olur. Görseldeki gibi belirgin merkezi kararma olmaz.<br/>  Retinitis Pigmentosa: Retinitis pigmentosa’da gece körlüğü ve ilerleyen dönemde periferik görme kaybı tipiktir. Yani merkez korunur, çevre kaybolur (tam ters durum)."
+        "Aciklama": "Maküler Dejenerasyon: Makula, merkezi görmeden sorumlu retina bölgesidir. Maküler dejenerasyon, özellikle yaşa bağlı olarak gelişir ve merkezi görme kaybına yol açar. Görselde olduğu gibi ortada kararma/bulanıklık, çevresel görüşün korunması tipiktir.<br/>Katarakt: Katarakt, göz merceğinin bulanıklaşmasıdır. Görme genel olarak bulanıklaşır, merkezi ya da çevresel bir ayrım yoktur; her şey sisli/flu görünür. Görseldeki gibi sadece merkezi kararma olmaz.<br/>Glokom: Glokomda, genellikle periferik görüş kaybı ön plandadır. Tünel görme olarak tanımlanır; merkez genellikle korunur. Burada ise periferik değil, merkezi görme etkilenmiş.<br/>Diyabetik Retinopati: Diyabetik retinopatide kanamalar, ödemler nedeniyle her alanda düzensiz görme bozuklukları olur. Bazen merkez, bazen çevre etkilenebilir ama genelde düzensiz ve dağınık bir görme kaybı olur. Görseldeki gibi belirgin merkezi kararma olmaz.<br/>Retinitis Pigmentosa: Retinitis pigmentosa’da gece körlüğü ve ilerleyen dönemde periferik görme kaybı tipiktir. Yani merkez korunur, çevre kaybolur (tam ters durum)."
     },
     {
         "SoruID": 3863297,
-        "SoruMetni": "<img alt=\"\" height=\"200\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/057f7273b8a25541bdb6f33be53d7bb2.png\" width=\"265\"/><br/><br/> Yukarıda verilen görsel, bir kişinin görüşünü temsil etmektedir. Kişi, çevresini görmekte zorlanmakta ve yalnızca merkezdeki görüntüyü net olarak algılayabilmektedir. Özellikle gece görüşü de ciddi şekilde bozulmuştur.<br/> Bu duruma en olası neden aşağıdakilerden hangisidir?",
+        "SoruMetni": "<img alt=\"\" height=\"200\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/057f7273b8a25541bdb6f33be53d7bb2.png\" width=\"265\"/><br/>Yukarıda verilen görsel, bir kişinin görüşünü temsil etmektedir. Kişi, çevresini görmekte zorlanmakta ve yalnızca merkezdeki görüntüyü net olarak algılayabilmektedir. Özellikle gece görüşü de ciddi şekilde bozulmuştur.<br/>Bu duruma en olası neden aşağıdakilerden hangisidir?",
         "A": "Maküler dejenerasyon",
         "B": "Katarakt",
         "C": "Glokom",
@@ -477,11 +477,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Engellilerin erişim için yalnızca kendi kaynaklarını kullanmalarını sağlamak<br/> Alınacak önlemler genellikle engellilerin bağımsızlığına destek olacak kamusal düzenlemeleri içerir; bireyleri yalnız bırakmak amaçlanmaz."
+        "Aciklama": "Engellilerin erişim için yalnızca kendi kaynaklarını kullanmalarını sağlamak<br/>Alınacak önlemler genellikle engellilerin bağımsızlığına destek olacak kamusal düzenlemeleri içerir; bireyleri yalnız bırakmak amaçlanmaz."
     },
     {
         "SoruID": 3863299,
-        "SoruMetni": "Görme yetersizliği olan bir bireyin bebeklikten yetişkinliğe kadar gelişiminde erken müdahale, çevreyi keşfetme fırsatları, sosyal etkileşim, akademik beceriler ve bağımsız yaşam becerilerinin tümü birbiriyle ilişkilidir.<br/> Bu sürecin bütüncül yapısı dikkate alındığında, aşağıdaki çıkarımlardan hangisi tutarsızdır?",
+        "SoruMetni": "Görme yetersizliği olan bir bireyin bebeklikten yetişkinliğe kadar gelişiminde erken müdahale, çevreyi keşfetme fırsatları, sosyal etkileşim, akademik beceriler ve bağımsız yaşam becerilerinin tümü birbiriyle ilişkilidir.<br/>Bu sürecin bütüncül yapısı dikkate alındığında, aşağıdaki çıkarımlardan hangisi tutarsızdır?",
         "A": "Erken dönemde çevresel etkileşim fırsatlarının sınırlanması, ilerleyen dönemlerde bağımsız yaşam becerilerinin gelişimini olumsuz etkileyebilir.",
         "B": "Sosyal etkileşimlerin güçlendirilmesi, yalnızca sosyal gelişimi değil, aynı zamanda bilişsel ve iletişim becerilerini de destekler.",
         "C": "Akademik becerilerin kazanılması, bağımsız yaşam becerileriyle doğrudan bağlantılı olmayıp yalnızca okul başarısını etkiler.",
@@ -501,12 +501,12 @@
     },
     {
         "SoruID": 3863300,
-        "SoruMetni": "<span>Aşağıda az gören bireyler için kullanılan bazı araçlar ve bu araçların ait oldukları kategori verilmiştir. Her aracın doğru kategorisini seçiniz.<br/> <br/> </span><br/> <table> <tbody> <tr> <td> <span>Araç</span><br/> </td> <td> <span>Kategori Seçenekleri</span><br/> </td> </tr> <tr> <td> <span>1. CCTV kapalı devre televizyon</span><br/> </td> <td> <span>a) Optik araçlar<br/> b) Optik olmayan araçlar<br/> c) Destekleyici teknolojik araçlar</span><br/> </td> </tr> <tr> <td> <span>2. Büyüteçli gözlük</span><br/> </td> </tr> <tr> <td> <span>3. Fosforlu bant</span><br/> </td> </tr> <tr> <td> <span>4. Siperlikli şapka</span><br/> </td> </tr> <tr> <td> <span>5. Satırları koyu çizilmiş kağıt</span><br/> </td> </tr> </tbody> </table>",
-        "A": "<span>1c, </span><span>2a, </span>3b, <span>4b, 5b</span>",
-        "B": "<span>1b, </span><span>2c, </span>3b, <span>4c, 5b</span>",
-        "C": "<span>1c, </span><span>2b, </span>3b, <span>4a, 5a</span>",
-        "D": "<span>1a, </span><span>2a, </span>3c, <span>4b, 5c</span>",
-        "E": "<span>1b, </span><span>2c, </span>3a, <span>4b, 5b</span>",
+        "SoruMetni": "<span>Aşağıda az gören bireyler için kullanılan bazı araçlar ve bu araçların ait oldukları kategori verilmiştir. Her aracın doğru kategorisini seçiniz.<br/></span><br/><table> <tbody> <tr> <td> <span>Araç</span><br/></td> <td> <span>Kategori Seçenekleri</span><br/></td> </tr> <tr> <td> <span>1. CCTV kapalı devre televizyon</span><br/></td> <td> <span>a) Optik araçlar<br/>b) Optik olmayan araçlar<br/>c) Destekleyici teknolojik araçlar</span><br/></td> </tr> <tr> <td> <span>2. Büyüteçli gözlük</span><br/></td> </tr> <tr> <td> <span>3. Fosforlu bant</span><br/></td> </tr> <tr> <td> <span>4. Siperlikli şapka</span><br/></td> </tr> <tr> <td> <span>5. Satırları koyu çizilmiş kağıt</span><br/></td> </tr> </tbody> </table>",
+        "A": "<span>1c, </span><span>2a, </span>3b, <span>4b, 5b</span>",
+        "B": "<span>1b, </span><span>2c, </span>3b, <span>4c, 5b</span>",
+        "C": "<span>1c, </span><span>2b, </span>3b, <span>4a, 5a</span>",
+        "D": "<span>1a, </span><span>2a, </span>3c, <span>4b, 5c</span>",
+        "E": "<span>1b, </span><span>2c, </span>3a, <span>4b, 5b</span>",
         "DogruCevap": "A",
         "DersAd": "Engellilik ve Erişilebilir Tasarım",
         "Unite": 7,
@@ -521,11 +521,11 @@
     },
     {
         "SoruID": 3863301,
-        "SoruMetni": "<span>Aşağıdaki ifadelerden hangileri, optik olmayan araçların sağladığı desteklerdendir?<br/> <br/> I. Okuma sırasında uygun duruşu sağlamak<br/> II. Çevredeki ışık ve parlama koşullarını düzenlemek<br/> III. Görme keskinliğini teleskopla artırmak<br/> IV. Kontrastı artırarak şekil-zemin ayrımını kolaylaştırmak<br/></span>",
-        "A": "<span>Yalnız III<br/><br/> <br/> </span><br/>",
-        "B": "<span>I ve II<br/><br/></span>",
-        "C": "<span>I, II ve IV<br/><br/></span>",
-        "D": "<span>II ve III<br/><br/></span>",
+        "SoruMetni": "<span>Aşağıdaki ifadelerden hangileri, optik olmayan araçların sağladığı desteklerdendir?<br/>I. Okuma sırasında uygun duruşu sağlamak<br/>II. Çevredeki ışık ve parlama koşullarını düzenlemek<br/>III. Görme keskinliğini teleskopla artırmak<br/>IV. Kontrastı artırarak şekil-zemin ayrımını kolaylaştırmak<br/></span>",
+        "A": "<span>Yalnız III<br/></span>",
+        "B": "<span>I ve II<br/></span>",
+        "C": "<span>I, II ve IV<br/></span>",
+        "D": "<span>II ve III<br/></span>",
         "E": "<span>I, III ve IV</span>",
         "DogruCevap": "C",
         "DersAd": "Engellilik ve Erişilebilir Tasarım",
@@ -537,12 +537,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span> I, II ve IV<br/><br/></span></span><span>I-Okuma sırasında uygun duruşu sağlamak: Okuma standları gibi optik olmayan araçlarla desteklenir.</span><br/><span>II- Çevredeki ışık ve parlama koşullarını düzenlemek: Siperlikli şapka, filtreli gözlük gibi optik olmayan araçlarla sağlanır.<br/></span>III. Görme keskinliğini teleskopla artırmak: Bu, optik bir araçtır; dolayısıyla optik olmayan destek kapsamında değildir<br/>IV- Kontrastı artırarak şekil-zemin ayrımını kolaylaştırmak: Kontrast artırıcı kalemler, çizgili kağıt gibi optik olmayan araçlar bunun için kullanılır."
+        "Aciklama": "<span><span> I, II ve IV<br/></span></span><span>I-Okuma sırasında uygun duruşu sağlamak: Okuma standları gibi optik olmayan araçlarla desteklenir.</span><br/><span>II- Çevredeki ışık ve parlama koşullarını düzenlemek: Siperlikli şapka, filtreli gözlük gibi optik olmayan araçlarla sağlanır.<br/></span>III. Görme keskinliğini teleskopla artırmak: Bu, optik bir araçtır; dolayısıyla optik olmayan destek kapsamında değildir<br/>IV- Kontrastı artırarak şekil-zemin ayrımını kolaylaştırmak: Kontrast artırıcı kalemler, çizgili kağıt gibi optik olmayan araçlar bunun için kullanılır."
     },
     {
         "SoruID": 3863302,
         "SoruMetni": "Herkesin gereksiz çaba, özel muamele ve ayrı çözümlere gerek kalmadan kolayca kullanabileceği, duygusal açıdan erişilebilir, seçim özgürlüğü sunan, eşit katılım sağlayan, farklılıkları kapsayan, anlaşılır, güvenli ve nitelikli çevreyi hedefleyen tasarım yaklaşımı aşağıdakilerden hangisidir?",
-        "A": "Bağımsız yaşam tasarımı<br data-end=\"502\" data-start=\"499\"/><br/>",
+        "A": "Bağımsız yaşam tasarımı<br data-end=\"502\" data-start=\"499\"/>",
         "B": "Özel eğitim destek tasarımı",
         "C": "Erişilebilir tasarım",
         "D": "Uyarlanmış tasarım",
@@ -561,7 +561,7 @@
     },
     {
         "SoruID": 3863303,
-        "SoruMetni": "Aşağıdakilerden hangileri, erişilebilir tasarım ilkelerinin yalnızca akademik başarıyı değil, bağımsız yaşam becerileri ve sosyal katılım açısından da önemli olduğunu gösterir?<br/><br/>I. Günlük yaşamda ilaç kutuları, ev aletleri ve oyun materyallerinin erişilebilir biçimde tasarlanması<br/> II. Braille etiketleri, dokunsal haritalar ve sesli sinyalizasyon sistemlerinin kullanılması<br/> III. Yalnızca öğretmenin sözel anlatımına dayalı olarak ders yapılması<br/> IV. Akıllı bastonlar ve yön bulma sistemleriyle güvenli hareket etmenin sağlanması",
+        "SoruMetni": "Aşağıdakilerden hangileri, erişilebilir tasarım ilkelerinin yalnızca akademik başarıyı değil, bağımsız yaşam becerileri ve sosyal katılım açısından da önemli olduğunu gösterir?<br/>I. Günlük yaşamda ilaç kutuları, ev aletleri ve oyun materyallerinin erişilebilir biçimde tasarlanması<br/>II. Braille etiketleri, dokunsal haritalar ve sesli sinyalizasyon sistemlerinin kullanılması<br/>III. Yalnızca öğretmenin sözel anlatımına dayalı olarak ders yapılması<br/>IV. Akıllı bastonlar ve yön bulma sistemleriyle güvenli hareket etmenin sağlanması",
         "A": "I ve II",
         "B": "I, II ve IV",
         "C": "I ve III",
@@ -577,6 +577,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>I, II ve IV</strong><br/> I, II ve IV maddeleri erişilebilir tasarımın sosyal, bağımsız ve akademik boyutlara katkısını gösterir. III ise yanlış bir uygulamadır çünkü yalnızca sözel anlatım yetersizdir."
+        "Aciklama": "<strong>I, II ve IV</strong><br/>I, II ve IV maddeleri erişilebilir tasarımın sosyal, bağımsız ve akademik boyutlara katkısını gösterir. III ise yanlış bir uygulamadır çünkü yalnızca sözel anlatım yetersizdir."
     }
 ]

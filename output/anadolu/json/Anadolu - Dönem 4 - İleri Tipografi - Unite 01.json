@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3488022,
-        "SoruMetni": "<img alt=\"\" height=\"380\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/f472d9c11065cd3b7367812702534644.png\" width=\"419\"/><br/> Gavin Ambrose tarafından Design Council için tasarlanan üç boyutlu tipografik düzenleme hangi amaçla yapılmıştır?",
+        "SoruMetni": "<img alt=\"\" height=\"380\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/f472d9c11065cd3b7367812702534644.png\" width=\"419\"/><br/>Gavin Ambrose tarafından Design Council için tasarlanan üç boyutlu tipografik düzenleme hangi amaçla yapılmıştır?",
         "A": "Mimari imge",
         "B": "Gösteri-reklam",
         "C": "Yer imi",
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Amandine Alessandra’nın projesi “Letterform for the Ephemeral” 2009-2010 yılları arasında oluşturulmuş, birkaç evreden meydana gelen bir projedir. Giyilebilir tipografiden yola çıkılarak  deneyimlenen proje, bolero tarzı kollardan geçirilen birbirine bağlı kumaş parçasının kollar ve omuz  yardımıyla harf formlarının oluşturulduğu bir düzenlemedir."
+        "Aciklama": "Amandine Alessandra’nın projesi “Letterform for the Ephemeral” 2009-2010 yılları arasında oluşturulmuş, birkaç evreden meydana gelen bir projedir. Giyilebilir tipografiden yola çıkılarak deneyimlenen proje, bolero tarzı kollardan geçirilen birbirine bağlı kumaş parçasının kollar ve omuz yardımıyla harf formlarının oluşturulduğu bir düzenlemedir."
     },
     {
         "SoruID": 3488027,
@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 3488125,
-        "SoruMetni": "I-Mekânın bir parçası olmalıdır.<br/> II-Mimari nitelikler ile bütünleşmelidir.<br/> III-Mekânın kullanılabilirliğini desteklemelidir.<br/> IV-Ziyaretçinin dikkatini mekâna çekmelidir.<br/> Mimari imge olarak üç boyutlu tipografiye ilişkin yukarıdaki ifadelerden hangisi doğrudur?",
+        "SoruMetni": "I-Mekânın bir parçası olmalıdır.<br/>II-Mimari nitelikler ile bütünleşmelidir.<br/>III-Mekânın kullanılabilirliğini desteklemelidir.<br/>IV-Ziyaretçinin dikkatini mekâna çekmelidir.<br/>Mimari imge olarak üç boyutlu tipografiye ilişkin yukarıdaki ifadelerden hangisi doğrudur?",
         "A": "I ve II",
         "B": "II ve IV",
         "C": "I, II, III",
@@ -266,7 +266,7 @@
         "B": "Mimari İmge Olarak Üç Boyutlu Tipografi",
         "C": "Yer İmi Amaçlı Üç Boyutlu Tipografi",
         "D": "Oyun Amaçlı Üç Boyutlu Tipografi",
-        "E": "Obje Çıkışlı Üç Boyutlu Tipografi",
+        "E": "Obje Çıkışlı Üç Boyutlu Tipografi",
         "DogruCevap": "C",
         "DersAd": "İleri Tipografi",
         "Unite": 1,
@@ -301,11 +301,11 @@
     },
     {
         "SoruID": 3488129,
-        "SoruMetni": "Sanal ortamda harflere katman kazandırılarak hacimlendirilmesinin ya­nında üç boyutlu harf formlarının heykelsi bir hâl alması olarak tanımlanan tipografi yöntemine ne ad verilir?<br/>",
+        "SoruMetni": "Sanal ortamda harflere katman kazandırılarak hacimlendirilmesinin ya­nında üç boyutlu harf formlarının heykelsi bir hâl alması olarak tanımlanan tipografi yöntemine ne ad verilir?",
         "A": "Soyut tipografi",
         "B": "Karma boyutlu tipografi",
         "C": "Sanal boyutlu tipografi",
-        "D": "İki boyutlu tipografi<br/><br/>",
+        "D": "İki boyutlu tipografi",
         "E": "Üç boyutlu tipografi",
         "DogruCevap": "E",
         "DersAd": "İleri Tipografi",
@@ -346,7 +346,7 @@
         "B": "Macar İmparatorluğu",
         "C": "Osmanlı İmparatorluğu",
         "D": "<span style=\"font-family: 'Times New Roman',serif;\">Roma İmparatorluğu<br/></span>",
-        "E": "Alman İmparatorluğu<br/><br/>",
+        "E": "Alman İmparatorluğu",
         "DogruCevap": "D",
         "DersAd": "İleri Tipografi",
         "Unite": 1,
@@ -381,7 +381,7 @@
     },
     {
         "SoruID": 3488133,
-        "SoruMetni": "I- Hareket ya da Performans Oluşturulan Üç Boyutlu Tipografi<br/><br/>II- Anamorfik Üç Boyutlu Tipografi<br/><br/>III- Yeri İmi Amaçlı Üç Boyutlu Tipografi<br/><br/>IV- Oyun Amaçlı ve Obje Çıkışlı Üç Boyutlu Tipografi<br/><br/>Yukarıdakilerden hangisi/hangileri \"kullanım alanlarına göre üç boyutlu tipografi\" sınıflaması içinde yer alır?",
+        "SoruMetni": "I- Hareket ya da Performans Oluşturulan Üç Boyutlu Tipografi<br/>II- Anamorfik Üç Boyutlu Tipografi<br/>III- Yeri İmi Amaçlı Üç Boyutlu Tipografi<br/>IV- Oyun Amaçlı ve Obje Çıkışlı Üç Boyutlu Tipografi<br/>Yukarıdakilerden hangisi/hangileri \"kullanım alanlarına göre üç boyutlu tipografi\" sınıflaması içinde yer alır?",
         "A": "I ve II",
         "B": "II ve III",
         "C": "III, IV",
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bakış açısına göre değişen üç boyutlu tipografi <span style=\"font-family: 'Arial',sans-serif; color: windowtext;\">Anamorfik tipografidir.</span>"
+        "Aciklama": "Bakış açısına göre değişen üç boyutlu tipografi <span style=\"font-family: 'Arial',sans-serif; color: windowtext;\">Anamorfik tipografidir.</span>"
     },
     {
         "SoruID": 3488137,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu çalışma Kesip Çıkarma Yöntemiyle Oluşturulan Üç Boyutlu Tipografi başlığı altında verilen bir örnek olup, cevap c seçeneğidir."
+        "Aciklama": "Bu çalışma Kesip Çıkarma Yöntemiyle Oluşturulan Üç Boyutlu Tipografi başlığı altında verilen bir örnek olup, cevap c seçeneğidir."
     },
     {
         "SoruID": 3488138,
@@ -541,7 +541,7 @@
     },
     {
         "SoruID": 3488141,
-        "SoruMetni": "\"<span style=\"text-decoration: underline;\"><strong>...</strong></span>  tipografide, harflerin geleneksel olan düz ve hareketsiz yapısı hareketli ve deneyimlenebilecek bir hâle gelir\" tanımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"<span style=\"text-decoration: underline;\"><strong>...</strong></span> tipografide, harflerin geleneksel olan düz ve hareketsiz yapısı hareketli ve deneyimlenebilecek bir hâle gelir\" tanımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Boyutlu",
         "B": "Renkli",
         "C": "Hareketli",
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Verilen örnek, hazır malzemelerden oluşturulan üç boyutlu tipografi başlığı altında yer almakta olup cevap d seçeneğidir."
+        "Aciklama": "Verilen örnek, hazır malzemelerden oluşturulan üç boyutlu tipografi başlığı altında yer almakta olup cevap d seçeneğidir."
     },
     {
         "SoruID": 3488144,
@@ -661,7 +661,7 @@
     },
     {
         "SoruID": 3488147,
-        "SoruMetni": "Mimari İmge Olarak Üç Boyutlu Tipografi için aşağıdakilerden hangisi doğrudur?",
+        "SoruMetni": "Mimari İmge Olarak Üç Boyutlu Tipografi için aşağıdakilerden hangisi doğrudur?",
         "A": "Bir binanın grafiksel olarak imgesi, o binanın özellikleri üzerinde etkili değildir.",
         "B": "Fiziksel bir mekânda coğrafi boyutlar bir birey için algılanması çok kolay bir hâldedir.",
         "C": "Binayı kullananların mimari ile uygulanan grafik sistemler arasındaki uyumu hissetmemeleri gerekir.",
@@ -721,12 +721,12 @@
     },
     {
         "SoruID": 3488150,
-        "SoruMetni": "<br/> <br/> <br/> <br/>1925 yılında kaleme aldığı “Tipofoto” adlı makalesinde, tipografik malzemelerin kendilerinin, yalnızca dolaylı bir entelektüellik ile kalmaksızın ayrıca doğrudan görünürlüklü, güçlü bir optik somutluğa sahip olduğundan söz eden tasarımcı aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Takenobu Igarashi<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Laszlo Moholy-Nagy<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Gyöngy Laky<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Abbott Miller<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Benoit Challand<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>1925 yılında kaleme aldığı “Tipofoto” adlı makalesinde, tipografik malzemelerin kendilerinin, yalnızca dolaylı bir entelektüellik ile kalmaksızın ayrıca doğrudan görünürlüklü, güçlü bir optik somutluğa sahip olduğundan söz eden tasarımcı aşağıdakilerden hangisidir?",
+        "A": "<br/>Takenobu Igarashi",
+        "B": "<br/>Laszlo Moholy-Nagy",
+        "C": "<br/>Gyöngy Laky",
+        "D": "<br/>Abbott Miller",
+        "E": "<br/>Benoit Challand",
         "DogruCevap": "B",
         "DersAd": "İleri Tipografi",
         "Unite": 1,
@@ -737,16 +737,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Laszlo Moholy-Nagy, 1925 yılında kaleme aldığı “Tipofoto” adlı makalesinde, tipografik malzemelerin kendilerinin, yalnızca dolaylı bir entelektüellik ile kalmaksızın ayrıca doğrudan görünürlüklü, güçlü bir optik somutluğa sahip olduğundan söz etmiştir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Laszlo Moholy-Nagy, 1925 yılında kaleme aldığı “Tipofoto” adlı makalesinde, tipografik malzemelerin kendilerinin, yalnızca dolaylı bir entelektüellik ile kalmaksızın ayrıca doğrudan görünürlüklü, güçlü bir optik somutluğa sahip olduğundan söz etmiştir."
     },
     {
         "SoruID": 3488151,
         "SoruMetni": "Aşağıdakilerden hangisi Hazır Malzemelerden Oluşturulan Üç Boyutlu Tipografi olarak değerlendirilir?",
         "A": "Jiyeon Song'un birbirine ekli yüzeylerin üzerlerindeki nokta şeklindeki boşluklardan gün içinde değişen ışığın yere yansımasıyla elde edilen şiirsel sözler kullanması",
-        "B": "Olga Adelantado'nun ‘Project Room 06 (Proje Odası 06)’ için tasarladığı enstalasyonda var olan bir yazı karakteri kullanmak yerine deliklerden oluşan bir font yaratması",
+        "B": "Olga Adelantado'nun ‘Project Room 06 (Proje Odası 06)’ için tasarladığı enstalasyonda var olan bir yazı karakteri kullanmak yerine deliklerden oluşan bir font yaratması",
         "C": "Belçikalı tasarımcı Clotilde Olyff, Fransa sahillerinden 20 yıl boyunca topladığı çakıl taşlarından alfabe oluşturması",
         "D": "Japon tasarımcı Satsuki Atsumi'nin, 2010 yılında tasarladığı “Hinge” adlı yazı karakterini kapı menteşesi olarak düşünmesi ve sunumda “There is Always Tomorrow (Her zaman yarın vardır)” söz dizisini bu menteşeleri kullanarak yazması",
-        "E": "Gyöngy Laky'nin   üç boyutlu yazı tasarımında “art (sanat)” kelimesini çeşitli odun parçalarını birbirine çivileyerek oluşturması",
+        "E": "Gyöngy Laky'nin üç boyutlu yazı tasarımında “art (sanat)” kelimesini çeşitli odun parçalarını birbirine çivileyerek oluşturması",
         "DogruCevap": "C",
         "DersAd": "İleri Tipografi",
         "Unite": 1,
@@ -761,7 +761,7 @@
     },
     {
         "SoruID": 3488152,
-        "SoruMetni": "\"1987 yılında tamamlanan heykelsi düzenleme, bölgenin en eski ve en büyük yazı örneklerini barındırır. “Görsel Şiir” olarak adlandırılan projede, kamusal alanda büyük boyutlu tipografik heykeller bulunur. Görsel ve yürüyerek deneyimlenen bu şiir Barcelona Velòdrom d’horta’da yer almakta ve üç kısımdan oluşmaktadır\" açıklamasında söz edilen  sanatçı aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"1987 yılında tamamlanan heykelsi düzenleme, bölgenin en eski ve en büyük yazı örneklerini barındırır. “Görsel Şiir” olarak adlandırılan projede, kamusal alanda büyük boyutlu tipografik heykeller bulunur. Görsel ve yürüyerek deneyimlenen bu şiir Barcelona Velòdrom d’horta’da yer almakta ve üç kısımdan oluşmaktadır\" açıklamasında söz edilen sanatçı aşağıdakilerden hangisidir?",
         "A": "Jiyeon Song",
         "B": "Oded Ezer",
         "C": "Ruedi Baur",
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Görsel Şiir” olarak adlandırılan  projede İspanyol sanatçı <strong>Joan Brossa</strong>, kamusal alanda büyük boyutlu tipografik heykeller oluşturmuştur. Görsel ve yürüyerek deneyimlenen bu şiir Barcelona Velòdrom d’horta’da yer almaktadır ve üç kısımdan oluşmaktadır. 1987 yılında tamamlanan bu heykelsi düzenleme, bölgenin en eski ve en büyük yazı örneklerini barındırır."
+        "Aciklama": "“Görsel Şiir” olarak adlandırılan projede İspanyol sanatçı <strong>Joan Brossa</strong>, kamusal alanda büyük boyutlu tipografik heykeller oluşturmuştur. Görsel ve yürüyerek deneyimlenen bu şiir Barcelona Velòdrom d’horta’da yer almaktadır ve üç kısımdan oluşmaktadır. 1987 yılında tamamlanan bu heykelsi düzenleme, bölgenin en eski ve en büyük yazı örneklerini barındırır."
     },
     {
         "SoruID": 3488153,

@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 264757,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi halkın toplandığı ticari, dinî, ekonomik, siyasi, hukuki ve sosyal etkinliklerin gerçekleştiği bir kamu alanı, açık meydan ve pazar yeridir?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi halkın toplandığı ticari, dinî, ekonomik, siyasi, hukuki ve sosyal etkinliklerin gerçekleştiği bir kamu alanı, açık meydan ve pazar yeridir?</strong>",
         "A": "Tiyatro",
         "B": "Bazilika",
         "C": "Forum",
@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264758,
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264760,
@@ -54,7 +56,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 264761,
@@ -73,11 +76,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264791,
-        "SoruMetni": "……………......... Romalılarda, ön yüzünde sütunlu bir gezi yeri bulunan anıtsal çeşmedir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "……………......... Romalılarda, ön yüzünde sütunlu bir gezi yeri bulunan anıtsal çeşmedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Çeşme",
         "B": "Ayazma",
         "C": "Nimfeum",
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264793,
@@ -111,7 +116,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 267054,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 267056,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 267059,
@@ -168,11 +176,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 267060,
-        "SoruMetni": "<strong>Duvar örgüsünde taş ve tuğlaları pozolona adı verilen,  volkanik küllerden oluşan, günümüz çimentosunu andıran harçla birleştirerek kullanarak, büyük yapıların gelişmesini sağlayan medeniyet aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Duvar örgüsünde taş ve tuğlaları pozolona adı verilen, volkanik küllerden oluşan, günümüz çimentosunu andıran harçla birleştirerek kullanarak, büyük yapıların gelişmesini sağlayan medeniyet aşağıdakilerden hangisidir?</strong>",
         "A": "Yunan",
         "B": "Roma",
         "C": "Etrüsk",
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 267061,
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 267062,
@@ -225,11 +236,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 267063,
-        "SoruMetni": "<strong>Dünyanın en iyi korunmuş Antik Roma Anıtı olarak biliniyor. İlk başta içerisinde pagan tanrı heykelleri varken, kilise tarafından bu heykeller yok edilmiş,  bir Katolik kilisesi hâline getirilmiş yapı aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Dünyanın en iyi korunmuş Antik Roma Anıtı olarak biliniyor. İlk başta içerisinde pagan tanrı heykelleri varken, kilise tarafından bu heykeller yok edilmiş, bir Katolik kilisesi hâline getirilmiş yapı aşağıdakilerden hangisidir?</strong>",
         "A": "Ayasofya",
         "B": "Pantheon",
         "C": "San Pier",
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 267064,
@@ -263,7 +276,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 267067,
@@ -282,11 +296,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 267069,
-        "SoruMetni": "<strong>“……………..”Roma Dönemi’nde din dışı bazı kamu işleri için kullanılan dikdörtgen planlı sütun dizilerince taşınan bir yapı türü olup içinde alış veriş yapılan çarşılarla, mahkeme bulunur.<br/> <br/>Boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "<strong>“……………..”Roma Dönemi’nde din dışı bazı kamu işleri için kullanılan dikdörtgen planlı sütun dizilerince taşınan bir yapı türü olup içinde alış veriş yapılan çarşılarla, mahkeme bulunur.<br/>Boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?</strong>",
         "A": "Forum",
         "B": "Amfitiyatro",
         "C": "Bazilika",
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 328747,
@@ -320,11 +336,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 328770,
-        "SoruMetni": "I. Arkaik Dönem: Mısır ve Mezopotamya sanatının etkileri görülür.<br/> <br/>II. Hellenistik Dönem: Üstün estetik değerlere ve dışavurumcu güce sahip heykeller yapılmıştır.<br> <br/>III. Klasik Dönem: Figürlerde idealizm ön plandadır, yapılan heykel doğal gerçekliğe kavuşturulmuştur.<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri Antik Yunan Heykeli özellikleri arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Arkaik Dönem: Mısır ve Mezopotamya sanatının etkileri görülür.<br/>II. Hellenistik Dönem: Üstün estetik değerlere ve dışavurumcu güce sahip heykeller yapılmıştır.<br/>III. Klasik Dönem: Figürlerde idealizm ön plandadır, yapılan heykel doğal gerçekliğe kavuşturulmuştur.<br/><strong>Yukarıdakilerden hangisi ya da hangileri Antik Yunan Heykeli özellikleri arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -339,7 +356,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 328771,
@@ -358,7 +376,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328774,
@@ -377,7 +396,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328776,
@@ -396,7 +416,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 367070,
@@ -415,11 +436,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 367073,
-        "SoruMetni": "MÖ 7. yüzyıldan itibaren tanrılar için inşa edilen, taştan yapılmaya başlanan tapınaklar ve bunların biçimi, süslemesi, planı belirli kurallara bağlanmıştır. Bu kurallara “nizam” adı verilmektedir. Tapınakların hangi nizama göre yapıldığı cephe düzeni ve sütun başlıklarından anlaşılmaktadır.<strong><br/> <br/>Bu nizamların isimleri aşağıdakilerden hangisinde doğru verilmiştir?</strong>",
+        "SoruMetni": "MÖ 7. yüzyıldan itibaren tanrılar için inşa edilen, taştan yapılmaya başlanan tapınaklar ve bunların biçimi, süslemesi, planı belirli kurallara bağlanmıştır. Bu kurallara “nizam” adı verilmektedir. Tapınakların hangi nizama göre yapıldığı cephe düzeni ve sütun başlıklarından anlaşılmaktadır.<strong><br/>Bu nizamların isimleri aşağıdakilerden hangisinde doğru verilmiştir?</strong>",
         "A": "Dor, İyon ve Korint",
         "B": "Dor, Samerra ve Ampir",
         "C": "Korint, A Üslubu ve Barok",
@@ -434,11 +456,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 367075,
-        "SoruMetni": "<strong>Yunanistan’da güçlü surlarla korunan şehirlere “polis” adı verilir, bu şehirler surlarla çevrilmişlerdir.  Bu şehirlerde birbirine paralel ve birbirini dik kesen düzenli caddelerin bulunduğu Hippodamos planının diğer ismi aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Yunanistan’da güçlü surlarla korunan şehirlere “polis” adı verilir, bu şehirler surlarla çevrilmişlerdir. Bu şehirlerde birbirine paralel ve birbirini dik kesen düzenli caddelerin bulunduğu Hippodamos planının diğer ismi aşağıdakilerden hangisidir?</strong>",
         "A": "Karışık Plan",
         "B": "Izgara Plan",
         "C": "Rotond Plan",
@@ -453,14 +476,15 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 367079,
-        "SoruMetni": "<strong>Roma, efsaneye göre MÖ 27 Nisan 753 tarihinde, Truva Prensi Aeneas'ın torunları olarak da bilinen hangi kardeşler tarafından kurulmuştur?</strong>",
+        "SoruMetni": "<strong>Roma, efsaneye göre MÖ 27 Nisan 753 tarihinde, Truva Prensi Aeneas'ın torunları olarak da bilinen hangi kardeşler tarafından kurulmuştur?</strong>",
         "A": "Romulus ve Remus",
         "B": "Attila ve Bleda",
-        "C": "Herodot ve Pasteur",
+        "C": "Herodot ve Pasteur",
         "D": "Herkül-Apollo",
         "E": "Gog-Magog",
         "DogruCevap": "A",
@@ -472,7 +496,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 393961,
@@ -491,7 +516,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 394208,
@@ -510,6 +536,7 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     }
 ]

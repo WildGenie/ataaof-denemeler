@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Donanım teknolojisiyle birlikte gelişme</strong>"
+        "Aciklama": "<strong>Donanım teknolojisiyle birlikte gelişme:</strong> Görsel varlıkları anlık çağırma ve yükleme zamanlarını<br/>azaltma adına oyun motorları uyumlanmaya ve kendini optimize etmeye devam edecektir."
     },
     {
         "SoruID": 3685460,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Demografik yapı belirleme"
+        "Aciklama": "Bilindiği üzere oyun geliştirme süreci <strong>programlama</strong>dan <strong>veri toplama</strong>ya; veri toplamadan<br/><strong>maddi kaynak oluşturma</strong> ve <strong>yayınlamaya</strong> kadar oldukça kapsamlı bir yaşam döngüsüne sahne olmaktadır.<br>Demografik yapı belirleme"
     },
     {
         "SoruID": 3685462,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Programlama ekosistemi,</strong> adından da anlaşılacağı üzere gelecekte oyun geliştirmeyi oyuncu beklentileriyle uyumlu kılmak için yola çıkan karşılıklı uğraşlar ve etkileşimde bulunan aktörler bütünüdür."
+        "Aciklama": "<strong>Programlama ekosistemi,</strong> adından da anlaşılacağı üzere gelecekte oyun geliştirmeyi oyuncu beklentileriyle uyumlu kılmak için yola çıkan karşılıklı uğraşlar ve etkileşimde bulunan aktörler bütünüdür."
     },
     {
         "SoruID": 3685463,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mobil segmentin genişlemesi"
+        "Aciklama": "<strong>Mobil segmentin genişlemesi</strong>, akıllı telefon penetrasyonunun dünya çapındaki artışına bağlanmış olup, üst seviye oyun deneyimi sağlayan daha büyük ekranlı mobil tabletlere olan talebin artmasıyla da ilişkilendirilmiştir."
     },
     {
         "SoruID": 3685465,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyuncu katılımı"
+        "Aciklama": "<strong>Oyuncu katılımı:</strong> Kestirimsel analiz, oyuncu verilerini analiz ederek herhangi bir platform ya da oyunun katılımcı kaybına neden olabilecek işleyişleri kalıp hâline getirip sunma özelliğine sahiptir. <strong>Örneğin;</strong> b<em>ir oyuncu her gün sisteme giriş yapıyor fakat aniden oynamayı bırakıyorsa, bu onun</em><br/><em>oyundan koptuğunu gösteren bir uyarı işareti olabilmektedir.</em> Oyun geliştiricileri bu veriyi anlık ve erken tespit ederek oyuncunun sistemde kalması için gerekli adımların erkenden atılmasını sağlayabilirler."
     },
     {
         "SoruID": 3685468,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Geçmiş verilerden yararlanarak gelecek verilere ilişkin kapsamlı tahminler"
+        "Aciklama": "<strong>Kestirimsel analiz (predictive analysis)</strong>, geçmiş verilerden yararlanarak gelecek verilere ilişkin kapsamlı tahminlerin yürütüldüğü bir veri madenciliği yöntemidir (Sze, 2005)."
     },
     {
         "SoruID": 3685470,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyun tasarımı"
+        "Aciklama": "Goh, Al-Tabbaa ve Khan (2023) oyun endüstrisinin benzer bir anlayış ve özellikle araştırma tabanlı ele alınması konusunda gelecek trendleri altı başlık altında ele almışlardır: sayfa 193 bkz.<br>Oyun tasarımı"
     },
     {
         "SoruID": 3685471,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "11.sırada"
+        "Aciklama": "2019 yılı itibarıyla Dünya Sağlık Örgütü (DSÖ) tarafından dijital oyun bağımlılığı, uluslararası<br/>ortak hastalıklar sıralamasına <strong>11. sıradan</strong> girmiştir.<br>11.sırada"
     },
     {
         "SoruID": 3685474,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eğitimciler"
+        "Aciklama": "Dolayısıyla gelecekte bu konuda özellikle oyun dünyasındaki metaverse etkisinin artması öngörüsü doğrultusunda, söz konusu ortama şimdiden ileri seviyede ilgi gösteren çocuklara yönelik sorumluluk sahibi kişi, kurum ve yönetimlerin takınacağı tavırlar bir dizi öneriyle ele alınmıştır: ...devamına sayfa 196 bkz.<br>Eğitimciler"
     },
     {
         "SoruID": 3685476,
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sürdürülebilir Oyunculuk"
+        "Aciklama": "Oyun tasarımı ve oyunculuğun bir arada ele alındığı bir raporda Lucintel (2021) video oyunların dünyasında yaşanmakta olan ve olası yaşanacak gelişmeleri ele alarak, geleceği şekillendirecek beş trendi özetlemiştir:...devamına sayfa 198 bkz.<br>Sürdürülebilir Oyunculuk"
     }
 ]

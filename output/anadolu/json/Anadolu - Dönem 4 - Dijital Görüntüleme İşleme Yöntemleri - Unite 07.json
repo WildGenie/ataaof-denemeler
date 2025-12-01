@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 3488864,
-        "SoruMetni": "……………….., belirli bir ihtiyacı karşılamak ya da bir amacı gerçekleştirmek için büyük verilerin ileri düzey tekniklerle analiz edilmesi sonucu işlenerek değerli verilerin elde edilme sürecidir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "……………….., belirli bir ihtiyacı karşılamak ya da bir amacı gerçekleştirmek için büyük verilerin ileri düzey tekniklerle analiz edilmesi sonucu işlenerek değerli verilerin elde edilme sürecidir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "Veri madenciliği",
         "B": "Veri tanımlama",
         "C": "Veri toplama",
@@ -97,11 +97,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yapay zekâ; makine öğrenimi, doğal dil işleme, veri madenciliği, sinir ağları veya bir algoritma gibi bir dizi teknoloji ve yöntemi tanımlamak için kullanılan şemsiye terimdir."
+        "Aciklama": "Yapay zekâ; makine öğrenimi, doğal dil işleme, veri madenciliği, sinir ağları veya bir algoritma gibi bir dizi teknoloji ve yöntemi tanımlamak için kullanılan bir şemsiye terimdir.<br>Yapay zekâ; makine öğrenimi, doğal dil işleme, veri madenciliği, sinir ağları veya bir algoritma gibi bir dizi teknoloji ve yöntemi tanımlamak için kullanılan şemsiye terimdir."
     },
     {
         "SoruID": 3488867,
-        "SoruMetni": "Yapay sinir ağları gibi insan anatomisinden örnek alınarak geliştirilen algoritmalar geliştirerek makinelerin farklı durumlara yönelik insan gibi düşünüp yorum yapabilmesini sağlama sürecine ………..…... adı verilir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "Yapay sinir ağları gibi insan anatomisinden örnek alınarak geliştirilen algoritmalar geliştirerek makinelerin farklı durumlara yönelik insan gibi düşünüp yorum yapabilmesini sağlama sürecine ………..…... adı verilir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "veri madenciliği",
         "B": "naive bayes",
         "C": "çevrimiçi ortam",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Veri kavramı,</strong> ham gerçek enformasyon parçacığına verilen isim olarak tanımlanabilir."
+        "Aciklama": "BÜYÜK VERİLERLE ÇALIŞMAK<br/>Veri Nedir?<br><strong>Veri kavramı,</strong> ham gerçek enformasyon parçacığına verilen isim olarak tanımlanabilir."
     },
     {
         "SoruID": 3489022,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "• Çeşitlilik (Variety): Üretilen verilerin bü-<br/><br/>yük bir kısmı, birbirinden farklı biçimlere<br/><br/>sahiptir. Telefonlardan, tabletlerden, bilgi-<br/><br/>sayarlardan, farklı işletim sistemlerinden<br/><br/>ya da dillerden gelen veriler birbirinden<br/><br/>farklı formatların ortaya çıkmasına neden<br/><br/>olmaktadır.<br/><br/>• Hız (Velocity): Gün geçtikçe artan<br/><br/>teknolojik olanaklar, elde edilen veri<br/><br/>miktarının, yapılacak işlem sayısının ve<br/><br/>çeşitliliğinin de aynı şekilde artmasına<br/><br/>neden olmaktadır.<br/><br/>• Hacim (Volume): Geçtiğimiz 10 yılda veri<br/><br/>miktarı (büyüklüğü) 40 kattan fazla bir ar-<br/><br/>tış göstermiş fakat veri depolama için yapı-<br/><br/>lan harcamalar ise yalnızca 1,5 kat artmış-<br/><br/>tır. Bu durum, elde edilen verinin doğru ve<br/><br/>verimli şekilde depolanması için çok iyi bir<br/><br/>kurgulama gerektiğini ortaya koymaktadır.<br/><br/>• Doğrulama (Verification): Verilerle ilgili<br/><br/>son yıllarda öne çıkan bir diğer konu, veri<br/><br/>güvenliği geçerliliği ve doğruluğu olmuştur.<br/><br/>Elde edilen verilerin kimler tarafından<br/><br/>ve hangi şartlarda görüntüleneceği, bu<br/><br/>verilerin hangilerinin gizli kalması gerektiği<br/><br/>konuları, üzerinde dikkatle durulması<br/><br/>gereken boyutlardır.<br/><br/>• Değer (Value): Büyük veri ile ilgili en<br/><br/>önemli özellik, değerdir. Elde edilen ve<br/><br/>işlenen veriler, kuruma değer kattığı sürece<br/><br/>anlamlıdır. Bu nedenle, büyük verinin<br/><br/>analizinin ve simülasyonlarının doğru<br/><br/>şekilde kurgulanması ve büyük veriyi<br/><br/>kullanan kuruma fayda sağlaması öncelikli<br/><br/>olarak ele alınmalıdır."
+        "Aciklama": "Büyük Verinin Özellikleri<br>• Çeşitlilik (Variety): Üretilen verilerin bü-<br/>yük bir kısmı, birbirinden farklı biçimlere<br/>sahiptir. Telefonlardan, tabletlerden, bilgi-<br/>sayarlardan, farklı işletim sistemlerinden<br/>ya da dillerden gelen veriler birbirinden<br/>farklı formatların ortaya çıkmasına neden<br/>olmaktadır.<br/>• Hız (Velocity): Gün geçtikçe artan<br/>teknolojik olanaklar, elde edilen veri<br/>miktarının, yapılacak işlem sayısının ve<br/>çeşitliliğinin de aynı şekilde artmasına<br/>neden olmaktadır.<br/>• Hacim (Volume): Geçtiğimiz 10 yılda veri<br/>miktarı (büyüklüğü) 40 kattan fazla bir ar-<br/>tış göstermiş fakat veri depolama için yapı-<br/>lan harcamalar ise yalnızca 1,5 kat artmış-<br/>tır. Bu durum, elde edilen verinin doğru ve<br/>verimli şekilde depolanması için çok iyi bir<br/>kurgulama gerektiğini ortaya koymaktadır.<br/>• Doğrulama (Verification): Verilerle ilgili<br/>son yıllarda öne çıkan bir diğer konu, veri<br/>güvenliği geçerliliği ve doğruluğu olmuştur.<br/>Elde edilen verilerin kimler tarafından<br/>ve hangi şartlarda görüntüleneceği, bu<br/>verilerin hangilerinin gizli kalması gerektiği<br/>konuları, üzerinde dikkatle durulması<br/>gereken boyutlardır.<br/>• Değer (Value): Büyük veri ile ilgili en<br/>önemli özellik, değerdir. Elde edilen ve<br/>işlenen veriler, kuruma değer kattığı sürece<br/>anlamlıdır. Bu nedenle, büyük verinin<br/>analizinin ve simülasyonlarının doğru<br/>şekilde kurgulanması ve büyük veriyi<br/>kullanan kuruma fayda sağlaması öncelikli<br/>olarak ele alınmalıdır."
     },
     {
         "SoruID": 3489023,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Özetleyecek olursak veri madenciliği <strong>7 farklı süreci içermekted</strong>ir. Bu süreçler (Demirol, Das &amp; Hanbay, 2019) şunlardır:<br/><br/>• veri tanımlama,<br/><br/>• veri toplama ve filtreleme,<br/><br/>• veri dönüşümü,<br/><br/>• veri doğrulama ve temizleme,<br/><br/>• veri birleştirme ve sunma,<br/><br/>• veri analizi ve veri görselleştirmedir."
+        "Aciklama": "Özetleyecek olursak veri madenciliği <strong>7 farklı süreci içermekted</strong>ir. Bu süreçler (Demirol, Das &amp; Hanbay, 2019) şunlardır:<br/>• veri tanımlama,<br/>• veri toplama ve filtreleme,<br/>• veri dönüşümü,<br/>• veri doğrulama ve temizleme,<br/>• veri birleştirme ve sunma,<br/>• veri analizi ve veri görselleştirmedir."
     },
     {
         "SoruID": 3489024,
@@ -281,9 +281,9 @@
     },
     {
         "SoruID": 3489025,
-        "SoruMetni": "Aşağıdaki hangi bilim insanları makine öğrenmesini, “örüntüleri tanıyabilen, tahminlerde buluna bilen ve yeni keşfedilen kalıpları ilk tasarımlarında yer almayan veya kapsanmayan durumlara uygulayabilen yazılımları içeren yapay zekânın bir alt alanı” olarak tanımlamaktadır?",
+        "SoruMetni": "Aşağıdaki hangi bilim insanları makine öğrenmesini, “örüntüleri tanıyabilen, tahminlerde buluna bilen ve yeni keşfedilen kalıpları ilk tasarımlarında yer almayan veya kapsanmayan durumlara uygulayabilen yazılımları içeren yapay zekânın bir alt alanı” olarak tanımlamaktadır?",
         "A": "Atalay ve Çelik",
-        "B": "Tienin ve Karaoğlu",
+        "B": "Tienin ve Karaoğlu",
         "C": "Baker ve Smith",
         "D": "Zawacki ve Richter",
         "E": "Popenici ve Kerr",
@@ -297,11 +297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Popenici ve Kerr (2017),</strong> makine öğrenmesini, “örüntüleri tanıyabilen, tahminlerde buluna bilen ve yeni keşfedilen kalıpları ilk tasarımlarında yer almayan veya kapsanmayan durumlara uygulayabilen yazılımları içeren yapay zekânın bir alt alanı” olarak tanımlamaktadır."
+        "Aciklama": "<strong>Popenici ve Kerr (2017),</strong> makine öğrenmesini, “örüntüleri tanıyabilen, tahminlerde buluna bilen ve yeni keşfedilen kalıpları ilk tasarımlarında yer almayan veya kapsanmayan durumlara uygulayabilen yazılımları içeren yapay zekânın bir alt alanı” olarak tanımlamaktadır."
     },
     {
         "SoruID": 3489026,
-        "SoruMetni": "Aşağıdaki Boşluğu doldurunuz?<br/><br/>Derin öğrenme sürecinde ....................... sinir ağlarının ana kavramını oluşturmaktadır.",
+        "SoruMetni": "Aşağıdaki Boşluğu doldurunuz?<br/>Derin öğrenme sürecinde ....................... sinir ağlarının ana kavramını oluşturmaktadır.",
         "A": "öğrenme kabiliyeti",
         "B": "model oluşturma",
         "C": "giriş verileri",
@@ -317,7 +317,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Derin öğrenme sürecinde <strong>öğrenme kabiliyeti</strong>, sinir ağlarının ana kavramını oluşturmaktadır."
+        "Aciklama": "dikkat<br>Derin öğrenme sürecinde <strong>öğrenme kabiliyeti</strong>, sinir ağlarının ana kavramını oluşturmaktadır."
+    },
+    {
+        "SoruID": 3489027,
+        "SoruMetni": "Duygu analizi yapılmasında, yüz tanıma sistemlerinde, ses tanıma sistemlerinde, yazı içeriklerinin sınıflandırılmasında hangi uygulama kullanılır?",
+        "A": "Yapay Sinir Ağları",
+        "B": "Bayes Algoritma",
+        "C": "Denetimli Öğrenme",
+        "D": "Lojistik Regresyon",
+        "E": "Rassal Orman",
+        "DogruCevap": "B",
+        "DersAd": "Dijital Görüntüleme İşleme Yöntemleri",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:26.128808",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Naive Bayes<br>Duygu analizi yapılmasında, yüz tanıma sistemlerinde, ses tanıma sistemlerinde, yazı içeriklerinin sınıflandırılmasında<strong> bayes algoritmaları</strong> kullanılabilir."
     },
     {
         "SoruID": 3489028,
@@ -357,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Tableau,</strong> büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda kullanılabilen görsel analitik platformudur."
+        "Aciklama": "Tableau ile Veri Görselleştirme<br><strong>Tableau,</strong> büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda kullanılabilen görsel analitik platformudur."
     },
     {
         "SoruID": 3489030,
@@ -377,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>VOSviewer,</strong> ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır."
+        "Aciklama": "VOSviewer ile Veri Görselleştirme<br><strong>VOSviewer,</strong> ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır."
     },
     {
         "SoruID": 3489128,
@@ -397,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üretilen verilerin büyük bir kısmı, birbirinden farklı biçimlere sahip olmasına çeşitlilik yani variety denmektedir."
+        "Aciklama": "BÜYÜK VERİLERLE ÇALIŞMAK<br>Üretilen verilerin büyük bir kısmı, birbirinden farklı biçimlere sahip olmasına çeşitlilik yani variety denmektedir."
     },
     {
         "SoruID": 3489129,
@@ -417,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Büyük verinin sahip olması gereken 5 özelliği vardır. D şıkkı yanlıştır çünkü farklı özelliklere sahip birçok veriden oluşmalıdır."
+        "Aciklama": "BÜYÜK VERİLERLE ÇALIŞMAK<br>Büyük verinin sahip olması gereken 5 özelliği vardır. D şıkkı yanlıştır çünkü farklı özelliklere sahip birçok veriden oluşmalıdır."
     },
     {
         "SoruID": 3489130,
@@ -437,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yapay sinir ağlarının yapısı tek giriş değil birden çok giriş, çıkış ve gizli katmandan oluşmaktadır."
+        "Aciklama": "YAPAY ZEKÂ VE MAKİNE ÖĞRENİMİ<br>Yapay sinir ağlarının yapısı tek giriş değil birden çok giriş, çıkış ve gizli katmandan oluşmaktadır."
     },
     {
         "SoruID": 3489131,
@@ -457,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir bağımlı değişken ile bağımsız değişkenler arasındaki ilişkinin tahmini için kullanılan istatistiksel yaklaşıma Lojistik Regresyon denir."
+        "Aciklama": "YAPAY ZEKÂ VE MAKİNE ÖĞRENİMİ<br>Bir bağımlı değişken ile bağımsız değişkenler arasındaki ilişkinin tahmini için kullanılan istatistiksel yaklaşıma Lojistik Regresyon denir."
     },
     {
         "SoruID": 3489132,
@@ -477,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Enformasyon daha anlaşılır olduğundan veri bilimcilerine olan ihtiyacı arttırmaz aksine ihtiyacı ortadan kaldırır."
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>Enformasyon daha anlaşılır olduğundan veri bilimcilerine olan ihtiyacı arttırmaz aksine ihtiyacı ortadan kaldırır."
     },
     {
         "SoruID": 3489133,
@@ -497,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tableau, büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda ücretsiz kullanılabilen görsel analitik platformudur"
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>Tableau, büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda ücretsiz kullanılabilen görsel analitik platformudur"
     },
     {
         "SoruID": 3489134,
@@ -517,11 +537,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "VOSviewer, ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır."
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>VOSviewer, ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır."
     },
     {
         "SoruID": 3489135,
-        "SoruMetni": "Yapay zekâ aracılığıyla gerçekleştirilecek veri görselleştirme süreci, aşağıdaki işlem adımlarının hangi sırasıyla uygulanır?<br/> <strong>I-</strong> Veri görselleştirme sürecinde, yapay zekâ uygulamaları ham verileri analitikler aracıyla gerçekleştirilen analiz sürecinin sonucunda oluşturduğu modeller aracılığıyla ham verilerin gruplandırılması, ilişkilendirilmesi, karşılaştırılması sonucu ürettiği enformasyonu görsel içeriğe dönüştürme işlevlerini yerine getirilir.<br/> <strong>II-</strong> Yapay zekâ uygulamaları, veri görselleştirme sürecinde ham verilerden enformasyon görüntüleri oluşturmak için algoritmalar kullanarak modeller oluşturur.<br/> <strong>III-</strong> Yapay zekânın oluşturduğu modeller sonucu üretilen enformasyon, yapay zekâ algoritmasını geliştiren programcının istekleri doğrultusunda hedef kişiye özel oluşturulan gösterge panellerinde (dashboard) görselleştirilir.",
+        "SoruMetni": "Yapay zekâ aracılığıyla gerçekleştirilecek veri görselleştirme süreci, aşağıdaki işlem adımlarının hangi sırasıyla uygulanır?<br/><strong>I-</strong> Veri görselleştirme sürecinde, yapay zekâ uygulamaları ham verileri analitikler aracıyla gerçekleştirilen analiz sürecinin sonucunda oluşturduğu modeller aracılığıyla ham verilerin gruplandırılması, ilişkilendirilmesi, karşılaştırılması sonucu ürettiği enformasyonu görsel içeriğe dönüştürme işlevlerini yerine getirilir.<br/><strong>II-</strong> Yapay zekâ uygulamaları, veri görselleştirme sürecinde ham verilerden enformasyon görüntüleri oluşturmak için algoritmalar kullanarak modeller oluşturur.<br/><strong>III-</strong> Yapay zekânın oluşturduğu modeller sonucu üretilen enformasyon, yapay zekâ algoritmasını geliştiren programcının istekleri doğrultusunda hedef kişiye özel oluşturulan gösterge panellerinde (dashboard) görselleştirilir.",
         "A": "I, II, III",
         "B": "II, I, III",
         "C": "III, II, I",
@@ -537,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yapay zekâ aracılığıyla gerçekleştirilecek veri görselleştirme süreci II,I, III sırası ile uygulanır."
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>Yapay zekâ aracılığıyla gerçekleştirilecek veri görselleştirme süreci II,I, III sırası ile uygulanır."
     },
     {
         "SoruID": 3489136,
@@ -557,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Veri görselleştirme sürecinde kullanılmak amacıyla 2021 yılında ilk olarak OpenAI tarafından geliştirilen yapay zekâ uygulaması, DALL-E’dir"
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>Veri görselleştirme sürecinde kullanılmak amacıyla 2021 yılında ilk olarak OpenAI tarafından geliştirilen yapay zekâ uygulaması, DALL-E’dir"
     },
     {
         "SoruID": 3489137,
@@ -577,11 +597,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Google tarafından geliştirilen Imagen uygulaması, doğal dildeki (Şu an için İngilizce dili) bir metin açıklaması üzerinden görseller oluşturabilen çevrimi platformda çalışan bir yapay zekâ görselleştirme uygulamasıdır."
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>Google tarafından geliştirilen Imagen uygulaması, doğal dildeki (Şu an için İngilizce dili) bir metin açıklaması üzerinden görseller oluşturabilen çevrimi platformda çalışan bir yapay zekâ görselleştirme uygulamasıdır."
     },
     {
         "SoruID": 3489138,
-        "SoruMetni": "Veri kaynaklarından toplanan verinin büyük veri olabilmesi için toplamda 5 özelliğe sahip olması gerekmektedir.<br/><br/><strong>Aşağıdakilerden hangisi bu özelliklerinden biri değildir?</strong>",
+        "SoruMetni": "Veri kaynaklarından toplanan verinin büyük veri olabilmesi için toplamda 5 özelliğe sahip olması gerekmektedir.<br/><strong>Aşağıdakilerden hangisi bu özelliklerinden biri değildir?</strong>",
         "A": "Çeşitlilik",
         "B": "Hız",
         "C": "Beceri",
@@ -641,7 +661,7 @@
     },
     {
         "SoruID": 3489141,
-        "SoruMetni": "Çevrimiçi öğrenme ortamlarında kullanılabilecek her bir makine öğrenmesi algorit­masının farklı işlevleri vardır.<br/><br/><strong>Aşağıdakilerden hangisi öğrenme or­tamlarında kullanılabilecek makine öğrenme algorit­malarından biri değildir?</strong>",
+        "SoruMetni": "Çevrimiçi öğrenme ortamlarında kullanılabilecek her bir makine öğrenmesi algorit­masının farklı işlevleri vardır.<br/><strong>Aşağıdakilerden hangisi öğrenme or­tamlarında kullanılabilecek makine öğrenme algorit­malarından biri değildir?</strong>",
         "A": "Destek Vektör Makineleri (Support Vector Machines)",
         "B": "Kollerasyon Ağları",
         "C": "Yapay Sinir Ağları (Artificial Neural Networks)",
@@ -661,7 +681,7 @@
     },
     {
         "SoruID": 3489143,
-        "SoruMetni": "Veri görselleştirme, ham verilerin analitikler aracıyla gerçekleştirilen analiz sürecinin sonucunda veriler­den üretilen enformasyonun anlaşılmasını kolaylaştırmak için enformasyonu harita veya grafik gibi görsel içeriğe dönüştürme uygulamasıdır.<br/><br/><strong>Aşağıdakilerden hangisi veri görselleştirme tekniklerinden biri değildir?</strong>",
+        "SoruMetni": "Veri görselleştirme, ham verilerin analitikler aracıyla gerçekleştirilen analiz sürecinin sonucunda veriler­den üretilen enformasyonun anlaşılmasını kolaylaştırmak için enformasyonu harita veya grafik gibi görsel içeriğe dönüştürme uygulamasıdır.<br/><strong>Aşağıdakilerden hangisi veri görselleştirme tekniklerinden biri değildir?</strong>",
         "A": "Çizgi grafikleri",
         "B": "Sütun grafikleri",
         "C": "Pasta grafikleri",
@@ -703,7 +723,7 @@
         "SoruID": 3489146,
         "SoruMetni": "<strong>Veri görselleştirme sürecinde kullanılmak amacıyla 2021 yılında ilk olarak OpenAI tarafından geliştirilen yapay zekâ uygulaması aşağıdakilerden hangisidir? </strong>",
         "A": "IMAGEN",
-        "B": "<br/> <br/> <br/> <br/>VOSviewer<br/><br/><br/><br/>",
+        "B": "<br/>VOSviewer",
         "C": "OpenAI",
         "D": "Tableau",
         "E": "DALL-E",

@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 3488961,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Farklı yöntem ve kanallarla edinilmiş bilginin, belirli bir kaynaktan geniş kitlelere yayılmasını mümkün kılan ve yazı /görsel unsurların farklı yüzeyler üzerine, farklı yöntemler kullanılarak aktarılıp çoğaltılması işlemine ne denir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Farklı yöntem ve kanallarla edinilmiş bilginin, belirli bir kaynaktan geniş kitlelere yayılmasını mümkün kılan ve yazı /görsel unsurların farklı yüzeyler üzerine, farklı yöntemler kullanılarak aktarılıp çoğaltılması işlemine ne denir?",
         "A": "Baskı teknikleri",
         "B": "Tasarım",
         "C": "Ürün geliştirme",
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Baskı teknikleri: Farklı yöntem ve kanallarla edinilmiş bilginin, belirli bir kaynaktan geniş kitlelere yayılmasını mümkün kılan baskı teknikleri, yazı ve görsel unsurların farklı yüzeyler üzerine, farklı yöntemler kullanılarak aktarılıp çoğaltılması işlemidir<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Baskı teknikleri: Farklı yöntem ve kanallarla edinilmiş bilginin, belirli bir kaynaktan geniş kitlelere yayılmasını mümkün kılan baskı teknikleri, yazı ve görsel unsurların farklı yüzeyler üzerine, farklı yöntemler kullanılarak aktarılıp çoğaltılması işlemidir"
     },
     {
         "SoruID": 3488962,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kâğıdın Özellikleri<br/> Kâğıdın özellikleri, görsel tasarımcıya yapmış olduğu tasarımın üretimi öncesinde önemli bilgi- ler verir. Öyle ki, tasarımcının kâğıdın yüzey ya- pısını bilmesi çalışmada kullanacağı renklerin nasıl görüneceği hakkında; kâğıdın gramaj bilgisi basılı ürün toplamda ne kadar ağırlıkta olacağı ve özel- likle kâğıtların katlama özelliklerini bilmesi tasa- rımlarında yapacağı planlarla doğrudan ilişkilidir. (seçilen kâğıt en fazla kaç defa kırılabilir? Katlamalı tasarımlarda çok önemlidir)<br/>         Kâğıdın su yönü:<br/>         Kâğıdın Yüzey Yapısı:<br/>             Kâğıdın Yoğunluğu/Opaklığı:<br/>         Kâğıdın Rengi:"
+        "Aciklama": "Kâğıdın Özellikleri<br/>Kâğıdın özellikleri, görsel tasarımcıya yapmış olduğu tasarımın üretimi öncesinde önemli bilgi- ler verir. Öyle ki, tasarımcının kâğıdın yüzey ya- pısını bilmesi çalışmada kullanacağı renklerin nasıl görüneceği hakkında; kâğıdın gramaj bilgisi basılı ürün toplamda ne kadar ağırlıkta olacağı ve özel- likle kâğıtların katlama özelliklerini bilmesi tasa- rımlarında yapacağı planlarla doğrudan ilişkilidir. (seçilen kâğıt en fazla kaç defa kırılabilir? Katlamalı tasarımlarda çok önemlidir)<br/>Kâğıdın su yönü:<br/>Kâğıdın Yüzey Yapısı:<br/>Kâğıdın Yoğunluğu/Opaklığı:<br/>Kâğıdın Rengi:"
     },
     {
         "SoruID": 3488971,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Basılı ürün tasarımlarında nihai ürün matbaadan çıkacağı için çalışma belgesinin ve çalışmada kullanılan görsel unsurların renk modu CMYK olmalıdır."
+        "Aciklama": "Basılı ürün tasarımlarında nihai ürün matbaadan çıkacağı için çalışma belgesinin ve çalışmada kullanılan görsel unsurların renk modu CMYK olmalıdır."
     },
     {
         "SoruID": 3488979,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tarama sırasında görsellerin çözünürlük özelliği basılı ürünlerin kritik unsurlarındandır ve basılı ürün tasarımında kullanılan görsellerin yüksek çözünürlükte olması beklenir. Aksi durumda pikselleşme olarak adlandırılan istenmeyen durumla karşılaşılır. <br/><br/> <br/> <br/> <br/> <br/>Bir görselde çözünürlük değerinin yüksek olması, o görselin içerdiği veri miktarının, fazla olduğunu ve dolayısıyla da o görselin çok detaylı olduğunu gösterir. Böylece görüntü boyutunu büyütmeye imkan sağlar. <br/><br/><br/><br/>"
+        "Aciklama": "Tarama sırasında görsellerin çözünürlük özelliği basılı ürünlerin kritik unsurlarındandır ve basılı ürün tasarımında kullanılan görsellerin yüksek çözünürlükte olması beklenir. Aksi durumda pikselleşme olarak adlandırılan istenmeyen durumla karşılaşılır. <br/>Bir görselde çözünürlük değerinin yüksek olması, o görselin içerdiği veri miktarının, fazla olduğunu ve dolayısıyla da o görselin çok detaylı olduğunu gösterir. Böylece görüntü boyutunu büyütmeye imkan sağlar."
     },
     {
         "SoruID": 3488987,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Ambalaj Tasarımı Ürünleri </strong><br/> <strong>Karton, Cam, Metal, Plastik, vb. </strong><br/> Farklı malzemelerden yapılan ambalajların, doğ­rudan üzerine baskı yoluyla ya da <strong>etiket </strong>gibi yardım­cı malzemelerle ürün hakkında bilgi veren, beğeni ve satış sağlaması için tasarlanması gerekmektedir. Bu aşamada tasarımcı devreye girer. Sayısız ambalaj ürü­nü arasından yapılan tasarımı hedef kitleye beğen­dirmek asıl amaçtır. <strong>Ambalaj </strong>tasarımı yapılırken, ambalajın içerdiği ürünü: sarması, saklaması/koru­ması ve satması gerekliliği unutulmamalıdır."
+        "Aciklama": "<strong>Ambalaj Tasarımı Ürünleri </strong><br/><strong>Karton, Cam, Metal, Plastik, vb. </strong><br/>Farklı malzemelerden yapılan ambalajların, doğ­rudan üzerine baskı yoluyla ya da <strong>etiket </strong>gibi yardım­cı malzemelerle ürün hakkında bilgi veren, beğeni ve satış sağlaması için tasarlanması gerekmektedir. Bu aşamada tasarımcı devreye girer. Sayısız ambalaj ürü­nü arasından yapılan tasarımı hedef kitleye beğen­dirmek asıl amaçtır. <strong>Ambalaj </strong>tasarımı yapılırken, ambalajın içerdiği ürünü: sarması, saklaması/koru­ması ve satması gerekliliği unutulmamalıdır."
     },
     {
         "SoruID": 3489041,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong><em>Kâğıdın gramajı: </em></strong>Kâğıdın bir metre kare ağır­lığı olan kâğıt gramajı iki farklı yöntemle buluna­bilir. Bu yöntemlerden birincisi, özel hassas terazi­lerde kâğıdı tartmak; ikincisi ise,<br/> <em>Kağıdın gramajı </em>= <em>tabaka ağırlığı</em>(<em>gram</em>) <em>tabaka alanı</em>(<em>m</em>2 )<br/> formülünü kullanmaktır. Matbaa endüstrisinde 40 gr/m2 ile 450 gr/m2 gramajlardaki kâğıtlara baskı yapılabilir (Mazlum, 2006; Kansu ve Köse, 2008; Ambrose and Harris, 2020)."
+        "Aciklama": "<strong><em>Kâğıdın gramajı: </em></strong>Kâğıdın bir metre kare ağır­lığı olan kâğıt gramajı iki farklı yöntemle buluna­bilir. Bu yöntemlerden birincisi, özel hassas terazi­lerde kâğıdı tartmak; ikincisi ise,<br/><em>Kağıdın gramajı </em>= <em>tabaka ağırlığı</em>(<em>gram</em>) <em>tabaka alanı</em>(<em>m</em>2 )<br/>formülünü kullanmaktır. Matbaa endüstrisinde 40 gr/m2 ile 450 gr/m2 gramajlardaki kâğıtlara baskı yapılabilir (Mazlum, 2006; Kansu ve Köse, 2008; Ambrose and Harris, 2020)."
     },
     {
         "SoruID": 3489042,
@@ -641,7 +641,7 @@
     },
     {
         "SoruID": 3489157,
-        "SoruMetni": "Temel olarak bir ürünü dış etkilerden korumak, ürünle ilgili imaj oluşturmak ve kullanıcıyı bilgilendirmek amacıyla farklı malzemelerden yapılan ürün tamamlayıcısına ambalaj denir (Becer, 2017).<br/><br/><strong>Aşağıdakilerden hangisi ambalaj tasarım ürünlerinden biri değildir?</strong>",
+        "SoruMetni": "Temel olarak bir ürünü dış etkilerden korumak, ürünle ilgili imaj oluşturmak ve kullanıcıyı bilgilendirmek amacıyla farklı malzemelerden yapılan ürün tamamlayıcısına ambalaj denir (Becer, 2017).<br/><strong>Aşağıdakilerden hangisi ambalaj tasarım ürünlerinden biri değildir?</strong>",
         "A": "Karton",
         "B": "Cam",
         "C": "Metal",
@@ -741,12 +741,12 @@
     },
     {
         "SoruID": 3489163,
-        "SoruMetni": "Aşağıdakilerden hangisi halk dilinde saman kâğıdı olarak bilinen kağıtı türüdür?",
+        "SoruMetni": "Aşağıdakilerden hangisi halk dilinde saman kâğıdı olarak bilinen kağıtı türüdür?",
         "A": "Birinci hamur kağıtlar",
-        "B": "İkinci hamur kağıtlar",
-        "C": "Üçüncü hamur kağıtlar",
+        "B": "İkinci hamur kağıtlar",
+        "C": "Üçüncü hamur kağıtlar",
         "D": "Pelur kağıtlar",
-        "E": "Dördüncü hamur kağıtlar",
+        "E": "Dördüncü hamur kağıtlar",
         "DogruCevap": "C",
         "DersAd": "Dijital Görüntüleme İşleme Yöntemleri",
         "Unite": 2,
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Üçüncü hamur kâğıtlar: “Tamamen ağaç hamurundan üretilirler.” Halk dilinde saman kâğıdı olarak bilinen bu kâğıtlar; kırmızı, mavi, yeşil ve sarı gibi renklerininin bulunmasının yanı sıra gazete, bilet ve kupon gibi nispeten baskı kalitesi düşük işler için tercih edilir. Genel olarak; 54 ve 60 gr/m2 gramajların- da üretilir (Mazlum, 2006; Kansu ve Köse, 2008).<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Üçüncü hamur kâğıtlar: “Tamamen ağaç hamurundan üretilirler.” Halk dilinde saman kâğıdı olarak bilinen bu kâğıtlar; kırmızı, mavi, yeşil ve sarı gibi renklerininin bulunmasının yanı sıra gazete, bilet ve kupon gibi nispeten baskı kalitesi düşük işler için tercih edilir. Genel olarak; 54 ve 60 gr/m2 gramajların- da üretilir (Mazlum, 2006; Kansu ve Köse, 2008)."
     },
     {
         "SoruID": 3489165,
@@ -797,6 +797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Reklam ve Pazarlama Tasarım Ürünleri<br/><br/>Afiş, El İlanı, Folyo, Branda, Billboard, Raket, Durak Reklamları, Silindir Board, Megalight, Sokak Board, Duvar Giydirme Reklamları, Araç Giydirme Reklamları, vb.<br/><br/>Doğru cevap C şıkkı"
+        "Aciklama": "Reklam ve Pazarlama Tasarım Ürünleri<br/>Afiş, El İlanı, Folyo, Branda, Billboard, Raket, Durak Reklamları, Silindir Board, Megalight, Sokak Board, Duvar Giydirme Reklamları, Araç Giydirme Reklamları, vb.<br/>Doğru cevap C şıkkı"
     }
 ]

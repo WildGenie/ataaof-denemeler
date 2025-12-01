@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Duyarlı tasarımın temel bileşenleri şunlardır:<br/> • <strong>Esnek Sayfa Düzenleri:</strong> CSS kullanılarak, sayfa düzeninin (layout) genişlik ve yükseklik değerleri yüzdelik birimler gibi esnek birimlerle tanımlanır. Bu sayede, sayfa düzeni cihaz ekranının boyutuna göre genişleyebilir veya daralabilir.<br/> •<strong> Esnek Görseller ve Medya:</strong> Görseller, videolar ve diğer medya türleri, içerisinde bulundukları konteynerlerin (div, section, vb.) genişliğine ve/veya yüksekliğine göre boyutlandırılır.<br/> • <strong>Medya Sorguları (Media Queries):</strong> CSS medya sorguları; cihazın özelliklerine (ekran çözünürlüğü, cihaz tipi, yatay/dikey tutuş pozisyonu, vb.) göre farklı stil kurallarının uygulanmasını sağlar. Medya sorgularını kullanarak tasarımcılar, farklı ekran boyutları için özelleştirilmiş düzenler ve stiller oluşturabilir."
+        "Aciklama": "Duyarlı tasarımın temel bileşenleri şunlardır:<br/>• <strong>Esnek Sayfa Düzenleri:</strong> CSS kullanılarak, sayfa düzeninin (layout) genişlik ve yükseklik değerleri yüzdelik birimler gibi esnek birimlerle tanımlanır. Bu sayede, sayfa düzeni cihaz ekranının boyutuna göre genişleyebilir veya daralabilir.<br/>•<strong> Esnek Görseller ve Medya:</strong> Görseller, videolar ve diğer medya türleri, içerisinde bulundukları konteynerlerin (div, section, vb.) genişliğine ve/veya yüksekliğine göre boyutlandırılır.<br/>• <strong>Medya Sorguları (Media Queries):</strong> CSS medya sorguları; cihazın özelliklerine (ekran çözünürlüğü, cihaz tipi, yatay/dikey tutuş pozisyonu, vb.) göre farklı stil kurallarının uygulanmasını sağlar. Medya sorgularını kullanarak tasarımcılar, farklı ekran boyutları için özelleştirilmiş düzenler ve stiller oluşturabilir."
     },
     {
         "SoruID": 3594194,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Android işletim sistemi, farklı cihaz türleri için özelleştirilmiş çeşitli sürümlere sahiptir. Bu sürümler, spesifik cihazların ihtiyaçlarına ve kullanım senaryolarına göre tasarlanmıştır.<br/> • Wear OS: Özellikle akıllı saatler ve giyilebilir cihazlar için tasarlanmıştır."
+        "Aciklama": "Android işletim sistemi, farklı cihaz türleri için özelleştirilmiş çeşitli sürümlere sahiptir. Bu sürümler, spesifik cihazların ihtiyaçlarına ve kullanım senaryolarına göre tasarlanmıştır.<br/>• Wear OS: Özellikle akıllı saatler ve giyilebilir cihazlar için tasarlanmıştır."
     },
     {
         "SoruID": 3594882,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Büyük teknoloji firmalarının tasarım vizyonunu yansıtan bu sistemler; pek çok farklı açıdan kullanıcıları, sektörü ve tasarımcıları etkilemektedir:<br/> Standartlaşma ve Tutumluluk<br/> İnovasyon ve Kullanıcı Deneyimi<br/> Kullanıcı Beklentilerinin Yönlendirilmesi<br/> Yaratıcılığın Sınırlanması"
+        "Aciklama": "Büyük teknoloji firmalarının tasarım vizyonunu yansıtan bu sistemler; pek çok farklı açıdan kullanıcıları, sektörü ve tasarımcıları etkilemektedir:<br/>Standartlaşma ve Tutumluluk<br/>İnovasyon ve Kullanıcı Deneyimi<br/>Kullanıcı Beklentilerinin Yönlendirilmesi<br/>Yaratıcılığın Sınırlanması"
     },
     {
         "SoruID": 3594887,
@@ -197,11 +197,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fluent Design’ın temeli derinlik, hareket, malzeme, ışık ve ölçek olmak üzere beş ana unsur üzerine kuruludur:<br/> Derinlik: Fluent Design’da derinlik, kullanıcı arayüzlerine katmanlar ve görsel hiyerarşi ekleyerek daha zengin bir deneyim oluşturmayı ve uygulamalar arası geçişleri, içerik organizasyonunu daha sezgisel hâle getirmeyi amaçlar; kullanıcılara hangi elementlerin etkileşime açık olduğunu ve hangi içeriğin önemli olduğunu görsel olarak iletmeye yardımcı olur."
+        "Aciklama": "Fluent Design’ın temeli derinlik, hareket, malzeme, ışık ve ölçek olmak üzere beş ana unsur üzerine kuruludur:<br/>Derinlik: Fluent Design’da derinlik, kullanıcı arayüzlerine katmanlar ve görsel hiyerarşi ekleyerek daha zengin bir deneyim oluşturmayı ve uygulamalar arası geçişleri, içerik organizasyonunu daha sezgisel hâle getirmeyi amaçlar; kullanıcılara hangi elementlerin etkileşime açık olduğunu ve hangi içeriğin önemli olduğunu görsel olarak iletmeye yardımcı olur."
     },
     {
         "SoruID": 3596818,
-        "SoruMetni": "Aşağıdakilerden hangisi Favori web tarayıcınızı kullanarak bir web adresine erişmek istediğinizde istemci ve sunucu arasında yürütülen işlem adımlarından birisi değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Favori web tarayıcınızı kullanarak bir web adresine erişmek istediğinizde istemci ve sunucu arasında yürütülen işlem adımlarından birisi değildir?",
         "A": "Adım 1: URL Kullanımı",
         "B": "Adım 2: DNS Sorgulama",
         "C": "Adım 3: HTTP İsteği",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 3597040,
-        "SoruMetni": "Aşağıdakilerden hangisi JavaScript’in yaygın kullanım biçimleri ve alanlarından <strong>değildir?</strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi JavaScript’in yaygın kullanım biçimleri ve alanlarından <strong>değildir?</strong>",
         "A": "Seçici (Selector)",
         "B": "Ön Uç Geliştirme",
         "C": "Arka Uç Geliştirme",
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 3597043,
-        "SoruMetni": "Aşağıdakilerden hangisi Web arayüzlerini diğer arayüz türlerinden, özellikle geleneksel masaüstü ve mobil uygulama arayüzlerinden ayrıştıran bazı temel unsurlardan değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Web arayüzlerini diğer arayüz türlerinden, özellikle geleneksel masaüstü ve mobil uygulama arayüzlerinden ayrıştıran bazı temel unsurlardan değildir?",
         "A": "Platform Bağımsızlığı",
         "B": "Canlı Güncellemeler",
         "C": "Kapsam ve Uygulama",
@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 3597242,
-        "SoruMetni": "Aşağıdakilerden hangisi Web ve arayüz (UI) tasarımı süreçleri, temelde<br/>benzer aşamalardan geçse de odaklandıkları alanlarda ve uygulamalarda bazı farklılıklar gösterirler.<br/>Her iki süreç arasındaki ayrışma, özellikle tasarımın kapsamı, teknik gereklilikler ve etkileşim detaylarına dair aşamalardan biridir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Web ve arayüz (UI) tasarımı süreçleri, temelde<br/>benzer aşamalardan geçse de odaklandıkları alanlarda ve uygulamalarda bazı farklılıklar gösterirler.<br/>Her iki süreç arasındaki ayrışma, özellikle tasarımın kapsamı, teknik gereklilikler ve etkileşim detaylarına dair aşamalardan biridir?",
         "A": "Canlı Güncellemeler",
         "B": "Teknik Bilgi ve Araçlar",
         "C": "Erişilebilirlik ve Uyumluluk",
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 3597243,
-        "SoruMetni": "Aşağıdakilerden hangisi Duyarlı tasarımın temel bileşenlerinden biridir?<br/><br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi Duyarlı tasarımın temel bileşenlerinden biridir?",
         "A": "Esnek Sayfa Düzenleri",
         "B": "Etkileşim ve Animasyon:",
         "C": "Teknik Bilgi ve Araçlar",
@@ -341,7 +341,7 @@
     },
     {
         "SoruID": 3597256,
-        "SoruMetni": "Aşağıdakilerden hangisi Tasarım sistemleri, arayüz ve kullanıcı deneyimine yönelik standartlar, uygulama örnekleri ve<br/>öneriler sunarak tutarlı, kullanıcı dostu ve estetik<br/>açıdan etkileyici mobil, web ve masaüstü uygulamalar geliştirilmesine yardımcı olmaktadır. Büyük<br/>teknoloji firmalarının tasarım vizyonunu yansıtan<br/>bu sistemler; pek çok farklı açıdan kullanıcıları,<br/>sektörü ve tasarımcılara olan etklerinden biri değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Tasarım sistemleri, arayüz ve kullanıcı deneyimine yönelik standartlar, uygulama örnekleri ve<br/>öneriler sunarak tutarlı, kullanıcı dostu ve estetik<br/>açıdan etkileyici mobil, web ve masaüstü uygulamalar geliştirilmesine yardımcı olmaktadır. Büyük<br/>teknoloji firmalarının tasarım vizyonunu yansıtan<br/>bu sistemler; pek çok farklı açıdan kullanıcıları,<br/>sektörü ve tasarımcılara olan etklerinden biri değildir?",
         "A": "Standartlaşma ve Tutumluluk",
         "B": "İnovasyon ve Kullanıcı Deneyimi",
         "C": "Kullanıcı Beklentilerinin Yönlendirilmesi",
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 3597269,
-        "SoruMetni": "Aşağıdakilerden hangisi Fluent Design’ın temel unsurlarından değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Fluent Design’ın temel unsurlarından değildir?",
         "A": "Derinlik",
         "B": "Hareket",
         "C": "Malzeme",
@@ -381,7 +381,7 @@
     },
     {
         "SoruID": 3597288,
-        "SoruMetni": "iOS mobil işletim sistemi de araçların ihtiyaçlarına uygun tasarlanmıştır.Aşağıdakilerden hangisi bunlardan biridir?<br/><br/>",
+        "SoruMetni": "iOS mobil işletim sistemi de araçların ihtiyaçlarına uygun tasarlanmıştır.Aşağıdakilerden hangisi bunlardan biridir?",
         "A": "iPadOS",
         "B": "Wear OS:",
         "C": "Android Auto",

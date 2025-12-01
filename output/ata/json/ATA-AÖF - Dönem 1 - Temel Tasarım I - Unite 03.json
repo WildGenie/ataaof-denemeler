@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264348,
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 264350,
@@ -54,11 +56,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264353,
-        "SoruMetni": "..........………. CMYK renk temeline sahip daire biçimli küçük noktacıklardır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "..........………. CMYK renk temeline sahip daire biçimli küçük noktacıklardır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Ofset",
         "B": "Tram",
         "C": "Piksel",
@@ -73,11 +76,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264355,
-        "SoruMetni": "Özel renkler, tasarım disiplinlerinde ihtiyaç duyuldukça tasarım sürecine entegre edilmektedir. Özellikle görsel iletişim tasarımda farklı grafik öğelerle ilişkilendirilen bu renkler, baskıda CMYK renklerin karıştırılması ile elde edilmeyen, özel olarak üretilen renklerdir.<br/> <br/><strong>Aşağıdakilerden hangisi özel renklerin tanımlanmasında kullanılır?</strong>",
+        "SoruMetni": "Özel renkler, tasarım disiplinlerinde ihtiyaç duyuldukça tasarım sürecine entegre edilmektedir. Özellikle görsel iletişim tasarımda farklı grafik öğelerle ilişkilendirilen bu renkler, baskıda CMYK renklerin karıştırılması ile elde edilmeyen, özel olarak üretilen renklerdir.<br/><strong>Aşağıdakilerden hangisi özel renklerin tanımlanmasında kullanılır?</strong>",
         "A": "Kontrast",
         "B": "Magenta",
         "C": "Monokromatik",
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 264356,
@@ -111,7 +116,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 264357,
@@ -130,7 +136,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266623,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266627,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266628,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266629,
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 266630,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 266631,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266632,
@@ -263,7 +276,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266633,
@@ -282,7 +296,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266634,
@@ -301,11 +316,12 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 266635,
-        "SoruMetni": "<strong>“Renk öğesi insanın kişiliği ve enerjisi hakkında bilgi verebilir. Kişisel tercih ile kıyafet ve  mekânlara yansıyan renkler, insan ruhunu karartıcı ya da aydınlatıcı bir etkiye neden olabilir. Her bir rengin anlamı, insanlık tarihinde benzer ya da çeşitli değişikliklere uğrayarak günümüze yansımıştır.”<br/> <br/>Bu doğrultuda aşağıdakilerden hangisi vücutta epinefrin salgılatarak tehlike ve acil durum kavramlarını çağrıştırır?</strong>",
+        "SoruMetni": "<strong>“Renk öğesi insanın kişiliği ve enerjisi hakkında bilgi verebilir. Kişisel tercih ile kıyafet ve mekânlara yansıyan renkler, insan ruhunu karartıcı ya da aydınlatıcı bir etkiye neden olabilir. Her bir rengin anlamı, insanlık tarihinde benzer ya da çeşitli değişikliklere uğrayarak günümüze yansımıştır.”<br/>Bu doğrultuda aşağıdakilerden hangisi vücutta epinefrin salgılatarak tehlike ve acil durum kavramlarını çağrıştırır?</strong>",
         "A": "Siyah",
         "B": "Gri",
         "C": "Turuncu",
@@ -320,11 +336,12 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 332157,
-        "SoruMetni": "<strong>CMYK renk modelinde yeşil ve mavi rengin birleşiminden elde edilen renk aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>CMYK renk modelinde yeşil ve mavi rengin birleşiminden elde edilen renk aşağıdakilerden hangisidir?</strong>",
         "A": "Cyan",
         "B": "Magenta",
         "C": "Yellow",
@@ -339,7 +356,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 332163,
@@ -358,7 +376,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 332172,
@@ -377,7 +396,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 363046,
@@ -396,7 +416,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 390405,
@@ -415,11 +436,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 390409,
-        "SoruMetni": "I.   Işığın kaynağı güneştir.<br/> <br/>II.  Renkler ışık ile algılanır.<br> <br/>III. Işığın olduğu yerde renk, rengin olduğu yerde ışık vardır.<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri ışık ile ilgili doğrudur?</strong></br></br>",
+        "SoruMetni": "I. Işığın kaynağı güneştir.<br/>II. Renkler ışık ile algılanır.<br/>III. Işığın olduğu yerde renk, rengin olduğu yerde ışık vardır.<br/><strong>Yukarıdakilerden hangisi ya da hangileri ışık ile ilgili doğrudur?</strong></br></br>",
         "A": "Yalnız II",
         "B": "Yalnız I",
         "C": "I ve II",
@@ -434,7 +456,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 392352,
@@ -453,6 +476,7 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     }
 ]

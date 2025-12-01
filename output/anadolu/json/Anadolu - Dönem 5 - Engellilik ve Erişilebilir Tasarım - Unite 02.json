@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3863048,
-        "SoruMetni": "I: Sürdürülebilir şehirler<br/><br/>II: Sosyal erişim<br/><br/>III: Kapsayıcılık<br/><br/>IV: Dijitalleşme<br/><br/>Yukarıdaki ilkelerden hangisi ya da hangileri BM Sürdürülebilir Kalkınma Amaçları arasında yer almaktadır?",
+        "SoruMetni": "I: Sürdürülebilir şehirler<br/>II: Sosyal erişim<br/>III: Kapsayıcılık<br/>IV: Dijitalleşme<br/>Yukarıdaki ilkelerden hangisi ya da hangileri BM Sürdürülebilir Kalkınma Amaçları arasında yer almaktadır?",
         "A": "I ve III",
         "B": "II ve IV",
         "C": "I ve III",
@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 3863050,
-        "SoruMetni": "\"..................\", binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasıdır.<br/> Yukarıdaki tanımda boş bırakılan yere aşağıdaki kavramlardan hangisinin gelmesi uygun olur?",
+        "SoruMetni": "\"..................\", binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasıdır.<br/>Yukarıdaki tanımda boş bırakılan yere aşağıdaki kavramlardan hangisinin gelmesi uygun olur?",
         "A": "Erişilebilirlik",
         "B": "Kapsayıcılık",
         "C": "Bütünleşiklik",
@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3863071,
-        "SoruMetni": "I: Erişilebilirlik kapsamında yalnızca rampa, asansör ve erişilebilir tuvaletlere yönelik düzenlemeler yer almaktadır. <br/> II: Erişilebilirlik bilgi ve iletişimin erişilebilir olması gerekliliğini vurgulamaktadır. <br/> III: Erişilebilirlik, herkesin istediği yer/hizmete bağımsız ve güvenli bir şekilde erişimidir. <br/> IV:  Erişilebilirlik kavramı yalnızca engelli bireylerin gereksinimlerine odaklanmaktadır. <br/> \"Erişilebilirlik\" kavramı düşünüldüğünde yukarıda yazılanlardan hangisi ya da hangileri doğrudur?",
+        "SoruMetni": "I: Erişilebilirlik kapsamında yalnızca rampa, asansör ve erişilebilir tuvaletlere yönelik düzenlemeler yer almaktadır. <br/>II: Erişilebilirlik bilgi ve iletişimin erişilebilir olması gerekliliğini vurgulamaktadır. <br/>III: Erişilebilirlik, herkesin istediği yer/hizmete bağımsız ve güvenli bir şekilde erişimidir. <br/>IV: Erişilebilirlik kavramı yalnızca engelli bireylerin gereksinimlerine odaklanmaktadır. <br/>\"Erişilebilirlik\" kavramı düşünüldüğünde yukarıda yazılanlardan hangisi ya da hangileri doğrudur?",
         "A": "Yalnız III",
         "B": "Yalnız II",
         "C": "Yalnız I",
@@ -77,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gündelik yaşamda yaygın bir şekilde bilindiği haliyle erişilebilirlik rampa, asansör ve erişilebilir tuvalet olmadığı gibi yalnızca ortopedik engellilere yönelik düzenlemeler de değildir. Kaldı ki Engelliler Hakkında Kanun kapsamında yer alan tanım bilgi ve iletişimin erişilebilir olmasına da vurgu yapmakla birlikte ilgili kanunun tanımlar başlığı altında engellinin kim olduğuna ve engellilik durumunun ne olduğuna yönelik tanımlar da yapılmaktadır. Güncel tanımlardan biri olan ve Erişilebilirlik Kılavuzunda yer alan tanıma göre erişilebilirlik “engelliler” yerine herkesi kapsamakta her yere ve her hizmete erişimle ilişkilenmektedir.<br/> Erişilebilirlik, herkesin istediği her yere ve her hizmete, bağımsız ve güvenli olarak ulaşabilmesi ve bunları kullanabilmesidir."
+        "Aciklama": "Gündelik yaşamda yaygın bir şekilde bilindiği haliyle erişilebilirlik rampa, asansör ve erişilebilir tuvalet olmadığı gibi yalnızca ortopedik engellilere yönelik düzenlemeler de değildir. Kaldı ki Engelliler Hakkında Kanun kapsamında yer alan tanım bilgi ve iletişimin erişilebilir olmasına da vurgu yapmakla birlikte ilgili kanunun tanımlar başlığı altında engellinin kim olduğuna ve engellilik durumunun ne olduğuna yönelik tanımlar da yapılmaktadır. Güncel tanımlardan biri olan ve Erişilebilirlik Kılavuzunda yer alan tanıma göre erişilebilirlik “engelliler” yerine herkesi kapsamakta her yere ve her hizmete erişimle ilişkilenmektedir.<br/>Erişilebilirlik, herkesin istediği her yere ve her hizmete, bağımsız ve güvenli olarak ulaşabilmesi ve bunları kullanabilmesidir."
     },
     {
         "SoruID": 3863113,
-        "SoruMetni": "Aşağıdakilerden hangisi 2006 yılında imzalanan BM Engelli Kişilerin Hakları Sözleşmesi'nde yer alan yapılaşmış çevrenin kapsamında yer almaz?",
+        "SoruMetni": "Aşağıdakilerden hangisi 2006 yılında imzalanan BM Engelli Kişilerin Hakları Sözleşmesi'nde yer alan yapılaşmış çevrenin kapsamında yer almaz?",
         "A": "Elektronik cihazlar",
         "B": "Asansörler",
         "C": "Okullar",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3863114,
-        "SoruMetni": "I: İstihdam<br/> II: Yaşama hakkı <br/> III: Bilgiye erişim<br/> Yukarıdaki maddelerden hangisi ya da hangileri BM Engelli Kişilerin Hakları Sözleşmesi'nde yer alan ve engelli bireylerin yaşamlarına yönelik düzenlemeleri içeren  konular arasında yer almaktadır?",
+        "SoruMetni": "I: İstihdam<br/>II: Yaşama hakkı <br/>III: Bilgiye erişim<br/>Yukarıdaki maddelerden hangisi ya da hangileri BM Engelli Kişilerin Hakları Sözleşmesi'nde yer alan ve engelli bireylerin yaşamlarına yönelik düzenlemeleri içeren konular arasında yer almaktadır?",
         "A": "I, II ve III",
         "B": "II ve III",
         "C": "Yalnız I",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3863115,
-        "SoruMetni": "\".........................\", engellinin bireysel ve toplumsal ihtiyaçlarını karşılayabilmesini ve yaşamını bağımsız bir şekilde sürdürebilmesini sağlamayı amaçlayan fiziksel, sosyal, zihinsel ve mesleki beceriler kazandırmaya yönelik hizmetlerdir.<br/> Yukarıdaki tanımda boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
+        "SoruMetni": "\".........................\", engellinin bireysel ve toplumsal ihtiyaçlarını karşılayabilmesini ve yaşamını bağımsız bir şekilde sürdürebilmesini sağlamayı amaçlayan fiziksel, sosyal, zihinsel ve mesleki beceriler kazandırmaya yönelik hizmetlerdir.<br/>Yukarıdaki tanımda boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
         "A": "Habilitasyon",
         "B": "Rehabilitasyon",
         "C": "Terapi",
@@ -141,10 +141,10 @@
     },
     {
         "SoruID": 3863116,
-        "SoruMetni": "Ülkemizde Erişilebilirliği İzleme ve Denetleme'den sorumlu kurum aşağıdakilerden hangisidir?",
+        "SoruMetni": "Ülkemizde Erişilebilirliği İzleme ve Denetleme'den sorumlu kurum aşağıdakilerden hangisidir?",
         "A": "Aile ve Sosyal Hizmetler İl Müdürlükleri",
-        "B": "İl Milli Eğitim Müdürlüğü",
-        "C": "İl Sağlık Müdürlüğü",
+        "B": "İl Milli Eğitim Müdürlüğü",
+        "C": "İl Sağlık Müdürlüğü",
         "D": "Belediyeler",
         "E": "Valilikler",
         "DogruCevap": "A",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3863117,
-        "SoruMetni": "\"............ ...........\" ürünlerin, çevrenin/mekânın, programların ve hizmetlerin uyarlamaya veya özel<br/>bir düzenlemeye ya da tasarıma ihtiyaç duymadan, mümkün olan en geniş ölçekte insanlar tarafından kullanılabilecek şekilde tasarlanmasıdır.<br/> Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "\"............ ...........\" ürünlerin, çevrenin/mekânın, programların ve hizmetlerin uyarlamaya veya özel<br/>bir düzenlemeye ya da tasarıma ihtiyaç duymadan, mümkün olan en geniş ölçekte insanlar tarafından kullanılabilecek şekilde tasarlanmasıdır.<br/>Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "Evrensel Tasarım",
         "B": "Mimari Tasarım",
         "C": "Erişilebilir Tasarım",
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 3863218,
-        "SoruMetni": "\"Binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasıdır.\"<br/> Yukarıda tanımlanan olgu aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasıdır.\"<br/>Yukarıda tanımlanan olgu aşağıdakilerden hangisidir?",
         "A": "Kapsayıcılık",
         "B": "Habilitasyon",
         "C": "Evrensel Tasarım",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 3863227,
-        "SoruMetni": "\"Erişilebilirlik İzleme ve Denetleme Komisyonu tarafından denetlenen umuma açık hizmet veren<br/>her türlü yapılar ve açık alanlar ile toplu taşıma araçlarının denetim tarihi itibari ile erişilebilirlik mevzuatına uygunluğu komisyonca belirlenenlere ................ tarafından Erişilebilirlik Belgesi verilmektedir.\"<br/> Yukarıdaki cümlede boş bırakılan yer aşağıdakilerden hangisi ile tamamlanabilir?",
+        "SoruMetni": "\"Erişilebilirlik İzleme ve Denetleme Komisyonu tarafından denetlenen umuma açık hizmet veren<br/>her türlü yapılar ve açık alanlar ile toplu taşıma araçlarının denetim tarihi itibari ile erişilebilirlik mevzuatına uygunluğu komisyonca belirlenenlere ................ tarafından Erişilebilirlik Belgesi verilmektedir.\"<br/>Yukarıdaki cümlede boş bırakılan yer aşağıdakilerden hangisi ile tamamlanabilir?",
         "A": "Belediyeler",
         "B": "Aile ve Sosyal Hizmetler İl Müdürlüğü",
         "C": "Kaymakamlık",
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 3863228,
-        "SoruMetni": "Kamuya sunulması amaçlanan bilginin engellilerin erişebileceği biçimlerde ve farklı engelli gruplarına uygun teknolojilerle güncel olarak ve ek bir bedel alınmaksızın sunulması hususu Uluslararası Engellilerin Haklarına İlişkin Sözleşme'nin hangi maddesi uyarınca uygulanması gereken bir tedbirdir?",
+        "SoruMetni": "Kamuya sunulması amaçlanan bilginin engellilerin erişebileceği biçimlerde ve farklı engelli gruplarına uygun teknolojilerle güncel olarak ve ek bir bedel alınmaksızın sunulması hususu Uluslararası Engellilerin Haklarına İlişkin Sözleşme'nin hangi maddesi uyarınca uygulanması gereken bir tedbirdir?",
         "A": "7. Madde",
         "B": "10. Madde",
         "C": "18. Madde",
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözleşmenin 21. Maddesinde “Taraf devletler engellilerin 2. Maddede tanımlanmış tüm iletişim araçlarını tercihe bağlı kullanabilmesi, bilgi ve fikir araştırma, alma ve verme özgürlüğü dahil düşünce ve ifade özgürlüğünden diğer bireylerle eşit koşullar altında yararlanabilmesi<br/>için uygun tedbirleri alır.” ifadesine yer verilmiş ve taraf devletlere alınacak tedbirlerle ilgili önemli bir<br/>sorumluluk yüklenmiştir. Taraf devletlerin üstlendiği bu tedbirler izleyen şekilde sıralanmıştır:<br/>• Kamuya sunulması amaçlanan bilginin engellilerin erişebileceği biçimlerde ve farklı engelli gruplarına uygun teknolojilerle güncel olarak ve ek bir bedel alınmaksızın sunulması<br/>• Engellilerin resmi temaslarda işaret dillerini, Braille alfabesini, beden dilini ve tercih ettikleri<br/>diğer tüm erişilebilir iletişim araç ve biçimlerini kullanmalarının kolaylaştırılması<br/>• Kamuya açık hizmet sunan özel kuruluşların internet dahil olmak üzere, engellilerin erişebileceği ve kullanabileceği biçimde bilgi ve hizmet sunmalarının teşvik edilmesi<br/>• İnternet aracılığıyla bilgi sunanlar dahil olmak üzere kitle iletişim hizmeti sunan kurumların hizmetlerini engellilerin erişebileceği şekillerde sunmalarının teşvik edilmesi<br/>• İşaret dili kullanımının kabul ve teşvik edilmesi<br/> Cevap, D şıkkıdır."
+        "Aciklama": "Sözleşmenin 21. Maddesinde “Taraf devletler engellilerin 2. Maddede tanımlanmış tüm iletişim araçlarını tercihe bağlı kullanabilmesi, bilgi ve fikir araştırma, alma ve verme özgürlüğü dahil düşünce ve ifade özgürlüğünden diğer bireylerle eşit koşullar altında yararlanabilmesi<br/>için uygun tedbirleri alır.” ifadesine yer verilmiş ve taraf devletlere alınacak tedbirlerle ilgili önemli bir<br/>sorumluluk yüklenmiştir. Taraf devletlerin üstlendiği bu tedbirler izleyen şekilde sıralanmıştır:<br/>• Kamuya sunulması amaçlanan bilginin engellilerin erişebileceği biçimlerde ve farklı engelli gruplarına uygun teknolojilerle güncel olarak ve ek bir bedel alınmaksızın sunulması<br/>• Engellilerin resmi temaslarda işaret dillerini, Braille alfabesini, beden dilini ve tercih ettikleri<br/>diğer tüm erişilebilir iletişim araç ve biçimlerini kullanmalarının kolaylaştırılması<br/>• Kamuya açık hizmet sunan özel kuruluşların internet dahil olmak üzere, engellilerin erişebileceği ve kullanabileceği biçimde bilgi ve hizmet sunmalarının teşvik edilmesi<br/>• İnternet aracılığıyla bilgi sunanlar dahil olmak üzere kitle iletişim hizmeti sunan kurumların hizmetlerini engellilerin erişebileceği şekillerde sunmalarının teşvik edilmesi<br/>• İşaret dili kullanımının kabul ve teşvik edilmesi<br/>Cevap, D şıkkıdır."
     },
     {
         "SoruID": 3863229,
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 3863230,
-        "SoruMetni": "\"Uluslararası Engellilerin Haklarına İlişkin Sözleşme'nin bilgi ve iletişimde erişilebilirlik hükümleri bağlamında taraf devletlerin alması gereken tedbirlerden biri de işaret dili kullanımının kabul ve teşvik edilmesidir.\"<br/> Bu bilgi bağlamında ülkemizde tüm yükseköğretim programlarına Türk İşaret Dilinin seçmeli<br/>ders olarak eklenmesi kararı ne zaman alınmıştır?",
+        "SoruMetni": "\"Uluslararası Engellilerin Haklarına İlişkin Sözleşme'nin bilgi ve iletişimde erişilebilirlik hükümleri bağlamında taraf devletlerin alması gereken tedbirlerden biri de işaret dili kullanımının kabul ve teşvik edilmesidir.\"<br/>Bu bilgi bağlamında ülkemizde tüm yükseköğretim programlarına Türk İşaret Dilinin seçmeli<br/>ders olarak eklenmesi kararı ne zaman alınmıştır?",
         "A": "2017 yılında",
         "B": "2015 yılında",
         "C": "2013 yılında",
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Evrensel Tasarım İlkeleri<br/>1. Eşitlikçi Kullanım<br/>2. Kullanımda Esneklik<br/>3. Basit ve Sezgisel Kullanım<br/>4. Algılanabilir Bilgi<br/>5. Hata Toleransı<br/>6. Düşük Fiziksel Efor<br/>7. Yaklaşım ve Kullanım için Boyut, Yer ve Alan<br/> Cevap, A şıkkıdır."
+        "Aciklama": "Evrensel Tasarım İlkeleri<br/>1. Eşitlikçi Kullanım<br/>2. Kullanımda Esneklik<br/>3. Basit ve Sezgisel Kullanım<br/>4. Algılanabilir Bilgi<br/>5. Hata Toleransı<br/>6. Düşük Fiziksel Efor<br/>7. Yaklaşım ve Kullanım için Boyut, Yer ve Alan<br/>Cevap, A şıkkıdır."
     },
     {
         "SoruID": 3863232,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kullanımda Esneklik<br/> İlkenin uygulamasında;<br/>• Kullanım yöntemlerinde seçenekler sunulmalı ya da tercih olanakları sağlanmalı<br/>• Sağ ve sol el kullanımı dikkate alınmalı ve bir arada kullanılabilmeli<br/>• Doğru ve hassas kullanımı mümkün kılan önlemler alınmalı<br/>• Kullanım hızına uyumluluk sağlanmalıdır.<br/> Cevap, B şıkkıdır."
+        "Aciklama": "Kullanımda Esneklik<br/>İlkenin uygulamasında;<br/>• Kullanım yöntemlerinde seçenekler sunulmalı ya da tercih olanakları sağlanmalı<br/>• Sağ ve sol el kullanımı dikkate alınmalı ve bir arada kullanılabilmeli<br/>• Doğru ve hassas kullanımı mümkün kılan önlemler alınmalı<br/>• Kullanım hızına uyumluluk sağlanmalıdır.<br/>Cevap, B şıkkıdır."
     },
     {
         "SoruID": 3863233,
@@ -397,11 +397,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Basit ve Sezgisel Kullanım<br/> İlkenin uygulamasında;<br/>• Tasarımda gereksiz karmaşa elenmeli ya da ortadan kaldırılmalı<br/>• Tasarım, kullanıcı beklentileri ve sezgileri ile tutarlı olunmalı<br/>• Çeşitli okuryazarlık ve dil becerileri barındırılmalı<br/>• Bilgi önemine göre düzenlenmeli<br/>• Etkili uyarma ve geri beslemeyi iş süresince ve iş bitiminde sağlanmalı<br/> Cevap, A şıkkıdır."
+        "Aciklama": "Basit ve Sezgisel Kullanım<br/>İlkenin uygulamasında;<br/>• Tasarımda gereksiz karmaşa elenmeli ya da ortadan kaldırılmalı<br/>• Tasarım, kullanıcı beklentileri ve sezgileri ile tutarlı olunmalı<br/>• Çeşitli okuryazarlık ve dil becerileri barındırılmalı<br/>• Bilgi önemine göre düzenlenmeli<br/>• Etkili uyarma ve geri beslemeyi iş süresince ve iş bitiminde sağlanmalı<br/>Cevap, A şıkkıdır."
     },
     {
         "SoruID": 3863304,
-        "SoruMetni": "I. Erişilebilirlik, insan haklarının ayrımcılığı da kapsayan önemli bir alanıdır.<br data-end=\"200\" data-start=\"197\"/> II. Erişilebilirlik, gündelik yaşama tam katılımın ve bağımsız yaşamanın temel koşullarındandır.<br data-end=\"299\" data-start=\"296\"/> III. Erişilebilirlik yalnızca engellilerin değil, tüm bireylerin toplumsal yaşama katılımını destekler.<br data-end=\"405\" data-start=\"402\"/> IV. Erişilebilirlik, sadece fiziksel çevreye yönelik bir düzenleme alanıdır.<br data-end=\"484\" data-start=\"481\"/> V. 5378 sayılı Engelliler Hakkında Kanun’da erişilebilirlik tanımına yer verilmiştir.<br/><br/>Yukarıdaki ifadelerden hangileri,  “erişilebilirlik” kavramı ile ilgilidir?",
+        "SoruMetni": "I. Erişilebilirlik, insan haklarının ayrımcılığı da kapsayan önemli bir alanıdır.<br data-end=\"200\" data-start=\"197\"/> II. Erişilebilirlik, gündelik yaşama tam katılımın ve bağımsız yaşamanın temel koşullarındandır.<br data-end=\"299\" data-start=\"296\"/> III. Erişilebilirlik yalnızca engellilerin değil, tüm bireylerin toplumsal yaşama katılımını destekler.<br data-end=\"405\" data-start=\"402\"/> IV. Erişilebilirlik, sadece fiziksel çevreye yönelik bir düzenleme alanıdır.<br data-end=\"484\" data-start=\"481\"/> V. 5378 sayılı Engelliler Hakkında Kanun’da erişilebilirlik tanımına yer verilmiştir.<br/>Yukarıdaki ifadelerden hangileri, “erişilebilirlik” kavramı ile ilgilidir?",
         "A": "I, II ve III",
         "B": "I, II ve V",
         "C": "II, IV ve V",
@@ -421,7 +421,7 @@
     },
     {
         "SoruID": 3863305,
-        "SoruMetni": "Görme engelli bir bireye, günlük yaşamda bağımsız hareket edebilmesi için baston kullanma, toplu taşıma araçlarını güvenle kullanma, bilgisayar okuma yazılımı ile çalışma ve mesleki beceriler geliştirme eğitimleri verilmektedir.<br/> Bu durumda sunulan hizmet aşağıdakilerden hangisine örnektir?",
+        "SoruMetni": "Görme engelli bir bireye, günlük yaşamda bağımsız hareket edebilmesi için baston kullanma, toplu taşıma araçlarını güvenle kullanma, bilgisayar okuma yazılımı ile çalışma ve mesleki beceriler geliştirme eğitimleri verilmektedir.<br/>Bu durumda sunulan hizmet aşağıdakilerden hangisine örnektir?",
         "A": "Rehabilitasyon",
         "B": "Habilitasyon",
         "C": "Entegrasyon",
@@ -457,11 +457,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Soruda anlatılan düzenlemeler, hem fiziki çevre (binalar, yollar, ulaşım araçları, okullar, sağlık tesisleri, işyerleri vb.) hem de bilgi ve iletişim olanakları (elektronik hizmetler, acil hizmetler vb.) için erişim imkânı sağlamaya yöneliktir.<br data-end=\"270\" data-start=\"267\"/> Bu durum, engelli bireylerin bağımsız yaşamasını ve topluma tam ve eşit katılımını mümkün kılan erişilebilirlik ilkesinin uygulanması anlamına gelir.<br data-end=\"434\" data-start=\"431\"/> Dolayısıyla doğru seçenek C) Erişilebilirlik ilkesinin hayata geçirilmesi’dir."
+        "Aciklama": "A) Habilitasyon hizmetleri- Engelli bireylere fiziksel, sosyal, zihinsel ve mesleki beceriler kazandırma sürecidir. Soruda beceri kazandırmadan çok çevresel düzenleme anlatılıyor.<br/>B) Engellilerin istihdamını artırma politikaları- İş bulma, iş ortamı uyarlama, mesleki eğitim gibi istihdama yönelik uygulamaları kapsar; burada genel yaşam alanları ve hizmetlerin erişilebilirliği söz konusu.<br/>D) Sosyal yardım programları -Maddi destek veya sosyal hizmet yardımlarıdır; erişilebilirlik düzenlemeleri ile doğrudan ilişkili değildir.<br/>E) Sağlık hizmetleri planlaması -Sağlık sisteminin organizasyonu ile ilgilidir; sorudaki düzenlemeler yalnızca sağlık alanını değil, tüm yaşam alanlarını kapsar.<br>Soruda anlatılan düzenlemeler, hem fiziki çevre (binalar, yollar, ulaşım araçları, okullar, sağlık tesisleri, işyerleri vb.) hem de bilgi ve iletişim olanakları (elektronik hizmetler, acil hizmetler vb.) için erişim imkânı sağlamaya yöneliktir.<br data-end=\"270\" data-start=\"267\"/> Bu durum, engelli bireylerin bağımsız yaşamasını ve topluma tam ve eşit katılımını mümkün kılan erişilebilirlik ilkesinin uygulanması anlamına gelir.<br data-end=\"434\" data-start=\"431\"/> Dolayısıyla doğru seçenek C) Erişilebilirlik ilkesinin hayata geçirilmesi’dir."
     },
     {
         "SoruID": 3863307,
-        "SoruMetni": "Bir şehirde yeni yapılan bir alışveriş merkezi, inşaat aşamasında erişilebilirlik standartlarına uygun planlanmamıştır. Açılıştan sonra rampalar, engelli tuvaletleri ve asansör eklenmiş; ancak bu eklemeler hem yüksek maliyet getirmiş hem de tasarımla uyumsuz görünmüştür. Erişilebilirlik İzleme ve Denetleme Komisyonu denetiminde hâlâ eksikler tespit edilmiş, bu nedenle Erişilebilirlik Belgesi verilmemiştir. Ayrıca yönlendirme tabelaları ve dijital bilgilendirme ekranları erişilebilirlik standartlarına uygun değildir.<br/> Bu durum aşağıdaki hangi iki temel eksikliği göstermektedir?",
+        "SoruMetni": "Bir şehirde yeni yapılan bir alışveriş merkezi, inşaat aşamasında erişilebilirlik standartlarına uygun planlanmamıştır. Açılıştan sonra rampalar, engelli tuvaletleri ve asansör eklenmiş; ancak bu eklemeler hem yüksek maliyet getirmiş hem de tasarımla uyumsuz görünmüştür. Erişilebilirlik İzleme ve Denetleme Komisyonu denetiminde hâlâ eksikler tespit edilmiş, bu nedenle Erişilebilirlik Belgesi verilmemiştir. Ayrıca yönlendirme tabelaları ve dijital bilgilendirme ekranları erişilebilirlik standartlarına uygun değildir.<br/>Bu durum aşağıdaki hangi iki temel eksikliği göstermektedir?",
         "A": "Erişilebilirliğin tasarım ve planlama sürecine baştan dahil edilmemesi ve bilgi–iletişim alanında yetersizlik",
         "B": "ERDEM sistemine kayıt yapılmaması ve toplu taşım erişiminin olmaması",
         "C": "Ulusal mevzuattaki dayanaklara uyulmaması ve sosyal yardım eksikliği",
@@ -477,11 +477,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Birinci eksik: Erişilebilirliğin baştan, tasarım ve planlama aşamasında dikkate alınmaması. Bu yüzden sonradan eklemeler hem maliyetli hem de uyumsuz olmuştur.<br/> <br/> İkinci eksik: Erişilebilirliğin yalnızca fiziksel düzenlemelerle sınırlı kalması ve bilgi–iletişim alanında (tabelalar, dijital ekranlar) yetersizliklerin bulunması."
+        "Aciklama": "A) Erişilebilirliğin tasarım ve planlama sürecine baştan dahil edilmemesi ve bilgi–iletişim alanında yetersizlik: Doğru yanıt<br data-end=\"203\" data-start=\"200\"/>Nedeni: Sorudaki metinde hem sonradan yapılan düzenlemelerin yarattığı maliyet–estetik sorunları (tasarım sürecine dahil edilmeme) hem de yönlendirme tabelaları ve dijital bilgilendirme ekranlarının standartlara uygun olmaması (bilgi–iletişim eksikliği) anlatılıyor.<br/>B) ERDEM sistemine kayıt yapılmaması ve toplu taşım erişiminin olmaması: Hatalı yanıt<br data-end=\"553\" data-start=\"550\"> Sebebi: Olayda ERDEM sistemine başvurulup başvurulmadığı veya toplu taşıma erişimi hakkında bilgi yok.</br><br/>C) Ulusal mevzuattaki dayanaklara uyulmaması ve sosyal yardım eksikliği: Hatalı yanıt<br data-end=\"748\" data-start=\"745\"> Sebep: Ulusal mevzuata uyulmaması ima edilebilir ancak olayda sosyal yardım konusuna dair hiçbir bilgi yok.</br><br/>&lt;p data-start=\"859\"<br>Birinci eksik: Erişilebilirliğin baştan, tasarım ve planlama aşamasında dikkate alınmaması. Bu yüzden sonradan eklemeler hem maliyetli hem de uyumsuz olmuştur.<br/>İkinci eksik: Erişilebilirliğin yalnızca fiziksel düzenlemelerle sınırlı kalması ve bilgi–iletişim alanında (tabelalar, dijital ekranlar) yetersizliklerin bulunması."
     },
     {
         "SoruID": 3863308,
-        "SoruMetni": "Bir belediye, kentte yaşayan herkesin dijital hizmetlere erişimini artırmak amacıyla mobil uygulamalar, erişilebilir web siteleri, işaret dili desteği olan çevrimiçi danışma hatları ve Braille uyumlu bilgilendirme ekranları geliştirmiştir. Bu uygulamalar, hem resmi işlemler hem de kültürel ve ticari hizmetler için ücretsiz olarak sunulmuştur.<br/> Bu uygulama aşağıdaki hangi uluslararası yükümlülüğün gereğini yerine getirmeye yöneliktir?",
+        "SoruMetni": "Bir belediye, kentte yaşayan herkesin dijital hizmetlere erişimini artırmak amacıyla mobil uygulamalar, erişilebilir web siteleri, işaret dili desteği olan çevrimiçi danışma hatları ve Braille uyumlu bilgilendirme ekranları geliştirmiştir. Bu uygulamalar, hem resmi işlemler hem de kültürel ve ticari hizmetler için ücretsiz olarak sunulmuştur.<br/>Bu uygulama aşağıdaki hangi uluslararası yükümlülüğün gereğini yerine getirmeye yöneliktir?",
         "A": "Mekânsal erişilebilirlik standartlarının uygulanması",
         "B": "Kentsel planlamada estetik bütünlüğün sağlanması",
         "C": "Uluslararası Engellilerin Haklarına İlişkin Sözleşme’nin iletişim ve bilgiye erişim yükümlülükleri",
@@ -517,11 +517,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu tür durumlarda kişi kalıcı veya geçici bir sağlık sorununa sahip değildir, ancak mevcut çevresel koşullar nedeniyle sınırlılık yaşar. Bu, tanım gereği durumsal engelliliktir.<br/><br/>Geçici engellilik kısa süreli bir sağlık durumu veya yaralanmadan kaynaklanır, doğuştan engellilik ise doğumdan itibaren var olan kalıcı durumlardır; kalıcı engellilik yaşam boyu süren, kısmi görme engeli ise tıbbi bir görme bozukluğu durumudur. Örnekte ise kişi herhangi bir tıbbi veya kalıcı duruma sahip olmadan, yalnızca çevresel koşullar (gürültü, güneş ışığı vb.) nedeniyle sınırlılık yaşamaktadır. Bu nedenle doğru yanıt, mevcut deneyime bağlı olarak ortaya çıkan <strong>durumsal engelliliktir</strong>."
+        "Aciklama": "Bu tür durumlarda kişi kalıcı veya geçici bir sağlık sorununa sahip değildir, ancak mevcut çevresel koşullar nedeniyle sınırlılık yaşar. Bu, tanım gereği durumsal engelliliktir.<br/>Geçici engellilik kısa süreli bir sağlık durumu veya yaralanmadan kaynaklanır, doğuştan engellilik ise doğumdan itibaren var olan kalıcı durumlardır; kalıcı engellilik yaşam boyu süren, kısmi görme engeli ise tıbbi bir görme bozukluğu durumudur. Örnekte ise kişi herhangi bir tıbbi veya kalıcı duruma sahip olmadan, yalnızca çevresel koşullar (gürültü, güneş ışığı vb.) nedeniyle sınırlılık yaşamaktadır. Bu nedenle doğru yanıt, mevcut deneyime bağlı olarak ortaya çıkan <strong>durumsal engelliliktir</strong>."
     },
     {
         "SoruID": 3863310,
-        "SoruMetni": "Deniz, görme engelli bir yüzücüdür. Günlük yaşamında zamanı öğrenmek için telefonunu kullanmak istememektedir. Kullandığı yeni cihaz: I. Üzerindeki minik bilyeler sayesinde zamanı dokunarak algılamasını sağlar.<br data-end=\"294\" data-start=\"291\"/> II. Sessiz bir şekilde saatini öğrenmesine imkân verir.<br data-end=\"352\" data-is-only-node=\"\" data-start=\"349\"/> III. Görme engelli paralimpik sporculardan ilham alınarak tasarlanmıştır.<br/> Bu özelliklere sahip yardımcı teknoloji aşağıdakilerden hangisidir?",
+        "SoruMetni": "Deniz, görme engelli bir yüzücüdür. Günlük yaşamında zamanı öğrenmek için telefonunu kullanmak istememektedir. Kullandığı yeni cihaz: I. Üzerindeki minik bilyeler sayesinde zamanı dokunarak algılamasını sağlar.<br data-end=\"294\" data-start=\"291\"/> II. Sessiz bir şekilde saatini öğrenmesine imkân verir.<br data-end=\"352\" data-is-only-node=\"\" data-start=\"349\"/> III. Görme engelli paralimpik sporculardan ilham alınarak tasarlanmıştır.<br/>Bu özelliklere sahip yardımcı teknoloji aşağıdakilerden hangisidir?",
         "A": "Dokunsal ekranlı akıllı saat",
         "B": "Braille alfabeli kol saati",
         "C": "Eone saati",
@@ -541,7 +541,7 @@
     },
     {
         "SoruID": 3863311,
-        "SoruMetni": "I. Ürünlerin, hizmetlerin ve mekânların mümkün olan en geniş ölçekte insanlar tarafından kullanılabilmesini hedefler.<br data-end=\"386\" data-start=\"383\"/> II. Sadece engelli bireyler için uyum sürecine odaklanır.<br data-end=\"446\" data-start=\"443\"/> III. İşlevsellik ile estetik değerleri birlikte gözetir.<br data-end=\"505\" data-start=\"502\"/> IV. Tek bir kullanıcının bile dışlanmamasını esas alır.<br data-end=\"563\" data-start=\"560\"/> V. Sadece belirli bir pazar için özel tasarımlar yapmayı amaçlar.<br/><br/>Yukarıdakilerden hangileri evrensel tasarım yaklaşımının özellikleri arasında yer alır?",
+        "SoruMetni": "I. Ürünlerin, hizmetlerin ve mekânların mümkün olan en geniş ölçekte insanlar tarafından kullanılabilmesini hedefler.<br data-end=\"386\" data-start=\"383\"/> II. Sadece engelli bireyler için uyum sürecine odaklanır.<br data-end=\"446\" data-start=\"443\"/> III. İşlevsellik ile estetik değerleri birlikte gözetir.<br data-end=\"505\" data-start=\"502\"/> IV. Tek bir kullanıcının bile dışlanmamasını esas alır.<br data-end=\"563\" data-start=\"560\"/> V. Sadece belirli bir pazar için özel tasarımlar yapmayı amaçlar.<br/>Yukarıdakilerden hangileri evrensel tasarım yaklaşımının özellikleri arasında yer alır?",
         "A": "I, III ve IV",
         "B": "II ve V",
         "C": "I, II ve III",
@@ -561,7 +561,7 @@
     },
     {
         "SoruID": 3863312,
-        "SoruMetni": "I. Eşitlikçi Kullanım<br data-end=\"220\" data-start=\"217\"/> II. Estetik Öncelikli Tasarım<br data-end=\"252\" data-start=\"249\"/> III. Algılanabilir Bilgi<br data-end=\"279\" data-start=\"276\"/> IV. Düşük Fiziksel Efor<br/><br/>Yukarıdakilerden hangileri Evrensel Tasarım Kılavuzu’nun yedi ilkesinden biridir?",
+        "SoruMetni": "I. Eşitlikçi Kullanım<br data-end=\"220\" data-start=\"217\"/> II. Estetik Öncelikli Tasarım<br data-end=\"252\" data-start=\"249\"/> III. Algılanabilir Bilgi<br data-end=\"279\" data-start=\"276\"/> IV. Düşük Fiziksel Efor<br/>Yukarıdakilerden hangileri Evrensel Tasarım Kılavuzu’nun yedi ilkesinden biridir?",
         "A": "I ve II",
         "B": "I ve III",
         "C": "II ve IV",
@@ -597,6 +597,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hata Toleransı ilkesi, olası tehlike ve hataları tasarım yoluyla en aza indirmeyi amaçlar. Düğmelere farklı renk ve şekil verilmesi, yanlışlıkla basmayı zorlaştırarak bilinçsiz kullanımı önler. Diğer seçenekler faydalı olabilir ama doğrudan tasarım müdahalesi ile hata riskini azaltmaz.<br/> A seçeneği, hızı artırarak verimlilik sağlayabilir ancak hatalı kullanım riskini ortadan kaldırmaz; C seçeneği, kullanım kılavuzunu asmak bilgilendirici olsa da anlık yanlış hareketleri engelleyemez; D seçeneği, alanı büyütmekle güvenlik artırılabilir ama yanlış düğmeye basma sorununa doğrudan çözüm getirmez; E seçeneği, eğitimle farkındalık sağlayabilir fakat Hata Toleransı ilkesinde amaç, kullanıcı hatasını eğitimle değil tasarımın kendisiyle önlemektir. Buna karşılık B seçeneği, düğmelere farklı renk ve şekil vererek hatalı kullanımı fiziksel olarak zorlaştırdığı için ilkenin gereğine en uygun çözümdür."
+        "Aciklama": "Hata Toleransı ilkesi, olası tehlike ve hataları tasarım yoluyla en aza indirmeyi amaçlar. Düğmelere farklı renk ve şekil verilmesi, yanlışlıkla basmayı zorlaştırarak bilinçsiz kullanımı önler. Diğer seçenekler faydalı olabilir ama doğrudan tasarım müdahalesi ile hata riskini azaltmaz.<br/>A seçeneği, hızı artırarak verimlilik sağlayabilir ancak hatalı kullanım riskini ortadan kaldırmaz; C seçeneği, kullanım kılavuzunu asmak bilgilendirici olsa da anlık yanlış hareketleri engelleyemez; D seçeneği, alanı büyütmekle güvenlik artırılabilir ama yanlış düğmeye basma sorununa doğrudan çözüm getirmez; E seçeneği, eğitimle farkındalık sağlayabilir fakat Hata Toleransı ilkesinde amaç, kullanıcı hatasını eğitimle değil tasarımın kendisiyle önlemektir. Buna karşılık B seçeneği, düğmelere farklı renk ve şekil vererek hatalı kullanımı fiziksel olarak zorlaştırdığı için ilkenin gereğine en uygun çözümdür."
     }
 ]

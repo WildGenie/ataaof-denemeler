@@ -1,11 +1,11 @@
 [
     {
         "SoruID": 3861995,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Bir kurumun hizmet düzeyi ve iş yapma yaklaşımı gibi davranışsal özelliklerini tanımlamak için kullanılan terim aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Bir kurumun hizmet düzeyi ve iş yapma yaklaşımı gibi davranışsal özelliklerini tanımlamak için kullanılan terim aşağıdakilerden hangisidir?",
         "A": "Kimlik",
         "B": "Görsel algı",
-        "C": "<br/> <br/> <br/> <br/>Piktogram<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Optik kural<br/><br/><br/><br/>",
+        "C": "<br/>Piktogram",
+        "D": "<br/>Optik kural",
         "E": "Tipografi",
         "DogruCevap": "A",
         "DersAd": "Kurumsal Kimlik Tasarımı",
@@ -17,15 +17,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>“Kimlik”; bir kurumun hizmet düzeyi ve iş yapma yaklaşımı gibi davranışsal özelliklerini tanımlamak için kullanılan bir terimdir. Markalaşma, bu kimliğin pazardaki ifadesi veya varlığıdır. Etkili ve tanınabilir bir görsellik yaratmak için kullanılır.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>“Kimlik”; bir kurumun hizmet düzeyi ve iş yapma yaklaşımı gibi davranışsal özelliklerini tanımlamak için kullanılan bir terimdir. Markalaşma, bu kimliğin pazardaki ifadesi veya varlığıdır. Etkili ve tanınabilir bir görsellik yaratmak için kullanılır."
     },
     {
         "SoruID": 3861996,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şekli aşağıdakilerden hangisiyle açıklanmaktadır?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şekli aşağıdakilerden hangisiyle açıklanmaktadır?",
         "A": "Monolitik",
-        "B": "<br/> <br/> <br/> <br/>Biçim<br/><br/>  <br/><br/><br/>",
+        "B": "<br/>Biçim",
         "C": "Marka",
-        "D": "<br/> <br/> <br/> <br/>Amblem <br/><br/><br/><br/>",
+        "D": "<br/>Amblem",
         "E": "Logo",
         "DogruCevap": "A",
         "DersAd": "Kurumsal Kimlik Tasarımı",
@@ -37,11 +37,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Kurum Kimliğinde (Tekli Kimlik)<br/><br/>Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şekline Monolitik (Tekli Kimlik) denilmektedir. Monolitik (Tek- li Kimlik) için verilecek örnekler arasında, Shell, THY, Mcdonalds verilebilir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Kurum Kimliğinde (Tekli Kimlik)<br/>Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şekline Monolitik (Tekli Kimlik) denilmektedir. Monolitik (Tek- li Kimlik) için verilecek örnekler arasında, Shell, THY, Mcdonalds verilebilir."
     },
     {
         "SoruID": 3861997,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Aşağıdakilerden hangisi veya hangileri  Kurum Logosunu anlamlandırabilmekle, bir markanın gücünü ve günlük hayatımızı nasıl şekillendirebileceğini tanımlamaktadır?<br/><br/>I. Markalaşmayı tanımlamak<br/><br/>II. Markalaşmanın amacını anlamak<br/><br/>III. Markalaşma sürecini planlamak<br/><br/>IV. Markalaşmayı öğrenmek<br/><br/>V: Kurumsal Kimliğin amacını anlamak<br/><br/>VI. Kurumsal Kimlik tasarım süreci hakkında bilgi sahibi olmak<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Aşağıdakilerden hangisi veya hangileri Kurum Logosunu anlamlandırabilmekle, bir markanın gücünü ve günlük hayatımızı nasıl şekillendirebileceğini tanımlamaktadır?<br/>I. Markalaşmayı tanımlamak<br/>II. Markalaşmanın amacını anlamak<br/>III. Markalaşma sürecini planlamak<br/>IV. Markalaşmayı öğrenmek<br/>V: Kurumsal Kimliğin amacını anlamak<br/>VI. Kurumsal Kimlik tasarım süreci hakkında bilgi sahibi olmak",
         "A": "Hepsi",
         "B": "II/III/IV/V/VI",
         "C": "I/II/III/IV/V",
@@ -57,11 +57,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Markalaşmayı tanımlamak<br/><br/>Markalaşmanın amacını anlamak<br/><br/>Markalaşma sürecini planlamak<br/><br/>Markalaşmayı öğrenmek<br/><br/>Kurumsal Kimliğin amacını anlamak<br/><br/>Kurumsal Kimlik tasarım süreci hakkında bilgi sahibi olmak<br/><br/>Kurum Logosunu anlamlandırabilmekle, bir markanın gücünü ve günlük hayatımızı nasıl şekillendirebileceğini anlamaya başlarsınız.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Markalaşmayı tanımlamak<br/>Markalaşmanın amacını anlamak<br/>Markalaşma sürecini planlamak<br/>Markalaşmayı öğrenmek<br/>Kurumsal Kimliğin amacını anlamak<br/>Kurumsal Kimlik tasarım süreci hakkında bilgi sahibi olmak<br/>Kurum Logosunu anlamlandırabilmekle, bir markanın gücünü ve günlük hayatımızı nasıl şekillendirebileceğini anlamaya başlarsınız."
     },
     {
         "SoruID": 3861998,
-        "SoruMetni": "<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>Bir ürün yada hizmeti tanımlayan, herhangi bir firmayı veya markayı anlatan gösterge olarak tanımlanan kavram aşağıdakilerden hangisidir? <br/><br/><br/><br/><br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Bir ürün yada hizmeti tanımlayan, herhangi bir firmayı veya markayı anlatan gösterge olarak tanımlanan kavram aşağıdakilerden hangisidir?",
         "A": "Amblem",
         "B": "Logo",
         "C": "Kurumsal kimlik",
@@ -77,13 +77,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Kurumsal Kimlikte Amblem: Bir ürün yada hizmeti tanımlayan göstergedir. Herhangi bir firmayı veya markayı anlatan sembol olarak ta tanımlanabilir. Günümüzde amblem ve logo terimleri aynı anlamda kullanılmaktadır.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Kurumsal Kimlikte Amblem: Bir ürün yada hizmeti tanımlayan göstergedir. Herhangi bir firmayı veya markayı anlatan sembol olarak ta tanımlanabilir. Günümüzde amblem ve logo terimleri aynı anlamda kullanılmaktadır."
     },
     {
         "SoruID": 3861999,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Başka bir tasarım ögesinin yapamayacağı kadar etkili şekilde mesajını iletebilen ve sözsüz iletimin en etkili görsel ögesi aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Doğru Renk Seçimi<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Doğru Font Seçimi<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Başka bir tasarım ögesinin yapamayacağı kadar etkili şekilde mesajını iletebilen ve sözsüz iletimin en etkili görsel ögesi aşağıdakilerden hangisidir?",
+        "A": "<br/>Doğru Renk Seçimi",
+        "B": "<br/>Doğru Font Seçimi",
         "C": "Kurumsal kimlikte anlam",
         "D": "Akılda kalıcılık",
         "E": "Tasarım",
@@ -97,11 +97,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Doğru Renk Seçimi<br/><br/>Başka bir tasarım ögesinin yapamayacağı kadar etkili bir şekilde mesajını iletebilen renk; sözsüz iletimin en etkili görsel ögesidir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Doğru Renk Seçimi<br/>Başka bir tasarım ögesinin yapamayacağı kadar etkili bir şekilde mesajını iletebilen renk; sözsüz iletimin en etkili görsel ögesidir."
     },
     {
         "SoruID": 3862000,
-        "SoruMetni": "Aşağıdakilerden hangisi, günlük hayatımızda oldukça sık karşılaştığımız, farklı birçok konuda, ileti (mesaj) aktarımını sağlayarak bizleri uyaran ve hayatımızı kolaylaştıran sembollere verilen isimdir?",
+        "SoruMetni": "Aşağıdakilerden hangisi, günlük hayatımızda oldukça sık karşılaştığımız, farklı birçok konuda, ileti (mesaj) aktarımını sağlayarak bizleri uyaran ve hayatımızı kolaylaştıran sembollere verilen isimdir?",
         "A": "Piktogram",
         "B": "Görsel algı",
         "C": "Kurumsal kimlik",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3862001,
-        "SoruMetni": "Aşağıdakilerden hangisi veye hangileri Piktogramlarda bulunması gereken özelliklerdir?<br/> I. Yalın ve kolay algılanabilir bir tasarım diline sahip olmalı ve İllustratif anlayıştan kaçınılmalıdır.<br/> II. Uluslararası boyutta, sosyal ve kültürel farklılıkları düşünerek yanlış anlaşılmalara neden olacak ifadelerden kaçınılmalıdır.<br/> III. Piktogramlar genel tasarım kriterleri doğrultusunda şekil-zemin ilişkisi, görsel bütünlük ve kurum kimliği tasarım anlayışını destekler nitelikte tasarlanmalıdır.<br/> IV. Simgesel İşaretler ve Piktogramlar farklı alanlarda ve iletişim araçlarında kullanılabilir ve geliştirilebilir nitelikte olmalıdır.",
+        "SoruMetni": "Aşağıdakilerden hangisi veye hangileri Piktogramlarda bulunması gereken özelliklerdir?<br/>I. Yalın ve kolay algılanabilir bir tasarım diline sahip olmalı ve İllustratif anlayıştan kaçınılmalıdır.<br/>II. Uluslararası boyutta, sosyal ve kültürel farklılıkları düşünerek yanlış anlaşılmalara neden olacak ifadelerden kaçınılmalıdır.<br/>III. Piktogramlar genel tasarım kriterleri doğrultusunda şekil-zemin ilişkisi, görsel bütünlük ve kurum kimliği tasarım anlayışını destekler nitelikte tasarlanmalıdır.<br/>IV. Simgesel İşaretler ve Piktogramlar farklı alanlarda ve iletişim araçlarında kullanılabilir ve geliştirilebilir nitelikte olmalıdır.",
         "A": "I/II/III/IV",
         "B": "I/II/III",
         "C": "II/III/IV",
@@ -137,11 +137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Piktogramlarda bulunması gereken özellikler<br/> Yalın ve kolay algılanabilir bir tasarım diline sahip olmalı ve İllustratif anlayıştan kaçınılmalıdır. Uluslararası boyutta, sosyal ve kültürel farklılıkları düşünerek yanlış anlaşılmalara neden olacak ifadelerden kaçınılmalıdır.<br/> Piktogramlar genel tasarım kriterleri doğrultusunda şekil-zemin ilişkisi, görsel bütünlük ve kurum kimliği tasarım anlayışını destekler nitelikte tasarlanmalıdır. Simgesel İşaretler ve Piktogramlar farklı alanlarda ve iletişim araçlarında kullanılabilir ve geliştirilebilir nitelikte olmalıdır."
+        "Aciklama": "Piktogramlarda bulunması gereken özellikler<br/>Yalın ve kolay algılanabilir bir tasarım diline sahip olmalı ve İllustratif anlayıştan kaçınılmalıdır. Uluslararası boyutta, sosyal ve kültürel farklılıkları düşünerek yanlış anlaşılmalara neden olacak ifadelerden kaçınılmalıdır.<br/>Piktogramlar genel tasarım kriterleri doğrultusunda şekil-zemin ilişkisi, görsel bütünlük ve kurum kimliği tasarım anlayışını destekler nitelikte tasarlanmalıdır. Simgesel İşaretler ve Piktogramlar farklı alanlarda ve iletişim araçlarında kullanılabilir ve geliştirilebilir nitelikte olmalıdır."
     },
     {
         "SoruID": 3862002,
-        "SoruMetni": "<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>Aşağıdakilerden hangisi Sembollerde bulunması gereken özelliklerden biri <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span><br/><br/><br/><br/><br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Aşağıdakilerden hangisi Sembollerde bulunması gereken özelliklerden biri <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span>",
         "A": "Karmaşık bir anlatım dili hedeflenmelidir.",
         "B": "Sembolün tanıması ve anlamlandırması için nesne doğru şekilde tasvir edilmelidir.",
         "C": "Bir görüntü en karakteristik açıdan betimlenmelidir.",
@@ -157,16 +157,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>Sembollerde bulunması gereken özellikler<br/><br/><br/><br/><br/><br/>Sembol bir bakışta tanıması ve anlamlandırması için nesnenin şekli doğru bir şekilde tasvir edilmelidir. Yalın bir anlatım dili hedeflenmelidir.<br> Bir görüntü en karakteristik açısından betimlenmelidir.<br> Uluslararası yaygın olarak tanınan görüntüler seçilmelidir.Etki, okunabilirlik, anlam, marka anlatımı ve bağlam içinde bir renk tercih edilmelidir.<br> Sistemdeki tüm sembollerin görselleştirmesinde ortak bir tasarım dili benimsenmelidir.<br> Semboller hem beyaz hem de siyah zemin üzerinde deneyerek test edilmelidir.<br> Sembolleri farklı boyutlarda kullanıma yönelik düşünülmeli küçük boyut kullanımlarda algılanma sorununun önüne geçilmelidir.</br></br></br></br></br><br/><br/><br/><br/>"
+        "Aciklama": "<br/>Sembollerde bulunması gereken özellikler<br/>Sembol bir bakışta tanıması ve anlamlandırması için nesnenin şekli doğru bir şekilde tasvir edilmelidir. Yalın bir anlatım dili hedeflenmelidir.<br/>Bir görüntü en karakteristik açısından betimlenmelidir.<br/>Uluslararası yaygın olarak tanınan görüntüler seçilmelidir.Etki, okunabilirlik, anlam, marka anlatımı ve bağlam içinde bir renk tercih edilmelidir.<br/>Sistemdeki tüm sembollerin görselleştirmesinde ortak bir tasarım dili benimsenmelidir.<br/>Semboller hem beyaz hem de siyah zemin üzerinde deneyerek test edilmelidir.<br/>Sembolleri farklı boyutlarda kullanıma yönelik düşünülmeli küçük boyut kullanımlarda algılanma sorununun önüne geçilmelidir.</br></br></br></br></br>"
     },
     {
         "SoruID": 3862003,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Aşağıdakilerden hangisi Simge tasarımında dikkat edilmesi gereken özelliklerden biri <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span><br/><br/><br/><br/>",
-        "A": "Bir sistemdeki simgelerde üslup birliğine gerek yoktur.<br/><br/>",
-        "B": "<br/> Bağlam nedir ve simgeler hangi ortamda kullanılacaktır. Ekran tasarımında veya basılı olarak nerede kullanılacaktır?<br/><br/>",
-        "C": "İletişim hedefleri nelerdir?<br/><br/>",
-        "D": "Simgeler bir sistemin parçası mıdır?<br/><br/>",
-        "E": "Sistem genelinde hangi tarzda çalışılacak ve tüm tasarım projesi için uygulanacak mı?<br/><br/>",
+        "SoruMetni": "<br/>Aşağıdakilerden hangisi Simge tasarımında dikkat edilmesi gereken özelliklerden biri <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span>",
+        "A": "Bir sistemdeki simgelerde üslup birliğine gerek yoktur.",
+        "B": "<br/>Bağlam nedir ve simgeler hangi ortamda kullanılacaktır. Ekran tasarımında veya basılı olarak nerede kullanılacaktır?",
+        "C": "İletişim hedefleri nelerdir?",
+        "D": "Simgeler bir sistemin parçası mıdır?",
+        "E": "Sistem genelinde hangi tarzda çalışılacak ve tüm tasarım projesi için uygulanacak mı?",
         "DogruCevap": "A",
         "DersAd": "Kurumsal Kimlik Tasarımı",
         "Unite": 3,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Simge tasarımında dikkat edilmesi gereken özellikler<br/><br/>Hedef kitle kim?<br> Simgelerde ölçü ve boyuta dikkat edilmelidir.<br> Bağlam nedir ve simgeler hangi ortamda kullanılacaktır. Ekran tasarı- mında veya basılı olarak nerede kullanılacaktır?<br> İletişim hede eri nelerdir?<br> Simgeler neyi temsil etmektedir?<br> Simgeler bir sistemin parçası mıdır?<br/> Sistem genelinde hangi tarzda çalışılacak ve tüm tasarım projesi için uygulanacak mı?<br/> Mobil medya, cep telefonu sosyal medya ortamları için kullanıma uygun mu?<br/> Bir simge sistemi tasarlamak, net bir tasarım konsepti ve ölçü, perspektif, şekiller, çizgi, renk ve doku gibi görsel öğelerin tutarlı bir şekilde kurgu- lanmasını gerektirir.<br/> Bir sistemdeki simgelerde üslup birliği olmalıdır.</br></br></br></br></br><br/><br/><br/><br/>"
+        "Aciklama": "<br/>Simge tasarımında dikkat edilmesi gereken özellikler<br/>Hedef kitle kim?<br/>Simgelerde ölçü ve boyuta dikkat edilmelidir.<br/>Bağlam nedir ve simgeler hangi ortamda kullanılacaktır. Ekran tasarı- mında veya basılı olarak nerede kullanılacaktır?<br/>İletişim hede eri nelerdir?<br/>Simgeler neyi temsil etmektedir?<br/>Simgeler bir sistemin parçası mıdır?<br/>Sistem genelinde hangi tarzda çalışılacak ve tüm tasarım projesi için uygulanacak mı?<br/>Mobil medya, cep telefonu sosyal medya ortamları için kullanıma uygun mu?<br/>Bir simge sistemi tasarlamak, net bir tasarım konsepti ve ölçü, perspektif, şekiller, çizgi, renk ve doku gibi görsel öğelerin tutarlı bir şekilde kurgu- lanmasını gerektirir.<br/>Bir sistemdeki simgelerde üslup birliği olmalıdır.</br></br></br></br></br>"
     },
     {
         "SoruID": 3862004,
@@ -197,11 +197,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Benzerlik İlkesidir<br/> Nesneleri birbirine benzemesi, ritim oluşturacak şekilde grup veya motif şeklinde görünmesidir. Benzer biçimlerin grup içerisinde bir bütün olarak algılanmasına karşın, aslında birbirinden farklı oldukları durumdur"
+        "Aciklama": "Benzerlik İlkesidir<br/>Nesneleri birbirine benzemesi, ritim oluşturacak şekilde grup veya motif şeklinde görünmesidir. Benzer biçimlerin grup içerisinde bir bütün olarak algılanmasına karşın, aslında birbirinden farklı oldukları durumdur"
     },
     {
         "SoruID": 3862264,
-        "SoruMetni": "I. Yalın bir görüntüye sahip olmalı<br/>II. Akılda kalıcı olmalı<br/>III. Estetik olmalı<br/>IV . Amblem ve logo dengede olmalı<br/>V. Renk öğesi kurum kimliğini desteklemeli<br/><br/>Bir logonun başarılı olabilmesi için yukarıda sıralanan özelliklerden hangileri gerekmektedir?",
+        "SoruMetni": "I. Yalın bir görüntüye sahip olmalı<br/>II. Akılda kalıcı olmalı<br/>III. Estetik olmalı<br/>IV . Amblem ve logo dengede olmalı<br/>V. Renk öğesi kurum kimliğini desteklemeli<br/>Bir logonun başarılı olabilmesi için yukarıda sıralanan özelliklerden hangileri gerekmektedir?",
         "A": "I-III",
         "B": "I-II-III",
         "C": "I-IV-V",
@@ -217,6 +217,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br/><strong>Başarılı bir logonun özellikleri</strong><br/>Yalın bir görüntüsel özelliğe sahip olmalı.<br/>Estetik olmalı ve göze hoş gelmelidir.<br/>Farklı ölçü boyutlarında değer kaybetmemelidir.<br/>Amblem ve logoyu oluşturan unsurlarda denge ve görsel hiyerarşi<br/>gözetilmelidir.<br/>Akılda kalıcı olmalı.<br/>Baskı sürecine ve teknolojilerine uygun olarak hazırlanmalı.<br/>Renk ögesi kurum kimliğini destekleyici nitelikte ve iletilmek istenen<br/>anlama yönelik tercih edilmelidir.<br/>Tipografi ve yazı karakterleri iletilmek istenen mesaja veya anlama<br/>yönelik seçilmelidir"
+        "Aciklama": "Başarılı bir logonun özellikleri;<br/>Yalın bir görüntüsel özelliğe sahip olmalı.<br/>Estetik olmalı ve göze hoş gelmelidir.<br/>Farklı ölçü boyutlarında değer kaybetmemelidir.<br/>Amblem ve logoyu oluşturan unsurlarda denge ve görsel hiyerarşi<br/>gözetilmelidir.<br/>Akılda kalıcı olmalı.<br/>Baskı sürecine ve teknolojilerine uygun olarak hazırlanmalı.<br/>Renk ögesi kurum kimliğini destekleyici nitelikte ve iletilmek istenen<br/>anlama yönelik tercih edilmelidir.<br/>Tipografi ve yazı karakterleri iletilmek istenen mesaja veya anlama<br/>yönelik seçilmelidir<br>Doğru yanıt E şıkkıdır<br/><strong>Başarılı bir logonun özellikleri</strong><br/>Yalın bir görüntüsel özelliğe sahip olmalı.<br/>Estetik olmalı ve göze hoş gelmelidir.<br/>Farklı ölçü boyutlarında değer kaybetmemelidir.<br/>Amblem ve logoyu oluşturan unsurlarda denge ve görsel hiyerarşi<br/>gözetilmelidir.<br/>Akılda kalıcı olmalı.<br/>Baskı sürecine ve teknolojilerine uygun olarak hazırlanmalı.<br/>Renk ögesi kurum kimliğini destekleyici nitelikte ve iletilmek istenen<br/>anlama yönelik tercih edilmelidir.<br/>Tipografi ve yazı karakterleri iletilmek istenen mesaja veya anlama<br/>yönelik seçilmelidir"
     }
 ]

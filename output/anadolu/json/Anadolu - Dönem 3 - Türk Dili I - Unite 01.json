@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 3891587,
-        "SoruMetni": "Bir dilin konuşurları içinde bulundukları psikolojik duruma, resmi ya da gayri resmi ortamlara göre dili farklı biçimde kullanırlar. Eş zamanlı olarak bir dilden diğer bir dile veya bir dil değişkesinden diğer dil değişkesine geçebilirler. Buna toplum dil biliminde ........................adı verilir.<br/> Yukarıdaki paragrafta sıralı noktalı yere hangi seçenekteki kavram gelmelidir?",
+        "SoruMetni": "Bir dilin konuşurları içinde bulundukları psikolojik duruma, resmi ya da gayri resmi ortamlara göre dili farklı biçimde kullanırlar. Eş zamanlı olarak bir dilden diğer bir dile veya bir dil değişkesinden diğer dil değişkesine geçebilirler. Buna toplum dil biliminde ........................adı verilir.<br/>Yukarıdaki paragrafta sıralı noktalı yere hangi seçenekteki kavram gelmelidir?",
         "A": "Kod değiştirme",
         "B": "Edinim aygıtı",
         "C": "Ölçünleştirme",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kod değiştmedir."
+        "Aciklama": "Bu durumla çok dilliğin yaşandığı toplumlarda daha fazla karşılaşılır.<br>Kod değiştmedir."
     },
     {
         "SoruID": 3891588,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Jargon"
+        "Aciklama": "Jargon kavramı sadece argo ile karıştırılabilir."
     },
     {
         "SoruID": 3891589,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Baskça"
+        "Aciklama": "Seçenekler arasında her iki özelliği taşıyan izole dil sadece Baskça'dır."
     },
     {
         "SoruID": 3891590,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çince"
+        "Aciklama": "Çince, Tibetçe ve Vietnamca yalınlayan dillerdir."
     },
     {
         "SoruID": 3891591,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oğuz grubu Türk yazı dilleri; <strong>Türkiye Türkçesi, Azerbaycan Türkçesi, Türkmen Türkçesi ve Gagavuz</strong> Türkçesinden oluşmaktadır."
+        "Aciklama": "Özbekçe, Uygur Türkçesi grubundandır.<br>Oğuz grubu Türk yazı dilleri; <strong>Türkiye Türkçesi, Azerbaycan Türkçesi, Türkmen Türkçesi ve Gagavuz</strong> Türkçesinden oluşmaktadır."
     },
     {
         "SoruID": 3891592,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çuvaşça"
+        "Aciklama": "Bu özelliğe sahip tek yazı dili Çuvaşçadır."
     },
     {
         "SoruID": 3891593,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Halaçça"
+        "Aciklama": "Halaçça dışındakiler İran'da konuşulan Türk lehçelerinden değildir."
     },
     {
         "SoruID": 3891594,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ÖNY (Özne-Nesne- Yüklem)"
+        "Aciklama": "Türkçenin söz dizimi özne, nesne ve yüklem sıralamasına göredir. Yani ÖNY grubunda yer alır.<br>ÖNY (Özne-Nesne- Yüklem)"
     },
     {
         "SoruID": 3891595,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Toplumsal ağ, dil kullanımlarını etkiler."
+        "Aciklama": "İnsanların ait oldukları toplumsal ağ, dil kullanımlarını doğal olarak etkiler.<br>Toplumsal ağ, dil kullanımlarını etkiler."
     },
     {
         "SoruID": 3891596,
@@ -481,7 +481,7 @@
     },
     {
         "SoruID": 3891601,
-        "SoruMetni": "<br/><br/>Aşağıdaki isimlerden hangisi “kolektif bilinç”in bir toplumda “ortak” olanların temsili olduğunu söyler?",
+        "SoruMetni": "<br/>Aşağıdaki isimlerden hangisi “kolektif bilinç”in bir toplumda “ortak” olanların temsili olduğunu söyler?",
         "A": "Sapir",
         "B": "Durkheim",
         "C": "Toynbee",
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fransız sosyolog Durkheim’e göre “kolektif bilinç” bir toplumda “ortak” olanın temsilidir.  Bu nedenle doğru yanıt b şıkkıdır."
+        "Aciklama": "Fransız sosyolog Durkheim’e göre “kolektif bilinç” bir toplumda “ortak” olanın temsilidir. Bu nedenle doğru yanıt b şıkkıdır."
     },
     {
         "SoruID": 3891602,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Whorf’a göre dil sadece düşüncelerin ifade edildiği bir araç değil, aynı zamanda düşünceyi şekillendiren, bireylerin zihinsel aktivitelerini yönlendiren bir program ya da rehberdir. Düşünmek rasyonel bir eylem olsa da  dilin gramerinden bağımsız değildir. Bu nedenle doğru yanıt c şıkkıdır."
+        "Aciklama": "Whorf’a göre dil sadece düşüncelerin ifade edildiği bir araç değil, aynı zamanda düşünceyi şekillendiren, bireylerin zihinsel aktivitelerini yönlendiren bir program ya da rehberdir. Düşünmek rasyonel bir eylem olsa da dilin gramerinden bağımsız değildir. Bu nedenle doğru yanıt c şıkkıdır."
     },
     {
         "SoruID": 3891604,
@@ -561,7 +561,7 @@
     },
     {
         "SoruID": 3893473,
-        "SoruMetni": "\"Kültürel davranışlar, toplum tarafından üzerinde uzlaşı sağlanan, uzlaşı oluşturulan davranışlar bütünüdür ve bu nedenle toplumlar için bir çeşit <strong>.............  </strong> oluştururlar.\"<br/> Parçadaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+        "SoruMetni": "\"Kültürel davranışlar, toplum tarafından üzerinde uzlaşı sağlanan, uzlaşı oluşturulan davranışlar bütünüdür ve bu nedenle toplumlar için bir çeşit <strong>............. </strong> oluştururlar.\"<br/>Parçadaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
         "A": "Kolektif bilinç",
         "B": "anlaşma",
         "C": "uyum",
@@ -581,7 +581,7 @@
     },
     {
         "SoruID": 3893476,
-        "SoruMetni": "\"Konuşma ortamına ve iletişime katılanların durumuna göre tercih edilen bu konuşma stillerinin her birine ............. denir.\"<br/> Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+        "SoruMetni": "\"Konuşma ortamına ve iletişime katılanların durumuna göre tercih edilen bu konuşma stillerinin her birine ............. denir.\"<br/>Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
         "A": "Toplumsal bağlam",
         "B": "Durumsal dil türü",
         "C": "Örtük nezaket",

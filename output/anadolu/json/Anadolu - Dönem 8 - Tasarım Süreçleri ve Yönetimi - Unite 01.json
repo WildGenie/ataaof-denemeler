@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanayi Devrimi’nin getirdiği hızlı endüstrileşme, estetik ve işlevsellik arasındaki dengenin kaybolmasına yol açmış ve Arts and Crafts Hareketi’ni doğurdu."
+        "Aciklama": "Dijitalleşme ve Tasarım Süreçleri<br>Sanayi Devrimi’nin getirdiği hızlı endüstrileşme, estetik ve işlevsellik arasındaki dengenin kaybolmasına yol açmış ve Arts and Crafts Hareketi’ni doğurdu."
     },
     {
         "SoruID": 3830690,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeniden Tasarım Kuralı: Tüm tasarım süreçleri daha önceki özümlere dayanır."
+        "Aciklama": "Tasarım Düşüncesinin Temelleri<br>Yeniden Tasarım Kuralı: Tüm tasarım süreçleri daha önceki özümlere dayanır."
     },
     {
         "SoruID": 3830694,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Seçim zorunluluğundan kaçınma: Tasarımcılar, karar verme aşamasına geçmeden önce rekabet eden alternatifleri araştırır. En iyi seçenekleri bir araya getiren yeni yapılandırmalar oluşturmayı hedeflerler."
+        "Aciklama": "Tasarım Düşüncesinin Temelleri<br>Seçim zorunluluğundan kaçınma: Tasarımcılar, karar verme aşamasına geçmeden önce rekabet eden alternatifleri araştırır. En iyi seçenekleri bir araya getiren yeni yapılandırmalar oluşturmayı hedeflerler."
     },
     {
         "SoruID": 3830696,
@@ -77,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kullanıcı odaklı çözümler Tasarım Süreçlerinin Aşamalarındandır"
+        "Aciklama": "Tasarım Düşüncesinin Temelleri<br>Kullanıcı odaklı çözümler Tasarım Süreçlerinin Aşamalarındandır"
     },
     {
         "SoruID": 3830725,
-        "SoruMetni": "Aşağıdakilerden hangisi Stanford’un tasarım odaklı düşünme modeli aşamalarından biri değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Stanford’un tasarım odaklı düşünme modeli aşamalarından biri değildir?",
         "A": "Empati kurma",
         "B": "Tanımlama",
         "C": "İçgörü",
@@ -97,16 +97,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Stanford’un tasarım odaklı düşünme modeli, klasik süreci beş temel aşamada tanımlar: Problemin yeniden tanımlanması (empati kurma), ihtiyaçların belirlenmesi ve karşılaştırılması (tanımlama), beyin fırtınası (fikir üretimi), prototipleme (inşa etme) ve test etme (öğrenme)"
+        "Aciklama": "Tasarım Düşüncesi Modellerinin Evrimi<br>Stanford’un tasarım odaklı düşünme modeli, klasik süreci beş temel aşamada tanımlar: Problemin yeniden tanımlanması (empati kurma), ihtiyaçların belirlenmesi ve karşılaştırılması (tanımlama), beyin fırtınası (fikir üretimi), prototipleme (inşa etme) ve test etme (öğrenme)"
     },
     {
         "SoruID": 3830729,
-        "SoruMetni": "Aşağıdakilerden hangisi, ekipleri kullanıcı ihtiyaçlarına göre temel sorunu ifade etmeye teşvik eden, gözlem ve empatiye odaklanan, içgörülerle donanmış olarak yeni ve beklenmedik çözümler geliştiren, potansiyel yanıtları kaba prototipler hâlinde somutlaştırılarak toplanan geri bildirimler sonucunda iterasyon yoluyla geliştirilen çözümün iş ortakları, müşteriler ve paydaşlarla paylaşıldığı altı aşamalı tasarım düşüncesi modelidir?<br/>",
-        "A": "IDEO Tasarım Düşüncesi <br/>",
-        "B": "Double Diamond (4 Ds) Tasarım Düşüncesi<br/>",
-        "C": "Tasarım Sprint<br/>",
-        "D": "Liedtka Tasarım Düşüncesi <br/>",
-        "E": "Tasarım Bilişi<br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi, ekipleri kullanıcı ihtiyaçlarına göre temel sorunu ifade etmeye teşvik eden, gözlem ve empatiye odaklanan, içgörülerle donanmış olarak yeni ve beklenmedik çözümler geliştiren, potansiyel yanıtları kaba prototipler hâlinde somutlaştırılarak toplanan geri bildirimler sonucunda iterasyon yoluyla geliştirilen çözümün iş ortakları, müşteriler ve paydaşlarla paylaşıldığı altı aşamalı tasarım düşüncesi modelidir?",
+        "A": "IDEO Tasarım Düşüncesi",
+        "B": "Double Diamond (4 Ds) Tasarım Düşüncesi",
+        "C": "Tasarım Sprint",
+        "D": "Liedtka Tasarım Düşüncesi",
+        "E": "Tasarım Bilişi",
         "DogruCevap": "A",
         "DersAd": "Tasarım Süreçleri ve Yönetimi",
         "Unite": 1,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "IDEO Tasarım Düşüncesi Modeli: Bu “tasarım düşüncesi modeli”, kullanıcıları yenilikçi çözümlere yönelik altı aşamalı bir yolculuğa yönlendiren bir kılavuz gibidir. Yolculuk, ekipleri kullanıcı ihtiyaçlarına derinlemesine dalmaya ve temel sorunu ifade etmeye teşvik eden bir sorunun çerçevelenmesiyle başlar. Bir sonraki aşama, gözlem ve empatiye odaklanarak ekip üyelerini hedef kitlenin yaşam deneyimlerine daldırmayı amaçlar. Bu içgörülerle donanmış olarak, ekip yeni ve beklenmedik çözümler geliştirme heyecan verici sürecine girer. Bu potansiyel yanıtlar, kaba prototipler hâlinde somutlaştırılarak test aşamasında titiz değerlendirmelere tabi tutulur ve değerli geri bildirimler toplanır. Son olarak, iterasyon yoluyla geliştirilen çözüm, ekip tarafından anlatılarak iş ortakları, müşteriler ve paydaşlarla paylaşılır<br/>"
+        "Aciklama": "Tasarım Düşüncesi Modellerinin Evrimi<br>IDEO Tasarım Düşüncesi Modeli: Bu “tasarım düşüncesi modeli”, kullanıcıları yenilikçi çözümlere yönelik altı aşamalı bir yolculuğa yönlendiren bir kılavuz gibidir. Yolculuk, ekipleri kullanıcı ihtiyaçlarına derinlemesine dalmaya ve temel sorunu ifade etmeye teşvik eden bir sorunun çerçevelenmesiyle başlar. Bir sonraki aşama, gözlem ve empatiye odaklanarak ekip üyelerini hedef kitlenin yaşam deneyimlerine daldırmayı amaçlar. Bu içgörülerle donanmış olarak, ekip yeni ve beklenmedik çözümler geliştirme heyecan verici sürecine girer. Bu potansiyel yanıtlar, kaba prototipler hâlinde somutlaştırılarak test aşamasında titiz değerlendirmelere tabi tutulur ve değerli geri bildirimler toplanır. Son olarak, iterasyon yoluyla geliştirilen çözüm, ekip tarafından anlatılarak iş ortakları, müşteriler ve paydaşlarla paylaşılır"
     },
     {
         "SoruID": 3830731,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Belirsizlikten Kaçınma: Bir toplumun belirsiz ve öngörülemeyen durumlara karşı toleransını ifade eder. Belirsizlikten kaçınan kültürler, katı kurallar ve mutlak doğru inancı ile bu tür durumları en aza indirmeye çalışır."
+        "Aciklama": "Tasarım Süreci ve Yaratıcılık<br>Belirsizlikten Kaçınma: Bir toplumun belirsiz ve öngörülemeyen durumlara karşı toleransını ifade eder. Belirsizlikten kaçınan kültürler, katı kurallar ve mutlak doğru inancı ile bu tür durumları en aza indirmeye çalışır."
     },
     {
         "SoruID": 3830734,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anlama, taslak çizim, karar verme, prototip oluşturma ve doğrulama"
+        "Aciklama": "Tasarım Düşüncesi Modellerinin Evrimi<br>Anlama, taslak çizim, karar verme, prototip oluşturma ve doğrulama"
     },
     {
         "SoruID": 3830736,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Liedtka’ya göre tasarım süreci aslında dört temel soruyla ilgilenir: 1. Şu an ne var? 2. Ne olabilir? (Eğer?) 3. Neler etkileyici? (Vay be!) 4. Ne işe yarar?"
+        "Aciklama": "Liedtka Tasarım Düşüncesi Modeli:<br>Liedtka’ya göre tasarım süreci aslında dört temel soruyla ilgilenir: 1. Şu an ne var? 2. Ne olabilir? (Eğer?) 3. Neler etkileyici? (Vay be!) 4. Ne işe yarar?"
     },
     {
         "SoruID": 3830738,

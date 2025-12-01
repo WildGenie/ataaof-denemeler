@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kullanılabilirliğin beş temel prensiplerinden biri olan ve belirli bir görevi tamamlamak için gereken zaman ve kaynakların oranını verimlilik ile ifade ederiz"
+        "Aciklama": "Doğru yanıt verimlilik<br>Kullanılabilirliğin beş temel prensiplerinden biri olan ve belirli bir görevi tamamlamak için gereken zaman ve kaynakların oranını verimlilik ile ifade ederiz"
     },
     {
         "SoruID": 3594979,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uygulama ve iyileştirme geribildirim döngüsü adımlarındandır"
+        "Aciklama": "Doğru yanıt A'dır<br>Uygulama ve iyileştirme geribildirim döngüsü adımlarındandır"
     },
     {
         "SoruID": 3594981,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okunulabilirlik Gestalt ilkelerinden değildir."
+        "Aciklama": "Doğru yanıt E şıkkıdır.<br>Okunulabilirlik Gestalt ilkelerinden değildir."
     },
     {
         "SoruID": 3594983,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Başlıklar, alt başlıklar ve metin blokları arasındaki uygun hiyerarşi, kullanıcıların içeriği tarayabilmesini ve önemli bilgileri bulmalarını sağlayan görsel hiyerarşidir."
+        "Aciklama": "Yanıt D şıkkıdır<br>Başlıklar, alt başlıklar ve metin blokları arasındaki uygun hiyerarşi, kullanıcıların içeriği tarayabilmesini ve önemli bilgileri bulmalarını sağlayan görsel hiyerarşidir."
     },
     {
         "SoruID": 3594986,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaştığı ve her türlü düşünceye açık bir ortamda yapılan oturuma beyin fırtınası adı verilir."
+        "Aciklama": "Yanıt E şıkkıdır<br>Ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaştığı ve her türlü düşünceye açık bir ortamda yapılan oturuma beyin fırtınası adı verilir."
     },
     {
         "SoruID": 3594989,
@@ -117,13 +117,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "UX, kullanıcı araştırmaları, kullanıcı senaryoları ve kullanıcı hikayeleri gibi stratejik ve araştırma odaklı süreçleri içerirken UI, renk şemaları gibi daha görsel ve estetik özelliklere odaklanır"
+        "Aciklama": "Doğru yanıt D şıkkıdır.<br>UX, kullanıcı araştırmaları, kullanıcı senaryoları ve kullanıcı hikayeleri gibi stratejik ve araştırma odaklı süreçleri içerirken UI, renk şemaları gibi daha görsel ve estetik özelliklere odaklanır"
     },
     {
         "SoruID": 3595028,
         "SoruMetni": "Aşağıdakilerden hangisi kullanıcı deneyimi tasarım araçlarının takım içindeki iş birliğini arttırmak ve tutarlı tasarım sistemleri oluşturmak için sağladığı özelliklerden biri değildir?",
         "A": "tasarım ve prototipleme",
-        "B": "iş  birliği ve paylaşım",
+        "B": "iş birliği ve paylaşım",
         "C": "kullanabilirlik testleri",
         "D": "kullanıcılardan geri bildirim alma",
         "E": "görsel hiyerarşi",
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kullanıcı deneyimi tasarım araçlarının takım içindeki iş birliğini arttırmak ve tutarlı tasarım sistemleri oluşturmak için sağladığı özelliklerden biri görsel hiyerarşi değildir."
+        "Aciklama": "Doğru yanıt E şıkkıdır<br>Kullanıcı deneyimi tasarım araçlarının takım içindeki iş birliğini arttırmak ve tutarlı tasarım sistemleri oluşturmak için sağladığı özelliklerden biri görsel hiyerarşi değildir."
     },
     {
         "SoruID": 3595032,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Adobe XD, Adobe bünyesinde bir yazılımdır"
+        "Aciklama": "Yanıt C şıkkıdır<br>Adobe XD, Adobe bünyesinde bir yazılımdır"
     },
     {
         "SoruID": 3595034,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ürünlerin sadece işlevsel olmaktan öteye geçerek kullanıcılar üzerinde olumlu bir duygusal etki bırakmayı hedeflemesini açıklayan kavram duygu tasarımıdır"
+        "Aciklama": "Yanıt A şıkkıdır<br>Ürünlerin sadece işlevsel olmaktan öteye geçerek kullanıcılar üzerinde olumlu bir duygusal etki bırakmayı hedeflemesini açıklayan kavram duygu tasarımıdır"
     },
     {
         "SoruID": 3595036,
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Aynı doğrultuda olan ve birbirine bağlı olan unsurların, insanlar tarafından aynı gruba ait olarak algılanmasını devamlılık kavramı ifade eder"
+        "Aciklama": "Yanıt D şıkkıdır<br>Aynı doğrultuda olan ve birbirine bağlı olan unsurların, insanlar tarafından aynı gruba ait olarak algılanmasını devamlılık kavramı ifade eder"
     }
 ]

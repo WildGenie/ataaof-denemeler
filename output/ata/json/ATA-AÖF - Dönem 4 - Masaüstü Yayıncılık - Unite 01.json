@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 130742,
-        "SoruMetni": "…………….; geleneksel kalıplarla üretilen ve baskı yoluyla çoğaltılıp dağıtılan kitap, dergi, film vb. tüm görsel-işitsel içeriklerin masa başında, bilgisayar destekli programlar aracılığı ile üretilmesi, yayıma hazırlanması ve hatta yayınlanması sürecidir.<br/> <br/><strong>Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "…………….; geleneksel kalıplarla üretilen ve baskı yoluyla çoğaltılıp dağıtılan kitap, dergi, film vb. tüm görsel-işitsel içeriklerin masa başında, bilgisayar destekli programlar aracılığı ile üretilmesi, yayıma hazırlanması ve hatta yayınlanması sürecidir.<br/><strong>Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Geleneksel medya",
         "B": "Masaüstü yayıncılık",
         "C": "Yeni medya",
@@ -9,14 +9,15 @@
         "E": "Klasik yayım",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 130754,
@@ -28,14 +29,15 @@
         "E": "Güncellenebilirlik",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 130766,
@@ -47,14 +49,15 @@
         "E": "Değerlendirme",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 136808,
@@ -66,14 +69,15 @@
         "E": "Fiziki dönüşüm",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 182665,
@@ -85,14 +89,15 @@
         "E": "Grid",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 182666,
@@ -104,14 +109,15 @@
         "E": "1985-Apple",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 182667,
@@ -123,14 +129,15 @@
         "E": "Bilgisayar",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182668,
@@ -142,14 +149,15 @@
         "E": "Masaüstü yayıncılık",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 182669,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 182670,
@@ -180,14 +189,15 @@
         "E": "Görsel içerik",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182671,
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 182672,
@@ -218,14 +229,15 @@
         "E": "Materyallerin bilgisayara aktarılması - yayın içeriğinin oluşturulması -fikrin oluşturulması – çıkış - baskı",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 182674,
@@ -244,30 +256,32 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 192761,
-        "SoruMetni": "............................. kavramı en genel ifadeyle; gazete, dergi, kitap, broşür, afiş vb. yayınları bilgisayar ortamında planlayıp tasarlayarak yayıma hazırlama ya da yine bu ortamda çoğaltma ya da yayımlama sürecidir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br> <br/></br>",
+        "SoruMetni": "............................. kavramı en genel ifadeyle; gazete, dergi, kitap, broşür, afiş vb. yayınları bilgisayar ortamında planlayıp tasarlayarak yayıma hazırlama ya da yine bu ortamda çoğaltma ya da yayımlama sürecidir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
         "A": "Geleneksel Medya Yayıncılığı",
         "B": "Yeni Medya Yayıncılığı",
         "C": "Masaüstü Yayıncılık",
         "D": "Bilgisayarlı Yayıncılık",
-        "E": "Software Yayıncılık<br/>",
+        "E": "Software Yayıncılık",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 192766,
-        "SoruMetni": "Geleneksel medyanın kimliği belirsiz yığınlara, kitlelere hitap etmesine karşın, yeni medya doğrudan bireyleri hedef almaktadır.<br/> <br/><strong>Cümlesinde açıklaması verilen kavram aşağıdakilerden hangisidir?</strong><br> <br/></br>",
+        "SoruMetni": "Geleneksel medyanın kimliği belirsiz yığınlara, kitlelere hitap etmesine karşın, yeni medya doğrudan bireyleri hedef almaktadır.<br/><strong>Cümlesinde açıklaması verilen kavram aşağıdakilerden hangisidir?</strong><br/></br>",
         "A": "Eş zamansızlık",
         "B": "Ölçülebilirlik",
         "C": "Hareketlilik",
@@ -275,14 +289,15 @@
         "E": "Etkileşim",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 192767,
@@ -294,18 +309,19 @@
         "E": "Baskı açısından",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 192772,
-        "SoruMetni": "<strong> A</strong><strong>şağıdakilerden hangisi i</strong><strong>şletmeler açısından masaüstü yayıncılık avantajlarından biridir?</strong>",
+        "SoruMetni": "<strong> A</strong><strong>şağıdakilerden hangisi i</strong><strong>şletmeler açısından masaüstü yayıncılık avantajlarından biridir?</strong>",
         "A": "Dijital yayınlara ulaşma, iki taraflı iletişim",
         "B": "Çağdaş bilgisayar teknolojilerinden yararlanma",
         "C": "Giderlerden, baskı maliyetlerinden, iş gücünden ve zamandan tasarruf",
@@ -313,14 +329,15 @@
         "E": "Tüketiciler ile yakından temasta olma",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 192773,
@@ -332,14 +349,15 @@
         "E": "Başkaları ile yakından temasta olma",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 340599,
@@ -351,13 +369,14 @@
         "E": "Modem",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     }
 ]

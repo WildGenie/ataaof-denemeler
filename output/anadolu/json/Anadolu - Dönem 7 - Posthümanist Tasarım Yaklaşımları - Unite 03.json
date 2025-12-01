@@ -2,10 +2,10 @@
     {
         "SoruID": 3685355,
         "SoruMetni": "Aşağıdakilerden hangisi, sinemanın dijital çağdaki teknolojik ilerlemelerle birlikte toplumsal algı üzerindeki etkilerinden biri olarak kabul edilebilir?",
-        "A": "İzleyicilerin zaman ve mekân algısını dönüştürmesi<br/><br/>",
-        "B": "İzleyicilerin sadece eğlence amaçlı içeriklere yönelmesi<br/><br/>",
-        "C": "Sadece belgesel türlerinin yaygınlaşması<br/><br/>",
-        "D": "Sinemanın gerçeklikle ilgisini kaybetmesi<br/><br/>",
+        "A": "İzleyicilerin zaman ve mekân algısını dönüştürmesi",
+        "B": "İzleyicilerin sadece eğlence amaçlı içeriklere yönelmesi",
+        "C": "Sadece belgesel türlerinin yaygınlaşması",
+        "D": "Sinemanın gerçeklikle ilgisini kaybetmesi",
         "E": "Teknolojik gelişmelere rağmen sinemanın izleyiciler üzerinde etkisinin olmaması",
         "DogruCevap": "A",
         "DersAd": "Posthümanist Tasarım Yaklaşımları",
@@ -23,7 +23,7 @@
         "SoruID": 3685369,
         "SoruMetni": "Aşağıdaki erken dönem avangart filmlerden hangisi (1943) izleyicilere zaman ve mekân algılarını sorgulatır ve sinemanın varlık hâllerini farklı ve yenilikçi yollarla sunma kapasitesini gözler önüne serer?",
         "A": "Dogville (Lars Von Trier)",
-        "B": "Pi  (Darren Aronofsky)",
+        "B": "Pi (Darren Aronofsky)",
         "C": "Mulholland Drive (David Lynch)",
         "D": "Meshes of the Afternoon (Maya Deren)",
         "E": "Stagecoach (John Ford)",
@@ -62,7 +62,7 @@
     {
         "SoruID": 3685523,
         "SoruMetni": "Yapay zekânın (YZ) senaryo yazımı ve analizine olan katkılarıyla ilgili aşağıdakilerden hangisi doğru <strong>değildir?</strong>",
-        "A": "Yapay zekâ senaryoları daha verimli ve hızlı bir şekilde analiz edebilir.<br/><br/>",
+        "A": "Yapay zekâ senaryoları daha verimli ve hızlı bir şekilde analiz edebilir.",
         "B": "YZ, senaryodaki karakter gelişimini analiz ederek tutarsızlıkları tespit edebilir.",
         "C": "YZ, duygusal içerik ve insani dokunuş açısından yüksek düzeyde yetkinlik gösterir.",
         "D": "YZ, olay örgüsünde derinlemesine analiz yaparak anlatı yapısındaki çatışmaları tespit edebilir.",
@@ -82,10 +82,10 @@
     {
         "SoruID": 3686730,
         "SoruMetni": "Aşağıdakilerden hangisi posthümanizmin sinemada ifade bulduğu bir anlayış değildir?",
-        "A": "İnsanı ekosistemlerin ayrılmaz bir parçası olarak ele alma<br/><br/>",
-        "B": "Tüm varlıkların, insan olmayanlar da dahil olmak üzere, dikkate alınmasını savunma<br/><br/>",
-        "C": "Teknoloji-insan ilişkisini bütüncül bir yaklaşımla ele alma<br/><br/>",
-        "D": "İnsan merkezli bir alanı, merkezî olmayan ve kapsayıcı bir alana genişletme<br/><br/>",
+        "A": "İnsanı ekosistemlerin ayrılmaz bir parçası olarak ele alma",
+        "B": "Tüm varlıkların, insan olmayanlar da dahil olmak üzere, dikkate alınmasını savunma",
+        "C": "Teknoloji-insan ilişkisini bütüncül bir yaklaşımla ele alma",
+        "D": "İnsan merkezli bir alanı, merkezî olmayan ve kapsayıcı bir alana genişletme",
         "E": "Transhümanizmi ve antihümanizmi reddetme",
         "DogruCevap": "E",
         "DersAd": "Posthümanist Tasarım Yaklaşımları",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3686736,
-        "SoruMetni": "I. Posthümanizm, insanı ve çevresini anlamak için türler arasında bir bulanıklık yaratarak daha bütüncül bir anlayışa geçişi sağlar.<br/>II. Bilimkurgu türü, insanın anlamına dair yeni fikirler sunma potansiyeli nedeniyle posthümanizmle sıkça ilişkilendirilen bir türdür.<br/>III. Posthümanizm, yalnızca bilimkurgu ve korku türlerinde varlık bulur; diğer türlerle ilişkilendirilemez.<br/>IV. Posthümanist anlatılar, insanı homojen bir varlık olarak değil, doğa ve makinelerle ilişkilerle sürekli yeniden yaratılan heterojen bir varlık olarak ele alır.<br/> <strong>Yukarıdaki ifadelerden hangisi ve/veya hangileri posthümanizmin sinemadaki yansımaları ile ilgili doğru çıkarımlardır?</strong>",
+        "SoruMetni": "I. Posthümanizm, insanı ve çevresini anlamak için türler arasında bir bulanıklık yaratarak daha bütüncül bir anlayışa geçişi sağlar.<br/>II. Bilimkurgu türü, insanın anlamına dair yeni fikirler sunma potansiyeli nedeniyle posthümanizmle sıkça ilişkilendirilen bir türdür.<br/>III. Posthümanizm, yalnızca bilimkurgu ve korku türlerinde varlık bulur; diğer türlerle ilişkilendirilemez.<br/>IV. Posthümanist anlatılar, insanı homojen bir varlık olarak değil, doğa ve makinelerle ilişkilerle sürekli yeniden yaratılan heterojen bir varlık olarak ele alır.<br/><strong>Yukarıdaki ifadelerden hangisi ve/veya hangileri posthümanizmin sinemadaki yansımaları ile ilgili doğru çıkarımlardır?</strong>",
         "A": "(I) ve (II)",
         "B": "(II), (III) ve (IV)",
         "C": "(I), (II) ve (IV)",
@@ -260,8 +260,28 @@
         "Aciklama": "Artırılmış Gerçeklik (AR): Gerçek dünyanın üzerine bilgisayar tarafından oluşturulan dijital içerikler ekleyen teknoloji. AR, fiziksel ortamı dijital verilerle zenginleştirerek örneğin Pokemon Go gibi uygulamalarda kullanılır."
     },
     {
+        "SoruID": 3839817,
+        "SoruMetni": "Makine öğrenimi modelleri, senaryolarda tekrar eden fikirleri ve temaları tanımlayabilir, hemen fark edilmeyen daha derin katmanları ortaya çıkarabilir şeklindeki tanımlama aşağıdakilerden hangisidir?",
+        "A": "Yapı Tanımlama",
+        "B": "Tema Tanımlama",
+        "C": "Karakter Tanımlama",
+        "D": "Senaryo Tanımlama",
+        "E": "Yapay Zeka Tanımlama",
+        "DogruCevap": "B",
+        "DersAd": "Posthümanist Tasarım Yaklaşımları",
+        "Unite": 3,
+        "Somestre": "7",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:12:02.634142",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Tema Tanımlama: Makine öğrenimi modelleri, senaryolarda tekrar eden fikirleri ve temaları tanımlayabilir, hemen fark edilmeyen daha derin katmanları ortaya çıkarabilir."
+    },
+    {
         "SoruID": 3839819,
-        "SoruMetni": "Aşağıdakilerden hangisi Posthümanist ögeler taşıyan filmlerden George A. Miller tarafından çekilen dört filmlik bir seri olan Mad Max filmlerinden değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Posthümanist ögeler taşıyan filmlerden George A. Miller tarafından çekilen dört filmlik bir seri olan Mad Max filmlerinden değildir?",
         "A": "Mad Max - 1979",
         "B": "Mad Max 2: The Road Warrior - 1981",
         "C": "Mad Max Beyond Thunderdome - 1985",
@@ -317,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanal üretim genellikle şu teknolojileri içerir:<br/> 1. Gerçek Zamanlı Oyun Motorları: Unreal Engine veya Unity gibi oyun motorları, gerçek zamanlı olarak görsel efektler ve sanal ortamlar yaratmak için kullanılır. Bu motorlar, yönetmenlere ve diğer ekip üyelerine, henüz çekim yapılırken bile son görüntünün nasıl olacağını görmelerini sağlar.<br/> 2. LED Duvarlar ve Volume: Geniş LED ekranlar, sette gerçek mekânlar veya bilgisayar<br/> tarafından oluşturulan sanal ortamları göstermek için kullanılır. Bu teknoloji, aktörlerin ve ekip üyelerinin, gerçek dünya ile sanal dünya arasında doğal bir etkileşim içinde olmalarına olanak tanır. “The Mandalorian” dizisi bu teknolojinin öne çıkan kullanımlarından biridir.<br/> 3. Hareket Yakalama ve Sanal Kamera Sistemleri: Hareket yakalama, aktörlerin hareketlerini dijital karakterlere aktarmak için kullanılır. Sanal kamera sistemleri ise yönetmenlere ve görüntü yönetmenlerine sanal ortamda kamera hareketlerini gerçek zamanlı olarak kontrol etme imkânı verir.<br/> 4. Sanal Setler ve Ön Görselleştirme: Sanal setler, yönetmenlerin ve tasarımcıların set tasarımı üzerinde daha önce çalışmalarını ve denemelerini yapmalarını sağlar. Ön görselleştirme ise sahnelerin nasıl çekileceği ve sahne geçişlerinin nasıl olacağına dair detaylı bir ön izleme sunar."
+        "Aciklama": "Sanal üretim genellikle şu teknolojileri içerir:<br/>1. Gerçek Zamanlı Oyun Motorları: Unreal Engine veya Unity gibi oyun motorları, gerçek zamanlı olarak görsel efektler ve sanal ortamlar yaratmak için kullanılır. Bu motorlar, yönetmenlere ve diğer ekip üyelerine, henüz çekim yapılırken bile son görüntünün nasıl olacağını görmelerini sağlar.<br/>2. LED Duvarlar ve Volume: Geniş LED ekranlar, sette gerçek mekânlar veya bilgisayar<br/>tarafından oluşturulan sanal ortamları göstermek için kullanılır. Bu teknoloji, aktörlerin ve ekip üyelerinin, gerçek dünya ile sanal dünya arasında doğal bir etkileşim içinde olmalarına olanak tanır. “The Mandalorian” dizisi bu teknolojinin öne çıkan kullanımlarından biridir.<br/>3. Hareket Yakalama ve Sanal Kamera Sistemleri: Hareket yakalama, aktörlerin hareketlerini dijital karakterlere aktarmak için kullanılır. Sanal kamera sistemleri ise yönetmenlere ve görüntü yönetmenlerine sanal ortamda kamera hareketlerini gerçek zamanlı olarak kontrol etme imkânı verir.<br/>4. Sanal Setler ve Ön Görselleştirme: Sanal setler, yönetmenlerin ve tasarımcıların set tasarımı üzerinde daha önce çalışmalarını ve denemelerini yapmalarını sağlar. Ön görselleştirme ise sahnelerin nasıl çekileceği ve sahne geçişlerinin nasıl olacağına dair detaylı bir ön izleme sunar."
     },
     {
         "SoruID": 3839823,
@@ -342,8 +362,8 @@
     {
         "SoruID": 3839824,
         "SoruMetni": "Aşağıdakilerden hangisi animasyon filmi değildir?",
-        "A": "Mad Max Fury Road - 2015",
-        "B": "Güzel ve Çirkin  - 1991",
+        "A": "Mad Max Fury Road - 2015",
+        "B": "Güzel ve Çirkin - 1991",
         "C": "Oyuncak Hikayesi - 1995",
         "D": "Cars - 2016",
         "E": "Oyuncak Hikayesi - 2019",
@@ -357,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ciddi bir çalışma alanı olarak uzun süre ihmal edilmiş olan çizgi film, çocuklar için basit eğlence aracı  olarak görülmekten çıkıp savaştan ve ayrımcılıktan tutun da teknolojik yenilikler ve çevre krizi gibi pek çok soruna eğilebilen olgunlaşmış görsel bir tür olarak büyümüş ve gelişmiştir (Ağın, 2022) Animasyon filmleri, cansız varlıkları antropomorfize ederek onlara insan özellikleri atfetme geleneği, posthümanist düşünce ile zengin bir diyalog kurmaktadır. Güzel ve Çirkin (1991) Disney’in bu klasik  animasyonunda, bir büyü sonucu canlanan ev eşyaları önemli roller oynar. Bu eşyalar; bir  saat, bir çaydanlık ve bir şamdan gibi nesnelerdir ve her biri kendi karakteristik özelliklerine sahiptir. İnsanla iletişim hâlindedirler. Oyuncak Hikayesi Serisi (1995, 1999, 2010,2019). Bu filmde oyuncaklar canlanır ve kendi yaşamları, ilişkileri vardır. Cars (2006, 2011, 2017) serisinde arabalar insan özelliklerine sahip olarak tasvir edilir."
+        "Aciklama": "Ciddi bir çalışma alanı olarak uzun süre ihmal edilmiş olan çizgi film, çocuklar için basit eğlence aracı olarak görülmekten çıkıp savaştan ve ayrımcılıktan tutun da teknolojik yenilikler ve çevre krizi gibi pek çok soruna eğilebilen olgunlaşmış görsel bir tür olarak büyümüş ve gelişmiştir (Ağın, 2022) Animasyon filmleri, cansız varlıkları antropomorfize ederek onlara insan özellikleri atfetme geleneği, posthümanist düşünce ile zengin bir diyalog kurmaktadır. Güzel ve Çirkin (1991) Disney’in bu klasik animasyonunda, bir büyü sonucu canlanan ev eşyaları önemli roller oynar. Bu eşyalar; bir saat, bir çaydanlık ve bir şamdan gibi nesnelerdir ve her biri kendi karakteristik özelliklerine sahiptir. İnsanla iletişim hâlindedirler. Oyuncak Hikayesi Serisi (1995, 1999, 2010,2019). Bu filmde oyuncaklar canlanır ve kendi yaşamları, ilişkileri vardır. Cars (2006, 2011, 2017) serisinde arabalar insan özelliklerine sahip olarak tasvir edilir."
     },
     {
         "SoruID": 3839825,
@@ -401,7 +421,7 @@
     },
     {
         "SoruID": 3846154,
-        "SoruMetni": "Üstün görüntü kalitesi ve dinamik aralık sunarak sinematografi alanında önemli değişiklikler yapan RED ve ARRI Alexa gibi kameralar, hangi yıllarda piyasaya sürülmüştür?",
+        "SoruMetni": "Üstün görüntü kalitesi ve dinamik aralık sunarak sinematografi alanında önemli değişiklikler yapan RED ve ARRI Alexa gibi kameralar, hangi yıllarda piyasaya sürülmüştür?",
         "A": "1990'ların başı",
         "B": "1990'ların sonu",
         "C": "2000'lerin başı",
@@ -421,7 +441,7 @@
     },
     {
         "SoruID": 3846155,
-        "SoruMetni": "Aşağıdakilerden hangisi çoğunlukla kişisel kullanıcılara yönelik olarak sunulan ve <strong>ücretsiz</strong> olarak erişilebilen görüntü işeme yazılımlarından biri <strong>değildir?</strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi çoğunlukla kişisel kullanıcılara yönelik olarak sunulan ve <strong>ücretsiz</strong> olarak erişilebilen görüntü işeme yazılımlarından biri <strong>değildir?</strong>",
         "A": "OpenShot",
         "B": "VSDS Free Video Editor",
         "C": "Lightworks",
@@ -441,7 +461,7 @@
     },
     {
         "SoruID": 3846156,
-        "SoruMetni": "Aşağıdaklerden hangisi, sesin yalnızca yatay düzlemde değil, dikey düzlemde de hareket etmesine olanak tanıyan bir “üç boyutlu” ses deneyimi sunan ileri düzey bir ses formatıdır?",
+        "SoruMetni": "Aşağıdaklerden hangisi, sesin yalnızca yatay düzlemde değil, dikey düzlemde de hareket etmesine olanak tanıyan bir “üç boyutlu” ses deneyimi sunan ileri düzey bir ses formatıdır?",
         "A": "Dolby Atmos",
         "B": "Surround Sound",
         "C": "Digital Stereo",
@@ -521,7 +541,7 @@
     },
     {
         "SoruID": 3846178,
-        "SoruMetni": "Aşağıdakilerden hangisi insani niteliklerin başka bir varlığa atfedilmesini ifade eden kavramdır?",
+        "SoruMetni": "Aşağıdakilerden hangisi insani niteliklerin başka bir varlığa atfedilmesini ifade eden kavramdır?",
         "A": "Antropozofi",
         "B": "Antroposen",
         "C": "Antropomorfizm",
@@ -561,7 +581,7 @@
     },
     {
         "SoruID": 3846185,
-        "SoruMetni": ".......................................  terimi sinema ve video oyunları gibi daha önceki medyalarda kullanılan “yoğunluk” ve “içine alma” durumunu tanımlamak için kullanılmıştır. Sinema, Cinerama, IMAX ve 3 boyutlu gibi teknolojilerle bu deneyimi pekiştirirken video oyunları da 3D dünyalar ve interaktivite ile benzer bir deneyimi sunmaktadır.<br/><br/>Yukarıdaki paragrafta boş bırakılan kısmı aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "....................................... terimi sinema ve video oyunları gibi daha önceki medyalarda kullanılan “yoğunluk” ve “içine alma” durumunu tanımlamak için kullanılmıştır. Sinema, Cinerama, IMAX ve 3 boyutlu gibi teknolojilerle bu deneyimi pekiştirirken video oyunları da 3D dünyalar ve interaktivite ile benzer bir deneyimi sunmaktadır.<br/>Yukarıdaki paragrafta boş bırakılan kısmı aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "Genişletilmiş Sinema",
         "B": "Etkileşimli Sinema",
         "C": "Panoramik Sinema",

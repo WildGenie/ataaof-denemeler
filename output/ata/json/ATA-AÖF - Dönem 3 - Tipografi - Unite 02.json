@@ -16,7 +16,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 323463,
@@ -35,7 +36,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 323464,
@@ -54,7 +56,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 323465,
@@ -73,7 +76,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 323466,
@@ -92,7 +96,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 323468,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 323469,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 323471,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 323472,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 323473,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 326075,
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 326708,
@@ -225,11 +236,12 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 327246,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi Roma El Yazısı harflerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi Roma El Yazısı harflerinden biri <u>değildir</u>?</strong>",
         "A": "Kare kapital harfler",
         "B": "Gündelik yazı",
         "C": "Uncialler",
@@ -244,11 +256,12 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 327247,
-        "SoruMetni": "<strong>Kesik uçla veya kaz tüyü kalemle yazılan ve ilk örnekleri IV. yüzyılda Roma el yazmalarında görülen yazı örneği aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Kesik uçla veya kaz tüyü kalemle yazılan ve ilk örnekleri IV. yüzyılda Roma el yazmalarında görülen yazı örneği aşağıdakilerden hangisidir?</strong>",
         "A": "Kare kapital harfler",
         "B": "Gündelik yazı",
         "C": "Runik alfabe",
@@ -263,11 +276,12 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 327248,
-        "SoruMetni": "I. İrlanda veya Anglo-Sakson stili<br/> <br/>II. Merovenj ve Doğu Frenk stili<br> <br/>III. Lombardik ve Vizigot stili<br> <br/><strong>Yukarıdaki ifadelerden hagisi ya da hangileri ulusal el yazısı stillerindendir?</strong><br> <br/></br></br></br>",
+        "SoruMetni": "I. İrlanda veya Anglo-Sakson stili<br/>II. Merovenj ve Doğu Frenk stili<br/>III. Lombardik ve Vizigot stili<br/><strong>Yukarıdaki ifadelerden hagisi ya da hangileri ulusal el yazısı stillerindendir?</strong><br/></br></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "II ve III",
@@ -282,7 +296,8 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 363208,
@@ -301,7 +316,8 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 363212,
@@ -320,11 +336,12 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 363216,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi hızlı ve kolay yazılabilen yuvarlak majüskül harflerdir?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi hızlı ve kolay yazılabilen yuvarlak majüskül harflerdir?</strong>",
         "A": "Gündelik yazı",
         "B": "Uncialler",
         "C": "Rustik yazı",
@@ -339,7 +356,8 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 363222,
@@ -358,7 +376,8 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 370274,
@@ -377,7 +396,8 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 370275,
@@ -396,7 +416,8 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 370277,
@@ -415,7 +436,8 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 370279,
@@ -434,7 +456,8 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 370282,
@@ -453,7 +476,8 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 370283,
@@ -472,6 +496,7 @@
         "GelYer": 1,
         "DersId": 501,
         "OBSDersId": 82518,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     }
 ]

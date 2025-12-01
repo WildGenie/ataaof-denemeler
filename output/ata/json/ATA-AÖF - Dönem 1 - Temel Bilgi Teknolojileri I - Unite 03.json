@@ -16,7 +16,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376256,
@@ -35,11 +36,12 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376257,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi bir işletim sistemi <u>değildir</u>?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi bir işletim sistemi <u>değildir</u>?</strong>",
         "A": "Windows",
         "B": "Linux",
         "C": "Pardus",
@@ -54,15 +56,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376258,
-        "SoruMetni": "<strong>Dünyadaki kişisel bilgisayarlarda en çok kullanılan işletim sistemi hangisidir?</strong><br/>",
-        "A": "Android<br/>",
-        "B": "Ubuntu<br/>",
-        "C": "MacOS<br/>",
-        "D": "Linux<br/>",
+        "SoruMetni": "<strong>Dünyadaki kişisel bilgisayarlarda en çok kullanılan işletim sistemi hangisidir?</strong>",
+        "A": "Android",
+        "B": "Ubuntu",
+        "C": "MacOS",
+        "D": "Linux",
         "E": "Windows",
         "DogruCevap": "E",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -73,15 +76,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376259,
-        "SoruMetni": "<strong>Windows 11 ile sunulan ve görev çubuğuna entegre edilmiş güncel, aktüel bilgilere anında erişim imkanı veren kısayollara ne isim verilir?</strong><br/>",
-        "A": "Widget<br/>",
-        "B": "Görev çubuğu<br/>",
-        "C": "Sanal masaüstü<br/>",
-        "D": "Adres çubuğu<br/>",
+        "SoruMetni": "<strong>Windows 11 ile sunulan ve görev çubuğuna entegre edilmiş güncel, aktüel bilgilere anında erişim imkanı veren kısayollara ne isim verilir?</strong>",
+        "A": "Widget",
+        "B": "Görev çubuğu",
+        "C": "Sanal masaüstü",
+        "D": "Adres çubuğu",
         "E": "Başlangıç",
         "DogruCevap": "A",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -92,15 +96,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376260,
-        "SoruMetni": "<strong>Macintosh adıyla bilinen bilgisayarlara özel olarak üretilen işletim sisteminin adı nedir?</strong><br/>",
-        "A": "Linux<br/>",
-        "B": "UNIX<br/>",
-        "C": "MacOS<br/>",
-        "D": "Pardus<br/>",
+        "SoruMetni": "<strong>Macintosh adıyla bilinen bilgisayarlara özel olarak üretilen işletim sisteminin adı nedir?</strong>",
+        "A": "Linux",
+        "B": "UNIX",
+        "C": "MacOS",
+        "D": "Pardus",
         "E": "Windows 11",
         "DogruCevap": "C",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376261,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376262,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376263,
@@ -168,15 +176,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376264,
-        "SoruMetni": "<strong>Dünyadaki mobil cihazlarda en çok kullanılan işletim sistemi hangisidir?</strong><br/>",
-        "A": "Android<br/>",
-        "B": "Windows<br/>",
-        "C": "MacOS<br/>",
-        "D": "iOS<br/>",
+        "SoruMetni": "<strong>Dünyadaki mobil cihazlarda en çok kullanılan işletim sistemi hangisidir?</strong>",
+        "A": "Android",
+        "B": "Windows",
+        "C": "MacOS",
+        "D": "iOS",
         "E": "Pardus",
         "DogruCevap": "A",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -187,11 +196,12 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376644,
-        "SoruMetni": "I. Transistörlerin geliştirilmesi ile bilgisayar teknolojisi yeni bir döneme girmiştir. <br/> <br/>II. Entegre devreler ile boyutları küçülen bilgisayarlar daha çok kişi tarafından ulaşılabilir olmuştur. <br> <br/>III. Bilgisayarlar entegre devre ve yonga setlerinin etkisiyle daha da küçülmüş ve yaygınlaşmıştır.<br> <br/><strong>İşletim sistemlerinin tarihçesi ile ilgili olarak yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?</strong></br></br>",
+        "SoruMetni": "I. Transistörlerin geliştirilmesi ile bilgisayar teknolojisi yeni bir döneme girmiştir. <br/>II. Entegre devreler ile boyutları küçülen bilgisayarlar daha çok kişi tarafından ulaşılabilir olmuştur. <br/>III. Bilgisayarlar entegre devre ve yonga setlerinin etkisiyle daha da küçülmüş ve yaygınlaşmıştır.<br/><strong>İşletim sistemlerinin tarihçesi ile ilgili olarak yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -206,11 +216,12 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376649,
-        "SoruMetni": "I. TÜBİTAK-ULAKBİM tarafından desteklenmektedir.<br/> <br/>II. Kurulmadan dahi çalışmaya başlayabilir.<br> <br/>III. Birçok dil desteği vardır.<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri Pardus İşletim Sistemi'nin öne çıkan özellikleri arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. TÜBİTAK-ULAKBİM tarafından desteklenmektedir.<br/>II. Kurulmadan dahi çalışmaya başlayabilir.<br/>III. Birçok dil desteği vardır.<br/><strong>Yukarıdakilerden hangisi ya da hangileri Pardus İşletim Sistemi'nin öne çıkan özellikleri arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376650,
@@ -244,7 +256,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376651,
@@ -263,7 +276,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 392886,
@@ -282,7 +296,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 394259,
@@ -301,6 +316,7 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     }
 ]

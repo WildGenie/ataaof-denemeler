@@ -38,7 +38,7 @@
     - D-) 5
     - E-) 6
 
-    > **Açıklama:** Sens (2021) tarafından ortaya konan TRADE Sistemi (Conceptual framework of transmedia designTRADE System), transmedya tasarımını, her biri alt bileşenlere sahip üç boyut üzerinden ele alan bir kavramsal çerçevedir.  Bu boyutlar:  Endüstriyel ve pazarlama boyutu; Bilgi ve iletişim boyutu ve Estetik ve deneyimsel boyuttur.
+    > **Açıklama:** Sens (2021) tarafından ortaya konan TRADE Sistemi (Conceptual framework of transmedia designTRADE System), transmedya tasarımını, her biri alt bileşenlere sahip üç boyut üzerinden ele alan bir kavramsal çerçevedir. Bu boyutlar: Endüstriyel ve pazarlama boyutu; Bilgi ve iletişim boyutu ve Estetik ve deneyimsel boyuttur.
 
     ***
 1. High Flyers projesinin manifestosunun maddeleri arasında yer alan "tavşan deliği" kavramı hangisinde doğru olarak izah edilmiştir?
@@ -61,7 +61,7 @@
     > **Açıklama:** İş Birlikli Çalışma (Collaborative Work): Hikâyenin yaratım sürecinde farklı disiplinlerden insanların bir araya gelerek çalışması gerektiğini vurgular.
 
     ***
-1. Hangisi, Pratten'in  Transmedya Hikâyeciliğin 3K’sı (The Three C’s of<br />Transmedia Storytelling) olarak adlandırdığı içeriği doğru olarak sıralamıştır?
+1. Hangisi, Pratten'in Transmedya Hikâyeciliğin 3K’sı (The Three C’s of<br />Transmedia Storytelling) olarak adlandırdığı içeriği doğru olarak sıralamıştır?
     - A-) Plot / Kolaylık / Düğüm
     - B-) Hikaye / Karakterler / Fanlar
     - C-) Hikaye / Karakterler / Olay
@@ -84,7 +84,7 @@
     > • Birlikte Geliştirme: Hayranların hikâyenin yaratım sürecinde aktif rol almasına olanak tanıyan mekanizmalar (fan kurguları, fikir yarışmaları vb.) hikâyeye yeni boyutlar katabilir.
 
     ***
-1. Pratten’a göre transmedya hikâyeciliği kaç türde incelenebilir?
+1. Pratten’a göre transmedya hikâyeciliği kaç türde incelenebilir?
     - A-) 4
     - B-) 7
     - C-) 2
@@ -192,7 +192,7 @@
     - D-) Kullanıcıların yapay zekâ tarafından üretilen içerikleri anlamakta zorlanması
     - E-) Yapay zekânın görsel iletişimde kullanılan geleneksel yöntemleri tamamen devre dışı bırakması
 
-    > **Açıklama:** Yapay zekâ tarafından üretilen içeriklerin sahiplik hakları, tasarım ve sanat  dünyasında önemli etik kaygılar yaratmaktadır. Özellikle, yapay zekâ tarafından üretilen görsellerin kime ait olduğu ve telif hakkı konularında net bir yasal çerçeve olmaması, bu konuda belirsizliklere yol açmaktadır. Doğru cevap B'dir.
+    > **Açıklama:** Yapay zekâ tarafından üretilen içeriklerin sahiplik hakları, tasarım ve sanat dünyasında önemli etik kaygılar yaratmaktadır. Özellikle, yapay zekâ tarafından üretilen görsellerin kime ait olduğu ve telif hakkı konularında net bir yasal çerçeve olmaması, bu konuda belirsizliklere yol açmaktadır. Doğru cevap B'dir.
 
     ***
 1. Aşağıdakilerden hangisi hikaye anlatıcısı olarak kullanılan yapay zekanın oluşturduğu risklerden birisi **değildir?**
@@ -218,44 +218,44 @@
 
     ***
 ## Unite 3
-1. Bilgisayarlar ile yaratılan gerçeklikleri tanımlamak için genişletilmiş gerçeklikten önce Paul Milgram ve Fumio Kishino’nun öne sürdüğü gerçeklik skalası kullanılmıştır. Bu skala kaç aşamadan oluşmaktadır?
+1. Bilgisayarlar ile yaratılan gerçeklikleri tanımlamak için genişletilmiş gerçeklikten önce Paul Milgram ve Fumio Kishino’nun öne sürdüğü gerçeklik skalası kullanılmıştır. Bu skala kaç aşamadan oluşmaktadır?
     - **Cevap A-) 4**
     - B-) 2
     - C-) 5
     - D-) 3
     - E-) 6
 
-    > **Açıklama:** Bilgisayarlar ile yaratılan gerçeklikleri tanımlamak için genişletilmiş gerçeklikten önce Paul Milgram ve Fumio Kishino’nun öne sürdüğü gerçeklik skalası kullanılmıştır. Bu skala dört aşamadan oluşmaktadır. Dolayısıyla cevap A şıkkıdır.
+    > **Açıklama:** Bilgisayarlar ile yaratılan gerçeklikleri tanımlamak için genişletilmiş gerçeklikten önce Paul Milgram ve Fumio Kishino’nun öne sürdüğü gerçeklik skalası kullanılmıştır. Bu skala dört aşamadan oluşmaktadır. Dolayısıyla cevap A şıkkıdır.
 
     ***
-1. Genişletilmiş gerçekliğin transmedya anlatıları kapsamında değerlendirebilmesi için bu ortamın doğası kaç açıdan kavranmalıdır ?
+1. Genişletilmiş gerçekliğin transmedya anlatıları kapsamında değerlendirebilmesi için bu ortamın doğası kaç açıdan kavranmalıdır ?
     - A-) 5
     - **Cevap B-) 2**
     - C-) 6
     - D-) 4
     - E-) 3
 
-    > **Açıklama:** Genişletilmiş gerçekliğin transmedya anlatıları kapsamında değerlendirebilmesi için bu ortamın doğası iki açıdan kavranmalıdır. Dolayısıyla cevap B şıkkıdır.
+    > **Açıklama:** Genişletilmiş gerçekliğin transmedya anlatıları kapsamında değerlendirebilmesi için bu ortamın doğası iki açıdan kavranmalıdır. Dolayısıyla cevap B şıkkıdır.
 
     ***
-1. İnsanların birbirleri veya kitleler ile iletişime geçmek için kullandığı aracılara ortam/medyum denilmektedir. Örnek olarak radyo bir ortamdır. Aşağıdaki hangi ortamlar iletişim çalışmaları altında “geleneksel ortamlar” veya “geleneksel medya” olarak adlandırılmaktadırlar ?<br />i) Televizyon,<br />ii) Kitaplar,<br />iii) Basılı medya,<br />iv) Dijital platformlar
+1. İnsanların birbirleri veya kitleler ile iletişime geçmek için kullandığı aracılara ortam/medyum denilmektedir. Örnek olarak radyo bir ortamdır. Aşağıdaki hangi ortamlar iletişim çalışmaları altında “geleneksel ortamlar” veya “geleneksel medya” olarak adlandırılmaktadırlar ?<br />i) Televizyon,<br />ii) Kitaplar,<br />iii) Basılı medya,<br />iv) Dijital platformlar
     - A-) i ve ii
     - B-) ii ve iii
     - **Cevap C-) i, ii ve iii**
     - D-) i, ii ve iv
     - E-) ii, iii ve iv
 
-    > **Açıklama:** İnsanların birbirleri veya kitleler ile iletişime geçmek için kullandığı aracılara ortam/medyum denilmektedir. Örnek olarak radyo bir ortamdır. Televizyon, kitaplar, basılı medya gibi ortamlar, iletişim çalışmaları altında “geleneksel ortamlar” veya “geleneksel medya” olarak adlandırılmaktadırlar. Dolayısıyla cevap C şıkkıdır.
+    > **Açıklama:** İnsanların birbirleri veya kitleler ile iletişime geçmek için kullandığı aracılara ortam/medyum denilmektedir. Örnek olarak radyo bir ortamdır. Televizyon, kitaplar, basılı medya gibi ortamlar, iletişim çalışmaları altında “geleneksel ortamlar” veya “geleneksel medya” olarak adlandırılmaktadırlar. Dolayısıyla cevap C şıkkıdır.
 
     ***
-1. Literatürde birçok farklı tanım ve özellik sıralamaları bulunsa da Gary Zabel’ın sanal dünyalar için belirlediği genel özellikler genişletilmiş gerçekliğin ve anlatısının doğasını gözler önüne sermeye en yakın olanıdır. Bu özellikler kaç maddede tanımlanmıştır ?
+1. Literatürde birçok farklı tanım ve özellik sıralamaları bulunsa da Gary Zabel’ın sanal dünyalar için belirlediği genel özellikler genişletilmiş gerçekliğin ve anlatısının doğasını gözler önüne sermeye en yakın olanıdır. Bu özellikler kaç maddede tanımlanmıştır ?
     - A-) 4
     - B-) 2
     - C-) 3
     - **Cevap D-) 6**
     - E-) 5
 
-    > **Açıklama:** Literatürde birçok farklı tanım ve özellik sıralamaları bulunsa da Gary Zabel’ın sanal dünyalar için belirlediği genel özellikler genişletilmiş gerçekliğin ve anlatısının doğasını gözler önüne sermeye en yakın olanıdır. Bu özellikler sırasıyla aşağıdaki maddelerde tanımlanmıştır:
+    > **Açıklama:** Literatürde birçok farklı tanım ve özellik sıralamaları bulunsa da Gary Zabel’ın sanal dünyalar için belirlediği genel özellikler genişletilmiş gerçekliğin ve anlatısının doğasını gözler önüne sermeye en yakın olanıdır. Bu özellikler sırasıyla aşağıdaki maddelerde tanımlanmıştır:
     > • Gömülme (Immersion)
     > • Etkileşim (Interaction)
     > • Kimliğin muğlaklığı (Ambiguity of Identity)
@@ -265,64 +265,64 @@
     > Dolayısıyla cevap D şıkkıdır.
 
     ***
-1. Gobbins parkuru yüzyıldan fazla bir zaman önce tasarlanmış olsa da hangi yüzyılın uzamsal anlatılarına ışık tutmaktadır ?
-    - A-) 20. yüzyıl
-    - B-) 17.yüzyıl
-    - C-) 19. yüzyıl
-    - D-) 22. yüzyıl
-    - **Cevap E-) 21. yüzyıl**
+1. Gobbins parkuru yüzyıldan fazla bir zaman önce tasarlanmış olsa da hangi yüzyılın uzamsal anlatılarına ışık tutmaktadır ?
+    - A-) 20\. yüzyıl
+    - B-) 17\.yüzyıl
+    - C-) 19\. yüzyıl
+    - D-) 22\. yüzyıl
+    - **Cevap E-) 21\. yüzyıl**
 
-    > **Açıklama:** Gobbins parkuru yüzyıldan fazla bir zaman önce tasarlanmış olsa da 21. yüzyılın uzamsal anlatılarına ışık tutmaktadır. Dolayısıyla cevap E şıkkıdır.
+    > **Açıklama:** Gobbins parkuru yüzyıldan fazla bir zaman önce tasarlanmış olsa da 21. yüzyılın uzamsal anlatılarına ışık tutmaktadır. Dolayısıyla cevap E şıkkıdır.
 
     ***
-1. Uzamsal anlatıların yapısının anlaşılması, genişletilmiş gerçeklik anlatıları için son derece önemlidir. Genişletilmiş gerçekliğin kullanıcılarının karşısına anlatıların uzam ile ilişkisi, çoğu anlatıda ön plana çıkan en çok kaç alt türü vardır ?
+1. Uzamsal anlatıların yapısının anlaşılması, genişletilmiş gerçeklik anlatıları için son derece önemlidir. Genişletilmiş gerçekliğin kullanıcılarının karşısına anlatıların uzam ile ilişkisi, çoğu anlatıda ön plana çıkan en çok kaç alt türü vardır ?
     - **Cevap A-) 2**
     - B-) 6
     - C-) 4
     - D-) 3
     - E-) 5
 
-    > **Açıklama:** Uzamsal anlatıların yapısının anlaşılması, genişletilmiş gerçeklik anlatıları için son derece önemlidir. Genişletilmiş gerçekliğin kullanıcılarının karşısına en çok çıkan iki alt türü olan artırılmış gerçeklik ve sanal gerçeklik anlatılarının uzam ile ilişkisi, çoğu anlatıda ön plana çıkmaktadır. Dolayısıyla cevap A şıkkıdır.
+    > **Açıklama:** Uzamsal anlatıların yapısının anlaşılması, genişletilmiş gerçeklik anlatıları için son derece önemlidir. Genişletilmiş gerçekliğin kullanıcılarının karşısına en çok çıkan iki alt türü olan artırılmış gerçeklik ve sanal gerçeklik anlatılarının uzam ile ilişkisi, çoğu anlatıda ön plana çıkmaktadır. Dolayısıyla cevap A şıkkıdır.
 
     ***
-1. Yeni medya anlatıları konusunda öncül ve en önemli kaynaklardan biri “Hamlet on the Holodeck” (2016) (Holodeck’de Hamlet) isimli kitaptır. Bu kitabın yazarı aşağıdaki hangi seçenekte belirtilmiştir?
+1. Yeni medya anlatıları konusunda öncül ve en önemli kaynaklardan biri “Hamlet on the Holodeck” (2016) (Holodeck’de Hamlet) isimli kitaptır. Bu kitabın yazarı aşağıdaki hangi seçenekte belirtilmiştir?
     - A-) Ivan Sutherland
     - **Cevap B-) Janet H. Murray**
     - C-) Tricia Austin
     - D-) Gary Zabel
     - E-) Ralph Koster
 
-    > **Açıklama:** Yeni medya anlatıları konusunda öncül ve en önemli kaynaklardan biri Janet H. Murray’in “Hamlet on the Holodeck” (2016) (Holodeck’de Hamlet) isimli kitabıdır. Dolayısıyla cevap B şıkkıdır.
+    > **Açıklama:** Yeni medya anlatıları konusunda öncül ve en önemli kaynaklardan biri Janet H. Murray’in “Hamlet on the Holodeck” (2016) (Holodeck’de Hamlet) isimli kitabıdır. Dolayısıyla cevap B şıkkıdır.
 
     ***
-1. Ultima Online’ın baş tasarımcısı Ralph Koster, kaç farklı etkileşimli anlatı tipi tanımlamaktadır ?
+1. Ultima Online’ın baş tasarımcısı Ralph Koster, kaç farklı etkileşimli anlatı tipi tanımlamaktadır ?
     - A-) 6
     - B-) 4
     - **Cevap C-) 2**
     - D-) 5
     - E-) 3
 
-    > **Açıklama:** Ultima Online’ın baş tasarımcısı Ralph Koster, dayatmaya dayalı olanlar ve açık olanlar olarak iki farklı etkileşimli anlatı tipi tanımlamaktadır. Dolayısıyla cevap C şıkkıdr.
+    > **Açıklama:** Ultima Online’ın baş tasarımcısı Ralph Koster, dayatmaya dayalı olanlar ve açık olanlar olarak iki farklı etkileşimli anlatı tipi tanımlamaktadır. Dolayısıyla cevap C şıkkıdr.
 
     ***
-1. Nicolae sanal gerçeklik ortamlarında bedenlenen kullanıcıların anlatı içerisinde kaç farklı rolde yer aldıklarını gözlemlemiştir ?
+1. Nicolae sanal gerçeklik ortamlarında bedenlenen kullanıcıların anlatı içerisinde kaç farklı rolde yer aldıklarını gözlemlemiştir ?
     - A-) 5
     - B-) 2
     - C-) 6
     - **Cevap D-) 3**
     - E-) 4
 
-    > **Açıklama:** Nicolae (2018) sanal gerçeklik ortamlarında bedenlenen kullanıcıların anlatı içerisinde 3 farklı rolde yer aldıklarını gözlemlemiştir. Dolayısıyla cevap D şıkkıdır.
+    > **Açıklama:** Nicolae (2018) sanal gerçeklik ortamlarında bedenlenen kullanıcıların anlatı içerisinde 3 farklı rolde yer aldıklarını gözlemlemiştir. Dolayısıyla cevap D şıkkıdır.
 
     ***
-1. Genişletilmiş gerçeklik ile yapılan transmedya anlatılar kaç farklı başlık altında desenlenmiştir ?
+1. Genişletilmiş gerçeklik ile yapılan transmedya anlatılar kaç farklı başlık altında desenlenmiştir ?
     - A-) 4
     - B-) 6
     - C-) 2
     - D-) 5
     - **Cevap E-) 3**
 
-    > **Açıklama:** Genişletilmiş gerçeklik ile yapılan transmedya anlatılar üç farklı başlık altında desenlenmiştir. Dolayısıyla cevap E şıkkıdır.
+    > **Açıklama:** Genişletilmiş gerçeklik ile yapılan transmedya anlatılar üç farklı başlık altında desenlenmiştir. Dolayısıyla cevap E şıkkıdır.
 
     ***
 ## Unite 4
@@ -336,7 +336,7 @@
     > **Açıklama:** Henry Jenkins’in (2009) “yakınsama kültürü” kavramı, medya tüketicilerinin içerikle ilişki kurma biçimindeki değişimin altını çizmektedir.
 
     ***
-1. Aşağıdakilerden hangisi  İyi geliştirilmiş karakterler anlatsına sahip oyunlara örnektir?
+1. Aşağıdakilerden hangisi İyi geliştirilmiş karakterler anlatsına sahip oyunlara örnektir?
     - **Cevap A-) Tomb Raider**
     - B-) Assassin’s Creed
     - C-) Pac-man
@@ -416,7 +416,7 @@
     > atari oyunlarının yaygın popülaritesiyle dikkat çeker (Fulton, 2018). Namco tarafından geliştirilen “Pac-Man” (1980) ve Nintendo tarafından yaratılan “Donkey Kong” (1981) gibi oyunlar bu dönemde sadece ticari açıdan başarı kazanmakla kalmamış, aynı zamanda oyun tasarımı ve mekaniklerinin geleceğini şekillendirmede de etkili olmuşlardır.
 
     ***
-1. Pac-Man hangi yıl  Hanna-Barbera tarafından üretilen bir animasyon televizyon dizisine uyarlanmıştır?
+1. Pac-Man hangi yıl Hanna-Barbera tarafından üretilen bir animasyon televizyon dizisine uyarlanmıştır?
     - A-) 1963
     - B-) 1975
     - **Cevap C-) 1982**
@@ -427,14 +427,26 @@
     > dizisine uyarlanır. Dizide Pac-Man, ailesi ve arkadaşları hayalet canavarlarla savaşarak çeşitli maceralara atılırlar.
 
     ***
-1. Aşağıdakilerden hangisi Pac-Man oyunu örneğinin transmedya hikâye anlatımı ve markalaşma ilkeleri açısından taşıdığı temel unsurlardan biri değildir?
+1. Aşağıdakilerden hangisi Pac-Man oyunu örneğinin transmedya hikâye anlatımı ve markalaşma ilkeleri açısından taşıdığı temel unsurlardan biri değildir?
     - A-) Markanın birden fazla platformda varlık göstermesi
     - B-) Markalaşma sürecindeki tutarlılık
     - C-) Markanın kitle etkileşimi
-    - D-) Animasyon dizisi ve ticari ürünler ile  hayran kitlesini genişletmesi
+    - D-) Animasyon dizisi ve ticari ürünler ile hayran kitlesini genişletmesi
     - **Cevap E-) Aceleye getirilmiş prodüksiyonun riskleri**
 
     > **Açıklama:** Pac-Man oyunu örneği, transmedya hikâye anlatımı ve markalaşma ilkeleri açısından temel bazı
+    > unsurları vurgulamaktadır. Bunlardan birincisi markanın birden fazla platformda varlık göstermesidir.
+    > Pac-Man’in televizyon, müzik ve ticari ürünler de
+    > dahil olmak üzere çeşitli medyalara yayılması, orijinal video oyunu formatının ötesine geçtiğini göstermektedir. Bu çapraz platform varlığı Pac-Man’in on
+    > yıllar boyunca popülaritesini korumasına ve artırmasına yardımcı olmuştur. İkinci önemli nokta ise
+    > markalaşma sürecindeki tutarlılıkta karşımıza çıkar.
+    > Pac-Man karakteri ve oyunun ayırt edici görsel ve
+    > işitsel unsurları farklı mecralarda tutarlı kalmıştır.
+    > Bu tutarlılık markanın güçlenmesine ve anında tanınabilir olmasına yardımcı olmuştur. Üçüncü nokta
+    > olarak markanın kitle etkileşimini sayabiliriz. PacMan, oyuncu olmayanlar da dahil olmak üzere geniş
+    > bir kitleye hitap eden içerikler yaratarak farklı bir
+    > demografinin ilgisini çekmeyi başarmıştır. Özellikle<br
+    > Pac-Man oyunu örneği, transmedya hikâye anlatımı ve markalaşma ilkeleri açısından temel bazı
     > unsurları vurgulamaktadır. Bunlardan birincisi markanın birden fazla platformda varlık göstermesidir.
     > Pac-Man’in televizyon, müzik ve ticari ürünler de
     > dahil olmak üzere çeşitli medyalara yayılması, orijinal video oyunu formatının ötesine geçtiğini göstermektedir. Bu çapraz platform varlığı Pac-Man’in on
@@ -450,7 +462,7 @@
     > ve aileler için erişilebilir kılarak hayran kitlesini genişletmiştir.
 
     ***
-1. 1. Popüler seriler anlatılarını video oyunları aracılığıyla genişletebilirler.<br />2. Transmedya hikayelerin bazı parçaları oyunlar üzerinden deneyimlenebilir.<br />3. Oyunlar, hikayelerin tüketicilerine anlatı sürecinde aktif roller sunarlar.<br />Yukarıda verilen ifadelerden hangisi veya hangileri oyunlar ve transmedya ilişkisi hakkında söylenebilir?
+1. 1\. Popüler seriler anlatılarını video oyunları aracılığıyla genişletebilirler.<br />2\. Transmedya hikayelerin bazı parçaları oyunlar üzerinden deneyimlenebilir.<br />3\. Oyunlar, hikayelerin tüketicilerine anlatı sürecinde aktif roller sunarlar.<br />Yukarıda verilen ifadelerden hangisi veya hangileri oyunlar ve transmedya ilişkisi hakkında söylenebilir?
     - A-) Sadece II
     - B-) Sadece III
     - C-) I ve II
@@ -467,7 +479,8 @@
     - D-) Mass Effect
     - E-) The Witcher
 
-    > **Açıklama:** Bu soru, video oyunlarındaki anlatı yapısının teknolojik gelişmelerle nasıl evrildiğini anlamaya yöneliktir. “Space Invaders” (1978) gibi erken dönem oyunlar, temel olarak oyun mekaniğine dayalı, oldukça basit ve sınırlı hikâyelere sahiptir. Bu tür oyunlarda karakter gelişimi, karmaşık olay örgüsü ya da duygusal derinlik bulunmaz. Buna karşılık, teknolojinin ilerlemesiyle birlikte geliştirilen “Final Fantasy”, “Mass Effect”, “The Witcher” ve “The Last of Us” gibi yapımlar; derinlemesine kurgulanmış anlatılar, detaylı karakter gelişimleri ve zengin evrenlerle dikkat çeker. Dolayısıyla “Space Invaders”, anlatı derinliğinin teknolojik gelişmelere paralel olarak arttığı oyunlar arasında yer almaz.
+    > **Açıklama:** Konu: Oyunlarda Anlatı Derinliğinin Evrimi
+    > Bu soru, video oyunlarındaki anlatı yapısının teknolojik gelişmelerle nasıl evrildiğini anlamaya yöneliktir. “Space Invaders” (1978) gibi erken dönem oyunlar, temel olarak oyun mekaniğine dayalı, oldukça basit ve sınırlı hikâyelere sahiptir. Bu tür oyunlarda karakter gelişimi, karmaşık olay örgüsü ya da duygusal derinlik bulunmaz. Buna karşılık, teknolojinin ilerlemesiyle birlikte geliştirilen “Final Fantasy”, “Mass Effect”, “The Witcher” ve “The Last of Us” gibi yapımlar; derinlemesine kurgulanmış anlatılar, detaylı karakter gelişimleri ve zengin evrenlerle dikkat çeker. Dolayısıyla “Space Invaders”, anlatı derinliğinin teknolojik gelişmelere paralel olarak arttığı oyunlar arasında yer almaz.
 
     ***
 1. Video oyunlarında anlatı yapısı, teknolojik gelişmelerle birlikte büyük bir dönüşüm geçirmiştir. İlk dönem oyunlarında hikâyeler oldukça basit ve sınırlı iken, günümüzde gelişmiş grafikler, ses tasarımı ve yapay zekâ sayesinde çok katmanlı anlatılar kurgulanabilmektedir. Aşağıdakilerden hangisi, teknolojinin gelişmesiyle birlikte derinleşen hikâye anlatımıyla öne çıkan oyunlardan biri **değildir**?
@@ -477,7 +490,8 @@
     - D-) Mass Effect
     - E-) The Witcher
 
-    > **Açıklama:** Soru video oyunlarındaki anlatı yapısının teknolojiyle gelişimine dayalı olarak sorulmuştur. “Space Invaders” (1978) gibi erken dönem oyunlar, hikâyesi minimal olan ve yalnızca oyun mekaniğine dayalı yapımlardır. Bu tür oyunlarda karakter gelişimi, olay örgüsü veya duygusal derinlik bulunmaz. Buna karşılık, teknolojinin ilerlemesiyle birlikte geliştirilen “Final Fantasy”, “Mass Effect”, “The Witcher” ve “The Last of Us” gibi oyunlar; karmaşık anlatılar, detaylı karakterler ve zengin evrenler sunarak anlatı derinliğini artırmışlardır. Bu nedenle, “Space Invaders” teknolojinin gelişmesiyle birlikte derinleşen hikâye anlatımıyla öne çıkan bir oyun değildir.
+    > **Açıklama:** Oyunlarda Anlatı ve Transmedya Stratejileri Üzerindeki Etkisi / Oyunlarda Anlatı Derinliğinin Evrimi
+    > Soru video oyunlarındaki anlatı yapısının teknolojiyle gelişimine dayalı olarak sorulmuştur. “Space Invaders” (1978) gibi erken dönem oyunlar, hikâyesi minimal olan ve yalnızca oyun mekaniğine dayalı yapımlardır. Bu tür oyunlarda karakter gelişimi, olay örgüsü veya duygusal derinlik bulunmaz. Buna karşılık, teknolojinin ilerlemesiyle birlikte geliştirilen “Final Fantasy”, “Mass Effect”, “The Witcher” ve “The Last of Us” gibi oyunlar; karmaşık anlatılar, detaylı karakterler ve zengin evrenler sunarak anlatı derinliğini artırmışlardır. Bu nedenle, “Space Invaders” teknolojinin gelişmesiyle birlikte derinleşen hikâye anlatımıyla öne çıkan bir oyun değildir.
 
     ***
 ## Unite 5
@@ -589,7 +603,8 @@
     - D-) Storyboard
     - E-) Dijital medya
 
-    > **Açıklama:** Transmedya
+    > **Açıklama:** **Transmedya,** hikâye anlatımının ve içeriğin farklı medya platformları üzerinden genişletilmesi
+    > ve entegre edilmesi anlamına gelir.
 
     ***
 1. Aşağıdakilerden hangisi *Eğitsel Transmedya Projeleri Geliştirmede Tasarım İlkelerinden* **değildir?**
@@ -599,7 +614,8 @@
     - D-) Esneklik ve uyarlanabilirlik
     - **Cevap E-) Konsept geliştirme**
 
-    > **Açıklama:** Konsept geliştirme
+    > **Açıklama:** Eğitsel Transmedya Projeleri Geliştirmede Tasarım İlkeleri sayfa 160 detaylı bkz.
+    > Konsept geliştirme
 
     ***
 1. İnteraktif ve çok platformlu doğası nedeniyle, transmedya projeleri öğrencilerin motivasyonunu artırma eğilimindedir. Bu teoriye göre, ***öğrenenlerin kendi öğrenme süreçlerini yönetmelerine olanak tanır, böylece öğrenen özerkliğini destekler.*** Bu teori aşağıdakilerden hangisidir?
@@ -609,7 +625,7 @@
     - D-) Anlamlı Öğrenme Teorisi
     - E-) Multimodal okuryazarlık teorisi
 
-    > **Açıklama:** Andragoji Teorisi
+    > **Açıklama:** Knowles’in (1975) **Andragoji Teorisiyle** uyumlu olarak, öğrenenlerin kendi öğrenme süreçlerini yönetmelerine olanak tanır, böylece öğrenen özerkliğini destekler.
 
     ***
 1. Aşağıdakilerden hangisi transmedya eğitimin özel eğitim alanındaki uygulamalarından **değildir?**
@@ -619,7 +635,13 @@
     - D-) İletişim becerilerinin geliştirilmesi,
     - **Cevap E-) Dijital Öğrenme**
 
-    > **Açıklama:** Dijital Öğrenme
+    > **Açıklama:** Transmedya eğitimin özel eğitim alanındaki uygulamaları;
+    > • Çoklu duyusal öğrenme,
+    > • Bireyselleştirilmiş öğrenme,
+    > • Motivasyon ve katılım,
+    > • İletişim becerilerinin geliştirilmesi,
+    > • Sosyal etkileşim sağlanmasında faydalıdır.
+    > Dijital Öğrenme
 
     ***
 1. Transmedya projeleri farklı özel gereksinim durumlarındaki bireylerin eğitimleri için farklı şekillerde kullanılabilir. Aşağıdakilerden hangisi fiziksel engelli öğrenciler için kullanılan eğitimlerdendir?
@@ -629,7 +651,13 @@
     - **Cevap D-) Titreşim bazlı geri bildirim sağlayan interaktif uygulamalar**
     - E-) Duygusal ifadeleri tanımayı geliştiren mimik tanıma tabanlı dijital oyunlar
 
-    > **Açıklama:** Titreşim bazlı geri bildirim sağlayan interaktif uygulamalar
+    > **Açıklama:** Fiziksel engelli öğrenciler için:
+    > • Göz izleme teknolojisi veya ses kontrolü ile yönetilebilen interaktif uygulamalar
+    > geliştirilebilir.
+    > • Sanal gerçeklik ve artırılmış gerçeklik uygulamaları ile fiziksel olarak erişilemeyen
+    > deneyimler sağlanabilir.
+    > • Uyarlanabilir giriş cihazları kullanılarak çeşitli dijital içeriklerle etkileşim kurulabilir.
+    > Titreşim bazlı geri bildirim sağlayan interaktif uygulamalar
 
     ***
 1. Aşağıdakilerden hangisinde Transmedya eğitim uygulamaları kullanılmaz?
@@ -639,7 +667,8 @@
     - D-) Turizm sektöründe
     - **Cevap E-) Oyun tasarımlarının pazarlanmasında**
 
-    > **Açıklama:** Oyun tasarımlarının pazarlanmasında
+    > **Açıklama:** Transmedya eğitim uygulamaları ayrıca farkındalık yaratma ve topluluk katılımı için Sivil Toplum Kuruluşlarında, transmedya dijital okuryazarlık programları ve interaktif hikâye anlatımı etkinlikleri için kütüphanelerde, çalışan eğitimi ve kurumsal sosyal sorumluluk projeleri için şirketlerde, destinasyon pazarlaması ve kültürel deneyim sunumu için turizm sektöründe, vatandaş katılımı ve topluluk eğitimi projeleri için yerel yönetimlerde, interaktif sergi deneyimleri ve sanat eğitimi programları gibi sanata yönelik olarak kullanılmaktadırlar.
+    > Oyun tasarımlarının pazarlanmasında
 
     ***
 1. Aşağıdakilerden hangisi, “Transmedya projeleri için öğretmen eğitiminin temel bileşenleri ve güncel araçların kullanımındaki” içeriklerden **değildir?**
@@ -649,7 +678,8 @@
     - D-) Veri analizi ve öğrenme analitiği
     - E-) Proje tabanlı öğrenme ve yönetimi
 
-    > **Açıklama:** Kalite yönetimi ve değerlendirme.
+    > **Açıklama:** “Transmedya projeleri için öğretmen eğitiminin temel bileşenleri ve güncel araçların kullanımındaki” içerikleri sayfa 168 bkz.
+    > Kalite yönetimi ve değerlendirme.
 
     ***
 1. Aşağıdakilerden hangisi Transmedya ile Eğitimde Ölçme-Değerlendirme Yöntemleri arasında **değildir?**
@@ -659,7 +689,8 @@
     - D-) Portfolyo değerlendirmesi
     - E-) Performans değerlendirmesi
 
-    > **Açıklama:** Demografik anket değerlendirmesi
+    > **Açıklama:** Trasnmedya ile Eğitimde Ölçme-Değerlendirme Yöntemleri için sayfa 170-171 detaylı bkz.
+    > Demografik anket değerlendirmesi
 
     ***
 1. Öğrencilerin proje boyunca gösterdikleri katılım ve etkinliği ölçerek, süreç odaklı bir yaklaşımın benimsenmesine olanak tanıyan ***Ölçme-Değerlendirme Yöntemi*** aşağıdakilerden hangisidir?
@@ -669,17 +700,21 @@
     - **Cevap D-) Performans değerlendirmesi**
     - E-) Adaptif değerlendirme
 
-    > **Açıklama:** Performans değerlendirmesi
+    > **Açıklama:** Performans değerlendirmesi ise öğrencilerin proje boyunca gösterdikleri katılım ve etkinliği ölçer;
+    > bu da süreç odaklı bir yaklaşımın benimsenmesine olanak tanır. Örneğin bir çevre bilinci projesinde
+    > öğrencilerin sosyal medya kampanyası yürütme, topluluk etkinlikleri düzenleme ve veri toplama gibi
+    > faaliyetlerdeki performansları değerlendirilebilir.
 
     ***
-1. Sağlıktan dil eğitimine kadar geniş bir yelpazede kullanılabilecek olan kısa, odaklanmış öğrenme deneyimlerini,  öğrenme materyalleri, farklı medya kanalları aracılığıyla bütünleşik bir hikâye olarak sunan bu kullanım, zaman ve mekân sınırlamalarını aşabilme, yaşam boyu öğrenme ve anlık bilgi edinme ihtiyaçlarına cevap verme potansiyeline sahip, Transmedya ile eğitimde güncel eğilimler ve geleceğe yönelik öngörü aşağıdakilerden hangisidir?
+1. Sağlıktan dil eğitimine kadar geniş bir yelpazede kullanılabilecek olan kısa, odaklanmış öğrenme deneyimlerini, öğrenme materyalleri, farklı medya kanalları aracılığıyla bütünleşik bir hikâye olarak sunan bu kullanım, zaman ve mekân sınırlamalarını aşabilme, yaşam boyu öğrenme ve anlık bilgi edinme ihtiyaçlarına cevap verme potansiyeline sahip, Transmedya ile eğitimde güncel eğilimler ve geleceğe yönelik öngörü aşağıdakilerden hangisidir?
     - A-) Veri Analitiği ve Öğrenme Analitiği
     - **Cevap B-) Mobil Öğrenme ve Mikro-Öğrenme**
     - C-) Oyunlaştırma ve Ciddi Oyunlar
     - D-) Sosyal Medya ve İş Birlikçi Öğrenme Platformları
     - E-) Açık Eğitim Kaynakları ve Transmedya
 
-    > **Açıklama:** Mobil Öğrenme ve Mikro-Öğrenme
+    > **Açıklama:** **Mobil Öğrenme ve Mikro-Öğrenme**
+    > Sağlıktan dil eğitimine kadar geniş bir yelpazede kullanılabilecek olan kısa, odaklanmış öğrenme deneyimleri sunan Transmedya projeleri mobil cihazlar üzerinden kullanılacak uygulamalar olarak geliştirilebilmektedir. Öğrenme materyalleri, farklı medya kanalları aracılığıyla bütünleşik bir hikâye olarak sunulabilmektedir. Bu kullanım, zaman ve mekân sınırlamalarını aşabilme, yaşam boyu öğrenme ve anlık bilgi edinme ihtiyaçlarına cevap verme potansiyeline sahiptir.
 
     ***
 ## Unite 7
@@ -760,7 +795,7 @@
     - D-) Sadece animasyon serisi olarak var olmuştur.
     - E-) Yalnızca oyuncak sektöründe faaliyet göstermektedir.
 
-    > **Açıklama:** Video oyunları, çizgi filmler, kart oyunları gibi farklı platformlardaki hikayelerini devam ettiren transmedya örneğidir.
+    > **Açıklama:** Video oyunları, çizgi filmler, kart oyunları gibi farklı platformlardaki hikayelerini devam ettiren transmedya örneğidir.
 
     ***
 1. Sanal topluluklar nasıl oluşur?
@@ -784,7 +819,7 @@
 
     ***
 ## Unite 8
-1. 1. “………………. , bilginin yayılmasında devrim yaratmakla kalmayıp aynı zamanda modern grafik tasarımın da temelini atan önemli bir yenilik olarak kabul edilmektedir.”<br />**Cümlesindeki boşluğa getirilecek en uygun seçenek aşağıdakilerden hangisidir?**
+1. 1\. “………………. , bilginin yayılmasında devrim yaratmakla kalmayıp aynı zamanda modern grafik tasarımın da temelini atan önemli bir yenilik olarak kabul edilmektedir.”<br />**Cümlesindeki boşluğa getirilecek en uygun seçenek aşağıdakilerden hangisidir?**
     - A-) İnternet
     - B-) Bilgisayar
     - C-) Gazete

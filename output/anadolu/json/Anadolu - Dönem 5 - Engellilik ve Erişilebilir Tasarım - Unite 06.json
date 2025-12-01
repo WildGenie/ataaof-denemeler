@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 3862943,
-        "SoruMetni": "Saf ses odyometri testi olarak isimlendirilen test sırasında odyolog, iki kulağa da sırayla tek bir ........... ve farklı ......... sesler gönderir.<br/> Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?",
+        "SoruMetni": "Saf ses odyometri testi olarak isimlendirilen test sırasında odyolog, iki kulağa da sırayla tek bir ........... ve farklı ......... sesler gönderir.<br/>Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?",
         "A": "frekansta / şiddette",
         "B": "şiddette / frekansta",
         "C": "seferde / konuşma alanına",
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Saf ses odyometri testi olarak isimlendirilen test sırasında odyolog, iki kulağa da sırayla tek bir<strong> frekansta</strong> ve farklı<strong> şiddette </strong>sesler gönderir. Kişinin her frekansta işitebildiği en düşük şiddetteki ses odyogram üzerinde işaretlenir. <br/><br/>"
+        "Aciklama": "Saf ses odyometri testi olarak isimlendirilen test sırasında odyolog, iki kulağa da sırayla tek bir<strong> frekansta</strong> ve farklı<strong> şiddette </strong>sesler gönderir. Kişinin her frekansta işitebildiği en düşük şiddetteki ses odyogram üzerinde işaretlenir."
     },
     {
         "SoruID": 3863126,
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 3863130,
-        "SoruMetni": "Özel gereksinimli bireylerin, engelli kimlik kartı alabilmeleri için ......... ve üzerinde engelli olduklarını Sağlık Kurulu Raporu ile belgelemeleri gerekir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "Özel gereksinimli bireylerin, engelli kimlik kartı alabilmeleri için ......... ve üzerinde engelli olduklarını Sağlık Kurulu Raporu ile belgelemeleri gerekir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "% 35",
         "B": "% 40",
         "C": "% 45",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3863132,
-        "SoruMetni": "İşitme engelli bireylerin eğitim hizmetleri ve desteklerine erişimleri ile ilgili aşağıdaki bilgilerden hangisi <u>doğru değildir</u>?",
+        "SoruMetni": "İşitme engelli bireylerin eğitim hizmetleri ve desteklerine erişimleri ile ilgili aşağıdaki bilgilerden hangisi <u>doğru değildir</u>?",
         "A": "İşitme kayıplı bireyler, özel eğitim okulları ve kaynaştırma ortamında eğitim alırlar.",
         "B": "Eğitsel değerlendirme ve tanılama, RAM’larda Özel Eğitim Değerlendirme Kurulu tarafından yapılır.",
         "C": "Kaynaştırma uygulamalarında sadece öğrenciye destek eğitim hizmeti sağlanır.",
@@ -141,11 +141,11 @@
     },
     {
         "SoruID": 3863134,
-        "SoruMetni": "İşitme engelli bireyler için yardımcı ve destekleyici teknolojiler ile ilgili aşağıdaki bilgilerden hangisi <u>doğru değildir</u>?",
+        "SoruMetni": "İşitme engelli bireyler için yardımcı ve destekleyici teknolojiler ile ilgili aşağıdaki bilgilerden hangisi <u>doğru değildir</u>?",
         "A": "İşitme cihazları, koklear implantlar, beyin sapı implantları ve yardımcı işitme sistemleri gibi cihazları içerir.",
         "B": "Yardımcı işitme sistemleri mesafe, arka plan gürültüsü ve yankıyı tamamen ortadan kaldırır.",
         "C": "İşitmeyi destekleyen sistemler mekânın büyüklüğüne, konfigürasyonuna veya bireyin ihtiyacına göre seçilir.",
-        "D": "Yardımcı işitme sistemlerinden bazıları büyük ortamlarda bazıları ise küçük ortamlarda ve birebir görüşmeler için kullanılır.",
+        "D": "Yardımcı işitme sistemlerinden bazıları büyük ortamlarda bazıları ise küçük ortamlarda ve birebir görüşmeler için kullanılır.",
         "E": "FM sistemler öğretmenin sesini aradaki mesafeye bağlı olmadan öğrenciye iletir.",
         "DogruCevap": "B",
         "DersAd": "Engellilik ve Erişilebilir Tasarım",
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Evrensel tasarım; </strong>tüm ürünlerin ve çevrelerin, uyarlama veya özel tasarım çözümleri gerektirmeden, yaş, beceri ve durum farkı gözetmeksizin pek çok kişi tarafından bağımsız bir şekilde erişilebilir, anlaşılabilir ve kullanılabilir olmasını amaçlayan bir yaklaşımdır."
+        "Aciklama": "<strong>Evrensel tasarım; </strong>tüm ürünlerin ve çevrelerin, uyarlama veya özel tasarım çözümleri gerektirmeden, yaş, beceri ve durum farkı gözetmeksizin pek çok kişi tarafından bağımsız bir şekilde erişilebilir, anlaşılabilir ve kullanılabilir olmasını amaçlayan bir yaklaşımdır."
     },
     {
         "SoruID": 3863274,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İşitme kaybının oluştuğu yere göre yapılan sınıflama dört temel tür içerir:<br/> <ol> <li> İletimsel işitme kaybı (dış veya orta kulak kaynaklı),<br/> </li> <li> Duyu-sinirsel işitme kaybı (iç kulak veya işitme siniri kaynaklı),<br/> </li> <li> Karışık tip işitme kaybı (hem iletimsel hem duyu-sinirsel),<br/> </li> <li> Merkezi işitme kaybı (işitsel merkezlerdeki bozukluk).<br/> </li> </ol> Geçici işitme kaybı ise süresine göre yapılan bir sınıflamadır, yere göre değil. Bu nedenle bu sınıflamada yer almaz."
+        "Aciklama": "İşitme kaybının oluştuğu yere göre yapılan sınıflama dört temel tür içerir:<br/><ol> <li> İletimsel işitme kaybı (dış veya orta kulak kaynaklı),<br/></li> <li> Duyu-sinirsel işitme kaybı (iç kulak veya işitme siniri kaynaklı),<br/></li> <li> Karışık tip işitme kaybı (hem iletimsel hem duyu-sinirsel),<br/></li> <li> Merkezi işitme kaybı (işitsel merkezlerdeki bozukluk).<br/></li> </ol> Geçici işitme kaybı ise süresine göre yapılan bir sınıflamadır, yere göre değil. Bu nedenle bu sınıflamada yer almaz."
     },
     {
         "SoruID": 3863275,
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 3863277,
-        "SoruMetni": "Ahmet Bey, işitme sorunu yaşadığını fark ederek bir odyoloji merkezine başvurmuştur. Yapılan odyogram testinde, Ahmet Bey’in konuşma seslerinin yer aldığı  aşağıdaki şekilde verilen “banana speech” alanının altındaki şiddet ve frekanstaki sesleri algılayamadığı tespit edilmiştir. Odyogram sonucuna göre Ahmet Bey’in özellikle tiz seslerde belirgin kaybı olduğu ve günlük konuşmaları anlamakta zorlandığı belirlenmiştir.<br/> Bu bilgiye göre, Ahmet Bey’in yaşadığı işitme sorunu aşağıdakilerden hangisiyle en doğru şekilde açıklanabilir?<br/> <img alt=\"\" height=\"272\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/c13cab26033aa347e55e1e3724b39949.png\" width=\"341\"/><br/>",
+        "SoruMetni": "Ahmet Bey, işitme sorunu yaşadığını fark ederek bir odyoloji merkezine başvurmuştur. Yapılan odyogram testinde, Ahmet Bey’in konuşma seslerinin yer aldığı aşağıdaki şekilde verilen “banana speech” alanının altındaki şiddet ve frekanstaki sesleri algılayamadığı tespit edilmiştir. Odyogram sonucuna göre Ahmet Bey’in özellikle tiz seslerde belirgin kaybı olduğu ve günlük konuşmaları anlamakta zorlandığı belirlenmiştir.<br/>Bu bilgiye göre, Ahmet Bey’in yaşadığı işitme sorunu aşağıdakilerden hangisiyle en doğru şekilde açıklanabilir?<br/><img alt=\"\" height=\"272\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/c13cab26033aa347e55e1e3724b39949.png\" width=\"341\"/>",
         "A": "Ahmet Bey’in işitme kaybı frekansı değil yalnızca şiddeti etkilemektedir.",
         "B": "Odyogram sonuçlarına göre Ahmet Bey yalnızca bas sesleri işitememektedir.",
         "C": "Ahmet Bey’in işitme kaybı, konuşma seslerinin yer aldığı şiddet ve frekans aralığını kapsamaktadır.",
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 3863280,
-        "SoruMetni": "Emre, işitme engellidir ve sınıfta dudak okuma yöntemiyle dersi takip etmektedir. Öğretmeni, Emre'nin dersi daha iyi anlayabilmesi için sınıfta her zaman yüzü Emre’ye dönük konuşmakta, önemli kavramları yazılı olarak tahtaya aktarmakta ve sınavlarda yönergeleri yazılı olarak sunmaktadır.<br/> Bu durumda öğretmenin yaptığı uygulamalar aşağıdakilerden hangisiyle en iyi tanımlanır?",
+        "SoruMetni": "Emre, işitme engellidir ve sınıfta dudak okuma yöntemiyle dersi takip etmektedir. Öğretmeni, Emre'nin dersi daha iyi anlayabilmesi için sınıfta her zaman yüzü Emre’ye dönük konuşmakta, önemli kavramları yazılı olarak tahtaya aktarmakta ve sınavlarda yönergeleri yazılı olarak sunmaktadır.<br/>Bu durumda öğretmenin yaptığı uygulamalar aşağıdakilerden hangisiyle en iyi tanımlanır?",
         "A": "Özel eğitim desteği",
         "B": "Bireysel farklılıklara göre öğretim",
         "C": "Uyarlama",
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uyarlama; özel gereksinimli bireylerin engel türü ve düzeyine göre sınıf ortamı, ders süreci, materyaller ve sınavların bireysel ihtiyaçlarına uygun olarak düzenlenmesidir.<br/> Emre örneğinde: Öğretmenin yüzünü Emre’ye dönmesi, kavramları tahtaya yazması ve sınav yönergelerini yazılı sunması, Emre’nin işitme engeline yönelik yapılan pedagojik düzenlemelerdir. Bu, uyarlamanın tam karşılığıdır.<br/> <strong>Özel eğitim desteği</strong><strong> : </strong>Bu kavram, genellikle destek eğitim odasında sunulan bireysel ya da küçük grup eğitimini ifade eder ve özel eğitim öğretmeni tarafından verilir. Emre örneğinde ise, sınıf öğretmeni tarafından yapılan ortam ve süreç düzenlemeleri vardır; özel eğitim desteği hizmeti sunulmamaktadır.<br/> <strong>Bireysel farklılıklara göre öğretim</strong><strong>: </strong>Bu kavram genel bir öğretim yaklaşımıdır. Öğrencilerin ilgi, hazırbulunuşluk, öğrenme stili gibi bireysel farklılıklarına göre öğretimin düzenlenmesini ifade eder. Ancak Emre’nin durumu bir özel gereksinimdir (işitme engeli) ve bu nedenle yapılan düzenlemeler bireysel farklılıktan çok uyarlama kapsamındadır.<br/> <strong>Rehberlik hizmeti</strong><strong>: </strong>Rehberlik hizmetleri, öğrencinin duygusal, sosyal ve mesleki gelişimine destek verir. Burada ise öğretim süreci içinde iletişimi kolaylaştırmaya yönelik uygulamalar yapılmaktadır. Bu durum, rehberlik değil eğitimsel uyarlamadır.<br/> <strong>Davranışsal müdahale</strong><strong>: </strong>Bu kavram, öğrencinin istenmeyen davranışlarını azaltmaya veya olumlu davranışları artırmaya yönelik hedefli stratejileri ifade eder.<br/> Emre'nin örneğinde herhangi bir davranışsal sorun yoktur; yalnızca iletişimi kolaylaştırıcı eğitimsel uyarlamalar söz konusudur."
+        "Aciklama": "Uyarlama; özel gereksinimli bireylerin engel türü ve düzeyine göre sınıf ortamı, ders süreci, materyaller ve sınavların bireysel ihtiyaçlarına uygun olarak düzenlenmesidir.<br/>Emre örneğinde: Öğretmenin yüzünü Emre’ye dönmesi, kavramları tahtaya yazması ve sınav yönergelerini yazılı sunması, Emre’nin işitme engeline yönelik yapılan pedagojik düzenlemelerdir. Bu, uyarlamanın tam karşılığıdır.<br/><strong>Özel eğitim desteği</strong><strong> : </strong>Bu kavram, genellikle destek eğitim odasında sunulan bireysel ya da küçük grup eğitimini ifade eder ve özel eğitim öğretmeni tarafından verilir. Emre örneğinde ise, sınıf öğretmeni tarafından yapılan ortam ve süreç düzenlemeleri vardır; özel eğitim desteği hizmeti sunulmamaktadır.<br/><strong>Bireysel farklılıklara göre öğretim</strong><strong>: </strong>Bu kavram genel bir öğretim yaklaşımıdır. Öğrencilerin ilgi, hazırbulunuşluk, öğrenme stili gibi bireysel farklılıklarına göre öğretimin düzenlenmesini ifade eder. Ancak Emre’nin durumu bir özel gereksinimdir (işitme engeli) ve bu nedenle yapılan düzenlemeler bireysel farklılıktan çok uyarlama kapsamındadır.<br/><strong>Rehberlik hizmeti</strong><strong>: </strong>Rehberlik hizmetleri, öğrencinin duygusal, sosyal ve mesleki gelişimine destek verir. Burada ise öğretim süreci içinde iletişimi kolaylaştırmaya yönelik uygulamalar yapılmaktadır. Bu durum, rehberlik değil eğitimsel uyarlamadır.<br/><strong>Davranışsal müdahale</strong><strong>: </strong>Bu kavram, öğrencinin istenmeyen davranışlarını azaltmaya veya olumlu davranışları artırmaya yönelik hedefli stratejileri ifade eder.<br/>Emre'nin örneğinde herhangi bir davranışsal sorun yoktur; yalnızca iletişimi kolaylaştırıcı eğitimsel uyarlamalar söz konusudur."
     },
     {
         "SoruID": 3863281,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "FM sistemleri,<br/> Kızılötesi sistemler,<br/> Ses indüksiyon döngü sistemleri,<br/> ve tele-bobin (T-bobini) gibi teknolojiler, özellikle yardımcı işitme sistemleri kategorisine girer.<br/> Bu sistemler, sesleri daha net hale getirerek ortam akustiğinden kaynaklı zorlukların üstesinden gelmek için kullanılır. Koklear implant ise <span>kitapta da</span> belirtildiği gibi temel işitme teknolojilerinden biridir, ancak yardımcı işitme sistemleri kapsamında değildir. Bu nedenle doğru cevap E seçeneğidir."
+        "Aciklama": "FM sistemleri,<br/>Kızılötesi sistemler,<br/>Ses indüksiyon döngü sistemleri,<br/>ve tele-bobin (T-bobini) gibi teknolojiler, özellikle yardımcı işitme sistemleri kategorisine girer.<br/>Bu sistemler, sesleri daha net hale getirerek ortam akustiğinden kaynaklı zorlukların üstesinden gelmek için kullanılır. Koklear implant ise <span>kitapta da</span> belirtildiği gibi temel işitme teknolojilerinden biridir, ancak yardımcı işitme sistemleri kapsamında değildir. Bu nedenle doğru cevap E seçeneğidir."
     },
     {
         "SoruID": 3863282,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünitenizde FM sistemlerinin sağladığı destekler arasında:<br/> <ul> <li>Öğretmenin sesini mesafeden bağımsız olarak duyabilme,</li> <li>Sınıf gürültüsüne rağmen öğretmenin sesinin net duyulması,</li> <li>Çocuğun kendi sesini kontrol edebilmesi,</li> <li>Yalnızca öğretmene odaklanabilme</li> </ul> gibi işitsel avantajlar sayılmıştır. Ancak konuşmaları yazıya dökme işlevi FM sistemlerine ait değildir; bu, başka bir tür destek teknolojinin (ör. yazılı betimleme sistemleri veya konuşmadan metne dönüştürücüler) işlevi olabilir. Bu nedenle B seçeneği doğru yanıttır."
+        "Aciklama": "Ünitenizde FM sistemlerinin sağladığı destekler arasında:<br/><ul> <li>Öğretmenin sesini mesafeden bağımsız olarak duyabilme,</li> <li>Sınıf gürültüsüne rağmen öğretmenin sesinin net duyulması,</li> <li>Çocuğun kendi sesini kontrol edebilmesi,</li> <li>Yalnızca öğretmene odaklanabilme</li> </ul> gibi işitsel avantajlar sayılmıştır. Ancak konuşmaları yazıya dökme işlevi FM sistemlerine ait değildir; bu, başka bir tür destek teknolojinin (ör. yazılı betimleme sistemleri veya konuşmadan metne dönüştürücüler) işlevi olabilir. Bu nedenle B seçeneği doğru yanıttır."
     },
     {
         "SoruID": 3863283,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ontenna, sesi doğrudan duyamayan bireylerin vücut yoluyla sesin titreşimlerini hissetmesini sağlar. Bu özellik, özellikle müzik ve ritim içeren etkinliklerde işitme kayıplı bireylerin ritmi algılama ve taklit etme becerilerine katkı sunar. Ayrıca konuşma, ritim eğitimi ve sanatsal etkinliklerde de olumlu etkiler gözlenmiştir.<br/> Diğer seçenekler Ontenna'nın işlevleriyle doğrudan ilişkili değildir. Bu nedenle A seçeneği doğru cevaptır."
+        "Aciklama": "Ontenna, sesi doğrudan duyamayan bireylerin vücut yoluyla sesin titreşimlerini hissetmesini sağlar. Bu özellik, özellikle müzik ve ritim içeren etkinliklerde işitme kayıplı bireylerin ritmi algılama ve taklit etme becerilerine katkı sunar. Ayrıca konuşma, ritim eğitimi ve sanatsal etkinliklerde de olumlu etkiler gözlenmiştir.<br/>Diğer seçenekler Ontenna'nın işlevleriyle doğrudan ilişkili değildir. Bu nedenle A seçeneği doğru cevaptır."
     }
 ]

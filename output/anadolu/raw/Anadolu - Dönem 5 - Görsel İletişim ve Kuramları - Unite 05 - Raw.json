@@ -16,6 +16,22 @@
         "QuestionNumber": 1
     },
     {
+        "QuestionId": 3603412,
+        "UniteNo": 5,
+        "PageNumber": 106,
+        "AnswerExplanation": "<p>Almanya’dan getirdikleri kitle ve faşizm birikimlerini, Amerikan kitle kültürü ile harmanlayarak onu teorize etmeye çalışan isimler</p>\n<p>Horkheimer, Lowenthal ve Adorno dur</p>",
+        "Title": "<p>Almanya’dan getirdikleri kitle ve faşizm birikimlerini, Amerikan kitle kültürü ile harmanlayarak onu teorize etmeye çalışan isimler</p>\n<p>Horkheimer, Lowenthal ve Adorno dur</p>",
+        "Text": "<p>Almanya’dan getirdikleri kitle ve faşizm birikimlerini, Amerikan kitle kültürü ile harmanlayarak onu teorize etmeye çalışan isimler için aşağıdakilerden hangisi birlikte doğru olarak verilmiştir?</p>",
+        "A": "<p>Horkheimer</p>",
+        "B": "<p>Horkheimer ve Adorno</p>",
+        "C": "<p>Lowenthal ve Adorno</p>",
+        "D": "<p>Horkheimer, Lowenthal ve Adorno</p>",
+        "E": "<p>Horkheimer ve Lowenthal</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null,
+        "QuestionNumber": 2
+    },
+    {
         "QuestionId": 3603413,
         "UniteNo": 5,
         "PageNumber": 106,
@@ -29,55 +45,7 @@
         "E": "<p>Adorno</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 2
-    },
-    {
-        "QuestionId": 3603414,
-        "UniteNo": 5,
-        "PageNumber": 107,
-        "AnswerExplanation": "<p>Frankfurt Okulunun en önemli kavramı Kültür Endüstrisidir</p>",
-        "Title": "<p>Frankfurt Okulunun en önemli kavramı Kültür Endüstrisidir</p>",
-        "Text": "<p>Frankfurt Okulunun en önemli kavramı aşağıdakilerden hangisidir?</p>",
-        "A": "<p>Kültür Endüstrisi</p>",
-        "B": "<p>Tüketim Endüstrisi</p>",
-        "C": "<p>Üretim Endüstrisi</p>",
-        "D": "<p>Gelişim Endüstrisi</p>",
-        "E": "<p>Göç Endüstrisi</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
-    },
-    {
-        "QuestionId": 3603415,
-        "UniteNo": 5,
-        "PageNumber": 109,
-        "AnswerExplanation": "<p>Frankfurt Okulunun teorisyenlerinden Herbert Marcuse “Tek Boyutlu İnsan” kitabında görsel kültürün kitleleri moronlaştırıcı ve tektipleştirici etkilerine dikkat çeker</p>",
-        "Title": "<p>Frankfurt Okulunun teorisyenlerinden Herbert Marcuse “Tek Boyutlu İnsan” (1990) kitabında görsel kültürün kitleleri moronlaştırıcı ve tektipleştirici etkilerine dikkat çeker</p>",
-        "Text": "<p>Tek Boyutlu İnsan kitabını yazan Frankfurt Okulunun teorisyenlerinden olan yazar aşağıdakilerden hangisidir?</p>",
-        "A": "<p>Horheimer</p>",
-        "B": "<p>Benjamin</p>",
-        "C": "<p>George Orwell</p>",
-        "D": "<p>Herbert Marcuse</p>",
-        "E": "<p>Walter Benjamin</p>",
-        "CorrectAnswer": "D",
-        "UserAnswer": null,
         "QuestionNumber": 3
-    },
-    {
-        "QuestionId": 3603416,
-        "UniteNo": 5,
-        "PageNumber": 111,
-        "AnswerExplanation": "<p>Hegemonya: Siyasal, sosyal ve kültürel araçlar kullanılarak bir sınıfın diğeri üzerinde kurduğu, kısmen rızaya dayalı egemenlik</p>",
-        "Title": "<p>Hegemonya: Siyasal, sosyal ve kültürel araçlar kullanılarak bir sınıfın diğeri üzerinde kurduğu, kısmen rızaya dayalı egemenlik</p>",
-        "Text": "<p>Siyasal, sosyal ve kültürel araçlar kullanılarak bir sınıfın diğeri üzerinde kurduğu, kısmen rızaya dayalı egemenlik aşağıdakilerden hangisidir?</p>",
-        "A": "<p>Baskı</p>",
-        "B": "<p>Telkin</p>",
-        "C": "<p>Hegemonya</p>",
-        "D": "<p>İhmal</p>",
-        "E": "<p>Uyarı</p>",
-        "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
     },
     {
         "QuestionId": 3603418,
@@ -93,39 +61,39 @@
         "E": "<p>Manevi</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 5
+        "QuestionNumber": 3
     },
     {
-        "QuestionId": 3603420,
+        "QuestionId": 3603423,
         "UniteNo": 5,
-        "PageNumber": 112,
-        "AnswerExplanation": "<p>Althusser ideolojiyi gerçeğin tersyüz edilmesi veya bir dayatma olarak görmez, aksine toplumsal yaşamda farkında olmadan bizi çağıran bir dizi sosyal dinamik olarak tanımlar</p>",
-        "Title": "<p>Althusser ideolojiyi gerçeğin tersyüz edilmesi veya bir dayatma olarak görmez, aksine toplumsal yaşamda farkında olmadan bizi çağıran bir dizi sosyal dinamik olarak tanımlar</p>",
-        "Text": "<p>Althusser’in kuramında ideoloji ile ilgili aşağıdakilerden hangisi yer <strong>almaz?</strong></p>",
-        "A": "<p>Althusser’in kuramında ideoloji merkezî bir öneme sahiptir</p>",
-        "B": "<p>Althusser’in kuramında ideoloji toplumsal bir pratiktir</p>",
-        "C": "<p>Althusser’in kuramında ideoloji yukarıdan ya da dışarıdan değil kitlelerin bilincine nakşederek içeriden işlemektedir</p>",
-        "D": "<p>Althusser’in kuramında İdeoloji toplumsal yaşamın tamamını etkileyen gizil bir yönlendirmedir</p>",
-        "E": "<p>Althusser ideolojiyi gerçeğin tersyüz edilmesi veya bir dayatma olarak görmektedir</p>",
-        "CorrectAnswer": "E",
+        "PageNumber": 115,
+        "AnswerExplanation": "<p>Althusser devletin baskı aygıtlarını asker, polis ve mahkemeler olarak sınıflandırır ve halkı zor kullanarak egemen söylemin içinde davranmaya zorunlu kıldıklarının altını çizer. Devlet, baskı aygıtları aracılığı ile otoritesini tesis eder ve halkı zor kullanarak yönetir. </p>",
+        "Title": "<p>Althusser devletin baskı aygıtlarını asker, polis ve mahkemeler olarak sınıflandırır ve halkı zor kullanarak egemen söylemin içinde davranmaya zorunlu kıldıklarının altını çizer. Devlet, baskı aygıtları aracılığı ile otoritesini tesis eder ve halkı zor kullanarak yönetir. </p>",
+        "Text": "<p>Devletin baskı aygıtlarını asker, polis ve mahkemeler olarak sınıflandırarak, egemen sınıfın halkı bunları kullanarak kendi söylemi içinde davranmaya zorunlu kıldığını savunan kişi aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Louis Althusser</p>",
+        "B": "<p>Antonio Gramsci</p>",
+        "C": "<p>Herbert Marcuse</p>",
+        "D": "<p>Karl Max</p>",
+        "E": "<p>Max Horkheimer</p>",
+        "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 6
+        "QuestionNumber": 7
     },
     {
-        "QuestionId": 3603602,
+        "QuestionId": 3603600,
         "UniteNo": 5,
         "PageNumber": 103,
-        "AnswerExplanation": "<p>Eleştirel kuram, kültüre daha çoğulcu ve demokratikleştirici olarak bakan liberal kuramların aksine, kültürün kitleleri pasifleştirici ve tüketimci kılan boyutlarına odaklanır. Dolayısıyla kültürün var olan düzeni olumladığını ve onun yeniden üretimine katkı sağladığını ileri sürer. Eleştirel kuramın en önemli teorisyenleri Karl Marx, Antonio Gramsci, Theodor Adorno, Max Horkheimer, Helbert Marcuse, Louis Althusser, Stuart Hall ve Raymond Williams’tır. Eleştirel kuram, kültürü toplumsal eşitsizlik ve iktidar ilişkileri bağlamında ele alır ve medyayı da bu kültürün oluşturan bir iktidar aygıtı olarak konumlandırır.</p>",
+        "AnswerExplanation": "<p>Eleştirel yaklaşımlar kökenini Karl Marx’ın teorilerinden alır. Toplumsal yaşamda ekonominin belirleyiciliğini (üretim biçimi ve ilişkileri) sınıf çatışması ve burjuvazinin etkinliğini merkeze alır ve iletişimi de bu bağlamda, egemen değerleri yücelten, sınıf çatışmasını, yabancılaşmayı ve sömürüyü gizleyen bir iktidar aygıtı olarak ele alır.</p>",
         "Title": "",
-        "Text": "<p>I. Kültürün kitleleri pasifleştirici ve tüketimci kılan boyutlarına odaklanır.</p> <p>II. Kültürün var olan düzeni olumladığını ileri sürer</p> <p>III.Kültürü toplumsal eşitsizlik ve iktidar ilişkileri bağlamında ele alır</p> <p>Yukarıdakilerden hangisi Eleştirel Kuramın çalışma alanına girer?</p>",
-        "A": "<p>Yalnız I</p>",
-        "B": "<p>Yalnız II</p>",
-        "C": "<p>I ve II</p>",
-        "D": "<p>II ve III</p>",
-        "E": "<p>I, II ve III</p>",
-        "CorrectAnswer": "E",
+        "Text": "<p>Eleştirel yaklaşımlar kökeninde hangi düşünür yer alır?</p>",
+        "A": "<p>Antonio Gramsci</p>",
+        "B": "<p>Karl Marx</p>",
+        "C": "<p>Louis Pierre Althusser</p>",
+        "D": "<p>Max Weber</p>",
+        "E": "<p>Theodor Adorno</p>",
+        "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 8
+        "QuestionNumber": 6
     },
     {
         "QuestionId": 3603605,
@@ -157,7 +125,7 @@
         "E": "<p>Herbert Marcuse</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 8
+        "QuestionNumber": 9
     },
     {
         "QuestionId": 3603608,
@@ -173,7 +141,7 @@
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 9
+        "QuestionNumber": 10
     },
     {
         "QuestionId": 3603610,
@@ -189,7 +157,7 @@
         "E": "<p>Herbert Marcuse</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 9
+        "QuestionNumber": 11
     },
     {
         "QuestionId": 3603611,
@@ -205,7 +173,23 @@
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 10
+        "QuestionNumber": 11
+    },
+    {
+        "QuestionId": 3603612,
+        "UniteNo": 5,
+        "PageNumber": 109,
+        "AnswerExplanation": "<p>Frankfurt Okulunun teorisyenlerinden Herbert Marcuse “Tek Boyutlu İnsan” (1990) kitabında görsel kültürün kitleleri moronlaştırıcı ve tektipleştirici etkilerine dikkat çeker.</p>",
+        "Title": "",
+        "Text": "<p>“Tek Boyutlu İnsan” kitabı hangi düşünüre aittir?</p>",
+        "A": "<p>Herbert Marcuse</p>",
+        "B": "<p>Marshall Berman</p>",
+        "C": "<p>Leo Lowenthal</p>",
+        "D": "<p>Theodor Adorno</p>",
+        "E": "<p>Max Horkheimer</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 12
     },
     {
         "QuestionId": 3603615,
@@ -221,7 +205,7 @@
         "E": "<p> Max Horkheimer</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 13
     },
     {
         "QuestionId": 3842610,
@@ -237,23 +221,23 @@
         "E": "Ekonomi ve Medya Etkisi",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 14
+        "QuestionNumber": 16
     },
     {
-        "QuestionId": 3842613,
+        "QuestionId": 3842615,
         "UniteNo": 5,
-        "PageNumber": 104,
-        "AnswerExplanation": "İdeoloji",
-        "Title": "<strong>Marx,</strong> <em><strong>ideolojiyi,</strong> </em>kitlelerin yaşadıkları toplumsal sömürünün farkına varmalarını engelleyen ve iktidarlar tarafından manipüle edilen bir yanlış bilinç şeklinde kavramsallaştırmaktadır.",
-        "Text": "<p>Marx, kitlelerin yaşadıkları toplumsal sömürünün farkına varmalarını engelleyen ve iktidarlar tarafından manipüle edilen bir yanlış bilinç şeklinde kavramsallaştırmaktadır. Bu <strong>kavram</strong> aşağıdakilerden hangisidir?</p>",
-        "A": "Kapitalizm",
-        "B": "İdeoloji",
-        "C": "Dogmatizm",
-        "D": "Materyalizm",
-        "E": "Propaganda",
-        "CorrectAnswer": "B",
+        "PageNumber": 105,
+        "AnswerExplanation": "Meta",
+        "Title": "<strong>Marx,</strong> <em><strong>metayı</strong> </em>insanların belli ihtiyaçlarını karşılayan, belli amaç doğrultusunda üretilen,<br />alınıp satılan bir “şey” olarak tanımlamaktadır.",
+        "Text": "<p>Marx, insanların belli ihtiyaçlarını karşılayan, belli amaç doğrultusunda üretilen, alınıp satılan bir <strong>“şey”</strong> olarak tanımlamadığı <strong>kavram</strong> aşağıdakilerden hangisidir?</p>",
+        "A": "Emek",
+        "B": "Burjuva",
+        "C": "Feodalite",
+        "D": "Kültür",
+        "E": "Meta",
+        "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 15
+        "QuestionNumber": 14
     },
     {
         "QuestionId": 3842619,
@@ -269,7 +253,7 @@
         "E": "Meta Fetişizmi",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 16
+        "QuestionNumber": 18
     },
     {
         "QuestionId": 3842621,
@@ -285,7 +269,23 @@
         "E": "Toplum Aydınları",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 17
+        "QuestionNumber": 19
+    },
+    {
+        "QuestionId": 3842623,
+        "UniteNo": 5,
+        "PageNumber": 112,
+        "AnswerExplanation": "Medya",
+        "Title": "Bu hücrelerin başında da başlıca kültür oluşturucusu olan <strong>medya </strong>gelmektedir. <em><strong>Medya,</strong></em> kapitalist toplumlarda egemen değerleri haklılaştıran ve hegemonyayı pekiştiren bir iktidar aygıtı görünümündedir.",
+        "Text": "<p>Kapitalist toplumlarda egemen değerleri haklılaştıran ve hegemonyayı pekiştiren iktidar aygıtı aşağıdakilerden hangisidir?</p>",
+        "A": "Siyaset",
+        "B": "Meta Fetişizmi",
+        "C": "Toplum Aydınları",
+        "D": "Sivil Toplum",
+        "E": "Medya",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 20
     },
     {
         "QuestionId": 3842628,
@@ -320,6 +320,38 @@
         "QuestionNumber": 20
     },
     {
+        "QuestionId": 3603414,
+        "UniteNo": 5,
+        "PageNumber": 107,
+        "AnswerExplanation": "<p>Frankfurt Okulunun en önemli kavramı Kültür Endüstrisidir</p>",
+        "Title": "<p>Frankfurt Okulunun en önemli kavramı Kültür Endüstrisidir</p>",
+        "Text": "<p>Frankfurt Okulunun en önemli kavramı aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Kültür Endüstrisi</p>",
+        "B": "<p>Tüketim Endüstrisi</p>",
+        "C": "<p>Üretim Endüstrisi</p>",
+        "D": "<p>Gelişim Endüstrisi</p>",
+        "E": "<p>Göç Endüstrisi</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 4
+    },
+    {
+        "QuestionId": 3603416,
+        "UniteNo": 5,
+        "PageNumber": 111,
+        "AnswerExplanation": "<p>Hegemonya: Siyasal, sosyal ve kültürel araçlar kullanılarak bir sınıfın diğeri üzerinde kurduğu, kısmen rızaya dayalı egemenlik</p>",
+        "Title": "<p>Hegemonya: Siyasal, sosyal ve kültürel araçlar kullanılarak bir sınıfın diğeri üzerinde kurduğu, kısmen rızaya dayalı egemenlik</p>",
+        "Text": "<p>Siyasal, sosyal ve kültürel araçlar kullanılarak bir sınıfın diğeri üzerinde kurduğu, kısmen rızaya dayalı egemenlik aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Baskı</p>",
+        "B": "<p>Telkin</p>",
+        "C": "<p>Hegemonya</p>",
+        "D": "<p>İhmal</p>",
+        "E": "<p>Uyarı</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 6
+    },
+    {
         "QuestionId": 3603417,
         "UniteNo": 5,
         "PageNumber": 111,
@@ -336,20 +368,52 @@
         "QuestionNumber": 5
     },
     {
-        "QuestionId": 3603612,
+        "QuestionId": 3603420,
         "UniteNo": 5,
-        "PageNumber": 109,
-        "AnswerExplanation": "<p>Frankfurt Okulunun teorisyenlerinden Herbert Marcuse “Tek Boyutlu İnsan” (1990) kitabında görsel kültürün kitleleri moronlaştırıcı ve tektipleştirici etkilerine dikkat çeker.</p>",
-        "Title": "",
-        "Text": "<p>“Tek Boyutlu İnsan” kitabı hangi düşünüre aittir?</p>",
-        "A": "<p>Herbert Marcuse</p>",
-        "B": "<p>Marshall Berman</p>",
-        "C": "<p>Leo Lowenthal</p>",
-        "D": "<p>Theodor Adorno</p>",
-        "E": "<p>Max Horkheimer</p>",
-        "CorrectAnswer": "A",
+        "PageNumber": 112,
+        "AnswerExplanation": "<p>Althusser ideolojiyi gerçeğin tersyüz edilmesi veya bir dayatma olarak görmez, aksine toplumsal yaşamda farkında olmadan bizi çağıran bir dizi sosyal dinamik olarak tanımlar</p>",
+        "Title": "<p>Althusser ideolojiyi gerçeğin tersyüz edilmesi veya bir dayatma olarak görmez, aksine toplumsal yaşamda farkında olmadan bizi çağıran bir dizi sosyal dinamik olarak tanımlar</p>",
+        "Text": "<p>Althusser’in kuramında ideoloji ile ilgili aşağıdakilerden hangisi yer <strong>almaz?</strong></p>",
+        "A": "<p>Althusser’in kuramında ideoloji merkezî bir öneme sahiptir</p>",
+        "B": "<p>Althusser’in kuramında ideoloji toplumsal bir pratiktir</p>",
+        "C": "<p>Althusser’in kuramında ideoloji yukarıdan ya da dışarıdan değil kitlelerin bilincine nakşederek içeriden işlemektedir</p>",
+        "D": "<p>Althusser’in kuramında İdeoloji toplumsal yaşamın tamamını etkileyen gizil bir yönlendirmedir</p>",
+        "E": "<p>Althusser ideolojiyi gerçeğin tersyüz edilmesi veya bir dayatma olarak görmektedir</p>",
+        "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 11
+        "QuestionNumber": 6
+    },
+    {
+        "QuestionId": 3603602,
+        "UniteNo": 5,
+        "PageNumber": 103,
+        "AnswerExplanation": "<p>Eleştirel kuram, kültüre daha çoğulcu ve demokratikleştirici olarak bakan liberal kuramların aksine, kültürün kitleleri pasifleştirici ve tüketimci kılan boyutlarına odaklanır. Dolayısıyla kültürün var olan düzeni olumladığını ve onun yeniden üretimine katkı sağladığını ileri sürer. Eleştirel kuramın en önemli teorisyenleri Karl Marx, Antonio Gramsci, Theodor Adorno, Max Horkheimer, Helbert Marcuse, Louis Althusser, Stuart Hall ve Raymond Williams’tır. Eleştirel kuram, kültürü toplumsal eşitsizlik ve iktidar ilişkileri bağlamında ele alır ve medyayı da bu kültürün oluşturan bir iktidar aygıtı olarak konumlandırır.</p>",
+        "Title": "",
+        "Text": "<p>I. Kültürün kitleleri pasifleştirici ve tüketimci kılan boyutlarına odaklanır.</p> <p>II. Kültürün var olan düzeni olumladığını ileri sürer</p> <p>III.Kültürü toplumsal eşitsizlik ve iktidar ilişkileri bağlamında ele alır</p> <p>Yukarıdakilerden hangisi Eleştirel Kuramın çalışma alanına girer?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>Yalnız II</p>",
+        "C": "<p>I ve II</p>",
+        "D": "<p>II ve III</p>",
+        "E": "<p>I, II ve III</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 7
+    },
+    {
+        "QuestionId": 3603618,
+        "UniteNo": 5,
+        "PageNumber": 114,
+        "AnswerExplanation": "<p>Althusser ideolojiyi gerçeğin tersyüz edilmesi veya bir dayatma olarak görmez, aksine toplumsal yaşamda farkında olmadan bizi çağıran bir dizi sosyal dinamik olarak tanımlar</p>\n<p>Althusser’e göre ideoloji, bireyleri kendi toplumsal varlıkları üzerinden özne olarak kabul eder ve onların kimliklerine uygun bir şekilde onları “çağırır”. Dünyayla yaşanan ilişki esas olarak bireyin bir özne olarak kurulduğu süreçten ibarettir. Bu her bireye, toplumsal pratiklere girdiğinde bir toplumsal kimlik veren çeşitli terimlerle hitap edilmesi ya da çağrılması ile olur. Birey, çağırıldığı özne konumunu (toplumsal kimliği) kabul ederse (kurulursa) ideolojinin sürekli olarak olumlandığı, evetlendiği bir dünyayı deneyimler ”</p>",
+        "Title": "",
+        "Text": "<p>Althusser’e göre ideoloji bireyleri kendi toplumsal varlıkları üzerinden özne olarak kabul eder ve kimliklerine uygun bir şekilde onları “çağırır”. Buna gör aşağıdakilerden hangisi söylenebilir?</p>\n<p>I. Dünyayla yaşanan ilişki esas olarak bireyin bir özne olarak kurulduğu süreçten ibarettir.</p>\n<p>II. Birey, çağırıldığı özne konumunu kabul ederse ideolojinin sürekli olarak olumlandığı, evetlendiği bir dünyayı deneyimler</p>\n<p>III. İdeoloji gerçeğin tersyüz edilmesi ve bir dayatmasıdır.</p>",
+        "A": "<p>Yalnızca I</p>",
+        "B": "<p>Yalnızca II</p>",
+        "C": "<p>I ve II</p>",
+        "D": "<p>II ve III</p>",
+        "E": "<p>I , II ve III</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 14
     },
     {
         "QuestionId": 3842608,
@@ -365,7 +429,7 @@
         "E": "Entelektüel kitle",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 14
+        "QuestionNumber": 15
     },
     {
         "QuestionId": 3842617,
@@ -384,99 +448,35 @@
         "QuestionNumber": 17
     },
     {
-        "QuestionId": 3842623,
+        "QuestionId": 3603415,
         "UniteNo": 5,
-        "PageNumber": 112,
-        "AnswerExplanation": "Medya",
-        "Title": "Bu hücrelerin başında da başlıca kültür oluşturucusu olan <strong>medya </strong>gelmektedir. <em><strong>Medya,</strong></em> kapitalist toplumlarda egemen değerleri haklılaştıran ve hegemonyayı pekiştiren bir iktidar aygıtı görünümündedir.",
-        "Text": "<p>Kapitalist toplumlarda egemen değerleri haklılaştıran ve hegemonyayı pekiştiren iktidar aygıtı aşağıdakilerden hangisidir?</p>",
-        "A": "Siyaset",
-        "B": "Meta Fetişizmi",
-        "C": "Toplum Aydınları",
-        "D": "Sivil Toplum",
-        "E": "Medya",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
-    },
-    {
-        "QuestionId": 3603600,
-        "UniteNo": 5,
-        "PageNumber": 103,
-        "AnswerExplanation": "<p>Eleştirel yaklaşımlar kökenini Karl Marx’ın teorilerinden alır. Toplumsal yaşamda ekonominin belirleyiciliğini (üretim biçimi ve ilişkileri) sınıf çatışması ve burjuvazinin etkinliğini merkeze alır ve iletişimi de bu bağlamda, egemen değerleri yücelten, sınıf çatışmasını, yabancılaşmayı ve sömürüyü gizleyen bir iktidar aygıtı olarak ele alır.</p>",
-        "Title": "",
-        "Text": "<p>Eleştirel yaklaşımlar kökeninde hangi düşünür yer alır?</p>",
-        "A": "<p>Antonio Gramsci</p>",
-        "B": "<p>Karl Marx</p>",
-        "C": "<p>Louis Pierre Althusser</p>",
-        "D": "<p>Max Weber</p>",
-        "E": "<p>Theodor Adorno</p>",
-        "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
-    },
-    {
-        "QuestionId": 3603618,
-        "UniteNo": 5,
-        "PageNumber": 114,
-        "AnswerExplanation": "<p>Althusser ideolojiyi gerçeğin tersyüz edilmesi veya bir dayatma olarak görmez, aksine toplumsal yaşamda farkında olmadan bizi çağıran bir dizi sosyal dinamik olarak tanımlar</p>\n<p>Althusser’e göre ideoloji, bireyleri kendi toplumsal varlıkları üzerinden özne olarak kabul eder ve onların kimliklerine uygun bir şekilde onları “çağırır”. Dünyayla yaşanan ilişki esas olarak bireyin bir özne olarak kurulduğu süreçten ibarettir. Bu her bireye, toplumsal pratiklere girdiğinde bir toplumsal kimlik veren çeşitli terimlerle hitap edilmesi ya da çağrılması ile olur. Birey, çağırıldığı özne konumunu (toplumsal kimliği) kabul ederse (kurulursa) ideolojinin sürekli olarak olumlandığı, evetlendiği bir dünyayı deneyimler ”</p>",
-        "Title": "",
-        "Text": "<p>Althusser’e göre ideoloji bireyleri kendi toplumsal varlıkları üzerinden özne olarak kabul eder ve kimliklerine uygun bir şekilde onları “çağırır”. Buna gör aşağıdakilerden hangisi söylenebilir?</p>\n<p>I. Dünyayla yaşanan ilişki esas olarak bireyin bir özne olarak kurulduğu süreçten ibarettir.</p>\n<p>II. Birey, çağırıldığı özne konumunu kabul ederse ideolojinin sürekli olarak olumlandığı, evetlendiği bir dünyayı deneyimler</p>\n<p>III. İdeoloji gerçeğin tersyüz edilmesi ve bir dayatmasıdır.</p>",
-        "A": "<p>Yalnızca I</p>",
-        "B": "<p>Yalnızca II</p>",
-        "C": "<p>I ve II</p>",
-        "D": "<p>II ve III</p>",
-        "E": "<p>I , II ve III</p>",
-        "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
-    },
-    {
-        "QuestionId": 3603423,
-        "UniteNo": 5,
-        "PageNumber": 115,
-        "AnswerExplanation": "<p>Althusser devletin baskı aygıtlarını asker, polis ve mahkemeler olarak sınıflandırır ve halkı zor kullanarak egemen söylemin içinde davranmaya zorunlu kıldıklarının altını çizer. Devlet, baskı aygıtları aracılığı ile otoritesini tesis eder ve halkı zor kullanarak yönetir. </p>",
-        "Title": "<p>Althusser devletin baskı aygıtlarını asker, polis ve mahkemeler olarak sınıflandırır ve halkı zor kullanarak egemen söylemin içinde davranmaya zorunlu kıldıklarının altını çizer. Devlet, baskı aygıtları aracılığı ile otoritesini tesis eder ve halkı zor kullanarak yönetir. </p>",
-        "Text": "<p>Devletin baskı aygıtlarını asker, polis ve mahkemeler olarak sınıflandırarak, egemen sınıfın halkı bunları kullanarak kendi söylemi içinde davranmaya zorunlu kıldığını savunan kişi aşağıdakilerden hangisidir?</p>",
-        "A": "<p>Louis Althusser</p>",
-        "B": "<p>Antonio Gramsci</p>",
-        "C": "<p>Herbert Marcuse</p>",
-        "D": "<p>Karl Max</p>",
-        "E": "<p>Max Horkheimer</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
-    },
-    {
-        "QuestionId": 3842615,
-        "UniteNo": 5,
-        "PageNumber": 105,
-        "AnswerExplanation": "Meta",
-        "Title": "<strong>Marx,</strong> <em><strong>metayı</strong> </em>insanların belli ihtiyaçlarını karşılayan, belli amaç doğrultusunda üretilen,<br />alınıp satılan bir “şey” olarak tanımlamaktadır.",
-        "Text": "<p>Marx, insanların belli ihtiyaçlarını karşılayan, belli amaç doğrultusunda üretilen, alınıp satılan bir <strong>“şey”</strong> olarak tanımlamadığı <strong>kavram</strong> aşağıdakilerden hangisidir?</p>",
-        "A": "Emek",
-        "B": "Burjuva",
-        "C": "Feodalite",
-        "D": "Kültür",
-        "E": "Meta",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
-    },
-    {
-        "QuestionId": 3603412,
-        "UniteNo": 5,
-        "PageNumber": 106,
-        "AnswerExplanation": "<p>Almanya’dan getirdikleri kitle ve faşizm birikimlerini, Amerikan kitle kültürü ile harmanlayarak onu teorize etmeye çalışan isimler</p>\n<p>Horkheimer, Lowenthal ve Adorno dur</p>",
-        "Title": "<p>Almanya’dan getirdikleri kitle ve faşizm birikimlerini, Amerikan kitle kültürü ile harmanlayarak onu teorize etmeye çalışan isimler</p>\n<p>Horkheimer, Lowenthal ve Adorno dur</p>",
-        "Text": "<p>Almanya’dan getirdikleri kitle ve faşizm birikimlerini, Amerikan kitle kültürü ile harmanlayarak onu teorize etmeye çalışan isimler için aşağıdakilerden hangisi birlikte doğru olarak verilmiştir?</p>",
-        "A": "<p>Horkheimer</p>",
-        "B": "<p>Horkheimer ve Adorno</p>",
-        "C": "<p>Lowenthal ve Adorno</p>",
-        "D": "<p>Horkheimer, Lowenthal ve Adorno</p>",
-        "E": "<p>Horkheimer ve Lowenthal</p>",
+        "PageNumber": 109,
+        "AnswerExplanation": "<p>Frankfurt Okulunun teorisyenlerinden Herbert Marcuse “Tek Boyutlu İnsan” kitabında görsel kültürün kitleleri moronlaştırıcı ve tektipleştirici etkilerine dikkat çeker</p>",
+        "Title": "<p>Frankfurt Okulunun teorisyenlerinden Herbert Marcuse “Tek Boyutlu İnsan” (1990) kitabında görsel kültürün kitleleri moronlaştırıcı ve tektipleştirici etkilerine dikkat çeker</p>",
+        "Text": "<p>Tek Boyutlu İnsan kitabını yazan Frankfurt Okulunun teorisyenlerinden olan yazar aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Horheimer</p>",
+        "B": "<p>Benjamin</p>",
+        "C": "<p>George Orwell</p>",
+        "D": "<p>Herbert Marcuse</p>",
+        "E": "<p>Walter Benjamin</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 2
+        "QuestionNumber": 4
+    },
+    {
+        "QuestionId": 3842613,
+        "UniteNo": 5,
+        "PageNumber": 104,
+        "AnswerExplanation": "İdeoloji",
+        "Title": "<strong>Marx,</strong> <em><strong>ideolojiyi,</strong> </em>kitlelerin yaşadıkları toplumsal sömürünün farkına varmalarını engelleyen ve iktidarlar tarafından manipüle edilen bir yanlış bilinç şeklinde kavramsallaştırmaktadır.",
+        "Text": "<p>Marx, kitlelerin yaşadıkları toplumsal sömürünün farkına varmalarını engelleyen ve iktidarlar tarafından manipüle edilen bir yanlış bilinç şeklinde kavramsallaştırmaktadır. Bu <strong>kavram</strong> aşağıdakilerden hangisidir?</p>",
+        "A": "Kapitalizm",
+        "B": "İdeoloji",
+        "C": "Dogmatizm",
+        "D": "Materyalizm",
+        "E": "Propaganda",
+        "CorrectAnswer": "B",
+        "UserAnswer": null,
+        "QuestionNumber": 15
     }
 ]

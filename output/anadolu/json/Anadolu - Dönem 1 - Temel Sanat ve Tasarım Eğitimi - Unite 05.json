@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 3861124,
-        "SoruMetni": "\" Mekan içindeki pozisyonunu gösteren yer, belirleyici bir işarettir.\"<br/> Yukarıda tanımı yapılan, aşağıdakilerden hangisidir?",
+        "SoruMetni": "\" Mekan içindeki pozisyonunu gösteren yer, belirleyici bir işarettir.\"<br/>Yukarıda tanımı yapılan, aşağıdakilerden hangisidir?",
         "A": "Nokta",
         "B": "Çizgi",
         "C": "Düzlem",
@@ -177,11 +177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanatta ve tasarımda renk görsel, kültürel, sembolik ve psikolojik özellikleriyle görsel manipülasyonlar<br/><br/>yaratmaya, duygusal tepkiler oluşturmaya, anlamı ya da mesajı iletmeye yarayan bir araçtır."
+        "Aciklama": "Sanatta ve tasarımda renk görsel, kültürel, sembolik ve psikolojik özellikleriyle görsel manipülasyonlar<br/>yaratmaya, duygusal tepkiler oluşturmaya, anlamı ya da mesajı iletmeye yarayan bir araçtır."
     },
     {
         "SoruID": 3861129,
-        "SoruMetni": "Bir rengin, kompozisyon içerisinde farklı değer ve yoğunluklarda tekrarlanması veya diğer renklerle birlikte düzenli olarak yer alması hangi kavramla ifade edilir?<br/>",
+        "SoruMetni": "Bir rengin, kompozisyon içerisinde farklı değer ve yoğunluklarda tekrarlanması veya diğer renklerle birlikte düzenli olarak yer alması hangi kavramla ifade edilir?",
         "A": "Çizgi",
         "B": "Uzam",
         "C": "Mekan",
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tasarımın temel ögeleri olan nokta, çizgi, düzlem ve hacim tasarımda kavramsal ögelerdir."
+        "Aciklama": "TASARIMDA KAVRAMSAL ÖGELER<br>Tasarımın temel ögeleri olan nokta, çizgi, düzlem ve hacim tasarımda kavramsal ögelerdir."
     },
     {
         "SoruID": 3861132,
-        "SoruMetni": "Aşağıdaki cümlelerdeki boşlukları sırasıyla doğru şekilde tamamlayan sözcük grubu hangi seçenekte verilmiştir?<br/><br/>I. İnsan bedeninin yer üzerinde ayakta duruşu izlenimi ................. çizgi ile verilebilir.<br/><br/>II. ......... çizgi dinlenme, sakinlik gibi hisler bırakır.<br/><br/>III. ............. çizgiler heyecan, bazen gerilim yaratmak için kullanılır.<br/><br/>IV. .............. çizgiler ise düzensizlik hissi uyandırmak için kullanılabilir.",
+        "SoruMetni": "Aşağıdaki cümlelerdeki boşlukları sırasıyla doğru şekilde tamamlayan sözcük grubu hangi seçenekte verilmiştir?<br/>I. İnsan bedeninin yer üzerinde ayakta duruşu izlenimi ................. çizgi ile verilebilir.<br/>II. ......... çizgi dinlenme, sakinlik gibi hisler bırakır.<br/>III. ............. çizgiler heyecan, bazen gerilim yaratmak için kullanılır.<br/>IV. .............. çizgiler ise düzensizlik hissi uyandırmak için kullanılabilir.",
         "A": "Yatay- dikey- diyagonal- zikzak",
         "B": "Yatay- kaligrafik- zikzak- dikey",
         "C": "Dikey- diyagonal- zikzak- yatay",
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tüm çizgiler dikey, yatay, diyagonal, eğri ve zikzak olmak üzere beşe ayrılır. Dikey çizgiler, yatay eksene dik olarak aşağı ve yukarı yönde hareket oluştururlar: Tıpkı insan bedeninin yer üzerinde ayakta duruşu gibi. Dikey çizgiler yukarı uzanan hareketiyle izleyicide dinamik bir etki yaratır. Yatay çizgi ise dikeyin aksine daha statiktir ve dinlenme, sakinlik gibi hisler bırakır. Diyagonal çizgiler yükseliyor ya da düşüyormuş izlenimi vermeleri nedeniyle bazen heyecan bazen gerilim yaratmak için kullanılır. Zikzak çizgiler ise düzensizlik hissi uyandırmak için kullanılabilir. Kaligrafik çizgiler tek vuruşta inceden kalına doğru çekilen fırça vuruşlarıyla yaratılır, bu vuruşlar doğallığı, coşkuyu ve zarafeti dışa vurur."
+        "Aciklama": "TASARIMDA KAVRAMSAL ÖGELER<br>Tüm çizgiler dikey, yatay, diyagonal, eğri ve zikzak olmak üzere beşe ayrılır. Dikey çizgiler, yatay eksene dik olarak aşağı ve yukarı yönde hareket oluştururlar: Tıpkı insan bedeninin yer üzerinde ayakta duruşu gibi. Dikey çizgiler yukarı uzanan hareketiyle izleyicide dinamik bir etki yaratır. Yatay çizgi ise dikeyin aksine daha statiktir ve dinlenme, sakinlik gibi hisler bırakır. Diyagonal çizgiler yükseliyor ya da düşüyormuş izlenimi vermeleri nedeniyle bazen heyecan bazen gerilim yaratmak için kullanılır. Zikzak çizgiler ise düzensizlik hissi uyandırmak için kullanılabilir. Kaligrafik çizgiler tek vuruşta inceden kalına doğru çekilen fırça vuruşlarıyla yaratılır, bu vuruşlar doğallığı, coşkuyu ve zarafeti dışa vurur."
     },
     {
         "SoruID": 3861133,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düzlemlerin farklı açılarla bir araya gelerek oluşturduğu boşluklar hacim olarak tanımlanabilir. Hacim uzamın ölçülebilir hâlidir. Ağırlığı ve yoğunluğu ile ölçülebilen bir kütle tarafından işgal edilen ya da düzlemler tarafından çevrelenen uzamın hacmi oluşturduğu söylenebilir."
+        "Aciklama": "TASARIMDA KAVRAMSAL ÖGELER<br>Düzlemlerin farklı açılarla bir araya gelerek oluşturduğu boşluklar hacim olarak tanımlanabilir. Hacim uzamın ölçülebilir hâlidir. Ağırlığı ve yoğunluğu ile ölçülebilen bir kütle tarafından işgal edilen ya da düzlemler tarafından çevrelenen uzamın hacmi oluşturduğu söylenebilir."
     },
     {
         "SoruID": 3861134,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Form; geometrik-organik, köşeli-yuvarlak, hareketli-hareketsiz, doğal-yapay, serbest-sınırlı, simetrik-asimetrik olarak sınıflandırılabilir. Küp, pirizma geometrik bir forma; insan, bitki, hayvan ise organik bir forma örnek olabilir. Küp köşeli bir form iken küre yuvarlak bir formdur. Hareketsiz olan heykellerde hareketsiz formdan, kinetiksanat yapılarında ise hareketli formdan söz edilebilir. Elnyapımı seramik bir fincan organik forma örnek iken doğada bulamayacağımız bir form olarak fincan yapay bir formdur."
+        "Aciklama": "TASARIMDA GÖRSEL ÖGELER<br>Form; geometrik-organik, köşeli-yuvarlak, hareketli-hareketsiz, doğal-yapay, serbest-sınırlı, simetrik-asimetrik olarak sınıflandırılabilir. Küp, pirizma geometrik bir forma; insan, bitki, hayvan ise organik bir forma örnek olabilir. Küp köşeli bir form iken küre yuvarlak bir formdur. Hareketsiz olan heykellerde hareketsiz formdan, kinetiksanat yapılarında ise hareketli formdan söz edilebilir. Elnyapımı seramik bir fincan organik forma örnek iken doğada bulamayacağımız bir form olarak fincan yapay bir formdur."
     },
     {
         "SoruID": 3861135,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Serbest gelişmiş eğilimlere benzeyen taşlarda, bulutlarda, yapraklarda görülen, canlı organizmalarda bulunan şekiller biyomorfik ya da organik olarak adlandırılır. Bu şekiller mimarlar ve tasarımcılar tarafından fazla geometrik kalacak şekillerin sertliğini kırmak üzere sıklıkla kullanılır. Miyazaki’nin animasyonlarında bu organik yapılar sıklıkla görülür (Ocvirk, Stinson ve diğerleri, 2013). Gossin (2015) Miyazaki’nin ekolojik estetiği ile animasyonlarında, doğal bir sanatsal hayal gücü ve evrim süreciyle ortaya çıkıp büyüdüğünü ifade eder. Tasarımlarında rahatlatıcı bir etki yaratan organik yapının onunsanatını özel kıldığını belirtir. Çevresel görüşleri veya ekolojik değerleri dayatmadan yaşamın doğal bir parçası olarak animasyonlarında sunduğu bu şekillerin Miyazaki sanatının yaşayan bir varlık olma özelliğine büyük oranda katkı sağladığı söylenebilir."
+        "Aciklama": "TASARIMDA GÖRSEL ÖGELER<br>Serbest gelişmiş eğilimlere benzeyen taşlarda, bulutlarda, yapraklarda görülen, canlı organizmalarda bulunan şekiller biyomorfik ya da organik olarak adlandırılır. Bu şekiller mimarlar ve tasarımcılar tarafından fazla geometrik kalacak şekillerin sertliğini kırmak üzere sıklıkla kullanılır. Miyazaki’nin animasyonlarında bu organik yapılar sıklıkla görülür (Ocvirk, Stinson ve diğerleri, 2013). Gossin (2015) Miyazaki’nin ekolojik estetiği ile animasyonlarında, doğal bir sanatsal hayal gücü ve evrim süreciyle ortaya çıkıp büyüdüğünü ifade eder. Tasarımlarında rahatlatıcı bir etki yaratan organik yapının onunsanatını özel kıldığını belirtir. Çevresel görüşleri veya ekolojik değerleri dayatmadan yaşamın doğal bir parçası olarak animasyonlarında sunduğu bu şekillerin Miyazaki sanatının yaşayan bir varlık olma özelliğine büyük oranda katkı sağladığı söylenebilir."
     },
     {
         "SoruID": 3861136,
@@ -337,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Işığın nesneler üzerindeki aydınlatma derecesi olarak tanımlanan ton renkler arasındaki geçişlerle oluşur."
+        "Aciklama": "TASARIMDA GÖRSEL ÖGELER<br>Işığın nesneler üzerindeki aydınlatma derecesi olarak tanımlanan ton renkler arasındaki geçişlerle oluşur."
     },
     {
         "SoruID": 3861137,
-        "SoruMetni": "\"............., kompozisyonda uzak yakın izlenimini yaratarak ögelerin birbiriyle ilişkisi üzerinden oluşan mekânda rengin, şeklin ya da boyutun birbirine göre düzenlenmesidir.\"<br/> Yukarıdaki cümle hangi tasarım ögesinin tanımıdır?",
+        "SoruMetni": "\"............., kompozisyonda uzak yakın izlenimini yaratarak ögelerin birbiriyle ilişkisi üzerinden oluşan mekânda rengin, şeklin ya da boyutun birbirine göre düzenlenmesidir.\"<br/>Yukarıdaki cümle hangi tasarım ögesinin tanımıdır?",
         "A": "Denge",
         "B": "Konum",
         "C": "Yön",
@@ -357,11 +357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Konum, kompozisyonda uzak yakın izlenimini yaratarak ögelerin birbiriyle ilişkisi üzerinden oluşan mekânda rengin, şeklin ya da boyutun birbirine göre düzenlenmesidir."
+        "Aciklama": "TASARIMDA İLİŞKİSEL ÖGELER<br>Konum, kompozisyonda uzak yakın izlenimini yaratarak ögelerin birbiriyle ilişkisi üzerinden oluşan mekânda rengin, şeklin ya da boyutun birbirine göre düzenlenmesidir."
     },
     {
         "SoruID": 3861138,
-        "SoruMetni": "“Yüzeyde oluşan, görülebilir ve hissedilebilir renk, doku, ton farklılaşmasıdır.\"<br/> Yukarıdaki tanım hangi tasarım ögesinin tanımıdır?",
+        "SoruMetni": "“Yüzeyde oluşan, görülebilir ve hissedilebilir renk, doku, ton farklılaşmasıdır.\"<br/>Yukarıdaki tanım hangi tasarım ögesinin tanımıdır?",
         "A": "Espas",
         "B": "Konum",
         "C": "Yön",
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Leke “yüzeyde oluşan, görülebilir ve hissedilebilir renk, doku, ton farklılaşmasıdır”."
+        "Aciklama": "TASARIMDA İLİŞKİSEL ÖGELER<br>Leke “yüzeyde oluşan, görülebilir ve hissedilebilir renk, doku, ton farklılaşmasıdır”."
     },
     {
         "SoruID": 3861139,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu bilimin temelinde ortak değerler, toplumsal uzlaşmayla belirlenen kodlar yer alır. Kodlar toplumların kabul ettiği kuralların işaretlerinden oluşur. Daha önce kodlanmış bu işaretleri çözerek imge okunur."
+        "Aciklama": "TASARIMDA UYGULAMALI ÖGELER<br>Bu bilimin temelinde ortak değerler, toplumsal uzlaşmayla belirlenen kodlar yer alır. Kodlar toplumların kabul ettiği kuralların işaretlerinden oluşur. Daha önce kodlanmış bu işaretleri çözerek imge okunur."
     },
     {
         "SoruID": 3861140,
@@ -441,7 +441,7 @@
     },
     {
         "SoruID": 3861142,
-        "SoruMetni": "<ol><br/><li>Görsel, kültürel, sembolik ve psikolojik özellikleriyle görsel manipülasyonlar yaratır.</li><br/><li> Duygusal tepkiler oluşturur.</li><br/><li> Nesnelerin görsel veya dokunsal bir örüntü yüzeyidir.</li><br/><li>Anlamı veya mesajı iletmeye yarar.</li><br/></ol><br/>Renk ile ilgili yukarıdakilerden hangileri söylenebilir?",
+        "SoruMetni": "<ol><br/><li>Görsel, kültürel, sembolik ve psikolojik özellikleriyle görsel manipülasyonlar yaratır.</li><br/><li> Duygusal tepkiler oluşturur.</li><br/><li> Nesnelerin görsel veya dokunsal bir örüntü yüzeyidir.</li><br/><li>Anlamı veya mesajı iletmeye yarar.</li><br/></ol><br/>Renk ile ilgili yukarıdakilerden hangileri söylenebilir?",
         "A": "a,b,d",
         "B": "a,b,c",
         "C": "b,c,d",
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tasarımcılar çoğunlukla tasarımı görsel iletişimin aracı olan dile, tasarımın ögelerini ise alfabeye benzetir. Bu ögeler kavramsal (nokta, çizgi, düzlem, hacim)<br/><br/>Diğer öğeler ise görsel (biçim, şekil, form, boyut, oran-orantı, renk, ton, armoni, doku), ilişkisel (yön, konum, boşluk, leke) ve uygulamalı (temsil, anlam, içerik, görsel anlatı) olarak sınıflandırılabilir.<br/>"
+        "Aciklama": "Tasarımcılar çoğunlukla tasarımı görsel iletişimin aracı olan dile, tasarımın ögelerini ise alfabeye benzetir. Bu ögeler kavramsal (nokta, çizgi, düzlem, hacim)<br/>Diğer öğeler ise görsel (biçim, şekil, form, boyut, oran-orantı, renk, ton, armoni, doku), ilişkisel (yön, konum, boşluk, leke) ve uygulamalı (temsil, anlam, içerik, görsel anlatı) olarak sınıflandırılabilir."
     },
     {
         "SoruID": 3861147,

@@ -1,5 +1,25 @@
 [
     {
+        "SoruID": 3513400,
+        "SoruMetni": "10 Kasım 1938 tarihinde Atatürk’ün vefatı sonrası Cumhurbaşkanı Vekili ………………………..11 Kasım 1938 günü yeni Cumhurbaşkanlığı seçimi için milletvekillerini Ankara’ya çağırmıştır.",
+        "A": "İsmet İnönü",
+        "B": "Celal Bayar",
+        "C": "Abdulhalik Renda",
+        "D": "Kazım Özalp",
+        "E": "Cevdet Sunay",
+        "DogruCevap": "C",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 3,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:56.817348",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Cevap C şıkkıdır."
+    },
+    {
         "SoruID": 3513401,
         "SoruMetni": "10 Kasım 1938 tarihinde Atatürk’ün vefatı sonrası Anayasanın 34. maddesi gereği Cumhurbaşkanı seçimine başlanmış, 387 mevcutlu mecliste oylamaya katılan…………..............vekilin oyu ile yeni Cumhurbaşkanı olarak İsmet İnönü seçilmiştir",
         "A": "347",
@@ -61,7 +81,7 @@
     },
     {
         "SoruID": 3513404,
-        "SoruMetni": "Aşağıdakilerden hangisi  7 Ocak 1946 tarihinde kurulan Demokrat Parti’ nin kurucuları arasında değildir ?",
+        "SoruMetni": "Aşağıdakilerden hangisi 7 Ocak 1946 tarihinde kurulan Demokrat Parti’ nin kurucuları arasında değildir ?",
         "A": "Celal Bayar",
         "B": "Refik Koraltan",
         "C": "Fuat Köprülü",
@@ -120,6 +140,46 @@
         "Aciklama": "Cevap B şıkkıdır."
     },
     {
+        "SoruID": 3513407,
+        "SoruMetni": "Atatürk’ün son yıllarında Türkiye-Suriye sınırı konusunda “Hatay Sorunu” olarak Türk dış politikasında beliren konu nedeniyle Türk-………………. ilişkileri gergin bir görünüm arz etmekteydi.",
+        "A": "Almanya",
+        "B": "Suriye",
+        "C": "Mısır",
+        "D": "Fransa",
+        "E": "Rusya",
+        "DogruCevap": "D",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 3,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:56.735174",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Cevap D şıkkıdır."
+    },
+    {
+        "SoruID": 3513408,
+        "SoruMetni": "İngiltere başbakanı Winston Churchill ve ABD başkanı Theodore Roosevelt, 14-26 Ocak 1943 tarihleri arasında Kazablanka’da savaşa dair görüşmüşlerdi. Bu görüşmede İngiltere, Balkanlarda Almanya’ya karşı yeni bir cephe açılmasını önermekteydi.. Nitekim bu görüşmelerden kısa bir süre sonra Churchill, İnönü ve Saracoğlu ile durumu görüşmek üzere 30 Ocak 1943 tarihinde …………… gelmiştir.",
+        "A": "Ankara’ya",
+        "B": "İstanbul’a",
+        "C": "Sivas’a",
+        "D": "İzmir’e",
+        "E": "Adana’ya",
+        "DogruCevap": "E",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 3,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:56.797956",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Cevap E şıkkıdır."
+    },
+    {
         "SoruID": 3513409,
         "SoruMetni": "Aşağıdakilerden hangisi II. Dünya Savaşı’nın hemen sonrası Türkiye’ye karşı tehditkar tutum almıştı ?",
         "A": "Almanya",
@@ -157,7 +217,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Saydam hükûmetine ekonomi politikası açısından bakıldığında, II. Dünya Savaşı’nın tedirginliğinin yarattığı sıkı bir ekonomik denetim döneminin yaşandığı görülmektedir. II. Dünya Savaşı’nın başlaması ile birlikte Türkiye’de de, diğer birçok ülke gibi, ortaya çıkabilecek darlık ve sıkıntıları engellemek amacıyla ekonomik tedbirler alma ihtiyacı duyulmuştur. Bir bakımdan <em>“Savaş Ekonomisi” </em>olarak değerlendirilebilecek bu süreç, Saydam hükûmeti dönemine rastlamaktadır. Dönemin ekonomik perspektifini çizen dayanak, 18 Ocak 1940 tarihli Millî Korunma Kanunu olmuştur."
+        "Aciklama": "<strong><span style=\"font-family: 'Verdana',sans-serif; color: #a00a35;\">Refik Saydam Hükûmeti (25 Ocak 1939-8 Temmuz 1942) </span></strong><br>Saydam hükûmetine ekonomi politikası açısından bakıldığında, II. Dünya Savaşı’nın tedirginliğinin yarattığı sıkı bir ekonomik denetim döneminin yaşandığı görülmektedir. II. Dünya Savaşı’nın başlaması ile birlikte Türkiye’de de, diğer birçok ülke gibi, ortaya çıkabilecek darlık ve sıkıntıları engellemek amacıyla ekonomik tedbirler alma ihtiyacı duyulmuştur. Bir bakımdan <em>“Savaş Ekonomisi” </em>olarak değerlendirilebilecek bu süreç, Saydam hükûmeti dönemine rastlamaktadır. Dönemin ekonomik perspektifini çizen dayanak, 18 Ocak 1940 tarihli Millî Korunma Kanunu olmuştur."
+    },
+    {
+        "SoruID": 3513418,
+        "SoruMetni": "Çiftçiyi Topraklandırma Kanunu, 11 Haziran 1945 tarihinde oylamaya katılan 345 milletveki- linin oylarıyla kabul edilmiştir. Kanunun oylamasına 104 milletvekili katılmamıştır. Aşağıdaki hangi isimler katılmayanlar arasındadır?<br/>I. Adnan Menderes<br/>II. Cavit Oral<br/>III. Cemal Gürsel<br/>IV. Refet Bele",
+        "A": "I, II ve IV",
+        "B": "I, II, III ve IV",
+        "C": "II, III ve IV",
+        "D": "III ve IV",
+        "E": "I ve II",
+        "DogruCevap": "A",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 3,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:56.736873",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<strong><span style=\"font-family: 'Verdana',sans-serif; color: #a00a35;\">Saracoğlu Hükûmeti (9 Temmuz 1942-7 Ağustos 1946) </span></strong><br>Çiftçiyi Topraklandırma Kanunu, 11 Haziran 1945 tarihinde oylamaya katılan 345 milletvekilinin oylarıyla kabul edilmiştir. Kanunun oylamasına 104 milletvekili katılmamıştır. Katılmayanlar arasında Celal Bayar, Adnan Menderes, Kazım Karabekir, Hikmet Bayur, Refet Bele, Fuat Köprülü, Cavit Oral, Refik Koraltan, Emin Sazak, Feridun Fikri Düşünsel, Muhiddin Paha Pars gibi isimler de vardı."
     },
     {
         "SoruID": 3513419,
@@ -177,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çok Partili Siyasal Hayata geçiş sürecinde Türkiye’de kurulan ilk parti, arti nizamnamesine göre 24 Temmuz 1945 tarihinde Nuri Demirağ tarafından kurulan Milli Kalkınma Partisi olmuştur."
+        "Aciklama": "<strong>Saracoğlu Hükûmeti (9 Temmuz 1942-7 Ağustos 1946)</strong><br>Çok Partili Siyasal Hayata geçiş sürecinde Türkiye’de kurulan ilk parti, arti nizamnamesine göre 24 Temmuz 1945 tarihinde Nuri Demirağ tarafından kurulan Milli Kalkınma Partisi olmuştur."
     },
     {
         "SoruID": 3513420,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri Saraçoğlu Hükümeti döneminde kabul edilen Kanunlardır.<br/><br/> I. Varlık Vergisi kanunu<br/><br/>II. Gelir vergisi kanunu<br/><br/>III. Toprak kanunu<br/><br/>IV. Seçim kanunu",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri Saraçoğlu Hükümeti döneminde kabul edilen Kanunlardır.<br/>I. Varlık Vergisi kanunu<br/>II. Gelir vergisi kanunu<br/>III. Toprak kanunu<br/>IV. Seçim kanunu",
         "A": "I ve III",
         "B": "I, II, IV",
         "C": "I, III, IV",
@@ -203,7 +283,7 @@
         "SoruID": 3513421,
         "SoruMetni": "Türkiye’de ilk defa tek dereceli milletvekili seçimin yapılması mecliste hangi tarihte tartışılmıştır?",
         "A": "1946",
-        "B": "1944<br/>",
+        "B": "1944",
         "C": "1945",
         "D": "1943",
         "E": "1947",
@@ -281,7 +361,7 @@
     },
     {
         "SoruID": 3513425,
-        "SoruMetni": "26 Mayıs 1944 tarihinde 17 adet Alman gemisinin boğazlardan geçirilmesi sonucu dış politikada aşağıdaki durumlardan hangileri görülmüştür?<br/>  I. İngiltere, Almanya’ya ait savaş gemilerinin Montreux’ye aykırı olarak boğazlardan geçirildiğine dair Türkiye’ye nota vermiştir.<br/> II. Türk-Alman diplomatik ilişkiler durmuştur.<br/> III. Türk siyasi hayatında ilk defa bir bakan (Dış İçleri Bakanı Numan Menemencioğlu) sağlık sebebi gösterilmeksizin istifa etmiştir.<br/> IV. Almanya’ya krom sevkiyatı durdurulmuştur.",
+        "SoruMetni": "26 Mayıs 1944 tarihinde 17 adet Alman gemisinin boğazlardan geçirilmesi sonucu dış politikada aşağıdaki durumlardan hangileri görülmüştür?<br/>I. İngiltere, Almanya’ya ait savaş gemilerinin Montreux’ye aykırı olarak boğazlardan geçirildiğine dair Türkiye’ye nota vermiştir.<br/>II. Türk-Alman diplomatik ilişkiler durmuştur.<br/>III. Türk siyasi hayatında ilk defa bir bakan (Dış İçleri Bakanı Numan Menemencioğlu) sağlık sebebi gösterilmeksizin istifa etmiştir.<br/>IV. Almanya’ya krom sevkiyatı durdurulmuştur.",
         "A": "I, II, III",
         "B": "II, III, IV",
         "C": "I, II, III, IV",
@@ -301,7 +381,7 @@
     },
     {
         "SoruID": 3513470,
-        "SoruMetni": "26 Aralık 1938 tarihinde toplanan CHP Olağanüstü Kurultayı’nda Türkiye Cumhuriyeti’nin kurucusu Mustafa Kemal Atatürk için kabul edilen unvan aşağıdakilerden hangisidir?",
+        "SoruMetni": "26 Aralık 1938 tarihinde toplanan CHP Olağanüstü Kurultayı’nda Türkiye Cumhuriyeti’nin kurucusu Mustafa Kemal Atatürk için kabul edilen unvan aşağıdakilerden hangisidir?",
         "A": "Değişmez Genel Başkan",
         "B": "Ulu Önder",
         "C": "Tek Adam",
@@ -317,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "26 Aralık 1938 tarihinde toplanan CHP Olağanüstü Kurultayı’nda İsmet İnönü’ye resmen değişmez “Millî Şef” ünvanı verilmiştir. Parti tüzüğünde yapılan değişikle Türkiye Cumhuriyeti’nin kurucusu Mustafa Kemal Atatürk “ebedi başkan” ilan edilmiş, İsmet İnönü de “değişmez genel başkan” olmuştur."
+        "Aciklama": "26 Aralık 1938 tarihinde toplanan CHP Olağanüstü Kurultayı’nda İsmet İnönü’ye resmen değişmez “Millî Şef” ünvanı verilmiştir. Parti tüzüğünde yapılan değişikle Türkiye Cumhuriyeti’nin kurucusu Mustafa Kemal Atatürk “ebedi başkan” ilan edilmiş, İsmet İnönü de “değişmez genel başkan” olmuştur."
     },
     {
         "SoruID": 3513471,
@@ -337,7 +417,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cumhuriyet Halk Partisi Beşinci Büyük Kurultayı, 29 Mayıs-3 Haziran 1939 tarihleri arasında toplanmıştır. Bu kurultay,<strong> devlet-parti bütünleşmesinde değişiklik yapılması</strong>, parti müfettişliğinin yeniden oluşturulması ve Müstakil Grup kurulması bakımından önem arz etmektedir. Kurultayda 18 Haziran 1936 tarihli uygulama gereğince birbirine bağlı olan parti ve devletin birbirinden ayrılması kararı alınmıştır. Alınan karar çerçevesinde Cumhuriyet Halk Partisi Genel Sekreterliğine Ahmet Fikri Tuzer getirilmiştir."
+        "Aciklama": "Cumhuriyet Halk Partisi Beşinci Büyük Kurultayı, 29 Mayıs-3 Haziran 1939 tarihleri arasında toplanmıştır. Bu kurultay,<strong> devlet-parti bütünleşmesinde değişiklik yapılması</strong>, parti müfettişliğinin yeniden oluşturulması ve Müstakil Grup kurulması bakımından önem arz etmektedir. Kurultayda 18 Haziran 1936 tarihli uygulama gereğince birbirine bağlı olan parti ve devletin birbirinden ayrılması kararı alınmıştır. Alınan karar çerçevesinde Cumhuriyet Halk Partisi Genel Sekreterliğine Ahmet Fikri Tuzer getirilmiştir."
+    },
+    {
+        "SoruID": 3513472,
+        "SoruMetni": "4 Eylül 1939 tarihinde, İsmail Hüsrev Tökin ve Şevket Süreyya tarafından hazırlanan raporun başlığı aşağıdaki hangi seçenekte yer almaktadır?",
+        "A": "Milli Ekonomiyi Koruma Raporu",
+        "B": "Savaş (II. Dünya Savaşı) Emniyet Önlemleri",
+        "C": "Milli Müdafaa Raporu",
+        "D": "Çok Partili Yönetimler Raporu",
+        "E": "Müdafaa Ekonomisi Hakkında Raporu",
+        "DogruCevap": "E",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 3,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:56.846318",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Millî Korunma Kanunu’nun ortaya çıkış serüveni, Avrupa’da savaşın patlak vermesinden önce, 4 Eylül 1939 tarihinde, İsmail Hüsrev Tökin ve Şevket Süreyya tarafından hazırlanan ve “<strong>Müdafaa Ekonomisi Hakkında Rapor</strong>” adı altında Ekonomi Bakanı Hüsnü Çakır’a sunulan rapora dayanmaktadır. Harp ekonomisinin yürütülmesi esaslarını belirten bu rapor, CHP Grubu’nda görüşülerek yeterli bulunmamıştır. Fakat 6 Ocak 1940 tarihinde Recep Peker başkanlığında toplanarak çıkarılacak olan Millî Korunma Kanunu’na<br/>zemin oluşturmuştur."
     },
     {
         "SoruID": 3513473,
@@ -357,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Saydam hükûmeti döneminde halkın temel ihtiyacı olan ekmek meselesi ile ilgili de yeni bir düzenlemeye gidildi. Yeterli buğday stokunun olmaması ve üretimin tüketimi karşılamaması nedeniyle öncelikle iki yol izlenmişti. Birisi ekmeğe buğday dışında hububat malzemesi ilave etmek, diğeri ekmek gramajını azaltarak tüketimi kısmak. Bu nedenle hükûmet bir yandan ekmeğin gramajını azaltırken bir yandan da buğdaya, çavdar, arpa gibi yeni tahıllar eklenmesini istemiştir. Hatta 22 Kasım 1941’de buğday unundan pasta, börek, tatlı ve emsallerinin yapılması yasaklanmıştır (Cumhuriyet, 23.11.1941). Ekmek darlığının  giderilmesi için yukarıda izlenen iki yol da yeterli çözümü sağlamayınca üçüncü bir yol olarak, ekmeğin karne ile halka dağıtma fikri gündeme gelmişti. 16 Aralık 1941 tarihinde toplanan Parti Meclis Grubu, Millî<br/>Korunma Kanunu’nda değişiklik yaparak ekmeği karne usulüne bağlama kararı vermiştir. Önce, bedenen çalışanlara tespit edilen miktardan 150 gram daha fazla verileceği; daha sonra bedenen çalışanlara 750 gram, çalışmayanlara ise bunun yarısı kadar ekmek verileceği duyurulmuştur. 14 Ocak 1942’den itibaren ekmek, İstanbul’da karne ile verilmeye başlanmıştır.<br/> \"C\" şıkkında belirtilen \"Yurtdışından buğday ithal edilmesi\" maddesi yanlıştır. Çünkü yukarıdaki metinde yer almadığı gibi savaş yıllarında dışarıdan buğday ithal etmek mümkün değildir."
+        "Aciklama": "Saydam hükûmeti döneminde halkın temel ihtiyacı olan ekmek meselesi ile ilgili de yeni bir düzenlemeye gidildi. Yeterli buğday stokunun olmaması ve üretimin tüketimi karşılamaması nedeniyle öncelikle iki yol izlenmişti. Birisi ekmeğe buğday dışında hububat malzemesi ilave etmek, diğeri ekmek gramajını azaltarak tüketimi kısmak. Bu nedenle hükûmet bir yandan ekmeğin gramajını azaltırken bir yandan da buğdaya, çavdar, arpa gibi yeni tahıllar eklenmesini istemiştir. Hatta 22 Kasım 1941’de buğday unundan pasta, börek, tatlı ve emsallerinin yapılması yasaklanmıştır (Cumhuriyet, 23.11.1941). Ekmek darlığının giderilmesi için yukarıda izlenen iki yol da yeterli çözümü sağlamayınca üçüncü bir yol olarak, ekmeğin karne ile halka dağıtma fikri gündeme gelmişti. 16 Aralık 1941 tarihinde toplanan Parti Meclis Grubu, Millî<br/>Korunma Kanunu’nda değişiklik yaparak ekmeği karne usulüne bağlama kararı vermiştir. Önce, bedenen çalışanlara tespit edilen miktardan 150 gram daha fazla verileceği; daha sonra bedenen çalışanlara 750 gram, çalışmayanlara ise bunun yarısı kadar ekmek verileceği duyurulmuştur. 14 Ocak 1942’den itibaren ekmek, İstanbul’da karne ile verilmeye başlanmıştır.<br/>\"C\" şıkkında belirtilen \"Yurtdışından buğday ithal edilmesi\" maddesi yanlıştır. Çünkü yukarıdaki metinde yer almadığı gibi savaş yıllarında dışarıdan buğday ithal etmek mümkün değildir."
     },
     {
         "SoruID": 3513474,
@@ -377,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "7 Mayıs 1942 tarihinde haksız kazanç edinerek zenginleşenlere karşı hükûmetin ciddi bir cezaî kanun hazırlığında olduğu basına yansımıştır. Varlık Vergisi ismi ile bilinen ve 26 Mayıs 1942 tarihinde “Fevkalade Kazanç Vergisi” ismiyle meclise sunulan kanun tasarısı, meclis encümeninde görüşülmeye başlamıştır. 18 Haziran 1942 tarihinde toplanan CHP Parti grubu, konu hakkında görüşmüş ve <strong>1 Ocak 1940 tarihinden itibaren 10 bin lirayı geçen kazançlara, vergi uygulama kararı</strong> alınmıştır."
+        "Aciklama": "7 Mayıs 1942 tarihinde haksız kazanç edinerek zenginleşenlere karşı hükûmetin ciddi bir cezaî kanun hazırlığında olduğu basına yansımıştır. Varlık Vergisi ismi ile bilinen ve 26 Mayıs 1942 tarihinde “Fevkalade Kazanç Vergisi” ismiyle meclise sunulan kanun tasarısı, meclis encümeninde görüşülmeye başlamıştır. 18 Haziran 1942 tarihinde toplanan CHP Parti grubu, konu hakkında görüşmüş ve <strong>1 Ocak 1940 tarihinden itibaren 10 bin lirayı geçen kazançlara, vergi uygulama kararı</strong> alınmıştır."
     },
     {
         "SoruID": 3513475,
@@ -397,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çok partili hayata geçiş döneminde, bir kesim ilkeler korunarak çok partili hayata geçilmesinin gerekliliğini savunurken, diğer bir kesim de demokrasinin tam manasıyla kurulması gerekliliğini savunmuştur. Bu tartışmaların yapıldığı esnada, 7 Temmuz 1945 tarihinde, <strong>Nuri Demirağ, Millî Kalkınma Partisi</strong> adında bir parti kurmak için İstanbul Valiliğine başvurmuştur. Demirağ, yeni kurulacak partinin amme hizmetinde önce ahlak, sonra vazife görevi arayacağını, serbest ticareti savunacağını, mecburi askerliğin kaldırılması taraftarı olacağını, bir dereceli seçim sistemi savunucusu olacağını, yeraltı madenlerini işleteceğini, Amerika ve İngiltere gibi devletlerin harici ve dâhili sistemlerine benzeyen, fakat Türk geleneklerine uygun siyasi, idari ve ekonomik bir siyaset güdeceğini açıklamıştır. <br/> Çok Partili Siyasal Hayata geçiş sürecinde Türkiye’de kurulan ilk parti, parti nizamnamesine göre 24 Temmuz 1945 tarihinde Nuri Demirağ tarafından kurulan Milli Kalkınma Partisi olmuştur."
+        "Aciklama": "Çok partili hayata geçiş döneminde, bir kesim ilkeler korunarak çok partili hayata geçilmesinin gerekliliğini savunurken, diğer bir kesim de demokrasinin tam manasıyla kurulması gerekliliğini savunmuştur. Bu tartışmaların yapıldığı esnada, 7 Temmuz 1945 tarihinde, <strong>Nuri Demirağ, Millî Kalkınma Partisi</strong> adında bir parti kurmak için İstanbul Valiliğine başvurmuştur. Demirağ, yeni kurulacak partinin amme hizmetinde önce ahlak, sonra vazife görevi arayacağını, serbest ticareti savunacağını, mecburi askerliğin kaldırılması taraftarı olacağını, bir dereceli seçim sistemi savunucusu olacağını, yeraltı madenlerini işleteceğini, Amerika ve İngiltere gibi devletlerin harici ve dâhili sistemlerine benzeyen, fakat Türk geleneklerine uygun siyasi, idari ve ekonomik bir siyaset güdeceğini açıklamıştır. <br/>Çok Partili Siyasal Hayata geçiş sürecinde Türkiye’de kurulan ilk parti, parti nizamnamesine göre 24 Temmuz 1945 tarihinde Nuri Demirağ tarafından kurulan Milli Kalkınma Partisi olmuştur."
     },
     {
         "SoruID": 3513597,
@@ -417,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "18 Aralık 1946 tarihindeki meclis görüşmelerinde, muhalefet ile iktidar arasında ciddi bir gerilim yaşanmıştır. Adnan Menderes, özellikle memleketin ekonomik durumunu eleştirmiştir. Menderes’ten sonra söz alan Başbakan Recep Peker’in oldukça ağır sözlerine üzerine Demokrat Partili milletvekilleri meclisi terk etmişlerdir. <br/> Dokuz gün boyunca meclise gelmeyen DP milletvekilleri İsmet İnönü’nün araya girmesiyle 27 Aralık 1946 tarihinde meclise gelmişlerdir. 7-11 Ocak 1947 tarihleri arasında Demokrat Parti Birinci Kongresi yapılmıştır. Kongre açılış konuşmasını yapan Celal Bayar, demokrasiye geçilmesi, anayasaya aykırı olan bazı kanunların kaldırılması, idare mekanizmasının partilerin dışında çalışması, seçim kanunda değişiklik yapılması ve devlet başkanlığı ile parti başkanlığının ayrılması hususlarını dile getirmiştir (Bütün Tafsilat.., 1947). Kongrede, dile getirilen bu istekler yerine getirilmezse muhalafetin “sine-i millete” döneceğine dair “Hürriyet Misakı” adı verilen bir bildiri imzalanmıştır."
+        "Aciklama": "18 Aralık 1946 tarihindeki meclis görüşmelerinde, muhalefet ile iktidar arasında ciddi bir gerilim yaşanmıştır. Adnan Menderes, özellikle memleketin ekonomik durumunu eleştirmiştir. Menderes’ten sonra söz alan Başbakan Recep Peker’in oldukça ağır sözlerine üzerine Demokrat Partili milletvekilleri meclisi terk etmişlerdir. <br/>Dokuz gün boyunca meclise gelmeyen DP milletvekilleri İsmet İnönü’nün araya girmesiyle 27 Aralık 1946 tarihinde meclise gelmişlerdir. 7-11 Ocak 1947 tarihleri arasında Demokrat Parti Birinci Kongresi yapılmıştır. Kongre açılış konuşmasını yapan Celal Bayar, demokrasiye geçilmesi, anayasaya aykırı olan bazı kanunların kaldırılması, idare mekanizmasının partilerin dışında çalışması, seçim kanunda değişiklik yapılması ve devlet başkanlığı ile parti başkanlığının ayrılması hususlarını dile getirmiştir (Bütün Tafsilat.., 1947). Kongrede, dile getirilen bu istekler yerine getirilmezse muhalafetin “sine-i millete” döneceğine dair “Hürriyet Misakı” adı verilen bir bildiri imzalanmıştır."
     },
     {
         "SoruID": 3513598,
@@ -437,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hatay’ın Türkiye’ye katılmasını Fransa’nın kabul etmesi üzerine 23 Haziran 1939 tarihinde ortak bir beyanname yayımlanmıştır. Bu beyanname ile Türkiye, Batı bloğuna katıldığını kesin olarak ilan etmiştir. Türkiye-Fransa arasında imzalanan Hatay Antlaşması ile Hatay, Türk topraklarına katılırken ortak beyanname ile Akdeniz’de olabilecek savaşa karşı Türkiye, Fransa’nın müttefiki olduğunu duyurmuştur. Hatay Devleti Millet Meclisi 29 Haziran 1939’da yaptığı toplantıda Türkiye’ye katılma kararı almıştır. Nihayet <strong>19 Ekim 1939 tarihinde, Türkiye, İngiltere ve Fransa “Üçlü İttifak Antlaşması”</strong> imzalamıştır. Türkiye, bu antlaşma ile Batı blokunda olduğunu kesin olarak yinelemiş, fakat antlaşma maddelerine “Sovyet Rusya çekincesi” ek protokolü eklenmesini, müttefiklerine kabul ettirmiştir."
+        "Aciklama": "Hatay’ın Türkiye’ye katılmasını Fransa’nın kabul etmesi üzerine 23 Haziran 1939 tarihinde ortak bir beyanname yayımlanmıştır. Bu beyanname ile Türkiye, Batı bloğuna katıldığını kesin olarak ilan etmiştir. Türkiye-Fransa arasında imzalanan Hatay Antlaşması ile Hatay, Türk topraklarına katılırken ortak beyanname ile Akdeniz’de olabilecek savaşa karşı Türkiye, Fransa’nın müttefiki olduğunu duyurmuştur. Hatay Devleti Millet Meclisi 29 Haziran 1939’da yaptığı toplantıda Türkiye’ye katılma kararı almıştır. Nihayet <strong>19 Ekim 1939 tarihinde, Türkiye, İngiltere ve Fransa “Üçlü İttifak Antlaşması”</strong> imzalamıştır. Türkiye, bu antlaşma ile Batı blokunda olduğunu kesin olarak yinelemiş, fakat antlaşma maddelerine “Sovyet Rusya çekincesi” ek protokolü eklenmesini, müttefiklerine kabul ettirmiştir."
     },
     {
         "SoruID": 3513599,
@@ -457,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Savaş sona ermeden kısa bir süre önce Türkiye, <strong>23 Şubat 1945</strong> tarihinde, Almanya ve Japonya’ya savaş ilan etmiştir. Böylece Türkiye, San Francisco’da düzenlenecek olan BM Konferansı’na kurucu üye olarak katılma imkanını yakalamıştır. Buna rağmen Türkiye’nin savaş sonrası kurulacak yeni düzende yeri belirgin değildi. İki kutuplu dünyada “Soğuk Savaş” olarak adlandırılan bu dönemin önemli aktörlerinden biri de Türkiye idi."
+        "Aciklama": "Savaş sona ermeden kısa bir süre önce Türkiye, <strong>23 Şubat 1945</strong> tarihinde, Almanya ve Japonya’ya savaş ilan etmiştir. Böylece Türkiye, San Francisco’da düzenlenecek olan BM Konferansı’na kurucu üye olarak katılma imkanını yakalamıştır. Buna rağmen Türkiye’nin savaş sonrası kurulacak yeni düzende yeri belirgin değildi. İki kutuplu dünyada “Soğuk Savaş” olarak adlandırılan bu dönemin önemli aktörlerinden biri de Türkiye idi."
     },
     {
         "SoruID": 3513600,
@@ -477,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ABD-Sovyet Rusya ilişkilerinin kesin bir ayrılığa işaret etmesi, bir başka deyişle “Soğuk Savaş Dönemi” olarak adlandırılan ayrılığın resmî başlangıcı sayılabilecek gelişmenin yaşanması, 12 Mart 1947 tarihinde Amerika Başkanı Truman’ın ismi ile izafe edilen “Truman Doktrini”nin açıklanması ile netleşmiştir. Truman, dünyanın iki ideolojik ilke ile bölünmenin eşiğinde olduğunu, Yunanistan’dan acil mali ve iktisadi yardım başvurusu aldıklarını ve Türkiye’nin de ilgiye ihtiyacı olduğunu belirtmiş ve ABD Kongresi’ne bu iki ülkeye destek verme önerisi sunmuştur. Truman, bu öneri ile iki kutba bölünmüş dünya ideolojik çizgisinde Yunanistan ve Türkiye’nin Sovyetler değil, ABD safında yer alması gerektiğini açıklıkla dile getirmiştir (Toker, 1990). Truman Doktrini ile ABD, Avrupa’da yayılmaya başlayan komünizm rejimlerinin bu ülkelerde durdurulmasını amaçlamıştır."
+        "Aciklama": "ABD-Sovyet Rusya ilişkilerinin kesin bir ayrılığa işaret etmesi, bir başka deyişle “Soğuk Savaş Dönemi” olarak adlandırılan ayrılığın resmî başlangıcı sayılabilecek gelişmenin yaşanması, 12 Mart 1947 tarihinde Amerika Başkanı Truman’ın ismi ile izafe edilen “Truman Doktrini”nin açıklanması ile netleşmiştir. Truman, dünyanın iki ideolojik ilke ile bölünmenin eşiğinde olduğunu, Yunanistan’dan acil mali ve iktisadi yardım başvurusu aldıklarını ve Türkiye’nin de ilgiye ihtiyacı olduğunu belirtmiş ve ABD Kongresi’ne bu iki ülkeye destek verme önerisi sunmuştur. Truman, bu öneri ile iki kutba bölünmüş dünya ideolojik çizgisinde Yunanistan ve Türkiye’nin Sovyetler değil, ABD safında yer alması gerektiğini açıklıkla dile getirmiştir (Toker, 1990). Truman Doktrini ile ABD, Avrupa’da yayılmaya başlayan komünizm rejimlerinin bu ülkelerde durdurulmasını amaçlamıştır."
     },
     {
         "SoruID": 3513607,
@@ -497,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Refik Saydam Hükümeti"
+        "Aciklama": "Celal Bayar’ın istifası üzerine hâlihazırda İçişleri Bakanı ve Cumhuriyet Halk Partisi Genel Sekreteri olan Refik Saydam, yeni hükûmeti kurmakla görevlendirilmiştir.<br>Refik Saydam Hükümeti"
     },
     {
         "SoruID": 3513609,
@@ -517,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Refik Saydam Hükümeti"
+        "Aciklama": "Saydam hükûmetinin ilk kararı, 15 Haziran 1936 tarihli devlet-parti düzenlemesinde değişikliğe gitme kararıdır.<br>Refik Saydam Hükümeti"
     },
     {
         "SoruID": 3513623,
@@ -558,6 +658,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "8 Aralık 1942"
+    },
+    {
+        "SoruID": 3513625,
+        "SoruMetni": "7 Ocak 1946 tarihinde kurulan Demokrat Partinin genel başkanı aşağıdakilerden hangisidir?",
+        "A": "Celal Bayar",
+        "B": "Nuri Demirağ",
+        "C": "Refik Koraltan",
+        "D": "Fuat Köprülü",
+        "E": "Adnan Menderes",
+        "DogruCevap": "A",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 3,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:56.851636",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Celal Bayar"
     },
     {
         "SoruID": 3513626,
@@ -601,7 +721,7 @@
     },
     {
         "SoruID": 3513628,
-        "SoruMetni": "“Truman Doktrini “ nin açıklanması ve  ABD –Sovjet Rusya ilişkilerinin kesin ayrılığına işaret eden soğuk savaş dönemi hangi tarihte başlamıştır?",
+        "SoruMetni": "“Truman Doktrini “ nin açıklanması ve ABD –Sovjet Rusya ilişkilerinin kesin ayrılığına işaret eden soğuk savaş dönemi hangi tarihte başlamıştır?",
         "A": "12 Mart 1947",
         "B": "7 Mayıs 1946",
         "C": "3 Aralık 1945",
@@ -700,8 +820,68 @@
         "Aciklama": "27 Temmuz 1949"
     },
     {
+        "SoruID": 3513643,
+        "SoruMetni": "Aşağıdakilerden hangisi Cumhuriyet Halk Partisinin beşinci Genel Kurultay'ında kararlaştırılarak oluşturulan Müstakil Gruba ilişkin <strong>doğru</strong> bir ifadedir?",
+        "A": "Bu grup karara etki etme yetkisine sahiptir.",
+        "B": "Bu grup halen varlığını sürdürmektedir.",
+        "C": "Grup başkanı başbakana bağlıdır.",
+        "D": "Grup hükümetten ayrı ve bağımsız üyelerden oluşur.",
+        "E": "Grup 3 kişilik idari kurulunun olduğu 30 kişiden oluşur.",
+        "DogruCevap": "E",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 3,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:56.754182",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<br/>Müstakil Grup 3 kişilik bir idare kurulunun olduğu 30 kişiden olu- şacaktır. Müstakil Grup’un üyeleri bu grupta kaldıkça kabineye giremeyeceklerdir. Meclisteki parti grup toplantısında hazır bulunacaklar, fakat alınacak ya da alınan herhangi bir karar hakkında görüş bildiremeyecekler, oylamaya katılmayacaklardır. Müstakil Grup, parti icraatlarını ve kararlarını eleştirerek, hükûmetten ayrı ve bağımsız üyelerden oluşan bir topluluk olarak düşünülmüştür. Tüzük gereğince Müstakil Grup Başkanı, doğrudan doğruya CHP Genel Başkanı’na, yani İsmet İnönü’ye bağlıdır. Türkiye’de çok partili hayata geçiş dönemine kadar varlığını sürdürmüştür. 4 Mayıs 1946 tarihinde son toplantısını yapmıştır.<br>Grup 3 kişilik idari kurulunun olduğu 30 kişiden oluşur"
+    },
+    {
+        "SoruID": 3513644,
+        "SoruMetni": "Aşağıdakilerden hangisi II. Dünya Savaşı döneminde ülkeyi ekonomik olarak savaşın etkilerinden korumak amaçlı bir girişim olan Millî Korunma Kanunu'na ilişkin <strong>doğru</strong> bir ifadedir?",
+        "A": "Kanun, Ocak 1945 tarihinde mecliste kabul edilmiştir.",
+        "B": "Millî Korunma Kanunu yıl içinde beş kez değiştirilmiştir.",
+        "C": "Millî Korunma Kanunu’nun yasalaşmasından sonra, fiyatlarda azalma oldu.",
+        "D": "Bu kanunla hükûmete savaş ihtimali nedeniyle olağanüstü yetki tanınmıştır.",
+        "E": "Hükûmet, bu kanunla yalnızca ekonomik hayatın belirleyicisi konumuna gelmiştir.",
+        "DogruCevap": "D",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 3,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:56.835660",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Millî Korunma Kanunu’nun gerekçesinde, savaş hâlinin yarattığı psikolojik ve ekonomik ortamın, savaş içinde ve savaşın dışında olan bütün ülkeleri etkilediği, çoğu ülkenin olağanüstü tedbirler almak gereği hissettiği belirtilmiş, bu nedenle acil ekonomik tedbirler alınması gerektiği vurgulanmıştır (TBMMZC, 1940). 3780 sayılı bu kanunun birinci maddesinde devletin bünyesini ekonomik ve millî savunma bakımından takviye etmek üzere hükûmete genel seferberlik, kısmî seferberlik, devletin bir savaşa girme ihtimali durumunda olağanüstü yetki tanınmıştır.<br>Bu kanunla hükûmete savaş ihtimali nedeniyle olağanüstü yetki tanınmıştır."
+    },
+    {
+        "SoruID": 3513645,
+        "SoruMetni": "Aşağıdaki hangi hükümet döneminde hem piyasadaki parayı geri çekmek hem de savaş yıllarında fazla kazanç elde eden zenginlerden bir defaya mahsus olmak üzere almak gerekçesiyle Varlık Vergisi Kanunu'nu kabul edilmiştir?",
+        "A": "Celal Bayar",
+        "B": "Refik Saydam",
+        "C": "Saracoğlu",
+        "D": "Recep Peker",
+        "E": "Hasan Saka",
+        "DogruCevap": "C",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 3,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:56.755695",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Varlık Vergisi Kanunu Saracoğlu Hükümeti döneminde kabul edilmiştir."
+    },
+    {
         "SoruID": 3513646,
-        "SoruMetni": "Türkiye’de ilk defa Meclis tarafından tek dereceli milletvekili seçimine yönelik genel seçimlerin yapılmasına aşağıdaki hangi yılda karar verilmiştir?",
+        "SoruMetni": "Türkiye’de ilk defa Meclis tarafından tek dereceli milletvekili seçimine yönelik genel seçimlerin yapılmasına aşağıdaki hangi yılda karar verilmiştir?",
         "A": "1943",
         "B": "1944",
         "C": "1945",
@@ -717,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1946"
+        "Aciklama": "Türkiye’de ilk defa tek dereceli milletvekili seçimin yapılması, 10 Haziran 1946 tarihinde mecliste tartışılmıştır. Meclis, 21 Temmuz 1946 tarihinde genel seçimlerin yapılmasına karar vermiştir."
     },
     {
         "SoruID": 3513647,
@@ -737,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Milli Korunma Kanunu çıkarılmıştır."
+        "Aciklama": "Seçimlerin yapılacağı tarihe kadar çok önemli yasal<br/>düzenlemeler yapılmıştır:<br/>• 13 Haziran 1946’da Matbuat Kanunu’nun<br/>50. maddesi değiştirilerek gazete kapatmalarda mahkemeler yetkili kılınmıştır (Tasvir, 14.6.1946).<br/>• 4918 sayılı yasa ile tek dereceli seçim sistemi kabul edilmiştir.<br/>• 4919 sayılı yasa ile dernekler kanununda<br/>değişiklikler yapılarak siyasi partilerin kurulmasının önü açılmıştır.<br/>• 13 Haziran 1946 tarihinde 4936 sayılı Üniversiteler Kanunu çıkarılmıştır.<br/>• 14 Haziran 1946’da ise, 7 Haziran 1946 tarihine kadar işlenmiş basın suçları affedilmiştir.<br>Milli Korunma Kanunu çıkarılmıştır."
     },
     {
         "SoruID": 3513651,
@@ -758,6 +938,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "İnönü, yeni hükûmeti kurma<br/>görevini Celal Bayar’a vermiştir. Bayar, hükûmet<br/>üyelerini 14 Kasım 1938 tarihinde açıklamıştır."
+    },
+    {
+        "SoruID": 3513654,
+        "SoruMetni": "Ekmeği karne usulüne bağlama kararı hangi yılda verilmiştir?",
+        "A": "1939",
+        "B": "1940",
+        "C": "1941",
+        "D": "1942",
+        "E": "1943",
+        "DogruCevap": "C",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 3,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:56.830630",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "16 Aralık 1941 tarihinde toplanan Parti Meclis Grubu, Millî Korunma Kanunu’nda değişiklik yaparak ekmeği karne usulüne bağlama kararı vermiştir."
     },
     {
         "SoruID": 3513661,
@@ -781,7 +981,7 @@
     },
     {
         "SoruID": 3513662,
-        "SoruMetni": "Aşağıdakilerden hangisi 1946 seçimine katılan siyasi partilerden değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi 1946 seçimine katılan siyasi partilerden değildir?",
         "A": "Cumhuriyet Halk Partisi",
         "B": "İdealist Parti",
         "C": "Demokrat Parti",
@@ -857,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hasan Saka Hükûmeti: Alınan karar sonucunda yeni Seçim Yasası’na gizli oy, açık sayım ilkesi getirilerek 12 Haziran 1948 tarihinde İçişleri Komisyonu tarafından yasa aynen kabul edilmiştir."
+        "Aciklama": "Hasan Saka Hükûmeti: Alınan karar sonucunda yeni Seçim Yasası’na gizli oy, açık sayım ilkesi getirilerek 12 Haziran 1948 tarihinde İçişleri Komisyonu tarafından yasa aynen kabul edilmiştir."
     },
     {
         "SoruID": 3513666,
@@ -920,6 +1120,26 @@
         "Aciklama": "Türkiye, IMF’ye “19 Şubat 1947 tarih ve 5016 sayılı Milletlerarası Para Fonu ile Milletlerarası İmar ve Kalkınma Bankası’na Katılmak İçin Hükûmete Yetki Verilmesine Dair Kanun”un verdiği yetkiye dayanarak 11 Mart 1947 tarihinde üye olmuştur."
     },
     {
+        "SoruID": 3513669,
+        "SoruMetni": "10 aksım 1938 de Atatürk' ün ölümü üzerine yetkili cumhurbaşkanı vekili aşağıdakilerden hangisidir?",
+        "A": "Abdulhalik Renda",
+        "B": "Celal Bayar",
+        "C": "Rüştü Kaya",
+        "D": "Numan Mermercioğlu",
+        "E": "Teyfik Rüştü Aras",
+        "DogruCevap": "A",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "Unite": 3,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:56.805733",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Abdülhalik Renda"
+    },
+    {
         "SoruID": 3513670,
         "SoruMetni": "Varlık Vergisi’nin uygulamasına kaç tarihinde başlanmıştır?",
         "A": "7 Aralık 1942",
@@ -957,7 +1177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "21 temmuz 1946"
+        "Aciklama": "85<br>21 temmuz 1946"
     },
     {
         "SoruID": 3513715,
@@ -1001,7 +1221,7 @@
     },
     {
         "SoruID": 3513719,
-        "SoruMetni": "Türkiye’de ilk defa tek dereceli milletvekili seçimin yapılması, kaç tarihinde mecliste tartışılmıştır.",
+        "SoruMetni": "Türkiye’de ilk defa tek dereceli milletvekili seçimin yapılması, kaç tarihinde mecliste tartışılmıştır.",
         "A": "10 Haziran 1946",
         "B": "10 Haziran 1945",
         "C": "10 Haziran 1944",
@@ -1021,7 +1241,7 @@
     },
     {
         "SoruID": 3513722,
-        "SoruMetni": "Hasan Saka, hükûmetini kaç  tarihinde kurmuştur.",
+        "SoruMetni": "Hasan Saka, hükûmetini kaç tarihinde kurmuştur.",
         "A": "10 Eylül 1946",
         "B": "10 Eylül 1947",
         "C": "10 Eylül 1948",
@@ -1117,7 +1337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Şemsettin Günaltay"
+        "Aciklama": "Şemsettin Günaltay Hükümeti (16 Ocak 1949-22 Mayıs 1950) İsmet İnönü döneminde kurulan son hükümettir."
     },
     {
         "SoruID": 3513736,
@@ -1126,7 +1346,7 @@
         "B": "Postdam Konferansı'nda Sovyetlerin taleplerine ilişkin konunun Türkiye ile görüşmeler yoluyla çözülmesi kararı alınmıştır.",
         "C": "Sovyet Rusya, Dostluk ve Saldırmazlık Antlaşması’nın uzatılmayacağını bildirilmiştir.",
         "D": "İyi komşuluk ve dostluk esaslarının tekrarlandığı Türkiye-Bulgaristan ortak beyannamesi yayımlanmıştır.",
-        "E": "Rusya boğazlarda ortak savunmayı sağlamak için Sovyetlere üs verilmesini<br/>istemiştir.",
+        "E": "Rusya boğazlarda ortak savunmayı sağlamak için Sovyetlere üs verilmesini<br/>istemiştir.",
         "DogruCevap": "D",
         "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
         "Unite": 3,
@@ -1137,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İyi komşuluk ve dostluk esaslarının tekrarlandığı Türkiye-Bulgaristan ortak beyannamesi yayımlanmıştır."
+        "Aciklama": "1939-1945 Yılları Arası Türk Dış Politikası olarak iyi komşuluk ve dostluk esaslarının tekrarlandığı Türkiye-Bulgaristan ortak beyannamesi yayımlanmıştır.<br>İyi komşuluk ve dostluk esaslarının tekrarlandığı Türkiye-Bulgaristan ortak beyannamesi yayımlanmıştır."
     },
     {
         "SoruID": 3513737,
@@ -1145,7 +1365,7 @@
         "A": "İtalya’nın Balkanlar’da ve Akdeniz’de açık tehdit unsuru olarak görülmesi üzerine İngiltere-Türkiye görüşmeleri başlamıştır.",
         "B": "Akdeniz bölgesinde tehdit unsuruna karşı birbirlerine yardımı taahhüt eden Türk İngiliz Ortak Beyannamesi yayımlanmıştır.",
         "C": "Türkiye'nin de katıldığı konferansta imzalanan Birleşmiş Milletler Bildirisi’nde demokratik eğilimler, özgürlük gibi temalar işlenmiştir.",
-        "D": "II. Dünya Savaşı'nın başlamasıyla gelişen bu olaylar Türkiye’yi endişeye düşürmüştür.",
+        "D": "II. Dünya Savaşı'nın başlamasıyla gelişen bu olaylar Türkiye’yi endişeye düşürmüştür.",
         "E": "Fransa, Sovyetlerin Bakü petrollerini, Türkiye hava sahasını kullanarak bombardıman etmek için talepte bulunmuştur.",
         "DogruCevap": "C",
         "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi II",
@@ -1157,6 +1377,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkiye'nin de katıldığı konferansta imzalanan Birleşmiş Milletler Bildirisi’nde demokratik eğilimler, özgürlük gibi temalar işlenmiştir."
+        "Aciklama": "San Francisco Konferansı'na aralarında Türkiye’nin de bulunduğu 51 ülke katılmıştır. Çalışmalar bir ay sürmüş ve 26 Haziran 1945 tarihinde konferansa katılan ülkelerin Birleşmiş Milletler Antlaşması’nı imzalamasıyla son bulmuştur. Konferans sonunda imzalanan Birleşmiş Milletler Bildirisi’nde demokratik eğilimler, barış, özgürlük, insan hakları gibi temalar işlenmiştir.<br>Türkiye'nin de katıldığı konferansta imzalanan Birleşmiş Milletler Bildirisi’nde demokratik eğilimler, özgürlük gibi temalar işlenmiştir."
     }
 ]

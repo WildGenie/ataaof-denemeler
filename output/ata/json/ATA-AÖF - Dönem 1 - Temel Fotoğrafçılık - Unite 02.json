@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 109847,
@@ -35,11 +36,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 109859,
-        "SoruMetni": "<strong>MÖ 5. yüzyılda  ışık ya da objelerin hareket etmesiyle gölgenin de hareket edeceği ilkesini tespit eden düşünür aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>MÖ 5. yüzyılda ışık ya da objelerin hareket etmesiyle gölgenin de hareket edeceği ilkesini tespit eden düşünür aşağıdakilerden hangisidir?</strong>",
         "A": "Aristoteles",
         "B": "Levi Ben Gerson",
         "C": "İbni Heysem",
@@ -54,11 +56,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 109929,
-        "SoruMetni": "<strong>Fotoğrafın gelişimine önemli katkıları olan isimlerden 13. yüzyılda yaşamış İngiliz Profesör Roger Bacon ile ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>",
+        "SoruMetni": "<strong>Fotoğrafın gelişimine önemli katkıları olan isimlerden 13. yüzyılda yaşamış İngiliz Profesör Roger Bacon ile ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>",
         "A": "İbni Heysem’in optik çalışmaları üzerine okumalar yaparak astronomi alanında yoğunlaşmıştır.",
         "B": "Nesneleri olduğu gibi bir yüzeye çizme yolu olarak tanımlanabilecek perspektifi bulan ilk kişidir.",
         "C": "Bacon’un çalışmaları doğrudan karanlık kutu üzerine değildir.",
@@ -73,7 +76,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 109967,
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 118015,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 118018,
@@ -130,11 +136,12 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 171432,
-        "SoruMetni": "<strong>Tarihte yüzey üzerine görüntüyü kaydeden ilk kişi aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Tarihte yüzey üzerine görüntüyü kaydeden ilk kişi aşağıdakilerden hangisidir?</strong>",
         "A": "İbnü’l-Heysem",
         "B": "Aritoteles",
         "C": "W. H. Talbot",
@@ -149,11 +156,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 171434,
-        "SoruMetni": "<strong>Tarihte ilk fotoğraf olarak kabul edilen ve Niepce'nin evinin penceresinden aldığı ilk görüntüleri maden ve taş üzerine kaydettiği yönteme ne ad verilir?</strong>",
+        "SoruMetni": "<strong>Tarihte ilk fotoğraf olarak kabul edilen ve Niepce'nin evinin penceresinden aldığı ilk görüntüleri maden ve taş üzerine kaydettiği yönteme ne ad verilir?</strong>",
         "A": "Helyografi",
         "B": "Kalotip",
         "C": "Daguerretip",
@@ -168,7 +176,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 177935,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 327277,
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 327528,
@@ -225,11 +236,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 327552,
-        "SoruMetni": "Matematik, astronomi, fizikle ilgilenmiş bilim insandır. Karanlık oda ile ilgili ilk uygulamayı gerçekleştirmiştir. “Üç Mum Deneyi” önemli optik çalışmalarından biridir.<br/> <br/><strong>Hakkında bilgi verilen bilim insanı aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "Matematik, astronomi, fizikle ilgilenmiş bilim insandır. Karanlık oda ile ilgili ilk uygulamayı gerçekleştirmiştir. “Üç Mum Deneyi” önemli optik çalışmalarından biridir.<br/><strong>Hakkında bilgi verilen bilim insanı aşağıdakilerden hangisidir?</strong>",
         "A": "İbni Sina",
         "B": "El Biruni",
         "C": "İbni Heysem",
@@ -244,11 +256,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 331072,
-        "SoruMetni": "I. Yeni bir görme biçimi ve görme kültürü gelişmesine yardımcı olmuştur.<br/> <br/>II. Eğlence, harita çizimleri ve resim yapmada yardımcı araç olarak kullanılmıştır.<br> <br/>III. Adını koyan bilim adamı Johannes Kepler olmuştur.<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri Camera Obscura (Karanlık Kutu)'nın özellikleri arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Yeni bir görme biçimi ve görme kültürü gelişmesine yardımcı olmuştur.<br/>II. Eğlence, harita çizimleri ve resim yapmada yardımcı araç olarak kullanılmıştır.<br/>III. Adını koyan bilim adamı Johannes Kepler olmuştur.<br/><strong>Yukarıdakilerden hangisi ya da hangileri Camera Obscura (Karanlık Kutu)'nın özellikleri arasında yer alır?</strong></br></br>",
         "A": "Yalnız II",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -263,11 +276,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 331076,
-        "SoruMetni": "Niepce, tarihte ilk fotoğraf olarak kabul edilen ve evinin penceresinden aldığı ilk görüntüleri maden ve taş üzerine kaydettiği yönteme …………….. adını vermiştir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Niepce, tarihte ilk fotoğraf olarak kabul edilen ve evinin penceresinden aldığı ilk görüntüleri maden ve taş üzerine kaydettiği yönteme …………….. adını vermiştir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Daguerrotype",
         "B": "Calotype",
         "C": "Graphi",
@@ -282,7 +296,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 363593,
@@ -301,7 +316,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 366221,
@@ -320,11 +336,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 366222,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi 19. yüzyılda fotoğraf alanındaki gelişmelerden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi 19. yüzyılda fotoğraf alanındaki gelişmelerden biri <u>değildir</u>?</strong>",
         "A": "Karakutu",
         "B": "Bir insana ait ilk fotoğrafın çekilmesi",
         "C": "Negatif görüntüler oluşturan kalotip işlemini icat edilmesi",
@@ -339,11 +356,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 366224,
-        "SoruMetni": "Camera Obscura adı Latincede “............” anlamına gelen camera ve “............” anlamına gelen obscura kelimelerinin birleşmesinden oluşur.<br/> <br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Camera Obscura adı Latincede “............” anlamına gelen camera ve “............” anlamına gelen obscura kelimelerinin birleşmesinden oluşur.<br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "ışık-oda",
         "B": "ışık-kamera",
         "C": "oda-kamera",
@@ -358,6 +376,7 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     }
 ]

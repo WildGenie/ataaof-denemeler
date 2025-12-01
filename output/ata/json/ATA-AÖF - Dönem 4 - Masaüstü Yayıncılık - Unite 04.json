@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 132121,
-        "SoruMetni": "……… metinsel unsurların sayfaya ya da şekil, resim, tablo gibi yayını oluşturan diğer unsurlara göre hizalanmasıdır.<br/> <br/><strong>Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "……… metinsel unsurların sayfaya ya da şekil, resim, tablo gibi yayını oluşturan diğer unsurlara göre hizalanmasıdır.<br/><strong>Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Sayfa yerleşimi",
         "B": "Satır aralığı",
         "C": "Metin hizalama",
@@ -9,18 +9,19 @@
         "E": "Vurgulama",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 136889,
-        "SoruMetni": "I. Times New Roman<br/> <br/>II. Bookman Old Style<br> <br/>III. Cambria<br> <br/>IV. Garamond<br> <br/><strong>Yukarıdaki yazı tiplerinden hangisi ya da hangileri Serif yazı tipi kategorisinde yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. Times New Roman<br/>II. Bookman Old Style<br/>III. Cambria<br/>IV. Garamond<br/><strong>Yukarıdaki yazı tiplerinden hangisi ya da hangileri Serif yazı tipi kategorisinde yer alır?</strong></br></br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -28,18 +29,19 @@
         "E": "I, II, III ve IV",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 136898,
-        "SoruMetni": "I. Arial<br/> <br/>II. Calibri<br> <br/>III. Lucida Bright<br> <br/>IV. Comic Sans<br> <br/><strong>Yukarıdaki yazı tiplerinden hangisi ya da hangileri Sans Serif yazı tipi kategorisinde yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. Arial<br/>II. Calibri<br/>III. Lucida Bright<br/>IV. Comic Sans<br/><strong>Yukarıdaki yazı tiplerinden hangisi ya da hangileri Sans Serif yazı tipi kategorisinde yer alır?</strong></br></br></br>",
         "A": "I, II, III ve IV",
         "B": "I, II ve IV",
         "C": "I ve III",
@@ -47,18 +49,19 @@
         "E": "I ve II",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 136939,
-        "SoruMetni": "I. Metnin puntosunu büyütme<br/> <br/>II. Metnin altını çizme<br> <br/>III. Metni kalın yazma<br> <br/>IV. Farklı renk kullanma<br> <br/><strong>Vurgulama için yukarıdaki yöntemlerden hangisi ya da hangileri kullanılabilir?</strong></br></br></br>",
+        "SoruMetni": "I. Metnin puntosunu büyütme<br/>II. Metnin altını çizme<br/>III. Metni kalın yazma<br/>IV. Farklı renk kullanma<br/><strong>Vurgulama için yukarıdaki yöntemlerden hangisi ya da hangileri kullanılabilir?</strong></br></br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -66,18 +69,19 @@
         "E": "I, II, III ve IV",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 183634,
-        "SoruMetni": "<strong> Aşağıdakilerden hangisi genellikle basılı ve uzun metinlerde kullanımı uygun olan yazı tipidir?</strong>",
+        "SoruMetni": "<strong> Aşağıdakilerden hangisi genellikle basılı ve uzun metinlerde kullanımı uygun olan yazı tipidir?</strong>",
         "A": "Monospace",
         "B": "Serif",
         "C": "Sans Serif",
@@ -85,14 +89,15 @@
         "E": "El yazısı",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 183635,
@@ -104,14 +109,15 @@
         "E": "Arial",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 183636,
@@ -123,14 +129,15 @@
         "E": "Monospace",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 183637,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 183638,
@@ -161,14 +169,15 @@
         "E": "Monospace",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 183639,
@@ -187,11 +196,12 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 183640,
-        "SoruMetni": "<strong> Aşağıdakilerden hangisi metin içinde yapılan vurgulamaların etkisini azaltabilir?</strong>",
+        "SoruMetni": "<strong> Aşağıdakilerden hangisi metin içinde yapılan vurgulamaların etkisini azaltabilir?</strong>",
         "A": "Metnin bazı yerlerinin altını çizmek",
         "B": "Önemli noktaları farklı renk yazmak",
         "C": "Birden fazla vurgulama yöntemi kullanmak",
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 183641,
@@ -218,14 +229,15 @@
         "E": "Beyaz zemin üzerine kırmızı renk yazı",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 192810,
@@ -237,14 +249,15 @@
         "E": "Tablo",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 192811,
@@ -256,14 +269,15 @@
         "E": "Vurgulama",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 192813,
@@ -275,18 +289,19 @@
         "E": "Ortaya hizalama",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 192815,
-        "SoruMetni": "<strong> Aşağıdakilerden hangisi metin tasarımını tamamlayıcı unsurlardan biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong> Aşağıdakilerden hangisi metin tasarımını tamamlayıcı unsurlardan biri <u>değildir</u>?</strong>",
         "A": "Resimler",
         "B": "Grafikler",
         "C": "Şekiller",
@@ -294,18 +309,19 @@
         "E": "Yazı tipi boyutu",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 192816,
-        "SoruMetni": "<strong> Kesintisiz bir süreci göstermek için kullanılan SmartArt grafik türü aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong> Kesintisiz bir süreci göstermek için kullanılan SmartArt grafik türü aşağıdakilerden hangisidir?</strong>",
         "A": "Matris",
         "B": "İşlem",
         "C": "Liste",
@@ -313,14 +329,15 @@
         "E": "Piramit",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 340679,
@@ -332,14 +349,15 @@
         "E": "Uygun mesafeden okunabilir olması",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 341110,
@@ -351,18 +369,19 @@
         "E": "SmartArt grafikleri",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 342342,
-        "SoruMetni": "I. Metnin puntosunu büyütme<br/> <br/> II. Altını çizme<br> <br/>III. Kalın yazma<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri vurgulama yapılırken kullanılanlar arasında yer almaktadır?</strong></br></br>",
+        "SoruMetni": "I. Metnin puntosunu büyütme<br/>II. Altını çizme<br/>III. Kalın yazma<br/><strong>Yukarıdakilerden hangisi ya da hangileri vurgulama yapılırken kullanılanlar arasında yer almaktadır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -370,13 +389,14 @@
         "E": "I, II ve III",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     }
 ]

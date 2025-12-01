@@ -1,5 +1,25 @@
 [
     {
+        "SoruID": 3858438,
+        "SoruMetni": "Aşağıdakilerden hangisi beyaz ayarı türlerinden <span style=\"text-decoration: underline;\">değildir</span>?",
+        "A": "Tungsten",
+        "B": "Histogram",
+        "C": "Floresan",
+        "D": "Flaş",
+        "E": "Bulutlu",
+        "DogruCevap": "B",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.866435",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Beyaz ayarı türleri şunlardır: otomatik (Auto WB), tungsten, floresan, doğrudan güneşli, gün ışığı, flaş, bulutlu, gölge, manuel (belirlenmiş) beyaz dengesi ayarları. Histogram ise bir fotoğrafın çekim tekniği olarak doğru pozlandığının ölçümünün yapıldığı grafiktir."
+    },
+    {
         "SoruID": 3858440,
         "SoruMetni": "Bir fotoğrafın çekim tekniği olarak doğru pozlandığının ölçümünün yapıldığı grafik olarak tanımı yapılan terim aşağıdakilerden hangisidir?",
         "A": "Histogram",
@@ -52,12 +72,32 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.106374",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.933993",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Doğrudan güneş ışığının renk ısısı 5200 K’dir"
+    },
+    {
+        "SoruID": 3858445,
+        "SoruMetni": "Aşağıdakilerden hangisi iyi bir pan tekniği için yapılması gerekenlerden <span style=\"text-decoration: underline;\">değildir</span>?",
+        "A": "1/15, 1/60 enstantene hızları ayarlamak.",
+        "B": "Hareketli nesnenin yoluna paralel olacak şekilde yerleşmek.",
+        "C": "Döner başlıklı tripod kullanmak.",
+        "D": "Çekim tamamlandıktan sonra kamerayı sabit tutmak.",
+        "E": "İzlemeyi makineden yapmak.",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.868012",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İyi bir pan tekniği için deklanşörü serbest bıraktığınızda, çekim tamamlandıktan sonra konuyla birlikte harekete kaydırma yapmaya devam edin."
     },
     {
         "SoruID": 3858446,
@@ -97,11 +137,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Son birkaç yılda, HDR terimi ayrıca “Tone Mapping”, “Digital Blending”, “DRI (dinamik aralık artışı)” ve “Luminance Masking” gibi birçok farklı tekniği tanımlamak için kullanılmıştır. <br/> TTL bir ışık ölçer sistemidir."
+        "Aciklama": "Son birkaç yılda, HDR terimi ayrıca “Tone Mapping”, “Digital Blending”, “DRI (dinamik aralık artışı)” ve “Luminance Masking” gibi birçok farklı tekniği tanımlamak için kullanılmıştır. <br/>TTL bir ışık ölçer sistemidir."
+    },
+    {
+        "SoruID": 3858455,
+        "SoruMetni": "Aşağıdakilerden hangisi el boyaması olmayan ilk renkli fotoğrafı üretmeyi başarmıştır?",
+        "A": "Oskar Barnack",
+        "B": "Stephen Henry Horgen",
+        "C": "Roger Fenton",
+        "D": "James Clark Maxwell",
+        "E": "Hippolyte Bayard",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.869833",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "1861’de James Clark Maxwell, el boyaması olmayan ilk renkli fotoğrafı üretmeyi başarmıştı."
     },
     {
         "SoruID": 3858456,
-        "SoruMetni": "Aşağıdakilerden hangisi ilk savaş fotoğrafçısı olarak Kraliçe'nin emri ile Kırım Savaşı'nı görüntülemek için  gönderilmiş olan kişidir?",
+        "SoruMetni": "Aşağıdakilerden hangisi ilk savaş fotoğrafçısı olarak Kraliçe'nin emri ile Kırım Savaşı'nı görüntülemek için gönderilmiş olan kişidir?",
         "A": "Roger Fenton",
         "B": "William Henry Fox Talbot",
         "C": "Stephen Henry Horgan",
@@ -112,7 +172,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.038412",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.931093",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -132,12 +192,32 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:42.885865",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.952675",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Fotoğrafın önünü açan buluş hiç kuşkusuz ki bilim adamı Johann Heinrich Schulze tarafından gümüş tuzlarının ışığa duyarlılığının keşfedilmesidir."
+    },
+    {
+        "SoruID": 3858567,
+        "SoruMetni": "Fotoğrafın tarihsel bulunuş ve gelişim süreci içinde, ışık yardımı ile<br/>görüntü elde eden ilk kişi aşağıdakilerden hangisidir?",
+        "A": "Louis Jacques Mande Daguerre",
+        "B": "Johann Heinrich Schulze",
+        "C": "William Henry Fox Talbot",
+        "D": "Nicéphore Niépce",
+        "E": "Thomas Wedgwood",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.846224",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fotoğrafın tarihsel bulunuş ve gelişim süreci içinde öne çıkan isim Fransız Joseph Nicéphore Niépce’dir. Niépce ışık yardımı ile görüntü elde eden ilk kişidir."
     },
     {
         "SoruID": 3858568,
@@ -172,7 +252,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:42.887334",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.949075",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -237,11 +317,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pozlama süresi de­diğimiz enstantane ayar pozisyonları ve rakam şeklinde dizilimi aşağıdaki gibidir:<br/> 30, 15, 8, 4, 2, 1, ½, ¼, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500, 1/1000, 1/1500, 1/2000."
+        "Aciklama": "Pozlama süresi de­diğimiz enstantane ayar pozisyonları ve rakam şeklinde dizilimi aşağıdaki gibidir:<br/>30, 15, 8, 4, 2, 1, ½, ¼, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500, 1/1000, 1/1500, 1/2000."
+    },
+    {
+        "SoruID": 3858573,
+        "SoruMetni": "ISO hızı değerlerinin ışığa göre kullanım koşullarından hangisi <u>yanlış</u> <u>verilmiştir</u>?",
+        "A": "ISO 50: Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.",
+        "B": "ISO 100:Parlak güneş ışığı, gündüz kapalı hava veya stüdyo ışığı.",
+        "C": "ISO 200:Gün ışığı, kapalı hava veya stüdyo ışığı.",
+        "D": "ISO 400:Dış mekân için, gün ışığı veya kapalı hava. İç mekân için, gün ışığı ve aydınlatma.",
+        "E": "ISO 800:Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma.",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.837066",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "ISO 50: Veya aşağısı, parlak güneş ışığı veya stüdyo ışığı.<br/>ISO 100:Parlak güneş ışığı, gündüz kapalı hava veya stüdyo ışığı.<br/>ISO 200:Gün ışığı, kapalı hava veya stüdyo ışığı.<br/>ISO 400:Dış mekân için, gün ışığı veya kapalı hava. İç mekân için, gün ışığı ve aydınlatma.<br/>ISO 800:Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma.<br/>ISO 1600:Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar."
     },
     {
         "SoruID": 3858574,
-        "SoruMetni": "“Genellikle küçük bir ampulle sem­bolize edilir. Bu ayarı fotoğraf makinenizde seçti­ğinizde, akkor ampul aydınlatmasının fotoğrafı­nıza vereceği sarartmayı dengeleyerek fotoğraftaki renklerinizi soğutacaktır. Böylelikle gerçeğe yakın bir renk dengesi yakalarsınız. 2700-3200 K renk ısısına etki eder.”<br/> Yukarıdaki verilen bilgide aşağıdakilerden hangisinden bahsetmektedir?",
+        "SoruMetni": "“Genellikle küçük bir ampulle sem­bolize edilir. Bu ayarı fotoğraf makinenizde seçti­ğinizde, akkor ampul aydınlatmasının fotoğrafı­nıza vereceği sarartmayı dengeleyerek fotoğraftaki renklerinizi soğutacaktır. Böylelikle gerçeğe yakın bir renk dengesi yakalarsınız. 2700-3200 K renk ısısına etki eder.”<br/>Yukarıdaki verilen bilgide aşağıdakilerden hangisinden bahsetmektedir?",
         "A": "Auto WB",
         "B": "Tungsten",
         "C": "Floresan",
@@ -277,7 +377,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Obscura günümüz fotoğraf makinelerinin atasıdır."
+        "Aciklama": "Obscura günümüz fotoğraf makinelerinin atasıdır."
+    },
+    {
+        "SoruID": 3858676,
+        "SoruMetni": "Fotoğrafın önünü açan buluşun sahibi aşağıdaki bilim insanlarının hangisidir ?",
+        "A": "Louis Jacques Mande Daguerre",
+        "B": "William Henry Fox Talbot",
+        "C": "Johann Heinrich Schulze",
+        "D": "Nicéphore Niépce",
+        "E": "Thomas Wedgwood",
+        "DogruCevap": "C",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.451387",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fotoğrafın önünü açan buluşun sahibi Johann Heinrich Schulze 'dir."
     },
     {
         "SoruID": 3858677,
@@ -300,24 +420,24 @@
         "Aciklama": "Fransız mucit Nicéphore Niépce (1765-1833) tarafından 1826-27’de çekilmiş olan Pencereden Görünüm, Le Gras en eski fotoğraftır."
     },
     {
-        "SoruID": 3858678,
-        "SoruMetni": "Günümüze ulaşan en eski negatif görüntüyü elde eden ve kalotip adı verilen bu tekniğin patentini alan bilim insanı hangisidir ?",
-        "A": "Louis Jacques Mande Daguerre",
-        "B": "William Henry Fox Talbot",
-        "C": "Thomas Wedgwood",
-        "D": "Johann Heinrich Schulze",
-        "E": "Nicéphore Niépce",
-        "DogruCevap": "B",
+        "SoruID": 3858679,
+        "SoruMetni": "Aşağıdakilerden hangisi enstantane hızı için kullanılan diğer isimlerden biridir ?",
+        "A": "Perde",
+        "B": "Obtüratör",
+        "C": "Shutter",
+        "D": "Pozlama süresi",
+        "E": "Hepsi",
+        "DogruCevap": "E",
         "DersAd": "Görsel Estetik",
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.117510",
+        "OlusturmaTarihi": "2025-12-01T04:08:47.584063",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Günümüze ulaşan en eski negatif görüntüyü elde eden ve kalotip adı verilen bu tekniğin patentini alan bilim insanı William Henry Fox Talbot'tur."
+        "Aciklama": "Hepsi enstantane hızı için kullanılan diğer isimlerden biridir."
     },
     {
         "SoruID": 3858680,
@@ -352,16 +472,16 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:42.895264",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.955855",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotoğraf makinenizde diyafram öncelikli mod A/Av  ile gösterilir."
+        "Aciklama": "Fotoğraf makinenizde diyafram öncelikli mod A/Av ile gösterilir."
     },
     {
         "SoruID": 3858682,
-        "SoruMetni": "Kameranızda çekim yaparken kameranızın dahili ölçer tarafından seçilen pozlama değerlerini ayarlamanızı sağlayan  özellik aşağıdakilerden hangisidir ?",
+        "SoruMetni": "Kameranızda çekim yaparken kameranızın dahili ölçer tarafından seçilen pozlama değerlerini ayarlamanızı sağlayan özellik aşağıdakilerden hangisidir ?",
         "A": "Diyafram",
         "B": "Diyafram öncelikli mod",
         "C": "ISO (duyarlılık) hızı",
@@ -372,7 +492,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.039852",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.936248",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -397,27 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Objektifiniz tarafından izin verilen maximum diyaframı seçmek uzun pozlama tekniğindeki ipuçlarından biri değildir."
-    },
-    {
-        "SoruID": 3858684,
-        "SoruMetni": "Aşağıdakilerden hangisi mimari fotoğrafçılıkta kullanılması gereken temel lens örneklerinden biri değildir ?",
-        "A": "40mm f/1.4 veya f/1.8",
-        "B": "50mm f/1.4 veya f/1.8",
-        "C": "24x70 mm f2.8",
-        "D": "85 mm f1.2",
-        "E": "16x35mm f2.8, veya 16x50mm",
-        "DogruCevap": "A",
-        "DersAd": "Görsel Estetik",
-        "Unite": 3,
-        "Somestre": "1",
-        "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.144230",
-        "GelYer": 0,
-        "DersId": 0,
-        "OBSDersId": 0,
-        "CevapSira": null,
-        "Aciklama": "40mm f/1.4 veya f/1.8 mimari fotoğrafçılıkta kullanılması gereken temel lens örneklerinden biri değildir."
+        "Aciklama": "Objektifiniz tarafından izin verilen maximum diyaframı seçmek uzun pozlama tekniğindeki ipuçlarından biri değildir."
     },
     {
         "SoruID": 3858732,
@@ -457,11 +557,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1490 yıllarında Da Vinci, doğrusal perspektifi çoğaltmak için tasarlanmış bir aygıt olarak kamera obscurayı tanımlamış, Danielo Barbaro adlı bir Venedikli  ise karanlık kutunun deliğine bir mercek yerleştirerek daha net bir görüntü elde edilebileceğini kanıtlamıştır. Doğru cevap D'dir."
+        "Aciklama": "1490 yıllarında Da Vinci, doğrusal perspektifi çoğaltmak için tasarlanmış bir aygıt olarak kamera obscurayı tanımlamış, Danielo Barbaro adlı bir Venedikli ise karanlık kutunun deliğine bir mercek yerleştirerek daha net bir görüntü elde edilebileceğini kanıtlamıştır. Doğru cevap D'dir."
     },
     {
         "SoruID": 3858735,
-        "SoruMetni": "Aşağıdakilerden hangisi fotoğrafın negatiften  üretilmiş  tekniğine verilen addır?",
+        "SoruMetni": "Aşağıdakilerden hangisi fotoğrafın negatiften üretilmiş tekniğine verilen addır?",
         "A": "Kalotip",
         "B": "Reaksiyon",
         "C": "Obscura",
@@ -520,28 +620,28 @@
         "Aciklama": "Enstantane Hızı"
     },
     {
-        "SoruID": 3858802,
-        "SoruMetni": "1840 yılında fotoğraf tarihinin ilk portre fotoğrafını çeken kişi aşağıdakilerden hangisidir ?",
-        "A": "John William Draper",
-        "B": "Dorothy Catherine Draper",
-        "C": "Robert Cornelius",
-        "D": "Alphose Giroux",
-        "E": "Hippolyte Bayard",
-        "DogruCevap": "A",
+        "SoruID": 3858804,
+        "SoruMetni": "Bir manzara fotoğrafı çekmek için hangi objektif türü ve hangi kamera ayarı öncelikli olarak kullanılmalıdır ?",
+        "A": "Normal Açılı Objektif - Enstantane öncelikli mod",
+        "B": "Dar Açılı Objektif - Diyafram öncelikli mod",
+        "C": "Geniş Açılı Objektif- Diyafram öncelikli mod",
+        "D": "Zoom Objektif- Enstantane öncelikli mod",
+        "E": "Normal Açılı Objektif- Enstantane öncelikli mod",
+        "DogruCevap": "C",
         "DersAd": "Görsel Estetik",
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:42.919927",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.939648",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "John William Draper (1811-1882) 1840’da fotoğraf tarihin ilk portre fotoğrafını çekmiştir."
+        "Aciklama": "Geniş Açılı Objektif- Diyafram öncelikli mod"
     },
     {
         "SoruID": 3858805,
-        "SoruMetni": "Çerçevenin tamamının  üzerindeki ortalama  ışık seviyesini ölçerek pozlama değeri oluşturan poz ölçüm modu hangi seçenekte doğru olarak verilmiştir ?",
+        "SoruMetni": "Çerçevenin tamamının üzerindeki ortalama ışık seviyesini ölçerek pozlama değeri oluşturan poz ölçüm modu hangi seçenekte doğru olarak verilmiştir ?",
         "A": "Ağırlıklı Ortalama (Matrix) Ölçüm",
         "B": "Merkez Ağırlıklı Ölçüm",
         "C": "Otomatik Ölçüm",
@@ -560,8 +660,28 @@
         "Aciklama": "Ağırlıklı Ortalama (Matrix) Ölçüm: Bu ölçümde sayısal fotoğraf makineniz çerçevenin tamamının üzerindeki ortalama ışık seviyesini ölçerek pozlama değeri oluşturur."
     },
     {
+        "SoruID": 3858806,
+        "SoruMetni": "Fotoğraf çekiminde ortam ışığında kullanılan aydınlatmalardan dolayı fotoğraf üzerinde mavileşme ,sararma ve turunculaşmayı önlemek için hangi fotoğraf ayarını yapmak gerekir?",
+        "A": "ISO",
+        "B": "Beyaz Ayarı",
+        "C": "Örtücü Açısı",
+        "D": "Pozlama Değeri",
+        "E": "Diyafram",
+        "DogruCevap": "B",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.745953",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Beyaz Ayarı"
+    },
+    {
         "SoruID": 3858807,
-        "SoruMetni": "Fotoğraf çekiminde ışık  yoğunluğunu azaltmak veya dengelemek için hangi filtre kullanılmalıdır ?",
+        "SoruMetni": "Fotoğraf çekiminde ışık yoğunluğunu azaltmak veya dengelemek için hangi filtre kullanılmalıdır ?",
         "A": "UV filtre",
         "B": "Skylight Filtre",
         "C": "ND filtre",
@@ -601,7 +721,7 @@
     },
     {
         "SoruID": 3858809,
-        "SoruMetni": "Fotoğraf çekiminde makine değerine ilave olarak  fazla ve az pozlama ile birlikte 3 kare birden çekilen yönteme ne ad verilir ?",
+        "SoruMetni": "Fotoğraf çekiminde makine değerine ilave olarak fazla ve az pozlama ile birlikte 3 kare birden çekilen yönteme ne ad verilir ?",
         "A": "Merkezi Ölçüm",
         "B": "Spot",
         "C": "ISO",
@@ -621,7 +741,7 @@
     },
     {
         "SoruID": 3858811,
-        "SoruMetni": "Mimari fotoğraf çekimlerinde  iç mekan veya  zor ışık  şartlarında bile daha keskin ve net fotoğraflar çekebilmede yardımcı olan öncelikli kamera ayarı hangisidir ?",
+        "SoruMetni": "Mimari fotoğraf çekimlerinde iç mekan veya zor ışık şartlarında bile daha keskin ve net fotoğraflar çekebilmede yardımcı olan öncelikli kamera ayarı hangisidir ?",
         "A": "Diyafram açıklığı",
         "B": "Enstantane hızı",
         "C": "Objektif türü",
@@ -638,6 +758,46 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Diyafram açıklığı"
+    },
+    {
+        "SoruID": 3858837,
+        "SoruMetni": "Tarihin ilk portre fotoğrafı kaç yılında çekilmiştir?",
+        "A": "1839",
+        "B": "1840",
+        "C": "1844",
+        "D": "1855",
+        "E": "1861",
+        "DogruCevap": "B",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.676100",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "John William Draper (1811-1882) 1840’da fotoğraf tarihin ilk portre fotoğrafını çekmiştir. Kimya profesörü olan Draper kendi kamerasını yapmış ve ilk insan portresini kaydetmiştir. Ablası Dorothy Catherine Draper gözleri açık olan ilk kadın portresidir. Doğru cevap B'dir."
+    },
+    {
+        "SoruID": 3858838,
+        "SoruMetni": "Aşağıdakilerden hangisi HDR fotoğrafların sıklıkla kullanıldığı sektörler arasında yer almaktadır?",
+        "A": "Eğitim",
+        "B": "Giyim",
+        "C": "Bankacılık",
+        "D": "Havacılık",
+        "E": "Turizm",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.768202",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Yüksek dinamik aralık anlamına gelen HDR’nin temel prensibi aynı çerçeveden oluşturulan fotoğraflarda aydınlık ve karanlık yüzey arasındaki temel ışık farklarının şiddetini ortaya koymaktır. HDR fotoğraflar turizm, tanıtım ve reklam sektöründe sıklıkla kullanılmaktadır. Doğru cevap E'dir."
     },
     {
         "SoruID": 3858839,
@@ -657,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap A'dır. Işık yardımıyla görüntü elde eden ilk kişi Joseph Nicéphore Niépce'dır."
+        "Aciklama": "Doğru cevap A'dır. Işık yardımıyla görüntü elde eden ilk kişi Joseph Nicéphore Niépce'dır."
     },
     {
         "SoruID": 3858840,
@@ -681,7 +841,7 @@
     },
     {
         "SoruID": 3858841,
-        "SoruMetni": "I.Diyafram<br/> II.Histogram<br/> III. Estantane<br/> IV.Beyaz Ayarı<br/> V.ISO hızı<br/> Yukarıdakilerden hangileri üçlü pozlama üçgeninin köşeleri içerisinde yer alır?",
+        "SoruMetni": "I.Diyafram<br/>II.Histogram<br/>III. Estantane<br/>IV.Beyaz Ayarı<br/>V.ISO hızı<br/>Yukarıdakilerden hangileri üçlü pozlama üçgeninin köşeleri içerisinde yer alır?",
         "A": "III, IV ve V",
         "B": "II, IV ve V",
         "C": "I, II ve III",
@@ -780,6 +940,26 @@
         "Aciklama": "Doğru cevap E'dir. Basmaklama adı verilir."
     },
     {
+        "SoruID": 3858847,
+        "SoruMetni": "Aşağıdakilerden hangisi uzun pozlama tekniklerinden biri değildir?",
+        "A": "Yıldız pozlama",
+        "B": "Şelale pozlama",
+        "C": "Ters Işık pozlama",
+        "D": "Işık izi pozlama",
+        "E": "Mavi zaman pozlama",
+        "DogruCevap": "C",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.838829",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Doğru cevap C'dir. Ters Işık pozlama adı verilir."
+    },
+    {
         "SoruID": 3858848,
         "SoruMetni": "Henry Fox Talbot’un Kalotip baskı tekniğinin Dagerotip baskı tekniğinden üstünlüğü aşağıdakilerden hangisidir?",
         "A": "Işığa daha duyarlı olması",
@@ -797,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap B'dir. Sayısız çoğaltılabilmesidir."
+        "Aciklama": "Doğru cevap B'dir. Sayısız çoğaltılabilmesidir."
     },
     {
         "SoruID": 3858850,
@@ -818,6 +998,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Geniş açı veya balık gözüne yakın lensler darmekânlarda etkili sonuçlar almanızı sağlar. Aynı zamanda mimari yapıların bütünü üzerinde bir hiyerarşik abartı ve görkem sağlamanızı mümkün kılar. Doğru cevap C'dir."
+    },
+    {
+        "SoruID": 3858854,
+        "SoruMetni": "Aşağıdakilerden hangisi uzun pozlama tekniği ile fotoğraf çekerken yanımızda olması gerekenler arasında yer <span style=\"text-decoration: underline;\">almamaktadı</span>r?",
+        "A": "Tripod",
+        "B": "Batarya",
+        "C": "Telelens",
+        "D": "Beyaz dengesi filtresi",
+        "E": "Hafıza kartı",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.462742",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Uzun pozlama tekniğinde yanımızda tripod (üç ayak), kablolu veya kablosuz kumanda,<br/>batarya, geniş açı veya telelensler, hafıza kartları eğer gece ışıkla boyama yapacaksanız bir led lamba, ışık ve pozlama yapacağınız saate göre ND filtre seçenekleri (ND:2-4-8), saati dış ve gece çekimlerinde her ihtimale karşı sizin ve makine için bir yağmur koruyucu olması gerekmektedir. Doğru cevap D'dir."
     },
     {
         "SoruID": 3858856,
@@ -841,7 +1041,7 @@
     },
     {
         "SoruID": 3858857,
-        "SoruMetni": "I- Diyafram<br/> II- Matrix ölçüm<br/> III- Enstantane hızı<br/> IV- ISO hızı<br/> V- Camera obscura<br/> Hangi seçenekte pozlama üçgeni temel kavramları doğru olarak verilmiştir?",
+        "SoruMetni": "I- Diyafram<br/>II- Matrix ölçüm<br/>III- Enstantane hızı<br/>IV- ISO hızı<br/>V- Camera obscura<br/>Hangi seçenekte pozlama üçgeni temel kavramları doğru olarak verilmiştir?",
         "A": "I-II ve III",
         "B": "II-III ve IV",
         "C": "I-III ve IV",
@@ -861,7 +1061,7 @@
     },
     {
         "SoruID": 3858858,
-        "SoruMetni": "Aşağıdakilerden hangisi  lens açıklığının geniş ve dar olması konusunu belirleyen kavrama verilen addır?",
+        "SoruMetni": "Aşağıdakilerden hangisi lens açıklığının geniş ve dar olması konusunu belirleyen kavrama verilen addır?",
         "A": "Diyafram",
         "B": "Enstantane hızı",
         "C": "ISO hızı",
@@ -900,26 +1100,6 @@
         "Aciklama": "Fotoğrafın önünü açan buluş hiç kuşkusuz ki bilim adamı Johann Heinrich Schulze tarafından gümüş tuzlarının ışığa duyarlılığının keşfedilmesidir. Doğru seçenek B'dir."
     },
     {
-        "SoruID": 3858906,
-        "SoruMetni": "Daguerre’in pozitif görüntülerinin negatif görüntü elde etmeyi başaran ve günümüze ulaşan en eski negatifi üreten ve bu tekniği Calotype ya da Kalotip diye adlandırılan bilim insanı aşağıdakilerden hangisidir?",
-        "A": "William Henry Fox Talbot",
-        "B": "Joseph Nicephore Niepce",
-        "C": "John William Draper",
-        "D": "Louis Daguerre",
-        "E": "Alphose Giroux",
-        "DogruCevap": "A",
-        "DersAd": "Görsel Estetik",
-        "Unite": 3,
-        "Somestre": "1",
-        "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.041301",
-        "GelYer": 0,
-        "DersId": 0,
-        "OBSDersId": 0,
-        "CevapSira": null,
-        "Aciklama": "William Henry Fox Talbot, Daguerre’in pozitif görüntülerinin negatif görüntü elde etmeyi başarmıştır. Günümüze ulaşan en eski negatifi üretmiş ve bu teknik Calotype ya da Kalotip diye adlandırılmıştır. Doğru seçenek A'dır."
-    },
-    {
         "SoruID": 3858911,
         "SoruMetni": "Pozlama üçgenini oluşturan kavramlar aşağıdakilerden hangisinde doğru verilmiştir?",
         "A": "ISO Hızı, Parlaklık, Histogram",
@@ -941,7 +1121,7 @@
     },
     {
         "SoruID": 3858916,
-        "SoruMetni": "I. Mavi zaman pozlama<br/> II. Işık izleri pozlama<br/> III. Yıldız pozlama<br/> yukarıdakilerden hangisi ya da hangileri uzun pozlama teknikleri arasında yer alır?",
+        "SoruMetni": "I. Mavi zaman pozlama<br/>II. Işık izleri pozlama<br/>III. Yıldız pozlama<br/>yukarıdakilerden hangisi ya da hangileri uzun pozlama teknikleri arasında yer alır?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -957,7 +1137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mavi zaman pozlama, ışık izleri pozlama ve yıldız pozlama uzun pozlama teknikleri arasındadır. Doğru seçenek E'dir."
+        "Aciklama": "Mavi zaman pozlama, ışık izleri pozlama ve yıldız pozlama uzun pozlama teknikleri arasındadır. Doğru seçenek E'dir."
     },
     {
         "SoruID": 3858917,
@@ -978,26 +1158,6 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Portre fotoğraflarınızda çekim dosya modu olarak RAW+JPG önerilir. Bu sayede fotoğraflarınız üzerinde yazılım desteğiyle oldukça yaratıcı denemeler yapabilir, fotoğraflarınızı işleyebilirsiniz. Doğru seçenek D'dir."
-    },
-    {
-        "SoruID": 3858918,
-        "SoruMetni": "İlk savaş fotoğrafçısı olarak Kraliçe’nin emri ile Kırım Savaşı’nı görüntülemek için gönderilen fotoğrafçı aşağıdakilerden hangisidir?",
-        "A": "Roger Fenton",
-        "B": "Thomas Sutton",
-        "C": "Hippolyte Bayard",
-        "D": "Louis Daguerre",
-        "E": "Stephen Henry Horgan",
-        "DogruCevap": "A",
-        "DersAd": "Görsel Estetik",
-        "Unite": 3,
-        "Somestre": "1",
-        "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.091740",
-        "GelYer": 0,
-        "DersId": 0,
-        "OBSDersId": 0,
-        "CevapSira": null,
-        "Aciklama": "1855’te İngiliz Roger Fenton ilk savaş fotoğrafçısı olarak Kraliçe’nin emri ile Kırım Savaşı’nı görüntülemek için gönderilmişti. Doğru seçenek A'dır."
     },
     {
         "SoruID": 3858919,
@@ -1040,8 +1200,28 @@
         "Aciklama": "Fotoğraf çektiğiniz zaman makinemizin perdesi açılarak gerek gördüğümüz kadar ışığı içeri alır ve kapanır. Bu gerek gördüğünüz kadar açılma-kapanma süresine enstantane hızı denilir. Doğru seçenek B'dir."
     },
     {
+        "SoruID": 3858941,
+        "SoruMetni": "Aşağıdakilerden hangisi yada hangileri Kalotip tekniğinin özelliklerindendir?<br/>I-) Negatif görüntüdür<br/>II-) Pozitif görüntüdür<br/>III-) Tek baskıya izin verir<br/>IV-) Çok sayıda baskıya izin verir<br/>V-) Birden çok kamera ile birden çok görüntü çekmeye izin verir",
+        "A": "I ve IV",
+        "B": "I ve III",
+        "C": "II, III ve V",
+        "D": "II ve IV",
+        "E": "Yalnız V",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.873084",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kalotip tekniği negatif görüntün birden fazla baskısına imkan sağlamaktadır. Dolayısıyla cevap A şıkkıdır."
+    },
+    {
         "SoruID": 3858942,
-        "SoruMetni": "Aşağıdakilerden hangisi yada hangileri Kolodinium tekniğinin özelliklerindendir?<br/><br/>I-) Negatif görüntüdür<br/><br/>II-) Pozitif görüntüdür<br/><br/>III-) Tek baskıya izin verir<br/><br/>IV-) Çok sayıda baskıya izin verir<br/><br/>V-) Birden çok kamera ile birden çok görüntü çekmeye izin verir",
+        "SoruMetni": "Aşağıdakilerden hangisi yada hangileri Kolodinium tekniğinin özelliklerindendir?<br/>I-) Negatif görüntüdür<br/>II-) Pozitif görüntüdür<br/>III-) Tek baskıya izin verir<br/>IV-) Çok sayıda baskıya izin verir<br/>V-) Birden çok kamera ile birden çok görüntü çekmeye izin verir",
         "A": "I ve III",
         "B": "Yalnız V",
         "C": "Yalnız IV",
@@ -1081,7 +1261,7 @@
     },
     {
         "SoruID": 3858944,
-        "SoruMetni": "Fotoğraf makinasında, fotoğrafın konuya ne kadarının odaklandığı ve ne kadar flu olması gerektiği üzerine yaratıcı kontrol de sağlayan bölüm aşağıdakilerden hangisidir?",
+        "SoruMetni": "Fotoğraf makinasında, fotoğrafın konuya ne kadarının odaklandığı ve ne kadar flu olması gerektiği üzerine yaratıcı kontrol de sağlayan bölüm aşağıdakilerden hangisidir?",
         "A": "Deklanşör",
         "B": "Lens",
         "C": "Perde",
@@ -1101,7 +1281,7 @@
     },
     {
         "SoruID": 3858945,
-        "SoruMetni": "Aşağıda Pozlama Üçgeni bileşenleriyle ilgili verilen ifadelerden hangisi yada hangileri doğrudur?<br/> I-) Diyafram ışığın sensöre ne kadar düşeceğini belirler<br/> II-) Enstantane hızı ışığın sensöre düşme süresini belirler<br/> III-) ISO, algılayıcının ışığa duyarlılık durumunu belirler<br/> IV-) Diyafram açıklığı “S” ile ifade edilir<br/> V-) Enstantane hızı “f” ile ifade edilir",
+        "SoruMetni": "Aşağıda Pozlama Üçgeni bileşenleriyle ilgili verilen ifadelerden hangisi yada hangileri doğrudur?<br/>I-) Diyafram ışığın sensöre ne kadar düşeceğini belirler<br/>II-) Enstantane hızı ışığın sensöre düşme süresini belirler<br/>III-) ISO, algılayıcının ışığa duyarlılık durumunu belirler<br/>IV-) Diyafram açıklığı “S” ile ifade edilir<br/>V-) Enstantane hızı “f” ile ifade edilir",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "III ve IV",
@@ -1157,11 +1337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Işık ölçer (TTL) Ansel Adams’dan miras kalan zone systemin tam ortasındaki %18’lik gri<br/> tona göre ölçüm yapar. Dolayısıyla cevap B şıkkıdır."
+        "Aciklama": "Işık ölçer (TTL) Ansel Adams’dan miras kalan zone systemin tam ortasındaki %18’lik gri<br/>tona göre ölçüm yapar. Dolayısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3858948,
-        "SoruMetni": "Aşağıda verilen teknikler ve yöntemler eşleştirmesinde hangisi yada hangileri doğrudur?<br/><br/>I. Hareketi dondurma – Yüksek enstantane hızı<br/><br/>II. Hareketi pozlama - Düşük enstantane hızı<br/><br/>III. Sis fotoğrafı – Otomatik fokus ayarı kullanmak<br/><br/>IV. Manzara fotoğrafında netlik – Kısık diyafram",
+        "SoruMetni": "Aşağıda verilen teknikler ve yöntemler eşleştirmesinde hangisi yada hangileri doğrudur?<br/>I. Hareketi dondurma – Yüksek enstantane hızı<br/>II. Hareketi pozlama - Düşük enstantane hızı<br/>III. Sis fotoğrafı – Otomatik fokus ayarı kullanmak<br/>IV. Manzara fotoğrafında netlik – Kısık diyafram",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I, II ve IV",
@@ -1181,7 +1361,7 @@
     },
     {
         "SoruID": 3858949,
-        "SoruMetni": "Porte fotoğrafçılığı için aşağıda verilenlerden hangisi/hangileri doğrudur?<br/> I-) Işık ölçümü için ağırlıklı olarak spot ölçüm modu kullanılır<br/> II-) Yakın plan portrelerde netleme gözden alınarak yapılmalıdır<br/> III-) Sığ alan derinliği kullanılarak arka planı flulaştırılabilir<br/> IV-) Genellikle geniş açılı lensler tercih edilir<br/> V-) Portre çekimlerinde en ideal ışık ters ışıktır",
+        "SoruMetni": "Porte fotoğrafçılığı için aşağıda verilenlerden hangisi/hangileri doğrudur?<br/>I-) Işık ölçümü için ağırlıklı olarak spot ölçüm modu kullanılır<br/>II-) Yakın plan portrelerde netleme gözden alınarak yapılmalıdır<br/>III-) Sığ alan derinliği kullanılarak arka planı flulaştırılabilir<br/>IV-) Genellikle geniş açılı lensler tercih edilir<br/>V-) Portre çekimlerinde en ideal ışık ters ışıktır",
         "A": "II, III ve IV",
         "B": "IV ve V",
         "C": "II, III ve V",
@@ -1261,7 +1441,7 @@
     },
     {
         "SoruID": 3859002,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li> Çok parlak veya çok karanlık sahneler<br/> </li> <li> Yüksek anahtar (high key) portre pozlamaları<br/> </li> <li> Karlı sahneler<br/> </li> <li> Plaj, deniz yansıması olan sahneler<br/> </li> <li> Büyük miktarda parlak gökyüzü içeren sahneler<br/> </li> </ol>    Yukardakilerden hangileri pozlama telafisi fotoğraf çekim teknikleri içerisinde  pozlama üçgenine destek olur?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li> Çok parlak veya çok karanlık sahneler<br/></li> <li> Yüksek anahtar (high key) portre pozlamaları<br/></li> <li> Karlı sahneler<br/></li> <li> Plaj, deniz yansıması olan sahneler<br/></li> <li> Büyük miktarda parlak gökyüzü içeren sahneler<br/></li> </ol> Yukardakilerden hangileri pozlama telafisi fotoğraf çekim teknikleri içerisinde pozlama üçgenine destek olur?",
         "A": "I, II, III, IV ve V",
         "B": "I, II ve III",
         "C": "II, III, IV ve V",
@@ -1277,7 +1457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pozlama telafisi fotoğraf çekim teknikleri içerisinde hangi şartlarda pozlama üçgenine destek olur:<br/>       <ol> <li> Çok parlak veya çok karanlık sahneler<br/> </li> <li> Yüksek anahtar (high key) portre pozlamaları<br/> </li> <li> Karlı sahneler<br/> </li> <li> Plaj, deniz yansıması olan sahneler<br/> </li> <li> Büyük miktarda parlak gökyüzü içeren sahneler<br/> </li> <li> Arkadan aydınlatmalı konular<br/> </li> <li> Gece sahneleri<br/> </li> <li> Manzara doku pozlamaları<br/> </li> </ol>"
+        "Aciklama": "Pozlama telafisi fotoğraf çekim teknikleri içerisinde hangi şartlarda pozlama üçgenine destek olur:<br/><ol> <li> Çok parlak veya çok karanlık sahneler<br/></li> <li> Yüksek anahtar (high key) portre pozlamaları<br/></li> <li> Karlı sahneler<br/></li> <li> Plaj, deniz yansıması olan sahneler<br/></li> <li> Büyük miktarda parlak gökyüzü içeren sahneler<br/></li> <li> Arkadan aydınlatmalı konular<br/></li> <li> Gece sahneleri<br/></li> <li> Manzara doku pozlamaları<br/></li> </ol>"
     },
     {
         "SoruID": 3859003,
@@ -1321,7 +1501,7 @@
     },
     {
         "SoruID": 3859005,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Işık koşullarına göre 1/15 ve 1/60 enstantane hızları deneyebilirsiniz.</li> <li>Çekecek olduğunuz hareketli nesnenin yoluna paralel olacak şekilde yerleşiniz. Bu sayede odaklamanız daha kolay olacaktır.</li> <li>Deklanşörü serbest bıraktığınızda, çekim tamamlandıktan sonra konuyla birlikte herekete kaydırma yapmaya devam edin.</li> <li>Konu yaklaştıkça makinenizle izlemeye başlayın. Kameranızın ekstra desteği için, döner başlıklı bir monopod veya tripod kullanmak doğru olacaktır.</li> <li>Otomatik odak izlemeli bir kameranız varsa, deklanşör düğmesine yarım basarak kameranın odaklanmasını sağlayabilirsiniz. Kameranız yeterince hızlı otomatik odaklanmaya sahip değilse, fotoğraf makinesini deklanşörü bıraktığınız noktaya önceden odaklamanız gerekir.</li> </ol>     Yukardakilerden hangileri iyi bir pan tekniği için ip uçları içermektedir?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Işık koşullarına göre 1/15 ve 1/60 enstantane hızları deneyebilirsiniz.</li> <li>Çekecek olduğunuz hareketli nesnenin yoluna paralel olacak şekilde yerleşiniz. Bu sayede odaklamanız daha kolay olacaktır.</li> <li>Deklanşörü serbest bıraktığınızda, çekim tamamlandıktan sonra konuyla birlikte herekete kaydırma yapmaya devam edin.</li> <li>Konu yaklaştıkça makinenizle izlemeye başlayın. Kameranızın ekstra desteği için, döner başlıklı bir monopod veya tripod kullanmak doğru olacaktır.</li> <li>Otomatik odak izlemeli bir kameranız varsa, deklanşör düğmesine yarım basarak kameranın odaklanmasını sağlayabilirsiniz. Kameranız yeterince hızlı otomatik odaklanmaya sahip değilse, fotoğraf makinesini deklanşörü bıraktığınız noktaya önceden odaklamanız gerekir.</li> </ol> Yukardakilerden hangileri iyi bir pan tekniği için ip uçları içermektedir?",
         "A": "I, II ve III",
         "B": "III, IV ve V",
         "C": "II, III ve IV",
@@ -1337,7 +1517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İyi bir pan tekniği için ip uçları,<br/> <ul> <li> İlk kez denemeye karar verdiğinizde biraz daha yavaş bir deklanşör hızı seçin 1/30 gibi. Daha son- raları ışık koşullarına göre 1/15 ve 1/60 enstantane hızları deneyebilirsiniz.<br/> </li> <li> Konuyla aranıza başka bir nesnenin (insan, direk, ağaç vs.) girmeyeceği bir konum seçmeniz yara- rınıza olacaktır.<br/> </li> <li> Sonuçların iyi olması için, konumunuzu, çekecek olduğunuz hareketli nesnenin yoluna paralel olacak şekilde yerleşiniz. Bu sayede odaklamanız daha kolay olacaktır.<br/> </li> <li> Konu yaklaştıkça makinenizle izlemeye başlayın. Kameranızın ekstra desteği için, döner başlıklı bir monopod veya tripod kullanmak doğru olacaktır.<br/> </li> <li> Otomatik odak izlemeli bir kameranız varsa, deklanşör düğmesine yarım basarak kameranın odaklanma- sını sağlayabilirsiniz. Kameranız yeterince hızlı otomatik odaklanmaya sahip değilse, fotoğraf makinesini deklanşörü bıraktığınız noktaya önceden odaklamanız gerekir.<br/> </li> <li> Deklanşörü serbest bıraktığınızda, çekim tamamlandıktan sonra konuyla birlikte herekete kaydır- ma yapmaya devam edin.<br/> </li>  </ul>"
+        "Aciklama": "İyi bir pan tekniği için ip uçları,<br/><ul> <li> İlk kez denemeye karar verdiğinizde biraz daha yavaş bir deklanşör hızı seçin 1/30 gibi. Daha son- raları ışık koşullarına göre 1/15 ve 1/60 enstantane hızları deneyebilirsiniz.<br/></li> <li> Konuyla aranıza başka bir nesnenin (insan, direk, ağaç vs.) girmeyeceği bir konum seçmeniz yara- rınıza olacaktır.<br/></li> <li> Sonuçların iyi olması için, konumunuzu, çekecek olduğunuz hareketli nesnenin yoluna paralel olacak şekilde yerleşiniz. Bu sayede odaklamanız daha kolay olacaktır.<br/></li> <li> Konu yaklaştıkça makinenizle izlemeye başlayın. Kameranızın ekstra desteği için, döner başlıklı bir monopod veya tripod kullanmak doğru olacaktır.<br/></li> <li> Otomatik odak izlemeli bir kameranız varsa, deklanşör düğmesine yarım basarak kameranın odaklanma- sını sağlayabilirsiniz. Kameranız yeterince hızlı otomatik odaklanmaya sahip değilse, fotoğraf makinesini deklanşörü bıraktığınız noktaya önceden odaklamanız gerekir.<br/></li> <li> Deklanşörü serbest bıraktığınızda, çekim tamamlandıktan sonra konuyla birlikte herekete kaydır- ma yapmaya devam edin.<br/></li> </ul>"
     },
     {
         "SoruID": 3859006,
@@ -1397,7 +1577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "HDR (HIGH DYNAMIC RANGE) Çekim Tekniği<br/> Sayısal fotoğrafçılığın ve yazılımların devreye girmesiyle fotoğraf teknikleri de farklı yönlere evrilmiştir. Bunların en başında deneysel teknikler gelir. HDR de bu tekniklerden birisidir. Yüksek dinamik aralık anlamına gelen HDR’nin temel prensibi aynı çerçeveden oluşturulan fotoğraflarda aydınlık ve karanlık yüzey arasındaki temel ışık farklarının şiddetini ortaya koyar. Bu sayede fotoğrafta gözü okşayan yapay bir derinlik oluşur."
+        "Aciklama": "HDR (HIGH DYNAMIC RANGE) Çekim Tekniği<br/>Sayısal fotoğrafçılığın ve yazılımların devreye girmesiyle fotoğraf teknikleri de farklı yönlere evrilmiştir. Bunların en başında deneysel teknikler gelir. HDR de bu tekniklerden birisidir. Yüksek dinamik aralık anlamına gelen HDR’nin temel prensibi aynı çerçeveden oluşturulan fotoğraflarda aydınlık ve karanlık yüzey arasındaki temel ışık farklarının şiddetini ortaya koyar. Bu sayede fotoğrafta gözü okşayan yapay bir derinlik oluşur."
     },
     {
         "SoruID": 3859009,
@@ -1417,7 +1597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotoğrafçılıkta çok genel bir söylem vardır: iyi bir fotoğraf makinesi mi, iyi bir lens mi profesyoneller bu soruya hep iyi bir lens cevabı verirler. Mimari fotoğrafçılıkta kullanılması gereken temel lensleri örneklenecek olursa:<br/> • 50mm f/1.4 veya f/1.8<br/> • 16x35mm f2.8, veya 16x50mm<br/> • 24x70 mm f2.8<br/> • 85 mm f1.2<br/> • Dar mekânlar 35mm altında geniş açı lensler<br/> • Uzak çekimler için kısmen telefoto lensler<br/> Geniş açı veya balık gözüne yakın lensler dar mekânlarda etkili sonuçlar almanızı sağlar."
+        "Aciklama": "Fotoğrafçılıkta çok genel bir söylem vardır: iyi bir fotoğraf makinesi mi, iyi bir lens mi profesyoneller bu soruya hep iyi bir lens cevabı verirler. Mimari fotoğrafçılıkta kullanılması gereken temel lensleri örneklenecek olursa:<br/>• 50mm f/1.4 veya f/1.8<br/>• 16x35mm f2.8, veya 16x50mm<br/>• 24x70 mm f2.8<br/>• 85 mm f1.2<br/>• Dar mekânlar 35mm altında geniş açı lensler<br/>• Uzak çekimler için kısmen telefoto lensler<br/>Geniş açı veya balık gözüne yakın lensler dar mekânlarda etkili sonuçlar almanızı sağlar."
     },
     {
         "SoruID": 3859010,
@@ -1540,26 +1720,6 @@
         "Aciklama": "1861’de James Clark Maxwell, el boyaması olmayan<br/>ilk renkli fotoğrafı üretmeyi başarmıştı."
     },
     {
-        "SoruID": 3859016,
-        "SoruMetni": "Aşağıdakilerden hangisi poz ölçüm modlarından birisi değildir?",
-        "A": "Ağırlıklı Ortalama (Matrix) Ölçüm",
-        "B": "Merkez Ağırlıklı ölçüm",
-        "C": "Kısmi ölçüm",
-        "D": "Spot ölçüm",
-        "E": "Otomatik odaklama hızı",
-        "DogruCevap": "E",
-        "DersAd": "Görsel Estetik",
-        "Unite": 3,
-        "Somestre": "1",
-        "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:42.934601",
-        "GelYer": 0,
-        "DersId": 0,
-        "OBSDersId": 0,
-        "CevapSira": null,
-        "Aciklama": "Doğru cevap E şıkkıdır."
-    },
-    {
         "SoruID": 3859017,
         "SoruMetni": "Aşağıdakilerden hangisi otomatik netleme parametrelerinden birisi değildir?",
         "A": "Dinamik odak alanı",
@@ -1572,7 +1732,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.048276",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.932542",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1637,7 +1797,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotoğrafın kelime anlamı, ışık yardımı ile iz bırakmaktır.<br/> Doğru cevap C seçeneğidir."
+        "Aciklama": "Fotoğrafın kelime anlamı, ışık yardımı ile iz bırakmaktır.<br/>Doğru cevap C seçeneğidir."
+    },
+    {
+        "SoruID": 3859021,
+        "SoruMetni": "Kamera Obscura aşağıdakilerden hangi anlama gelmektedir?",
+        "A": "Karanlık Kutu",
+        "B": "Yeni Kamera",
+        "C": "Işık Odası",
+        "D": "Hatıra Kutusu",
+        "E": "Büyük Kutu",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.684559",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fotoğraf ve kameranın bulunmasına neden olan fotoğraf literatüründe karanlık oda ya da karanlık kutu anlamına gelen kamera obscura (pinhole) iğne deliği muhtemelen doğanın gerçek görüntüsünü yansıtabilen ilk cihazdır. Doğru cevap A seçeneğidir."
     },
     {
         "SoruID": 3859022,
@@ -1657,7 +1837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "John William Draper (1811-1882) 1840’da fotoğraf tarihin ilk portre fotoğrafını çekmiştir.     Doğru cevap D seçeneğidir."
+        "Aciklama": "John William Draper (1811-1882) 1840’da fotoğraf tarihin ilk portre fotoğrafını çekmiştir. Doğru cevap D seçeneğidir."
     },
     {
         "SoruID": 3859023,
@@ -1677,11 +1857,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pozlama açık tanımıyla “ışığı dengelemek” anlamına gelir.     Doğru cevap C seçeneğidir."
+        "Aciklama": "Pozlama açık tanımıyla “ışığı dengelemek” anlamına gelir. Doğru cevap C seçeneğidir."
     },
     {
         "SoruID": 3859024,
-        "SoruMetni": "\"Işığın fotoğraf makinesi içerisine fazla girmesi fotoğrafta parlaklığı artıracağı gibi, az girmesi fotoğrafın pozlama değerinin azalmasına neden olacak ve fotoğraf koyu olarak karşımıza çıkacaktır.\"     Bu dengeyi oluşturan ve pozlamanın omurgası sayılan üç temel kavram (Diyafram-Enstantane Hızı-ISO Hızı) hangi isimle anılmaktadır?",
+        "SoruMetni": "\"Işığın fotoğraf makinesi içerisine fazla girmesi fotoğrafta parlaklığı artıracağı gibi, az girmesi fotoğrafın pozlama değerinin azalmasına neden olacak ve fotoğraf koyu olarak karşımıza çıkacaktır.\" Bu dengeyi oluşturan ve pozlamanın omurgası sayılan üç temel kavram (Diyafram-Enstantane Hızı-ISO Hızı) hangi isimle anılmaktadır?",
         "A": "Pozlama Problemi",
         "B": "Fotoğraf Kriterleri",
         "C": "Üçlü Pozlama",
@@ -1697,7 +1877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu üçlüye fotoğrafta Pozlama Üçgeni denir. Fotoğrafa yeni başlayanların en korktuğu veya çözümleyene kadar çok zaman harcadığı önemli bir üçgendir.     Doğru cevap E seçeneğidir."
+        "Aciklama": "Bu üçlüye fotoğrafta Pozlama Üçgeni denir. Fotoğrafa yeni başlayanların en korktuğu veya çözümleyene kadar çok zaman harcadığı önemli bir üçgendir. Doğru cevap E seçeneğidir."
     },
     {
         "SoruID": 3859025,
@@ -1732,7 +1912,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.057750",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.957400",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1777,7 +1957,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kameraya verilen isim Leica, Lei tz Camera’dan elde edilen bir anagramdı. Leica I, 1927 yılında satışa başladı. 1930 yılında Leica değiştirilebilir objektife sahip ilk 35 mm kamerayı üretti."
+        "Aciklama": "Oskar Barnack(1879-1936), 1913’te Ernst Leitz Optische Werke adlı ilk 35 mm kamerayı yapan bir mucit ve Alman fotoğrafçıydı. Yurt dışında fotoğraf çekebilmek için kameraların boyutunu ve ağırlığını azaltmayı önerdi. Kameraya verilen isim Leica, Lei tz Camera’dan elde edilen bir anagramdı. Leica I, 1927 yılında satışa başladı. 1930 yılında<br/>Leica değiştirilebilir objektife sahip ilk 35 mm kamerayı üretti."
+    },
+    {
+        "SoruID": 3859029,
+        "SoruMetni": "Aşağıdakilerden hangisinde diyafram en çok alan derinliğine sahiptir?",
+        "A": "f/1.4",
+        "B": "f/1.8",
+        "C": "f/4",
+        "D": "f/8",
+        "E": "f/16",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.861233",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Konu f stoplarının rakamsal değeri üzerinden örneklenecek olursa; manzara fotoğrafı pozlayacaksınız ve geniş bir alan derinliği elde ederek her şeyi net görmek istiyorsunuz,<br/>diyafram “f ” değerinizin f/16 ile f/22 gibi bir aralıkta olması sonuç almanızı sağlayacaktır."
     },
     {
         "SoruID": 3859030,
@@ -1837,11 +2037,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Poz Ölçüm Modları: Ağırlıklı Ortalama (Matrix) Ölçüm, Merkez Ağırlıklı Ölçüm, Kısmi Ölçüm, Spot Ölçüm."
+        "Aciklama": "Poz Ölçüm Modları: Ağırlıklı Ortalama (Matrix) Ölçüm, Merkez Ağırlıklı Ölçüm, Kısmi Ölçüm, Spot Ölçüm."
     },
     {
         "SoruID": 3859033,
-        "SoruMetni": "Aşağıdakilerden hangisi Otomatik Netleme Parametrelerinden biri  <strong>değildir?</strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi Otomatik Netleme Parametrelerinden biri <strong>değildir?</strong>",
         "A": "Makro kilitleme",
         "B": "Odak kilidi",
         "C": "Kullanıcı seçili netleme alanı",
@@ -1877,7 +2077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Histogram: profesyonel fotoğrafçıların çok önem verdiği bir araçtır. Bir fotoğrafın<br/> çekim tekniği olarak doğru pozlandığının ölçümünün yapıldığı grafiktir."
+        "Aciklama": "Histogram: profesyonel fotoğrafçıların çok önem verdiği bir araçtır. Bir fotoğrafın<br/>çekim tekniği olarak doğru pozlandığının ölçümünün yapıldığı grafiktir."
     },
     {
         "SoruID": 3859035,
@@ -1897,7 +2097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pozlama değer telafisi olarak adlandırılan “Pozlama Telafisi (EC)”, kameranızda çekim yaparken kameranızın dahili ölçer tarafından seçilen pozlama değerlerini ayarlamanızı sağlayan bir özelliktir. EC, fotoğraf makinesinin pozometresi ne zaman olursa olsun fotoğrafların daha parlak veya daha karanlık olmasını sağlamak için poz ayarlarını değiştirmenize izin verir.     Doğru cevap B seçeneğidir."
+        "Aciklama": "Pozlama değer telafisi olarak adlandırılan “Pozlama Telafisi (EC)”, kameranızda çekim yaparken kameranızın dahili ölçer tarafından seçilen pozlama değerlerini ayarlamanızı sağlayan bir özelliktir. EC, fotoğraf makinesinin pozometresi ne zaman olursa olsun fotoğrafların daha parlak veya daha karanlık olmasını sağlamak için poz ayarlarını değiştirmenize izin verir. Doğru cevap B seçeneğidir."
     },
     {
         "SoruID": 3859037,
@@ -1917,7 +2117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Soru kökünde ifade edilen ayarlamalar arasında \"ortalama odak noktası\" bulunmamaktadır.<br/> Doğru cevap E seçeneğidir."
+        "Aciklama": "Soru kökünde ifade edilen ayarlamalar arasında \"ortalama odak noktası\" bulunmamaktadır.<br/>Doğru cevap E seçeneğidir."
     },
     {
         "SoruID": 3859038,
@@ -1937,7 +2137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareketi dondurmanın teknik olarak yolu yüksek enstantane hızından geçer.          Doğru cevap B seçeneğidir."
+        "Aciklama": "Hareketi dondurmanın teknik olarak yolu yüksek enstantane hızından geçer. Doğru cevap B seçeneğidir."
     },
     {
         "SoruID": 3859039,
@@ -1957,7 +2157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sis ve duman fotoğrafı, kar fotoğrafı çekim tekniklerinde olduğu gibi ciddi bir ön bilgi gereksinimi ister. Sis fotoğrafı çekerken yapmamız gereken ilk şey makinemizin fokus ayarlarını kontrol etmemiz olacaktır.     Doğru cevap C seçeneğidir."
+        "Aciklama": "Sis ve duman fotoğrafı, kar fotoğrafı çekim tekniklerinde olduğu gibi ciddi bir ön bilgi gereksinimi ister. Sis fotoğrafı çekerken yapmamız gereken ilk şey makinemizin fokus ayarlarını kontrol etmemiz olacaktır. Doğru cevap C seçeneğidir."
     },
     {
         "SoruID": 3859040,
@@ -1978,6 +2178,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Fotoğrafın önünü açan buluş, Johann Heinrich Schulze tarafından gümüş tuzlarının ışığa duyarlılığının keşfedilmesidir."
+    },
+    {
+        "SoruID": 3859041,
+        "SoruMetni": "William Henry Fox Talbot aşağıdakilerden hangisini başarmıştır?",
+        "A": "Günümüze ulaşan en eski negatifi üretmiştir.",
+        "B": "Gümüş tuzlarının ışığa duyarlılığının keşfetmiştir.",
+        "C": "Işık yardımı ile görüntü elde etmiştir.",
+        "D": "Dünyanın ilk ticari olarak satılan fotoğraf makinesini tasarlamıştır.",
+        "E": "Yarım ton gravür sürecinin mucididir.",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.490286",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "William Henry Fox Talbot, Daguerre’in pozitif görüntülerinin negatif görüntü elde etmeyi başarmıştır. Günümüze ulaşan en eski negatifi üretmiş ve bu teknik Calotype ya da Kalotip diye adlandırılmıştır. Talbot pozlama süresini bir saatten bir dakikaya indirmiş tekrarlanamayan metal üzerinde tek bir pozitif görüntü veren Dagerotip’den farklı olarak çok sayıda baskıya izin vermiştir. Talbot 1841’de bu tekniğin patentini almıştır."
     },
     {
         "SoruID": 3859042,
@@ -2041,7 +2261,7 @@
     },
     {
         "SoruID": 3859045,
-        "SoruMetni": "Aşağıdakilerden hangisi bazı kameraların bir fotoğrafik görüntünün kırmızı, yeşil ve mavi renk kanallarının tek tek histogramlarının görüntülenmesi ve birleşik histogramla birbiriyle ilişkili olarak üçünü göstermesi olanak tanımlanır?",
+        "SoruMetni": "Aşağıdakilerden hangisi bazı kameraların bir fotoğrafik görüntünün kırmızı, yeşil ve mavi renk kanallarının tek tek histogramlarının görüntülenmesi ve birleşik histogramla birbiriyle ilişkili olarak üçünü göstermesi olanak tanımlanır?",
         "A": "Hareketi dondurma",
         "B": "RGB histogramı",
         "C": "Luminance Histogramı",
@@ -2057,7 +2277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "RGB histogramı, bazı kameralar bir fotoğrafik görüntünün kırmızı, yeşil ve mavi renk kanallarının tek tek histogramlarının görüntülenmesine ve birleşik histogramla birbiriyle ilişkili olarak üçünü göstermesine olanak tanımaktadır."
+        "Aciklama": "RGB histogramı, bazı kameralar bir fotoğrafik görüntünün kırmızı, yeşil ve mavi renk kanallarının tek tek histogramlarının görüntülenmesine ve birleşik histogramla birbiriyle ilişkili olarak üçünü göstermesine olanak tanımaktadır."
     },
     {
         "SoruID": 3859046,
@@ -2081,7 +2301,7 @@
     },
     {
         "SoruID": 3859047,
-        "SoruMetni": "\"Bu tekniği uygulamak için ışıktan arındırılmış bir stüdyo, ev odası veya kapalı herhangi birmekân olabileceği gibi yine ışık almayan bir gece ortamında dış mekân da olabilir.\"  <br/>Yukarıda bahsedilen teknik aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Bu tekniği uygulamak için ışıktan arındırılmış bir stüdyo, ev odası veya kapalı herhangi birmekân olabileceği gibi yine ışık almayan bir gece ortamında dış mekân da olabilir.\" <br/>Yukarıda bahsedilen teknik aşağıdakilerden hangisidir?",
         "A": "Işıkla boyama",
         "B": "Zoom in/out",
         "C": "Ters ışık",
@@ -2097,7 +2317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Işıkla boyama tekniği sayesinde fotoğrafa yeni başlayanların ilgisi canlı tutulur ve fotoğraf bir tutku hâline dönüşebilir. Bu tekniği uygulamak için ışıktan arındırılmış bir stüdyo, ev odası veya kapalı herhangi bir mekân olabileceği gibi yine ışık almayan bir gece ortamında dış mekân da olabilir."
+        "Aciklama": "Işıkla boyama tekniği sayesinde fotoğrafa yeni başlayanların ilgisi canlı tutulur ve fotoğraf bir tutku hâline dönüşebilir. Bu tekniği uygulamak için ışıktan arındırılmış bir stüdyo, ev odası veya kapalı herhangi bir mekân olabileceği gibi yine ışık almayan bir gece ortamında dış mekân da olabilir."
     },
     {
         "SoruID": 3859048,
@@ -2120,6 +2340,26 @@
         "Aciklama": "Portre çekimlerinde ters ışıktan mümkün olduğunca kaçınılmalıdır. Ters ışık yüzde aydınlanma olmayacağı için kararma yaratacaktır. Model veya modellerin ifadesi kaybolacaktır. Ters ışıkta portre çekme zorunluluğunda kalmışsanız, mutlaka dolgu, flaş veya bir reflektör gibi yardımcı ekipmanlarla yüzde aydınlanma sağlayabilirsiniz."
     },
     {
+        "SoruID": 3859049,
+        "SoruMetni": "Aşağıdakilerden hangisi temel ilkesi bir kutu veya oda ve onun bir yüzüne açılmış delikten oluşan, buradan geçen ışığın yansıyarak düşmesini sağlar?",
+        "A": "Kamera obscura",
+        "B": "Fotoğraf",
+        "C": "Kalotip",
+        "D": "Refleks",
+        "E": "Lens",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.862910",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kamera obscura temel ilkesi bir kutu veya oda ve onun bir yüzüne açılmış delikten oluşur. Dışarıdan gelen ışık, delikten geçerek içerisindeki yüzeye düşer ve yansıdığı kaynağın perspektifini ve renklerini koruyarak ters dönmüş görüntüsünü oluşturur. Doğru yanıt A seçeneğidir."
+    },
+    {
         "SoruID": 3859050,
         "SoruMetni": "Gümüş tuzlarının ışığa duyarlılığını keşfeden bilim insanı kimdir?",
         "A": "Johann Heinrich Schulze",
@@ -2137,11 +2377,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotoğrafın önünü açan buluş hiç kuşkusuz ki bilim insanı <em>Johann Heinrich Schulze </em>tarafındangümüş tuzlarının ışığa duyarlılığının keşfedilmesidir. Doğru yanıt A seçeneğidir."
+        "Aciklama": "Fotoğrafın önünü açan buluş hiç kuşkusuz ki bilim insanı <em>Johann Heinrich Schulze </em>tarafındangümüş tuzlarının ışığa duyarlılığının keşfedilmesidir. Doğru yanıt A seçeneğidir."
     },
     {
         "SoruID": 3859051,
-        "SoruMetni": "Pozitif görüntülerden negatif görüntü elde etmeyi başaran William Henry Fox Talbot bu  tekniği nasıl adlandırmıştır?",
+        "SoruMetni": "Pozitif görüntülerden negatif görüntü elde etmeyi başaran William Henry Fox Talbot bu tekniği nasıl adlandırmıştır?",
         "A": "Pan yapma",
         "B": "Refleks",
         "C": "Kalotip",
@@ -2184,7 +2424,7 @@
         "SoruMetni": "SLR kameralar ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
         "A": "Tek lens refleks fotoğraf makinesi tek olan kamera merceğinden görüntüleyebilir.",
         "B": "Tek lensli refleks fotoğraf makinesi (SLR) bir refleks ayna kullanımı ile başlar.",
-        "C": "Dijital tek objektifli refleks kamera, dijital görüntüleme sensörü ile optik ve tek lensli bir refleksi birleştiren bir dijital fotoğraf makinesidir.<br/>",
+        "C": "Dijital tek objektifli refleks kamera, dijital görüntüleme sensörü ile optik ve tek lensli bir refleksi birleştiren bir dijital fotoğraf makinesidir.",
         "D": "SLR’ler, 2000’li yıllarda film tabanlı DSLR’lerin yerini almıştır.",
         "E": "Tek lens refleks fotoğraf makinesi bir ayna ve prizma sistemi kullanır.",
         "DogruCevap": "D",
@@ -2197,7 +2437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SLR’ler, 2000’li yıllarda film tabanlı DSLR’lerin yerini almıştır bilgisinin aksine  DSLR’ler SLR’lerin yerini alır. Doğru yanıt D seçeneğidir."
+        "Aciklama": "SLR’ler, 2000’li yıllarda film tabanlı DSLR’lerin yerini almıştır bilgisinin aksine DSLR’ler SLR’lerin yerini alır. Doğru yanıt D seçeneğidir."
     },
     {
         "SoruID": 3859054,
@@ -2212,7 +2452,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:42.907304",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.963057",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -2244,7 +2484,7 @@
         "SoruMetni": "Enstantene ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
         "A": "Enstantane fotoğrafçılık dilinde “S” harfiyle gösterilir.",
         "B": "Fotoğraf makinemizin perdesinin gerek gördüğünüz kadar açılma-kapanma süresine enstantane hızı denilir.",
-        "C": "Fotoğraf makineleri için enstantane hızı rakamsal olarak kesirli sayı ve kesir kullanmadan iki şekilde  ifade edilir.",
+        "C": "Fotoğraf makineleri için enstantane hızı rakamsal olarak kesirli sayı ve kesir kullanmadan iki şekilde ifade edilir.",
         "D": "Örtücü hızı çok hızlıysa, diğer yandan fotoğraf çok aydınlık olur.",
         "E": "Geleneksel olarak perde kameranın içinde yukarı ve aşağı hareket eden fiziksel bir parçadır.",
         "DogruCevap": "D",
@@ -2272,7 +2512,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.096524",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.937731",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -2312,7 +2552,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.060751",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.958833",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -2342,9 +2582,9 @@
     {
         "SoruID": 3859061,
         "SoruMetni": "Aşağıdakilerden hangisi \"Diyafram\"ın özelliklerinden biridir?",
-        "A": "Diyafram,  lens açıklığının geniş ve dar olduğunun belirleyicisidir.",
+        "A": "Diyafram, lens açıklığının geniş ve dar olduğunun belirleyicisidir.",
         "B": "Fotoğraf makinesi içerisine alınacak ışığın ne miktarda olacağını kontrol eder.",
-        "C": "Fotoğrafın konuya ne kadarının odaklandığı ve ne kadar flu olması gerektiği üzerine yaratıcı kontrol sağlar.",
+        "C": "Fotoğrafın konuya ne kadarının odaklandığı ve ne kadar flu olması gerektiği üzerine yaratıcı kontrol sağlar.",
         "D": "Sayısal makinelerde sensöre düşecek olan ışık miktarını düzenleyen mekanizma diyaframdır. İlişkilendirecek olursak makinenizin göz bebeği konumundadır.",
         "E": "Hepsi",
         "DogruCevap": "E",
@@ -2381,7 +2621,7 @@
     },
     {
         "SoruID": 3859063,
-        "SoruMetni": "\"Bu ölçümde sayısal fotoğraf makineniz çerçevenin tamamının üzerindeki ortalama ışık seviyesini ölçerek pozlama değeri oluşturur. Kısacası alanın tamamı üzerinden ölçüm yapmanız mümkün olur.\"<br/> Makinemizin üzerinde poz ölçüm modu bulunur. Bu mod dört çeşit ölçüm sunar. Yukarıda verilen tanım bu ölçümlerden hangisinin tanımıdır?",
+        "SoruMetni": "\"Bu ölçümde sayısal fotoğraf makineniz çerçevenin tamamının üzerindeki ortalama ışık seviyesini ölçerek pozlama değeri oluşturur. Kısacası alanın tamamı üzerinden ölçüm yapmanız mümkün olur.\"<br/>Makinemizin üzerinde poz ölçüm modu bulunur. Bu mod dört çeşit ölçüm sunar. Yukarıda verilen tanım bu ölçümlerden hangisinin tanımıdır?",
         "A": "Ağırlıklı Ortalama (Matrix) Ölçüm",
         "B": "Merkez Ağırlıklı Ölçüm",
         "C": "Kısmi Ölçüm",
@@ -2397,11 +2637,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Verilen tanım Ağırlıklı Ortalama (Matrix) Ölçüm' ün tanımıdır."
+        "Aciklama": "Verilen tanım Ağırlıklı Ortalama (Matrix) Ölçüm' ün tanımıdır."
     },
     {
         "SoruID": 3859064,
-        "SoruMetni": "\"İmleç pedini kullanarak bir odak alanından diğerine geçebilirsiniz. Otomatik odaklama sistemleri genellikle otomatik pozlama sistemi tarafından uygulanan genel bölgeleri kullanır ve bunları göstermek için tek ekran göstergeleri kullanır. Kullanımdaki netleme alanı genellikle parlak kırmızı bir ışık ile gösterilir. Bu modda, otomatik odaklama sistemi, çerçeveye nerede konumlandırılmış olursa olsun, kameraya en yakın konuyu arar ve buna odaklanır.\"<br/> Yukarıda verilen tanım  Otomatik Netleme Parametrelerinden hangisine aittir ?",
+        "SoruMetni": "\"İmleç pedini kullanarak bir odak alanından diğerine geçebilirsiniz. Otomatik odaklama sistemleri genellikle otomatik pozlama sistemi tarafından uygulanan genel bölgeleri kullanır ve bunları göstermek için tek ekran göstergeleri kullanır. Kullanımdaki netleme alanı genellikle parlak kırmızı bir ışık ile gösterilir. Bu modda, otomatik odaklama sistemi, çerçeveye nerede konumlandırılmış olursa olsun, kameraya en yakın konuyu arar ve buna odaklanır.\"<br/>Yukarıda verilen tanım Otomatik Netleme Parametrelerinden hangisine aittir ?",
         "A": "Tek nokta otomatik odaklama",
         "B": "Dinamik odak alanı",
         "C": "Sürekli otomatik odaklama",
@@ -2492,7 +2732,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.147429",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.961585",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -2572,7 +2812,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.030049",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.941085",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -2581,7 +2821,7 @@
     },
     {
         "SoruID": 3859074,
-        "SoruMetni": "Aşağıdakilerden hangisinde  uzun pozlama tekniği için yapılması gerekenlerden değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisinde uzun pozlama tekniği için yapılması gerekenlerden değildir?",
         "A": "Makinenizde noise azaltma seçeneği mevcutsa, uzun pozlama gürültü azaltma özelliğini etkinleştirin",
         "B": "Kablolu/kablosuz uzaktan kumandayı bağlayın veya 10 saniye boyunca otomatik zamanlama moduna geçin.",
         "C": "ISO’yu cihazınızda izin verilen minimum değere indirin (genellikle ISO 100, bazen yüksek kaliteli cihazlarda bazen biraz daha fazla 50).",
@@ -2597,16 +2837,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uzun Pozlama Tekniğinde İp Uçları: 1. Çekim güvenliği ve hazırlığı için, çekim yapacağınız bölgeye çekimden birkaç saat önce gidin. Çekim öncesi kurgunuzu yapın. Mutlaka çekim sonrası için planlamalarınızı yapın. Gece çekimleri için gündüz gelmiş olduğunuz yol, geceleyin tehlikeli bir yola dönüşebilir. Bu nedenle kaybolma riskinize karşı önlemlerinizi alın. Mutlaka bir el lambası çantanızda bulundurun. 2. Öncelikle makinemizi tripod üzerine takıp, seçilen bölgeye sağlamca yerleştirerek en doğru çekim açısını seçin. Bu açı seçimi esnasında ufuk çizgisi de çerçeve içerisindeyse düz olduğundan ve kompozisyon kurallarınıza göre yerleştiğinden emin olun. 3. Makinenizde noise azaltma seçeneği mevcutsa, uzun pozlama gürültü azaltma özelliğini etkinleştirin (Sensör uzun pozlama esnasında ısındığında nois oluşturur, fotoğrafta görülen çirkin bir gürültüdür ve ortadan kaldırılması kolay değildir). 4. Çekim esnasında titreşim yaratmaması ve çektiğimiz karelerde netlik kaybına yol açmaması için VR (vibration reduction) titreşim azaltma özelliğini mutlaka kapatmalıyız. 5. Kablolu/kablosuz uzaktan kumandayı bağlayın veya 10 saniye boyunca otomatik zamanlama moduna geçin. 6. Objektifiniz tarafından izin verilen minimum diyaframı seçin (genellikle f/16, f / 22). 7. ISO’yu cihazınızda izin verilen minimum değere indirin (genellikle ISO 100, bazen yüksek kaliteli cihazlarda bazen biraz daha fazla 50). 8. Pozlama sürenizi şartlara göre belirleyebilirsiniz. 15, 25 veya 40 saniye gibi değerleri deneysel olarak kullanabilirsiniz. Unutmayın bu teknik tecrübe kazandıkça mükemmel sonuçlar verecektir. 30 saniye ve üstü uzun pozlamalar için “Bulb” modu kullanın. “B” Bulb mod sayesinde istediğiniz süre kadar pozlama yapabilirsiniz. Özellikle gün batımı, deniz yansımalı şehir ışıkları fotoğrafları bu teknik için idealdir. 9. Makinenizin dosya formatını daha sonraki ufak tefek müdahalelere açık olması için JPEG+RAW formatına ayarlayınız."
+        "Aciklama": "Uzun Pozlama Tekniğinde İp Uçları: 1. Çekim güvenliği ve hazırlığı için, çekim yapacağınız bölgeye çekimden birkaç saat önce gidin. Çekim öncesi kurgunuzu yapın. Mutlaka çekim sonrası için planlamalarınızı yapın. Gece çekimleri için gündüz gelmiş olduğunuz yol, geceleyin tehlikeli bir yola dönüşebilir. Bu nedenle kaybolma riskinize karşı önlemlerinizi alın. Mutlaka bir el lambası çantanızda bulundurun. 2. Öncelikle makinemizi tripod üzerine takıp, seçilen bölgeye sağlamca yerleştirerek en doğru çekim açısını seçin. Bu açı seçimi esnasında ufuk çizgisi de çerçeve içerisindeyse düz olduğundan ve kompozisyon kurallarınıza göre yerleştiğinden emin olun. 3. Makinenizde noise azaltma seçeneği mevcutsa, uzun pozlama gürültü azaltma özelliğini etkinleştirin (Sensör uzun pozlama esnasında ısındığında nois oluşturur, fotoğrafta görülen çirkin bir gürültüdür ve ortadan kaldırılması kolay değildir). 4. Çekim esnasında titreşim yaratmaması ve çektiğimiz karelerde netlik kaybına yol açmaması için VR (vibration reduction) titreşim azaltma özelliğini mutlaka kapatmalıyız. 5. Kablolu/kablosuz uzaktan kumandayı bağlayın veya 10 saniye boyunca otomatik zamanlama moduna geçin. 6. Objektifiniz tarafından izin verilen minimum diyaframı seçin (genellikle f/16, f / 22). 7. ISO’yu cihazınızda izin verilen minimum değere indirin (genellikle ISO 100, bazen yüksek kaliteli cihazlarda bazen biraz daha fazla 50). 8. Pozlama sürenizi şartlara göre belirleyebilirsiniz. 15, 25 veya 40 saniye gibi değerleri deneysel olarak kullanabilirsiniz. Unutmayın bu teknik tecrübe kazandıkça mükemmel sonuçlar verecektir. 30 saniye ve üstü uzun pozlamalar için “Bulb” modu kullanın. “B” Bulb mod sayesinde istediğiniz süre kadar pozlama yapabilirsiniz. Özellikle gün batımı, deniz yansımalı şehir ışıkları fotoğrafları bu teknik için idealdir. 9. Makinenizin dosya formatını daha sonraki ufak tefek müdahalelere açık olması için JPEG+RAW formatına ayarlayınız."
     },
     {
         "SoruID": 3859075,
         "SoruMetni": "ISO hızı değerlerinin ışığa göre kullanım koşulları hangi şıkta yanlıştır?",
-        "A": "ISO 3200   Gündüz ve ışığın yoğunolduğu yerler veya çok yavaş çekimlerin geçerli olduğu koşullar.",
-        "B": "ISO 50   Veya aşağısı, parlak güneş ışığı veya stüdyo ışığı.",
-        "C": "ISO 1600   Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.",
-        "D": "ISO 800   Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma.",
-        "E": "ISO 200   Gün ışığı, kapalı hava veya stüdyo ışığı.",
+        "A": "ISO 3200 Gündüz ve ışığın yoğunolduğu yerler veya çok yavaş çekimlerin geçerli olduğu koşullar.",
+        "B": "ISO 50 Veya aşağısı, parlak güneş ışığı veya stüdyo ışığı.",
+        "C": "ISO 1600 Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.",
+        "D": "ISO 800 Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma.",
+        "E": "ISO 200 Gün ışığı, kapalı hava veya stüdyo ışığı.",
         "DogruCevap": "A",
         "DersAd": "Görsel Estetik",
         "Unite": 3,
@@ -2617,7 +2857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ISO hızı değerlerinin ışığa göre kullanım koşulları;<br/>  ISO 50 Veya aşağısı, parlak güneş ışığı veya stüdyo ışığı. ISO 100 Parlak güneş ışığı, gündüz kapalı hava veya stüdyo ışığı. ISO 200 Gün ışığı, kapalı hava veya stüdyo ışığı. ISO 400 Dış mekân için, gün ışığı veya kapalı hava. İç mekân için, gün ışığı ve aydınlatma. ISO 800 Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma. ISO 1600 Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar. ISO 3200 Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar."
+        "Aciklama": "ISO hızı değerlerinin ışığa göre kullanım koşulları;<br/>ISO 50 Veya aşağısı, parlak güneş ışığı veya stüdyo ışığı. ISO 100 Parlak güneş ışığı, gündüz kapalı hava veya stüdyo ışığı. ISO 200 Gün ışığı, kapalı hava veya stüdyo ışığı. ISO 400 Dış mekân için, gün ışığı veya kapalı hava. İç mekân için, gün ışığı ve aydınlatma. ISO 800 Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma. ISO 1600 Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar. ISO 3200 Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar."
     },
     {
         "SoruID": 3859076,
@@ -2664,8 +2904,8 @@
         "SoruMetni": "Seçeneklerden hangisi uzun pozlama tekniği değildir?",
         "A": "Yıldız Pozlama",
         "B": "<br/>Otomatik Pozlama",
-        "C": "Şelale Pozlama<br/><br/>",
-        "D": "Işık izi Pozlama<br/><br/>",
+        "C": "Şelale Pozlama",
+        "D": "Işık izi Pozlama",
         "E": "Mavi zaman Pozlama",
         "DogruCevap": "B",
         "DersAd": "Görsel Estetik",
@@ -2720,6 +2960,26 @@
         "Aciklama": "HDR"
     },
     {
+        "SoruID": 3859081,
+        "SoruMetni": "Seçeneklerden hangisi 'Işıkla Boyama' tekniğinde fotoğrafçının ihtiyaçları arasında yer almaz?",
+        "A": "Açık renk kıyafet",
+        "B": "Manuel fonksiyonlu bir kamera",
+        "C": "18mm ila 35mm arası bir lens",
+        "D": "Kablosuz uzaktan kumanda",
+        "E": "Tripod",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:15:52.946182",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Açık renk kıyafet"
+    },
+    {
         "SoruID": 3859082,
         "SoruMetni": "Hangisi ışık yoluyla görüntü elde eden ilk kişidir?",
         "A": "David Brewster",
@@ -2752,7 +3012,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.031520",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.943047",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -2781,43 +3041,23 @@
     },
     {
         "SoruID": 3859085,
-        "SoruMetni": "Seçeneklerden hangisi mimari fotoğrafçılık için kullanılan temel lenslerden biri değildir?<br/><br/>",
-        "A": "85 mm f1.2<br/><br/>",
-        "B": "24x70 mm f2.8<br/><br/>",
-        "C": "<br/>16x35mm f2.8, veya 16x50mm<br/><br/>",
+        "SoruMetni": "Seçeneklerden hangisi mimari fotoğrafçılık için kullanılan temel lenslerden biri değildir?",
+        "A": "85 mm f1.2",
+        "B": "24x70 mm f2.8",
+        "C": "<br/>16x35mm f2.8, veya 16x50mm",
         "D": "<br/>50mm f/1.4 veya f/1.8",
-        "E": "TS-E 135mm f/4L Macro<br/><br/>",
+        "E": "TS-E 135mm f/4L Macro",
         "DogruCevap": "E",
         "DersAd": "Görsel Estetik",
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.079557",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.950864",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "TS-E 135mm f/4L Macro"
-    },
-    {
-        "SoruID": 3859086,
-        "SoruMetni": "Fo­toğraf tarihin ilk portre fotoğrafını çeken kişi hangi seçenekte verilmiştir?",
-        "A": "Eadweard Muybridge",
-        "B": "Robert Cornelius",
-        "C": "John William Draper",
-        "D": "William Henry Fox Talbot",
-        "E": "Roger Fenton",
-        "DogruCevap": "C",
-        "DersAd": "Görsel Estetik",
-        "Unite": 3,
-        "Somestre": "1",
-        "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:42.945567",
-        "GelYer": 0,
-        "DersId": 0,
-        "OBSDersId": 0,
-        "CevapSira": null,
-        "Aciklama": "John William Draper, 1840’da fo­toğraf tarihin ilk portre fotoğrafını çekmiştir. Kimya profesörü John W. Draper kendi kame­rasını yapmış ve ilk insan portresini kaydetmiştir. Doğru cevap C’dir."
     },
     {
         "SoruID": 3859087,
@@ -2857,7 +3097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pozlamanın omurgası sayılan üç temel kavram “Diyafram”, “Enstantane Hızı” ve “ISO Hızı” dır.<br/><br/>Bu üçlüye fotoğrafta Pozlama Üçgeni denir. A, C, D ve E seçenekleri bu üçlüye ait değildir. Doğru cevap B seçeneğidir."
+        "Aciklama": "Pozlamanın omurgası sayılan üç temel kavram “Diyafram”, “Enstantane Hızı” ve “ISO Hızı” dır.<br/>Bu üçlüye fotoğrafta Pozlama Üçgeni denir. A, C, D ve E seçenekleri bu üçlüye ait değildir. Doğru cevap B seçeneğidir."
     },
     {
         "SoruID": 3859089,
@@ -2900,6 +3140,26 @@
         "Aciklama": "Merkez ağırlıklı ölçüm, poz ölçüm modlarından birisidir. Diğer seçenekler ise otomatik netleme parametrelerinden olduğu için cevap A’dır."
     },
     {
+        "SoruID": 3859091,
+        "SoruMetni": "<em>“Genellikle küçük bir ampulle sem­bolize edilir. Bu ayarı fotoğraf makinenizde seçti­ğinizde, akkor ampul aydınlatmasının fotoğrafı­nıza vereceği sarartmayı dengeleyerek fotoğraftaki renklerinizi soğutacaktır.</em>” Yukarıda verilen açıklama hangi temel beyaz dengesi ayarına aittir?",
+        "A": "Otomatik (Auto WB)",
+        "B": "Tungsten",
+        "C": "Floresan",
+        "D": "Bulutlu",
+        "E": "Gölge",
+        "DogruCevap": "B",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.577079",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Verilen açıklama tungsten ayarına aittir. Bu ayar ile gerçeğe yakın bir renk dengesi yakalanır. Doğru cevap B seçeneğidir."
+    },
+    {
         "SoruID": 3859092,
         "SoruMetni": "Aşağıdaki seçeneklerden hangisi uzun pozlama tekniklerinden biri<em><strong> değildir?</strong></em>",
         "A": "Yıldız Pozlama",
@@ -2932,7 +3192,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.067162",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.954165",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -2961,7 +3221,7 @@
     },
     {
         "SoruID": 3859095,
-        "SoruMetni": "-&gt;<em>Bir fotoğrafın çekim tekniği olarak doğru pozlandığının ölçümü­nün yapıldığı grafiktir.</em><br/> -&gt;<em>Matematik dilinde olduğu gibi bir çeşit fotoğrafın sağlamasıdır.</em><br/> -&gt;<em>Bir görüntüdeki parlaklık değerle­rinin aralığını gösteren grafiktir.</em><br/> Yukarıda verilen özellikler aşağıdakilerden hangisine aittir?",
+        "SoruMetni": "-&gt;<em>Bir fotoğrafın çekim tekniği olarak doğru pozlandığının ölçümü­nün yapıldığı grafiktir.</em><br/>-&gt;<em>Matematik dilinde olduğu gibi bir çeşit fotoğrafın sağlamasıdır.</em><br/>-&gt;<em>Bir görüntüdeki parlaklık değerle­rinin aralığını gösteren grafiktir.</em><br/>Yukarıda verilen özellikler aşağıdakilerden hangisine aittir?",
         "A": "Spot ölçümü",
         "B": "Odak kilidi",
         "C": "Floresan",
@@ -3041,7 +3301,7 @@
     },
     {
         "SoruID": 3859099,
-        "SoruMetni": "Lens açıklığının geniş ve dar olduğunun belirleyicisi olan ve fotoğraf makineniz içerisine alınacak ışığın ne miktarda olacağını kontrol eden fotoğraf makinesi parçasına ne ad verilir?",
+        "SoruMetni": "Lens açıklığının geniş ve dar olduğunun belirleyicisi olan ve fotoğraf makineniz içerisine alınacak ışığın ne miktarda olacağını kontrol eden fotoğraf makinesi parçasına ne ad verilir?",
         "A": "Diyafram",
         "B": "Enstantane",
         "C": "Deklanşör",
@@ -3141,7 +3401,7 @@
     },
     {
         "SoruID": 3859104,
-        "SoruMetni": "Dış mekân için, gün ışığı veya kapalı hava.<br/>İç mekân için, gün ışığı ve aydınlatma.<br/> Yukarıdaki şartlardaki ışığa göre hangi ISO değeri kullanılmalıdır?",
+        "SoruMetni": "Dış mekân için, gün ışığı veya kapalı hava.<br/>İç mekân için, gün ışığı ve aydınlatma.<br/>Yukarıdaki şartlardaki ışığa göre hangi ISO değeri kullanılmalıdır?",
         "A": "ISO 50",
         "B": "ISO 100",
         "C": "ISO 200",
@@ -3157,7 +3417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ISO 50 Veya aşağısı, parlak güneş ışığı veya<br/>stüdyo ışığı.<br/>ISO 100 Parlak güneş ışığı, gündüz kapalı hava<br/>veya stüdyo ışığı.<br/>ISO 200 Gün ışığı, kapalı hava veya stüdyo ışığı.<br/>ISO 400 Dış mekân için, gün ışığı veya kapalı hava.<br/>İç mekân için, gün ışığı ve aydınlatma.<br/>ISO 800<br/>Dış mekân için, çok kapalı hava veya<br/>hızlı çekimlerin geçerli olduğu koşullar.<br/>İç Mekân, hafif aydınlatma.<br/>ISO 1600<br/>Akşam ve az ışığın olduğu yerler veya<br/>çok hızlı çekimlerin geçerli olduğu<br/>koşullar.<br/>ISO 3200<br/>Akşam ve az ışığın olduğu yerler veya<br/>çok hızlı çekimlerin geçerli olduğu<br/>koşullar.<br/> Bu tabloya göre doğru cevap D'dir."
+        "Aciklama": "ISO 50 Veya aşağısı, parlak güneş ışığı veya<br/>stüdyo ışığı.<br/>ISO 100 Parlak güneş ışığı, gündüz kapalı hava<br/>veya stüdyo ışığı.<br/>ISO 200 Gün ışığı, kapalı hava veya stüdyo ışığı.<br/>ISO 400 Dış mekân için, gün ışığı veya kapalı hava.<br/>İç mekân için, gün ışığı ve aydınlatma.<br/>ISO 800<br/>Dış mekân için, çok kapalı hava veya<br/>hızlı çekimlerin geçerli olduğu koşullar.<br/>İç Mekân, hafif aydınlatma.<br/>ISO 1600<br/>Akşam ve az ışığın olduğu yerler veya<br/>çok hızlı çekimlerin geçerli olduğu<br/>koşullar.<br/>ISO 3200<br/>Akşam ve az ışığın olduğu yerler veya<br/>çok hızlı çekimlerin geçerli olduğu<br/>koşullar.<br/>Bu tabloya göre doğru cevap D'dir."
     },
     {
         "SoruID": 3859105,
@@ -3165,7 +3425,7 @@
         "A": "Tripod",
         "B": "Uzaktan kumanda",
         "C": "Manuel fonksiyonlu bir kamera",
-        "D": "18 mm ile 35 mm arası bir  lens",
+        "D": "18 mm ile 35 mm arası bir lens",
         "E": "200 mm ve üzeri lensler",
         "DogruCevap": "E",
         "DersAd": "Görsel Estetik",
@@ -3182,10 +3442,10 @@
     {
         "SoruID": 3859106,
         "SoruMetni": "Fo­toğraf tarihin ilk portre fotoğrafını çeken kişi kimdir?",
-        "A": "Eadweard Muybridge <br/><br/>",
-        "B": "William Henry Fox Talbot <br/><br/>",
-        "C": "John William Draper <br/><br/>",
-        "D": "Robert Cornelius <br/><br/>",
+        "A": "Eadweard Muybridge",
+        "B": "William Henry Fox Talbot",
+        "C": "John William Draper",
+        "D": "Robert Cornelius",
         "E": "Louis Jacques Mande Daguerre",
         "DogruCevap": "C",
         "DersAd": "Görsel Estetik",
@@ -3197,15 +3457,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "John William Draper (1811-1882) 1840’da fo­toğraf tarihin ilk portre fotoğrafını çekmiştir.  Kimya profesörü John W. Draper kendi kame­rasını yaptı ve ilk insan portresini kaydetti. Ablası Dorothy Catherin. Doğru cevap C şıkkıdır."
+        "Aciklama": "John William Draper (1811-1882) 1840’da fo­toğraf tarihin ilk portre fotoğrafını çekmiştir. Kimya profesörü John W. Draper kendi kame­rasını yaptı ve ilk insan portresini kaydetti. Ablası Dorothy Catherin. Doğru cevap C şıkkıdır."
     },
     {
         "SoruID": 3859107,
         "SoruMetni": "Fotoğraf makineniz içerisine alınacak ışı­ğın ne miktarda olacağını kontrol eden parçaya ne ad verilir?",
-        "A": "Pozlama üçgeni<br/><br/>",
-        "B": "Enstantene<br/><br/>",
-        "C": "Sutter<br/><br/>",
-        "D": "Diyafram<br/><br/>",
+        "A": "Pozlama üçgeni",
+        "B": "Enstantene",
+        "C": "Sutter",
+        "D": "Diyafram",
         "E": "Deklanşör",
         "DogruCevap": "D",
         "DersAd": "Görsel Estetik",
@@ -3217,35 +3477,55 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilindiği üzere fotoğraf makinesi üzerindeki lensler ışığı toparlar ve odaklarlar ancak bu odak­lama için ne kadar ışık gereklidir? Bu sorunun ce­vabı olarak diyafram devreye girer. Kısacası lens açıklığının geniş ve dar olduğunun belirleyicisidir. Diyafram, fotoğraf makineniz içerisine alınacak ışı­ğın ne miktarda olacağını kontrol eder. Ancak di­yafram, yalnızca bir görüntünün ne kadar aydınlık veya karanlık olduğunu kontrol etmekten fazlasını yapar. Aynı zamanda, fotoğrafın konuya ne kadarının odaklandığı ve ne kadar flu olması gerektiği  üzerine yaratıcı kontrol sağlar. Fotoğraf makinesinin içinde, fotoğrafı çeken diyaframı ayarladıkça bir dizi dairesel bıçağa benzeyen yaprak genişler ve daralır. Doğru cevap D şıkkıdır."
+        "Aciklama": "Bilindiği üzere fotoğraf makinesi üzerindeki lensler ışığı toparlar ve odaklarlar ancak bu odak­lama için ne kadar ışık gereklidir? Bu sorunun ce­vabı olarak diyafram devreye girer. Kısacası lens açıklığının geniş ve dar olduğunun belirleyicisidir. Diyafram, fotoğraf makineniz içerisine alınacak ışı­ğın ne miktarda olacağını kontrol eder. Ancak di­yafram, yalnızca bir görüntünün ne kadar aydınlık veya karanlık olduğunu kontrol etmekten fazlasını yapar. Aynı zamanda, fotoğrafın konuya ne kadarının odaklandığı ve ne kadar flu olması gerektiği üzerine yaratıcı kontrol sağlar. Fotoğraf makinesinin içinde, fotoğrafı çeken diyaframı ayarladıkça bir dizi dairesel bıçağa benzeyen yaprak genişler ve daralır. Doğru cevap D şıkkıdır."
+    },
+    {
+        "SoruID": 3859108,
+        "SoruMetni": "Manzara fotoğrafı pozlayacaksınız ve geniş bir alan derinliği elde ederek her şeyi net görmek istiyorsanız, iyi bir sonuç alabilmek için diyafram “f” değerinizin hangi değerler arasında olması gerekir?",
+        "A": "f /1.8 ile f /5.6",
+        "B": "f /5.6 ile f /8",
+        "C": "f /8 ile f /11",
+        "D": "f /11 ile f /16",
+        "E": "f /16 ile f /22",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.765001",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Açık diyaframla (hatırlayınız, açık küçük sayılara eşittir), flu bir arka plan oluşturursunuz, dar bir di­yafram (büyük f değeri demektir) ise fotoğrafa daha fazla bir geniş alana odaklanmanızı sağlar. Bu yapmış olduğumuz uygulamaya fotoğrafçılık terminolojisin­de alan derinliği(depth of field) denilir. Konu f stopla­rının rakamsal değeri üzerinden örneklenecek olursa; manzara fotoğrafı pozlayacaksınız ve geniş bir alan derinliği elde ederek her şeyi net görmek istiyorsunuz, diyafram “f” değerinizin f/16 ile f/22 gibi bir aralıkta olması sonuç almanızı sağlayacaktır. Doğru cevap E şıkkıdır."
     },
     {
         "SoruID": 3859109,
-        "SoruMetni": "....................... yöntemi ile makine değerine ilave olarak seçtiğiniz fazla ve az pozlama ile birlikte 3 kare bir­den çekilir. Böylece fotoğraflar içinde işinize hangisi geliyorsa o tercih edilebilir.<br/> Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?",
-        "A": "Hizalama<br/><br/>",
-        "B": "Basamaklama<br/><br/>",
-        "C": "HD<br/><br/>",
-        "D": "Çaprazlama<br/><br/>",
+        "SoruMetni": "....................... yöntemi ile makine değerine ilave olarak seçtiğiniz fazla ve az pozlama ile birlikte 3 kare bir­den çekilir. Böylece fotoğraflar içinde işinize hangisi geliyorsa o tercih edilebilir.<br/>Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?",
+        "A": "Hizalama",
+        "B": "Basamaklama",
+        "C": "HD",
+        "D": "Çaprazlama",
         "E": "AEB",
         "DogruCevap": "B",
         "DersAd": "Görsel Estetik",
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:43.034901",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.944713",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Basamaklama yöntemi ile makine değerine ilave olarak seçtiğiniz fazla ve az pozlama ile birlikte 3 kare bir­den çekilir. Böylece fotoğraflar içinde işinize hangisi geliyorsa o tercih edilebilir. Bu kareler (+,-) 1-2 Durak olduğu gibi tıpkı poz telafisindeki gibi (+,-) 1/3, 1/2. 2/3 gibi ara değerler de olabilir. İşlem otomatik ve oldukça basittir. Makine aynı kadrajdan arka arkaya çekim yaptığından herhangi bir kayıp oluşmaz. Bu üç fotoğrafın çekilmesi sadece doğru pozlamanın oluşmasını sağlamaz. Ayrıca özel bir teknik ile birleştirilerek daha geniş dinamik aralık elde edilmesini sağlar. Bu tekniğe kısaca HDR denir. Doğru cevap B şıkkıdır."
+        "Aciklama": "Basamaklama yöntemi ile makine değerine ilave olarak seçtiğiniz fazla ve az pozlama ile birlikte 3 kare bir­den çekilir. Böylece fotoğraflar içinde işinize hangisi geliyorsa o tercih edilebilir. Bu kareler (+,-) 1-2 Durak olduğu gibi tıpkı poz telafisindeki gibi (+,-) 1/3, 1/2. 2/3 gibi ara değerler de olabilir. İşlem otomatik ve oldukça basittir. Makine aynı kadrajdan arka arkaya çekim yaptığından herhangi bir kayıp oluşmaz. Bu üç fotoğrafın çekilmesi sadece doğru pozlamanın oluşmasını sağlamaz. Ayrıca özel bir teknik ile birleştirilerek daha geniş dinamik aralık elde edilmesini sağlar. Bu tekniğe kısaca HDR denir. Doğru cevap B şıkkıdır."
     },
     {
         "SoruID": 3859110,
         "SoruMetni": "Aşağıdakilerden hangisi Mimari fotoğraf çekimlerinde kullanılması gereken lens örneklerinden birisi değildir?",
-        "A": "50mm f/1.4 veya f/1.8 <br/><br/>",
-        "B": "24x70 mm f2.8 <br/><br/>",
-        "C": "Uzak çekimler için kısmen telefoto lensler <br/><br/>",
-        "D": "Dar mekânlar 35mm üstünde dar açı lensler <br/><br/>",
+        "A": "50mm f/1.4 veya f/1.8",
+        "B": "24x70 mm f2.8",
+        "C": "Uzak çekimler için kısmen telefoto lensler",
+        "D": "Dar mekânlar 35mm üstünde dar açı lensler",
         "E": "85 mm f1.2",
         "DogruCevap": "D",
         "DersAd": "Görsel Estetik",
@@ -3257,15 +3537,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lens Seçimi, Mimari fotoğrafçılık için en önemli teknik birikimlerden birisi kullanılacak teknik ekipmana hakim olmaktır. Bunlar içerisin­de en önemlisi lenslerdir. Fotoğrafçılıkta çok genel bir söylem vardır: iyi bir fotoğraf makinesi mi, iyi bir lens mi profesyoneller bu soruya hep iyi bir lens cevabı verirler. Mimari fotoğrafçılıkta kullanılması gereken temel lensleri örneklenecek olursa: <br/>• 50mm f/1.4 veya f/1.8 <br/>• 16x35mm f2.8, veya 16x50mm <br/>• 24x70 mm f2.8 <br/>• 85 mm f1.2 <br/>• Dar mekânlar 35mm altında geniş açı lensler <br/>• Uzak çekimler için kısmen telefoto lensler <br/>Geniş açı veya balık gözüne yakın lensler dar mekânlarda etkili sonuçlar almanızı sağlar. Aynı zamanda mimari yapıların bütünü üzerinde bir hiyerarşik abartı ve görkem sağlamanız mümkün­dür. Özellikle iç mekânlar sıkışık alanlarda 160 derece gibi bir alanı tarama şansı size verir. Yine ticari otel çekimlerinde dar odalarda, banyolarda mekânı tarama şansınız çok fazladır. Geniş açı lensler fotoğrafçılık anlamında bir de handikaba sahiptir. Bu tür lenslerin oluşturacağı bombe­leşme etkisi, distorsiyon ve perspektif sapmaları gözü rahatsız eder. Bu tür sonuçları düşünerek çekim yapmalı ve gerektiği takdirde yazılımlardan perspektif düzeltme desteği alınmalıdır. Doğru cevap D şıkkıdır."
+        "Aciklama": "Lens Seçimi, Mimari fotoğrafçılık için en önemli teknik birikimlerden birisi kullanılacak teknik ekipmana hakim olmaktır. Bunlar içerisin­de en önemlisi lenslerdir. Fotoğrafçılıkta çok genel bir söylem vardır: iyi bir fotoğraf makinesi mi, iyi bir lens mi profesyoneller bu soruya hep iyi bir lens cevabı verirler. Mimari fotoğrafçılıkta kullanılması gereken temel lensleri örneklenecek olursa: <br/>• 50mm f/1.4 veya f/1.8 <br/>• 16x35mm f2.8, veya 16x50mm <br/>• 24x70 mm f2.8 <br/>• 85 mm f1.2 <br/>• Dar mekânlar 35mm altında geniş açı lensler <br/>• Uzak çekimler için kısmen telefoto lensler <br/>Geniş açı veya balık gözüne yakın lensler dar mekânlarda etkili sonuçlar almanızı sağlar. Aynı zamanda mimari yapıların bütünü üzerinde bir hiyerarşik abartı ve görkem sağlamanız mümkün­dür. Özellikle iç mekânlar sıkışık alanlarda 160 derece gibi bir alanı tarama şansı size verir. Yine ticari otel çekimlerinde dar odalarda, banyolarda mekânı tarama şansınız çok fazladır. Geniş açı lensler fotoğrafçılık anlamında bir de handikaba sahiptir. Bu tür lenslerin oluşturacağı bombe­leşme etkisi, distorsiyon ve perspektif sapmaları gözü rahatsız eder. Bu tür sonuçları düşünerek çekim yapmalı ve gerektiği takdirde yazılımlardan perspektif düzeltme desteği alınmalıdır. Doğru cevap D şıkkıdır."
     },
     {
         "SoruID": 3859111,
         "SoruMetni": "Mimari fotoğraflarda çekim sonrası fotoğraf üzerinde oynama ve perspektif dü­zeltmeleri için çekimleri hangi dosya türünde kaydetmek önerilir?",
-        "A": "RAW+JPG<br/><br/>",
-        "B": "RAW+PNG<br/><br/>",
-        "C": "RAW+TGA<br/><br/>",
-        "D": "RAW+OBJ<br/><br/>",
+        "A": "RAW+JPG",
+        "B": "RAW+PNG",
+        "C": "RAW+TGA",
+        "D": "RAW+OBJ",
         "E": "RAW+PSD",
         "DogruCevap": "A",
         "DersAd": "Görsel Estetik",
@@ -3277,7 +3557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çekim dosya türü, mimari fotoğraflarda çekim sonrası fotoğraf üzerinde oynama ve perspektif dü­zeltmeleri için mutlaka RAW+JPG dosya türü seçilmesi önerilir. Yine iç mekân ve dış mekân ışıklarını değerlendirmek, yorumlamak ancak bu modlarda daha sağlıklı olacaktır. Doğru cevap A şıkkıdır."
+        "Aciklama": "Çekim dosya türü, mimari fotoğraflarda çekim sonrası fotoğraf üzerinde oynama ve perspektif dü­zeltmeleri için mutlaka RAW+JPG dosya türü seçilmesi önerilir. Yine iç mekân ve dış mekân ışıklarını değerlendirmek, yorumlamak ancak bu modlarda daha sağlıklı olacaktır. Doğru cevap A şıkkıdır."
     },
     {
         "SoruID": 3859112,
@@ -3297,7 +3577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pozlama açık tanımıyla “ışığı dengelemek” anlamına gelir. Bu dengeyi oluşturan ve pozlamanın omurgası sayılan üç temel kavram Diyafram”, “Enstantane Hızı” ve “ISO Hızı” dır. Bu üçlüye fotoğrafta Pozlama Üçgeni denir. Fotoğrafa yeni başlayanların en korktuğu veya çözümleyene kadar çok zaman harcadığı önemli bir üçgendir. İçerisinde fizik, geometri, matematik ve elektirik/elektronik vs. bilim alanlarını da ilgilendiren problemler yer alır. Ancak unutulmamalıdır ki bu üçgeni kavramak öyle korkulduğu gibi zor değildir. Kavrandığı takdirde de gerek estetik gerekse de yaratıcı fotoğraf çekmenin altın anahtarı olarak görülür. Doğru cevap B şıkkıdır."
+        "Aciklama": "Pozlama açık tanımıyla “ışığı dengelemek” anlamına gelir. Bu dengeyi oluşturan ve pozlamanın omurgası sayılan üç temel kavram Diyafram”, “Enstantane Hızı” ve “ISO Hızı” dır. Bu üçlüye fotoğrafta Pozlama Üçgeni denir. Fotoğrafa yeni başlayanların en korktuğu veya çözümleyene kadar çok zaman harcadığı önemli bir üçgendir. İçerisinde fizik, geometri, matematik ve elektirik/elektronik vs. bilim alanlarını da ilgilendiren problemler yer alır. Ancak unutulmamalıdır ki bu üçgeni kavramak öyle korkulduğu gibi zor değildir. Kavrandığı takdirde de gerek estetik gerekse de yaratıcı fotoğraf çekmenin altın anahtarı olarak görülür. Doğru cevap B şıkkıdır."
     },
     {
         "SoruID": 3859113,
@@ -3317,7 +3597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotoğraf makinenizde otomatik ve manuel modun dışında bir de “Diyafram Öncelikli” mod vardır. Bu mod A veya Av harf simgeleriyle gösterilir. Diyafram öncelikli mod seçildiğinde kullanıcı f değerini değiştirdikçe ilgili enstantane hızı da doğru pozlama yapabilmek için otomatik olarak değişecektir. Kısacası diyafram öncelikli mod enstantane hızını seçilen diyafram değerine göre makine kendisi atamaktadır. Doğru cevap C şıkkıdır."
+        "Aciklama": "Fotoğraf makinenizde otomatik ve manuel modun dışında bir de “Diyafram Öncelikli” mod vardır. Bu mod A veya Av harf simgeleriyle gösterilir. Diyafram öncelikli mod seçildiğinde kullanıcı f değerini değiştirdikçe ilgili enstantane hızı da doğru pozlama yapabilmek için otomatik olarak değişecektir. Kısacası diyafram öncelikli mod enstantane hızını seçilen diyafram değerine göre makine kendisi atamaktadır. Doğru cevap C şıkkıdır."
     },
     {
         "SoruID": 3859114,
@@ -3337,6 +3617,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ISO hızı değerlerinin ışığa göre kullanım koşulları;<br/>ISO 50- veya aşağısı, parlak güneş ışığı veya stüdyo ışığı.<br/>ISO 100- Parlak güneş ışığı, gündüz kapalı hava veya stüdyo ışığı.<br/>ISO 200- Gün ışığı, kapalı hava veya stüdyo ışığı.<br/>ISO 400- Dış mekân için, gün ışığı veya kapalı hava. İç mekân için, gün ışığı ve aydınlatma.<br/>ISO 800- Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma.<br/>ISO 1600- Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.<br/>ISO 3200- Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.<br/> Doğru cevap B şıkkıdır."
+        "Aciklama": "ISO hızı değerlerinin ışığa göre kullanım koşulları;<br/>ISO 50- veya aşağısı, parlak güneş ışığı veya stüdyo ışığı.<br/>ISO 100- Parlak güneş ışığı, gündüz kapalı hava veya stüdyo ışığı.<br/>ISO 200- Gün ışığı, kapalı hava veya stüdyo ışığı.<br/>ISO 400- Dış mekân için, gün ışığı veya kapalı hava. İç mekân için, gün ışığı ve aydınlatma.<br/>ISO 800- Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma.<br/>ISO 1600- Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.<br/>ISO 3200- Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.<br/>Doğru cevap B şıkkıdır."
     }
 ]

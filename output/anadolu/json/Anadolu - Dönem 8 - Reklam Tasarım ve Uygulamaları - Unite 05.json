@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Harekete geçirme"
+        "Aciklama": "Harekete geçirme (Call to action): Basılı reklamlar, tüketicileri bir web sitesini<br/>ziyaret etmek veya satın alma işlemi yapmak gibi belirli bir eylemi gerçekleştirmeye<br/>teşvik eden açık bir harekete geçirici mesaj içerebilir. Mesaja ve görsel tasarıma sınırlı<br/>süreli teklif, sınırlı sayıda gibi ibarelerin eklenmesi, tüketicide aciliyet ve gelişmeleri<br/>kaçırma korkusu (FOMO) duygusunun yaratılmasına ve böylece tüketiciyi hızlı hareket etmeye teşvik edebilir."
     },
     {
         "SoruID": 3833987,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Frekans sıklığı"
+        "Aciklama": "Frekans sıklığı: Özellikle günlük yayın yapan gazete ve dergilerde tekrarlanmak istenen reklam mesajları için uygundur. Günlük yayınlarda, okuyucuların reklamı görme olasılığı daha yüksektir."
     },
     {
         "SoruID": 3833989,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zaman"
+        "Aciklama": "Zaman: Gazete ve dergilerde yer alan reklamlar durağan görsellerdir. Okuyucu reklamı istediği kadar inceleyebilir, istediği kadar okuyabilir ve diğer okurlarla paylaşabilir, böylece marka da ürün ve hizmet hakkında istediği kadar bilgi sunabilir."
     },
     {
         "SoruID": 3833990,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kuleboard"
+        "Aciklama": "Standart ölçüler dikkate alındığında en büyük açık hava mecrası olan kuleboard, şehir merkezlerinde ve şehirler arası yollarda sıkça kullanılan reklam panolarıdır. Kuleboardların akşam da görülebilmesi için spot ışıklar kullanılır.<br/>Özellikle şehir merkezlerinin önemli caddelerinde, ana yollarda, şehirler arası otoyollarda sıklıkla kullanılan kuleboardlarda reklam alanı yerden 10 metre yüksekte yer alır. 1240 x 640 cm boyutlarında olan kuleboardlar büyük ölçüleri sayesinde uzak mesafelerden görüş imkânı sunar. Bu nedenle de çok uzak mesafelerden bile tüketicilerin reklamı görmesi, fark etmesi ve reklam mesajını algılayabilmesi söz konusudur. Dolayısıyla, büyük boyut ile yüksek farkındalık sağlamak hedeflenir."
     },
     {
         "SoruID": 3833991,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Megalight"
+        "Aciklama": "Megalight: Bir açık hava reklam mecrası olan megalight, araç trafiğinin yoğun seyrettiği yol kenarı ve kavşaklarda,yüksek bir mevkide konumlandırılan, daha çok araçla seyahat eden kesime hitap eden, ışıklandırılmış ve çerçeve içine alınmış olarak sergilenen reklam panosu olarak tanımlanabilir (Kentvizyon, 2024).<br/>Megalightlar, ışıklandırma, muhafaza ve konum özellikleri ile diğer açık hava mecralarından farklılaşmaktadır. Diğer açık hava reklamlarına göre daha görünür, dayanıklı ve etkileşimi yüksektir. Yaygın olarak kullanılan megalight ölçüsü 245 x 341 cm’dir. Yüksek konumları ve büyük ölçüleri megalight reklamlarını dikkat çekici kılmaktadır."
     },
     {
         "SoruID": 3833992,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Denge"
+        "Aciklama": "Denge, reklamdaki ögelerin birbiriyle uyum içinde olmalarıdır. Bir tasarımdaki görsel ağırlığın<br/>eşit olarak dağıtılmasıdır. Dokuların, biçimlerin, boşlukların ve renklerin görsel ağırlıklarını kompozisyonla uyumlu hâle getirmektir. Bir sayfa düzeninde (layout) denge optik merkez yardımıyla kurulur. Başka bir deyişle, optik merkez, dengeyi belirleyen referans noktasıdır.<br/>Sayfanın fiziksel merkezinin yani tam ortasının yaklaşık sekizde biri kadar yukarıdadır. Bu bağlamda, sayfada denge, sayfadaki ögelerin optik merkez bağlamında düzenlenmesiyle sağlanır.<br/>Optik merkezin sol tarafı ile sağ tarafının ve optik merkezin üstü ve alt tarafının dengesinin dikkate<br/>alınması gerekir."
     },
     {
         "SoruID": 3833993,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Akıcılık"
+        "Aciklama": "Akıcılık, gözlerin reklam üzerinde kolayca dolaşmasına olanak verecek şekilde reklamdaki ögelerin düzenlenmesidir. Reklama yönelik hedef kitlede ilgi oluşturulduğunda, hedef kitle reklamdaki<br/>diğer ögeleri de incelemeye başlayacaktır. Hareket ya da yönlenme olarak da nitelendirilen akıcılık, hedef kitlenin reklamı istenen sırayla okumasını sağlayan tasarım ilkesidir."
     },
     {
         "SoruID": 3833994,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mondrian sayfa düzeni"
+        "Aciklama": "Adını Hollandalı ressam Piet Mondrian’dan alan Mondrian sayfa düzeni, reklama geometrik oran<br/>vermek için önceden belirlenmiş bir ızgara içinde bir dizi dikey ve yatay çizgi, dikdörtgen ve kare kullanır. Geometrik formlarla bölümlenmiş sayfa düzeni içerisinde sayfa bileşenlerinin bu alanlar içerisinde yer alması ile oluşur. Geometrik alanlarda kullanılan renkler diğer sayfa düzeni bileşenleri ile birlikte tasarımın daha dikkat çekici bir hâle gelmesine olanak tanımaktadır (Zinkhan, 1993, s. 14’ten akt. Ercanpolat vd. 2016, s. 150)."
     },
     {
         "SoruID": 3833995,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Basılı reklam okurları daha heterojen olarak dağılır."
+        "Aciklama": "Basılı reklam kalıcıdır. <br/>Basılı reklam ile geniş boyutlu mesaj verilebilir. Ürünün özelliklerinin tanıtımı, vurgulanacak yönleri örneklerle okuyucuya aktarılabilir. TV ve radyoda bu durum çok sınırlıdır.<br/>Basılı reklamcılıkta hedef kitleyi belirlemek ve ulaşmak kolaydır. Sosyal medya<br/>reklamcılığı ve internet reklamcılığındaki hedefli reklamcılık ya da programatik<br/>reklamcılık kadar hedef kitleye nokta atışı ulaşma durumu söz konusu olmasa da basılı reklamcılığın da bu konuda başarılı olduğu söylenebilir. Çünkü dergilerin ve gazetelerin de okur kitlesi çoğunlukla bellidir. Bu anlamda, söz konusu basılı mecra okuru olduğunda, okurların daha heterojen olarak<br/>dağıldığı söylenebilir. Markalar açısından bu durum özellikle dikkate alınmalıdır.<br/>Çünkü McLuhan (1964)’ın da dediği gibi mecra, mesajın kendisidir. TV ve radyoda<br/>ise aynı durum söz konusu olmayabilir. TV reklamları kuşak reklamcılığına dayanır ve<br/>TV izleyici kitlesi yayınları sürekli izlemez.<br/>Bası</br><br>Basılı reklam okurları daha heterojen olarak dağılır."
     },
     {
         "SoruID": 3833996,
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğrudan başlık"
+        "Aciklama": "Doğrudan başlık: Doğrudan başlıklar haber niteliği taşır ve bilgiyi doğrudan aktarır.<br/>Bu anlamda çarpıcı değildirler ve reklamı gören tüketicide ürün ya da hizmetle ilgili<br/>herhangi bir merak kalmaz."
     }
 ]

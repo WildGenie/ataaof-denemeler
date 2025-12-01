@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3833438,
-        "SoruMetni": "I. Metafor kullanımı<br/> II. Yaratıcı düşünce <br/> III. Fikir geliştirme <br/> Yukarıdakilerden hangisi veya hangileri reklamcılıkta yer alan sanatsal yaklaşımlardandır?",
+        "SoruMetni": "I. Metafor kullanımı<br/>II. Yaratıcı düşünce <br/>III. Fikir geliştirme <br/>Yukarıdakilerden hangisi veya hangileri reklamcılıkta yer alan sanatsal yaklaşımlardandır?",
         "A": "Yalnız, I",
         "B": "Yalnız, II",
         "C": "I ve II",
@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 3833439,
-        "SoruMetni": "I. Hikaye anlatımı <br/> II. Mizah Kullanımı <br/> III. Yaratıcı düşünce <br/> Yukarıdakilerden hangisi ya da hangileri reklamcılıkta kullanılan stratejik yaklaşımlardandır?",
+        "SoruMetni": "I. Hikaye anlatımı <br/>II. Mizah Kullanımı <br/>III. Yaratıcı düşünce <br/>Yukarıdakilerden hangisi ya da hangileri reklamcılıkta kullanılan stratejik yaklaşımlardandır?",
         "A": "Yalnız, II",
         "B": "Yalnız, III",
         "C": "I ve II",
@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3833441,
-        "SoruMetni": "I. Mizah <br/> II. Yaratıcılık<br/> III. Estetik kaygı <br/> Yukarıdakilerden hangisi ya da hangileri reklam ve sanat arasındaki ilişkiyi güçlenlendiren kavramlardır?",
+        "SoruMetni": "I. Mizah <br/>II. Yaratıcılık<br/>III. Estetik kaygı <br/>Yukarıdakilerden hangisi ya da hangileri reklam ve sanat arasındaki ilişkiyi güçlenlendiren kavramlardır?",
         "A": "Yalnız, I",
         "B": "Yalnız, II",
         "C": "Yalnız, III",

@@ -20,6 +20,26 @@
         "Aciklama": "Tipografi bir metne yönelik vurgu, bağlam, hiyerarşi gibi amaçları gerçekleştirmek için yazıyı (harfleri) karakter, büyüklük, boşluk, açıklık ve paragraf özelliklerini kullanarak şekillendiren tasarım disiplinidir. Yazılı bir fikre görsel form verilmesini amaçlar."
     },
     {
+        "SoruID": 3769652,
+        "SoruMetni": "Günümüz terminolojisinde “<strong>.......... ...........</strong>” tanımlaması, <strong>..............</strong> az olduğu ya da hiç olmadığı, <strong>.............</strong> bizzat mesajın taşıyıcısı olduğu çalışmaları tarif etmek için kullanılmaktadır.<br/>Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?",
+        "A": "logotype tasarım / imgenin / tipografinin",
+        "B": "tipografik tasarım / metnin / imgenin",
+        "C": "logotype tasarım / görselin / tipografinin",
+        "D": "tipografik tasarım / görselin / yazının",
+        "E": "Jenerik tasarım / yazının / görselin",
+        "DogruCevap": "D",
+        "DersAd": "Tipografi",
+        "Unite": 6,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:08.142122",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Günümüz terminolojisinde <strong>“tipografik tasarım”</strong> tanımlaması, <strong>görselin</strong> az olduğu ya da hiç olmadığı, <strong>yazının</strong> (harflerin vb.) bizzat mesajın taşıyıcısı olduğu çalışmaları tarif etmek için kullanılmaktadır."
+    },
+    {
         "SoruID": 3769663,
         "SoruMetni": "Tipografinin konumlandırma ve ölçülendirme üzerine her projede yeniden hazırlık ve hesaplama yapılması gereken kullanım alanı aşağıdakilerden hangisidir?",
         "A": "Kataloglar",
@@ -60,6 +80,26 @@
         "Aciklama": "Form ile Oluşturulan Kurumsal İmge: Amblem"
     },
     {
+        "SoruID": 3769665,
+        "SoruMetni": "Bir kurum, kuruluş ya da düşüncenin akılda kalıcı ve benzersiz bir görselleştirme ile temsil edilmesine ne ad verilir?",
+        "A": "İşaretleme",
+        "B": "Logo",
+        "C": "Logogram",
+        "D": "Sergileme",
+        "E": "Piktogram",
+        "DogruCevap": "B",
+        "DersAd": "Tipografi",
+        "Unite": 6,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:08.048469",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kurumsal kimlik tasarımının yapı taşı ve başlangıç noktası logodur. Logo, amblem veya Logotype’dan<br/>meydana gelir. Logo, bir kurum, kuruluş ya da düşüncenin akılda kalıcı ve benzersiz bir görselleştirme ile temsil<br/>edilmesidir."
+    },
+    {
         "SoruID": 3769666,
         "SoruMetni": "Tipografi tasarımını süre ve sekansa göre düzenleyen <span style=\"text-decoration: underline;\">ilk</span> medyum aşağıdakilerden hangisidir?",
         "A": "Televizyon yayıncılığı",
@@ -77,11 +117,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sinema ve hareketli grafik tasarımcıların öncü örneklerinde tipografik tasarım hareketlendirilerek<br/>tasarımın yeni boyutu olan süre ve sekansa göre düzenlenmeye başlanmıştır. Saul Bass’ın Görsel<br/>6.4’te görülen jenerik tasarımı, bilgisayar ve benzeri kolaylaştırıcı teknolojilerin çok öncesinde, sinema film kareleri üzerine çalışılarak gerçekleştirilmiştir.<br/>Bir yandan akan bir jeneriğin parçası olan tasarım, tipografi ile yaratılan imgenin büyüklüğü sayesinde<br/>sinema filmine ait bir kurumsal kimlik gibi de algılanmaktadır. Heyecan verici bu çalışmalar zamanın<br/>afiş tasarımlarında da yansımalarını göstermiştir.<br/>Ne var ki öncü tasarımcıların büyük bir eforla gerçekleştirdiği tasarım çalışmaları teknik imkanların<br/>kısıtlılığı ve ortamların yetersizliği nedeniyle yeterince hızla yayılamamıştır. Bu tür çalışmaların ilk<br/>etapta yalnızca sinema filmleri için yapılıyor olması kitlelerin bu tasarımlarla buluşmasını kısıtlamıştır. Daha sonra televizyonun hızla evlere girmesi ve ardından başlayan televizyon yayıncılığı jenerik konusundaki bilgi birikiminin değerlendirildiği yeni bir ortam olmuştur."
+        "Aciklama": "Sinema ve hareketli grafik tasarımcıların öncü örneklerinde tipografik tasarım hareketlendirilerek<br/>tasarımın yeni boyutu olan süre ve sekansa göre düzenlenmeye başlanmıştır. Saul Bass’ın Görsel<br/>6.4’te görülen jenerik tasarımı, bilgisayar ve benzeri kolaylaştırıcı teknolojilerin çok öncesinde, sinema film kareleri üzerine çalışılarak gerçekleştirilmiştir.<br/>Bir yandan akan bir jeneriğin parçası olan tasarım, tipografi ile yaratılan imgenin büyüklüğü sayesinde<br/>sinema filmine ait bir kurumsal kimlik gibi de algılanmaktadır. Heyecan verici bu çalışmalar zamanın<br/>afiş tasarımlarında da yansımalarını göstermiştir.<br/>Ne var ki öncü tasarımcıların büyük bir eforla gerçekleştirdiği tasarım çalışmaları teknik imkanların<br/>kısıtlılığı ve ortamların yetersizliği nedeniyle yeterince hızla yayılamamıştır. Bu tür çalışmaların ilk<br/>etapta yalnızca sinema filmleri için yapılıyor olması kitlelerin bu tasarımlarla buluşmasını kısıtlamıştır. Daha sonra televizyonun hızla evlere girmesi ve ardından başlayan televizyon yayıncılığı jenerik konusundaki bilgi birikiminin değerlendirildiği yeni bir ortam olmuştur."
     },
     {
         "SoruID": 3769667,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Tasarım uygulanacak mekâna/alana göre tasarlanır.</li> <li>Tasarım mesafeye göre tasarlanır.</li> <li>İzleyici hareketlidir.</li> <li>İzleyicinin içeriği deneyimlemesi hedeflenir. </li> <li>Harf yüksekliği punto cinsinden tarif edilir. </li> </ol> Çevresel grafik tasarımın diğer dalı olan sergileme tasarımı ile ilgili yukarıdaki ifadelerden hangileri doğrudur?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Tasarım uygulanacak mekâna/alana göre tasarlanır.</li> <li>Tasarım mesafeye göre tasarlanır.</li> <li>İzleyici hareketlidir.</li> <li>İzleyicinin içeriği deneyimlemesi hedeflenir. </li> <li>Harf yüksekliği punto cinsinden tarif edilir. </li> </ol> Çevresel grafik tasarımın diğer dalı olan sergileme tasarımı ile ilgili yukarıdaki ifadelerden hangileri doğrudur?",
         "A": "Yalnız I ve II",
         "B": "Yalnız I ve III",
         "C": "II, III ve V",
@@ -97,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çevresel Grafik Tasarımın diğer dalı olan sergileme tasarımında, bir anlatı dahilinde eser ve objelerin izleyiciye sunulması ve izleyicinin içeriği deneyimlemesi hedeflenmektedir. Rönesans sonrası Avrupalı elitlerin<br/>topladıkları eserleri aşama aşama toplumla buluşturması bu çalışma alanının başlangıç noktasıdır (Skolnick,<br/>2007). Burada da tipografi önemli bir rol oynamaktadır. Çünkü içerik kâğıt gibi sınırlı bir yüzeyde değil duvar gibi ihtişamlı bir yüzeyde yönetilecek ve yerleştirilecektir. Metin bloklarının makul genişlikte olması, paragrafların uzunluğunun kolay okunacak şekilde ayarlanması, başlıkların hiyerarşisi gibi alanlar tipografinin ustalıkla kullanılması gereken alanlardır.<br/>Sergileme tasarımı da yönlendirme ve işaretleme tasarımı gibi uygulanacak mekâna/ alana göre tasarlanır. Mekân bir ortam gibi değerlendirilir ve anlatı mekâna uyacak şekilde yerleştirilir. Görsel 6.15’te olduğu gibi öncelikle içerik yüzeye dengeli bir şekilde yerleştirilir. Bu konumlandırmanın ardından izleyicinin<br/>belirli bir mesafeden itibaren çalışmaları takip edebilmesi için iki kademeli metin ve görselleştirme yapılır.<br/>Büyük başlıklar ve büyük görüntüler izleyiciye yaklaşırken bilgi vermeye başlar. Çevresel grafik tasarımda<br/>izleyici, basılı tasarımlarda olduğu gibi hareketsiz değildir. Tam tersine hareket halindedir. Bir yandan yürümekte bir yandan da izlemektedir. Bu nedenle uygulandığı alanın fiziksel özellikleri de dikkate alınmalı<br/>ve bilgi aktarımı kademeli olarak tasarlanmalıdır.<br/> <strong>Dış mekân grafiklerinde tipografi kullanımı sırasında en dikkat çekici ve şaşırtıcı özellik bazı tasarım</strong><br/><strong>ürünlerinde harf yüksekliğinin punto ile değil normal bir nesneymiş gibi cm cinsinden tarif edilmesidir. </strong>"
+        "Aciklama": "Çevresel Grafik Tasarımın diğer dalı olan sergileme tasarımında, bir anlatı dahilinde eser ve objelerin izleyiciye sunulması ve izleyicinin içeriği deneyimlemesi hedeflenmektedir. Rönesans sonrası Avrupalı elitlerin<br/>topladıkları eserleri aşama aşama toplumla buluşturması bu çalışma alanının başlangıç noktasıdır (Skolnick,<br/>2007). Burada da tipografi önemli bir rol oynamaktadır. Çünkü içerik kâğıt gibi sınırlı bir yüzeyde değil duvar gibi ihtişamlı bir yüzeyde yönetilecek ve yerleştirilecektir. Metin bloklarının makul genişlikte olması, paragrafların uzunluğunun kolay okunacak şekilde ayarlanması, başlıkların hiyerarşisi gibi alanlar tipografinin ustalıkla kullanılması gereken alanlardır.<br/>Sergileme tasarımı da yönlendirme ve işaretleme tasarımı gibi uygulanacak mekâna/ alana göre tasarlanır. Mekân bir ortam gibi değerlendirilir ve anlatı mekâna uyacak şekilde yerleştirilir. Görsel 6.15’te olduğu gibi öncelikle içerik yüzeye dengeli bir şekilde yerleştirilir. Bu konumlandırmanın ardından izleyicinin<br/>belirli bir mesafeden itibaren çalışmaları takip edebilmesi için iki kademeli metin ve görselleştirme yapılır.<br/>Büyük başlıklar ve büyük görüntüler izleyiciye yaklaşırken bilgi vermeye başlar. Çevresel grafik tasarımda<br/>izleyici, basılı tasarımlarda olduğu gibi hareketsiz değildir. Tam tersine hareket halindedir. Bir yandan yürümekte bir yandan da izlemektedir. Bu nedenle uygulandığı alanın fiziksel özellikleri de dikkate alınmalı<br/>ve bilgi aktarımı kademeli olarak tasarlanmalıdır.<br/><strong>Dış mekân grafiklerinde tipografi kullanımı sırasında en dikkat çekici ve şaşırtıcı özellik bazı tasarım</strong><br/><strong>ürünlerinde harf yüksekliğinin punto ile değil normal bir nesneymiş gibi cm cinsinden tarif edilmesidir. </strong>"
     },
     {
         "SoruID": 3769668,
@@ -121,7 +161,7 @@
     },
     {
         "SoruID": 3769669,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"><br/><li>Yazı boyutlarını diğer elemanlar ile benzer katsayı sistemle seçmek</li><br/><li>Satır genişliğini 45-75 karakter arasında seçmek</li><br/><li>İtalik ve ince yazı karakterleri kullanmak </li><br/><li>Arayüz fonuyla ayrışan renklerde font belirlemek</li><br/><li>Satır aralarını sık ayarlamak  </li><br/></ol><br/>Dijital ekranlarda tipografinin doğru kullanımı için dikkat edilmesi gereken okunaklılık kıstasları yukarıdakilerden hangileridir?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"><br/><li>Yazı boyutlarını diğer elemanlar ile benzer katsayı sistemle seçmek</li><br/><li>Satır genişliğini 45-75 karakter arasında seçmek</li><br/><li>İtalik ve ince yazı karakterleri kullanmak </li><br/><li>Arayüz fonuyla ayrışan renklerde font belirlemek</li><br/><li>Satır aralarını sık ayarlamak </li><br/></ol><br/>Dijital ekranlarda tipografinin doğru kullanımı için dikkat edilmesi gereken okunaklılık kıstasları yukarıdakilerden hangileridir?",
         "A": "Yalnız I ve II",
         "B": "I, II ve III",
         "C": "I, II ve IV",
@@ -137,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okumayı kolaylaştırmanın bir diğer önemli kıstası satır genişliğidir. Bugün en ideal satır genişliği boşluk ve noktalama işaretleri dahil 45-75 karakter arasında seçilmelidir. <br/><br/>Çok sık ayarlanmış satır araları ya da çok geniş ayarlanmış paragraf genişlikleri okuma deneyimini sekteye<br>uğratmaktadır.</br><br/><br/>Bir diğer önemli nokta ise yazı boyutlarının arayüz tasarımını diğer elemanları ile benzer katsayıları paylaşan bir sistemle ile seçilmesi gerektiğidir. Doğru boyutlandırmanın yanında okunurluğun en büyük yardımcılarından biri de doğru font seçimidir. Günümüz ekran teknolojileri her ne kadar pek çok yazı karakterini en iyi biçimde görüntüleyebilecek biçimde gelişse de özellikle ufak boyutlarda bazı sınırlandırmalara dikkat etmek önem taşır. Özellikle İtalik ve İnce yazı karakterleri dijital ekranlarda en zor görüntülenen biçemlerdir. Onların ardından genellikle iç boşlukları çok ufak olan Black kalınlıktaki yazı karakterleri izlemektedir. Küçük boyutlarda azalan piksel sayısını takiben kolaylıkla harf içi boşlukları yok olan bu yazı karakterleri özellikle mobil arabirimlerde<br>tercih edilmemektedir. Bir diğer dikkat edilmesi gereken nokta ise uzun metinlerde seçilen yazı karakteri<br/>seçimleridir. Bilhassa piksel sayısı düşük ekranlarda ince ayrıntılara sahip tırnaklı yazı karakterleri tercih<br/>edilmemektedir.</br><br/><br/>Dijital okumalar için doğru yazı karakteri seçiminin anahtarı farklı<br>kullanımları (başlık, alt başlık ve gövde metin) arasında belirgin kontrast farklılıkları barındıran, arayüz<br/>fonuyla ayrışan renklere sahip, uyumlu font ailelerini harmanlayabilmekte yatmaktadır.</br>"
+        "Aciklama": "Okumayı kolaylaştırmanın bir diğer önemli kıstası satır genişliğidir. Bugün en ideal satır genişliği boşluk ve noktalama işaretleri dahil 45-75 karakter arasında seçilmelidir. <br/>Çok sık ayarlanmış satır araları ya da çok geniş ayarlanmış paragraf genişlikleri okuma deneyimini sekteye<br/>uğratmaktadır.</br><br/>Bir diğer önemli nokta ise yazı boyutlarının arayüz tasarımını diğer elemanları ile benzer katsayıları paylaşan bir sistemle ile seçilmesi gerektiğidir. Doğru boyutlandırmanın yanında okunurluğun en büyük yardımcılarından biri de doğru font seçimidir. Günümüz ekran teknolojileri her ne kadar pek çok yazı karakterini en iyi biçimde görüntüleyebilecek biçimde gelişse de özellikle ufak boyutlarda bazı sınırlandırmalara dikkat etmek önem taşır. Özellikle İtalik ve İnce yazı karakterleri dijital ekranlarda en zor görüntülenen biçemlerdir. Onların ardından genellikle iç boşlukları çok ufak olan Black kalınlıktaki yazı karakterleri izlemektedir. Küçük boyutlarda azalan piksel sayısını takiben kolaylıkla harf içi boşlukları yok olan bu yazı karakterleri özellikle mobil arabirimlerde<br/>tercih edilmemektedir. Bir diğer dikkat edilmesi gereken nokta ise uzun metinlerde seçilen yazı karakteri<br/>seçimleridir. Bilhassa piksel sayısı düşük ekranlarda ince ayrıntılara sahip tırnaklı yazı karakterleri tercih<br/>edilmemektedir.</br><br/>Dijital okumalar için doğru yazı karakteri seçiminin anahtarı farklı<br/>kullanımları (başlık, alt başlık ve gövde metin) arasında belirgin kontrast farklılıkları barındıran, arayüz<br/>fonuyla ayrışan renklere sahip, uyumlu font ailelerini harmanlayabilmekte yatmaktadır.</br>"
     },
     {
         "SoruID": 3769670,
@@ -160,8 +200,28 @@
         "Aciklama": "Güncelin dijital etkileşimlerinin gereklilikleri odaklı tasarlanan değişken yazı karakterleri gelenekselleşmiş font ailesi kavramını tek bir font belgesi üzerinde toplamaktadır. Font aileleri Bold, İtalik, Extended, Condensed gibi farklı ağırlık ve genişlikteki türleri ayrı font belgesi olarak saklamaktayken değişken yazı karakterleri tüm bu aile özelliklerini yazılım parametreleri haline getirip sonsuz olasılıkta değişkenlik sağlayan dinamik font belgeleri yaratmaktadır."
     },
     {
+        "SoruID": 3769703,
+        "SoruMetni": "Tipografiyle ilgili olarak aşağıda verilen tanımlardan hangisi ya da hangileri söylenebilir?<br/>I- Yazıya anlam, hiyerarşi ve ruh kazandıran tasarım disiplinidir.<br/>II-Yazılı bir fikre görsel form verilmesini sağlar.<br/>III-Mesaj iletişiminde yazının görünümünü ve işlevini yöneten çalışma alanıdır.",
+        "A": "I ve II",
+        "B": "II ve III",
+        "C": "Sadece III",
+        "D": "I, II ve III",
+        "E": "Sadece I",
+        "DogruCevap": "D",
+        "DersAd": "Tipografi",
+        "Unite": 6,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:08.159813",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Tipografiyi tanımlamak<br>Tipografi ise yazıya anlam, hiyerarşi ve ruh kazandırır ve yazılı bir fikre görsel form verilmesini<br/>amaçlar. Mesaj iletişiminde yazının görünümünü ve işlevini yöneten çalışma<br/>alanıdır."
+    },
+    {
         "SoruID": 3769704,
-        "SoruMetni": "Kurumsal kimlik tasarımının yapı taşı ve başlangıç noktası ........ olarak kabul edilir.<br/><br/>Yukarıda boş bırakılan yere gelecek olan terim aşağıdaki şıklardan hangisinde verilmiştir?",
+        "SoruMetni": "Kurumsal kimlik tasarımının yapı taşı ve başlangıç noktası ........ olarak kabul edilir.<br/>Yukarıda boş bırakılan yere gelecek olan terim aşağıdaki şıklardan hangisinde verilmiştir?",
         "A": "Davetiye",
         "B": "Logo",
         "C": "Maskot",
@@ -177,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kurumsal kimlik tasarımının yapı taşı ve başlangıç noktası logodur. Logo, amblem veya Logotype’dan meydana gelir. Pazarlamacılar logoyu kalabalıktaki tanıdık yüz olarak tanımlamaktadırlar."
+        "Aciklama": "TİPOGRAFİNİN LOGO TASARIMINDA KULLANIMI<br>Kurumsal kimlik tasarımının yapı taşı ve başlangıç noktası logodur. Logo, amblem veya Logotype’dan meydana gelir. Pazarlamacılar logoyu kalabalıktaki tanıdık yüz olarak tanımlamaktadırlar."
     },
     {
         "SoruID": 3769705,
@@ -197,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Logotype da logonun kendisi salt yazıyla oluşturulmaktadır (Lupton, 2010). Harfler hali hazırda kendilerine özgü birer formken, okunurluğu<br/>bozmadan harflerin alanlarına özgün eklentiler yapmak son derece zor bir iştir. Logotype ile amblem yazısı arasındaki temel<br/>fark, logotype harfler üzerinde oluşturulan formun harflerle, artık sökülemeyecek kadar iç içe geçmiş olmasıdır. Oluşturulan form bir harfin yerini almış<br/>ya da oluşan boşluğa sıkışmış olabilir."
+        "Aciklama": "Yazıyla Bütünleşik Kurumsal İmge: Logotayp<br>Logotype da logonun kendisi salt yazıyla oluşturulmaktadır (Lupton, 2010). Harfler hali hazırda kendilerine özgü birer formken, okunurluğu<br/>bozmadan harflerin alanlarına özgün eklentiler yapmak son derece zor bir iştir. Logotype ile amblem yazısı arasındaki temel<br/>fark, logotype harfler üzerinde oluşturulan formun harflerle, artık sökülemeyecek kadar iç içe geçmiş olmasıdır. Oluşturulan form bir harfin yerini almış<br/>ya da oluşan boşluğa sıkışmış olabilir."
     },
     {
         "SoruID": 3769743,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri 1980 yıllar sonrası yazının tipografi pratiğindeki gelişimini asıl hızlandıran unsurlar arasında yer alır? <br/> I-Teknolojik gelişmeler<br/> II-Masaüstü yayıncılık gelişmesi erişilebilir olması<br/> III-Yasal düzenlemeler",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri 1980 yıllar sonrası yazının tipografi pratiğindeki gelişimini asıl hızlandıran unsurlar arasında yer alır? <br/>I-Teknolojik gelişmeler<br/>II-Masaüstü yayıncılık gelişmesi erişilebilir olması<br/>III-Yasal düzenlemeler",
         "A": "Sadece I",
         "B": "Sadece II",
         "C": "Sadece III",
@@ -217,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazının tipografi pratiğindeki gelişimini asıl hızlandıran unsur 1980 sonrası yaşanan teknolojik<br/>gelişmelerdir (Hillner, 2009). Masaüstü yayıncılık teknolojisinin gelişmesi ve erişilebilir olması tasarımın hayata geçirilme sürecindeki zahmetleri ortadan kaldırarak bir anda büyük deneme kolaylığı getirmiştir."
+        "Aciklama": "Tipografiyi anlamak<br>Yazının tipografi pratiğindeki gelişimini asıl hızlandıran unsur 1980 sonrası yaşanan teknolojik<br/>gelişmelerdir (Hillner, 2009). Masaüstü yayıncılık teknolojisinin gelişmesi ve erişilebilir olması tasarımın hayata geçirilme sürecindeki zahmetleri ortadan kaldırarak bir anda büyük deneme kolaylığı getirmiştir."
     },
     {
         "SoruID": 3769745,
-        "SoruMetni": "Yazının bir görsel form gibi şekillendirilmeye başlanmasıyla tipografi tasarımı ilk olarak aşağıdaki alanlardan hangisi ya da hangilerinde kullanılmaya başlanmıştır? <br/> I-Sinema<br/> II-Grafik<br/> III-Televizyon",
+        "SoruMetni": "Yazının bir görsel form gibi şekillendirilmeye başlanmasıyla tipografi tasarımı ilk olarak aşağıdaki alanlardan hangisi ya da hangilerinde kullanılmaya başlanmıştır? <br/>I-Sinema<br/>II-Grafik<br/>III-Televizyon",
         "A": "Sadece I",
         "B": "Sadece II",
         "C": "Sadece III",
@@ -237,11 +297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazının bir görsel form gibi şekillendirilmeye başlanması 20. yüzyıldaki öncü tasarımcıların çalışmalarıyla gerçekleşmiştir. Öncesinde sistematik olarak dizilen yazı, artık en küçük yapı taşı olan<br/>harfe kadar özenle şekillendiriliyor ve böylece içerik neredeyse harf vurgusuyla dahi ilişkilendiriliyordu.<br/>Sinema ve hareketli grafik tasarımcıların öncü örneklerinde tipografik tasarım hareketlendirilerek<br/>tasarımın yeni boyutu olan süre ve sekansa göre düzenlenmeye başlanmıştır. Bu tür çalışmaların ilk<br/>etapta yalnızca sinema filmleri için yapılıyor olması kitlelerin bu tasarımlarla buluşmasını kısıtlamıştır. Daha sonra televizyonun hızla evlere girmesi ve ardından başlayan televizyon yayıncılığı jenerik konusundaki bilgi birikiminin değerlendirildiği yeni bir ortam olmuştur.<br/><br/>"
+        "Aciklama": "Tipografiyi tanımlamak<br>Yazının bir görsel form gibi şekillendirilmeye başlanması 20. yüzyıldaki öncü tasarımcıların çalışmalarıyla gerçekleşmiştir. Öncesinde sistematik olarak dizilen yazı, artık en küçük yapı taşı olan<br/>harfe kadar özenle şekillendiriliyor ve böylece içerik neredeyse harf vurgusuyla dahi ilişkilendiriliyordu.<br/>Sinema ve hareketli grafik tasarımcıların öncü örneklerinde tipografik tasarım hareketlendirilerek<br/>tasarımın yeni boyutu olan süre ve sekansa göre düzenlenmeye başlanmıştır. Bu tür çalışmaların ilk<br/>etapta yalnızca sinema filmleri için yapılıyor olması kitlelerin bu tasarımlarla buluşmasını kısıtlamıştır. Daha sonra televizyonun hızla evlere girmesi ve ardından başlayan televizyon yayıncılığı jenerik konusundaki bilgi birikiminin değerlendirildiği yeni bir ortam olmuştur."
     },
     {
         "SoruID": 3769746,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri basılı grafikler arasında yer alan bilboradlarda  yüzeyin taşıyacağı <span style=\"text-decoration: underline;\">içerik üretimini</span> belirleyen unsurlar arasında yer alır?<br/> I-İzleyicinin yüzeye olan mesafesi<br/> II-İzleyicinin ayırabileceği zaman<br/> III- İzleyicinin yaş grubu",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri basılı grafikler arasında yer alan bilboradlarda yüzeyin taşıyacağı <span style=\"text-decoration: underline;\">içerik üretimini</span> belirleyen unsurlar arasında yer alır?<br/>I-İzleyicinin yüzeye olan mesafesi<br/>II-İzleyicinin ayırabileceği zaman<br/>III- İzleyicinin yaş grubu",
         "A": "Sadece III",
         "B": "Sadece I",
         "C": "Sadece II",
@@ -257,11 +317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Basılı yüzey, ister broşür gibi küçük bir alan, ister megaboard gibi büyük bir<br/>alan olsun özünde sınırları olan bir tasarımdır. Yüzeyin taşıyabileceği içerik de boyutla değil, izleyicinin yüzeye olan mesafesi ve ayırabileceği zamanıyla ilgilidir."
+        "Aciklama": "İletişimin Vazgeçilmez Ortamı: Basılı Yüzeyler<br>Basılı yüzey, ister broşür gibi küçük bir alan, ister megaboard gibi büyük bir<br/>alan olsun özünde sınırları olan bir tasarımdır. Yüzeyin taşıyabileceği içerik de boyutla değil, izleyicinin yüzeye olan mesafesi ve ayırabileceği zamanıyla ilgilidir."
     },
     {
         "SoruID": 3769747,
-        "SoruMetni": "Bir anlatı dahilinde eser ve objelerin izleyiciye sunulması ve izleyicinin içeriği deneyimlemesinin hedeflendiği grafik tasarım dalı.............dır.<br/> Yukarıdaki metinde boş bırakılan alana aşağıdaki terimlerden hangisi gelmelidir?",
+        "SoruMetni": "Bir anlatı dahilinde eser ve objelerin izleyiciye sunulması ve izleyicinin içeriği deneyimlemesinin hedeflendiği grafik tasarım dalı.............dır.<br/>Yukarıdaki metinde boş bırakılan alana aşağıdaki terimlerden hangisi gelmelidir?",
         "A": "yönlendirme ve işaretleme tasarımı",
         "B": "sergileme tasarımı",
         "C": "dijital ortam tasarımı",
@@ -277,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çevresel Grafik Tasarımın diğer dalı olan sergileme tasarımında, bir anlatı dahilinde eser ve objelerin izleyiciye sunulması ve izleyicinin içeriği deneyimlemesi hedeflenmektedir."
+        "Aciklama": "Anlatı ve Akışın İçeriği Aktarması: Sergileme Tasarımı<br>Çevresel Grafik Tasarımın diğer dalı olan sergileme tasarımında, bir anlatı dahilinde eser ve objelerin izleyiciye sunulması ve izleyicinin içeriği deneyimlemesi hedeflenmektedir."
     },
     {
         "SoruID": 3769749,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri dış mekân grafiklerinde gövde metnini belirlemede etken olan unsurlar arasında yer alır?<br/><br/>I-Mekan büyüklüğü<br/><br/>II-Marka değeri<br/><br/>III-İzleyici ile olan mesafe",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri dış mekân grafiklerinde gövde metnini belirlemede etken olan unsurlar arasında yer alır?<br/>I-Mekan büyüklüğü<br/>II-Marka değeri<br/>III-İzleyici ile olan mesafe",
         "A": "Sadece III",
         "B": "I ve II",
         "C": "I ve III",
@@ -297,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dış mekân grafikleri ya da yaygın kullanımıyla çevresel grafik tasarım, grafik tasarımın kâğıttan (ya<br/>da branda baskıdan) koptuğu yerdir. Bu projelerde tasarımcının konumlandırma ve ölçülendirme üzerine her projede yeniden hazırlık ve hesaplama yapması gerekmektedir. Tipografinin kullanımında hemen her projede yeniden hesaplama yapmak gerekmektedir. Kâğıdın sınırlayıcı ama güvenli ortamından farklı olarak, sınırların kalktığı dış mekânda yazı büyüklüğü (punto yüksekliği) ya da boşluklar ezberden, bir başka deyişle mekân üzerine hazırlık yapılmadan çalışılamaz.<br/><br/>Her ne kadar çeşitli kitaplarda/ kılavuzlarda dış mekânda yazı kullanımına ilişkin önceden hazırlanmış birtakım tablolar ve şemalar yer alsa da dış mekânda tipografi kullanımı, içinde yer alacağı mekâna göre her seferinde yeniden hesaplanır.<br/><br/>Yazı büyüklüğüne yönelik hazırlanan şemalarda iddia edildiği gibi okunurluğun, tasarım ürününe olan mesafesiyle hesaplanacağı bir formül genel geçer olamaz. Şema ya da kılavuz kullanımı ancak tüm ortamların(ortamların) birbirine denk olduğu, çeşitliliğin az ve farklı senaryoların neredeyse hiç olmadığı otoyol gibi mekânlarda verimli bir biçimde kullanılabilir. Otoyol ve karayollarında kullanılan<br>yol tabelalarının grafikleri, yolun düzeyine göre formüle edilerek uygulanabilmektedir. Bununla birlikte havalimanı, hastane, AVM, üniversite gibi çoklu hacimli mekânlarda en baştan<br>benzerlikler ihtimali üzerinden projeyi kurmak ve yönetmek olanaklı değildir.</br></br>"
+        "Aciklama": "TİPOGRAFİNİN DIŞ MEKÂNDA KULLANIMI<br>Dış mekân grafikleri ya da yaygın kullanımıyla çevresel grafik tasarım, grafik tasarımın kâğıttan (ya<br/>da branda baskıdan) koptuğu yerdir. Bu projelerde tasarımcının konumlandırma ve ölçülendirme üzerine her projede yeniden hazırlık ve hesaplama yapması gerekmektedir. Tipografinin kullanımında hemen her projede yeniden hesaplama yapmak gerekmektedir. Kâğıdın sınırlayıcı ama güvenli ortamından farklı olarak, sınırların kalktığı dış mekânda yazı büyüklüğü (punto yüksekliği) ya da boşluklar ezberden, bir başka deyişle mekân üzerine hazırlık yapılmadan çalışılamaz.<br/>Her ne kadar çeşitli kitaplarda/ kılavuzlarda dış mekânda yazı kullanımına ilişkin önceden hazırlanmış birtakım tablolar ve şemalar yer alsa da dış mekânda tipografi kullanımı, içinde yer alacağı mekâna göre her seferinde yeniden hesaplanır.<br/>Yazı büyüklüğüne yönelik hazırlanan şemalarda iddia edildiği gibi okunurluğun, tasarım ürününe olan mesafesiyle hesaplanacağı bir formül genel geçer olamaz. Şema ya da kılavuz kullanımı ancak tüm ortamların(ortamların) birbirine denk olduğu, çeşitliliğin az ve farklı senaryoların neredeyse hiç olmadığı otoyol gibi mekânlarda verimli bir biçimde kullanılabilir. Otoyol ve karayollarında kullanılan<br/>yol tabelalarının grafikleri, yolun düzeyine göre formüle edilerek uygulanabilmektedir. Bununla birlikte havalimanı, hastane, AVM, üniversite gibi çoklu hacimli mekânlarda en baştan<br/>benzerlikler ihtimali üzerinden projeyi kurmak ve yönetmek olanaklı değildir.</br></br>"
     },
     {
         "SoruID": 3769750,
@@ -317,11 +377,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "80’li yıllar ekran odaklı piksel teknolojisine ayak uyduran yeni dijital yazı karakterlerinin de doğduğu yıllardır. Basılı ortamlarda kullanım üzerine ihtisaslaşmış font evlerinin yanı sıra dönemin yenilikçi tipografları Bitmap yazı karakterleri üzerine uzmanlaşmaya başlamışlardır."
+        "Aciklama": "Ekranlarda Yazı Teknolojisinin Evrimi<br>80’li yıllar ekran odaklı piksel teknolojisine ayak uyduran yeni dijital yazı karakterlerinin de doğduğu yıllardır. Basılı ortamlarda kullanım üzerine ihtisaslaşmış font evlerinin yanı sıra dönemin yenilikçi tipografları Bitmap yazı karakterleri üzerine uzmanlaşmaya başlamışlardır."
     },
     {
         "SoruID": 3769751,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri tipografinin yazılım teknolojileri ile evriminin kilometre taşları arasında yer alır?<br/> I-Piksel tabanlı Bitmap yazı karakterlerinin gelişimi<br/> II-Matbaanın icadı<br/> III-Open Type font belgelerinin geliştirilmesi",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri tipografinin yazılım teknolojileri ile evriminin kilometre taşları arasında yer alır?<br/>I-Piksel tabanlı Bitmap yazı karakterlerinin gelişimi<br/>II-Matbaanın icadı<br/>III-Open Type font belgelerinin geliştirilmesi",
         "A": "Sadece II",
         "B": "I ve II",
         "C": "II ve III",
@@ -337,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ekran teknolojilerini temel alan Bitmap yazı karakterleri sayısal ortamlarda daha rahat<br/>gösterilmesi için tasarlanmış, her ayrı punto büyüklüğüne göre yeniden düzenlenmiş piksel tabanlı fontlardır. Erken dönem Bitmap yazı karakterlerini gelenekselleşmiş font ailelerinin<br/>sayısal imitasyonları olarak görmek mümkünken, ilerleyen dönemlerde çağının yenilikçi tasarımcıları<br/>tarafından ekran dünyasına özel, pikselleri bir oyun alanı olarak kullanan cesur örneklerine de rastlamak mümkündür.<br/> Tipografinin yazılım teknolojileri ile evriminin bir diğer kilometre taşı ise Open Type font belgelerinin geliştirilmesi olmuştur."
+        "Aciklama": "Ekranlarda Yazı Teknolojisinin Evrimi<br>Ekran teknolojilerini temel alan Bitmap yazı karakterleri sayısal ortamlarda daha rahat<br/>gösterilmesi için tasarlanmış, her ayrı punto büyüklüğüne göre yeniden düzenlenmiş piksel tabanlı fontlardır. Erken dönem Bitmap yazı karakterlerini gelenekselleşmiş font ailelerinin<br/>sayısal imitasyonları olarak görmek mümkünken, ilerleyen dönemlerde çağının yenilikçi tasarımcıları<br/>tarafından ekran dünyasına özel, pikselleri bir oyun alanı olarak kullanan cesur örneklerine de rastlamak mümkündür.<br/>Tipografinin yazılım teknolojileri ile evriminin bir diğer kilometre taşı ise Open Type font belgelerinin geliştirilmesi olmuştur."
     },
     {
         "SoruID": 3769791,
@@ -440,6 +500,26 @@
         "Aciklama": "yönlendirmeler, bir mekânı daha önce hiç deneyimlememiş kişilerin, mekân içerisindeki hedeflerine en kısa ve kolay yoldan ulaşmalarını sağlayan iletişim ürünleridir."
     },
     {
+        "SoruID": 3769796,
+        "SoruMetni": "Aşağıdaki dış mekân uygulamalarının hangisinde kullanılan harflerin ölçüsü daha büyük olmalıdır?",
+        "A": "Kapı numarası",
+        "B": "Otoyol tabelası",
+        "C": "Sokak tabelası",
+        "D": "Bina tabelası",
+        "E": "Şehiriçi yönlendirme",
+        "DogruCevap": "B",
+        "DersAd": "Tipografi",
+        "Unite": 6,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:08.134935",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Araç içerisinde ve yüksek hızda, üstelik uzaktan ve kısa sürede görüleceği düşünülürse otoyol tabelalarındaki yazıların daha büyük ölçülerde olması beklenir."
+    },
+    {
         "SoruID": 3769797,
         "SoruMetni": "OpenType teknolojisi hangi tarihte geliştirilmiştir?",
         "A": "1965",
@@ -497,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Baskı tekniği, tipografi tasarımında göz önünde bulundurulması gereken bir konudur. Fakat tipografinin dijital ortamdaki doğru kullanımında önemli bir etken değildir."
+        "Aciklama": "Baskı tekniği, tipografi tasarımında göz önünde bulundurulması gereken bir konudur. Fakat tipografinin dijital ortamdaki doğru kullanımında önemli bir etken değildir."
     },
     {
         "SoruID": 3769800,
@@ -537,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipografi"
+        "Aciklama": "Tipografi mesaj iletişiminde yazının görünümünü<br/>ve işlevini yöneten çalışma<br/>alanıdır."
     },
     {
         "SoruID": 3770112,
@@ -557,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipografi"
+        "Aciklama": "Tipografi, yazının iletişim mesajını taşıması ve<br/>yazıların estetik olarak görselleştirilmesi üzerine çalışan<br/>bir tasarım disiplinidir."
     },
     {
         "SoruID": 3770113,
@@ -577,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pek çok kişi bilgiye erişebilir hale gelmiştir."
+        "Aciklama": "Matbaa sonrasında ise kitaplar<br/>çoğaltılmaya başlanmış, böylece pek<br/>çok kişi bilgiye erişebilir hale gelmiştir.<br/>Uygarlığın gelişimi de bilginin yayılmasıyla<br/>mümkün olabilmiştir."
     },
     {
         "SoruID": 3770114,
@@ -597,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Logodur"
+        "Aciklama": "Kurumsal kimlik tasarımının yapı taşı ve başlangıç noktası logodur"
     },
     {
         "SoruID": 3770115,
@@ -617,11 +697,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Formun harfler ile iç içe geçmesi"
+        "Aciklama": "Logotype ile amblem yazısı arasındaki temel<br/>fark, logotype harfler üzerinde oluşturulan formun<br/>harflerle, artık sökülemeyecek kadar iç içe geçmiş<br/>olmasıdır.<br>Formun harfler ile iç içe geçmesi"
     },
     {
         "SoruID": 3770116,
-        "SoruMetni": "\"Özellikle ............. alan pozitif alan şeklinde tasarlanan çözümlerde en ufak bir görsel müdahale anlamı değiştirecektir.\"<br/> Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "\"Özellikle ............. alan pozitif alan şeklinde tasarlanan çözümlerde en ufak bir görsel müdahale anlamı değiştirecektir.\"<br/>Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?",
         "A": "negatif",
         "B": "açık",
         "C": "büyük",
@@ -637,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "negatif"
+        "Aciklama": "Özellikle negatif<br/>alan pozitif alan şeklinde tasarlanan çözümlerde<br/>en ufak bir görsel müdahale anlamı değiştirecektir."
     },
     {
         "SoruID": 3770117,
@@ -657,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Otoyol ve karayollarında kullanılan<br/>yol tabelalarının grafikleri, yolun düzeyine göre formüle edilerek uygulanabilmektedir."
+        "Aciklama": "Otoyol ve karayollarında kullanılan<br/>yol tabelalarının grafikleri, yolun düzeyine göre formüle edilerek uygulanabilmektedir.<br>Otoyol ve karayollarında kullanılan<br/>yol tabelalarının grafikleri, yolun düzeyine göre formüle edilerek uygulanabilmektedir."
     },
     {
         "SoruID": 3770118,
@@ -677,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "yönlendirme ve işaretleme"
+        "Aciklama": "Çevresel grafik tasarımın alt dallarından yönlendirme ve işaretleme tasarımında iletişim,<br/>kullanıcının belirli noktalara ulaşma amacı bağlamında mekânla kurulmaktadır."
     },
     {
         "SoruID": 3770119,
@@ -697,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "tabelalar"
+        "Aciklama": "Tipografi, mekân ile kullanıcının ilişkisini kuran yönlendirme stratejisi dahilinde, tasarlanan tabelalar<br/>üzerinde belirgin bir şekilde kullanılarak yönlendirme tasarımı projeleri hayata geçirilir."
     },
     {
         "SoruID": 3770120,
@@ -717,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Değişken yazı karakterleri"
+        "Aciklama": "Bugün ise teknolojinin tipografi alanındaki en<br/>büyük gelişmesi değişken yazı karakterleri"
     },
     {
         "SoruID": 3770186,
@@ -737,12 +817,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.0pt; color: #211d1e;\">Tipografi, iletişim tasarımında anlaşılması, ta­nımlanması ve icra edilmesi kolay olmayan bir çalışma alanıdır. Bunun temel nedeni tipografinin somut bir nesne olmamasıdır.</span>"
+        "Aciklama": "Tipografinin Kullanım Alanları<br><span style=\"font-size: 11.0pt; color: #211d1e;\">Tipografi, iletişim tasarımında anlaşılması, ta­nımlanması ve icra edilmesi kolay olmayan bir çalışma alanıdır. Bunun temel nedeni tipografinin somut bir nesne olmamasıdır.</span>"
     },
     {
         "SoruID": 3770187,
         "SoruMetni": "Yazının tipografi pratiğindeki gelişimi hangi yıllarda hızlanmaya başlamıştır?",
-        "A": "1890  sonrası",
+        "A": "1890 sonrası",
         "B": "1980 sonrası",
         "C": "1920 sonrası",
         "D": "2000 sonrası",
@@ -757,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.0pt; color: #211d1e;\">Yazının tipografi pratiğindeki gelişimini asıl hızlandıran unsur 1980 sonrası yaşanan teknolojik gelişmelerdir. Masaüstü yayıncılık teknolojisinin gelişmesi ve erişilebilir olması tasa­rımın hayata geçirilme sürecindeki zahmetleri or­tadan kaldırarak bir anda büyük deneme kolaylığı getirmiştir.</span>"
+        "Aciklama": "Tipografinin Kullanım Alanları<br><span style=\"font-size: 11.0pt; color: #211d1e;\">Yazının tipografi pratiğindeki gelişimini asıl hızlandıran unsur 1980 sonrası yaşanan teknolojik gelişmelerdir. Masaüstü yayıncılık teknolojisinin gelişmesi ve erişilebilir olması tasa­rımın hayata geçirilme sürecindeki zahmetleri or­tadan kaldırarak bir anda büyük deneme kolaylığı getirmiştir.</span>"
     },
     {
         "SoruID": 3770188,
@@ -777,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.0pt; color: #211d1e;\">Logotype ile amblem yazısı arasındaki temel fark, logotype harfler üzerinde oluşturulan formun harflerle, artık sökülemeyecek kadar iç içe geçmiş olmasıdır.</span>"
+        "Aciklama": "TİPOGRAFİNİN LOGO TASARIMINDA KULLANIMI<br><span style=\"font-size: 11.0pt; color: #211d1e;\">Logotype ile amblem yazısı arasındaki temel fark, logotype harfler üzerinde oluşturulan formun harflerle, artık sökülemeyecek kadar iç içe geçmiş olmasıdır.</span>"
     },
     {
         "SoruID": 3770189,
@@ -797,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.0pt; color: #211d1e;\">Dış mekân yönlendirme tasarımında harf yüksekliği kent içindeki cadde üzerinde 15 cm iken, otoyollarda 40 cm’ye kadar çıkabilir</span>"
+        "Aciklama": "TİPOGRAFİNİN DIŞ MEKÂNDA KULLANIMI<br><span style=\"font-size: 11.0pt; color: #211d1e;\">Dış mekân yönlendirme tasarımında harf yüksekliği kent içindeki cadde üzerinde 15 cm iken, otoyollarda 40 cm’ye kadar çıkabilir</span>"
     },
     {
         "SoruID": 3770190,
@@ -817,11 +897,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.0pt; color: #211d1e;\">Sergileme tasarımında bir müze için gövde metni 18 puntodan 54 puntoya kadar aralıkta kullanı­labilir, çünkü mekânın büyüklüğü, tavan yüksekliği, eserlere olan mesafe vb. belirleyici etmenler olurlar.</span>"
+        "Aciklama": "TİPOGRAFİNİN DIŞ MEKÂNDA KULLANIMI<br><span style=\"font-size: 11.0pt; color: #211d1e;\">Sergileme tasarımında bir müze için gövde metni 18 puntodan 54 puntoya kadar aralıkta kullanı­labilir, çünkü mekânın büyüklüğü, tavan yüksekliği, eserlere olan mesafe vb. belirleyici etmenler olurlar.</span>"
     },
     {
         "SoruID": 3770191,
-        "SoruMetni": "Aşağıdakilerin hangisinin en büyük özelliklerinden biri, döneminde  256 harf ve biçim ile sınırlı font belgelerinin zenginliğini 65.536 Gilif ’e (Harf ve noktalama işaretleri) kadar çıkarabilmiş olmasıdır?",
+        "SoruMetni": "Aşağıdakilerin hangisinin en büyük özelliklerinden biri, döneminde 256 harf ve biçim ile sınırlı font belgelerinin zenginliğini 65.536 Gilif ’e (Harf ve noktalama işaretleri) kadar çıkarabilmiş olmasıdır?",
         "A": "Open Type",
         "B": "Bitmap",
         "C": "Variable Fonts",
@@ -837,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<em><span style=\"font-size: 11.0pt; color: #211d1e;\">Open Type </span></em><span style=\"font-size: 11.0pt; color: #211d1e;\">font belgelerinin en önemli özelliklerinden biri de döneminde 256 harf ve biçim ile sınırlı font belgelerinin zenginliğini 65.536 Gilif ’e (Harf ve noktalama işaretleri) kadar çıkarabilmiş olmasıdır.</span>"
+        "Aciklama": "TİPOGRAFİNİN DİJİTAL ORTAMLARDA KULLANIMI<br><em><span style=\"font-size: 11.0pt; color: #211d1e;\">Open Type </span></em><span style=\"font-size: 11.0pt; color: #211d1e;\">font belgelerinin en önemli özelliklerinden biri de döneminde 256 harf ve biçim ile sınırlı font belgelerinin zenginliğini 65.536 Gilif ’e (Harf ve noktalama işaretleri) kadar çıkarabilmiş olmasıdır.</span>"
     },
     {
         "SoruID": 3770192,
@@ -857,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.0pt; color: #211d1e;\">Değişken font, donanımsal verimliliğin yanı sıra günümüzün yenilikçi dijital deneyim tasarımlarında değişken yazı karakterlerinin yaratıcı kullanımlarını keşfetmek mümkündür. Özellikle hareketli medya için yara­tıcı kodlama temelli çalışmalarda değişken yazı karakterlerinin esnekliğinden yararlanmak oldukça ilgi çekici denemeler sunmaktadır.</span>"
+        "Aciklama": "TİPOGRAFİNİN DİJİTAL ORTAMLARDA KULLANIMI<br><span style=\"font-size: 11.0pt; color: #211d1e;\">Değişken font, donanımsal verimliliğin yanı sıra günümüzün yenilikçi dijital deneyim tasarımlarında değişken yazı karakterlerinin yaratıcı kullanımlarını keşfetmek mümkündür. Özellikle hareketli medya için yara­tıcı kodlama temelli çalışmalarda değişken yazı karakterlerinin esnekliğinden yararlanmak oldukça ilgi çekici denemeler sunmaktadır.</span>"
     },
     {
         "SoruID": 3770193,
@@ -877,7 +957,87 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.0pt; color: #211d1e;\">Basılı ortamlarda endüstri standardı olan Punto (Pt) ölçek­lendirme biçimi kullanılırken dijital or­tamlarda Piksel (Px) ölçeklendirmesi kul­lanılmaktadır. Punto yazı ölçeğinin dijital ortamlarda kullanımı yanıltıcı sonuçlar vermektedir.</span>"
+        "Aciklama": "TİPOGRAFİNİN DİJİTAL ORTAMLARDA KULLANIMI<br><span style=\"font-size: 11.0pt; color: #211d1e;\">Basılı ortamlarda endüstri standardı olan Punto (Pt) ölçek­lendirme biçimi kullanılırken dijital or­tamlarda Piksel (Px) ölçeklendirmesi kul­lanılmaktadır. Punto yazı ölçeğinin dijital ortamlarda kullanımı yanıltıcı sonuçlar vermektedir.</span>"
+    },
+    {
+        "SoruID": 3770194,
+        "SoruMetni": "<span style=\"font-size: 11.0pt; color: #211d1e;\">Dijital arabirimlerde okunaklı bir metin için hangi ölçü kullanılır?</span>",
+        "A": "<span style=\"font-size: 11.0pt; color: windowtext;\">Minimum 13 px</span>",
+        "B": "<span style=\"font-size: 11.0pt; color: #211d1e;\">Minimum 13 pt</span>",
+        "C": "<span style=\"font-size: 11.0pt; color: #211d1e;\">18 - 54 pt arası</span>",
+        "D": "<span style=\"font-size: 11.0pt; color: windowtext;\">Maksimum 15 cm</span>",
+        "E": "<span style=\"font-size: 11.0pt; color: windowtext;\">12 pt</span>",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 6,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:08.115894",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "TİPOGRAFİNİN DİJİTAL ORTAMLARDA KULLANIMI<br><span style=\"font-size: 11.0pt; color: #211d1e;\">Genelde dijital arabirimlerde okunaklı bir metin için minimum 13px ölçüsünden aşağı düş­memek elzemdir.</span>"
+    },
+    {
+        "SoruID": 3770195,
+        "SoruMetni": "Aşağıdakilerin hangisi afiş tasarımında öncelikle düzenlenir?",
+        "A": "Renk netliği",
+        "B": "Okunma sırası",
+        "C": "Kâğıt kalitesi",
+        "D": "Afiş boyutu",
+        "E": "Baskı sayısı",
+        "DogruCevap": "B",
+        "DersAd": "Tipografi",
+        "Unite": 6,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:08.095266",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Tipografinin Basılı Or­tamlarda Kullanımı<br>Basılı yüzey, ister broşür gibi küçük bir alan, ister megaboard gibi büyük bir alan olsun özünde sınırları olan bir tasarımdır. Yüzeyin taşıyabileceği içerik de boyutla değil, izleyicinin yüzeye olan mesafesi ve ayırabileceği zamanıyla ilgilidir. Dolayısıyla bir billboardun büyüyüp megaboarda dönüşmesi içeriğin artacağı ve daha çok bilgiyi taşıyabileceği anlamına gelmemektedir. Boyut büyüdüğünde takibi de zorlaşmaktadır. Kent yaşamında artan hız ve yoğunluk nedeniyle bir iletişim tasarımı ürünü artık yakın mesafeden incelenememektedir. Büyüyen kentler ve hızlı kent içi hareketler nedeniyle bu tür tanıtım çalışmalarına daha uzaktan bakılmaktadır. Bu nedenle billboard ya da megaboard en yoğun haliyle bir afiş kadar bilgi verebilmektedir. Ancak broşür ya da gazete ilanında izleyicinin gönüllü bir şekilde iletişim materyalini elinde tutarak 30-50 cm mesafeden bakıyor olması, bu iletişim ürünlerinde daha çok içerik sunulmasına olanak vermektedir."
+    },
+    {
+        "SoruID": 3770231,
+        "SoruMetni": "İnsanlık tarihi açısından elde edilen bulgular ışığında yazının kullanımı kaç yıldır mevcuttur?",
+        "A": "6000",
+        "B": "5500",
+        "C": "5000",
+        "D": "4500",
+        "E": "4000",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 6,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:08.074055",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Yazı, insanlık tarihinin başlangıç noktasıdır. Milyonlarca yıldır dünyada var olan insanlar ancak 6000 yıldır yazmaktadır. Bir başka deyişle insanlık hakkında içeriği bilinen kayıtlar ancak 6000 yıl öncesine kadar gitmektedir. Cevap A seçeneğidir."
+    },
+    {
+        "SoruID": 3770232,
+        "SoruMetni": "“Bir metne yönelik vurgu, bağlam, hiyerarşi gibi amaçları gerçekleştirmek için yazıyı (harfleri) karakter, büyüklük, boşluk, açıklık ve paragraf özelliklerini kullanarak şekillendiren tasarım disiplinidir. Yazılı bir fikre görsel form verilmesini amaçlar.” Bu ifadeye göre aşağıdakilerden hangi görsel iletişim tasarımını tanımlamaktadır?",
+        "A": "Amblem",
+        "B": "Logo",
+        "C": "İdeogram",
+        "D": "Tipografi",
+        "E": "Piktogram",
+        "DogruCevap": "D",
+        "DersAd": "Tipografi",
+        "Unite": 6,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:08.075565",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Tipografi, bir metne yönelik vurgu, bağlam, hiyerarşi gibi amaçları gerçekleştirmek için yazıyı (harfleri) karakter, büyüklük, boşluk, açıklık ve paragraf özelliklerini kullanarak şekillendiren tasarım disiplinidir. Yazılı bir fikre görsel form verilmesini amaçlar.”. Cevap D seçeneğidir."
     },
     {
         "SoruID": 3770233,
@@ -981,7 +1141,7 @@
     },
     {
         "SoruID": 3770238,
-        "SoruMetni": "Kent içinde caddelerde dış mekân yönlendirme tasarımında harf yüksekliği  kaç santimetredir?",
+        "SoruMetni": "Kent içinde caddelerde dış mekân yönlendirme tasarımında harf yüksekliği kaç santimetredir?",
         "A": "15 cm",
         "B": "20 cm",
         "C": "35 cm",
@@ -1017,7 +1177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Otoyollarda dış mekân yönlendirme tasarımında harf yüksekliği  40 cm’e kadar çıkabilir. Cevap D seçeneğidir."
+        "Aciklama": "Otoyollarda dış mekân yönlendirme tasarımında harf yüksekliği 40 cm’e kadar çıkabilir. Cevap D seçeneğidir."
     },
     {
         "SoruID": 3770240,
@@ -1077,7 +1237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Logo, bir kurum, kuruluş ya da düşüncenin akılda kalıcı ve benzersiz bir görselleştirme ile temsil edilmesidir. Markanın temelinde yer alır ve kurumsal kimliğin başlangıç noktasını oluşturur.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Logo, bir kurum, kuruluş ya da düşüncenin akılda kalıcı ve benzersiz bir görselleştirme ile temsil edilmesidir. Markanın temelinde yer alır ve kurumsal kimliğin başlangıç noktasını oluşturur."
     },
     {
         "SoruID": 3770244,
@@ -1097,7 +1257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Jenerik  dijital ortamlarla alakalı olup, tipografinin basılı ortamda kullanımına örnek değildir. Günümüzde dergi, broşür afiş gibi görsel iletişim ürünlerinin dijital varyasyonları da vardır fakat bu seçenekler basılı ortamda doğmuş ürünlerdir. Jenerik teriminin basılı ortamda karşılığı yoktur."
+        "Aciklama": "Jenerik dijital ortamlarla alakalı olup, tipografinin basılı ortamda kullanımına örnek değildir. Günümüzde dergi, broşür afiş gibi görsel iletişim ürünlerinin dijital varyasyonları da vardır fakat bu seçenekler basılı ortamda doğmuş ürünlerdir. Jenerik teriminin basılı ortamda karşılığı yoktur."
     },
     {
         "SoruID": 3770245,
@@ -1218,5 +1378,25 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Open Type teknolojisi Bitmap fontlardan vektör tabanlı fontlara dek pek çok çapraz platformda (Macintosh ve Windows) sorunsuz biçimde adapte olup çalışabilen font belgeleri olarak tanımlanabilir."
+    },
+    {
+        "SoruID": 3770251,
+        "SoruMetni": "Gelenekselleşmiş font ailesi kavramını tek bir font belgesi üzerinde toplayan, Bold, İtalik, Extended, Condensed gibi aile içindeki çeşitlemeleri yazılım parametreleri haline getirip sonsuz olasılıkta değişkenlik sağlayan fontlar hangileridir?",
+        "A": "Metal fontlar",
+        "B": "True Type fontlar",
+        "C": "Post Script fontlar",
+        "D": "Open Type fontlar",
+        "E": "Variable fontlar",
+        "DogruCevap": "E",
+        "DersAd": "Tipografi",
+        "Unite": 6,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:08.082677",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Gelenekselleşmiş font ailesi kavramını tek bir font belgesi üzerinde toplayan, Bold, İtalik, Extended, Condensed gibi aile içindeki çeşitlemeleri yazılım parametreleri haline getirip sonsuz olasılıkta değişkenlik sağlayan fontlar variable fontlardır."
     }
 ]

@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İklim şartlarına göre gıda ürünün korunması"
+        "Aciklama": "<strong>Başlangıçta sadece iklim şartlarından korunma ve/veya gıda ürünlerinin korunması ihtiyacından </strong><strong>ortaya çıkan ambalaj,</strong> endüstrileşme ve ticaretin yaygınlaşmasıyla, tüketicilerin dikkatini çeken, içerdiği ürünü tanıtan ve satın alma eylemine etki eden önemli bir unsur görevler üstlenmiştir.<br>İklim şartlarına göre gıda ürünün korunması"
     },
     {
         "SoruID": 3862672,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ürün tüketimini hızlandırma"
+        "Aciklama": "Üretim aşamasından tüketiciye ulaşıncaya kadar, ürünü bir arada tutarak taşıma, depolama, dağıtma, tanıtma gibi işlemleri...<br>Ürün tüketimini hızlandırma"
     },
     {
         "SoruID": 3862673,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ekonomiklik"
+        "Aciklama": "Ambalaj malzemeleri, hammadde farklılıklarının yanı sıra; dayanıklılık, esneklik, geçirgenlik, renk,<br/>biyobozunurluk ve daha birçok çeşitli özelliklere sahip olabilirler.<br>Ekonomiklik"
     },
     {
         "SoruID": 3862674,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Geçirgendir"
+        "Aciklama": "<strong>Cam ambalajların olumlu özellikleri:</strong><br/>• İçine konulan ürün görülebilir.<br/>• Aşınma ve bozulmalara karşı dayanıklıdır.<br/>• Renkli çeşitlerinde belirli düzeyde ışığa karşı<br/>koruma sağlar.<br/>• Geçirgen değildir.<br/>• Isı ve basınca dayanımı yüksektir.<br/>• Sterilize edilebilir.<br/>• Tüketim sonunda farklı amaçlar için de<br/>kullanılabilir. <br/>• Çeşitli renk, büyüklük ve formda üretilebilir.<br/>• Uzun raf ömrü sağlar.<br/>• Ambalajlanan ürünler kimyasal etkileşim<br/>göstermez.<br/>• Defalarca kullanım özelliği olduğundan<br/>ekonomiktir.<br>Geçirgendir"
     },
     {
         "SoruID": 3862675,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ahşap"
+        "Aciklama": "<strong>Ahşap ambalaj malzemeleri,</strong> sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünlerin ambalajlanmasında, hava geçirgenlikleri nedeniyle meyve ve sebzelerin paketlenmesinde, kendine has dokusunun olması nedeniyle de özel tasarım ürünleri ve birçok hediyenin sunumu için yaygın olarak kullanılmaktadır."
     },
     {
         "SoruID": 3862676,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Plastik"
+        "Aciklama": "Plastik ve plastik esaslı hammaddelerin hafif, paslanmayan, korozif olmayan, yüksek ısı ve elektrik yalıtım özelliklerine sahip, kolay zarar görmeyen, esnek, yumuşak ve kolay kalıplanabilen yapıya sahip olmaları plastik hammaddeleri ambalaj malzemelerinin vazgeçilmezlerinden biri haline getirmektedir."
     },
     {
         "SoruID": 3862677,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üçüncül Ambalajlar"
+        "Aciklama": "Karton ve oluklu mukavva koliler, shrink filmler, streç filmler, plastik kemerler, paletler ve kasalar<br/>yaygın kullanılan <strong>üçüncül ambalajlardır.</strong>"
     },
     {
         "SoruID": 3862678,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Endüstri tasarımcı"
+        "Aciklama": "Yapısal tasarım uygulamaları genellikle <strong>endüstri tasarımcılar</strong>ı tarafından yapılır ve bu tasarımcılar ambalaj üretiminde kullanılan temel malzemeler üzerinde geniş bilgi ve birikime sahip olmalıdırlar."
     },
     {
         "SoruID": 3862679,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ambalajlanacak ürünün dağıtımı"
+        "Aciklama": "<strong>Ambalajın yapı tasarımında aşağıdakilere dikkat edilmesi gerekir:</strong><br/>• Ambalajlanacak ürünün kimyasal ve fiziksel özellikleri (Katı, sıvı, gaz, toz, granül…)<br/>• Ambalajlanacak ürünün geometrik form özellikleri (Üçgen, dikdörtgen, prizma, küp, silindir…)<br/>• Ambalajlanacak ürüne uygun malzeme cinsi seçimi (Cam, metal, plastik, ahşap, kâğıt…)<br/>• Ambalajın üretimi ve dolum süreci</br><br>Ambalajlanacak ürünün dağıtımı"
     },
     {
         "SoruID": 3862680,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tampon baskı"
+        "Aciklama": "<strong>Tampon baskı:</strong> Çukur, düz, bombeli, girintili çıkıntılı ya da eğimli gibi farklı yapı formlarından<br/>oluşan yüzeylere baskı yapmak için kullanılan bir tekniktir (Tepecik, 2002, s. 115)."
     },
     {
         "SoruID": 3862681,
@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 3862683,
-        "SoruMetni": "Günlük hayatımızda sıklıkla karşımıza çıkan içecek ya da konserve kutuları, boya tüpleri ve yağ tenekeleri hangi ambalajlara örnek olarak verilebilir.",
+        "SoruMetni": "Günlük hayatımızda sıklıkla karşımıza çıkan içecek ya da konserve kutuları, boya tüpleri ve yağ tenekeleri hangi ambalajlara örnek olarak verilebilir.",
         "A": "Kağıt",
         "B": "Cam",
         "C": "Ahşap",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 3862685,
-        "SoruMetni": "Petrol veya doğal gaz gibi fosil yakıtlardan üretilen veya bitkisel kaynaklardan elde edilen sentetik veya yarı sentetik polimerlerdir.<br/> Yukarıdaki tanıma uyan ambalaj malzemesi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Petrol veya doğal gaz gibi fosil yakıtlardan üretilen veya bitkisel kaynaklardan elde edilen sentetik veya yarı sentetik polimerlerdir.<br/>Yukarıdaki tanıma uyan ambalaj malzemesi aşağıdakilerden hangisidir?",
         "A": "Kağıt",
         "B": "Metal",
         "C": "Ahşap",
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Plastik ambalajların üretim yöntemleri arasında ekstrüzyon, enjeksiyon kalıplama, şişirme kalıplama, termoformlama ve vakum şekillendirme gibi işlemler bulunur. İndirme-çökertme tekniği cam yapım-işlemede kullanılmaktadır."
+        "Aciklama": "Plastik ambalajların üretim yöntemleri arasında ekstrüzyon, enjeksiyon kalıplama, şişirme kalıplama, termoformlama ve vakum şekillendirme gibi işlemler bulunur. İndirme-çökertme tekniği cam yapım-işlemede kullanılmaktadır."
     },
     {
         "SoruID": 3862691,
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 3862695,
-        "SoruMetni": "Nakliye ambalajı, depolama ambalajı veya yükleme ambalajı olarak da isimlendirilir. Bu ambalaj ürünün tüketiciye sunulma sürecinde nakliye işlemlerini kolaylaştırmak amacıyla kullanılır ve son tüketiciye ulaşmazlar.<br/> Yukarıda fonksiyonu tanımlanmış ambalaj türü aşağıdakilerden hangisinde verilmiştir?",
+        "SoruMetni": "Nakliye ambalajı, depolama ambalajı veya yükleme ambalajı olarak da isimlendirilir. Bu ambalaj ürünün tüketiciye sunulma sürecinde nakliye işlemlerini kolaylaştırmak amacıyla kullanılır ve son tüketiciye ulaşmazlar.<br/>Yukarıda fonksiyonu tanımlanmış ambalaj türü aşağıdakilerden hangisinde verilmiştir?",
         "A": "Birincil ambalaj",
         "B": "İkincil ambalaj",
         "C": "Üçüncül ambalaj",
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üçüncül Ambalaj, nakliye ambalajı, depolama ambalajı veya yükleme ambalajı olarak da isimlendirilir. Bu ambalaj ürünün tüketiciye sunulma sürecinde nakliye işlemlerini kolaylaştırmak amacıyla kullanılır ve son tüketiciye ulaşmazlar."
+        "Aciklama": "Üçüncül Ambalaj, nakliye ambalajı, depolama ambalajı veya yükleme ambalajı olarak da isimlendirilir. Bu ambalaj ürünün tüketiciye sunulma sürecinde nakliye işlemlerini kolaylaştırmak amacıyla kullanılır ve son tüketiciye ulaşmazlar."
     },
     {
         "SoruID": 3862697,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgisayar ortamında tasarlanan çalışmaların film ya da kalıp hazırlama gibi işlem basamakları olmadan doğrudan baskı makinalarını gönderilip, tasarımın baskı altı malzemelerine aktarılması suretiyle yapılan baskılara dijital baskı denir.  Dijital baskı tekniğini, geleneksel baskı tekniklerinden ayıran en önemli özellik film ve kalıp hazırlama sürecinin olmaması ve tasarımların baskılarda kişiye özel basılabilmesine imkân sunmasıdır."
+        "Aciklama": "Bilgisayar ortamında tasarlanan çalışmaların film ya da kalıp hazırlama gibi işlem basamakları olmadan doğrudan baskı makinalarını gönderilip, tasarımın baskı altı malzemelerine aktarılması suretiyle yapılan baskılara dijital baskı denir. Dijital baskı tekniğini, geleneksel baskı tekniklerinden ayıran en önemli özellik film ve kalıp hazırlama sürecinin olmaması ve tasarımların baskılarda kişiye özel basılabilmesine imkân sunmasıdır."
     }
 ]

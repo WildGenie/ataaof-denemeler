@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Analog dönemdeki filmlerin yerini günümüzde sayısal negatifler almıştır. Sayısal fotoğrafla birlikte yerleşen bu kavram “Sayısal Negatif ”dir. Görüntüyü ham olarak yani “RAW” çekerek üzerinde istenilen değişiklikler bilgisayar ve yazılım desteğiyle yapılabilir. Bu geniş müdahale seçeneğinin olduğu format yani RAW’lar, negatif filme çok benzediği için bu isimle adlandırılır"
+        "Aciklama": "SAYISAL KOMPAKT FOTOĞRAF MAKİNELERİ VE ÖZELLİKLERİ<br>Analog dönemdeki filmlerin yerini günümüzde sayısal negatifler almıştır. Sayısal fotoğrafla birlikte yerleşen bu kavram “Sayısal Negatif ”dir. Görüntüyü ham olarak yani “RAW” çekerek üzerinde istenilen değişiklikler bilgisayar ve yazılım desteğiyle yapılabilir. Bu geniş müdahale seçeneğinin olduğu format yani RAW’lar, negatif filme çok benzediği için bu isimle adlandırılır"
     },
     {
         "SoruID": 3353059,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "DSLR fotoğraf makinelerinde ayna sistemi bulunmaktadır."
+        "Aciklama": "Yeni nesil elektronik vizör var<br>DSLR fotoğraf makinelerinde ayna sistemi bulunmaktadır."
     },
     {
         "SoruID": 3353061,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Film ölçüsü olarak 35 mm sensör ölçüsünü kullanan dijital fotoğraf makinelerine “TAM ÇERÇEVE DSLR (Full Frame) fotoğraf makineleri denir."
+        "Aciklama": "DSLR VE DSLR “TAM ÇERÇEVE” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br>Film ölçüsü olarak 35 mm sensör ölçüsünü kullanan dijital fotoğraf makinelerine “TAM ÇERÇEVE DSLR (Full Frame) fotoğraf makineleri denir."
     },
     {
         "SoruID": 3353062,
@@ -182,10 +182,10 @@
     {
         "SoruID": 3353063,
         "SoruMetni": "Aynasız fotoğraf makinelerinin ilk öncülü aşağıdakilerden hangisidir?",
-        "A": "Epson R-D1<br/><br/>",
-        "B": "Leica M8<br/><br/>",
-        "C": "Panasonic Lumix G1<br/><br/>",
-        "D": "Olympus-EP1<br/><br/>",
+        "A": "Epson R-D1",
+        "B": "Leica M8",
+        "C": "Panasonic Lumix G1",
+        "D": "Olympus-EP1",
         "E": "Sony N",
         "DogruCevap": "A",
         "DersAd": "Sayısal Görüntüleme Teknolojileri",
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Epson R-D1"
+        "Aciklama": "Epson R-D1"
     },
     {
         "SoruID": 3353064,
@@ -217,11 +217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Film ölçüsü olarak 35 mm sensör ölçüsünü kullanan dijital fotoğraf makinelerine “TAM ÇERÇEVE DSLR (Full Frame) fotoğraf makineleri denir. Bu makinelerin sensör boyutu 36x24 mm ölçülerindedir ve odak çarpanı 1’dir."
+        "Aciklama": "DSLR VE DSLR “TAM ÇERÇEVE” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br>Film ölçüsü olarak 35 mm sensör ölçüsünü kullanan dijital fotoğraf makinelerine “TAM ÇERÇEVE DSLR (Full Frame) fotoğraf makineleri denir. Bu makinelerin sensör boyutu 36x24 mm ölçülerindedir ve odak çarpanı 1’dir."
     },
     {
         "SoruID": 3353065,
-        "SoruMetni": "Aşağıdakilerden hangisi DX gövde avantajlarından biri değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi DX gövde avantajlarından biri değildir?",
         "A": "Sensör lensin verimli olan merkez kısımlarını kullanır.",
         "B": "Maliyet olarak oldukça ucuzdurlar.",
         "C": "Orta netlikler lenslerde her zaman daha iyi sonuç verir.",
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Epson, 2004 yılında Canon, Nikon, Panasonic veya Sony gibi markaların büyük ARGE çalışmalarından çok önce ilk aynasız makine örneğini üretmiştir."
+        "Aciklama": "AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br>Epson, 2004 yılında Canon, Nikon, Panasonic veya Sony gibi markaların büyük ARGE çalışmalarından çok önce ilk aynasız makine örneğini üretmiştir."
     },
     {
         "SoruID": 3353068,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Peş peşe gelen yıllar içerisinde bir başka fotoğraf makinesi markası Olympus, ilk Micro Four Thirds (MFT) sistem fotoğraf makinesi olan EP-1’i 2009 yılında piyasaya sürmüştür. Bu ürüne Olympus “Dijital Kalem” ismini vermiştir."
+        "Aciklama": "AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br>Peş peşe gelen yıllar içerisinde bir başka fotoğraf makinesi markası Olympus, ilk Micro Four Thirds (MFT) sistem fotoğraf makinesi olan EP-1’i 2009 yılında piyasaya sürmüştür. Bu ürüne Olympus “Dijital Kalem” ismini vermiştir."
     },
     {
         "SoruID": 3353069,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Orta format bir kameranın en büyük dezavantajı, genellikle çok pahalı olmalarıdır. Ağır ve hantal makinelerdir."
+        "Aciklama": "ORTA FORMAT FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br>Orta format bir kameranın en büyük dezavantajı, genellikle çok pahalı olmalarıdır. Ağır ve hantal makinelerdir."
     },
     {
         "SoruID": 3353070,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital kameralarda, orta format sensör boyutları tipik olarak yaklaşık 43,8 × 32,9 mm ile 53,7 × 40,2 mm arasında değişir."
+        "Aciklama": "ORTA FORMAT FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br>Dijital kameralarda, orta format sensör boyutları tipik olarak yaklaşık 43,8 × 32,9 mm ile 53,7 × 40,2 mm arasında değişir."
     },
     {
         "SoruID": 3353071,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Standart bir gözün görme açısı 50 mm olarak kabul edilmektedir."
+        "Aciklama": "AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br>Standart bir gözün görme açısı 50 mm olarak kabul edilmektedir."
     },
     {
         "SoruID": 3353072,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tablo 2.2 DSLR ve MILC (Aynasız Fotoğraf Makinesi) Karşılaştırılması"
+        "Aciklama": "AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br>Tablo 2.2 DSLR ve MILC (Aynasız Fotoğraf Makinesi) Karşılaştırılması"
     },
     {
         "SoruID": 3353073,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tablo 2.2 DSLR ve MILC (Aynasız Fotoğraf Makinesi) Karşılaştırılması"
+        "Aciklama": "AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br>Tablo 2.2 DSLR ve MILC (Aynasız Fotoğraf Makinesi) Karşılaştırılması"
     },
     {
         "SoruID": 3353074,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Analog dönem için film boyutlarına göre sınıflandırma • Analog ve Sayısal dönemler için Vizör (bakaç) türlerine göre sınıflandırma • Yine sayısal kayıt ortamlarına göre sınıflandırma • Makinelerin netleme detaylarına göre sınıflandırma yapılabilir. <br/> III. maddede verilen değerler makineler için değil ışık kaynaklarıyla ilgili sınıflandırmada kullanılır."
+        "Aciklama": "Analog dönem için film boyutlarına göre sınıflandırma • Analog ve Sayısal dönemler için Vizör (bakaç) türlerine göre sınıflandırma • Yine sayısal kayıt ortamlarına göre sınıflandırma • Makinelerin netleme detaylarına göre sınıflandırma yapılabilir. <br/>III. maddede verilen değerler makineler için değil ışık kaynaklarıyla ilgili sınıflandırmada kullanılır."
     },
     {
         "SoruID": 3353075,
@@ -441,7 +441,7 @@
     },
     {
         "SoruID": 3353076,
-        "SoruMetni": "I.HMI, II. GPRS, III. Wi/Fi, IV. 3G, V. 4,5G<br/><br/><br/>Yukarıdaki teknolojilerden hangileri ile veri aktarımı hızlanırken maliyeti de azalmaktadır?",
+        "SoruMetni": "I.HMI, II. GPRS, III. Wi/Fi, IV. 3G, V. 4,5G<br/>Yukarıdaki teknolojilerden hangileri ile veri aktarımı hızlanırken maliyeti de azalmaktadır?",
         "A": "I, II, II ve IV",
         "B": "I, II, III ve V",
         "C": "I, III, IV ve V",
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SLR’lerin amatör ve profesyonel kullanıcıya getirmiş olduğu ayna sisteminin fotoğraf makinesinden kaldırılması, vizörsüz, pentaprizma içermeyen  ve kompakt görünümlü olan bu yeni türün beklentileri karşılayıp karşılamayacağı ve sektörde ne derece etken olacağı bilinmiyordu. Kısacası makine boyutu küçülmüş, hafiflemiş ve neredeyse kompaktlar kadar bir boyuta ulaşmıştır."
+        "Aciklama": "SLR’lerin amatör ve profesyonel kullanıcıya getirmiş olduğu ayna sisteminin fotoğraf makinesinden kaldırılması, vizörsüz, pentaprizma içermeyen ve kompakt görünümlü olan bu yeni türün beklentileri karşılayıp karşılamayacağı ve sektörde ne derece etken olacağı bilinmiyordu. Kısacası makine boyutu küçülmüş, hafiflemiş ve neredeyse kompaktlar kadar bir boyuta ulaşmıştır."
     },
     {
         "SoruID": 3353082,
@@ -621,7 +621,7 @@
     },
     {
         "SoruID": 3353085,
-        "SoruMetni": "Aşağıdakilerden hangisi amatörden profesyonele doğru fotoğraf makineleri<br/>sınıflandırılması değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi amatörden profesyonele doğru fotoğraf makineleri<br/>sınıflandırılması değildir?",
         "A": "Sayısal kompakt fotoğraf makineleri",
         "B": "DSLR fotoğraf makineleri, tam çerçeve<br/>DSLR fotoğraf makineleri,",
         "C": "Aynasız fotoğraf makineleri",
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünitede iyileştirilmiş özelliklere örnek olarak;<br/><br/>Kamera Sayılarının artması, Video Çekim, Optik Zoom, Çok işlevli bazı tasarımlar ve Yüksek Çözünürlük verilmektedir. Şıklarda yer alan Düşük Çözünürlük bu durumda yanlış olacaktır. Doğru cevap B seçeneğidir."
+        "Aciklama": "Ünitede iyileştirilmiş özelliklere örnek olarak;<br/>Kamera Sayılarının artması, Video Çekim, Optik Zoom, Çok işlevli bazı tasarımlar ve Yüksek Çözünürlük verilmektedir. Şıklarda yer alan Düşük Çözünürlük bu durumda yanlış olacaktır. Doğru cevap B seçeneğidir."
     },
     {
         "SoruID": 3353089,
@@ -681,7 +681,7 @@
     },
     {
         "SoruID": 3353090,
-        "SoruMetni": "Aşağıdakilerden hangisi DSLR Fotoğraf Makinelerinin özelliklerinden biri <span style=\"text-decoration: underline;\">değildir?</span>",
+        "SoruMetni": "Aşağıdakilerden hangisi DSLR Fotoğraf Makinelerinin özelliklerinden biri <span style=\"text-decoration: underline;\">değildir?</span>",
         "A": "Loş ışıkta rahatlıkla fotoğraf çekebilir",
         "B": "Daha kısa pozlama süreleri kullanarak anı dondurabilir",
         "C": "Otomatik odaklama sistemleri daha gelişmiştir",
@@ -697,11 +697,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Hafifliği ve küçük boyutu nedeniyle ceket cebine koyup onu her yere götürmek mümkündür\" Kompakt Fotoğraf Makinesi özelliklerinden biridir."
+        "Aciklama": "\"Hafifliği ve küçük boyutu nedeniyle ceket cebine koyup onu her yere götürmek mümkündür\" Kompakt Fotoğraf Makinesi özelliklerinden biridir."
     },
     {
         "SoruID": 3353091,
-        "SoruMetni": "Aşağıdakilerden hangisi DSLR Fotoğraf Makinesi Anatomisi özelliklerinden değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi DSLR Fotoğraf Makinesi Anatomisi özelliklerinden değildir?",
         "A": "Vizör objektiften gelen görüntüyü çekimlerinizde çerçevelemeye yarar",
         "B": "Pentaprisma (Beşken Prizma ya da Pentaprism), aynadan gelen görüntüyü vizöre ulaştırır",
         "C": "Otomatik odaklama sistemleri daha gelişmiştir",
@@ -741,7 +741,7 @@
     },
     {
         "SoruID": 3353093,
-        "SoruMetni": "Aşağıdakilerden hangisi DSLR Fotoğraf Makinelerinin eksilerinden değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi DSLR Fotoğraf Makinelerinin eksilerinden değildir?",
         "A": "Tüm dijital fotoğraf makineleri arasında DSLR’ler en büyüğü ve en ağırıdır",
         "B": "Ağır oldukları için el çekimlerinde el titremesinin daha az olmasını sağlarlar",
         "C": "Özellikle lenslerde eklendiğinde yurt dışı ve arazi gezilerinizde ekstra bir çanta daha taşımanızı<br/>gerektirebilir",

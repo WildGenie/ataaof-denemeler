@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3487883,
-        "SoruMetni": "Mekâna yönelik özellikle büyük boyutlu grafik uygulamaları kapsamında<br/>         Süpergrafik terimi tercih edilmiştir. Bu terim kaç yılında kullanılmıştır ?",
+        "SoruMetni": "Mekâna yönelik özellikle büyük boyutlu grafik uygulamaları kapsamında<br/>Süpergrafik terimi tercih edilmiştir. Bu terim kaç yılında kullanılmıştır ?",
         "A": "1960",
         "B": "1959",
         "C": "1961",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3487884,
-        "SoruMetni": "<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>Uzun blok metinlerde okumayı kolaylaştırıcı küçük tırnakların olduğu yazı karakterlerine ne denir? <br/><br/><br/><br/><br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Uzun blok metinlerde okumayı kolaylaştırıcı küçük tırnakların olduğu yazı karakterlerine ne denir?",
         "A": "Serifli",
         "B": "Script",
         "C": "Gotik",
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Yazı karakterlerinin yapısal özelliklerinden biri olan serif aynı zamanda tırnak olarak da adlandırılır. Uzun blok metinlerde okumayı kolaylaştırıcı küçük tırnakların olduğu yazı karakterleri serifli (tırnaklı), omayanlar serifsiz (tırnaksız veya sans-serif ) olarak adlandırılır.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Yazı karakterlerinin yapısal özelliklerinden biri olan serif aynı zamanda tırnak olarak da adlandırılır. Uzun blok metinlerde okumayı kolaylaştırıcı küçük tırnakların olduğu yazı karakterleri serifli (tırnaklı), omayanlar serifsiz (tırnaksız veya sans-serif ) olarak adlandırılır."
     },
     {
         "SoruID": 3487885,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı A seçeneğinde verilmiştir."
+        "Aciklama": "Resimyazı: Nesnelerin yalınlaştırılmış resimleri ile yazılan yazı, hiyeroglif.<br>Sorunun doğru cevabı A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3487889,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı B seçeneğinde verilmiştir."
+        "Aciklama": "Roma Kapital Yazısı yıllar sonra 1989’da, Chapparal, Myriad gibi pek çok yazı karakterinin de tasarımcısı olan ABD’li Carol Twombly tarafından “Trajan” olarak adlandırılıp yeniden tasarlanarak, günümüz dijital formatına aktarmıştır. Twombly aynı yıl Antik Yunan’da halka açık mimari yapılarda kullanılan yazılardan yola çıkarak “Lithos” adlı yazı karakterini de tasarlamıştır.<br>Sorunun doğru yanıtı B seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3487890,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı C seçeneğinde verilmiştir."
+        "Aciklama": "Taş üzerine yazı ve motiflerin işlenmiş olduğu başka bir örnek Yazılıkaya’dır. Eskişehir’in Han ilçesinde bulunan, Midas Anıtı olarak adlandırılan ve halk arasında Yazılıkaya olarak bilinen Frig dönemine ait bu anıtın MÖ. 7. yy civarında kral Midas için yaptırıldığı düşünülmektedir. Geometrik motiflerin büyük ustalıkla işlendiği kayanın Kibele heykeline de yer verdiği tahmin edilmektedir. Woodard ve Roller’a göre, yazıtın üst köşesinde yer alan metinde “Ates, bu anıtı halk lideri ve yönetici Midas’a ithaf etmiştir.” yazmaktadır.<br>Sorunun doğru yanıtı C seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3487891,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı D seçeneğinde verilmiştir."
+        "Aciklama": "Mağazalar sezonluk mekân grafiklerine ve tipografik ögelere sahipken, okul hastane gibi kurumlar kalıcı tasarımlar barındırırlar; öte yandan anıt gibi mimari yapılar ise tipografik unsurların ve dolayısıyla mesajın nesiller sonrasına kalmasını hedefleyen mimari yapılardır.<br>Sorunun doğru yanıtı D seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3487892,
@@ -297,7 +297,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı E seçeneğinde verilmiştir."
+        "Aciklama": "Normatif Tipografi: Yerleri, mekânları tanımlayan, adını pekiştiren işaretlemeler, tabelalar ve yer imleri (placemaking) ve yer işaretleri (landmark).<br>Sorunun doğru yanıtı E seçeneğinde verilmiştir."
+    },
+    {
+        "SoruID": 3487893,
+        "SoruMetni": "Kent ve tipografi söz konusu olduğunda akla gelen en klasik örneklerden biri olan, Los Angeles’taki Santa Monica tepelerinde bulunan, toplam 240 ton ağırlığında ve harflerin yüksekliği ise yaklaşık 14 metreye ulaştığı yazı aşağıdakilerden hangisidir?",
+        "A": "Universal",
+        "B": "Broadway",
+        "C": "Columbia",
+        "D": "Warner Brothers",
+        "E": "Hollywood",
+        "DogruCevap": "E",
+        "DersAd": "İleri Tipografi",
+        "Unite": 6,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:13.480294",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kent ve tipografi söz konusu olduğunda yine akla gelen en klasik örneklerden biri, aynı zamanda malzeme ve boyutu algılamada önemli bir örnek, Los Angeles’ta bulunan “Hollywood” yazısıdır. Santa Monica tepelerinde bulunan bu şehir simgesi toplam 240 ton ağırlığındadır, harflerin yüksekliği ise yaklaşık 14 metredir. Bu dev tipografik şehir simgesinin yapımı da bir mimarlık ve mühendislik çalışmasını beraberinde getirmiştir.<br>Sorunun doğru yanıtı E seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3487894,
@@ -317,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı D seçeneğinde verilmiştir."
+        "Aciklama": "1965 yılında Total Design firmasından Amsterdam Schiphol havaalanı için bir “güzergâh sistemi” yapması istenmiştir. Benno Wissing tarafından yönetilen bu proje yönlendirme tasarımı alanındaki ilk örneklerden biridir.<br>Sorunun doğru yanıtı D seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3487895,
-        "SoruMetni": "___________’in New Jersey Performing Arts Center (New Jersey Performans Sanatları Merkezi) için yaptığı tasarım, çevresel grafik tasarım alanında en çok adı geçen tasarım projelerinden biridir. Mimari bir yapının tipografiyle yeniden tanımlanması ve mekânın içerdiklerinin yazınsal olarak dışına taşınmasıyla mekân aynı zamanda kurumsal bir dönem noktası yaşamış, merkeze olan ilgi tasarım sayesinde artmıştır.<br/>  Yukarıdaki boşluğa aşağıdaki isimlerden hangisinin gelmesi uygun olur?",
+        "SoruMetni": "___________’in New Jersey Performing Arts Center (New Jersey Performans Sanatları Merkezi) için yaptığı tasarım, çevresel grafik tasarım alanında en çok adı geçen tasarım projelerinden biridir. Mimari bir yapının tipografiyle yeniden tanımlanması ve mekânın içerdiklerinin yazınsal olarak dışına taşınmasıyla mekân aynı zamanda kurumsal bir dönem noktası yaşamış, merkeze olan ilgi tasarım sayesinde artmıştır.<br/>Yukarıdaki boşluğa aşağıdaki isimlerden hangisinin gelmesi uygun olur?",
         "A": "Peter Behrens",
         "B": "Otto Wagner",
         "C": "Paula Scher",
@@ -337,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı C seçeneğinde verilmiştir."
+        "Aciklama": "Paula Scher’in New Jersey Performing Arts Center (New Jersey Performans Sanatları Merkezi) için yaptığı tasarım, çevresel grafik tasarım alanında en çok adı geçen tasarım projelerinden biridir. Mimari bir yapının tipografiyle yeniden tanımlanması ve mekânın içerdiklerinin yazınsal olarak dışına taşınmasıyla mekân aynı zamanda kurumsal bir dönem noktası yaşamış, merkeze olan ilgi tasarım sayesinde artmıştır.<br>Sorunun doğru yanıtı C seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3487896,
@@ -357,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı B seçeneğinde verilmiştir."
+        "Aciklama": "Yunanlılar, şehir planlama ve mimaride çoğu yapıda altın oran dikdörtgeni baz almışlardır. Atina’daki Akropolis’in mimarı Phidias (MÖ. 430430), Parthenon Tapınağının mimari Ictinus (MÖ. 400) altın orana çok önem vermiştir. İngiltere’de Stonehenge (MÖ 1500) yine bu oran baz alınarak yapılmıştır. Rönesans sanatçıları resim ve heykellerinde genel bir armoni ve denge yaratmak için kullanmıştır. İtalya’da Antonio Stradivari (1656-1737) aralarında ünlü Stradivarius kemanlarının da olduğu müzik enstrümanlarının yapımında, ABD’de Charles Eames’in 1946’da tasarladığı “LCW Chair” sandalyesine ve 2001’de Jonathan Ive’ın tasarladığı MP3 çalar iPod’a kadar pek çok endüstriyel tasarım da bu oranı kullanır.<br>Sorunun doğru yanıtı B seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3487897,
@@ -377,11 +397,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı A seçeneğinde verilmiştir."
+        "Aciklama": "Çevresel grafik tasarım, insan bedeninin hareketleri ve oranlarını hesaba aldığı gibi aynı zamanda mekâna dair unsurları da hesaba almalıdır.<br>Sorunun doğru yanıtı A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488009,
-        "SoruMetni": "I. Mekânın varlığı, mekânın amacı ve kimliği birbirinden bağımsızdır ve birbirinden ayrı tasarlanır.<br/>  II. Mimari yapıların estetik bütünlüğü ile doğru malzeme ve teknikleri kullanımı, kaliteli ve özenli işçilik ile birleştiğinde asırlar sonrasına kalan bir kültürel miras hâline gelmektedir.<br/> III. Mimarlar ve tasarımcılar bu bireysel ve toplumsal gereksinimlere yönelik yaratıcı çözümler sunar.<br/> Yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?",
+        "SoruMetni": "I. Mekânın varlığı, mekânın amacı ve kimliği birbirinden bağımsızdır ve birbirinden ayrı tasarlanır.<br/>II. Mimari yapıların estetik bütünlüğü ile doğru malzeme ve teknikleri kullanımı, kaliteli ve özenli işçilik ile birleştiğinde asırlar sonrasına kalan bir kültürel miras hâline gelmektedir.<br/>III. Mimarlar ve tasarımcılar bu bireysel ve toplumsal gereksinimlere yönelik yaratıcı çözümler sunar.<br/>Yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?",
         "A": "I ve III",
         "B": "I ve II",
         "C": "Yalnızca II",
@@ -421,7 +441,7 @@
     },
     {
         "SoruID": 3488011,
-        "SoruMetni": "Cadde ve sokak tabelaları, numaralandırmalar, apartman isimlerinin yanı sıra yine kente ait kanalizasyon, telefon, elektrik su gibi altyapı sistemlerinin kayıt bilgilerini taşıyan  tipografi ……..dir.<br/> Yukarıdaki ifadede boşluk bırakılan yere ne gelmelidir?",
+        "SoruMetni": "Cadde ve sokak tabelaları, numaralandırmalar, apartman isimlerinin yanı sıra yine kente ait kanalizasyon, telefon, elektrik su gibi altyapı sistemlerinin kayıt bilgilerini taşıyan tipografi ……..dir.<br/>Yukarıdaki ifadede boşluk bırakılan yere ne gelmelidir?",
         "A": "Sanatsal Tipografi",
         "B": "Normatif Tipografi",
         "C": "Mimari Tipografi",
@@ -478,6 +498,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Lance Wyman 1968’de Meksika Olimpiyatları için kurumsal kimlik ve yönlendirme sistemlerinin tasarımını yapmıştır."
+    },
+    {
+        "SoruID": 3488014,
+        "SoruMetni": "Casson Mann tasarım stüdyosuna ait sergi tasarımı aşağıdakilerden hangisidir?",
+        "A": "Sparking Reaction",
+        "B": "Sea Ranch",
+        "C": "Die Zeit",
+        "D": "Lithos",
+        "E": "Trajan",
+        "DogruCevap": "A",
+        "DersAd": "İleri Tipografi",
+        "Unite": 6,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:13.519020",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Casson Mann tasarım stüdyosuna ait sergi tasarımının adı “Sparking Reaction” dır."
     },
     {
         "SoruID": 3488015,
@@ -557,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Benno Wissing tarafından yönetilen Amsterdam Schiphol havaalanı için bir “güzergâh sistemi”  projesi yönlendirme tasarımı alanındaki ilk örneklerden biridir."
+        "Aciklama": "Benno Wissing tarafından yönetilen Amsterdam Schiphol havaalanı için bir “güzergâh sistemi” projesi yönlendirme tasarımı alanındaki ilk örneklerden biridir."
     },
     {
         "SoruID": 3488158,
@@ -697,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yüksek kontrastlı renklerle <strong>maksimum </strong>oku­nabilirlik sağlanmalıdır."
+        "Aciklama": "Yüksek kontrastlı renklerle <strong>maksimum </strong>oku­nabilirlik sağlanmalıdır."
     },
     {
         "SoruID": 3488167,
@@ -757,6 +797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uzun blok metinlerde okumayı kolaylaştırıcı küçük tırnakların olduğu yazı karakteri \"Serifli\" yazılardır.<br/>"
+        "Aciklama": "Serifsiz<br>Uzun blok metinlerde okumayı kolaylaştırıcı küçük tırnakların olduğu yazı karakteri \"Serifli\" yazılardır."
     }
 ]

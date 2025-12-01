@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Satıcının kişiliği"
+        "Aciklama": "DEĞERLENDİRME, YORUM VE ELEŞTİRİ<br>Satıcının kişiliği"
     },
     {
         "SoruID": 3354062,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Platon"
+        "Aciklama": "<br/>Eleştiri Tarihi<br>Platon"
     },
     {
         "SoruID": 3354064,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel Medya"
+        "Aciklama": "<br/>Medya eleştirisi<br>Görsel Medya"
     },
     {
         "SoruID": 3354065,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karl Marx"
+        "Aciklama": "Toplumsal Gerçekçilik Kuramı<br>Karl Marx"
     },
     {
         "SoruID": 3354066,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gerçekçilik ve Doğalcılık"
+        "Aciklama": "Toplumsal Gerçekçilik Kuramı<br>Gerçekçilik ve Doğalcılık"
     },
     {
         "SoruID": 3354067,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eugene Veron"
+        "Aciklama": "<br/>Sanatçıya Dönük Eleştiri: Anlatımcılık Kuramları, Romantizm<br>Eugene Veron"
     },
     {
         "SoruID": 3354068,
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3354069,
-        "SoruMetni": "1930’larda temel yönelimi sanat eserinin kendisine yönelerek inceleme ve yorumlama olan Amerika’da benimsenen,  I.A.Richards ve T.S.Eliot tarafından ortaya atılan kuram aşağıdakilerden hangisidir?",
+        "SoruMetni": "1930’larda temel yönelimi sanat eserinin kendisine yönelerek inceleme ve yorumlama olan Amerika’da benimsenen, I.A.Richards ve T.S.Eliot tarafından ortaya atılan kuram aşağıdakilerden hangisidir?",
         "A": "Biçimcilik",
         "B": "Realizm",
         "C": "Toplumsal Gerçekçilik",
@@ -177,11 +177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçimcilik"
+        "Aciklama": "Sanat Eserine Dönük Eleştiri: Biçimcilik ve Yapısalcılık Kuramları"
     },
     {
         "SoruID": 3354070,
-        "SoruMetni": "<em>Balzac, Flaubert ve Emile Zola kuramın en önemli temsilcileridir. Yazarlar ve sanatçıların sanatın gerçekliği bütün çıplaklığıyla en iyi şekilde yansıtması anlayışından dolayı eserlerinde aşırı gerçekçi – detaylı tasvirler hâkimdir. Eserlerde toplumun gerçeği iyi, kötü, çirkin, ayıp, günah, suç sınırlamaları olmaksızın “yaşanan gerçeklik” anlatılır  veya yansıtılır.</em><br/> Yukarıdaki verilen paragraftaki bilgiler aşağıdaki hangi kuramı açıklamaktadır?",
+        "SoruMetni": "<em>Balzac, Flaubert ve Emile Zola kuramın en önemli temsilcileridir. Yazarlar ve sanatçıların sanatın gerçekliği bütün çıplaklığıyla en iyi şekilde yansıtması anlayışından dolayı eserlerinde aşırı gerçekçi – detaylı tasvirler hâkimdir. Eserlerde toplumun gerçeği iyi, kötü, çirkin, ayıp, günah, suç sınırlamaları olmaksızın “yaşanan gerçeklik” anlatılır veya yansıtılır.</em><br/>Yukarıdaki verilen paragraftaki bilgiler aşağıdaki hangi kuramı açıklamaktadır?",
         "A": "Batı Gerçekçiliği Kuramı",
         "B": "Rasyonalizm",
         "C": "Realizm",
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Başarılı bir yapıtı değerli bir yapıttan ayırabilmek için, değerlendirmede üçüncü bir adım atmak<br/>gereklidir. Bu bir yapıtın <strong>önemini</strong>; böyle bir yapıtın yaratılmasının insan için, dünyamız için anlamının ne olduğunu göstermek; bu olanakların etik değerler bakımından anlamının ne olduğunu göstermektir. Şeylerin doğru ve gerçek değerinin saptanabilmesi için<br/>bilimsel – nesnel - objektif bir yaklaşımla üç aşamalı bir etkinlikten geçirmek kaçınılmazdır: İlk ve en önemli aşama “Tanıma - Anlama – Kavrama”, ikinci aşama “Yerini Belirleme” ve son aşama “<strong>Önemi</strong> – Getirisi – Özgün Değeri” olarak sıralanabilir."
+        "Aciklama": "Başarılı bir yapıtı değerli bir yapıttan ayırabilmek için, değerlendirmede üçüncü bir adım atmak<br/>gereklidir. Bu bir yapıtın <strong>önemini</strong>; böyle bir yapıtın yaratılmasının insan için, dünyamız için anlamının ne olduğunu göstermek; bu olanakların etik değerler bakımından anlamının ne olduğunu göstermektir. Şeylerin doğru ve gerçek değerinin saptanabilmesi için<br/>bilimsel – nesnel - objektif bir yaklaşımla üç aşamalı bir etkinlikten geçirmek kaçınılmazdır: İlk ve en önemli aşama “Tanıma - Anlama – Kavrama”, ikinci aşama “Yerini Belirleme” ve son aşama “<strong>Önemi</strong> – Getirisi – Özgün Değeri” olarak sıralanabilir."
     },
     {
         "SoruID": 3354176,
@@ -265,8 +265,8 @@
         "A": "Sözlü eleştiri",
         "B": "Yazılı eleştiri",
         "C": "İnceleme eleştirisi",
-        "D": "Bilgilendirme eleştirisi",
-        "E": "Yargılama eleştirisi",
+        "D": "Bilgilendirme eleştirisi",
+        "E": "Yargılama eleştirisi",
         "DogruCevap": "D",
         "DersAd": "Sanatta Eleştirel Düşünce",
         "Unite": 1,
@@ -277,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eleştiri bilimsel bir edinim, eylem; inceleme, saptama, değerlendirme yöntemi olarak ortaya konuluşunun icrası açısından <strong>Sözlü Eleştiri</strong> ve <strong>Yazılı </strong><strong>Eleştiri</strong> şeklinde ikiye ayırmak mümkündür. Ayrıca eleştiri bilimsel bir disiplin, alan, uğraş başka bir ifadeyle meslek olarak bakıldığında <strong>İnceleme </strong><strong>Eleştiris</strong>i ve ortaya çıkan sonuç açısından ise <strong>Yargılama Eleştirisi</strong> şeklinde eleştiri türleri olarak gruplandırılabilir."
+        "Aciklama": "Eleştiri bilimsel bir edinim, eylem; inceleme, saptama, değerlendirme yöntemi olarak ortaya konuluşunun icrası açısından <strong>Sözlü Eleştiri</strong> ve <strong>Yazılı </strong><strong>Eleştiri</strong> şeklinde ikiye ayırmak mümkündür. Ayrıca eleştiri bilimsel bir disiplin, alan, uğraş başka bir ifadeyle meslek olarak bakıldığında <strong>İnceleme </strong><strong>Eleştiris</strong>i ve ortaya çıkan sonuç açısından ise <strong>Yargılama Eleştirisi</strong> şeklinde eleştiri türleri olarak gruplandırılabilir."
     },
     {
         "SoruID": 3354178,
-        "SoruMetni": "Aristoteles’e göre ........., tutkularımızı tehlikeli bir alandan tehlikesiz bir alana aktarmak suretiyle insanları bu uç tutkulardan kurtarır, bu duyguları sanat aracılığıyla doyurur.<br/><br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Aristoteles’e göre ........., tutkularımızı tehlikeli bir alandan tehlikesiz bir alana aktarmak suretiyle insanları bu uç tutkulardan kurtarır, bu duyguları sanat aracılığıyla doyurur.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Determinis",
         "B": "Tragedya",
         "C": "Katharsis",
@@ -337,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Toplumsal Gerçekçilik </strong><strong>Kuramı</strong> ise “Sanat geleceğe dönük olmalı, sanatçı toplumun lokomotifidir, toplumun önündedir ve toplumu ileriye götürür.” fikrini savunur."
+        "Aciklama": "<strong>Toplumsal Gerçekçilik </strong><strong>Kuramı</strong> ise “Sanat geleceğe dönük olmalı, sanatçı toplumun lokomotifidir, toplumun önündedir ve toplumu ileriye götürür.” fikrini savunur."
     },
     {
         "SoruID": 3354181,
-        "SoruMetni": "Aşağıda verilen hangi kuramın savunucuları gerçek sanat ile sözde sanatı birbirinden ayırmaya çalışmışlar ve sanatçı duygularını dile getirirken başkalarını düşünmez, kimseyi düşünmez görüşünü benimsemişlerdir?",
+        "SoruMetni": "Aşağıda verilen hangi kuramın savunucuları gerçek sanat ile sözde sanatı birbirinden ayırmaya çalışmışlar ve sanatçı duygularını dile getirirken başkalarını düşünmez, kimseyi düşünmez görüşünü benimsemişlerdir?",
         "A": "Richards’ın Öznelci Kuramı",
         "B": "Estetik Yaşantı Kuramı",
         "C": "Yaratma Olarak Anlatımcılık Kuramı",
@@ -357,11 +357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Yaratma Olarak Anlatımcılık Kuramı</strong><br/> Bu kuramın savunucuları gerçek sanat ile sözde sanatı birbirinden ayırmaya çalışmışlarıdır. Sanatçı duygularını dile getirirken başkalarını düşünmez, kimseyi düşünmez"
+        "Aciklama": "<strong>Yaratma Olarak Anlatımcılık Kuramı</strong><br/>Bu kuramın savunucuları gerçek sanat ile sözde sanatı birbirinden ayırmaya çalışmışlarıdır. Sanatçı duygularını dile getirirken başkalarını düşünmez, kimseyi düşünmez"
     },
     {
         "SoruID": 3354182,
-        "SoruMetni": "Duygusal Etki Kuramlarından ilki olan ........ sanatın yegane işlevinin zevk vermek olduğunu savunur.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Duygusal Etki Kuramlarından ilki olan ........ sanatın yegane işlevinin zevk vermek olduğunu savunur.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Hedonizm",
         "B": "Determinizm",
         "C": "Modernizm",
@@ -381,7 +381,7 @@
     },
     {
         "SoruID": 3354183,
-        "SoruMetni": ".............., teke tek ilişki kurulan ‘sanat eseriyle’ bağlantılı olarak sorulan “Neyi, nasıl diyor?” sorusuna verilen yanıttan sonra hemen ortaya çıkan “Bana ne diyor?” sorusunun yanıtı olarak kendini gösterir<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": ".............., teke tek ilişki kurulan ‘sanat eseriyle’ bağlantılı olarak sorulan “Neyi, nasıl diyor?” sorusuna verilen yanıttan sonra hemen ortaya çıkan “Bana ne diyor?” sorusunun yanıtı olarak kendini gösterir<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Sosyolojik eleştiri",
         "B": "Estetik eleştiri",
         "C": "Psikolojik eleştiri",
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Algı İng. perception: Bir şeye dikkati yönelterek, duyular yoluyla o şeyin bilincine varma. Bir nesne duyular aracılığıyla algılanır ancak algı duyusal izlenimlerden daha fazla bir şeydir, bilinçli bir farkına varmadır, duyumları bilince ileten bir olaydır."
+        "Aciklama": "tanımlar, kavramlar<br>Algı İng. perception: Bir şeye dikkati yönelterek, duyular yoluyla o şeyin bilincine varma. Bir nesne duyular aracılığıyla algılanır ancak algı duyusal izlenimlerden daha fazla bir şeydir, bilinçli bir farkına varmadır, duyumları bilince ileten bir olaydır."
     },
     {
         "SoruID": 3354219,
@@ -437,11 +437,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anlama; bir öznenin-süjenin veya herhangi bir şeyin bilincine ve farkına varılmasını ya da onunla ilgili bilgilerin edinilmesini sağlayan süreç ve de şeylerin, olay ve varlıkların anlamını kavrayabilme bütünüdür."
+        "Aciklama": "tanım ve kavramlar<br>Anlama; bir öznenin-süjenin veya herhangi bir şeyin bilincine ve farkına varılmasını ya da onunla ilgili bilgilerin edinilmesini sağlayan süreç ve de şeylerin, olay ve varlıkların anlamını kavrayabilme bütünüdür."
     },
     {
         "SoruID": 3354220,
-        "SoruMetni": "Değerlendirme yöntemi ya da bir şeyin değerini bulma-saptama olarak Değer Yakıştırma, Değer Biçme ve Doğru Değerlendirme şeklinde  üç yol olduğunu ifade eden felsefeci kimdir?",
+        "SoruMetni": "Değerlendirme yöntemi ya da bir şeyin değerini bulma-saptama olarak Değer Yakıştırma, Değer Biçme ve Doğru Değerlendirme şeklinde üç yol olduğunu ifade eden felsefeci kimdir?",
         "A": "Macit Gökberk",
         "B": "İoanna Kuçuradi",
         "C": "Rıza Tevfik Bölükbaşı",
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Günlük hayatta bütün bireyler bilinçli ya da bilinçsiz bir şekilde karşılaştığı tüm şeyleri değerlendirmeye sokar. Değerlendirme yöntemi ya da bir şeyin değerini bulma-saptama olarak İoanna Kuçuradi üç yol olduğunu ifade eder: Değer Yakıştırma, Değer Biçme ve Doğru Değerlendirme."
+        "Aciklama": "Değerlendirme tanımı, kapsamı<br>Günlük hayatta bütün bireyler bilinçli ya da bilinçsiz bir şekilde karşılaştığı tüm şeyleri değerlendirmeye sokar. Değerlendirme yöntemi ya da bir şeyin değerini bulma-saptama olarak İoanna Kuçuradi üç yol olduğunu ifade eder: Değer Yakıştırma, Değer Biçme ve Doğru Değerlendirme."
     },
     {
         "SoruID": 3354221,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eleştiri: 1. isim Bir insanı, bir eseri, bir konuyu doğru ve yanlış yanlarını bulup göstermek amacıyla inceleme işi, tenkit"
+        "Aciklama": "tanım ve kavramlar<br>Eleştiri: 1. isim Bir insanı, bir eseri, bir konuyu doğru ve yanlış yanlarını bulup göstermek amacıyla inceleme işi, tenkit"
     },
     {
         "SoruID": 3354223,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Platon (MÖ 424-347), sanat, iyi ve güzel konusunda birçok önemli estetik kuramlar ortaya koymuş, sanatı bir yansıtma aracı olarak gören Yansıtma Kuramının ilk temsilcisi olmuştur. İdealar kuramında sanatı ‘mimesis’ kavramıyla açıklamaya çalışır ve yansımanın yansıması ya da taklidin taklidi olarak gerçekliğe ulaşmada ikincil bir yol olarak görür ve küçümser."
+        "Aciklama": "Eleştiri kavramı<br>Platon (MÖ 424-347), sanat, iyi ve güzel konusunda birçok önemli estetik kuramlar ortaya koymuş, sanatı bir yansıtma aracı olarak gören Yansıtma Kuramının ilk temsilcisi olmuştur. İdealar kuramında sanatı ‘mimesis’ kavramıyla açıklamaya çalışır ve yansımanın yansıması ya da taklidin taklidi olarak gerçekliğe ulaşmada ikincil bir yol olarak görür ve küçümser."
     },
     {
         "SoruID": 3354224,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Aristoteles (MÖ 384–322), “Poetika” ve “Retorik” adlı kitaplarında sanatı sistematik bilimsel yaklaşımla ele alan, normlar ortaya koyan ve sınıflandıran ve döneminin öne çıkan sanat eserlerini eleştirel yaklaşımla inceleyen düşünürdür."
+        "Aciklama": "Eleştiri kavramı<br>Aristoteles (MÖ 384–322), “Poetika” ve “Retorik” adlı kitaplarında sanatı sistematik bilimsel yaklaşımla ele alan, normlar ortaya koyan ve sınıflandıran ve döneminin öne çıkan sanat eserlerini eleştirel yaklaşımla inceleyen düşünürdür."
     },
     {
         "SoruID": 3354226,
@@ -557,11 +557,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipik bir Rönesans eleştiricisi ve şair olan Sir Philip Sidney “Sanat yansıtmadır ve amacı eğlendirerek eğitmektir” der (Moran, 1983)."
+        "Aciklama": "Eleştiri ve eleştiri tarihi<br>Tipik bir Rönesans eleştiricisi ve şair olan Sir Philip Sidney “Sanat yansıtmadır ve amacı eğlendirerek eğitmektir” der (Moran, 1983)."
     },
     {
         "SoruID": 3354227,
-        "SoruMetni": "İskenderiye Okulu'nda yapılan eleştiri çalışmalarının öncüsü olan ve İlk Çağ’ın en meşhur eleştirmen ve gramercisi olarak bilinen düşünür kimdir?",
+        "SoruMetni": "İskenderiye Okulu'nda yapılan eleştiri çalışmalarının öncüsü olan ve İlk Çağ’ın en meşhur eleştirmen ve gramercisi olarak bilinen düşünür kimdir?",
         "A": "Ciceron",
         "B": "Horace",
         "C": "Platon",
@@ -577,11 +577,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eleştiri çalışmaları daha sonra İskenderiye Okulu tarafından geliştirilmiştir. Burada yapılan çalışmalar, Platon’un ve Aristoteles’in felsefi görüşlerine dayanmakla birlikte esas olarak dil bilgisi ağırlıklıydı, yani dil ve kültür ögeleri üzerinde derin, sistemli görüşler geliştirdiler. Başlıca temsilcileri Aristarque de Samothrace’tı. Aristarque, İlk Çağ’ın en meşhur eleştirmen ve gramercisiydi. Ciceron ve Horace, onu eleştirmenlerin eleştirmeni olarak görüyorlardı (Filizok, 2013)."
+        "Aciklama": "Eleştiri tarihi<br>Eleştiri çalışmaları daha sonra İskenderiye Okulu tarafından geliştirilmiştir. Burada yapılan çalışmalar, Platon’un ve Aristoteles’in felsefi görüşlerine dayanmakla birlikte esas olarak dil bilgisi ağırlıklıydı, yani dil ve kültür ögeleri üzerinde derin, sistemli görüşler geliştirdiler. Başlıca temsilcileri Aristarque de Samothrace’tı. Aristarque, İlk Çağ’ın en meşhur eleştirmen ve gramercisiydi. Ciceron ve Horace, onu eleştirmenlerin eleştirmeni olarak görüyorlardı (Filizok, 2013)."
     },
     {
         "SoruID": 3354228,
-        "SoruMetni": "Metot Üzerine Konuşma (1637) adlı eseriyle Klasisizmin temellerini atan ve  İnsan aklının gerçekliği kavramasının ancak kuşkucu yaklaşımla mümkün olacağını savunan filozof kimdir?",
+        "SoruMetni": "Metot Üzerine Konuşma (1637) adlı eseriyle Klasisizmin temellerini atan ve İnsan aklının gerçekliği kavramasının ancak kuşkucu yaklaşımla mümkün olacağını savunan filozof kimdir?",
         "A": "Denis Diderot",
         "B": "René Descartes",
         "C": "Claude Adrien Helvétius",
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "René Descartes Metot Üzerine Konuşma (1637) adlı eseriyle Klasisizmin temellerini atmıştır. İnsan aklının gerçekliği kavramasının ancak kuşkucu yaklaşımla mümkün olacağını savunur ve eleştirel düşüncenin en önemli temsilcisi olarak karşımıza çıkar. Modern felsefenin kurucusu ve felsefenin yönelimini değiştiren Descartes, 20. yüzyıl felsefesinde öne çıkan ve günümüz felsefesinin popüler alanlarından olan “Zihin Felsefesi” için başlangıç olur."
+        "Aciklama": "Eleştiri kavramı ve tarihçesi<br>René Descartes Metot Üzerine Konuşma (1637) adlı eseriyle Klasisizmin temellerini atmıştır. İnsan aklının gerçekliği kavramasının ancak kuşkucu yaklaşımla mümkün olacağını savunur ve eleştirel düşüncenin en önemli temsilcisi olarak karşımıza çıkar. Modern felsefenin kurucusu ve felsefenin yönelimini değiştiren Descartes, 20. yüzyıl felsefesinde öne çıkan ve günümüz felsefesinin popüler alanlarından olan “Zihin Felsefesi” için başlangıç olur."
     },
     {
         "SoruID": 3785793,
@@ -618,6 +618,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Romantizm XVIII. yüzyılın sonunda İngiltere ve Almanya’da, daha sonra XIX. yüzyılda Fransa, İtalya, İspanya ve İskandinav ülkelerinde ortaya çıkan Avrupalı bir sanat ve edebiyat akımıdır."
+    },
+    {
+        "SoruID": 3842282,
+        "SoruMetni": "Bir şeyin nitelik ya da niceliği üstüne yapılan araştırma, çalışmayla varılan, elde edilen sonuçların yargı olarak ortaya konulmasına ne ad verilir?",
+        "A": "Eleştiri",
+        "B": "Gözlem",
+        "C": "Değerlendirme",
+        "D": "Deney",
+        "E": "Algı",
+        "DogruCevap": "C",
+        "DersAd": "Sanatta Eleştirel Düşünce",
+        "Unite": 1,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:35.549741",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Doğru cevap C şıkkıdır.<br/>Değerlendirme, bir şeyin nitelik ya da niceliği üstüne yapılan araştırma, çalışmayla varılan, elde edilen sonuçların yargı olarak ortaya konulmasıdır."
     },
     {
         "SoruID": 3842322,
@@ -642,7 +662,7 @@
     {
         "SoruID": 3842324,
         "SoruMetni": "Edebiyatın sosyal kurumlarla ilişkisi içinde ele alınması gerektiğini savunan eleştiri yöntemi aşağıdakilerden hangisidir?",
-        "A": "<span>Tarihî eleştiri </span>",
+        "A": "<span>Tarihî eleştiri </span>",
         "B": "<span>Sözlü eleştiri</span>",
         "C": "Yazılı eleştiri",
         "D": "İnceleme eleştirisi",
@@ -677,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap D <br/>Toplumcu gerçekçiliğin temellerini Karl Marx atmıştır. Engels ve Plehanov gibi düşünürler de bu temele eklentiler yaparak devam etmişlerdir."
+        "Aciklama": "Doğru cevap D <br/>Toplumcu gerçekçiliğin temellerini Karl Marx atmıştır. Engels ve Plehanov gibi düşünürler de bu temele eklentiler yaparak devam etmişlerdir."
     },
     {
         "SoruID": 3842326,
@@ -697,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap B<br/> Romantizm sanat anlayışını ilk defa sistemli bir estetik kuram hâline sokan Eugene Veron, Yansıtma Kuramının sanatı yanlış anladığını belirttikten sonra, sanatı “duygunun dile getirilmesi” olarak tanımlar ve sanatçının bir dâhi olduğunu, eserin şiddetli ve derin etkisinin, yaratıcısının kişiliğinde bulunduğunu söyler."
+        "Aciklama": "Doğru cevap B<br/>Romantizm sanat anlayışını ilk defa sistemli bir estetik kuram hâline sokan Eugene Veron, Yansıtma Kuramının sanatı yanlış anladığını belirttikten sonra, sanatı “duygunun dile getirilmesi” olarak tanımlar ve sanatçının bir dâhi olduğunu, eserin şiddetli ve derin etkisinin, yaratıcısının kişiliğinde bulunduğunu söyler."
     },
     {
         "SoruID": 3842327,
@@ -721,7 +741,7 @@
     },
     {
         "SoruID": 3842328,
-        "SoruMetni": "Duygusal Etki Kuramlarından ilki olan ve sanatın yegane işlevinin zevk vermek olduğunu savunan kuram aşağıdakilerden hangisidir?",
+        "SoruMetni": "Duygusal Etki Kuramlarından ilki olan ve sanatın yegane işlevinin zevk vermek olduğunu savunan kuram aşağıdakilerden hangisidir?",
         "A": "Estetik Yaşantı Kuramı",
         "B": "Richards’ın Öznelci Kuramı",
         "C": "Anglo-Amerikan Biçimciliği Kuramı",

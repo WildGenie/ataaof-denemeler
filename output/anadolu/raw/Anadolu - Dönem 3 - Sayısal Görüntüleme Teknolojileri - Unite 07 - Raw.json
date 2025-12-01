@@ -1,19 +1,19 @@
 [
     {
-        "QuestionId": 3353235,
+        "QuestionId": 3353234,
         "UniteNo": 7,
         "PageNumber": 227,
-        "AnswerExplanation": "<p>Hareketli görüntülerin işlenmesinde <em>doğrusal olmayan düzenleme </em>(ing.Non-Linear Editing) ve kurgu yazılımlarının gelişimi bu alanda çalışan amatör ve profesyonel içerik üreticilerinin işle­rini oldukça kolaylaştırmıştır. Bu yazılımlarla manyetik kayıt ünitelerinden doğrusal olarak işlem yapılabilen analog sistemlerde karşılaşılan zorluklar aşılarak görüntüye istenildiği noktadan erişilebilen bir düzenleme çerçevesine geçilmiştir.</p>",
+        "AnswerExplanation": "<p>Hareketsiz görüntünün sayısallaştırılarak bilgi­sayar ortamına taşınmasıyla beraber pek çok farklı işlev ve özelliği bir arada yürütebilen Adobe Pho­toshop ve Lightroom, Corel PaintShop Pro gibi profesyonel görüntü işleme yazılımların yanında <strong>Picasa, Gimp gibi tüketici düzeyinde daha basit arayüzlerle çalışan ve çoğunlukla ücretsiz uygula­malar da ardı ardına ortaya çıkarak kullanıcıların beğenisine sunulmuştur.</strong></p>",
         "Title": "",
-        "Text": "<p>Hareketli görüntülerin işlenmesinde <em>-----------------</em>ve kurgu yazılımlarının gelişimi,  bu alanda çalışan amatör ve profesyonel içerik üreticilerinin işle­rini oldukça kolaylaştırmıştır.</p>\n<p>Yukarıda boş bırakılan yeri aşağıdakilerden hangisi doğru tamamlar?</p>",
-        "A": "<p>doğrusal olmayan düzenleme</p>",
-        "B": "<p>analog sistemlerle çalışma kolaylığı</p>",
-        "C": "<p>dijital talep</p>",
-        "D": "<p>zaman baskısı</p>",
-        "E": "<p>sosyal medya kullanımı</p>",
-        "CorrectAnswer": "A",
+        "Text": "<p>I. Adobe Pho­toshop</p>\n<p>II. Corel PaintShop Pro</p>\n<p>III. Picasa</p>\n<p>IV. Gimp</p>\n<p>Yukarıdaki uygulamalardan hangisi/hangileri tüketici düzeyinde basit arayüzlerle çalışır?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>Yalnız II</p>",
+        "C": "<p>I,II</p>",
+        "D": "<p>I,II,III</p>",
+        "E": "<p>III,IV</p>",
+        "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 2
+        "QuestionNumber": 1
     },
     {
         "QuestionId": 3353236,
@@ -29,7 +29,7 @@
         "E": "<p>3 boyutlu</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 1
+        "QuestionNumber": 3
     },
     {
         "QuestionId": 3353237,
@@ -45,7 +45,7 @@
         "E": "<p>Baskı teknikleriyle alakalı olarak kullanılan bir kısaltmadır</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 2
+        "QuestionNumber": 4
     },
     {
         "QuestionId": 3353238,
@@ -61,7 +61,7 @@
         "E": "<p>PNG</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 3
+        "QuestionNumber": 5
     },
     {
         "QuestionId": 3353239,
@@ -93,22 +93,6 @@
         "E": "<p>Lightworks</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 3
-    },
-    {
-        "QuestionId": 3353241,
-        "UniteNo": 7,
-        "PageNumber": 241,
-        "AnswerExplanation": "<p>Ağırlıklı olarak profesyonel kullanıcıların tercih ettiği bir sayısal hareketli görüntü düzenleme yazılımı olan Premier Pro’nun temel özelliklerinden bazılarıları şunlardır:</p>\n<ul>\n<li>Adobe yaratıcı takım uygulamalarıyla entegre çalışabilmesi</li>\n<li>Görüntü ve ses filtrelerinin çeşitliliği</li>\n<li>360 derece video desteği</li>\n<li>Sanal gerçeklik video desteği</li>\n<li>Bulut üzerinden başkalarıyla iş birliği içerisinde çalışabilme242</li>\n<li><strong> Her türlü kaynaktan gelen video içeriğini import edebilme </strong></li>\n<li>Yüzlerce farklı dosya formatıyla uyumlu ça­lışabilme</li>\n<li>Birden fazla kamerayla gerçekleştirilen çe­kimlerde otomatik senkronizasyon özelliği</li>\n<li>Mobil uygulamalarla entegre çalışılabilmesi</li>\n<li>Çeşitli eklentilerle sonradan yeni özellikler ekleyebilme</li>\n</ul>",
-        "Title": "",
-        "Text": "<p>Aşağıdakilerden hangisi sayısal hareketli görüntü düzenleme yazılımı olan Premier Pro’nun temel özelliklerinden biri <u>değildir?</u></p>",
-        "A": "<p>Adobe yaratıcı takım uygulamalarıyla entegre çalışabilmesi</p>",
-        "B": "<p>Görüntü ve ses filtrelerinin çeşitliliği</p>",
-        "C": "<p>Sınırlı kaynaklardan gelen video içeriğini import edebilme</p>",
-        "D": "<p>Sanal gerçeklik video desteği</p>",
-        "E": "<p>Bulut üzerinden başkalarıyla iş birliği içerisinde çalışabilme</p>",
-        "CorrectAnswer": "C",
-        "UserAnswer": null,
         "QuestionNumber": 5
     },
     {
@@ -128,22 +112,6 @@
         "QuestionNumber": 6
     },
     {
-        "QuestionId": 3353243,
-        "UniteNo": 7,
-        "PageNumber": 253,
-        "AnswerExplanation": "<p>Fotoğraflarımızı kendi kişisel blog sitemizde tam ekran yüksek çözünürlüklü paylaşmak istersek 1920x1080 piksel, Facebook profil fotoğrafı boyutu 180x180 piksel, Instagram paylaşım görseli boyutu 1080x1080 (kare), 1080x1350 (dikey) pikseldir.</p>",
-        "Title": "",
-        "Text": "<p>Aşağıdakilerden hangisi Facebook profil fotoğrafı boyutudur?</p>",
-        "A": "<p>1920x1080 piksel</p> ",
-        "B": "<p>180x180 piksel</p> ",
-        "C": "<p>1080x1080 (kare) piksel</p> ",
-        "D": "<p>1080x1350 (dikey) piksel</p> ",
-        "E": "<p>3840x12160 piksel</p>",
-        "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
-    },
-    {
         "QuestionId": 3353246,
         "UniteNo": 7,
         "PageNumber": 228,
@@ -157,7 +125,7 @@
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>PDF</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 9
+        "QuestionNumber": 10
     },
     {
         "QuestionId": 3353247,
@@ -173,7 +141,23 @@
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>TIFF</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 9
+        "QuestionNumber": 11
+    },
+    {
+        "QuestionId": 3353248,
+        "UniteNo": 7,
+        "PageNumber": 228,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>3 boyutlu görüntü formatının en yaygın dosya türleri OBJ, DWF, MAX, STL ve MGF’dir.</p> </div> </div> </div> </div>",
+        "Title": "<p>E seçeneği hariç diğerleri diğer görüntü formatlarının dosya türleridir.</p>",
+        "Text": "<p>Aşağıdaki seçeneklerden hangisi 3 boyutlu görüntü formatı kapsamında yer alan dosya türlerinden birisidir?</p>",
+        "A": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>GIF</p> </div> </div> </div> </div>",
+        "B": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>AI</p> </div> </div> </div> </div>",
+        "C": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>TIFF</p> </div> </div> </div> </div>",
+        "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>PDF</p> </div> </div> </div> </div>",
+        "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>MAX</p> </div> </div> </div> </div>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 12
     },
     {
         "QuestionId": 3353250,
@@ -189,7 +173,23 @@
         "E": "<div class=\"page\" title=\"Page 20\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Vegas Pro</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 10
+    },
+    {
+        "QuestionId": 3353251,
+        "UniteNo": 7,
+        "PageNumber": 250,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 25\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>RGB, kırmızı, yeşil ve mavi renklerinden oluşur. CMYK, cam göbeği, eflatun, sarı ve siyah renklerinden oluşur.</p> </div> </div> </div> </div>",
+        "Title": "<p>RGB, kırmızı, yeşil ve mavi renklerinden oluşur. CMYK, cam göbeği, eflatun, sarı ve siyah renklerinden oluşur.</p>",
+        "Text": "<p>Aşağıdaki seçeneklerden yer alan hangi renk RBG renk uzayında yer alan renklerden birisidir?</p>",
+        "A": "<div class=\"page\" title=\"Page 25\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Cam göbeği</p> </div> </div> </div> </div>",
+        "B": "<div class=\"page\" title=\"Page 25\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Eflatun</p> </div> </div> </div> </div>",
+        "C": "<div class=\"page\" title=\"Page 25\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sarı</p> </div> </div> </div> </div>",
+        "D": "<div class=\"page\" title=\"Page 25\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Siyah</p> </div> </div> </div> </div>",
+        "E": "<p>Kırmızı</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 14
     },
     {
         "QuestionId": 3353252,
@@ -205,7 +205,7 @@
         "E": "<div class=\"page\" title=\"Page 28\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>1920x1080</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 11
+        "QuestionNumber": 15
     },
     {
         "QuestionId": 3353253,
@@ -221,7 +221,7 @@
         "E": "<div class=\"page\" title=\"Page 30\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Icloud</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 15
+        "QuestionNumber": 14
     },
     {
         "QuestionId": 3353254,
@@ -237,7 +237,7 @@
         "E": "<p>EPS</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 13
     },
     {
         "QuestionId": 3353258,
@@ -253,7 +253,7 @@
         "E": "<p>PNG</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 16
+        "QuestionNumber": 18
     },
     {
         "QuestionId": 3353259,
@@ -269,7 +269,23 @@
         "E": "<p>JPEG</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 17
+        "QuestionNumber": 19
+    },
+    {
+        "QuestionId": 3353260,
+        "UniteNo": 7,
+        "PageNumber": 240,
+        "AnswerExplanation": "<p>Adobe Premiere Pro, Avid Media Composer, Sony Vegas Pro, Final Cut Pro, Edius Pro gibi çoğunlukla profesyonel kullanıcıların ve post-prodüksiyon ekiplerinin tercih ettiği yazılımlar farklı özelliklere sahip paket ve eklentilere göre belirlenen ücret karşılığında lisanslanarak kullanılabilir. Bunların yanında çoğunlukla amatör ve kişisel kullanıcıların rağbet ettiği Openshot, VSDC Free Video Editör, Lightworks, Shotcut gibi hareketli görüntü işleme yazılımları ise ücretsiz olarak kullanılabilir Cevap E seçeneğidir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi amatör ve yarı profesyonel kullanıcılar için geliştirilmiş hareketli sayısal görüntü işleme programıdır?</p>",
+        "A": "<p>Sony Vegas</p>",
+        "B": "<p>Final Cut</p>",
+        "C": "<p>Adobe Premiere</p>",
+        "D": "<p>Avid Media Composer</p>",
+        "E": "<p>Openshot</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 19
     },
     {
         "QuestionId": 3353261,
@@ -285,7 +301,7 @@
         "E": "<p>Adobe Premiere</p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 19
+        "QuestionNumber": 20
     },
     {
         "QuestionId": 3353262,
@@ -301,7 +317,103 @@
         "E": "<p>AdobeRGB</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 20
+        "QuestionNumber": 19
+    },
+    {
+        "QuestionId": 3353235,
+        "UniteNo": 7,
+        "PageNumber": 227,
+        "AnswerExplanation": "<p>Hareketli görüntülerin işlenmesinde <em>doğrusal olmayan düzenleme </em>(ing.Non-Linear Editing) ve kurgu yazılımlarının gelişimi bu alanda çalışan amatör ve profesyonel içerik üreticilerinin işle­rini oldukça kolaylaştırmıştır. Bu yazılımlarla manyetik kayıt ünitelerinden doğrusal olarak işlem yapılabilen analog sistemlerde karşılaşılan zorluklar aşılarak görüntüye istenildiği noktadan erişilebilen bir düzenleme çerçevesine geçilmiştir.</p>",
+        "Title": "",
+        "Text": "<p>Hareketli görüntülerin işlenmesinde <em>-----------------</em>ve kurgu yazılımlarının gelişimi,  bu alanda çalışan amatör ve profesyonel içerik üreticilerinin işle­rini oldukça kolaylaştırmıştır.</p>\n<p>Yukarıda boş bırakılan yeri aşağıdakilerden hangisi doğru tamamlar?</p>",
+        "A": "<p>doğrusal olmayan düzenleme</p>",
+        "B": "<p>analog sistemlerle çalışma kolaylığı</p>",
+        "C": "<p>dijital talep</p>",
+        "D": "<p>zaman baskısı</p>",
+        "E": "<p>sosyal medya kullanımı</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 2
+    },
+    {
+        "QuestionId": 3353241,
+        "UniteNo": 7,
+        "PageNumber": 241,
+        "AnswerExplanation": "<p>Ağırlıklı olarak profesyonel kullanıcıların tercih ettiği bir sayısal hareketli görüntü düzenleme yazılımı olan Premier Pro’nun temel özelliklerinden bazılarıları şunlardır:</p>\n<ul>\n<li>Adobe yaratıcı takım uygulamalarıyla entegre çalışabilmesi</li>\n<li>Görüntü ve ses filtrelerinin çeşitliliği</li>\n<li>360 derece video desteği</li>\n<li>Sanal gerçeklik video desteği</li>\n<li>Bulut üzerinden başkalarıyla iş birliği içerisinde çalışabilme242</li>\n<li><strong> Her türlü kaynaktan gelen video içeriğini import edebilme </strong></li>\n<li>Yüzlerce farklı dosya formatıyla uyumlu ça­lışabilme</li>\n<li>Birden fazla kamerayla gerçekleştirilen çe­kimlerde otomatik senkronizasyon özelliği</li>\n<li>Mobil uygulamalarla entegre çalışılabilmesi</li>\n<li>Çeşitli eklentilerle sonradan yeni özellikler ekleyebilme</li>\n</ul>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi sayısal hareketli görüntü düzenleme yazılımı olan Premier Pro’nun temel özelliklerinden biri <u>değildir?</u></p>",
+        "A": "<p>Adobe yaratıcı takım uygulamalarıyla entegre çalışabilmesi</p>",
+        "B": "<p>Görüntü ve ses filtrelerinin çeşitliliği</p>",
+        "C": "<p>Sınırlı kaynaklardan gelen video içeriğini import edebilme</p>",
+        "D": "<p>Sanal gerçeklik video desteği</p>",
+        "E": "<p>Bulut üzerinden başkalarıyla iş birliği içerisinde çalışabilme</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 6
+    },
+    {
+        "QuestionId": 3353243,
+        "UniteNo": 7,
+        "PageNumber": 253,
+        "AnswerExplanation": "<p>Fotoğraflarımızı kendi kişisel blog sitemizde tam ekran yüksek çözünürlüklü paylaşmak istersek 1920x1080 piksel, Facebook profil fotoğrafı boyutu 180x180 piksel, Instagram paylaşım görseli boyutu 1080x1080 (kare), 1080x1350 (dikey) pikseldir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi Facebook profil fotoğrafı boyutudur?</p>",
+        "A": "<p>1920x1080 piksel</p> ",
+        "B": "<p>180x180 piksel</p> ",
+        "C": "<p>1080x1080 (kare) piksel</p> ",
+        "D": "<p>1080x1350 (dikey) piksel</p> ",
+        "E": "<p>3840x12160 piksel</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null,
+        "QuestionNumber": 7
+    },
+    {
+        "QuestionId": 3353249,
+        "UniteNo": 7,
+        "PageNumber": 238,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İyileştirici (Healing Brush) Fırça Paneli: Bu kısım üzerinden fotoğraf üzerinde istenmeyen leke ve dokuları temizlemek için iyileştirici fırçayı kullanarak gerekli müdahaleleri yapabiliriz.</p> </div> </div> </div> </div>",
+        "Title": "<div class=\"page\" title=\"Page 13\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>İyileştirici (Healing Brush) Fırça Paneli: Bu kısım üzerinden fotoğraf üzerinde istenmeyen leke ve dokuları temizlemek için iyileştirici fırçayı kullanarak gerekli müdahaleleri yapabiliriz.</p>\n</div>\n</div>\n</div>\n</div>",
+        "Text": "<p>Aşağıdaki seçeneklerde yer alan panellerden hangisi fotoğraf üzerinde istenmeyen leke ve dokuları temizlemek için gerekli müdahalelerin yapılabildiği paneldir?</p>",
+        "A": "<div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fotoğraf Ekleme Paneli</p> </div> </div> </div> </div>",
+        "B": "<div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fotoğraf Düzenleme (Edit) Paneli</p> </div> </div> </div> </div>",
+        "C": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kırpma ve Çevirme Paneli</p> </div> </div> </div> </div>",
+        "D": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İyileştirici (Healing Brush) Fırça Paneli</p> </div> </div> </div> </div>",
+        "E": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fırça, Doğrusal ve Dairesel Gradyan Paneli</p> </div> </div> </div> </div>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null,
+        "QuestionNumber": 13
+    },
+    {
+        "QuestionId": 3353256,
+        "UniteNo": 7,
+        "PageNumber": 228,
+        "AnswerExplanation": "<p>Vektör grafikleri, vektör şekilleri veya vektör nesneleri olarak da adlandırılan vektörel görüntüler ise görüntü işleme ve tasarım yazılımları tarafından matematiksel denklemler aracılığıyla sayısal olarak oluşturulurlar. Bu nedenle çözünürlükleri bağımsız olduğu için büyütüldüklerinde ayrıntılarını kaybetmezler. En yaygın dosya türleri. AI, EPS, SVG, CDR ve PDF’dir.  Cevap B seçeneğidir.</p>",
+        "Title": "",
+        "Text": "<p>Vektör grafikleri, vektör şekilleri veya vektör nesneleri olarak da adlandırılan vektörel görüntüleri içeren dosya türü aşağıdakilerden hangisidir?</p>",
+        "A": "<p>OBJ</p>",
+        "B": "<p>PDF</p>",
+        "C": "<p>DWF</p>",
+        "D": "<p>STL</p>",
+        "E": "<p>MGF</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null,
+        "QuestionNumber": 16
+    },
+    {
+        "QuestionId": 3353257,
+        "UniteNo": 7,
+        "PageNumber": 229,
+        "AnswerExplanation": "<p>Sıkıştırılmamış format görüntü dosyasının oluşturulması sırasında yer alan tüm ham veriyi içerisinde bulundurur. Bu sıkıştırma türü görüntünün renk, ışık vb. tüm bilgilerini ham olarak barındırdığı için dosyanın boyutu depolama biriminde çok daha fazla yer kaplar. Bu başlığa uyan ve en sık kullanılan sıkıştırmasız format ise RAW’dır.  Cevap D seçeneğidir.</p>",
+        "Title": "",
+        "Text": "<p>Hareketsiz sayısal görüntülerde tüm ham veriyi içerisinde bulunduran ve sıkıştırılmamış format biçiminde saklayan <u>en yaygın</u> dosya türü aşağıdakilerden hangisidir?</p>",
+        "A": "<p>JPEG</p>",
+        "B": "<p>GIF</p>",
+        "C": "<p>TIFF</p>",
+        "D": "<p>RAW</p>",
+        "E": "<p>PNG</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null,
+        "QuestionNumber": 17
     },
     {
         "QuestionId": 3353263,
@@ -320,22 +432,6 @@
         "QuestionNumber": 20
     },
     {
-        "QuestionId": 3353234,
-        "UniteNo": 7,
-        "PageNumber": 227,
-        "AnswerExplanation": "<p>Hareketsiz görüntünün sayısallaştırılarak bilgi­sayar ortamına taşınmasıyla beraber pek çok farklı işlev ve özelliği bir arada yürütebilen Adobe Pho­toshop ve Lightroom, Corel PaintShop Pro gibi profesyonel görüntü işleme yazılımların yanında <strong>Picasa, Gimp gibi tüketici düzeyinde daha basit arayüzlerle çalışan ve çoğunlukla ücretsiz uygula­malar da ardı ardına ortaya çıkarak kullanıcıların beğenisine sunulmuştur.</strong></p>",
-        "Title": "",
-        "Text": "<p>I. Adobe Pho­toshop</p>\n<p>II. Corel PaintShop Pro</p>\n<p>III. Picasa</p>\n<p>IV. Gimp</p>\n<p>Yukarıdaki uygulamalardan hangisi/hangileri tüketici düzeyinde basit arayüzlerle çalışır?</p>",
-        "A": "<p>Yalnız I</p>",
-        "B": "<p>Yalnız II</p>",
-        "C": "<p>I,II</p>",
-        "D": "<p>I,II,III</p>",
-        "E": "<p>III,IV</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
-    },
-    {
         "QuestionId": 3353244,
         "UniteNo": 7,
         "PageNumber": 227,
@@ -349,7 +445,7 @@
         "E": "<p>NLE</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 7
+        "QuestionNumber": 8
     },
     {
         "QuestionId": 3353245,
@@ -365,39 +461,7 @@
         "E": "<p>Değerler beş rakamlı bilgisayar veri algoritmasına uygun bir biçimde kodlanarak sayısallaştırılır.</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 8
-    },
-    {
-        "QuestionId": 3353248,
-        "UniteNo": 7,
-        "PageNumber": 228,
-        "AnswerExplanation": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>3 boyutlu görüntü formatının en yaygın dosya türleri OBJ, DWF, MAX, STL ve MGF’dir.</p> </div> </div> </div> </div>",
-        "Title": "<p>E seçeneği hariç diğerleri diğer görüntü formatlarının dosya türleridir.</p>",
-        "Text": "<p>Aşağıdaki seçeneklerden hangisi 3 boyutlu görüntü formatı kapsamında yer alan dosya türlerinden birisidir?</p>",
-        "A": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>GIF</p> </div> </div> </div> </div>",
-        "B": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>AI</p> </div> </div> </div> </div>",
-        "C": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>TIFF</p> </div> </div> </div> </div>",
-        "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>PDF</p> </div> </div> </div> </div>",
-        "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>MAX</p> </div> </div> </div> </div>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
-    },
-    {
-        "QuestionId": 3353249,
-        "UniteNo": 7,
-        "PageNumber": 238,
-        "AnswerExplanation": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İyileştirici (Healing Brush) Fırça Paneli: Bu kısım üzerinden fotoğraf üzerinde istenmeyen leke ve dokuları temizlemek için iyileştirici fırçayı kullanarak gerekli müdahaleleri yapabiliriz.</p> </div> </div> </div> </div>",
-        "Title": "<div class=\"page\" title=\"Page 13\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>İyileştirici (Healing Brush) Fırça Paneli: Bu kısım üzerinden fotoğraf üzerinde istenmeyen leke ve dokuları temizlemek için iyileştirici fırçayı kullanarak gerekli müdahaleleri yapabiliriz.</p>\n</div>\n</div>\n</div>\n</div>",
-        "Text": "<p>Aşağıdaki seçeneklerde yer alan panellerden hangisi fotoğraf üzerinde istenmeyen leke ve dokuları temizlemek için gerekli müdahalelerin yapılabildiği paneldir?</p>",
-        "A": "<div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fotoğraf Ekleme Paneli</p> </div> </div> </div> </div>",
-        "B": "<div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fotoğraf Düzenleme (Edit) Paneli</p> </div> </div> </div> </div>",
-        "C": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kırpma ve Çevirme Paneli</p> </div> </div> </div> </div>",
-        "D": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İyileştirici (Healing Brush) Fırça Paneli</p> </div> </div> </div> </div>",
-        "E": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fırça, Doğrusal ve Dairesel Gradyan Paneli</p> </div> </div> </div> </div>",
-        "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "QuestionNumber": 9
     },
     {
         "QuestionId": 3353255,
@@ -412,70 +476,6 @@
         "D": "<p>SVG</p>",
         "E": "<p>CDR</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
-    },
-    {
-        "QuestionId": 3353257,
-        "UniteNo": 7,
-        "PageNumber": 229,
-        "AnswerExplanation": "<p>Sıkıştırılmamış format görüntü dosyasının oluşturulması sırasında yer alan tüm ham veriyi içerisinde bulundurur. Bu sıkıştırma türü görüntünün renk, ışık vb. tüm bilgilerini ham olarak barındırdığı için dosyanın boyutu depolama biriminde çok daha fazla yer kaplar. Bu başlığa uyan ve en sık kullanılan sıkıştırmasız format ise RAW’dır.  Cevap D seçeneğidir.</p>",
-        "Title": "",
-        "Text": "<p>Hareketsiz sayısal görüntülerde tüm ham veriyi içerisinde bulunduran ve sıkıştırılmamış format biçiminde saklayan <u>en yaygın</u> dosya türü aşağıdakilerden hangisidir?</p>",
-        "A": "<p>JPEG</p>",
-        "B": "<p>GIF</p>",
-        "C": "<p>TIFF</p>",
-        "D": "<p>RAW</p>",
-        "E": "<p>PNG</p>",
-        "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
-    },
-    {
-        "QuestionId": 3353260,
-        "UniteNo": 7,
-        "PageNumber": 240,
-        "AnswerExplanation": "<p>Adobe Premiere Pro, Avid Media Composer, Sony Vegas Pro, Final Cut Pro, Edius Pro gibi çoğunlukla profesyonel kullanıcıların ve post-prodüksiyon ekiplerinin tercih ettiği yazılımlar farklı özelliklere sahip paket ve eklentilere göre belirlenen ücret karşılığında lisanslanarak kullanılabilir. Bunların yanında çoğunlukla amatör ve kişisel kullanıcıların rağbet ettiği Openshot, VSDC Free Video Editör, Lightworks, Shotcut gibi hareketli görüntü işleme yazılımları ise ücretsiz olarak kullanılabilir Cevap E seçeneğidir.</p>",
-        "Title": "",
-        "Text": "<p>Aşağıdakilerden hangisi amatör ve yarı profesyonel kullanıcılar için geliştirilmiş hareketli sayısal görüntü işleme programıdır?</p>",
-        "A": "<p>Sony Vegas</p>",
-        "B": "<p>Final Cut</p>",
-        "C": "<p>Adobe Premiere</p>",
-        "D": "<p>Avid Media Composer</p>",
-        "E": "<p>Openshot</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
-    },
-    {
-        "QuestionId": 3353251,
-        "UniteNo": 7,
-        "PageNumber": 250,
-        "AnswerExplanation": "<div class=\"page\" title=\"Page 25\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>RGB, kırmızı, yeşil ve mavi renklerinden oluşur. CMYK, cam göbeği, eflatun, sarı ve siyah renklerinden oluşur.</p> </div> </div> </div> </div>",
-        "Title": "<p>RGB, kırmızı, yeşil ve mavi renklerinden oluşur. CMYK, cam göbeği, eflatun, sarı ve siyah renklerinden oluşur.</p>",
-        "Text": "<p>Aşağıdaki seçeneklerden yer alan hangi renk RBG renk uzayında yer alan renklerden birisidir?</p>",
-        "A": "<div class=\"page\" title=\"Page 25\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Cam göbeği</p> </div> </div> </div> </div>",
-        "B": "<div class=\"page\" title=\"Page 25\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Eflatun</p> </div> </div> </div> </div>",
-        "C": "<div class=\"page\" title=\"Page 25\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sarı</p> </div> </div> </div> </div>",
-        "D": "<div class=\"page\" title=\"Page 25\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Siyah</p> </div> </div> </div> </div>",
-        "E": "<p>Kırmızı</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
-    },
-    {
-        "QuestionId": 3353256,
-        "UniteNo": 7,
-        "PageNumber": 228,
-        "AnswerExplanation": "<p>Vektör grafikleri, vektör şekilleri veya vektör nesneleri olarak da adlandırılan vektörel görüntüler ise görüntü işleme ve tasarım yazılımları tarafından matematiksel denklemler aracılığıyla sayısal olarak oluşturulurlar. Bu nedenle çözünürlükleri bağımsız olduğu için büyütüldüklerinde ayrıntılarını kaybetmezler. En yaygın dosya türleri. AI, EPS, SVG, CDR ve PDF’dir.  Cevap B seçeneğidir.</p>",
-        "Title": "",
-        "Text": "<p>Vektör grafikleri, vektör şekilleri veya vektör nesneleri olarak da adlandırılan vektörel görüntüleri içeren dosya türü aşağıdakilerden hangisidir?</p>",
-        "A": "<p>OBJ</p>",
-        "B": "<p>PDF</p>",
-        "C": "<p>DWF</p>",
-        "D": "<p>STL</p>",
-        "E": "<p>MGF</p>",
-        "CorrectAnswer": "B",
         "UserAnswer": null,
         "QuestionNumber": 14
     }

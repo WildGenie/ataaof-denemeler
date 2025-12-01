@@ -16,11 +16,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 108033,
-        "SoruMetni": "...................................., bir tasarımda metin ögelerinin nereye, nasıl, ne şekilde yerleştirileceğinin kurallarını ortaya koyar.<br/> <br/>​<strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "...................................., bir tasarımda metin ögelerinin nereye, nasıl, ne şekilde yerleştirileceğinin kurallarını ortaya koyar.<br/>​<strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Ölçü",
         "B": "Tipografi",
         "C": "Biçim",
@@ -35,11 +36,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 111047,
-        "SoruMetni": "I.   Uzunluk<br/> <br/>​II.  Darlık<br> <br/>​III. Derinlik<br> <br/>IV. Genişlik<br> <br/>​<strong>Yukarıdakilerden hangisi ya da hangileri rengin boyutları arasında <u>yer almaz</u>?</strong></br></br></br>",
+        "SoruMetni": "I. Uzunluk<br/>​II. Darlık<br/>​III. Derinlik<br/>IV. Genişlik<br/>​<strong>Yukarıdakilerden hangisi ya da hangileri rengin boyutları arasında <u>yer almaz</u>?</strong></br></br></br>",
         "A": "Yalnız II",
         "B": "Yalnız III",
         "C": "Yalnız IV",
@@ -54,11 +56,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 111164,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi kırmızı rengin özelliklerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi kırmızı rengin özelliklerinden biri <u>değildir</u>?</strong>",
         "A": "Dalga boyu en yüksek renktir.",
         "B": "En fazla dikkat çeken, en sıcak renktir.",
         "C": "Frekansı en yüksek olan renktir.",
@@ -73,11 +76,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 111211,
-        "SoruMetni": "I. İzleyicinin psikolojik durumu<br/> <br/>​II. Tasarımın bütünselliği<br> <br/>​III. İzleyicinin demografik özellikleri<br> <br/>​<strong>Yukarıdakilerden hangisi ya da hangileri görsel tasarıma ilişkin anlamın değişiklik göstermesine etki eden etmenlerdendir?</strong></br></br>",
+        "SoruMetni": "I. İzleyicinin psikolojik durumu<br/>​II. Tasarımın bütünselliği<br/>​III. İzleyicinin demografik özellikleri<br/>​<strong>Yukarıdakilerden hangisi ya da hangileri görsel tasarıma ilişkin anlamın değişiklik göstermesine etki eden etmenlerdendir?</strong></br></br>",
         "A": "Yalnız II",
         "B": "I ve III",
         "C": "II ve III",
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 127887,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 127901,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 166572,
@@ -149,7 +156,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 166573,
@@ -168,7 +176,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 166576,
@@ -187,7 +196,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 166577,
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 166580,
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 175984,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 175986,
@@ -263,7 +276,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 175988,
@@ -282,11 +296,12 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 175990,
-        "SoruMetni": "Yoğunluğu fazla olan renkler ..................... renklerdir.<br/> <br/><strong>Cümledeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Yoğunluğu fazla olan renkler ..................... renklerdir.<br/><strong>Cümledeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Açık",
         "B": "Koyu",
         "C": "Pastel",
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 175991,
@@ -320,7 +336,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 175993,
@@ -339,7 +356,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 175995,
@@ -358,7 +376,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 175997,
@@ -377,7 +396,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 294772,
@@ -396,7 +416,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 325120,
@@ -415,11 +436,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 327826,
-        "SoruMetni": "I. Uzunluk<br/> <br/>II. Genişlik<br> <br/>III. Derinlik<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri rengin boyutunu oluşturmaktadır?</strong></br></br>",
+        "SoruMetni": "I. Uzunluk<br/>II. Genişlik<br/>III. Derinlik<br/><strong>Yukarıdakilerden hangisi ya da hangileri rengin boyutunu oluşturmaktadır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -434,7 +456,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 327833,
@@ -453,11 +476,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 327836,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi temel tasarım ögelerinin algılanması süreci konusunda, bir tasarımda bulunması gereken temel özelliklerden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi temel tasarım ögelerinin algılanması süreci konusunda, bir tasarımda bulunması gereken temel özelliklerden biri <u>değildir</u>?</strong>",
         "A": "Biçim",
         "B": "Hareket",
         "C": "Derinlik",
@@ -472,7 +496,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 393859,
@@ -491,7 +516,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 393860,
@@ -510,6 +536,7 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     }
 ]

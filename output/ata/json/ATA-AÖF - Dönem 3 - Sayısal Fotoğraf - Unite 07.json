@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 173334,
@@ -35,11 +36,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 173335,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi reklam ve tanıtım fotoğrafçılığında kullanılan yardımcı araç-gereçlerden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi reklam ve tanıtım fotoğrafçılığında kullanılan yardımcı araç-gereçlerden biri <u>değildir</u>?</strong>",
         "A": "Teleskop",
         "B": "Objektif",
         "C": "Fon sistemi",
@@ -54,11 +56,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 173336,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi reklam ve tanıtım fotoğrafçılığında bulunması gereken niteliklerden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi reklam ve tanıtım fotoğrafçılığında bulunması gereken niteliklerden biri <u>değildir</u>?</strong>",
         "A": "Reklamı yapılan ürün veya hizmet hedef kitleye net bir şekilde aktarılmalıdır.",
         "B": "Anlaşılırlığı kolay olmalıdır.",
         "C": "Toplumsal olaylara karşı duyarlılık oluşturmalıdır.",
@@ -73,7 +76,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 173337,
@@ -92,15 +96,16 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 173338,
         "SoruMetni": "<strong>Aşağıdakilerden hangisi manzara fotoğrafında ufuk çizgisinin kadrajdaki yerinin doğru konumlandırıldığı orandır?</strong>",
-        "A": "1/3<br/>",
+        "A": "1/3",
         "B": "3/3",
         "C": "3/4",
-        "D": "4/1<br/> <br/><br> <br/></br>",
+        "D": "4/1<br/></br>",
         "E": "4/3",
         "DogruCevap": "A",
         "DersAd": "Sayısal Fotoğraf",
@@ -111,7 +116,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 173339,
@@ -130,11 +136,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 173340,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi mimari fotoğrafçılıkta kullanılan ekipmanlardan biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi mimari fotoğrafçılıkta kullanılan ekipmanlardan biri <u>değildir</u>?</strong>",
         "A": "Tilt-shift objektif",
         "B": "Büyük format körüklü makineler",
         "C": "Üçayak",
@@ -149,7 +156,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 173355,
@@ -168,11 +176,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 173359,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi makro objektiflerin özelliklerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi makro objektiflerin özelliklerinden biri <u>değildir</u>?</strong>",
         "A": "Çıplak gözle göremediğimiz detayları gösterir.",
         "B": "Ultra geniş açıya sahiptir.",
         "C": "Yakın çekimlerde keskin görüntüler verir.",
@@ -187,11 +196,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 178552,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi basın fotoğrafının işlevlerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi basın fotoğrafının işlevlerinden biri <u>değildir</u>?</strong>",
         "A": "Bildirmek",
         "B": "Eğlendirmek",
         "C": "Geleceğe belge bırakmak",
@@ -206,11 +216,12 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 178553,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi haber fotoğrafının teknik niteliklerinden biri  <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi haber fotoğrafının teknik niteliklerinden biri <u>değildir</u>?</strong>",
         "A": "Fotoğrafın netliği",
         "B": "Canlı renklere sahip olması",
         "C": "Fotoğrafın doğru pozlanmış olması",
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 178554,
@@ -244,11 +256,12 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 178555,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi reklam ve tanıtım fotoğrafçılığı türlerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi reklam ve tanıtım fotoğrafçılığı türlerinden biri <u>değildir</u>?</strong>",
         "A": "Endüstriyel fotoğraf",
         "B": "Yiyecek-içecek fotoğrafı",
         "C": "Moda fotoğrafı",
@@ -263,11 +276,12 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 178556,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi makro fotoğrafçılıkta kullanılan yardımcı araç gereçlerden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi makro fotoğrafçılıkta kullanılan yardımcı araç gereçlerden biri <u>değildir</u>?</strong>",
         "A": "Yakınlaştırıcı (close-up) filtreler",
         "B": "Üçayak",
         "C": "Makro flaş",
@@ -282,7 +296,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 178557,
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 178558,
@@ -320,7 +336,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 178559,
@@ -339,7 +356,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 178560,
@@ -358,7 +376,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 331793,
@@ -377,7 +396,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 331796,
@@ -396,7 +416,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 331798,
@@ -415,7 +436,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 331801,
@@ -434,7 +456,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 331803,
@@ -453,6 +476,7 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     }
 ]

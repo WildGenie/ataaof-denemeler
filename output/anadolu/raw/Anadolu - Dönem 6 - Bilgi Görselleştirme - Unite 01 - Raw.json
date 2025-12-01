@@ -12,8 +12,7 @@
         "D": "<p>Teknolojik gelişmelerin yavaşlaması.</p> ",
         "E": "<p>Sanayi devriminin sona ermesi.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763475,
@@ -28,8 +27,7 @@
         "D": "<p>Tamamen durmuştur.</p> ",
         "E": "<p>Sadece seçkinler için mümkün hale gelmiştir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763476,
@@ -44,8 +42,7 @@
         "D": "<p>Yalnızca bilim insanları için önemli olduğunu</p> ",
         "E": "<p>Teknoloji ile çok ilgili olmadığını</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763477,
@@ -60,8 +57,7 @@
         "D": "<p>Bilginin değerini düşürmüştür</p> ",
         "E": " <p>Bilgiyi gereksiz hale getirmiştir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763478,
@@ -76,8 +72,7 @@
         "D": "<p>Veri analiz edilmemiş ham, bilgi işlenmiş veridir.</p> ",
         "E": "<p>Hiçbir fark yoktur, aynı şeylerdir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763479,
@@ -92,8 +87,7 @@
         "D": "<p>Tüm bilgileri kabul etmek.</p> ",
         "E": "<p>Bilgiye erişimi sınırlandırmak.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763480,
@@ -108,8 +102,7 @@
         "D": "<p>Bilgi bombardımanı içinde önemli bilgileri ayıklamanın zorlaşması</p> ",
         "E": "<p>Görsel tasarımın estetik değerinin artması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763481,
@@ -124,8 +117,7 @@
         "D": "<p>70'lerin sonunda</p>",
         "E": "<p>60'ların ortasında</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763482,
@@ -140,8 +132,7 @@
         "D": "<p>Yeni bilgi üretmek</p> ",
         "E": "<p>Bilgiyi netleştirerek alıcının algısına aktarmak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763483,
@@ -156,8 +147,7 @@
         "D": "<p>Bilgiyi saklamak ve arşivlemek</p> ",
         "E": "<p>Yeni grafik teknikleri geliştirmek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763484,
@@ -172,8 +162,7 @@
         "D": "<p>Dijital platformlarda bilgi paylaşımı yapmaAyrıntılı</p>",
         "E": "<p>Bilgi ihtiyaçlarını karşılamak için verilerin analizi ve anlaşılır sunumu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763485,
@@ -188,8 +177,7 @@
         "D": "<p>Yalnızca estetik ve sanatsal ifade</p>",
         "E": "<p>Bilgisayar programlama ve kodlama bilgisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763486,
@@ -204,8 +192,7 @@
         "D": "<p>Bilgiyi saklamak ve arşivlemekle</p>",
         "E": "<p>Yeni grafik teknikleri geliştirmekle</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763487,
@@ -220,8 +207,7 @@
         "D": "<p>Bilgi görselleştirme ile grafik tasarım arasında dolaylı ve bütüncül bir etkileşim vardır.</p>",
         "E": "<p>Bilgi görselleştirme yalnızca sanatsal ifade için kullanılırken, grafik tasarım mesaj iletimi odaklıdır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763488,
@@ -236,8 +222,7 @@
         "D": "<p>İnteraktif Tasarım</p>",
         "E": "<p>Dijital Medya Tasarımı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763489,
@@ -252,8 +237,7 @@
         "D": "<p>Görsellerin boyutlarını ayarlamak</p>",
         "E": "<p>İletişim kanallarını seçmek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763490,
@@ -268,8 +252,7 @@
         "D": "<p>Hedef kitle analizi</p>",
         "E": "<p> Pazar araştırması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763491,
@@ -284,8 +267,7 @@
         "D": "<p>Her ikisi de yalnızca dijital medyada uygulanır.</p>",
         "E": "<p>Her ikisi de yalnızca yazılı basında kullanılır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763492,
@@ -300,8 +282,7 @@
         "D": "<p>Problemin tanımlanması</p>",
         "E": "<p>Tasarım Ortamı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763493,
@@ -316,7 +297,6 @@
         "D": "<p>Tasarım Ortamı<br /> </p>",
         "E": "<p>Problemin tanımlanması<br /> </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

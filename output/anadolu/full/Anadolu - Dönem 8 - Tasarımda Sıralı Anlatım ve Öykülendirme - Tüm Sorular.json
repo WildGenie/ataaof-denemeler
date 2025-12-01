@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3833671,
-        "SoruMetni": "Sens tarafından geliştirilen TRADE Sistemi (Conceptual Framework of Transmedia Design), transmedya tasarımını her biri kendi alt bileşenlerine sahip kaç boyut üzerinden ele almaktadır?<br/>",
+        "SoruMetni": "Sens tarafından geliştirilen TRADE Sistemi (Conceptual Framework of Transmedia Design), transmedya tasarımını her biri kendi alt bileşenlerine sahip kaç boyut üzerinden ele almaktadır?",
         "A": "2",
         "B": "3",
         "C": "4",
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sens (2021) tarafından ortaya konan TRADE Sistemi (Conceptual framework of transmedia designTRADE System), transmedya tasarımını, her biri alt bileşenlere sahip üç boyut üzerinden ele alan bir kavramsal çerçevedir.  Bu boyutlar:  Endüstriyel ve pazarlama boyutu; Bilgi ve iletişim boyutu ve Estetik ve deneyimsel boyuttur."
+        "Aciklama": "Sens (2021) tarafından ortaya konan TRADE Sistemi (Conceptual framework of transmedia designTRADE System), transmedya tasarımını, her biri alt bileşenlere sahip üç boyut üzerinden ele alan bir kavramsal çerçevedir. Bu boyutlar: Endüstriyel ve pazarlama boyutu; Bilgi ve iletişim boyutu ve Estetik ve deneyimsel boyuttur."
     },
     {
         "SoruID": 3833674,
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3833691,
-        "SoruMetni": "Hangisi, Pratten'in  Transmedya Hikâyeciliğin 3K’sı (The Three C’s of<br/>Transmedia Storytelling) olarak adlandırdığı içeriği doğru olarak sıralamıştır?",
+        "SoruMetni": "Hangisi, Pratten'in Transmedya Hikâyeciliğin 3K’sı (The Three C’s of<br/>Transmedia Storytelling) olarak adlandırdığı içeriği doğru olarak sıralamıştır?",
         "A": "Plot / Kolaylık / Düğüm",
         "B": "Hikaye / Karakterler / Fanlar",
         "C": "Hikaye / Karakterler / Olay",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3833696,
-        "SoruMetni": "Pratten’a göre transmedya hikâyeciliği kaç türde incelenebilir?",
+        "SoruMetni": "Pratten’a göre transmedya hikâyeciliği kaç türde incelenebilir?",
         "A": "4",
         "B": "7",
         "C": "2",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 3833703,
-        "SoruMetni": "Transmedya evrenlerindeki hikâyeler, her izleyicinin kendine özgü bir deneyim yaşamasına imkân tanımaktadır. İzleyiciler, bu hikâyeleri kendi yaşam deneyimleriyle birleştirerek, karakterlerle daha güçlü bir empati kurmaktadırlar.<br/> Yukarıdaki paragraf Robert Pratten’in kurguladığı transmedya tasarımının 7 İlkesinden hangisini tarif etmektedir?",
+        "SoruMetni": "Transmedya evrenlerindeki hikâyeler, her izleyicinin kendine özgü bir deneyim yaşamasına imkân tanımaktadır. İzleyiciler, bu hikâyeleri kendi yaşam deneyimleriyle birleştirerek, karakterlerle daha güçlü bir empati kurmaktadırlar.<br/>Yukarıdaki paragraf Robert Pratten’in kurguladığı transmedya tasarımının 7 İlkesinden hangisini tarif etmektedir?",
         "A": "Yayılma",
         "B": "Kalıcılık",
         "C": "Kişiselleştirme",
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yapay zekâ tarafından üretilen içeriklerin sahiplik hakları, tasarım ve sanat  dünyasında önemli etik kaygılar yaratmaktadır. Özellikle, yapay zekâ tarafından üretilen görsellerin kime ait olduğu ve telif hakkı konularında net bir yasal çerçeve olmaması, bu konuda belirsizliklere yol açmaktadır. Doğru cevap B'dir."
+        "Aciklama": "Yapay zekâ tarafından üretilen içeriklerin sahiplik hakları, tasarım ve sanat dünyasında önemli etik kaygılar yaratmaktadır. Özellikle, yapay zekâ tarafından üretilen görsellerin kime ait olduğu ve telif hakkı konularında net bir yasal çerçeve olmaması, bu konuda belirsizliklere yol açmaktadır. Doğru cevap B'dir."
     },
     {
         "SoruID": 3832328,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hikâye anlatıcısı olarak yapay zekânın oluşturduğu riskler şunlardır:<br/><br/>Etik Kaygılar, Yaratıcı Sınırlamalar, Kültürel Önyargı, Yanlış Bilgilendirme, Bağımlılık ve Beceri Erozyonu.<br/><br/>Doğru cevap E'dir."
+        "Aciklama": "Hikâye anlatıcısı olarak yapay zekânın oluşturduğu riskler şunlardır:<br/>Etik Kaygılar, Yaratıcı Sınırlamalar, Kültürel Önyargı, Yanlış Bilgilendirme, Bağımlılık ve Beceri Erozyonu.<br/>Doğru cevap E'dir."
     },
     {
         "SoruID": 3832330,
@@ -401,7 +401,7 @@
     },
     {
         "SoruID": 3833451,
-        "SoruMetni": "Bilgisayarlar ile yaratılan gerçeklikleri tanımlamak için genişletilmiş gerçeklikten önce Paul Milgram ve Fumio Kishino’nun öne sürdüğü gerçeklik skalası kullanılmıştır. Bu skala kaç aşamadan oluşmaktadır?",
+        "SoruMetni": "Bilgisayarlar ile yaratılan gerçeklikleri tanımlamak için genişletilmiş gerçeklikten önce Paul Milgram ve Fumio Kishino’nun öne sürdüğü gerçeklik skalası kullanılmıştır. Bu skala kaç aşamadan oluşmaktadır?",
         "A": "4",
         "B": "2",
         "C": "5",
@@ -417,11 +417,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgisayarlar ile yaratılan gerçeklikleri tanımlamak için genişletilmiş gerçeklikten önce Paul Milgram ve Fumio Kishino’nun öne sürdüğü gerçeklik skalası kullanılmıştır. Bu skala dört aşamadan oluşmaktadır. Dolayısıyla cevap A şıkkıdır."
+        "Aciklama": "Bilgisayarlar ile yaratılan gerçeklikleri tanımlamak için genişletilmiş gerçeklikten önce Paul Milgram ve Fumio Kishino’nun öne sürdüğü gerçeklik skalası kullanılmıştır. Bu skala dört aşamadan oluşmaktadır. Dolayısıyla cevap A şıkkıdır."
     },
     {
         "SoruID": 3833453,
-        "SoruMetni": "Genişletilmiş gerçekliğin transmedya anlatıları kapsamında değerlendirebilmesi için bu ortamın doğası kaç açıdan kavranmalıdır ?",
+        "SoruMetni": "Genişletilmiş gerçekliğin transmedya anlatıları kapsamında değerlendirebilmesi için bu ortamın doğası kaç açıdan kavranmalıdır ?",
         "A": "5",
         "B": "2",
         "C": "6",
@@ -437,11 +437,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Genişletilmiş gerçekliğin transmedya anlatıları kapsamında değerlendirebilmesi için bu ortamın doğası iki açıdan kavranmalıdır. Dolayısıyla cevap B şıkkıdır."
+        "Aciklama": "Genişletilmiş gerçekliğin transmedya anlatıları kapsamında değerlendirebilmesi için bu ortamın doğası iki açıdan kavranmalıdır. Dolayısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3833454,
-        "SoruMetni": "İnsanların birbirleri veya kitleler ile iletişime geçmek için kullandığı aracılara ortam/medyum denilmektedir. Örnek olarak radyo bir ortamdır. Aşağıdaki hangi ortamlar iletişim çalışmaları altında “geleneksel ortamlar” veya “geleneksel medya” olarak adlandırılmaktadırlar ?<br/> i) Televizyon,<br/> ii) Kitaplar,<br/> iii) Basılı medya,<br/> iv) Dijital platformlar",
+        "SoruMetni": "İnsanların birbirleri veya kitleler ile iletişime geçmek için kullandığı aracılara ortam/medyum denilmektedir. Örnek olarak radyo bir ortamdır. Aşağıdaki hangi ortamlar iletişim çalışmaları altında “geleneksel ortamlar” veya “geleneksel medya” olarak adlandırılmaktadırlar ?<br/>i) Televizyon,<br/>ii) Kitaplar,<br/>iii) Basılı medya,<br/>iv) Dijital platformlar",
         "A": "i ve ii",
         "B": "ii ve iii",
         "C": "i, ii ve iii",
@@ -457,11 +457,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İnsanların birbirleri veya kitleler ile iletişime geçmek için kullandığı aracılara ortam/medyum denilmektedir. Örnek olarak radyo bir ortamdır. Televizyon, kitaplar, basılı medya gibi ortamlar, iletişim çalışmaları altında “geleneksel ortamlar” veya “geleneksel medya” olarak adlandırılmaktadırlar. Dolayısıyla cevap C şıkkıdır."
+        "Aciklama": "İnsanların birbirleri veya kitleler ile iletişime geçmek için kullandığı aracılara ortam/medyum denilmektedir. Örnek olarak radyo bir ortamdır. Televizyon, kitaplar, basılı medya gibi ortamlar, iletişim çalışmaları altında “geleneksel ortamlar” veya “geleneksel medya” olarak adlandırılmaktadırlar. Dolayısıyla cevap C şıkkıdır."
     },
     {
         "SoruID": 3833455,
-        "SoruMetni": "Literatürde birçok farklı tanım ve özellik sıralamaları bulunsa da Gary Zabel’ın sanal dünyalar için belirlediği genel özellikler genişletilmiş gerçekliğin ve anlatısının doğasını gözler önüne sermeye en yakın olanıdır. Bu özellikler kaç maddede tanımlanmıştır ?",
+        "SoruMetni": "Literatürde birçok farklı tanım ve özellik sıralamaları bulunsa da Gary Zabel’ın sanal dünyalar için belirlediği genel özellikler genişletilmiş gerçekliğin ve anlatısının doğasını gözler önüne sermeye en yakın olanıdır. Bu özellikler kaç maddede tanımlanmıştır ?",
         "A": "4",
         "B": "2",
         "C": "3",
@@ -477,11 +477,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Literatürde birçok farklı tanım ve özellik sıralamaları bulunsa da Gary Zabel’ın sanal dünyalar için belirlediği genel özellikler genişletilmiş gerçekliğin ve anlatısının doğasını gözler önüne sermeye en yakın olanıdır. Bu özellikler sırasıyla aşağıdaki maddelerde tanımlanmıştır:<br/>• Gömülme (Immersion)<br/>• Etkileşim (Interaction)<br/>• Kimliğin muğlaklığı (Ambiguity of Identity)<br/>• Çevresel akışkanlık (Environmental Fluidity)<br/>• Yapay Eylemsellik (Artificial Agency)<br/>• Ağ temelli iş birliği (Networked Collaboration)<br/> Dolayısıyla cevap D şıkkıdır."
+        "Aciklama": "Literatürde birçok farklı tanım ve özellik sıralamaları bulunsa da Gary Zabel’ın sanal dünyalar için belirlediği genel özellikler genişletilmiş gerçekliğin ve anlatısının doğasını gözler önüne sermeye en yakın olanıdır. Bu özellikler sırasıyla aşağıdaki maddelerde tanımlanmıştır:<br/>• Gömülme (Immersion)<br/>• Etkileşim (Interaction)<br/>• Kimliğin muğlaklığı (Ambiguity of Identity)<br/>• Çevresel akışkanlık (Environmental Fluidity)<br/>• Yapay Eylemsellik (Artificial Agency)<br/>• Ağ temelli iş birliği (Networked Collaboration)<br/>Dolayısıyla cevap D şıkkıdır."
     },
     {
         "SoruID": 3833456,
-        "SoruMetni": "Gobbins parkuru yüzyıldan fazla bir zaman önce tasarlanmış olsa da hangi yüzyılın uzamsal anlatılarına ışık tutmaktadır ?",
+        "SoruMetni": "Gobbins parkuru yüzyıldan fazla bir zaman önce tasarlanmış olsa da hangi yüzyılın uzamsal anlatılarına ışık tutmaktadır ?",
         "A": "20. yüzyıl",
         "B": "17.yüzyıl",
         "C": "19. yüzyıl",
@@ -497,11 +497,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gobbins parkuru yüzyıldan fazla bir zaman önce tasarlanmış olsa da 21. yüzyılın uzamsal anlatılarına ışık tutmaktadır. Dolayısıyla cevap E şıkkıdır."
+        "Aciklama": "Gobbins parkuru yüzyıldan fazla bir zaman önce tasarlanmış olsa da 21. yüzyılın uzamsal anlatılarına ışık tutmaktadır. Dolayısıyla cevap E şıkkıdır."
     },
     {
         "SoruID": 3833458,
-        "SoruMetni": "Uzamsal anlatıların yapısının anlaşılması, genişletilmiş gerçeklik anlatıları için son derece önemlidir. Genişletilmiş gerçekliğin kullanıcılarının karşısına anlatıların uzam ile ilişkisi, çoğu anlatıda ön plana çıkan en çok kaç alt türü vardır ?",
+        "SoruMetni": "Uzamsal anlatıların yapısının anlaşılması, genişletilmiş gerçeklik anlatıları için son derece önemlidir. Genişletilmiş gerçekliğin kullanıcılarının karşısına anlatıların uzam ile ilişkisi, çoğu anlatıda ön plana çıkan en çok kaç alt türü vardır ?",
         "A": "2",
         "B": "6",
         "C": "4",
@@ -517,11 +517,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uzamsal anlatıların yapısının anlaşılması, genişletilmiş gerçeklik anlatıları için son derece önemlidir. Genişletilmiş gerçekliğin kullanıcılarının karşısına en çok çıkan iki alt türü olan artırılmış gerçeklik ve sanal gerçeklik anlatılarının uzam ile ilişkisi, çoğu anlatıda ön plana çıkmaktadır. Dolayısıyla cevap A şıkkıdır."
+        "Aciklama": "Uzamsal anlatıların yapısının anlaşılması, genişletilmiş gerçeklik anlatıları için son derece önemlidir. Genişletilmiş gerçekliğin kullanıcılarının karşısına en çok çıkan iki alt türü olan artırılmış gerçeklik ve sanal gerçeklik anlatılarının uzam ile ilişkisi, çoğu anlatıda ön plana çıkmaktadır. Dolayısıyla cevap A şıkkıdır."
     },
     {
         "SoruID": 3833459,
-        "SoruMetni": "Yeni medya anlatıları konusunda öncül ve en önemli kaynaklardan biri “Hamlet on the Holodeck” (2016) (Holodeck’de Hamlet) isimli kitaptır. Bu kitabın yazarı aşağıdaki hangi seçenekte belirtilmiştir?",
+        "SoruMetni": "Yeni medya anlatıları konusunda öncül ve en önemli kaynaklardan biri “Hamlet on the Holodeck” (2016) (Holodeck’de Hamlet) isimli kitaptır. Bu kitabın yazarı aşağıdaki hangi seçenekte belirtilmiştir?",
         "A": "Ivan Sutherland",
         "B": "Janet H. Murray",
         "C": "Tricia Austin",
@@ -537,11 +537,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeni medya anlatıları konusunda öncül ve en önemli kaynaklardan biri Janet H. Murray’in “Hamlet on the Holodeck” (2016) (Holodeck’de Hamlet) isimli kitabıdır. Dolayısıyla cevap B şıkkıdır."
+        "Aciklama": "Yeni medya anlatıları konusunda öncül ve en önemli kaynaklardan biri Janet H. Murray’in “Hamlet on the Holodeck” (2016) (Holodeck’de Hamlet) isimli kitabıdır. Dolayısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3833460,
-        "SoruMetni": "Ultima Online’ın baş tasarımcısı Ralph Koster, kaç farklı etkileşimli anlatı tipi tanımlamaktadır ?",
+        "SoruMetni": "Ultima Online’ın baş tasarımcısı Ralph Koster, kaç farklı etkileşimli anlatı tipi tanımlamaktadır ?",
         "A": "6",
         "B": "4",
         "C": "2",
@@ -557,11 +557,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ultima Online’ın baş tasarımcısı Ralph Koster, dayatmaya dayalı olanlar ve açık olanlar olarak iki farklı etkileşimli anlatı tipi tanımlamaktadır. Dolayısıyla cevap C şıkkıdr."
+        "Aciklama": "Ultima Online’ın baş tasarımcısı Ralph Koster, dayatmaya dayalı olanlar ve açık olanlar olarak iki farklı etkileşimli anlatı tipi tanımlamaktadır. Dolayısıyla cevap C şıkkıdr."
     },
     {
         "SoruID": 3833461,
-        "SoruMetni": "Nicolae sanal gerçeklik ortamlarında bedenlenen kullanıcıların anlatı içerisinde kaç farklı rolde yer aldıklarını gözlemlemiştir ?",
+        "SoruMetni": "Nicolae sanal gerçeklik ortamlarında bedenlenen kullanıcıların anlatı içerisinde kaç farklı rolde yer aldıklarını gözlemlemiştir ?",
         "A": "5",
         "B": "2",
         "C": "6",
@@ -577,11 +577,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nicolae (2018) sanal gerçeklik ortamlarında bedenlenen kullanıcıların anlatı içerisinde 3 farklı rolde yer aldıklarını gözlemlemiştir. Dolayısıyla cevap D şıkkıdır."
+        "Aciklama": "Nicolae (2018) sanal gerçeklik ortamlarında bedenlenen kullanıcıların anlatı içerisinde 3 farklı rolde yer aldıklarını gözlemlemiştir. Dolayısıyla cevap D şıkkıdır."
     },
     {
         "SoruID": 3833462,
-        "SoruMetni": "Genişletilmiş gerçeklik ile yapılan transmedya anlatılar kaç farklı başlık altında desenlenmiştir ?",
+        "SoruMetni": "Genişletilmiş gerçeklik ile yapılan transmedya anlatılar kaç farklı başlık altında desenlenmiştir ?",
         "A": "4",
         "B": "6",
         "C": "2",
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Genişletilmiş gerçeklik ile yapılan transmedya anlatılar üç farklı başlık altında desenlenmiştir. Dolayısıyla cevap E şıkkıdır."
+        "Aciklama": "Genişletilmiş gerçeklik ile yapılan transmedya anlatılar üç farklı başlık altında desenlenmiştir. Dolayısıyla cevap E şıkkıdır."
     },
     {
         "SoruID": 3830894,
@@ -621,7 +621,7 @@
     },
     {
         "SoruID": 3830896,
-        "SoruMetni": "Aşağıdakilerden hangisi  İyi geliştirilmiş karakterler anlatsına sahip oyunlara örnektir?",
+        "SoruMetni": "Aşağıdakilerden hangisi İyi geliştirilmiş karakterler anlatsına sahip oyunlara örnektir?",
         "A": "Tomb Raider",
         "B": "Assassin’s Creed",
         "C": "Pac-man",
@@ -661,12 +661,12 @@
     },
     {
         "SoruID": 3830898,
-        "SoruMetni": "Kurgusal bir evrenin temelini oluşturan arka plan hikâyeleri, mitler, efsaneler ve yerleşik bilgiler koleksiyonunu ifade eden terim aşağıdakilerden hangisidir?<br/>",
-        "A": "Transmedya<br/>",
-        "B": "Kanon<br/>",
-        "C": "Lor<br/>",
-        "D": "Makinima<br/>",
-        "E": "Kurgu<br/>",
+        "SoruMetni": "Kurgusal bir evrenin temelini oluşturan arka plan hikâyeleri, mitler, efsaneler ve yerleşik bilgiler koleksiyonunu ifade eden terim aşağıdakilerden hangisidir?",
+        "A": "Transmedya",
+        "B": "Kanon",
+        "C": "Lor",
+        "D": "Makinima",
+        "E": "Kurgu",
         "DogruCevap": "C",
         "DersAd": "Tasarımda Sıralı Anlatım ve Öykülendirme",
         "Unite": 4,
@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lor: Kurgusal bir evrenin temelini oluşturan arka plan hikâyeleri, mitler, efsaneler ve yerleşik bilgiler koleksiyonunu ifade eder. Bu bilgiler tutarlı ve sürükleyici bir dünya yaratan tarih, kültür, kurallar, karakterler, olaylar ve diğer unsurları içerir.<br/>"
+        "Aciklama": "Lor: Kurgusal bir evrenin temelini oluşturan arka plan hikâyeleri, mitler, efsaneler ve yerleşik bilgiler koleksiyonunu ifade eder. Bu bilgiler tutarlı ve sürükleyici bir dünya yaratan tarih, kültür, kurallar, karakterler, olaylar ve diğer unsurları içerir."
     },
     {
         "SoruID": 3831043,
@@ -761,7 +761,7 @@
     },
     {
         "SoruID": 3831057,
-        "SoruMetni": "Pac-Man hangi yıl  Hanna-Barbera tarafından üretilen bir animasyon televizyon dizisine uyarlanmıştır?",
+        "SoruMetni": "Pac-Man hangi yıl Hanna-Barbera tarafından üretilen bir animasyon televizyon dizisine uyarlanmıştır?",
         "A": "1963",
         "B": "1975",
         "C": "1982",
@@ -781,11 +781,11 @@
     },
     {
         "SoruID": 3831058,
-        "SoruMetni": "Aşağıdakilerden hangisi Pac-Man oyunu örneğinin transmedya hikâye anlatımı ve markalaşma ilkeleri açısından taşıdığı temel unsurlardan <span style=\"text-decoration: underline;\">biri değildir</span>?",
+        "SoruMetni": "Aşağıdakilerden hangisi Pac-Man oyunu örneğinin transmedya hikâye anlatımı ve markalaşma ilkeleri açısından taşıdığı temel unsurlardan <span style=\"text-decoration: underline;\">biri değildir</span>?",
         "A": "Markanın birden fazla platformda varlık göstermesi",
         "B": "Markalaşma sürecindeki tutarlılık",
         "C": "Markanın kitle etkileşimi",
-        "D": "Animasyon dizisi ve ticari ürünler ile  hayran kitlesini genişletmesi",
+        "D": "Animasyon dizisi ve ticari ürünler ile hayran kitlesini genişletmesi",
         "E": "Aceleye getirilmiş prodüksiyonun riskleri",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Sıralı Anlatım ve Öykülendirme",
@@ -797,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pac-Man oyunu örneği, transmedya hikâye anlatımı ve markalaşma ilkeleri açısından temel bazı<br/>unsurları vurgulamaktadır. Bunlardan birincisi markanın birden fazla platformda varlık göstermesidir.<br/>Pac-Man’in televizyon, müzik ve ticari ürünler de<br/>dahil olmak üzere çeşitli medyalara yayılması, orijinal video oyunu formatının ötesine geçtiğini göstermektedir. Bu çapraz platform varlığı Pac-Man’in on<br/>yıllar boyunca popülaritesini korumasına ve artırmasına yardımcı olmuştur. İkinci önemli nokta ise<br/>markalaşma sürecindeki tutarlılıkta karşımıza çıkar.<br/>Pac-Man karakteri ve oyunun ayırt edici görsel ve<br/>işitsel unsurları farklı mecralarda tutarlı kalmıştır.<br/>Bu tutarlılık markanın güçlenmesine ve anında tanınabilir olmasına yardımcı olmuştur. Üçüncü nokta<br/>olarak markanın kitle etkileşimini sayabiliriz. PacMan, oyuncu olmayanlar da dahil olmak üzere geniş<br/>bir kitleye hitap eden içerikler yaratarak farklı bir<br/>demografinin ilgisini çekmeyi başarmıştır. Özellikle<br/>animasyon dizisi ve ticari ürünler, karakteri çocuklar<br/>ve aileler için erişilebilir kılarak hayran kitlesini genişletmiştir."
+        "Aciklama": "Pac-Man oyunu örneği, transmedya hikâye anlatımı ve markalaşma ilkeleri açısından temel bazı<br/>unsurları vurgulamaktadır. Bunlardan birincisi markanın birden fazla platformda varlık göstermesidir.<br/>Pac-Man’in televizyon, müzik ve ticari ürünler de<br/>dahil olmak üzere çeşitli medyalara yayılması, orijinal video oyunu formatının ötesine geçtiğini göstermektedir. Bu çapraz platform varlığı Pac-Man’in on<br/>yıllar boyunca popülaritesini korumasına ve artırmasına yardımcı olmuştur. İkinci önemli nokta ise<br/>markalaşma sürecindeki tutarlılıkta karşımıza çıkar.<br/>Pac-Man karakteri ve oyunun ayırt edici görsel ve<br/>işitsel unsurları farklı mecralarda tutarlı kalmıştır.<br/>Bu tutarlılık markanın güçlenmesine ve anında tanınabilir olmasına yardımcı olmuştur. Üçüncü nokta<br/>olarak markanın kitle etkileşimini sayabiliriz. PacMan, oyuncu olmayanlar da dahil olmak üzere geniş<br/>bir kitleye hitap eden içerikler yaratarak farklı bir<br/>demografinin ilgisini çekmeyi başarmıştır. Özellikle&lt;br<br>Pac-Man oyunu örneği, transmedya hikâye anlatımı ve markalaşma ilkeleri açısından temel bazı<br/>unsurları vurgulamaktadır. Bunlardan birincisi markanın birden fazla platformda varlık göstermesidir.<br/>Pac-Man’in televizyon, müzik ve ticari ürünler de<br/>dahil olmak üzere çeşitli medyalara yayılması, orijinal video oyunu formatının ötesine geçtiğini göstermektedir. Bu çapraz platform varlığı Pac-Man’in on<br/>yıllar boyunca popülaritesini korumasına ve artırmasına yardımcı olmuştur. İkinci önemli nokta ise<br/>markalaşma sürecindeki tutarlılıkta karşımıza çıkar.<br/>Pac-Man karakteri ve oyunun ayırt edici görsel ve<br/>işitsel unsurları farklı mecralarda tutarlı kalmıştır.<br/>Bu tutarlılık markanın güçlenmesine ve anında tanınabilir olmasına yardımcı olmuştur. Üçüncü nokta<br/>olarak markanın kitle etkileşimini sayabiliriz. PacMan, oyuncu olmayanlar da dahil olmak üzere geniş<br/>bir kitleye hitap eden içerikler yaratarak farklı bir<br/>demografinin ilgisini çekmeyi başarmıştır. Özellikle<br/>animasyon dizisi ve ticari ürünler, karakteri çocuklar<br/>ve aileler için erişilebilir kılarak hayran kitlesini genişletmiştir."
     },
     {
         "SoruID": 3834588,
@@ -837,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu soru, video oyunlarındaki anlatı yapısının teknolojik gelişmelerle nasıl evrildiğini anlamaya yöneliktir. “Space Invaders” (1978) gibi erken dönem oyunlar, temel olarak oyun mekaniğine dayalı, oldukça basit ve sınırlı hikâyelere sahiptir. Bu tür oyunlarda karakter gelişimi, karmaşık olay örgüsü ya da duygusal derinlik bulunmaz. Buna karşılık, teknolojinin ilerlemesiyle birlikte geliştirilen “Final Fantasy”, “Mass Effect”, “The Witcher” ve “The Last of Us” gibi yapımlar; derinlemesine kurgulanmış anlatılar, detaylı karakter gelişimleri ve zengin evrenlerle dikkat çeker. Dolayısıyla “Space Invaders”, anlatı derinliğinin teknolojik gelişmelere paralel olarak arttığı oyunlar arasında yer almaz."
+        "Aciklama": "Konu: Oyunlarda Anlatı Derinliğinin Evrimi<br>Bu soru, video oyunlarındaki anlatı yapısının teknolojik gelişmelerle nasıl evrildiğini anlamaya yöneliktir. “Space Invaders” (1978) gibi erken dönem oyunlar, temel olarak oyun mekaniğine dayalı, oldukça basit ve sınırlı hikâyelere sahiptir. Bu tür oyunlarda karakter gelişimi, karmaşık olay örgüsü ya da duygusal derinlik bulunmaz. Buna karşılık, teknolojinin ilerlemesiyle birlikte geliştirilen “Final Fantasy”, “Mass Effect”, “The Witcher” ve “The Last of Us” gibi yapımlar; derinlemesine kurgulanmış anlatılar, detaylı karakter gelişimleri ve zengin evrenlerle dikkat çeker. Dolayısıyla “Space Invaders”, anlatı derinliğinin teknolojik gelişmelere paralel olarak arttığı oyunlar arasında yer almaz."
     },
     {
         "SoruID": 3839190,
@@ -857,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Soru video oyunlarındaki anlatı yapısının teknolojiyle gelişimine dayalı olarak sorulmuştur. “Space Invaders” (1978) gibi erken dönem oyunlar, hikâyesi minimal olan ve yalnızca oyun mekaniğine dayalı yapımlardır. Bu tür oyunlarda karakter gelişimi, olay örgüsü veya duygusal derinlik bulunmaz. Buna karşılık, teknolojinin ilerlemesiyle birlikte geliştirilen “Final Fantasy”, “Mass Effect”, “The Witcher” ve “The Last of Us” gibi oyunlar; karmaşık anlatılar, detaylı karakterler ve zengin evrenler sunarak anlatı derinliğini artırmışlardır. Bu nedenle, “Space Invaders” teknolojinin gelişmesiyle birlikte derinleşen hikâye anlatımıyla öne çıkan bir oyun değildir."
+        "Aciklama": "Oyunlarda Anlatı ve Transmedya Stratejileri Üzerindeki Etkisi / Oyunlarda Anlatı Derinliğinin Evrimi<br>Soru video oyunlarındaki anlatı yapısının teknolojiyle gelişimine dayalı olarak sorulmuştur. “Space Invaders” (1978) gibi erken dönem oyunlar, hikâyesi minimal olan ve yalnızca oyun mekaniğine dayalı yapımlardır. Bu tür oyunlarda karakter gelişimi, olay örgüsü veya duygusal derinlik bulunmaz. Buna karşılık, teknolojinin ilerlemesiyle birlikte geliştirilen “Final Fantasy”, “Mass Effect”, “The Witcher” ve “The Last of Us” gibi oyunlar; karmaşık anlatılar, detaylı karakterler ve zengin evrenler sunarak anlatı derinliğini artırmışlardır. Bu nedenle, “Space Invaders” teknolojinin gelişmesiyle birlikte derinleşen hikâye anlatımıyla öne çıkan bir oyun değildir."
     },
     {
         "SoruID": 3833628,
@@ -1001,7 +1001,7 @@
     },
     {
         "SoruID": 3833640,
-        "SoruMetni": "……………………………. okuma: Okuyucu metinleri üretenlerin niyetleri ve amaçlarına paralel bir şekilde okuma yaparak profesyonellerin bakış açısına bağlı kalır. <br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "……………………………. okuma: Okuyucu metinleri üretenlerin niyetleri ve amaçlarına paralel bir şekilde okuma yaparak profesyonellerin bakış açısına bağlı kalır. <br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Müzakereci",
         "B": "Karşıt",
         "C": "Hegemonik",
@@ -1077,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Transmedya"
+        "Aciklama": "<strong>Transmedya,</strong> hikâye anlatımının ve içeriğin farklı medya platformları üzerinden genişletilmesi<br/>ve entegre edilmesi anlamına gelir."
     },
     {
         "SoruID": 3832031,
@@ -1097,7 +1097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Konsept geliştirme"
+        "Aciklama": "Eğitsel Transmedya Projeleri Geliştirmede Tasarım İlkeleri sayfa 160 detaylı bkz.<br>Konsept geliştirme"
     },
     {
         "SoruID": 3832035,
@@ -1117,7 +1117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Andragoji Teorisi"
+        "Aciklama": "Knowles’in (1975) <strong>Andragoji Teorisiyle</strong> uyumlu olarak, öğrenenlerin kendi öğrenme süreçlerini yönetmelerine olanak tanır, böylece öğrenen özerkliğini destekler."
     },
     {
         "SoruID": 3832037,
@@ -1137,7 +1137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital Öğrenme"
+        "Aciklama": "Transmedya eğitimin özel eğitim alanındaki uygulamaları;<br/>• Çoklu duyusal öğrenme,<br/>• Bireyselleştirilmiş öğrenme,<br/>• Motivasyon ve katılım,<br/>• İletişim becerilerinin geliştirilmesi,<br/>• Sosyal etkileşim sağlanmasında faydalıdır.<br>Dijital Öğrenme"
     },
     {
         "SoruID": 3832040,
@@ -1157,7 +1157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Titreşim bazlı geri bildirim sağlayan interaktif uygulamalar"
+        "Aciklama": "Fiziksel engelli öğrenciler için:<br/>• Göz izleme teknolojisi veya ses kontrolü ile yönetilebilen interaktif uygulamalar<br/>geliştirilebilir.<br/>• Sanal gerçeklik ve artırılmış gerçeklik uygulamaları ile fiziksel olarak erişilemeyen<br/>deneyimler sağlanabilir.<br/>• Uyarlanabilir giriş cihazları kullanılarak çeşitli dijital içeriklerle etkileşim kurulabilir.<br>Titreşim bazlı geri bildirim sağlayan interaktif uygulamalar"
     },
     {
         "SoruID": 3832041,
@@ -1177,7 +1177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyun tasarımlarının pazarlanmasında"
+        "Aciklama": "Transmedya eğitim uygulamaları ayrıca farkındalık yaratma ve topluluk katılımı için Sivil Toplum Kuruluşlarında, transmedya dijital okuryazarlık programları ve interaktif hikâye anlatımı etkinlikleri için kütüphanelerde, çalışan eğitimi ve kurumsal sosyal sorumluluk projeleri için şirketlerde, destinasyon pazarlaması ve kültürel deneyim sunumu için turizm sektöründe, vatandaş katılımı ve topluluk eğitimi projeleri için yerel yönetimlerde, interaktif sergi deneyimleri ve sanat eğitimi programları gibi sanata yönelik olarak kullanılmaktadırlar.<br>Oyun tasarımlarının pazarlanmasında"
     },
     {
         "SoruID": 3832046,
@@ -1197,7 +1197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kalite yönetimi ve değerlendirme."
+        "Aciklama": "“Transmedya projeleri için öğretmen eğitiminin temel bileşenleri ve güncel araçların kullanımındaki” içerikleri sayfa 168 bkz.<br>Kalite yönetimi ve değerlendirme."
     },
     {
         "SoruID": 3832048,
@@ -1217,7 +1217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Demografik anket değerlendirmesi"
+        "Aciklama": "Trasnmedya ile Eğitimde Ölçme-Değerlendirme Yöntemleri için sayfa 170-171 detaylı bkz.<br>Demografik anket değerlendirmesi"
     },
     {
         "SoruID": 3832049,
@@ -1237,11 +1237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Performans değerlendirmesi"
+        "Aciklama": "Performans değerlendirmesi ise öğrencilerin proje boyunca gösterdikleri katılım ve etkinliği ölçer;<br/>bu da süreç odaklı bir yaklaşımın benimsenmesine olanak tanır. Örneğin bir çevre bilinci projesinde<br/>öğrencilerin sosyal medya kampanyası yürütme, topluluk etkinlikleri düzenleme ve veri toplama gibi<br/>faaliyetlerdeki performansları değerlendirilebilir."
     },
     {
         "SoruID": 3832052,
-        "SoruMetni": "Sağlıktan dil eğitimine kadar geniş bir yelpazede kullanılabilecek olan kısa, odaklanmış öğrenme deneyimlerini,  öğrenme materyalleri, farklı medya kanalları aracılığıyla bütünleşik bir hikâye olarak sunan bu kullanım, zaman ve mekân sınırlamalarını aşabilme, yaşam boyu öğrenme ve anlık bilgi edinme ihtiyaçlarına cevap verme potansiyeline sahip, Transmedya ile eğitimde güncel eğilimler ve geleceğe yönelik öngörü aşağıdakilerden hangisidir?",
+        "SoruMetni": "Sağlıktan dil eğitimine kadar geniş bir yelpazede kullanılabilecek olan kısa, odaklanmış öğrenme deneyimlerini, öğrenme materyalleri, farklı medya kanalları aracılığıyla bütünleşik bir hikâye olarak sunan bu kullanım, zaman ve mekân sınırlamalarını aşabilme, yaşam boyu öğrenme ve anlık bilgi edinme ihtiyaçlarına cevap verme potansiyeline sahip, Transmedya ile eğitimde güncel eğilimler ve geleceğe yönelik öngörü aşağıdakilerden hangisidir?",
         "A": "Veri Analitiği ve Öğrenme Analitiği",
         "B": "Mobil Öğrenme ve Mikro-Öğrenme",
         "C": "Oyunlaştırma ve Ciddi Oyunlar",
@@ -1257,7 +1257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mobil Öğrenme ve Mikro-Öğrenme"
+        "Aciklama": "<strong>Mobil Öğrenme ve Mikro-Öğrenme</strong><br/>Sağlıktan dil eğitimine kadar geniş bir yelpazede kullanılabilecek olan kısa, odaklanmış öğrenme deneyimleri sunan Transmedya projeleri mobil cihazlar üzerinden kullanılacak uygulamalar olarak geliştirilebilmektedir. Öğrenme materyalleri, farklı medya kanalları aracılığıyla bütünleşik bir hikâye olarak sunulabilmektedir. Bu kullanım, zaman ve mekân sınırlamalarını aşabilme, yaşam boyu öğrenme ve anlık bilgi edinme ihtiyaçlarına cevap verme potansiyeline sahiptir."
     },
     {
         "SoruID": 3832554,
@@ -1417,7 +1417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Video oyunları, çizgi filmler, kart oyunları gibi farklı platformlardaki hikayelerini devam ettiren transmedya örneğidir."
+        "Aciklama": "Video oyunları, çizgi filmler, kart oyunları gibi farklı platformlardaki hikayelerini devam ettiren transmedya örneğidir."
     },
     {
         "SoruID": 3832585,
@@ -1481,7 +1481,7 @@
     },
     {
         "SoruID": 3834017,
-        "SoruMetni": "“Grafik tasarımda bilgisayar teknolojisinin erken benimsenmesinde en önde gelen isimlerinden biri olan ………………………. , Macintosh bilgisayarın bir tasarım aracı olarak kullanılmasına öncülük etmesiyle tanınır.”<br/> <strong>İlgili boşluğa gelmesi gereken seçenek aşağıdakilerden hangisidir</strong>?",
+        "SoruMetni": "“Grafik tasarımda bilgisayar teknolojisinin erken benimsenmesinde en önde gelen isimlerinden biri olan ………………………. , Macintosh bilgisayarın bir tasarım aracı olarak kullanılmasına öncülük etmesiyle tanınır.”<br/><strong>İlgili boşluğa gelmesi gereken seçenek aşağıdakilerden hangisidir</strong>?",
         "A": "April Greiman",
         "B": "David Carson",
         "C": "Zuzanna Licko",
@@ -1501,7 +1501,7 @@
     },
     {
         "SoruID": 3834018,
-        "SoruMetni": "Dijital bilgileri fiziksel dünyanın üzerine entegre ederek, kullanıcıya hem gerçek hem sanal unsurların iç içe geçtiği harmanlanmış bir gerçeklik sunar ve hikâye anlatımını zenginleştirir. Kullanıcıların hikâyeyi üç boyutlu bir ortamda deneyimleyip etkileşime geçebildiği, tamamen sürükleyici bir deneyim sunar. Bu teknoloji, yüksek düzeyde katılım sağlayarak anlatıyı daha etkileyici hâle getirir. <br/><br/><strong>Bu tanım aşağıdaki kavramlardan hangisine aittir?</strong>",
+        "SoruMetni": "Dijital bilgileri fiziksel dünyanın üzerine entegre ederek, kullanıcıya hem gerçek hem sanal unsurların iç içe geçtiği harmanlanmış bir gerçeklik sunar ve hikâye anlatımını zenginleştirir. Kullanıcıların hikâyeyi üç boyutlu bir ortamda deneyimleyip etkileşime geçebildiği, tamamen sürükleyici bir deneyim sunar. Bu teknoloji, yüksek düzeyde katılım sağlayarak anlatıyı daha etkileyici hâle getirir. <br/><strong>Bu tanım aşağıdaki kavramlardan hangisine aittir?</strong>",
         "A": "Artırılmış Gerçeklik",
         "B": "Multimedya",
         "C": "Sosyal Medya",
@@ -1521,7 +1521,7 @@
     },
     {
         "SoruID": 3834019,
-        "SoruMetni": "“………………. , uyarlanabilir ve kişiselleştirilmiş hikâye anlatımı deneyimleri oluşturmak için kullanılır. Kullanıcı davranışını analiz ederek, anlatıyı gerçek zamanlı olarak değiştirebilir ve her kullanıcı için benzersiz bir deneyim sunabilir.”<br/> <strong>Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir? </strong>",
+        "SoruMetni": "“………………. , uyarlanabilir ve kişiselleştirilmiş hikâye anlatımı deneyimleri oluşturmak için kullanılır. Kullanıcı davranışını analiz ederek, anlatıyı gerçek zamanlı olarak değiştirebilir ve her kullanıcı için benzersiz bir deneyim sunabilir.”<br/><strong>Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir? </strong>",
         "A": "Artırılmış Gerçeklik",
         "B": "Yapay Zeka",
         "C": "Sanal Gerçeklik",
@@ -1621,7 +1621,7 @@
     },
     {
         "SoruID": 3834025,
-        "SoruMetni": "“Arayüz tasarımında interaktif hikâye anlatımının dikkate değer bir örneği, “thatgamecompany” tarafından 2012’de geliştirilen ödüllü ………….. oyunudur.”<br/> <strong>Cümlede bulunan boşluğa uygun seçenek aşağıdakilerden hangisidir? </strong>",
+        "SoruMetni": "“Arayüz tasarımında interaktif hikâye anlatımının dikkate değer bir örneği, “thatgamecompany” tarafından 2012’de geliştirilen ödüllü ………….. oyunudur.”<br/><strong>Cümlede bulunan boşluğa uygun seçenek aşağıdakilerden hangisidir? </strong>",
         "A": "Journey",
         "B": "Flow",
         "C": "Flower",
@@ -1641,7 +1641,7 @@
     },
     {
         "SoruID": 3834026,
-        "SoruMetni": "“Tasarımcılar, dijital içeriği gerçek dünyanın üzerine yerleştirmek için ……………………. teknolojisini kullanarak kullanıcıların fiziksel ortamlarında anlatıyla etkileşime girmelerini sağlar. Bu araç, ekranın ötesine geçen sürükleyici deneyimler yaratmada etkilidir.”<br/> <strong>Yukarıda boş bırakılan alana gelmesi gereken seçenek aşağıdakilerden hangisidir? </strong>",
+        "SoruMetni": "“Tasarımcılar, dijital içeriği gerçek dünyanın üzerine yerleştirmek için ……………………. teknolojisini kullanarak kullanıcıların fiziksel ortamlarında anlatıyla etkileşime girmelerini sağlar. Bu araç, ekranın ötesine geçen sürükleyici deneyimler yaratmada etkilidir.”<br/><strong>Yukarıda boş bırakılan alana gelmesi gereken seçenek aşağıdakilerden hangisidir? </strong>",
         "A": "Yapay Zeka",
         "B": "Sanal Gerçeklik",
         "C": "Artırılmış Gerçeklik",

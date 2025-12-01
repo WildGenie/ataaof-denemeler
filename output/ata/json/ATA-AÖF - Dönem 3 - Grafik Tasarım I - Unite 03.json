@@ -16,7 +16,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 321493,
@@ -35,11 +36,12 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 321494,
-        "SoruMetni": "I. Müşterinin hakkında net bir resim sunar.<br/> <br/>II. Eksik veya hatalı olması proje hedeflerinden uzaklaştırır.<br> <br/>III. Müşteriyi düşünmeye yönlendirir.<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri tasarımda “Yaratıcı Brief’” ile ilgilidir?</strong> </br></br>",
+        "SoruMetni": "I. Müşterinin hakkında net bir resim sunar.<br/>II. Eksik veya hatalı olması proje hedeflerinden uzaklaştırır.<br/>III. Müşteriyi düşünmeye yönlendirir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri tasarımda “Yaratıcı Brief’” ile ilgilidir?</strong> </br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -54,7 +56,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 321495,
@@ -73,11 +76,12 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 321496,
-        "SoruMetni": ".............................. ortaya atılan fikirleri topluca görmemizi sağlayan bir araç olup içeriği; metinler, görsel unsurlar ve bu unsurlar arasındaki yönlendirmelerden oluşur.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": ".............................. ortaya atılan fikirleri topluca görmemizi sağlayan bir araç olup içeriği; metinler, görsel unsurlar ve bu unsurlar arasındaki yönlendirmelerden oluşur.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Moodboard",
         "B": "Brief",
         "C": "Taslak",
@@ -92,11 +96,12 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 321497,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi tasarım alanlarında yaratıcılığı etkileyen faktörlerden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi tasarım alanlarında yaratıcılığı etkileyen faktörlerden biri <u>değildir</u>?</strong>",
         "A": "İşlevsellik",
         "B": "Sezgisel Yaklaşım",
         "C": "Hedef Kitle Beklentileri",
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 321498,
@@ -130,11 +136,12 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 321499,
-        "SoruMetni": "I. Konuya yaklaşım biçimi<br/> <br/>II. Tasarımcıların biyografileri<br> <br/>III. Ürün veya hizmetin analizi<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri tasarım araştırmalarının içeriğinde yer almalıdır?</strong> </br></br>",
+        "SoruMetni": "I. Konuya yaklaşım biçimi<br/>II. Tasarımcıların biyografileri<br/>III. Ürün veya hizmetin analizi<br/><strong>Yukarıdakilerden hangisi ya da hangileri tasarım araştırmalarının içeriğinde yer almalıdır?</strong> </br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 321500,
@@ -168,11 +176,12 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 325872,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi yaratıcı bir tasarımın özelliklerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi yaratıcı bir tasarımın özelliklerinden biri <u>değildir</u>?</strong>",
         "A": "İşlevsel olmak",
         "B": "Estetik olmak",
         "C": "Dikkat çekici olmak",
@@ -187,7 +196,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 325901,
@@ -206,11 +216,12 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 367655,
-        "SoruMetni": "I.   Projenin Ana Hedefi<br/> <br/>II.  Hedef kitle<br> <br/>III. Kullanılması düşünülen mecralar<br> <br/><strong>Başarılı olarak değerlendirilebilecek bir brief’in içeriğinde yukarıdakilerden hangisi ya da hangileri olmalıdır?</strong></br></br>",
+        "SoruMetni": "I. Projenin Ana Hedefi<br/>II. Hedef kitle<br/>III. Kullanılması düşünülen mecralar<br/><strong>Başarılı olarak değerlendirilebilecek bir brief’in içeriğinde yukarıdakilerden hangisi ya da hangileri olmalıdır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -225,11 +236,12 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 368350,
-        "SoruMetni": "Tasarımda yeni birlikteliklere yol açmak için kullanılan yöntemlerden biri tesadüfiliğin kullanımıdır.<br/> <br/><strong>Yukarıda belirtilen yöntem hangi düşünme biçimi içinde değerlendirilebilir?</strong>",
+        "SoruMetni": "Tasarımda yeni birlikteliklere yol açmak için kullanılan yöntemlerden biri tesadüfiliğin kullanımıdır.<br/><strong>Yukarıda belirtilen yöntem hangi düşünme biçimi içinde değerlendirilebilir?</strong>",
         "A": "Olgunlaştırmaya bırakarak düşünme",
         "B": "Görsel incelemelerle düşünme",
         "C": "Dikey düşünme",
@@ -244,11 +256,12 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 368353,
-        "SoruMetni": "Eskizler temel kavrama uygun olmak üzere daha rahat başlayabilir. Ardından kompozisyon ve layout üzerinde çalışılır. Yön seçildikten sonra konsept daha detaylı eskizler ile geliştirilebilir.<br/> <br/><strong>Yukarıda belirtilen çalışmalar yaratıcı sürecin hangi aşamasında gerçekleştirilir?</strong>",
+        "SoruMetni": "Eskizler temel kavrama uygun olmak üzere daha rahat başlayabilir. Ardından kompozisyon ve layout üzerinde çalışılır. Yön seçildikten sonra konsept daha detaylı eskizler ile geliştirilebilir.<br/><strong>Yukarıda belirtilen çalışmalar yaratıcı sürecin hangi aşamasında gerçekleştirilir?</strong>",
         "A": "Araştırma",
         "B": "Tasarım",
         "C": "Düzeltme",
@@ -263,7 +276,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 398629,
@@ -282,6 +296,7 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     }
 ]

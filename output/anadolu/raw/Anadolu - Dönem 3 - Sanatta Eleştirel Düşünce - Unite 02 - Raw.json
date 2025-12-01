@@ -45,7 +45,7 @@
         "E": "<div class=\"page\" title=\"Page 9\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Düzgün bir akıl yürütme olmasının kriteri geçerliliktir</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 3
+        "QuestionNumber": 1
     },
     {
         "QuestionId": 3354126,
@@ -61,7 +61,7 @@
         "E": "<p>Gelişim</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 3
+        "QuestionNumber": 5
     },
     {
         "QuestionId": 3354127,
@@ -77,7 +77,7 @@
         "E": "<p>Artbileşen</p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 6
+        "QuestionNumber": 5
     },
     {
         "QuestionId": 3354168,
@@ -93,7 +93,7 @@
         "E": "<p>Kurgu</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 4
+        "QuestionNumber": 7
     },
     {
         "QuestionId": 3354171,
@@ -109,7 +109,7 @@
         "E": "<p>Gerçek</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 6
+        "QuestionNumber": 7
     },
     {
         "QuestionId": 3354184,
@@ -125,7 +125,7 @@
         "E": "<p>Çıkarım</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 8
+        "QuestionNumber": 9
     },
     {
         "QuestionId": 3354185,
@@ -141,7 +141,7 @@
         "E": "<p>Önerme</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 9
+        "QuestionNumber": 10
     },
     {
         "QuestionId": 3354187,
@@ -157,7 +157,7 @@
         "E": "<p>Safsatalar</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 9
+        "QuestionNumber": 10
     },
     {
         "QuestionId": 3354284,
@@ -189,7 +189,7 @@
         "E": "<p>Tasavvur etme</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 13
     },
     {
         "QuestionId": 3354286,
@@ -205,7 +205,7 @@
         "E": "<p>Kuvvet</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 13
+        "QuestionNumber": 11
     },
     {
         "QuestionId": 3354292,
@@ -237,7 +237,7 @@
         "E": "Soru biçimindeki ifade",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 16
+        "QuestionNumber": 14
     },
     {
         "QuestionId": 3842728,
@@ -253,7 +253,7 @@
         "E": "<span>Düşünceyi sürekli değiştirme</span>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 16
+        "QuestionNumber": 15
     },
     {
         "QuestionId": 3842794,
@@ -269,7 +269,7 @@
         "E": "<span>Kuvvet (ikna edicilik)</span>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 18
+        "QuestionNumber": 17
     },
     {
         "QuestionId": 3842796,
@@ -285,7 +285,7 @@
         "E": "<span> Tümdengelim</span>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 18
+        "QuestionNumber": 17
     },
     {
         "QuestionId": 3842799,
@@ -301,7 +301,7 @@
         "E": "<span>Q; P ise Q; öyleyse P</span>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 19
+        "QuestionNumber": 18
     },
     {
         "QuestionId": 3842800,
@@ -317,7 +317,7 @@
         "E": "Modus Tollendo Ponens",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 20
+        "QuestionNumber": 19
     },
     {
         "QuestionId": 3354087,
@@ -333,7 +333,7 @@
         "E": "<p>Göz önüne getirme</p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 2
+        "QuestionNumber": 1
     },
     {
         "QuestionId": 3354095,
@@ -349,39 +349,23 @@
         "E": "<p>I-II ve III</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 3
-    },
-    {
-        "QuestionId": 3354096,
-        "UniteNo": 2,
-        "PageNumber": 52,
-        "AnswerExplanation": "<div class=\"page\" title=\"Page 13\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p style=\"text-align: justify;\">Tasım İki öncülü ve bir sonucu bulunan; küçük terim, orta terim ve büyük terim olmak üzere üç terimden oluşan çıkarımlardır. İlk kez Aristoteles tarafından incelenmişlerdir. Doğru cevap D'dir.</p>\n</div>\n</div>\n</div>\n</div>",
-        "Title": "",
-        "Text": "<div class=\"page\" title=\"Page 13\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p style=\"text-align: justify;\">Aşağıdakilerden hangisi ilk kez Aristoteles tarafından incelenmiş, iki öncülü ve bir sonucu bulunan; küçük terim, orta terim ve büyük terim olmak üzere üç terimden oluşan çıkarımdır.</p>\n</div>\n</div>\n</div>\n</div>",
-        "A": "<p>Formel Safsata</p>",
-        "B": "<div class=\"page\" title=\"Page 10\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Değilleyici Kip</p>\n</div>\n</div>\n</div>\n</div>",
-        "C": "<div class=\"page\" title=\"Page 13\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Artbileşenin Evetlenmesi</p>\n</div>\n</div>\n</div>\n</div>",
-        "D": "<p>Tasım</p>",
-        "E": "<div class=\"page\" title=\"Page 15\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Rasyonalite</p>\n</div>\n</div>\n</div>\n</div>",
-        "CorrectAnswer": "D",
-        "UserAnswer": null,
         "QuestionNumber": 2
     },
     {
-        "QuestionId": 3354125,
+        "QuestionId": 3354128,
         "UniteNo": 2,
-        "PageNumber": 56,
-        "AnswerExplanation": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p style=\"text-align: justify;\">Fikirlerini eleştiri süzgecinden geçirmeyen, sorgulamadan kabul eden ve fikirlerini ne olursa olsun değiştirmeyen yaklaşım dogmacılıktır. Doğru cevap C'dir.</p> </div> </div> </div> </div> </div> </div> </div> </div>",
+        "PageNumber": 51,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 12\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p style=\"text-align: justify;\">Önbileşenin Değillenmesi: İlk öncül olarak bir koşul önermesi barındırır. Adından da tahmin edilebileceği gibi ikinci öncülü, ilk öncüldeki koşullu önermenin önbileşeninin değillemesidir. Sonuç olarak da artbileşenin değillenmesine götüren bir safsatadır. Doğru cevap D'dir.</p>\n</div>\n</div>\n</div>\n</div>",
         "Title": "",
-        "Text": "<p>Aşağıdakilerden hangisi dogmacılık teriminin anlamı olarak verilmektedir?</p>",
-        "A": "<div class=\"page\" title=\"Page 16\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Düşünmeyi sürekli geliştirme amacıyla analiz etme ve değerlendirme uğraşı</p> </div> </div> </div> </div>",
-        "B": "<div class=\"page\" title=\"Page 15\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Başka seçenekler de bulunduğu halde iki seçenekten birinin seçilmek zorunda olduğu izlenimi verilerek gerçekleştirilen safsata</p> </div> </div> </div> </div>",
-        "C": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p style=\"text-align: justify;\">Fikirlerini eleştiri süzgecinden geçirmeyen, sorgulamadan kabul eden ve fikirlerini ne olursa olsun değiştirmeyen yaklaşım</p> </div> </div> </div> </div>",
-        "D": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fikirlerini hemen değiştirmeye meyilli olmasa da düzgün temellendirilmiş karşıt görüşler karşısında fikir değiştirmekten kaçınmayan tavır</p> </div> </div> </div> </div>",
-        "E": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Karşıt görüşler karşısında fikir değiştirmekte aceleci olan yaklaşım</p> </div> </div> </div> </div>",
-        "CorrectAnswer": "C",
+        "Text": "<div class=\"page\" title=\"Page 12\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p style=\"text-align: justify;\">İlk öncül olarak bir koşul önermesi barındıran, ardından da ikinci öncülü, ilk öncüldeki koşullu önermenin devamı olarak gören terim aşağıdakilerden hangisidir?</p>\n</div>\n</div>\n</div>\n</div>",
+        "A": "<p>İnformel safsata</p>",
+        "B": "<div class=\"page\" title=\"Page 10\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Formel safsata</p>\n</div>\n</div>\n</div>\n</div>",
+        "C": "<div class=\"page\" title=\"Page 13\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Artbileşenin evetlenmesi</p>\n</div>\n</div>\n</div>\n</div>",
+        "D": "<p>Önbileşeninin değillemesi</p>",
+        "E": "<p>Modus tollens</p>",
+        "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 3
+        "QuestionNumber": 6
     },
     {
         "QuestionId": 3354169,
@@ -400,86 +384,6 @@
         "QuestionNumber": 4
     },
     {
-        "QuestionId": 3354170,
-        "UniteNo": 2,
-        "PageNumber": 42,
-        "AnswerExplanation": "<p>Mantık</p>",
-        "Title": "<p>Mantık en temelde<br />“doğru öncülden yanlış sonuç çıkartmama”<br />prensibine göre işleyen bir disiplindir.</p>",
-        "Text": "<p>\".................. en temelde “doğru öncülden yanlış sonuç çıkartmama” prensibine göre işleyen bir disiplindir\" Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?</p>",
-        "A": "<p>Kurgu</p>",
-        "B": "<p>Akıl</p>",
-        "C": "<p>Mantık</p>",
-        "D": "<p>Gerçek</p>",
-        "E": "<p>Düş</p>",
-        "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
-    },
-    {
-        "QuestionId": 3354186,
-        "UniteNo": 2,
-        "PageNumber": 49,
-        "AnswerExplanation": "<p>Modus ponens</p>",
-        "Title": "<p>Modus Ponens: Modus ponens, koşul önermelerinde kullanılan bir çıkarım formudur. Koşul önermeleri<br />sıkça kullandığımız önermeler arasında yer alır ve bir şey olursa diğerinin de olacağını ifade eder. Örneğin,<br />“Ayşe eğer iyi çalışırsa başarır” cümlesi bir koşul cümlesidir ve ön bileşendeki önerme doğru olursa,<br />art bileşenin de zorunlu olarak doğru olacağını ifade eder. Başka bir deyişle, bu koşullu önerme eğer doğru<br />ise “Ayşe iyi çalıştı” önermesi doğruysa, “başardı” cümlesi de doğru olmak durumundadır.</p>",
-        "Text": "<p>Aşağıdakilerden hangisi “olumlayıcı kip” anlamına gelir?</p>",
-        "A": "<p>Tümevarım</p>",
-        "B": "<p>Önerim</p>",
-        "C": "<p>Çıkarım</p>",
-        "D": "<p>Modus ponens</p>",
-        "E": "<p>Değilleyici</p>",
-        "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
-    },
-    {
-        "QuestionId": 3354289,
-        "UniteNo": 2,
-        "PageNumber": 51,
-        "AnswerExplanation": "<p>Formel Safsatalar<br />Bu tip safsatalara örnek olarak pek çok safsata türü arasından en yaygın olanlarından iki tanesinden,<br />önbileşenin değillenmesi ve artbileşenin evetlenmesi safsatalarından bahsedeceğiz.<br />Önbileşenin Değillenmesi: İlk öncül olarak bir koşul önermesi barındırır. Adından da tahmin edilebileceği gibi ikinci öncülü, ilk öncüldeki koşullu önermenin önbileşeninin değillemesidir. Sonuç olarak da<br />artbileşenin değillenmesine götüren bir safsatadır. Dolayısıyla, formunu aşağıdaki şekilde gösterebiliriz.<br />P ise Q<br />Değil-P<br />Öyleyse, değil-Q<br />Bir örnekle gösterecek olursak<br />Ahmet İstanbul’a giderse sevinecek.<br />Ahmet İstanbul’a gitmedi.<br />Öyleyse, Ahmet sevinmedi.<br />Burada safsatanın koşul önermesine kastettiği şeyden daha fazlasını yüklemekten kaynaklı bir safsatadan söz edebiliriz. İlk öncül olan “Ahmet İstanbul’a giderse sevinecek” önermesi Ahmet’in İstanbul’a gittiği<br />koşuldaki durumda sevineceğinden bahsediyorken, gitmediği durumda ne olacağı ile ilgili bir şey söylememektedir. Zira Ahmet, İstanbul’a gitmediği durumda da başka bir nedenden ötürü sevinebilir. Mesela<br />bir arkadaşından hediye aldığını ve sevindiğini varsayalım. Bu pekâlâ mümkündür. Dolayısıyla, yukarıdaki<br />formdaki bir akıl yürütme bir safsatadır. Bu safsataya da “önbileşenin değillenmesi” adı verilmiştir.</p>",
-        "Title": "<p>Formel Safsatalar</p>",
-        "Text": "<p>Gülsüm annesi oyuncak alırsa sevinecek. <br />Annesi Gülsüm'e oyuncak almadı.<br />Öyleyse, Gülsüm sevinmedi.</p> <p>Yukarıdaki örnek hangi akıl yürütme biçimine örnektir?</p>",
-        "A": "<p>Tümevarım</p>",
-        "B": "<p>Tümdengelim</p>",
-        "C": "<p>İnformel safsata</p>",
-        "D": "<p>Formel safsata</p>",
-        "E": "<p>Analoji</p>",
-        "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
-    },
-    {
-        "QuestionId": 3842791,
-        "UniteNo": 2,
-        "PageNumber": 55,
-        "AnswerExplanation": "Doğru cevap D<br />Eleştirel düşünce, düşünmeyi sürekli geliştirme amacıyla analiz etme ve değerlendirme uğraşıdır. Başka bir şekilde ifade edilecek olursa eleştirel düşünce özerk bir biçimde sürekli kendini disipline eden, izleyen ve düzelten düşünceye verilen addır.",
-        "Title": "",
-        "Text": "<span>Eleştirel düşünce nedir?</span>",
-        "A": "Önermelerle tartışmayı reddetme yöntemi",
-        "B": "<span>Karar verirken başkalarının fikirlerini doğrudan kabul etme</span>",
-        "C": "<span>Duygulara göre yön belirleme süreci</span>",
-        "D": "<span>Düşünmeyi sürekli analiz etme ve geliştirme uğraşı</span>",
-        "E": "<span>Deneyimsiz karar alma süreci</span>",
-        "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
-    },
-    {
-        "QuestionId": 3354128,
-        "UniteNo": 2,
-        "PageNumber": 51,
-        "AnswerExplanation": "<div class=\"page\" title=\"Page 12\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p style=\"text-align: justify;\">Önbileşenin Değillenmesi: İlk öncül olarak bir koşul önermesi barındırır. Adından da tahmin edilebileceği gibi ikinci öncülü, ilk öncüldeki koşullu önermenin önbileşeninin değillemesidir. Sonuç olarak da artbileşenin değillenmesine götüren bir safsatadır. Doğru cevap D'dir.</p>\n</div>\n</div>\n</div>\n</div>",
-        "Title": "",
-        "Text": "<div class=\"page\" title=\"Page 12\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p style=\"text-align: justify;\">İlk öncül olarak bir koşul önermesi barındıran, ardından da ikinci öncülü, ilk öncüldeki koşullu önermenin devamı olarak gören terim aşağıdakilerden hangisidir?</p>\n</div>\n</div>\n</div>\n</div>",
-        "A": "<p>İnformel safsata</p>",
-        "B": "<div class=\"page\" title=\"Page 10\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Formel safsata</p>\n</div>\n</div>\n</div>\n</div>",
-        "C": "<div class=\"page\" title=\"Page 13\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Artbileşenin evetlenmesi</p>\n</div>\n</div>\n</div>\n</div>",
-        "D": "<p>Önbileşeninin değillemesi</p>",
-        "E": "<p>Modus tollens</p>",
-        "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
-    },
-    {
         "QuestionId": 3354172,
         "UniteNo": 2,
         "PageNumber": 47,
@@ -493,39 +397,7 @@
         "E": "<p>Tümdengelim</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 7
-    },
-    {
-        "QuestionId": 3354173,
-        "UniteNo": 2,
-        "PageNumber": 47,
-        "AnswerExplanation": "<p>Geçerlilik</p>",
-        "Title": "<p>Geçerlilik: Tümdengelimli bir akıl yürütmenin<br />düzgün bir çıkarım olma özelliğine;<br />yani, doğru olduğu verilen veya kabul<br />edilen öncüllerden doğru sonuca zorunlu<br />olarak götürme özelliğine geçerlilik denir.</p>",
-        "Text": "<p>Tümdengelimli bir akıl yürütmenin düzgün bir çıkarım olma özelliğine; yani, doğru olduğu verilen veya kabul edilen öncüllerden doğru sonuca zorunlu olarak götürme özelliğine ne denir?</p>",
-        "A": "<p>Geçerlilik</p>",
-        "B": "<p>Çıkarsama</p>",
-        "C": "<p>Algılama</p>",
-        "D": "<p>Yorum</p>",
-        "E": "<p>Öneri</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
         "QuestionNumber": 8
-    },
-    {
-        "QuestionId": 3354283,
-        "UniteNo": 2,
-        "PageNumber": 43,
-        "AnswerExplanation": "<p>Çıkarım: Akıl yürütmenin gözlemlenebildiği, öncül ve sonuçlardan oluşan bütün.</p> <p><br />Öncül: Doğru olduğu başlangıçta bilinen<br />veya kabul edilen önermeler.</p> <p><br />Sonuç: Öncüllerden çıkarım yoluyla elde<br />edilen yeni önerme.</p>",
-        "Title": "<p>Akıl Yürütme Olarak Düşünme</p>",
-        "Text": "<p>Doğru olduğu başlangıçta bilinen veya kabul edilen önermelere ne ad verilir?</p>",
-        "A": "<p>Akıl yürütme</p>",
-        "B": "<p>Öncül</p>",
-        "C": "<p>Çıkarım</p>",
-        "D": "<p>Sonuç</p>",
-        "E": "<p>Tümevarım</p>",
-        "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
     },
     {
         "QuestionId": 3354287,
@@ -541,23 +413,7 @@
         "E": "<p>Safsata</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 13
-    },
-    {
-        "QuestionId": 3354288,
-        "UniteNo": 2,
-        "PageNumber": 47,
-        "AnswerExplanation": "<p><br />Tümevarımlı akıl yürütme, elimizdeki tikel<br />öncüllerden tümelin bilgisini çıkardığımız akıl yürütme yöntemidir. Günümüz bilimsel yöntemi tümevarımlı akıl yürütmeye dayanır. Bunun nedeni,<br />modern bilimin doğa ile ilgili olayları (veya, genelin bilgisini) akıl yoluyla ve önsel olarak bildiğini<br />varsaymak yerine deney ve/veya gözleme başvurup<br />elde edilen verilerle hareket etmeye dayalı olmasıdır. Bir yanlışlığa neden olmamak açısından şuna<br />açıklık getirelim: Modern bilim tümdengelimli<br />çıkarıma başvurmaz demek istemiyoruz. Demek<br />istediğimiz şudur ki modern bilimlerde bilimsel<br />bilgiye ulaşmanın temel kaynağı tümevarımlı akıl<br />yürütmedir. Şimdi, tümevarım yöntemini bir örnek üzerinde inceleyelim.<br />T1 anında gözlemlediğim k1 kuğusu beyazdır.<br />T2 anında gözlemlediğim k2 kuğusu beyazdır.<br />T3 anında gözlemlediğim k3 kuğusu beyazdır.<br />.<br />.<br />Tn anında gözlemlediğim kn kuğusu beyazdır.<br />.<br />.<br />T287 anında gözlemlediğim k287 kuğusu beyazdır.<br />Öyleyse, tüm kuğular beyazdır.</p>",
-        "Title": "<p>Tümevarımlı Akıl Yürütme</p>",
-        "Text": "<p>T1 anında gözlemlediğim k1 kedisinin iki kulağı vardır.<br />T2 anında gözlemlediğim k2 kedisinin iki kulağı vardır.<br />T3 anında gözlemlediğim k3 kedisinin iki kulağı vardır.<br />.<br />.<br />Tn anında gözlemlediğim kn kedisinin iki kulağı vardır.<br />.<br />.<br />T753 anında gözlemlediğim k753 kedisinin iki kulağı vardır.<br />Öyleyse, tüm kedilerin iki kulağı vardır.</p> <p>Yukarıdaki akıl yürütme biçimine ne ad verilir?</p>",
-        "A": "<p>Tümevarım</p>",
-        "B": "<p>Tümdengelim</p>",
-        "C": "<p>Analoji</p>",
-        "D": "<p>Safsata</p>",
-        "E": "<p>Yargı</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "QuestionNumber": 12
     },
     {
         "QuestionId": 3354290,
@@ -573,39 +429,7 @@
         "E": "<p>Korkuluk Safsatası</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 14
-    },
-    {
-        "QuestionId": 3354291,
-        "UniteNo": 2,
-        "PageNumber": 53,
-        "AnswerExplanation": "<p>Kişi Karalama Safsatası (Argumentum ad Hominem): Bu safsata türü bir kişinin ortaya koyduğu çıkarıma değil, kişinin kendisine saldırılması üzerine ortaya çıkar. Latince “insana” anlamına gelir ve adından da anlaşılacağı gibi, çıkarıma değil, onu ortaya atan kişiye yönelik bir karalamadır. Örnek verecek olursak “Ayşe Hoca işinde çok başarılı birisi” diyen bir kişiye “ondan yüksek not almak için her yerde onu övüyorsun” şeklinde cevap verilmesi gösterilebilir. Burada dikkat edilirse Ayşe Hoca’nın işinde başarılı olduğu iddiası, başarılı olma özelliğine değil, bunu söyleyen kişi üzerinden reddedilmiş, ortaya atılan fikre bir karşı çıkış değil, fikri ortaya atan kişiye bir suçlama getirilmiştir. Argumentum Ad Hominem (Kişi Karalama Safsatası) bu şekilde tespit edebileceğimiz bir safsatadır.</p>",
-        "Title": "<p>İnformel Safsatalar</p>",
-        "Text": "<p>\"Yunus Bey gerçekten çok adil bir ekip lideri\" sözü karşısında arkadaşı Kerim'e \"Sana zam yapılsın diye sürekli övüyorsun bu adamı\" diye çıkıştı. </p>\n<p>Yukarıdaki örnek hangi tür akıl yürütmeye uymaktadır?</p>",
-        "A": "<p>Kişi Karalama Safsatası</p>",
-        "B": "<p>Korkuluk Safsatası</p>",
-        "C": "<p>Yanlış İkilem Safsatası</p>",
-        "D": "<p>Formel Safsata</p>",
-        "E": "<p>Analoji</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
         "QuestionNumber": 15
-    },
-    {
-        "QuestionId": 3842797,
-        "UniteNo": 2,
-        "PageNumber": 48,
-        "AnswerExplanation": "Doğru cevap A<br />Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme şeklinde yapılan akıl yürütme biçimi analoji (benzetme)dir. Örneğin;<br /> Ayşe çalışkan ve başarılı. <br />Mehmet de çalışkan.<br /> Öyleyse, Mehmet de başarılı biridir.",
-        "Title": "",
-        "Text": "Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme şeklinde yapılan akıl yürütme biçimine ne ad verilir?<br /><br />",
-        "A": "<span>Analoji</span>",
-        "B": "Tümevarım",
-        "C": "Tümdengelim",
-        "D": "Modus ponens",
-        "E": "Safsata",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
     },
     {
         "QuestionId": 3842798,
@@ -638,5 +462,181 @@
         "CorrectAnswer": "B",
         "UserAnswer": null,
         "QuestionNumber": 20
+    },
+    {
+        "QuestionId": 3354125,
+        "UniteNo": 2,
+        "PageNumber": 56,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p style=\"text-align: justify;\">Fikirlerini eleştiri süzgecinden geçirmeyen, sorgulamadan kabul eden ve fikirlerini ne olursa olsun değiştirmeyen yaklaşım dogmacılıktır. Doğru cevap C'dir.</p> </div> </div> </div> </div> </div> </div> </div> </div>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi dogmacılık teriminin anlamı olarak verilmektedir?</p>",
+        "A": "<div class=\"page\" title=\"Page 16\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Düşünmeyi sürekli geliştirme amacıyla analiz etme ve değerlendirme uğraşı</p> </div> </div> </div> </div>",
+        "B": "<div class=\"page\" title=\"Page 15\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Başka seçenekler de bulunduğu halde iki seçenekten birinin seçilmek zorunda olduğu izlenimi verilerek gerçekleştirilen safsata</p> </div> </div> </div> </div>",
+        "C": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p style=\"text-align: justify;\">Fikirlerini eleştiri süzgecinden geçirmeyen, sorgulamadan kabul eden ve fikirlerini ne olursa olsun değiştirmeyen yaklaşım</p> </div> </div> </div> </div>",
+        "D": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fikirlerini hemen değiştirmeye meyilli olmasa da düzgün temellendirilmiş karşıt görüşler karşısında fikir değiştirmekten kaçınmayan tavır</p> </div> </div> </div> </div>",
+        "E": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Karşıt görüşler karşısında fikir değiştirmekte aceleci olan yaklaşım</p> </div> </div> </div> </div>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 4
+    },
+    {
+        "QuestionId": 3354170,
+        "UniteNo": 2,
+        "PageNumber": 42,
+        "AnswerExplanation": "<p>Mantık</p>",
+        "Title": "<p>Mantık en temelde<br />“doğru öncülden yanlış sonuç çıkartmama”<br />prensibine göre işleyen bir disiplindir.</p>",
+        "Text": "<p>\".................. en temelde “doğru öncülden yanlış sonuç çıkartmama” prensibine göre işleyen bir disiplindir\" Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?</p>",
+        "A": "<p>Kurgu</p>",
+        "B": "<p>Akıl</p>",
+        "C": "<p>Mantık</p>",
+        "D": "<p>Gerçek</p>",
+        "E": "<p>Düş</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 9
+    },
+    {
+        "QuestionId": 3354173,
+        "UniteNo": 2,
+        "PageNumber": 47,
+        "AnswerExplanation": "<p>Geçerlilik</p>",
+        "Title": "<p>Geçerlilik: Tümdengelimli bir akıl yürütmenin<br />düzgün bir çıkarım olma özelliğine;<br />yani, doğru olduğu verilen veya kabul<br />edilen öncüllerden doğru sonuca zorunlu<br />olarak götürme özelliğine geçerlilik denir.</p>",
+        "Text": "<p>Tümdengelimli bir akıl yürütmenin düzgün bir çıkarım olma özelliğine; yani, doğru olduğu verilen veya kabul edilen öncüllerden doğru sonuca zorunlu olarak götürme özelliğine ne denir?</p>",
+        "A": "<p>Geçerlilik</p>",
+        "B": "<p>Çıkarsama</p>",
+        "C": "<p>Algılama</p>",
+        "D": "<p>Yorum</p>",
+        "E": "<p>Öneri</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 9
+    },
+    {
+        "QuestionId": 3354283,
+        "UniteNo": 2,
+        "PageNumber": 43,
+        "AnswerExplanation": "<p>Çıkarım: Akıl yürütmenin gözlemlenebildiği, öncül ve sonuçlardan oluşan bütün.</p> <p><br />Öncül: Doğru olduğu başlangıçta bilinen<br />veya kabul edilen önermeler.</p> <p><br />Sonuç: Öncüllerden çıkarım yoluyla elde<br />edilen yeni önerme.</p>",
+        "Title": "<p>Akıl Yürütme Olarak Düşünme</p>",
+        "Text": "<p>Doğru olduğu başlangıçta bilinen veya kabul edilen önermelere ne ad verilir?</p>",
+        "A": "<p>Akıl yürütme</p>",
+        "B": "<p>Öncül</p>",
+        "C": "<p>Çıkarım</p>",
+        "D": "<p>Sonuç</p>",
+        "E": "<p>Tümevarım</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null,
+        "QuestionNumber": 11
+    },
+    {
+        "QuestionId": 3354291,
+        "UniteNo": 2,
+        "PageNumber": 53,
+        "AnswerExplanation": "<p>Kişi Karalama Safsatası (Argumentum ad Hominem): Bu safsata türü bir kişinin ortaya koyduğu çıkarıma değil, kişinin kendisine saldırılması üzerine ortaya çıkar. Latince “insana” anlamına gelir ve adından da anlaşılacağı gibi, çıkarıma değil, onu ortaya atan kişiye yönelik bir karalamadır. Örnek verecek olursak “Ayşe Hoca işinde çok başarılı birisi” diyen bir kişiye “ondan yüksek not almak için her yerde onu övüyorsun” şeklinde cevap verilmesi gösterilebilir. Burada dikkat edilirse Ayşe Hoca’nın işinde başarılı olduğu iddiası, başarılı olma özelliğine değil, bunu söyleyen kişi üzerinden reddedilmiş, ortaya atılan fikre bir karşı çıkış değil, fikri ortaya atan kişiye bir suçlama getirilmiştir. Argumentum Ad Hominem (Kişi Karalama Safsatası) bu şekilde tespit edebileceğimiz bir safsatadır.</p>",
+        "Title": "<p>İnformel Safsatalar</p>",
+        "Text": "<p>\"Yunus Bey gerçekten çok adil bir ekip lideri\" sözü karşısında arkadaşı Kerim'e \"Sana zam yapılsın diye sürekli övüyorsun bu adamı\" diye çıkıştı. </p>\n<p>Yukarıdaki örnek hangi tür akıl yürütmeye uymaktadır?</p>",
+        "A": "<p>Kişi Karalama Safsatası</p>",
+        "B": "<p>Korkuluk Safsatası</p>",
+        "C": "<p>Yanlış İkilem Safsatası</p>",
+        "D": "<p>Formel Safsata</p>",
+        "E": "<p>Analoji</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 13
+    },
+    {
+        "QuestionId": 3842791,
+        "UniteNo": 2,
+        "PageNumber": 55,
+        "AnswerExplanation": "Doğru cevap D<br />Eleştirel düşünce, düşünmeyi sürekli geliştirme amacıyla analiz etme ve değerlendirme uğraşıdır. Başka bir şekilde ifade edilecek olursa eleştirel düşünce özerk bir biçimde sürekli kendini disipline eden, izleyen ve düzelten düşünceye verilen addır.",
+        "Title": "",
+        "Text": "<span>Eleştirel düşünce nedir?</span>",
+        "A": "Önermelerle tartışmayı reddetme yöntemi",
+        "B": "<span>Karar verirken başkalarının fikirlerini doğrudan kabul etme</span>",
+        "C": "<span>Duygulara göre yön belirleme süreci</span>",
+        "D": "<span>Düşünmeyi sürekli analiz etme ve geliştirme uğraşı</span>",
+        "E": "<span>Deneyimsiz karar alma süreci</span>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null,
+        "QuestionNumber": 16
+    },
+    {
+        "QuestionId": 3842797,
+        "UniteNo": 2,
+        "PageNumber": 48,
+        "AnswerExplanation": "Doğru cevap A<br />Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme şeklinde yapılan akıl yürütme biçimi analoji (benzetme)dir. Örneğin;<br /> Ayşe çalışkan ve başarılı. <br />Mehmet de çalışkan.<br /> Öyleyse, Mehmet de başarılı biridir.",
+        "Title": "",
+        "Text": "Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme şeklinde yapılan akıl yürütme biçimine ne ad verilir?<br /><br />",
+        "A": "<span>Analoji</span>",
+        "B": "Tümevarım",
+        "C": "Tümdengelim",
+        "D": "Modus ponens",
+        "E": "Safsata",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 18
+    },
+    {
+        "QuestionId": 3354288,
+        "UniteNo": 2,
+        "PageNumber": 47,
+        "AnswerExplanation": "<p><br />Tümevarımlı akıl yürütme, elimizdeki tikel<br />öncüllerden tümelin bilgisini çıkardığımız akıl yürütme yöntemidir. Günümüz bilimsel yöntemi tümevarımlı akıl yürütmeye dayanır. Bunun nedeni,<br />modern bilimin doğa ile ilgili olayları (veya, genelin bilgisini) akıl yoluyla ve önsel olarak bildiğini<br />varsaymak yerine deney ve/veya gözleme başvurup<br />elde edilen verilerle hareket etmeye dayalı olmasıdır. Bir yanlışlığa neden olmamak açısından şuna<br />açıklık getirelim: Modern bilim tümdengelimli<br />çıkarıma başvurmaz demek istemiyoruz. Demek<br />istediğimiz şudur ki modern bilimlerde bilimsel<br />bilgiye ulaşmanın temel kaynağı tümevarımlı akıl<br />yürütmedir. Şimdi, tümevarım yöntemini bir örnek üzerinde inceleyelim.<br />T1 anında gözlemlediğim k1 kuğusu beyazdır.<br />T2 anında gözlemlediğim k2 kuğusu beyazdır.<br />T3 anında gözlemlediğim k3 kuğusu beyazdır.<br />.<br />.<br />Tn anında gözlemlediğim kn kuğusu beyazdır.<br />.<br />.<br />T287 anında gözlemlediğim k287 kuğusu beyazdır.<br />Öyleyse, tüm kuğular beyazdır.</p>",
+        "Title": "<p>Tümevarımlı Akıl Yürütme</p>",
+        "Text": "<p>T1 anında gözlemlediğim k1 kedisinin iki kulağı vardır.<br />T2 anında gözlemlediğim k2 kedisinin iki kulağı vardır.<br />T3 anında gözlemlediğim k3 kedisinin iki kulağı vardır.<br />.<br />.<br />Tn anında gözlemlediğim kn kedisinin iki kulağı vardır.<br />.<br />.<br />T753 anında gözlemlediğim k753 kedisinin iki kulağı vardır.<br />Öyleyse, tüm kedilerin iki kulağı vardır.</p> <p>Yukarıdaki akıl yürütme biçimine ne ad verilir?</p>",
+        "A": "<p>Tümevarım</p>",
+        "B": "<p>Tümdengelim</p>",
+        "C": "<p>Analoji</p>",
+        "D": "<p>Safsata</p>",
+        "E": "<p>Yargı</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 13
+    },
+    {
+        "QuestionId": 3354289,
+        "UniteNo": 2,
+        "PageNumber": 51,
+        "AnswerExplanation": "<p>Formel Safsatalar<br />Bu tip safsatalara örnek olarak pek çok safsata türü arasından en yaygın olanlarından iki tanesinden,<br />önbileşenin değillenmesi ve artbileşenin evetlenmesi safsatalarından bahsedeceğiz.<br />Önbileşenin Değillenmesi: İlk öncül olarak bir koşul önermesi barındırır. Adından da tahmin edilebileceği gibi ikinci öncülü, ilk öncüldeki koşullu önermenin önbileşeninin değillemesidir. Sonuç olarak da<br />artbileşenin değillenmesine götüren bir safsatadır. Dolayısıyla, formunu aşağıdaki şekilde gösterebiliriz.<br />P ise Q<br />Değil-P<br />Öyleyse, değil-Q<br />Bir örnekle gösterecek olursak<br />Ahmet İstanbul’a giderse sevinecek.<br />Ahmet İstanbul’a gitmedi.<br />Öyleyse, Ahmet sevinmedi.<br />Burada safsatanın koşul önermesine kastettiği şeyden daha fazlasını yüklemekten kaynaklı bir safsatadan söz edebiliriz. İlk öncül olan “Ahmet İstanbul’a giderse sevinecek” önermesi Ahmet’in İstanbul’a gittiği<br />koşuldaki durumda sevineceğinden bahsediyorken, gitmediği durumda ne olacağı ile ilgili bir şey söylememektedir. Zira Ahmet, İstanbul’a gitmediği durumda da başka bir nedenden ötürü sevinebilir. Mesela<br />bir arkadaşından hediye aldığını ve sevindiğini varsayalım. Bu pekâlâ mümkündür. Dolayısıyla, yukarıdaki<br />formdaki bir akıl yürütme bir safsatadır. Bu safsataya da “önbileşenin değillenmesi” adı verilmiştir.</p>",
+        "Title": "<p>Formel Safsatalar</p>",
+        "Text": "<p>Gülsüm annesi oyuncak alırsa sevinecek. <br />Annesi Gülsüm'e oyuncak almadı.<br />Öyleyse, Gülsüm sevinmedi.</p> <p>Yukarıdaki örnek hangi akıl yürütme biçimine örnektir?</p>",
+        "A": "<p>Tümevarım</p>",
+        "B": "<p>Tümdengelim</p>",
+        "C": "<p>İnformel safsata</p>",
+        "D": "<p>Formel safsata</p>",
+        "E": "<p>Analoji</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null,
+        "QuestionNumber": 14
+    },
+    {
+        "QuestionId": 3354096,
+        "UniteNo": 2,
+        "PageNumber": 52,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 13\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p style=\"text-align: justify;\">Tasım İki öncülü ve bir sonucu bulunan; küçük terim, orta terim ve büyük terim olmak üzere üç terimden oluşan çıkarımlardır. İlk kez Aristoteles tarafından incelenmişlerdir. Doğru cevap D'dir.</p>\n</div>\n</div>\n</div>\n</div>",
+        "Title": "",
+        "Text": "<div class=\"page\" title=\"Page 13\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p style=\"text-align: justify;\">Aşağıdakilerden hangisi ilk kez Aristoteles tarafından incelenmiş, iki öncülü ve bir sonucu bulunan; küçük terim, orta terim ve büyük terim olmak üzere üç terimden oluşan çıkarımdır.</p>\n</div>\n</div>\n</div>\n</div>",
+        "A": "<p>Formel Safsata</p>",
+        "B": "<div class=\"page\" title=\"Page 10\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Değilleyici Kip</p>\n</div>\n</div>\n</div>\n</div>",
+        "C": "<div class=\"page\" title=\"Page 13\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Artbileşenin Evetlenmesi</p>\n</div>\n</div>\n</div>\n</div>",
+        "D": "<p>Tasım</p>",
+        "E": "<div class=\"page\" title=\"Page 15\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Rasyonalite</p>\n</div>\n</div>\n</div>\n</div>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null,
+        "QuestionNumber": 3
+    },
+    {
+        "QuestionId": 3354186,
+        "UniteNo": 2,
+        "PageNumber": 49,
+        "AnswerExplanation": "<p>Modus ponens</p>",
+        "Title": "<p>Modus Ponens: Modus ponens, koşul önermelerinde kullanılan bir çıkarım formudur. Koşul önermeleri<br />sıkça kullandığımız önermeler arasında yer alır ve bir şey olursa diğerinin de olacağını ifade eder. Örneğin,<br />“Ayşe eğer iyi çalışırsa başarır” cümlesi bir koşul cümlesidir ve ön bileşendeki önerme doğru olursa,<br />art bileşenin de zorunlu olarak doğru olacağını ifade eder. Başka bir deyişle, bu koşullu önerme eğer doğru<br />ise “Ayşe iyi çalıştı” önermesi doğruysa, “başardı” cümlesi de doğru olmak durumundadır.</p>",
+        "Text": "<p>Aşağıdakilerden hangisi “olumlayıcı kip” anlamına gelir?</p>",
+        "A": "<p>Tümevarım</p>",
+        "B": "<p>Önerim</p>",
+        "C": "<p>Çıkarım</p>",
+        "D": "<p>Modus ponens</p>",
+        "E": "<p>Değilleyici</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null,
+        "QuestionNumber": 9
     }
 ]

@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Farkındalık"
+        "Aciklama": "Wallas ise 1926’da yaratıcı düşünme sürecini “Hazırlık”, “Kuluçka”, “İlham” ve “Doğrulama”<br/>olarak dört ana grupta toplamıştır (Rouquette, 1992: 18).<br>Farkındalık"
     },
     {
         "SoruID": 3861681,
-        "SoruMetni": "En yaygın kullanılan düşünme türlerinden biridir.  İki alan arasındaki benzerliklere bakarak bilinmeyen bir olgu bilinen bir olgu ile açıklanır. Özelden özele doğru bir akıl yürütme biçimi söz konusudur. Anlatılan bu düşünme türü aşağıdakilerden hangisidir?",
+        "SoruMetni": "En yaygın kullanılan düşünme türlerinden biridir. İki alan arasındaki benzerliklere bakarak bilinmeyen bir olgu bilinen bir olgu ile açıklanır. Özelden özele doğru bir akıl yürütme biçimi söz konusudur. Anlatılan bu düşünme türü aşağıdakilerden hangisidir?",
         "A": "Tümdengelim Düşünme",
         "B": "Analitik Düşünme",
         "C": "Sistemli Düşünme",
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Analojik Düşünme"
+        "Aciklama": "Bütünün parçalara ayrıldığı ve her parçanın analiz edilerek yeniden tanımlandığı, sınıflandırıldığı, bütünle ilişkilerinin incelendiği düşünme biçimine ise<strong> analitik düşünme</strong> denilmektedir. Çözümlemeye yönelik bir düşünme biçimidir. <strong>Sistemli düşünme,</strong> çeşitli elemanlar ve aralarındaki ilişkileri içeren karmaşık bir bakış açısı ile bilinçli düşünme biçimidir. Sistemli düşünmede bir amaç ve bu amaç doğrultusunda bir hedef belirlenir, bilinenden yola çıkarak bilinmeyene ulaşmak için mantıklı işlemler gerçekleştirilir. Bir düşünceyi geliştirebilmek için akıl yürütme ve mantıksal sorgulama yöntemlerine başvurarak olguları nesnel kanıtlar ışığında sorgulama, inceleme ve değerlendirme şeklinde gerçekleşen düşünme biçimi ise <strong>eleştirel düşünme</strong> biçimidir. <strong>Yaratıcı düşünme</strong>; buluşçu, yenilikçi, sorunlara yeni ve farklı çözümler üreten, özgün düşüncelerin<br/>ortaya çıkmasını sağlayan bir düşünme biçimidir. Yani esnek, akıcı, özgün, alışılmışın<br>Analojik Düşünme"
     },
     {
         "SoruID": 3861682,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Beyin Fırtınası"
+        "Aciklama": "Sayfa 147 bkz.<br>Beyin Fırtınası"
     },
     {
         "SoruID": 3861683,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nitelik aranır"
+        "Aciklama": "Beyin fırtınası yönteminin, yaratıcı düşünmeyi ve problem çözmeyi kolaylaştırması için dört temel<br/>koşulu sağlaması gerekir: 1. Eleştiri kapı dışına bırakılır, 2. Sınırsız düşünme, 3. Nicelik aranır, 4. Kombinasyon ve gelişme aranır.<br>Nitelik aranır"
     },
     {
         "SoruID": 3861684,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gündüz Düşü"
+        "Aciklama": "Gündüz Düşü (Daydreaming) Beyin fırtınası yönteminde akla ilk gelen fikirlerin hızlıca söylenmesi ve fikir akışının sağlanmasına alternatif olarak, gündüz düşü yönteminde yaratıcı fikri bulabilmek için “akıl yürütme” ve “hayal etme” tasarımcılar için en önemli unsurlar olarak karşımıza çıkar."
     },
     {
         "SoruID": 3861685,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeşil"
+        "Aciklama": "Yeşil şapka yaratıcı çözümlerin ve üretkenliğin konuşulmaya başlandığı aşamadır. Probleme ilişkin<br/>yeni fikirler, çözüm önerileri ortaya atılır, seçenekler belirlenir."
     },
     {
         "SoruID": 3861686,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğrulama"
+        "Aciklama": "Doğrulama (Validation) Yaratıcı fikir üretme sürecinde hangi yaratıcı teknik ya da teknikler kullanılırsa kullanılsın süreç tamamlandıktan sonra çıktıların değerlendirilmesi ve sonuçların doğrulanması gerekmektedir."
     },
     {
         "SoruID": 3861687,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eskiz"
+        "Aciklama": "Bu temel bilgiler ışığında tasarım fikrinin nasıl görsel bir anlatım biçimine dönüşeceği düşünülürken<br/>kullanılabilecek en etkili yöntem eskiz çizmek olacaktır. Eskiz, tasarımcının kafasından geçen fikirlerin görsel olarak mikro ve makro düzeyde bir bakış açısına oturabilmesi için çizilen, orijinal işe yakın olarak düzenlenen, yapı, şekil, renk, denge, hiyerarşi gibi kararların net bir şekilde gösterildiği taslak çizimlerdir."
     },
     {
         "SoruID": 3861688,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düşünülmesi"
+        "Aciklama": "<strong>Göstergebilim,</strong> göstergelerin <strong>üretilmesi</strong>, <strong>anlamlandırılması</strong>, <strong>yorumlanmas</strong>ı ve <strong>incelenmes</strong>i gibi konularla ilgilenen bilim dalıdır.<br>Düşünülmesi"
     },
     {
         "SoruID": 3861689,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Metafor"
+        "Aciklama": "Aşık Veysel’in “iki kapılı bir handa gidiyorum gündüz gece” dizelerinde bahsi geçen “iki kapılı<br/>han” dünyanın<strong> metaforudur</strong>."
     },
     {
         "SoruID": 3861712,
@@ -241,12 +241,12 @@
     },
     {
         "SoruID": 3861714,
-        "SoruMetni": "Beyin Fırtınası yöntemi ile Zihin Haritalama yöntemi arasındaki fark nedir?",
-        "A": "Beyin fırtınası methodu daha sistemli ve net bir sayfa oluştururken, zihin haritalama yönteminde rastgele fikirler yer alır.",
+        "SoruMetni": "Beyin Fırtınası yöntemi ile Zihin Haritalama yöntemi arasındaki fark nedir?",
+        "A": "Beyin fırtınası methodu daha sistemli ve net bir sayfa oluştururken, zihin haritalama yönteminde rastgele fikirler yer alır.",
         "B": "Beyin fırtınası metodunda rastgele fikirlerden oluşan bir sayfa oluşturulurken, zihin haritalama yönteminde sistemli ve formlu bir beyin fırtınası grafiği oluşturulabilir.",
         "C": "Beyin fırtınası methodu daha kalabalık gruplarda yapılırken, zihin haritalama yöntemi daha az kişiden oluşan gruplarda yapılır.",
-        "D": "Beyin fırtınası methodu daha az kişiden oluşan gruplarda yapılırken, zihin haritalama yöntemi daha kalabalık gruplarda yapılır.",
-        "E": "Beyin fırtınası methodu daha kısa sürede yapılırken, zihin haritalama yöntemi daha uzun sürede yapılır.",
+        "D": "Beyin fırtınası methodu daha az kişiden oluşan gruplarda yapılırken, zihin haritalama yöntemi daha kalabalık gruplarda yapılır.",
+        "E": "Beyin fırtınası methodu daha kısa sürede yapılırken, zihin haritalama yöntemi daha uzun sürede yapılır.",
         "DogruCevap": "B",
         "DersAd": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
         "Unite": 5,
@@ -421,7 +421,7 @@
     },
     {
         "SoruID": 3861771,
-        "SoruMetni": "Bütünden parçaya doğru, genelden özele ya da yasalardan olaylara doğru giden düşünme biçimine ………………………….. düşünme denir?<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Bütünden parçaya doğru, genelden özele ya da yasalardan olaylara doğru giden düşünme biçimine ………………………….. düşünme denir?<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Tümevarım",
         "B": "Analojik",
         "C": "Tümdengelim",
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kırmızı şapka duyguları tespit etmek ve gün yüzüne çıkartmak için kullanılır."
+        "Aciklama": "Beyaz şapka durum tespiti yapmak için kullanılır.<br/>Siyah şapka olumsuzlukları tespit etmek için kullanılır.<br/>Sarı şapka duruma iyimser bir açıdan bakmak ve durumun tüm olumlu ve faydalı taraflarını görmek için kullanılır.<br/>Mavi şapka sürecin sonlandırıldığı kısımdır.<br>Kırmızı şapka duyguları tespit etmek ve gün yüzüne çıkartmak için kullanılır."
     },
     {
         "SoruID": 3861776,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İkon: Temsil ettiği şeye fiziksel olarak benzerlik gösterir. Gösteren ve gösterilen aynıdır. Tuvaletlerde kullanılan kadın erkek piktogramları, ikona güzel bir örnek olarak gösterilebilir."
+        "Aciklama": "<img alt=\"\" height=\"510\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/46d62b60009b3c3e527d01afd6286851.jpeg\" width=\"900\"/><br>İkon: Temsil ettiği şeye fiziksel olarak benzerlik gösterir. Gösteren ve gösterilen aynıdır. Tuvaletlerde kullanılan kadın erkek piktogramları, ikona güzel bir örnek olarak gösterilebilir."
     },
     {
         "SoruID": 3861777,
@@ -557,11 +557,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gestaltizm, kaotik görünen bir dünyada anlamlı bir algıya sahip olmamızın temelde hangi kanunlara  dayandığını anlamaya çalışır."
+        "Aciklama": "Gestaltizm, kaotik görünen bir dünyada anlamlı bir algıya sahip olmamızın temelde hangi kanunlara dayandığını anlamaya çalışır."
     },
     {
         "SoruID": 3861778,
-        "SoruMetni": "Tasarımda kullanılan tasarım elemanlarından birisi bütünü temsil eden bir parça şeklinde ise buna ………………… denir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Tasarımda kullanılan tasarım elemanlarından birisi bütünü temsil eden bir parça şeklinde ise buna ………………… denir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Metafor",
         "B": "Metonimi",
         "C": "Sembol",
@@ -817,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<table> <tbody> <tr> <td> Yanal düşünme teorisini Edward De Bono geliştirmiştir.<br/> </td> </tr> </tbody> </table>"
+        "Aciklama": "Dikey ve yanal düşünmenin temellerinin kavranması<br><table> <tbody> <tr> <td> Yanal düşünme teorisini Edward De Bono geliştirmiştir.<br/></td> </tr> </tbody> </table>"
     },
     {
         "SoruID": 3861883,
@@ -826,7 +826,7 @@
         "B": "Dikey düşünme ancak hareket edecek bir yön varsa hareket eder",
         "C": "Dikey düşünme analitiktir",
         "D": "Dikey düşünme sıralıdır",
-        "E": "Dikey düşünmede olumsuzluk yoktur",
+        "E": "Dikey düşünmede olumsuzluk yoktur",
         "DogruCevap": "E",
         "DersAd": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
         "Unite": 5,
@@ -837,11 +837,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dikey düşünmede, belirli yolları engellemek için olumsuzluklar kullanılır, yanal<br/>düşünmede olumsuzluk yoktur."
+        "Aciklama": "Dikey düşünme ve yanal düşünmenin karşılaştırılması<br>Dikey düşünmede, belirli yolları engellemek için olumsuzluklar kullanılır, yanal<br/>düşünmede olumsuzluk yoktur."
     },
     {
         "SoruID": 3861884,
-        "SoruMetni": "Yaratıcı düşünmeyi;<br/> 1. İhtiyacın belirlenmesi<br/>2. Eldeki bilgilerin gözden geçirilmesi<br/>3. Bilginin sindirilmesi<br/>4. Parıltının sezilmesi<br/>5. Ortaya çıkanların değerlendirilmesi <br/> şeklinde 5 aşamalı bir süreç olarak tanımlayan araştırmacı aşağıdakilerden hangisidir?",
+        "SoruMetni": "Yaratıcı düşünmeyi;<br/>1. İhtiyacın belirlenmesi<br/>2. Eldeki bilgilerin gözden geçirilmesi<br/>3. Bilginin sindirilmesi<br/>4. Parıltının sezilmesi<br/>5. Ortaya çıkanların değerlendirilmesi <br/>şeklinde 5 aşamalı bir süreç olarak tanımlayan araştırmacı aşağıdakilerden hangisidir?",
         "A": "Edward De Bono",
         "B": "Trevor Bentley",
         "C": "Feridun Hürel",
@@ -857,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcı düşünme, Trevor Bentley tarafından 5 aşamalı bir süreç olarak tanımlanmaktadır:<br/>1. İhtiyacın belirlenmesi<br/>2. Eldeki bilgilerin gözden geçirilmesi<br/>3. Bilginin sindirilmesi<br/>4. Parıltının sezilmesi<br/>5. Ortaya çıkanların değerlendirilmesi"
+        "Aciklama": "Yaratıcı düşüncenin kavranması<br>Yaratıcı düşünme, Trevor Bentley tarafından 5 aşamalı bir süreç olarak tanımlanmaktadır:<br/>1. İhtiyacın belirlenmesi<br/>2. Eldeki bilgilerin gözden geçirilmesi<br/>3. Bilginin sindirilmesi<br/>4. Parıltının sezilmesi<br/>5. Ortaya çıkanların değerlendirilmesi"
     },
     {
         "SoruID": 3861885,
@@ -877,11 +877,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bütünden parçaya doğru, genelden özele ya da yasalardan olaylara doğru giden düşünme biçimine tümdengelim düşünme denir."
+        "Aciklama": "Düşünme türlerinin kavranması<br>Bütünden parçaya doğru, genelden özele ya da yasalardan olaylara doğru giden düşünme biçimine tümdengelim düşünme denir."
+    },
+    {
+        "SoruID": 3861886,
+        "SoruMetni": "İki alan arasındaki benzerliklere bakarak bilinmeyen bir olgunun bilinen bir olgu ile açıklanması yolu ile özelden özele doğru bir akıl yürütmenin söz konusu olduğu düşünme biçimi aşağıdakilerden hangisidir?",
+        "A": "Tümdengelim düşünme",
+        "B": "Tümevarım düşünme",
+        "C": "Sistemli düşünme",
+        "D": "Analojik düşünme",
+        "E": "Eleştirel düşünme",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
+        "Unite": 5,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:04.054048",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "düşünme biçimlerinin kavranması<br>Analojik düşünmede iki alan arasındaki benzerliklerden hareket edilir. Benzerliklere bakarak bilinmeyen bir olgu bilinen bir olgu ile açıklanır."
     },
     {
         "SoruID": 3861887,
-        "SoruMetni": "Fikir üretmek, yaratıcı etkinliği arttırmak veya sorunlara çözüm bulmak amacı ile katılımcıların  temel kurallara uyarak yargılayıcı olmayan bir ortamda belirli bir<br/>konu veya sorun hakkında fikir ürettiği yaratıcı düşünme tekniği aşağıdakilerden hangisidir?",
+        "SoruMetni": "Fikir üretmek, yaratıcı etkinliği arttırmak veya sorunlara çözüm bulmak amacı ile katılımcıların temel kurallara uyarak yargılayıcı olmayan bir ortamda belirli bir<br/>konu veya sorun hakkında fikir ürettiği yaratıcı düşünme tekniği aşağıdakilerden hangisidir?",
         "A": "SCAMPER Tekniği",
         "B": "6-3-5 Metodu",
         "C": "Gündüz Düşü",
@@ -897,11 +917,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Beyin fırtınası, fikir üretmek, yaratıcı etkinliği arttırmak veya sorunlara çözüm<br/>bulmak için bireysel veya gruplar hâlinde uygulanan bir yöntemdir. Katılımcıların temel kurallara uyarak yargılayıcı olmayan bir ortamda belirli bir<br/>konu veya sorun hakkında fikir ürettiği bir seanstır."
+        "Aciklama": "yaratıcı fikir geliştirme yöntemlerinin kavranması<br>Beyin fırtınası, fikir üretmek, yaratıcı etkinliği arttırmak veya sorunlara çözüm<br/>bulmak için bireysel veya gruplar hâlinde uygulanan bir yöntemdir. Katılımcıların temel kurallara uyarak yargılayıcı olmayan bir ortamda belirli bir<br/>konu veya sorun hakkında fikir ürettiği bir seanstır."
     },
     {
         "SoruID": 3861888,
-        "SoruMetni": "Beyin Yazısı, Beyin Çizimi, SCAMPER tekniği  ve Charette Prosedürü aşağıdaki yaratıcı fikir geliştirme yöntemlerinden hangisinin çeşitleridir?",
+        "SoruMetni": "Beyin Yazısı, Beyin Çizimi, SCAMPER tekniği ve Charette Prosedürü aşağıdaki yaratıcı fikir geliştirme yöntemlerinden hangisinin çeşitleridir?",
         "A": "Altı Şapkalı Düşünme",
         "B": "Zihin Haritalama",
         "C": "6-3-5 Metodu",
@@ -917,11 +937,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Beyin Yazısı, Beyin Çizimi ve Charette Prosedürü beyin fırtınasının çeşitleridir."
+        "Aciklama": "Beyin Yazısı, Beyin Çizimi ve Charette Prosedürü beyin fırtınasının çeşitleridir."
+    },
+    {
+        "SoruID": 3861889,
+        "SoruMetni": "Adını, uygulamayı yaparken hatırlanması gereken İngilizce yedi kelimenin baş harfinden alan ve genellikle okul öncesi eğitimde kullanılan bir beyin fırtınası yöntemi olan teknik aşağıdakilerden hangisidir?",
+        "A": "Beyin Çizimi",
+        "B": "Charette Prosedürü",
+        "C": "SCAMPER tekniği",
+        "D": "Beyin Yazısı",
+        "E": "6-3-5 Metodu",
+        "DogruCevap": "C",
+        "DersAd": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
+        "Unite": 5,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:04.021900",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Yaratıcı fikir geliştirme tekniklerinin kavranması<br>SCAMPER tekniği, genellikle okul öncesi eğitimde kullanılan bir beyin fırtınası yöntemidir. Farklı düşünme, hayal kurma ve sezgileri kullanarak özgün ürünler ortaya koyma açısından faydalıdır. Özgün bir fikre ulaşmak için mevcut bir fikri farklı türde sorular sorarak değiştirme ve çeşitlendirme mantığı üzerine kuruludur. SCAMPER’ın felsefesi “Her fikir, var olan başka bir fikirden doğar.” cümlesi ile özetlenebilir.<br/>Teknik adını, uygulamayı yaparken hatırlanması gereken İngilizce yedi kelimenin baş harfinden alır. Uygulama yapılırken bir nesne, olay, kişi seçilir ve sorular sorularak değiştirilir ve geliştirilir."
     },
     {
         "SoruID": 3861890,
-        "SoruMetni": "6 şapkalı düşünme tekniğinde yaratıcı, fizibiliteyi düşünmeden birçok yeni fikir üreten ve yaratıcı düşünmeyi simgeleyen şapka aşağıdakilerden hangisidir?",
+        "SoruMetni": "6 şapkalı düşünme tekniğinde yaratıcı, fizibiliteyi düşünmeden birçok yeni fikir üreten ve yaratıcı düşünmeyi simgeleyen şapka aşağıdakilerden hangisidir?",
         "A": "Beyaz şapka",
         "B": "Yeşil şapka",
         "C": "Sarı şapka",
@@ -937,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeşil şapka yaratıcı çözümlerin ve üretkenliğin konuşulmaya başlandığı aşamadır. Probleme ilişkin yeni fikirler, çözüm önerileri ortaya atılır, seçenekler belirlenir."
+        "Aciklama": "yaratıcı düşünme tekniklerinin kavranması<br>Yeşil şapka yaratıcı çözümlerin ve üretkenliğin konuşulmaya başlandığı aşamadır. Probleme ilişkin yeni fikirler, çözüm önerileri ortaya atılır, seçenekler belirlenir."
     },
     {
         "SoruID": 3861891,
@@ -957,6 +997,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İkon: Temsil ettiği şeye fiziksel olarak benzerlik gösterir. Gösteren ve gösterilen aynıdır. Bir kişinin fotoğrafı onun ikonik göstergesidir. Grafik tasarımda ikonlar, detaylarından arındırılarak stilize edilerek yalın biçimlere dönüştürülürler. Tuvaletlerde kullanılan kadın erkek piktogramları, ikona güzel bir örnek<br/>olarak gösterilebilir."
+        "Aciklama": "Tasarımda Göstergelerle Düşünme<br>İkon: Temsil ettiği şeye fiziksel olarak benzerlik gösterir. Gösteren ve gösterilen aynıdır. Bir kişinin fotoğrafı onun ikonik göstergesidir. Grafik tasarımda ikonlar, detaylarından arındırılarak stilize edilerek yalın biçimlere dönüştürülürler. Tuvaletlerde kullanılan kadın erkek piktogramları, ikona güzel bir örnek<br/>olarak gösterilebilir."
     }
 ]

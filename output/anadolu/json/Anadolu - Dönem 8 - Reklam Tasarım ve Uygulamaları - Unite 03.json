@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "4P modeli yaratıcılığı kişi, süreç, ürün ve yer çerçevesinde ele alır ve en çok karşılaşılan yaratıcılık modelidir. Bu modelde yaratıcılık, yaratıcı kişi, yaratıcı süreç, yaratıcı ürün ve yaratıcı yer olarak 4 temel bakış açısıyla tanımlanmaktadır."
+        "Aciklama": "4P modeli yaratıcılığı kişi, süreç, ürün ve yer çerçevesinde ele alır ve en çok karşılaşılan yaratıcılık modelidir. Bu modelde yaratıcılık, yaratıcı kişi, yaratıcı süreç, yaratıcı ürün ve yaratıcı yer olarak 4 temel bakış açısıyla tanımlanmaktadır."
     },
     {
         "SoruID": 3833613,
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 3833843,
-        "SoruMetni": "I. Alan <br/> II. Kişi <br/> III. Kültür <br/> Yukarıdakilerden hangisi veya hangileri yaratıcılık sistem modellerinden biridir?",
+        "SoruMetni": "I. Alan <br/>II. Kişi <br/>III. Kültür <br/>Yukarıdakilerden hangisi veya hangileri yaratıcılık sistem modellerinden biridir?",
         "A": "Yalnız, I",
         "B": "Yalnız, II",
         "C": "Yalnız, III",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3833878,
-        "SoruMetni": "I.Beyin fırtınası<br/> II. Bilgi toplama <br/> III. Fikir oluşturma <br/> Yukarıdakilerden hangisi ya da hangileri yaratıcı fikir bulma tekniklerinden Piramit modelle ilişkilidir?",
+        "SoruMetni": "I.Beyin fırtınası<br/>II. Bilgi toplama <br/>III. Fikir oluşturma <br/>Yukarıdakilerden hangisi ya da hangileri yaratıcı fikir bulma tekniklerinden Piramit modelle ilişkilidir?",
         "A": "Yalnız, I",
         "B": "Yalnız, II",
         "C": "Yalnız, III",

@@ -41,8 +41,8 @@
     },
     {
         "SoruID": 3763839,
-        "SoruMetni": "Uluslararası Sivil Havacılık Örgütü “International Civil Aviation Organization” (ICAO), hava sahasını A, B, C, D, E, F ve G olmak üzere yedi sınıf ile tanımlamıştır.<br/><br/>Buna göre aşağıdaki ifadelerden hangisi <span style=\"text-decoration: underline;\">yanlıştır</span>?",
-        "A": "A sınıfı, tavsiyeli yolları ifade eden sınıftır.",
+        "SoruMetni": "Uluslararası Sivil Havacılık Örgütü “International Civil Aviation Organization” (ICAO), hava sahasını A, B, C, D, E, F ve G olmak üzere yedi sınıf ile tanımlamıştır.<br/>Buna göre aşağıdaki ifadelerden hangisi <span style=\"text-decoration: underline;\">yanlıştır</span>?",
+        "A": "A sınıfı, tavsiyeli yolları ifade eden sınıftır.",
         "B": "B sınıfı, çok yüksek irtifa hava sahalarına ayrılan sınıftır.",
         "C": "C sınıfı, yüksek irtifa hava sahası sınıfıdır.",
         "D": "D sınıfı, az hava trafik yoğunluğunun olduğu hava sahası sınıfıdır.",
@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3763842,
-        "SoruMetni": "Hava araçlarında yer alan ve radyo frekanslarına karşı cevap veren elektronik ünitedir. Yer radarları ve diğer hava araçlarındaki çarpışma önleyici sistemlerle irtibat halindedir. Bazı çeşitleri uçuş irtifası bilgisini de gönderebilir.<br/> Yukarıdaki paragrafta sözü edilen kavram aşağıdakilerden hangisidir?",
+        "SoruMetni": "Hava araçlarında yer alan ve radyo frekanslarına karşı cevap veren elektronik ünitedir. Yer radarları ve diğer hava araçlarındaki çarpışma önleyici sistemlerle irtibat halindedir. Bazı çeşitleri uçuş irtifası bilgisini de gönderebilir.<br/>Yukarıdaki paragrafta sözü edilen kavram aşağıdakilerden hangisidir?",
         "A": "Transponder",
         "B": "Turboşarf motor",
         "C": "Radyogonyometri",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3763846,
-        "SoruMetni": "İHA teknolojileri tüm dünyada hızla gelişirken Türkiye de bu teknolojik devrime büyük katkı sağlamaktadır. Askeri açıdan değerlendirildiğinde, Bayraktar TB2’ler Azerbaycan ile Ermenistan arasında yaşanan -------’nda önemli bir rol oynamıştır.<br/> Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "İHA teknolojileri tüm dünyada hızla gelişirken Türkiye de bu teknolojik devrime büyük katkı sağlamaktadır. Askeri açıdan değerlendirildiğinde, Bayraktar TB2’ler Azerbaycan ile Ermenistan arasında yaşanan -------’nda önemli bir rol oynamıştır.<br/>Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "Karabağ Savaşı",
         "B": "Kelbecer Savaşı",
         "C": "Gence Savaşı",
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İHA teknolojileri tüm dünyada hızla gelişirken Türkiye de bu teknolojik devrime büyük katkı sağlamaktadır.  Türkiye de bu teknoloji yarışında önemli bir konumda bulunmaktadır. Hem sivil hem de askeri kullanım için tasarlanan Türk malı İHA sistemler, yalnızca ülke içinde kullanım ile sınırlanmamaktadır. Bugün pek çok farklı ülke Türk ürünü İHA’ları talep etmekte ve etkin bir şekilde kullanmaktadır. Öyle ki üretilen pek çok İHA, kendini zorlu şartlarda ispatlamıştır. Askeri açıdan değerlendirildiğinde, Bayraktar TB2’ler Azerbaycan ile Ermenistan arasında yaşanan Karabağ Savaşı’nda önemli bir rol oynamıştır."
+        "Aciklama": "İHA teknolojileri tüm dünyada hızla gelişirken Türkiye de bu teknolojik devrime büyük katkı sağlamaktadır. Türkiye de bu teknoloji yarışında önemli bir konumda bulunmaktadır. Hem sivil hem de askeri kullanım için tasarlanan Türk malı İHA sistemler, yalnızca ülke içinde kullanım ile sınırlanmamaktadır. Bugün pek çok farklı ülke Türk ürünü İHA’ları talep etmekte ve etkin bir şekilde kullanmaktadır. Öyle ki üretilen pek çok İHA, kendini zorlu şartlarda ispatlamıştır. Askeri açıdan değerlendirildiğinde, Bayraktar TB2’ler Azerbaycan ile Ermenistan arasında yaşanan Karabağ Savaşı’nda önemli bir rol oynamıştır."
     },
     {
         "SoruID": 3763847,
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3763849,
-        "SoruMetni": "UAVERA Havacılık Sistemleri A.Ş. ismiyle çalışan bir Türk firması tarafından geliştirilen, yatay ve dikey iniş kalkış özellikleri bulunan, tam otonom özelliğe sahip İHA aşağıdakilerden hangisidir?",
+        "SoruMetni": "UAVERA Havacılık Sistemleri A.Ş. ismiyle çalışan bir Türk firması tarafından geliştirilen, yatay ve dikey iniş kalkış özellikleri bulunan, tam otonom özelliğe sahip İHA aşağıdakilerden hangisidir?",
         "A": "Çağatay",
         "B": "Togan",
         "C": "Boyga",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 3763850,
-        "SoruMetni": "Türkiye'de Titra firması tarafından üretilen aşağıdaki İHA'lardan hangisi yapay zekâ sayesinde hedef arama yeteneğine sahip kamikaze İHA’dır?",
+        "SoruMetni": "Türkiye'de Titra firması tarafından üretilen aşağıdaki İHA'lardan hangisi yapay zekâ sayesinde hedef arama yeteneğine sahip kamikaze İHA’dır?",
         "A": "Deli",
         "B": "Anka",
         "C": "Bora",
@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 3763974,
-        "SoruMetni": "\"Bir öğretmen öğrencilerin Görsel İletişim Tasarımına yönelik başarı düzeyleri belirlemek istiyor. Bunun için öğretmen daha önce hazırlamış olduğu belirtke tablosundan yararlanarak kapsam geçerliliği yüksek bir başarı testi hazırlıyor. Daha sonra testteki her bir maddenin kaç puana denk geldiğini belirleyerek sınıfa bu testi uyguluyor. Uygulama sonucunda öğrencilerin Görsel İletişim Tasarımı dersine ilişkin başarı ortalamlarının 61 olduğunu saptıyor. Bu başarı ortalamasına bakarak öğretmen, öğrencilerinin başarı düzeyinin orta olduğuna karar veriyor.\"<br/> Yukardaki örnek olayda öğretmenin gerçekleştirdiği hangi eylem ölçme işlemi aşamalarından \"ölçülecek özelliklerin belirlenmesi\" aşaması ile ilgilidir?",
+        "SoruMetni": "\"Bir öğretmen öğrencilerin Görsel İletişim Tasarımına yönelik başarı düzeyleri belirlemek istiyor. Bunun için öğretmen daha önce hazırlamış olduğu belirtke tablosundan yararlanarak kapsam geçerliliği yüksek bir başarı testi hazırlıyor. Daha sonra testteki her bir maddenin kaç puana denk geldiğini belirleyerek sınıfa bu testi uyguluyor. Uygulama sonucunda öğrencilerin Görsel İletişim Tasarımı dersine ilişkin başarı ortalamlarının 61 olduğunu saptıyor. Bu başarı ortalamasına bakarak öğretmen, öğrencilerinin başarı düzeyinin orta olduğuna karar veriyor.\"<br/>Yukardaki örnek olayda öğretmenin gerçekleştirdiği hangi eylem ölçme işlemi aşamalarından \"ölçülecek özelliklerin belirlenmesi\" aşaması ile ilgilidir?",
         "A": "Öğrencilerin derse ilişkin başarı düzeylerini belirlemek istemesi",
         "B": "Daha önce hazırlamış olduğu belirtke tablosundan yararlanması",
         "C": "Derse yönelik bir başarı testi hazırlaması",
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ölçme işleminin üç safhada gerçekleştiğini dile getirilmektedir:<br/> • Ölçülmesi amaçlanan özelliklerin (niteliklerin) belirlenmesi (Davranışların belirlenmesi)<br/> • Niceliklerin tespit edilmesi, yani ölçülecek özelliğin ne tür bir sıfat ya da sayıyla ifade edileceğinin belirlenmesi (Ölçme aracının belirlenmesi)<br/> • Belli bir kurala göre niteliklerle niceliklerin eşleştirilmesi (Ölçme işleminin gerçekleştirilmesi)<br/> Örnek olayda öğretmenin öğrencilerin Görsel İletişim Tasarımı dersine ilişkin başarı durumlarını belirlemek istemesi, ölçme işleminin ilk aşaması olan neyin ölçüleceğine karar verildiği, ölçülecek özelliklerin belirlenmesi aşaması ile ilgilidir. Doğru yanıt A seçeneğidir."
+        "Aciklama": "Ölçme işleminin üç safhada gerçekleştiğini dile getirilmektedir:<br/>• Ölçülmesi amaçlanan özelliklerin (niteliklerin) belirlenmesi (Davranışların belirlenmesi)<br/>• Niceliklerin tespit edilmesi, yani ölçülecek özelliğin ne tür bir sıfat ya da sayıyla ifade edileceğinin belirlenmesi (Ölçme aracının belirlenmesi)<br/>• Belli bir kurala göre niteliklerle niceliklerin eşleştirilmesi (Ölçme işleminin gerçekleştirilmesi)<br/>Örnek olayda öğretmenin öğrencilerin Görsel İletişim Tasarımı dersine ilişkin başarı durumlarını belirlemek istemesi, ölçme işleminin ilk aşaması olan neyin ölçüleceğine karar verildiği, ölçülecek özelliklerin belirlenmesi aşaması ile ilgilidir. Doğru yanıt A seçeneğidir."
     },
     {
         "SoruID": 3763975,
-        "SoruMetni": "I-Nicel<br/> II-Süreksiz<br/> III-Bağımsız<br/> IV-Karıştırıcı<br/> V-Moderatör<br/> Yukarıdakilerden hangileri araştırmanın amacına göre gruplandırılan değişkenler arasında yer almaktadır?",
+        "SoruMetni": "I-Nicel<br/>II-Süreksiz<br/>III-Bağımsız<br/>IV-Karıştırıcı<br/>V-Moderatör<br/>Yukarıdakilerden hangileri araştırmanın amacına göre gruplandırılan değişkenler arasında yer almaktadır?",
         "A": "I, II ve III",
         "B": "I, III ve IV",
         "C": "I, IV ve V",
@@ -257,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Değişkenler aldıkları değere göre ve araştırmanın amacına göre iki grupta değerlendirilmektedir. Araştırma amacına göre değişkenler arasında,<br/> <ul> <li>Bağımsız Değişken</li> <li>Bağımsız Değişken</li> <li>Karıştırıcı Değişken</li> <li>Moderatör Değişken</li> <li>Kontrol Değişkeni</li> </ul> yer almaktadır. Doğru yanıt E seçeneğidir."
+        "Aciklama": "Değişkenler aldıkları değere göre ve araştırmanın amacına göre iki grupta değerlendirilmektedir. Araştırma amacına göre değişkenler arasında,<br/><ul> <li>Bağımsız Değişken</li> <li>Bağımsız Değişken</li> <li>Karıştırıcı Değişken</li> <li>Moderatör Değişken</li> <li>Kontrol Değişkeni</li> </ul> yer almaktadır. Doğru yanıt E seçeneğidir."
     },
     {
         "SoruID": 3763976,
-        "SoruMetni": "I-Cinsiyet<br/> II-Yaş<br/> III-Akademik başarı<br/> IV-Eğitim düzeyi<br/> V-Medeni durum<br/> Bir görsel iletişim tasarımcısı tasarlamış olduğu Web sistesinin ziyaret edilme durumlarını süreksiz (kesikli) değişkenler açısından analiz etmek istemektedir. Buna göre yukarıdaki değişkenlerden hangilerine ilişkin veri toplaması gerekmektedir?",
+        "SoruMetni": "I-Cinsiyet<br/>II-Yaş<br/>III-Akademik başarı<br/>IV-Eğitim düzeyi<br/>V-Medeni durum<br/>Bir görsel iletişim tasarımcısı tasarlamış olduğu Web sistesinin ziyaret edilme durumlarını süreksiz (kesikli) değişkenler açısından analiz etmek istemektedir. Buna göre yukarıdaki değişkenlerden hangilerine ilişkin veri toplaması gerekmektedir?",
         "A": "I, II ve III",
         "B": "I, III ve IV",
         "C": "I, IV ve V",
@@ -277,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Süreksiz (Kesikli) Değişken: İki değer arasında başka bir değer olmayan değişkenlerdir. Değerler, sıfatlar veya sembollerle ifade edilmeye çalışılır. Medeni durum, cinsiyet, sınıf düzeyi, eğitim düzeyi, doğrum yeri, kan grubu gibi değişkenler kesikli değişken olarak adlandırılır. Genellikle nitel değişkenler kesikli, nicel değişkenler ise sürekli değişkenlerdir. Doğru Yanıt C seçeneğidir."
+        "Aciklama": "Süreksiz (Kesikli) Değişken: İki değer arasında başka bir değer olmayan değişkenlerdir. Değerler, sıfatlar veya sembollerle ifade edilmeye çalışılır. Medeni durum, cinsiyet, sınıf düzeyi, eğitim düzeyi, doğrum yeri, kan grubu gibi değişkenler kesikli değişken olarak adlandırılır. Genellikle nitel değişkenler kesikli, nicel değişkenler ise sürekli değişkenlerdir. Doğru Yanıt C seçeneğidir."
     },
     {
         "SoruID": 3763977,
-        "SoruMetni": "I-Ölçme esnasında araya başka değişkenler girmez.<br/> II-Nitelikler kendileriyle benzer türden bir araçla ölçülürler.<br/> III-Özelliğin etkisi, belirtisi, yansımasına bakılarak ölçme yapılır.<br/> IV-Başka ölçümler arasında kurulan bağıntı aracılığıyla sonuca ulaşılır.<br/> V-Ölçmeye konu olan özellikler doğrudan gözlemlenebilirdir.<br/> Yukarıdakilerden hangileri doğrudan ölçmenin özellikleri arasında yer almaktadır?",
+        "SoruMetni": "I-Ölçme esnasında araya başka değişkenler girmez.<br/>II-Nitelikler kendileriyle benzer türden bir araçla ölçülürler.<br/>III-Özelliğin etkisi, belirtisi, yansımasına bakılarak ölçme yapılır.<br/>IV-Başka ölçümler arasında kurulan bağıntı aracılığıyla sonuca ulaşılır.<br/>V-Ölçmeye konu olan özellikler doğrudan gözlemlenebilirdir.<br/>Yukarıdakilerden hangileri doğrudan ölçmenin özellikleri arasında yer almaktadır?",
         "A": "I, II ve III",
         "B": "I, II ve V",
         "C": "II, III ve IV",
@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 3763979,
-        "SoruMetni": "I-Değişkenleri belirli bir niteliğe göre sıraya dizmeye yarar.<br/> II-Birimleri her durumda benzer niteliktedir.<br/> III-Sıfır noktası yokluğu ifade eder.<br/> IV-Yalnızca belli bir gruba ait olup olmama durumuna bakılmaktadır.<br/> V-Üzerinde her türlü istatistik işlem yapılır.<br/> Yukarıdaki hangileri eşit oranlı ölçeğin özellikleri arasında yer almaktadır?",
+        "SoruMetni": "I-Değişkenleri belirli bir niteliğe göre sıraya dizmeye yarar.<br/>II-Birimleri her durumda benzer niteliktedir.<br/>III-Sıfır noktası yokluğu ifade eder.<br/>IV-Yalnızca belli bir gruba ait olup olmama durumuna bakılmaktadır.<br/>V-Üzerinde her türlü istatistik işlem yapılır.<br/>Yukarıdaki hangileri eşit oranlı ölçeğin özellikleri arasında yer almaktadır?",
         "A": "I, II ve III",
         "B": "I, II ve IV",
         "C": "II, III ve IV",
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 3763989,
-        "SoruMetni": "I-Hazırlanması kısa zaman alır.<br/> II-Kullanımı ve puanlaması kolaydır.<br/> III-Nesnel değerlendirmeye uygundur.<br/> IV-Her yaş seviyesinde uygulanabilir.<br/> IV-Alt düzey bilişsel becerilerin ölçülmesinde kullanılır.<br/> Yukarıdakilerden hangileri çoktan seçmeli testlerin özellikleri arasında yer alır?",
+        "SoruMetni": "I-Hazırlanması kısa zaman alır.<br/>II-Kullanımı ve puanlaması kolaydır.<br/>III-Nesnel değerlendirmeye uygundur.<br/>IV-Her yaş seviyesinde uygulanabilir.<br/>IV-Alt düzey bilişsel becerilerin ölçülmesinde kullanılır.<br/>Yukarıdakilerden hangileri çoktan seçmeli testlerin özellikleri arasında yer alır?",
         "A": "I, II ve III",
         "B": "I, II ve IV",
         "C": "I, III ve IV",

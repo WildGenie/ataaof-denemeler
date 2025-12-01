@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264537,
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264541,
@@ -54,7 +56,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 264543,
@@ -73,11 +76,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 264544,
-        "SoruMetni": "…………., yapıların daha çok iç yüzeylerinde kullanılan ve yüzeysel alçı kabartmanın renklendirilmesi ile elde edilen bir süsleme tekniğidir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br> <br/></br>",
+        "SoruMetni": "…………., yapıların daha çok iç yüzeylerinde kullanılan ve yüzeysel alçı kabartmanın renklendirilmesi ile elde edilen bir süsleme tekniğidir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
         "A": "Kündekâri",
         "B": "Çini",
         "C": "Kalemişi",
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264546,
@@ -111,11 +116,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264551,
-        "SoruMetni": "<strong>Genellikle büyük camilerin yanında yer alan içerisinde ezan vakitlerinin belirlenmesi için gerekli aletlerin ve saatlerin bulunduğu yapıya ne ad verilir?</strong><br/>",
+        "SoruMetni": "<strong>Genellikle büyük camilerin yanında yer alan içerisinde ezan vakitlerinin belirlenmesi için gerekli aletlerin ve saatlerin bulunduğu yapıya ne ad verilir?</strong>",
         "A": "İmarethane",
         "B": "Muvakkithane",
         "C": "Bimarhane",
@@ -130,7 +136,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266739,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266794,
@@ -168,11 +176,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266795,
-        "SoruMetni": "<strong>Bir yapının veya eserin yıkılan, harap olan bölümlerinin daha fazla tahrip olmasını önlemek için aslına uygun biçimde onarılmasına ……. denir.<br/> <br/>Metindeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "<strong>Bir yapının veya eserin yıkılan, harap olan bölümlerinin daha fazla tahrip olmasını önlemek için aslına uygun biçimde onarılmasına ……. denir.<br/>Metindeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Restorasyon",
         "B": "Restitüsyon",
         "C": "Rölöve",
@@ -187,11 +196,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266796,
-        "SoruMetni": "<strong>Cami, medrese, hamam, imaret, şifahane ve çarşı gibi ek yapıları ile birlikte inşa edilen yapılar topluğuna……. denir.<br/> <br/>Metindeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "<strong>Cami, medrese, hamam, imaret, şifahane ve çarşı gibi ek yapıları ile birlikte inşa edilen yapılar topluğuna……. denir.<br/>Metindeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Sebil",
         "B": "Çeşme",
         "C": "Selsebil",
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 266824,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 266826,
@@ -244,11 +256,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 266828,
-        "SoruMetni": "<strong>Kilisenin doğusunda ve apsisin önünde bulunan, üzerinde dinî törenin yapıldığı sunak masasının bulunduğu kutsal bölüme …..............….. ne ad verilir?</strong><br/>",
+        "SoruMetni": "<strong>Kilisenin doğusunda ve apsisin önünde bulunan, üzerinde dinî törenin yapıldığı sunak masasının bulunduğu kutsal bölüme …..............….. ne ad verilir?</strong>",
         "A": "Naos",
         "B": "Apsis",
         "C": "Natrheks",
@@ -263,12 +276,13 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266831,
-        "SoruMetni": "<strong>Mahalle aralarında bağımsız olarak veya bir yapıya bitişik yapılmış, genellikle herkesin yararlanması için yapılan, borularla gelen suyun bir oluktan ya da musluktan aktığı, bir yalağı bulunan su yapılarına..….. denir.<br/> <br/>Boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?</strong>",
-        "A": "Sebil<br/> <br/><br> <br/></br>",
+        "SoruMetni": "<strong>Mahalle aralarında bağımsız olarak veya bir yapıya bitişik yapılmış, genellikle herkesin yararlanması için yapılan, borularla gelen suyun bir oluktan ya da musluktan aktığı, bir yalağı bulunan su yapılarına..….. denir.<br/>Boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?</strong>",
+        "A": "Sebil<br/></br>",
         "B": "​ Selsebil",
         "C": "Kurun",
         "D": "Çeşme",
@@ -282,11 +296,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266832,
-        "SoruMetni": "Antik kentlerinde at ve araba koşularının yapıldığı, etrafı seyirci yerleri ile çevrili alanlara..….. denir.<br/> <br/>Boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?",
+        "SoruMetni": "Antik kentlerinde at ve araba koşularının yapıldığı, etrafı seyirci yerleri ile çevrili alanlara..….. denir.<br/>Boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?",
         "A": "Forum",
         "B": "Hipodrom",
         "C": "Stadyum",
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266833,
@@ -320,7 +336,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 328722,
@@ -339,7 +356,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328726,
@@ -358,7 +376,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 328734,
@@ -377,11 +396,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 366965,
-        "SoruMetni": "<strong>Kiliselerde koronun arkasında bulunan ve camilerdeki mihrap bölümünü teşkil eden, doğu yönünü gösteren genellikle yarım yuvarlak planlı niş için aşağıdaki ifadelerden hangisi kullanılır?</strong>",
+        "SoruMetni": "<strong>Kiliselerde koronun arkasında bulunan ve camilerdeki mihrap bölümünü teşkil eden, doğu yönünü gösteren genellikle yarım yuvarlak planlı niş için aşağıdaki ifadelerden hangisi kullanılır?</strong>",
         "A": "Mihrap",
         "B": "Apsis",
         "C": "Narteks",
@@ -396,7 +416,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 366967,
@@ -415,7 +436,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 367035,
@@ -434,7 +456,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 393952,
@@ -453,7 +476,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 393953,
@@ -472,7 +496,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 264630,
@@ -491,7 +516,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264644,
@@ -510,7 +536,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 264648,
@@ -529,11 +556,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264653,
-        "SoruMetni": "…………., MÖ 2000-1000 yıllarında Anadolu’ya Kafkasya’dan Güney İran, Mezopotamya yolu ile geldikleri kabul ediliyor. Boğazköy, Kültepe, Alaca, Alişar’da bu uygarlığının önemli kalıntıları vardır.<br/> <br/><strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br> <br/></br>",
+        "SoruMetni": "…………., MÖ 2000-1000 yıllarında Anadolu’ya Kafkasya’dan Güney İran, Mezopotamya yolu ile geldikleri kabul ediliyor. Boğazköy, Kültepe, Alaca, Alişar’da bu uygarlığının önemli kalıntıları vardır.<br/><strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
         "A": "Kimmerlerin",
         "B": "Urartuların",
         "C": "Hattilerin",
@@ -548,11 +576,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264655,
-        "SoruMetni": "<br/> <strong>MÖ 725-675 yıllarında Anadolu’ya göç eden Balkan kökenli boylardan olup siyasi bir topluluk olarak ilk defa MÖ 750’den sonra Hitit İmparatorluğu’nun yıkılmasının ardından Anadolu'da kurulan uygarlık aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<br/><strong>MÖ 725-675 yıllarında Anadolu’ya göç eden Balkan kökenli boylardan olup siyasi bir topluluk olarak ilk defa MÖ 750’den sonra Hitit İmparatorluğu’nun yıkılmasının ardından Anadolu'da kurulan uygarlık aşağıdakilerden hangisidir?</strong>",
         "A": "Likya",
         "B": "Lidya",
         "C": "Urartu",
@@ -567,7 +596,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 266877,
@@ -586,7 +616,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266878,
@@ -605,7 +636,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266879,
@@ -624,7 +656,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266880,
@@ -643,7 +676,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 266881,
@@ -662,7 +696,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266882,
@@ -681,7 +716,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266883,
@@ -700,7 +736,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266884,
@@ -719,7 +756,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 266885,
@@ -738,7 +776,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 266886,
@@ -757,14 +796,15 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 328735,
-        "SoruMetni": "<strong>Günümüzden 12.000 yıl öncesine tarihlenen Göbekli Tepe hangi döneme  ait bir inanç merkezidir?</strong>",
+        "SoruMetni": "<strong>Günümüzden 12.000 yıl öncesine tarihlenen Göbekli Tepe hangi döneme ait bir inanç merkezidir?</strong>",
         "A": "Paleolitik Dönem",
-        "B": "Neolitik Dönem",
-        "C": "Kalkolitik Dönem",
+        "B": "Neolitik Dönem",
+        "C": "Kalkolitik Dönem",
         "D": "Bronz Devri",
         "E": "Tunç Devri",
         "DogruCevap": "A",
@@ -776,7 +816,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328736,
@@ -795,11 +836,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328739,
-        "SoruMetni": "Yazının icadından, Kavimler Göçü (375) veya Batı Roma’nın yıkılmasına (476) kadar geçen süre ……....... olarak adlandırılır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Yazının icadından, Kavimler Göçü (375) veya Batı Roma’nın yıkılmasına (476) kadar geçen süre ……....... olarak adlandırılır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "İlk Çağ",
         "B": "Orta Çağ",
         "C": "Yeni Çağ",
@@ -814,7 +856,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 367038,
@@ -833,11 +876,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 367039,
-        "SoruMetni": "<strong> MÖ 10.000 yani günümüzden 12.000 yıl öncesine tarihlenen, Neolitik Dönem’e ait bir inanç merkezi olan ve \"T\" biçimindeki dikilitaşlarıyla ön plana çıkan bölge aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong> MÖ 10.000 yani günümüzden 12.000 yıl öncesine tarihlenen, Neolitik Dönem’e ait bir inanç merkezi olan ve \"T\" biçimindeki dikilitaşlarıyla ön plana çıkan bölge aşağıdakilerden hangisidir?</strong>",
         "A": "Nevali Çori",
         "B": "Çayönü",
         "C": "Göbeklitepe",
@@ -852,7 +896,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 393954,
@@ -871,11 +916,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 393956,
-        "SoruMetni": "I. Çavuştepe<br/> <br/>II.Toprakkale<br> <br/>III. Alişar<br> <br/><strong>Yukarıdaki yerleşim yerlerinden hangisi ya da hangileri Urartuların önemli kale veya tapınak yerlerinden biri <u>değildir</u>?</strong></br></br>",
+        "SoruMetni": "I. Çavuştepe<br/>II.Toprakkale<br/>III. Alişar<br/><strong>Yukarıdaki yerleşim yerlerinden hangisi ya da hangileri Urartuların önemli kale veya tapınak yerlerinden biri <u>değildir</u>?</strong></br></br>",
         "A": "I ve II",
         "B": "Yalnız I",
         "C": "Yalnız II",
@@ -890,7 +936,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 264729,
@@ -909,7 +956,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 264730,
@@ -928,7 +976,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264731,
@@ -947,7 +996,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264732,
@@ -966,7 +1016,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264733,
@@ -985,7 +1036,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266904,
@@ -1004,7 +1056,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 266907,
@@ -1023,7 +1076,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266910,
@@ -1042,7 +1096,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 266913,
@@ -1061,7 +1116,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266916,
@@ -1080,7 +1136,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266922,
@@ -1099,11 +1156,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266923,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi Çin Seddi'nin yapılış amaçlarından biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi Çin Seddi'nin yapılış amaçlarından biri <u>değildir</u>?</strong>",
         "A": "Türk boylarının saldırısına karşı savunmak",
         "B": "Uzun savaşlar sonunda yıktığı beyliklerin esir düşen yöneticilerini sürgün ve ağır işe sürerek cezalandırmak",
         "C": "Ülkeden kaçışları önlemek",
@@ -1118,7 +1176,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 266924,
@@ -1137,7 +1196,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266925,
@@ -1156,7 +1216,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266930,
@@ -1175,7 +1236,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 328740,
@@ -1194,11 +1256,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 328741,
-        "SoruMetni": "……… sanatı resim, heykel, çömlekçilik ve dokuma ipek gibi tekstil sanatlarını içeren çeşitli sanat formlarından oluşur. Kökeni MÖ 3. bin yılda tarih öncesi yerleşimlere kadar uzanabilir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "……… sanatı resim, heykel, çömlekçilik ve dokuma ipek gibi tekstil sanatlarını içeren çeşitli sanat formlarından oluşur. Kökeni MÖ 3. bin yılda tarih öncesi yerleşimlere kadar uzanabilir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Hint",
         "B": "Japon",
         "C": "Çin",
@@ -1213,7 +1276,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328743,
@@ -1232,7 +1296,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 328744,
@@ -1251,7 +1316,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 367048,
@@ -1270,11 +1336,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 367058,
-        "SoruMetni": "I. Dikili Taşlar<br/> <br/>II. Mastabalar<br> <br/>III. Ev Mimarisi<br> <br/><strong>Yukarıdaki yapılardan hangisi Mısır'ın anıtsal örnekleri arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Dikili Taşlar<br/>II. Mastabalar<br/>III. Ev Mimarisi<br/><strong>Yukarıdaki yapılardan hangisi Mısır'ın anıtsal örnekleri arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -1289,7 +1356,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 367063,
@@ -1308,7 +1376,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 367067,
@@ -1327,7 +1396,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 393957,
@@ -1346,7 +1416,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 393958,
@@ -1365,11 +1436,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264757,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi halkın toplandığı ticari, dinî, ekonomik, siyasi, hukuki ve sosyal etkinliklerin gerçekleştiği bir kamu alanı, açık meydan ve pazar yeridir?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi halkın toplandığı ticari, dinî, ekonomik, siyasi, hukuki ve sosyal etkinliklerin gerçekleştiği bir kamu alanı, açık meydan ve pazar yeridir?</strong>",
         "A": "Tiyatro",
         "B": "Bazilika",
         "C": "Forum",
@@ -1384,7 +1456,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264758,
@@ -1403,7 +1476,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264760,
@@ -1422,7 +1496,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 264761,
@@ -1441,11 +1516,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264791,
-        "SoruMetni": "……………......... Romalılarda, ön yüzünde sütunlu bir gezi yeri bulunan anıtsal çeşmedir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "……………......... Romalılarda, ön yüzünde sütunlu bir gezi yeri bulunan anıtsal çeşmedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Çeşme",
         "B": "Ayazma",
         "C": "Nimfeum",
@@ -1460,7 +1536,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264793,
@@ -1479,7 +1556,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 267054,
@@ -1498,7 +1576,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 267056,
@@ -1517,7 +1596,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 267059,
@@ -1536,11 +1616,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 267060,
-        "SoruMetni": "<strong>Duvar örgüsünde taş ve tuğlaları pozolona adı verilen,  volkanik küllerden oluşan, günümüz çimentosunu andıran harçla birleştirerek kullanarak, büyük yapıların gelişmesini sağlayan medeniyet aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Duvar örgüsünde taş ve tuğlaları pozolona adı verilen, volkanik küllerden oluşan, günümüz çimentosunu andıran harçla birleştirerek kullanarak, büyük yapıların gelişmesini sağlayan medeniyet aşağıdakilerden hangisidir?</strong>",
         "A": "Yunan",
         "B": "Roma",
         "C": "Etrüsk",
@@ -1555,7 +1636,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 267061,
@@ -1574,7 +1656,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 267062,
@@ -1593,11 +1676,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 267063,
-        "SoruMetni": "<strong>Dünyanın en iyi korunmuş Antik Roma Anıtı olarak biliniyor. İlk başta içerisinde pagan tanrı heykelleri varken, kilise tarafından bu heykeller yok edilmiş,  bir Katolik kilisesi hâline getirilmiş yapı aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Dünyanın en iyi korunmuş Antik Roma Anıtı olarak biliniyor. İlk başta içerisinde pagan tanrı heykelleri varken, kilise tarafından bu heykeller yok edilmiş, bir Katolik kilisesi hâline getirilmiş yapı aşağıdakilerden hangisidir?</strong>",
         "A": "Ayasofya",
         "B": "Pantheon",
         "C": "San Pier",
@@ -1612,7 +1696,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 267064,
@@ -1631,7 +1716,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 267067,
@@ -1650,11 +1736,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 267069,
-        "SoruMetni": "<strong>“……………..”Roma Dönemi’nde din dışı bazı kamu işleri için kullanılan dikdörtgen planlı sütun dizilerince taşınan bir yapı türü olup içinde alış veriş yapılan çarşılarla, mahkeme bulunur.<br/> <br/>Boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "<strong>“……………..”Roma Dönemi’nde din dışı bazı kamu işleri için kullanılan dikdörtgen planlı sütun dizilerince taşınan bir yapı türü olup içinde alış veriş yapılan çarşılarla, mahkeme bulunur.<br/>Boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?</strong>",
         "A": "Forum",
         "B": "Amfitiyatro",
         "C": "Bazilika",
@@ -1669,7 +1756,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 328747,
@@ -1688,11 +1776,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 328770,
-        "SoruMetni": "I. Arkaik Dönem: Mısır ve Mezopotamya sanatının etkileri görülür.<br/> <br/>II. Hellenistik Dönem: Üstün estetik değerlere ve dışavurumcu güce sahip heykeller yapılmıştır.<br> <br/>III. Klasik Dönem: Figürlerde idealizm ön plandadır, yapılan heykel doğal gerçekliğe kavuşturulmuştur.<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri Antik Yunan Heykeli özellikleri arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Arkaik Dönem: Mısır ve Mezopotamya sanatının etkileri görülür.<br/>II. Hellenistik Dönem: Üstün estetik değerlere ve dışavurumcu güce sahip heykeller yapılmıştır.<br/>III. Klasik Dönem: Figürlerde idealizm ön plandadır, yapılan heykel doğal gerçekliğe kavuşturulmuştur.<br/><strong>Yukarıdakilerden hangisi ya da hangileri Antik Yunan Heykeli özellikleri arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -1707,7 +1796,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 328771,
@@ -1726,7 +1816,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328774,
@@ -1745,7 +1836,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328776,
@@ -1764,7 +1856,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 367070,
@@ -1783,11 +1876,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 367073,
-        "SoruMetni": "MÖ 7. yüzyıldan itibaren tanrılar için inşa edilen, taştan yapılmaya başlanan tapınaklar ve bunların biçimi, süslemesi, planı belirli kurallara bağlanmıştır. Bu kurallara “nizam” adı verilmektedir. Tapınakların hangi nizama göre yapıldığı cephe düzeni ve sütun başlıklarından anlaşılmaktadır.<strong><br/> <br/>Bu nizamların isimleri aşağıdakilerden hangisinde doğru verilmiştir?</strong>",
+        "SoruMetni": "MÖ 7. yüzyıldan itibaren tanrılar için inşa edilen, taştan yapılmaya başlanan tapınaklar ve bunların biçimi, süslemesi, planı belirli kurallara bağlanmıştır. Bu kurallara “nizam” adı verilmektedir. Tapınakların hangi nizama göre yapıldığı cephe düzeni ve sütun başlıklarından anlaşılmaktadır.<strong><br/>Bu nizamların isimleri aşağıdakilerden hangisinde doğru verilmiştir?</strong>",
         "A": "Dor, İyon ve Korint",
         "B": "Dor, Samerra ve Ampir",
         "C": "Korint, A Üslubu ve Barok",
@@ -1802,11 +1896,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 367075,
-        "SoruMetni": "<strong>Yunanistan’da güçlü surlarla korunan şehirlere “polis” adı verilir, bu şehirler surlarla çevrilmişlerdir.  Bu şehirlerde birbirine paralel ve birbirini dik kesen düzenli caddelerin bulunduğu Hippodamos planının diğer ismi aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Yunanistan’da güçlü surlarla korunan şehirlere “polis” adı verilir, bu şehirler surlarla çevrilmişlerdir. Bu şehirlerde birbirine paralel ve birbirini dik kesen düzenli caddelerin bulunduğu Hippodamos planının diğer ismi aşağıdakilerden hangisidir?</strong>",
         "A": "Karışık Plan",
         "B": "Izgara Plan",
         "C": "Rotond Plan",
@@ -1821,14 +1916,15 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 367079,
-        "SoruMetni": "<strong>Roma, efsaneye göre MÖ 27 Nisan 753 tarihinde, Truva Prensi Aeneas'ın torunları olarak da bilinen hangi kardeşler tarafından kurulmuştur?</strong>",
+        "SoruMetni": "<strong>Roma, efsaneye göre MÖ 27 Nisan 753 tarihinde, Truva Prensi Aeneas'ın torunları olarak da bilinen hangi kardeşler tarafından kurulmuştur?</strong>",
         "A": "Romulus ve Remus",
         "B": "Attila ve Bleda",
-        "C": "Herodot ve Pasteur",
+        "C": "Herodot ve Pasteur",
         "D": "Herkül-Apollo",
         "E": "Gog-Magog",
         "DogruCevap": "A",
@@ -1840,7 +1936,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 393961,
@@ -1859,7 +1956,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 394208,
@@ -1878,11 +1976,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264925,
-        "SoruMetni": "Sanat ve mimarlıkta özellikle 4. ve 5. yüzyıllarda, Antik Roma sanatından çok fazla etkiler taşıması nedeniyle bu dönem “……………” olarak da adlandırılmaktadır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br> <br/></br>",
+        "SoruMetni": "Sanat ve mimarlıkta özellikle 4. ve 5. yüzyıllarda, Antik Roma sanatından çok fazla etkiler taşıması nedeniyle bu dönem “……………” olarak da adlandırılmaktadır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
         "A": "İlk Çağ",
         "B": "Geç Antik Çağ",
         "C": "Orta Çağ",
@@ -1897,7 +1996,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264926,
@@ -1916,11 +2016,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264927,
-        "SoruMetni": "\"………………..\" doğu-batı ekseni üzerinde gelişen üstü ahşap, çift meyilli çatı ile örtülü olan ve Hristiyanlığın zaferini simgelemek istercesine çok büyük ölçülerde inşa edilen uzunlamasına yapılardır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br> <br/></br>",
+        "SoruMetni": "\"………………..\" doğu-batı ekseni üzerinde gelişen üstü ahşap, çift meyilli çatı ile örtülü olan ve Hristiyanlığın zaferini simgelemek istercesine çok büyük ölçülerde inşa edilen uzunlamasına yapılardır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
         "A": "Kilise",
         "B": "Katedral",
         "C": "Şapel",
@@ -1935,7 +2036,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264928,
@@ -1954,7 +2056,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264929,
@@ -1973,11 +2076,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 264933,
-        "SoruMetni": "Roma İmparatoru Septimus tarafından yaptırılan ve daha sonra Konstantinus tarafından genişletilen ve imparatorluğun değişik yerlerinden getirilen eserlerle donatılan Hipodromun; eni 117, boyu ise 480 metreye, kapasitesi ise ………… kişiye ulaşıyordu.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Roma İmparatoru Septimus tarafından yaptırılan ve daha sonra Konstantinus tarafından genişletilen ve imparatorluğun değişik yerlerinden getirilen eserlerle donatılan Hipodromun; eni 117, boyu ise 480 metreye, kapasitesi ise ………… kişiye ulaşıyordu.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "2.000",
         "B": "5.000",
         "C": "10.000",
@@ -1992,11 +2096,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 264934,
-        "SoruMetni": "Delfi’deki Apollon Tapınağı’na sunulmuş olan üç ayaklı altından kazanın kaidesidir. Birbirine sarılmış üç büyük yılan başları üzerinde altından bir kazanı taşıyordu. Anıtın orijinali 8 metre yüksekliğinde olup 29 boğumludur. Bizans İmparatoru Konstantinus, anıtı Delfi kehanet merkezinden söktürerek Konstantinapolis’e getirtmiş ve Hipodroma diktirmiştir.<br/> <br/><strong>Yukarıda özellikleri anlatılan Delfi kehanet merkezi hangi ülkededir?</strong>",
+        "SoruMetni": "Delfi’deki Apollon Tapınağı’na sunulmuş olan üç ayaklı altından kazanın kaidesidir. Birbirine sarılmış üç büyük yılan başları üzerinde altından bir kazanı taşıyordu. Anıtın orijinali 8 metre yüksekliğinde olup 29 boğumludur. Bizans İmparatoru Konstantinus, anıtı Delfi kehanet merkezinden söktürerek Konstantinapolis’e getirtmiş ve Hipodroma diktirmiştir.<br/><strong>Yukarıda özellikleri anlatılan Delfi kehanet merkezi hangi ülkededir?</strong>",
         "A": "Mısır",
         "B": "Filistin",
         "C": "Yunanistan",
@@ -2011,7 +2116,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 267078,
@@ -2030,7 +2136,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 267085,
@@ -2038,7 +2145,7 @@
         "A": "İkona",
         "B": "Minyatür",
         "C": "Fresko",
-        "D": "Mozaik<br/> <br/><br> <br/></br>",
+        "D": "Mozaik<br/></br>",
         "E": "Diptikon",
         "DogruCevap": "A",
         "DersAd": "Genel Sanat Tarihi",
@@ -2049,11 +2156,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 267090,
-        "SoruMetni": "<strong>El yazmalarında karşımıza çıkan, çok ince işlenmiş ve küçük boyutlu resimlere “………………..” denir.<br/> <br/>Boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir.</strong>",
+        "SoruMetni": "<strong>El yazmalarında karşımıza çıkan, çok ince işlenmiş ve küçük boyutlu resimlere “………………..” denir.<br/>Boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir.</strong>",
         "A": "Fresko",
         "B": "Minyatür",
         "C": "Ebru",
@@ -2068,7 +2176,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 267095,
@@ -2087,7 +2196,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 267102,
@@ -2106,14 +2216,15 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 267103,
         "SoruMetni": "<strong>Bizans medeniyetinde konuşulan resmî dil aşağıdakilerden hangisidir?</strong>",
         "A": "Sırpça",
         "B": "Bulgarca",
-        "C": "Rusça<br/> <br/><br> <br/></br>",
+        "C": "Rusça<br/></br>",
         "D": "Grekçe",
         "E": "Almanca",
         "DogruCevap": "D",
@@ -2125,7 +2236,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 267104,
@@ -2144,7 +2256,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 267105,
@@ -2163,11 +2276,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 267106,
-        "SoruMetni": "325 yılında…………. toplanan I. Konsil Hristiyanlığa yeni bir güç kazandırmıştır.<strong><br/> <br/>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "325 yılında…………. toplanan I. Konsil Hristiyanlığa yeni bir güç kazandırmıştır.<strong><br/>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "İznik’te",
         "B": "Kadıköy’de",
         "C": "Trabzon’da",
@@ -2182,11 +2296,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328788,
-        "SoruMetni": "Bizans mimarisinde çeşitli plan tipleri uygulanmıştır.<br/> <br/><strong>Aşağıdakilerden hangisi bu plan tiplerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "Bizans mimarisinde çeşitli plan tipleri uygulanmıştır.<br/><strong>Aşağıdakilerden hangisi bu plan tiplerinden biri <u>değildir</u>?</strong>",
         "A": "Bazilikal plan",
         "B": "Merkezî plan",
         "C": "Serbest ve Yunan haçı plan",
@@ -2201,7 +2316,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 328794,
@@ -2220,11 +2336,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 328800,
-        "SoruMetni": "Bizans Dönemi’nden kalma İstanbul’da yedi tane dikilitaş mevcuttur.<br/> <br/><strong>Aşağıdakilerden hangisi bu dikilitaşlardan biri <u>değildir</u>?</strong>",
+        "SoruMetni": "Bizans Dönemi’nden kalma İstanbul’da yedi tane dikilitaş mevcuttur.<br/><strong>Aşağıdakilerden hangisi bu dikilitaşlardan biri <u>değildir</u>?</strong>",
         "A": "Obelisk (Dikilitaş)",
         "B": "Yılanlı Sütun",
         "C": "Örmeli Sütun",
@@ -2239,7 +2356,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 328801,
@@ -2258,11 +2376,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 367081,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi Bizans İmparatorluğu'nun tarihi dönemlerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi Bizans İmparatorluğu'nun tarihi dönemlerinden biri <u>değildir</u>?</strong>",
         "A": "İntikal ve Geçiş Dönemi",
         "B": "İkonoklazma Dönemi",
         "C": "Latin İstilası",
@@ -2277,7 +2396,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 393963,
@@ -2296,11 +2416,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 394215,
-        "SoruMetni": "I. Gotlar Sütunu<br/> <br/>II. Arkadius Sütunu<br> <br/>III. Çemberlitaş Sütunu<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri Topkapı Sarayı'nın dış bahçesinde yer alan, yekpare mermerden yapılmış 18,5 m yüksekliğindeki korint başlıklı ve kartal armalı sütundur?</strong></br></br>",
+        "SoruMetni": "I. Gotlar Sütunu<br/>II. Arkadius Sütunu<br/>III. Çemberlitaş Sütunu<br/><strong>Yukarıdakilerden hangisi ya da hangileri Topkapı Sarayı'nın dış bahçesinde yer alan, yekpare mermerden yapılmış 18,5 m yüksekliğindeki korint başlıklı ve kartal armalı sütundur?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -2315,7 +2436,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 264966,
@@ -2334,7 +2456,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264967,
@@ -2353,7 +2476,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264968,
@@ -2372,7 +2496,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 264969,
@@ -2391,7 +2516,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264988,
@@ -2410,11 +2536,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264989,
-        "SoruMetni": "İspanya'nın Cordoba şehrinde ilk olarak I. Abdurrahman tarafından 785 - 86 yılında 75,00 x 100,00 m ebatlarında yaptırılan, “…………………”, daha sonraki yapılan eklemelerle genişletilmiş, 178,00 x 125,00 m ölçülerinde 22.000 m<sup>2'</sup>lik alana kurulmuştur. Endülüs Emevilerinin başkentindeki en anıtsal ve ihtişamlı eserdir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "İspanya'nın Cordoba şehrinde ilk olarak I. Abdurrahman tarafından 785 - 86 yılında 75,00 x 100,00 m ebatlarında yaptırılan, “…………………”, daha sonraki yapılan eklemelerle genişletilmiş, 178,00 x 125,00 m ölçülerinde 22.000 m<sup>2'</sup>lik alana kurulmuştur. Endülüs Emevilerinin başkentindeki en anıtsal ve ihtişamlı eserdir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Elhamra",
         "B": "Kurtuba Büyük Camii",
         "C": "Kubbetü’s-Süleybiye",
@@ -2429,7 +2556,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264990,
@@ -2448,7 +2576,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 267117,
@@ -2467,7 +2596,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 267127,
@@ -2486,7 +2616,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 267136,
@@ -2505,7 +2636,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 267159,
@@ -2524,7 +2656,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 267161,
@@ -2543,7 +2676,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 267175,
@@ -2562,11 +2696,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 267182,
-        "SoruMetni": "<strong>Mescid-i Nebevi’de “……………….” en büyük imar işlerini gerçekleştiren Osmanlı padişahıdır.<br/> <br/>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "<strong>Mescid-i Nebevi’de “……………….” en büyük imar işlerini gerçekleştiren Osmanlı padişahıdır.<br/>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Kanuni Sultan Süleyman",
         "B": "Sultan II. Mustafa",
         "C": "Sultan I. Mahmud",
@@ -2581,11 +2716,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 267183,
-        "SoruMetni": "<strong>“………………..”, üç yıl süren bir çalışmadan sonra Mescidi Nebevi’nin kubbe kasnaklarını, duvarlarını, kapılarını, mihrap ve sütunlarını kuşak hâlinde celî sülüs tarzında ayetler, hadisler, Hz. Peygamber’in ve mescidinin adları ve sıfatlarıyla tezyin etmiştir.<br/> <br/>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "<strong>“………………..”, üç yıl süren bir çalışmadan sonra Mescidi Nebevi’nin kubbe kasnaklarını, duvarlarını, kapılarını, mihrap ve sütunlarını kuşak hâlinde celî sülüs tarzında ayetler, hadisler, Hz. Peygamber’in ve mescidinin adları ve sıfatlarıyla tezyin etmiştir.<br/>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Kazasker Mustafa İzzet",
         "B": "Hafız Osman",
         "C": "Hasan Çelebi",
@@ -2600,7 +2736,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 267184,
@@ -2619,7 +2756,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 267185,
@@ -2638,7 +2776,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328804,
@@ -2657,16 +2796,17 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 328806,
         "SoruMetni": "<strong>Sîdî Ukbe Camii kim tarafından ne zaman yaptırılmıştır?</strong>",
         "A": "Ukbe b. Nafi tarafından 670’te",
         "B": "Halife Abdülmelik b. Mervan tarafından 691’te",
-        "C": "Halife I. Velid b. Abdülmelik  tarafından 705-715’te",
+        "C": "Halife I. Velid b. Abdülmelik tarafından 705-715’te",
         "D": "Süleyman bin Abdülmelik tarafından 715-716'da",
-        "E": "Sa'd bin Ebi Vakkas  tarafından 635‘te",
+        "E": "Sa'd bin Ebi Vakkas tarafından 635‘te",
         "DogruCevap": "A",
         "DersAd": "Genel Sanat Tarihi",
         "Somestre": 1,
@@ -2676,11 +2816,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328812,
-        "SoruMetni": "<strong>Kur’an-ı Kerim’deki ayetlere göre  Kâbe ne zaman yapılmıştır?</strong>",
+        "SoruMetni": "<strong>Kur’an-ı Kerim’deki ayetlere göre Kâbe ne zaman yapılmıştır?</strong>",
         "A": "Hz. İbrahim’den önce",
         "B": "Hz. Muhammed’ten önce",
         "C": "Hz. Musa’dan önce",
@@ -2695,7 +2836,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328815,
@@ -2714,11 +2856,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 367097,
-        "SoruMetni": "<strong>Dört Halife Dönemi’nden sonra kurulan ve 661-750 yılları arasında hüküm sürmüş olan, Mescid-i Aksa ve Kubbetü's Sahra gibi yapıları inşa eden Müslüman Arap Devleti aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Dört Halife Dönemi’nden sonra kurulan ve 661-750 yılları arasında hüküm sürmüş olan, Mescid-i Aksa ve Kubbetü's Sahra gibi yapıları inşa eden Müslüman Arap Devleti aşağıdakilerden hangisidir?</strong>",
         "A": "Emeviler",
         "B": "Abbasiler",
         "C": "Gazneliler",
@@ -2733,11 +2876,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 367106,
-        "SoruMetni": "Abbasiler Dönemin'de tuğladan sekizgen planda inşa edilen yapı, İslam sanatının ilk türbe mimarisi olması açısından önem teşkil etmektedir.<br/> <br/><strong>Samerra'da Dicle Nehri'nin batı kıyısında yer alan bu türbe aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "Abbasiler Dönemin'de tuğladan sekizgen planda inşa edilen yapı, İslam sanatının ilk türbe mimarisi olması açısından önem teşkil etmektedir.<br/><strong>Samerra'da Dicle Nehri'nin batı kıyısında yer alan bu türbe aşağıdakilerden hangisidir?</strong>",
         "A": "Arap Ata Türbesi",
         "B": "Ayşe Bibi Türbesi",
         "C": "Kubbetü’s-Süleybiye",
@@ -2752,7 +2896,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 393964,
@@ -2771,7 +2916,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 393966,
@@ -2790,7 +2936,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264994,
@@ -2809,11 +2956,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264995,
-        "SoruMetni": "……………....... minyatür sanatının başlangıcı  Maniciliğin kutsal kitabında bulunan resimlere dayanmaktadır. Maniheizm etkileri minyatür, el yazmalarında ve çeşitli metinlerde görülür.<br/> <br/><strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "……………....... minyatür sanatının başlangıcı Maniciliğin kutsal kitabında bulunan resimlere dayanmaktadır. Maniheizm etkileri minyatür, el yazmalarında ve çeşitli metinlerde görülür.<br/><strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Uygur",
         "B": "Göktürk",
         "C": "Buda",
@@ -2828,7 +2976,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 264997,
@@ -2847,11 +2996,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 265011,
-        "SoruMetni": "Türkmenistan’ın Merv şehrinde yer alan türbe, Büyük Selçuklu mimarisinin önemli örneklerindendir. 1153-1157 yılları arasında yaptırılmıştır. Yapının mimarı Muhammed bin Atsız’dır.<br/> <br/><strong>Paragrafta anlatılan türbe aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "Türkmenistan’ın Merv şehrinde yer alan türbe, Büyük Selçuklu mimarisinin önemli örneklerindendir. 1153-1157 yılları arasında yaptırılmıştır. Yapının mimarı Muhammed bin Atsız’dır.<br/><strong>Paragrafta anlatılan türbe aşağıdakilerden hangisidir?</strong>",
         "A": "Arap Ata Türbesi",
         "B": "Ayşe Bibi Türbesi",
         "C": "Harrekan Türbesi",
@@ -2866,7 +3016,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 267187,
@@ -2885,7 +3036,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 267190,
@@ -2904,7 +3056,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 267198,
@@ -2923,7 +3076,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 267199,
@@ -2942,7 +3096,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 267200,
@@ -2961,7 +3116,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 267203,
@@ -2980,7 +3136,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 267206,
@@ -2999,7 +3156,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 267209,
@@ -3018,7 +3176,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 267215,
@@ -3037,11 +3196,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 267218,
-        "SoruMetni": "8. yüzyılda “………………” Doğu Türkistan’a nüfuz etmeleriyle duvar resimleri devri başlamıştır. Böylece ortaya çıkan resim üslubu zamanla bütün Orta Asya ülkelerini etkisi altına almıştır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "8. yüzyılda “………………” Doğu Türkistan’a nüfuz etmeleriyle duvar resimleri devri başlamıştır. Böylece ortaya çıkan resim üslubu zamanla bütün Orta Asya ülkelerini etkisi altına almıştır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Hunlar",
         "B": "Göktürkler",
         "C": "Uygurlar",
@@ -3056,7 +3216,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 328818,
@@ -3075,7 +3236,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 328822,
@@ -3094,7 +3256,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328823,
@@ -3113,7 +3276,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 367117,
@@ -3132,11 +3296,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 367120,
-        "SoruMetni": "<strong>Afganistan sınırları içerisinde Alp Tegin tarafından kurulan, 961 - 1187 arasında hüküm süren, Leşker-i Bazar Sarayı, Leşker-i Bazar Ulu Camii ve  Ribat-ı Mahi gibi eserleri Türk-İslam mimarisine kazandıran devlet aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Afganistan sınırları içerisinde Alp Tegin tarafından kurulan, 961 - 1187 arasında hüküm süren, Leşker-i Bazar Sarayı, Leşker-i Bazar Ulu Camii ve Ribat-ı Mahi gibi eserleri Türk-İslam mimarisine kazandıran devlet aşağıdakilerden hangisidir?</strong>",
         "A": "Karahanlılar",
         "B": "Anadolu Selçuklu Devleti",
         "C": "Samaniler",
@@ -3151,11 +3316,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 393967,
-        "SoruMetni": "I. Anav<br/> <br/>II. Karasuk<br> <br/>III. Taştık<br> <br/>IV. Afanesyevo<br> <br/><strong>Orta Asya’da yukarıda verilen kültürlerden hangisi ya da hangileri Türk Sanatı'nın ilk örneklerini oluşturmaktadır?</strong></br></br></br>",
+        "SoruMetni": "I. Anav<br/>II. Karasuk<br/>III. Taştık<br/>IV. Afanesyevo<br/><strong>Orta Asya’da yukarıda verilen kültürlerden hangisi ya da hangileri Türk Sanatı'nın ilk örneklerini oluşturmaktadır?</strong></br></br></br>",
         "A": "Yalnız I",
         "B": "II ve IV",
         "C": "Yalnız III",
@@ -3170,6 +3336,7 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     }
 ]

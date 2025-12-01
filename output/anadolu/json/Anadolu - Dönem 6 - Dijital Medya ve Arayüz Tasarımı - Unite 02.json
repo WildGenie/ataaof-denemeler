@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ekonomiye katkı"
+        "Aciklama": "İBE, kullanıcı dostu, erişilebilir ve etkili arayüz tasarımları yoluyla teknolojiyi insan ihtiyaçlarına<br/>daha iyi hizmet eder hâle getirmeyi amaçlar. Sayfa 34 okuyup, bkz.<br>Ekonomiye katkı"
     },
     {
         "SoruID": 3592860,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bağlam"
+        "Aciklama": "Bağlam, kullanıcıların teknoloji ile etkileşime girdikleri fiziksel ve sosyal ortamı ifade eder."
     },
     {
         "SoruID": 3592862,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Arayüz"
+        "Aciklama": "Yazılım ve kullanıcı arasındaki iletişimi kolaylaştıran, komutları alıp işleyen ve bilgiyi kullanıcıya geri besleyen her türlü işlemi, aracı ve süresi kapsar.<br>Arayüz"
     },
     {
         "SoruID": 3592863,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çoklu ortamlar"
+        "Aciklama": "Arayüzler; grafik kullanıcı arayüzleri (GUI), komut satırı arayüzleri (CLI), dokunmatik ekranlar, sesli komut arayüzleri gibi çeşitli formlarda olabilir. Arayüzler, insanların bilgisayar sistemleriyle ile etkileşim kurabilmelerinin en temel aracıdır.<br>Çoklu ortamlar"
     },
     {
         "SoruID": 3592864,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Erişilebilirlik"
+        "Aciklama": "Erişebilirlik: Engelli kullanıcılar da dahil olmak üzere herkesin teknolojiyi kullanabilmesini sağlamayı hedefler.<br>Erişilebilirlik"
     },
     {
         "SoruID": 3592865,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İkon"
+        "Aciklama": "<strong>İkonlar:</strong> kullanıcıların uygulama içinde kolayca navigasyon yapmalarını sağlayan görsel ipuçlarıdır."
     },
     {
         "SoruID": 3592866,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Onay Kutusu (Checkbox)"
+        "Aciklama": "<strong>Onay Kutusu (Checkbox):</strong> Kullanıcının birden fazla seçeneği işaretlemesine imkân verir."
     },
     {
         "SoruID": 3592868,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Başlık (Header)"
+        "Aciklama": "Tipik bir web ya da mobil uygulama arayüzü üç ana bölümden oluşur: <strong>Başlık (header)</strong>, ana içerik (<strong>main content veya body)</strong> ve <strong>altbilgi (footer)</strong>."
     },
     {
         "SoruID": 3592870,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Modüler (Modular) Izgara Sistemi"
+        "Aciklama": "Modüler ızgaralar, farklı içerik türlerini (metin, resim, video vb.) bütünleştirmek için esnek bir yapı sunar. Tasarımcılar, içeriğin boyutuna ve türüne göre modülleri uygun şekilde boyutlandırabilirler.<br>Modüler (Modular) Izgara Sistemi"
     },
     {
         "SoruID": 3592872,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Grunge Design (Dağınık Tasarım)"
+        "Aciklama": "Popüler Tasarım Stilleri Arayüz tasarımı, çeşitli stil türlerini kullanarak estetik çeşitlilik sunan dinamik bir disiplindir. Bu stiller;...Flat Design (Düz Tasarım), Product-Oriented Design (Ürün Odaklı Tasarım), Typography-Centric Design (Tipografi Odaklı Tasarım), Minimalist Design (Minimalist Tasarım) ve Illustrative Design (İllüstratif Tasarım) popüler tasarım stillerinin başlıcalarıdır.<br>Grunge Design (Dağınık Tasarım)"
     },
     {
         "SoruID": 3597916,
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 3597919,
-        "SoruMetni": "Aşağıdakilerden hangisi arayüz ile ilgili <strong>yanlış</strong> bir ifadedir?",
+        "SoruMetni": "Aşağıdakilerden hangisi arayüz ile ilgili <strong>yanlış</strong> bir ifadedir?",
         "A": "Herhangi bir dijital cihaz ile kullanıcıları arasında etkileşimi sağlayan bir katmandır.",
         "B": "Komutları alıp işler ve bilgiyi kullanıcıya geri besleyen her türlü işlemi yapar.",
         "C": "Kullanıcıların bir sistemle deneyimini doğrudan etkiler.",

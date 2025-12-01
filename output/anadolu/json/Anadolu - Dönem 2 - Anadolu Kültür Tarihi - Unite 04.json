@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Antik Helen"
+        "Aciklama": "Batı uygarlığının temeli Helen uygarlığı olarak görülmektedir.<br>Antik Helen"
     },
     {
         "SoruID": 2855126,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Aioller"
+        "Aciklama": "Göçler sırasında bu bölgeye yerleşen halk Aioller'dir."
     },
     {
         "SoruID": 2855132,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "M.Ö. 9. yüzyıl"
+        "Aciklama": "Kent devleti Anadolu'da M.Ö. 9. yüzyılda ortaya çıkmıştır."
     },
     {
         "SoruID": 2855138,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Persler"
+        "Aciklama": "Bu dönemde batı Anadolu Karlar tarafından işgal edildi.<br>Persler"
     },
     {
         "SoruID": 2855145,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Akropolis"
+        "Aciklama": "Yüksekte kurulan kentlere Akropolis denir."
     },
     {
         "SoruID": 2855150,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Homeros"
+        "Aciklama": "Ionia' nın en tanınmış ve büyük yazarı Homeros'tur."
     },
     {
         "SoruID": 2855163,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hellenistik"
+        "Aciklama": "Söz edilen özellikler Hellenistik dönemin özellikleridir."
     },
     {
         "SoruID": 2855167,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Roma"
+        "Aciklama": "Hellenistik dönemin sonlarına doğru Anadolu'da Roma uygarlığı etkili olmaya başlamıştır."
     },
     {
         "SoruID": 2855173,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Böl ve yönet"
+        "Aciklama": "\"Divide et impera\" Latince \"böl ve yönet\" demektir."
     },
     {
         "SoruID": 2855180,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yol yapımı"
+        "Aciklama": "Romalılar eyaletlerde en çok yol yapımına önem vermiştir."
     },
     {
         "SoruID": 2856850,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Homeros-İlyada"
+        "Aciklama": "HELLEN GÖÇLERİ SONRASI BATI ANADOLU<br>Homeros-İlyada"
     },
     {
         "SoruID": 2856854,
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karanlık Çağ"
+        "Aciklama": "HELLEN GÖÇLERİ SONRASI BATI ANADOLU<br>Karanlık Çağ"
     },
     {
         "SoruID": 2856855,
-        "SoruMetni": "MÖ. 2000’in ikinci yarısından sonra Avrupa’dan Yunanistan üzerinden Batı Anadolu’ya giren halk gruplarından biri olan İyonların (M.Ö. 1200-700) kurdukları şehir/şehirler <strong><u>aşağıdakilerden hangisidir?</u></strong><br/> I.Gordion<br/> II.Kolophon<br/> III.Samos<br/> IV.Palu<br/> V.Tuşpa",
+        "SoruMetni": "MÖ. 2000’in ikinci yarısından sonra Avrupa’dan Yunanistan üzerinden Batı Anadolu’ya giren halk gruplarından biri olan İyonların (M.Ö. 1200-700) kurdukları şehir/şehirler <strong><u>aşağıdakilerden hangisidir?</u></strong><br/>I.Gordion<br/>II.Kolophon<br/>III.Samos<br/>IV.Palu<br/>V.Tuşpa",
         "A": "I,III,V",
         "B": "II,IV",
         "C": "II,III",
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "II.Kolophon<br/> III.Samos"
+        "Aciklama": "Göç Hareketleri Sonrasında Batı Anadolu<br>II.Kolophon<br/>III.Samos"
     },
     {
         "SoruID": 2856857,
@@ -277,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "polis"
+        "Aciklama": "Kent Devletlerinin (Polis) Ortaya Çıkışı ve Kolonizasyon Hareketleri"
     },
     {
         "SoruID": 2856861,
-        "SoruMetni": "M.Ö. 6. Yüzyılda Batı Anadolu (I)ler tarafından işgal edilmiştir. İşgalciler (II) denilen bir çeşit eyalet sistemi olan siyasi şehirler kurup (III) tarafından yönetmişlerdir.<br/> Yukarıdaki cümlelerde parantez içi (I),(II),(III) kısımları doğru şekilde dolduran ifadeler <strong><u>aşağıdakilerden hangisidir?</u></strong>",
+        "SoruMetni": "M.Ö. 6. Yüzyılda Batı Anadolu (I)ler tarafından işgal edilmiştir. İşgalciler (II) denilen bir çeşit eyalet sistemi olan siyasi şehirler kurup (III) tarafından yönetmişlerdir.<br/>Yukarıdaki cümlelerde parantez içi (I),(II),(III) kısımları doğru şekilde dolduran ifadeler <strong><u>aşağıdakilerden hangisidir?</u></strong>",
         "A": "Yunan, koloni, krallar",
         "B": "Çin, korint, hanlar",
         "C": "Pers, satrap, tiranlar",
@@ -297,11 +297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pers, satrap, tiranlar"
+        "Aciklama": "Persler, İonia Ayaklanması ve Sonuçları<br>Pers, satrap, tiranlar"
     },
     {
         "SoruID": 2856864,
-        "SoruMetni": "6. yüzyılda Pers işgalinden sonra Miletuslu kent planlayıcısı (I)’un ilk kez “düzenli bir kent planı” (II) sistemini hazırlamıştır. MÖ. 5. yüzyıldan sonra bu plan; Priene, Miletus, Herakleia Latmos ve Knidos gibi kentlerde uygulanmıştır.<br/> Yukarıdaki cümledeki (I), (II) boşluklarını doğru şekilde dolduran seçenek <strong><u>aşağıdakilerden hangisidir?</u></strong>",
+        "SoruMetni": "6. yüzyılda Pers işgalinden sonra Miletuslu kent planlayıcısı (I)’un ilk kez “düzenli bir kent planı” (II) sistemini hazırlamıştır. MÖ. 5. yüzyıldan sonra bu plan; Priene, Miletus, Herakleia Latmos ve Knidos gibi kentlerde uygulanmıştır.<br/>Yukarıdaki cümledeki (I), (II) boşluklarını doğru şekilde dolduran seçenek <strong><u>aşağıdakilerden hangisidir?</u></strong>",
         "A": "Hippodamos, ızgara",
         "B": "Antiganos, tapınak",
         "C": "Hippodamos, koloni",
@@ -317,11 +317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hippodamos, ızgara"
+        "Aciklama": "Kültürel Hareketlilik<br>Hippodamos, ızgara"
     },
     {
         "SoruID": 2856868,
-        "SoruMetni": "4. yüzyılda Pers işgali altındaki Anadolu’yu Makedonya Kralı (I) güçlü ordusu ve askerlik yeteneği ile önce Batıdan başlayarak ele geçirmiş, daha sonra Mısır ve Hindistan’a kadar ilerleyen imparatorluğunu kurmuştur.<br/> Yukarıdaki cümledeki (I) boşluğunu doğru şekilde dolduran seçenek <strong><u>aşağıdakilerden hangisidir?</u></strong>",
+        "SoruMetni": "4. yüzyılda Pers işgali altındaki Anadolu’yu Makedonya Kralı (I) güçlü ordusu ve askerlik yeteneği ile önce Batıdan başlayarak ele geçirmiş, daha sonra Mısır ve Hindistan’a kadar ilerleyen imparatorluğunu kurmuştur.<br/>Yukarıdaki cümledeki (I) boşluğunu doğru şekilde dolduran seçenek <strong><u>aşağıdakilerden hangisidir?</u></strong>",
         "A": "III. Aleksandros",
         "B": "Antigonos",
         "C": "Darius",
@@ -337,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "III. Aleksandros"
+        "Aciklama": "HELLENİSTİK DÖNEM’DE ANADOLU<br>III. Aleksandros"
     },
     {
         "SoruID": 2856871,
-        "SoruMetni": "Makedon General (I) M.Ö. 3. yüzyılın başlarında Anadolu’nun hakimi olmuştur.  (II) ünvanı ile (III) hazırlatarak güç sembolü oluşturmuştur.<br/> Yukarıdaki cümledeki (I), (II), (III) kısımlarını doğru şekilde dolduran seçenek <strong><u>aşağıdakilerden hangisidir?</u></strong>",
+        "SoruMetni": "Makedon General (I) M.Ö. 3. yüzyılın başlarında Anadolu’nun hakimi olmuştur. (II) ünvanı ile (III) hazırlatarak güç sembolü oluşturmuştur.<br/>Yukarıdaki cümledeki (I), (II), (III) kısımlarını doğru şekilde dolduran seçenek <strong><u>aşağıdakilerden hangisidir?</u></strong>",
         "A": "Antigonos, basileus, sikke",
         "B": "Kassandros, basileus, heykel",
         "C": "III. Aleksandros, kral, sikke",
@@ -357,11 +357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Antigonos, basileus, sikke"
+        "Aciklama": "İskender’in Ölümünün Ardından Anadolu’nun Genel Görünümü<br>Antigonos, basileus, sikke"
     },
     {
         "SoruID": 2856872,
-        "SoruMetni": "Büyük İskender’in İssos Savaşı’ndan sonra kurdurduğu (I) kenti günümüzde de önemli bir ticaret limanına sahiptir.  Ayrıca fethettiği yerlerde aynı isimde pek çok kent kurdurduğu tahmin edilmektedir.<br/> Yukarıdaki cümledeki (I) boşluğunu doğru şekilde dolduran seçenek <strong><u>aşağıdakilerden hangisidir?</u></strong>",
+        "SoruMetni": "Büyük İskender’in İssos Savaşı’ndan sonra kurdurduğu (I) kenti günümüzde de önemli bir ticaret limanına sahiptir. Ayrıca fethettiği yerlerde aynı isimde pek çok kent kurdurduğu tahmin edilmektedir.<br/>Yukarıdaki cümledeki (I) boşluğunu doğru şekilde dolduran seçenek <strong><u>aşağıdakilerden hangisidir?</u></strong>",
         "A": "Aleksandreia",
         "B": "Antigoneia",
         "C": "Nikomedia",
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Aleksandreia"
+        "Aciklama": "İskender’in Ölümünün Ardından Anadolu’nun Genel Görünümü<br>Aleksandreia"
     },
     {
         "SoruID": 2856875,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Roma"
+        "Aciklama": "ROMA DÖNEMİ’NDE ANADOLU"
     },
     {
         "SoruID": 2857464,
@@ -701,7 +701,7 @@
     },
     {
         "SoruID": 2858516,
-        "SoruMetni": "Historiae (Tarihler) adlı siyasi, askeri ve kültür tarihi içerikli eserinde Anadolu hakkında da ayrıntılı bilgiler veren, “Tarihin Babası” unvanıyla da anılan tarihçi kimdir?<br/><br/>",
+        "SoruMetni": "Historiae (Tarihler) adlı siyasi, askeri ve kültür tarihi içerikli eserinde Anadolu hakkında da ayrıntılı bilgiler veren, “Tarihin Babası” unvanıyla da anılan tarihçi kimdir?",
         "A": "Homeros",
         "B": "Herodot",
         "C": "Hekataios",
@@ -726,7 +726,7 @@
         "B": "III. Antiokhos",
         "C": "III. Attalos",
         "D": "IV. Nikomedes",
-        "E": "II. Seleukos",
+        "E": "II. Seleukos",
         "DogruCevap": "A",
         "DersAd": "Anadolu Kültür Tarihi",
         "Unite": 4,
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Actium zaferinden sonra Roma dünyasının her yanında genel bir barış döneminin başladığını ilan<br/>eden Octavianus’a Senato, princeps (birinci vatandaş), Augustus (kutsal), vb. çeşitli unvanlar vererek onu yönetimdeki tek adam statüsüne getirmiştir. Fiili olarak olmasa da aslında ilk başlarda yaşanan tüm gelişmeler Cumhuriyet Dönemi’nin sona erdiğine ve yeni bir çağın başladığına açık bir işarettir. Zira yönetimi sırasında Cumhuriyet döneminin meclisleri ve kurumları varlığını sürdürdüğü için ortada Eski Doğu veya Hellenistik krallıklarda olduğu gibi mutlak monarşi görünümü yoktur. Ama ne olursa olsun Octavianus’un aldığı unvanlar onu bir imparator konumuna getirmiştir. Zaten süreçte imparatorların otoriteleri artmış ve Roma’yı hanedanlar yönetmeye başlamıştır. Bu anlamda ilk hanedanlık Octavianus ile başlayan ve Nero’nun öldürülmesiyle sona eren Iulius- Claudius Hanedanlığı (MÖ. 27-MS. 68) olmuştur."
+        "Aciklama": "Actium zaferinden sonra Roma dünyasının her yanında genel bir barış döneminin başladığını ilan<br/>eden Octavianus’a Senato, princeps (birinci vatandaş), Augustus (kutsal), vb. çeşitli unvanlar vererek onu yönetimdeki tek adam statüsüne getirmiştir. Fiili olarak olmasa da aslında ilk başlarda yaşanan tüm gelişmeler Cumhuriyet Dönemi’nin sona erdiğine ve yeni bir çağın başladığına açık bir işarettir. Zira yönetimi sırasında Cumhuriyet döneminin meclisleri ve kurumları varlığını sürdürdüğü için ortada Eski Doğu veya Hellenistik krallıklarda olduğu gibi mutlak monarşi görünümü yoktur. Ama ne olursa olsun Octavianus’un aldığı unvanlar onu bir imparator konumuna getirmiştir. Zaten süreçte imparatorların otoriteleri artmış ve Roma’yı hanedanlar yönetmeye başlamıştır. Bu anlamda ilk hanedanlık Octavianus ile başlayan ve Nero’nun öldürülmesiyle sona eren Iulius- Claudius Hanedanlığı (MÖ. 27-MS. 68) olmuştur."
     },
     {
         "SoruID": 2858625,

@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kontrol listesi içeren gözlem formu<br/><br/>Öğretim tasarımcısı öğrenci performansını değerlendirmek için geçerli ve güvenilir ölçme araçlarını belirler veya kendi ölçme aracını tasarlar. Kontrol listesi içeren gözlem formu, çoktan seçmeli test öğretim tasarımcısının kullanabileceği ölçme araçları olabilir. Öğretim tasarımcısı, öğretim süreci sonucunda öğrencinin belirlenen hedefler doğrultusunda hangi performansı sergilemesi gerektiği ile ilgili bir kontrol listesi hazırlayabilir."
+        "Aciklama": "Kontrol listesi içeren gözlem formu<br/>Öğretim tasarımcısı öğrenci performansını değerlendirmek için geçerli ve güvenilir ölçme araçlarını belirler veya kendi ölçme aracını tasarlar. Kontrol listesi içeren gözlem formu, çoktan seçmeli test öğretim tasarımcısının kullanabileceği ölçme araçları olabilir. Öğretim tasarımcısı, öğretim süreci sonucunda öğrencinin belirlenen hedefler doğrultusunda hangi performansı sergilemesi gerektiği ile ilgili bir kontrol listesi hazırlayabilir."
     },
     {
         "SoruID": 3863369,
@@ -37,11 +37,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Programın düzenlenmesi ve uygulanması<br/><br/>Programın düzenlenmesi ve uygulanması (Öğretim tasarımı süreci)<br>8. Öğretimsel amaçları belirle.<br/>9. Öğretimsel hedefleri belirle.<br/>10. Öğretim stratejilerini seç.<br/>11. Taslak ölçme ve değerlendirme tekniklerini belirle.<br/>12. Öğretim stratejilerini uygula.<br/>13. Ölçme ve değerlendirme tekniklerini seç.<br/>14. Öğretimi değerlendirme</br><br/><br/>basamaklarından oluşmaktadır."
+        "Aciklama": "Programın düzenlenmesi ve uygulanması<br/>Programın düzenlenmesi ve uygulanması (Öğretim tasarımı süreci)<br/>8. Öğretimsel amaçları belirle.<br/>9. Öğretimsel hedefleri belirle.<br/>10. Öğretim stratejilerini seç.<br/>11. Taslak ölçme ve değerlendirme tekniklerini belirle.<br/>12. Öğretim stratejilerini uygula.<br/>13. Ölçme ve değerlendirme tekniklerini seç.<br/>14. Öğretimi değerlendirme</br><br/>basamaklarından oluşmaktadır."
     },
     {
         "SoruID": 3863370,
-        "SoruMetni": "Çekirdek öğretim tasarımı modelleri arasında yer alan ve dünyada en yaygın olarak kullanılan öğretim tasarımı modeli aşağıdakilerden hangisinde doğru verilmiştir?<br/><br/>",
+        "SoruMetni": "Çekirdek öğretim tasarımı modelleri arasında yer alan ve dünyada en yaygın olarak kullanılan öğretim tasarımı modeli aşağıdakilerden hangisinde doğru verilmiştir?",
         "A": "ADDIE Modeli",
         "B": "ASSURE Modeli",
         "C": "Dick, Carey ve Carey Modeli",
@@ -57,13 +57,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ADDIE Modeli<br/> Çekirdek öğretim tasarımı modelleri arasında yer alan ve dünyada en yaygın olarak kullanılan öğretim tasarımı modeli, 1975 yılında geliştirilen ADDIE öğretim tasarımı modelidir."
+        "Aciklama": "ADDIE Modeli<br/>Çekirdek öğretim tasarımı modelleri arasında yer alan ve dünyada en yaygın olarak kullanılan öğretim tasarımı modeli, 1975 yılında geliştirilen ADDIE öğretim tasarımı modelidir."
     },
     {
         "SoruID": 3863371,
         "SoruMetni": "Aşağıdaki modeller içerisinde hangileri esnek öğretim tasarımı modeli sınıflaması içerisinde yer almaktadır?",
-        "A": "ADDIE modeli- ASSURE modeli",
-        "B": "ASSURE modeli- Dick, Carey ve Carey modeli",
+        "A": "ADDIE modeli- ASSURE modeli",
+        "B": "ASSURE modeli- Dick, Carey ve Carey modeli",
         "C": "Dick, Carey ve Carey modeli- Addie modeli",
         "D": "Kemp, Morrison ve Ross modeli - ASSURE modeli",
         "E": "Kemp, Morrison ve Ross modeli- ADDIE modeli",
@@ -77,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kemp, Morrison ve Ross modeli - ASSURE modeli<br/> Kemp, Morrison ve Ross modeli, ASSURE modeli gibi esnek model sınıflamasında yer almakta, davranışçı ve bilişsel yaklaşımları benimsemektedir."
+        "Aciklama": "Kemp, Morrison ve Ross modeli ve ASSURE modeli esnek model sınıflamasında yer almakta, davranışçı ve bilişsel yaklaşımları benimsemektedir.<br>Kemp, Morrison ve Ross modeli - ASSURE modeli<br/>Kemp, Morrison ve Ross modeli, ASSURE modeli gibi esnek model sınıflamasında yer almakta, davranışçı ve bilişsel yaklaşımları benimsemektedir."
     },
     {
         "SoruID": 3863372,
-        "SoruMetni": "Öğretim tasarımı sürecinin ilk adımından son adımına kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu,  davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkilenen, web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulan öğretim tasarımı modeli aşağıdakilerden hangisidir?",
+        "SoruMetni": "Öğretim tasarımı sürecinin ilk adımından son adımına kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu, davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkilenen, web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulan öğretim tasarımı modeli aşağıdakilerden hangisidir?",
         "A": "Kemp, Morrison ve Ross Modeli",
         "B": "Gerlach ve Ely Modeli",
         "C": "Dört Boyutlu Öğretim Tasarım Modeli",
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dick, Carey ve Carey Modeli<br/> Öğrenme sürecinde öğretenin bir moderatör ve iletişimi başlatan kişi olduğu ve öğretim hedeflerinin oluşturulmasından ve tüm bu hedeflere nasıl ulaşılacağının adım adım belirlendiği doğrusal bir öğretim tasarımı modelidir. Davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkiler barındırdığı kabul edilen modelin (Dick, Carey veCarey, 2001) web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulduğu bilinmektedir. Dick, Carey ve Carey modeli, öğretim tasarımı sürecinin ilk adımdan son adıma kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu bir modeldir."
+        "Aciklama": "Dick, Carey ve Carey Modeli; öğrenme sürecinde öğretenin bir moderatör ve iletişimi başlatan kişi olduğu ve öğretim hedeflerinin oluşturulmasından ve tüm bu hedeflere nasıl ulaşılacağının adım adım belirlendiği doğrusal bir öğretim tasarımı modelidir. Davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkiler barındırdığı kabul edilen modelin (Dick, Carey veCarey, 2001) web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulduğu bilinmektedir. Dick, Carey ve Carey modeli, öğretim tasarımı sürecinin ilk adımdan son adıma kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu bir modeldir.<br>Dick, Carey ve Carey Modeli<br/>Öğrenme sürecinde öğretenin bir moderatör ve iletişimi başlatan kişi olduğu ve öğretim hedeflerinin oluşturulmasından ve tüm bu hedeflere nasıl ulaşılacağının adım adım belirlendiği doğrusal bir öğretim tasarımı modelidir. Davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkiler barındırdığı kabul edilen modelin (Dick, Carey veCarey, 2001) web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulduğu bilinmektedir. Dick, Carey ve Carey modeli, öğretim tasarımı sürecinin ilk adımdan son adıma kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu bir modeldir."
     },
     {
         "SoruID": 3863373,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Beceri hiyerarşisi<br/><br/>Dört boyutlu öğretim tasarımı modelinde dikkat edilmesi istenen 6 tasarım ilkesi kısaca açıklanmıştır:<br>Gerçekçilik: Öğretim tasarımcısı, öğrenme hedeflerini belirlerken meslekten veya günlük yaşamdan bilgi, beceri ve tutumlara hitap eden gerçek hedefler belirler.<br/>Aslına Uygunluk: Öğretim tasarımcısı öğretim tasarımı süresince, öğrenme etkinlikleri tasarlarken<br/>güvenli bir şekilde simüle edilmiş görev ortamından, giderek daha yüksek doğrulukta görev ortamlarına ve gerçek yaşam etkinliklerine doğru bir geçiş uygular.<br/>Değişkenlik: Öğretim tasarımında öğrenme hedefleri belirlenirken, gerçek yaşam görevlerinin<br/>birbirinden farklı olması gerekmektedir. Dolayısıyla öğretim tasarımcısı, öğrenme hedeflerinin tamamını gerçek yaşam görev performansını temsil edecek şekilde düzenler.<br/>Destek: Öğretim tasarımcısı öğrenenlere, öğrenme görevleri vererek destek sağlar.<br/>Rehberlik: Öğretim tasarımcısı öğrenenlere, problem çözmeye yönelik sistematik bir yaklaşım,<br/>başparmak kuralları veya süreç çalışma sayfaları sağlayarak öğrenme görevlerini yerine getirmeleri için rehberlik eder.<br/>Yapı: Öğretim tasarımcısı, öğrenenlerin daha fazla uzmanlık kazandıkça, verdiği destek ve rehberlik miktarını, öğrenenlerin öğrenme görevlerini herhangi bir destek ve rehberlik olmadan gerçekleştirene kadar kademeli olarak azaltır. </br>"
+        "Aciklama": "Beceri hiyerarşisi<br/>Dört boyutlu öğretim tasarımı modelinde dikkat edilmesi istenen 6 tasarım ilkesi kısaca açıklanmıştır:<br/>Gerçekçilik: Öğretim tasarımcısı, öğrenme hedeflerini belirlerken meslekten veya günlük yaşamdan bilgi, beceri ve tutumlara hitap eden gerçek hedefler belirler.<br/>Aslına Uygunluk: Öğretim tasarımcısı öğretim tasarımı süresince, öğrenme etkinlikleri tasarlarken<br/>güvenli bir şekilde simüle edilmiş görev ortamından, giderek daha yüksek doğrulukta görev ortamlarına ve gerçek yaşam etkinliklerine doğru bir geçiş uygular.<br/>Değişkenlik: Öğretim tasarımında öğrenme hedefleri belirlenirken, gerçek yaşam görevlerinin<br/>birbirinden farklı olması gerekmektedir. Dolayısıyla öğretim tasarımcısı, öğrenme hedeflerinin tamamını gerçek yaşam görev performansını temsil edecek şekilde düzenler.<br/>Destek: Öğretim tasarımcısı öğrenenlere, öğrenme görevleri vererek destek sağlar.<br/>Rehberlik: Öğretim tasarımcısı öğrenenlere, problem çözmeye yönelik sistematik bir yaklaşım,<br/>başparmak kuralları veya süreç çalışma sayfaları sağlayarak öğrenme görevlerini yerine getirmeleri için rehberlik eder.<br/>Yapı: Öğretim tasarımcısı, öğrenenlerin daha fazla uzmanlık kazandıkça, verdiği destek ve rehberlik miktarını, öğrenenlerin öğrenme görevlerini herhangi bir destek ve rehberlik olmadan gerçekleştirene kadar kademeli olarak azaltır. </br>"
     },
     {
         "SoruID": 3863374,
@@ -137,11 +137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hızlı Prototipleme Öğretim Tasarımı Modeli<br/><br/>Hızlı prototipleme modeli, sezgisel öğretim modeli sınıflamasında yer almaktadır. Hızlı prototipleme modeli, öğretim amaçlarının oluşturulması, gereksinimlerin belirlenmesi sonucu içeriğin çözümlemesi ile başlayıp sistemin kurulup sürdürülebilir bir sistem oluşturulması aşamasıyla tamamlanmaktadır."
+        "Aciklama": "Hızlı Prototipleme Öğretim Tasarımı Modeli<br/>Hızlı prototipleme modeli, sezgisel öğretim modeli sınıflamasında yer almaktadır. Hızlı prototipleme modeli, öğretim amaçlarının oluşturulması, gereksinimlerin belirlenmesi sonucu içeriğin çözümlemesi ile başlayıp sistemin kurulup sürdürülebilir bir sistem oluşturulması aşamasıyla tamamlanmaktadır."
     },
     {
         "SoruID": 3863375,
-        "SoruMetni": "Aşağıdakilerden hangisi ARCS-V motivasyon tasarımı modelinin boyutları arasında yer alan \"ilişki\" boyutunda uygulanan stratejiler arasında yer almaktadır?",
+        "SoruMetni": "Aşağıdakilerden hangisi ARCS-V motivasyon tasarımı modelinin boyutları arasında yer alan \"ilişki\" boyutunda uygulanan stratejiler arasında yer almaktadır?",
         "A": "Hedef yönelimi",
         "B": "Doğal sonuçlar",
         "C": "Eşitlik",
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hedef yönelimi<br/> İlişki boyutunda, öğrenen konuyu kendi yaşamındaki yeri ve değeri ile ilişkilendirdiğinde güdülenme sağlayacaktır. Bu boyutla ilgili stratejiler şu biçimdedir: <br/>• Yakınlık: Öğretim tasarımcısı, öğrenenlerin deneyimleri ve değerleriyle ilgili somut bir dil, örnek ve kavramlar kullanır.<br/>• Hedef yönelimi: Öğretim tasarımcısı, öğrenenlerden başarmaları için belirlenen hedefleri açıklamalarını ve hedefi tanımlamalarını ister.<br/>• Güdü eşlemesi: Öğretim tasarımcısı, öğrenenleri neyin güdüleyeceğini belirleyerek buna uygun stratejileri kullanır."
+        "Aciklama": "Hedef yönelimi<br/>İlişki boyutunda, öğrenen konuyu kendi yaşamındaki yeri ve değeri ile ilişkilendirdiğinde güdülenme sağlayacaktır. Bu boyutla ilgili stratejiler şu biçimdedir: <br/>• Yakınlık: Öğretim tasarımcısı, öğrenenlerin deneyimleri ve değerleriyle ilgili somut bir dil, örnek ve kavramlar kullanır.<br/>• Hedef yönelimi: Öğretim tasarımcısı, öğrenenlerden başarmaları için belirlenen hedefleri açıklamalarını ve hedefi tanımlamalarını ister.<br/>• Güdü eşlemesi: Öğretim tasarımcısı, öğrenenleri neyin güdüleyeceğini belirleyerek buna uygun stratejileri kullanır."
     },
     {
         "SoruID": 3863376,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Programlı öğretim<br/><br/>1960’lı yıllarda davranışçı yaklaşımının benimsendiği programlı öğretim, öğretim tasarımının ilk uygulama örneği olmuştur. Programlı öğretimin aşamalı yapısı sayesinde, bir önceki aşamadan elde edilen verilerin bir sonraki aşamanın girdisi olarak kullanılması, öğrenenin kendi başına kendi hızında öğrenmesi, uzaktan öğretim için verimli olarak kullanılmasını sağlamıştır."
+        "Aciklama": "Programlı öğretim<br/>1960’lı yıllarda davranışçı yaklaşımının benimsendiği programlı öğretim, öğretim tasarımının ilk uygulama örneği olmuştur. Programlı öğretimin aşamalı yapısı sayesinde, bir önceki aşamadan elde edilen verilerin bir sonraki aşamanın girdisi olarak kullanılması, öğrenenin kendi başına kendi hızında öğrenmesi, uzaktan öğretim için verimli olarak kullanılmasını sağlamıştır."
     },
     {
         "SoruID": 3863377,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ARCS-V motivasyon tasarım modeli<br/><br/>ARCS-V motivasyon tasarım modeli, öğretim tasarımı modellerinde öğrenenlerin motivasyonlarının artırılmasına yönelik yeterli vurgu yapılmamasına tepki olarak geliştirilmiştir."
+        "Aciklama": "ARCS-V motivasyon tasarım modeli<br/>ARCS-V motivasyon tasarım modeli, öğretim tasarımı modellerinde öğrenenlerin motivasyonlarının artırılmasına yönelik yeterli vurgu yapılmamasına tepki olarak geliştirilmiştir."
     },
     {
         "SoruID": 3863641,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Öğretim tasarımı performans üzerine odaklanır.  Öğretim tasarımcısı; öğrencilerden bilgileri hatırlama, öğrendikleri bilgi ve kazandıkları becerileri kullanma, öğrenme ortamında öğrendiklerini gerçek ortamda uygulama, karşılaşabilecekleri gerçek problemleri çözebilmeleri için karmaşık davranışları gerçekleştirme performansı sergilemelerini bekler. Öğretim tasarımcısı tasarım sürecinde, öğrencilerin performans sergileyecekleri gerçek ortama benzer bir öğrenme ortamı tasarlamalı, gerçek ortam için özgün performans ölçütleri belirlemelidir. Bu bağlamda gerçek yaşam koşullarına benzer görevlerin tasarlanması söz konusu amaca uygun bir karardır."
+        "Aciklama": "Öğretim tasarımı performans üzerine odaklanır. Öğretim tasarımcısı; öğrencilerden bilgileri hatırlama, öğrendikleri bilgi ve kazandıkları becerileri kullanma, öğrenme ortamında öğrendiklerini gerçek ortamda uygulama, karşılaşabilecekleri gerçek problemleri çözebilmeleri için karmaşık davranışları gerçekleştirme performansı sergilemelerini bekler. Öğretim tasarımcısı tasarım sürecinde, öğrencilerin performans sergileyecekleri gerçek ortama benzer bir öğrenme ortamı tasarlamalı, gerçek ortam için özgün performans ölçütleri belirlemelidir. Bu bağlamda gerçek yaşam koşullarına benzer görevlerin tasarlanması söz konusu amaca uygun bir karardır."
     },
     {
         "SoruID": 3863642,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çözüm: Tüm seçeneklerde program amaçlarının yazımı ile ilgili adımlar paylaşılmıştır. Ölçme ve değerlendirme tekniklerinin seçimi ise programın düzenlenmesi ve uygulanması başlığı altında yer almaktadır.  Oliva’nın program geliştirme modeline göre program geliştirecek uzmanın izleyeceği adımlar aşağıda listelenmiştir (Oliva &amp; Gordon, 2018):<br/> <strong>PROGRAMIN AMAÇLARINI YAZMA </strong><br/> <ol> <li>Öğrencilerin genel ihtiyaçlarını ve öğren­me gereksinimlerini belirle.</li> <li>Toplumun ihtiyaçlarını ve gereksinimleri­ni belirle.</li> <li>Eğitim programının dayanacağı felsefi te­melleri belirle.</li> <li>Eğitim programının düzenleneceği oku­lun ya da kurumun öğrencilerine ait ihti­yaçları belirle.</li> <li>Hedef öğrenci grubunun ihtiyaçlarını belirle.</li> <li>Eğitim programında öğrenilmesi hedefle­nen konunun ihtiyaçlarını belirle.</li> </ol> <strong>PROGRAMIN HEDEFLERİNİ YAZMA </strong><br/> <ol start=\"7\"> <li>Program sonunda öğrencilerde gözlenebi­lir performans, hedef davranışlar, ölçülebi­len öğrenme sonuçları ya da kazanımlar ile ilgili hedefleri yaz.</li> </ol> <strong>PROGRAMIN DÜZENLENMESİ VE UYGULANMA­SI (ÖĞRETİM TASARIMI SÜRECİ) </strong><br/> <ol start=\"8\"> <li>Öğretimsel amaçları belirle.</li> <li>Öğretimsel hedefleri belirle.</li> <li>Öğretim stratejilerini seç.</li> <li>Taslak ölçme ve değerlendirme teknikleri­ni belirle.</li> <li>Öğretim stratejilerini uygula.</li> <li>Ölçme ve değerlendirme tekniklerini seç.</li> <li>Öğretimi değerlendir.</li> </ol> <strong>PROGRAMIN DEĞERLENDİRMESİ</strong>"
+        "Aciklama": "Çözüm: Tüm seçeneklerde program amaçlarının yazımı ile ilgili adımlar paylaşılmıştır. Ölçme ve değerlendirme tekniklerinin seçimi ise programın düzenlenmesi ve uygulanması başlığı altında yer almaktadır. Oliva’nın program geliştirme modeline göre program geliştirecek uzmanın izleyeceği adımlar aşağıda listelenmiştir (Oliva &amp; Gordon, 2018):<br/><strong>PROGRAMIN AMAÇLARINI YAZMA </strong><br/><ol> <li>Öğrencilerin genel ihtiyaçlarını ve öğren­me gereksinimlerini belirle.</li> <li>Toplumun ihtiyaçlarını ve gereksinimleri­ni belirle.</li> <li>Eğitim programının dayanacağı felsefi te­melleri belirle.</li> <li>Eğitim programının düzenleneceği oku­lun ya da kurumun öğrencilerine ait ihti­yaçları belirle.</li> <li>Hedef öğrenci grubunun ihtiyaçlarını belirle.</li> <li>Eğitim programında öğrenilmesi hedefle­nen konunun ihtiyaçlarını belirle.</li> </ol> <strong>PROGRAMIN HEDEFLERİNİ YAZMA </strong><br/><ol start=\"7\"> <li>Program sonunda öğrencilerde gözlenebi­lir performans, hedef davranışlar, ölçülebi­len öğrenme sonuçları ya da kazanımlar ile ilgili hedefleri yaz.</li> </ol> <strong>PROGRAMIN DÜZENLENMESİ VE UYGULANMA­SI (ÖĞRETİM TASARIMI SÜRECİ) </strong><br/><ol start=\"8\"> <li>Öğretimsel amaçları belirle.</li> <li>Öğretimsel hedefleri belirle.</li> <li>Öğretim stratejilerini seç.</li> <li>Taslak ölçme ve değerlendirme teknikleri­ni belirle.</li> <li>Öğretim stratejilerini uygula.</li> <li>Ölçme ve değerlendirme tekniklerini seç.</li> <li>Öğretimi değerlendir.</li> </ol> <strong>PROGRAMIN DEĞERLENDİRMESİ</strong>"
     },
     {
         "SoruID": 3863645,
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 3863649,
-        "SoruMetni": "“Bu model, bağımsız bir öğretim tasarım modeli olmayıp öğrenen çevresinin tasarımından, öğretim tasarımına ve öğrenenlerin motivasyonlarına yönelik bütüncül bir tasarım yaklaşımının bir parçasıdır. Dikkat, ilişki, güven, doyum ve eylem boyutlarından oluşmaktadır.”<br/> Yukarıda betimlenen model aşağıdakilerden hangisidir?",
+        "SoruMetni": "“Bu model, bağımsız bir öğretim tasarım modeli olmayıp öğrenen çevresinin tasarımından, öğretim tasarımına ve öğrenenlerin motivasyonlarına yönelik bütüncül bir tasarım yaklaşımının bir parçasıdır. Dikkat, ilişki, güven, doyum ve eylem boyutlarından oluşmaktadır.”<br/>Yukarıda betimlenen model aşağıdakilerden hangisidir?",
         "A": "Hızlı Prototipleme Öğretim Tasarımı Modeli",
         "B": "ARCS-V Motivasyon Tasarımı Modeli",
         "C": "Gerlach ve Ely Modeli",

@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 3861423,
-        "SoruMetni": "Hangisi John Dewey’e göre sorun çözmeye ilişkin belirlenen mantıksal beş basamak arasında <span style=\"text-decoration: underline;\"><strong>yer almaz?</strong></span>",
+        "SoruMetni": "Hangisi John Dewey’e göre sorun çözmeye ilişkin belirlenen mantıksal beş basamak arasında <span style=\"text-decoration: underline;\"><strong>yer almaz?</strong></span>",
         "A": "Fark edilmiş bir sorun",
         "B": "• Sorunun oluştuğu, bulunduğu yer ve tanımı",
         "C": "Olası çözüm ve alternatiflerin ortaya konulması",
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcılık kavramının büyük ölçüde sorun çözme yetisi üzerinde odaklandığı görülür. John Dewey’e göre sorun çözmeye ilişkin aşağıda belirlenen mantıksal beş basamak vardır (Steveni, 1968), bunlar:<br/> • Fark edilmiş bir sorun<br/> • Sorunun oluştuğu, bulunduğu yer ve tanımı<br/> • Olası çözüm ve alternatiflerin ortaya konulması<br/> • Farklı öneriler geliştirilerek nedenleri ve içeriklerinin araştırılması<br/> • Kabul gören veya sonuca götüren ileri derecedeki gözlemlerdir.<br/> \"Anket ve deneysel araştırmalar yapılması\" ifadesi bu basamaklar arasında yer almaz."
+        "Aciklama": "Yaratıcılık kavramının büyük ölçüde sorun çözme yetisi üzerinde odaklandığı görülür. John Dewey’e göre sorun çözmeye ilişkin aşağıda belirlenen mantıksal beş basamak vardır (Steveni, 1968), bunlar:<br/>• Fark edilmiş bir sorun<br/>• Sorunun oluştuğu, bulunduğu yer ve tanımı<br/>• Olası çözüm ve alternatiflerin ortaya konulması<br/>• Farklı öneriler geliştirilerek nedenleri ve içeriklerinin araştırılması<br/>• Kabul gören veya sonuca götüren ileri derecedeki gözlemlerdir.<br/>\"Anket ve deneysel araştırmalar yapılması\" ifadesi bu basamaklar arasında yer almaz."
     },
     {
         "SoruID": 3861424,
@@ -57,11 +57,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcı düşünme becerileri, konuyu değerlendirmek ve bir plan geliştirmek için doğru araçları kullanarak konuya farklı ve özgün açılardan bakmak için kullanılan tekniklerdir. <br/> Doğru yanıt C seçeneğidir."
+        "Aciklama": "Yaratıcı düşünme becerileri, konuyu değerlendirmek ve bir plan geliştirmek için doğru araçları kullanarak konuya farklı ve özgün açılardan bakmak için kullanılan tekniklerdir. <br/>Doğru yanıt C seçeneğidir."
     },
     {
         "SoruID": 3861425,
-        "SoruMetni": "I. Neden bunun doğru olduğuna inanıyorum? II. Bunun doğru olduğunu nasıl bilebilirim? III. Bu inancı nasıl destekleyebilirim? IV. Bunu kim neden ve nasıl geliştirmiştir? V. Hangi alternatif bakış açıları mevcut olabilir?Sıralananlardan hangileri ilk ilkeler düşüncesine göre sorabileceğiniz  sorular arasında yer almaktadır?",
+        "SoruMetni": "I. Neden bunun doğru olduğuna inanıyorum? II. Bunun doğru olduğunu nasıl bilebilirim? III. Bu inancı nasıl destekleyebilirim? IV. Bunu kim neden ve nasıl geliştirmiştir? V. Hangi alternatif bakış açıları mevcut olabilir?Sıralananlardan hangileri ilk ilkeler düşüncesine göre sorabileceğiniz sorular arasında yer almaktadır?",
         "A": "I, II, III ve V",
         "B": "I, III, IV ve V",
         "C": "II, III, IV ve V",
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlk ilkeler prensibine göre sorabileceğiniz bazı sorular şunlardır:<br/> • Neden bunun doğru olduğuna inanıyorum?<br/> • Bunun doğru olduğunu nasıl bilebilirim?<br/> • Bu inancı nasıl destekleyebilirim?<br/> • Hangi alternatif bakış açıları mevcut olabilir?<br/> \"IV. Bunu kim neden ve nasıl geliştirmiştir?\" ifadesinin konu ile ilgisi bulunmamaktadır. Doğru yanıt I, II, III ve V numaralı ifadeleri içeren A seçeneğidir."
+        "Aciklama": "İlk ilkeler prensibine göre sorabileceğiniz bazı sorular şunlardır:<br/>• Neden bunun doğru olduğuna inanıyorum?<br/>• Bunun doğru olduğunu nasıl bilebilirim?<br/>• Bu inancı nasıl destekleyebilirim?<br/>• Hangi alternatif bakış açıları mevcut olabilir?<br/>\"IV. Bunu kim neden ve nasıl geliştirmiştir?\" ifadesinin konu ile ilgisi bulunmamaktadır. Doğru yanıt I, II, III ve V numaralı ifadeleri içeren A seçeneğidir."
     },
     {
         "SoruID": 3861426,
@@ -97,11 +97,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çoğu insan yaratıcılığın ilahi bir ilham olduğunu, genetik olduğunu ve sadece şanslı birkaç kişide var olabileceğini düşünür. Özellikle iş yaratıcılığı hakkında pek çok popüler efsane var ancak bunların birçoğu, bilimsel kanıtı olmamakla birlikte günümüzde yaratıcı düşünceye ilişkin “mit” olarak kabul edilen kanıksanmış tutumlara bağlı bazı gerçekleri değiştirmemektedir.<br/> Yaratıcılık herkeste olan bir beceridir\" ifadesi ise, bir gerçekliği yansıtmaktadır.<br/> Bu ifadenin mit olarak tanımlanan biçimi ise, tam tersi olan, \"Yaratıcılık herkeste olmayan özel bir beceridir.\" biçiminde olacaktır.<br/> Doğru yanıt E seçeneğidir."
+        "Aciklama": "Çoğu insan yaratıcılığın ilahi bir ilham olduğunu, genetik olduğunu ve sadece şanslı birkaç kişide var olabileceğini düşünür. Özellikle iş yaratıcılığı hakkında pek çok popüler efsane var ancak bunların birçoğu, bilimsel kanıtı olmamakla birlikte günümüzde yaratıcı düşünceye ilişkin “mit” olarak kabul edilen kanıksanmış tutumlara bağlı bazı gerçekleri değiştirmemektedir.<br/>Yaratıcılık herkeste olan bir beceridir\" ifadesi ise, bir gerçekliği yansıtmaktadır.<br/>Bu ifadenin mit olarak tanımlanan biçimi ise, tam tersi olan, \"Yaratıcılık herkeste olmayan özel bir beceridir.\" biçiminde olacaktır.<br/>Doğru yanıt E seçeneğidir."
     },
     {
         "SoruID": 3861427,
-        "SoruMetni": "I.Yetenek, herhangi bir şeyi öğrenmek, bir işi yapmak ve tamamlamak ya da bir duruma başarıyla uymak konusunda organizmada bulunan ve doğuştan gelen ve kişinin kalıtımsal olarak öğrenmesini çerçeveleyen sınır ve dışarıdan gelen bir etkiyi alabilme gücüdür.<br/><br/>II. Yetenek, bir kimsenin bir şeyi anlama veya yapabilme niteliği olduğu gibi bir duruma uyma konusunda organizmada bulunan ve doğuştan gelen güçtür.<br/><br/>III. Yetenek, aynı zamanda yetiştirmeyle kazanılan ya da kendiliğinden var olan, herhangi bir işin yapılmasını sağlayan bilişsel ya da fiziksel güç olarak da tanımlanabilir.<br/><br/>IV. Yetenek, düşünme, bilgi temelli bir disiplin çerçevesinde ve pratiklerle gelişir. Deneyerek, keşfederek, varsayımları sorgulayarak, hayal gücünü kullanarak ve bilgileri sentezleyerek yetenekli olmanın yolları öğrenilebilir. <br/><br/>Yetenek konusunda sıralanan ifadelerden hangileri doğrudur?",
+        "SoruMetni": "I.Yetenek, herhangi bir şeyi öğrenmek, bir işi yapmak ve tamamlamak ya da bir duruma başarıyla uymak konusunda organizmada bulunan ve doğuştan gelen ve kişinin kalıtımsal olarak öğrenmesini çerçeveleyen sınır ve dışarıdan gelen bir etkiyi alabilme gücüdür.<br/>II. Yetenek, bir kimsenin bir şeyi anlama veya yapabilme niteliği olduğu gibi bir duruma uyma konusunda organizmada bulunan ve doğuştan gelen güçtür.<br/>III. Yetenek, aynı zamanda yetiştirmeyle kazanılan ya da kendiliğinden var olan, herhangi bir işin yapılmasını sağlayan bilişsel ya da fiziksel güç olarak da tanımlanabilir.<br/>IV. Yetenek, düşünme, bilgi temelli bir disiplin çerçevesinde ve pratiklerle gelişir. Deneyerek, keşfederek, varsayımları sorgulayarak, hayal gücünü kullanarak ve bilgileri sentezleyerek yetenekli olmanın yolları öğrenilebilir. <br/>Yetenek konusunda sıralanan ifadelerden hangileri doğrudur?",
         "A": "I, II ve IV",
         "B": "I, III ve IV",
         "C": "II, III ve IV",
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "IV numaralı ifade yeteneğin değil, yaratıcılık kavramının tanımı ile ilgilidir. <br/><br/>Doğrusu ise şöyle olacaktır.<br/><br/><strong>Yaratıcılık</strong>, düşünme, bilgi temelli bir disiplin çerçevesinde ve pratiklerle gelişir. Deneyerek, keşfederek, varsayımları sorgulayarak, hayal gücünü kullanarak ve bilgileri sentezleyerek <strong>yaratıcı</strong> olmanın yolları öğrenilebilir. <br/><br/>Doğru yanıt, I, II ve III numaralı ifadelerin yer aldığı D seçeneğidir."
+        "Aciklama": "IV numaralı ifade yeteneğin değil, yaratıcılık kavramının tanımı ile ilgilidir. <br/>Doğrusu ise şöyle olacaktır.<br/><strong>Yaratıcılık</strong>, düşünme, bilgi temelli bir disiplin çerçevesinde ve pratiklerle gelişir. Deneyerek, keşfederek, varsayımları sorgulayarak, hayal gücünü kullanarak ve bilgileri sentezleyerek <strong>yaratıcı</strong> olmanın yolları öğrenilebilir. <br/>Doğru yanıt, I, II ve III numaralı ifadelerin yer aldığı D seçeneğidir."
     },
     {
         "SoruID": 3861428,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Girişkenlik, kolay arkadaş edinme, konuşma, sohbet eğilimi, cana yakınlık gibi tanımlamalar, Dışa Dönüklük kişilik özelliklerini tanımlamaktadır."
+        "Aciklama": "Girişkenlik, kolay arkadaş edinme, konuşma, sohbet eğilimi, cana yakınlık gibi tanımlamalar, Dışa Dönüklük kişilik özelliklerini tanımlamaktadır."
     },
     {
         "SoruID": 3861429,
@@ -157,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Özdenetimin temel unsurları şunlardır: Çalışkanlık, Düzenli ve güvenilir olma eğilimi.<br/> Doğru yanıt A seçeneğidir."
+        "Aciklama": "Özdenetimin temel unsurları şunlardır: Çalışkanlık, Düzenli ve güvenilir olma eğilimi.<br/>Doğru yanıt A seçeneğidir."
     },
     {
         "SoruID": 3861430,
-        "SoruMetni": "Aşağıdakilerden hangisi Torrance'e göre yaratıcı aşamanın boyutlarından biri <strong>değildir?</strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi Torrance'e göre yaratıcı aşamanın boyutlarından biri <strong>değildir?</strong>",
         "A": "Esneklik",
         "B": "Ayrıntılama",
         "C": "Akıcılık",
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Paul Torrance yaratıcılık üzerindeki araştırmalarıyla tanınan Amerikalı bir psikolog ve eğitimde yaratıcılık alanındaki en verimli yazarlardan biridir.<br/> Torrance yaratıcı aşamanın boyutlarını şu şekilde belirlemiştir (Robinson, 2003):<br/> Orijinallik: Düşüncenin tam anlamıyla tek (özgün) olmasıdır. Hiçbir ürüne benzememeli, taklit veya tekrar olmamalıdır.<br/> Akıcılık: Birçok farklı düşüncenin üretilmesidir.<br/> Esneklik: Düşünce yönünün değişimi veya başka bir şekilde düşünme yeteneğidir.<br/> Ayrıntılama: Düşünceyi daha ilginç ve karmaşık yapmak için genişletmedir.<br/> E seçeneğinde yer verilen Sınırlandırma kavramının yaratıcı aşama ile ilgisi yoktur."
+        "Aciklama": "Paul Torrance yaratıcılık üzerindeki araştırmalarıyla tanınan Amerikalı bir psikolog ve eğitimde yaratıcılık alanındaki en verimli yazarlardan biridir.<br/>Torrance yaratıcı aşamanın boyutlarını şu şekilde belirlemiştir (Robinson, 2003):<br/>Orijinallik: Düşüncenin tam anlamıyla tek (özgün) olmasıdır. Hiçbir ürüne benzememeli, taklit veya tekrar olmamalıdır.<br/>Akıcılık: Birçok farklı düşüncenin üretilmesidir.<br/>Esneklik: Düşünce yönünün değişimi veya başka bir şekilde düşünme yeteneğidir.<br/>Ayrıntılama: Düşünceyi daha ilginç ve karmaşık yapmak için genişletmedir.<br/>E seçeneğinde yer verilen Sınırlandırma kavramının yaratıcı aşama ile ilgisi yoktur."
     },
     {
         "SoruID": 3861431,
@@ -217,11 +217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir testin, yaratıcı çabalarda başarı için gerekli olan inisiyatif, kendine güven, belirsizliğe tolerans, motivasyon ve azim gibi belirli kişisel özellikleri ölçmesi imkânsız olabilir ancak alan bilgisi ölçülebilir özelliklerdendir."
+        "Aciklama": "Herhangi bir testin, yaratıcı çabalarda başarı için gerekli olan inisiyatif, kendine güven, belirsizliğe tolerans, motivasyon ve azim gibi belirli kişisel özellikleri ölçmesi imkânsız olabilir.<br>Bir testin, yaratıcı çabalarda başarı için gerekli olan inisiyatif, kendine güven, belirsizliğe tolerans, motivasyon ve azim gibi belirli kişisel özellikleri ölçmesi imkânsız olabilir ancak alan bilgisi ölçülebilir özelliklerdendir."
     },
     {
         "SoruID": 3861525,
-        "SoruMetni": ".................. sorunlara, bozukluklara, bilgi eksikliğine, kayıp ögelere, uyumsuzluğa karşı duyarlı olma; güçlüğü tanımlama; çözüm arama, tahminlerde bulunma ya da eksikliklere ilişkin denenceler geliştirme; bu denenceleri değiştirme ya da yeniden sınama; daha sonra da sonucu başkalarına iletmektir. <br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": ".................. sorunlara, bozukluklara, bilgi eksikliğine, kayıp ögelere, uyumsuzluğa karşı duyarlı olma; güçlüğü tanımlama; çözüm arama, tahminlerde bulunma ya da eksikliklere ilişkin denenceler geliştirme; bu denenceleri değiştirme ya da yeniden sınama; daha sonra da sonucu başkalarına iletmektir. <br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Motivasyon",
         "B": "Zeka",
         "C": "Yaratıcılık",
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcılık: sorunlara, bozukluklara, bilgi eksikliğine, kayıp ögelere, uyumsuzluğa karşı duyarlı olma; güçlüğü tanımlama; çözüm arama, tahminlerde bulunma ya da eksikliklere ilişkin denenceler geliştirme; bu denenceleri değiştirme ya da yeniden sınama; daha sonra da sonucu başkalarına iletmektir. <br/> Soruda yaratıcılığın tanımı verilmiştir bu nedenle boşluğa C seçeneği gelmelidir."
+        "Aciklama": "Yaratıcılık: sorunlara, bozukluklara, bilgi eksikliğine, kayıp ögelere, uyumsuzluğa karşı duyarlı olma; güçlüğü tanımlama; çözüm arama, tahminlerde bulunma ya da eksikliklere ilişkin denenceler geliştirme; bu denenceleri değiştirme ya da yeniden sınama; daha sonra da sonucu başkalarına iletmektir. <br/>Soruda yaratıcılığın tanımı verilmiştir bu nedenle boşluğa C seçeneği gelmelidir."
     },
     {
         "SoruID": 3861527,
-        "SoruMetni": "Aşağıdaki yaklaşımlardan hangisi her insanın uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabileceğini savunur? <br/><br/>",
+        "SoruMetni": "Aşağıdaki yaklaşımlardan hangisi her insanın uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabileceğini savunur?",
         "A": "Psikoanalitik yaklaşım",
         "B": "Hümanistik yaklaşım",
         "C": "Geştaltçı yaklaşım",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 3861529,
-        "SoruMetni": ".............................. yeni bir zihniyet benimsemeyi gerektirir. Geleneksel bilgeliği reddeden, dogmatizmin önünü kesen ve kendi inançlarımızı, bilgilerimizi sorgulayan bir düşünce biçimidir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": ".............................. yeni bir zihniyet benimsemeyi gerektirir. Geleneksel bilgeliği reddeden, dogmatizmin önünü kesen ve kendi inançlarımızı, bilgilerimizi sorgulayan bir düşünce biçimidir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "İlk prensipler düşüncesi",
         "B": "Yansıtıcı düşünme",
         "C": "Iraksak düşünce",
@@ -277,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlk prensipler düşüncesi yeni bir zihniyet benimsemeyi gerektirir. Geleneksel bilgeliği reddeden, dogmatizmin önünü kesen ve kendi inançlarımızı, bilgilerimizi sorgulayan bir düşünce biçimidir.<br/> Doğru cevap A seçeneğinde verilmiştir."
+        "Aciklama": "İlk prensipler düşüncesi yeni bir zihniyet benimsemeyi gerektirir. Geleneksel bilgeliği reddeden, dogmatizmin önünü kesen ve kendi inançlarımızı, bilgilerimizi sorgulayan bir düşünce biçimidir.<br/>Doğru cevap A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3861531,
-        "SoruMetni": "Aşağıdakilerden hangisi yaratıcı düşünceye ilişkin mitlerden biri değildir? <br/><br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi yaratıcı düşünceye ilişkin mitlerden biri değildir?",
         "A": "Her alanda insanlar yaratıcı olabilir.",
         "B": "Yaratıcılık genetiktir, geliştirilemez.",
         "C": "Bazı kısıtlamalar yaratıcılığı öldürür.",
@@ -297,11 +297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "A seçeneğinde verilen bir mit değildir. Her alanda insanların yaratıcı olabileceği bir gerçektir. Aşağıda kitapta yer alan mitler verilmiştir. <br/> Yaratıcılık sadece sanatsal alanlarla ilgilidir.<br/> Yaratıcılık genetiktir, geliştirilemez.<br/> Yaratıcılık herkeste olmayan özel bir beceridir.<br/> Bazı kısıtlamalar yaratıcılığı öldürür.<br/> Yaratıcı fikirler kesinlikle orijinal olmalıdır.<br/>Yaratıcılık anlık parlak fikirlerle ortaya çıkar."
+        "Aciklama": "A seçeneğinde verilen bir mit değildir. Her alanda insanların yaratıcı olabileceği bir gerçektir. Aşağıda kitapta yer alan mitler verilmiştir. <br/>Yaratıcılık sadece sanatsal alanlarla ilgilidir.<br/>Yaratıcılık genetiktir, geliştirilemez.<br/>Yaratıcılık herkeste olmayan özel bir beceridir.<br/>Bazı kısıtlamalar yaratıcılığı öldürür.<br/>Yaratıcı fikirler kesinlikle orijinal olmalıdır.<br/>Yaratıcılık anlık parlak fikirlerle ortaya çıkar."
     },
     {
         "SoruID": 3861532,
-        "SoruMetni": "Bir alana yönelik olağanüstü yatkınlık ve üstün bir başarı için doğuştan gelen, eğitimle geliştirilebilen gizil bir güç olarak ifade edilebilir.<br/> Yukarıda verilen tanım aşağıdakilerden hangisine aittir?",
+        "SoruMetni": "Bir alana yönelik olağanüstü yatkınlık ve üstün bir başarı için doğuştan gelen, eğitimle geliştirilebilen gizil bir güç olarak ifade edilebilir.<br/>Yukarıda verilen tanım aşağıdakilerden hangisine aittir?",
         "A": "Yaratıcılık",
         "B": "Deha",
         "C": "Beceri",
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir alana yönelik olağanüstü yatkınlık ve üstün bir başarı için doğuştan gelen, eğitimle geliştirilebilen gizil bir güç olarak ifade edilebilir.<br/> Yukarıda verilen tanım yeteneğin tanımıdır. Doğru cevap E seçeneğinde verilmiştir."
+        "Aciklama": "Bir alana yönelik olağanüstü yatkınlık ve üstün bir başarı için doğuştan gelen, eğitimle geliştirilebilen gizil bir güç olarak ifade edilebilir.<br/>Yukarıda verilen tanım yeteneğin tanımıdır. Doğru cevap E seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3861533,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Beş kişilik özelliğinden/faktörlerinden açıklık diğer özelliklerden daha çok yaratıcılıkla ilişkilidir. Açıklık kişilik özelliği: entelektüel merak, yaratıcılık, sanat alanlarına ilgi, öğrenme ve yeniliklere ilgi ve açıklık olarak tanımlanabilir. <br/><br/>Doğru cevap A seçeneğinde verilmiştir."
+        "Aciklama": "Beş kişilik özelliğinden/faktörlerinden açıklık diğer özelliklerden daha çok yaratıcılıkla ilişkilidir. Açıklık kişilik özelliği: entelektüel merak, yaratıcılık, sanat alanlarına ilgi, öğrenme ve yeniliklere ilgi ve açıklık olarak tanımlanabilir. <br/>Doğru cevap A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3861534,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcı düşünme becerileri, bir sorunu doğru bir şekilde tanımlama, zorlukları yeni perspektiflerden görme, birden fazla fikir üret­me, optimum alternatifleri seçme ve bu çözümleri ürün olarak uygulamaya yönelik teknikleri içerir.<br/> Doğru cevap C seçeneğinde verilmiştir. Tek bir fikir değil birden fazla fikir üretmek gerekir."
+        "Aciklama": "Yaratıcı düşünme becerileri, bir sorunu doğru bir şekilde tanımlama, zorlukları yeni perspektiflerden görme, birden fazla fikir üret­me, optimum alternatifleri seçme ve bu çözümleri ürün olarak uygulamaya yönelik teknikleri içerir.<br/>Doğru cevap C seçeneğinde verilmiştir. Tek bir fikir değil birden fazla fikir üretmek gerekir."
     },
     {
         "SoruID": 3861537,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Torrance'ın oluşturduğu yaratıcı aşamanın boyutları: akıcılık, esneklik, orijinallik, ayrıntılamadır. <br/> Tutarlılık yaratıcılıkla ilişkili bir kavram değildir.  Doğru cevap E seçeneğinde verilmiştir."
+        "Aciklama": "Torrance'ın oluşturduğu yaratıcı aşamanın boyutları: akıcılık, esneklik, orijinallik, ayrıntılamadır. <br/>Tutarlılık yaratıcılıkla ilişkili bir kavram değildir. Doğru cevap E seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3861538,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Paul Torrance tarafından geliştirilen bir yaratıcılık <br/>testi olan Torrance Yaratıcı Düşünme Testleri Jean P. Guilford’un çalışması üzerine inşa edilmiştir."
+        "Aciklama": "Jean P. Guilford’un çalışması üzerine inşa edilen ve Paul Torrance tarafından geliştirilen bir yaratıcılık <br/>testi olan Torrance Yaratıcı Düşünme Testleri, farklı düşünme ve diğer problem çözme becerilerinin basit testlerini içeriyordu.<br>Paul Torrance tarafından geliştirilen bir yaratıcılık <br/>testi olan Torrance Yaratıcı Düşünme Testleri Jean P. Guilford’un çalışması üzerine inşa edilmiştir."
     },
     {
         "SoruID": 3861594,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Torrance yaratıcı aşamanın boyutlarından akıcılığı \"Birçok farklı düşüncenin üretilmesidir.\" biçiminde açıklar."
+        "Aciklama": "Torrance yaratıcı aşamanın boyutlarını şu şekilde belirlemiştir:<br/>Orijinallik: Düşüncenin tam anlamıyla tek (özgün) olmasıdır. Hiçbir ürüne benzememeli, taklit veya <br/>tekrar olmamalıdır.<br/>Akıcılık: Birçok farklı düşüncenin üretilmesidir. <br/>Esneklik: Düşünce yönünün değişimi veya başka bir şekilde düşünme yeteneğidir.<br/>Ayrıntılama: Düşünceyi daha ilginç ve karmaşık yapmak için genişletmedir.<br>Torrance yaratıcı aşamanın boyutlarından akıcılığı \"Birçok farklı düşüncenin üretilmesidir.\" biçiminde açıklar."
     },
     {
         "SoruID": 3861595,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kitapta geçen mitlerden biri de \"Yaratıcılık sadece anlık parlak fikirlerle ortaya çıkar, sadece sanatsal alanlar ile ilgilidir\". olduğu için bu soruda bu beyanın tersi kullanılmıştır."
+        "Aciklama": "Aşağıdakiler kitapta Yaratıcılık ile ilgili mitler olarak listelenmiştir.<br/><ol><br/><li>yaratıcılık sadece sanatsal alanlarla ilgilidir, genetiktir, geliştirilemez</li><br/><li>yaratıcılık herkeste olmayan özel bir beceridir, bazı kısıtlamalar yaratıcılığı öldürür, yaratıcı fikirler tümü ile orijinal olmak zorunda değildir</li><br/><li>Yaratıcılık sadece anlık parlak fikirlerle ortaya çıkar, sadece sanatsal alanlar ile ilgilidir</li><br/><li>Yaratıcılık sadece anlık parlak fikirler ile ortaya çıkar, yaratıcı ilham gelmedikçe yaratamaz, parlak fikir sadece beklemek ile gelir</li><br/><li>Yaratıcılık genetiktir, geliştirilemez</li><br/></ol><br>Kitapta geçen mitlerden biri de \"Yaratıcılık sadece anlık parlak fikirlerle ortaya çıkar, sadece sanatsal alanlar ile ilgilidir\". olduğu için bu soruda bu beyanın tersi kullanılmıştır."
     },
     {
         "SoruID": 3861596,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sezgisel Düşünme (4-7 yaş) : Çocuklar, mantık kurallarına uygun düşünme yerine, olayları <br/>sezgilerine dayanarak açıklar ve neden gösterirler. <br/>Aşağıdaki konularda çok zayıftırlar.<br/>• Olayların sırasını açıklama<br/>• İlişkileri, özellikle sebep-sonuç ilişkisini <br/>açıklama<br/>• Sayıları ve ilişkilerini anlama <br/>• Başka konuşmacıları doğru olarak algılama<br/>• Kuralları hatırlama ve anlama"
+        "Aciklama": "4-7 yaş arası çocuklar, mantık kurallarına uygun düşünme yerine, olayları <br/>sezgilerine dayanarak açıklar ve neden gösterirler.<br>Sezgisel Düşünme (4-7 yaş) : Çocuklar, mantık kurallarına uygun düşünme yerine, olayları <br/>sezgilerine dayanarak açıklar ve neden gösterirler. <br/>Aşağıdaki konularda çok zayıftırlar.<br/>• Olayların sırasını açıklama<br/>• İlişkileri, özellikle sebep-sonuç ilişkisini <br/>açıklama<br/>• Sayıları ve ilişkilerini anlama <br/>• Başka konuşmacıları doğru olarak algılama<br/>• Kuralları hatırlama ve anlama"
     },
     {
         "SoruID": 3861597,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kitabımızda H. Bell'in söylemine göre \"Bildirişim Bileşeni\" karşıdaki kişinin duygularını anlama paylaşımıdır."
+        "Aciklama": "Empati kavramı kendi içinde dört ana bileşen altında incelenmiştir. Bell’e (2018) göre bunlar:<br/>1. Algısal Empati: Karşıdaki kişinin fiziki durumu, tutum ve davranışı üzerindeki ilk <br/>izlenimler ve bunların algılanabilmesi durumudur.<br/>2. Bilişsel Empati: Bir başkasının duygularını <br/>yaşamadan, kendi yerine koyarak anlayabilme becerisidir.<br/>3. Duygusal Empati: Doğrudan başkalarının <br/>durumlarına/duygularına karşı hissedilen <br/>tepkilerdir.<br/>4. Bildirişim Bileşeni: Karşıdaki kişinin duygularını anlama paylaşımıdır.<br>Kitabımızda H. Bell'in söylemine göre \"Bildirişim Bileşeni\" karşıdaki kişinin duygularını anlama paylaşımıdır."
     },
     {
         "SoruID": 3861598,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sürecin rafinasyon yani eleme aşamasında, yaratıcılık sürecinden süzülen orijinallik “rafine edilerek” uygulanabilir kılınmaktadır."
+        "Aciklama": "Eleme: Sürecin bu bölümünde, yaratıcılık sürecinden süzülen orijinallik “rafine edilerek” uygulanabilir kılınmaktadır.<br>Sürecin rafinasyon yani eleme aşamasında, yaratıcılık sürecinden süzülen orijinallik “rafine edilerek” uygulanabilir kılınmaktadır."
     },
     {
         "SoruID": 3861599,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çocukları gelişimsel ve <br/>duygusal açıdan değerlendirme amacıyla gerçekleştirilen bir çizim testi Elizabeth M. Koppitz tarafından geliştirilmiştir."
+        "Aciklama": "Bireylerin artistik, fiziksel ve biyolojik gelişimlerinin izlenmesi ve bazı tespitlerin yapılmasına <br/>yönelik (özellikle insan çizim testleri) bazı araştırmacılar tarafından uygulanan en önemli testler aşağıda verilmiştir: <br/>Florence Goodenough: Çocuklarda bir insan <br/>çizimi vasıtasıyla zekâ düzeyini ölçme amaçlı gerçekleştirilen bir testtir.<br/>Elizabeth M. Koppitz: Çocukları gelişimsel ve <br/>duygusal açıdan değerlendirme amacıyla gerçekleştirilen bir çizim testidir. <br/>Denver Gelişim Testi: Küçük çocuklarda var <br/>olan gelişimsel sorunları tespit etmek amacıyla geliştirilmiş bir ölçme aracıdır.<br/>Benton Görsel Bellek Testi: Görsel-mekânsal <br/>belleği ölçen bir performans testidir.<br/>Karen Machover: Bir insan çiziminde kişinin <br/>ihtiyaçlarına ve çatışmalarına odaklanan psikanalitik bir tekniktir<br>Çocukları gelişimsel ve <br/>duygusal açıdan değerlendirme amacıyla gerçekleştirilen bir çizim testi Elizabeth M. Koppitz tarafından geliştirilmiştir."
     },
     {
         "SoruID": 3861610,
@@ -577,11 +577,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir Ağaç Çiz testinde ağaç gövdesini oluşturan çizgilerin birbirine koşut olması söz dinlerlik ve uyumlu olma, eğitsel zorluk yaratmama olarak yorumlanıyor."
+        "Aciklama": "Bir Ağaç Çiz testinde resim, belli kurallar çerçevesinde değerlendirilir. Bu amaçla, resimdeki ağacın gövdesine, dallarına, yapraklarına, meyvelerine, resmin sayfadaki yerine bakılır.<br>Bir Ağaç Çiz testinde ağaç gövdesini oluşturan çizgilerin birbirine koşut olması söz dinlerlik ve uyumlu olma, eğitsel zorluk yaratmama olarak yorumlanıyor."
     },
     {
         "SoruID": 3861611,
-        "SoruMetni": "Sungur'dan aldığımız bilgilere göre aşağıdakilerden hangileri doğrudur?<br/> a) yüksek düzeyde zekânın, yüksek düzeyde yaratıcılığı garanti <br/>etmediği<br/> b) yaratıcılıkla zekâ arasında yüksek bir korelasyon olduğu<br/> c) daha zeki bir bireyin daha yaratıcı birey anlamına gelmediğini<br/> d) yaratıcılık için minimum genel zekâ düzeyinin (IQ:125) gerektiği",
+        "SoruMetni": "Sungur'dan aldığımız bilgilere göre aşağıdakilerden hangileri doğrudur?<br/>a) yüksek düzeyde zekânın, yüksek düzeyde yaratıcılığı garanti <br/>etmediği<br/>b) yaratıcılıkla zekâ arasında yüksek bir korelasyon olduğu<br/>c) daha zeki bir bireyin daha yaratıcı birey anlamına gelmediğini<br/>d) yaratıcılık için minimum genel zekâ düzeyinin (IQ:125) gerektiği",
         "A": "a ve b",
         "B": "b ve c",
         "C": "a, c ve d",
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcılıkla zekâ arasında yüksek bir korelasyon olduğu diğer maddeler dikkate alındığında da anlamlı gelmiyor olmalı."
+        "Aciklama": "Sungur’a (1997) göre, araştırmacılar yüksek düzeyde zekânın, yüksek düzeyde yaratıcılığı garanti <br/>etmediğini, yaratıcılıkla zekâ arasında yüksek bir korelasyon olmadığını, daha zeki bir bireyin daha <br/>yaratıcı birey anlamına gelmediğini belirtmektedirler. Bu alandaki son araştırmalar ise yaratıcılık için <br/>minimum genel zekâ düzeyinin (IQ:125) gerektiğini ortaya koymaktadır<br>Yaratıcılıkla zekâ arasında yüksek bir korelasyon olduğu diğer maddeler dikkate alındığında da anlamlı gelmiyor olmalı."
     },
     {
         "SoruID": 3861620,
@@ -621,8 +621,8 @@
     },
     {
         "SoruID": 3861625,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Yaratıcılık kavramının büyük ölçüde sorun çözme yetisi üzerinde odaklandığı görülür. Sorun çözmeye ilişkin,<br/><br/> <br/> <br/> <br/> <br/><ul><br/><li><br/>Fark edilmiş bir sorun<br/><br/></li><br/><li><br/>Sorunun oluştuğu, bulunduğu yer ve tanımı<br/><br/></li><br/><li><br/>Olası çözüm ve alternatiflerin ortaya konulması<br/><br/></li><br/><li><br/>Farklı öneriler geliştirilerek nedenleri ve içeriklerinin araştırılması<br/><br/></li><br/><li><br/>Kabul gören veya sonuca götüren ileri derecedeki gözlemler olarak belirlenen mantıksal basamaklar hangi eğitim kuramcısına aittir?<br/><br/></li><br/></ul><br/><br/><br/><br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Albert Einstein<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Yaratıcılık kavramının büyük ölçüde sorun çözme yetisi üzerinde odaklandığı görülür. Sorun çözmeye ilişkin,<br/><ul><br/><li><br/>Fark edilmiş bir sorun<br/></li><br/><li><br/>Sorunun oluştuğu, bulunduğu yer ve tanımı<br/></li><br/><li><br/>Olası çözüm ve alternatiflerin ortaya konulması<br/></li><br/><li><br/>Farklı öneriler geliştirilerek nedenleri ve içeriklerinin araştırılması<br/></li><br/><li><br/>Kabul gören veya sonuca götüren ileri derecedeki gözlemler olarak belirlenen mantıksal basamaklar hangi eğitim kuramcısına aittir?<br/></li><br/></ul>",
+        "A": "<br/>Albert Einstein",
         "B": "John Dewey",
         "C": "Elon Musk",
         "D": "Paul Torrance",
@@ -637,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Yaratıcılık kavramının büyük ölçüde sorun çözme yetisi üzerinde odaklandığı görülür. <strong>John Dewey’</strong>e göre sorun çözmeye ilişkin aşağıda belirlenen mantıksal beş basamak vardır,  bunlar:<br/><br/><ul><br/><li><br/>Fark edilmiş bir sorun<br/><br/></li><br/><li><br/>Sorunun oluştuğu, bulunduğu yer ve tanımı<br/><br/></li><br/><li><br/>Olası çözüm ve alternatiflerin ortaya konulması<br/><br/></li><br/><li><br/>Farklı öneriler geliştirilerek nedenleri ve içeriklerinin araştırılması<br/><br/></li><br/><li><br/>Kabul gören veya sonuca götüren ileri derecedeki gözlemlerdir.<br/><br/></li><br/></ul><br/><br/><br/>"
+        "Aciklama": "<br/>Yaratıcılık kavramının büyük ölçüde sorun çözme yetisi üzerinde odaklandığı görülür. <strong>John Dewey’</strong>e göre sorun çözmeye ilişkin aşağıda belirlenen mantıksal beş basamak vardır, bunlar:<br/><ul><br/><li><br/>Fark edilmiş bir sorun<br/></li><br/><li><br/>Sorunun oluştuğu, bulunduğu yer ve tanımı<br/></li><br/><li><br/>Olası çözüm ve alternatiflerin ortaya konulması<br/></li><br/><li><br/>Farklı öneriler geliştirilerek nedenleri ve içeriklerinin araştırılması<br/></li><br/><li><br/>Kabul gören veya sonuca götüren ileri derecedeki gözlemlerdir.<br/></li><br/></ul>"
     },
     {
         "SoruID": 3861627,
@@ -717,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Dışa Dönüklük:</strong> Girişkenlik, kolay arkadaş edinme, konuşma, sohbet eğilimi, cana yakınlık"
+        "Aciklama": "<strong>Dışa Dönüklük:</strong> Girişkenlik, kolay arkadaş edinme, konuşma, sohbet eğilimi, cana yakınlık"
     },
     {
         "SoruID": 3861631,
@@ -781,7 +781,7 @@
     },
     {
         "SoruID": 3861636,
-        "SoruMetni": "<strong>Çocukları gelişimsel ve duygusal açıdan değerlendirme</strong> amacıyla gerçekleştirilen  çizim testi aşağıdakilerden hangisidir?",
+        "SoruMetni": "<strong>Çocukları gelişimsel ve duygusal açıdan değerlendirme</strong> amacıyla gerçekleştirilen çizim testi aşağıdakilerden hangisidir?",
         "A": "Denver Gelişim Testi",
         "B": "Florence Goodenough",
         "C": "Benton Görsel Bellek Testi",

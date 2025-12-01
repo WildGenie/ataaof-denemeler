@@ -9,14 +9,15 @@
         "E": "Kitap",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 182780,
@@ -28,14 +29,15 @@
         "E": "Gürültü",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182781,
@@ -47,18 +49,19 @@
         "E": "Alıcı",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 182782,
-        "SoruMetni": "I. Ön yargılar<br/> <br/>II. Sosyokültürel farklar<br> <br/>III. Algılama farklılıkları<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri iletişim sürecinde karşılaşılan psikolojik ve sosyal engeller arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Ön yargılar<br/>II. Sosyokültürel farklar<br/>III. Algılama farklılıkları<br/><strong>Yukarıdakilerden hangisi ya da hangileri iletişim sürecinde karşılaşılan psikolojik ve sosyal engeller arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -66,14 +69,15 @@
         "E": "I, II ve III",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182784,
@@ -85,14 +89,15 @@
         "E": "Alıcı",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 182785,
@@ -104,14 +109,15 @@
         "E": "Geri bildirim",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 182786,
@@ -123,14 +129,15 @@
         "E": "Radyo",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182787,
@@ -142,14 +149,15 @@
         "E": "Geri bildirim",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 182788,
@@ -161,14 +169,15 @@
         "E": "Gürültü",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 182789,
@@ -180,14 +189,15 @@
         "E": "Kanal",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 192476,
@@ -199,14 +209,15 @@
         "E": "Görsel iletişim",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 192477,
@@ -218,18 +229,19 @@
         "E": "Kitle iletişimi",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 192478,
-        "SoruMetni": "................, kullanılan sözcüklerin yapısı, sesin niteliği, sözcüklerin vurgusu, ses tonu, sesin şiddeti ve hızı ile bütünlük arz etmektedir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br> <br/></br>",
+        "SoruMetni": "................, kullanılan sözcüklerin yapısı, sesin niteliği, sözcüklerin vurgusu, ses tonu, sesin şiddeti ve hızı ile bütünlük arz etmektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
         "A": "Yazılı iletişim",
         "B": "Beden dili",
         "C": "Görsel iletişim",
@@ -237,14 +249,15 @@
         "E": "Sözsüz iletişim",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 192479,
@@ -256,14 +269,15 @@
         "E": "Gazete",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 192482,
@@ -275,14 +289,15 @@
         "E": "Sahip olunan bilgi düzeyi",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 192483,
@@ -294,14 +309,15 @@
         "E": "Fotoğraflar",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 192484,
@@ -320,7 +336,8 @@
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 192485,
@@ -332,14 +349,15 @@
         "E": "Göstergebilim",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 294886,
@@ -351,14 +369,15 @@
         "E": "Kaynak - Kodaçan - İleti-Kanal - Kodlayıcı - Alıcı",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 341172,
@@ -370,14 +389,15 @@
         "E": "Sözsüz iletişimin gerçekleşmediği durumda sözlü iletişim son bulur.",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 342027,
@@ -389,14 +409,15 @@
         "E": "Gürültüyle ilgili engeller",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 342030,
@@ -408,14 +429,15 @@
         "E": "Bibliyoloji",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 408422,
@@ -427,13 +449,14 @@
         "E": "Görsel iletişim, ses ve kelime kullanımına tamamen bağlıdır.",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     }
 ]

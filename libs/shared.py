@@ -13,6 +13,13 @@ def clean_html(text):
     # Pre-process newlines to <br> to preserve them
     text = text.replace('\n', '<br>')
 
+    # Fix specific encoding artifacts found in Anadolu content
+    # \x1e and \x1f appear to be corrupted 'i' characters
+    text = text.replace('\x1e', 'i').replace('\x1f', 'i')
+
+    # Replace non-breaking spaces with normal spaces
+    text = text.replace('\xa0', ' ')
+
     soup = BeautifulSoup(text, 'html.parser')
 
     # 1. Handle o:p and other specific tags
@@ -65,6 +72,12 @@ def clean_html(text):
     # Get string
     cleaned_text = str(soup).strip()
 
+    # Collapse multiple spaces
+    cleaned_text = re.sub(r'[ \t]+', ' ', cleaned_text)
+
+    # Collapse multiple <br> tags
+    cleaned_text = re.sub(r'(<br\s*/?>\s*)+', '<br/>', cleaned_text, flags=re.IGNORECASE)
+
     # 8. Remove trailing <br> tags
     cleaned_text = re.sub(r'\s*<br\s*/?>\s*$', '', cleaned_text, flags=re.IGNORECASE)
 
@@ -80,9 +93,20 @@ def questions_to_markdown(questions):
     md = ""
     converter = HTMLPreservingConverter()
 
+    def safe_convert(text):
+        if not text: return ""
+        # Pre-process text to replace <br> with newlines before markdownify
+        # This prevents markdownify from truncating text with multiple <br> tags
+        text = re.sub(r'<br\s*/?>', '\n', text, flags=re.IGNORECASE)
+        text = re.sub(r'</br>', '', text, flags=re.IGNORECASE) # Remove invalid closing tags
+        converted = converter.convert(text).strip()
+        # Escape dots after numbers at the start of a line to prevent markdown list parsing
+        converted = re.sub(r'^(\d+)\.', r'\1\.', converted, flags=re.MULTILINE)
+        return converted
+
     for i, q in enumerate(questions, 1):
         # Use custom converter to preserve HTML content like sup/sub
-        q_text_raw = converter.convert(q['SoruMetni']).strip()
+        q_text_raw = safe_convert(q['SoruMetni'])
         # Replace newlines with <br /> for questions, but ensure no double <br />
         q_text_formatted = q_text_raw.replace('\n', '<br />')
         # Collapse multiple <br /> and remove surrounding spaces
@@ -101,7 +125,7 @@ def questions_to_markdown(questions):
 
             opt_content = q.get(opt, "")
             if opt_content:
-                opt_text_raw = converter.convert(opt_content).strip()
+                opt_text_raw = safe_convert(opt_content)
                 # Replace newlines with space in options
                 opt_text_formatted = opt_text_raw.replace('\n', ' ')
                 # Aggressively remove any remaining <br> tags
@@ -112,7 +136,7 @@ def questions_to_markdown(questions):
             md += f"{list_item_prefix}{opt_text_formatted}{suffix}\n"
 
         if q.get('Aciklama'):
-            explanation = converter.convert(q['Aciklama']).strip()
+            explanation = safe_convert(q['Aciklama'])
             # Ensure every line of explanation is quoted and indented
             exp_lines = explanation.split('\n')
             md += f"\n    > **Açıklama:** {exp_lines[0].strip()}\n"

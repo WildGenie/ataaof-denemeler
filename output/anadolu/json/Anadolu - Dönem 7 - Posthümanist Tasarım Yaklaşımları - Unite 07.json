@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3686071,
-        "SoruMetni": "I- Dijital ses, analog sesin aksine, kalite kaybı olmadan kopyalanabilir ve aktarılabilir.<br/> II- Dijital ses, bilgisayarlar ve dijital aygıtlar ile daha kolay entegre edilebilir.<br/> III- Dijital ses, genellikle daha geniş bir dinamik aralığa sahip olabilir.<br/> IV- Dijital ses sistemleri, analog sistemlere kıyasla daha basit ve ucuzdur.<br/> Yukarıdaki ifadelerden hangileri dijital ses tasarımının avantajlarından biridir?",
+        "SoruMetni": "I- Dijital ses, analog sesin aksine, kalite kaybı olmadan kopyalanabilir ve aktarılabilir.<br/>II- Dijital ses, bilgisayarlar ve dijital aygıtlar ile daha kolay entegre edilebilir.<br/>III- Dijital ses, genellikle daha geniş bir dinamik aralığa sahip olabilir.<br/>IV- Dijital ses sistemleri, analog sistemlere kıyasla daha basit ve ucuzdur.<br/>Yukarıdaki ifadelerden hangileri dijital ses tasarımının avantajlarından biridir?",
         "A": "I ve II",
         "B": "II ve III",
         "C": "I, II, III",
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Dijital ses tasarımının avantajları:<br/>• Dijital ses, analog sesin aksine, kalite kaybı olmadan kopyalanabilir ve aktarılabilir.<br/>• Dijital ses, bilgisayarlar ve dijital aygıtlar ile daha kolay entegre edilebilir.<br/>• Dijital ses, genellikle daha geniş bir dinamik aralığa sahip olabilir.<br/>Dezavantajları:<br/>• Dijital ses; analog sesin doğal, sürekli sinyalini yakalamak için bir örnekleme işlemine tabi tutulur. <br/>Bu bazen ses kalitesinde düşüşlere yol açabilir.<br/>• Dijital ses sistemleri, genellikle analog sistemlere kıyasla <strong>daha karmaşık ve pahalıdır.</strong>\" (s.261).<br/> Bu nedenle I, II, III. maddeler avantajlar olup cevap c seçeneğidir."
+        "Aciklama": "\"Dijital ses tasarımının avantajları:<br/>• Dijital ses, analog sesin aksine, kalite kaybı olmadan kopyalanabilir ve aktarılabilir.<br/>• Dijital ses, bilgisayarlar ve dijital aygıtlar ile daha kolay entegre edilebilir.<br/>• Dijital ses, genellikle daha geniş bir dinamik aralığa sahip olabilir.<br/>Dezavantajları:<br/>• Dijital ses; analog sesin doğal, sürekli sinyalini yakalamak için bir örnekleme işlemine tabi tutulur. <br/>Bu bazen ses kalitesinde düşüşlere yol açabilir.<br/>• Dijital ses sistemleri, genellikle analog sistemlere kıyasla <strong>daha karmaşık ve pahalıdır.</strong>\" (s.261).<br/>Bu nedenle I, II, III. maddeler avantajlar olup cevap c seçeneğidir."
     },
     {
         "SoruID": 3686103,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Ses tasarımı genellikle bilgisayar tabanlı ses düzenleme yazılımları kullanılarak yapılır. <br/>Bu yazılımlar ses kayıtlarını düzenlemenize, efektler eklemenize, sesleri karıştırmanıza <br/>ve diğer ses işleme işlemlerini gerçekleştirmenize olanak tanır. Örneğin <strong>Pro Tools, </strong><br/><strong>Adobe Audition, Logic Pro, Ableton Live</strong>\" (s.262).<br/> \"Mikrofonlar, ses efektlerini kaydetmek, diyalogları yakalamak veya foley sesleri oluşturmak <br/>için kullanılır. Örneğin;<strong> Shure SM7B</strong>, Rode NTG3, Sennheiser MKH 416, AKG C414\" (s.263). <br/> Buna göre e seçeneği bilgisayar tabanlı ses düzenleme yazılımı olmayıp, cevap e seçeneğidir."
+        "Aciklama": "\"Ses tasarımı genellikle bilgisayar tabanlı ses düzenleme yazılımları kullanılarak yapılır. <br/>Bu yazılımlar ses kayıtlarını düzenlemenize, efektler eklemenize, sesleri karıştırmanıza <br/>ve diğer ses işleme işlemlerini gerçekleştirmenize olanak tanır. Örneğin <strong>Pro Tools, </strong><br/><strong>Adobe Audition, Logic Pro, Ableton Live</strong>\" (s.262).<br/>\"Mikrofonlar, ses efektlerini kaydetmek, diyalogları yakalamak veya foley sesleri oluşturmak <br/>için kullanılır. Örneğin;<strong> Shure SM7B</strong>, Rode NTG3, Sennheiser MKH 416, AKG C414\" (s.263). <br/>Buna göre e seçeneği bilgisayar tabanlı ses düzenleme yazılımı olmayıp, cevap e seçeneğidir."
     },
     {
         "SoruID": 3686170,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"SpectraLayers Pro: Adobe tarafından geliştirilen ve ses spektrum analizi için kullanılan bir yazılımdır. Seslerin ayrı katmanlarda incelenmesine ve düzenlenmesine olanak sağlar\" (s.264).<br/> Buna göre cevap a seçeneğidir."
+        "Aciklama": "\"SpectraLayers Pro: Adobe tarafından geliştirilen ve ses spektrum analizi için kullanılan bir yazılımdır. Seslerin ayrı katmanlarda incelenmesine ve düzenlenmesine olanak sağlar\" (s.264).<br/>Buna göre cevap a seçeneğidir."
     },
     {
         "SoruID": 3686186,
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3686254,
-        "SoruMetni": "I- Sesin algılanan yüksekliği<br/> II- Sesin algılanan yoğunluğu<br/> III- Sesin tonal kalitesi <br/> IV- Sesin mekânsal konumu <br/> Psikoakustik çalışmalar, yukaridaki unsurlardan hangilerini içermektedir?",
+        "SoruMetni": "I- Sesin algılanan yüksekliği<br/>II- Sesin algılanan yoğunluğu<br/>III- Sesin tonal kalitesi <br/>IV- Sesin mekânsal konumu <br/>Psikoakustik çalışmalar, yukaridaki unsurlardan hangilerini içermektedir?",
         "A": "I ve II",
         "B": "I ve III",
         "C": "I, II, III",
@@ -177,11 +177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Psikoakustik çalışmalar, seslerin insanlar üzerindeki psikolojik ve fizyolojik etkilerini inceler ve <br/>sesin algılanması ve işlenmesi ile ilgili derinlemesine bilgi verir. Bu tür çalışmalar, <strong>bir sesin algılanan </strong><strong>yüksekliği, algılanan yoğunluğu, tonal kalitesi ve </strong><strong>mekânsal konumu</strong> gibi unsurları içerir\" (s.265). Buna göre cevap e seçeneğidir."
+        "Aciklama": "\"Psikoakustik çalışmalar, seslerin insanlar üzerindeki psikolojik ve fizyolojik etkilerini inceler ve <br/>sesin algılanması ve işlenmesi ile ilgili derinlemesine bilgi verir. Bu tür çalışmalar, <strong>bir sesin algılanan </strong><strong>yüksekliği, algılanan yoğunluğu, tonal kalitesi ve </strong><strong>mekânsal konumu</strong> gibi unsurları içerir\" (s.265). Buna göre cevap e seçeneğidir."
     },
     {
         "SoruID": 3686270,
-        "SoruMetni": "Önceden kaydedilmiş seslerin  oynatılmasını ve manipülasyonunu içeriren ses sentezi tekniğine ne ad verilmektedir?",
+        "SoruMetni": "Önceden kaydedilmiş seslerin oynatılmasını ve manipülasyonunu içeriren ses sentezi tekniğine ne ad verilmektedir?",
         "A": "Additive Synthesis (Ekleme Sentezi)",
         "B": "Subtractive Synthesis (Çıkartma Sentezi)",
         "C": "Frequency Modulation Synthesis (FM Synthesis - Frekans Modülasyon Sentezi)",
@@ -306,7 +306,7 @@
         "B": "I ve II",
         "C": "I, II ve III",
         "D": "I, III ve IV",
-        "E": "I, II, III  ve IV",
+        "E": "I, II, III ve IV",
         "DogruCevap": "B",
         "DersAd": "Posthümanist Tasarım Yaklaşımları",
         "Unite": 7,

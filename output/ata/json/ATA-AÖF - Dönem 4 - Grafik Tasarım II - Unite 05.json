@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 337716,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi Çukur Baskı Teknikleri'nden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi Çukur Baskı Teknikleri'nden biri <u>değildir</u>?</strong>",
         "A": "Asite yedirme (Etching)",
         "B": "Linol baskı",
         "C": "Leke baskı (Aquatint )",
@@ -9,14 +9,15 @@
         "E": "Yumuşak yedirme (Soft ground)",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 337717,
@@ -28,14 +29,15 @@
         "E": "Screen printing",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337718,
@@ -47,14 +49,15 @@
         "E": "Serigrafi baskı",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 337719,
@@ -73,7 +76,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 337720,
@@ -92,7 +96,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337721,
@@ -104,14 +109,15 @@
         "E": "Ağaç Gravür",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 337722,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 337723,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337724,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 346744,
@@ -177,17 +186,18 @@
         "B": "Düz baskı (Ofset)",
         "C": "Yatay baskı (Horizontal)",
         "D": "Çukur baskı (Tifdruk)",
-        "E": "Serigrafi baskı (Elek)<br/>",
+        "E": "Serigrafi baskı (Elek)",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 346745,
@@ -199,18 +209,19 @@
         "E": "Fransa Lascaux Mağarası'nda",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 346746,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi linol baskı aşamalarından biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi linol baskı aşamalarından biri <u>değildir</u>?</strong>",
         "A": "Basımı yapılacak tasarımın kâğıda çizilmesi",
         "B": "Tasarımın linol blok üzerine aktarılması",
         "C": "Baskı sonrası kâğıt kalıptan dikkatlice ayrılarak kurutulmak üzere kuruma rafına yerleştirilmesi",
@@ -218,14 +229,15 @@
         "E": "Baskı mürekkebinin düz bir yüzey üzerine spatula ile sürülmesi",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 347699,
@@ -237,14 +249,15 @@
         "E": "Litografi (taş) baskı",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 347701,
@@ -256,14 +269,15 @@
         "E": "Asite yedirme",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 347702,
@@ -275,13 +289,14 @@
         "E": "Litografi (taş) baskı",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     }
 ]

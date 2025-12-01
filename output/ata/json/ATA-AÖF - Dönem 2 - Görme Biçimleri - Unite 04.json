@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 310767,
-        "SoruMetni": "Yapıtlarda ışık anlatım için bir araç değil amaçtır. Gün ışığı resmin ana konusu olmuştur. Sanatçılar ışığın peşine düşerek, optik değerleri ortaya çıkarmaya uğraşmışlardır.<br/> <br/><strong>Bu açıklamalar aşağıdaki hangi sanat akımını ifade eder?</strong>",
+        "SoruMetni": "Yapıtlarda ışık anlatım için bir araç değil amaçtır. Gün ışığı resmin ana konusu olmuştur. Sanatçılar ışığın peşine düşerek, optik değerleri ortaya çıkarmaya uğraşmışlardır.<br/><strong>Bu açıklamalar aşağıdaki hangi sanat akımını ifade eder?</strong>",
         "A": "Rönesans",
         "B": "Gotik",
         "C": "Kübizm",
@@ -9,14 +9,15 @@
         "E": "Empresyonizm",
         "DogruCevap": "E",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 310770,
@@ -28,14 +29,15 @@
         "E": "Avedon",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 310771,
@@ -47,18 +49,19 @@
         "E": "Johannes Kepler",
         "DogruCevap": "D",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 310772,
-        "SoruMetni": "1876’da kısa aralıklarla çektiği fotoğraflar sinema düşüncesinin temelini oluşturdu. Yan yana getirilmiş bu fotoğrafların bir silindire yerleştirilip hızla çevrilmesi atın koşma hareketini bir yanılsama olarak canlandırdı.<br/> <br/><strong>Paragrafta anlatılan fotoğrafçı aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "1876’da kısa aralıklarla çektiği fotoğraflar sinema düşüncesinin temelini oluşturdu. Yan yana getirilmiş bu fotoğrafların bir silindire yerleştirilip hızla çevrilmesi atın koşma hareketini bir yanılsama olarak canlandırdı.<br/><strong>Paragrafta anlatılan fotoğrafçı aşağıdakilerden hangisidir?</strong>",
         "A": "Lumiere Kardeşler",
         "B": "Eadweard Muybridge",
         "C": "Ansel Adams",
@@ -66,14 +69,15 @@
         "E": "Man Ray",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 310774,
@@ -85,14 +89,15 @@
         "E": "Peter Paul Rubens",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 310775,
@@ -104,14 +109,15 @@
         "E": "Metz Katedrali",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 313822,
@@ -123,14 +129,15 @@
         "E": "Şimşek",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 313823,
@@ -142,14 +149,15 @@
         "E": "Erdem",
         "DogruCevap": "D",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 313824,
@@ -161,14 +169,15 @@
         "E": "Atenizm",
         "DogruCevap": "A",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 313825,
@@ -187,11 +196,12 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 313826,
-        "SoruMetni": "Ana kubbenin hem ağırlığını azaltmak hem de ana mekânın aydınlatılmasını sağlamak için kubbenin altında açılmış olan 40 adet pencereden süzülen ışık bir illüzyon yaratarak kubbeyi karanlıkta yüzüyormuş gibi gösterir.<br/> <br/><strong>Cümlede anlatılan mimari yapı aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "Ana kubbenin hem ağırlığını azaltmak hem de ana mekânın aydınlatılmasını sağlamak için kubbenin altında açılmış olan 40 adet pencereden süzülen ışık bir illüzyon yaratarak kubbeyi karanlıkta yüzüyormuş gibi gösterir.<br/><strong>Cümlede anlatılan mimari yapı aşağıdakilerden hangisidir?</strong>",
         "A": "Pantheon",
         "B": "Tac Mahal",
         "C": "Ayasofya",
@@ -199,18 +209,19 @@
         "E": "Santa Maria del Fiore",
         "DogruCevap": "C",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 313827,
-        "SoruMetni": "Minyatürlerde ışık sanki objelerden yayılıyormuş gibi görünür. Her bir obje sanki kendi başına birer ışık kaynağıdır.<br/> <br/><strong>Bu cümle ile hangi dönemden bahsedilmektedir?</strong>",
+        "SoruMetni": "Minyatürlerde ışık sanki objelerden yayılıyormuş gibi görünür. Her bir obje sanki kendi başına birer ışık kaynağıdır.<br/><strong>Bu cümle ile hangi dönemden bahsedilmektedir?</strong>",
         "A": "Orta Çağ",
         "B": "Barok",
         "C": "Rönesans",
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 313828,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 313829,
@@ -263,7 +276,8 @@
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 313830,
@@ -275,14 +289,15 @@
         "E": "Şehzade Camisi",
         "DogruCevap": "B",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 313831,
@@ -294,14 +309,15 @@
         "E": "Giotto di Bondone",
         "DogruCevap": "E",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 343853,
@@ -313,18 +329,19 @@
         "E": "Dağıtılabilir.",
         "DogruCevap": "C",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 343856,
-        "SoruMetni": "Tarihin en önemli kutsal yapıtlarından biridir. Bizans İmparatoru Justinyanus Dönemi'nde bugünkü kubbesi ile yapılmıştır. Bu olağanüstü yapı ile Justinyanus, tüm dünyaya imparatorluğunun Tanrı katında kutsanmış en büyük uygarlık olduğunu adeta haykırmıştır. Ayrıca, ışığın dinî mabette kullanımının en iyi örneklerindendir. Ana kubbenin hem ağırlığını azaltmak hem de ana mekânın aydınlatılmasını sağlamak için kubbenin altında açılmış olan 40 adet pencereden süzülen ışık, bir illüzyon (yanılsama) yaratarak kubbeyi karanlıkta yüzüyormuş gibi gösterir. Böylece madde ışığın içinde süzülerek soyut, ruhsal bir görüntüye dönüşür.<br/> <br/><strong>Paragrafta tanımı yapılan mimari yapının adı aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "Tarihin en önemli kutsal yapıtlarından biridir. Bizans İmparatoru Justinyanus Dönemi'nde bugünkü kubbesi ile yapılmıştır. Bu olağanüstü yapı ile Justinyanus, tüm dünyaya imparatorluğunun Tanrı katında kutsanmış en büyük uygarlık olduğunu adeta haykırmıştır. Ayrıca, ışığın dinî mabette kullanımının en iyi örneklerindendir. Ana kubbenin hem ağırlığını azaltmak hem de ana mekânın aydınlatılmasını sağlamak için kubbenin altında açılmış olan 40 adet pencereden süzülen ışık, bir illüzyon (yanılsama) yaratarak kubbeyi karanlıkta yüzüyormuş gibi gösterir. Böylece madde ışığın içinde süzülerek soyut, ruhsal bir görüntüye dönüşür.<br/><strong>Paragrafta tanımı yapılan mimari yapının adı aşağıdakilerden hangisidir?</strong>",
         "A": "Pantheon",
         "B": "Tac Mahal",
         "C": "Ayasofya",
@@ -332,13 +349,14 @@
         "E": "St. Denis Kilisesi",
         "DogruCevap": "C",
         "DersAd": "Görme Biçimleri",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 4,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 477,
         "OBSDersId": 82516,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3594043,
-        "SoruMetni": "Aşağıdakilerden hangisi sinema dünyasının analog köklerinden dijital kurgunun zirvesine ulaşmasına öncülük eden isimlerden biri olarak kabul edilir.?<br/><br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi sinema dünyasının analog köklerinden dijital kurgunun zirvesine ulaşmasına öncülük eden isimlerden biri olarak kabul edilir.?",
         "A": "Walter Murch",
         "B": "Thomas Knoll",
         "C": "John Knoll",
@@ -41,11 +41,11 @@
     },
     {
         "SoruID": 3594049,
-        "SoruMetni": "Aşağıdakilerden hangisi Adobe Premiere Pro programı 2024 sürümü açıldığında yeni bir proje oluşturmak için gerekli temel adımlardan biridir?<br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi Adobe Premiere Pro programı 2024 sürümü açıldığında yeni bir proje oluşturmak için gerekli temel adımlardan biridir?",
         "A": "Arayüzde kırmızı çerçeveyle gösterilen: Yeni proje oluşturmak için açılış ekranında<br/>önce ‘New Project’ (yeni proje) butonuna tıklayın.",
         "B": "Freeform (Serbest Görünüm): Freeform görünümü, dosyalarınızı serbestçe düzenleyebileceğiniz bir<br/>alanda gösterir. Bu görünüm, dosyalarınızı istediğiniz gibi sıralamanıza, gruplamanıza ve düzenlemenize olanak tanır. Özellikle yaratıcı düzenleme süreçlerinde veya hikâye anlatımı için belirli bir<br/>sırayla medya dosyalarını organize etmek istediğinizde yararlıdır",
         "C": "İkon Görünümü: İkon görünümü, medya dosyalarınızı küçük görseller olarak gösterir. Bu görünüm, görsel içeriklerle çalışırken kullanışlıdır çünkü dosyaların ön izlemelerini görmenizi ve içerikleri hızla tanımanızı sağlar.",
-        "D": "Liste Görünümü: Bu ikon, medya dosyalarınızı bir liste halinde gösterir. Liste görünümünde, dosya adı, türü, süresi ve diğer meta veriler gibi ek detayları görebilirsiniz. Bu görünüm, dosyalar arasında hızlı bir şekilde gezinmek ve özellikle çok sayıda dosyayı yönetirken detaylı bilgiye ulaşmak<br/>için kullanışlıdır.<br/><br/>",
+        "D": "Liste Görünümü: Bu ikon, medya dosyalarınızı bir liste halinde gösterir. Liste görünümünde, dosya adı, türü, süresi ve diğer meta veriler gibi ek detayları görebilirsiniz. Bu görünüm, dosyalar arasında hızlı bir şekilde gezinmek ve özellikle çok sayıda dosyayı yönetirken detaylı bilgiye ulaşmak<br/>için kullanışlıdır.",
         "E": "Herhangi bir dosyanın herhangi bir dijital video editing sistemine aktarılması işlemine içe aktarma (import) denilir",
         "DogruCevap": "A",
         "DersAd": "Dijital Video Kurgu ve Efekt",
@@ -65,7 +65,7 @@
         "A": "New Item (Yeni item)",
         "B": "Search (Bul/ara)",
         "C": "Freeform (Serbest görünüm)",
-        "D": "Delete (sil)<br/><br/>",
+        "D": "Delete (sil)",
         "E": "New Bin (Yeni klasör)",
         "DogruCevap": "C",
         "DersAd": "Dijital Video Kurgu ve Efekt",
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Adobe Premiere Pro’nun içe aktarma (import) penceresinde bulunan simge boyutu düğmeleri şunlardır:<br/><br/>1. Liste Görünümü<br/><br/>2. İkon Görünümü<br/><br/>3. Freeform<br/><br/>4. Simge Boyutu<br/><br/>Freeform (Serbest Görünüm) düğmesinin işlevi şudur: Freeform görünümü, dosyalarınızı serbestçe düzenleyebileceğiniz bir alanda gösterir. Bu görünüm, dosyalarınızı istediğiniz gibi sıralamanıza, gruplamanıza ve düzenlemenize olanak tanır. Özellikle yaratıcı düzenleme süreçlerinde veya hikâye anlatımı için belirli bir sırayla medya dosyalarını organize etmek istediğinizde yararlıdır.<br/>"
+        "Aciklama": "Adobe Premiere Pro’nun içe aktarma (import) penceresinde bulunan simge boyutu düğmeleri şunlardır:<br/>1. Liste Görünümü<br/>2. İkon Görünümü<br/>3. Freeform<br/>4. Simge Boyutu<br/>Freeform (Serbest Görünüm) düğmesinin işlevi şudur: Freeform görünümü, dosyalarınızı serbestçe düzenleyebileceğiniz bir alanda gösterir. Bu görünüm, dosyalarınızı istediğiniz gibi sıralamanıza, gruplamanıza ve düzenlemenize olanak tanır. Özellikle yaratıcı düzenleme süreçlerinde veya hikâye anlatımı için belirli bir sırayla medya dosyalarını organize etmek istediğinizde yararlıdır."
     },
     {
         "SoruID": 3594051,
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3594052,
-        "SoruMetni": "Aşağıdakilerden hangisi sekans ayarlarının işlevlerinden değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi sekans ayarlarının işlevlerinden değildir?",
         "A": "Editing Mode:",
         "B": "Timebase",
         "C": "Frame Size",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3594336,
-        "SoruMetni": "Aşağıdakilerden hangisi  kaynak monitörü arayüzünde yer alan rakamlardaki işaretlerin işlevlerinden değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi kaynak monitörü arayüzünde yer alan rakamlardaki işaretlerin işlevlerinden değildir?",
         "A": "Giriş Noktasını Ayarla (Mark In): Zaman çizgisinde bir giriş noktası ayarlamanızı sağlar. Kısayolu<br/>“I” tuşudur",
         "B": "Çıkış Noktasını Ayarla (Mark Out): Zaman çizgisinde bir çıkış noktası ayarlamanızı sağlar. Kısayolu “O” tuşudur.",
         "C": "Oynat/Duraklat (Play/Stop Toggle): Videonun oynatılmasını başlatır veya durdurur. Kısayolu<br/>“Space” (boşluk) tuşudur.",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3594340,
-        "SoruMetni": "Aşağıdakilerden hangisi Zaman Çizelgesinin (timeline) Önemli Özellikleri ve Kullanım Alanlarından değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Zaman Çizelgesinin (timeline) Önemli Özellikleri ve Kullanım Alanlarından değildir?",
         "A": "Çoklu kanal Desteği: Birden fazla video ve ses kanalını destekler, bu sayede karmaşık projelerde katmanlar üzerinde çalışabilirsiniz. Örneğin, arka plan müziği, diyaloglar ve ses efektleri için ayrı ses kanalları kullanabilirsiniz",
         "B": "Düzenleme Araçları: Kesme, kopyalama, yapıştırma, silme ve taşıma gibi temel düzenleme işlemlerini gerçekleştirebilirsiniz. Bu araçlar, görüntü parçalarını istediğiniz sıraya koymak ve zamanlamak için kullanılır",
         "C": "Efektler ve Geçişler: Video ve ses parçalarına çeşitli efektler ve geçişler ekleyebilirsiniz. Bu, videonuzun görsel<br/>ve işitsel çekiciliğini artırır.",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3594345,
-        "SoruMetni": "Aşağıdakilerden hangisi zaman çizelgesi arayüzünde görülen düğmelerin işlevlerinden değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi zaman çizelgesi arayüzünde görülen düğmelerin işlevlerinden değildir?",
         "A": "Senkron Kilidi (Sync Lock)",
         "B": "Göz Simgesi (Eye Icon):",
         "C": "Kaynak Atama (Source Patching)",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 3594349,
-        "SoruMetni": "Aşağıdakilerdem hangisi Adobe Premiere Pro’da medya dosyası türleri ve boyutları hakkında dikkat edilmesi gereken bazı hususlardan değildir?",
+        "SoruMetni": "Aşağıdakilerdem hangisi Adobe Premiere Pro’da medya dosyası türleri ve boyutları hakkında dikkat edilmesi gereken bazı hususlardan değildir?",
         "A": "Dışa Aktarma Aralığı (Export Range)",
         "B": "Video kalitesi",
         "C": "Depolama",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital kurgu devriminin öncüleri arasında yer alan Walter Murch, 1990’larda yaptığı yenilikçi çalışmalarla, bu alanın evriminde önemli bir uzmandır. Murch, sinema dünyasının analog köklerinden dijital kurgunun zirvesine ulaşmasına öncülük eden isimlerden biri olarak kabul edilir. Walter Murch (2005), bu teknolojik geçişin psikolojik etkilerini, kendisi ve kurgu profesyonelleri üzerindeki etkisi açısından anlatır. Murch, analog kurgu süreçlerinde karşılaşılan mekanik kesme masalarının ritmik sesleri, fiziksel olarak yıpranmış film şeritleri, kesme ve birleştirme araçları, kurgu masaları ve düzeltme işaretleyicileriyle dolu kurgu odalarının nostaljisini dile getirirken, dijital dönüşümün kaçınılmazlığına ve bu teknolojik yeniliklerin yaratıcı süreçler üzerindeki derin etkisine vurgu yapar."
+        "Aciklama": "93 ve 95. sayfalar.<br>Dijital kurgu devriminin öncüleri arasında yer alan Walter Murch, 1990’larda yaptığı yenilikçi çalışmalarla, bu alanın evriminde önemli bir uzmandır. Murch, sinema dünyasının analog köklerinden dijital kurgunun zirvesine ulaşmasına öncülük eden isimlerden biri olarak kabul edilir. Walter Murch (2005), bu teknolojik geçişin psikolojik etkilerini, kendisi ve kurgu profesyonelleri üzerindeki etkisi açısından anlatır. Murch, analog kurgu süreçlerinde karşılaşılan mekanik kesme masalarının ritmik sesleri, fiziksel olarak yıpranmış film şeritleri, kesme ve birleştirme araçları, kurgu masaları ve düzeltme işaretleyicileriyle dolu kurgu odalarının nostaljisini dile getirirken, dijital dönüşümün kaçınılmazlığına ve bu teknolojik yeniliklerin yaratıcı süreçler üzerindeki derin etkisine vurgu yapar."
     },
     {
         "SoruID": 3598212,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1970’lerin sonlarına doğru, Steenbeck ve KEM düzenleme masaları, film endüstrisindeki fiziksel kurgunun zirvesini temsil ediyordu. Mekanik kurgu sistemlerinde, film laboratuvarda işlendikten sonra pozitif bir iş kopyası hazırlanır ve kurgucu bu kopyayla çalışır. Dijital kurgu sistemlerinin ortaya çıkışı ve yaygınlaşmasındaki en büyük engellerden biri, o dönemlerde yeterli bellek kapasitesine ve yüksek kapasiteli sabit disklerin eksikliğiydi. Bu durum, 1971 yılında piyasaya sürülen ilk doğrusal olmayan kurgu sistemi CMX 600’ün geniş çapta kullanımını sınırlamıştır. CMX 600, esas olarak televizyon programlarında kullanılmış, ancak büyük sinema projelerinde tercih edilmemiştir. EditDroid ve Montage gibi yarı elektronik yarı analog sistemler, görüntüleri sırasıyla lazer disk ve VHS bantlarına kaydedebilme avantajına sahipti. Ancak, Avid gibi tamamen dijital sistemlerin sabit disk boyutları ve veri okuma hızları yetersiz kaldığı için, görüntülerin sıkıştırılması ve netlik sorunlarının ortaya çıkması gibi problemlerle karşılaşılmıştır. Avid gibi sistemlerin kullanımı, kurgucuların yıllarca alışık olduğu elle dokunarak ve gözle seçerek kesme işlemini yapma geleneğini değiştirmeyi gerektirdi. Teknik sorunların yanı sıra, yılların getirdiği kurgu anlayışını dönüştürmek de zorlu bir süreçti. Ancak, 1990’ların ortalarında gelişen sabit diskler, bellekler, işlemciler ve diğer bilgisayar teknolojileri, bu engelleri ortadan kaldırdı ve dijital kurgu yazılımları tüm endüstriye hâkim oldu."
+        "Aciklama": "1970’lerin sonlarına doğru, Steenbeck ve KEM düzenleme masaları, film endüstrisindeki fiziksel kurgunun zirvesini temsil ediyordu. Mekanik kurgu sistemlerinde, film laboratuvarda işlendikten sonra pozitif bir iş kopyası hazırlanır ve kurgucu bu kopyayla çalışır. Dijital kurgu sistemlerinin ortaya çıkışı ve yaygınlaşmasındaki en büyük engellerden biri, o dönemlerde yeterli bellek kapasitesine ve yüksek kapasiteli sabit disklerin eksikliğiydi. Bu durum, 1971 yılında piyasaya sürülen ilk doğrusal olmayan kurgu sistemi CMX 600’ün geniş çapta kullanımını sınırlamıştır. CMX 600, esas olarak televizyon programlarında kullanılmış, ancak büyük sinema projelerinde tercih edilmemiştir. EditDroid ve Montage gibi yarı elektronik yarı analog sistemler, görüntüleri sırasıyla lazer disk ve VHS bantlarına kaydedebilme avantajına sahipti. Ancak, Avid gibi tamamen dijital sistemlerin sabit disk boyutları ve veri okuma hızları yetersiz kaldığı için, görüntülerin sıkıştırılması ve netlik sorunlarının ortaya çıkması gibi problemlerle karşılaşılmıştır. Avid gibi sistemlerin kullanımı, kurgucuların yıllarca alışık olduğu elle dokunarak ve gözle seçerek kesme işlemini yapma geleneğini değiştirmeyi gerektirdi. Teknik sorunların yanı sıra, yılların getirdiği kurgu anlayışını dönüştürmek de zorlu bir süreçti. Ancak, 1990’ların ortalarında gelişen sabit diskler, bellekler, işlemciler ve diğer bilgisayar teknolojileri, bu engelleri ortadan kaldırdı ve dijital kurgu yazılımları tüm endüstriye hâkim oldu."
     },
     {
         "SoruID": 3598216,
@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 3598221,
-        "SoruMetni": "Aşağıdakilerden hangisi, Adobe Premiere Pro'nun içe aktarmada desteklediği dosya türlerinden biri <strong>değildir</strong>?",
+        "SoruMetni": "Aşağıdakilerden hangisi, Adobe Premiere Pro'nun içe aktarmada desteklediği dosya türlerinden biri <strong>değildir</strong>?",
         "A": "MP3.",
         "B": "3GP.",
         "C": "AIFF.",

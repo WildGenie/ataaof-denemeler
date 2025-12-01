@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanayi Devrimi’nin getirdiği hızlı endüstrileşme, estetik ve işlevsellik arasındaki dengenin kaybolmasına yol açmış ve Arts and Crafts Hareketi’ni doğurdu."
+        "Aciklama": "Dijitalleşme ve Tasarım Süreçleri<br>Sanayi Devrimi’nin getirdiği hızlı endüstrileşme, estetik ve işlevsellik arasındaki dengenin kaybolmasına yol açmış ve Arts and Crafts Hareketi’ni doğurdu."
     },
     {
         "SoruID": 3830690,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeniden Tasarım Kuralı: Tüm tasarım süreçleri daha önceki özümlere dayanır."
+        "Aciklama": "Tasarım Düşüncesinin Temelleri<br>Yeniden Tasarım Kuralı: Tüm tasarım süreçleri daha önceki özümlere dayanır."
     },
     {
         "SoruID": 3830694,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Seçim zorunluluğundan kaçınma: Tasarımcılar, karar verme aşamasına geçmeden önce rekabet eden alternatifleri araştırır. En iyi seçenekleri bir araya getiren yeni yapılandırmalar oluşturmayı hedeflerler."
+        "Aciklama": "Tasarım Düşüncesinin Temelleri<br>Seçim zorunluluğundan kaçınma: Tasarımcılar, karar verme aşamasına geçmeden önce rekabet eden alternatifleri araştırır. En iyi seçenekleri bir araya getiren yeni yapılandırmalar oluşturmayı hedeflerler."
     },
     {
         "SoruID": 3830696,
@@ -77,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kullanıcı odaklı çözümler Tasarım Süreçlerinin Aşamalarındandır"
+        "Aciklama": "Tasarım Düşüncesinin Temelleri<br>Kullanıcı odaklı çözümler Tasarım Süreçlerinin Aşamalarındandır"
     },
     {
         "SoruID": 3830725,
-        "SoruMetni": "Aşağıdakilerden hangisi Stanford’un tasarım odaklı düşünme modeli aşamalarından biri değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Stanford’un tasarım odaklı düşünme modeli aşamalarından biri değildir?",
         "A": "Empati kurma",
         "B": "Tanımlama",
         "C": "İçgörü",
@@ -97,16 +97,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Stanford’un tasarım odaklı düşünme modeli, klasik süreci beş temel aşamada tanımlar: Problemin yeniden tanımlanması (empati kurma), ihtiyaçların belirlenmesi ve karşılaştırılması (tanımlama), beyin fırtınası (fikir üretimi), prototipleme (inşa etme) ve test etme (öğrenme)"
+        "Aciklama": "Tasarım Düşüncesi Modellerinin Evrimi<br>Stanford’un tasarım odaklı düşünme modeli, klasik süreci beş temel aşamada tanımlar: Problemin yeniden tanımlanması (empati kurma), ihtiyaçların belirlenmesi ve karşılaştırılması (tanımlama), beyin fırtınası (fikir üretimi), prototipleme (inşa etme) ve test etme (öğrenme)"
     },
     {
         "SoruID": 3830729,
-        "SoruMetni": "Aşağıdakilerden hangisi, ekipleri kullanıcı ihtiyaçlarına göre temel sorunu ifade etmeye teşvik eden, gözlem ve empatiye odaklanan, içgörülerle donanmış olarak yeni ve beklenmedik çözümler geliştiren, potansiyel yanıtları kaba prototipler hâlinde somutlaştırılarak toplanan geri bildirimler sonucunda iterasyon yoluyla geliştirilen çözümün iş ortakları, müşteriler ve paydaşlarla paylaşıldığı altı aşamalı tasarım düşüncesi modelidir?<br/>",
-        "A": "IDEO Tasarım Düşüncesi <br/>",
-        "B": "Double Diamond (4 Ds) Tasarım Düşüncesi<br/>",
-        "C": "Tasarım Sprint<br/>",
-        "D": "Liedtka Tasarım Düşüncesi <br/>",
-        "E": "Tasarım Bilişi<br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi, ekipleri kullanıcı ihtiyaçlarına göre temel sorunu ifade etmeye teşvik eden, gözlem ve empatiye odaklanan, içgörülerle donanmış olarak yeni ve beklenmedik çözümler geliştiren, potansiyel yanıtları kaba prototipler hâlinde somutlaştırılarak toplanan geri bildirimler sonucunda iterasyon yoluyla geliştirilen çözümün iş ortakları, müşteriler ve paydaşlarla paylaşıldığı altı aşamalı tasarım düşüncesi modelidir?",
+        "A": "IDEO Tasarım Düşüncesi",
+        "B": "Double Diamond (4 Ds) Tasarım Düşüncesi",
+        "C": "Tasarım Sprint",
+        "D": "Liedtka Tasarım Düşüncesi",
+        "E": "Tasarım Bilişi",
         "DogruCevap": "A",
         "DersAd": "Tasarım Süreçleri ve Yönetimi",
         "Unite": 1,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "IDEO Tasarım Düşüncesi Modeli: Bu “tasarım düşüncesi modeli”, kullanıcıları yenilikçi çözümlere yönelik altı aşamalı bir yolculuğa yönlendiren bir kılavuz gibidir. Yolculuk, ekipleri kullanıcı ihtiyaçlarına derinlemesine dalmaya ve temel sorunu ifade etmeye teşvik eden bir sorunun çerçevelenmesiyle başlar. Bir sonraki aşama, gözlem ve empatiye odaklanarak ekip üyelerini hedef kitlenin yaşam deneyimlerine daldırmayı amaçlar. Bu içgörülerle donanmış olarak, ekip yeni ve beklenmedik çözümler geliştirme heyecan verici sürecine girer. Bu potansiyel yanıtlar, kaba prototipler hâlinde somutlaştırılarak test aşamasında titiz değerlendirmelere tabi tutulur ve değerli geri bildirimler toplanır. Son olarak, iterasyon yoluyla geliştirilen çözüm, ekip tarafından anlatılarak iş ortakları, müşteriler ve paydaşlarla paylaşılır<br/>"
+        "Aciklama": "Tasarım Düşüncesi Modellerinin Evrimi<br>IDEO Tasarım Düşüncesi Modeli: Bu “tasarım düşüncesi modeli”, kullanıcıları yenilikçi çözümlere yönelik altı aşamalı bir yolculuğa yönlendiren bir kılavuz gibidir. Yolculuk, ekipleri kullanıcı ihtiyaçlarına derinlemesine dalmaya ve temel sorunu ifade etmeye teşvik eden bir sorunun çerçevelenmesiyle başlar. Bir sonraki aşama, gözlem ve empatiye odaklanarak ekip üyelerini hedef kitlenin yaşam deneyimlerine daldırmayı amaçlar. Bu içgörülerle donanmış olarak, ekip yeni ve beklenmedik çözümler geliştirme heyecan verici sürecine girer. Bu potansiyel yanıtlar, kaba prototipler hâlinde somutlaştırılarak test aşamasında titiz değerlendirmelere tabi tutulur ve değerli geri bildirimler toplanır. Son olarak, iterasyon yoluyla geliştirilen çözüm, ekip tarafından anlatılarak iş ortakları, müşteriler ve paydaşlarla paylaşılır"
     },
     {
         "SoruID": 3830731,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Belirsizlikten Kaçınma: Bir toplumun belirsiz ve öngörülemeyen durumlara karşı toleransını ifade eder. Belirsizlikten kaçınan kültürler, katı kurallar ve mutlak doğru inancı ile bu tür durumları en aza indirmeye çalışır."
+        "Aciklama": "Tasarım Süreci ve Yaratıcılık<br>Belirsizlikten Kaçınma: Bir toplumun belirsiz ve öngörülemeyen durumlara karşı toleransını ifade eder. Belirsizlikten kaçınan kültürler, katı kurallar ve mutlak doğru inancı ile bu tür durumları en aza indirmeye çalışır."
     },
     {
         "SoruID": 3830734,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anlama, taslak çizim, karar verme, prototip oluşturma ve doğrulama"
+        "Aciklama": "Tasarım Düşüncesi Modellerinin Evrimi<br>Anlama, taslak çizim, karar verme, prototip oluşturma ve doğrulama"
     },
     {
         "SoruID": 3830736,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Liedtka’ya göre tasarım süreci aslında dört temel soruyla ilgilenir: 1. Şu an ne var? 2. Ne olabilir? (Eğer?) 3. Neler etkileyici? (Vay be!) 4. Ne işe yarar?"
+        "Aciklama": "Liedtka Tasarım Düşüncesi Modeli:<br>Liedtka’ya göre tasarım süreci aslında dört temel soruyla ilgilenir: 1. Şu an ne var? 2. Ne olabilir? (Eğer?) 3. Neler etkileyici? (Vay be!) 4. Ne işe yarar?"
     },
     {
         "SoruID": 3830738,
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 3833465,
-        "SoruMetni": "I. Temsil ettiği kişi veya kurumun öne çıkarmak istediği özelliklerini etkili biçimde yansıtması<br/> II. Hedefe uygun düzenlenmiş olması<br/> III. İçeriğinin ve tasarımının kendi kendisini başka bir eyleme gerek kalmaksızın tanıtacak biçimde tasarlanmış olması <br/> IV. Pahalı malzemelerle oluşturulmuş olması<br/> V. Elde taşınabilir olması<br/> Yukarıdakilerden hangisi başarılı bir portfolyonun özellikleri arasında yer alır?",
+        "SoruMetni": "I. Temsil ettiği kişi veya kurumun öne çıkarmak istediği özelliklerini etkili biçimde yansıtması<br/>II. Hedefe uygun düzenlenmiş olması<br/>III. İçeriğinin ve tasarımının kendi kendisini başka bir eyleme gerek kalmaksızın tanıtacak biçimde tasarlanmış olması <br/>IV. Pahalı malzemelerle oluşturulmuş olması<br/>V. Elde taşınabilir olması<br/>Yukarıdakilerden hangisi başarılı bir portfolyonun özellikleri arasında yer alır?",
         "A": "I, III, IV",
         "B": "I, II, III",
         "C": "II, III, V",
@@ -217,11 +217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I, II, III.<br/> I. Temsil ettiği kişi veya kurumun öne çıkarmak istediği özelliklerini etkili biçimde yansıtması<br/> II. Hedefe uygun düzenlenmiş olması<br/> III. İçeriğinin ve tasarımının kendi kendisini başka bir eyleme gerek kalmaksızın tanıtacak biçimde tasarlanmış olması"
+        "Aciklama": "Başarılı bir portfolyonun özellikleri arasında temsil ettiği kişi veya kurumun öne çıkarmak istediği özelliklerini etkili biçimde yansıtması; hedefe uygun düzenlenmiş olması; içeriğinin ve tasarımının kendi kendisini başka bir eyleme gerek kalmaksızın tanıtacak biçimde tasarlanmış olması yer alır. <br/>IV. ve V. şıklarda yer alan pahalı malzemelerle oluşturulmuş olması ve elde taşınabilir olması özellikleri başarılı bir portfolyo için elzem değildir.<br>I, II, III.<br/>I. Temsil ettiği kişi veya kurumun öne çıkarmak istediği özelliklerini etkili biçimde yansıtması<br/>II. Hedefe uygun düzenlenmiş olması<br/>III. İçeriğinin ve tasarımının kendi kendisini başka bir eyleme gerek kalmaksızın tanıtacak biçimde tasarlanmış olması"
     },
     {
         "SoruID": 3833512,
-        "SoruMetni": "I. Bir mimarlık şirketinin uluslararası mimarlık yarışmasına sunduğu portfolyo<br/> II. Üniversite mezunu bir öğrencinin yüksek lisans programına başvururken sunduğu portfolyo<br/> III. Bir mücevher tasarımcısının özel sektörde iş başvurusunda sunduğu portfolyo<br/> A. Profesyonel portfolyo<br/> B. Akademik portfolyo<br/> C. Ödül portfolyosu<br/> Yukarıdaki verilere göre aşağıdaki eşleşmelerden hangisi doğrudur?",
+        "SoruMetni": "I. Bir mimarlık şirketinin uluslararası mimarlık yarışmasına sunduğu portfolyo<br/>II. Üniversite mezunu bir öğrencinin yüksek lisans programına başvururken sunduğu portfolyo<br/>III. Bir mücevher tasarımcısının özel sektörde iş başvurusunda sunduğu portfolyo<br/>A. Profesyonel portfolyo<br/>B. Akademik portfolyo<br/>C. Ödül portfolyosu<br/>Yukarıdaki verilere göre aşağıdaki eşleşmelerden hangisi doğrudur?",
         "A": "I-C, II-B, III-A",
         "B": "I-B, II-A, III-C",
         "C": "I-A, II-B, III-C",
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I-C, II-B, III-A<br/> Bir mimarlık şirketinin uluslararası mimarlık yarışmasına sunduğu portfolyo, ödül portfolyosudur.<br/> Üniversite mezunu bir öğrencinin yüksek lisans programına başvururken sunduğu portfolyo, akademik portfolyodur.<br/> Bir mücevher tasarımcısının özel sektörde iş başvurusunda sunduğu portfolyo, profesyonel portfolyodur."
+        "Aciklama": "I-C, II-B, III-A<br/>Bir mimarlık şirketinin uluslararası mimarlık yarışmasına sunduğu portfolyo, ödül portfolyosudur.<br/>Üniversite mezunu bir öğrencinin yüksek lisans programına başvururken sunduğu portfolyo, akademik portfolyodur.<br/>Bir mücevher tasarımcısının özel sektörde iş başvurusunda sunduğu portfolyo, profesyonel portfolyodur."
     },
     {
         "SoruID": 3833514,
-        "SoruMetni": "Eserlerinin replikalarını ve minimal ölçekteki üç boyutlu çalışmalarını bir araya getirerek oluşturduğu  “Boîte-en-valise” adlı çalışmasında sanatçı Marcel Duchamp aşağıdakilerden hangisini gerçekleştirmiştir?",
+        "SoruMetni": "Eserlerinin replikalarını ve minimal ölçekteki üç boyutlu çalışmalarını bir araya getirerek oluşturduğu “Boîte-en-valise” adlı çalışmasında sanatçı Marcel Duchamp aşağıdakilerden hangisini gerçekleştirmiştir?",
         "A": "Sanatı önemsemediğini göstermiştir.",
         "B": "Portfolyonun kendisini bir sanat eserine dönüştürmüştür.",
         "C": "İş dünyasını eleştirmiştir.",
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "B. Portfolyonun kendisini bir sanat eserine dönüştürmüştür."
+        "Aciklama": "Eserlerinin replikalarını ve minimal ölçekteki üç boyutlu çalışmalarını bir araya getirerek oluşturduğu “Boîte-en-valise” adlı çalışmasında sanatçı Marcel Duchamp portfolyonun kendisini bir sanat eserine dönüştürmüştür.<br>B. Portfolyonun kendisini bir sanat eserine dönüştürmüştür."
     },
     {
         "SoruID": 3833516,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "A. Hedef kitlesine göre tasarım yapmıştır.<br/> Bir tekstil markasının yöneticileriyle yaptığı iş görüşmesinde çalışmalarını kumaş kaplı bir portfolyoda sunan bir tasarımcı başvurduğu pozisyonun içeriğine uygun bir sunum oluşturmuştur."
+        "Aciklama": "Bir tekstil markasının yöneticileriyle yaptığı iş görüşmesinde çalışmalarını kumaş kaplı bir portfolyoda sunan bir tasarımcı başvurduğu pozisyonun içeriğine uygun bir sunum oluşturarak portfolyosunda kumaş kullanmıştır.<br>A. Hedef kitlesine göre tasarım yapmıştır.<br/>Bir tekstil markasının yöneticileriyle yaptığı iş görüşmesinde çalışmalarını kumaş kaplı bir portfolyoda sunan bir tasarımcı başvurduğu pozisyonun içeriğine uygun bir sunum oluşturmuştur."
     },
     {
         "SoruID": 3833519,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "D. Başvurular arasında objektif bir değerlendirme yapılabilmesi"
+        "Aciklama": "Ayrımcılık Yasası'nın geçerli olduğu ABD gibi bazı ülkelerde başvuru sırasında fotoğraf kullanılması değerlendirmede önyargıya yol açabileceği gerekçesiyle doğru bulunmayabilmektedir.<br>D. Başvurular arasında objektif bir değerlendirme yapılabilmesi"
     },
     {
         "SoruID": 3833522,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "E. Anlatma, göster.<br/> Bir grafik tasarım ürünü olarak portfolyo tasarımları metinle veya sözle  açıklamak zorunda kalmadan kendisini anlatabilecek nitelikte olmalıdır."
+        "Aciklama": "Grafik tasarımlarda tasarlanan işin kendisini başka yollara gerek kalmadan anlatabilmesi beklenir.<br>E. Anlatma, göster.<br/>Bir grafik tasarım ürünü olarak portfolyo tasarımları metinle veya sözle açıklamak zorunda kalmadan kendisini anlatabilecek nitelikte olmalıdır."
     },
     {
         "SoruID": 3833525,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "C. İnternet bağlantısı"
+        "Aciklama": "Çevrim içi portfolyolara erişim için internet bağlantısı gereklidir.<br>C. İnternet bağlantısı"
     },
     {
         "SoruID": 3833529,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "C. Mizanpaj, tipografi ve renk gibi unsurların her sayfada otomatik olarak yer almasını sağlar."
+        "Aciklama": "Masaüstü yayıncılık ve mizanpaj düzenlemelerinde yaygın olarak kullanılan InDesign tasarımının çok sayfalı grafik tasarımlarda sağladığı Parent Page (Asıl Sayfa) özelliği sayesinde mizanpaj, tipografi ve renk gibi unsurlar her sayfada otomatik olarak yer alır.<br>C. Mizanpaj, tipografi ve renk gibi unsurların her sayfada otomatik olarak yer almasını sağlar."
     },
     {
         "SoruID": 3833545,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "C. Standart web tasarım veya ekran ölçü oranları<br/> Dijital portfolyo formatlarında boyut belirleme aşamasında standart web tasarım veya ekran ölçü oranlarının dikkate alınması gerekir. Kişinin boyu ile portfolyonun boyutları arasında olması gereken orantı ise yüz yüze sunumlarda dikkate alınması gereken bir özelliktir."
+        "Aciklama": "Standart web tasarım veya ekran ölçü oranları dijital portfolyo formatlarında boyut belirleme aşamasında dikkate alınmalıdır.<br>C. Standart web tasarım veya ekran ölçü oranları<br/>Dijital portfolyo formatlarında boyut belirleme aşamasında standart web tasarım veya ekran ölçü oranlarının dikkate alınması gerekir. Kişinin boyu ile portfolyonun boyutları arasında olması gereken orantı ise yüz yüze sunumlarda dikkate alınması gereken bir özelliktir."
     },
     {
         "SoruID": 3833558,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "E. Karmaşık <br/> Etkili bir sunum için portfolyoda yer alan metinlerin etkili ve sade, entelektüel açıdan güçlü, akıcı ve açık olması uygun olacaktır. Karmaşık anlatım istenen etkiyi yaratmak açısından olumsuz bir özelliktir."
+        "Aciklama": "E. Karmaşık <br/>Etkili bir sunum için portfolyoda yer alan metinlerin etkili ve sade, entelektüel açıdan güçlü, akıcı ve açık olması uygun olacaktır. Karmaşık anlatım istenen etkiyi yaratmak açısından olumsuz bir özelliktir."
     },
     {
         "SoruID": 3831816,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sergi hazırlık süreci üç temel bileşenden oluşur: küratoryal çalışma, editoryal çalışma ve fiziki kurulum. Sergileme tasarımı, bir ürünün veya sanat eserinin<br/>etkili bir şekilde temsil edilmesi açısından son derece önemlidir. Sponsorluk anlaşmaları ise bir serginin finansal desteğini sağlama sürecine dahil olabilir, ancak serginin temel bileşenlerinden biri değildir. Doğru cevap D'dir."
+        "Aciklama": "Sergi hazırlık süreci üç temel bileşenden oluşur: küratoryal çalışma, editoryal çalışma ve fiziki kurulum. Sergileme tasarımı, bir ürünün veya sanat eserinin<br/>etkili bir şekilde temsil edilmesi açısından son derece önemlidir. Sponsorluk anlaşmaları ise bir serginin finansal desteğini sağlama sürecine dahil olabilir, ancak serginin temel bileşenlerinden biri değildir. Doğru cevap D'dir."
     },
     {
         "SoruID": 3831820,
@@ -601,7 +601,7 @@
     },
     {
         "SoruID": 3834109,
-        "SoruMetni": "\"Metnin stilini, düzenlenmesini ve görünümünü kapsayan ................., metnin anlamını bile dikkate almadan kendi çağrışımlarını yaratabilir.\" ifadesindeki boşluğa aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "\"Metnin stilini, düzenlenmesini ve görünümünü kapsayan ................., metnin anlamını bile dikkate almadan kendi çağrışımlarını yaratabilir.\" ifadesindeki boşluğa aşağıdakilerden hangisi gelmelidir?",
         "A": "Renkler",
         "B": "Tipografi",
         "C": "Kaligrafi",
@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong><em>Logolar</em></strong><strong>: </strong>Logo, bir markanın görsel temsili, en temel ayırt edici özelliğidir (Henderson ve Cote, 1998)."
+        "Aciklama": "<br/><strong><em>Logolar</em></strong><strong>: </strong>Logo, bir markanın görsel temsili, en temel ayırt edici özelliğidir (Henderson ve Cote, 1998). Logonun tüm iletişim kanallarında tutarlı bir şekilde kullanılması, marka imajının bütünlüğünü korurken tüketicilerin markayı kolaylıkla tanımasını sağlar."
     },
     {
         "SoruID": 3834122,
@@ -721,7 +721,7 @@
     },
     {
         "SoruID": 3834125,
-        "SoruMetni": "\"Görsel içeriklerin, masaüstü bilgisayarlar, tabletler ve akıllı telefonlar gibi farklı cihazlarda ve ekran boyutlarında bütünleşik bir kullanıcı deneyimi sağlayacak şekilde iyileştirilmesi, marka iletişiminin etkinliği bakımından önemlidir. Çünkü her görsel tasarım her araçta aynı şekilde görünmemektedir. Bu strateji, görsellerin farklı platformlarda en iyi şekilde görünmesini sağlayarak kullanıcıların marka ile daha fazla etkileşim kurmasını ve marka hakkında olumlu bir izlenim edinmesini sağlar.\" <br/> Bu paragrafta bahsedilen konu aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Görsel içeriklerin, masaüstü bilgisayarlar, tabletler ve akıllı telefonlar gibi farklı cihazlarda ve ekran boyutlarında bütünleşik bir kullanıcı deneyimi sağlayacak şekilde iyileştirilmesi, marka iletişiminin etkinliği bakımından önemlidir. Çünkü her görsel tasarım her araçta aynı şekilde görünmemektedir. Bu strateji, görsellerin farklı platformlarda en iyi şekilde görünmesini sağlayarak kullanıcıların marka ile daha fazla etkileşim kurmasını ve marka hakkında olumlu bir izlenim edinmesini sağlar.\" <br/>Bu paragrafta bahsedilen konu aşağıdakilerden hangisidir?",
         "A": "PESO Modeli",
         "B": "Renk paleti",
         "C": "Tipografi",
@@ -741,7 +741,7 @@
     },
     {
         "SoruID": 3834127,
-        "SoruMetni": "Küreselleşen dünyada, pazarlama stratejilerinin başarıya ulaşmasında kültürel farklılıkların dikkate alınması değerlidir. Buna göre aşağıdakilerden hangisi <strong>doğru değildir? </strong><br/> <ol style=\"list-style-type: upper-roman;\"> <li> <span>Hedef kitlenin gelenek, inanç, değer, sosyal </span>norm gibi kültürel özelliklerini derinlemesine anlamak için kapsamlı kültürel araştırmalar yapılmalıdır.<br/> </li> <li> <span>Pazarlama materyalleri hedef kitlenin kül</span>türel kodlarından bağımsız olarak global kodlara uygun olarak uyarlanmalı. Renkler, semboller, dil ve görsel ögeler global veriler göz önünde bulundurularak seçilmelidir.<br/> </li> <li> <span>Pazarlama stratejilerinin kültürel uygunlu</span>ğunu sağlamak için yerel uzmanlardan veya kültürel danışmanlardan destek alınmalı<br/> </li> </ol>",
+        "SoruMetni": "Küreselleşen dünyada, pazarlama stratejilerinin başarıya ulaşmasında kültürel farklılıkların dikkate alınması değerlidir. Buna göre aşağıdakilerden hangisi <strong>doğru değildir? </strong><br/><ol style=\"list-style-type: upper-roman;\"> <li> <span>Hedef kitlenin gelenek, inanç, değer, sosyal </span>norm gibi kültürel özelliklerini derinlemesine anlamak için kapsamlı kültürel araştırmalar yapılmalıdır.<br/></li> <li> <span>Pazarlama materyalleri hedef kitlenin kül</span>türel kodlarından bağımsız olarak global kodlara uygun olarak uyarlanmalı. Renkler, semboller, dil ve görsel ögeler global veriler göz önünde bulundurularak seçilmelidir.<br/></li> <li> <span>Pazarlama stratejilerinin kültürel uygunlu</span>ğunu sağlamak için yerel uzmanlardan veya kültürel danışmanlardan destek alınmalı<br/></li> </ol>",
         "A": "Yalnızca I",
         "B": "Yalnızca II",
         "C": "Yalnızca III",
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "II. maddenin doğru hali şöyledir: Pazarlama materyalleri hedef kitlenin kültürel kodlarına uygun olarak uyarlanmalı. Renkler, semboller, dil ve görsel ögeler kültürel farklılıklar göz önünde bulundurularak seçilmeli."
+        "Aciklama": "Küreselleşen dünyada, pazarlama stratejilerinin başarıya ulaşmasında kültürel farklılıkların dikkate alınması değerlidir. Bu kapsamda öncelikle söz konusu kültürle ilgili kapsamlı bir araştırma yapılmalı, gerekmesi hâlinde görsel tasarım ögeleri yerel kültüre göre uyarlanmalı, kültürel danışmanlardan yararlanılmalı ve yerel kitle üzerindeki etkinin görülebilmesi için test ve geri bildirim süreçleri işlemelidir. Buna göre<br/>• Hedef kitlenin gelenek, inanç, değer, sosyal norm gibi kültürel özelliklerini derinlemesine anlamak için kapsamlı kültürel araştırmalar yapılmalı.<br/>• Pazarlama materyalleri hedef kitlenin kültürel kodlarına uygun olarak uyarlanmalı. Renkler, semboller, dil ve görsel ögeler kültürel farklılıklar göz önünde bulundurularak seçilmeli.<br/>• Pazarlama stratejilerinin kültürel uygunluğunu sağlamak için yerel uzmanlardan veya kültürel danışmanlardan destek alınmalı.<br/>• Pazarlama kampanyalarının etkisini ölçmek ve geri<br>II. maddenin doğru hali şöyledir: Pazarlama materyalleri hedef kitlenin kültürel kodlarına uygun olarak uyarlanmalı. Renkler, semboller, dil ve görsel ögeler kültürel farklılıklar göz önünde bulundurularak seçilmeli."
     },
     {
         "SoruID": 3834129,
@@ -781,7 +781,7 @@
     },
     {
         "SoruID": 3834132,
-        "SoruMetni": "\"Piktogramlar, emojiler ve ideogramların hepsi iletişim için görsel semboller olarak işlev görür ancak bu simgeler soyutlama düzeylerine göre farklılık gösterir. ........... en gerçekçi olanlardır, doğrudan fiziksel bir nesneyi veya eylemi tasvir ederler; örneğin, bir araba ile bir yol işareti buna örnektir. .............. daha soyuttur, doğrudan görsel bir benzerlik olmadan fikirleri veya kavramları temsil ederler; örneğin, barış sembolü veya aşk ve sevgi ifadesi için kalp sembolü gibi. ................. modern bir ideogram biçimi olarak görülebilir, öncelikle dijital iletişimde duyguları ifade etmek veya ortak nesneleri temsil etmek için kullanılır, ancak yorumları daha öznel ve bağlama bağlı olabilir.\"<br/>  Yukarıdaki ifadede boş yerlere sırasıyla hangi terimler gelmelidir?",
+        "SoruMetni": "\"Piktogramlar, emojiler ve ideogramların hepsi iletişim için görsel semboller olarak işlev görür ancak bu simgeler soyutlama düzeylerine göre farklılık gösterir. ........... en gerçekçi olanlardır, doğrudan fiziksel bir nesneyi veya eylemi tasvir ederler; örneğin, bir araba ile bir yol işareti buna örnektir. .............. daha soyuttur, doğrudan görsel bir benzerlik olmadan fikirleri veya kavramları temsil ederler; örneğin, barış sembolü veya aşk ve sevgi ifadesi için kalp sembolü gibi. ................. modern bir ideogram biçimi olarak görülebilir, öncelikle dijital iletişimde duyguları ifade etmek veya ortak nesneleri temsil etmek için kullanılır, ancak yorumları daha öznel ve bağlama bağlı olabilir.\"<br/>Yukarıdaki ifadede boş yerlere sırasıyla hangi terimler gelmelidir?",
         "A": "Piktogram/İdeogramlar/Emojiler",
         "B": "Piktogram/Emojiler/İdeogramlar",
         "C": "Piktogram/Emojiler/Tipograflar",
@@ -817,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İnovasyon"
+        "Aciklama": "İnovasyon, yeni fikirlerin ekonomik, sosyal ve kültürel alanlarda değer yaratacak şekilde hayata geçirilmesiyle ilgiliyken teknoloji, bu fikirlerin uygulanabilir ve sürdürülebilir hâle gelmesini sağlamaktadır."
     },
     {
         "SoruID": 3832055,
@@ -837,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijitalleşme"
+        "Aciklama": "<strong>Castells</strong>, dijitalleşmeyi “ağ toplumunun temel yapı taşı” olarak tanımlarken aslında bilgi ve iletişim teknolojilerinin insan yaşamında giderek artan rolüne de işaret etmektedir (Castells, 1996)."
     },
     {
         "SoruID": 3832059,
@@ -857,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ekonomik katkı sağlamıştır."
+        "Aciklama": "Konu ile ilgili maddelere ayrıntılı olarak sayfa 128 e bkz.<br>Ekonomik katkı sağlamıştır."
     },
     {
         "SoruID": 3832062,
@@ -877,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yüksek çözünürlüklü ve ölçeklenebilir grafikler oluşturma"
+        "Aciklama": "<strong>Photoshop gibi yazılımlar</strong>, dijital görüntülerin renk düzeltme, kontrast ayarı, keskinlik artırma ve<br/>kompozisyon iyileştirme gibi işlemlerle geliştirilmesini sağlamaktadır.<br>Yüksek çözünürlüklü ve ölçeklenebilir grafikler oluşturma"
     },
     {
         "SoruID": 3832063,
@@ -897,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaşlı bakımı"
+        "Aciklama": "<strong>Veri görselleştirmenin yoğun olarak kullanıldığı bazı alanlar ise şunlardır:</strong><br/>• Bilim: NASA’nın iklim değişikliği verilerini halka sunmak için oluşturduğu etkileşimli<br/>ısı haritaları, büyük veri görselleştirmenin bilimsel bir örneğidir.<br/>• Medya ve İletişim: The New York Times’ın veri görselleştirme projeleri, gazetecilikte<br/>bilgiye dayalı hikâye anlatımının etkili bir örneğini sunar (Cairo, 2013).<br/>• Pazarlama: Kullanıcı davranış verilerinin görselleştirilmesi, kampanyalarının hedef<br/>kitleye uygun şekilde optimize edilmesini sağlar.<br>Yaşlı bakımı"
     },
     {
         "SoruID": 3832067,
@@ -917,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Taşınabilirlik."
+        "Aciklama": "<strong>Sanal gerçeklik teknolojilerinin temel özellikleri şunlardır:</strong><br/>• Tamamen Dijital Ortam: Kullanıcıları fiziksel dünyadan izole ederek yalnızca dijital<br/>bir ortamda deneyim yaşamalarını sağlar.<br/>• Immersif Deneyimler: Stereo görüntü, 3D ses ve dokunsal geri bildirim gibi teknolojilerle<br/>gerçeklik algısını artırır (Bailenson, 2018).<br/>• Etkileşimli Ortamlar: VR kontrol cihazlarıyla kullanıcıların sanal nesnelerle etkileşim<br/>kurmasına olanak tanır.<br/>• Simülasyon Kapasitesi: Özellikle eğitim ve tasarım alanında, karmaşık süreçlerin simülasyonunu<br/>sağlar.<br>Taşınabilirlik."
     },
     {
         "SoruID": 3832068,
@@ -937,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Genel Yapay Zekâ (Artificial General Intelligence):</strong><br/>İnsan gibi düşünebilen ve birden fazla görevi öğrenip yerine getirebilen sistemlerdir. Şu anda teorik bir düzeyde bulunmakta olup tasarım dünyasında etkileri üzerine çalışmalar devam etmektedir."
+        "Aciklama": "<strong>Genel Yapay Zekâ (Artificial General Intelligence):</strong><br/>İnsan gibi düşünebilen ve birden fazla görevi öğrenip yerine getirebilen sistemlerdir. Şu anda teorik bir düzeyde bulunmakta olup tasarım dünyasında etkileri üzerine çalışmalar devam etmektedir."
     },
     {
         "SoruID": 3832070,
@@ -957,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kavramsal uygulanabilir."
+        "Aciklama": "İcatların temel özelliklerine ayrıntılı olarak sayfa 137. bkz.<br>Kavramsal uygulanabilir."
     },
     {
         "SoruID": 3832072,
@@ -977,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Konsept Geliştirme (Concept Development)"
+        "Aciklama": "<strong>Konsept Geliştirme (Concept Development);</strong> bu kategori bir icadın ortaya çıkış süreci adımlarındandır."
     },
     {
         "SoruID": 3832073,
@@ -997,7 +997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Konsept Geliştirme (Concept Development)"
+        "Aciklama": "İnovasyonların Özelliklerine detaylı sayfa 139'a bkz.<br>Konsept Geliştirme (Concept Development)"
     },
     {
         "SoruID": 3832189,
@@ -1217,7 +1217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Evrensel Tasarım, Kapsayıcı Tasarım"
+        "Aciklama": "Toplumun tüm bireylerinin erişim hakkını gözeten tasarımlar Evrensel Tasarım, Kapsayıcı Tasarım olarak adlandırılır, sorunun yanıtı D şıkkıdır."
     },
     {
         "SoruID": 3831362,
@@ -1237,7 +1237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Manfred Max Neef"
+        "Aciklama": "Sürdürülebilirlik \"gelecek kuşakların ihtiyaçlarını karşılamayı içerir\" diyen uzman Manfred Max Neef dir, sorunun yanıtı B şıkkıdır."
     },
     {
         "SoruID": 3831365,
@@ -1257,7 +1257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1987"
+        "Aciklama": "Sürdürülebilirlik ilk olarak 1987 yılında ortaya atılmıştır, sorunun yanıtı E şıkkıdır."
     },
     {
         "SoruID": 3831367,
@@ -1277,7 +1277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kyoto"
+        "Aciklama": "CUMULUS'un üyelerinin 2008 yılında imzaladığı yeni tasarım tarifi deklarasyonunun adı Kyoto'dur, sorunun yanıtı B şıkkıdır."
     },
     {
         "SoruID": 3831370,
@@ -1297,7 +1297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaşam döngüsü"
+        "Aciklama": "Sürdürülebilir tasarımın en önemli ögelerinden biri Yaşam döngüsüdür, sorunun yanıtı D şıkkıdır."
     },
     {
         "SoruID": 3831372,
@@ -1317,7 +1317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "9"
+        "Aciklama": "Sürdürülebilir Tasarım ilkeleri 9 maddedir, sorunun yanıtı A şıkkıdır."
     },
     {
         "SoruID": 3831374,
@@ -1337,7 +1337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "%87"
+        "Aciklama": "Günümüzde dünyada enerjide kullanılan Fosil yakıtların oranı % 87dir, sorunun yanıtı C şıkkıdır.<br>%87"
     },
     {
         "SoruID": 3831375,
@@ -1357,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "FSC"
+        "Aciklama": "İKEA tarafından kullanılan Sürdürülebilir Orman Sertifikasının kısaltılmış adı FSCdir, sorunun yanıtı B şıkkıdır."
     },
     {
         "SoruID": 3831376,
@@ -1377,7 +1377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lego"
+        "Aciklama": "Sürdürülebilirlik konusunda öncü ve önemli çalışmalar yapan dünyaca tanınan oyuncak firmasının adı Lego'dur sorunun yanıtı E şıkkıdır."
     },
     {
         "SoruID": 3831377,
@@ -1397,11 +1397,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bob Geldof"
+        "Aciklama": "1985 yılında Lİve Aid konserleri yaparak küresel farkındalık sağlayan sanatçı Bob Geldof'dur, sorunun yanıtı E şıkkıdır."
     },
     {
         "SoruID": 3833824,
-        "SoruMetni": "Tüketicilerin artık sadece ürün veya hizmetlerin kendilerine değil, bu ürün veya hizmetleri kullanırken yaşadıkları deneyime de büyük değer verdikleri dönemi ifade etmek için hangi tanım kullanılır?<br/> Örneğin; uçak seyahatinin yolcu açısından yalnızca koltuk satışından ve varılacak yere ulaşmaktan ibaret olmaması, bu tanım çerçevesinde yer alır.",
+        "SoruMetni": "Tüketicilerin artık sadece ürün veya hizmetlerin kendilerine değil, bu ürün veya hizmetleri kullanırken yaşadıkları deneyime de büyük değer verdikleri dönemi ifade etmek için hangi tanım kullanılır?<br/>Örneğin; uçak seyahatinin yolcu açısından yalnızca koltuk satışından ve varılacak yere ulaşmaktan ibaret olmaması, bu tanım çerçevesinde yer alır.",
         "A": "Deneyim ekonomisi",
         "B": "Hizmet ekonomisi",
         "C": "Üretim ekonomisi",
@@ -1417,7 +1417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "A şıkkıdır."
+        "Aciklama": "Sayda 215’te yer alan “Deneyim ekonomisi” başlığı altında verilen tanım, deneyim ekonomisini bu şekilde tanımlamaktadır. Aynı sayfada Görsel 8.2’nin açıklamasında uçuş deneyimi örneği verilmektedir.<br>A şıkkıdır."
     },
     {
         "SoruID": 3833828,
@@ -1437,11 +1437,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "B seçeneğidir."
+        "Aciklama": "A seçeneği, sayfa 216’da Deneyim Ekonomisi başlığı altındadır.<br/>B seçeneği, Sayfa 216’da yer alan \"Deneyim ekonomisi yalnızca ürün ile kullanıcı arasındaki fiziksel etkileşimler sonucu oluşmaz” olumsuzlanması ile oluşturulmuştur. Dolayıs ile deneyim ekonomisi için söylenemez.<br/>C seçeneği, sayfa 216’da Deneyim Ekonomisi başlığı altındadır.<br/>D seçeneği, sayfa 215’da Deneyim Ekonomisi başlığı altındadır.<br/>E Sayfa Sayfa 216’daki “Günümüzde sosyal medyanın bu denli gelişmiş olması, deneyimlerin yayılmasını ve trend hâline gelmesini kolaylaştırmıştır.” cümlesine binaen oluturulmuş seçenektir.<br>B seçeneğidir."
     },
     {
         "SoruID": 3833832,
-        "SoruMetni": "Bir web sitesinin, kullanılabilir ve güvenilir olmasının yanı sıra, görme zorlukları yaşayan kullanıcılar için büyütülebilir yazılar ve yüksek kontrastlı tasarım gibi seçenekler sunması,  Peter Morville’in “bal peteği” yaklaşımı içerisinde hangi öğe çerçevesinde yer almaktadır?",
+        "SoruMetni": "Bir web sitesinin, kullanılabilir ve güvenilir olmasının yanı sıra, görme zorlukları yaşayan kullanıcılar için büyütülebilir yazılar ve yüksek kontrastlı tasarım gibi seçenekler sunması, Peter Morville’in “bal peteği” yaklaşımı içerisinde hangi öğe çerçevesinde yer almaktadır?",
         "A": "Arzu edilebilirlik",
         "B": "Faydalılık",
         "C": "Erişilebilirlik",
@@ -1457,11 +1457,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "C şıkkıdır."
+        "Aciklama": "Sayfa 218’de yer alan tanım “Erişilebilirlik (Accessible): Ürünün farklı yeteneklere sahip tüm kullanıcılar için erişilebilir olması” şeklindedir. Görme zorlukları yaşayan kullanıcılar, diğer kullanıcılardan farklı görme yeteneğine sahiptirler. Soruuda sözü edilen seçenekler sayesinde bu kullanıcılar da web sitesi tarafınan sağlanan içeriğe diğerleri ile aynı oranda erişebilir olmaktadırlar.<br>C şıkkıdır."
     },
     {
         "SoruID": 3833835,
-        "SoruMetni": "Peter Morville’in kullanıcı deneyimine ilişkin “balpeteği” modeli “kullanılabilirlik, faydalılık, güvenilirlik” gibi 7 bileşenden oluşur.  Jesse James Garrett’in kullanıcı deneyimi elementleri ise beş tane olup bunlar “strateji, kapsam, yapı, iskelet ve yüzey” şeklindedir. Her ikisi de kullanıcı deneyimine ilişkin olsa da birbirlerinden ayrımaktadırlar. Aralarındaki fark aşağıdakilerden hangisidir?",
+        "SoruMetni": "Peter Morville’in kullanıcı deneyimine ilişkin “balpeteği” modeli “kullanılabilirlik, faydalılık, güvenilirlik” gibi 7 bileşenden oluşur. Jesse James Garrett’in kullanıcı deneyimi elementleri ise beş tane olup bunlar “strateji, kapsam, yapı, iskelet ve yüzey” şeklindedir. Her ikisi de kullanıcı deneyimine ilişkin olsa da birbirlerinden ayrımaktadırlar. Aralarındaki fark aşağıdakilerden hangisidir?",
         "A": "Morville’in yaklaşımı tasarımcılara, ürünlerini ve hizmetlerini değerlendirmek üzere bir yaklaşım sunar. Garret’ın yaklaşımı kullanıcı deneyimini etkili bir şekilde tasarlamak ve yönetmek için stratejik bir yaklaşım sağlar.",
         "B": "Morville’ın yaklaşımı kullanıcı deneyiminin sadece bir teknoloji olarak ele alır. Garret’ın yaklaşımı psikolojik, sosyal ve kültürel faktörleri de içerir.",
         "C": "Morville’in yaklaşımı bir web sitesi, uygulama veya herhangi bir dijital ürünün kullanıcı deneyimine ilişkindir. Garrett’ın yaklaşımı dijital ürünleri kapsamaz.",
@@ -1477,7 +1477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "A şıkkıdır."
+        "Aciklama": "Doğru seçenekteki cümleler 217. ve 218. sayfalardan alınmış olup iki yaklaşım, Morville’in yaklaşımın varolan bir ürün ya da hizmeti değerlendirmek amaçlı olduğunu, Garrett’ın yaklaşımının ise bir ürün ya da hizmeti tasarlarken izlenmesi gereken süreçleri belirttiğini ifade etmektedir.<br/>B seçeneği, Morviile’in yalaşımı için verilen sayfa 217’de verilen “Peteğin yedi faktörü, kullanıcı deneyiminin sadece bir teknoloji meselesi olmadığını, aynı zamanda psikolojik, sosyal ve kültürel faktörlerin de önemli olduğunu gösterir.” ümlesinden türetilmiştir. Ancak yaklaşımı “teknoloji meselesi” olarak sınırladığı için hatalıdır. Ayrıca metinde . Garret’ın yaklaşımının psikolojik, sosyal ve kültürel faktörleri de içerdiğine dair bir önerme yoktur.<br/>C seçeneği sayfa 218’deki “Garrett’in modeli, bir web sitesi, uygulama veya herhangi bir dijital ürünün kullanıcı deneyimini etkili bir şekilde tasarlamak ve yönetmek için...” cümlesinden türetilmiş olup bu tanım Morville modeli için verilmemiştir. Ancak “Morvi<br>A şıkkıdır."
     },
     {
         "SoruID": 3833839,
@@ -1497,7 +1497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "C şıkkıdır."
+        "Aciklama": "C seçeneğindeki cevap 221. Sayfadaki “Ona göre, kullanıcı deneyimi yalnızca bir ürünün işlevselliği ve kullanılabilirliğiyle sınırlı değildir; aynı zamanda ürünün estetik, anlamlılık, motivasyon, değer ve keyif gibi duygusal ve psikolojik yönlerini de içerir.” cümlesi çarpıtılarak oluşturulmuş olup Marc Hassenzahl’ın kullanıcı deneyimi çerçevesine ilişkin olarak söylenemez.<br/>Diğer seçenekler, ilgili bölümdeki önermelerden yola çıkarak oluşturulmuştur<br>C şıkkıdır."
     },
     {
         "SoruID": 3833848,
@@ -1517,7 +1517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "C şıkkıdır."
+        "Aciklama": "Soru C seçeneğinde yer alan “Kullanılabilirlik Testi” altbaşlığında sayfa 225’te verilen örneğe dayanarak oluşturulmuştur. Metin şu şekildedir: “Örneğin, bankacılık uygulamasında kullanıcıların para transferi yapma sürecini test ederek bu işlemi tamamlamada yaşadıkları zorluklar ve zaman alıcı adımlar belirlenebilir.”<br/>Diğer seçeneklerdeki yöntemler bir tasarımı değerlendirmek amacıyla değil, yapılacak tasarımın taşıması gereken özellikleri anlamak için kullanılırlar. Günlük çalışmaları bunun dışındadır. Ancak bu yöntem bir tasarımın uzun süreli kullanımı da kullanıcıların fikir ve tutumlarını anlamaya yönelik olup tek bir işlevi test etmek ve buradaki problemleri ortaya çıkarmak için uygun değildir.<br>C şıkkıdır."
     },
     {
         "SoruID": 3833850,
@@ -1537,7 +1537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "E şıkkıdır."
+        "Aciklama": "A/B testi ile kulanıcı testi arasındaki temel fark, A/B testinin bir ürün veya hizmetin iki farklı versiyonu arasında, kullanılabilirlik bakımından farkı belirlemek için yapılması, kullanıcı testinin ise bir ürün veya hizmetin bir ya da birkaç işlevinin kullanımınındaki kullanılabilirlik düzeyini ölçmeye ve problemleri saptamaya yönelik olmasıdır. Her ikisinde de süre, işlem aım sayısı, sonuca ulaşılıp ulaşılmadığı gibi kriterler değerlendirilir. Kullanılabilirlik testleri genellikle laboratuvar ortamında, A/B testleri genellikle laboratuvar dışındaki kullanıcılar ile yapılsa da, her ikisi için de tam tersi mümkündür ve yapılmaktadır.<br/>A seçeneği Gözlemler (Observational Studies), B seçeneği Odak Grupları (Focus Groups), C seçeneği Kart Sıralama (Card Sorting), D seçeneği Anketler ve Anket Çalışmaları (Surveys and Questionnaires) yöntemlerini tanımlar ve bu tanımlar ne A/B testi, ne de kullanılabilirlik testi ile ilişkilendirilemez.<br>E şıkkıdır."
     },
     {
         "SoruID": 3833854,
@@ -1557,7 +1557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "D şıkkıdır."
+        "Aciklama": "D seçeneğinde yer alan “Karanlık kalıplar” tanımı sayfa 230’da sorudakine benzer şekilde verilmektedir.<br/>Gölgeleme bir kullanıcı merkezli tasarım yöntemidir (s. 227) . Kısıtlamalar, sağlarlık ve imleyen, Norman’ın kullanıcı deneyimi yaklaşımında öne çıkan bazı temel kavramlar olarak listelenmiştir (s. 220).<br>D şıkkıdır."
     },
     {
         "SoruID": 3833857,
@@ -1577,7 +1577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "E şıkkıdır."
+        "Aciklama": "E seçeneğinde yer alan tanım sayfa 230’da Sürekli İyileştirme ve Adaptasyon başlığındaki “..yenilik artışını radikal yenilikle karıştırmak, fikirleri çok erken öldürmek ve fikirleri müşteri ihtiyaçlarına göre değil, operasyonel sorunlara dayalı olarak seçmektir.” cümlesinden adapte edilmiş olup “Tasarım yönetiminde sıklıkla yapılan bir hata..” olarak nitelendirilmektedir. Kullanıcı merkezli tasarım büyük çaplı radikal değişikliklerden çok küçük iyileştirmeler ile kullanıcı deneyiminin niteliğini arttırmayı amaçlar. Kullanıcıların beklenti, ihtiyaç, tutım ve davranışları, operasyonel sorunlardan önce gelir. Tasarım Yönetiminde Kullanıcı Deneyimi bölümündeki İş Birliği ve Ekip Yönetimi başlığı A seçeneğinde, Erişilebilirlik ve Kapsayıcılık B seçeneğinde, Kullanıcı Merkezli Anlayış C seçeneğinde, Tasarım Stratejisine Entegrasyon D seçeneğinde verilen tanımları içerir.<br>E şıkkıdır."
     },
     {
         "SoruID": 3833860,
@@ -1597,7 +1597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "B şıkkıdır."
+        "Aciklama": "İnsan-bilgisayar etkileşimi üzerine yapılan ilk çalışmaların II. Dünya Savaşı sırasında özellikle uçak kokpitlerinin kullanılabilirliği ve etkinliği üzerine yapılan çalışmalarla ortaya çıktığı söylenebilir (s. 212)<br>B şıkkıdır."
     },
     {
         "SoruID": 3833866,
@@ -1617,6 +1617,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "E şıkkıdır."
+        "Aciklama": "“Persona, hedef kitlenin net bir tanımını sunar. Her yeni sistemin farklı türdeki insanlar tarafından kullanılma olasılığı olduğundan, birkaç farklı persona geliştirmek önemlidir (Benyon, 2019).” İfadesine göre E seçeneği doğru bir önerme değildir. Personalar, persona ağaçları ya da aileleri şeklinde geliştirilirler ve her biri hedef kitledeki diğerlerinden farklılıklar gösteren bir kullanıcı grubunu temsil eder.<br>E şıkkıdır."
     }
 ]

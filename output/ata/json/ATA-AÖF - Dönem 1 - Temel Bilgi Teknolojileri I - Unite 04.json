@@ -16,15 +16,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376266,
-        "SoruMetni": "Dosya sistemi virüsleri, genellikle … veya … uzantılı olan işletilebilir dosyalara bulaşan virüs türleridir.<br/> <br/><strong>Cümledeki boşluğa sırasıyla aşağıdaki hangi ifadeler getirilmelidir</strong><br> <br/> </br>",
-        "A": "EXE-COM<br/>",
-        "B": "EXE-XLS<br/>",
-        "C": "COM-DOCX<br/>",
-        "D": "APK-APP<br/>",
+        "SoruMetni": "Dosya sistemi virüsleri, genellikle … veya … uzantılı olan işletilebilir dosyalara bulaşan virüs türleridir.<br/><strong>Cümledeki boşluğa sırasıyla aşağıdaki hangi ifadeler getirilmelidir</strong><br/></br>",
+        "A": "EXE-COM",
+        "B": "EXE-XLS",
+        "C": "COM-DOCX",
+        "D": "APK-APP",
         "E": "XLS-DOCX",
         "DogruCevap": "A",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -35,7 +36,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376267,
@@ -54,7 +56,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376268,
@@ -73,11 +76,12 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376269,
-        "SoruMetni": "Kullanıcının isteği dışında kendisine gelen elektronik postalar ....................… olarak adlandırılmaktadır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br> <br/></br>",
+        "SoruMetni": "Kullanıcının isteği dışında kendisine gelen elektronik postalar ....................… olarak adlandırılmaktadır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
         "A": "solucan",
         "B": "spam",
         "C": "truva atı",
@@ -92,15 +96,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376270,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi kötü amaçlı bir yazılım <u>değildir</u>?</strong><br/>",
-        "A": "Truva atı<br/>",
-        "B": "Trojan<br/>",
-        "C": "Solucan<br/>",
-        "D": "Firmware<br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi kötü amaçlı bir yazılım <u>değildir</u>?</strong>",
+        "A": "Truva atı",
+        "B": "Trojan",
+        "C": "Solucan",
+        "D": "Firmware",
         "E": "Spam",
         "DogruCevap": "D",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -111,15 +116,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376271,
-        "SoruMetni": "<strong>Windows işletim sistemi kullanan bir bilgisayarda virüs olduğundan şüphelenilirse aşağıdakilerden hangisi yapılmamalıdır?</strong><br/>",
-        "A": "Bilgisayar güvenli modda çalıştırılarak antivirüs taramasından geçirilmelidir.<br/>",
-        "B": "Bilgisayardaki kritik bilgilerin (kredi kartı, kişisel bilgiler vb.) girişi yapılmamalıdır.<br/>",
-        "C": "Bilgisayara usb, telefon gibi taşınabilir cihazlar takılmamalıdır.<br/>",
-        "D": "Başka bir bilgisayar ile bağlantı kurularak Windows sistem dosyaları değiştirilmelidir.<br/>",
+        "SoruMetni": "<strong>Windows işletim sistemi kullanan bir bilgisayarda virüs olduğundan şüphelenilirse aşağıdakilerden hangisi yapılmamalıdır?</strong>",
+        "A": "Bilgisayar güvenli modda çalıştırılarak antivirüs taramasından geçirilmelidir.",
+        "B": "Bilgisayardaki kritik bilgilerin (kredi kartı, kişisel bilgiler vb.) girişi yapılmamalıdır.",
+        "C": "Bilgisayara usb, telefon gibi taşınabilir cihazlar takılmamalıdır.",
+        "D": "Başka bir bilgisayar ile bağlantı kurularak Windows sistem dosyaları değiştirilmelidir.",
         "E": "Windows güncelleştirilmeli ve güvenlik duvarı pasif ise aktif hale getirilmelidir.",
         "DogruCevap": "D",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376272,
@@ -149,15 +156,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376273,
-        "SoruMetni": "<strong>Web tarayıcıları ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong><br/>",
-        "A": "Eğitim kurumlarının internet siteleri için edu uzantılı adresler kullanılır.<br/>",
-        "B": "İnternet üzerinde gezinti yaptığınız adresler web tarayıcıları tarafından saklanabilir<br/>",
-        "C": "Bağlanmak istediğimiz web sayfasının adresini yazdığımız alana adres çubuğu denir.<br/>",
-        "D": "Devlet kurumlarının internet siteleri için gov uzantılı adresler kullanılır<br/>",
+        "SoruMetni": "<strong>Web tarayıcıları ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>",
+        "A": "Eğitim kurumlarının internet siteleri için edu uzantılı adresler kullanılır.",
+        "B": "İnternet üzerinde gezinti yaptığınız adresler web tarayıcıları tarafından saklanabilir",
+        "C": "Bağlanmak istediğimiz web sayfasının adresini yazdığımız alana adres çubuğu denir.",
+        "D": "Devlet kurumlarının internet siteleri için gov uzantılı adresler kullanılır",
         "E": "Antivirüs yazılımları kullanılarak web geçmişi, şifre hatırlatma gibi bir takım özellikler web tarayıcılarına kazandırılır.",
         "DogruCevap": "E",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -168,15 +176,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376274,
-        "SoruMetni": "………..; farklı programlama dilleri ile oluşturulan, program kütüphanelerinin yetersiz olduğu durumlarda programcılara esneklik sağlayan çeşitli komut setleridir.<br/> <br/><strong>Cümledeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong><br> <br/> </br>",
-        "A": "Virüsler<br/>",
-        "B": "Dosyalar<br/>",
-        "C": "Makrolar<br/>",
-        "D": "Trojanlar<br/>",
+        "SoruMetni": "………..; farklı programlama dilleri ile oluşturulan, program kütüphanelerinin yetersiz olduğu durumlarda programcılara esneklik sağlayan çeşitli komut setleridir.<br/><strong>Cümledeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "A": "Virüsler",
+        "B": "Dosyalar",
+        "C": "Makrolar",
+        "D": "Trojanlar",
         "E": "Ofis ürünleri",
         "DogruCevap": "C",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376652,
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376654,
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376655,
@@ -244,11 +256,12 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376656,
-        "SoruMetni": "<strong>Kullanıcının kişisel bilgilerine erişmek, banka bilgilerini elde etmek veya buna benzer zarar verebilecek dosyalarına ulaşmak amacıyla kullanılan kötü amaçlı yazılımlara ne ad verilir?</strong><br/>",
+        "SoruMetni": "<strong>Kullanıcının kişisel bilgilerine erişmek, banka bilgilerini elde etmek veya buna benzer zarar verebilecek dosyalarına ulaşmak amacıyla kullanılan kötü amaçlı yazılımlara ne ad verilir?</strong>",
         "A": "Trojan",
         "B": "Solucan",
         "C": "Spam",
@@ -263,7 +276,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376660,
@@ -282,7 +296,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376661,
@@ -301,6 +316,7 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     }
 ]

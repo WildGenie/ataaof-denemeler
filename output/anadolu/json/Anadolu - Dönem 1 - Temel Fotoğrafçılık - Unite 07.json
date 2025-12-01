@@ -102,11 +102,11 @@
     {
         "SoruID": 3351228,
         "SoruMetni": "Kontrast Etki Veren Filtrelerden hangisi yanlış yazılmıştır?",
-        "A": "Açık Sarı Filtre<br/><br/>",
+        "A": "Açık Sarı Filtre",
         "B": "Mavi Filtre",
-        "C": "Orta Sarı Filtre<br/><br/>",
+        "C": "Orta Sarı Filtre",
         "D": "Kırmızı Filtre",
-        "E": "Turuncu Filtre<br/><br/>",
+        "E": "Turuncu Filtre",
         "DogruCevap": "B",
         "DersAd": "Temel Fotoğrafçılık",
         "Unite": 7,
@@ -160,6 +160,26 @@
         "Aciklama": "Yıldız Filtre; diğer filtrelerin aksine bu filtrenin yapısı saydam değil çiziklerden oluşur. Fotoğrafını çektiğimiz konu içerisinde yer alan ışık kaynaklarının etrafında hale şeklinde çizgiler ve renk oluşmasını sağlayan filtrelerdir. Gece çekimlerinde belirginleşip<br/>ortaya çıkan şehir ışıklarının fotoğraflanmasında etkili sonuçlar verir."
     },
     {
+        "SoruID": 3351231,
+        "SoruMetni": "Pozometre ne için kullanılır?",
+        "A": "Uzun pozlama gerektiren, makro ve ya teleobjektif isteyen özel çekimlerde, hareketli spor müsabakalarında elimizin titremesinden kaynaklanan flu görüntülere sebep olan sonuçları engellemek amacıyla kullanılır.",
+        "B": "Profesyonel fotoğraf makineleri ve çekimleri için tercih edilmektedir.",
+        "C": "Pozometreler, ışığın yeterli olmadığı ortamlarda konumuzu aydınlatmak için veya konunun kontrastlığını azaltmak için harici ya da dahili, ana ve yardımcı ışık kaynağı olarak kullanılan araçlardır.",
+        "D": "Özellikle uzun pozlama gerektiren fotoğraf çekimlerinde kullanılır.",
+        "E": "Doğru enstantane ve diyafram açıklığını bulmanın en kolay yolu pozometre kullanmaktır.",
+        "DogruCevap": "E",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.994486",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Doğru enstantane ve diyafram açıklığını bulmanın en kolay yolu pozometre kullanmaktır."
+    },
+    {
         "SoruID": 3351232,
         "SoruMetni": "İnsan gözüne en yakın görüşü veren objektif hangisidir?",
         "A": "Süper Tele Objektifler",
@@ -201,7 +221,7 @@
     },
     {
         "SoruID": 3351234,
-        "SoruMetni": "Siyah beyaz fotoğraflar çekerken kullanılan filtreler  sahip olduğu kendi rengine ait ışığın objektiften içeri girmesine izin verirken, zıt renkteki ışığı keserek içeri almaktadır. Buna göre sarı ve mavi renklerin geçmesine izin verdiği zıt renkler aşağıdakilerden hangileridir?",
+        "SoruMetni": "Siyah beyaz fotoğraflar çekerken kullanılan filtreler sahip olduğu kendi rengine ait ışığın objektiften içeri girmesine izin verirken, zıt renkteki ışığı keserek içeri almaktadır. Buna göre sarı ve mavi renklerin geçmesine izin verdiği zıt renkler aşağıdakilerden hangileridir?",
         "A": "Magenta ve Yeşil",
         "B": "Magenta ve Cyan",
         "C": "Kırmızı ve Yeşil",
@@ -217,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "FİLTRE - GEÇİRDİĞİ RENK - TUTTUĞU RENK<br/>Sarı              Sarı                     Mavi<br/>Yeşil             Yeşil                  Magenta<br/>Magenta     Magenta                 Yeşil<br/>Kırmızı         Kırmızı                  Cyan<br/>Mavi             Mavi                     Sarı<br/>Cyan            Cyan                   Kırmızı<br/> Doğru cevap D'dir"
+        "Aciklama": "FİLTRE - GEÇİRDİĞİ RENK - TUTTUĞU RENK<br/>Sarı Sarı Mavi<br/>Yeşil Yeşil Magenta<br/>Magenta Magenta Yeşil<br/>Kırmızı Kırmızı Cyan<br/>Mavi Mavi Sarı<br/>Cyan Cyan Kırmızı<br/>Doğru cevap D'dir"
     },
     {
         "SoruID": 3351235,
-        "SoruMetni": "\"5500Kelvinde gün ışığı altında tungsten filmle çekilen fotoğraflarda mavilik hakim olur. Gün ışığı renk ısı değerini tungsten film renk ısı değerine getirir ve fotoğraftaki maviliği gidermek için kullanılır. Filtre rengi turuncudur.\"<br/> Yukarıdaki bilgi hangi renk düzeltme filtresine aittir?",
+        "SoruMetni": "\"5500Kelvinde gün ışığı altında tungsten filmle çekilen fotoğraflarda mavilik hakim olur. Gün ışığı renk ısı değerini tungsten film renk ısı değerine getirir ve fotoğraftaki maviliği gidermek için kullanılır. Filtre rengi turuncudur.\"<br/>Yukarıdaki bilgi hangi renk düzeltme filtresine aittir?",
         "A": "80B Filtresi",
         "B": "85A Filtresi",
         "C": "81B Filtresi",
@@ -261,7 +281,7 @@
     },
     {
         "SoruID": 3351237,
-        "SoruMetni": "Bir fotoğraf sanatçısı günbatımı'nı  sıcak turuncu tonlarda yakalamak istemektedir. Bu durumda ona hangi filtreyi kullanmasını tavsiye edersiniz?",
+        "SoruMetni": "Bir fotoğraf sanatçısı günbatımı'nı sıcak turuncu tonlarda yakalamak istemektedir. Bu durumda ona hangi filtreyi kullanmasını tavsiye edersiniz?",
         "A": "Degrade Filtre",
         "B": "Yıldız Filtre",
         "C": "Sunset Filtre",
@@ -297,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Deniz manzaraları fotoğraflanırken  suyun tabii görünüşü istenmiyorsa orta sarı veya açık yeşil filtre, koyu renk su istenmiyorsa turuncu veya koyu sarı filtre kullanılır. Doğru cevap B'dir."
+        "Aciklama": "Deniz manzaraları fotoğraflanırken suyun tabii görünüşü istenmiyorsa orta sarı veya açık yeşil filtre, koyu renk su istenmiyorsa turuncu veya koyu sarı filtre kullanılır. Doğru cevap B'dir."
     },
     {
         "SoruID": 3351239,
@@ -320,6 +340,46 @@
         "Aciklama": "Adından da anlaşılacağı üzere üç bacaklı bir ayak sistemi olan tripod; uzun pozlama gerektiren, makro ve ya teleobjektif isteyen özel çekimlerde, hareketli spor müsabakalarında elimizin titremesinden kaynaklanan flu görüntülere sebep olan sonuçları engellemek amacıyla makinemizi gövdesiyle beraber üzerine oturttuğunuz bir sistemdir. Doru cevap D'dir."
     },
     {
+        "SoruID": 3351240,
+        "SoruMetni": "Fotoğraf çekiminde kalite için profesyonellerin de tercihi olan hafıza kartı hangisidir?",
+        "A": "Memory Stick Kartlar",
+        "B": "Micro Sd Kartlar",
+        "C": "SD Kartlar",
+        "D": "USB Bellek Kartlar",
+        "E": "Compact Flaş Kartlar",
+        "DogruCevap": "E",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.873271",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Compact Flaş Kartlar: Profesyonel fotoğraf makineleri ve çekimleri için tercih edilmektedir. Boyutları sd, micro sd ve memory stick kartlara göre daha büyük, yüksek kapasiteli ve hızlı kartlardır. Özellikle seri çekimlerde tercih edilmektedir. Doğru cevap E'dir."
+    },
+    {
+        "SoruID": 3351241,
+        "SoruMetni": "Doğru enstantane ve diyafram açıklığını bulmanın en kolay yolu ne kullanmaktır?",
+        "A": "Pozometre",
+        "B": "Deklanşör Kablosu",
+        "C": "Flaş",
+        "D": "Tripod",
+        "E": "Filtre",
+        "DogruCevap": "A",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.875324",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Doğru enstantane ve diyafram açıklığını bulmanın en kolay yolu pozometre kullanmaktır. Pozometreler çekim yaptığımız ortamdaki konuya yansıyan ışığı ölçerek bu ışığın diyafram ve enstantane cinsinden karşılığını veren ve doğru enstantane<br/>diyafram ayarı yapmamızı sağlayan cihazlardır. Doğru cevap A'dır."
+    },
+    {
         "SoruID": 3351242,
         "SoruMetni": "Aşağıdakilerden hangisi sabit odaklı bir objektiftir?",
         "A": "8-18mm",
@@ -338,6 +398,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "C şıkkı dışında kalan örnekler zoom objektiflere örnektir ve odakları verilen aralıklarda değişebilir. Doğru cevap C'dir."
+    },
+    {
+        "SoruID": 3351243,
+        "SoruMetni": "Aşağıdakilerden hangisi odak uzaklığına göre yapılan objektif sınıflandırmalardan değildir?",
+        "A": "Zoom Objektifler",
+        "B": "Balık gözü objektifler",
+        "C": "Normal açılı objektifler",
+        "D": "Dar açılı objektifler",
+        "E": "Süper tele objektifler",
+        "DogruCevap": "A",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.947026",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Bir objektifin zoom objektif veya sabit odaklı objektif olması; objektifin yapısal özelliği ile ilgilidir. Doğru cevap A'dır."
     },
     {
         "SoruID": 3351244,
@@ -400,6 +480,26 @@
         "Aciklama": "<strong>Mavi Filtre: </strong>Genellikle gün ışığı ortamında yapılan çekimlerde genel kontrastlığı yumuşatmak için kullanılır. Stüdyoda yapay ışık eşliğinde yapılan çekimlerde cilt tonlarını pürüzsüz hâle getirip dudak hatlarını ve kırmızılığını belirgin hale getirmektedir."
     },
     {
+        "SoruID": 3351247,
+        "SoruMetni": "\"Yüksek renk ısısında çekilen fotoğrafların kelvin derecesini azaltmak için kullanılır. Bu şartlar altında çekilen fotoğraflarda mavi renk baskın çıkar mavi rengin baskınlığını alır. Filtre rengi amberdir.\" <br/>Yukarıda verilen özellikler aşağıdaki filtrelerden hangisine aittir?",
+        "A": "80B Filtresi",
+        "B": "81B Filtre",
+        "C": "85A Filtre",
+        "D": "85B Filtre",
+        "E": "FL-B Filtre",
+        "DogruCevap": "B",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.880866",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Verilen özellikler; renk düzeltme filtrelerinden 81B filtresine aittir. Doğru cevap B'dir."
+    },
+    {
         "SoruID": 3351248,
         "SoruMetni": "Aşağıdakilerden hangisi kapalı gökyüzünün Kelvin derecesidir?",
         "A": "1000K",
@@ -441,7 +541,7 @@
     },
     {
         "SoruID": 3351250,
-        "SoruMetni": "\"Yarısı saydam yarısı renkli olan ve özellikle manzara fotoğrafçılığında kullanılan güneşli havalarda gökyüzünün beyaz şekilde patlamasını engelleyen ve gökyüzünün rengini istediğimiz tonda değiştiren filtrelerdir.\"<br/> Bahsedilen filtre aşağıdaki efekt filtrelerinden hangisidir?",
+        "SoruMetni": "\"Yarısı saydam yarısı renkli olan ve özellikle manzara fotoğrafçılığında kullanılan güneşli havalarda gökyüzünün beyaz şekilde patlamasını engelleyen ve gökyüzünün rengini istediğimiz tonda değiştiren filtrelerdir.\"<br/>Bahsedilen filtre aşağıdaki efekt filtrelerinden hangisidir?",
         "A": "Degrade filtre",
         "B": "Sunset filtre",
         "C": "Yıldız filtre",
@@ -481,7 +581,7 @@
     },
     {
         "SoruID": 3351252,
-        "SoruMetni": "Aşağıdaki objektif türlerinden hangisi  9mm-35mm aralığında bir odak uzaklığına sahiptir?",
+        "SoruMetni": "Aşağıdaki objektif türlerinden hangisi 9mm-35mm aralığında bir odak uzaklığına sahiptir?",
         "A": "Balık gözü objektifler",
         "B": "Dar açılı objektifler",
         "C": "Geniş açılı objektifler",
@@ -512,7 +612,7 @@
         "Unite": 7,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:47.642362",
+        "OlusturmaTarihi": "2025-12-01T04:16:21.261765",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -581,7 +681,7 @@
     },
     {
         "SoruID": 3351257,
-        "SoruMetni": "Aşağıdaki filtre türlerinden hangisi  kontrastın yo­ğun olduğu ortam ve koşullarda kontrastın etkisini azaltarak görüntüyü yumuşatmak için kullanılmaktadır?",
+        "SoruMetni": "Aşağıdaki filtre türlerinden hangisi kontrastın yo­ğun olduğu ortam ve koşullarda kontrastın etkisini azaltarak görüntüyü yumuşatmak için kullanılmaktadır?",
         "A": "Polarize Filtreler",
         "B": "80B Filtresi",
         "C": "Renk Tamlama Filtreleri",
@@ -617,15 +717,35 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "FL-W Filtre Floresan White<br/> Floresan ışığı altında gün ışığına ayarlı filmlerle yapılan çekimlerde ortaya çıkan yoğun yeşil kahve­rengi tonların etkisini azaltmak için kullanılır."
+        "Aciklama": "FL-W Filtre Floresan White<br/>Floresan ışığı altında gün ışığına ayarlı filmlerle yapılan çekimlerde ortaya çıkan yoğun yeşil kahve­rengi tonların etkisini azaltmak için kullanılır."
+    },
+    {
+        "SoruID": 3351260,
+        "SoruMetni": "<span style=\"font-size: 11.0pt; font-family: 'Times New Roman','serif';\">Aşağıdakilerden hangisi özellikle man­zara fotoğrafçılığında kullanılan güneşli havalarda gökyüzünün beyaz şekilde patlamasını engelleyen ve gökyüzünün rengini istediğimiz tonda değiştiren filtrelerdir?</span>",
+        "A": "Soft Filtreler",
+        "B": "Alan Derinliğini Bölme Filtreleri",
+        "C": "Degrade Filtre",
+        "D": "Sunset Filtre",
+        "E": "Yıldız Filtre",
+        "DogruCevap": "C",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.886252",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Degrade Filtre<br/>Yarısı saydam yarısı renkli olan ve özellikle man­zara fotoğrafçılığında kullanılan güneşli havalarda gökyüzünün beyaz şekilde patlamasını engelleyen ve gökyüzünün rengini istediğimiz tonda değiştiren filtrelerdir. En kullanışlı olanı gri renkli olan olsa da kırmızı, sarı, turuncu gibi renkleri de bulunur."
     },
     {
         "SoruID": 3351261,
         "SoruMetni": "Fotoğraf makinası kaç ana parçadan oluşmaktadır?",
-        "A": "2 (Gövde, Flash)<br/><br/>",
-        "B": "2 (Gövde, Film)<br/><br/>",
-        "C": "2 (Gövde, Objektif)<br/><br/>",
-        "D": "3 (Gövde, Objektif, Flash)<br/><br/>",
+        "A": "2 (Gövde, Flash)",
+        "B": "2 (Gövde, Film)",
+        "C": "2 (Gövde, Objektif)",
+        "D": "3 (Gövde, Objektif, Flash)",
         "E": "3 (Gövde, Flash, Film)",
         "DogruCevap": "C",
         "DersAd": "Temel Fotoğrafçılık",
@@ -637,15 +757,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotoğraf makinası iki ana parçadan oluşmaktadır. Body (gövde) ve objektiftir. <br/>Objektif film üzerine kaydedilen görüntünün kaydedilmesini ve net olmasını sağlayan mercekler topluluğudur. Bu mercek ya da mercekler topluluğu fotoğrafını çekti­ğimiz konunun ışığa duyarlı yüzey üzerine (film ya da sensör) düşmesini sağlar. Fotoğraf makinesinin gövdesine takılıp çıkarılabilen bir parça olan objek­tifin içinde mercekler sistemi ve diyafram, üzerinde ise netleme halkası bulunur. İnsan gözünün çalış­ma prensibine göre tasarlanıp dizayn edilmiş olan objektiflerin odak uzunlukları görüntünün film ya da ışığa duyarlı yüzey üzerinde net oluşmasını sağlayan mekanizmadır. Doğru cevap \"C\" şıkkıdır."
+        "Aciklama": "Fotoğraf makinası iki ana parçadan oluşmaktadır. Body (gövde) ve objektiftir. <br/>Objektif film üzerine kaydedilen görüntünün kaydedilmesini ve net olmasını sağlayan mercekler topluluğudur. Bu mercek ya da mercekler topluluğu fotoğrafını çekti­ğimiz konunun ışığa duyarlı yüzey üzerine (film ya da sensör) düşmesini sağlar. Fotoğraf makinesinin gövdesine takılıp çıkarılabilen bir parça olan objek­tifin içinde mercekler sistemi ve diyafram, üzerinde ise netleme halkası bulunur. İnsan gözünün çalış­ma prensibine göre tasarlanıp dizayn edilmiş olan objektiflerin odak uzunlukları görüntünün film ya da ışığa duyarlı yüzey üzerinde net oluşmasını sağlayan mekanizmadır. Doğru cevap \"C\" şıkkıdır."
     },
     {
         "SoruID": 3351262,
         "SoruMetni": "Objektife gelen ışığın süzülerek film ya da ışığa duyarlı yüzey üzerine düşmesini sağlayarak fotoğrafımızda farklı efekt ve etkiler almamızı sağlayan parçalara ne ad verilir?",
-        "A": "Flash<br/><br/>",
-        "B": "Filtre<br/><br/>",
-        "C": "Mercek<br/><br/>",
-        "D": "Diyafram<br/><br/>",
+        "A": "Flash",
+        "B": "Filtre",
+        "C": "Mercek",
+        "D": "Diyafram",
         "E": "Perde",
         "DogruCevap": "B",
         "DersAd": "Temel Fotoğrafçılık",
@@ -657,15 +777,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Objektife gelen ışığın süzülerek film ya da ışığa duyarlı yüzey üzerine düşmesini sağlayarak fotoğrafımızda farklı efekt ve etkiler almamızı sağlayan parçalara filtrelerdir. filtreler ışığı süzmesinin yanı sıra ışığın özelliklerini de değiştirebilir; ışığın rengini, şiddetini, kontrastını arttırıp azaltabilir. Renk tonu farklılıklarını azaltmak veya bir rengi ön plana çıkartmak, fotoğraftaki ayrıntıları koruyarak bir izlenim yaratmak yine filtreler aracılığıyla elde et­tiğimiz etkilerdir. Fotoğrafçının fotoğrafa vermek istediği etkiye göre ve istekleri doğrultusunda yeni bir görüntü oluşmasını sağlayan filtreler genelde makinenin objektif kısmına takılabildiği gibi stüd­yoda aydınlatma kaynaklarında da kullanılabilir. Filtrelerin çeşitliliği ve dolayısıyla görüntü üzerin­de sağladıkları istenen etkileri fotoğrafçılara önemli kolaylık ve kazanımlar getirmiştir. Doğru cevap \"B\" şıkkıdır."
+        "Aciklama": "Objektife gelen ışığın süzülerek film ya da ışığa duyarlı yüzey üzerine düşmesini sağlayarak fotoğrafımızda farklı efekt ve etkiler almamızı sağlayan parçalara filtrelerdir. filtreler ışığı süzmesinin yanı sıra ışığın özelliklerini de değiştirebilir; ışığın rengini, şiddetini, kontrastını arttırıp azaltabilir. Renk tonu farklılıklarını azaltmak veya bir rengi ön plana çıkartmak, fotoğraftaki ayrıntıları koruyarak bir izlenim yaratmak yine filtreler aracılığıyla elde et­tiğimiz etkilerdir. Fotoğrafçının fotoğrafa vermek istediği etkiye göre ve istekleri doğrultusunda yeni bir görüntü oluşmasını sağlayan filtreler genelde makinenin objektif kısmına takılabildiği gibi stüd­yoda aydınlatma kaynaklarında da kullanılabilir. Filtrelerin çeşitliliği ve dolayısıyla görüntü üzerin­de sağladıkları istenen etkileri fotoğrafçılara önemli kolaylık ve kazanımlar getirmiştir. Doğru cevap \"B\" şıkkıdır."
     },
     {
         "SoruID": 3351263,
         "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Haraket odaklı objektifler</li> <li>Sabit odaklı objektifler</li> <li>Renkli objektifler</li> <li>Zoom objektifler</li> <li>Dijital objektifler</li> </ol> Yukarıdakilerden hangileri Objektif çeşitlerindendir?",
-        "A": "I ve III<br/><br/>",
-        "B": "II ve IV<br/><br/>",
-        "C": "IV ve V<br/><br/>",
-        "D": "I, II ve IV<br/><br/>",
+        "A": "I ve III",
+        "B": "II ve IV",
+        "C": "IV ve V",
+        "D": "I, II ve IV",
         "E": "II, IV ve V",
         "DogruCevap": "B",
         "DersAd": "Temel Fotoğrafçılık",
@@ -677,15 +797,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Objektifler öncelikle yapısal özellikleine göre sabit odaklı ve değişken (zoom) odaklı objektifler olmak üzere ikiye ayrılır.<br/> Sabit Odaklı Objektifler: Odak uzaklıkları değiştirilemeyen objektiflerdir. 24mm, 35 mm, 50mm, 85mm, 105mm objektifler sabit odaklı objektiflere örnektir. Bu objektiflerin en önemli özelliği keskin ve doygun görüntüler elde etmemizi daha mümkün kılmasıdır. İç yapılarındaki mercek sayısı az olduğu için objektiften giren ışık daha az kırılmaya uğrar böylelikle detaylı ve kaliteli görün­tüler elde edilebilir. <br/>Zoom Objektifler: Odak uzaklıkları değiştiri­lebilen geniş bir aralıkta hareket ederek farklı açıları görüntülemeyi kolaylaştıran lenslerdir. Çektiğimiz görüntüye yaklaşmadan veya uzaklaşmadan fotoğ­raf çekmemize olanak tanır. 8-16mm, 12-24mm, 18-55mm, 35-70mm, 18-200mm objektifler odak uzaklığı aralıkları değiştirilebilen lenslerdir. Fo­toğrafçıya rahatlık ve kullanım kolaylığı sağlarken içindeki merceklerin çoklu yapısından dolayı gö­rüntü kalitesinde kayıplara sebep olabilir görüntü keskinliği ve doygunluğu sabit odaklı objektifler­deki gibi çok kaliteli sonuç vermeyebilir. Doğru cevap \"B\" şıkkıdır."
+        "Aciklama": "Objektifler öncelikle yapısal özellikleine göre sabit odaklı ve değişken (zoom) odaklı objektifler olmak üzere ikiye ayrılır.<br/>Sabit Odaklı Objektifler: Odak uzaklıkları değiştirilemeyen objektiflerdir. 24mm, 35 mm, 50mm, 85mm, 105mm objektifler sabit odaklı objektiflere örnektir. Bu objektiflerin en önemli özelliği keskin ve doygun görüntüler elde etmemizi daha mümkün kılmasıdır. İç yapılarındaki mercek sayısı az olduğu için objektiften giren ışık daha az kırılmaya uğrar böylelikle detaylı ve kaliteli görün­tüler elde edilebilir. <br/>Zoom Objektifler: Odak uzaklıkları değiştiri­lebilen geniş bir aralıkta hareket ederek farklı açıları görüntülemeyi kolaylaştıran lenslerdir. Çektiğimiz görüntüye yaklaşmadan veya uzaklaşmadan fotoğ­raf çekmemize olanak tanır. 8-16mm, 12-24mm, 18-55mm, 35-70mm, 18-200mm objektifler odak uzaklığı aralıkları değiştirilebilen lenslerdir. Fo­toğrafçıya rahatlık ve kullanım kolaylığı sağlarken içindeki merceklerin çoklu yapısından dolayı gö­rüntü kalitesinde kayıplara sebep olabilir görüntü keskinliği ve doygunluğu sabit odaklı objektifler­deki gibi çok kaliteli sonuç vermeyebilir. Doğru cevap \"B\" şıkkıdır."
     },
     {
         "SoruID": 3351264,
         "SoruMetni": "Aşağıdakilerden hangisi objektiflerin sınıflandırılmasındaki sıralamada yer almaz?",
-        "A": "Balık Gözü Objektifler <br/><br/>",
-        "B": "Geniş Açılı Objectify <br/><br/>",
-        "C": "Normal Açılı Objektifler<br/><br/>",
-        "D": "Dar Açılı Objektifler <br/><br/>",
+        "A": "Balık Gözü Objektifler",
+        "B": "Geniş Açılı Objectify",
+        "C": "Normal Açılı Objektifler",
+        "D": "Dar Açılı Objektifler",
         "E": "Kedi Gözü Objektifler",
         "DogruCevap": "E",
         "DersAd": "Temel Fotoğrafçılık",
@@ -697,15 +817,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Objektifler genel olarak odak uzaklıklarına göre balık gözü, geniş açı, normal (standart odaklı), dar açılı (tele) ve süper tele objektifler olarak sınıflan­dırılır.<br/> 1. Balık Gözü Objektifler: Tüm objektif türleri içerisinde görüş açısı en geniş olan objektif çeşididir. Genellikle 6-16 mm odak uzaklığına ve 1800 görüş açısına sahiptir. Özellikle kreatif görüntüler elde et­mek için tercih edilir fakat kullanım alanları olduk­ça sınırlıdır. Görüntü çıktısında kaymalar ve dairesel görüntüye yakın yarım küre şeklinde efektler verir. <br/>2. Geniş Açılı Objektifer: 9-35 mm aralığın­daki odak uzaklığına sahip bu objektifler insan gözünün gördüğünden çok daha geniş bir açıyı görebilirler. 40 mm den daha kısa odak uzaklığı­na sahiptirler. 15mm, 23mm, 28mm, 35mm odak uzaklığına sahip objektifler geniş açılı objektif ör­nekleridir. Görüntü üzerinde alan derinliğini art­tıran bir etki bırakır. Çok dar alanlarda daha ge­niş bir görüntü elde edebilmek amacıyla kullanılır özellikle manzara ve mimari fotoğraf çekimlerinde tercih sebebidir. <br/>3. Normal Açılı Objektifler: 45-46 derecelik bakış açısıyla gören insan gözüne en yakın görüşü veren objektiflerdir. Bu nedenle normal, standart olarak adlandırılmışlardır. 40-50 mm odak aralı­ğında uzaklığa sahiptirler. Portre, manzara, doğa, sokak fotoğrafçılığı gibi çok geniş bir yelpazede kullanılabilirler. <br/>4. Dar Açılı Objektifler: Tele objektif olarak da adlandırılırlar. Çekim yaptığımız konunun ya­nına yaklaşamayacak kadar uzak olduğumuzda ya da yaklaşmamızın sakıncalı olduğu durumlarda ko­nuyu yakınlaştırmak için kullanılırlar. Nesneleri ol­duğundan daha yakına getirerek büyük gösterir ve alanları birbirine yaklaştırırlar. Net alan derinlikleri kısa olan bu objektifler genel amaçlı çekimler için kullanılabildiği gibi özellikle portre çekimlerinde başarılı sonuçlar elde etmemizi sağlar. Odak uzun­lukları 70mm ile 135mm arasındadır. <br/>5. Süper Tele Objektifler: Dar açılı tele objek­tifler gibi çekim esnasında bize uzak olan konu ve nesneleri yakınlaştırmak için kullanılırlar. Özellikle vahşi doğa, haber ve spor karşılaşmalarını fotoğ­raflamak için kullanılır. Sınırlı bir alan derinliğine sahiptir ve konuyu içinde bulunduğu ortamdan büyüterek ayırır. 200mm ve üstü odak uzaklığına sahip objektifler süper tele objektif grubuna giren objektiflerdir. Bu tür objektiflerin netlik sistemleri çok hassas olduğu ve titremeyi engellemek için tri­pod ile kullanmakta fayda vardır. Doğru cevap \"E\" şıkkıdır."
+        "Aciklama": "Objektifler genel olarak odak uzaklıklarına göre balık gözü, geniş açı, normal (standart odaklı), dar açılı (tele) ve süper tele objektifler olarak sınıflan­dırılır.<br/>1. Balık Gözü Objektifler: Tüm objektif türleri içerisinde görüş açısı en geniş olan objektif çeşididir. Genellikle 6-16 mm odak uzaklığına ve 1800 görüş açısına sahiptir. Özellikle kreatif görüntüler elde et­mek için tercih edilir fakat kullanım alanları olduk­ça sınırlıdır. Görüntü çıktısında kaymalar ve dairesel görüntüye yakın yarım küre şeklinde efektler verir. <br/>2. Geniş Açılı Objektifer: 9-35 mm aralığın­daki odak uzaklığına sahip bu objektifler insan gözünün gördüğünden çok daha geniş bir açıyı görebilirler. 40 mm den daha kısa odak uzaklığı­na sahiptirler. 15mm, 23mm, 28mm, 35mm odak uzaklığına sahip objektifler geniş açılı objektif ör­nekleridir. Görüntü üzerinde alan derinliğini art­tıran bir etki bırakır. Çok dar alanlarda daha ge­niş bir görüntü elde edebilmek amacıyla kullanılır özellikle manzara ve mimari fotoğraf çekimlerinde tercih sebebidir. <br/>3. Normal Açılı Objektifler: 45-46 derecelik bakış açısıyla gören insan gözüne en yakın görüşü veren objektiflerdir. Bu nedenle normal, standart olarak adlandırılmışlardır. 40-50 mm odak aralı­ğında uzaklığa sahiptirler. Portre, manzara, doğa, sokak fotoğrafçılığı gibi çok geniş bir yelpazede kullanılabilirler. <br/>4. Dar Açılı Objektifler: Tele objektif olarak da adlandırılırlar. Çekim yaptığımız konunun ya­nına yaklaşamayacak kadar uzak olduğumuzda ya da yaklaşmamızın sakıncalı olduğu durumlarda ko­nuyu yakınlaştırmak için kullanılırlar. Nesneleri ol­duğundan daha yakına getirerek büyük gösterir ve alanları birbirine yaklaştırırlar. Net alan derinlikleri kısa olan bu objektifler genel amaçlı çekimler için kullanılabildiği gibi özellikle portre çekimlerinde başarılı sonuçlar elde etmemizi sağlar. Odak uzun­lukları 70mm ile 135mm arasındadır. <br/>5. Süper Tele Objektifler: Dar açılı tele objek­tifler gibi çekim esnasında bize uzak olan konu ve nesneleri yakınlaştırmak için kullanılırlar. Özellikle vahşi doğa, haber ve spor karşılaşmalarını fotoğ­raflamak için kullanılır. Sınırlı bir alan derinliğine sahiptir ve konuyu içinde bulunduğu ortamdan büyüterek ayırır. 200mm ve üstü odak uzaklığına sahip objektifler süper tele objektif grubuna giren objektiflerdir. Bu tür objektiflerin netlik sistemleri çok hassas olduğu ve titremeyi engellemek için tri­pod ile kullanmakta fayda vardır. Doğru cevap \"E\" şıkkıdır."
     },
     {
         "SoruID": 3351265,
         "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Makro Objektifler</li> <li>Mikro Objektifler</li> <li>Işık kontrollü shift Objektifler</li> <li>Diyafram kontrollü Objektifler</li> <li>Perspektif kontrollü shift Objektifler</li> </ol> Yukarıdakilerden hangileri özel amaçlı kullanılan objektifler arasında yer alır?",
-        "A": "I ve II<br/><br/>",
-        "B": "I ve IV<br/><br/>",
-        "C": "II ve V<br/><br/>",
-        "D": "I ve V<br/><br/>",
+        "A": "I ve II",
+        "B": "I ve IV",
+        "C": "II ve V",
+        "D": "I ve V",
         "E": "I, II ve V",
         "DogruCevap": "D",
         "DersAd": "Temel Fotoğrafçılık",
@@ -717,15 +837,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Özel amaçlı kullanılan objektifler;<br/> 1. Makro Objektifler: Çekilecek nesne veya konuya 1-2 cm mesafeden netlik yapabilen ob­jektifler makro olarak adlandırılır. Makro objek­tifler genellikle 1:1 oranında ya da 1:5 gibi geniş bir aralıkta büyük ve net görüntülemeyi sağlayan objektiflerdir. Fotoğraflayacağımız konunun aynı büyüklükte film ya da sensör üzerine düşmesini sağlar. Fotoğrafını çekeceğimiz konuya çok yaklaş­mamız alan derinliğini bozar. Bu durumu azaltmak için makro objektifler kullanılır. Bu objektiflerin ışık geçirgenlikleri azdır bu nedenle çekim esnasın­da titremeyi önlemek ve daha iyi sonuçlar almak için tripod kullanmamızda fayda vardır. Detayları aslına en yakın şekilde veren bu objektif özellikle doğa fotoğrafçılığında tercih edilir.<br/> 2. Perspektif Kontrolllü Shift Obkektifler: Özellikle mimari fotoğraf çekimlerinde uzun bina­larda meydana gelen perspektif hatalarını düzelte­bilmek ve alan derinliği kontrolünü sağlayabilmek için kullanılan objektiflerdir. Çekilen konu veya nesnelerin oran ve perspektiflerinin deformasyona uğramadan çekilmesini sağlar genellikle profesyo­nel fotoğrafçılar tarafından özel çekimler için kul­lanılmaktadır. Doğru cevap \"D\" şıkkıdır."
+        "Aciklama": "Özel amaçlı kullanılan objektifler;<br/>1. Makro Objektifler: Çekilecek nesne veya konuya 1-2 cm mesafeden netlik yapabilen ob­jektifler makro olarak adlandırılır. Makro objek­tifler genellikle 1:1 oranında ya da 1:5 gibi geniş bir aralıkta büyük ve net görüntülemeyi sağlayan objektiflerdir. Fotoğraflayacağımız konunun aynı büyüklükte film ya da sensör üzerine düşmesini sağlar. Fotoğrafını çekeceğimiz konuya çok yaklaş­mamız alan derinliğini bozar. Bu durumu azaltmak için makro objektifler kullanılır. Bu objektiflerin ışık geçirgenlikleri azdır bu nedenle çekim esnasın­da titremeyi önlemek ve daha iyi sonuçlar almak için tripod kullanmamızda fayda vardır. Detayları aslına en yakın şekilde veren bu objektif özellikle doğa fotoğrafçılığında tercih edilir.<br/>2. Perspektif Kontrolllü Shift Obkektifler: Özellikle mimari fotoğraf çekimlerinde uzun bina­larda meydana gelen perspektif hatalarını düzelte­bilmek ve alan derinliği kontrolünü sağlayabilmek için kullanılan objektiflerdir. Çekilen konu veya nesnelerin oran ve perspektiflerinin deformasyona uğramadan çekilmesini sağlar genellikle profesyo­nel fotoğrafçılar tarafından özel çekimler için kul­lanılmaktadır. Doğru cevap \"D\" şıkkıdır."
     },
     {
         "SoruID": 3351267,
         "SoruMetni": "Aşağıdakilerden hangisi kontrast azaltıcı filtrelerden birisidir?",
-        "A": "Mor Filtre<br/><br/>",
-        "B": "Beyaz Filtre<br/><br/>",
-        "C": "Mavi Filtre<br/><br/>",
-        "D": "Sarı Filtre<br/><br/>",
+        "A": "Mor Filtre",
+        "B": "Beyaz Filtre",
+        "C": "Mavi Filtre",
+        "D": "Sarı Filtre",
         "E": "Turuncu Filtre",
         "DogruCevap": "C",
         "DersAd": "Temel Fotoğrafçılık",
@@ -742,10 +862,10 @@
     {
         "SoruID": 3351268,
         "SoruMetni": "Aşağıdakilerden hangisi Kontrast etki veren filtreler arasında yer almaz?",
-        "A": "Açık Sarı Filtre <br/><br/>",
-        "B": "Orta Sarı Filtre<br/><br/>",
-        "C": "Turuncu Filtre<br/><br/>",
-        "D": "Kırmızı Filtre <br/><br/>",
+        "A": "Açık Sarı Filtre",
+        "B": "Orta Sarı Filtre",
+        "C": "Turuncu Filtre",
+        "D": "Kırmızı Filtre",
         "E": "Yeşil Filtre",
         "DogruCevap": "E",
         "DersAd": "Temel Fotoğrafçılık",
@@ -762,10 +882,10 @@
     {
         "SoruID": 3351269,
         "SoruMetni": "Renk düzeltme filtrelerinden olan, Yüksek renk ısısında çekilen fotoğrafların kelvin derecesini azaltmak için kullanılan filtre aşağıdakilerden hangisidir?",
-        "A": "85B Filtre<br/><br/>",
-        "B": "FL-W Filtre<br/><br/>",
-        "C": "81B Filtre<br/><br/>",
-        "D": "FL-B Filtre<br/><br/>",
+        "A": "85B Filtre",
+        "B": "FL-W Filtre",
+        "C": "81B Filtre",
+        "D": "FL-B Filtre",
         "E": "80-B Filtre",
         "DogruCevap": "C",
         "DersAd": "Temel Fotoğrafçılık",
@@ -782,10 +902,10 @@
     {
         "SoruID": 3351270,
         "SoruMetni": "Aşağıdakilerden hangisi Efekt Filtreleri arasında yer almaz?",
-        "A": "Soft Filtre<br/><br/>",
-        "B": "Degrade Filtre<br/><br/>",
-        "C": "Sunset Filtre<br/><br/>",
-        "D": "Yıldız Filtre<br/><br/>",
+        "A": "Soft Filtre",
+        "B": "Degrade Filtre",
+        "C": "Sunset Filtre",
+        "D": "Yıldız Filtre",
         "E": "Çoklu Filtre",
         "DogruCevap": "A",
         "DersAd": "Temel Fotoğrafçılık",
@@ -797,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong> Efekt Filtreleri;</strong> <br/>Çok fazla sayı ve çeşitte bulunan efekt filtreleri fotoğrafımızda renkten biçime kadar çeşitli efektler almamızı sağlar. Fotoğrafçıya çok geniş bir seçim imkânı veren bu filtrelerle yapacağımız her çekim fotoğraf karemizi orijinalinden bir parça uzaklaştır­sa da kreatif ve estetik sonuçlar için en çok tercih edilenlerdir. Her tür fotoğraf çekiminde kullanabi­leceğimiz bu filtreler özellikle stüdyo, portre, doğa ve manzara fotoğrafçılığında tercih edilmektedir. <br/><strong>Degrade Filtre</strong> <br/>Yarısı saydam yarısı renkli olan ve özellikle man­zara fotoğrafçılığında kullanılan güneşli havalarda gökyüzünün beyaz şekilde patlamasını engelleyen ve gökyüzünün rengini istediğimiz tonda değiştiren filtrelerdir. En kullanışlı olanı gri renkli olan olsa da kırmızı, sarı, turuncu gibi renkleri de bulunur. <br/><strong>Sunset Filtre</strong> <br/>Günbatımı fotoğraf çekimlerinde kullanılır. Koyu turuncu renkte olduğu için gün batımı fo­toğraflarına sıcak turuncu bir renk hakimiyeti verir. <br/><strong>Yıldız Filtre</strong> <br/>Diğer filtrelerin aksine bu filtrenin yapısı say­dam değil çiziklerden oluşur. Fotoğrafını çekti­ğimiz konu içerisinde yer alan ışık kaynaklarının etrafında hale şeklinde çizgiler ve renk oluşmasını sağlayan filtrelerdir. Gece çekimlerinde belirginle­şip ortaya çıkan şehir ışıklarının fotoğraflanmasın­da etkili sonuçlar verir. Sis Filtresi Fotoğrafa puslu sisli bir hava vererek görüntünün atmosferini değiştirerek dramatik ya­pıyı kuvvetlendirir. <br/><strong>Çoklu Filtre</strong> <br/>Aynı görüntü ya da konunun fotoğraf düzle­minde birden fazla gösterilmesi için kullanılır.<br/><strong>Hız Filtresi</strong> <br/>Stabil bir cismin ya da konunun hareket eder­miş izlenimi vermesini sağlayan filtredir. Doğru cevap \"A\" şıkkıdır."
+        "Aciklama": "<strong> Efekt Filtreleri;</strong> <br/>Çok fazla sayı ve çeşitte bulunan efekt filtreleri fotoğrafımızda renkten biçime kadar çeşitli efektler almamızı sağlar. Fotoğrafçıya çok geniş bir seçim imkânı veren bu filtrelerle yapacağımız her çekim fotoğraf karemizi orijinalinden bir parça uzaklaştır­sa da kreatif ve estetik sonuçlar için en çok tercih edilenlerdir. Her tür fotoğraf çekiminde kullanabi­leceğimiz bu filtreler özellikle stüdyo, portre, doğa ve manzara fotoğrafçılığında tercih edilmektedir. <br/><strong>Degrade Filtre</strong> <br/>Yarısı saydam yarısı renkli olan ve özellikle man­zara fotoğrafçılığında kullanılan güneşli havalarda gökyüzünün beyaz şekilde patlamasını engelleyen ve gökyüzünün rengini istediğimiz tonda değiştiren filtrelerdir. En kullanışlı olanı gri renkli olan olsa da kırmızı, sarı, turuncu gibi renkleri de bulunur. <br/><strong>Sunset Filtre</strong> <br/>Günbatımı fotoğraf çekimlerinde kullanılır. Koyu turuncu renkte olduğu için gün batımı fo­toğraflarına sıcak turuncu bir renk hakimiyeti verir. <br/><strong>Yıldız Filtre</strong> <br/>Diğer filtrelerin aksine bu filtrenin yapısı say­dam değil çiziklerden oluşur. Fotoğrafını çekti­ğimiz konu içerisinde yer alan ışık kaynaklarının etrafında hale şeklinde çizgiler ve renk oluşmasını sağlayan filtrelerdir. Gece çekimlerinde belirginle­şip ortaya çıkan şehir ışıklarının fotoğraflanmasın­da etkili sonuçlar verir. Sis Filtresi Fotoğrafa puslu sisli bir hava vererek görüntünün atmosferini değiştirerek dramatik ya­pıyı kuvvetlendirir. <br/><strong>Çoklu Filtre</strong> <br/>Aynı görüntü ya da konunun fotoğraf düzle­minde birden fazla gösterilmesi için kullanılır.<br/><strong>Hız Filtresi</strong> <br/>Stabil bir cismin ya da konunun hareket eder­miş izlenimi vermesini sağlayan filtredir. Doğru cevap \"A\" şıkkıdır."
     },
     {
         "SoruID": 3351271,
@@ -820,6 +940,26 @@
         "Aciklama": "Objektifler genel olarak odak uzaklıklarına göre balık gözü, geniş açı, normal (standart odaklı), dar açılı (tele) ve süper tele objektifler olarak sınıflandırılır. Tüm objektif türleri içerisinde görüş açısı en geniş olan objektif balık gözüdür. Genellikle 6-16 mm odak uzaklığına ve 1800 görüş açısına sahiptir. Özellikle kreatif görüntüler elde etmek için tercih edilir fakat kullanım alanları oldukça sınırlıdır."
     },
     {
+        "SoruID": 3351272,
+        "SoruMetni": "Belgesel için aslanların ceylanları kovalamasını çekmek isteyen bir fotoğrafçı aşağıdaki objektiflerden hangisini kullanmalıdır?",
+        "A": "Süper tele objektif",
+        "B": "Dar açılı objektif",
+        "C": "Balık gözü objektif",
+        "D": "Normal açılı objektif",
+        "E": "Geniş açılı objektif",
+        "DogruCevap": "A",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.951678",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Süre tele objektif, dar açılı tele objektifler gibi çekim esnasında bize uzak olan konu ve nesneleri yakınlaştırmak için kullanılırlar. Özellikle vahşi doğa, haber ve spor karşılaşmalarını fotoğraflamak için kullanılır. 200mm ve üstü odak uzaklığına sahip objektifler süper tele objektif grubuna giren objektiflerdir. Bu tür objektiflerin netlik sistemleri çok hassas olduğu ve titremeyi engellemek için tripod ile kullanmakta fayda vardır."
+    },
+    {
         "SoruID": 3351273,
         "SoruMetni": "Aşağıdaki diyafram değerlerinden hangisi objektifin en fazla ışık aldığına işaret eder?",
         "A": "f5.6",
@@ -840,6 +980,26 @@
         "Aciklama": "Objektiflerin üzerinde yer alan f5.6, f4.5, f3.5, f2.8, f1.4 ile f olarak ifade edilen rakamsal değerler o objektifin maksimum diyafram açıklığında ışığı geçirme miktarını ifade eder. F değeri 4.5 olan bir objektif f5.6 dan, f değeri 2.8 olan bir objektif f değeri f3.5 olan bir objektiften daha fazla ışık geçirgenliğine sahiptir. F değeri küçüldükçe objektifin içeriye ışık alma miktarı artar f değeri ile objektife giren ışık miktarı arasında ters orantı vardır."
     },
     {
+        "SoruID": 3351274,
+        "SoruMetni": "Aşağıdakilerden hangisi filtrelerin işlevlerinden biri değildir?",
+        "A": "Filmin yarattığı renk sapmalarını düzeltir.",
+        "B": "Renkler arasında kontrastlık oluşturur.",
+        "C": "Polarize ışığın istenmeyen etkilerini giderir.",
+        "D": "Doğada olmayan gerçeküstü görüntü oluşturur.",
+        "E": "Film üzerine kaydedilen görüntüyü kaydeder.",
+        "DogruCevap": "E",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.928294",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Filtreler; filmin yarattığı renk sapmalarını düzelterek, renkleri dış dünyadaki doğallığı içerisinde fotoğrafa aktarırlar, renkler arasında kontrastlık oluşturur, ışığın renk sıcaklık değerlerini değiştirerek istediğimiz tondaki renkleri elde etmemizi sağlar, renkleri fotoğrafta vurgulamak istediğimiz etkiye göre açık veya koyu değerlerine getirir ve bu etkinin oluşabilmesi için rengin doğal dengesini bozar (bu durum en çok reklam fotoğrafçıları ve stüdyo fotoğrafçılığında sıklıkla başvurulan bir durumdur), polarize olan ışığın istenmeyen etkilerini gidererek daha net görüntüler elde edilmesini sağlarlar, doğal yoğunluk (ND) filtreleri kullanarak çok ışıklı ortamlardaki ışığın şiddetini düşürmek ve böylece daha ayrıntılı ve detaylı görüntüler oluşturur, efekt veren filtrelerin (yıldız, çiftli, hız vb) kullanımıyla doğada olmayan gerçek üstü görüntülerin ortaya çıkarır. Film üzerine kaydedilen görüntüyü kaydetmek ise objektifin işlevidir."
+    },
+    {
         "SoruID": 3351275,
         "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Yeşil</li> <li>Sarı</li> <li>Mavi</li> <li>Turuncu</li> <li>Kırmızı</li> </ol> Yukarıdakilerden hangileri kontrast azaltıcı filtreler olarak geçmektedir?",
         "A": "II-III",
@@ -857,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Kontrast Etki Veren Filtreler: </strong>Fotoğraftaki açık renkteki alanları daha açık, koyu renk alanları ise daha koyu vurgulayarak kontrast etkisini yükseltir. Sarı, turuncu ve kırmızı renkli filtreler bu gruba girmektedir.<br/> <strong>Kontrast Azaltıcı Filtreler: </strong>Kontrastın yoğun olduğu ortam ve koşullarda kontrastın etkisini azaltarak görüntüyü yumuşatmak için kullanılır. Mavi ve yeşil filtreler kontrast azaltıcı filtrelerdir."
+        "Aciklama": "<strong>Kontrast Etki Veren Filtreler: </strong>Fotoğraftaki açık renkteki alanları daha açık, koyu renk alanları ise daha koyu vurgulayarak kontrast etkisini yükseltir. Sarı, turuncu ve kırmızı renkli filtreler bu gruba girmektedir.<br/><strong>Kontrast Azaltıcı Filtreler: </strong>Kontrastın yoğun olduğu ortam ve koşullarda kontrastın etkisini azaltarak görüntüyü yumuşatmak için kullanılır. Mavi ve yeşil filtreler kontrast azaltıcı filtrelerdir."
     },
     {
         "SoruID": 3351276,
@@ -877,7 +1037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mum ışığı, gün ışığı, flash ya da stüdyo ışıkları olsun her ışığın bir renk ısı değeri yani kelvin derecesi vardır. Çıplak gözle bu ışık kaynaklarına baktığımızda gözümüz bu farklılıkları ayırt edemese de fotoğraf makineleri için durum farklıdır. Fotoğraf makineleri ışık kaynaklarının renk ısılarına karşı çok hassas oldukları için ya White Balance (beyaz ayarı) ayarlarının yapılmış olması ya da uygun filtrenin kullanılması gerekir. Işığın renk ısı değerlerini bilerek bu doğrultuda uygun filtre seçimi ve beyaz ayarlarını yapmak fotoğrafımızda vermek istediğimiz mesajı destekler.<br/><br/>Kelvin cinsinden ölçtüğümüz ışığın renk sıcaklık değeri 0-20000 kelvin arasında değişmektedir. Düşükten yüksele doğru ışık kaynaklarının kelvin dereceleri şu şekilde sırlanır:<br/><br/><ul><br/><li>Mum Gaz Lambası</li><br/><li>Gün Doğumu-Tungsten Lamba</li><br/><li>Normal ev ampulü</li><br/><li>Stüdyo Işığı-Projektörler</li><br/><li>Renksiz Flash Ampülleri</li><br/><li>Normal Gün Işığı- Elektronik Flashlar</li><br/><li>Tam Beyaz</li><br/><li>Bulutsuz havada öğle güneşi</li><br/><li>Hafif kapalı gökyüzü</li><br/><li>Kapalı Gökyüzü</li><br/><li>Bulutsuz güneşli havada, açık alanda gölge</li><br/><li>Çok kapalı gökyüzü</li><br/><li>Güneşsiz koyu mavi gökyüzü</li><br/><li>Dağlarda çok açık havada açık gölgeli alan</li><br/><li>Güneş doğup batmadan önceki 1-2dakika</li><br/></ul>"
+        "Aciklama": "Mum ışığı, gün ışığı, flash ya da stüdyo ışıkları olsun her ışığın bir renk ısı değeri yani kelvin derecesi vardır. Çıplak gözle bu ışık kaynaklarına baktığımızda gözümüz bu farklılıkları ayırt edemese de fotoğraf makineleri için durum farklıdır. Fotoğraf makineleri ışık kaynaklarının renk ısılarına karşı çok hassas oldukları için ya White Balance (beyaz ayarı) ayarlarının yapılmış olması ya da uygun filtrenin kullanılması gerekir. Işığın renk ısı değerlerini bilerek bu doğrultuda uygun filtre seçimi ve beyaz ayarlarını yapmak fotoğrafımızda vermek istediğimiz mesajı destekler.<br/>Kelvin cinsinden ölçtüğümüz ışığın renk sıcaklık değeri 0-20000 kelvin arasında değişmektedir. Düşükten yüksele doğru ışık kaynaklarının kelvin dereceleri şu şekilde sırlanır:<br/><ul><br/><li>Mum Gaz Lambası</li><br/><li>Gün Doğumu-Tungsten Lamba</li><br/><li>Normal ev ampulü</li><br/><li>Stüdyo Işığı-Projektörler</li><br/><li>Renksiz Flash Ampülleri</li><br/><li>Normal Gün Işığı- Elektronik Flashlar</li><br/><li>Tam Beyaz</li><br/><li>Bulutsuz havada öğle güneşi</li><br/><li>Hafif kapalı gökyüzü</li><br/><li>Kapalı Gökyüzü</li><br/><li>Bulutsuz güneşli havada, açık alanda gölge</li><br/><li>Çok kapalı gökyüzü</li><br/><li>Güneşsiz koyu mavi gökyüzü</li><br/><li>Dağlarda çok açık havada açık gölgeli alan</li><br/><li>Güneş doğup batmadan önceki 1-2dakika</li><br/></ul>"
     },
     {
         "SoruID": 3351277,
@@ -1000,6 +1160,26 @@
         "Aciklama": "Koyu Sarı Filtre: Mavi rengin baskın şekilde ortaya çıkmasını sağlar. Kullanım alanları orta sarı ve açık sarı filtreler gibi plaj ve kar manzaraları, bulutlu gökyüzü ve manzara fotoğraflarıyla çiçek ve yeşillik fotoğraflarıdır."
     },
     {
+        "SoruID": 3351283,
+        "SoruMetni": "Gaz lambası veya mum ışığında çekim yapılıyorsa renk sıcaklığı değeri aşağıdakilerden hangisidir?",
+        "A": "1000",
+        "B": "5500",
+        "C": "7000",
+        "D": "10000",
+        "E": "22000",
+        "DogruCevap": "A",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.990289",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Işık Kaynaklarının Kelvin Dereceleri: Mum Gaz Lambası 1000K"
+    },
+    {
         "SoruID": 3351284,
         "SoruMetni": "Siyah beyaz fotoğrafçılıkta bulutları ön plana çıkarmak, puslu fırtınalı gökyüzü etkisi yaratmak için kullanılan filtre aşağıdakilerden hangisidir?",
         "A": "Açık Sarı Filtre",
@@ -1057,7 +1237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Renk Düzeltme Filtreleri Çekim yaptığımız ortamdaki ışığın renk ısısı ile kullandığımız filmin renk ısısını dengelemek ve gözümüzün algıladığı gibi doğru renkleri ortaya çıkarmak için renk düzeltme filtrelerine ihtiyaç duyarız.<br/> 80B Filtresi 3200Kelvin derecesindeki tungsten ışık altında gün ışığı renk ısısna göre ayarlanmış bir filmle çekilen fotoğrafta kırmızı renk baskın olarak çıkar. Bu filtre tungsten ışığın değerini gün ışığı renk ısısı kelvin derecesine getirerek fotoğraftaki baskın kırmızı rengin giderilmesini sağlar. Filtre rengi mavidir.<br/> 81B Filtre Yüksek renk ısısında çekilen fotoğrafların kelvin derecesini azaltmak için kullanılır. Bu şartlar altında çekilen fotoğraflarda mavi renk baskın çıkar mavi rengin baskınlığını alır. Filtre rengi amberdir.<br/> 85A Filtre 5500Kelvinde gün ışığı altında tungsten filmle çekilen fotoğraflarda mavilik hakim olur. Gün ışığı renk ısı değerini tungsten film renk ısı değerine getirir ve fotoğraftaki maviliği gidermek için kullanılır. Filtre rengi turuncudur.<br/> 85B Filtre 85A filtresi ile aynı özelliklere sahip olup mavi rengi almakta biraz daha güçlü bir etkisi vardır. Filtre rengi turuncudur.<br/>  FL-B Filtre Floresan Bulb Floresan ışığı altında tungsten filmlerle yapılan çekimlerde baskın mavi-yeşil tonların etkisini azaltır.<br/> FL-D Filtre Floresan Daylight Gün ışığı filmlerle, floresan ışığın hakim olduğu ortamlarda yapılan çekimlerde ortaya çıkan aşırı mavi-yeşil ton baskınlığını gidermek için kullanılır.<br/> FL-W Filtre Floresan White Floresan ışığı altında gün ışığına ayarlı filmlerle yapılan çekimlerde ortaya çıkan yoğun yeşil kahverengi tonların etkisini azaltmak için kullanılır."
+        "Aciklama": "Renk Düzeltme Filtreleri Çekim yaptığımız ortamdaki ışığın renk ısısı ile kullandığımız filmin renk ısısını dengelemek ve gözümüzün algıladığı gibi doğru renkleri ortaya çıkarmak için renk düzeltme filtrelerine ihtiyaç duyarız.<br/>80B Filtresi 3200Kelvin derecesindeki tungsten ışık altında gün ışığı renk ısısna göre ayarlanmış bir filmle çekilen fotoğrafta kırmızı renk baskın olarak çıkar. Bu filtre tungsten ışığın değerini gün ışığı renk ısısı kelvin derecesine getirerek fotoğraftaki baskın kırmızı rengin giderilmesini sağlar. Filtre rengi mavidir.<br/>81B Filtre Yüksek renk ısısında çekilen fotoğrafların kelvin derecesini azaltmak için kullanılır. Bu şartlar altında çekilen fotoğraflarda mavi renk baskın çıkar mavi rengin baskınlığını alır. Filtre rengi amberdir.<br/>85A Filtre 5500Kelvinde gün ışığı altında tungsten filmle çekilen fotoğraflarda mavilik hakim olur. Gün ışığı renk ısı değerini tungsten film renk ısı değerine getirir ve fotoğraftaki maviliği gidermek için kullanılır. Filtre rengi turuncudur.<br/>85B Filtre 85A filtresi ile aynı özelliklere sahip olup mavi rengi almakta biraz daha güçlü bir etkisi vardır. Filtre rengi turuncudur.<br/>FL-B Filtre Floresan Bulb Floresan ışığı altında tungsten filmlerle yapılan çekimlerde baskın mavi-yeşil tonların etkisini azaltır.<br/>FL-D Filtre Floresan Daylight Gün ışığı filmlerle, floresan ışığın hakim olduğu ortamlarda yapılan çekimlerde ortaya çıkan aşırı mavi-yeşil ton baskınlığını gidermek için kullanılır.<br/>FL-W Filtre Floresan White Floresan ışığı altında gün ışığına ayarlı filmlerle yapılan çekimlerde ortaya çıkan yoğun yeşil kahverengi tonların etkisini azaltmak için kullanılır."
     },
     {
         "SoruID": 3351287,
@@ -1077,11 +1257,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Siyah Beyaz ve Renkli Fotoğrafçılıkta Kullanılan Ortak Filtreler Siyah beyaz ve renkli filmlerle ortak kullanılabilen bu filtreler genel olarak fotoğrafçıların sıklıkla karşılaştıkları ve sorun yaratan fazla ışık, yansıma ve parlamaları engellemek için kullanılmaktadır.<br/> UV Filtreler (Ultraviole-Morötesi), Sky Light Filtreler, Polarize Filtreler, Yoğunluk ND Filtreleri ve Soft Filtreler ortak filtreler içinde yer almaktadır."
+        "Aciklama": "Siyah Beyaz ve Renkli Fotoğrafçılıkta Kullanılan Ortak Filtreler Siyah beyaz ve renkli filmlerle ortak kullanılabilen bu filtreler genel olarak fotoğrafçıların sıklıkla karşılaştıkları ve sorun yaratan fazla ışık, yansıma ve parlamaları engellemek için kullanılmaktadır.<br/>UV Filtreler (Ultraviole-Morötesi), Sky Light Filtreler, Polarize Filtreler, Yoğunluk ND Filtreleri ve Soft Filtreler ortak filtreler içinde yer almaktadır."
+    },
+    {
+        "SoruID": 3351288,
+        "SoruMetni": "Deniz veya sudaki yansımaların kısmen giderildiği, parlak yüzeydeki yansımaların ise tamamen kaybolduğu çekimlerde kullanılan filtre aşağıdakilerden hangisidir?",
+        "A": "Sky Light Filtreler",
+        "B": "Polarize filtreler",
+        "C": "Degrade Filtre",
+        "D": "ND filtre",
+        "E": "Soft Filtreler",
+        "DogruCevap": "B",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.026406",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Polarize Filtreler Polarize filtreler kendi içinde linear (doğrusal) ve circular (dairesel) olmak üzere ikiye ayrılır. Linear filtre film kullanan makineler içindir. Circular filtre ise objektifin önüne takılıp dönebilen filtredir. Bu filtrenin temel kullanım alanı; yansıma ve parlamaları engellemek, renklerin doygunluğunu arttırmak ve objektife düşen ışık miktarını azaltmaktır Bu filtre en iyi sonucu güneş ışınlarının 90 derecelik açıyla yansıdığı zamanlarda yapılan çekimlerde verir.<br/>Güneşli bir günde polarize filtre kullanarak yaptığımız çekimlerde gökkuşağı renkleri daha canlı bir hale gelir, bitki örtüsü ve ağaçlar daha kontrast hale gelerek koyulaşır, gökyüzü ve bulutlar belirginleşir, <strong>deniz veya sudaki yansımalar kısmen giderilebilir, parlak yüzeydeki yansımalar ise tamamen kaybolur.</strong>"
     },
     {
         "SoruID": 3351289,
-        "SoruMetni": "Aşağıdakilerden hangisi tripod kullanmayı gerektiren  çekimlerden değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi tripod kullanmayı gerektiren çekimlerden değildir?",
         "A": "Makro",
         "B": "Uzun pozlama gerektiren çekimler",
         "C": "Spor müsabakaları",
@@ -1103,8 +1303,8 @@
         "SoruID": 3351290,
         "SoruMetni": "Objektiflerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
         "A": "Dar açılı objektiflerin odak uzunlukları 70mm ile 135mm arasındadır.",
-        "B": "F:5.6 diyafram değeri  f:1.4 e göre daha fazla ışık geçirir.",
-        "C": "F:5.6 diyafram değeri  f:1.4 e göre daha az ışık geçirir.",
+        "B": "F:5.6 diyafram değeri f:1.4 e göre daha fazla ışık geçirir.",
+        "C": "F:5.6 diyafram değeri f:1.4 e göre daha az ışık geçirir.",
         "D": "Küçük f değerinde diyafram açıklığına sahip objektifler hızlı objektiflerdir.",
         "E": "200mm ve üstü odak uzaklığına sahip objektifler süper tele objektif grubuna giren objektiflerdir.",
         "DogruCevap": "B",
@@ -1121,7 +1321,7 @@
     },
     {
         "SoruID": 3351291,
-        "SoruMetni": "Aşağıdakilerden hangisi Objektiflerin sıralanmasında yapısal özelliklerinden birisidir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Objektiflerin sıralanmasında yapısal özelliklerinden birisidir?",
         "A": "Geniş Açılı",
         "B": "Normal Açılı",
         "C": "Sabit Odaklı",
@@ -1137,7 +1337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Objektifler öncelikle yapısal özelliklerine göre sabit odaklı objektifler, değişken (zoom) odaklı objektifler olmak üzere ikiye ayrılır. Sabit Odaklı Objektifler: Odak uzaklıkları değiştirilemeyen objektiflerdir. 24mm, 35 mm,50mm, 85mm, 105mm objektifler sabit odaklı objektiflere örnektir. Bu objektiflerin en önemli özelliği keskin ve doygun görüntüler elde etmemizi daha mümkün kılmasıdır.<br/> Doğru cevap C şıkkıdır."
+        "Aciklama": "Objektifler öncelikle yapısal özelliklerine göre sabit odaklı objektifler, değişken (zoom) odaklı objektifler olmak üzere ikiye ayrılır. Sabit Odaklı Objektifler: Odak uzaklıkları değiştirilemeyen objektiflerdir. 24mm, 35 mm,50mm, 85mm, 105mm objektifler sabit odaklı objektiflere örnektir. Bu objektiflerin en önemli özelliği keskin ve doygun görüntüler elde etmemizi daha mümkün kılmasıdır.<br/>Doğru cevap C şıkkıdır."
     },
     {
         "SoruID": 3351292,
@@ -1157,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Objektifler genel olarak odak uzaklıklarına göre balık gözü, geniş açı, normal (standart odaklı), dar açılı (tele) ve süper tele objektifler olarak sınıflandırılır. Doğru cevap A şıkkıdır."
+        "Aciklama": "Objektifler genel olarak odak uzaklıklarına göre balık gözü, geniş açı, normal (standart odaklı), dar açılı (tele) ve süper tele objektifler olarak sınıflandırılır. Doğru cevap A şıkkıdır."
     },
     {
         "SoruID": 3351293,
@@ -1177,7 +1377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Süper Tele Objektifler: Dar açılı tele objektifler gibi çekim esnasında bize uzak olan konu ve nesneleri yakınlaştırmak için kullanılırlar. Özellikle vahşi doğa, haber ve spor karşılaşmalarını fotoğraflamak için kullanılır. Doğru cevap C şıkkıdır."
+        "Aciklama": "Süper Tele Objektifler: Dar açılı tele objektifler gibi çekim esnasında bize uzak olan konu ve nesneleri yakınlaştırmak için kullanılırlar. Özellikle vahşi doğa, haber ve spor karşılaşmalarını fotoğraflamak için kullanılır. Doğru cevap C şıkkıdır."
     },
     {
         "SoruID": 3351294,
@@ -1197,7 +1397,47 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Makro Objektifler: Çekilecek nesne veya konuya 1-2 cm mesafeden netlik yapabilen objektifler makro olarak adlandırılır. Makro objektifler genellikle 1:1 oranında ya da 1:5 gibi geniş bir aralıkta büyük ve net görüntülemeyi sağlayan objektifler dir.<br/> Doğru cevap A şıkkıdır."
+        "Aciklama": "Makro Objektifler: Çekilecek nesne veya konuya 1-2 cm mesafeden netlik yapabilen objektifler makro olarak adlandırılır. Makro objektifler genellikle 1:1 oranında ya da 1:5 gibi geniş bir aralıkta büyük ve net görüntülemeyi sağlayan objektifler dir.<br/>Doğru cevap A şıkkıdır."
+    },
+    {
+        "SoruID": 3351295,
+        "SoruMetni": "Objektiflerin üzerinde yer alan \"F\" değerleri bize neyi ifade eder",
+        "A": "Netlik",
+        "B": "Detay",
+        "C": "Diyafram",
+        "D": "Kalite",
+        "E": "Model",
+        "DogruCevap": "C",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.933165",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Bir objektifin görüntü kalitesini keskinliğini ve hızını belirleyen en önemli faktör objektifin maksimum diyafram açıklığıdır yani ışık geçirgenliğidir. Işık geçirgenliği, objektifin sahip olduğu en açık diyafram değerinde içeriye aldığı ışık miktarıdır. Objektiflerin üzerinde yer alan f5.6, f4.5, f3.5, f2.8, f1.4 ile f olarak ifade edilen rakamsal değerler o objektifin maksimum diyafram açıklığında ışığı geçirme miktarını ifade eder. F değeri 4.5 olan bir objektif f5.6 dan, f değeri 2.8 olan bir objektif f değeri f3.5 olan bir objektiften daha fazla ışık geçirgenliğine sahiptir. Doğru cevap C şıkkıdır."
+    },
+    {
+        "SoruID": 3351296,
+        "SoruMetni": "Objektife gelen ışığı süzmek ve kesmek için kullanılan araç aşağıdakilerden hangisidir?",
+        "A": "Kapak",
+        "B": "Filtre",
+        "C": "Redüksiyon",
+        "D": "Diyafram",
+        "E": "Balık Gözü",
+        "DogruCevap": "B",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.013347",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Özel ve genel amaçlı çok çeşitli filtre türleri bulunmasına karşın temelde filtrenin görevi objektife gelen ışığı süzmek veya kesmektir. Fotoğraf makinelerinde kullandığımız objektiflerin çapları birbirinden farklı olduğundan her filtre her objektife takılamaz. Bu nedenle makinemizdeki objektif çapı ile kullanacağımız filtrenin çapının aynı olması gerekmektedir. Doğru cevap B şıkkıdır."
     },
     {
         "SoruID": 3351297,
@@ -1217,7 +1457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kontrast Etki Veren Filtreler: Fotoğraftaki açık renkteki alanları daha açık, koyu renk alanları ise daha koyu vurgulayarak kontrast etkisini yükseltir. Sarı, turuncu ve kırmızı renkli filtreler bu gruba girmektedir. Doğru cevap E şıkkıdır."
+        "Aciklama": "Kontrast Etki Veren Filtreler: Fotoğraftaki açık renkteki alanları daha açık, koyu renk alanları ise daha koyu vurgulayarak kontrast etkisini yükseltir. Sarı, turuncu ve kırmızı renkli filtreler bu gruba girmektedir. Doğru cevap E şıkkıdır."
     },
     {
         "SoruID": 3351298,
@@ -1237,7 +1477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeşil Filtre: Kontrast azaltıcı filtrelerin en önemlisi yeşil filtredir. Ağaç, yeşil alan, bitki ve<br/>yaprak fotoğraflarının kontrastlığını azaltarak görüntüde soft açık gri bir ton elde etmemizi kolaylaştırır. Görüntüde hakim olan baskın kontrastlığı hafifleterek ayrıntıların ortaya çıkmasını sağlar. Doğru cevap D şıkkıdır."
+        "Aciklama": "Yeşil Filtre: Kontrast azaltıcı filtrelerin en önemlisi yeşil filtredir. Ağaç, yeşil alan, bitki ve<br/>yaprak fotoğraflarının kontrastlığını azaltarak görüntüde soft açık gri bir ton elde etmemizi kolaylaştırır. Görüntüde hakim olan baskın kontrastlığı hafifleterek ayrıntıların ortaya çıkmasını sağlar. Doğru cevap D şıkkıdır."
     },
     {
         "SoruID": 3351299,
@@ -1257,7 +1497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayfa 191 Tablo 7.1' e bakınız. Doğru cevap E şıkkıdır."
+        "Aciklama": "Sayfa 191 Tablo 7.1' e bakınız. Doğru cevap E şıkkıdır."
     },
     {
         "SoruID": 3351300,
@@ -1277,7 +1517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Işık Kaynaklarının Kelvin Dereceleri<br/> <br/>Mum Gaz Lambası                                  1000K<br/>Gün Doğumu-Tungsten Lamba                2000K<br/>Normal ev ampulü                                   2500K<br/>Stüdyo Işığı-Projektörler                         3000K<br/>Renksiz Flash Ampülleri                           4000K<br/>Normal Gün Işığı- Elektronik Flashlar         5000K<br/>Tam Beyaz                                             5500K<br/>Bulutsuz havada öğle güneşi                    6000K<br/>Hafif kapalı gökyüzü                                 7000K<br/>Kapalı Gökyüzü                                       8000K<br/>Bulutsuz güneşli havada, açık alanda gölge 9000K<br/>Çok kapalı gökyüzü                                  10000K<br/>Güneşsiz koyu mavi gökyüzü                    11000K<br/>Dağlarda çok açık havada açık gölgeli alan   20000K<br/>Güneş doğup batmadan önceki 1-2 dakika 22000K<br/> Doğru cevap A şıkkıdır."
+        "Aciklama": "Işık Kaynaklarının Kelvin Dereceleri<br/>Mum Gaz Lambası 1000K<br/>Gün Doğumu-Tungsten Lamba 2000K<br/>Normal ev ampulü 2500K<br/>Stüdyo Işığı-Projektörler 3000K<br/>Renksiz Flash Ampülleri 4000K<br/>Normal Gün Işığı- Elektronik Flashlar 5000K<br/>Tam Beyaz 5500K<br/>Bulutsuz havada öğle güneşi 6000K<br/>Hafif kapalı gökyüzü 7000K<br/>Kapalı Gökyüzü 8000K<br/>Bulutsuz güneşli havada, açık alanda gölge 9000K<br/>Çok kapalı gökyüzü 10000K<br/>Güneşsiz koyu mavi gökyüzü 11000K<br/>Dağlarda çok açık havada açık gölgeli alan 20000K<br/>Güneş doğup batmadan önceki 1-2 dakika 22000K<br/>Doğru cevap A şıkkıdır."
     },
     {
         "SoruID": 3351301,
@@ -1337,7 +1577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Süper Tele Objektifler: </strong>Dar açılı tele objektifler gibi çekim esnasında bize uzak olan konu ve nesneleri yakınlaştırmak için kullanılırlar. Özellikle vahşi doğa, haber ve spor karşılaşmalarını fotoğraflamak için kullanılır. Sınırlı bir alan derinliğine sahiptir ve konuyu içinde bulunduğu ortamdan büyüterek ayırır. 200mm ve üstü odak uzaklığına sahip objektifler süper tele objektif grubuna giren objektiflerdir."
+        "Aciklama": "<strong>Süper Tele Objektifler: </strong>Dar açılı tele objektifler gibi çekim esnasında bize uzak olan konu ve nesneleri yakınlaştırmak için kullanılırlar. Özellikle vahşi doğa, haber ve spor karşılaşmalarını fotoğraflamak için kullanılır. Sınırlı bir alan derinliğine sahiptir ve konuyu içinde bulunduğu ortamdan büyüterek ayırır. 200mm ve üstü odak uzaklığına sahip objektifler süper tele objektif grubuna giren objektiflerdir."
     },
     {
         "SoruID": 3351304,
@@ -1380,6 +1620,26 @@
         "Aciklama": "<strong>Kırmızı Filtre: </strong>Kontrast etkisi en güçlü olan filtredir. Sisli havada net manzara fotoğrafları elde etmek, bulutları ön plana çıkarmak, puslu fırtınalı gökyüzü etkisi yaratmak, mavi ve yeşil renkleri daha siyah, kırmızı ve sarı renkleri daha açık tonda bırakmak için kullanılır. Fotoğrafımızda kreatif ve dramatik etki bırakmamızı sağlar."
     },
     {
+        "SoruID": 3351306,
+        "SoruMetni": "Aşağıdakilerden hangisi siyah beyaz fotoğrafçılıkta kontrast azaltıcı filtrelerden biridir?",
+        "A": "Kırmızı Filtre",
+        "B": "Yeşil Filtre",
+        "C": "Turuncu Filtre",
+        "D": "Koyu sarı filtre",
+        "E": "Orta sarı filtre",
+        "DogruCevap": "B",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:14.904449",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<strong>Kontrast Azaltıcı Filtreler: </strong>Kontrastın yoğun olduğu ortam ve koşullarda kontrastın etkisini azaltarak görüntüyü yumuşatmak için kullanılır. Mavi ve yeşil filtreler kontrast azaltıcı filtrelerdir."
+    },
+    {
         "SoruID": 3351307,
         "SoruMetni": "Hangi filtre renkli fotoğrafçılıkta tungsten ışığın değerini gün ışığı renk ısısı kelvin derecesine getirerek fotoğraftaki baskın kırmızı rengin giderilmesini sağlar?",
         "A": "80B filtresi",
@@ -1397,7 +1657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>80B Filtresi: </strong>3200Kelvin derecesindeki tungsten ışık altında gün ışığı renk ısısna göre ayarlanmış bir filmle çekilen fotoğrafta kırmızı renk baskın olarak çıkar. Bu filtre tungsten ışığın değerini gün ışığı renk ısısı kelvin derecesine getirerek fotoğraftaki baskın kırmızı rengin giderilmesini sağlar. Filtre rengi mavidir."
+        "Aciklama": "<strong>80B Filtresi: </strong>3200Kelvin derecesindeki tungsten ışık altında gün ışığı renk ısısna göre ayarlanmış bir filmle çekilen fotoğrafta kırmızı renk baskın olarak çıkar. Bu filtre tungsten ışığın değerini gün ışığı renk ısısı kelvin derecesine getirerek fotoğraftaki baskın kırmızı rengin giderilmesini sağlar. Filtre rengi mavidir."
     },
     {
         "SoruID": 3351308,
@@ -1418,6 +1678,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Polarize filtreler renk doygunluğunu arttırarak kontrastlığı ve konunun belirginleşmesini sağlar, ışık yansımalarını keserek cisimlerdeki yansımayı engeller ve yoğunluğu azaltır."
+    },
+    {
+        "SoruID": 3351309,
+        "SoruMetni": "Yarısı saydam yarısı renkli olan ve özellikle manzara fotoğrafçılığında kullanılan güneşli havalarda gökyüzünün beyaz şekilde patlamasını engelleyen ve gökyüzünün rengini istediğimiz tonda değiştiren filtre hangisidir?",
+        "A": "Yıldız filtre",
+        "B": "Sunset filtre",
+        "C": "Degrade filtre",
+        "D": "Çoklu filtre",
+        "E": "Hız filtresi",
+        "DogruCevap": "C",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:15.020768",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<strong>Degrade Filtre: </strong>Yarısı saydam yarısı renkli olan ve özellikle manzara fotoğrafçılığında kullanılan güneşli havalarda gökyüzünün beyaz şekilde patlamasını engelleyen ve gökyüzünün rengini istediğimiz tonda değiştiren filtrelerdir. En kullanışlı olanı gri renkli olan olsa da kırmızı, sarı, turuncu gibi renkleri de bulunur."
     },
     {
         "SoruID": 3351310,

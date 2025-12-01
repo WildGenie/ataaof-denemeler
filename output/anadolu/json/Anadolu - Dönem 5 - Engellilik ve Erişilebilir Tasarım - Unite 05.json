@@ -41,9 +41,9 @@
     },
     {
         "SoruID": 3862946,
-        "SoruMetni": "Aşağıdakilerden hangisi Gelişimsel yetersizliği olan bireylerin sağlık hizmetlerinden yararlanırken<span> ortaya çıkan ve engelli bireyden kaynaklanmayan sorunlardandır?</span>",
+        "SoruMetni": "Aşağıdakilerden hangisi Gelişimsel yetersizliği olan bireylerin sağlık hizmetlerinden yararlanırken<span> ortaya çıkan ve engelli bireyden kaynaklanmayan sorunlardandır?</span>",
         "A": "<br/>Muayene sırasında sağlık personeliyle ortak dikkat sergilemede sınırlılıklar yaşama",
-        "B": "<br/><br/>Tanımadığı kişilerle uzun süre aynı ortamda bulunmaya bağlı olarak problem davranışlar sergileme",
+        "B": "<br/>Tanımadığı kişilerle uzun süre aynı ortamda bulunmaya bağlı olarak problem davranışlar sergileme",
         "C": "Muayene sırasında sağlık personeliyle iş birliği becerileri sergilemede sınırlılıklar yaşama",
         "D": "<br/>Sağlık personeline rahatsızlıklarını tanımlamakta güçlük yaşama",
         "E": "<br/>Sağlık personelinin bu bireylere nasıl davranması gerektiği konusundaki bilgi ve deneyim eksiklikleri",
@@ -57,11 +57,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/><br/>Gelişimsel yetersizliği olan bireylerin sağlık hizmetlerinden yararlanırken yaşadıkları bu güçlükler alanyazında çevresel uyaranlara (ör., tanımadığı kişilerle uzun süre aynı ortamda bulunmak, koku, ses, muayenede kullanılan araç-gereçlerle fiziksel temasta bulunmak vb.) maruz kalmaya bağlı olarak problem davranışlar sergileme (Cuvo, 2010; Ergenekon vd., 2021; Toste, 2018), muayene sırasında sağlık personeliyle ortak dikkat ve iş birliği becerileri sergilemede sınırlılıklar yaşama (Ergenekon vd., 2021; Scarpinato vd., 2010), sağlık personeline rahatsızlıklarını, ağrılarını ifade etmekte ve tanımlamakta güçlük yaşama (Phillips, Morrison ve Davis, 2004; Yıldırım Sarı, 2010), sağlık personelinin bu bireylere nasıl davranması gerektiği konusundaki bilgi ve deneyim eksiklikleri (Bultas, McMillin ve Zand, 2016; Ergenekon vd., 2021; Yıldırım Sarı, 2010), bazı durumlarda sağlık personelinin problem davranış sergileyen bu bireylere sağlık hizmeti sunmaktan kaçınması ya da hizmet sunmayı reddetmesi (Birkan, Krantz ve McClannahan, 2011; Ergenekon vd., 2021), bu bireylere sağlık hizmetleri sunulurken fiziksel (ör., elverişsiz binalar, işaret ve destek sistemlerindeki yetersizlikler vb.) ve yönetsel (ör., randevu bilgilerinde, zamanlamasında, tedavi bilgilendirmesinde yetersizlikler vb.) engeller yaşanması (Phillips, Morrison ve Davis, 2004; Yıldırım Sarı, 2010) olarak sıralanmaktadır."
+        "Aciklama": "<br/>Gelişimsel yetersizliği olan bireylerin sağlık hizmetlerinden yararlanırken yaşadıkları bu güçlükler alanyazında çevresel uyaranlara (ör., tanımadığı kişilerle uzun süre aynı ortamda bulunmak, koku, ses, muayenede kullanılan araç-gereçlerle fiziksel temasta bulunmak vb.) maruz kalmaya bağlı olarak problem davranışlar sergileme (Cuvo, 2010; Ergenekon vd., 2021; Toste, 2018), muayene sırasında sağlık personeliyle ortak dikkat ve iş birliği becerileri sergilemede sınırlılıklar yaşama (Ergenekon vd., 2021; Scarpinato vd., 2010), sağlık personeline rahatsızlıklarını, ağrılarını ifade etmekte ve tanımlamakta güçlük yaşama (Phillips, Morrison ve Davis, 2004; Yıldırım Sarı, 2010), sağlık personelinin bu bireylere nasıl davranması gerektiği konusundaki bilgi ve deneyim eksiklikleri (Bultas, McMillin ve Zand, 2016; Ergenekon vd., 2021; Yıldırım Sarı, 2010), bazı durumlarda sağlık personelinin problem davranış sergileyen bu bireylere sağlık hizmeti sunmaktan kaçınması ya da hizmet sunmayı reddetmesi (Birkan, Krantz ve McClannahan, 2011; Ergenekon vd., 2021), bu bireylere sağlık hizmetleri sunulurken fiziksel (ör., elverişsiz binalar, işaret ve destek sistemlerindeki yetersizlikler vb.) ve yönetsel (ör., randevu bilgilerinde, zamanlamasında, tedavi bilgilendirmesinde yetersizlikler vb.) engeller yaşanması (Phillips, Morrison ve Davis, 2004; Yıldırım Sarı, 2010) olarak sıralanmaktadır."
     },
     {
         "SoruID": 3862947,
-        "SoruMetni": "Aşağıdakilerden hangisi Gelişimsel yetersizliği olan bireylerin sağlık hizmetlerinden yararlanırken<span> ortaya çıkan ve engelli bireyin sergilediği sorunlardandır?</span>",
+        "SoruMetni": "Aşağıdakilerden hangisi Gelişimsel yetersizliği olan bireylerin sağlık hizmetlerinden yararlanırken<span> ortaya çıkan ve engelli bireyin sergilediği sorunlardandır?</span>",
         "A": "Sağlık personelinin Gelişimsel yetersizliği olan bireylere sağlık hizmeti sunmaktan kaçınması",
         "B": "Çevresel uyaranlara (ör., koku, ses, muayenede kullanılan araç-gereçlerle fiziksel temasta bulunmak vb.) maruz kalmaya bağlı olarak problem davranışlar sergileme",
         "C": "Gelişimsel yetersizliği olan bireylere sağlık hizmetleri sunulurken fiziksel (ör., elverişsiz binalar, işaret ve destek sistemlerindeki yetersizlikler vb.) engeller yaşanması",
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 3862948,
-        "SoruMetni": "................toplumdaki tüm bireylerin bağımsız yaşayabilmeleri ve yaşamın tüm alanlarına tam ve etkin katılım sağlayabilmeleri için fiziki çevreden, ulaşımdan, bilgi ve iletişim teknolojilerinden ve sistemlerinden, sunulan ürünlerden ve hizmetlerden eşit koşullarda yararlanması, bu bileşenlerin “herkes” için ulaşılabilir ve kullanılabilir olmasıdır.<span> Boşluğu uygun terimle doldurunuz.</span>",
+        "SoruMetni": "................toplumdaki tüm bireylerin bağımsız yaşayabilmeleri ve yaşamın tüm alanlarına tam ve etkin katılım sağlayabilmeleri için fiziki çevreden, ulaşımdan, bilgi ve iletişim teknolojilerinden ve sistemlerinden, sunulan ürünlerden ve hizmetlerden eşit koşullarda yararlanması, bu bileşenlerin “herkes” için ulaşılabilir ve kullanılabilir olmasıdır.<span> Boşluğu uygun terimle doldurunuz.</span>",
         "A": "BEP",
         "B": "Özel eğitim hizmeti",
         "C": "ÇÖZGER",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3862949,
-        "SoruMetni": "................özel eğitim hizmetlerine uygunluğuna karar verilen öğrenciler için sağlanacak özel eğitim hizmetlerinin “nerede, ne zaman, ne kadar süreyle, kimler” tarafından ve “hangi amaçları” gerçekleştirmek üzere uygulanacağını gösteren ve yazılı olarak hazırlanan bir belgedir.<br/> Boşluğu uygun terimle doldurunuz.",
+        "SoruMetni": "................özel eğitim hizmetlerine uygunluğuna karar verilen öğrenciler için sağlanacak özel eğitim hizmetlerinin “nerede, ne zaman, ne kadar süreyle, kimler” tarafından ve “hangi amaçları” gerçekleştirmek üzere uygulanacağını gösteren ve yazılı olarak hazırlanan bir belgedir.<br/>Boşluğu uygun terimle doldurunuz.",
         "A": "BEP",
         "B": "ÖEHY",
         "C": "ÇÖZGER",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3862950,
-        "SoruMetni": "Aşağıdakilerden hangisi Düşük düzey yardımcı teknolojilere <em>örnektir?</em>",
+        "SoruMetni": "Aşağıdakilerden hangisi Düşük düzey yardımcı teknolojilere <em>örnektir?</em>",
         "A": "Ses kayıt cihazları",
         "B": "Konuşan sözlükler",
         "C": "PECS",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3862951,
-        "SoruMetni": "Aşağıdakilerden hangisi orta düzey yardımcı teknolojilere <em>örnektir?</em>",
+        "SoruMetni": "Aşağıdakilerden hangisi orta düzey yardımcı teknolojilere <em>örnektir?</em>",
         "A": "Etkinlik çizelgeleri",
         "B": "Görsel zamanlayıcılar",
         "C": "Okuma kılavuzları",
@@ -181,12 +181,12 @@
     },
     {
         "SoruID": 3862953,
-        "SoruMetni": "Aşağıdakilerden hangisi iletişim, dil ve konuşma becerilerini desteklemek üzere kullanılan yazılımlar/uygulamalardandır?",
-        "A": "<table> <tbody> <tr> <td> LOOK2LEARN<br/> </td> </tr> </tbody> </table>",
-        "B": "<table> <tbody> <tr> <td> SEE READ SAY<br/> </td> </tr> </tbody> </table>",
-        "C": "<table> <tbody> <tr> <td> HAPPY LITTLE FARMER<br/> </td> </tr> </tbody> </table>",
-        "D": "<table> <tbody> <tr> <td> LEO’S PAD<br/> </td> </tr> </tbody> </table>",
-        "E": "<table> <tbody> <tr> <td> İŞLEVSEL OKUMA<br/> </td> </tr> </tbody> </table>",
+        "SoruMetni": "Aşağıdakilerden hangisi iletişim, dil ve konuşma becerilerini desteklemek üzere kullanılan yazılımlar/uygulamalardandır?",
+        "A": "<table> <tbody> <tr> <td> LOOK2LEARN<br/></td> </tr> </tbody> </table>",
+        "B": "<table> <tbody> <tr> <td> SEE READ SAY<br/></td> </tr> </tbody> </table>",
+        "C": "<table> <tbody> <tr> <td> HAPPY LITTLE FARMER<br/></td> </tr> </tbody> </table>",
+        "D": "<table> <tbody> <tr> <td> LEO’S PAD<br/></td> </tr> </tbody> </table>",
+        "E": "<table> <tbody> <tr> <td> İŞLEVSEL OKUMA<br/></td> </tr> </tbody> </table>",
         "DogruCevap": "A",
         "DersAd": "Engellilik ve Erişilebilir Tasarım",
         "Unite": 5,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt C'dir. OSB'dir."
+        "Aciklama": "OSB, sosyal etkileşim ve iletişim becerilerindeki yetersizlikler ile sınırlı, yineleyici davranış örüntüleri, ilgi ya da etkinliklerle kendinivgösteren, gelişimin erken dönemlerinde ortaya çıkan ve etkileri yaşam boyu devam edenvkarmaşık bir nöro-gelişimsel bozukluktur.<br>Yanıt C'dir. OSB'dir."
     },
     {
         "SoruID": 3863285,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt B'dir. Zihin yetersizliğidir."
+        "Aciklama": "Zihin yetersizliği, çoğu günlük, sosyal ve pratik becerileri kapsayan hem zihinsel işlevlerde hem de uyumsal davranışlarda belirgin sınırlılıklarla karakterize edilen ve 18 yaşından önce ortaya çıkan bir yetersizliktir.<br>Yanıt B'dir. Zihin yetersizliğidir."
     },
     {
         "SoruID": 3863286,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt A'dır. OSB'dir."
+        "Aciklama": "Otizm spektrum bozukluğu yani OSB’nin temel tanı ölçütlerinden birisi sosyal iletişimde yaşanan sorunlardır. OSB olan bireylerin iletişimin bileşenleri olan sözel ve sözel olmayan iletişim, konuşma sırasındaki fiziksel yakınlık, konuşana dikkatini yöneltme, yüz ifadesi, ses tonu, dilin mecazi kullanımı, anlatılmak isteneni duygularla ifade etme açısından problemleri çeşitlilik göstermektedir.<br>Yanıt A'dır. OSB'dir."
     },
     {
         "SoruID": 3863287,
@@ -277,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt C'dir. ÇÖZGER'dir."
+        "Aciklama": "0-18 yaş aralığındaki bireylere gelişimsel yetersizlik (OSB ya da zihin yetersizliği) tanısı konduğunda “Çocuk Özel Gereksinim Raporu (ÇÖZGER)” çıkartılması gerekir. ÇÖZGER almak için çocuğun bakımını üstlenen kişinin başvuru dilekçesiyle ÇÖZGER düzenlemeye yetkili hastaneye başvuru yapması gerekir. ÇÖZGER raporuyla özel gereksinimli çocuk için evde bakım ücreti, özel tüketim vergisi istisnalı araç alımı, eğitim hakkı, özel eğitim ve rehabilitasyon merkezlerinde sunulan destek özel eğitim hizmetlerinden ücretsiz yararlanma,<br/>şehir içi ulaşımdan ücretsiz yararlanma, elektrik, su, doğalgaz faturalarında indirimden yararlanma, cep telefonu ve internet faturalarında indirimden yararlanma, vergi indirimi gibi haklardan yararlanabilir.<br>Yanıt C'dir. ÇÖZGER'dir."
     },
     {
         "SoruID": 3863288,
-        "SoruMetni": "\"Bireyin özel eğitim hizmetlerinden yararlanabilmesi için tıbbi tanının yanı sıra Rehberlik Araştırma Merkezinde eğitsel tanılamasının yapılması gerekir. Eğitsel tanılaması yapılarak yerleştirmesi yapılan özel gereksinimli öğrenciler için devam ettikleri okul ve kurumlarda .......................... hazırlanır.\" <br/><br/>İfadesinde boşluğa gelmesi gereken aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Bireyin özel eğitim hizmetlerinden yararlanabilmesi için tıbbi tanının yanı sıra Rehberlik Araştırma Merkezinde eğitsel tanılamasının yapılması gerekir. Eğitsel tanılaması yapılarak yerleştirmesi yapılan özel gereksinimli öğrenciler için devam ettikleri okul ve kurumlarda .......................... hazırlanır.\" <br/>İfadesinde boşluğa gelmesi gereken aşağıdakilerden hangisidir?",
         "A": "Bireyselleştirilmiş eğitim programı",
         "B": "Zihinsel yetersizlik teşhisi",
         "C": "ÇÖZGER",
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt A'dır. Bireyselleştirilmiş eğitim programıdır."
+        "Aciklama": "Bireyin özel eğitim hizmetlerinden yararlanabilmesi için tıbbi tanının yanı sıra Rehberlik Araştırma Merkezinde (RAM) eğitsel tanılamasının yapılması gerekir. Eğitsel tanılaması yapılarak yerleştirmesi yapılan özel gereksinimli öğrenciler için devam ettikleri okul ve kurumlarda bireyselleştirilmiş eğitim programı (BEP) hazırlanır. Ülkemizde özel gereksinimli bireyler için BEP hazırlanması yasal bir zorunluluktur.<br>Yanıt A'dır. Bireyselleştirilmiş eğitim programıdır."
     },
     {
         "SoruID": 3863289,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt C'dir. BEP'dir."
+        "Aciklama": "BEP (bireyselleştirilmiş eğitim programı), özel eğitim hizmetlerine uygunluğuna karar verilen öğrenciler için sağlanacak özel eğitim hizmetlerinin “nerede, ne zaman, ne kadar süreyle, kimler” tarafından ve “hangi amaçları” gerçekleştirmek üzere uygulanacağını gösteren<br/>ve yazılı olarak hazırlanan bir belgedir.<br>Yanıt C'dir. BEP'dir."
     },
     {
         "SoruID": 3863290,
@@ -337,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt C'dir. Etkinlik çizelgeleridir."
+        "Aciklama": "Fiziksel çevrenin gelişimsel yetersizliği olan öğrencilere göre düzenlenmesinin yanı sıra bu bireyler için öğretim sürecinde görsel desteklerden yararlanılabilir. Görsel destekler; ortak dikkat, konuşmayı teşvik etme, iletişimi başlatmayı kolaylaştırma, hatırlamayı teşvik etme, dikkat geliştirme ve sosyal başlatmayı harekete geçirmek amacıyla kullanılır. Gelişimsel yetersizliği olan bireylerle yaygın olarak kullanılan görsel destekler; etkinlik çizelgeleri, takvimler, kontrol listeleri, renk kodları, görsel senaryolar, grafik düzenleyiciler/şemalar,<br/>kural hatırlatıcı kartlar, resim ve fotoğraflar, resim değiş tokuşuna dayalı materyaller (Picture Exchange Communication System [PECS]), güç kartları (power cards), resimli sosyal beceri kitapları, sosyal öyküler ve videoyla model olma olarak sıralanabilir.<br>Yanıt C'dir. Etkinlik çizelgeleridir."
     },
     {
         "SoruID": 3863291,
-        "SoruMetni": "Bas konuş, dil kartları, hesap makineleri, ses kayıt cihazları, konuşan sözlükler, okuma kalemleri aşağıdaki yardımcı destek teknolojilerinden hangisine örnektir?",
+        "SoruMetni": "Bas konuş, dil kartları, hesap makineleri, ses kayıt cihazları, konuşan sözlükler, okuma kalemleri aşağıdaki yardımcı destek teknolojilerinden hangisine örnektir?",
         "A": "Basit düzey yardımcı teknolojiler",
         "B": "Düşük düzey yardımcı teknolojiler",
         "C": "Orta düzey yardımcı teknolojiler",
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt C'dir. Orta düzey yardımcı teknolojilerdir."
+        "Aciklama": "Gelişimsel yetersizliği olan bireylerle kullanılan orta düzey yardımcı teknolojiler arasında bas konuş (üzerinde kayıt ve oynatma düğmesi olan, bireyin cihaza kaydedilen sesi dinleyip duyduğu sesi tekrar etmesini sağlayan teknoloji), dil kartları, hesap makineleri, ses kayıt cihazları, konuşan sözlükler, okuma kalemleri sayılabilir.<br>Yanıt C'dir. Orta düzey yardımcı teknolojilerdir."
     },
     {
         "SoruID": 3863292,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt A'dır. Düşük düzey yardımcı teknolojilerdir."
+        "Aciklama": "Düşük düzey yardımcı teknolojiler, genellikle kullanılması için eğitim gerektirmeyen, düşük bütçeli ve karmaşık mekanik özellikleri olmayan, günlük yaşamda sıkça karşılaşılan, sınıf ortamında da kolaylıkla bulunabilecek teknolojilerdir. Gelişimsel yetersizliği olan bireylerle kullanılan düşük düzey yardımcı teknolojiler arasında PECS, etkinlik çizelgeleri, yazı şablonları, görsel zamanlayıcılar (ör. saat), kalem tutma destekleri, fosforlu kalemler, okuma kılavuzları (okunan satırın üstüne yerleştirilerek yalnızca ilgili satırı okumayı sağlar) sayılabilir.<br>Yanıt A'dır. Düşük düzey yardımcı teknolojilerdir."
     },
     {
         "SoruID": 3863293,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt C'dir. Artırılmış gerçekliktir."
+        "Aciklama": "Artırılmış gerçeklik, kullanıcının gerçek dünya ortamı üzerine yerleştirilen sanal nesnelerle etkileşime geçtiği uygulamadır. Bir başka deyişle artırılmış gerçeklik, gerçek dünya ile dijital dünyayı eş zamanlı olarak birleştirerek bir arada gösteren, gerçek ortamlar üzerinde sanal nesneleri görmeyi ve onlarla etkileşime girmeyi sağlayan bir üç boyut teknolojisidir. Artırılmış gerçeklik uygulamaları temel olarak sanal gerçeklik tekniklerine dayanmaktadır. Bu bağlamda sanal ve gerçek dünyayı birleştirerek kullanıcıların fiziki dünyaya ait duyusal algılarını geliştirmeyi hedefler. Daha açık bir ifadeyle artırılmış gerçeklik bilgisayar ortamında hazırlanmış sanal nesnelerin çeşitli aygıtlar yardımıyla gerçek dünya üzerine sanki oradaymış gibi yerleştirilmesi olarak tanımlanabilir.<br>Yanıt C'dir. Artırılmış gerçekliktir."
     }
 ]

@@ -9,14 +9,15 @@
         "E": "Sanat, düşünceyi ve düşlemeyi geliştirmenin araçlarından biridir.",
         "DogruCevap": "D",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 384000,
@@ -28,14 +29,15 @@
         "E": "Sanatın, din, siyaset, bilim, hukuk gibi diğer sosyal kurumların gelişimine hizmet eden bir işlevi vardır.",
         "DogruCevap": "D",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 384226,
@@ -47,14 +49,15 @@
         "E": "Bir toplumun yapısı bilinmeden, o toplumun sanatını kavramak pek mümkün değildir.<br type=\"_moz\"/>",
         "DogruCevap": "C",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 384227,
@@ -73,11 +76,12 @@
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 384228,
-        "SoruMetni": "Benzer şekilde Orta Çağ Avrupası’nda sanatçılar, ……………… bir aktarıcı olarak görülmekteydi.<br/> <br/><strong>Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>",
+        "SoruMetni": "Benzer şekilde Orta Çağ Avrupası’nda sanatçılar, ……………… bir aktarıcı olarak görülmekteydi.<br/><strong>Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>",
         "A": "Dinsel olanı halka ileten",
         "B": "Bilimsel olanı halka ileten",
         "C": "Duygusal olanı halka ileten",
@@ -92,7 +96,8 @@
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 384229,
@@ -104,18 +109,19 @@
         "E": "Niklas Luhmann",
         "DogruCevap": "D",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 384230,
-        "SoruMetni": "İş bölümü, sınıf ayırımı ve farklı toplumsal çatışmaların ortaya çıkmasıyla birlikte sanat, insanlar arasındaki ortak noktaları bulmaya, toplumsal gerekleri yaymaya, özgür düşünceyi ve aydınlanmayı geliştirmeye yarayan bir etkinlik alanı olarak algılandı. 19. yüzyıldan itibaren sanata, sanatçıya ve sanat eserine verilen bu değerin dönüşüm geçirmesiyle bir sanat alanı ortaya çıktı.<br/> <br/><strong>Yukarıda bahsedilen sanat alanına aşağıdakilerden hangisi dahil <u>değildir</u>?</strong>",
+        "SoruMetni": "İş bölümü, sınıf ayırımı ve farklı toplumsal çatışmaların ortaya çıkmasıyla birlikte sanat, insanlar arasındaki ortak noktaları bulmaya, toplumsal gerekleri yaymaya, özgür düşünceyi ve aydınlanmayı geliştirmeye yarayan bir etkinlik alanı olarak algılandı. 19. yüzyıldan itibaren sanata, sanatçıya ve sanat eserine verilen bu değerin dönüşüm geçirmesiyle bir sanat alanı ortaya çıktı.<br/><strong>Yukarıda bahsedilen sanat alanına aşağıdakilerden hangisi dahil <u>değildir</u>?</strong>",
         "A": "Sanat eleştirmeni",
         "B": "Küratör",
         "C": "Galeri sahipleri",
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 384231,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 384232,
@@ -161,14 +169,15 @@
         "E": "Sinema",
         "DogruCevap": "A",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 384233,
@@ -180,14 +189,15 @@
         "E": "Georg Simmel",
         "DogruCevap": "A",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 384234,
@@ -206,6 +216,7 @@
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     }
 ]

@@ -16,6 +16,22 @@
         "QuestionNumber": 1
     },
     {
+        "QuestionId": 3594048,
+        "UniteNo": 4,
+        "PageNumber": 94,
+        "AnswerExplanation": "<p>Video kurgusu en<br />basit tanımıyla hareketli video projelerindeki görüntülerin kesilmesi, kırpılması,<br />üst üste bindirilmesi; özel efektler, müzik,<br />ses kayıtları eklenmesi yoluyla düzenlenip,<br />kaydedilmesi ve aktarılması işlemidir.</p>",
+        "Title": "",
+        "Text": "<p>Dijital video kurgu nedir?</p>",
+        "A": "<p>, Adobe Premiere Pro, video düzenleme ve post-prodüksiyon disiplinlerinde faaliyet gösteren profesyoneller için tasarlanmış, endüstri standardı bir yazılımdır</p>",
+        "B": "<p> Video kurgusu en<br />basit tanımıyla hareketli video projelerindeki görüntülerin kesilmesi, kırpılması,<br />üst üste bindirilmesi; özel efektler, müzik,<br />ses kayıtları eklenmesi yoluyla düzenlenip,<br />kaydedilmesi ve aktarılması işlemidir.</p>",
+        "C": "<p>Adobe Premiere Pro’nun 2023 sürümü olan 24.0.3’te ise, bu yeniliklere daha da gelişmiş yapay zeka<br />desteği, genişletilmiş format desteği, iyileştirilmiş işbirliği araçları ve yenilenmiş kullanıcı arayüzü eklenmiştir. </p>",
+        "D": "<p>Adobe Premiere Pro, video prodüksiyonunun her aşamasında profesyonellere eşsiz bir esneklik ve kontrol sunarak, sektördeki en kapsamlı video düzenleme yazılımlarından biri olarak kabul edilir</p>",
+        "E": "<p>Adobe Premiere Pro, video prodüksiyonunun her aşamasında profesyonellere eşsiz bir esneklik ve kontrol sunarak, sektördeki en kapsamlı video düzenleme yazılımlarından biri olarak kabul edilir</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null,
+        "QuestionNumber": 2
+    },
+    {
         "QuestionId": 3594049,
         "UniteNo": 4,
         "PageNumber": 98,
@@ -176,22 +192,6 @@
         "QuestionNumber": 12
     },
     {
-        "QuestionId": 3598214,
-        "UniteNo": 4,
-        "PageNumber": 95,
-        "AnswerExplanation": "<p>1970’lerin sonlarına doğru, Steenbeck ve KEM düzenleme masaları, film endüstrisindeki fiziksel kurgunun zirvesini temsil ediyordu. Mekanik kurgu sistemlerinde, film laboratuvarda işlendikten sonra pozitif bir iş kopyası hazırlanır ve kurgucu bu kopyayla çalışır. Dijital kurgu sistemlerinin ortaya çıkışı ve yaygınlaşmasındaki en büyük engellerden biri, o dönemlerde yeterli bellek kapasitesine ve yüksek kapasiteli sabit disklerin eksikliğiydi. Bu durum, 1971 yılında piyasaya sürülen ilk doğrusal olmayan kurgu sistemi CMX 600’ün geniş çapta kullanımını sınırlamıştır. CMX 600, esas olarak televizyon programlarında kullanılmış, ancak büyük sinema projelerinde tercih edilmemiştir. EditDroid ve Montage gibi yarı elektronik yarı analog sistemler, görüntüleri sırasıyla lazer disk ve VHS bantlarına kaydedebilme avantajına sahipti. Ancak, Avid gibi tamamen dijital sistemlerin sabit disk boyutları ve veri okuma hızları yetersiz kaldığı için, görüntülerin sıkıştırılması ve netlik sorunlarının ortaya çıkması gibi problemlerle karşılaşılmıştır. Avid gibi sistemlerin kullanımı, kurgucuların yıllarca alışık olduğu elle dokunarak ve gözle seçerek kesme işlemini yapma geleneğini değiştirmeyi gerektirdi. Teknik sorunların yanı sıra, yılların getirdiği kurgu anlayışını dönüştürmek de zorlu bir süreçti. Ancak, 1990’ların ortalarında gelişen sabit diskler, bellekler, işlemciler ve diğer bilgisayar teknolojileri, bu engelleri ortadan kaldırdı ve dijital kurgu yazılımları tüm endüstriye hâkim oldu.</p>",
-        "Title": "",
-        "Text": "<p>Aşağıdakilerden hangisi <strong>tamamen elektronik/dijital</strong> olan bir doğrusal olmayan kurgu sistemidir?</p>",
-        "A": "<p>Montage.</p>",
-        "B": "<p>CMX 600.</p>",
-        "C": "<p>KEM.</p>",
-        "D": "<p>EditDroid.</p>",
-        "E": "<p>Avid.</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
-    },
-    {
         "QuestionId": 3598216,
         "UniteNo": 4,
         "PageNumber": 96,
@@ -221,7 +221,7 @@
         "E": "<p>Preview (önizleme).</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 15
+        "QuestionNumber": 14
     },
     {
         "QuestionId": 3598221,
@@ -237,7 +237,7 @@
         "E": "<p>DIVX.</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 16
+        "QuestionNumber": 15
     },
     {
         "QuestionId": 3598225,
@@ -253,7 +253,7 @@
         "E": "<p>Proje bölümü.</p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 17
+        "QuestionNumber": 16
     },
     {
         "QuestionId": 3598229,
@@ -269,7 +269,7 @@
         "E": "<p>Editing mode.</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 18
+        "QuestionNumber": 17
     },
     {
         "QuestionId": 3598234,
@@ -320,19 +320,19 @@
         "QuestionNumber": 20
     },
     {
-        "QuestionId": 3594048,
+        "QuestionId": 3598214,
         "UniteNo": 4,
-        "PageNumber": 94,
-        "AnswerExplanation": "<p>Video kurgusu en<br />basit tanımıyla hareketli video projelerindeki görüntülerin kesilmesi, kırpılması,<br />üst üste bindirilmesi; özel efektler, müzik,<br />ses kayıtları eklenmesi yoluyla düzenlenip,<br />kaydedilmesi ve aktarılması işlemidir.</p>",
+        "PageNumber": 95,
+        "AnswerExplanation": "<p>1970’lerin sonlarına doğru, Steenbeck ve KEM düzenleme masaları, film endüstrisindeki fiziksel kurgunun zirvesini temsil ediyordu. Mekanik kurgu sistemlerinde, film laboratuvarda işlendikten sonra pozitif bir iş kopyası hazırlanır ve kurgucu bu kopyayla çalışır. Dijital kurgu sistemlerinin ortaya çıkışı ve yaygınlaşmasındaki en büyük engellerden biri, o dönemlerde yeterli bellek kapasitesine ve yüksek kapasiteli sabit disklerin eksikliğiydi. Bu durum, 1971 yılında piyasaya sürülen ilk doğrusal olmayan kurgu sistemi CMX 600’ün geniş çapta kullanımını sınırlamıştır. CMX 600, esas olarak televizyon programlarında kullanılmış, ancak büyük sinema projelerinde tercih edilmemiştir. EditDroid ve Montage gibi yarı elektronik yarı analog sistemler, görüntüleri sırasıyla lazer disk ve VHS bantlarına kaydedebilme avantajına sahipti. Ancak, Avid gibi tamamen dijital sistemlerin sabit disk boyutları ve veri okuma hızları yetersiz kaldığı için, görüntülerin sıkıştırılması ve netlik sorunlarının ortaya çıkması gibi problemlerle karşılaşılmıştır. Avid gibi sistemlerin kullanımı, kurgucuların yıllarca alışık olduğu elle dokunarak ve gözle seçerek kesme işlemini yapma geleneğini değiştirmeyi gerektirdi. Teknik sorunların yanı sıra, yılların getirdiği kurgu anlayışını dönüştürmek de zorlu bir süreçti. Ancak, 1990’ların ortalarında gelişen sabit diskler, bellekler, işlemciler ve diğer bilgisayar teknolojileri, bu engelleri ortadan kaldırdı ve dijital kurgu yazılımları tüm endüstriye hâkim oldu.</p>",
         "Title": "",
-        "Text": "<p>Dijital video kurgu nedir?</p>",
-        "A": "<p>, Adobe Premiere Pro, video düzenleme ve post-prodüksiyon disiplinlerinde faaliyet gösteren profesyoneller için tasarlanmış, endüstri standardı bir yazılımdır</p>",
-        "B": "<p> Video kurgusu en<br />basit tanımıyla hareketli video projelerindeki görüntülerin kesilmesi, kırpılması,<br />üst üste bindirilmesi; özel efektler, müzik,<br />ses kayıtları eklenmesi yoluyla düzenlenip,<br />kaydedilmesi ve aktarılması işlemidir.</p>",
-        "C": "<p>Adobe Premiere Pro’nun 2023 sürümü olan 24.0.3’te ise, bu yeniliklere daha da gelişmiş yapay zeka<br />desteği, genişletilmiş format desteği, iyileştirilmiş işbirliği araçları ve yenilenmiş kullanıcı arayüzü eklenmiştir. </p>",
-        "D": "<p>Adobe Premiere Pro, video prodüksiyonunun her aşamasında profesyonellere eşsiz bir esneklik ve kontrol sunarak, sektördeki en kapsamlı video düzenleme yazılımlarından biri olarak kabul edilir</p>",
-        "E": "<p>Adobe Premiere Pro, video prodüksiyonunun her aşamasında profesyonellere eşsiz bir esneklik ve kontrol sunarak, sektördeki en kapsamlı video düzenleme yazılımlarından biri olarak kabul edilir</p>",
-        "CorrectAnswer": "B",
+        "Text": "<p>Aşağıdakilerden hangisi <strong>tamamen elektronik/dijital</strong> olan bir doğrusal olmayan kurgu sistemidir?</p>",
+        "A": "<p>Montage.</p>",
+        "B": "<p>CMX 600.</p>",
+        "C": "<p>KEM.</p>",
+        "D": "<p>EditDroid.</p>",
+        "E": "<p>Avid.</p>",
+        "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 2
+        "QuestionNumber": 13
     }
 ]

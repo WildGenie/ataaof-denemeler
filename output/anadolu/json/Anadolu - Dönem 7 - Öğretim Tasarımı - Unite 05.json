@@ -37,11 +37,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotoğraflar piksel tabanlıdır."
+        "Aciklama": "Görüntüler vektör ve piksel tabanlı olabilir. Vektörel görüntüler çözünürlükten ödün vermeden ölçeklenebilir. Yani büyütüldüğünde kalite kaybı yaşamaz. Ayrıca kolay bir şekilde düzenlenebilirler. Logolar, illüstrasyonlar, ikonlar, tablolar, grafikler, kavram haritaları ve çizimler vektör tabanlı görüntülere örnektir. Piksel tabanlı görüntüler ise gerçekçi ayrıntıları ve detayları göstermek amacıyla kullanılabilir. Ancak vektör tabanlı görüntüler gibi ölçeklenebilirlik açısından oldukça zayıftır. Çözünürlüğü düşük olan piksel tabanlı görüntüler büyütüldüğünde kalite kaybına uğramaktadır. Fotoğraflar ise piksel tabanlı görüntüye örnektir.<br>Fotoğraflar piksel tabanlıdır."
     },
     {
         "SoruID": 3863326,
-        "SoruMetni": "\"......... kavramı, çizgi tekniklerinin kullanılmasıyla ortaya çıkan, görünenin abartılabileceği veya tamamen hayali bir çizgide tasvir edilebileceği anlamına gelen sanattır.\" <br/> Yukarıdaki cümlede boş bırakılan yer hangisiyle doldurulmalıdır?",
+        "SoruMetni": "\"......... kavramı, çizgi tekniklerinin kullanılmasıyla ortaya çıkan, görünenin abartılabileceği veya tamamen hayali bir çizgide tasvir edilebileceği anlamına gelen sanattır.\" <br/>Yukarıdaki cümlede boş bırakılan yer hangisiyle doldurulmalıdır?",
         "A": "Çizim",
         "B": "İllüstrasyon",
         "C": "İnfografik",
@@ -137,11 +137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Önemli işlevlere sahip düğmelerin farklı renklerde veya boyutlarda sunulması benzerlik ilkesine örnek gösterilebilir."
+        "Aciklama": "Benzer nesnelerin birlikte gruplanması durumunu ifade eder. Renk, şekil, boyut veya doku gibi benzer özelliklere sahip öğelerin aynı gruba ait olarak algılandığını belirtmektedir. Benzerlik, bir tasarımda yan yana olmayabilecek ögeleri birbirine bağlamak için kullanılabilir. Önemli işlevlere sahip düğmelerin farklı renklerde veya boyutlarda sunulması benzerlik ilkesine bir örnektir. Bir arayüzdeki tüm tıklanabilir düğmeler için aynı rengin kullanılması, öğrenenlerin bunları benzer işlevlere sahip düğmeler olarak tanımasına yardımcı olur.<br>Önemli işlevlere sahip düğmelerin farklı renklerde veya boyutlarda sunulması benzerlik ilkesine örnek gösterilebilir."
     },
     {
         "SoruID": 3863331,
-        "SoruMetni": "İnsan zihninin nesneleri  arka planlarına göre nasıl algıladığına odaklanan Gestalt ilkesi hangisidir?",
+        "SoruMetni": "İnsan zihninin nesneleri arka planlarına göre nasıl algıladığına odaklanan Gestalt ilkesi hangisidir?",
         "A": "Benzerlik",
         "B": "Yakınlık",
         "C": "Devamlılık",
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Şekil-zemin </strong><strong>ilkesi, </strong>insan zihninin nesneleri (şekilleri) arka planlarına (zemine) göre nasıl algıladığına odaklanır."
+        "Aciklama": "Şekil-zemin ilkesi ile renk, boyut ve bulanıklık gibi teknikler kullanılarak önemli içeriğin öne çıkması sağlanabilir. Bu yöntemler, öncelikli içeriğe vurgu yaparak dikkat çekmeyi amaçlamaktadır. İnsan beyni, ön planı arka plan öğelerinden ayırmaya odaklanır. <strong>Şekil-zemin </strong><strong>ilkesi, insan zihninin nesneleri (şekilleri) arka planlarına </strong><strong>(zemine) göre nasıl algıladığına odaklanır.</strong> Tasarımcılar, kontrast ve görsel hiyerarşi kullanarak önemli ögeler (şekiller) ile arka plan arasında ayrım yapabilir."
     },
     {
         "SoruID": 3863332,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Denge seçeneği hariç tüm seçeneklerde Gestalt ilkeleri yer almıştır. Gestalt ilkeleri aşağıda sıralanmıştır:<br/> Yakınlık ilkesi<br/> Benzerlik ilkesi<br/> Tamamlama ilkesi<br/> Devamlılık ilkesi<br/> Simetri ilkesi<br/> Şekil-zemin ilkesi"
+        "Aciklama": "Denge seçeneği hariç tüm seçeneklerde Gestalt ilkeleri yer almıştır. Gestalt ilkeleri aşağıda sıralanmıştır:<br/>Yakınlık ilkesi<br/>Benzerlik ilkesi<br/>Tamamlama ilkesi<br/>Devamlılık ilkesi<br/>Simetri ilkesi<br/>Şekil-zemin ilkesi"
     },
     {
         "SoruID": 3863637,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zıtlık; renk, boyut, doku veya aralıktaki farklılıkları kullanarak dikkatin öncelikli unsurlara yönlendirilmesini ifade eder.<br/> Denge, tüm tasarım ögelerinin tasarım boyunca eşit şekilde dağıtılmasıyla ortaya çıkar (Resnick, 2003).<br/> Vurgu, bir tasarımın belirli bölümlerinin diğer ögelerle karşılaştırıldığında öne çıkmasını ifade eder.<br/> Tasarımda hiyerarşi, öğelerin önem düzeylerine göre düzenlenmesini ifade eder.<br/> Bütünlük, tasarım ögelerinin ve ilkelerinin birliğini ifade eder; yani, bu öğelerin doğru zamanda ve doğru ölçülerde nasıl kullanılması gerektiğini açıklar.<br/> Beyaz alan, herhangi bir tasarım içermeyen, fiziksel olarak boş alanları ifade eder. Bu alanlar, tasarımcılar tarafından sıklıkla göz ardı edilebilen ancak birçok önemli amaca hizmet eden ögelerdir."
+        "Aciklama": "Zıtlık; renk, boyut, doku veya aralıktaki farklılıkları kullanarak dikkatin öncelikli unsurlara yönlendirilmesini ifade eder.<br/>Denge, tüm tasarım ögelerinin tasarım boyunca eşit şekilde dağıtılmasıyla ortaya çıkar (Resnick, 2003).<br/>Vurgu, bir tasarımın belirli bölümlerinin diğer ögelerle karşılaştırıldığında öne çıkmasını ifade eder.<br/>Tasarımda hiyerarşi, öğelerin önem düzeylerine göre düzenlenmesini ifade eder.<br/>Bütünlük, tasarım ögelerinin ve ilkelerinin birliğini ifade eder; yani, bu öğelerin doğru zamanda ve doğru ölçülerde nasıl kullanılması gerektiğini açıklar.<br/>Beyaz alan, herhangi bir tasarım içermeyen, fiziksel olarak boş alanları ifade eder. Bu alanlar, tasarımcılar tarafından sıklıkla göz ardı edilebilen ancak birçok önemli amaca hizmet eden ögelerdir."
     },
     {
         "SoruID": 3863638,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru seçenek, doğrudan metinden alıntılanan şu ifadelere dayanmaktadır: “Etkileşimli ögeler, öğrenenlerin ilgisini çeker ve onların içeriğe odaklanmalarını ve keşfetmelerine olanak tanır. Ayrıca, öğrenen katılımını artırır ve problem çözme becerilerini geliştirmelerine yardımcı olur.”.  Üretim maliyetlerinin azaltılması görsel senaryo taslağına aittir. Tüm dijital ortamlarda çalışabilirliğinin test edilmesi ve anlatım tutarlılığının kontrol edilmesi düzenleme ve iyileştirme adımları ile ilişkilidir. Doğru yazı tiplerinin, renk ve aralıklarının seçimi ise tasarım adımına aittir."
+        "Aciklama": "Doğru seçenek, doğrudan metinden alıntılanan şu ifadelere dayanmaktadır: “Etkileşimli ögeler, öğrenenlerin ilgisini çeker ve onların içeriğe odaklanmalarını ve keşfetmelerine olanak tanır. Ayrıca, öğrenen katılımını artırır ve problem çözme becerilerini geliştirmelerine yardımcı olur.”. Üretim maliyetlerinin azaltılması görsel senaryo taslağına aittir. Tüm dijital ortamlarda çalışabilirliğinin test edilmesi ve anlatım tutarlılığının kontrol edilmesi düzenleme ve iyileştirme adımları ile ilişkilidir. Doğru yazı tiplerinin, renk ve aralıklarının seçimi ise tasarım adımına aittir."
     },
     {
         "SoruID": 3863640,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: 'Times New Roman',serif;\">Adobe Photoshop, Adobe Illustrator, Canva, Prezi ve Photoscape görsel oluşturma uygulamaları arasında gösterilmiştir. Bu uygulamalar dışında görsel oluşturmak için çeşitli araçlar da kullanılabilir. Bunlar; Gimp, Piktochart, Easelly, Fotor, Inscape ve Venngage şeklinde sıralanabilir. Camtasia Studio uygulaması ise </span><span style=\"font-family: 'Times New Roman',serif; color: #221e1f;\">hem ekran kaydı videolar hazırlamak için hem de videoları dü­zenlemek için kullanılan bir araç olup video oluşturma ve düzenleme başlığı altında incelenmiştir.  </span>"
+        "Aciklama": "<span style=\"font-family: 'Times New Roman',serif;\">Adobe Photoshop, Adobe Illustrator, Canva, Prezi ve Photoscape görsel oluşturma uygulamaları arasında gösterilmiştir. Bu uygulamalar dışında görsel oluşturmak için çeşitli araçlar da kullanılabilir. Bunlar; Gimp, Piktochart, Easelly, Fotor, Inscape ve Venngage şeklinde sıralanabilir. Camtasia Studio uygulaması ise </span><span style=\"font-family: 'Times New Roman',serif; color: #221e1f;\">hem ekran kaydı videolar hazırlamak için hem de videoları dü­zenlemek için kullanılan bir araç olup video oluşturma ve düzenleme başlığı altında incelenmiştir. </span>"
     }
 ]

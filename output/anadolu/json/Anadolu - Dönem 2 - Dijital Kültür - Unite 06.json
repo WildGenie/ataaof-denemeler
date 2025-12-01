@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Siirt Başur Höyük’te yapılan arkeolojik kazılarda."
+        "Aciklama": "<br/>OYUN NEDİR?<br>Siirt Başur Höyük’te yapılan arkeolojik kazılarda."
     },
     {
         "SoruID": 3768984,
@@ -37,11 +37,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1972"
+        "Aciklama": "137<br/>DİJİTAL OYUNLAR<br>1972"
     },
     {
         "SoruID": 3768985,
-        "SoruMetni": "Aşağıdaki ifade, Janet H. Murray’e göre dijital medyaya özgü temel özelliklerden hangisini tanımlar?<br/> “Dijital teknolojinin en önemli niteliklerinin başında doğrudan interaktif geri besleme olanağı sunması gelir. Dijital sistemler kullanıcının girdilerine dinamik şekilde, eş zamanlı tepki verirler.”",
+        "SoruMetni": "Aşağıdaki ifade, Janet H. Murray’e göre dijital medyaya özgü temel özelliklerden hangisini tanımlar?<br/>“Dijital teknolojinin en önemli niteliklerinin başında doğrudan interaktif geri besleme olanağı sunması gelir. Dijital sistemler kullanıcının girdilerine dinamik şekilde, eş zamanlı tepki verirler.”",
         "A": "Uzamsallık",
         "B": "Prosedürellik",
         "C": "Katılım",
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Katılım"
+        "Aciklama": "<br/>Dijital Medya ve Oyun<br>Katılım"
     },
     {
         "SoruID": 3768986,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyuncular, kurallarla sınırları belirlenen yönergeleri izleyerek oyunda adım adım ilerler."
+        "Aciklama": "Dijital Medya ve Oyun<br>Oyuncular, kurallarla sınırları belirlenen yönergeleri izleyerek oyunda adım adım ilerler."
     },
     {
         "SoruID": 3768987,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çin"
+        "Aciklama": "<br/>Dijital Medya ve Oyun<br>Çin"
     },
     {
         "SoruID": 3768988,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Başaranlar"
+        "Aciklama": "Oyuncu Tipleri<br>Başaranlar"
     },
     {
         "SoruID": 3768989,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ayiti: The Cost of Life"
+        "Aciklama": "Ciddi Oyunlar<br>Ayiti: The Cost of Life"
     },
     {
         "SoruID": 3768991,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Arttırılmış Gerçeklik"
+        "Aciklama": "Ciddi Oyunlar<br>Arttırılmış Gerçeklik"
     },
     {
         "SoruID": 3768992,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Güney Kore"
+        "Aciklama": "E-Sporlar<br>Güney Kore"
     },
     {
         "SoruID": 3769279,
@@ -220,6 +220,26 @@
         "Aciklama": "Donanım ve yazılım katmanlarından oluşan bilgi işleme sistemleri platform adı verilir."
     },
     {
+        "SoruID": 3769280,
+        "SoruMetni": "Türkçe'ye “Oyun Oynayan İnsan” olarak çevirebileceğimiz Homo Ludens adlı kitabının yazarı kimdir?",
+        "A": "Johan Huizinga",
+        "B": "Roger Caillois",
+        "C": "Eric Zimmerman",
+        "D": "Bernard Suits",
+        "E": "David Parlett",
+        "DogruCevap": "A",
+        "DersAd": "Dijital Kültür",
+        "Unite": 6,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:08.335147",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Hollandalı antropolog Johan Huizinga, 1938’de Türkçeye “Oyun Oynayan İnsan” olarak çevirebileceğimiz ve çağdaş oyun araştırmaları disiplininin temelini de oluşturan Homo Ludens adlı kitabını yayımlar."
+    },
+    {
         "SoruID": 3769283,
         "SoruMetni": "Aşağıdakilerden hangisi dama oyununun özelliklerinden değildir?",
         "A": "Dama tahtası 12x12 ölçülerinde siyah ve beyaz karelerden oluşur.",
@@ -237,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Taşların nasıl hareket edeceğini oyuncu kendi belirlemez."
+        "Aciklama": "Oyuncunun çabası: Oyuncu, taşların nasıl hareket edeceğini kendi belirlemektedir. Zar atma gibi şans faktörleri bu oyunda yoktur.<br>Taşların nasıl hareket edeceğini oyuncu kendi belirlemez."
     },
     {
         "SoruID": 3769290,
@@ -257,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Paskalya Yumurtası"
+        "Aciklama": "Paskalya Yumurtası (Easter Egg): Bir yazılımın, çoğunlukla da dijital oyunların içine gizlenmiş bir mesaj, imaj vb. ifade eder."
     },
     {
         "SoruID": 3769295,
@@ -297,11 +317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bernard Suits"
+        "Aciklama": "Bernard Suits’e göre oyun, gereksiz engellerin üstesinden gelmek için yürütülen gönüllü bir çabadır. B"
     },
     {
         "SoruID": 3769311,
-        "SoruMetni": "<em>Dijital ortamlar, içinde dolaşılabilen ve enformasyon saklanabilen sanal uzamlardır. Bu ortam içinde farklı kullanıcılar bir araya gelebilir ve iletişim kurabilirler.</em><br/><br/>Yukarıdaki tanım Janet H. Murray'in dijital medyaya ait hangi kavramını tarif etmektedir?",
+        "SoruMetni": "<em>Dijital ortamlar, içinde dolaşılabilen ve enformasyon saklanabilen sanal uzamlardır. Bu ortam içinde farklı kullanıcılar bir araya gelebilir ve iletişim kurabilirler.</em><br/>Yukarıdaki tanım Janet H. Murray'in dijital medyaya ait hangi kavramını tarif etmektedir?",
         "A": "Prosedürellik",
         "B": "Katılım",
         "C": "Uzamsallık",
@@ -317,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uzamsallık"
+        "Aciklama": "Uzamsallık: Dijital ortamlar, içinde dolaşılabilen ve enformasyon saklanabilen sanal uzamlardır. Bu ortam içinde farklı kullanıcılar bir araya gelebilir ve iletişim kurabilirler."
     },
     {
         "SoruID": 3769313,
-        "SoruMetni": "<em>Dijital teknolojinin en önemli niteliklerinin başında doğrudan interaktif geri besleme olanağı sunması gelir. Dijital sistemler kullanıcının girdilerine dinamik şekilde, eş zamanlı tepki verirler. </em><br/><br/><br/>Yukarıdaki tanım Janet H. Murray'in dijital medyaya ait hangi kavramını tarif etmektedir?",
+        "SoruMetni": "<em>Dijital teknolojinin en önemli niteliklerinin başında doğrudan interaktif geri besleme olanağı sunması gelir. Dijital sistemler kullanıcının girdilerine dinamik şekilde, eş zamanlı tepki verirler. </em><br/>Yukarıdaki tanım Janet H. Murray'in dijital medyaya ait hangi kavramını tarif etmektedir?",
         "A": "Prosedürellik",
         "B": "Uzamsallık",
         "C": "Ansiklopedik nitelik",
@@ -337,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Katılım"
+        "Aciklama": "Katılım: Dijital teknolojinin en önemli niteliklerinin başında doğrudan interaktif geri besleme olanağı sunması gelir. Dijital sistemler kullanıcının girdilerine dinamik şekilde, eş zamanlı tepki verirler."
     },
     {
         "SoruID": 3769316,
@@ -357,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanal düzlem"
+        "Aciklama": "Toplumun oyunlaşması sürecinin teknolojik yönlerinden birini simgeleyen arttırılmış gerçeklik uygulamaları sanal nesnelerin fiziki gerçeklikteki nesnelerle aynı uzamı paylaştığı bir sistemi ifade eder. Arttırılmış gerçeklik üç temel nitelik ile tanımlanır: gerçek ve sanal objeler (1) gerçek bir uzamda, (2) gerçek zamanlı olarak (3) etkileşime girerler.<br>Sanal düzlem"
     },
     {
         "SoruID": 3769320,
@@ -377,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ciddi oyunlar"
+        "Aciklama": "Oyunlaştırma süreci ile de ilişkilendirilen ciddi oyunlar, hizmet odaklı organizasyonel oyunlaştırmadan farklı olarak oyunsal özelliklerin bir başka bağlama uygulanmasından ziyade, oyunların spesifik bir amaca hizmet edecek şekilde kullanılmasını ifade eder."
     },
     {
         "SoruID": 3769401,
@@ -397,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Donanım ve yazılım katmanlarından oluşan bilgi işleme sistemlerine Platform denir. Platform araştırmaları perspektifine göre bu katmanlar arasındaki etkileşimler sadece teknolojik değil, aynı zamanda sosyokültürel sonuçlar da doğurur. Örneğin oyuncuların beden hareketleri ile kontrol ettikleri Wii gibi oyun konsolları 2000’li yılların ortasında toplumda var olan antisosyal oyuncu algısının değişimine katkı sağlamıştır."
+        "Aciklama": "DİJİTAL OYUNLAR<br>Donanım ve yazılım katmanlarından oluşan bilgi işleme sistemlerine Platform denir. Platform araştırmaları perspektifine göre bu katmanlar arasındaki etkileşimler sadece teknolojik değil, aynı zamanda sosyokültürel sonuçlar da doğurur. Örneğin oyuncuların beden hareketleri ile kontrol ettikleri Wii gibi oyun konsolları 2000’li yılların ortasında toplumda var olan antisosyal oyuncu algısının değişimine katkı sağlamıştır."
     },
     {
         "SoruID": 3769402,
@@ -417,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital oyunların, oyuncuların ve dijital oyun- lar etrafında gelişen kültürün homojen bir yapısı yoktur. Oyun konsolları, mobil cihazlar, bilgisayarlar veya bunlara bağlı sanal gerçeklik donanımları ile tek başına, bir grup hâlinde veya devasa toplulukların bir parçası olarak oyun oynamak arasında platform, platformun ifade olanakları, estetiği ve dili, oyuncu profilleri ve toplulukları, iş modeli gibi pek çok alanda önemli farklar vardır. Benzer olarak Türkiye’deki oyun kültürünü, söz gelimi ABD’deki oyun kültüründen ya da Güney Kore’deki oyun kültüründen ayıran derin toplumsal farklar mevcuttur. Oyun kültürü çeşitlilik içerir, karmaşık süreçlerden oluşur ve sürekli bir devinim ve dönüşüm içindedir. Tam da bu nedenlerle tekil bir dijital oyun kültüründen söz edilemez. Ancak oyun pratiklerinin, deneyimlerinin kurumsallaşması olarak ifade edilebilecek, giderek gelişen ve pekişen, toplumsal süreçlere etki eden ve çağdaş toplumsal süreçleri anlamak üzere bize bir kavramsal çerçeve sağlayacak şekilde devamlılık gösteren bir dijital oyun kültüründen söz etmek mümkündür."
+        "Aciklama": "DİJİTAL OYUNLAR<br>Dijital oyunların, oyuncuların ve dijital oyun- lar etrafında gelişen kültürün homojen bir yapısı yoktur. Oyun konsolları, mobil cihazlar, bilgisayarlar veya bunlara bağlı sanal gerçeklik donanımları ile tek başına, bir grup hâlinde veya devasa toplulukların bir parçası olarak oyun oynamak arasında platform, platformun ifade olanakları, estetiği ve dili, oyuncu profilleri ve toplulukları, iş modeli gibi pek çok alanda önemli farklar vardır. Benzer olarak Türkiye’deki oyun kültürünü, söz gelimi ABD’deki oyun kültüründen ya da Güney Kore’deki oyun kültüründen ayıran derin toplumsal farklar mevcuttur. Oyun kültürü çeşitlilik içerir, karmaşık süreçlerden oluşur ve sürekli bir devinim ve dönüşüm içindedir. Tam da bu nedenlerle tekil bir dijital oyun kültüründen söz edilemez. Ancak oyun pratiklerinin, deneyimlerinin kurumsallaşması olarak ifade edilebilecek, giderek gelişen ve pekişen, toplumsal süreçlere etki eden ve çağdaş toplumsal süreçleri anlamak üzere bize bir kavramsal çerçeve sağlayacak şekilde devamlılık gösteren bir dijital oyun kültüründen söz etmek mümkündür."
     },
     {
         "SoruID": 3769403,
@@ -437,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Siirt Başur Höyük’te yapılan arkeolojik kazılarda ortaya çıkarılan ve günümüzden 5000 yıl öncesine tarihlenen oyun taşları tarihin bilinen en eski oyun setine aittir."
+        "Aciklama": "DİJİTAL OYUNLAR<br>Siirt Başur Höyük’te yapılan arkeolojik kazılarda ortaya çıkarılan ve günümüzden 5000 yıl öncesine tarihlenen oyun taşları tarihin bilinen en eski oyun setine aittir."
     },
     {
         "SoruID": 3769404,
@@ -457,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hollandalı antropolog Johan Huizinga, 1938’de Türkçeye “Oyun Oynayan İnsan” olarak çevirebileceğimiz ve çağdaş oyun araştırmaları disiplininin temelini de oluşturan Homo Ludens adlı kitabını yayımladı. Tarih boyunca iş ve diğer “ciddi” etkinliklere göre değersizleştirilen oyunların ve oyun oynama etkinliğinin kültür içindeki değerini ve önemini ortaya koymayı amaçlayan Huizinga oyunu, “özgürce razı olunan, ama tamamen emredici kurallara uygun olarak belirli zaman ve mekân sınırları içinde gerçekleştirilen, bizatihi bir amaca sahip olan, bir gerilim ve sevinç duygusu ile \"alışılmış hayat’\"tan \"başka türlü olmak\" bilincinin eşlik ettiği, iradi bir eylem veya faaliyet” olarak tanımlamıştır."
+        "Aciklama": "OYUN NEDİR?<br>Hollandalı antropolog Johan Huizinga, 1938’de Türkçeye “Oyun Oynayan İnsan” olarak çevirebileceğimiz ve çağdaş oyun araştırmaları disiplininin temelini de oluşturan Homo Ludens adlı kitabını yayımladı. Tarih boyunca iş ve diğer “ciddi” etkinliklere göre değersizleştirilen oyunların ve oyun oynama etkinliğinin kültür içindeki değerini ve önemini ortaya koymayı amaçlayan Huizinga oyunu, “özgürce razı olunan, ama tamamen emredici kurallara uygun olarak belirli zaman ve mekân sınırları içinde gerçekleştirilen, bizatihi bir amaca sahip olan, bir gerilim ve sevinç duygusu ile \"alışılmış hayat’\"tan \"başka türlü olmak\" bilincinin eşlik ettiği, iradi bir eylem veya faaliyet” olarak tanımlamıştır."
     },
     {
         "SoruID": 3769405,
@@ -477,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "20. yüzyılın ikinci yarısında Huizinga’nın oyun tanımını ve sihirli çember yaklaşımını başlangıç noktası olarak alan bir dizi çalışma, oyunlara yönelik yeni tanım ve kriterler ortaya koymuştur. 1960’larda Fransız sosyolog Roger Caillois oyun ve oynama deneyimleri arasındaki farka dikkat çeker. Buna göre oynamak, her zaman bir oyunun oynanması anlamına gelmeyebilir. Bu ayrım, her iki kavramın farklı sözcüklerle ifade edildiği dillerde çok daha belirgindir. Örneğin İngilizcede oyun game sözcüğü ile ifade edilirken oynamak için play sözcüğü kullanılır. Caillois ise bu ayrımı ortaya koymak için ludus ve paidia kavramlarını önerir. Ludus, önceden belirlenmiş kurallar ve hedeflerle yapılandırılmış bir oyun deneyimini ifade eder. Paidia ise oyuncunun şekillendirdiği, önceden yapılandırılmamış, özgürce hareket edilebilen serbest oynama deneyimlerini ifade eder."
+        "Aciklama": "<br/>OYUN NEDİR?<br>20. yüzyılın ikinci yarısında Huizinga’nın oyun tanımını ve sihirli çember yaklaşımını başlangıç noktası olarak alan bir dizi çalışma, oyunlara yönelik yeni tanım ve kriterler ortaya koymuştur. 1960’larda Fransız sosyolog Roger Caillois oyun ve oynama deneyimleri arasındaki farka dikkat çeker. Buna göre oynamak, her zaman bir oyunun oynanması anlamına gelmeyebilir. Bu ayrım, her iki kavramın farklı sözcüklerle ifade edildiği dillerde çok daha belirgindir. Örneğin İngilizcede oyun game sözcüğü ile ifade edilirken oynamak için play sözcüğü kullanılır. Caillois ise bu ayrımı ortaya koymak için ludus ve paidia kavramlarını önerir. Ludus, önceden belirlenmiş kurallar ve hedeflerle yapılandırılmış bir oyun deneyimini ifade eder. Paidia ise oyuncunun şekillendirdiği, önceden yapılandırılmamış, özgürce hareket edilebilen serbest oynama deneyimlerini ifade eder."
     },
     {
         "SoruID": 3769406,
@@ -497,7 +517,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ludus, önceden belirlenmiş kurallar ve hedeflerle yapılandırılmış bir oyun deneyimini ifade eder. Paidia ise oyuncunun şekillendirdiği, önceden yapılandırılmamış, özgürce hareket edilebilen serbest oynama deneyimlerini ifade eder."
+        "Aciklama": "OYUN NEDİR?<br>Ludus, önceden belirlenmiş kurallar ve hedeflerle yapılandırılmış bir oyun deneyimini ifade eder. Paidia ise oyuncunun şekillendirdiği, önceden yapılandırılmamış, özgürce hareket edilebilen serbest oynama deneyimlerini ifade eder."
+    },
+    {
+        "SoruID": 3769407,
+        "SoruMetni": "Aşağıda \"Oyun\" için söylenenlerden hangisi doğru <strong>değildir?</strong>",
+        "A": "Oyunların, oyuncuları sınırlandıran kuralları vardır.",
+        "B": "Kuralsız oyun olmaz. Ancak kuralların ihlal edilmesi oyunu ortadan kaldırmaz.",
+        "C": "Oyunlar bir tür rekabet veya çatışma içerir.",
+        "D": "Oyunlar bir tür aktivite, süreç ya da etkinlik içerir.",
+        "E": "Oyunlar karar verme süreçleri içerir.",
+        "DogruCevap": "B",
+        "DersAd": "Dijital Kültür",
+        "Unite": 6,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:08.379370",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "OYUN NEDİR?<br>Oyunların, oyuncuları sınırlandıran kuralları vardır. Kuralsız oyun olmaz. Kuralların ihlal edilmesi oyunu ortadan kaldırır."
     },
     {
         "SoruID": 3769408,
@@ -517,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Salen Tekinbaş ve Zimmerman (2004) oyun kavramına ilişkin kendi geliştirdikleri tanımı şöyle ifade ederler: “Bir oyun, oyuncuların, kurallarla tanımlanmış yapay bir çatışmaya girdiği ve ölçülebilir sonuçlar ortaya koyan bir sistemdir”. Salen Tekinbaş ve Zimmerman’ın yaklaşımında sistem kavramı oyun tanımının temelinde yer alır. Oyuncular, oyunun oynanışını deneyimlemek üzere bu sistemle etkileşime girerler. Oyunun belli bir zamanı ve mekânı vardır ve yapay sınırlarla gerçek yaşamdan ayrılır."
+        "Aciklama": "OYUN NEDİR?<br>Salen Tekinbaş ve Zimmerman (2004) oyun kavramına ilişkin kendi geliştirdikleri tanımı şöyle ifade ederler: “Bir oyun, oyuncuların, kurallarla tanımlanmış yapay bir çatışmaya girdiği ve ölçülebilir sonuçlar ortaya koyan bir sistemdir”. Salen Tekinbaş ve Zimmerman’ın yaklaşımında sistem kavramı oyun tanımının temelinde yer alır. Oyuncular, oyunun oynanışını deneyimlemek üzere bu sistemle etkileşime girerler. Oyunun belli bir zamanı ve mekânı vardır ve yapay sınırlarla gerçek yaşamdan ayrılır."
     },
     {
         "SoruID": 3769409,
@@ -537,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Juul oyun kavramını şöyle tanımlar: “Oyun, değişken ve ölçülebilir bir sonucu olan, farklı sonuçlara farklı değerlerin atandığı, oyuncunun sonucu etkilemek için çaba sarf ettiği, oyuncunun sonuca duygusal olarak bağlı hissettiği ve etkinliğin sonuçlarının pazarlık edilebilir olduğu kural tabanlı bir sistemdir”. Juul’un ortaya koyduğu tanımın temel unsurlarını şöyle açıklamak mümkündür. Oyunlar kural tabanlıdır. Oyunların değişkenleri ve ölçülebilir sonuçları vardır. Oyunun farklı sonuçlarına farklı değerler atanır. Bu değerlerin bazıları pozitif, bazıları ise negatif niteliktedir. Oyun, sonucu etkileyebilmek için çaba sarf eder. Oyuncu, oyunun sonucuna duygusal olarak bağlıdır. Bir diğer deyişle, olumlu bir sonuç elde etmesi hâlinde mutlu olacak, olumsuz bir sonuç elde etmesi hâlinde ise mutsuz olacaktır."
+        "Aciklama": "OYUN NEDİR?<br>Juul oyun kavramını şöyle tanımlar: “Oyun, değişken ve ölçülebilir bir sonucu olan, farklı sonuçlara farklı değerlerin atandığı, oyuncunun sonucu etkilemek için çaba sarf ettiği, oyuncunun sonuca duygusal olarak bağlı hissettiği ve etkinliğin sonuçlarının pazarlık edilebilir olduğu kural tabanlı bir sistemdir”. Juul’un ortaya koyduğu tanımın temel unsurlarını şöyle açıklamak mümkündür. Oyunlar kural tabanlıdır. Oyunların değişkenleri ve ölçülebilir sonuçları vardır. Oyunun farklı sonuçlarına farklı değerler atanır. Bu değerlerin bazıları pozitif, bazıları ise negatif niteliktedir. Oyun, sonucu etkileyebilmek için çaba sarf eder. Oyuncu, oyunun sonucuna duygusal olarak bağlıdır. Bir diğer deyişle, olumlu bir sonuç elde etmesi hâlinde mutlu olacak, olumsuz bir sonuç elde etmesi hâlinde ise mutsuz olacaktır."
     },
     {
         "SoruID": 3769410,
@@ -557,11 +597,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Janet H. Murray dijital medyanın ve spesifik olarak interaktif anlatı ortamları olarak dijital oyunların ifade olanaklarını tartıştığı Hamlet on the Holodeck adlı kitabında dijital medyaya özgü dört temel özellikten söz eder. Bunlar sırasıyla; prosedürellik, katılım, ansiklopedik nitelik ve uzamsallık kavramlarıdır."
+        "Aciklama": "DİJİTAL OYUNLAR<br>Janet H. Murray dijital medyanın ve spesifik olarak interaktif anlatı ortamları olarak dijital oyunların ifade olanaklarını tartıştığı Hamlet on the Holodeck adlı kitabında dijital medyaya özgü dört temel özellikten söz eder. Bunlar sırasıyla; prosedürellik, katılım, ansiklopedik nitelik ve uzamsallık kavramlarıdır."
     },
     {
         "SoruID": 3769411,
-        "SoruMetni": "Dijital oyunlar aşağıdaki alanlardan hangisiyle ilgili göz ardı edilemeyecek bir aktör değildir ?",
+        "SoruMetni": "Dijital oyunlar aşağıdaki alanlardan hangisiyle ilgili göz ardı edilemeyecek bir aktör değildir ?",
         "A": "Sanat",
         "B": "Ticaret",
         "C": "Politika",
@@ -601,7 +641,7 @@
     },
     {
         "SoruID": 3769423,
-        "SoruMetni": "I. Mısır'da Senet oyunu<br/> II. İran'da Tavla oyunu<br/> III. Çin'de Satranç oyunu<br/> IV. Hindistan'da Go oyunu<br/> Yukarıdaki eşleşmelereden hangileri doğrudur ?",
+        "SoruMetni": "I. Mısır'da Senet oyunu<br/>II. İran'da Tavla oyunu<br/>III. Çin'de Satranç oyunu<br/>IV. Hindistan'da Go oyunu<br/>Yukarıdaki eşleşmelereden hangileri doğrudur ?",
         "A": "I. ve II.",
         "B": "I., II. ve III.",
         "C": "I., II. ve IV",
@@ -661,7 +701,7 @@
     },
     {
         "SoruID": 3769426,
-        "SoruMetni": "İnternet üzerinden iki kişi arasında oynanan aşağıdaki oyunlardan hangisi bir ortamdan diğerine doğrudan aktarılabilir?",
+        "SoruMetni": "İnternet üzerinden iki kişi arasında oynanan aşağıdaki oyunlardan hangisi bir ortamdan diğerine doğrudan aktarılabilir?",
         "A": "Basketbol.",
         "B": "Tenis.",
         "C": "Voleybol.",
@@ -761,7 +801,7 @@
     },
     {
         "SoruID": 3769451,
-        "SoruMetni": "Aşağıdakilerden hangisi, <em>Homa Ludens </em>adlı kitabın yazarı ve çağdaş oyun araştırmaları disiplininin temelini oluşturan antropologdur?",
+        "SoruMetni": "Aşağıdakilerden hangisi, <em>Homa Ludens </em>adlı kitabın yazarı ve çağdaş oyun araştırmaları disiplininin temelini oluşturan antropologdur?",
         "A": "Johan Huizinga",
         "B": "Roger Caillois",
         "C": "Eliot Avedon",
@@ -797,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span>Minecraft, Creative Mode, The Sims ve LEGO oyuncakları ile oynama deneyimi gibi açık uçlu, oyun deneyimini sonlandıracak net bir kazanma ya da kaybetme du­rumu olmayan oyunlar Paidia için birer örnek oluş­turabilir. </span>Dolayısıyla, doğru cevap: C"
+        "Aciklama": "<span>Minecraft, Creative Mode, The Sims ve LEGO oyuncakları ile oynama deneyimi gibi açık uçlu, oyun deneyimini sonlandıracak net bir kazanma ya da kaybetme du­rumu olmayan oyunlar Paidia için birer örnek oluş­turabilir. </span>Dolayısıyla, doğru cevap: C"
     },
     {
         "SoruID": 3769453,
@@ -817,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Juul’a göre; Oyunlar kural tabanlıdır.  Oyun, sonucu etkileyebilmek için çaba sarf eder. Oyucu oyunun sonucuna duygusal olarak bağlıdır. Ayrıca, oyunun sonuçları gerçek dünyaya aktarabilir. Dolayısıyla, doğru cevap: B"
+        "Aciklama": "Juul’a göre; Oyunlar kural tabanlıdır. Oyun, sonucu etkileyebilmek için çaba sarf eder. Oyucu oyunun sonucuna duygusal olarak bağlıdır. Ayrıca, oyunun sonuçları gerçek dünyaya aktarabilir. Dolayısıyla, doğru cevap: B"
     },
     {
         "SoruID": 3769454,
@@ -832,12 +872,32 @@
         "Unite": 6,
         "Somestre": "2",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:21:06.942782",
+        "OlusturmaTarihi": "2025-12-01T04:16:15.561033",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Janet H. Murray’in dijital medyaya özgü söz ettiği dört temel özellik: Prosedürellik katılım, ansiklopedik nitelik ve uzamsallıktır. Dolayısıyla, doğru cevap: E"
+    },
+    {
+        "SoruID": 3769455,
+        "SoruMetni": "Dijital ortamlar,içinde dolaşılabilen ve enformasyon saklanabilen ……………………. uzamlardır.<br/>Yukarıdaki cümleyi aşağıdaki kavramlardan hangisi <u><strong>en doğru</strong> </u>şekilde tamamlar.",
+        "A": "Modifiye",
+        "B": "Sanal",
+        "C": "Bağımsız",
+        "D": "Bellek",
+        "E": "Sunucu",
+        "DogruCevap": "B",
+        "DersAd": "Dijital Kültür",
+        "Unite": 6,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:08.387696",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Dijitalortamlar,içindedolaşılabilen ve enformasyon saklanabilen sanal uzamlardır. Dolayısıyla, doğru cevap: B"
     },
     {
         "SoruID": 3769456,
@@ -861,7 +921,7 @@
     },
     {
         "SoruID": 3769460,
-        "SoruMetni": "Aşağıdakilerden hangisi, oyunları diğer oyuncularla sosyalleşebilecekleri                 ortamlar olarak değerlendirirler?",
+        "SoruMetni": "Aşağıdakilerden hangisi, oyunları diğer oyuncularla sosyalleşebilecekleri ortamlar olarak değerlendirirler?",
         "A": "Sosyalleşenler",
         "B": "Başaranlar",
         "C": "Kaşifler",
@@ -877,11 +937,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "‘Sosyalleşenler,’ oyunları diğer oyuncularla sosyalleşebilecekleri                 ortamlar olarak değerlendirirler.  Dolayısıyla, doğru cevap: A"
+        "Aciklama": "‘Sosyalleşenler,’ oyunları diğer oyuncularla sosyalleşebilecekleri ortamlar olarak değerlendirirler. Dolayısıyla, doğru cevap: A"
     },
     {
         "SoruID": 3769461,
-        "SoruMetni": "Aşağıdaki terimlerden  hangisi, çoğunlukla dijital oyunların içine gizlenmiş bir mesaj, imaj vb. ifade eder?",
+        "SoruMetni": "Aşağıdaki terimlerden hangisi, çoğunlukla dijital oyunların içine gizlenmiş bir mesaj, imaj vb. ifade eder?",
         "A": "Sürpriz yumurta",
         "B": "Adventure",
         "C": "Paskalya yumurtası",
@@ -897,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "‘Paskalya yumurtası,’  çoğunlukla dijital oyunların içine gizlenmiş bir mesaj, imaj vb .ifade eder. Dolayısıyla, doğru cevap: C"
+        "Aciklama": "‘Paskalya yumurtası,’ çoğunlukla dijital oyunların içine gizlenmiş bir mesaj, imaj vb .ifade eder. Dolayısıyla, doğru cevap: C"
     },
     {
         "SoruID": 3769463,
@@ -917,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyunlaştırma, gündelik yaşamda digital oyun mantığının ve mekaniklerinin, ekonomiden çalışma yaşamına, eğitimden sağlığa, tüketime ve sosyal ilişkilere farklı bağlamlarda da deneyimlenmesini sürecini ifade eder.  Dolayısıyla, doğru cevap: E"
+        "Aciklama": "Oyunlaştırma, gündelik yaşamda digital oyun mantığının ve mekaniklerinin, ekonomiden çalışma yaşamına, eğitimden sağlığa, tüketime ve sosyal ilişkilere farklı bağlamlarda da deneyimlenmesini sürecini ifade eder. Dolayısıyla, doğru cevap: E"
     },
     {
         "SoruID": 3769465,
@@ -937,7 +997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanal ve gerçek nesnelerin bir araya geldiği dijital uzam ve fiziki uzam arasında melez bir ortam oluşturulması sürecini ‘arttırılmış gerçeklik’ terimi ifade eder. Dolayısıyla, doğru cevap: C"
+        "Aciklama": "Sanal ve gerçek nesnelerin bir araya geldiği dijital uzam ve fiziki uzam arasında melez bir ortam oluşturulması sürecini ‘arttırılmış gerçeklik’ terimi ifade eder. Dolayısıyla, doğru cevap: C"
     },
     {
         "SoruID": 3769471,

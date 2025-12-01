@@ -8,7 +8,8 @@
     - **Cevap D-) Satıcının kişiliği**
     - E-) Özgün Değeri
 
-    > **Açıklama:** Satıcının kişiliği
+    > **Açıklama:** DEĞERLENDİRME, YORUM VE ELEŞTİRİ
+    > Satıcının kişiliği
 
     ***
 1. Bir insanı, bir eseri, bir konuyu doğru ve yanlış yanlarını bulup göstermek amacıyla yapılan bilimsel değerlendirme ve inceleme yöntemi aşağıdakilerden hangisidir?
@@ -28,7 +29,8 @@
     - D-) Kant
     - E-) Hegel
 
-    > **Açıklama:** Platon
+    > **Açıklama:** Eleştiri Tarihi
+    > Platon
 
     ***
 1. Televizyon, sinema, bilgisayar ve taşınabilir video, film ve televizyon izlenebilen bilgi iletişim araçlarından oluşan medya türü aşağıdakilerden hangisidir?
@@ -38,7 +40,8 @@
     - D-) Yeni Medya
     - E-) Yazılı Medya
 
-    > **Açıklama:** Görsel Medya
+    > **Açıklama:** Medya eleştirisi
+    > Görsel Medya
 
     ***
 1. Toplumcu gerçekçilik kuramının temellerini atan ilk kişi aşağıdakilerden hangisidir?
@@ -48,7 +51,8 @@
     - D-) Emile Zola
     - E-) Kant
 
-    > **Açıklama:** Karl Marx
+    > **Açıklama:** Toplumsal Gerçekçilik Kuramı
+    > Karl Marx
 
     ***
 1. Marksist estetiğin ve Toplumcu Gerçekçilik Kuramının temsilcilerinden biri olan Lukacs kuramını aşağıdaki hangi alanlarla temellendirir?
@@ -58,7 +62,8 @@
     - D-) Mistisizm ve Ahlak
     - E-) Mimesis ve Katharsis
 
-    > **Açıklama:** Gerçekçilik ve Doğalcılık
+    > **Açıklama:** Toplumsal Gerçekçilik Kuramı
+    > Gerçekçilik ve Doğalcılık
 
     ***
 1. Sanatı “duygunun dile getirilmesi” olarak tanımlayan ve Romantizm sanat anlayışını ilk defa sistemli bir estetik kuram hâline getiren kişi aşağıdakilerden hangisidir?
@@ -68,7 +73,8 @@
     - D-) Karl Marx
     - **Cevap E-) Eugene Veron**
 
-    > **Açıklama:** Eugene Veron
+    > **Açıklama:** Sanatçıya Dönük Eleştiri: Anlatımcılık Kuramları, Romantizm
+    > Eugene Veron
 
     ***
 1. Hazzın mutlak anlamda iyi olduğunu, insan eylemlerinin nihai anamda haz sağlayacak bir biçimde planlanması gerektiğini, sürekli haz verene yönelmenin en uygun davranış biçimi olduğunu savunan felsefi görüş aşağıdakilerden hangisidir?
@@ -81,17 +87,17 @@
     > **Açıklama:** Hedonizm
 
     ***
-1. 1930’larda temel yönelimi sanat eserinin kendisine yönelerek inceleme ve yorumlama olan Amerika’da benimsenen,  I.A.Richards ve T.S.Eliot tarafından ortaya atılan kuram aşağıdakilerden hangisidir?
+1. 1930’larda temel yönelimi sanat eserinin kendisine yönelerek inceleme ve yorumlama olan Amerika’da benimsenen, I.A.Richards ve T.S.Eliot tarafından ortaya atılan kuram aşağıdakilerden hangisidir?
     - **Cevap A-) Biçimcilik**
     - B-) Realizm
     - C-) Toplumsal Gerçekçilik
     - D-) Rasyonalizm
     - E-) Kübizm
 
-    > **Açıklama:** Biçimcilik
+    > **Açıklama:** Sanat Eserine Dönük Eleştiri: Biçimcilik ve Yapısalcılık Kuramları
 
     ***
-1. *Balzac, Flaubert ve Emile Zola kuramın en önemli temsilcileridir. Yazarlar ve sanatçıların sanatın gerçekliği bütün çıplaklığıyla en iyi şekilde yansıtması anlayışından dolayı eserlerinde aşırı gerçekçi – detaylı tasvirler hâkimdir. Eserlerde toplumun gerçeği iyi, kötü, çirkin, ayıp, günah, suç sınırlamaları olmaksızın “yaşanan gerçeklik” anlatılır  veya yansıtılır.*<br />Yukarıdaki verilen paragraftaki bilgiler aşağıdaki hangi kuramı açıklamaktadır?
+1. *Balzac, Flaubert ve Emile Zola kuramın en önemli temsilcileridir. Yazarlar ve sanatçıların sanatın gerçekliği bütün çıplaklığıyla en iyi şekilde yansıtması anlayışından dolayı eserlerinde aşırı gerçekçi – detaylı tasvirler hâkimdir. Eserlerde toplumun gerçeği iyi, kötü, çirkin, ayıp, günah, suç sınırlamaları olmaksızın “yaşanan gerçeklik” anlatılır veya yansıtılır.*<br />Yukarıdaki verilen paragraftaki bilgiler aşağıdaki hangi kuramı açıklamaktadır?
     - **Cevap A-) Batı Gerçekçiliği Kuramı**
     - B-) Rasyonalizm
     - C-) Realizm
@@ -120,7 +126,7 @@
     - E-) Anlama
 
     > **Açıklama:** Başarılı bir yapıtı değerli bir yapıttan ayırabilmek için, değerlendirmede üçüncü bir adım atmak
-    > gereklidir. Bu bir yapıtın **önemini**; böyle bir yapıtın yaratılmasının insan için, dünyamız için anlamının ne olduğunu göstermek; bu olanakların etik değerler bakımından anlamının ne olduğunu göstermektir. Şeylerin doğru ve gerçek değerinin saptanabilmesi için
+    > gereklidir. Bu bir yapıtın **önemini**; böyle bir yapıtın yaratılmasının insan için, dünyamız için anlamının ne olduğunu göstermek; bu olanakların etik değerler bakımından anlamının ne olduğunu göstermektir. Şeylerin doğru ve gerçek değerinin saptanabilmesi için
     > bilimsel – nesnel - objektif bir yaklaşımla üç aşamalı bir etkinlikten geçirmek kaçınılmazdır: İlk ve en önemli aşama “Tanıma - Anlama – Kavrama”, ikinci aşama “Yerini Belirleme” ve son aşama “**Önemi** – Getirisi – Özgün Değeri” olarak sıralanabilir.
 
     ***
@@ -138,10 +144,10 @@
     - A-) Sözlü eleştiri
     - B-) Yazılı eleştiri
     - C-) İnceleme eleştirisi
-    - **Cevap D-) Bilgilendirme eleştirisi**
-    - E-) Yargılama eleştirisi
+    - **Cevap D-) Bilgilendirme eleştirisi**
+    - E-) Yargılama eleştirisi
 
-    > **Açıklama:** Eleştiri bilimsel bir edinim, eylem; inceleme, saptama, değerlendirme yöntemi olarak ortaya konuluşunun icrası açısından **Sözlü Eleştiri** ve **Yazılı****Eleştiri** şeklinde ikiye ayırmak mümkündür. Ayrıca eleştiri bilimsel bir disiplin, alan, uğraş başka bir ifadeyle meslek olarak bakıldığında **İnceleme****Eleştiris**i ve ortaya çıkan sonuç açısından ise **Yargılama Eleştirisi** şeklinde eleştiri türleri olarak gruplandırılabilir.
+    > **Açıklama:** Eleştiri bilimsel bir edinim, eylem; inceleme, saptama, değerlendirme yöntemi olarak ortaya konuluşunun icrası açısından **Sözlü Eleştiri** ve **Yazılı** **Eleştiri** şeklinde ikiye ayırmak mümkündür. Ayrıca eleştiri bilimsel bir disiplin, alan, uğraş başka bir ifadeyle meslek olarak bakıldığında **İnceleme** **Eleştiris**i ve ortaya çıkan sonuç açısından ise **Yargılama Eleştirisi** şeklinde eleştiri türleri olarak gruplandırılabilir.
 
     ***
 1. Aristoteles’e göre ........., tutkularımızı tehlikeli bir alandan tehlikesiz bir alana aktarmak suretiyle insanları bu uç tutkulardan kurtarır, bu duyguları sanat aracılığıyla doyurur.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -171,10 +177,10 @@
     - D-) Batı Gerçekçiliği Kuramı
     - E-) Modern Yansıtma Kuramları
 
-    > **Açıklama:** **Toplumsal Gerçekçilik****Kuramı** ise “Sanat geleceğe dönük olmalı, sanatçı toplumun lokomotifidir, toplumun önündedir ve toplumu ileriye götürür.” fikrini savunur.
+    > **Açıklama:** **Toplumsal Gerçekçilik** **Kuramı** ise “Sanat geleceğe dönük olmalı, sanatçı toplumun lokomotifidir, toplumun önündedir ve toplumu ileriye götürür.” fikrini savunur.
 
     ***
-1. Aşağıda verilen hangi kuramın savunucuları gerçek sanat ile sözde sanatı birbirinden ayırmaya çalışmışlar ve sanatçı duygularını dile getirirken başkalarını düşünmez, kimseyi düşünmez görüşünü benimsemişlerdir?
+1. Aşağıda verilen hangi kuramın savunucuları gerçek sanat ile sözde sanatı birbirinden ayırmaya çalışmışlar ve sanatçı duygularını dile getirirken başkalarını düşünmez, kimseyi düşünmez görüşünü benimsemişlerdir?
     - A-) Richards’ın Öznelci Kuramı
     - B-) Estetik Yaşantı Kuramı
     - **Cevap C-) Yaratma Olarak Anlatımcılık Kuramı**
@@ -212,7 +218,8 @@
     - D-) Anlama
     - E-) Yargı
 
-    > **Açıklama:** Algı İng. perception: Bir şeye dikkati yönelterek, duyular yoluyla o şeyin bilincine varma. Bir nesne duyular aracılığıyla algılanır ancak algı duyusal izlenimlerden daha fazla bir şeydir, bilinçli bir farkına varmadır, duyumları bilince ileten bir olaydır.
+    > **Açıklama:** tanımlar, kavramlar
+    > Algı İng. perception: Bir şeye dikkati yönelterek, duyular yoluyla o şeyin bilincine varma. Bir nesne duyular aracılığıyla algılanır ancak algı duyusal izlenimlerden daha fazla bir şeydir, bilinçli bir farkına varmadır, duyumları bilince ileten bir olaydır.
 
     ***
 1. Bir öznenin-süjenin veya herhangi bir şeyin bilincine ve farkına varılmasını ya da onunla ilgili bilgilerin edinilmesini sağlayan süreç ve de şeylerin, olay ve varlıkların anlamını kavrayabilme bütününe ne ad verilir?
@@ -222,17 +229,19 @@
     - D-) Hissetme
     - **Cevap E-) Anlama**
 
-    > **Açıklama:** Anlama; bir öznenin-süjenin veya herhangi bir şeyin bilincine ve farkına varılmasını ya da onunla ilgili bilgilerin edinilmesini sağlayan süreç ve de şeylerin, olay ve varlıkların anlamını kavrayabilme bütünüdür.
+    > **Açıklama:** tanım ve kavramlar
+    > Anlama; bir öznenin-süjenin veya herhangi bir şeyin bilincine ve farkına varılmasını ya da onunla ilgili bilgilerin edinilmesini sağlayan süreç ve de şeylerin, olay ve varlıkların anlamını kavrayabilme bütünüdür.
 
     ***
-1. Değerlendirme yöntemi ya da bir şeyin değerini bulma-saptama olarak Değer Yakıştırma, Değer Biçme ve Doğru Değerlendirme şeklinde  üç yol olduğunu ifade eden felsefeci kimdir?
+1. Değerlendirme yöntemi ya da bir şeyin değerini bulma-saptama olarak Değer Yakıştırma, Değer Biçme ve Doğru Değerlendirme şeklinde üç yol olduğunu ifade eden felsefeci kimdir?
     - A-) Macit Gökberk
     - **Cevap B-) İoanna Kuçuradi**
     - C-) Rıza Tevfik Bölükbaşı
     - D-) Hasan Âli Yücel
     - E-) Afşar Timuçin
 
-    > **Açıklama:** Günlük hayatta bütün bireyler bilinçli ya da bilinçsiz bir şekilde karşılaştığı tüm şeyleri değerlendirmeye sokar. Değerlendirme yöntemi ya da bir şeyin değerini bulma-saptama olarak İoanna Kuçuradi üç yol olduğunu ifade eder: Değer Yakıştırma, Değer Biçme ve Doğru Değerlendirme.
+    > **Açıklama:** Değerlendirme tanımı, kapsamı
+    > Günlük hayatta bütün bireyler bilinçli ya da bilinçsiz bir şekilde karşılaştığı tüm şeyleri değerlendirmeye sokar. Değerlendirme yöntemi ya da bir şeyin değerini bulma-saptama olarak İoanna Kuçuradi üç yol olduğunu ifade eder: Değer Yakıştırma, Değer Biçme ve Doğru Değerlendirme.
 
     ***
 1. Değerinin bulunulmaya çalışıldığı şeyin dışında var olan, genel geçerlilik taşıyan bir bilgi, ölçüt ya da değer yargısı kullanılarak değerini bulma yöntemine ne ad verilir?
@@ -252,7 +261,8 @@
     - D-) Değerlendirme
     - E-) Tespit
 
-    > **Açıklama:** Eleştiri: 1. isim Bir insanı, bir eseri, bir konuyu doğru ve yanlış yanlarını bulup göstermek amacıyla inceleme işi, tenkit
+    > **Açıklama:** tanım ve kavramlar
+    > Eleştiri: 1. isim Bir insanı, bir eseri, bir konuyu doğru ve yanlış yanlarını bulup göstermek amacıyla inceleme işi, tenkit
 
     ***
 1. İdealar kuramında sanatı ‘mimesis’ kavramıyla açıklamaya çalışan ve yansımanın yansıması ya da taklidin taklidi olarak gerçekliğe ulaşmada ikincil bir yol olarak görerek küçümseyen düşünür aşağıdakilerden hangisidir?
@@ -262,7 +272,8 @@
     - D-) Theophrastus
     - E-) Kant
 
-    > **Açıklama:** Platon (MÖ 424-347), sanat, iyi ve güzel konusunda birçok önemli estetik kuramlar ortaya koymuş, sanatı bir yansıtma aracı olarak gören Yansıtma Kuramının ilk temsilcisi olmuştur. İdealar kuramında sanatı ‘mimesis’ kavramıyla açıklamaya çalışır ve yansımanın yansıması ya da taklidin taklidi olarak gerçekliğe ulaşmada ikincil bir yol olarak görür ve küçümser.
+    > **Açıklama:** Eleştiri kavramı
+    > Platon (MÖ 424-347), sanat, iyi ve güzel konusunda birçok önemli estetik kuramlar ortaya koymuş, sanatı bir yansıtma aracı olarak gören Yansıtma Kuramının ilk temsilcisi olmuştur. İdealar kuramında sanatı ‘mimesis’ kavramıyla açıklamaya çalışır ve yansımanın yansıması ya da taklidin taklidi olarak gerçekliğe ulaşmada ikincil bir yol olarak görür ve küçümser.
 
     ***
 1. “Poetika” ve “Retorik” adlı kitaplarında sanatı sistematik bilimsel yaklaşımla ele alan, normlar ortaya koyan ve sınıflandıran ve döneminin öne çıkan sanat eserlerini eleştirel yaklaşımla inceleyen düşünür kimdir?
@@ -272,7 +283,8 @@
     - D-) Sokrates
     - E-) Kant
 
-    > **Açıklama:** Aristoteles (MÖ 384–322), “Poetika” ve “Retorik” adlı kitaplarında sanatı sistematik bilimsel yaklaşımla ele alan, normlar ortaya koyan ve sınıflandıran ve döneminin öne çıkan sanat eserlerini eleştirel yaklaşımla inceleyen düşünürdür.
+    > **Açıklama:** Eleştiri kavramı
+    > Aristoteles (MÖ 384–322), “Poetika” ve “Retorik” adlı kitaplarında sanatı sistematik bilimsel yaklaşımla ele alan, normlar ortaya koyan ve sınıflandıran ve döneminin öne çıkan sanat eserlerini eleştirel yaklaşımla inceleyen düşünürdür.
 
     ***
 1. “Sanat yansıtmadır ve amacı eğlendirerek eğitmektir” sözünü söyleyen Rönesans eleştiricisi ve şair kimdir?
@@ -282,27 +294,30 @@
     - D-) Horace
     - E-) Aristarque
 
-    > **Açıklama:** Tipik bir Rönesans eleştiricisi ve şair olan Sir Philip Sidney “Sanat yansıtmadır ve amacı eğlendirerek eğitmektir” der (Moran, 1983).
+    > **Açıklama:** Eleştiri ve eleştiri tarihi
+    > Tipik bir Rönesans eleştiricisi ve şair olan Sir Philip Sidney “Sanat yansıtmadır ve amacı eğlendirerek eğitmektir” der (Moran, 1983).
 
     ***
-1. İskenderiye Okulu'nda yapılan eleştiri çalışmalarının öncüsü olan ve İlk Çağ’ın en meşhur eleştirmen ve gramercisi olarak bilinen düşünür kimdir?
+1. İskenderiye Okulu'nda yapılan eleştiri çalışmalarının öncüsü olan ve İlk Çağ’ın en meşhur eleştirmen ve gramercisi olarak bilinen düşünür kimdir?
     - A-) Ciceron
     - B-) Horace
     - C-) Platon
     - **Cevap D-) Aristarque**
     - E-) Aristoteles
 
-    > **Açıklama:** Eleştiri çalışmaları daha sonra İskenderiye Okulu tarafından geliştirilmiştir. Burada yapılan çalışmalar, Platon’un ve Aristoteles’in felsefi görüşlerine dayanmakla birlikte esas olarak dil bilgisi ağırlıklıydı, yani dil ve kültür ögeleri üzerinde derin, sistemli görüşler geliştirdiler. Başlıca temsilcileri Aristarque de Samothrace’tı. Aristarque, İlk Çağ’ın en meşhur eleştirmen ve gramercisiydi. Ciceron ve Horace, onu eleştirmenlerin eleştirmeni olarak görüyorlardı (Filizok, 2013).
+    > **Açıklama:** Eleştiri tarihi
+    > Eleştiri çalışmaları daha sonra İskenderiye Okulu tarafından geliştirilmiştir. Burada yapılan çalışmalar, Platon’un ve Aristoteles’in felsefi görüşlerine dayanmakla birlikte esas olarak dil bilgisi ağırlıklıydı, yani dil ve kültür ögeleri üzerinde derin, sistemli görüşler geliştirdiler. Başlıca temsilcileri Aristarque de Samothrace’tı. Aristarque, İlk Çağ’ın en meşhur eleştirmen ve gramercisiydi. Ciceron ve Horace, onu eleştirmenlerin eleştirmeni olarak görüyorlardı (Filizok, 2013).
 
     ***
-1. Metot Üzerine Konuşma (1637) adlı eseriyle Klasisizmin temellerini atan ve  İnsan aklının gerçekliği kavramasının ancak kuşkucu yaklaşımla mümkün olacağını savunan filozof kimdir?
+1. Metot Üzerine Konuşma (1637) adlı eseriyle Klasisizmin temellerini atan ve İnsan aklının gerçekliği kavramasının ancak kuşkucu yaklaşımla mümkün olacağını savunan filozof kimdir?
     - A-) Denis Diderot
     - **Cevap B-) René Descartes**
     - C-) Claude Adrien Helvétius
     - D-) Baron d’Holbach
     - E-) Montesquieu
 
-    > **Açıklama:** René Descartes Metot Üzerine Konuşma (1637) adlı eseriyle Klasisizmin temellerini atmıştır. İnsan aklının gerçekliği kavramasının ancak kuşkucu yaklaşımla mümkün olacağını savunur ve eleştirel düşüncenin en önemli temsilcisi olarak karşımıza çıkar. Modern felsefenin kurucusu ve felsefenin yönelimini değiştiren Descartes, 20. yüzyıl felsefesinde öne çıkan ve günümüz felsefesinin popüler alanlarından olan “Zihin Felsefesi” için başlangıç olur.
+    > **Açıklama:** Eleştiri kavramı ve tarihçesi
+    > René Descartes Metot Üzerine Konuşma (1637) adlı eseriyle Klasisizmin temellerini atmıştır. İnsan aklının gerçekliği kavramasının ancak kuşkucu yaklaşımla mümkün olacağını savunur ve eleştirel düşüncenin en önemli temsilcisi olarak karşımıza çıkar. Modern felsefenin kurucusu ve felsefenin yönelimini değiştiren Descartes, 20. yüzyıl felsefesinde öne çıkan ve günümüz felsefesinin popüler alanlarından olan “Zihin Felsefesi” için başlangıç olur.
 
     ***
 1. Romantizm akımı ilk olarak hangi yüzyılda ve hangi ülkelerde ortaya çıkmıştır?
@@ -315,10 +330,21 @@
     > **Açıklama:** Romantizm XVIII. yüzyılın sonunda İngiltere ve Almanya’da, daha sonra XIX. yüzyılda Fransa, İtalya, İspanya ve İskandinav ülkelerinde ortaya çıkan Avrupalı bir sanat ve edebiyat akımıdır.
 
     ***
+1. Bir şeyin nitelik ya da niceliği üstüne yapılan araştırma, çalışmayla varılan, elde edilen sonuçların yargı olarak ortaya konulmasına ne ad verilir?
+    - A-) Eleştiri
+    - B-) Gözlem
+    - **Cevap C-) Değerlendirme**
+    - D-) Deney
+    - E-) Algı
+
+    > **Açıklama:** Doğru cevap C şıkkıdır.
+    > Değerlendirme, bir şeyin nitelik ya da niceliği üstüne yapılan araştırma, çalışmayla varılan, elde edilen sonuçların yargı olarak ortaya konulmasıdır.
+
+    ***
 1. Aydınlanma düşüncesinin ilk temsilcileri olarak aşağıdakilerden hangileri kabul edilmektedir?
     - A-) John Locke ve David Hume
     - B-) Jean-Jacques Rousseau ve Voltaire
-    - C-) Montesquieu ve Denis Diderot   René Descartes ve Gottfried Wilhelm Leibniz
+    - C-) Montesquieu ve Denis Diderot René Descartes ve Gottfried Wilhelm Leibniz
     - D-) Immanuel Kant ve Christian Wolff
     - **Cevap E-) René Descartes ve Gottfried Wilhelm Leibniz**
 
@@ -369,7 +395,7 @@
     > Aktarımcılarda, “duygu için duygu” ilkesi hâkimdir. Bu duygu kendisinin olabildiği gibi başkalarının da olabilir. Bu görüşü tam olarak benimseyen ve aktarımcılığı ahlaksal görüşle birleştiren Tolstoy’dur.
 
     ***
-1. Duygusal Etki Kuramlarından ilki olan ve sanatın yegane işlevinin zevk vermek olduğunu savunan kuram aşağıdakilerden hangisidir?
+1. Duygusal Etki Kuramlarından ilki olan ve sanatın yegane işlevinin zevk vermek olduğunu savunan kuram aşağıdakilerden hangisidir?
     - A-) Estetik Yaşantı Kuramı
     - B-) Richards’ın Öznelci Kuramı
     - C-) Anglo-Amerikan Biçimciliği Kuramı
@@ -421,7 +447,7 @@
     - D-) Göz önüne getirme
     - E-) Zihinde temsil etme
 
-    > **Açıklama:** Eleştirel düşünmede bahsedeceğimiz “düşünme”  dünyada olmuş, olacak veya olanaklı nesne veya olayları zihinde temsil etmeye, onları “göz önüne getirme” veya hayal etmeye değil, akıl yürütmeye dayanmaktadır. Doğru cevap C'dir.
+    > **Açıklama:** Eleştirel düşünmede bahsedeceğimiz “düşünme” dünyada olmuş, olacak veya olanaklı nesne veya olayları zihinde temsil etmeye, onları “göz önüne getirme” veya hayal etmeye değil, akıl yürütmeye dayanmaktadır. Doğru cevap C'dir.
 
     ***
 1. Bir iddiada bulunan bir cümlenin içeriğinde barınan düşünce veya fikir .......... olarak tanımlanmaktadır.<br />Yukarıda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
@@ -451,7 +477,7 @@
     - D-) Öncüllerin sonucu doğru yapma olasılığına bağlıdır
     - **Cevap E-) Düzgün bir akıl yürütme olmasının kriteri geçerliliktir**
 
-    > **Açıklama:** Tümevarım tipindeki çıkarımlarda çıkan sonucun doğruluğu kesinlik taşımaz.  Ancak tümevarımlı akıl yürütmenin düzgün bir akıl yürütme olmasının kriteri geçerlilik değil, kuvvettir. Kuvvet, öncüllerin sonucu destekleme derecesidir.  Dahası, öncüller sonucu ne kadar kuvvetle destekliyorsa, çıkarım o kadar kuvvetli olacaktır. Yani, tümevarımlı çıkarımların kuvveti derecelidir. Öncüllerin sonucu doğru yapma olasılığına bağlıdır. Doğru cevap E'dir.
+    > **Açıklama:** Tümevarım tipindeki çıkarımlarda çıkan sonucun doğruluğu kesinlik taşımaz. Ancak tümevarımlı akıl yürütmenin düzgün bir akıl yürütme olmasının kriteri geçerlilik değil, kuvvettir. Kuvvet, öncüllerin sonucu destekleme derecesidir. Dahası, öncüller sonucu ne kadar kuvvetle destekliyorsa, çıkarım o kadar kuvvetli olacaktır. Yani, tümevarımlı çıkarımların kuvveti derecelidir. Öncüllerin sonucu doğru yapma olasılığına bağlıdır. Doğru cevap E'dir.
 
     ***
 1. I- Modus ponens<br />II- Modus tollens<br />III- Modus tollendo ponens<br />Yukarıdakilerden hangileri tümdengelimli mantıkta çıkarım yöntemi olarak kullanılan akıl yürütme formudur?
@@ -521,7 +547,8 @@
     - D-) Düş
     - E-) Kurgu
 
-    > **Açıklama:** Önerme
+    > **Açıklama:** Önerme: “Bir iddiada bulunan bir cümlenin
+    > içeriğinde barınan düşünce veya fikir”
 
     ***
 1. Bilindiği varsayılan öncüllerden veya olgulardan, çıkarım kurallarına göre temellendirilmiş yeni sonuçlar çıkarma sürecine ne ad verilir?
@@ -531,7 +558,10 @@
     - D-) Düş ve gerçek
     - E-) Algılama
 
-    > **Açıklama:** Akıl yürütme
+    > **Açıklama:** Akıl Yürütme: Bilindiği varsayılan öncüllerden
+    > veya olgulardan, çıkarım kurallarına
+    > göre temellendirilmiş yeni sonuçlar
+    > çıkarma süreci.
 
     ***
 1. ".................. en temelde “doğru öncülden yanlış sonuç çıkartmama” prensibine göre işleyen bir disiplindir" Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -541,7 +571,9 @@
     - D-) Gerçek
     - E-) Düş
 
-    > **Açıklama:** Mantık
+    > **Açıklama:** Mantık en temelde
+    > “doğru öncülden yanlış sonuç çıkartmama”
+    > prensibine göre işleyen bir disiplindir.
 
     ***
 1. Akıl yürütmenin gözlemlenebildiği, öncül ve sonuçlardan oluşan bütüne ne denir?
@@ -551,7 +583,10 @@
     - **Cevap D-) Uslamlama**
     - E-) Gerçek
 
-    > **Açıklama:** Uslamlama
+    > **Açıklama:** Akıl yürütmenin gözlemlenebildiği, öncül ve
+    > sonuçlardan oluşan bütüne çıkarım (uslamlama)
+    > denir. Çıkarımlar, bir veya daha çok elemana sahip
+    > bir öncül kümesinden ve bir sonuçtan oluşur.
 
     ***
 1. Genel bir yargıdan onun özel bir örneğini çıkarma üzerine kurulu düşünme yöntemine ne denir?
@@ -561,7 +596,9 @@
     - D-) Çıkarsama
     - **Cevap E-) Tümdengelim**
 
-    > **Açıklama:** Tümdengelim
+    > **Açıklama:** Tümdengelim, genel bir yargıdan onun özel
+    > bir örneğini çıkarma üzerine kurulu bir düşünme
+    > yöntemidir.
 
     ***
 1. Tümdengelimli bir akıl yürütmenin düzgün bir çıkarım olma özelliğine; yani, doğru olduğu verilen veya kabul edilen öncüllerden doğru sonuca zorunlu olarak götürme özelliğine ne denir?
@@ -571,7 +608,11 @@
     - D-) Yorum
     - E-) Öneri
 
-    > **Açıklama:** Geçerlilik
+    > **Açıklama:** Geçerlilik: Tümdengelimli bir akıl yürütmenin
+    > düzgün bir çıkarım olma özelliğine;
+    > yani, doğru olduğu verilen veya kabul
+    > edilen öncüllerden doğru sonuca zorunlu
+    > olarak götürme özelliğine geçerlilik denir.
 
     ***
 1. Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme şeklinde yapılan akıl yürütme biçimine ne denir?
@@ -581,7 +622,8 @@
     - D-) Tümevarım
     - E-) Çıkarım
 
-    > **Açıklama:** Analoji
+    > **Açıklama:** Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme
+    > şeklinde yapılan akıl yürütme biçimi analoji (benzetme)dir.
 
     ***
 1. Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme şeklinde yapılan akıl yürütme biçimine ne denir?
@@ -591,7 +633,8 @@
     - D-) Çıkarım
     - E-) Önerme
 
-    > **Açıklama:** Analoji
+    > **Açıklama:** Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme
+    > şeklinde yapılan akıl yürütme biçimi analoji (benzetme)dir.
 
     ***
 1. Aşağıdakilerden hangisi “olumlayıcı kip” anlamına gelir?
@@ -601,7 +644,11 @@
     - **Cevap D-) Modus ponens**
     - E-) Değilleyici
 
-    > **Açıklama:** Modus ponens
+    > **Açıklama:** Modus Ponens: Modus ponens, koşul önermelerinde kullanılan bir çıkarım formudur. Koşul önermeleri
+    > sıkça kullandığımız önermeler arasında yer alır ve bir şey olursa diğerinin de olacağını ifade eder. Örneğin,
+    > “Ayşe eğer iyi çalışırsa başarır” cümlesi bir koşul cümlesidir ve ön bileşendeki önerme doğru olursa,
+    > art bileşenin de zorunlu olarak doğru olacağını ifade eder. Başka bir deyişle, bu koşullu önerme eğer doğru
+    > ise “Ayşe iyi çalıştı” önermesi doğruysa, “başardı” cümlesi de doğru olmak durumundadır.
 
     ***
 1. Öncüllerin sonucu desteklemediği akıl yürütme biçimlerine ne denir?
@@ -611,7 +658,15 @@
     - D-) Tümevarım
     - **Cevap E-) Safsatalar**
 
-    > **Açıklama:** Safsatalar
+    > **Açıklama:** Hatalı Akıl Yürütme Biçimleri
+    > (Safsatalar)
+    > Tümevarım, tümdengelim, modus ponens ve
+    > bahsettiğimiz diğer akıl yürütme formlarındaki ortak
+    > nokta, öncüllerin sonuç önermesine inanmamız
+    > için iyi nedenler sağlaması, başka bir deyişle
+    > “öncüllerin sonucu desteklemesi” idi. Şimdi ise
+    > öncüllerin sonucu desteklemediği akıl yürütme biçimleri
+    > olan safsatalara göz atalım.
 
     ***
 1. Doğru olduğu başlangıçta bilinen veya kabul edilen önermelere ne ad verilir?
@@ -621,7 +676,8 @@
     - D-) Sonuç
     - E-) Tümevarım
 
-    > **Açıklama:** Çıkarım: Akıl yürütmenin gözlemlenebildiği, öncül ve sonuçlardan oluşan bütün.
+    > **Açıklama:** Akıl Yürütme Olarak Düşünme
+    > Çıkarım: Akıl yürütmenin gözlemlenebildiği, öncül ve sonuçlardan oluşan bütün.
     > Öncül: Doğru olduğu başlangıçta bilinen
     > veya kabul edilen önermeler.
     > Sonuç: Öncüllerden çıkarım yoluyla elde
@@ -635,7 +691,8 @@
     - **Cevap D-) Descartes**
     - E-) Socrates
 
-    > **Açıklama:** “Cogito, ergo sum - Düşünüyorum, öyleyse varım” René Descartes'e aittir.
+    > **Açıklama:** Akıl Yürütme Olarak Düşünme
+    > “Cogito, ergo sum - Düşünüyorum, öyleyse varım” René Descartes'e aittir.
 
     ***
 1. Bilindiği varsayılan öncüllerden veya olgulardan, çıkarım kurallarına göre temellendirilmiş yeni sonuçlar çıkarma sürecine ne ad verilir?
@@ -645,7 +702,8 @@
     - D-) Yargılama
     - E-) Tasavvur etme
 
-    > **Açıklama:** Bilindiği varsayılan öncüllerden veya olgulardan, çıkarım kurallarına göre temellendirilmiş yeni sonuçlar çıkarma sürecine **akıl yürütme** adı verilir.
+    > **Açıklama:** Akıl Yürütme Olarak Düşünme
+    > Bilindiği varsayılan öncüllerden veya olgulardan, çıkarım kurallarına göre temellendirilmiş yeni sonuçlar çıkarma sürecine **akıl yürütme** adı verilir.
 
     ***
 1. Tümevarımlı akıl yürütmelerde bir çıkarımın düzgün bir çıkarım olma özelliğine ne ad verilir?
@@ -738,7 +796,8 @@
     - D-) Kişi Karalama Safsatası
     - E-) Korkuluk Safsatası
 
-    > **Açıklama:** Yanlış İkilem Safsatası (False Dilemma): Başka seçenekler
+    > **Açıklama:** İnformel Safsatalar
+    > Yanlış İkilem Safsatası (False Dilemma): Başka seçenekler
     > de bulunduğu halde iki seçenekten birinin seçilmek zorunda olduğu izlenimi verilerek gerçekleştirilen safsatadır. Örnek verecek
     > olursak;
     > Örnek 1: Ya bizim ürettiğimiz güneş kremini kullanın ya da acı veren güneş yanıkları sizi bekliyor… (Burada belirli bir firmanın sattığı ürün dışında güneş yanığından korunamayacağı izlenimi yaratılmaya çalışılarak bir safsata ortaya konuyor).
@@ -753,7 +812,8 @@
     - D-) Formel Safsata
     - E-) Analoji
 
-    > **Açıklama:** Kişi Karalama Safsatası (Argumentum ad Hominem): Bu safsata türü bir kişinin ortaya koyduğu çıkarıma değil, kişinin kendisine saldırılması üzerine ortaya çıkar. Latince “insana” anlamına gelir ve adından da anlaşılacağı gibi, çıkarıma değil, onu ortaya atan kişiye yönelik bir karalamadır. Örnek verecek olursak “Ayşe Hoca işinde çok başarılı birisi” diyen bir kişiye “ondan yüksek not almak için her yerde onu övüyorsun” şeklinde cevap verilmesi gösterilebilir. Burada dikkat edilirse Ayşe Hoca’nın işinde başarılı olduğu iddiası, başarılı olma özelliğine değil, bunu söyleyen kişi üzerinden reddedilmiş, ortaya atılan fikre bir karşı çıkış değil, fikri ortaya atan kişiye bir suçlama getirilmiştir. Argumentum Ad Hominem (Kişi Karalama Safsatası) bu şekilde tespit edebileceğimiz bir safsatadır.
+    > **Açıklama:** İnformel Safsatalar
+    > Kişi Karalama Safsatası (Argumentum ad Hominem): Bu safsata türü bir kişinin ortaya koyduğu çıkarıma değil, kişinin kendisine saldırılması üzerine ortaya çıkar. Latince “insana” anlamına gelir ve adından da anlaşılacağı gibi, çıkarıma değil, onu ortaya atan kişiye yönelik bir karalamadır. Örnek verecek olursak “Ayşe Hoca işinde çok başarılı birisi” diyen bir kişiye “ondan yüksek not almak için her yerde onu övüyorsun” şeklinde cevap verilmesi gösterilebilir. Burada dikkat edilirse Ayşe Hoca’nın işinde başarılı olduğu iddiası, başarılı olma özelliğine değil, bunu söyleyen kişi üzerinden reddedilmiş, ortaya atılan fikre bir karşı çıkış değil, fikri ortaya atan kişiye bir suçlama getirilmiştir. Argumentum Ad Hominem (Kişi Karalama Safsatası) bu şekilde tespit edebileceğimiz bir safsatadır.
 
     ***
 1. Fikirlerini hemen değiştirmeye meyilli olmasa da düzgün temellendirilmiş karşıt görüşler karşısında fikir değiştirmekten kaçınmayan tavra ne ad verilir?
@@ -763,7 +823,8 @@
     - D-) Yargısallık
     - E-) Safsata
 
-    > **Açıklama:** Ilımlı Muhafazakârlık:
+    > **Açıklama:** Önemli Bazı İnformel İlkeler
+    > Ilımlı Muhafazakârlık:
     > Fikirlerini hemen değiştirmeye meyilli olmasa da düzgün temellendirilmiş karşıt görüşler karşısında fikir değiştirmekten kaçınmayan tavır
 
     ***
@@ -819,7 +880,7 @@
     - E-) Tümdengelim
 
     > **Açıklama:** Doğru cevap D
-    > Formel safsatalardan en yaygın olanları arasında önbileşenin değillenmesi ve artbileşenin evetlenmesi safsataları yer alır.
+    > Formel safsatalardan en yaygın olanları arasında önbileşenin değillenmesi ve artbileşenin evetlenmesi safsataları yer alır.
 
     ***
 1. Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme şeklinde yapılan akıl yürütme biçimine ne ad verilir?
@@ -901,7 +962,8 @@
     - D-) Betimleme
     - E-) Niteleme
 
-    > **Açıklama:** Eğretileme
+    > **Açıklama:** imgelerin dili
+    > Eğretileme
 
     ***
 1. Berna Moran, “Edebiyat Kuramları ve Eleştiri” adlı kitabında sanat tarihi boyunca geliştirilen sanat kuramlarını aşağıdaki hangi başlıklar olarak ele almaktadır?
@@ -911,7 +973,8 @@
     - D-) Kübist-gerçekçi-Pop Art
     - E-) Rasyonalist-realist-izlenimci
 
-    > **Açıklama:** Yansıtma kuramı, anlatımcılık, biçimci kuram.
+    > **Açıklama:** EDEBİYAT KURAMLARI VE ELEŞTİRİ
+    > Yansıtma kuramı, anlatımcılık, biçimci kuram.
 
     ***
 1. "Sanatın gerçekliği yansıtan bir ayna olduğu görüşünü ilk dile getiren ve duyu dünyası, sürekli bir oluşum-değişim hâlinde olduğu için, bu dünyadan elde edilen bilgi de kalıcı, değerli, genellenebilir bilgi niteliği taşıyamaz.” diyen filozof aşağıdakilerden hangisidir?
@@ -921,7 +984,8 @@
     - D-) Kant
     - E-) Erasmus
 
-    > **Açıklama:** Platon
+    > **Açıklama:** Yansıtma (Mimesis, Taklit) Kuramı
+    > Platon
 
     ***
 1. “……….......dünya görüşü, insanın doğuştan günahkâr, sefil, ahlaksız bir varlık olduğunu kabul eden kiliseye karşı çıkar ve insanın başlı başına özerk (bağımsız), evrensel bir değer olduğunu ileri sürer.”<br />Yukarıdaki boşluğa aşağıdaki hangi kelime getirilmelidir?
@@ -931,7 +995,8 @@
     - D-) Ateist
     - E-) Deist
 
-    > **Açıklama:** Hümanist
+    > **Açıklama:** Yansıtma (Mimesis, Taklit) Kuramı
+    > Hümanist
 
     ***
 1. Deliliğe Övgü adlı edebiyat eserini yazan kişi aşağıdakilerden hangisidir?
@@ -941,7 +1006,8 @@
     - D-) Thomas Mann
     - E-) Gustav Mahler
 
-    > **Açıklama:** Desiderius Erasmus
+    > **Açıklama:** Edebiyatın Aynası ve Eleştirel Bakış: Deliliğe Övgü
+    > Desiderius Erasmus
 
     ***
 1. Natüralizmin önemli temsilcilerinden biri olarak yazdığı “Dreyfus Olayı (ya da Dreyfus Davası)” adlı eseriyle tanınan yazar aşağıdakilerden hangisidir?
@@ -951,7 +1017,7 @@
     - D-) Alfred de Vigny
     - **Cevap E-) Emile Zola**
 
-    > **Açıklama:** Emile Zola
+    > **Açıklama:** Eleştirel Düşünce ve Gerçekçilik: Dreyfus Olayı ve Emile Zola
 
     ***
 1. Aşağıdakilerden hangisi Biçimci Kuramı **açıklamaz?**
@@ -961,7 +1027,9 @@
     - D-) Bir sanat eserindeki içeriğin felsefi derinliği, önemi hiçbir zaman sanat ölçütü olamaz.
     - **Cevap E-) Bu kurama göre sanatçının bir yaratım ürünü olan, tamamlanmış, tek (biricik, unique) ve özgün yapıt olursa önemsenir.**
 
-    > **Açıklama:** Bu kurama göre sanatçının bir yaratım ürünü olan, tamamlanmış, tek (biricik, unique) ve özgün yapıt olursa önemsenir.
+    > **Açıklama:** Biçimci Kuram
+    > E. Bu şıkkında sanat yapıtı tanımlanmıştır. Biçimci kuram özellikleri bulunmaz. Yapıt, sanatın hangi dalına ait olursa olsun konu, içerik, öz, biçim ve biçemden oluşan bir bütündür.
+    > Bu kurama göre sanatçının bir yaratım ürünü olan, tamamlanmış, tek (biricik, unique) ve özgün yapıt olursa önemsenir.
 
     ***
 1. Aşağıdakilerden hangisi Sembolizm akımının **özellikleri değildir?**
@@ -971,7 +1039,8 @@
     - D-) Sembolistler romantiklerden farklı olarak bireyin iç dünyasını, duygusal yaşantısını dolaysız bir biçimde anlatmak yerine simgelerle, mecazlarla yüklü örtük, kapalı bir dille anlatma yoluna giderler.
     - **Cevap E-) Bu akımın sanatçıları için doğa ayrıcalıklıdır çünkü insan ancak doğayla iç içe olduğunda düşüncelerini aklın denetiminden kurtararak içgüdüsel şekilde dışa vurabilir.**
 
-    > **Açıklama:** Bu akımın sanatçıları için doğa ayrıcalıklıdır çünkü insan ancak doğayla iç içe olduğunda düşüncelerini aklın denetiminden kurtararak içgüdüsel şekilde dışa vurabilir.
+    > **Açıklama:** Sembolizm: Alternatif Bir Gerçeklik Arayış
+    > Bu akımın sanatçıları için doğa ayrıcalıklıdır çünkü insan ancak doğayla iç içe olduğunda düşüncelerini aklın denetiminden kurtararak içgüdüsel şekilde dışa vurabilir.
 
     ***
 1. *"Hem bıçağım hem de yara*<br />*Hem yanağım hem de tokat*<br />*Hem kurbanım hem de cellat*<br />*Ezen ve ezilen çarkta”*<br />dizelerinin sahibi olan Fransız şair Charles Baudelaire’in bu anlatımı aşağıdaki hangi akıma örnek olarak verilebilir?
@@ -981,7 +1050,7 @@
     - D-) Rasyonalizm
     - E-) Realizm
 
-    > **Açıklama:** Sembolizm
+    > **Açıklama:** Sembolizm: Alternatif Bir Gerçeklik Arayış
 
     ***
 1. Aşağıdakilerden hangisi edebiyat için yapılan sınıflandırmada düzyazı (nesir) başlığı altında yer almaz?
@@ -1187,7 +1256,7 @@
 1. Yeterli ve zorunlu sınıflama koşulunu sağlayan tanımlamaya ne ad verilir?
     - A-) Kavram
     - B-) Kapalı Kavram
-    - C-) Açık Kavram
+    - C-) Açık Kavram
     - D-) Etkin Tanımlama
     - **Cevap E-) Biçimsel Tanımlama**
 
@@ -1224,7 +1293,7 @@
 
     > **Açıklama:** Anlatı, gerçek ya da düşsel durumların, olayların, kişilerin ve kişiler arasındaki
     > ilişkilerin çeşitli gösterge dizgeleri (harfler,
-    > işaretler, sesler, renkler vb.) aracılığıyla  anlatılması, öykülenmesidir.
+    > işaretler, sesler, renkler vb.) aracılığıyla anlatılması, öykülenmesidir.
 
     ***
 1. Her sanat dalında olduğu gibi, edebiyatta da gerçekçiliğin belirleyici ölçütü aşağıdakilerden hangisidir?
@@ -1252,13 +1321,13 @@
     - **Cevap A-) Sanat tarihinin bilinen en eski ve köklü sanat kuramıdır.**
     - B-) Sanat yapıtının dış dünyadan da, sanatçıdan da, sanatın alımlayıcısından (okur, izleyici, dinleyici vb.) da bağımsız, kendi başına yeterli bir yapı, dizge (sistem) ya da düzen olduğunu savunana kuramdır.
     - C-) Bu kuramla birlikte sanat yapıtında içerik-biçim sorununun tartışma konusu olması da kaçınılmazdır.
-    - D-) Anlatımdan önce duygu yoktur. Başka bir   deyişle, duygu kâğıt üzerinde sözcüklerle ya da tuval üzerinde renklerle yaratılır.
-    - E-) Bu kuramının, sanat tarihindeki belki de en önemli karşılıklarından biri romantizm   akımıdır.
+    - D-) Anlatımdan önce duygu yoktur. Başka bir deyişle, duygu kâğıt üzerinde sözcüklerle ya da tuval üzerinde renklerle yaratılır.
+    - E-) Bu kuramının, sanat tarihindeki belki de en önemli karşılıklarından biri romantizm akımıdır.
 
     > **Açıklama:** Sanat tarihinin bilinen en eski ve köklü sanat kuramıdır. “Sanat nedir?” sorusuna verilen ilk yanıt, sanatı bir yansıtma, benzetme ya da taklit (mimesis) olarak görme eğilimindedir. Yansıtılan, benzetilen, taklit edilen şey ise doğadır, hayattır, insandır; kısacası adına gerçeklik dediğimiz her şeydir. Kuramın özü, sanatın gerçekliği yansıttığıdır fakat her sanatçının, düşünürün gerçeklik kavramından anladığı şey de farklı olduğu içindir ki, tek bir yansıtma kuramından değil, sanat tarihinin farklı dönemlerinde geliştirilip, yorumlanarak günümüze kadar gelen farklı yansıtma kuramlarından söz edilebilir.
 
     ***
-1. Aşağıdaki yansıtma kuramlarından hangisi Aristotales'in görüşünü ifade eder?
+1. Aşağıdaki yansıtma kuramlarından hangisi Aristotales'in görüşünü ifade eder?
     - A-) Sanat görüngü (fenomen) dünyasını yansıtır
     - **Cevap B-) İdeayı / özü yansıtır**
     - C-) Genel tabiatı, ideal olanı yansıtır
@@ -1276,7 +1345,7 @@
     > • Toplumsal gerçeği yansıtır (Toplumcu gerçekçilik)
 
     ***
-1. Aşağıdaki yansıtma kuramlarından hangisi Platon'un görüşünü ifade eder?
+1. Aşağıdaki yansıtma kuramlarından hangisi Platon'un görüşünü ifade eder?
     - **Cevap A-) Sanat görüngü (fenomen) dünyasını yansıtır**
     - B-) İdeayı / özü yansıtır
     - C-) Toplumsal gerçeği yansıtır
@@ -1299,20 +1368,20 @@
     - B-) Bu görüşe göre, anlatım, adlandırma değildir.
     - **Cevap C-) Sanat yapıtının alımlayıcısı (okur, izleyici, dinleyici vb.) ile sanatçı arasında bir ilişki kurmaya çalışır.**
     - D-) Bir duygunun anlatımı, o duygunun adını vermekle olmaz.
-    - E-) Duyguyu adlandırmak yalnızca genellemeye   yol açan bir sınıflandırmadır.
+    - E-) Duyguyu adlandırmak yalnızca genellemeye yol açan bir sınıflandırmadır.
 
     > **Açıklama:** Aktarım olarak anlatımcılık ise sanat yapıtının alımlayıcısı (okur, izleyici, dinleyici vb.) ile sanatçı arasında bir ilişki kurmaya çalışır çünkü sanatçının yalnızca duygularını ifade etmesi sanatın ne olduğunu açıklamak için yeterli değildir. Yazarın duygularını dile getirmesinin yanı sıra, bu duyguları okura da iletmesi, aynı heyecanların, yaşantıların onda da uyandırılması gereklidir.
 
     ***
 ## Unite 4
 1. Bir sanat dalı olarak opera hangi yüzyılda doğmuştur?
-    - A-) 20. yüzyıl
-    - B-) 19. yüzyıl
-    - C-) 18. yüzyıl
-    - **Cevap D-) 17. yüzyıl**
-    - E-) 16. yüzyıl
+    - A-) 20\. yüzyıl
+    - B-) 19\. yüzyıl
+    - C-) 18\. yüzyıl
+    - **Cevap D-) 17\. yüzyıl**
+    - E-) 16\. yüzyıl
 
-    > **Açıklama:** 17. yüzyılda operanın doğuşu, klasik tiyatronun ilkelerinin oluşması, 19. yüzyılda ‘müzik parçası’nın ‘müzik yapıtı’na dönüşmesi, Gesamtkunstwerk olgusu, 20. yüzyıl müziğinde tonalitenin aşılması ya da tiyatroda seyir alanın değişimi gibi çarpıcı gelişmeler, sanatçıların kendi çağlarının üretim alışkanlığını eleştirel bir yaklaşımla yorumlamaları yoluyla mümkün olmuştur.
+    > **Açıklama:** 17\. yüzyılda operanın doğuşu, klasik tiyatronun ilkelerinin oluşması, 19. yüzyılda ‘müzik parçası’nın ‘müzik yapıtı’na dönüşmesi, Gesamtkunstwerk olgusu, 20. yüzyıl müziğinde tonalitenin aşılması ya da tiyatroda seyir alanın değişimi gibi çarpıcı gelişmeler, sanatçıların kendi çağlarının üretim alışkanlığını eleştirel bir yaklaşımla yorumlamaları yoluyla mümkün olmuştur.
 
     ***
 1. Aşağıdakilerden hangisi tarih boyunca bestecilerin tasarımlarında etkili olmuştur?
@@ -1375,6 +1444,16 @@
     > **Açıklama:** Kontrpuan: Bir ezgiyi başka bir ya da birkaç ezgi ile çok seslendirme tekniğine kontrpuan denir. İki ya da daha fazla ezgisel hattın üst üste kullanımıyla oluşan dokular polifoni terimiyle tanımlanır.
 
     ***
+1. Müzik tarihinin en önemli bestecilerinin başında gelen Bach hangi yıllarda yaşamıştır?
+    - A-) 1985 ile 2000 yılları arasında
+    - B-) 1885 ile 1950 yılları arasında
+    - C-) 1785 ile 1850 yılları arasında
+    - **Cevap D-) 1685 ile 1750 yılları arasında**
+    - E-) 1585 ile 1650 yılları arasında
+
+    > **Açıklama:** 1685 ile 1750 yılları arasında yaşayan Bach müzik tarihinin en önemli bestecilerinin başında gelir.
+
+    ***
 1. Commedia dell’Arte Orta Çağ’ın son dönemlerinde nerede doğmuştur?
     - **Cevap A-) İtalya**
     - B-) Fransa
@@ -1385,7 +1464,7 @@
     > **Açıklama:** Orta Çağ’ın son dönemlerinde İtalya’da doğan ve yaygınlaşan Commedia dell’Arte, Rönesans tiyatrosu üzerinde etkili olmuştur.
 
     ***
-1. Üç birlik kuralına göre başarılı bir oyun kaç saatlik bir süre içinde geçmelidir?
+1. Üç birlik kuralına göre başarılı bir oyun kaç saatlik bir süre içinde geçmelidir?
     - A-) 6 saatlik
     - B-) 12 saatlik
     - **Cevap C-) 24 saatlik**
@@ -1435,7 +1514,7 @@
     > **Açıklama:** Kontrpuan: Bir ezgiyi başka bir ya da birkaç ezgi ile çok seslendirme tekniğine kontrpuan denir.
 
     ***
-1. Çalgı eşliği olmayan ve  genelde beş partili vokal müzik türüne ne ad verilir?
+1. Çalgı eşliği olmayan ve genelde beş partili vokal müzik türüne ne ad verilir?
     - **Cevap A-) Madrigal**
     - B-) Troubadour
     - C-) Minnesinger
@@ -1465,7 +1544,7 @@
     > **Açıklama:** Beethoven, birçok eşsiz müzik yapıtının yanı sıra, döneminin bestecilik ve müzik yapıtı yaklaşımını eleştirel düşünce yoluyla aşarak sanatçı-besteci kimliğini de yaratmıştır.
 
     ***
-1. Türkçeye ‘Ortak Sanat Yapıtı” olarak çevrilebilecek Gesamtkunstwerk, “müzik, yazın ve oyunculuk sanatlarının bir ortaklık içinde seyirci üzerinde etki yapabilmesi” arayışı kime aittir?
+1. Türkçeye ‘Ortak Sanat Yapıtı” olarak çevrilebilecek Gesamtkunstwerk, “müzik, yazın ve oyunculuk sanatlarının bir ortaklık içinde seyirci üzerinde etki yapabilmesi” arayışı kime aittir?
     - A-) F. Liszt
     - **Cevap B-) R. Wagner**
     - C-) J. S. Bach
@@ -1475,7 +1554,7 @@
     > **Açıklama:** Wagner’in Gesamtkunstwerk ülküsü yatar; Türkçeye ‘Ortak Sanat Yapıtı” olarak çevrilebilecek Gesamtkunstwerk, “müzik, yazın ve oyunculuk sanatlarının bir ortaklık içinde seyirci üzerinde etki yapabilmesi” arayışına bulduğu formüldür.
 
     ***
-1. 20. yüzyıl müziğinin temelini hazırlayan ve  fonksiyonel tonalitenin ötesine geçen eserler yaratan besteci kimdir?
+1. 20\. yüzyıl müziğinin temelini hazırlayan ve fonksiyonel tonalitenin ötesine geçen eserler yaratan besteci kimdir?
     - A-) J. Brahms
     - B-) R. Wagner
     - C-) M. Ravel
@@ -1485,14 +1564,14 @@
     > **Açıklama:** Debussy, çağı için yenilikçi akor bağlantılarıyla fonksiyonel tonalitenin ötesine geçer ve 20. yüzyıl müziğinin temelini hazırlar.
 
     ***
-1. 19. yüzyılın devrimci yazarı ve  modern tiyatronun öncüsü olarak bilinen Norveçli yazar kimdir?
+1. 19\. yüzyılın devrimci yazarı ve modern tiyatronun öncüsü olarak bilinen Norveçli yazar kimdir?
     - A-) J. W.von Goethe
     - B-) F. Schiller
     - **Cevap C-) H. Ibsen**
     - D-) K. Stanislavski
     - E-) A. Çehov
 
-    > **Açıklama:** 19. yüzyılın devrimci bir diğer yazarı Ibsen’dir. Modern tiyatronun öncüsü olan Norveçli yazar Henrik Ibsen’in oyunları modernizmin temeli olarak ele alınır.
+    > **Açıklama:** 19\. yüzyılın devrimci bir diğer yazarı Ibsen’dir. Modern tiyatronun öncüsü olan Norveçli yazar Henrik Ibsen’in oyunları modernizmin temeli olarak ele alınır.
 
     ***
 1. Yazılan eserin bir bütün halinde görülmesini sağlayan, müzisyenin hareket noktasını oluşturan ve bestecinin tasarımını icracıya aktaran yazılı ortama ne denir?
@@ -1502,7 +1581,8 @@
     - D-) Dramaturji
     - E-) Senfoni
 
-    > **Açıklama:** Bir müzisyenin hareket noktası partisyondur. Partisyon, bestecinin tasarımını icracıya aktaran yazılı bir ortamdır; bir bakıma müzik parçasının metnidir.
+    > **Açıklama:** Kitabınızın "Tiyatroda Metin, Oyuncu, Sahneleme Bağlamında Yaratıcılık" başlıklı konusunu yeniden çalışın.
+    > Bir müzisyenin hareket noktası partisyondur. Partisyon, bestecinin tasarımını icracıya aktaran yazılı bir ortamdır; bir bakıma müzik parçasının metnidir.
 
     ***
 1. Tiyatro tarihinde yenilikçi yaklaşımların etkisi hangi dönemlerde en belirgindir?<br />I. Antik Yunan<br />II. Rönesans<br />III. Fransız Devrimi<br />IV. 19. Yüzyıl<br />V. 20. Yüzyıl
@@ -1512,7 +1592,8 @@
     - **Cevap D-) I, II, V**
     - E-) IV, III, II
 
-    > **Açıklama:** Tiyatro tarihinde yenilikçi yaklaşımların etkisi özellikle üç dönemde belirgindir: (1) Antik Yunan,
+    > **Açıklama:** Kitabınızın "Rönesans Öncesinde Besteci ve Oyun Yazarının Rolü" başlıklı konusunu yeniden çalışın.
+    > Tiyatro tarihinde yenilikçi yaklaşımların etkisi özellikle üç dönemde belirgindir: (1) Antik Yunan,
     > (2) Rönesans ve (3) 20. yüzyıl.
 
     ***
@@ -1523,7 +1604,8 @@
     - D-) Trubadur
     - **Cevap E-) Gregoryan**
 
-    > **Açıklama:** Ortaçağ dönemin kilise müziğinde ezgisel tasarım, birtakım seyir kalıplarının ve ezgisel formüllerin farklı kombinasyonlarına dayanır. Bu ezgiler düz şarkı (plainchant) ya da Gregoryan ezgiler adlarıyla tanımlanırlar.
+    > **Açıklama:** Kitabınızın "Rönesans Öncesinde Besteci ve Oyun Yazarının Rolü" başlıklı konusunu yeniden çalışın.
+    > Ortaçağ dönemin kilise müziğinde ezgisel tasarım, birtakım seyir kalıplarının ve ezgisel formüllerin farklı kombinasyonlarına dayanır. Bu ezgiler düz şarkı (plainchant) ya da Gregoryan ezgiler adlarıyla tanımlanırlar.
 
     ***
 1. Aşağıdakilerden hangisi Johann Sebastian Bach için **doğru değildir**?
@@ -1533,27 +1615,30 @@
     - **Cevap D-) Opera türünün önemli temsilcisidir.**
     - E-) Tonalitenin temelini atmıştır.
 
-    > **Açıklama:** Johann Sebastian Bach, opera dışında neredeyse her türde müzik bestelemiştir.
+    > **Açıklama:** Kitabınızın "Operanın Doğuşu ve Barok: Bach" başlıklı konusunu yeniden çalışın.
+    > Johann Sebastian Bach, opera dışında neredeyse her türde müzik bestelemiştir.
 
     ***
-1. Aşağıdakilerden hangisi  bir oyun yazarı **değildir**?
+1. Aşağıdakilerden hangisi bir oyun yazarı **değildir**?
     - **Cevap A-) Haydn**
     - B-) Shakespeare
     - C-) Molière
     - D-) Corneille
     - E-) Racine
 
-    > **Açıklama:** Joseph Haydn, 18. yüzyıl klasik müziğin gelişiminde önemli rol oynamış bir bestecidir.
+    > **Açıklama:** Kitabınızın "19. Yüzyıla Doğru Bestecinin Toplumsal Konumu" başlıklı konusunu yeniden çalışın.
+    > Joseph Haydn, 18. yüzyıl klasik müziğin gelişiminde önemli rol oynamış bir bestecidir.
 
     ***
 1. Yazdığı oyunlarla modernizmin temelini atan ve modern tiyatronun öncüsü sayılan oyun yazarı kimdir?
-    - A-) Johann Wolfgang von Goethe
+    - A-) Johann Wolfgang von Goethe
     - **Cevap B-) Henrik Ibsen**
     - C-) Friedrich Schiller
-    - D-) Georg Büchner
+    - D-) Georg Büchner
     - E-) Bertold Brecht
 
-    > **Açıklama:** Modern tiyatronun öncüsü olan Norveçli yazar Henrik Ibsen’in oyunları modernizmin temeli olarak ele alınır. Yalnızca modern değil, modernist tiyatronun da ilk ürünlerini vermiştir.
+    > **Açıklama:** Kitabınızın "19. Yüzyılın İkinci Yarısında Tiyatro" başlıklı konusunu yeniden çalışın.
+    > Modern tiyatronun öncüsü olan Norveçli yazar Henrik Ibsen’in oyunları modernizmin temeli olarak ele alınır. Yalnızca modern değil, modernist tiyatronun da ilk ürünlerini vermiştir.
 
     ***
 1. Jerzy Grotowski tarafından geliştirilen, oyuncuyu merkeze alarak, seyirci ve oyuncu dışında tiyatroda kostüm, ışık, makyaj, sahne gibi ögelere yer vermeyen tiyatro anlayışı aşağıdakilerden hangisidir?
@@ -1563,7 +1648,8 @@
     - D-) Epik Tiyatro
     - E-) Ajitprop Tiyatro
 
-    > **Açıklama:** Polonyalı tiyatrocu Jerzy Grotowski, tiyatroda oyuncunun konumunu tümüyle merkeze taşıyarak kostüm, makyaj, dekor etkenlerini oyundan çıkartır. Oyuncunun estetiğini bütünüyle beden ve ses çalışmaları yoluyla sağlamak ister ve bu yönde egzersizler geliştirir. Grotowski, tiyatroyu bir tür laboratuvar çalışması olarak ele alır. Kimi çalışmalarında mekânı ve ışığı da tiyatronun dışına çıkartır. Seyirci ve oyuncu dışında bütün fazlalıklardan kurtulma arayışındaki bu tiyatroyu Grotowski ‘Yoksul Tiyatro’ olarak tanımlar.
+    > **Açıklama:** Kitabınızın "İkinci Dünya Savaşı Sonrası Yeni Arayışlar" başlıklı bölümünü yeniden çalışın.
+    > Polonyalı tiyatrocu Jerzy Grotowski, tiyatroda oyuncunun konumunu tümüyle merkeze taşıyarak kostüm, makyaj, dekor etkenlerini oyundan çıkartır. Oyuncunun estetiğini bütünüyle beden ve ses çalışmaları yoluyla sağlamak ister ve bu yönde egzersizler geliştirir. Grotowski, tiyatroyu bir tür laboratuvar çalışması olarak ele alır. Kimi çalışmalarında mekânı ve ışığı da tiyatronun dışına çıkartır. Seyirci ve oyuncu dışında bütün fazlalıklardan kurtulma arayışındaki bu tiyatroyu Grotowski ‘Yoksul Tiyatro’ olarak tanımlar.
 
     ***
 1. Müziğin sadece çalgı sesleriyle yapılmasını eleştiren ve her türlü ses kaynağını, özellikle gürültüyü de müzikal bir gereç olarak tanımlayan akım aşağıdakilerden hangisidir?
@@ -1573,17 +1659,19 @@
     - D-) Empresyonizm
     - **Cevap E-) Fütürizm**
 
-    > **Açıklama:** Çağın kısa süreli ama radikal eleştirel tutumuyla çok ses getirmiş bir diğer akımı fütürizmdir. Müziğin sadece çalgı sesleriyle yapılmasını eleştiren ve her türlü ses kaynağını, özellikle gürültüyü de müzikal bir gereç olarak tanımlayan fütüristlerin başında Luigi Russolo gelir.
+    > **Açıklama:** Kitabınızın "Tonaliteden Atonaliteye" başlıklı bölümünü yeniden çalışın.
+    > Çağın kısa süreli ama radikal eleştirel tutumuyla çok ses getirmiş bir diğer akımı fütürizmdir. Müziğin sadece çalgı sesleriyle yapılmasını eleştiren ve her türlü ses kaynağını, özellikle gürültüyü de müzikal bir gereç olarak tanımlayan fütüristlerin başında Luigi Russolo gelir.
 
     ***
-1. Samuel Beckett ve Eugène Ionesco hangi tiyatro akımının temsilcileridir?
+1. Samuel Beckett ve Eugène Ionesco hangi tiyatro akımının temsilcileridir?
     - **Cevap A-) Absürd Tiyatro**
     - B-) Epik Tiyatro
     - C-) Yoksul Tiyatro
     - D-) Politik Tiyatro
     - E-) Postmodern Tiyatro
 
-    > **Açıklama:** Beckett’in Godot’yu Beklerken adlı oyunu absürt tiyatronun en önemli eseridir. Absürt tiyatronun bir başka yazarı Eugène Ionesco'dur.
+    > **Açıklama:** Kitabınızın "Metinli Tiyatro ve Performatif Tiyatro" başlıklı konusunu yeniden çalışın.
+    > Beckett’in Godot’yu Beklerken adlı oyunu absürt tiyatronun en önemli eseridir. Absürt tiyatronun bir başka yazarı Eugène Ionesco'dur.
 
     ***
 1. Yeni Karmaşıkçılık akımın en önde gelen bestecisi kimdir?
@@ -1593,7 +1681,8 @@
     - **Cevap D-) Brian Ferneyhough**
     - E-) Philip Glass
 
-    > **Açıklama:** Yeni Karmaşıkçılık akımın en önde gelen bestecisi Brian Ferneyhough’dur.
+    > **Açıklama:** Kitabınızın "Müzikte 1950 Sonrası Akımların Doğuşunda Eleştirel Düşünce" başlıklı konusunu yeniden çalışın.
+    > Yeni Karmaşıkçılık akımın en önde gelen bestecisi Brian Ferneyhough’dur.
 
     ***
 1. İyi bir yorum, icracının ....... beslenir ve bu özellik icracıyı eşsiz kılarak aynı yapıtın diğer performanslarından ayırır.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -1614,15 +1703,15 @@
     - **Cevap D-) Tragedya**
     - E-) Madrigal
 
-    > **Açıklama:** **Tragedya**konuları mitolojiden seçilir. Bu türün ana karakterleri kahramanlar, krallar ve Tanrılardır.
+    > **Açıklama:** **Tragedya** konuları mitolojiden seçilir. Bu türün ana karakterleri kahramanlar, krallar ve Tanrılardır.
 
     ***
 1. Aşağıdaki ifadelerden hangisi Rönesans müziği için **yanlıştır**?
     - A-) Lasso, Palestrina, Ockegehem, Obrect gibi dönemin önemli bestecileri kontrpuan tekniğinde karmaşık eserler besteleyerek bu ustalığı zirveye taşırlar
-    - B-) Teknik becerinin ve ustalığın temel kriter olmasıyla birlikte, 17. yüzyıla kadar müzik   dili giderek karmaşıklaşır ve çok seslilik uç boyutlara ulaşır
+    - B-) Teknik becerinin ve ustalığın temel kriter olmasıyla birlikte, 17. yüzyıla kadar müzik dili giderek karmaşıklaşır ve çok seslilik uç boyutlara ulaşır
     - C-) Bestecilik mesleği, özgün bir yaratıcılıktan çok teknik mahareti gerektirir
     - D-) Bestecinin amacı bir zanaatkarın ustalığını kazanmaktır
-    - **Cevap E-) Atonalite giderek yaygınlaşarak tonal olmayan tüm müzikler için yaygın kullanılan bir   terime dönüşür**
+    - **Cevap E-) Atonalite giderek yaygınlaşarak tonal olmayan tüm müzikler için yaygın kullanılan bir terime dönüşür**
 
     > **Açıklama:** Atonalite 20. yüzyıl müziğinde görülmektedir
 
@@ -1654,8 +1743,8 @@
     - D-) Beethoven
     - **Cevap E-) Schumann**
 
-    > **Açıklama:** Bu bağlamda müzik eleştirmenliği de özerk bir alan olarak gelişmeye başlar. Schumann, Berlioz, Debussy gibi birçok 19. yüzyıl bestecisi etkili bir eleştirmen olarak müziğe katkıda bulunur. **Özellikle Schumann****müzik eleştirmenliğinin gelişmesi açısından önemli****bir yere sahiptir**. Besteci, Beethoven, Schubert ve
-    > Bach gibi kendinden önceki bestecilerin müziklerinin anlaşılması, Chopin ve Brahms gibi dönemde adları yeni duyulan bestecilerin tanıtılması ve kendi çağdaşı bestecilerinin üretimi hakkında **çok sayıda****makale ve yazı yazar.**
+    > **Açıklama:** Bu bağlamda müzik eleştirmenliği de özerk bir alan olarak gelişmeye başlar. Schumann, Berlioz, Debussy gibi birçok 19. yüzyıl bestecisi etkili bir eleştirmen olarak müziğe katkıda bulunur. **Özellikle Schumann** **müzik eleştirmenliğinin gelişmesi açısından önemli** **bir yere sahiptir**. Besteci, Beethoven, Schubert ve
+    > Bach gibi kendinden önceki bestecilerin müziklerinin anlaşılması, Chopin ve Brahms gibi dönemde adları yeni duyulan bestecilerin tanıtılması ve kendi çağdaşı bestecilerinin üretimi hakkında **çok sayıda** **makale ve yazı yazar.**
 
     ***
 1. Aşağıdakilerden hangisi1850’lere doğru Avrupa müziğinde görülen gelenekçi yaklaşım bestecilerinden biridir?
@@ -1668,14 +1757,14 @@
     > **Açıklama:** 1850’lere doğru Avrupa müziğinde iki farklı yaklaşım görülür. Liszt ve Wagner’in bayraktarlığını yaptığı ilerlemeciler, Beethoven’ın devrimci bir model olarak ele alır ve yenilikçi, devrimci bir çizgi benimser. **Brahms’ın önderliğinde gelenekçiler** ise Beethoven tarzı motif işçiliği yoluyla senfoni, konçerto, sonat gibi 18. Yüzyıl türlerini sürdürmeyi tercih ederler
 
     ***
-1. 20. yüzyılın hemen başında tiyatrodaki hızlı ve dönüşüm süreci hangi ülkede başlamıştır?
+1. 20\. yüzyılın hemen başında tiyatrodaki hızlı ve dönüşüm süreci hangi ülkede başlamıştır?
     - A-) Amerika Birleşik Devletleri
     - **Cevap B-) Rusya**
     - C-) Fransa
     - D-) İngiltere
     - E-) Almanya
 
-    > **Açıklama:** 20. yüzyıl, ilk yıllarından itibaren, **tiyatroda çarpıcı** arayışların ve yeniliklerin belirgin şekilde yoğunlaştığı bir yüzyıldır. Dönemin toplumsal ve politik çalkantılarının etkisinde, metin tasarımından, sahneleme ve oyunculuğa, tiyatroda farklı yaklaşımlar ve arayışlar özellikle Birinci Dünya Savaşı sonrası hızla gelişir. **Bu hızlı gelişim ve dönüşüm süreci 20. yüzyılın hemen başında Stanislavski ile Rusya’da başlar.**
+    > **Açıklama:** 20\. yüzyıl, ilk yıllarından itibaren, **tiyatroda çarpıcı** arayışların ve yeniliklerin belirgin şekilde yoğunlaştığı bir yüzyıldır. Dönemin toplumsal ve politik çalkantılarının etkisinde, metin tasarımından, sahneleme ve oyunculuğa, tiyatroda farklı yaklaşımlar ve arayışlar özellikle Birinci Dünya Savaşı sonrası hızla gelişir. **Bu hızlı gelişim ve dönüşüm süreci 20. yüzyılın hemen başında Stanislavski ile Rusya’da başlar.**
 
     ***
 1. Aşağıdaki hangi besteci çağdaş Türk müziği, kendi folklorundan beslenmenin ötesine geçmeli ve çağın Modernist yaklaşımları üzerine kurulmalıdır görüşü savunmuştur?
@@ -1706,20 +1795,22 @@
     - D-) Koku
     - E-) Tat alma
 
-    > **Açıklama:** Görmek ve göstermek insanın yaşadığı dünyayla kurduğu en temel akıl ilişkileri arasındadır. İnsan, gördüğünü göstermek istemiştir. Gördüğünü
+    > **Açıklama:** GİRİŞ
+    > Görmek ve göstermek insanın yaşadığı dünyayla kurduğu en temel akıl ilişkileri arasındadır. İnsan, gördüğünü göstermek istemiştir. Gördüğünü
     > göstermek isteyen insanın bu yol ile kendi dışındaki insanlarla iletişime geçişi hem yaşadığı zaman hem de sonraki zamanlar için onu anlamada temel
     > anahtar olmuştur. Ortaya koyduğu dil sadece gördüklerini değil, düşündükleri, hayalleri ve inançlarını da kapsar. Görünmeyenin görünür hâle gelmesi, insanın erken tarihlerden itibaren araç yapabilme, yaşama,
     > doğaya karşı direnebilmesi dışında, kendi olabilmesinin en önemli özelliğidir. Bu bilgiler bize resim sanatının görme duyusu yoluyla insanın dünyayla ilişki kurmasını sağladığın göstermektedir.
 
     ***
-1. Mağara duvar resmi deyince ilk akla gelen Lascaux Mağarası şu an hangi ülke sınırları içindedir?
+1. Mağara duvar resmi deyince ilk akla gelen Lascaux Mağarası şu an hangi ülke sınırları içindedir?
     - A-) Amerika
     - B-) İngiltere
     - C-) Hindistan
     - D-) Avusturya
     - **Cevap E-) Fransa**
 
-    > **Açıklama:** Paleolitik Dönem’e ait, Güney Fransa’da Montignac’ta (Dordogne) Lascaux Mağarası ve İspanya’nın kuzeyinde bulunan Altamira Mağarası, mağara duvar resmi denilince ilk akla gelen örnekleri oluşturmaktadırlar.
+    > **Açıklama:** TARİH ÖNCESİ VE ANTİK ÇAĞ RESMİ
+    > Paleolitik Dönem’e ait, Güney Fransa’da Montignac’ta (Dordogne) Lascaux Mağarası ve İspanya’nın kuzeyinde bulunan Altamira Mağarası, mağara duvar resmi denilince ilk akla gelen örnekleri oluşturmaktadırlar.
 
     ***
 1. Aşağıdakilerden hangisi Mezopotamya sanatına katkıda bulunan medeniyetlerden **biri değildir?**
@@ -1729,7 +1820,8 @@
     - D-) Babil
     - E-) Akad
 
-    > **Açıklama:** Mezopotamya sanatına katkıda bulunan medeniyetler; Sümer, Asur, Babil,
+    > **Açıklama:** TARİH ÖNCESİ VE ANTİK ÇAĞ RESMİ
+    > Mezopotamya sanatına katkıda bulunan medeniyetler; Sümer, Asur, Babil,
     > Akad gibi medeniyetlerdir ve Likya buraya ait değildir.
 
     ***
@@ -1740,17 +1832,42 @@
     - **Cevap D-) Hayvan**
     - E-) Çiçek
 
-    > **Açıklama:** Babil  İştar Kapısı üzerinde realist bir dille işlenen hayvan formları bulunmaktadır (bkz. Resim 5.5)
+    > **Açıklama:** ARİH ÖNCESİ VE ANTİK ÇAĞ
+    > RESMİ
+    > Babil İştar Kapısı üzerinde realist bir dille işlenen hayvan formları bulunmaktadır (bkz. Resim 5.5)
 
     ***
-1. "Toz boyalara tutucu malzeme olarak yumurta akı katılarak elde edilen<br />boya malzemesi"  tanımı aşağıdaki hangi kavramın doğru karşılığıdır?
+1. "Toz boyalara tutucu malzeme olarak yumurta akı katılarak elde edilen<br />boya malzemesi" tanımı aşağıdaki hangi kavramın doğru karşılığıdır?
     - A-) Fresko
     - B-) Mozaik
     - **Cevap C-) Tempera**
     - D-) Hale
     - E-) İkon
 
-    > **Açıklama:** Tempera: Toz boyalara tutucu malzeme olarak yumurta akı katılarak elde edilen boya malzemesi.
+    > **Açıklama:** DİNİN RESME ETKİSİ: ORTA ÇAĞ DÜNYASI
+    > Tempera: Toz boyalara tutucu malzeme olarak yumurta akı katılarak elde edilen boya malzemesi.
+
+    ***
+1. Aşağıdaki sanatçılardan hangisi rönesans döneminde eserleri üretmiştir?
+    - A-) Monet
+    - B-) Dali
+    - C-) Koontz
+    - **Cevap D-) Raffaello**
+    - E-) Warhol
+
+    > **Açıklama:** KÜLTÜREL DEĞİŞİMİN MERKEZİNDE SANAT: RÖNESANS VE BAROK RESMİ
+    > İtalyan Rönesans’ının temel taşları en büyük ustaları Leonardo Da Vinci (1452-1519), Michelangelo (1475-1564) ve Raffaello (1483-1520)dur.
+
+    ***
+1. Yağlı boya ilk kez hangi dönemde kullanılmıştır?
+    - A-) İlkçağ
+    - B-) Antik Yunan
+    - C-) Ortaçağ
+    - **Cevap D-) Rönesans**
+    - E-) Endüstri Devrimi
+
+    > **Açıklama:** Leonardo, Michelangelo, Raffaello Resminin Özellikleri
+    > Yağlı boya ilk kez rönesans döneminde kullanılmıştır.
 
     ***
 1. Hangi dönemde Doğu sanatı tanılır hale gelmiştir?
@@ -1760,7 +1877,8 @@
     - D-) Barok
     - **Cevap E-) Sanayi Devrimi**
 
-    > **Açıklama:** Sanayi Devrimi’nin getirdiği teknolojik gelişmeler ve ekonomik yapıdaki farklılaşma toplumsal yaşamda köklü değişimlere neden olmuş, bir yandan kırsaldan sanayileşmiş büyük kentlere akan yoğun göçlerle birlikte nüfus patlamaları yaşanırken öte yandan buharlı trenler, gemiler kıtalararası gidiş gelişlerle âdeta dünyayı küçültmüştür. Telefon, telgraf ve baskı tekniklerindeki buluşlar ve gelişmeler iletişimin uluslararası bir niteliğe kavuşmasını sağlamıştır. Tüm bu değişim ve gelişimler, kültürel yaşamın sınırlarını genişleterek uluslararası sanat piyasasını oluşturmakla kalmayıp Doğu’nun ‘egzotik’ dünyasını ve sanatını da tanınır kılmıştır.
+    > **Açıklama:** 19\.YY. SANAYİLEŞME VE KÜLTÜREL ORTAMIN RESME ETKİSİ
+    > Sanayi Devrimi’nin getirdiği teknolojik gelişmeler ve ekonomik yapıdaki farklılaşma toplumsal yaşamda köklü değişimlere neden olmuş, bir yandan kırsaldan sanayileşmiş büyük kentlere akan yoğun göçlerle birlikte nüfus patlamaları yaşanırken öte yandan buharlı trenler, gemiler kıtalararası gidiş gelişlerle âdeta dünyayı küçültmüştür. Telefon, telgraf ve baskı tekniklerindeki buluşlar ve gelişmeler iletişimin uluslararası bir niteliğe kavuşmasını sağlamıştır. Tüm bu değişim ve gelişimler, kültürel yaşamın sınırlarını genişleterek uluslararası sanat piyasasını oluşturmakla kalmayıp Doğu’nun ‘egzotik’ dünyasını ve sanatını da tanınır kılmıştır.
 
     ***
 1. Aşağıdaki sanatçılardan hangisi 19. yy'da eserlerini vermiştir?
@@ -1770,7 +1888,8 @@
     - D-) Michelangelo
     - E-) Raffaello
 
-    > **Açıklama:** Goya hariç diğer sanatçılar Rönesans döneminde eserlerini vermiştir.
+    > **Açıklama:** 19\.YY. SANAYİLEŞME VE KÜLTÜREL ORTAMIN RESME ETKİSİ
+    > Goya hariç diğer sanatçılar Rönesans döneminde eserlerini vermiştir.
 
     ***
 1. Kolaj tekniği, hangi sanat anlayışıyla devreye girmiştir?
@@ -1780,7 +1899,8 @@
     - D-) Empresyonizm
     - **Cevap E-) Kubist**
 
-    > **Açıklama:** Kolaj tekniği, kübist anlayışla resim sanatına girer. Kübizm, soyut bir sanat değildir ama soyutlayıcı bir sanattır.
+    > **Açıklama:** 20\. YY.DA MODERN VE POSTMODERN ANLATIMDA RESİM
+    > Kolaj tekniği, kübist anlayışla resim sanatına girer. Kübizm, soyut bir sanat değildir ama soyutlayıcı bir sanattır.
 
     ***
 1. Yaş sıva üzerine renkli boyalarla yapılan duvar resmi tekniği aşağıdakilerden hangisidir?
@@ -1790,7 +1910,7 @@
     - D-) İdol
     - E-) İkon
 
-    > **Açıklama:** Yaş sıva üzerine renkli boyalarla yapılan duvar resmi tekniği B seçeneğinde verilen Freskodur. Bu teknikte sıva kurudukça boyayı içine çekecek ve böylece resmin duvardan dökülmesi daha zor hâle gelecektir.
+    > **Açıklama:** Yaş sıva üzerine renkli boyalarla yapılan duvar resmi tekniği B seçeneğinde verilen Freskodur. Bu teknikte sıva kurudukça boyayı içine çekecek ve böylece resmin duvardan dökülmesi daha zor hâle gelecektir.
 
     ***
 1. Ölen kişinin yüzünü ve ifadesini korumak amacıyla yapılmış olan ve bilinen ilk portre örnekleri olan Fayyum portreleri hangi coğrafyada yapılmıştır?
@@ -1824,7 +1944,7 @@
 
     ***
 1. Aşağıdakilerden hangisi Orta Çağ resminin özelliklerinden biri **değildir?**
-    - A-) Hangi çağda resim sanatı konularını dini hikâyelerden alır.
+    - A-) Hangi çağda resim sanatı konularını dini hikâyelerden alır.
     - B-) Sanatçı bağımsız eser üreten bir kimliğe sahip değildir.
     - C-) Esas olan yaratıcılık değil uygulayıcılıktır.
     - D-) Sanatçıdan beklenen, izleyenin eserin görsel yönünden çok duygusal yönü ile hissetmesini ve etkilenmesini sağlamasıdır.
@@ -1834,7 +1954,7 @@
 
     ***
 1. Aşağıdakilerden hangisi Rönesans Dönemi resminin özelliklerinden biri **değildir?**
-    - A-) ‘Çizgisel perspektif ’ bulunur ve gerçeğin yanılsamasında ustalık taşıyan kompozisyonlar simetri   ve dengenin ön planda olduğu matematiksel bir düzen içinde resmedilir.
+    - A-) ‘Çizgisel perspektif ’ bulunur ve gerçeğin yanılsamasında ustalık taşıyan kompozisyonlar simetri ve dengenin ön planda olduğu matematiksel bir düzen içinde resmedilir.
     - B-) Perspektif kurallarına mekân, hacim ve ışık-gölge de eklenerek yeni bir resim anlayışı ortaya çıkar.
     - C-) Figürün kompozisyon içindeki yeri önem kazanır.
     - D-) Anatomik gerçekliğe ve Klasik güzelliğe odaklanılır.
@@ -1984,7 +2104,7 @@
     - D-) Norveç
     - E-) Macaristan
 
-    > **Açıklama:** İspanya
+    > **Açıklama:** Paleolitik Dönem’e ait, Güney Fransa’da Montignac’ta (Dordogne) Lascaux Mağarası ve İspanya’nın kuzeyinde bulunan Altamira Mağarası, mağara duvar resmi denilince ilk akla gelen örnekleri oluşturmaktadırlar.
 
     ***
 1. Hiyeroglif yazıyı kimler bulmuştur?
@@ -1994,7 +2114,7 @@
     - **Cevap D-) Mısırlılar**
     - E-) Çinliler
 
-    > **Açıklama:** Mısırlılar
+    > **Açıklama:** Hiyeroglif yazı, resim özelliği ile anlatmak istediklerini temel olarak doğadan öykünerek Mısırlıların bulduğu yazı biçimidir.
 
     ***
 1. Fayyum Portreleri Mısır’da MS kaçıncı yüzyıllar arasında görülen ölen kişinin yüzünü ve ifadesini korumak amaçlı yapılan portrelerdir?
@@ -2004,7 +2124,8 @@
     - D-) 2 ve 4
     - E-) 2 ve 5
 
-    > **Açıklama:** 1 ve 3
+    > **Açıklama:** Fayyum Portreleri: Mısır’da MS 1. ve 3. yüzyıllar arasında görülen ölen kişinin yüzünü ve ifadesini korumak amaçlı yapılan portrelerdir.
+    > 1 ve 3
 
     ***
 1. II. Julius Roma’ya davet edilen Raffaello, Vatikan Sarayı’nda Papa’nın özel kütüphanesinde yaptığı fresklerden Atina Okulu adlı eser aşağıdakilerden hangisini temsilen yapmıştır?
@@ -2014,7 +2135,7 @@
     - D-) İlahiyat
     - E-) Şiir
 
-    > **Açıklama:** Felsefe
+    > **Açıklama:** II. Julius tarafından bizzat Roma’ya davet edilen Raffaello, Vatikan Sarayı’nda Papa’nın özel kütüphanesinde freskler yapmaya başlar. Raffaello, Vatikan Sarayı’nın Raffaello Odaları olarak adlandırılan, İmparator Konstantin Salonu, Heliodorus Odası, İmza Odası ve Borgo’daki Yangın Odası olarak ayrılan dört odanın her birinde kullanımına uygun sahneler resmetmiştir. Atina Okulu adlı resim, İmza Odası olarak bilinen Stanza della Segnatura içinde yer alan dört ana freskten biridir. Bu freskler, Felsefe, Şiir, İlahiyat ve Hukuku özetler. Atina Okulu ile Felsefe temsil edilir.
 
     ***
 1. Delacroix’nın yapıtlarındaki canlı renkler ve fırça vuruşlarının dramatik etkisi……… ve Ku- zey Afrika seyahati ile daha da çarpıcı ve tutkulu bir dile dönüşmüştür.<br />Yukarıdaki cümlede boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -2024,7 +2145,7 @@
     - **Cevap D-) İspanya**
     - E-) Fransa
 
-    > **Açıklama:** İspanya
+    > **Açıklama:** Delacroix’nın yapıtlarındaki canlı renkler ve fırça vuruşlarının dramatik etkisi İspanya ve Ku- zey Afrika seyahati ile daha da çarpıcı ve tutkulu bir dile dönüşmüştür.
 
     ***
 1. Courbet ‘Taş Kırıcılar’ adlı resmi hangi yılda yapmıştır?
@@ -2034,7 +2155,7 @@
     - D-) 1848
     - **Cevap E-) 1849**
 
-    > **Açıklama:** 1849
+    > **Açıklama:** Courbet’nin ‘Taş Kırıcılar’ (1849) resmi, yaşadığımız dünyada her zaman karşılaştığımız ama çoğunlukla görmediğimiz, dikkat etmediğimiz bir sahneyi resminin konusu yaparak, bir anlamda görmeyen insanların önüne getirir.
 
     ***
 1. Mağara duvar resimleri ile ilgili olarak aşağıdaki seçeneklerden hangisi yanlıştır?
@@ -2148,6 +2269,16 @@
     > **Açıklama:** İlk Çağ kültürlerinde, toprağa bağlı yaşam biçiminin gereği olarak şekillenen ve bir anlamda verimi arttırmak düşünce ve inancıyla yoğrularak oluşturulan ve sanata, heykele taşınan algı biçimi; Magna Mater (Ana Tanrıça) inancı olarak kendisini konumlandırmış ve dünyanın değişik yerlerinde bu inanç ve kültür doğrultusunda farklı malzeme ve farklı biçimlerde, ama çoğu kadın formunun değişik olarak yorumlanmasıyla ortaya çıkan heykeller yapılmıştır.
 
     ***
+1. Özellikle Antik Mısır heykelinin stilize edilmiş, geometrik yapısına form olarak karşı geliştirilen ve ideal insan vücudunun anlatım ve yüceltimi üzerine kurulan heykel sanatı aşağıdakilerden hangisinde doğru olarak verilmiştir?
+    - **Cevap A-) Antik Yunan**
+    - B-) Barok
+    - C-) Gotik
+    - D-) Realizm
+    - E-) Kübizm
+
+    > **Açıklama:** Özellikle Antik Mısır heykelinin stilize edilmiş, geometrik yapısına form olarak karşı geliştirilen ve ideal insan vücudunun anlatım ve yüceltimi üzerine kurulan bir heykel sanatı söz konusudur Antik Yunan’da.
+
+    ***
 1. Heykelin mimariden bağımsızlığını ilan ettiği ve meydanlarda, saraylarda, köşklerde sergilenmeye başlandığı, insan tanımının düşünsel ve felsefi araştırmalarla yeniden konumlandırdığı yeniden doğuş çağı olarak da adlandırılan sanat akımının adı nedir?
     - A-) Barok
     - **Cevap B-) Rönesans**
@@ -2188,6 +2319,16 @@
     > **Açıklama:** Özellikle Fountain/Çeşme adlı heykeli, onun heykel sanatına geliştirdiği eleştiri boyutu noktasında çok önemli bir açılım olarak karşımıza çıkmaktadır. Âdeta yapısökümcü bir realite olarak karşımıza çıkar. Yani bugüne kadar algılanan sanatsal ve estetik realiteleri ters yüz etme gayreti ve çıkışı, onun ne kadar eleştirel bir kimlik ortaya koyduğunun da aynı zamanda göstergesidir. Bir pisuarın ters çevrilmesiyle, takma isimle sergiye gönderilen heykel, alışılmışın dışında bir ready made olarak algılanmış ve hakaret olarak da yorumlanmıştır. Oysa Duchamp eleştirel estetik tutumunu, özellikle üç boyutlu nesne kavramı içinde, yani heykelde bir ileri noktaya götürmektedir.
 
     ***
+1. Üç boyutlu bir sanat enstalasyonu olan Ayçiçeği Tohumları adlı çalışmayı yapan sanatçının ismi nedir?
+    - A-) Pablo Picasso
+    - B-) Marcel Duchamp
+    - **Cevap C-) Ai Wei**
+    - D-) Salvador Dali
+    - E-) Henry Moore
+
+    > **Açıklama:** Üç boyutlu bir sanat enstalasyonu olan Ayçiçeği Tohumları çalışması, başlı başına bir protest üretim olarak karşımızda yer almaktadır. Ai Wei için sanat toplumsal, düşünsel ve sanatsal göndermelerle oluşmalı ve mutlaka eleştiriyi de içinde barındırmalıdır. Ai özellikle günümüz, çağdaş sanatını bu eleştirel ve görsel bilinciyle yüceltmekte ve kendi sanatını da bu kapsamda değerlendirmektedir.
+
+    ***
 1. Şikago'da bulunan ve Fasulye olarak isimlendirilen, izleyicilerin kendi yansımalarını heykel üzerinde görebildiği çalışmanın heykeltraşı aşağıdakilerden hangisidir?
     - **Cevap A-) Anish Kapoor**
     - B-) Marcel Duchamp
@@ -2199,7 +2340,7 @@
     > Resim 6.22 Anish Kapoor, Fasulye, 2018, Metal, 12x7 m., Şikago
 
     ***
-1. 1883’te kurulan ve Türk plastik sanatlarının gelişiminde önemli rolü olan bir okul olan;  resimden, heykele kadar birçok alanda seçkin sanatçılar yetiştiren kurumun adı nedir?
+1. 1883’te kurulan ve Türk plastik sanatlarının gelişiminde önemli rolü olan bir okul olan; resimden, heykele kadar birçok alanda seçkin sanatçılar yetiştiren kurumun adı nedir?
     - A-) İmparatorluk Güzel Sanatlar Akademisi
     - B-) Royal Academy
     - C-) New York Okulu
@@ -2286,7 +2427,7 @@
     - A-) Alberto Giacometti
     - B-) Henry Moore.
     - **Cevap C-) Auguste Rodin**
-    - D-) Constantin *Brancusi*
+    - D-) Constantin *Brancusi*
     - E-) Naum Gabo
 
     > **Açıklama:** İnsan merkezli bir yapılanma doğrultusunda
@@ -2390,6 +2531,16 @@
     > **Açıklama:** Başta yaşayanlar dünyasında en önemli figür Firavun’dur. Mısır’ın en güçlü ve sonsuz kralı olarak düşünülen bu eril lider hem malzeme ve hem de boyut olarak diğer heykellerden daha gösterişli ve devasadır.
 
     ***
+1. Mısırlılar tanrı ve tanrıçalarını genelde insan formunda heykelleştirmelerinin temel nedeni aşağıdakilerden hangisidir?
+    - A-) İnsanlar üzerinde üstünlük sağlamak
+    - B-) Tanrılarla olan bağlarını güçlendirmek
+    - C-) Tanrılara iletişime geçildiğine inanmak
+    - **Cevap D-) Doğa olaylarının tanrı ve tanrıçaların çatışmaları sonucunda olduğunu düşünmek**
+    - E-) Estetik olduğunu düşünmek
+
+    > **Açıklama:** Mısırlılar doğa olaylarının tanrı ve tanrıçaların çatışmaları sonucunda olduğunu düşündükleri için, tanrı ve tanrıçalarını da genelde insan formunda heykelleştiriyorlar, onlara adadıkları tapınaklarda, ritüellerle onları yatıştırmak için adaklar adıyor ve ayinler gerçekleştiriyorlardı.
+
+    ***
 1. Yunan mitolojisinde bazı tanrılar başlı başına bir eleştiri ve savaş varlığı olarak yer alır ve heykel sanatında da bu şekilde konumlanır. Aşağıdakilerden hangisi savaş tanrısı olarak karşımıza çıkar?
     - **Cevap A-) Ares**
     - B-) Hoseidon
@@ -2450,6 +2601,16 @@
     > **Açıklama:** Resim ve heykel merkezli bir eğitim felsefesine göre açılan Sanayii Nefise Mektebi (1883), içinde resim ve heykel mevcuttur.
 
     ***
+1. İlk Türk kadın heykeltraşımız olarak sanat tarihinde yerini alan sanatçı aşağıdakilerden hangisidir?
+    - A-) Hale Tenger
+    - **Cevap B-) Sabiha Bengütaş**
+    - C-) Gülsün Karamustafa
+    - D-) Ayşe Erkman
+    - E-) Handan Börüteçene
+
+    > **Açıklama:** Sabiha Bengütaş da ilk kadın heykeltraşımız olarak sanat tarihinde yerini almıştır.
+
+    ***
 1. Musa heykeli ile anılan aynı zamanda ressam olan sanatçı kimdir?
     - A-) Donatello
     - B-) Giambologna
@@ -2502,6 +2663,36 @@
     > **Açıklama:** Mısır tanrı ve tanrıça hiyerarşisinde güneş tanrısı **Ra**, büyü ve gizemin tanrısı Amon ve ana tanrıça İsis tepe noktalarda yer almışlardır.
 
     ***
+1. Aşağıdaki seçeneklerden hangisi Antik Yunan heykelini doğru biçimde tanımlar?
+    - A-) İlk dönem Yunan heykeli Antik Mısır heykel estetiğinin çok ilerisinde gerçekleşmiştir.
+    - B-) Antik Mısır’daki monoton süreklilik Yunan heykelinde de gözlemlenir.
+    - **Cevap C-) Klasik ve Helenistik Dönem Yunan heykelinde ideal olanın, insan vücudunun yüceltilmesi esasına göre bir heykel anlayışının benimsendiği görülür.**
+    - D-) Çok tanrılı kültür Yunan heykel sanatında görülmez.
+    - E-) Yunan heykelindeki Antik Çağ, Klasik Çağ ve Helenistik Çağ heykel gerçekliği ve estetiği birbirinden farksızdır.
+
+    > **Açıklama:** Klasik ve Helenistik Dönem Yunan heykelinde ideal olanın, insan vücudunun yüceltilmesi esasına göre bir heykel anlayışının benimsendiğini gözlemliyoruz.
+
+    ***
+1. Roma heykel sanatında, Roma tanrılarından bazıları eleştirel düşüncenin ve yargı gücünü temsil etmenin simgesi olarak karşımıza çıkar. Aşağıdakilerden hangisi **'öte dünyada yargı, güç ve eleştiri olgusunun bütün realitesini üzerinde toplayan yeraltı dünyası tanrısı'**dır?
+    - A-) Diana
+    - B-) Ceres
+    - C-) Neptün
+    - **Cevap D-) Plüton**
+    - E-) Jüpiter
+
+    > **Açıklama:** Yeraltı dünyasının kralı olarak karşımıza çıkan **Plüton** ise, öte dünyada yargı, güç ve eleştiri olgusunun bütün realitesini üzerinde toplar ve o şekilde simgeleştirir.
+
+    ***
+1. Aşağıdaki seçeneklerden hangisi Rönesans heykel sanatını doğru biçimde tanımlamaktadır?
+    - **Cevap A-) Michelangelo’nun heykel anlayışı da Rönesans eleştirel düşüncesi içinde vazgeçilmez bir konuma ve anlatıma sahiptir, sadece anatomi anlatımıyla değil, kişilerin ruhsal durumlarını ifade edip anlatmak istemesiyle de Michelangelo eşsiz bir noktaya taşır sanatını.**
+    - B-) Rönesans heykel sanatı ve ondaki eleştirel düşünce, kendinden önceki çok tanrılı heykel sanatının içinde yer alan eleştirel düşünceyle aynıdır.
+    - C-) İnsan tanımının düşünsel ve felsefi araştırmalarla yeniden konumlandırdığı bu yeniden doğuş çağında heykel, mimarinin gölgesinde kalmıştır.
+    - D-) Rönesans'da, dinsel, mitsel, İsa ve melekler vb. yapılmaya başlanmış olmasına rağmen, sivil ve farklı alanlarda üretimler söz konusu değildir.
+    - E-) Rönesans'ın önemli heykeltraşlarından biri olan Donatello, anlatımcı bir yol takip ederek, yorum ve eleştiri konularına girmeyecek, daha çok dinî konular ve kutsanmış anlatımlar içinde toplumsal ve dini saygınlığı arayacaktır.
+
+    > **Açıklama:** Michelangelo’nun heykel anlayışı da Rönesans eleştirel düşüncesi içinde vazgeçilmez bir konuma ve anlatıma sahiptir. Ayrıca sadece anatomi anlatımıyla değil, kişilerin ruhsal durumlarını ifade edip anlatmak istemesiyle de Michelangelo eşsiz bir noktaya taşır sanatını.
+
+    ***
 1. "İnsan merkezli bir yapılanma doğrultusunda ürettiği heykellerinde, özellikle ‘Düşünen Adam’ heykelinde, bütün bir tarih içinde üretilmiş heykellerden farklı olarak, gerçek anlamda sanata ve heykel sanatına ‘eleştiri’ kimliğini ve bakış açısını en derinden getirmiştir" anlatımında sözü edilen sanatçı aşağıdakilerden hangisidir?
     - A-) Henyi Moore
     - B-) Alberto Giacometti
@@ -2512,17 +2703,17 @@
     > **Açıklama:** Fransız heykeltıraş Rodin aynı zamanda çağdaş heykel sanatının da kurucu kimliği olarak karşımıza çıkar. İnsan merkezli bir yapılanma doğrultusunda ürettiği heykellerinde, özellikle ‘Düşünen Adam’ heykelinde, bütün bir tarih içinde üretilmiş heykellerden farklı olarak, gerçek anlamda sanata ve heykel sanatına ‘eleştiri’ kimliğini ve bakış açısını en derinden getirmiştir.
 
     ***
-1. "Özellikle 1960’lardan sonra, Performans Sanatı, Arazi Sanatı, Arte Povera gibi eğilim ve sanatsal ifadelerle **...**sanat, eleştirel bir tutumu çeşitlendirip yönlendirmiş, özgün ve farklı bir disiplin çeşitliliğine ulaşmıştır" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
+1. "Özellikle 1960’lardan sonra, Performans Sanatı, Arazi Sanatı, Arte Povera gibi eğilim ve sanatsal ifadelerle **...** sanat, eleştirel bir tutumu çeşitlendirip yönlendirmiş, özgün ve farklı bir disiplin çeşitliliğine ulaşmıştır" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - **Cevap A-) Kavramsal**
     - B-) Çağdaş
     - C-) Güncel
     - D-) Modern
     - E-) Toplumsal
 
-    > **Açıklama:** Özellikle 1960’lardan sonra, Performans Sanatı, Arazi Sanatı, Arte Povera gibi eğilim ve sanatsal ifadelerle **kavramsal** sanat, eleştirel bir tutumu çeşitlendirip yönlendirmiş, özgün ve farklı bir disiplin çeşitliliğine ulaşmıştır.
+    > **Açıklama:** Özellikle 1960’lardan sonra, Performans Sanatı, Arazi Sanatı, Arte Povera gibi eğilim ve sanatsal ifadelerle **kavramsal** sanat, eleştirel bir tutumu çeşitlendirip yönlendirmiş, özgün ve farklı bir disiplin çeşitliliğine ulaşmıştır.
 
     ***
-1. **'Fountain/Çeşme'** adlı  heykeli ile eleştirel estetik tutumunu, özellikle üç boyutlu nesne kavramı içinde çok ileri bir noktaya götüren ve heykel sanatının bütün klasik kalıplarını aşan sanatçı aşağıdakilerden hangisidir?
+1. **'Fountain/Çeşme'** adlı heykeli ile eleştirel estetik tutumunu, özellikle üç boyutlu nesne kavramı içinde çok ileri bir noktaya götüren ve heykel sanatının bütün klasik kalıplarını aşan sanatçı aşağıdakilerden hangisidir?
     - A-) Louise Bourgeois
     - **Cevap B-) Marcel Duchamp**
     - C-) Constantin Brancusi
@@ -2532,7 +2723,7 @@
     > **Açıklama:** Marcel Duchamp çağdaş sanatçıların en ilginçlerinden biri olarak karşımızda durmaktadır. Özellikle Fountain/Çeşme adlı heykeli, onun heykel sanatına geliştirdiği eleştiri boyutu noktasında çok önemli bir açılım olarak karşımıza çıkmaktadır. Adeta yapısökümcü bir realite olarak karşımıza çıkar.
 
     ***
-1. Hareketli heykelleri, düşünceyi önceleyen ve eleştiriyi içeren yapı çözümleri ve üç boyutlu çalışmaları ile metale soyut anlamlar katan, büyük boyutlu amorf tasarımlarımlarıyla tanınan sanatçı aşağıdakilerden hangisidir?
+1. Hareketli heykelleri, düşünceyi önceleyen ve eleştiriyi içeren yapı çözümleri ve üç boyutlu çalışmaları ile metale soyut anlamlar katan, büyük boyutlu amorf tasarımlarımlarıyla tanınan sanatçı aşağıdakilerden hangisidir?
     - A-) Ai Weiwei
     - B-) Consttantin Brancusi
     - C-) Walfgang Laib
@@ -2583,11 +2774,11 @@
 
     ***
 1. Helenistik dönem Yunan heykelini karakteristik özellikleri aşağıdaki seçeneklerin hangisinde doğru olarak verilmiştir?
-    - A-) Stilize etme    İnsanı yüceltme    Monotonluk
-    - B-) İdealize etme    Monotonluk    Karmaşık Form
-    - C-) Stilize etme    Karmaşık form    İnsanı yüceltme
-    - **Cevap D-) İnsanı yüceltme    İdealize etme    Karmaşık form**
-    - E-) Monotonluk    Stilize etme    İdealize etme
+    - A-) Stilize etme İnsanı yüceltme Monotonluk
+    - B-) İdealize etme Monotonluk Karmaşık Form
+    - C-) Stilize etme Karmaşık form İnsanı yüceltme
+    - **Cevap D-) İnsanı yüceltme İdealize etme Karmaşık form**
+    - E-) Monotonluk Stilize etme İdealize etme
 
     > **Açıklama:** İnsanı yüceltme
     > İdealize etme
@@ -2695,7 +2886,17 @@
     > **Açıklama:** Melies’nin en ünlü filmi, Jules Verne’nin romanından esinlenerek çektiği “Aya Yolculuk” (1902) adlı filmdir. 14 dakikalık bir film olan “Aya Yolculuk”, özel efektlerin kullanıldığı ilk film olmasının yanı sıra, sinema tarihinin bilinen ilk bilim kurgu filmidir.
 
     ***
-1. İzleyicinin karakterle özdeşleşmesinden çok,  filme düşünsel olarak katılmasını isteyen anlatı biçimi  aşağıdaki ifadelerden hangisidir?
+1. Aşağıdaki ifadelerden hangisi geleneksel anlatının özelliklerinden biri değildir?
+    - A-) Olaylar arasında neden-sonuç ilişkileri belirgindir
+    - B-) Olaylar genellikle bir karakterin etrafında döner
+    - **Cevap C-) Olay örgüsü doğrusal değildir**
+    - D-) Çatışmalar sergilenir ve çözülür
+    - E-) Olay örgüsü serim, düğüm, çatışma, doruk noktası ve çözüm aşamalarından oluşur
+
+    > **Açıklama:** Geleneksel anlatının nedenselliğe dayalı olay örgüsü doğrusaldır.
+
+    ***
+1. İzleyicinin karakterle özdeşleşmesinden çok, filme düşünsel olarak katılmasını isteyen anlatı biçimi aşağıdaki ifadelerden hangisidir?
     - A-) Klasik
     - B-) Postmodern
     - C-) Öyküleme
@@ -2765,6 +2966,17 @@
     > **Açıklama:** Sinemaya felsefe ile bakışta, bu bakışın film eleştirisine taşınmasında da ölçüt “insan”dır; insan ve insana bağlı değerlerdir.
 
     ***
+1. "Film dediğin, ayakkabının içine kaçan taş gibi olmalıdır."<br />Yukarıdaki ifade hangi yönetmene aittir?
+    - **Cevap A-) Lars von Trier**
+    - B-) Michael Haneke
+    - C-) Andrey Tarkovski
+    - D-) Federico Fellini
+    - E-) Akira Kurosawa
+
+    > **Açıklama:** GİRİŞ
+    > Sinema sanatı söz konusu olduğunda, belki de en büyük yanılgımız, sinemayı sadece bir eğlence aracı olarak görmektir. Film izlememizin nedenlerinden biri elbette eğlenmektir. Ancak sinema eğlenceden başka amaçlar içinde izlenir. Bunu, "Karanlıkta Dans", "Dogwille","Dalgaları Aşmak" gibi filmlerin yönetmeni Lars von Trier, film dediğin ayakkabının içine kaçmış taş gibi olmalıdır, diyerek belirtir. Onun filmleri eğlendirmek bir yana rahatsız eden filmlerdir.
+
+    ***
 1. "Beyazperdede kıpırdayan her şey sinemadır."<br />Yukarıdaki tanım kime aittir?
     - **Cevap A-) Jean Renoir**
     - B-) Segei Eisentein
@@ -2772,7 +2984,8 @@
     - D-) Federico Fellini
     - E-) Andrey Tarkovski
 
-    > **Açıklama:** Fransız yönetmen Jean Renoir'a ait olan bu kısa cümle, sinemanın özünü belki de en yalın haliyle ifade eder. Hareket. Kıpırdayan yani hareket eden görüntülerdir sinema...
+    > **Açıklama:** Sinema Nedir
+    > Fransız yönetmen Jean Renoir'a ait olan bu kısa cümle, sinemanın özünü belki de en yalın haliyle ifade eder. Hareket. Kıpırdayan yani hareket eden görüntülerdir sinema...
 
     ***
 1. İlk film gösterimi hangi yıl yapılmıştır?
@@ -2782,7 +2995,8 @@
     - **Cevap D-) 1895**
     - E-) 1915
 
-    > **Açıklama:** Sinemanın yüzyılını henüz tamamlamış olan ve öbür sanat dallarıyla kıyaslandığında kısacık diyebileceğimiz tarihi, daha doğrusu, resmî doğum tarihi, **28 Aralık 1895’te,** Paris’te, Capucines Bulvarı üzerindeki Grand Cafe’nin zemin katında, halka açık ilk film gösterimi ile başlar. Bilet alarak film izlemeye gelen seyirciler Lumiere Kardeşler’in (Auguste Lumiere ve Louis Jean Lumiere) çektiği ve en uzunu 49 saniye olan on filmi izlemek için heyecanla beklerler.
+    > **Açıklama:** Sinema Nedir
+    > Sinemanın yüzyılını henüz tamamlamış olan ve öbür sanat dallarıyla kıyaslandığında kısacık diyebileceğimiz tarihi, daha doğrusu, resmî doğum tarihi, **28 Aralık 1895’te,** Paris’te, Capucines Bulvarı üzerindeki Grand Cafe’nin zemin katında, halka açık ilk film gösterimi ile başlar. Bilet alarak film izlemeye gelen seyirciler Lumiere Kardeşler’in (Auguste Lumiere ve Louis Jean Lumiere) çektiği ve en uzunu 49 saniye olan on filmi izlemek için heyecanla beklerler.
 
     ***
 1. Modern sanatın ilk güçlü akımı aşağıdakilerden hangisidir?
@@ -2792,7 +3006,8 @@
     - D-) Sembolizm
     - E-) Kübizm
 
-    > **Açıklama:** Sanatta modernizmin ya da modern sanatın ilk güçlü akımı romantizmdir. Modernizm 19. yüzyılda, özellikle de bu yüzyılın ikinci yarısında farklı adlarla, farklı çehrelerle belirginlik kazanarak karşımıza çıkar ki, bunların içerisinde en önemli olanları önce romantizm, romantizmden sonra da gerçekçilik (realizm), doğalcılık (natüralizm) ve sembolizmdir.
+    > **Açıklama:** Modern Mitoloji: Sinema Modernizm ve Eleştiri
+    > Sanatta modernizmin ya da modern sanatın ilk güçlü akımı romantizmdir. Modernizm 19. yüzyılda, özellikle de bu yüzyılın ikinci yarısında farklı adlarla, farklı çehrelerle belirginlik kazanarak karşımıza çıkar ki, bunların içerisinde en önemli olanları önce romantizm, romantizmden sonra da gerçekçilik (realizm), doğalcılık (natüralizm) ve sembolizmdir.
 
     ***
 1. Bir anlatının öykü olabilmesi için aşağıdakilerden hangisi gereklidir?
@@ -2802,7 +3017,8 @@
     - D-) Sesler
     - **Cevap E-) Olay örgüsü**
 
-    > **Açıklama:** Her öykü bir anlatıdır fakat her anlatı bir öykü değildir. Bir anlatının öykü olabilmesi için, olay örgüsünün olması gerekir. . Hakikati bir kurmaca (fiction-yapıntı) evren içinde söyleyen anlatılar öykü olarak adlandırılır. Daha iyi bir tanım vermek istersek şöyle diyebiliriz öykü için: Bir başlangıcı ve sonu olan, biri tarafından anlatılan, belirli bir süreyi kapsayan ve düzenlenmiş bir olay örgüsüne sahip olan kurmaca anlatılardır öyküler. Bir başlangıcı ve sonu olmayan (varsa da bilemediğimiz) şey yaşamdır, gerçek dünyadır. Bu nedenle, gerçek hiçbir zaman öykü anlatmaz. Oysa her öykünün bir başlangıcı ve sonu vardır.
+    > **Açıklama:** Sinemada Anlatı Türleri ve Eleştirel Düşünce
+    > Her öykü bir anlatıdır fakat her anlatı bir öykü değildir. Bir anlatının öykü olabilmesi için, olay örgüsünün olması gerekir. . Hakikati bir kurmaca (fiction-yapıntı) evren içinde söyleyen anlatılar öykü olarak adlandırılır. Daha iyi bir tanım vermek istersek şöyle diyebiliriz öykü için: Bir başlangıcı ve sonu olan, biri tarafından anlatılan, belirli bir süreyi kapsayan ve düzenlenmiş bir olay örgüsüne sahip olan kurmaca anlatılardır öyküler. Bir başlangıcı ve sonu olmayan (varsa da bilemediğimiz) şey yaşamdır, gerçek dünyadır. Bu nedenle, gerçek hiçbir zaman öykü anlatmaz. Oysa her öykünün bir başlangıcı ve sonu vardır.
 
     ***
 1. İzleyici olay örgüsünün hangi aşamasında karakterleri tanır?
@@ -2812,10 +3028,11 @@
     - D-) Doruk noktası
     - E-) Çözüm
 
-    > **Açıklama:** Geleneksel anlatıda dramatik yapının olay örgüsü serim, düğüm, çatışma, doruk noktası ve çözüm aşamalarından oluşur.
+    > **Açıklama:** Geleneksel Anlatı Sineması
+    > Geleneksel anlatıda dramatik yapının olay örgüsü serim, düğüm, çatışma, doruk noktası ve çözüm aşamalarından oluşur.
     > Başlangıçta taşlar yerli yerindedir ve bir denge durumu söz konusudur. Serim
-    > bölümü çoğu zaman oyunun başlangıç noktası olarak algılansa da aslında oyunun başından sonuna kadar süren bilgi verme sürecini içerir. İzleyici serim aşamasında karakterleri tanır, karakterler arasında çatışma/mücadele öncesinde
-    > ve sırasında, çeşitli durumların neden, ne zaman ve nasıl olup da bu hâle geldiğini anlar. Kimi zaman da serim ile izleyiciye, oyunda yer almayan olaylar, durumlar, kişilere dair bilgiler verilir.
+    > bölümü çoğu zaman oyunun başlangıç noktası olarak algılansa da aslında oyunun başından sonuna kadar süren bilgi verme sürecini içerir. İzleyici serim aşamasında karakterleri tanır, karakterler arasında çatışma/mücadele öncesinde
+    > ve sırasında, çeşitli durumların neden, ne zaman ve nasıl olup da bu hâle geldiğini anlar. Kimi zaman da serim ile izleyiciye, oyunda yer almayan olaylar, durumlar, kişilere dair bilgiler verilir.
 
     ***
 1. Olay örgüsünün hangi aşamasında izleyicide arınma sağlanır?
@@ -2825,8 +3042,9 @@
     - D-) Doruk noktası
     - **Cevap E-) Çözüm**
 
-    > **Açıklama:** Geleneksel dramatik sanatta haz, özdeşleşmeye dayalı bir estetik uygulamanın egemenliği altında, seyircinin katharsise (arınma) ulaşmasından doğmaktadır. Seyirci olayların akışına kendini kaptırarak, olay ve karakterle kendini özdeşleştirir. Düşünsel faaliyeti bir kenara bırakarak, duygusal temel üzerinde kurulan bir yaşantı birliğine girer. Doruğa doğru yükselen bir gerilimle başka bir hayatın (kurmacanın)  içinde yer alan seyirci, doruk noktası ile başlayan son bölümde olayların çözülmesiyle, yapay olarak içine sokulduğu gerilimden kurtarılır ve rahatlatılır. İşte haz buradan doğmaktadır.
-    > Kısaca, doruk noktasının ardından izleyicide arınmayı sağlayacak olan çözüm aşamasına geçilir. Bu aşamada tüm çatışmalar biter, düğümler çözülür,
+    > **Açıklama:** Geleneksel Anlatı Sineması
+    > Geleneksel dramatik sanatta haz, özdeşleşmeye dayalı bir estetik uygulamanın egemenliği altında, seyircinin katharsise (arınma) ulaşmasından doğmaktadır. Seyirci olayların akışına kendini kaptırarak, olay ve karakterle kendini özdeşleştirir. Düşünsel faaliyeti bir kenara bırakarak, duygusal temel üzerinde kurulan bir yaşantı birliğine girer. Doruğa doğru yükselen bir gerilimle başka bir hayatın (kurmacanın) içinde yer alan seyirci, doruk noktası ile başlayan son bölümde olayların çözülmesiyle, yapay olarak içine sokulduğu gerilimden kurtarılır ve rahatlatılır. İşte haz buradan doğmaktadır.
+    > Kısaca, doruk noktasının ardından izleyicide arınmayı sağlayacak olan çözüm aşamasına geçilir. Bu aşamada tüm çatışmalar biter, düğümler çözülür,
     > izleyicinin kafasında soru işareti kalmaz ve tüm şüpheler giderilir
 
     ***
@@ -2837,7 +3055,8 @@
     - D-) İstenilen şey izleyicinin anlatıyı gerçek olarak görmesidir.
     - **Cevap E-) İzleyici gözlemci olarak dışarıda tutulur.**
 
-    > **Açıklama:** Çağdaş anlatının geleneksel anlatıdan ayrılan en önemli özelliği, izleyiciyi bir gerçeklik yanılsaması içine sokmaktan özenle kaçınması, uzak durmasıdır. Geleneksel anlatıda izleyici kurmaca evrenin içine çekilir, çağdaş anlatıda ise gözlemci olarak dışarıda tutulur, olayla-karakterlerle özdeşleşmek yerine inceler durumdadır. Çağdaş anlatı bilinçli olarak izleyicisi ile arasına mesafe koyan anlatıdır çünkü bu anlatıda önemli olan gerçeğe benzerlik yanılsaması yaratmak değil, gerçeği-gerçekliği sorgulamaktır. Bu nedenledir ki, izleyicide özdeşleşmeye (filmdeki karakterlerle ya da olaylarla) dayalı duygusal bir haz yaratmayı değil, izleyicinin aklını, düşüncesini devreye sokmaya çalışır. İstenen şey, izleyicinin perdede izlediği filme duygusal katılımının yanı sıra soru sorması, sorgulaması ve
+    > **Açıklama:** Çağdaş (Modern) Anlatı Sineması
+    > Çağdaş anlatının geleneksel anlatıdan ayrılan en önemli özelliği, izleyiciyi bir gerçeklik yanılsaması içine sokmaktan özenle kaçınması, uzak durmasıdır. Geleneksel anlatıda izleyici kurmaca evrenin içine çekilir, çağdaş anlatıda ise gözlemci olarak dışarıda tutulur, olayla-karakterlerle özdeşleşmek yerine inceler durumdadır. Çağdaş anlatı bilinçli olarak izleyicisi ile arasına mesafe koyan anlatıdır çünkü bu anlatıda önemli olan gerçeğe benzerlik yanılsaması yaratmak değil, gerçeği-gerçekliği sorgulamaktır. Bu nedenledir ki, izleyicide özdeşleşmeye (filmdeki karakterlerle ya da olaylarla) dayalı duygusal bir haz yaratmayı değil, izleyicinin aklını, düşüncesini devreye sokmaya çalışır. İstenen şey, izleyicinin perdede izlediği filme duygusal katılımının yanı sıra soru sorması, sorgulaması ve
     > düşünmesidir.
 
     ***
@@ -2848,8 +3067,9 @@
     - D-) II-IV
     - **Cevap E-) III-IV**
 
-    > **Açıklama:** 1950’li yılların sonuna doğru, sinemada çağdaş anlatı yolunda ikinci bir dönüm noktasının yaşandığına tanık oluruz ve bu dönüm noktası belki de ilkinden, İtalyan Yeni Gerçekçiliği ile başlayan dönemden çok daha fazla etkili olacaktır.
-    > Bu yeni dönemin, Fransız Yeni Dalga Sineması (1959-64) olarak adlandırılan akımın içinde yer alan yönetmenlerle (François Truffaut, Alain Resnais, Claude Chabrol, Roger Vadim, Jean Pierre Melville, Jacques Rivetta, Chris Marker, Agnes Varda vb.) birlikte başladığı söylenebilir. Bu başlangıçta, Jean-Luc Godard’ın ve yönetmenin ünlü filmi “Serseri Aşıklar”ın özel bir yeri vardır. Sinemada bağıntıları oluşturan en önemli unsur kurgu ise Serseri Aşıklar’da görüntü; değerini, gücünü, anlamını kurgudan almaz. Hatta Godard bilinçli olarak geleneksel film kurgusunda yanlış olarak kabul edilen kesmeler yaparak, görüntünün kurgu ile kazanacağı anlamı, değeri yıkmak ister.
+    > **Açıklama:** Parçalanmış Yaşamın Görsel Estetiği ve Yenilik Arayışı:İtalyan Yeni Gerçekçiliği, Fransız Yeni Dalgası
+    > 1950’li yılların sonuna doğru, sinemada çağdaş anlatı yolunda ikinci bir dönüm noktasının yaşandığına tanık oluruz ve bu dönüm noktası belki de ilkinden, İtalyan Yeni Gerçekçiliği ile başlayan dönemden çok daha fazla etkili olacaktır.
+    > Bu yeni dönemin, Fransız Yeni Dalga Sineması (1959-64) olarak adlandırılan akımın içinde yer alan yönetmenlerle (François Truffaut, Alain Resnais, Claude Chabrol, Roger Vadim, Jean Pierre Melville, Jacques Rivetta, Chris Marker, Agnes Varda vb.) birlikte başladığı söylenebilir. Bu başlangıçta, Jean-Luc Godard’ın ve yönetmenin ünlü filmi “Serseri Aşıklar”ın özel bir yeri vardır. Sinemada bağıntıları oluşturan en önemli unsur kurgu ise Serseri Aşıklar’da görüntü; değerini, gücünü, anlamını kurgudan almaz. Hatta Godard bilinçli olarak geleneksel film kurgusunda yanlış olarak kabul edilen kesmeler yaparak, görüntünün kurgu ile kazanacağı anlamı, değeri yıkmak ister.
 
     ***
 1. Biçimci film kuramına göre sinemada anlamı yaratan temel öge aşağıdakilerden hangisidir?
@@ -2859,7 +3079,8 @@
     - D-) Oyunculuk
     - **Cevap E-) Kurgu**
 
-    > **Açıklama:** Biçimci film kuramına göre sinemada anlamı yaratan temel öge “kurgu”dur. Sinematografik bir teknik olarak kurgu (montaj) art arda gelen iki ayrı çekim arasındaki bütünlüğü sağlayandır. Görüntü dilindeki anlatının ve anlatıdaki olayların zaman içerisindeki gelişimini, sürekliliği de yine kurguyla gerçekleşir.
+    > **Açıklama:** Biçimci Kuram
+    > Biçimci film kuramına göre sinemada anlamı yaratan temel öge “kurgu”dur. Sinematografik bir teknik olarak kurgu (montaj) art arda gelen iki ayrı çekim arasındaki bütünlüğü sağlayandır. Görüntü dilindeki anlatının ve anlatıdaki olayların zaman içerisindeki gelişimini, sürekliliği de yine kurguyla gerçekleşir.
 
     ***
 1. Hareket anlamına gelen Kinema kelimesi hangi dilden gelmektedir?
@@ -2869,7 +3090,8 @@
     - **Cevap D-) Yunanca**
     - E-) Rusça
 
-    > **Açıklama:** Hareket anlamına gelen Kinema kelimesi Yunanca'dan gelmektedir.
+    > **Açıklama:** Yunanca Kinema (hareket) ve Graphein (yazma) sözcüklerinin birleşmesiyle türetilen *"cinematographe"* hareketi yazan, saptayan anlamını taşır ve bu anlam aynı zamanda insanoğlunun binlerce yıllık hayalini, özlemini dile getirir.
+    > Hareket anlamına gelen Kinema kelimesi Yunanca'dan gelmektedir.
 
     ***
 1. Sinemanın resmi doğum tarihi ve yeri aşağıdakilerden hangisidir?
@@ -2879,7 +3101,8 @@
     - D-) 17 Eylül 1902, Londra
     - E-) 25 Nisan 1877, Berlin
 
-    > **Açıklama:** Sinemanın resmi doğum tarihi ve yeri 28 Aralık 1895, Paris'dir.
+    > **Açıklama:** Sinemanın yüzyılını henüz tamamlamış olan ve öbür sanat dallarıyla kıyaslandığında kısacık diyebile- ceğimiz tarihi, daha doğrusu, resmî doğum tarihi, 28 Aralık 1895’te, Paris’te, Capucines Bulvarı üzerindeki Grand Cafe’nin zemin katında, halka açık ilk film gösterimi ile başlar.
+    > Sinemanın resmi doğum tarihi ve yeri 28 Aralık 1895, Paris'dir.
 
     ***
 1. 28 Aralık 1895'te Lumiere Kardeşler'in çektiği 49 saniye olan filmi aşağıdakilerden hangisidir?
@@ -2889,7 +3112,9 @@
     - D-) Şeytan'ın Evi
     - E-) Yurttaş Kane
 
-    > **Açıklama:** 28 Aralık 1895'te Lumiere Kardeşler'in çektiği 49 saniye olan filmi Trenin Ciotat Garı'na Varışı'dır.
+    > **Açıklama:** Bilet alarak film izlemeye gelen seyirciler Lumiere Kardeşler’in (Auguste Lumiere ve Louis Jean Lumiere) çektiği ve en uzunu 49 saniye olan on filmi izlemek için heyecanla beklerler. Aslında seyircilerin beklentisi sihirbazlık gösterisine benzer bir şeydir fakat duvardaki perdede bir trenin gara girişini gördüklerinde şok geçirirler.
+    > “Trenin Ciotat Garı’na Varışı” adını taşıyan bu filmde kamera sabittir ve ilk görülen şey uzaktaki bir buharlı lokomotiftir fakat hızla kameraya doğru yaklaşarak duran tren, seyirciler arasında korkuya, paniğe neden olur.
+    > 28 Aralık 1895'te Lumiere Kardeşler'in çektiği 49 saniye olan filmi Trenin Ciotat Garı'na Varışı'dır.
 
     ***
 1. "Sinema bir çocuğun sahip olabileceği en güzel oyuncaktır" diyen kimdir?
@@ -2899,7 +3124,8 @@
     - D-) Luis Bunuel
     - E-) Auguste Lumière
 
-    > **Açıklama:** "Sinema bir çocuğun sahip olabileceği en güzel oyuncaktır" diyen Orson Welles'tir.
+    > **Açıklama:** Sinema şeyin-şeylerin en güzel oyuncak olduğunu söyleyen Orson Welles’tir: “Sinema, bir çocuğun sahip olabileceği en güzel oyuncaktır.”
+    > "Sinema bir çocuğun sahip olabileceği en güzel oyuncaktır" diyen Orson Welles'tir.
 
     ***
 1. Gerçeküstücü sinemanın usta yönetmeni olan ve sinema, özgür bir kafanın elindeyse olağanüstü ve tehlikeli bir silah olarak tanımlayan kimdir?
@@ -2909,7 +3135,8 @@
     - **Cevap D-) Luis Bunuel**
     - E-) Auguste Lumiere
 
-    > **Açıklama:** Gerçeküstücü sinemanın usta yönetmeni olan ve sinema, özgür bir kafanın elindeyse olağanüstü ve tehlikeli bir silah olarak tanımlayan Luis Bunuel'dir.
+    > **Açıklama:** Oyuncağı silah olarak gören ise gerçeküstücü sinemanın usta yönetmeni Luis Bunuel’dir; ona göre sinema, özgür bir kafanın elindeyse olağanüstü ve tehlikeli bir silahtır çünkü düşler ve duygular, insanın içgüdü dünyasını anlatan en güçlü araçlardır.
+    > Gerçeküstücü sinemanın usta yönetmeni olan ve sinema, özgür bir kafanın elindeyse olağanüstü ve tehlikeli bir silah olarak tanımlayan Luis Bunuel'dir.
 
     ***
 1. Sofuların sinema caiz değildir diyeceklerini önceden düşünüp, olası bir baskıyla, engellemeyle baş etmek için müftüyü ve imamları bağ evine toplayıp, mükemmel bir şekilde ağırlayıp, konusu hac olan bir filmi getirip sinemasında göstereceğini duyuran ve Gaziantep'e sinemayı getiren kimdir?
@@ -2919,7 +3146,8 @@
     - D-) Orhan Barlas
     - **Cevap E-) Nakıp Ali**
 
-    > **Açıklama:** Sofuların sinema caiz değildir diyeceklerini önceden düşünüp, olası bir baskıyla, engellemeyle baş etmek için müftüyü ve imamları bağ evine toplayıp, mükemmel bir şekilde ağırlayıp, konusu hac olan bir filmi getirip sinemasında göstereceğini duyuran ve Gaziantep'e sinemayı getiren Nakıp Ali'dir.
+    > **Açıklama:** Nakıp Ali zekidir, çünkü sofuların sinema caiz değildir diyeceklerini önceden düşünüp, olası bir baskıyla, engellemeyle baş etmek için müftüyü ve imamları bağ evine toplayıp, mükemmel şekilde ağırlamış, konusu hac olan bir filmi getirtip sinemasında göstereceğini duyurmuştur. Belki de imamlar vaazlarında bu filmden bahsettiği için, kısa zamanda halk arasında bir söylenti çıkmış ve bu filmi üç defa görenlerin yarı hacı, yedi defa görenlerin tam hacı olacağı, daha film gelmeden kulaktan kulağa yayılmıştır.
+    > Sofuların sinema caiz değildir diyeceklerini önceden düşünüp, olası bir baskıyla, engellemeyle baş etmek için müftüyü ve imamları bağ evine toplayıp, mükemmel bir şekilde ağırlayıp, konusu hac olan bir filmi getirip sinemasında göstereceğini duyuran ve Gaziantep'e sinemayı getiren Nakıp Ali'dir.
 
     ***
 1. Sinema neden modern bir sanat dalıdır?
@@ -2929,27 +3157,41 @@
     - D-) Sinema, belli entellektüel kitlesi olduğu için
     - E-) Sinema özünde eklektik konular işlediği için
 
-    > **Açıklama:** Sinema doğrudan doğruya teknolojiye bağlı olarak çıktığı ve geliştiği için modern bir sanat dalıdır.
+    > **Açıklama:** Sinema, modern zamanların çocuğudur ve kısmen değil, tamamıyla modern olan, hem ilk hem de tek sanat dalıdır. Sinemanın modern olarak nitelendirilmesinin bir nedeni, bu sanat dalının doğrudan doğruya teknolojiye bağlı olarak ortaya çıkması ve gelişmesi ise bir başka neden de kalabalıklara, kitleye yönelik ilk sanat olmasıdır.
+    > Sinema doğrudan doğruya teknolojiye bağlı olarak çıktığı ve geliştiği için modern bir sanat dalıdır.
 
     ***
-1. Aşağıdakilerden hangisi Mozernizmin oluşmasında önayak olan akımlardan biri **değildir?**
+1. Geleneksel olandan, eskiden kopuşu, köklü ve radikal bir değişimle birlikte eskiden yeniye geçişi ve güncelliği ifade eden kavram hangisidir?
+    - A-) Klasik
+    - B-) Postmodern
+    - C-) Çağdaş
+    - D-) Antik
+    - **Cevap E-) Modern**
+
+    > **Açıklama:** Modern kavramı; geleneksel olandan, eskiden kopuşu, köklü (radikal) bir değişimle birlikte eskiden yeniye geçişi ve güncelliği ifade eder. C seçeneğindeki "Çağdaş" kavramı daha çok günümüze ait olan diğer bir deyişle *"contemporain"* olan ile karıştırılmaması gerekir, zira "Modern" sözcüğün geçmişi çok daha eskilere dayanır.
+    > Geleneksel olandan, eskiden kopuşu, köklü ve radikal bir değişimle birlikte eskiden yeniye geçişi ve güncelliği ifade eden kavram Modern'dir.
+
+    ***
+1. Aşağıdakilerden hangisi Mozernizmin oluşmasında önayak olan akımlardan biri **değildir?**
     - A-) Romantizm
     - B-) Realizm
     - C-) Natüralizm
     - D-) Sembolizm
     - **Cevap E-) Empresiyonizm**
 
-    > **Açıklama:** Tüm seçenekler Sanatta Modernizmin ya da modern sanatın oluşmasında önayak olmuşlardır. E seçeneğindeki Empresiyonizm (İzlenimcilik) diğer seçeneklere göre modernizm'in oluşmasında daha az etkili olmuştur. Her ne kadar Sembolik Şiir ile Empresiyonist resim kol kola olsalar da Empresiyonizm başlı başına modernizmin bir kolu olarak düşünmek gerekir.
+    > **Açıklama:** Sanatta modernizmin ya da modern sanatın ilk güçlü akımı romantizmdir. Modernizm 19. yüzyılda, özellikle de bu yüzyılın ikinci yarısında farklı adlarla, farklı çehrelerle belirginlik kazanarak karşımıza çıkar ki, bunların içerisinde en önemli olanları önce romantizm, romantizmden sonra da gerçekçilik (realizm), doğalcılık (natüralizm) ve sembolizmdir.
+    > Tüm seçenekler Sanatta Modernizmin ya da modern sanatın oluşmasında önayak olmuşlardır. E seçeneğindeki Empresiyonizm (İzlenimcilik) diğer seçeneklere göre modernizm'in oluşmasında daha az etkili olmuştur. Her ne kadar Sembolik Şiir ile Empresiyonist resim kol kola olsalar da Empresiyonizm başlı başına modernizmin bir kolu olarak düşünmek gerekir.
 
     ***
-1. Aşağıdakilerden hangisi Modern Sanatın 20. yy. başındaki yeni yüzünü oluşturan akımlardan biri **değildir?**
+1. Aşağıdakilerden hangisi Modern Sanatın 20. yy. başındaki yeni yüzünü oluşturan akımlardan biri **değildir?**
     - A-) Fütürizm
     - B-) Dadaizm
     - C-) Ekspresiyonizm
     - D-) Kübizm
     - **Cevap E-) Nihilizm**
 
-    > **Açıklama:** Nihilizm, Modern Sanatın 20. yy. başındaki yeni yüzünü oluşturan akımlardan biri değildir.
+    > **Açıklama:** Modern sanatın 20. yüzyıl başındaki yeni yüzü, karşı sanat ve *avangard* (öncü) sanattır. Gelecekçilik(fütürizm), dadaizm, gerçeküstücülük, dışavurumculuk, kübizm, pop sanat, kavramsal sanat gibi akımların hepsi bu aynı yüzün farklı farklı adları, görünümleridir (Savaş, 2013c).
+    > Nihilizm, Modern Sanatın 20. yy. başındaki yeni yüzünü oluşturan akımlardan biri değildir.
 
     ***
 1. Aşağıdaki filimlerden hangisi 1902 yılında Melies tarafından çekilmiş 14 dakikalık özel efektlerin kullanıldığı ilk bilimkurgu filmidir?
@@ -2959,7 +3201,9 @@
     - D-) Star Wars
     - E-) Star Trek
 
-    > **Açıklama:** 1902 yılında Melies tarafından çekilmiş 14 dakikalık özel efektlerin kullanıldığı ilk bilimkurgu filmi Ay'a Yolculuk'tur.
+    > **Açıklama:** Melies’nin en ünlü filmi, Jules Verne’nin romanından esinlenerek çektiği “Aya Yolculuk” (1902) adlı filmdir. 14 dakikalık bir film olan “Aya Yolculuk”, özel efektlerin kullanıldığı ilk film olmasının yanı
+    > sıra, sinema tarihinin bilinen ilk bilim kurgu filmidir (Savaş, 2013a).
+    > 1902 yılında Melies tarafından çekilmiş 14 dakikalık özel efektlerin kullanıldığı ilk bilimkurgu filmi Ay'a Yolculuk'tur.
 
     ***
 1. Fransız yazar ve filozof Jean Paul Sartre (1961) hangi eserinde "En bayağı olayın bir serüven haline gelmesi için onu anlatmanız gerekir ve yeter. Kişioğlu hikayecilikten kurtulamaz, kendi hikayleri ve başkalarının hikayeleri arasında yaşar." diyor?
@@ -2969,17 +3213,19 @@
     - **Cevap D-) Bulantı**
     - E-) Edebiyat Nedir?
 
-    > **Açıklama:** Fransız yazar ve filozof Jean Paul Sartre (1961), “Bulantı” adlı romanında “En bayağı olayın bir serüven haline gelmesi için onu anlatmanız gerekir ve yeter. Kişioğlu hikâyecilikten kurtulamaz, kendi hikâyeleri ve başkalarının hikayeleri arasında yaşar.” diyor.
+    > **Açıklama:** Fransız yazar ve filozof Jean Paul Sartre (1961), “Bulantı” adlı romanında “En bayağı olayın bir serüven haline gelmesi için onu anlatmanız gerekir ve yeter. Kişioğlu hikâyecilikten kurtulamaz, kendi hikâyeleri ve başkalarının hikâyeleri arasında yaşar.” diyor.
+    > Fransız yazar ve filozof Jean Paul Sartre (1961), “Bulantı” adlı romanında “En bayağı olayın bir serüven haline gelmesi için onu anlatmanız gerekir ve yeter. Kişioğlu hikâyecilikten kurtulamaz, kendi hikâyeleri ve başkalarının hikayeleri arasında yaşar.” diyor.
 
     ***
-1. Aşağıdakilerden hangisi geleneksel anlatıda dramatik yapının olay örgüsü aşamalarından **değildir?**
+1. Aşağıdakilerden hangisi geleneksel anlatıda dramatik yapının olay örgüsü aşamalarından **değildir?**
     - A-) Serim
     - B-) Düğüm
     - **Cevap C-) Tekrar Serim**
     - D-) Çatışma
     - E-) Doruk Noktası
 
-    > **Açıklama:** Tekrar Serim geleneksel anlatıda dramatik yapının olay örgüsü aşamalarından değildir.
+    > **Açıklama:** Geleneksel anlatıda dramatik yapının olay örgüsü *serim*, *düğüm*, *çatışma*, *doruk noktası* ve *çözüm* aşamalarından oluşur.
+    > Tekrar Serim geleneksel anlatıda dramatik yapının olay örgüsü aşamalarından değildir.
 
     ***
 1. İzleyicinin kurmaca bir gerçek karşısında olduğunu unutması ve anlatıyı gerçek - hakikat olarak görmesi ya da yaşaması durumuna ne ad verilir?
@@ -2989,7 +3235,8 @@
     - D-) Doruk noktası
     - E-) Kriz noktaları
 
-    > **Açıklama:** İzleyicinin kurmaca bir gerçek karşısında olduğunu unutması ve anlatıyı gerçek - hakikat olarak görmesi ya da yaşaması durumuna *Gönüllü aldanma* olarak adlandırılır.
+    > **Açıklama:** İzleyicinin kurmaca bir gerçek karşısında olduğunu unutması ve anlatıyı gerçek-hakikat olarak görmesi ya da yaşamasıdır. “Gönüllü aldanma” olarak da adlandırılan bu durum, izleyicinin kurmaca olduğunu bildiği şeyi kısa süre için de olsa kendi isteğiyle gerçekmiş gibi kabul etmesidir (Oluk, 2008).
+    > İzleyicinin kurmaca bir gerçek karşısında olduğunu unutması ve anlatıyı gerçek - hakikat olarak görmesi ya da yaşaması durumuna *Gönüllü aldanma* olarak adlandırılır.
 
     ***
 1. Çağdaş anlatının geleneksel anlatıdan ayrılan en önemli özelliği nedir?
@@ -2999,17 +3246,19 @@
     - D-) Çağdaş anlatıda, gerçeklik sorgulanmaz
     - E-) Çağdaş anlatıda önemli olan gerçeğe benzerlik yanılsaması yaratmak
 
-    > **Açıklama:** Çağdaş anlatının geleneksel anlatıdan ayrılan en önemli özellik çağdaş anlatıda izleyiciyi bir gerçeklik yanılsaması içine sokmaktan uzak durmasıdır.
+    > **Açıklama:** Çağdaş anlatının geleneksel anlatıdan ayrılan en önemli özelliği, izleyiciyi bir gerçeklik yanılsa- ması içine sokmaktan özenle kaçınması, uzak durmasıdır. Geleneksel anlatıda izleyici kurmaca evrenin içine çekilir, çağdaş anlatıda ise gözlemci olarak dışarıda tutulur, olayla-karakterlerle özdeşleşmek yerine inceler durumdadır. Çağdaş anlatı bilinçli olarak izleyicisi ile arasına mesafe koyan anlatıdır çünkü bu anlatıda önemli olan gerçeğe benzerlik yanılsaması yaratmak değil, gerçeği-gerçekliği sorgulamaktır.
+    > Çağdaş anlatının geleneksel anlatıdan ayrılan en önemli özellik çağdaş anlatıda izleyiciyi bir gerçeklik yanılsaması içine sokmaktan uzak durmasıdır.
 
     ***
-1. Aşağıdakilerden hangisi 1942-1951 arasındaki İtalyan Yeni Gerçekçiliği akımındaki bir yenilik **değildir?**
+1. Aşağıdakilerden hangisi 1942-1951 arasındaki İtalyan Yeni Gerçekçiliği akımındaki bir yenilik **değildir?**
     - A-) Profesyonel oyuncular yerine amatör oyuncularla çalışması
     - B-) Doğaçlamaya yer vermesi
     - C-) Kamerayı stüdyo dışına sokağa çıkarması
     - D-) Kurguda özel efektlere başvurmayı reddetmesi
     - **Cevap E-) Ticari kaygılı yüksek bütçeli filmler olması**
 
-    > **Açıklama:** Ticari kaygılı yüksek bütçeli filmler olması, 1942-1951 arasındaki İtalyan Yeni Gerçekçiliği akımındaki bir yenilik olarak görülmez. Günümüz Hollywood filimleri için bu söylenebilir.
+    > **Açıklama:** Çağdaş anlatı sinemasına giden yolda ilk dönüm noktasının, İtalyan Yeni Gerçekçiliği (1942- 1951) olduğu söylenebilir ki, Gilles Deleuze’e göre bu akım, sinema için yalnızca bir dönüm noktası değil, apaçık bir devrimdir, sinemanın yeniden keşfidir. Akımın gerçekçiliğindeki yenilik, yalnızca profesyonel oyuncular yerine amatör oyuncularla çalışması, doğaçlamaya yer vermesi, kamerayı stüdyo dışına, sokağa çıkarması, düşük bütçeli filmler yapması, kurguda özel efektlere başvurmayı reddetmesi, belgesele yakın teknik vb. değildir.
+    > Ticari kaygılı yüksek bütçeli filmler olması, 1942-1951 arasındaki İtalyan Yeni Gerçekçiliği akımındaki bir yenilik olarak görülmez. Günümüz Hollywood filimleri için bu söylenebilir.
 
     ***
 1. Aşağıdakilerden hangisi Yeni Gerçeklik başyapıtlarından olan De Sica'nın filmidir?
@@ -3019,10 +3268,11 @@
     - **Cevap D-) Bisiklet Hırsızları**
     - E-) Rocco Kardeşler
 
-    > **Açıklama:** Bisiklet Hırsızları Yeni Gerçeklik başyapıtlarından olan De Sica'nın filmidir.
+    > **Açıklama:** Yeni Gerçekçilik denilince akla ilk gelen ve akımın başyapıtlarından birisi olan De Sica’nın Bisiklet Hırsızları’nda konu yok denilecek kadar basittir, önemsizdir.
+    > Bisiklet Hırsızları Yeni Gerçeklik başyapıtlarından olan De Sica'nın filmidir.
 
     ***
-1. Aşağıdakilerden hangisi Fransız Yeni Dalga Sineması (1959-64) olarak adlandırılan akımın içinde yer alan yönetmenlerden biri **değildir?**
+1. Aşağıdakilerden hangisi Fransız Yeni Dalga Sineması (1959-64) olarak adlandırılan akımın içinde yer alan yönetmenlerden biri **değildir?**
     - A-) François Truffaut
     - **Cevap B-) Maurice Ravel**
     - C-) Alain Resnais
@@ -3032,6 +3282,28 @@
     > **Açıklama:** Bu yeni dönemin, Fransız Yeni Dalga Sineması (1959-64) olarak adlandırılan akımın içinde yer alan yönetmenlerle (François Truffaut, Alain Resnais, Claude Chabrol, Roger Vadim, Jean Pierre Melville, Jacques Rivetta, Chris Marker, Agnes Varda vb.) birlikte başladığı söylenebilir. B seçeneğindeki isim, yani Maurice Ravel, bir bestecidir.
 
     ***
+1. Gerçekliğin perdede gösterilmesinden ziyade onun yaratılması, oluşturulması durumu aşağıdakilerden hangisi ile açıklanabilir?
+    - A-) Pudovkin etkisi
+    - B-) Vertov etkisi
+    - C-) Kurşçev etkisi
+    - **Cevap D-) Kuleşov etkisi**
+    - E-) Ayzenştayn etkisi
+
+    > **Açıklama:** Pudovkin ve Kuleşov, deneysel arayışları sonucunda “Kuleşov Etkisi” olarak adlandırılan etkiyi keşfeder. Söz konusu etki, gerçekliğin perdede gösterilmesi değil; yaratılması, oluşturulması olarak özetlenebilir.
+
+    ***
+1. Robert J. Flaherty'nin 1922'de çektiği ve bir Eskimo ailesinin gündelik yaşamını, geleneklerini, doğayla nasıl mücadele ettiklerini anlatan Kuzeyli Nanook adlı belgeselde fok balığının nasıl avlandığı sahnesi hangi kuram ile bağdaştırılabilir?
+    - **Cevap A-) Gerçekçi Film Kuramı**
+    - B-) Kurgu Film Kuramı
+    - C-) Gerçeküstü Film Kuramı
+    - D-) Biçimci Film Kuramı
+    - E-) Eleştirel Film Kuramı
+
+    > **Açıklama:** Film dilinin evrimini, nasıl geliştiğini inceleyen sinema kuramcısı Andre Bazin bu soruya yanıt ararken yönetmen Robert J. Flaherty’nin Kuzeyli Nanook (Nanook of the North, 1922) adlı belgesel filmini ele alır. Belgesel sinemanın ilk ve en önemli örneklerinden biri olarak kabul edilen bu film bir eskimo ailesinin gündelik yaşamını, geleneklerini, doğayla nasıl mücadele ettiklerini anlatır.
+    > Bazin’e göre bu filmdeki fok balığı avlama sahnesi sinema tarihi içinde ayrı bir yeri olan bir çekim şaheseridir. Yönetmen, eskimonun fok balığını nasıl avladığını, avın başından sonuna kadar tek bir çekimle anlatır. Oysa av için hazırlığı, avın başlangıcını, avını yakaladığı anı ve avın bitişini ayrı ayrı çekimlerle kayıt etmek ve bu çekimleri kurguyla bir araya getirmek olanaklıdır ki
+    > Robert J. Flaherty'nin 1922'de çektiği ve bir Eskimo ailesinin gündelik yaşamını, geleneklerini, doğayla nasıl mücadele ettiklerini anlatan Kuzeyli Nanook adlı belgeselde fok balığının nasıl avlandığı sahnesi Gerçekçi Filim Kuramı ile bağdaştırılabilir.
+
+    ***
 1. Orson Welles'in 1940'da çektiği "Yurttaş Kane" filmi sinemaya nasıl bir yenilik getirir?
     - A-) Gerçeküstü sinemanın ilk örneği
     - B-) Plan-sekans tekniği ile çekilen ilk film olması
@@ -3039,7 +3311,18 @@
     - D-) Hollywood sinemasının ilk modern yapıtı
     - **Cevap E-) Uzun çekimler ile alan derinliğine verilen ayrıcalıklı önem**
 
-    > **Açıklama:** Uzun çekimler ile alan derinliğine verilen ayrıcalıklı önem ile "Yurttaş Kane" film biçimine getirdiği en önemli yenilik olarak görebiliriz.
+    > **Açıklama:** “Yurttaş Kane”nin film biçimine getirdiği en önemli yenilik çekimlerde alan derinliğine verilen ayrıcalıklı önem ve alan derinliğinin kullanıldığı uzun çekimler ile filmin kurgusu arasındaki olağanüstü başarı ve uyumdur. Teknik olarak, alan derinliği (depth of field) kameraya en yakın ve en uzak alandaki her şeyin net odakta olması şeklinde tanımlanabilir.
+    > Uzun çekimler ile alan derinliğine verilen ayrıcalıklı önem ile "Yurttaş Kane" film biçimine getirdiği en önemli yenilik olarak görebiliriz.
+
+    ***
+1. Sinemaya felsefe ile bakışta, bu bakışın film eleştirisine taşınmasında ölçüt nedir?
+    - A-) İde
+    - B-) Yapıtın kendisi
+    - C-) Felsefi akımı
+    - **Cevap D-) insan**
+    - E-) Sorgu
+
+    > **Açıklama:** Sinemaya felsefe ile bakmanın bir yolu da felsefi bakışı, film eleştirisine taşımaktır. Sinemaya felsefe ile bakışta, bu bakışın film eleştirisine taşınmasında ölçüt “insan”dır; insan ve insana bağlı değerlerdir.
 
     ***
 1. İlk film, aşağıdaki yönetmenlerden hangisi tarafından çekmiştir.
@@ -3063,7 +3346,7 @@
     > **Açıklama:** Alfred Hitchcock’a soracak olursanız “sinema bir hayat dilimi değildir; bir pasta dilimidir.” Ona göre, sinema gerçek yaşamdan bir kesit değil, güzel vakit geçirmemizi sağlayan bir araçtır. Bu nedenle olsa gerek, “drama, sıkıcı bölümleri atılmış hayat­tır” diyen de yine Hitchcock’tur (Savaş, 2018).
 
     ***
-1. Sinemanın en yalın ifadesi olarak görülebilecek olan  “Beyazperdede kıpırdayan her şey sinemadır.” İfadesi aşağıdaki yönetmenlerden hangisine aittir.
+1. Sinemanın en yalın ifadesi olarak görülebilecek olan “Beyazperdede kıpırdayan her şey sinemadır.” İfadesi aşağıdaki yönetmenlerden hangisine aittir.
     - A-) Andrey Tarkovski
     - B-) Alfred Hitchcock
     - **Cevap C-) Jean Renoir**
@@ -3151,7 +3434,8 @@
     - **Cevap D-) Her anlatı aynı zamanda bir öyküdür.**
     - E-) Tarih kayıtları olayların bir listesini sunduğu için öykü değil, anlatıdır.
 
-    > **Açıklama:** Anlatı, gerçek ya da düşsel olayların değişik gösterge dizgeleri aracılığıyla anlatılması sonucunda ortaya çıkmış bütün olarak tanımlanır. Bir başka tanım ise durumların, olayların, kişilerin ve kişiler arasındaki ilişkilerinin öykülenmesidir. Her öykü bir anlatıdır fakat her anlatı bir öykü değildir.
+    > **Açıklama:** Bu soru "SİNEMADA ANLATI TÜRLERİ VE ELEŞTİREL DÜŞÜNCE" başlığından türetilmiştir.
+    > Anlatı, gerçek ya da düşsel olayların değişik gösterge dizgeleri aracılığıyla anlatılması sonucunda ortaya çıkmış bütün olarak tanımlanır. Bir başka tanım ise durumların, olayların, kişilerin ve kişiler arasındaki ilişkilerinin öykülenmesidir. Her öykü bir anlatıdır fakat her anlatı bir öykü değildir.
     > Mektup, makale, gazete yazısı, tarih kayıtları da birer anlatıdır ama öykü değildir bunlar. Söz gelimi, tarih kayıtları olayların bir listesini sunar fakat olay örgüsünden yoksun olduğu için öykü değildir.
 
     ***
@@ -3162,8 +3446,9 @@
     - D-) Başlangıçtaki hareketsizliği, denge durumunu bozar ve eylemi başlatır.
     - **Cevap E-) Oyunun başından sonuna kadar süren bilgi verme sürecini içerir.**
 
-    > **Açıklama:** Serim bölümü çoğu zaman oyunun başlangıç noktası olarak algılansa da aslında oyunun başından sonuna kadar süren bilgi verme sürecini içerir. İzleyici serim aşamasında karakterleri tanır,
-    > karakterler arasında çatışma/mücadele öncesinde ve sırasında, çeşitli durumların neden, ne zaman ve nasıl olup da bu hâle geldiğini anlar.  Düğüm, başlangıçtaki hareketsizliği, denge durumunu bozan ve eylemi başlatan şeydir, çoğu zaman ortaya çıkan bir sorundur. Çatışma iki güç arasındaki zıtlığı ve çözümün kuşkulu olduğunu duyurur. Doruk noktası, gerilimin had safhaya ulaştığı noktadır.  Çözüm aşamasında  tüm çatışmalar biter, düğümler çözülür, izleyicinin kafasında soru işareti kalmaz ve tüm şüpheler giderilir .
+    > **Açıklama:** Bu soru "Geleneksel Anlatı Sineması" başlığından türetilmiştir.
+    > Serim bölümü çoğu zaman oyunun başlangıç noktası olarak algılansa da aslında oyunun başından sonuna kadar süren bilgi verme sürecini içerir. İzleyici serim aşamasında karakterleri tanır,
+    > karakterler arasında çatışma/mücadele öncesinde ve sırasında, çeşitli durumların neden, ne zaman ve nasıl olup da bu hâle geldiğini anlar. Düğüm, başlangıçtaki hareketsizliği, denge durumunu bozan ve eylemi başlatan şeydir, çoğu zaman ortaya çıkan bir sorundur. Çatışma iki güç arasındaki zıtlığı ve çözümün kuşkulu olduğunu duyurur. Doruk noktası, gerilimin had safhaya ulaştığı noktadır. Çözüm aşamasında tüm çatışmalar biter, düğümler çözülür, izleyicinin kafasında soru işareti kalmaz ve tüm şüpheler giderilir .
 
     ***
 1. Geleneksel anlatıda öyküyü oluşturan olay örgüsünün neden-sonuç ilişkilerine göre düzenlenmesine verilen ad hangisidir?
@@ -3173,18 +3458,20 @@
     - D-) Seyirci arınması
     - E-) Dramatik gerilim
 
-    > **Açıklama:** Geleneksel anlatı, akıl ve akılcılık temeli üzerine inşa edilen bir yapıdır. Öykü ve öyküyü oluşturan olay örgüsü neden-sonuç ilişkilerine göre düzenlenir ve temel ilkesi “sürekli ilerleme”dir. Bu ilkeye göre, her sahne bir sonraki ya da önceki sahnenin nedeni ya da sonucu olacak şekilde belirlenir ve böylece izleyicinin dikkati, merakı sürekli ayakta tutulmaya çalışılır.
+    > **Açıklama:** Bu soru "Geleneksel Anlatı Sineması" başlığından türetilmiştir.
+    > Geleneksel anlatı, akıl ve akılcılık temeli üzerine inşa edilen bir yapıdır. Öykü ve öyküyü oluşturan olay örgüsü neden-sonuç ilişkilerine göre düzenlenir ve temel ilkesi “sürekli ilerleme”dir. Bu ilkeye göre, her sahne bir sonraki ya da önceki sahnenin nedeni ya da sonucu olacak şekilde belirlenir ve böylece izleyicinin dikkati, merakı sürekli ayakta tutulmaya çalışılır.
 
     ***
 1. Aşağıdakilerden hangisi geleneksel anlatı ile modern anlatı arasındaki farkı doğru vermektedir?
     - A-) Geleneksel anlatının çağdaş anlatıdan ayrılan en önemli özelliği, izleyiciyi bir gerçeklik yanılsaması içine sokmaktan özenle kaçınmasıdır.
-    - **Cevap B-) Geleneksel anlatıda izleyici kurmaca evrenin içine çekilir, çağdaş anlatıda ise gözlemci olarak   dışarıda tutulur.**
+    - **Cevap B-) Geleneksel anlatıda izleyici kurmaca evrenin içine çekilir, çağdaş anlatıda ise gözlemci olarak dışarıda tutulur.**
     - C-) Geleneksel anlatıda olayla-karakterleri incelemek varken modern anlatıda özdeşleşmek önemlidir.
-    - D-) Geleneksel anlatıda izleyicinin soru sorması ve sorgulaması önemliyken modern anlatıda duygusal katılım öne çıkar.
+    - D-) Geleneksel anlatıda izleyicinin soru sorması ve sorgulaması önemliyken modern anlatıda duygusal katılım öne çıkar.
     - E-) Geleneksel anlatının temel ilkelerinden birisi felsefik bakış iken modern anlatıda amaç “kolay anlaşılır” olmaktır.
 
-    > **Açıklama:** Çağdaş anlatının geleneksel anlatıdan ayrılan en önemli özelliği, izleyiciyi bir gerçeklik yanılsaması içine sokmaktan özenle kaçınması, uzak durmasıdır. Geleneksel anlatıda izleyici kurmaca evrenin içine çekilir, çağdaş anlatıda ise gözlemci olarak dışarıda tutulur, olayla-karakterlerle özdeşleşmek
-    > yerine inceler durumdadır. Çağdaş anlatı izleyicide özdeşleşmeye  dayalı duygusal bir haz yaratmayı değil, izleyicinin aklını, düşüncesini devreye sokmaya çalışır. İstenen şey, izleyicinin perdede izlediği filme duygusal katılımının yanı sıra soru sorması, sorgulaması ve düşünmesidir. Geleneksel anlatının temel ilkelerinden birisi “kolay anlaşılır” olmaktır. Bunun için nedenler ve sonuçlar en anlaşılır ve kolay kabul edilir şekilde sunulur ve güven duygusu verir. Öte yandan çağdaş anlatı rahatsızlık verir ve tedirgin edicidir çünkü insanı, hayatı sorgularken bizden de bu sorgulamaya katılmamızı bekler.
+    > **Açıklama:** Bu soru "Çağdaş (Modern) Anlatı Sineması" başlığından türetilmiştir.
+    > Çağdaş anlatının geleneksel anlatıdan ayrılan en önemli özelliği, izleyiciyi bir gerçeklik yanılsaması içine sokmaktan özenle kaçınması, uzak durmasıdır. Geleneksel anlatıda izleyici kurmaca evrenin içine çekilir, çağdaş anlatıda ise gözlemci olarak dışarıda tutulur, olayla-karakterlerle özdeşleşmek
+    > yerine inceler durumdadır. Çağdaş anlatı izleyicide özdeşleşmeye dayalı duygusal bir haz yaratmayı değil, izleyicinin aklını, düşüncesini devreye sokmaya çalışır. İstenen şey, izleyicinin perdede izlediği filme duygusal katılımının yanı sıra soru sorması, sorgulaması ve düşünmesidir. Geleneksel anlatının temel ilkelerinden birisi “kolay anlaşılır” olmaktır. Bunun için nedenler ve sonuçlar en anlaşılır ve kolay kabul edilir şekilde sunulur ve güven duygusu verir. Öte yandan çağdaş anlatı rahatsızlık verir ve tedirgin edicidir çünkü insanı, hayatı sorgularken bizden de bu sorgulamaya katılmamızı bekler.
 
     ***
 1. Andrey Tarkovski’ye göre sinemanın amacı aşağıdakilerden hangisidir?
@@ -3194,7 +3481,24 @@
     - D-) Dünyayı değiştirecek olan şey filmler değil, o filmleri izleyen insanlardır
     - E-) Beyazperdede kıpırdayan her şey sinemadır.
 
-    > **Açıklama:** Rus yönetmen Andrey Tarkovski’ye göre sinemanın amacı, insanı ölüme hazırlamaktır. Belki de bu yüzden Tarkovski’den bir film izleyen, o filmi kolay kolay unutamaz.
+    > **Açıklama:** Bu soru "GİRİŞ" başlığından türetilmiştir.
+    > Rus yönetmen Andrey Tarkovski’ye göre sinemanın amacı, insanı ölüme hazırlamaktır. Belki de bu yüzden Tarkovski’den bir film izleyen, o filmi kolay kolay unutamaz.
+
+    ***
+1. Aşağıdakilerden hangisi İtalyan Yeni Gerçekçiliği (1942- 1951) akımından Vittorio De Sica'nın konusu yok denilecek kadar basit ve önemsiz olan ama güçlü flimidir ?
+    - A-) Roma Açık Şehir
+    - B-) Almanya Sıfır Yılı
+    - C-) Vittorio de Sica’nın
+    - **Cevap D-) Bisiklet Hırsızları**
+    - E-) Yer Sarsılıyor
+
+    > **Açıklama:** Bu soru "Parçalanmış Yaşamın Görsel Estetiği
+    > ve Yenilik Arayışı: İtalyan Yeni
+    > Gerçekçiliği, Fransız Yeni Dalga
+    > Sineması" başlığından türetilmiştir.
+    > Yeni Gerçekçi Sinema, adı bu akımın kuramıyla birlikte anılan Zavattini’nin (Aktaran: Hakan Savaş,
+    > 2013a) dile getirdiği gibi, sinemada gerçeğe bakan gözün, bakışın kökten değişmesiyle açıklanmalıdır:“... Kısacası, gördük ki, gerçek son derece zengindi, sadece bu gerçeğe bakmayı bilmek gerekiyordu. Sanatçının görevi de birtakım hilelere başvurarak seyirciyi heyecanlandırmak ya da tiksindirmek değil, onu kendisinin ya da başkalarının yaptığı şeyler üzerine düşünmeye (isterseniz heyecana hatta tiksinmeye) yöneltmekti. Böylelikle gerçek karşısında duyulan derin, bilinçaltı güvensizlikten, yalancı ve belli belirsiz bir kaçıştan, eşyaya, olaylara, insanlara
+    > sonsuz bir güvene geçildi.”
 
     ***
 1. Görüntü dilindeki anlatının ve anlatıdaki olayların zaman içerisindeki gelişimini, sürekliliği de yine kurguyla gerçekleştiğini vurgulayan sinema kuramı aşağıdakilerden hangisidir?
@@ -3204,19 +3508,21 @@
     - D-) ***Gerçekçi Kuram***
     - E-) Gerçeküstücü sinema
 
-    > **Açıklama:** Biçimci film kuramına göre sinemada anlamı yaratan temel öge “kurgu”dur. Sinematografik bir
+    > **Açıklama:** bu soru "FİLM KURAMLARI VE ELEŞTİRİ" başlığından türetilmiştir.
+    > Biçimci film kuramına göre sinemada anlamı yaratan temel öge “kurgu”dur. Sinematografik bir
     > teknik olarak kurgu (montaj) art arda gelen iki ayrı çekim arasındaki bütünlüğü sağlayandır. Görüntü dilindeki anlatının ve anlatıdaki olayların zaman içerisindeki gelişimini, sürekliliği de yine
     > kurguyla gerçekleşir.
 
     ***
-1. Gwerçekçi film anlayışındaki kurtarılmış gerçeklik ifadesi kime aittir?
+1. Gwerçekçi film anlayışındaki kurtarılmış gerçeklik ifadesi kime aittir?
     - A-) Ayzenştayn
     - B-) Orson Welles
     - **Cevap C-) Siegfried Kracauer**
     - D-) Andre Bazin
     - E-) Robert J. Flaherty’
 
-    > **Açıklama:** rçekçi film anlayışının önemli kuramcılarından birisi olan Siegfried Kracauer’a göre de sinemayı
+    > **Açıklama:** Bu soru "V" başlığından türetilmiştir.
+    > rçekçi film anlayışının önemli kuramcılarından birisi olan Siegfried Kracauer’a göre de sinemayı
     > sanat yapan şey “kurtarılmış gerçeklik”tir. Yönetmen, kurguya başvurmadan da gözümüzün önünde durduğu hâlde göremediğimiz, fark etmediğimiz ayrıntıları kamerasını kullanarak kurtarabilir, yakalayabilir
 
     ***
@@ -3227,7 +3533,11 @@
     - D-) Roger Vadim
     - E-) Jean Pierre Melville
 
-    > **Açıklama:** Alain Resnais’in ünlü filmi “Hiroşima Sevgilim”, yalnızca bir Japon ile Hiroşima’da çekilecek bir filmde oynamak üzere orada bulunan Avrupalı bir kadın arasında geçen aşkın öyküsünü anlatan, bu sırada araya Hiroşima’ya atılan atom bombasıyla ilgili belgesel görüntüleri sıkıştıran bir film değil, “bellek” üzerine yazılmış bir şiirdir…
+    > **Açıklama:** Bu soru "Parçalanmış Yaşamın Görsel Estetiği
+    > ve Yenilik Arayışı: İtalyan Yeni
+    > Gerçekçiliği, Fransız Yeni Dalga
+    > Sineması" başlığından türetilmiştir.
+    > Alain Resnais’in ünlü filmi “Hiroşima Sevgilim”, yalnızca bir Japon ile Hiroşima’da çekilecek bir filmde oynamak üzere orada bulunan Avrupalı bir kadın arasında geçen aşkın öyküsünü anlatan, bu sırada araya Hiroşima’ya atılan atom bombasıyla ilgili belgesel görüntüleri sıkıştıran bir film değil, “bellek” üzerine yazılmış bir şiirdir…
     > Bu filmde önemli olan kadın ile erkeğin arasındaki aşkı anlatan sahnelerin akılcı hikâyesi değildir.
 
     ***
@@ -3238,7 +3548,8 @@
     - D-) kişilerin tanıtıldığı aşama
     - E-) Olay örgüsünün kurulduğu aşama
 
-    > **Açıklama:** Serim bölümü çoğu zaman oyunun başlangıç noktası olarak algılansa da aslında oyunun başından sonuna kadar süren bilgi verme sürecini içerir. İzleyici serim aşamasında karakterleri tanır, karakterler arasında çatışma/mücadele öncesinde ve sırasında, çeşitli durumların neden, ne zaman ve nasıl olup da bu hâle geldiğini anlar. **Düğüm, başlangıçtaki hareketsizliği, denge durumunu bozan ve eylemi başlatan şeydir, çoğu zaman ortaya çıkan bir sorundur.** Çatışma iki güç arasındaki zıtlığı ve çözümün kuşkulu olduğunu duyurur. Doruk noktası, gerilimin had safhaya ulaştığı noktadır.  Çözüm aşamasında  tüm çatışmalar biter, düğümler çözülür, izleyicinin kafasında soru işareti kalmaz ve tüm şüpheler giderilir .
+    > **Açıklama:** Bu sru
+    > Serim bölümü çoğu zaman oyunun başlangıç noktası olarak algılansa da aslında oyunun başından sonuna kadar süren bilgi verme sürecini içerir. İzleyici serim aşamasında karakterleri tanır, karakterler arasında çatışma/mücadele öncesinde ve sırasında, çeşitli durumların neden, ne zaman ve nasıl olup da bu hâle geldiğini anlar. **Düğüm, başlangıçtaki hareketsizliği, denge durumunu bozan ve eylemi başlatan şeydir, çoğu zaman ortaya çıkan bir sorundur.** Çatışma iki güç arasındaki zıtlığı ve çözümün kuşkulu olduğunu duyurur. Doruk noktası, gerilimin had safhaya ulaştığı noktadır. Çözüm aşamasında tüm çatışmalar biter, düğümler çözülür, izleyicinin kafasında soru işareti kalmaz ve tüm şüpheler giderilir .
 
     ***
 ## Unite 8
@@ -3287,11 +3598,11 @@
 
     ***
 1. Karikatürler ne zamandan itibaren bugünkü anlamda propaganda aracı olarak kullanılmıştır?
-    - A-) 20. yüzyıldan itibaren
-    - B-) 19. yüzyıldan itibaren
-    - C-) 18. yüzyıldan itibaren
-    - **Cevap D-) 17. yüzyıldan itibaren**
-    - E-) 16. yüzyıldan itibaren
+    - A-) 20\. yüzyıldan itibaren
+    - B-) 19\. yüzyıldan itibaren
+    - C-) 18\. yüzyıldan itibaren
+    - **Cevap D-) 17\. yüzyıldan itibaren**
+    - E-) 16\. yüzyıldan itibaren
 
     > **Açıklama:** Karikatürler 17. yüzyıldan itibaren bugünkü anlamda propaganda aracı olarak kullanılmıştır.
 
@@ -3338,10 +3649,10 @@
     - E-) 6
 
     > **Açıklama:** Negatif bir bakış açısının hissizleştirici olasılıkları ezici etkisinin üstesinden gelmeye yardımcı olmak ve odaklanmak için aşağıdaki dört temel kural uygulanır:
-    > 1. Fikirleri olumlu değerlendirme - yapıcı analiz:
-    > 2. Bilinçli ve açık olmak:
-    > 3. Fikirde hem yenilik hem de uygunluk:
-    > 4. Rotada kalmak:
+    > 1\. Fikirleri olumlu değerlendirme - yapıcı analiz:
+    > 2\. Bilinçli ve açık olmak:
+    > 3\. Fikirde hem yenilik hem de uygunluk:
+    > 4\. Rotada kalmak:
 
     ***
 1. "Yalnız ve tek bir doğruya bağlı, yoruma gerek bırakmayan, herkesin aynı cevabı doğru kabul ettiği düşünme yöntemi olarak tanımlayabiliriz."<br />Yukarıda verilen açıklama aşağıdaki seçeneklerden hangisine aittir?
@@ -3362,7 +3673,8 @@
     - **Cevap D-) Var olan düzenin gösterdiklerinin gizlemesi**
     - E-) Sosyal kurumlarla alay etmesi
 
-    > **Açıklama:** Karikatür, “bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığı” olarak tanımlanabilir. Aşırılığın bir coşkusu olan karikatür, ihlal yoluyla duygusal bir tepkiyi kışkırtmaya çalışır. Karikatür çoğu zaman ahlak ve akademik temsil kurallarını bozarak, var olan düzenin gizlediklerini görünür kılmayı, siyasi iktidara karşı bir direniş kültürü geliştirmeyi, sosyal kurumlarla alay etmeyi amaçlar.
+    > **Açıklama:** Bu soru "KARİKATÜR SANATINDA DÜNDEN BUGÜNE ELEŞTİREL DÜŞÜNCE" başlığından türetilmiştir.
+    > Karikatür, “bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığı” olarak tanımlanabilir. Aşırılığın bir coşkusu olan karikatür, ihlal yoluyla duygusal bir tepkiyi kışkırtmaya çalışır. Karikatür çoğu zaman ahlak ve akademik temsil kurallarını bozarak, var olan düzenin gizlediklerini görünür kılmayı, siyasi iktidara karşı bir direniş kültürü geliştirmeyi, sosyal kurumlarla alay etmeyi amaçlar.
 
     ***
 1. Aşağıdakilerden hangisi karikatürün ana nesnesi olarak görülmektedir?
@@ -3372,7 +3684,8 @@
     - D-) Doğa
     - **Cevap E-) İnsan bedeni**
 
-    > **Açıklama:** Karikatür, komik veya hicivsel amaçlar için özgün özelliklerini veya kusurlarını abartarak resmederken vücuda ve yüze deformasyon ekler. İnsan bedeni, karikatürün ana nesnesidir ve özellikle deformasyon yoluyla, ruh hâllerini ve anlamın gizli taraflarını ortaya çıkarmak isteyen bir yüzü vardır. Karikatür, alıcının düşüncesini oluşturan engellerinin, tabularının, bilinçli/bilinçsiz körlüklerinin görüntüler aracılığı ile yeniden sorgulanmasını amaçlar. Karikatürler belirli bir bedene aidiyet gösterebileceği gibi, sembolik bir boyuta erişip soyut veya toplumsal bir varlığı da temsil edebilir. Çoğu zaman, ideali arzulayan sanatın kurallarını veya geleneklerini ihlal ederler. Ama aynı zamanda onun yeni ifade biçimlerine doğru gelişmesine de katkıda bulunurlar. Bu bağlamda, karikatür anlam yüklenmiş resim anlamına gelmektedir.
+    > **Açıklama:** Bu soru "KARİKATÜR SANATINDA DÜNDEN BUGÜNE ELEŞTİREL DÜŞÜNCE" başlığından türetilmiştir.
+    > Karikatür, komik veya hicivsel amaçlar için özgün özelliklerini veya kusurlarını abartarak resmederken vücuda ve yüze deformasyon ekler. İnsan bedeni, karikatürün ana nesnesidir ve özellikle deformasyon yoluyla, ruh hâllerini ve anlamın gizli taraflarını ortaya çıkarmak isteyen bir yüzü vardır. Karikatür, alıcının düşüncesini oluşturan engellerinin, tabularının, bilinçli/bilinçsiz körlüklerinin görüntüler aracılığı ile yeniden sorgulanmasını amaçlar. Karikatürler belirli bir bedene aidiyet gösterebileceği gibi, sembolik bir boyuta erişip soyut veya toplumsal bir varlığı da temsil edebilir. Çoğu zaman, ideali arzulayan sanatın kurallarını veya geleneklerini ihlal ederler. Ama aynı zamanda onun yeni ifade biçimlerine doğru gelişmesine de katkıda bulunurlar. Bu bağlamda, karikatür anlam yüklenmiş resim anlamına gelmektedir.
 
     ***
 1. Aşağıdakilerden hangisi "siyasi karikatürler"in özelliklerinden biridir?
@@ -3382,7 +3695,8 @@
     - D-) Halkı belirli bir siyasi görüş üzerine kışkırtmaktan özellikle kaçınır.
     - E-) Karikatürlerin sade görünümü, ele alınan siyasi konuların karmaşıklığını gözler önüne serer.
 
-    > **Açıklama:** Siyasi karikatürler, sansasyonel etkileri olan çizimlerle siyasi bir meselenin özünü yakalamayı amaçlar. Siyasi karikatür veya politik karikatür, sanatçının görüşünü ifade eden bir çizim türüdür. Bu tür karikatürleri yazan ve çizen bir sanatçı, siyasi karikatürist olarak bilinir.   Karikatürlerin sade görünümü, karikatüristlerin ele aldığı siyasi konuların karmaşıklığını gizler. Siyasi karikatürlerin izleyici üzerindeki etkisi, karikatürcünün siyasi meseleyi bir imaja yansıtabilme yeteneğine bağlıdır. Aynı zamanda hedef kitlenin temsil edilen haberler hakkındaki farkındalık düzeylerine bağlıdır. Siyasi karikatürler, halkı eğlendirmek için siyasi figürleri kullanabileceği gibi, doğrudan siyasi bir mesaj iletmek için de kullanılabilir. Propagandacı karikatür, toplumdaki bölünmeleri vurgularken, siyasi bir bakış açısını vurgulayarak halkı kışkırtmayı ve katılımlarını teşvik etmeyi amaçlamaktadır. Sosyal yorum karikatürlerinde karikatürist, toplumun tamamını ya da bir bölümünü ilgilendirdiği herhangi bir konuda çelişkiyi öne çıkarmak için görüş bildirerek okuyucuların dikkatini çekmeye çalışır.
+    > **Açıklama:** Bu soru "KARİKATÜR SANATINDA DÜNDEN BUGÜNE ELEŞTİREL DÜŞÜNCE" başlığından türetilmiştir.
+    > Siyasi karikatürler, sansasyonel etkileri olan çizimlerle siyasi bir meselenin özünü yakalamayı amaçlar. Siyasi karikatür veya politik karikatür, sanatçının görüşünü ifade eden bir çizim türüdür. Bu tür karikatürleri yazan ve çizen bir sanatçı, siyasi karikatürist olarak bilinir. Karikatürlerin sade görünümü, karikatüristlerin ele aldığı siyasi konuların karmaşıklığını gizler. Siyasi karikatürlerin izleyici üzerindeki etkisi, karikatürcünün siyasi meseleyi bir imaja yansıtabilme yeteneğine bağlıdır. Aynı zamanda hedef kitlenin temsil edilen haberler hakkındaki farkındalık düzeylerine bağlıdır. Siyasi karikatürler, halkı eğlendirmek için siyasi figürleri kullanabileceği gibi, doğrudan siyasi bir mesaj iletmek için de kullanılabilir. Propagandacı karikatür, toplumdaki bölünmeleri vurgularken, siyasi bir bakış açısını vurgulayarak halkı kışkırtmayı ve katılımlarını teşvik etmeyi amaçlamaktadır. Sosyal yorum karikatürlerinde karikatürist, toplumun tamamını ya da bir bölümünü ilgilendirdiği herhangi bir konuda çelişkiyi öne çıkarmak için görüş bildirerek okuyucuların dikkatini çekmeye çalışır.
 
     ***
 1. Eski Çağ Roma yapılarında bulunan tuhaf, gülünç figürlerden oluşmuş süsleme üslubuna verilen ad hangisidir?
@@ -3392,7 +3706,8 @@
     - D-) Grafik
     - E-) Gravür
 
-    > **Açıklama:** Grotesk: 1. Eski Çağ Roma yapılarında bulunan tuhaf, gülünç figürlerden oluşmuş süsleme üslubu 2. Kaba gülünçlüklerden, tuhaf ve olmayacak şakalaşmalardan yararlanan, karşıt görüntüleri, bağdaşmaz durumları şaşırtıcı biçimde birleştiren güldürü biçimi
+    > **Açıklama:** Bu soru "Karikatür Sanatının Tarihsel Gelişimi" başlığından türetilmiştir.
+    > Grotesk: 1. Eski Çağ Roma yapılarında bulunan tuhaf, gülünç figürlerden oluşmuş süsleme üslubu 2. Kaba gülünçlüklerden, tuhaf ve olmayacak şakalaşmalardan yararlanan, karşıt görüntüleri, bağdaşmaz durumları şaşırtıcı biçimde birleştiren güldürü biçimi
 
     ***
 1. Dünyada yayımlanan ilk karikatür kitabı hangi ülkede basılmıştır?
@@ -3402,7 +3717,8 @@
     - D-) Fransa
     - E-) İtalya
 
-    > **Açıklama:** Dünyada yayımlanan ilk karikatür kitabı İngiltere’de basılan ve Mary Darly’nin Karikatürler Kitabı (A Book of Caricaturas -1762) adını verdiği eserdir.
+    > **Açıklama:** Bu soru "Karikatür Sanatının Tarihsel Gelişimi" başlığından türetilmiştir.
+    > Dünyada yayımlanan ilk karikatür kitabı İngiltere’de basılan ve Mary Darly’nin Karikatürler Kitabı (A Book of Caricaturas -1762) adını verdiği eserdir.
 
     ***
 1. Fransız yazar, eleştirmen Jules Barbey d’Aurevilly karikatürü nasıl tanımlamıştır?
@@ -3456,11 +3772,11 @@
 
     ***
 1. “Afiş”in ilk izleri, ürün ve hizmetlerini tanıtmak isteyen bazı bazı girişimciler tarafından hangi yüzyılda kullanıldığı bilinmektedir?
-    - A-) 14.yy ortasında
-    - B-) 17.yy birinci yarısında
-    - **Cevap C-) 15.yy ikinci yarısında**
-    - D-) 16.yy birinci yarısında
-    - E-) 13.yy ikinci yarısında
+    - A-) 14\.yy ortasında
+    - B-) 17\.yy birinci yarısında
+    - **Cevap C-) 15\.yy ikinci yarısında**
+    - D-) 16\.yy birinci yarısında
+    - E-) 13\.yy ikinci yarısında
 
     > **Açıklama:** Ön yüzüne basılmış ve duvara yapıştırılmış tek bir sayfa olan “afiş”in ilk izleri, 15. yüzyılın ikinci yarısında, ürün ve hizmetlerini tanıtmak isteyen bazı bazı girişimciler tarafından kullanıldığı bilinmektedir.
 
@@ -3512,17 +3828,19 @@
     - **Cevap D-) Basit temas baskısı ile negatif görüntüler üretilen yöntemdir.**
     - E-) Modern fotoğrafçılığın sona ermesini sağlamıştır.
 
-    > **Açıklama:** Kalotip, Yunanca “güzel” (kalos) ve “gösterim” (tupos) kelimelerinin birleştirilmesinden türetilmiş William Henry Fox Talbot tarafından icat edilen ve 1841’de patenti alınan bir fotoğraf işlemidir. Basit temas baskısı ile negatif görüntüler üretilen yöntem, modern film fotoğrafçılığının temelini oluşturur.
+    > **Açıklama:** Bu soru "Karikatür Sanatının Tarihsel Gelişimi" başlığından türetilmiştir.
+    > Kalotip, Yunanca “güzel” (kalos) ve “gösterim” (tupos) kelimelerinin birleştirilmesinden türetilmiş William Henry Fox Talbot tarafından icat edilen ve 1841’de patenti alınan bir fotoğraf işlemidir. Basit temas baskısı ile negatif görüntüler üretilen yöntem, modern film fotoğrafçılığının temelini oluşturur.
 
     ***
 1. Aşağıdakilerden hangisi afişin işlevlerinden biri **olamaz?**
     - A-) Bir mal, hizmet ya da etkinliği duyurmak, tanıtmak
     - B-) Sosyal, kültürel ve politik açıdan toplumun aynası olarak kitleleri etkilemek
-    - C-) Anlamı ileterek toplumsal hafıza için tetikleyici rol üstlenmek
+    - C-) Anlamı ileterek toplumsal hafıza için tetikleyici rol üstlenmek
     - D-) Bir ürün ya da hizmet üretip hedef kitlesine pazarlamak.
     - **Cevap E-) Geniş halk kitlelerini eğitmek.**
 
-    > **Açıklama:** Afiş, bir tanıtım aracı olmanın ötesinde, üretildiği dönemin veya bölgenin sosyal, kültürel ve politik bir aynası olmasının yanı sıra kitleleri etkileyen önemli bir araç olarak öne çıkmaktadır. Temel amaçlarından biri anlamı iletmek olan afiş, anlam bütünlüğü bağlamında bir sanat ürünü olarak da değerlendirilmektedir. Afiş, temel görsel elemanlar aracılığıyla estetik bir mesaj kurgular ve izleyiciyle buluşturur. Dolayısıyla afiş sanatının hatırlama kültürü bağlamında bireysel ve toplumsal hafıza için hafıza tetikleyici rolü olduğu söylenebilir.
+    > **Açıklama:** Bu soru "AFİŞ TASARIMINDA DÜNDEN BUGÜNE ELEŞTİREL DÜŞÜNCE " başlığından türetilmiştir.
+    > Afiş, bir tanıtım aracı olmanın ötesinde, üretildiği dönemin veya bölgenin sosyal, kültürel ve politik bir aynası olmasının yanı sıra kitleleri etkileyen önemli bir araç olarak öne çıkmaktadır. Temel amaçlarından biri anlamı iletmek olan afiş, anlam bütünlüğü bağlamında bir sanat ürünü olarak da değerlendirilmektedir. Afiş, temel görsel elemanlar aracılığıyla estetik bir mesaj kurgular ve izleyiciyle buluşturur. Dolayısıyla afiş sanatının hatırlama kültürü bağlamında bireysel ve toplumsal hafıza için hafıza tetikleyici rolü olduğu söylenebilir.
 
     ***
 1. Aşağıdakilerden hangisi "Plakatstil stili" ile ilgili **yanlış** bir açıklamadır?
@@ -3532,7 +3850,8 @@
     - D-) Afiş sanatının Art Nouveau’nun karmaşıklığından uzaklaştırmıştır.
     - E-) Kompozisyon merkezi bir nesneye odaklanır.
 
-    > **Açıklama:** Plakatstil (poster stili): 20. yüzyılın ilk yarısında stilize görüntü ve düz renk kullanarak görüntüyü yalnızca mesajı taşıyan nesne ve konuya odaklayan yalın bir afiş tasarım dilidir. Bu stilin ortak özellikleri, düz renklerle cesur ve göz alıcı yazılardır. Şekiller ve nesneler basitleştirilmiştir ve kompozisyon merkezi bir nesneye odaklanır. Plakatstil, Art Nouveau’nun karmaşıklığından uzaklaştı ve afiş sanatına daha modern bir bakış açısı getirdi.
+    > **Açıklama:** Bu soru "Afiş Tasarımının Tarihsel Gelişimi" başlığından türetilmiştir.
+    > Plakatstil (poster stili): 20. yüzyılın ilk yarısında stilize görüntü ve düz renk kullanarak görüntüyü yalnızca mesajı taşıyan nesne ve konuya odaklayan yalın bir afiş tasarım dilidir. Bu stilin ortak özellikleri, düz renklerle cesur ve göz alıcı yazılardır. Şekiller ve nesneler basitleştirilmiştir ve kompozisyon merkezi bir nesneye odaklanır. Plakatstil, Art Nouveau’nun karmaşıklığından uzaklaştı ve afiş sanatına daha modern bir bakış açısı getirdi.
 
     ***
 1. Bir olasılığın diğerine yol açtığı zincirleme uzantıları ele alma, hangi seçenek oluşturma aşamasını içermektedir?
@@ -3542,17 +3861,19 @@
     - D-) Tüm seçenekleri kabul etmek
     - E-) Odaklanmayı sağlamak
 
-    > **Açıklama:** Kombinasyon üretmek: Görsel iletişim temelli yeni fikir üretme oturumlarında bir olasılığın diğerine yol açtığı zincirleme uzantıları gelişir. Günlük yaşamda da bir fikrin diğerine nasıl yol açabileceği sıklıkla karşılaşılabilen bir durumdur.
+    > **Açıklama:** Bu soru "Seçenek Üretme Yönergeleri" başlığından türetilmiştir.
+    > Kombinasyon üretmek: Görsel iletişim temelli yeni fikir üretme oturumlarında bir olasılığın diğerine yol açtığı zincirleme uzantıları gelişir. Günlük yaşamda da bir fikrin diğerine nasıl yol açabileceği sıklıkla karşılaşılabilen bir durumdur.
 
     ***
-1. Aşağıdakilerden hangisi düşünme ile hissetme arasındaki ayrımı doğru biçimde betimlemektedir?
+1. Aşağıdakilerden hangisi düşünme ile hissetme arasındaki ayrımı doğru biçimde betimlemektedir?
     - A-) Düşünmek öznel bir tepki iken, hissetmek nesnel bir tepkidir.
     - B-) Düşünmek ve hissetmek birbiri için ardıl süreçlerle işler.
     - **Cevap C-) Hissetmek anlık, düşünmek ise bilinçli olarak ortaya çıkar.**
     - D-) Hissetmek yakınsak, düşünmek ise ıraksak düşünce ile ilintilidir.
     - E-) Hissetmek yanlış kararların, düşünmek ise doğru kararların belirleyicisidir.
 
-    > **Açıklama:** Hissetmek öznel bir tepkidir ve bilinçli düşünme yoluyla değil anlık olarak ortaya çıkar. Düşünmek, duyguların aksine bir sorunu çözmek, karar almak ya da anlayış geliştirmek üzere ortaya konan bilinçli zihinsel bir süreçtir. Duygu tanımlanamayacak kişisel özel durumlar içerirken, düşünce üzerinde ortak uzlaşılabilen bilgi ve eylemi amaçlar.
+    > **Açıklama:** Bu soru, " GRAFİK TASARIMDA ELEŞTİREL DÜŞÜNCE VE YARATICILIK" başlığından türetilmiştir.
+    > Hissetmek öznel bir tepkidir ve bilinçli düşünme yoluyla değil anlık olarak ortaya çıkar. Düşünmek, duyguların aksine bir sorunu çözmek, karar almak ya da anlayış geliştirmek üzere ortaya konan bilinçli zihinsel bir süreçtir. Duygu tanımlanamayacak kişisel özel durumlar içerirken, düşünce üzerinde ortak uzlaşılabilen bilgi ve eylemi amaçlar.
 
     ***
 1. “Karikatür” sözcüğü, türkçeye hangi dilden geçmiştir?
@@ -3562,7 +3883,7 @@
     - D-) Arapça
     - E-) Almanca
 
-    > **Açıklama:** Fransızca
+    > **Açıklama:** Türkçeye Fransızcadan geçen “karikatür” sözcüğü, İtalyanca “yüklemek” veya “şarj etmek” anlamına gelen “caricare” sözcüğünden türemiştir.
 
     ***
 1. Karikatürün işlevleri arasında aşağıdakilerden hangisi **yer almaz?**
@@ -3572,7 +3893,11 @@
     - D-) Mizahi eğlence
     - **Cevap E-) Sosyal sorumluluk**
 
-    > **Açıklama:** Sosyal so
+    > **Açıklama:** Karikatür işlevleri;
+    > • siyaset/propaganda,
+    > • sosyal hiciv, yorum,
+    > • mizahi eğlencedir.
+    > Sosyal so
 
     ***
 1. Abartma kelimesinin eş anlamlısı aşağıdakilerden hangisidir?
@@ -3582,17 +3907,17 @@
     - D-) Çelişki
     - E-) Şakacılık
 
-    > **Açıklama:** Grotesk
+    > **Açıklama:** Karikatürcülür tarafından kullanılan başlıca konu ele alma teknikleri, aşağılama (şakacılık), abartma (grotesk) veya çelişkidir (saçmalık).
 
     ***
-1. Kim İngiliz hiciv baskısının babası olarak kabul edilmiştir?
+1. Kim İngiliz hiciv baskısının babası olarak kabul edilmiştir?
     - A-) Bunbury
     - **Cevap B-) Hogarth**
     - C-) Sayers
     - D-) Gillray
     - E-) Cruikshank
 
-    > **Açıklama:** Hogarth
+    > **Açıklama:** İngiliz hiciv baskısının babası olarak kabul edilen Hogarth, dünyevi or- tamların diğer yüzünü, (gecekondular, kabareler, kumarhaneler, genelevler) gerçekliğini, siyasetin yapay ortamlarının gizli yüzünü gösteren ilk sa- natçılardan biridir.
 
     ***
 1. John Tenniel, Fiziksel karikatür ve temsili sanatını az da olsa günümüze değin değişen bir noktaya getiren kişi kaçlı yılların en üretken ve etkili karikatürcüsüdür?
@@ -3602,7 +3927,8 @@
     - **Cevap D-) 1850-60**
     - E-) 1860-70
 
-    > **Açıklama:** 1850-60
+    > **Açıklama:** Fiziksel karikatür ve temsili sanatını az da olsa günümüze değin değişen bir noktaya getiren kişi 1850’li ve 60’lı yılların en üretken ve etkili karikatürcüsü John Tenniel’dır.
+    > 1850-60
 
     ***
 1. Thomas Nast Nerelidir?
@@ -3612,7 +3938,8 @@
     - **Cevap D-) Alman asıllı Amerikan**
     - E-) Alman asıllı İngiliz
 
-    > **Açıklama:** Alman asıllı Amerikan
+    > **Açıklama:** Günümüzdeki Noel Baba imajı, karikatürist Alman asıllı Amerikalı Thomas Nast’ın 3 Ocak 1863 tarihli Harper’s Weekly dergisinde yayım- lanan çizimlerine dayanır.
+    > Alman asıllı Amerikan
 
     ***
 1. The Man of the Day adlı bir dizi için portreler çizdiği haftalık dört sayfalık La Lune gazetesi için yaptığı çalışmalarla tanınan karikatürist aşağıdakilerden hangisidir?
@@ -3622,7 +3949,7 @@
     - D-) Richard Doyle
     - E-) Charles Keene
 
-    > **Açıklama:** André Gill
+    > **Açıklama:** André Gill The Man of the Day adlı bir dizi için portreler çizdiği haftalık dört sayfalık La Lune gazetesi için yaptığı çalışmalarla tanındı.
 
     ***
 1. Amerikalı çizgi roman sanatçısı Richard Felton Outcault aşağıdakilerden hangisinin yaratıcısıdır?
@@ -3632,7 +3959,7 @@
     - D-) Mavi Çocuk
     - E-) Siyak Çocuk
 
-    > **Açıklama:** Sarı Çocuk
+    > **Açıklama:** Amerikalı çizgi roman sanatçısı Richard Felton Outcault Sarı Çocuk’un yaratıcısıdır.
 
     ***
 1. Konstrüktivizm akımından etkilenen Lissitzky’nin en ünlü eseri kaç tarihli “Beyazları Kırmızı Kama ile Yen” isimli propaganda afişidir?
@@ -3642,6 +3969,6 @@
     - D-) 1918
     - **Cevap E-) 1919**
 
-    > **Açıklama:** 1919
+    > **Açıklama:** Konstrüktivizm akımından etkilenen Lissitzky’nin en ünlü eseri 1919 tarihli “Beyazları Kırmızı Kama ile Yen” isimli propaganda afişidir.
 
     ***

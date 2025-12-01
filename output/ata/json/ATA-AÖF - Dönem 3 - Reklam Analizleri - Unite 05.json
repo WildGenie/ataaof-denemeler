@@ -16,11 +16,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 108197,
-        "SoruMetni": "..................................., sözlü mesajın yerine kullanılan jestlerdir.<br/> <br/>​<strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "..................................., sözlü mesajın yerine kullanılan jestlerdir.<br/>​<strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Logo",
         "B": "Amblem",
         "C": "Cıngıl",
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 108223,
@@ -54,7 +56,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 108252,
@@ -73,7 +76,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 108266,
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 127952,
@@ -111,11 +116,12 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 127958,
-        "SoruMetni": "Sözsüz iletişimde anlamların iletilmesini sağlayan sözsüz göstergelerden biri renklerdir.<br/> <br/><strong>Aşağıda yer alan renklerden hangisi reklamda kullanıldığı zaman duygusal anlamda “canlılık ve neşe” mesajlarını iletebilmektedir?</strong>",
+        "SoruMetni": "Sözsüz iletişimde anlamların iletilmesini sağlayan sözsüz göstergelerden biri renklerdir.<br/><strong>Aşağıda yer alan renklerden hangisi reklamda kullanıldığı zaman duygusal anlamda “canlılık ve neşe” mesajlarını iletebilmektedir?</strong>",
         "A": "Turuncu",
         "B": "Sarı",
         "C": "Mavi",
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 166604,
@@ -149,7 +156,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 166606,
@@ -168,11 +176,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 166609,
-        "SoruMetni": "<strong>\"Güle güle\" derken el sallamak sözsüz iletişimin hangi işlevine örnektir?</strong>",
+        "SoruMetni": "<strong>\"Güle güle\" derken el sallamak sözsüz iletişimin hangi işlevine örnektir?</strong>",
         "A": "Tamamlamak",
         "B": "Vurgulamak",
         "C": "Yerine geçmek",
@@ -187,11 +196,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 166612,
-        "SoruMetni": "İletişim sırasında kişinin o an hissettiği duygu ve düşünceleri yansıtmaktadır. Örneğin kişinin baş ve işaret parmağı ile çenesini tutması düşünceli bir şekilde karşısındakini dinlediğini göstermektedir. <br/> <br/><strong>Paragrafta ifade edilen jest aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "İletişim sırasında kişinin o an hissettiği duygu ve düşünceleri yansıtmaktadır. Örneğin kişinin baş ve işaret parmağı ile çenesini tutması düşünceli bir şekilde karşısındakini dinlediğini göstermektedir. <br/><strong>Paragrafta ifade edilen jest aşağıdakilerden hangisidir?</strong>",
         "A": "Amblem",
         "B": "Düzenleyici",
         "C": "Adaptör",
@@ -206,11 +216,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 166613,
-        "SoruMetni": "Yüksek bağlamlı kültürlerde ............. mesajlara, düşük bağlamlı kültürlerde ise ............ mesajlara önem verilmektedir.<br/> <br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangileri getirilmelidir?</strong><br> <br/></br>",
+        "SoruMetni": "Yüksek bağlamlı kültürlerde ............. mesajlara, düşük bağlamlı kültürlerde ise ............ mesajlara önem verilmektedir.<br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangileri getirilmelidir?</strong><br/></br>",
         "A": "Sözsüz - Sözlü",
         "B": "Yazılı - Görsel",
         "C": "Sözlü - İşitsel",
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 166617,
@@ -244,7 +256,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 166621,
@@ -263,11 +276,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 176019,
-        "SoruMetni": "Kişiler arasında yer alan mesafe, genellikle kişilerin somut olarak göremedikleri ancak hissedebildikleri çizgileri ya da alanları ifade etmektedir.<br/> <br/><strong>Buna göre kişinin çok yakınları ile paylaştığı alana ne ad verilir?</strong>",
+        "SoruMetni": "Kişiler arasında yer alan mesafe, genellikle kişilerin somut olarak göremedikleri ancak hissedebildikleri çizgileri ya da alanları ifade etmektedir.<br/><strong>Buna göre kişinin çok yakınları ile paylaştığı alana ne ad verilir?</strong>",
         "A": "Sosyal alan",
         "B": "Kişisel alan",
         "C": "Mahrem alan",
@@ -282,11 +296,12 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 176021,
-        "SoruMetni": "Yüz, kişinin gerçek duygularını açığa vurmakta, gizlenilmeye çalışılsa da duygusal sızıntılar olabilmektedir. Örneğin, öfke duyan bir kişi bunu gizlemeye çalışarak gülümsese de yüzünde anlık olarak istemsiz bir şekilde beliren bir ifade ile gerçek duygu ortaya çıkabilir.<br/> <br/><strong>Paragrafta ifade edilen durumun nedeni aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "Yüz, kişinin gerçek duygularını açığa vurmakta, gizlenilmeye çalışılsa da duygusal sızıntılar olabilmektedir. Örneğin, öfke duyan bir kişi bunu gizlemeye çalışarak gülümsese de yüzünde anlık olarak istemsiz bir şekilde beliren bir ifade ile gerçek duygu ortaya çıkabilir.<br/><strong>Paragrafta ifade edilen durumun nedeni aşağıdakilerden hangisidir?</strong>",
         "A": "Duygular en iyi gözlerle ifade edilir.",
         "B": "Mimikler düşünceleri gösterir.",
         "C": "Yüz kasları ifadeyi beyne iletmekte geç kalabilir.",
@@ -301,11 +316,12 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 176022,
-        "SoruMetni": "Genellikle sözel ifadelerin güçlendirilmesi amacı ile ortaya çıkan el, kol ve bacak hareketlerine jest adı verilmektedir.<br/> <br/><strong>Aşağıdakilerden hangisi jest olarak <u>değerlendirilemez</u>?</strong>",
+        "SoruMetni": "Genellikle sözel ifadelerin güçlendirilmesi amacı ile ortaya çıkan el, kol ve bacak hareketlerine jest adı verilmektedir.<br/><strong>Aşağıdakilerden hangisi jest olarak <u>değerlendirilemez</u>?</strong>",
         "A": "Amblemler",
         "B": "Düzenleyiciler",
         "C": "Adaptörler",
@@ -320,7 +336,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 176023,
@@ -339,7 +356,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 176024,
@@ -358,11 +376,12 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 176025,
-        "SoruMetni": "Bir basılı reklamda kahve markası tanıtılmak istenmektedir. Reklamda sadece üzerinde kitaplar bulunan bir masa, açık bir pencere, bir kahve fincanı görüntüsü gibi sözsüz göstergeler kullanılmıştır.<br/> <br/><strong>Bu reklamda muhatapları üzerinde aşağıdaki hislerden hangisi uyandırılmak istenmektedir?</strong>",
+        "SoruMetni": "Bir basılı reklamda kahve markası tanıtılmak istenmektedir. Reklamda sadece üzerinde kitaplar bulunan bir masa, açık bir pencere, bir kahve fincanı görüntüsü gibi sözsüz göstergeler kullanılmıştır.<br/><strong>Bu reklamda muhatapları üzerinde aşağıdaki hislerden hangisi uyandırılmak istenmektedir?</strong>",
         "A": "Orada olma hissi",
         "B": "İdeal sen hissi",
         "C": "Sahip olma hissi",
@@ -377,11 +396,12 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 294794,
-        "SoruMetni": "I. Sözsüz iletişim süreklilik taşır.<br/> <br/>II. Sözsüz iletişim birden çok anlama sahiptir.<br> <br/>III. Sözsüz iletişim gizli anlamlar iletme özelliğine sahiptir.<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri sözsüz iletişimin özelliklerindendir?</strong><br> <br/></br></br></br>",
+        "SoruMetni": "I. Sözsüz iletişim süreklilik taşır.<br/>II. Sözsüz iletişim birden çok anlama sahiptir.<br/>III. Sözsüz iletişim gizli anlamlar iletme özelliğine sahiptir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri sözsüz iletişimin özelliklerindendir?</strong><br/></br></br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -396,11 +416,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 294799,
-        "SoruMetni": "<strong>Genellikle sözel ifadelerin güçlendirilmesi amacı ile ortaya çıkan el, kol ve bacak hareketlerine ne ad verilmektedir?</strong>",
+        "SoruMetni": "<strong>Genellikle sözel ifadelerin güçlendirilmesi amacı ile ortaya çıkan el, kol ve bacak hareketlerine ne ad verilmektedir?</strong>",
         "A": "Üslup",
         "B": "Geri bildirim",
         "C": "Jest",
@@ -415,11 +436,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 294874,
-        "SoruMetni": "Kişiler arası mesafe türleri, merkezinde kişinin yer aldığı, sınırları ve alanı gittikçe artan çemberler (alanlar) olarak nitelenebilir.<br/> <br/><strong>Bu anlamda kişinin çok yakınları ile paylaştığı (en yakın) alan aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "Kişiler arası mesafe türleri, merkezinde kişinin yer aldığı, sınırları ve alanı gittikçe artan çemberler (alanlar) olarak nitelenebilir.<br/><strong>Bu anlamda kişinin çok yakınları ile paylaştığı (en yakın) alan aşağıdakilerden hangisidir?</strong>",
         "A": "Mahrem alan",
         "B": "Kişisel alan",
         "C": "Sosyal alan",
@@ -434,7 +456,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 325170,
@@ -453,11 +476,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 327917,
-        "SoruMetni": "I. Tekrarlamak<br/> <br/>II. Kanıtlamak<br> <br/>III. Yerine geçmek<br> <br/>IV. Vurgulamak<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri sözsüz iletişimin işlevlerindendir?</strong></br></br></br>",
+        "SoruMetni": "I. Tekrarlamak<br/>II. Kanıtlamak<br/>III. Yerine geçmek<br/>IV. Vurgulamak<br/><strong>Yukarıdakilerden hangisi ya da hangileri sözsüz iletişimin işlevlerindendir?</strong></br></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve III",
@@ -472,11 +496,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 366841,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi sözsüz iletişimin özellikleri arasında <u>yer almaz</u>? </strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi sözsüz iletişimin özellikleri arasında <u>yer almaz</u>? </strong>",
         "A": "Sözsüz iletişim süreklilik özelliğine sahiptir.",
         "B": "Sözsüz iletişim birden çok anlama sahiptir.",
         "C": "Sözsüz iletişim gizli anlamlar iletme özelliğine sahiptir.",
@@ -491,12 +516,13 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 366846,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi renklerin karakter üzerindeki anlamlarından biri <u>değildir</u>? </strong>",
-        "A": "Beyaz: Temiz, ölçülü, sade",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi renklerin karakter üzerindeki anlamlarından biri <u>değildir</u>? </strong>",
+        "A": "Beyaz: Temiz, ölçülü, sade",
         "B": "Siyah: Neşeli, mantıksal düşünen",
         "C": "Yeşil: Sabırlı, tereddütlü",
         "D": "Mor: Üzüntülü, melankolik",
@@ -510,7 +536,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 393866,
@@ -518,7 +545,7 @@
         "A": "Reklamlarda sözsüz göstergeler aracılığıyla kişilere orada oldukları hissi verilebilir.",
         "B": "Reklamda yer alan sözsüz mesajlar, sözlü mesajın algılanmasını güçlendirir.",
         "C": "Sözsüz mesaj kullanımı reklamda inandırıcılık ve ikna edicilik düzeyini artırır.",
-        "D": "Reklamda, sözsüz mesaj, anlamı aktarmada sözlü mesaj olmadan kullanılabilir.",
+        "D": "Reklamda, sözsüz mesaj, anlamı aktarmada sözlü mesaj olmadan kullanılabilir.",
         "E": "Reklamda sözsüz mesaj, aktarılmak istenilen içeriği zayıflatır.",
         "DogruCevap": "E",
         "DersAd": "Reklam Analizleri",
@@ -529,11 +556,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 393867,
-        "SoruMetni": "<strong>İzleyiciye reklam mesajında \"temizlik, açıklık, hijyen, boşluk, soğukluk, masumiyet\" anlamları hangi renkle iletilir? </strong>",
+        "SoruMetni": "<strong>İzleyiciye reklam mesajında \"temizlik, açıklık, hijyen, boşluk, soğukluk, masumiyet\" anlamları hangi renkle iletilir? </strong>",
         "A": "Beyaz",
         "B": "Kırmızı",
         "C": "Mavi",
@@ -548,6 +576,7 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     }
 ]

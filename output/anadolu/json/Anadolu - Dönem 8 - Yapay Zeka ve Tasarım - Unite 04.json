@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 3832528,
-        "SoruMetni": "<strong>Aşağıdaki ifadelerden hangisi uyarlanabilir tasarımın temel bileşenlerinden biri <u>değildir</u>? </strong><br/>",
+        "SoruMetni": "<strong>Aşağıdaki ifadelerden hangisi uyarlanabilir tasarımın temel bileşenlerinden biri <u>değildir</u>? </strong>",
         "A": "Kullanıcı Geri Bildirimi.",
         "B": "YZ ve Makine Öğrenmesi.",
         "C": "Çevik Uyum Sağlama.",
@@ -162,10 +162,10 @@
     {
         "SoruID": 3832547,
         "SoruMetni": "<strong>Aşağıdakilerden hangisi </strong><strong>algoritmik şeffaflığın önemini açıklar?</strong>",
-        "A": "Kullanıcıların sistemlerin nasıl çalıştığını anlamasını sağlar ve güven oluşturur.<br/><br/>",
-        "B": "Algoritmaların karmaşıklığını artırarak güvenlik açıklarını gizler.<br/><br/>",
-        "C": "Sadece geliştiricilerin erişebileceği özel bir sistem oluşturur.<br/><br/>",
-        "D": "Verilerin rastgele işlenmesini sağlayarak kişisel bilgilerin korunmasına katkıda bulunur.<br/><br/>",
+        "A": "Kullanıcıların sistemlerin nasıl çalıştığını anlamasını sağlar ve güven oluşturur.",
+        "B": "Algoritmaların karmaşıklığını artırarak güvenlik açıklarını gizler.",
+        "C": "Sadece geliştiricilerin erişebileceği özel bir sistem oluşturur.",
+        "D": "Verilerin rastgele işlenmesini sağlayarak kişisel bilgilerin korunmasına katkıda bulunur.",
         "E": "Algoritmaların hata yapma olasılığını artırır.",
         "DogruCevap": "A",
         "DersAd": "Yapay Zeka ve Tasarım",

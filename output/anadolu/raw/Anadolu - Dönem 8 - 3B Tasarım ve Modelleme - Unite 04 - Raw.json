@@ -12,8 +12,7 @@
         "D": "<p>Elastikiyet ve ağırlık </p>",
         "E": "<p>Yumuşaklık ve plastisite</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831911,
@@ -28,8 +27,7 @@
         "D": "<p>iii ve iv</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831913,
@@ -44,8 +42,7 @@
         "D": "<p>iv ve ii</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831915,
@@ -60,8 +57,7 @@
         "D": "<p>iv ve v</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831917,
@@ -76,8 +72,7 @@
         "D": "<p>Malzemeye ses verir</p>",
         "E": "<p>Hiçbirisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831918,
@@ -92,8 +87,7 @@
         "D": "<p>Anizotropik yansımaların yönünü belirler. Yüzeyin anizotropik yapısının yönünü<br />kontrol eder.</p>",
         "E": "<p>Hiçbirisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831920,
@@ -108,8 +102,7 @@
         "D": "<p>İki dokuyu renk değerlerini ekleyerek birleştirir.</p>",
         "E": "<p>Bir dokuyu diğerinin alfa kanalıyla maskeleyerek belirli bölgelerde gösterir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831921,
@@ -124,8 +117,7 @@
         "D": "<p>4 ve 5</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831922,
@@ -140,8 +132,7 @@
         "D": "<p>Helezonikler ile ilgili</p>",
         "E": "<p>Hiperbolik paraboller ile ilgili</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831923,
@@ -156,7 +147,6 @@
         "D": "<p>sadece v</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

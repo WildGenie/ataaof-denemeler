@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Metonomi"
+        "Aciklama": "<br/><span style=\"font-size: 10.000000pt; font-family: 'Skia'; color: rgb(63.140000%, 4.920000%, 21.320000%);\">Bakınız, Tablo 3.2 </span><span style=\"font-size: 9.000000pt; font-family: 'Skia';\">Metafor ve metonim arasındaki farklılıklar </span><br>Metonomi"
     },
     {
         "SoruID": 3861071,
@@ -37,11 +37,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 10.000000pt; font-family: 'MyriadPro';\">Bir olayın/olgunun ifade biçimidir. </span>"
+        "Aciklama": "<br/><span style=\"font-size: 10.000000pt; font-family: 'Skia'; color: rgb(63.140000%, 4.920000%, 21.320000%);\">Tablo 3.2 </span><span style=\"font-size: 9.000000pt; font-family: 'Skia';\">Metafor ve metonim arasındaki farklılıklar </span><br/><table><br/><tbody><br/><tr><br/><td><br/><span style=\"font-size: 11.000000pt; font-family: 'MyriadPro'; font-weight: bold; color: rgb(100.000000%, 100.000000%, 100.000000%);\">Metafor </span><br/></td><br/>&lt;td style=\"border-style: solid; background-color: rgb(63.140000%, 4.920000%, 21.320000%); border</tr></tbody></table><br><span style=\"font-size: 10.000000pt; font-family: 'MyriadPro';\">Bir olayın/olgunun ifade biçimidir. </span>"
     },
     {
         "SoruID": 3861072,
-        "SoruMetni": "Aşağıdakilerden hangisi metonominin  bir özelliğidir?",
+        "SoruMetni": "Aşağıdakilerden hangisi metonominin bir özelliğidir?",
         "A": "Çağrışım odaklıdır.",
         "B": "<span style=\"font-size: 10.000000pt; font-family: 'MyriadPro';\">Bir olayın/olgunun ifade biçimidir. </span>",
         "C": "<span style=\"font-size: 10.000000pt; font-family: 'MyriadPro';\">Olgu ve olayların özüne yoğunlaşılır. </span>",
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çağrışım odaklıdır."
+        "Aciklama": "<br/><span style=\"font-size: 10.000000pt; font-family: 'Skia'; color: rgb(63.140000%, 4.920000%, 21.320000%);\">Tablo 3.2 </span><span style=\"font-size: 9.000000pt; font-family: 'Skia';\">Metafor ve metonim arasındaki farklılıklar </span><br/><table><br/><tbody><br/><tr><br/><td><br/><span style=\"font-size: 11.000000pt; font-family: 'MyriadPro'; font-weight: bold; color: rgb(100.000000%, 100.000000%, 100.000000%);\">Metafor </span><br/></td><br/>&lt;td style=\"border-style: solid; background-color: rgb(63.140000%, 4.920000%, 21.320000%); border</tr></tbody></table><br>Çağrışım odaklıdır."
     },
     {
         "SoruID": 3861073,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Homeros"
+        "Aciklama": "<br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Mitoloji, evrenin doğasını ve yaratılışını, inanç ve kültürleri ve daha genel bir anlamda mitleri araş- tıran, inceleyen söylencelerin tümünü kapsayan bir alandır. Yunanca öyküleştirme anlamına gelen mitoloji İsa’dan bin yıl kadar önce Homeros (İlyada Destanı) ile başladığını söyleyebiliriz. </span>"
     },
     {
         "SoruID": 3861074,
@@ -97,11 +97,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel Algı"
+        "Aciklama": "<br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro'; font-weight: bold; font-style: italic;\">Görsel algı, </span><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">gözümüze giren ışık yoluyla beynin görsel uyaranları alma, yorumlama ve bunlara göre hareket etme yeteneğidir. Algı, aşağıdaki yedi unsura dayanmaktadır (Schriber, 2004). </span><br>Görsel Algı"
     },
     {
         "SoruID": 3861075,
-        "SoruMetni": "<br/> <br/> <br/> <br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">\"Kamufle edildiğinde veya kısmen gizlendiğinde ayrı formları ayırt etme\" </span><br/><br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Yukarıdaki ifade aşağıdakilerden hangisi ile ifade edilmektedir? </span><br/><br/><br/><br/>",
+        "SoruMetni": "<br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">\"Kamufle edildiğinde veya kısmen gizlendiğinde ayrı formları ayırt etme\" </span><br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Yukarıdaki ifade aşağıdakilerden hangisi ile ifade edilmektedir? </span>",
         "A": "Görsel Şekil/Zemin",
         "B": "Görsel Kapanma",
         "C": "Görsel Ayrımcılık",
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel Şekil/Zemin"
+        "Aciklama": "<br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro'; font-weight: bold; font-style: italic;\">Görsel şekil/zemin</span><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro'; font-weight: bold;\">: </span><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Kamufle edildiğinde veya kısmen gizlendiğinde ayrı formları ayırt etme yeteneği. </span><br>Görsel Şekil/Zemin"
     },
     {
         "SoruID": 3861076,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel Sıralı Bellek"
+        "Aciklama": "<br/><ul><br/><li><br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro'; font-weight: bold; font-style: italic;\">Görsel sıralı bellek: </span><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Görme engellendiğinde iki ila yedi ögeyi sırayla hatırlama yeteneği. </span><br/></li><br/></ul><br>Görsel Sıralı Bellek"
     },
     {
         "SoruID": 3861077,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Göstergebilim"
+        "Aciklama": "<br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Gösterge, bireyin kendisinin dışındaki görün- gülerdir. Bunlar her türlü olguların, varlıkların ve kavramların ilişkisel bağlamdaki görüntüleri olabilir. Gösterge bilim (semiyoloji) ise göstergelerin üretilmesini, yorumlanmasını ya da imleri/işaretleri kavrama, anlama süreçlerini kapsayan ve buna benzer bütün faktörlerin organize bir biçimde ince- lenmesine dayalı bir alan olup dil biliminin önemli bir parçasıdır. </span><br>Göstergebilim"
     },
     {
         "SoruID": 3861078,
@@ -177,15 +177,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Ferdinand de Saussure</span>"
+        "Aciklama": "<br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Yapısalcılığın kurucusu da olan </span><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Ferdinand de Saussure dili bir gösterge olarak savunur. Her gösterge, bir “gösteren” ögesi (ses, akustik, </span><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">fenomen vs.) ile duygu ve düşünce varlığı olan bir “gösterilen” (li signifie) ögesinden meydana gelir. İnsan ve toplum yaşamı bir göstergeler sisteminden oluşur. Saussure bu bilime semiyoloji, gösterge bilim adını verir. </span>"
     },
     {
         "SoruID": 3861079,
         "SoruMetni": "Görmek ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
-        "A": "<br/> <br/> <br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Aynı zamanda bir olay veya olguya/nesneye odaklanmak, anlamak ve duyumsamaktır, sezmektir. </span><br/><br/><br/>",
-        "B": "<br/> <br/> <br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Büyük ölçüde çaba gerektiren öğrenilebilir bir davranıştır. </span><br/><br/><br/>",
+        "A": "<br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Aynı zamanda bir olay veya olguya/nesneye odaklanmak, anlamak ve duyumsamaktır, sezmektir. </span>",
+        "B": "<br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Büyük ölçüde çaba gerektiren öğrenilebilir bir davranıştır. </span>",
         "C": "Her insanın görme biçimi farklıdır.",
-        "D": "<br/> <br/> <br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Görme eyleminde bir seçicilik yoktur. </span><br/><br/><br/>",
+        "D": "<br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Görme eyleminde bir seçicilik yoktur. </span>",
         "E": "Görmekte bilinç vardır.",
         "DogruCevap": "D",
         "DersAd": "Temel Sanat ve Tasarım Eğitimi",
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Görme eyleminde bir seçicilik olduğu için \"Görme eyleminde bir seçicilik yoktur.\" ifadesi yanlıştır. </span>"
+        "Aciklama": "<br/><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Görmek, büyük ölçüde çaba gerektiren öğrenilebilir bir davranıştır. Görmek, aynı zamanda bir olay veya olguya/nesneye odaklanmak, anlamak ve duyumsamaktır, sezmektir. Görme eyleminde bir seçicilik vardır. </span><br><span style=\"font-size: 11.000000pt; font-family: 'AGaramondPro';\">Görme eyleminde bir seçicilik olduğu için \"Görme eyleminde bir seçicilik yoktur.\" ifadesi yanlıştır. </span>"
     },
     {
         "SoruID": 3861080,
@@ -221,10 +221,10 @@
     },
     {
         "SoruID": 3861081,
-        "SoruMetni": "Aşağıdakilerden hangisi görsel düşünmeyi kullanmanın yararları  içinde <u>yer almaz</u>",
+        "SoruMetni": "Aşağıdakilerden hangisi görsel düşünmeyi kullanmanın yararları içinde <u>yer almaz</u>",
         "A": "Hafızayı, dikkati ve özellikle konsantrasyonu geliştirir.",
         "B": "Fikirleri mantıklı bir şekilde sıralamaya ve düzenlemeye yardımcı olur.",
-        "C": "Bilgileri küresel olmayan  bir bakış açısıyla görmemizi sağlar.",
+        "C": "Bilgileri küresel olmayan bir bakış açısıyla görmemizi sağlar.",
         "D": "İletişimi ve katılımı artırır.",
         "E": "Yaratıcılığı, kıvılcımları, merakı ve yeniliği geliştirmeye yardımcı olur.",
         "DogruCevap": "C",
@@ -237,12 +237,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel düşünmeyi kullanmanın yararları aşağıda belirlenmiştir .<br/><br/>• Hafızayı, dikkati ve özellikle konsantrasyonu geliştirir. • Fikirleri mantıklı bir şekilde sıralamaya ve düzenlemeye yardımcı olur. • Bilgileri <strong>küresel bir bakış açısıyla</strong> görmemizi sağlar. • İletişimi ve katılımı artırır. • Yaratıcılığı, kıvılcımları, merakı ve yeniliği geliştirmeye yardımcı olur. • Düşünme becerilerini güçlendirir. • Karmaşık kavramları görsel olarak anlaşılır bir şekilde basitleştirerek öğrenmeyi kolaylaştırır."
+        "Aciklama": "Görsel düşünmeyi kullanmanın yararları aşağıda belirlenmiştir .<br/>• Hafızayı, dikkati ve özellikle konsantrasyonu geliştirir. • Fikirleri mantıklı bir şekilde sıralamaya ve düzenlemeye yardımcı olur. • Bilgileri <strong>küresel bir bakış açısıyla</strong> görmemizi sağlar. • İletişimi ve katılımı artırır. • Yaratıcılığı, kıvılcımları, merakı ve yeniliği geliştirmeye yardımcı olur. • Düşünme becerilerini güçlendirir. • Karmaşık kavramları görsel olarak anlaşılır bir şekilde basitleştirerek öğrenmeyi kolaylaştırır."
     },
     {
         "SoruID": 3861082,
         "SoruMetni": "Aşağıdakilerden hangisi <em>sezgisel tasarımın</em> özellikleri içinde <span style=\"text-decoration: underline;\">yer almaz</span>?",
-        "A": "Gereksiz tekrar veya etkileşim yoktur.<br/>",
+        "A": "Gereksiz tekrar veya etkileşim yoktur.",
         "B": "Zor keşfedilebilir ve kullanıcı katılımını teşvik etmez.",
         "C": "Sezgisel tasarım tahmin edilebilir.",
         "D": "Geri bildirim anında ve nettir.",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 3861083,
-        "SoruMetni": "I.Müşahhas<br/><br/>II.Varlığı duyularla algılanamayan<br/><br/>III.Mücerret<br/><br/>IV. Abstre<br/><br/>Yukarıdakilerden hangisi /hangileri soyut kavramını tanımlar?",
+        "SoruMetni": "I.Müşahhas<br/>II.Varlığı duyularla algılanamayan<br/>III.Mücerret<br/>IV. Abstre<br/>Yukarıdakilerden hangisi /hangileri soyut kavramını tanımlar?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I,II",
@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 3861085,
-        "SoruMetni": "…………..………….. temsil niteliği tam olarak yorumlayanına bağlı olan göstergedir.<br/><br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru tamamlar?",
+        "SoruMetni": "…………..………….. temsil niteliği tam olarak yorumlayanına bağlı olan göstergedir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru tamamlar?",
         "A": "İkon:",
         "B": "Belirti:",
         "C": "Sembol:",
@@ -362,11 +362,11 @@
     {
         "SoruID": 3861088,
         "SoruMetni": "Edward De Bono tarafından geliştirilen, yaratıcı düşünme eylemiyle önemli paralellikler gösteren ve yeni fikirlerin üretilmesiyle ilgili düşünme türü aşağıdakilerden hangisidir?",
-        "A": "Analitik düşünce<br/>",
-        "B": "Yanal düşünme<br/>",
-        "C": "Yakınsak düşünme<br/>",
-        "D": "Iraksak düşünme<br/>",
-        "E": "Dikey düşünme<br/><br/>",
+        "A": "Analitik düşünce",
+        "B": "Yanal düşünme",
+        "C": "Yakınsak düşünme",
+        "D": "Iraksak düşünme",
+        "E": "Dikey düşünme",
         "DogruCevap": "B",
         "DersAd": "Temel Sanat ve Tasarım Eğitimi",
         "Unite": 3,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Metafor ve metonim arasındaki farklılıklar</strong><br/><br/><strong>Metafor    </strong>                                                                        <strong>Metonomi</strong><br/><br/>Bir olayın/olgunun ifade biçimidir.                                       Metonomi bir konuşma şeklidir.<br/><br/>İkame (yerine geçme) ve bir ifade edilene odaklanır<strong>.            Çağrışım odaklıdır.</strong><br/><br/>Olgu ve olayların özüne yoğunlaşılır.                                    Olay ve olguların yerleri değişebilir.<br/><br/>Fikirleri bastırarak hareket eder.                                          Fikirler birleştirilir, yer değiştirilir.<br/><br/>Karşılaştırma benzerliklere dayalıdır.                                    Karşılaştırma ilişkilendirmeye                                                                                                  dayalıdır"
+        "Aciklama": "<strong>Metafor ve metonim arasındaki farklılıklar</strong><br/><strong>Metafor </strong> <strong>Metonomi</strong><br/>Bir olayın/olgunun ifade biçimidir. Metonomi bir konuşma şeklidir.<br/>İkame (yerine geçme) ve bir ifade edilene odaklanır<strong>. Çağrışım odaklıdır.</strong><br/>Olgu ve olayların özüne yoğunlaşılır. Olay ve olguların yerleri değişebilir.<br/>Fikirleri bastırarak hareket eder. Fikirler birleştirilir, yer değiştirilir.<br/>Karşılaştırma benzerliklere dayalıdır. Karşılaştırma ilişkilendirmeye dayalıdır"
     },
     {
         "SoruID": 3861090,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ussal"
+        "Aciklama": "Hançerlioğlu’na (1989) göre imgeler, duyusal imgeler ve ussal imgeler<br/>olmak üzere iki türlüdür. Duyusal imgeler duyumlar,<br/>algılar ve tasarımlardır; ussal imgelerse kavramlar,<br/>önermeler, kuramlar ve varsayımlardır."
     },
     {
         "SoruID": 3861091,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcılığa odaklanır."
+        "Aciklama": "Beyaz Şapka, bilgiye özel bir odaklanmayı<br/>gerektirir, tarafsız ve objektif, gerçekçi bir bakış<br/>açısını temsil eder. Kırmızı Şapka,duyguların,<br/>sezgilerin, önsezilerin özgürce ifade edilmesini<br/>sağlar. Yeşil Şapka, yaratıcılığa odaklanır. Olasılıkların,<br/>kavramların, alternatiflerin ve yeni fikirlerin<br/>üretildiği bir aksiyon şapkasıdır. Mavi<br/>Şapka, kontrol/disiplin şapkasıdır ve düşünme<br/>sürecinin yönetimi ile ilgilidir. Sarı Şapka, canlılığı,<br/>parlaklığı ve iyimserliği simgelemektedir.<br/>Bu şapkanın altında pozitifleri keşfediyor, değer<br/>ve faydayı araştırıyorsunuz. Siyah Şapka, sorunlara<br/>işaret eder. Dikkatli olmak içindir ve tehlikeli,<br/>zarar verici veya işe yaramaz şeyler yapmanızı<br/>engeller."
     },
     {
         "SoruID": 3861092,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Analitik düşünce"
+        "Aciklama": "Analitik düşünce mantıksal/muhakeme tabanlı<br/>bir düşünce biçimidir. Bir problemi veya sorunu<br/>küçük parçalara ayırıp, alt başlıklar hâlinde karmaşık<br/>durumları değerlendirme ve çözüme ulaştırma<br/>yaklaşımıdır. Sorunlar analiz edilir, sınıflandırılır,<br/>sadeleştirilir, küçük parçalardan bütüne ulaşılır."
     },
     {
         "SoruID": 3861093,
@@ -477,11 +477,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kültür"
+        "Aciklama": "Kültür, bir toplumun duygu ve düşünce<br/>birliğini oluşturan, gelenek, örf/adet gibi<br/>olgu ve yaşanmışlıklara dayalı, ritüeller ve<br/>her türlü yaşayış, düşünce ve sanat varlıklarının<br/>tümü."
     },
     {
         "SoruID": 3861094,
-        "SoruMetni": "“Bu bir pipo değildir\"  adlı çalışmasında dil ve imge arasındaki kanıksanmış, geleneksel ilişkiyi kırmayı hedeflemiş olan sanatçı aşağıdakilerden hangisidir?",
+        "SoruMetni": "“Bu bir pipo değildir\" adlı çalışmasında dil ve imge arasındaki kanıksanmış, geleneksel ilişkiyi kırmayı hedeflemiş olan sanatçı aşağıdakilerden hangisidir?",
         "A": "Pablo Picasso",
         "B": "Salvador Dali",
         "C": "Henri Matisse",
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Rene Magritte"
+        "Aciklama": "Magritte, özellikle bu çalışmasıyla (Görsel 3.5)<br/>“İmgelerin İhaneti” adlı çalışmasında dil ve imge<br/>arasındaki kanıksanmış, geleneksel ilişkiyi kırmayı<br/>hedeflemiştir. Bu resimde; gerçekçi bir şekilde ifade<br/>edilen pipo, aslında pipo olmayıp pipo imgesini<br/>yansıtmaktadır.<br>Rene Magritte"
     },
     {
         "SoruID": 3861095,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İkon"
+        "Aciklama": "İkon: Nesnesinin sahip olduğu niteliklerinden dolayı nesnesine gönderme yapan göstergedir."
     },
     {
         "SoruID": 3861096,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel algı"
+        "Aciklama": "Görsel algı, gözümüze giren ışık yoluyla<br/>beynin görsel uyaranları alma, yorumlama<br/>ve bunlara göre hareket etme yeteneğidir.<br/>Algı, aşağıdaki yedi unsura dayanmaktadır<br/>(Schriber, 2004)."
     },
     {
         "SoruID": 3861097,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mit"
+        "Aciklama": "Mit, genellikle kökeni bilinmeyen ve kısmen<br/>geleneksel olan, gerçek olaylarla ilişkilendirilen<br/>doğaüstü güçlerle ve özellikle dinî inançlarla, insanların<br/>ve Dünya’nın yaratılışıyla bağlantılı olan<br/>sembolik bir anlatı."
     },
     {
         "SoruID": 3861098,
@@ -577,12 +577,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "mitoloji"
+        "Aciklama": "Mitoloji<br/>Mitoloji, evrenin doğasını ve yaratılışını, inanç<br/>ve kültürleri ve daha genel bir anlamda mitleri araştıran,<br/>inceleyen söylencelerin tümünü kapsayan bir<br/>alandır. Yunanca öyküleştirme anlamına gelen mitoloji<br/>İsa’dan bin yıl kadar önce Homeros (İlyada<br/>Destanı) ile başladığını söyleyebiliriz."
     },
     {
         "SoruID": 3861099,
         "SoruMetni": "Aşağıdakilerden hangisi metafor ve metonim arasındaki farklılıklar açısından bakıldığında metafor kavramı ile ilişkilidir?",
-        "A": "<br/> <br/> <br/> <br/>Fikirleri birleştirerek hareket etmesidir.<br/><br/><br/><br/><br/>",
+        "A": "<br/>Fikirleri birleştirerek hareket etmesidir.",
         "B": "Olay ve olguların yerleri değişebilir.",
         "C": "Fikirler yer değiştirilir.",
         "D": "Karşılaştırma ilişkilendirmeye dayalıdır.",
@@ -597,6 +597,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir olayın/olgunun ifade biçimidir."
+        "Aciklama": "Tablo 3.2 Metafor ve metonim arasındaki farklılıklar<br>Bir olayın/olgunun ifade biçimidir."
     }
 ]

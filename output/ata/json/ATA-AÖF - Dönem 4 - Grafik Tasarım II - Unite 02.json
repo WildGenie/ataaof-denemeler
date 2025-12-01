@@ -9,18 +9,19 @@
         "E": "Kalkolitik Çağ",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 337076,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi bilgisayarın tasarımda kullanılmadığı zamanlarda grafik tasarımcıların kullandığı araçlardan biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi bilgisayarın tasarımda kullanılmadığı zamanlarda grafik tasarımcıların kullandığı araçlardan biri <u>değildir</u>?</strong>",
         "A": "Letraset",
         "B": "Kretuar",
         "C": "Yapıştırıcı",
@@ -28,14 +29,15 @@
         "E": "Grafik Tablet",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337077,
@@ -54,7 +56,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 337078,
@@ -66,14 +69,15 @@
         "E": "Aldus Publisher",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337079,
@@ -85,14 +89,15 @@
         "E": "Karar verilen tasarımın yayına hazır hâle getirilmesi",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337080,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337081,
@@ -123,14 +129,15 @@
         "E": "Tasarımcının fikrini ürüne dönüştürmesinde yardımcı olmak",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337082,
@@ -142,14 +149,15 @@
         "E": "Gelişmiş ekran kartı",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 337083,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 346732,
@@ -180,14 +189,15 @@
         "E": "Linux işletim sistemi",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 346735,
@@ -199,18 +209,19 @@
         "E": "Matrakçı Nasuh",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 347336,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi lazer yazıcının avantajlarından biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi lazer yazıcının avantajlarından biri <u>değildir</u>?</strong>",
         "A": "Yüksek çıkış hızı",
         "B": "Kaliteli renkli baskı imkânı",
         "C": "Kaliteli siyah-beyaz baskı imkânı",
@@ -218,14 +229,15 @@
         "E": "Düşük çıkış maliyeti",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 347339,
@@ -237,14 +249,15 @@
         "E": "Renk tutarlılığına sahip olması",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 347341,
@@ -256,13 +269,14 @@
         "E": "Desinatör",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     }
 ]

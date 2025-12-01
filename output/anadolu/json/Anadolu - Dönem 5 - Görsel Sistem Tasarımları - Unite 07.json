@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-size: 11.0pt;\">a. Yazılı belgenin arşiv değeri vardır ve daha kalıcıdır. </span><br/> <span style=\"font-size: 11.0pt;\">b. Konu bir bütünlük içinde ifade edilir ve ile­tilebilir. </span><br/> <span style=\"font-size: 11.0pt;\">c Daha resmidir ve yetkiyi daha fazla hissettirir. </span><br/> <span style=\"font-size: 11.0pt;\">d. Kişilerin gidemeyeceği yerlere gidebilir. </span><br/> <span style=\"font-size: 11.0pt;\">e. Zaman açısından daha elverişlidir; uygun olunduğu zaman yazılabilir ve okunabilir, gerektiğinde üzerinde değişiklikler yapıla­bilir. </span><br/> <span style=\"font-size: 11.0pt;\">f. Kurumun konuyla yakından ilgilendiğini gösterir</span>"
+        "Aciklama": "<span style=\"font-size: 11.0pt;\">a. Yazılı belgenin arşiv değeri vardır ve daha kalıcıdır. </span><br/><span style=\"font-size: 11.0pt;\">b. Konu bir bütünlük içinde ifade edilir ve ile­tilebilir. </span><br/><span style=\"font-size: 11.0pt;\">c Daha resmidir ve yetkiyi daha fazla hissettirir. </span><br/><span style=\"font-size: 11.0pt;\">d. Kişilerin gidemeyeceği yerlere gidebilir. </span><br/><span style=\"font-size: 11.0pt;\">e. Zaman açısından daha elverişlidir; uygun olunduğu zaman yazılabilir ve okunabilir, gerektiğinde üzerinde değişiklikler yapıla­bilir. </span><br/><span style=\"font-size: 11.0pt;\">f. Kurumun konuyla yakından ilgilendiğini gösterir</span>"
     },
     {
         "SoruID": 3862277,
@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3862278,
-        "SoruMetni": "Aşağıdakilerden hangisi Gestalt Teorisi'ne göre yakınlık kavramının tanımıdır?",
+        "SoruMetni": "Aşağıdakilerden hangisi Gestalt Teorisi'ne göre yakınlık kavramının tanımıdır?",
         "A": "Nesneler benzer göründüklerinde, göz onları bir doku ya da grup olarak algılar",
         "B": "Gözün bir nesneden diğerine kaymak zorunda kaldığı durumdur",
         "C": "Bir nesne eksik veya tamamen kapalı olmadığında göz eksik parçaları tamamlar",
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 3862490,
-        "SoruMetni": "<strong>Bürokrasi</strong> ile ilgili aşağıdaki seçeneklerden hangisi/hangileri doğrudur?<br/> I. “Bürokrasi” terimi ilk defa 1745’te Fransız fizyokrat ve iktisatçı Max Weber tarafından kullanılmıştır.<br/> II. Bürokrasi kurallı, tutarlı ve sürdürülebilir bir yönetim sistemidir.<br/> III. Bürokratik sistemin vazgeçilmezi her işlemin kayıtlı olmasıdır.<br/> IV. Ülkemizde bürokratik sistemlerin yönetim, organizasyon ve işleyiş kuralları kanun ve yönetmeliklerce normlaştırılarak sürdürülebilir hâle getirilmiştir.<br/> V. Bürokrasinin ayırt edici başlıca özellikleri kayıt ve haberleşmenin yazılı olarak yapılması ve ayrıntılı bir dosyalama sisteminin olmasıdır.",
+        "SoruMetni": "<strong>Bürokrasi</strong> ile ilgili aşağıdaki seçeneklerden hangisi/hangileri doğrudur?<br/>I. “Bürokrasi” terimi ilk defa 1745’te Fransız fizyokrat ve iktisatçı Max Weber tarafından kullanılmıştır.<br/>II. Bürokrasi kurallı, tutarlı ve sürdürülebilir bir yönetim sistemidir.<br/>III. Bürokratik sistemin vazgeçilmezi her işlemin kayıtlı olmasıdır.<br/>IV. Ülkemizde bürokratik sistemlerin yönetim, organizasyon ve işleyiş kuralları kanun ve yönetmeliklerce normlaştırılarak sürdürülebilir hâle getirilmiştir.<br/>V. Bürokrasinin ayırt edici başlıca özellikleri kayıt ve haberleşmenin yazılı olarak yapılması ve ayrıntılı bir dosyalama sisteminin olmasıdır.",
         "A": "I, II, III ve IV",
         "B": "I, III, IV ve V",
         "C": "II, III, IV ve V",
@@ -242,11 +242,11 @@
     {
         "SoruID": 3862492,
         "SoruMetni": "Aşağıdakilerden hangisi 'Bürokratik bir yapının içinde yazılı iletişimi tercih etmenin başlıca nedenleri' arasında <strong><span style=\"text-decoration: underline;\">yer</span> <span style=\"text-decoration: underline;\">almaz</span>?</strong>",
-        "A": "<br/> <br/> <br/> <br/>Yazılı belgenin arşiv değeri vardır ve daha kalıcıdır.<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Konu bir bütünlük içinde ifade edilir ve iletilebilir.<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Daha resmidir ve yetkiyi daha fazla hissettirir.<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Kurumun konuya mesafeli olduğunu gösterir.<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Zaman açısından daha elverişlidir; uygun olunduğu zaman yazılabilir ve okunabilir, gerektiğinde üzerinde değişiklikler yapılabilir.<br/><br/><br/><br/>",
+        "A": "<br/>Yazılı belgenin arşiv değeri vardır ve daha kalıcıdır.",
+        "B": "<br/>Konu bir bütünlük içinde ifade edilir ve iletilebilir.",
+        "C": "<br/>Daha resmidir ve yetkiyi daha fazla hissettirir.",
+        "D": "<br/>Kurumun konuya mesafeli olduğunu gösterir.",
+        "E": "<br/>Zaman açısından daha elverişlidir; uygun olunduğu zaman yazılabilir ve okunabilir, gerektiğinde üzerinde değişiklikler yapılabilir.",
         "DogruCevap": "D",
         "DersAd": "Görsel Sistem Tasarımları",
         "Unite": 7,
@@ -257,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>1.Yazılı belgenin arşiv değeri vardır ve daha kalıcıdır.<br/><br/>2. Konu bir bütünlük içinde ifade edilir ve iletilebilir.<br/><br/>3. Daha resmidir ve yetkiyi daha fazla hissettirir.<br/><br/>4. Zaman açısından daha elverişlidir; uygun olunduğu zaman yazılabilir ve okunabilir, gerektiğinde üzerinde değişiklikler yapılabilir.<br/><br/>5. Kurumun konuyla yakından ilgilendiğini gösterir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>1.Yazılı belgenin arşiv değeri vardır ve daha kalıcıdır.<br/>2. Konu bir bütünlük içinde ifade edilir ve iletilebilir.<br/>3. Daha resmidir ve yetkiyi daha fazla hissettirir.<br/>4. Zaman açısından daha elverişlidir; uygun olunduğu zaman yazılabilir ve okunabilir, gerektiğinde üzerinde değişiklikler yapılabilir.<br/>5. Kurumun konuyla yakından ilgilendiğini gösterir."
     },
     {
         "SoruID": 3862493,
-        "SoruMetni": "\"Her resmî yazışmanın içeriğindeki tüm bilgi   <span style=\"text-decoration: underline;\"><strong>...</strong></span>   bir sıra gözetilerek üretilmektedir. İlk sırada başlık ve muhatap, daha sonra tarih sayı varsa ilgi, daha sonra imzacı, metin ve diğer detayların bilgisi verilmektedir.",
+        "SoruMetni": "\"Her resmî yazışmanın içeriğindeki tüm bilgi <span style=\"text-decoration: underline;\"><strong>...</strong></span> bir sıra gözetilerek üretilmektedir. İlk sırada başlık ve muhatap, daha sonra tarih sayı varsa ilgi, daha sonra imzacı, metin ve diğer detayların bilgisi verilmektedir.",
         "A": "Tipografik",
         "B": "Hiyerarşik",
         "C": "Fotografik",
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 3862494,
-        "SoruMetni": "Resmi yazışmalarda kullanılan yazı karakterleriyle ilgili aşağıdaki bilgilerden hangisi/hangileri doğrudur?<br/> I. Times New Roman yazı karakteri, 1930’ların başında önemli yazı tasarımcısı Stanley Morison tarafından, 1785’te kurulmuş menşei Büyük Britanya olan “The Times” gazetesinin çehresini değiştirmek amacıyla tasarlanmıştır.<br/> II.Times New Roman yazı karakterinin geleneksel görünümü resmiyet, dürüstlük ve güvenilirlik hislerini pekiştirirken, tırnaklı (serifli) yapısı sayesinde metin okumasını da kolaylaştırmaktadır.<br/> III. Times  New Roman dünyanın en uzun yaşayan ve en sık kullanılan yazı karakterlerinden biridir ve resmî yazışmaların ciddi ve bürokratik görünümünü pekiştirmektedir.<br/> IV. Ariel, 1982 yılında Robin Nicholas ve Patricia Saunders tarafından Monotype isimli firma için tasarlanmış çağdaş, tırnaklı yazı karakteridir.<br/>  V. 1992 yılında Windows 3.1’ün piyasaya sürülmesiyle Arial yazı karakteri ücretsiz hale getirilmiş ve bu nedenle hızla dünya çapında yayılmaya başlamıştır.",
+        "SoruMetni": "Resmi yazışmalarda kullanılan yazı karakterleriyle ilgili aşağıdaki bilgilerden hangisi/hangileri doğrudur?<br/>I. Times New Roman yazı karakteri, 1930’ların başında önemli yazı tasarımcısı Stanley Morison tarafından, 1785’te kurulmuş menşei Büyük Britanya olan “The Times” gazetesinin çehresini değiştirmek amacıyla tasarlanmıştır.<br/>II.Times New Roman yazı karakterinin geleneksel görünümü resmiyet, dürüstlük ve güvenilirlik hislerini pekiştirirken, tırnaklı (serifli) yapısı sayesinde metin okumasını da kolaylaştırmaktadır.<br/>III. Times New Roman dünyanın en uzun yaşayan ve en sık kullanılan yazı karakterlerinden biridir ve resmî yazışmaların ciddi ve bürokratik görünümünü pekiştirmektedir.<br/>IV. Ariel, 1982 yılında Robin Nicholas ve Patricia Saunders tarafından Monotype isimli firma için tasarlanmış çağdaş, tırnaklı yazı karakteridir.<br/>V. 1992 yılında Windows 3.1’ün piyasaya sürülmesiyle Arial yazı karakteri ücretsiz hale getirilmiş ve bu nedenle hızla dünya çapında yayılmaya başlamıştır.",
         "A": "I, II, III ve IV",
         "B": "I, II ve III",
         "C": "II, III, IV ve V",
@@ -297,16 +297,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Times New Roman yazı karakteri, 1930’ların başında önemli yazı tasarımcısı Stanley Morison tarafından, 1785’te kurulmuş menşei Büyük Britanya olan “The Times” gazetesinin çehresini değiştirmek amacıyla tasarlanmıştır. Times New Roman yazı karakterinin geleneksel görünümü resmiyet, dürüstlük ve güvenilirlik hislerini pekiştirirken, tırnaklı (serifli) yapısı sayesinde metin okumasını da kolaylaştırmaktadır. Times  New Roman dünyanın en uzun yaşayan ve en sık kullanılan yazı karakterlerinden biridir ve resmî yazışmaların ciddi ve bürokratik görünümünü pekiştirmektedir.<br/> Ariel, 1982 yılında Robin Nicholas ve Patricia Saunders tarafından Monotype isimli firma için tasarlanmış çağdaş, tırnaksız (sans serif ) yazı karakteridir. 1992 yılında Windows 3.1’ün piyasaya sürülmesiyle Arial yazı karakteri ücretsiz hale getirilmiş ve bu nedenle hızla dünya çapında yayılmaya başlamıştır."
+        "Aciklama": "Times New Roman yazı karakteri, 1930’ların başında önemli yazı tasarımcısı Stanley Morison tarafından, 1785’te kurulmuş menşei Büyük Britanya olan “The Times” gazetesinin çehresini değiştirmek amacıyla tasarlanmıştır. Times New Roman yazı karakterinin geleneksel görünümü resmiyet, dürüstlük ve güvenilirlik hislerini pekiştirirken, tırnaklı (serifli) yapısı sayesinde metin okumasını da kolaylaştırmaktadır. Times New Roman dünyanın en uzun yaşayan ve en sık kullanılan yazı karakterlerinden biridir ve resmî yazışmaların ciddi ve bürokratik görünümünü pekiştirmektedir.<br/>Ariel, 1982 yılında Robin Nicholas ve Patricia Saunders tarafından Monotype isimli firma için tasarlanmış çağdaş, tırnaksız (sans serif ) yazı karakteridir. 1992 yılında Windows 3.1’ün piyasaya sürülmesiyle Arial yazı karakteri ücretsiz hale getirilmiş ve bu nedenle hızla dünya çapında yayılmaya başlamıştır."
     },
     {
         "SoruID": 3862495,
         "SoruMetni": "Aşağıdakilerden hangisi belgelerin dijital ortamlara aktarılmasının avantajlarından biri <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span>",
-        "A": "<br/> <br/> <br/> <br/>Belgelere tek tek ansiklopedik dizinler aracılığıya erişim sağlanır.<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Yapılan işlemlerin süresi azalır.<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Bilgi ve belgeye daha hızlı erişilir.<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Belgeler daha güvenli şartlar altında depolanır.<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Belgeler istenilen sayıda çoğaltılabilir.<br/><br/><br/><br/>",
+        "A": "<br/>Belgelere tek tek ansiklopedik dizinler aracılığıya erişim sağlanır.",
+        "B": "<br/>Yapılan işlemlerin süresi azalır.",
+        "C": "<br/>Bilgi ve belgeye daha hızlı erişilir.",
+        "D": "<br/>Belgeler daha güvenli şartlar altında depolanır.",
+        "E": "<br/>Belgeler istenilen sayıda çoğaltılabilir.",
         "DogruCevap": "A",
         "DersAd": "Görsel Sistem Tasarımları",
         "Unite": 7,
@@ -317,11 +317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Belgelerin dijital ortamlara aktarılmasının avantajları şu maddelerle açıklanabilir:<br/><br/><ul><br/><li><br/>Yapılan işlemlerin süresi azalır.<br/><br/></li><br/><li><br/>Bilgi ve belgeye daha hızlı erişilir.<br/><br/></li><br/><li><br/><strong>Belgelere çok fazla anahtar terim kullanarak erişim sağlanır.</strong><br/><br/></li><br/><li><br/>Belgeler daha güvenli şartlar altında depolanır.<br/><br/></li><br/><li><br/>Belgeler istenilen sayıda çoğaltılabilir.<br/><br/></li><br/></ul><br/><br/><br/>"
+        "Aciklama": "<br/>Belgelerin dijital ortamlara aktarılmasının avantajları şu maddelerle açıklanabilir:<br/><ul><br/><li><br/>Yapılan işlemlerin süresi azalır.<br/></li><br/><li><br/>Bilgi ve belgeye daha hızlı erişilir.<br/></li><br/><li><br/><strong>Belgelere çok fazla anahtar terim kullanarak erişim sağlanır.</strong><br/></li><br/><li><br/>Belgeler daha güvenli şartlar altında depolanır.<br/></li><br/><li><br/>Belgeler istenilen sayıda çoğaltılabilir.<br/></li><br/></ul>"
     },
     {
         "SoruID": 3862496,
-        "SoruMetni": "İdarelerin faaliyetlerini yerine getirirken hazırladıkları ve faaliyetlerinin delili olabilecek       E-Yazışma Teknik Rehberi’ne uygun belgelerin içerik, üstveri, format ve ilişkisel özelliklerini koruyan, belgelerin ait olduğu fonksiyon veya işlem için delil teşkil eden ve aidiyet zinciri içerisindeki yönetimini elektronik ortamda sağlayan sistem aşağıdakilerden hangisidir?",
+        "SoruMetni": "İdarelerin faaliyetlerini yerine getirirken hazırladıkları ve faaliyetlerinin delili olabilecek E-Yazışma Teknik Rehberi’ne uygun belgelerin içerik, üstveri, format ve ilişkisel özelliklerini koruyan, belgelerin ait olduğu fonksiyon veya işlem için delil teşkil eden ve aidiyet zinciri içerisindeki yönetimini elektronik ortamda sağlayan sistem aşağıdakilerden hangisidir?",
         "A": "Teknolojik Bilgi Sistemi",
         "B": "Elektronik Belge Yönetim Sistemi",
         "C": "Bürokratik Belge Yönetimi",
@@ -341,7 +341,7 @@
     },
     {
         "SoruID": 3862517,
-        "SoruMetni": "Bürokratik sistemlerde form kullanımı ile ilgili aşağıdaki seçeneklerden hangisi/hangileri doğrudur?<br/> I. Form kullanımı, veri toplama işini karışıklıktan kurtarıp bir sistem yaratarak standart hâle getirir.<br/> II. Formlar ve onların sağladığı yazılı iletişime oldukça sık başvurulmasının sebebi rastlantısaldır.<br/> III. Form kullanımı zaman, emek ve maliyet konularında tasarruf edilmesini sağlar.<br/> IV. Formlar, etkili bir yazılı iletişime olanak verir.<br/> V. Formlar, verinin toplanmasına, analizine, sağlıklı biçimde kaydedilmesine, sonuçlar elde edilmesine yardımcı olur.",
+        "SoruMetni": "Bürokratik sistemlerde form kullanımı ile ilgili aşağıdaki seçeneklerden hangisi/hangileri doğrudur?<br/>I. Form kullanımı, veri toplama işini karışıklıktan kurtarıp bir sistem yaratarak standart hâle getirir.<br/>II. Formlar ve onların sağladığı yazılı iletişime oldukça sık başvurulmasının sebebi rastlantısaldır.<br/>III. Form kullanımı zaman, emek ve maliyet konularında tasarruf edilmesini sağlar.<br/>IV. Formlar, etkili bir yazılı iletişime olanak verir.<br/>V. Formlar, verinin toplanmasına, analizine, sağlıklı biçimde kaydedilmesine, sonuçlar elde edilmesine yardımcı olur.",
         "A": "I,II, III ve IV",
         "B": "I,II, III ve V",
         "C": "I, III, IV ve V",
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 3862518,
-        "SoruMetni": "\"<strong><span style=\"text-decoration: underline;\">...</span>  <span style=\"text-decoration: underline;\">...</span></strong>, aynı içeriğin yazımdaki tekrarını önleyerek işleyişe hız kazandırmak adına üretilmiş formlardır. Tekrar edilecek içerik formun sabit alanlarında yer alırken kullanıcıdan beklenen yazınsal veri alanları boş bırakılmaktadır. Doldurulacak alanlar genellikle nokta ya da çizgiyle belirtilmektedir. Bu tür formların en belirgin örneklerini dilekçeler oluşturmaktadır\" tanımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"<strong><span style=\"text-decoration: underline;\">...</span> <span style=\"text-decoration: underline;\">...</span></strong>, aynı içeriğin yazımdaki tekrarını önleyerek işleyişe hız kazandırmak adına üretilmiş formlardır. Tekrar edilecek içerik formun sabit alanlarında yer alırken kullanıcıdan beklenen yazınsal veri alanları boş bırakılmaktadır. Doldurulacak alanlar genellikle nokta ya da çizgiyle belirtilmektedir. Bu tür formların en belirgin örneklerini dilekçeler oluşturmaktadır\" tanımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Çizgi formlar",
         "B": "Kutu formlar",
         "C": "Karma formlar",
@@ -381,7 +381,7 @@
     },
     {
         "SoruID": 3862519,
-        "SoruMetni": "\"<strong><span style=\"text-decoration: underline;\">...</span> <span style=\"text-decoration: underline;\">...</span> </strong> formların hatayı ortadan kaldırmalarının yegâne aracı satır içi doğrulama mesajlarıdır. Satır içi doğrulama, kullanıcılara soruyu doğru anladıklarından emin olmanın veya bir şeylerin yolunda gitmediğini bildirmenin en iyi yoludur\" tanımında hangi form tasarımından söz edilmektedir?",
+        "SoruMetni": "\"<strong><span style=\"text-decoration: underline;\">...</span> <span style=\"text-decoration: underline;\">...</span> </strong> formların hatayı ortadan kaldırmalarının yegâne aracı satır içi doğrulama mesajlarıdır. Satır içi doğrulama, kullanıcılara soruyu doğru anladıklarından emin olmanın veya bir şeylerin yolunda gitmediğini bildirmenin en iyi yoludur\" tanımında hangi form tasarımından söz edilmektedir?",
         "A": "Yazışma",
         "B": "Karma",
         "C": "Tapu senedi",

@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "William Caslon"
+        "Aciklama": "GİRİŞ<br>William Caslon"
     },
     {
         "SoruID": 3769622,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Railway Type"
+        "Aciklama": "MODERN SANAT AKIMLARI BAĞLAMINDA YENİ TİPOGRAFİ<br>Railway Type"
     },
     {
         "SoruID": 3769623,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fütürist sanatçılar"
+        "Aciklama": "Fütürist Tipografi<br>Fütürist sanatçılar"
     },
     {
         "SoruID": 3769624,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Diyagonal bir veya iki satır metin kullanılması"
+        "Aciklama": "Dadaist Tipografi<br>Diyagonal bir veya iki satır metin kullanılması"
     },
     {
         "SoruID": 3769625,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Alexei Gan"
+        "Aciklama": "Konstrüktivizm<br>Alexei Gan"
     },
     {
         "SoruID": 3769626,
@@ -105,7 +105,7 @@
         "A": "Düz çizgi, dik açı ve üç belirli renk",
         "B": "Bart van der Leck tarafından saf renklerin kullanılması",
         "C": "Soyutlamayı temel alan sanat kuramının benimsenmesi",
-        "D": "Piet Mondrian’ın  sanat hareketinin felsefesinin yaratıcısı olması",
+        "D": "Piet Mondrian’ın sanat hareketinin felsefesinin yaratıcısı olması",
         "E": "De Stijl akımının öncüsü Theo van Doesburg’tur",
         "DogruCevap": "A",
         "DersAd": "Tipografi",
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düz çizgi, dik açı ve üç belirli renk"
+        "Aciklama": "De Stijl Etkisinde Tipografi<br>Düz çizgi, dik açı ve üç belirli renk"
     },
     {
         "SoruID": 3769627,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Jan Tschichold"
+        "Aciklama": "Yeni Tipografi ve Öncüsü Jan Tschichold"
     },
     {
         "SoruID": 3769628,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Paul Rand"
+        "Aciklama": "TİPOGRAFİDE İLETİŞİM ÇAĞI<br>Paul Rand"
     },
     {
         "SoruID": 3769629,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okunaklı olduğu için"
+        "Aciklama": "İsviçre Tipografisi<br>Okunaklı olduğu için"
     },
     {
         "SoruID": 3769630,
@@ -197,11 +197,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Avrupa modern sanat akımlarının etkisiyle"
+        "Aciklama": "New York Okulu<br>Avrupa modern sanat akımlarının etkisiyle"
     },
     {
         "SoruID": 3769701,
-        "SoruMetni": "Tipografide aşağıdaki hangi yüzyılda bir devrimin  etkisiyle üretken bir dönem başlamış ve teknolojik gelişmelerle yaratıcı formlar ortaya çıkmıştır.",
+        "SoruMetni": "Tipografide aşağıdaki hangi yüzyılda bir devrimin etkisiyle üretken bir dönem başlamış ve teknolojik gelişmelerle yaratıcı formlar ortaya çıkmıştır.",
         "A": "16. yüzyılda",
         "B": "17. yüzyılda",
         "C": "18. Yüzyılda",
@@ -217,11 +217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipografide 19. Yüzyılda Sanayi Devriminin etkisiyle üretken bir dönem başlamış ve teknolojik<br/>gelişmelerle yaratıcı formlar ortaya çıkmıştır. Bu nedenle doğru yanıt D şıkkıdır, diğer şıklardaki ifadeler uygun değildir."
+        "Aciklama": "Tipografide 19. Yüzyılda Sanayi Devriminin etkisiyle üretken bir dönem başlamış ve teknolojik<br/>gelişmelerle yaratıcı formlar ortaya çıkmıştır. Bu nedenle doğru yanıt D şıkkıdır, diğer şıklardaki ifadeler uygun değildir."
     },
     {
         "SoruID": 3769702,
-        "SoruMetni": "Tırnaksız (sans serif) yazı karakterinin kullanıldığı kitap aşağıdaki hangi yılda tasarlanmıştır?<br/><br/>",
+        "SoruMetni": "Tırnaksız (sans serif) yazı karakterinin kullanıldığı kitap aşağıdaki hangi yılda tasarlanmıştır?",
         "A": "1798",
         "B": "1807",
         "C": "1816",
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1800’lü yılların başlarında görülen bir diğer yenilik tırnaksız (sans serif) yazı karakteri olmuştur. William Caslon tarafından 1816 yılında tasarlanan bir kitapta kullanılmıştır.<br/> Bu nedenle C doğru diğer şıklar ise uygun değildir."
+        "Aciklama": "1800’lü yılların başlarında görülen bir diğer yenilik tırnaksız (sans serif) yazı karakteri olmuştur. William Caslon tarafından 1816 yılında tasarlanan bir kitapta kullanılmıştır.<br/>Bu nedenle C doğru diğer şıklar ise uygun değildir."
     },
     {
         "SoruID": 3769706,
-        "SoruMetni": "Aşağıdakilerin hangisinde  Gotik harflere göre daha geniş tasarlanmış, birbirini anımsatan karakterlerinde farklılaşmalar yaratılmış ve harflerin köşeleri yuvarlatılmıştır?",
+        "SoruMetni": "Aşağıdakilerin hangisinde Gotik harflere göre daha geniş tasarlanmış, birbirini anımsatan karakterlerinde farklılaşmalar yaratılmış ve harflerin köşeleri yuvarlatılmıştır?",
         "A": "Pickering",
         "B": "Chaucer",
         "C": "Linotype",
@@ -257,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Troy yazı karakteri, Gotik harflere göre daha geniş tasarlanmış, birbirini anımsatan karakterlerinde farklılaşmalar yaratılmış ve harflerin köşeleri yuvarlatılmıştır. Doğru yanıt D dir. Diğer şıklar bu bağlamda uygun değildir."
+        "Aciklama": "Troy yazı karakteri, Gotik harflere göre daha geniş tasarlanmış, birbirini anımsatan karakterlerinde farklılaşmalar yaratılmış ve harflerin köşeleri yuvarlatılmıştır. Doğru yanıt D dir. Diğer şıklar bu bağlamda uygun değildir."
     },
     {
         "SoruID": 3769707,
-        "SoruMetni": "Aşağıdakilerden hangisinde dört renk baskısı gelişmiş ve çok renkli tasarımlarla doku çeşitliliği de gün yüzüne çıkmıştır?",
+        "SoruMetni": "Aşağıdakilerden hangisinde dört renk baskısı gelişmiş ve çok renkli tasarımlarla doku çeşitliliği de gün yüzüne çıkmıştır?",
         "A": "1830’lu yıllarda",
         "B": "1815 yılında",
         "C": "1798'lerde",
@@ -277,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1830’lu yıllarda dört renk baskısı gelişmiş ve çok renkli tasarımlarla doku çeşitliliği de<br/>gün yüzüne çıkmıştır. Bu nedenle doğru yanıt A şıkkıdir, diğer şıklardaki ifadeler uygun değildir."
+        "Aciklama": "1830’lu yıllarda dört renk baskısı gelişmiş ve çok renkli tasarımlarla doku çeşitliliği de<br/>gün yüzüne çıkmıştır. Bu nedenle doğru yanıt A şıkkıdir, diğer şıklardaki ifadeler uygun değildir."
     },
     {
         "SoruID": 3769708,
-        "SoruMetni": "Aşağıdakilerden hangisi İngiliz Sanat ve El Sanatları bakış açısını Avrupalı izleyici kitlesine tanıtmak için tasarlanmıştır?",
+        "SoruMetni": "Aşağıdakilerden hangisi İngiliz Sanat ve El Sanatları bakış açısını Avrupalı izleyici kitlesine tanıtmak için tasarlanmıştır?",
         "A": "Dream of John Ball",
         "B": "Order of Chivalry Chaucer",
         "C": "Glittering Plain",
@@ -297,11 +297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hobby Horse, İngiliz Sanat ve El Sanatları bakış açısını Avrupalı izleyici kitlesine tanıtmak için tasarlanmıştır."
+        "Aciklama": "Hobby Horse, İngiliz Sanat ve El Sanatları bakış açısını Avrupalı izleyici kitlesine tanıtmak için tasarlanmıştır."
     },
     {
         "SoruID": 3769709,
-        "SoruMetni": "Aşağıdaki sanatçılardan  hangisi 1886 yılında Paris’te açtığı basımevinde gerçekleştirdiği ilk afiş<br/>olan Sarah Bernhardt’ın rol aldığı La Biche au Bois adlı oyunu duyuran bir tasarımla resimli afişin öncüsü olarak tarihe geçmiştir?",
+        "SoruMetni": "Aşağıdaki sanatçılardan hangisi 1886 yılında Paris’te açtığı basımevinde gerçekleştirdiği ilk afiş<br/>olan Sarah Bernhardt’ın rol aldığı La Biche au Bois adlı oyunu duyuran bir tasarımla resimli afişin öncüsü olarak tarihe geçmiştir?",
         "A": "Bauer",
         "B": "Chéret",
         "C": "Klingspor",
@@ -317,11 +317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Chéret’in 1886 yılında Paris’te açtığı basımevinde gerçekleştirdiği ilk afiş olan Sarah Bernhardt’ın rol aldığı La Biche au Bois adlı oyunu duyuran bir tasarımla resimli afişin öncüsü olarak tarihe geçmiştir. Doğru yanıt B şıkkıdır. Diğer şıklar uygun değildir."
+        "Aciklama": "Chéret’in 1886 yılında Paris’te açtığı basımevinde gerçekleştirdiği ilk afiş olan Sarah Bernhardt’ın rol aldığı La Biche au Bois adlı oyunu duyuran bir tasarımla resimli afişin öncüsü olarak tarihe geçmiştir. Doğru yanıt B şıkkıdır. Diğer şıklar uygun değildir."
     },
     {
         "SoruID": 3769710,
-        "SoruMetni": "Aşağıdakilerden hangisi Fütürizm ile birlikte göze çarpan ve duygu aktarımı ön planda olan, Tasarım, fontun sahip olduğu yazı ailesinin bütün üyeleriyle zenginleşmekte olan ve mesajın anlamını destekleyen nesne kullanımı gözlendiği kavramdır?",
+        "SoruMetni": "Aşağıdakilerden hangisi Fütürizm ile birlikte göze çarpan ve duygu aktarımı ön planda olan, Tasarım, fontun sahip olduğu yazı ailesinin bütün üyeleriyle zenginleşmekte olan ve mesajın anlamını destekleyen nesne kullanımı gözlendiği kavramdır?",
         "A": "Mallarmé",
         "B": "Un Coup",
         "C": "özgür sözcük",
@@ -337,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fütürizm ile birlikte özgür sözcük kavramı göze çarpmaktadır. Bu kavramla duygu aktarımı ön<br/>plandadır. Tasarım, fontun sahip olduğu yazı ailesinin bütün üyeleriyle zenginleşmektedir. Buna ek olarak da mesajın anlamını destekleyen nesne kullanımı<br/>gözlenmektedir"
+        "Aciklama": "Fütürizm ile birlikte özgür sözcük kavramı göze çarpmaktadır. Bu kavramla duygu aktarımı ön<br/>plandadır. Tasarım, fontun sahip olduğu yazı ailesinin bütün üyeleriyle zenginleşmektedir. Buna ek olarak da mesajın anlamını destekleyen nesne kullanımı gözlenmektedir."
     },
     {
         "SoruID": 3769711,
-        "SoruMetni": "Fütürizmde Seslerin ve hareketin kullanımının en önemli örneği Marinetti, Zang Tumb Tumb adlı şiiri olan ve burada seslerin anlamı yansıtacak şekilde ifade edilmesi için teknik dizimi göze çarpan akım aşağıdakilerin hangisidir?",
+        "SoruMetni": "Fütürizmde Seslerin ve hareketin kullanımının en önemli örneği Marinetti, Zang Tumb Tumb adlı şiiri olan ve burada seslerin anlamı yansıtacak şekilde ifade edilmesi için teknik dizimi göze çarpan akım aşağıdakilerin hangisidir?",
         "A": "Kübizm",
         "B": "Art Nouveau",
         "C": "Dadaizm",
@@ -357,11 +357,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fütürizmde seslerin ve hareketin kullanımının en önemli örneği Marinetti, Zang Tumb Tumb adlı şiiridir (Görsel 2.7). Burada seslerin anlamı yansıtacak şekilde ifade edilmesi için teknik dizimi göze çarpmaktadır."
+        "Aciklama": "Fütürizmde seslerin ve hareketin kullanımının en önemli örneği Marinetti, Zang Tumb Tumb adlı şiiridir (Görsel 2.7). Burada seslerin anlamı yansıtacak şekilde ifade edilmesi için teknik dizimi göze çarpmaktadır."
+    },
+    {
+        "SoruID": 3769712,
+        "SoruMetni": "Aşağıdakilerden hangisi sayfa üzerinde tasarımı anlamlı hale getirirken aynı zamanda görsel şiire de katkı sağlamıştır?",
+        "A": "Bradley",
+        "B": "Apollinaire",
+        "C": "Saussure",
+        "D": "Carol",
+        "E": "Blackwell",
+        "DogruCevap": "B",
+        "DersAd": "Tipografi",
+        "Unite": 2,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:40.382573",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Apollinaire, sayfa üzerinde tasarımı anlamlı hale getirirken aynı zamanda görsel şiire de katkı sağlamıştır."
     },
     {
         "SoruID": 3769713,
-        "SoruMetni": "Merz dergisine yaptığı çalışmalarla  ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğrafları manipüle eden dergisine yaptığı çalışmalarla (Görsel 2.13) ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğraflarını manipüle ederek bütünleştiren sanatçı aşağıdakilerin hangisidir?",
+        "SoruMetni": "Merz dergisine yaptığı çalışmalarla ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğrafları manipüle eden dergisine yaptığı çalışmalarla (Görsel 2.13) ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğraflarını manipüle ederek bütünleştiren sanatçı aşağıdakilerin hangisidir?",
         "A": "Stephan Mallarmé",
         "B": "Vienne",
         "C": "El Lissitzky",
@@ -377,14 +397,14 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dadaist Kurt Schwitters, Merz dergisine yaptığı çalışmalarla  ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğrafları manipüle ede dergisine yaptığı çalışmalarla (Görsel 2.13) ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğrafları manipüle ederek bütünleştirmiştir.<br/> Bundan dolayı doğru yanıt D şıkkıdır. Diğer şıklar uygun değildir."
+        "Aciklama": "Dadaist Kurt Schwitters, Merz dergisine yaptığı çalışmalarla ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğrafları manipüle ede dergisine yaptığı çalışmalarla (Görsel 2.13) ve Hannah Höch ve Roul Hausmann adlı sanatçıların gerçeklik ve saçmalığını fotoğrafları manipüle ederek bütünleştirmiştir.<br/>Bundan dolayı doğru yanıt D şıkkıdır. Diğer şıklar uygun değildir."
     },
     {
         "SoruID": 3769826,
         "SoruMetni": "Tipografide üretken bir dönem ve teknolojik gelişmelerle yaratıcı formlar ortaya çıkarmasında etkili olan olay aşağıdakilerden hangisidir?",
         "A": "Fransız Devrimi",
         "B": "Sanayi Devrimi",
-        "C": "Rusya Devrimi<br/><br/>",
+        "C": "Rusya Devrimi",
         "D": "2. Dünya Savaşı",
         "E": "1. Dünya Savaşı",
         "DogruCevap": "B",
@@ -497,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "El Lissitzky: Lissitzky, zamanla afiş ve kitap kapağı tasarımlarına ilgi duymuştur. Lissitzky’nin o dönemin<br/>ilk akla gelen eseri “Beyazları Kırmızı Kamayla Vurun” adlı propaganda afişi olmuştur. Sanatçı, kızıl, beyaz renkler ve geometrik<br/>şekiller ile toplumun belirli kesimlerini simgelemiştir."
+        "Aciklama": "El Lissitzky: Lissitzky, zamanla afiş ve kitap kapağı tasarımlarına ilgi duymuştur. Lissitzky’nin o dönemin<br/>ilk akla gelen eseri “Beyazları Kırmızı Kamayla Vurun” adlı propaganda afişi olmuştur. Sanatçı, kızıl, beyaz renkler ve geometrik<br/>şekiller ile toplumun belirli kesimlerini simgelemiştir."
     },
     {
         "SoruID": 3769832,
@@ -561,7 +581,7 @@
     },
     {
         "SoruID": 3769835,
-        "SoruMetni": "I-Dinamizim<br/> II-Asimetrik denge<br/> III-Sade karakter<br/> IV- Süslü karakter<br/> V- Karmaşa<br/> Yukarıdaki kavramlardan hangileri “Yeni Tipografi” anlayışıyla ilişkilidir?",
+        "SoruMetni": "I-Dinamizim<br/>II-Asimetrik denge<br/>III-Sade karakter<br/>IV- Süslü karakter<br/>V- Karmaşa<br/>Yukarıdaki kavramlardan hangileri “Yeni Tipografi” anlayışıyla ilişkilidir?",
         "A": "I-II-III",
         "B": "I- II-III-V",
         "C": "I- II-III-IV-V",
@@ -620,6 +640,26 @@
         "Aciklama": "20. Yüzyıla gelindiğinde görsel dil arayışları sonucunda oluşan biçimsel sanat hareketlerine rastlanmıştır. Bunlardan biri olan bağımsız tasarım anlayışını içeren Kübizm akımıdır. Bu akımda geometrik stilizasyonlarla, kolajlarla mekan ve duygu aktarımında yeni bir yaklaşım görülmektedir. Doğru yanıt E'dir."
     },
     {
+        "SoruID": 3769848,
+        "SoruMetni": "Aşağıdakilerden hangisi serbest dizgede inşa edilmiş yazı karakterlerinin kullanıldığı bir görsel dile sahiptir?",
+        "A": "Kübizm",
+        "B": "Art Nouveau",
+        "C": "Asimetrik kompozisyon",
+        "D": "Konstrüktivizm",
+        "E": "Fütürizm",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 2,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:40.509614",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kübizmin hakim olduğu tasarımlarda özgün, serbest dizgede inşa edilmiş yazı karakterleri kullanılmıştır. Çalışmalarda keçi, boğa, güvercin ve insan yüzü gibi illüstratif öğeler<br/>de yer almıştır. Doğru yanıt A'dır."
+    },
+    {
         "SoruID": 3769849,
         "SoruMetni": "Oluşturulan kompozisyonların simetrik olmamasına rağmen asimetrik oluşlarında bir dengenin hakim olduğu tipografi akımı hangi isimle anılmaktadır?",
         "A": "Modern hareket",
@@ -641,7 +681,7 @@
     },
     {
         "SoruID": 3769850,
-        "SoruMetni": "Edward Johnston tarafından tasarlanan ve Johnston olarak adlandırılan yazı tipi dünyadaki hangi ünlü metro sistemiyle özdeşleşmiştir?",
+        "SoruMetni": "Edward Johnston tarafından tasarlanan ve Johnston olarak adlandırılan yazı tipi dünyadaki hangi ünlü metro sistemiyle özdeşleşmiştir?",
         "A": "New York",
         "B": "Moskova",
         "C": "Londra",
@@ -677,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Will Bradley Art Nouveau temsilcisi olarak yazı karakteri tasarımı, illüstrasyonlar, kitap tasarımı gibi grafik ürünlerle ilgilenmiştir. Diğer isimler ise Yeni Tipografi düşüncesinin ilk tohumlarını gün yüzüne çıkaran görüşlere sahiplerdir. Doğru yanıt D'dir."
+        "Aciklama": "Will Bradley Art Nouveau temsilcisi olarak yazı karakteri tasarımı, illüstrasyonlar, kitap tasarımı gibi grafik ürünlerle ilgilenmiştir. Diğer isimler ise Yeni Tipografi düşüncesinin ilk tohumlarını gün yüzüne çıkaran görüşlere sahiplerdir. Doğru yanıt D'dir."
     },
     {
         "SoruID": 3769852,

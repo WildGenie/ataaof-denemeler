@@ -12,8 +12,7 @@
         "D": "<p>Geleneksel 2B animasyonlar daha gerçekçi olduğu için izleyici onları daha kolay kabul eder.</p>",
         "E": "<p>3B animasyonlar sadece çocuk izleyiciler için yapıldığından, gerçeklik algısının önemli bir etkisi yoktur.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830702,
@@ -28,8 +27,7 @@
         "D": "<p>Kendi kütlesine bağlı olarak hareket hızını artırır.</p>",
         "E": "<p>Zamanla kütlesi azaldığı için daha hızlı hareket etmeye başlar.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830706,
@@ -44,8 +42,7 @@
         "D": "<p>Etki kuvveti tepki kuvvetinden daha güçlü olduğu için ikinci obje hareket edemez.</p>",
         "E": "<p>Etki kuvveti zamanla azalırken tepki kuvveti artarak devam eder.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830708,
@@ -60,8 +57,7 @@
         "D": "<p>Tiyatro, vodvil ve sinema oyuncularının hareketlerini inceleyerek geliştirilmiştir.</p>",
         "E": "<p>Animasyon teknikleri zamanla değiştiği için bu prensiplerin günümüzde hiçbir önemi kalmamıştır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830730,
@@ -76,8 +72,7 @@
         "D": "<p>Düz İleri tekniği daha planlı ve kontrollü bir süreç gerektirirken, Pozdan Poza tekniği doğaçlamaya daha açıktır.</p>",
         "E": "<p>Pozdan Poza tekniğinde anahtar pozlar belirlenir ve aralar sonradan doldurulurken, Düz İleri tekniğinde animasyon sıfırdan başlayarak adım adım ilerler.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830732,
@@ -92,8 +87,7 @@
         "D": "<p>Animasyonun etkisini artırmak yerine, sahnelerin daha yapay görünmesine neden olur.</p>",
         "E": "<p>Animasyon zamanlaması, yalnızca karakter hareketleri için önemli olup çevresel efektlerde dikkate alınmaz.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830733,
@@ -108,8 +102,7 @@
         "D": "<p>Yalnızca dijital animasyonlarda kullanılan bir teknik olup, geleneksel animasyon için uygun değildir.</p>",
         "E": "<p>Hareketin doğal akışını bozarak izleyicinin dikkatin dağılmasına neden olur.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830735,
@@ -124,8 +117,7 @@
         "D": "<p>Ark kullanımı, animasyonun estetik planlamasını engelleyerek hareketin rastgele oluşmasına neden olur.</p>",
         "E": "<p>Ark prensibi yalnızca 2B animasyonlarda geçerli olup, 3B animasyonlarda kullanılmaz.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830737,
@@ -140,8 +132,7 @@
         "D": "<p>Animatörün canlandırdığı karakterin veya objenin hareketlerini gerçek hayatta gözlemleyerek mantıklı bir çerçevede oluşturmasıyla.</p>",
         "E": "<p>Tiyatro ve sinemadaki oyunculuk kurallarının animasyonda tamamen göz ardı edilmesiyle.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830739,
@@ -156,7 +147,6 @@
         "D": "<p>FK ve IK animasyon sürecinde birbirinin yerine kullanılamaz, tamamen farklı prensiplere dayanır.</p>",
         "E": "<p>FK’da ebeveyn hareket ettiğinde çocuk kemikleri onu takip ederken, IK’da çocuk hareket ettiğinde ebeveyn kemikleri onu takip eder.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

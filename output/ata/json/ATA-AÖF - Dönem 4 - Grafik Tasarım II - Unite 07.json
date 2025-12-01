@@ -9,14 +9,15 @@
         "E": "Arayüz tasarımı",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 337756,
@@ -28,18 +29,19 @@
         "E": "Format boyutunun kararlaştırılması",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337758,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi bilgilendirme tasarımının işlevlerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi bilgilendirme tasarımının işlevlerinden biri <u>değildir</u>?</strong>",
         "A": "Bilgi vermek",
         "B": "Mesajı iletmek",
         "C": "Hedef kitleye ulaşmak",
@@ -47,14 +49,15 @@
         "E": "Yön bulmak",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337760,
@@ -66,18 +69,19 @@
         "E": "Chris Calori",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 337762,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi bilgilendirme tasarımcısının kullanması gereken ilkelerden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi bilgilendirme tasarımcısının kullanması gereken ilkelerden biri <u>değildir</u>?</strong>",
         "A": "Düzen",
         "B": "Vurgu",
         "C": "Zıtlık",
@@ -85,14 +89,15 @@
         "E": "Tekrar",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337765,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337767,
@@ -123,14 +129,15 @@
         "E": "Haritalar",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 337768,
@@ -142,14 +149,15 @@
         "E": "Robert Jacobson",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 337769,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337770,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 346755,
@@ -199,14 +209,15 @@
         "E": "Kitap tasarımı",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 347737,
@@ -218,14 +229,15 @@
         "E": "Kurallardan yararlanarak kişinin veriye yönelttiği anlam",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 347738,
@@ -237,14 +249,15 @@
         "E": "İnsan aklının erebileceği olgu",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 347746,
@@ -256,18 +269,19 @@
         "E": "Almanya",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 347748,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi bilgilendirme tasarımının amaçlarından biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi bilgilendirme tasarımının amaçlarından biri <u>değildir</u>?</strong>",
         "A": "Bilgi sağlamak",
         "B": "Mesaj iletmek",
         "C": "Karşılaştırma yapmak",
@@ -275,14 +289,15 @@
         "E": "Rahat taşınabilir olmak",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 347752,
@@ -294,13 +309,14 @@
         "E": "Çok renkli haritalar tasarlamıştır.",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     }
 ]

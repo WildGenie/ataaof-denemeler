@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 3763324,
-        "SoruMetni": ".........................Dijital ve fiziksel nesnelerin gerçek zamanlı bir arada olabildiği, özel görüntüleme cihazları yardımıyla yaratılan sanal ve gerçek dünya melezi olarak tanımlanabilir.<br/><br/>Yukarıdaki boşluğa aşağıdaki kavramlardan hangisi gelmelidir?",
+        "SoruMetni": ".........................Dijital ve fiziksel nesnelerin gerçek zamanlı bir arada olabildiği, özel görüntüleme cihazları yardımıyla yaratılan sanal ve gerçek dünya melezi olarak tanımlanabilir.<br/>Yukarıdaki boşluğa aşağıdaki kavramlardan hangisi gelmelidir?",
         "A": "IoT (Internet of Things)",
         "B": "Akış (Streaming)",
         "C": "Didi Smart Transportation Brain",
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Zaman</strong> <strong>Kavramının</strong> <strong>Yitimi;</strong> Arayüz ya da deneyim kullanıcısına zaman kavramını <span>unutturabilmelidir.</span>"
+        "Aciklama": "Geri Bildirimin Sağlanması: Akışın bozulmaması için kullanıcılar eylemlerine anlık ve hızlı geribildirimler almalıdır.<br><strong>Zaman</strong> <strong>Kavramının</strong> <strong>Yitimi;</strong> Arayüz ya da deneyim kullanıcısına zaman kavramını <span>unutturabilmelidir.</span>"
     },
     {
         "SoruID": 3763327,
@@ -143,8 +143,8 @@
         "SoruID": 3763329,
         "SoruMetni": "\"Tasarım sürecinin hedefe yönelik belirlenen kullanıcılardan alınan test verileri ile sürekli biçimde iyileştirilmesi ve yenilenmesi anlamına gelmektedir\" tanımı aşağıdakilereden hangi tasarım yaklaşımıdır?",
         "A": "Yinelemeli Tasarım Yaklaşımı",
-        "B": "Karma Gerçeklik Tasarımı",
-        "C": "Arttırılmış Gerçeklik Tasarımı",
+        "B": "Karma Gerçeklik Tasarımı",
+        "C": "Arttırılmış Gerçeklik Tasarımı",
         "D": "Kullanıcı Deneyimi Tasarımı",
         "E": "STRAVA",
         "DogruCevap": "A",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3763330,
-        "SoruMetni": "Veri görselleştirmeyi hem yapay zekâ teknolojileri hem de sanal gerçeklik ile birleştirmeyi hedefleyen girişime aşağıdakilerden hangisi örnek olarak gösterilebilir?",
+        "SoruMetni": "Veri görselleştirmeyi hem yapay zekâ teknolojileri hem de sanal gerçeklik ile birleştirmeyi hedefleyen girişime aşağıdakilerden hangisi örnek olarak gösterilebilir?",
         "A": "IoT (Internet of Things)",
         "B": "STRAVA",
         "C": "Virtualitics",
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Akış (Streaming) Verinin sürekli biçimde değiştiği, anlık olarak izlendiği ve sadece gerekli olduğu zamanlarda depolandığı bilgi deneyimleme biçimi. <br/> IoT (Internet of Things) Nesnelerin İnterneti, akıllı cihazların birbirleri ile veri alışverişinde bulunması anlamına gelmektedir.<br/> Arttırılmış Gerçeklik: Çeşitli teknolojik cihazlar aracılığıyla çevremizde gördüğümüz fiziksel unsurların veri ve grafikler aracılığıyla zenginleştirilerek yeniden sunulması an lamına gelmektedir.<br/> Karma Gerçeklik: Dijital ve fiziksel nesnelerin gerçek zamanlı bir arada olabildiği, özel görüntüleme cihazları yardımıyla yaratılan sanal ve gerçek dünya melezi olarak tanımlanabilir.<br/> Kullanıcı Deneyimi Tasarımı: Görsel iletişimin anlık etkileşimler olmaktan çıkıp, zamana yayılan, davranış değişikliği yaratabilen, alışkanlıklarımızı belirleyen ve duygular ortaya çıkaran ve en önemlisi tüm bunları süreklilik içinde yapabilen eylemler ve etkileşimler bütünü olarak algılanmasını öneren yenilikçi bir tasarım yaklaşımıdır."
+        "Aciklama": "Akış (Streaming) Verinin sürekli biçimde değiştiği, anlık olarak izlendiği ve sadece gerekli olduğu zamanlarda depolandığı bilgi deneyimleme biçimi. <br/>IoT (Internet of Things) Nesnelerin İnterneti, akıllı cihazların birbirleri ile veri alışverişinde bulunması anlamına gelmektedir.<br/>Arttırılmış Gerçeklik: Çeşitli teknolojik cihazlar aracılığıyla çevremizde gördüğümüz fiziksel unsurların veri ve grafikler aracılığıyla zenginleştirilerek yeniden sunulması an lamına gelmektedir.<br/>Karma Gerçeklik: Dijital ve fiziksel nesnelerin gerçek zamanlı bir arada olabildiği, özel görüntüleme cihazları yardımıyla yaratılan sanal ve gerçek dünya melezi olarak tanımlanabilir.<br/>Kullanıcı Deneyimi Tasarımı: Görsel iletişimin anlık etkileşimler olmaktan çıkıp, zamana yayılan, davranış değişikliği yaratabilen, alışkanlıklarımızı belirleyen ve duygular ortaya çıkaran ve en önemlisi tüm bunları süreklilik içinde yapabilen eylemler ve etkileşimler bütünü olarak algılanmasını öneren yenilikçi bir tasarım yaklaşımıdır."
     },
     {
         "SoruID": 3763618,
-        "SoruMetni": "Büyük verinin verimli biçimde görselleştirilmesinde teknolojik cihaz ve tasarım dilinin etkisine başarılı bir örnek olan ve Çin'de büyük başarıya ulaşmış ‘Didi Smart Transportation Brain’ sistemi aşağıdaki bilgilerden hangisini görselleştirmektedir?",
+        "SoruMetni": "Büyük verinin verimli biçimde görselleştirilmesinde teknolojik cihaz ve tasarım dilinin etkisine başarılı bir örnek olan ve Çin'de büyük başarıya ulaşmış ‘Didi Smart Transportation Brain’ sistemi aşağıdaki bilgilerden hangisini görselleştirmektedir?",
         "A": "Şehir içi trafik yoğunluğunu",
         "B": "Turist destinasyonlarını",
         "C": "Denizdeki trafik durumunu",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 3763624,
-        "SoruMetni": "Aşağıdakilerden hangisi  deneyimde akış kavramının yaratıcısı Csikszentmihalyi tarafından belirlenen başarılı bir etkileşimin temel özelliklerinden biri <strong>değildir?</strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi deneyimde akış kavramının yaratıcısı Csikszentmihalyi tarafından belirlenen başarılı bir etkileşimin temel özelliklerinden biri <strong>değildir?</strong>",
         "A": "Kontrolsüzlük hissi",
         "B": "Zaman kavramının yitimi",
         "C": "Öz bilincin terk edilmesi",
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Deneyimde akış kavramının yaratıcısı Csikszentmihalyi başarılı bir etkileşimin temel özelliklerini yedi ana başlık üzerinde özetlemiştir:<br/> 1. Dengeli Bir Mücadele: Bir bilgiyi almak ya da işlemi yapmak için gerekli olan zorluğun derecesi hedeflenen kitlenin becerileri ile örtüşmelidir.<br/> 2. Konsantrasyon: Tasarlanan aktivite ya da arayüz sınırlı bir alanda yüksek derecede konsantrasyona izin vermelidir.<br/> 3. Öz Bilincin Terk Edilmesi: Kullanıcı farkındalığı ile eylemlerini birleştirebilmelidir.<br/> 4. Zaman Kavramının Yitimi; Arayüz ya da deneyim kullanıcısına zaman kavramını unutturabilmelidir.<br/> 5. Geri Bildirimin Sağlanması: Akışın bozulmaması için kullanıcılar eylemlerine anlık ve hızlı geribildirimler almalıdır.<br/> 6. Kontrol Hissi: Kullanıcı ortam üzerinde mutlak kontrol hissini almalıdır.<br/> 7. Ödüllendirici: Aktivite sonunda kullanıcısını ödüllendirmelidir."
+        "Aciklama": "Deneyimde akış kavramının yaratıcısı Csikszentmihalyi başarılı bir etkileşimin temel özelliklerini yedi ana başlık üzerinde özetlemiştir:<br/>1. Dengeli Bir Mücadele: Bir bilgiyi almak ya da işlemi yapmak için gerekli olan zorluğun derecesi hedeflenen kitlenin becerileri ile örtüşmelidir.<br/>2. Konsantrasyon: Tasarlanan aktivite ya da arayüz sınırlı bir alanda yüksek derecede konsantrasyona izin vermelidir.<br/>3. Öz Bilincin Terk Edilmesi: Kullanıcı farkındalığı ile eylemlerini birleştirebilmelidir.<br/>4. Zaman Kavramının Yitimi; Arayüz ya da deneyim kullanıcısına zaman kavramını unutturabilmelidir.<br/>5. Geri Bildirimin Sağlanması: Akışın bozulmaması için kullanıcılar eylemlerine anlık ve hızlı geribildirimler almalıdır.<br/>6. Kontrol Hissi: Kullanıcı ortam üzerinde mutlak kontrol hissini almalıdır.<br/>7. Ödüllendirici: Aktivite sonunda kullanıcısını ödüllendirmelidir."
     },
     {
         "SoruID": 3763627,
@@ -381,7 +381,7 @@
     },
     {
         "SoruID": 3763643,
-        "SoruMetni": "Bilgi görselleştirme Norman’ın bilgiyi kavramanın temel aşamaları arasında gösterdiği ............ ve .............. arasındaki köprüyü kurmaya yardımcı olur.<br/> Yukarıdaki cümlede boş bırakılan yerlerde aşağıdaki kavramlardan hangileri gelmelidir?",
+        "SoruMetni": "Bilgi görselleştirme Norman’ın bilgiyi kavramanın temel aşamaları arasında gösterdiği ............ ve .............. arasındaki köprüyü kurmaya yardımcı olur.<br/>Yukarıdaki cümlede boş bırakılan yerlerde aşağıdaki kavramlardan hangileri gelmelidir?",
         "A": "uygulama ve değerlendirme",
         "B": "tasarım ve etkileşim",
         "C": "sanallık ve gerçeklik",

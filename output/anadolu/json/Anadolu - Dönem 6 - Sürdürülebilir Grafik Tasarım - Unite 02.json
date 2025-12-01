@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3764055,
-        "SoruMetni": "Aşağıdakilerden hangisi sürdürülebilirlik kavramı doğrultusunda, atık ya da kullanılmayan nesnenin sanat objesine dönüşme sürecinde, eğitim kurumlarında ders kapsamında öğretilen ve uygulamalarının yapıldığı, temel yöntemlerden biri <strong>değildir? </strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi sürdürülebilirlik kavramı doğrultusunda, atık ya da kullanılmayan nesnenin sanat objesine dönüşme sürecinde, eğitim kurumlarında ders kapsamında öğretilen ve uygulamalarının yapıldığı, temel yöntemlerden biri <strong>değildir? </strong>",
         "A": "Kolaj",
         "B": "Asamblaj",
         "C": "Akümülasyon",
@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sürdürülebilirlik kavramı doğrultusunda, atık ya da kullanılmayan nesnenin sanat objesine dönüşme sürecinde, eğitim kurumlarında ders kapsamında öğretilen ve uygulamalarının yapıldığı, temel yöntemler aşağıdaki gibi sıralanabilir.<br/> Kolaj<br/> Dekolaj<br/> Asamblaj<br/> Akümülasyon<br/> Montaj"
+        "Aciklama": "Sürdürülebilirlik kavramı doğrultusunda, atık ya da kullanılmayan nesnenin sanat objesine dönüşme sürecinde, eğitim kurumlarında ders kapsamında öğretilen ve uygulamalarının yapıldığı, temel yöntemler aşağıdaki gibi sıralanabilir.<br/>Kolaj<br/>Dekolaj<br/>Asamblaj<br/>Akümülasyon<br/>Montaj"
     },
     {
         "SoruID": 3764174,
@@ -117,11 +117,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Asamblaj” terimi ilk kez 1953’te Jean Dubuffet tarafından güzel sanatlar bağlamında kelebek kanatlarıyla oluşturduğu kendi eserini tanımlamak için kullanmıştır."
+        "Aciklama": "<strong>Asamblaj: </strong>Asamblaj tekniği kolajın üç boyutlu hâlidir. Sanatçılar 20. yüzyılın başlarında bu tekniği keşfetmeye başlamışlardır. “Asamblaj” terimi ilk kez 1953’te Jean Dubuffet tarafından güzel sanatlar bağlamında kelebek kanatlarıyla oluşturduğu kendi eserini tanımlamak için kullanmıştır. (Walker, J.A.,1992)."
     },
     {
         "SoruID": 3764179,
-        "SoruMetni": "<img alt=\"\" height=\"280\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/fea7225ee952b02aef9ec08c0dbf0f39.png\" width=\"435\"/><br/> Almanya'da Kassel Fridericianum müzesinin bahçesinde, çevresi 7000 bazalt sütün yığınıyla doldurulmuş bir meşe ağacı fidanı dikerek, insanların doğaya ağaç ve bitki ekosistemine daha bağlı olmasının gerekliliğini, özellikle kentsel bölgelerde doğa ile yakınlığın sürekliliğinin korunmasının gerektiğini vurgulamaya çalışan sanatçı aşağıdakilerden hangisidir?",
+        "SoruMetni": "<img alt=\"\" height=\"280\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/fea7225ee952b02aef9ec08c0dbf0f39.png\" width=\"435\"/><br/>Almanya'da Kassel Fridericianum müzesinin bahçesinde, çevresi 7000 bazalt sütün yığınıyla doldurulmuş bir meşe ağacı fidanı dikerek, insanların doğaya ağaç ve bitki ekosistemine daha bağlı olmasının gerekliliğini, özellikle kentsel bölgelerde doğa ile yakınlığın sürekliliğinin korunmasının gerektiğini vurgulamaya çalışan sanatçı aşağıdakilerden hangisidir?",
         "A": "Joseph Beuys",
         "B": "Pablo Picasso",
         "C": "Edward Munch",
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Biyo-Sanat, </strong>sanatçıların biyoloji, canlı dokular, bakteriler, canlı or-ganizmalar ve yaşam süreçleri ile çalıştığı bir sanat pratiğidir."
+        "Aciklama": "<strong>Biyo-Sanat: </strong>Biyo-Sanat, 20. yüzyılın sonu ve 21. yüzyılın başında ortaya çıkmıştır. <strong><em>Biyo-Sanat </em></strong>çalışan sanatçılar canlı madde ile çalışsalar da maddenin canlı veya canlı olarak kabul edilebileceği aşamalar konusunda etik, sosyal ve estetik tartışmalar vardır. Sanat eserleri laboratuvarlarda, galerilerde veya sanatçı stüdyolarında üretilirken, bazı sanatçılar canlı dokular, bakteriler, canlı organizmalar ve yaşam süreçlerinin sadece görsellerini kullanarak eserlerini üretirler.<br><strong>Biyo-Sanat, </strong>sanatçıların biyoloji, canlı dokular, bakteriler, canlı or-ganizmalar ve yaşam süreçleri ile çalıştığı bir sanat pratiğidir."
     },
     {
         "SoruID": 3764276,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sürdürülebilirlik"
+        "Aciklama": "Sanayileşmenin getirdiği kirlilik ve küresel ısınma da daha uzun vadede doğayı yaşanılmaz hâle getirmektedir. Bu bağlamda artan nüfus ve buna bağlı olarak artan tüketim, azalan kaynaklarımız ve üretimin sınırlılığı “sürdürülebilirlik” kavramının her alanda daha yoğun biçimde kullanımını ortaya çıkarmıştır."
     },
     {
         "SoruID": 3764277,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Toplumsal eşit hakların yaygınlaşması"
+        "Aciklama": "Sürdürülebilir ekonomik kalkınma, yükselen yaşam standartları, teknolojik ilerleme ve bilginin<br/>daha hızlı yayılması, küreselleşmenin <strong>en belirgin faydaları</strong> arasında sayılmaktadır.<br>Toplumsal eşit hakların yaygınlaşması"
     },
     {
         "SoruID": 3764278,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Simülasyon"
+        "Aciklama": "Sürdürülebilirlik kavramı doğrultusunda, atık ya da kullanılmayan nesnenin sanat objesine dönüşme<br/>sürecinde, eğitim kurumlarında ders kapsamında öğretilen ve uygulamalarının yapıldığı, temel yöntemler aşağıdaki gibi sıralanabilir.<br/><strong>• Kolaj</strong><br/><strong>• Dekolaj</strong><br/><strong>• Asamblaj</strong><br/><strong>• Akümülasyon</strong><br/><strong>• Montaj</strong><br>Simülasyon"
     },
     {
         "SoruID": 3764279,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kolaj"
+        "Aciklama": "<strong>Kolaj:</strong> Kelime olarak bir araya getirme birleştirme anlamına gelir. Bir resim tekniğidir. <strong>Elde</strong><br/><strong>var olan her türlü basılı, yazılı, çizili, resimsel malzemelerin bir yüzey üzerinde yeniden kurgulanmasıyla </strong>oluşturulur."
     },
     {
         "SoruID": 3764280,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dekolaj"
+        "Aciklama": "<strong>Dekolaj:</strong> “Sökülmek” anlamına gelen Fransızca bir kelimedir. Üst üste katmanlar hâlinde yerleştirilmiş afiş, resim ya da basılı kağıtların bazı bölümlerinin kesilip çıkarılmasıyla oluşturulur."
     },
     {
         "SoruID": 3764281,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Asamblaj"
+        "Aciklama": "Bir form oluşturacak biçimde kullanılmayan objelerin birleştirilerek heykele dönüştürülmesi<br/>anlamına gelir.<br>Asamblaj"
     },
     {
         "SoruID": 3764282,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Armand Pierre Fernandez"
+        "Aciklama": "Fransız sanatçı <strong>Armand Pierre Fernandez</strong> akümülasyon tekniğini kullanan önemli bir sanatçıdır. Eserlerinde “Bugünün Arkeolojisi”ni oluşturmayı önerir. Toplumdaki kimlik kaybı ve toplumun bunu fark etmemesi, israfın korkunç boyutlarını akümülasyon tekniği ile eserlerinde aktarır."
     },
     {
         "SoruID": 3764283,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hans Haacke"
+        "Aciklama": "<strong>Hans Haacke</strong> ve Joseph Beuys projeleriyle ekolojik sanat anlayışının gelişimine katkıda bulunan<br/>ilk aktivist sanatçılardandır."
     },
     {
         "SoruID": 3764284,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgi ve teknolojiyi kabul etmediği için"
+        "Aciklama": "<strong>Sürdürülebilir sanat uygulamaları;</strong><br/>• Erişilebilir uygun maliyetli malzemelerden yapıldığı için,<br/>• Siyasi ve sosyal meselelerin altını çizdiği için,<br/>• Yaratıcılığı desteklediği için,<br/>• Sosyal farkındalık yaratıp, çevre dostu yaklaşımın benimsenmesini sağladığı için,<br/>• Ekolojik dinamikler ve karşılaştığımız çevre sorunları hakkında toplumun bilgilendiren eserler<br/>olduğu için desteklenmeli, öğretilmeli ve sürdürülebilir olmalıdır.<br>Bilgi ve teknolojiyi kabul etmediği için"
     },
     {
         "SoruID": 3764285,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gabriel Dishaw"
+        "Aciklama": "<strong>Gabriel Dishaw</strong> bu biçimde çalışan sanatçılar için iyi bir örnektir. Çalışmalarında <em>“Upcycling- İleri</em><br/><em>dönüşüm”</em> tekniğini kullanan <strong>Gabriel Dishaw</strong>, lise döneminden beri atık malzemeleri en yaratıcı<br/>biçimde kullanarak heykel yapan bir sanatçıdır."
     }
 ]

@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fransa"
+        "Aciklama": "Bu kanlı savaşı sona erdiren mütareke ile birlikte Osmanlı Devleti, Orta Doğu ve Arap Yarımadası’ndaki topraklarından ve Kafkasya’dan vazgeçtiğini kabul etmiş oluyordu, devlet tamamıyla parçalanmış elinde yalnızca Anadolu ve Doğu Trakya kalmış durumdaydı. Tam bir dağılma olan bu parçalanmadan bir sürü Arap Devleti ortaya çıktı. Suriye ve Lübnan ise Fransız mandasına geçti.<br>Fransa"
     },
     {
         "SoruID": 3887341,
@@ -37,7 +37,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Musul"
+        "Aciklama": "Musul bölgesinin boşaltılması, Mondros Mütarekesi’nden bir hafta sonra gerçekleşmiştir. 12 Ocak 1920 tarihinde Osmanlı Meclis-i Mebusanında kabul edilen ve tüm dünyaya duyurulan Misakı Millî metninde, Mondros Mütarekesi imzalandığı sırada geçerli olan sınırlarımızın sağlanması teminat altına alınmıştı. Bu sebeple Musul bölgesinin terki hem mütareke döneminin bir kırılma noktası olmuş hem de Türk topraklarının Konya ve Sivas bölgesine kadar işgali sonucunu doğurmuştur."
+    },
+    {
+        "SoruID": 3887342,
+        "SoruMetni": "Aşağıdakilerden hangisi Milli Mücadele Dönemi’nde işgallere karşı ilk direnişin gösterildiği bölgedir?",
+        "A": "Halep",
+        "B": "İskenderun",
+        "C": "Konya",
+        "D": "Uşak",
+        "E": "Aydın",
+        "DogruCevap": "B",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi I",
+        "Unite": 3,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:49.463409",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İskenderun bölgesi Milli Mücadele Dönemi’nde, işgallere karşı ilk direnişin gösterildiği yerdir."
     },
     {
         "SoruID": 3887343,
@@ -57,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Suriye Antlaşması"
+        "Aciklama": "İngilizlerin bölgedeki işgalleri 15 Eylül 1919 tarihinde Fransızlar ile yaptıkları Suriye Antlaşması’na kadar devam etmiştir. Orta Doğu ile birlikte Türkiye’nin güney ve güneydoğusunu nasıl paylaşacaklarını belirleyen bu antlaşmaya göre, Irak ve Filistin İngiliz mandasına, Suriye ve Lübnan ile birlikte Antep, Maraş ve Urfa da el değiştirerek Fransız mandasına girmiştir."
     },
     {
         "SoruID": 3887344,
-        "SoruMetni": "Aşağıdakilerden hangisi Milli Mücadele Dönemi’nde Osmanlı Devleti’ne karşı savaşan Yunanistan'ın hedeflerine ulaşmak için kullandığı cemiyetlerden biri <span style=\"text-decoration: underline;\">değildir</span>?",
+        "SoruMetni": "Aşağıdakilerden hangisi Milli Mücadele Dönemi’nde Osmanlı Devleti’ne karşı savaşan Yunanistan'ın hedeflerine ulaşmak için kullandığı cemiyetlerden biri <span style=\"text-decoration: underline;\">değildir</span>?",
         "A": "Kordos cemiyeti",
         "B": "Pontus cemiyeti",
         "C": "Etnik-i Eterya cemiyeti",
@@ -77,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hınçak cemiyeti"
+        "Aciklama": "Hem Birinci Dünya Savaşı’nda ve hem de Milli Mücadele Dönemi’nde Osmanlı Devleti’ne<br/>karşı savaşan Yunanistan, hedefine ulaşmak için Etnik-i Eterya, Mavri Mira, Rum Pontus ve Kordos gibi cemiyetleri kullanarak Osmanlı Rumlarını kışkırtmışlar, Batı Anadolu’da ve Karadeniz bölgesinde Rum nüfus çoğunluğunu sağlamak için her türlü yola başvurmuşlardır. Hınçak cemiyeti ile Taşnaksütyun cemiyeti ise Ermeniler tarafından kurulmuş, Millî Mücadele boyunca Osmanlı Devleti’ne ve Millî Mücadele Hareketi’ne karşı Ermeniler için çalışmışlardır."
     },
     {
         "SoruID": 3887345,
@@ -97,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sultanahmet mitingleri"
+        "Aciklama": "Sultanahmet mitingleri, 15 Mayıs 1919’da İzmir’in işgali üzerine Türk Ocağı ve Karakol Cemiyeti tarafından düzenlenen mitinglerdir. Bundan önce yine İstanbul’da işgali kınamak ve direnişi yaymak için Fatih, Üsküdar–Doğancılar, Kadıköy mitingleri yapılmıştır. Sultanahmet Mitingleri, 23 Mayıs 1919, 30 Mayıs 1919, 10 Ekim 1919, 13 Ocak 1920 tarihlerinde dört kez yapıldı."
     },
     {
         "SoruID": 3887346,
@@ -117,7 +137,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mütareke sonrasında Suriye ve Lübnan, Fransız mandasına<br/>geçti. Doğru yanıt B seçeneğinde verilmiştir."
+        "Aciklama": "İşgallere Zemin Hazırlayan Mütareke: Mondros Mütarekesi başlığı altında.<br>Mütareke sonrasında Suriye ve Lübnan, Fransız mandasına<br/>geçti. Doğru yanıt B seçeneğinde verilmiştir."
+    },
+    {
+        "SoruID": 3887347,
+        "SoruMetni": "Mondros Mütarekesi sonrasında başlayan işgallere karşı <em>ilk</em> direnişin gösterildiği bölge aşağıdakilerden hangisidir?",
+        "A": "İskenderun",
+        "B": "Musul",
+        "C": "İzmir",
+        "D": "Ayvalık",
+        "E": "Antalya",
+        "DogruCevap": "A",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi I",
+        "Unite": 3,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:49.486212",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Çukurova’daki İngiliz-Fransız İşgalleri ve Millî Mücadele’nin İlk Kurşunu başlığı altında.<br>İskenderun bölgesi aynı zamanda Millî Mücadele Dönemi’nde, işgallere karşı ilk direnişin gösterildiği yerdir. Bu direnişin temelinde yatan sebeplerden birisi de savaş sırasında tehcire tabi tutulmuş olan Ermenilerin, Fransız askerleri ile birlikte bölgeye dönüşleri olmuştur. Dönenler intikam duygusu ile hareket ettikleri gibi, Fransızlar da bunlardan askerî kuvvet olarak yararlanmak istemişler, bu yüzden Ermenilerin Türklere karşı hakaret dolu davranışlarına göz yummuşlardır. Doğru yanıt A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3887348,
@@ -137,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İngilizlerin15 Eylül1919 tarihinde Fransızlarla yaptıkları Suriye Antlaşması’na kadar devam etmiştir. Orta Doğu ile birlikte Türkiye’nin güney ve güneydoğusunu nasıl paylaşacaklarını belirleyen bu antlaşmaya göre, Irak ve Filistin İngiliz mandasına, Suriye ve Lübnan ile birlikte Antep, Maraş ve Urfa da el değiştirerek Fransız mandasına girmiştir. Doğru yanıt C seçeneğinde verilmiştir."
+        "Aciklama": "Urfa, Antep ve Maraş Bölgesindeki İşgaller başlığı altında.<br>İngilizlerin15 Eylül1919 tarihinde Fransızlarla yaptıkları Suriye Antlaşması’na kadar devam etmiştir. Orta Doğu ile birlikte Türkiye’nin güney ve güneydoğusunu nasıl paylaşacaklarını belirleyen bu antlaşmaya göre, Irak ve Filistin İngiliz mandasına, Suriye ve Lübnan ile birlikte Antep, Maraş ve Urfa da el değiştirerek Fransız mandasına girmiştir. Doğru yanıt C seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3887349,
@@ -157,11 +197,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sivas’ta Vali Reşit Paşa’nın eşi Melek Hanım tarafından kurulan Anadolu Kadınları Müdafaa-i Vatan Cemiyeti vardır ki Türk kadınının Millî Mücadele Hareketi sırasındaki tutumunu göstermesi açısından önemli bir cemiyettir. Cemiyet, Türk yurduna ve milletine karşı yapılmakta olan haksızlıkların düzeltilmesi için hükûmetçe gerekli girişimlerde bulunulmasını istemiştir. İstanbul’daki Amerika, İngiltere, Fransa ve İtalya siyasi temsilcilerine de protesto niteliğinde birer telgraf göndermiştir. Doğru yanıt D seçeneğinde verilmiştir."
+        "Aciklama": "Millî Mücadele’ye Destek Veren Cemiyetler başlığı altında.<br>Sivas’ta Vali Reşit Paşa’nın eşi Melek Hanım tarafından kurulan Anadolu Kadınları Müdafaa-i Vatan Cemiyeti vardır ki Türk kadınının Millî Mücadele Hareketi sırasındaki tutumunu göstermesi açısından önemli bir cemiyettir. Cemiyet, Türk yurduna ve milletine karşı yapılmakta olan haksızlıkların düzeltilmesi için hükûmetçe gerekli girişimlerde bulunulmasını istemiştir. İstanbul’daki Amerika, İngiltere, Fransa ve İtalya siyasi temsilcilerine de protesto niteliğinde birer telgraf göndermiştir. Doğru yanıt D seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3887350,
-        "SoruMetni": "Mustafa Kemal Paşa'nın Sivas Kongresi sürerken Kuvayı Milliye birliklerine çekidüzen vermek amacıyla Batı Anadolu'daki Kuvayı Milliye birliklerinin başına atadığı komutan kimdir?",
+        "SoruMetni": "Mustafa Kemal Paşa'nın Sivas Kongresi sürerken Kuvayı Milliye birliklerine çekidüzen vermek amacıyla Batı Anadolu'daki Kuvayı Milliye birliklerinin başına atadığı komutan kimdir?",
         "A": "Albay İsmet (İnönü) Bey",
         "B": "Albay Refet (Bele) Bey",
         "C": "Albay İzzettin (Çalışlar) Bey",
@@ -177,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sivas Kongresi sürerken Mustafa Kemal Paşa, Kuvayı Milliye birliklerine bir çekidüzen verilmesinin yerinde olacağını düşündü. Bu amaçla Yirminci Kolordu Komutanı Ali Fuat Paşa, Batı Anadolu’daki Kuvayı Milliye birliklerine komutan olarak atandı (9 Eylül 1919). Ali Fuat Paşa, Ege Bölgesi’ndeki Kuvayı Milliye’yi disiplin altına almak için Albay Refet Bey’i görevlendirdi ve bu kuvvetlere destek oldu. Doğru yanıt E seçeneğinde verilmiştir."
+        "Aciklama": "Kuvayı Milliye başlığı altında.<br>Sivas Kongresi sürerken Mustafa Kemal Paşa, Kuvayı Milliye birliklerine bir çekidüzen verilmesinin yerinde olacağını düşündü. Bu amaçla Yirminci Kolordu Komutanı Ali Fuat Paşa, Batı Anadolu’daki Kuvayı Milliye birliklerine komutan olarak atandı (9 Eylül 1919). Ali Fuat Paşa, Ege Bölgesi’ndeki Kuvayı Milliye’yi disiplin altına almak için Albay Refet Bey’i görevlendirdi ve bu kuvvetlere destek oldu. Doğru yanıt E seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3887351,
@@ -197,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ankara'ya dönmek üzere bulunan Yirminci Kolordu Komutanı Ali Fuat Paşa ile A Mustafa Kemal Paşa arasında İstanbul'da yapılan görüşmede belirlenen harekat tarzlarından olan terhis işlemlerinin hemen durdurulması ile cephane ve silahların düşmana teslim edilmemesi kararları Mondros Mütarekesi hükümlerine duydukları tepkinin bir yansımasıdır. Doğru yanıt A seçeneğinde verilmiştir."
+        "Aciklama": "Mustafa Kemal Paşa’nın İstanbul’a Gelişi ve Buradaki Çalışmaları başlığı altında.<br>Ankara'ya dönmek üzere bulunan Yirminci Kolordu Komutanı Ali Fuat Paşa ile A Mustafa Kemal Paşa arasında İstanbul'da yapılan görüşmede belirlenen harekat tarzlarından olan terhis işlemlerinin hemen durdurulması ile cephane ve silahların düşmana teslim edilmemesi kararları Mondros Mütarekesi hükümlerine duydukları tepkinin bir yansımasıdır. Doğru yanıt A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3887352,
@@ -217,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "19 Mayıs 1919’da beraberindekilerle Samsun’a ulaşan Mustafa Kemal Paşa 25 Mayıs 1919’da Havza’ya geçti.  28 Mayıs 1919’da Havza’dan bütün komutanlara, yöneticilere ve millî kuruluşlara gönderdiği genelge ile yabancı işgallerinin giderek genişlediğini, bütün yurdun düşmanlar tarafından çevrilmiş bulunduğunu, bu işgallerin büyük ve heyecanlı mitinglerle protesto edilmesi gerektiğini bildirdi. Doğru yanıt B seçeneğinde verilmiştir."
+        "Aciklama": "Havza Genelgesi başlığı altında.<br>19 Mayıs 1919’da beraberindekilerle Samsun’a ulaşan Mustafa Kemal Paşa 25 Mayıs 1919’da Havza’ya geçti. 28 Mayıs 1919’da Havza’dan bütün komutanlara, yöneticilere ve millî kuruluşlara gönderdiği genelge ile yabancı işgallerinin giderek genişlediğini, bütün yurdun düşmanlar tarafından çevrilmiş bulunduğunu, bu işgallerin büyük ve heyecanlı mitinglerle protesto edilmesi gerektiğini bildirdi. Doğru yanıt B seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3887353,
@@ -237,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Amasya Genelgesi Millî Mücadele hareketinin gerekçesini, yöntemini ve dayanacağı gücü açıklayan önemli bir belgedir. Millî egemenliğe dayalı yeni bir Türk Devleti’nin kurulması için atılan ilk adımdır. Genelge ile İstanbul Hükûmeti’nin çaresizlik içerisinde bulunduğu ve üzerine düşen görevi yerine getiremediği belirtilerek millet, bağımsızlık için mücadeleye davet edilmiştir. Hristiyan azınlıklara siyasi hakimiyet ve sosyal dengeyi bozacak ayrıcalıkların verilemeyeceği ise Erzurum Kongresi'nde vurgulanmıştır. Doğru yanıt E seçeneğinde verilmiştir."
+        "Aciklama": "Amasya Genelgesi başlığı altında.<br>Amasya Genelgesi Millî Mücadele hareketinin gerekçesini, yöntemini ve dayanacağı gücü açıklayan önemli bir belgedir. Millî egemenliğe dayalı yeni bir Türk Devleti’nin kurulması için atılan ilk adımdır. Genelge ile İstanbul Hükûmeti’nin çaresizlik içerisinde bulunduğu ve üzerine düşen görevi yerine getiremediği belirtilerek millet, bağımsızlık için mücadeleye davet edilmiştir. Hristiyan azınlıklara siyasi hakimiyet ve sosyal dengeyi bozacak ayrıcalıkların verilemeyeceği ise Erzurum Kongresi'nde vurgulanmıştır. Doğru yanıt E seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3887354,
@@ -257,11 +297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mondros Mütarekesi’nden sonra Doğu Trakya’nın Yunanistan’a verileceği söz konusu olunca, Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti 22 Ocak 1919’da İstanbul’da bir kongre toplayarak bazı kararlar almıştır. Bu kararlara göre, Yunan askerlerinin Trakya’dan uzaklaştırılması ve gerekirse<br/>halk oylamasıyla bölgenin kaderinin belirlenmesi gerekiyordu. Ancak bu kararlar gerçekleştirilemeyince Edirne’de 16 Ekim 1919’da bir kongre daha<br/>toplanmış ve Trakya’nın geleceği ile ilgili kararlar alınmıştır. Bu bölgedeki millî teşkilatlanmada Kolordu Komutanı Cafer Tayyar Paşa’nın  faaliyetleri yardımcı olmuştur. Doğru yanıt B seçeneğinde verilmiştir."
+        "Aciklama": "Trakya Kongreleri<br>Mondros Mütarekesi’nden sonra Doğu Trakya’nın Yunanistan’a verileceği söz konusu olunca, Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti 22 Ocak 1919’da İstanbul’da bir kongre toplayarak bazı kararlar almıştır. Bu kararlara göre, Yunan askerlerinin Trakya’dan uzaklaştırılması ve gerekirse<br/>halk oylamasıyla bölgenin kaderinin belirlenmesi gerekiyordu. Ancak bu kararlar gerçekleştirilemeyince Edirne’de 16 Ekim 1919’da bir kongre daha<br/>toplanmış ve Trakya’nın geleceği ile ilgili kararlar alınmıştır. Bu bölgedeki millî teşkilatlanmada Kolordu Komutanı Cafer Tayyar Paşa’nın faaliyetleri yardımcı olmuştur. Doğru yanıt B seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3887355,
-        "SoruMetni": "<ul> <li>İstanbul'a gitmeden önce Ankara'ya uğrayacak tüm milletvekillerinin millî konularda aydınlatılması</li> <li>Mecliste millî teşkilatın programının esaslarını savunacak kuvvetli bir grubun kurulması </li> <li>Meclisin güvenli çalıştığı görülünceye dek Heyet-i Temsiliye'nin Anadolu’da kalarak görevini sürdürmesi</li> </ul> Yukarıdaki hükümler hangi toplantıda karara bağlanmıştır?",
+        "SoruMetni": "<ul> <li>İstanbul'a gitmeden önce Ankara'ya uğrayacak tüm milletvekillerinin millî konularda aydınlatılması</li> <li>Mecliste millî teşkilatın programının esaslarını savunacak kuvvetli bir grubun kurulması </li> <li>Meclisin güvenli çalıştığı görülünceye dek Heyet-i Temsiliye'nin Anadolu’da kalarak görevini sürdürmesi</li> </ul> Yukarıdaki hükümler hangi toplantıda karara bağlanmıştır?",
         "A": "Amasya Genelgesi",
         "B": "Amasya Görüşmeleri",
         "C": "Komutanlar Toplantısı",
@@ -277,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İstanbul Hükûmeti bir taraftan seçim hazırlıklarını yürütürken diğer taraftan da meclisin nerede toplanacağı konusunda Heyet-i Temsiliye ile fikir alışverişinde bulunuyordu. Mustafa Kemal Paşa’nın üzerinde durduğu iki şehir, Eskişehir ve Ankara idi. Bu konuyu ve diğer millî konuları görüşmek üzere Üçüncü, On İkinci, On Üçüncü, On Beşinci ve Yirminci Kolordu komutanları Sivas’a davet edildi. 16-29 Kasım 1919 tarihleri arasında yapılan ve yukarıdaki kararların alındığı bu toplantı Komutanlar Toplantısı idi. Doğru yanıt C seçeneğinde verilmiştir."
+        "Aciklama": "Sivas’ta Komutanlar Toplantısı<br>İstanbul Hükûmeti bir taraftan seçim hazırlıklarını yürütürken diğer taraftan da meclisin nerede toplanacağı konusunda Heyet-i Temsiliye ile fikir alışverişinde bulunuyordu. Mustafa Kemal Paşa’nın üzerinde durduğu iki şehir, Eskişehir ve Ankara idi. Bu konuyu ve diğer millî konuları görüşmek üzere Üçüncü, On İkinci, On Üçüncü, On Beşinci ve Yirminci Kolordu komutanları Sivas’a davet edildi. 16-29 Kasım 1919 tarihleri arasında yapılan ve yukarıdaki kararların alındığı bu toplantı Komutanlar Toplantısı idi. Doğru yanıt C seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3887356,
@@ -297,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tam bir dağılma olan bu parçalanmadan bir sürü Arap Devleti ortaya çıktı. Irak, Hicaz Kralı Hüseyin’in oğlu Faysal’ın hükümdarlığına getirildiği bir meşruti krallık oldu. Hüseyin’in krallığı altındaki Hicaz da bağımsızlığını ilan etti. Filistin de Irak gibi İngiliz mandasına verildi ve Yahudilerin yerleşimine açıldı. Ürdün, özerk bir prenslik olarak Hüseyin’in diğer oğlu Abdullah’ın yönetiminde Filistin’e bağlandı. <span style=\"text-decoration: underline;\">Suriye ve Lübnan ise, Fransız mandasına geçti</span>."
+        "Aciklama": "Tam bir dağılma olan bu parçalanmadan bir sürü Arap Devleti ortaya çıktı. Irak, Hicaz Kralı Hüseyin’in oğlu Faysal’ın hükümdarlığına getirildiği bir meşruti krallık oldu. Hüseyin’in krallığı altındaki Hicaz da bağımsızlığını ilan etti. Filistin de Irak gibi İngiliz mandasına verildi ve Yahudilerin yerleşimine açıldı. Ürdün, özerk bir prenslik olarak Hüseyin’in diğer oğlu Abdullah’ın yönetiminde Filistin’e bağlandı. <span style=\"text-decoration: underline;\">Suriye ve Lübnan ise, Fransız mandasına geçti</span>."
     },
     {
         "SoruID": 3887357,
@@ -401,7 +441,7 @@
     },
     {
         "SoruID": 3887362,
-        "SoruMetni": "Yunan emperyalizminin ama­cı olarak bilinen Megali İdea (Büyük Düşünce), Büyük Yunanistan hedefi anlamına gelmektedir. Megali İdea’ya göre, Yunanlılar bir gün birleşecek ve Yunan Kral­lığı “İonya” adı verdikleri devlet, Batı Anadolu’dan Karadeniz’e kadar uzanarak Trakya, Anadolu’nun kıyı bölgeleri ve İstanbul’u da içerisine alacaktır. Bu düşüncenin temelini ……………. Cemiyeti atmıştı.<br/><br/>Yukarıda boş bırakılan yere hangi gelmelidir?",
+        "SoruMetni": "Yunan emperyalizminin ama­cı olarak bilinen Megali İdea (Büyük Düşünce), Büyük Yunanistan hedefi anlamına gelmektedir. Megali İdea’ya göre, Yunanlılar bir gün birleşecek ve Yunan Kral­lığı “İonya” adı verdikleri devlet, Batı Anadolu’dan Karadeniz’e kadar uzanarak Trakya, Anadolu’nun kıyı bölgeleri ve İstanbul’u da içerisine alacaktır. Bu düşüncenin temelini ……………. Cemiyeti atmıştı.<br/>Yukarıda boş bırakılan yere hangi gelmelidir?",
         "A": "Mavri Mira",
         "B": "Rum Pontus",
         "C": "Kordos",
@@ -418,6 +458,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Yunan emperyalizminin ama­cı olarak bilinen Megali İdea (Büyük Düşünce), Büyük Yunanistan hedefi anlamına gelmektedir. Amacı, tüm Yunan ırkını bir devlet içinde topla­maktır. Bu aynı zamanda Bizans İmparatorluğu’nu yeniden canlandırma siyasetidir. Megali İdea’ya göre, Yunanlılar bir gün birleşecek ve Yunan Kral­lığı “İonya” adı verdikleri devlet, Batı Anadolu’dan Karadeniz’e kadar uzanarak Trakya, Anadolu’nun kıyı bölgeleri ve İstanbul’u da içerisine alacaktır<u>. Bu düşüncenin temelini Etnik-i Eterya Cemiyeti atmıştı</u>."
+    },
+    {
+        "SoruID": 3887363,
+        "SoruMetni": "Yunan işgal kuvvetlerine karşı İzmir’de ilk kurşunu atan kimdir?",
+        "A": "Süleyman Fethi",
+        "B": "Hasan Tahsin",
+        "C": "Hilmi Efendi",
+        "D": "Ali Şükrü",
+        "E": "Fahri Can",
+        "DogruCevap": "B",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi I",
+        "Unite": 3,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:49.579079",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Yunan işgal kuvvetlerine karşı ilk kurşun İzmir’de işgal sırasında atılmıştı. Hukuk-u Beşer Gazetesi sahibi <span style=\"text-decoration: underline;\">Hasan Tahsin</span> (Osman Nevres), şehirde törenle ilerleyen Yunan İşgal Kuvvetlerinin bayraktarını tabancayla vurdu."
     },
     {
         "SoruID": 3887364,
@@ -441,7 +501,7 @@
     },
     {
         "SoruID": 3887365,
-        "SoruMetni": "1918 yılının Aralık ayında İstanbul’da Adana, Maraş, Antep ve Tarsus’un önde gelenleri tarafından Çukurova’daki Ermeni tehlikesine karşı ……………… Cemiyeti kurulmuştur.<br/><br/>Yukarıdaki boşluğa hangisinin getirilmesi uygundur?",
+        "SoruMetni": "1918 yılının Aralık ayında İstanbul’da Adana, Maraş, Antep ve Tarsus’un önde gelenleri tarafından Çukurova’daki Ermeni tehlikesine karşı ……………… Cemiyeti kurulmuştur.<br/>Yukarıdaki boşluğa hangisinin getirilmesi uygundur?",
         "A": "Çukurovalılar",
         "B": "Güneyliler",
         "C": "Kilikyalılar",
@@ -477,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mim Mim Cemiyeti"
+        "Aciklama": "Milli Mücadele’ye karşı faaliyet gösteren cemiyetlerin başında Hürriyet ve İtilaf Fırkası geliyordu. Bu fırka ile ilişkili olan İngiliz Muhipleri Cemiyeti, Sulh ve Selamet-i Osmaniye Fırkası ve Teali İslam Cemiyeti de çeşitli faaliyetlerle Millî Mücadele Hareketi’nin ve Mustafa Kemal Paşa’nın karşısında yer almışlardır. Bunlar İngiltere himayesi altında bir Osmanlı Devleti talep etmişlerdir. Gizli Karakol Cemiyeti ise İstanbul’da kurulan ve Millî Mücadele’ye destek veren Gizli Felah Grubu, Gizli Karakol Grubu gibi cemiyetlerdendir.<br>Mim Mim Cemiyeti"
     },
     {
         "SoruID": 3887367,
@@ -497,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sivas Kongresi"
+        "Aciklama": "Sivas Kongresi, Erzurum Kongresi’nin aldığı bölgesel kararları bütün memleketi içine alan bir<br/>hâle getirmiştir. Katılanların farklı bölgelerden olması sebebiyle millî bir kongredir."
     },
     {
         "SoruID": 3887368,
@@ -522,7 +582,7 @@
     {
         "SoruID": 3887369,
         "SoruMetni": "Hangi tarihte Türk Birlikleri Musul'u boşaltmıştır?",
-        "A": "7 Kasım  1918",
+        "A": "7 Kasım 1918",
         "B": "8 Kasım 1918",
         "C": "7 Kasım 1919",
         "D": "8 Kasım 1919",
@@ -560,11 +620,31 @@
         "Aciklama": "İzmir'in Yunanlılar tarafından işgali diğer işgallerden ayrı tutularak ilhak olarak görüldü ve büyük tepkiler doğurdu."
     },
     {
+        "SoruID": 3887371,
+        "SoruMetni": "Milli Mücadele Hareketi'nin Fransızlara karşı ilk kurşunu nerede atılmıştır?",
+        "A": "Dörtyol",
+        "B": "Urfa",
+        "C": "Antep",
+        "D": "İzmir",
+        "E": "Maraş",
+        "DogruCevap": "A",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi I",
+        "Unite": 3,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:49.730342",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Dörtyol"
+    },
+    {
         "SoruID": 3887372,
         "SoruMetni": "Antep, Urfa, Maraş Bölgesindeki işgallere büyük direnmenin gösterilmesinin sebebi aşağıdakilerden hangisidir?",
         "A": "Fransızların Ermenilerle işbirliğine gitmesi",
         "B": "İngiliz kuvvetlerinin Maraş'ı işgal etmesi",
-        "C": "Irak ve  Filistin'in İngiliz mandasına girmesi",
+        "C": "Irak ve Filistin'in İngiliz mandasına girmesi",
         "D": "Diyarbakır ve Adana bölgesine işgal için çetelerin sürülmesi",
         "E": "Suriye ve Lübnan'ın Fransa'nın mandasına girmesi",
         "DogruCevap": "A",
@@ -641,7 +721,7 @@
     },
     {
         "SoruID": 3887376,
-        "SoruMetni": "I. Amasya Genelgesi,<br/><br/>II. Havza Genelgesi,<br/><br/>III. Erzurum Kongresi,<br/><br/>IV. Sivas Kongresi<br/><br/>Yukarıda belirtilen toplantıların oluş sırasını aşağıdakilerden hangisi doğru olarak göstermektedir?",
+        "SoruMetni": "I. Amasya Genelgesi,<br/>II. Havza Genelgesi,<br/>III. Erzurum Kongresi,<br/>IV. Sivas Kongresi<br/>Yukarıda belirtilen toplantıların oluş sırasını aşağıdakilerden hangisi doğru olarak göstermektedir?",
         "A": "II.-I.-III.-IV",
         "B": "I.-II.-III.-IV",
         "C": "III.-I.-II.-IV",
@@ -697,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mütareke Dönemi’nde İngilizlerin gerçek niyetlerini gösteren ilk işgal Musul’da yaşandı. Osmanlı Devleti Irak bölgesini Musul, Bağdat ve Basra vilayetlerine ayırarak idare etmiştir. Musul’un içerisinde bulunduğu Irak bölgesini İngiltere için cazip kılan şey, Hindistan yolunun güvenliği ve petrol idi.<br/> Doğru cevap a) şıkkıdır."
+        "Aciklama": "Mütareke Dönemi’nde İngilizlerin gerçek niyetlerini gösteren ilk işgal Musul’da yaşandı. Osmanlı Devleti Irak bölgesini Musul, Bağdat ve Basra vilayetlerine ayırarak idare etmiştir. Musul’un içerisinde bulunduğu Irak bölgesini İngiltere için cazip kılan şey, Hindistan yolunun güvenliği ve petrol idi.<br/>Doğru cevap a) şıkkıdır."
     },
     {
         "SoruID": 3887379,
@@ -717,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Torosların güneyindeki toprakların İtilaf devletlerine bırakılacağını duymuş olan yöre halkında büyük bir endişe ve heyecan başlamıştır. Millî Mücadele Hareketi’nin ilk kurşunu bu cephede 19 Aralık 1918’de Dörtyol’da Fransızlara karşı atılmıştır.<br/> Doğru cevap d) şıkkıdır."
+        "Aciklama": "Torosların güneyindeki toprakların İtilaf devletlerine bırakılacağını duymuş olan yöre halkında büyük bir endişe ve heyecan başlamıştır. Millî Mücadele Hareketi’nin ilk kurşunu bu cephede 19 Aralık 1918’de Dörtyol’da Fransızlara karşı atılmıştır.<br/>Doğru cevap d) şıkkıdır."
     },
     {
         "SoruID": 3887380,
@@ -737,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mondros Mütarekesi’nden hemen sonra İtilaf devletleri Osmanlı Devleti’nden Kars, Ardahan ve Batum’un hemen boşaltılmasını istediler. Uygulanması istenen bu şartlar, bölgede bulunan Dokuzuncu Orduyu özellikle kış mevsiminde beklenilmeyen ve çözülmesi çok güç olan karışık meseleler ve zorluklar karşısında bırakacaktı. Dokuzuncu Ordu Komutanı Yakup Şevki Paşa, bu çekilme işinde çok ağır davranarak zaman kazanmaya çalışıyordu. Bu sebeple ordu 4 Aralık 1918’de eski sınırı oluşturan Arpaçay nehrinin gerisine çekilmiştir.<br/> Doğru cevap e) şıkkıdır."
+        "Aciklama": "Mondros Mütarekesi’nden hemen sonra İtilaf devletleri Osmanlı Devleti’nden Kars, Ardahan ve Batum’un hemen boşaltılmasını istediler. Uygulanması istenen bu şartlar, bölgede bulunan Dokuzuncu Orduyu özellikle kış mevsiminde beklenilmeyen ve çözülmesi çok güç olan karışık meseleler ve zorluklar karşısında bırakacaktı. Dokuzuncu Ordu Komutanı Yakup Şevki Paşa, bu çekilme işinde çok ağır davranarak zaman kazanmaya çalışıyordu. Bu sebeple ordu 4 Aralık 1918’de eski sınırı oluşturan Arpaçay nehrinin gerisine çekilmiştir.<br/>Doğru cevap e) şıkkıdır."
     },
     {
         "SoruID": 3887381,
@@ -757,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İtalyanlar bu konuda diğer müttefiklerinden daha sabırlı bir politika izlemişlerdir. Fakat Paris Barış Konferansı’nda Yunanistan lehine meydana gelen gelişmeleri görünce, 28 Mart’ta Antalya, 4 Mayıs’ta Kuşadası ve 11 Mayıs’ta da Fethiye, Bodrum ve Marmaris’i işgal etmişler, Konya ve Akşehir’e de askerî birlik göndermişlerdir.<br/><br/>Doğru cevap a) şıkkıdır."
+        "Aciklama": "İtalyanlar bu konuda diğer müttefiklerinden daha sabırlı bir politika izlemişlerdir. Fakat Paris Barış Konferansı’nda Yunanistan lehine meydana gelen gelişmeleri görünce, 28 Mart’ta Antalya, 4 Mayıs’ta Kuşadası ve 11 Mayıs’ta da Fethiye, Bodrum ve Marmaris’i işgal etmişler, Konya ve Akşehir’e de askerî birlik göndermişlerdir.<br/>Doğru cevap a) şıkkıdır."
     },
     {
         "SoruID": 3887382,
@@ -777,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Patrik Zaven Efendi’nin bu çalışmaları dışında Ermeniler, Paris Barış Konferansı’na millî bir heyetle katıldılar. Türkiye, Rusya, İran, Mısır, Suriye, Avrupa ve Amerika Ermenileri tarafından toplanan Ermeni Birliği Kongresi seçtiği altı kişilik bir heyetin başına Bogos Nubar Paşa’yı getirdi. Bogos Nubar ile Kafkasya’daki Ermeni Cumhuriyeti’nin başkanı olan Aharonyan, 26 Şubat 1919’da Paris Barış Konferansı’na verdikleri bir muhtıra ile Türkiye’den toprak taleplerini şu şekilde sıraladılar: “Van, Bitlis, Diyarbakır, Elâzığ, Sivas ve Erzurum’un oluşturduğu doğudaki altı Türk vilayeti ile birlikte Ermenistan’a liman teşkil etmesi amacıyla Trabzon’un bir kısmı. Ayrıca bu vilayetlerin güney ve güneybatı ucunu ve aynı zamanda denize çıkış noktasını oluşturan İskenderun ile birlikte Maraş, Kozan, Osmaniye ve Adana vilayeti”.<br/> Doğru cevap b) şıkkıdır."
+        "Aciklama": "Patrik Zaven Efendi’nin bu çalışmaları dışında Ermeniler, Paris Barış Konferansı’na millî bir heyetle katıldılar. Türkiye, Rusya, İran, Mısır, Suriye, Avrupa ve Amerika Ermenileri tarafından toplanan Ermeni Birliği Kongresi seçtiği altı kişilik bir heyetin başına Bogos Nubar Paşa’yı getirdi. Bogos Nubar ile Kafkasya’daki Ermeni Cumhuriyeti’nin başkanı olan Aharonyan, 26 Şubat 1919’da Paris Barış Konferansı’na verdikleri bir muhtıra ile Türkiye’den toprak taleplerini şu şekilde sıraladılar: “Van, Bitlis, Diyarbakır, Elâzığ, Sivas ve Erzurum’un oluşturduğu doğudaki altı Türk vilayeti ile birlikte Ermenistan’a liman teşkil etmesi amacıyla Trabzon’un bir kısmı. Ayrıca bu vilayetlerin güney ve güneybatı ucunu ve aynı zamanda denize çıkış noktasını oluşturan İskenderun ile birlikte Maraş, Kozan, Osmaniye ve Adana vilayeti”.<br/>Doğru cevap b) şıkkıdır."
     },
     {
         "SoruID": 3887383,
@@ -797,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu şekilde düşünen cemiyetlerin başında Hürriyet ve İtilaf Fırkası geliyordu. Bu dönemde, farklı zamanlarda uzun süre (4 Mart 1919-2 Ekim 1919 ve 5 Nisan 1920-17 Ekim 1920) sadrazamlık yapan Damat Ferit Paşa bu fırkaya mensuptu. Yine bu fırka ile ilişkili olan İngiliz Muhipleri Cemiyeti, Sulh ve Selamet-i Osmaniye Fırkası ve Teali İslam Cemiyeti de çeşitli faaliyetlerle Millî Mücadele Hareketi’nin ve Mustafa Kemal Paşa’nın karşısında yer almışlardır.<br/> Doğru cevap c) şıkkıdır."
+        "Aciklama": "Bu şekilde düşünen cemiyetlerin başında Hürriyet ve İtilaf Fırkası geliyordu. Bu dönemde, farklı zamanlarda uzun süre (4 Mart 1919-2 Ekim 1919 ve 5 Nisan 1920-17 Ekim 1920) sadrazamlık yapan Damat Ferit Paşa bu fırkaya mensuptu. Yine bu fırka ile ilişkili olan İngiliz Muhipleri Cemiyeti, Sulh ve Selamet-i Osmaniye Fırkası ve Teali İslam Cemiyeti de çeşitli faaliyetlerle Millî Mücadele Hareketi’nin ve Mustafa Kemal Paşa’nın karşısında yer almışlardır.<br/>Doğru cevap c) şıkkıdır."
     },
     {
         "SoruID": 3887384,
@@ -817,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Millî Mücadele sırasında Kuvayı Milliye birliklerinin faydaları şunlar olmuştur:<br/> <ol> <li>Anadolu’yu işgale çalışan kuvvetler daha fazla ilerlemeden belirli noktalarda durduruldu.</li> <li>Ermeni ve Rum çetelerinin faaliyetlerine karşı Türk yerleşim birimleri korundu.</li> <li>Millî Mücadele aleyhine çıkan ayaklanmaların bastırılmasında etkili oldu.</li> <li>Türkiye Büyük Millet Meclisine bağlı düzenli ordunun kurulabilmesi için zaman kazandırdı.</li> </ol> Doğru cevap b) şıkkıdır."
+        "Aciklama": "Millî Mücadele sırasında Kuvayı Milliye birliklerinin faydaları şunlar olmuştur:<br/><ol> <li>Anadolu’yu işgale çalışan kuvvetler daha fazla ilerlemeden belirli noktalarda durduruldu.</li> <li>Ermeni ve Rum çetelerinin faaliyetlerine karşı Türk yerleşim birimleri korundu.</li> <li>Millî Mücadele aleyhine çıkan ayaklanmaların bastırılmasında etkili oldu.</li> <li>Türkiye Büyük Millet Meclisine bağlı düzenli ordunun kurulabilmesi için zaman kazandırdı.</li> </ol> Doğru cevap b) şıkkıdır."
     },
     {
         "SoruID": 3887385,
@@ -837,7 +917,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Amasya Genelgesi’nin yayımlanmasından sonra Mustafa Kemal Paşa ve beraberindekiler Amasya’dan ayrılarak Sivas üzerinden 3 Temmuz 1919’da Erzurum’a geldiler. Mustafa Kemal Paşa Samsun’a çıktığı günden beri İngilizlerin yakın takibinde bulunuyordu. Amasya Genelgesi, peşinden Erzurum’daki çalışmaları hükûmetin kesin bir karar almasına sebep oldu. Yaklaşık bir ay süren yazışmalar 8 Temmuz 1919’da sona erdi; İstanbul Hükûmeti, Mustafa Kemal Paşa’nın Dokuzuncu Ordu Müfettişliği görevine son verdi. Mustafa Kemal Paşa da aynı günün akşamı askerlikten istifa ettiğini Padişah Vahdettin’e bildirdi. O, 9 Temmuz’da yayımladığı beyannamede, mübarek vatanı ve milleti parçalanmak tehlikesinden kurtarmak, Yunan ve Ermeni isteklerine kurban etmemek için, çalışmaya resmî sıfatı ve askerlik görevi engel olmaya başladığından istifa ettiğini duyurdu.<br/> Doğru cevap d) şıkkıdır."
+        "Aciklama": "Amasya Genelgesi’nin yayımlanmasından sonra Mustafa Kemal Paşa ve beraberindekiler Amasya’dan ayrılarak Sivas üzerinden 3 Temmuz 1919’da Erzurum’a geldiler. Mustafa Kemal Paşa Samsun’a çıktığı günden beri İngilizlerin yakın takibinde bulunuyordu. Amasya Genelgesi, peşinden Erzurum’daki çalışmaları hükûmetin kesin bir karar almasına sebep oldu. Yaklaşık bir ay süren yazışmalar 8 Temmuz 1919’da sona erdi; İstanbul Hükûmeti, Mustafa Kemal Paşa’nın Dokuzuncu Ordu Müfettişliği görevine son verdi. Mustafa Kemal Paşa da aynı günün akşamı askerlikten istifa ettiğini Padişah Vahdettin’e bildirdi. O, 9 Temmuz’da yayımladığı beyannamede, mübarek vatanı ve milleti parçalanmak tehlikesinden kurtarmak, Yunan ve Ermeni isteklerine kurban etmemek için, çalışmaya resmî sıfatı ve askerlik görevi engel olmaya başladığından istifa ettiğini duyurdu.<br/>Doğru cevap d) şıkkıdır."
+    },
+    {
+        "SoruID": 3887386,
+        "SoruMetni": "Askerlikten istifa ettikten sonra sıradan bir Osmanlı vatandaşı haline gelmiş olan Mustafa Kemal’e Erzurum Kongresi sırasında, kendisinin ve kolordusunun bağlılığını bildiren komutan aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+        "A": "Ahmet Muhtar Paşa",
+        "B": "Tevfik Paşa",
+        "C": "Ali Fuat Paşa",
+        "D": "Cafer Tayyar Paşa",
+        "E": "Kazım Karabekir Paşa",
+        "DogruCevap": "E",
+        "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi I",
+        "Unite": 3,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:49.625207",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Mustafa Kemal Paşa’nın askerlikten istifası, onu statü olarak sıradan bir Osmanlı vatandaşı durumuna sokmuştur. Bundan sonra Erzurum ve Anadolu’daki konumu, Kazım Karabekir Paşa ile diğer komutanların kendisi hakkında göstereceği tutuma bağlıydı, bu sebeple kendisi de endişeliydi. Fakat Kazım Karabekir Paşa’nın kendisini ziyaret ederek kolordusu ile birlikte emirlerine eskisi gibi hazır olduklarını söylemesi ve bunu bir telgrafla kendisine bildirmesi Mustafa Kemal Paşa’yı rahatlatmıştır.<br/>Doğru cevap e) şıkkıdır."
     },
     {
         "SoruID": 3887387,
@@ -857,11 +957,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Amasya Görüşmeleri, Sivas Kongresi’nde kabul edilmiş esaslar üzerinde yoğunlaştı ve 20-22 Ekim 1919 tarihleri arasında yapılan görüşmeler sonunda yapılan 5 adet protokolde özetle şu hususlar yer aldı:<br/><br/><ol><br/><li>30 Ekim 1918’de mütareke ile tespit edilen sınırlar içinde kalan Türklerin oturduğu yerlerden herhangi bir parça, hiçbir nedenle düşmana bırakılmayarak yabancı himaye ve mandası kabul edilmeyecektir.</li><br/><li>Gayrimüslimlere Türkiye’nin siyasi egemenliğini ve sosyal düzenini bozacak hiçbir imtiyaz verilmeyecektir.</li><br/><li>Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti hukuki bir teşekkül olmak üzere İstanbul Hükümeti’nce tanınacaktır.</li><br/><li>İtilaf devletleri ile yapılacak barış görüşmelerine Heyet-i Temsiliyenin de uygun gördüğü kişiler gönderilecektir.</li><br/><li>Osmanlı Meclis-i Mebusanının İstanbul’da toplanması güvenlik açısından uygun değildir.</li><br/></ol>"
+        "Aciklama": "Amasya Görüşmeleri, Sivas Kongresi’nde kabul edilmiş esaslar üzerinde yoğunlaştı ve 20-22 Ekim 1919 tarihleri arasında yapılan görüşmeler sonunda yapılan 5 adet protokolde özetle şu hususlar yer aldı:<br/><ol><br/><li>30 Ekim 1918’de mütareke ile tespit edilen sınırlar içinde kalan Türklerin oturduğu yerlerden herhangi bir parça, hiçbir nedenle düşmana bırakılmayarak yabancı himaye ve mandası kabul edilmeyecektir.</li><br/><li>Gayrimüslimlere Türkiye’nin siyasi egemenliğini ve sosyal düzenini bozacak hiçbir imtiyaz verilmeyecektir.</li><br/><li>Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti hukuki bir teşekkül olmak üzere İstanbul Hükümeti’nce tanınacaktır.</li><br/><li>İtilaf devletleri ile yapılacak barış görüşmelerine Heyet-i Temsiliyenin de uygun gördüğü kişiler gönderilecektir.</li><br/><li>Osmanlı Meclis-i Mebusanının İstanbul’da toplanması güvenlik açısından uygun değildir.</li><br/></ol>"
     },
     {
         "SoruID": 3887388,
-        "SoruMetni": "Aşağıdakilerden hangisi I. Dünya Savaşı sonucu yıkılan imparatorluklardan <u>biri değildir?</u>",
+        "SoruMetni": "Aşağıdakilerden hangisi I. Dünya Savaşı sonucu yıkılan imparatorluklardan <u>biri değildir?</u>",
         "A": "Rus Çarlığı",
         "B": "Avusturya-Macaristan İmparatorluğu",
         "C": "İngiliz Krallığı",
@@ -897,7 +997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mondros Mütarekesi’ne göre İngilizler tarafından işgal edilen Anadolu ve Trakya toprakları:<br/> <strong>Yunanlılar;</strong> Manisa, İzmir, Aydın<br/> <strong>İtalyanlar;</strong> Muğla, Burdur, Antalya<br/> <strong>İngilizler;</strong> Gelibolu, Çanakkale, Maraş, Antep, Hakkari, Samsun, Merzifon, Adapazarı,<br/> <strong>Ermeniler;</strong> Sarıkamış, Kars<br/> <strong>Fransızlar;</strong> Adana, Antakya, İskenderun<img alt=\"\" height=\"327\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/eaffd61f8c582d329d4da93fe2cf4a3c.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"444\"/>"
+        "Aciklama": "Mondros Mütarekesi’ne göre İngilizler tarafından işgal edilen Anadolu ve Trakya toprakları:<br/><strong>Yunanlılar;</strong> Manisa, İzmir, Aydın<br/><strong>İtalyanlar;</strong> Muğla, Burdur, Antalya<br/><strong>İngilizler;</strong> Gelibolu, Çanakkale, Maraş, Antep, Hakkari, Samsun, Merzifon, Adapazarı,<br/><strong>Ermeniler;</strong> Sarıkamış, Kars<br/><strong>Fransızlar;</strong> Adana, Antakya, İskenderun<img alt=\"\" height=\"327\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/eaffd61f8c582d329d4da93fe2cf4a3c.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"444\"/>"
     },
     {
         "SoruID": 3887390,
@@ -917,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mondros Mütarekesi’ne göre İngilizler tarafından işgal edilen Anadolu ve Trakya toprakları:<br/> <strong>Yunanlılar;</strong> Manisa, İzmir, Aydın<br/> <strong>İtalyanlar;</strong> Muğla, Burdur, Antalya<br/> <strong>İngilizler;</strong> Gelibolu, Çanakkale, Maraş, Antep, Hakkari, Samsun, Merzifon, Adapazarı,<br/> <strong>Ermeniler;</strong> Sarıkamış, Kars<br/> <strong>Fransızlar;</strong> Adana, Antakya, İskenderun<img alt=\"\" height=\"460\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/eaffd61f8c582d329d4da93fe2cf4a3c.png\" width=\"624\"/>"
+        "Aciklama": "Mondros Mütarekesi’ne göre İngilizler tarafından işgal edilen Anadolu ve Trakya toprakları:<br/><strong>Yunanlılar;</strong> Manisa, İzmir, Aydın<br/><strong>İtalyanlar;</strong> Muğla, Burdur, Antalya<br/><strong>İngilizler;</strong> Gelibolu, Çanakkale, Maraş, Antep, Hakkari, Samsun, Merzifon, Adapazarı,<br/><strong>Ermeniler;</strong> Sarıkamış, Kars<br/><strong>Fransızlar;</strong> Adana, Antakya, İskenderun<img alt=\"\" height=\"460\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/eaffd61f8c582d329d4da93fe2cf4a3c.png\" width=\"624\"/>"
     },
     {
         "SoruID": 3887391,
@@ -937,13 +1037,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "13 Kasım 1918’de İngiliz, Fransız, İtalyan ve Yunan gemilerinden meydana gelen 61 parçalık büyük filo İstanbul limanında, meclis binası ve Padişahın oturduğu Dolmabahçe Sarayı önünde demirlemişti.<br/> Galipler, 3.500 askeri karaya çıkarmak ve Boğaz istihkâmlarına yerleşmek için gemilerde bekliyordu."
+        "Aciklama": "13 Kasım 1918’de İngiliz, Fransız, İtalyan ve Yunan gemilerinden meydana gelen 61 parçalık büyük filo İstanbul limanında, meclis binası ve Padişahın oturduğu Dolmabahçe Sarayı önünde demirlemişti.<br/>Galipler, 3.500 askeri karaya çıkarmak ve Boğaz istihkâmlarına yerleşmek için gemilerde bekliyordu."
     },
     {
         "SoruID": 3887392,
-        "SoruMetni": "İzmir'in Yunanlılar tarafında işgali ile ilgili olarak aşağıdaki bilgilerden hangisi <u>yanlıştır</u>?",
+        "SoruMetni": "İzmir'in Yunanlılar tarafında işgali ile ilgili olarak aşağıdaki bilgilerden hangisi <u>yanlıştır</u>?",
         "A": "İzmir, 12.000 mevcutlu Yunan askerî kuvveti tarafından işgal edildi.",
-        "B": "Yunan işgal kuvvetlerine karşı ilk kurşun Hukuk-u Beşer Gazetesi sahibi Hasan Tahsin tarafından atılmıştır.",
+        "B": "Yunan işgal kuvvetlerine karşı ilk kurşun Hukuk-u Beşer Gazetesi sahibi Hasan Tahsin tarafından atılmıştır.",
         "C": "Müttefikler, daha zayıf ve kontrol edilebilir bir ülke olması nedeni ile İzmir'i İtalya yerine Yunanistan’ın işgal etmesine izin vermiştir.",
         "D": "ABD Başkanı ve Fransız Cumhurbaşkanı'nın kabulü ile Yunanistan'ın İzmir'i işgali resmiyet kazanmıştır.",
         "E": "16 Mayıs 1919’da İzmir Limanı ele geçirilmiş ve şehrin işgali başlamıştır.",
@@ -957,16 +1057,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "15 Mayıs 1919’da gelen savaş gemileri ile İzmir Limanı ele geçirilmiş ve şehrin işgali başlamıştır. <br/><br/><strong>16 Mayıs 1919 </strong>Bandırma Vapuru ile  Mustafa Kemal ve silah arkadaşlarının İstanbul'dan Anadolu'ya hareket ettikleri tarihtir."
+        "Aciklama": "15 Mayıs 1919’da gelen savaş gemileri ile İzmir Limanı ele geçirilmiş ve şehrin işgali başlamıştır. <br/><strong>16 Mayıs 1919 </strong>Bandırma Vapuru ile Mustafa Kemal ve silah arkadaşlarının İstanbul'dan Anadolu'ya hareket ettikleri tarihtir."
     },
     {
         "SoruID": 3887393,
-        "SoruMetni": "\"Mustafa Kemal Paşa, Şişli’deki evinde .............., ............... ve ........... ile görüşmelerde bulunarak memleketin geleceği konusunda sık sık görüş alışverişinde bulundu.\"<br/><br/>Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "\"Mustafa Kemal Paşa, Şişli’deki evinde .............., ............... ve ........... ile görüşmelerde bulunarak memleketin geleceği konusunda sık sık görüş alışverişinde bulundu.\"<br/>Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "Ali Fuat Paşa / Kâzım Karabekir Paşa / İsmet Paşa",
         "B": "Ali Fuat Paşa / Ali İhsan Paşa/ Kâzım Karabekir Paşa",
-        "C": "Ali İhsan Paşa / İsmet Paşa / Ahmet İzzet Paşa",
-        "D": "İsmet Paşa / Ahmet İzzet Paşa/ Cafer Tayyar Paşa",
-        "E": "Kâzım Karabekir Paşa / Tevfik Paşa / Ali Fuat Paşa",
+        "C": "Ali İhsan Paşa / İsmet Paşa / Ahmet İzzet Paşa",
+        "D": "İsmet Paşa / Ahmet İzzet Paşa/ Cafer Tayyar Paşa",
+        "E": "Kâzım Karabekir Paşa / Tevfik Paşa / Ali Fuat Paşa",
         "DogruCevap": "A",
         "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi I",
         "Unite": 3,
@@ -997,7 +1097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Amasya Genelgesi  21-22 Haziran 1919’da gecesi kamuoyu ile paylaşıldı. Bu genelgenin hükümleri şunlardır:<br/> <br/><strong>1. Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir.</strong><br/> <br/>2. İstanbul Hükûmeti üzerine aldığı sorumluluğun gereğini yerine getirememektedir. Bu durum milletimizi yok olmuş gibi gösteriyor.<br/> <br/>3. Milletin bağımsızlığını, yine milletin azim ve kararı kurtaracaktır.<br/> <br/>4. Milletin içinde bulunduğu durum ve şartların gereğini yerine getirmek ve haklarını gür sesle cihana duyurmak için her türlü baskı ve kontrolden uzak bir millî heyetin varlığı zaruridir.<br/> <br/>5. Anadolu’nun her bakımdan en güvenli yeri olan Sivas’ta hemen millî bir kongrenin toplanması kararlaştırılmıştır.<br/> <br/>6. Bunun için bütün illerin her sancağından milletin güvenini kazanmış üç temsilcinin mümkün olan en kısa zamanda yetişmek üzere yola çıkarılması gerekmektedir.<br/> <br/>7. Her ihtimale karşı, bu mesele millî bir sır olarak tutulmalı ve temsilciler, yolculuklarını kendilerini tanıtmadan yapmalıdır.<br/> <br/>8. Doğu illeri adına, 10 Temmuz’da, Erzurum’da bir kongre toplanacaktır. O tarihe kadar öteki illerin temsilcileri de Sivas’a gelebilirlerse, Erzurum Kongresi’nin üyeleri de Sivas Genel Kongresi’ne katılmak üzere hareket edeceklerdir."
+        "Aciklama": "Amasya Genelgesi 21-22 Haziran 1919’da gecesi kamuoyu ile paylaşıldı. Bu genelgenin hükümleri şunlardır:<br/><strong>1. Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir.</strong><br/>2. İstanbul Hükûmeti üzerine aldığı sorumluluğun gereğini yerine getirememektedir. Bu durum milletimizi yok olmuş gibi gösteriyor.<br/>3. Milletin bağımsızlığını, yine milletin azim ve kararı kurtaracaktır.<br/>4. Milletin içinde bulunduğu durum ve şartların gereğini yerine getirmek ve haklarını gür sesle cihana duyurmak için her türlü baskı ve kontrolden uzak bir millî heyetin varlığı zaruridir.<br/>5. Anadolu’nun her bakımdan en güvenli yeri olan Sivas’ta hemen millî bir kongrenin toplanması kararlaştırılmıştır.<br/>6. Bunun için bütün illerin her sancağından milletin güvenini kazanmış üç temsilcinin mümkün olan en kısa zamanda yetişmek üzere yola çıkarılması gerekmektedir.<br/>7. Her ihtimale karşı, bu mesele millî bir sır olarak tutulmalı ve temsilciler, yolculuklarını kendilerini tanıtmadan yapmalıdır.<br/>8. Doğu illeri adına, 10 Temmuz’da, Erzurum’da bir kongre toplanacaktır. O tarihe kadar öteki illerin temsilcileri de Sivas’a gelebilirlerse, Erzurum Kongresi’nin üyeleri de Sivas Genel Kongresi’ne katılmak üzere hareket edeceklerdir."
     },
     {
         "SoruID": 3887395,
@@ -1017,11 +1117,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Erzurum Kongresi 7 Ağustos 1919’da yayımladığı beyanname ile çalışmalarına son verdi. Millî Mücadele için son derece önemli olan bu kongrenin aldığı kararlar şunlardır:<br/>1. Doğu Anadolu ile Trabzon ve Canik (Samsun) Sancağı hiçbir sebep ve bahane ile Osmanlı Devleti’nden ayrılması mümkün olmayan bir bütündür.<br/><br/><br><strong>2. Her türlü yabancı işgal ve müdahalesine karşı, millet birlik olarak kendisini müdafaa ve mukavemet edecektir.</strong></br><br/><br/><br>3. Vatanın ve istiklalin korunmasına İstanbul Hükûmeti muktedir olmadığı takdirde, gayeyi temin için Anadolu’da geçici bir hükûmet kurulacaktır.</br><br/><br/><br>4. Kuvayı Milliye’yi âmil (millî kuvvetleri etkin) ve irade-i milliyeyi (millî iradeyi) hâkim kılmak esastır.</br><br/><br/><br>5. Hristiyan azınlıklara siyasi hâkimiyet ve sosyal dengemizi bozan imtiyazlar verilemez.</br><br/><br/><br>6. Manda ve himaye kabul olunmaz.</br><br/><br/><br>7. Millî bir meclisin derhâl toplanmasına ve hükûmet işlerinin meclisin denetimi altına yürütülmesine çalışılacaktır.</br><br/><br/><br>8. Milletimiz insani ve medeni gayeleri kabul eder, sanayi ve iktisadi ilerlemeyi takdir eder.</br>"
+        "Aciklama": "Erzurum Kongresi 7 Ağustos 1919’da yayımladığı beyanname ile çalışmalarına son verdi. Millî Mücadele için son derece önemli olan bu kongrenin aldığı kararlar şunlardır:<br/>1. Doğu Anadolu ile Trabzon ve Canik (Samsun) Sancağı hiçbir sebep ve bahane ile Osmanlı Devleti’nden ayrılması mümkün olmayan bir bütündür.<br/><strong>2. Her türlü yabancı işgal ve müdahalesine karşı, millet birlik olarak kendisini müdafaa ve mukavemet edecektir.</strong></br><br/>3. Vatanın ve istiklalin korunmasına İstanbul Hükûmeti muktedir olmadığı takdirde, gayeyi temin için Anadolu’da geçici bir hükûmet kurulacaktır.</br><br/>4. Kuvayı Milliye’yi âmil (millî kuvvetleri etkin) ve irade-i milliyeyi (millî iradeyi) hâkim kılmak esastır.</br><br/>5. Hristiyan azınlıklara siyasi hâkimiyet ve sosyal dengemizi bozan imtiyazlar verilemez.</br><br/>6. Manda ve himaye kabul olunmaz.</br><br/>7. Millî bir meclisin derhâl toplanmasına ve hükûmet işlerinin meclisin denetimi altına yürütülmesine çalışılacaktır.</br><br/>8. Milletimiz insani ve medeni gayeleri kabul eder, sanayi ve iktisadi ilerlemeyi takdir eder.</br>"
     },
     {
         "SoruID": 3887396,
-        "SoruMetni": "Milli Mücadele'nin önemli aşamalarından biri olan Heyeti Temsiliye'nin ve  Mustafa Kemal Paşa'nın Ankara'ya gelişi kaç tarihinde gerçekleşmiştir?",
+        "SoruMetni": "Milli Mücadele'nin önemli aşamalarından biri olan Heyeti Temsiliye'nin ve Mustafa Kemal Paşa'nın Ankara'ya gelişi kaç tarihinde gerçekleşmiştir?",
         "A": "22 Ekim 1919",
         "B": "18 Aralık 1919",
         "C": "27 Aralık 1919",
@@ -1037,6 +1137,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mustafa Kemal Paşa Sivas Kongresi'nden sonra yola çıkarak Kayseri-Mucur-Kırşehir yolunu takip ederek <strong>27 Aralık 1919 günü Ankara’ya vardı.</strong><br/> Ankara halkı, Mustafa Kemal Paşa’yı ve Heyeti Temsiliye'yi törenlerle karşıladı. Yapılan törenlerde nutuklar söylenmiş, kurbanlar kesilmiş, millî oyunlar oynanmış, dualar edilmiştir."
+        "Aciklama": "Mustafa Kemal Paşa Sivas Kongresi'nden sonra yola çıkarak Kayseri-Mucur-Kırşehir yolunu takip ederek <strong>27 Aralık 1919 günü Ankara’ya vardı.</strong><br/>Ankara halkı, Mustafa Kemal Paşa’yı ve Heyeti Temsiliye'yi törenlerle karşıladı. Yapılan törenlerde nutuklar söylenmiş, kurbanlar kesilmiş, millî oyunlar oynanmış, dualar edilmiştir."
     }
 ]

@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 3862071,
-        "SoruMetni": "I- İçeriği anlamak<br/> II-Hedef kitleyi belirlemek<br/> III-Görsel ve grafik desteği<br/> IV-Akıcı bir anlatım<br/><br/>Kurum kimliği kataloğu sunumu hazırlarken, yukarıda verilenlerden hangileri yer almalıdır?",
+        "SoruMetni": "I- İçeriği anlamak<br/>II-Hedef kitleyi belirlemek<br/>III-Görsel ve grafik desteği<br/>IV-Akıcı bir anlatım<br/>Kurum kimliği kataloğu sunumu hazırlarken, yukarıda verilenlerden hangileri yer almalıdır?",
         "A": "I-III-IV",
         "B": "I-II-III-IV",
         "C": "I-IV-II",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3862077,
-        "SoruMetni": "I-Hikâyeleştirme<br/>II-Duygusal Bağ Kurma<br/>III-Görsel İşitsel Uyarım<br/>IV-Retorik ve Vurgulama<br/> V-Video<br/> Etkili bir sunum oluşturmak için yukarıda verilenlerden hangileri yer almalıdır?",
+        "SoruMetni": "I-Hikâyeleştirme<br/>II-Duygusal Bağ Kurma<br/>III-Görsel İşitsel Uyarım<br/>IV-Retorik ve Vurgulama<br/>V-Video<br/>Etkili bir sunum oluşturmak için yukarıda verilenlerden hangileri yer almalıdır?",
         "A": "V-IV-III",
         "B": "I-V-III",
         "C": "IV-III-I",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Tasarım sürecinin yalnızca görsel boyutunu vurgulamak, bu işlevlerden biri değildir</span>"
+        "Aciklama": "Doğru yanıt D şıkkıdır<br><span style=\"font-weight: 400;\">Tasarım sürecinin yalnızca görsel boyutunu vurgulamak, bu işlevlerden biri değildir</span>"
     },
     {
         "SoruID": 3862235,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Bir markanın çeşitli kanallardaki mesajlarında kullandığı tutarlı ve ayırt edici ton, stil ve iletişim biçimini ifade eden kavram marka sesidir</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">Bir markanın çeşitli kanallardaki mesajlarında kullandığı tutarlı ve ayırt edici ton, stil ve iletişim biçimini ifade eden kavram marka sesidir</span>"
     },
     {
         "SoruID": 3862236,
@@ -257,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Markanın tekliflerini, değerlerini ve özelliklerini net ve farklı bir şekilde şekillendirerek rakiplerinden ayrıştıran süreci ifade eden kavram marka konumlandırmadır. </span>"
+        "Aciklama": "Doğru yanıt D şıkkıdır<br><span style=\"font-weight: 400;\">Markanın tekliflerini, değerlerini ve özelliklerini net ve farklı bir şekilde şekillendirerek rakiplerinden ayrıştıran süreci ifade eden kavram marka konumlandırmadır. </span>"
     },
     {
         "SoruID": 3862237,
-        "SoruMetni": "<span style=\"font-weight: 400;\">Kurumun ismini, sembolünü veya bunların kombinasyonunu içerebilen, markanın sembolik temsili olan unsur hangisidir? </span>",
+        "SoruMetni": "<span style=\"font-weight: 400;\">Kurumun ismini, sembolünü veya bunların kombinasyonunu içerebilen, markanın sembolik temsili olan unsur hangisidir? </span>",
         "A": "<span style=\"font-weight: 400;\">Katalog</span>",
         "B": "<span>Logo</span>",
         "C": "<span>Dil</span>",
@@ -277,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Kurumun ismini, sembolünü veya bunların kombinasyonunu içerebilen, markanın sembolik temsili olan unsur logodur</span>"
+        "Aciklama": "Doğru yanıt B şıkkıdır<br><span style=\"font-weight: 400;\">Kurumun ismini, sembolünü veya bunların kombinasyonunu içerebilen, markanın sembolik temsili olan unsur logodur</span>"
     },
     {
         "SoruID": 3862238,
-        "SoruMetni": "<span style=\"font-weight: 400;\">Aşağıdakilerden hangisi CMYK modu içerisinde yer alan bir kavram </span><span style=\"font-weight: 400;\">değildir? </span>",
+        "SoruMetni": "<span style=\"font-weight: 400;\">Aşağıdakilerden hangisi CMYK modu içerisinde yer alan bir kavram </span><span style=\"font-weight: 400;\">değildir? </span>",
         "A": "Cyan",
         "B": "Magenta",
         "C": "Blue",
@@ -297,11 +297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Blue, CMYK içerisinde yer almaz"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br>Blue, CMYK içerisinde yer almaz"
     },
     {
         "SoruID": 3862239,
-        "SoruMetni": "<span style=\"font-weight: 400;\">Aşağıdakilerden hangisi kurum kimliği kataloğunda kullanılacak renklerle ilgili dikkat edilmesi gereken unsurlardan biri </span><strong>değildir</strong><span style=\"font-weight: 400;\">? </span>",
+        "SoruMetni": "<span style=\"font-weight: 400;\">Aşağıdakilerden hangisi kurum kimliği kataloğunda kullanılacak renklerle ilgili dikkat edilmesi gereken unsurlardan biri </span><strong>değildir</strong><span style=\"font-weight: 400;\">? </span>",
         "A": "<span style=\"font-weight: 400;\">Renk seçiminde de markanın kişiliği, değerleri ve hedef kitlesi göz önünde bulundurulmalıdır</span>",
         "B": "<span>Renklerin insanların duygusal tepkilerini etkilediği unutulmamalıdır</span>",
         "C": "<span>Hangi renklerin hangi duygusal yanıtları tetiklediğini anlamak gerekir</span>",
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Çok fazla renk kullanmak tasarımı daha karmaşık bir hale getirir.</span>"
+        "Aciklama": "Doğru yanıt E şıkkıdır<br><span style=\"font-weight: 400;\">Çok fazla renk kullanmak tasarımı daha karmaşık bir hale getirir.</span>"
     },
     {
         "SoruID": 3862240,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Renk trendlerine yön veren ve her yıl “Yılın Rengi”ni belirleyerek tasarımcıların ve markaların renk seçimlerini güncel tutmalarına katkıda bulunan renk sistemi Pantone'dir.</span>"
+        "Aciklama": "Doğru yanıt B şıkkıdır<br><span style=\"font-weight: 400;\">Renk trendlerine yön veren ve her yıl “Yılın Rengi”ni belirleyerek tasarımcıların ve markaların renk seçimlerini güncel tutmalarına katkıda bulunan renk sistemi Pantone'dir.</span>"
     },
     {
         "SoruID": 3862241,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Karmaşık veya soyut konuları anlatırken hikâyeler veya anekdotlar kullanarak anlatımı daha çekici, anlaşılır ve etkili hâle getirme yöntemi hikayeleştirmedir</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır.<br><span style=\"font-weight: 400;\">Karmaşık veya soyut konuları anlatırken hikâyeler veya anekdotlar kullanarak anlatımı daha çekici, anlaşılır ve etkili hâle getirme yöntemi hikayeleştirmedir</span>"
     },
     {
         "SoruID": 3862242,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Yapılan tasarımın gerçek dünyaya uygulandığında nasıl görüneceğini, malzeme ile uyumunu ve etkisini kağıt üzerinde görmeye yarayan araç mockup olarak isimlendirilir</span>"
+        "Aciklama": "Doğru yanıt B şıkkıdır<br><span style=\"font-weight: 400;\">Yapılan tasarımın gerçek dünyaya uygulandığında nasıl görüneceğini, malzeme ile uyumunu ve etkisini kağıt üzerinde görmeye yarayan araç mockup olarak isimlendirilir</span>"
     },
     {
         "SoruID": 3862243,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Ürün tasarımının gerçek boyutlu veya ölçekli modellerinin bulunduğu, ürünün şekli, renkleri ve detayları gerçekçi bir şekilde görüntülendiği mockup türü fiziksel ürün mockuplardır. </span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır.<br><span style=\"font-weight: 400;\">Ürün tasarımının gerçek boyutlu veya ölçekli modellerinin bulunduğu, ürünün şekli, renkleri ve detayları gerçekçi bir şekilde görüntülendiği mockup türü fiziksel ürün mockuplardır. </span>"
     }
 ]

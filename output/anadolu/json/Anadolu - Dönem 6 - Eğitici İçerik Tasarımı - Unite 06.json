@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3763644,
-        "SoruMetni": "...................., verili bilgideki açıkları fark etme, farkedilen açık ya da eksik görülen durumlar üzerine çeşitli varsayımlarda bulunma ve varsayımlara yönelik denemelerle sonuca ulaşma olarak tanımlanabilir?<br/><br/>Yukarıdaki boşluğa aşağıdaki kavramlardan hangisi gelmelidir?",
+        "SoruMetni": "...................., verili bilgideki açıkları fark etme, farkedilen açık ya da eksik görülen durumlar üzerine çeşitli varsayımlarda bulunma ve varsayımlara yönelik denemelerle sonuca ulaşma olarak tanımlanabilir?<br/>Yukarıdaki boşluğa aşağıdaki kavramlardan hangisi gelmelidir?",
         "A": "Yaratıcılık",
         "B": "Sanat",
         "C": "Beceri",
@@ -45,7 +45,7 @@
         "A": "hazırlık, kuluçka, fikrin doğması, fikrin geliştirilmesi",
         "B": "kuluçka, hazırlık, fikrin doğması, fikrin geliştirilmesi",
         "C": "fikrin doğması, fikrin geliştirilmesi, kuluçka, hazırlık",
-        "D": "fikrin doğması, kuluçka, hazırlık, fikrin geliştirilmesi",
+        "D": "fikrin doğması, kuluçka, hazırlık, fikrin geliştirilmesi",
         "E": "hazırlık, araştırma, fikrin doğması, fikrin uygulanması",
         "DogruCevap": "A",
         "DersAd": "Eğitici İçerik Tasarımı",
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 3763648,
-        "SoruMetni": "Aşağıdakilerden hangisi yaratıcılığı olumsuz etkileyen öznel engellerdendir?",
+        "SoruMetni": "Aşağıdakilerden hangisi yaratıcılığı olumsuz etkileyen öznel engellerdendir?",
         "A": "Çevre",
         "B": "Medya",
         "C": "Baskı",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3763649,
-        "SoruMetni": "Aşağıdakilerden hangisi yaratıcılığı olumsuz etkileyen örgütsel etkenlerdendir?",
+        "SoruMetni": "Aşağıdakilerden hangisi yaratıcılığı olumsuz etkileyen örgütsel etkenlerdendir?",
         "A": "Özgüven eksikliği",
         "B": "Korku",
         "C": "Kalıp davranışları benimsemek",
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcı düşünmenin cisimleşme süreci yaratıcı edim olarak açıklanabilir."
+        "Aciklama": "Sanat ve tasarım alanında yaratıcı düşünmeden bahsetmek, düşünme süreci, problemin çözümüne yönelik geliştirilen çözüm önerileri vb. şeylerin yanı sıra düşünme ile hareket etme arasındaki bağdan, uygulama sürecinden ve ortaya çıkan eylem ya da ürünün değerlendirilmesinden söz etmeyi de kapsar.<br>Yaratıcı düşünmenin cisimleşme süreci yaratıcı edim olarak açıklanabilir."
     },
     {
         "SoruID": 3763651,
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 3763933,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Belirsizliğe tolerans gösterme</li> <li>Bağımsızlığa düşkün olma</li> <li>Dışa dönül olma</li> <li>Esnek olma </li> </ol> Yukarıdakilerden hangileri yaratıcı bireyin ortak özelliklerindendir?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Belirsizliğe tolerans gösterme</li> <li>Bağımsızlığa düşkün olma</li> <li>Dışa dönül olma</li> <li>Esnek olma </li> </ol> Yukarıdakilerden hangileri yaratıcı bireyin ortak özelliklerindendir?",
         "A": "I, II, III, IV",
         "B": "I-III-IV",
         "C": "I-II-III",
@@ -217,11 +217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I-II-IV"
+        "Aciklama": "Yaratıcı bireylerin ortak özellikleri: Beklenmeyene, yeni olana açık olma, belirsizliğe tolerans gösterme, deneyime ve risk almaya gönüllü olma, meraklı olma, karmaşık işlere ilgi duyma, esnek olma, bağımsızlığa düşkün ve içe dönük olma, sorgulayıcı olma, gelişmiş bir mizah anlayışına sahip olma, güçlü bir duygusal farkındalığı olma.<br>I-II-IV"
     },
     {
         "SoruID": 3763934,
-        "SoruMetni": "Aşağıdakilerden hangisi yaratıcılık kavramının açıklanmasında kullanılan ifadelerden biri <strong>değildir</strong>? <br/> Yaratıcılık, tutum, süreç, ürün, beceri, kişilik özelliklerinin<br/>birleşimi ve bununla birlikte çevresel koşulların bir<br/>sonucu olarak açıklanabilir",
+        "SoruMetni": "Aşağıdakilerden hangisi yaratıcılık kavramının açıklanmasında kullanılan ifadelerden biri <strong>değildir</strong>? <br/>Yaratıcılık, tutum, süreç, ürün, beceri, kişilik özelliklerinin<br/>birleşimi ve bununla birlikte çevresel koşulların bir<br/>sonucu olarak açıklanabilir",
         "A": "Beceri",
         "B": "Tutum",
         "C": "Süreç",
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cinsiyet"
+        "Aciklama": "Yaratıcılık, tutum, süreç, ürün, beceri, kişilik özelliklerinin birleşimi ve bununla birlikte çevresel koşulların bir sonucu olarak açıklanabilir<br>Cinsiyet"
     },
     {
         "SoruID": 3763935,
-        "SoruMetni": "Aşağıdakilerden hangisi Hermann’ın Yaratıcı Sorun Çözme Model'indeki  değişik zihinsel düşünme becerisiyle ilişki olan becerilerden dedektif meslek grubu ile ilgili bir özelliktir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Hermann’ın Yaratıcı Sorun Çözme Model'indeki değişik zihinsel düşünme becerisiyle ilişki olan becerilerden dedektif meslek grubu ile ilgili bir özelliktir?",
         "A": "Problemi bütün yönleriyle ele alma",
         "B": "Doğru fikri seçme",
         "C": "Alternatif bakış açıları üretme",
@@ -257,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Problemi bütün yönleriyle ele alma"
+        "Aciklama": "Hermann’ın Yaratıcı Sorun Çözme Modeli ise altı değişik zihinsel düşünme becerisiyle ilişki olduğundan bu becerileri mühendis, yargıç, kaşif, dedektif, sanatçı ve prodüktör olmak üzere altı meslek grubunu temsil eder. Dedektif, problemi bütün yönleriyle ele alma sürecini temsil eder."
     },
     {
         "SoruID": 3763936,
-        "SoruMetni": "Aşağıdakilerden hangisi yaratıcılığı olumsuz etkileyen örgütsel etkenlerden biridir?",
+        "SoruMetni": "Aşağıdakilerden hangisi yaratıcılığı olumsuz etkileyen örgütsel etkenlerden biridir?",
         "A": "Kararsızlık",
         "B": "Güvensizlik",
         "C": "Alışkanlıklar",
@@ -277,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Güvensizlik"
+        "Aciklama": "Yaratıcılığı olumsuz etkileyen örgütsel etkenlerden biri güvensizliktir."
     },
     {
         "SoruID": 3763937,
-        "SoruMetni": "Aşağıdakilerden hangisi yaratıcı düşünme sürecininde, bir çağrışım, bilinçli ya da bilinçaltında konuyu düşünürken ortaya çıkan bir uyarı veya fikrin doğmasını sağlayan aydınlanma aşamasıdır? <br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi yaratıcı düşünme sürecininde, bir çağrışım, bilinçli ya da bilinçaltında konuyu düşünürken ortaya çıkan bir uyarı veya fikrin doğmasını sağlayan aydınlanma aşamasıdır?",
         "A": "Fikrin geliştirilmesi evresi",
         "B": "Gerçekleşme evresi",
         "C": "Kuluçka evresi",
@@ -297,11 +297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kuluçka evresi"
+        "Aciklama": "Kuluçka evresi çoğunlukla hayatın rutini içinde bir zorunluluk olarak ortaya çıkar. Bu evredeki herhangi bir çağrışım, bilinçli ya da bilinçaltında konuyu düşünürken ortaya çıkan bir uyarı, fikrin doğmasını sağlar. Bu nedenle fikrin doğması aşaması bazı kaynaklarda aydınlanma olarak da adlandırılır ve çoğunlukla aniden gerçekleşir."
     },
     {
         "SoruID": 3763938,
-        "SoruMetni": "Aşağıdakilerden hangisi duyuşsal ve görsel izlenim öğeleriyle düşünme ve uygulama sürecidir?",
+        "SoruMetni": "Aşağıdakilerden hangisi duyuşsal ve görsel izlenim öğeleriyle düşünme ve uygulama sürecidir?",
         "A": "Tutum",
         "B": "Metafor",
         "C": "Mecaz",
@@ -317,11 +317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcı edim"
+        "Aciklama": "Yaratıcı edim, başka bir deyişle sanatsal ifade, duyuşsal ve görsel izlenim öğeleriyle düşünme ve uygulama sürecidir."
     },
     {
         "SoruID": 3763939,
-        "SoruMetni": "Aşağıdakilerden hangisi yaratıcı içerik geliştirme yöntemlerinden sinektik yöntemin adımlarından biri <strong>değildir</strong>?",
+        "SoruMetni": "Aşağıdakilerden hangisi yaratıcı içerik geliştirme yöntemlerinden sinektik yöntemin adımlarından biri <strong>değildir</strong>?",
         "A": "Sorunu Parçalara Ayırma",
         "B": "Farklı Bakış Açılarını İnceleme",
         "C": "Elde Edilen Düş leri Değerlendirme",
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Farklı Bakış Açılarını İnceleme"
+        "Aciklama": "Sinektik yöntemde adımlar: Sorun Tanımlama, Sorunu Parçalara Ayırma, Elde Edilen Düşünceleri<br/>Değerlendirme, Soruna İlişkin Bilgi Edinme, Eğer, Gibi Sözcüklerini Kullanarak Düşünme/Cümle Kurma, Alternati\u001beri Seçip<br/>Görselleştirme<br>Farklı Bakış Açılarını İnceleme"
     },
     {
         "SoruID": 3763940,
@@ -357,11 +357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğrudan Analoji Tekniği"
+        "Aciklama": "Doğrudan anoloji, karşılaştırma yapmaya ve benzeşime dayanır. Benzerlikleri kurmak için hayvanlar, bitkiler vb. gibi çoğunlukla doğal anolojilere başvurulur. Elma kurdunun açtığı oyuk ile yer altı tünellerinin benzerliği gibi, hayvanların kendilerini koruma yöntemleri ya da fiziksel özellikleri pek çok yaratıcı tasarıma kaynaklık etmiştir<br>Doğrudan Analoji Tekniği"
     },
     {
         "SoruID": 3763941,
-        "SoruMetni": "Aşağıdakilerden hangisi biçim, içerik ve öznenin birbirinden ayrılmaz bir şekilde etkileşim ile canlı bir organizma gibi etkili, başarılı bir şekilde bir araya gelmesini ifade eder?",
+        "SoruMetni": "Aşağıdakilerden hangisi biçim, içerik ve öznenin birbirinden ayrılmaz bir şekilde etkileşim ile canlı bir organizma gibi etkili, başarılı bir şekilde bir araya gelmesini ifade eder?",
         "A": "Organik birlik",
         "B": "Yaratıcı edim",
         "C": "Yaratıcı düşünme",
@@ -377,11 +377,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Organik birlik"
+        "Aciklama": "Biçim, içerik ve öznenin birbirinden ayrılmaz bir şekilde etkileşim ile canlı bir organizma gibi etkili, başarılı bir şekilde bir araya gelmesine organik birlik denir."
     },
     {
         "SoruID": 3763942,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Sentetik Düşünme</li> <li>Eleştirel Düşünme</li> <li>Analitik Düşünme</li> <li>Çağrışımsal Düşünme</li> <li>Simgesel Düşünme</li> </ol> Yukarıdakilerden hangileri yaratıcı düşünme sürecinin düşünme yetileridir?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Sentetik Düşünme</li> <li>Eleştirel Düşünme</li> <li>Analitik Düşünme</li> <li>Çağrışımsal Düşünme</li> <li>Simgesel Düşünme</li> </ol> Yukarıdakilerden hangileri yaratıcı düşünme sürecinin düşünme yetileridir?",
         "A": "I, III, IV, V",
         "B": "I, II, III",
         "C": "I, II, III, IV",
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I, II, III, IV"
+        "Aciklama": "Yaratıcı düşünme süreci çeşitli düşünme yetilerinin bir bütünü olarak değerlendirilebilir: Eleştirel Düşünme, Analitik Düşünme, Janusyan Düşünme, Sentetik Düşünme, Çağrışımsal Düşünme, Iraksak-yakınsak, İmgesel Düşünme.<br>I, II, III, IV"
     }
 ]

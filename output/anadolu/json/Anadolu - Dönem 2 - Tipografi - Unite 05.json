@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3769748,
-        "SoruMetni": "Tipografi ile ilgili olarak aşağıdaki ifadelerden hangileri doğrudur?<br/> I Görsel ve işitsel iletişim sürecinde bir iletişim aracı olarak bilgi alışverişini sağlayan grafik tasarımın tamamlayıcı ögesidir.<br/> II Tipografinin birincil işlevi görünürlüğün sağlanmasıdır.<br/> III Yazıyla ilgilenen ve yazının okunurluğunu arttırmaya yönelik araştırmalar yapan bir disiplindir.<br/> IV Belirlenmiş bir sayfa üzerinde yer alan harf, sözcük, satır ve boşluklama için gerekli olan diğer elemanlar ile oluşturulan işlevsel ve görsel düzenlemelerdir.<br/> V Tipografi, diğer görsel elemanlar ile birlik ve uyum içerisinde olmalıdır.",
+        "SoruMetni": "Tipografi ile ilgili olarak aşağıdaki ifadelerden hangileri doğrudur?<br/>I Görsel ve işitsel iletişim sürecinde bir iletişim aracı olarak bilgi alışverişini sağlayan grafik tasarımın tamamlayıcı ögesidir.<br/>II Tipografinin birincil işlevi görünürlüğün sağlanmasıdır.<br/>III Yazıyla ilgilenen ve yazının okunurluğunu arttırmaya yönelik araştırmalar yapan bir disiplindir.<br/>IV Belirlenmiş bir sayfa üzerinde yer alan harf, sözcük, satır ve boşluklama için gerekli olan diğer elemanlar ile oluşturulan işlevsel ve görsel düzenlemelerdir.<br/>V Tipografi, diğer görsel elemanlar ile birlik ve uyum içerisinde olmalıdır.",
         "A": "III-IV-V",
         "B": "I-II",
         "C": "I-III-V",
@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "III Yazıyla ilgilenen ve yazının okunurluğunu arttırmaya yönelik araştırmalar yapan bir disiplindir.<br/> IV Belirlenmiş bir sayfa üzerinde yer alan harf, sözcük, satır ve boşluklama için gerekli olan diğer elemanlar ile oluşturulan işlevsel ve görsel düzenlemelerdir.<br/> V Tipografi, diğer görsel elemanlar ile birlik ve uyum içerisinde olmalıdır."
+        "Aciklama": "Giriş<br>III Yazıyla ilgilenen ve yazının okunurluğunu arttırmaya yönelik araştırmalar yapan bir disiplindir.<br/>IV Belirlenmiş bir sayfa üzerinde yer alan harf, sözcük, satır ve boşluklama için gerekli olan diğer elemanlar ile oluşturulan işlevsel ve görsel düzenlemelerdir.<br/>V Tipografi, diğer görsel elemanlar ile birlik ve uyum içerisinde olmalıdır."
     },
     {
         "SoruID": 3769762,
-        "SoruMetni": "Tipografik tasarıma aşağıdaki hangi öğelerin uyum içerisinde olması ve işlevsel biçimde düzenlenmesi ile tasarım ilkeleri sağlanabilir?<br/> I Harfler<br/> II Sözcükler<br/> III Paragraflar<br/> IV Sesler<br/> V Parçalar",
+        "SoruMetni": "Tipografik tasarıma aşağıdaki hangi öğelerin uyum içerisinde olması ve işlevsel biçimde düzenlenmesi ile tasarım ilkeleri sağlanabilir?<br/>I Harfler<br/>II Sözcükler<br/>III Paragraflar<br/>IV Sesler<br/>V Parçalar",
         "A": "I-II-III",
         "B": "IV-V",
         "C": "I-III-V",
@@ -37,7 +37,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipografik tasarımlarda harflerin, sözcüklerin, paragrafların ya da sütunların birbirleri ile ve tasarımda yer alan diğer öğeler ile uyum içerisinde olması, işlevsel bir biçimde düzenlenmesi tasarım ilkeleri ile sağlanabilir."
+        "Aciklama": "TASARIM İLKELERİ VE TİPOGRAFİ<br>Tipografik tasarımlarda harflerin, sözcüklerin, paragrafların ya da sütunların birbirleri ile ve tasarımda yer alan diğer öğeler ile uyum içerisinde olması, işlevsel bir biçimde düzenlenmesi tasarım ilkeleri ile sağlanabilir."
+    },
+    {
+        "SoruID": 3769763,
+        "SoruMetni": "\"Fiziksel anlamda iki varlığın eşitlik durumu olarak tanımlanan ................., görsel tasarım bağlamında tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesidir.\" ifadesinde boş bırakılan yere hangisi gelmelidir?",
+        "A": "denge",
+        "B": "paragraf",
+        "C": "kompozisyon",
+        "D": "görsel ağırlık",
+        "E": "düzenleme",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.126894",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fiziksel anlamda iki varlığın eşitlik durumu olarak tanımlanan denge, görsel tasarım bağlamında tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesidir."
     },
     {
         "SoruID": 3769764,
@@ -121,7 +141,7 @@
     },
     {
         "SoruID": 3769768,
-        "SoruMetni": "Hangi nedenlerle tasarımda tamamlama ilkesine başvurulur?<br/> I Vurgu noktası oluşturmak<br/> II karmaşıklığı azaltmak<br/> III Görsel ilgiyi arttırmak<br/> IV Stili vurgulamak<br/> V Boş alan yaratmak",
+        "SoruMetni": "Hangi nedenlerle tasarımda tamamlama ilkesine başvurulur?<br/>I Vurgu noktası oluşturmak<br/>II karmaşıklığı azaltmak<br/>III Görsel ilgiyi arttırmak<br/>IV Stili vurgulamak<br/>V Boş alan yaratmak",
         "A": "I-II-III",
         "B": "IV-V",
         "C": "I-III-V",
@@ -137,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çoğunlukla görsel ilgiyi arttırmak, vurgu noktası oluşturmak, karmaşıklığı azaltmak ya da tasarımı sadeleştirmek amacıyla tamamlama ilkesine başvurulur."
+        "Aciklama": "Tamamlama İlkesi<br>Çoğunlukla görsel ilgiyi arttırmak, vurgu noktası oluşturmak, karmaşıklığı azaltmak ya da tasarımı sadeleştirmek amacıyla tamamlama ilkesine başvurulur."
     },
     {
         "SoruID": 3769769,
-        "SoruMetni": "Hangileri Gestalt ilkelerindendir?<br/> I Süreklilik<br/> II Yakınlık<br/> III Tamamlama<br/> IV Mesafe<br/> V Akışkanlık",
+        "SoruMetni": "Hangileri Gestalt ilkelerindendir?<br/>I Süreklilik<br/>II Yakınlık<br/>III Tamamlama<br/>IV Mesafe<br/>V Akışkanlık",
         "A": "I-II-III",
         "B": "IV-V",
         "C": "III-IV",
@@ -157,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I Süreklilik<br/> II Yakınlık<br/> III Tamamlama"
+        "Aciklama": "GESTALT İLKELERİ VE TİPOGRAFİ<br>I Süreklilik<br/>II Yakınlık<br/>III Tamamlama"
     },
     {
         "SoruID": 3769770,
@@ -177,11 +197,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Herhangi bir kompozisyonda yer alan tasarım öğelerinden, odak noktasını oluşturan görsel eleman(lar) “şekil” olarak algılanırken, geri kalan arka plan ya da kompozisyon alanının geri kalanı “zemin” olarak algılanır."
+        "Aciklama": "Şekil-Zemin İlkesi<br>Herhangi bir kompozisyonda yer alan tasarım öğelerinden, odak noktasını oluşturan görsel eleman(lar) “şekil” olarak algılanırken, geri kalan arka plan ya da kompozisyon alanının geri kalanı “zemin” olarak algılanır."
     },
     {
         "SoruID": 3769871,
-        "SoruMetni": "I. Denge, II. Görsel hiyerarşi, III. Ritim, IV. Oran-orantı, V. Bütünlük<br/> Yukarıdaki maddelerden hangileri tipografi  tasarımında görsel etkiyi arttıracak faktörlerdendir?",
+        "SoruMetni": "I. Denge, II. Görsel hiyerarşi, III. Ritim, IV. Oran-orantı, V. Bütünlük<br/>Yukarıdaki maddelerden hangileri tipografi tasarımında görsel etkiyi arttıracak faktörlerdendir?",
         "A": "I, II",
         "B": "I, III",
         "C": "II, III, V",
@@ -197,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Soru cümlesindeki tüm maddeler doğrudur. Doğru yanıt e seçeneğidir."
+        "Aciklama": "TASARIM İLKELERİ VE TİPOGRAFİ<br>Soru cümlesindeki tüm maddeler doğrudur. Doğru yanıt e seçeneğidir."
     },
     {
         "SoruID": 3769880,
@@ -277,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt e seçeneğidir."
+        "Aciklama": "GESTALT İLKELERİ VE TİPOGRAFİ<br>Doğru yanıt e seçeneğidir."
     },
     {
         "SoruID": 3769886,
@@ -297,7 +317,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zemin, bir nesneyi veya kompozisyon öğesini çevreleyen alan için kullanılır. Doğru yanıt b seçeneğidir."
+        "Aciklama": "Şekil-Zemin İlkesi<br>Zemin, bir nesneyi veya kompozisyon öğesini çevreleyen alan için kullanılır. Doğru yanıt b seçeneğidir."
+    },
+    {
+        "SoruID": 3769889,
+        "SoruMetni": "Görsel ilgiyi arttırmak, vurgu noktası oluşturmak, karmaşıklığı azaltmak ya da tasarımı sadeleştirmek amacıyla yapılan tasarımlar gestalt ilkelerinden hangisiyle açıklanır?",
+        "A": "Benzerlik İlkesi",
+        "B": "Devamlılık İlkesi",
+        "C": "Tamamlama İlkesi",
+        "D": "Yakınlık İlkesi",
+        "E": "Şekil-Zemin İlkesi",
+        "DogruCevap": "C",
+        "DersAd": "Tipografi",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.171993",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Tamamlama İlkesi<br>Çoğunlukla görsel ilgiyi arttırmak, vurgu noktası oluşturmak, karmaşıklığı azaltmak ya da tasarımı sadeleştirmek amacıyla tamamlama ilkesine başvurulur. Doğru yanıt c seçeneğidir."
     },
     {
         "SoruID": 3769890,
@@ -317,7 +357,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt d seçeneğidir."
+        "Aciklama": "Oran-Orantı<br>Doğru yanıt d seçeneğidir."
+    },
+    {
+        "SoruID": 3769892,
+        "SoruMetni": "Aşağıdaki seçeneklerden hangisi tipografik düzenlemelerde görsel ağırlığı belirleyen faktörlerden değildir?",
+        "A": "Şekil",
+        "B": "Renk",
+        "C": "Doku",
+        "D": "Işık",
+        "E": "Büyük-küçük ilişkisi",
+        "DogruCevap": "D",
+        "DersAd": "Tipografi",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.069802",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "TASARIM İLKELERİ VE TİPOGRAFİ<br>Tipografik düzenlemelerde de şekil, renk, doku, büyük-küçük ilişkisi, konumlandırma ve düzenleme görsel ağırlığı belirleyen faktörlerdir.<br/>Doğru yanıt d seçeneğidir."
     },
     {
         "SoruID": 3769894,
@@ -357,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çoğunlukla simetrik bir yapıya sahiptir"
+        "Aciklama": "Tasarım İlkeleri ve Tipografi - Denge<br>Çoğunlukla simetrik bir yapıya sahiptir"
     },
     {
         "SoruID": 3769912,
@@ -377,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tasarımda yer alan fotoğraf, illüstrasyon, metin gibi görsel elemanları vurgulanmak istenen mesaja göre ölçülendirerek düzenleme yapılmasıdır"
+        "Aciklama": "Tasarım İlkeleri ve Tipografi - Görsel Hiyerarşi<br>Tasarımda yer alan fotoğraf, illüstrasyon, metin gibi görsel elemanları vurgulanmak istenen mesaja göre ölçülendirerek düzenleme yapılmasıdır"
     },
     {
         "SoruID": 3769913,
@@ -397,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ön plana çıkması istenen baskın öğe ile ikinci planda kalması istenen öğeler arasında gerçekleştirilen zıtlıklarla sağlanabilir"
+        "Aciklama": "Tasarım İlkeleri ve Tipografi - Vurgu<br>Ön plana çıkması istenen baskın öğe ile ikinci planda kalması istenen öğeler arasında gerçekleştirilen zıtlıklarla sağlanabilir"
     },
     {
         "SoruID": 3769914,
@@ -417,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dikkat çekmesidir"
+        "Aciklama": "Tasarım İlkeleri ve Tipografi - Ritm<br>Dikkat çekmesidir"
     },
     {
         "SoruID": 3769915,
@@ -437,7 +497,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Birbiri ile uyumlu yazı karakterlerinin seçimi, hizalama, hareket ve yön birlikteliğinin sağlanması, gibi farklı yöntemlerle oluşturulabilir"
+        "Aciklama": "Tasarım İlkeleri ve Tipografi - Bütünlük<br>Birbiri ile uyumlu yazı karakterlerinin seçimi, hizalama, hareket ve yön birlikteliğinin sağlanması, gibi farklı yöntemlerle oluşturulabilir"
+    },
+    {
+        "SoruID": 3769916,
+        "SoruMetni": "Oluşturulan tasarımlarda izleyicinin ilk olarak büyük olan parçayı algılaması, daha sonra küçük olan parçaları algılayarak parça-bütün ilişkisini kurması gestalt ilkelerinden hangisidir?",
+        "A": "Benzerlik İlkesi",
+        "B": "Tamamlama İlkesi",
+        "C": "Şekil-Zemin İlkesi",
+        "D": "Devamlılık İlkesi",
+        "E": "Yakınlık İlkesi",
+        "DogruCevap": "E",
+        "DersAd": "Tipografi",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.191948",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Gestalt İlkeleri ve Tipografi- Yakınlık İlkesi"
     },
     {
         "SoruID": 3769917,
@@ -457,7 +537,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zıtlıkların kullanımı"
+        "Aciklama": "Gestalt İlkeleri ve Tipografi- Şekil-Zemin ilkesi<br>Zıtlıkların kullanımı"
+    },
+    {
+        "SoruID": 3769918,
+        "SoruMetni": "Tasarım uygulamalarında, Gestalt İlkelerinin en önemli özelliği aşağıdaki seçeneklerden hangisidir?",
+        "A": "Tasarımı sadeleştirmek amacıyla tamamlama ilkesi kullanılır",
+        "B": "Genel yapıları benzerlik gösteren, ortak özelliklere sahip görsel elemanlar algısal bir grup oluşturmasıdır",
+        "C": "Bir tasarımda yalnızca bir ilke değil, birden fazla ilke bir arada yer alabilir",
+        "D": "Yazı karakteri tasarımlarında da tamamlama ilkesi kullanılabilir",
+        "E": "Yakınlık ilkesi doğrultusunda oluşturulan tasarımlarda izleyicinin ilk olarak büyük olan parçayı algılamasıdır",
+        "DogruCevap": "C",
+        "DersAd": "Tipografi",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.029192",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Gestalt İlkeleri ve Tipografi<br>Bir tasarımda yalnızca bir ilke değil, birden fazla ilke bir arada yer alabilir"
     },
     {
         "SoruID": 3769919,
@@ -497,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Odak noktasını oluşturur"
+        "Aciklama": "Devamlılık İlkesi<br>Odak noktasını oluşturur"
     },
     {
         "SoruID": 3770041,
@@ -517,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "A seçeneği doğru yanıttır."
+        "Aciklama": "TASARIM İLKELERİ VE TİPOGRAFİ<br>A seçeneği doğru yanıttır."
     },
     {
         "SoruID": 3770042,
@@ -537,7 +637,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "görsel tasarım bağlamında tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesidir. Doğru yanıt b seçeneğidir."
+        "Aciklama": "Denge<br>görsel tasarım bağlamında tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesidir. Doğru yanıt b seçeneğidir."
+    },
+    {
+        "SoruID": 3770043,
+        "SoruMetni": "Aşağıdakilerden hangisi görsel tasarımda tipografik düzenlemelerde görsel ağırlığı belirleyen faktörlerden değildir?",
+        "A": "Şekil",
+        "B": "Renk",
+        "C": "Doku",
+        "D": "Ritim",
+        "E": "Büyük küçük ilişkisi",
+        "DogruCevap": "D",
+        "DersAd": "Tipografi",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.209636",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "TASARIM İLKELERİ VE TİPOGRAFİ<br>Doğru yanıt d seçeneğidir."
     },
     {
         "SoruID": 3770044,
@@ -561,7 +681,7 @@
     },
     {
         "SoruID": 3770045,
-        "SoruMetni": "I. Bilgilerin önem sırasının belirlenmesi<br/>II. En önemli bilgilerin odak noktası haline getirilmesi<br/>III. Metin hizalamalarına ve sütun genişliklerine dikkat edilmesi<br/>IV. Tipografik hiyerarşiyi desteklemeye yardımcı olması için rengin bir araç olarak kullanılması<br/>V. Kenar boşluklarının ve beyaz alanların vurgu oluşturmak için kullanılması<br/> Etkili bir tipografik hiyerarşi için yukarıdaki maddelerden hangilerine dikkat edilmelidir?<br/><br/>",
+        "SoruMetni": "I. Bilgilerin önem sırasının belirlenmesi<br/>II. En önemli bilgilerin odak noktası haline getirilmesi<br/>III. Metin hizalamalarına ve sütun genişliklerine dikkat edilmesi<br/>IV. Tipografik hiyerarşiyi desteklemeye yardımcı olması için rengin bir araç olarak kullanılması<br/>V. Kenar boşluklarının ve beyaz alanların vurgu oluşturmak için kullanılması<br/>Etkili bir tipografik hiyerarşi için yukarıdaki maddelerden hangilerine dikkat edilmelidir?",
         "A": "I, II",
         "B": "I, III",
         "C": "II, IV, V",
@@ -577,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Soruda yer alan tüm maddeler doğrudur. Doğru yanıt e seçeneğidir."
+        "Aciklama": "Görsel Hiyerarşi<br>Soruda yer alan tüm maddeler doğrudur. Doğru yanıt e seçeneğidir."
     },
     {
         "SoruID": 3770046,
@@ -637,16 +757,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt c seçeneğidir."
+        "Aciklama": "GESTALT İLKELERİ VE TİPOGRAFİ<br>Doğru yanıt c seçeneğidir."
     },
     {
         "SoruID": 3770049,
-        "SoruMetni": "Ayrı parçalardan oluşan ya da dış hatları tamamen tamamlanmayan görsel elemanların bir bütün olarak algılanması gestalt ilkelerinden hangisi ile açıklanır?",
+        "SoruMetni": "Ayrı parçalardan oluşan ya da dış hatları tamamen tamamlanmayan görsel elemanların bir bütün olarak algılanması gestalt ilkelerinden hangisi ile açıklanır?",
         "A": "Yakınlık İlkesi",
-        "B": "Benzerlik İlkesi",
-        "C": "Şekil-zemin İlkesi",
-        "D": "Tamamlama İlkesi",
-        "E": "Süreklilik İlkesi",
+        "B": "Benzerlik İlkesi",
+        "C": "Şekil-zemin İlkesi",
+        "D": "Tamamlama İlkesi",
+        "E": "Süreklilik İlkesi",
         "DogruCevap": "D",
         "DersAd": "Tipografi",
         "Unite": 5,
@@ -677,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt altın oran, e seçeneğidir."
+        "Aciklama": "Oran-orantı<br>Doğru yanıt altın oran, e seçeneğidir."
     },
     {
         "SoruID": 3770051,
@@ -821,7 +941,7 @@
     },
     {
         "SoruID": 3770058,
-        "SoruMetni": "<img alt=\"\" height=\"199\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/c061b8a8e5fbb80a6a75f9b5a0fd8bc2.png\" width=\"399\"/><br/> Şekildeki kapak tasarımları hangi gestalt ilkesi kullanılarak oluşturulmuştur?",
+        "SoruMetni": "<img alt=\"\" height=\"199\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/c061b8a8e5fbb80a6a75f9b5a0fd8bc2.png\" width=\"399\"/><br/>Şekildeki kapak tasarımları hangi gestalt ilkesi kullanılarak oluşturulmuştur?",
         "A": "Denge",
         "B": "Vurgu",
         "C": "Ritim",
@@ -861,7 +981,7 @@
     },
     {
         "SoruID": 3770060,
-        "SoruMetni": "<img alt=\"\" height=\"175\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/d387beecb8370942e32d6dfdfd7a1c6f.png\" width=\"476\"/><br/> Şekildeki nokta, çizgi ve şekil gibi temel tasarım öğeleri ile yalnızca siyah ve beyaz kullanılarak, Albert Camus için John Gall tarafından hazırlanan kitap kapakları hangi Gestalt ilkesini örnekler?",
+        "SoruMetni": "<img alt=\"\" height=\"175\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/d387beecb8370942e32d6dfdfd7a1c6f.png\" width=\"476\"/><br/>Şekildeki nokta, çizgi ve şekil gibi temel tasarım öğeleri ile yalnızca siyah ve beyaz kullanılarak, Albert Camus için John Gall tarafından hazırlanan kitap kapakları hangi Gestalt ilkesini örnekler?",
         "A": "Yakınlık İlkesi",
         "B": "Benzerlik İlkesi",
         "C": "Tamamlama İlkesi",
@@ -918,6 +1038,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Fiziksel anlamda iki varlığın eşitlik durumu olarak tanımlanan <span style=\"text-decoration: underline;\"><strong>denge,</strong></span> görsel tasarım bağlamında tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesidir."
+    },
+    {
+        "SoruID": 3770063,
+        "SoruMetni": "Aşağıdakilerden hangisi görsel ağırlığı belirleyen faktörler arasında <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span>",
+        "A": "Biçim",
+        "B": "Renk",
+        "C": "Sayfa sayısı",
+        "D": "Doku",
+        "E": "Büyük-küçük ilişkisi",
+        "DogruCevap": "C",
+        "DersAd": "Tipografi",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.046316",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Görsel tasarımda “ağırlık”, gerçek veya fiziksel bir yerçekimi kuvveti olarak değil, “görsel ağırlık” olarak tanımlanır. Diğer görsel tasarım elemanlarında olduğu gibi tipografik düzenlemelerde de <span style=\"text-decoration: underline;\"><strong>şekil, renk, doku, büyük-küçük ilişkisi, konumlandırma</strong></span> ve <span style=\"text-decoration: underline;\"><strong>düzenleme</strong></span> görsel ağırlığı belirleyen faktörlerdir."
     },
     {
         "SoruID": 3770064,
@@ -1021,7 +1161,7 @@
     },
     {
         "SoruID": 3770069,
-        "SoruMetni": "\"<span style=\"text-decoration: underline;\"><strong>...</strong> </span>  ilkesi doğrultusunda oluşturulan tasarımlarda izleyici ilk olarak büyük olan parçayı algılar, daha sonra küçük olan parçaları algılayarak parça-bütün ilişkisini kurar ve tasarımın bütüncül anlamına ulaşır\" tanımında sözü edilen Gestalt ilkesi aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"<span style=\"text-decoration: underline;\"><strong>...</strong> </span> ilkesi doğrultusunda oluşturulan tasarımlarda izleyici ilk olarak büyük olan parçayı algılar, daha sonra küçük olan parçaları algılayarak parça-bütün ilişkisini kurar ve tasarımın bütüncül anlamına ulaşır\" tanımında sözü edilen Gestalt ilkesi aşağıdakilerden hangisidir?",
         "A": "Benzerlik",
         "B": "Yakınlık",
         "C": "Tamamlama",
@@ -1040,8 +1180,28 @@
         "Aciklama": "<span style=\"text-decoration: underline;\"><strong>Yakınlık</strong> </span>ilkesi doğrultusunda oluşturulan tasarımlarda izleyici ilk olarak büyük olan parçayı algılar, daha sonra küçük olan parçaları algılayarak parça-bütün ilişkisini kurar ve tasarımın bütüncül anlamına ulaşır."
     },
     {
+        "SoruID": 3770070,
+        "SoruMetni": "Tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesine dayalı tasarım ilkesi aşağıdakilerden hangisidir?",
+        "A": "Denge",
+        "B": "Görsel Hiyerarşi",
+        "C": "Vurgu",
+        "D": "Ritim",
+        "E": "Bütünlük",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.053740",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fiziksel anlamda iki varlığın eşitlik durumu olarak tanımlanan denge, görsel tasarım bağlamında<br/>tasarım yüzeyi üzerinde yer alan elemanların görsel ağırlıklarının orantılı ve uyumlu bir biçimde düzenlenmesidir. Bir kompozisyonda denge, kimi zaman eşdeğer ve benzer öğeler ile kimi zaman ise farklı görsel özelliklere sahip, birbirine benzemeyen öğelerin düzenlenmesiyle sağlanabilir (Poulin, 2011)."
+    },
+    {
         "SoruID": 3770071,
-        "SoruMetni": "Aşağıdakilerden hangisi Gestalt <strong>şekil-zemin </strong>ilkesini doğru biçimde tanımlamaktadır?",
+        "SoruMetni": "Aşağıdakilerden hangisi Gestalt <strong>şekil-zemin </strong>ilkesini doğru biçimde tanımlamaktadır?",
         "A": "Bilişsel sistemimiz açık figürleri, kapalı figürler olarak algılama eğilimindedir. Bu nedenle ayrı parçalardan oluşan ya da dış hatları tamamen tamamlanmayan görsel elemanlar, bir bütün olarak algılanabilir. Kimi zaman boş bir alan bile bir nesne olarak algılanabilir.",
         "B": "Bilişsel sistemimiz görsel bir alanı, ön plan ve arka plan olmak üzere ikiye ayırır. Şekil olarak algılanan ön plan, tasarım yüzeyi üzerinde birincil olarak dikkatimizi çeken görsel eleman(lar)dır. Zemin olarak algılanan arka plan ise, ikincil olarak dikkatimizi çeken diğer unsur(lar)dır.",
         "C": "Görsel ele- manları gruplama, organize etme eğiliminde olan bilişsel sistemimiz, sürekliliği olan biçimleri bir bütün olarak algılar. Birbiri ile bağlantısı olmayan görsel elemanlar, birbiri ile bağlantılı görsel elemanlara göre daha karmaşıktır ve zor algılanırlar.",
@@ -1077,7 +1237,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel hiyerarşi"
+        "Aciklama": "Bir tasarımcının en önemli görevlerinden birisi, mesajın izleyici tarafından doğru anlaşılmasını sağlamaktır. Bu nedenle her tasarımcı, tasarımda yer alan fotoğraf, illüstrasyon, metin gibi görsel elemanları vurgulanmak istenen mesaja göre ölçülendirerek görsel hiyerarşiyi sağlamalıdır. Tasarım yüzeyi üzerinde yer alan görsel elemanların birbirlerinin algılanmasını engellemeden, belirli bir sıraya göre düzenlenmesi, mesajın izleyiciye ulaşma başarısını olumlu yönde etkileyecektir. Bu nedenle tasarımda yer alan öğeler, birincil, ikincil, üçüncül ve giderek azalan üstünlük derecesine göre sınıflandırılmalıdır (Turgut, 2013)."
+    },
+    {
+        "SoruID": 3770073,
+        "SoruMetni": "Tasarımın ana metni olan ve genellikle tasarımdaki en küçük türlerden biri olan ancak tüm potansiyel kullanıcılar tarafından tamamen okunabilecek kadar büyük olması gereken tipografik düzey aşağıdakilerden hangisidir?",
+        "A": "Üçüncül düzey",
+        "B": "Diğer düzeyler",
+        "C": "Birincil düzey",
+        "D": "İkincil düzey",
+        "E": "Alt bilgiler düzeyi",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.055866",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Üçüncü düzey ise, tasarımın ana metnidir. Genellikle tasarımdaki en küçük türlerden biridir,<br/>ancak tüm potansiyel kullanıcılar tarafından tamamen okunabilecek kadar büyük olması gerekir.<br/>Bu düzeyde kullanılacak olan yazı karakteri seçimi, tasarım, boşluk ve genel kullanım açısından<br/>basit ve tutarlı olmalıdır."
     },
     {
         "SoruID": 3770074,
@@ -1106,7 +1286,7 @@
         "B": "Sıcak-soğuk ilişkisi",
         "C": "Benzerlik ilişkisi",
         "D": "Parça-bütün ilişkisi",
-        "E": "Büyük-küçük ilişkisi",
+        "E": "Büyük-küçük ilişkisi",
         "DogruCevap": "C",
         "DersAd": "Tipografi",
         "Unite": 5,
@@ -1183,10 +1363,10 @@
         "SoruID": 3770079,
         "SoruMetni": "İzleyicinin ilk olarak büyük olan parçayı algılaması, daha sonra küçük parçaları algılayarak parça-bütün ilişkisi kurarak tasarımın bütüncül anlamına ulaşması Gestalt kuramının hangi ilkesiyle açıklanabilir?",
         "A": "Benzerlik ilkesi",
-        "B": "Tamamlama ilkesi",
-        "C": "Şekil-zemin ilkesi",
-        "D": "Devamlılık ilkesi",
-        "E": "Yakınlık ilkesi",
+        "B": "Tamamlama ilkesi",
+        "C": "Şekil-zemin ilkesi",
+        "D": "Devamlılık ilkesi",
+        "E": "Yakınlık ilkesi",
         "DogruCevap": "E",
         "DersAd": "Tipografi",
         "Unite": 5,
@@ -1197,7 +1377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yakınlık ilkesi"
+        "Aciklama": "Yakınlık ilkesi"
     },
     {
         "SoruID": 3770080,
@@ -1263,10 +1443,10 @@
         "SoruID": 3770083,
         "SoruMetni": "Tasarımın ana metnini oluşturan tipografik tasarım düzeyi aşağıdaki seçeneklerden hangisinde verilmiştir?",
         "A": "Birincil düzey",
-        "B": "İkincil düzey",
-        "C": "Üçüncü düzey",
-        "D": "Dördüncü düzey",
-        "E": "Diğer düzeyler",
+        "B": "İkincil düzey",
+        "C": "Üçüncü düzey",
+        "D": "Dördüncü düzey",
+        "E": "Diğer düzeyler",
         "DogruCevap": "C",
         "DersAd": "Tipografi",
         "Unite": 5,
@@ -1277,7 +1457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üçüncü düzey"
+        "Aciklama": "Üçüncü düzey"
     },
     {
         "SoruID": 3770084,
@@ -1297,7 +1477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tamamlama"
+        "Aciklama": "Görsel iletişimde tamamlama, görsel bir yanılsama olarak tanımlanabilir. Kapalılık olarak da bilinen<br/>tamamlama ilkesine göre bilişsel sistemimiz açık figürleri, kapalı figürler olarak algılama eğilimindedir. Bu nedenle ayrı parçalardan oluşan ya da dış hatları tamamen tamamlanmayan görsel elemanlar, bir bütün olarak algılanabilir. Kimi zaman boş bir alan bile bir nesne olarak algılanabilir."
     },
     {
         "SoruID": 3770085,
@@ -1317,7 +1497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hizalama"
+        "Aciklama": "Tipografik devamlılığın sağlanmasında “hizalama” oldukça önemlidir. Harfler alt alta<br/>ya da yan yana aynı hizada yer alacak şekilde düzenlenerek bu düzen sürdürülürse devamlılık da sürdürülür."
     },
     {
         "SoruID": 3770086,
@@ -1337,7 +1517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Şekil-zemin"
+        "Aciklama": "Şekil-zemin ilkesine göre bilişsel sistemimiz görsel bir alanı, ön plan (şekil) ve arka plan (zemin) olmak üzere ikiye ayırır. Şekil olarak algılanan ön plan, tasarım yüzeyi üzerinde birincil olarak dikkatimizi çeken görsel eleman(lar)dır. Zemin olarak algılanan arka plan ise, ikincil olarak dikkatimizi çeken diğer unsur(lar)dır."
     },
     {
         "SoruID": 3770087,
@@ -1357,7 +1537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kenar çubukları, madde işaretlendirmeleri ve renklendirme kutuları ile uzun metinleri düzenleyin."
+        "Aciklama": "Etkili bir tipografik hiyerarşi için dikkat edilmesi gerekenler (Strizver, 2014);<br/>• Bilgilerin önem sırasını belirleyin.<br/>• En önemli bilgileri odak noktası haline getirin.<br/>• Metni ayırmaya ve vurgulamaya yardımcı olabilecek alt başlıklar, büyük-küçük harf kullanımı ve<br/>paragraf girişleri kullanın.<br/>• Kenar çubukları, madde işaretlendirmeleri ve renklendirme kutuları ile uzun metinleri düzenleyin.<br/>• Metin hizalamalarına ve sütun genişliklerine dikkat edin.<br/>• Tipografik hiyerarşiyi desteklemeye yardımcı olması için rengi bir araç olarak kullanın.<br/>• Kenar boşluklarını ve beyaz alanları vurgu oluşturmak için kullanın."
     },
     {
         "SoruID": 3770088,
@@ -1377,11 +1557,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tasarımda vurgu sağlamak için birincil ve ikincil plandaki öğeler arasında zıtlık oluşturulur."
+        "Aciklama": "Tasarımda belirli bir öğe vurgulanabileceği gibi birden fazla öğe ya da belirli bir alan da vurgulanabilir. Ancak bir tasarımda tüm görsel eleman(lar) ya da alan(lar) aynı anda dikkat çekemezler. Bu nedenle tasarımda birden fazla vurgulayıcı unsurun olmamasına dikkat edilmelidir. Vurgulama, ön plana çıkması istenen baskın öğe ile ikinci planda kalması istenen öğeler arasında gerçekleştirilen zıtlıklarla sağlanabilir.<br>Tasarımda vurgu sağlamak için birincil ve ikincil plandaki öğeler arasında zıtlık oluşturulur."
     },
     {
         "SoruID": 3770089,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"><br/><li> Büyük/küçük harf kullanımı</li><br/><li>Beyaz alan kullanımı</li><br/><li>Yazı tipi seçimleri ve yön, yerleşim</li><br/><li>Açık renk-koyu renk karşıtlığı</li><br/><li>Sıcak renk-soğuk renk karşıtlığı</li><br/></ol><br/>Yukarıdakilerden hangileri grafik tasarım ilkelerinden \"vurgulama\" ilkesi için kullanılabilecek uygulama seçeneklerindendir?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"><br/><li> Büyük/küçük harf kullanımı</li><br/><li>Beyaz alan kullanımı</li><br/><li>Yazı tipi seçimleri ve yön, yerleşim</li><br/><li>Açık renk-koyu renk karşıtlığı</li><br/><li>Sıcak renk-soğuk renk karşıtlığı</li><br/></ol><br/>Yukarıdakilerden hangileri grafik tasarım ilkelerinden \"vurgulama\" ilkesi için kullanılabilecek uygulama seçeneklerindendir?",
         "A": "I, II, III, IV",
         "B": "III ve V",
         "C": "I, III, V",
@@ -1397,6 +1577,26 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Vurgulama,<br/><br/>ön plana çıkması istenen baskın öğe ile ikinci planda<br/><br/>kalması istenen öğeler arasında gerçekleştirilen<br/><br/>zıtlıklarla sağlanabilir. Tipografik düzenlemelerde<br/><br/>zıtlık (kontrastlık), büyük/kücük harf kullanımı,<br/><br/>hizalamalar, beyaz alan kullanımı, yazı tipi seçimleri<br/><br/>ve yön, yerleşim, boyut, biçim, doku, renk karşıtlıkları<br/><br/>(açık renk-koyu renk, sıcak renk-soğuk renk)<br/><br/>ile sağlanabilir (Becer, 2015; Poulin, 2017)."
+        "Aciklama": "Tipografik düzenlemelerde zıtlık (kontrastlık), büyük/küçük harf kullanımı, hizalamalar, beyaz alan kullanımı, yazı tipi seçimleri ve yön, yerleşim, boyut, biçim, doku, renk karşıtlıkları (açık renk-koyu renk, sıcak renk-soğuk renk) ile sağlanabilir (Becer, 2015; Poulin, 2017).<br>Vurgulama,<br/>ön plana çıkması istenen baskın öğe ile ikinci planda<br/>kalması istenen öğeler arasında gerçekleştirilen<br/>zıtlıklarla sağlanabilir. Tipografik düzenlemelerde<br/>zıtlık (kontrastlık), büyük/kücük harf kullanımı,<br/>hizalamalar, beyaz alan kullanımı, yazı tipi seçimleri<br/>ve yön, yerleşim, boyut, biçim, doku, renk karşıtlıkları<br/>(açık renk-koyu renk, sıcak renk-soğuk renk)<br/>ile sağlanabilir (Becer, 2015; Poulin, 2017)."
+    },
+    {
+        "SoruID": 3770090,
+        "SoruMetni": "Genellikle görsel öğelerin boyut, uzunluk veya ağırlık bakımından benzer olduğu, öğeler arasındaki aralıkların düzenli olduğu yapıların oluşturduğu ritim aşağıdakilerden hangisidir?",
+        "A": "Düzenli ritim",
+        "B": "Akan ritim",
+        "C": "Aşamalı ritim",
+        "D": "Ritmik yapı",
+        "E": "Varyasyon ritmi",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 5,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:01.179096",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Düzenli Ritim (Regular): Genellikle görsel öğelerin boyut, uzunluk veya ağırlık bakımından benzer<br/>olduğu, öğeler arasındaki aralıkların düzenli olduğu yapıların oluşturduğu ritimdir."
     }
 ]

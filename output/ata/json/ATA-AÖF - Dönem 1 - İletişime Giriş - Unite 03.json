@@ -16,7 +16,8 @@
         "GelYer": 2,
         "DersId": 153,
         "OBSDersId": 34080,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 414076,
@@ -35,7 +36,8 @@
         "GelYer": 2,
         "DersId": 153,
         "OBSDersId": 34080,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 414077,
@@ -54,7 +56,8 @@
         "GelYer": 2,
         "DersId": 153,
         "OBSDersId": 34080,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 414078,
@@ -73,7 +76,8 @@
         "GelYer": 2,
         "DersId": 153,
         "OBSDersId": 34080,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 414079,
@@ -92,7 +96,8 @@
         "GelYer": 2,
         "DersId": 153,
         "OBSDersId": 34080,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 414080,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 153,
         "OBSDersId": 34080,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 414081,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 153,
         "OBSDersId": 34080,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 414082,
@@ -149,6 +156,7 @@
         "GelYer": 2,
         "DersId": 153,
         "OBSDersId": 34080,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     }
 ]

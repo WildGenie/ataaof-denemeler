@@ -107,11 +107,11 @@
     - E-) Niki Lauda
     ***
 1. **Dünyanın ilk megapiksel sensörü kaç pikseldir?**
-    - A-) 1.1 milyon piksel
-    - B-) 1.6 milyon piksel
+    - A-) 1\.1 milyon piksel
+    - B-) 1\.6 milyon piksel
     - C-) 1 milyon piksel
-    - **Cevap D-) 1.4 milyon piksel**
-    - E-) 1.9 milyon piksel
+    - **Cevap D-) 1\.4 milyon piksel**
+    - E-) 1\.9 milyon piksel
     ***
 1. **İlk sıvı kristal ekranlı-LCD monitörlü kompakt makinenin ismi aşağıdakilerden hangisidir?**
     - A-) Sony A-5
@@ -127,7 +127,7 @@
     - D-) 30 megapiksel
     - E-) 25 megapiksel
     ***
-1. I. Ünlü şahsiyetlerin portrelerinde gerçeklik algısı sarsılmıştır.<br />II. Cilalı imajlar yoğunlaşmıştır.
+1. I. Ünlü şahsiyetlerin portrelerinde gerçeklik algısı sarsılmıştır.<br />II. Cilalı imajlar yoğunlaşmıştır.<br />III. Gerçekliğin sunumu abartılmıştır.<br />**Yukarıdakilerden hangisi ya da hangileri dijital görüntü teknolojilerinin yaygınlaşmasıyla birlikte gerçeklik algısında oluşan değişimler arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -141,14 +141,14 @@
     - D-) Canon
     - E-) Nikon
     ***
-1. I. Basın yayın<br />II. Reklam
+1. I. Basın yayın<br />II. Reklam<br />III. Sosyal medya<br />**Yukarıdakilerden hangisi ya da hangileri dijital görüntü üretme teknolojisinin yaygınlaşmasıyla birlikte en fazla etkilenen ve dönüşen alanlar arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     ***
-1. **1987'de Thomas ve John Knoll kardeşler tarafından geliştirilen ve günümüzde de yaygın olarak kullanılan görüntü işleme programı aşağıdakilerden hangisidir?**
+1. **1987'de Thomas ve John Knoll kardeşler tarafından geliştirilen ve günümüzde de yaygın olarak kullanılan görüntü işleme programı aşağıdakilerden hangisidir?**
     - **Cevap A-) Photoshop**
     - B-) Edius
     - C-) Adobe Premiere
@@ -205,7 +205,7 @@
     - D-) Sarı
     - E-) Kahverengi
     ***
-1. **Aşağıdakilerden hangisi soğuk renkler arasında****yer almaz****?**
+1. **Aşağıdakilerden hangisi soğuk renkler arasında** **yer almaz****?**
     - A-) Mor
     - B-) Açık Mor
     - C-) Mavi
@@ -303,7 +303,7 @@
     - D-) Ritim
     - E-) Doku
     ***
-1. Fotoğrafta kompozisyonu oluşturan çizgilerin yatay, dik, çapraz veya eğri durumda karede bulunmaları, izleyici üzerinde farklı hisler oluşturmaktadır.<br />**Buna göre izleyicide****genel olarak kararlılık, istikrar, yumuşaklık ve huzur hissi uyandıran çizgiler aşağıdakilerden hangisidir?**
+1. Fotoğrafta kompozisyonu oluşturan çizgilerin yatay, dik, çapraz veya eğri durumda karede bulunmaları, izleyici üzerinde farklı hisler oluşturmaktadır.<br />**Buna göre izleyicide** **genel olarak kararlılık, istikrar, yumuşaklık ve huzur hissi uyandıran çizgiler aşağıdakilerden hangisidir?**
     - **Cevap A-) Yatay çizgiler**
     - B-) Dikey çizgiler
     - C-) Çapraz çizgiler
@@ -317,14 +317,14 @@
     - **Cevap D-) Ritim**
     - E-) Doku
     ***
-1. I. Simetrik kompozisyon<br />II. Üçte bir kuralı
+1. I. Simetrik kompozisyon<br />II. Üçte bir kuralı<br />III. Vurgu-ilgi merkezi<br />**Yukarıdakilerden hangisi ya da hangileri görüntüde sabitlik, durağanlık ve basitlik hissini öne çıkartan görüntü yerleştirme biçimidir?**
     - **Cevap A-) Yalnız I**
     - B-) Yalnız II
     - C-) I ve II
     - D-) II ve III
     - E-) I, II ve III
     ***
-1. I. Görüntüdeki fazlalıkların çerçeve dışına çıkarılması<br />II. Çerçeveye olabildiğince az nesne alınması
+1. I. Görüntüdeki fazlalıkların çerçeve dışına çıkarılması<br />II. Çerçeveye olabildiğince az nesne alınması<br />III. Basit ve açık bir anlatımın tercih edilmesi<br />**Yukarıdakilerden hangisi ya da hangileri fotoğrafta sadeliği sağlayabilmek için yapılması gerekenler arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -346,7 +346,7 @@
     - D-) 360 derece kameralar
     - E-) Aksiyon kameraları
     ***
-1. **En yüksek megapiksel özelliğine sahip makine türü aşağıdakilerden hangisidir?**
+1. **En yüksek megapiksel özelliğine sahip makine türü aşağıdakilerden hangisidir?**
     - A-) Aksiyon
     - B-) DSLR
     - C-) Kompakt
@@ -360,7 +360,7 @@
     - D-) DSRL kameralar
     - E-) Drone kameralar
     ***
-1. **Aşağıdakilerden hangisi profesyonel, sağlam ve dayanıklı makine modellerinden biri değildir?**
+1. **Aşağıdakilerden hangisi profesyonel, sağlam ve dayanıklı makine modellerinden biri değildir?**
     - A-) Nikon D850
     - B-) Canon 1DXMII
     - C-) Pentax K-1II
@@ -430,7 +430,7 @@
     - D-) Stereo Realist
     - E-) Fujifilm FinePix Real 3D
     ***
-1. **Drone fotoğrafçılığı, insansız uçak sistemi (UAS) veya daha yaygın olarak drone olarak bilinen, uzaktan yönetilen veya otonom ………  ile yapılan fotoğraf/video çekimidir.**<br />**Metinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+1. **Drone fotoğrafçılığı, insansız uçak sistemi (UAS) veya daha yaygın olarak drone olarak bilinen, uzaktan yönetilen veya otonom ……… ile yapılan fotoğraf/video çekimidir.**<br />**Metinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Paramotor
     - **Cevap B-) İnsansız hava aracı**
     - C-) GPS aracı
@@ -479,7 +479,7 @@
     - D-) Obtüratör
     - E-) Diyafram
     ***
-1. **Kompakt makinelerden daha sağlam ve dayanıklı olan ve genellikle aşırı hızlı, hareketli işlerde ve sürekli çekimlerde kullanmaya elverişli yapıdaki kameralar aşağıdakilerden hangisidir?**
+1. **Kompakt makinelerden daha sağlam ve dayanıklı olan ve genellikle aşırı hızlı, hareketli işlerde ve sürekli çekimlerde kullanmaya elverişli yapıdaki kameralar aşağıdakilerden hangisidir?**
     - **Cevap A-) Aksiyon kameraları**
     - B-) SLR kameralar
     - C-) Drone kameralar
@@ -488,12 +488,12 @@
     ***
 1. **İleri amatör ve profesyonel birçok fotoğrafçıya mükemmel görüntü kalitesi ve ciddi kullanım olanakları sunan, üzerinde değiştirilebilir lens olan ve çekim öncesi görülen çerçevenin çekimde de aynı şekilde sensöre düşürülmesi ile görüntü oluşturan fotoğraf makinesi türü aşağıdakilerden hangisidir?**
     - A-) SLR makineler
-    - B-) Analog makineler
-    - C-) Küçük (Kompakt) makineler
-    - **Cevap D-) DSLR makineler**
+    - B-) Analog makineler
+    - C-) Küçük (Kompakt) makineler
+    - **Cevap D-) DSLR makineler**
     - E-) Klasik makineler
     ***
-1. I. İki veya daha fazla lenslidir.<br />II. Lens sayısı kadar görüntü algılayıcısına sahiptir.
+1. I. İki veya daha fazla lenslidir.<br />II. Lens sayısı kadar görüntü algılayıcısına sahiptir.<br />III. İnsanın görme biçimini simüle eder.<br />**Yukarıdakilerden hangisi ya da hangileri stereo kameraların özellikleri arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -522,7 +522,7 @@
     - D-) Objektif yuvası
     - E-) Objektif gövdesi
     ***
-1. **Objektiflerde filtre yuvası (ön bağlantı noktası) çapını ifade eden metrik ölçü birimi aşağıdakilerden hangisidir?**
+1. **Objektiflerde filtre yuvası (ön bağlantı noktası) çapını ifade eden metrik ölçü birimi aşağıdakilerden hangisidir?**
     - A-) cm
     - B-) feet
     - **Cevap C-) mm**
@@ -531,12 +531,12 @@
     ***
 1. **Aşağıdakilerden hangisi ışık geçirgenliğinin özellikleri arasında yer almaz?**
     - A-) Objektif hızı olarak da adlandırılır.
-    - B-) Sayısal değeri  f/…  olarak gösterilir.
+    - B-) Sayısal değeri f/… olarak gösterilir.
     - C-) En büyük açıklığı, en küçük sayısal değeridir.
     - D-) Objektifte optik çap küçüldükçe ışık geçirgenliği de azalır.
     - **Cevap E-) En büyük açıklığı, en büyük sayısal değeridir.**
     ***
-1. **Bir göz kapatılarak etrafa bakıldığında,****tam çerçeve (full frame) algılayıcılı gövdeye takılı, yaklaşık kaç mm’lik bir objektif ile benzer bir****görüş elde edilebilir?**
+1. **Bir göz kapatılarak etrafa bakıldığında,** **tam çerçeve (full frame) algılayıcılı gövdeye takılı, yaklaşık kaç mm’lik bir objektif ile benzer bir** **görüş elde edilebilir?**
     - A-) 146mm
     - **Cevap B-) 50mm**
     - C-) 21mm
@@ -557,11 +557,11 @@
     - **Cevap D-) 24mm f/1.4**
     - E-) 2x Tele dönüştürücü
     ***
-1. **Çoğu balık gözü objektifin derece cinsinden sahip olduğu açısal görüş alanı****aşağıdakilerden hangisidir?**
-    - A-) 45<sup>0 </sup>- 55<sup>0</sup>
+1. **Çoğu balık gözü objektifin derece cinsinden sahip olduğu açısal görüş alanı** **aşağıdakilerden hangisidir?**
+    - A-) 45<sup>0 </sup>- 55<sup>0</sup>
     - **Cevap B-) 170<sup>0</sup> - 180<sup>0</sup>**
-    - C-) 270<sup>0 </sup>- 360<sup>0</sup>
-    - D-) 8<sup>0 </sup>- 12<sup>0</sup>
+    - C-) 270<sup>0 </sup>- 360<sup>0</sup>
+    - D-) 8<sup>0 </sup>- 12<sup>0</sup>
     - E-) 36<sup>0</sup> - 24<sup>0</sup>
     ***
 1. Geniş açılı objektiflerde yakın mesafedeki nesneler büyük, orta mesafedeki nesneler küçük ve daha uzak görünür.<br />**Bu özellik ile aşağıdakilerden hangisi oluşturulur?**
@@ -614,9 +614,9 @@
     - E-) Ultra geniş açı
     ***
 ## Unite 5
-1. **Pozlandırma değeri 54 olan (54 EV'lik) bir flaş****100 ISO’da f/1.4 diyafram ve****tam güç patlama ile****yaklaşık kaç metre uzaktaki bir cismi aydınlatır?**
+1. **Pozlandırma değeri 54 olan (54 EV'lik) bir flaş** **100 ISO’da f/1.4 diyafram ve** **tam güç patlama ile****yaklaşık kaç metre uzaktaki bir cismi aydınlatır?**
     - A-) 540m
-    - B-) 75.6m
+    - B-) 75\.6m
     - C-) 120m
     - **Cevap D-) 54m**
     - E-) 12m
@@ -705,14 +705,14 @@
     - D-) EVT
     - **Cevap E-) TTL**
     ***
-1. **Stüdyoda 800 watt güçte birinci ışık 1/2 güçte tas ile soldan, 1500 watt güçte ikinci ışık 1/1 güçle softbox ile karşıdan verildiğinde kullanılan yapay ışık kaynağı aşağıdakilerden hangisidir?**
+1. **Stüdyoda 800 watt güçte birinci ışık 1/2 güçte tas ile soldan, 1500 watt güçte ikinci ışık 1/1 güçle softbox ile karşıdan verildiğinde kullanılan yapay ışık kaynağı aşağıdakilerden hangisidir?**
     - **Cevap A-) Paraflaş**
     - B-) Pop-up flaş
     - C-) Tepe flaşı
     - D-) Halka (Ring) flaş
     - E-) Sürekli ışık
     ***
-1. **Fotoğraf makinelerinde kullanılan****güncel****4 hafıza kartı sınıfı aşağıdakilerden hangisidir?**
+1. **Fotoğraf makinelerinde kullanılan** **güncel** **4 hafıza kartı sınıfı aşağıdakilerden hangisidir?**
     - **Cevap A-) CF, SD, Mikro SD, XQD**
     - B-) CF, SD, UHD, HD
     - C-) AF-S, QD, SD, ML
@@ -733,7 +733,7 @@
     - D-) 4
     - E-) 5
     ***
-1. **Kamerayı tripota sabitleyerek özellikle video ve panorama çekimleri yapmak için kullanılması gereken kafa türü aşağıdakilerden hangisidir?**
+1. **Kamerayı tripota sabitleyerek özellikle video ve panorama çekimleri yapmak için kullanılması gereken kafa türü aşağıdakilerden hangisidir?**
     - A-) Shift yapan Mekanik Kafa
     - B-) Top Kafa (Ball-Head)
     - C-) Monolit Kafa
@@ -747,14 +747,14 @@
     - D-) Flaş
     - E-) LCD ekran
     ***
-1. I. Konuyu doğrudan aydınlatma<br />II. Görüntü ögelerine vurgu yapma
+1. I. Konuyu doğrudan aydınlatma<br />II. Görüntü ögelerine vurgu yapma<br />III. Özel efektler oluşturma<br />**Yukarıdakilerden hangisi ya da hangileri fotoğraf çekimlerinde flaş kullanımının amaçları arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     ***
-1. Bütün flaşların bir çakma (ışık gücü) indeksi vardır. Bu, paraflaşlarda .......... olarak ifade edilirken çok kullanılan güncel tepe flaşlarında kılavuz numarası “EV”<br />(Exposure Value) yani “Pozlandırma Değeri” ile ifade edilir.
+1. Bütün flaşların bir çakma (ışık gücü) indeksi vardır. Bu, paraflaşlarda .......... olarak ifade edilirken çok kullanılan güncel tepe flaşlarında kılavuz numarası “EV”<br />(Exposure Value) yani “Pozlandırma Değeri” ile ifade edilir.<br />**Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Derece
     - B-) Volt
     - **Cevap C-) Watt**
@@ -768,7 +768,7 @@
     - D-) SDXC (Güvenli Dijital Ekstra Kapasiteli) Hafıza Kartları
     - E-) SD (Güvenli Dijital) Hafıza Kartları
     ***
-1. **Fotoğraf çekerken morötesi ışınım yani görünür ışıktan daha kısa olan 10 nm ila 400 nm dalga boylu arasındaki elektromanyetik radyasyon ışınlarının film düzlemine veya dijital sensöre ulaşmasını önlemek amacıyla kullanılan filtre türü aşağıdakilerden hangisidir?**
+1. **Fotoğraf çekerken morötesi ışınım yani görünür ışıktan daha kısa olan 10 nm ila 400 nm dalga boylu arasındaki elektromanyetik radyasyon ışınlarının film düzlemine veya dijital sensöre ulaşmasını önlemek amacıyla kullanılan filtre türü aşağıdakilerden hangisidir?**
     - A-) Polarize Filtre
     - **Cevap B-) UV (Ultraviyole) Filtre**
     - C-) Nötr Yoğunluklu (ND) Filtre
@@ -797,7 +797,7 @@
     - D-) Enstantane önceliği
     - E-) Program
     ***
-1. Giriş seviyesi kameralar önceden ayarlanmış, yaygın olarak kullanılan bazı amatör modlara sahiptir.<br />**Aşağıdakilerden hangisi yaygın amatör modlar arasında yer almaz?**
+1. Giriş seviyesi kameralar önceden ayarlanmış, yaygın olarak kullanılan bazı amatör modlara sahiptir.<br />**Aşağıdakilerden hangisi yaygın amatör modlar arasında yer almaz?**
     - A-) Spor
     - B-) Gece
     - C-) Portre
@@ -867,7 +867,7 @@
     - D-) Manuel
     - E-) Bulb
     ***
-1. Normal hassasiyet (ISO) sınırları dâhilinde "pozlama =   ….....… x süre" formülü, eş değerlilik ilkesini ifade eder.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+1. Normal hassasiyet (ISO) sınırları dâhilinde "pozlama = ….....… x süre" formülü, eş değerlilik ilkesini ifade eder.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Renk sıcaklığı
     - B-) ISO
     - C-) Saniye
@@ -902,14 +902,14 @@
     - D-) Melez AF seçilir.
     - E-) Sürekli AF seçilir.
     ***
-1. I. Enstantane hızı<br />II. Diyafram açıklığı
+1. I. Enstantane hızı<br />II. Diyafram açıklığı<br />III. ISO hassasiyeti<br />**Yukarıdakilerden hangisi ya da hangileri pozlamaya etki eden temel unsurlar arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     ***
-1. **Fotoğraf makinesinin diyafram ve enstantane hızını otomatik olarak belirlediği, kullanıcıya ise ISO (Hassasiyet) hızı ve pozlama telafisi gibi seçeneklerin bırakıldığı çekim modu aşağıdakilerden hangisidir?**
+1. **Fotoğraf makinesinin diyafram ve enstantane hızını otomatik olarak belirlediği, kullanıcıya ise ISO (Hassasiyet) hızı ve pozlama telafisi gibi seçeneklerin bırakıldığı çekim modu aşağıdakilerden hangisidir?**
     - A-) Otomatik Mod
     - **Cevap B-) Program Modu**
     - C-) Diyafram Öncelikli Mod
@@ -930,7 +930,7 @@
     - D-) focus
     - E-) ölçüm
     ***
-1. I. Diyafram açıklığı<br />II. Lensin odak uzaklığı
+1. I. Diyafram açıklığı<br />II. Lensin odak uzaklığı<br />III. Konuya uzaklık<br />**Yukarıdakilerden hangisi ya da hangileri fotoğraftaki net alan derinliğini doğrudan etkileyen ögelerden biridir?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -952,14 +952,14 @@
     - D-) Doğru objektif seçimi yapılması
     - **Cevap E-) Pahalı bir fotoğraf makinesinin tercih edilmesi**
     ***
-1. **Aşağıdakilerden hangisi reklam ve tanıtım fotoğrafçılığında kullanılan yardımcı araç-gereçlerden biri değildir?**
+1. **Aşağıdakilerden hangisi reklam ve tanıtım fotoğrafçılığında kullanılan yardımcı araç-gereçlerden biri değildir?**
     - **Cevap A-) Teleskop**
     - B-) Objektif
     - C-) Fon sistemi
     - D-) Flaş
     - E-) Çekim masası
     ***
-1. **Aşağıdakilerden hangisi reklam ve tanıtım fotoğrafçılığında bulunması gereken niteliklerden biri değildir?**
+1. **Aşağıdakilerden hangisi reklam ve tanıtım fotoğrafçılığında bulunması gereken niteliklerden biri değildir?**
     - A-) Reklamı yapılan ürün veya hizmet hedef kitleye net bir şekilde aktarılmalıdır.
     - B-) Anlaşılırlığı kolay olmalıdır.
     - **Cevap C-) Toplumsal olaylara karşı duyarlılık oluşturmalıdır.**
@@ -987,7 +987,7 @@
     - D-) Fotoğraftaki renkler soluk çıkar.
     - E-) Fotoğrafın kompozisyonu kötü olur.
     ***
-1. **Aşağıdakilerden hangisi mimari fotoğrafçılıkta kullanılan ekipmanlardan biri değildir?**
+1. **Aşağıdakilerden hangisi mimari fotoğrafçılıkta kullanılan ekipmanlardan biri değildir?**
     - A-) Tilt-shift objektif
     - B-) Büyük format körüklü makineler
     - C-) Üçayak
@@ -1001,21 +1001,21 @@
     - D-) Geniş açı objektif kullanmak
     - E-) Düşük ISO kullanmak
     ***
-1. **Aşağıdakilerden hangisi makro objektiflerin özelliklerinden biri değildir?**
+1. **Aşağıdakilerden hangisi makro objektiflerin özelliklerinden biri değildir?**
     - A-) Çıplak gözle göremediğimiz detayları gösterir.
     - **Cevap B-) Ultra geniş açıya sahiptir.**
     - C-) Yakın çekimlerde keskin görüntüler verir.
     - D-) Sınırlı alan derinliğine sahiptir.
     - E-) Diğer objektiflere göre daha çok büyütme oranına sahiptir.
     ***
-1. **Aşağıdakilerden hangisi basın fotoğrafının işlevlerinden biri değildir?**
+1. **Aşağıdakilerden hangisi basın fotoğrafının işlevlerinden biri değildir?**
     - A-) Bildirmek
     - **Cevap B-) Eğlendirmek**
     - C-) Geleceğe belge bırakmak
     - D-) Tarihe tanıklık etmek
     - E-) Etkilemek
     ***
-1. **Aşağıdakilerden hangisi haber fotoğrafının teknik niteliklerinden biri  değildir?**
+1. **Aşağıdakilerden hangisi haber fotoğrafının teknik niteliklerinden biri değildir?**
     - A-) Fotoğrafın netliği
     - **Cevap B-) Canlı renklere sahip olması**
     - C-) Fotoğrafın doğru pozlanmış olması
@@ -1029,14 +1029,14 @@
     - D-) Hoş vakit geçirtmek
     - E-) Analiz değeri oluşturmak
     ***
-1. **Aşağıdakilerden hangisi reklam ve tanıtım fotoğrafçılığı türlerinden biri değildir?**
+1. **Aşağıdakilerden hangisi reklam ve tanıtım fotoğrafçılığı türlerinden biri değildir?**
     - A-) Endüstriyel fotoğraf
     - B-) Yiyecek-içecek fotoğrafı
     - C-) Moda fotoğrafı
     - D-) Ürün fotoğrafı
     - **Cevap E-) Vahşi doğa fotoğrafı**
     ***
-1. **Aşağıdakilerden hangisi makro fotoğrafçılıkta kullanılan yardımcı araç gereçlerden biri değildir?**
+1. **Aşağıdakilerden hangisi makro fotoğrafçılıkta kullanılan yardımcı araç gereçlerden biri değildir?**
     - A-) Yakınlaştırıcı (close-up) filtreler
     - B-) Üçayak
     - C-) Makro flaş
@@ -1105,4 +1105,879 @@
     - **Cevap C-) Reklam fotoğrafı**
     - D-) Mimari fotoğraf
     - E-) Manzara fotoğrafı
+    ***
+## Unite 8
+1. **Fotoğrafçılıkta çekilen fotoğrafın sensör boyutu kısıtlamasıyla kaybedilmeksizin, bütünüyle elde edilmesi olayını tanımlayan, fotoğraf baskısında ayrı şekilde olacağını ve algılayıcı sensör boyutunu gerçek film ölçüsü ile birebir aynı olduğunu belirten tanımlamaya ne ad verilir?**
+    - A-) Objektif
+    - B-) Sensör
+    - C-) Çarpanlı fotoğraf makinesi
+    - D-) APS
+    - **Cevap E-) Tam çerçeve (Full frame)**
+    ***
+1. **Bir objektifte pozlama sırasında, kameranın hareketiyle oluşacak bulanıklığı azaltmaya yarayan, sarsılma veya düşük enstantane hızlarında tripotsuz kullanımda kolaylık sağlayan özelliğin adı aşağıdakilerden hangisidir?**
+    - A-) Auto-focus
+    - B-) Optik
+    - **Cevap C-) Görüntü sabitleyici (imaj stabilizer)**
+    - D-) VS gözlük
+    - E-) LCD ekran
+    ***
+1. **RAW - JPEG - TIFF gibi kısaltmalar ne tür görüntü formatıdır?**
+    - A-) Analog görüntü
+    - **Cevap B-) Dijital görüntü**
+    - C-) HD
+    - D-) Video
+    - E-) Sensör
+    ***
+1. **Fotografik bir sahneyi aydınlatmak için kullanılan gün ışığını taklit eden flaşlar kaç Kelvin derecedeki renk sıcaklığına göre kalibre edilmiştir?**
+    - A-) 3600
+    - B-) 1200
+    - C-) 7500
+    - **Cevap D-) 5500**
+    - E-) 2700
+    ***
+1. **Dijital fotoğraf makinesiyle çekilen fotoğrafların sayısal veri olarak depolandığı bir gereç olan hafıza kartı aşağıdakilerden hangisiyle ifade edilir?**
+    - **Cevap A-) CF-SD-SDHC-SDXC**
+    - B-) Renk Kartı
+    - C-) Post kart
+    - D-) Raw
+    - E-) Piksel
+    ***
+1. **Dijital fotoğraf makinelerinde kullanılan kulaklık çıkışının kullanım amacı aşağıdakilerden hangisidir?**
+    - A-) Müzik dinlemek
+    - **Cevap B-) Video çekim esnasında mikrofonun hangi derecede sesi algıladığını kontrol etmek**
+    - C-) Telsiz kullanımı
+    - D-) Deklanşör sesini duyabilmek
+    - E-) Video çekim esnasında görüntüyü görebilmek
+    ***
+1. **"1/15, 1/30, 1/60, 1/125, 1/500" şeklinde verilen değerler aşağıdakilerden hangisini fade eder?**
+    - A-) ISO değeri
+    - B-) Kayıt formatı
+    - C-) Diyafram değeri
+    - **Cevap D-) Enstantane değeri**
+    - E-) Kelvin değeri
+    ***
+1. **Full-frame olmayan, 1.5 çarpanlı bir fotoğraf makinesinde kullanılacak 50mm sabit bir objektifin, mm cinsinden karşılık geldiği objektif aşağıdakilerden hangisidir?**
+    - A-) 95
+    - B-) 127
+    - C-) 50
+    - D-) 200
+    - **Cevap E-) 75**
+    ***
+1. **Algılayıcı sensörün yanlış bir değerde olması, standartlardan çok daha az miktarda ışığa maruz bırakılması aşağıdakilerden hangisi ile açıklanabilir?**
+    - A-) Full-frame
+    - B-) Renk düzenleme
+    - **Cevap C-) Az pozlama**
+    - D-) Poz telafisi
+    - E-) Kelvin
+    ***
+1. **Dijital görüntünün temel yapıtaşı olan, tek bir birimi ifade eden, videoda dikdörtgen ve fotoğrafta kare olan yapıya ne ad verilir?**
+    - **Cevap A-) Piksel**
+    - B-) Noise
+    - C-) Kelvin
+    - D-) Raw
+    - E-) Jpeg
+    ***
+1. **Analog kameralarda filmin yerini alan ve DSLR fotoğraf makinelerinde sayısal görüntünün oluştuğu sistem / parça aşağıdakilerden hangisidir?**
+    - **Cevap A-) Sensör**
+    - B-) Objektif
+    - C-) Film
+    - D-) LED Ekran
+    - E-) Vizör
+    ***
+1. **Aşağıdakilerden hangisi tam çerçeve (full frame) sensör boyutudur?**
+    - **Cevap A-) 24 x 36 mm**
+    - B-) 17 x 13 mm
+    - C-) 14 x 10 mm
+    - D-) 13x 8 mm
+    - E-) 6 x 4 mm
+    ***
+1. **Bazı objektiflerde bulunan görüntü sabitleyici (image stabilization) düzeneğinin kullanım nedeni aşağıdakilerden hangisidir?**
+    - A-) Renk ve ton değerlerinin kontrolunü sağlamak
+    - **Cevap B-) Kameranın hareketleriyle oluşacak hareket netsizliğini, bulanıklığı azaltmak**
+    - C-) Objektifte filtre görevi görüp UV ışığı düzenlemek
+    - D-) Objektif merceğinin kırılmasını önlemek
+    - E-) Objektif filtre yuvasını korumak
+    ***
+1. **Fotoğraf makinesi üzerinde bulunan lens kilidi ne için kullanılır?**
+    - A-) Perspektif düzenlemesi yaparken kullanılır.
+    - B-) Herhangi bir objektifi fotoğraf makinesi gövdesine takarken kullanılır.
+    - C-) Objektifi temizlemek için kullanılır.
+    - **Cevap D-) Herhangi bir objektifi fotoğraf makinesi gövdesinden sökerken kullanılır.**
+    - E-) Makineyi kapatmak için kullanılır.
+    ***
+1. **Fotoğraf makinelerinde konuyu göz ile takip edip kompozisyonu kadraja almaya yarayan optik veya elektronik görüntüleme sistemine ne ad verilir?**
+    - A-) Deklanşör
+    - B-) DSLR
+    - **Cevap C-) Vizör**
+    - D-) Sensör
+    - E-) Pozometre
+    ***
+1. **Fotoğraf makinelerinde doğru diyafram açıklığı ve buna uygun düşen örtücü enstantane hızını belirleyebilmek için makine gövdesinde bulunan ışığın miktarını hassas biçimde ölçen düzeneğe ne ad verilir?**
+    - A-) Full Frame
+    - B-) Çarpanlı sensör
+    - C-) LCD Ekran
+    - **Cevap D-) Pozometre**
+    - E-) Vizör
+    ***
+1. **Fotoğraf makinelerinde 1/8000, 1/250, 1/60 gibi enstantane değerleri arasında bulunan, B ‘Bulb’ seçeneği bir fotoğraf çekimi sırasında hangi amaçla kullanılır?**
+    - A-) Kısa süreli pozlama
+    - **Cevap B-) Uzun süreli pozlama**
+    - C-) Netlik ayarı
+    - D-) Renk ayarı
+    - E-) Kadrajlama
+    ***
+1. **Objektiften geçen ışığın, ne kadar süre ile sensör yüzeyini pozlandıracağını kontrol eden düzeneğe ne ad verilir?**
+    - A-) Diyafram
+    - B-) Diyafram bileziği
+    - C-) Pozometre
+    - D-) Netlik halkası
+    - **Cevap E-) Enstantane**
+    ***
+1. **Fotoğrafçının kendine has değerlerle makineyi kullanmasını sağlayacak mod türüne ne ad verilir?**
+    - A-) Otomotik mod
+    - B-) Program modu
+    - **Cevap C-) Manuel mod**
+    - D-) Av modu
+    - E-) Portre modu
+    ***
+1. Aynasız bir fotoğraf makinesinde makine çakışırken algılayıcı sensör her zaman ışık ile etkileşim hâlindedir. LCD ekran veya elektronik vizör üzerinde çekilecek görüntünün canlı dijital görünümü fotoğrafçıya aktarılır.<br />**Yukarıda verilen özellik ile aynasız fotoğraf makinelerinde aşağıdakilerden hangisi bulunmaz?**
+    - A-) Görüntü algılayıcı yüzey
+    - B-) Optik
+    - C-) Bakaç
+    - D-) Ekran
+    - **Cevap E-) Optik vizör**
+    ***
+## Unite 9
+1. **Aşağıdakilerden hangisi sayısal fotoğraf iş akışına göre çekim öncesi aşamalarda gerek duyulan ekipman/malzemeler arasında yer almaz?**
+    - A-) Objektif
+    - B-) Fotoğraf Makinası
+    - C-) Batarya
+    - D-) Hafıza kartı
+    - **Cevap E-) Siperlik**
+    ***
+1. **Aşağıdakilerden hangisi sayısal fotoğraf iş akışına göre çekim anında karar verilmesi ve düzenlenmesi gereken unsurlar arasında yer almaz?**
+    - A-) ISO ayarının yapılması
+    - B-) Beyaz ayarının yapılması
+    - C-) Netlemenin yapılması
+    - **Cevap D-) Pillerin şarj edilmesi**
+    - E-) Pozlama ayarlarının yapılması
+    ***
+1. **Aşağıdakilerden hangisi çekim aşamasında pozlama seçenekleri arasında yer almaz?**
+    - A-) P-Program
+    - **Cevap B-) H-Histogram**
+    - C-) M-Manuel
+    - D-) B-Bulb
+    - E-) Av-Diyafram Önceliği
+    ***
+1. **Fotoğraf çekimi esnasında tercih edilmesi gereken, elde edilecek sayısal fotoğrafları görüntü kaybına uğratmadan, gerekli düzenlemeler yapılmasına imkân sağlayan kayıt formatı aşağıdakilerden hangisidir?**
+    - A-) JPEG
+    - **Cevap B-) RAW**
+    - C-) PDF
+    - D-) DOC
+    - E-) PSD
+    ***
+1. **Sayısal fotoğraf makineleri ile oluşturulan dijital görüntüleri, bilgisayar ortamına aktarmak için aşağıdaki yöntem ve ekipmanlardan hangisi kullanılamaz?**
+    - A-) Hafıza kartı
+    - B-) Veri aktarma kablo bağlantısı
+    - **Cevap C-) Kablo deklanşör**
+    - D-) Wireless
+    - E-) Hafıza kartı okuyucu
+    ***
+1. **Aşağıdakilerden hangisi fotoğrafçıların sayısal fotoğraf arşivlerini oluşturmak için tercih ettiği, bulut depolama sistemleri olarak tabir edilen online servis sağlayıcıları arasında yer almaz?**
+    - **Cevap A-) Softbox**
+    - B-) Dropbox
+    - C-) iCloud Drive
+    - D-) OneDrive
+    - E-) Google Drive
+    ***
+1. **Aşağıdakilerden hangisi sayısal fotoğrafların arşivlenmesi için kullanılan yazılım değildir?**
+    - A-) iPhoto
+    - **Cevap B-) Adobe Photoshop**
+    - C-) ACDSee
+    - D-) Extensis Portfolio
+    - E-) Adobe Bridge
+    ***
+1. **Aşağıdakilerden hangisi sayısal fotoğraf arşiv yazılımları arasında yer alır?**
+    - A-) Camera RAW
+    - **Cevap B-) ACDSee**
+    - C-) Exel
+    - D-) Photoshop
+    - E-) Word
+    ***
+1. **Aşağıdakilerden hangisi yazılımsız arşivleme sistemleri ile edilen faydalardan biri değildir?**
+    - A-) Güvenli bir arşiv sistemi oluşturulması
+    - B-) Fotoğraflara hızlı bir şekilde ulaşılması
+    - C-) Karmaşanın ve hataların oluşması ihtimalinin minimize edilmesi
+    - **Cevap D-) Diğer sistemlere göre arşivin çok daha kısa sürede oluşturulması**
+    - E-) İşlevsel bir arşiv sisteminin oluşturulması
+    ***
+1. **Fotoğraf makinelerinin kaydettikleri görüntünün “megabyte” cinsinden büyüklüğü arttıkça aşağıdaki seçeneklerde belirtilen cihaz ve ekipmanlardan hangisine duyulan ihtiyaç artar?**
+    - A-) Kart okuyucuya
+    - B-) Monitörlere
+    - **Cevap C-) Harddisklere**
+    - D-) USB kablolarına
+    - E-) Bataryalara
+    ***
+1. **Yüklü/büyük arşivleri yönetebilmek, sistemde hızlı aramalar yapabilmek ve fotoğrafların verimli bir şekilde işlenmesini sağlayabilmek için aşağıdaki ekipmanlardan hangisine ihtiyaç duyulur?**
+    - A-) Güçlü ve hızlı bir fotoğraf makinesine
+    - B-) Büyük ve sabit ışıklı bir çalışma ortamına
+    - C-) Kâğıt üzerinde hazırlanmış ayrıntılı bir arşiv çizelgesine
+    - D-) HDMI aktarım kablolarına
+    - **Cevap E-) Güçlü ve güncel bir bilgisayar sistemine**
+    ***
+1. **Tüm verilerin belirli bir düzen içerisinde saklanmasını, istenildiği anda hızlı ve kolayca ulaşılmasını ifade eden sistem aşağıdakilerden hangisidir?**
+    - A-) İşlemek
+    - B-) Kopyalamak
+    - **Cevap C-) Arşivlemek**
+    - D-) Değiştirmek
+    - E-) Yedeklemek
+    ***
+1. **Aşağıdakilerden hangisi sayısal fotoğrafları arşivlemek için tercih edilen bulut depolama sisteminin avantajlarından biri değildir?**
+    - **Cevap A-) Kullanıcının arşiv üzerinde tam kontrolü vardır ve sistemin güvenliği ileri seviyedir.**
+    - B-) İhtiyaç duyulduğu anda belirli bir ücret ödeyerek kapasitesi artırılabilir.
+    - C-) Arşivi yedekleme-depolama imkânı sağlar.
+    - D-) İnternet bağlantısı olduğu sürece dünyanın her yerinden arşive ulaşılabilir.
+    - E-) Bilgisayar, tablet, telefon gibi cihazlardan arşive kolaylıkla ulaşabilir.
+    ***
+1. **Adobe Bridge programı, aşağıda belirtilen hangi işlem için kullanılamaz?**
+    - A-) Görsel dosyaları organize etmek
+    - B-) Dosyaları tek seferde gruplandırmak
+    - C-) Dosyaları arşivlemek
+    - **Cevap D-) Temel renk ayar düzenlemeleri yapmak**
+    - E-) Dosyaları yeniden isimlendirmek
+    ***
+1. **Aşağıdakilerden hangisi sayısal fotoğrafların arşivlenmesi için kullanılan yazılımlardan biri değildir?**
+    - A-) iPhoto
+    - **Cevap B-) Adobe Photoshop**
+    - C-) ACDSee
+    - D-) Extensis Portfolio
+    - E-) Adobe Bridge
+    ***
+1. **Çekim esnasında yaşanabilecek olumsuzlukları engellemek için öncelikli olarak bulundurulması gereken yedek ekipmanlar aşağıdakilerden hangisidir?**
+    - **Cevap A-) Yedek batarya ve hafıza kartları**
+    - B-) Yedek bilgisayarlar
+    - C-) Yedek kablo deklanşör
+    - D-) Yedek flaş diskler
+    - E-) Yedek USB, veri aktarım kablosu
+    ***
+1. **Yazılımsız arşivleme yöntemini tercih eden ve düzenli bir arşiv sistemi oluşturmak isteyen kullanıcılar ile ilgili olarakn aşağıdaki ifadelerden hangisi doğrudur?**
+    - A-) Belirli bir ücret karşılığı edinilebilen bir yöntemdir.
+    - **Cevap B-) Düzenli bir arşiv sistemi oluşturabilmek için klasörleri etkin bir şekilde kullanabilmek şarttır.**
+    - C-) Bu arşiv sistemi ucuz ve kısa sürede oluşturulabilen yöntemdir.
+    - D-) Sadece bilgisayarlar üzerinde oluşturularak verilerin saklandığı bir yöntemdir.
+    - E-) Sadece harddisklerin üzerinde oluşturularak verilerin saklandığı bir yöntemdir.
+    ***
+1. **Fotoğraf makineleri üzerinde Adobe RGB renk uzayı seçeneği hangi durumlarda seçilmelidir?**
+    - A-) Fotoğraflar internet ortamında kullanmak isteniyorsa
+    - B-) Etkin bir arşiv sistemi oluşturmak isteniyorsa
+    - C-) Fotoğraflar herhangi bir müdahale yapılmadan baskıya gönderilecekse
+    - **Cevap D-) Fotoğraflara çekim sonrasında fotoğraf işleme programları ile müdahale edildikten sonra baskıya gönderilecekse**
+    - E-) Siyah beyaz fotoğraflar oluşturmak isteniyorsa
+    ***
+## Unite 10
+1. **Aşağıdaki programlardan hangisi sayısal fotoğraf işleme programı değildir?**
+    - A-) Photoshop
+    - **Cevap B-) Word 4-2**
+    - C-) Lightroom
+    - D-) PhotoScape
+    - E-) Gimp
+    ***
+1. **Aşağıdaki seçeneklerden hangisi Adobe firması tarafından üretilen sayısal fotoğraf işleme programıdır?**
+    - **Cevap A-) Lightroom**
+    - B-) AutoPano Giga
+    - C-) Gimp
+    - D-) Photomatix
+    - E-) PhotoScape
+    ***
+1. **Buna göre aşağıda belirtilen marka ve uzantı ilişkilerinden hangisi doğru değildir?**
+    - A-) Canon - .cr2
+    - B-) Nikon -.nef
+    - **Cevap C-) Samsung - .JPEG**
+    - D-) Leica -.RAW
+    - E-) Fujifilm - .raf
+    ***
+1. **Yüksek dinamik aralık hangi fotoğraf türünü ifade etmektedir?**
+    - A-) Küresel panaromik fotoğraf
+    - B-) Hareketli fotoğraf
+    - C-) Belgesel fotoğraf
+    - **Cevap D-) HDR fotoğraf**
+    - E-) Silindirik panaromik fotoğraf
+    ***
+1. **Aşağıdakilerden hangisi Panaromik fotoğraf oluşturmak için kullanılan bir programdır?**
+    - A-) İllustratör
+    - B-) Corel DRAW
+    - C-) InDesing
+    - D-) Zbrush
+    - **Cevap E-) AutoPano Gig**
+    ***
+1. **Aşağıdakilerden hangisi photoshop programının temel dosya uzantısıdır?**
+    - A-) .jpeg
+    - B-) .pdf
+    - **Cevap C-) .psd**
+    - D-) .raw
+    - E-) .cr2
+    ***
+1. **Aşağıdakilerden hangisi piksel tabanlı bir sayısal fotoğraf işleme programdır?**
+    - A-) MS Power Point
+    - B-) InDesign
+    - C-) Zbrush
+    - **Cevap D-) Adobe Photosop**
+    - E-) 3D Studio Max
+    ***
+1. **Yüksek çözünürlüklü sayısal fotoğraflar üzerinde düzenleme işlemi yapılırken ihtiyaç duyulan bilgisayar sistemleri seçimi için aşağıdakilerden hangisinin önemi yoktur?**
+    - A-) Sabit sürücü hızı
+    - B-) İşlemci hızı
+    - C-) Ram kapasitesi
+    - D-) Ekran boyutu
+    - **Cevap E-) Ethernet kartı**
+    ***
+1. **Aşağıdaki seçeneklerden hangisi sayısal fotoğraf işleme sürecinde kullanılan ekran siperliğinin (hood) kullanım amacını ifade eder?**
+    - **Cevap A-) Ekran üzerindeki yansımaları önlemek**
+    - B-) Renk paleti için yardımcı ekipman olarak kullanmak
+    - C-) Beyaz ayarı yapmak
+    - D-) Çekim aşamasında poz dengesini sağlamak
+    - E-) Ekranın ısınmasını önlemek
+    ***
+1. **Kullanıcılara Photoshop’taki gibi katman tabanlı bir çalışma sistemi sunan program aşağıdakilerden hangisidir?**
+    - A-) Photomatix
+    - B-) InDesign
+    - C-) AutoPano Giga
+    - D-) PhotoScope
+    - **Cevap E-) Gimp**
+    ***
+1. **Aşağıdakilerden hangisi Ligtroom programının 5 temel düzenleme modülünden biri değildir?**
+    - **Cevap A-) Start**
+    - B-) Library
+    - C-) Devolop
+    - D-) Print
+    - E-) SlideShow
+    ***
+1. **Aşağıdakilerden hangisi yüksek çözünürlüklü sayısal fotoğraf çalışmaları yapılırken kullanılacak ekranlar için önemli olan unsurlardan biri değildir?**
+    - A-) Ekran boyutları
+    - **Cevap B-) Ekran kasasının plastik malzemeden olması**
+    - C-) Mat ekran kullanımı
+    - D-) Ekranın kalibre edilmiş olması
+    - E-) Orijinal renk gösterim performansı
+    ***
+1. **Gimp programının dosya uzantısı aşağıdakilerden hangisidir?**
+    - A-) .JPEG
+    - B-) .cr2
+    - **Cevap C-) .xfc**
+    - D-) .RAW
+    - E-) .tiff
+    ***
+1. **Sayısal fotoğraflarda ön görülen düzenlemeler yapılırken, ekran üzerine düşen yansımaları engellemek için kullanılan aparat aşağıdakilerden hangisidir?**
+    - A-) Ekran kartı
+    - B-) Colormetre
+    - **Cevap C-) Siperlik (hood)**
+    - D-) Pozometre
+    - E-) Ayarlanabilir ekran ayağı
+    ***
+1. **RAW formatında bir fotoğraf üzerinde ön görülen düzenlemeler Photoshop programında uygulanmak istendiğinde ilk açılan pencere aşağıdakilerden hangisidir?**
+    - A-) Çalışma alanı
+    - B-) Histogram paneli
+    - C-) Menü çubuğu
+    - **Cevap D-) Camera RAW**
+    - E-) Color paneli
+    ***
+1. **Aşağıdakilerden hangisi sayısal fotoğraf işleme programı Lightroom’un özelliklerinden biri değildir?**
+    - A-) Sayısal fotoğraflar üzerinde ışık düzenlemelerinin yapılması
+    - B-) Sayısal fotoğraflar üzerinde renk düzenlemelerinin yapılması
+    - C-) Sayısal fotoğraflar üzerinde istenmeyen pürüzlerin giderilmesi
+    - D-) Sayısal fotoğrafları yeniden croplaması
+    - **Cevap E-) Sayısal fotoğraflara müdahale konusunda oldukça sınırlı olması**
+    ***
+1. **Genellikle profesyonel fotoğrafçıların tercih ettiği, analog dönemdeki karanlık odada henüz işlenmemiş film negatifine benzetilen, dijital negatif olarak da adlandırılan dosya türü a****şağıdakilerden hangisidir?**
+    - A-) .jpeg
+    - **Cevap B-) .raw**
+    - C-) .tiff
+    - D-) .pdf
+    - E-) .png
+    ***
+1. **Geniş alanların (360 derece açıların dahi) görüntülenebilmesini sağlayan, çeşitli sayısal fotoğraf işleme programları ile birden fazla fotoğrafın birleştirildiği fotoğraf tekniği aşağıdakilerden hangisidir?**
+    - **Cevap A-) Panoramik fotoğraf**
+    - B-) HDR fotoğraf
+    - C-) Mimari fotoğraf
+    - D-) Belgesel fotoğraf
+    - E-) Kurgusal fotoğraf
+    ***
+1. **Photoshop programı eklentisi olarak kullanılan Camera RAW ile sayısal fotoğraflar üzerinde aşağıdaki işlemlerin hangisi yapılamaz?**
+    - A-) Pozlama ayarı
+    - B-) Kontrast ayarı
+    - C-) Beyaz ayarı
+    - **Cevap D-) Katman (layer) ayarı**
+    - E-) Renk doygunluk ayarı
+    ***
+## Unite 11
+1. **Aşağıdakilerden hangisi Photoshop programının “tercihler” menüsünü açan komuttur?**
+    - **Cevap A-) Photoshop / Preferences / General**
+    - B-) Photoshop / Preferences / New
+    - C-) Photoshop / Preferences / Open
+    - D-) Photoshop / Preferences / Save
+    - E-) Photoshop / Preferences / Save as
+    ***
+1. **Photoshop’ta yeni doküman açmak için hangi komut kullanılır?**
+    - A-) Select / Inverse
+    - B-) Layer/ New
+    - C-) File / Save As
+    - D-) Edit / Copy
+    - **Cevap E-) File / New Document**
+    ***
+1. **Photoshop’ta aşağıdaki seçeneklerin hangisinde belirtilen müdahaleler”Edit” menüsünün komutları ile yapılmaktadır?**
+    - A-) Görseli farklı kaydetmek
+    - **Cevap B-) Görsele çerçeve eklemek**
+    - C-) Görsele filtre uygulamak
+    - D-) Görseli siyah beyaza çevirmek
+    - E-) Program tercihlerini ayarlamak
+    ***
+1. **Renkli bir görseli, renk değerleri bozulmadan siyah beyaza çevirebilmek için aşağıdaki komutlardan hangisi seçilmelidir?**
+    - A-) layer / Adjustments / Rasterize
+    - B-) İmage / Adjustments / Duplicate
+    - **Cevap C-) İmage / Adjustments / Black & White**
+    - D-) layer / Adjustments / Layer Mask
+    - E-) İmage / Adjustments / Image Size
+    ***
+1. **Metinleri düzenleyen komutları içeren photoshop menüsü aşağıdakilerden hangisidir?**
+    - **Cevap A-) Type menüsü**
+    - B-) 3D menüsü
+    - C-) Layer menüsü
+    - D-) View menüsü
+    - E-) Help menüsü
+    ***
+1. **Photoshop’ta “Select” menüsünde bulunan “Inverse” komutunun işlevi aşağıdaki seçeneklerin hangisinde doğru olarak belirtilmiştir?**
+    - A-) Görselin tamamını seçili hâle getirmek için kullanılır.
+    - B-) Seçim alanını, 3D bir nesne üzerine materyal olarak atar.
+    - C-) Saç, tüy gibi görseller üzerinde ayrıntılı seçim yaparak, istenilen alanlara ayrıntılı ve kolay müdahale etmek için kullanılır.
+    - **Cevap D-) Seçili alan seçimden çıkarılır ve seçili olmayan kısmın tamamı seçili hâle getirilir.**
+    - E-) Seçim alanına fare yardımı ile perspektif, bükme, büyültme-küçültme işlemleri uygulamak için kullanılır.
+    ***
+1. **Photoshop programında açık olan görseli, tekrar “Camera Raw” penceresinde açmak ve Camera Raw seçenekleri ile tekrar müdahale etmek için aşağıdaki komutlardan hangisi kullanılır?**
+    - A-) Last Filter
+    - B-) Sharpen Filtreleri
+    - C-) Liquify
+    - D-) Lens Correction
+    - **Cevap E-) Camera Raw Filters**
+    ***
+1. **Photoshop'ta çalışma esnasında görsellere yapılan müdahaleleri adım adım kaydederek daha sonra kaydedilen bu müdahalelere geri dönüp yapılan değişiklikleri iptal etme olanağı sunan panel aşağıdakilerden hangisidir?**
+    - **Cevap A-) History paneli**
+    - B-) Karakter paneli
+    - C-) Histogram paneli
+    - D-) Color paneli
+    - E-) Adjusments paneli
+    ***
+1. **Kontrol panelinin içeriği aşağıdaki seçeneklerin hangisinde doğru olarak belirtilmiştir?**
+    - A-) Tüm panellerin renk seçenekleri
+    - B-) Programın yardım seçenekleri
+    - C-) Tüm yardımcı pencereler
+    - **Cevap D-) Seçili olan aracın seçenekleri**
+    - E-) Programla ilgili tüm kısa yollar
+    ***
+1. **Photoshop’ta doküman üzerinde yapılan müdahaleler, farklı bir konumda ya da farklı bir isimle kaydetmek için hangi kısa yol kullanılır?**
+    - A-) Control + Z
+    - **Cevap B-) Control + Shift + S**
+    - C-) Control + A
+    - D-) Alt + Control + W
+    - E-) Control + X
+    ***
+1. **Photoshop programı, “tercihler” menüsünde bulunan komutları ile aşağıdakilerden hangisi gerçekleştirilmez?**
+    - A-) Genel görüntüleme seçenekleri
+    - B-) Dosya kaydetme seçenekleri
+    - C-) Menü saydamlık seçenekleri
+    - D-) Yazım seçenekleri
+    - **Cevap E-) Ekran kalibrasyon seçenekleri**
+    ***
+1. **Aşağıdakilerden hangisi Photoshop menü çubuğunda bulunan menülerden biridir?**
+    - A-) Library menüsü
+    - **Cevap B-) Layer menüsü**
+    - C-) Devolop menüsü
+    - D-) SlideShow menüsü
+    - E-) Print menüsü
+    ***
+1. **Photoshop programında aşağıdaki komutlardan hangisi “file” menüsü içeriğindeki komutlar ile gerçekleştirilemez?**
+    - A-) Mevcut bir belgeyi açmak
+    - B-) Mevcut projeyi varsayılan dosya biçiminde kaydetmek
+    - C-) Mevcut projeyi farklı bir konumda kaydetmek
+    - D-) Mevcut projeyi kapatmak
+    - **Cevap E-) Mevcut projeye filtre uygulamak**
+    ***
+1. **Aşağıda belirtilen “Photoshop / Edit / Transform” menüsü içeriğindeki komutlardan hangisinin görevi yanlıştır?**
+    - A-) Rotate, seçili alanı/dokümanı döndürmek için kullanılır.
+    - B-) Perspective, seçili alana/dokümana perspektif düzenlemeleri yapmak için kullanılır.
+    - C-) Rotate 180, dokümanı 180 derece döndürmek için kullanılır.
+    - **Cevap D-) Warp: PDF (Taşınabilir Dosya Formatı) ayarlarını yapmak için kullanılır.**
+    - E-) Rotate 90 Clockwise, dokümanı saat yönünde 90 derece döndürmek için kullanılır.
+    ***
+1. **Photoshop programında görseller üzerinde ayrıntılı renk ve ton düzenlemelerinin yapıldığı menü aşağıdakilerden hangisidir?**
+    - **Cevap A-) Image menüsü**
+    - B-) Select menüsü
+    - C-) Type menüsü
+    - D-) Window menüsü
+    - E-) File menüsü
+    ***
+1. **Photoshop’ta çalışmanın boyutlarını değiştirmek için kullanılan komut aşağıdakilerden hangisidir?**
+    - A-) View / Proof Setup
+    - **Cevap B-) Image / Image Size**
+    - C-) Edit / Transform
+    - D-) Select / Inverse
+    - E-) Edit / Copy
+    ***
+1. **Photoshop’ta kamera objektifinden kaynaklanan perspektif hatalarını düzeltmek için kullanılan komut penceresi aşağıdakilerden hangisidir?**
+    - A-) Sharpen Filter
+    - B-) Liquify
+    - C-) Canvas Filter
+    - D-) Last Filter
+    - **Cevap E-) Lens Correction**
+    ***
+1. **Photoshop programında görseller üzerinde çeşitli görünümler elde etmek için kullanılan efektlerin bulunduğu menü aşağıdakilerden hangisidir?**
+    - A-) Image menüsü
+    - B-) File menüsü
+    - C-) Devolop menüsü
+    - D-) Select menüsü
+    - **Cevap E-) Filter menüsü**
+    ***
+1. **Photoshop’ta çalışılan görsel ya da tasarım üzerindeki katmanların, ayrı ayrı izlenebilmesini ve gerekli görülen ayarların uygulanabilmesini sağlayan panel aşağıdakilerden hangisidir?**
+    - **Cevap A-) Layers paneli**
+    - B-) Karakter paneli
+    - C-) Histogram paneli
+    - D-) Color paneli
+    - E-) Adjusments paneli
+    ***
+1. **Photoshop’ta “Control + S” kısayol komutunun işlevi aşağıdakilerin hangisidir?**
+    - A-) Seçimin tersini seç
+    - B-) Adım adım ileri al
+    - **Cevap C-) Değişiklikleri kaydet**
+    - D-) Tümünü seç
+    - E-) Görüntüyü %100 büyüt
+    ***
+## Unite 12
+1. **Aşağıdakilerden hangisi boya renklerinde iki ana rengin eşit oranlarda karıştırılmasıyla oluşan bir ara renktir?**
+    - A-) Kırmızı
+    - B-) Sarı
+    - C-) Mavi
+    - **Cevap D-) Yeşil**
+    - E-) Siyah
+    ***
+1. **Beyaz ışığın prizmadan geçirilmesiyle oluşan kırılmada hangi renkler görülebilir?**
+    - **Cevap A-) Kırmızı, Turuncu, Sarı, Yeşil, Mavi ve Mor**
+    - B-) Turuncu, Sarı, Yeşil, Mavi ve Mor
+    - C-) Sarı, Yeşil, Mavi ve Mor
+    - D-) Beyaz, Siyah, Sarı, Yeşil, Mavi ve Mor
+    - E-) Yeşil, Mavi ve Mor
+    ***
+1. **5500K değerinin altındaki renk sıcaklığı değerlerinde bulunan ışık, hangi renkleri içermeye başlar?**
+    - A-) Mavi ve Tonlarını
+    - B-) Yeşil ve Tonlarını
+    - C-) Yeşil, Mavi ve Mor Renkleri
+    - D-) Kırmızı, Yeşil ve Mavi Renkleri
+    - **Cevap E-) Sarı, Turuncu ve Kırmızı Renkleri**
+    ***
+1. **Aşağıdakilerden hangisi doğal ışık kaynağıdır?**
+    - A-) Mum ışığı
+    - B-) Tungsten ampul
+    - C-) Flaş ışığı
+    - D-) Floresan
+    - **Cevap E-) Ay ışığı**
+    ***
+1. **Aşağıdakilerden hangisi renk sentezlerinin kullanım amaçlarından biri değildir?**
+    - A-) Renklerin tonlarını tanımlamak
+    - B-) Evrensel bir standartta renkleri tanımlamak
+    - C-) Bir anlamda renklerin sınıflandırmasını ve kataloglanmasını sağlamak
+    - **Cevap D-) Renklerin kişiden kişiye farklılık göstermesini sağlamak**
+    - E-) Renkleri doğru olarak göstermek
+    ***
+1. **RGB renk sisteminin kısaltmasında bulunan "G" harfi hangi rengi temsil etmektedir?**
+    - A-) Kırmızı
+    - B-) Sarı
+    - **Cevap C-) Yeşil**
+    - D-) Siyah
+    - E-) Mavi
+    ***
+1. **RGB renk sistemindeki üç ana rengin eşit oranlarda birleşiminden hangi renk oluşmaktadır?**
+    - A-) Kırmızı
+    - **Cevap B-) Beyaz**
+    - C-) Yeşil
+    - D-) Siyah
+    - E-) Mavi
+    ***
+1. **CMYK renk sisteminin isminde bulunan K harfi, hangi rengi temsil etmektedir?**
+    - A-) Kırmızı
+    - **Cevap B-) Key/anahtar rengi**
+    - C-) Koyu renkler
+    - D-) Beyaz
+    - E-) Kobalt rengi
+    ***
+1. **CMYK renklerinin her biri için %0 ile %100 arasında değişen değerler kullanıldığında, beyazın alacağı değerler aşağıdakilerden hangisidir?**
+    - A-) C%10, M%10, Y%10, K%10
+    - B-) C%100, M%100, Y%100, K%100
+    - **Cevap C-) C%0, M%0, Y%0, K%0**
+    - D-) C%50, M%50, Y%50, K%50
+    - E-) C%25, M%25, Y%25, K%25
+    ***
+1. **Aşağıdakilerden hangisi RGB renk modeline dayalı renk alanlarından biridir?**
+    - **Cevap A-) Adobe RGB**
+    - B-) CMYK
+    - C-) CIE L\*a\*b
+    - D-) CIE XYZ
+    - E-) CIE L\*C\*H\*
+    ***
+1. **Aşağıdakilerden hangisi boya renklerinde sınıflandırılan ana renklerden biridir?**
+    - A-) Turuncu
+    - B-) Kahverengi
+    - C-) Mor
+    - **Cevap D-) Kırmızı**
+    - E-) Siyah
+    ***
+1. **I.** Kırmızı<br />II. Turuncu<br />III. Sarı<br />IV. Yeşil<br />**Yukarıdakilerden hangisi ya da hangileri renk tayfında yer alır?**
+    - A-) I ve II
+    - B-) III ve IV
+    - C-) Yalnız III
+    - **Cevap D-) I, II, III ve IV**
+    - E-) I, III ve IV
+    ***
+1. **Aşağıdakilerden hangisi rengin oluşabilmesi /görülebilmesi için gerekli olan ana unsurlardan biridir?**
+    - A-) Mercek
+    - **Cevap B-) Işık kaynağı**
+    - C-) Objektif
+    - D-) Filtre
+    - E-) Renk paleti
+    ***
+1. **Adını William Thompson’ın soyadından alan renk sıcaklığı ölçü birimi aşağıdakilerden hangisidir?**
+    - **Cevap A-) Kelvin**
+    - B-) Kalori
+    - C-) Derece
+    - D-) İnç
+    - E-) Paskal
+    ***
+1. **Kelvin cinsinden doğal gün ışığının standart renk sıcaklığı aşağıdakilerden hangisidir?**
+    - A-) 2000K
+    - B-) 2500K
+    - C-) 3500K
+    - **Cevap D-) 5500K**
+    - E-) 7500K
+    ***
+1. **Renk sentezlerinin / modellerinin renkleri tanımlamak için kullandığı üç ana unsur aşağıdakilerden hangisinde doğru verilmiştir?**
+    - **Cevap A-) Renk türü / doygunluk / parlaklık**
+    - B-) Renk türü / prizma / doygunluk
+    - C-) Renk türü / doygunluk / gramaj
+    - D-) Saflık / doygunluk / matlık
+    - E-) Saflık / doygunluk / siyah miktarı
+    ***
+1. **Aşağıdakilerden hangisi cihaz bağımlı renk modellerinin özellikleri arasında yer almaz?**
+    - A-) Cihaz bağımlı renk modellerindeki renk alanları değişmez ve sabittir.
+    - B-) Cihaz bağımlı renk modelleri CIE L\*a\*b renk modeli gibi renk modellerini içerir.
+    - **Cevap C-) Cihaz bağımlı renk modelleri CIE XYZ gibi renk modellerini içerir.**
+    - D-) Cihaz bağımlı renk modelleri CMYK, RGB gibi renk modellerini içerir.
+    - E-) Cihaz bağımlı renk modellerindeki renk alanları, kullanılan cihazlara göre değişmez.
+    ***
+1. **Aşağıdaki özelliklerden hangisi toplamsal renk sentezinin özelliklerinden biri değildir?**
+    - A-) Toplamsal renk modelinde renkler eklenir ve toplanır.
+    - B-) Işıksal renk sentezi olarak da ifade edilir.
+    - **Cevap C-) Toplamsal renk sentezinde renkler birbirlerinden çıkarılır.**
+    - D-) Toplamsal renk sentezinin ana renkleri kırmızı, mavi ve yeşilden oluşur.
+    - E-) Toplamsal renk sentezi RGB olarak isimlendirilir.
+    ***
+1. **Aşağıdakilerden hangisi çıkarımsal renk sentezini ifade eder?**
+    - A-) RGB
+    - **Cevap B-) CMYK**
+    - C-) CIE L\*a\*b
+    - D-) CIE XYZ
+    - E-) sRGB
+    ***
+1. **Aşağıdakilerden hangisi CMYK renk sentezinin kullandığı renklerdendir?**
+    - A-) Cyan/Mavi/Yeşil/Kırmızı
+    - **Cevap B-) Cyan/Magenta/Sarı/Siyah**
+    - C-) Cyan/Magenta/Sarı/Kırmızı
+    - D-) Cyan/Magenta/Yeşil/Kırmızı
+    - E-) Cyan/Mavi/Yeşil/Kahverengi
+    ***
+## Unite 13
+1. **Renk yönetiminin uygulanmasındaki en önemli neden aşağıdakilerden hangisidir?**
+    - A-) Görüntüyü daha çekici hâle getirmek
+    - B-) Fotoğrafları daha kolay arşivleyebilmek
+    - C-) Görüntünün bilgisayarda kapladığı alanı-dosya boyutunu artırmak
+    - D-) Fotoğrafların bilgisayardan harddisklere aktarılmasını kolaylaştırmak
+    - **Cevap E-) Fotoğrafı en doğru renklerle dijital ortama taşımak veya aslına sadık kalarak baskısını almak**
+    ***
+1. **Aşağıdakilerden hangisi görülebilir renk spektrumunda daha geniş bir renk alanına sahiptir?**
+    - **Cevap A-) Film**
+    - B-) Projektör
+    - C-) Tarayıcı
+    - D-) Monitör
+    - E-) Yazıcı
+    ***
+1. **Aşağıdakilerden hangisi fotoğraf makinelerinde bulunan beyaz ayarı özelliğinin kullanım amacıdır?**
+    - **Cevap A-) Beyaz ayarı, renklerin sapmadan, doğru olarak algılanmasını sağlar.**
+    - B-) Beyaz ayarı, fotoğraf çekimleri sırasında diyafram kontrolünü sağlar.
+    - C-) Beyaz ayarı, yakın çekim modu için kullanılır.
+    - D-) Beyaz ayarı, perspektif düzenleme için kullanılır.
+    - E-) Beyaz ayarı, beyaz arka planlı fotoğraflarda kullanılır.
+    ***
+1. **Aşağıdakilerin hangisinde fotoğraf makinelerinde bulunan beyaz ayarı seçeneklerinin kullanımı yanlıştır?**
+    - A-) Beyaz ayarında bulunan bulutlu seçeneği kapalı havalarda tercih edilir.
+    - B-) Beyaz ayarında bulunan flaş seçeneği flaş kullanımında tercih edilir.
+    - C-) Beyaz ayarında bulunan gün ışığı seçeneği açık havada tercih edilir.
+    - D-) Beyaz ayarında bulunan otomatik seçeneği beyaz ayarını fotoğraf makinesinin yapması için tercih edilir.
+    - **Cevap E-) Beyaz ayarında bulunan Floresan seçeneği tungsten sarı ampullerle aydınlatılan ortamlarda tercih edilir.**
+    ***
+1. **Renk yönetimi iş akışı içinde, monitörde yapılacak bir fotoğraf çalışması için aşağıdakilerden hangisinin düzenlenmesine veya yapılmasına gerek duyulmaz?**
+    - A-) Monitör kalibrasyonun yapılması
+    - B-) Monitörün bulunduğu odanın duvar renklerinin dikkate alınması
+    - C-) Monitörün bulunduğu odanın ışıklandırma koşulları
+    - **Cevap D-) Monitörde çalışılacak fotoğrafın keskinliğinin artırılması**
+    - E-) Monitörün aydınlık seviyesinin kontrolü
+    ***
+1. **Bir monitörün kalibrasyonu yapılırken, kalibrasyon için kullanılan colormetrenin (renkölçerin) nerede durması gerekmektedir?**
+    - A-) Monitörün altında
+    - **Cevap B-) Monitörün tam ortasında ve ekrana tam olarak yapışmış olarak**
+    - C-) Monitörün yaklaşık 20 cm uzağında
+    - D-) Monitörün sağ üst köşesinde
+    - E-) Monitörün sol alt köşesinde
+    ***
+1. **Bir monitörün kalibrasyonunu yapmak için kullanılacak cihaz / donanım aşağıdakilerden hangisidir?**
+    - A-) Renk paleti
+    - **Cevap B-) Colormetre (renkölçer)**
+    - C-) Pozometre
+    - D-) Başka bir bilgisayar
+    - E-) Başka bir monitör
+    ***
+1. **Kalibrasyon için kullanılan colormetre cihazları / donanımları aşağıdaki işlemlerden hangisini gerçekleştirir?**
+    - A-) Monitörün yaydığı zararlı ışığı önler.
+    - B-) Monitörün hız performansını ölçer.
+    - C-) Monitörün kullanım süresini hesaplar.
+    - **Cevap D-) Monitör üzerinden renk ölçümleri yapar.**
+    - E-) Monitörün fazla ısınmasını önler.
+    ***
+1. **Monitör kalibrasyonunun hangi aralıklarla yapılması önerilir?**
+    - A-) Yılda bir kez
+    - B-) İki yılda bir
+    - **Cevap C-) Ayda bir iki kez**
+    - D-) Altı ayda bir
+    - E-) Sadece bir kez yapılması yeterli
+    ***
+1. **Aşağıdakilerden hangisi monitör kalibrasyonunda öncelikli ve ilk olarak yapılması gereken bir işlemdir?**
+    - A-) Colormetrenin monitöre yerleştirilmesi
+    - B-) Colormetrenin monitörün renklerini ölçmesi
+    - **Cevap C-) Monitörün kalibrasyon işleminden en az yarım saat önce açılıp ısıtılması**
+    - D-) Bilgisayara kurulan, colormetre programının açılması
+    - E-) Bilgisayara kurulan, colormetre programı ile kalibrasyonun başlatılması
+    ***
+## Unite 14
+1. **Aşağıdakilerden hangisi boya renklerinde iki ana rengin eşit oranlarda karıştırılmasıyla oluşan bir ara renktir?**
+    - A-) Kırmızı
+    - B-) Sarı
+    - C-) Mavi
+    - **Cevap D-) Yeşil**
+    - E-) Siyah
+    ***
+1. **Beyaz ışığın prizmadan geçirilmesiyle oluşan kırılmada hangi renkler görülebilir?**
+    - **Cevap A-) Kırmızı, turuncu, sarı, yeşil, mavi ve mor**
+    - B-) Turuncu, sarı, yeşil, mavi ve mor
+    - C-) Sarı, yeşil, mavi ve mor
+    - D-) Beyaz, siyah, sarı, yeşil, mavi ve mor
+    - E-) Yeşil, mavi ve mor
+    ***
+1. **Aşağıdakilerden hangisi renk sentezlerinin kullanım amaçlarından biri değildir?**
+    - A-) Renklerin tonlarını tanımlamak
+    - B-) Evrensel bir standartta renkleri tanımlamak
+    - C-) Bir anlamda renklerin sınıflandırmasını ve kataloglanmasını sağlamak
+    - **Cevap D-) Renklerin kişiden kişiye farklılık göstermesini sağlamak**
+    - E-) Renkleri doğru olarak göstermek
+    ***
+1. **RGB renk sisteminin kısaltmasında bulunan ‘G’ harfi hangi rengi temsil etmektedir?**
+    - A-) Kırmızı
+    - B-) Sarı
+    - **Cevap C-) Yeşil**
+    - D-) Siyah
+    - E-) Mavi
+    ***
+1. **RGB renk sistemindeki üç ana rengin eşit oranlarda birleşiminden hangi renk oluşmaktadır?**
+    - A-) Kırmızı
+    - **Cevap B-) Beyaz**
+    - C-) Yeşil
+    - D-) Siyah
+    - E-) Mavi
+    ***
+1. **CMYK renk sisteminin isminde bulunan K harfi, hangi rengi temsil etmektedir?**
+    - A-) Kırmızı
+    - **Cevap B-) Key/anahtar rengi**
+    - C-) Koyu renkler
+    - D-) Beyaz
+    - E-) Kobalt rengi
+    ***
+1. **CMYK renklerinin her biri için %0 ile %100 arasında değişen değerler kullanıldığında, beyazın alacağı değerler aşağıdakilerden hangisidir?**
+    - A-) C%10, M%10, Y%10, K%10
+    - B-) C%100, M%100, Y%100, K%100
+    - **Cevap C-) C%0, M%0, Y%0, K%0**
+    - D-) C%50, M%50, Y%50, K%50
+    - E-) C%25, M%25, Y%25, K%25
+    ***
+1. **Aşağıdakilerden hangisi RGB renk modeline dayalı renk alanlarındandır?**
+    - **Cevap A-) Adobe RGB**
+    - B-) CMYK
+    - C-) CIE L\*a\*b
+    - D-) CIE XYZ
+    - E-) CIE L\*C\*H\*
+    ***
+1. **İnç başına düşen piksel sayısı aşağıdaki terimlerden hangisi ile ifade edilir?**
+    - A-) DPI
+    - **Cevap B-) PPI**
+    - C-) Piksel
+    - D-) RGB
+    - E-) CMYK
+    ***
+1. **Aşağıdaki DPI değerlerinden hangisi standart baskı değeri olarak kabul edilir?**
+    - A-) 72 DPI
+    - B-) 500 DPI
+    - **Cevap C-) 300 DPI**
+    - D-) 100 DPI
+    - E-) 200 DPI
+    ***
+1. **Aşağıdakilerden hangisi mürekkep püskürtmeli bir yazıcının baskıda kullandığı mürekkep renklerinden biri değildir?**
+    - A-) Cyan
+    - B-) Megenta
+    - **Cevap C-) Yeşil**
+    - D-) Sarı
+    - E-) Siyah
+    ***
+1. **Aşağıdaki yazıcı türlerinden hangisinde mürekkep yerine toner kullanılır?**
+    - **Cevap A-) Lazer yazıcı**
+    - B-) Termal yazıcı
+    - C-) Piezo yazıcı
+    - D-) Katı mürekkepli yazıcı
+    - E-) Nokta vuruşlu yazıcı
+    ***
+1. **Görüntüler A4 boyutunda, hızlı bir şekilde ve çok sayıda kopyalar hâlinde alınması gerektiğinde aşağıdaki yazıcılardan hangisi tercih edilmelidir?**
+    - A-) Nokta vuruşlu yazıcı
+    - **Cevap B-) Lazer yazıcı**
+    - C-) Piezo yazıcı
+    - D-) Katı mürekkepli yazıcı
+    - E-) Termal yazıcı
+    ***
+1. **Geniş format yazıcıların baskı boyutu genel olarak en az kaç inç’dir?**
+    - A-) 40 inç
+    - **Cevap B-) 24 inç**
+    - C-) 15 inç
+    - D-) 90 inç
+    - E-) 10 inç
+    ***
+1. **Aşağıdakilerden hangisi mürekkep püskürtmeli masaüstü yazıcılarda bulunan özelliklerden biri değildir?**
+    - **Cevap A-) Çok büyük ebatlarda kâğıda baskı alması**
+    - B-) Farklı marka model çeşitliliği
+    - C-) Ev kullanımı için uygunluğu
+    - D-) Daha az yer kaplaması
+    - E-) Yeterli kalitede baskı alınabilmesi
+    ***
+1. **Mürekkep püskürtmeli bir yazıcıda, yeterli kalitede bir baskı alınabilmesi için yazıcının en az kaç mürekkepli olması önerilir?**
+    - A-) 2
+    - B-) 3
+    - C-) 5
+    - D-) 4
+    - **Cevap E-) 6**
+    ***
+1. **Mürekkep püskürtmeli bir yazıcıdan yeterli kalitede bir baskı almak için aşağıdaki özelliklerden hangisine gerek duyulmaz?**
+    - A-) Yazıcı çözünürlüğü
+    - B-) Yazıcının kullandığı renk sayısı
+    - C-) Yazıcının püskürttüğü mürekkep damlacığı sayısı
+    - **Cevap D-) Yazıcının ağırlığı**
+    - E-) Kullanılan kâğıdın özellikleri
     ***

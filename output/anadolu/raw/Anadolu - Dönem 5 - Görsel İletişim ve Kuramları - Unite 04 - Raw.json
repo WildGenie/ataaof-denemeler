@@ -13,7 +13,7 @@
         "E": "<p>obje</p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 1
+        "QuestionNumber": 2
     },
     {
         "QuestionId": 3603444,
@@ -29,7 +29,7 @@
         "E": "<p>Kültürün</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 2
+        "QuestionNumber": 5
     },
     {
         "QuestionId": 3603445,
@@ -45,23 +45,7 @@
         "E": "<p>Yapaylık</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 3
-    },
-    {
-        "QuestionId": 3603447,
-        "UniteNo": 4,
-        "PageNumber": 88,
-        "AnswerExplanation": "<p>İmge bir kavramın, bir duygunun, bir düşüncenin ya da bir nesnenin zihindeki tasarımı, hayalidir</p>",
-        "Title": "<p>İmge bir kavramın, bir duygunun, bir düşüncenin ya da bir nesnenin zihindeki tasarımı, hayalidir</p>",
-        "Text": "<p>Bir kavramın, bir duygunun, bir düşüncenin ya da bir nesnenin zihindeki tasarımı, hayaline ne denir?</p>",
-        "A": "<p>Obje</p>",
-        "B": "<p>Biçim</p>",
-        "C": "<p>İmge</p>",
-        "D": "<p>Tanım</p>",
-        "E": "<p>Kurgu</p>",
-        "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "QuestionNumber": 6
     },
     {
         "QuestionId": 3603448,
@@ -77,7 +61,23 @@
         "E": "<p>Retorik</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 6
+        "QuestionNumber": 9
+    },
+    {
+        "QuestionId": 3603449,
+        "UniteNo": 4,
+        "PageNumber": 93,
+        "AnswerExplanation": "<p>Afiş ve kitap tasarımlarıdır.</p>",
+        "Title": "<p>Grafik tasarımında en yaratıcı alanlardan ikisi hiç şüphesiz afiş ve kitap tasarımlarıdır. Tasarımcılar<br />özellikle resim sanatından ve sanat akımlarından etkilenmiş hatta bazı önemli ressamlar, sanat sanat içindir<br />mottosuna karşı çıkarak afiş ya da kitap kapağı tasarımı da yapmışlardır.</p>",
+        "Text": "<p>Teknolojik gelişmelerden önce ve sonrasındaki süreçte, grafik tasarımında en yaratıcı alanlar olarak etkisi güçlü olan gösterme yöntemleri aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Sinema ve resim</p>",
+        "B": "<p>Sesler ve sinema</p>",
+        "C": "<p>Resimler ve sanatçılar</p>",
+        "D": "<p>Davetiye ve bilet tasarımları</p>",
+        "E": "<p>Afiş ve kitap tasarımlarıdır.</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 10
     },
     {
         "QuestionId": 3603577,
@@ -93,7 +93,7 @@
         "E": "<p>Görünen dünya ile ilgilenir</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 8
+        "QuestionNumber": 6
     },
     {
         "QuestionId": 3603580,
@@ -109,7 +109,7 @@
         "E": "<p>İkaz, uyarı levhaları </p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 10
+        "QuestionNumber": 12
     },
     {
         "QuestionId": 3603581,
@@ -125,21 +125,21 @@
         "E": "<p>İçinde yaşadığı coğrafi koşullar</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 11
+        "QuestionNumber": 13
     },
     {
-        "QuestionId": 3603583,
+        "QuestionId": 3603582,
         "UniteNo": 4,
-        "PageNumber": 83,
-        "AnswerExplanation": "<p>İçerik</p>",
+        "PageNumber": 84,
+        "AnswerExplanation": "<p>Barthes</p>",
         "Title": "",
-        "Text": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Göstergebilimde \"gösterilen\" aşağıdaki kavramlardan hangisiyle doğrudan ilişkilidir?</span></span></p>",
-        "A": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Söz</span></span></p>",
-        "B": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">İçerik</span></span></p>",
-        "C": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Biçim</span></span></p>",
-        "D": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Görüntü</span></span></p>",
-        "E": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Tasarım</span></span></p>",
-        "CorrectAnswer": "B",
+        "Text": "<p>Düz anlamı, göstergenin \"neyi\" temsil ettiği, yan anlamı ise \"nasıl\" temsil ettiği şeklinde açıklayan düşünür aşağıdaki seçeneklerden hangisidir?</p>",
+        "A": "<p>Barthes</p>",
+        "B": "<p>Fiske</p>",
+        "C": "<p>Saussure</p>",
+        "D": "<p>Pierce</p>",
+        "E": "<p>Bacon</p>",
+        "CorrectAnswer": "A",
         "UserAnswer": null,
         "QuestionNumber": 12
     },
@@ -157,7 +157,7 @@
         "E": "<p>Edimsel boyut</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 13
+        "QuestionNumber": 12
     },
     {
         "QuestionId": 3603585,
@@ -173,7 +173,7 @@
         "E": "<p>Kod </p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 11
+        "QuestionNumber": 13
     },
     {
         "QuestionId": 3603586,
@@ -208,22 +208,6 @@
         "QuestionNumber": 14
     },
     {
-        "QuestionId": 3603616,
-        "UniteNo": 4,
-        "PageNumber": 82,
-        "AnswerExplanation": "<p>Pierce göstergeyi 3 kategoride açıklar ve belirtilen tanımlama birinci kategoridir.</p>",
-        "Title": "",
-        "Text": "<p>Pierce göstergeyi birkaç kategoride açıklamıştır. Farklı bir şeye göndermede bulunmaksızın var olanlar hangi kategoridedir?</p>",
-        "A": "<p>1</p>",
-        "B": "<p>2</p>",
-        "C": "<p>3</p>",
-        "D": "<p>4</p>",
-        "E": "<p>5</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
-    },
-    {
         "QuestionId": 3603617,
         "UniteNo": 4,
         "PageNumber": 82,
@@ -237,7 +221,7 @@
         "E": "<p>5</p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 14
+        "QuestionNumber": 15
     },
     {
         "QuestionId": 3603619,
@@ -253,7 +237,7 @@
         "E": "<p>Değişken</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 15
+        "QuestionNumber": 16
     },
     {
         "QuestionId": 3603620,
@@ -269,7 +253,7 @@
         "E": "<p>İşitsel/Görsel</p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 16
+        "QuestionNumber": 17
     },
     {
         "QuestionId": 3603621,
@@ -285,23 +269,39 @@
         "E": "<p>Gösteri</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 17
+        "QuestionNumber": 18
     },
     {
-        "QuestionId": 3603622,
+        "QuestionId": 3603623,
         "UniteNo": 4,
-        "PageNumber": 84,
-        "AnswerExplanation": "<p>Anlam yorumlayandan bağımsız değildir. Doğru yanıt B dir.</p>",
+        "PageNumber": 87,
+        "AnswerExplanation": "<p>Kodlar, sosyal, metinsel ve yorumlama kodları olmak üzere üçe ayrılır. Doğru yanıt A dır.</p>",
         "Title": "",
-        "Text": "<p>\"Anlam .................... bağımsız değildir\"</p> <p>Yukarıdaki ifadede boşluğa aşağıdakilerden hangisi  gelmelidir.</p>",
-        "A": "<p>Teknolojiden</p>",
-        "B": "<p>Yorumlayandan</p>",
-        "C": "<p>Fizik kanunlarından</p>",
-        "D": "<p>Matematik denklemlerden</p>",
-        "E": "<p>Algoritmik manipulasyondan</p>",
-        "CorrectAnswer": "B",
+        "Text": "<p>Fiske'nin anlamlandırma sistemi dediği kodlar üçe ayrılır. Aşağıdakilerden hangisi doğru üçlüyü ifade eder?</p>",
+        "A": "<p>Sosyal, metinsel, yorumlama</p>",
+        "B": "<p>Sanal, metinsel, kişisel</p>",
+        "C": "<p>Kişisel, sanatsal, metinsel</p>",
+        "D": "<p>Metinsel, bireysel, imgesel</p>",
+        "E": "<p>İmgesel, sosyal, kuramsal</p>",
+        "CorrectAnswer": "A",
         "UserAnswer": null,
         "QuestionNumber": 18
+    },
+    {
+        "QuestionId": 3603624,
+        "UniteNo": 4,
+        "PageNumber": 89,
+        "AnswerExplanation": "<p>Mitlerin temel dört işlevinden biri evrenin gizemlerine karşı imge oluşturmasıdır. Doğru yanıt A dır.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi mitlerin temel dört işlevinden biridir?</p>",
+        "A": "<p>Evrenin gizemlerine karşı imge oluşturması</p>",
+        "B": "<p>Doğal afetlere karşı denge unsuru olması</p>",
+        "C": "<p>Ekonominin düzenli işleyişini sağlaması</p>",
+        "D": "<p>Siyasetin etik kurallarını belirlemesi</p>",
+        "E": "<p>Kültür endüstrisinin kaynağı olması</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 20
     },
     {
         "QuestionId": 3603626,
@@ -349,103 +349,23 @@
         "E": "<p>Kuramsal, kavramsal ve nesnel olarak üçe ayrılır.</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 2
+        "QuestionNumber": 3
     },
     {
-        "QuestionId": 3603446,
+        "QuestionId": 3603447,
         "UniteNo": 4,
-        "PageNumber": 87,
-        "AnswerExplanation": "<p>Dil</p>",
-        "Title": "<p>Sosyal kodların en başında elbette dil gelir. Dilin<br />dışında beden dili, jestler, mimikler,<br />hâl ve tutumlar, ses tonu ve giyim kuşam<br />da yine bu tür kodlara örnek olarak sayılabilir.</p>",
-        "Text": "<p>Sosyal kodların en başında aşağıdakilerden hangisi gelir?</p>",
-        "A": "<p>Biçimcilik</p>",
-        "B": "<p>Dil</p>",
-        "C": "<p>Yapaylık</p>",
-        "D": "<p>Anlatılar</p>",
-        "E": "<p>Ses</p>",
-        "CorrectAnswer": "B",
+        "PageNumber": 88,
+        "AnswerExplanation": "<p>İmge bir kavramın, bir duygunun, bir düşüncenin ya da bir nesnenin zihindeki tasarımı, hayalidir</p>",
+        "Title": "<p>İmge bir kavramın, bir duygunun, bir düşüncenin ya da bir nesnenin zihindeki tasarımı, hayalidir</p>",
+        "Text": "<p>Bir kavramın, bir duygunun, bir düşüncenin ya da bir nesnenin zihindeki tasarımı, hayaline ne denir?</p>",
+        "A": "<p>Obje</p>",
+        "B": "<p>Biçim</p>",
+        "C": "<p>İmge</p>",
+        "D": "<p>Tanım</p>",
+        "E": "<p>Kurgu</p>",
+        "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 4
-    },
-    {
-        "QuestionId": 3603449,
-        "UniteNo": 4,
-        "PageNumber": 93,
-        "AnswerExplanation": "<p>Afiş ve kitap tasarımlarıdır.</p>",
-        "Title": "<p>Grafik tasarımında en yaratıcı alanlardan ikisi hiç şüphesiz afiş ve kitap tasarımlarıdır. Tasarımcılar<br />özellikle resim sanatından ve sanat akımlarından etkilenmiş hatta bazı önemli ressamlar, sanat sanat içindir<br />mottosuna karşı çıkarak afiş ya da kitap kapağı tasarımı da yapmışlardır.</p>",
-        "Text": "<p>Teknolojik gelişmelerden önce ve sonrasındaki süreçte, grafik tasarımında en yaratıcı alanlar olarak etkisi güçlü olan gösterme yöntemleri aşağıdakilerden hangisidir?</p>",
-        "A": "<p>Sinema ve resim</p>",
-        "B": "<p>Sesler ve sinema</p>",
-        "C": "<p>Resimler ve sanatçılar</p>",
-        "D": "<p>Davetiye ve bilet tasarımları</p>",
-        "E": "<p>Afiş ve kitap tasarımlarıdır.</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
-    },
-    {
-        "QuestionId": 3603582,
-        "UniteNo": 4,
-        "PageNumber": 84,
-        "AnswerExplanation": "<p>Barthes</p>",
-        "Title": "",
-        "Text": "<p>Düz anlamı, göstergenin \"neyi\" temsil ettiği, yan anlamı ise \"nasıl\" temsil ettiği şeklinde açıklayan düşünür aşağıdaki seçeneklerden hangisidir?</p>",
-        "A": "<p>Barthes</p>",
-        "B": "<p>Fiske</p>",
-        "C": "<p>Saussure</p>",
-        "D": "<p>Pierce</p>",
-        "E": "<p>Bacon</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
-    },
-    {
-        "QuestionId": 3603623,
-        "UniteNo": 4,
-        "PageNumber": 87,
-        "AnswerExplanation": "<p>Kodlar, sosyal, metinsel ve yorumlama kodları olmak üzere üçe ayrılır. Doğru yanıt A dır.</p>",
-        "Title": "",
-        "Text": "<p>Fiske'nin anlamlandırma sistemi dediği kodlar üçe ayrılır. Aşağıdakilerden hangisi doğru üçlüyü ifade eder?</p>",
-        "A": "<p>Sosyal, metinsel, yorumlama</p>",
-        "B": "<p>Sanal, metinsel, kişisel</p>",
-        "C": "<p>Kişisel, sanatsal, metinsel</p>",
-        "D": "<p>Metinsel, bireysel, imgesel</p>",
-        "E": "<p>İmgesel, sosyal, kuramsal</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
-    },
-    {
-        "QuestionId": 3603624,
-        "UniteNo": 4,
-        "PageNumber": 89,
-        "AnswerExplanation": "<p>Mitlerin temel dört işlevinden biri evrenin gizemlerine karşı imge oluşturmasıdır. Doğru yanıt A dır.</p>",
-        "Title": "",
-        "Text": "<p>Aşağıdakilerden hangisi mitlerin temel dört işlevinden biridir?</p>",
-        "A": "<p>Evrenin gizemlerine karşı imge oluşturması</p>",
-        "B": "<p>Doğal afetlere karşı denge unsuru olması</p>",
-        "C": "<p>Ekonominin düzenli işleyişini sağlaması</p>",
-        "D": "<p>Siyasetin etik kurallarını belirlemesi</p>",
-        "E": "<p>Kültür endüstrisinin kaynağı olması</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
-    },
-    {
-        "QuestionId": 3603578,
-        "UniteNo": 4,
-        "PageNumber": 82,
-        "AnswerExplanation": "<p>Pierce</p>",
-        "Title": "",
-        "Text": "<p>Göstergeyi \"bir şeyin yerini tutan, o şeyi üreten ya da niteleyen düşüncedir\" biçiminde tanımlayan dolayısıyla göstergenin o şeyin kendisi değil, temsilidir diyerek nitelendiren düşünür aşağıdaki seçeneklerden hangisidir?</p>",
-        "A": "<p>Picasso</p>",
-        "B": "<p>Pierce</p>",
-        "C": "<p>Platon</p>",
-        "D": "<p>Locke</p>",
-        "E": "<p>Saussure</p>",
-        "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "QuestionNumber": 8
     },
     {
         "QuestionId": 3603579,
@@ -461,7 +381,39 @@
         "E": "<p>Doğrudan temsili resim</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 6
+        "QuestionNumber": 11
+    },
+    {
+        "QuestionId": 3603616,
+        "UniteNo": 4,
+        "PageNumber": 82,
+        "AnswerExplanation": "<p>Pierce göstergeyi 3 kategoride açıklar ve belirtilen tanımlama birinci kategoridir.</p>",
+        "Title": "",
+        "Text": "<p>Pierce göstergeyi birkaç kategoride açıklamıştır. Farklı bir şeye göndermede bulunmaksızın var olanlar hangi kategoridedir?</p>",
+        "A": "<p>1</p>",
+        "B": "<p>2</p>",
+        "C": "<p>3</p>",
+        "D": "<p>4</p>",
+        "E": "<p>5</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 15
+    },
+    {
+        "QuestionId": 3603622,
+        "UniteNo": 4,
+        "PageNumber": 84,
+        "AnswerExplanation": "<p>Anlam yorumlayandan bağımsız değildir. Doğru yanıt B dir.</p>",
+        "Title": "",
+        "Text": "<p>\"Anlam .................... bağımsız değildir\"</p> <p>Yukarıdaki ifadede boşluğa aşağıdakilerden hangisi  gelmelidir.</p>",
+        "A": "<p>Teknolojiden</p>",
+        "B": "<p>Yorumlayandan</p>",
+        "C": "<p>Fizik kanunlarından</p>",
+        "D": "<p>Matematik denklemlerden</p>",
+        "E": "<p>Algoritmik manipulasyondan</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null,
+        "QuestionNumber": 19
     },
     {
         "QuestionId": 3603443,
@@ -477,6 +429,54 @@
         "E": "<p>Nesnel olmayan göstergeler.</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 3
+        "QuestionNumber": 4
+    },
+    {
+        "QuestionId": 3603446,
+        "UniteNo": 4,
+        "PageNumber": 87,
+        "AnswerExplanation": "<p>Dil</p>",
+        "Title": "<p>Sosyal kodların en başında elbette dil gelir. Dilin<br />dışında beden dili, jestler, mimikler,<br />hâl ve tutumlar, ses tonu ve giyim kuşam<br />da yine bu tür kodlara örnek olarak sayılabilir.</p>",
+        "Text": "<p>Sosyal kodların en başında aşağıdakilerden hangisi gelir?</p>",
+        "A": "<p>Biçimcilik</p>",
+        "B": "<p>Dil</p>",
+        "C": "<p>Yapaylık</p>",
+        "D": "<p>Anlatılar</p>",
+        "E": "<p>Ses</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null,
+        "QuestionNumber": 7
+    },
+    {
+        "QuestionId": 3603578,
+        "UniteNo": 4,
+        "PageNumber": 82,
+        "AnswerExplanation": "<p>Pierce</p>",
+        "Title": "",
+        "Text": "<p>Göstergeyi \"bir şeyin yerini tutan, o şeyi üreten ya da niteleyen düşüncedir\" biçiminde tanımlayan dolayısıyla göstergenin o şeyin kendisi değil, temsilidir diyerek nitelendiren düşünür aşağıdaki seçeneklerden hangisidir?</p>",
+        "A": "<p>Picasso</p>",
+        "B": "<p>Pierce</p>",
+        "C": "<p>Platon</p>",
+        "D": "<p>Locke</p>",
+        "E": "<p>Saussure</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null,
+        "QuestionNumber": 7
+    },
+    {
+        "QuestionId": 3603583,
+        "UniteNo": 4,
+        "PageNumber": 83,
+        "AnswerExplanation": "<p>İçerik</p>",
+        "Title": "",
+        "Text": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Göstergebilimde \"gösterilen\" aşağıdaki kavramlardan hangisiyle doğrudan ilişkilidir?</span></span></p>",
+        "A": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Söz</span></span></p>",
+        "B": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">İçerik</span></span></p>",
+        "C": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Biçim</span></span></p>",
+        "D": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Görüntü</span></span></p>",
+        "E": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Tasarım</span></span></p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null,
+        "QuestionNumber": 11
     }
 ]

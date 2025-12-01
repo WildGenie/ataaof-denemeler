@@ -9,14 +9,15 @@
         "E": "Dokunduklarını",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 184110,
@@ -35,7 +36,8 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 184128,
@@ -47,33 +49,35 @@
         "E": "Hareket gerektiren becerileri öğretmek için statik görseller daha etkilidir.",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 184132,
         "SoruMetni": "<strong>Genellikle ağaç, şema veya düğüm ve bağlantılardan oluşan bilgi haritaları şeklinde oluşturulan görsel türü aşağıdakilerden hangisidir?</strong>",
-        "A": "İlişkisel görseller<br/>",
+        "A": "İlişkisel görseller",
         "B": "Örgütleyici görseller",
         "C": "Nimonik görseller",
         "D": "Temsili görseller",
         "E": "Dönüşümsel görseller",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 184146,
@@ -85,14 +89,15 @@
         "E": "Alan",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 184150,
@@ -104,14 +109,15 @@
         "E": "Çizgi",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 184152,
@@ -123,14 +129,15 @@
         "E": "Pikseller alt alta ve yan yana bulunurlar.",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 184187,
@@ -142,14 +149,15 @@
         "E": "Boya Kovası Aracı",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 184188,
@@ -161,18 +169,19 @@
         "E": "Lastik Damgası Aracı",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 193055,
-        "SoruMetni": "<strong> Aşağıdakilerden hangisi görsellerin faydalarından biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong> Aşağıdakilerden hangisi görsellerin faydalarından biri <u>değildir</u>?</strong>",
         "A": "Öğrenmeye karşı motivasyon sağlar.",
         "B": "Soyut kavramları somutlaştırır.",
         "C": "Dikkat çekmeyi sağlar.",
@@ -180,14 +189,15 @@
         "E": "Hatırlamayı kolaylaştırır.",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 193079,
@@ -199,14 +209,15 @@
         "E": "Dekoratif",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 193080,
@@ -218,14 +229,15 @@
         "E": "Nimonik",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 193081,
@@ -244,7 +256,8 @@
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 193082,
@@ -256,14 +269,15 @@
         "E": "Matematiksel ifadelerle oluşturulmaktadır.",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 193083,
@@ -275,14 +289,15 @@
         "E": "Doğrudan web ortamında kullanılabilmektedir.",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 193084,
@@ -294,14 +309,15 @@
         "E": "PSD",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 340741,
@@ -313,14 +329,15 @@
         "E": "Boyut",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 340747,
@@ -332,14 +349,15 @@
         "E": "GIMP",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 342351,
@@ -351,13 +369,14 @@
         "E": "Dekoratif",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     }
 ]

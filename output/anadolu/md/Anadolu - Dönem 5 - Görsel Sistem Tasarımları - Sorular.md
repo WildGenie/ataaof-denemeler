@@ -1,14 +1,15 @@
 # Görsel Sistem Tasarımları (Dönem 5) - Tüm Sorular
 
 ## Unite 1
-1. Uluslararası Tasarım Konseyi (ICoD) “estetik, işlevsel, bağlamsal, kültürel ve toplumsal hususları dikkate alarak, bir kişi (bir kullanıcı) ile insan yapımı çevre arasındaki etkileşime odaklanan bir çalışma ve uygulama disiplini” olarak, neyi tanımlamıştır?
+1. Uluslararası Tasarım Konseyi (ICoD) “estetik, işlevsel, bağlamsal, kültürel ve toplumsal hususları dikkate alarak, bir kişi (bir kullanıcı) ile insan yapımı çevre arasındaki etkileşime odaklanan bir çalışma ve uygulama disiplini” olarak, neyi tanımlamıştır?
     - A-) Estetik
     - B-) İmaj
     - **Cevap C-) Tasarım**
     - D-) Sistem
     - E-) Görselleştirme
 
-    > **Açıklama:** Uluslararası Tasarım Konseyi (ICoD) **tasarımı**“estetik, işlevsel, bağlamsal, kültürel ve toplumsal hususları dikkate alarak, bir kişi (bir kullanıcı) ile insan yapımı çevre arasındaki etkileşime odaklanan bir çalışma ve uygulama disiplini” olarak tanımlar.
+    > **Açıklama:** Görsel Sistem Tasarımları
+    > Uluslararası Tasarım Konseyi (ICoD) **tasarımı** “estetik, işlevsel, bağlamsal, kültürel ve toplumsal hususları dikkate alarak, bir kişi (bir kullanıcı) ile insan yapımı çevre arasındaki etkileşime odaklanan bir çalışma ve uygulama disiplini” olarak tanımlar.
 
     ***
 1. Latincede “düzenleme, birleşme, bir araya gelme” ve Yunancada “düzenli bütün, parçaların meydana getirdiği bütün” anlamında kullanılan kavram, hangisidir?
@@ -18,17 +19,19 @@
     - D-) Endüstriyel tasarım
     - **Cevap E-) Sistem**
 
-    > **Açıklama:** **Sistem** kelimesi Latincede “düzenleme, birleşme, bir araya gelme” ve Yunancada “düzenli bütün, parçaların meydana getirdiği bütün” anlamında kullanılan systema kökünden gelir.
+    > **Açıklama:** Sistem Kavramının Tanımlanması
+    > **Sistem** kelimesi Latincede “düzenleme, birleşme, bir araya gelme” ve Yunancada “düzenli bütün, parçaların meydana getirdiği bütün” anlamında kullanılan systema kökünden gelir.
 
     ***
-1. Süreçleri otomatikleştirmek, verimliliği artırmak ve karmaşık görevler üzerinde daha iyi kontrol<br />sağlamak ve verileri daha iyi anlayıp düzenlemek ya da daha iyi ve kararlar vermek için ne kullanılır?
+1. Süreçleri otomatikleştirmek, verimliliği artırmak ve karmaşık görevler üzerinde daha iyi kontrol<br />sağlamak ve verileri daha iyi anlayıp düzenlemek ya da daha iyi ve kararlar vermek için ne kullanılır?
     - A-) Çizelgeler
     - B-) Planlar
     - **Cevap C-) Sistemler**
     - D-) Kılavuzlar
     - E-) İletişim
 
-    > **Açıklama:** **Sistemler** mühendislikten işletmeye, sağlık hizmetlerinden eğitime kadar çeşitli alanlarda kullanılır. Süreçleri otomatikleştirmek, verimliliği artırmak ve karmaşık görevler üzerinde daha iyi kontrol
+    > **Açıklama:** Sistem Kavramının Tanımlanması
+    > **Sistemler** mühendislikten işletmeye, sağlık hizmetlerinden eğitime kadar çeşitli alanlarda kullanılır. Süreçleri otomatikleştirmek, verimliliği artırmak ve karmaşık görevler üzerinde daha iyi kontrol
     > sağlamak için kullanılırlar. Diğer yandan, verileri
     > daha iyi anlayıp düzenlemek için ve böylelikle daha
     > iyi ve kararlar vermek için kullanılır.
@@ -41,7 +44,8 @@
     - D-) Kapalı sistemler
     - E-) Geçici sistemler
 
-    > **Açıklama:** **Fiziksel sistemler**, gözlemlenebilir ve ölçülebilir olan somut nesneler veya süreçlerdir
+    > **Açıklama:** Sistem Türleri
+    > **Fiziksel sistemler**, gözlemlenebilir ve ölçülebilir olan somut nesneler veya süreçlerdir
 
     ***
 1. Tüm olayların oluşumunun tamamen tahmin edilebilir olduğu sistem hangisidir?
@@ -51,17 +55,19 @@
     - D-) Kapalı sistemler
     - **Cevap E-) Belirlenimci sistemler**
 
-    > **Açıklama:** **Belirlenimci** bir sistem, tüm olayların oluşumunun tamamen tahmin edilebilir olduğu sistemdir.
+    > **Açıklama:** Sistem Türleri
+    > **Belirlenimci** bir sistem, tüm olayların oluşumunun tamamen tahmin edilebilir olduğu sistemdir.
 
     ***
-1. Kitapların konularına göre sınıflandırıldığı ve kodlandığı, bu kodları takip ederek bulunduğu ve yaygın olarak kullanıldığı sınıflama sistemleri hangisidir?
+1. Kitapların konularına göre sınıflandırıldığı ve kodlandığı, bu kodları takip ederek bulunduğu ve yaygın olarak kullanıldığı sınıflama sistemleri hangisidir?
     - **Cevap A-) DDC ve LCC sistemleri**
     - B-) CDD ve CCL sistemleri
     - C-) CDC ve CLC sistemleri
     - D-) CCC ve DDD sistemleri
     - E-) LLL ve CDC
 
-    > **Açıklama:** Bu nedenle kitaplaran konularına
+    > **Açıklama:** Sistem Türleri
+    > Bu nedenle kitaplaran konularına
     > göre sınıflandırıldığı ve kodlandığı, bu kodları takip
     > ederek bulunduğu sistemler geliştirilmiştir. **DDC ve**
     > **LCC sistemleri** yaygın olarak kullanılmaktadır.
@@ -74,7 +80,8 @@
     - D-) PDF
     - E-) DDC
 
-    > **Açıklama:** **Pantone** ise tasarımcıların üreticilerle kritik kararları doğru şekilde alabilmesini sağlayan evrensel
+    > **Açıklama:** Gündelik Hayatta Sistemler
+    > **Pantone** ise tasarımcıların üreticilerle kritik kararları doğru şekilde alabilmesini sağlayan evrensel
     > bir renk dili ortaya koyar.
 
     ***
@@ -85,7 +92,9 @@
     - D-) Pantone
     - E-) ISO216
 
-    > **Açıklama:** **Grafik tasarım**, gerekli mesaj ve bilgileri, belirli sosyal gruplara tanımlanmış amaçlarla aktarmak
+    > **Açıklama:** GRAFİK TASARIM VE SİSTEM
+    > İLİŞKİSİ
+    > **Grafik tasarım**, gerekli mesaj ve bilgileri, belirli sosyal gruplara tanımlanmış amaçlarla aktarmak
     > üzere görsel iletişim aracılığıyla çözümler sunan bir
     > alandır.
 
@@ -97,29 +106,33 @@
     - D-) Wyman
     - E-) Harry Beck
 
-    > **Açıklama:** “Grafik tasarımı anlamsal olarak doğru, sözdizimsel olarak tutarlı ve pragmatik olarak anlaşılabilir bilgilerin organizasyonu olarak görüyorum” diyen tasarımcı **Massimo Vignelli**.
+    > **Açıklama:** Grafik Tasarımı Sistem Kavramı ile
+    > Birlikte Düşünmek
+    > “Grafik tasarımı anlamsal olarak doğru, sözdizimsel olarak tutarlı ve pragmatik olarak anlaşılabilir bilgilerin organizasyonu olarak görüyorum” diyen tasarımcı **Massimo Vignelli**.
 
     ***
-1. Bir sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel, kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı olarak nitelendirilen kavram hangisidir?
+1. Bir sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel, kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı olarak nitelendirilen kavram hangisidir?
     - A-) Tasarım
     - B-) Görsellik
     - **Cevap C-) Kompleksite**
     - D-) Diyagram
     - E-) Tipografi
 
-    > **Açıklama:** **Kompleksite**, yani karmaşıklık, bir
+    > **Açıklama:** Kompleksite ve Tasarımın Çözüm Yöntemleri
+    > **Kompleksite**, yani karmaşıklık, bir
     > sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel,
     > kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı olarak nitelendirilir.
 
     ***
-1. 1. Sistem birçok unsurdan oluşan bir düzene karşılık gelmektedir.<br />2. Sistemler mühendislik ve işletme gibi belirgin alanlarda kullanılmaktadır.<br />3. Sistemler farklı birçok amaca hizmet ederek kullanıcısına kolaylıklar sağlamaktadır.<br />4. Birbirlerine bağlantılı ya da ilişkili unsurların oluşturduğu her şey bir sistemdir.<br />Yukarıdakilerden hangileri sistem kavramıyla ilgili doğru bir açıklamadır?
+1. 1\. Sistem birçok unsurdan oluşan bir düzene karşılık gelmektedir.<br />2\. Sistemler mühendislik ve işletme gibi belirgin alanlarda kullanılmaktadır.<br />3\. Sistemler farklı birçok amaca hizmet ederek kullanıcısına kolaylıklar sağlamaktadır.<br />4\. Birbirlerine bağlantılı ya da ilişkili unsurların oluşturduğu her şey bir sistemdir.<br />Yukarıdakilerden hangileri sistem kavramıyla ilgili doğru bir açıklamadır?
     - A-) I ve IV
     - B-) II, III ve IV
     - C-) III ve IV
     - **Cevap D-) I, III ve IV**
     - E-) II ve III
 
-    > **Açıklama:** Birbirlerine bağlantılı ya da ilişkili unsurların oluşturduğu her şey bir sistemdir. Aynı zamanda, sistem kelimesi temel sözlük anlamında “birçok unsurdan oluşan düzen” olarak kullanılır. Sistemler mühendislikten işletmeye, sağlık hizmetlerinden eğitime kadar çeşitli alanlarda kullanılır. Süreçleri otomatikleştirmek, verimliliği artırmak ve karmaşık görevler üzerinde daha iyi kontrol sağlamak için kullanılırlar. Diğer yandan, verileri daha iyi anlayıp düzenlemek için ve böylelikle daha iyi ve kararlar vermek için kullanılır. Verimli üretim ve sağlıklı işleyişler için sistemlerin varlığı kaçınılmazdır. Görüldüğü gibi, sistem farklı birçok alanda kullanılmakta ve farklı bir çok amaca hizmet etmektedir. Bu bilgiler ışığında doğru cevap I, III ve IV maddelerinin yer aldığı D seçeneğidir.
+    > **Açıklama:** huuoy
+    > Birbirlerine bağlantılı ya da ilişkili unsurların oluşturduğu her şey bir sistemdir. Aynı zamanda, sistem kelimesi temel sözlük anlamında “birçok unsurdan oluşan düzen” olarak kullanılır. Sistemler mühendislikten işletmeye, sağlık hizmetlerinden eğitime kadar çeşitli alanlarda kullanılır. Süreçleri otomatikleştirmek, verimliliği artırmak ve karmaşık görevler üzerinde daha iyi kontrol sağlamak için kullanılırlar. Diğer yandan, verileri daha iyi anlayıp düzenlemek için ve böylelikle daha iyi ve kararlar vermek için kullanılır. Verimli üretim ve sağlıklı işleyişler için sistemlerin varlığı kaçınılmazdır. Görüldüğü gibi, sistem farklı birçok alanda kullanılmakta ve farklı bir çok amaca hizmet etmektedir. Bu bilgiler ışığında doğru cevap I, III ve IV maddelerinin yer aldığı D seçeneğidir.
 
     ***
 1. Toplumun en küçük birimini oluşturan aile kendi içinde bir sitemdir. Eşler arası ilişkiler, ebeveyn çocuk ilişkisi ve kardeşler arası ilişkiler bütünü etkileyen daha küçük yapıdaki sistemlerdir ve bu sistemler arasında dikey ve yatay yönlü etkileşimler bulunmaktadır.<br />Yukarıdaki örnek durum aşağıdaki sistem türlerinden özellikle hangisi ile ilişkidir?
@@ -132,7 +145,7 @@
     > **Açıklama:** Sistem türleri arasında yer alan alt sistem ve üst sistem sınıflamasına göre her sistem daha büyük bir sistemin parçasıdır. Alt sistemler, bir sistem içindeki daha küçük sistemlerdir. Her sistemin bağlı olduğu daha büyük sistemlere de üst sistem denmektedir. Bu bilgiler ışığında örnek durum incelendiğinde, aile de kendi içinde alt ve üst sistemleri barındıran daha büyük bir siteme karşılık gelmektedir. Dolayısıyla doğru cevap B'dir.
 
     ***
-1. Kurum afişinde başlık, alt başlık, tarih, yer, organizasyon bilgileri vb öğelerin birbiriyle ilişkisi vardır, diğer bir ifadeyle bu parçalar bir arada bütünü (afiş) oluşturmaktadır.<br />Bu durum, grafik tasarımıyla sistem kavramının benzerlik gösterdiği aşağıdaki özelliklerden  hangisine örnek verilebilir.
+1. Kurum afişinde başlık, alt başlık, tarih, yer, organizasyon bilgileri vb öğelerin birbiriyle ilişkisi vardır, diğer bir ifadeyle bu parçalar bir arada bütünü (afiş) oluşturmaktadır.<br />Bu durum, grafik tasarımıyla sistem kavramının benzerlik gösterdiği aşağıdaki özelliklerden hangisine örnek verilebilir.
     - A-) Metodik, mantıklı ve belli bir amaca odaklanan yöntemler kullanılır.
     - B-) Belli bir yapı bütünlüğü ve sorun çözme sürecini içermektedir.
     - C-) Sistematik bir düşünce biçimine sahiptir.
@@ -149,17 +162,17 @@
     - D-) Geleneksel bir kek tarifi
     - E-) Kütüphane arşivi
 
-    > **Açıklama:** Seçeneklerde belirtilen tüm durumlar sistem kavramına örnek olarak verilebilir. Bununla birlikte görsel bir tasarımla sistem kavramının örtüştüğü duruma en iyi örnek havalandırma yönlendirme tabelalarıdır. Bu yönlendirme sisteminde; kişiler nerede olduklarını, nereye gitmek istediklerini ve oraya nasıl ulaşacaklarını gösteren markalama, işaret, harita ve yönle ilgili araçları kullanır. Dolayısıyla doğru cevap A'dır.
+    > **Açıklama:** Seçeneklerde belirtilen tüm durumlar sistem kavramına örnek olarak verilebilir. Bununla birlikte görsel bir tasarımla sistem kavramının örtüştüğü duruma en iyi örnek havalandırma yönlendirme tabelalarıdır. Bu yönlendirme sisteminde; kişiler nerede olduklarını, nereye gitmek istediklerini ve oraya nasıl ulaşacaklarını gösteren markalama, işaret, harita ve yönle ilgili araçları kullanır. Dolayısıyla doğru cevap A'dır.
 
     ***
-1. Harita tasarımcısı Harry Beck'in çalışması da dikkate alındığında aşağıdakilerden hangisi bir müellif olarak tasarımcının yapmaya çalıştığı şeylerden biri **değildir?**
+1. Harita tasarımcısı Harry Beck'in çalışması da dikkate alındığında aşağıdakilerden hangisi bir müellif olarak tasarımcının yapmaya çalıştığı şeylerden biri **değildir?**
     - A-) Fikrin, aklın ve belleğin yolunu şematik olarak sunma
     - B-) Yeni bir argüman ortaya koyabilme
     - C-) Amaç ya da problem neyse onu çözmeye odaklanma
     - **Cevap D-) Coğrafi bilgiyi resmederek birebir taklidini oluşturma**
     - E-) Kullanışlı olan bilgiyi ön planda sunabilme
 
-    > **Açıklama:** Bir müellif olarak tasarımcı, bilgiyi doğrudan ve birincil bir şekilde yapar ve yapılandırır. Bunun en iyi örneklerinden birini Harry Beck’in harita tasarımıdır. Beck, haritaların coğrafi bilgiyle birebir ilerlemesinin şart olmadığını, önemli olan şeyin seyahat eden yolcuların net bir rota bilgisine ulaşmaları olduğunu vurgulamaktadır. Beck’in tasarımında coğrafi bilgi önem bakımından ikinci sıradadır. Beck, haritaların amaç veya problem neyse, onu çözmesi gerektiğini önemli bir ezberi bozarak gösterir. Beck, doğanın ve coğrafyanın “resmini çizerek” taklit etmek yerine, fikrin, aklın ve belleğin yolunu şematik olarak sunar ve Drucker’in dediği gibi yeni bir argüman ortaya koyar. Bu bilgiler ışığında doğru cevap D'dir.
+    > **Açıklama:** Bir müellif olarak tasarımcı, bilgiyi doğrudan ve birincil bir şekilde yapar ve yapılandırır. Bunun en iyi örneklerinden birini Harry Beck’in harita tasarımıdır. Beck, haritaların coğrafi bilgiyle birebir ilerlemesinin şart olmadığını, önemli olan şeyin seyahat eden yolcuların net bir rota bilgisine ulaşmaları olduğunu vurgulamaktadır. Beck’in tasarımında coğrafi bilgi önem bakımından ikinci sıradadır. Beck, haritaların amaç veya problem neyse, onu çözmesi gerektiğini önemli bir ezberi bozarak gösterir. Beck, doğanın ve coğrafyanın “resmini çizerek” taklit etmek yerine, fikrin, aklın ve belleğin yolunu şematik olarak sunar ve Drucker’in dediği gibi yeni bir argüman ortaya koyar. Bu bilgiler ışığında doğru cevap D'dir.
 
     ***
 1. Kompleksite kavramı da düşünüldüğünde tasarımda "mükemmellik" aşağıdaki niteliklerden *özellikle* hangisine karşılık gelmektedir?
@@ -189,7 +202,7 @@
     - D-) Kullanıcı memnuniyeti
     - E-) Kullanıcı geçmişi
 
-    > **Açıklama:** UI (User-Interface) yani Kullanıcı Arayüzü tasarımı alanı kullanıcıların dijital ürünlerle nasıl etkileşim kurduğunu inceleyen bir alandır. Arayüz tasarımında hem kullanıcının etkileşimi, kolaylıkla aradığını bulabilmesi ve deneyimi sürdürebilmesi konuları hem de bulunduğu siteye ait kişisel ve kurumsal aidiyet konuları söz konusu olmaktadır. Bu bilgiler ışığında doğru cevap B'dir.
+    > **Açıklama:** UI (User-Interface) yani Kullanıcı Arayüzü tasarımı alanı kullanıcıların dijital ürünlerle nasıl etkileşim kurduğunu inceleyen bir alandır. Arayüz tasarımında hem kullanıcının etkileşimi, kolaylıkla aradığını bulabilmesi ve deneyimi sürdürebilmesi konuları hem de bulunduğu siteye ait kişisel ve kurumsal aidiyet konuları söz konusu olmaktadır. Bu bilgiler ışığında doğru cevap B'dir.
 
     ***
 1. Alıcıda koleksiyon güdüsü yaratan, bir parçaya sahip olduktan sonra diğerlerini de edinerek “tamamlama” hissi yaratan, bir bakıma her bir parçayı koleksiyona dahil etme isteği uyandıran durum ..................... olarak tanımlanmaktadır.<br />Yukarıdaki boşluğa aşağıdakilerden hangisinin gelmesi uygundur?
@@ -199,17 +212,17 @@
     - D-) Veri görselliştirme
     - E-) Piktogram
 
-    > **Açıklama:** Seri tasarım, bir koleksiyon veya seri üründen oluşan ürün veya hizmetlerin bir arada bir bütün halinde tasarlanmasıdır. Seri tasarımlar, alıcıda koleksiyon güdüsü yaratırlar, serinin bir parçasına sahip olduktan sonra diğerlerini de edinmek “tamamlama” hissi yaratarak serinin diğer parçalarını da koleksiyona dahil etme isteği uyandırır. Bu bilgiler ışığında doğru cevap C'dir.
+    > **Açıklama:** Seri tasarım, bir koleksiyon veya seri üründen oluşan ürün veya hizmetlerin bir arada bir bütün halinde tasarlanmasıdır. Seri tasarımlar, alıcıda koleksiyon güdüsü yaratırlar, serinin bir parçasına sahip olduktan sonra diğerlerini de edinmek “tamamlama” hissi yaratarak serinin diğer parçalarını da koleksiyona dahil etme isteği uyandırır. Bu bilgiler ışığında doğru cevap C'dir.
 
     ***
-1. 1. Kişiye özel müdahalelere olanak veren sistemlerdir.<br />2. Farklı ürünler kullanıldığında bütünlük korunabilir.<br />3. Bilgisayar kasasının yüksek kapasitede ürüne yer verebilecek şekilde tasarlanması örnek olarak verilebilir.<br />Yukarıda özellikleri belirtilen kavram aşağıdakilerden hangisidir?
+1. 1\. Kişiye özel müdahalelere olanak veren sistemlerdir.<br />2\. Farklı ürünler kullanıldığında bütünlük korunabilir.<br />3\. Bilgisayar kasasının yüksek kapasitede ürüne yer verebilecek şekilde tasarlanması örnek olarak verilebilir.<br />Yukarıda özellikleri belirtilen kavram aşağıdakilerden hangisidir?
     - A-) Grid sistemler
     - B-) Seri tasarım
     - C-) Tipografi
     - D-) Mizanpaj
     - **Cevap E-) Modüler sistem**
 
-    > **Açıklama:** Modüler sistemler seri üretimin standartlaşan üretim bandı biçiminde kişiye özel müdahalelere olanak veren sistemlere verilen genel addır. Örneğin bir bilgisayarın kasası standarttır ancak içindeki işlemci veya kartlar için kart yuvası daha yüksek kapasitede ürüne yer verebilecek şekilde tasarlanmıştır. Tasarımcılar bu yöntemle farklı ürünlerde kullanıldığında bütünlüğü koruyabilecek sistemler ortaya koyarlar. Bu bilgiler ışığında doğru cevap E'dir.
+    > **Açıklama:** Modüler sistemler seri üretimin standartlaşan üretim bandı biçiminde kişiye özel müdahalelere olanak veren sistemlere verilen genel addır. Örneğin bir bilgisayarın kasası standarttır ancak içindeki işlemci veya kartlar için kart yuvası daha yüksek kapasitede ürüne yer verebilecek şekilde tasarlanmıştır. Tasarımcılar bu yöntemle farklı ürünlerde kullanıldığında bütünlüğü koruyabilecek sistemler ortaya koyarlar. Bu bilgiler ışığında doğru cevap E'dir.
 
     ***
 1. Aşağıdakilerden hangisi bir sistem biçimi **değildir?**
@@ -259,7 +272,7 @@
     - D-) Harry Beck
     - E-) Ivan Chermayef
 
-    > **Açıklama:** Eva Klose, Rotterdam’daki De Doelen adlı kongre ve konser alanı için binanın mimari ögelerinden yola çıkarak kurumun tüm afişlerinde kullanılabilecek bir çerçeve ortaya koyup, bu uygulamayı sürdürülebilir bir görsel kimlik sistemi hâline getirmeyi başaran tasarımcıdır.
+    > **Açıklama:** Eva Klose, Rotterdam’daki De Doelen adlı kongre ve konser alanı için binanın mimari ögelerinden yola çıkarak kurumun tüm afişlerinde kullanılabilecek bir çerçeve ortaya koyup, bu uygulamayı sürdürülebilir bir görsel kimlik sistemi hâline getirmeyi başaran tasarımcıdır.
 
     ***
 1. Fiziksel veya ekrana yönelik ürün tasarımında insan merkezli yaklaşımı ve kullanıcının ilk temastan sonuna kadarki tüm deneyimini konu alan tasarım alanı aşağıdakilerden hangisidir?
@@ -320,7 +333,8 @@
     - D-) Pigtografi
     - E-) Degrade
 
-    > **Açıklama:** Logotype, yalnızca yazı veya harf kullanılarak tasarlanmış logolara verilen isimdir.
+    > **Açıklama:** Grafik tasarımı terimlerinin kavranması
+    > Logotype, yalnızca yazı veya harf kullanılarak tasarlanmış logolara verilen isimdir.
 
     ***
 1. Kapak konularında geçen tanımların, aynı anlama varan farklı görselliklerle hatırlatılması veya açıklanmasına ne ad verilir?
@@ -330,7 +344,8 @@
     - D-) Kavramsal Yaklaşım
     - E-) Yenilikçi yaklaşım
 
-    > **Açıklama:** Metaforik yaklaşım, kapak konularında geçen tanımların, aynı anlama varan farklı görselliklerle hatırlatılması veya açıklanmasıdır. Örneğin: “Mimarlıkta Izgara” konusunun ızgara köfte görseliyle açıklanması gibi.
+    > **Açıklama:** Dergi kapağı tasarımı
+    > Metaforik yaklaşım, kapak konularında geçen tanımların, aynı anlama varan farklı görselliklerle hatırlatılması veya açıklanmasıdır. Örneğin: “Mimarlıkta Izgara” konusunun ızgara köfte görseliyle açıklanması gibi.
 
     ***
 1. Aşağıdakilerden hangisi grafik tasarımda sistem tasarımının temel mantığı ile bağdaşmaz?
@@ -340,7 +355,8 @@
     - D-) Grafik elemanların sistematik bir yaklaşımla kullanılması kullanıcı veya tüketici deneyiminde belirli bir alışkanlığın gelişmesine yardımcı olur
     - **Cevap E-) Tasarımcıya sunulan yöntem yeniden kullanılabilir özellikte olmaz**
 
-    > **Açıklama:** Grafik tasarımda sistem tasarımının temel mantığı, mesajın iletildiği görsel organizasyonun bir sistem içerisinde düzenlenmesi ve kullanıcı deneyiminin sürdürülebilmesi için bir plan veya yapı oluşturulmasına dayanır. Bu da bir mecranın tasarımının bütünsel ve kararlı bir yaklaşımla ele alınmasını sağlar. Renk, tipografi, fotoğraf, işaret vb. grafik elemanların sistematik bir yaklaşımla kullanılması kullanıcı veya tüketici deneyiminde belirli bir alışkanlığın gelişmesine yardımcı olur. Sistem tasarımı, tasarımcıya yeniden kullanılabilir bir yöntem sunar. Bu yaklaşım da tasarıda tutarlı bir dil oluşmasına katkı sağlar.
+    > **Açıklama:** Sistem tasarımının özellikleri
+    > Grafik tasarımda sistem tasarımının temel mantığı, mesajın iletildiği görsel organizasyonun bir sistem içerisinde düzenlenmesi ve kullanıcı deneyiminin sürdürülebilmesi için bir plan veya yapı oluşturulmasına dayanır. Bu da bir mecranın tasarımının bütünsel ve kararlı bir yaklaşımla ele alınmasını sağlar. Renk, tipografi, fotoğraf, işaret vb. grafik elemanların sistematik bir yaklaşımla kullanılması kullanıcı veya tüketici deneyiminde belirli bir alışkanlığın gelişmesine yardımcı olur. Sistem tasarımı, tasarımcıya yeniden kullanılabilir bir yöntem sunar. Bu yaklaşım da tasarıda tutarlı bir dil oluşmasına katkı sağlar.
 
     ***
 1. Yalnızca yazı veya harf kullanılarak tasarlanmış logolara verilen isim aşağıdakilerden hangisidir?
@@ -375,7 +391,7 @@
     > **Açıklama:** **Editoryal** tanımı, yayımlanacak kitapların yayınevi direktörü veya yayınevi editörleri tarafından, türlerine bağlı olarak gruplanması çalışmasına verilen addır. Örneğin; “Garip Akımı Şairleri Serisi” veya “Rus Klasikleri Serisi” gibi.
 
     ***
-1. İkinci Dünya Savaşı sonrası Avrupa, İsviçre’den başlayıp Almanya ve İngiltere’de karşılığını bulan ve  tasarımda sadelik, anlaşılırlık, az renk ve tırnaksız yazı karakteri kullanımı ön planda olarak 1970’lerin sonuna dek devam eden anlayış aşağıdakilerden hangisidir?
+1. İkinci Dünya Savaşı sonrası Avrupa, İsviçre’den başlayıp Almanya ve İngiltere’de karşılığını bulan ve tasarımda sadelik, anlaşılırlık, az renk ve tırnaksız yazı karakteri kullanımı ön planda olarak 1970’lerin sonuna dek devam eden anlayış aşağıdakilerden hangisidir?
     - A-) Yeni sistem
     - B-) Şablon yaklaşımı
     - **Cevap C-) Uluslararası Tipografik Üslup**
@@ -455,8 +471,8 @@
     - E-) Deneysel-Şablon mantığı.
 
     > **Açıklama:** Grafik tasarımı iki ana üretim kanalından de­ğerlendirebiliriz:
-    > 1. Bir seriye ait olmayan, tekil, tekrar etme­yen, şablona dönüşmeyen bir tasarım man­tığına bağlı üretim,
-    > 2.Bir seriye ait, sabit kararları olan, detaylarda değişim olsa bile o gruptaki aidiyetini koru­yan, tasarım kararları bir “şablon” mantığı­na bağlı üretim.
+    > 1\. Bir seriye ait olmayan, tekil, tekrar etme­yen, şablona dönüşmeyen bir tasarım man­tığına bağlı üretim,
+    > 2\.Bir seriye ait, sabit kararları olan, detaylarda değişim olsa bile o gruptaki aidiyetini koru­yan, tasarım kararları bir “şablon” mantığı­na bağlı üretim.
 
     ***
 1. Yazı veya harf kullanı­larak tasarlanmış logolar aşağıdakilerden hangisi ile tanımlanır?
@@ -539,7 +555,7 @@
     > **Açıklama:** Great Ideas serisinin tasarımcısı Pearson kapaklarda uyguladığı metodu “kendisine referans veren" olarak tanımlar. Yani her kapak, kitabın içeriğinden gelen fikirle biçimlenmiştir. Örneğin Walter Bejnamin’in Teknik Araçlarla Yeniden Üretim (Çoğaltma) Çağında Sanat Eseri isimli kitabın kapağı,kitabın kendi sırt tasarımının tekrarıdır. Dolayısıyla kapakta kitabın yan yana dizilmiş hâlini görürüz.
 
     ***
-1. Metis Yayınları’nın “Ötekini Dinlemek” serisinin  kitap kimliğini tasarlayan sanatçı aşağıdakilerden hangisidir?
+1. Metis Yayınları’nın “Ötekini Dinlemek” serisinin kitap kimliğini tasarlayan sanatçı aşağıdakilerden hangisidir?
     - A-) Bülent Erkmen
     - **Cevap B-) Yetkin Başarır**
     - C-) Nevzat Akoral
@@ -549,24 +565,26 @@
     > **Açıklama:** “Ötekini Dinlemek” serisinin yayın mantığı, ilki 1998 yılında çıkmak üzere, seneler boyu birbirine eklemlenerek devam edecek olmasına dayalıdır. Bu mantığa bağlı olarak Yetkin Başarır, ilk sayıdan son sayıya kadar değişmeyecek bir tasarım yaklaşımına karar veriyor ve bu kuralı hiç bozmuyor. Her kitap kendi içerisinde farklı bir anlatıma ve görselliğe sahip olsa da bu farklılık serinin bütününde tutarlılık sorunu yaratmıyor.
 
     ***
-1. David Pearson tarafından tasarlanan ve  “sistem içerisinde serbestlik” tanımının en iyi örneklerinden sayılan seri aşağıdakilerden hangisidir?
-    - A-) *Ejderha Mızrağı* Destanı *Serisi*
+1. David Pearson tarafından tasarlanan ve “sistem içerisinde serbestlik” tanımının en iyi örneklerinden sayılan seri aşağıdakilerden hangisidir?
+    - A-) *Ejderha Mızrağı* Destanı *Serisi*
     - B-) Garip Akımı Şairleri Serisi
     - **Cevap C-) Penguin Books Great Ideas Serisi**
     - D-) Can Lab serisi
     - E-) Can Klasik Serisi
 
-    > **Açıklama:** David Pearson tarafından tasarlanan Penguin Books Great Ideas serisi ise “sistem içerisinde serbestlik” tanımının en iyi örneklerinden sayılabilir. Seri, felsefe, politika, bilim ve savaş gibi konuları içeren, radikal, öncü ve geleceği öngören yazarların ürettiği kurgusal olmayan metinleri içerir.
+    > **Açıklama:** sitem içinde serbestlik tanımına örnekler
+    > David Pearson tarafından tasarlanan Penguin Books Great Ideas serisi ise “sistem içerisinde serbestlik” tanımının en iyi örneklerinden sayılabilir. Seri, felsefe, politika, bilim ve savaş gibi konuları içeren, radikal, öncü ve geleceği öngören yazarların ürettiği kurgusal olmayan metinleri içerir.
 
     ***
-1. Aşağıda verilenlerden hangileri  Penguin Books Great Ideas serisinin özelliklerindendir?<br />I. Cep boyutu olarak adlandırılan (111x181mm) ölçüde çıkan serilerin her birisi kendi özel rengine sahiptir.<br />II. Kapaklardaki tasarım anlayışı serbestmiş gibi görünse de serinin bütününe bakıldığında genel bir tasarım üslubu izlenebilir.<br />III. Serinin genel anlayışına göre kapaklar tipografik, illüstratif, soyutlama gibi anlayışlarla ele alınmıştır.
+1. Aşağıda verilenlerden hangileri Penguin Books Great Ideas serisinin özelliklerindendir?<br />I. Cep boyutu olarak adlandırılan (111x181mm) ölçüde çıkan serilerin her birisi kendi özel rengine sahiptir.<br />II. Kapaklardaki tasarım anlayışı serbestmiş gibi görünse de serinin bütününe bakıldığında genel bir tasarım üslubu izlenebilir.<br />III. Serinin genel anlayışına göre kapaklar tipografik, illüstratif, soyutlama gibi anlayışlarla ele alınmıştır.
     - A-) Yalnız I
     - B-) I ve II
     - C-) II ve III
     - **Cevap D-) I, II ve III**
     - E-) Yalnız III
 
-    > **Açıklama:** Great Ideas, şimdiye dek 120 kitaplık altı seri olarak yayımlandı ve devam ediyor. Cep boyutu olarak adlandırılan (111x181mm) ölçüde çıkan serilerin her birisi kendi özel rengine sahip. Kapaklardaki tasarım anlayışı serbestmiş gibi görünse de serinin bütününe bakıldığında genel bir tasarım üslubu izlenebilir. Her kapakta mutlaka ait olduğu serinin rengi kullanılmıştır. Serinin genel anlayışına göre kapaklar tipografik, illüstratif, soyutlama gibi anlayışlarla ele alınmıştır. Her kapakta çukur veya kabartı baskı (deboss ve emboss) kullanılmıştır
+    > **Açıklama:** kitap kapağı tasarımlarına örnekler
+    > Great Ideas, şimdiye dek 120 kitaplık altı seri olarak yayımlandı ve devam ediyor. Cep boyutu olarak adlandırılan (111x181mm) ölçüde çıkan serilerin her birisi kendi özel rengine sahip. Kapaklardaki tasarım anlayışı serbestmiş gibi görünse de serinin bütününe bakıldığında genel bir tasarım üslubu izlenebilir. Her kapakta mutlaka ait olduğu serinin rengi kullanılmıştır. Serinin genel anlayışına göre kapaklar tipografik, illüstratif, soyutlama gibi anlayışlarla ele alınmıştır. Her kapakta çukur veya kabartı baskı (deboss ve emboss) kullanılmıştır
 
     ***
 1. Yayımlanacak kitapların yayınevi direktörü veya yayınevi editörleri tarafından, türlerine bağlı olarak gruplanması çalışmasına ne ad verilir?
@@ -576,7 +594,8 @@
     - D-) Dekorasyon
     - **Cevap E-) Editoryal**
 
-    > **Açıklama:** Editoryal tanımı, yayımlanacak kitapların yayınevi direktörü veya yayınevi editörleri tarafından, türlerine bağlı olarak gruplanması çalışmasına verilen addır. Örneğin; “Garip Akımı Şairleri Serisi” veya “Rus Klasikleri Serisi” gibi.
+    > **Açıklama:** kavram ve tanımlar
+    > Editoryal tanımı, yayımlanacak kitapların yayınevi direktörü veya yayınevi editörleri tarafından, türlerine bağlı olarak gruplanması çalışmasına verilen addır. Örneğin; “Garip Akımı Şairleri Serisi” veya “Rus Klasikleri Serisi” gibi.
 
     ***
 1. Jan Tschichold tarafından ortaya konulan ve tasarımı gereksiz detaylardan ve süsten arındırarak, işlevselliğin ön planda tutulduğu estetik yaklaşıma yönelmeye ne ad verilir?
@@ -586,7 +605,8 @@
     - D-) Benzeme
     - E-) Tekrar edebilirlik
 
-    > **Açıklama:** Tschichold’un bu yaklaşımı, İkinci Dünya Savaşı sonrası inşa edilen modernist bir dünya anlayışının yansımasıdır. Bu yaklaşım, tasarımı gereksiz detaylardan ve süsten arındırma ve işlevselliğin ön planda tutulduğu estetik yaklaşıma yönelme, tasarımı “rafine etme” olarak özetlenebilir.
+    > **Açıklama:** kavram ve terimler
+    > Tschichold’un bu yaklaşımı, İkinci Dünya Savaşı sonrası inşa edilen modernist bir dünya anlayışının yansımasıdır. Bu yaklaşım, tasarımı gereksiz detaylardan ve süsten arındırma ve işlevselliğin ön planda tutulduğu estetik yaklaşıma yönelme, tasarımı “rafine etme” olarak özetlenebilir.
 
     ***
 1. Seri tasarım anlayışı, bir markada aşağıdaki unsurlardan hangisinin oluşumuna neden olur?
@@ -606,7 +626,8 @@
     - D-) Yazınsal yaklaşım
     - E-) Genel geçer
 
-    > **Açıklama:** İkinci Dünya Savaşı sonrası Avrupa, İsviçre’den başlayıp Almanya ve İngiltere’de karşılığını bulan “Uluslararası Tipografik Üslup” adı verilen bir tasarım anlayışına yönelmiştir. Bu anlayış tasarımda sadelik, anlaşılırlık, az renk ve tırnaksız yazı karakteri kullanımı ön planda olarak 1970’lerin sonuna dek devam etmiştir.
+    > **Açıklama:** tasarım yaklaşımları
+    > İkinci Dünya Savaşı sonrası Avrupa, İsviçre’den başlayıp Almanya ve İngiltere’de karşılığını bulan “Uluslararası Tipografik Üslup” adı verilen bir tasarım anlayışına yönelmiştir. Bu anlayış tasarımda sadelik, anlaşılırlık, az renk ve tırnaksız yazı karakteri kullanımı ön planda olarak 1970’lerin sonuna dek devam etmiştir.
 
     ***
 1. Arredamento Mimarlık dergisinin kapak tasarımlarında hangi tasarım yaklaşımı baskın olarak kullanılmıştır?
@@ -616,7 +637,8 @@
     - **Cevap D-) Metaforik anlatı**
     - E-) Sadelik
 
-    > **Açıklama:** Bu dergi kapaklarında dikkat edilmesi gereken ortak nokta, kapakların belirli bir sistem içerisinde değişkenliğe, kapaklara dair bir özgürlüğe sahip olması. Kapak görselleri her sayı değişiyor olsa bile, o görsellerin oluşum mantığı, tasarım fikri, uygulama biçimi değişim göstermediği için serileşiyor, bir bakıma aynılaşıyor. Kapak görsellerinin metaforik anlatımları, dergiyi takip eden okuyucuda bir alışkanlık ve aynı türden bir beklenti yaratıyor. Bu da doğrudan görsel benzerlik üstünden olmasa bile yaklaşım üstünden bir şablon kurma mantığına işaret ediyor.
+    > **Açıklama:** kapak tasarımı
+    > Bu dergi kapaklarında dikkat edilmesi gereken ortak nokta, kapakların belirli bir sistem içerisinde değişkenliğe, kapaklara dair bir özgürlüğe sahip olması. Kapak görselleri her sayı değişiyor olsa bile, o görsellerin oluşum mantığı, tasarım fikri, uygulama biçimi değişim göstermediği için serileşiyor, bir bakıma aynılaşıyor. Kapak görsellerinin metaforik anlatımları, dergiyi takip eden okuyucuda bir alışkanlık ve aynı türden bir beklenti yaratıyor. Bu da doğrudan görsel benzerlik üstünden olmasa bile yaklaşım üstünden bir şablon kurma mantığına işaret ediyor.
 
     ***
 ## Unite 3
@@ -627,7 +649,8 @@
     - D-) Yüzeysel Oran
     - E-) Modüler Grid
 
-    > **Açıklama:** Sorunun doğru cevabı A şıkkında verilmiştir.
+    > **Açıklama:** Tarih boyunca birçok medeniyet özellikle mimari yapılarını oluştururken, bu oranlanmaya dayanarak matematik ve form arasında ilişki kurmaya çalışmışlardır. Yunan ve diğer Ege medeniyetlerinin ortaya çıkmasıyla bu form anlayışından daha çok bahsedilmeye başlanmıştır. İsa’dan önce 5. yüzyılda Yunanlı mimarlar, bu form anlayışını dayandırdıkları oran ve orantının temel kuralları üzerine çalışmışlardır. Sonradan bu kurallar Atina’da bulunan ünlü Parthenon Tapınağı’nın ölçülerinin dayandırıldığı “Altın Oran” olarak adlandırılmıştır.
+    > Sorunun doğru cevabı A şıkkında verilmiştir.
 
     ***
 1. Resimlerinde, grid sistemi izleyicide bir dama tahtası hissi yaratan, açık ve koyu lekelerin ritmik yapılarından oluşan, dengeli, renkli kompozisyonlar şeklinde karşımıza çıkan, grid sistemini renk ilişkilerinin karmaşıklığına bir düzen getirmek amacıyla kullanmış ve bu sayede renkler arasında ince geçişleri olan canlı kompozisyonlar elde etmiş olan ressam aşağıdakilerden hangisidir?
@@ -635,9 +658,10 @@
     - **Cevap B-) Paul Klee**
     - C-) Albrecht Dürer
     - D-) Vincent Van Gogh
-    - E-) Pieter Bruegel
+    - E-) Pieter Bruegel
 
-    > **Açıklama:** Sorunun doğru cevabı B seçeneğinde verilmiştir.
+    > **Açıklama:** Paul Klee’nin resimlerinde, grid sistemi izleyicide bir dama tahtası hissi yaratan, açık ve koyu lekelerin ritmik yapılarından oluşan, dengeli, renkli kompozisyonlar şeklinde karşımıza çıkmaktadır. Paul Klee, grid sistemini renk ilişkilerinin karmaşıklığına bir düzen getirmek amacıyla kullanmış ve bu sayede renkler arasında ince geçişleri olan canlı kompozisyonlar elde etmiştir.
+    > Sorunun doğru cevabı B seçeneğinde verilmiştir.
 
     ***
 1. Genelgeçer bir grafik tasarım kuralına göre, optimum bir satır uzunluğu kaç kelime olmalıdır?
@@ -647,7 +671,8 @@
     - D-) 5-8 kelime arası
     - E-) 5-10 kelime arası
 
-    > **Açıklama:** Sorunun doğru cevabı C seçeneğinde verilmiştir.
+    > **Açıklama:** Genelgeçer bir grafik tasarım kuralına göre, optimum bir satır uzunluğu 7-10 kelime olmalıdır.
+    > Sorunun doğru cevabı C seçeneğinde verilmiştir.
 
     ***
 1. Aşağıdaki yazı karakterlerinden hangisi okunur yazı karakterlerinden birisi değildir?
@@ -657,7 +682,8 @@
     - **Cevap D-) Chiller**
     - E-) Futura
 
-    > **Açıklama:** Sorunun doğru cevabı D seçeneğinde verilmiştir.
+    > **Açıklama:** Garamond, Times New Roman, Helvetica, Futura gibi yazı karakterleri, okunur yazı karakterlerine örnek olarak verilebilir.
+    > Sorunun doğru cevabı D seçeneğinde verilmiştir.
 
     ***
 1. Çoklu sayfa tasarımında genellikle karşılıklı sayfalarda simetrik grid sistemi kullanılmaktadır. Bunun sebebi aşağıdakilerden hangisidir?
@@ -667,7 +693,8 @@
     - D-) Renk alanını çarpıcı yapmak
     - **Cevap E-) Yazı alanını okutur alanlara bölmek**
 
-    > **Açıklama:** Sorunun doğru cevabı E seçeneğinde verilmiştir.
+    > **Açıklama:** Çoklu sayfa tasarımında genellikle karşılıklı sayfalarda simetrik grid sistemi kullanılmaktadır. Bunun sebebi, yazı alanını okutur alanlara bölmektir.
+    > Sorunun doğru cevabı E seçeneğinde verilmiştir.
 
     ***
 1. Aşağıdakilerden hangisi simetrik grid için iyi bir aday olan çoklu sayfa tasarımlarının tasarım elemanlarından birisi değildir?
@@ -677,7 +704,8 @@
     - D-) Resimler
     - **Cevap E-) Şekiller**
 
-    > **Açıklama:** Sorunun doğru yanıtı E seçeneğinde verilmiştir.
+    > **Açıklama:** Başlıklar, alt başlıklar, sayfa numaraları, ana metin, kesit yazılar, resimler, resim altı yazıları gibi tasarım elemanı içeren çoklu sayfa tasarımları, simetrik bir grid için iyi bir adaydır.
+    > Sorunun doğru yanıtı E seçeneğinde verilmiştir.
 
     ***
 1. Aşağıdakilerden hangisi ana metnin içeriğinin okuyucu tarafından daha iyi anlaşılması ve yazının içeriğini destekleyen görsellerden birisidir?
@@ -687,7 +715,8 @@
     - **Cevap D-) İllüstrasyon**
     - E-) Harita
 
-    > **Açıklama:** Sorunun doğru cevabı D seçeneğinde verilmiştir.
+    > **Açıklama:** Resim, Fotoğraf, İllüstrasyon vb. (7. düzey başlık): Ana metnin içeriğinin okuyucu tarafından daha iyi anlaşılması ve yazının içeriğini destekleyen görsellerdir.
+    > Sorunun doğru cevabı D seçeneğinde verilmiştir.
 
     ***
 1. Sayfa tasarım elemanları uyumlu bir biçimde düzenlenmezler ve birbirlerinden kopuk görünürlerse, kompozisyon bütünlükten yoksun algılanır. Çoklu sayfa tasarımlarında bu uyum ve bütünlük algısı önemlidir. Aşağıdakilerden hangisi bu çoklu sayfa tasarımlarından birisi değildir?
@@ -697,7 +726,8 @@
     - D-) Dergi
     - E-) Broşür
 
-    > **Açıklama:** Sorunun doğru yanıtı C seçeneğinde verilmiştir.
+    > **Açıklama:** Sayfa tasarım elemanları uyumlu bir biçimde düzenlenmezler ve birbirlerinden kopuk görünürlerse, kompozisyon bütünlükten yoksun algılanır. Kitap, katalog, dergi, broşür ve benzeri çoklu sayfa tasarımlarında bu uyum ve bütünlük algısı önemlidir.
+    > Sorunun doğru yanıtı C seçeneğinde verilmiştir.
 
     ***
 1. Görsel olarak eski Roma sütunlarına yontulmuş yazıları az ya da çok yansıttıkları için Roma tarzı olarak da adlandırılan ve bir yazı karakterinin hatlarının uç yapısında bulunan yatay çıkıntılara ne ad verilir?
@@ -707,7 +737,8 @@
     - D-) Serifsiz yazı karakteri
     - E-) Sans Serif yazı karakteri
 
-    > **Açıklama:** Sorunun doğru cevabı B seçeneğinde verilmiştir.
+    > **Açıklama:** Serifli (Tırnaklı) Yazı Karakteri: Bir yazı karakterinin hatlarının uç yapısında bulunan yatay çıkıntılardır. Genellikle Roma tarzı olarak da adlandırılır. Bunun sebebi görsel olarak eski Roma sütunlarına yontulmuş yazıları az ya da çok yansıttıkları içindir.
+    > Sorunun doğru cevabı B seçeneğinde verilmiştir.
 
     ***
 1. Tasarım alanında kullanılan elemanların tasarım kaygısı güdülerek ilkeler açısından bir araya getirilmesine ne ad verilir?
@@ -717,7 +748,8 @@
     - D-) Yazı
     - E-) Simetri
 
-    > **Açıklama:** Sorunun doğru yanıtı A seçeneğinde verilmiştir.
+    > **Açıklama:** Kompozisyon: Tasarım alanında kullanılan elemanların tasarım kaygısı güdülerek ilkeler açısından bir araya getirilmesidir. Tasarımcının üslubunu ya da ifade etmek istediği mesajın karakterini yansıtan bir bütündür.
+    > Sorunun doğru yanıtı A seçeneğinde verilmiştir.
 
     ***
 1. Günümüzde kullandığımız yazılı alfabe Mezopotamya’da gelişirken Uzak Doğu’da da \_\_\_\_\_ tabanlı kaligrafik yazı sistemi gelişmiştir.<br />Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -727,7 +759,8 @@
     - D-) Hiyeroglif
     - E-) Runik
 
-    > **Açıklama:** Günümüzde kullandığımız yazılı alfabe Mezopotamya’da gelişirken Uzak Doğu’da da Kanji tabanlı kaligrafik yazı sistemi gelişmiştir.
+    > **Açıklama:** Giriş
+    > Günümüzde kullandığımız yazılı alfabe Mezopotamya’da gelişirken Uzak Doğu’da da Kanji tabanlı kaligrafik yazı sistemi gelişmiştir.
 
     ***
 1. Altın oran ölçüleri için referans alınan tapınak aşağıdakilerden hangisidir?
@@ -737,17 +770,19 @@
     - D-) Epicurius
     - E-) Zeus
 
-    > **Açıklama:** Atina’da bulunan ünlü Parthenon Tapınağı’nın ölçülerinin dayandırıldığı “Altın Oran” olarak adlandırılmıştır
+    > **Açıklama:** GRİD SİSTEMİNİN TEMELLERİ
+    > Atina’da bulunan ünlü Parthenon Tapınağı’nın ölçülerinin dayandırıldığı “Altın Oran” olarak adlandırılmıştır
 
     ***
 1. Günümüzde altın oran olarak ifade edilen sayı \_\_\_\_\_\_ olarak ifade edilmektedir.<br />Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - **Cevap A-) 1.618**
-    - B-) 3.236
-    - C-) 3.14
-    - D-) 1.333
-    - E-) 2.111
+    - **Cevap A-) 1\.618**
+    - B-) 3\.236
+    - C-) 3\.14
+    - D-) 1\.333
+    - E-) 2\.111
 
-    > **Açıklama:** Günümüzde altın oran olarak ifade edilen sayı 1.618 olarak ifade edilmektedir
+    > **Açıklama:** GRİD SİSTEMİNİN TEMELLERİ
+    > Günümüzde altın oran olarak ifade edilen sayı 1.618 olarak ifade edilmektedir
 
     ***
 1. Kompozisyonlarını ilk olarak klasik altın orana dayalı olarak dikdörtgen gridler çizerek oluşturan ressam aşağıdakilerden hangisidir?
@@ -757,7 +792,8 @@
     - D-) Albrecht Dürer
     - E-) Leonardo da Vinci
 
-    > **Açıklama:** Grid sistemini çalışmalarında temel unsur olarak kullanan bir başka ressam da Piet Mondrian’dır. Mondrian’a göre yatay ve dikey çizgilerden oluşan grid desenli bir kompozisyon, dünyanın evrensel uyumunu temsil edebilir.
+    > **Açıklama:** GRİD SİSTEMİNİN TEMELLERİ
+    > Grid sistemini çalışmalarında temel unsur olarak kullanan bir başka ressam da Piet Mondrian’dır. Mondrian’a göre yatay ve dikey çizgilerden oluşan grid desenli bir kompozisyon, dünyanın evrensel uyumunu temsil edebilir.
 
     ***
 1. Aşağıdakilerden hangisi mimardır?
@@ -767,7 +803,8 @@
     - D-) Albrecht Dürer
     - E-) Gustave Courbet
 
-    > **Açıklama:** Mimari alanına gelindiğinde ise grid sistemini en etkili biçimde kullanan isimlerin başında hiç kuşkusuz İsviçreli mimar Le Corbusier gelmektedir.
+    > **Açıklama:** Modüler Sistem
+    > Mimari alanına gelindiğinde ise grid sistemini en etkili biçimde kullanan isimlerin başında hiç kuşkusuz İsviçreli mimar Le Corbusier gelmektedir.
 
     ***
 1. Le Corbusier’in mimari tasarımlarındaki oranların çıkış noktası insan figürünün adı aşağıdakilerden hangisidir?
@@ -777,7 +814,8 @@
     - D-) Kanon
     - E-) Etrüsk
 
-    > **Açıklama:** Modulor: İnsan vücudunun ölçülerini temel alan, altın oran ve Fibonacci dizisini kullanarak türetilmiş kendine özgü bir ölçüler dizisidir. 1.83 m boyundaki bir insandan türetilmiştir. “Modulor”deki göbek deliği, kafa üstü, kolların uzandığı nokta ve bunların arasındaki mesafelerin ölçülerinin oranı altın oranı vermektedir
+    > **Açıklama:** Modüler Sistem
+    > Modulor: İnsan vücudunun ölçülerini temel alan, altın oran ve Fibonacci dizisini kullanarak türetilmiş kendine özgü bir ölçüler dizisidir. 1.83 m boyundaki bir insandan türetilmiştir. “Modulor”deki göbek deliği, kafa üstü, kolların uzandığı nokta ve bunların arasındaki mesafelerin ölçülerinin oranı altın oranı vermektedir
 
     ***
 1. I. Kenar boşlukları<br />II. Altın oran<br />III. Sütunlar<br />IV. Modüller<br />V. Simetrik grid<br />Yukarıdakilerden hangileri grid sisteminin temel parçalarıdır?
@@ -787,19 +825,21 @@
     - D-) I-II-III-IV-V
     - E-) III-IV-V
 
-    > **Açıklama:** Kenar Boşlukları, sütunlar, modüller
+    > **Açıklama:** GRİD’İN ANATOMİSİ
+    > Kenar Boşlukları, sütunlar, modüller
 
     ***
-1. I. Simetrik grid<br />II. Asimetrik grid<br />III. Modüler grid<br />--<br />a. sayfa tasarım alanında ayrı ayrı kullanılabilen alanlardan oluşan bir çerçevedir<br />b. grid çizgi yerleşimlerinin dikey alanlarda sütunlar oluşturacak bir biçimde ve karşılıklı sayfalarda birbirinin ayna yansımaları şeklinde düzenlendiği bir grid sistemidir<br />c. karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimidir.<br />--<br />Yukarıda verilen grid sistemleri ve onların işlevlerinin doğru eşleşmesi aşağıdakilerden hangisidir?
+1. I. Simetrik grid<br />II. Asimetrik grid<br />III. Modüler grid<br />--<br />a. sayfa tasarım alanında ayrı ayrı kullanılabilen alanlardan oluşan bir çerçevedir<br />b. grid çizgi yerleşimlerinin dikey alanlarda sütunlar oluşturacak bir biçimde ve karşılıklı sayfalarda birbirinin ayna yansımaları şeklinde düzenlendiği bir grid sistemidir<br />c. karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimidir.<br />--<br />Yukarıda verilen grid sistemleri ve onların işlevlerinin doğru eşleşmesi aşağıdakilerden hangisidir?
     - **Cevap A-) I-b, II-c, III-a**
     - B-) I-b, II-a, III-c
     - C-) I-a, II-b, III-c
     - D-) I-c, II-b, III-a
     - E-) I-c, II-a, III-b
 
-    > **Açıklama:** I. Simetrik grid   a. grid çizgi yerleşimlerinin dikey alanlarda sütunlar oluşturacak bir biçimde ve                                karşılıklı sayfalarda birbirinin ayna yansımaları şeklinde düzenlendiği bir grid                                sistemidir
-    > II. Asimetrik grid  b. karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı                                  sayfa düzenleme biçimidir
-    > III. Modüler grid   c. sayfa tasarım alanında ayrı ayrı kullanılabilen alanlardan oluşan bir çerçevedir
+    > **Açıklama:** GRİD TÜRLERİ
+    > I. Simetrik grid a. grid çizgi yerleşimlerinin dikey alanlarda sütunlar oluşturacak bir biçimde ve karşılıklı sayfalarda birbirinin ayna yansımaları şeklinde düzenlendiği bir grid sistemidir
+    > II. Asimetrik grid b. karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimidir
+    > III. Modüler grid c. sayfa tasarım alanında ayrı ayrı kullanılabilen alanlardan oluşan bir çerçevedir
 
     ***
 1. Sayfa üzerinde kullanılan tasarım elemanlarının benzer görünmelerinden kaçınmak hangi temel sayfa tasarım ilkelerindendir?
@@ -809,7 +849,8 @@
     - D-) Yakınlık
     - E-) Bütünlük
 
-    > **Açıklama:** Zıtlığın arkasındaki temel fikir, sayfa üzerinde kullanılan tasarım elemanlarının benzer görünmelerinden kaçınmaktır.
+    > **Açıklama:** TEMEL SAYFA TASARIM İLKELERİ VE GRİD
+    > Zıtlığın arkasındaki temel fikir, sayfa üzerinde kullanılan tasarım elemanlarının benzer görünmelerinden kaçınmaktır.
 
     ***
 1. Aşağıdakilerden hangisi serifli yazı fontlarındandir?
@@ -819,20 +860,21 @@
     - D-) Gill
     - E-) Didot
 
-    > **Açıklama:** Serifli (tırnaklı) yazı karakterleri, bir harften diğerine görsel olarak yatay bir devamlılık yarattığı için daha okunur olarak kabul görürler. Yapılarında genellikle ince ve kalın hat zıtlıkları gözlemlenir. Örnek olarak Times New Roman, Garamond gibi yazı karakterleri verilebilir.
+    > **Açıklama:** TEMEL SAYFA TASARIM İLKELERİ VE GRİD
+    > Serifli (tırnaklı) yazı karakterleri, bir harften diğerine görsel olarak yatay bir devamlılık yarattığı için daha okunur olarak kabul görürler. Yapılarında genellikle ince ve kalın hat zıtlıkları gözlemlenir. Örnek olarak Times New Roman, Garamond gibi yazı karakterleri verilebilir.
 
     ***
 1. Altın oran ölçü birimi aşağıdakilerden hangisidir?
-    - **Cevap A-) 1.618**
-    - B-) 2.432
-    - C-) 7.055
-    - D-) 5.702
-    - E-) 3.205
+    - **Cevap A-) 1\.618**
+    - B-) 2\.432
+    - C-) 7\.055
+    - D-) 5\.702
+    - E-) 3\.205
 
     > **Açıklama:** Altın oran: Altın oran esasında geçmişte günümüze kadar bir ölçü birimi olarak düşünülmüş ve kullanılmıştır. Bu ölçü birimi ilk başlarda √2 olarak ele alınsa da zamanla daha net ve doğru bir değer olarak temsil edilmeye başlanmıştır. Günümüzde altın oran olarak ifade edilen sayı 1.618 olarak ifade edilmektedir.
 
     ***
-1. 15. yüzyılda resimlerinde mükemmel perspektif ve tasarladığı alfabede grid sistemini kullanan sanatçı aşağıdakilerden hangisidir?
+1. 15\. yüzyılda resimlerinde mükemmel perspektif ve tasarladığı alfabede grid sistemini kullanan sanatçı aşağıdakilerden hangisidir?
     - A-) Le Corbusier
     - **Cevap B-) Albrecht Dürer**
     - C-) Stefan Sagmeister
@@ -930,7 +972,8 @@
     - **Cevap D-) Harita**
     - E-) İzohips
 
-    > **Açıklama:** Harita
+    > **Açıklama:** **Harita,** belirli bir kullanım amacı için, yeryüzünün ya da bir parçasının kuş bakışı görünümünün
+    > belirli bir oranda küçültülerek bir düzlem üzerinde gösterilmesidir.
 
     ***
 1. Haritaların yaygın olarak kullanılması, taşınabilir ver çoğaltılabilir olması, hangi nesnenin icadı ile gerçekleşmiştir?
@@ -940,7 +983,8 @@
     - D-) Kalem
     - E-) Çanta
 
-    > **Açıklama:** Kâğıt
+    > **Açıklama:** **Kâğıdın** kullanıma geçmesiyle birlikte yaygınlaşan haritalar taşınabilir ve kolay çoğaltılabilir hâle gelmiştir.
+    > Kâğıt
 
     ***
 1. Haritanın hazırlanabilmesi ve kullanılabilmesi için hangi bilgiye gereksinim vardır?
@@ -950,7 +994,7 @@
     - D-) İcat ve buluşlar
     - **Cevap E-) Konum**
 
-    > **Açıklama:** Konum
+    > **Açıklama:** Haritanın hazırlanabilmesi ve kullanılabilmesi için **konum bilgisine** gereksinim vardır.
 
     ***
 1. Haritaların birçok bileşeni vardır. Bu bileşenlerden en belirleyici unsur aşağıdakilerden hangisidir?
@@ -960,7 +1004,7 @@
     - D-) Renk
     - E-) Desen
 
-    > **Açıklama:** Ölçek
+    > **Açıklama:** Haritaların renk, desen, doku, yazı, sembol, ölçek gibi pek çok bileşeni bulunmaktadır. **Bunların şüphesiz en belirleyicisi ölçektir.**
 
     ***
 1. Aşağıdakilerden hangisi harita tasarımında fiziksel yapıları ayırt etmede kullanılan unsurdur?
@@ -970,7 +1014,7 @@
     - D-) Desen
     - E-) Sembol
 
-    > **Açıklama:** Renk
+    > **Açıklama:** **Haritada ayrıca renkler fiziksel yapıları ayırt etmede**, desen ve dokular yüzeyleri tanımlamada, yazılar açıklamalarda ve semboller tekrar eden bilgileri gruplandırarak anlatmak amacıyla **kullanılır.**
 
     ***
 1. Harita tasarımlarında kullanılan yüzeyin boyutu ve sığdırılmak istenen içeriğin miktarına bağlı olarak aşağıdaki unsurlardan hangisi değişir?
@@ -980,7 +1024,7 @@
     - **Cevap D-) Ölçek**
     - E-) Sembol
 
-    > **Açıklama:** Ölçek
+    > **Açıklama:** Kullanılan yüzeyin boyutu ve sığdırılmak istenen içeriğin miktarına bağlı olarak **ölçek** değişir.
 
     ***
 1. Aşağıdakilerden hangisi bilgi panoları içeriğinde yer alan öğelerden **değildir?**
@@ -990,7 +1034,8 @@
     - D-) Başlık
     - E-) Gövde metin
 
-    > **Açıklama:** Ölçek
+    > **Açıklama:** **Bilgi panolarının oluşturulmasında belirleyici unsur** taşıyacağı içeriktir. İçerik derken bilgi, görseller ve tablo çizim vb. gibi diğer öğeler de kastedilmektedir. Söz konusu tasarım ürününün hedefi belirli bir içeriği görselleştirerek izleyiciye aktarmak olacağı için, içeriğin salt metinden oluşacağı düşünülemez. **Daha da detaya inmek gerekirse içerik başlık, gövde metin, fotoğraf, illüstrasyon, tablo, şema gibi öğelerden oluşmaktadır.** Bütün bu ögeler algılanma sırasına göre hiyerarşik olarak düzenlenmiş dengeli bir kompozisyonda bir araya getirilirler.
+    > Ölçek
 
     ***
 1. Aşağıdakilerden hangisi yönlendirme ve işaretleme tasarımının özelliklerinden **değildir?**
@@ -1000,7 +1045,9 @@
     - D-) Kullanıcıların gidecekleri noktayı bulabilmeleri için yapılan tasarımlardır.
     - **Cevap E-) Bilgi ve içerikle ilgili konularda uyarıda bulunmak için yapılmış tasarımlardır.**
 
-    > **Açıklama:** Bilgi ve içerikle ilgili konularda uyarıda bulunmak için yapılmış tasarımlardır.
+    > **Açıklama:** Yönlendirme ve işaretleme tasarımı kendi başına çalışan ve kullanıcıların kapalı/açık mekanları
+    > kullanmasını sağlayan tasarım sistemleridir (Sayfa 97 Bkz.)...
+    > Bilgi ve içerikle ilgili konularda uyarıda bulunmak için yapılmış tasarımlardır.
 
     ***
 1. Tarihin ilk profesyonel yönlendirme ve işaretleme tasarımcısı aşağıdakilerden hangisidir?
@@ -1010,7 +1057,7 @@
     - D-) Peter Brugger
     - E-) Eric Spiekermann
 
-    > **Açıklama:** Henry Beck
+    > **Açıklama:** Bu alanda tarihin ilk profesyonel yönlendirme ve işaretleme tasarımcısının **Henry Beck** olduğuna dair ortak bir görüş vardır. ***Beck’in Londra Metrosu*** için 1931 yılında hazırladığı metro haritası kalabalıklaşan kentsel yaşama yönelik ciddi anlamda bir yeniliktir.
 
     ***
 1. Aşağıdakilerden hangisi etkili bir yönlendirme sisteminin sonuçlarından **değildir?**
@@ -1020,7 +1067,8 @@
     - D-) Olumlu izlenim
     - E-) Güvenilirlik
 
-    > **Açıklama:** Heyecan
+    > **Açıklama:** Etkili bir yönlendirme sistemi, yayaları ve araç trafiğini iç ve dış mekânlarda yönlendirir, bilgilendirir ve düzene sokar. Yönlendirme tasarımıyla verimlilik artar, mekâna yönelik olumlu bir izlenim oluşur ve kullanıcılara tanımadıkları bir mekanda kendilerini güvende hissettirir.
+    > Heyecan
 
     ***
 1. Belirli bir kullanım amacı için, yeryüzünün ya da bir parçasının kuş bakışı görünümünün belirli bir oranda küçültülerek bir düzlem üzerinde gösterilmesine ne ad verilir?
@@ -1038,7 +1086,7 @@
     > başka bir yüzeye aktarılmasıdır
 
     ***
-1. GPS teknolojisinin 100 yılı aşmayan geçmişinden önce insanlar ..................................... için değişmez coğrafi noktaları, güneşi, ayı ve yıldızları referans olarak kullanmıştır. Boş bırakılan yere gelmesi gereken ifade hangisidir?
+1. GPS teknolojisinin 100 yılı aşmayan geçmişinden önce insanlar ..................................... için değişmez coğrafi noktaları, güneşi, ayı ve yıldızları referans olarak kullanmıştır. Boş bırakılan yere gelmesi gereken ifade hangisidir?
     - A-) Ülkeleri adlandırmak
     - B-) Kıtaları keşfetmek
     - C-) Yabancılarla anlaşmak
@@ -1138,7 +1186,7 @@
 
     ***
 ## Unite 5
-1. 1. Hususi olarak yapılmıştır.<br />2. Somut eser formundadır.<br />3. Sözün görsel canlandırmasıdır.<br />4. Günümüzde dayanıklı eserler kullanılmaktadır.<br />Yukarıdakilerden hangileri sanat eserinin nitelikleriyle ilgili doğru bir bilgidir?
+1. 1\. Hususi olarak yapılmıştır.<br />2\. Somut eser formundadır.<br />3\. Sözün görsel canlandırmasıdır.<br />4\. Günümüzde dayanıklı eserler kullanılmaktadır.<br />Yukarıdakilerden hangileri sanat eserinin nitelikleriyle ilgili doğru bir bilgidir?
     - A-) II ve III
     - **Cevap B-) I ve III**
     - C-) II ve IV
@@ -1151,7 +1199,7 @@
     > görsel olarak canlandırılmasıdır. Son olarak, günümüzde sanat eserleri taş ve seramik gibi dayanıklı materyaller dışında kâğıt, kumaş hatta plastik gibi çok farklı materyallerden meydana gelmektedirler. Bu bilgiler ışığında doğru cevap B'dir.
 
     ***
-1. Sanayi Devrimi öncesinde de sonrasında bir ürünün ortaya çıkışında ilk etapta ........... ön planda olmuş sonraları ............................ gibi nitelikler eklenmiştir.<br />Yukarıdaki boşluklara aşağıdakilerden hangisinin gelmesi daha uygundur?
+1. Sanayi Devrimi öncesinde de sonrasında bir ürünün ortaya çıkışında ilk etapta ........... ön planda olmuş sonraları ............................ gibi nitelikler eklenmiştir.<br />Yukarıdaki boşluklara aşağıdakilerden hangisinin gelmesi daha uygundur?
     - A-) basitlik / karmaşıklık
     - B-) doğallık / yapaylık
     - **Cevap C-) işlev / kişiselleştirme**
@@ -1162,11 +1210,11 @@
 
     ***
 1. "Sergide, kullanıcıların bir geri bildirim yapabilmesi ya da sergi ile edindikleri bilgiyi geliştirebilmeleri ve böylece akışı devam ettirebilmeleri olanaklı değildir." Bu durum serginin aşağıdaki özelliklerinden hangisine karşılık gelmektedir?
-    - A-) Sergi, yoğun bir kavramsal bilgi akışına sahiptir.
-    - **Cevap B-) Sergi, tek taraflı bir iletişim modelidir.**
+    - A-) Sergi, yoğun bir kavramsal bilgi akışına sahiptir.
+    - **Cevap B-) Sergi, tek taraflı bir iletişim modelidir.**
     - C-) Sergi, açık ya da kapalı mekanda gerçekleşir.
     - D-) Sergide görünür kılmak başat koşuldur.
-    - E-) Sergi, öğretici ve bilgilendiricidir.
+    - E-) Sergi, öğretici ve bilgilendiricidir.
 
     > **Açıklama:** Sergi kavramı iletişim modelleri açısından incelendiğinde tek taraflı bir iletişim modeline sahip olduğu söylenebilir. Şöyle ki serginin çıkış noktası olan sanatçı ya da üretici eserini ya da ürününü izleyiciyle buluşturmakta ve böylece iletişim süreci tamamlanmaktadır. Sergilerde eser ya da ürünlerin künyeleri bulunmakta, böylece kullanıcılar bilgi sahibi olabilmektedirler. Ancak kullanıcıların bir geri bildirim yapabilmesi ya da sergi ile edindikleri bilgiyi geliştirebilmeleri ve böylece akışı devam ettirebilmeleri olanaklı değildir. Sergi, eylemsel olarak değerlendirildiğinde tek taraflı ve pasif olarak görünür. Bu bilgiler ışığında doğrı cevap B'dir.
 
@@ -1185,20 +1233,20 @@
     - **Cevap A-) Sergiler, sanatla uğraşan kesime eserleri görme imkanı tanır.**
     - B-) Sergiler, kültürel ve entelektüel diyaloğu kolaylaştırır.
     - C-) Sergiler, eleştirel düşünmeyi ve yaratıcılığı teşvik eder.
-    - D-) Sergiler, daha fazla görünüm ve tanınırlığa yol açar.
+    - D-) Sergiler, daha fazla görünüm ve tanınırlığa yol açar.
     - E-) Sergiler, farklı tarz ve hareketlerle temas imkanı sağlar.
 
-    > **Açıklama:** Sanatsal sergiler, sanatın teşvik edilmesinde, kültürel ve entelektüel diyaloğun teşvik edilmesinde çok önemli rol oynar. Sanatçılara çalışmalarını sergilemeleri için bir platform sağlayarak daha fazla görünüm ve tanınırlığa yol açar. Ayrıca sanat sergileri, insanları farklı tarzlara ve hareketlerle temas etmesini sağlayarak halka sanatın takdirini arttırır. İnsanların farklı fikirleri ve bakış açılarını tartışıp keşfetmeleri için bir alan sağlayarak eleştirel düşünmeyi ve yaratıcılığı teşvik eder. Bununla birlikte, günümüzde sanat eserleri her kesimden insanın ulaşabileceği mekanlarda sergilenmektedir. Diğer bir ifadeyle, sıradan insanların sanat eserlerini serbestçe görme imkanları bulunmaktadır. Bu bilgiler ışığında doğru cevap A'dır.
+    > **Açıklama:** Sanatsal sergiler, sanatın teşvik edilmesinde, kültürel ve entelektüel diyaloğun teşvik edilmesinde çok önemli rol oynar. Sanatçılara çalışmalarını sergilemeleri için bir platform sağlayarak daha fazla görünüm ve tanınırlığa yol açar. Ayrıca sanat sergileri, insanları farklı tarzlara ve hareketlerle temas etmesini sağlayarak halka sanatın takdirini arttırır. İnsanların farklı fikirleri ve bakış açılarını tartışıp keşfetmeleri için bir alan sağlayarak eleştirel düşünmeyi ve yaratıcılığı teşvik eder. Bununla birlikte, günümüzde sanat eserleri her kesimden insanın ulaşabileceği mekanlarda sergilenmektedir. Diğer bir ifadeyle, sıradan insanların sanat eserlerini serbestçe görme imkanları bulunmaktadır. Bu bilgiler ışığında doğru cevap A'dır.
 
     ***
-1. 1. Sahibinin eserlerinden oluşan bir seçki anlamına gelir.<br />2. Tek bir sayfası pek çok referans mektubundan daha<br />değerlidir.<br />3. Tek ve mutlak bir dosya değildir, her seferinde yeniden oluşturulabilir.<br />Yukarıda özelliklere sıralanan kavram aşağıdakilerden hangisidir?
+1. 1\. Sahibinin eserlerinden oluşan bir seçki anlamına gelir.<br />2\. Tek bir sayfası pek çok referans mektubundan daha<br />değerlidir.<br />3\. Tek ve mutlak bir dosya değildir, her seferinde yeniden oluşturulabilir.<br />Yukarıda özelliklere sıralanan kavram aşağıdakilerden hangisidir?
     - A-) Portföy
     - B-) Sunum
     - C-) Sergi
     - **Cevap D-) Portfolyo**
     - E-) Sistem
 
-    > **Açıklama:** Kendisi de hâlihazırda bir sunum olan portfolyo, sahibinin eserlerinden oluşan bir seçki anlamına gelir. Yerine göre portfolyonun tek bir sayfası pek çok referans mektubundan daha değerlidir. Seçki olması da bu çalışmayı kendine özgü kılar. Seçki derken hem eser sahibinin en iyi eserlerinin bir araya getirildiği hem de başvuru ya da sunum yapılan yerle ilişkili olarak derlendiği anlatılmak istenmektedir. Bu bağlamda portfolyonun tek ve mutlak bir dosya olmadığı, başvuru ya da sunum yapılacak yere göre her seferinde yeniden oluşturulabilecek esnek bir çalışma olduğu anlaşılır. Dolayısıyla doğru cevap D'dir.
+    > **Açıklama:** Kendisi de hâlihazırda bir sunum olan portfolyo, sahibinin eserlerinden oluşan bir seçki anlamına gelir. Yerine göre portfolyonun tek bir sayfası pek çok referans mektubundan daha değerlidir. Seçki olması da bu çalışmayı kendine özgü kılar. Seçki derken hem eser sahibinin en iyi eserlerinin bir araya getirildiği hem de başvuru ya da sunum yapılan yerle ilişkili olarak derlendiği anlatılmak istenmektedir. Bu bağlamda portfolyonun tek ve mutlak bir dosya olmadığı, başvuru ya da sunum yapılacak yere göre her seferinde yeniden oluşturulabilecek esnek bir çalışma olduğu anlaşılır. Dolayısıyla doğru cevap D'dir.
 
     ***
 1. Aşağıdakilerden hangisi sahip olduğu bir özellik bağlamında diğerlerinden farklılık göstermektedir?
@@ -1221,14 +1269,14 @@
     > **Açıklama:** Sergileme tasarımı açısından önemli bir diğer çalışma da 1961 yılında açılan ve Eames Office’den Charles - Ray Eames çifti tarafından tasarlanan “Mathematica: A World of Numbers... and Beyond” adlı sergidir. Tamamen soyut bir kavram olan matematik üzerine anlatımlar içeren sergi, IBM firmasının sponsor olduğu Kaliforniya Bilim ve Endüstri Müzesi için hazırlanmış ve 1998 yılına kadar tam 37 yıl açık kalmıştır. Eames’in bu çalışmada sergileme tasarımı adına başardıkları arasında matematik ile ilgili önemli bilim insanlarını tanıtmak, matematik ve insanın gelişimini zaman çizelgesiyle aktarmak, matematiğe ilişkin temel kavram ve teoremleri etkileşimli sunmak olmuştur. Bu bilgiler ışığında doğru cevap D'dir.
 
     ***
-1. Amerikan Ulusal Anayasa Merkezinde, 1787 yılında bildiriye imza atan 39 kişinin birebir boyutlu bronz heykelleri arasında gezinme ve deftere imza atabilme imkanı sunulmaktadır. Bu durum, aşağıdaki yenilikçi sistemlerden özellikle hangisine örnek olarak verilebilir?
+1. Amerikan Ulusal Anayasa Merkezinde, 1787 yılında bildiriye imza atan 39 kişinin birebir boyutlu bronz heykelleri arasında gezinme ve deftere imza atabilme imkanı sunulmaktadır. Bu durum, aşağıdaki yenilikçi sistemlerden özellikle hangisine örnek olarak verilebilir?
     - A-) Işıklandırma ve renklendirme
     - **Cevap B-) Etkileşimli grafik/sergiler**
     - C-) Üç boyutlu çalışmalar
     - D-) Dev boyutlu grafik/sergiler
     - E-) Video art
 
-    > **Açıklama:** Klasik anlamdan sıyrılan sergilemenin, sergileme tasarımı biçimine dönüşerek pek çok ögeyi kapsadığı görülmektedir. Artık günümüzde işin içine dev boyutlu grafikler, üç boyutlu çalışmalar, farklı sergileme biçimleri, izleyiciyi sergiye dahil eden etkileşimli grafikler girmektedir. Amerikan Ulusal Anayasa Merkezinde anayasanın onaylanma sürecini hissettirme amaçlanmaktadır. Bu bağlamda, izleyicilere 1787 yılında bildiriye imza atan 39 kişinin birebir boyutlu bronz heykelleri arasında gezinme ve deftere imza atabilme gibi benzersiz deneyimler yaşatılmaktadır. Diğer bir ifadeyle, bu sergi izleyiciyi sergiye dahil eden etkileşimli grafik/ eserler içermektedir. Bu bilgiler ışığında doğru cevap B'dir.
+    > **Açıklama:** Klasik anlamdan sıyrılan sergilemenin, sergileme tasarımı biçimine dönüşerek pek çok ögeyi kapsadığı görülmektedir. Artık günümüzde işin içine dev boyutlu grafikler, üç boyutlu çalışmalar, farklı sergileme biçimleri, izleyiciyi sergiye dahil eden etkileşimli grafikler girmektedir. Amerikan Ulusal Anayasa Merkezinde anayasanın onaylanma sürecini hissettirme amaçlanmaktadır. Bu bağlamda, izleyicilere 1787 yılında bildiriye imza atan 39 kişinin birebir boyutlu bronz heykelleri arasında gezinme ve deftere imza atabilme gibi benzersiz deneyimler yaşatılmaktadır. Diğer bir ifadeyle, bu sergi izleyiciyi sergiye dahil eden etkileşimli grafik/ eserler içermektedir. Bu bilgiler ışığında doğru cevap B'dir.
 
     ***
 1. Sergilemeyi, sergiden ayıran *en temel fark* aşağıdakilerden hangisidir?
@@ -1370,7 +1418,7 @@
     > **Açıklama:** EBYS’nin temel amacı, belgelerin içerik, bağlam ve yapılarını bütün olarak yönetmek ve bunları güvenli ve özgün şekilde muhafaza et­mektir.
 
     ***
-1. Aşağıdakilerden hangisi Gestalt Teorisi'ne göre yakınlık kavramının tanımıdır?
+1. Aşağıdakilerden hangisi Gestalt Teorisi'ne göre yakınlık kavramının tanımıdır?
     - A-) Nesneler benzer göründüklerinde, göz onları bir doku ya da grup olarak algılar
     - B-) Gözün bir nesneden diğerine kaymak zorunda kaldığı durumdur
     - C-) Bir nesne eksik veya tamamen kapalı olmadığında göz eksik parçaları tamamlar
@@ -1467,14 +1515,14 @@
     - **Cevap D-) Kurumun konuya mesafeli olduğunu gösterir.**
     - E-) Zaman açısından daha elverişlidir; uygun olunduğu zaman yazılabilir ve okunabilir, gerektiğinde üzerinde değişiklikler yapılabilir.
 
-    > **Açıklama:** 1.Yazılı belgenin arşiv değeri vardır ve daha kalıcıdır.
-    > 2. Konu bir bütünlük içinde ifade edilir ve iletilebilir.
-    > 3. Daha resmidir ve yetkiyi daha fazla hissettirir.
-    > 4. Zaman açısından daha elverişlidir; uygun olunduğu zaman yazılabilir ve okunabilir, gerektiğinde üzerinde değişiklikler yapılabilir.
-    > 5. Kurumun konuyla yakından ilgilendiğini gösterir.
+    > **Açıklama:** 1\.Yazılı belgenin arşiv değeri vardır ve daha kalıcıdır.
+    > 2\. Konu bir bütünlük içinde ifade edilir ve iletilebilir.
+    > 3\. Daha resmidir ve yetkiyi daha fazla hissettirir.
+    > 4\. Zaman açısından daha elverişlidir; uygun olunduğu zaman yazılabilir ve okunabilir, gerektiğinde üzerinde değişiklikler yapılabilir.
+    > 5\. Kurumun konuyla yakından ilgilendiğini gösterir.
 
     ***
-1. "Her resmî yazışmanın içeriğindeki tüm bilgi   **...**   bir sıra gözetilerek üretilmektedir. İlk sırada başlık ve muhatap, daha sonra tarih sayı varsa ilgi, daha sonra imzacı, metin ve diğer detayların bilgisi verilmektedir.
+1. "Her resmî yazışmanın içeriğindeki tüm bilgi **...** bir sıra gözetilerek üretilmektedir. İlk sırada başlık ve muhatap, daha sonra tarih sayı varsa ilgi, daha sonra imzacı, metin ve diğer detayların bilgisi verilmektedir.
     - A-) Tipografik
     - **Cevap B-) Hiyerarşik**
     - C-) Fotografik
@@ -1484,15 +1532,15 @@
     > **Açıklama:** Her resmî yazışmanın içeriğindeki tüm bilgi **hiyerarşik** bir sıra gözetilerek üretilmektedir. İlk sırada başlık ve muhatap, daha sonra tarih sayı varsa ilgi, daha sonra imzacı, metin ve diğer detayların bilgisi verilmektedir.
 
     ***
-1. Resmi yazışmalarda kullanılan yazı karakterleriyle ilgili aşağıdaki bilgilerden hangisi/hangileri doğrudur?<br />I. Times New Roman yazı karakteri, 1930’ların başında önemli yazı tasarımcısı Stanley Morison tarafından, 1785’te kurulmuş menşei Büyük Britanya olan “The Times” gazetesinin çehresini değiştirmek amacıyla tasarlanmıştır.<br />II.Times New Roman yazı karakterinin geleneksel görünümü resmiyet, dürüstlük ve güvenilirlik hislerini pekiştirirken, tırnaklı (serifli) yapısı sayesinde metin okumasını da kolaylaştırmaktadır.<br />III. Times  New Roman dünyanın en uzun yaşayan ve en sık kullanılan yazı karakterlerinden biridir ve resmî yazışmaların ciddi ve bürokratik görünümünü pekiştirmektedir.<br />IV. Ariel, 1982 yılında Robin Nicholas ve Patricia Saunders tarafından Monotype isimli firma için tasarlanmış çağdaş, tırnaklı yazı karakteridir.<br />V. 1992 yılında Windows 3.1’ün piyasaya sürülmesiyle Arial yazı karakteri ücretsiz hale getirilmiş ve bu nedenle hızla dünya çapında yayılmaya başlamıştır.
+1. Resmi yazışmalarda kullanılan yazı karakterleriyle ilgili aşağıdaki bilgilerden hangisi/hangileri doğrudur?<br />I. Times New Roman yazı karakteri, 1930’ların başında önemli yazı tasarımcısı Stanley Morison tarafından, 1785’te kurulmuş menşei Büyük Britanya olan “The Times” gazetesinin çehresini değiştirmek amacıyla tasarlanmıştır.<br />II.Times New Roman yazı karakterinin geleneksel görünümü resmiyet, dürüstlük ve güvenilirlik hislerini pekiştirirken, tırnaklı (serifli) yapısı sayesinde metin okumasını da kolaylaştırmaktadır.<br />III. Times New Roman dünyanın en uzun yaşayan ve en sık kullanılan yazı karakterlerinden biridir ve resmî yazışmaların ciddi ve bürokratik görünümünü pekiştirmektedir.<br />IV. Ariel, 1982 yılında Robin Nicholas ve Patricia Saunders tarafından Monotype isimli firma için tasarlanmış çağdaş, tırnaklı yazı karakteridir.<br />V. 1992 yılında Windows 3.1’ün piyasaya sürülmesiyle Arial yazı karakteri ücretsiz hale getirilmiş ve bu nedenle hızla dünya çapında yayılmaya başlamıştır.
     - A-) I, II, III ve IV
     - B-) I, II ve III
     - C-) II, III, IV ve V
     - D-) I, III, IV ve V
     - **Cevap E-) I, II, III ve V**
 
-    > **Açıklama:** Times New Roman yazı karakteri, 1930’ların başında önemli yazı tasarımcısı Stanley Morison tarafından, 1785’te kurulmuş menşei Büyük Britanya olan “The Times” gazetesinin çehresini değiştirmek amacıyla tasarlanmıştır. Times New Roman yazı karakterinin geleneksel görünümü resmiyet, dürüstlük ve güvenilirlik hislerini pekiştirirken, tırnaklı (serifli) yapısı sayesinde metin okumasını da kolaylaştırmaktadır. Times  New Roman dünyanın en uzun yaşayan ve en sık kullanılan yazı karakterlerinden biridir ve resmî yazışmaların ciddi ve bürokratik görünümünü pekiştirmektedir.
-    > Ariel, 1982 yılında Robin Nicholas ve Patricia Saunders tarafından Monotype isimli firma için tasarlanmış çağdaş, tırnaksız (sans serif ) yazı karakteridir. 1992 yılında Windows 3.1’ün piyasaya sürülmesiyle Arial yazı karakteri ücretsiz hale getirilmiş ve bu nedenle hızla dünya çapında yayılmaya başlamıştır.
+    > **Açıklama:** Times New Roman yazı karakteri, 1930’ların başında önemli yazı tasarımcısı Stanley Morison tarafından, 1785’te kurulmuş menşei Büyük Britanya olan “The Times” gazetesinin çehresini değiştirmek amacıyla tasarlanmıştır. Times New Roman yazı karakterinin geleneksel görünümü resmiyet, dürüstlük ve güvenilirlik hislerini pekiştirirken, tırnaklı (serifli) yapısı sayesinde metin okumasını da kolaylaştırmaktadır. Times New Roman dünyanın en uzun yaşayan ve en sık kullanılan yazı karakterlerinden biridir ve resmî yazışmaların ciddi ve bürokratik görünümünü pekiştirmektedir.
+    > Ariel, 1982 yılında Robin Nicholas ve Patricia Saunders tarafından Monotype isimli firma için tasarlanmış çağdaş, tırnaksız (sans serif ) yazı karakteridir. 1992 yılında Windows 3.1’ün piyasaya sürülmesiyle Arial yazı karakteri ücretsiz hale getirilmiş ve bu nedenle hızla dünya çapında yayılmaya başlamıştır.
 
     ***
 1. Aşağıdakilerden hangisi belgelerin dijital ortamlara aktarılmasının avantajlarından biri **değildir?**
@@ -1510,7 +1558,7 @@
     > * Belgeler istenilen sayıda çoğaltılabilir.
 
     ***
-1. İdarelerin faaliyetlerini yerine getirirken hazırladıkları ve faaliyetlerinin delili olabilecek       E-Yazışma Teknik Rehberi’ne uygun belgelerin içerik, üstveri, format ve ilişkisel özelliklerini koruyan, belgelerin ait olduğu fonksiyon veya işlem için delil teşkil eden ve aidiyet zinciri içerisindeki yönetimini elektronik ortamda sağlayan sistem aşağıdakilerden hangisidir?
+1. İdarelerin faaliyetlerini yerine getirirken hazırladıkları ve faaliyetlerinin delili olabilecek E-Yazışma Teknik Rehberi’ne uygun belgelerin içerik, üstveri, format ve ilişkisel özelliklerini koruyan, belgelerin ait olduğu fonksiyon veya işlem için delil teşkil eden ve aidiyet zinciri içerisindeki yönetimini elektronik ortamda sağlayan sistem aşağıdakilerden hangisidir?
     - A-) Teknolojik Bilgi Sistemi
     - **Cevap B-) Elektronik Belge Yönetim Sistemi**
     - C-) Bürokratik Belge Yönetimi
@@ -1530,7 +1578,7 @@
     > **Açıklama:** Form kullanımı, veri toplama işini karışıklıktan kurtarıp bir sistem yaratarak standart hâle getirir. Formlar ve onların sağladığı yazılı iletişime oldukça sık başvurulmasının sebebi rastlantısal değildir. Form kullanımı zaman, emek ve maliyet konularında tasarruf edilmesini sağlar. Formlar, etkili bir yazılı iletişime olanak verir. Formlar, verinin toplanmasına, analizine, sağlıklı biçimde kaydedilmesine, sonuçlar elde edilmesine yardımcı olur.
 
     ***
-1. "**...  ...**, aynı içeriğin yazımdaki tekrarını önleyerek işleyişe hız kazandırmak adına üretilmiş formlardır. Tekrar edilecek içerik formun sabit alanlarında yer alırken kullanıcıdan beklenen yazınsal veri alanları boş bırakılmaktadır. Doldurulacak alanlar genellikle nokta ya da çizgiyle belirtilmektedir. Bu tür formların en belirgin örneklerini dilekçeler oluşturmaktadır" tanımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
+1. "**... ...**, aynı içeriğin yazımdaki tekrarını önleyerek işleyişe hız kazandırmak adına üretilmiş formlardır. Tekrar edilecek içerik formun sabit alanlarında yer alırken kullanıcıdan beklenen yazınsal veri alanları boş bırakılmaktadır. Doldurulacak alanlar genellikle nokta ya da çizgiyle belirtilmektedir. Bu tür formların en belirgin örneklerini dilekçeler oluşturmaktadır" tanımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - A-) Çizgi formlar
     - B-) Kutu formlar
     - C-) Karma formlar
@@ -1540,7 +1588,7 @@
     > **Açıklama:** "**Yazışma formları**, aynı içeriğin yazımdaki tekrarını önleyerek işleyişe hız kazandırmak adına üretilmiş formlardır. Tekrar edilecek içerik formun sabit alanlarında yer alırken kullanıcıdan beklenen yazınsal veri alanları boş bırakılmaktadır. Doldurulacak alanlar genellikle nokta ya da çizgiyle belirtilmektedir. Bu tür formların en belirgin örneklerini dilekçeler oluşturmaktadır".
 
     ***
-1. "**... ...** formların hatayı ortadan kaldırmalarının yegâne aracı satır içi doğrulama mesajlarıdır. Satır içi doğrulama, kullanıcılara soruyu doğru anladıklarından emin olmanın veya bir şeylerin yolunda gitmediğini bildirmenin en iyi yoludur" tanımında hangi form tasarımından söz edilmektedir?
+1. "**... ...**  formların hatayı ortadan kaldırmalarının yegâne aracı satır içi doğrulama mesajlarıdır. Satır içi doğrulama, kullanıcılara soruyu doğru anladıklarından emin olmanın veya bir şeylerin yolunda gitmediğini bildirmenin en iyi yoludur" tanımında hangi form tasarımından söz edilmektedir?
     - A-) Yazışma
     - B-) Karma
     - C-) Tapu senedi
@@ -1558,7 +1606,7 @@
     - **Cevap D-) Rakip ürünle bağlantı kurulması.**
     - E-) Marka algısının kuvvetlendirilmesi.
 
-    > **Açıklama:** D seçeneği haricindeki tüm seçenekler Görsel İletişim Tasarımının hedefleri arasındadır.
+    > **Açıklama:** D seçeneği haricindeki tüm seçenekler Görsel İletişim Tasarımının hedefleri arasındadır.
 
     ***
 1. Aşağıdakilerden hangisi, kullanışlı ve kolay öğrenilebilir bir ara yüz tasarımı için tutarlı bir sistem kurgulamanın ana hedeflerinden bir tanesi değildir?
@@ -1568,10 +1616,10 @@
     - D-) Tekrar başvurulmak üzere alışkanlık geliştirmesi.
     - E-) Kullanıcı psikolojisine olumlu etkilerde bulunmak.
 
-    > **Açıklama:** Tasarım süresinin kısaltılması, kullanışlı ve kolay öğrenilebilir bir ara yüz tasarımı için tutarlı bir sistem kurgulamanın ana hedeflerinden bir tanesi değildir.
+    > **Açıklama:** Tasarım süresinin kısaltılması, kullanışlı ve kolay öğrenilebilir bir ara yüz tasarımı için tutarlı bir sistem kurgulamanın ana hedeflerinden bir tanesi değildir.
 
     ***
-1. Aşağıdaki seçeneklerden hangisi XEROX şirketinin 1970'lerde kurduğu Palo Alto Research Center (PARC) laboratuvarının geliştirdiği  özelliklerden bir tanesi değildir?
+1. Aşağıdaki seçeneklerden hangisi XEROX şirketinin 1970'lerde kurduğu Palo Alto Research Center (PARC) laboratuvarının geliştirdiği özelliklerden bir tanesi değildir?
     - A-) Zengin metin.
     - B-) Masa üstü.
     - C-) Fare
@@ -1588,7 +1636,7 @@
     - D-) Yatay Tasarım.
     - E-) Materyal Tasarım.
 
-    > **Açıklama:** Skemorfik tasarım (Taklit Tasarım) temelinde doğanın derinlik, ışık, renk ya da hareket gibi birebir taklidine dayanmaktadır. Bu anlayış erken örneklerden çok yakın dönemlere dek arayüz sistemlerinin temel iletişim kurma prensibi olmuştur. Dosya-Klasör, Ataçlama, Kesme, Yapıştırma gibi fikirler yine bu skemorfik anlayışın çıktıları olarak kabul edilebilir. Böyle bir sistem oluşturmanın temel amacı kullanıcıların karşılaştığı bu yepyeni iletişim dünyasında kendilerini yabancı hissetmemeleri ve kolay uyum sağlamalarıdır.
+    > **Açıklama:** Skemorfik tasarım (Taklit Tasarım) temelinde doğanın derinlik, ışık, renk ya da hareket gibi birebir taklidine dayanmaktadır. Bu anlayış erken örneklerden çok yakın dönemlere dek arayüz sistemlerinin temel iletişim kurma prensibi olmuştur. Dosya-Klasör, Ataçlama, Kesme, Yapıştırma gibi fikirler yine bu skemorfik anlayışın çıktıları olarak kabul edilebilir. Böyle bir sistem oluşturmanın temel amacı kullanıcıların karşılaştığı bu yepyeni iletişim dünyasında kendilerini yabancı hissetmemeleri ve kolay uyum sağlamalarıdır.
 
     ***
 1. "İnsanların bir nesneyle etkileşime girerken, genellikle bu nesne hakkındaki algılarına veya bilgilerine dayanarak mümkün olduğunu düşündükleri eylemleri tanımlamak için kullanılan" Sağlarlık (Affordance) terimi ilk olarak kim tarafından kullanılmıştır?
@@ -1628,7 +1676,7 @@
     - **Cevap D-) Patent kolaylığı.**
     - E-) İyi tasarımın yaygınlaşması.
 
-    > **Açıklama:** 'Patent Kolaylığı', Paydaşlarla etkileşim ve erişebilirliği ön planda tutan ve de yaratıcı özgürlüğün teşvik ile İyi tasarımın yaygınlaşmasını hedefleyen 'Açık Kaynak Yaklaşımının' hedeflerinden bir tanesi değildir?
+    > **Açıklama:** 'Patent Kolaylığı', Paydaşlarla etkileşim ve erişebilirliği ön planda tutan ve de yaratıcı özgürlüğün teşvik ile İyi tasarımın yaygınlaşmasını hedefleyen 'Açık Kaynak Yaklaşımının' hedeflerinden bir tanesi değildir?
 
     ***
 1. Hugher'in ihtiyaçlar piramidinin en tepesinde hangi maddeler yer almaktadır?
@@ -1658,7 +1706,8 @@
     - D-) Grafik tasarımcıların iletişim kurma metotlarını genişletmek.
     - E-) Arayüz tasarımı süreçlerinin iskeletini belirlemek.
 
-    > **Açıklama:** XEROX PARC ve benzeri laboratuvarlarda yapılan çalışmalara genel olarak İnsan-Bilgisayar Etkileşimi araştırma alanı (HCI) adı verilmiştir. Bu alanın temel amacı makineler ve insanlar arasında olan tüm grafik ve fiziksel etkileşimleri verimli, kolay ve sezgisel hale getirmektir.
+    > **Açıklama:** Sorunun çözümü 216. sayfada belirtilmektedir.
+    > XEROX PARC ve benzeri laboratuvarlarda yapılan çalışmalara genel olarak İnsan-Bilgisayar Etkileşimi araştırma alanı (HCI) adı verilmiştir. Bu alanın temel amacı makineler ve insanlar arasında olan tüm grafik ve fiziksel etkileşimleri verimli, kolay ve sezgisel hale getirmektir.
 
     ***
 1. Grafik arayüz tasarımları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
@@ -1668,7 +1717,8 @@
     - D-) Grafik arayüz tasarımları donanıma göre değişir.
     - **Cevap E-) Grafik arayüz tasarımları donanıma göre değişmez.**
 
-    > **Açıklama:** Donanıma dair tüm yenilikler arayüz tasarımcılar için de çözümlenmesi gereken yeni etkileşimler ve tasarım problemleri sunmaktadır. Örneğin dokunmatik ekranların icadı dijital etkileşim süreçlerine benzersiz bir boyut eklemiştir. Arabirime dokunmak, fiziksel dünya ve dijital ekran arasındaki bağın aracılarından kurtulması yeni iletişim ve tasarım modellerinin de geliştirilmesini sağlamış, bu ergonomi problemi tasarımın kendisini doğrudan etkilemiştir.
+    > **Açıklama:** Sorunun çözümü 217. sayfada belirtilmektedir.
+    > Donanıma dair tüm yenilikler arayüz tasarımcılar için de çözümlenmesi gereken yeni etkileşimler ve tasarım problemleri sunmaktadır. Örneğin dokunmatik ekranların icadı dijital etkileşim süreçlerine benzersiz bir boyut eklemiştir. Arabirime dokunmak, fiziksel dünya ve dijital ekran arasındaki bağın aracılarından kurtulması yeni iletişim ve tasarım modellerinin de geliştirilmesini sağlamış, bu ergonomi problemi tasarımın kendisini doğrudan etkilemiştir.
 
     ***
 1. Aşağıdakilerden hangisi düz (flat) tasarımın bir özelliği değildir?
@@ -1678,7 +1728,8 @@
     - **Cevap D-) 3D efektler kullanır.**
     - E-) Tipografi kullanır.
 
-    > **Açıklama:** Flat tasarımlar arayüzlerde skemorfik yaklaşımı minimize etmiş, daha net ve kontrastlı renkler ve tipografi kullanımı ile arabirim öğeleri arasındaki hiyerarşiyi kurmayı hedeflemiştir.
+    > **Açıklama:** Sorunun çözümü 219. sayfada belirtilmektedir.
+    > Flat tasarımlar arayüzlerde skemorfik yaklaşımı minimize etmiş, daha net ve kontrastlı renkler ve tipografi kullanımı ile arabirim öğeleri arasındaki hiyerarşiyi kurmayı hedeflemiştir.
 
     ***
 1. Aşağıdaki duygusal çıktılardan hangisi tasarım sistemlerinin kullanıcılar üzerinde olumlu etkiler yaratabilir?
@@ -1688,7 +1739,8 @@
     - D-) Kullanıcıların sadakatini azaltan duygusal çıktılar.
     - E-) Karmaşıklık ve kullanıcıların endişesi.
 
-    > **Açıklama:** Bugün Google gibi öncü yazılım geliştiricilerin ürün sepetleri ya da Adobe gibi tasarım yazılımı geliştiricilerin ürün gamları incelendiğinde bu yaklaşımı kolaylıkla görmek mümkündür. Bu sistem anlayışı kullanıcı deneyimi gözüyle değerlendirildiğinde yabancılık çekmeme, başarma hissi, özgüven, gibi duygusal çıktılar yaratarak kullanıcı üzerinde sadakat hissini pekiştirmektedir.
+    > **Açıklama:** Sorunun çözümü 220. sayfada belirtilmektedir.
+    > Bugün Google gibi öncü yazılım geliştiricilerin ürün sepetleri ya da Adobe gibi tasarım yazılımı geliştiricilerin ürün gamları incelendiğinde bu yaklaşımı kolaylıkla görmek mümkündür. Bu sistem anlayışı kullanıcı deneyimi gözüyle değerlendirildiğinde yabancılık çekmeme, başarma hissi, özgüven, gibi duygusal çıktılar yaratarak kullanıcı üzerinde sadakat hissini pekiştirmektedir.
 
     ***
 1. Aşağıdakilerden hangisi tasarım sistemini oluşturur?
@@ -1698,7 +1750,8 @@
     - D-) Sadece erişilebilirlik yönergeleri.
     - E-) Yalnızca tasarım sistemi yol haritası.
 
-    > **Açıklama:** Tasarımda deneyim yaklaşımının yaratıcısı ve öncüsü Nielsen ve Norman Grup ekrana yönelik tasarım sistemlerini şöyle tanımlamaktadır: “Tasarım sistemi, farklı sayfalar ve kanallar arasında paylaşılan bir dil ve görsel tutarlılık oluştururken fazlalığı azaltarak tasarımı büyük ölçekte yönetmeye yarayan bir dizi standarttır.” (Fessenden, 2021).
+    > **Açıklama:** Sorunun çözümü 222. sayfada belirtilmektedir.
+    > Tasarımda deneyim yaklaşımının yaratıcısı ve öncüsü Nielsen ve Norman Grup ekrana yönelik tasarım sistemlerini şöyle tanımlamaktadır: “Tasarım sistemi, farklı sayfalar ve kanallar arasında paylaşılan bir dil ve görsel tutarlılık oluştururken fazlalığı azaltarak tasarımı büyük ölçekte yönetmeye yarayan bir dizi standarttır.” (Fessenden, 2021).
 
     ***
 1. Aşağıdakilerden hangisi açık kaynak tasarım sistemlerinin amacıdır?
@@ -1708,7 +1761,8 @@
     - **Cevap D-) **Yenilikçi yaklaşımları paydaşlara aktarmak.****
     - E-) Sadece büyük şirketlerin kullanabileceği bir yaklaşımı temsil etmek.
 
-    > **Açıklama:** Tasarımı organizasyon içinde, küçük bir ekipte kilitli bir sır olarak tutmak yerine, artık pek çok kuruluş geliştirdiği tasarım pratikleri kullanıma açmakta. Örneğin IBM ve MailChimp firmaları yakın zamanda görsel kimliklerini ve devamında tasarım geliştirme sistemlerini yeni çağın ihtiyaçlarına ayak uyduracak daha atik ve hızlı sistemlere evirmek üzere yeniledi. Paydaşlarına hizmet veren bu firmalar bu anlayış ile hem kendi çalışma ve tasarım modellerini güncelledi hem de paydaşlarını da bu sisteme davet ederek daha verimli bir entegrasyonu, iyi tasarımın yaygınlaşmasını ve kurumsal bağı arttıracak bir ekosistemin oluşmasını sağladılar. Alex Schleifer’in (Airbnb Tasarım Başkanı) dediği gibi: “İşte basit gerçek: İlk önce onları oluşturma şeklinizde yenilik yapmadan ürünlerde yenilik yapamazsınız.”. Bu yaklaşımı oldukça iyi özetleyen bu söz yenilikçi ürünler geliştirmek isteyen organizasyonların öncelikli olarak kendi çalışma biçimleri ve sistemlerinde bu arayışı sürdürmeleri ve oradan yaratılan buluşçu yaklaşımları paydaşlarına aktarabileceklerini ifade etmekte. Açık kaynak tasarım sistemlerinin de amacı bu yenilikçi yaklaşımın aktarımına dayanmaktadır (Aspelin, 2018).
+    > **Açıklama:** Sorunun çözümü 228. sayfada belirtilmektedir.
+    > Tasarımı organizasyon içinde, küçük bir ekipte kilitli bir sır olarak tutmak yerine, artık pek çok kuruluş geliştirdiği tasarım pratikleri kullanıma açmakta. Örneğin IBM ve MailChimp firmaları yakın zamanda görsel kimliklerini ve devamında tasarım geliştirme sistemlerini yeni çağın ihtiyaçlarına ayak uyduracak daha atik ve hızlı sistemlere evirmek üzere yeniledi. Paydaşlarına hizmet veren bu firmalar bu anlayış ile hem kendi çalışma ve tasarım modellerini güncelledi hem de paydaşlarını da bu sisteme davet ederek daha verimli bir entegrasyonu, iyi tasarımın yaygınlaşmasını ve kurumsal bağı arttıracak bir ekosistemin oluşmasını sağladılar. Alex Schleifer’in (Airbnb Tasarım Başkanı) dediği gibi: “İşte basit gerçek: İlk önce onları oluşturma şeklinizde yenilik yapmadan ürünlerde yenilik yapamazsınız.”. Bu yaklaşımı oldukça iyi özetleyen bu söz yenilikçi ürünler geliştirmek isteyen organizasyonların öncelikli olarak kendi çalışma biçimleri ve sistemlerinde bu arayışı sürdürmeleri ve oradan yaratılan buluşçu yaklaşımları paydaşlarına aktarabileceklerini ifade etmekte. Açık kaynak tasarım sistemlerinin de amacı bu yenilikçi yaklaşımın aktarımına dayanmaktadır (Aspelin, 2018).
 
     ***
 1. Aşağıdakilerden hangisi komponentlerin tasarım sistemlerinin içerisinde hangi öğeleri temsil ettiğini açıklar?
@@ -1718,7 +1772,8 @@
     - D-) Yalnızca tasarım ekibinin iç işleyişini.
     - E-) Sadece son kullanıcı deneyimini.
 
-    > **Açıklama:** Komponentler: Tasarım sistemlerinin genel geçer tanımlarında temel grafik arabirim öğelerini ve etkileşim biçimlerini ifade eden komponentler Hugher‘ın ihtiyaçlar piramidinde bir davranış biçimi ile tanımlanırlar.
+    > **Açıklama:** Sorunun çözümü 229. sayfada belirtilmektedir.
+    > Komponentler: Tasarım sistemlerinin genel geçer tanımlarında temel grafik arabirim öğelerini ve etkileşim biçimlerini ifade eden komponentler Hugher‘ın ihtiyaçlar piramidinde bir davranış biçimi ile tanımlanırlar.
 
     ***
 1. Aşağıdakilerden hangisi kullanıcıların ürün ve sistemlere olan bağlılıklarının değerlendirilmesini açıklar?
@@ -1728,7 +1783,8 @@
     - D-) Ürünün genel tasarımına göre.
     - E-) Kullanıcıların hissettiği güven ile.
 
-    > **Açıklama:** Her ne kadar arayüz öğeleri tasarım sistemlerinin temelini oluştursalar da kullanıcılar ürünleri ne kadar hoş butonları ya da renkleri olduğu için tercih etmezler. Piramidin bu aşamasında kullanıcıların sistem ve ürün üzerinde bağlılıkları kullanım hikâye modelleri üzerinden değerlendirilir.
+    > **Açıklama:** Sorunun çözümü 229. sayfada belirtilmektedir.
+    > Her ne kadar arayüz öğeleri tasarım sistemlerinin temelini oluştursalar da kullanıcılar ürünleri ne kadar hoş butonları ya da renkleri olduğu için tercih etmezler. Piramidin bu aşamasında kullanıcıların sistem ve ürün üzerinde bağlılıkları kullanım hikâye modelleri üzerinden değerlendirilir.
 
     ***
 1. Aşağıdakilerden hangisi komponentlerin tasarlanmasında yol açan etkileri açıklar?
@@ -1738,6 +1794,7 @@
     - D-) Sadece tasarım ekibinin iç işleyişine olumlu etki eder.
     - E-) Sadece tasarım sistemini karmaşıklaştırır.
 
-    > **Açıklama:** Toparlayıcı bir tanımla tasarımcıların salt grafik arabirimler değil aynı zamanda bu arabirim sistemlerini yöneten politikaları da tasarlarlar. Bu sayede hem iç bileşenler hem de son kullanıcı arasında akışkan bir tasarım sistemi kurulabilir. Bu da hem çalışma verimine hem de son deneyime birebir olumlu etki eder (Hugher, 2019)
+    > **Açıklama:** Sorunun çözümü 229. sayfada belirtilmektedir.
+    > Toparlayıcı bir tanımla tasarımcıların salt grafik arabirimler değil aynı zamanda bu arabirim sistemlerini yöneten politikaları da tasarlarlar. Bu sayede hem iç bileşenler hem de son kullanıcı arasında akışkan bir tasarım sistemi kurulabilir. Bu da hem çalışma verimine hem de son deneyime birebir olumlu etki eder (Hugher, 2019)
 
     ***

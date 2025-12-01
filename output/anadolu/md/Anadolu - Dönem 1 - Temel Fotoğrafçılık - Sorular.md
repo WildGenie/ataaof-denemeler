@@ -43,15 +43,15 @@
     ***
 1. FOTOĞRAF kelimesi ilk olarak ne zaman ve kim tarafından kullanılmıştır?
     - A-) 1826 yılında Fransız Joseph Nicephore Niepce
-    - B-) 1840 yılında Fransız Louis Jacques Mande Daguerre
+    - B-) 1840 yılında Fransız Louis Jacques Mande Daguerre
     - **Cevap C-) 1840 yılında İngiliz SirJohn F. W. Herschel**
-    - D-) 1840 yılında İngiliz William Henry Fox Talbot
-    - E-) 1850 yılında Fransız ressam Delacroix
+    - D-) 1840 yılında İngiliz William Henry Fox Talbot
+    - E-) 1850 yılında Fransız ressam Delacroix
 
     > **Açıklama:** Henry Fox Talbot birtakım kimyasal maddelere batırılmış kâğıtlar üzerinde görüntü elde etmeyi başardıysa da yavaş yavaş kararması ve görüntünün net olmaması nedeniyle kolayca unutulmuş olmasına rağmen, Henry Fox Talbot’un bu buluşu için, ilk defa İngiliz SirJohn F. W. Herschel tarafından 1840 yılında “FOTOĞRAF” kelimesi kullanılmıştır. Bir süre sonra da negatiflerin pozitife çevrilmesi başarılmıştır.
 
     ***
-1. Aşağıda verilen bilgilerden hangileri fotoğrafın tanımı ve gelişimi ile ilgili olarak doğrudur?<br />I. Yunanca olup anlam olarak ışık ve çizmek anlamına gelen photos ve graphes kelimelerinden oluşmaktadır.<br />II. 1840' lı yıllarda genel olarak helyograf ve dagerotip yöntemler geçerlidir.<br />III. Negatif ve pozitif işlemler de temel öneme sahip ilk kişi William Henry Fox Talbot 'dır.<br />IV. 1850' lili yıllarda fotoğrafta Stereograf ve Carte de Visitedir yöntemi kullanılmaya başlamıştır.
+1. Aşağıda verilen bilgilerden hangileri fotoğrafın tanımı ve gelişimi ile ilgili olarak doğrudur?<br />I. Yunanca olup anlam olarak ışık ve çizmek anlamına gelen photos ve graphes kelimelerinden oluşmaktadır.<br />II. 1840' lı yıllarda genel olarak helyograf ve dagerotip yöntemler geçerlidir.<br />III. Negatif ve pozitif işlemler de temel öneme sahip ilk kişi William Henry Fox Talbot 'dır.<br />IV. 1850' lili yıllarda fotoğrafta Stereograf ve Carte de Visitedir yöntemi kullanılmaya başlamıştır.
     - A-) II-III
     - B-) I-III
     - **Cevap C-) I-II-III-IV**
@@ -81,6 +81,16 @@
     > **Açıklama:** Geniş açılı objektifler: Bu objektiflerin en büyük özelliği, normal objektiflere göre konuyu gözün gördüğünden çok daha geniş açıda görebilmeleridir. 17-35mm arasını kapsayan objektiflerdir. Kullanım özelliği, dar alanlarda en geniş görüntü elde edebilmek içindir.
 
     ***
+1. Yarış arabalarının ya da motorlarının bitiş çizgisini ilk geçtikleri anda fotoğraflayan iki fotoğrafçının çektikleri pozlar birbirinden farklıdır. Birinin çektiği fotoğrafta çok net bir şekilde araba ya da motor gözükürken; diğerinde ise fotoğraf bir silueti andırmakta, araba ya da motor fark edilememektedir. Bu durum fotoğrafta hangi kavram ile açıklanabilir?
+    - **Cevap A-) Enstantane**
+    - B-) Objektif
+    - C-) Diyafram açıklığı
+    - D-) Diyafram genişliği
+    - E-) Vizör
+
+    > **Açıklama:** Enstantane veya örtücü film yüzeyine gelen ışığın süresini kontrol edendir. Örtücünün açık kalma süresini gösteren değerlere örtücü hızı denir. Bunlar, genellikle 1/1, 1/2, 1/4, 1/8, 1/15 1/30, 1/60, 1/125, 1/250, 1/500, 1/1000, 1/2000 şeklinde önceden belirlenmiş değerlerdir.
+
+    ***
 1. Aşağıdakilerden hangisi büyük fotoğraf makineleri için doğru **değildir?**
     - A-) 9 x 12 cm., 13 x 18 cm. ve daha büyük boyutlarda görüntü verirler
     - **Cevap B-) Instant ve rapid makineler örnek olarak verilebilir.**
@@ -98,7 +108,17 @@
     - D-) İlk olarak 1802 yılında Thomas Wedgwood’un gümüş nitratlı zemin üzerine görüntüyü kaydetmesi olarak bilinir.
     - E-) Karanlık kutuda oluşan görüntünün daha net olabilmesi için yapılan çalışmalarda camera obscura’ya mercek yerleştirme fikri ön plana çıkmıştır.
 
-    > **Açıklama:** Fotoğraf makinelerinin tarihine bakıldığında İtalyan matematikçi, fizikçi, hekim ve düşünür olan Girolamo Cardano, Venedikli mimar ve yazar olan Daniello Barbar,  Giovanni Battista Della Porta,  Johannes Kepler gibi farklı disiplinlerden bir çok bilim ve sanat insanının yer aldığı görülmektedir.
+    > **Açıklama:** Fotoğraf makinelerinin tarihine bakıldığında İtalyan matematikçi, fizikçi, hekim ve düşünür olan Girolamo Cardano, Venedikli mimar ve yazar olan Daniello Barbar, Giovanni Battista Della Porta, Johannes Kepler gibi farklı disiplinlerden bir çok bilim ve sanat insanının yer aldığı görülmektedir.
+
+    ***
+1. Camera Obscura’ya mercek yerleştirme fikrini 1550 yılında ileri süren kimdir?
+    - A-) Leonardo Da Vinci
+    - **Cevap B-) Girolamo Cardano**
+    - C-) Carl Wilhelm Scheele
+    - D-) Elizabeth Fulhame
+    - E-) Thomas Wedgwood
+
+    > **Açıklama:** Camera Obscura’ya mercek yerleştirme fikrini 1550 yılında ileri süren İtalyan, matematikçi, fizikçi, hekim ve düşünür olan Girolamo Cardano’dur.
 
     ***
 1. 1826 yılında, yaklaşık sekiz saatlik bir pozlamayla evinin penceresinden ilk defa bir görüntüyü sabitleyen kimdir?
@@ -155,6 +175,16 @@
     > Değişken odaklı objektifler
     > Makro objektifler
     > Balıkgözü objektifler
+
+    ***
+1. Aşağıdaki diyafram değerlerinden hangisi diğerlerine göre **en az** ışıklı ortamda, objektiften içeri daha fazla ışık geçmesine olanak tanır?
+    - **Cevap A-) 1\.2**
+    - B-) 2\.8
+    - C-) 5\.6
+    - D-) 32
+    - E-) 11
+
+    > **Açıklama:** Işıklı ortamlarda kısılıp az ışıklı ortamlarda açılır. Diyafram açıklığına “f ” adı verilir ve bu değerler 1.2 -1.4 - 1.8 - 2 - 2.8 - 4- 5.6 - 8 - 11 - 16 - 22 – 32 şeklinde belli bir rakamsal standardı bulunur. Sistemin özelliği rakamlar küçüldükçe objektiften giren ışık miktarı artar. Rakamlar büyüdükçe içeri giren ışık miktarı azalır.
 
     ***
 1. Modern fotoğrafın temellerinden olan ilk negatif pozitif fotoğraf işlemini gerçekleştirerek tek bir negatiften birden fazla kopya alınmasına olanak sağlayan ve fotoğrafın gelecekteki kültürel statüsünde önemli rol oynayan kişi aşağıdakilerden hangisidir?
@@ -217,7 +247,7 @@
     > **Açıklama:** Örtücü, film yüzeyine gelen ışığı süresini kontrol eden düzenektir.
 
     ***
-1. Çekilen objenin görüntüsünü, 1:1 ya da daha fazla oranda sensör üzerine düşüren,  objeyi çok yakınından net olarak fotoğraflama özelliği olan objektifler aşağıdakilerden hangisidir?
+1. Çekilen objenin görüntüsünü, 1:1 ya da daha fazla oranda sensör üzerine düşüren, objeyi çok yakınından net olarak fotoğraflama özelliği olan objektifler aşağıdakilerden hangisidir?
     - A-) Normal objektif
     - B-) Dar açılı objektif
     - C-) Geniş açılı objektif
@@ -228,13 +258,13 @@
 
     ***
 1. Aşağıdaki değerlerden hangisinde diyafram açıklığı **en** **fazla**dır?
-    - **Cevap A-) 1.2**
+    - **Cevap A-) 1\.2**
     - B-) 2
-    - C-) 1.4
-    - D-) 5.6
+    - C-) 1\.4
+    - D-) 5\.6
     - E-) 8
 
-    > **Açıklama:** Diyafram açıklığına “f ” adı verilir ve bu değerler 1.2 - 1.4 - 1.8 - 2 - 2.8 - 4- 5.6 - 8 - 11 - 16 - 22 – 32 şeklinde belli bir rakamsal standardı bulunur.  Sistemin özelliği rakamlar küçüldükçe objektiften giren ışık miktarı artar.
+    > **Açıklama:** Diyafram açıklığına “f ” adı verilir ve bu değerler 1.2 - 1.4 - 1.8 - 2 - 2.8 - 4- 5.6 - 8 - 11 - 16 - 22 – 32 şeklinde belli bir rakamsal standardı bulunur. Sistemin özelliği rakamlar küçüldükçe objektiften giren ışık miktarı artar.
     > Resim 1.24'e bakınız, "Diyaframın rakamsal değerlere göre açık kalma konumu"
 
     ***
@@ -269,6 +299,36 @@
     > **Açıklama:** Fox Talbot’un bu buluşu için, ilk defa İngiliz SirJohn F. W. Herschel tarafından 1840 yılında “FOTOĞRAF” kelimesi kullanılmıştır.
 
     ***
+1. Camera Obscura’ya mercek yerleştirme fikrini 1550 yılında ileri süren İtalyan düşünür kimdir ?
+    - **Cevap A-) Girolamo Cardano**
+    - B-) Carl Wilhelm Scheele
+    - C-) Elizabeth Fulhame
+    - D-) Thomas Wedgwood
+    - E-) Joseph Nicephore Niepce
+
+    > **Açıklama:** Camera Obscura’ya mercek yerleştirme fikrini 1550 yılında ileri süren İtalyan, matematikçi, fizikçi, hekim ve düşünür olan Girolamo Cardano’dur. Doğru cevap A şıkkıdır.
+
+    ***
+1. ![page3image4290400064](https://ets.anadolu.edu.tr/storage/nfs/questions/ac492dac9f6e64ba1c1d6a9f96e3e273.jpeg)<br />1826 yılında Fransız Joseph Nicephore Niepce tarafından elde edilen yukarıdaki görüntü ne olarak adlandırılır ?
+    - A-) Camera Obscura
+    - **Cevap B-) Helyograf**
+    - C-) Dagerotip
+    - D-) Negatif
+    - E-) Pozitif
+
+    > **Açıklama:** 1826 yılında Fransız Joseph Nicephore Niepce, yaklaşık sekiz saatlik bir pozlamayla evinin penceresinden ilk defa bir görüntüyü sabitlemiştir. Pencereden görünüm görüntüsü, ilk fotoğraf olarak kabul edilir ve aynı zamanda helyograf olarak adlandırılır.
+
+    ***
+1. Kullanılabilecek ilk fotoğraf makinesi hangi yıl geliştirilmiştir ?
+    - A-) 1835
+    - B-) 1900
+    - C-) 1810
+    - D-) 1880
+    - **Cevap E-) 1838**
+
+    > **Açıklama:** Kullanılabilecek ilk fotoğraf makinesi 1838 yılında Fransız ressam olan Louis Daguerre tarafından geliştirilmiştir. Doğru cevap E şıkkıdır.
+
+    ***
 1. 1852 yılında Kodak makinelerinde 10 poz çekebilen bromür kaplı Jelatin rulolar bulunan Kodak fotoğraf makinelerini piyasaya süren kişi kimdir ?
     - A-) Louis Daguerre
     - B-) William Henry Fox Talbot
@@ -296,7 +356,7 @@
     - D-) Nihat Odabaşı
     - **Cevap E-) Alice Liddell**
 
-    > **Açıklama:** Cumhuriyet sonrası, Türk fotoğrafında önemli bir yer tutmaktadır ve fotoğraf dünyasında özverili çalışmalarıyla bir yerlere gelmiş, çektikleri fotoğrafları dergi ve benzeri yerlerde gördüğümüz fotoğraf sanatçılarının isimlerini vermek gerektiğinde ilk hatırlananlar olarak, Ara Güler, Coşkun Aral, İzzet Keribar, Nihat Odabaşı, Sabit Kalfagil’i belirtebiliriz. Doğru cevap E şıkkıdır.
+    > **Açıklama:** Cumhuriyet sonrası, Türk fotoğrafında önemli bir yer tutmaktadır ve fotoğraf dünyasında özverili çalışmalarıyla bir yerlere gelmiş, çektikleri fotoğrafları dergi ve benzeri yerlerde gördüğümüz fotoğraf sanatçılarının isimlerini vermek gerektiğinde ilk hatırlananlar olarak, Ara Güler, Coşkun Aral, İzzet Keribar, Nihat Odabaşı, Sabit Kalfagil’i belirtebiliriz. Doğru cevap E şıkkıdır.
 
     ***
 1. ![page8image1338723664](https://ets.anadolu.edu.tr/storage/nfs/questions/d93678da15bc51a9eb410f4c05fc4d46.jpeg) Yukarıdaki iki objektifli ilk refleks makinenin adı nedir ?
@@ -320,6 +380,16 @@
     > **Açıklama:** Fotoğraf makinelerinin çeşitli boy ve özelliklerde olmasına rağmen, nasıl görüntü için ışık ve karanlık oda gerekliyse, fotoğraf makineleri içinde gerekli olan değişmez ana elemanlar söz konusudur. Bunlar: Objektif, Diyafram, Örtücü ve Vizör fotoğraf makinesinin ana elemanlarını oluşturur. Doğru cevap C şıkkıdır.
 
     ***
+1. 9 x 12 cm., 13 x 18 cm. ve daha büyük boyutlarda görüntü veren ve çoğu zaman tabaka film kullanılan makineler aşağıdakilerden hangisidir ?
+    - A-) Orta boy makineler
+    - B-) Küçük boy makineler
+    - **Cevap C-) Büyük boy makineler**
+    - D-) Sualtı makineleri
+    - E-) İnstamatik makineler
+
+    > **Açıklama:** Büyük boy makineler 9 x 12 cm., 13 x 18 cm. ve daha büyük boyutlarda görüntü veren ve çoğu zaman tabaka film kullanılan makinelerdir. Ağır ve elde taşınmaları zor olduğundan bir sehpa üzerinde kullanılmaları uygundur. Doğru cevap C şıkkıdır.
+
+    ***
 1. Analog bir fotoğraf makinesinin kimyasal bileşeni aşağıdakilerden hangisidir ?
     - A-) Objektif
     - **Cevap B-) Fotoğraf filmi**
@@ -337,7 +407,33 @@
     - D-) Sir John F. W. Herschel
     - E-) Joseph Nicephore Niepce
 
-    > **Açıklama:** Kullanılabilecek ilk fotoğraf makinesi 1838 yılında Fransız ressam olan Louis Daguerre tarafından geliştirilmiştir.
+    > **Açıklama:** Kullanılabilecek ilk fotoğraf makinesi 1838 yılında Fransız ressam olan **Louis Daguerre** tarafından geliştirilmiştir. Döneminde fotoğrafın bu kadar hızlı gelişmesinin sonucu olarak ressam **Paul Delacroix**’u endişelendirmiş ve bunun üzerine, bundan böyle resim ölmüş demiştir. Aynı süreler içinde **Henry Fox** **Talbot**, birtakım kimyasal maddelere batırılmış kâğıtlar üzerinde görüntü elde etmeyi başardıysa da yavaş yavaş kararması ve görüntünün net olmaması nedeniyle kolayca unutulmuş olmasına rağmen, Henry Fox Talbot’un bu buluşu için, ilk defa İngiliz **Sir John F. W. Herschel** tarafından 1840 yılında “FOTOĞRAF” kelimesi kullanılmıştır. 1826 yılında Fransız **Joseph Nicephore Niepce**, yaklaşık sekiz saatlik bir pozlamayla evinin penceresinden ilk defa bir görüntüyü sabitlemiştir. Pencereden görünüm görüntüsü, ilk fotoğraf olarak kabul edilir.
+
+    ***
+1. Fotoğraf sanayisinin tarihi düşünüldüğünde aşağıdakilerden hangisi diğerlerinden önce gelir?
+    - **Cevap A-) İsveç firması Hasselblad ilk refleksi, 6x6’lık, film kutusu değiştirilebilir, tek objektifli makineyi gerçekleştirir**
+    - B-) Kodak kitlelere yönelik ve şarjör 126 kapasiteli lnstamatic makineleri piyasaya çıkarır
+    - C-) Leitz ilk doğrudan refleks 24x36 Leicaflex’i piyasaya sürer
+    - D-) Kodak mini formatlı aletlerle lnstamatic Pocket sistemini pazarlar
+    - E-) Japonya’da Nikon 24x36, refleks, değiştirilebilir vizörlü Nikon F’yi piyasaya çıkarır
+
+    > **Açıklama:** 1948: İsveç firması Hasselblad ilk refleksi, 6x6’lık, film kutusu değiştirilebilir, tek objektifli makineyi gerçekleştirir
+    > 1959: Japonya’da Nikon 24x36, refleks, değiştirilebilir vizörlü Nikon F’yi piyasaya çıkarır
+    > 1963: Kodak kitlelere yönelik ve şarjör 126 (görüntü formatı: 35 mm.’lik filmde 26x26) kapasiteli lnstamatic makineleri piyasaya çıkarır
+    > 1964: Leitz ilk doğrudan refleks 24x36 Leicaflex’i piyasaya sürer
+    > 1972: Kodak mini formatlı aletlerle lnstamatic Pocket sistemini pazarlar
+    > A seçeneği tarih sıralamasına göre diğer seçeneklerden önce gerçekleşmiştir.
+
+    ***
+1. "*Cisimlerden gelen ışınları alıp film ya da algılayıcı yüzeyine aktaran yakınsak mercek veya mercek sistemidir."*<br />Yukarıdaki cümle fotoğraf makinesinin hangi unsurunu tanımlamaktadır?
+    - A-) Odak
+    - B-) Vizör
+    - C-) Diyafram
+    - **Cevap D-) Objektif**
+    - E-) Örtücü
+
+    > **Açıklama:** Objektif: Bir diğer adıyla lens, fotoğraf makinesi, dürbün, mikroskop gibi optik aletlerde cisimlerden gelen ışınları alıp film ya da algılayıcı yüzeyine aktaran yakınsak mercek veya mercek sistemidir.
+    > Cümle objektifi tanımlamaktadır. Doğru cevap D'dir.
 
     ***
 1. En geniş açıya sahip olup 6-16mm arasını kapsayan objektifler aşağıdakilerden hangisidir?
@@ -347,7 +443,8 @@
     - D-) Normal objektifler
     - E-) Geniş açılı objektifler
 
-    > **Açıklama:** En geniş açıya sahip objektifler balıkgözü objektiflerdir. Doğru cevap B'dir.
+    > **Açıklama:** Balıkgözü Objektifler: En geniş açıya sahip objektiflerdir ve 6-16mm arasını kapsar. Görüntüde bozulmalara yol açtığı için genellikle fotoğrafa özel bir efekt havası verme veya fotoğrafı farklı bir açıdan sunma gibi durumlarda kullanılır
+    > En geniş açıya sahip objektifler balıkgözü objektiflerdir. Doğru cevap B'dir.
 
     ***
 1. *"Önde dönen objektifin arkasında düz bir yarık bulunmaktadır. Objektif dönünce bu yarıktan sızan ışınlar da film yüzeyini tarayarak objektifin dönüş derecesi kadar geniş bir sahanın görüntüsünü verir."*<br />Yukarıda bahsedilen fotoğraf makinesi çeşidi aşağıdakilerden hangisidir?
@@ -357,7 +454,18 @@
     - **Cevap D-) Panaromik Makineler**
     - E-) Stereoskobik Makineler:
 
-    > **Açıklama:** Önde dönen objektifin arkasında düz bir yarık bulunmaktadır. Objektif dönünce bu yarıktan sızan ışınlar da film yüzeyini tarayarak objektifin dönüş derecesi kadar geniş bir sahanın panaromik bir görüntüsünü verir ki, böylece 140° bir sahanın panaromik görüntüsü elde edilmiş olur. Doğru cevap D'dir.
+    > **Açıklama:** Panaromik Makineler: Fotoğraf makineleri belirli bir açıya gelen ışınları alabilir ve makinelerin tiplerine bağlı olarak genellikle bu açılar 45 ile 80 derece arasındadır. Geniş bir görüş açısı içindeki bir konunun fotoğrafının çekilmesi gerekebilir. Panaromik makinelerin objektif kısımları sağdan sola hareket ederek 24x60 mm. boyutunda bir görüntü verir. Önde dönen objektifin arkasında düz bir yarık bulunmaktadır. Objektif dönünce bu yarıktan sızan ışınlar da film yüzeyini tarayarak objektifin dönüş derecesi kadar geniş bir sahanın panaromik bir görüntüsünü verir ki, böylece 140° bir sahanın panaromik görüntüsü elde edilmiş olur.
+    > Önde dönen objektifin arkasında düz bir yarık bulunmaktadır. Objektif dönünce bu yarıktan sızan ışınlar da film yüzeyini tarayarak objektifin dönüş derecesi kadar geniş bir sahanın panaromik bir görüntüsünü verir ki, böylece 140° bir sahanın panaromik görüntüsü elde edilmiş olur. Doğru cevap D'dir.
+
+    ***
+1. Aşağıdakilerden hangisi özel kullanışlı fotoğraf makinelerinin bir çeşidi **değildir?**
+    - **Cevap A-) Körüklü Katlanabilir Makineler**
+    - B-) Polaroid Land Makineler
+    - C-) Panaromik Makineler
+    - D-) İnstant ve Rapid Makineler
+    - E-) Stereoskobik Makineler
+
+    > **Açıklama:** Körüklü katlanabilir fotoğraf makineleri büyük fotoğraf makinelerindendir ve özel kullanışlı fotoğraf makinelerinin bir çeşidi değildir. Doğru cevap A'dır.
 
     ***
 1. Ayna ya da prizmayla yansıtma sistemine sahip fotoğraf makinesi çeşidi aşağıdakilerden hangisidir?
@@ -367,7 +475,8 @@
     - D-) Stereoskobik Makineler
     - E-) İnstant ve Rapid Makineler
 
-    > **Açıklama:** Çift Objektifli Refleks TLR Fotoğraf Makineleri: Çift objektifi olan, Reflex yani ayna yada prizmayla yansıtma sistemine sahip fotoğraf makinesi çeşitlerine TLR çift objektifli Fotoğraf Makineleri denir. Doğru cevap B'dir.
+    > **Açıklama:** Çift Objektifli Refleks TLR Fotoğraf Makineleri: Çift objektifi olan, Reflex yani ayna yada prizmayla yansıtma sistemine sahip fotoğraf makinesi çeşitlerine TLR çift objektifli Fotoğraf Makineleri denir. Bu fotoğraf makinelerin iki objektiflidir. Bel hizasında kullanılan analog fotoğraf makinesinin iki objektifli olmasının nedeni, alttaki objektif görüntüyü kaydetmek, üstteki objektif ise vizör görevi görerek kadrajı ayarlamaktır. Bu makinelerde orta format film (6×6 cm) kullanılır, 35mm (2,4 x 3,6) cm film kullananları da vardır.
+    > Çift Objektifli Refleks TLR Fotoğraf Makineleri: Çift objektifi olan, Reflex yani ayna yada prizmayla yansıtma sistemine sahip fotoğraf makinesi çeşitlerine TLR çift objektifli Fotoğraf Makineleri denir. Doğru cevap B'dir.
 
     ***
 1. Camera Obscura’ya mercek yerleştirme fikrini 1550 yılında ileri süren matematikçi, fizikçi, hekim ve düşünür aşağıdakilerden hangisidir?
@@ -400,6 +509,36 @@
     > **Açıklama:** İlk fotoğrafla ilgili kulüp, **Şinasi Barutçu** tarafından 1950 yılında Ankara’da TAFK (Türkiye Amatör Fotoğraf Klübü) adıyla kurulmuştur.
 
     ***
+1. Fotoğraf makinelerinin çeşitli boy ve özelliklerde olmasına rağmen, nasıl görüntü için ışık ve karanlık oda gerekliyse, fotoğraf makineleri içinde gerekli olan değişmez ana elemanlar söz konusudur. Aşağıdakilerden hangisi bunlardan birisi **değildir?**
+    - A-) Objektif
+    - B-) Diyafram
+    - C-) Örtücü
+    - D-) Vizör
+    - **Cevap E-) Deklanşör**
+
+    > **Açıklama:** Fotoğraf makinelerinin çeşitli boy ve özelliklerde olmasına rağmen, nasıl görüntü için ışık ve karanlık oda gerekliyse, fotoğraf makineleri içinde gerekli olan değişmez ana elemanlar söz konusudur. Bunlar: **Objektif**, **Diyafram**, **Örtücü ve Vizör** fotoğraf makinesinin ana elemanlarını oluşturur.
+
+    ***
+1. Fotoğraf makinelerinin objektiflerinde, film ya da algılayıcının yüzeyine ulaşacak ışık miktarını, açılıp kısılarak ayarlayan düzeneğin adı nedir?
+    - A-) Deklanşör
+    - **Cevap B-) Diyafram**
+    - C-) Vizör
+    - D-) Makro
+    - E-) Zoom
+
+    > **Açıklama:** **Diyafram**: Fotoğraf makinelerinin objektiflerinde, film ya da algılayıcının yüzeyine ulaşacak ışık miktarını, açılıp kısılarak ayarlayan düzenektir. Işıklı ortamlarda kısılıp az ışıklı ortamlarda açılır. Diyafram açıklığına “f ” adı verilir ve bu değerler 1.2 - 1.4 - 1.8 - 2 - 2.8 - 4- 5.6 - 8 - 11 - 16 - 22 – 32 şeklinde belli bir rakamsal standardı bulunur, Resim 1.24. Sistemin özelliği rakamlar küçüldükçe objektiften giren ışık miktarı artar.
+
+    ***
+1. Fotoğraf makinelerindeki teknik gelişmelerle birlikte ilk değişime uğrayan diyafram olmuştur. Bütün fotoğraf makinelerinde kullanılan diyafram tiplerinin en yenisi aşağıdakilerden hangisidir?
+    - A-) İso diyafram
+    - B-) Makro diyafram
+    - **Cevap C-) İris diyafram**
+    - D-) Junk diyafram
+    - E-) Mikro diyafram
+
+    > **Açıklama:** Fotoğraf makinelerindeki teknik gelişmelerle birlikte ilk değişime uğrayan diyafram olmuştur. Kamburoğluna göre, diyaframın ilk gelişiminde esas ilke delikli bir plakadır. Bu kez delikler bir daire üzerine yerleştirilmilştir. Bütün fotoğraf makinelerinde kullanılan diyafram tiplerinin en yenisi, **iris diyaframıdır,** Resim 1.25.
+
+    ***
 1. Modern fotoğrafın temellerini atan, ilk negatif pozitif fotoğraf işlemi gerçekleştirerek tek bir negatiften birden fazla kopya alınmasını bulan kişi aşağıdakilerden hangisidir?
     - A-) Carl Wilhelm Scheele
     - **Cevap B-) William Henry Fox Talbot**
@@ -430,7 +569,7 @@
     > **Açıklama:** **Stereograf** yöntemi özel bir gözlükle bakıldığında iki farklı açıdan çekilmiş aynı görüntünün yan yana yapıştırılmasından oluşmuş bir fotoğraf çeşididir
 
     ***
-1. Cumhuriyetin ilanından sonraki dönemin fotoğrafçısı ve  Atatürk’ün fotoğraflarını çekerek portre geleneğini devam ettiren ve  foto muhabiri unvanı ile atanan ilk kişi olmuştur. Sözü edilen kişi aşağıdakilerden hangisidir?
+1. Cumhuriyetin ilanından sonraki dönemin fotoğrafçısı ve Atatürk’ün fotoğraflarını çekerek portre geleneğini devam ettiren ve foto muhabiri unvanı ile atanan ilk kişi olmuştur. Sözü edilen kişi aşağıdakilerden hangisidir?
     - A-) Ayhan Işık
     - **Cevap B-) Cemal Işıksel**
     - C-) Cemal Süreya
@@ -440,7 +579,7 @@
     > **Açıklama:** Cumhuriyetin ilanından sonraki dönemin fotoğrafçısı **Cemal Işıksel** ise Atatürk’ün fotoğraflarını çekerek portre geleneğini devam ettiren ve ilk foto muhabiri unvanı ile atanan kişi olmuştur. Bu göreve 1929 yılında Atatürk’ün emriyle Ankara Ulus Gazetesi’nde başlamıştır.
 
     ***
-1. Çekilen fotoğrafın temel değerler taşıyabilmesi için  güzel sanatlarla ilgili hangi temel özelliği bünyesinde barındırması gerekmez ?
+1. Çekilen fotoğrafın temel değerler taşıyabilmesi için güzel sanatlarla ilgili hangi temel özelliği bünyesinde barındırması gerekmez ?
     - A-) ışığı
     - B-) rengi
     - C-) ton değerleri
@@ -448,6 +587,16 @@
     - E-) kompozisyon
 
     > **Açıklama:** Çekilen fotoğrafın temel değerler taşıyabilmesi için ışığı, rengi, ton değerleri, kompozisyon gibi, güzel sanatlarla ilgili temel özellikleri bünyesinde barındırması gerekir.
+
+    ***
+1. İyi bir fotoğrafçı için söylenecek söz, teknik bilgileri özümsemiş, kültürel değerlerini kullanabilen ve herkesten farklı bir .............. olabilmedir. Cümlesindeki boşluk aşağıdaki şıklardan hangisyle dolmalıdır?
+    - A-) bakış ve çizime sahip
+    - **Cevap B-) bakış ve görüşe sahip**
+    - C-) bakış ve paraya sahip
+    - D-) bakış ve yaşa sahip
+    - E-) bakış ve kitaba sahip
+
+    > **Açıklama:** İyi bir fotoğrafçı için söylenecek söz, teknik bilgileri özümsemiş, kültürel değerlerini kullanabilen ve herkesten farklı bir **bakış ve görüşe** sahip olabilmedir.
 
     ***
 1. Fotograf makinasının ana elemanı objektifin diğer bir adı aşağıdakilerden hangisidir?
@@ -470,7 +619,7 @@
     > **Açıklama:** Kutu Fotoğraf Makinaları: Fotoğraf makinelerinin en basit ve ilkel olanlarıdır. **Kutu fotoğraf makinelerinde** roll film kullanılır ve gövdeleride madeni veya bakalit olabilir,
 
     ***
-1. "Vizör objektiften tamamen bağımsızdır. Bu tip makinelerde vizörde pentaprizma (gelen ışığı odaklamamıza ve ters gelen görüntüyü düz olarak görmemizi sağlar) olmadığı için, objektiften gelen ışık doğrudan sensöre ulaşır." Çalışması bu şekilde  tanımlanan makine aşağıdakilerden hangisidir?
+1. "Vizör objektiften tamamen bağımsızdır. Bu tip makinelerde vizörde pentaprizma (gelen ışığı odaklamamıza ve ters gelen görüntüyü düz olarak görmemizi sağlar) olmadığı için, objektiften gelen ışık doğrudan sensöre ulaşır." Çalışması bu şekilde tanımlanan makine aşağıdakilerden hangisidir?
     - **Cevap A-) Digital Makina**
     - B-) Analog Makina
     - C-) Renkli Makina
@@ -509,6 +658,16 @@
     - E-) Joseph Nicephore Niepce
 
     > **Açıklama:** Kullanılabilecek ilk fotoğraf makinesi 1838 yılında Fransız ressam olan Louis Daguerre tarafından geliştirilmiştir. Doğru cevap B seçeneğinde verilmiştir.
+
+    ***
+1. Aşağıda verilen isimlerden hangisi Atatürk’ün fotoğraflarını çekerek portre geleneğini devam ettiren ve foto muhabiri unvanı ile atanan ilk kişi olmuştur?
+    - A-) Vasil Kargopoulo
+    - B-) Bogos Tarkulyan
+    - C-) Selahattin Giz
+    - **Cevap D-) Cemal Işıksel**
+    - E-) Şinasi Barutçu
+
+    > **Açıklama:** Cumhuriyet döneminde fotoğraf stüdyoları kısa sürede ülke geneline yayılmıştır ve cumhuriyetin ilanından sonraki dönemin fotoğrafçısı Cemal Işıksel ise Atatürk’ün fotoğraflarını çekerek portre geleneğini devam ettiren ve ilk foto muhabiri unvanı ile atanan kişi olmuştur. Bu göreve 1929 yılında Atatürk’ün emriyle Ankara Ulus Gazetesi’nde başlamıştır. Atatürk’e ait zengin bir fotoğraf koleksiyonuna da sahiptir. Doğru cevap D seçeneğinde verilmiştir.
 
     ***
 1. En geniş açıya sahip objektifler hangi seçenekte verilmiştir?
@@ -578,7 +737,7 @@
     - D-) Polaroid Land Makineler
     - E-) Körüklü Katlanabilir Fotoğraf Makineleri
 
-    > **Açıklama:** Stereoskobik Makinelerin özelliği görüntüyü üç boyutlu olarak görebilmek için üzerinde bulunan iki ayrı kamera ile aynı anda,  iki farklı açıdan çekebilmesi esasına dayanır. Doğru cevap B seçeneğinde verilmiştir.
+    > **Açıklama:** Stereoskobik Makinelerin özelliği görüntüyü üç boyutlu olarak görebilmek için üzerinde bulunan iki ayrı kamera ile aynı anda, iki farklı açıdan çekebilmesi esasına dayanır. Doğru cevap B seçeneğinde verilmiştir.
 
     ***
 ## Unite 2
@@ -612,6 +771,26 @@
     > **Açıklama:** Fotoğrafın ortaya çıkması için kullanılan teknik aydınlatma gün ışığı ve gün ışığının etkilerini taklit eden diğer ışık türlerinin kullanımı ile ilgilidir. Görüntünün oluşması için gerekli olan teknik aydınlatmada dikkat çekilecek hususlar ışık kaynakları, ışığın şiddeti, kontrast, parlaklık, ışığın kalitesi ve ışık yönüdür.
 
     ***
+1. Zıtlık anlamı taşıyan ve fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatan teknik aydınlatma terimi hangisidir?
+    - A-) Parlaklık
+    - **Cevap B-) Kontrast**
+    - C-) Işık kaynağı
+    - D-) Işık şiddeti
+    - E-) Işık yönü
+
+    > **Açıklama:** Kontrast, zıtlık anlamını taşıyan bir kelimedir. Fotoğrafçılıkta sıkça kullanılan kontrast, fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmaktadır. Diğer bir ifade ile kontrast parlaklık, yoğunluk veya koyuluk açısından iki veya daha fazla ton arasındaki farkı açıklamak için kullanılır.
+
+    ***
+1. Kelime anlamı açık-koyu olan ve vurgulanmak istenen nesnenin açılı bir ışıkla ortaya çıktığı resimsel ışık türü hangisidir?
+    - **Cevap A-) Chiaroscuro**
+    - B-) Yumuşak ışık
+    - C-) Boyasal ışık
+    - D-) Gün ışığı ve dramatik etki
+    - E-) Gölge
+
+    > **Açıklama:** Kelime anlamı açık-koyu demektir. Işık ile yüksek kontrastlar oluşturulur ve vurgulanmak istenen nesne veya figürler açılı bir ışıkla ortaya çıkar. Gölgelerdeki detaylar kaybolmuştur ve sanatçı sert ışığın gücünü kullanır. Keskin yan ışık olarak da tanımlanan bu tür ünlü İtalyan ressam Caravaggio ile anılmaktadır. Dramatik etkisi güçlüdür. Fotoğrafa kasvet ve gizem etkisi katar. Tek bir ışık kaynağı kullanılmakta kontrastın yüksek değerlerde kalmasını istedikleri için bu ışık türünde dolgu ışığına veya başka ışık kaynaklarına yer verilmemektedir.
+
+    ***
 1. İnsan gözünün algılayabildiği dalga boyu aralığı kaçtır?
     - A-) 300 nm ile 900 nm arası
     - B-) 500 nm ile 900 nm arası
@@ -639,7 +818,7 @@
     - D-) 7000
     - **Cevap E-) 8000**
 
-    > **Açıklama:** DSLR fotoğraf makinelerinde beyaz ayarı menüsünde karşınıza çıkacak olan ayarlamalardan olan gölge modu 8000 Kelvin ile fotoğraflara sıcak bir görüntü katar.
+    > **Açıklama:** DSLR fotoğraf makinelerinde beyaz ayarı menüsünde karşınıza çıkacak olan ayarlamalardan olan gölge modu 8000 Kelvin ile fotoğraflara sıcak bir görüntü katar.
 
     ***
 1. Renklerin ilişkisine dair bulgulardan hangisi **yanlıştır**?
@@ -666,6 +845,46 @@
     > **Açıklama:** İnsanın görebilmesi için temel belirleyici ışıktır. İnsanının dünyayı algılayış sürecindeki en etkin duyu organı gözler ışıkla ilişkimizi düzenler. Görme, nesnelerden gözümüze yansıyan ışığın gözü uyararak retina tabakasında görüntünün oluşmasıyla gerçekleşir. Fotoğraf makineleri ise göz ile işleyiş açısından benzerlik gösterir. Fotoğraf makinelerinde gözde bulunan ve ışığın şiddetinin ayarlayan gözbebeğine benzer bir sistem yani diyafram, ışığı odaklayan göz merceğine benzeyen lens ve gözdeki retinaya benzeyen duyarlı film yüzeyi veya sensörler bulunur.
 
     ***
+1. I. Işık kaynakları<br />II. Işığın şiddeti<br />III. Kontrast<br />IV. Parlaklık<br />V. Işığın kalitesi ve ışık yönü<br />Yukarıdakilerden hangisi/hangileri görüntünün oluşması için gerekli olan teknik aydınlatma sağlanırken göz önünde bulundurulması gereken unsurlar arasında yer alır?
+    - **Cevap A-) I, II, III, IV ve V**
+    - B-) II, III, IV ve V
+    - C-) I, II, IV ve V
+    - D-) I, III, IV ve V
+    - E-) I, II, III ve IV
+
+    > **Açıklama:** Fotoğrafın ortaya çıkması için kullanılan teknik aydınlatma gün ışığı ve gün ışığının etkilerini taklit eden diğer ışık türlerinin kullanımı ile ilgilidir. Görüntünün oluşması için gerekli olan teknik aydınlatmada dikkat çekilecek hususlar ışık kaynakları, ışığın şiddeti, kontrast, parlaklık, ışığın kalitesi ve ışık yönüdür.
+
+    ***
+1. Işığın şiddetinin az, kalitesinin yumuşak olduğu, kontrast etkinin düşük ve gölgelerdeki detayların görüldüğü dramatik aydınlatma türü aşağıdakilerden hangisidir?
+    - **Cevap A-) Yumuşak ışık**
+    - B-) Boyasal ışık
+    - C-) Gün ışığı ve dramatik etki
+    - D-) Gölge
+    - E-) Chiaroscuro
+
+    > **Açıklama:** Resimsel ışık türü olarak yumuşak ışıkta ışığın şiddeti azdır ve kalitesi yumuşaktır. Kontrast etki düşüktür ve gölgelerdeki detaylar da görülür.
+
+    ***
+1. I. Renk ışıktır ve ışığın maddeler üzerine düşerek bu maddeler tarafından kısmen emilmesi ve gözün retinasına yansıtılmasıyla ortaya çıkan bir algılamadır.<br />II. Renk, ışık ve üzerine düştüğü maddenin bir karışımıdır denebilir.<br />III. Maddelerin üzerine düşen dalga boylarındaki bu değişim renk algısını meydana getirir.<br />Yukarıdakilerden hangisi/hangileri renk için söylenebileceklerin arasında yer alır?
+    - A-) I ve II
+    - B-) II ve III
+    - **Cevap C-) I, II ve III**
+    - D-) I ve III
+    - E-) Yalnız I
+
+    > **Açıklama:** Renk ışıktır ve ışığın maddeler üzerine düşerek bu maddeler tarafından kısmen emilmesi ve gözün retinasına yansıtılmasıyla ortaya çıkan bir algılamadır. Renk, ışık ve üzerine düştüğü maddenin bir karışımıdır denebilir. Maddelerin üzerine düşen dalga boylarındaki bu değişim renk algısını meydana getirir.
+
+    ***
+1. Fotoğraflara sıcak bir görüntü katılmak isteniyorsa DSLR fotoğraf makinelerinde beyaz ayarı menüsünde karşınıza çıkacak olan ayarlamaların hangisi uygulanmalıdır?
+    - A-) AWB
+    - B-) Gün ışığı modu
+    - C-) Bulutlu gökyüzü modu
+    - **Cevap D-) Gölge modu**
+    - E-) Flaş ışığı modu
+
+    > **Açıklama:** Fotoğraflara sıcak bir görüntü katılmak isteniyorsa DSLR fotoğraf makinelerinde beyaz ayarı menüsünde karşınıza çıkacak olan gölge modu tercih edilmelidir. Çünkü gölge modu 8000 Kelvin ile fotoğraflara sıcak bir görüntü katacaktır.
+
+    ***
 1. Fotoğraftaki genel renk doygunluğunu aşağıdakilerden hangisi etkiler?
     - **Cevap A-) Pozlandırma**
     - B-) Mekan
@@ -676,6 +895,26 @@
     > **Açıklama:** Fotoğraftaki genel renk doygunluğunu pozlandırma etkiler. Fotoğrafçının yaratmak istediği duygu veya anlam, doygunluğun pozlandırma ile ilişkisi nedeniyle bu teknik unsurla bağlantılıdır. Bunun için arzu edilen etkinin ortaya çıkması ve istenilen genel doygunluk için doğru pozlandırma değerinin seçilmesi de önemli bir etkendir.
 
     ***
+1. DSLR fotoğraf makinesi kullanan pek çok fotoğrafçı özel tonlamalar yapmak istemedikleri zamanlarda makinelerinin beyaz ayarını “A” veya “AWB” sembolüne getirmelerinin sebebi aşağıdakilerden hangisidir?
+    - A-) Kendi istedikleri Kelvin değerini ayarlamak istemeleri
+    - **Cevap B-) Otomatik beyaz ayarı seçeneğini kullanmak istemeleri**
+    - C-) Filtreye ihtiyaç duymamaları
+    - D-) Tonlama yapmak istemeleri
+    - E-) En iyi fotoğrafın söz konusu ayarda çekilebileceği düşüncesi
+
+    > **Açıklama:** DSLR fotoğraf makinesi kullanan pek çok fotoğrafçı özel tonlamalar yapmak istemedikleri zamanlarda makinelerinin beyaz ayarını “A” veya “AWB” sembolüne getirerek otomatik beyaz ayarı seçeneğini kullanmaktadır. Böylelikle örneğin floresan ışığında çekilen bir fotoğrafta ortaya çıkacak yeşil tonlar ortadan kısmen kaldırılacaktır.
+
+    ***
+1. Adobe Photoshop ve Adobe Lightrooom gibi fotoğraf işlemeye yarayan programlarda bulunan kavramlardan biri olan “clarity” hangi işlemi yapmaya olanak tanır?
+    - A-) Fotoğraftaki beyazların değerlerini değiştirmenize olanak sağlar.
+    - B-) Fotoğraftaki siyahların değerlerini değiştirmenize olanak sağlar.
+    - **Cevap C-) Fotoğraftaki nesnelerin dokularını ve renklerini daha net hale getirebilir.**
+    - D-) Fotoğrafın renk doygunluğu, canlılığını, renklerin yoğunluğu veya zenginliğini ayarlar.
+    - E-) Daha az doygun renklerin yoğunluğunu ayarlar.
+
+    > **Açıklama:** Clarity, netlik anlamına gelir ve fotoğraftaki nesnelerin dokularını ve renkleri daha net hale getirebileceğiniz kısımdır.
+
+    ***
 1. Fotoğraf işleme programlarında “Adjustment Brush” seçeneğinin görevi aşağıdakilerden hangisidir?
     - A-) Fotoğraftaki siyahların değerlerini değiştirmenize olanak sağlar.
     - B-) Fotoğraftaki gölgeleri yani en düşük poz değerlerini değiştirmenize olanak sağlar.
@@ -684,6 +923,26 @@
     - E-) Fotoğraftaki en yüksek poz değerini ayarlar.
 
     > **Açıklama:** “Adjustment Brush” seçeneğinin seçilmesi durumunda çıkan fırça ile seçilecek yerlerde bölgesel renk ve ışık ayarları yapabilmek mümkündür.
+
+    ***
+1. Aşağıdakilerden hangisi Ortam ışığı çeşitlerinden **değildir?**
+    - A-) Gün ışığı,
+    - B-) Tungsten ev ampülleri,
+    - C-) Floresan
+    - D-) Ateş ışığı
+    - **Cevap E-) Flaşlar**
+
+    > **Açıklama:** Işık kaynakları genel olarak ortam ışığı, yapay ışıklar ve flaşlar olarak sınıflandırılabilir. Ortam ışığı; gün ışığı, tungsten ev ampülleri, floresan ve ateş ışığı olarak dört sınıfta incelenmektedir.
+
+    ***
+1. Aşağıdakilerden hangisi Fotoğrafta kullanılan güneş ışığı için söylenebilir?
+    - A-) Fotoğrafta ana kaynak olarak tercih edilirse sıcak tonlar üretir.
+    - B-) Fotoğrafik görüntü üzerinde düzeltilmesi zor bir yeşil tonlama yapacaktır.
+    - C-) Uzun pozlamalarla kırmızı tonları ile güçlü etkiler yakalanabilir.
+    - **Cevap D-) Güneş ışığı günün çeşitli saatlerinde farklı etkiler üretir.**
+    - E-) Sürekli ışık üretebilen aynı yoğunlukta kaynaklardır.
+
+    > **Açıklama:** Işık kaynakları genel olarak ortam ışığı, yapay ışıklar ve flaşlar olarak sınıflandırılabilir. Ortam ışığı; gün ışığı, tungsten ev ampülleri, floresan ve ateş ışığı olarak dört sınıfta incelenmektedir. Gün ışığı veya güneş ışığı baskın ve ana (anahtar) ışık olarak kabul edilir. Günün çeşitli saatlerinin farklı etkiler yarattığı belirtilmelidir. Tungsten ev ampulleri yaygın kullanılan elektirikli ışık türüdür ve fotoğrafta ana kaynak olarak tercih edilirse sıcak tonlar üretir. Floresan ışık fotoğrafik görüntü üzerinde düzeltilmesi zor bir yeşil tonlama yapacaktır. Ateş ışığı çıplak alevlerden gelir ve ışık yoğunluğu düşük olabilir. Uzun pozlamalarla kırmızı tonları ile güçlü etkiler yakalanabilir.
 
     ***
 1. Aşağıdaki kelimelerden hangisi boş bırakılan yere gelmelidir?<br />Fotoğrafçılıkta sıkça kullanılan –––––––––––––fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmaktadır.
@@ -741,6 +1000,21 @@
     > **Açıklama:** Aynı renk özündeki tonların uyumunu anlatmaktadır. Örneğin sarı hakim bir mekânda diğer objelerin de sarının tonlarında olması durumu. Özel bir renk kontrastı olarak kabul edilmektedir ve nesnenin renginin vurgulanması ile onun konu içinde belirginleşmesini sağlar.
 
     ***
+1. Fotoğrafta renk kullanımı kaç temel grupta incelenir Aşağıdakilerden hangisi bu gruptandır?
+    - **Cevap A-) 4-Sembolik renk**
+    - B-) 2-White balance
+    - C-) 6-Kelvin
+    - D-) 3-Pozlandırma
+    - E-) 5-Munsell
+
+    > **Açıklama:** Bu bağlamda fotoğrafta renk kullanımını 4 temel gurupta inceleyebiliriz.
+    > Resimsel renk
+    > Tarihsel renk
+    > Sembolik renk
+    > Psikolojik renk
+    > Sembolik renk: Sembolik renkler kültürle ve dille doğrudan ilgilidir. Pek çok kültürde yeşilin ümit ve kırmızının ihtirasın sembolü olduğu düşünülmektedir. Bu ortak algı sayesinde sanatçılar renklerle belirli etkileri ortaya koymaktadır.
+
+    ***
 1. Çağımızda fotoğrafçılar DSLR fotoğraf makinelerinden dijital görüntüler elde etmektedir. Bilgisayarlar vasıtasıyla ışık, renk ve diğer unsurlarını düzenleme imkânı sunmaktadır. Bu düzenlemeler için en uygun format hangisidir?
     - A-) JPEG
     - B-) PNG
@@ -749,6 +1023,16 @@
     - **Cevap E-) RAW**
 
     > **Açıklama:** RAW formatı maksimum veriyi barındıran sıkıştırılmamış bir formattır. RAW formatının daha fazla veri barındırması nedeniyle yazımların bu formatta müdahalelerinin daha verimli olduğu belirtilmelidir.
+
+    ***
+1. Aşağıdakilerden hangisi teknik aydınlatmada dikkat edilecek hususlardan biri değildir?
+    - A-) Işık kaynakları
+    - B-) Işığın şiddeti
+    - **Cevap C-) Işığın rengi**
+    - D-) Işığın yönü
+    - E-) Işığın kalitesi
+
+    > **Açıklama:** Görüntünün oluşması için gerekli olan teknik aydınlatmada dikkat çekilecek hususlar ışık kaynakları, ışığın şiddeti, kontrast, parlaklık, ışığın kalitesi ve ışık yönüdür.
 
     ***
 1. Fotoğrafik görüntü üzerinde düzeltilmesi zor yeşil bir tonlama yapan ışık kaynağı aşağıdakilerden hangisidir?
@@ -769,6 +1053,16 @@
     - **Cevap E-) Röfle**
 
     > **Açıklama:** Işık, en iyi gümüş renkten yansır. Yansıyan bu ışığa "röfle" ışık denmektedir.
+
+    ***
+1. Bulutsuz gökyüzünün Kelvin cinsinden ısı değeri aşağıdakilerden hangisidir?
+    - A-) 2000 K
+    - B-) 2900 K
+    - C-) 5500 K
+    - D-) 7000 K
+    - **Cevap E-) 10000 K**
+
+    > **Açıklama:** Bulutsuz gökyüzü 10000 K ısı değerindedir.
 
     ***
 1. DSLR makinelerde beyaz ayarı menüsünde karşımıza çıkan ve 8000 Kelvin ile fotoğraflara sıcak bir görüntü aktaracak olan mod aşağıdakilerden hangisidir?
@@ -811,7 +1105,17 @@
     > **Açıklama:** Camera calibration menüsü fotoğrafçıya daha detaylı bir tonlama imkanı sağlamaktadır.
 
     ***
-1. Aşağıdakilerden hangisi Görüntünün oluşması için gerekli olan teknik aydınlatmada  dikkat  çekilecek  hususlardan biri **değildir?**
+1. Yunanca “Phos” kelimesi hangi anlama gelmektedir?
+    - A-) Poz
+    - B-) Gölge
+    - C-) Leke
+    - **Cevap D-) Işık**
+    - E-) Çizim
+
+    > **Açıklama:** Yunanca “Phos” kelimesi “ışık”, “Graphe” kelimesi ise “çizmek” anlamına gelmektedir. Birleştirilmiş tam anlamı ise “ışıkla çizmek”dir.
+
+    ***
+1. Aşağıdakilerden hangisi Görüntünün oluşması için gerekli olan teknik aydınlatmada dikkat çekilecek hususlardan biri **değildir?**
     - A-) Işığın şiddeti
     - B-) Kontrast
     - C-) Parlaklık
@@ -842,14 +1146,65 @@
     > **Açıklama:** Fotoğraf çekerken kullanacağınız ışığın kalitesi, ister sert ister yumuşak olsun, yayılma (difüzyon) ve yansıma (reflection) ile kalitesini değiştirilebilirsiniz.
 
     ***
-1. Aşağıdakilerden hangisi  pozlama  ve  ışıkla  ilgili  temel  kavramlardan biri **değildir?**
+1. Kelime anlamı açık koyu olan ‘’Chiaroscuro’’ hangi ressam ile anılır?
+    - A-) Rubens
+    - B-) Leonardo da Vinci
+    - **Cevap C-) Caravagio**
+    - D-) Raffaello Santi
+    - E-) Michelangelo
+
+    > **Açıklama:** Chiaroscuro (ışık ve gölge):Kelime anlamı açık-koyu demektir. Işık ile yüksek kontrastlar oluşturulur ve vurgulanmak istenen nesne veya figürler açılı bir ışıkla ortaya çıkar. Gölgelerdeki detaylar kaybolmuştur ve sanatçı sert ışığın gücünü kullanır. Keskin yan ışık olarak da tanımlanan bu tür ünlü İtalyan ressam Caravaggio ile anılmaktadır.
+
+    ***
+1. Birden çok ışık kaynağı bulunur. Rembrandt’ın ismiyle anılan bu ışıkta, ışık konunun farklı yerlerinde ve istenen şiddette kullanılabilir. Rembrandt’ın ismiyle anılan bu ışığın adı Aşağıdakilerin hangisinde verilmiştir?
+    - A-) Yumuşak ışık
+    - **Cevap B-) Boyasal ışık**
+    - C-) Kontrast ışık
+    - D-) Gün ışığı
+    - E-) Spot ışık
+
+    > **Açıklama:** Boyasal ışık:Birden çok ışık kaynağı bulunur. Rembrandt’ın ismiyle anılan boyasal ışıkta,ışık konunun farklı yerlerinde ve istenen şiddette kullanılabilir.
+
+    ***
+1. Gözün algıladığı ışığın dalga boyu kaç nanometre arasında yer alır?
+    - A-) 300-350
+    - B-) 350-450
+    - **Cevap C-) 400-800**
+    - D-) 500-850
+    - E-) 600-865
+
+    > **Açıklama:** İnsan gözünün algılanabildiği ışık, ışık tayfın ortalarında yer almaktadır. Gözün algıladığı ışığın dalga boyu 400 ile 800 nanometre (nanometre = metrenin milyarda biri) arasında yer alır.
+
+    ***
+1. Renklerin diğer bir özelliği ise bir ısıya sahip olmalarıdır. Isı renk özlerinin değişken olan soğukluk veya sıcaklıkları ile ilgilidir. Buna göre en soğuk ve en düşük ısıya sahip renk hangisidir?
+    - A-) Mor
+    - B-) Sarı
+    - C-) Kırmızı
+    - D-) Turuncu
+    - **Cevap E-) Mavi**
+
+    > **Açıklama:** Renklerin diğer bir özelliği ise bir ısıya sahip olmalarıdır. Isı renk özlerinin değişken olan soğukluk veya sıcaklıkları ile ilgilidir. Bu konunun temelinde renklere verilen psikolojik tepkiler yatmaktadır. Bu tepkilerin sonucunda kırmızı veya kırmızı-turuncu en sıcak diğer bir ifade ile en çok ısıya sahip renktir. Mavi ya da mavi- yeşil ise en soğuk ve en düşük ısıya sahip olarak gösterilir.
+
+    ***
+1. Fotoğrafta renk kullanımı temel guruplara ayrılır. Aşağıdakilerden hangisi bu gurupta **yer almaz?**
+    - A-) Resimsel renk
+    - B-) Tarihsel renk
+    - C-) Sembolik renk
+    - D-) Psikolojik renk
+    - **Cevap E-) Algısal renk**
+
+    > **Açıklama:** Fotoğrafta renk kullanımını 4 temel gurupta incelenebilir;
+    > Resimsel renk, Tarihsel renk, Sembolik renk, Psikolojik renk
+
+    ***
+1. Aşağıdakilerden hangisi pozlama ve ışıkla ilgili temel kavramlardan biri **değildir?**
     - A-) Exposure
     - B-) Contrast
     - C-) Highlights
     - D-) Shadows
     - **Cevap E-) Windows**
 
-    > **Açıklama:** Pozlama ve ışıkla ilgili temel kavramlar: Exposure, Contrast, Highlights, Shadows,White, black
+    > **Açıklama:** Pozlama ve ışıkla ilgili temel kavramlar: Exposure, Contrast, Highlights, Shadows,White, black
 
     ***
 1. Aşağıdakilerden hangisi ortam ışığının incelendiği dört sınıftan biri değildir
@@ -862,6 +1217,16 @@
     > **Açıklama:** Ortam ışığı; gün ışığı, tungsten ev ampülleri, floresan ve ateş ışığı olarak dört sınıfta incelenmektedir.
 
     ***
+1. Aşağıdakilerden hangisi doğrudur?
+    - A-) Fotoğrafta parlaklık unsurunu gölge miktarı belirler.
+    - **Cevap B-) Fotoğrafçılıkta sıkça kullanılan kontrast, fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmaktadır.**
+    - C-) Aydınlatmada ışığın şiddeti ile kontrastın yoğunluğu anlatılmaktadır.
+    - D-) Floresan ışık baskın ve ana (anahtar) ışık olarak kabul edilir.
+    - E-) En yüksek kontrast görüntü, orta tonları içerebilir ve yalnızca siyah ton görülebilir.
+
+    > **Açıklama:** Fotoğrafçılıkta sıkça kullanılan kontrast, fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmaktadır*.*
+
+    ***
 1. Aşağıdakilerden hangisi ‘sert kalite’nin tanımıdır?
     - A-) Fotoğrafta parlaklık unsurunu belirleyen ışık miktarıdır.
     - B-) Bir ışık kaynağının kalitesi, ışık kaynağı ve özne arasında belirli malzemeler yerleştirmek suretiyle dağıtılmasıdır.
@@ -870,6 +1235,26 @@
     - **Cevap E-) Tek bir noktadan, güneş veya flaş gibi kaynaklardan gelen ışıktır.**
 
     > **Açıklama:** Tek bir noktadan, güneş veya flaş gibi kaynaklardan gelen ışık “Sert kalite” olarak tanımlanır.
+
+    ***
+1. Hangisi difüzyonun tanımıdır?
+    - A-) Gümüş renkten yansıyan ışığa denmektedir.
+    - B-) Fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkının anlatılmasıdır.
+    - C-) Işığın artış veya azalışının ışık kaynağının konuya olan mesafesinin değişiminin karesi ile ters orantılı olmasıdır.
+    - D-) Tek bir noktadan, güneş veya flaş gibi kaynaklardan gelen ışıktır.
+    - **Cevap E-) Bir ışık kaynağının kalitesinin, ışık kaynağı ve özne arasında belirli malzemeler yerleştirmek suretiyle dağıtılabilmesidir.**
+
+    > **Açıklama:** Bir ışık kaynağının kalitesi, ışık kaynağı ve özne arasında belirli malzemeler yerleştirmek suretiyle dağıtılabilir ve değiştirilebilir. Bu durum yayılma veya diğer ismiyle difüzyon olarak tanımlanır.
+
+    ***
+1. Hangisi ışığın konuya çarptığı yönün fotoğraftaki etkilerinden değildir?
+    - A-) Dokusal bilgilerin ortaya çıkması
+    - B-) Gölgelerin varoluşu
+    - C-) Şekillere
+    - D-) Bakış açısına
+    - **Cevap E-) Işığın şiddeti**
+
+    > **Açıklama:** Işığın konuya çarptığı yön fotoğrafta dokusal bilgilerin ortaya çıkmasına, gölgelerin varoluşuna, şekillere, biçime ve bakış açısına doğrudan etki eder.
 
     ***
 1. Hangisi arka aydınlatma ile ilgilidir?
@@ -882,6 +1267,16 @@
     > **Açıklama:** Arka aydınlatmada ışık konuya arkadan vurur. Diğer bir şekilde anlatılırsa konu kamera ve ışığın arasında kalır. Ters ışık olarak da ifade edilebilecek bu tür aydınlatmada yönün yarattığı sonuçlar dramatik etkiyi arttırmaktadır. Bu durum gölgelerin yönü ile ilgilidir. Kameranın tam karşısından gelen ışık nesnelerin arkasını aydınlattığı için gölgeler kameranın gördüğü ön kısımda kalır.
 
     ***
+1. Hangisi tavan aydınlatması ile ilgili söylenebilir?
+    - A-) En yaygın tercih edilen aydınlatmadır.
+    - B-) Bu aydınlatmada renk doygunluğu artar ve ayrıntılar daha görülür hâle gelir
+    - C-) Bu aydınlatmada ışık konuya arkadan vurur.
+    - D-) Gün doğumu ve günbatımında çekilen görüntüler bu aydınlatmanın örnekleri olarak kabul görür.
+    - **Cevap E-) Bu aydınlatmada ışık doğrudan konunun üzerindedir.**
+
+    > **Açıklama:** Tavan aydınlatmasında ışık doğrudan konunun üzerindedir. Gölgeler nesnelerin şeklini tanımladığı için, bu düz ışıklandırma kendi başına çoğu zaman istenilen sonuçları vermez
+
+    ***
 1. Birden çok ışık kaynağı bulunan ve Rembrandt’ın ismiyle anılan ışık hangisidir?
     - A-) Dramatik Işık
     - B-) Resimsel Işık
@@ -892,7 +1287,7 @@
     > **Açıklama:** Birden çok ışık kaynağı bulunur. Rembrandt’ın ismiyle anılan boyasal ışıkta,ışık konunun farklı yerlerinde ve istenen şiddette kullanılabilir
 
     ***
-1. Hangisi fotoğrafta renk kullanımının olduğu  4 temel guruptan biri değildir?
+1. Hangisi fotoğrafta renk kullanımının olduğu 4 temel guruptan biri değildir?
     - A-) Sembolik Renk
     - B-) Resimsel Renk
     - C-) Psikolojik Renk
@@ -900,6 +1295,26 @@
     - E-) Tarihsel Renk
 
     > **Açıklama:** Fotoğrafta renk, renkli filmlerin kullanılmaya başlamasından sonra duygu ile anlamın bir parçası ve kompozisyonun bir ögesi olarak kabul edilmiştir.Bu bağlamda fotoğrafta renk kullanımını sembolik, resimsel,psikolojik ve tarihsel olmak üzere 4 temel gurupta inceleyebiliriz
+
+    ***
+1. Aşağıdakilerden hangisi ortam ışığı sınıfına girmez?
+    - **Cevap A-) Spot ışığı**
+    - B-) Ateş ışığı
+    - C-) Gün ışığı
+    - D-) Tungsten ev ampülleri
+    - E-) Floresan ışığı
+
+    > **Açıklama:** Ortam ışığı; gün ışığı, tungsten ev ampülleri, floresan ve ateş ışığı olarak dört sınıfta incelenmektedir.
+
+    ***
+1. Fotoğraf makinesi ile karşılaştırıldığında göz bebeği aşağıdakilerden hangisinin görevini görür?
+    - A-) Enstantane
+    - B-) Sensör
+    - C-) Lens
+    - **Cevap D-) Diyafram**
+    - E-) Film
+
+    > **Açıklama:** Fotoğraf makinelerinde gözde bulunan ve ışığın şiddetinin ayarlayan gözbebeğine benzer bir sistem yani diyafram, ışığı odaklayan göz merceğine benzeyen lens ve gözdeki retinaya benzeyen duyarlı film yüzeyi veya sensörler bulunur.
 
     ***
 1. Işık en iyi hangi renkten yansır?
@@ -912,6 +1327,29 @@
     > **Açıklama:** Işık en iyi gümüş renkten yansır.
 
     ***
+1. Caravaggio ile anılan keskin yan ışık olarak da tanımlanan ışık türü aşağıdakilerden hangisidir?
+    - A-) Yumuşak ışık
+    - B-) Boyasal ışık
+    - **Cevap C-) Chiaroscuro**
+    - D-) Gün ışığı ve dramatik etki
+    - E-) Gölge
+
+    > **Açıklama:** Chiaroscuro (ışık ve gölge): Kelime anlamı açıkkoyu demektir. Işık ile yüksek kontrastlar oluşturulur
+    > ve vurgulanmak istenen nesne veya figürler açılı bir ışıkla ortaya çıkar. Gölgelerdeki detaylar
+    > kaybolmuştur ve sanatçı sert ışığın gücünü kullanır. Keskin yan ışık olarak da tanımlanan bu tür
+    > ünlü İtalyan ressam Caravaggio ile anılmaktadır.
+
+    ***
+1. Gözün algıladığı ışığın dalga boyu aşağıdaki eşleşmelerden hangisinde doğru verilmiştir?
+    - A-) 380-760
+    - B-) 400-590
+    - C-) 400-635
+    - **Cevap D-) 400-800**
+    - E-) 490-800
+
+    > **Açıklama:** İnsan gözü 400 nm ile 800 nm arasındaki dalga boylarını algılamaktadır.
+
+    ***
 1. Aşağıdaki ışık kaynağı ve ısı değeri eşleştirmelerinden hangisi doğru verilmiştir?
     - A-) Gün doğumu veya gün batımı - 2000 K
     - B-) Öğlen gün ışığı - 2900 K
@@ -919,15 +1357,15 @@
     - D-) Ev tipi ampül - 5500 K
     - **Cevap E-) Bulutlu gökyüzü - 7000 K**
 
-    > **Açıklama:** Işık Kaynağı                             Isı değeri (Kelvin- K)
-    > Mum veya gaz lambası                      2000 K
-    > Ev tipi ampül                                    2900 K
-    > Gün doğumu veya gün batımı            3100 K
-    > Tungsten ışık türleri                     3200 K- 3400 K
-    > Öğlen gün ışığı                                  5500 K
-    > Flaş ışığı                                           5500 K
-    > Bulutlu gökyüzü                                7000 K
-    > Bulutsuz gökyüzü                            10000 K
+    > **Açıklama:** Işık Kaynağı Isı değeri (Kelvin- K)
+    > Mum veya gaz lambası 2000 K
+    > Ev tipi ampül 2900 K
+    > Gün doğumu veya gün batımı 3100 K
+    > Tungsten ışık türleri 3200 K- 3400 K
+    > Öğlen gün ışığı 5500 K
+    > Flaş ışığı 5500 K
+    > Bulutlu gökyüzü 7000 K
+    > Bulutsuz gökyüzü 10000 K
 
     ***
 1. Aşağıdaki beyaz ayarı menüsündeki ayarlamalardan hangisi yeşil tonun baskınlığı kırar?
@@ -940,6 +1378,20 @@
     > **Açıklama:** Flüorasan ışık modu: Bu ışık türü yeşil dalga boyundadır. Bu mod ile yeşil tonun baskınlığı kırılacaktır.
 
     ***
+1. I. Açık renkler koyu renklerin yanında daha açık algılanır<br />II. Koyu tonlar zıt renk olmayan koyu zeminlerde zayıf görünürler<br />III. Açık renkler açık bir zıt renkle güçlü bir kontrast oluşturur<br />Yukarıdaki renklerin ilişkisine dair bazı bulgulardan hangisi ya da hangileri yanlıştır?
+    - A-) Yalnız II
+    - B-) I-III
+    - C-) Yalnız I
+    - D-) II-III
+    - **Cevap E-) Yalnız III**
+
+    > **Açıklama:** Renklerin ilişkisine dair bazı bulgular şu şekildedir:
+    > • Bir rengin algısı yanındaki diğer renklere göre değişim gösterir.
+    > • Açık renkler koyu renklerin yanında daha açık, koyu renkler ise beyazın yanında daha koyu algılanır.
+    > • Koyu tonlar zıt renk olmayan koyu zeminlerde zayıf görünürler. Açık renkler içinde aynı durum geçerlidir.
+    > • Açık renkler koyu bir zıt renkle güçlü bir kontrast oluşturur.
+
+    ***
 1. Jpeg formatı ile karşılaştırıldığında aşağıdakilerden hangisi RAW formatındaki görüntüler için söylenemez?
     - A-) Daha fazla yer kaplar
     - **Cevap B-) Sıkıştırılmış bir formattır**
@@ -948,6 +1400,16 @@
     - E-) Daha yüksek bit derinliğine sahiptir
 
     > **Açıklama:** RAW sıkıştırılmamış bir formattır.
+
+    ***
+1. Pozlama ve ışıkla ilgili aşağıdaki kavramlardan hangisi fotoğrafın genel ışığını arttırmaya veya azaltmaya yarar?
+    - A-) Contrast
+    - B-) Highlights
+    - C-) Shadows
+    - **Cevap D-) Exposure**
+    - E-) White
+
+    > **Açıklama:** Exposure: Pozlama anlamına gelmektedir ve fotoğrafın genel ışığını arttırmaya veya azaltmaya yarar.
 
     ***
 1. Fotoğraf kelimesi ne anlama gelir?
@@ -960,6 +1422,26 @@
     > **Açıklama:** Fotoğraf kelimesi Yunanca “Phos” kelimesi “ışık”, “Graphe” kelimesi ise “çizmek” anlamına gelmektedir. Birleştirilmiş tam anlamı ise “ışıkla çizmek”dir. Doğru cevap B'dir.
 
     ***
+1. Fotoğraf makinelerinde, gözde bulunan ve ışığı şiddetini ayarlayan gözbebeğine benzer sisteme ne ad verilir?
+    - **Cevap A-) Diyafram**
+    - B-) Fim yüzeyi
+    - C-) Lens
+    - D-) Sensör
+    - E-) LED
+
+    > **Açıklama:** Fotoğraf makineleri, göz ile işleyiş açısından benzerlik gösterir. Fotoğraf makinelerinde gözde bulunan ve ışığın şiddetinin ayarlayan gözbebeğine benzer bir sistem yani diyafram, ışığı odaklayan göz merceğine benzeyen lens ve gözdeki retinaya benzeyen duyarlı film yüzeyi veya sensörler bulunur.
+
+    ***
+1. Fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatan kavram aşağıdakilerden hangisidir?
+    - A-) Işığın şiddeti
+    - **Cevap B-) Kontrast**
+    - C-) Parlaklık
+    - D-) Işığın kalitesi
+    - E-) Işığın yönü
+
+    > **Açıklama:** Kontrast, zıtlık anlamını taşıyan bir kelimedir. Fotoğrafçılıkta sıkça kullanılan kontrast, fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmaktadır. Diğer bir ifade ile kontrast parlaklık, yoğunluk veya koyuluk açısından iki veya daha fazla ton arasındaki farkı açıklamak için kullanılır. Doğru cevap B'dir.
+
+    ***
 1. Konunun kamera ve ışığın arasında kaldığı ve dramatik etkiyi arttıran aydınlatma türü aşağıdakilerden hangisidir?
     - A-) Ön aydınlatma
     - B-) Yan ışık
@@ -968,6 +1450,16 @@
     - E-) Tavan aydınlatma
 
     > **Açıklama:** Arka aydınlatmada ışık konuya arkadan vurur. Diğer bir şekilde anlatılırsa konu kamera ve ışığın arasında kalır. Ters ışık olarak da ifade edilebilecek bu tür aydınlatmada yönün yarattığı sonuçlar dramatik etkiyi arttırmaktadır. Doğru cevap C'dir.
+
+    ***
+1. Işığın şiddetinin az olduğu, ışığın aydınlatmada konu üzerinde belirleyici bir vurgu unsuru olmadığı ve görüntülerde aydınık ve karanlık değerlerin karşıt tonlarındaki farklılıkları en aza indiren resimsel ışık türü aşağıdakilerden hangisidir?
+    - A-) Chiaroscuro
+    - **Cevap B-) Yumuşak ışık**
+    - C-) Boyasal ışık
+    - D-) Gün ışığı
+    - E-) Ay ışığı
+
+    > **Açıklama:** Resimsel ışık türü olarak yumuşak ışıkta ışığın şiddeti azdır ve kalitesi yumuşaktır. Kontrast etki düşüktür ve gölgelerdeki detaylar da görülür. Raffaello bu ışığı kullanan tipik sanatçılardandır. Fotoğraçı daha soğuk bir etki yaratmak için bu ışığı kullanabilir. Diğer bir ifade ile ışık bu tür bir aydınlatmada konu üzerinde belirleyici bir vurgu unsuru değildir. Chiaroscuro olarak bilinen dramatik ışıklandırma, iki boyutlu görüntülerde aydınlık ve karanlık değerlerin karşıt tonlarını vurgularken, yumuşak aydınlatma bu farklılıkları en aza indirir. Doğru cevap B'dir.
 
     ***
 1. İnsan gözü hangi aralıktaki dalga boylarını algılayabilmektedir?
@@ -980,6 +1472,16 @@
     > **Açıklama:** Dalga boylarındaki değişim renk algısını meydana getirir. Bir cismin rengi temel olarak o cisim tarafından emilmeyen dalga boylarıdır. İnsan gözü 400 nm ile 800 nm arasındaki dalga boylarını algılamaktadır. Doğru cevap C'dir.
 
     ***
+1. En soğuk ve en düşük ışığa sahip renkler aşağıdakilerden hangisidir?
+    - A-) Kırmızı-turuncu
+    - B-) Siyah-mor
+    - **Cevap C-) Mavi-yeşil**
+    - D-) Beyaz-kahverengi
+    - E-) Gri-eflatun
+
+    > **Açıklama:** Mavi ya da mavi- yeşil ise en soğuk ve en düşük ısıya sahip olarak gösterilir. Doğru cevap C'dir.
+
+    ***
 1. DSLR fotoğraf makinelerinde RAW formatı ile ilgili aşağıdakilerden hangisi söylenebilir?
     - A-) Daha az yer kaplar.
     - B-) Görüntülerde önemli düzeyde veri kaybı söz konusudur.
@@ -990,7 +1492,7 @@
     > **Açıklama:** RAW sıkıştırılmamış bir formattır. RAW dosyaları hem fotoğraf makinenizin hafıza kartında hem de bilgisayarınızın depolama alanlarında daha fazla yer kaplar ve her zaman işlenmesi gerekir. Bu yüzden JPEG gibi gündelik kullanıma uygun değildir ancak fotoğrafçılar için avantajları çoktur. Bir “dijital negatif” olarak tanımlanabilecek RAW görüntüler maksimum veri içermektedir. RAW formatındaki görüntüler size en geniş olanakları yaratır, pozlama ve beyaz dengesi ile ilgili düzenlemeler yapmanızı sağlar. Aynı zamanda JPEG formatına kıyasla daha yüksek bit derinliğine sahiptir ve farklı renk alanlarını desteklerler.
 
     ***
-1. DSLR fotoğraf makinelerinde beyaz ayarı menüsünde  6000 Kelvinlik bir değerlendirme yapan ve gölge moduna göre az da olsa fotoğraflara sıcak etki katan mod aşağıdakilerden hangisidir?
+1. DSLR fotoğraf makinelerinde beyaz ayarı menüsünde 6000 Kelvinlik bir değerlendirme yapan ve gölge moduna göre az da olsa fotoğraflara sıcak etki katan mod aşağıdakilerden hangisidir?
     - A-) AWB
     - B-) Gün ışığı modu
     - **Cevap C-) Bulutlu gökyüzü modu**
@@ -998,6 +1500,36 @@
     - E-) Tungsten ışık modu
 
     > **Açıklama:** Bulutlu gökyüzü modu, 6000 Kelvinlik bir değerle ayarlama yapar. Gölge moduna göre az da olsa fotoğraflara sıcak bir etki katacaktır. Doğru cevap C'dir.
+
+    ***
+1. Aşağıdakilerden hangisi görüntünün oluşması için gerekli olan teknik aydınlatma hususlarında biri değildir?
+    - A-) Işık Kaynakları
+    - **Cevap B-) Renk**
+    - C-) Işığın Şiddeti
+    - D-) Kontrast
+    - E-) Parlaklık
+
+    > **Açıklama:** Görüntünün oluşması için gerekli olan teknik aydınlatmada dikkat çekilecek hususlar ışık kaynakları, ışığın şiddeti, kontrast, parlaklık, ışığın kalitesi ve ışık yönüdür.
+
+    ***
+1. İngiliz fizikçi “William Thomson” diğer ismiyle Lord Kelvin’in düşük sıcaklıkları ve ışığın renk sıcaklığını ölçmek istemesiyle ortaya çıkan sıcaklık birimi aşağıdakilerden hangisidir?
+    - A-) Santigrad
+    - B-) Celsius
+    - C-) Fahrenheit
+    - D-) Thomson
+    - **Cevap E-) Kelvin**
+
+    > **Açıklama:** İngiliz fizikçi “William Thomson” diğer ismiyle Lord Kelvin’in düşük sıcaklıkları ve ışığın renk sıcaklığını ölçmek istemesiyle ortaya çıkan sıcaklık birimi “Kelvin” dir.
+
+    ***
+1. Fotoğrafik görüntünün teknik olarak ortaya çıkan en önemli faktör nedir?
+    - A-) Fotoğraf makinesi
+    - B-) Film
+    - C-) Sensör
+    - **Cevap D-) Işık**
+    - E-) Stüdyo
+
+    > **Açıklama:** Fotoğraf makinalarındaki tüm bu temel donanım ışıkla ilgilidir ve bu nedenle fotoğrafik görüntünün teknik olarak ortaya çıkması için ışık en önemli faktördür. Doğru cevap D'dir.
 
     ***
 1. Dijital fotoğraf makinelerinde ışığın düzeylerini algılayan bölüme ne ad verilir?
@@ -1030,6 +1562,16 @@
     > **Açıklama:** Kontrast, zıtlık anlamını taşıyan bir kelimedir. Fotoğrafçılıkta sıkça kullanılan kontrast, fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmaktadır. Doğru cevap B'dir.
 
     ***
+1. Kaynağın boyutunun yapay olarak arttırılarak sert ışığın yumuşak kaliteye dönüştürülmesi, gölgelerin yumuşatılması, gölge detaylarının arttırılması ve konuya düşen ışık miktarının azaltılması işlemine ne ad verilir?
+    - A-) Yansıma
+    - **Cevap B-) Yayılma**
+    - C-) Röfle
+    - D-) Kontrast
+    - E-) Parlaklık
+
+    > **Açıklama:** Bir ışık kaynağının kalitesi, ışık kaynağı ve özne arasında belirli malzemeler yerleştirmek suretiyle dağıtılabilir ve değiştirilebilir. Bu durum yayılma veya diğer ismiyle difüzyon olarak tanımlanır. Soft boxlar veya şemsiyeler bu işlemi gerçekleştirmek için kullanılmaktadır. Bu işlemle kaynağın boyutu yapay olarak artırılır ve ışığın daha geniş bir alana yayılması sağlanır. Böylelikle ışık yumuşak kaliteye dönüştürülür, gölgeler yumuşatılır, gölge detayları artar ve konuya düşen ışık miktarı azalır. Doğru cevap B'dir.
+
+    ***
 1. Bir fotoğrafta tavan aydınlatması kullanıldığı en basit yöntemle nasıl anlaşılır?
     - A-) Fotoğrafta kullanılan değerler incelenir
     - B-) Fotoğrafçı ile görüşülür
@@ -1038,6 +1580,16 @@
     - E-) Fotoğraftaki renklerin yoğunluğuna bakılır
 
     > **Açıklama:** Tavan aydınlatmasında ışık doğrudan konunun üzerindedir. Gölgeler nesnelerin şeklini tanımladığı için, bu düz ışıklandırma kendi başına çoğu zaman istenilen sonuçları vermez. Işık kaynağının doğrudan tavandan gelmediğini anlamanın en hızlı yolu, yere ve gölgelere bakmaktır. Gölgeler gerçekten küçükse ışık kaynağı üstünüzdedir. Doğru cevap D'dir.
+
+    ***
+1. Dijital fotoğrafçılıkta maksimum veri içeren ve fotoğrafın işlenmesi için en geniş olanakları sunan fotoğraf formatı nedir?
+    - **Cevap A-) RAW**
+    - B-) JPEG
+    - C-) PNG
+    - D-) GIF
+    - E-) BMT
+
+    > **Açıklama:** Bir “dijital negatif ” olarak tanımlanabilecek RAW görüntüler maksimum veri içermektedir. RAW formatındaki görüntüler size en geniş olanakları yaratır, pozlama ve beyaz dengesi ile ilgili düzenlemeler yapmanızı sağlar. Aynı zamanda JPEG formatına kıyasla daha yüksek bit derinliğine sahiptir ve farklı renk alanlarını desteklerler. Bu durumda kameranın yakalayabildiği maximum rengi RAW formatı ile koruyabilirsiniz. Aynı RAW verilerini farklı şekillerde işleyebilir ve aynı görüntüden pek çok seçenek oluşturabilirsiniz. Doğru cevap A'dır.
 
     ***
 1. Adobe Photoshop fotoğraf düzenleme programını kullanırken fotoğraftaki en yüksek poz değerinin ayarlandığı kavram aşağıdakilerden hangisidir?
@@ -1099,6 +1651,26 @@
     > **Açıklama:** Flaş ışığı modu: Flaşlı çekimlerde beyaz dengesini sağlamak için bu mod tercih edilmelidir. 5500 Kelvin değeri verir. Elektronik flaşlardaki ışık gün ışığına benzer bir ısıya sahiptir. Bu mod flaş ışığının beyaz dengesini sağladığı gibi flaş ışık dışında diğer ışık ortamlarında rengi sıcaklaştırmak için de kullanılmaktadır.
 
     ***
+1. Fotoğrataki en yüksek poz değerini ayarlayan kısıma ne ad verilir?
+    - A-) Contrast
+    - B-) Shadows
+    - C-) Black
+    - **Cevap D-) Highlights**
+    - E-) Exposure
+
+    > **Açıklama:** Highlights: Fotoğrataki en yüksek poz değerini ayarlar.
+
+    ***
+1. Adjustment Brush'ın görevleri nelerdir?
+    - **Cevap A-) Fotoğrafçılar dramatik aydınlatmalar yaratabilirler**
+    - B-) Fotoğrafçılar siyahların değerlerini değiştirirler
+    - C-) Fotoğrafçılar, beyazların değerlerini değiştirirler
+    - D-) Fotoğrafçılar, gölgeleri yani en düşük poz değerlerini değiştirirler
+    - E-) Fotoğrafçılar fotoğrataki en yüksek poz değerini ayarlar
+
+    > **Açıklama:** Adjustment Brush seçeneği ile fotoğrafçılar dramatik aydınlatmalar yaratabilirler. Bu menüde verilen yapay ışık olanağı sayesinde ham fotoğrafınızdaki aydınlatma kaynaklarının değerlerini değeşitirebileceğiniz gibi Caravagio ve Rembrandt etkileri yaratmanız da olanak dâhilindedir.
+
+    ***
 1. Çekilen fotoğraflarda ifadeyi güçlendirmek için fotoğrafçıların başvurduğu yönteme ne denir?
     - A-) Renk vurgusu
     - B-) Benzer renklerin uyumu
@@ -1118,6 +1690,30 @@
 
     > **Açıklama:** İnsan gözünün algılayabildiği ışık bölgesindeki ışıkların dalga boyları, insan saçının kalınlığının %1’i kadardır.
     > Doğru cevap A şıkkıdır.
+
+    ***
+1. Aşağıdakilerden hangisi fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmaya yarayan teknik aydınlatmanın hususlarından biridir ?
+    - A-) Işığın kalitesi
+    - **Cevap B-) Kontrast**
+    - C-) Parlaklık
+    - D-) Işık yönü
+    - E-) Işığın şiddeti
+
+    > **Açıklama:** Kontrast
+    > Kontrast, zıtlık anlamını taşıyan bir kelimedir. Fotoğrafçılıkta sıkça kullanılan kontrast, fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmaktadır. Diğer bir ifade ile kontrast parlaklık, yoğunluk veya koyuluk açısından iki veya daha fazla ton arasındaki farkı açıklamak için kullanılır.
+    > Doğru cevap B şıkkıdır.
+
+    ***
+1. Aşağıdakilerden hangisi ortam ışıklarından biri değildir ?
+    - A-) Floresan
+    - B-) Ateş ışığı
+    - **Cevap C-) Lazer ışığı**
+    - D-) Gün ışığı
+    - E-) Tungsten ev ampülleri
+
+    > **Açıklama:** Işık Kaynakları
+    > Işık kaynakları genel olarak ortam ışığı, yapay ışıklar ve flaşlar olarak sınıflandırılabilir. Ortam ışığı; gün ışığı, tungsten ev ampülleri, floresan ve ateş ışığı olarak dört sınıfta incelenmektedir.
+    > Doğru cevap C şıkkıdır.
 
     ***
 1. Bir ışık kaynağının kalitesi, ışık kaynağı ve özne arasında belirli malzemeler yerleştirmek suretiyle dağıtılabilir ve değiştirilebilir. Bu durum yayılma veya diğer ismiyle difüzyon olarak tanımlanır. Aşağıdakilerden hangisi bu etki ile birlikte oluşan durumlardan biri değildir ?
@@ -1154,7 +1750,21 @@
     > Doğru cevap A şıkkıdır.
 
     ***
-1. 1. Gözbebeği - diyafram<br />2. İris - mercek<br />3. Göz merceği - lens<br />4. Retina- film yüzeyi<br />5. Göz kapağı - pozlama<br />Yukarıda verilen gözün ve fotoğraf makinelerinin parçaları hangilerinde doğru eşleştirilmiştir?
+1. Fotoğrafçı daha soğuk bir etki yaratmak için aşağıdaki ışıklardan hangisini kullanabilir ?
+    - A-) Yan ışık
+    - B-) Gün ışığı
+    - C-) Boyasal ışık
+    - **Cevap D-) Yumuşak ışık**
+    - E-) Ters ışık
+
+    > **Açıklama:** Yumuşak ışık: Resimsel ışık türü olarak yumuşak ışıkta ışığın şiddeti azdır ve kalitesi yumuşaktır. Kontrast etki düşüktür ve gölgelerdeki detaylar da görülür. Raffaello bu ışığı kullanan tipik sanatçılardandır. Fotoğraçı daha soğuk bir etki
+    > yaratmak için bu ışığı kullanabilir. Diğer bir ifade ile ışık bu tür bir aydınlatmada konu üzerinde belirleyici bir vurgu unsuru değildir. Chiaroscuro olarak bilinen dramatik ışıklandırma, iki boyutlu görüntülerde aydınlık ve karanlık değerlerin
+    > karşıt tonlarını vurgularken, yumuşak aydınlatma bu farklılıkları en aza indirir. İç mekânda özellikle dolgu ışığı ve yayılma teknikleri kullanılarak gerçekleştirilebilir. Dış mekânda ise konu doğrudan sert ışığa maruz kalmaz ve genellikle gölge
+    > üzerine mekandan yansıyan ışık ile oluşturulur.
+    > Doğru cevap D şıkkıdır.
+
+    ***
+1. 1\. Gözbebeği - diyafram<br />2\. İris - mercek<br />3\. Göz merceği - lens<br />4\. Retina- film yüzeyi<br />5\. Göz kapağı - pozlama<br />Yukarıda verilen gözün ve fotoğraf makinelerinin parçaları hangilerinde doğru eşleştirilmiştir?
     - A-) II-III-V
     - B-) I-IV-V
     - C-) III-IV-V
@@ -1172,6 +1782,26 @@
     - E-) Işık kalitesi
 
     > **Açıklama:** Fotoğrafın ortaya çıkması için kullanılan teknik aydınlatma gün ışığı ve gün ışığının etkilerini taklit eden diğer ışık türlerinin kullanımı ile ilgilidir. Görüntünün oluşması için gerekli olan teknik aydınlatmada dikkat çekilecek hususlar ışık kaynakları, ışığın şiddeti, kontrast, parlaklık, ışığın kalitesi ve ışık yönüdür. Işık kaynakları genel olarak ortam ışığı, yapay ışıklar ve flaşlar olarak sınıflandırılabilir. Aydınlatmada ışığın şiddeti ile ışığın yoğunluğu anlatılmaktadır. Fotoğrafçılıkta sıkça kullanılan kontrast, fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmaktadır. Işığın kalitesi diğer bir şekilde sert ve yumuşak ışık olarak da ifade bulur. Fotoğrafta parlaklık unsurunu ışığın miktarı belirler. Konunun üzerine düşen ışık miktarı konuda yer alan nesnelerin mekândaki hacimlerinin algısını değiştirecektir.
+
+    ***
+1. Yöne göre ışık kullanımında fotoğrafların düz ve görsel olarak donuk olmamasını sağlamak için aşağıdakilerden hangisine dikkat edilmelidir?
+    - A-) Dokusal bilgi
+    - B-) Şekiller
+    - **Cevap C-) Gölgeler**
+    - D-) Bakış açısı
+    - E-) Biçim
+
+    > **Açıklama:** Işığın yönü fotoğraflanacak nesnelerin kameranın konumuna göre nereden aydınlatıldığı ve gölgelerin nereye düştüğü ile ilgilidir. Işığın konuya çarptığı yön fotoğrafta dokusal bilgilerin ortaya çıkmasına, gölgelerin varoluşuna, şekillere, biçime ve bakış açısına doğrudan etki eder. Gölgeler olmadan fotoğraflar düz ve görsel olarak donuk görünebilir.
+
+    ***
+1. Işık ile yüksek kontrastlar oluşturulan ve vurgulanmak istenen nesnenin açılı ışıkla ortaya çıkarıldığı resimsel ışık hangisidir?
+    - **Cevap A-) Chiaroscuro**
+    - B-) Boyasal ışık
+    - C-) Yumuşak ışık
+    - D-) Gün ışığı
+    - E-) Bağlı gölge
+
+    > **Açıklama:** *Chiaroscuro (ışık ve gölge), k*elime anlamı açık- koyu demektir. Işık ile yüksek kontrastlar oluşturulur ve vurgulanmak istenen nesne veya figürler açılı bir ışıkla ortaya çıkar. Gölgelerdeki detaylar kaybolmuştur ve sanatçı sert ışığın gücünü kullanır. Keskin yan ışık olarak da tanımlanan bu tür ünlü İtalyan ressam Caravaggio ile anılmaktadır. Dramatik etkisi güçlüdür. Fotoğrafa kasvet ve gizem etkisi katar. Tek bir ışık kaynağı kullanılmakta kontrastın yüksek değerlerde kalmasını istedikleri için bu ışık türünde dolgu ışığına veya başka ışık kaynaklarına yer verilmemektedir.
 
     ***
 1. Aşağıdaki ressamlardan hangisinin gölge ve kontrastı diğerlerine göre daha az kullandığı söylenebilir?
@@ -1192,6 +1822,34 @@
     - **Cevap E-) Işık**
 
     > **Açıklama:** Renk ışıktır ve ışığın maddeler üzerene düşerek bu maddeler tarafından kısmen emilmesi ve gözün retinasına yansıtılmasıyla ortaya çıkan bir algılamadır. Bu nedenle renk, ışık ve üzerine düştüğü maddenin bir karışımıdır denebilir. Maddelerin üzerine düşen ışığın emilmesi nedeniyle ışığın dalga boylarında değişim gerçekleşmektedir. Dalga boylarındaki bu değişim renk algısını meydana getirir.
+
+    ***
+1. Aşağıdakilerden hangisi fotoğraf makinesindeki beyaz ayarında soğuk bir etki yaratmak için kullanılır?
+    - A-) Bulutlu gökyüzü modu
+    - B-) Gün ışığı modu
+    - C-) Flaş ışığı modu
+    - D-) Gölge modu
+    - **Cevap E-) Tungsten ışık modu**
+
+    > **Açıklama:** *Gün ışığı modu:* 5500 Kelvin değerini uygular. Fakat günün farklı saatlerinde ışığın ısısı değiştiği için fotoğraflarda kimi zaman çok sıcak altın rengi bir tonlama olabilir.
+    > *Gölge modu:* 8000 Kelvin ile fotoğraflara sıcak bir görüntü katacaktır.
+    > *Bulutlu gökyüzü Modu:* 6000 Kelvinlik bir değerle ayarlama yapar. Gölge moduna göre az da olsa fotoğraflarınıza sıcak bir etki katacaktır.
+    > *Flaş ışığı modu:* Flaşlı çekimlerde beyaz dengesini sağlamak için bu mod tercih edilmelidir. 5500 Kelvin değeri verir. Elektronik flaşlardaki ışık gün ışığına benzer bir ısıya sahiptir. Bu mod flaş ışığının beyaz dengesini sağladığı gibi flaş ışık dışında diğer ışık ortamlarında rengi sıcaklaştırmak için de kullanılmaktadır.
+    > *Tungsten ışık modu:* 3200 Kelvin değerini verir. Tungsten ve ev içinde kullanılan ampüllerin sıcak etkisini kırmak ve soğuk bir etki yaratmak için tercih edilebilir.
+
+    ***
+1. Aşağıdakilerden hangisi renklerin ilişkisine dair doğru değildir?
+    - **Cevap A-) Bir rengin algısı diğerlerine göre değişmez.**
+    - B-) Koyu, beyazın yanında daha koyu algılanır.
+    - C-) Koyu, benzer tonlarda zayıf algılanır.
+    - D-) Açık ve koyu renkler kontrast oluşturur.
+    - E-) Açık renk, diğer açıklarla zayıf görünür.
+
+    > **Açıklama:** Renklerin ilişkisine dair bazı bulgular şu şekildedir:
+    > * Bir rengin algısı yanındaki diğer renklere göre değişim gösterir.
+    > * Açık renkler koyu renklerin yanında daha açık, koyu renkler ise beyazın yanında daha koyu algılanır.
+    > * Koyu tonlar zıt renk olmayan koyu zemin- lerde zayıf görünürler. Açık renkler içinde aynı durum geçerlidir.
+    > + Açık renkler koyu bir zıt renkle güçlü bir kontrast oluşturur.
 
     ***
 1. Kontrast renklerin uyumlu kullanımı aşağıdakilerden hangisine bağlıdır?
@@ -1225,14 +1883,25 @@
     > Doğru cevap A şıkkıdır.
 
     ***
-1. DSLR fotoğraf makinelerinde beyaz ayarı menüsünde yeşil ışığın baskınlığını kırmak amacıyla  tercih edilen ışık modu aşağıdakilerden hangisidir?
+1. DSLR fotoğraf makinelerinde beyaz ayarı menüsünde ev içinde kullanılan ampüllerin sıcak etkisini kırmak ve soğuk bir etki yaratmak için tercih edilen ışık modu aşağıdakilerden hangisidir?
+    - A-) AWB
+    - B-) Gün ışığı modu
+    - C-) Flüorasan ışık modu
+    - **Cevap D-) Tungsten ışık modu**
+    - E-) Flaş ışığı modu
+
+    > **Açıklama:** DSLR fotoğraf makinelerinde beyaz ayarı menüsünde ev içinde kullanılan ampüllerin sıcak etkisini kırmak ve soğuk bir etki yaratmak için tercih edilen Tungsten ışık modudur.
+    > Doğru cevap D şıkkıdır.
+
+    ***
+1. DSLR fotoğraf makinelerinde beyaz ayarı menüsünde yeşil ışığın baskınlığını kırmak amacıyla tercih edilen ışık modu aşağıdakilerden hangisidir?
     - A-) Gölge modu
     - B-) Bulutlu gökyüzü Modu
     - **Cevap C-) Flüorasan ışık modu**
     - D-) Flaş ışığı modu
     - E-) Tungsten ışık modu
 
-    > **Açıklama:** DSLR fotoğraf makinelerinde beyaz ayarı menüsünde yeşil ışığın baskınlığını kırmak amacıyla  tercih edilen ışık modu flüorasan ışık modudur.
+    > **Açıklama:** DSLR fotoğraf makinelerinde beyaz ayarı menüsünde yeşil ışığın baskınlığını kırmak amacıyla tercih edilen ışık modu flüorasan ışık modudur.
     > Doğru cevap C şıkkıdır.
 
     ***
@@ -1244,10 +1913,11 @@
     - D-) 4
     - E-) 5
 
-    > **Açıklama:** Pozlamayı temel olarak üç etken belirler:
-    > 1. “f” değeri ile ifade edilen diyafram açıklığı
-    > 2. Enstantanenin açık kalma süresi
-    > 3. Film ya da sensörün ışığa olan duyarlılığı (ISO)
+    > **Açıklama:** FOTOĞRAFI ÇEKMEK: POZLAMA
+    > Pozlamayı temel olarak üç etken belirler:
+    > 1\. “f” değeri ile ifade edilen diyafram açıklığı
+    > 2\. Enstantanenin açık kalma süresi
+    > 3\. Film ya da sensörün ışığa olan duyarlılığı (ISO)
 
     ***
 1. Aşağıdakilerden hangisi standart diyafram açıklığı değeridir?
@@ -1257,7 +1927,8 @@
     - D-) f: 5.8
     - E-) f: 12
 
-    > **Açıklama:** Standart diyafram açıklıkları değerleri ise şu şekildedir.
+    > **Açıklama:** FOTOĞRAFI ÇEKMEK: POZLAMA
+    > Standart diyafram açıklıkları değerleri ise şu şekildedir.
     > f:1 - f:1.2 - f1.4 - f1.8 - f2 - f2.8 - f4 - f5.6 - f8 - f11 - f16 - f22 - f32
 
     ***
@@ -1268,7 +1939,8 @@
     - **Cevap D-) 50-102400**
     - E-) 50-200000
 
-    > **Açıklama:** Geçmiş dönemde SLR fotoğraf makineleri 100-800 arasındaki ISO değerleri desteklerken, yeni dijital fotoğraf
+    > **Açıklama:** FOTOĞRAFI ÇEKMEK: POZLAMA
+    > Geçmiş dönemde SLR fotoğraf makineleri 100-800 arasındaki ISO değerleri desteklerken, yeni dijital fotoğraf
     > makinelerinde bu değer 50-102400’e kadar çıkmıştır.
 
     ***
@@ -1279,7 +1951,8 @@
     - D-) 4
     - E-) 5
 
-    > **Açıklama:** Pozometreler kullanım alanlarına göre temel olarak harici ve dâhilî olmak üzere iki ana başlık altında sınıflandırılabilir.
+    > **Açıklama:** FOTOĞRAFI ÇEKMEK: POZLAMA
+    > Pozometreler kullanım alanlarına göre temel olarak harici ve dâhilî olmak üzere iki ana başlık altında sınıflandırılabilir.
 
     ***
 1. Fotoğraf çekiminde bulunulan ortamın ışık değerlerinin doğru ölçülerek uygun diyafram ve enstantane ayarlarının yapılması için dijital fotoğraf makinelerinde birtakım ölçüm yönetim modları bulunmaktadır. Bu ölçüm yönetim modlarını kaç ana başlık altında toplayabiliriz?
@@ -1289,16 +1962,17 @@
     - D-) 5
     - **Cevap E-) 6**
 
-    > **Açıklama:** Fotoğraf çekiminde bulunulan ortamın ışık değerlerinin doğru ölçülerek uygun diyafram ve enstantane ayarlarının yapılması için dijital fotoğraf makinelerinde birtakım ölçüm yönetim modları bulunmaktadır. Bu ölçüm yönetim modlarını altı ana başlık altında toplayabiliriz.
-    > 1. Ortalama Ölçüm: Bu ölçüm metodu kadraj alanından algılanan ışık değerlerinin tümüyle okunarak ortalama bir değer bulunması yoluyla gerçekleşir. Işığın her bölge açısından eşit dağılmadığı durumlarda yanlış sonuçlar verebilmektedir. Çoğunlukla manzara ve topluluk fotoğrafları için kullanılmaktadır.
-    > 2. Merkez Ağırlıklı Ortalama Ölçüm: Bu ölçümde kadraj alanının özellikle orta bölümlerinden gelen ışık değerlendirilerek bir ortalama alınır ve pozlama değeri atanmaktadır. Çoğunlukla portre çekimlerinde kullanılmaktadır.
-    > 3. Kısmen Ölçüm: Bu ölçüm ağırlıklı olarak kadraj alanının merkezi ve etrafındaki yüzde 10-15’lik bölümünden gelen ışığı okuyarak pozlama değerini bulur. Çoğunlukla konunun arkası ve kenarlarından fazla ışık geldiği ya da karanlığın bulunduğu durumlarda kullanılmaktadır.
-    > 4. Noktasal Ölçüm: Spot ölçüm olarak da bilinen bu yöntemde kadraj üzerinde odak noktası çevresindeki bir daire ya da dikdörtgen ile belirlenen ve görüntünün küçük bir kısmından yansıyan ışığın ölçülerek pozlama
+    > **Açıklama:** FOTOĞRAFI ÇEKMEK: POZLAMA
+    > Fotoğraf çekiminde bulunulan ortamın ışık değerlerinin doğru ölçülerek uygun diyafram ve enstantane ayarlarının yapılması için dijital fotoğraf makinelerinde birtakım ölçüm yönetim modları bulunmaktadır. Bu ölçüm yönetim modlarını altı ana başlık altında toplayabiliriz.
+    > 1\. Ortalama Ölçüm: Bu ölçüm metodu kadraj alanından algılanan ışık değerlerinin tümüyle okunarak ortalama bir değer bulunması yoluyla gerçekleşir. Işığın her bölge açısından eşit dağılmadığı durumlarda yanlış sonuçlar verebilmektedir. Çoğunlukla manzara ve topluluk fotoğrafları için kullanılmaktadır.
+    > 2\. Merkez Ağırlıklı Ortalama Ölçüm: Bu ölçümde kadraj alanının özellikle orta bölümlerinden gelen ışık değerlendirilerek bir ortalama alınır ve pozlama değeri atanmaktadır. Çoğunlukla portre çekimlerinde kullanılmaktadır.
+    > 3\. Kısmen Ölçüm: Bu ölçüm ağırlıklı olarak kadraj alanının merkezi ve etrafındaki yüzde 10-15’lik bölümünden gelen ışığı okuyarak pozlama değerini bulur. Çoğunlukla konunun arkası ve kenarlarından fazla ışık geldiği ya da karanlığın bulunduğu durumlarda kullanılmaktadır.
+    > 4\. Noktasal Ölçüm: Spot ölçüm olarak da bilinen bu yöntemde kadraj üzerinde odak noktası çevresindeki bir daire ya da dikdörtgen ile belirlenen ve görüntünün küçük bir kısmından yansıyan ışığın ölçülerek pozlama
     > değerinin bulunur. Yalnızca belirlenen bu küçük kısımdan ışık ölçümü gerçekleştirilir. Fotoğraf makinesi noktasal olarak belirlenen bu sınırların dışındaki ışık miktarını değerlendirmeye alınmaz. Çoğunlukla uzakta
-    > kalan bir konunun ya da yüksek kontrastlı fotoğrafların çekiminde kullanılmaktadır.
-    > 5. Çoklu Nokta Ölçüm: Bu ölçümde kadraj üzerinde birden fazla bölgeden noktasal olarak ışık yoğunluğu ölçülür ve bunların ortalaması alınarak pozlama değeri bulunur. Fotoğraf çekiminde noktasal olarak bir
+    > kalan bir konunun ya da yüksek kontrastlı fotoğrafların çekiminde kullanılmaktadır.
+    > 5\. Çoklu Nokta Ölçüm: Bu ölçümde kadraj üzerinde birden fazla bölgeden noktasal olarak ışık yoğunluğu ölçülür ve bunların ortalaması alınarak pozlama değeri bulunur. Fotoğraf çekiminde noktasal olarak bir
     > den fazla alanın ışık yoğunluğunun önemli olduğu durumlarda kullanılmaktadır.
-    > 6. Genel Değerlendirmeli Matrix Ölçüm: Bu ölçümde kadrajın çeşitli alanlarından gelen
+    > 6\. Genel Değerlendirmeli Matrix Ölçüm: Bu ölçümde kadrajın çeşitli alanlarından gelen
     > ışık değerlerinin her birinin önemiyle ilişkili olarak en uygun pozlama değeri bulunur. Ayrıca tüm alanlardan gelen ışık değerleri belirlendikten sonra odaklanılan noktanın ölçümleri de yapılır ve pozlama bu değişkenlere göre belirlenir.
 
     ***
@@ -1309,7 +1983,8 @@
     - D-) 4
     - E-) 5
 
-    > **Açıklama:** Alan derinliğini etkileyen **başlıca** üç temel koşul bulunmaktadır. Bunlar diyafram değeri, objektif türü ve konuya olan uzaklıktır. Ayrıca, film ya da algılayıcı yüzey boyutu ile fotoğraf makinesinin türü de ikincil olarak alan derinliği üzerinde etkili unsurlardır.
+    > **Açıklama:** FOTOĞRAF ÇEKİM TEKNİKLERİ
+    > Alan derinliğini etkileyen **başlıca** üç temel koşul bulunmaktadır. Bunlar diyafram değeri, objektif türü ve konuya olan uzaklıktır. Ayrıca, film ya da algılayıcı yüzey boyutu ile fotoğraf makinesinin türü de ikincil olarak alan derinliği üzerinde etkili unsurlardır.
 
     ***
 1. Fotoğraf çekimi için ışığın kaç temel özelliğinden söz edilebilir?
@@ -1319,7 +1994,8 @@
     - **Cevap D-) 4**
     - E-) 5
 
-    > **Açıklama:** Fotoğraf çekimi için ışığın dört temel özelliğinden söz edilebilir. Bunlar, ışığın yoğunluğu, ışığın yönü, ışığın rengi ve ışığın kontrastlığıdır.
+    > **Açıklama:** FOTOĞRAF ÇEKİM TEKNİKLERİ
+    > Fotoğraf çekimi için ışığın dört temel özelliğinden söz edilebilir. Bunlar, ışığın yoğunluğu, ışığın yönü, ışığın rengi ve ışığın kontrastlığıdır.
 
     ***
 1. Işık ölçümü tekniklerindeki farklılıklara göre flaşları temel olarak kaç başlıkta sınıflandırmak mümkündür?
@@ -1329,11 +2005,12 @@
     - D-) 5
     - E-) 6
 
-    > **Açıklama:** Işık ölçümü tekniklerindeki farklılıklara göre flaşları temel olarak manuel, otomatik ve TTL olmak üzere üç başlıkta sınıflandırmak mümkündür.
-    > 1. Manuel Flaşlar: Bu flaşlar hiçbir otomatik ayarı bulunmayan ve tüm ayarlarının fotoğrafçı tarafından yapıldığı flaşlardır. Bu tür flaşlar tüm ayarlarının fotoğrafçı tarafından elle yapıldığı, otomatik olmayan flaşlardır. Flaş üzerindeki klavuz numarasına (İng. Guide Number) göre uzaklık hesaplanarak aydınlatma sağlanır. Klavuz numarasının sayısal değeri ne kadar fazlaysa flaşın gücü o kadar uzak mesafede etkili olur. Fotoğrafçının doğru pozlama değerine ulaşmasını kolaylaştırmak için bu tarz flaşların üzerinde bir hesaplama tablosu bulunur.
-    > 2. Otomatik Flaşlar: Diyagram değerini makineye girdiğiniz takdirde konunu uzaklığına göre doğru ışık gücünü flaşın kendisinin otomatik olarak hesapladığı flaş türüdür. Bu flaşlar diyafram değerini ya makineden otomatik olarak okur, ya da fotoğrafçı diyafram değeri ve ASA değerini flaşa girer. Fotoğrafçı deklanşöre bastığı anda çekilen obje ile arasındaki mesafeyi ölçeler verilen diyafram değerine göre ışığın şiddetini ayarlar. Bu flaşların
-    > ön tarafında konudan makineye yansıyan ışığı ölçmeye yarayan bir algılayıcısı bulunmaktadır. Kullanımı oldukça kolay olan bu flaş türünde yalnızca diyafram değeriyle konuya doğrudan yapılacak çekimlerde etkili sonuçlar elde edilebilmektedir.
-    > 3. TTL (Through The Lens) – Objektiften Okumalı Flaşlar: Objektiften okumalı ya da teknik adıyla TTL flaş, önceden patlayarak gönderdiği ışık şiddetinin ortamdan objektife geri dönüşüyle ölçülerek ayarlarının otomatik olarak gerçekleştirildiği flaş türüdür. Manuel flaş türüne göre burada ölçümü flaş üzerindeki algılayıcı değil objektifin kendi içerisindeki düzenek yapar. Bu türdeki flaşlar otomatik flaşların işleyişine benzer bir şekilde çalışırlar. Bu flaşları kullanabilmek için fotoğraf makinesinin de TTL flaş ölçümünü destekler niteliklere sahip olması gerekir.
+    > **Açıklama:** AYDINLATMA: TEMEL İLKE VE ÖZELLİKLERİ
+    > Işık ölçümü tekniklerindeki farklılıklara göre flaşları temel olarak manuel, otomatik ve TTL olmak üzere üç başlıkta sınıflandırmak mümkündür.
+    > 1\. Manuel Flaşlar: Bu flaşlar hiçbir otomatik ayarı bulunmayan ve tüm ayarlarının fotoğrafçı tarafından yapıldığı flaşlardır. Bu tür flaşlar tüm ayarlarının fotoğrafçı tarafından elle yapıldığı, otomatik olmayan flaşlardır. Flaş üzerindeki klavuz numarasına (İng. Guide Number) göre uzaklık hesaplanarak aydınlatma sağlanır. Klavuz numarasının sayısal değeri ne kadar fazlaysa flaşın gücü o kadar uzak mesafede etkili olur. Fotoğrafçının doğru pozlama değerine ulaşmasını kolaylaştırmak için bu tarz flaşların üzerinde bir hesaplama tablosu bulunur.
+    > 2\. Otomatik Flaşlar: Diyagram değerini makineye girdiğiniz takdirde konunu uzaklığına göre doğru ışık gücünü flaşın kendisinin otomatik olarak hesapladığı flaş türüdür. Bu flaşlar diyafram değerini ya makineden otomatik olarak okur, ya da fotoğrafçı diyafram değeri ve ASA değerini flaşa girer. Fotoğrafçı deklanşöre bastığı anda çekilen obje ile arasındaki mesafeyi ölçeler verilen diyafram değerine göre ışığın şiddetini ayarlar. Bu flaşların
+    > ön tarafında konudan makineye yansıyan ışığı ölçmeye yarayan bir algılayıcısı bulunmaktadır. Kullanımı oldukça kolay olan bu flaş türünde yalnızca diyafram değeriyle konuya doğrudan yapılacak çekimlerde etkili sonuçlar elde edilebilmektedir.
+    > 3\. TTL (Through The Lens) – Objektiften Okumalı Flaşlar: Objektiften okumalı ya da teknik adıyla TTL flaş, önceden patlayarak gönderdiği ışık şiddetinin ortamdan objektife geri dönüşüyle ölçülerek ayarlarının otomatik olarak gerçekleştirildiği flaş türüdür. Manuel flaş türüne göre burada ölçümü flaş üzerindeki algılayıcı değil objektifin kendi içerisindeki düzenek yapar. Bu türdeki flaşlar otomatik flaşların işleyişine benzer bir şekilde çalışırlar. Bu flaşları kullanabilmek için fotoğraf makinesinin de TTL flaş ölçümünü destekler niteliklere sahip olması gerekir.
 
     ***
 1. Film ya da algılayıcı yüzey üzerine dü­şecek ışık miktarını belirleyen düzenek aşağıdaki ifadelerden hangisidir?
@@ -1353,7 +2030,7 @@
     - D-) ISO.
     - E-) Softbox.
 
-    > **Açıklama:** Film ya da duyarlı yüzey üzerine düşecek ışık miktarını  ve hareketi saptamak, enstantanenin önemli iki işlevidir.
+    > **Açıklama:** Film ya da duyarlı yüzey üzerine düşecek ışık miktarını ve hareketi saptamak, enstantanenin önemli iki işlevidir.
 
     ***
 1. Hareketli bir konunun fotoğrafını çekerken net bir görüntünün oluşturulması için gerekli örtücü hızı aşağıdaki ifadelerden hangisidir?
@@ -1393,10 +2070,10 @@
     - **Cevap D-) Beyaz ayarı**
     - E-) Poz telafisi
 
-    > **Açıklama:** Beyaz ayarı, fotoğraf çekiminin yapıldığı ortamda var olan ışık kaynağının renk sıcaklığından kaynaklanacak sapmaların engelle­nerek görüntünün en doğru renklerle oluşturul­masını sağlamak için yapılır.  Beyaz ayarı denilme­sinin sebebi ise, fotoğraf makinesinin, doğru renk ve tonlamalarını yapabilmek için beyaz rengini referans alarak diğer renkleri ona göre atamasıdır.
+    > **Açıklama:** Beyaz ayarı, fotoğraf çekiminin yapıldığı ortamda var olan ışık kaynağının renk sıcaklığından kaynaklanacak sapmaların engelle­nerek görüntünün en doğru renklerle oluşturul­masını sağlamak için yapılır. Beyaz ayarı denilme­sinin sebebi ise, fotoğraf makinesinin, doğru renk ve tonlamalarını yapabilmek için beyaz rengini referans alarak diğer renkleri ona göre atamasıdır.
 
     ***
-1. **Aşağıdaki ifadelerden hangisi alan derinliğini  belirleyen temel öğelerden biridir?**
+1. **Aşağıdaki ifadelerden hangisi alan derinliğini belirleyen temel öğelerden biridir?**
     - A-) Konunun dokusu.
     - B-) Kullanılan film tipi
     - C-) Konunun ışığı.
@@ -1406,14 +2083,14 @@
     > **Açıklama:** Alan derinliğini etkileyen başlıca üç temel koşul bulunmaktadır. Bunlar di­yafram değeri, objektif türü ve konuya olan uzak­lıktır. Ayrıca, film ya da algılayıcı yüzey boyutu ile fotoğraf makinesinin türü de ikincil olarak alan derinliği üzerinde etkili unsurlardır.
 
     ***
-1. **Odak uzaklığının sabit olduğu varsayımı  ile en fazla alan derinliği sağlayan** **diyafram açıklığı değeri aşa­ğıdaki ifadelerden  hangisidir?**
+1. **Odak uzaklığının sabit olduğu varsayımı ile en fazla alan derinliği sağlayan** **diyafram açıklığı değeri aşa­ğıdaki ifadelerden hangisidir?**
     - A-) F1.4.
     - B-) F2.8.
     - C-) F8.
     - D-) F16.
     - **Cevap E-) F22.**
 
-    > **Açıklama:** Odak uzaklığının sabit olduğunu varsayarsak, film üzerine daha az ışığın düştüğü diyaframın “f” sayısal  de­ğeri yükseldikçe  daha fazla net alan derinliğine ulaşılmasını sağlar. Di­yaframın “f” sayısal değeri küçüldükçe yani giren ışığın miktarı arttığı taktirde net alan derinliği aza­lır.
+    > **Açıklama:** Odak uzaklığının sabit olduğunu varsayarsak, film üzerine daha az ışığın düştüğü diyaframın “f” sayısal de­ğeri yükseldikçe daha fazla net alan derinliğine ulaşılmasını sağlar. Di­yaframın “f” sayısal değeri küçüldükçe yani giren ışığın miktarı arttığı taktirde net alan derinliği aza­lır.
 
     ***
 1. **Aşağıdaki ifadelerden hangisi konunun üç boyutluluğunu, derinliğini ve kontrastını arttırmak amacıyla kullanılan aydınlatma türüdür?**
@@ -1426,7 +2103,7 @@
     > **Açıklama:** Yanal aydınlatma konunun üç boyutluluğunu, derinliğini ve kontrastını arttırmak amacıyla sıklıkla kullanılır. Fotoğrafta dramatik bir etki de sağlayan yanal ışık daha üç boyutlu bir perspektiften çekimi yapılan konuyu arka plandan ayırır.
 
     ***
-1. **Aydınlatma kaynaklarının renk ısısı birimi aşağıdaki ifadelerden  hangisidir?**
+1. **Aydınlatma kaynaklarının renk ısısı birimi aşağıdaki ifadelerden hangisidir?**
     - **Cevap A-) Kelvin.**
     - B-) ISO.
     - C-) Enstantane.
@@ -1443,7 +2120,8 @@
     - D-) Filmlerin ışığa olan hassasiyet derecesinin belirlenmesi
     - E-) Negatif filmin bütün karelerinin bire bir boyutunda fotoğraf kağıdına basılması
 
-    > **Açıklama:** Fotoğraf çekiminde temel olarak görüntünün ortaya çıkabilmesi için ışığın diyagram, enstantane, objektif gibi belirli düzenek ve araçlar yoluyla belirli bir süre boyunca film ya da sensör üzerine düşürülmesi işlemine pozlama denir.
+    > **Açıklama:** Fotoğrafı çekmek: Pozlama
+    > Fotoğraf çekiminde temel olarak görüntünün ortaya çıkabilmesi için ışığın diyagram, enstantane, objektif gibi belirli düzenek ve araçlar yoluyla belirli bir süre boyunca film ya da sensör üzerine düşürülmesi işlemine pozlama denir.
 
     ***
 1. I-Diyafram açıklığı<br />II-Enstantane süresi<br />III-ISO<br />IV-Netlik<br />V-Işık ölçümü<br />Yukarıdakilerden hangileri pozlamayı belirleyen üç temel etkendir?
@@ -1453,7 +2131,8 @@
     - D-) II-IV-V
     - E-) III-IV-V
 
-    > **Açıklama:** Fotoğraf çekiminde konu üzerine düşen, konudan yansıyan ve ortamdaki ışığın özellikleri, ISO değerleri, beyaz ayarı gibi pek çok etken pozlama üzerinde doğrudan etkilidir. Ancak pozlamayı temel olarak üç etken belirler: Diyafram açıklığı, Enstantane süresi ve ISO değerleri.
+    > **Açıklama:** Fotoğrafı Çekmek: Pozlama
+    > Fotoğraf çekiminde konu üzerine düşen, konudan yansıyan ve ortamdaki ışığın özellikleri, ISO değerleri, beyaz ayarı gibi pek çok etken pozlama üzerinde doğrudan etkilidir. Ancak pozlamayı temel olarak üç etken belirler: Diyafram açıklığı, Enstantane süresi ve ISO değerleri.
 
     ***
 1. I-Işık miktarını kontrol eder.<br />II-Alan derinliği yaratılmasını sağlar.<br />III-Işık ölçer sistemidir.<br />IV-Işığın süresini kontrol eder.<br />Yukarıdakilerden hangileri diyafram için doğrudur?
@@ -1483,7 +2162,8 @@
     - D-) II-IV
     - E-) III-IV
 
-    > **Açıklama:** Örtücü, fotoğraf makinelerinde diyaframdan sonra ışığın kontrol altına alındığı ikinci önemli mekanizmadır. Işığın film üzerinde kalma süresini kontrol eder. Örtücünün açılıp kapanması arasındaki süre, pozlama süresidir. İkinci işleviyse hareketli nesnelerin dondurularak net çıkmasını sağlamasıdır.
+    > **Açıklama:** Estantane
+    > Örtücü, fotoğraf makinelerinde diyaframdan sonra ışığın kontrol altına alındığı ikinci önemli mekanizmadır. Işığın film üzerinde kalma süresini kontrol eder. Örtücünün açılıp kapanması arasındaki süre, pozlama süresidir. İkinci işleviyse hareketli nesnelerin dondurularak net çıkmasını sağlamasıdır.
 
     ***
 1. Bisiklet yarışının çekiminde, kare içindeki tüm nesnelerin net görünebilmesi için aşağıdakilerden hangisi en uygun enstantane değeridir?
@@ -1503,7 +2183,8 @@
     - D-) Diyafram öncelikli pozlama
     - **Cevap E-) Program modu**
 
-    > **Açıklama:** Çekim modları fotoğraf makinasına modeline göre bazen farklılık gösterse de temel olarak 3 başlık altında toplanırlar. Bunlar; otomatik modlar, yarı otomatik modlar ve manuel modlardır. Program modu da yarı otomatik modlar içinde yer alır.
+    > **Açıklama:** Fotoğraf Çekim Teknikleri
+    > Çekim modları fotoğraf makinasına modeline göre bazen farklılık gösterse de temel olarak 3 başlık altında toplanırlar. Bunlar; otomatik modlar, yarı otomatik modlar ve manuel modlardır. Program modu da yarı otomatik modlar içinde yer alır.
 
     ***
 1. Görüntünün iki boyutlu olarak hissedildiği, hacım ve derinlik etkisinin düşük olduğu aydınlatma türü hangisidir?
@@ -1513,7 +2194,8 @@
     - D-) Tepe aydınlatma
     - E-) Noktasal aydınlatma
 
-    > **Açıklama:** Cephe aydınlatma, konu üzerine doğrudan düşen ışığa karşılık gelir. Işık kaynağı, kameranın arkasından konuya yönlendirilir. Gölgelerin az, görüntünün iki boyutlu olarak hissedildiği bu aydınlatma türünde hacım ve derinlik etkisi düşük seviyededir.
+    > **Açıklama:** Aydınlatma: Temel İlke ve Özellikleri
+    > Cephe aydınlatma, konu üzerine doğrudan düşen ışığa karşılık gelir. Işık kaynağı, kameranın arkasından konuya yönlendirilir. Gölgelerin az, görüntünün iki boyutlu olarak hissedildiği bu aydınlatma türünde hacım ve derinlik etkisi düşük seviyededir.
 
     ***
 ## Unite 4
@@ -1578,7 +2260,7 @@
     > **Açıklama:** Yatay Çizgiler: Fotoğrafta, sakinliği, durağanlığı verir. Kompozisyona yerleştirirken taban çağrışımı yaratır. Ufuk çizgisinde olduğu gibi mekanı ve konumu belirtir.
 
     ***
-1. 1. Parlaklık<br />2. Yön<br />3. Renk<br />Yukarıdakilerden hangileri ışığın özelliklerini belirleyen temel kavramlardandır?
+1. 1\. Parlaklık<br />2\. Yön<br />3\. Renk<br />Yukarıdakilerden hangileri ışığın özelliklerini belirleyen temel kavramlardandır?
     - A-) Yalnız I
     - B-) I ve II
     - C-) I ve III
@@ -1644,7 +2326,7 @@
 
     ***
 1. Temel fotoğraf eğitimi sürecinde kompozisyonu daha iyi kavrayabilmek için aşağıdaki verilenlerden hangisi **yanlıştır?**
-    - A-) Aktif  düzenleme
+    - A-) Aktif düzenleme
     - B-) pasif düzenleme
     - C-) Kompozisyonda yapısal öğeler
     - D-) Kompozisyonda fotoğrafik ögeler
@@ -1655,6 +2337,29 @@
     > • Kompozisyon içerisindeki konunu açık mı? kapalı mı?,
     > • Kompozisyonda yapısal ve fotoğrafik ögeler,
     > kavramlarını bilmek önemlidir. Kısacası kompozisyon oluşturmak bir bilgi, deneyim ve birikim işidir.
+
+    ***
+1. Hangisi fotoğraftaki yapısal ögelerin **dışında kalır?**
+    - A-) sadelik
+    - **Cevap B-) hız**
+    - C-) denge
+    - D-) zıtlık
+    - E-) leke
+
+    > **Açıklama:** yapısal öğeler
+    > • Nokta ve çizgi
+    > • Leke
+    > • Doku
+    > • Boşluk (Espas)
+    > • Ritim
+    > • Renk
+    > • Denge
+    > • Kontrast (Zıtlık)
+    > • Perspektif
+    > • Şemalar
+    > • Oran ve Orantı, Ölçek
+    > • Sadelik
+    > hız; fotoğrafik bir öğedir
 
     ***
 1. Aşağıdakilerden hangisi fotoğrafik ögelerden biri **değildir?**
@@ -1671,7 +2376,7 @@
     - A-) Yatay Çizgiler
     - B-) Çapraz, Diyagonal ve Zig-Zag Çizgiler
     - **Cevap C-) Eğri, kıvrımlı Çizgiler**
-    - D-) Dikey Çizgiler
+    - D-) Dikey Çizgiler
     - E-) Kontrast ince kalın çizgiler
 
     > **Açıklama:** Kıvrımlı ve eğri çizgiler Barok Sanatta kullanılmıştır
@@ -1710,7 +2415,7 @@
 1. Gestalt kuramının ilkelere aşağıdakilerden hangisi **uymaz?**
     - A-) Tamamlama
     - B-) Şekil Zemin İlişkisi
-    - C-) Devamlılık ve benzerlik
+    - C-) Devamlılık ve benzerlik
     - **Cevap D-) zorluk ve karmaşıklık**
     - E-) Simetri
 
@@ -1725,6 +2430,26 @@
     - E-) Ufuk Çizgisi
 
     > **Açıklama:** Temel fotoğraf eğitiminde bilinmesi gereken bu ögeleri açıklarsak: Işık, İlgi Merkezi, Bakış Açısı, Hareket, Hız, Çerçeve Seçimi, Keskinlik, Belirginlik, Ufuk Çizgisi, Gestalt Algısı
+
+    ***
+1. Aşağıdakilerden hangisi fotoğrafik öğelerden biri değildir?
+    - A-) Işık
+    - B-) Bakış Açısı
+    - C-) Belirginlik
+    - **Cevap D-) Perspektif**
+    - E-) Gestalt Algısı
+
+    > **Açıklama:** Fotoğrafik Ögeler: Işık, ilgi merkezi, bakış açısı, hareket ve hız, çerçeve seçimi, keskinlik, belirginlik, ufuk çizgisi, Gestalt algısı
+
+    ***
+1. Aşağıdakilerden hangisi yapısal öğelerden biri değildir?
+    - A-) Nokta ve çizgi
+    - B-) Oran ve Orantı, Ölçek
+    - C-) Doku
+    - D-) Ritim
+    - **Cevap E-) Işık**
+
+    > **Açıklama:** Yapısal Ögeler: Nokta ve çizgi, leke, doku, boşluk (espas), ritim, renk, denge, kontrast, perspektif, şemalar, oran ve orantı, ölçek, sadelik
 
     ***
 1. Aşağıdakilerden hangisi ışığın işlevlerinden biri değildir?
@@ -1887,6 +2612,36 @@
     > **Açıklama:** Perspektif have ve çizgi perspektifi olarak 2 türe ayrılır.
 
     ***
+1. "Ait olduğu yere göre küçük ve merkezi niteliği olan daire, leke veya benek" tanımı kompozisyon öğelerinden hangisini tanımlar?
+    - A-) Çizgi
+    - B-) Doku
+    - C-) Şemalar
+    - **Cevap D-) Nokta**
+    - E-) Denge
+
+    > **Açıklama:** Nokta: Ait olduğu yere göre küçük ve merkezi niteliği olan daire, leke veya benektir. Fotoğraf yüzeyinde aktif rol oynar. İyi kullanılırsa konun veya imgenin belirtkesidir.
+
+    ***
+1. Sanat yapıtında, tasarımlarında, parçaların bir bütün içinde düzenli olarak bir araya getirilmesine ne ad verilir?
+    - **Cevap A-) Kompozisyon**
+    - B-) Aktif Düzenleme
+    - C-) Pasif Düzenleme
+    - D-) Açık Kompozisyon
+    - E-) Kapalı Kompozisyon
+
+    > **Açıklama:** Kompozisyon kelimesi, sanat ve tasarım diliyle tanımlanacak olursa: Sanat yapıtında, tasarımlarında, parçaların bir bütün içinde düzenli olarak bir araya getirilmesi olarak açıklayabiliriz.
+
+    ***
+1. Seçenekleren hangisi temel fotoğraf eğitimi sürecinde kompozisyonu daha iyi kavrayabilmek için bilinmesi gereken kavramlardan biri değildir?
+    - A-) Aktif düzenleme
+    - B-) Pasif düzenleme
+    - C-) Kompozisyon içerisindeki konunun açıklığı/kapalılığı
+    - D-) Kompozisyonda yapısal ve fotoğrafik öğeler
+    - **Cevap E-) Çerçeveleme sınırları**
+
+    > **Açıklama:** Çerçeveleme sınırları, temel fotoğraf eğitimi sürecinde kompozisyonu daha iyi kavrayabilmek için bilinmesi gereken kavramlardan biri değildir.
+
+    ***
 1. Fotoğrafı çeken fotoğrafçının konuyu oluştururken inisiyatif kullanması, konuya müdahil olarak çektiği fotoğraf ile ilgili kararları almasına ne denir?
     - A-) Pasif düzenleme
     - **Cevap B-) Aktif düzenleme**
@@ -1924,7 +2679,17 @@
     - D-) Bakış açısı
     - E-) Hareket, hız
 
-    > **Açıklama:** Doku, fotoğrafın yapısal öğelerinden biridir.
+    > **Açıklama:** Doku, fotoğrafın yapısal öğelerinden biridir.
+
+    ***
+1. Seçeneklerden hangisi fotoğrafın fotoğrafik özelliklerinden biridir?
+    - A-) Nokta ve çizgi
+    - B-) Leke
+    - C-) Doku
+    - D-) Boşluk
+    - **Cevap E-) Ufuk çizgisi**
+
+    > **Açıklama:** Ufuk çizgisi, fotoğrafın fotoğrafik özelliklerinden biridir.
 
     ***
 1. Fotoğraf yüzeyinde amacına uygun kullanılan boşluklara ne ad verilir?
@@ -1964,7 +2729,7 @@
     - D-) Basitlik ve yalınlık
     - E-) Simetri
 
-    > **Açıklama:** Tamamlama, parçaların ve tekrarların gözün takibiyle tamamlanarak sonucu veya bütünü oluşturması özelliğini barındırır.
+    > **Açıklama:** Tamamlama, parçaların ve tekrarların gözün takibiyle tamamlanarak sonucu veya bütünü oluşturması özelliğini barındırır.
 
     ***
 1. Aşağıdakilerden hangisi aktif düzenlemeye örnektir?
@@ -1976,6 +2741,16 @@
 
     > **Açıklama:** Aktif düzenleme fotoğrafı çeken fotoğrafçının konuyu oluştururken inisiyatif kullanması, konuya müdahil
     > olarak çektiği fotoğraf ile ilgili kararları almasıdır. Doğru cevap A'dır.
+
+    ***
+1. Aşağıdakilerden hangisi yapısal ögeler içerisinde yer alır?
+    - A-) Işık
+    - B-) Keskinlik
+    - C-) İlgi merkezi
+    - **Cevap D-) Boşluk**
+    - E-) Belirginlik
+
+    > **Açıklama:** Yapısal Ögeler: Nokta ve çizgi, leke, doku, boşluk, ritim, denge, zıtlık, sadeliktir. Doğru cevap D'dir.
 
     ***
 1. Aşağıdakilerden hangisi fotoğrafik ögeler arasında yer alır?
@@ -2008,6 +2783,16 @@
     > **Açıklama:** Isaac Newton, 1672 yılında güneş ışığındaki yedi rengi kristal bir prizma ile ayrıştırarak bulmuştur. Doğru cevap B'dir.
 
     ***
+1. Fotoğraf yüzeyi içerisinde gözü ilk uyaran ve göz üzerinde yönlendirici etkisi olan<br />önemli yapısal ögeye ne ad verilir?
+    - A-) Perspektif
+    - B-) Denge
+    - **Cevap C-) Şema**
+    - D-) Zıtlık
+    - E-) Ritim
+
+    > **Açıklama:** Fotoğraf yüzeyi içerisinde gözü ilk uyaran ve göz üzerinde yönlendirici etkisi olan önemli bir yapısal ögeye şema denir. Doğru cevap C'dir.
+
+    ***
 1. Kompozisyon içerisinde yer alan ögeleri minimize etmeye ne ad verilir?
     - A-) Ritim
     - B-) Oran orantı
@@ -2033,12 +2818,12 @@
     - B-) Fotoğraf okuma üzerine birçok yaklaşım ve metot vardır.
     - C-) Fotoğraf okuma metin okumaktan çok da farklı değildir.
     - D-) Öncelikle fotoğrafın türü hakkında öngörüde bulunuruz.
-    - E-) Fotoğraf makinasının türü okumaya direk etki eden  konu değildir.
+    - E-) Fotoğraf makinasının türü okumaya direk etki eden konu değildir.
 
     > **Açıklama:** Fotoğraf okuma süreci sonrası herkes de aynı sonucu beklemek yanlış olur. Bu tür robotik bir yaklaşım insanın doğasında, fotoğrafta veya sanatta mümkün değildir. Doğru cevap A'dır.
 
     ***
-1. Temel fotoğraf eğitimi sürecinde kompozisyonu daha iyi kavrayabilmek için aşağıdakilerden hangisi doğrudur?<br />I. Aktif ve pasif düzenleme,<br />II. Kompozisyon içerisindeki konunun açık mı? Kapalı mı?
+1. Temel fotoğraf eğitimi sürecinde kompozisyonu daha iyi kavrayabilmek için aşağıdakilerden hangisi doğrudur?<br />I. Aktif ve pasif düzenleme,<br />II. Kompozisyon içerisindeki konunun açık mı? Kapalı mı?<br />III. Kompozisyonda yapısal ve fotoğrafik ögeler,
     - A-) Yalnız I
     - B-) Yalnız II.
     - C-) Yalnız III
@@ -2063,10 +2848,10 @@
 
     ***
 1. Aşağıdakilerden hangisi kompozisyonu oluşturan yapısal ögelerden **değildir?**
-    - A-) Nokta   ve çizgi
+    - A-) Nokta ve çizgi
     - B-) Leke
     - C-) Doku
-    - **Cevap D-) Bakış     Açısı**
+    - **Cevap D-) Bakış Açısı**
     - E-) Boşluk
 
     > **Açıklama:** Kompozisyonu oluşturan yapısal ögelerden bazıları; Nokta ve çizgi, Leke, Doku, Boşluk
@@ -2107,7 +2892,21 @@
     > Rengi oluşturur,
 
     ***
-1. Aşağıdakilerden hangisi fotoğrafta doku etkisi yaratır.<br />1. Çok küçük kum tanelerinin yan yana gelmesi,<br />2. Uzak açıdan çekilmiş bir gecekondu kümesi,<br />3. Tuğla duvar önünde çekilen bir portre fotoğrafı,<br />4. Savaşı kazanan bir liderin fotoğraflanması,
+1. Aşağıdakilerden hangisi Işığın özelliklerini belirleyen temel kavramlardan biridir?<br />I. Parlaklık,<br />II. Yön,<br />III. Renk<br />IV. kontrastdır.
+    - A-) Yalnız I
+    - B-) II.III
+    - C-) III.IV
+    - **Cevap D-) I.II.III.IV**
+    - E-) IV
+
+    > **Açıklama:** Işığın özelliklerini belirleyen temel kavramlar
+    > I. Parlaklık,
+    > II. Yön,
+    > III. Renk
+    > IV. kontrastdır.
+
+    ***
+1. Aşağıdakilerden hangisi fotoğrafta doku etkisi yaratır.<br />1\. Çok küçük kum tanelerinin yan yana gelmesi,<br />2\. Uzak açıdan çekilmiş bir gecekondu kümesi,<br />3\. Tuğla duvar önünde çekilen bir portre fotoğrafı,<br />4\. Savaşı kazanan bir liderin fotoğraflanması,
     - A-) Yalnız I
     - B-) II.III
     - **Cevap C-) I.II.III**
@@ -2119,7 +2918,7 @@
     > * Zengin duvar dokusu önünde çekilen bir portre fotoğrafı,
 
     ***
-1. Fotoğraflayacağımız bir mimari unsur veya cadde görüntüsünde dikkat edilecek  en önemli unsur nedir?
+1. Fotoğraflayacağımız bir mimari unsur veya cadde görüntüsünde dikkat edilecek en önemli unsur nedir?
     - A-) Doku
     - B-) Espas
     - C-) Işık
@@ -2127,6 +2926,16 @@
     - E-) Renk
 
     > **Açıklama:** Fotoğraf çerçevesi üzerinde doğru kurulacak bir perspektif, iki boyutlu bir yüzeyde üçüncü bir boyut kazandıracaktır. Dördüncü madde içerisinde de değindiğimiz derinlik espası fotoğrafı güçlendiren bir elamandır. Ön plan arka plan arasında oluşan bu kozmik alan derinliği izleyenleri bir yanılsamayla fotoğrafın derinliklerine doğru taşır, hava perspektifi olarak adlandırılır.. Bu nedenle perspektif temel fotoğraf eğitiminde çekim yaparken aranacak en öncelikli ögelerden biridir.
+
+    ***
+1. Fotoğrafçının imgesinde oluşturduğu konuyu fotoğraf yüzeyinde yer alan anlatım ögeleriyle, izleyicinin algısına organize bir biçimde düzenlemesi, sunması sonucunda aşağıdaki durumlardan hangisi oluşmaktadır?
+    - A-) Şema
+    - **Cevap B-) Kompozisyon**
+    - C-) Grafik
+    - D-) Resim
+    - E-) Çerçeve
+
+    > **Açıklama:** Fotoğraf dilinde ise kompozisyon, fotoğrafçının imgesinde oluşturduğu konuyu/temayı fotoğraf yüzeyinde (dikey/yatay dikdörtgen çerçeve) yer alan anlatım ögeleriyle, izleyicinin (alıcının) algısına organize bir biçimde düzenlemesi, sunması olarak tanımlayabiliriz.
 
     ***
 1. Fotoğraf çerçevesinde fotoğrafı çeken fotoğrafçının bazen bilinçli bazen de istem dışı olarak oluşturduğu konu veya imgenin, fotoğraf yüzeyinin dışına taşması ya da dışında sonlanması aşağıdakilerden hangi tanımın karşılığıdır?
@@ -2159,6 +2968,16 @@
     > **Açıklama:** Yatay Çizgiler: Fotoğrafta, sakinliği, durağanlığı verir. Kompozisyona yerleştirirken taban çağrışımı yaratır. Ufuk çizgisinde olduğu gibi mekanı ve konumu belirtir.
 
     ***
+1. Lekenin fotoğraf yüzeyine yaptığı en önemli etki aşağıdakilerden hangisidir?
+    - A-) Yüzey belirleyicidir.
+    - B-) Konturleri belirler.
+    - **Cevap C-) İmgenin ve konunun etkisini artırır.**
+    - D-) Boyut belirleyicidir.
+    - E-) Boşlukları belirler.
+
+    > **Açıklama:** Leke: Fotoğraf yüzeyinde ve hemen hemen tüm görsel sanatlarda iskelet konumundadır. Leke gözün ilk takıldığı ve bütün içerisinde ilk hissedilen kompozisyon ögesidir. Doğru ve amacına uygun kullanılmalıdır. Aksi takdirde yüzeydeki dengeyi bozan bir yapıya sahiptir. İmgenin ve konunun etkisini artırır, belirginliği destekler görsel bir denge sağlar.
+
+    ***
 1. Fotoğraf çerçevesi yatay veya dikey olsun, bakaçtan bakan gözün nesneleri ve doğayı çerçeveye sınırlarken dikkate aldığı boşluklara verilen isim aşağıdakilerden hangisidir?
     - **Cevap A-) Espas**
     - B-) Perspektif
@@ -2167,6 +2986,16 @@
     - E-) Diyagonal
 
     > **Açıklama:** Espas (Boşluk): Fotoğraf yüzeyinde amacına uygun kullanılan boşluklardır. Fotoğraf çerçevesi yatay veya dikey olsun, bakaçtan bakan gözün nesneleri ve doğayı çerçeveye sınırlarken dikkate aldığı boşluklar da kompozisyonun temel ögelerindendir. Bu boşluklara fotoğraf dilinde Espas denilir.
+
+    ***
+1. Kompozisyon yapısal ögelerin en iyi görüldüğü fotoğraflar aşağıdakilerden hangisidir?
+    - A-) Turuncu
+    - B-) Kahverengi
+    - C-) Renkli
+    - **Cevap D-) Siyah-Beyaz**
+    - E-) Kırmızı
+
+    > **Açıklama:** Kompozisyon yapısal ögelerin en iyi görüldüğü fotoğraflar siyah-beyaz fotoğraflardır.
 
     ***
 1. Fotoğrafın merkezine göre ortadan ikiye bölündüğünde yapısal ögelerin her iki tarafta da birbirinin aşağı yukarı aynı olacak şekilde yerleştirilmesi aşağıdakilerden hangi ögenin tanımıdır?
@@ -2199,6 +3028,16 @@
     > **Açıklama:** Gestalt kuramının ilkeleri, fotoğrafın kurgu aşamasında azımsanmayacak ölçüde etkilidir. Tamamlama, şekil-zemin, devamlılık ve benzerlik, basitlik, yakınlık, simetri gibi ilkeleri fotoğraf sanatında ve eğitimi sürecinde sıkça kullanılmaktadır.
 
     ***
+1. Fotoğrafçının imgesinde oluşturduğu konuyu fotoğraf yüzeyinde (dikey/yatay dikdörtgen çerçeve) yer alan anlatım ögeleriyle, izleyicinin algısına organize bir biçimde sunması aşağıdakilerden hangisidir?
+    - A-) Sadelik
+    - B-) Şema
+    - C-) Denge
+    - D-) Espas
+    - **Cevap E-) Kompozisyon**
+
+    > **Açıklama:** Fotoğraf dilinde kompozisyonu, fotoğrafçının imgesinde oluşturduğu konuyu/temayı fotoğraf yüzeyinde (dikey/yatay dikdörtgen çerçeve) yer alan anlatım ögeleriyle, izleyicinin (alıcının) algısına organize bir biçimde düzenlemesi, sunması olarak tanımlayabiliriz. Doğru yanıt E’dir.
+
+    ***
 1. Aşağıdaki fotoğraf için hangisi doğrudur?<br />(Fotoğraf: Ata Yakup KAPTAN)<br />![](https://ets.anadolu.edu.tr/storage/nfs/questions/c9fb8c10e321979b8817ffa74c2303e0.png)
     - **Cevap A-) Kapalı kompozisyona sahiptir.**
     - B-) Aktif düzenlemesi vardır.
@@ -2227,7 +3066,11 @@
     - D-) Zig-zag
     - E-) Kıvrımlı
 
-    > **Açıklama:** Yatay çizgiler fotoğrafta, sakinliği, durağanlığı verir. Kompozisyona yerleştirirken taban çağrışımı yaratır. Ufuk çizgisinde olduğu gibi mekanı ve konumu belirtir. Dikey çizgiler fotoğraf yüzeyinde yukarı ve aşağı yönde hız ve hareket belirtir. Çapraz, diyagonal ve zig-Zag çizgiler dinamizmi ve hareketi gösterir. Eğri, kıvrımlı çizgiler yatay ve dikey çerçevenin sertliğini yumuşatır. Doğru yanıt B’dir.
+    > **Açıklama:** * Sayfa 88'de 'Çizgi' bölümünde ' Bu çizginin karakterini belirler; eğri mi? geometrik mi? olacağı.' Cümlesinde hem noktalama hatası (gereksiz soru işaretleri), hem de düşüklük vardır.
+    > * Soru işaretleriyle ilgili aynı hata sayfa 93'te ve 112'de de vardır: 'Fotoğraf çekerken renkli mi? Siyah-beyaz mı? değerlendirileceği fotoğrafı çeken kişinin tercihine bağlıdır.' 'Kompozisyon içerisindeki konunun açık mı? kapalı mı? oldu
+    > * Bir cümle atladıktan sonra gelen cümledeki 'elamanıdır' sözcüğü 'elemanıdır' olarak düzeltilmelidir.
+    > * Neler Öğrendik?: Testin 5. sorusunda 'da' nın ayrı yazımı yanlıştır; bitişik olmalıdır: 'Aşağıdakilerden hangisi çizgi çeşitleri arasında **fotoğraf da** mekanı, açıyı ve derinliği belirleyen ana omurgalardan biridir?
+    > Yatay çizgiler fotoğrafta, sakinliği, durağanlığı verir. Kompozisyona yerleştirirken taban çağrışımı yaratır. Ufuk çizgisinde olduğu gibi mekanı ve konumu belirtir. Dikey çizgiler fotoğraf yüzeyinde yukarı ve aşağı yönde hız ve hareket belirtir. Çapraz, diyagonal ve zig-Zag çizgiler dinamizmi ve hareketi gösterir. Eğri, kıvrımlı çizgiler yatay ve dikey çerçevenin sertliğini yumuşatır. Doğru yanıt B’dir.
 
     ***
 1. Hangi renk saflığı çağrıştırmakla birlikte Doğu’da ölümle ve yasla bağlantılandırılır?
@@ -2238,6 +3081,16 @@
     - E-) Sarı
 
     > **Açıklama:** Batı kültüründe kırmızı renk bir sinyal olarak uyarı, eylem, ateş ve öfkeyle ilişkilendirilmiştir. Beyaz saflığı çağrıştırmakla birlikte Doğu’da ölümle ve yasla bağlantılandırılır. Mavi soğuğu, temizliği, bilimi, uzayı ve özgürlüğü çağrıştırır. Güneşin rengi olan sarı sıcaklık, yaşam, sevinç ve yaz mevsimini simgeler. Psikologlar için yeşilin özel bir yeri vardır. Ne sıcak, ne soğuk, ne de edilgen olarak tanımlanır. Doğayla, sakinlikle, güven duygusuyla ilişkilendirilir. Doğru yanıt C’dir.
+
+    ***
+1. Aşağıdaki kontrast ögelerden hangisi **yanlış** eşleştirilmiştir?
+    - A-) Durağan-hareketli
+    - B-) Sivri-küt
+    - **Cevap C-) Ağır-zayıf**
+    - D-) Kaba-zarif
+    - E-) Sert-yumuşak
+
+    > **Açıklama:** Kontrast dil literatürümüzde zıtlık, karşıtlık olarak da açıklanır. Bu kompozisyon ögesi fotoğraf yüzeyinde birkaç şekilde karşımıza çıkar. Çoğu zaman akla ilk gelen siyahla beyaz veya açıkla koyudur. Kontrastlık konunun veya anlamın kontrastlığı olarak da karşımıza çıkabildiği gibi farklı boyutlarıyla da karşımıza çıkan bir ögedir. Alman Bauhaus Okulu örneklemine yakın kontrast ögeler tablosuna göre yanlış eşleşen seçenek ağır-zayıf’tır. Ağır-hafif veya güçlü-zayıf doğru eşleştirme olacaktır.
 
     ***
 1. Bir lideri fotoğraflarken onu yüceltip hiyerarşik (anıtsal) görünüm verecek olan açı aşağıdakilerden hangisidir?
@@ -2296,6 +3149,17 @@
     > Doğru yanıt A seçeneğidir.
 
     ***
+1. Aşağıdakilerden hangisi fotoğraftaki kompozisyon içinde bulunan fotoğrafik ögelerden birisidir?
+    - A-) Nokta ve çizgi
+    - B-) Doku
+    - C-) Ritim
+    - D-) Renk
+    - **Cevap E-) Işık**
+
+    > **Açıklama:** Işık fotoğrafik öğelerden birisidir.
+    > Doğru yanıt E seçeneğidir.
+
+    ***
 1. Aşağıdakilerden hangisi fotoğraftaki kompozisyon içinde bulunan yapısal ögelerden birisidir?
     - A-) Bakış Açısı
     - B-) Çerçeve Seçimi
@@ -2303,7 +3167,7 @@
     - D-) İlgi Merkezi
     - **Cevap E-) Perspektif**
 
-    > **Açıklama:** Perspektif fotoğraftaki kompozisyon içinde bulunan yapısal ögelerden birisidir.
+    > **Açıklama:** Perspektif fotoğraftaki kompozisyon içinde bulunan yapısal ögelerden birisidir.
     > Doğru yanıt E seçeneğidir.
 
     ***
@@ -2335,18 +3199,29 @@
     - D-) 500-565 nm
     - **Cevap E-) 625-740 nm**
 
-    > **Açıklama:** Kırmızı rengin dalga boyu aralığı 625-740 nm'dir.
+    > **Açıklama:** Kırmızı rengin dalga boyu aralığı 625-740 nm'dir.
 
     ***
-1. Müzikte kullanılan ES işareti gibi, notaların ritimi arasındaki sus’ları fotoğrafta belirleyen öge aşağıdakilerden hangisidir ?
+1. Müzikte kullanılan ES işareti gibi, notaların ritimi arasındaki sus’ları fotoğrafta belirleyen öge aşağıdakilerden hangisidir ?
     - **Cevap A-) Espas**
     - B-) Ritim
     - C-) Renk
     - D-) Denge
     - E-) Kontrast
 
-    > **Açıklama:** Müzikte kullanılan ES işareti gibi, notaların ritimi arasındaki sus’ları fotoğrafta belirleyen öge espas'dır.
+    > **Açıklama:** Müzikte kullanılan ES işareti gibi, notaların ritimi arasındaki sus’ları fotoğrafta belirleyen öge espas'dır.
     > Doğru yanıt A seçeneğidir.
+
+    ***
+1. 790-680 THz frekans aralığı olan renk aşağıdakilerden hangisinde doğru olarak verilmiştir ?
+    - A-) Kırmızı
+    - B-) Turuncu
+    - C-) Sarı
+    - D-) Yeşil
+    - **Cevap E-) Mor**
+
+    > **Açıklama:** 790-680 THz frekans aralığı olan renk mor renktir.
+    > Doğru yanıt E seçeneğidir.
 
     ***
 1. Aşağıdaki kompozisyon öğelerinden hangisi, bir yapısal öğedir?
@@ -2389,6 +3264,16 @@
     > **Açıklama:** Fotoğraf çerçevesi üzerinde doğru kurulacak bir perspektif, iki boyutlu bir yüzeyde üçüncü bir boyut kazandıracaktır. Doğru cevap C'dir.
 
     ***
+1. Kompozisyon içerisinde yer alan ögeleri minimalize ederek teferruatlarından arındırma, ayıklama anlamına gelen kompozisyon öğesi aşağıdakilerden hangisidir?
+    - **Cevap A-) Sadelik**
+    - B-) Denge
+    - C-) Kontrast
+    - D-) Perspektif
+    - E-) Ölçek
+
+    > **Açıklama:** Sadelik: Kompozisyon içerisinde yer alan ögeleri minimalize ederek teferruatlarından arındırma, ayıklama. Fotoğraf yüzeyinde konuyu, imgeyi güçlendirmek adına detayların, karmaşanın çerçeve dışına atılarak yalınlaştırma, sadeleştirme olarak da açıklanabilir. Doğru cevap A'dır.
+
+    ***
 1. Almanca bir sözcük olan ve anlamı yerleştirmek, düzenlemek, koymak olan “stellen” fiilinden türetilen fotografik kompozisyon öğesi aşağıdakilerden hangisidir?
     - A-) Keskinlik
     - B-) Belirginlik
@@ -2400,6 +3285,16 @@
     > tasarım ve diğer bilim alanlarına da uygulanmış bir teori olan Gestalt, Almanca bir sözcük olan ve anlamı yerleştirmek, düzenlemek, koymak olan “stellen” fiilinden türetilmiştir. Doğru cevap D'dir.
 
     ***
+1. Aşağıdakilerden hangisi, parçaların ve tekrarların gözün takibiyle sonucu veya bütünü oluşturması anlamına gelen, akıcılık ve yapısal dengenin çok iyi ölçülmesini gerektiren gestalt kuramı ilkesidir?
+    - **Cevap A-) Tamamlama**
+    - B-) Devamlılık
+    - C-) Benzerlik
+    - D-) Keskinlik
+    - E-) Gölge
+
+    > **Açıklama:** Tamamlama: Parçaların ve tekrarların gözün takibiyle tamamlanarak sonucu veya bütünü oluşturması. Kısacası akıcılık ve yapısal dengenin çok iyi ölçülmesi gerekir. Bu tanıma göre doğru cevap A'dır.
+
+    ***
 1. Aşağıdakilerden hangisi gestalt kuramının ilkelerinden biri değildir?
     - A-) Tamamlama
     - B-) Benzerlik
@@ -2408,6 +3303,17 @@
     - E-) Simetri
 
     > **Açıklama:** Gestalt ilkeleri, tamamlama, şekil-zemin, devamlılık ve benzerlik, basitlik, yakınlık, simetridir. buna göre doğru cevap D'dir.
+
+    ***
+1. Aşağıdakilerden hangisi fotoğrafta hareket olgusu yaratmak için kullanılan tekniklerden biridir?
+    - **Cevap A-) Pan**
+    - B-) Perspektif
+    - C-) Kapalılık
+    - D-) Keskinlik
+    - E-) Işık
+
+    > **Açıklama:** Bir başka yöntem ise pan uygulamalarıdır. İngilizce panning olarak da adlandırılır. Hareket eden nesnelerin fotoğraflanırken, arka veya ön planda hız, hareket hissini verecek etkilerin oluşturulmasına dayanır. Kameramızı, objemizin hızında hareket
+    > ettirmemize dayanan bir tekniktir. Doğru cevap A'dır.
 
     ***
 1. Konuyu veya aktif nesneyi kadraj içerisinde doğru noktaya yerleştirmek ile ilgili kompozisyon öğesi aşağıdakilerden hangisidir?
@@ -2458,7 +3364,7 @@
     - **Cevap D-) Orta format Roll film kullanan fotoğraf makineleri**
     - E-) Leica format fotoğraf makineleri
 
-    > **Açıklama:** Makinenin film taşıma magazinlerinden biri­ne takılan polaroid film ile reklam fotoğrafı çekim aşamasında ışığın, kompozisyonun, sahnenin son kontrollerini yapabilmek dijital teknoloji öncesin­de sadece Roll film olarak adlandırılan 120 kodlu filmi kullanan fotoğraf  makineleri ile mümkündür.
+    > **Açıklama:** Makinenin film taşıma magazinlerinden biri­ne takılan polaroid film ile reklam fotoğrafı çekim aşamasında ışığın, kompozisyonun, sahnenin son kontrollerini yapabilmek dijital teknoloji öncesin­de sadece Roll film olarak adlandırılan 120 kodlu filmi kullanan fotoğraf makineleri ile mümkündür.
 
     ***
 1. Fotoğrafı çeken kişinin, çekme kararı verdiği çerçeve ile fotoğrafı çekilen çerçeve arasında görüntü farkı oluşması “paralaks hatası” dezavantajını taşıyan makineler, aşağıdakilerden hangisidir?
@@ -2509,6 +3415,16 @@
     - E-) Kullanılan malzeme ve ekipmanlar teknolojiden etkilenmez.
 
     > **Açıklama:** Fotoğraf yakın çağda âdeta vazgeçilmez bir konuma ulaşmıştır. Reklamdan habere, bilimsel araştırmalardan, sanata ve propagandaya kadar hayatın neredeyse her alanında çok yaygın şekilde kullanılıyor olmasının pek çok nedeni vardır. İlk akla gelen birkaç neden olarak; yazılı ve sözel dil­lerdeki sınırlıkların fotoğraf görsel dilinde bulun­maması (fotoğrafın evrensel bir dile sahip olması), fotoğrafik görüntünün “gerçeğin bir izi” olarak ka­bul edilmesi nedeniyle ikna ve inandırıcılıkta çok önemli avantajlara sahip olması, teknolojik geliş­melerle de desteklenmesinden sonra günümüzde fotoğraf üretmenin, paylaşmanın ve tüketmenin hemen hemen herkesin kolaylıkla yapabiliyor ol­ması sayılabilir.
+
+    ***
+1. Analog bir fotoğraf makinesi için satın alınan 36 karelik bir film ile yapılabilecek çekim sayısı en fazla ne kadardır?
+    - A-) 6
+    - B-) 26
+    - **Cevap C-) 36**
+    - D-) 46
+    - E-) 56
+
+    > **Açıklama:** Analog makine ile filmin poz sayısı ile sınırlı çekim yapılabilirken dijitalde kartın ve pilin izin verdiği oranda sınırsız çekim yapılabilir.
 
     ***
 1. Fotoğraf makinesini oluşturan iki temel bileşen aşağıdakilerden hangisinde verilmiştir?
@@ -2581,7 +3497,7 @@
     > **Açıklama:** Çekilmiş pozitif filmler E-6 banyo ile yıkanır
 
     ***
-1. 1. Analog makine ile filmin poz sayısı ile sınırlı çekim yapılabilirken dijitalde kartın ve pilin izin verdiği oranda sınırsız çekim yapılabilir.<br />2. Analog makinaya takılan filmin ISO değeri çekimden çekime değiştirilemezken dijital makinede ISO çekimden çekime değiştirilebilir.<br />3. Dijital makine ile çekimden hemen sonra fotoğrafın ekrandan kontrolü mümkündür.<br />4. Her ne kadar dijital fotoğraf makineleri ile anlatılan süreç bir ölçüde değişime uğramış olsa da hala fotoğraf çekmek için bir karanlık kutu ve ışığa ihtiyaç vardır.<br />Yukarıda verilen bilgilerden hangileri doğrudur?
+1. 1\. Analog makine ile filmin poz sayısı ile sınırlı çekim yapılabilirken dijitalde kartın ve pilin izin verdiği oranda sınırsız çekim yapılabilir.<br />2\. Analog makinaya takılan filmin ISO değeri çekimden çekime değiştirilemezken dijital makinede ISO çekimden çekime değiştirilebilir.<br />3\. Dijital makine ile çekimden hemen sonra fotoğrafın ekrandan kontrolü mümkündür.<br />4\. Her ne kadar dijital fotoğraf makineleri ile anlatılan süreç bir ölçüde değişime uğramış olsa da hala fotoğraf çekmek için bir karanlık kutu ve ışığa ihtiyaç vardır.<br />Yukarıda verilen bilgilerden hangileri doğrudur?
     - A-) I ve II
     - B-) I ve III
     - C-) I, III ve IV
@@ -2594,7 +3510,7 @@
     > * Her ne kadar dijital fotoğraf makineleri ile anlatılan süreç bir ölçüde değişime uğramış olsa da hala fotoğraf çekmek için bir karanlık kutu ve ışığa ihtiyaç vardır.
 
     ***
-1. Hangileri kullandıkları film formatlarına göre sınıflandırılmış makinelerdir?<br />1. Küçük Format Film Kullanan (Minyatür Boy)<br />2. Fotoğraf Makineleri APS Film Kullanan Fotoğraf Makineleri<br />3. 35mm Film Kullanan (Leica Format) Fotoğraf Makineleri<br />4. Orta Format (Roll) Film Kullanan Fotoğraf Makineleri<br />5. Büyük Format (Tabaka) Film Kullanan Fotoğraf Makineleri
+1. Hangileri kullandıkları film formatlarına göre sınıflandırılmış makinelerdir?<br />1\. Küçük Format Film Kullanan (Minyatür Boy)<br />2\. Fotoğraf Makineleri APS Film Kullanan Fotoğraf Makineleri<br />3\. 35mm Film Kullanan (Leica Format) Fotoğraf Makineleri<br />4\. Orta Format (Roll) Film Kullanan Fotoğraf Makineleri<br />5\. Büyük Format (Tabaka) Film Kullanan Fotoğraf Makineleri
     - **Cevap A-) I, II, III, IV ve V**
     - B-) II, III, IV ve V
     - C-) III, IV ve V
@@ -2608,6 +3524,17 @@
     > * Büyük Format (Tabaka) Film Kullanan Fotoğraf Makineleri
 
     ***
+1. Hangisi bakaç Sistemlerine göre sınıflandırılmış fotoğraf makinelerindendir?
+    - A-) Küçük Format Film Kullanan (Minyatür Boy
+    - B-) Fotoğraf Makineleri APS Film Kullanan Fotoğraf Makineleri
+    - C-) 35mm Film Kullanan (Leica Format) Fotoğraf Makineleri
+    - D-) Büyük Format (Tabaka) Film Kullanan Fotoğraf Makineleri
+    - **Cevap E-) SLR Tek Objektifli Yansıtmalı Fotoğraf Makineleri**
+
+    > **Açıklama:** SLR Tek Objektifli Yansıtmalı Fotoğraf Makineleri
+    > Objektiften geçen görüntünün objektif eksenine 45° ile makine içine yerleştirilmiş olan ayna yardımıyla önce bakaç üzerinde makinanın üst kısmında yer alan prizmaya, oradan da düzeltilerek gözümüze ulaştırıldığı bakaç sistemine sahip makinelere tek objektifli yansıtmalı (Single Lens Refleks) makineler denir.
+
+    ***
 1. Fotoğraf makinesinde, fotoğrafı çekilecek olan konunun görülmesini sağlayan görüntü alanın sınırlarını gösteren düzeneğe verilen ad nedir?
     - **Cevap A-) bakaç (vizör)**
     - B-) Analog
@@ -2618,7 +3545,7 @@
     > **Açıklama:** Fotoğraf makinesinde, fotoğrafı çekilecek olan konunun görülmesini sağlayan görüntü alanın sınırlarını gösteren düzenek bakaç (vizör) olarak tanımlanmaktadır.
 
     ***
-1. Hangileri özel amaçlı fotoğraf makineleridir?<br />1. İğne Deliği Fotoğraf Makineleri<br />2. Poloroid Fotoğraf Makineleri<br />3. Stereoskopic Fotoğraf Makineleri<br />4. Panoramik Fotoğraf Makineleri
+1. Hangileri özel amaçlı fotoğraf makineleridir?<br />1\. İğne Deliği Fotoğraf Makineleri<br />2\. Poloroid Fotoğraf Makineleri<br />3\. Stereoskopic Fotoğraf Makineleri<br />4\. Panoramik Fotoğraf Makineleri
     - **Cevap A-) I, II, III ve IV**
     - B-) III ve IV
     - C-) I ve IV
@@ -2626,6 +3553,16 @@
     - E-) II ve IV
 
     > **Açıklama:** Hepsi özel amaçlıdır
+
+    ***
+1. El ile üretilmiş fotoğraf makinesi gövdesi (camera obscura) içine film veya kart yerleştirilerek yapılan çekimler için kullanılan kameraya ne ad verilir?
+    - **Cevap A-) İğne Deliği Fotoğraf Makineleri**
+    - B-) Poloroid Fotoğraf Makineleri
+    - C-) Stereoskopic Fotoğraf Makineleri
+    - D-) Panoramik Fotoğraf Makineleri
+    - E-) TRL Çift Objektifli Yansıtmalı Fotoğraf Makineleri
+
+    > **Açıklama:** İğne deliği (pinhole) fotoğrafçılık olarak ad- landırılan alanda el ile üretilmiş fotoğraf makinesi gövdesi (camera obscura) içine film veya kart yer- leştirilerek yapılan çekimler için kullanılan kameralardır.
 
     ***
 1. Geniş kesintisiz bir görüntü için kullanılan insan gözünün doğal açısını yakalaması ya da onu geçtiği makinelere ne ad verilir?
@@ -2658,7 +3595,7 @@
     > **Açıklama:** Polaroid film kullanan makinelerin genel adı polaroid fotoğraf makinesidir. Fotoğraf çekiminden hemen sonra çekilen görüntün kart baskısını veren özel makinelerdir. Görüntüyü hemen çekim sonrası görme şansının yanı sıra bu makineleri en önemli özelliklerinden biri de çekilen görüntünün tek örnek olması ve çoğaltılamamasıdır.
 
     ***
-1. 1. Kızılötesi (infrared) filmler insan gözünün görme sınırları dışında bulunan kızılötesi ışınlara duyarlı özel filmlerdir.<br />2. Saydam, slayt, dia adı da verilen pozitif kayıt yapan filmlerde çekilen görüntü film banyosu son- rasında gözle görüldüğü şekilde pozitif kaydedilir.<br />3. Siyah-beyaz negatif filmler çekimi yapılan görüntü üzerindeki tüm renk tonlarını tam siyahtan tam beyaza giden gri tonlarla negatif olarak kaydeder.<br />4. Pozitif bir filmden karta baskı almak Cibachrome baskı adı verilen özel bir baskı tekniği ile mümkündür.<br />verilen bilgilerden hangileri doğrudur?
+1. 1\. Kızılötesi (infrared) filmler insan gözünün görme sınırları dışında bulunan kızılötesi ışınlara duyarlı özel filmlerdir.<br />2\. Saydam, slayt, dia adı da verilen pozitif kayıt yapan filmlerde çekilen görüntü film banyosu son- rasında gözle görüldüğü şekilde pozitif kaydedilir.<br />3\. Siyah-beyaz negatif filmler çekimi yapılan görüntü üzerindeki tüm renk tonlarını tam siyahtan tam beyaza giden gri tonlarla negatif olarak kaydeder.<br />4\. Pozitif bir filmden karta baskı almak Cibachrome baskı adı verilen özel bir baskı tekniği ile mümkündür.<br />verilen bilgilerden hangileri doğrudur?
     - **Cevap A-) I, II, III ve IV**
     - B-) III ve IV
     - C-) I, II ve IV
@@ -2725,7 +3662,7 @@
 1. Şerit film kullanan ve bu nedenle artarda çekim yapabilen makinelerin aksine hangi fotoğraf makinesi türünde her bir film karesi tek tek çekilmek zorundadır?
     - A-) Küçük Format Film Kullanan Fotoğraf Makineleri
     - B-) APS Film Kullanan Fotoğraf Makineleri
-    - C-) 35mm Film Kullanan  Fotoğraf Makineleri
+    - C-) 35mm Film Kullanan Fotoğraf Makineleri
     - D-) Orta Format Film Kullanan Fotoğraf Makineleri
     - **Cevap E-) Büyük Format Film Kullanan Fotoğraf Makineleri**
 
@@ -2764,6 +3701,16 @@
     > **Açıklama:** Dünya uygarlık tarihindeki en etkili buluşlardan biri olarak nitelenebilecek olan fotoğraf en basit şekilde ışık ile yazmak olarak tanımlanmaktadır. 1839 yılında Fransız Bilimler Akademisinde bulunuşunun ilanından bu yana aradan geçen süre içinde fotoğraf, hem bir sanat hem de bir dalı olarak gelişmiş hem de işlevsel olarak kullanımı artmıştır. Doğru cevap C'dir.
 
     ***
+1. Günümüzde görüntü kayıt sistemlerine göre fotoğraf makineleri kaç sınıfa ayrılmaktadır?
+    - A-) Bir
+    - **Cevap B-) İki**
+    - C-) Üç
+    - D-) Dört
+    - E-) Beş
+
+    > **Açıklama:** Fotoğraf makinelerine yapılabilecek en önemli sınıflamalardan biri görüntü kayıt sistemlerine göre fotoğraf makineleri ayrımı olarak karşımıza çıkar. Günümüzdeki en önemli ayrımlardan biri olan bu ayrımda iki temel sınıflama yapılmaktadır. İlki dijital fotoğraf makineleri, ikincisi analog fotoğraf makineleri. Doğru cevap B'dir.
+
+    ***
 1. Aşağıdakilerden hangisi doğrudur?
     - A-) Yıllar içinde büyük değişimler göstermeyen fotoğraf makineleri hayatın her alanında olduğu gibi dijitalleşmenin etkisine uğramamıştır.
     - B-) Analog cihazlar hiçbir zaman yerlerini dijital olanlara bırakmamıştır.
@@ -2796,6 +3743,16 @@
     > **Açıklama:** APS olarak kodlanmış bu formatta “Geliştirilmiş Fotoğraf Sistemi” (Advansed Photo System) kelimelerinin baş harfleri kullanılmıştır. Doğru cevap A'dır.
 
     ***
+1. Küçük format film kullanan minyatür boy fotoğraf makinesinin en önemli ayırt edici özelliği aşağıdakilerden hangisidir?
+    - A-) Ağır olmaları
+    - B-) Hafif olmaları
+    - **Cevap C-) Küçük boyutlu ve hafif olmaları**
+    - D-) Küçük boyutlu ve ağır olmaları
+    - E-) Büyük boyutlu ve hafif olmaları
+
+    > **Açıklama:** Küçük format film kullanan minyatür boy fotoğraf makinesinin en önemli ayırt edici özelliği çok küçük boyutlu ve hafif olmalarıdır. Bu format makineler, cebe sığabilecek kadar küçük oldukları için yabancı literatürde “pocket format” olarak da isimlendirilmektedir. Doğru cevap C'dir.
+
+    ***
 1. 110’luk adıyla kodlanan filmin görüntü alanı aşağıdakilerden hangisidir?
     - A-) 10x15
     - **Cevap B-) 7x11**
@@ -2804,6 +3761,16 @@
     - E-) 20x20
 
     > **Açıklama:** 110’luk adıyla kodlanan filmde görüntü alanı 7x11mm gibi oldukça küçük bir yüzeydir. Doğru cevap B'dir.
+
+    ***
+1. İlk kez Leica firması tarafından kullanılan bir format olması nedeniyle Leica format olarak da adlandırılan nasıl isimlendirilmektedir?
+    - A-) 110 kodlu film
+    - B-) 120 kodlu film
+    - **Cevap C-) 135 kodlu film**
+    - D-) 136 kodlu film
+    - E-) 112 kodlu film
+
+    > **Açıklama:** İlk kez Leica firması tarafından kullanılan bir format olması nedeniyle Leica format olarak da adlandırılan bu format aynı zamanda 35mm film veya 135 kodlu film olarak isimlendirilmektedir. Doğru cevap C'dir.
 
     ***
 1. Bakaç sistemine göre makineleri kaç temel başlık halinde incelemek mümkündür?
@@ -2836,10 +3803,10 @@
     ***
 1. Siyah beyaz fotoğraf kartlarının sahip oldukları kontrast değerleri genellikle hangi numaralarla belirtilir?
     - **Cevap A-) 0-6 arası**
-    - B-) 2-4 arası
-    - C-) 5-8 arası
-    - D-) 0-7 arası
-    - E-) 1-6 arası
+    - B-) 2-4 arası
+    - C-) 5-8 arası
+    - D-) 0-7 arası
+    - E-) 1-6 arası
 
     > **Açıklama:** Siyah beyaz fotoğraf kartlarının sahip oldukları kontrast değerleri genellikle 0-6 arası numaralarla belirtilir. Doğru cevap A'dır.
 
@@ -2991,7 +3958,19 @@
     > çok küçük boyutlu ve hafif olmalarıdır. Bu format makineler, cebe sığabilecek kadar küçük oldukları için yabancı literatürde “pocket format” olarak da isimlendirilmektedir.
 
     ***
-1. Otomatik netleme sistemine sahip fotoğraf makineleri AF  kısaltması ile kodlanırlar. Aşağıdakilerden hangisi bu kısaltmanın tanımıdır?
+1. Fotoğraf makinesinde, fotoğrafı çekilecek olan konunun görülmesini sağlayan görüntü alanın sınırlarını gösteren düzenek bakaç denir.Aşağıdakilerden hangi kelime Bakaç ile aynı anlamdadır?
+    - A-) Karanlık Oda
+    - B-) Banyo
+    - C-) Kamera
+    - **Cevap D-) Vizör**
+    - E-) Film
+
+    > **Açıklama:** Fotoğraf makinesinde, fotoğrafı çekilecek olan konunun görülmesini sağlayan görüntü alanın sınırlarını gösteren düzenek bakaç (**vizör**) olarak tanımlanmaktadır.
+    > Bakaç her zaman, çekim öncesi film üzerine kaydedilecek görüntünün göz ile ön
+    > denetiminin yapılıp sınırlarının tayin edilmesi işlevini üstlenir.
+
+    ***
+1. Otomatik netleme sistemine sahip fotoğraf makineleri AF kısaltması ile kodlanırlar. Aşağıdakilerden hangisi bu kısaltmanın tanımıdır?
     - A-) al focus
     - **Cevap B-) auto focus**
     - C-) auto flight
@@ -3011,6 +3990,17 @@
 
     > **Açıklama:** Fotoğraf makinesinde çekim anında pozometrenin (**ışık ölçerin)** makineye yüklenen filmin ISO
     > değerini göz önüne alarak ölçüm yapacağı bilinmelidir. Bir başka ifade ile makineye filmin ISO değeri(ki bu değer film kaseti üzerinde yazmaktadır) çekip öncesinde doğru olarak girilmelidir.
+
+    ***
+1. İnfrared filmler insan gözünün görme sınırları dışında bulunan kızılötesi ışınlara<br />duyarlı özel filmlerdir. Bu filmlere.....filmler denir. Cümlesini hangi şıkla tamamlarız?
+    - A-) Renkli negatif
+    - B-) Çekim detaylı
+    - **Cevap C-) Kızılötesi**
+    - D-) Pozitif filmler
+    - E-) Dia filmler
+
+    > **Açıklama:** İnfrared filmler insan gözünün görme sınırları dışında bulunan kızılötesi ışınlara
+    > duyarlı özel filmlerdir. Bu filmlere kızılötesi filmler denir.
 
     ***
 1. Siyah beyaz fotoğraf kartlarının sahip oldukları kontrast değerleri genellikle 0-6 arası numaralarla belirtilir. Buna göre 2 numarahangi kartı simgeler?
@@ -3043,6 +4033,16 @@
     > **Açıklama:** Capa, 6 Haziran 1944 tarihinde Amerikan ordusunun Fransa’nın Normandiya kıyılarına yaptığı çıkartmaya katılmıştır. Hayatını riske ederek katıldığı bu çıkartmada ilk birkaç saatte 106 tane fotoğraf çekmiştir. Büyük bir şans eseri yara almadan çıkartmadan kurtulan Capa bir gemiyle ulaştığı İngiltere’de çekmiş olduğu filmleri motorlu bir kuryeye teslim etmiş ve ertesi gün Fransa’ya geri dönüştür. Çektiği filmler Life dergisinin Londra’daki ofisine ulaştırılmış ve Life laboratuvarında çalışan 15 yaşındaki bir karanlık oda asistanı tarafından banyo edilmiştir. Filmlerin bir an önce baskıya yetiştirilmesi kaygısıyla film kurutma aşamasında aşırı ısı uygulanması nedeniyle filmler erimiş ve sadece 11 kare görüntü kurtarılabilmiştir. Doğru yanıt C’dir.
 
     ***
+1. Aşağıdakilerden hangisi dijital makinelerle bilinçsiz bir şekilde arka arkaya çekim yaparken görüntünün iyi olup olmadığını sık sık kontrol eden bir fotoğrafçı adayı için bir dezavantajdır?
+    - A-) Yenisini çekerken hatanın nerede olduğunu fark edebilmesi
+    - **Cevap B-) Tekrarı yaşanmayacak olan önemli bir anın kaçırılması**
+    - C-) Fotoğraf çekimi sırasında ‘neyin fotoğrafını çekiyorum’ diye düşünebilmesi
+    - D-) Deklanşör sorumluluğunu kazanmış olması
+    - E-) Görüntü çok iyi olmasa bile sonradan düzeltme şansına sahip olması
+
+    > **Açıklama:** Analog makine ile fotoğraf üretirken süreci eksiksiz ve kusursuz tamamladıktan sonra sonuç görüntüyü görmek mümkün iken dijital makine ile çekimden hemen sonra fotoğrafın ekrandan kontrolü mümkündür. Tüm bu avantajları dijital makinenin bilinçsiz bir fotoğrafçı adayını için kolaylıkla dezavantaj yaratabilir. Arka arkaya sınırsız çekim yapma şansı düşünmeden “nasıl olsa biri tutar” mantığı ile çekim yapmaya dönüşmemelidir. Dijital makine çektim, ekrandan baktım, olmamış silip yenisini çekerim mantığı ile hatanın nerede olduğu sorgulaması yapılmadan kullanılmamalıdır. Dijital makine ile tekrarı yaşanmayacak önemli bir olay fotoğraflanırken ekrandan acaba olmuş mu diye kontrol edeyim derken konsantrasyonun kaybedilmesi ve kritik anın kaçırılması sonucu çok olasıdır. Buna karşın birçok noktada dezavantajlı gibi gözüken analog makineler süreç içinde otomatikman “ben neyin fotoğrafını çekiyorum?”, “bu kare çekmeye değer mi?”, “çekim değerlerim doğru mu?” gibi birçok sorgulamayı yapmayı zorunlu kılar. Bu sorgulamaya “deklanşör sorumluluğu kazanmak” nitelemesini yapmak mümkündür. Doğru yanıt B’dir.
+
+    ***
 1. Leica formatın diğer ismi nedir?
     - **Cevap A-) 35 mm film**
     - B-) Minyatür boy
@@ -3070,7 +4070,7 @@
     - D-) Panoramik fotoğraf makineleri
     - E-) Orta format film kullanan fotoğraf makineleri
 
-    > **Açıklama:** İğne deliği (pinhole) ya da camera obscura (karanlık kutu) olarak da adlandırılan bu alet, ilk kez İÖ binli yıllarda söze döken Çin filozofu Mo-Ti’nin döneminden beri kullanılmaktadır. İğne deliği (pinhole) fotoğrafçılık olarak adlandırılan alanda el ile üretilmiş fotoğraf makinesi gövdesi (camera obscura) içine film veya kart yerleştirilerek yapılan çekimler için kullanılan kameralardır. Ticarileşmiş bir makine türü olmadığını ve ilgili ve bilgili kişiler tarafından veya onların eşliğinde el ile üretilen, her biri tek örnek makineler olduğunu vurgulamak gerekir. Bu makine ile gerçekleştirilen fotoğraf çekiminde netlik, vizör, diyafram gibi ışık ve görüntü kontrol mekanizmaları bulunmamaktadır. Benzer şekilde bu makinelerde fotoğrafın çekim süresi de çekim anında fotoğrafçının kararı ile belirlediği bir süre olarak gerçekleşir. Tüm bu özellikleri iğne deliği kamera ile yapılacak çekim ile elde edilecek görüntüyü bir başka çekim ile aynısı elde edilemeyecek bu anlamda tek örnek fotoğraflar yapmaktadır. Teknik ve teknolojik kusursuzluk peşinde koşmayan, özgün fotoğraflar çekmek isteyenler için iğne deliği kameralar ideal makineler olarak tanımlanabilir.  Doğru yanıt B’dir.
+    > **Açıklama:** İğne deliği (pinhole) ya da camera obscura (karanlık kutu) olarak da adlandırılan bu alet, ilk kez İÖ binli yıllarda söze döken Çin filozofu Mo-Ti’nin döneminden beri kullanılmaktadır. İğne deliği (pinhole) fotoğrafçılık olarak adlandırılan alanda el ile üretilmiş fotoğraf makinesi gövdesi (camera obscura) içine film veya kart yerleştirilerek yapılan çekimler için kullanılan kameralardır. Ticarileşmiş bir makine türü olmadığını ve ilgili ve bilgili kişiler tarafından veya onların eşliğinde el ile üretilen, her biri tek örnek makineler olduğunu vurgulamak gerekir. Bu makine ile gerçekleştirilen fotoğraf çekiminde netlik, vizör, diyafram gibi ışık ve görüntü kontrol mekanizmaları bulunmamaktadır. Benzer şekilde bu makinelerde fotoğrafın çekim süresi de çekim anında fotoğrafçının kararı ile belirlediği bir süre olarak gerçekleşir. Tüm bu özellikleri iğne deliği kamera ile yapılacak çekim ile elde edilecek görüntüyü bir başka çekim ile aynısı elde edilemeyecek bu anlamda tek örnek fotoğraflar yapmaktadır. Teknik ve teknolojik kusursuzluk peşinde koşmayan, özgün fotoğraflar çekmek isteyenler için iğne deliği kameralar ideal makineler olarak tanımlanabilir. Doğru yanıt B’dir.
 
     ***
 1. İnsanın iki gözü arasındaki mesafe kadar ayrı, yan yana konumlandırılmış iki objektifi bulunup görüntüleri iki renkli basıldığında ve bir tarafı mavi diğer tarafı kırmızı olan gözlüklerle bakıldığında görüntüsünün üçüncü boyut izlenimi yarattığı makineler hangisidir?
@@ -3100,18 +4100,19 @@
     - D-) 135
     - **Cevap E-) C-41**
 
-    > **Açıklama:** Renkli negatif filmlerin banyo işlemi sırasında C-41 ile kodlanmış banyolar uygulanmalıdır. Doğru yanıt E’dir.
+    > **Açıklama:** Düzeltme notları: Kitabın 133. sayfasında 'Poloroid' olarak yazılan başlık 'Polaroid' olarak düzeltilmelidir. 136. sayfanın ikinci sütundaki ilk paragrafın sonunda 'dilmeleri' olan sözcük 'edilmeleri' olarak düzeltilmelidir. Aynı sayfada sağ sütunda görselin hemen üzerindeki son cümlede 'orta bot' olarak yazılan sözcük 'orta boy' olmalıdır. Sayfa 138'de sağ sütun ilk paragraf ortalarında 'istenmen sonuçlar' kısmı 'istenmeyen sonuçlar' olarak düzeltilmelidir.
+    > Renkli negatif filmlerin banyo işlemi sırasında C-41 ile kodlanmış banyolar uygulanmalıdır. Doğru yanıt E’dir.
 
     ***
 ## Unite 6
 1. Karanlık odanın temiz ve özellikle tozdan arındırılmış bir ortam olması neden gereklidir?
     - A-) Çalışmanın süresini uzatır
-    - B-) Karanlık odadaki  oksijen için
+    - B-) Karanlık odadaki oksijen için
     - C-) Temizlik ve düzen çalışmayı kolaylaştırır
-    - **Cevap D-) Toz zerrecikleri filme ya da baskı kağıdına leke sorunu yaratabilir.**
+    - **Cevap D-) Toz zerrecikleri filme ya da baskı kağıdına leke sorunu yaratabilir.**
     - E-) Toz zerrecikleri banyo suyunun kimyasını bozabilir
 
-    > **Açıklama:** Toz zerrecikleri filme ya da baskı kağıdına leke  sorun yaratabilir.
+    > **Açıklama:** Toz zerrecikleri filme ya da baskı kağıdına leke sorun yaratabilir.
 
     ***
 1. Karanlık odada çalışılan alanın nemli olması nedeniyle aşağıdakilerden hangisine dikkat edilmelidir?
@@ -3124,7 +4125,7 @@
     > **Açıklama:** Elektrik tesisatının buna uygun (sıva üstü) olması,
 
     ***
-1. Spirale sarılı filmler neyin  içine yerleşti­rilerek banyo edilir?
+1. Spirale sarılı filmler neyin içine yerleşti­rilerek banyo edilir?
     - A-) Saklama kabı
     - **Cevap B-) Tank**
     - C-) Loop
@@ -3134,7 +4135,7 @@
     > **Açıklama:** Tank
 
     ***
-1. Küvet ya da ölçü kapları içindeki kimyasalların ısısını ölçmek ve kontrolünü sağla­mak için  kullanılan aracın adı nedir?
+1. Küvet ya da ölçü kapları içindeki kimyasalların ısısını ölçmek ve kontrolünü sağla­mak için kullanılan aracın adı nedir?
     - A-) Dijital kadranlı Timer/Zamanlayıcı
     - B-) Agrandisör
     - **Cevap C-) Termometre**
@@ -3184,14 +4185,14 @@
     > **Açıklama:** f:8-11, 2-5 sn
 
     ***
-1. Karanlık odada  baskı yapmanın en önemli faydası nedir?
+1. Karanlık odada baskı yapmanın en önemli faydası nedir?
     - A-) Titiz çalışalabilir
     - B-) Keşif yapılabilir
-    - **Cevap C-) Bilgi ve deneyim kazanırken deney yapılabilir**
+    - **Cevap C-) Bilgi ve deneyim kazanırken deney yapılabilir**
     - D-) Farklı tip ve özellikteki kâğıt, film ve kimyasallar öğrenilir.
     - E-) Sonuçları etki edecek faktörleri bilir
 
-    > **Açıklama:** Bilgi ve deneyim kazanırken deney yapılabilir
+    > **Açıklama:** Bilgi ve deneyim kazanırken deney yapılabilir
 
     ***
 1. Karanlık odanın fiziksel büyüklüğü, kişisel kullanım için kaç m<sup>2</sup>’lik bir alan yeterli olabilir?
@@ -3201,7 +4202,8 @@
     - D-) 5-6
     - E-) 6-7
 
-    > **Açıklama:** Karanlık odaların fiziksel büyüklüğü kullanan kişi sayısı ve ortama göre değişebilmektedir. Kişisel
+    > **Açıklama:** Karanlık Oda ve Fiziki Yapısı
+    > Karanlık odaların fiziksel büyüklüğü kullanan kişi sayısı ve ortama göre değişebilmektedir. Kişisel
     > kullanım için 4-5 m<sup>2</sup>’lik bir alan yeterli olabileceği gibi, okul, dernek vb. çok kişinin aynı anda çalışacağı ortamlar için ise daha büyük alanlar gerekmektedir.
 
     ***
@@ -3212,7 +4214,8 @@
     - D-) Dilitasyon
     - E-) Emülsiyon
 
-    > **Açıklama:** **Ajitasyon (Agitation)**
+    > **Açıklama:** Film Yıkama Ekipmanları
+    > **Ajitasyon (Agitation)**
     > Kimyasal işlemler sırasında, duyarlı yüzeye sürekli olarak bozulmamış banyonun temas etmesini sağlayan yöntem. Bu yöntem özellikle film ve kâğıtların geliştirme banyosunda bulundukları sırada ve saptama banyosunun (tespit banyosu ya da fix) ilk birkaç dakikasında çok önemlidir.
 
     ***
@@ -3223,7 +4226,8 @@
     - D-) Objektif
     - E-) Timer
 
-    > **Açıklama:** ***Agrandisör:*** Baskı işleminin en temel aracıdır, demek abartı sayılmaz. Kafa denilen bölümün üst kısmında bulunan lambasının yaydığı ışık, hemen altında bulunan ve kondensör olarak ifade edilen mercekten eşit ve homojen bir biçimde, şase denilen birimin içine yerleştirilen filmden geçerek alt kısımda bulunan objektife ulaşır. Kafanın alt ucunda bulunan objektif, film üzerindeki görüntünün kâğıt üzerinde odaklanmasını sağladığı gibi, içindeki diyafram aracılığı ile de pozlamanın ışık şiddetini belirleyen önemli bir birimdir. Objektifin optik kalitesi aynı zamanda görüntünün keskinliğini ve baskı kalitesini de belirleyen en önemli değişkenlerdendir. Agrandisör objektiflerinin odak uzaklıkları baskıda kullanılacak film ve kâğıt boyutuna göre değişiklik gösterirler.
+    > **Açıklama:** Kart Baskısında Kullanılan Araç ve Aksesuarlar
+    > ***Agrandisör:*** Baskı işleminin en temel aracıdır, demek abartı sayılmaz. Kafa denilen bölümün üst kısmında bulunan lambasının yaydığı ışık, hemen altında bulunan ve kondensör olarak ifade edilen mercekten eşit ve homojen bir biçimde, şase denilen birimin içine yerleştirilen filmden geçerek alt kısımda bulunan objektife ulaşır. Kafanın alt ucunda bulunan objektif, film üzerindeki görüntünün kâğıt üzerinde odaklanmasını sağladığı gibi, içindeki diyafram aracılığı ile de pozlamanın ışık şiddetini belirleyen önemli bir birimdir. Objektifin optik kalitesi aynı zamanda görüntünün keskinliğini ve baskı kalitesini de belirleyen en önemli değişkenlerdendir. Agrandisör objektiflerinin odak uzaklıkları baskıda kullanılacak film ve kâğıt boyutuna göre değişiklik gösterirler.
 
     ***
 1. Agrandisör tablasının üstüne konularak kullanılan baskı boyutunu ayarlamaya ve kağıdın hareket etmesini engellemeye yarayan aparat hangisidir?
@@ -3233,7 +4237,8 @@
     - D-) Spiral
     - E-) Tank
 
-    > **Açıklama:** **Marjör:** Agrandisör tablasının üstüne konularak kullanılan bu aparatın baskı esnasında iki işlevi bulunmaktadır. Yatay ve düşey düzlemde cetvel göstergesi ve ayarlanabilir kolları sayesinde baskı boyutu ayarlanabilir. İkinci olarak, kağıdın bu kolların altına yerleştirilmesiyle hareket etmesi engellenmiş olur. Ayrıca kâğıt tabanlı kâğıtlara baskı yapıldığında kağıdın dışa doğru kıvrılarak bombe yapmasını önleyerek düz durmasını sağlar. Zemin beyaz ya da krem renk olduğu için netlik ayarı kâğıt kullanılmadan da marjörden yapılabilir. Ancak hassas bir netlik için kağıt kalınlığını da göz ardı etmemek gerekir.
+    > **Açıklama:** Kart Baskısında Kullanılan Araç ve Aksesuarlar
+    > **Marjör:** Agrandisör tablasının üstüne konularak kullanılan bu aparatın baskı esnasında iki işlevi bulunmaktadır. Yatay ve düşey düzlemde cetvel göstergesi ve ayarlanabilir kolları sayesinde baskı boyutu ayarlanabilir. İkinci olarak, kağıdın bu kolların altına yerleştirilmesiyle hareket etmesi engellenmiş olur. Ayrıca kâğıt tabanlı kâğıtlara baskı yapıldığında kağıdın dışa doğru kıvrılarak bombe yapmasını önleyerek düz durmasını sağlar. Zemin beyaz ya da krem renk olduğu için netlik ayarı kâğıt kullanılmadan da marjörden yapılabilir. Ancak hassas bir netlik için kağıt kalınlığını da göz ardı etmemek gerekir.
 
     ***
 1. Karanlık odada kullanımı esnasında çok dikkatli ve koruyucu tedbirlerin alınmasını gerekli kılan temel neden nedir?
@@ -3243,7 +4248,8 @@
     - D-) Tehlikeli Ortamda Çalışmak
     - E-) Yalnız Ortamda Çalışmak
 
-    > **Açıklama:** Karanlık odada kullanılan kimyasalların gerek solunma yoluyla gerekse temas yoluyla insan sağlığına olumsuz etkileri bulunmaktadır. Bu nedenle kullanım esnasında çok dikkatli ve koruyucu tedbirlerin alındığından emin olunmalıdır. Koruyucu tedbir olarak önlük, gözlük, maske, eldiven ve maşa kullanmak, çalışma esnasında ortamı sürekli havalandırmak, sık sık mola vermek, çalışma esnasında yiyecek ve içecek tüketmemek, uyarı levha ve etiketleri kullanmak çalışmaların daha sağlıklı yürütülmesini sağlayacaktır.
+    > **Açıklama:** Kart Baskısında Kullanılan Araç ve Aksesuarlar
+    > Karanlık odada kullanılan kimyasalların gerek solunma yoluyla gerekse temas yoluyla insan sağlığına olumsuz etkileri bulunmaktadır. Bu nedenle kullanım esnasında çok dikkatli ve koruyucu tedbirlerin alındığından emin olunmalıdır. Koruyucu tedbir olarak önlük, gözlük, maske, eldiven ve maşa kullanmak, çalışma esnasında ortamı sürekli havalandırmak, sık sık mola vermek, çalışma esnasında yiyecek ve içecek tüketmemek, uyarı levha ve etiketleri kullanmak çalışmaların daha sağlıklı yürütülmesini sağlayacaktır.
 
     ***
 1. Fotoğraf çekildikten sonra fotoğrafik duyarkatta, pozlama sonucunda oluşan ancak gözle görülemeyen görüntüye ne ad verilir?
@@ -3253,7 +4259,8 @@
     - **Cevap D-) Gizli Görüntü**
     - E-) Karanlık Görüntü
 
-    > **Açıklama:** **Gizli Görüntü** **(Latent Image)**
+    > **Açıklama:** Karanlık Odada Kullanılan Kimyasallar ve Hazırlanması
+    > **Gizli Görüntü** **(Latent Image)**
     > Fotoğraf çekildikten sonra fotoğrafik duyarkatta, pozlama sonucunda oluşan ancak gözle görülemeyen görüntü. Duyarkattaki gizli görüntü, film ve kâğıt üzerinde geliştirme banyosunda; algılayıcıda ise işlendikten sonra gerçek görüntüye dönüşür.
 
     ***
@@ -3264,7 +4271,8 @@
     - D-) 3-4
     - **Cevap E-) 4-5**
 
-    > **Açıklama:** Satın alınan fotoğraf kağıdının teknik özelliklerine ilişkin önemli bilgiler genelde kutu ya da zarfın üstünde yazılmaktadır. Bu özelliklerden biri de **kontrastlık** derecesidir.
+    > **Açıklama:** Siyah Beyaz Fotoğraf Kâğıtları
+    > Satın alınan fotoğraf kağıdının teknik özelliklerine ilişkin önemli bilgiler genelde kutu ya da zarfın üstünde yazılmaktadır. Bu özelliklerden biri de **kontrastlık** derecesidir.
     > Kontrastlık derecelerine göre kâğıtlar 0-5 arasında numaralara göre sınıflandırılır. 0 en düşük, 5 en yüksek kontrastlık oranının simgeler. Düşük kontrastlı bir sonuç elde edilmek isteniyorsa 0-1 numara, ortalama bir değer için 2 ya da 3 numara, yüksek kontrastlı bir sonuç elde etmek için ise 4-5 numaralı kartlar tercih edilir.
 
     ***
@@ -3275,7 +4283,8 @@
     - D-) Agrandisör
     - E-) Pozlama
 
-    > **Açıklama:** Baskı aşamasında dikkat edilmesi gereken birkaç faktör vardır. Bunlar, kullanılacak kağıdın seçimi, geliştirme solüsyonunun seçimi ve agrandisör ile pozlama sürecidir.
+    > **Açıklama:** Baskı Süreci ve İşlemleri
+    > Baskı aşamasında dikkat edilmesi gereken birkaç faktör vardır. Bunlar, kullanılacak kağıdın seçimi, geliştirme solüsyonunun seçimi ve agrandisör ile pozlama sürecidir.
 
     ***
 1. Bir negatif filmin tüm karelerinin birebir boyutta tek bir kâğıt üzerine basılmış pozitif<br />hâline ne ad verilir?
@@ -3285,7 +4294,8 @@
     - D-) Siyah Beyaz Baskı
     - E-) Test Baskısı
 
-    > **Açıklama:** ***Kontak Baskı***
+    > **Açıklama:** Konu Başlığı: Baskı Süreci ve İşlemleri
+    > ***Kontak Baskı***
     > Kontak baskı bir negatif filmin tüm karelerinin birebir boyutta tek bir kâğıt üzerine basılmış pozitif hâlidir. Kontak baskı temelde banyo edilen filmdeki tüm karelerin pozitif görüntülerini görmeye yarar. Kontak baskı yapıldıktan sonra loop ya da büyüteç ile tüm kareler incelenerek büyük boy baskı için seçim yapılır. Kontak baskı aynı zamanda bir fotoğrafçının çekim performansının gözlenmesi için de önemlidir.
 
     ***
@@ -3312,8 +4322,8 @@
 
     ***
 1. Aşağıdakilerden hangisi geniş açılı objektifin özelliğidir?
-    - A-) İç yapılarındaki mercek sayısı az olduğu için objektiften giren ışık daha az   kırılmaya uğrar böylelikle detaylı ve kaliteli görüntüler elde edilebilir.
-    - B-) Odak uzaklıkları değiştirilebilen geniş bir aralıkta hareket ederek farklı açıları   görüntülemeyi kolaylaştıran lenslerdir.
+    - A-) İç yapılarındaki mercek sayısı az olduğu için objektiften giren ışık daha az kırılmaya uğrar böylelikle detaylı ve kaliteli görüntüler elde edilebilir.
+    - B-) Odak uzaklıkları değiştirilebilen geniş bir aralıkta hareket ederek farklı açıları görüntülemeyi kolaylaştıran lenslerdir.
     - **Cevap C-) 40 mm den daha kısa odak uzaklığına sahiptirler**
     - D-) 45-46 derecelik bakış açısıyla gören insan gözüne en yakın görüşü veren objektiflerdir
     - E-) Tele objektif olarak da adlandırılırlar.
@@ -3324,7 +4334,7 @@
 
     ***
 1. Balık Gözü Objektiflerin en önemli özelliği aşağıdakilerden hangisidir?
-    - A-) Çekim yaptığımız konunun yanına yaklaşamayacak kadar uzak olduğumuzda ya   da yaklaşmamızın sakıncalı olduğu durumlarda konuyu yakınlaştırmak için kullanılırlar.
+    - A-) Çekim yaptığımız konunun yanına yaklaşamayacak kadar uzak olduğumuzda ya da yaklaşmamızın sakıncalı olduğu durumlarda konuyu yakınlaştırmak için kullanılırlar.
     - B-) Net alan derinlikleri kısa olan bu objektifler genel amaçlı çekimler için kullanılabildiği gibi özellikle portre çekimlerinde başarılı sonuçlar elde etmemizi sağlar
     - C-) Nesneleri olduğundan daha yakına getirerek büyük gösterir ve alanları birbirine yaklaştırırlar.
     - **Cevap D-) Tüm objektif türleri içerisinde görüş açısı en geniş olan objektif çeşididir.**
@@ -3351,11 +4361,11 @@
     - E-) Turuncu Filtre
 
     > **Açıklama:** Kontrast Etki Veren Filtreler
-    > 1. Açık Sarı Filtre
-    > 2. Orta Sarı Filtre
-    > 3. Koyu Sarı Filtre
-    > 4. Turuncu Filtre
-    > 5. Kırmızı Filtre
+    > 1\. Açık Sarı Filtre
+    > 2\. Orta Sarı Filtre
+    > 3\. Koyu Sarı Filtre
+    > 4\. Turuncu Filtre
+    > 5\. Kırmızı Filtre
 
     ***
 1. Renk tamlama filtreleri kaç çeşittir?
@@ -3380,6 +4390,16 @@
     > ortaya çıkan şehir ışıklarının fotoğraflanmasında etkili sonuçlar verir.
 
     ***
+1. Pozometre ne için kullanılır?
+    - A-) Uzun pozlama gerektiren, makro ve ya teleobjektif isteyen özel çekimlerde, hareketli spor müsabakalarında elimizin titremesinden kaynaklanan flu görüntülere sebep olan sonuçları engellemek amacıyla kullanılır.
+    - B-) Profesyonel fotoğraf makineleri ve çekimleri için tercih edilmektedir.
+    - C-) Pozometreler, ışığın yeterli olmadığı ortamlarda konumuzu aydınlatmak için veya konunun kontrastlığını azaltmak için harici ya da dahili, ana ve yardımcı ışık kaynağı olarak kullanılan araçlardır.
+    - D-) Özellikle uzun pozlama gerektiren fotoğraf çekimlerinde kullanılır.
+    - **Cevap E-) Doğru enstantane ve diyafram açıklığını bulmanın en kolay yolu pozometre kullanmaktır.**
+
+    > **Açıklama:** Doğru enstantane ve diyafram açıklığını bulmanın en kolay yolu pozometre kullanmaktır.
+
+    ***
 1. İnsan gözüne en yakın görüşü veren objektif hangisidir?
     - A-) Süper Tele Objektifler
     - B-) Dar Açılı Objektifler
@@ -3400,7 +4420,7 @@
     > **Açıklama:** Objektiflerin üzerinde yer alan f5.6, f4.5, f3.5, f2.8, f1.4 ile f olarak ifade edilen rakamsal değerler o objektifin maksimum diyafram açıklığında ışığı geçirme miktarını ifade eder. F değeri 4.5 olan bir objektif f5.6 dan, f değeri 2.8 olan bir objektif f değeri f3.5 olan bir objektiften daha fazla ışık geçirgenliğine sahiptir. F değeri küçüldükçe objektifin içeriye ışık alma miktarı artar f değeri ile objektife giren ışık miktarı arasında ters orantı vardır. Doğru cevap D'dir.
 
     ***
-1. Siyah beyaz fotoğraflar çekerken kullanılan filtreler  sahip olduğu kendi rengine ait ışığın objektiften içeri girmesine izin verirken, zıt renkteki ışığı keserek içeri almaktadır. Buna göre sarı ve mavi renklerin geçmesine izin verdiği zıt renkler aşağıdakilerden hangileridir?
+1. Siyah beyaz fotoğraflar çekerken kullanılan filtreler sahip olduğu kendi rengine ait ışığın objektiften içeri girmesine izin verirken, zıt renkteki ışığı keserek içeri almaktadır. Buna göre sarı ve mavi renklerin geçmesine izin verdiği zıt renkler aşağıdakilerden hangileridir?
     - A-) Magenta ve Yeşil
     - B-) Magenta ve Cyan
     - C-) Kırmızı ve Yeşil
@@ -3408,12 +4428,12 @@
     - E-) Kırmızı ve Cyan
 
     > **Açıklama:** FİLTRE - GEÇİRDİĞİ RENK - TUTTUĞU RENK
-    > Sarı              Sarı                     Mavi
-    > Yeşil             Yeşil                  Magenta
-    > Magenta     Magenta                 Yeşil
-    > Kırmızı         Kırmızı                  Cyan
-    > Mavi             Mavi                     Sarı
-    > Cyan            Cyan                   Kırmızı
+    > Sarı Sarı Mavi
+    > Yeşil Yeşil Magenta
+    > Magenta Magenta Yeşil
+    > Kırmızı Kırmızı Cyan
+    > Mavi Mavi Sarı
+    > Cyan Cyan Kırmızı
     > Doğru cevap D'dir
 
     ***
@@ -3437,7 +4457,7 @@
     > **Açıklama:** Polarize filtreler kendi içinde linear (doğrusal) ve circular (dairesel) olmak üzere ikiye ayrılır. Linear filtre film kullanan makineler içindir. Circular filtre ise objektifin önüne takılıp dönebilen filtredir. Bu filtrenin temel kullanım alanı; yansıma ve parlamaları engellemek, renklerin doygunluğunu arttırmak ve objektife düşen ışık miktarını azaltmaktır. Doğru cevap A'dır.
 
     ***
-1. Bir fotoğraf sanatçısı günbatımı'nı  sıcak turuncu tonlarda yakalamak istemektedir. Bu durumda ona hangi filtreyi kullanmasını tavsiye edersiniz?
+1. Bir fotoğraf sanatçısı günbatımı'nı sıcak turuncu tonlarda yakalamak istemektedir. Bu durumda ona hangi filtreyi kullanmasını tavsiye edersiniz?
     - A-) Degrade Filtre
     - B-) Yıldız Filtre
     - **Cevap C-) Sunset Filtre**
@@ -3454,7 +4474,7 @@
     - D-) Orta sarı filtre kullanmalıdır.
     - E-) Kırmızı Filtre kullanmalıdır.
 
-    > **Açıklama:** Deniz manzaraları fotoğraflanırken  suyun tabii görünüşü istenmiyorsa orta sarı veya açık yeşil filtre, koyu renk su istenmiyorsa turuncu veya koyu sarı filtre kullanılır. Doğru cevap B'dir.
+    > **Açıklama:** Deniz manzaraları fotoğraflanırken suyun tabii görünüşü istenmiyorsa orta sarı veya açık yeşil filtre, koyu renk su istenmiyorsa turuncu veya koyu sarı filtre kullanılır. Doğru cevap B'dir.
 
     ***
 1. Uzun pozlama gerektiren, makro ve ya teleobjektif isteyen özel çekimlerde, hareketli spor müsabakalarında elimizin titremesinden kaynaklanan flu görüntülere sebep olan sonuçları engellemek amacıyla hangi yardımcı malzeme kullanılmalıdır?
@@ -3467,6 +4487,27 @@
     > **Açıklama:** Adından da anlaşılacağı üzere üç bacaklı bir ayak sistemi olan tripod; uzun pozlama gerektiren, makro ve ya teleobjektif isteyen özel çekimlerde, hareketli spor müsabakalarında elimizin titremesinden kaynaklanan flu görüntülere sebep olan sonuçları engellemek amacıyla makinemizi gövdesiyle beraber üzerine oturttuğunuz bir sistemdir. Doru cevap D'dir.
 
     ***
+1. Fotoğraf çekiminde kalite için profesyonellerin de tercihi olan hafıza kartı hangisidir?
+    - A-) Memory Stick Kartlar
+    - B-) Micro Sd Kartlar
+    - C-) SD Kartlar
+    - D-) USB Bellek Kartlar
+    - **Cevap E-) Compact Flaş Kartlar**
+
+    > **Açıklama:** Compact Flaş Kartlar: Profesyonel fotoğraf makineleri ve çekimleri için tercih edilmektedir. Boyutları sd, micro sd ve memory stick kartlara göre daha büyük, yüksek kapasiteli ve hızlı kartlardır. Özellikle seri çekimlerde tercih edilmektedir. Doğru cevap E'dir.
+
+    ***
+1. Doğru enstantane ve diyafram açıklığını bulmanın en kolay yolu ne kullanmaktır?
+    - **Cevap A-) Pozometre**
+    - B-) Deklanşör Kablosu
+    - C-) Flaş
+    - D-) Tripod
+    - E-) Filtre
+
+    > **Açıklama:** Doğru enstantane ve diyafram açıklığını bulmanın en kolay yolu pozometre kullanmaktır. Pozometreler çekim yaptığımız ortamdaki konuya yansıyan ışığı ölçerek bu ışığın diyafram ve enstantane cinsinden karşılığını veren ve doğru enstantane
+    > diyafram ayarı yapmamızı sağlayan cihazlardır. Doğru cevap A'dır.
+
+    ***
 1. Aşağıdakilerden hangisi sabit odaklı bir objektiftir?
     - A-) 8-18mm
     - B-) 12-24mm
@@ -3475,6 +4516,16 @@
     - E-) 35-70mm
 
     > **Açıklama:** C şıkkı dışında kalan örnekler zoom objektiflere örnektir ve odakları verilen aralıklarda değişebilir. Doğru cevap C'dir.
+
+    ***
+1. Aşağıdakilerden hangisi odak uzaklığına göre yapılan objektif sınıflandırmalardan değildir?
+    - **Cevap A-) Zoom Objektifler**
+    - B-) Balık gözü objektifler
+    - C-) Normal açılı objektifler
+    - D-) Dar açılı objektifler
+    - E-) Süper tele objektifler
+
+    > **Açıklama:** Bir objektifin zoom objektif veya sabit odaklı objektif olması; objektifin yapısal özelliği ile ilgilidir. Doğru cevap A'dır.
 
     ***
 1. Tüm objektif türleri içerisinde görüş açısı en geniş olan objektif çeşidi hangisidir?
@@ -3505,6 +4556,16 @@
     - E-) Turuncu filtre
 
     > **Açıklama:** **Mavi Filtre:** Genellikle gün ışığı ortamında yapılan çekimlerde genel kontrastlığı yumuşatmak için kullanılır. Stüdyoda yapay ışık eşliğinde yapılan çekimlerde cilt tonlarını pürüzsüz hâle getirip dudak hatlarını ve kırmızılığını belirgin hale getirmektedir.
+
+    ***
+1. "Yüksek renk ısısında çekilen fotoğrafların kelvin derecesini azaltmak için kullanılır. Bu şartlar altında çekilen fotoğraflarda mavi renk baskın çıkar mavi rengin baskınlığını alır. Filtre rengi amberdir."<br />Yukarıda verilen özellikler aşağıdaki filtrelerden hangisine aittir?
+    - A-) 80B Filtresi
+    - **Cevap B-) 81B Filtre**
+    - C-) 85A Filtre
+    - D-) 85B Filtre
+    - E-) FL-B Filtre
+
+    > **Açıklama:** Verilen özellikler; renk düzeltme filtrelerinden 81B filtresine aittir. Doğru cevap B'dir.
 
     ***
 1. Aşağıdakilerden hangisi kapalı gökyüzünün Kelvin derecesidir?
@@ -3547,7 +4608,7 @@
     > **Açıklama:** Sabit Odaklı Objektifler: Odak uzaklıkları değiştirilemeyen objektiflerdir. 24mm, 35 mm, 50mm, 85mm, 105mm objektifler sabit odaklı objektiflere örnektir. Bu objektiflerin en önemli özelliği keskin ve doygun görüntüler elde etmemizi daha mümkün kılmasıdır. İç yapılarındaki mercek sayısı az olduğu için objektiften giren ışık daha az kırılmaya uğrar böylelikle detaylı ve kaliteli görün­tüler elde edilebilir.
 
     ***
-1. Aşağıdaki objektif türlerinden hangisi  9mm-35mm aralığında bir odak uzaklığına sahiptir?
+1. Aşağıdaki objektif türlerinden hangisi 9mm-35mm aralığında bir odak uzaklığına sahiptir?
     - A-) Balık gözü objektifler
     - B-) Dar açılı objektifler
     - **Cevap C-) Geniş açılı objektifler**
@@ -3597,7 +4658,7 @@
     > **Açıklama:** Turuncu Filtre: Özellikle sisli puslu hava çe­kimlerinde görüş mesafesini arttırmak için, sarı ve mavi renk ağırlıklı çekimlerde ortaya çıkan kont­rastlıkları vurgulamak, manzara ve gökyüzü fotoğ­raflarında, portre fotoğraflarında oluşan cilt bozuk­luklarını gidermek ve sarı saç rengini canlandırmak için kullanılmaktadır. Mimari yapı çekimlerinde ise derinlik ve doku etkisi yaratır.
 
     ***
-1. Aşağıdaki filtre türlerinden hangisi  kontrastın yo­ğun olduğu ortam ve koşullarda kontrastın etkisini azaltarak görüntüyü yumuşatmak için kullanılmaktadır?
+1. Aşağıdaki filtre türlerinden hangisi kontrastın yo­ğun olduğu ortam ve koşullarda kontrastın etkisini azaltarak görüntüyü yumuşatmak için kullanılmaktadır?
     - A-) Polarize Filtreler
     - B-) 80B Filtresi
     - C-) Renk Tamlama Filtreleri
@@ -3618,6 +4679,17 @@
     > Floresan ışığı altında gün ışığına ayarlı filmlerle yapılan çekimlerde ortaya çıkan yoğun yeşil kahve­rengi tonların etkisini azaltmak için kullanılır.
 
     ***
+1. Aşağıdakilerden hangisi özellikle man­zara fotoğrafçılığında kullanılan güneşli havalarda gökyüzünün beyaz şekilde patlamasını engelleyen ve gökyüzünün rengini istediğimiz tonda değiştiren filtrelerdir?
+    - A-) Soft Filtreler
+    - B-) Alan Derinliğini Bölme Filtreleri
+    - **Cevap C-) Degrade Filtre**
+    - D-) Sunset Filtre
+    - E-) Yıldız Filtre
+
+    > **Açıklama:** Degrade Filtre
+    > Yarısı saydam yarısı renkli olan ve özellikle man­zara fotoğrafçılığında kullanılan güneşli havalarda gökyüzünün beyaz şekilde patlamasını engelleyen ve gökyüzünün rengini istediğimiz tonda değiştiren filtrelerdir. En kullanışlı olanı gri renkli olan olsa da kırmızı, sarı, turuncu gibi renkleri de bulunur.
+
+    ***
 1. Fotoğraf makinası kaç ana parçadan oluşmaktadır?
     - A-) 2 (Gövde, Flash)
     - B-) 2 (Gövde, Film)
@@ -3626,7 +4698,7 @@
     - E-) 3 (Gövde, Flash, Film)
 
     > **Açıklama:** Fotoğraf makinası iki ana parçadan oluşmaktadır. Body (gövde) ve objektiftir.
-    > Objektif film üzerine kaydedilen görüntünün kaydedilmesini ve net olmasını sağlayan mercekler topluluğudur. Bu mercek ya da mercekler topluluğu fotoğrafını çekti­ğimiz konunun ışığa duyarlı yüzey üzerine (film ya da sensör) düşmesini sağlar. Fotoğraf makinesinin gövdesine takılıp çıkarılabilen bir parça olan objek­tifin içinde mercekler sistemi ve diyafram, üzerinde ise netleme halkası bulunur. İnsan gözünün çalış­ma prensibine göre tasarlanıp dizayn edilmiş olan objektiflerin odak uzunlukları görüntünün film ya da ışığa duyarlı yüzey üzerinde net oluşmasını sağlayan mekanizmadır. Doğru cevap "C" şıkkıdır.
+    > Objektif film üzerine kaydedilen görüntünün kaydedilmesini ve net olmasını sağlayan mercekler topluluğudur. Bu mercek ya da mercekler topluluğu fotoğrafını çekti­ğimiz konunun ışığa duyarlı yüzey üzerine (film ya da sensör) düşmesini sağlar. Fotoğraf makinesinin gövdesine takılıp çıkarılabilen bir parça olan objek­tifin içinde mercekler sistemi ve diyafram, üzerinde ise netleme halkası bulunur. İnsan gözünün çalış­ma prensibine göre tasarlanıp dizayn edilmiş olan objektiflerin odak uzunlukları görüntünün film ya da ışığa duyarlı yüzey üzerinde net oluşmasını sağlayan mekanizmadır. Doğru cevap "C" şıkkıdır.
 
     ***
 1. Objektife gelen ışığın süzülerek film ya da ışığa duyarlı yüzey üzerine düşmesini sağlayarak fotoğrafımızda farklı efekt ve etkiler almamızı sağlayan parçalara ne ad verilir?
@@ -3636,10 +4708,10 @@
     - D-) Diyafram
     - E-) Perde
 
-    > **Açıklama:** Objektife gelen ışığın süzülerek film ya da ışığa duyarlı yüzey üzerine düşmesini sağlayarak fotoğrafımızda farklı efekt ve etkiler almamızı sağlayan parçalara filtrelerdir. filtreler ışığı süzmesinin yanı sıra ışığın özelliklerini de değiştirebilir; ışığın rengini, şiddetini, kontrastını arttırıp azaltabilir. Renk tonu farklılıklarını azaltmak veya bir rengi ön plana çıkartmak, fotoğraftaki ayrıntıları koruyarak bir izlenim yaratmak yine filtreler aracılığıyla elde et­tiğimiz etkilerdir. Fotoğrafçının fotoğrafa vermek istediği etkiye göre ve istekleri doğrultusunda yeni bir görüntü oluşmasını sağlayan filtreler genelde makinenin objektif kısmına takılabildiği gibi stüd­yoda aydınlatma kaynaklarında da kullanılabilir. Filtrelerin çeşitliliği ve dolayısıyla görüntü üzerin­de sağladıkları istenen etkileri fotoğrafçılara önemli kolaylık ve kazanımlar getirmiştir. Doğru cevap "B" şıkkıdır.
+    > **Açıklama:** Objektife gelen ışığın süzülerek film ya da ışığa duyarlı yüzey üzerine düşmesini sağlayarak fotoğrafımızda farklı efekt ve etkiler almamızı sağlayan parçalara filtrelerdir. filtreler ışığı süzmesinin yanı sıra ışığın özelliklerini de değiştirebilir; ışığın rengini, şiddetini, kontrastını arttırıp azaltabilir. Renk tonu farklılıklarını azaltmak veya bir rengi ön plana çıkartmak, fotoğraftaki ayrıntıları koruyarak bir izlenim yaratmak yine filtreler aracılığıyla elde et­tiğimiz etkilerdir. Fotoğrafçının fotoğrafa vermek istediği etkiye göre ve istekleri doğrultusunda yeni bir görüntü oluşmasını sağlayan filtreler genelde makinenin objektif kısmına takılabildiği gibi stüd­yoda aydınlatma kaynaklarında da kullanılabilir. Filtrelerin çeşitliliği ve dolayısıyla görüntü üzerin­de sağladıkları istenen etkileri fotoğrafçılara önemli kolaylık ve kazanımlar getirmiştir. Doğru cevap "B" şıkkıdır.
 
     ***
-1. 1. Haraket odaklı objektifler<br />2. Sabit odaklı objektifler<br />3. Renkli objektifler<br />4. Zoom objektifler<br />5. Dijital objektifler<br />Yukarıdakilerden hangileri Objektif çeşitlerindendir?
+1. 1\. Haraket odaklı objektifler<br />2\. Sabit odaklı objektifler<br />3\. Renkli objektifler<br />4\. Zoom objektifler<br />5\. Dijital objektifler<br />Yukarıdakilerden hangileri Objektif çeşitlerindendir?
     - A-) I ve III
     - **Cevap B-) II ve IV**
     - C-) IV ve V
@@ -3648,7 +4720,7 @@
 
     > **Açıklama:** Objektifler öncelikle yapısal özellikleine göre sabit odaklı ve değişken (zoom) odaklı objektifler olmak üzere ikiye ayrılır.
     > Sabit Odaklı Objektifler: Odak uzaklıkları değiştirilemeyen objektiflerdir. 24mm, 35 mm, 50mm, 85mm, 105mm objektifler sabit odaklı objektiflere örnektir. Bu objektiflerin en önemli özelliği keskin ve doygun görüntüler elde etmemizi daha mümkün kılmasıdır. İç yapılarındaki mercek sayısı az olduğu için objektiften giren ışık daha az kırılmaya uğrar böylelikle detaylı ve kaliteli görün­tüler elde edilebilir.
-    > Zoom Objektifler: Odak uzaklıkları değiştiri­lebilen geniş bir aralıkta hareket ederek farklı açıları görüntülemeyi kolaylaştıran lenslerdir. Çektiğimiz görüntüye yaklaşmadan veya uzaklaşmadan fotoğ­raf çekmemize olanak tanır. 8-16mm, 12-24mm, 18-55mm, 35-70mm, 18-200mm objektifler odak uzaklığı aralıkları değiştirilebilen lenslerdir. Fo­toğrafçıya rahatlık ve kullanım kolaylığı sağlarken içindeki merceklerin çoklu yapısından dolayı gö­rüntü kalitesinde kayıplara sebep olabilir görüntü keskinliği ve doygunluğu sabit odaklı objektifler­deki gibi çok kaliteli sonuç vermeyebilir. Doğru cevap "B" şıkkıdır.
+    > Zoom Objektifler: Odak uzaklıkları değiştiri­lebilen geniş bir aralıkta hareket ederek farklı açıları görüntülemeyi kolaylaştıran lenslerdir. Çektiğimiz görüntüye yaklaşmadan veya uzaklaşmadan fotoğ­raf çekmemize olanak tanır. 8-16mm, 12-24mm, 18-55mm, 35-70mm, 18-200mm objektifler odak uzaklığı aralıkları değiştirilebilen lenslerdir. Fo­toğrafçıya rahatlık ve kullanım kolaylığı sağlarken içindeki merceklerin çoklu yapısından dolayı gö­rüntü kalitesinde kayıplara sebep olabilir görüntü keskinliği ve doygunluğu sabit odaklı objektifler­deki gibi çok kaliteli sonuç vermeyebilir. Doğru cevap "B" şıkkıdır.
 
     ***
 1. Aşağıdakilerden hangisi objektiflerin sınıflandırılmasındaki sıralamada yer almaz?
@@ -3659,14 +4731,14 @@
     - **Cevap E-) Kedi Gözü Objektifler**
 
     > **Açıklama:** Objektifler genel olarak odak uzaklıklarına göre balık gözü, geniş açı, normal (standart odaklı), dar açılı (tele) ve süper tele objektifler olarak sınıflan­dırılır.
-    > 1. Balık Gözü Objektifler: Tüm objektif türleri içerisinde görüş açısı en geniş olan objektif çeşididir. Genellikle 6-16 mm odak uzaklığına ve 1800 görüş açısına sahiptir. Özellikle kreatif görüntüler elde et­mek için tercih edilir fakat kullanım alanları olduk­ça sınırlıdır. Görüntü çıktısında kaymalar ve dairesel görüntüye yakın yarım küre şeklinde efektler verir.
-    > 2. Geniş Açılı Objektifer: 9-35 mm aralığın­daki odak uzaklığına sahip bu objektifler insan gözünün gördüğünden çok daha geniş bir açıyı görebilirler. 40 mm den daha kısa odak uzaklığı­na sahiptirler. 15mm, 23mm, 28mm, 35mm odak uzaklığına sahip objektifler geniş açılı objektif ör­nekleridir. Görüntü üzerinde alan derinliğini art­tıran bir etki bırakır. Çok dar alanlarda daha ge­niş bir görüntü elde edebilmek amacıyla kullanılır özellikle manzara ve mimari fotoğraf çekimlerinde tercih sebebidir.
-    > 3. Normal Açılı Objektifler: 45-46 derecelik bakış açısıyla gören insan gözüne en yakın görüşü veren objektiflerdir. Bu nedenle normal, standart olarak adlandırılmışlardır. 40-50 mm odak aralı­ğında uzaklığa sahiptirler. Portre, manzara, doğa, sokak fotoğrafçılığı gibi çok geniş bir yelpazede kullanılabilirler.
-    > 4. Dar Açılı Objektifler: Tele objektif olarak da adlandırılırlar. Çekim yaptığımız konunun ya­nına yaklaşamayacak kadar uzak olduğumuzda ya da yaklaşmamızın sakıncalı olduğu durumlarda ko­nuyu yakınlaştırmak için kullanılırlar. Nesneleri ol­duğundan daha yakına getirerek büyük gösterir ve alanları birbirine yaklaştırırlar. Net alan derinlikleri kısa olan bu objektifler genel amaçlı çekimler için kullanılabildiği gibi özellikle portre çekimlerinde başarılı sonuçlar elde etmemizi sağlar. Odak uzun­lukları 70mm ile 135mm arasındadır.
-    > 5. Süper Tele Objektifler: Dar açılı tele objek­tifler gibi çekim esnasında bize uzak olan konu ve nesneleri yakınlaştırmak için kullanılırlar. Özellikle vahşi doğa, haber ve spor karşılaşmalarını fotoğ­raflamak için kullanılır. Sınırlı bir alan derinliğine sahiptir ve konuyu içinde bulunduğu ortamdan büyüterek ayırır. 200mm ve üstü odak uzaklığına sahip objektifler süper tele objektif grubuna giren objektiflerdir. Bu tür objektiflerin netlik sistemleri çok hassas olduğu ve titremeyi engellemek için tri­pod ile kullanmakta fayda vardır. Doğru cevap "E" şıkkıdır.
+    > 1\. Balık Gözü Objektifler: Tüm objektif türleri içerisinde görüş açısı en geniş olan objektif çeşididir. Genellikle 6-16 mm odak uzaklığına ve 1800 görüş açısına sahiptir. Özellikle kreatif görüntüler elde et­mek için tercih edilir fakat kullanım alanları olduk­ça sınırlıdır. Görüntü çıktısında kaymalar ve dairesel görüntüye yakın yarım küre şeklinde efektler verir.
+    > 2\. Geniş Açılı Objektifer: 9-35 mm aralığın­daki odak uzaklığına sahip bu objektifler insan gözünün gördüğünden çok daha geniş bir açıyı görebilirler. 40 mm den daha kısa odak uzaklığı­na sahiptirler. 15mm, 23mm, 28mm, 35mm odak uzaklığına sahip objektifler geniş açılı objektif ör­nekleridir. Görüntü üzerinde alan derinliğini art­tıran bir etki bırakır. Çok dar alanlarda daha ge­niş bir görüntü elde edebilmek amacıyla kullanılır özellikle manzara ve mimari fotoğraf çekimlerinde tercih sebebidir.
+    > 3\. Normal Açılı Objektifler: 45-46 derecelik bakış açısıyla gören insan gözüne en yakın görüşü veren objektiflerdir. Bu nedenle normal, standart olarak adlandırılmışlardır. 40-50 mm odak aralı­ğında uzaklığa sahiptirler. Portre, manzara, doğa, sokak fotoğrafçılığı gibi çok geniş bir yelpazede kullanılabilirler.
+    > 4\. Dar Açılı Objektifler: Tele objektif olarak da adlandırılırlar. Çekim yaptığımız konunun ya­nına yaklaşamayacak kadar uzak olduğumuzda ya da yaklaşmamızın sakıncalı olduğu durumlarda ko­nuyu yakınlaştırmak için kullanılırlar. Nesneleri ol­duğundan daha yakına getirerek büyük gösterir ve alanları birbirine yaklaştırırlar. Net alan derinlikleri kısa olan bu objektifler genel amaçlı çekimler için kullanılabildiği gibi özellikle portre çekimlerinde başarılı sonuçlar elde etmemizi sağlar. Odak uzun­lukları 70mm ile 135mm arasındadır.
+    > 5\. Süper Tele Objektifler: Dar açılı tele objek­tifler gibi çekim esnasında bize uzak olan konu ve nesneleri yakınlaştırmak için kullanılırlar. Özellikle vahşi doğa, haber ve spor karşılaşmalarını fotoğ­raflamak için kullanılır. Sınırlı bir alan derinliğine sahiptir ve konuyu içinde bulunduğu ortamdan büyüterek ayırır. 200mm ve üstü odak uzaklığına sahip objektifler süper tele objektif grubuna giren objektiflerdir. Bu tür objektiflerin netlik sistemleri çok hassas olduğu ve titremeyi engellemek için tri­pod ile kullanmakta fayda vardır. Doğru cevap "E" şıkkıdır.
 
     ***
-1. 1. Makro Objektifler<br />2. Mikro Objektifler<br />3. Işık kontrollü shift Objektifler<br />4. Diyafram kontrollü Objektifler<br />5. Perspektif kontrollü shift Objektifler<br />Yukarıdakilerden hangileri özel amaçlı kullanılan objektifler arasında yer alır?
+1. 1\. Makro Objektifler<br />2\. Mikro Objektifler<br />3\. Işık kontrollü shift Objektifler<br />4\. Diyafram kontrollü Objektifler<br />5\. Perspektif kontrollü shift Objektifler<br />Yukarıdakilerden hangileri özel amaçlı kullanılan objektifler arasında yer alır?
     - A-) I ve II
     - B-) I ve IV
     - C-) II ve V
@@ -3674,8 +4746,8 @@
     - E-) I, II ve V
 
     > **Açıklama:** Özel amaçlı kullanılan objektifler;
-    > 1. Makro Objektifler: Çekilecek nesne veya konuya 1-2 cm mesafeden netlik yapabilen ob­jektifler makro olarak adlandırılır. Makro objek­tifler genellikle 1:1 oranında ya da 1:5 gibi geniş bir aralıkta büyük ve net görüntülemeyi sağlayan objektiflerdir. Fotoğraflayacağımız konunun aynı büyüklükte film ya da sensör üzerine düşmesini sağlar. Fotoğrafını çekeceğimiz konuya çok yaklaş­mamız alan derinliğini bozar. Bu durumu azaltmak için makro objektifler kullanılır. Bu objektiflerin ışık geçirgenlikleri azdır bu nedenle çekim esnasın­da titremeyi önlemek ve daha iyi sonuçlar almak için tripod kullanmamızda fayda vardır. Detayları aslına en yakın şekilde veren bu objektif özellikle doğa fotoğrafçılığında tercih edilir.
-    > 2. Perspektif Kontrolllü Shift Obkektifler: Özellikle mimari fotoğraf çekimlerinde uzun bina­larda meydana gelen perspektif hatalarını düzelte­bilmek ve alan derinliği kontrolünü sağlayabilmek için kullanılan objektiflerdir. Çekilen konu veya nesnelerin oran ve perspektiflerinin deformasyona uğramadan çekilmesini sağlar genellikle profesyo­nel fotoğrafçılar tarafından özel çekimler için kul­lanılmaktadır. Doğru cevap "D" şıkkıdır.
+    > 1\. Makro Objektifler: Çekilecek nesne veya konuya 1-2 cm mesafeden netlik yapabilen ob­jektifler makro olarak adlandırılır. Makro objek­tifler genellikle 1:1 oranında ya da 1:5 gibi geniş bir aralıkta büyük ve net görüntülemeyi sağlayan objektiflerdir. Fotoğraflayacağımız konunun aynı büyüklükte film ya da sensör üzerine düşmesini sağlar. Fotoğrafını çekeceğimiz konuya çok yaklaş­mamız alan derinliğini bozar. Bu durumu azaltmak için makro objektifler kullanılır. Bu objektiflerin ışık geçirgenlikleri azdır bu nedenle çekim esnasın­da titremeyi önlemek ve daha iyi sonuçlar almak için tripod kullanmamızda fayda vardır. Detayları aslına en yakın şekilde veren bu objektif özellikle doğa fotoğrafçılığında tercih edilir.
+    > 2\. Perspektif Kontrolllü Shift Obkektifler: Özellikle mimari fotoğraf çekimlerinde uzun bina­larda meydana gelen perspektif hatalarını düzelte­bilmek ve alan derinliği kontrolünü sağlayabilmek için kullanılan objektiflerdir. Çekilen konu veya nesnelerin oran ve perspektiflerinin deformasyona uğramadan çekilmesini sağlar genellikle profesyo­nel fotoğrafçılar tarafından özel çekimler için kul­lanılmaktadır. Doğru cevap "D" şıkkıdır.
 
     ***
 1. Aşağıdakilerden hangisi kontrast azaltıcı filtrelerden birisidir?
@@ -3686,8 +4758,8 @@
     - E-) Turuncu Filtre
 
     > **Açıklama:** Kontrast Azaltıcı Filtreler; Kontrastın yo­ğun olduğu ortam ve koşullarda kontrastın etkisini azaltarak görüntüyü yumuşatmak için kullanılır. Mavi ve yeşil filtreler kontrast azaltıcı filtrelerdir.
-    > 1. Mavi Filtre: Genellikle gün ışığı ortamında yapılan çekimlerde genel kontrastlığı yumuşatmak için kullanılır. Stüdyoda yapay ışık eşliğinde yapı­lan çekimlerde cilt tonlarını pürüzsüz hâle getirip dudak hatlarını ve kırmızılığını belirgin hale ge­tirmektedir. Kırmızı tondaki nesneleri daha çok kontrast hâle getirip mavi tonları daha beyaz ve soluk bir hâle getirmek için tercih edilir.
-    > 2. Yeşil Filtre: Kontrast azaltıcı filtrelerin en önemlisi yeşil filtredir. Ağaç, yeşil alan, bitki ve yaprak fotoğraflarının kontrastlığını azaltarak gö­rüntüde soft açık gri bir ton elde etmemizi kolay­laştırır. Görüntüde hakim olan baskın kontrastlığı hafifleterek ayrıntıların ortaya çıkmasını sağlar. Doğru cevap "C" şıkkıdır.
+    > 1\. Mavi Filtre: Genellikle gün ışığı ortamında yapılan çekimlerde genel kontrastlığı yumuşatmak için kullanılır. Stüdyoda yapay ışık eşliğinde yapı­lan çekimlerde cilt tonlarını pürüzsüz hâle getirip dudak hatlarını ve kırmızılığını belirgin hale ge­tirmektedir. Kırmızı tondaki nesneleri daha çok kontrast hâle getirip mavi tonları daha beyaz ve soluk bir hâle getirmek için tercih edilir.
+    > 2\. Yeşil Filtre: Kontrast azaltıcı filtrelerin en önemlisi yeşil filtredir. Ağaç, yeşil alan, bitki ve yaprak fotoğraflarının kontrastlığını azaltarak gö­rüntüde soft açık gri bir ton elde etmemizi kolay­laştırır. Görüntüde hakim olan baskın kontrastlığı hafifleterek ayrıntıların ortaya çıkmasını sağlar. Doğru cevap "C" şıkkıdır.
 
     ***
 1. Aşağıdakilerden hangisi Kontrast etki veren filtreler arasında yer almaz?
@@ -3699,11 +4771,11 @@
 
     > **Açıklama:** Kontrast etki veren filtreler;
     > Fotoğraftaki açık renkteki alanları daha açık, koyu renk alanları ise daha koyu vurgulayarak kontrast etkisini yük­seltir. Sarı, turuncu ve kırmızı renkli filtreler bu gruba girmektedir.
-    > 1. Açık Sarı Filtre: Düzeltme filtreleri arasında yer alır. Çok tercih edilen bir filtre çeşidi değildir. Özellikle sabah erken ve akşam geç saatlerde, plaj ve kar manzaralarında, bulut ve gökyüzü fotoğraf­ları çekerken tercih edilmektedir.
-    > 2. Orta Sarı Filtre: Çok renkli konular ve çiçek fotoğrafları, bulutlu gökyüzü manzaraları, plaj ve karlı ortamların çekiminde kullanılır. Yeşil tonları­nı daha aydınlık ve parlak bir hâle getirirken, mavi rengin yoğunluğunu arttırmaktadır.
-    > 3. Koyu Sarı Filtre: Mavi rengin baskın şekilde ortaya çıkmasını sağlar. Kullanım alanları orta sarı ve açık sarı filtreler gibi plaj ve kar manzaraları, bu­lutlu gökyüzü ve manzara fotoğraflarıyla çiçek ve yeşillik fotoğraflarıdır (Gökgöz; 1980: 139).
-    > 4. Turuncu Filtre: Özellikle sisli puslu hava çe­kimlerinde görüş mesafesini arttırmak için, sarı ve mavi renk ağırlıklı çekimlerde ortaya çıkan kont­rastlıkları vurgulamak, manzara ve gökyüzü fotoğ­raflarında, portre fotoğraflarında oluşan cilt bozuk­luklarını gidermek ve sarı saç rengini canlandırmak için kullanılmaktadır. Mimari yapı çekimlerinde ise derinlik ve doku etkisi yaratır.
-    > 5. Kırmızı Filtre: Kontrast etkisi en güçlü olan filtredir. Sisli havada net manzara fotoğrafları elde etmek, bulutları ön plana çıkarmak, puslu fırtına­lı gökyüzü etkisi yaratmak, mavi ve yeşil renkleri daha siyah, kırmızı ve sarı renkleri daha açık tonda bırakmak için kullanılır. Fotoğrafımızda kreatif ve dramatik etki bırakmamızı sağlar. Doğru cevap "E" şıkkıdır.
+    > 1\. Açık Sarı Filtre: Düzeltme filtreleri arasında yer alır. Çok tercih edilen bir filtre çeşidi değildir. Özellikle sabah erken ve akşam geç saatlerde, plaj ve kar manzaralarında, bulut ve gökyüzü fotoğraf­ları çekerken tercih edilmektedir.
+    > 2\. Orta Sarı Filtre: Çok renkli konular ve çiçek fotoğrafları, bulutlu gökyüzü manzaraları, plaj ve karlı ortamların çekiminde kullanılır. Yeşil tonları­nı daha aydınlık ve parlak bir hâle getirirken, mavi rengin yoğunluğunu arttırmaktadır.
+    > 3\. Koyu Sarı Filtre: Mavi rengin baskın şekilde ortaya çıkmasını sağlar. Kullanım alanları orta sarı ve açık sarı filtreler gibi plaj ve kar manzaraları, bu­lutlu gökyüzü ve manzara fotoğraflarıyla çiçek ve yeşillik fotoğraflarıdır (Gökgöz; 1980: 139).
+    > 4\. Turuncu Filtre: Özellikle sisli puslu hava çe­kimlerinde görüş mesafesini arttırmak için, sarı ve mavi renk ağırlıklı çekimlerde ortaya çıkan kont­rastlıkları vurgulamak, manzara ve gökyüzü fotoğ­raflarında, portre fotoğraflarında oluşan cilt bozuk­luklarını gidermek ve sarı saç rengini canlandırmak için kullanılmaktadır. Mimari yapı çekimlerinde ise derinlik ve doku etkisi yaratır.
+    > 5\. Kırmızı Filtre: Kontrast etkisi en güçlü olan filtredir. Sisli havada net manzara fotoğrafları elde etmek, bulutları ön plana çıkarmak, puslu fırtına­lı gökyüzü etkisi yaratmak, mavi ve yeşil renkleri daha siyah, kırmızı ve sarı renkleri daha açık tonda bırakmak için kullanılır. Fotoğrafımızda kreatif ve dramatik etki bırakmamızı sağlar. Doğru cevap "E" şıkkıdır.
 
     ***
 1. Renk düzeltme filtrelerinden olan, Yüksek renk ısısında çekilen fotoğrafların kelvin derecesini azaltmak için kullanılan filtre aşağıdakilerden hangisidir?
@@ -3734,7 +4806,7 @@
     > **Çoklu Filtre**
     > Aynı görüntü ya da konunun fotoğraf düzle­minde birden fazla gösterilmesi için kullanılır.
     > **Hız Filtresi**
-    > Stabil bir cismin ya da konunun hareket eder­miş izlenimi vermesini sağlayan filtredir. Doğru cevap "A" şıkkıdır.
+    > Stabil bir cismin ya da konunun hareket eder­miş izlenimi vermesini sağlayan filtredir. Doğru cevap "A" şıkkıdır.
 
     ***
 1. Görüş açısı en geniş olan objektif aşağıdakilerden hangisidir?
@@ -3747,6 +4819,16 @@
     > **Açıklama:** Objektifler genel olarak odak uzaklıklarına göre balık gözü, geniş açı, normal (standart odaklı), dar açılı (tele) ve süper tele objektifler olarak sınıflandırılır. Tüm objektif türleri içerisinde görüş açısı en geniş olan objektif balık gözüdür. Genellikle 6-16 mm odak uzaklığına ve 1800 görüş açısına sahiptir. Özellikle kreatif görüntüler elde etmek için tercih edilir fakat kullanım alanları oldukça sınırlıdır.
 
     ***
+1. Belgesel için aslanların ceylanları kovalamasını çekmek isteyen bir fotoğrafçı aşağıdaki objektiflerden hangisini kullanmalıdır?
+    - **Cevap A-) Süper tele objektif**
+    - B-) Dar açılı objektif
+    - C-) Balık gözü objektif
+    - D-) Normal açılı objektif
+    - E-) Geniş açılı objektif
+
+    > **Açıklama:** Süre tele objektif, dar açılı tele objektifler gibi çekim esnasında bize uzak olan konu ve nesneleri yakınlaştırmak için kullanılırlar. Özellikle vahşi doğa, haber ve spor karşılaşmalarını fotoğraflamak için kullanılır. 200mm ve üstü odak uzaklığına sahip objektifler süper tele objektif grubuna giren objektiflerdir. Bu tür objektiflerin netlik sistemleri çok hassas olduğu ve titremeyi engellemek için tripod ile kullanmakta fayda vardır.
+
+    ***
 1. Aşağıdaki diyafram değerlerinden hangisi objektifin en fazla ışık aldığına işaret eder?
     - A-) f5.6
     - B-) f4.5
@@ -3757,7 +4839,17 @@
     > **Açıklama:** Objektiflerin üzerinde yer alan f5.6, f4.5, f3.5, f2.8, f1.4 ile f olarak ifade edilen rakamsal değerler o objektifin maksimum diyafram açıklığında ışığı geçirme miktarını ifade eder. F değeri 4.5 olan bir objektif f5.6 dan, f değeri 2.8 olan bir objektif f değeri f3.5 olan bir objektiften daha fazla ışık geçirgenliğine sahiptir. F değeri küçüldükçe objektifin içeriye ışık alma miktarı artar f değeri ile objektife giren ışık miktarı arasında ters orantı vardır.
 
     ***
-1. 1. Yeşil<br />2. Sarı<br />3. Mavi<br />4. Turuncu<br />5. Kırmızı<br />Yukarıdakilerden hangileri kontrast azaltıcı filtreler olarak geçmektedir?
+1. Aşağıdakilerden hangisi filtrelerin işlevlerinden biri değildir?
+    - A-) Filmin yarattığı renk sapmalarını düzeltir.
+    - B-) Renkler arasında kontrastlık oluşturur.
+    - C-) Polarize ışığın istenmeyen etkilerini giderir.
+    - D-) Doğada olmayan gerçeküstü görüntü oluşturur.
+    - **Cevap E-) Film üzerine kaydedilen görüntüyü kaydeder.**
+
+    > **Açıklama:** Filtreler; filmin yarattığı renk sapmalarını düzelterek, renkleri dış dünyadaki doğallığı içerisinde fotoğrafa aktarırlar, renkler arasında kontrastlık oluşturur, ışığın renk sıcaklık değerlerini değiştirerek istediğimiz tondaki renkleri elde etmemizi sağlar, renkleri fotoğrafta vurgulamak istediğimiz etkiye göre açık veya koyu değerlerine getirir ve bu etkinin oluşabilmesi için rengin doğal dengesini bozar (bu durum en çok reklam fotoğrafçıları ve stüdyo fotoğrafçılığında sıklıkla başvurulan bir durumdur), polarize olan ışığın istenmeyen etkilerini gidererek daha net görüntüler elde edilmesini sağlarlar, doğal yoğunluk (ND) filtreleri kullanarak çok ışıklı ortamlardaki ışığın şiddetini düşürmek ve böylece daha ayrıntılı ve detaylı görüntüler oluşturur, efekt veren filtrelerin (yıldız, çiftli, hız vb) kullanımıyla doğada olmayan gerçek üstü görüntülerin ortaya çıkarır. Film üzerine kaydedilen görüntüyü kaydetmek ise objektifin işlevidir.
+
+    ***
+1. 1\. Yeşil<br />2\. Sarı<br />3\. Mavi<br />4\. Turuncu<br />5\. Kırmızı<br />Yukarıdakilerden hangileri kontrast azaltıcı filtreler olarak geçmektedir?
     - A-) II-III
     - B-) I-V
     - C-) IV-V
@@ -3804,7 +4896,7 @@
     > **Açıklama:** Bu filtrenin temel kullanım alanı; yansıma ve parlamaları engellemek, renklerin doygunluğunu arttırmak ve objektife düşen ışık miktarını azaltmaktır. Işığın parlak yüzeylerde meydana getirdiği yansıma polarizasyon olarak adlandırılır ve polarize olmuş ışık fotoğrafımızda bozulmalar meydana getirir.
 
     ***
-1. 1. Flaş kart<br />2. Deklanşör kablosu<br />3. Pozometre<br />4. Objektif<br />5. Tripod<br />Yukarıdakilerden hangileri fotoğraf çekerken elin titremesini önlemek için kullanılabilecek ekipmanlardır?
+1. 1\. Flaş kart<br />2\. Deklanşör kablosu<br />3\. Pozometre<br />4\. Objektif<br />5\. Tripod<br />Yukarıdakilerden hangileri fotoğraf çekerken elin titremesini önlemek için kullanılabilecek ekipmanlardır?
     - A-) II-III
     - B-) I-V
     - C-) III-IV
@@ -3854,6 +4946,16 @@
     > **Açıklama:** Koyu Sarı Filtre: Mavi rengin baskın şekilde ortaya çıkmasını sağlar. Kullanım alanları orta sarı ve açık sarı filtreler gibi plaj ve kar manzaraları, bulutlu gökyüzü ve manzara fotoğraflarıyla çiçek ve yeşillik fotoğraflarıdır.
 
     ***
+1. Gaz lambası veya mum ışığında çekim yapılıyorsa renk sıcaklığı değeri aşağıdakilerden hangisidir?
+    - **Cevap A-) 1000**
+    - B-) 5500
+    - C-) 7000
+    - D-) 10000
+    - E-) 22000
+
+    > **Açıklama:** Işık Kaynaklarının Kelvin Dereceleri: Mum Gaz Lambası 1000K
+
+    ***
 1. Siyah beyaz fotoğrafçılıkta bulutları ön plana çıkarmak, puslu fırtınalı gökyüzü etkisi yaratmak için kullanılan filtre aşağıdakilerden hangisidir?
     - A-) Açık Sarı Filtre
     - B-) Orta Sarı Filtre
@@ -3899,10 +5001,21 @@
     - E-) FL-D Filtre Floresan Daylight
 
     > **Açıklama:** Siyah Beyaz ve Renkli Fotoğrafçılıkta Kullanılan Ortak Filtreler Siyah beyaz ve renkli filmlerle ortak kullanılabilen bu filtreler genel olarak fotoğrafçıların sıklıkla karşılaştıkları ve sorun yaratan fazla ışık, yansıma ve parlamaları engellemek için kullanılmaktadır.
-    > UV Filtreler (Ultraviole-Morötesi), Sky Light Filtreler, Polarize Filtreler, Yoğunluk ND Filtreleri ve Soft Filtreler ortak filtreler içinde yer almaktadır.
+    > UV Filtreler (Ultraviole-Morötesi), Sky Light Filtreler, Polarize Filtreler, Yoğunluk ND Filtreleri ve Soft Filtreler ortak filtreler içinde yer almaktadır.
 
     ***
-1. Aşağıdakilerden hangisi tripod kullanmayı gerektiren  çekimlerden değildir?
+1. Deniz veya sudaki yansımaların kısmen giderildiği, parlak yüzeydeki yansımaların ise tamamen kaybolduğu çekimlerde kullanılan filtre aşağıdakilerden hangisidir?
+    - A-) Sky Light Filtreler
+    - **Cevap B-) Polarize filtreler**
+    - C-) Degrade Filtre
+    - D-) ND filtre
+    - E-) Soft Filtreler
+
+    > **Açıklama:** Polarize Filtreler Polarize filtreler kendi içinde linear (doğrusal) ve circular (dairesel) olmak üzere ikiye ayrılır. Linear filtre film kullanan makineler içindir. Circular filtre ise objektifin önüne takılıp dönebilen filtredir. Bu filtrenin temel kullanım alanı; yansıma ve parlamaları engellemek, renklerin doygunluğunu arttırmak ve objektife düşen ışık miktarını azaltmaktır Bu filtre en iyi sonucu güneş ışınlarının 90 derecelik açıyla yansıdığı zamanlarda yapılan çekimlerde verir.
+    > Güneşli bir günde polarize filtre kullanarak yaptığımız çekimlerde gökkuşağı renkleri daha canlı bir hale gelir, bitki örtüsü ve ağaçlar daha kontrast hale gelerek koyulaşır, gökyüzü ve bulutlar belirginleşir, **deniz veya sudaki yansımalar kısmen giderilebilir, parlak yüzeydeki yansımalar ise tamamen kaybolur.**
+
+    ***
+1. Aşağıdakilerden hangisi tripod kullanmayı gerektiren çekimlerden değildir?
     - A-) Makro
     - B-) Uzun pozlama gerektiren çekimler
     - C-) Spor müsabakaları
@@ -3914,15 +5027,15 @@
     ***
 1. Objektiflerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?
     - A-) Dar açılı objektiflerin odak uzunlukları 70mm ile 135mm arasındadır.
-    - **Cevap B-) F:5.6 diyafram değeri  f:1.4 e göre daha fazla ışık geçirir.**
-    - C-) F:5.6 diyafram değeri  f:1.4 e göre daha az ışık geçirir.
+    - **Cevap B-) F:5.6 diyafram değeri f:1.4 e göre daha fazla ışık geçirir.**
+    - C-) F:5.6 diyafram değeri f:1.4 e göre daha az ışık geçirir.
     - D-) Küçük f değerinde diyafram açıklığına sahip objektifler hızlı objektiflerdir.
     - E-) 200mm ve üstü odak uzaklığına sahip objektifler süper tele objektif grubuna giren objektiflerdir.
 
     > **Açıklama:** Objektiflerde Diyafram Açıklığının Önemi Objektif tercihlerimizi öncelikle kullanım alanlarımıza, çekim yapacağımız konu ve ortama göre yaparken dikkat edeceğimiz bir diğer hususta objektifimizin görüntü kalitesi ve hızıdır. Bir objektifin görüntü kalitesini keskinliğini ve hızını belirleyen en önemli faktör objektifin maksimum diyafram açıklığıdır yani ışık geçirgenliğidir. Işık geçirgenliği, objektifin sahip olduğu en açık diyafram değerinde içeriye aldığı ışık miktarıdır. Objektiflerin üzerinde yer alan f5.6, f4.5, f3.5, f2.8, f1.4 ile f olarak ifade edilen rakamsal değerler o objektifin maksimum diyafram açıklığında ışığı geçirme miktarını ifade eder. F değeri 4.5 olan bir objektif f5.6 dan, f değeri 2.8 olan bir objektif f değeri f3.5 olan bir objektiften daha fazla ışık geçirgenliğine sahiptir. F değeri küçüldükçe objektifin içeriye ışık alma miktarı artar f değeri ile objektife giren ışık miktarı arasında ters orantı vardır.
 
     ***
-1. Aşağıdakilerden hangisi Objektiflerin sıralanmasında yapısal özelliklerinden birisidir?
+1. Aşağıdakilerden hangisi Objektiflerin sıralanmasında yapısal özelliklerinden birisidir?
     - A-) Geniş Açılı
     - B-) Normal Açılı
     - **Cevap C-) Sabit Odaklı**
@@ -3940,7 +5053,7 @@
     - D-) Dar Açılı Objektifler
     - E-) Süper Tele Objektifler
 
-    > **Açıklama:** Objektifler genel olarak odak uzaklıklarına göre balık gözü, geniş açı, normal (standart odaklı), dar açılı (tele) ve süper tele objektifler olarak sınıflandırılır. Doğru cevap A şıkkıdır.
+    > **Açıklama:** Objektifler genel olarak odak uzaklıklarına göre balık gözü, geniş açı, normal (standart odaklı), dar açılı (tele) ve süper tele objektifler olarak sınıflandırılır. Doğru cevap A şıkkıdır.
 
     ***
 1. Dar açılı tele objektifler gibi çekim esnasında bize uzak olan konu ve nesneleri yakınlaştırmak için kullanılan objektif aşağıdakilerden hangisidir?
@@ -3950,7 +5063,7 @@
     - D-) Sabit Odaklı Objektifler
     - E-) Zoom Objektifler
 
-    > **Açıklama:** Süper Tele Objektifler: Dar açılı tele objektifler gibi çekim esnasında bize uzak olan konu ve nesneleri yakınlaştırmak için kullanılırlar. Özellikle vahşi doğa, haber ve spor karşılaşmalarını fotoğraflamak için kullanılır. Doğru cevap C şıkkıdır.
+    > **Açıklama:** Süper Tele Objektifler: Dar açılı tele objektifler gibi çekim esnasında bize uzak olan konu ve nesneleri yakınlaştırmak için kullanılırlar. Özellikle vahşi doğa, haber ve spor karşılaşmalarını fotoğraflamak için kullanılır. Doğru cevap C şıkkıdır.
 
     ***
 1. 1:1 oranında ya da 1:5 gibi geniş bir aralıkta büyük ve net görüntülemeyi sağlayan<br />objektiflere ne ad verilir?
@@ -3964,6 +5077,26 @@
     > Doğru cevap A şıkkıdır.
 
     ***
+1. Objektiflerin üzerinde yer alan "F" değerleri bize neyi ifade eder
+    - A-) Netlik
+    - B-) Detay
+    - **Cevap C-) Diyafram**
+    - D-) Kalite
+    - E-) Model
+
+    > **Açıklama:** Bir objektifin görüntü kalitesini keskinliğini ve hızını belirleyen en önemli faktör objektifin maksimum diyafram açıklığıdır yani ışık geçirgenliğidir. Işık geçirgenliği, objektifin sahip olduğu en açık diyafram değerinde içeriye aldığı ışık miktarıdır. Objektiflerin üzerinde yer alan f5.6, f4.5, f3.5, f2.8, f1.4 ile f olarak ifade edilen rakamsal değerler o objektifin maksimum diyafram açıklığında ışığı geçirme miktarını ifade eder. F değeri 4.5 olan bir objektif f5.6 dan, f değeri 2.8 olan bir objektif f değeri f3.5 olan bir objektiften daha fazla ışık geçirgenliğine sahiptir. Doğru cevap C şıkkıdır.
+
+    ***
+1. Objektife gelen ışığı süzmek ve kesmek için kullanılan araç aşağıdakilerden hangisidir?
+    - A-) Kapak
+    - **Cevap B-) Filtre**
+    - C-) Redüksiyon
+    - D-) Diyafram
+    - E-) Balık Gözü
+
+    > **Açıklama:** Özel ve genel amaçlı çok çeşitli filtre türleri bulunmasına karşın temelde filtrenin görevi objektife gelen ışığı süzmek veya kesmektir. Fotoğraf makinelerinde kullandığımız objektiflerin çapları birbirinden farklı olduğundan her filtre her objektife takılamaz. Bu nedenle makinemizdeki objektif çapı ile kullanacağımız filtrenin çapının aynı olması gerekmektedir. Doğru cevap B şıkkıdır.
+
+    ***
 1. Aşağıdakilerden hangisi siyah beyaz fotoğraflarda Kontrast etkisi veren filtreler arasında yer almaz?
     - A-) Açık Sarı Filtre
     - B-) Koyu Sarı Filtre
@@ -3971,7 +5104,7 @@
     - D-) Kırmızı Filtre
     - **Cevap E-) Mavi Filtre**
 
-    > **Açıklama:** Kontrast Etki Veren Filtreler: Fotoğraftaki açık renkteki alanları daha açık, koyu renk alanları ise daha koyu vurgulayarak kontrast etkisini yükseltir. Sarı, turuncu ve kırmızı renkli filtreler bu gruba girmektedir. Doğru cevap E şıkkıdır.
+    > **Açıklama:** Kontrast Etki Veren Filtreler: Fotoğraftaki açık renkteki alanları daha açık, koyu renk alanları ise daha koyu vurgulayarak kontrast etkisini yükseltir. Sarı, turuncu ve kırmızı renkli filtreler bu gruba girmektedir. Doğru cevap E şıkkıdır.
 
     ***
 1. Ağaç, yeşil alan, bitki ve yaprak fotoğraflarının kontrastlığını azaltarak görüntüde<br />soft açık gri bir ton elde etmemizi kolaylaştıran filtre aşağıdakilerden hangisidir?
@@ -3982,7 +5115,7 @@
     - E-) Kırmızı Filtre
 
     > **Açıklama:** Yeşil Filtre: Kontrast azaltıcı filtrelerin en önemlisi yeşil filtredir. Ağaç, yeşil alan, bitki ve
-    > yaprak fotoğraflarının kontrastlığını azaltarak görüntüde soft açık gri bir ton elde etmemizi kolaylaştırır. Görüntüde hakim olan baskın kontrastlığı hafifleterek ayrıntıların ortaya çıkmasını sağlar. Doğru cevap D şıkkıdır.
+    > yaprak fotoğraflarının kontrastlığını azaltarak görüntüde soft açık gri bir ton elde etmemizi kolaylaştırır. Görüntüde hakim olan baskın kontrastlığı hafifleterek ayrıntıların ortaya çıkmasını sağlar. Doğru cevap D şıkkıdır.
 
     ***
 1. Filtrelerde renk geçirgenlikleri Şemasına baktığımızda, Sarı filtrenin tuttuğu geçirmediği renk aşağıdakilerden hangisidir?
@@ -3992,7 +5125,7 @@
     - D-) Cyan
     - **Cevap E-) Mavi**
 
-    > **Açıklama:** Sayfa 191 Tablo 7.1' e bakınız. Doğru cevap E şıkkıdır.
+    > **Açıklama:** Sayfa 191 Tablo 7.1' e bakınız. Doğru cevap E şıkkıdır.
 
     ***
 1. Işık Kaynaklarının Kelvin dereceleri incelendiğinde Normal ev ampulünün değeri kaçtır?
@@ -4003,20 +5136,20 @@
     - E-) 22000K
 
     > **Açıklama:** Işık Kaynaklarının Kelvin Dereceleri
-    > Mum Gaz Lambası                                  1000K
-    > Gün Doğumu-Tungsten Lamba                2000K
-    > Normal ev ampulü                                   2500K
-    > Stüdyo Işığı-Projektörler                         3000K
-    > Renksiz Flash Ampülleri                           4000K
-    > Normal Gün Işığı- Elektronik Flashlar         5000K
-    > Tam Beyaz                                             5500K
-    > Bulutsuz havada öğle güneşi                    6000K
-    > Hafif kapalı gökyüzü                                 7000K
-    > Kapalı Gökyüzü                                       8000K
+    > Mum Gaz Lambası 1000K
+    > Gün Doğumu-Tungsten Lamba 2000K
+    > Normal ev ampulü 2500K
+    > Stüdyo Işığı-Projektörler 3000K
+    > Renksiz Flash Ampülleri 4000K
+    > Normal Gün Işığı- Elektronik Flashlar 5000K
+    > Tam Beyaz 5500K
+    > Bulutsuz havada öğle güneşi 6000K
+    > Hafif kapalı gökyüzü 7000K
+    > Kapalı Gökyüzü 8000K
     > Bulutsuz güneşli havada, açık alanda gölge 9000K
-    > Çok kapalı gökyüzü                                  10000K
-    > Güneşsiz koyu mavi gökyüzü                    11000K
-    > Dağlarda çok açık havada açık gölgeli alan   20000K
+    > Çok kapalı gökyüzü 10000K
+    > Güneşsiz koyu mavi gökyüzü 11000K
+    > Dağlarda çok açık havada açık gölgeli alan 20000K
     > Güneş doğup batmadan önceki 1-2 dakika 22000K
     > Doğru cevap A şıkkıdır.
 
@@ -4048,7 +5181,7 @@
     - D-) Dar Açılı Objektifler
     - **Cevap E-) Süper Tele Objektifler**
 
-    > **Açıklama:** **Süper Tele Objektifler:** Dar açılı tele objektifler gibi çekim esnasında bize uzak olan konu ve nesneleri yakınlaştırmak için kullanılırlar. Özellikle vahşi doğa, haber ve spor karşılaşmalarını fotoğraflamak için kullanılır. Sınırlı bir alan derinliğine sahiptir ve konuyu içinde bulunduğu ortamdan büyüterek ayırır. 200mm ve üstü odak uzaklığına sahip objektifler süper tele objektif grubuna giren objektiflerdir.
+    > **Açıklama:** **Süper Tele Objektifler:** Dar açılı tele objektifler gibi çekim esnasında bize uzak olan konu ve nesneleri yakınlaştırmak için kullanılırlar. Özellikle vahşi doğa, haber ve spor karşılaşmalarını fotoğraflamak için kullanılır. Sınırlı bir alan derinliğine sahiptir ve konuyu içinde bulunduğu ortamdan büyüterek ayırır. 200mm ve üstü odak uzaklığına sahip objektifler süper tele objektif grubuna giren objektiflerdir.
 
     ***
 1. Aşağıdaki diyafram açıklıklarından hangisi en fazla ışık geçirgenliğine sahiptir?
@@ -4071,6 +5204,16 @@
     > **Açıklama:** **Kırmızı Filtre:** Kontrast etkisi en güçlü olan filtredir. Sisli havada net manzara fotoğrafları elde etmek, bulutları ön plana çıkarmak, puslu fırtınalı gökyüzü etkisi yaratmak, mavi ve yeşil renkleri daha siyah, kırmızı ve sarı renkleri daha açık tonda bırakmak için kullanılır. Fotoğrafımızda kreatif ve dramatik etki bırakmamızı sağlar.
 
     ***
+1. Aşağıdakilerden hangisi siyah beyaz fotoğrafçılıkta kontrast azaltıcı filtrelerden biridir?
+    - A-) Kırmızı Filtre
+    - **Cevap B-) Yeşil Filtre**
+    - C-) Turuncu Filtre
+    - D-) Koyu sarı filtre
+    - E-) Orta sarı filtre
+
+    > **Açıklama:** **Kontrast Azaltıcı Filtreler:** Kontrastın yoğun olduğu ortam ve koşullarda kontrastın etkisini azaltarak görüntüyü yumuşatmak için kullanılır. Mavi ve yeşil filtreler kontrast azaltıcı filtrelerdir.
+
+    ***
 1. Hangi filtre renkli fotoğrafçılıkta tungsten ışığın değerini gün ışığı renk ısısı kelvin derecesine getirerek fotoğraftaki baskın kırmızı rengin giderilmesini sağlar?
     - **Cevap A-) 80B filtresi**
     - B-) 81B filtresi
@@ -4078,7 +5221,7 @@
     - D-) 85B filtre
     - E-) Filtre-B filtre floresan bulb
 
-    > **Açıklama:** **80B Filtresi:**3200Kelvin derecesindeki tungsten ışık altında gün ışığı renk ısısna göre ayarlanmış bir filmle çekilen fotoğrafta kırmızı renk baskın olarak çıkar. Bu filtre tungsten ışığın değerini gün ışığı renk ısısı kelvin derecesine getirerek fotoğraftaki baskın kırmızı rengin giderilmesini sağlar. Filtre rengi mavidir.
+    > **Açıklama:** **80B Filtresi:** 3200Kelvin derecesindeki tungsten ışık altında gün ışığı renk ısısna göre ayarlanmış bir filmle çekilen fotoğrafta kırmızı renk baskın olarak çıkar. Bu filtre tungsten ışığın değerini gün ışığı renk ısısı kelvin derecesine getirerek fotoğraftaki baskın kırmızı rengin giderilmesini sağlar. Filtre rengi mavidir.
 
     ***
 1. Aşağıdakilerden hangisi polarize filtrenin görevini açıklamaktadır?
@@ -4089,6 +5232,16 @@
     - E-) Fazla gelen uv ışınlarının filtre tarafından emilmesi fotoğrafımızda oluşan bulanıklık ve sisi engelleyerek görüntü üzerindeki kontrastlığı arttırır ve fotoğrafımız daha net ve keskin bir hâle gelir.
 
     > **Açıklama:** Polarize filtreler renk doygunluğunu arttırarak kontrastlığı ve konunun belirginleşmesini sağlar, ışık yansımalarını keserek cisimlerdeki yansımayı engeller ve yoğunluğu azaltır.
+
+    ***
+1. Yarısı saydam yarısı renkli olan ve özellikle manzara fotoğrafçılığında kullanılan güneşli havalarda gökyüzünün beyaz şekilde patlamasını engelleyen ve gökyüzünün rengini istediğimiz tonda değiştiren filtre hangisidir?
+    - A-) Yıldız filtre
+    - B-) Sunset filtre
+    - **Cevap C-) Degrade filtre**
+    - D-) Çoklu filtre
+    - E-) Hız filtresi
+
+    > **Açıklama:** **Degrade Filtre:** Yarısı saydam yarısı renkli olan ve özellikle manzara fotoğrafçılığında kullanılan güneşli havalarda gökyüzünün beyaz şekilde patlamasını engelleyen ve gökyüzünün rengini istediğimiz tonda değiştiren filtrelerdir. En kullanışlı olanı gri renkli olan olsa da kırmızı, sarı, turuncu gibi renkleri de bulunur.
 
     ***
 1. Pankromatik filmlerle bir manzara fotoğrafı çekerken kontrastın fazlalaşıp pusluluğun azaltılması için hangi filtre kullanılmalıdır?
@@ -4104,32 +5257,35 @@
 ## Unite 8
 1. Tam olarak 1973-1975 yılları arasında Kodak firmasının araştırma geliştirme mühendislerinden hangisi fotoğrafta analogdan, sayısala geçişin ilk prototipi olan fotoğraf makinesini icat etmiştir?
     - A-) Philippe Kahn
-    - B-) D. D. Busch
-    - C-) D. P. Curtin
+    - B-) D. D. Busch
+    - C-) D. P. Curtin
     - **Cevap D-) Steven Sasson**
-    - E-) S. Kelby
+    - E-) S. Kelby
 
-    > **Açıklama:** Tam olarak 1973-1975 yılları arasında Kodak firmasının araştırma geliştirme mühendislerinden olan Steven Sasson fotoğrafta analogdan, sayısala geçişin ilk prototipi olan fotoğraf makinesini icat etmiştir.
+    > **Açıklama:** SAYISAL FOTOĞRAF MAKİNELERİ VE KISA TARİHİ
+    > Tam olarak 1973-1975 yılları arasında Kodak firmasının araştırma geliştirme mühendislerinden olan Steven Sasson fotoğrafta analogdan, sayısala geçişin ilk prototipi olan fotoğraf makinesini icat etmiştir.
 
     ***
-1. Sensörleri kaç türde incelemek mümkündür?
+1. Sensörleri kaç türde incelemek mümkündür?
     - **Cevap A-) 2**
     - B-) 3
     - C-) 4
     - D-) 5
     - E-) 6
 
-    > **Açıklama:** Sensörleri CCD (Charge Coupled Device-Şarjlı Bağlı Cihazlar) ve CMOS (Complementary Metal Oxide Semiconductor-Tamamlayıcı Metal Oksit Yarı İletkenler) olarak iki türde incelemek mümkündür.
+    > **Açıklama:** Sensör Çeşitleri CCD ve CMOS Sensörler
+    > Sensörleri CCD (Charge Coupled Device-Şarjlı Bağlı Cihazlar) ve CMOS (Complementary Metal Oxide Semiconductor-Tamamlayıcı Metal Oksit Yarı İletkenler) olarak iki türde incelemek mümkündür.
 
     ***
 1. Nikon DX(Coolpix A, D3300, D5500, D7100); Pentax K-5 II; Sony A5100, A6000; Samsung NX1; Fuji X-A1, X-M1, X-E2, X-T1, X-Pro1 model digital kameraların crop faktörü nedir?
-    - **Cevap A-) 1.5x**
-    - B-) 1.6x
-    - C-) 2.0x
-    - D-) 2.7x
-    - E-) 3.0x
+    - **Cevap A-) 1\.5x**
+    - B-) 1\.6x
+    - C-) 2\.0x
+    - D-) 2\.7x
+    - E-) 3\.0x
 
-    > **Açıklama:** 1.5x Crop Faktör: Nikon DX(Coolpix A, D3300, D5500, D7100); Pentax K-5 II; Sony A5100, A6000; Samsung NX1; Fuji X-A1, X-M1, X-E2, X-T1, X-Pro1
+    > **Açıklama:** Crop Faktör Nedir?
+    > 1\.5x Crop Faktör: Nikon DX(Coolpix A, D3300, D5500, D7100); Pentax K-5 II; Sony A5100, A6000; Samsung NX1; Fuji X-A1, X-M1, X-E2, X-T1, X-Pro1
 
     ***
 1. “Crop faktör”, hangi kamera formatına göre yapılmış bir orandır?
@@ -4139,7 +5295,8 @@
     - D-) Micro/Four Thirds
     - E-) 1inch
 
-    > **Açıklama:** “Crop faktör”, 35mm / full-frame kameraya göre yapılmış bir orandır.
+    > **Açıklama:** Crop Faktör Nedir?
+    > “Crop faktör”, 35mm / full-frame kameraya göre yapılmış bir orandır.
 
     ***
 1. Fotoğraf makinesi ya da bilgisayar ekranında gördüğümüz görüntüler milyonlarca küçük dijital rengin bileşimiyle meydana gelmektedir.<br />Bu bileşimin parçası olarak dijital ekran teknolojileri üzerinde gösterilen görüntünün en küçük birimine ne ad verilir?
@@ -4149,7 +5306,8 @@
     - D-) ISO
     - E-) Parlaklık
 
-    > **Açıklama:** Fotoğraf makinesi ya da bilgisayar ekranında gördüğümüz görüntüler milyonlarca küçük dijital rengin bileşimiyle meydana gelmektedir. Piksel, bu bileşimin parçası olarak dijital ekran teknolojileri üzerinde gösterilen görüntünün en küçük birimine verilen isimdir.
+    > **Açıklama:** SAYISAL FOTOĞRAFÇILIĞIN TEMEL KAVRAMLARI
+    > Fotoğraf makinesi ya da bilgisayar ekranında gördüğümüz görüntüler milyonlarca küçük dijital rengin bileşimiyle meydana gelmektedir. Piksel, bu bileşimin parçası olarak dijital ekran teknolojileri üzerinde gösterilen görüntünün en küçük birimine verilen isimdir.
 
     ***
 1. Bulutlu bir havada kaç K kadar renk ısısı vardır?
@@ -4159,7 +5317,8 @@
     - D-) 5000 K
     - **Cevap E-) 6000 K**
 
-    > **Açıklama:** Bulutlu: Sayısal fotoğraf makinenizde bulut şeklinde bir simgeyle ifade edilir. Gök yüzünde bulutların kaplı olduğu zamanlardaki gün ışığında kullanın. Renklere doğrudan etki eden önemli bir moddur. 6000 K kadar bir renk ısısına sahiptir.
+    > **Açıklama:** SAYISAL FOTOĞRAFÇILIĞIN TEMEL KAVRAMLARI
+    > Bulutlu: Sayısal fotoğraf makinenizde bulut şeklinde bir simgeyle ifade edilir. Gök yüzünde bulutların kaplı olduğu zamanlardaki gün ışığında kullanın. Renklere doğrudan etki eden önemli bir moddur. 6000 K kadar bir renk ısısına sahiptir.
 
     ***
 1. Dijital anlamda renkleri elde etmenin kaç yolu vardır?
@@ -4169,7 +5328,8 @@
     - D-) 5
     - E-) 6
 
-    > **Açıklama:** Dijital anlamda renkleri elde etmenin iki yolu vardır: 1. Çıkarımsal, 2. Toplamsal.
+    > **Açıklama:** Sayısal Renkler
+    > Dijital anlamda renkleri elde etmenin iki yolu vardır: 1. Çıkarımsal, 2. Toplamsal.
 
     ***
 1. Pozlama modu, kameranın pozlama sırasında perde hızını ve açıklığı nasıl ayarladığını belirler. Burada kaç mod mevcuttur?
@@ -4179,7 +5339,8 @@
     - D-) 5
     - E-) 6
 
-    > **Açıklama:** Pozlama modu, kameranın pozlama sırasında perde hızını ve açıklığı nasıl ayarladığını belirler. Dört mod mevcuttur: programlı otomatik(P), enstantane öncelikli otomatik (S veya TV), diyafram
+    > **Açıklama:** Sayısal Fotoğraf Makinelerinde Pozlama Modu P-S-A-M
+    > Pozlama modu, kameranın pozlama sırasında perde hızını ve açıklığı nasıl ayarladığını belirler. Dört mod mevcuttur: programlı otomatik(P), enstantane öncelikli otomatik (S veya TV), diyafram
     > öncelikli otomatik (A veya AV) ve manuel (M).
 
     ***
@@ -4190,7 +5351,8 @@
     - D-) 1988
     - E-) 1989
 
-    > **Açıklama:** 1987 yılında Thomas Knoll tarafından geliştirilmeye başlanan Photoshop programı profesyonel fotoğrafçılar için devrim niteliğinde bir gelişme olmuştur.
+    > **Açıklama:** Sayısal Fotoğraf Makinesi Üzerindeki Temel Göstergelerin Özellikleri
+    > 1987 yılında Thomas Knoll tarafından geliştirilmeye başlanan Photoshop programı profesyonel fotoğrafçılar için devrim niteliğinde bir gelişme olmuştur.
 
     ***
 1. Teknolojik gelişimle birlikte makineler içerisine film yerine, görüntü algılayıcı (sensör) dediğimiz ışığa duyarlılık gösteren ve optik olarak algılanan görüntüyü elektronik sinyallere dönüşümünü sağlayan parçalar yerleştirilmiştir. Filmin yerini alan algılayıcının makine ile bütünleşmesi, sayısal bir yazılımla<br />desteklenmesi ve görüntünün sayısal kaydının yapıldığı bu yeni nesil makinelere ............. fotoğraf makinesi diyoruz.<br />Boşluğa aşağıdakilerden hangisi getirilmelidir?
@@ -4223,7 +5385,7 @@
     > **Açıklama:** Steven Sasson
 
     ***
-1. Yüzyılımızın önemli devlerinden biri olan Sony markası, ilk sayısal fotoğraf makinesini hangi yıl piyasaya sürdü?
+1. Yüzyılımızın önemli devlerinden biri olan Sony markası, ilk sayısal fotoğraf makinesini hangi yıl piyasaya sürdü?
     - A-) 1975
     - B-) 1978
     - **Cevap C-) 1981**
@@ -4283,6 +5445,16 @@
     > **Açıklama:** Kırmızı, yeşil ve mavi
 
     ***
+1. Steven Sasson fotoğrafta analogdan, sayısala geçişin ilk prototipi olan fotoğraf makinesini hangi firma adına icat etmiştir?
+    - A-) Fuji
+    - **Cevap B-) Kodak**
+    - C-) Nikon
+    - D-) Canon
+    - E-) Zenit
+
+    > **Açıklama:** Tam olarak 1973-1975 yılları arasında Kodak firmasının araştırma geliştirme mühendislerinden olan Steven Sasson fotoğrafta analogdan, sayısala geçişin ilk prototipi olan fotoğraf makinesini icat etmiştir.
+
+    ***
 1. Sony markası, ilk sayısal fotoğraf makinesini kaç yılında piyasaya sürmüştür?
     - A-) 1979
     - B-) 1980
@@ -4290,7 +5462,7 @@
     - D-) 1982
     - E-) 1985
 
-    > **Açıklama:** 1981
+    > **Açıklama:** 1981 yılında yüzyılımızın önemli devlerinden biri olacak Sony markası, ilk sayısal fotoğraf makinesini piyasaya sürdü.
 
     ***
 1. Aşağıdakilerden hangisi sayısal fotoğraf makinesi türlerinden biri değildir?
@@ -4300,7 +5472,8 @@
     - **Cevap D-) SLR makineler**
     - E-) Sayısal arkalıklı makineler
 
-    > **Açıklama:** SLR makineler
+    > **Açıklama:** SLR (single lens reflex) makineler analog makinelerdir. Diğer şıklardaki makineler ise sayısal makine türlerine girmektedir.
+    > SLR makineler
 
     ***
 1. İlk fotoğraf makineli cep telefonu kaç yılında üretilmiştir?
@@ -4310,7 +5483,7 @@
     - **Cevap D-) 1997**
     - E-) 1998
 
-    > **Açıklama:** 1997
+    > **Açıklama:** 1997 yılında Philippe Kahn iletişim teknolojileri ile fotoğraf teknolojisi bir araya getirmiş, ilk fotoğraf makineli cep telefonunu hayata geçirmiştir.
 
     ***
 1. Fotoğrafa ilgi duyan ancak yeteri kadar teknik bilgisi olmayanlar için üretilmiş pratik kullanımlı makinelerdir.<br />Yukarıdaki tanım hangi sayısal fotoğraf makineleri için kullanılmaktadır?
@@ -4320,7 +5493,8 @@
     - D-) DSLR ve full-frame makineler
     - E-) Sayısal arkalıklı makineler
 
-    > **Açıklama:** Kompakt sayısal makineler
+    > **Açıklama:** Fotoğrafa ilgi duyan ancak yeteri kadar teknik bilgisi olmayanlar için üretilmiş pratik kullanımlı makineler kompakt sayısal makinelerdir. Objektif ve gövde bütünleşiktir.
+    > Genellikle gövde arkasında LCD bir ekran bulunur ve bakaç görevi görür.
 
     ***
 1. Elektronik vizörlü EVF makineler olarak anılan makineler aşağıdakilerden hangisidir?
@@ -4330,7 +5504,7 @@
     - D-) DSLR ve full-frame makineler
     - E-) Sayısal aynasız fotoğraf makineleri
 
-    > **Açıklama:** DSLR-like kompakt makineler
+    > **Açıklama:** DSLR-Like kompakt makineler kompaktlardan daha gelişmiş ve iri gövdeleri mevcuttur. Elektronik vizörlü (bakaçlı) EVF makineler olarak da anılırlar.
 
     ***
 1. Hasselblad H4D200MS orta format, sayısal fotoğraf makinelerinin hangi türüne aittir?
@@ -4340,7 +5514,10 @@
     - D-) DSLR ve full-frame makinelere
     - **Cevap E-) Sayısal arkalıklı makinelere**
 
-    > **Açıklama:** Sayısal arkalıklı makinelere
+    > **Açıklama:** Sayısal arkalıklı makinelerin en güçlü modellerinden biri olan
+    > Hasselblad H4D200MS Orta Format Fotoğraf Makinesi’nin body fiyatı 2014 tarihi itibariyle
+    > 139\.000 TL’dir.
+    > Sayısal arkalıklı makinelere
 
     ***
 1. Filmin yerini alan algılayıcının makine ile bütünleşmesi, sayısal bir yazılımla desteklenmesi ve görüntünün sayısal kaydının yapıldığı bu yeni nesil makinelere ne ad verilir?
@@ -4392,6 +5569,7 @@
     - E-) Duyarkat
 
     > **Açıklama:** ![](https://ets.anadolu.edu.tr/storage/nfs/questions/6be2f5801b3346f73c490b10550333ef.png)
+    > ![](https://ets.anadolu.edu.tr/storage/nfs/questions/6be2f5801b3346f73c490b10550333ef.png)
 
     ***
 1. Çift kamera teknolojisinin getirdiği bir diğer özellik de sensörleri, mercekleri ve odaklama sistemleri aynı olan kameralardan birinde hangi renk filtresinin bulunmamasıdır?
@@ -4434,14 +5612,14 @@
     > **Açıklama:** Sayısal Arkalıklı Makineler Stüdyo tipi olarak üretilmiş tam profesyonel makinelerdir. Bu makineler üç bölümden oluşur objektif, gövde ve sayısal arkalık (dijital back)’tan oluşur. Orta format ve büyük format fotoğraf makinelerinin film kullanılan magazinlerinin çıkarılarak yerine sayısal arkalıklar takılarak dönüştürülmesi sürecine dayanır. Çok pahalı bir teknoloji olmasına karşın ortaya çıkan fotoğraf kalitesi nedeniyle profesyonellerce tercih edilir
 
     ***
-1. "Ancak üst düzey kullanıcıya hitap eden bu makinelerin bir kısmında hareketli ekran, konuyu takip gibi özellikler vardır. Büyük sensör nedeniyle görüntülerde daha yüksek ISO değerlerine çıkmak mümkündür. Bu nedenle fotoğrafta kumlanma ve ya noise dediğimiz küçük gürültüler daha az görülür. Diğer makinelere nazaran daha ağır ve ergonomik kullanıma uygun olarak tasarlanmıştır. Gövde (body) olarak kullanılan ana parçada magnezyum veya sert plastik kullanılmıştır. Ağırlığı nedeniyle eldeki titremeyi minimize ederek daha net ve keskin görüntü elde etmemizi sağlar."<br />Yukarıda hangi tip fotoğraf makinelerinden bahsedilmektedir?
+1. "Ancak üst düzey kullanıcıya hitap eden bu makinelerin bir kısmında hareketli ekran, konuyu takip gibi özellikler vardır. Büyük sensör nedeniyle görüntülerde daha yüksek ISO değerlerine çıkmak mümkündür. Bu nedenle fotoğrafta kumlanma ve ya noise dediğimiz küçük gürültüler daha az görülür. Diğer makinelere nazaran daha ağır ve ergonomik kullanıma uygun olarak tasarlanmıştır. Gövde (body) olarak kullanılan ana parçada magnezyum veya sert plastik kullanılmıştır. Ağırlığı nedeniyle eldeki titremeyi minimize ederek daha net ve keskin görüntü elde etmemizi sağlar."<br />Yukarıda hangi tip fotoğraf makinelerinden bahsedilmektedir?
     - **Cevap A-) DSLR ve Full-Frame Makineler**
     - B-) Basit Kompakt Sayısal Makineler
     - C-) Analog Makineler
     - D-) Körüklü Makineler
     - E-) Hava fotoğrafcılığı Makineleri
 
-    > **Açıklama:** "Ancak üst düzey kullanıcıya hitap eden bu makinelerin bir kısmında hareketli ekran, konuyu takip gibi özellikler vardır. Büyük sensör nedeniyle görüntülerde daha yüksek ISO değerlerine çıkmak mümkündür. Bu nedenle fotoğrafta kumlanma ve ya noise dediğimiz küçük gürültüler daha az görülür. Diğer makinelere nazaran daha ağır ve ergonomik kullanıma uygun olarak tasarlanmıştır. Gövde (body) olarak kullanılan ana parçada magnezyum veya sert plastik kullanılmıştır. Ağırlığı nedeniyle eldeki titremeyi minimize ederek daha net ve keskin görüntü elde etmemizi sağlar."
+    > **Açıklama:** "Ancak üst düzey kullanıcıya hitap eden bu makinelerin bir kısmında hareketli ekran, konuyu takip gibi özellikler vardır. Büyük sensör nedeniyle görüntülerde daha yüksek ISO değerlerine çıkmak mümkündür. Bu nedenle fotoğrafta kumlanma ve ya noise dediğimiz küçük gürültüler daha az görülür. Diğer makinelere nazaran daha ağır ve ergonomik kullanıma uygun olarak tasarlanmıştır. Gövde (body) olarak kullanılan ana parçada magnezyum veya sert plastik kullanılmıştır. Ağırlığı nedeniyle eldeki titremeyi minimize ederek daha net ve keskin görüntü elde etmemizi sağlar."
 
     ***
 1. Aşağıdakilerden hangisi gerçekliği sanala taşıyan fotoğrafın, sosyolojik, toplumsal ve kültürel anlamda oluşturduğu yeni dili belirtir?
@@ -4454,7 +5632,7 @@
     > **Açıklama:** Gerçekliği sanala taşıyan fotoğraf, sosyolojik, toplumsal ve kültürel anlamda yeni bir dil, yeni bir gerçeklik dayatmaktadır; bu dile “Görselin Dili” diyebiliriz.
 
     ***
-1. Aşağıdakilerden hangisi sayısal teknolojinin getirmiş olduğu mali ve zamansal olumsuzluklardan biri **değildir?**
+1. Aşağıdakilerden hangisi sayısal teknolojinin getirmiş olduğu mali ve zamansal olumsuzluklardan biri **değildir?**
     - **Cevap A-) Fotoğraf üretiminin artması**
     - B-) Fotoğraf makine teknolojilerinin hızla değişmesi
     - C-) Makinelerin üzerine eklemlenen parçaların özelliklerinin her geçen gün güncellenmesi
@@ -4490,7 +5668,7 @@
     > • DSLR aynasız fotoğraf makineleri.
 
     ***
-1. Aşağıdakilerden hangisi çift kameralı sistemlerde ön planın net arka planın flu şeklinde fotoğraflanabilmesini belirtir?
+1. Aşağıdakilerden hangisi çift kameralı sistemlerde ön planın net arka planın flu şeklinde fotoğraflanabilmesini belirtir?
     - **Cevap A-) Derinlik sensörü**
     - B-) Etkinlik senörü
     - C-) Mercek sensörü
@@ -4500,7 +5678,7 @@
     > **Açıklama:** Sabit açılı objektiflere sahip olan bu sınıfta diyafram bulunmamaktadır. En iyi bildiğimiz temsilcileri cep telefonlarımızdır. Bir çok konuda işlevsel olan bu cihazlara sayısal teknolojiye geçişle fotoğraf makinesi özelliği eklenmesi kaçınılmazdı. Bu teknoloji ilerledikçe cep telefonu üzerindeki kamera sayısı iki ye çıkarılarak özellikleri geliştirilmiştir. Bu özelliklerden, derinlik sensörü sayesinde bir nevi alan derinliği varyasyonu yakalanabilir yani ön plan net arka plan flu şeklinde fotoğraflanabilir.
 
     ***
-1. I) Yeteri kadar teknik bilgisi olmayanlar için üretilmiştr.<br />II)  Pratik kullanımlıdır.<br />III) Objektif ve gövde bütünleşiktir.<br />IV) Genellikle gövde arkasında LCD bir ekran bulunur.<br />Yukarıdaki özellikleri taşıyan sayısal makineler hangileridir?
+1. I) Yeteri kadar teknik bilgisi olmayanlar için üretilmiştr.<br />II) Pratik kullanımlıdır.<br />III) Objektif ve gövde bütünleşiktir.<br />IV) Genellikle gövde arkasında LCD bir ekran bulunur.<br />Yukarıdaki özellikleri taşıyan sayısal makineler hangileridir?
     - **Cevap A-) Kompakt Sayısal Makineler**
     - B-) DSLR-Like Kompakt Makineler
     - C-) DSLR ve Full-Frame Makineler
@@ -4521,7 +5699,7 @@
     > **Açıklama:** Analog fotoğraf makinelerin de kullanılan filmlerin aksine, dijital kamerada bulunan görüntü sensörünün, en üst seviyeye ulaşması için toz ve diğer yabancı maddelerden temiz tutulması gerekmektedir.
 
     ***
-1. Aşağıdakilerden hangisi CMOS sensörünün düşük güç gereksinimlerine sahip olup, Full Frame Transfer (FFT) CCD sensörüyle karşılaştırılabilir bir görüntü kalitesi sunan sensördür?
+1. Aşağıdakilerden hangisi CMOS sensörünün düşük güç gereksinimlerine sahip olup, Full Frame Transfer (FFT) CCD sensörüyle karşılaştırılabilir bir görüntü kalitesi sunan sensördür?
     - **Cevap A-) Live MOS**
     - B-) Foveon
     - C-) Edge
@@ -4531,7 +5709,7 @@
     > **Açıklama:** Live MOS Sensörü, CMOS sensörünün düşük güç gereksinimlerine sahip, Full Frame Transfer (FFT) CCD sensörüyle karşılaştırılabilir bir görüntü kalitesi sunar.
 
     ***
-1. Aşağıdakilerden hangisi dijital ekran teknolojileri üzerinde gösterilen görüntünün en küçük birimine verilen isimdir?
+1. Aşağıdakilerden hangisi dijital ekran teknolojileri üzerinde gösterilen görüntünün en küçük birimine verilen isimdir?
     - **Cevap A-) Piksel**
     - B-) Boyut
     - C-) Crop
@@ -4541,7 +5719,7 @@
     > **Açıklama:** Fotoğraf makinesi ya da bilgisayar ekranında gördüğümüz görüntüler milyonlarca küçük dijital rengin bileşimiyle meydana gelmektedir. Piksel, bu bileşimin parçası olarak dijital ekran teknolojileri üzerinde gösterilen görüntünün en küçük birimine verilen isimdir.
 
     ***
-1. Aşağıdakilerden hangisi bir görüntüdeki parlaklık değerlerinin aralığını gösteren grafiktir?
+1. Aşağıdakilerden hangisi bir görüntüdeki parlaklık değerlerinin aralığını gösteren grafiktir?
     - **Cevap A-) Histogram**
     - B-) ISO
     - C-) Piksel
@@ -4551,7 +5729,7 @@
     > **Açıklama:** Histogram, bir görüntüdeki parlaklık değerlerinin aralığını gösteren grafiktir.
 
     ***
-1. Sayısala geçişin ilk prototipi olan fotoğraf makinesini hangi önemli fotoğraf makinesi markası üretmiştir?
+1. Sayısala geçişin ilk prototipi olan fotoğraf makinesini hangi önemli fotoğraf makinesi markası üretmiştir?
     - **Cevap A-) KODAK**
     - B-) CANON
     - C-) NİKON
@@ -4577,7 +5755,7 @@
     > • DSLR aynasız fotoğraf makineleri.
 
     ***
-1. Asıl çekmek istediğiniz nesne önde net bir şekilde görünürken, arka plan ise bulanık bir şekilde kaldığında fotoğraf makinesi, çift kameranın en temel ve en önemli özelliklerinden biri olan .......... gerçekleştirmiş olur.
+1. Asıl çekmek istediğiniz nesne önde net bir şekilde görünürken, arka plan ise bulanık bir şekilde kaldığında fotoğraf makinesi, çift kameranın en temel ve en önemli özelliklerinden biri olan .......... gerçekleştirmiş olur.
     - A-) Alan derinliği
     - B-) iPhoneography
     - **Cevap C-) Derinlik Efekti**
@@ -4600,6 +5778,16 @@
     > **Açıklama:** SLR makinelerden farkı filmin yerini sensörün almasıdır. DSLR “Digital Single Lens Reflex” kelimelerinin kısaltılmış hâlidir ve en yaygın olarak bu hâliyle kullanılır.
 
     ***
+1. Film boyutu olarak 35mm’lik sensör boyutunda olan sayısal makinelere ne ad verilmektedir?
+    - A-) Orta Format DSLR
+    - B-) APS-H
+    - C-) Crop sensörlü DSLR
+    - D-) APS-C
+    - **Cevap E-) Full Frame DSLR**
+
+    > **Açıklama:** Film boyutu olarak 35’lik sensör boyutunda olan sayısal makineleri FULL FRAME DSLR (tam çerçeve) olarak adlandırırız. Bu makinelerin sensör boyutu 36x24 mm ölçülerindedir ve odak çarpanı 1’dir.
+
+    ***
 1. Canon fotoğraf makinesi gövdelerinde , .... lensler full frame ve crop gövdelerde uygundur, ..... lensler ise sadece Crop gövdelerde kullanılabilir.<br />Yukarıda boş bırakılan yerlerdeki teknik terimler aşağıdakilerden hangisinde doğru verilmiştir?
     - **Cevap A-) EF, EF-S**
     - B-) EF, DC
@@ -4608,6 +5796,15 @@
     - E-) EF-M, DX
 
     > **Açıklama:** Canon gövdelerde ise, EF lensler full frame ve crop gövdelerde uygundur, EF-S lensler ise sadece Crop gövdelerde kullanılabilir. Sonuç olarak Canon’da Full Frame gövdeler EF-S lensleri kullanamazlar.
+    > Aşağıda farklı lens markaların crop sensör için ürettikleri lenslerde kullanılan kısaltmaları görebiliriz.
+    > • Nikon: DX
+    > • Canon: EF-S, EF-M
+    > • Sony / Konica Minolta: DT, E
+    > • Pentax: DA
+    > • Samsung: NX
+    > • Sigma: DC
+    > • Tamron: Di II
+    > • Tokina: DX
 
     ***
 1. Üç bölümden oluşan stüdyo tipi olarak üretilmiş tam profesyonel makinelere verilen ad aşağıdakilerden hangisinde doğru verilmiştir?

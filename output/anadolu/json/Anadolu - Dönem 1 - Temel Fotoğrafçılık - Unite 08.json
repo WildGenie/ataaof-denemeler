@@ -3,10 +3,10 @@
         "SoruID": 3351311,
         "SoruMetni": "Tam olarak 1973-1975 yılları arasında Kodak firmasının araştırma geliştirme mühendislerinden hangisi fotoğrafta analogdan, sayısala geçişin ilk prototipi olan fotoğraf makinesini icat etmiştir?",
         "A": "Philippe Kahn",
-        "B": "D. D. Busch",
-        "C": "D. P. Curtin",
+        "B": "D. D. Busch",
+        "C": "D. P. Curtin",
         "D": "Steven Sasson",
-        "E": "S. Kelby",
+        "E": "S. Kelby",
         "DogruCevap": "D",
         "DersAd": "Temel Fotoğrafçılık",
         "Unite": 8,
@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tam olarak 1973-1975 yılları arasında Kodak firmasının araştırma geliştirme mühendislerinden olan Steven Sasson fotoğrafta analogdan, sayısala geçişin ilk prototipi olan fotoğraf makinesini icat etmiştir."
+        "Aciklama": "SAYISAL FOTOĞRAF MAKİNELERİ VE KISA TARİHİ<br>Tam olarak 1973-1975 yılları arasında Kodak firmasının araştırma geliştirme mühendislerinden olan Steven Sasson fotoğrafta analogdan, sayısala geçişin ilk prototipi olan fotoğraf makinesini icat etmiştir."
     },
     {
         "SoruID": 3351313,
-        "SoruMetni": "Sensörleri kaç türde incelemek mümkündür?",
+        "SoruMetni": "Sensörleri kaç türde incelemek mümkündür?",
         "A": "2",
         "B": "3",
         "C": "4",
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sensörleri CCD (Charge Coupled Device-Şarjlı Bağlı Cihazlar) ve CMOS (Complementary Metal Oxide Semiconductor-Tamamlayıcı Metal Oksit Yarı İletkenler) olarak iki türde incelemek mümkündür."
+        "Aciklama": "Sensör Çeşitleri CCD ve CMOS Sensörler<br>Sensörleri CCD (Charge Coupled Device-Şarjlı Bağlı Cihazlar) ve CMOS (Complementary Metal Oxide Semiconductor-Tamamlayıcı Metal Oksit Yarı İletkenler) olarak iki türde incelemek mümkündür."
     },
     {
         "SoruID": 3351314,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1.5x Crop Faktör: Nikon DX(Coolpix A, D3300, D5500, D7100); Pentax K-5 II; Sony A5100, A6000; Samsung NX1; Fuji X-A1, X-M1, X-E2, X-T1, X-Pro1"
+        "Aciklama": "Crop Faktör Nedir?<br>1.5x Crop Faktör: Nikon DX(Coolpix A, D3300, D5500, D7100); Pentax K-5 II; Sony A5100, A6000; Samsung NX1; Fuji X-A1, X-M1, X-E2, X-T1, X-Pro1"
     },
     {
         "SoruID": 3351315,
@@ -77,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Crop faktör”, 35mm / full-frame kameraya göre yapılmış bir orandır."
+        "Aciklama": "Crop Faktör Nedir?<br>“Crop faktör”, 35mm / full-frame kameraya göre yapılmış bir orandır."
     },
     {
         "SoruID": 3351316,
-        "SoruMetni": "Fotoğraf makinesi ya da bilgisayar ekranında gördüğümüz görüntüler milyonlarca küçük dijital rengin bileşimiyle meydana gelmektedir. <br/>Bu bileşimin parçası olarak dijital ekran teknolojileri üzerinde gösterilen görüntünün en küçük birimine ne ad verilir?",
+        "SoruMetni": "Fotoğraf makinesi ya da bilgisayar ekranında gördüğümüz görüntüler milyonlarca küçük dijital rengin bileşimiyle meydana gelmektedir. <br/>Bu bileşimin parçası olarak dijital ekran teknolojileri üzerinde gösterilen görüntünün en küçük birimine ne ad verilir?",
         "A": "Megapiksel",
         "B": "Histogram",
         "C": "Piksel",
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotoğraf makinesi ya da bilgisayar ekranında gördüğümüz görüntüler milyonlarca küçük dijital rengin bileşimiyle meydana gelmektedir. Piksel, bu bileşimin parçası olarak dijital ekran teknolojileri üzerinde gösterilen görüntünün en küçük birimine verilen isimdir."
+        "Aciklama": "SAYISAL FOTOĞRAFÇILIĞIN TEMEL KAVRAMLARI<br>Fotoğraf makinesi ya da bilgisayar ekranında gördüğümüz görüntüler milyonlarca küçük dijital rengin bileşimiyle meydana gelmektedir. Piksel, bu bileşimin parçası olarak dijital ekran teknolojileri üzerinde gösterilen görüntünün en küçük birimine verilen isimdir."
     },
     {
         "SoruID": 3351317,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bulutlu: Sayısal fotoğraf makinenizde bulut şeklinde bir simgeyle ifade edilir. Gök yüzünde bulutların kaplı olduğu zamanlardaki gün ışığında kullanın. Renklere doğrudan etki eden önemli bir moddur. 6000 K kadar bir renk ısısına sahiptir."
+        "Aciklama": "SAYISAL FOTOĞRAFÇILIĞIN TEMEL KAVRAMLARI<br>Bulutlu: Sayısal fotoğraf makinenizde bulut şeklinde bir simgeyle ifade edilir. Gök yüzünde bulutların kaplı olduğu zamanlardaki gün ışığında kullanın. Renklere doğrudan etki eden önemli bir moddur. 6000 K kadar bir renk ısısına sahiptir."
     },
     {
         "SoruID": 3351318,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital anlamda renkleri elde etmenin iki yolu vardır: 1. Çıkarımsal, 2. Toplamsal."
+        "Aciklama": "Sayısal Renkler<br>Dijital anlamda renkleri elde etmenin iki yolu vardır: 1. Çıkarımsal, 2. Toplamsal."
     },
     {
         "SoruID": 3351319,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pozlama modu, kameranın pozlama sırasında perde hızını ve açıklığı nasıl ayarladığını belirler. Dört mod mevcuttur: programlı otomatik(P), enstantane öncelikli otomatik (S veya TV), diyafram<br/>öncelikli otomatik (A veya AV) ve manuel (M)."
+        "Aciklama": "Sayısal Fotoğraf Makinelerinde Pozlama Modu P-S-A-M<br>Pozlama modu, kameranın pozlama sırasında perde hızını ve açıklığı nasıl ayarladığını belirler. Dört mod mevcuttur: programlı otomatik(P), enstantane öncelikli otomatik (S veya TV), diyafram<br/>öncelikli otomatik (A veya AV) ve manuel (M)."
     },
     {
         "SoruID": 3351320,
@@ -177,11 +177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1987 yılında Thomas Knoll tarafından geliştirilmeye başlanan Photoshop programı profesyonel fotoğrafçılar için devrim niteliğinde bir gelişme olmuştur."
+        "Aciklama": "Sayısal Fotoğraf Makinesi Üzerindeki Temel Göstergelerin Özellikleri<br>1987 yılında Thomas Knoll tarafından geliştirilmeye başlanan Photoshop programı profesyonel fotoğrafçılar için devrim niteliğinde bir gelişme olmuştur."
     },
     {
         "SoruID": 3351321,
-        "SoruMetni": "Teknolojik gelişimle birlikte makineler içerisine film yerine, görüntü algılayıcı (sensör) dediğimiz ışığa duyarlılık gösteren ve optik olarak algılanan görüntüyü elektronik sinyallere dönüşümünü sağlayan parçalar yerleştirilmiştir. Filmin yerini alan algılayıcının makine ile bütünleşmesi, sayısal bir yazılımla<br/>desteklenmesi ve görüntünün sayısal kaydının yapıldığı bu yeni nesil makinelere ............. fotoğraf makinesi diyoruz.<br/> Boşluğa aşağıdakilerden hangisi getirilmelidir?",
+        "SoruMetni": "Teknolojik gelişimle birlikte makineler içerisine film yerine, görüntü algılayıcı (sensör) dediğimiz ışığa duyarlılık gösteren ve optik olarak algılanan görüntüyü elektronik sinyallere dönüşümünü sağlayan parçalar yerleştirilmiştir. Filmin yerini alan algılayıcının makine ile bütünleşmesi, sayısal bir yazılımla<br/>desteklenmesi ve görüntünün sayısal kaydının yapıldığı bu yeni nesil makinelere ............. fotoğraf makinesi diyoruz.<br/>Boşluğa aşağıdakilerden hangisi getirilmelidir?",
         "A": "Sayısal",
         "B": "Analog",
         "C": "Teknolojik",
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 3351322,
-        "SoruMetni": "Sayısal fotoğrafçılığın ortaya çıkışı ve bir teknoloji olarak ilanı ....’li yıllara rastlamaktadır.<br/> Boşluğa aşağıdakilerden hangisi getirilmelidir?",
+        "SoruMetni": "Sayısal fotoğrafçılığın ortaya çıkışı ve bir teknoloji olarak ilanı ....’li yıllara rastlamaktadır.<br/>Boşluğa aşağıdakilerden hangisi getirilmelidir?",
         "A": "1920",
         "B": "1950",
         "C": "1980",
@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 3351324,
-        "SoruMetni": "Yüzyılımızın önemli devlerinden biri olan Sony markası, ilk sayısal fotoğraf makinesini hangi yıl piyasaya sürdü?",
+        "SoruMetni": "Yüzyılımızın önemli devlerinden biri olan Sony markası, ilk sayısal fotoğraf makinesini hangi yıl piyasaya sürdü?",
         "A": "1975",
         "B": "1978",
         "C": "1981",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 3351325,
-        "SoruMetni": "Analog dönemi filmleriyle tanınan ............. markası, 1988 yılında dünyanın kullanıcılara yönelik ilk sayısal kamerasını üretti.<br/> Boşluğa aşağıdakilerden hangisi getirilmelidir?",
+        "SoruMetni": "Analog dönemi filmleriyle tanınan ............. markası, 1988 yılında dünyanın kullanıcılara yönelik ilk sayısal kamerasını üretti.<br/>Boşluğa aşağıdakilerden hangisi getirilmelidir?",
         "A": "Fujix",
         "B": "Sony",
         "C": "Canon",
@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 3351328,
-        "SoruMetni": "Fotoğraf makinesi ya da bilgisayar ekranında gördüğümüz görüntüler milyonlarca küçük dijital rengin bileşimiyle meydana gelmektedir. ........., bu bileşimin parçası olarak dijital ekran teknolojileri<br/>üzerinde gösterilen görüntünün en küçük birimine verilen isimdir.<br/><br/>Boşluğa aşağıdakilerden hangisi getirilmelidir?",
+        "SoruMetni": "Fotoğraf makinesi ya da bilgisayar ekranında gördüğümüz görüntüler milyonlarca küçük dijital rengin bileşimiyle meydana gelmektedir. ........., bu bileşimin parçası olarak dijital ekran teknolojileri<br/>üzerinde gösterilen görüntünün en küçük birimine verilen isimdir.<br/>Boşluğa aşağıdakilerden hangisi getirilmelidir?",
         "A": "Piksel",
         "B": "Megapiksel",
         "C": "Histogram",
@@ -360,6 +360,26 @@
         "Aciklama": "Kırmızı, yeşil ve mavi"
     },
     {
+        "SoruID": 3351332,
+        "SoruMetni": "Steven Sasson fotoğrafta analogdan, sayısala geçişin ilk prototipi olan fotoğraf makinesini hangi firma adına icat etmiştir?",
+        "A": "Fuji",
+        "B": "Kodak",
+        "C": "Nikon",
+        "D": "Canon",
+        "E": "Zenit",
+        "DogruCevap": "B",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.000928",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Tam olarak 1973-1975 yılları arasında Kodak firmasının araştırma geliştirme mühendislerinden olan Steven Sasson fotoğrafta analogdan, sayısala geçişin ilk prototipi olan fotoğraf makinesini icat etmiştir."
+    },
+    {
         "SoruID": 3351333,
         "SoruMetni": "Sony markası, ilk sayısal fotoğraf makinesini kaç yılında piyasaya sürmüştür?",
         "A": "1979",
@@ -377,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1981"
+        "Aciklama": "1981 yılında yüzyılımızın önemli devlerinden biri olacak Sony markası, ilk sayısal fotoğraf makinesini piyasaya sürdü."
     },
     {
         "SoruID": 3351335,
@@ -397,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SLR makineler"
+        "Aciklama": "SLR (single lens reflex) makineler analog makinelerdir. Diğer şıklardaki makineler ise sayısal makine türlerine girmektedir.<br>SLR makineler"
     },
     {
         "SoruID": 3351336,
@@ -417,11 +437,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1997"
+        "Aciklama": "1997 yılında Philippe Kahn iletişim teknolojileri ile fotoğraf teknolojisi bir araya getirmiş, ilk fotoğraf makineli cep telefonunu hayata geçirmiştir."
     },
     {
         "SoruID": 3351337,
-        "SoruMetni": "Fotoğrafa ilgi duyan ancak yeteri kadar teknik bilgisi olmayanlar için üretilmiş pratik kullanımlı makinelerdir.<br/> Yukarıdaki tanım hangi sayısal fotoğraf makineleri için kullanılmaktadır?",
+        "SoruMetni": "Fotoğrafa ilgi duyan ancak yeteri kadar teknik bilgisi olmayanlar için üretilmiş pratik kullanımlı makinelerdir.<br/>Yukarıdaki tanım hangi sayısal fotoğraf makineleri için kullanılmaktadır?",
         "A": "DSLR-like kompakt makineler",
         "B": "Kompakt sayısal makineler",
         "C": "Basit kompakt sayısal makineler",
@@ -437,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kompakt sayısal makineler"
+        "Aciklama": "Fotoğrafa ilgi duyan ancak yeteri kadar teknik bilgisi olmayanlar için üretilmiş pratik kullanımlı makineler kompakt sayısal makinelerdir. Objektif ve gövde bütünleşiktir.<br/>Genellikle gövde arkasında LCD bir ekran bulunur ve bakaç görevi görür."
     },
     {
         "SoruID": 3351338,
@@ -457,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "DSLR-like kompakt makineler"
+        "Aciklama": "DSLR-Like kompakt makineler kompaktlardan daha gelişmiş ve iri gövdeleri mevcuttur. Elektronik vizörlü (bakaçlı) EVF makineler olarak da anılırlar."
     },
     {
         "SoruID": 3351339,
@@ -477,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayısal arkalıklı makinelere"
+        "Aciklama": "Sayısal arkalıklı makinelerin en güçlü modellerinden biri olan<br/>Hasselblad H4D200MS Orta Format Fotoğraf Makinesi’nin body fiyatı 2014 tarihi itibariyle<br/>139.000 TL’dir.<br>Sayısal arkalıklı makinelere"
     },
     {
         "SoruID": 3351341,
@@ -541,7 +561,7 @@
     },
     {
         "SoruID": 3351344,
-        "SoruMetni": "<img alt=\"\" height=\"276\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/da600a5db5048242e82b4958daf08baa.png\" width=\"468\"/><br/> Yukarıda \"C\" ile belirtilen bölüm DSLR kamerada nasıl adlandırılır?",
+        "SoruMetni": "<img alt=\"\" height=\"276\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/da600a5db5048242e82b4958daf08baa.png\" width=\"468\"/><br/>Yukarıda \"C\" ile belirtilen bölüm DSLR kamerada nasıl adlandırılır?",
         "A": "Bakaç (vizör) merceği",
         "B": "Ayna",
         "C": "Örtücü perde",
@@ -557,11 +577,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Şekil 8.3<br/> <img alt=\"\" height=\"205\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/6be2f5801b3346f73c490b10550333ef.png\" width=\"353\"/>"
+        "Aciklama": "Şekil 8.3<br/><img alt=\"\" height=\"205\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/6be2f5801b3346f73c490b10550333ef.png\" width=\"353\"/>"
     },
     {
         "SoruID": 3351345,
-        "SoruMetni": "<img alt=\"\" height=\"317\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/da600a5db5048242e82b4958daf08baa.png\" width=\"546\"/><br/> Yukarıdaki DSLR şemasında \"D\" ile ifade edilen bölüm nasıl adlandırılır?",
+        "SoruMetni": "<img alt=\"\" height=\"317\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/da600a5db5048242e82b4958daf08baa.png\" width=\"546\"/><br/>Yukarıdaki DSLR şemasında \"D\" ile ifade edilen bölüm nasıl adlandırılır?",
         "A": "Sensör",
         "B": "Örtücü",
         "C": "Film",
@@ -577,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<img alt=\"\" height=\"309\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/6be2f5801b3346f73c490b10550333ef.png\" width=\"532\"/>"
+        "Aciklama": "<img alt=\"\" height=\"309\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/6be2f5801b3346f73c490b10550333ef.png\" width=\"532\"/><br><img alt=\"\" height=\"309\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/6be2f5801b3346f73c490b10550333ef.png\" width=\"532\"/>"
     },
     {
         "SoruID": 3351346,
@@ -661,7 +681,7 @@
     },
     {
         "SoruID": 3351350,
-        "SoruMetni": "\"Ancak üst düzey kullanıcıya hitap eden bu makinelerin bir kısmında hareketli ekran, konuyu takip gibi özellikler vardır. Büyük sensör nedeniyle görüntülerde daha yüksek ISO değerlerine çıkmak mümkündür. Bu nedenle fotoğrafta kumlanma ve ya noise dediğimiz küçük gürültüler daha az görülür. Diğer makinelere nazaran daha ağır ve ergonomik kullanıma uygun olarak tasarlanmıştır. Gövde (body) olarak kullanılan ana parçada magnezyum veya sert plastik kullanılmıştır. Ağırlığı nedeniyle eldeki titremeyi minimize ederek daha net ve keskin görüntü elde etmemizi sağlar.\"<br/> Yukarıda hangi tip fotoğraf makinelerinden bahsedilmektedir?",
+        "SoruMetni": "\"Ancak üst düzey kullanıcıya hitap eden bu makinelerin bir kısmında hareketli ekran, konuyu takip gibi özellikler vardır. Büyük sensör nedeniyle görüntülerde daha yüksek ISO değerlerine çıkmak mümkündür. Bu nedenle fotoğrafta kumlanma ve ya noise dediğimiz küçük gürültüler daha az görülür. Diğer makinelere nazaran daha ağır ve ergonomik kullanıma uygun olarak tasarlanmıştır. Gövde (body) olarak kullanılan ana parçada magnezyum veya sert plastik kullanılmıştır. Ağırlığı nedeniyle eldeki titremeyi minimize ederek daha net ve keskin görüntü elde etmemizi sağlar.\"<br/>Yukarıda hangi tip fotoğraf makinelerinden bahsedilmektedir?",
         "A": "DSLR ve Full-Frame Makineler",
         "B": "Basit Kompakt Sayısal Makineler",
         "C": "Analog Makineler",
@@ -677,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Ancak üst düzey kullanıcıya hitap eden bu makinelerin bir kısmında hareketli ekran, konuyu takip gibi özellikler vardır. Büyük sensör nedeniyle görüntülerde daha yüksek ISO değerlerine çıkmak mümkündür. Bu nedenle fotoğrafta kumlanma ve ya noise dediğimiz küçük gürültüler daha az görülür. Diğer makinelere nazaran daha ağır ve ergonomik kullanıma uygun olarak tasarlanmıştır. Gövde (body) olarak kullanılan ana parçada magnezyum veya sert plastik kullanılmıştır. Ağırlığı nedeniyle eldeki titremeyi minimize ederek daha net ve keskin görüntü elde etmemizi sağlar.\""
+        "Aciklama": "\"Ancak üst düzey kullanıcıya hitap eden bu makinelerin bir kısmında hareketli ekran, konuyu takip gibi özellikler vardır. Büyük sensör nedeniyle görüntülerde daha yüksek ISO değerlerine çıkmak mümkündür. Bu nedenle fotoğrafta kumlanma ve ya noise dediğimiz küçük gürültüler daha az görülür. Diğer makinelere nazaran daha ağır ve ergonomik kullanıma uygun olarak tasarlanmıştır. Gövde (body) olarak kullanılan ana parçada magnezyum veya sert plastik kullanılmıştır. Ağırlığı nedeniyle eldeki titremeyi minimize ederek daha net ve keskin görüntü elde etmemizi sağlar.\""
     },
     {
         "SoruID": 3351351,
@@ -701,7 +721,7 @@
     },
     {
         "SoruID": 3351352,
-        "SoruMetni": "Aşağıdakilerden hangisi sayısal teknolojinin getirmiş olduğu mali ve zamansal olumsuzluklardan biri <strong>değildir?</strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi sayısal teknolojinin getirmiş olduğu mali ve zamansal olumsuzluklardan biri <strong>değildir?</strong>",
         "A": "Fotoğraf üretiminin artması",
         "B": "Fotoğraf makine teknolojilerinin hızla değişmesi",
         "C": "Makinelerin üzerine eklemlenen parçaların özelliklerinin her geçen gün güncellenmesi",
@@ -761,7 +781,7 @@
     },
     {
         "SoruID": 3351355,
-        "SoruMetni": "Aşağıdakilerden hangisi çift kameralı sistemlerde ön planın net arka planın flu şeklinde fotoğraflanabilmesini belirtir?",
+        "SoruMetni": "Aşağıdakilerden hangisi çift kameralı sistemlerde ön planın net arka planın flu şeklinde fotoğraflanabilmesini belirtir?",
         "A": "Derinlik sensörü",
         "B": "Etkinlik senörü",
         "C": "Mercek sensörü",
@@ -781,7 +801,7 @@
     },
     {
         "SoruID": 3351356,
-        "SoruMetni": "I) Yeteri kadar teknik bilgisi olmayanlar için üretilmiştr.<br/> II)  Pratik kullanımlıdır.<br/> III) Objektif ve gövde bütünleşiktir.<br/> IV) Genellikle gövde arkasında LCD bir ekran bulunur.<br/> Yukarıdaki özellikleri taşıyan sayısal makineler hangileridir?",
+        "SoruMetni": "I) Yeteri kadar teknik bilgisi olmayanlar için üretilmiştr.<br/>II) Pratik kullanımlıdır.<br/>III) Objektif ve gövde bütünleşiktir.<br/>IV) Genellikle gövde arkasında LCD bir ekran bulunur.<br/>Yukarıdaki özellikleri taşıyan sayısal makineler hangileridir?",
         "A": "Kompakt Sayısal Makineler",
         "B": "DSLR-Like Kompakt Makineler",
         "C": "DSLR ve Full-Frame Makineler",
@@ -801,7 +821,7 @@
     },
     {
         "SoruID": 3351357,
-        "SoruMetni": "Analog fotoğraf makinelerinde kullanılan ........... aksine, dijital kamerada bulunan............., en üst seviyeye ulaşması için toz ve diğer yabancı maddelerden temiz tutulması gerekmektedir.<br/> Aşağıdakilerden hangisi yukarıdaki boşlukları doğru olarak tamamlar?",
+        "SoruMetni": "Analog fotoğraf makinelerinde kullanılan ........... aksine, dijital kamerada bulunan............., en üst seviyeye ulaşması için toz ve diğer yabancı maddelerden temiz tutulması gerekmektedir.<br/>Aşağıdakilerden hangisi yukarıdaki boşlukları doğru olarak tamamlar?",
         "A": "Filmlerin- görüntü sensörünün",
         "B": "algılayıcıların-filmlerin",
         "C": "Görüntü sensörünün-algılayıcının",
@@ -821,7 +841,7 @@
     },
     {
         "SoruID": 3351358,
-        "SoruMetni": "Aşağıdakilerden hangisi CMOS sensörünün düşük güç gereksinimlerine sahip olup, Full Frame Transfer (FFT) CCD sensörüyle karşılaştırılabilir bir görüntü kalitesi sunan sensördür?",
+        "SoruMetni": "Aşağıdakilerden hangisi CMOS sensörünün düşük güç gereksinimlerine sahip olup, Full Frame Transfer (FFT) CCD sensörüyle karşılaştırılabilir bir görüntü kalitesi sunan sensördür?",
         "A": "Live MOS",
         "B": "Foveon",
         "C": "Edge",
@@ -841,7 +861,7 @@
     },
     {
         "SoruID": 3351359,
-        "SoruMetni": "Aşağıdakilerden hangisi dijital ekran teknolojileri üzerinde gösterilen görüntünün en küçük birimine verilen isimdir?",
+        "SoruMetni": "Aşağıdakilerden hangisi dijital ekran teknolojileri üzerinde gösterilen görüntünün en küçük birimine verilen isimdir?",
         "A": "Piksel",
         "B": "Boyut",
         "C": "Crop",
@@ -861,7 +881,7 @@
     },
     {
         "SoruID": 3351360,
-        "SoruMetni": "Aşağıdakilerden hangisi bir görüntüdeki parlaklık değerlerinin aralığını gösteren grafiktir?",
+        "SoruMetni": "Aşağıdakilerden hangisi bir görüntüdeki parlaklık değerlerinin aralığını gösteren grafiktir?",
         "A": "Histogram",
         "B": "ISO",
         "C": "Piksel",
@@ -881,7 +901,7 @@
     },
     {
         "SoruID": 3351361,
-        "SoruMetni": "Sayısala geçişin ilk prototipi olan fotoğraf makinesini<span> hangi önemli fotoğraf makinesi markası üretmiştir?</span>",
+        "SoruMetni": "Sayısala geçişin ilk prototipi olan fotoğraf makinesini<span> hangi önemli fotoğraf makinesi markası üretmiştir?</span>",
         "A": "KODAK",
         "B": "CANON",
         "C": "NİKON",
@@ -917,11 +937,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayısal fotoğraf makinelerini üretim biçimlerine göre sınıflandırırsak karşımıza ortalama 6 sınıf çıkacaktır:<br/><br/>• Basit kompakt sayısal makineler,<br/><br/>• Kompakt sayısal makineler,<br/><br/>• DSLR-like kompakt makineler,<br/><br/>• DSLR ve full-frame makineler,<br/><br/>• Sayısal arkalıklı makineler,<br/><br/>• DSLR aynasız fotoğraf makineleri."
+        "Aciklama": "Sayısal fotoğraf makinelerini üretim biçimlerine göre sınıflandırırsak karşımıza ortalama 6 sınıf çıkacaktır:<br/>• Basit kompakt sayısal makineler,<br/>• Kompakt sayısal makineler,<br/>• DSLR-like kompakt makineler,<br/>• DSLR ve full-frame makineler,<br/>• Sayısal arkalıklı makineler,<br/>• DSLR aynasız fotoğraf makineleri."
     },
     {
         "SoruID": 3351363,
-        "SoruMetni": "Asıl çekmek istediğiniz nesne önde net bir şekilde görünürken, arka plan ise bulanık bir şekilde kaldığında fotoğraf makinesi, çift kameranın en temel ve en önemli özelliklerinden biri<span> olan .......... gerçekleştirmiş olur.</span>",
+        "SoruMetni": "Asıl çekmek istediğiniz nesne önde net bir şekilde görünürken, arka plan ise bulanık bir şekilde kaldığında fotoğraf makinesi, çift kameranın en temel ve en önemli özelliklerinden biri<span> olan .......... gerçekleştirmiş olur.</span>",
         "A": "Alan derinliği",
         "B": "iPhoneography",
         "C": "Derinlik Efekti",
@@ -937,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Derinlik sensörü nedir?<br/> Fotoğraf makinesinde, çift kameranın en temel ve en önemli özelliklerinden biri derinlik efektidir. Birinci kamera, nesneyi algılar, ikinci kamera da derinlik efekti vererek nesneyi arka planda tanımlar. İkinci kamera, çekilmek istenen önündeki nesnelerin birbirine olan uzaklıklarını tanımlar. Bu bilgiyi daha sonra ön planda olan nesneyi arka planda ayırmak için kullanır. Sonrasında kamerası sistemi arka plan bulanıklaştırır. Böylece fotoğrafa sanal derinlik kazandırılır.<br/> Kısaca özetlemek gerekirse asıl çekmek istediğiniz nesne önde net bir şekilde görünecek, arka plan ise bulanık bir şekilde kalacak.<br/> Ancak bu yöntemin bazen işe yaramadığı yerler de vardır. Yani ikinci kamera, siz istemediğiniz halde arka planı bulanıklaştırıp istemediğiniz görüntüleri çekmenize neden olabiliyor."
+        "Aciklama": "Derinlik sensörü nedir?<br/>Fotoğraf makinesinde, çift kameranın en temel ve en önemli özelliklerinden biri derinlik efektidir. Birinci kamera, nesneyi algılar, ikinci kamera da derinlik efekti vererek nesneyi arka planda tanımlar. İkinci kamera, çekilmek istenen önündeki nesnelerin birbirine olan uzaklıklarını tanımlar. Bu bilgiyi daha sonra ön planda olan nesneyi arka planda ayırmak için kullanır. Sonrasında kamerası sistemi arka plan bulanıklaştırır. Böylece fotoğrafa sanal derinlik kazandırılır.<br/>Kısaca özetlemek gerekirse asıl çekmek istediğiniz nesne önde net bir şekilde görünecek, arka plan ise bulanık bir şekilde kalacak.<br/>Ancak bu yöntemin bazen işe yaramadığı yerler de vardır. Yani ikinci kamera, siz istemediğiniz halde arka planı bulanıklaştırıp istemediğiniz görüntüleri çekmenize neden olabiliyor."
     },
     {
         "SoruID": 3351364,
@@ -960,8 +980,28 @@
         "Aciklama": "SLR makinelerden farkı filmin yerini sensörün almasıdır. DSLR “Digital Single Lens Reflex” kelimelerinin kısaltılmış hâlidir ve en yaygın olarak bu hâliyle kullanılır."
     },
     {
+        "SoruID": 3351365,
+        "SoruMetni": "Film boyutu olarak 35mm’lik sensör boyutunda olan sayısal makinelere ne ad verilmektedir?",
+        "A": "Orta Format DSLR",
+        "B": "APS-H",
+        "C": "Crop sensörlü DSLR",
+        "D": "APS-C",
+        "E": "Full Frame DSLR",
+        "DogruCevap": "E",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.048437",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Film boyutu olarak 35’lik sensör boyutunda olan sayısal makineleri FULL FRAME DSLR (tam çerçeve) olarak adlandırırız. Bu makinelerin sensör boyutu 36x24 mm ölçülerindedir ve odak çarpanı 1’dir."
+    },
+    {
         "SoruID": 3351366,
-        "SoruMetni": "Canon fotoğraf makinesi gövdelerinde , .... lensler full frame ve crop gövdelerde uygundur, ..... lensler ise sadece Crop gövdelerde kullanılabilir.<br/> <span>Yukarıda boş bırakılan yerlerdeki teknik terimler aşağıdakilerden hangisinde doğru verilmiştir?</span>",
+        "SoruMetni": "Canon fotoğraf makinesi gövdelerinde , .... lensler full frame ve crop gövdelerde uygundur, ..... lensler ise sadece Crop gövdelerde kullanılabilir.<br/><span>Yukarıda boş bırakılan yerlerdeki teknik terimler aşağıdakilerden hangisinde doğru verilmiştir?</span>",
         "A": "EF, EF-S",
         "B": "EF, DC",
         "C": "DA, DT",
@@ -977,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Canon gövdelerde ise, EF lensler full frame ve crop gövdelerde uygundur, EF-S lensler ise sadece Crop gövdelerde kullanılabilir. Sonuç olarak Canon’da Full Frame gövdeler EF-S lensleri kullanamazlar."
+        "Aciklama": "<br/>Canon gövdelerde ise, EF lensler full frame ve crop gövdelerde uygundur, EF-S lensler ise sadece Crop gövdelerde kullanılabilir. Sonuç olarak Canon’da Full Frame gövdeler EF-S lensleri kullanamazlar.<br/>Aşağıda farklı lens markaların crop sensör için ürettikleri lenslerde kullanılan kısaltmaları görebiliriz.<br/>• Nikon: DX<br/>• Canon: EF-S, EF-M<br/>• Sony / Konica Minolta: DT, E<br/>• Pentax: DA<br/>• Samsung: NX<br/>• Sigma: DC<br/>• Tamron: Di II<br/>• Tokina: DX"
     },
     {
         "SoruID": 3351367,
@@ -1017,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Aynasız fotoğraf makinelerinin otaya çıkmasıyla birlikte makine gövdesinde kullanıcı sınırlamalarında yaşanan rahatlamalar:<br/> <strong>Hava Hareketi Yok: </strong>Fotoğraf makinesinin içinde sürekli hareket eden bir şey olmadığı için, toz burada daha az sorun teşkil etmektedir."
+        "Aciklama": "Aynasız fotoğraf makinelerinin otaya çıkmasıyla birlikte makine gövdesinde kullanıcı sınırlamalarında yaşanan rahatlamalar:<br/><strong>Hava Hareketi Yok: </strong>Fotoğraf makinesinin içinde sürekli hareket eden bir şey olmadığı için, toz burada daha az sorun teşkil etmektedir."
     },
     {
         "SoruID": 3351369,
@@ -1037,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "CCD’ler bir görüntüyü siyah beyaz olarak korur. Sonrasında renkli bir görüntü oluşturmak için ışığı; kırmızı, yeşil ve mavi filtrelerden geçirir. Bu işlem Bayer dosya deseni ismi ile anılır. Her filtre sadece bir dalga boyuna izin verir ve sadece bir rengin kaydedilmesine izin veren herhangi bir piksele geçer.<br/><br/>CCD’ler gibi, CMOS görüntüleme çipleri de foto detektörler üzerinde bir Bayer filtre deseni ile çalışır. Ayrıca CMOS görüntüleme çipi fotodiyod dizisi tarafından üretilen sinyalleri toplayan ve yorumlayan analog sinyal işleme devresini de barındırır. Bir görüntü elde edildikten sonra, standart kırmızı, yeşil ve mavi (RGB) formatına yükseltilir ve dönüştürülür. CMOS çipleri, CCD’lerden daha fazla enerji tasarrufu sağlar Resim 8.15."
+        "Aciklama": "CCD’ler bir görüntüyü siyah beyaz olarak korur. Sonrasında renkli bir görüntü oluşturmak için ışığı; kırmızı, yeşil ve mavi filtrelerden geçirir. Bu işlem Bayer dosya deseni ismi ile anılır. Her filtre sadece bir dalga boyuna izin verir ve sadece bir rengin kaydedilmesine izin veren herhangi bir piksele geçer.<br/>CCD’ler gibi, CMOS görüntüleme çipleri de foto detektörler üzerinde bir Bayer filtre deseni ile çalışır. Ayrıca CMOS görüntüleme çipi fotodiyod dizisi tarafından üretilen sinyalleri toplayan ve yorumlayan analog sinyal işleme devresini de barındırır. Bir görüntü elde edildikten sonra, standart kırmızı, yeşil ve mavi (RGB) formatına yükseltilir ve dönüştürülür. CMOS çipleri, CCD’lerden daha fazla enerji tasarrufu sağlar Resim 8.15."
     },
     {
         "SoruID": 3351370,

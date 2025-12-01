@@ -8,7 +8,8 @@
     - **Cevap D-) Arts and Crafts Hareketi’nin doğmasına neden olmuştur**
     - E-) Tasarım sürecini daha kullanıcı odaklı ve yenilikçi bir hâle getirmiştir.
 
-    > **Açıklama:** Sanayi Devrimi’nin getirdiği hızlı endüstrileşme, estetik ve işlevsellik arasındaki dengenin kaybolmasına yol açmış ve Arts and Crafts Hareketi’ni doğurdu.
+    > **Açıklama:** Dijitalleşme ve Tasarım Süreçleri
+    > Sanayi Devrimi’nin getirdiği hızlı endüstrileşme, estetik ve işlevsellik arasındaki dengenin kaybolmasına yol açmış ve Arts and Crafts Hareketi’ni doğurdu.
 
     ***
 1. Tasarım süreçlerinde geçmiş çözümlerin analiz edilmesiyle gelecekteki koşulların öngörülmesi, tasarım düşüncesinin hangi temelini yansıtır?
@@ -18,7 +19,8 @@
     - **Cevap D-) Yeniden Tasarım Kuralı**
     - E-) Kullanıcı odaklı inovasyon
 
-    > **Açıklama:** Yeniden Tasarım Kuralı: Tüm tasarım süreçleri daha önceki özümlere dayanır.
+    > **Açıklama:** Tasarım Düşüncesinin Temelleri
+    > Yeniden Tasarım Kuralı: Tüm tasarım süreçleri daha önceki özümlere dayanır.
 
     ***
 1. Tasarımcılar, karar verme aşamasına geçmeden önce rekabet eden alternatifleri araştırır. En iyi seçenekleri bir araya getiren yeni yapılandırmalar oluşturmayı hedeflerler. Bu durum tasarım odaklı düşünen bireylerin hangi özelliğini yansıtır?
@@ -28,7 +30,8 @@
     - **Cevap D-) Seçim zorunluluğundan kaçınma**
     - E-) İnsan ve çevre odaklı yaklaşım
 
-    > **Açıklama:** Seçim zorunluluğundan kaçınma: Tasarımcılar, karar verme aşamasına geçmeden önce rekabet eden alternatifleri araştırır. En iyi seçenekleri bir araya getiren yeni yapılandırmalar oluşturmayı hedeflerler.
+    > **Açıklama:** Tasarım Düşüncesinin Temelleri
+    > Seçim zorunluluğundan kaçınma: Tasarımcılar, karar verme aşamasına geçmeden önce rekabet eden alternatifleri araştırır. En iyi seçenekleri bir araya getiren yeni yapılandırmalar oluşturmayı hedeflerler.
 
     ***
 1. Aşağıdakilerden hangisi tasarım odaklı düşünen bireylerin sahip olduğu özelliklerden biri değildir?
@@ -38,27 +41,30 @@
     - D-) Çok işlevliliğe yatkınlık
     - **Cevap E-) Kullanıcı odaklı çözümler**
 
-    > **Açıklama:** Kullanıcı odaklı çözümler Tasarım Süreçlerinin Aşamalarındandır
+    > **Açıklama:** Tasarım Düşüncesinin Temelleri
+    > Kullanıcı odaklı çözümler Tasarım Süreçlerinin Aşamalarındandır
 
     ***
-1. Aşağıdakilerden hangisi Stanford’un tasarım odaklı düşünme modeli aşamalarından biri değildir?
+1. Aşağıdakilerden hangisi Stanford’un tasarım odaklı düşünme modeli aşamalarından biri değildir?
     - A-) Empati kurma
     - B-) Tanımlama
     - **Cevap C-) İçgörü**
     - D-) Fikir üretimi
     - E-) İnşa etme
 
-    > **Açıklama:** Stanford’un tasarım odaklı düşünme modeli, klasik süreci beş temel aşamada tanımlar: Problemin yeniden tanımlanması (empati kurma), ihtiyaçların belirlenmesi ve karşılaştırılması (tanımlama), beyin fırtınası (fikir üretimi), prototipleme (inşa etme) ve test etme (öğrenme)
+    > **Açıklama:** Tasarım Düşüncesi Modellerinin Evrimi
+    > Stanford’un tasarım odaklı düşünme modeli, klasik süreci beş temel aşamada tanımlar: Problemin yeniden tanımlanması (empati kurma), ihtiyaçların belirlenmesi ve karşılaştırılması (tanımlama), beyin fırtınası (fikir üretimi), prototipleme (inşa etme) ve test etme (öğrenme)
 
     ***
-1. Aşağıdakilerden hangisi, ekipleri kullanıcı ihtiyaçlarına göre temel sorunu ifade etmeye teşvik eden, gözlem ve empatiye odaklanan, içgörülerle donanmış olarak yeni ve beklenmedik çözümler geliştiren, potansiyel yanıtları kaba prototipler hâlinde somutlaştırılarak toplanan geri bildirimler sonucunda iterasyon yoluyla geliştirilen çözümün iş ortakları, müşteriler ve paydaşlarla paylaşıldığı altı aşamalı tasarım düşüncesi modelidir?
+1. Aşağıdakilerden hangisi, ekipleri kullanıcı ihtiyaçlarına göre temel sorunu ifade etmeye teşvik eden, gözlem ve empatiye odaklanan, içgörülerle donanmış olarak yeni ve beklenmedik çözümler geliştiren, potansiyel yanıtları kaba prototipler hâlinde somutlaştırılarak toplanan geri bildirimler sonucunda iterasyon yoluyla geliştirilen çözümün iş ortakları, müşteriler ve paydaşlarla paylaşıldığı altı aşamalı tasarım düşüncesi modelidir?
     - **Cevap A-) IDEO Tasarım Düşüncesi**
     - B-) Double Diamond (4 Ds) Tasarım Düşüncesi
     - C-) Tasarım Sprint
     - D-) Liedtka Tasarım Düşüncesi
     - E-) Tasarım Bilişi
 
-    > **Açıklama:** IDEO Tasarım Düşüncesi Modeli: Bu “tasarım düşüncesi modeli”, kullanıcıları yenilikçi çözümlere yönelik altı aşamalı bir yolculuğa yönlendiren bir kılavuz gibidir. Yolculuk, ekipleri kullanıcı ihtiyaçlarına derinlemesine dalmaya ve temel sorunu ifade etmeye teşvik eden bir sorunun çerçevelenmesiyle başlar. Bir sonraki aşama, gözlem ve empatiye odaklanarak ekip üyelerini hedef kitlenin yaşam deneyimlerine daldırmayı amaçlar. Bu içgörülerle donanmış olarak, ekip yeni ve beklenmedik çözümler geliştirme heyecan verici sürecine girer. Bu potansiyel yanıtlar, kaba prototipler hâlinde somutlaştırılarak test aşamasında titiz değerlendirmelere tabi tutulur ve değerli geri bildirimler toplanır. Son olarak, iterasyon yoluyla geliştirilen çözüm, ekip tarafından anlatılarak iş ortakları, müşteriler ve paydaşlarla paylaşılır
+    > **Açıklama:** Tasarım Düşüncesi Modellerinin Evrimi
+    > IDEO Tasarım Düşüncesi Modeli: Bu “tasarım düşüncesi modeli”, kullanıcıları yenilikçi çözümlere yönelik altı aşamalı bir yolculuğa yönlendiren bir kılavuz gibidir. Yolculuk, ekipleri kullanıcı ihtiyaçlarına derinlemesine dalmaya ve temel sorunu ifade etmeye teşvik eden bir sorunun çerçevelenmesiyle başlar. Bir sonraki aşama, gözlem ve empatiye odaklanarak ekip üyelerini hedef kitlenin yaşam deneyimlerine daldırmayı amaçlar. Bu içgörülerle donanmış olarak, ekip yeni ve beklenmedik çözümler geliştirme heyecan verici sürecine girer. Bu potansiyel yanıtlar, kaba prototipler hâlinde somutlaştırılarak test aşamasında titiz değerlendirmelere tabi tutulur ve değerli geri bildirimler toplanır. Son olarak, iterasyon yoluyla geliştirilen çözüm, ekip tarafından anlatılarak iş ortakları, müşteriler ve paydaşlarla paylaşılır
 
     ***
 1. Çoğu tasarım süreci, bir tasarımcının bir problemi ele alırken izlediği adımları temel alır. Aşağıdakilerden hangisi bunlardan biri değildir?
@@ -68,7 +74,8 @@
     - D-) Problemi kavramsallaştırma
     - E-) Çözümü test etme veya uygulama
 
-    > **Açıklama:** Belirsizlikten Kaçınma: Bir toplumun belirsiz ve öngörülemeyen durumlara karşı toleransını ifade eder. Belirsizlikten kaçınan kültürler, katı kurallar ve mutlak doğru inancı ile bu tür durumları en aza indirmeye çalışır.
+    > **Açıklama:** Tasarım Süreci ve Yaratıcılık
+    > Belirsizlikten Kaçınma: Bir toplumun belirsiz ve öngörülemeyen durumlara karşı toleransını ifade eder. Belirsizlikten kaçınan kültürler, katı kurallar ve mutlak doğru inancı ile bu tür durumları en aza indirmeye çalışır.
 
     ***
 1. Beş günlük tasarım sprinti hangi aşamalardan oluşur?
@@ -78,7 +85,8 @@
     - D-) Tanımlama, taslak çizim, karar verme, geliştirme ve doğrulama
     - E-) Anlama, taslak çizim, karar verme, geliştirme ve doğrulama
 
-    > **Açıklama:** Anlama, taslak çizim, karar verme, prototip oluşturma ve doğrulama
+    > **Açıklama:** Tasarım Düşüncesi Modellerinin Evrimi
+    > Anlama, taslak çizim, karar verme, prototip oluşturma ve doğrulama
 
     ***
 1. Liedtka’ya göre tasarım süreci aslında dört temel soruyla ilgilenir. Aşağıdakilerden hangisi bunlardan biri değildir?
@@ -88,7 +96,8 @@
     - D-) Ne işe yarar?
     - **Cevap E-) Müşteri tasarımı onayladı mı?**
 
-    > **Açıklama:** Liedtka’ya göre tasarım süreci aslında dört temel soruyla ilgilenir: 1. Şu an ne var? 2. Ne olabilir? (Eğer?) 3. Neler etkileyici? (Vay be!) 4. Ne işe yarar?
+    > **Açıklama:** Liedtka Tasarım Düşüncesi Modeli:
+    > Liedtka’ya göre tasarım süreci aslında dört temel soruyla ilgilenir: 1. Şu an ne var? 2. Ne olabilir? (Eğer?) 3. Neler etkileyici? (Vay be!) 4. Ne işe yarar?
 
     ***
 1. Özellikle coğrafi bağlamın tasarım pratiği üzerindeki etkilerini ele alan tasarım kültürü aşağıdakilerden hangisidir?
@@ -109,7 +118,9 @@
     - D-) I, IV, V
     - E-) I, II, IV
 
-    > **Açıklama:** I, II, III.
+    > **Açıklama:** Başarılı bir portfolyonun özellikleri arasında temsil ettiği kişi veya kurumun öne çıkarmak istediği özelliklerini etkili biçimde yansıtması; hedefe uygun düzenlenmiş olması; içeriğinin ve tasarımının kendi kendisini başka bir eyleme gerek kalmaksızın tanıtacak biçimde tasarlanmış olması yer alır.
+    > IV. ve V. şıklarda yer alan pahalı malzemelerle oluşturulmuş olması ve elde taşınabilir olması özellikleri başarılı bir portfolyo için elzem değildir.
+    > I, II, III.
     > I. Temsil ettiği kişi veya kurumun öne çıkarmak istediği özelliklerini etkili biçimde yansıtması
     > II. Hedefe uygun düzenlenmiş olması
     > III. İçeriğinin ve tasarımının kendi kendisini başka bir eyleme gerek kalmaksızın tanıtacak biçimde tasarlanmış olması
@@ -128,14 +139,15 @@
     > Bir mücevher tasarımcısının özel sektörde iş başvurusunda sunduğu portfolyo, profesyonel portfolyodur.
 
     ***
-1. Eserlerinin replikalarını ve minimal ölçekteki üç boyutlu çalışmalarını bir araya getirerek oluşturduğu  “Boîte-en-valise” adlı çalışmasında sanatçı Marcel Duchamp aşağıdakilerden hangisini gerçekleştirmiştir?
+1. Eserlerinin replikalarını ve minimal ölçekteki üç boyutlu çalışmalarını bir araya getirerek oluşturduğu “Boîte-en-valise” adlı çalışmasında sanatçı Marcel Duchamp aşağıdakilerden hangisini gerçekleştirmiştir?
     - A-) Sanatı önemsemediğini göstermiştir.
     - **Cevap B-) Portfolyonun kendisini bir sanat eserine dönüştürmüştür.**
     - C-) İş dünyasını eleştirmiştir.
     - D-) Maddi olanakların sınırlarını dijital olanaklarla aşmıştır.
     - E-) Dijital ortamda etkili bir portfolyo sunumu gerçekleştirmiştir.
 
-    > **Açıklama:** B. Portfolyonun kendisini bir sanat eserine dönüştürmüştür.
+    > **Açıklama:** Eserlerinin replikalarını ve minimal ölçekteki üç boyutlu çalışmalarını bir araya getirerek oluşturduğu “Boîte-en-valise” adlı çalışmasında sanatçı Marcel Duchamp portfolyonun kendisini bir sanat eserine dönüştürmüştür.
+    > B. Portfolyonun kendisini bir sanat eserine dönüştürmüştür.
 
     ***
 1. Bir tekstil markasının yöneticileriyle yaptığı iş görüşmesinde çalışmalarını kumaş kaplı bir portfolyoda sunan bir tasarımcı, portfolyo hazırlamanın hangi kriterine uygun davranmıştır?
@@ -145,7 +157,8 @@
     - D-) Portfolyoyu daha sağlam hale getirmiştir.
     - E-) Masraftan kaçınmıştır.
 
-    > **Açıklama:** A. Hedef kitlesine göre tasarım yapmıştır.
+    > **Açıklama:** Bir tekstil markasının yöneticileriyle yaptığı iş görüşmesinde çalışmalarını kumaş kaplı bir portfolyoda sunan bir tasarımcı başvurduğu pozisyonun içeriğine uygun bir sunum oluşturarak portfolyosunda kumaş kullanmıştır.
+    > A. Hedef kitlesine göre tasarım yapmıştır.
     > Bir tekstil markasının yöneticileriyle yaptığı iş görüşmesinde çalışmalarını kumaş kaplı bir portfolyoda sunan bir tasarımcı başvurduğu pozisyonun içeriğine uygun bir sunum oluşturmuştur.
 
     ***
@@ -156,7 +169,8 @@
     - **Cevap D-) Başvurular arasında objektif bir değerlendirme yapılabilmesi**
     - E-) Fotoğrafların gerçeği yansıtmaması
 
-    > **Açıklama:** D. Başvurular arasında objektif bir değerlendirme yapılabilmesi
+    > **Açıklama:** Ayrımcılık Yasası'nın geçerli olduğu ABD gibi bazı ülkelerde başvuru sırasında fotoğraf kullanılması değerlendirmede önyargıya yol açabileceği gerekçesiyle doğru bulunmayabilmektedir.
+    > D. Başvurular arasında objektif bir değerlendirme yapılabilmesi
 
     ***
 1. Bir grafik tasarım ürünü olarak portfolyo tasarımları aşağıdaki üsluplardan hangisine uygun hazırlanmalıdır?
@@ -166,8 +180,9 @@
     - D-) Tasarla, simgele.
     - **Cevap E-) Anlatma, göster.**
 
-    > **Açıklama:** E. Anlatma, göster.
-    > Bir grafik tasarım ürünü olarak portfolyo tasarımları metinle veya sözle  açıklamak zorunda kalmadan kendisini anlatabilecek nitelikte olmalıdır.
+    > **Açıklama:** Grafik tasarımlarda tasarlanan işin kendisini başka yollara gerek kalmadan anlatabilmesi beklenir.
+    > E. Anlatma, göster.
+    > Bir grafik tasarım ürünü olarak portfolyo tasarımları metinle veya sözle açıklamak zorunda kalmadan kendisini anlatabilecek nitelikte olmalıdır.
 
     ***
 1. Çevrim içi portfolyolar için aşağıdakilerden hangisi gereklidir?
@@ -177,7 +192,8 @@
     - D-) Ofis ortamı
     - E-) Kırtasiye malzemesi
 
-    > **Açıklama:** C. İnternet bağlantısı
+    > **Açıklama:** Çevrim içi portfolyolara erişim için internet bağlantısı gereklidir.
+    > C. İnternet bağlantısı
 
     ***
 1. Masaüstü yayıncılık ve mizanpaj düzenlemelerinde yaygın olarak kullanılan InDesign tasarımının çok sayfalı grafik tasarımlarda sağladığı Parent Page (Asıl Sayfa) özelliği aşağıdakilerden hangisine yol açar?
@@ -187,7 +203,8 @@
     - D-) Metin formatında tutarsızlıklara yol açar.
     - E-) Tasarım ve uygulama sürelerini uzatır.
 
-    > **Açıklama:** C. Mizanpaj, tipografi ve renk gibi unsurların her sayfada otomatik olarak yer almasını sağlar.
+    > **Açıklama:** Masaüstü yayıncılık ve mizanpaj düzenlemelerinde yaygın olarak kullanılan InDesign tasarımının çok sayfalı grafik tasarımlarda sağladığı Parent Page (Asıl Sayfa) özelliği sayesinde mizanpaj, tipografi ve renk gibi unsurlar her sayfada otomatik olarak yer alır.
+    > C. Mizanpaj, tipografi ve renk gibi unsurların her sayfada otomatik olarak yer almasını sağlar.
 
     ***
 1. Dijital portfolyo formatlarında boyut belirleme aşaması aşağıdaki unsurlardan hangisine göre yapılmalıdır?
@@ -197,8 +214,9 @@
     - **Cevap D-) Standart web tasarım veya ekran ölçü oranları**
     - E-) Portfolyonun maliyeti
 
-    > **Açıklama:** C. Standart web tasarım veya ekran ölçü oranları
-    > Dijital portfolyo formatlarında boyut belirleme aşamasında standart web tasarım veya ekran ölçü oranlarının dikkate alınması gerekir. Kişinin boyu ile portfolyonun boyutları arasında olması gereken orantı ise yüz yüze sunumlarda dikkate alınması gereken bir özelliktir.
+    > **Açıklama:** Standart web tasarım veya ekran ölçü oranları dijital portfolyo formatlarında boyut belirleme aşamasında dikkate alınmalıdır.
+    > C. Standart web tasarım veya ekran ölçü oranları
+    > Dijital portfolyo formatlarında boyut belirleme aşamasında standart web tasarım veya ekran ölçü oranlarının dikkate alınması gerekir. Kişinin boyu ile portfolyonun boyutları arasında olması gereken orantı ise yüz yüze sunumlarda dikkate alınması gereken bir özelliktir.
 
     ***
 1. Aşağıdakilerden hangisi etkili bir sunum için portfolyoda yer alan metinlerin taşıması gereken özellikler arasında yer almaz?
@@ -220,7 +238,7 @@
     - **Cevap D-) Sponsorluk anlaşmaları**
     - E-) Sergileme tasarımı
 
-    > **Açıklama:** Sergi hazırlık süreci üç temel bileşenden oluşur: küratoryal çalışma, editoryal çalışma ve fiziki kurulum. Sergileme tasarımı, bir ürünün veya sanat eserinin
+    > **Açıklama:** Sergi hazırlık süreci üç temel bileşenden oluşur: küratoryal çalışma, editoryal çalışma ve fiziki kurulum. Sergileme tasarımı, bir ürünün veya sanat eserinin
     > etkili bir şekilde temsil edilmesi açısından son derece önemlidir. Sponsorluk anlaşmaları ise bir serginin finansal desteğini sağlama sürecine dahil olabilir, ancak serginin temel bileşenlerinden biri değildir. Doğru cevap D'dir.
 
     ***
@@ -316,7 +334,7 @@
 
     ***
 ## Unite 4
-1. "Metnin stilini, düzenlenmesini ve görünümünü kapsayan ................., metnin anlamını bile dikkate almadan kendi çağrışımlarını yaratabilir." ifadesindeki boşluğa aşağıdakilerden hangisi gelmelidir?
+1. "Metnin stilini, düzenlenmesini ve görünümünü kapsayan ................., metnin anlamını bile dikkate almadan kendi çağrışımlarını yaratabilir." ifadesindeki boşluğa aşağıdakilerden hangisi gelmelidir?
     - A-) Renkler
     - **Cevap B-) Tipografi**
     - C-) Kaligrafi
@@ -353,7 +371,7 @@
     - D-) Ses
     - E-) Fotoğraf
 
-    > **Açıklama:** ***Logolar*****:** Logo, bir markanın görsel temsili, en temel ayırt edici özelliğidir (Henderson ve Cote, 1998).
+    > **Açıklama:** ***Logolar*****:** Logo, bir markanın görsel temsili, en temel ayırt edici özelliğidir (Henderson ve Cote, 1998). Logonun tüm iletişim kanallarında tutarlı bir şekilde kullanılması, marka imajının bütünlüğünü korurken tüketicilerin markayı kolaylıkla tanımasını sağlar.
 
     ***
 1. Markalar, görsel tasarımı BPİ stratejilerine etkili bir şekilde entegre ederek iletişim çabalarını geliştirebilir, mesajların hem görülmesini hem de hatırlanmasını sağlayabilir. BPİ'nin açılımı aşağıdakilerden hangisidir?
@@ -386,14 +404,19 @@
     > **Açıklama:** **Duyarlı Tasarım:** Görsel içeriklerin, masaüstü bilgisayarlar, tabletler ve akıllı telefonlar gibi farklı cihazlarda ve ekran boyutlarında bütünleşik bir kullanıcı deneyimi sağlayacak şekilde iyileştirilmesi, marka iletişiminin etkinliği bakımından önemlidir. Çünkü her görsel tasarım her araçta aynı şekilde görünmemektedir. Bu strateji, görsellerin farklı platformlarda en iyi şekilde görünmesini sağlayarak kullanıcıların marka ile daha fazla etkileşim kurmasını ve marka hakkında olumlu bir izlenim edinmesini sağlar (Cyr vd., 2006).
 
     ***
-1. Küreselleşen dünyada, pazarlama stratejilerinin başarıya ulaşmasında kültürel farklılıkların dikkate alınması değerlidir. Buna göre aşağıdakilerden hangisi **doğru değildir?**<br />1. Hedef kitlenin gelenek, inanç, değer, sosyal norm gibi kültürel özelliklerini derinlemesine anlamak için kapsamlı kültürel araştırmalar yapılmalıdır.<br />2. Pazarlama materyalleri hedef kitlenin kültürel kodlarından bağımsız olarak global kodlara uygun olarak uyarlanmalı. Renkler, semboller, dil ve görsel ögeler global veriler göz önünde bulundurularak seçilmelidir.<br />3. Pazarlama stratejilerinin kültürel uygunluğunu sağlamak için yerel uzmanlardan veya kültürel danışmanlardan destek alınmalı
+1. Küreselleşen dünyada, pazarlama stratejilerinin başarıya ulaşmasında kültürel farklılıkların dikkate alınması değerlidir. Buna göre aşağıdakilerden hangisi **doğru değildir?**<br />1\. Hedef kitlenin gelenek, inanç, değer, sosyal norm gibi kültürel özelliklerini derinlemesine anlamak için kapsamlı kültürel araştırmalar yapılmalıdır.<br />2\. Pazarlama materyalleri hedef kitlenin kültürel kodlarından bağımsız olarak global kodlara uygun olarak uyarlanmalı. Renkler, semboller, dil ve görsel ögeler global veriler göz önünde bulundurularak seçilmelidir.<br />3\. Pazarlama stratejilerinin kültürel uygunluğunu sağlamak için yerel uzmanlardan veya kültürel danışmanlardan destek alınmalı
     - A-) Yalnızca I
     - **Cevap B-) Yalnızca II**
     - C-) Yalnızca III
     - D-) I ve II
     - E-) II ve III
 
-    > **Açıklama:** II. maddenin doğru hali şöyledir: Pazarlama materyalleri hedef kitlenin kültürel kodlarına uygun olarak uyarlanmalı. Renkler, semboller, dil ve görsel ögeler kültürel farklılıklar göz önünde bulundurularak seçilmeli.
+    > **Açıklama:** Küreselleşen dünyada, pazarlama stratejilerinin başarıya ulaşmasında kültürel farklılıkların dikkate alınması değerlidir. Bu kapsamda öncelikle söz konusu kültürle ilgili kapsamlı bir araştırma yapılmalı, gerekmesi hâlinde görsel tasarım ögeleri yerel kültüre göre uyarlanmalı, kültürel danışmanlardan yararlanılmalı ve yerel kitle üzerindeki etkinin görülebilmesi için test ve geri bildirim süreçleri işlemelidir. Buna göre
+    > • Hedef kitlenin gelenek, inanç, değer, sosyal norm gibi kültürel özelliklerini derinlemesine anlamak için kapsamlı kültürel araştırmalar yapılmalı.
+    > • Pazarlama materyalleri hedef kitlenin kültürel kodlarına uygun olarak uyarlanmalı. Renkler, semboller, dil ve görsel ögeler kültürel farklılıklar göz önünde bulundurularak seçilmeli.
+    > • Pazarlama stratejilerinin kültürel uygunluğunu sağlamak için yerel uzmanlardan veya kültürel danışmanlardan destek alınmalı.
+    > • Pazarlama kampanyalarının etkisini ölçmek ve geri
+    > II. maddenin doğru hali şöyledir: Pazarlama materyalleri hedef kitlenin kültürel kodlarına uygun olarak uyarlanmalı. Renkler, semboller, dil ve görsel ögeler kültürel farklılıklar göz önünde bulundurularak seçilmeli.
 
     ***
 1. "Anlamı ileten ancak ses biçimiyle bağlantılı olmayan bir kavramın sembolü, işareti olan grafik bir işarettir" ifadesi aşağıdakilerden hangisini tanımlar?
@@ -406,7 +429,7 @@
     > **Açıklama:** **İdeogram:** Anlamı ileten ancak ses biçimiyle bağlantılı olmayan bir kavramın sembolü, işareti olan grafik bir işarettir.
 
     ***
-1. "Piktogramlar, emojiler ve ideogramların hepsi iletişim için görsel semboller olarak işlev görür ancak bu simgeler soyutlama düzeylerine göre farklılık gösterir. ........... en gerçekçi olanlardır, doğrudan fiziksel bir nesneyi veya eylemi tasvir ederler; örneğin, bir araba ile bir yol işareti buna örnektir. .............. daha soyuttur, doğrudan görsel bir benzerlik olmadan fikirleri veya kavramları temsil ederler; örneğin, barış sembolü veya aşk ve sevgi ifadesi için kalp sembolü gibi. ................. modern bir ideogram biçimi olarak görülebilir, öncelikle dijital iletişimde duyguları ifade etmek veya ortak nesneleri temsil etmek için kullanılır, ancak yorumları daha öznel ve bağlama bağlı olabilir."<br />Yukarıdaki ifadede boş yerlere sırasıyla hangi terimler gelmelidir?
+1. "Piktogramlar, emojiler ve ideogramların hepsi iletişim için görsel semboller olarak işlev görür ancak bu simgeler soyutlama düzeylerine göre farklılık gösterir. ........... en gerçekçi olanlardır, doğrudan fiziksel bir nesneyi veya eylemi tasvir ederler; örneğin, bir araba ile bir yol işareti buna örnektir. .............. daha soyuttur, doğrudan görsel bir benzerlik olmadan fikirleri veya kavramları temsil ederler; örneğin, barış sembolü veya aşk ve sevgi ifadesi için kalp sembolü gibi. ................. modern bir ideogram biçimi olarak görülebilir, öncelikle dijital iletişimde duyguları ifade etmek veya ortak nesneleri temsil etmek için kullanılır, ancak yorumları daha öznel ve bağlama bağlı olabilir."<br />Yukarıdaki ifadede boş yerlere sırasıyla hangi terimler gelmelidir?
     - **Cevap A-) Piktogram/İdeogramlar/Emojiler**
     - B-) Piktogram/Emojiler/İdeogramlar
     - C-) Piktogram/Emojiler/Tipograflar
@@ -424,7 +447,7 @@
     - D-) Dijitalleşme
     - E-) Teknoloji
 
-    > **Açıklama:** İnovasyon
+    > **Açıklama:** İnovasyon, yeni fikirlerin ekonomik, sosyal ve kültürel alanlarda değer yaratacak şekilde hayata geçirilmesiyle ilgiliyken teknoloji, bu fikirlerin uygulanabilir ve sürdürülebilir hâle gelmesini sağlamaktadır.
 
     ***
 1. Castells, “ağ toplumunun temel yapı taşı” olarak tanımladığı, verilerin analog ortamdan sayısal formata aktarılması ve sayısal teknolojilerin iş süreçlerinde kullanılmasını ifade eden bu kavram, aşağıdakilerden hangisidir?
@@ -434,7 +457,7 @@
     - D-) Enformasyon
     - **Cevap E-) Dijitalleşme**
 
-    > **Açıklama:** Dijitalleşme
+    > **Açıklama:** **Castells**, dijitalleşmeyi “ağ toplumunun temel yapı taşı” olarak tanımlarken aslında bilgi ve iletişim teknolojilerinin insan yaşamında giderek artan rolüne de işaret etmektedir (Castells, 1996).
 
     ***
 1. Dijitalleşme süreci sadece bilgiyi işleme değil, aynı zamanda sanat ve tasarım süreçlerini de etkileyerek dönüştürmüştür. Aşağıdakilerden hangisi bu süreçlerden **değildir?**
@@ -444,7 +467,8 @@
     - **Cevap D-) Ekonomik katkı sağlamıştır.**
     - E-) Yenilikçi ürünler yaratılmıştır.
 
-    > **Açıklama:** Ekonomik katkı sağlamıştır.
+    > **Açıklama:** Konu ile ilgili maddelere ayrıntılı olarak sayfa 128 e bkz.
+    > Ekonomik katkı sağlamıştır.
 
     ***
 1. Photoshop gibi yazılımlar, dijital görüntülerin farklı işlemlerle geliştirilmesini sağlamaktadır. Aşağıdakilerden hangisi bu işlemlerden **değildir?**
@@ -454,7 +478,9 @@
     - D-) Kompozisyon iyileştirme
     - E-) Görselleri manipüle etme
 
-    > **Açıklama:** Yüksek çözünürlüklü ve ölçeklenebilir grafikler oluşturma
+    > **Açıklama:** **Photoshop gibi yazılımlar**, dijital görüntülerin renk düzeltme, kontrast ayarı, keskinlik artırma ve
+    > kompozisyon iyileştirme gibi işlemlerle geliştirilmesini sağlamaktadır.
+    > Yüksek çözünürlüklü ve ölçeklenebilir grafikler oluşturma
 
     ***
 1. Veri görselleştirmenin yoğun olarak kullanıldığı bazı alanlar vardır. Aşağıdakilerden hangisi bu alanlardan **değildir?**
@@ -464,7 +490,14 @@
     - **Cevap D-) Yaşlı bakımı**
     - E-) İletişim
 
-    > **Açıklama:** Yaşlı bakımı
+    > **Açıklama:** **Veri görselleştirmenin yoğun olarak kullanıldığı bazı alanlar ise şunlardır:**
+    > • Bilim: NASA’nın iklim değişikliği verilerini halka sunmak için oluşturduğu etkileşimli
+    > ısı haritaları, büyük veri görselleştirmenin bilimsel bir örneğidir.
+    > • Medya ve İletişim: The New York Times’ın veri görselleştirme projeleri, gazetecilikte
+    > bilgiye dayalı hikâye anlatımının etkili bir örneğini sunar (Cairo, 2013).
+    > • Pazarlama: Kullanıcı davranış verilerinin görselleştirilmesi, kampanyalarının hedef
+    > kitleye uygun şekilde optimize edilmesini sağlar.
+    > Yaşlı bakımı
 
     ***
 1. Aşağıdakilerden hangisi Sanal gerçeklik teknolojilerinin temel özelliklerinden **değildir?**
@@ -474,7 +507,16 @@
     - D-) Simülasyon Kapasitesi
     - **Cevap E-) Taşınabilirlik**
 
-    > **Açıklama:** Taşınabilirlik.
+    > **Açıklama:** **Sanal gerçeklik teknolojilerinin temel özellikleri şunlardır:**
+    > • Tamamen Dijital Ortam: Kullanıcıları fiziksel dünyadan izole ederek yalnızca dijital
+    > bir ortamda deneyim yaşamalarını sağlar.
+    > • Immersif Deneyimler: Stereo görüntü, 3D ses ve dokunsal geri bildirim gibi teknolojilerle
+    > gerçeklik algısını artırır (Bailenson, 2018).
+    > • Etkileşimli Ortamlar: VR kontrol cihazlarıyla kullanıcıların sanal nesnelerle etkileşim
+    > kurmasına olanak tanır.
+    > • Simülasyon Kapasitesi: Özellikle eğitim ve tasarım alanında, karmaşık süreçlerin simülasyonunu
+    > sağlar.
+    > Taşınabilirlik.
 
     ***
 1. Yapay zekâ, işlevlerine ve özelliklerine göre farklı kategoriye ayrılabilir. *“İnsan gibi düşünebilen ve birden fazla görevi öğrenip yerine getirebilen sistemlerdir. Şu anda teorik bir düzeyde bulunmakta olup tasarım dünyasında etkileri üzerine çalışmalar devam etmektedir.”* Açıklaması yapılan yapay zeka kategorisi aşağıdakilerden hangisidir?
@@ -485,7 +527,7 @@
     - E-) Kriptomorfik Yapay Zeka
 
     > **Açıklama:** **Genel Yapay Zekâ (Artificial General Intelligence):**
-    > İnsan gibi düşünebilen ve birden fazla görevi öğrenip yerine getirebilen sistemlerdir. Şu anda teorik bir düzeyde bulunmakta olup tasarım dünyasında etkileri üzerine çalışmalar devam etmektedir.
+    > İnsan gibi düşünebilen ve birden fazla görevi öğrenip yerine getirebilen sistemlerdir. Şu anda teorik bir düzeyde bulunmakta olup tasarım dünyasında etkileri üzerine çalışmalar devam etmektedir.
 
     ***
 1. Aşağıdakilerden hangisi icatların temel özelliklerinden **değildir?**
@@ -495,7 +537,8 @@
     - D-) Etkileme Potansiyeli
     - E-) Yenilikçi
 
-    > **Açıklama:** Kavramsal uygulanabilir.
+    > **Açıklama:** İcatların temel özelliklerine ayrıntılı olarak sayfa 137. bkz.
+    > Kavramsal uygulanabilir.
 
     ***
 1. Aşağıdakilerden hangisi “Yönlendirilmiş Beyin Fırtınası (SCAMPER)” yöntemi aşamalarından **değildir?**
@@ -505,7 +548,7 @@
     - **Cevap D-) Konsept Geliştirme (Concept Development):**
     - E-) Modify (Değiştirme)
 
-    > **Açıklama:** Konsept Geliştirme (Concept Development)
+    > **Açıklama:** **Konsept Geliştirme (Concept Development);** bu kategori bir icadın ortaya çıkış süreci adımlarındandır.
 
     ***
 1. Aşağıdakilerden hangisi inovasyonun sahip olduğu temel özelliklerden **değildir?**
@@ -515,7 +558,8 @@
     - D-) Sürekli Geliştirme (Continuous Improvement)
     - E-) Pazar Bilinci (Market Awareness)
 
-    > **Açıklama:** Konsept Geliştirme (Concept Development)
+    > **Açıklama:** İnovasyonların Özelliklerine detaylı sayfa 139'a bkz.
+    > Konsept Geliştirme (Concept Development)
 
     ***
 ## Unite 6
@@ -550,11 +594,11 @@
 
     ***
 1. Tasarım tarihinde önemli bir dönüm noktası olarak kabul edilen matbaanın icadı hangi yüzyılda gerçekleşmiştir?
-    - A-) 12. yüzyıl
-    - **Cevap B-) 15. yüzyıl**
-    - C-) 18. yüzyıl
-    - D-) 20. yüzyıl
-    - E-) 10. yüzyıl
+    - A-) 12\. yüzyıl
+    - **Cevap B-) 15\. yüzyıl**
+    - C-) 18\. yüzyıl
+    - D-) 20\. yüzyıl
+    - E-) 10\. yüzyıl
 
     > **Açıklama:** Matbaanın icadı, 15. yüzyılda gerçekleşmiş olup tasarım tarihinde önemli bir dönüm noktasıdır.
 
@@ -627,7 +671,7 @@
     - **Cevap D-) Evrensel Tasarım, Kapsayıcı Tasarım**
     - E-) Kapsayan Tasarım
 
-    > **Açıklama:** Evrensel Tasarım, Kapsayıcı Tasarım
+    > **Açıklama:** Toplumun tüm bireylerinin erişim hakkını gözeten tasarımlar Evrensel Tasarım, Kapsayıcı Tasarım olarak adlandırılır, sorunun yanıtı D şıkkıdır.
 
     ***
 1. Sürdürülebilirlik "gelecek kuşakların ihtiyaçlarını karşılamayı içerir" diyen uzman kimdir.
@@ -637,7 +681,7 @@
     - D-) Chapin
     - E-) Gilmoor
 
-    > **Açıklama:** Manfred Max Neef
+    > **Açıklama:** Sürdürülebilirlik "gelecek kuşakların ihtiyaçlarını karşılamayı içerir" diyen uzman Manfred Max Neef dir, sorunun yanıtı B şıkkıdır.
 
     ***
 1. Sürdürülebilirlik kavramı ilk olarak hangi tarihte ortaya atılmıştır.
@@ -647,7 +691,7 @@
     - D-) 1986
     - **Cevap E-) 1987**
 
-    > **Açıklama:** 1987
+    > **Açıklama:** Sürdürülebilirlik ilk olarak 1987 yılında ortaya atılmıştır, sorunun yanıtı E şıkkıdır.
 
     ***
 1. CUMULUS'un üyelerinin 2008 yılında imzaladığı yeni tasarım tarifi deklarasyonunun adı nedir.
@@ -657,7 +701,7 @@
     - D-) Tokyo
     - E-) İstanbul
 
-    > **Açıklama:** Kyoto
+    > **Açıklama:** CUMULUS'un üyelerinin 2008 yılında imzaladığı yeni tasarım tarifi deklarasyonunun adı Kyoto'dur, sorunun yanıtı B şıkkıdır.
 
     ***
 1. Sürdürülebilir tasarımın en önemli ögelerinden biri hangisidir.
@@ -667,7 +711,7 @@
     - **Cevap D-) Yaşam döngüsü**
     - E-) Tasarım döngüsü
 
-    > **Açıklama:** Yaşam döngüsü
+    > **Açıklama:** Sürdürülebilir tasarımın en önemli ögelerinden biri Yaşam döngüsüdür, sorunun yanıtı D şıkkıdır.
 
     ***
 1. Sürdürülebilir Tasarım ilkeleri kaç maddedir
@@ -677,7 +721,7 @@
     - D-) 3
     - E-) 4
 
-    > **Açıklama:** 9
+    > **Açıklama:** Sürdürülebilir Tasarım ilkeleri 9 maddedir, sorunun yanıtı A şıkkıdır.
 
     ***
 1. Günümüzde dünyada enerjide kullanılan Fosil yakıtların oranı yüzde kaçtır.
@@ -687,7 +731,8 @@
     - D-) %89
     - E-) %96
 
-    > **Açıklama:** %87
+    > **Açıklama:** Günümüzde dünyada enerjide kullanılan Fosil yakıtların oranı % 87dir, sorunun yanıtı C şıkkıdır.
+    > %87
 
     ***
 1. İKEA tarafından kullanılan Sürdürülebilir Orman Sertifikasının kısaltılmış adı nedir.
@@ -697,7 +742,7 @@
     - D-) FRB
     - E-) WİF
 
-    > **Açıklama:** FSC
+    > **Açıklama:** İKEA tarafından kullanılan Sürdürülebilir Orman Sertifikasının kısaltılmış adı FSCdir, sorunun yanıtı B şıkkıdır.
 
     ***
 1. Sürdürülebilirlik konusunda öncü ve önemli çalışmalar yapan dünyaca tanınan oyuncak firmasının adı nedir.
@@ -707,7 +752,7 @@
     - D-) Tony
     - **Cevap E-) Lego**
 
-    > **Açıklama:** Lego
+    > **Açıklama:** Sürdürülebilirlik konusunda öncü ve önemli çalışmalar yapan dünyaca tanınan oyuncak firmasının adı Lego'dur sorunun yanıtı E şıkkıdır.
 
     ***
 1. 1985 yılında Lİve Aid konserleri yaparak küresel farkındalık sağlayan sanatçı kimdir.
@@ -717,7 +762,7 @@
     - D-) Michael Jackson
     - **Cevap E-) Bob Geldof**
 
-    > **Açıklama:** Bob Geldof
+    > **Açıklama:** 1985 yılında Lİve Aid konserleri yaparak küresel farkındalık sağlayan sanatçı Bob Geldof'dur, sorunun yanıtı E şıkkıdır.
 
     ***
 ## Unite 8
@@ -728,7 +773,8 @@
     - D-) Tüketim ekonomisi
     - E-) Deneyim ergonomisi
 
-    > **Açıklama:** A şıkkıdır.
+    > **Açıklama:** Sayda 215’te yer alan “Deneyim ekonomisi” başlığı altında verilen tanım, deneyim ekonomisini bu şekilde tanımlamaktadır. Aynı sayfada Görsel 8.2’nin açıklamasında uçuş deneyimi örneği verilmektedir.
+    > A şıkkıdır.
 
     ***
 1. Deneyim ekonomisi ile ilişkili olarak aşağıdakilerden hangisi **söylenemez?**
@@ -738,27 +784,36 @@
     - D-) Ekonomi bağlamında deneyim, bir şirketin hizmetleri ve ürünleri kullanarak müşteriler için yarattığı unutulmaz bir olaydır.
     - E-) Sosyal medyanın yaygınlaşması, deneyim ekonomisinin önemini daha da arttırmıştır.
 
-    > **Açıklama:** B seçeneğidir.
+    > **Açıklama:** A seçeneği, sayfa 216’da Deneyim Ekonomisi başlığı altındadır.
+    > B seçeneği, Sayfa 216’da yer alan "Deneyim ekonomisi yalnızca ürün ile kullanıcı arasındaki fiziksel etkileşimler sonucu oluşmaz” olumsuzlanması ile oluşturulmuştur. Dolayıs ile deneyim ekonomisi için söylenemez.
+    > C seçeneği, sayfa 216’da Deneyim Ekonomisi başlığı altındadır.
+    > D seçeneği, sayfa 215’da Deneyim Ekonomisi başlığı altındadır.
+    > E Sayfa Sayfa 216’daki “Günümüzde sosyal medyanın bu denli gelişmiş olması, deneyimlerin yayılmasını ve trend hâline gelmesini kolaylaştırmıştır.” cümlesine binaen oluturulmuş seçenektir.
+    > B seçeneğidir.
 
     ***
-1. Bir web sitesinin, kullanılabilir ve güvenilir olmasının yanı sıra, görme zorlukları yaşayan kullanıcılar için büyütülebilir yazılar ve yüksek kontrastlı tasarım gibi seçenekler sunması,  Peter Morville’in “bal peteği” yaklaşımı içerisinde hangi öğe çerçevesinde yer almaktadır?
+1. Bir web sitesinin, kullanılabilir ve güvenilir olmasının yanı sıra, görme zorlukları yaşayan kullanıcılar için büyütülebilir yazılar ve yüksek kontrastlı tasarım gibi seçenekler sunması, Peter Morville’in “bal peteği” yaklaşımı içerisinde hangi öğe çerçevesinde yer almaktadır?
     - A-) Arzu edilebilirlik
     - B-) Faydalılık
     - **Cevap C-) Erişilebilirlik**
     - D-) Değerlilik
     - E-) Bulunabilirlik
 
-    > **Açıklama:** C şıkkıdır.
+    > **Açıklama:** Sayfa 218’de yer alan tanım “Erişilebilirlik (Accessible): Ürünün farklı yeteneklere sahip tüm kullanıcılar için erişilebilir olması” şeklindedir. Görme zorlukları yaşayan kullanıcılar, diğer kullanıcılardan farklı görme yeteneğine sahiptirler. Soruuda sözü edilen seçenekler sayesinde bu kullanıcılar da web sitesi tarafınan sağlanan içeriğe diğerleri ile aynı oranda erişebilir olmaktadırlar.
+    > C şıkkıdır.
 
     ***
-1. Peter Morville’in kullanıcı deneyimine ilişkin “balpeteği” modeli “kullanılabilirlik, faydalılık, güvenilirlik” gibi 7 bileşenden oluşur.  Jesse James Garrett’in kullanıcı deneyimi elementleri ise beş tane olup bunlar “strateji, kapsam, yapı, iskelet ve yüzey” şeklindedir. Her ikisi de kullanıcı deneyimine ilişkin olsa da birbirlerinden ayrımaktadırlar. Aralarındaki fark aşağıdakilerden hangisidir?
+1. Peter Morville’in kullanıcı deneyimine ilişkin “balpeteği” modeli “kullanılabilirlik, faydalılık, güvenilirlik” gibi 7 bileşenden oluşur. Jesse James Garrett’in kullanıcı deneyimi elementleri ise beş tane olup bunlar “strateji, kapsam, yapı, iskelet ve yüzey” şeklindedir. Her ikisi de kullanıcı deneyimine ilişkin olsa da birbirlerinden ayrımaktadırlar. Aralarındaki fark aşağıdakilerden hangisidir?
     - **Cevap A-) Morville’in yaklaşımı tasarımcılara, ürünlerini ve hizmetlerini değerlendirmek üzere bir yaklaşım sunar. Garret’ın yaklaşımı kullanıcı deneyimini etkili bir şekilde tasarlamak ve yönetmek için stratejik bir yaklaşım sağlar.**
     - B-) Morville’ın yaklaşımı kullanıcı deneyiminin sadece bir teknoloji olarak ele alır. Garret’ın yaklaşımı psikolojik, sosyal ve kültürel faktörleri de içerir.
     - C-) Morville’in yaklaşımı bir web sitesi, uygulama veya herhangi bir dijital ürünün kullanıcı deneyimine ilişkindir. Garrett’ın yaklaşımı dijital ürünleri kapsamaz.
     - D-) Garret’ın yaklaşımında“yüzey” düzeyinde belirlenen görsel tasarımın detayları ürünün son kullanıcıya nasıl görüneceği ve ne şekilde hissedileceği tanımlanır. Bu süreç Morville’in yaklaşımındaki bileşenler içerisinde yalnızca güvenilirlik ile ilgilidir.
     - E-) Garret’ın yaklaşımında “kapsam” düzeyinde ürünün özellikleri ve işlevleri belirlenir. Bunlar en çok, Morville’in yaklaşımındaki “arzu edilebilirlik” ile ilişkilidir.
 
-    > **Açıklama:** A şıkkıdır.
+    > **Açıklama:** Doğru seçenekteki cümleler 217. ve 218. sayfalardan alınmış olup iki yaklaşım, Morville’in yaklaşımın varolan bir ürün ya da hizmeti değerlendirmek amaçlı olduğunu, Garrett’ın yaklaşımının ise bir ürün ya da hizmeti tasarlarken izlenmesi gereken süreçleri belirttiğini ifade etmektedir.
+    > B seçeneği, Morviile’in yalaşımı için verilen sayfa 217’de verilen “Peteğin yedi faktörü, kullanıcı deneyiminin sadece bir teknoloji meselesi olmadığını, aynı zamanda psikolojik, sosyal ve kültürel faktörlerin de önemli olduğunu gösterir.” ümlesinden türetilmiştir. Ancak yaklaşımı “teknoloji meselesi” olarak sınırladığı için hatalıdır. Ayrıca metinde . Garret’ın yaklaşımının psikolojik, sosyal ve kültürel faktörleri de içerdiğine dair bir önerme yoktur.
+    > C seçeneği sayfa 218’deki “Garrett’in modeli, bir web sitesi, uygulama veya herhangi bir dijital ürünün kullanıcı deneyimini etkili bir şekilde tasarlamak ve yönetmek için...” cümlesinden türetilmiş olup bu tanım Morville modeli için verilmemiştir. Ancak “Morvi
+    > A şıkkıdır.
 
     ***
 1. Marc Hassenzahl’ın kullanıcı deneyimi çerçevesine ilişkin aşağıdakilerden hangisi **söylenemez?**
@@ -768,7 +823,9 @@
     - D-) Hassenzahl’ın yaklaşımı kullanıcıların sadece ihtiyaçlarını karşılamakla kalmaz, aynı zamanda onları mutlu etmeyi ve hayatlarına pozitif deneyimler katmayı hedefler.
     - E-) Hassenzahl’ın yaklaşımı, kullanıcı deneyimini sadece “kullanımı kolay” bir ürün yaratmakla sınırlamaz.
 
-    > **Açıklama:** C şıkkıdır.
+    > **Açıklama:** C seçeneğindeki cevap 221. Sayfadaki “Ona göre, kullanıcı deneyimi yalnızca bir ürünün işlevselliği ve kullanılabilirliğiyle sınırlı değildir; aynı zamanda ürünün estetik, anlamlılık, motivasyon, değer ve keyif gibi duygusal ve psikolojik yönlerini de içerir.” cümlesi çarpıtılarak oluşturulmuş olup Marc Hassenzahl’ın kullanıcı deneyimi çerçevesine ilişkin olarak söylenemez.
+    > Diğer seçenekler, ilgili bölümdeki önermelerden yola çıkarak oluşturulmuştur
+    > C şıkkıdır.
 
     ***
 1. Bir bankacılık uygulamasında kullanıcıların para transferi yapma sürecini gözlemleyerek bu işlemi tamamlamada yaşadıkları zorlukları ve zaman alıcı adımları belirlemek için, hangi kullanıcı merkezli tasarım yöntemi tercih edilmelidir?
@@ -778,7 +835,9 @@
     - D-) Odak Grupları
     - E-) Günlük Çalışmaları
 
-    > **Açıklama:** C şıkkıdır.
+    > **Açıklama:** Soru C seçeneğinde yer alan “Kullanılabilirlik Testi” altbaşlığında sayfa 225’te verilen örneğe dayanarak oluşturulmuştur. Metin şu şekildedir: “Örneğin, bankacılık uygulamasında kullanıcıların para transferi yapma sürecini test ederek bu işlemi tamamlamada yaşadıkları zorluklar ve zaman alıcı adımlar belirlenebilir.”
+    > Diğer seçeneklerdeki yöntemler bir tasarımı değerlendirmek amacıyla değil, yapılacak tasarımın taşıması gereken özellikleri anlamak için kullanılırlar. Günlük çalışmaları bunun dışındadır. Ancak bu yöntem bir tasarımın uzun süreli kullanımı da kullanıcıların fikir ve tutumlarını anlamaya yönelik olup tek bir işlevi test etmek ve buradaki problemleri ortaya çıkarmak için uygun değildir.
+    > C şıkkıdır.
 
     ***
 1. A/B Testi ve Kullanılabilirlik Testi, kullanıcı araştırmasında kullanılan iki yöntemdir. Bu yöntemler ile ilgili olarak aşağıdakilerden hangisini söylenebilir?
@@ -788,7 +847,9 @@
     - D-) Kullanıcı testi, büyük bir kullanıcı kitlesinden veri toplamak için kullanılan yapılandırılmış soru setleridir.
     - **Cevap E-) A/B testi, bir ürün veya hizmetin iki farklı versiyonu arasındaki farkı belirlemek için yapılan bir tür kullanılabilirlik testidir.**
 
-    > **Açıklama:** E şıkkıdır.
+    > **Açıklama:** A/B testi ile kulanıcı testi arasındaki temel fark, A/B testinin bir ürün veya hizmetin iki farklı versiyonu arasında, kullanılabilirlik bakımından farkı belirlemek için yapılması, kullanıcı testinin ise bir ürün veya hizmetin bir ya da birkaç işlevinin kullanımınındaki kullanılabilirlik düzeyini ölçmeye ve problemleri saptamaya yönelik olmasıdır. Her ikisinde de süre, işlem aım sayısı, sonuca ulaşılıp ulaşılmadığı gibi kriterler değerlendirilir. Kullanılabilirlik testleri genellikle laboratuvar ortamında, A/B testleri genellikle laboratuvar dışındaki kullanıcılar ile yapılsa da, her ikisi için de tam tersi mümkündür ve yapılmaktadır.
+    > A seçeneği Gözlemler (Observational Studies), B seçeneği Odak Grupları (Focus Groups), C seçeneği Kart Sıralama (Card Sorting), D seçeneği Anketler ve Anket Çalışmaları (Surveys and Questionnaires) yöntemlerini tanımlar ve bu tanımlar ne A/B testi, ne de kullanılabilirlik testi ile ilişkilendirilemez.
+    > E şıkkıdır.
 
     ***
 1. Kullanıcıları belirli bir davranışa yönlendirmek veya manipüle etmek için kullanılan ve etik dışı kabul edilen yanıltıcı arayüz tasarımlarına ne ad verilir?
@@ -798,7 +859,9 @@
     - **Cevap D-) Karanlık kalıplar**
     - E-) İmleyen
 
-    > **Açıklama:** D şıkkıdır.
+    > **Açıklama:** D seçeneğinde yer alan “Karanlık kalıplar” tanımı sayfa 230’da sorudakine benzer şekilde verilmektedir.
+    > Gölgeleme bir kullanıcı merkezli tasarım yöntemidir (s. 227) . Kısıtlamalar, sağlarlık ve imleyen, Norman’ın kullanıcı deneyimi yaklaşımında öne çıkan bazı temel kavramlar olarak listelenmiştir (s. 220).
+    > D şıkkıdır.
 
     ***
 1. Kullanıcı deneyimi tasarım yönetimi çerçevesinde ele alındığında, aşağıdakilerden hangisi **söylenemez?**
@@ -808,7 +871,8 @@
     - D-) Kullanıcıların karşılaştığı sorunları ve fırsatları anlayarak, tasarım ekibinin yaratıcı çözümler üretmesine olanak tanınır.
     - **Cevap E-) Kullanıcı merkezli tasarım sürekli olarak radikal bir yenilik arayışı içerisindedir ve operasyonel sorunları öncelikli olarak göz önüne alır.**
 
-    > **Açıklama:** E şıkkıdır.
+    > **Açıklama:** E seçeneğinde yer alan tanım sayfa 230’da Sürekli İyileştirme ve Adaptasyon başlığındaki “..yenilik artışını radikal yenilikle karıştırmak, fikirleri çok erken öldürmek ve fikirleri müşteri ihtiyaçlarına göre değil, operasyonel sorunlara dayalı olarak seçmektir.” cümlesinden adapte edilmiş olup “Tasarım yönetiminde sıklıkla yapılan bir hata..” olarak nitelendirilmektedir. Kullanıcı merkezli tasarım büyük çaplı radikal değişikliklerden çok küçük iyileştirmeler ile kullanıcı deneyiminin niteliğini arttırmayı amaçlar. Kullanıcıların beklenti, ihtiyaç, tutım ve davranışları, operasyonel sorunlardan önce gelir. Tasarım Yönetiminde Kullanıcı Deneyimi bölümündeki İş Birliği ve Ekip Yönetimi başlığı A seçeneğinde, Erişilebilirlik ve Kapsayıcılık B seçeneğinde, Kullanıcı Merkezli Anlayış C seçeneğinde, Tasarım Stratejisine Entegrasyon D seçeneğinde verilen tanımları içerir.
+    > E şıkkıdır.
 
     ***
 1. Kullanıcı deneyimine çerçevesinde tasarımda insan merkezli olma konusuna katkıda bulunan ilk disiplin olan insan-bilgisayar etkileşimi çalışmalarının, ilk olarak ne zaman ve ne bağlamda ortaya çıktığı söylenebilir?
@@ -818,7 +882,8 @@
     - D-) 1980’lerde bilgisayar teknolojileri ve özellikle Apple’ın Macintosh bilgisayarıyla
     - E-) İnternetin popülerleştiği 1990’lı yıllarla birlikte, web sitelerine ilişkin çalışmalarla
 
-    > **Açıklama:** B şıkkıdır.
+    > **Açıklama:** İnsan-bilgisayar etkileşimi üzerine yapılan ilk çalışmaların II. Dünya Savaşı sırasında özellikle uçak kokpitlerinin kullanılabilirliği ve etkinliği üzerine yapılan çalışmalarla ortaya çıktığı söylenebilir (s. 212)
+    > B şıkkıdır.
 
     ***
 1. Alan Cooper tarafında geliştirilen “persona” kavramı ile ilgili olarak aşağıdakilerden hangisi **söylenemez?**
@@ -828,6 +893,7 @@
     - D-) Persona, kullanıcıların belirli hedeflere ulaşmakta nasıl bir yol izlediğini anlamak için senaryo geliştirilmesine yardımcı olur.
     - **Cevap E-) Bir persona, hedef kitlede yer alan tüm kişilerin net bir tanımını sunar.**
 
-    > **Açıklama:** E şıkkıdır.
+    > **Açıklama:** “Persona, hedef kitlenin net bir tanımını sunar. Her yeni sistemin farklı türdeki insanlar tarafından kullanılma olasılığı olduğundan, birkaç farklı persona geliştirmek önemlidir (Benyon, 2019).” İfadesine göre E seçeneği doğru bir önerme değildir. Personalar, persona ağaçları ya da aileleri şeklinde geliştirilirler ve her biri hedef kitledeki diğerlerinden farklılıklar gösteren bir kullanıcı grubunu temsil eder.
+    > E şıkkıdır.
 
     ***

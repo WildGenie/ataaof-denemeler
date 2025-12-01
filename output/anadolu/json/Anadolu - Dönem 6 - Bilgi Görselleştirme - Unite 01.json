@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgiye sahip olmak bu zenginliğe de sahip olmak anlamına gelir... Geçmişte yokluğu insanlığa sorun olan bilgi, günümüzde kitle iletişim kavramlarından yayılan bombardıman nedeniyle  bolluğuyla sorun olmaya başlamıştır. Ancak insanlık her zaman olduğu gibi bu soruna çözüm bulma arayışına girmiş ve bu kitabın odak noktası olan bilgi görselleştirme tasarımı disiplinini ortaya çıkartmıştır."
+        "Aciklama": "Bilgiye sahip olmak bu zenginliğe de sahip olmak anlamına gelir... Geçmişte yokluğu insanlığa sorun olan bilgi, günümüzde kitle iletişim kavramlarından yayılan bombardıman nedeniyle bolluğuyla sorun olmaya başlamıştır. Ancak insanlık her zaman olduğu gibi bu soruna çözüm bulma arayışına girmiş ve bu kitabın odak noktası olan bilgi görselleştirme tasarımı disiplinini ortaya çıkartmıştır."
     },
     {
         "SoruID": 3763475,
@@ -364,7 +364,7 @@
         "SoruMetni": "Aşağıdakilerden hangisi tasarım yönetimi ve sürecin tamamlanması için kritik olan, mesajın ve atılacak adımların belirlendiği süreci temsil eder?",
         "A": "Kullanıcı grubu",
         "B": "Planlama",
-        "C": "Biçimlendirme<br/>",
+        "C": "Biçimlendirme",
         "D": "Problemin tanımlanması",
         "E": "Tasarım Ortamı",
         "DogruCevap": "B",
@@ -382,11 +382,11 @@
     {
         "SoruID": 3763493,
         "SoruMetni": "Bilgi görselleştirme ürünlerinin kapalı ve açık alanlarda kullanılması, etkileşimli medyada var olması hangi tasarım öğesini ifade eder?",
-        "A": "Biçimlendirme<br/>",
+        "A": "Biçimlendirme",
         "B": "Kullanıcı grubu",
         "C": "Planlama",
-        "D": "Tasarım Ortamı<br/>",
-        "E": "Problemin tanımlanması<br/>",
+        "D": "Tasarım Ortamı",
+        "E": "Problemin tanımlanması",
         "DogruCevap": "D",
         "DersAd": "Bilgi Görselleştirme",
         "Unite": 1,

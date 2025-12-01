@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 337734,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi kurumsal kimlik tasarımı bileşenlerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi kurumsal kimlik tasarımı bileşenlerinden biri <u>değildir</u>?</strong>",
         "A": "Logo",
         "B": "Yazı tipi",
         "C": "Stil yönergesi",
@@ -9,14 +9,15 @@
         "E": "Bütçe düzenlemesi",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337735,
@@ -28,14 +29,15 @@
         "E": "Kurumun misyonunu anlatan imgeler",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 337736,
@@ -54,11 +56,12 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 337737,
-        "SoruMetni": "I. Bir kuruma ait ürünler, ürün ambalajları<br/> <br/>II. Hizmet veya markanın ismi<br> <br/>III. Tabelalar, yönlendirme elemanları<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri kurumsal kimliği oluşturabilecek elemanlar arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Bir kuruma ait ürünler, ürün ambalajları<br/>II. Hizmet veya markanın ismi<br/>III. Tabelalar, yönlendirme elemanları<br/><strong>Yukarıdakilerden hangisi ya da hangileri kurumsal kimliği oluşturabilecek elemanlar arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -66,14 +69,15 @@
         "E": "I, II ve III",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337738,
@@ -92,7 +96,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337739,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337740,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337741,
@@ -149,11 +156,12 @@
         "GelYer": 2,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 346748,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi \"Kurumsal Kimlik Tasarımı Bileşenleri\" arasında yer alan ve kurum kimliğini oluşturan elemanların alt başlıklardan biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi \"Kurumsal Kimlik Tasarımı Bileşenleri\" arasında yer alan ve kurum kimliğini oluşturan elemanların alt başlıklardan biri <u>değildir</u>?</strong>",
         "A": "Kurum davranışı",
         "B": "Kurum iletişimi",
         "C": "Görsel kimlik / tasarım",
@@ -161,14 +169,15 @@
         "E": "Çevre",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 346749,
@@ -180,18 +189,19 @@
         "E": "Görseller",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 346750,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi kurumsal kimlik tasarım aşamalarından biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi kurumsal kimlik tasarım aşamalarından biri <u>değildir</u>?</strong>",
         "A": "Resim çizme",
         "B": "Ön çalışma",
         "C": "Tasarım aşaması",
@@ -199,18 +209,19 @@
         "E": "Tasarımın onaylanması ve teslim",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 346751,
-        "SoruMetni": "Kurumsal kimlik tasarımında tipografi önemli bir rol oynamaktadır.<br/> <br/><strong>Buna göre özellikle yazı tipinin seçilmesinde ve tasarımın oluşturulmasında aşağıdakilerden hangisine <u>dikkat edilmez</u>?</strong>",
+        "SoruMetni": "Kurumsal kimlik tasarımında tipografi önemli bir rol oynamaktadır.<br/><strong>Buna göre özellikle yazı tipinin seçilmesinde ve tasarımın oluşturulmasında aşağıdakilerden hangisine <u>dikkat edilmez</u>?</strong>",
         "A": "Fotoğraf",
         "B": "Bütçe",
         "C": "Görsel imgeler",
@@ -218,14 +229,15 @@
         "E": "Renk",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 347718,
@@ -237,14 +249,15 @@
         "E": "Kurumun vizyonu",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 347720,
@@ -256,14 +269,15 @@
         "E": "Yazı tipi",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 347722,
@@ -275,14 +289,15 @@
         "E": "Bütçe",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 347723,
@@ -294,14 +309,15 @@
         "E": "Tasarım yapılırken pastel renk kullanılması şarttır.",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 347725,
@@ -313,13 +329,14 @@
         "E": "Serif içermeyen bir font olması zorunluluğu",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım II",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 6,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 526,
         "OBSDersId": 82519,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     }
 ]

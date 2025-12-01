@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 173069,
@@ -35,11 +36,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 173073,
-        "SoruMetni": "<strong>En yüksek megapiksel özelliğine sahip makine türü aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>En yüksek megapiksel özelliğine sahip makine türü aşağıdakilerden hangisidir?</strong>",
         "A": "Aksiyon",
         "B": "DSLR",
         "C": "Kompakt",
@@ -54,7 +56,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 173079,
@@ -73,11 +76,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 173089,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi profesyonel, sağlam ve dayanıklı makine modellerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi profesyonel, sağlam ve dayanıklı makine modellerinden biri <u>değildir</u>?</strong>",
         "A": "Nikon D850",
         "B": "Canon 1DXMII",
         "C": "Pentax K-1II",
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 173111,
@@ -111,7 +116,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 173115,
@@ -130,7 +136,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 173119,
@@ -149,7 +156,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 173123,
@@ -168,7 +176,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 173126,
@@ -187,7 +196,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 178467,
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 178469,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 178472,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 178475,
@@ -263,11 +276,12 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 178479,
-        "SoruMetni": "<strong>Drone fotoğrafçılığı, insansız uçak sistemi (UAS) veya daha yaygın olarak drone olarak bilinen, uzaktan yönetilen veya otonom ………  ile yapılan fotoğraf/video çekimidir.</strong><br/> <br/><strong>Metinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "<strong>Drone fotoğrafçılığı, insansız uçak sistemi (UAS) veya daha yaygın olarak drone olarak bilinen, uzaktan yönetilen veya otonom ……… ile yapılan fotoğraf/video çekimidir.</strong><br/><strong>Metinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Paramotor",
         "B": "İnsansız hava aracı",
         "C": "GPS aracı",
@@ -282,11 +296,12 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 178482,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi kameralı akıllı cep telefonlarının özellikleri arasında <u>yer almaz</u>? </strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi kameralı akıllı cep telefonlarının özellikleri arasında <u>yer almaz</u>? </strong>",
         "A": "En yaygın kullanılan kameralı cihazlardır.",
         "B": "Sabit bir ya da birden fazla lense sahiptirler.",
         "C": "Küçük algılayıcıları bulunur.",
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 178486,
@@ -320,7 +336,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 178487,
@@ -339,11 +356,12 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 178488,
-        "SoruMetni": "35 mm makinelerden ............. dinamik aralık alınıyorken orta formatta bu ............. olur.<br/> <br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "35 mm makinelerden ............. dinamik aralık alınıyorken orta formatta bu ............. olur.<br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "8 bit - 12 bit",
         "B": "12 bit - 14 bit",
         "C": "14 bit - 16 bit",
@@ -358,7 +376,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 178489,
@@ -377,7 +396,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 331731,
@@ -396,11 +416,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 331734,
-        "SoruMetni": "<strong>Kompakt makinelerden daha sağlam ve dayanıklı olan ve genellikle aşırı hızlı, hareketli işlerde ve sürekli çekimlerde kullanmaya elverişli yapıdaki kameralar aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Kompakt makinelerden daha sağlam ve dayanıklı olan ve genellikle aşırı hızlı, hareketli işlerde ve sürekli çekimlerde kullanmaya elverişli yapıdaki kameralar aşağıdakilerden hangisidir?</strong>",
         "A": "Aksiyon kameraları",
         "B": "SLR kameralar",
         "C": "Drone kameralar",
@@ -415,15 +436,16 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 331737,
         "SoruMetni": "<strong>İleri amatör ve profesyonel birçok fotoğrafçıya mükemmel görüntü kalitesi ve ciddi kullanım olanakları sunan, üzerinde değiştirilebilir lens olan ve çekim öncesi görülen çerçevenin çekimde de aynı şekilde sensöre düşürülmesi ile görüntü oluşturan fotoğraf makinesi türü aşağıdakilerden hangisidir?</strong>",
         "A": "SLR makineler",
-        "B": "Analog makineler",
-        "C": "Küçük (Kompakt) makineler",
-        "D": "DSLR makineler",
+        "B": "Analog makineler",
+        "C": "Küçük (Kompakt) makineler",
+        "D": "DSLR makineler",
         "E": "Klasik makineler",
         "DogruCevap": "D",
         "DersAd": "Sayısal Fotoğraf",
@@ -434,11 +456,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 331741,
-        "SoruMetni": "I. İki veya daha fazla lenslidir.<br/> <br/>II. Lens sayısı kadar görüntü algılayıcısına sahiptir.<br> <br/>III. İnsanın görme biçimini simüle eder.<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri stereo kameraların özellikleri arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. İki veya daha fazla lenslidir.<br/>II. Lens sayısı kadar görüntü algılayıcısına sahiptir.<br/>III. İnsanın görme biçimini simüle eder.<br/><strong>Yukarıdakilerden hangisi ya da hangileri stereo kameraların özellikleri arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -453,7 +476,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 331745,
@@ -472,6 +496,7 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     }
 ]

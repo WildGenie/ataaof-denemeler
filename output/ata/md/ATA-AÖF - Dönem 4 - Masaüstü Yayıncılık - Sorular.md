@@ -156,7 +156,7 @@
     - **Cevap D-) Bir görüntüde pixel sayısı ne kadar az olursa görüntünün netliği de o derece iyi olur.**
     - E-) Pixel yoğunluklarının grafiksel sunumu, görüntünün çözünürlüğüyle alakalıdır.
     ***
-1. **Renk kavramı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+1. **Renk kavramı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
     - A-) Renk, düşünceleri ve duyguları tasarımın başka hiçbir ögesinin yapamadığı şekilde temsil eder.
     - **Cevap B-) Masaüstü yayıncılıkta genellikle beyaz renkli A5 sayfası kullanılmaktadır.**
     - C-) Tasarımda amaçlanan etkiyi elde etmek için rengin nasıl sunulacağı ve hangi etkinin istenildiği, yayıncılık için önem teşkil etmektedir.
@@ -191,7 +191,7 @@
     - D-) Çukur
     - E-) Ofset
     ***
-1. I. Tasarımın etkinlik alanını düzenler.<br />II. Tasarımı böler, yönlendirir, sınırlarını belirler.
+1. I. Tasarımın etkinlik alanını düzenler.<br />II. Tasarımı böler, yönlendirir, sınırlarını belirler.<br />III. Tasarım yüzeyine ton ve ritm verir.<br />**Bu özellikler aşağıdaki tasarımın temel kavramlarından hangisine aittir?**
     - A-) Nokta
     - B-) Yüzey
     - C-) Renk
@@ -261,7 +261,7 @@
     - D-) Adobe Premiere
     - **Cevap E-) 3DS Max**
     ***
-1. **Aşağıdakilerden hangisi metinler üzerinde en sade ve temel tasarıma olanak tanıyan kelime işlem programlarından biri değildir?**
+1. **Aşağıdakilerden hangisi metinler üzerinde en sade ve temel tasarıma olanak tanıyan kelime işlem programlarından biri değildir?**
     - A-) Wordpad
     - B-) World
     - C-) Write
@@ -282,7 +282,7 @@
     - D-) Baskı
     - E-) Mizanpaj
     ***
-1. I. Tipo (yüksek) baskı<br />II. Serigrafi (elek) baskı
+1. I. Tipo (yüksek) baskı<br />II. Serigrafi (elek) baskı<br />III. Ofset baskı<br />**Yukarıdakilerden hangisi ya da hangileri baskı tekniğidir?**
     - A-) Yalnız I
     - B-) I ve II
     - C-) I ve III
@@ -396,11 +396,11 @@
     - E-) Renkler
     ***
 1. **Aşağıdakilerin hangisinde masaüstü yayımcılık geliştirme sürecinin adımları doğru bir sıra ile verilmiştir?**
-    - **Cevap A-) Analiz - Tasarım - Uygulama - Geliştirme - Değerlendirme**
-    - B-) Tasarım - Analiz - Uygulama - Geliştirme - Değerlendirme
+    - **Cevap A-) Analiz - Tasarım - Uygulama - Geliştirme - Değerlendirme**
+    - B-) Tasarım - Analiz - Uygulama - Geliştirme - Değerlendirme
     - C-) Analiz - Geliştirme - Tasarım - Uygulama - Değerlendirme
-    - D-) Tasarım - Uygulama - Geliştirme - Değerlendirme - Analiz
-    - E-) Tasarım - Uygulama - Değerlendirme - Analiz - Geliştirme
+    - D-) Tasarım - Uygulama - Geliştirme - Değerlendirme - Analiz
+    - E-) Tasarım - Uygulama - Değerlendirme - Analiz - Geliştirme
     ***
 1. **Aşağıdakilerden hangisi masaüstü yayımcılık geliştirme sürecinin tasarım aşamasında görev alan kişilerin sahip olması gereken yeterliklerden biri değildir?**
     - A-) Çözümleri görselleştirme
@@ -417,21 +417,21 @@
     - D-) Büyük küçük harf kullanımı
     - E-) Vurgulama
     ***
-1. I. Times New Roman<br />II. Bookman Old Style
+1. I. Times New Roman<br />II. Bookman Old Style<br />III. Cambria<br />IV. Garamond<br />**Yukarıdaki yazı tiplerinden hangisi ya da hangileri Serif yazı tipi kategorisinde yer alır?**
     - A-) Yalnız I
     - B-) I ve II
     - C-) I ve III
     - D-) I, II ve IV
     - **Cevap E-) I, II, III ve IV**
     ***
-1. I. Arial<br />II. Calibri
+1. I. Arial<br />II. Calibri<br />III. Lucida Bright<br />IV. Comic Sans<br />**Yukarıdaki yazı tiplerinden hangisi ya da hangileri Sans Serif yazı tipi kategorisinde yer alır?**
     - A-) I, II, III ve IV
     - **Cevap B-) I, II ve IV**
     - C-) I ve III
     - D-) Yalnız I
     - E-) I ve II
     ***
-1. I. Metnin puntosunu büyütme<br />II. Metnin altını çizme
+1. I. Metnin puntosunu büyütme<br />II. Metnin altını çizme<br />III. Metni kalın yazma<br />IV. Farklı renk kullanma<br />**Vurgulama için yukarıdaki yöntemlerden hangisi ya da hangileri kullanılabilir?**
     - A-) Yalnız I
     - B-) I ve II
     - C-) I ve III
@@ -543,7 +543,7 @@
     - **Cevap D-) Word**
     - E-) SmartArt grafikleri
     ***
-1. I. Metnin puntosunu büyütme<br />II. Altını çizme
+1. I. Metnin puntosunu büyütme<br />II. Altını çizme<br />III. Kalın yazma<br />**Yukarıdakilerden hangisi ya da hangileri vurgulama yapılırken kullanılanlar arasında yer almaktadır?**
     - A-) Yalnız I
     - B-) I ve II
     - C-) I ve III
@@ -586,14 +586,14 @@
     - D-) 2 sayfalı
     - E-) 6 sayfalı
     ***
-1. **Aşağıdakilerden hangisi broşür tasarımında dikkat edilmesi gereken özelliklerinden biri değildir?**
+1. **Aşağıdakilerden hangisi broşür tasarımında dikkat edilmesi gereken özelliklerinden biri değildir?**
     - A-) Dikkat çekici ögeler kolay anlaşılmalı, sade ve basit olmalıdır.
     - B-) Verilmek istenen mesajda hedef kitleye dikkat edilmelidir.
     - C-) Tasarımda kâğıtların ebat ve boyutuna karar verilmelidir.
     - D-) Broşürde karmaşık ifade ve görseller kullanılmamalıdır.
     - **Cevap E-) Broşürde tüm konular ön plana çıkarılmalıdır.**
     ***
-1. **Aşağıdakilerden hangisi Publisher 2016 programında hazırlanan materyallerden biri d****eğildi****r?**
+1. **Aşağıdakilerden hangisi Publisher 2016 programında hazırlanan materyallerden biri d****eğildi****r?**
     - A-) Bülten
     - **Cevap B-) Sunum**
     - C-) Etiket
@@ -663,12 +663,12 @@
     - D-) Sayfa tasarımı
     - E-) Giriş
     ***
-1. I. Kurum, kuruluş ya da birimlerin reklamlarını yapmak<br />II. Bir ürün veya hizmet satmaya zorlamak
+1. I. Kurum, kuruluş ya da birimlerin reklamlarını yapmak<br />II. Bir ürün veya hizmet satmaya zorlamak<br />III. Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programları ile bilgi vermek<br />**Yukarıdakilerden hangisi ya da hangileri broşürlerin kullanım amaçları arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - **Cevap C-) I ve III**
     - D-) II ve III
-    - E-) I, II ve III
+    - E-) I, II ve III
     ***
 1. **Aşağıdakilerden hangisi broşürlerde içerik sunumuna yönelik dikkat edilmesi gereken durumlardan biridir?**
     - **Cevap A-) Öncellikle broşürde vurgulanmak istenen ana konular ortaya çıkarılmalıdır.**
@@ -677,7 +677,7 @@
     - D-) Broşürde yazım ve dil bilgisi kurallarına özen gösterilmelidir.
     - E-) Dikkat çekme sürecinde karmaşık ifadeler veya görseller kullanılmalıdır.
     ***
-1. **Publisher 2016 çalışma ortamında yayın içerisinde yazım denetimi yapma, eş anlamlıları bulma ve dil işlemleri ile metni başka bir dile çevirme işlemlerinin yapıldığı sekme aşağıdakilerden hangisidir?**
+1. **Publisher 2016 çalışma ortamında yayın içerisinde yazım denetimi yapma, eş anlamlıları bulma ve dil işlemleri ile metni başka bir dile çevirme işlemlerinin yapıldığı sekme aşağıdakilerden hangisidir?**
     - **Cevap A-) Gözden Geçir**
     - B-) Görünüm
     - C-) Sayfa Tasarımı
@@ -945,10 +945,815 @@
     - D-) Target
     - E-) Preview
     ***
-1. I. 3D Studio Max genellikle üç boyutlu modelleme için kullanılır.<br />II. Adobe Photoshop yalnızca statik grafik düzenleme amacıyla kullanılır ve animasyon için uygun değildir.
+1. I. 3D Studio Max genellikle üç boyutlu modelleme için kullanılır.<br />II. Adobe Photoshop yalnızca statik grafik düzenleme amacıyla kullanılır ve animasyon için uygun değildir.<br />III. Maya, üç boyutlu animasyon, modelleme, benzetim ve görüntüleme yazılımıdır.<br />**Animasyon tasarımında kullanılan yazılımlara ilişkin yukarıdakilerden hangisi ya da hangileri doğrudur?**
     - A-) Yalnız II
     - **Cevap B-) I ve III**
     - C-) I ve II
     - D-) II ve III
     - E-) I, II ve III
+    ***
+## Unite 8
+1. **Aşağıdakilerden hangisi uçuk pembe renk tonunun psikolojik etkileri arasında yer almaz?**
+    - A-) Nezaket
+    - B-) Yumuşaklık
+    - **Cevap C-) Cesaret**
+    - D-) Mahcubiyet
+    - E-) Tatlılık
+    ***
+1. **Sessizlik, verimlilik, hayat, büyüme, doğa, bilgelik ve inançlılığı çağrıştıran renk türü aşağıdakilerden hangisidir?**
+    - A-) Kırmızı
+    - **Cevap B-) Yeşil**
+    - C-) Turuncu
+    - D-) Mavi
+    - E-) Beyaz
+    ***
+1. **Aşağıdakilerden hangisi kitap ve dergi tasarımında çoklu ortam içeriklerinin kullanımı hakkında yanlıştır?**
+    - A-) Tasarımda uygun renklere yer verilmelidir.
+    - B-) Olabildiğince gerçeğe yakın görsellerden faydalanılmalıdır.
+    - C-) Yeni bir kavram veya konuyu açıklarken bilindik eski kavramlardan benzer olanlarıyla ilişkilendirilmelidir.
+    - **Cevap D-) Fazla sayıda renk kullanarak okuyucunun dikkati çekilmelidir.**
+    - E-) Kavram veya ana noktalar arasındaki ilişkileri anlatmak için grafik, akış şemaları veya haritalar gibi görsellerden faydalanılmalıdır.
+    ***
+1. I. Yayınlanacak ülke<br />II. Yayının hitap ettiği yaş grubu<br />III. Tasarımda kullanılan font<br />**Yukarıdakilerden hangisi ya da hangileri tasarımda dikkat edilmesi gereken unsurlardandır?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. **Aşağıdakilerden hangisi InDesign programına dışardan belge eklemek için kullanılan kısa yoldur?**
+    - A-) Ctrl + E
+    - **Cevap B-) Ctrl + D**
+    - C-) Ctrl + W
+    - D-) Ctrl + J
+    - E-) Ctrl + M
+    ***
+1. **Aşağıdakilerden hangisi InDesign programına eklenen resme ait bir rengi seçmek için kullanılır?**
+    - A-) Kalem Aracı
+    - B-) Degrade Renk Örneği Aracı
+    - C-) İçerik Toplayıcı Aracı
+    - **Cevap D-) Damlalık Aracı**
+    - E-) Dolgu / Kontur Aracı
+    ***
+1. **Aşağıdakilerden hangisi InDesign programında oluşturulan belgenin varsayılan dosya uzantısıdır?**
+    - **Cevap A-) .ind**
+    - B-) .pdf
+    - C-) .epub
+    - D-) .dsg
+    - E-) .psd
+    ***
+1. I. Baskı<br />II. Web<br />III. Dijital Yayıncılık<br />**Yukarıdakilerden hangisi ya da hangileri InDesign ile hazırlanan belgenin yayımlanma hedeflerindendir?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. I. dpi değeri yükseldikçe görüntü kalitesi artar.<br />II. 1” karedeki nokta sayısına dpi denir.<br />III. En yüksek dpi değeri 72’dir.<br />**Yukarıdakilerden hangisi ya da hangileri dpi için doğrudur?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - **Cevap C-) I ve II**
+    - D-) II ve III
+    - E-) I, II ve III
+    ***
+1. **Kırmızı rengin ABD kültürüne göre anlamı aşağıdakilerden hangisidir?**
+    - **Cevap A-) Tehlike**
+    - B-) Asalet
+    - C-) Ölüm
+    - D-) Yaşam
+    - E-) Mutluluk
+    ***
+1. **Aşağıdaki yazıtipi boyutlarından hangisi 7-12 yaş arası için uygundur?**
+    - A-) 10 punto
+    - B-) 11 punto
+    - C-) 12 punto
+    - D-) 13 punto
+    - **Cevap E-) 14 punto**
+    ***
+1. **Aşağıdaki yazı tiplerinden hangisi dijital bir yayında okunabilirlik açısından en uygun olanıdır?**
+    - **Cevap A-) Calibri**
+    - B-) Monotype Corsiva
+    - C-) Comic Sans
+    - D-) Segoe Script
+    - E-) Book Antiqua
+    ***
+1. I. Cilt payı<br />II. Sayfa boyutu<br />III. Kâğıt türü<br />**Yukarıdakilerden hangisi ya da hangileri tasarımı etkileyen unsurlar arasında yer alır?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. **Aşağıdaki yazı tipi boyutlarından hangisi yetişkinler için uygun değildir?**
+    - A-) 11 punto
+    - B-) 12 punto
+    - C-) 13 punto
+    - D-) 14 punto
+    - **Cevap E-) 15 punto**
+    ***
+1. **Aşağıdaki kültürlerden hangisinde beyaz renk “ölüm” anlamına gelmektedir?**
+    - **Cevap A-) Japon**
+    - B-) Hindistan
+    - C-) Çin
+    - D-) Fransa
+    - E-) Arap
+    ***
+1. I. Okunabilir olmalı<br />II. Anlaşılabilir olmalı<br />III. Uygun renkler kullanılmalı<br />**Yukarıdakilerden hangisi ya da hangileri içeriklerin görsel tasarımında dikkat edilmesi gereken hususlardandır?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. **Sessizlik, verimlilik, hayat, büyüme, doğa, bilgelik ve inancı çağrıştıran renk aşağıdakilerden hangisidir?**
+    - **Cevap A-) Yeşil**
+    - B-) Sarı
+    - C-) Kahverengi
+    - D-) Kırmızı
+    - E-) Taba
+    ***
+1. **InDesign programında belge içerisindeki sayfaların özelliklerini düzenlemek için kullanılan menüye ne ad verilir?**
+    - **Cevap A-) Mizanpaj Menüsü**
+    - B-) Düzen Menüsü
+    - C-) Yazım Menüsü
+    - D-) Nesne Menüsü
+    - E-) Dosya Menüsü
+    ***
+## Unite 9
+1. **Scribus programında sahneye şekil eklemek için kullanılan komut aşağıdakilerden hangisidir?**
+    - A-) Insert Text Frame
+    - B-) Insert Image Frame
+    - C-) Insert Render Frame
+    - **Cevap D-) Insert Shape**
+    - E-) Insert Line
+    ***
+1. **Aşağıdakilerden hangisi Scribus programında kullanılan resim efektleri arasında yer almaz?**
+    - A-) Bulanıklaştır
+    - B-) Parlaklık
+    - C-) Renklendir
+    - D-) Keskinleştir
+    - **Cevap E-) Hizalama**
+    ***
+1. **Scribus’ta ekrana metin, resim, tablo, şekil gibi herhangi bir nesne eklemek için kullanılan menü aşağıdakilerden hangisidir?**
+    - **Cevap A-) Ekle**
+    - B-) Sayfa
+    - C-) Görüntüle
+    - D-) Ekstralar
+    - E-) Yardım
+    ***
+1. I. Linux<br />II. FreeBSD<br />III. Mac OS X<br />IV. Windows<br />**Yukarıdakilerden hangisi ya da hangileri Scribus’u destekleyen işletim sistemleri arasında yer alır?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) II ve III
+    - D-) II, III ve IV
+    - **Cevap E-) I, II, III ve IV**
+    ***
+1. **Scribus’ta bir resmi belirli noktalarından müdahale ederek eğmek istenirse aşağıdakilerden hangisi kullanılır?**
+    - A-) Bounding Box
+    - **Cevap B-) Nodelar**
+    - C-) Frame Shape
+    - D-) Çerçeveler
+    - E-) Border
+    ***
+1. **Scribus’ta resim efektleri penceresinde aşağıdakilerden hangisi yapılamaz?**
+    - A-) Parlaklık
+    - B-) Kontrast
+    - **Cevap C-) Boyutlandırma**
+    - D-) Bulanıklaştırma
+    - E-) Renklendirme
+    ***
+1. **Scribus’ta belgeler aşağıdaki hangi formatta kaydedilemez?**
+    - **Cevap A-) PSD**
+    - B-) SLA
+    - C-) PNG
+    - D-) PDF
+    - E-) EFS
+    ***
+1. **Bir Scribus tablosunda “Delete Columns” komutu ile hangi işlem yapılır?**
+    - A-) Satır silinir.
+    - **Cevap B-) Sütun silinir.**
+    - C-) Satır eklenir.
+    - D-) Sütun eklenir.
+    - E-) Tablo silinir.
+    ***
+1. **Bir Scribus tablosunda satır ekleme işlemi yapılırken aşağıdakilerden hangisi kullanılır?**
+    - A-) Insert Columns
+    - B-) Delete Columns
+    - **Cevap C-) Insert Rows**
+    - D-) Delete Rows
+    - E-) Insert Table
+    ***
+1. **Scribus’ta aşağıdaki komut tuşlarından hangisi kullanılarak Özellikler penceresi açılır?**
+    - A-) F1
+    - **Cevap B-) F2**
+    - C-) F3
+    - D-) F4
+    - E-) F5
+    ***
+1. **Scribus’ta yeni belge oluşturulurken aşağıdakilerden hangisi yapılamaz?**
+    - A-) Kenarlık ayarları
+    - B-) Sayfa ölçüsü
+    - C-) Sayfa sayısı
+    - **Cevap D-) Hizalama**
+    - E-) Yerleşim
+    ***
+1. **Scribus’ta belgeye herhangi bir nesne eklendiğinde nesne ile ilgili ayarları yapmak için aşağıdaki kısa yollardan hangisi kullanılır?**
+    - A-) F5
+    - B-) F4
+    - C-) F3
+    - **Cevap D-) F2**
+    - E-) F1
+    ***
+1. **Scribus’ta iki nesne birbiri üzerine gelecek şekilde konumlandırılacaksa aşağıdaki seçeneklerden hangisi kullanılır?**
+    - **Cevap A-) Seviye**
+    - B-) Kenarlar
+    - C-) Ölçeklendirme
+    - D-) Düzenleme
+    - E-) Hizalama
+    ***
+1. **Bir tabloda “Delete Rows” komutu ile hangi işlem yapılır?**
+    - **Cevap A-) Satır silinir**
+    - B-) Sütun silinir
+    - C-) Satır eklenir
+    - D-) Sütun eklenir
+    - E-) Tablo silinir
+    ***
+1. **Scribus’ta belgeye herhangi bir nesne eklendiğinde nesne ile ilgili ayarları yapmak için aşağıdakilerden hangisi takip edilir?**
+    - **Cevap A-) Pencereler / Özellikler**
+    - B-) Sayfa / Görüntüle
+    - C-) Sayfa / Özellikler
+    - D-) Ekle / Nesne
+    - E-) Görüntüle / Özellikler
+    ***
+1. **Scribus’ta sayfaya ızgara eklemek için aşağıdakilerden hangisi takip edilir?**
+    - A-) Ekle / Izgara
+    - B-) Düzenle / Kılavuz çizgisi
+    - **Cevap C-) Sayfa / Kılavuz yönetimi**
+    - D-) Hizalama / Izgara
+    - E-) Ekle / Kılavuz çizgisi
+    ***
+## Unite 10
+1. **Aşağıdakilerden hangisi Ofset baskı hakkında yanlıştır?**
+    - A-) Ofset baskı genellikle kâğıt yüzeyinde kullanılan baskı tekniğidir.
+    - **Cevap B-) Ofset baskı dünyada nadir kullanılan baskı tekniğidir.**
+    - C-) Ofset baskı, Amerikalı Ira W. Rubel tarafından bulunmuştur.
+    - D-) Ofset sisteminin ana sistemi merdane ve kazan olmak üzere küçüklü-büyüklü silindir mekanizmalardan oluşur.
+    - E-) Ofset baskı, yağ bazlı ofset mürekkebiyle nemlendirme suyunun birbirini kabul etmemesi prensibine dayanır.
+    ***
+1. **Aşağıdakilerden hangisi tipo baskı ile ilgili olarak yanlıştır?**
+    - A-) Metal harflerle yapılan yüksek baskıdır.
+    - B-) Uzun ve zahmetli bir baskı hazırlık süreci gerektirir.
+    - **Cevap C-) Günümüzde yaygın bir şekilde kullanılmaktadır.**
+    - D-) Tipo baskı makineleri daha çok matbaacılığa hizmet eder.
+    - E-) Sistem, mürekkep merdane sistemi, kalıp şaşesi ve kâğıt kazanından oluşur.
+    ***
+1. **Aşağıdakilerden hangisi flekso baskı ile ilgili olarak yanlıştır?**
+    - A-) Fleksoda çoğunlukla bobin kâğıt veya folyolar üzerine baskı alınır.
+    - B-) Flekso baskı tekniği ile esnek veya esnek olmayan malzemelere baskı yapılabilir.
+    - C-) Flekso baskıda, baskı yapılacak malzemenin çözgü ünitesine bağlanıp sargı ünitesine kadar geçen yola baskı yolu denir.
+    - **Cevap D-) Flekso baskı sadece çok küçük ebatlı işlerde kullanılır.**
+    - E-) Flekso baskı yapılırken düşük viskoziteli flekso baskı mürekkepleri kullanılır.
+    ***
+1. **Tifdruk baskı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Tifdruk, matbaacılıkta kullanılan temel baskı tekniklerinden biridir.
+    - B-) Tifdruk baskıda akışkanlığı yüksek çabuk buharlaşan sıvı mürekkepler kullanılır.
+    - **Cevap C-) Tifdruk baskıda kabartma klişe kullanılmaktadır.**
+    - D-) Tifdruk baskı çok özel kâğıtlar gerektirdiği için masraflı bir tekniktir.
+    - E-) Tifdruk baskı günümüzde posta pulları, bazı banknotlar ve hisse senetlerinin basımında kullanılmaktadır.
+    ***
+1. **Mısır’da geliştirilen rahiplere özgü yazma biçimi aşağıdakilerden hangisidir?**
+    - A-) Çivi yazısı
+    - **Cevap B-) Hiyeroglif**
+    - C-) Serigrafi
+    - D-) Fitogram
+    - E-) İmgelem
+    ***
+1. **Fenike alfabesinin ilk olarak kullanıldığı zaman aşağıdakilerden hangisidir?**
+    - A-) MÖ 3500
+    - B-) MÖ 2600
+    - C-) MÖ 2000
+    - **Cevap D-) MÖ 1500**
+    - E-) MÖ 600
+    ***
+1. **Aşağıdakilerden hangisi Bergamalıların MÖ 170’te geliştirdiği yazım ortamıdır?**
+    - A-) Kenevir
+    - B-) Paçavra
+    - C-) Ağaç kabuğu
+    - D-) Papirüs
+    - **Cevap E-) Parşömen**
+    ***
+1. **Steno sistemini geliştirenler aşağıdakilerden hangisidir?**
+    - A-) Sümerler
+    - B-) Mısırlılar
+    - **Cevap C-) Romalılar**
+    - D-) Babiller
+    - E-) Çinliler
+    ***
+1. **Aşağıdakilerden hangisi metal harflerle yapılan yüksek baskıdır?**
+    - **Cevap A-) Tipo**
+    - B-) Serigrafi
+    - C-) Ofset
+    - D-) Flekso
+    - E-) Tifdruk
+    ***
+1. Serigrafi baskıda kalıp ipek vb. dokümanlardan oluştuğu için …………. olarak adlandırılmaktadır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) ölçek
+    - **Cevap B-) elek**
+    - C-) delik
+    - D-) kalıp
+    - E-) örnek
+    ***
+1. **1904 yılında Amerikalı Ira W. Rubel aşağıdaki hangi baskı tekniğini geliştirmiştir?**
+    - A-) Serigrafi
+    - B-) Dijital
+    - C-) Tipo
+    - D-) Tifdruk
+    - **Cevap E-) Ofset**
+    ***
+1. **Suyun yağ ile birbirine karışmaması prensibine dayanan baskı tekniği aşağıdakilerden hangisidir?**
+    - A-) Tipo
+    - B-) Tifdruk
+    - **Cevap C-) Ofset**
+    - D-) Dijital
+    - E-) Serigrafi
+    ***
+1. **En önemli özelliği net, yumuşak ve her kopyası birbirinin tam benzeri sonuç veren baskı türü aşağıdakilerden hangisidir?**
+    - A-) Ofset
+    - B-) Tipo
+    - C-) Flekso
+    - **Cevap D-) Tifdruk**
+    - E-) Serigrafi
+    ***
+1. **Flekso baskıda, baskı yapılacak malzemenin çözgü ünitesine bağlanıp sargı ünitesine kadar geçen yola verilen isim aşağıdakilerden hangisidir?**
+    - A-) Geçiş ünitesi
+    - **Cevap B-) Baskı yolu**
+    - C-) Bağ birimi
+    - D-) Konum tanımlama
+    - E-) Ardışık birim
+    ***
+1. **Piktografik bir imgenin fonetik değeri yerine kullanılması aşağıdakilerden hangisidir?**
+    - A-) Tarto İlkesi
+    - B-) Zaros İlkesi
+    - C-) Denes İlkesi
+    - **Cevap D-) Rebus İlkesi**
+    - E-) Virgo İlkesi
+    ***
+1. Tek kaynağı ……………. olan papirüs kamışlarının talebi karşılayamaması nedeniyle deri yazma aracı olarak sıkça kullanılmıştır.<br />**Cümlede boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) Mısır**
+    - B-) Fenike
+    - C-) Arabistan
+    - D-) Sümer
+    - E-) Roma
+    ***
+1. I. Kitap ucuzlamıştır.<br />II. Okuryazar sayısı artmıştır.<br />III. Sanatta gerileme olmuştur.<br />**Yukarıdakilerden hangisi ya da hangileri matbaayla ilgili bir gelişmedir?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) Yalnız III
+    - **Cevap D-) I ve II**
+    - E-) II ve III
+    ***
+1. **Materyal hazırlarken kalıp çekimi öncesinde işin son kez kontrol edilmesi ve sayfa numaralarının birbirini takip edip etmediğinin belirlenmesi amacıyla yapılan işleme ne ad verilir?**
+    - **Cevap A-) Ozalit prova**
+    - B-) Baskı provası
+    - C-) Montaj
+    - D-) Dizgi
+    - E-) Taslak çalışması
+    ***
+## Unite 11
+1. **Aşağıdakilerden hangisi e-kitap ile ilgili olarak** **yanlıştır?**
+    - **Cevap A-) E-kitap, yazılım ve donanım parçalarının birleşimi olan dijital kitaplardır.**
+    - B-) E-kitaplar, geleneksel kitaplardan farklı olarak elektronik ortamlarda açıklama yapılabilen, arama fonksiyonunu gerçekleştiren ve bağlantıları kullanan dijital nesneler olarak görülebilir.
+    - C-) Bir metnin e-kitap olabilmesi için metin zenginleştirici olarak adlandırılan yazılımların içinde bulunması gerekir.
+    - D-) E-kitaplar, ekranı bulunan herhangi bir ortamda izlenebilen elektronik içeriklerdir.
+    - E-) E-kitap, elektronik ortamlarda çok çeşitli yazılımlar sayesinde kullanılabilen metin, resim, film ve ses gibi çoklu ortam ögelerini de bünyesinde barındıran bir medya formatıdır.
+    ***
+1. **E-kitap okuyucuları hakkında aşağıdakilerden hangisi** **yanlıştır?**
+    - A-) E-kitap okuyucuları; e-kitap ve bilgisayar temelli içeriklerin görünmesini sağlayan mobil cihazlar olarak tanımlamak mümkündür.
+    - B-) E-kitap okuyucular, sadece okuma amaçlı olabildiği gibi (Amazon Kindle, Sony Reader), çok amaçlı araçlar (Iphone, Ipad) olarak da piyasada görülmektedir.
+    - **Cevap C-) 2006 yılında Sony kendi e-kitap okuyucusu olan Xperia’yı üretmeye başlamıştır.**
+    - D-) E-kitap okuyucuları, e-kitap okumak için tasarlananlar, PDA-cep bilgisayarları ve hibrit cihazlar olarak üç gruba ayırmaktadır.
+    - E-) E-kitap okuyucular kullanıcıların normal kitap okurken vermiş oldukları tepkileri birebir elektronik ortama yansıtmayı amaçlamaktadır.
+    ***
+1. I. Paragraf biçimlendirme<br />II. Karakter biçimlendirme<br />III. Yeni belge oluşturma<br />IV. Metin düzenleme<br />**Yukarıdakilerden hangisi ya da hangileri Indesign 6 programı ile yapılabilecek işlemler arasında yer alır?**
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) II ve III
+    - D-) II, III ve IV
+    - **Cevap E-) I, II, III ve IV**
+    ***
+1. **Indesign 6 programında metinlerin düzenlenmesi ile ilgili olarak aşağıdakilerden hangisi** **yanlıştır?**
+    - A-) Indesign Program’ında işlem gerçekleştirmek için çerçevelere ihtiyaç vardır.
+    - B-) Çerçeveler sayesinde belgenin içine metin, resim veya video gibi ögeler eklenip düzenlenebilmektedir.
+    - C-) Metin işlemleri gerçekleştirilirken boş olarak gelen belgeye önce metin çerçevesi eklenmesi gerekmektedir.
+    - D-) Yazma alanı oluşturulduktan sonra Seçim Aracı kullanılarak yazı alanı istenildiği gibi biçimlendirilebilir.
+    - **Cevap E-) Yazma aracı diğer kelime işleme programlarında kullanılan metin kutusu özelliği mantığından farklı çalışmaktadır.**
+    ***
+1. **Aşağıdakilerden hangisi e-kitap tanımlarında ortaya çıkan sınıflandırmalardan biri değildir?**
+    - A-) E-kitaplar ekranı bulunan herhangi bir ortamda izlenebilen elektronik içeriklerdir.
+    - B-) Bir metnin e-kitap olabilmesi için metin zenginleştirici olarak adlandırılan yazılımların içinde bulunması gerekir.
+    - C-) E-kitap yazılım ve donanım parçalarının birleşimi olan dijital kitaplardan farklı ortamlardır.
+    - **Cevap D-) E-kitaplar içinde eğlence yazılımlarını bulunduran araçlardır.**
+    - E-) E-kitap elektronik içeriklerin okunmasını sağlayan donanımlardır.
+    ***
+1. **Aşağıdakilerden hangisi Baker tarafından ortaya konulan e-kitap türlerinden biridir?**
+    - A-) İndirilebilir e-kitaplar
+    - B-) Kopya kitaplar
+    - C-) Instabooks
+    - D-) Yazdırılabilen e-kitaplar
+    - **Cevap E-) Cyberbooks**
+    ***
+1. I. İlk e-kitap çalışmalarına 1971 yılında Gutenberg Projesi ile başlanmıştır.<br />II. 2008 yılında BooksOnBoard iPhone'lar için e-kitap satışına başladı.<br />III. 2014 yılında Amazon e-kitap ve sesli kitapların limitsiz ulaşımın olduğu Kindle Unlimited'ı erişime sundu.<br />**Yukarıdakilerden hangisi ya da hangileri e-kitapların tarihsel gelişimi ile ilgili doğrudur?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. I. Esnek çalışma imkânı sunar.<br />II. Zaman ve mekân bağımlı araçlardır.<br />III. Çok çeşitli çoklu ortam ögelerini destekler.<br />**Yukarıdakilerden hangisi ya da hangileri e-kitapların avantajları arasında yer almaz?**
+    - A-) Yalnız I
+    - **Cevap B-) Yalnız II**
+    - C-) I ve II
+    - D-) II ve III
+    - E-) I, II ve III
+    ***
+1. **Aşağıdakilerden hangisi e-kitapların sınırlılıklarından biridir?**
+    - **Cevap A-) Cihaza özel e-kitap geliştirilmesi**
+    - B-) Yaş grubuna göre özelliklerinin değiştirilebilmesi
+    - C-) Basım ve dağıtım masraflarının az olması
+    - D-) Güncelleme sürecinin zahmetli olması
+    - E-) Doğal kaynakları koruması
+    ***
+1. **Aşağıdakilerden hangisi eğitim ortamlarında e-kitapların kullanımında ortaya çıkabilecek faydalardan biri değildir?**
+    - A-) Maliyeti azaltır.
+    - B-) Her zaman ve her yerde çalışma imkânı sunar.
+    - **Cevap C-) Güncelleme ve teknik problemler yaşanabilir.**
+    - D-) Paylaşımı artırır.
+    - E-) Bireysel farklılıklara göre hazırlanabilir.
+    ***
+1. **Aşağıdakilerden hangisi Crawford tarafından ortaya konulan e-kitap türlerinden biridir?**
+    - A-) İndirilebilir e-kitaplar
+    - B-) Metin kitaplar
+    - **Cevap C-) Instabooks**
+    - D-) Konuşan kitaplar
+    - E-) Cyberbooks
+    ***
+1. **Aşağıdakilerden hangisi e-kitapların avantajlarından biri değildir?**
+    - A-) Güncelleme sürecinin kolay olması
+    - B-) Çoklu ortam ögelerinin kullanımına olanak sağlaması
+    - C-) Engelli bireyler için erişilebilir özellikler sunması
+    - D-) İçerikte hızlı ve kolay gezinme olanağı sunması
+    - **Cevap E-) Kısa vadede maliyetinin düşük olması**
+    ***
+1. **Aşağıdakilerden hangisi Crawford tarafından ortaya konulan e-kitap türlerinden biridir?**
+    - **Cevap A-) Instabooks**
+    - B-) Konuşan kitaplar
+    - C-) Çoklu ortam kitaplar
+    - D-) Akıllı e-kitaplar
+    - E-) Cyberbooks
+    ***
+1. **E-kitaplara yönelik olarak aşağıdakilerden hangisi yanlıştır?**
+    - **Cevap A-) E-kitaplar tüm e-kitap okuyucularla kullanılabilmektedir.**
+    - B-) Uzun süreli kullanımlarda baş ağrısı ve göz yorulması gibi etkileri olabilir.
+    - C-) Telif hakkı problemleri yaşanabilmektedir.
+    - D-) E-kitap kullanımında teknik problemler yaşanabilmektedir.
+    - E-) Uygunsuz içerikler eğitim sürecini olumsuz yönde etkileyebilmektedir.
+    ***
+## Unite 12
+1. **Aşağıdakilerden hangisi Adobe InDesign programında bulunan çizim araçları arasında yer almaz?**
+    - A-) Kalem aracı
+    - B-) Çokgen çerçeve aracı
+    - C-) Çizgi aracı
+    - D-) Kurşun kalem aracı
+    - **Cevap E-) Yıldız aracı**
+    ***
+1. **Aşağıdakilerden hangisi Adobe InDesign programı ile yapılan işlemler arasında yer almaz?**
+    - A-) Temel çizgiler ve şekiller çizme
+    - B-) Kalem aracıyla çizim yapma
+    - C-) Belgeye resim ekleme
+    - D-) Nesnelerin etrafına metin sarma
+    - **Cevap E-) Animasyon yaratma**
+    ***
+1. InDesign Program’ında oluşturulan tasarımlara çizgi veya şekil eklemek için …….. panelindeki çizim araçları kullanılır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Kontur
+    - B-) Metin sarma
+    - **Cevap C-) Araçlar**
+    - D-) Renk
+    - E-) Mizanpaj
+    ***
+1. **Aşağıdakilerden hangisi Adobe InDesign programında nesnelerin çevresine metin sarma hakkında** **yanlıştır?**
+    - **Cevap A-) Sınırlama kutusunu çerçevele komutu, seçilen nesnenin sınırlayıcı kutusuyla belirlenen genişlik ve yüksekliğe sahip üçgen bir metin sarma sınırı oluşturur.**
+    - B-) Nesneye atla komutu seçildiğinde nesne çerçevesinin sağında ve solunda herhangi bir metin bulunmaz, metinler nesnenin altına ve üstüne yerleştirilir.
+    - C-) Sonraki sütuna atla komutu seçildiğinde nesnenin altında metin kalmaz ve metin diğer sütundan veya sayfadan devam eder.
+    - D-) Ters çevir komutu seçildiğinde, metin nesnenin kenarına veya çerçevesine değil, içine yerleştirilir.
+    - E-) Kontura sarma komutu seçildiğinde metin nesnenin çevresine veya kenarlarına sarılır.
+    ***
+1. **Aşağıdakilerden hangisi masaüstü yayıncılıkta kullanılan yazılımlardan biri değildir?**
+    - A-) Adobe InDesign
+    - B-) QuarkXPress
+    - C-) Microsoft Publisher
+    - D-) PageMaker
+    - **Cevap E-) PagePrint**
+    ***
+1. **Aşağıdakilerden hangisi masaüstü yayıncılıkta kullanılan çizim araçlarından biri değildir?**
+    - A-) Kalem Aracı
+    - B-) Kurşun Kalem Aracı
+    - **Cevap C-) Fırça Aracı**
+    - D-) Çizgi Aracı
+    - E-) Çokgen Çerçeve Aracı
+    ***
+1. InDesign programında çizimleri merkezden dışarı doğru çizmek için klavyeden ……………….. tuşu basılı tutulur.**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) ALT**
+    - B-) ALT GR
+    - C-) CTRL
+    - D-) SHIFT
+    - E-) BACKSPACE
+    ***
+1. InDesign programında çizgiyi 45°lik açılarla sınırlamak, yolun ya da çerçevenin genişliğini aynı orantılarla sınırlamak için çizim sırasında ……………….. tuşu basılı tutulur.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) ALT
+    - B-) ALT GR
+    - C-) CTRL
+    - **Cevap D-) SHIFT**
+    - E-) BACKSPACE
+    ***
+1. InDesign programında oluşturulacak ızgaradaki çerçeveler arasındaki boşluğu değiştirmek için ……………………. tuşu basılı tutulur.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) ALT
+    - B-) ALT GR
+    - **Cevap C-) CTRL**
+    - D-) SHIFT
+    - E-) BACKSPACE
+    ***
+1. InDesign programında çokgen aracı kullanılırken kenar sayısı veya yıldız iç boşluğunu değiştirmek için ……………….. tuşu basılı tutulur.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) ALT
+    - B-) ALT GR
+    - C-) CTRL
+    - D-) SHIFT
+    - **Cevap E-) SPACE**
+    ***
+1. **Aşağıdakilerden hangisi masaüstü yayıncılıkta kullanılan yazılımlardan biri değildir?**
+    - A-) Adobe InDesign
+    - B-) QuarkXPress
+    - C-) Microsoft Publisher
+    - D-) PageMaker
+    - **Cevap E-) PrintDesign**
+    ***
+1. InDesign programında sürükleme sırasında ızgara sütun sayısını değiştirmek için ................................, satır sayısını değiştirmek için ise .................................. kullanılır.<br />**Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?**
+    - A-) ALT GR tuşu – BACKSPACE tuşu
+    - B-) ALT+SHIFT tuş kombinasyonu – CTRL+ALT GR tuş kombinasyonu
+    - C-) CTRL+SHIFT tuş kombinasyonu – SPACE+ALT GR tuş kombinasyonu
+    - **Cevap D-) Sağ sol yön tuşları – yukarı aşağı yön tuşları**
+    - E-) Yukarı aşağı yön tuşları – sağ sol yön tuşları
+    ***
+1. **InDesign programı yardımıyla yollara, şekillere, metin çerçevelerine veya metin ana hatlarına çizgi ayarları uygulanmasına imkân tanıyan araçların bulunduğu panel aşağıdakilerden hangisidir?**
+    - A-) Renk
+    - B-) Bağlar
+    - C-) Katmanlar
+    - D-) Şekiller
+    - **Cevap E-) Kontur**
+    ***
+1. I. Sadece düz çizimler yapılabilir.<br />II. Çizgilerin uzunluğu sürükleme ile belirlenebilir.<br />III. Bağlantı noktaları sayesinde çokgen çizimler elde edilebilir.<br />**InDesign programı kalem aracı ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - **Cevap D-) II ve III**
+    - E-) I, II ve III
+    ***
+1. **InDesign programında yollara, şekillere, metin çerçevelerine veya metin ana hatlarına çizgi eklemek için aşağıdakilerden hangisi takip edilir?**
+    - **Cevap A-) Pencere / Kontur**
+    - B-) Nesne / Çizgi ekle
+    - C-) Görünüm / Kontur
+    - D-) Mizanpaj / Çizgi ekle
+    - E-) Düzen / Çerçeve
+    ***
+1. **InDesign programında seçilen nesnenin sınırlayıcı kutusuyla belirlenen genişlik ve yüksekliğe sahip dikdörtgen bir metin sarma sınırı oluşturan komut hangisidir?**
+    - A-) Sonraki sütuna atla
+    - B-) Metin sarması yok
+    - C-) Nesne şeklini çerçevele
+    - **Cevap D-) Sınırlama kutusunu çerçevele**
+    - E-) Nesneye atla
+    ***
+## Unite 13
+1. **Windows Movie Maker ile oluşturulan dosyaların varsayılan uzantısı aşağıdakilerden hangisidir?**
+    - **Cevap A-) .wlmp**
+    - B-) .wxm
+    - C-) .xls
+    - D-) .swf
+    - E-) .wcns
+    ***
+1. **Aşağıdakilerden hangisi e-kitap için video hazırlama sürecinde dikkat edilmesi gereken hususlardan biri değildir?**
+    - A-) Video hazırlarken etkili bir fikre sahip olmak gerekir.
+    - B-) Video hazırlarken etkili bir senaryo yazmak gerekir.
+    - C-) Yazılı senaryo oluşturduktan sonra görsel senaryo taslağının oluşturulması gerekir.
+    - D-) Görsel senaryo taslağındaki çizimler sahnedeki karakterler ve donanımların konumları ile diyalogların tasviri amaçlıdır.
+    - **Cevap E-) Ses kaydı esnasında gürültünün olduğu ortamlar tercih edilmelidir.**
+    ***
+1. **Aşağıdakilerden hangisi açık kaynak video düzenleme yazılımlarından biri değildir?**
+    - A-) VideoLan Movie Creator
+    - **Cevap B-) Windows Movie Maker**
+    - C-) Avidemux
+    - D-) OpenShot
+    - E-) Kdenlive
+    ***
+1. **Yazının bulunduğu çerçeve içerisine eklenen videonun yerleşim şekli aşağıdakilerden hangisidir?**
+    - **Cevap A-) Metin ile aynı hizada**
+    - B-) Metnin önünde
+    - C-) Metnin arkasında
+    - D-) Sıkı
+    - E-) Kare
+    ***
+1. **Aşağıdakilerden hangisi InDesign programına eklenen videoların ayarlarını yapmak için kullanılan paneldir?**
+    - A-) SWF Önizleme
+    - B-) Düğmeler ve Formlar
+    - C-) Katmanlar
+    - D-) İçerikler
+    - **Cevap E-) Ortam**
+    ***
+1. I. Gün ışığı<br />II. Çevrede bulunan ışıklar (lambalar vb.)<br />III. Profesyonel ışıklandırma sistemleri<br />**Yukarıdakilerden hangisi ya da hangileri video çekimlerinde kullanılan ışık türlerindendir?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. **Aşağıdakilerden hangisi ışıklandırmada kullanılan ve ışık kaynağının önüne takılan difüzyon kâğıdının özelliğidir?**
+    - **Cevap A-) Işığın azaltılması ve yumuşatılması**
+    - B-) Işığın parlaklığını artırma
+    - C-) Işığı yayma
+    - D-) Işığı renklendirme
+    - E-) Işığa şekil verme
+    ***
+1. **Aşağıdakilerden hangisi ışıklandırmada kullanılan reflektörün özelliğidir?**
+    - A-) Işığı renklendirme
+    - B-) Işığı yayma
+    - **Cevap C-) Işığı yansıtarak güçlendirme**
+    - D-) Işığı yumuşatma
+    - E-) Işığa şekil verme
+    ***
+1. **Aşağıdakilerden hangisi Shotcut yazılımının özelliklerinden biri değildir?**
+    - **Cevap A-) Web tabanlıdır.**
+    - B-) 4K kalitede ses ve video oluşturulabilir.
+    - C-) Online ses yayını yapılabilir.
+    - D-) Ses ve video filtreleri uygulanabilir.
+    - E-) Pek çok donanım ile uyumlu çalışabilir.
+    ***
+1. **Youtube Video Editor sitesinde video hazırlamak veya düzenlemek için kullanılan ekran aşağıdaki komutların hangisi ile görüntülenebilir?**
+    - A-) Video yöneticisi
+    - B-) Kontrol paneli
+    - C-) Canlı akış
+    - **Cevap D-) Oluştur**
+    - E-) Analitycs
+    ***
+1. **Adobe InDesign programında Ortam Panel’inde bulunan Gezinme Noktaları alanı aşağıdakilerden hangisi için kullanılır?**
+    - A-) Videoya kontrol düğmeleri eklemek
+    - **Cevap B-) Videoya geçiş noktaları eklemek**
+    - C-) Videoya geçiş düğmeleri eklemek
+    - D-) Videoyu paylaşmak
+    - E-) Belgedeki videolar arası geçiş yapmak
+    ***
+1. **Aşağıdakilerden hangisi Shotcut programının özelliklerinden biri değildir?**
+    - A-) Ses kaydedilebilir.
+    - B-) 4K kalitede içeriklerle çalışılabilir.
+    - C-) Online ses yayını yapılabilir.
+    - **Cevap D-) Sadece Windows işletim sisteminde çalışır.**
+    - E-) Ses ve videolara filtre eklenebilir.
+    ***
+1. **Aşağıdakilerden hangisi çevrimiçi video düzenlemeye ve oluşturmaya imkân sunan web sitelerinden biri değildir?**
+    - A-) WeVideo
+    - B-) ProShow
+    - **Cevap C-) Dailymotion**
+    - D-) Youtube
+    - E-) Animoto
+    ***
+1. **Aşağıdakilerden hangisi PDF belgesine eklenen videonun harici bir oynatıcıda çalıştırılması için ortam panelinde seçilmesi gereken özelliktir?**
+    - **Cevap A-) Videoyu yüzen pencerede oynat**
+    - B-) Videoyu harici pencerede oynat
+    - C-) Videoyu yeni pencerede oynat
+    - D-) Videoyu tam ekran oynat
+    - E-) Videoyu yeni sekmede oynat
+    ***
+1. **Aşağıdakilerden hangisi çevrimiçi video düzenleme ve oluşturmaya imkân sunan bir web sayfası değildir?**
+    - A-) WeVideo
+    - B-) Animoto
+    - **Cevap C-) Shotcut**
+    - D-) Renderforest
+    - E-) Magisto
+    ***
+1. **Aşağıdakilerden hangisi ses kayıtlarının profesyonel hâle getirilmesi için uygulanması önerilen stratejilerden biri değildir?**
+    - A-) Sesten izole edilmiş kayıt ortamlarının kullanılması
+    - B-) Ses temizleme yazılımlarının kullanılması
+    - C-) İhtiyaca göre olarak farklı türde mikrofonların kullanılması
+    - **Cevap D-) Çekim esnasında bütün elektronik cihazların açılması**
+    - E-) Kayıt süreci öncesinde keşif kaydı yapılması
+    ***
+## Unite 14
+1. **Aşağıdakilerden hangisi PDF formatının desteklediği özellikler arasında yer almaz?**
+    - A-) Resim
+    - B-) Ses
+    - C-) Animasyon
+    - **Cevap D-) Yazı tipi değişimi**
+    - E-) Yer imi
+    ***
+1. **Aşağıdakilerden hangisi e-kitap formatları hakkında** **yanlıştır?**
+    - A-) Bir e-kitap amacına ve içeriğine göre farklı dosya formatlarında üretilebilir.
+    - **Cevap B-) Indesign CS6 programı ile azw uzantılı e-kitaplar hazırlamak mümkündür.**
+    - C-) Pdf, günümüzde Uluslararası Standartlaştırma Organizasyonu (ISO) tarafından yönetilen bir açık standart olarak kullanılmaktadır.
+    - D-) Pdf formatı, Indesign programında interactive ve print olmak üzere iki türe ayrılmıştır.
+    - E-) Epub, Uluslararası Sayısal Yayıncılık Forumu tarafından geliştirilmiş ücretsiz bir e-kitap formatıdır.
+    ***
+1. **Aşağıdakilerden hangisi bir e-kitap formatı değildir?**
+    - **Cevap A-) .dll**
+    - B-) .pdf
+    - C-) .mobi
+    - D-) .epub
+    - E-) .azw
+    ***
+1. **Epub 2.0 formatındaki bir e-kitap ile ilgili aşağıdakilerden hangisi yanlıştır?**
+    - A-) Resim içerebilir.
+    - B-) E-okuyucuya göre fontu değiştirilebilir.
+    - C-) E-okuyucuya göre fontu yeniden boyutlandırılabilir.
+    - **Cevap D-) HTML5’i desteklemektedir.**
+    - E-) DRM’i uygulanabilir.
+    ***
+1. **Epub 3.0 formatındaki bir e-kitap aşağıdaki öğelerden hangisini desteklemez?**
+    - A-) HTML5 uygulaması
+    - B-) Mathml
+    - **Cevap C-) Java uygulaması**
+    - D-) CSS
+    - E-) XML
+    ***
+1. E-kitap ile ilgili yazar adı, telif hakkı, renk uzayı, çözünürlüğü , anahtar kelimeler gibi standart bilgilere ………………… denilmektedir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) içindekiler
+    - B-) xml
+    - C-) epub
+    - D-) zip
+    - **Cevap E-) meta veri**
+    ***
+1. InDesign programında kitap kapağı düzenlemek için kullanılan …………………….…….. seçeneği dosyanın ilk sayfasını kapak olarak varsayar ve kitabın kapağı, ilk sayfası olur.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) rasterize first page**
+    - B-) none
+    - C-) choose ımage
+    - D-) next
+    - E-) cover
+    ***
+1. **InDesign programında tasarlanan e-kitabın tasarımın görüntülenecek cihazda ekran boyutuna göre değişmemesi ancak metin içi aramaya izin vermesi için aşağıdaki hangi formatta yayımlanmalıdır?**
+    - A-) Pdf (Print)
+    - B-) Pdf (Interactive)
+    - **Cevap C-) Epub (Fixed Layout)**
+    - D-) Epub (Reflowable)
+    - E-) Html
+    ***
+1. **DRM’in Türkçe açılımı aşağıdakilerden hangisidir?**
+    - A-) Dijital Sayı Yönetimi
+    - **Cevap B-) Sayısal Haklar Yönetimi**
+    - C-) Dijital Telif Yönetimi
+    - D-) Sayısal Veri Yönetimi
+    - E-) Sayısal Telif Yönetimi
+    ***
+1. I. Şifreleme<br />II. Özel Anahtar<br />III. Dijital Filigran<br />**Yukarıdakilerden hangisi ya da hangileri DRM teknolojilerindendir?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. **Aşağıdakilerden hangisi doğrudur?**
+    - A-) Epub 2.0 Flash animasyonlara destek verir.
+    - B-) Pdf formatı ve okuyucularının hepsi ücretlidir.
+    - C-) Epub formatındaki bir e-kitap sadece InDesign programı ile geliştirilir.
+    - **Cevap D-) DRM çözümleri kırılabilir ya da etkisizleştirilebilir.**
+    - E-) Epub dosyasını açmak için uzantısını xml yapmak gerekmektedir.
+    ***
+1. **Pdf formatı ile ilgili aşağıdakilerden hangisi yanlıştır?**
+    - A-) Sayısal haklar yönetimi mümkündür.
+    - B-) Metin akıcılığını desteklemez.
+    - C-) InDesign programı ile üretilebilir.
+    - **Cevap D-) Çeşitli e-kitap okuyucular ile font boyutlandırma yapılabilir.**
+    - E-) CSS’i desteklemez.
+    ***
+1. **Aşağıdakilerden hangisi Epub formatının pdf formatına karşı üstünlüklerinden biri değildir?**
+    - A-) Yazı tipi boyutlandırılabilir.
+    - B-) CSS’yi desteklemektedir.
+    - C-) Yazı tipi değiştirilebilir.
+    - D-) Metin akıcılığını desteklemektedir.
+    - **Cevap E-) Resim dosyaları içerebilir.**
+    ***
+1. Yazar adı, telif hakkı, renk uzayı, çözünürlüğü, anahtar kelimeler gibi standart bilgiler e-kitap ile ilgili ………….. verilerdir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) matematiksel
+    - **Cevap B-) meta**
+    - C-) sayısal
+    - D-) metinsel
+    - E-) sözel
+    ***
+1. **Google Chrome web tarayıcısı için geliştirilen Epub formatındaki e-kitapları bir yazılıma gerek kalmadan, tarayıcıdan okumaya imkân tanıyan yazılım aşağıdakilerden hangisidir?**
+    - **Cevap A-) Readium**
+    - B-) Calibre
+    - C-) iBooks
+    - D-) Kindle
+    - E-) Adobe PDF Okuyucu
+    ***
+1. Linux, MacOS ve Windows işletim sistemlerinde çalışabilen ve farklı e-kitap formatları arasında dönüşüm yapabilen bir uygulamadır. Meta verileri ve kapak tasarımlarını düzenleme özellikleri sunmasının yanı sıra, aynı zamanda bir e-kitap okuma yazılımı olarak da kullanılabilir.<br />**Belirtilen özelliklere sahip e-kitap okuma yazılımı aşağıdakilerden hangisidir?**
+    - A-) iBooks
+    - B-) Readium
+    - C-) Kindle
+    - D-) Adobe PDF Okuyucu
+    - **Cevap E-) Calibre**
     ***

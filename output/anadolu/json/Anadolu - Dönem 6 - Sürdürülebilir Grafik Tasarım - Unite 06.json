@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayfa düzeni ya da diğer bir deyişle yerleşim, tasarımda kullanılacak olan tüm elemanların tasarım yüzeyinde bir araya getirilmesidir. Kullanılacak görsel elemanların boyutu, konumu ve birbirleriyle<br/>olan ilişkileri tasarımın verdiği mesajın algılanma şekli üzerinde büyük etkiye sahiptir. Renk bilgisi, kompozisyon kuralları gibi temel tasarım ilkeleri ışığında tasarlanmış bir sayfa düzeni mesajın alıcıya yani hedef kitleye etkili biçimde ulaşmasını sağlar."
+        "Aciklama": "Sayfa düzeni ya da diğer bir deyişle yerleşim, tasarımda kullanılacak olan tüm elemanların tasarım yüzeyinde bir araya getirilmesidir. Kullanılacak görsel elemanların boyutu, konumu ve birbirleriyle<br/>olan ilişkileri tasarımın verdiği mesajın algılanma şekli üzerinde büyük etkiye sahiptir. Renk bilgisi, kompozisyon kuralları gibi temel tasarım ilkeleri ışığında tasarlanmış bir sayfa düzeni mesajın alıcıya yani hedef kitleye etkili biçimde ulaşmasını sağlar."
     },
     {
         "SoruID": 3764269,
@@ -217,11 +217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ofset ya da tipo baskı kadar yaygın bir kullanıma sahip olmayan <strong>tifdruk baskı yöntemi çoğunlukla para ve tahvil benzeri</strong> değerli evrak gibi çok yüksek sayılarda basılacak olan, baskılar arasında değişmeyen ve kusursuz bir baskı kalitesinin gerektiği durumlarda tercih edilir."
+        "Aciklama": "Ofset ya da tipo baskı kadar yaygın bir kullanıma sahip olmayan <strong>tifdruk baskı yöntemi çoğunlukla para ve tahvil benzeri</strong> değerli evrak gibi çok yüksek sayılarda basılacak olan, baskılar arasında değişmeyen ve kusursuz bir baskı kalitesinin gerektiği durumlarda tercih edilir."
     },
     {
         "SoruID": 3764318,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Ofset baskı </li> <li>Tipo baskı </li> <li>Tifdruk</li> <li>Serigrafi  </li> <li>Flekso baskı</li> </ol> Yukarıdakilerden hangisi/hangileri grafik üretiminde düz baskının en yaygın kullanılan örneklerindendir?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Ofset baskı </li> <li>Tipo baskı </li> <li>Tifdruk</li> <li>Serigrafi </li> <li>Flekso baskı</li> </ol> Yukarıdakilerden hangisi/hangileri grafik üretiminde düz baskının en yaygın kullanılan örneklerindendir?",
         "A": "Yalnız I",
         "B": "Yalnız I ve IV",
         "C": "I, III ve IV",
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düz baskı teknikleri yüksek ve çukur baskı yöntemleri gibi kalıp üzerinde oluşturulan seviye farkına dayanmazlar. Bir önceki ünite olan Sürdürülebilir Grafik Tasarımında Ölçü ve Formatlar ünitesinin Sürdürülebilir Grafik Tasarımında Format Seçimi başlığında da ele alınan <strong>ofset baskı ve serigrafi teknikleri düz baskının grafik üretiminde en yaygın kullanılan örneklerindendir.</strong> Tipo baskı, flekso ve tifdruk tekniklerinin aksine ofset baskıda kullanılan kalıplar çukur ya da kabartılara sahip değildir ve çıplak gözle bakıldığında düz oldukları söylenebilir."
+        "Aciklama": "Düz baskı teknikleri yüksek ve çukur baskı yöntemleri gibi kalıp üzerinde oluşturulan seviye farkına dayanmazlar. Bir önceki ünite olan Sürdürülebilir Grafik Tasarımında Ölçü ve Formatlar ünitesinin Sürdürülebilir Grafik Tasarımında Format Seçimi başlığında da ele alınan <strong>ofset baskı ve serigrafi teknikleri düz baskının grafik üretiminde en yaygın kullanılan örneklerindendir.</strong> Tipo baskı, flekso ve tifdruk tekniklerinin aksine ofset baskıda kullanılan kalıplar çukur ya da kabartılara sahip değildir ve çıplak gözle bakıldığında düz oldukları söylenebilir."
     },
     {
         "SoruID": 3764319,
@@ -304,7 +304,7 @@
         "SoruMetni": "Aşağıdakilerden hangisi \"su ayak izi\" kavramını <span style=\"text-decoration: underline;\">doğru</span> olarak tanımlar?",
         "A": "Denizlerdeki kirlilliği ve ekosistemi kimyasal analizlerle ölçen bir ölçüm metodudur.",
         "B": "Bir tüketici ürün veya hizmetin tüm üretim zinciri boyunca kullanılan tatlı su hacmini (litre veya metreküp olarak) ölçen çevresel bir göstergedir.",
-        "C": "Kentlerde ihtiyaç duyulan yüzey ve yeraltı tatlı su kaynaklarının toplam hacmi (litre veya metreküp olarak) için kullanılan bir kavramdır.",
+        "C": "Kentlerde ihtiyaç duyulan yüzey ve yeraltı tatlı su kaynaklarının toplam hacmi (litre veya metreküp olarak) için kullanılan bir kavramdır.",
         "D": "Ticari malın üretiminde kullanılan toplam yağmur suyunu ifade eder.",
         "E": "Nüfus ile ilişkili olarak, kirlilik yükünün bertaraf edilmesi ya da azaltılması için kullanılan tatlı su miktarını ifade eder.",
         "DogruCevap": "B",
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Baskı süreçlerinde çoğunlukla VOC ve HAP tabir edilen zehirli hava kirleticilerin oluşturduğu gaz atıkların oluşumunu azaltmak için yapılabilecek uygulamalara aşağıdaki örnekler verilebilir: • Serigrafide kullanılan klorlu solventler yerine su bazlı solventler kullanmak, • Tolüen, benzin ve asetik asit gibi kimyasallar içeren solventlerin kullanımını azaltmak, • Ofset nemlendirme suyunda ve temizlik solüsyonlarında düşük uçuculukta içerikler kullanmak, • İzopropil alkol kullanımını azaltmak ya da tümüyle bırakmak için organik solventler yerine bitkisel yağ bazlı temizlik ajanları kullanmak, • Bilgisayardan doğruca kalıp üretimine imkan veren CTP teknolojisini kullanmak, • Su bazlı ve UV kurutmalı vernik kullanmak, • Solvent bazlı yapıştırıcılar yerine düşük solvent içerikli yapıştırıcılar, UV kurutma sistemleri, su bazlı yapıştırıcılar ya da ısıyla yapıştırma sistemleri kullanmak, • Ofset blanket ve merdanelerin temizliği için otomatik temizleme sistemlerine geçmek, • Fleksografide boya sıyırma işlemini kapalı sistemle yapan cihazlar kullanmak, • Solvent ve temizleyicilerin saklama ve depolama koşullarına, havalandırma sistemlerine dikkat etmek."
+        "Aciklama": "Baskı süreçlerinde çoğunlukla VOC ve HAP tabir edilen zehirli hava kirleticilerin oluşturduğu gaz atıkların oluşumunu azaltmak için yapılabilecek uygulamalara aşağıdaki örnekler verilebilir: • Serigrafide kullanılan klorlu solventler yerine su bazlı solventler kullanmak, • Tolüen, benzin ve asetik asit gibi kimyasallar içeren solventlerin kullanımını azaltmak, • Ofset nemlendirme suyunda ve temizlik solüsyonlarında düşük uçuculukta içerikler kullanmak, • İzopropil alkol kullanımını azaltmak ya da tümüyle bırakmak için organik solventler yerine bitkisel yağ bazlı temizlik ajanları kullanmak, • Bilgisayardan doğruca kalıp üretimine imkan veren CTP teknolojisini kullanmak, • Su bazlı ve UV kurutmalı vernik kullanmak, • Solvent bazlı yapıştırıcılar yerine düşük solvent içerikli yapıştırıcılar, UV kurutma sistemleri, su bazlı yapıştırıcılar ya da ısıyla yapıştırma sistemleri kullanmak, • Ofset blanket ve merdanelerin temizliği için otomatik temizleme sistemlerine geçmek, • Fleksografide boya sıyırma işlemini kapalı sistemle yapan cihazlar kullanmak, • Solvent ve temizleyicilerin saklama ve depolama koşullarına, havalandırma sistemlerine dikkat etmek."
     },
     {
         "SoruID": 3764325,
@@ -381,7 +381,7 @@
     },
     {
         "SoruID": 3764327,
-        "SoruMetni": "Grafik üretim sürecinde baskı öncesi atık su oluşumuna neden olan etken aşağıdakilerden hangisidir?",
+        "SoruMetni": "Grafik üretim sürecinde baskı öncesi atık su oluşumuna neden olan etken aşağıdakilerden hangisidir?",
         "A": "Rulo/plaka/battaniye temizleyiciler",
         "B": "UV lak",
         "C": "Tank suyu",

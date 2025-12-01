@@ -16,20 +16,52 @@
         "QuestionNumber": 1
     },
     {
-        "QuestionId": 3863027,
+        "QuestionId": 3863025,
         "UniteNo": 4,
-        "PageNumber": 113,
-        "AnswerExplanation": "<p>II,III ve IV</p>",
-        "Title": "<p>Dijital ortamların öğrencilere genel olarak yararları; (a) öğrenci özerkliğini teşvik etmek, (b) iletişim zorluklarını ve engellerini aşmaya yardımcı olmak, (c) öğrencilere çalışma başarılarını uygun bir şekilde gösterme fırsatı sağlamak, (d) öğrencilerin bireysel becerileri ve yetenekleri dikkate alınarak görevler geliştirmek, (e) tipik gelişen akranlarla bir arada bulunmak, motivasyon sağlamaktır.</p>",
-        "Text": "<p>I. Eğitim tekniklerini paylaşma fırsatı sağlamak</p> <p>II. Özerkliği teşvik etmek</p> <p>III. Motivasyon sağlamak</p> <p>IV. Tipik gelişen akranlarla bir arada bulunmak</p> <p>Yukarıdaki maddelerden hangileri dijital ortamların öğrencilere sağladığı <strong>yararlar</strong> arasındadır? </p>",
-        "A": "<p>I, II ve III</p>",
-        "B": "<p>I, III ve IV</p>",
-        "C": "<p>I,II ve IV</p>",
-        "D": "<p>II,III ve IV</p>",
-        "E": "<p>Hepsi</p>",
-        "CorrectAnswer": "D",
+        "PageNumber": 105,
+        "AnswerExplanation": "<p>Ortamlardaki içeriğin hem geçici hem kalıcı olmasıdır.</p>",
+        "Title": "<p>Dijital ortamların akışkanlık özelliği, hem kalıcı hem de geçici bir yapıya sahip olmasını ifade etmektedir.</p>",
+        "Text": "<p>Aşağıdakilerden hangisi dijital ortamların akışkanlık özelliğine ilişkin <strong>doğru</strong> bir ifadedir?</p>",
+        "A": "<p>Geleneksel ve yeni ortamların birbirine yaklaşmasıdır.</p>",
+        "B": "<p>Ortamlardaki içeriğin hem geçici hem kalıcı olmasıdır.</p>",
+        "C": "<p>Çok sayıda ve nitelikte içeriğin birbirine bağlanmasıdır.</p>",
+        "D": "<p>Ortamdaki etkileşim, akış ve hareketin veriye dönüşmesidir.<br /><br /></p>",
+        "E": "<p>Ortamların içeriklere doğrusal olmayan bağlantılar sağlamasıdır.</p>",
+        "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 3
+        "QuestionNumber": 2
+    },
+    {
+        "QuestionId": 3863026,
+        "UniteNo": 4,
+        "PageNumber": 109,
+        "AnswerExplanation": "<p>Bilişsel</p>",
+        "Title": "<p>Dijital katılım boyutları şunlardır: (a) duyusalmotor, (b) bilişsel, (c) teknik, (d) teknolojik cihazlara ve (e) kodlara ve kurallara erişim.</p>",
+        "Text": "<p>Aşağıdakilerden hangisi Lussier-Desrochers ve diğerlerine (2017) göre zihin yetersizliği olan bireyler için dijital katılım boyutlarından biridir?</p>",
+        "A": "<p>Kişisel</p>",
+        "B": "<p>Duygusal</p>",
+        "C": "<p>Bilişsel</p>",
+        "D": "<p>İşitsel</p>",
+        "E": "<p>Görsel</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 2
+    },
+    {
+        "QuestionId": 3863028,
+        "UniteNo": 4,
+        "PageNumber": 114,
+        "AnswerExplanation": "<p>I, II, V</p>",
+        "Title": "<p>Engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engeller izleyen şekilde sıralanabilir:<br />• Engelli bireylerin dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği<br />• Dijital teknolojilere erişilebilirlik hakkında yasalar, standartlar, politikalar ve iyi uygulama örnekleri hakkındaki bilginin yetersizliği<br />• Engellilere yönelik dijital teknolojileri kullanım standartlarının yetersizliği ve/veya bulunmayışı<br />• Sürekli gelişim halinde olan teknolojilerin, dijital teknolojilere erişilebilirlik ile kullanılabilirliğini azaltması ve maliyetleri artırması<br />• Bazı durumlarda engelli bireylere yetersiz veya eksik destek verilmesi<br />• Aile üyelerinin ya da bakıcılarının İnternet kullanımındaki ve eğitimindeki yetersizlikleri<br />• Öğretmenlerin öğretim yapma ya da verilen teknoloji eğitimler için isteksiz olmaları<br />• Sınıfta engelli öğrenci azlığı ya da çok farklı engelli öğrenci olması nedeniyle<br />öğretmenin teknolojiyi",
+        "Text": "<p>I. Veri, veri tabanı ve araştırmalarda engelli bireylerin yetersiz olması</p> <p>II. Engelli bireylere az destek verilmesi</p> <p>III. Öğretmenlerin verilen teknoloji eğitimleri için istekli olmaları</p> <p>IV. Farklı engelli öğrencileri olsa da öğretmenin teknolojiyi kullanabilir olması</p> <p>V. Öğretmenlerin zamanlarının kısıtlı olması</p> <p>Yukarıdakilerden hangisi engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı <strong>engeller </strong>arasındadır?</p>",
+        "A": "<p>I, II, III</p>",
+        "B": "<p>I, II, IV</p>",
+        "C": "<p>I, II, V</p>",
+        "D": "<p>II, III, IV</p>",
+        "E": "<p>I, III, V</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 1
     },
     {
         "QuestionId": 3863029,
@@ -45,23 +77,7 @@
         "E": "<p>Grafik ve görsel medyanın sesli açıklaması</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 5
-    },
-    {
-        "QuestionId": 3863030,
-        "UniteNo": 4,
-        "PageNumber": 121,
-        "AnswerExplanation": "<p>Kullanıcının hızına uyarlanması</p>",
-        "Title": "<p>Dijital ortamların tasarımında kullanımda esneklik ilkesi yönergeleri izleyen şekilde sıralanabilir:<br />• Kullanım yöntemlerinde seçim sağlanması<br />• Sağ veya sol elle erişilmesi ve kullanılması<br />• Kullanıcının doğruluğunu ve hassasiyetini kolaylaştırması<br />• Kullanıcının hızına uyarlanması</p>",
-        "Text": "<p>Aşağıdakilerden hangisi dijital ortamların tasarımında kullanımda esneklik ilkesi yönergelerinden biridir? </p>",
-        "A": "<p>Tasarımın tüm kullanıcı kitlesi için çekici hâle getirilmesi</p>",
-        "B": "<p>Kullanıcının hızına uyarlanması</p>",
-        "C": "<p>Kullanıcı beklentileri ve sezgileriyle tutarlı olması</p>",
-        "D": "<p>Temel bilgiler ve çevresi arasında yeterli kontrastın sağlanması</p>",
-        "E": "<p>Tehlikeler ve hatalar hakkında uyarılar sağlanması</p>",
-        "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "QuestionNumber": 2
     },
     {
         "QuestionId": 3863031,
@@ -77,7 +93,23 @@
         "E": "<p>Hatalara tolerans</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 7
+        "QuestionNumber": 4
+    },
+    {
+        "QuestionId": 3863033,
+        "UniteNo": 4,
+        "PageNumber": 131,
+        "AnswerExplanation": "<p>Dijital medyanın hayatı daha zor hale getirmesi</p>",
+        "Title": "<p>Dijital çağda engelli çocukların haklarına yönelik küresel konular izleyen biçimde sıralanabilir:</p>\n<p>• Engelli çocukların dijital medya kullanımları ve uygulamalarına ilişkin temel verilere daha fazla ihtiyaç duyulması, çocuklar arasında dijital medya kullanımına ilişkin araştırmalara ve veri toplamaya dahil edilmesi</p>\n<p>•Dijital medyanın hayatı daha kolay ve zevkli hâle getirebileceğinin yanı sıra engelli çocuklar için erişilemeyen yeni alanlar ortaya çıkarabileceğinin kabul edilmesi<br />• Dijital alanda haklara odaklanmanın engelli çocuğu pekiştirmesine ilişkin potansiyel riskler ve engelli çocukların seslerinin duyulabileceği alanlar ve fırsatlar yaratmanın önemli olması<br />• Koruma hakları ile engelli çocukların uygun düzeyde eylemlilik, özerklik ve kontrol kullanma hakları arasında denge kurulması ihtiyacının olması<br />• Erişilebilirlik ve katılım için birden çok iletişim yöntemine izin verecek şekilde araştırma yöntemlerini (çevrim içi anketler ve yüz yüze görüşmeler gibi) çerçevelemek ve",
+        "Text": "<p>Aşağıdakilerden hangisi dijital çağda engelli çocukların haklarına yönelik küresel gündem konuları arasında <strong>değildir</strong>?</p>",
+        "A": "<p>Medyanın erişilemeyen yeni alanlar ortaya çıkartması</p>",
+        "B": "<p>Engelli çocukların seslerinin duyulabileceği alanlar yaratılması</p>",
+        "C": "<p>Erişilebilirlik ve katılım için araştırmaların tasarlanması</p>",
+        "D": "<p>Engellilerin dijital ve sosyal haklarını ele alan programların genişletilmesi</p>",
+        "E": "<p>Dijital medyanın hayatı daha zor hale getirmesi</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 4
     },
     {
         "QuestionId": 3863044,
@@ -93,7 +125,7 @@
         "E": "<p>Hiper ortamlar</p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 10
+        "QuestionNumber": 5
     },
     {
         "QuestionId": 3863045,
@@ -109,7 +141,7 @@
         "E": "<p>Yaygınlık özelliği </p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 7
+        "QuestionNumber": 6
     },
     {
         "QuestionId": 3863046,
@@ -125,7 +157,7 @@
         "E": "<p>Akışkanlık özelliği </p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 11
+        "QuestionNumber": 7
     },
     {
         "QuestionId": 3863047,
@@ -141,7 +173,7 @@
         "E": "<p>Teknik gereklilikler </p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 8
+        "QuestionNumber": 7
     },
     {
         "QuestionId": 3863072,
@@ -157,7 +189,23 @@
         "E": "<p>II-III-IV</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 8
+    },
+    {
+        "QuestionId": 3863073,
+        "UniteNo": 4,
+        "PageNumber": 114,
+        "AnswerExplanation": "<p>I-II-III</p>",
+        "Title": "<p>Yetersiz veya eksik destek, öğretmenlerin eğitimler için isteksiz olmaları, dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engellerdir. </p>",
+        "Text": " <ol style=\"list-style-type: upper-roman;\"> <li>Yetersiz veya eksik destek</li> <li>Öğretmenlerin eğitimler için isteksiz olmaları </li> <li>Dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği</li> <li>Aile üyelerinin dijital teknoloji yetkinliği</li> </ol> <p>Yukarıdakilerden hangileri engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engellerdir? </p>",
+        "A": "<p>I-II-III</p>",
+        "B": "<p>I-III</p>",
+        "C": "<p>I-II</p>",
+        "D": "<p>II-III-IV</p>",
+        "E": "<p>III-IV</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 9
     },
     {
         "QuestionId": 3863138,
@@ -173,7 +221,7 @@
         "E": "<p>Adil, eşitlikçi kullanım</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 10
     },
     {
         "QuestionId": 3863139,
@@ -189,7 +237,7 @@
         "E": "<p>Tehlikeler ve hatalar hakkında uyarılar sağlanması</p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 13
+        "QuestionNumber": 11
     },
     {
         "QuestionId": 3863140,
@@ -205,23 +253,7 @@
         "E": "<p>Kullanımda esneklik</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 14
-    },
-    {
-        "QuestionId": 3863141,
-        "UniteNo": 4,
-        "PageNumber": 131,
-        "AnswerExplanation": "<p>Engelli bireylere medya okuryazarlığı becerilerinin kazandırılması </p>",
-        "Title": "<p>Engelli bireylere medya okuryazarlığı becerilerinin kazandırılması, dijital çağda engelli çocukların haklarına yönelik küresel gündem konularından biri <strong>değildir. </strong></p>",
-        "Text": "<p>Aşağıdakilerden hangisi dijital çağda engelli çocukların haklarına yönelik küresel gündem konularından biri <strong>değildir</strong>? </p>",
-        "A": "<p>Engelli çocukların dijital ve sosyal haklarını ele alan kamu programlarının genişletilmesi</p>",
-        "B": "<p>Dijital medyanın engelli çocuklar için erişilemeyen yeni alanlar ortaya çıkarabileceğinin kabul edilmesi</p>",
-        "C": "<p>Engelli bireylere medya okuryazarlığı becerilerinin kazandırılması </p>",
-        "D": "<p>Hem çocuklara yönelik medya politikasından hem de engellilik alanından en iyi uygulamaların benimsenmesi</p>",
-        "E": "<p>Koruma hakları ile engelli çocukların uygun düzeyde eylemlilik, özerklik ve kontrol kullanma hakları arasında denge kurulması ihtiyacının olması</p>",
-        "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "QuestionNumber": 12
     },
     {
         "QuestionId": 3863142,
@@ -237,7 +269,7 @@
         "E": "<p>asimetriklik</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 15
+        "QuestionNumber": 14
     },
     {
         "QuestionId": 3863143,
@@ -253,7 +285,7 @@
         "E": "<p>İletişim zorluklarını ve engellerini aşmaya yardımcı olmak</p> ",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 16
+        "QuestionNumber": 15
     },
     {
         "QuestionId": 3863144,
@@ -272,6 +304,70 @@
         "QuestionNumber": 16
     },
     {
+        "QuestionId": 3863146,
+        "UniteNo": 4,
+        "PageNumber": 119,
+        "AnswerExplanation": "<p>Dijital ortamlarda tasarım unsurlarını etkileyen durumlar: Dijital ortamın <strong>dağıtım ortamı </strong>özelliği, dijital ortamın sunum şekilleri sunma özelliği ve dijital ortamların <strong>duyuşsal algı biçimleri üzerindeki etkisidir.</strong></p>",
+        "Title": "",
+        "Text": "<p>Dijital ortamlarda tasarım unsurlarını etkileyen durumlar: Dijital ortamın ........... özelliği, sunum şekilleri sunma özelliği ve dijital ortamların .......... üzerindeki etkisidir.</p> <p>Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?</p>",
+        "A": "<p>dağıtım ortamı / duyuşsal algı biçimleri</p>",
+        "B": "<p>sunum şekilleri / dağıtım ortamı</p>",
+        "C": "<p>duyuşsal algı biçimleri / tasarım ilkeleri</p>",
+        "D": "<p>tasarım ilkeleri / dağıtım ortamı</p>",
+        "E": "<p>sunma / keskin ayrım biçimleri</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 18
+    },
+    {
+        "QuestionId": 3863027,
+        "UniteNo": 4,
+        "PageNumber": 113,
+        "AnswerExplanation": "<p>II,III ve IV</p>",
+        "Title": "<p>Dijital ortamların öğrencilere genel olarak yararları; (a) öğrenci özerkliğini teşvik etmek, (b) iletişim zorluklarını ve engellerini aşmaya yardımcı olmak, (c) öğrencilere çalışma başarılarını uygun bir şekilde gösterme fırsatı sağlamak, (d) öğrencilerin bireysel becerileri ve yetenekleri dikkate alınarak görevler geliştirmek, (e) tipik gelişen akranlarla bir arada bulunmak, motivasyon sağlamaktır.</p>",
+        "Text": "<p>I. Eğitim tekniklerini paylaşma fırsatı sağlamak</p> <p>II. Özerkliği teşvik etmek</p> <p>III. Motivasyon sağlamak</p> <p>IV. Tipik gelişen akranlarla bir arada bulunmak</p> <p>Yukarıdaki maddelerden hangileri dijital ortamların öğrencilere sağladığı <strong>yararlar</strong> arasındadır? </p>",
+        "A": "<p>I, II ve III</p>",
+        "B": "<p>I, III ve IV</p>",
+        "C": "<p>I,II ve IV</p>",
+        "D": "<p>II,III ve IV</p>",
+        "E": "<p>Hepsi</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null,
+        "QuestionNumber": 1
+    },
+    {
+        "QuestionId": 3863032,
+        "UniteNo": 4,
+        "PageNumber": 125,
+        "AnswerExplanation": "<p>Hatalara tolerans</p>",
+        "Title": "<p>Hatalara tolerans, tasarlanan dijital ortamın, irade dışı, kazayla ve kullanım örüntüsü dışında kullanımında karşılaşılabilecek kötü, tehlikeli, riskli veya olumsuz sonuçları engelleyici veya en aza indirici nitelikte olmasını<br />gerektiren ilkedir.</p>",
+        "Text": "<p>Tasarlanan dijital ortamın, irade dışı, kazayla ve kullanım örüntüsü dışında kullanımında karşılaşılabilecek kötü, tehlikeli, riskli veya olumsuz sonuçları engelleyici veya en aza indirici nitelikte olmasını gerektiren ilke aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Basit ve sezgisel kullanım<br /><br /></p>",
+        "B": "<p>Algılanabilir bilgi<br /><br /></p>",
+        "C": "<p>Yaklaşmaya ve kullanıma uygun ölçüler ve mekân</p> <p><br /><br /></p>",
+        "D": "<p>Düşük fiziksel çaba<br /><br /></p>",
+        "E": "<p>Hatalara tolerans</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 5
+    },
+    {
+        "QuestionId": 3863141,
+        "UniteNo": 4,
+        "PageNumber": 131,
+        "AnswerExplanation": "<p>Engelli bireylere medya okuryazarlığı becerilerinin kazandırılması </p>",
+        "Title": "<p>Engelli bireylere medya okuryazarlığı becerilerinin kazandırılması, dijital çağda engelli çocukların haklarına yönelik küresel gündem konularından biri <strong>değildir. </strong></p>",
+        "Text": "<p>Aşağıdakilerden hangisi dijital çağda engelli çocukların haklarına yönelik küresel gündem konularından biri <strong>değildir</strong>? </p>",
+        "A": "<p>Engelli çocukların dijital ve sosyal haklarını ele alan kamu programlarının genişletilmesi</p>",
+        "B": "<p>Dijital medyanın engelli çocuklar için erişilemeyen yeni alanlar ortaya çıkarabileceğinin kabul edilmesi</p>",
+        "C": "<p>Engelli bireylere medya okuryazarlığı becerilerinin kazandırılması </p>",
+        "D": "<p>Hem çocuklara yönelik medya politikasından hem de engellilik alanından en iyi uygulamaların benimsenmesi</p>",
+        "E": "<p>Koruma hakları ile engelli çocukların uygun düzeyde eylemlilik, özerklik ve kontrol kullanma hakları arasında denge kurulması ihtiyacının olması</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 13
+    },
+    {
         "QuestionId": 3863145,
         "UniteNo": 4,
         "PageNumber": 127,
@@ -288,17 +384,17 @@
         "QuestionNumber": 17
     },
     {
-        "QuestionId": 3863146,
+        "QuestionId": 3863210,
         "UniteNo": 4,
-        "PageNumber": 119,
-        "AnswerExplanation": "<p>Dijital ortamlarda tasarım unsurlarını etkileyen durumlar: Dijital ortamın <strong>dağıtım ortamı </strong>özelliği, dijital ortamın sunum şekilleri sunma özelliği ve dijital ortamların <strong>duyuşsal algı biçimleri üzerindeki etkisidir.</strong></p>",
+        "PageNumber": 120,
+        "AnswerExplanation": "<p>Adil, eşitlikçi kullanım ilkesinin örneklerinden biridir. </p> ",
         "Title": "",
-        "Text": "<p>Dijital ortamlarda tasarım unsurlarını etkileyen durumlar: Dijital ortamın ........... özelliği, sunum şekilleri sunma özelliği ve dijital ortamların .......... üzerindeki etkisidir.</p> <p>Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?</p>",
-        "A": "<p>dağıtım ortamı / duyuşsal algı biçimleri</p>",
-        "B": "<p>sunum şekilleri / dağıtım ortamı</p>",
-        "C": "<p>duyuşsal algı biçimleri / tasarım ilkeleri</p>",
-        "D": "<p>tasarım ilkeleri / dağıtım ortamı</p>",
-        "E": "<p>sunma / keskin ayrım biçimleri</p>",
+        "Text": "<p>Dijital ortamlarda renk körü engeline sahip kullanıcıların da bir ekrandaki içeriğin tamamını görebilmesi için tasarımda yüksek kontrast kullanılması evrensel tasarım ilkelerinden hangisine örnektir?</p>",
+        "A": "<p>Adil, eşitlikçi kullanım</p>",
+        "B": "<p>Kullanımda esneklik</p>",
+        "C": "<p>Basit ve sezgisel kullanım</p>",
+        "D": "<p>Hatalara tolerans</p>",
+        "E": "<p>Düşük fiziksel çaba </p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
         "QuestionNumber": 18
@@ -320,84 +416,20 @@
         "QuestionNumber": 19
     },
     {
-        "QuestionId": 3863025,
+        "QuestionId": 3863030,
         "UniteNo": 4,
-        "PageNumber": 105,
-        "AnswerExplanation": "<p>Ortamlardaki içeriğin hem geçici hem kalıcı olmasıdır.</p>",
-        "Title": "<p>Dijital ortamların akışkanlık özelliği, hem kalıcı hem de geçici bir yapıya sahip olmasını ifade etmektedir.</p>",
-        "Text": "<p>Aşağıdakilerden hangisi dijital ortamların akışkanlık özelliğine ilişkin <strong>doğru</strong> bir ifadedir?</p>",
-        "A": "<p>Geleneksel ve yeni ortamların birbirine yaklaşmasıdır.</p>",
-        "B": "<p>Ortamlardaki içeriğin hem geçici hem kalıcı olmasıdır.</p>",
-        "C": "<p>Çok sayıda ve nitelikte içeriğin birbirine bağlanmasıdır.</p>",
-        "D": "<p>Ortamdaki etkileşim, akış ve hareketin veriye dönüşmesidir.<br /><br /></p>",
-        "E": "<p>Ortamların içeriklere doğrusal olmayan bağlantılar sağlamasıdır.</p>",
+        "PageNumber": 121,
+        "AnswerExplanation": "<p>Kullanıcının hızına uyarlanması</p>",
+        "Title": "<p>Dijital ortamların tasarımında kullanımda esneklik ilkesi yönergeleri izleyen şekilde sıralanabilir:<br />• Kullanım yöntemlerinde seçim sağlanması<br />• Sağ veya sol elle erişilmesi ve kullanılması<br />• Kullanıcının doğruluğunu ve hassasiyetini kolaylaştırması<br />• Kullanıcının hızına uyarlanması</p>",
+        "Text": "<p>Aşağıdakilerden hangisi dijital ortamların tasarımında kullanımda esneklik ilkesi yönergelerinden biridir? </p>",
+        "A": "<p>Tasarımın tüm kullanıcı kitlesi için çekici hâle getirilmesi</p>",
+        "B": "<p>Kullanıcının hızına uyarlanması</p>",
+        "C": "<p>Kullanıcı beklentileri ve sezgileriyle tutarlı olması</p>",
+        "D": "<p>Temel bilgiler ve çevresi arasında yeterli kontrastın sağlanması</p>",
+        "E": "<p>Tehlikeler ve hatalar hakkında uyarılar sağlanması</p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 2
-    },
-    {
-        "QuestionId": 3863028,
-        "UniteNo": 4,
-        "PageNumber": 114,
-        "AnswerExplanation": "<p>I, II, V</p>",
-        "Title": "<p>Engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engeller izleyen şekilde sıralanabilir:<br />• Engelli bireylerin dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği<br />• Dijital teknolojilere erişilebilirlik hakkında yasalar, standartlar, politikalar ve iyi uygulama örnekleri hakkındaki bilginin yetersizliği<br />• Engellilere yönelik dijital teknolojileri kullanım standartlarının yetersizliği ve/veya bulunmayışı<br />• Sürekli gelişim halinde olan teknolojilerin, dijital teknolojilere erişilebilirlik ile kullanılabilirliğini azaltması ve maliyetleri artırması<br />• Bazı durumlarda engelli bireylere yetersiz veya eksik destek verilmesi<br />• Aile üyelerinin ya da bakıcılarının İnternet kullanımındaki ve eğitimindeki yetersizlikleri<br />• Öğretmenlerin öğretim yapma ya da verilen teknoloji eğitimler için isteksiz olmaları<br />• Sınıfta engelli öğrenci azlığı ya da çok farklı engelli öğrenci olması nedeniyle<br />öğretmenin teknolojiyi",
-        "Text": "<p>I. Veri, veri tabanı ve araştırmalarda engelli bireylerin yetersiz olması</p> <p>II. Engelli bireylere az destek verilmesi</p> <p>III. Öğretmenlerin verilen teknoloji eğitimleri için istekli olmaları</p> <p>IV. Farklı engelli öğrencileri olsa da öğretmenin teknolojiyi kullanabilir olması</p> <p>V. Öğretmenlerin zamanlarının kısıtlı olması</p> <p>Yukarıdakilerden hangisi engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı <strong>engeller </strong>arasındadır?</p>",
-        "A": "<p>I, II, III</p>",
-        "B": "<p>I, II, IV</p>",
-        "C": "<p>I, II, V</p>",
-        "D": "<p>II, III, IV</p>",
-        "E": "<p>I, III, V</p>",
-        "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
-    },
-    {
-        "QuestionId": 3863032,
-        "UniteNo": 4,
-        "PageNumber": 125,
-        "AnswerExplanation": "<p>Hatalara tolerans</p>",
-        "Title": "<p>Hatalara tolerans, tasarlanan dijital ortamın, irade dışı, kazayla ve kullanım örüntüsü dışında kullanımında karşılaşılabilecek kötü, tehlikeli, riskli veya olumsuz sonuçları engelleyici veya en aza indirici nitelikte olmasını<br />gerektiren ilkedir.</p>",
-        "Text": "<p>Tasarlanan dijital ortamın, irade dışı, kazayla ve kullanım örüntüsü dışında kullanımında karşılaşılabilecek kötü, tehlikeli, riskli veya olumsuz sonuçları engelleyici veya en aza indirici nitelikte olmasını gerektiren ilke aşağıdakilerden hangisidir?</p>",
-        "A": "<p>Basit ve sezgisel kullanım<br /><br /></p>",
-        "B": "<p>Algılanabilir bilgi<br /><br /></p>",
-        "C": "<p>Yaklaşmaya ve kullanıma uygun ölçüler ve mekân</p> <p><br /><br /></p>",
-        "D": "<p>Düşük fiziksel çaba<br /><br /></p>",
-        "E": "<p>Hatalara tolerans</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
-    },
-    {
-        "QuestionId": 3863033,
-        "UniteNo": 4,
-        "PageNumber": 131,
-        "AnswerExplanation": "<p>Dijital medyanın hayatı daha zor hale getirmesi</p>",
-        "Title": "<p>Dijital çağda engelli çocukların haklarına yönelik küresel konular izleyen biçimde sıralanabilir:</p>\n<p>• Engelli çocukların dijital medya kullanımları ve uygulamalarına ilişkin temel verilere daha fazla ihtiyaç duyulması, çocuklar arasında dijital medya kullanımına ilişkin araştırmalara ve veri toplamaya dahil edilmesi</p>\n<p>•Dijital medyanın hayatı daha kolay ve zevkli hâle getirebileceğinin yanı sıra engelli çocuklar için erişilemeyen yeni alanlar ortaya çıkarabileceğinin kabul edilmesi<br />• Dijital alanda haklara odaklanmanın engelli çocuğu pekiştirmesine ilişkin potansiyel riskler ve engelli çocukların seslerinin duyulabileceği alanlar ve fırsatlar yaratmanın önemli olması<br />• Koruma hakları ile engelli çocukların uygun düzeyde eylemlilik, özerklik ve kontrol kullanma hakları arasında denge kurulması ihtiyacının olması<br />• Erişilebilirlik ve katılım için birden çok iletişim yöntemine izin verecek şekilde araştırma yöntemlerini (çevrim içi anketler ve yüz yüze görüşmeler gibi) çerçevelemek ve",
-        "Text": "<p>Aşağıdakilerden hangisi dijital çağda engelli çocukların haklarına yönelik küresel gündem konuları arasında <strong>değildir</strong>?</p>",
-        "A": "<p>Medyanın erişilemeyen yeni alanlar ortaya çıkartması</p>",
-        "B": "<p>Engelli çocukların seslerinin duyulabileceği alanlar yaratılması</p>",
-        "C": "<p>Erişilebilirlik ve katılım için araştırmaların tasarlanması</p>",
-        "D": "<p>Engellilerin dijital ve sosyal haklarını ele alan programların genişletilmesi</p>",
-        "E": "<p>Dijital medyanın hayatı daha zor hale getirmesi</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
-    },
-    {
-        "QuestionId": 3863073,
-        "UniteNo": 4,
-        "PageNumber": 114,
-        "AnswerExplanation": "<p>I-II-III</p>",
-        "Title": "<p>Yetersiz veya eksik destek, öğretmenlerin eğitimler için isteksiz olmaları, dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engellerdir. </p>",
-        "Text": " <ol style=\"list-style-type: upper-roman;\"> <li>Yetersiz veya eksik destek</li> <li>Öğretmenlerin eğitimler için isteksiz olmaları </li> <li>Dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği</li> <li>Aile üyelerinin dijital teknoloji yetkinliği</li> </ol> <p>Yukarıdakilerden hangileri engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engellerdir? </p>",
-        "A": "<p>I-II-III</p>",
-        "B": "<p>I-III</p>",
-        "C": "<p>I-II</p>",
-        "D": "<p>II-III-IV</p>",
-        "E": "<p>III-IV</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "QuestionNumber": 3
     },
     {
         "QuestionId": 3863137,
@@ -413,23 +445,7 @@
         "E": "<p>Esnek Programlama</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 13
-    },
-    {
-        "QuestionId": 3863210,
-        "UniteNo": 4,
-        "PageNumber": 120,
-        "AnswerExplanation": "<p>Adil, eşitlikçi kullanım ilkesinin örneklerinden biridir. </p> ",
-        "Title": "",
-        "Text": "<p>Dijital ortamlarda renk körü engeline sahip kullanıcıların da bir ekrandaki içeriğin tamamını görebilmesi için tasarımda yüksek kontrast kullanılması evrensel tasarım ilkelerinden hangisine örnektir?</p>",
-        "A": "<p>Adil, eşitlikçi kullanım</p>",
-        "B": "<p>Kullanımda esneklik</p>",
-        "C": "<p>Basit ve sezgisel kullanım</p>",
-        "D": "<p>Hatalara tolerans</p>",
-        "E": "<p>Düşük fiziksel çaba </p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "QuestionNumber": 11
     },
     {
         "QuestionId": 3863213,
@@ -446,21 +462,5 @@
         "CorrectAnswer": "A",
         "UserAnswer": null,
         "QuestionNumber": 20
-    },
-    {
-        "QuestionId": 3863026,
-        "UniteNo": 4,
-        "PageNumber": 109,
-        "AnswerExplanation": "<p>Bilişsel</p>",
-        "Title": "<p>Dijital katılım boyutları şunlardır: (a) duyusalmotor, (b) bilişsel, (c) teknik, (d) teknolojik cihazlara ve (e) kodlara ve kurallara erişim.</p>",
-        "Text": "<p>Aşağıdakilerden hangisi Lussier-Desrochers ve diğerlerine (2017) göre zihin yetersizliği olan bireyler için dijital katılım boyutlarından biridir?</p>",
-        "A": "<p>Kişisel</p>",
-        "B": "<p>Duygusal</p>",
-        "C": "<p>Bilişsel</p>",
-        "D": "<p>İşitsel</p>",
-        "E": "<p>Görsel</p>",
-        "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
     }
 ]

@@ -3,9 +3,9 @@
         "SoruID": 3351203,
         "SoruMetni": "Karanlık odanın temiz ve özellikle tozdan arındırılmış bir ortam olması neden gereklidir?",
         "A": "Çalışmanın süresini uzatır",
-        "B": "Karanlık odadaki  oksijen için",
+        "B": "Karanlık odadaki oksijen için",
         "C": "Temizlik ve düzen çalışmayı kolaylaştırır",
-        "D": "Toz zerrecikleri filme ya da baskı kağıdına leke sorunu yaratabilir.",
+        "D": "Toz zerrecikleri filme ya da baskı kağıdına leke sorunu yaratabilir.",
         "E": "Toz zerrecikleri banyo suyunun kimyasını bozabilir",
         "DogruCevap": "D",
         "DersAd": "Temel Fotoğrafçılık",
@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Toz zerrecikleri filme ya da baskı kağıdına leke  sorun yaratabilir."
+        "Aciklama": "Toz zerrecikleri filme ya da baskı kağıdına leke sorun yaratabilir."
     },
     {
         "SoruID": 3351204,
@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 3351205,
-        "SoruMetni": "Spirale sarılı filmler neyin  içine yerleşti­rilerek banyo edilir?",
+        "SoruMetni": "Spirale sarılı filmler neyin içine yerleşti­rilerek banyo edilir?",
         "A": "Saklama kabı",
         "B": "Tank",
         "C": "Loop",
@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3351206,
-        "SoruMetni": "Küvet ya da ölçü kapları içindeki kimyasalların ısısını ölçmek ve kontrolünü sağla­mak için  kullanılan aracın adı nedir?",
+        "SoruMetni": "Küvet ya da ölçü kapları içindeki kimyasalların ısısını ölçmek ve kontrolünü sağla­mak için kullanılan aracın adı nedir?",
         "A": "Dijital kadranlı Timer/Zamanlayıcı",
         "B": "Agrandisör",
         "C": "Termometre",
@@ -161,10 +161,10 @@
     },
     {
         "SoruID": 3351211,
-        "SoruMetni": "Karanlık odada  baskı yapmanın en önemli faydası nedir?",
+        "SoruMetni": "Karanlık odada baskı yapmanın en önemli faydası nedir?",
         "A": "Titiz çalışalabilir",
         "B": "Keşif yapılabilir",
-        "C": "Bilgi ve deneyim kazanırken deney yapılabilir",
+        "C": "Bilgi ve deneyim kazanırken deney yapılabilir",
         "D": "Farklı tip ve özellikteki kâğıt, film ve kimyasallar öğrenilir.",
         "E": "Sonuçları etki edecek faktörleri bilir",
         "DogruCevap": "C",
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgi ve deneyim kazanırken deney yapılabilir"
+        "Aciklama": "Bilgi ve deneyim kazanırken deney yapılabilir"
     },
     {
         "SoruID": 3351213,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karanlık odaların fiziksel büyüklüğü kullanan kişi sayısı ve ortama göre değişebilmektedir. Kişisel<br/> kullanım için 4-5 m<sup>2</sup>’lik bir alan yeterli olabileceği gibi, okul, dernek vb. çok kişinin aynı anda çalışacağı ortamlar için ise daha büyük alanlar gerekmektedir."
+        "Aciklama": "Karanlık Oda ve Fiziki Yapısı<br>Karanlık odaların fiziksel büyüklüğü kullanan kişi sayısı ve ortama göre değişebilmektedir. Kişisel<br/>kullanım için 4-5 m<sup>2</sup>’lik bir alan yeterli olabileceği gibi, okul, dernek vb. çok kişinin aynı anda çalışacağı ortamlar için ise daha büyük alanlar gerekmektedir."
     },
     {
         "SoruID": 3351214,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Ajitasyon (Agitation)</strong><br/> Kimyasal işlemler sırasında, duyarlı yüzeye sürekli olarak bozulmamış banyonun temas etmesini sağlayan yöntem. Bu yöntem özellikle film ve kâğıtların geliştirme banyosunda bulundukları sırada ve saptama banyosunun (tespit banyosu ya da fix) ilk birkaç dakikasında çok önemlidir."
+        "Aciklama": "Film Yıkama Ekipmanları<br><strong>Ajitasyon (Agitation)</strong><br/>Kimyasal işlemler sırasında, duyarlı yüzeye sürekli olarak bozulmamış banyonun temas etmesini sağlayan yöntem. Bu yöntem özellikle film ve kâğıtların geliştirme banyosunda bulundukları sırada ve saptama banyosunun (tespit banyosu ya da fix) ilk birkaç dakikasında çok önemlidir."
     },
     {
         "SoruID": 3351215,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong><em>Agrandisör:</em></strong> Baskı işleminin en temel aracıdır, demek abartı sayılmaz. Kafa denilen bölümün üst kısmında bulunan lambasının yaydığı ışık, hemen altında bulunan ve kondensör olarak ifade edilen mercekten eşit ve homojen bir biçimde, şase denilen birimin içine yerleştirilen filmden geçerek alt kısımda bulunan objektife ulaşır. Kafanın alt ucunda bulunan objektif, film üzerindeki görüntünün kâğıt üzerinde odaklanmasını sağladığı gibi, içindeki diyafram aracılığı ile de pozlamanın ışık şiddetini belirleyen önemli bir birimdir. Objektifin optik kalitesi aynı zamanda görüntünün keskinliğini ve baskı kalitesini de belirleyen en önemli değişkenlerdendir. Agrandisör objektiflerinin odak uzaklıkları baskıda kullanılacak film ve kâğıt boyutuna göre değişiklik gösterirler."
+        "Aciklama": "Kart Baskısında Kullanılan Araç ve Aksesuarlar<br><strong><em>Agrandisör:</em></strong> Baskı işleminin en temel aracıdır, demek abartı sayılmaz. Kafa denilen bölümün üst kısmında bulunan lambasının yaydığı ışık, hemen altında bulunan ve kondensör olarak ifade edilen mercekten eşit ve homojen bir biçimde, şase denilen birimin içine yerleştirilen filmden geçerek alt kısımda bulunan objektife ulaşır. Kafanın alt ucunda bulunan objektif, film üzerindeki görüntünün kâğıt üzerinde odaklanmasını sağladığı gibi, içindeki diyafram aracılığı ile de pozlamanın ışık şiddetini belirleyen önemli bir birimdir. Objektifin optik kalitesi aynı zamanda görüntünün keskinliğini ve baskı kalitesini de belirleyen en önemli değişkenlerdendir. Agrandisör objektiflerinin odak uzaklıkları baskıda kullanılacak film ve kâğıt boyutuna göre değişiklik gösterirler."
     },
     {
         "SoruID": 3351216,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Marjör:</strong> Agrandisör tablasının üstüne konularak kullanılan bu aparatın baskı esnasında iki işlevi bulunmaktadır. Yatay ve düşey düzlemde cetvel göstergesi ve ayarlanabilir kolları sayesinde baskı boyutu ayarlanabilir. İkinci olarak, kağıdın bu kolların altına yerleştirilmesiyle hareket etmesi engellenmiş olur. Ayrıca kâğıt tabanlı kâğıtlara baskı yapıldığında kağıdın dışa doğru kıvrılarak bombe yapmasını önleyerek düz durmasını sağlar. Zemin beyaz ya da krem renk olduğu için netlik ayarı kâğıt kullanılmadan da marjörden yapılabilir. Ancak hassas bir netlik için kağıt kalınlığını da göz ardı etmemek gerekir."
+        "Aciklama": "Kart Baskısında Kullanılan Araç ve Aksesuarlar<br><strong>Marjör:</strong> Agrandisör tablasının üstüne konularak kullanılan bu aparatın baskı esnasında iki işlevi bulunmaktadır. Yatay ve düşey düzlemde cetvel göstergesi ve ayarlanabilir kolları sayesinde baskı boyutu ayarlanabilir. İkinci olarak, kağıdın bu kolların altına yerleştirilmesiyle hareket etmesi engellenmiş olur. Ayrıca kâğıt tabanlı kâğıtlara baskı yapıldığında kağıdın dışa doğru kıvrılarak bombe yapmasını önleyerek düz durmasını sağlar. Zemin beyaz ya da krem renk olduğu için netlik ayarı kâğıt kullanılmadan da marjörden yapılabilir. Ancak hassas bir netlik için kağıt kalınlığını da göz ardı etmemek gerekir."
     },
     {
         "SoruID": 3351217,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karanlık odada kullanılan kimyasalların gerek solunma yoluyla gerekse temas yoluyla insan sağlığına olumsuz etkileri bulunmaktadır. Bu nedenle kullanım esnasında çok dikkatli ve koruyucu tedbirlerin alındığından emin olunmalıdır. Koruyucu tedbir olarak önlük, gözlük, maske, eldiven ve maşa kullanmak, çalışma esnasında ortamı sürekli havalandırmak, sık sık mola vermek, çalışma esnasında yiyecek ve içecek tüketmemek, uyarı levha ve etiketleri kullanmak çalışmaların daha sağlıklı yürütülmesini sağlayacaktır."
+        "Aciklama": "Kart Baskısında Kullanılan Araç ve Aksesuarlar<br>Karanlık odada kullanılan kimyasalların gerek solunma yoluyla gerekse temas yoluyla insan sağlığına olumsuz etkileri bulunmaktadır. Bu nedenle kullanım esnasında çok dikkatli ve koruyucu tedbirlerin alındığından emin olunmalıdır. Koruyucu tedbir olarak önlük, gözlük, maske, eldiven ve maşa kullanmak, çalışma esnasında ortamı sürekli havalandırmak, sık sık mola vermek, çalışma esnasında yiyecek ve içecek tüketmemek, uyarı levha ve etiketleri kullanmak çalışmaların daha sağlıklı yürütülmesini sağlayacaktır."
     },
     {
         "SoruID": 3351218,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Gizli Görüntü </strong><strong>(Latent Image)</strong><br/> Fotoğraf çekildikten sonra fotoğrafik duyarkatta, pozlama sonucunda oluşan ancak gözle görülemeyen görüntü. Duyarkattaki gizli görüntü, film ve kâğıt üzerinde geliştirme banyosunda; algılayıcıda ise işlendikten sonra gerçek görüntüye dönüşür."
+        "Aciklama": "Karanlık Odada Kullanılan Kimyasallar ve Hazırlanması<br><strong>Gizli Görüntü </strong><strong>(Latent Image)</strong><br/>Fotoğraf çekildikten sonra fotoğrafik duyarkatta, pozlama sonucunda oluşan ancak gözle görülemeyen görüntü. Duyarkattaki gizli görüntü, film ve kâğıt üzerinde geliştirme banyosunda; algılayıcıda ise işlendikten sonra gerçek görüntüye dönüşür."
     },
     {
         "SoruID": 3351219,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Satın alınan fotoğraf kağıdının teknik özelliklerine ilişkin önemli bilgiler genelde kutu ya da zarfın üstünde yazılmaktadır. Bu özelliklerden biri de <strong>kontrastlık </strong>derecesidir.<br/> Kontrastlık derecelerine göre kâğıtlar 0-5 arasında numaralara göre sınıflandırılır. 0 en düşük, 5 en yüksek kontrastlık oranının simgeler. Düşük kontrastlı bir sonuç elde edilmek isteniyorsa 0-1 numara, ortalama bir değer için 2 ya da 3 numara, yüksek kontrastlı bir sonuç elde etmek için ise 4-5 numaralı kartlar tercih edilir."
+        "Aciklama": "Siyah Beyaz Fotoğraf Kâğıtları<br>Satın alınan fotoğraf kağıdının teknik özelliklerine ilişkin önemli bilgiler genelde kutu ya da zarfın üstünde yazılmaktadır. Bu özelliklerden biri de <strong>kontrastlık </strong>derecesidir.<br/>Kontrastlık derecelerine göre kâğıtlar 0-5 arasında numaralara göre sınıflandırılır. 0 en düşük, 5 en yüksek kontrastlık oranının simgeler. Düşük kontrastlı bir sonuç elde edilmek isteniyorsa 0-1 numara, ortalama bir değer için 2 ya da 3 numara, yüksek kontrastlı bir sonuç elde etmek için ise 4-5 numaralı kartlar tercih edilir."
     },
     {
         "SoruID": 3351220,
@@ -337,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Baskı aşamasında dikkat edilmesi gereken birkaç faktör vardır. Bunlar, kullanılacak kağıdın seçimi, geliştirme solüsyonunun seçimi ve agrandisör ile pozlama sürecidir."
+        "Aciklama": "Baskı Süreci ve İşlemleri<br>Baskı aşamasında dikkat edilmesi gereken birkaç faktör vardır. Bunlar, kullanılacak kağıdın seçimi, geliştirme solüsyonunun seçimi ve agrandisör ile pozlama sürecidir."
     },
     {
         "SoruID": 3351221,
-        "SoruMetni": "Bir negatif filmin tüm karelerinin birebir boyutta tek bir kâğıt üzerine basılmış pozitif<br/> hâline ne ad verilir?",
+        "SoruMetni": "Bir negatif filmin tüm karelerinin birebir boyutta tek bir kâğıt üzerine basılmış pozitif<br/>hâline ne ad verilir?",
         "A": "Kağıt Baskı",
         "B": "Kontak Baskı",
         "C": "Renkli Baskı",
@@ -357,6 +357,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong><em>Kontak Baskı</em></strong><br/> Kontak baskı bir negatif filmin tüm karelerinin birebir boyutta tek bir kâğıt üzerine basılmış pozitif hâlidir. Kontak baskı temelde banyo edilen filmdeki tüm karelerin pozitif görüntülerini görmeye yarar. Kontak baskı yapıldıktan sonra loop ya da büyüteç ile tüm kareler incelenerek büyük boy baskı için seçim yapılır. Kontak baskı aynı zamanda bir fotoğrafçının çekim performansının gözlenmesi için de önemlidir."
+        "Aciklama": "Konu Başlığı: Baskı Süreci ve İşlemleri<br><strong><em>Kontak Baskı</em></strong><br/>Kontak baskı bir negatif filmin tüm karelerinin birebir boyutta tek bir kâğıt üzerine basılmış pozitif hâlidir. Kontak baskı temelde banyo edilen filmdeki tüm karelerin pozitif görüntülerini görmeye yarar. Kontak baskı yapıldıktan sonra loop ya da büyüteç ile tüm kareler incelenerek büyük boy baskı için seçim yapılır. Kontak baskı aynı zamanda bir fotoğrafçının çekim performansının gözlenmesi için de önemlidir."
     }
 ]

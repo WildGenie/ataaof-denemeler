@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 3374212,
-        "SoruMetni": "‘Babil Yaradılış Miti’ nden etkilenen ve  ‘Odysseus’yu etkileyen ünlü Hitit efsanesi hangisidir?",
+        "SoruMetni": "‘Babil Yaradılış Miti’ nden etkilenen ve ‘Odysseus’yu etkileyen ünlü Hitit efsanesi hangisidir?",
         "A": "Kumarbi",
         "B": "Hannahanna",
         "C": "Kamruşepa",
@@ -38,6 +38,46 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "İlluyanka Efsanesi genel hatları ile Babil’de yeni yıl şenliklerinde okunan ejder Tiamat’ın öldürülmesini konu alan Babil Yaradılış Mit’inden etkilenmekle birlikte, Homeros’un Odysseus’unda (I 44 vd. II 1 vd.) Atlas’ın kızı Kalypso ve Odysseus ile ilgili anlatılan olayları etkilemiş olduğu anlaşılmaktadır. Ayrıca efsanede geçen başlık parası (kuşata) deyimi, Hitit dünyasında görülen ve Anadolu kültürü olarak devam etmiş bir geleneğin devamını yansıtması açısından önemlidir. Doğru seçenek E’dir"
+    },
+    {
+        "SoruID": 3374213,
+        "SoruMetni": "<strong>‘</strong>Kumarbi’ Efsanesinde aşağıdaki tanrılardan hangisinden söz <u>edilmez?</u>",
+        "A": "Anu",
+        "B": "Alalu",
+        "C": "Nara",
+        "D": "Minki",
+        "E": "Hannhanna",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.998985",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kumarbi (Gökteki Krallık) Efsanesi Alalu, Anu ve Kumarbi gibi tanrıların üzerine kurgulanmıştır. Anu Gökyüzü Tanrısı’dır. Alalu da onun daha önceki atasıdır. Ayrıca metin kadim tanrılar Nara, Napşara, Minki ve Ammunki’den de söz etmektedir. Hannahanna ise <em>Telipi’nun Kayboluşu </em>efsanesinde yer almıştır. Doğru seçenek E’dir."
+    },
+    {
+        "SoruID": 3374214,
+        "SoruMetni": "‘Ullikummi Şarkısı’nda yer alan tanrıların mücadeleleri konusu hangi uygarlık tarafından Yunanlılara geçmiştir?",
+        "A": "Sümerler",
+        "B": "Asurlar",
+        "C": "Mısırlılar",
+        "D": "Lidyalılar",
+        "E": "Fenikeliler",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.966985",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Bu efsanenin temelinde yatan eski ve yeni tanrılar arasındaki mücadeleler Mısır, Babil ve Ugarit mitlerindan da bilinmektedir. Bu efsane Fenikeliler aracılığıyla Yunanlılara geçmiştir. Doğru seçenek E’dir."
     },
     {
         "SoruID": 3374215,
@@ -72,12 +112,12 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:53.460892",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.912279",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Kaneş kraliçesi bir yılda otuz erkek çocuk doğurur ve kendi kendine: ‘doğurduklarının ne kalabalık bir şey’ olduğunu fısıldar. Sonra bir sepeti kalafatlayarak çocuklarını bu sepete koyup onları nehre bırakır. Nehir, çocukları Zalpuwa kentindeki denize sürükler ve tanrılar çocukları besler, büyütür. Aradan yıllar geçmiştir, kraliçe bu kez bir yıl içinde otuz kız çocuğu dünyaya getirir ve bu çocukları bizzat kendisi besleyip büyütür.”. Bu masal, Zalpa Kenti Öyküsü (Bir Yılda Otuz Çocuk Doğuran Kaneş Kraliçesi) olarak adlandırılır. Doğru seçenek E’dir.<br/>"
+        "Aciklama": "“Kaneş kraliçesi bir yılda otuz erkek çocuk doğurur ve kendi kendine: ‘doğurduklarının ne kalabalık bir şey’ olduğunu fısıldar. Sonra bir sepeti kalafatlayarak çocuklarını bu sepete koyup onları nehre bırakır. Nehir, çocukları Zalpuwa kentindeki denize sürükler ve tanrılar çocukları besler, büyütür. Aradan yıllar geçmiştir, kraliçe bu kez bir yıl içinde otuz kız çocuğu dünyaya getirir ve bu çocukları bizzat kendisi besleyip büyütür.”. Bu masal, Zalpa Kenti Öyküsü (Bir Yılda Otuz Çocuk Doğuran Kaneş Kraliçesi) olarak adlandırılır. Doğru seçenek E’dir."
     },
     {
         "SoruID": 3374217,
@@ -120,6 +160,46 @@
         "Aciklama": "Hitit mitolojisinde çivi yazılı metin ciltlerinde altı yüzün üzerinde tanrı ismi ortaya çıkarılmıştır. Bunlar Mezopotamya, Hatti, Hurri, Luwi ve Pala orijinli tanrı ve tanrıçalardır. Grek ise Yunanlılara ait anlamında olup Hititler Yunanlıları etkilemiştir. Doğru seçenek E’dir."
     },
     {
+        "SoruID": 3374219,
+        "SoruMetni": "I. Alalu A. Savaş<br/>II. Aştapi B. Fırtına<br/>III. Teşup C. Gökyüzü<br/>Yukarıda verilen Hitit mitolojisindeki tanrılar ve onların özellikleri düşünüldüğünde aşağıdaki eşleştirmelerden hangisi doğrudur?",
+        "A": "I-A/II-B/III-C",
+        "B": "I-B/II-A/III-C",
+        "C": "I-C/II-B/III-A",
+        "D": "I-B/II-C/III-A",
+        "E": "I-C/II-A/III-B",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.914032",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Alalu, gökyüzü tanrısı olup dokuz yıl kral olarak görev almıştır. Aştapi, savaş tanrısıdır ve Teşup ise mitolojide kaybolan fırtına tanrısıdır. Doğru seçenek E’dir."
+    },
+    {
+        "SoruID": 3374220,
+        "SoruMetni": "Aşağıda verilen Hitit mitlerinin kökenleri hangisinde <u>yanlış</u> olarak eşlenmiştir?",
+        "A": "İlluyanka Efsanesi – Hatti kökenli",
+        "B": "Tanrı Lama’nın Şarkısı – Hurri kökenli",
+        "C": "Gılgamış – Mezopotamya kökenli",
+        "D": "Elkunirşa-Aşertu – Kenan kökenli",
+        "E": "Kumarbi Efsanesi – Hatti kökenli",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.094693",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "A, B, C ve D seçeneklerindeki eşleştirmeler doğruyken E seçeneğinde verilen Kumarbi Efsanesi Hatti değil Hurri kökenli olduğundan yanlış bir eşleştirmedir. Doğru seçenek E’dir."
+    },
+    {
         "SoruID": 3374260,
         "SoruMetni": "\"Hitit edebiyatında yer alan efsanelerin tamamı o dönem eski çağ uluslarının efsanelerinin birer öykünmesinden oluşmaktadır. Hitit edebiyat dünyasında yer alan bu efsaneler daha çok Mezopotamya (Sumer), Anadolu (Hatti) ve Hurri kökenlidir.\" Bu bilgiye dayanarak aşağıdakilerden hangisini söylemek mümkündür?",
         "A": "Hitit halkı efsane anlatılmasından korkmuştur",
@@ -137,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hitit edebiyatında yer alan efsanelerin başka kültürlerden alındığı ve Hititlerin kendi kültürünü anlattığı veya kendilerine ait efsaneler yaratamadığı görülür.<br/><br/>Doğru cevap C seçeneğidir."
+        "Aciklama": "Hitit edebiyatında yer alan efsanelerin başka kültürlerden alındığı ve Hititlerin kendi kültürünü anlattığı veya kendilerine ait efsaneler yaratamadığı görülür.<br/>Doğru cevap C seçeneğidir."
     },
     {
         "SoruID": 3374261,
@@ -201,11 +281,11 @@
     },
     {
         "SoruID": 3374264,
-        "SoruMetni": "<br/>Kumarbi’nin, Fırtına Tanrısı’na karşı bazı planlar kurması ile başlayan, eski ve yeni Tanrılar arasındaki mücadelelerden de bahsedilen ve Fenikeliler aracılığıyla Yunanlılara geçen efsane aşağıdakilerden hangisidir?<br/>",
-        "A": "<br/> <br/> <br/>Nerik kenti Fırtına Tanrısı’na Yakarış ve Kurban Sunma<br/><br/><br/>",
-        "B": "<br/> <br/> <br/>Hedammu Şarkısı<br/><br/><br/>",
-        "C": "<br/> <br/> <br/>Anzili ve Zukki’nin Kayboluşu<br/><br/><br/>",
-        "D": "<br/> <br/> <br/>Kuliwişna kenti Fırtına Tanrısı’nın Kayboluşu<br/><br/><br/>",
+        "SoruMetni": "<br/>Kumarbi’nin, Fırtına Tanrısı’na karşı bazı planlar kurması ile başlayan, eski ve yeni Tanrılar arasındaki mücadelelerden de bahsedilen ve Fenikeliler aracılığıyla Yunanlılara geçen efsane aşağıdakilerden hangisidir?",
+        "A": "<br/>Nerik kenti Fırtına Tanrısı’na Yakarış ve Kurban Sunma",
+        "B": "<br/>Hedammu Şarkısı",
+        "C": "<br/>Anzili ve Zukki’nin Kayboluşu",
+        "D": "<br/>Kuliwişna kenti Fırtına Tanrısı’nın Kayboluşu",
         "E": "Ullikummi Şarkısı",
         "DogruCevap": "E",
         "DersAd": "Mitoloji ve Din",
@@ -217,7 +297,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Soru kökünde bahsedilen özelliklerin tamamı E seçeneğinde yer alan Ullikummi Şarkısı efsanesinde yer almaktadır.<br/><br/>Doğru cevap E seçeneğidir."
+        "Aciklama": "Soru kökünde bahsedilen özelliklerin tamamı E seçeneğinde yer alan Ullikummi Şarkısı efsanesinde yer almaktadır.<br/>Doğru cevap E seçeneğidir."
+    },
+    {
+        "SoruID": 3374265,
+        "SoruMetni": "Aşağıdakilerden hangisi sel afetlerinin anlatıldığı Mezopotamya kökenli efsanedir?",
+        "A": "Gılgamış",
+        "B": "Atramhaşi",
+        "C": "Günah İneği",
+        "D": "Elkunirşa",
+        "E": "Zalpa Kenti Öyküsü",
+        "DogruCevap": "B",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.158391",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Mezopotamya sel afetlerinin anlatıldığı hem Akadca ve hem de Hititçe olarak yazılmış olan Atramhaşi'dir.<br/>Doğru cevap B seçeneğidir."
     },
     {
         "SoruID": 3374266,
@@ -237,7 +337,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/>Hittitlerin yerel kült merkezlerinde çeşitli ayinler düzenledikleri pek çok tanrı ve tanrıçaları vardı. Panteonda tam bin tanrının olduğu bizzat Hititler tarafından çeşitli vesilelerle belirtilmiştir. Doğru cevap C seçeneğidir.<br/><br/><br/>"
+        "Aciklama": "<br/>Hittitlerin yerel kült merkezlerinde çeşitli ayinler düzenledikleri pek çok tanrı ve tanrıçaları vardı. Panteonda tam bin tanrının olduğu bizzat Hititler tarafından çeşitli vesilelerle belirtilmiştir. Doğru cevap C seçeneğidir."
+    },
+    {
+        "SoruID": 3374267,
+        "SoruMetni": "Aşağıdakilerden tanrı/tanrıçalardan hangisi Hitit mitolojisinde <em>geçmemektedir?</em>",
+        "A": "Alalu",
+        "B": "Anu",
+        "C": "Dionysos",
+        "D": "Hepat",
+        "E": "İnara",
+        "DogruCevap": "C",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.002652",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "A, B, D ve E seçeneklerinde yer alan tanrı/tanrıçalar Hitit mitolojisinde yer alırken Dionysos daha çok Yunan mitolojisinde karşımıza çıkmaktadır."
     },
     {
         "SoruID": 3374268,
@@ -260,6 +380,46 @@
         "Aciklama": "Hiti mitolojisinde ay tanrısı olarak Kaşku'dan bahsedilmektedir. Doğru cevap A seçeneğidir."
     },
     {
+        "SoruID": 3374269,
+        "SoruMetni": "Hitit mitolojisindeki tanrılardan Teşup için aşağıdakilerden hangisi söylenebilir?",
+        "A": "Kumarbi'nin oğludur",
+        "B": "Fırtına tanrısıdır",
+        "C": "Başka bir tanrıçanın hizmetçisidir",
+        "D": "Büyü tanrıçasıdır",
+        "E": "Güneş tanrısının çobanıdır",
+        "DogruCevap": "B",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.882303",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<br/>Mitolojide kaybolan Fırtına Tanrısı’dır. Bu tanrının Hattice okunuşu Taru olup eşinin adı Wurunkatte’dir. Bu tanrı Luwice tarhunt- şeklinde yazılmıştır.<br/>Öfke, hiddet ve küskünlük içinde karanlık toprağa giden Fırtına Tanrısı, Arinna şehrinin Güneş Tanrısı, EREŞ.KI.GAL ve Wuruntemu’nun yardımı ile geri getirilir. Ayrıca Fırtına Tanrısı, oğlu Telipinu’nun kaybolması ile umudunu yitirir ve Güneş Tanrısı’na şikâyette bulunur. Hannahanna’dan ise onu bulmasını ister. Aynı zamanda Teşup, mitolojide Kuzey Mezopotamya’da bulunan Kummiia şehrinin Kralı, Gökyüzünün Kralı ve Hatti Ülkelerinin Beyi olarak da anılmaktadır. Tanrıların en büyüğü olan bu tanrının eşi Hepat’tır. Onun oğlu Şarruma ve Nerik şehrinin Fırtına Tanrısı’dır. İki dağ tanrısı üzerinde sakallı bir kişi tarafından temsil edilen Fırtına Tanrısı elinde bir asa tutar. Aynı zamanda bu tanrı hem savaşı ve hem de zaferi simgeler. Onun kutsal boğalarından birinin adı Şeri ve diğeri Hurri (ya da Tella)’dir.<br/>Doğru cevap B seçeneğidir."
+    },
+    {
+        "SoruID": 3374360,
+        "SoruMetni": "I. Illuyanka<br/>II. Kamruşepa<br/>III. Kumarbi<br/>Yukarıdakilerden hangisi ya da hangileri Haitti (Anadolu) kökenli mitler arasındadır?",
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "I ve II",
+        "D": "I ve III",
+        "E": "I, II ve III",
+        "DogruCevap": "C",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.884268",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Haitti (Anadolu) kökenli mitler şöyledir.<br/>A- İlluyanka<br/>B- Deniz’in Kızı ve Telipinu<br/>C- Kamruşepa<br/>D- Fırtına Tanrısı’nın Müthiş Bir Şekilde<br/>Gürlemesi (Gökyüzünden Düşen Ay)<br/>E- Ebedi Olan İnsan Ruhunun Yolculuğu<br/>F- Kayıp Tanrı Mitleri<br/>Dolayısıyla doğru cevap C'dir."
+    },
+    {
         "SoruID": 3374361,
         "SoruMetni": "Fırtına Tanrısı ile bir yılan/ejderhanın kavgasını konu edinen Hatti (Anadolu) kökenli mit aşağıdakilerden hangisidir?",
         "A": "İlluyanka Efsanesi",
@@ -278,6 +438,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Hatti (Anadolu) kökenli mitlerin en önemlilerinden biri yılan/ejderha İlluyanka efsanesidir. Bu efsaneye Fırtına Tanrısı ve İlluyanka'nın dövüşmesini konu edinir. Doğru cevap A'dır."
+    },
+    {
+        "SoruID": 3374362,
+        "SoruMetni": "Gökteki Krallık olarak da bilinen, Alalu, Anu ve Kumarbi gibi tanrıların üzerine kurgulanan Hurri kökenli mitos aşağıdakilerden hangisidir?",
+        "A": "Ullikummi Şarkısı",
+        "B": "Zalpa Kenti Öyküsü",
+        "C": "Appu ve İki Oğlu",
+        "D": "Avcı Keşşi ve Karısı",
+        "E": "Kumarbi Efsanesi",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.081891",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Gökteki Krallık olarak da bilinen, Alalu, Anu ve Kumarbi gibi tanrıların üzerine kurgulanan Hurri kökenli mitos Kumarbi Efsanesi'dir. Doğru cevap E'dir."
     },
     {
         "SoruID": 3374363,
@@ -303,9 +483,9 @@
         "SoruID": 3374364,
         "SoruMetni": "Avcı Keşşi ve Karısı masalında tanrıların Keşşi'ye kızgın olmalarının temel sebebi aşağıdakilerden hangisidir?",
         "A": "Udubşarri'nin kız kardeşiyle evlenmesi",
-        "B": "Tüm ilgisini karısına yöneltmesinden dolayı annesini kızdırması",
-        "C": "Fırtına tanrısı ile kavgaya tutuşması",
-        "D": "Libasyonları ihmal etmesi",
+        "B": "Tüm ilgisini karısına yöneltmesinden dolayı annesini kızdırması",
+        "C": "Fırtına tanrısı ile kavgaya tutuşması",
+        "D": "Libasyonları ihmal etmesi",
         "E": "Kaneş Kraliçesi ile evlenmesi",
         "DogruCevap": "D",
         "DersAd": "Mitoloji ve Din",
@@ -320,12 +500,32 @@
         "Aciklama": "Keşşi evlenince tüm ilgisini karısına göstermeye başlar. Bunun sonucunda da tanrılara libasyonları ihmal eder. Bu tanrıları kızdırır. Dolayısıyla doğru cevap D'dir."
     },
     {
+        "SoruID": 3374365,
+        "SoruMetni": "Anadolu geleneği olan yardımlaşma ve hediyeleşmenin Hitit'lerde de yaygın olduğunu gösteren masal aşağıdakilerden hangisidir?",
+        "A": "Appu ve İki Oğlu",
+        "B": "Güneş Tanrısı, İnek ve Balıkçı",
+        "C": "Avcı Keşşi ve Karısı",
+        "D": "Zalpa Kenti Öyküsü",
+        "E": "Gurparanzah masalı",
+        "DogruCevap": "B",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.165527",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Anadolu geleneği olan yardımlaşma ve hediyeşleme kültürünün Hitit dünyasında da yaygın olduğunu ‘Güneş Tanrısı, İnek ve Balıkçı’ masalı çok güzel bir şekilde özetlemektedir. Doğru cevap B'dir."
+    },
+    {
         "SoruID": 3374366,
-        "SoruMetni": "Hitit mitolojisindeki tanrılardan biri olan Anu ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+        "SoruMetni": "Hitit mitolojisindeki tanrılardan biri olan Anu ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
         "A": "Tanrıların ikincisidir",
         "B": "Teşup ve Taşmişu'nun babasıdır",
         "C": "Alalu'ya saki olarak hizmet etmiştir",
-        "D": "Kumarbi'yi yendikten sonra dokuz yıl gökyüzü tahtına oturmuştur",
+        "D": "Kumarbi'yi yendikten sonra dokuz yıl gökyüzü tahtına oturmuştur",
         "E": "Mezopotamya kökenlidir",
         "DogruCevap": "D",
         "DersAd": "Mitoloji ve Din",
@@ -360,8 +560,28 @@
         "Aciklama": "Hitit mitolojisinde Anu ve Kumarbi’nin çocuğu, Fırtına Tanrısı ve Taşmişu’nun erkek kardeşi olan tanrı Aranzah'tır (Dicle Nehri). Doğru cevap B'dir."
     },
     {
+        "SoruID": 3374368,
+        "SoruMetni": "Hititlerde tüm tanrıların annesi ünvanına sahip tanrıça aşağıdakilerden hangisidir?",
+        "A": "Hannahanna",
+        "B": "Kamruşepa",
+        "C": "Kubaba",
+        "D": "Kumarbi",
+        "E": "Hapantaliia",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.978026",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Hannahanna, Eski Hitit Dönemine tarihlendirilen Kaybolan Tanrı Efsanelerinde, kaybolan tanrıların aranmasını isteyen ve Tüm Tanrıların Annesi ya da Büyükanne unvanına sahip tanrıçadır. Doğru cevap A'dır."
+    },
+    {
         "SoruID": 3374369,
-        "SoruMetni": "I. Kaybolan Fırtına Tanrısı'dır<br/> II. Kuzey Mezopotamya’da bulunan Kummiia Nehrinin Kralı, Gökyüzünün Kralı ve Hatti Ülkelerinin Beyi olarak anılmaktadır<br/> III. Bilge Kral ve Tanrıların Babası olarak nitelendirilmiştir<br/> Yukarıdakilerden hangisi ya da hangileri Hitit tanrılarından Teşup ile ilgili doğru bir bilgidir?",
+        "SoruMetni": "I. Kaybolan Fırtına Tanrısı'dır<br/>II. Kuzey Mezopotamya’da bulunan Kummiia Nehrinin Kralı, Gökyüzünün Kralı ve Hatti Ülkelerinin Beyi olarak anılmaktadır<br/>III. Bilge Kral ve Tanrıların Babası olarak nitelendirilmiştir<br/>Yukarıdakilerden hangisi ya da hangileri Hitit tanrılarından Teşup ile ilgili doğru bir bilgidir?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -377,7 +597,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Teşup, mitolojide Kaybolan Fırtına Tanrısı'dır. Kuzey Mezopotamya’da bulunan Kummiia Nehrinin Kralı, Gökyüzünün Kralı ve Hatti Ülkelerinin Beyi olarak anılmaktadır. Bilge Kral ve Tanrıların Babası olarak nitelendirilen tanrı Teşup değil Kumarbi'dir. Doğru cevap D'dir."
+        "Aciklama": "Teşup, mitolojide Kaybolan Fırtına Tanrısı'dır. Kuzey Mezopotamya’da bulunan Kummiia Nehrinin Kralı, Gökyüzünün Kralı ve Hatti Ülkelerinin Beyi olarak anılmaktadır. Bilge Kral ve Tanrıların Babası olarak nitelendirilen tanrı Teşup değil Kumarbi'dir. Doğru cevap D'dir."
+    },
+    {
+        "SoruID": 3374429,
+        "SoruMetni": "Aşağıdakilerden hangisi baharı/nevruzu müjdeleyen Anadolu kökenli efsanelerden biridir?",
+        "A": "Elkurnişa ve Aşertu",
+        "B": "Telipinu’nun Kayboluşu",
+        "C": "Kumarbi Efsanesi",
+        "D": "Zalpa Kenti Öyküsü",
+        "E": "Appu ve iki oğlu",
+        "DogruCevap": "B",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.167022",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Anadolu kökenli ve yine baharı/nevruzu müjdeleyen bir başka Hitit efsanesi de ‘Tanrı Telipinu’nun Kayboluşu’ mitidir."
     },
     {
         "SoruID": 3374430,
@@ -401,7 +641,7 @@
     },
     {
         "SoruID": 3374431,
-        "SoruMetni": "Hurri kökenli efsanelerin anakonusunu, Kumarbi ve Fırtına Tanrısı Teşup’un tanrılar üzerinde bir krallık elde etmek için verdiği mücadele oluşturmakta­dır. Buna göre;<br/> Kumarbi (Gökteki Krallık Efsanesi)<br/> Ullikummi Şarkısı<br/> Kamruşepa<br/> Tanrı LAMA’nın Şarkısı<br/> Yukarıdakilerden hangileri Hurri Kökenli Mitoslardandır?",
+        "SoruMetni": "Hurri kökenli efsanelerin anakonusunu, Kumarbi ve Fırtına Tanrısı Teşup’un tanrılar üzerinde bir krallık elde etmek için verdiği mücadele oluşturmakta­dır. Buna göre;<br/>Kumarbi (Gökteki Krallık Efsanesi)<br/>Ullikummi Şarkısı<br/>Kamruşepa<br/>Tanrı LAMA’nın Şarkısı<br/>Yukarıdakilerden hangileri Hurri Kökenli Mitoslardandır?",
         "A": "Yalnız I",
         "B": "I-II",
         "C": "I-II-III",
@@ -432,7 +672,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:53.354194",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.906761",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -441,7 +681,7 @@
     },
     {
         "SoruID": 3374433,
-        "SoruMetni": "Zalpa Hikayesi - Musa Peygamber Hikayesi<br/> Appu ve iki oğlu – İbrahim Peygamber Hikayesi<br/> Avcı Keşşi ve Karısı – Musa Peygamber Hikayesi<br/> Güneş Tanrısı, İnek ve Balıkçı – İbrahim Peygamber Hikayesi<br/> Yukarıda yapılan Mitoloji ve din hikayelerinden hangileri doğru eşleştirilmiştir?",
+        "SoruMetni": "Zalpa Hikayesi - Musa Peygamber Hikayesi<br/>Appu ve iki oğlu – İbrahim Peygamber Hikayesi<br/>Avcı Keşşi ve Karısı – Musa Peygamber Hikayesi<br/>Güneş Tanrısı, İnek ve Balıkçı – İbrahim Peygamber Hikayesi<br/>Yukarıda yapılan Mitoloji ve din hikayelerinden hangileri doğru eşleştirilmiştir?",
         "A": "Yalnız I",
         "B": "I-II",
         "C": "I-II-III",
@@ -457,7 +697,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hitit masalları içinde ‘Zalpa kenti hikayesi’nin kutsal kitaplarda anlatı­lan Musa peygamber hikayelerini, ‘Appu ve iki oğlu’ masalının da İbra­him peygamber hikayesini anımsattığını gördük. Ayrıca ‘Güneş Tanrısı, İnek ve Balıkçı’ masalında da Anadolu’da yardımlaşmanın ne kadar önem taşıdığını okuduk. Yukarıda da ifade ettiğimiz gibi  efsaneler bize eski dünyanın gelenekleri hakkında da bazı bilgiler verebilir."
+        "Aciklama": "Hitit masalları içinde ‘Zalpa kenti hikayesi’nin kutsal kitaplarda anlatı­lan Musa peygamber hikayelerini, ‘Appu ve iki oğlu’ masalının da İbra­him peygamber hikayesini anımsattığını gördük. Ayrıca ‘Güneş Tanrısı, İnek ve Balıkçı’ masalında da Anadolu’da yardımlaşmanın ne kadar önem taşıdığını okuduk. Yukarıda da ifade ettiğimiz gibi efsaneler bize eski dünyanın gelenekleri hakkında da bazı bilgiler verebilir."
+    },
+    {
+        "SoruID": 3374434,
+        "SoruMetni": "Hitit Mitolojisinde geçen tanrı ve tanrıçaların aşağıdaki hangi geniş aileyi kapsadığı <u>söylenemez</u>?",
+        "A": "Sumer",
+        "B": "Akad",
+        "C": "Asur",
+        "D": "Hatti",
+        "E": "Luwi",
+        "DogruCevap": "C",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.980141",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Hitit mitolojisinde geçen tanrı ve tanrıçalarının Sumer, Akad, Hatti, Hur­ri ve Luwi kökenli geniş bir aileyi kapsadığını idrak ederek aslında Hititle­rin hoşgörü saahibi bir eskiçağ medeniyeti olduğu anladık."
     },
     {
         "SoruID": 3374435,
@@ -480,6 +740,26 @@
         "Aciklama": "Teşup, mitolojide Kuzey Mezopotamya’da bulunan <em>Kummiia </em>Nehrinin Kralı, Gökyüzünün Kralı ve Hatti Ülkelerinin Beyi olarak da anılmaktadır. Tanrıların en büyüğü olan bu tanrı­nın eşi Hepat’tır. Onun oğlu Şarruma ve Nerik şehri­nin Fırtına Tanrısı’dır. İki dağ tanrısı üzerinde sakallı bir kişi tarafından temsil edilen Fırtına Tanrısı elinde bir asa tutar. Aynı zamanda bu tanrı hem savaşı ve hem de zaferi simgeler."
     },
     {
+        "SoruID": 3374436,
+        "SoruMetni": "Hititlerin Hurri Kökenli Mitoslarından biri olan Ullikummi Şarkısı efsanesinde hangi tanrının Krallık tahtına oturması konu edilmiştir?",
+        "A": "Güneş Tanrısı",
+        "B": "Ay Tanrısı",
+        "C": "Savaş Tanrısı",
+        "D": "Fırtına Tanrısı",
+        "E": "Tanrıların Tanrısı",
+        "DogruCevap": "D",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.105177",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<em>Hedammu ve Ulli­kummi </em>Şarkısı’nda Fırtına Tanrısı Teşup’un, krallık tahtına oturması konu edilmektedir. Efsanenin de­vamı, <em>Ullikummi Şarkısı</em>’nda Kumarbi’nin, Fırtına Tanrısı’na karşı bazı planlar kurduğu ile başlamak­tadır."
+    },
+    {
         "SoruID": 3374437,
         "SoruMetni": "Aşağıdaki tanrı veya tanrıçalardan hangisi Hitit Mitolojisinde karanlık toprağın açılması ve yer altından Fırtına Tanrısının getirilmesiyle ilgili önemli rol oynar?",
         "A": "Ereş. Ki. Gal",
@@ -492,7 +772,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:53.413944",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.908226",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -501,11 +781,11 @@
     },
     {
         "SoruID": 3374438,
-        "SoruMetni": "Uygarlığın kökeni’nin antik Grek’e mal edil­mesi, ‘Batı‘da yaygın bir kanıydı. Hatta Batı’daki bu kanı, bize dahi sirayet etmiş ve bizi etkilemiştir. Bu etkileşimi Ziya Gökalp dillendirmiştir.<br/><br/>Bu duruma göre Ziya gökalp uygarlık ve attıkları temel üzerine aşağaıdaki eşleştirmelerden hangisini yapmış <u>o</u>lamaz?",
+        "SoruMetni": "Uygarlığın kökeni’nin antik Grek’e mal edil­mesi, ‘Batı‘da yaygın bir kanıydı. Hatta Batı’daki bu kanı, bize dahi sirayet etmiş ve bizi etkilemiştir. Bu etkileşimi Ziya Gökalp dillendirmiştir.<br/>Bu duruma göre Ziya gökalp uygarlık ve attıkları temel üzerine aşağaıdaki eşleştirmelerden hangisini yapmış <u>o</u>lamaz?",
         "A": "Eski Yunanîler - bediîatta",
         "B": "Romalılar - Metafizikte",
         "C": "İsrail ile Araplar – dinde",
-        "D": "Fransızlar -  edebiyatta",
+        "D": "Fransızlar - edebiyatta",
         "E": "Türkler de – ahlâkta",
         "DogruCevap": "B",
         "DersAd": "Mitoloji ve Din",
@@ -518,6 +798,46 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "<span><span style=\"font-size: 10.5pt;\">Uygarlığın kökeni’nin antik Grek’e mal edil­mesi, ‘Batı‘da yaygın bir kanıydı. Hatta Batı’daki bu kanı, bize dahi sirayet etmiş ve bizi etkilemişti. Bu et­kileşimi, Doğu’da Ziya Gökalp dillendirecekti: ‘Büyük milletlerden her biri medeniyetin hususî bir sahasında birinciliğe ibraz etmiştir. Eski Yunanîler bediîatta, Romalılar hukukta, Benî İsrail ile Araplar dinde, Fransızlar edebiyatta, Anglo-Saksonlar iktisatta, Al­manlar musikî ile metafizikte, Türkler de ahlâkta bi­rinciliği kazanmışlardır.</span></span>"
+    },
+    {
+        "SoruID": 3374863,
+        "SoruMetni": "Aşağıdakilerden hangisi Hatti kökenli mitlerden biridir?",
+        "A": "İlluyanka",
+        "B": "Gümüşün şarkısı",
+        "C": "Hedammu şarkısı",
+        "D": "Ullikummi şarkısı",
+        "E": "Kumarbi",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.033458",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İlluyanka. Cevap A'dır."
+    },
+    {
+        "SoruID": 3374864,
+        "SoruMetni": "Aşağıdakilerden hangisi Hurri kökenli mitlerden biridir?",
+        "A": "İlluyanka",
+        "B": "Kamruşepa",
+        "C": "Denizin kızı ve Telipinu",
+        "D": "Gılgamış",
+        "E": "Kumarbi",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.153314",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kumarbi. Cevap E'dir."
     },
     {
         "SoruID": 3374865,
@@ -538,6 +858,46 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Gılgamış. Cevap D'dir."
+    },
+    {
+        "SoruID": 3374866,
+        "SoruMetni": "Aşağıdakilerden hangisi Kenan kökenli mitlerden biridir?",
+        "A": "Elkunirşa ve Aşertu",
+        "B": "İlluyanka",
+        "C": "Kumarbi",
+        "D": "Gılgamış",
+        "E": "Kamruşepa",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.048494",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Elkunirşa ve Aşertu. Cevap A'dır."
+    },
+    {
+        "SoruID": 3374867,
+        "SoruMetni": "Aşağıdakilerden hangisi Masallara bir örnektir?",
+        "A": "İlluyanka.",
+        "B": "Appu ve İki oğlu",
+        "C": "Kamruşepa.",
+        "D": "Kumarbi.",
+        "E": "Gılgamış.",
+        "DogruCevap": "B",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.922757",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Appu ve iki oğlu.Cevap B'dir."
     },
     {
         "SoruID": 3374868,
@@ -641,7 +1001,7 @@
     },
     {
         "SoruID": 3374873,
-        "SoruMetni": "Aşağıdakilerden hangisi Hatti (Anadolu) Kökenli Mitler'den <strong>değildir?</strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi Hatti (Anadolu) Kökenli Mitler'den <strong>değildir?</strong>",
         "A": "İlluyanka",
         "B": "Kamruşepa",
         "C": "Deniz’in Kızı ve Telipinu",
@@ -657,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "• Hatti (Anadolu) Kökenli Mitler Anadolu’nun yerli halkı olan Hattilerin mitleri Hititler tarafından Hititçeye adapte edilmiştir. Diğer yabancı kökenli mitlerden daha basit bir yapı gösteren ve ritüel temsillerin sözlü olarak müzik eşliğinde icra edilmesiyle oluşmuştur. Bu grup içine dâhil ettiğimiz efsaneler:<br/><br/><ol style=\"list-style-type: upper-alpha;\"><br/><li>İlluyanka</li><br/><li>Deniz’in Kızı ve Telipinu</li><br/><li>Kamruşepa</li><br/><li>Fırtına Tanrısı’nın Müthiş Bir Şekilde Gürlemesi (Gökyüzünden Düşen Ay)</li><br/><li>Ebedi Olan İnsan Ruhunun Yolculuğu</li><br/><li>Kayıp Tanrı Mitleri:</li><br/></ol><br/><ul><br/><li>Telipinu’nun Kayboluşu</li><br/><li>Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Güneş Tanrısı’nın Kayboluşu</li><br/><li>Hannahanna’nın Kayboluşu</li><br/><li>Kraliçe Aşmunikal’in Fırtına Tanrısı’nınKayboluşu</li><br/><li>Kraliçe Harapşili’nin Fırtına Tanrısı’nın</li><br/><li>Kayboluşu</li><br/><li>Kâtip Pirwa’nın Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Kuliwişna kenti Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Lihzina kenti Fırtına Tanrısı</li><br/><li>Anzili ve Zukki’nin Kayboluşu</li><br/><li>Tanrıça İnara’nın Kayboluşu</li><br/><li>Nerik kenti Fırtına Tanrısı’na Yakarış ve Kurban Sunma</li><br/></ul><br/>Doğru cevap D'dir."
+        "Aciklama": "• Hatti (Anadolu) Kökenli Mitler Anadolu’nun yerli halkı olan Hattilerin mitleri Hititler tarafından Hititçeye adapte edilmiştir. Diğer yabancı kökenli mitlerden daha basit bir yapı gösteren ve ritüel temsillerin sözlü olarak müzik eşliğinde icra edilmesiyle oluşmuştur. Bu grup içine dâhil ettiğimiz efsaneler:<br/><ol style=\"list-style-type: upper-alpha;\"><br/><li>İlluyanka</li><br/><li>Deniz’in Kızı ve Telipinu</li><br/><li>Kamruşepa</li><br/><li>Fırtına Tanrısı’nın Müthiş Bir Şekilde Gürlemesi (Gökyüzünden Düşen Ay)</li><br/><li>Ebedi Olan İnsan Ruhunun Yolculuğu</li><br/><li>Kayıp Tanrı Mitleri:</li><br/></ol><br/><ul><br/><li>Telipinu’nun Kayboluşu</li><br/><li>Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Güneş Tanrısı’nın Kayboluşu</li><br/><li>Hannahanna’nın Kayboluşu</li><br/><li>Kraliçe Aşmunikal’in Fırtına Tanrısı’nınKayboluşu</li><br/><li>Kraliçe Harapşili’nin Fırtına Tanrısı’nın</li><br/><li>Kayboluşu</li><br/><li>Kâtip Pirwa’nın Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Kuliwişna kenti Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Lihzina kenti Fırtına Tanrısı</li><br/><li>Anzili ve Zukki’nin Kayboluşu</li><br/><li>Tanrıça İnara’nın Kayboluşu</li><br/><li>Nerik kenti Fırtına Tanrısı’na Yakarış ve Kurban Sunma</li><br/></ul><br/>Doğru cevap D'dir."
     },
     {
         "SoruID": 3374874,
@@ -672,12 +1032,12 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:53.477320",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.909941",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hurri Kökenli Mitler<br/>Bu mitler Hurriceden Hittitçeye uyarlanmıştır. Aşağıda başlıkları verilmiş olan efsaneler birbiriyle ilişkilidir. Bu efsanelerin ana konusunu; Kumarbi ve Fırtına Tanrısı Teşup’un tanrılar üzerinde bir krallık elde etmek için verdiği mücadele oluşturmaktadır.<br/>A- Kumarbi (Gökteki Krallık Efsanesi)<br/>B- Tanrı LAMA’nın Şarkısı<br/>C- Gümüş’ün Şarkısı<br/>D- Hedammu Şarkısı<br/>E- Ullikummi Şarkısı<br/>• Mezopotamya Kökenli Mitler:<br/> Gılgamış<br/>• Kenan Kökenli Mitler:<br/> Elkunirşa ve Aşertu<br/>• Masallar:<br/>a. Zalpa Şehri Öyküsü (Bir Yılda Otuz Çocuk Doğuran Kaneş Kraliçesi)<br/>b. Appu ve İki Oğlu<br/>c. Avcı Keşşi ve Karısı<br/>d. Güneş Tanrısı, İnek ve Balıkçı<br/> Doğru cevap B'dir."
+        "Aciklama": "Hurri Kökenli Mitler<br/>Bu mitler Hurriceden Hittitçeye uyarlanmıştır. Aşağıda başlıkları verilmiş olan efsaneler birbiriyle ilişkilidir. Bu efsanelerin ana konusunu; Kumarbi ve Fırtına Tanrısı Teşup’un tanrılar üzerinde bir krallık elde etmek için verdiği mücadele oluşturmaktadır.<br/>A- Kumarbi (Gökteki Krallık Efsanesi)<br/>B- Tanrı LAMA’nın Şarkısı<br/>C- Gümüş’ün Şarkısı<br/>D- Hedammu Şarkısı<br/>E- Ullikummi Şarkısı<br/>• Mezopotamya Kökenli Mitler:<br/>Gılgamış<br/>• Kenan Kökenli Mitler:<br/>Elkunirşa ve Aşertu<br/>• Masallar:<br/>a. Zalpa Şehri Öyküsü (Bir Yılda Otuz Çocuk Doğuran Kaneş Kraliçesi)<br/>b. Appu ve İki Oğlu<br/>c. Avcı Keşşi ve Karısı<br/>d. Güneş Tanrısı, İnek ve Balıkçı<br/>Doğru cevap B'dir."
     },
     {
         "SoruID": 3374875,
@@ -692,12 +1052,12 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:53.443027",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.866287",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anadolu’da ilkbaharın/Purulli müjdeleyicisi kapsamında tapınaklarda bir Hitit edebi metni olarak Geç Hitit Dönemi’ne kadar okunduğu bilinen Hatti (Anadolu) kökenli mitlerin en önemlilerinden biri yılan/ejderha İlluyanka efsanesidir. Bu efsanenin Hitit kült ve ritüelleri ile bağlarının olduğu bilinmektedir. Efsane iki nüsha halinde ele geçmiştir. Bu efsanenin birinci nüshasında şu olaylar zinciri anlatılır:<br/><br/>“Fırtına Tanrısı ve İlluyanka dövüşürler ve İlluyanka galip gelir. Bunun üzerine Fırtına Tanrısı tüm tanrıları yardıma çağırır. Sadece İnara bu çağrıya uyar ve her şeyin büyük oranda hazırlandığı bir festival tertipleyerek Ziggara kentine gider. Bu kentte, Hupaşiya adlı bir insanla karşılaşır ve İlluyanka’nın bulunduğu deliğe gelip, bir festival kutlaması yapılacağını bildirerek onu davet eder. İlluyanka festivale katılmak için çoluk çocuğuyla deliğinden çıkar ve sarhoş olana dek içer. Sarhoş olan İlluyanka’yı Hupaşiya bir urganla bağlar ve Fırtına Tanrısı gelip İlluyanka’yı öldürür.” Doğru cevap C'dir."
+        "Aciklama": "Anadolu’da ilkbaharın/Purulli müjdeleyicisi kapsamında tapınaklarda bir Hitit edebi metni olarak Geç Hitit Dönemi’ne kadar okunduğu bilinen Hatti (Anadolu) kökenli mitlerin en önemlilerinden biri yılan/ejderha İlluyanka efsanesidir. Bu efsanenin Hitit kült ve ritüelleri ile bağlarının olduğu bilinmektedir. Efsane iki nüsha halinde ele geçmiştir. Bu efsanenin birinci nüshasında şu olaylar zinciri anlatılır:<br/>“Fırtına Tanrısı ve İlluyanka dövüşürler ve İlluyanka galip gelir. Bunun üzerine Fırtına Tanrısı tüm tanrıları yardıma çağırır. Sadece İnara bu çağrıya uyar ve her şeyin büyük oranda hazırlandığı bir festival tertipleyerek Ziggara kentine gider. Bu kentte, Hupaşiya adlı bir insanla karşılaşır ve İlluyanka’nın bulunduğu deliğe gelip, bir festival kutlaması yapılacağını bildirerek onu davet eder. İlluyanka festivale katılmak için çoluk çocuğuyla deliğinden çıkar ve sarhoş olana dek içer. Sarhoş olan İlluyanka’yı Hupaşiya bir urganla bağlar ve Fırtına Tanrısı gelip İlluyanka’yı öldürür.” Doğru cevap C'dir."
     },
     {
         "SoruID": 3374876,
@@ -717,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yılan İlluyanka, Fıtına Tanrısı’nı yener ve onun gözünü ve kalbini çıkarıp alır. Sonra Fırtına Tanrısı fakir bir kızı karısı olarak alır ve ondan bir oğlu olur. Çocuk büyüdüğünde İlluyanka’nın kızını eş olarak alır. Bunun üzerine Fırtına Tanrısı, oğluna: ‘Karının evine gittiğinde kalbimi ve gözlerimi (başlık parası olarak) iste’ der. Oğlan babasının gözlerini ve kalbini geri alıp babasına verince Fırtına Tanrısı savaşmak için denize gider. İlluyanka ile kavga başlayınca Fırtına Tanrısı’nın oğlu İlluyanka’nın tarafında yer alır. Bunun üzerine Fırtına Tanrısı hem İlluyanka’yı hem de oğlunu öldürür.” <br/><br/>Efsanede geçen başlık parası (kuşata) deyimi, Hitit dünyasında görülen ve Anadolu kültürü olarak devam etmiş bir geleneğin devamını yansıtması açısından önemlidir. Doğru cevap E'dir."
+        "Aciklama": "Yılan İlluyanka, Fıtına Tanrısı’nı yener ve onun gözünü ve kalbini çıkarıp alır. Sonra Fırtına Tanrısı fakir bir kızı karısı olarak alır ve ondan bir oğlu olur. Çocuk büyüdüğünde İlluyanka’nın kızını eş olarak alır. Bunun üzerine Fırtına Tanrısı, oğluna: ‘Karının evine gittiğinde kalbimi ve gözlerimi (başlık parası olarak) iste’ der. Oğlan babasının gözlerini ve kalbini geri alıp babasına verince Fırtına Tanrısı savaşmak için denize gider. İlluyanka ile kavga başlayınca Fırtına Tanrısı’nın oğlu İlluyanka’nın tarafında yer alır. Bunun üzerine Fırtına Tanrısı hem İlluyanka’yı hem de oğlunu öldürür.” <br/>Efsanede geçen başlık parası (kuşata) deyimi, Hitit dünyasında görülen ve Anadolu kültürü olarak devam etmiş bir geleneğin devamını yansıtması açısından önemlidir. Doğru cevap E'dir."
     },
     {
         "SoruID": 3374877,
@@ -737,7 +1097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<ul><br/><li><strong>İlluyanka Efsanesi</strong>; Anadolu’da ilkbaharın/Purulli müjdeleyicisi kapsamında tapınaklarda bir Hitit edebi metni olarak Geç Hitit Dönemi’ne kadar okunduğu bilinen Hatti (Anadolu) kökenli mitlerin en önemlilerinden biri yılan/ejderha İlluyanka efsanesidir.</li><br/><li><strong>Telipinu’nun Kayboluşu</strong>; Anadolu kökenli ve yine baharı/nevruzu müjdeleyen bir başka Hitit efsanesi de ‘Tanrı Telipinu’nun Kayboluşu’ mitidir. Doğru cevap A'dır.</li><br/></ul>"
+        "Aciklama": "<ul><br/><li><strong>İlluyanka Efsanesi</strong>; Anadolu’da ilkbaharın/Purulli müjdeleyicisi kapsamında tapınaklarda bir Hitit edebi metni olarak Geç Hitit Dönemi’ne kadar okunduğu bilinen Hatti (Anadolu) kökenli mitlerin en önemlilerinden biri yılan/ejderha İlluyanka efsanesidir.</li><br/><li><strong>Telipinu’nun Kayboluşu</strong>; Anadolu kökenli ve yine baharı/nevruzu müjdeleyen bir başka Hitit efsanesi de ‘Tanrı Telipinu’nun Kayboluşu’ mitidir. Doğru cevap A'dır.</li><br/></ul>"
     },
     {
         "SoruID": 3374878,
@@ -772,12 +1132,52 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:53.417175",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.869508",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Ullikummi Şarkısı<br/>Bu efsanenin devamı olan Hedammu ve Ullikummi Şarkısı’nda Fırtına Tanrısı Teşup’un, krallık tahtına oturması konu edilmektedir. Efsanenin devamı, Ullikummi Şarkısı’nda Kumarbi’nin, Fırtına Tanrısı’na karşı bazı planlar kurduğu ile başlamaktadır. doğru cevap A'dır."
+    },
+    {
+        "SoruID": 3374880,
+        "SoruMetni": "Hitit mitolojisinin beslendiği Mezopotamya kökenli efsanelerden en önemlisi aşağıdakilerden hangisidir?",
+        "A": "Odiysseia",
+        "B": "İlyada",
+        "C": "Gılgamış Destanı",
+        "D": "Manas Destanı",
+        "E": "Türeyiş Destanı",
+        "DogruCevap": "C",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.893799",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Hitit mitolojisinin beslendiği kaynaklardan diğeri de Mezopotamya kökenli efsanelerdir. Bu efsaneler içinde en önemlisi Gılgamış destanıdır. Sumer, Babil ve Hurri kültüründe görülen efsanenin Hititçe nüshası, Enkidu’nun öldürülmesini konu edinmektedir. Efsanede anlatılan ‘tufan’ olayı kutsal kitaplardan Tevrat ile birebir örtüşür. Bu efsanede Nuh’un adı Utnapiştim idi. Bu mitten ayrı olarak Mezopotamya sel afetlerinin anlatıldığı hem Akadca ve hem de Hititçe olarak yazılmış Atramhaşi ve Mezopotamya Günah İneği motifinin işlendiği çiviyazılı metinler sayılabilir. Hitit edebiyatını besleyen bir diğer kaynak Kenan kökenli efsanelerdir ve Hurrililer eliyle Hititçeye geçmiş olan Elkunirşa-Aşertu miti bu gruba dâhil edilebilir. Doğru cevap C'dir."
+    },
+    {
+        "SoruID": 3374881,
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"><br/><li>Zalpa Kenti Öyküsü</li><br/><li>Avcı Keşşi ve Karısı</li><br/><li>Appu ve İki Oğlu </li><br/></ol><br/>Yukarıdakilerden hangisi ya da hangileri Mezopotamya ve Kenan kökenli mitoslar arasındadır?",
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "Yalnız III",
+        "D": "I ve II",
+        "E": "I, II ve III",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.926102",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<ul><br/><li>Zalpa Kenti Öyküsü (Bir Yılda Otuz Çocuk Doğuran Kaneş Kraliçesi); “Kaneş kraliçesi bir yılda otuz erkek çocuk doğurur ve kendi kendine: ‘doğurduklarının ne kalabalık bir şey’ olduğunu fısıldar. Sonra bir sepeti kalafatlayarak çocuklarını bu sepete koyup onları nehre bırakır. Nehir, çocukları Zalpuwa kentindeki denize sürükler ve tanrılar çocukları besler, büyütür.</li><br/><li>Appu ve İki Oğlu; “Şudul kentinde yaşayan Appu, çok zengin biri idi ve onun çok sayıda sığır, koyun sürüleri ile hububatın harmanlandıktan sonra yığıldığı gibi gümüşü, altını ve lapulazuli taşı vardı. O, hiçbir şeye ihtiyaç duymuyordu ama çocuğu olmuyordu.</li><br/><li>Avcı Keşşi ve Karısı; Hurrice olan Avcı Keşşi masalının, Hititçe ve Hurrice fragmanları yanında Amarna (Mısır)’da Akadca<br/>nüshaları da ele geçmiştir. Doğru cevap E'dir. </br></li><br/></ul>"
     },
     {
         "SoruID": 3374882,
@@ -797,7 +1197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>İnara; </strong>Fırtına Tanrısı’nın kızı ve vahşi hayvanların tanrıçasıdır. Hatti kökenli bir tanrıça olup, Eski Hitit mitlerinde görülür. Hititçe innaru- kelimesi ile sıkı bir ilişkisi olan bu tanrıça, LAMA ile eşitlenmiştir.<br/> <strong>Kaşku</strong>; Ay Tanrısıdır.<br/> <strong>Kumarbi; </strong>Hurililer tarafından Bilge Kral ve Tanrıların Babası olarak nitelendirilmiş ve tanrılar arasında üçüncüsü sırada kabul görmüş bir Bitki Tanrısı’dır.<br/> <strong>Hapantaliia; </strong>Hatti kökenli bir tanrı olup Güneş Tanrısı’nın çobanıdır.<br/> <strong>Hannahanna</strong>; Eski Hitit Dönemine tarihlendirilen Kaybolan Tanrı Efsanelerinde, kaybolan tanrıların aranmasını isteyen ve Tüm Tanrıların Annesi ya da Büyükanne unvanına sahip tanrıçadır. Bu tanrıça Gulşa, MAH ve NIN.TU ile de eşitlenmektedir. Mitolojide Telipinu kaybolduktan sonra Fırtına Tanrısı bu tanrıçaya şikâyette bulunur. Bunun üzerine Hannahanna, Fırtına Tanrısı’nı Telipinu’yu bulmaya gönderir ve onu bulamayınca bu kez Hannahanna arıyı sevk eder. Ondan, onun el ve ayaklarını sokmasını, gözlerini ve ayaklarını balmumu ile temizlemesini ister.<br/> Doğru cevap D'dir."
+        "Aciklama": "<strong>İnara; </strong>Fırtına Tanrısı’nın kızı ve vahşi hayvanların tanrıçasıdır. Hatti kökenli bir tanrıça olup, Eski Hitit mitlerinde görülür. Hititçe innaru- kelimesi ile sıkı bir ilişkisi olan bu tanrıça, LAMA ile eşitlenmiştir.<br/><strong>Kaşku</strong>; Ay Tanrısıdır.<br/><strong>Kumarbi; </strong>Hurililer tarafından Bilge Kral ve Tanrıların Babası olarak nitelendirilmiş ve tanrılar arasında üçüncüsü sırada kabul görmüş bir Bitki Tanrısı’dır.<br/><strong>Hapantaliia; </strong>Hatti kökenli bir tanrı olup Güneş Tanrısı’nın çobanıdır.<br/><strong>Hannahanna</strong>; Eski Hitit Dönemine tarihlendirilen Kaybolan Tanrı Efsanelerinde, kaybolan tanrıların aranmasını isteyen ve Tüm Tanrıların Annesi ya da Büyükanne unvanına sahip tanrıçadır. Bu tanrıça Gulşa, MAH ve NIN.TU ile de eşitlenmektedir. Mitolojide Telipinu kaybolduktan sonra Fırtına Tanrısı bu tanrıçaya şikâyette bulunur. Bunun üzerine Hannahanna, Fırtına Tanrısı’nı Telipinu’yu bulmaya gönderir ve onu bulamayınca bu kez Hannahanna arıyı sevk eder. Ondan, onun el ve ayaklarını sokmasını, gözlerini ve ayaklarını balmumu ile temizlemesini ister.<br/>Doğru cevap D'dir."
     },
     {
         "SoruID": 3374913,
@@ -812,12 +1212,12 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:53.491181",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.871053",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hatti kökenli mitlerin içinde Kayıp Tanrı Mitleri şunları içermektedir:<br/><br/><ul><br/><li>Telipinu’nun Kayboluşu</li><br/><li>Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Güneş Tanrısı’nın Kayboluşu</li><br/><li>Hannahanna’nın Kayboluşu</li><br/><li>Kraliçe Aşmunikal’in Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Kraliçe Harapşili’nin Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Kâtip Pirwa’nın Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Kuliwişna kenti Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Lihzina kenti Fırtına Tanrısı</li><br/><li>Anzili ve Zukki’nin Kayboluşu</li><br/><li>Tanrıça İnara’nın Kayboluşu</li><br/><li>Nerik kenti Fırtına Tanrısı’na Yakarış ve Kurban Sunma</li><br/></ul><br/>Görüldüğü gibi, mitlerde genelde Fırtına Tanrısı konu edilmiştir. Doğru yanıt B’dir."
+        "Aciklama": "Sayfa 43'te 2. paragrafta \"Bundan dolayı olmalıdır ki, tarihçi Herodot miti, “tarihi değeri olmayan, uydurma güvenilmez masallar” ve <em><strong>Ploton</strong> </em>da “gerçeklerle ilgisi olmayan uydurma, boş ve gülünç hikâyeler” olarak değerlendirirler.\" cümlesindeki Ploton sanırım Platon olmalı. <br/>Aynı paragrafta \"Aşağıda Hitit mitlerinin <em><strong>içeriĞi</strong> </em>anlatıldığında ve yeri geldiğinde bu noktalara değinilecektir.\" cümlesinde içeriği sözcüğünün yazımı düzeltilmelidir.<br>Hatti kökenli mitlerin içinde Kayıp Tanrı Mitleri şunları içermektedir:<br/><ul><br/><li>Telipinu’nun Kayboluşu</li><br/><li>Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Güneş Tanrısı’nın Kayboluşu</li><br/><li>Hannahanna’nın Kayboluşu</li><br/><li>Kraliçe Aşmunikal’in Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Kraliçe Harapşili’nin Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Kâtip Pirwa’nın Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Kuliwişna kenti Fırtına Tanrısı’nın Kayboluşu</li><br/><li>Lihzina kenti Fırtına Tanrısı</li><br/><li>Anzili ve Zukki’nin Kayboluşu</li><br/><li>Tanrıça İnara’nın Kayboluşu</li><br/><li>Nerik kenti Fırtına Tanrısı’na Yakarış ve Kurban Sunma</li><br/></ul><br/>Görüldüğü gibi, mitlerde genelde Fırtına Tanrısı konu edilmiştir. Doğru yanıt B’dir."
     },
     {
         "SoruID": 3374914,
@@ -838,6 +1238,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Anadolu’nun yerli halkı olan Hattilerin mitleri Hititler tarafından Hititçeye adapte edilmiştir. Bunlardan birisi İlluyanka’dır. A ve B seçenekleri Hurri, D seçeneği Mezopotamya kökenli, E seçeneği ise Kenan kökenli mitlerdir. Doğru yanıt A’dir."
+    },
+    {
+        "SoruID": 3374915,
+        "SoruMetni": "İlluyanka efsanesinde Fırtına Tanrısı hangisi ile mücadele eder?",
+        "A": "Timsah",
+        "B": "Su canavarı",
+        "C": "Arslan",
+        "D": "Kartal",
+        "E": "Yılan",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.035224",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Anadolu’da ilkbaharın/Purulli müjdeleyicisi kapsamında tapınaklarda bir Hitit edebi metni olarak Geç Hitit Dönemi’ne kadar okunduğu bilinen Hatti (Anadolu) kökenli mitlerin en önemlilerinden biri yılan/ejderha İlluyanka efsanesidir. İlluyanka bir yılandır. Doğru yanıt E’dir."
     },
     {
         "SoruID": 3374916,
@@ -880,6 +1300,46 @@
         "Aciklama": "Ullikumi Şarkısı’nda olaylar şöyle anlatılır: <em>“Kurduğu plan ile Kumarbi aniden tahtından kalkar ve eline asayı, ayaklarına hızlı rüzgârları koyarak Urkiş kentinde soğuk bir pınarın başına gelir. Burada bulunan kaya ile beş kez birlikte olur. Sonra Kumarbi, bir erkek çocuk doğurur. Kader ve Ana Tanrıçalar, çocuğu kaldırıp Kumarbi’nin dizlerine yatırır. Kumarbi, çocuğuna ‘Kummiya kentini sıkıştırsın ve Teşup’u yensin’ diye Ullikummi ismini vererek, onu İrşira tanrılarına emanet eder. İrşira tanrıları, Ullikummi’yi Upelluri’nin sağ omzuna yerleştirirler. …. Ancak Ullikummi’nin görüntüsü Teşup’u korkutur ve böyle biriyle baş edemeyeceğini düşünerek ağlamaya başlar. Fakat Şauşka, ‘o aptaldır, bundan dolayı cesareti de on mislidir’ telkinleriyle onu yatıştırır. Bu arada Şauşka süslenerek, parmaklarına zilleri takarak ve bir müzik aleti ile şarkı söyleyerek kardeşi Teşup’a yardım etmek ister. Fakat sesini Ullikummi’ye duyurması imkânsızdır. Çünkü Ullikummi sağırdır ve gözleri de kördür.”</em> Doğru yanıt D’dir."
     },
     {
+        "SoruID": 3374918,
+        "SoruMetni": "Zalpa Kenti Öyküsü’nde aşağıdakilerden hangisi anlatılır?",
+        "A": "Sakilik görevi yapan birisinin gökteki kralı indirmesi",
+        "B": "Yer yüzü ve gökyüzünün birbirinden ayrılması",
+        "C": "Bir avcının evlendikten sonra görevlerini ihmal etmesi",
+        "D": "İyi ve Kötü adlı iki kardeşin arasındaki mücadele",
+        "E": "Bir Kaneş kraliçesinin bir yılda otuz çocuk doğurması",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.930479",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "50. sayfada 3. paragrafta \"Çünkü o, <em><strong>libasyonarı</strong> </em>ihmal etmiştir.\" cümlesinde doğru sözcük <strong>libasyonları</strong> olmalı diye düşünüyorum.<br/>Aynı sayfada 5. paragrafta \"Bir Anadolu geleneği olan yardımlaşma ve <em><strong>hediyeşleme</strong> </em>kültürünün Hitit dünyasında da yaygın olduğunu...\" cümlesinde doğru yazım <strong>hediyeleşme</strong> olmalıdır.<br>Zalpa Kenti Öyküsü, bir yılda otuz çocuk doğuran Kaneş Kraliçesi ile ilgilidir. Kraliçe hepsi erkek olan çocukları bir sepetle nehre bırakır. Daha sonra 30 kız çocuğu doğurur. Erkek çocuklar yıllar sonra annelerini bulur, ancak o çocuklarını hatırlamaz ve kızlarıyla evlendirmek ister. Doğru yanıt E’dir."
+    },
+    {
+        "SoruID": 3374919,
+        "SoruMetni": "Hangi masal toplumsal yardımlaşma ve hediyeleşme kültürü ile ilgilidir?",
+        "A": "Güneş Tanrısı, İnek ve Balıkçı",
+        "B": "Appu ve İki Oğlu",
+        "C": "Gökyüzünden Düşen Ay",
+        "D": "Deniz Kızı ve Telipinu",
+        "E": "Gümüş’ün Şarkısı",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.952515",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Bir Anadolu geleneği olan yardımlaşma ve hediyeleşme kültürünün Hitit dünyasında da yaygın olduğu ‘Güneş Tanrısı, İnek ve Balıkçı’ masalında özetlenmektedir: <em>“Balıkçı Urma şehrine vardı. Evine gitti ve bir sandalyeye oturdu. Balıkçı karısına şöyle söyledi: ‘Benim sana söyleyeceklerime dikkat et. Bu çocuğu al, yatak odasına git, yatağa yat ve feryat et. Bütün kent seni işitecek ve şöyle söyleyecek: ‘Balıkçının karısı bir çocuk doğuruyor! Böylece biri bize ekmek getirecek, diğeri bize bira getirecek ve başka biri bize daima bereketli ürün getirecek.”</em> Doğru yanıt A’dır."
+    },
+    {
         "SoruID": 3374920,
         "SoruMetni": "Telipinu’yu bulan hayvan aşağıdakilerden hangisidir?",
         "A": "Güvercin",
@@ -912,7 +1372,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:53.447625",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.867909",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -937,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hedammu tanrıları ve insanları yıldıran bir deniz canavarıdır. Doğru yanıt C’dir."
+        "Aciklama": "Sayfa 54'te ÖÇ3'ün açıklamasında “Tufan <em><strong>ğumuz</strong> </em>ve günümüze kadar hemen hemen aynı anlatımlarla gelebilmiş Gılgamış destanının, Hititçeye de aktarılmış olması, efsanenin ne kadar köklü bir anlatımı olduğunu bize göstermektedir.\" cümlesinde anlatım bozukluğu ve eksiklik vardır.<br/>'Neler öğrendik?' testinde 1. ve 4. soruların soru köklerinde satır sonu kelimelerdeki tire işaretleri yanlış yerlerdedir. 3. sorunun şıklarının yanlış olabileceğini düşünüyorum. Seçeneklerde efsane adları olmalı ve doğru yanıt İlluyanka olmalı gibi görünüyor.<br>Hedammu tanrıları ve insanları yıldıran bir deniz canavarıdır. Doğru yanıt C’dir."
     },
     {
         "SoruID": 3374923,
@@ -957,7 +1417,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Grekçe myth “masal, öykü, hikâye, efsane” ve logos “söz” kelimelerinin birleştirilmesinden türetilmiş mitoloji, insan düşgücünün bir ürünüdür. Mitler bir ülkeden diğer bir ülkeye yayılmış ya da diğer halkların benzer olaylarla karşılaşması üzerine, düşgüçlerinin öteki uluslardan bağımsız olarak işlemesinin bir ürünü olarak doğmuş olmalıdır. Bundan dolayı olmalıdır ki, tarihçi Herodot<br/>miti, “tarihi değeri olmayan, uydurma güvenilmez masallar” olarak değerlendirir."
+        "Aciklama": "Grekçe myth “masal, öykü, hikâye, efsane” ve logos “söz” kelimelerinin birleştirilmesinden türetilmiş mitoloji, insan düşgücünün bir ürünüdür. Mitler bir ülkeden diğer bir ülkeye yayılmış ya da diğer halkların benzer olaylarla karşılaşması üzerine, düşgüçlerinin öteki uluslardan bağımsız olarak işlemesinin bir ürünü olarak doğmuş olmalıdır. Bundan dolayı olmalıdır ki, tarihçi Herodot<br/>miti, “tarihi değeri olmayan, uydurma güvenilmez masallar” ve Ploton da “gerçeklerle ilgisi olmayan uydurma, boş ve gülünç hikâyeler” olarak değerlendirirler.<br>Grekçe myth “masal, öykü, hikâye, efsane” ve logos “söz” kelimelerinin birleştirilmesinden türetilmiş mitoloji, insan düşgücünün bir ürünüdür. Mitler bir ülkeden diğer bir ülkeye yayılmış ya da diğer halkların benzer olaylarla karşılaşması üzerine, düşgüçlerinin öteki uluslardan bağımsız olarak işlemesinin bir ürünü olarak doğmuş olmalıdır. Bundan dolayı olmalıdır ki, tarihçi Herodot<br/>miti, “tarihi değeri olmayan, uydurma güvenilmez masallar” olarak değerlendirir."
+    },
+    {
+        "SoruID": 3374924,
+        "SoruMetni": "Mitleri “gerçeklerle ilgisi olmayan uydurma, boş ve gülünç hikâyeler” olarak değerlendiren filozof aşağıdakilerden hangisidir?",
+        "A": "Heredot",
+        "B": "Platon",
+        "C": "Homeros",
+        "D": "Hesiodos",
+        "E": "Sokrates",
+        "DogruCevap": "B",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:15:52.947724",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Soru platon tarafından yapılan mit tanımının hatırlanmasına yönelik olarak hazırlanmıştır.<br>Bundan dolayı olmalıdır ki, tarihçi Herodot miti, “tarihi değeri olmayan, uydurma güvenilmez masallar” ve Ploton da “gerçeklerle ilgisi olmayan uydurma, boş ve gülünç hikâyeler” olarak değerlendirirler."
     },
     {
         "SoruID": 3374925,
@@ -977,11 +1457,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu kapsamda XIX. yüzyılın son çeyreğinde, A. H. Layard ve H. Rassam’ın, Asur kralı Asurbanipal’e ait olduğu anlaşılacak yirmi beş binin üzerinde çiviyazılı kil tabletlerin olduğu bir kütüphaneyi, Ninive’de keşfetti."
+        "Aciklama": "Soru öğrencilerin yaşamla ilişkilendir bölümündeki bir bilgiyi hatırlamalarına yönelik hazırlanmıştır. Ninive/Ninova Asur devletinin başkenti olan şehirdir.<br>Bu kapsamda XIX. yüzyılın son çeyreğinde, A. H. Layard ve H. Rassam’ın, Asur kralı Asurbanipal’e ait olduğu anlaşılacak yirmi beş binin üzerinde çiviyazılı kil tabletlerin olduğu bir kütüphaneyi, Ninive’de keşfetti."
     },
     {
         "SoruID": 3374926,
-        "SoruMetni": "Hatti (Anadolu) Kökenli Mitler grubu içine dâhil ettiğimiz efsanelerden hangisi Babil’de yeni yıl şenliklerinde okunan ejder Tiamat’ın öldürülmesini konu alan Yaradılış Mit'inden etkilenmekle birlikte, Homeros’un anlattığı Atlas’ın kızı Kalypso ve Odysseus ile ilgili anlatılan olayları etkilemiştir? <br/>",
+        "SoruMetni": "Hatti (Anadolu) Kökenli Mitler grubu içine dâhil ettiğimiz efsanelerden hangisi Babil’de yeni yıl şenliklerinde okunan ejder Tiamat’ın öldürülmesini konu alan Yaradılış Mit'inden etkilenmekle birlikte, Homeros’un anlattığı Atlas’ın kızı Kalypso ve Odysseus ile ilgili anlatılan olayları etkilemiştir?",
         "A": "İlluyanka",
         "B": "Deniz’in Kızı ve Telipinu",
         "C": "Kamruşepa",
@@ -997,7 +1477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hatti (Anadolu) Kökenli Mitler<br/>Anadolu’nun yerli halkı olan Hattilerin mitleri Hititler tarafından Hititçeye adapte edilmiştir. Diğer yabancı kökenli mitlerden daha basit bir yapı gösteren ve ritüel temsillerin sözlü olarak müzik eşliğinde icra edilmesiyle oluşmuştur. Bu grup içine<br/>dâhil ettiğimiz efsaneler:<br/>A- İlluyanka<br/>B- Deniz’in Kızı ve Telipinu<br/>C- Kamruşepa<br/>D- Fırtına Tanrısı’nın Müthiş Bir Şekilde<br/>Gürlemesi (Gökyüzünden Düşen Ay)<br/>E- Ebedi Olan İnsan Ruhunun Yolculuğu<br/><br/>İlluyanka efsanesi genel hatları ile Babil’de yeni yıl şenliklerinde okunan ejder Tiamat’ın öldürülmesini<br>konu alan Babil Yaradılış Mit’inden etkilenmekle birlikte, Homeros’un Odysseus’unda (I 44 vd.<br/>II 1 vd.) Atlas’ın kızı Kalypso ve Odysseus ile ilgili anlatılan olayları etkilemiş olduğu anlaşılmaktadır.</br>"
+        "Aciklama": "Soru Hatti (Anadolu) Kökenli Mit grubu içinden istenilen bilginin hatırlanmasına yönelik olarak hazırlanmıştır.<br>Hatti (Anadolu) Kökenli Mitler<br/>Anadolu’nun yerli halkı olan Hattilerin mitleri Hititler tarafından Hititçeye adapte edilmiştir. Diğer yabancı kökenli mitlerden daha basit bir yapı gösteren ve ritüel temsillerin sözlü olarak müzik eşliğinde icra edilmesiyle oluşmuştur. Bu grup içine<br/>dâhil ettiğimiz efsaneler:<br/>A- İlluyanka<br/>B- Deniz’in Kızı ve Telipinu<br/>C- Kamruşepa<br/>D- Fırtına Tanrısı’nın Müthiş Bir Şekilde<br/>Gürlemesi (Gökyüzünden Düşen Ay)<br/>E- Ebedi Olan İnsan Ruhunun Yolculuğu<br/>İlluyanka efsanesi genel hatları ile Babil’de yeni yıl şenliklerinde okunan ejder Tiamat’ın öldürülmesini<br/>konu alan Babil Yaradılış Mit’inden etkilenmekle birlikte, Homeros’un Odysseus’unda (I 44 vd.<br/>II 1 vd.) Atlas’ın kızı Kalypso ve Odysseus ile ilgili anlatılan olayları etkilemiş olduğu anlaşılmaktadır.</br>"
     },
     {
         "SoruID": 3374927,
@@ -1017,11 +1497,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anadolu kökenli ve yine baharı/nevruzu müjdeleyen bir başka Hitit efsanesi de ‘Tanrı Telipinu’nun Kayboluşu’ mitidir. Hitit edebiyatında önemli bir yer tutan ve tanrıların kaybolması motifinin işlendiği bu tür efsaneler genel olarak değerlendirildiğinde; Ugarit ‘Baal ile Mot’ mitinde Baal’ın ortadan kayboluşu ve Sumerce, Tammuz’un yer altı dünyasında başından geçenlerin anlatıldığı ‘İnanna’nın Cehenneme İnişi’ adlı efsane ile benzer yönleri bulunmaktadır."
+        "Aciklama": "Soruda konusu verilen efsanenin adının hatırlanması beklenmektedir.<br>Anadolu kökenli ve yine baharı/nevruzu müjdeleyen bir başka Hitit efsanesi de ‘Tanrı Telipinu’nun Kayboluşu’ mitidir. Hitit edebiyatında önemli bir yer tutan ve tanrıların kaybolması motifinin işlendiği bu tür efsaneler genel olarak değerlendirildiğinde; Ugarit ‘Baal ile Mot’ mitinde Baal’ın ortadan kayboluşu ve Sumerce, Tammuz’un yer altı dünyasında başından geçenlerin anlatıldığı ‘İnanna’nın Cehenneme İnişi’ adlı efsane ile benzer yönleri bulunmaktadır."
     },
     {
         "SoruID": 3374938,
-        "SoruMetni": "Hititlerin hangi efsanesi Alalu, Anu, Kumarbi gibi tanrıların üzerine kurgulanmış ve kadim tanrılar Nara, Napşara, Minki, Ammunki’den  söz eden hurri kökenli mitoslardandır?",
+        "SoruMetni": "Hititlerin hangi efsanesi Alalu, Anu, Kumarbi gibi tanrıların üzerine kurgulanmış ve kadim tanrılar Nara, Napşara, Minki, Ammunki’den söz eden hurri kökenli mitoslardandır?",
         "A": "Ullikummi Şarkısı",
         "B": "Hedammu Şarkısı",
         "C": "Gümüş’ün Şarkısı",
@@ -1037,7 +1517,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hititler, Anadolu’nun güneydoğusunda yaşamış Hurri kültüründen büyük oranda etkilenmiştir. Bu efsanelerin ilki olan Kumarbi (Gökteki Krallık) Efsanesi Alalu, Anu ve Kumarbi gibi tanrıların üzerine kurgulanmıştır. Anu Gökyüzü Tanrısı’dır. Alalu da onun daha önceki atasıdır. Ayrıca metin kadim tanrılar Nara, Napşara, Minki ve Ammunki’den de söz etmektedir."
+        "Aciklama": "Soruda Hititlerin Hurri kökenli mitoslarının hatırlanarak, verilen konunun hangisine ait olduğunun tanınması amaçlanmaktadır.<br>Hititler, Anadolu’nun güneydoğusunda yaşamış Hurri kültüründen büyük oranda etkilenmiştir. Bu efsanelerin ilki olan Kumarbi (Gökteki Krallık) Efsanesi Alalu, Anu ve Kumarbi gibi tanrıların üzerine kurgulanmıştır. Anu Gökyüzü Tanrısı’dır. Alalu da onun daha önceki atasıdır. Ayrıca metin kadim tanrılar Nara, Napşara, Minki ve Ammunki’den de söz etmektedir."
+    },
+    {
+        "SoruID": 3374939,
+        "SoruMetni": "Aşağıdakilerden hangisi Hititler tarafından Anadolu’nun yerli halkı olan Hattilerin mitlerinin Hititçeye adapte edilmesiyle ortaya çıkmış, Hatti (Anadolu) Kökenli Mitlerden birisidir?",
+        "A": "Gümüş’ün Şarkısı",
+        "B": "Tanrı Lama’nın Şarkısı",
+        "C": "Hedammu Şarkısı",
+        "D": "Ullikummi Şarkısı",
+        "E": "İlluyanka Efsanesi",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.136742",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Soruda Anadolu’nun yerli halkı olan Hattilerin mitlerinin Hititçeye adapte edilmesiyle ortaya çıkmış, Hatti (Anadolu) Kökenli Mitlerin tanınması amaçlanmıştır?<br>Hatti (Anadolu) Kökenli Mitler Anadolu’nun yerli halkı olan Hattilerin mitleri Hititler tarafından Hititçeye adapte edilmiştir. Diğer yabancı kökenli mitlerden daha basit bir yapı gösteren ve ritüel temsillerin sözlü olarak müzik eşliğinde<br/>icra edilmesiyle oluşmuştur. Bu grup içine dâhil ettiğimiz efsaneler:<br/>A- İlluyanka Efsanesi<br/>B- Deniz’in Kızı ve Telipinu<br/>C- Kamruşepa<br/>D- Fırtına Tanrısı’nın Müthiş Bir Şekilde<br/>Gürlemesi (Gökyüzünden Düşen Ay)<br/>E- Ebedi Olan İnsan Ruhunun Yolculuğu"
     },
     {
         "SoruID": 3374940,
@@ -1057,7 +1557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hittitlerin yerel kült merkezlerinde çeşitli ayinler düzenledikleri pek çok tanrı ve tanrıçaları vardı. Panteonda tam bin tanrının olduğu bizzat Hititler tarafından çeşitli vesilelerle belirtilmiştir. Bu tanrılardan biri de Alalu'dur. Eski zamanlardan beri gökyüzünde kral olan bu tanrı, Mezopotamya kökenlidir ve gökyüzünde dokuz yıl boyunca kral olarak kalmıştır."
+        "Aciklama": "Soruda istenilen Hitit tanrısının verilen özelliklerinden tanınması amaçlanmaktadır.<br>Hittitlerin yerel kült merkezlerinde çeşitli ayinler düzenledikleri pek çok tanrı ve tanrıçaları vardı. Panteonda tam bin tanrının olduğu bizzat Hititler tarafından çeşitli vesilelerle belirtilmiştir. Bu tanrılardan biri de Alalu'dur. Eski zamanlardan beri gökyüzünde kral olan bu tanrı, Mezopotamya kökenlidir ve gökyüzünde dokuz yıl boyunca kral olarak kalmıştır."
     },
     {
         "SoruID": 3374941,
@@ -1077,7 +1577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ea:Eski tabletlerin muhafızı olan ve iki yüzlü olarak omuzlarından fışkıran sularla oluşmuş bir nehir ile betimlenmiştir. Eski Hitit Dönemi belgelerinde geçmemesine rağmen MÖ 14. Yüzyıl siyasi antlaşmalarında görülür. Bu tanrının veziri İzzummi<br/>(Uşmu) ve karısı ise Damkina’dır. Mezopotamya’da bereketi temsil eden bu tanrı, Hurri mitlerinde Bilgeliğin Kralı olarak anılmış ve MÖ 1. bin yıla kadar işlevini sürdürmüştür."
+        "Aciklama": "Soruda Hitit panteonunda yer alan ve özellikleri verilen tanrının ayırt edilmesi amaçlanmıştır.<br>Ea:Eski tabletlerin muhafızı olan ve iki yüzlü olarak omuzlarından fışkıran sularla oluşmuş bir nehir ile betimlenmiştir. Eski Hitit Dönemi belgelerinde geçmemesine rağmen MÖ 14. Yüzyıl siyasi antlaşmalarında görülür. Bu tanrının veziri İzzummi<br/>(Uşmu) ve karısı ise Damkina’dır. Mezopotamya’da bereketi temsil eden bu tanrı, Hurri mitlerinde Bilgeliğin Kralı olarak anılmış ve MÖ 1. bin yıla kadar işlevini sürdürmüştür."
     },
     {
         "SoruID": 3374942,
@@ -1097,7 +1597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hepat: Fırtına Tanrısı’nın eşi, Tanrıların Kraliçesi olarak bilinen bu tanrıça, kutsal hayvanı arslan üzerinde betimlenmiştir. Aynı zamanda bir boğa vücudu üzerinde insan başı ya da çift insan ayağı ile gösterilmiş ve Teşup’un Boğası olarak tanımlanan Tanrı Şarruma’nın da annesidir."
+        "Aciklama": "Soruda özellikleri verilen Hitit tanrıçasının diğer tanrı ve tanrıçalardan ayırt edilebilmesi amaçlanmaktadır.<br>Hepat: Fırtına Tanrısı’nın eşi, Tanrıların Kraliçesi olarak bilinen bu tanrıça, kutsal hayvanı arslan üzerinde betimlenmiştir. Aynı zamanda bir boğa vücudu üzerinde insan başı ya da çift insan ayağı ile gösterilmiş ve Teşup’un Boğası olarak tanımlanan Tanrı Şarruma’nın da annesidir."
     },
     {
         "SoruID": 3374943,
@@ -1117,7 +1617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Şauşga: Bir arslan üzerinde kanatlı bir kadın formunda betimlenmiş bu tanrıça, Teşup’un kız kardeşidir. Ninive şehri ile ilgili olarak geçen bu tanrıça, Kenan mitindeki Baal’ın kız kardeşi Anat-Aştarte ile aynı görevlere sahiptir. İlk defa III. Ur Sülalesi döneminde görülen bu tanrıça MÖ. 8.yüzyılın sonuna kadar işlevini sürdürmüştür."
+        "Aciklama": "Soruda Hitit panteonunda yer alan bir tanrıçanın verilen özelliklerinden yola çıkılarak tanınması amaçlanmıştır.<br>Şauşga: Bir arslan üzerinde kanatlı bir kadın formunda betimlenmiş bu tanrıça, Teşup’un kız kardeşidir. Ninive şehri ile ilgili olarak geçen bu tanrıça, Kenan mitindeki Baal’ın kız kardeşi Anat-Aştarte ile aynı görevlere sahiptir. İlk defa III. Ur Sülalesi döneminde görülen bu tanrıça MÖ. 8.yüzyılın sonuna kadar işlevini sürdürmüştür."
     },
     {
         "SoruID": 3374944,
@@ -1180,6 +1680,46 @@
         "Aciklama": "Ereş.Ki.Gal"
     },
     {
+        "SoruID": 3374947,
+        "SoruMetni": "Ana Tanrıça’nın adı nedir?",
+        "A": "Hepat",
+        "B": "Kumarbi",
+        "C": "Ea",
+        "D": "Anu",
+        "E": "Kubaba",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.901689",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kubaba"
+    },
+    {
+        "SoruID": 3374948,
+        "SoruMetni": "Şıklardan hangisi Hurri Kökenli Mitlerden değildir?",
+        "A": "Kumarbi (Gökteki Krallık Efsanesi)",
+        "B": "Kamruşepa",
+        "C": "Tanrı LAMA’nın Şarkısı",
+        "D": "Gümüş’ün Şarkısı",
+        "E": "Hedammu Şarkısı",
+        "DogruCevap": "B",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.156908",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kamruşepa Hatti (Anadolu) Kökenli Mitlerdendir."
+    },
+    {
         "SoruID": 3374949,
         "SoruMetni": "Şıklardan hangisi Hatti (Anadolu) Kökenli Mitlerden değildir?",
         "A": "Ebedi Olan İnsan Ruhunun Yolculuğu",
@@ -1192,7 +1732,7 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:53.494676",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.903739",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1297,7 +1837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Grekçe <em>myth </em>“masal, öykü, hikâye, efsane” ve <em>logos </em>“söz” kelimelerinin birleştirilmesinden türetilmiş <em>mitoloji</em>, insan düşgücünün bir ürünüdür. Mitler bir ülkeden diğer bir ülkeye yayılmış ya da diğer halkların benzer olaylarla karşılaşması üzerine, düşgüçlerinin öteki uluslardan bağımsız olarak işlemesinin bir ürünü olarak doğmuş olmalıdır.<br/> Bundan dolayı olmalıdır ki, tarihçi Herodot miti, “<em>tarihi değeri olmayan, uydurma güvenilmez masallar</em>” ve Ploton da “<em>gerçeklerle ilgisi olmayan uydurma, boş ve gülünç hikâyeler</em>” olarak değerlendirirler.<br/>  Doğru yanıt B'dir."
+        "Aciklama": "Grekçe <em>myth </em>“masal, öykü, hikâye, efsane” ve <em>logos </em>“söz” kelimelerinin birleştirilmesinden türetilmiş <em>mitoloji</em>, insan düşgücünün bir ürünüdür. Mitler bir ülkeden diğer bir ülkeye yayılmış ya da diğer halkların benzer olaylarla karşılaşması üzerine, düşgüçlerinin öteki uluslardan bağımsız olarak işlemesinin bir ürünü olarak doğmuş olmalıdır.<br/>Bundan dolayı olmalıdır ki, tarihçi Herodot miti, “<em>tarihi değeri olmayan, uydurma güvenilmez masallar</em>” ve Ploton da “<em>gerçeklerle ilgisi olmayan uydurma, boş ve gülünç hikâyeler</em>” olarak değerlendirirler.<br/>Doğru yanıt B'dir."
     },
     {
         "SoruID": 3374985,
@@ -1317,11 +1857,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kumarbi (Gökteki Krallık Efsanesi), Tanrı LAMA’nın Şarkısı, Gümüş’ün Şarkısı ve Hedammu Şarkısı Hurri Kökenli Mitlerdendir. Kamruşepa ise Hatti (Anadolu) Kökenli Mitlerdendir. Doğru yanıt E'dir."
+        "Aciklama": "Kumarbi (Gökteki Krallık Efsanesi), Tanrı LAMA’nın Şarkısı, Gümüş’ün Şarkısı ve Hedammu Şarkısı Hurri Kökenli Mitlerdendir. Kamruşepa ise Hatti (Anadolu) Kökenli Mitlerdendir. Doğru yanıt E'dir."
     },
     {
         "SoruID": 3374986,
-        "SoruMetni": "Aşağıdakilerden hangisi Hatti (Anadolu) Kökenli Mitlerden biri <strong>değildir</strong>?",
+        "SoruMetni": "Aşağıdakilerden hangisi Hatti (Anadolu) Kökenli Mitlerden biri <strong>değildir</strong>?",
         "A": "İlluyanka",
         "B": "Deniz’in Kızı ve Telipinu",
         "C": "Kamruşepa",
@@ -1357,7 +1897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hurri Kökenli Mitler, Hurriceden Hittitçeye uyarlanmıştır. Aşağıda başlıkları verilmiş olan efsaneler birbiriyle ilişkilidir. Bu efsanelerin ana konusunu; Kumarbi ve Fırtına Tanrısı Teşup’un tanrılar üzerinde bir krallık elde etmek için verdiği mücadele oluşturmaktadır. Doğru yanıt B'dir."
+        "Aciklama": "Hurri Kökenli Mitler, Hurriceden Hittitçeye uyarlanmıştır. Aşağıda başlıkları verilmiş olan efsaneler birbiriyle ilişkilidir. Bu efsanelerin ana konusunu; Kumarbi ve Fırtına Tanrısı Teşup’un tanrılar üzerinde bir krallık elde etmek için verdiği mücadele oluşturmaktadır. Doğru yanıt B'dir."
     },
     {
         "SoruID": 3374988,
@@ -1421,7 +1961,7 @@
     },
     {
         "SoruID": 3374991,
-        "SoruMetni": "Hitit mitolojisine göre Anu ve Kumarbi’nin çocuğu, Fırtına Tanrısı ve Taşmişu’nun erkek kardeşi olan tanrı aşağıdakilerden hangisidir?",
+        "SoruMetni": "Hitit mitolojisine göre Anu ve Kumarbi’nin çocuğu, Fırtına Tanrısı ve Taşmişu’nun erkek kardeşi olan tanrı aşağıdakilerden hangisidir?",
         "A": "Alalu",
         "B": "Ea",
         "C": "Aranzah",
@@ -1438,6 +1978,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Aranzah (Dicle Nehri),Anu ve Kumarbi’nin çocuğu, Fırtına Tanrısı ve Taşmişu’nun erkek kardeşidir. Doğru yanıt C'dir."
+    },
+    {
+        "SoruID": 3374992,
+        "SoruMetni": "Eski Hitit Dönemine tarihlendirilen Kaybolan Tanrı Efsanelerinde, kaybolan tanrıların aranmasını isteyen ve <em>Tüm Tanrıların Annesi </em>ya da <em>Büyükanne </em>unvanına sahip tanrıça aşağıdakilerden hangisidir?",
+        "A": "Kumarbi",
+        "B": "Damkina",
+        "C": "Ereş.Ki.Gal",
+        "D": "Hannahanna",
+        "E": "İnara",
+        "DogruCevap": "D",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:15:52.914077",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Hannahanna, Eski Hitit Dönemine tarihlendirilen Kaybolan Tanrı Efsanelerinde, kaybolan tanrıların aranmasını isteyen ve <em>Tüm Tanrıların Annesi </em>ya da <em>Büyükanne </em>unvanına sahip tanrıçadır. Bu tanrıça Gulşa, MAH ve NIN.TU ile de eşitlenmektedir. Doğru yanıt D'dir."
     },
     {
         "SoruID": 3374993,
@@ -1477,11 +2037,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tarihçi Herodot miti, “tarihi değeri olmayan, uydurma güvenilmez masallar” ve Ploton da “gerçeklerle ilgisi olmayan uydurma, boş ve gülünç hikâyeler” olarak değerlendirirler."
+        "Aciklama": "Soruda verilen kavramı yorumlayan filozofun hatırlanması amaçlanmıştır.<br>Tarihçi Herodot miti, “tarihi değeri olmayan, uydurma güvenilmez masallar” ve Ploton da “gerçeklerle ilgisi olmayan uydurma, boş ve gülünç hikâyeler” olarak değerlendirirler."
     },
     {
         "SoruID": 3374995,
-        "SoruMetni": "Aşağıdakilerden hangisi Anadolu’nun yerli halkı olan Hattilerin mitlerinin Hititler tarafından adapte edilmesiyle ortaya çıkmış efsanelerden birisi <strong>değildir</strong>?",
+        "SoruMetni": "Aşağıdakilerden hangisi Anadolu’nun yerli halkı olan Hattilerin mitlerinin Hititler tarafından adapte edilmesiyle ortaya çıkmış efsanelerden birisi <strong>değildir</strong>?",
         "A": "Deniz’in Kızı ve Telipinu",
         "B": "İlluyanka",
         "C": "Tanrı Lama’nın Şarkısı",
@@ -1497,7 +2057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hatti (Anadolu) Kökenli Mitler<br/>Anadolu’nun yerli halkı olan Hattilerin mitleri Hititler tarafından Hititçeye adapte edilmiştir. Diğer yabancı kökenli mitlerden daha basit bir yapı gösteren ve ritüel temsillerin sözlü olarak müzik eşliğinde icra edilmesiyle oluşmuştur. Bu grup içine<br/>dâhil ettiğimiz efsaneler:<br/>A- İlluyanka<br/>B- Deniz’in Kızı ve Telipinu<br/>C- Kamruşepa<br/>D- Fırtına Tanrısı’nın Müthiş Bir Şekilde<br/>Gürlemesi (Gökyüzünden Düşen Ay)<br/>E- Ebedi Olan İnsan Ruhunun Yolculuğu"
+        "Aciklama": "Soruda Hititlerin Hatti kökenli mitlerinin doğru olarak hatırlanması ve tanınması amaçlanmıştır.<br>Hatti (Anadolu) Kökenli Mitler<br/>Anadolu’nun yerli halkı olan Hattilerin mitleri Hititler tarafından Hititçeye adapte edilmiştir. Diğer yabancı kökenli mitlerden daha basit bir yapı gösteren ve ritüel temsillerin sözlü olarak müzik eşliğinde icra edilmesiyle oluşmuştur. Bu grup içine<br/>dâhil ettiğimiz efsaneler:<br/>A- İlluyanka<br/>B- Deniz’in Kızı ve Telipinu<br/>C- Kamruşepa<br/>D- Fırtına Tanrısı’nın Müthiş Bir Şekilde<br/>Gürlemesi (Gökyüzünden Düşen Ay)<br/>E- Ebedi Olan İnsan Ruhunun Yolculuğu"
     },
     {
         "SoruID": 3374996,
@@ -1517,7 +2077,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hurriceden Hittitçeye uyarlanmış mitler ve efsaneler birbiriyle ilişkilidir. Bu efsanelerin ana konusunu; Kumarbi ve Fırtına Tanrısı Teşup’un tanrılar üzerinde bir krallık elde etmek için verdiği mücadele oluşturmaktadır."
+        "Aciklama": "Soruda konusu verilen efsane grubunun hangi uygarlıktan adapte edilerek dönüştürüldüğünün hatırlanarak tanınması amaçlanmıştır.<br>Hurriceden Hittitçeye uyarlanmış mitler ve efsaneler birbiriyle ilişkilidir. Bu efsanelerin ana konusunu; Kumarbi ve Fırtına Tanrısı Teşup’un tanrılar üzerinde bir krallık elde etmek için verdiği mücadele oluşturmaktadır."
+    },
+    {
+        "SoruID": 3374997,
+        "SoruMetni": "Hitit Mitolojisindeki hangi hurri kökenli dev tanrı Grek dünyasında Atlas’a benzemekte ve yer altında oturarak omuzları üzerinde yeryüzü ile gökyüzünü taşımaktadır?",
+        "A": "Upellur",
+        "B": "Teşup",
+        "C": "Taşmişu",
+        "D": "Kumarbi",
+        "E": "Hapantaliia",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.072042",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Soruda Hitit mitolojisinden bir tanrının verilen özelliklerinde yola çıkılarak bir tanınması amaçlanmıştır.<br>Hitit Mitolojisinin Başlıca Tanrı ve Tanrıçalarından<strong> Upellur</strong> Grek dünyasında Atlas’a benzeyen ve Hurri kökenli dev tanrı olup yeraltında oturmakta ve omuzları üzerinde de yeryüzü ile gökyüzünü taşımaktadır."
     },
     {
         "SoruID": 3374998,
@@ -1537,7 +2117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hitit Mitolojisinde Kubaba Ana Tanrıça’dır. Hitit öncesi dönemde de baş tanrıçadır. Hurri panteonunda da görülen bu tanrıçanın kült merkezi Kargamış’tır. Bu tanrıça Phryg ve Roma döneminde de Kybele olarak panteondaki yerini almıştır."
+        "Aciklama": "Soruda Hitit mitolojisindeki özellikleri verilmiş bir tanrıçanın buradan yola çıkılarak tanınması amaçlanmıştır.<br>Hitit Mitolojisinde Kubaba Ana Tanrıça’dır. Hitit öncesi dönemde de baş tanrıçadır. Hurri panteonunda da görülen bu tanrıçanın kült merkezi Kargamış’tır. Bu tanrıça Phryg ve Roma döneminde de Kybele olarak panteondaki yerini almıştır."
     },
     {
         "SoruID": 3374999,
@@ -1557,7 +2137,47 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hitit Mitolojisinde Ereş.Ki.Gal Fırtına Tanrısının annesidir ve antlaşma metinlerinde sıkça görülen bu tanrıça mitolojide karanlık toprağın açılması ile yer altından Fırtına Tanrısının geri getirilmesi konusunda önemli bir rol oynar."
+        "Aciklama": "Soruda Hitit mitolojisinden özellikleri verilen bir tanrıçanın tanınması amaçlanmıştır.<br>Hitit Mitolojisinde Ereş.Ki.Gal Fırtına Tanrısının annesidir ve antlaşma metinlerinde sıkça görülen bu tanrıça mitolojide karanlık toprağın açılması ile yer altından Fırtına Tanrısının geri getirilmesi konusunda önemli bir rol oynar."
+    },
+    {
+        "SoruID": 3375000,
+        "SoruMetni": "Aşağıdakilerden hangisi Hitit masallarından biri <strong>değildir?</strong>",
+        "A": "Gurparanzah",
+        "B": "Zalpa Kenti Öyküsü",
+        "C": "Telipinu’nun Kayboluşu",
+        "D": "Avcı Keşşi ve Karısı",
+        "E": "Appu ve İki Oğlu",
+        "DogruCevap": "C",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.906693",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Soruda Hitit masalları ile Hitit mitoslarının ayırt edilebilmesi amaçlanmıştır.<br>Bütün bunlardan ayrı olarak Hitit masalları içinde değerlendirilebilecek bir grup daha vardır. Yukarıda saydığımız Hitit masallarına ek olarak Hurrililer eliyle Hititçeye geçmiş olan ‘Gurparanzah masalı’ da anılmaya değerdir. Diğer masallar Zalpa Kenti Öyküsü (Bir Yılda Otuz Çocuk Doğuran Kaneş Kraliçesi), Appu ve İki Oğlu, Avcı Keşşi ve Karısı'dır."
+    },
+    {
+        "SoruID": 3375001,
+        "SoruMetni": "Anadolu kökenli Ugarit ‘Baal ile Mot’ mitinde Baal’ın ortadan kayboluşu ve Sumerce, Tammuz’un yer altı dünyasında başından geçenlerin anlatıldığı ‘İnanna’nın Cehenneme İnişi’ adlı efsane ile benzer yönleri bulunan ve baharı/nevruzu müjdeleyen Hitit efsanesi aşağıdakilerden hangisidir?",
+        "A": "Tanrı Telipinu’nun Kayboluşu",
+        "B": "İlluyanka Efsanesi",
+        "C": "Kumarbi (Gökteki Krallık) Efsanesi",
+        "D": "Ullikummi Şarkısı",
+        "E": "Appu ve İki Oğlu",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.116481",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Soruda konusu verilen bir Hitit efsanesinin tanınması amaçlanmıştır.<br>Telipinu’nun Kayboluşu Anadolu kökenli ve yine baharı/nevruzu müjdeleyen bir başka Hitit efsanesi de ‘Tanrı Telipinu’nun Kayboluşu’ mitidir. Ugarit ‘Baal ile Mot’<br/>mitinde Baal’ın ortadan kayboluşu ve Sumerce, Tammuz’un yer altı dünyasında başından geçenlerin anlatıldığı ‘İnanna’nın Cehenneme İnişi’ adlı efsane ile benzer yönleri bulunmaktadır."
     },
     {
         "SoruID": 3375002,
@@ -1577,7 +2197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hitit mitolojisinin beslendiği kaynaklardan diğeri de Mezopotamya kökenli efsanelerdir. Bu efsaneler içinde en önemlisi Gılgamış destanıdır. Sumer, Babil ve Hurri kültüründe görülen efsanenin Hititçe nüshası, Enkidu’nun öldürülmesini konu edinmektedir. Efsanede anlatılan ‘tufan’ olayı kutsal kitaplardan Tevrat ile birebir örtüşür. Bu efsanede Nuh’un adı Utnapiştim idi."
+        "Aciklama": "Soruda Hitit mitolojisinden bir destanın konusu ve kahramanları verilerek tanınması amaçlanmıştır.<br>Hitit mitolojisinin beslendiği kaynaklardan diğeri de Mezopotamya kökenli efsanelerdir. Bu efsaneler içinde en önemlisi Gılgamış destanıdır. Sumer, Babil ve Hurri kültüründe görülen efsanenin Hititçe nüshası, Enkidu’nun öldürülmesini konu edinmektedir. Efsanede anlatılan ‘tufan’ olayı kutsal kitaplardan Tevrat ile birebir örtüşür. Bu efsanede Nuh’un adı Utnapiştim idi."
     },
     {
         "SoruID": 3375003,
@@ -1597,11 +2217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hitit mitolojisinde Aranzah (Dicle Nehri) Anu ve Kumarbi’nin çocuğu, Fırtına Tanrısı ve Taşmişu’nun erkek kardeşidir."
+        "Aciklama": "Soruda Hitit mitolojisinden özellikleri verilen bir tanrının hatırlanması ve tanınması amaçlanmıştır.<br>Hitit mitolojisinde Aranzah (Dicle Nehri) Anu ve Kumarbi’nin çocuğu, Fırtına Tanrısı ve Taşmişu’nun erkek kardeşidir."
     },
     {
         "SoruID": 3375004,
-        "SoruMetni": "Hitit Mitolojisinde Hatti kökenli bir tanrıça olup, Hititçe innaru- kelimesi ile sıkı bir ilişkisi olan, Lama ile eşitlenmiş, Fırtına Tanrısının kızı ve vahşi hayvanların tanrıçası aşağıdakilerden hangisidir?",
+        "SoruMetni": "Hitit Mitolojisinde Hatti kökenli bir tanrıça olup, Hititçe innaru- kelimesi ile sıkı bir ilişkisi olan, Lama ile eşitlenmiş, Fırtına Tanrısının kızı ve vahşi hayvanların tanrıçası aşağıdakilerden hangisidir?",
         "A": "Kamruşepa",
         "B": "Hepat",
         "C": "Ninatta",
@@ -1612,18 +2232,18 @@
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:53.426424",
+        "OlusturmaTarihi": "2025-12-01T04:15:52.905258",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hitit Mitolojisinde İnara Fırtına Tanrısı’nın kızı ve vahşi hayvanların tanrıçasıdır. Hatti kökenli bir tanrıça olup, Eski Hitit mitlerinde görülür. Hititçe innaru- kelimesi ile sıkı bir ilişkisi olan bu tanrıça, LAMA ile eşitlenmiştir."
+        "Aciklama": "Soruda özellikleri verilen Hitit tanrıçasının hatırlanması ve tanınması amaçlanmıştır.<br>Hitit Mitolojisinde İnara Fırtına Tanrısı’nın kızı ve vahşi hayvanların tanrıçasıdır. Hatti kökenli bir tanrıça olup, Eski Hitit mitlerinde görülür. Hititçe innaru- kelimesi ile sıkı bir ilişkisi olan bu tanrıça, LAMA ile eşitlenmiştir."
     },
     {
         "SoruID": 3375227,
         "SoruMetni": "Mitolojiyi \"gerçeklerle ilgisi olmayan uydurma, boş ve gülünç hikâyeler\" olarak tanımlayan bilge kimdir?",
         "A": "Platon",
-        "B": "Herodot<br/><br/>",
+        "B": "Herodot",
         "C": "Sokrates",
         "D": "Konfüçyüs",
         "E": "Aristoteles",
@@ -1637,35 +2257,35 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Platon"
+        "Aciklama": "Giriş<br>Platon"
     },
     {
-        "SoruID": 3375230,
-        "SoruMetni": "Hurri Kökenli Mitler Hurriceden Hittitçeye uyarlanmıştır. Aşağıda başlıkları verilmiş olan efsaneler birbiriyle ilişkilidir. Bu efsanelerin ana konusunu; Kumarbi ve Fırtına Tanrısı Teşup’un tanrılar üzerinde bir krallık elde etmek için verdiği mücadele oluşturmaktadır.<br/> Aşağıda yer alan efsanelerden hangisi Hurri Kökenli Mitler başlığı altında yer almaz?",
-        "A": "Kuliwişna",
-        "B": "Kumarbi <br/><br/>",
-        "C": "Tanrı LAMA’nın Şarkısı<br/><br/>",
-        "D": "Gümüş’ün Şarkısı<br/><br/>",
-        "E": "Hedammu Şarkısı<br/><br/>",
-        "DogruCevap": "A",
+        "SoruID": 3375229,
+        "SoruMetni": "Hatti (Anadolu) Kökenli Mitler içinde dâhil ettiğimiz efsaneler bulunmaktadır. Aşağıda yer alan efsanelerden hangisi söz konusu mit içerisinde yer alan efsanelerden biri değildir?",
+        "A": "İlluyanka",
+        "B": "Deniz’in Kızı ve Telipinu",
+        "C": "Kamruşepa",
+        "D": "<br/>E- Ebedi Olan İnsan Ruhunun Yolculuğu",
+        "E": "Elkunirşa",
+        "DogruCevap": "E",
         "DersAd": "Mitoloji ve Din",
         "Unite": 3,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:53.488178",
+        "OlusturmaTarihi": "2025-12-01T04:08:47.151834",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kuliwişna"
+        "Aciklama": "Hatti (Anadolu) Kökenli Mitler<br>Elkunirşa"
     },
     {
         "SoruID": 3375231,
-        "SoruMetni": "Aşağıda sıraladığımız masallardan  hangisi Ullikummi Şarkısı altında sınıflandırılan   masallardan biri değildir?<br/><br/><br/>",
+        "SoruMetni": "Aşağıda sıraladığımız masallardan hangisi Ullikummi Şarkısı altında sınıflandırılan masallardan biri değildir?",
         "A": "Lihzina kenti Fırtına Tanrısı",
-        "B": "Zalpa Şehri Öyküsü (Bir Yılda Otuz Çocuk Doğuran Kaneş Kraliçesi)<br/><br/>",
-        "C": "Appu ve İki Oğlu<br/><br/>",
-        "D": "Avcı Keşşi ve Karısı<br/>",
+        "B": "Zalpa Şehri Öyküsü (Bir Yılda Otuz Çocuk Doğuran Kaneş Kraliçesi)",
+        "C": "Appu ve İki Oğlu",
+        "D": "Avcı Keşşi ve Karısı",
         "E": "Güneş Tanrısı, İnek ve Balıkçı",
         "DogruCevap": "A",
         "DersAd": "Mitoloji ve Din",
@@ -1677,11 +2297,51 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lihzina kenti Fırtına Tanrısı"
+        "Aciklama": "Hurri Kökenli Mitler<br>Lihzina kenti Fırtına Tanrısı"
+    },
+    {
+        "SoruID": 3375232,
+        "SoruMetni": "Anadolu’da ilkbaharın/Purulli müjdeleyicisi kapsamında tapınaklarda bir Hitit edebi metni<br/>olarak Geç Hitit Dönemi’ne kadar okunduğu bilinen Hatti (Anadolu) kökenli mitlerin en önemlilerinden biri yılan/ejderha İlluyanka efsanesidir. Bu efsanenin Hitit kült ve ritüelleri ile bağlarının<br/>olduğu bilinmektedir. Söz konusu bu Efsane kaç nüsha halinde ele geçmiştir.",
+        "A": "İki nüsha",
+        "B": "Üç nüsha",
+        "C": "Dört nüsha",
+        "D": "Beş nüsha",
+        "E": "Yedi nüsha",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.940025",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İlluyanka Efsanesi<br>İki nüsha"
+    },
+    {
+        "SoruID": 3375233,
+        "SoruMetni": "İlluyanka Efsanesinde İlluyanka kime karşı savaş verir?",
+        "A": "Fırtına Tanrısına",
+        "B": "Gök Tanrısına",
+        "C": "Tabiat Ana Tanrısına",
+        "D": "Deniz Tanrısına",
+        "E": "Yılan Tanrısına",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.075278",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İlluyanka Efsanesi<br>Fırtına Tanrısına"
     },
     {
         "SoruID": 3375234,
-        "SoruMetni": "Telipinu’nun Kayboluşu efsanesi dua, ritüel ve büyü ile güçlendirilmiştir. Efsane ‘eski krallık’ devrinden itibaren ‘imparatorluk’ döneminde de Anadolu’da söylenegelmiştir. Efsane genel hatları ile şöyledir: “Telipinu kızmıştır ve kızgınlıktan ne yaptığının farkında değildir; sağ ayakkabısını sola, sol ayakkabısını sağ ayağına geçirmiş, iyi olan her şeyi alıp çekip gitmiştir.<br/> Söz konusu efsanede Telipinu nereye gitmiştir?",
+        "SoruMetni": "Telipinu’nun Kayboluşu efsanesi dua, ritüel ve büyü ile güçlendirilmiştir. Efsane ‘eski krallık’ devrinden itibaren ‘imparatorluk’ döneminde de Anadolu’da söylenegelmiştir. Efsane genel hatları ile şöyledir: “Telipinu kızmıştır ve kızgınlıktan ne yaptığının farkında değildir; sağ ayakkabısını sola, sol ayakkabısını sağ ayağına geçirmiş, iyi olan her şeyi alıp çekip gitmiştir.<br/>Söz konusu efsanede Telipinu nereye gitmiştir?",
         "A": "Ormana",
         "B": "Denize",
         "C": "Saraya",
@@ -1697,11 +2357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ormana"
+        "Aciklama": "Telipinu’nun Kayboluşu<br>Ormana"
     },
     {
         "SoruID": 3375235,
-        "SoruMetni": "Eskiden Alalu gökyüzünde dokuz yıl boyunca kraldır ve tahtta oturmaktadır. Tanrıların önde geleni güçlü Anu da, Alalu’ya sakilik görevi yapmaktadır. Ancak bu iki tanrı birbiri ile düşman olmuş ve Anu, Alalu’yu gökteki krallıktan indirerek tahtı ele geçirmiştir.<br/> Bir kesitini verdiğimiz söz konusu efsanenin adı nedir?",
+        "SoruMetni": "Eskiden Alalu gökyüzünde dokuz yıl boyunca kraldır ve tahtta oturmaktadır. Tanrıların önde geleni güçlü Anu da, Alalu’ya sakilik görevi yapmaktadır. Ancak bu iki tanrı birbiri ile düşman olmuş ve Anu, Alalu’yu gökteki krallıktan indirerek tahtı ele geçirmiştir.<br/>Bir kesitini verdiğimiz söz konusu efsanenin adı nedir?",
         "A": "Kumarbi",
         "B": "Ullikummi",
         "C": "Telipinu",
@@ -1717,7 +2377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kumarbi  Efsanesi"
+        "Aciklama": "Kumarbi Efsanesi"
     },
     {
         "SoruID": 3375236,
@@ -1737,16 +2397,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Utnapiştim"
+        "Aciklama": "MEZOPOTAMYA VE KENAN KÖKENLİ MİTOSLAR<br>Utnapiştim"
     },
     {
         "SoruID": 3375287,
-        "SoruMetni": "Aşağıdakilerden hangisi  <span>Hatti (Anadolu) Kökenli Mitler</span>  arasındadır?",
+        "SoruMetni": "Aşağıdakilerden hangisi <span>Hatti (Anadolu) Kökenli Mitler</span> arasındadır?",
         "A": "<span>İlluyanka</span>",
         "B": "<span>Kumarbi (Gökteki Krallık Efsanesi)</span>",
-        "C": "<span> Tanrı LAMA’nın Şarkısı<br/><br/></span>",
-        "D": "<span> Gümüş’ün Şarkısı<br/><br/></span>",
-        "E": "<span>Hedammu Şarkısı<br/><br/></span>",
+        "C": "<span> Tanrı LAMA’nın Şarkısı<br/></span>",
+        "D": "<span> Gümüş’ün Şarkısı<br/></span>",
+        "E": "<span>Hedammu Şarkısı<br/></span>",
         "DogruCevap": "A",
         "DersAd": "Mitoloji ve Din",
         "Unite": 3,
@@ -1761,11 +2421,11 @@
     },
     {
         "SoruID": 3375288,
-        "SoruMetni": "<span>Aşağıdakilerden hangisi Kayıp Tanrı Mitleri</span>  arasında değildir?",
+        "SoruMetni": "<span>Aşağıdakilerden hangisi Kayıp Tanrı Mitleri</span> arasında değildir?",
         "A": "<span>Kâtip Pirwa’nın Fırtına Tanrısı’nın Kayboluşu<br/></span>",
-        "B": "<span>Kuliwişna kenti Fırtına Tanrısı’nın Kayboluşu<br/><br/></span>",
-        "C": "<span>Lihzina kenti Fırtına Tanrısı<br/><br/></span>",
-        "D": "<span>Anzili ve Zukki’nin Kayboluşu<br/><br/></span>",
+        "B": "<span>Kuliwişna kenti Fırtına Tanrısı’nın Kayboluşu<br/></span>",
+        "C": "<span>Lihzina kenti Fırtına Tanrısı<br/></span>",
+        "D": "<span>Anzili ve Zukki’nin Kayboluşu<br/></span>",
         "E": "<span>Fırtına Tanrısı’nın Müthiş Bir Şekilde<br/>Gürlemesi </span>",
         "DogruCevap": "E",
         "DersAd": "Mitoloji ve Din",
@@ -1781,11 +2441,11 @@
     },
     {
         "SoruID": 3375289,
-        "SoruMetni": "Aşağıdakilerden hangisi  <span>Hurri Kökenli Mitler</span> arasındadır?",
+        "SoruMetni": "Aşağıdakilerden hangisi <span>Hurri Kökenli Mitler</span> arasındadır?",
         "A": "<span>Deniz’in Kızı ve Telipinu<br/></span>",
         "B": "<span>Gümüş’ün Şarkısı</span>",
-        "C": "<span> Kamruşepa<br/><br/></span>",
-        "D": "<span>Gökyüzünden Düşen Ay<br/><br/></span>",
+        "C": "<span> Kamruşepa<br/></span>",
+        "D": "<span>Gökyüzünden Düşen Ay<br/></span>",
         "E": "<span>Ebedi Olan İnsan Ruhunun Yolculuğu</span>",
         "DogruCevap": "B",
         "DersAd": "Mitoloji ve Din",
@@ -1801,12 +2461,12 @@
     },
     {
         "SoruID": 3375290,
-        "SoruMetni": "<span>Aşağıdakilerden hangisi Kenan Kökenli Mitler</span>  arasındadır?",
+        "SoruMetni": "<span>Aşağıdakilerden hangisi Kenan Kökenli Mitler</span> arasındadır?",
         "A": "<span>Kumarbi (Gökteki Krallık Efsanesi)<br/></span>",
-        "B": "<span>Tanrı LAMA’nın Şarkısı<br/><br/></span>",
-        "C": "<span>Gümüş’ün Şarkısı<br/><br/></span>",
+        "B": "<span>Tanrı LAMA’nın Şarkısı<br/></span>",
+        "C": "<span>Gümüş’ün Şarkısı<br/></span>",
         "D": "<span>Elkunirşa ve Aşertu</span>",
-        "E": "<span>Hedammu Şarkısı<br/><br/></span>",
+        "E": "<span>Hedammu Şarkısı<br/></span>",
         "DogruCevap": "D",
         "DersAd": "Mitoloji ve Din",
         "Unite": 3,
@@ -1820,11 +2480,51 @@
         "Aciklama": "<span>Kenan Kökenli Mitler:<br/></span><span>Elkunirşa ve Aşertu</span>"
     },
     {
+        "SoruID": 3375291,
+        "SoruMetni": "Aşağıdakilerden hangisi <span>Mezopotamya Kökenli Mitler: arasındadır? </span>",
+        "A": "Gılgamış",
+        "B": "<span>İlluyanka<br/></span>",
+        "C": "<span>Deniz’in Kızı ve Telipinu<br/></span>",
+        "D": "<span>Kamruşepa</span>",
+        "E": "<span>C- Kamruşepa</span>",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.912394",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Gılgamış"
+    },
+    {
+        "SoruID": 3375292,
+        "SoruMetni": "<span>“Sonra İnara Tarukka kentinde kaya üzerinde bir ev inşa eder. Hupaşiya’yı bu eve hapsederek, onun<br/>pencereden dışarıya bakmasını yasaklar. Ancak yirmi gün sonra pencereden dışarı bakan Hupaşiya<br/>karısı ve çocuklarını görür ve ağlayarak çoluk çocuğunun yanına dönmek istediğini belirtir.”</span> <br/>Yukarıdaki bölüm hangisinden alınmıştır?",
+        "A": "<span>Deniz’in Kızı ve Telipinu<br/></span>",
+        "B": "<span>İlluyanka Efsanesi</span>",
+        "C": "<span>Kamruşepa<br/></span>",
+        "D": "<span>Gökyüzünden Düşen Ay<br/></span>",
+        "E": "<span>Ebedi Olan İnsan Ruhunun Yolculuğu</span>",
+        "DogruCevap": "B",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.962307",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<span>İlluyanka Efsanesi</span>"
+    },
+    {
         "SoruID": 3375293,
-        "SoruMetni": "<span>“Eskiden Alalu gökyüzünde dokuz yıl boyunca<br/>kraldır ve tahtta oturmaktadır. Tanrıların önde geleni güçlü Anu da, Alalu’ya sakilik görevi yapmaktadır. Ancak bu iki tanrı birbiri ile düşman olmuş ve<br/>Anu, Alalu’yu gökteki krallıktan indirerek tahtı ele<br/>geçirmiştir\".</span><br/> <span>Yukarıdaki kısım aşağıdakilerden hangisinden alınmıştır? </span>",
-        "A": "İlluyanka<br/><br/>",
-        "B": "Deniz’in Kızı ve Telipinu<br/><br/>",
-        "C": "Kamruşepa<br/><br/>",
+        "SoruMetni": "<span>“Eskiden Alalu gökyüzünde dokuz yıl boyunca<br/>kraldır ve tahtta oturmaktadır. Tanrıların önde geleni güçlü Anu da, Alalu’ya sakilik görevi yapmaktadır. Ancak bu iki tanrı birbiri ile düşman olmuş ve<br/>Anu, Alalu’yu gökteki krallıktan indirerek tahtı ele<br/>geçirmiştir\".</span><br/><span>Yukarıdaki kısım aşağıdakilerden hangisinden alınmıştır? </span>",
+        "A": "İlluyanka",
+        "B": "Deniz’in Kızı ve Telipinu",
+        "C": "Kamruşepa",
         "D": "Gökyüzünden Düşen Ay",
         "E": "<span>Kumarbi (Gökteki Krallık) Efsanesi</span>",
         "DogruCevap": "E",
@@ -1841,10 +2541,10 @@
     },
     {
         "SoruID": 3375294,
-        "SoruMetni": "<span>\"Bir Yılda Otuz Çocuk Doğuran Kaneş Kraliçesi\" masalının diğer adı nedir? </span>",
+        "SoruMetni": "<span>\"Bir Yılda Otuz Çocuk Doğuran Kaneş Kraliçesi\" masalının diğer adı nedir? </span>",
         "A": "<span>Zalpa Şehri Öyküsü</span>",
         "B": "<span>Appu ve İki Oğlu<br/></span>",
-        "C": "<span>Avcı Keşşi ve Karısı<br/><br/></span>",
+        "C": "<span>Avcı Keşşi ve Karısı<br/></span>",
         "D": "<span>Güneş Tanrısı, İnek ve Balıkçı</span>",
         "E": "Gılgamış",
         "DogruCevap": "A",
@@ -1861,7 +2561,7 @@
     },
     {
         "SoruID": 3375295,
-        "SoruMetni": "<span>Mezopotamya kökenli olup </span><span>Teşup</span><span>’un ve<br/></span><span>Taşmişu</span><span>’nun babası ve tanrıların ikincisidir. Alalu<br/>gökyüzünde kral iken ona sâki olarak hizmet etmiştir. </span> <br/> <span>Sözü edilen tanrı kimdir? </span>",
+        "SoruMetni": "<span>Mezopotamya kökenli olup </span><span>Teşup</span><span>’un ve<br/></span><span>Taşmişu</span><span>’nun babası ve tanrıların ikincisidir. Alalu<br/>gökyüzünde kral iken ona sâki olarak hizmet etmiştir. </span> <br/><span>Sözü edilen tanrı kimdir? </span>",
         "A": "Ea",
         "B": "Aştapi",
         "C": "Aranzah",
@@ -1878,5 +2578,45 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Anu"
+    },
+    {
+        "SoruID": 3375296,
+        "SoruMetni": "<span>Aşağıdakilerden hangisi Hitit mitolojisinde Ay Tanrısıdır?</span>",
+        "A": "Mukişanu",
+        "B": "Lama",
+        "C": "Kumarbi",
+        "D": "Kaşku",
+        "E": "Teşup",
+        "DogruCevap": "D",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.963871",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kaşku"
+    },
+    {
+        "SoruID": 3473522,
+        "SoruMetni": "I.Mezopotamya (Sumer),<br/>II. Anadolu (Hatti)<br/>III. Hurri<br/>Yukarıdakilerden hangisi / hangileri Hitit edebiyat dünyasında yer alan efsanelerin kökeni sayılır?",
+        "A": "Yalnız I",
+        "B": "I ve II",
+        "C": "I ve III",
+        "D": "II ve III",
+        "E": "I, II ve III",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:46.965503",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Seçeneklerin tamamı Hitit edebiyat dünyasında yer alan efsanelerin kökenidir. Doğru yanıt E seçeneğidir."
     }
 ]

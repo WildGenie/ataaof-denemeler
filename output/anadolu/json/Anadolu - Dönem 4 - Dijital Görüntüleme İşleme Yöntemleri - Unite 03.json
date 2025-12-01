@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Denge, yalınlık, bütünlük, hiyerarşi arayüz tasarımı oluşturabilmek için gerekli ilkeler arasındadır. Nokta ve çizgi, seçeneği ise arayüz tasarımı  ögeleri arasındadır."
+        "Aciklama": "Kontrast bu ilkeler arasında yer almaz.<br>Denge, yalınlık, bütünlük, hiyerarşi arayüz tasarımı oluşturabilmek için gerekli ilkeler arasındadır. Nokta ve çizgi, seçeneği ise arayüz tasarımı ögeleri arasındadır."
     },
     {
         "SoruID": 3488753,
-        "SoruMetni": "Tasarım yüzeyi üzerinde yer alan her bir görsel elemanın, diğer görsel ögeler ile bağlantılı olması ve tasarımın tüm parçalarının uyum içerisinde olması anlamına gelen tasarım  ilkesi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Tasarım yüzeyi üzerinde yer alan her bir görsel elemanın, diğer görsel ögeler ile bağlantılı olması ve tasarımın tüm parçalarının uyum içerisinde olması anlamına gelen tasarım ilkesi aşağıdakilerden hangisidir?",
         "A": "Renk",
         "B": "Bütünlük",
         "C": "Vurgu",
@@ -85,7 +85,7 @@
         "A": "Işıkla resim çizmek",
         "B": "Işıkla anlatmak",
         "C": "Işıkla altını çizmek",
-        "D": "Işıkla yazı yazmak",
+        "D": "Işıkla yazı yazmak",
         "E": "Işıkla göstermek",
         "DogruCevap": "D",
         "DersAd": "Dijital Görüntüleme İşleme Yöntemleri",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3488757,
-        "SoruMetni": "KIsaca IoT olarak ifade edilen kelime aşağıdakilerden hangisidir?",
+        "SoruMetni": "KIsaca IoT olarak ifade edilen kelime aşağıdakilerden hangisidir?",
         "A": "Nesnelerin İnterneti",
         "B": "Izgara",
         "C": "Bilgi Grafiği",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3488759,
-        "SoruMetni": "Sayfa düzeninde metin, resim, çizelge gibi unsuları tasarım alanında konumlandırmak için kullanılan kılavuza ne ad verilmektedir?",
+        "SoruMetni": "Sayfa düzeninde metin, resim, çizelge gibi unsuları tasarım alanında konumlandırmak için kullanılan kılavuza ne ad verilmektedir?",
         "A": "Taslak Çizimler",
         "B": "Izgara",
         "C": "Prototip",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 3488761,
-        "SoruMetni": "E-kitaplar metin formatında yayın hayatına kaç yılında başlamıştır?",
+        "SoruMetni": "E-kitaplar metin formatında yayın hayatına kaç yılında başlamıştır?",
         "A": "1980",
         "B": "1993",
         "C": "1999",
@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 3489049,
-        "SoruMetni": "......... tasarımı ile ifade edilmek istenen, kullanıcının bir üründen en üst seviyede memnun olmasıdır.<br/> Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir ?",
+        "SoruMetni": "......... tasarımı ile ifade edilmek istenen, kullanıcının bir üründen en üst seviyede memnun olmasıdır.<br/>Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir ?",
         "A": "Görsel tasarım",
         "B": "Kullanıcı deneyimi",
         "C": "E-kitap",
@@ -341,12 +341,12 @@
     },
     {
         "SoruID": 3489068,
-        "SoruMetni": "I-Denge<br/><br/>II-Yalınlık<br/><br/>III-Bütünlük<br/><br/>IV-Hiyerarşi<br/><br/>V-Vurgu<br/><br/>Yukarıdakilerden hangileri arayüz tasarımı ilkelerindendir?",
+        "SoruMetni": "I-Denge<br/>II-Yalınlık<br/>III-Bütünlük<br/>IV-Hiyerarşi<br/>V-Vurgu<br/>Yukarıdakilerden hangileri arayüz tasarımı ilkelerindendir?",
         "A": "I-II-IV",
         "B": "IV-V",
         "C": "I-II-III",
         "D": "I-II",
-        "E": "I-II-III-IV-V<br/><br/>",
+        "E": "I-II-III-IV-V",
         "DogruCevap": "E",
         "DersAd": "Dijital Görüntüleme İşleme Yöntemleri",
         "Unite": 3,
@@ -422,11 +422,11 @@
     {
         "SoruID": 3489072,
         "SoruMetni": "Arttırılmış gerçeklikle, düzensiz şekle sahip nesnelerin üzerine yansıtılan video projeksiyon görüntü tekniklerini içeren teknik aşağıdakilerden hangisi ile tanımlanır?",
-        "A": "Hologram<br/><br/>",
+        "A": "Hologram",
         "B": "Sanal görünüm",
         "C": "3B Modelleme",
         "D": "3B Haritalama",
-        "E": "AI<br/><br/>",
+        "E": "AI",
         "DogruCevap": "D",
         "DersAd": "Dijital Görüntüleme İşleme Yöntemleri",
         "Unite": 3,
@@ -481,7 +481,7 @@
     },
     {
         "SoruID": 3489085,
-        "SoruMetni": "Simetrik denge, dikey ya da yatay bir eksene eşit oranlarda yerleşen ve benzerlikten dolayı oluşan denge sistemidir. Simetrik denge, tasarımda .......... yaratabilir.<br/> Yukarıdaki boşluğa hangisi gelmelidir ?",
+        "SoruMetni": "Simetrik denge, dikey ya da yatay bir eksene eşit oranlarda yerleşen ve benzerlikten dolayı oluşan denge sistemidir. Simetrik denge, tasarımda .......... yaratabilir.<br/>Yukarıdaki boşluğa hangisi gelmelidir ?",
         "A": "Monotonluk",
         "B": "Görsel çeşitlilik",
         "C": "Birlik",
@@ -617,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1990'lı yıllarda<br/><br/>Kullanıcı Deneyimi (UX) tasarımı aslında yeni bir olgu değildir. Terimin tarihçesine bakıldığında Antik Yunan’da ortaya konulan “ergonomi prensipleri” ya da Uzak Doğu’nun “Feng Şui” öğretisi ile benzer özellikler taşıdığı görülür. Terimin günümüzdeki anlamıyla kullanılması ise 1990’lı yıllara denk gelmektedir."
+        "Aciklama": "1990'lı yıllarda<br/>Kullanıcı Deneyimi (UX) tasarımı aslında yeni bir olgu değildir. Terimin tarihçesine bakıldığında Antik Yunan’da ortaya konulan “ergonomi prensipleri” ya da Uzak Doğu’nun “Feng Şui” öğretisi ile benzer özellikler taşıdığı görülür. Terimin günümüzdeki anlamıyla kullanılması ise 1990’lı yıllara denk gelmektedir."
     },
     {
         "SoruID": 3489147,
@@ -637,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tasarım Odaklı Düşünce <br/> Tasarım odaklı düşünceyi, herkesin uygulayabileceği, toplumun tüm alanlarına entegre olabilecek çığır açan fikirlerin üretilip, uygulanabileceği bir inovasyon yaklaşımı olarak görmemiz gereklidir. Tasarım Odaklı Düşünce, fiziksel bir ürün yaratmanın ötesinde problemlere çok yönlü çözüm getirmektir."
+        "Aciklama": "Tasarım Odaklı Düşünce <br/>Tasarım odaklı düşünceyi, herkesin uygulayabileceği, toplumun tüm alanlarına entegre olabilecek çığır açan fikirlerin üretilip, uygulanabileceği bir inovasyon yaklaşımı olarak görmemiz gereklidir. Tasarım Odaklı Düşünce, fiziksel bir ürün yaratmanın ötesinde problemlere çok yönlü çözüm getirmektir."
     },
     {
         "SoruID": 3489151,
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bütünlük<br/> Birlik ya da uyum olarak da bilinen bütünlük ilkesi, tasarım yüzeyi üzerinde yer alan her bir görsel elemanın, diğer görsel ögeler ile bağlantılı olması ve tasarımın tüm parçalarının uyum içerisinde olması anlamına gelmektedir. Bütünlüğe sahip bir tasarım, kullanıcılar tarafından daha kolay anlaşılır ve verilmek istenen mesaj doğru bir biçimde kullanıcıya aktarılmış olur."
+        "Aciklama": "Bütünlük<br/>Birlik ya da uyum olarak da bilinen bütünlük ilkesi, tasarım yüzeyi üzerinde yer alan her bir görsel elemanın, diğer görsel ögeler ile bağlantılı olması ve tasarımın tüm parçalarının uyum içerisinde olması anlamına gelmektedir. Bütünlüğe sahip bir tasarım, kullanıcılar tarafından daha kolay anlaşılır ve verilmek istenen mesaj doğru bir biçimde kullanıcıya aktarılmış olur."
     },
     {
         "SoruID": 3489153,
@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yalınlık<br/><br/>Yalınlık: Web sitelerinde veya mobil uygulamalarda kullanıcılara verilmek istenen mesaj açık ve kolay algılanabilir olmalıdır. Arayüz tasarımlarının temel başarı kriteri, geliştirilen uygulamalar ile kullanıcı arasındaki etkileşimi artırmak ve olası hataları ortadan kaldırmaktır. Bu bağlamda arayüz tasarımlarında kullanıcıların algılama zorluklarının ortadan kaldırılması ve mesajın net bir şekilde verilmesi önemlidir."
+        "Aciklama": "Yalınlık<br/>Yalınlık: Web sitelerinde veya mobil uygulamalarda kullanıcılara verilmek istenen mesaj açık ve kolay algılanabilir olmalıdır. Arayüz tasarımlarının temel başarı kriteri, geliştirilen uygulamalar ile kullanıcı arasındaki etkileşimi artırmak ve olası hataları ortadan kaldırmaktır. Bu bağlamda arayüz tasarımlarında kullanıcıların algılama zorluklarının ortadan kaldırılması ve mesajın net bir şekilde verilmesi önemlidir."
     },
     {
         "SoruID": 3489156,
@@ -697,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipografi<br/> Yazınsal ve görsel iletişim sürecinde bir iletişim aracı olarak bilgi alışverişini sağlayan tipografi, grafik tasarımın tamamlayıcı ve en önemli görsel elemanlarından biridir. Tipografinin birincil işlevi okunurluğun sağlanmasıdır. Bu nedenle aktarılacak olan bilgilerin, gereksinimler doğrultusunda doğru ve anlaşılır bir biçimde organize edilmesi, önem sırasına göre düzenlenmesi gereklidir."
+        "Aciklama": "Tipografi<br/>Yazınsal ve görsel iletişim sürecinde bir iletişim aracı olarak bilgi alışverişini sağlayan tipografi, grafik tasarımın tamamlayıcı ve en önemli görsel elemanlarından biridir. Tipografinin birincil işlevi okunurluğun sağlanmasıdır. Bu nedenle aktarılacak olan bilgilerin, gereksinimler doğrultusunda doğru ve anlaşılır bir biçimde organize edilmesi, önem sırasına göre düzenlenmesi gereklidir."
     },
     {
         "SoruID": 3489164,
@@ -717,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nesnelerin İnterneti (IoT)<br/> “Internet of Things” kelimesi İngilizcede kısaca ‘IoT’ olarak ifade edilir. Bu kelime Türkçede “Nesnelerin İnterneti” olarak adlandırılmaktadır. IoT, birbiriyle ilişki kurabilen, dijital makine, nesne veya tanımlayıcılar sayesinde ağa gerek duymaksızın, veri aktarabilen sistemlere verilen isimdir."
+        "Aciklama": "Nesnelerin İnterneti (IoT)<br/>“Internet of Things” kelimesi İngilizcede kısaca ‘IoT’ olarak ifade edilir. Bu kelime Türkçede “Nesnelerin İnterneti” olarak adlandırılmaktadır. IoT, birbiriyle ilişki kurabilen, dijital makine, nesne veya tanımlayıcılar sayesinde ağa gerek duymaksızın, veri aktarabilen sistemlere verilen isimdir."
     },
     {
         "SoruID": 3489167,
@@ -737,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3B Haritalama<br/> 3B Haritalama; arttırılmış gerçeklikle, düzensiz şekle sahip nesnelerin üzerine yansıtılan video projeksiyon görüntü tekniklerini içeren bir terimdir. 3B Haritalama, son yıllarda teknolojinin gelişimiyle ortaya çıkan Lazer, Otonom Robot, Kızıl Ötesi Sensör, GPS, AR- VR gibi teknolojik uygulamaları içerisinde barındıran geniş bir çalışma alanıdır."
+        "Aciklama": "3B Haritalama<br/>3B Haritalama; arttırılmış gerçeklikle, düzensiz şekle sahip nesnelerin üzerine yansıtılan video projeksiyon görüntü tekniklerini içeren bir terimdir. 3B Haritalama, son yıllarda teknolojinin gelişimiyle ortaya çıkan Lazer, Otonom Robot, Kızıl Ötesi Sensör, GPS, AR- VR gibi teknolojik uygulamaları içerisinde barındıran geniş bir çalışma alanıdır."
     },
     {
         "SoruID": 3489169,
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1993<br/> 1993 yılında yayın hayatına sadece metin formatında başlayan e-kitaplar günümüzde film, ses müzik gibi içerikleri de bünyesinde barındırabilmektedir."
+        "Aciklama": "1993<br/>1993 yılında yayın hayatına sadece metin formatında başlayan e-kitaplar günümüzde film, ses müzik gibi içerikleri de bünyesinde barındırabilmektedir."
     },
     {
         "SoruID": 3489171,
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Facebook<br/> Facebook, hem teknolojinin geldiği noktada hem de kendi geleceği konusunda 2021 yılında kritik bir adım atmıştır. Şirket kimliğini “Meta” olarak yenilemiş, “Metaverse” olarak bilenen, bazen üç boyutlu dünyayı kapsayarak bazen de fiziksel dünyada var olarak günümüzün çevrimiçi sosyal deneyimlerini karışımıza çıkarmayı hedefleyen projeyi hayata geçirme çalışmaları başlatmıştır. Facebook’ta eğlence, bilgi alışverişi, fotoğraf, video, müzik paylaşımı, oyun oynama, insanlarla iletişime geçme gibi birçok özellik bulunmaktadır. Bu sebepten dolayı Facebook oldukça geniş bir kitleye hitap etmektedir."
+        "Aciklama": "Facebook<br/>Facebook, hem teknolojinin geldiği noktada hem de kendi geleceği konusunda 2021 yılında kritik bir adım atmıştır. Şirket kimliğini “Meta” olarak yenilemiş, “Metaverse” olarak bilenen, bazen üç boyutlu dünyayı kapsayarak bazen de fiziksel dünyada var olarak günümüzün çevrimiçi sosyal deneyimlerini karışımıza çıkarmayı hedefleyen projeyi hayata geçirme çalışmaları başlatmıştır. Facebook’ta eğlence, bilgi alışverişi, fotoğraf, video, müzik paylaşımı, oyun oynama, insanlarla iletişime geçme gibi birçok özellik bulunmaktadır. Bu sebepten dolayı Facebook oldukça geniş bir kitleye hitap etmektedir."
     },
     {
         "SoruID": 3489172,
@@ -797,6 +797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2005<br/> Youtube çevirimiçi video paylaşım ve sosyal medya platformu olarak kullanılmaktadır. 2005 yılında kurulan Youtube, şuanda Google’ın yan kuruluşlarından biri olarak faaliyet göstermektedir."
+        "Aciklama": "2005<br/>Youtube çevirimiçi video paylaşım ve sosyal medya platformu olarak kullanılmaktadır. 2005 yılında kurulan Youtube, şuanda Google’ın yan kuruluşlarından biri olarak faaliyet göstermektedir."
     }
 ]

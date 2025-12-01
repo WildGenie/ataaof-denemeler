@@ -1,11 +1,11 @@
 [
     {
         "SoruID": 3861040,
-        "SoruMetni": "Aşağıdakilerden hangisi  tasarım odaklı düşünme süreçlerinden biri <span style=\"text-decoration: underline;\"><strong>değildir</strong></span>?",
+        "SoruMetni": "Aşağıdakilerden hangisi tasarım odaklı düşünme süreçlerinden biri <span style=\"text-decoration: underline;\"><strong>değildir</strong></span>?",
         "A": "Empati",
-        "B": "Tanımlama<br/><br/>",
-        "C": "<br/>İletişim<br/><br/>",
-        "D": "Prototip Oluşturma<br/><br/>",
+        "B": "Tanımlama",
+        "C": "<br/>İletişim",
+        "D": "Prototip Oluşturma",
         "E": "Test Etme",
         "DogruCevap": "C",
         "DersAd": "Temel Sanat ve Tasarım Eğitimi",
@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 3861042,
-        "SoruMetni": "İletişim sürecinde  mesajın alıcıya ulaşılmasından sonra kaynağa, yani göndericiye ulaşan tepkilere ne ad verilmektedir?",
+        "SoruMetni": "İletişim sürecinde mesajın alıcıya ulaşılmasından sonra kaynağa, yani göndericiye ulaşan tepkilere ne ad verilmektedir?",
         "A": "Gürültü",
         "B": "İletişim kazaları",
         "C": "Kod çözme",
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 3861044,
-        "SoruMetni": "I-Nokta<br/> II-Çizgi<br/> III-Doku<br/> IV-Hacim<br/> Yukarıdakilerden hangileri grafik tasarımında kavramsal ögelerden biridir?",
+        "SoruMetni": "I-Nokta<br/>II-Çizgi<br/>III-Doku<br/>IV-Hacim<br/>Yukarıdakilerden hangileri grafik tasarımında kavramsal ögelerden biridir?",
         "A": "I ve II",
         "B": "I ve III",
         "C": "I, II, III",
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayfa 53'e \"......Buna göre grafik tasarımında ögeler üç kısımda incelenir <br/> • Kavramsal Ögeler: <strong>Nokta, Çizgi,</strong> Düzlem, <strong>Hacim.</strong>\"<br/> Bu nedenle cevap d seçeneğidir."
+        "Aciklama": "Sayfa 53'e \"......Buna göre grafik tasarımında ögeler üç kısımda incelenir <br/>• Kavramsal Ögeler: <strong>Nokta, Çizgi,</strong> Düzlem, <strong>Hacim.</strong>\"<br/>Bu nedenle cevap d seçeneğidir."
     },
     {
         "SoruID": 3861045,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayfa 53'e göre \"...Buna göre grafik tasarımında ögeler üç kısımda incelenir       • Kavramsal Ögeler: Nokta, <span style=\"text-decoration: underline;\">Çizgi</span>, Düzlem, Hacim                                             • Görsel Ögeler: <strong>Şekil, Boyut, Renk, Doku \"</strong> Bu nedenle cevap b seçeneğidir."
+        "Aciklama": "Sayfa 53'e göre \"...Buna göre grafik tasarımında ögeler üç kısımda incelenir • Kavramsal Ögeler: Nokta, <span style=\"text-decoration: underline;\">Çizgi</span>, Düzlem, Hacim • Görsel Ögeler: <strong>Şekil, Boyut, Renk, Doku \"</strong> Bu nedenle cevap b seçeneğidir."
     },
     {
         "SoruID": 3861046,
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3861047,
-        "SoruMetni": "I-Arka planda içeriğe uymayan müziği eklemekten kaçınılmalıdır.<br/><br/>II-Görseller ve anlatım kaynakları bir öğrenmeyi tanımlamalıdır<br/><br/>III-Dört kelimeden uzun ekran metni okunmamalıdır. <br/><br/>IV-Basit dekoratif ögelerden kaçınılmalıdır. <br/><br/>Etkili bir video tasarımına ilişkin yukarıdaki ifadelerden hangileri doğrudur?",
+        "SoruMetni": "I-Arka planda içeriğe uymayan müziği eklemekten kaçınılmalıdır.<br/>II-Görseller ve anlatım kaynakları bir öğrenmeyi tanımlamalıdır<br/>III-Dört kelimeden uzun ekran metni okunmamalıdır. <br/>IV-Basit dekoratif ögelerden kaçınılmalıdır. <br/>Etkili bir video tasarımına ilişkin yukarıdaki ifadelerden hangileri doğrudur?",
         "A": "I, II",
         "B": "I, III",
         "C": "I, II, III",
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayfa 56'ya göre \"Etkili bir video tasarımında gözetilecek noktalardan bazıları aşağıdaki şekliyle sadeleştirilerek özetlenmiştir (Fyfield., Henderson vd., 2019: 419):<br/><br/>• Ses net olmalı, rahatsız edici harici seslerden arındırılmalıdır.<br/><br/>• <strong>Arka planda içeriğe uymayan müziği eklemekten kaçınılmalıdır.</strong><br/><br/>• İlginç olabilir ancak gereksiz görüntüleri dahil etmekten kaçınılmalıdır.<br/><br/>• <strong>Dört kelimeden <span style=\"text-decoration: underline;\">uzun</span> ekran metni okunmamalıdır. </strong><br/><br/>• <strong>Görseller ve anlatım kaynakları bir öğrenmeyi tanımlamalıdır</strong>.<br/><br/>• Animasyon stili, içeriğe göre yönlendirilmelidir.<br/><br/>• <strong>Basit dekoratif ögelerden kaçınılmalıdır. \"</strong><br/><br/>Buna göre verilen öncüllerin hepsi doğrudur. Cevap E seçeneği."
+        "Aciklama": "Sayfa 56'ya göre \"Etkili bir video tasarımında gözetilecek noktalardan bazıları aşağıdaki şekliyle sadeleştirilerek özetlenmiştir (Fyfield., Henderson vd., 2019: 419):<br/>• Ses net olmalı, rahatsız edici harici seslerden arındırılmalıdır.<br/>• <strong>Arka planda içeriğe uymayan müziği eklemekten kaçınılmalıdır.</strong><br/>• İlginç olabilir ancak gereksiz görüntüleri dahil etmekten kaçınılmalıdır.<br/>• <strong>Dört kelimeden <span style=\"text-decoration: underline;\">uzun</span> ekran metni okunmamalıdır. </strong><br/>• <strong>Görseller ve anlatım kaynakları bir öğrenmeyi tanımlamalıdır</strong>.<br/>• Animasyon stili, içeriğe göre yönlendirilmelidir.<br/>• <strong>Basit dekoratif ögelerden kaçınılmalıdır. \"</strong><br/>Buna göre verilen öncüllerin hepsi doğrudur. Cevap E seçeneği."
     },
     {
         "SoruID": 3861048,
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 3861054,
-        "SoruMetni": "Mesajın alıcıya iletilmesi  yöntemine ne ad verilir?",
+        "SoruMetni": "Mesajın alıcıya iletilmesi yöntemine ne ad verilir?",
         "A": "Geribildirim",
         "B": "Kaynak",
         "C": "İletişim kanalı",
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><ul><br/><li><br/>Kavramsal Ögeler: Nokta, Çizgi, Düzlem, Hacim<br/><br/></li><br/><li><br/>Görsel Ögeler: Şekil, Boyut, Renk, Doku<br/><br/></li><br/><li><br/>İlişkisel Ögeler: Yön, Konum, Boşluk, Ağırlık<br/><br/></li><br/><li><br/>Uygulamalı Ögeler: Temsil, Anlam ve İşlev<br/><br/></li><br/></ul><br/><br/><br/>"
+        "Aciklama": "<br/><ul><br/><li><br/>Kavramsal Ögeler: Nokta, Çizgi, Düzlem, Hacim<br/></li><br/><li><br/>Görsel Ögeler: Şekil, Boyut, Renk, Doku<br/></li><br/><li><br/>İlişkisel Ögeler: Yön, Konum, Boşluk, Ağırlık<br/></li><br/><li><br/>Uygulamalı Ögeler: Temsil, Anlam ve İşlev<br/></li><br/></ul>"
     },
     {
         "SoruID": 3861056,
@@ -342,7 +342,7 @@
     {
         "SoruID": 3861057,
         "SoruMetni": "Aşağıdakilerden hangisi moda tasarımını açıklar?",
-        "A": "<span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\">Videolar  telefon ve bilgisayarlar aracılığıyla iletişim, etkileşim ve iş birliğini kolaylaştırmak için tasarlanan önemli görsel iletişim araçlarındandır. </span>",
+        "A": "<span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\">Videolar telefon ve bilgisayarlar aracılığıyla iletişim, etkileşim ve iş birliğini kolaylaştırmak için tasarlanan önemli görsel iletişim araçlarındandır. </span>",
         "B": "<span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\">Geniş bir kitleye hitap eden sanatsal ifadenin yazılı dinamik bir biçimidir. </span>",
         "C": "<span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\"> Düşünülmesi, okunması, yorumlanması, algılanması, gereken önemli önemli bir tasarım bileşeni olarak değerlendirilmelidir. </span>",
         "D": "<span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\">Video, fotoğraf ya da bazı sanat eserlerinin basit bir tasarım olarak görülmekle birlikte eserlerin dijitale dönüştürülerek yüksek fiyatlarla piyasaya sürülmesidir.</span>",
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tasarım Odaklı Düşünme. Hem girişimler hem kurumlar için ufuk açan bir yöntemdir. Dünyanın her yerinde farklı sektörlerden farklı iş birimleri, kötü tanımlanmış, karmaşık veya yeterince bilinmeyen/ belirsizlik içeren problemleri ortadan kaldırmak için çözüm merkezli, hızlı prototip fikirler oluşturmak için tasarım odaklı düşünme (design thinking) yöntemini kullanıyor. Çünkü süreç, bu problemleri insan merkezli şekilde yeniden tasarlamamızı sağlıyor ve kullanıcılar için en önemli olan şeylere odaklanmamızı sağlıyor. Her şeyden önce insanların taleplerine odaklanır, insanların ihtiyaçlarını anlamaya çalışır ve bu ihtiyaçları karşılamak için etkili çözümler üretir. Tasarım düşüncesi yaratıcılığı, yeniliği, inovatif düşünmeyi teşvik eder."
+        "Aciklama": "Tasarım Odaklı Düşünme. Hem girişimler hem kurumlar için ufuk açan bir yöntemdir. Dünyanın her yerinde farklı sektörlerden farklı iş birimleri, kötü tanımlanmış, karmaşık veya yeterince bilinmeyen/ belirsizlik içeren problemleri ortadan kaldırmak için çözüm merkezli, hızlı prototip fikirler oluşturmak için tasarım odaklı düşünme (design thinking) yöntemini kullanıyor. Çünkü süreç, bu problemleri insan merkezli şekilde yeniden tasarlamamızı sağlıyor ve kullanıcılar için en önemli olan şeylere odaklanmamızı sağlıyor. Her şeyden önce insanların taleplerine odaklanır, insanların ihtiyaçlarını anlamaya çalışır ve bu ihtiyaçları karşılamak için etkili çözümler üretir. Tasarım düşüncesi yaratıcılığı, yeniliği, inovatif düşünmeyi teşvik eder."
     },
     {
         "SoruID": 3861066,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yetenek:  Formel bir öğrenme olmaksızın doğuştan gelen, anlık gelişen doğal iş başarma yetkinliği olarak ifade edilebilir. Yetenekli Kişi” kavramı oldukça sık kullanılan bir söylemdir. Bazen “beceri” kavramı ile de karıştırılabilmektedir.  Yetenek, bir yönüyle bireyde yaratıcı pratiğin veya bir konuya ilişkin yatkınlığının en üst düzeydeki hâli şeklinde tanımlanabilir."
+        "Aciklama": "Yetenek: Formel bir öğrenme olmaksızın doğuştan gelen, anlık gelişen doğal iş başarma yetkinliği olarak ifade edilebilir. Yetenekli Kişi” kavramı oldukça sık kullanılan bir söylemdir. Bazen “beceri” kavramı ile de karıştırılabilmektedir. Yetenek, bir yönüyle bireyde yaratıcı pratiğin veya bir konuya ilişkin yatkınlığının en üst düzeydeki hâli şeklinde tanımlanabilir."
     },
     {
         "SoruID": 3861068,
@@ -566,7 +566,7 @@
         "B": "Sayısal dünya",
         "C": "VR tasarımı",
         "D": "3D tasarım",
-        "E": "2D  tasarım",
+        "E": "2D tasarım",
         "DogruCevap": "A",
         "DersAd": "Temel Sanat ve Tasarım Eğitimi",
         "Unite": 2,

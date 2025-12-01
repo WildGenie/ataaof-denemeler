@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tüm dijital medyanın tek bir ortamda içe içe geçmesi"
+        "Aciklama": "<br/>AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞI VE TARİHSEL GELİŞİM<br/>En basit tanımıyla telefon, radyo, televiz- yon ve bilgisayar dünyalarının entegras- yonu, tüm dijital medyanın tek bir or- tamda içe içe geçmesine yöndeşme denir.<br>Tüm dijital medyanın tek bir ortamda içe içe geçmesi"
     },
     {
         "SoruID": 3353265,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "En yüksek çözünürlük değerini ayarlamak"
+        "Aciklama": "<br/><strong>Akıllı Telefonların Fotoğraflama Yetenekler</strong><br/>Akıllı telefonla fotoğraf çekmek için ilk adım çekilmek istenen fotoğrafa uygun menüyü ayarlamaktır. Akıllı telefonların oldukça basit bir menüsü olsa da DSLR’lerdeki veya aynasız kameralardaki standart menülerden çok da farklı değildir. Bu menüler, daha iyi fotoğraflar çekmek ve hataları önlemeye yardımcı olmaktadır. Ayarlar menünüzde kontrol etmek istediğiniz ilk şey çözünürlüktür. Mevcut akıllı telefonun mümkün olan en yüksek değere ayarlamak gerekmektedir.<br>En yüksek çözünürlük değerini ayarlamak"
     },
     {
         "SoruID": 3353266,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Otomatik renk dengeleme"
+        "Aciklama": "<br/><strong>Camera FV-5 (Android)</strong><br/>Uygulama ile Android işletim sistemine sa- hip cihazınızın kamera kalitesini ve ayar özelliklerini DSLR bir makinenin sunduğu özelliklere en yakın şekilde yükseltebiliyorsunuz. DSLR benzeri vizör özelliğine sahip kamera ile manuel kontrol sağlayan program sayesinde uzun pozlama yapabiliyorsunuz. Tüm parametreleri ayarlama imkanı sunan program sayesinde diyafram değerlerini ayarlayabilme; RAW, JPEG ve PNG formatında kayıt yapabilme ayrıca otomatik odaklama, makro, sonsuz odak seçenekleri ve <strong><em>otomatik renk dengeleme</em> </strong>yapabiliyorsunuz.<br/><strong>ProCam 5 (iOS)</strong><br/>Oldukça detaylı bir iOS kamera uygulaması olan ProCam Time Lapse de dahil birçok çekim modu sunuyor. Far"
     },
     {
         "SoruID": 3353267,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Adobe Photoshop Camera uygulaması"
+        "Aciklama": "<br/><strong>Akıllı Telefon Fotoğraf İşleme Yazılımlar</strong><br/>Akıllı telefon fotoğraflarını ve videolarını geliştirebilecek uygulamalar da vardır. Bunlar- dan bazılarına aşağıda yer verilmiştir:<br/><ul><br/><li><br/>Prisma, fotoğraflarınızın tablo gibi gö- rünmesini sağlar<br/></li><br/><li><br/>FaceApp, kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfie- lerinizi (özçekimlerinizi) düzenlemeni- zi sağlar.<br/></li><br/></ul><br/><ul><br/><li><br/>Adobe Photoshop Camera uygulaması, bir arka planı değiştirmek gibi basit değişiklikler yapmanızı sağlar.<br/></li><br/><li><br/>TouchRetouch Iphone fotoğraflarınızdaki istenmeyen içerikleri yok etmenizi sağlar.<br/></li><br/><li><br/>Polaroid Lab, telefon fotoğraflarınızı Polaroid kâğıd<br/></li></ul>"
     },
     {
         "SoruID": 3353268,
@@ -97,16 +97,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Switcher"
+        "Aciklama": "<br/><strong>Akıllı Telefon Fotoğraf İşleme Yazılımları</strong><br/>Akıllı telefon fotoğraflarını ve videolarını geliştirebilecek uygulamalar da vardır. Bunlardan bazılarına aşağıda yer verilmiştir:<br/><ul><br/><li><br/>Prisma, fotoğraflarınızın tablo gibi gö- rünmesini sağlar<br/></li><br/><li><br/>FaceApp, kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfielerinizi (özçekimlerinizi) düzenlemenizi sağlar.<br/></li><br/></ul><br/><ul><br/><li><br/>Adobe Photoshop Camera uygulaması, bir arka planı değiştirmek gibi basit değişiklikler yapmanızı sağlar.<br/></li><br/><li><br/>TouchRetouch Iphone fotoğraflarınızdaki istenmeyen içerikleri yok etmenizi sağlar.<br/></li><br/><li><br/>Polaroid Lab, telefon fotoğraflarınızı Polaroid kâğıda yazdırmanıza olanak tanır.<br/></li></ul><br>Switcher"
     },
     {
         "SoruID": 3353269,
-        "SoruMetni": "Aşağıdakilerden hangisi akıllı telefonların, geleneksel fotoğraf kullanım alanlarına getirdiği yeniliklerden <span style=\"text-decoration: underline;\">biri değildir?</span>",
-        "A": "<br/> <br/> <br/> <br/>Selfie (özçekim)<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Instagram fotoğrafçılığı<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Sosyal medya fotoğrafçılığı<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Cep telefonu fotoğrafçılığı<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Moda fotoğrafçılığı<br/><br/><br/><br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi akıllı telefonların, geleneksel fotoğraf kullanım alanlarına getirdiği yeniliklerden <span style=\"text-decoration: underline;\">biri değildir?</span>",
+        "A": "<br/>Selfie (özçekim)",
+        "B": "<br/>Instagram fotoğrafçılığı",
+        "C": "<br/>Sosyal medya fotoğrafçılığı",
+        "D": "<br/>Cep telefonu fotoğrafçılığı",
+        "E": "<br/>Moda fotoğrafçılığı",
         "DogruCevap": "E",
         "DersAd": "Sayısal Görüntüleme Teknolojileri",
         "Unite": 8,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Moda fotoğrafçılığı"
+        "Aciklama": "<br/><strong>ÇEVRİM İÇİ AKILLI TELEFON FOTOĞRAF PAYLAŞIM UYGULAMALARI VE SELFİE (ÖZÇEKİM</strong><br/>Mitchell (1992), fotoğrafın 1989’daki 150. yıl dönümünde fotoğrafçılığın öldüğünü ve dijital çağın genel olarak fotoğrafçılık için yeni bir paradigma değişikliğine işaret ettiğini belirtir. 16 yıl sonra benzeri görülmemiş bir şekilde, web ve mobil kameralı telefonlar fotoğrafçılığı bir kez daha yeniden tanımlar ve başka bir paradigma değişikliğine işaret eder. Fotografik görüntü artık basılı bir görüntü değildir, kâğıt üzerinde olduğundan çok ekranda görünendir. Fotoğrafın kullanım alanları da bu durumdan etkilenmiştir. Fotoğrafın gezi fotoğrafçılığı, basın fotoğrafçılığı, belgesel fo<br>Moda fotoğrafçılığı"
     },
     {
         "SoruID": 3353270,
@@ -137,16 +137,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yakın Plan (Makro) Fotoğrafçılık"
+        "Aciklama": "<br/><strong>GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLAR</strong><br/>Yakın Plan (Makro) Fotoğrafçılık<br/>Makro fotoğrafçılık, fotoğrafı çekilecek olan nesnenin çok yakından fotoğraflanmasıdır. Küçük bir nes- neyi büyüterek çekmek olarak da tanımlanabilir ama “fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilmesi işlemidir” şeklindeki tanım teknik olarak en doğrusu olacaktır."
     },
     {
         "SoruID": 3353271,
-        "SoruMetni": "Aşağıdakilerden hangisi, fotoğrafçının olaylara müdahale etmeyerek nesnel gerçekliği bozmadığı, \"doğrudan fotoğraf\" olarak da tanımlanan dijital fotoğrafçılık yöntemidir?<br/>",
-        "A": "<br/> <br/> <br/> <br/>Yakın Plan (Makro) Fotoğrafçılık<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Masa Üstü (Sitll Life) Fotoğrafçılık<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Kopyalama (Reprodüksiyon)<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Sokak Fotoğrafçılığı<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Gezi Fotoğrafçılığı<br/><br/><br/><br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi, fotoğrafçının olaylara müdahale etmeyerek nesnel gerçekliği bozmadığı, \"doğrudan fotoğraf\" olarak da tanımlanan dijital fotoğrafçılık yöntemidir?",
+        "A": "<br/>Yakın Plan (Makro) Fotoğrafçılık",
+        "B": "<br/>Masa Üstü (Sitll Life) Fotoğrafçılık",
+        "C": "<br/>Kopyalama (Reprodüksiyon)",
+        "D": "<br/>Sokak Fotoğrafçılığı",
+        "E": "<br/>Gezi Fotoğrafçılığı",
         "DogruCevap": "D",
         "DersAd": "Sayısal Görüntüleme Teknolojileri",
         "Unite": 8,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sokak Fotoğrafçılığı"
+        "Aciklama": "<br/><strong>GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLAR</strong><br/><strong>Sokak Fotoğrafçılığı</strong><br/>Sokak fotoğrafçılığı kamusal alanda kameranın varlığını çok hissettirmeden belgesel veya sanatsal amaçlı olarak yapılan, tesadüfi karşılaşmaların olduğu, kent ve kentli olmak ile ilgili durumların betimlendiği bir janrdır.<br/>Sokak fotoğrafçılığı “doğrudan fotoğraf” yöntemi olarak tarif edilebilir. Fotoğrafçı olaylara müdahale etmez, nesnel gerçekliği bozmaz."
     },
     {
         "SoruID": 3353272,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kopyalama (Reprodüksiyon)"
+        "Aciklama": "<br/><strong>GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLARI</strong><br/><strong>Kopyalama (Reprodüksiyon)</strong><br/>Reprodüksiyon işlemi, günümüzde sayısal fotoğrafçılıkta, sanat eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, farklı maddeler ve malzemeler üzerine baskısı yapılarak ticari ürün olarak kullanılmasında, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir.<br/>&lt;/d"
     },
     {
         "SoruID": 3353273,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "360 derece"
+        "Aciklama": "<br/><strong>GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLARI</strong><br/><strong>Hava Fotoğrafçılığı</strong><br/>Dört çeşit hava fotoğrafçılığı vardır.<br/><ul><br/><li><br/>Eğik: Eğik, açılı olarak çekilen hava fotoğraflarıdır.<br/></li><br/><li><br/>Dikey: Dikey fotoğraflar, yukarıdan aşağıya doğru dik çekilir ve çoğunlukla fotogrametri ve görüntü yorumlamada kullanılır.<br/></li><br/><li><br/>Kombine: Birden fazla tekniğin birleşiminden oluşan hava fotoğraflardır. Panoramalar (bir noktadan farklı açılarda çekilmiş fotoğrafların yan yana birleştirilmesinde oluşur), <br/></li></ul><br>360 derece"
     },
     {
         "SoruID": 3353274,
@@ -217,14 +217,14 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Binlerce fotoğraf arasından doğru kareyi bulmak"
+        "Aciklama": "Giriş<br>Binlerce fotoğraf arasından doğru kareyi bulmak"
     },
     {
         "SoruID": 3353275,
         "SoruMetni": "Mayıs 1999'da Ticari olarak halka satılan ve yerleşik kamerası olan ilk cep telefonu aşağıdakilerden hangisidir?",
         "A": "Sharp J-SH04",
         "B": "Samsung SCH-V200",
-        "C": "Kyocera  VP-210",
+        "C": "Kyocera VP-210",
         "D": "Sanyo SCP-5300",
         "E": "Canon 10D",
         "DogruCevap": "C",
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kyocera  VP-210"
+        "Aciklama": "AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞI VE TARİHSEL GELİŞİMİ<br>Kyocera VP-210"
     },
     {
         "SoruID": 3353276,
-        "SoruMetni": "\"Telefon, radyo, televizyon ve bilgisayar dünyalarının entegrasyonu, tüm dijital medyanın tek bir ortamda içe içe geçmesine ............. denir.\"<br/> Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?",
+        "SoruMetni": "\"Telefon, radyo, televizyon ve bilgisayar dünyalarının entegrasyonu, tüm dijital medyanın tek bir ortamda içe içe geçmesine ............. denir.\"<br/>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?",
         "A": "Dijital",
         "B": "DSLR",
         "C": "Android",
@@ -257,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "En basit tanımıyla telefon, radyo, televizyon ve bilgisayar dünyalarının entegrasyonu, tüm dijital medyanın tek bir ortamda içe içe geçmesine yöndeşme denir."
+        "Aciklama": "AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞI VE TARİHSEL GELİŞİMİ<br>En basit tanımıyla telefon, radyo, televizyon ve bilgisayar dünyalarının entegrasyonu, tüm dijital medyanın tek bir ortamda içe içe geçmesine yöndeşme denir."
     },
     {
         "SoruID": 3353277,
-        "SoruMetni": "I- Fotoğrafa uygun menüyü ayarlama<br/> II- Akıllı telefon seçimi<br/> III- Mümkünse raw formatında çekim yapmak<br/> IV- Çözünürlüğü yüksek değere ayarlama<br/> Akıllı telefonla fotoğraf çekebilmek için aşağıdaki hangi sıralama uygulanmalıdır?",
+        "SoruMetni": "I- Fotoğrafa uygun menüyü ayarlama<br/>II- Akıllı telefon seçimi<br/>III- Mümkünse raw formatında çekim yapmak<br/>IV- Çözünürlüğü yüksek değere ayarlama<br/>Akıllı telefonla fotoğraf çekebilmek için aşağıdaki hangi sıralama uygulanmalıdır?",
         "A": "IV-III-II-I",
         "B": "I-II-III-IV",
         "C": "II-I-IV-III",
@@ -277,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Akıllı telefonla fotoğraf çekebilmek için şu adımlar izlenmelidir:<br/> II- Akıllı telefon seçimi<br/> I- Fotoğrafa uygun menüyü ayarlama<br/> IV- Çözünürlüğü yüksek değere ayarlama<br/> III- Mümkünse raw formatında çekim yapmak"
+        "Aciklama": "Akıllı Telefonların Fotoğraflama Yetenekleri<br>Akıllı telefonla fotoğraf çekebilmek için şu adımlar izlenmelidir:<br/>II- Akıllı telefon seçimi<br/>I- Fotoğrafa uygun menüyü ayarlama<br/>IV- Çözünürlüğü yüksek değere ayarlama<br/>III- Mümkünse raw formatında çekim yapmak"
     },
     {
         "SoruID": 3353278,
-        "SoruMetni": "\".................  çekim yapmak ve fotoğraftaki bir nesneyi yakınlaştırmak veya bir noktaya odaklamak için daha fazla piksel anlamına gelir.\"<br/> Aşağıdakilerden hangisi yukarıdaki cümleyi doğru tamamlar?",
+        "SoruMetni": "\"................. çekim yapmak ve fotoğraftaki bir nesneyi yakınlaştırmak veya bir noktaya odaklamak için daha fazla piksel anlamına gelir.\"<br/>Aşağıdakilerden hangisi yukarıdaki cümleyi doğru tamamlar?",
         "A": "RAW formatında",
         "B": "Çift lensle",
         "C": "Akıllı telefon ile",
@@ -297,11 +297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "En yüksek çözünürlükte çekim yapmak ve fotoğraftaki bir nesneyi yakınlaştırmak veya bir noktaya odaklamak için daha fazla piksel anlamına gelir."
+        "Aciklama": "Akıllı Telefonların Fotoğraflama Yetenekleri<br>En yüksek çözünürlükte çekim yapmak ve fotoğraftaki bir nesneyi yakınlaştırmak veya bir noktaya odaklamak için daha fazla piksel anlamına gelir."
     },
     {
         "SoruID": 3353279,
-        "SoruMetni": "\"Bilgisayar düzleminde bir görüntü iki boyutlu bir matristen oluştur, f(x,y) olmak üzere yatay ve dikey doğruların oluşturduğu düzlemdeki noktalara karşılık gelen her bir nokta görselin ................. ifade eder.\"<br/> Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?",
+        "SoruMetni": "\"Bilgisayar düzleminde bir görüntü iki boyutlu bir matristen oluştur, f(x,y) olmak üzere yatay ve dikey doğruların oluşturduğu düzlemdeki noktalara karşılık gelen her bir nokta görselin ................. ifade eder.\"<br/>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?",
         "A": "Piksel değerini",
         "B": "Görüntü işleme sistemini",
         "C": "Çözünürlüğünü",
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Bilgisayar düzleminde bir görüntü iki boyutlu bir matristen oluştur, f(x,y) olmak üzere yatay ve dikey doğruların oluşturduğu düzlemdeki noktalara karşılık gelen her bir nokta görselin piksel değerini ifade eder.\""
+        "Aciklama": "AKILLI TELEFON FOTOĞRAFÇILIĞINDA YAPAY ZEKÂ GÖRÜNTÜ İŞLEME VE YAPAY ZEKÂNIN FOTOĞRAFLAMADA KULLANIMI<br>\"Bilgisayar düzleminde bir görüntü iki boyutlu bir matristen oluştur, f(x,y) olmak üzere yatay ve dikey doğruların oluşturduğu düzlemdeki noktalara karşılık gelen her bir nokta görselin piksel değerini ifade eder.\""
     },
     {
         "SoruID": 3353280,
@@ -337,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Switcher, videoları düzenlemenizi ve birden fazla cihazda yayın yapmanızı sağlar."
+        "Aciklama": "Akıllı Telefon Fotoğraf İşleme Yazılımları<br>Switcher, videoları düzenlemenizi ve birden fazla cihazda yayın yapmanızı sağlar."
     },
     {
         "SoruID": 3353281,
-        "SoruMetni": "\"............. kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfielerinizi (özçekimlerinizi) düzenlemenizi sağlar.\"<br/> Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?",
+        "SoruMetni": "\"............. kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfielerinizi (özçekimlerinizi) düzenlemenizi sağlar.\"<br/>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?",
         "A": "Prisma",
         "B": "FaceApp",
         "C": "Polaroid Lab",
@@ -357,11 +357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "FaceApp, kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfielerinizi (özçekimlerinizi) düzenlemenizi sağlar."
+        "Aciklama": "Akıllı Telefon Fotoğraf İşleme Yazılımları<br>FaceApp, kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfielerinizi (özçekimlerinizi) düzenlemenizi sağlar."
     },
     {
         "SoruID": 3353282,
-        "SoruMetni": "\".............., kullanıcıların kendilerine ait panoda (pinboard) bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı Amerika’da kurulmuş görsel paylaşım ve sosyal medya hizmetidir.\"<br/> Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?",
+        "SoruMetni": "\".............., kullanıcıların kendilerine ait panoda (pinboard) bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı Amerika’da kurulmuş görsel paylaşım ve sosyal medya hizmetidir.\"<br/>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?",
         "A": "Selfie",
         "B": "Facebook",
         "C": "Pinterest",
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Pinterest, kullanıcıların kendilerine ait panoda (pinboard) bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı Amerika’da kurulmuş görsel paylaşım ve sosyal medya hizmetidir."
+        "Aciklama": "ÇEVRİM İÇİ AKILLI TELEFON FOTOĞRAF PAYLAŞIM UYGULAMALARI VE SELFİE (ÖZÇEKİM)<br>Pinterest, kullanıcıların kendilerine ait panoda (pinboard) bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı Amerika’da kurulmuş görsel paylaşım ve sosyal medya hizmetidir."
     },
     {
         "SoruID": 3353283,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Still life"
+        "Aciklama": "Masa Üstü (Sitll Life) Fotoğrafçılık<br>Still life"
     },
     {
         "SoruID": 3353284,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çok sayıda kareden doğru fotoğrafı seçebilmek dijital fotoğrafçılığın dezavantajlarından biridir."
+        "Aciklama": "Çok sayıda kareden doğru fotoğrafı seçebilmek dijital fotoğrafçılığın dezavantajlarından biridir."
     },
     {
         "SoruID": 3353285,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Samsung SCH-V200 telefonunu Haziran 2000’de Güney Kore’de piyasaya sürmüştür."
+        "Aciklama": "Samsung SCH-V200 telefonunu Haziran 2000’de Güney Kore’de piyasaya sürmüştür."
     },
     {
         "SoruID": 3353287,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Harici filtre dijital görüntülerin ana bileşenlerinden biri <strong>değildir.</strong>"
+        "Aciklama": "Harici filtre dijital görüntülerin ana bileşenlerinden biri <strong>değildir.</strong>"
     },
     {
         "SoruID": 3353288,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "RAW formatında çekim yapabilmeleri akıllı cep telefonları­nın özelliklerinden biridir."
+        "Aciklama": "RAW formatında çekim yapabilmeleri akıllı cep telefonları­nın özelliklerinden biridir."
     },
     {
         "SoruID": 3353289,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Prisma fotoğrafla­rınızın tablo gibi görünmesini sağlar."
+        "Aciklama": "Prisma fotoğrafla­rınızın tablo gibi görünmesini sağlar."
     },
     {
         "SoruID": 3353291,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilme­si işlemine Makro fotoğraf  adı verilir."
+        "Aciklama": "Fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilme­si işlemine Makro fotoğraf adı verilir."
     },
     {
         "SoruID": 3353293,
@@ -597,6 +597,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Modern basın fotoğrafçılığının kurucusu Erich Salomon'dur."
+        "Aciklama": "Modern basın fotoğrafçılığının kurucusu Erich Salomon'dur."
     }
 ]

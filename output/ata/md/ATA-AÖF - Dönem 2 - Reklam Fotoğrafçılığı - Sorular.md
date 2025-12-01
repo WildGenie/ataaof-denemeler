@@ -141,18 +141,18 @@
     - **Cevap D-) Fotoğraf haberdir.**
     - E-) Fotoğraf görmektir.
     ***
-1. **1889 yılında "Siz deklanşöre basın, gerisini biz hâlledelim." sloganı ile piyasaya fotoğraf makinesi süren ve fotoğrafın demokratik bir sanat ve tüketim aracı hâline gelmesinde etkin rol oynayan firmanın adı aşağıdakilerden hangisidir?**
+1. **1889 yılında "Siz deklanşöre basın, gerisini biz hâlledelim." sloganı ile piyasaya fotoğraf makinesi süren ve fotoğrafın demokratik bir sanat ve tüketim aracı hâline gelmesinde etkin rol oynayan firmanın adı aşağıdakilerden hangisidir?**
     - A-) Sony
     - B-) Nikon
     - C-) Samsung
     - D-) Canon
     - **Cevap E-) Kodak**
     ***
-1. **Calotype Yöntemi'ni Daguerretype Yöntemi'nden ayıran en önemli özellik aşağıdakilerden hangisidir?**
+1. **Calotype Yöntemi'ni Daguerretype Yöntemi'nden ayıran en önemli özellik aşağıdakilerden hangisidir?**
     - A-) Pahalı bir teknik olması
     - B-) Tek bir kopya üretilebiliyor olması
     - C-) Sonucun keskin hatlara sahip olması
-    - **Cevap D-) Kopyalamaya olanak veren bir buluş olması**
+    - **Cevap D-) Kopyalamaya olanak veren bir buluş olması**
     - E-) Ebatlarının çok büyük olması
     ***
 1. **1838'de Boulevard de Temple’de çekilen ilk canlı insan fotoğrafı hangi teknik aracılığıyla elde edilmiştir?**
@@ -296,7 +296,7 @@
     - D-) Efekt ya da filtre kullanımı
     - E-) Iso
     ***
-1. I. Perde<br />II. Enstantene
+1. I. Perde<br />II. Enstantene<br />III. Shutter<br />IV. Odak uzaklığı<br />**Yukarıdakilerden hangileri ışığın film ya da sensör üzerine düştüğü süreyi belirtmek için kullanılabilecek ifadelerdendir?**
     - A-) I ve II
     - B-) III ve IV
     - **Cevap C-) I, II ve III**
@@ -360,21 +360,21 @@
     - D-) Yorum yeteneği
     - **Cevap E-) Ekonomik düzeyi**
     ***
-1. **Fotoğrafı çekilecek konuyu izleyicinin gözünde yüceltmek için aşağıdaki  değişkenlerden hangisini kullanırdınız?**
+1. **Fotoğrafı çekilecek konuyu izleyicinin gözünde yüceltmek için aşağıdaki değişkenlerden hangisini kullanırdınız?**
     - A-) Konuya yakın bir mesafeden çekim yapmak
     - B-) Ayrıntı çekimi yapmak
     - C-) Teleobjektifle konuyu büyütmek
     - **Cevap D-) Alt açıdan çekmek**
     - E-) Altın kesit kuralına uygun bir kompozisyon uygulamak
     ***
-1. **Aşağıdaki kompozisyon kavramlarından hangisini uygulamak izleyicinin  dikkatini çeker?**
+1. **Aşağıdaki kompozisyon kavramlarından hangisini uygulamak izleyicinin dikkatini çeker?**
     - A-) Uyum
     - **Cevap B-) Zıtlık**
     - C-) Simetri
     - D-) Ritm
     - E-) Uzam
     ***
-1. **Aşağıdakilerden hangisi hız ve hareket izlenimi yaratmada etki  etmemektedir?**
+1. **Aşağıdakilerden hangisi hız ve hareket izlenimi yaratmada etki etmemektedir?**
     - A-) Hareketin hızı
     - B-) Hareketin yönü
     - C-) Hareket boşluğu
@@ -388,14 +388,14 @@
     - D-) Alan derinliğinden yararlanmak
     - E-) Fonu gölgede bırakan yarı ters ışık kullanmak
     ***
-1. **Aşağıdakilerden hangisi insan fotoğraflarında kullanılan çekim  ölçeklendirmeleri arasında yer almaz?**
+1. **Aşağıdakilerden hangisi insan fotoğraflarında kullanılan çekim ölçeklendirmeleri arasında yer almaz?**
     - A-) Baş plan
     - **Cevap B-) Yakın plan**
     - C-) Boy plan
     - D-) Diz plan
     - E-) Genel plan
     ***
-1. **Fotoğrafçının hangi özellikleri çekim esnasında yapacağı tercihlerde anlam  oluşumuna doğrudan etki etmemektedir?**
+1. **Fotoğrafçının hangi özellikleri çekim esnasında yapacağı tercihlerde anlam oluşumuna doğrudan etki etmemektedir?**
     - A-) Fotoğrafçının görme yeteneği
     - B-) Fotoğrafçının politik ve dünya görüşü
     - **Cevap C-) Fotoğrafçının maddi durumu**
@@ -427,17 +427,17 @@
     - A-) Pozlama
     - B-) Kadraj
     - **Cevap C-) 1/3 kuralı**
-    - D-) Yakın plan
+    - D-) Yakın plan
     - E-) Siluet
     ***
-1. **Etkili bir kompozisyon oluşturmak isteyen bir fotoğrafçı, konuya yaklaşıp uzaklaşarak ya da objektifinin odak uzaklığını değiştirerek aşağıdakilerden hangisini amaçlamaktadır?**
+1. **Etkili bir kompozisyon oluşturmak isteyen bir fotoğrafçı, konuya yaklaşıp uzaklaşarak ya da objektifinin odak uzaklığını değiştirerek aşağıdakilerden hangisini amaçlamaktadır?**
     - A-) Diyafram değeri belirleme
     - B-) Kelvin değerini belirleme
     - C-) ISO değerini değiştirme
     - **Cevap D-) Çerçevenin sınırlarını belirleme**
     - E-) Enstantene değeri belirleme
     ***
-1. I. Dosya boyutu<br />II. Hareketin hızı
+1. I. Dosya boyutu<br />II. Hareketin hızı<br />III. Hareketin yönü<br />**Hareketli nesnelerin hız ve hareketinin ifadesi, teknik bilgi ve deneyimin yanı sıra yukarıdaki değişkenlerden hangisi ya da hangilerine bağlıdır?**
     - A-) I ve II
     - B-) I, II ve III
     - C-) Yalnız I
@@ -466,7 +466,7 @@
     - D-) Siyah-beyaz
     - E-) Makro
     ***
-1. Analog yöntem ile çekilen fotoğrafı görebilmek için filmin yıkanması gerekirken, dijital görüntüye hemen ulaşılır. Elde edilen fotoğrafın bir yere transferinde de analog verilerin dijitale oranla çok daha yavaş kaldığı aşikârdır.<br />**Paragrafta ifade edilen****dijital fotoğrafçılık ve analog fotoğrafçılık karşılaştırmasıyla ilgili etken aşağıdakilerden hangisidir?**
+1. Analog yöntem ile çekilen fotoğrafı görebilmek için filmin yıkanması gerekirken, dijital görüntüye hemen ulaşılır. Elde edilen fotoğrafın bir yere transferinde de analog verilerin dijitale oranla çok daha yavaş kaldığı aşikârdır.<br />**Paragrafta ifade edilen** **dijital fotoğrafçılık ve analog fotoğrafçılık karşılaştırmasıyla ilgili etken aşağıdakilerden hangisidir?**
     - A-) Görüntü kaydı
     - B-) Sağlık
     - **Cevap C-) Hızlılık**
@@ -564,7 +564,7 @@
     - D-) Netleme butonu
     - E-) LCD paneli
     ***
-1. I. Yüksek kalitede görüntü barındırması ve birçok program tarafından okunabilmektedir.<br />II. Hem fotoğraflar üzerinde yapılacak müdahalelere hem de açılıp yeniden kaydetmeye imkan vermektedir.
+1. I. Yüksek kalitede görüntü barındırması ve birçok program tarafından okunabilmektedir.<br />II. Hem fotoğraflar üzerinde yapılacak müdahalelere hem de açılıp yeniden kaydetmeye imkan vermektedir.<br />III. Boyutlarının büyük olması sebebiyle kartlarda, taşıyıcı belleklerde ya da bilgisayarlarda daha büyük yer kaplar.<br />**Özellikleri verilen görüntü kaydetme formatı aşağıdakilerden hangisidir?**
     - A-) JPEG Format
     - B-) RAW Format
     - **Cevap C-) TIFF Format**
@@ -654,7 +654,7 @@
     - B-) Alfred Stiglitz - Vogue
     - C-) Richard Avedon - Fashion
     - D-) Man Ray – Club Decoration
-    - E-) Ara Güler -  FHM
+    - E-) Ara Güler - FHM
     ***
 1. **Reklam fotoğraflarının aldatıcılığı hangi filmde hangi aktörün performansı ile eleştirilmiştir?**
     - **Cevap A-) Falling Down – Michael Douglas**
@@ -691,21 +691,21 @@
     - **Cevap D-) Reklam Fotoğrafçılığı**
     - E-) Afiş
     ***
-1. **Amerikan başkanlık seçimleri sırasında seçim kampanyası için fotoğrafçı Mathew Brady'e poz veren başkan aşağıdakilerden hangisidir?**
+1. **Amerikan başkanlık seçimleri sırasında seçim kampanyası için fotoğrafçı Mathew Brady'e poz veren başkan aşağıdakilerden hangisidir?**
     - A-) Edward Steichen
     - **Cevap B-) Abraham Lincoln**
     - C-) Grover Cleveland
     - D-) Andrew Johnson
     - E-) Woodrow Wilson
     ***
-1. **Reklam fotoğrafının tarihinde önemli bir yere sahip olan  Kitty Kramer’e ait Kodak Kızı reklam fotoğrafında kadın figürü kullanılarak verilmek istenen mesaj aşağıdakilerden hangisinde verilmiştir?**
-    - **Cevap A-) Fotoğraf makinasının hafif ve kolay taşınabilir olduğuna vurgu yapmak istenmiştir.**
-    - B-) Fotoğraf makinasının maliyetinin ucuzluğuna vurgu yapmak istenmiştir.
+1. **Reklam fotoğrafının tarihinde önemli bir yere sahip olan Kitty Kramer’e ait Kodak Kızı reklam fotoğrafında kadın figürü kullanılarak verilmek istenen mesaj aşağıdakilerden hangisinde verilmiştir?**
+    - **Cevap A-) Fotoğraf makinasının hafif ve kolay taşınabilir olduğuna vurgu yapmak istenmiştir.**
+    - B-) Fotoğraf makinasının maliyetinin ucuzluğuna vurgu yapmak istenmiştir.
     - C-) Reklam fotoğrafı çekimlerinin eğitimsiz herkesin yapabileceğine vurgu yapmak istenmiştir.
     - D-) Fotoğraf makinasının hızlı ve kolay bir uğraş olduğuna vurgu yapmak istenmiştir.
     - E-) Fotoğraf makinasının sadece belirli kesime ait kişilerin kullanabileceğine vurgu yapmak istenmiştir.
     ***
-1. **Aşağıdakilerden hangisi başarılı bir reklamın amaçları arasında yer almaz?**
+1. **Aşağıdakilerden hangisi başarılı bir reklamın amaçları arasında yer almaz?**
     - A-) İkna edici olması
     - **Cevap B-) Ucuz maliyetli olması**
     - C-) Ayırt edici olması
@@ -769,7 +769,7 @@
     - **Cevap D-) Makyöz**
     - E-) Grafik tasarımcıları
     ***
-1. “Görüntü işleme ekibinin görevlerinden biri .................... ve fotoğrafı  ................hâle getirmektir.”<br />**Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?**
+1. “Görüntü işleme ekibinin görevlerinden biri .................... ve fotoğrafı ................hâle getirmektir.”<br />**Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?**
     - A-) ilgi çekici – güzel
     - B-) renk ayarı yapmak – pazarlanabilir
     - **Cevap C-) görüntüdeki kusurları gidermek – ilgi çekici**
@@ -832,43 +832,43 @@
     - D-) Kafelere
     - **Cevap E-) Tasarım ajanslarına**
     ***
-1. Bugün reklam fotoğrafçılığının en önemli kazanç kapılarından biri ................ fotoğrafçılığıdır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+1. Bugün reklam fotoğrafçılığının en önemli kazanç kapılarından biri ................ fotoğrafçılığıdır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) portre
     - **Cevap B-) stok**
     - C-) manzara
     - D-) ürün
     - E-) magazin
     ***
-1. I. Hemen her konuya çözüm oluşturması gerektiği için adeta “maymuncuk” gibi her kapıyı açar.<br />II. Ajansın yaptığı anlaşmaları takip eden ve anlaşma ekseninde yerine getirilmesi gerekenleri organize eder.
+1. I. Hemen her konuya çözüm oluşturması gerektiği için adeta “maymuncuk” gibi her kapıyı açar.<br />II. Ajansın yaptığı anlaşmaları takip eden ve anlaşma ekseninde yerine getirilmesi gerekenleri organize eder.<br />III. Ürün tanıtımı için gelen müşterinin o ürün tanıtımı için ne tür beklentilere sahip olduğunu öğrenip ekibe aktarır.<br />**Görevleri sıralanan ajans birimi aşağıdakilerden hangisidir?**
     - A-) Sekreter
     - **Cevap B-) Prodüksüyon yardımcısı**
     - C-) Tasarım ekibi
     - D-) Çekim ekibi
     - E-) Sanat yönetmeni
     ***
-1. I. Çekim öncesi gereksinimleri belirleyen ve en ideal çekim şartlarına yönelik öneriler ortaya koyan kişidir.<br />II. Modellerin giyeceği kostümlerden üzerinde taşıyacakları aksesuarlara, çekimin yapılacağı mekânın seçiminden, dekorun tasarlanmasına ve yerleştirilmesine değin pek çok şeyi denetler.
+1. I. Çekim öncesi gereksinimleri belirleyen ve en ideal çekim şartlarına yönelik öneriler ortaya koyan kişidir.<br />II. Modellerin giyeceği kostümlerden üzerinde taşıyacakları aksesuarlara, çekimin yapılacağı mekânın seçiminden, dekorun tasarlanmasına ve yerleştirilmesine değin pek çok şeyi denetler.<br />III. Kamera arkasından tek bir noktaya değil, görselliğin gerçekleştiği tüm alanı denetler.<br />**Yukarıda görevleri verilen ajans birimi hangisidir?**
     - **Cevap A-) Sanat yönetmeni**
     - B-) Sekreter
     - C-) Yapımcı
     - D-) Kreatif yönetmen
     - E-) Tasarım ekibi
     ***
-1. **İdeal bir reklam ajansı bünyesinde aşağıdakilerden hangisinin yer almasına gerek yoktur?**
+1. **İdeal bir reklam ajansı bünyesinde aşağıdakilerden hangisinin yer almasına gerek yoktur?**
     - A-) Prodüksüyon yardımcısı/müşteri ilişkileri temsilcisi
-    - B-) Tasarım ekibi (Creatif Direktör, Sanat Yönetmeni, Yapımcı, Metin Yazar(lar)ı, Grafik Tasarımcıları)
-    - C-) Çekim ekibi (Reklam fotoğrafçısı, Çekim asistanı, Işıkçı, Makyöz, Kostüm tasarımcısı)
+    - B-) Tasarım ekibi (Creatif Direktör, Sanat Yönetmeni, Yapımcı, Metin Yazar(lar)ı, Grafik Tasarımcıları)
+    - C-) Çekim ekibi (Reklam fotoğrafçısı, Çekim asistanı, Işıkçı, Makyöz, Kostüm tasarımcısı)
     - D-) Görüntü işleme ekibi (Photoshop teknisyenleri/uzmanları)
     - **Cevap E-) Baskı aşamasının hızlı ve verimli ilerleyebilmesi için matbaa olanakları ve matbaa ekibi**
     ***
 1. **İdeal bir reklam ajansı bünyesinde çalışan reklam metin yazarının en önemli özelliği aşağıdakilerden hangisi olmalıdır?**
     - A-) Mali konuları bilme ve kontrol edebilme
-    - **Cevap B-) Ana diline oldukça hâkim olma, dil oyunlarını bilme, toplumu ve içinde yaşadığı kültürü çok iyi gözlemleyebilme**
+    - **Cevap B-) Ana diline oldukça hâkim olma, dil oyunlarını bilme, toplumu ve içinde yaşadığı kültürü çok iyi gözlemleyebilme**
     - C-) Çekim öncesi gereksinimleri belirleyebilme ve en ideal çekim şartlarına yönelik öneriler ortaya koyabilme
     - D-) Yönetim alanında oldukça uzman olma ve yaratıcı tasarımlar oluşturabilme
     - E-) Kurumsal yapının vitrin yüzü olabilme özelliğini taşıma ve müşteri ile ilk diyaloğu kurabilme
     ***
 ## Unite 7
-1. **Fotoğrafta konu üzerinde oluşan en aydınlık bölge ile en karanlık bölge arasındaki farka ne ad verilir?**
+1. **Fotoğrafta konu üzerinde oluşan en aydınlık bölge ile en karanlık bölge arasındaki farka ne ad verilir?**
     - **Cevap A-) Kontrast**
     - B-) Ton farkı
     - C-) Doğal ışık
@@ -910,7 +910,7 @@
     - D-) Ters
     - E-) Yanal
     ***
-1. I. Fotoğrafçılıkta en çok kullanılan ışık türüdür.<br />II. Cisimlerin üç boyut yapısını vurgulayan en ideal ışıktır.
+1. I. Fotoğrafçılıkta en çok kullanılan ışık türüdür.<br />II. Cisimlerin üç boyut yapısını vurgulayan en ideal ışıktır.<br />III. Doğru renklerin en kolay yakalandığı aydınlatma yönüdür.<br />IV. Gölge ve aydınlık bölgeyi aynı anda barındırır.<br />**Yukarıdaki özellikler konuyu hangi yönden aydınlatan ışık için geçerlidir?**
     - A-) Cephe
     - B-) Tepe
     - C-) Alttan
@@ -931,14 +931,14 @@
     - D-) Fon ışığı
     - E-) Tepe (saç) ışığı
     ***
-1. I. Ana ışığın yeterli derecede aydınlatmadığı bölgeleri aydınlatması için kullanılır.<br />II. Yardımcı ışık, daima konuyu tam karşıdan aydınlatacak şekilde kullanılır.
+1. I. Ana ışığın yeterli derecede aydınlatmadığı bölgeleri aydınlatması için kullanılır.<br />II. Yardımcı ışık, daima konuyu tam karşıdan aydınlatacak şekilde kullanılır.<br />III. Asıl işlevi, ışık almayan bölgelere ışık vererek kontrastı düşürmektir.<br />IV. Genellikle, yardımcı ışık ana ışığa oranla daha şiddetli kullanılır.<br />**Dolgu (yardımcı) ışıkla ilgili yukarıdaki özelliklerden hangileri yanlıştır?**
     - A-) I ve II
     - B-) I ve III
     - C-) II ve III
     - **Cevap D-) II ve IV**
     - E-) III ve IV
     ***
-1. **High Key aydınlatma için** **aşağıdakilerden hangisi****söylenemez?**
+1. **High Key aydınlatma için** **aşağıdakilerden hangisi** **söylenemez?**
     - A-) Işık kaynakları şiddetli olarak objeyi aydınlatır ve parlak görüntü oluşur.
     - **Cevap B-) Kontrast oldukça yüksektir.**
     - C-) Aydınlatılan kişiler daha mutlu gözükürler.
@@ -1014,4 +1014,886 @@
     - C-) Ana ışık
     - D-) Cephe ışığı
     - **Cevap E-) Dolgu ışığı**
+    ***
+## Unite 8
+1. **Bir grup Avusturyalı amatör fotoğrafçılık öğrencisinin 1991 yılında Prag’a yaptıkları turistik gezi sırasında Rusya’da üretilmiş eski bir fotoğraf makinesiyle yaptıkları deneysel çekimler sonrasında fotoğrafçılıkta ortaya çıkan alternatif teknik aşağıdakilerden hangisidir?**
+    - A-) Pozitif baskı
+    - B-) Heligrafi
+    - C-) Solargrafi
+    - D-) Fonografi
+    - **Cevap E-) Lomografi**
+    ***
+1. **Yeryüzündeki ışığın temel kaynağı olan güneşin izlerini kaydetmede kullanılan ve klimatolojik değişimleri kayıt altına alan fotoğrafçılık tekniğine ne ad verilir?**
+    - A-) Digigrafi
+    - **Cevap B-) Solargrafi**
+    - C-) Polaroid
+    - D-) Monokrom
+    - E-) Lomografi
+    ***
+1. **Sosyal mecralarda paylaşılan fotoğrafların popüler listelere girebilmesi ile ilgili olarak aşağıda yer alan tavsiyelerden hangisi yanlıştır?**
+    - A-) Fotoğrafların özgün ve ilgi çekici olması gerekir.
+    - B-) Fotoğrafları paylaşırken yorum kısmına mutlaka ‘#’ ile başlayan ‘hashtag’ eklenmelidir.
+    - **Cevap C-) Paylaşılan fotoğrafların doygunluğa ulaşmasını beklemeden çok sık paylaşım yapılmalıdır.**
+    - D-) Takipçilerle iletişim sürdürülmelidir.
+    - E-) Popüler fotoğraflara yorum yapılmalıdır.
+    ***
+1. Kitle iletişim araçları ……………………, …………………. ve ……………….. görsellikleri yeniden tasarlar.<br />**Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) reel – sanal – sayısal**
+    - B-) sözlü – yazılı – sembolik
+    - C-) duygusal – bilişsel – davranışsal
+    - D-) çağrışımsal – göstergebilimsel – ikonografik
+    - E-) çekici – mizahi – korkuya dayalı
+    ***
+1. I. Mesajın hedef kitlenin özelliklerine göre kurgulanmasını kolaylaştırır.<br />II. Ekonomik ve siyasi meselelerle ilgilidir.<br />III. Gerçekliği bağlamından kopararak yeniden üretir.<br />**Yukarıdaki alternatif fotoğrafçılığa ilişkin ifadelerden hangisi ya da hangileri yanlıştır?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) I ve III
+    - **Cevap E-) II ve III**
+    ***
+1. **Aşağıdakilerden hangisi alternatif fotoğrafçılık tekniklerinden biri değildir?**
+    - A-) Polaroid
+    - B-) Lomografi
+    - **Cevap C-) Tipografi**
+    - D-) HDR
+    - E-) Solargrafi
+    ***
+1. **Aşağıdaki araştırmacılardan hangisi Polaroid Yöntemi'ni geliştiren grubun yöneticisidir?**
+    - A-) Erwin Van Saar
+    - **Cevap B-) Edwin H. Land**
+    - C-) Edward Sand
+    - D-) Francis Cooler
+    - E-) Frank H. Spoot
+    ***
+1. **Aşağıdakilerden hangisi polaroid filmlerin gündelik yaşamdaki kullanım alanları arasında sıralanamaz?**
+    - A-) Dişçilik
+    - B-) Osiloskop ekranındaki şekillerin fotoğraflanması
+    - **Cevap C-) Kalp grafiği fotoğraflanması**
+    - D-) Adli tıp araştırmaları
+    - E-) Kimlik kartı hazırlanması
+    ***
+1. “İlk olarak 1947 yılında gerçekleştirilen ………………. işlemi, karanlık odaya gerek kalmaksızın, 1 dakika içinde fotoğraf elde etmeye imkân tanımaktadır.”<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Lomografi
+    - B-) Baskılama
+    - C-) Instagram
+    - D-) Kopyalama
+    - **Cevap E-) Polaroid**
+    ***
+1. I. Güneşin izleri ve klimatolojik değişim kayıt altına alınmaktadır.<br />II. Bir parça S/B fotoğraf kağıdı üzerine güneşin hareketleri kaydedilir.<br />III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf makinesi olarak kullanılabilir.<br />**Yukarıda özellikleri sıralanan fotoğrafçılık tekniği aşağıdakilerden hangisidir?**
+    - A-) Polaroid
+    - **Cevap B-) Solargrafi**
+    - C-) HDR
+    - D-) GFZ
+    - E-) Lomografi
+    ***
+1. **Türkiye’de ilk lomografi mağazası ne zaman açılmıştır?**
+    - A-) 2001
+    - B-) 2003
+    - C-) 2005
+    - D-) 2009
+    - **Cevap E-) 2011**
+    ***
+1. Fotoğrafçılıkta alternatif paylaşım ortamları görselliğin kodlanmasını, ………………. ve depolanmasını sağlar.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) belgeselleşmesini**
+    - B-) kayıtlanmasını
+    - C-) paylaşılmasını
+    - D-) çoğaltılmasını
+    - E-) değiştirilmesini
+    ***
+1. **Instagramın Twitterden en temel farkı aşağıdakilerden hangisidir?**
+    - A-) Twitter’in kullanımı sınırlıdır.
+    - B-) Instagram Twitter’a tepki olarak gelişmiştir.
+    - C-) Twitter kullananlar Instagram kullanamazlar.
+    - **Cevap D-) Twitter’da yazı paylaşılırken, Instagram’da fotoğraf paylaşılır.**
+    - E-) Kullanıcıların Twitter kullanımı ve beğeni düzeyi Instagrama göre yüksektir.
+    ***
+1. **Aşağıdaki özelliklerden hangisi fotoğrafçılığın geleneksel işlevleri arasında yer almaz?**
+    - A-) Temsiliyet
+    - B-) Anlamlandırma
+    - C-) Bilgilendirme
+    - **Cevap D-) Para kazanma**
+    - E-) Uyarma
+    ***
+1. **Polaroid firması 2009 yılında girmiş olduğu ekonomik krizden çıkmak için aşağıdaki hangi ünlü sanatçıyı creative director olarak ortaklığına almıştır ?**
+    - **Cevap A-) Lady Gaga**
+    - B-) Cindy Crawford
+    - C-) Tom Cruise
+    - D-) Beyonce
+    - E-) Taylor Swift
+    ***
+1. **Aşağıdakilerden hangisi** **2000’li yıllardan sonra ortaya çıkan sosyal medya platformları arasında yer almaz?**
+    - A-) Youtube
+    - B-) Facebook
+    - C-) Twitter
+    - D-) MySpace
+    - **Cevap E-) Ringterest**
+    ***
+1. Julie Creswell tarafından kaleme alınan ve 22 Haziran 2008 tarihinde New York Times dergisinde yayımlanan makalede "hiç bir şeyin ünlüler kadar satmadığı" ifadesi kullanılmıştır.<br />**Aşağıdakilerden hangisi Julie Creswll'in bu ifadesinin kullanım amacını açıklamaktadır?**
+    - A-) Yıldızların (ünlülerin) nasıl para kazandıklarına vurgu yapılmaktadır.
+    - **Cevap B-) Yıldızların (ünlülerin) bir satış stratejisi olarak reklamlarda kullanıldığına vurgu yapılmaktadır.**
+    - C-) Yıldızların (ünlülerin) tercih ettikleri ürünlerin kaliteli olduğuna vurgu yapılmaktadır.
+    - D-) Yıldızların (ünlülerin) tercih ettikleri ürünlerin çeşitlilğine vurgu yapılmaktadır.
+    - E-) Yıldızların (ünlülerin) marka bağımlısı olan kişiler olduğuna vurgu yapılmaktadır.
+    ***
+1. En az üç adet çekilmiş aynı kadraja ait farklı pozlanmış fotoğraflar bilgisayar yazılımı sayesinde karanlık ve aydınlık yerleri belli bir mantık dâhilinde yeniden değerlendirilerek dördüncü bir fotoğraf oluşturulur.<br />**Açıklaması yapılan fotoğraf yöntemi aşağıdakilerden hangisidir?**
+    - **Cevap A-) HDR (High Dynamic Range)**
+    - B-) Lomografi
+    - C-) Polaroid
+    - D-) PSD (Payment Services Directive)
+    - E-) Solargrafi
+    ***
+## Unite 9
+1. **Aşağıdakilerden hangisi görüntü işlemenin gerekçelerinden biri değildir?**
+    - A-) Objektiften kaynaklanan bozulmaları düzeltmek
+    - B-) Sensörden kaynaklanan gürültüleri (noise) kaldırmak veya azaltmak
+    - C-) Netlik ve keskinlik problemlerini düzeltmek
+    - **Cevap D-) Fotoğraf makinesinin kullanım ömrünü uzatmak**
+    - E-) Fotoğrafta görülmesi istenmeyen nesneleri çıkarmak ve silmek
+    ***
+1. **Işık, ton, renk vb. değerlerin düzenlenmesinin yanı sıra ekleme, çıkarma, silme, birleştirme vb. işlemler yapılmasına da olanak sağlayan yazılım aşağıdakilerden hangisidir?**
+    - A-) Capture One
+    - B-) Canon Digital Photo Pro
+    - **Cevap C-) Photoshop**
+    - D-) Leaf Capture
+    - E-) Nikon Capture NX
+    ***
+1. **Aşağıdakilerden hangisi çekim sonrasında görüntü işleme nedenleri arasında yer almaz?**
+    - A-) Objektiften kaynaklanan hataları düzeltmek
+    - B-) Fotoğrafta görülmesi istenmeyen nesneleri çıkarmak ve silmek
+    - **Cevap C-) Çekilen fotoğrafı arşivlemek**
+    - D-) Anlatımı destekleyecek özel efekt ve filtre uygulamaları kullanmak
+    - E-) Netlik ve keskinlik problemlerini düzeltmek
+    ***
+1. **Filme pozlanan bir görüntünün bilgisayar ortamında işlenebilmesi için aşağıdakilerden hangisi yapılmalıdır?**
+    - **Cevap A-) Taranmış olması**
+    - B-) Pozlanmış olması
+    - C-) Kart üzerine baskısının yapılması
+    - D-) Banyo edilmesi
+    - E-) Filmin çoğaltılması
+    ***
+1. **Aşağıdaki bilgisayar donanımlarının hangisinin teknik özellikleri ve nitelikleri görüntü işlemede önemli değildir?**
+    - A-) Monitör boyutu
+    - **Cevap B-) Mouse**
+    - C-) Ekran kartı
+    - D-) İşlemci hızı
+    - E-) Ram
+    ***
+1. **Bilgisayarlar, fotoğrafın farklı süreçleri arasında aşağıdakilerden hangisi için kullanılmaz?**
+    - A-) Çekilen fotoğrafların arşivlenmesi
+    - B-) Çekilen fotoğrafların işlenmesi
+    - C-) Çekim esnasında kameranın kontrol edilmesi
+    - **Cevap D-) Filmin banyo edilmesi**
+    - E-) Fotoğrafların paylaşımı ve izlenmesi
+    ***
+1. **Bir fotoğrafın kayıpsız olarak işlenebilmesi için çekim esnasında aşağıdaki kayıt formatlarından hangisi tercih edilmelidir?**
+    - A-) JPG
+    - **Cevap B-) RAW**
+    - C-) EPS
+    - D-) PSD
+    - E-) BMP
+    ***
+1. **Aşağıdakilerden hangisi görüntü işleme yazılımı değildir?**
+    - A-) CaptureOne
+    - B-) Phocus
+    - **Cevap C-) Bridge**
+    - D-) NikonCapture NX
+    - E-) CanonDigital Photo Pro
+    ***
+1. **Birden fazla fotoğrafta yer alan obje ya da nesnelerin bir araya getirildiği katman birleştirme işlemlerinde doğal bir görünüm için aşağıdakilerden hangisi önemli değildir?**
+    - A-) Nesnelerin ışık değerleri
+    - B-) Nesnelerin renkleri
+    - C-) Nesnelerin boyutu
+    - D-) Nesnelerin çekiminde kullanılan bakış yüksekliği
+    - **Cevap E-) Nesnelerin estetik görünüme sahip olmaları**
+    ***
+1. **Aşağıdakilerden hangileri görüntü birleştirme işlemleri arasında yer almaz?**
+    - A-) Katman birleştirme
+    - B-) Vektörel çizimlerle birleştirme
+    - **Cevap C-) Perspektif düzeltme**
+    - D-) Panoramik birleştirme
+    - E-) Işık değeri için birleştirme
+    ***
+1. **Aşağıdakilerden hangisi görüntü işleme işlemleri arasında yer alan bir düzeltme işlemi değildir?**
+    - **Cevap A-) Fotoğrafta yer alan bir nesnenin silinmesi**
+    - B-) Renk değerlerinin değiştirilmesi
+    - C-) Işık değerlerinin değiştirilmesi
+    - D-) Kadraj hatalarının giderilmesi
+    - E-) Perspektif eğiliminin değiştirilmesi
+    ***
+1. **Fotoğrafta bulunan bir nesnenin belirginlik ve dikkat çekiciliğinin azaltılması için yapılan işlem hangisidir?**
+    - A-) Kadrajın değiştirilmesi
+    - B-) Renginin değiştirilmesi
+    - C-) Boyutunun küçültülmesi
+    - **Cevap D-) Netliğinin yumuşatılması**
+    - E-) Silinmesi
+    ***
+1. **Kimyasal ya da dijital yollarla elde edilmiş bir görüntünün bilgisayar ortamına aktarılarak, yazılımlar aracılığıyla, kısmi ya da bütününe yapılan müdahale ve değişikliklere ne ad verilmektedir?**
+    - **Cevap A-) Görüntü İşleme**
+    - B-) Görüntü Kaydetme
+    - C-) Görüntüleme
+    - D-) Görsel Betimleme
+    - E-) Görsel Tanımlama
+    ***
+1. **Aşağıdakilerden hangisi panaromik fotoğraf elde etmek için birleştirme yapılan yazılımlardan biri değildir?**
+    - A-) Auto Stich
+    - **Cevap B-) Photomatix**
+    - C-) Panorama Maker
+    - D-) Photo Stich
+    - E-) Photoshop
+    ***
+1. **Dijital fotoğraf teknolojisinde çekilen fotoğrafların kameraya takılarak kaydedilmesini sağlayan donanım aşağıdakilerden hangisidir?**
+    - A-) Ram
+    - B-) DVD
+    - **Cevap C-) Bellek Kartı**
+    - D-) Disket
+    - E-) Kart okuyucu
+    ***
+1. **Çekim sonrası (Post-Prodüksiyon) aşamasından baskı aşamasına kadarki süreçte kullanılan monitörlerin renk kalibrasyonunun doğruluğunun önemi aşağıdakilerin hangisinde açıkça belirtilmiştir?**
+    - A-) Kalibrasyonu doğru olmayan monitörlerde çözünürlük yüksek olacaktır.
+    - B-) Kalibrasyonu doğru olmayan monitörler maliyeti ucuz olduğu için tercih edilir.
+    - C-) Kalibrasyonu doğru olmayan monitörler ikincil monitör olarak kullanılmaktadır.
+    - **Cevap D-) Kalibrasyonu doğru olmayan monitörlerin her birinin gördüğü renkler farklı olacaktır.**
+    - E-) Kalibrasyonu doğru olmayan monitörler perspektif bozulmalara sebep olacaktır.
+    ***
+## Unite 10
+1. **Aşağıda yer alan fotoğrafçılık türlerinin hangisinde model kullanımı diğerlerine göre çok daha fazladır?**
+    - A-) Stok fotoğrafçılığı
+    - **Cevap B-) Moda fotoğrafçılığı**
+    - C-) Endüstri fotoğrafçılığı
+    - D-) Mimari fotoğrafçılığı
+    - E-) Turizm fotoğrafçılığı
+    ***
+1. **Aşağıdakilerden hangisi genellikle orta ve büyük ölçekli mal ve hizmet üreten/satan sanayi kuruluşlarının fotoğraf ihtiyaçlarını gidermek için yapılan fotoğraf çalışmalarının yer aldığı reklam fotoğrafçılığı uzmanlık alanıdır?**
+    - A-) Moda fotoğrafçılığı
+    - **Cevap B-) Endüstri fotoğrafçılığı**
+    - C-) Mimari fotoğrafçılığı
+    - D-) Turizm fotoğrafçılığı
+    - E-) Stok fotoğrafçılığı
+    ***
+1. **Aşağıdakilerden hangisi turizm fotoğrafçılığının uygulama alanlarından biri değildir?**
+    - A-) Tarihî ve turistik yerler
+    - B-) Doğal güzellikler
+    - C-) Müzeler
+    - D-) Turistik tesisler
+    - **Cevap E-) Sanayi kuruluşları**
+    ***
+1. **Stok fotoğrafçılığıyla ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Önceden çekilmiş hazır fotoğraflardan yararlanılmaktadır.
+    - B-) Prodüksiyon giderleri ortadan kalkmaktadır.
+    - C-) Hazır görüntüler nedeniyle zamandan tasarruf sağlamaktadır.
+    - D-) Arka plan belirli bir zamana veya mekâna ait bilgiler taşımamalıdır.
+    - **Cevap E-) Tanınmış erkek ve kadın modellerle çalışılmalıdır.**
+    ***
+1. **Aşağıdakilerden hangisi reklam fotoğrafçılarının belirli bir alanda uzmanlaşma gerekliliklerinden biri değildir?**
+    - **Cevap A-) Mesleki rekabet koşulları**
+    - B-) Hizmet verilen sektörlerin kendine özgü özellikleri
+    - C-) Fotoğrafçıların ilgi alanları
+    - D-) Fotoğrafçıların müşteri portföyü
+    - E-) Fotoğrafçıların, müşterilerine daha kaliteli hizmet verme anlayışı
+    ***
+1. **Aşağıdakilerden hangisi reklam fotoğrafçılığının uzmanlık alanları arasında yer almaz?**
+    - A-) Mimari
+    - B-) Moda
+    - **Cevap C-) Haber**
+    - D-) Endüstri
+    - E-) Turizm
+    ***
+1. **Aşağıdakilerden hangisi reklam fotoğrafçılarının belirli bir alanda uzmanlaşmalarının sağladığı avantajlardan biri değildir?**
+    - A-) Çekim yapacağı alana özgü incelikler daha iyi bilinir.
+    - B-) Endüstrinin belirli bir alanında daha kolay müşteri portföyü oluşturabilir.
+    - C-) Teknik altyapısını ve yatırımlarını daha rasyonel oluşturur.
+    - D-) Çalışmalarında performansı ve yoğunlaşması daha yüksek olur.
+    - **Cevap E-) Daha fazla para kazanabilirler.**
+    ***
+1. **Portre fotoğrafı kullanılan reklam fotoğraflarında aşağıdakilerden hangisine dikkat edilmez?**
+    - A-) Modelin kişilik özelliklerinin yansıtılması
+    - B-) Modelin duygu durumunun yansıtılması
+    - **Cevap C-) Modelin yaşının yansıtılması**
+    - D-) Modelin sosyal statüsünün yansıtılması
+    - E-) Modelin karakteristik fiziki özelliklerinin yansıtılması
+    ***
+1. **Moda fotoğraflarının işlevsel olarak başarılı kabul edilebilmesi için aşağıdakilerden hangisi önemli değildir?**
+    - **Cevap A-) Modelin fiziki özelliklerinin öne çıkarılması**
+    - B-) Fotoğrafların dikkat çekici bir konseptte olması
+    - C-) Ürünün işlevsel özelliklerinin yansıtılması
+    - D-) Kullanılan mekânın konsepte uygunluğu
+    - E-) Aydınlatma teknikleri
+    ***
+1. **Aşağıdakilerden hangisi endüstri fotoğraflarında aranan nitelikler arasında yer almaz?**
+    - A-) Fotoğrafların gerçekçi olması
+    - **Cevap B-) Fotoğrafların düşgücüne dayalı olması**
+    - C-) Fotoğrafların endüstri kuruluşunun teknolojik altyapısını yansıtması
+    - D-) Fotoğrafların endüstri kuruluşunun işgücünü yansıtması
+    - E-) Fotoğrafların endüstri kuruluşunun tesislerinin mimari özelliklerini yansıtması
+    ***
+1. **Aşağıdakilerden hangisi mimari fotoğrafların çekilme amaçları arasında yer almaz?**
+    - A-) Yapının çevresiyle olan ilişkisini anlatmak
+    - B-) Yapının yapım aşamalarını belgelemek.
+    - C-) Yapının işlevlerini göstermek.
+    - D-) Yapının estetik görünümünü vurgulamak.
+    - **Cevap E-) İnşaat aşamasında çalışanları belgelemek.**
+    ***
+1. **Aşağıdakilerden hangileri turizm fotoğraflarının kullanım alanları arasında yer almaz?**
+    - A-) Tarihî değerlere sahip yapıların tanıtılması
+    - B-) Doğal güzelliklere sahip yerlerin tanıtılması
+    - C-) Şehirlerin tanıtılması
+    - **Cevap D-) Endüstriyel tesislerin tanıtılması**
+    - E-) Turizm işletmelerine ait tesislerin tanıtılması
+    ***
+1. **Aşağıdakilerden hangileri stok fotoğrafına has özellikler arasında yer almaz?**
+    - A-) Stok fotoğrafları kiralık olarak kullanılır.
+    - **Cevap B-) Stok fotoğraflarının prodüksiyon giderleri kiralayana aittir.**
+    - C-) Stok fotoğraflarına ulaşmak daha hızlıdır.
+    - D-) Stok fotoğrafları daha ekonomiktir.
+    - E-) Stok fotoğrafları genelde internet üzerinden servis edilir.
+    ***
+1. **Reklam fotoğrafçılığında uzmanlık alanına yönelik mesleki yeterlilik açısından aşağıdakilerden hangisi önemli değildir?**
+    - A-) Fotoğrafçının sahip olduğu ekipman ve kullanma becerisi
+    - B-) Fotoğrafçının aydınlatma bilgisi
+    - **Cevap C-) Fotoğrafçının kullandığı makinenin markası**
+    - D-) Farklı endüstriyel alanların kendine özgü kurallarını bilmesi
+    - E-) Fotoğrafçının mesleki deneyimi
+    ***
+1. **Aşağıdakilerden hangisi bir fotoğrafçı için profesyonel tanımlaması yapılabilmesi için gerekli bir niteliktir?**
+    - A-) Fotoğraf eğitimi almış olması
+    - B-) Kamerasının yeni bir model olması
+    - **Cevap C-) Çektiği fotoğraflardan düzenli olarak gelir elde etmesi**
+    - D-) Sergi açmış olması
+    - E-) Fotoğraflarının çok beğenilmesi
+    ***
+1. **Reklamlarda kullanılan portre fotoğraflarında tüketicinin yaşam tarzına ilişkin verilen mesajlarda aşağıdakilerden hangisi etkili değildir?**
+    - **Cevap A-) Modelin tanınmış olması**
+    - B-) Modelin fiziki özellikleri
+    - C-) Modelin kıyafeti
+    - D-) Modelin kullandığı aksesuarlar
+    - E-) Modelin bulunduğu mekân
+    ***
+1. **Aşağıdakilerden hangisi ülkemizde reklam fotoğrafçılarının tek bir alanda uzmanlaşarak iş yapmalarının önündeki engeller arasında yer almaz?**
+    - A-) Mesleki rekabet koşulları
+    - **Cevap B-) Fotoğrafçıların isteksizliği**
+    - C-) Piyasadaki iş taleplerinin azlığı
+    - D-) Reklam bütçelerinde fotoğrafa ayrılan payların azlığı
+    - E-) Rekabetçi ve dengesiz iş koşulları
+    ***
+1. I. Portre ve Moda fotoğrafçılığı<br />II. Stok ve Turizm fotoğrafçılığı<br />III. Haber ve Savaş fotoğrafçılığı<br />IV. Mimari ve Endüstri fotoğrafçılığı<br />**Yukarıdakilerden hangisi ya da hangileri reklam fotoğrafçılığı mesleğinin alt uzmanlık alanları arasında yer almaz?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - **Cevap C-) Yalnız III**
+    - D-) I ve II
+    - E-) III ve IV
+    ***
+1. **Aşağıdakilerden hangisi bina, otel, alışveriş merkezi, köprü, fabrika, okul vb. yapıların iç ve dış görünümlerini, detaylarını, işlevsel ve biçimsel özelliklerini konu edinen reklam fotoğrafçılığı uzmanlık alanlarından biridir?**
+    - A-) Portre fotoğrafçılığı
+    - B-) Moda fotoğrafçılığı
+    - C-) Turizm fotoğrafçılığı
+    - **Cevap D-) Mimari fotoğrafçılığı**
+    - E-) Haber fotoğrafçılığı
+    ***
+## Unite 11
+1. **Cam ürünlerin fotoğrafı çekilirken ürünün yüzeyinde oluşabilecek yansımaları önlemek için hangi yöntem kullanılır?**
+    - A-) Sert Işık Yöntemi
+    - B-) Yumuşak Işık Yöntemi
+    - C-) Sektirmeli Aydınlatma Yöntemi
+    - D-) Noktasal Aydınlatma Yöntemi
+    - **Cevap E-) Difüz Aydınlatma Yöntemi**
+    ***
+1. **Still life fotoğrafçılığı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Genelde fotoğraf stüdyolarında ya da stüdyoya dönüştürülmüş mekânlarda çekilmektedir.
+    - B-) Küçük boyutlu ürünlerin çekiminde genelikle sonsuz fon oluşturan still life masaları kullanılmaktadır.
+    - C-) Ürünlerin görsel potansiyelinin artırılmasında ve algının yönlendirilmesinde arka plan önem kazanmaktadır.
+    - D-) Ürünün görsel açıdan cazip gösterilmesinde ışık geçirme durumu belirleyici olmaktadır.
+    - **Cevap E-) Fotoğraflarda düzensizlik, çatlak, toz ve parmak izi gibi ayrıntı ve detaylar önemsiz kalmaktadır.**
+    ***
+1. **Aşağıdakilerden hangisi fotoğraf stüdyolarının temel fiziki özelliklerinden biri değildir?**
+    - A-) Işıktan yalıtılmış olması
+    - B-) Giriş çıkışın kontrol edilebilir olması
+    - **Cevap C-) Asansör bulunması**
+    - D-) Fon bulunması
+    - E-) Yapay ışık kaynaklarının bulunması
+    ***
+1. **Aşağıdakilerden hangisi aydınlatmanın amaçları arasında yer almaz?**
+    - A-) Ürünleri görünür kılmak.
+    - **Cevap B-) Ürünlerin maliyetlerini azaltmak.**
+    - C-) Ürünlerin niteliklerinin vurgulanması.
+    - D-) Ürünün estetik görünümünü ortaya çıkarmak.
+    - E-) Tüketicileri psikolojik olarak etkilemek.
+    ***
+1. I. Metal yüzeyli ürünler<br />II. Ahşap yüzeyli ürünler<br />III. Kumaş yüzeyli ürünler<br />**Yukarıdakilerden hangisi ya da hangileri çekimi yapılacak ürünlerin sahip oldukları yüzeylere göre sınıflandırmaları arasında yer alır?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve III
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. **Aşağıdakilerden hangisi still life fotoğraflarında fon kullanımının amaçları arasında yer almaz?**
+    - A-) İlginin ürüne toplanmasını sağlar.
+    - B-) Dekupe işlemine kolaylık sağlar.
+    - C-) Aydınlatmada kullanılır.
+    - D-) Anlatımda sadelik sağlar.
+    - **Cevap E-) Aydınlatma tekniğini belirler.**
+    ***
+1. **Still life fotoğraf çekimlerde ürünlerin aşağıdaki özelliklerden hangisi vurgulanmaz?**
+    - A-) Biçim
+    - B-) Formu
+    - C-) Rengi
+    - D-) Dokusu
+    - **Cevap E-) Üretim yılı**
+    ***
+1. **Ürünlerin yüzeylerindeki maddeye göre aşağıdakilerden hangisi ışığı yansıtma özelliğine sahiptir?**
+    - A-) Ahşap
+    - B-) Plastik
+    - **Cevap C-) Metal**
+    - D-) Kauçuk
+    - E-) Kâğıt
+    ***
+1. **Aşağıdaki maddelerden hangisi ışık geçirme özelliğine göre yarı geçirgendir?**
+    - A-) Ahşap
+    - **Cevap B-) Buz**
+    - C-) Metal
+    - D-) Cam
+    - E-) Kâğıt
+    ***
+1. **Cam yüzeye sahip olan bir ürünün formunun ortaya çıkarılması için hangi açıdan aydınlatılmış olması gerekir?**
+    - A-) Cephe ışık
+    - B-) Yanal ışık
+    - **Cevap C-) Ters ışık**
+    - D-) Ön yanal ışık
+    - E-) Tepe ışığı
+    ***
+1. **Metal yüzeyli bir ürünün aydınlatılmasında aşağıdaki aydınlatma yöntemlerinden hangisi kullanılır?**
+    - **Cevap A-) Difüz ışık**
+    - B-) Sert ışık
+    - C-) Doğrudan ışık
+    - D-) Ters ışık
+    - E-) Yanal ışık
+    ***
+1. **Işık geçirmeyen (opak) bir ürüne hacim etkisinin kazandırılması için aydınlatmanın hangi yönden yapılması gerekir?**
+    - A-) Cephe ışık
+    - **Cevap B-) Yanal ışık**
+    - C-) Ters ışık
+    - D-) Alt ışık
+    - E-) Tepe ışığı
+    ***
+1. **Stil life olarak adlandırılan çekim tekniği aşağıdaki alanlardan hangisinde uygulanmaz?**
+    - A-) Yemek çekimleri
+    - B-) İçecek çekimleri
+    - C-) Endüstriyel ürünler
+    - **Cevap D-) Mimari ürünler**
+    - E-) Kozmetik ürünler
+    ***
+1. **Stüdyo fotoğraflarında aydınlatma için aşağıdaki fiziki özelliklerden hangisi önemlidir ?**
+    - A-) Tavan Yüksekliği
+    - B-) Genişliği
+    - C-) Zemin katta olması
+    - D-) Girişlerin kontrollü olması
+    - **Cevap E-) Işıktan yalıtılmılş olması**
+    ***
+1. **Aşağıdakilerden hangisi parlak yüzeyli nesnelerde oluşan yansımaları azaltmak için kullanılan bir stüdyo malzemesidir?**
+    - A-) Sonsuz fon
+    - B-) Softbox
+    - **Cevap C-) Çadır**
+    - D-) Şemsiye
+    - E-) Paraflash
+    ***
+1. Küçük boyutlu ürünlerin çekiminde ............. masası olarak ifade edilen ve çoğunlukla pleksiglas bir malzemeden sonsuz fon oluşturulan düzenekler kullanılmaktadır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) barndoor
+    - B-) röprodüksiyon
+    - C-) panel reflektör
+    - **Cevap D-) still life**
+    - E-) ışık şekillendirici
+    ***
+## Unite 12
+1. **Aşağıdakilerden hangisi reklam metinlerinin içermesi gereken işlevlerden biri değildir?**
+    - A-) İlgi çekme
+    - B-) Bilgi verme
+    - C-) Farkındalık oluşturma
+    - D-) İkna etme
+    - **Cevap E-) Sürpriz yapma**
+    ***
+1. ......................, reklam kampanyalarının en dikkat çekici ve akılda kalmasını sağlayıcı unsurudur. Markanın, tüketicinin zihninde belirli bir özelliğiyle ya da istenilen biçimde yerleşmesini ve anımsanmasını sağlamak amacıyla kullanılan ve tekrarlanan çarpıcı sözdür.<br />**Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Metin
+    - **Cevap B-) Slogan**
+    - C-) Hitabet
+    - D-) Müzik
+    - E-) Başlık
+    ***
+1. **Bir kurumu, mal ya da hizmeti simgelemesi amacıyla somut ve soyut simgelerden yararlanılarak özel olarak tasarlanan, marka işareti olarak da adlandırılan unsura ne ad verilir?**
+    - **Cevap A-) Amblem**
+    - B-) Logo
+    - C-) Piktogram
+    - D-) Grafik
+    - E-) Sembol
+    ***
+1. **Reklamlarda yer alan metinlerin biçimsel özelliklerinin belirlenmesiyle ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) El yazısı ve süslü karakterler okunurluğu zorlaştırır.
+    - **Cevap B-) Yazı karakteri ile zemin renginin aynı olması gerekir.**
+    - C-) Başlık ve sloganlarda düz karakterler kullanılmalıdır.
+    - D-) Cümlelerin ve özel isimlerin baş harfleri büyük olmalıdır.
+    - E-) Metin içinde tırnaklı karakterler tercih edilmelidir.
+    ***
+1. “Reklamcılığın özünde ……………………, …………………. ve ……………….. yatar.”<br />**Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?**
+    - A-) yan anlam – mantık – duygular
+    - B-) sözcükler – resimler – ikonlar
+    - C-) görüntüler – yazılı-görsel unsurlar – sesler
+    - **Cevap D-) çağrışım – gösterge – ikonografik düşünce**
+    - E-) çekicilik – mizah – korku
+    ***
+1. I. Reklamı yapılan marka ya da ürünün özellikleri<br />II. Ürünün hedef kitleye sunduğu fayda<br />III. Hedef kitlenin olumsuz davranışları<br />**Yukarıdakilerden hangisi veya hangileri reklam metni yazımı sırasında göz önünde bulundurulan unsurlardır?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - **Cevap C-) I ve II**
+    - D-) I ve III
+    - E-) II ve III
+    ***
+1. **Aşağıdakilerden hangisi fotoğrafın özelliklerinden biri değildir?**
+    - A-) Bir belgesel anlatım tarzına sahip olması
+    - **Cevap B-) İzleyeni kararsızlığa sürüklemesi**
+    - C-) Görüntülerin öğretici nitelik taşıması
+    - D-) Görüntülerin kanıt olarak kullanımı
+    - E-) Bilgi taşıyıcı nitelikte olması
+    ***
+1. **Markanın, tüketicinin zihninde belirli bir özelliğiyle ya da istenilen biçimde yerleşmesini ve anımsanmasını sağlamak amacıyla kullanılan ve tekrarlanan çarpıcı söz aşağıdakilerden hangisidir?**
+    - **Cevap A-) Slogan**
+    - B-) Metin
+    - C-) Marka
+    - D-) Reklam
+    - E-) Spot
+    ***
+1. **Aşağıdakilerden hangisi reklam mesajını iletmede başvurulan ve anlam oluşumunu sağlayan unsurlardan biri değildir?**
+    - A-) Grafik
+    - B-) Metin
+    - C-) Slogan
+    - D-) Tipogafi
+    - **Cevap E-) Monografi**
+    ***
+1. **Aşağıdakilerden hangisi reklam metninin amaçlanan işlevlerindendir?**
+    - A-) Benzerlikleri ortaya koyma
+    - **Cevap B-) Bilgi verme**
+    - C-) Uzlaşı sağlama
+    - D-) Düşündürme
+    - E-) Taktik geliştirme
+    ***
+1. I. Hedef kitleyle temas kurulmasını sağlar.<br />II. Tonlama, ritm ve çağrışımlara başvurulur.<br />III. Çok sayıda anahtar sözcük yoluyla geliştirilir.<br />**Özellikleri sıralanan kavram aşağıdakilerden hangisidir?**
+    - A-) Reklam
+    - B-) Spot
+    - C-) Logo
+    - D-) Reklamveren
+    - **Cevap E-) Slogan**
+    ***
+1. **Aşağıdakilerden hangisi reklam fotoğrafının özelliklerinden biri değildir?**
+    - A-) Fotoğraf bir anlatım dilidir.
+    - B-) Fotoğraf uygun bir tasarımla sunulmalıdır.
+    - **Cevap C-) Fotoğrafın çoklu amacı olmalıdır.**
+    - D-) Reklam amaçlanan doğrultuda görselleştirilmelidir.
+    - E-) Mesaj, fotoğraf aracılığıyla en hızlı biçimde verilmelidir.
+    ***
+1. ………………., çağdaş kültürler tarafından genellikle basit, resimsel, temsilî semboller olarak kullanılmaktadır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Amblem
+    - B-) Grafiti
+    - **Cevap C-) Piktogram**
+    - D-) Sembol
+    - E-) Simge
+    ***
+1. **Aşağıdakilerden hangisi reklamda duyguları harekete geçirmek amacıyla başvurulan stratejilerden biri değildir?**
+    - A-) Duygusallık
+    - B-) Zaman
+    - C-) Ödüllendirme
+    - **Cevap D-) Tanık kullanımı**
+    - E-) Mizah
+    ***
+1. Fotoğraf, reklamcılıkta ................... stratejinin önemli bir unsurudur.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) uydurma
+    - B-) aldatma
+    - **Cevap C-) yaratıcı**
+    - D-) ironik
+    - E-) metafizik
+    ***
+1. **Bir eşyayı, objeyi, yeri, işleyişi ya da kavramı resim yoluyla temsil eden sembole ne ad verilir?**
+    - A-) Somutlaştırma
+    - B-) Amblem
+    - C-) Logo
+    - **Cevap D-) Piktogram**
+    - E-) İlüstrasyon
+    ***
+1. Reklam fotoğrafının işlevleri bağlamında değerlendirildiğinde başarılı fotoğraf, başarılı .................... demektir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) tasarım
+    - **Cevap B-) reklam**
+    - C-) kampanya
+    - D-) iş
+    - E-) işveren
+    ***
+1. **Reklamların hedef kitlesini etkilemesinde aşağıdakilerden hangisi öne çıkmaz?**
+    - A-) Yaratıcı unsur
+    - B-) Ürün kategorisi
+    - C-) Marka
+    - **Cevap D-) Yapımcı**
+    - E-) Mesaj
+    ***
+1. **Aşağıdakilerden hangisi reklam metni yazımı sırasında göz önünde bulundurulan unsurlardan biri değildir?**
+    - A-) Rakip firma ile benzerlik ve farklılıklar
+    - B-) Firmanın pazar içerisindeki konumu
+    - C-) Hedef kitlenin cinsiyeti, yaşı ve eğitim durumu
+    - **Cevap D-) Reklamı yapan firmanın uyguladığı reklam stratejisi**
+    - E-) Hedef kitlenin yaşam biçimi ve eğilimleri
+    ***
+1. I. Estetik bir görünüm açığa çıkarmak<br />II. Nesnelerin var olan özelliklerinin etkisini artırmak<br />III. Nesnelerin istenmeyen yönlerini karartarak belirsizleştirmek<br />**Reklam fotoğrafında aydınlatma tasarımı yapılırken yukarıda verilen amaçlardan hangisi ya da hangileri ön plana çıkarılmalıdır?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+## Unite 13
+1. **Gösteren ile gösterilen arasında imgesel (görüntüsel) benzerlik taşıyan göstergelere ne ad verilir?**
+    - A-) Kod
+    - B-) Metonim
+    - C-) Simge
+    - **Cevap D-) İkon**
+    - E-) Paradigma
+    ***
+1. **Fotoğrafta biçimsel unsurların kullanılma yollarına ne ad verilir?**
+    - A-) Betimleme
+    - B-) Tarz
+    - C-) Eksilti
+    - **Cevap D-) Tasarım ilkeleri**
+    - E-) Çözümleme
+    ***
+1. ....................., çok iyi tanındığı veya aleniyete ihtiyacı olmadığı için ürün adının sarf edilmediği ve bir sır saklanıyormuş gibi tasarımlanan reklamlardır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Eksilti
+    - B-) Dolaylı eksilti
+    - **Cevap C-) Preterition**
+    - D-) Erteleme
+    - E-) Gereksiz yineleme
+    ***
+1. I. Altyapı-üstyapı<br />II. Yabancılaşma<br />III. Tüketim toplumu<br />**Yukarıdaki temel kavramlar reklam analiz yöntemlerinden hangisine aittir?**
+    - A-) Göstergebilimsel çözümleme
+    - B-) Psikanalitik çözümleme
+    - **Cevap C-) İdeolojik çözümleme**
+    - D-) Toplumbilimsel çözümleme
+    - E-) Feminist çözümleme
+    ***
+1. Reklamlarda kullanılan fotoğraflar ve görüntüler, görsel bir …………………… işaret eder.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) eksiltiye
+    - **Cevap B-) retoriğe**
+    - C-) ertelemeye
+    - D-) yinelemeye
+    - E-) azaltmaya
+    ***
+1. Göstergebilim anlamın ........ olduğuna değil; ........yansıtılıp, metinlere aktarıldığıyla ilgilenir.<br />**Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?**
+    - A-) nasıl – ne için
+    - B-) ne için - nasıl
+    - C-) ne - neden
+    - **Cevap D-) ne - nasıl**
+    - E-) neden – ne için
+    ***
+1. Göstergebilim reklamlarda kullanılan fotoğraflara görünen görüntününarkasında yatan ............... ortaya çıkarmaya yol gösteren disiplinlerden biridir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) yapıyı
+    - B-) farkları
+    - **Cevap C-) anlamı**
+    - D-) sorunu
+    - E-) sebepleri
+    ***
+1. **Psikanalatik çözümleme 19. yüzyılın sonlarında aşağıdakilerden hangisi tarafından ortaya koyulmuştur?**
+    - A-) Eric From
+    - B-) Julia Kristeva
+    - C-) Roland Barthes
+    - D-) Peirce
+    - **Cevap E-) Sigmund Freud**
+    ***
+1. **Sınıf farklılığının vurgulandığı reklamlarda “farklılığın” ifadesi aşağıdakilerden hangisiyle vurgulanamaz?**
+    - A-) Giyim tarzı
+    - B-) Kullanılan ürünler
+    - C-) Statü farklılıklar
+    - D-) Kullanılan karakterler
+    - **Cevap E-) Standartlıklar**
+    ***
+1. **Aşağıdakilerden hangisi göstergelerarasılık kavramına ilişkin yöntemler arasında yer almaz?**
+    - A-) Sinema - Edebiyat
+    - **Cevap B-) Şiir - Roman**
+    - C-) Resim - Fotoğraf
+    - D-) Fotoğraf - Metin
+    - E-) Müzik - Heykel
+    ***
+1. **Aşağıdakilerden hangisi göstergelerarası yöntemlerden biri değildir?**
+    - A-) Alıntı
+    - **Cevap B-) İnşa etme**
+    - C-) Öykünme
+    - D-) Yansılama
+    - E-) Taklit
+    ***
+1. **Tarihteki bir sanat eserini referans alarak onu andıran benzerini farklı bir sanat dalında “yeniden üretmek” göstergelerarası yöntemlerden hangisiyle ifade edilir?**
+    - A-) Gizli alıntı
+    - **Cevap B-) Alıntı**
+    - C-) Taklit
+    - D-) Öykünme
+    - E-) Yansılama
+    ***
+1. **Genel anlamıyla alayı ve taklidi içeren yeniden üretimlere göstergelerarası kavramlardan ne ad verilir?**
+    - A-) Alıntı
+    - B-) Taklit
+    - **Cevap C-) Yansılama**
+    - D-) Öykünme
+    - E-) Gizli alıntı
+    ***
+1. Göstergelerarası bir alıntılama yöntemi olarak “gizli alıntıda” eserin gerçek sahibinin kim olduğunun belirtilmemesi, o eserden esinlenme olarak tanımlanabildiği gibi kimi kuramcılar tarafından da .............. şeklinde adlandırılır.<br />**Cümlede boş bırakılan yere aşağıdaki kavramlardan hangisi getirilmelidir?**
+    - A-) anıştırma
+    - B-) atf etme
+    - C-) aşırma
+    - **Cevap D-) taklit etme**
+    - E-) sorgulama
+    ***
+1. Fotoğraf, reklamcılıkta ................... stratejinin önemli bir unsurudur.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) uydurma
+    - B-) aldatma
+    - **Cevap C-) yaratıcı**
+    - D-) ironik
+    - E-) metafizik
+    ***
+1. **Reklamlarda yazıyı belirlenen amaç doğrultusunda istenilen yere yerleştirmeyi hedefleyen, okunabilirlik ya da seçilebilirlik kavramını ön plana çıkaran özellik aşağıdakilerden hangisidir?**
+    - A-) Fotografi
+    - B-) Fonografi
+    - C-) Grafik
+    - **Cevap D-) Tipografi**
+    - E-) Metinler arasılık
+    ***
+1. Logo, amblemden farklı olarak sadece ..................... değil, farklı tipografik özelliklere sahip harf ya da rakamları da kullanır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) simgeleri**
+    - B-) renkleri
+    - C-) şekilleri
+    - D-) yazıları
+    - E-) işaretleri
+    ***
+1. **Bir eşyayı, objeyi, yeri, işleyişi ya da kavramı resmetme yoluyla temsil eden sembole ne ad verilir?**
+    - A-) Somutlaştırma
+    - B-) Amblem
+    - C-) Logo
+    - **Cevap D-) Piktogram**
+    - E-) İlüstrasyon
+    ***
+1. **Reklam fotoğrafı ve görsel unsur kullanımında başvurulan tekniklerden biri olan odak ve görüş derinliğinin kullanım amacı aşağıdakilerden hangisidir?**
+    - **Cevap A-) Nesneleri net, donuk, kırışık, bulanık veya sisli olarak bir fotoğrafın belli bölgelerini vurgulayıp diğerlerini soluk göstermek için kullanılır.**
+    - B-) Nesnelerin tüm albenili detaylarını göstermek ya da normal görünümünden daha büyük göstermek için kullanılır.
+    - C-) Doğal olmayan görünümler, hareketlilik ve heyecan izlenimi vermek için kullanılır.
+    - D-) Dramatik ya da olağanüstü etki yaratılmak istenildiğinde veya yan anlam denetimi için açı değişikliklerine başvurulur.
+    - E-) Daha çok insan vücudunun belli bir kısmına dikkati çekmek için fotoğrafın kesilmesi yöntemidir.
+    ***
+1. **Alıntı yapılan eserin gerçek sahibinin adının belirtilmediği alıntılama çeşidine ne ad verilir?**
+    - A-) Metonim (Düzdeğişmece)
+    - B-) Öykünme (Pastiche)
+    - **Cevap C-) Gizli Alıntı (Esinlenme)**
+    - D-) Taklit (İmitation)
+    - E-) Yansılama (Parodie)
+    ***
+## Unite 14
+1. **Aşağıdaki sunum şekillerinden hangisi bir fotoğraf sunum şekli değildir?**
+    - A-) Sergi açmak
+    - B-) Foto-albüm ya da katalog yayımlamak
+    - C-) Web sayfası üzerinden sunmak
+    - **Cevap D-) Yüz yüze konuşmak**
+    - E-) Portfolyo hazırlamak
+    ***
+1. **Bir fotoğraf portfolyosu aşağıdakilerden hangisi için hazırlanmaz?**
+    - A-) Fotoğraf eğitimi veren bir kuruma kabul edilmek için
+    - B-) Bir reklam fotoğrafı çekim işini almak için
+    - **Cevap C-) Bir fotoğraf stüdyosu satın almak için**
+    - D-) Bir galeride fotoğraf sergisi açmak için
+    - E-) Bir fotoğraf projesine kaynak bulmak için
+    ***
+1. **Bir fotoğraf portfolyosu hazırlamanın ilk adımı aşağıdakilerden hangisidir?**
+    - A-) Hangi fotoğrafların kullanacağına karar vermek.
+    - B-) En etkili fotoğrafları seçmek.
+    - C-) Portfolyonun kime sunulacağına karar vermek.
+    - D-) Nasıl bir portfolyo sunumu yapılacağına karar vermek.
+    - **Cevap E-) Portfolyo sunmaktaki amacın ve temanın ne olacağına karar vermek.**
+    ***
+1. **Fotoğraf seçmenin fotoğraf çekmekten daha zor olmasının nedeni aşağıdakilerden hangisidir?**
+    - A-) Fotoğraf çekmek daha çok dış ortamda olduğu için
+    - **Cevap B-) Fotoğraf seçerken çekim anındaki yaşananların etkisinde kalındığı için**
+    - C-) İnsan yapısı gereği üç boyutlu dünyayı görmeye alışkın olduğu için
+    - D-) Fotoğraf anı dondurduğu ve içinde hareket barındırmadığı için
+    - E-) Fotoğraf çekmekten daha çok zevk alındığı için
+    ***
+1. **Fotoğraf portfolyosunda kullanılacak giriş yazısı için verilen aşağıdaki özelliklerden hangisi yanlıştır?**
+    - **Cevap A-) Uzun ve ayrıntılı olması**
+    - B-) Yeterince açık olması
+    - C-) Etkileyici olması
+    - D-) Özet niteliğinde olması
+    - E-) Talebin ne olduğunu belirtiyor olması
+    ***
+1. **Bir fotoğraf portfolyosu hazırlarken fotoğraf dizgisi aşağıda verilen hangi özelliğe göre yapılmaz?**
+    - A-) Genelden detaya doğru
+    - B-) Detaydan genele doğru
+    - **Cevap C-) Büyükten küçüğe doğru**
+    - D-) Ton değeri birbirine yakın olanların ardada gelişine göre
+    - E-) Fotoğrafların kontrastlıklarına göre
+    ***
+1. **Bir fotoğrafçı hazırladığı portfolyo ile aşağıdakilerden hangisini söylemez?**
+    - A-) Fotoğrafta konu bütünlüğünü etkili bir şekilde kullanabildiğini
+    - B-) Fotoğraf diline yeterince hakim olup olmadığını
+    - C-) Fotoğraf konusunda ne kadar bilgili ve becerikli olduğunu
+    - **Cevap D-) Fotoğraf alanında yazılmış kitapların ne kadarını okuduğunu**
+    - E-) Fotoğrafta ışığı etkili kullanabildiğini
+    ***
+1. **Fotoğraf portfolyosunun kapağında aşağıdakilerden hangisi mutlaka olmak zorundadır?**
+    - A-) Süslü bir kâğıt
+    - B-) Konuyu anlatan resim
+    - C-) Konuyu anlatan fotoğraf
+    - D-) İçindekiler
+    - **Cevap E-) Fotoğrafçının isimi**
+    ***
+1. **Bir fotoğraf değerlendiricisi aşağıda gösterilen aşamalardan hangisini her zaman yapmayabilir?**
+    - **Cevap A-) Fotoğrafçıyı çağırıp yüz yüze konuşmak.**
+    - B-) Portfolyoyu inceleyip konunun kendisini ilgilendirip ilgilendirmediğine karar vermek.
+    - C-) Fotoğrafçının sunduğu portfolyo ile işinde başarılı olup olmadığını incelemek.
+    - D-) Portfolyo içeriği ile talep edilenlerin örtüşüp örtüşmediğini sorgulamak.
+    - E-) Fotoğrafçının kendine has bir üslubunun olup olmadığına bakmak.
+    ***
+1. **Bir fotoğraf portfolyosunda hazırlanış nedenine bağlı olarak değişiklik gösterse de genelde hangi sayılar aralığında fotoğraf adeti kullanılır?**
+    - A-) 5 - 10
+    - B-) 10 - 20
+    - **Cevap C-) 10 - 30**
+    - D-) 20 - 50
+    - E-) 30 – 60
+    ***
+1. **Bir fotoğraf portfolyosu hazırlanırken aşağıdakilerden hangisinden kaçınmak gerekir?**
+    - A-) Belirlenen amaç doğrultusunda en etkili fotoğrafları özenle seçmekten
+    - **Cevap B-) Fotoğrafları seçerken duygusal bir tavırla seçki yapmaktan**
+    - C-) Kendimizi portfolyoyu değerIendirecek kişinin yerine koyarak empati kurmaktan
+    - D-) Seçilen fotoğrafları anlam bütünlüğünde sıralamaktan
+    - E-) Seçilen fotoğrafları en iyi şekilde yansıtacak baskı tekniğini seçmekten
+    ***
+1. Fotoğraf seçmenin, fotoğraf çekmekten daha zor olduğu dile getirilirken, çekim esnasında yaşananların etkisi fotoğraflara yansımasa da fotoğrafçının belleğinde varlıklarını devam ettirirler. Bu yüzden çekimlerin üzerinden bir sürenin geçmesinin doğru olduğu dile getirilir.<br />**Ortalama bir fotoğrafçının duygusal davranıştan kurtulması için ne kadar süre geçirdikten sonra fotoğraf seçimini yapması önerilir?**
+    - A-) Bir hafta
+    - B-) İki hafta
+    - C-) Bir ay
+    - **Cevap D-) Altı ay**
+    - E-) Bir yıl
+    ***
+1. Portfolyo için seçilen fotoğrafların baskı aşamasına gelindiğinde kâğıt çeşitliliği ile karşılaşılır. Bu noktada fotoğraflar için en doğru kâğıdı seçmek gerekir.<br />**Aşağıdaki özelliklerden hangisi kâğıt seçiminde karşımıza çıkmaz?**
+    - A-) Kâğıt tabanlı kâğıt
+    - B-) Metalik kâğıt
+    - **Cevap C-) Altın yaldızlı kâğıt**
+    - D-) Mat kâğıt
+    - E-) Parlak kâğıt
+    ***
+1. I. Kapak<br />II. Özgeçmiş<br />III. Giriş yazısı<br />IV. Seçilen fotoğraflar<br />**Yukarıdakilerden hangisi ya da hangileri bir fotoğraf portfolyosunda olması gerekenler arasında yer alır?**
+    - A-) Yalnız II
+    - B-) I ve III
+    - C-) II ve IV
+    - D-) I, II ve III
+    - **Cevap E-) I, II, III ve IV**
+    ***
+1. **Bir foto-röportaj için ideal fotoğraf sayısı aşağıdakilerden hangisinde doğru verilmiştir?**
+    - A-) 4 – 5 adet
+    - B-) 6 - 12 adet
+    - C-) 8 – 10 adet
+    - **Cevap D-) 10 – 12 adet**
+    - E-) 10 – 20 adet
+    ***
+1. **Usta fotoğrafçıların, fotoğraf seçmek için çekimden sonra altı ay gibi bir sürenin geçmesini önermesinin nedeni aşağıdakilerden hangisidir?**
+    - A-) Proje için alınan izin sürelerini etkili kullanılarak eksiksiz bir çekim yapılması istenmektedir.
+    - B-) Kullanılan ekipmanların arıza yapma olasılığı ve projenin yarıda kalma riski bulunmamaktadır.
+    - C-) Hızlı yapılan seçimlerde hata yapma olasılığının fazla olacağı düşünülmektedir.
+    - D-) Çekilen projeye devam edilmesinin daha doğru olacağı düşünülmektedir.
+    - **Cevap E-) Duygusallıktan uzaklaşılarak daha objektif davranılmasına imkân vermiştir.**
     ***

@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3764209,
-        "SoruMetni": "Eko tasarım konusunda ilk girişimler ABD ve Avrupa’da hangi on yılın  sonlarına doğru gerçekleşmiştir?",
+        "SoruMetni": "Eko tasarım konusunda ilk girişimler ABD ve Avrupa’da hangi on yılın sonlarına doğru gerçekleşmiştir?",
         "A": "1960'lar",
         "B": "1970'ler",
         "C": "1980'ler",
@@ -22,11 +22,11 @@
     {
         "SoruID": 3764210,
         "SoruMetni": "Aşağıdakilerden hangisinde bir ürünün yaşam döngüsü aşamaları tam olarak verilmiştir?",
-        "A": "Hammadde ve Malzeme Seçimi<br/> Üretim<br/> Satış<br/> Dağıtım<br/> Kullanım<br/> Ömrünü Tamamlayan Ürün",
-        "B": "Hammadde ve Malzeme Seçimi<br/> Üretim<br/> Dağıtım<br/> Kullanım<br/> Ömrünü Tamamlayan Ürün",
-        "C": "Hammadde ve Malzeme Seçimi<br/> Planlama<br/> Üretim<br/> Dağıtım<br/> Kullanım<br/> Ömrünü Tamamlayan Ürün",
-        "D": "Hammadde ve Malzeme Seçimi<br/> Planlama<br/> Tasarım<br/> Üretim<br/> Dağıtım<br/> Kullanım<br/> Ömrünü Tamamlayan Ürün",
-        "E": "Hammadde ve Malzeme Seçimi<br/> Üretim<br/> Dağıtım<br/> Kullanım<br/> Geri Dönüşüm",
+        "A": "Hammadde ve Malzeme Seçimi<br/>Üretim<br/>Satış<br/>Dağıtım<br/>Kullanım<br/>Ömrünü Tamamlayan Ürün",
+        "B": "Hammadde ve Malzeme Seçimi<br/>Üretim<br/>Dağıtım<br/>Kullanım<br/>Ömrünü Tamamlayan Ürün",
+        "C": "Hammadde ve Malzeme Seçimi<br/>Planlama<br/>Üretim<br/>Dağıtım<br/>Kullanım<br/>Ömrünü Tamamlayan Ürün",
+        "D": "Hammadde ve Malzeme Seçimi<br/>Planlama<br/>Tasarım<br/>Üretim<br/>Dağıtım<br/>Kullanım<br/>Ömrünü Tamamlayan Ürün",
+        "E": "Hammadde ve Malzeme Seçimi<br/>Üretim<br/>Dağıtım<br/>Kullanım<br/>Geri Dönüşüm",
         "DogruCevap": "B",
         "DersAd": "Sürdürülebilir Grafik Tasarım",
         "Unite": 4,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hammadde ve Malzeme Seçimi<br/> Üretim<br/> Dağıtım<br/> Kullanım<br/> Ömrünü Tamamlayan Ürün"
+        "Aciklama": "Hammadde ve Malzeme Seçimi<br/>Üretim<br/>Dağıtım<br/>Kullanım<br/>Ömrünü Tamamlayan Ürün"
     },
     {
         "SoruID": 3764211,
@@ -125,7 +125,7 @@
         "A": "Energy Star",
         "B": "Blue Angel",
         "C": "Eco-Mark",
-        "D": "Global GreenTag Certified",
+        "D": "Global GreenTag Certified",
         "E": "Çevre Etiketi",
         "DogruCevap": "A",
         "DersAd": "Sürdürülebilir Grafik Tasarım",
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Tip II eko etiket</strong> kapsamında olan, <strong>Energy Star</strong> (ABD), WaterSense (ABD), SCS Recycled Content (ABD)<br/>gibi etiketlerin tanımları aşağıda verilmiştir;<br/><br/><br/><br/><br/><strong>Tip I eko etiket</strong> kapsamında olan, <strong>Blue Angel</strong> (Almanya), EU Ecolabel (Avrupa Birliği), <strong>Eco-Mark</strong> (Japonya) ve <strong>Çevre Etiketi</strong> (Türkiye) bazı etiket örnekleri aşağıda verilmiştir;<br/><br/><strong>Tip III</strong>  <strong>eko etiket</strong>  kapsamında olan, <strong>Global GreenTag</strong><br><strong>Certified (Avustralya),</strong> Climatop (İsviçre) gibi etiketlerin tanımları aşağıda verilmiştir;</br>"
+        "Aciklama": "Eco-Mark programı tüketiciler için daha bilinçli seçimler yaparak doğaya daha dost bir yaşam tarzı oluşturmaya hizmet eden Tip I Eko Etiketidir.<br><strong>Tip II eko etiket</strong> kapsamında olan, <strong>Energy Star</strong> (ABD), WaterSense (ABD), SCS Recycled Content (ABD)<br/>gibi etiketlerin tanımları aşağıda verilmiştir;<br/><strong>Tip I eko etiket</strong> kapsamında olan, <strong>Blue Angel</strong> (Almanya), EU Ecolabel (Avrupa Birliği), <strong>Eco-Mark</strong> (Japonya) ve <strong>Çevre Etiketi</strong> (Türkiye) bazı etiket örnekleri aşağıda verilmiştir;<br/><strong>Tip III</strong> <strong>eko etiket</strong> kapsamında olan, <strong>Global GreenTag</strong><br/><strong>Certified (Avustralya),</strong> Climatop (İsviçre) gibi etiketlerin tanımları aşağıda verilmiştir;</br>"
     },
     {
         "SoruID": 3764216,
@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 3764237,
-        "SoruMetni": "1990 yılının başlarında  “söz” adını verdikleri ilk eko tasarım kılavuzunu hangi ülke çıkartmıştır?",
+        "SoruMetni": "1990 yılının başlarında “söz” adını verdikleri ilk eko tasarım kılavuzunu hangi ülke çıkartmıştır?",
         "A": "Hollanda",
         "B": "Kosta Rika",
         "C": "Norveç",
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1990’ların başında Hollanda’da 8 farklı sektörle (mobilya, otomotiv, ambalaj vb.) yapılan örnek proje ilk ciddi eko tasarım girişimi olmuştur. 1994’te Delft Teknoloji üniversitesi araştırma programı “Sürdürülebilirlik için Tasarım”  diğer Hollandalı ortakları ile “söz” adını verdikleri ilk eko tasarım kılavuzunu çıkartmışlardır."
+        "Aciklama": "1990’ların başında Hollanda’da 8 farklı sektörle (mobilya, otomotiv, ambalaj vb.) yapılan örnek proje ilk ciddi eko tasarım girişimi olmuştur. 1994’te Delft Teknoloji üniversitesi araştırma programı “Sürdürülebilirlik için Tasarım” diğer Hollandalı ortakları ile “söz” adını verdikleri ilk eko tasarım kılavuzunu çıkartmışlardır."
     },
     {
         "SoruID": 3764238,
@@ -317,11 +317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Yasam Döngüsü Asamaları </strong><br/> Hammadde ve malzeme seçimi<br/> Üretim<br/> Dagıtım<br/> Kullanım<br/> Ömrünü tamamlayan ürün"
+        "Aciklama": "<strong>Yasam Döngüsü Asamaları </strong><br/>Hammadde ve malzeme seçimi<br/>Üretim<br/>Dagıtım<br/>Kullanım<br/>Ömrünü tamamlayan ürün"
     },
     {
         "SoruID": 3764241,
-        "SoruMetni": "Aşağıdakilerden hangisi <em>eko tasarım </em>kavramını ayırt edebilmemizde yol gösterici olacak belirleyici özelliklerdendir?<br/> I. Daha iyi tasarım ile ürünün tüm yaşam döngüsü boyunca çevresel etkilerin azaltılmasıdır.<br/> II. Ürüne ait kalite, fiyat, güvenlik gibi faktörlerle birlikte çevresel etkisinin de hesaplanmasıdır.<br/> III. Üretilecek olan ürünün henüz hammadde aşamasındayken çevreye etkisinin araştırılması ve üretim sürecinin bu şekilde planlanmasıdır.<br/> IV. Sosyal ve kültürel yönden kabul görebilecek yeni önerilerin, teknik olarak mümkün, çevre için mecburi olanlarını birleştiren bir tasarım faaliyetidir.",
+        "SoruMetni": "Aşağıdakilerden hangisi <em>eko tasarım </em>kavramını ayırt edebilmemizde yol gösterici olacak belirleyici özelliklerdendir?<br/>I. Daha iyi tasarım ile ürünün tüm yaşam döngüsü boyunca çevresel etkilerin azaltılmasıdır.<br/>II. Ürüne ait kalite, fiyat, güvenlik gibi faktörlerle birlikte çevresel etkisinin de hesaplanmasıdır.<br/>III. Üretilecek olan ürünün henüz hammadde aşamasındayken çevreye etkisinin araştırılması ve üretim sürecinin bu şekilde planlanmasıdır.<br/>IV. Sosyal ve kültürel yönden kabul görebilecek yeni önerilerin, teknik olarak mümkün, çevre için mecburi olanlarını birleştiren bir tasarım faaliyetidir.",
         "A": "I/II/III/IV",
         "B": "II/III/IV",
         "C": "I/II/III",
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sonuç olarak eko tasarımın ve birbirleri yerine kullanılan diğer kavramların ortak amacının çevreyi korumak olmasına karşın, kapsam olarak birbirlerinden farklılıkları vardır.Bu nedenle aşağıda <em>eko tasarım </em>kavramını ayırt edebilmemizde yol gösterici olacak belirleyici bazı özellikler yer almaktadır:<br/> • Daha iyi tasarım ile ürünün tüm yaşam döngüsü boyunca çevresel etkilerin azaltılmasıdır.<br/> • Ürüne ait kalite, fiyat, güvenlik gibi faktörlerle birlikte çevresel etkisinin de hesaplanmasıdır.<br/> • Üretilecek olan ürünün henüz hammadde aşamasındayken çevreye etkisinin araştırılması ve üretim sürecinin bu şekilde planlanmasıdır.<br/> • Sosyal ve kültürel yönden kabul görebilecek yeni önerilerin, teknik olarak mümkün, çevre için mecburi olanlarını birleştiren bir tasarım faaliyetidir."
+        "Aciklama": "Sonuç olarak eko tasarımın ve birbirleri yerine kullanılan diğer kavramların ortak amacının çevreyi korumak olmasına karşın, kapsam olarak birbirlerinden farklılıkları vardır.Bu nedenle aşağıda <em>eko tasarım </em>kavramını ayırt edebilmemizde yol gösterici olacak belirleyici bazı özellikler yer almaktadır:<br/>• Daha iyi tasarım ile ürünün tüm yaşam döngüsü boyunca çevresel etkilerin azaltılmasıdır.<br/>• Ürüne ait kalite, fiyat, güvenlik gibi faktörlerle birlikte çevresel etkisinin de hesaplanmasıdır.<br/>• Üretilecek olan ürünün henüz hammadde aşamasındayken çevreye etkisinin araştırılması ve üretim sürecinin bu şekilde planlanmasıdır.<br/>• Sosyal ve kültürel yönden kabul görebilecek yeni önerilerin, teknik olarak mümkün, çevre için mecburi olanlarını birleştiren bir tasarım faaliyetidir."
     },
     {
         "SoruID": 3764242,
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 3764243,
-        "SoruMetni": "Aşağıdakilerden hangisi veya hangileri 1980’lerin başında, ünlü ürün ve mobilya tasarımcısı Dieter Rams kendine “Tasarım iyi bir tasarım mı?” sorusunun ilkeleridir?<br/> I. İyi tasarım yenilikçidir.<br/> II. İyi tasarım bir ürünü kullanışlı kılar.<br/> III. İyi tasarım estetiktir.<br/> IV. İyi tasarım bir ürünü anlaşılır kılar.<br/> V. İyi tasarım göze batmaz.<br/> VI. İyi tasarım dürüsttür.<br/> VII. İyi tasarım uzun ömürlüdür.<br/> VIII. İyi tasarım en ince ayrıntısına kadar eksiksizdir.<br/> IX. İyi tasarım çevre dostudur.<br/> X. İyi tasarım mümkün olduğunca az tasarımdır",
+        "SoruMetni": "Aşağıdakilerden hangisi veya hangileri 1980’lerin başında, ünlü ürün ve mobilya tasarımcısı Dieter Rams kendine “Tasarım iyi bir tasarım mı?” sorusunun ilkeleridir?<br/>I. İyi tasarım yenilikçidir.<br/>II. İyi tasarım bir ürünü kullanışlı kılar.<br/>III. İyi tasarım estetiktir.<br/>IV. İyi tasarım bir ürünü anlaşılır kılar.<br/>V. İyi tasarım göze batmaz.<br/>VI. İyi tasarım dürüsttür.<br/>VII. İyi tasarım uzun ömürlüdür.<br/>VIII. İyi tasarım en ince ayrıntısına kadar eksiksizdir.<br/>IX. İyi tasarım çevre dostudur.<br/>X. İyi tasarım mümkün olduğunca az tasarımdır",
         "A": "I/II/III/IV/V/VI/VII/VIII/IX/X",
         "B": "I/II/III/IV/V/VII/VIII/IX/X",
         "C": "I/II/IV/V/VI/VII/VIII/IX/X",
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dieter Rams’ın iyi tasarım için on ilkesi aşağıdaki gibidir;<br/> 1980’lerin başında, ünlü ürün ve mobilya tasarımcısı Dieter Rams kendine “Tasarım iyi bir tasarım mı?” sorusunu sordu.<br/> 1. İyi tasarım yenilikçidir.<br/> 2. İyi tasarım bir ürünü kullanışlı kılar.<br/> 3. İyi tasarım estetiktir.<br/> 4. İyi tasarım bir ürünü anlaşılır kılar.<br/> 5. İyi tasarım göze batmaz.<br/> 6. İyi tasarım dürüsttür.<br/> 7. İyi tasarım uzun ömürlüdür.<br/> 8. İyi tasarım en ince ayrıntısına kadar eksiksizdir.<br/> 9. İyi tasarım çevre dostudur.<br/> 10. İyi tasarım mümkün olduğunca az tasarımdır"
+        "Aciklama": "Dieter Rams’ın iyi tasarım için on ilkesi aşağıdaki gibidir;<br/>1980’lerin başında, ünlü ürün ve mobilya tasarımcısı Dieter Rams kendine “Tasarım iyi bir tasarım mı?” sorusunu sordu.<br/>1. İyi tasarım yenilikçidir.<br/>2. İyi tasarım bir ürünü kullanışlı kılar.<br/>3. İyi tasarım estetiktir.<br/>4. İyi tasarım bir ürünü anlaşılır kılar.<br/>5. İyi tasarım göze batmaz.<br/>6. İyi tasarım dürüsttür.<br/>7. İyi tasarım uzun ömürlüdür.<br/>8. İyi tasarım en ince ayrıntısına kadar eksiksizdir.<br/>9. İyi tasarım çevre dostudur.<br/>10. İyi tasarım mümkün olduğunca az tasarımdır"
     },
     {
         "SoruID": 3764244,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Unilever</strong><br/> Unilever Türkiye, attığı her adımda ticari faaliyetleri için ihtiyaç duyduğu kaynakların gelecek nesillere azalmadan, tam tersine geliştirilerek aktarılmasına özen gösterme çabasında olup, bilinçli üretim-bilinçli tüketim döngüsü ile daha yaşanır bir gelecek için çalışmalarını sürdürmektedir."
+        "Aciklama": "<strong>Unilever</strong><br/>Unilever Türkiye, attığı her adımda ticari faaliyetleri için ihtiyaç duyduğu kaynakların gelecek nesillere azalmadan, tam tersine geliştirilerek aktarılmasına özen gösterme çabasında olup, bilinçli üretim-bilinçli tüketim döngüsü ile daha yaşanır bir gelecek için çalışmalarını sürdürmektedir."
     }
 ]

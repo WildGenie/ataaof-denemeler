@@ -134,7 +134,7 @@
     - D-) Sanat eseri
     - E-) Dinleyici
     ***
-1. **Aşağıdakilerden hangisi sanatın işlevlerinden biri değildir?**
+1. **Aşağıdakilerden hangisi sanatın işlevlerinden biri değildir?**
     - A-) Yapıcı
     - **Cevap B-) Öğüt verici**
     - C-) Eğitici
@@ -353,7 +353,7 @@
     - D-) Estetik yargı
     - E-) Estetik tavır
     ***
-1. **Estetik ile ilgili sorunları "estetik"  kavramı altında toplayan kişi aşağıdakilerden hangisidir?**
+1. **Estetik ile ilgili sorunları "estetik" kavramı altında toplayan kişi aşağıdakilerden hangisidir?**
     - **Cevap A-) Alexander Baumgarten**
     - B-) Platon
     - C-) Aristoteles
@@ -452,7 +452,7 @@
     - D-) Pazarlama süreci
     - E-) Anlatma süreci
     ***
-1. **Marksistlere göre sanat eseri ile ilgili a****şağıdakilerden hangisi yanlıştır?**
+1. **Marksistlere göre sanat eseri ile ilgili a****şağıdakilerden hangisi yanlıştır?**
     - A-) Sanat eserinin üretimi insan emeğinin ve etkinliğinin ürünüdür.
     - B-) Sanat eseri tüketim için üretilmiştir.
     - **Cevap C-) Sanat eserinin üretimi doğrudan toplumu yansıtır.**
@@ -487,7 +487,7 @@
     - D-) Wolff estetiği
     - E-) Bourdieu estetiği
     ***
-1. **Aşağıdakilerden hangisi sanat eserinin tanınmasını sağlayan etmenlerden biri değildir?**
+1. **Aşağıdakilerden hangisi sanat eserinin tanınmasını sağlayan etmenlerden biri değildir?**
     - A-) Eleştirmenler
     - B-) Ön söz yazarları
     - C-) Küratörler
@@ -530,7 +530,7 @@
     - D-) Sanat galerisi
     - **Cevap E-) Müze**
     ***
-1. **Aşağıdakilerden hangisi kişiliğin kazanılması, şekil alması adına eylemi başlatan, sürdüren ve yönlendiren zihinsel etkendir?**
+1. **Aşağıdakilerden hangisi kişiliğin kazanılması, şekil alması adına eylemi başlatan, sürdüren ve yönlendiren zihinsel etkendir?**
     - A-) Aliterasyon
     - **Cevap B-) Motivasyon**
     - C-) Mobilizasyon
@@ -628,7 +628,7 @@
     - D-) Eleştiri
     - E-) Kalıcı kılma
     ***
-1. **Aşağıdakilerden hangisi toplumun sanata ve sanatçıya bakış açısını oluşturan faktörlerden biri değildir?**
+1. **Aşağıdakilerden hangisi toplumun sanata ve sanatçıya bakış açısını oluşturan faktörlerden biri değildir?**
     - A-) Siyasi değerler
     - **Cevap B-) Maddi değerler**
     - C-) İdeolojik etkenler
@@ -777,7 +777,7 @@
     - E-) Yıldızlı gece
     ***
 ## Unite 7
-1. **İnsan yarınını düşünmeye başlar ve daldan toplanan yiyecekler biriktirilir. Bu noktada aşağıdaki çelişkilerden hangisi başlamıştır?**
+1. **İnsan yarınını düşünmeye başlar ve daldan toplanan yiyecekler biriktirilir. Bu noktada aşağıdaki çelişkilerden hangisi başlamıştır?**
     - **Cevap A-) İnsan-insan**
     - B-) İnsan-doğa
     - C-) Doğa-doğa
@@ -923,4 +923,921 @@
     - C-) Jürgen Habermas
     - D-) Fredric Jameson
     - E-) John Cage
+    ***
+## Unite 8
+1. **İnsanların gelir, zenginlik, toplumsal cinsiyet, etnisite, iktidar, statü, yaş din ya da diğer bazı karakteristikler üzerine kurulu eşitsiz katmanlara bölünmesini açıklayan kavram aşağıdakilerden hangisidir?**
+    - A-) Sosyal sınıf
+    - B-) Sosyal grup
+    - **Cevap C-) Toplumsal tabakalaşma**
+    - D-) Kast
+    - E-) Feodal zümre
+    ***
+1. **Geçirgenliği yok denecek kadar az tümüyle kapalı olan tabakalaşma türü aşağıdakilerden hangisidir?**
+    - A-) Feodal zümre
+    - **Cevap B-) Kast**
+    - C-) Sosyal grup
+    - D-) Sosyal sınıf
+    - E-) Kölelik
+    ***
+1. **Üst tabakaların sanatı olarak bilinen sanat grubu aşağıdakilerden hangisidir**?
+    - A-) Popüler sanatlar
+    - B-) Folklorik sanatlar
+    - C-) Yerel sanatlar
+    - D-) Halk sanatları
+    - **Cevap E-) Klasik sanatlar**
+    ***
+1. **Kültür tabakalarına bağlı olarak sanat anlayışlarında da farklılıklar olduğunu ileri süren düşünür aşağıdakilerden hangisidir?**
+    - A-) Emile Durkheim
+    - B-) Karl Marx
+    - **Cevap C-) Arnold Hauser**
+    - D-) Jean Baudrillard
+    - E-) Ivan Illich
+    ***
+1. Nathalie Heinich Rönesans’la XIX. yüzyıl ortasında birbirini izleyen bazen örtüşen üç eylem tipi tasarlayarak sanatçının statüsünün geçirdiği değişimleri sıralar.<br />**Buna göre aşağıdakilerden hangisi Rönesans’a kadar baskın olan düzendir?**
+    - A-) Akademik dönem
+    - B-) İlkel dönem
+    - C-) Sanatsal yetenek dönemi
+    - **Cevap D-) Zanaat dönemi**
+    - E-) Modern dönem
+    ***
+1. **Tarihsel gelişmelerin akışı içinde ortaya çıkan sanat tarzlarının onları benimseyen grupların, tabakaların ve sınıfların belirli özgür eğilimlerinin ifadesi olduğunu ileri süren düşünür aşağıdakilerden hangisidir?**
+    - **Cevap A-) Karl Manheim**
+    - B-) Karl Marx
+    - C-) Max Weber
+    - D-) Arnold Hauser
+    - E-) Thorstein Veblen
+    ***
+1. **Bir sanat eserinin özgün mekânlarıyla bağını kopararak bir galerinin sunduğu bir tarihsel silsilenin parçasına dönüşmesi hangi anlamı taşır?**
+    - A-) Sanatın statüsünün değişmesi
+    - B-) Sanatçının statüsünün değişmesi
+    - C-) Estetik duygusunun değişmesi
+    - **Cevap D-) Sanat eserinin statüsünün değişmesi**
+    - E-) Sanata ilginin azalması
+    ***
+1. **Diğer bütün toplumsal olgularda olduğu gibi sanatı da ekonomik koşulları ve sınıf çatışmalarını esas alarak açıklamaya çalışan düşünce aşağıdakilerden hangisidir?**
+    - A-) Liberal düşünce
+    - **Cevap B-) Marksist düşünce**
+    - C-) Muhafazakârlık
+    - D-) Anarşizm
+    - E-) Faşizm
+    ***
+1. **Pierre Bourdieu Avrupa müzelerinin ziyaretçi kitlesi ve bu kitleye mensup olanların ayırt edici özelliklerini, müze konusundaki tutumlarını ve sanatsal seçimlerini ele alan sistematik bir çalışma yapmıştır.<br />Bu çalışmanın amacı aşağıdakilerden hangisidir?**
+    - A-) Sanat literatürüne katkı sağlamak.
+    - B-) Sanata ilgiyi artırmak.
+    - C-) Müzelerin ziyaretçi sayısını tespit etmek.
+    - D-) Sanatın önemini ortaya koymak.
+    - **Cevap E-) Sanatta davranış farklılıklarını açıklamak.**
+    ***
+1. **Pierre Bourdieu’nun bireyin bilincinde olmadan bir çevreye özgü oluş-duruş tarzlarını içselleştirmesi, tutarlılık taşıyan bir yetenekler, alışkanlıklar bütününü geliştirmesi olarak adlandırdığı kavram aşağıdakilerden hangisidir?**
+    - **Cevap A-) Habitus**
+    - B-) Kültürel birikim
+    - C-) Sosyal sermaye
+    - D-) Entelektüel imaj
+    - E-) Üst bilinç
+    ***
+1. **Aşağıdakilerden hangisi başlıca tabakalaşma tiplerinden biri değildir?**
+    - A-) Feodal zümre
+    - B-) Sosyal sınıf
+    - C-) Kölelik
+    - **Cevap D-) Cinsiyet**
+    - E-) Kast
+    ***
+1. **Tipik olarak Orta Çağ Avrupa’sında görülen ve toprak sahipliğine dayalı tabakalaşma türü aşağıdakilerden hangisidir?**
+    - A-) Sosyal sınıf
+    - **Cevap B-) Feodal zümre**
+    - C-) Kast
+    - D-) Kölelik
+    - E-) Sosyal grup
+    ***
+1. **Sanatın toplumsal tarihini sosyal ekonomik koşulların yansıması olarak yorumlayan düşünür aşağıdakilerden hangisidir?**
+    - A-) Max Weber
+    - B-) Jean Baudrillard
+    - C-) Max Horkeimer
+    - D-) Auguste Comte
+    - **Cevap E-) Arnold Hauser**
+    ***
+1. **Nathalie Heinich Rönesans’la XIX. yüzyıl ortasında birbirini izleyen bazen örtüşen üç eylem tipi tasarlayarak sanatçının statüsünün geçirdiği değişimleri sıralar.<br />Buna göre aşağıdakilerden hangisi krallıktan empresyonist döneme kadar uzanan düzendir?**
+    - A-) Sanatsal yetenek düzeni
+    - B-) İlkel düzen
+    - **Cevap C-) Akademik düzen**
+    - D-) Zanaat düzeni
+    - E-) Modern düzen
+    ***
+1. Bir eserde sanatçı konu aldığı kişilerle birlikte kendisini de resme dâhil etmekle resmin baskın figürlerinden birine dönüşmüştür.<br />**Bu durum aşağıdakilerden hangisini açıklar?**
+    - A-) Sanata ilginin arttığını
+    - **Cevap B-) Sanatçının statüsünün yükseldiğini**
+    - C-) Sanat eserinin statüsünün yükseldiğini
+    - D-) Estetik duygusunun değiştiğini
+    - E-) Sanatçının saray ressamı olduğunu
+    ***
+1. **Sanatçıyı herhangi bir sınıfa bağımlı sayamayacağımız gibi onun hangi grup ya da tabakaya yöneleceğine, hangisini etkileyeceğine çağdaş toplumların çok tabakalı yapısı içinde ancak kendisinin karar verdiğini savunan düşünür aşağıdakilerden hangisidir?**
+    - **Cevap A-) Karl Manheim**
+    - B-) Max Weber
+    - C-) Karl Marx
+    - D-) Arnold Hauser
+    - E-) Thorstein Veblen
+    ***
+1. **Sanat müzeleri ziyareti ve eğitim seviyesi arasındaki ilişkiden yola çıkan Pierre Bourdieu, Marksist ekonomik sermaye kavramına ek olarak diplomalarla ölçülen bir sermaye türü olarak aşağıdaki kavramlardan hangisini kullanır?**
+    - A-) Sanatsal sermaye
+    - B-) Entelektüel sermaye
+    - C-) Akademik sermaye
+    - D-) Sosyal sermaye
+    - **Cevap E-) Kültürel sermaye**
+    ***
+1. I. Halk Sanatı<br />II. Popüler Sanatı<br />III. Aydın Sanatı<br />**Arnold Hauser'e göre burjuva tabakalarının karşılığı olarak estetik tabakalara ayrılmıştır. Yukardakilerden hangileri bu tabakalardır?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) Yalnız III
+    - D-) I ve II
+    - **Cevap E-) I, II ve III**
+    ***
+1. **İçinde bir grup insanın kendi iradelerine rağmen tutuldukları, başkalarının mülkü olarak görüldükleri, sahipleri tarafından alınıp satılabilen insanlardan oluşan tabakalaşma biçimi aşağıdakilerden hangisidir?**
+    - **Cevap A-) Kölelik**
+    - B-) Kast Sistemi
+    - C-) Feodal Zümre
+    - D-) Sosyal Sınıf
+    - E-) Yüksek Sınıf
+    ***
+## Unite 9
+1. **“Mimesis” kavramının karşılığı aşağıdakilerden hangisidir?**
+    - A-) Yüce
+    - B-) Yansıma
+    - **Cevap C-) Taklit**
+    - D-) Gerçek
+    - E-) Hayal
+    ***
+1. **"Sanat; insan tarafından hissedilen, algılanan duygu ve düşünce zincirinin ahlak kuralları çerçevesinde tasviri veya resmidir." tanımı aşağıdakilerden hangisine aitir?**
+    - A-) N. Nirun
+    - B-) Platon
+    - C-) Aristoteles
+    - D-) Sokrates
+    - **Cevap E-) Tolstoy**
+    ***
+1. ……………………………….’e göre sanat, toplumsal yapının bir ürünüdür; dolayısıyla toplumsal yapıya bağlı olarak ortaya çıkar, gelişir ve değişir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi geltirilmelidir?**
+    - **Cevap A-) S. Güllülü**
+    - B-) N. Nirun
+    - C-) Aristoteles
+    - D-) Haviland
+    - E-) Cornejo
+    ***
+1. **Bilinen ilk sanat ürünleri aşağıdaki hangi zaman diliminde ortaya çıkmıştır?**
+    - A-) M.Ö. 10.000 - 20.000
+    - **Cevap B-) M.Ö. 40.000 - 20.000**
+    - C-) M.Ö. 5000 - 10.000
+    - D-) M.Ö. 50.000 - 30.000
+    - E-) M.Ö. 20.000 – 30.000
+    ***
+1. **Aşağıdaki hangi yüzyılın sonlarıyla beraber “sanat” “zanaat”ten net bir biçimde ayırt edilmeye başlanmıştır?**
+    - **Cevap A-) 18**
+    - B-) 17
+    - C-) 16
+    - D-) 15
+    - E-) 20
+    ***
+1. **Aşağıdakilerden hangisi “sanatın cinsel içgüdü”den doğduğunu söylemektedir?**
+    - A-) Aristoteles
+    - B-) R. Bastide
+    - C-) Huizinga
+    - D-) Nunez
+    - **Cevap E-) Darwin**
+    ***
+1. Bir sanatçı olmasının yanında aynı zamanda fizikçi ve eğitimci de olan ………………………………, yaratıcılığın kaynağının insan beyni olduğunu ve beynin sadece bir kısmının değil tümünün yaratıcılıkta aktif olduğunu savunmaktadır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Nunez
+    - **Cevap B-) N. Hermann**
+    - C-) G. Wallis
+    - D-) S. Güllülü
+    - E-) N. Nirun
+    ***
+1. **Aşağıdakilerden hangisi Avrupa Konseyi Sanat Eğitimi Çalışma Grubu’nun sanat eğitiminin kalitesini artırmak ve ortak bir dil geliştirmek için aldığı kararlardan biri değildir?**
+    - A-) Sanatta hangi alanların olduğu belirlenmelidir.
+    - B-) Sanat eğitimi ile farklı eğitim alanları arasındaki ilişki belirlenmelidir.
+    - C-) Sanat eğitimiyle ilgili olarak mecburi, seçmeli ve eylemsel sanat eğitimi alanları belirlenmelidir.
+    - D-) Sanat eğitimini icra eden kişilerin ve sanatçıların mesleki donanımları yeniden saptanmalıdır.
+    - **Cevap E-) Sanat eğitimi toplumdaki belirli bir kesimi kapsayacak şekilde düzenlenmelidir.**
+    ***
+1. **Aşağıdakilerden hangisi sanat eğitiminin ilkesel temellerinden biri değildir?**
+    - A-) Sanat dersleri kendi ilke ve amaçlarına uygun olmalıdır.
+    - B-) Sanat eğitimi derslerinde gerekli ilgi ortamı sağlanmalıdır.
+    - C-) Sanat eğitiminde çevresel imkânlar ve fırsatlar eğitim sürecine dâhil edilmelidir.
+    - **Cevap D-) Sanat eğitiminde bireysel farklılıklar üzerinde çok durulmamalıdır.**
+    - E-) Sanat eğitimi genel anlamdaki eğitimin bir parçasıdır.
+    ***
+1. **Aşağıdakilerden hangisi sanatın oyundan doğduğunu söyleyen düşünürlerden biri değildir?**
+    - **Cevap A-) Nunez**
+    - B-) Kant
+    - C-) Schiller
+    - D-) Plehanov
+    - E-) Huizinga
+    ***
+1. Sanat, Antik Yunan’da özellikle …………………….. düşüncesinde sistematik hâle gelen tanım içerisinde mimesis ya da taklitle özdeş bir temsil aracı olarak görülmüştür.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Sokrates'in
+    - **Cevap B-) Eflatun'un**
+    - C-) Aristoteles'in
+    - D-) Kant'ın
+    - E-) Schiller'in
+    ***
+1. ……………………. göre, tüm insan toplulukları sanatı farklı ifade biçimleri içinde tanımakla birlikte ilk kez ortaya çıkan sanat dalı şarkı ve danstır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Darwin'e
+    - B-) Eflatun'a
+    - C-) Kant'a
+    - **Cevap D-) Cornejo'ya**
+    - E-) Bastide'e
+    ***
+1. **Sanatın özünün “belli bir yalan türü” olduğunu söyleyen düşünür aşağıdakilerden hangisidir?**
+    - A-) Hegel
+    - **Cevap B-) Nietzche**
+    - C-) Bastide
+    - D-) Çernişevski
+    - E-) Huizinga
+    ***
+1. **Sanatın, “büyü ve dinden” doğduğunu söyleyen düşünür aşağıdakilerden hangisidir?**
+    - A-) Darwin
+    - **Cevap B-) Bastide**
+    - C-) Plehanov
+    - D-) Huizinga
+    - E-) Kant
+    ***
+1. **Aşağıdakilerden hangisi sanat eğitiminin ilkesel temellerinden biri değildir?**
+    - A-) Çocukların yaratıcı özelliklerinin ortaya çıkarılabilmesi için sanat eğitiminin herkese sunulması gerekir.
+    - B-) Sanat eğitiminde bireysel farklılıklar dikkate alınmalıdır.
+    - C-) Sanat dersleri kendi ilke ve amaçlarına uygun olmalıdır.
+    - D-) Sanat eğitimi derslerinde gerekli ilgi ortamı sağlanmalıdır.
+    - **Cevap E-) Sanat eğitiminde çevresel imkânlar ve fırsatlar eğitim sürecinin dışında bırakılmalıdır.**
+    ***
+1. **Resim çizme etkinliğini bir tür dil olarak gören düşünür aşağıdakilerden hangisidir?**
+    - A-) Schiller
+    - **Cevap B-) Humboldt**
+    - C-) Herder
+    - D-) Goethe
+    - E-) Kant
+    ***
+1. **Bazı düşüncelerin, duyguların veya olayların deneyimlerinin beceri ve düş gücünün kullanılmasıyla diğer insanlara iletilmesi durumunu ifade eden kavram aşağıdakilerden hangisidir?**
+    - **Cevap A-) Sanat**
+    - B-) Edebiyat
+    - C-) Sosyoloji
+    - D-) Felsefe
+    - E-) Tarih
+    ***
+1. **Rastlantıdan doğduğunu ileri süren düşünür aşağıdakilerden hangisidir?**
+    - **Cevap A-) Nunez**
+    - B-) Kant
+    - C-) Darwin
+    - D-) Roger Bastide
+    - E-) Hirm
+    ***
+1. **Beynin sağ yarım küresinin gelişiminin sağlanması hangi eğitim alanının dersleriyle mümkündür?**
+    - **Cevap A-) Sanat**
+    - B-) Matematik
+    - C-) Edebiyat
+    - D-) Spor
+    - E-) Fizik
+    ***
+## Unite 10
+1. Böylece eski zamanlarda yaşamış toplumların inanmak üzere yarattığı tanrılar, periler, devler, kahramanlar ve onların hikâyeleri, ............... oluşturur.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) filolojiyi
+    - B-) terminolojyi
+    - C-) dramaturjiyi
+    - **Cevap D-) mitolojiyi**
+    - E-) eskatolojiyi
+    ***
+1. Bir bütünün parçaları olan mitler, .................................. ve ................................. ürünüdür.<br />**Cümlede boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) bireysel gayretin - duygu düzlemin
+    - **Cevap B-) kolektif bir bilincin - yerleşik bir sistemin**
+    - C-) tanrısal ilhamın - kültürel sistemin
+    - D-) bireysel dürtülerin - varoluşsal güdülerin
+    - E-) sosyolojik - psikolojik emeklerin
+    ***
+1. **“İlkel Mitoloji - Tanrının Maskeleri” adlı eser aşağıdaki düşünürlerden hangisine aittir?**
+    - **Cevap A-) Joseph Campbell**
+    - B-) Christopher Dell
+    - C-) Terry Eagleton
+    - D-) Mircea Eliade
+    - E-) Pierre Grimal
+    ***
+1. **Aşağıdakilerden hangisi mitlerin ortak özelliklerinden biri değildir?**
+    - A-) Değişim
+    - B-) Etkileşim
+    - C-) Dinsellik
+    - D-) Toplumsallık
+    - **Cevap E-) Tarihsellik**
+    ***
+1. Farklı kültürler arasındaki .........................., bu kültürlere ait mitlerin birbirlerini etkilemelerine sebep olmuştur?<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) çıkar çatışmaları
+    - B-) uyum süreçleri
+    - **Cevap C-) iletişim ve etkileşimler**
+    - D-) uyuşmazlıklar
+    - E-) duygu ve düşünceler
+    ***
+1. **"Yunan mitolojisindeki Kiklop ile Dede Korkut Kitabı’ndaki Tepegöz büyük ölçüde benzeşmektedir." cümlesi mitolojilerin hangi özelliği ile ilgilidir?**
+    - **Cevap A-) Etkileşim**
+    - B-) Değişim
+    - C-) Dinsellik
+    - D-) Toplumsallık
+    - E-) Değişmezlik
+    ***
+1. **Yunan mitolojisindeki tanrılardan biri olan ve birçok sanat dalı tarafından konu edilen Dionysos, aşağıdakilerden hangisini temsil etmez?**
+    - A-) Coşkuyu
+    - **Cevap B-) Ölçüyü**
+    - C-) Heyecanı
+    - D-) Özgürlüğü
+    - E-) Kalıpların dışına çıkmayı
+    ***
+1. ......................, daha çok kronolojik olmayan bir bakış açısıyla evrenin, dünyanın, yeryüzü şekillerinin ve insanın oluşumunu açıklayan mitlerdir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Teogoni
+    - B-) Antropogoni
+    - C-) Antropoloji
+    - D-) Eskatoloji
+    - **Cevap E-) Kozmogoni**
+    ***
+1. **Aşağıdakilerden hangisi mitlerin işlevlerinden biri değildir?**
+    - A-) Dinsellik
+    - B-) Toplumsallık
+    - **Cevap C-) Bireysellik**
+    - D-) Kültürel
+    - E-) Psikolojik
+    ***
+1. ....................., maddesel kalıcılığı sayesinde farklı uygarlıklara ait mitolojik anlatıları konu edinmiş ve bunların sahip oldukları değerleri, metaforları ve imgeleri kendi diliyle aktarmaya çalışmıştır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Resim sanatı
+    - **Cevap B-) Heykel sanatı**
+    - C-) Sinema sanatı
+    - D-) Edebiyat sanatı
+    - E-) Tiyatro sanatı
+    ***
+1. **Türk Dil Kurumu’nun “bir duygu, tasarı, güzellik vb.nin anlatımında kullanılan yöntemlerin tamamı veya bu anlatımın sonucunda ortaya çıkan üstün yaratıcılık” olarak tanımladığı kavram aşağıdakilerden hangisidir?**
+    - A-) Mitoloji
+    - B-) Sürrealizm
+    - **Cevap C-) Sanat**
+    - D-) Dadaizm
+    - E-) Trajedi
+    ***
+1. **Ulysses adlı romanın yazarı aşağıdakilerden hangisidir?**
+    - **Cevap A-) James Joyce**
+    - B-) Mircea Eliade
+    - C-) Jack London
+    - D-) Terry Eagleton
+    - E-) Samuel Beckett
+    ***
+1. Nietzsche’ye göre Yunan mitolojisinde Apollon .................. ve Dionysos .................. temsil etmektedir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) aklı - içgüdüyü**
+    - B-) sanatı - bilimi
+    - C-) geçmişi - geleceği
+    - D-) ibadeti - eğlenceyi
+    - E-) eleştiriyi - benimsemeyi
+    ***
+1. **Oidipus trajedisi aşağıdakilerden hangisine aittir?**
+    - A-) Homeros
+    - B-) Aiskhylos
+    - C-) Euripides
+    - **Cevap D-) Sophokles**
+    - E-) Eshilos
+    ***
+1. Tanzimat’tan sonra, bilhassa ................ edebiyatından yapılan çeviriler ile birlikte Yunan Mitolojisi'ne yönelen yazar ve şairler, mitolojik unsurları eserlerinde konu etmişlerdir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Rus
+    - B-) İran
+    - C-) Alman
+    - D-) İngiliz
+    - **Cevap E-) Fransız**
+    ***
+1. Dünyayı kuran ve düzenleyen tanrıların, evrenin, yaratılışın hikâyesini anlatan mitler …............ bir özellik taşırken, ortaya çıktıkları toplumların yaşamını, zihin dünyasını, norm ve değerlerini, kural ve yasaklarını yansıtan mitler ise …............ özellik taşır.<br />**Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?**
+    - A-) toplumsal/değişken
+    - B-) değişken/toplumsal
+    - C-) değişken/dinsel
+    - **Cevap D-) dinsel/toplumsal**
+    - E-) dinsel/değişken
+    ***
+1. I. Gılgamış<br />II. Akhilleus<br />III. Oğuz Kağan<br />IV. Herakles<br />**Yukarıdaki destanlardan hangisi ya da hangileri kahramanlık destanlarından değildir?**
+    - A-) Yanlız I
+    - **Cevap B-) Yanlız III**
+    - C-) I ve II
+    - D-) III ve IV
+    - E-) I, II ve IV
+    ***
+1. **Sanatın köklerini mitlerde arayan mitin kendisinin de bir sanat biçimi olduğunu söyleyen düşünür aşağıdakilerden hangisidir?**
+    - **Cevap A-) Nietzsche**
+    - B-) Aristoteles
+    - C-) Hegel
+    - D-) Platon
+    - E-) Kant
+    ***
+## Unite 11
+1. **Dijital kelimesinin etimolojik kökeni olan Latince “digitus” kelimesinin anlamı aşağıdakilerden hangisidir?**
+    - **Cevap A-) Parmak**
+    - B-) El
+    - C-) Göz
+    - D-) Beyin
+    - E-) Kalp
+    ***
+1. **Sanatçının işin sanat yönü yoğun olmayan ama emeği yoğun olan, fazlaca vakit alan kimi kısımlarını bilgisayara yaptırdığı dijital sanat türü aşağıdakilerden hangisidir?**
+    - A-) Bilgisayar üretimli dijital sanat
+    - **Cevap B-) Bilgisayar destekli dijital sanat**
+    - C-) Bilgisayar yönelimli dijital sanat
+    - D-) Bilgisayar işlemcili dijital sanat
+    - E-) Bilgisayar tüketimli dijital sanat
+    ***
+1. **Politik söylemli dijital sanat eserlerini ve internetin özgürlükçü ortamını ifade etmek için kullanılabilecek olan McLuhan’a ait söz aşağıdakilerden hangisidir?**
+    - A-) Sanat mesajdır.
+    - B-) Sanat ortamdır.
+    - **Cevap C-) Ortam mesajdır.**
+    - D-) Mesaj sanattır.
+    - E-) Mesaj ortamdır.
+    ***
+1. **Bilgisayar sanatı tanımının ilk kez yapıldığı dergi aşağıdakilerden hangisidir?**
+    - A-) Cyber Computer
+    - B-) Cybernetic Serendipity
+    - C-) Computer and Humankind
+    - **Cevap D-) Computers and Automation**
+    - E-) Computur Magazine
+    ***
+1. **Bilgisayar sanatıyla uğraşanların işlerini kolaylaştırmak üzere yazılan ilk programlardan olan 1970 tarihli bilgisayar programı aşağıdakilerden hangisidir?**
+    - A-) ART 365
+    - B-) ART 13
+    - C-) ART 24
+    - D-) ART 7/24
+    - **Cevap E-) ART 1**
+    ***
+1. **Ressam yapay zekâ sanatçıların ilk örneklerinden olup 1970’lerde Profesör Harold Cohen tarafından geliştirilen robot aşağıdakilerden hangisidir?**
+    - **Cevap A-) AARON**
+    - B-) ART 1
+    - C-) Virtua 13
+    - D-) Red Queen
+    - E-) X1Y2Z3
+    ***
+1. **Dijital sanatların lokomotifi olan sanat dalı aşağıdakilerden hangisidir?**
+    - A-) İşitsel dijital sanatlar
+    - **Cevap B-) Görsel dijital sanatlar**
+    - C-) Edebî dijital sanatlar
+    - D-) Dijital mimari
+    - E-) Kompleks dijital sanatlar
+    ***
+1. **Türkçesi bilgisayar destekli animasyon olan kavramın kısaltması aşağıdakilerden hangisidir?**
+    - A-) CGI
+    - B-) CGA
+    - **Cevap C-) CAA**
+    - D-) CIG
+    - E-) CGE
+    ***
+1. **Bilgisayar destekli animasyon yaparken bilgisayardan beklenen görüntüler arasındaki hareket efektini verecek şekilde çizim tekrarlarını oluşturması işlemi aşağıdakilerden hangisidir?**
+    - A-) Repating
+    - B-) Gapping
+    - C-) Doubling
+    - **Cevap D-) Tweening**
+    - E-) Matching
+    ***
+1. **Kavislerle tanınan, dijital mimarinin temsilcisi aşağıdakilerden hangisidir?**
+    - A-) Ftank Gehry
+    - B-) Renzo Piano
+    - C-) Rem Koolhaas
+    - D-) Ieoh Ming Pei
+    - **Cevap E-) Zaha Hadid**
+    ***
+1. **1938 sonrasında sayısal bilgisayar teknolojilerini, 1945 sonrasında ise kayıt ve yayın teknolojilerini tanımlamak üzere kullanılan dijital teriminin karşıtı aşağıdakilerden hangisidir?**
+    - **Cevap A-) Analog**
+    - B-) Sayısal
+    - C-) Numerik
+    - D-) Otomatik
+    - E-) Geleneksel
+    ***
+1. **Sanatçının bilgisayarın süreci tamamlanmasına izin verdiği dijital sanat aşağıdakilerden hangisidir?**
+    - A-) Bilgisayar destekli dijital sanat
+    - **Cevap B-) Bilgisayar üretimli dijital sanat**
+    - C-) Bilgisayar yönelimli dijital sanat
+    - D-) Bilgisayar işlemcili dijital sanat
+    - E-) Bilgisayar tüketimli dijital sanat
+    ***
+1. **2. Körfez Savaşı sırasındaki hava saldırılarını eleştiren ve savaş karşıtı bir söylemi olan dijital sanat ürünü aşağıdakilerden hangisidir?**
+    - A-) İrannica
+    - B-) Lübnanica
+    - **Cevap C-) Iraqnica**
+    - D-) Türkonica
+    - E-) Armenica
+    ***
+1. **Aşağıdakilerden hangisi ilk dijital sanatçılardan biri değildir?**
+    - A-) Nam June Paik
+    - B-) Leslie Mezei
+    - C-) Georg Nees
+    - **Cevap D-) Andy Warhol**
+    - E-) Charles Csuri
+    ***
+1. **Dijital sanatçıların görsel işlerinde sıkça kullandıkları Illustrator ve Photoshop programlarının sahibi olan firma hangisidir?**
+    - A-) Xerox
+    - B-) Amiga
+    - C-) Commadore
+    - D-) Apple
+    - **Cevap E-) Adobe**
+    ***
+1. **Geleneksel ve dijital yöntemler ile imkânların bir arada kullanıldığı işleri tanımlamak için kullanılan kavram aşağıdakilerden hangisidir?**
+    - **Cevap A-) Tradigital**
+    - B-) Retrodigital
+    - C-) Nostadigital
+    - D-) Predigital
+    - E-) Postdigital
+    ***
+1. **Görüntünün en küçük bileşeni, genellikle nokta ya da kare ile ifade edilen görüntü parçacığı olarak tanımlanan kavram aşağıdakilerden hangisidir?**
+    - A-) CGI
+    - B-) Render
+    - **Cevap C-) Piksel**
+    - D-) Kaplama
+    - E-) Çözünürlük
+    ***
+1. Dijital fotoğraf makineleri ile yapılan fotoğrafçılığı tanımlayan bu sanata…...........; Sanatçının resmi yaparken bilgisayar teknolojilerinden faydalandığı çalışmalara…............... adı verilir.<br />**Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Dijital fotoğrafçılık/ Dijital illüstrasyon
+    - B-) Dijital illüstrasyon/ Dijital fotoğrafçılık
+    - C-) Dijital kolaj/ Animasyon
+    - **Cevap D-) Dijital fotoğrafçılık/ Dijital resim**
+    - E-) Dijital resim/ Animasyon
+    ***
+1. **İlk örneği 1987’de yapılan, 2010 sonrasında küresel çapta viral şekilde ifadeleri aktarma ve kitle iletişimi biçimine dönüşen görüntü formatı olan sanat türü aşağıdakilerden hangisidir?**
+    - **Cevap A-) GIF sanatı**
+    - B-) Piksel sanatı
+    - C-) Animasyon
+    - D-) Dijital kolaj
+    - E-) Render sanatı
+    ***
+## Unite 12
+1. **Günümüzün en değerli sanat tablolarının sahibi Vincent Van Gogh hayattayken kaç tablo satabilmiştir?**
+    - **Cevap A-) 1**
+    - B-) 32
+    - C-) 45
+    - D-) 60
+    - E-) 100
+    ***
+1. **Aşağıdakilerden hangisi 2019 yılının sonlarına doğru İtalyan sanatçı Maurizio Cattelan’ın bir muz ve banttan oluşan eserinin adıdır?**
+    - A-) Guernica
+    - B-) Öpücük
+    - C-) İnci Küpeli Kız
+    - D-) Mona Lisa
+    - **Cevap E-) Komedyen**
+    ***
+1. **Aşağıdakilerden hangisi tarafından buhar makinesi icat edilmiştir?**
+    - A-) Thomas Edison
+    - B-) Alexander Fleming
+    - C-) Johannes Gutenberg
+    - **Cevap D-) James Watt**
+    - E-) Alexander Graham Bell
+    ***
+1. **Aşağıdaki tarihî olaylardan hangisi Fukuyama’nın “Tarihin sonu mu?” sorusunu ortaya çıkarmıştır?**
+    - A-) I. Dünya Savaşı
+    - B-) II. Dünya Savaşı
+    - **Cevap C-) Berlin Duvarı’nın Yıkılışı**
+    - D-) Fransız Devrimi
+    - E-) Sanayi Devrimi
+    ***
+1. **İnternet ilk olarak hangi amaçla kullanılmıştır?**
+    - A-) Tıbbi
+    - **Cevap B-) Askerî**
+    - C-) Turistik
+    - D-) Medyatik
+    - E-) Ticari
+    ***
+1. **Bilgi çağının devrimsel teknolojik aracı aşağıdakilerden hangisidir?**
+    - **Cevap A-) İnternet**
+    - B-) Televizyon
+    - C-) Uçak
+    - D-) Araba
+    - E-) Tren
+    ***
+1. **Dünyanın halka açık ilk büyük sanat müzesi aşağıdakilerden hangisidir?**
+    - A-) Topkapı Sarayı Müzesi
+    - **Cevap B-) Louvre Müzesi**
+    - C-) Metropolitan Müzesi
+    - D-) British Museum
+    - E-) Çin Ulusal Müzesi
+    ***
+1. **“Mona Lisa” adlı eser aşağıdaki sanatçılardan hangisine aittir?**
+    - A-) Van Gogh
+    - B-) Pablo Picasso
+    - C-) Salvador Dali
+    - D-) Michelangelo
+    - **Cevap E-) Leonardo da Vinci**
+    ***
+1. **Metropolitan Müzesi aşağıdaki şehirlerin hangisindedir?**
+    - A-) Londra
+    - B-) Paris
+    - **Cevap C-) New York**
+    - D-) Washington
+    - E-) Vatikan
+    ***
+1. **Aşağıdakilerden hangisi “pratik sanat'ın” diğer bir adıdır?**
+    - A-) Edebî sanat
+    - B-) Sanal sanat
+    - C-) Ulusal sanat
+    - **Cevap D-) Endüstriyel sanat**
+    - E-) Görsel sanat
+    ***
+1. **Dünyanın yedi harikasına yönelik ilk liste aşağıdakilerden hangisi tarafından düzenlenmiştir?**
+    - A-) Platon
+    - B-) Aristo
+    - C-) Leonardo da Vinci
+    - **Cevap D-) Sidonlu Antipatros**
+    - E-) Aquinalı Thomas
+    ***
+1. **Aşağıda yer alan dünyanın yedi harikasından hangisi günümüze kadar ulaşmıştır?**
+    - A-) İskenderiye Feneri
+    - B-) Rodos Heykeli
+    - C-) Kral Mausollos’un Mezarı
+    - D-) Zeus Heykeli
+    - **Cevap E-) Keops Piramidi**
+    ***
+1. **Aşağıdakilerden hangisi Louvre Müzesi’nin bulunduğu ülkedir?**
+    - A-) İngiltere
+    - **Cevap B-) Fransa**
+    - C-) Almanya
+    - D-) Belçika
+    - E-) Kanada
+    ***
+1. **Liberalizmin zaferini vurgulayan “Tarihin Sonu” kavramı aşağıdaki düşünürlerden hangisine aittir?**
+    - A-) A. Giddens
+    - B-) Z. Bauman
+    - C-) K. Marx
+    - **Cevap D-) F. Fukuyama**
+    - E-) K. Lynch
+    ***
+1. **“Akropolis” aşağıdaki şehirlerden hangisinde yer alır?**
+    - **Cevap A-) Atina - Yunanistan**
+    - B-) İzmir - Türkiye
+    - C-) Roma - İtalya
+    - D-) Bükreş - Romanya
+    - E-) Münih - Almanya
+    ***
+1. **Küreselleşmenin akıntıları içinde rahatça hareket eden ve tüketim toplumunun aktif üyeleri olarak adlandırılan toplumsal grup aşağıdakilerden hangisidir?**
+    - **Cevap A-) Turistler**
+    - B-) Aylaklar
+    - C-) Çaylaklar
+    - D-) Hiperaktifler
+    - E-) Düzenbazlar
+    ***
+1. **Aşağıdakilerden hangisi Londra’da bulunan müzelerden biri değildir?**
+    - A-) Tate Modern Müzesi
+    - **Cevap B-) Louvre Müzesi**
+    - C-) British Museum
+    - D-) National Gallery
+    - E-) Victoria and Albert
+    ***
+## Unite 13
+1. **Aşağıdakilerden hangisi maddi kültür öğelerinden biridir?**
+    - A-) Ahlaki değerler
+    - **Cevap B-) Giysi**
+    - C-) Gelenek
+    - D-) İnanç
+    - E-) Norm
+    ***
+1. **Özellikle azınlıkta olan gruplarca benimsenen kültür çeşidi aşağıdakilerden hangisidir?**
+    - **Cevap A-) Alt**
+    - B-) Egemen
+    - C-) Baskın
+    - D-) Popüler
+    - E-) Asıl
+    ***
+1. **Toplumsal yapı içerisinde nesilden nesile aktarılan ve halkın yaşamının ayrılmaz parçası olarak ve anonim şekilde oluşan kültüre ne ad verilir?**
+    - A-) Popüler kültür
+    - B-) Kitch
+    - C-) Pop Art
+    - D-) Baskın kültür
+    - **Cevap E-) Folk kültürü**
+    ***
+1. **Çalışma etiği kavramı hangi toplum tipinde önemli sayılmaktadır?**
+    - **Cevap A-) Üretim**
+    - B-) Tüketim
+    - C-) Geleneksel
+    - D-) Postmodern
+    - E-) Pre-kapitalist
+    ***
+1. **Çalışma etiğinin yerine geçen kavram aşağıdakilerden hangisidir?**
+    - A-) Seküler ahlak
+    - B-) Muhafazakârlık
+    - **Cevap C-) Tüketim estetiği**
+    - D-) Üretim talebi
+    - E-) İşçi sınıfı
+    ***
+1. **Aşağıdakilerden hangisi tüketim kültürü insanını mutlu keyifle sonuçlanan bir yok oluş olarak değerlendirir?**
+    - A-) Bauman
+    - B-) Zizek
+    - C-) Giddens
+    - D-) Baudrillard
+    - **Cevap E-) Bruckner**
+    ***
+1. **Sanatçıya tüketime yardımcı olabilecek bir obje oluşturmasını ve bunun sanat olarak değer kazanmasını öneren aşağıdakilerden hangisidir?**
+    - A-) Sosyalizm
+    - **Cevap B-) Kapitalizm**
+    - C-) Faşizm
+    - D-) Marksizm
+    - E-) Feodalizm
+    ***
+1. **Gündelik olanın sanatlaştırılması ya da yüceltilmesi olarak da adlandırılan kavram aşağıdakilerden hangisidir?**
+    - A-) Antik sanat
+    - B-) İdol
+    - C-) Venüs
+    - **Cevap D-) Pop art**
+    - E-) Etik
+    ***
+1. **Aşağıdakilerden hangisi sanatın tüketilen bir nesne olduğunun kanıtıdır?**
+    - A-) Mona Lisa tablosu
+    - B-) İnci Küpeli Kız tablosu
+    - C-) Son Akşam Yemeği adlı çalışma
+    - D-) Yıldızlı Gece çalışması
+    - **Cevap E-) Komedyen adlı muz çalışması**
+    ***
+1. **Aşağıdakilerden hangisi Zolberg’e göre popüler sanat olarak kabul edilmektedir?**
+    - A-) Bale
+    - B-) Modern dans
+    - C-) Deneysel tiyatro
+    - **Cevap D-) Müzikal komedi**
+    - E-) Opera
+    ***
+1. **Fertlerin kazandığı inanç, sanatsal faaliyet, bilgi, gelenek, ahlaki değerler ve alışkanlıklara ne ad verilir?**
+    - **Cevap A-) Kültür**
+    - B-) Pop art
+    - C-) İdol
+    - D-) Estetik
+    - E-) Ahlak
+    ***
+1. **Yazılı ve yazısız kuralların bütününü, inanç, gelenek ve normları barındıran kültür türü aşağıdakilerden hangisidir?**
+    - A-) Maddi
+    - **Cevap B-) Manevi**
+    - C-) Baskın
+    - D-) Alt
+    - E-) Karşıt
+    ***
+1. **Üretim toplumunun ahlaki nitelik arz eden kavramı aşağıdakilerden hangisidir?**
+    - **Cevap A-) Çalışma etiği**
+    - B-) Tüketim ahlakı
+    - C-) Kadim değerler
+    - D-) Geleneksel etik
+    - E-) Üretim estetiği
+    ***
+1. **Popüler kültür içerisinde tutum ile davranışların önüne geçen kavram aşağıdakilerden hangisidir?**
+    - **Cevap A-) İmaj**
+    - B-) Ahlak
+    - C-) Etik
+    - D-) Norm
+    - E-) Üretim
+    ***
+1. I. İnanç<br />II. Gelenekler<br />III. Yazısız kurallar<br />**Yukarıdakilerden hangisi ya da hangileri manevi kültür ögeleri arasında yer alır?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. I. Kullan at kültürünü yaygınlaştırmaktadır.<br />II. Üretimi desteklemektedir.<br />III. Tasarruf duygusunu ortadan kaldırmaktadır.<br />**Yukarıda popüler kültür ile ilgili verilen bilgilerden hangisi ya da hangileri doğrudur?**
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - **Cevap D-) I ve III**
+    - E-) I, II ve III
+    ***
+1. **Sanat dünyasında "zevkten yoksun, bayağı, ucuz edebiyat" olarak tanımlanan sanat akımı aşağıdakilerden hangisidir?**
+    - **Cevap A-) Kitsch**
+    - B-) Pop Art
+    - C-) Empresyonizm
+    - D-) Kübizm
+    - E-) Ekspresyonizm
+    ***
+1. **Toplumsal yapı içerisinde nesilden nesile aktarılan ve halkın yaşamının ayrılmaz parçası olarak ve anonim şekilde oluşan kültüre ne ad verilir?**
+    - A-) Kitle Kültürü
+    - B-) Egemen Kültür
+    - C-) Alt Kültür
+    - D-) Karşı Kültür
+    - **Cevap E-) Folk Kültürü**
+    ***
+## Unite 14
+1. **Osmanlı mimarisinde, hangi yapı, barok sanatının en anıtsal örneğini oluşturmaktadır?**
+    - A-) Eminönü Yeni Camii
+    - B-) Bebek Camii
+    - C-) Kocatepe Camii
+    - **Cevap D-) Nuruosmaniye Camii**
+    - E-) Sancaklar Camii
+    ***
+1. **19. yüzyılda yurt dışında resim eğitimi alan ressamlar arasında hangisi yer alır?**
+    - A-) Hikmet Onat
+    - **Cevap B-) Süleyman Seyyid**
+    - C-) İbrahim Çallı
+    - D-) Avni Lifij
+    - E-) Feyhaman Duran
+    ***
+1. **Çallı Kuşağı olarak da bilinen 1914 Kuşağı içerisinde hangi ressam yer almaz?**
+    - A-) Ali Sami Boyer
+    - B-) Namık İsmail
+    - C-) Avni Lifij
+    - D-) Nazmi Ziya
+    - **Cevap E-) Osman Hamdi**
+    ***
+1. **Türk resim sanatında, kadın figürünü ilk kez resmeden sanatçı kimdir?**
+    - **Cevap A-) Osman Hamdi Bey**
+    - B-) Şeker Ahmet Paşa
+    - C-) İbrahim Çallı
+    - D-) Feyhaman Duran
+    - E-) Hikmet Onat
+    ***
+1. I. Müstakiller Grubu<br />II. D Grubu<br />III. Yeniler Grubu<br />IV. Onlar Grubu<br />**Aşağıdakilerden hangisi Türk ressamları tarafından kurulan örgütler arasındadır?**
+    - A-) Yalnız II
+    - B-) Yalnız IV
+    - C-) I ve IV
+    - D-) II, III ve IV
+    - **Cevap E-) I, II, III ve IV**
+    ***
+1. **İnâs Sanâyi-i Nefîse Mektebi’nin kurulma amacı aşağıdakilerden hangisidir?**
+    - A-) Yurt dışına gönderilecek ressamların ilk eğitimlerini sağlama
+    - B-) Mimarlık geleneğini akademik seviyeye taşıma
+    - C-) Sanat eğitimini yabancı hocaların denetiminden arındırma
+    - D-) Türk resim sanatını çağdaş seviyeye ulaştırma
+    - **Cevap E-) Kadın sanatçılara resim ve heykel alanlarında eğitim verme**
+    ***
+1. **Batılı tarzda heykel sanatının ilk Türk temsilcisi aşağıdakilerden hangisidir?**
+    - **Cevap A-) İhsan Özsoy**
+    - B-) İlhan Koman
+    - C-) Nijat Sirel
+    - D-) Mahir Tomruk
+    - E-) İsa Behzat
+    ***
+1. **I. Ulusal Mimari Akım içerisinde hangi üslup yer almaz?**
+    - A-) Barok
+    - B-) Neoklasik
+    - C-) Osmanlı sanatı
+    - D-) Hint mimarisi
+    - **Cevap E-) Kübizm**
+    ***
+1. **Hitit ve Mezopotamya uygarlıklarının sanat etkileri hangi eserde görülmektedir?**
+    - A-) İttihat ve Terakki Binası
+    - B-) İstiklal Savaşı Müzesi
+    - **Cevap C-) Anıtkabir**
+    - D-) Ulus Zafer Anıtı
+    - E-) Menemen Kubilay Anıtı
+    ***
+1. **Günümüz mimari örneklerinden hangisi, 16. yüzyıl klasik Osmanlı mimarisinin etkisini yansıtır?**
+    - A-) Sancaklar Cami
+    - B-) İttihat ve Terakki Binası
+    - **Cevap C-) Ankara Kocatepe Cami**
+    - D-) Yeşilvadi Cami
+    - E-) Karacaahmet Şakirin Cami
+    ***
+1. **1882’de yılında kurularak, mimarlık, resim, heykel ve hat sanatı alanlarında akademik bir eğitim veren kurum aşağıdakilerden hangisidir?**
+    - **Cevap A-) Sanâyi-i Nefîse Mekteb-i Âlîsi**
+    - B-) İnâs Sanâyi-i Nefîse Mektebi
+    - C-) Millî Sanâyi-i Nefîse Cemiyeti
+    - D-) Onlar Grubu
+    - E-) Yeniler Grubu
+    ***
+1. **Heykel sanatının Osmanlı’da ilk uygulayıcı olarak kabul edilen isim aşağıdakilerden hangisidir?**
+    - A-) İlhan Koman
+    - B-) İhsan Özsoy
+    - C-) Nijat Sirel
+    - **Cevap D-) Yervant Oskan**
+    - E-) Paul Bonatz
+    ***
+1. **Aşağıdaki isimlerden hangisi I. Ulusal Mimari Akım mimarlarından biri değildir?**
+    - A-) Mimar Kemalettin
+    - B-) Vedat Tek
+    - C-) Ekrem Hakkı Ayverdi
+    - D-) Tahsin Sermet
+    - **Cevap E-) Emre Onat**
+    ***
+1. **Bulunduğu bölgenin coğrafi şartlarına uygun olarak altı metrelik bir derinliğe inşa edilen modern mimari örneği hangisidir?**
+    - A-) Yeşilvadi Cami
+    - **Cevap B-) Sancaklar Cami**
+    - C-) Menemen Kubilay Anıtı
+    - D-) Karacaahmet Şakirin Cami
+    - E-) Bebek Cami
+    ***
+1. **II. Ulusal Mimari Akım sırasında, yapı malzemeleri ile ilgili açılan kuruluşlar arasında aşağıdakilerden hangisi yer almaz?**
+    - A-) Sümerbank
+    - B-) Etibank
+    - C-) MTA Enstitüsü
+    - D-) Türkiye Sanayi ve Kredi Bankası
+    - **Cevap E-) TMO**
+    ***
+1. **Aşağıdaki ressamlardan hangisi Yeniler Grubu sanatçılarından biri değildir?**
+    - A-) Nuri İyem
+    - B-) Avni Arbaş
+    - C-) Abidin Dino
+    - **Cevap D-) Bedri Baykam**
+    - E-) Turgut Atalay
+    ***
+1. **Farklı sanat disiplinlerinin bir arada uygulanmasını anlatan üslup aşağıdakilerden hangisidir**?
+    - A-) I. Ulusal Mimari Akım
+    - B-) Batılılaşma
+    - **Cevap C-) Eklektizm**
+    - D-) Barok
+    - E-) Rönesans
+    ***
+1. **Cumhuriyet Dönemi’nin ilk sanatçı topluluğu aşağıdakilerden hangisidir?**
+    - **Cevap A-) Müstakil Ressamlar ve Heykeltıraşlar Birliği**
+    - B-) 1914 Çallı Kuşağı
+    - C-) Osmanlı Ressamlar Cemiyeti
+    - D-) D Grubu
+    - E-) Onlar Grubu
+    ***
+1. **Sancaklar Camii'nin mimarı aşağıdakilerden hangisidir?**
+    - **Cevap A-) Emre Arolat**
+    - B-) Hüsrev Tayla
+    - C-) Emin Onat
+    - D-) Mimar Kemalettin
+    - E-) Orhan Arda
+    ***
+1. **Aşağıdaki sanatçı ve eser eşleştirmelerinden hangisi yanlıştır?**
+    - A-) Turgut Zaim - Yörük Köyü
+    - B-) Ali Avni Çelebi - Vitrin
+    - **Cevap C-) Mihri Müşfik Hanım - Toprağı İşleyen Kadınlar**
+    - D-) Feyhaman Duran - Nü
+    - E-) Osman Hamdi Bey - Yaratılış
     ***

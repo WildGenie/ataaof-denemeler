@@ -1,5 +1,21 @@
 [
     {
+        "QuestionId": 3353264,
+        "UniteNo": 8,
+        "PageNumber": 264,
+        "AnswerExplanation": "<p>Tüm dijital medyanın tek bir ortamda içe içe geçmesi</p>",
+        "Title": "<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞI VE TARİHSEL GELİŞİM</p>\n<div class=\"page\" title=\"Page 3\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>En basit tanımıyla telefon, radyo, televiz- yon ve bilgisayar dünyalarının entegras- yonu, tüm dijital medyanın tek bir or- tamda içe içe geçmesine yöndeşme denir.</p>\n</div>\n</div>\n</div>\n</div>\n<p> </p>\n</div>\n</div>\n</div>\n</div>",
+        "Text": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p style=\"text-align: justify;\">Aşağıdakilerden hangisi akıllı telefonların Yöndeşme (Covergence) becerisinin tanımıdır?</p> </div> </div> </div> </div>",
+        "A": "<p>Tüm dijital medyanın tek bir ortamda içe içe geçmesi</p>",
+        "B": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Amatör fotoğrafçıların küçük bas-çek fotoğraf makinelerini kullanma imkanına kavuşması</p> </div> </div> </div> </div>",
+        "C": "<p>Çekilen düşük çözünürlüklü fotoğrafların sosyal medyada paylaşılması</p>",
+        "D": "<p>Fotoğraf kameralarının cep telefonlarında olması gereken bir özellik olarak algılanması </p>",
+        "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fotoğraf estetiğinin sosyal ağlarda kullanıcı içerikleri gibi farklı bağlamlarda dönüşüme neden olması</p> </div> </div> </div> </div>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 1
+    },
+    {
         "QuestionId": 3353266,
         "UniteNo": 8,
         "PageNumber": 266,
@@ -13,23 +29,7 @@
         "E": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Beyaz dengesi</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 1
-    },
-    {
-        "QuestionId": 3353267,
-        "UniteNo": 8,
-        "PageNumber": 268,
-        "AnswerExplanation": "<p>Adobe Photoshop Camera uygulaması</p>",
-        "Title": "<div class=\"page\" title=\"Page 7\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Akıllı Telefon Fotoğraf İşleme Yazılımlar</strong></p>\n<div class=\"page\" title=\"Page 7\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Akıllı telefon fotoğraflarını ve videolarını geliştirebilecek uygulamalar da vardır. Bunlar- dan bazılarına aşağıda yer verilmiştir:</p>\n<ul>\n<li>\n<p>Prisma, fotoğraflarınızın tablo gibi gö- rünmesini sağlar</p>\n</li>\n<li>\n<p>FaceApp, kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfie- lerinizi (özçekimlerinizi) düzenlemeni- zi sağlar.</p>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"layoutArea\">\n<div class=\"column\">\n<ul>\n<li>\n<p>Adobe Photoshop Camera uygulaması, bir arka planı değiştirmek gibi basit değişiklikler yapmanızı sağlar.</p>\n</li>\n<li>\n<p>TouchRetouch Iphone fotoğraflarınızdaki istenmeyen içerikleri yok etmenizi sağlar.</p>\n</li>\n<li>\n<p>Polaroid Lab, telefon fotoğraflarınızı Polaroid kâğıd",
-        "Text": "<p>Aşağıdakilerden hangisi akıllı telefonla çekilen fotoğraflarda bir arka planı değiştirmek gibi basit değişiklikler yapmanızı sağlayan yazılımdır?</p>",
-        "A": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Polaroid Lab</p> </div> </div> </div> </div>",
-        "B": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Switcher</p> </div> </div> </div> </div>",
-        "C": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Adobe Photoshop Camera uygulaması</p> </div> </div> </div> </div>",
-        "D": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>FilmoraGo</p> </div> </div> </div> </div>",
-        "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Prisma</p> </div> </div> </div> </div>",
-        "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "QuestionNumber": 3
     },
     {
         "QuestionId": 3353268,
@@ -45,7 +45,7 @@
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Trash</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 2
+        "QuestionNumber": 5
     },
     {
         "QuestionId": 3353269,
@@ -77,7 +77,7 @@
         "E": "<div class=\"page\" title=\"Page 21\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Gezi Fotoğrafçılığı</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 3
+        "QuestionNumber": 6
     },
     {
         "QuestionId": 3353271,
@@ -93,7 +93,7 @@
         "E": "<div class=\"page\" title=\"Page 18\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Gezi Fotoğrafçılığı</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 4
+        "QuestionNumber": 7
     },
     {
         "QuestionId": 3353272,
@@ -109,7 +109,23 @@
         "E": "<div class=\"page\" title=\"Page 19\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Belgesel Fotoğrafçılık</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 5
+        "QuestionNumber": 8
+    },
+    {
+        "QuestionId": 3353273,
+        "UniteNo": 8,
+        "PageNumber": 290,
+        "AnswerExplanation": "<p>360 derece</p>",
+        "Title": "<div class=\"page\" title=\"Page 12\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p style=\"text-align: justify;\"><strong>GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLARI</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p style=\"text-align: justify;\"><strong>Hava Fotoğrafçılığı</strong></p>\n<div class=\"page\" title=\"Page 29\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p style=\"text-align: justify;\">Dört çeşit hava fotoğrafçılığı vardır.</p>\n<ul>\n<li style=\"text-align: justify;\">\n<p>Eğik: Eğik, açılı olarak çekilen hava fotoğraflarıdır.</p>\n</li>\n<li style=\"text-align: justify;\">\n<p>Dikey: Dikey fotoğraflar, yukarıdan aşağıya doğru dik çekilir ve çoğunlukla fotogrametri ve görüntü yorumlamada kullanılır.</p>\n</li>\n<li style=\"text-align: justify;\">\n<p>Kombine: Birden fazla tekniğin birleşiminden oluşan hava fotoğraflardır. Panoramalar (bir noktadan farklı açılarda çekilmiş fotoğrafların yan yana birleştirilmesinde oluşur), ",
+        "Text": "<p style=\"text-align: justify;\">Aşağıdakilerden hangisi hava fotoğrafçılığı türlerinden<strong> biri değildir?</strong></p>",
+        "A": "<p>Eğik</p>",
+        "B": "<p>Dikey</p>",
+        "C": "<p>Kombine</p>",
+        "D": "<div class=\"page\" title=\"Page 29\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Ortofoto</p> </div> </div> </div> </div>",
+        "E": "<p>360 derece</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 9
     },
     {
         "QuestionId": 3353274,
@@ -125,7 +141,23 @@
         "E": "<p>Teknik olarak fotoğraf çekimini kolaylaştırması</p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 6
+        "QuestionNumber": 10
+    },
+    {
+        "QuestionId": 3353275,
+        "UniteNo": 8,
+        "PageNumber": 263,
+        "AnswerExplanation": "<p>Kyocera  VP-210</p>",
+        "Title": "<p>AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞI VE TARİHSEL GELİŞİMİ</p>",
+        "Text": "<p>Mayıs 1999'da Ticari olarak halka satılan ve yerleşik kamerası olan ilk cep telefonu aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Sharp J-SH04</p>",
+        "B": "<p>Samsung SCH-V200</p>",
+        "C": "<p>Kyocera  VP-210</p>",
+        "D": "<p>Sanyo SCP-5300</p>",
+        "E": "<p>Canon 10D</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 11
     },
     {
         "QuestionId": 3353276,
@@ -141,7 +173,7 @@
         "E": "<p>Reprodüksiyon</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 8
+        "QuestionNumber": 9
     },
     {
         "QuestionId": 3353278,
@@ -157,23 +189,7 @@
         "E": "<p>JPG formatında</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 12
-    },
-    {
-        "QuestionId": 3353279,
-        "UniteNo": 8,
-        "PageNumber": 267,
-        "AnswerExplanation": "<p>\"Bilgisayar düzleminde bir görüntü iki boyutlu bir matristen oluştur, f(x,y) olmak üzere yatay ve dikey doğruların oluşturduğu düzlemdeki noktalara karşılık gelen her bir nokta görselin piksel değerini ifade eder.\"</p>",
-        "Title": "<p>AKILLI TELEFON FOTOĞRAFÇILIĞINDA YAPAY ZEKÂ GÖRÜNTÜ İŞLEME VE YAPAY ZEKÂNIN FOTOĞRAFLAMADA KULLANIMI</p>",
-        "Text": "<p>\"Bilgisayar düzleminde bir görüntü iki boyutlu bir matristen oluştur, f(x,y) olmak üzere yatay ve dikey doğruların oluşturduğu düzlemdeki noktalara karşılık gelen her bir nokta görselin ................. ifade eder.\"</p> <p>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</p>",
-        "A": "<p>Piksel değerini</p>",
-        "B": "<p>Görüntü işleme sistemini</p>",
-        "C": "<p>Çözünürlüğünü</p>",
-        "D": "<p>Dosya boyutunu</p>",
-        "E": "<p>Enstantane değerini</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "QuestionNumber": 13
     },
     {
         "QuestionId": 3353281,
@@ -189,7 +205,7 @@
         "E": "<p>Trash</p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 11
     },
     {
         "QuestionId": 3353282,
@@ -205,7 +221,23 @@
         "E": "<p>Flickr</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 14
+    },
+    {
+        "QuestionId": 3353284,
+        "UniteNo": 8,
+        "PageNumber": 263,
+        "AnswerExplanation": "<p>Çok sayıda kareden doğru fotoğrafı seçebilmek dijital fotoğrafçılığın dezavantajlarından biridir.</p>",
+        "Title": "<p>Çok sayıda kareden doğru fotoğrafı seçebilmek dijital fotoğrafçılığın dezavantajlarından biridir.</p>",
+        "Text": "<p>Aşağıdakilerden hangisi dijital fotoğrafçılığın dezavantajlarından biridir?</p>",
+        "A": "<p>Çekimin yüksek maliyetli olması</p>",
+        "B": "<p>Günlük çekim sayısı sınırlaması</p>",
+        "C": "<p>Çekim sonrası düzenleme imkânı vermemesi</p>",
+        "D": "<p>Çok sayıda kareden doğru fotoğrafı seçebilmek</p>",
+        "E": "<p>Kullanımının analog makinelerden zor olması</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null,
+        "QuestionNumber": 14
     },
     {
         "QuestionId": 3353285,
@@ -221,7 +253,7 @@
         "E": "<p>Sanyo SCP-5300</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 14
+        "QuestionNumber": 15
     },
     {
         "QuestionId": 3353286,
@@ -237,39 +269,7 @@
         "E": "<p>Android ve iOS günümüzde dünya akıllı tele­fon pazarına liderlik etmektedir.</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 15
-    },
-    {
-        "QuestionId": 3353287,
-        "UniteNo": 8,
-        "PageNumber": 263,
-        "AnswerExplanation": "<p>Harici filtre dijital görüntülerin ana bileşenlerinden biri <strong>değildir.</strong></p>",
-        "Title": "",
-        "Text": "<p>Aşağıdakilerden hangisi dijital görüntülerin ana bileşenlerinden biri <strong>değildir? </strong></p>",
-        "A": "<p>Lens</p>",
-        "B": "<p>Sensör</p>",
-        "C": "<p>Mercek</p>",
-        "D": "<p>Görüntü işlemcisi</p>",
-        "E": "<p>Harici filtre</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
         "QuestionNumber": 16
-    },
-    {
-        "QuestionId": 3353289,
-        "UniteNo": 8,
-        "PageNumber": 267,
-        "AnswerExplanation": "<p>\"Dijital görüntü işleme fotoğrafta arka planı bu­lanıklaştırabilir.\" ifadesi doğrudur.</p>",
-        "Title": "",
-        "Text": "<p>Görüntü işleme teknikleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?</p>",
-        "A": "<p>Sadece analog görüntü işleme teknikleri f(x,y) matrisinden oluşur.</p>",
-        "B": "<p>Analog görüntü işlemenin dijitale göre birçok avantajı vardır.</p>",
-        "C": "<p>Dijital görüntü işleme fotoğrafta arka planı bu­lanıklaştırabilir.</p>",
-        "D": "<p>Analog görüntü işleme teknikleri yüksek dina­mik aralık özelliğine sahiptir.</p>",
-        "E": "<p>Analog görüntü işleme, bilgisayar algoritmaları yardımıyla görüntüleri işlemek için kullanılır.</p>",
-        "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
     },
     {
         "QuestionId": 3353290,
@@ -301,39 +301,23 @@
         "E": "<p>Ipad</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 20
+        "QuestionNumber": 19
     },
     {
-        "QuestionId": 3353293,
+        "QuestionId": 3353292,
         "UniteNo": 8,
         "PageNumber": 273,
-        "AnswerExplanation": "<p>Modern basın fotoğrafçılığının kurucusu Erich Salomon'dur.</p>",
+        "AnswerExplanation": "<p>Fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilme­si işlemine Makro fotoğraf  adı verilir.</p>",
         "Title": "",
-        "Text": "<p>Modern basın fotoğrafçılığının kurucusu aşa­ğıdakilerden hangisidir?</p>",
-        "A": "<p>H. Cartier Bresson</p>",
-        "B": "<p>Erich Salomon</p>",
-        "C": "<p>Robert Capa</p>",
-        "D": "<p>David Seymour</p>",
-        "E": "<p>Ara Güler</p>",
-        "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
-    },
-    {
-        "QuestionId": 3353264,
-        "UniteNo": 8,
-        "PageNumber": 264,
-        "AnswerExplanation": "<p>Tüm dijital medyanın tek bir ortamda içe içe geçmesi</p>",
-        "Title": "<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞI VE TARİHSEL GELİŞİM</p>\n<div class=\"page\" title=\"Page 3\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>En basit tanımıyla telefon, radyo, televiz- yon ve bilgisayar dünyalarının entegras- yonu, tüm dijital medyanın tek bir or- tamda içe içe geçmesine yöndeşme denir.</p>\n</div>\n</div>\n</div>\n</div>\n<p> </p>\n</div>\n</div>\n</div>\n</div>",
-        "Text": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p style=\"text-align: justify;\">Aşağıdakilerden hangisi akıllı telefonların Yöndeşme (Covergence) becerisinin tanımıdır?</p> </div> </div> </div> </div>",
-        "A": "<p>Tüm dijital medyanın tek bir ortamda içe içe geçmesi</p>",
-        "B": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Amatör fotoğrafçıların küçük bas-çek fotoğraf makinelerini kullanma imkanına kavuşması</p> </div> </div> </div> </div>",
-        "C": "<p>Çekilen düşük çözünürlüklü fotoğrafların sosyal medyada paylaşılması</p>",
-        "D": "<p>Fotoğraf kameralarının cep telefonlarında olması gereken bir özellik olarak algılanması </p>",
-        "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fotoğraf estetiğinin sosyal ağlarda kullanıcı içerikleri gibi farklı bağlamlarda dönüşüme neden olması</p> </div> </div> </div> </div>",
+        "Text": "<p>Fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilme­si işlemine ne ad verilir?</p>",
+        "A": "<p>Makro fotoğraf</p>",
+        "B": "<p>VR</p>",
+        "C": "<p>AR</p>",
+        "D": "<p>Still life fotoğraf</p>",
+        "E": "<p>Reprodüksiyon</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 1
+        "QuestionNumber": 19
     },
     {
         "QuestionId": 3353265,
@@ -352,100 +336,36 @@
         "QuestionNumber": 2
     },
     {
-        "QuestionId": 3353273,
-        "UniteNo": 8,
-        "PageNumber": 290,
-        "AnswerExplanation": "<p>360 derece</p>",
-        "Title": "<div class=\"page\" title=\"Page 12\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p style=\"text-align: justify;\"><strong>GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLARI</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p style=\"text-align: justify;\"><strong>Hava Fotoğrafçılığı</strong></p>\n<div class=\"page\" title=\"Page 29\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p style=\"text-align: justify;\">Dört çeşit hava fotoğrafçılığı vardır.</p>\n<ul>\n<li style=\"text-align: justify;\">\n<p>Eğik: Eğik, açılı olarak çekilen hava fotoğraflarıdır.</p>\n</li>\n<li style=\"text-align: justify;\">\n<p>Dikey: Dikey fotoğraflar, yukarıdan aşağıya doğru dik çekilir ve çoğunlukla fotogrametri ve görüntü yorumlamada kullanılır.</p>\n</li>\n<li style=\"text-align: justify;\">\n<p>Kombine: Birden fazla tekniğin birleşiminden oluşan hava fotoğraflardır. Panoramalar (bir noktadan farklı açılarda çekilmiş fotoğrafların yan yana birleştirilmesinde oluşur), ",
-        "Text": "<p style=\"text-align: justify;\">Aşağıdakilerden hangisi hava fotoğrafçılığı türlerinden<strong> biri değildir?</strong></p>",
-        "A": "<p>Eğik</p>",
-        "B": "<p>Dikey</p>",
-        "C": "<p>Kombine</p>",
-        "D": "<div class=\"page\" title=\"Page 29\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Ortofoto</p> </div> </div> </div> </div>",
-        "E": "<p>360 derece</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
-    },
-    {
-        "QuestionId": 3353277,
-        "UniteNo": 8,
-        "PageNumber": 265,
-        "AnswerExplanation": "<p>Akıllı telefonla fotoğraf çekebilmek için şu adımlar izlenmelidir:</p> <p>II- Akıllı telefon seçimi</p> <p>I- Fotoğrafa uygun menüyü ayarlama</p> <p>IV- Çözünürlüğü yüksek değere ayarlama</p> <p>III- Mümkünse raw formatında çekim yapmak</p> ",
-        "Title": "<p>Akıllı Telefonların Fotoğraflama Yetenekleri</p>",
-        "Text": "<p>I- Fotoğrafa uygun menüyü ayarlama</p> <p>II- Akıllı telefon seçimi</p> <p>III- Mümkünse raw formatında çekim yapmak</p> <p>IV- Çözünürlüğü yüksek değere ayarlama</p> <p>Akıllı telefonla fotoğraf çekebilmek için aşağıdaki hangi sıralama uygulanmalıdır?</p>",
-        "A": "<p>IV-III-II-I</p>",
-        "B": "<p>I-II-III-IV</p>",
-        "C": "<p>II-I-IV-III</p>",
-        "D": "<p>I-II-IV-III</p>",
-        "E": "<p>II-IV-III-I</p>",
-        "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
-    },
-    {
-        "QuestionId": 3353280,
+        "QuestionId": 3353267,
         "UniteNo": 8,
         "PageNumber": 268,
-        "AnswerExplanation": "<p>Switcher, videoları düzenlemenizi ve birden fazla cihazda yayın yapmanızı sağlar.</p>",
-        "Title": "<p>Akıllı Telefon Fotoğraf İşleme Yazılımları</p>",
-        "Text": "<p>Fotoğraf ve video geliştirme uygulamaları ile ilgili olarak aşağıdaki hangi eşleştirme <span style=\"text-decoration: underline;\">doğru değildir?</span></p>",
-        "A": "<p>Prisma, videoları düzenlemenizi ve birden fazla cihazda yayın yapmanızı sağlar.</p>",
-        "B": "<p>Polaroid Lab, telefon fotoğraflarınızı Polaroid kâğıda yazdırmanıza olanak tanır.</p>",
-        "C": "<p>TouchRetouch Iphone fotoğraflarınızdaki istenmeyen içerikleri yok etmenizi sağlar.</p>",
-        "D": "<p>Trash uygulaması, videonuzu kesintisiz içeriğe dönüştürür.</p>",
-        "E": "<p>FilmoraGo, videolarınız YouTube ve Instagram’a yüklemek için düzenlemenize yardımcı olur.</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
-    },
-    {
-        "QuestionId": 3353283,
-        "UniteNo": 8,
-        "PageNumber": 275,
-        "AnswerExplanation": "<p>Still life</p>",
-        "Title": "<p>Masa Üstü (Sitll Life) Fotoğrafçılık</p>",
-        "Text": "<p>Fotoğrafın icadından önceki dönemde ressamların çizdiği cansız varlıklar veya çiçekler, meyveler gibi nesneler için tanımlanan Fransızca “ölü doğa” anlamına gelen 'natürmort'un yerini dijital fotoğrafçılıkta aşağıdakilerden hangisi almıştır?</p>",
-        "A": "<p>Belgesel fotoğrafçılık</p>",
-        "B": "<p>Sokak fotoğrafçılığı</p>",
-        "C": "<p>Kopyalama</p>",
-        "D": "<p>Makro fotoğraf</p>",
-        "E": "<p>Still life</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
-    },
-    {
-        "QuestionId": 3353284,
-        "UniteNo": 8,
-        "PageNumber": 263,
-        "AnswerExplanation": "<p>Çok sayıda kareden doğru fotoğrafı seçebilmek dijital fotoğrafçılığın dezavantajlarından biridir.</p>",
-        "Title": "<p>Çok sayıda kareden doğru fotoğrafı seçebilmek dijital fotoğrafçılığın dezavantajlarından biridir.</p>",
-        "Text": "<p>Aşağıdakilerden hangisi dijital fotoğrafçılığın dezavantajlarından biridir?</p>",
-        "A": "<p>Çekimin yüksek maliyetli olması</p>",
-        "B": "<p>Günlük çekim sayısı sınırlaması</p>",
-        "C": "<p>Çekim sonrası düzenleme imkânı vermemesi</p>",
-        "D": "<p>Çok sayıda kareden doğru fotoğrafı seçebilmek</p>",
-        "E": "<p>Kullanımının analog makinelerden zor olması</p>",
-        "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
-    },
-    {
-        "QuestionId": 3353275,
-        "UniteNo": 8,
-        "PageNumber": 263,
-        "AnswerExplanation": "<p>Kyocera  VP-210</p>",
-        "Title": "<p>AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞI VE TARİHSEL GELİŞİMİ</p>",
-        "Text": "<p>Mayıs 1999'da Ticari olarak halka satılan ve yerleşik kamerası olan ilk cep telefonu aşağıdakilerden hangisidir?</p>",
-        "A": "<p>Sharp J-SH04</p>",
-        "B": "<p>Samsung SCH-V200</p>",
-        "C": "<p>Kyocera  VP-210</p>",
-        "D": "<p>Sanyo SCP-5300</p>",
-        "E": "<p>Canon 10D</p>",
+        "AnswerExplanation": "<p>Adobe Photoshop Camera uygulaması</p>",
+        "Title": "<div class=\"page\" title=\"Page 7\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Akıllı Telefon Fotoğraf İşleme Yazılımlar</strong></p>\n<div class=\"page\" title=\"Page 7\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Akıllı telefon fotoğraflarını ve videolarını geliştirebilecek uygulamalar da vardır. Bunlar- dan bazılarına aşağıda yer verilmiştir:</p>\n<ul>\n<li>\n<p>Prisma, fotoğraflarınızın tablo gibi gö- rünmesini sağlar</p>\n</li>\n<li>\n<p>FaceApp, kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfie- lerinizi (özçekimlerinizi) düzenlemeni- zi sağlar.</p>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"layoutArea\">\n<div class=\"column\">\n<ul>\n<li>\n<p>Adobe Photoshop Camera uygulaması, bir arka planı değiştirmek gibi basit değişiklikler yapmanızı sağlar.</p>\n</li>\n<li>\n<p>TouchRetouch Iphone fotoğraflarınızdaki istenmeyen içerikleri yok etmenizi sağlar.</p>\n</li>\n<li>\n<p>Polaroid Lab, telefon fotoğraflarınızı Polaroid kâğıd",
+        "Text": "<p>Aşağıdakilerden hangisi akıllı telefonla çekilen fotoğraflarda bir arka planı değiştirmek gibi basit değişiklikler yapmanızı sağlayan yazılımdır?</p>",
+        "A": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Polaroid Lab</p> </div> </div> </div> </div>",
+        "B": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Switcher</p> </div> </div> </div> </div>",
+        "C": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Adobe Photoshop Camera uygulaması</p> </div> </div> </div> </div>",
+        "D": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>FilmoraGo</p> </div> </div> </div> </div>",
+        "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Prisma</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 7
+        "QuestionNumber": 4
+    },
+    {
+        "QuestionId": 3353287,
+        "UniteNo": 8,
+        "PageNumber": 263,
+        "AnswerExplanation": "<p>Harici filtre dijital görüntülerin ana bileşenlerinden biri <strong>değildir.</strong></p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi dijital görüntülerin ana bileşenlerinden biri <strong>değildir? </strong></p>",
+        "A": "<p>Lens</p>",
+        "B": "<p>Sensör</p>",
+        "C": "<p>Mercek</p>",
+        "D": "<p>Görüntü işlemcisi</p>",
+        "E": "<p>Harici filtre</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 17
     },
     {
         "QuestionId": 3353288,
@@ -464,19 +384,99 @@
         "QuestionNumber": 17
     },
     {
-        "QuestionId": 3353292,
+        "QuestionId": 3353289,
+        "UniteNo": 8,
+        "PageNumber": 267,
+        "AnswerExplanation": "<p>\"Dijital görüntü işleme fotoğrafta arka planı bu­lanıklaştırabilir.\" ifadesi doğrudur.</p>",
+        "Title": "",
+        "Text": "<p>Görüntü işleme teknikleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?</p>",
+        "A": "<p>Sadece analog görüntü işleme teknikleri f(x,y) matrisinden oluşur.</p>",
+        "B": "<p>Analog görüntü işlemenin dijitale göre birçok avantajı vardır.</p>",
+        "C": "<p>Dijital görüntü işleme fotoğrafta arka planı bu­lanıklaştırabilir.</p>",
+        "D": "<p>Analog görüntü işleme teknikleri yüksek dina­mik aralık özelliğine sahiptir.</p>",
+        "E": "<p>Analog görüntü işleme, bilgisayar algoritmaları yardımıyla görüntüleri işlemek için kullanılır.</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 18
+    },
+    {
+        "QuestionId": 3353293,
         "UniteNo": 8,
         "PageNumber": 273,
-        "AnswerExplanation": "<p>Fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilme­si işlemine Makro fotoğraf  adı verilir.</p>",
+        "AnswerExplanation": "<p>Modern basın fotoğrafçılığının kurucusu Erich Salomon'dur.</p>",
         "Title": "",
-        "Text": "<p>Fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilme­si işlemine ne ad verilir?</p>",
-        "A": "<p>Makro fotoğraf</p>",
-        "B": "<p>VR</p>",
-        "C": "<p>AR</p>",
-        "D": "<p>Still life fotoğraf</p>",
-        "E": "<p>Reprodüksiyon</p>",
-        "CorrectAnswer": "A",
+        "Text": "<p>Modern basın fotoğrafçılığının kurucusu aşa­ğıdakilerden hangisidir?</p>",
+        "A": "<p>H. Cartier Bresson</p>",
+        "B": "<p>Erich Salomon</p>",
+        "C": "<p>Robert Capa</p>",
+        "D": "<p>David Seymour</p>",
+        "E": "<p>Ara Güler</p>",
+        "CorrectAnswer": "B",
         "UserAnswer": null,
         "QuestionNumber": 20
+    },
+    {
+        "QuestionId": 3353280,
+        "UniteNo": 8,
+        "PageNumber": 268,
+        "AnswerExplanation": "<p>Switcher, videoları düzenlemenizi ve birden fazla cihazda yayın yapmanızı sağlar.</p>",
+        "Title": "<p>Akıllı Telefon Fotoğraf İşleme Yazılımları</p>",
+        "Text": "<p>Fotoğraf ve video geliştirme uygulamaları ile ilgili olarak aşağıdaki hangi eşleştirme <span style=\"text-decoration: underline;\">doğru değildir?</span></p>",
+        "A": "<p>Prisma, videoları düzenlemenizi ve birden fazla cihazda yayın yapmanızı sağlar.</p>",
+        "B": "<p>Polaroid Lab, telefon fotoğraflarınızı Polaroid kâğıda yazdırmanıza olanak tanır.</p>",
+        "C": "<p>TouchRetouch Iphone fotoğraflarınızdaki istenmeyen içerikleri yok etmenizi sağlar.</p>",
+        "D": "<p>Trash uygulaması, videonuzu kesintisiz içeriğe dönüştürür.</p>",
+        "E": "<p>FilmoraGo, videolarınız YouTube ve Instagram’a yüklemek için düzenlemenize yardımcı olur.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 12
+    },
+    {
+        "QuestionId": 3353283,
+        "UniteNo": 8,
+        "PageNumber": 275,
+        "AnswerExplanation": "<p>Still life</p>",
+        "Title": "<p>Masa Üstü (Sitll Life) Fotoğrafçılık</p>",
+        "Text": "<p>Fotoğrafın icadından önceki dönemde ressamların çizdiği cansız varlıklar veya çiçekler, meyveler gibi nesneler için tanımlanan Fransızca “ölü doğa” anlamına gelen 'natürmort'un yerini dijital fotoğrafçılıkta aşağıdakilerden hangisi almıştır?</p>",
+        "A": "<p>Belgesel fotoğrafçılık</p>",
+        "B": "<p>Sokak fotoğrafçılığı</p>",
+        "C": "<p>Kopyalama</p>",
+        "D": "<p>Makro fotoğraf</p>",
+        "E": "<p>Still life</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 14
+    },
+    {
+        "QuestionId": 3353277,
+        "UniteNo": 8,
+        "PageNumber": 265,
+        "AnswerExplanation": "<p>Akıllı telefonla fotoğraf çekebilmek için şu adımlar izlenmelidir:</p> <p>II- Akıllı telefon seçimi</p> <p>I- Fotoğrafa uygun menüyü ayarlama</p> <p>IV- Çözünürlüğü yüksek değere ayarlama</p> <p>III- Mümkünse raw formatında çekim yapmak</p> ",
+        "Title": "<p>Akıllı Telefonların Fotoğraflama Yetenekleri</p>",
+        "Text": "<p>I- Fotoğrafa uygun menüyü ayarlama</p> <p>II- Akıllı telefon seçimi</p> <p>III- Mümkünse raw formatında çekim yapmak</p> <p>IV- Çözünürlüğü yüksek değere ayarlama</p> <p>Akıllı telefonla fotoğraf çekebilmek için aşağıdaki hangi sıralama uygulanmalıdır?</p>",
+        "A": "<p>IV-III-II-I</p>",
+        "B": "<p>I-II-III-IV</p>",
+        "C": "<p>II-I-IV-III</p>",
+        "D": "<p>I-II-IV-III</p>",
+        "E": "<p>II-IV-III-I</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 12
+    },
+    {
+        "QuestionId": 3353279,
+        "UniteNo": 8,
+        "PageNumber": 267,
+        "AnswerExplanation": "<p>\"Bilgisayar düzleminde bir görüntü iki boyutlu bir matristen oluştur, f(x,y) olmak üzere yatay ve dikey doğruların oluşturduğu düzlemdeki noktalara karşılık gelen her bir nokta görselin piksel değerini ifade eder.\"</p>",
+        "Title": "<p>AKILLI TELEFON FOTOĞRAFÇILIĞINDA YAPAY ZEKÂ GÖRÜNTÜ İŞLEME VE YAPAY ZEKÂNIN FOTOĞRAFLAMADA KULLANIMI</p>",
+        "Text": "<p>\"Bilgisayar düzleminde bir görüntü iki boyutlu bir matristen oluştur, f(x,y) olmak üzere yatay ve dikey doğruların oluşturduğu düzlemdeki noktalara karşılık gelen her bir nokta görselin ................. ifade eder.\"</p> <p>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</p>",
+        "A": "<p>Piksel değerini</p>",
+        "B": "<p>Görüntü işleme sistemini</p>",
+        "C": "<p>Çözünürlüğünü</p>",
+        "D": "<p>Dosya boyutunu</p>",
+        "E": "<p>Enstantane değerini</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 11
     }
 ]

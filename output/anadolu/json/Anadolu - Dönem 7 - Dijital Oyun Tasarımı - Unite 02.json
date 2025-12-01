@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3690162,
-        "SoruMetni": "<span style=\"font-weight: 400;\">Unreal Engine yazılımını 1998 yılında geliştiren isim aşağıdakilerden hangisidir? </span>",
+        "SoruMetni": "<span style=\"font-weight: 400;\">Unreal Engine yazılımını 1998 yılında geliştiren isim aşağıdakilerden hangisidir? </span>",
         "A": "<span style=\"font-weight: 400;\">Tim Sweeney</span>",
         "B": "<span style=\"font-weight: 400;\">Juan Linietsky</span>",
         "C": "<span style=\"font-weight: 400;\">Amazon Lumbeyard</span>",
@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Unreal Engine yazılımını 1998 yılında geliştiren isim </span><span style=\"font-weight: 400;\">Tim Sweeney'dir.</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">Unreal Engine yazılımını 1998 yılında geliştiren isim </span><span style=\"font-weight: 400;\">Tim Sweeney'dir.</span>"
     },
     {
         "SoruID": 3690163,
-        "SoruMetni": "<span style=\"font-weight: 400;\">Önemli bir oyun firması olan Epic Games’i kim kurmuştur? </span>",
+        "SoruMetni": "<span style=\"font-weight: 400;\">Önemli bir oyun firması olan Epic Games’i kim kurmuştur? </span>",
         "A": "<span style=\"font-weight: 400;\">Juan Linietsky</span>",
         "B": "Amazon Lumbeyard",
         "C": "Tim Sweeney",
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Önemli bir oyun firması olan Epic Games’i Tim Sweeney kurmuştur</span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">Önemli bir oyun firması olan Epic Games’i Tim Sweeney kurmuştur</span>"
     },
     {
         "SoruID": 3690165,
@@ -57,11 +57,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Önemli bir oyun motoru olan Godot’u 2007 yılında piyasaya süren isim </span><span style=\"font-weight: 400;\">Juan Linietsky'dir. </span>"
+        "Aciklama": "Doğru yanıt B şıkkıdır<br><span style=\"font-weight: 400;\">Önemli bir oyun motoru olan Godot’u 2007 yılında piyasaya süren isim </span><span style=\"font-weight: 400;\">Juan Linietsky'dir. </span>"
     },
     {
         "SoruID": 3690169,
-        "SoruMetni": "<span style=\"font-weight: 400;\">Aşağıdakilerden hangisi önemli bir teknoloji firması olan Amazon’un piyasaya sürmüş olduğu oyun motorudur? </span>",
+        "SoruMetni": "<span style=\"font-weight: 400;\">Aşağıdakilerden hangisi önemli bir teknoloji firması olan Amazon’un piyasaya sürmüş olduğu oyun motorudur? </span>",
         "A": "<span style=\"font-weight: 400;\">Godot</span>",
         "B": "Epic Games",
         "C": "Unreal Engine",
@@ -77,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Amazon’un piyasaya sürmüş olduğu oyun motoru Lumberyard'dır."
+        "Aciklama": "Doğru yanıt E şıkkıdır<br>Amazon’un piyasaya sürmüş olduğu oyun motoru Lumberyard'dır."
     },
     {
         "SoruID": 3690172,
-        "SoruMetni": "<span style=\"font-weight: 400;\">Dijital oyunlar modüllerden oluşur. Bir eylemin oluşması durumunda nesnelerde meydana gelecek değişiklik efektinin kontrol edilmesini sağlayan modül aşağıdakilerden hangisidir? </span>",
+        "SoruMetni": "<span style=\"font-weight: 400;\">Dijital oyunlar modüllerden oluşur. Bir eylemin oluşması durumunda nesnelerde meydana gelecek değişiklik efektinin kontrol edilmesini sağlayan modül aşağıdakilerden hangisidir? </span>",
         "A": "<span style=\"font-weight: 400;\">Grafik derleme modülü</span>",
         "B": "Oyun mekaniği modülü",
         "C": "Animasyon/fizik motoru modülü",
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir eylemin oluşması durumunda nesnelerde meydana gelecek değişiklik efektinin kontrol edilmesini sağlayan modül animasyon/fizik motoru modülüdür"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br>Bir eylemin oluşması durumunda nesnelerde meydana gelecek değişiklik efektinin kontrol edilmesini sağlayan modül animasyon/fizik motoru modülüdür"
     },
     {
         "SoruID": 3690178,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyun oynayan bireyler dışında oyunda yer alan ve bilgisayar tarafından oyuncunun hareketlerine göre hareket eden nesnelerin davranışlarını kontrol etmeyi sağlayan modül yapay zeka modülüdür."
+        "Aciklama": "Doğru yanıt E şıkkıdır<br>Oyun oynayan bireyler dışında oyunda yer alan ve bilgisayar tarafından oyuncunun hareketlerine göre hareket eden nesnelerin davranışlarını kontrol etmeyi sağlayan modül yapay zeka modülüdür."
     },
     {
         "SoruID": 3690180,
@@ -137,11 +137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hazır kütüphaneler bakımından öne çıkan, Pygame kütüphanesi ile oyun tasarımcılarına yönelik çok sayıda işlevi bulunduran dil Python'dır."
+        "Aciklama": "Doğru yanıt B şıkkıdır<br>Hazır kütüphaneler bakımından öne çıkan, Pygame kütüphanesi ile oyun tasarımcılarına yönelik çok sayıda işlevi bulunduran dil Python'dır."
     },
     {
         "SoruID": 3690186,
-        "SoruMetni": "<span style=\"font-weight: 400;\">Aşağıdakilerden hangisi HTML5 ortamında çalışabilecek oyunlar geliştirmeye olanak sağlayan gelişmiş ve ücretsiz bir oyun motorudur? </span>",
+        "SoruMetni": "<span style=\"font-weight: 400;\">Aşağıdakilerden hangisi HTML5 ortamında çalışabilecek oyunlar geliştirmeye olanak sağlayan gelişmiş ve ücretsiz bir oyun motorudur? </span>",
         "A": "<span style=\"font-weight: 400;\">Godot</span>",
         "B": "Blackberry",
         "C": "GDScript",
@@ -157,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">HTML5 ortamında çalışabilecek oyunlar geliştirmeye olanak sağlayan gelişmiş ve ücretsiz bir oyun motoru Phaser'dir</span>"
+        "Aciklama": "Doğru yanıt E şıkkıdır<br><span style=\"font-weight: 400;\">HTML5 ortamında çalışabilecek oyunlar geliştirmeye olanak sağlayan gelişmiş ve ücretsiz bir oyun motoru Phaser'dir</span>"
     },
     {
         "SoruID": 3690190,
-        "SoruMetni": "<span style=\"font-weight: 400;\">Game Maker Studio 2 oyun motorunu kullandığı dil aşağıdakilerden hangisidir? </span>",
+        "SoruMetni": "<span style=\"font-weight: 400;\">Game Maker Studio 2 oyun motorunu kullandığı dil aşağıdakilerden hangisidir? </span>",
         "A": "<span style=\"font-weight: 400;\">GML</span>",
         "B": "Phaser",
         "C": "Java",
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-weight: 400;\">Game Maker Studio 2 oyun motorunu kullandığı dil GML'dir.</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">Game Maker Studio 2 oyun motorunu kullandığı dil GML'dir.</span>"
     },
     {
         "SoruID": 3690194,
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Phaser açık kaynak kodlu bir oyun motorudur"
+        "Aciklama": "Doğru yanıt C şıkkıdır.<br>Phaser açık kaynak kodlu bir oyun motorudur"
     }
 ]

@@ -9,14 +9,15 @@
         "E": "Üç boyutlu",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 130701,
@@ -28,14 +29,15 @@
         "E": "Üç boyutlu",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 130770,
@@ -47,18 +49,19 @@
         "E": "Oluşturulan animasyonlar web sayfalarında yayınlanacak formatta paketlenemezler.",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 184314,
-        "SoruMetni": "<strong> Animasyonun oynatma hızını ifade etmek için aşağıdaki terimlerden hangisi kullanılır?</strong>",
+        "SoruMetni": "<strong> Animasyonun oynatma hızını ifade etmek için aşağıdaki terimlerden hangisi kullanılır?</strong>",
         "A": "CSS: Cascading Style Sheet",
         "B": "DPS: Digital Publishing Suite",
         "C": "FPS: Frame Per Second",
@@ -66,14 +69,15 @@
         "E": "GPS: Gigabyte Per Second",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 184315,
@@ -92,7 +96,8 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 184316,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 184353,
@@ -123,14 +129,15 @@
         "E": "Cut-Out animasyonlar",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 184354,
@@ -142,14 +149,15 @@
         "E": "Cut-Out animasyonlar",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 184355,
@@ -161,14 +169,15 @@
         "E": "Adobe Photoshop",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 184356,
@@ -180,18 +189,19 @@
         "E": "Library",
         "DogruCevap": "E",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 184357,
-        "SoruMetni": "<strong> Adobe Edge Animate programında tasarım yapılan bölgeye verilen isim aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong> Adobe Edge Animate programında tasarım yapılan bölgeye verilen isim aşağıdakilerden hangisidir?</strong>",
         "A": "Design Panel",
         "B": "Stage",
         "C": "Scene",
@@ -199,18 +209,19 @@
         "E": "Tools",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 184358,
-        "SoruMetni": "<strong> Bir animasyonu oluşturan karelerin bir resim içerisinde sıra ile yerleştirilmesi ile elde edilen görsele verilen isim aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong> Bir animasyonu oluşturan karelerin bir resim içerisinde sıra ile yerleştirilmesi ile elde edilen görsele verilen isim aşağıdakilerden hangisidir?</strong>",
         "A": "Hareket şeridi",
         "B": "Film karesi",
         "C": "Anahtar kare",
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 184359,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 193119,
@@ -256,14 +269,15 @@
         "E": "Adobe Photoshop",
         "DogruCevap": "D",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 193146,
@@ -275,14 +289,15 @@
         "E": "Tools",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 193158,
@@ -294,14 +309,15 @@
         "E": "Hareket şeridi",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 341115,
@@ -313,14 +329,15 @@
         "E": "Üç boyutlu animasyonlar",
         "DogruCevap": "C",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 341117,
@@ -332,18 +349,19 @@
         "E": "Preview",
         "DogruCevap": "A",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 405714,
-        "SoruMetni": "I. 3D Studio Max genellikle üç boyutlu modelleme için kullanılır.<br/> <br/>II. Adobe Photoshop yalnızca statik grafik düzenleme amacıyla kullanılır ve animasyon için uygun değildir.<br> <br/>III. Maya, üç boyutlu animasyon, modelleme, benzetim ve görüntüleme yazılımıdır.<br> <br/><strong>Animasyon tasarımında kullanılan yazılımlara ilişkin yukarıdakilerden hangisi ya da hangileri doğrudur?</strong></br></br>",
+        "SoruMetni": "I. 3D Studio Max genellikle üç boyutlu modelleme için kullanılır.<br/>II. Adobe Photoshop yalnızca statik grafik düzenleme amacıyla kullanılır ve animasyon için uygun değildir.<br/>III. Maya, üç boyutlu animasyon, modelleme, benzetim ve görüntüleme yazılımıdır.<br/><strong>Animasyon tasarımında kullanılan yazılımlara ilişkin yukarıdakilerden hangisi ya da hangileri doğrudur?</strong></br></br>",
         "A": "Yalnız II",
         "B": "I ve III",
         "C": "I ve II",
@@ -351,13 +369,14 @@
         "E": "I, II ve III",
         "DogruCevap": "B",
         "DersAd": "Masaüstü Yayıncılık",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 215,
         "OBSDersId": 51909,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     }
 ]

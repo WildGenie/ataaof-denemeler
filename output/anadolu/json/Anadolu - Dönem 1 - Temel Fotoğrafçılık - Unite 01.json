@@ -83,10 +83,10 @@
         "SoruID": 3350809,
         "SoruMetni": "FOTOĞRAF kelimesi ilk olarak ne zaman ve kim tarafından kullanılmıştır?",
         "A": "1826 yılında Fransız Joseph Nicephore Niepce",
-        "B": "1840 yılında Fransız Louis Jacques Mande Daguerre",
+        "B": "1840 yılında Fransız Louis Jacques Mande Daguerre",
         "C": "1840 yılında İngiliz SirJohn F. W. Herschel",
-        "D": "1840 yılında İngiliz William Henry Fox Talbot",
-        "E": "1850 yılında Fransız ressam Delacroix",
+        "D": "1840 yılında İngiliz William Henry Fox Talbot",
+        "E": "1850 yılında Fransız ressam Delacroix",
         "DogruCevap": "C",
         "DersAd": "Temel Fotoğrafçılık",
         "Unite": 1,
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3350810,
-        "SoruMetni": "Aşağıda verilen bilgilerden hangileri fotoğrafın tanımı ve gelişimi ile ilgili olarak doğrudur?<br/><br/>I. Yunanca olup anlam olarak ışık ve çizmek anlamına gelen photos ve graphes kelimelerinden oluşmaktadır.<br/><br/>II. 1840' lı yıllarda genel olarak helyograf ve dagerotip yöntemler geçerlidir.<br/><br/>III. Negatif ve pozitif işlemler de temel öneme sahip ilk kişi William Henry Fox Talbot 'dır.<br/><br/>IV. 1850' lili yıllarda fotoğrafta Stereograf ve Carte de Visitedir yöntemi kullanılmaya başlamıştır.",
+        "SoruMetni": "Aşağıda verilen bilgilerden hangileri fotoğrafın tanımı ve gelişimi ile ilgili olarak doğrudur?<br/>I. Yunanca olup anlam olarak ışık ve çizmek anlamına gelen photos ve graphes kelimelerinden oluşmaktadır.<br/>II. 1840' lı yıllarda genel olarak helyograf ve dagerotip yöntemler geçerlidir.<br/>III. Negatif ve pozitif işlemler de temel öneme sahip ilk kişi William Henry Fox Talbot 'dır.<br/>IV. 1850' lili yıllarda fotoğrafta Stereograf ve Carte de Visitedir yöntemi kullanılmaya başlamıştır.",
         "A": "II-III",
         "B": "I-III",
         "C": "I-II-III-IV",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3350811,
-        "SoruMetni": "I. Yaratıcı bir bakış açısı sahip<br/> II. Kültürel değerlerin farkında olan<br/> III. Teknik bilgileri iyi kullanabilen<br/> Yukarıda verilen bilgilerden hangisi ya da hangileri bir fotoğrafçıdan beklenen özellikler arasında gösterilebilir?",
+        "SoruMetni": "I. Yaratıcı bir bakış açısı sahip<br/>II. Kültürel değerlerin farkında olan<br/>III. Teknik bilgileri iyi kullanabilen<br/>Yukarıda verilen bilgilerden hangisi ya da hangileri bir fotoğrafçıdan beklenen özellikler arasında gösterilebilir?",
         "A": "I-II-III",
         "B": "Yalnız II",
         "C": "I-III",
@@ -158,6 +158,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Geniş açılı objektifler: Bu objektiflerin en büyük özelliği, normal objektiflere göre konuyu gözün gördüğünden çok daha geniş açıda görebilmeleridir. 17-35mm arasını kapsayan objektiflerdir. Kullanım özelliği, dar alanlarda en geniş görüntü elde edebilmek içindir."
+    },
+    {
+        "SoruID": 3350813,
+        "SoruMetni": "Yarış arabalarının ya da motorlarının bitiş çizgisini ilk geçtikleri anda fotoğraflayan iki fotoğrafçının çektikleri pozlar birbirinden farklıdır. Birinin çektiği fotoğrafta çok net bir şekilde araba ya da motor gözükürken; diğerinde ise fotoğraf bir silueti andırmakta, araba ya da motor fark edilememektedir. Bu durum fotoğrafta hangi kavram ile açıklanabilir?",
+        "A": "Enstantane",
+        "B": "Objektif",
+        "C": "Diyafram açıklığı",
+        "D": "Diyafram genişliği",
+        "E": "Vizör",
+        "DogruCevap": "A",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.002494",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Enstantane veya örtücü film yüzeyine gelen ışığın süresini kontrol edendir. Örtücünün açık kalma süresini gösteren değerlere örtücü hızı denir. Bunlar, genellikle 1/1, 1/2, 1/4, 1/8, 1/15 1/30, 1/60, 1/125, 1/250, 1/500, 1/1000, 1/2000 şeklinde önceden belirlenmiş değerlerdir."
     },
     {
         "SoruID": 3350814,
@@ -197,7 +217,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotoğraf makinelerinin tarihine bakıldığında İtalyan matematikçi, fizikçi, hekim ve düşünür olan Girolamo Cardano, Venedikli mimar ve yazar olan Daniello Barbar,  Giovanni Battista Della Porta,  Johannes Kepler gibi farklı disiplinlerden bir çok bilim ve sanat insanının yer aldığı görülmektedir."
+        "Aciklama": "Fotoğraf makinelerinin tarihine bakıldığında İtalyan matematikçi, fizikçi, hekim ve düşünür olan Girolamo Cardano, Venedikli mimar ve yazar olan Daniello Barbar, Giovanni Battista Della Porta, Johannes Kepler gibi farklı disiplinlerden bir çok bilim ve sanat insanının yer aldığı görülmektedir."
+    },
+    {
+        "SoruID": 3350816,
+        "SoruMetni": "Camera Obscura’ya mercek yerleştirme fikrini 1550 yılında ileri süren kimdir?",
+        "A": "Leonardo Da Vinci",
+        "B": "Girolamo Cardano",
+        "C": "Carl Wilhelm Scheele",
+        "D": "Elizabeth Fulhame",
+        "E": "Thomas Wedgwood",
+        "DogruCevap": "B",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.010825",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Camera Obscura’ya mercek yerleştirme fikrini 1550 yılında ileri süren İtalyan, matematikçi, fizikçi, hekim ve düşünür olan Girolamo Cardano’dur."
     },
     {
         "SoruID": 3350817,
@@ -257,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cumhuriyetin ilanından, 1977 yılına kadar eğitim proğramlarına fotoğraf girememiş ancak fotoğrafın sanat eğitimi içinde bağımsız bir bölüm, kendi başına bir diploma programı olarak ortaya çıkışı, İstanbul Devlet Güzel Sanatlar Akademisi’nde gerçekleşmiştir. Türkiye’de fotoğrafın çağdaş sanat içinde kabul görmeye başlaması bu<br/> nedenlerle <strong>1980</strong>’lerden itibaren göze çarpar."
+        "Aciklama": "Cumhuriyetin ilanından, 1977 yılına kadar eğitim proğramlarına fotoğraf girememiş ancak fotoğrafın sanat eğitimi içinde bağımsız bir bölüm, kendi başına bir diploma programı olarak ortaya çıkışı, İstanbul Devlet Güzel Sanatlar Akademisi’nde gerçekleşmiştir. Türkiye’de fotoğrafın çağdaş sanat içinde kabul görmeye başlaması bu<br/>nedenlerle <strong>1980</strong>’lerden itibaren göze çarpar."
     },
     {
         "SoruID": 3350820,
@@ -297,7 +337,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Normal objektifler<br/> Geniş açılı objektifler<br/> Dar açılı objektifler<br/> <br/> Değişken odaklı objektifler<br/> Makro objektifler<br/> Balıkgözü objektifler"
+        "Aciklama": "Normal objektifler<br/>Geniş açılı objektifler<br/>Dar açılı objektifler<br/>Değişken odaklı objektifler<br/>Makro objektifler<br/>Balıkgözü objektifler"
+    },
+    {
+        "SoruID": 3350823,
+        "SoruMetni": "Aşağıdaki diyafram değerlerinden hangisi diğerlerine göre <strong>en az</strong> ışıklı ortamda, objektiften içeri daha fazla ışık geçmesine olanak tanır?",
+        "A": "1.2",
+        "B": "2.8",
+        "C": "5.6",
+        "D": "32",
+        "E": "11",
+        "DogruCevap": "A",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.334330",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Işıklı ortamlarda kısılıp az ışıklı ortamlarda açılır. Diyafram açıklığına “f ” adı verilir ve bu değerler 1.2 -1.4 - 1.8 - 2 - 2.8 - 4- 5.6 - 8 - 11 - 16 - 22 – 32 şeklinde belli bir rakamsal standardı bulunur. Sistemin özelliği rakamlar küçüldükçe objektiften giren ışık miktarı artar. Rakamlar büyüdükçe içeri giren ışık miktarı azalır."
     },
     {
         "SoruID": 3350824,
@@ -341,12 +401,12 @@
     },
     {
         "SoruID": 3350826,
-        "SoruMetni": "1838 yılında, kullanılabilecek ilk fotoğraf makinesini kim geliştirmiştir? <br/>",
+        "SoruMetni": "1838 yılında, kullanılabilecek ilk fotoğraf makinesini kim geliştirmiştir?",
         "A": "Paul Delacroix",
         "B": "William Henry Fox Talbot",
         "C": "Louis Daguerre",
         "D": "Girolama Cardano",
-        "E": "Carl Wilhelm<br/><br/>",
+        "E": "Carl Wilhelm",
         "DogruCevap": "C",
         "DersAd": "Temel Fotoğrafçılık",
         "Unite": 1,
@@ -381,7 +441,7 @@
     },
     {
         "SoruID": 3350828,
-        "SoruMetni": "İki farklı açıdan çekilmiş aynı görüntünün yan yana yapıştırılmasıyla oluşan fotoğraf çeşidine verilen isim aşağıdakilerden hangisidir?<br/><br/>",
+        "SoruMetni": "İki farklı açıdan çekilmiş aynı görüntünün yan yana yapıştırılmasıyla oluşan fotoğraf çeşidine verilen isim aşağıdakilerden hangisidir?",
         "A": "Negatif",
         "B": "Dagerotip",
         "C": "Stereograf",
@@ -421,7 +481,7 @@
     },
     {
         "SoruID": 3350830,
-        "SoruMetni": "Çekilen objenin görüntüsünü, 1:1 ya da daha fazla oranda sensör üzerine düşüren,  objeyi çok yakınından net olarak fotoğraflama özelliği olan objektifler aşağıdakilerden hangisidir?",
+        "SoruMetni": "Çekilen objenin görüntüsünü, 1:1 ya da daha fazla oranda sensör üzerine düşüren, objeyi çok yakınından net olarak fotoğraflama özelliği olan objektifler aşağıdakilerden hangisidir?",
         "A": "Normal objektif",
         "B": "Dar açılı objektif",
         "C": "Geniş açılı objektif",
@@ -457,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Diyafram açıklığına “f ” adı verilir ve bu değerler 1.2 - 1.4 - 1.8 - 2 - 2.8 - 4- 5.6 - 8 - 11 - 16 - 22 – 32 şeklinde belli bir rakamsal standardı bulunur.  Sistemin özelliği rakamlar küçüldükçe objektiften giren ışık miktarı artar.<br/><br/>Resim 1.24'e bakınız, \"Diyaframın rakamsal değerlere göre açık kalma konumu\""
+        "Aciklama": "Diyafram açıklığına “f ” adı verilir ve bu değerler 1.2 - 1.4 - 1.8 - 2 - 2.8 - 4- 5.6 - 8 - 11 - 16 - 22 – 32 şeklinde belli bir rakamsal standardı bulunur. Sistemin özelliği rakamlar küçüldükçe objektiften giren ışık miktarı artar.<br/>Resim 1.24'e bakınız, \"Diyaframın rakamsal değerlere göre açık kalma konumu\""
     },
     {
         "SoruID": 3350832,
@@ -520,6 +580,66 @@
         "Aciklama": "Fox Talbot’un bu buluşu için, ilk defa İngiliz SirJohn F. W. Herschel tarafından 1840 yılında “FOTOĞRAF” kelimesi kullanılmıştır."
     },
     {
+        "SoruID": 3350835,
+        "SoruMetni": "Camera Obscura’ya mercek yerleştirme fikrini 1550 yılında ileri süren İtalyan düşünür kimdir ?",
+        "A": "Girolamo Cardano",
+        "B": "Carl Wilhelm Scheele",
+        "C": "Elizabeth Fulhame",
+        "D": "Thomas Wedgwood",
+        "E": "Joseph Nicephore Niepce",
+        "DogruCevap": "A",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.287057",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Camera Obscura’ya mercek yerleştirme fikrini 1550 yılında ileri süren İtalyan, matematikçi, fizikçi, hekim ve düşünür olan Girolamo Cardano’dur. Doğru cevap A şıkkıdır."
+    },
+    {
+        "SoruID": 3350836,
+        "SoruMetni": "<br/><img alt=\"page3image4290400064\" height=\"137.419000\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/ac492dac9f6e64ba1c1d6a9f96e3e273.jpeg\" width=\"198.424356\"/><br/>1826 yılında Fransız Joseph Nicephore Niepce tarafından elde edilen yukarıdaki görüntü ne olarak adlandırılır ?",
+        "A": "<br/>Camera Obscura",
+        "B": "<br/>Helyograf",
+        "C": "<br/>Dagerotip",
+        "D": "Negatif",
+        "E": "Pozitif",
+        "DogruCevap": "B",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.326173",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<br/>1826 yılında Fransız Joseph Nicephore Niepce, yaklaşık sekiz saatlik bir pozlamayla evinin penceresinden ilk defa bir görüntüyü sabitlemiştir. Pencereden görünüm görüntüsü, ilk fotoğraf olarak kabul edilir ve aynı zamanda helyograf olarak adlandırılır."
+    },
+    {
+        "SoruID": 3350837,
+        "SoruMetni": "Kullanılabilecek ilk fotoğraf makinesi hangi yıl geliştirilmiştir ?",
+        "A": "1835",
+        "B": "1900",
+        "C": "1810",
+        "D": "1880",
+        "E": "1838",
+        "DogruCevap": "E",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.289320",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kullanılabilecek ilk fotoğraf makinesi 1838 yılında Fransız ressam olan Louis Daguerre tarafından geliştirilmiştir. Doğru cevap E şıkkıdır."
+    },
+    {
         "SoruID": 3350838,
         "SoruMetni": "1852 yılında Kodak makinelerinde 10 poz çekebilen bromür kaplı Jelatin rulolar bulunan Kodak fotoğraf makinelerini piyasaya süren kişi kimdir ?",
         "A": "Louis Daguerre",
@@ -541,7 +661,7 @@
     },
     {
         "SoruID": 3350839,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Türkiye'de ilk fotoğrafla ilgili kulüp, Şinasi Barutçu tarafından 1950 yılında hangi ilde kurulmuştur ?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Türkiye'de ilk fotoğrafla ilgili kulüp, Şinasi Barutçu tarafından 1950 yılında hangi ilde kurulmuştur ?",
         "A": "Trabzon",
         "B": "İstanbul",
         "C": "Eskişehir",
@@ -557,16 +677,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>İlk fotoğrafla ilgili klüp, Şinasi Barutçu tarafından 1950 yılında Ankara’da TAFK (Türkiye Amatör Fotoğraf Klübü) adıyla kurulmuştur. Doğru cevap D şıkkıdır. <br/><br/><br/><br/>"
+        "Aciklama": "<br/>İlk fotoğrafla ilgili klüp, Şinasi Barutçu tarafından 1950 yılında Ankara’da TAFK (Türkiye Amatör Fotoğraf Klübü) adıyla kurulmuştur. Doğru cevap D şıkkıdır."
     },
     {
         "SoruID": 3350840,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Aşağıdakilerden hangisi Cumhuriyet sonrası, Türk fotoğrafında önemli isimlerden biri <span style=\"text-decoration: underline;\"><strong>değildir</strong> ?</span><br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Ara Güler<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Coşkun Aral<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>İzzet Keribar<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Nihat Odabaşı<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Alice Liddell<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Aşağıdakilerden hangisi Cumhuriyet sonrası, Türk fotoğrafında önemli isimlerden biri <span style=\"text-decoration: underline;\"><strong>değildir</strong> ?</span>",
+        "A": "<br/>Ara Güler",
+        "B": "<br/>Coşkun Aral",
+        "C": "<br/>İzzet Keribar",
+        "D": "<br/>Nihat Odabaşı",
+        "E": "<br/>Alice Liddell",
         "DogruCevap": "E",
         "DersAd": "Temel Fotoğrafçılık",
         "Unite": 1,
@@ -577,11 +697,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Cumhuriyet sonrası, Türk fotoğrafında önemli bir yer tutmaktadır ve fotoğraf dünyasında özverili çalışmalarıyla bir yerlere gelmiş, çektikleri fotoğrafları dergi ve benzeri yerlerde gördüğümüz fotoğraf sanatçılarının isimlerini vermek gerektiğinde ilk hatırlananlar olarak, Ara Güler, Coşkun Aral, İzzet Keribar, Nihat Odabaşı, Sabit Kalfagil’i belirtebiliriz. Doğru cevap E şıkkıdır. <br/><br/><br/><br/>"
+        "Aciklama": "<br/>Cumhuriyet sonrası, Türk fotoğrafında önemli bir yer tutmaktadır ve fotoğraf dünyasında özverili çalışmalarıyla bir yerlere gelmiş, çektikleri fotoğrafları dergi ve benzeri yerlerde gördüğümüz fotoğraf sanatçılarının isimlerini vermek gerektiğinde ilk hatırlananlar olarak, Ara Güler, Coşkun Aral, İzzet Keribar, Nihat Odabaşı, Sabit Kalfagil’i belirtebiliriz. Doğru cevap E şıkkıdır."
     },
     {
         "SoruID": 3350841,
-        "SoruMetni": "<img alt=\"page8image1338723664\" height=\"195.606445\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/d93678da15bc51a9eb410f4c05fc4d46.jpeg\" width=\"147.047248\"/>  Yukarıdaki iki objektifli ilk refleks makinenin adı nedir ?",
+        "SoruMetni": "<img alt=\"page8image1338723664\" height=\"195.606445\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/d93678da15bc51a9eb410f4c05fc4d46.jpeg\" width=\"147.047248\"/> Yukarıdaki iki objektifli ilk refleks makinenin adı nedir ?",
         "A": "Rolleiflex",
         "B": "Kodak",
         "C": "Hasselblad",
@@ -597,16 +717,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<img alt=\"page8image1338723664\" height=\"195.606445\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/d93678da15bc51a9eb410f4c05fc4d46.jpeg\" width=\"147.047248\"/>           Resim 1.14 Rolleiflex ilk refleks fotoğraf makinesi<br/>         1928: Almanya’ya Rolleiflex’in gelişi: iki objek- tifli ilk refleks makine. Doğru cevap A şıkkıdır."
+        "Aciklama": "<img alt=\"page8image1338723664\" height=\"195.606445\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/d93678da15bc51a9eb410f4c05fc4d46.jpeg\" width=\"147.047248\"/> Resim 1.14 Rolleiflex ilk refleks fotoğraf makinesi<br/>1928: Almanya’ya Rolleiflex’in gelişi: iki objek- tifli ilk refleks makine. Doğru cevap A şıkkıdır."
     },
     {
         "SoruID": 3350842,
         "SoruMetni": "Aşağıdakilerden hangisi fotoğraf makinesinin ana elemanlarından biri <span style=\"text-decoration: underline;\"><strong>değildir</strong> ?</span>",
-        "A": "<br/> <br/> <br/> <br/>Objektif<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Diyafram<br/><br/><br/><br/>",
+        "A": "<br/>Objektif",
+        "B": "<br/>Diyafram",
         "C": "Motor",
-        "D": "<br/> <br/> <br/> <br/>Örtücü<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Vizör<br/><br/><br/><br/>",
+        "D": "<br/>Örtücü",
+        "E": "<br/>Vizör",
         "DogruCevap": "C",
         "DersAd": "Temel Fotoğrafçılık",
         "Unite": 1,
@@ -617,7 +737,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Fotoğraf makinelerinin çeşitli boy ve özelliklerde olmasına rağmen, nasıl görüntü için ışık ve karanlık oda gerekliyse, fotoğraf makineleri içinde gerekli olan değişmez ana elemanlar söz konusudur. Bunlar: Objektif, Diyafram, Örtücü ve Vizör fotoğraf makinesinin ana elemanlarını oluşturur. Doğru cevap C şıkkıdır. <br/><br/><br/><br/>"
+        "Aciklama": "<br/>Fotoğraf makinelerinin çeşitli boy ve özelliklerde olmasına rağmen, nasıl görüntü için ışık ve karanlık oda gerekliyse, fotoğraf makineleri içinde gerekli olan değişmez ana elemanlar söz konusudur. Bunlar: Objektif, Diyafram, Örtücü ve Vizör fotoğraf makinesinin ana elemanlarını oluşturur. Doğru cevap C şıkkıdır."
+    },
+    {
+        "SoruID": 3350843,
+        "SoruMetni": "9 x 12 cm., 13 x 18 cm. ve daha büyük boyutlarda görüntü veren ve çoğu zaman tabaka film kullanılan makineler aşağıdakilerden hangisidir ?",
+        "A": "Orta boy makineler",
+        "B": "Küçük boy makineler",
+        "C": "Büyük boy makineler",
+        "D": "Sualtı makineleri",
+        "E": "İnstamatik makineler",
+        "DogruCevap": "C",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.136943",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Büyük boy makineler 9 x 12 cm., 13 x 18 cm. ve daha büyük boyutlarda görüntü veren ve çoğu zaman tabaka film kullanılan makinelerdir. Ağır ve elde taşınmaları zor olduğundan bir sehpa üzerinde kullanılmaları uygundur. Doğru cevap C şıkkıdır."
     },
     {
         "SoruID": 3350844,
@@ -657,7 +797,47 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kullanılabilecek ilk fotoğraf makinesi 1838 yılında Fransız ressam olan Louis Daguerre tarafından geliştirilmiştir."
+        "Aciklama": "Kullanılabilecek ilk fotoğraf makinesi 1838 yılında Fransız ressam olan <strong>Louis Daguerre</strong> tarafından geliştirilmiştir. Döneminde fotoğrafın bu kadar hızlı gelişmesinin sonucu olarak ressam <strong>Paul Delacroix</strong>’u endişelendirmiş ve bunun üzerine, bundan böyle resim ölmüş demiştir. Aynı süreler içinde <strong>Henry Fox</strong> <strong>Talbot</strong>, birtakım kimyasal maddelere batırılmış kâğıtlar üzerinde görüntü elde etmeyi başardıysa da yavaş yavaş kararması ve görüntünün net olmaması nedeniyle kolayca unutulmuş olmasına rağmen, Henry Fox Talbot’un bu buluşu için, ilk defa İngiliz <strong>Sir John F. W. Herschel</strong> tarafından 1840 yılında “FOTOĞRAF” kelimesi kullanılmıştır. 1826 yılında Fransız <strong>Joseph Nicephore Niepce</strong>, yaklaşık sekiz saatlik bir pozlamayla evinin penceresinden ilk defa bir görüntüyü sabitlemiştir. Pencereden görünüm görüntüsü, ilk fotoğraf olarak kabul edilir."
+    },
+    {
+        "SoruID": 3350846,
+        "SoruMetni": "Fotoğraf sanayisinin tarihi düşünüldüğünde aşağıdakilerden hangisi diğerlerinden önce gelir?",
+        "A": "İsveç firması Hasselblad ilk refleksi, 6x6’lık, film kutusu değiştirilebilir, tek objektifli makineyi gerçekleştirir",
+        "B": "Kodak kitlelere yönelik ve şarjör 126 kapasiteli lnstamatic makineleri piyasaya çıkarır",
+        "C": "Leitz ilk doğrudan refleks 24x36 Leicaflex’i piyasaya sürer",
+        "D": "Kodak mini formatlı aletlerle lnstamatic Pocket sistemini pazarlar",
+        "E": "Japonya’da Nikon 24x36, refleks, değiştirilebilir vizörlü Nikon F’yi piyasaya çıkarır",
+        "DogruCevap": "A",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.016939",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "1948: İsveç firması Hasselblad ilk refleksi, 6x6’lık, film kutusu değiştirilebilir, tek objektifli makineyi gerçekleştirir<br/>1959: Japonya’da Nikon 24x36, refleks, değiştirilebilir vizörlü Nikon F’yi piyasaya çıkarır<br/>1963: Kodak kitlelere yönelik ve şarjör 126 (görüntü formatı: 35 mm.’lik filmde 26x26) kapasiteli lnstamatic makineleri piyasaya çıkarır<br/>1964: Leitz ilk doğrudan refleks 24x36 Leicaflex’i piyasaya sürer<br/>1972: Kodak mini formatlı aletlerle lnstamatic Pocket sistemini pazarlar<br>A seçeneği tarih sıralamasına göre diğer seçeneklerden önce gerçekleşmiştir."
+    },
+    {
+        "SoruID": 3350847,
+        "SoruMetni": "\"<em>Cisimlerden gelen ışınları alıp film ya da algılayıcı yüzeyine aktaran yakınsak mercek veya mercek sistemidir.\"</em><br/>Yukarıdaki cümle fotoğraf makinesinin hangi unsurunu tanımlamaktadır?",
+        "A": "Odak",
+        "B": "Vizör",
+        "C": "Diyafram",
+        "D": "Objektif",
+        "E": "Örtücü",
+        "DogruCevap": "D",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.312259",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Objektif: Bir diğer adıyla lens, fotoğraf makinesi, dürbün, mikroskop gibi optik aletlerde cisimlerden gelen ışınları alıp film ya da algılayıcı yüzeyine aktaran yakınsak mercek veya mercek sistemidir.<br>Cümle objektifi tanımlamaktadır. Doğru cevap D'dir."
     },
     {
         "SoruID": 3350848,
@@ -677,11 +857,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "En geniş açıya sahip objektifler balıkgözü objektiflerdir. Doğru cevap B'dir."
+        "Aciklama": "Balıkgözü Objektifler: En geniş açıya sahip objektiflerdir ve 6-16mm arasını kapsar. Görüntüde bozulmalara yol açtığı için genellikle fotoğrafa özel bir efekt havası verme veya fotoğrafı farklı bir açıdan sunma gibi durumlarda kullanılır<br>En geniş açıya sahip objektifler balıkgözü objektiflerdir. Doğru cevap B'dir."
     },
     {
         "SoruID": 3350849,
-        "SoruMetni": "<em>\"Önde dönen objektifin arkasında düz bir yarık bulunmaktadır. Objektif dönünce bu yarıktan sızan ışınlar da film yüzeyini tarayarak objektifin dönüş derecesi kadar geniş bir sahanın görüntüsünü verir.\"</em><br/><br/>Yukarıda bahsedilen fotoğraf makinesi çeşidi aşağıdakilerden hangisidir?",
+        "SoruMetni": "<em>\"Önde dönen objektifin arkasında düz bir yarık bulunmaktadır. Objektif dönünce bu yarıktan sızan ışınlar da film yüzeyini tarayarak objektifin dönüş derecesi kadar geniş bir sahanın görüntüsünü verir.\"</em><br/>Yukarıda bahsedilen fotoğraf makinesi çeşidi aşağıdakilerden hangisidir?",
         "A": "Çift Objektifli Refleks TLR Fotoğraf Makineler",
         "B": "Polaroid Land Makineler",
         "C": "İnstant ve Rapid Makineler",
@@ -697,7 +877,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Önde dönen objektifin arkasında düz bir yarık bulunmaktadır. Objektif dönünce bu yarıktan sızan ışınlar da film yüzeyini tarayarak objektifin dönüş derecesi kadar geniş bir sahanın panaromik bir görüntüsünü verir ki, böylece 140° bir sahanın panaromik görüntüsü elde edilmiş olur. Doğru cevap D'dir."
+        "Aciklama": "Panaromik Makineler: Fotoğraf makineleri belirli bir açıya gelen ışınları alabilir ve makinelerin tiplerine bağlı olarak genellikle bu açılar 45 ile 80 derece arasındadır. Geniş bir görüş açısı içindeki bir konunun fotoğrafının çekilmesi gerekebilir. Panaromik makinelerin objektif kısımları sağdan sola hareket ederek 24x60 mm. boyutunda bir görüntü verir. Önde dönen objektifin arkasında düz bir yarık bulunmaktadır. Objektif dönünce bu yarıktan sızan ışınlar da film yüzeyini tarayarak objektifin dönüş derecesi kadar geniş bir sahanın panaromik bir görüntüsünü verir ki, böylece 140° bir sahanın panaromik görüntüsü elde edilmiş olur.<br>Önde dönen objektifin arkasında düz bir yarık bulunmaktadır. Objektif dönünce bu yarıktan sızan ışınlar da film yüzeyini tarayarak objektifin dönüş derecesi kadar geniş bir sahanın panaromik bir görüntüsünü verir ki, böylece 140° bir sahanın panaromik görüntüsü elde edilmiş olur. Doğru cevap D'dir."
+    },
+    {
+        "SoruID": 3350850,
+        "SoruMetni": "Aşağıdakilerden hangisi özel kullanışlı fotoğraf makinelerinin bir çeşidi<span style=\"text-decoration: underline;\"><strong> değildir?</strong></span>",
+        "A": "Körüklü Katlanabilir Makineler",
+        "B": "Polaroid Land Makineler",
+        "C": "Panaromik Makineler",
+        "D": "İnstant ve Rapid Makineler",
+        "E": "Stereoskobik Makineler",
+        "DogruCevap": "A",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.140326",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Körüklü katlanabilir fotoğraf makineleri büyük fotoğraf makinelerindendir ve özel kullanışlı fotoğraf makinelerinin bir çeşidi değildir. Doğru cevap A'dır."
     },
     {
         "SoruID": 3350851,
@@ -717,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çift Objektifli Refleks TLR Fotoğraf Makineleri: Çift objektifi olan, Reflex yani ayna yada prizmayla yansıtma sistemine sahip fotoğraf makinesi çeşitlerine TLR çift objektifli Fotoğraf Makineleri denir. Doğru cevap B'dir."
+        "Aciklama": "Çift Objektifli Refleks TLR Fotoğraf Makineleri: Çift objektifi olan, Reflex yani ayna yada prizmayla yansıtma sistemine sahip fotoğraf makinesi çeşitlerine TLR çift objektifli Fotoğraf Makineleri denir. Bu fotoğraf makinelerin iki objektiflidir. Bel hizasında kullanılan analog fotoğraf makinesinin iki objektifli olmasının nedeni, alttaki objektif görüntüyü kaydetmek, üstteki objektif ise vizör görevi görerek kadrajı ayarlamaktır. Bu makinelerde orta format film (6×6 cm) kullanılır, 35mm (2,4 x 3,6) cm film kullananları da vardır.<br>Çift Objektifli Refleks TLR Fotoğraf Makineleri: Çift objektifi olan, Reflex yani ayna yada prizmayla yansıtma sistemine sahip fotoğraf makinesi çeşitlerine TLR çift objektifli Fotoğraf Makineleri denir. Doğru cevap B'dir."
     },
     {
         "SoruID": 3350852,
@@ -778,6 +978,66 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "İlk fotoğrafla ilgili kulüp,<strong> Şinasi Barutçu</strong> tarafından 1950 yılında Ankara’da TAFK (Türkiye Amatör Fotoğraf Klübü) adıyla kurulmuştur."
+    },
+    {
+        "SoruID": 3350856,
+        "SoruMetni": "Fotoğraf makinelerinin çeşitli boy ve özelliklerde olmasına rağmen, nasıl görüntü için ışık ve karanlık oda gerekliyse, fotoğraf makineleri içinde gerekli olan değişmez ana elemanlar söz konusudur. Aşağıdakilerden hangisi bunlardan birisi <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span>",
+        "A": "Objektif",
+        "B": "Diyafram",
+        "C": "Örtücü",
+        "D": "Vizör",
+        "E": "Deklanşör",
+        "DogruCevap": "E",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.042219",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fotoğraf makinelerinin çeşitli boy ve özelliklerde olmasına rağmen, nasıl görüntü için ışık ve karanlık oda gerekliyse, fotoğraf makineleri içinde gerekli olan değişmez ana elemanlar söz konusudur. Bunlar: <strong>Objektif</strong>,<strong> Diyafram</strong>,<strong> Örtücü ve Vizör</strong> fotoğraf makinesinin ana elemanlarını oluşturur."
+    },
+    {
+        "SoruID": 3350857,
+        "SoruMetni": "Fotoğraf makinelerinin objektiflerinde, film ya da algılayıcının yüzeyine ulaşacak ışık miktarını, açılıp kısılarak ayarlayan düzeneğin adı nedir?",
+        "A": "Deklanşör",
+        "B": "Diyafram",
+        "C": "Vizör",
+        "D": "Makro",
+        "E": "Zoom",
+        "DogruCevap": "B",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.043975",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<strong>Diyafram</strong>: Fotoğraf makinelerinin objektiflerinde, film ya da algılayıcının yüzeyine ulaşacak ışık miktarını, açılıp kısılarak ayarlayan düzenektir. Işıklı ortamlarda kısılıp az ışıklı ortamlarda açılır. Diyafram açıklığına “f ” adı verilir ve bu değerler 1.2 - 1.4 - 1.8 - 2 - 2.8 - 4- 5.6 - 8 - 11 - 16 - 22 – 32 şeklinde belli bir rakamsal standardı bulunur, Resim 1.24. Sistemin özelliği rakamlar küçüldükçe objektiften giren ışık miktarı artar."
+    },
+    {
+        "SoruID": 3350858,
+        "SoruMetni": "Fotoğraf makinelerindeki teknik gelişmelerle birlikte ilk değişime uğrayan diyafram olmuştur. Bütün fotoğraf makinelerinde kullanılan diyafram tiplerinin en yenisi aşağıdakilerden hangisidir?",
+        "A": "İso diyafram",
+        "B": "Makro diyafram",
+        "C": "İris diyafram",
+        "D": "Junk diyafram",
+        "E": "Mikro diyafram",
+        "DogruCevap": "C",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.158130",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fotoğraf makinelerindeki teknik gelişmelerle birlikte ilk değişime uğrayan diyafram olmuştur. Kamburoğluna göre, diyaframın ilk gelişiminde esas ilke delikli bir plakadır. Bu kez delikler bir daire üzerine yerleştirilmilştir. Bütün fotoğraf makinelerinde kullanılan diyafram tiplerinin en yenisi, <strong>iris diyaframıdır, </strong>Resim 1.25."
     },
     {
         "SoruID": 3350859,
@@ -841,7 +1101,7 @@
     },
     {
         "SoruID": 3350862,
-        "SoruMetni": "Cumhuriyetin ilanından sonraki dönemin fotoğrafçısı ve  Atatürk’ün fotoğraflarını çekerek portre geleneğini devam ettiren ve  foto muhabiri unvanı ile atanan ilk kişi olmuştur. Sözü edilen kişi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Cumhuriyetin ilanından sonraki dönemin fotoğrafçısı ve Atatürk’ün fotoğraflarını çekerek portre geleneğini devam ettiren ve foto muhabiri unvanı ile atanan ilk kişi olmuştur. Sözü edilen kişi aşağıdakilerden hangisidir?",
         "A": "Ayhan Işık",
         "B": "Cemal Işıksel",
         "C": "Cemal Süreya",
@@ -861,7 +1121,7 @@
     },
     {
         "SoruID": 3350863,
-        "SoruMetni": "Çekilen fotoğrafın temel değerler taşıyabilmesi için  güzel sanatlarla ilgili hangi temel özelliği bünyesinde barındırması gerekmez ?",
+        "SoruMetni": "Çekilen fotoğrafın temel değerler taşıyabilmesi için güzel sanatlarla ilgili hangi temel özelliği bünyesinde barındırması gerekmez ?",
         "A": "ışığı",
         "B": "rengi",
         "C": "ton değerleri",
@@ -878,6 +1138,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Çekilen fotoğrafın temel değerler taşıyabilmesi için ışığı, rengi, ton değerleri, kompozisyon gibi, güzel sanatlarla ilgili temel özellikleri bünyesinde barındırması gerekir."
+    },
+    {
+        "SoruID": 3350864,
+        "SoruMetni": "İyi bir fotoğrafçı için söylenecek söz, teknik bilgileri özümsemiş, kültürel değerlerini kullanabilen ve herkesten farklı bir .............. olabilmedir. Cümlesindeki boşluk aşağıdaki şıklardan hangisyle dolmalıdır?",
+        "A": "bakış ve çizime sahip",
+        "B": "bakış ve görüşe sahip",
+        "C": "bakış ve paraya sahip",
+        "D": "bakış ve yaşa sahip",
+        "E": "bakış ve kitaba sahip",
+        "DogruCevap": "B",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.045584",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İyi bir fotoğrafçı için söylenecek söz, teknik bilgileri özümsemiş, kültürel değerlerini kullanabilen ve herkesten farklı bir <strong>bakış ve görüşe</strong> sahip olabilmedir."
     },
     {
         "SoruID": 3350866,
@@ -921,7 +1201,7 @@
     },
     {
         "SoruID": 3350868,
-        "SoruMetni": "\"Vizör objektiften tamamen bağımsızdır. Bu tip makinelerde vizörde pentaprizma (gelen ışığı odaklamamıza ve ters gelen görüntüyü düz olarak görmemizi sağlar) olmadığı için, objektiften gelen ışık doğrudan sensöre ulaşır.\" Çalışması bu şekilde  tanımlanan makine aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Vizör objektiften tamamen bağımsızdır. Bu tip makinelerde vizörde pentaprizma (gelen ışığı odaklamamıza ve ters gelen görüntüyü düz olarak görmemizi sağlar) olmadığı için, objektiften gelen ışık doğrudan sensöre ulaşır.\" Çalışması bu şekilde tanımlanan makine aşağıdakilerden hangisidir?",
         "A": "Digital Makina",
         "B": "Analog Makina",
         "C": "Renkli Makina",
@@ -941,7 +1221,7 @@
     },
     {
         "SoruID": 3350869,
-        "SoruMetni": "\"Fotoğraf makinesinde, belgelenmek istenen objeden yansıyan ışık objektife ulaşır, objektifte toplanan ve odaklanan ışık diyaframdan geçerek örtücüye ulaşır. Örtücü perde, çekim sırasında önceden seçilen bir süre boyunca açık kalarak ışığın, film üzerine düşmesini ve kaydolmasını sağlar.\"<br/><br/>Yukarıda ifade edilen özellikleri taşıyan makine aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Fotoğraf makinesinde, belgelenmek istenen objeden yansıyan ışık objektife ulaşır, objektifte toplanan ve odaklanan ışık diyaframdan geçerek örtücüye ulaşır. Örtücü perde, çekim sırasında önceden seçilen bir süre boyunca açık kalarak ışığın, film üzerine düşmesini ve kaydolmasını sağlar.\"<br/>Yukarıda ifade edilen özellikleri taşıyan makine aşağıdakilerden hangisidir?",
         "A": "Poloraid Makina",
         "B": "Digital Makina",
         "C": "Panaromik Makina",
@@ -998,6 +1278,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Kullanılabilecek ilk fotoğraf makinesi 1838 yılında Fransız ressam olan Louis Daguerre tarafından geliştirilmiştir. Doğru cevap B seçeneğinde verilmiştir."
+    },
+    {
+        "SoruID": 3350872,
+        "SoruMetni": "Aşağıda verilen isimlerden hangisi Atatürk’ün fotoğraflarını çekerek portre geleneğini devam ettiren ve foto muhabiri unvanı ile atanan ilk kişi olmuştur?",
+        "A": "Vasil Kargopoulo",
+        "B": "Bogos Tarkulyan",
+        "C": "Selahattin Giz",
+        "D": "Cemal Işıksel",
+        "E": "Şinasi Barutçu",
+        "DogruCevap": "D",
+        "DersAd": "Temel Fotoğrafçılık",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.061063",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Cumhuriyet döneminde fotoğraf stüdyoları kısa sürede ülke geneline yayılmıştır ve cumhuriyetin ilanından sonraki dönemin fotoğrafçısı Cemal Işıksel ise Atatürk’ün fotoğraflarını çekerek portre geleneğini devam ettiren ve ilk foto muhabiri unvanı ile atanan kişi olmuştur. Bu göreve 1929 yılında Atatürk’ün emriyle Ankara Ulus Gazetesi’nde başlamıştır. Atatürk’e ait zengin bir fotoğraf koleksiyonuna da sahiptir. Doğru cevap D seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3350873,
@@ -1137,6 +1437,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Stereoskobik Makinelerin özelliği görüntüyü üç boyutlu olarak görebilmek için üzerinde bulunan iki ayrı kamera ile aynı anda,  iki farklı açıdan çekebilmesi esasına dayanır. Doğru cevap B seçeneğinde verilmiştir."
+        "Aciklama": "Stereoskobik Makinelerin özelliği görüntüyü üç boyutlu olarak görebilmek için üzerinde bulunan iki ayrı kamera ile aynı anda, iki farklı açıdan çekebilmesi esasına dayanır. Doğru cevap B seçeneğinde verilmiştir."
     }
 ]

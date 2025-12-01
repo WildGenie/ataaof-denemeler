@@ -15,7 +15,7 @@
     - D-) Görmek ve duymak - Yazmak - Konuşmak - Görsel imgeler oluşturmak
     - E-) Yazmak - Görmek ve duymak - Görsel imgeler oluşturmak - Konuşmak
     ***
-1. **Aşağıdakilerden hangisi mağara resimleriyle bilinen, başlıca yerlerden biri değildir?**
+1. **Aşağıdakilerden hangisi mağara resimleriyle bilinen, başlıca yerlerden biri değildir?**
     - A-) Lascaux Mağarası, Fransa
     - B-) Coliboaia Mağarası, Romanya
     - **Cevap C-) Damlataş Mağarası, Türkiye**
@@ -36,7 +36,7 @@
     - D-) Fonetik alfabenin inançlara daha uygun olması
     - E-) Fonetik alfabenin ticari maliyetleri azaltması
     ***
-1. 8. yüzyılın sonlarında küçük (miniskül) harfler ortaya çıkmış ve Frenk İmparatoru Şarlman (Charlamagne) tarafından resmî yazı biçimi olarak ilan edilmiştir. **Aşağıdakilerden hangisi küçük harflerin ortaya çıkmasının önemli nedenlerinden biridir?**
+1. 8\. yüzyılın sonlarında küçük (miniskül) harfler ortaya çıkmış ve Frenk İmparatoru Şarlman (Charlamagne) tarafından resmî yazı biçimi olarak ilan edilmiştir.**Aşağıdakilerden hangisi küçük harflerin ortaya çıkmasının önemli nedenlerinden biridir?**
     - A-) Küçük harflerin görsel olarak daha etkileyici olması
     - B-) Küçük harflerin Frenk kültürünü yansıtması
     - C-) Küçük harflerin daha az maliyetli olması
@@ -297,7 +297,7 @@
     - D-) Müşteri briefi ve tasarım araştırmalarından yararlanılmalıdır.
     - E-) Önce alternatif fikirler geliştirilmelidir.
     ***
-1. I. Müşterinin hakkında net bir resim sunar.<br />II. Eksik veya hatalı olması proje hedeflerinden uzaklaştırır.
+1. I. Müşterinin hakkında net bir resim sunar.<br />II. Eksik veya hatalı olması proje hedeflerinden uzaklaştırır.<br />III. Müşteriyi düşünmeye yönlendirir.<br />**Yukarıdakilerden hangisi ya da hangileri tasarımda “Yaratıcı Brief’” ile ilgilidir?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -318,7 +318,7 @@
     - D-) Tasarım
     - E-) Beyin Fırtınası
     ***
-1. **Aşağıdakilerden hangisi tasarım alanlarında yaratıcılığı etkileyen faktörlerden biri değildir?**
+1. **Aşağıdakilerden hangisi tasarım alanlarında yaratıcılığı etkileyen faktörlerden biri değildir?**
     - A-) İşlevsellik
     - B-) Sezgisel Yaklaşım
     - C-) Hedef Kitle Beklentileri
@@ -332,7 +332,7 @@
     - D-) Not Alma Yöntemi
     - **Cevap E-) Kuluçka Yöntemi**
     ***
-1. I. Konuya yaklaşım biçimi<br />II. Tasarımcıların biyografileri
+1. I. Konuya yaklaşım biçimi<br />II. Tasarımcıların biyografileri<br />III. Ürün veya hizmetin analizi<br />**Yukarıdakilerden hangisi ya da hangileri tasarım araştırmalarının içeriğinde yer almalıdır?**
     - **Cevap A-) Yalnız I**
     - B-) I ve II
     - C-) II ve III
@@ -346,7 +346,7 @@
     - D-) Bütçe
     - E-) Teslim Tarihi
     ***
-1. **Aşağıdakilerden hangisi yaratıcı bir tasarımın özelliklerinden biri değildir?**
+1. **Aşağıdakilerden hangisi yaratıcı bir tasarımın özelliklerinden biri değildir?**
     - A-) İşlevsel olmak
     - B-) Estetik olmak
     - C-) Dikkat çekici olmak
@@ -360,7 +360,7 @@
     - D-) Sentez Yöntemi
     - E-) Dikey ve Kapsamlı Düşünme Yöntemi
     ***
-1. I.   Projenin Ana Hedefi<br />II.  Hedef kitle
+1. I. Projenin Ana Hedefi<br />II. Hedef kitle<br />III. Kullanılması düşünülen mecralar<br />**Başarılı olarak değerlendirilebilecek bir brief’in içeriğinde yukarıdakilerden hangisi ya da hangileri olmalıdır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) Yalnız III
@@ -692,7 +692,7 @@
     - D-) Izgara sistemi tipografik tasarımın bir parçasıdır.
     - E-) Izgara sistemi görsel ögeler için geçerli değildir.
     ***
-1. I. Kitabın okuma yönü tasarımın akışını belirler.<br />II. Kitabın sayfa tasarımında göz yukarıdan aşağıya doğru bir hareket izler
+1. I. Kitabın okuma yönü tasarımın akışını belirler.<br />II. Kitabın sayfa tasarımında göz yukarıdan aşağıya doğru bir hareket izler<br />III. Kitabın tasarımında sayfalar bir bütün olarak tasarlanmalıdır.<br />**Yukarıdakilerden hangisi ya da hangileri kitabın okunma ilkelerindendir?**
     - A-) Yalnız III
     - B-) I, II ve III
     - C-) Yalnız II
@@ -734,7 +734,7 @@
     - D-) Basım yılı
     - E-) Editörün adı
     ***
-1. **Kitap kapağı tasarım sürecinde soldan sağa doğru****öğelerin sıralanış biçimi aşağıdakilerden hangisidir?**
+1. **Kitap kapağı tasarım sürecinde soldan sağa doğru** **öğelerin sıralanış biçimi aşağıdakilerden hangisidir?**
     - A-) Ön kapak-Arka kapak-Sırt
     - B-) Sırt-Ön kapak-Arka kapak
     - C-) Arka kapak-Ön kapak-Sırt
@@ -776,7 +776,7 @@
     - D-) Rulo
     - E-) Volüm
     ***
-1. I. Denge<br />II. Boşluk
+1. I. Denge<br />II. Boşluk<br />III. Hiyerarşi<br />**Yukarıdakilerden hangisi ya da hangileri kitap tasarımında dikkate alınmalıdır?**
     - A-) Yalnız I
     - B-) I ve II
     - C-) I ve III
@@ -944,4 +944,837 @@
     - C-) Magazinel dergi
     - D-) Bilimsel dergi
     - E-) Editöryal dergi
+    ***
+## Unite 8
+1. **Afiş tasarımının amacıyla ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Afiş tasarımının amacı mesajları en kısa sürede iletmektir.
+    - **Cevap B-) Afiş tasarımının amacı duvarları süslemektir.**
+    - C-) Afiş tasarımının amacı mesajları hedef kitleye iletmektir.
+    - D-) Afiş tasarımın amacı mesajları hatırlanabilir bir şekilde iletmektir.
+    - E-) Afiş tasarımının amacı dikkat çekmektir.
+    ***
+1. **Grafik imgelerin tanımına yönelik olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Grafik imgeler illüstrasyon, fotoğraf, harf, rakam ve şekillerden oluşur.
+    - B-) Grafik imgeler görüntüler ve kavramlar arasında bağlantılar kurar.
+    - **Cevap C-) Grafik imgeler günlük yaşamdaki görüntülere benzer.**
+    - D-) Grafik imgeler fazlalıklarından arındırılmış görüntülerdir.
+    - E-) Grafik imgeler stilize edilmiş görüntülerdir.
+    ***
+1. “Afiş tasarımında kullanılan imgeler konuya ve hedef kitleye göre ……………….. olarak belirlenir.”<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) kavramsal
+    - B-) soyutlanmış
+    - C-) farklılaştırılmış
+    - D-) basitleştirilmiş
+    - **Cevap E-) stratejik**
+    ***
+1. …………….. afişler markaların, ürünlerin ve hizmetlerin tanıtımında kullanılmaktadır. Reklamcılığın temelini oluşturan bu afiş türünde genellikle ürün görseli ön plandadır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) Ticari**
+    - B-) Kültürel
+    - C-) Sosyal
+    - D-) Kavramsal
+    - E-) Toplumsal
+    ***
+1. **Espiri unsurunun tasarımdaki rolü nedir?**
+    - A-) Tasarımda kullanılan espiriler konuyu daha iyi anlatır.
+    - B-) Espiri unsuru tasarımı daha güzel gösterir.
+    - **Cevap C-) Espiri unsuru güven, iyi niyet ve dostluk atmosferi yaratır.**
+    - D-) Espiri unsuru tasarımın önemini artırır.
+    - E-) Espirili tasarımlar daha doğal ve gerçekçi görünürler.
+    ***
+1. **Tiyatro, konser, sergi, sinema ve konferans gibi etkinliklerin duyurulması için tasarlanan afişler nasıl tanımlanır?**
+    - A-) Öğretici
+    - B-) Ticari
+    - C-) Sosyal
+    - **Cevap D-) Kültürel**
+    - E-) Sanatsal
+    ***
+1. **Polonya’da afiş tasarımının gelişmesinin nedeni nedir?**
+    - **Cevap A-) Polonya’nın Komünist bir ülke olması**
+    - B-) Polonyada çok yetenekli sanatçıların olması
+    - C-) Polonya’nın teknolojik altyapısının çok iyi olması
+    - D-) Polonya’nın Avrupa’nın tasarım merkezi olması
+    - E-) Polonya’nın coğrafi konumu
+    ***
+1. …………….. konusu harfleri, rakamları ve noktalama işaretlerini kullanarak konuşma diline özgü sesleri ve duyguları görsel ifadelere dönüştürmektir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Afişin
+    - B-) Tasarımın
+    - **Cevap C-) Tipografinin**
+    - D-) İmgelerin
+    - E-) Grafik tasarımın
+    ***
+1. Kapsamı dar bir sözcüğün, kapsamı kendisininkinden çok daha geniş bir başka sözcüğün yerine kullanılmasıdır ve bu anlatım, karmaşık bir ana konunun, kendisiyle doğrudan bağlantılı ancak daha basit ve anlaşılabilir bir başka şeyle temsilinin mümkün kılınması ile gerçekleşebilir.<br />**Yukarıdaki ifade aşağıdakilerden hangisini tanımlar?**
+    - A-) Düzdeğişmece (Metonimi),
+    - **Cevap B-) Anlam Aktarımı (Synecdoche)**
+    - C-) Eğretileme (Metafor)
+    - D-) Bitiştirme (Juxtaposition)
+    - E-) Benzetme
+    ***
+1. **Aşağıdakilerden hangisi a****fiş tasarımında imgelerin tercih edilmesinin başlıca nedeni değildir?**
+    - A-) Dikkat çekmesi
+    - **Cevap B-) Güzel görünmesi**
+    - C-) Kolay anlaşılması
+    - D-) Yoruma açık olması
+    - E-) Gerçekçi görünmesi
+    ***
+1. **Afiş tasarımı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Afiş tasarımının amacı mesajları mümkün olan en kısa sürede ve hatırlanabilir bir şekilde hedef kitleye iletmektir.
+    - B-) Afişler görsel buluşlarla veya tipografik oyunlarla izleyicilerin dikkatini çeken ve basılarak çoğaltılan görsel iletişim araçlarıdır.
+    - C-) Afiş tasarımı, görsel iletişim tekniklerine dayanan ve yaratıcılık gerektiren bir alandır.
+    - D-) Afiş tasarımı yaparken kullanılan görsel üsluplar veya kişisel tarzlar sanatsal bir ifade yaratılmasına yardımcı olur.
+    - **Cevap E-) Afiş tasarımı konularına göre "imgesel" ve "tipografik" afişler olmak üzere iki kısma ayrılır.**
+    ***
+1. **Doğayı anlatırken tümünü göstermek yerine, doğaya ait bir parçanın, tek bir ağacın gösterilmesi afiş tasarımında görsel mecazlarla anlatım türlerinden hangisine örnek verilebilir?**
+    - **Cevap A-) Düzdeğişmeceye**
+    - B-) Anlam aktarımına
+    - C-) Eğretilemeye
+    - D-) Bitiştirmeye
+    - E-) Benzetmeye
+    ***
+1. **Tipografik afişlerle ilgili olarak aşağıdakilerden hangisi yanlıştır**?
+    - A-) Tipografik afişler çoğu zaman görsel buluşlar içerir.
+    - **Cevap B-) Tipografik afişlerle resim sanatı arasında yakın bir ilişki vardır.**
+    - C-) Afişlerde kullanılan tipografinin konuyla uyumlu olması önem taşımaktadır.
+    - D-) Tipografinin konusu harfleri, rakamları ve noktalama işaretlerini kullanarak konuşma diline özgü sesleri ve duyguları görsel ifadelere dönüştürmektir.
+    - E-) Tipografinin amacı iletilecek mesajı görsel bir anlatım ile destekleyecek yazı biçimleri yaratmaktır.
+    ***
+1. **Afiş tasarımıyla ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Afişler yazıların ve görüntülerin dikkat çekici bir şekilde bir araya getirildiği, siyah-beyaz veya renkli baskı teknikleriyle çoğaltılabilen, dört kenarı sınırlandırılmış görsel iletişim yüzeyleridir.
+    - B-) Afiş tasarımının amacı mesajları mümkün olan en kısa sürede ve hatırlanabilir bir şekilde hedef kitleye iletmektir.
+    - C-) Afişler görsel buluşlarla veya tipografik oyunlarla izleyicilerin dikkatini çeken ve basılarak çoğaltılan görsel iletişim araçlarıdır.
+    - D-) Afiş tasarımı, görsel iletişim tekniklerine dayanan ve yaratıcılık gerektiren bir alandır.
+    - **Cevap E-) Afiş tasarımı yalnızca manipüle edilmiş illüstrasyonların ve fotoğrafların kullanıldığı bir tasarım alanıdır.**
+    ***
+1. Milton Glaser'a göre grafik tasarım uygun unsurları içinde bulundururken aynı zamanda bir bütünlük kavramına da erişmelidir.<br />**Yukarıdaki cümleye göre bütünlük kavramının önemi aşağıdakilerden hangisidir?**
+    - **Cevap A-) Grafik tasarımda içerik ve biçim uyumlu olmalıdır.**
+    - B-) Grafik tasarım unsurları güzel görünmelidir.
+    - C-) Grafik tasarımda kullanılan görsel ögeler birbirine benzemelidir.
+    - D-) Grafik tasarımda her zaman belirli üsluplar kullanılmalıdır.
+    - E-) Grafik tasarımda kullanılan görüntüler bütünlük sağlar.
+    ***
+1. **Aşağıdakilerden hangisi afiş tasarımında kullanılan görüntülerin temel özelliklerinden biri değildir?**
+    - A-) Anlaşılabilirlik
+    - B-) Basitlik
+    - **Cevap C-) Güzellik**
+    - D-) Hatırlanabilirlik
+    - E-) Görünürlük
+    ***
+1. **Afiş tasarımına başlamadan önce aşağıdakilerden hangisini yapmak gerekir?**
+    - A-) Yazı karakterleri seçilir.
+    - **Cevap B-) Konuyu araştırmak ve anlamak gerekir.**
+    - C-) Hangi görsel tarzın kullanılacağı belirlenir.
+    - D-) Görüntüler ve yazılar düzenlenir.
+    - E-) Dikkat çekici fikirler bulunur.
+    ***
+1. I. Kültürel afişler<br />II. İmgesel afişler<br />III. Tipografik afişler<br />**Yukarıdakilerden hangisi ya da hangileri görsel özelliklerine göre afiş türlerindendir?**
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) I ve III
+    - **Cevap D-) II ve III**
+    - E-) I, II ve III
+    ***
+## Unite 9
+1. **İlk sayısal arabirimlerin geliştirilmesi evresinde hangi önerme yanlıştır?**
+    - A-) İlk arabirimler masaüstü cihazlar üzerinde geliştirilmiştir.
+    - B-) Çalışmaların amacı insan-makine etkileşimini kolaylaştırmaktır.
+    - **Cevap C-) Keşfedilen etkileşimler güncel cihazlarda geçerliliğini korumamaktadır.**
+    - D-) Yeni araştırma alanlarının doğuşunu sağlamışlardır.
+    - E-) Amaç teknolojinin kullanışlılığını arttırmaktır.
+    ***
+1. **Hangisi arabirim kütüphanelerinin temel amaçlarından değildir?**
+    - A-) Tasarımcılara kolaylık sağlamak.
+    - B-) Tasarımda dil birliği geliştirmek.
+    - C-) Arayüzlerde standart oluşturmak.
+    - D-) Tasarım hızını arttırmak
+    - **Cevap E-) Tasarımlarda tektipleşme sağlamak.**
+    ***
+1. **Aşağıdaki gelişmelerden hangisi grafik arayüzlerin evrimini doğrudan etkilememiştir?**
+    - A-) Donanımsal üretim maliyetlerinin düşüşü.
+    - B-) Mikroçip teknolojisinin yaygınlaşması.
+    - C-) Mobil cihazların kullanım yaygınlığı.
+    - D-) Teknolojinin ulaşılabilir hale gelmesi.
+    - **Cevap E-) Markaların birbirleri ile olan rekabetleri.**
+    ***
+1. İlk bilgisayarlardan yakın geçmişimize kadar grafik arabirimler hem kullanım biçimi hem de grafikleri ile fiziksel objeleri taklit etmeye yönelmişlerdir. Bu yönelimin temel sebebi insanların geleneksel algısına yakın durarak öğrenmeyi ve adaptasyonu kolaylaştırmaktır.<br />**Bu tasarım anlayışına ne ad verilir?**
+    - A-) Düz tasarım
+    - B-) Materyal Tasarım
+    - C-) Grid sistemi
+    - **Cevap D-) Skemorfik tasarım**
+    - E-) Web tasarım
+    ***
+1. **Arayüzlerde üç boyut etkisini ortadan kaldıran tasarım yaklaşımı aşağıdakilerden hangisidir?**
+    - **Cevap A-) Flat Tasarım**
+    - B-) İsviçre Stili
+    - C-) Material Tasarım
+    - D-) Deneyim Tasarımı
+    - E-) Taklit Tasarım
+    ***
+1. **Aşağıdakilerden hangisi yeni nesil yalın arayüz tasarım stillerinin temel amaçlarından biri olamaz?**
+    - A-) Kullanım hızını arttırmak
+    - B-) Anlaşılır olmak
+    - C-) Ekran yüzeyini verimli kullanmak
+    - **Cevap D-) Cihaz donanımına düşen yükü azaltmak**
+    - E-) Zihinsel yükü düşürmek
+    ***
+1. **Aşağıdakilerden hangisi günümüz yaygın arabirimlerinden biri değildir?**
+    - A-) Masaüstü arabirimleri
+    - B-) Giyilebilir teknoloji arabirimleri
+    - **Cevap C-) Akıllı trafik sistemi arabirimleri**
+    - D-) Ekransız arabirimler
+    - E-) Mobil arabirimler
+    ***
+1. **Aşağıdakilerden hangisi tasarım öncesi araştırmaların kapsamına girmez?**
+    - **Cevap A-) Doğru tipografik seçimler yapmak.**
+    - B-) Kullanıcıyı tanımak,
+    - C-) Arayüzün ve uygulamanın özelliklerini belirlemek,
+    - D-) Kullanıcının hayatı üzerinde içgörü edinmek,
+    - E-) Rakip pazarı tanımak
+    ***
+1. **Aşağıdakilerden hangisi yüksek çözünürlüklü prototiplerin temel hedeflerinden biri değildir?**
+    - A-) Doğru renk kullanımlarını bulmak
+    - B-) Tipografi ve okunaklılık konusunda kararlar geliştirmek
+    - C-) Tasarımın duygusal çıktıları üzerine veri elde etmek
+    - **Cevap D-) Tasarımın pazar payını ölçmek**
+    - E-) Tasarım yapısının işlerliğini test etmek
+    ***
+1. **Hangisi İteratif yaklaşım prensiplerinden değildir?**
+    - A-) Tasarımı yaşayan bir organizma olarak kabul etmek
+    - B-) Tasarımda ‘son’ kavramını kabul etmemek
+    - C-) Sürekli geliştirmeye açık olmak
+    - D-) Maliyet ve zamandan tasarruf etmek
+    - **Cevap E-) Proje ekibini yalınlaştırmak.**
+    ***
+1. **Arayüz tasarımının teknolojik evrimi ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Grafik arayüzlerin evrimi, işlemciler, mikroçipler, ekran teknolojileri, sensörler gibi donanım teknolojileri ile paralellik göstermektedir.
+    - B-) Flat tasarımlar arayüzlerde üç boyutu ortadan kaldırmış, daha net ve kontrastlı renkler, beyaz boşluk ve tipografinin daha etkin kullanımı ile arabirim ögeleri arasındaki hiyerarşiyi kurmayı hedeflemiştir.
+    - C-) Grafik arayüzleri materyal olarak dış dünyayı taklit eden uzantılar olmak yerine kendi dünyalarını yaratan ekosistemlere dönüşmüşlerdir.
+    - **Cevap D-) Arayüzlerde yer alan Arama, Ayarlar, Menüler gibi ikonlar grafik ögeleri içerisinde yer almaz.**
+    - E-) Material Design arayüzlere üçüncü boyutu geri getirmiş fakat gerçek dünyanın taklidinden kaçınmıştır.
+    ***
+1. **Masaüstü arabirimlerle ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Masaüstü arabirimleri daha uzun vakit geçirilen etkileşim ortamlarıdır.
+    - B-) Kontrollü ortamlarda kullanılırlar ve sıklıkla yer değiştirmezler.
+    - C-) Karmaşık işlemler gerçekleştirmeye müsaitlerdir.
+    - D-) Dikkat gerektiren işlemlerde daha sık tercih edilirler.
+    - **Cevap E-) Yeni nesil gösterge tasarımları aynı zamanda etkileşimli ve üretim hatları ile konuşabilen arabirimlerdir.**
+    ***
+1. **Aşağıdakilerden hangisi** **günümüzde kullanım sıklıklarına göre arabirim medium türleri arasında yer almaz?**
+    - A-) Masaüstü arabirimler
+    - B-) Mobil arabirimler
+    - **Cevap C-) Açık sistem arabirimler**
+    - D-) Ekransız arabirimler
+    - E-) Giyilebilir teknoloji arabirimleri
+    ***
+1. **Aşağıdaki önermelerden hangisi günümüz grafik tasarımcıların çalışma ekosistemi ile örtüşmektedir?**
+    - A-) Grafik Tasarımcılar basılı medyaların üretilmesi ile sorumludur.
+    - B-) Grafik Tasarımcılar bireysel çalışma alışkanlığını sürdürmektedir.
+    - **Cevap C-) Grafik Tasarımın sınırları her geçen gün bulanıklaşmaktadır.**
+    - D-) Baskı teknolojilerindeki gelişim grafik tasarımın yönünü tayin eder.
+    - E-) Grafik tasarımcılar iletişim problemlerini içgüdüsel yetenekleri ile çözerler.
+    ***
+1. I. Flat Tasarım<br />II. Skemorfik Tasarım<br />III. Material Tasarım<br />**Verilen anlayış biçimlerinin geliştirilme sırasına göre doğru sıralanışı** **a****şağıdakilerden hangisi****dir?**
+    - A-) I, II, III
+    - B-) III, II, I
+    - C-) I, III, II
+    - D-) III, I, II
+    - **Cevap E-) II, I, III**
+    ***
+1. **Hangisi Wireframe (Izgara) Test Yöntemi'nin temel amaçlarından biri değildir?**
+    - A-) Tasarımı en erken aşamada değerlendirmek
+    - **Cevap B-) Ürünün pazar payını ölçmek**
+    - C-) Maliyetten tasarruf etmek
+    - D-) İçerik tasarım ilişkisini ölçmek
+    - E-) Zamandan tasarruf etmek
+    ***
+1. **Minimum fiziksel etkileşimle maksimum verim almayı hedefleyen arabirim medyumu aşağıdakilerden hangisidir?**
+    - A-) Ekransız arabirimler
+    - B-) Masaüstü arabirimleri
+    - **Cevap C-) Giyilebilir teknoloji arabirimleri**
+    - D-) Mobil arabirimler
+    - E-) Kapalı sistem arabirimler
+    ***
+1. **Tasarımı iyileştirmenin yanında projenin maliyet ve zaman konusunda daha verimli hâle gelmesini sağlayan arayüz tasarım yaklaşımı aşağıdakilerden hangisidir?**
+    - **Cevap A-) İteratif tasarım**
+    - B-) Flat tasarım
+    - C-) Skemorfik tasarım
+    - D-) Material tasarım
+    - E-) Wireframe tasarım
+    ***
+## Unite 10
+1. **Sergileme tasarımının tanımlanması ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Sergileme, var olan nesneleri sunma eylemi olarak adlandırılmaktadır.
+    - **Cevap B-) Salt eğlence için yaratılmıştır.**
+    - C-) Kurgu kavramı “planlama” ve “zamanlama” ile bağlantılı değildir.
+    - D-) Sergileme tasarımı ise günümüzde sunma eyleminin görsel iletişim tasarımıyla bütünleşmiş hâlidir.
+    - E-) Mekânın, medyanın, içeriğin ve anlatının bütünleşmiş bir parçasıdır.
+    ***
+1. **Nesnelerin, Paleolitik Dönem mezarlarında kazandıkları anlam** **a****şağıdakilerden hangisidir****?**
+    - A-) Bilgi
+    - B-) Elverişlilik
+    - C-) Gösteriş
+    - **Cevap D-) Statü**
+    - E-) Seyirci
+    ***
+1. **Bir tasarımda anlam yaratmak için aşağıdakilerden hangisi gereklidir?**
+    - A-) Denge
+    - B-) Vurgu
+    - C-) Alan
+    - **Cevap D-) Kurgu ve yapılandırma**
+    - E-) Hareket
+    ***
+1. **Aşağıdakilerden hangisi etkileşimli uygulamalara örnek olarak verilemez?**
+    - A-) Deneyim odaları
+    - B-) Sanal gerçeklik uygulamaları
+    - C-) Dokunmatik sistemler
+    - D-) Simülatörler
+    - **Cevap E-) Çevresel grafikler**
+    ***
+1. Müze ve galerilerde yer alan vitrin sergilemeleri genellikle nesnelerin ………… ile muhafaza edilerek teşhir edilmesi yöntemidir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) cam**
+    - B-) pleksiglas
+    - C-) beton
+    - D-) çelik
+    - E-) ahşap
+    ***
+1. **Sergileme tasarımı türlerine göre incelendiğinde aşağıdakilerden hangisi dahil değildir?**
+    - A-) Anı
+    - B-) Tarih
+    - C-) Belgesel
+    - **Cevap D-) Kapalı Alan**
+    - E-) Sanal
+    ***
+1. **Aşağıdaki hangisi açık hava sergilemelerine örnektir?**
+    - A-) Türk ve İslam Eserleri Müzesi
+    - B-) Efes Antik Kenti
+    - C-) Londra Doğa-Tarih Müzesi
+    - **Cevap D-) Letonya Savaş Müzesi**
+    - E-) İstanbul Arkeoloji Müzesi
+    ***
+1. “Belgesel sergilemeleri tıpkı belgesel filmlerde olduğu gibi, içeriğini hayattan alan, temelinde “…….”in bulunduğu, kurgusal olmayan sergileme türüdür.”<br />**Boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?**
+    - A-) Eylemin
+    - B-) Deneyimin
+    - C-) Gösterinin
+    - **Cevap D-) Gerçeğin**
+    - E-) Üretimin
+    ***
+1. **Planetaryum genellikle hangi temalı sergilerde sıklıkla kullanılır?**
+    - A-) Belgesel
+    - B-) Bilim
+    - C-) Denizcilik
+    - D-) Oyun
+    - **Cevap E-) Uzay**
+    ***
+1. **Aşağıdakilerden hangisi ticari sergilerin amacı değildir?**
+    - **Cevap A-) İkinci el ürünleri satışa çıkarmak**
+    - B-) Marka profilini yükseltmek
+    - C-) Markanın nasıl algılandığına aracılık etmek
+    - D-) Yeni ürünler piyasaya sürmek
+    - E-) Marka profilini yükseltmek
+    ***
+1. Sanal sergicilik ve müzecilikte ilk adımlardan biri 1990’larda ………………………………………. Müzesi'nde atılmıştır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Paris Bilim ve Teknoloji
+    - B-) Berlin Kent
+    - C-) Türkiye Pera
+    - **Cevap D-) İngiltere Norwich Cestele**
+    - E-) Kaliforniya Bilim ve Endüstri
+    ***
+1. **Belgesel sergiler konusunu aşağıdakilerden hangisinden alır?**
+    - A-) Arkeolojik kazılardan
+    - B-) Bilimsel verilerden
+    - **Cevap C-) Toplumsal olaylardan**
+    - D-) Markalardan
+    - E-) Ören yerlerinden
+    ***
+1. **Müze ve sergilerde sınıflandırma sistemi aşağıdakilerden hangisiyle başlamıştır?**
+    - A-) Louvre Müzesi
+    - **Cevap B-) Nadireler Kabinesi**
+    - C-) Britanya Müzesi
+    - D-) Tutankhamun’un Mezarı
+    - E-) İskenderiye Kütüphanesi
+    ***
+1. **Anıtsal sergilemelerin tarih sergilemelerinden farkı aşağıdakilerden hangisidir?**
+    - **Cevap A-) Mekânın kendisinin aracı olarak kullanılması**
+    - B-) Mermerden yapılması
+    - C-) Yönlendirme işaretlerinin olması
+    - D-) Ses ögelerinin kullanımı
+    - E-) 3D olarak da gezilebilmesi
+    ***
+1. **Günümüz galeri ve müze sergilemelerine öncülük eden sınıflandırma sistemi aşağıdakilerden hangisidir?**
+    - A-) Tutankhamun’un mezar odası
+    - B-) Hera Tapınağı
+    - C-) İskenderiye Kütüphanesi
+    - **Cevap D-) Nadireler kabinesi**
+    - E-) Evrensel sergiler
+    ***
+1. **Aşağıdakilerden hangisi etkileşimli sergi uygulaması örneklerinden biri değildir?**
+    - A-) Simülatörler
+    - B-) Dokunmatik sistemler
+    - **Cevap C-) Hologramlar**
+    - D-) Deneyim odaları
+    - E-) Sanal gerçeklik sistemleri
+    ***
+## Unite 11
+1. **Bir sanatçı ya da tasarımcı portfolyosundan beklenen öncelikli özellik aşağıdakilerden hangisidir?**
+    - A-) Standart bir format kullanılması
+    - **Cevap B-) İçeriğin önüne geçmemesi**
+    - C-) Tüm çalışmalardan birer örnek bulunması
+    - D-) Sanatçı görüşünü içermesi
+    - E-) Bilgisayar ortamında üretilmesi
+    ***
+1. **Portfolyo tasarımında içeriğin düzenlenmesi ile ilgili aşağıdaki ifadelerden hangisi söylenemez?**
+    - **Cevap A-) Kullanılan teknikler hakkında detaylı bilgiye yer verilmelidir.**
+    - B-) Kime sunulacağına göre şekillendirilmelidir.
+    - C-) Görsellerin sıralamasına dikkat edilmelidir.
+    - D-) Çalışma sayısı önemlidir.
+    - E-) Portfolyonun kime ait olduğu belirleyicidir.
+    ***
+1. I. Yeteneğinizi gösterir.<br />II. Potansiyelinizi sunar.<br />III. Çalışma yöntemlerinizi anlatır.<br />**Yukarıdakilerden hangisi ya da hangileri portfolyonun özellikleri ile ilgilidir?**
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) II ve III
+    - D-) Yalnız II
+    - **Cevap E-) I, II ve III**
+    ***
+1. “İki ya da üç güçlü örnekle başlayıp aynı güçlülükte bir başkasıyla bitirmek, daha az önemlileri araya koymak”<br />**Yukarıdaki ifadede aşağıdakilerden hangisi anlatılmaktadır?**
+    - A-) Üretim Planı
+    - B-) Metinsel İlişki
+    - C-) Cv
+    - D-) Tipografik Unsurlar
+    - **Cevap E-) Eser Düzeni**
+    ***
+1. Portfolyo tasarımında tipografi ile ilgili uygulamalarda "yazı karakteri seçimi" ve "............................" iki önemli başlıktır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) metin
+    - B-) kâğıt çeşidi
+    - **Cevap C-) okunabilirlik**
+    - D-) ciltleme
+    - E-) renk
+    ***
+1. **Aşağıdakilerden hangisi portfolyo içeriğinde bulunabilecek unsurlardan birisi değildir?**
+    - **Cevap A-) Görsel kimlik kılavuzu**
+    - B-) Eskiz çalışmalar
+    - C-) Künye bilgileri
+    - D-) Eleştirmen yazısı
+    - E-) Portre fotoğrafı
+    ***
+1. **Çevrimiçi portfolyoların daha fazla kitleye, kişiye hitap edebilme özelliği nasıl bir dezavantajı da beraberinde getirebilir?**
+    - A-) Daha uzun hazırlık süresi gerektirme
+    - B-) Maliyeti yükseltme
+    - **Cevap C-) Büyük oranda öykünme**
+    - D-) Hukuki sorunlar
+    - E-) Tasarımı zorlaştırma
+    ***
+1. I. Yazı karakterinin güncelliği<br />II. Sayfa düzeni<br />III. Katlama yöntemi<br />**Yukarıdakilerden hangisi ya da hangileri portfolyo tasarımının öncelikli konuları arasındadır?**
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) II ve III
+    - **Cevap D-) Yalnız II**
+    - E-) I, II ve III
+    ***
+1. **Çevrimiçi portfolyo platformunun sağladığı imkanlar arasında aşağıdakilerden hangisi yer almaz?**
+    - A-) Sanatçının gelişimi eş zamanlı izlenebilir.
+    - B-) Esin kaynağına dönüşebilir.
+    - C-) Diyaloğu arttırır.
+    - **Cevap D-) Özel üretim yöntemleri daha net hissedilir.**
+    - E-) Rekabeti geliştirebilir.
+    ***
+1. **Basılı portfolyolarla ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - **Cevap A-) Sanatçı ya da tasarımcının basılı bir portfolyo üretmeyi tercih etmesi, alanı ve çalışmalarına verdiği önemi karmaşık bir yoldan kanıtlayacaktır.**
+    - B-) Kitap formatında üretilen basılı portfolyo sunumlarının dışında daha geleneksel bakışla uygulanan yöntemler de hâlâ mevcuttur.
+    - C-) Geleneksel olarak nitelendirilen basılı portfolyoların hem kendi içinde hem de teknolojik ihtimalleri karşısında verimsiz yöntemler olarak değerlendirilmesi doğru değildir.
+    - D-) Basılı portfolyolar her şeyden önce sanatçı veya tasarımcının bizzat müşteri veya ilgili kullanıcı ile yapacağı yüz yüze görüşmelerde etkili tamamlayıcı unsurlar olarak görülmektedirler.
+    - E-) Portfolyo tasarımında içeriğin önüne geçecek her türlü tasarım anlayışından uzak durulması gerekmektedir.
+    ***
+1. Bir portfolyo tasarımında ilk dikkati çeken öge doğal olarak ............ unsurlardır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) ganatsal
+    - **Cevap B-) görsel**
+    - C-) içeriksel
+    - D-) metinsel
+    - E-) tipografik
+    ***
+1. **Kitap formatındaki portfolyoların avantajı aşağıdakilerden hangisidir?**
+    - **Cevap A-) İçeriği üreten olmadan kendisini anlatabilir.**
+    - B-) Diyaloğu artırır.
+    - C-) Güncellenebilmesi kolaydır.
+    - D-) Üretim maliyeti azdır.
+    - E-) Daha fazla kitleye ulaşır.
+    ***
+1. **Portfoyo içeriğinde yer alacak görsel unsurların kısmi iyileştirilmesinde aşağıdakilerden hangisine dokunmak gerekmez?**
+    - A-) Kadraj
+    - B-) Işık
+    - C-) Arka plan
+    - **Cevap D-) İçerik**
+    - E-) Kompozisyon
+    ***
+1. ......................... kullanımda pratiklik sağlanabileceği gibi aynı zamanda hem kolaylıkla güncellenme hem de yaratıcı ve güncel yaklaşımların üretilmesine imkân tanıyacaktır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Hazır şablonların kullanımı
+    - B-) Örnek tasarımların uyarlanması
+    - C-) Format
+    - **Cevap D-) Ciltleme yöntemi**
+    - E-) Sayfa düzeni
+    ***
+1. **Portfolyo içeriği hazırlarken yapılması gerekenlerle ilgili aşağıdakilerden hangisi yanlıştır?**
+    - A-) Portfolyo sahibi hakkında bilgi sunma
+    - B-) Portfolyoya eklenecek eserleri konsepte göre seçme
+    - C-) Protfolyaya eklenecek eserlerin sıralamasını belirleme
+    - **Cevap D-) Protfolyaya eklenecek eserlerle ilgili detayları atlama**
+    - E-) Portfolyoya eklenen eserlerin künyesini sunma
+    ***
+1. **Portfolyo tasarım ve üretim süreciyle ilgili aşağıdakilerden hangisi doğru değildir?**
+    - **Cevap A-) Daha fazla bütçe daha iyi bir portfolyo tasarımı sağlar.**
+    - B-) Portfolyo tasarımındaki metinsel unsurların öncelikle okunabilir olması gerekir.
+    - C-) Başarılı sayfa düzeni tüm tasarım içeriklerinin daha net algılanması sağlar.
+    - D-) Portfolyonun yapısına uygun tasarım formatı kullanımı kolaylığı sağlar.
+    - E-) Grid sistemi portfolyadaki ögeleri yerleştirme kolaylığı sağlar.
+    ***
+## Unite 12
+1. **Jenerik için aşağıdakilerden hangisi söylenemez?**
+    - A-) Filmin kimliğidir
+    - B-) Filmin önsözüdür
+    - C-) Film bütününden bağımsızdır
+    - D-) Film bütününün bir parçasıdır
+    - **Cevap E-) Filmin en önemli parçasıdır**
+    ***
+1. **Genel olarak jeneriğin temel amacı aşağıdakilerden hangisidir?**
+    - **Cevap A-) Filmle ilgili bilgilendirme yapmak**
+    - B-) Filmin çok izlenmesini sağlamak
+    - C-) Filme estetik katmak
+    - D-) Filmin kalıcılığını sağlamak
+    - E-) Filmin süresini uzatmak
+    ***
+1. **Aşağıdakilerin hangisinde jenerik kullanılmaz?**
+    - A-) Sinema filmi
+    - B-) Televizyon programı
+    - **Cevap C-) Tiyatro oyunları**
+    - D-) Dijital oyunlar
+    - E-) Sanal gerçeklik uygulamaları
+    ***
+1. **Jenerik tasarımında sesin kullanıldığı ilk film aşağıdakilerden hangisidir?**
+    - A-) The Merry Go Round
+    - **Cevap B-) Taxi**
+    - C-) Le Voyage Dans La Luna
+    - D-) The Great Train Robbery
+    - E-) Intolarence
+    ***
+1. **Aşağıdakilerden hangisi jeneriklerin işlevlerinden biri değildir?**
+    - A-) Seyirciyi filme hazırlamak
+    - B-) Filmin atmosferini yansıtmak
+    - C-) Filmle ilgili bilgilendirme yapmak
+    - **Cevap D-) Filmin beğenilmesini sağlamak**
+    - E-) Filmde emeği olanları tanıtmak
+    ***
+1. **Filmlerin grafik tasarımla buluşmasını ve film jeneriklerinin bir sanat formuna dönüşmesini sağlayan ilk tasarımcı aşağıdakilerden hangisidir?**
+    - A-) Thomas Edison
+    - B-) David Wark Griffith
+    - C-) Pablo Ferro
+    - **Cevap D-) Saul Bass**
+    - E-) Roy Del Ruth
+    ***
+1. **Aşağıdakilerden hangisi Pablo Ferro’nun jenerik tasarım dünyasına kazandırdıklarından biri değildir?**
+    - A-) Elle çizilmiş animasyon ve yazı
+    - B-) Hızlı kurgu
+    - **Cevap C-) Hareketli grafik görüntüler**
+    - D-) Aşırı yakın çekimler
+    - E-) Bölünmüş ekran montajı
+    ***
+1. **Jenerik tasarımında bilgisayar teknolojilerinin ilk kez kullanıldığı film hangisidir?**
+    - A-) Vertigo
+    - B-) Taxi
+    - C-) The Man with the Golden Arm
+    - D-) The Thomas Crown Affair
+    - **Cevap E-) Superman**
+    ***
+1. **Jenerik tasarımında hareketli görüntünün kullanıldığı ilk film hangisidir?**
+    - A-) Seven
+    - B-) Intolerance
+    - **Cevap C-) The Merry Go Round**
+    - D-) Dr. Strangelove
+    - E-) North by Northwest
+    ***
+1. **Aşağıdakilerden hangisi jenerik tasarımını oluşturan unsurlardan biri değildir?**
+    - A-) Fotoğraf
+    - B-) Ses ve müzik
+    - C-) Animasyon
+    - D-) Doku
+    - **Cevap E-) Mimari**
+    ***
+1. ............ genel olarak ayırt etme, belirleme, vurgulama, uyarma, tanımlama gibi farklı birçok işleve sahiptir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Tipografi
+    - **Cevap B-) Renk**
+    - C-) Doku
+    - D-) İllüstrasyon
+    - E-) Animasyon
+    ***
+1. **Jenerik tasarım sürecinde aşağıdaki unsurlardan hangisi kullanılamaz?**
+    - A-) Tipografi
+    - B-) Renk
+    - C-) İllüstrasyon
+    - D-) Kamera görüntüsü
+    - **Cevap E-) Dekor**
+    ***
+1. **Jenerik tasarımında kullanılacak renkleri seçerken aşağıdakilerden hangisi dikkate alınmayabilir?**
+    - A-) Kültürel çağrışım bakımından ortaya çıkaracakları anlamlar
+    - B-) Hedef kitlenin özellikleri
+    - C-) Hedef kitle üzerinde yaratacakları etkiler
+    - **Cevap D-) Tasarımda kolaylık sağlayacak niteliklere sahip olmaları**
+    - E-) Filmin içeriğiyle bağlantıları
+    ***
+1. **Bir fotoğraf karesi, peş peşe değişen durağan imajlar ya da akan görüntünün üzerine yerleştirilmiş metinsel bilgilerle oluşturulan jenerik türü aşağıdakilerden hangisidir?**
+    - **Cevap A-) Gerçek Görüntü Üzerine Süperimpoze**
+    - B-) Karakter Tanıtım Kurgusu
+    - C-) Fotoğraf Kurgusu
+    - D-) Animasyon ve Hareketli Grafik Kurgusu
+    - E-) Tipografik Kurgu
+    ***
+1. **En sık kullanılan jenerik türü aşağıdakilerden hangisidir?**
+    - A-) Boş arka plan üzerine süperimpoze
+    - B-) Kitap sayfası kurgusu
+    - **Cevap C-) Gerçek görüntü üzerine süperimpoze**
+    - D-) Karakter tanıtım kurgusu
+    - E-) Animasyon ve hareketli grafik kurgusu
+    ***
+1. **Aşağıdakilerden hangisi film başladıktan sonra konumlandırılan jenerik yaklaşımının özelliklerindendir?**
+    - A-) Jenerikte sadece filmin prodüksiyonunu yapan şirketin ismi, logosu ve filmin ismi gösterilir.
+    - B-) Seyircinin filmi seyretme arzusunu, heyecanını ve motivasyonunu sürdürmek için jenerik kısa tutulur.
+    - C-) Jenerik filmden memnun olan seyircinin film ekibine yönelik merakını gidermeyi hedefler.
+    - **Cevap D-) Filmin jenerikten önceki yüksek tempolu ilk sahnesi merak uyandırarak seyirciyi içine çekmeyi hedefler.**
+    - E-) Maliyeti yüksek olduğu için bu tür jenerikler yapım şirketi tarafından pek fazla tercih edilmezler.
+    ***
+## Unite 13
+1. **Grafik tasarım içeriği bakımından kaç bölümde ele alınır?**
+    - A-) 1
+    - B-) 2
+    - C-) 3
+    - **Cevap D-) 4**
+    - E-) 5
+    ***
+1. **Kullanım alanları açısından sosyal kampanya tasarımları siparişi aşağıdakilerden hangisinde yer almaz?**
+    - A-) Kurum ve kuruluşlar
+    - **Cevap B-) Apartman dairesi**
+    - C-) Meslek odası
+    - D-) Şirket
+    - E-) Siyasi parti
+    ***
+1. **Tasarımın sosyal potansiyeli ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Tasarımcılar, kamu yararını hiçe sayan bir projenin içinde olmayı etik açıdan reddedebilirler.
+    - B-) Bir tasarımcı öncelikle tasarım etiği üzerine düşünmelidir.
+    - C-) Tasarımcılar, tasarım problemlerine yanıt üretirken kamu yararını gözetebilir.
+    - D-) Tasarımın, tüketimi rekor seviyede körükleyici bir unsur ve güçlü bir etkiye sahip olduğu kaçınılmaz bir gerçek olarak karşımızda duruyor.
+    - **Cevap E-) Bir tasarımcı son olarak tasarım etiği üzerine düşünmelidir.**
+    ***
+1. “Sosyal tasarıma sıklıkla ihtiyaç duyan kurumlar; …………………… ve kamu yararı temelli odalar, dernekler, vakıflar, sivil toplum örgütleridir.”<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Ticari
+    - B-) Müşteri talebi
+    - **Cevap C-) Kâr amacı gütmeyen**
+    - D-) İletişim
+    - E-) Turistik
+    ***
+1. **Sosyal tasarımda yaklaşımlar ve pratiklerle ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - **Cevap A-) Tasarım; insanlara ürünlerini, çevrelerini ve buna bağlı olarak kendisini şekillendirmesi için verilmiş en doğal araçtır.**
+    - B-) Sosyal tasarımın görsel iletişimdeki başarı etkisi, tasarım yüzeyinde tercih edilen görsel ögeler ve sosyal içerik arasındaki doğru ilişkiye bağlıdır.
+    - C-) Tasarımcı, tasarladığı ürünlerin pazarda nasıl karşılandığı konusunda bir sorumluluk taşır.
+    - D-) Sosyal yönelimli tasarım, toplumsal sorunlar için yenilikçi yollar oluşturma yönünde etkili bir adımdır.
+    - E-) Daha sürdürülebilir bir dünya için bir ön koşul olarak sosyal uyumun, sosyal kapsayıcılığın ve sosyal eşitliğin yanı sıra uluslararası eşitliğin önemi büyüktür.
+    ***
+1. Tasarımcı ……… ve ………. sorumluluğunun bilincinde olması gerekir.<br />**Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?**
+    - A-) sosyal-grup
+    - B-) özgün-ticari
+    - C-) ticari-grup
+    - D-) kültürel-etnik
+    - **Cevap E-) sosyal-ahlaki**
+    ***
+1. **New York’ta doğal güzelliği ile tanınan Hudson Vadisi’ne kurulması planlanan bir çimento fabrikasına olan tepkinin göstergesini ifade eden afiş aşağıdakilerden hangi tasarımcıya aittir?**
+    - A-) Luba Lukova
+    - B-) Alexander Faldin
+    - C-) Lourdes Zolezzi
+    - **Cevap D-) Woody Pirtle**
+    - E-) Lex Drewinski
+    ***
+1. En iyi tasarım hem güzel hem yalın hem de yaratıcı olan tasarımdır. Bu anlamda .................., sosyal sorumluluk bilinci taşıyan bir iletişim tasarımına en uygun yaklaşımdır.<br />**Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) süslemecilik
+    - **Cevap B-) minimalizm**
+    - C-) kârlılık
+    - D-) müşteri çıkarı
+    - E-) tüketim
+    ***
+1. Minimum ....... maksimum ....... harika bir tasarım çözümü olarak kabul edilmelidir.<br />**Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?**
+    - A-) malzeme-tüketim
+    - B-) üretim-kârlılık
+    - **Cevap C-) malzeme-yaratıcılık**
+    - D-) tüketim-üretim
+    - E-) üretim-fiyat
+    ***
+1. **Aşağıdakilerden hangisi ico-D’nin tasarımcılar için belirlediği ilkelerden değildir?**
+    - A-) Bir tasarımcı kendiliğinden ya da müşterisinin isteğiyle kopyacılık yapmamalıdır.
+    - B-) Kendisinden herhangi bir tasarımcı önermesi istendiğinde, önerdiği tasarımcıdan herhangi bir ödeme kabul etmez.
+    - C-) Bir asarımcı eleştirilerinde aşırı olmamalı ve diğer bir meslektaşının adını ve işini küçük düşürmemelidir.
+    - **Cevap D-) Bir tasarımcı kendiliğinden ya da müşterisinin isteğiyle kopyacılık yapmalıdır.**
+    - E-) Bir tasarımcı, müşterisi tarafından, isteği dışında değiştirilerek tanınmaz hale getirilmiş tasarımında adının kullanılmasına izin vermeyebilir.
+    ***
+1. **Sosyal tasarıma ilişkini görüşlerden “Ben daha çok sosyal eşitlik ve adaletten yanayım. Eleştiriyorum çünkü ülkemi ve halkımı seviyorum." ifadesinin tasarımcısı aşağıdakilerden hangisidir?**
+    - **Cevap A-) Alexander Faldin (Rusya)**
+    - B-) Luba Lukova (ABD)
+    - C-) Lex Drewinski (Almanya)
+    - D-) Pasquale Volpe-Tommaso Minnetti (İtalya)
+    - E-) Jonathan Barnbrook (Birleşik Krallık)
+    ***
+1. I. Tasarımcı, toplumun sosyal ve estetik standartlarını yükseltmeyi, profesyonel zorunluluk olarak kabul eder.<br />II. Tasarımcı, ekolojik dengenin ve doğal çevrenin yararı için sorumlulukla hareket etmelidir.<br />III. Tasarımcı, mesleğinin onuruna uygun davranmalıdır.<br />**Yukarıdakilerden hangisi ya da hangileri tasarımcının topluma karşı sorumlulukları arasında yer alır?**
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) I ve III
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. **Tasarımcılar için Uluslararası Tasarım Konseyi’nin (Co-D) belirlediği profesyonel ilkeler arasında aşağıdakilerden hangisi yer almaz?**
+    - A-) Tasarımın fiyatlandırılması
+    - B-) Tasarımcının topluma karşı sorumlulukları
+    - **Cevap C-) Tasarımcı yaşının kullanımı**
+    - D-) Tasarımcının müşterisine karşı sorumlulukları
+    - E-) Tasarımcının diğer tasarımcılara karşı sorumlulukları
+    ***
+1. Tasarımcı, sosyal sorunlara duyarlı olduğu için onlara yanıt üretmek isteyen kurumların tasarım projelerinde …………… ya da …………. olarak yer alır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) profesyonel-gönüllü**
+    - B-) ticari-gönüllü
+    - C-) özgün-gönüllü
+    - D-) bireysel-gönüllü
+    - E-) sezgizel-gönüllü
+    ***
+1. Tasarımcı, …………. ikilemle başa çıkmak zorundadır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Sosyal
+    - B-) Ticari
+    - C-) Özgün
+    - **Cevap D-) Etik**
+    - E-) Kurumsal
+    ***
+1. **Aşağıdakilerden hangisi tasarımın sosyal potansiyeliyle ilgili dikkat edilmesi gereken unsurdur?**
+    - **Cevap A-) Tasarımcı, her türlü üretimini tasarım etiği açısından değerlendirmelidir.**
+    - B-) Tasarımcı, tasarım problemine yönelik çözüm üretirken kaynak israfından kaçınmalıdır.
+    - C-) Tasarımcı, tasarım problemlerine yanıt üretirken kamu yararını gözetmelidir.
+    - D-) Tasarımcı, kamu yararını hiçe sayan bir projenin içinde olmayı reddetmelidir.
+    - E-) Tasarımcı, tasarımın neden olduğu yıkımları gözetmemelidir.
+    ***
+1. **Aşağıdakilerden hangisi uluslararası tasarım konseyinin tasarımcıların diğer tasarımcılara karşı sorumluluklarıyla ilgili belirlediği ilkelerdendir?**
+    - A-) Tasarımcı, müşterisinin üretim yöntemleri ile ilgili bilgilerini izni olmadan dışarıya aktarmamalıdır.
+    - **Cevap B-) Tasarımcı, müşterisinin isteğiyle kopyacılık yapmamalıdır.**
+    - C-) Tasarımcı, müşterisi tarafından, isteği dışında değiştirilerek tanınmaz hale getirilmiş tasarımında adının kullanılmasına izin vermemelidir.
+    - D-) Tasarımcı, uygun bir fiyat belirlenmeden müşteriden iş kabul etmemelidir.
+    - E-) Tasarımcı, ekolojik dengenin ve doğal çevrenin yararı için sorumlulukla hareket etmelidir.
+    ***
+## Unite 14
+1. **Toplum hayatında bireysel davranışları düzenleyen, doğru -yanlış, iyi - kötü, normal – anormal bağlamında yapılan değerlendirmeyle ortaya çıkan ilke ya da kurallar bütünü hangisidir?**
+    - A-) Ahlak
+    - **Cevap B-) Etik**
+    - C-) Kültür
+    - D-) Felsefe
+    - E-) Toplum
+    ***
+1. **Toplumsal şartlar ve imkânlar doğrultusunda eşitlikçi bir anlayışla herkesin hak ettiğine sahip olması ve bu hakların güvence altına alınması savına dayanan düşünce hangisidir?**
+    - **Cevap A-) Adalet**
+    - B-) Eşitlik
+    - C-) Demokrasi
+    - D-) İnsan hakları
+    - E-) Tarafsızlık
+    ***
+1. Belirli bir tarihsel süreçte bir kişinin ya da bir toplumun yaşamına giren ve davranışlarını yönlendiren inanç, değer, buyruk, norm, yasak ve tasarımlar bütününe ………………….. denir.<br />**Yukarıdaki cümleyi doğru şekilde aşağıdakilerden hangisi tamamlar?**
+    - A-) Kültür
+    - B-) Hukuk
+    - **Cevap C-) Ahlak**
+    - D-) Davranış bilimi
+    - E-) Toplum bilimi
+    ***
+1. **Etik aşağıdakilerden hangisini yapmaz?**
+    - A-) Bireysel davranışları düzenlemek
+    - B-) İnsan davranışlarının niteliklerini ahlak bakımından incelemek
+    - C-) İnsanlar arası ilişkilere etki eden değerleri incelemek
+    - D-) İnsan davranışlarının dayanaklarını ahlaki açıdan incelemek
+    - **Cevap E-) Nasıl davranılacağına dair pratik kuralları belirlemek**
+    ***
+1. **Aşağıdakilerden hangisi temel etik değerlerden biri değildir?**
+    - A-) Sorumluluk
+    - B-) Tarafsızlık
+    - C-) Tutumluluk
+    - D-) Sevgi
+    - **Cevap E-) Ayrımcılık**
+    ***
+1. I. Hukuk düzeninin toplumsal anlamda hâkim kılınması<br />II. Hukuk üzerinde herhangi bir baskının söz konusu olmaması<br />III. Yasaların herkese aynı şekliyle uygulanması<br />IV. Yargısız uygulamalardan kaçınılması<br />**Hukukun üstünlüğü fikri yukarıdaki seçeneklerden hangisini gerekli kılar?**
+    - A-) Yalnız I
+    - B-) I ve III
+    - C-) I, II ve IV
+    - D-) I, II ve III
+    - **Cevap E-) I, II, III ve IV**
+    ***
+1. **Aşağıdakilerden hangisi Eşitlik İlkesi'ne dayanır?**
+    - **Cevap A-) Demokrasi**
+    - B-) Teokrasi
+    - C-) Monarşi
+    - D-) Oligarşi
+    - E-) Tarafsızlık
+    ***
+1. **Ahlak kavramı ile ilgili olarak** **a****şağıdakilerden hangisi** **yanlıştır?**
+    - A-) Ahlak, nasıl davranılacağına dair yazılı olmayan pratik kuralları içerir.
+    - B-) Ahlak, yapılması gerekeni söyleyen ve ölçütler koyan bir etkinliktir.
+    - C-) Ahlak, toplumsal yaşam içinde doğru davranış ölçüsüdür.
+    - **Cevap D-) Ahlak “iyi” olanı söylemez, bir şeyin “iyi” olduğu fikrine nasıl ulaşıldığını söyler.**
+    - E-) Ahlak, toplumdan topluma farklılıklar gösterir.
+    ***
+1. **Aşağıdakilerden hangisi Hümanizm'in kapsamında yer almaz?**
+    - A-) İnsanı tek ve en yüksek değer kaynağı görmek
+    - B-) İnsanı sevmeyi ve yüceltmeyi temel amaç olarak benimsemek
+    - **Cevap C-) İnsanın ekonomik kazancını en üst düzeye çıkarmak**
+    - D-) Toplumsal yaşamda insanca yaşam koşullarının yaratılmasını sağlamak
+    - E-) Önceliğin insana ve insan onuruna verilmesini sağlamak
+    ***
+1. **Tutumlu davranış biçimi aşağıdakilerden hangisiyle örtüşür?**
+    - A-) Ürünlerin lüksünü alma
+    - **Cevap B-) Ekonomik ürünleri tercih etme**
+    - C-) İhtiyaçları kısa süreli karşılama
+    - D-) Toplumsal kaynakları kısa sürede tüketme
+    - E-) İhtiyaçların yanında istekleri de karşılama
+    ***
+1. **Aşağıdakilerden hangisi** **günümüzde tasarım alanında etik dışı bir davranış olarak sıkça karşımıza çıkan bazı intihal yöntemleri arasında yer almaz?**
+    - A-) Başkasına ait fikir, tasarım ya da çalışmayı bire bir alıp kendininmiş gibi göstermek
+    - B-) Basılı veya sayısal bir kaynaktan çalışmanın büyük bir bölümünü değişiklik yapmadan kopyalamak
+    - C-) Birden fazla kaynaktan kopyalanan çalışmaları orijinal biçimini kullanacak şekilde birbiriyle uyumlu hâle getirmek
+    - **Cevap D-) Özgün bir çalışma yapmak yerine önceden yapılmış grup çalışmasını yeniden kullanmak**
+    - E-) Çalışmanın çoğunu başka kaynaklardan alarak yorumlamak ve bunları birbirine uydurmaya çalışmak
+    ***
+1. **Aşağıdakilerden hangisi temel etik değerlerden biri değildir?**
+    - A-) Tutumluluk
+    - B-) Sadakat
+    - C-) Saygı
+    - **Cevap D-) Eşitsizlik**
+    - E-) Sorumluluk
+    ***
+1. Etik kavramı, Yunanca “ethos” yani “…………..……..” sözcüğünden türemiştir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) Töre**
+    - B-) Kural
+    - C-) Yasa
+    - D-) Kanun
+    - E-) Kaide
+    ***
+1. **Etik dışı bir yaklaşım sergileyen kurum için aşağıdakilerden hangisi geçerli olmaz?**
+    - A-) Müşteriyi kaybetme
+    - B-) İmaj zedelenmesi
+    - C-) İş birliği çalışmalarının etkililiğini yitirmesi
+    - D-) Saygınlığı yitirme
+    - **Cevap E-) Anemik davranışların ortadan kalkması**
+    ***
+1. **Aşağıdakilerden hangisi grafik tasarımında etik sorunların ortaya çıkma nedenlerindendir?**
+    - A-) Profesyonel grafik tasarımcılarının sayısının artması
+    - B-) Reklam ajanslarının çoğalması
+    - **Cevap C-) İletişim araçlarının gelişmesi ve çeşitlenmesi**
+    - D-) Grafik tasarım programlarının çeşitlenmesi
+    - E-) Grafik tasarımı alanına yönelik kanunların hazırlanması
+    ***
+1. **Bir meslek mensubunun meslek etiği ilkelerine uymaması aşağıdaki sonuçlardan hangisini doğurur?**
+    - A-) Kurumun imajının zedelenmesi
+    - B-) Kurumun müşteriyi kaybetmesi
+    - C-) Grup çalışmalarının etkililiğini yitirmesi
+    - D-) Yozlaşmanın kurumsallaştırılması
+    - **Cevap E-) Meslek mensubunun güvenirliğini kaybetmesi**
+    ***
+1. **Aşağıdakilerden hangisi reklamcılık sektörünün önem kazanmasıyla birlikte ortaya çıkan etik sorunlardan biri değildir?**
+    - A-) Lisanssız program kullanmak
+    - B-) Telif hakkı alınmamış başkalarına ait fikir, tasarım veya görsel unsurları kullanmak
+    - C-) Özgün olmayan, özensiz, çok sayıda tasarım yapmak
+    - **Cevap D-) Grafik tasarımı alanıyla ilgili herhangi bir kanuna sahip olmamak**
+    - E-) Daha fazla maddi kazanç için birbirinin tekrarı olan, benzer tasarımlar yapmak
     ***

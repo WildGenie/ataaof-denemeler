@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 3763958,
-        "SoruMetni": "Genellikle uzmanlar tarafından belirlenen bir norm ya da standarta dayalı olarak oluşturulur. Bu standardın altına düşen her birey ya da grubun ihtiyaçları karşılanmalıdır.<br/><br/>Yukarıdaki açıklamadan hareketle Lee ve Roadman tarafından kategorize edilen ihtiyaç türü aşağıdakilerden hangisidir?",
+        "SoruMetni": "Genellikle uzmanlar tarafından belirlenen bir norm ya da standarta dayalı olarak oluşturulur. Bu standardın altına düşen her birey ya da grubun ihtiyaçları karşılanmalıdır.<br/>Yukarıdaki açıklamadan hareketle Lee ve Roadman tarafından kategorize edilen ihtiyaç türü aşağıdakilerden hangisidir?",
         "A": "Hissedilen ihtiyaç",
         "B": "Açıklanan ihtiyaç",
         "C": "Normatif ihtiyaç",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lee ve Roadman beş tür ihtiyaç türünden söz etmektedirler. Cevap C seçeneği, bu ihtiyaç<br/>türlerinden olan Normatif ihtiyaçtır. Normatif ihtiyaç; genellikle uzmanlar tarafından belirlenen bir norm ya da standarta dayalı olarak oluşturulur. Bu standardın altına düşen her birey ya da grubun ihtiyaçları karşılanmalıdır."
+        "Aciklama": "Lee ve Roadman beş tür ihtiyaç türünden söz etmektedirler. Cevap C seçeneği, bu ihtiyaç<br/>türlerinden olan Normatif ihtiyaçtır. Normatif ihtiyaç; genellikle uzmanlar tarafından belirlenen bir norm ya da standarta dayalı olarak oluşturulur. Bu standardın altına düşen her birey ya da grubun ihtiyaçları karşılanmalıdır."
     },
     {
         "SoruID": 3763959,
@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 3763965,
-        "SoruMetni": "Kullanılan veri toplama tekniğine göre bilgilerin analiz edildiği aşamadır. Bu bölüm ayrıştırma, tanımlama, sıralama, bulguların yorumu, ihtiyacı ortaya çıkarmaya yönelik çalışmaları içerir. Tüm bilgiler gözden geçirilerek, sorunlar, koşullar ve yeni gelişmeler değerlendirilir.<br/><br/>Yukarıda açıklaması verilen ihtiyaç analizi aşaması aşağıdakilerden hangisidir?",
+        "SoruMetni": "Kullanılan veri toplama tekniğine göre bilgilerin analiz edildiği aşamadır. Bu bölüm ayrıştırma, tanımlama, sıralama, bulguların yorumu, ihtiyacı ortaya çıkarmaya yönelik çalışmaları içerir. Tüm bilgiler gözden geçirilerek, sorunlar, koşullar ve yeni gelişmeler değerlendirilir.<br/>Yukarıda açıklaması verilen ihtiyaç analizi aşaması aşağıdakilerden hangisidir?",
         "A": "Hazırlık aşaması",
         "B": "Bilgilerin toplanması aşaması",
         "C": "Bilgilerin analizi aşaması",
@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 3763968,
-        "SoruMetni": "I. Uzmanlardan oluşan bir grup içinde uzlaşma ve fikir birliğine varma çabası güden yapılandırılmış grup görüşme tekniğidir.<br/> II. Katılımcılar bir araya gelmeden, genelde mail yoluyla anket üzerinden görüş bildirirler.<br/> III. Katılımcılar anonim ve birbirinden habersizdir.<br/> IV. Konuyla ilgili uzmanlar grubunun, akılcı ve yazılı bir yaklaşımla ortak görüşlerinin alınmasıdır.<br/> Yukarıda sıralanan özelliklerden hangisi veya hangileri Delphi tekniği için geçerlidir?",
+        "SoruMetni": "I. Uzmanlardan oluşan bir grup içinde uzlaşma ve fikir birliğine varma çabası güden yapılandırılmış grup görüşme tekniğidir.<br/>II. Katılımcılar bir araya gelmeden, genelde mail yoluyla anket üzerinden görüş bildirirler.<br/>III. Katılımcılar anonim ve birbirinden habersizdir.<br/>IV. Konuyla ilgili uzmanlar grubunun, akılcı ve yazılı bir yaklaşımla ortak görüşlerinin alınmasıdır.<br/>Yukarıda sıralanan özelliklerden hangisi veya hangileri Delphi tekniği için geçerlidir?",
         "A": "I, II ve III",
         "B": "I ve II",
         "C": "Yalnız I",
@@ -325,7 +325,7 @@
         "A": "Progel grup iletişimini ön plana çıkarırken, Delphi katılımcıların birbirlerini etkilemelerinin önüne geçmeye çalışır.",
         "B": "Delphi tekniğinde katılımcıların birbirleri ile iletişim kurmasını engellemek önemli iken, Progel tekniğinde elde edilen sonuçlar, katılımcıların iletişimi ile oluşturulur.",
         "C": "Delphi tekniğinde bağımsız düşünce önemli iken, Progel uygulamasında fikir birliği önemlidir.",
-        "D": "Delphi tekniği ile elde edilen verilerin farklılık göstermesi, çeşitliliği önemli iken Progel tekniğinde fikir birliğine varılması, tek bir fikir üzerine yoğunlaşılması ön plandadır.",
+        "D": "Delphi tekniği ile elde edilen verilerin farklılık göstermesi, çeşitliliği önemli iken Progel tekniğinde fikir birliğine varılması, tek bir fikir üzerine yoğunlaşılması ön plandadır.",
         "E": "Progel tekniği öncesinde planlama sürecine yönelik hazırlıklar bulunmaktayken, Delphi tekniğinde süreç plansız bir şekilde gelişir.",
         "DogruCevap": "E",
         "DersAd": "Eğitici İçerik Tasarımı",
@@ -337,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Progel (Dacum) tekniği, uygulama ve biçim bakımından en çok Delphi tekniğine benzemektedir.<br/>Ancak, aralarında önemli farklar bulunmaktadır:<br/> <ul> <li>Progel(Dacum) ile Delphi arasındaki en büyük fark, Progel(Dacum) grup iletişimini ön plana çıkarırken, Delphi katılımcıların birbirlerini etkilemelerinin önüne geçmeye çalışır.</li> <li>Delphi tekniğinde katılımcıların birbirleri ile iletişim kurmasını engellemek önemli iken, Progel(Dacum) tekniğinde elde edilen sonuçlar, katılımcıların iletişimi ile oluşturulur.</li> <li>Delphi tekniğinde bağımsız düşünce önemli iken, Progel(Dacum) uygulamasında fikir birliği önemlidir.</li> <li>Delphi tekniği ile elde edilen verilerin farklılık göstermesi, çeşitliliği önemli iken Progel(Dacum) tekniğinde fikir birliğine varılması, tek bir fikir üzerine yoğunlaşılması ön plandadır.</li> </ul>"
+        "Aciklama": "Progel (Dacum) tekniği, uygulama ve biçim bakımından en çok Delphi tekniğine benzemektedir.<br/>Ancak, aralarında önemli farklar bulunmaktadır:<br/><ul> <li>Progel(Dacum) ile Delphi arasındaki en büyük fark, Progel(Dacum) grup iletişimini ön plana çıkarırken, Delphi katılımcıların birbirlerini etkilemelerinin önüne geçmeye çalışır.</li> <li>Delphi tekniğinde katılımcıların birbirleri ile iletişim kurmasını engellemek önemli iken, Progel(Dacum) tekniğinde elde edilen sonuçlar, katılımcıların iletişimi ile oluşturulur.</li> <li>Delphi tekniğinde bağımsız düşünce önemli iken, Progel(Dacum) uygulamasında fikir birliği önemlidir.</li> <li>Delphi tekniği ile elde edilen verilerin farklılık göstermesi, çeşitliliği önemli iken Progel(Dacum) tekniğinde fikir birliğine varılması, tek bir fikir üzerine yoğunlaşılması ön plandadır.</li> </ul>"
     },
     {
         "SoruID": 3763970,
-        "SoruMetni": "I. Gözlemci ortamın veya durumun bir parçası gibi davranır.<br/> II. Gözlemcinin kimliği gizlenebilir veya bilinebilir.<br/> III. Gözlemci ortamın veya durumun bir parçası değildir.<br/> IV. Araştırmacının gözlemci rolüne daha iyi odaklanabilmesi açısından güçlüdür.<br/> V. Doğal ortamın bozulmaması açısından güçlüdür.<br/> Gözlem tekniğine ilişkin verilen bilgilerden hangisi veya hangileri katılımsız gözlem için geçerlidir?",
+        "SoruMetni": "I. Gözlemci ortamın veya durumun bir parçası gibi davranır.<br/>II. Gözlemcinin kimliği gizlenebilir veya bilinebilir.<br/>III. Gözlemci ortamın veya durumun bir parçası değildir.<br/>IV. Araştırmacının gözlemci rolüne daha iyi odaklanabilmesi açısından güçlüdür.<br/>V. Doğal ortamın bozulmaması açısından güçlüdür.<br/>Gözlem tekniğine ilişkin verilen bilgilerden hangisi veya hangileri katılımsız gözlem için geçerlidir?",
         "A": "III ve V",
         "B": "II ve III",
         "C": "III, IV ve V",
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Katılımsız gözlemin özellikleri:<br/> <ul> <li>Gözlemci ortam ya da durumun<br/>bir parçası değildir.</li> <li>Gözlemcinin kimliği gizlenebilir<br/>veya bilinebilir.</li> <li>Araştırmacı gözlemlenenlerin dışında kalarak daha nesnel bir<br/>yaklaşım sergileyebilir.</li> <li>Gözlemcinin kimliği gizlendiğinde etik problemlere<br/>ve araştırmacının olayların dışında kalması nedeniyle derinlemesine anlayış kazanamamasına sebep olabilir.</li> </ul>"
+        "Aciklama": "Katılımsız gözlemin özellikleri:<br/><ul> <li>Gözlemci ortam ya da durumun<br/>bir parçası değildir.</li> <li>Gözlemcinin kimliği gizlenebilir<br/>veya bilinebilir.</li> <li>Araştırmacı gözlemlenenlerin dışında kalarak daha nesnel bir<br/>yaklaşım sergileyebilir.</li> <li>Gözlemcinin kimliği gizlendiğinde etik problemlere<br/>ve araştırmacının olayların dışında kalması nedeniyle derinlemesine anlayış kazanamamasına sebep olabilir.</li> </ul>"
     },
     {
         "SoruID": 3763971,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cevap E'dir. Değerlendirme ölçüt ve standartları temele alarak yargıda bulunma olarak tanımlanır. Yargılama, değerlendirme, karşılaştırma, irdeleme, ispat etme, karar verme gibi eylemler değerlendirme basamağındadır."
+        "Aciklama": "Cevap E'dir. Değerlendirme ölçüt ve standartları temele alarak yargıda bulunma olarak tanımlanır. Yargılama, değerlendirme, karşılaştırma, irdeleme, ispat etme, karar verme gibi eylemler değerlendirme basamağındadır."
     }
 ]

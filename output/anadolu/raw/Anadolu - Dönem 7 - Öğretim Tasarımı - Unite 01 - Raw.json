@@ -1,19 +1,19 @@
 [
     {
-        "QuestionId": 3863496,
+        "QuestionId": 3863493,
         "UniteNo": 1,
-        "PageNumber": 5,
-        "AnswerExplanation": "<p>Davranışçı (behaviorist) yaklaşıma göre öğrenme bireyin gözlemlenebilen ve tekrarlanan davranışındaki değişim olarak betimlenebilir. </p>",
+        "PageNumber": 4,
+        "AnswerExplanation": "<p>Şekilde gözlemlenebileceği gibi eğitim, bu kavramlar arasında en geniş kapsamda ele alınmıştır. Eğitim kavramının tanımı sorulduğunda sık karşılaşılan cevaplardan biri insanda istendik davranış değiştirme süreci şeklindedir.</p>",
         "Title": "",
-        "Text": "<p>Öğrenmeyi; <strong>bireyin gözlemlenebilen ve tekrarlanan davranışındaki değişim</strong> olarak tanımlayan yaklaşım aşağıdakilerden hangisidir?</p>",
-        "A": "<p>Davranışcı</p>",
-        "B": "<p>Bilişci</p>",
-        "C": "<p>Yapıcı</p>",
-        "D": "<p>Bağlantıcı</p>",
-        "E": "<p>Yapılandırmacı</p>",
+        "Text": "<p>İnsanda istendik davranış değiştirme sürecine ne ad verilir?</p>",
+        "A": "<p>Eğitim</p>",
+        "B": "<p>Öğretim</p>",
+        "C": "<p>Öğretme</p>",
+        "D": "<p>Yetiştirme</p>",
+        "E": "<p>Öğrenim</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 3
+        "QuestionNumber": 1
     },
     {
         "QuestionId": 3863497,
@@ -29,7 +29,7 @@
         "E": "<p>Yapılandırmacı</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 3
+        "QuestionNumber": 4
     },
     {
         "QuestionId": 3863498,
@@ -45,7 +45,7 @@
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 4
+        "QuestionNumber": 5
     },
     {
         "QuestionId": 3863499,
@@ -60,22 +60,6 @@
         "D": "<p>Bağlantıcı yaklaşım</p>",
         "E": "<p>Programlı Öğretim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
-    },
-    {
-        "QuestionId": 3863500,
-        "UniteNo": 1,
-        "PageNumber": 8,
-        "AnswerExplanation": "<p>Klasik koşullanma (classical), Rus fizyolog Pavlov’un özellikle köpekler üzerinde yapmış olduğu deneyler sonunda ortaya koyduğu bir kuramdır. Bu kuramın ilkeleri şöyle özetlenebilir:</p> <p>• Öğrenme, organizmada var olan tepkinin yeni bir uyarıcı ile ortaya çıkarılmasıdır.</p> <p>• İki tür uyarıcı vardır: (1) Her zaman aynı tepkiyi uyandıran koşulsuz uyarıcı ve (2) başlangıçta etkisiz olan ancak koşulsuz uyarıcıyla eşleştirildiğinde koşullu tepkiyi uyandıran öğrenilmiş koşullu uyaran.</p> <p>• Organizma koşullu uyarıcılara karşı zamanla koşullu tepkilerde bulunma -genelleme- eğilimi gösterir.</p> <p>• Organizma koşullu uyaranları birbirinden ayırt ederek farklı koşullu tepkilerde bulunabilir.</p> <p>• Koşulsuz uyaran verilmeden koşullu uyaran verildiğinde sergilenen koşullu tepkide zamanla azalma ya da sönme gözlenebilir.</p> <p>• Sönmüş koşullu tepkiler, koşulsuz uyarıcılarla birlikte koşullu uyarıcılar verildiğinde kendiliğinden geri gelir.</p>",
-        "Title": "",
-        "Text": "<p>I• Öğrenme, organizmada var olan tepkinin yeni bir uyarıcı ile ortaya çıkarılmasıdır.</p> <p>II• Organizma koşullu uyaranları birbirinden ayırt ederek farklı koşullu tepkilerde bulunabilir. </p> <p>III• Sönmüş koşullu tepkiler, koşulsuz uyarıcılarla birlikte koşullu uyarıcılar verildiğinde kendiliğinden geri gelir. </p>  <p>Yukarıdakilerden hangisi ya da hangileri Rus fizyolog Pavlov’un özellikle köpekler üzerinde yapmış olduğu deneyler sonunda ortaya koyduğu Klasik koşullanma (classical) ilkelerindendir?</p>",
-        "A": "<p>Yalnız I</p>",
-        "B": "<p>Yalnız II</p>",
-        "C": "<p>Yalnız III</p>",
-        "D": "<p>I ve III</p>",
-        "E": "<p>Hepsi</p>",
-        "CorrectAnswer": "E",
         "UserAnswer": null,
         "QuestionNumber": 6
     },
@@ -96,6 +80,22 @@
         "QuestionNumber": 7
     },
     {
+        "QuestionId": 3863503,
+        "UniteNo": 1,
+        "PageNumber": 11,
+        "AnswerExplanation": "<p>Wilson, Teslow ve Osman-Jouchoux (1995) yapıcılığın temelinde yatan düşünceleri şöyle sıralamışlardır: Zihin gerçektir ve zihinsel olayların incelenmesi gerekir. Bilgi, bellek içindedir ve dinamiktir. Anlam birey tarafından yapılandırılmıştır. Yansıma/soyutlama uzman olmak için önemlidir. Öğrenme, simgelerin yapılandırılmasını içerir. Öğretme, anlamın yapılandırılması için tartışmaktır. Düşünme ve algılama birbirinden ayrılamaz. Sorun çözme, bilişçi süreçlerin merkezindedir. Bu ilkelerden hareketle bilgi birey tarafından yapılandırılır; öğretme, anlamın yapılandırılması için tartışma sürecidir. Bu nedenle bireysel anlam inşasına, tartışmaya ve yansıtmaya dayalı öğrenme etkinlikleri yapılandırmacılığın özünü yansıtır. Diğer seçeneklerde ağırlıklı olarak öğretmen kontrolünde, doğru olan tek bir bilginin tek bir kaynaktan sunulduğu bağlamlara gönderme yapılmıştır. </p>",
+        "Title": "",
+        "Text": "Wilson, Teslow ve Osman-Jouchoux’nun (1995) yapılandırmacılığın temel varsayımlarına ilişkin görüşleri dikkate alındığında, aşağıdaki öğretim uygulamalarından hangisi bu yaklaşımın <em data-start=\"452\" data-end=\"459\">özünü</em> en iyi biçimde yansıtır?",
+        "A": "Öğretmenin konuyu açık, sistematik biçimde anlatarak öğrencilerin doğru bilgiyi edindiğinden emin olması",
+        "B": "Öğrencilerin bireysel ve grup tartışmaları yoluyla kavramlara kendi anlamlarını yüklemelerine olanak tanınması",
+        "C": "Bilginin doğruluğunu ölçmek amacıyla standart testlerin düzenli olarak uygulanması",
+        "D": "Öğrencilerin belleklerine bilgiyi kalıcı biçimde yerleştirebilmek için tekrar ve ezber yapmaya yönlendirilmesi",
+        "E": "Öğretmenin öğrenme sürecini kontrol altında tutarak yanlış anlamaları anında düzeltmesi",
+        "CorrectAnswer": "B",
+        "UserAnswer": null,
+        "QuestionNumber": 8
+    },
+    {
         "QuestionId": 3863504,
         "UniteNo": 1,
         "PageNumber": 23,
@@ -109,7 +109,7 @@
         "E": "İyileştirmek",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 10
+        "QuestionNumber": 9
     },
     {
         "QuestionId": 3863610,
@@ -125,7 +125,7 @@
         "E": "<p>Yapılandırılmış öğrenme dışındaki öğrenme deneyimleri eğitimin ilgi alanı içerisinde yer almaz.</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 9
+        "QuestionNumber": 8
     },
     {
         "QuestionId": 3863612,
@@ -157,7 +157,7 @@
         "E": "<p>Öğrenme, işbirliği ve bireysel yorumlarla gerçekçi ortamlarda gerçekleşir; test etme bu sürecin doğal bir parçasıdır.</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 14
+        "QuestionNumber": 11
     },
     {
         "QuestionId": 3863614,
@@ -174,6 +174,22 @@
         "CorrectAnswer": "C",
         "UserAnswer": null,
         "QuestionNumber": 11
+    },
+    {
+        "QuestionId": 3863615,
+        "UniteNo": 1,
+        "PageNumber": 14,
+        "AnswerExplanation": "Eğitimde teknoloji kullanımı konusunda farklı yaklaşımlar söz konusudur. Teknolojiden Öğrenme (Learning from Technology) ve Teknolojiyle Öğrenme (Learning with Teknoloji) ayrımı dikkat çekici bir ayrımdır. Teknolojiden öğrenme, teknolojinin birincil bilgi ya da öğrenme kaynağı olarak hareket ettiği senaryoları ifade eder. Tüm seçeneklerde bu tanıma uygun ifadeler yer almıştır. Teknoloji ile öğrenme ise teknolojinin öğrenme sürecini destekleyen ve geliştiren bir araç olarak kullanılmasını içerir. Burada teknoloji birincil bilgi kaynağı ya da eğiten değil, bilgi edinmeye yardımcı olan bir kolaylaştırıcıdır. Bu yaklaşım, genellikle problem çözme, araştırma ve proje tabanlı öğrenmeyi içeren aktif katılımı, etkileşimi ve işbirliğini teşvik eder. Teknoloji, öğrencilerin elinde kolaylaştırıcı bir araçtır ve doğru seçenekte bu bilgiye vurgu yapılmıştır.",
+        "Title": "",
+        "Text": "<p>Teknolojiden Öğrenme (Learning from Technology) ve Teknolojiyle Öğrenme (Learning with Teknoloji) ayrımı dikkate alındığında aşağıdaki çıkarımlardan hangisi diğerlerinden farklı bir başlıkta değerlendirilmelidir?</p>",
+        "A": "<p>Teknoloji, doğrudan öğrenciye içerik sağlayan bir öğretendir.</p>",
+        "B": "<p>Doğrudan, insan müdahalesi olmadan içerik sunulur.</p>",
+        "C": "<p>Öğrencinin pasiftir, teknolojik araçtan bilgi almaktan ibarettir.</p>",
+        "D": "<p>Teknoloji, öğrenme hızını ve yolunu belirler.</p>",
+        "E": "<p>Teknoloji, öğrenme sürecini kolaylaştırıcı bir araçtır.</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 12
     },
     {
         "QuestionId": 3863616,
@@ -272,22 +288,6 @@
         "QuestionNumber": 18
     },
     {
-        "QuestionId": 3924069,
-        "UniteNo": 1,
-        "PageNumber": 13,
-        "AnswerExplanation": "Tüm seçeneklerde bilişçi yaklaşıma özgü bilgiler yer almış, bu yaklaşıma göre tasarlanmış bir ortamdaki öğretmen rolleri vurgulanmıştır. Bağlantıcı yaklaşımda ise öğretenin rolü ögrenenlerin yeni ağlara erişmelerini sağlayacak ortamlar düzenlemek olarak betimlenmiştir.",
-        "Title": "",
-        "Text": "\"Bağlantıcı yaklaşım, bilginin ağa bağlı ilişkilerden oluştuğunu ve öğrenmenin bu ağlarda gezinme<br />yeteneği olduğunu ileri sürmektedir. Bu yaklaşım, bilgi okuryazarlığına ayrı bir önem vermekte ve<br />öğrencilerin kendi öğrenme ağları içinde bilgiyi gezinmelerine ve değerlendirmelerine yardımcı olmanın önemini vurgulamaktadır (Transue, 2013).\" <br /><br />Bu bilgiden hareketle öğretenin rolüne ilişkin aşağıdaki çıkarımlardan hangisi yapılabilir?",
-        "A": "Öğrenenlerin yeni ağlara erişmelerini kolaylaştırır.",
-        "B": "Bilgiyi düzenler ve önceki bilgilerle ilişkilendirir.",
-        "C": "Öğrencilerin dikkatini çekerek geri çağırma ve kodlamaya yardımcı olur.",
-        "D": "Öğrenmeye yardımcı araçları kullanmaya çalışır.",
-        "E": "Zihindeki bilgi miktarında değişim yaratmaya çalışır.",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
-    },
-    {
         "QuestionId": 3940022,
         "UniteNo": 1,
         "PageNumber": 23,
@@ -301,7 +301,7 @@
         "E": "İyileştirmek",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 19
+        "QuestionNumber": 20
     },
     {
         "QuestionId": 3940023,
@@ -320,22 +320,6 @@
         "QuestionNumber": 20
     },
     {
-        "QuestionId": 3863493,
-        "UniteNo": 1,
-        "PageNumber": 4,
-        "AnswerExplanation": "<p>Şekilde gözlemlenebileceği gibi eğitim, bu kavramlar arasında en geniş kapsamda ele alınmıştır. Eğitim kavramının tanımı sorulduğunda sık karşılaşılan cevaplardan biri insanda istendik davranış değiştirme süreci şeklindedir.</p>",
-        "Title": "",
-        "Text": "<p>İnsanda istendik davranış değiştirme sürecine ne ad verilir?</p>",
-        "A": "<p>Eğitim</p>",
-        "B": "<p>Öğretim</p>",
-        "C": "<p>Öğretme</p>",
-        "D": "<p>Yetiştirme</p>",
-        "E": "<p>Öğrenim</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
-    },
-    {
         "QuestionId": 3863494,
         "UniteNo": 1,
         "PageNumber": 5,
@@ -352,20 +336,20 @@
         "QuestionNumber": 2
     },
     {
-        "QuestionId": 3863503,
+        "QuestionId": 3863500,
         "UniteNo": 1,
-        "PageNumber": 11,
-        "AnswerExplanation": "<p>Wilson, Teslow ve Osman-Jouchoux (1995) yapıcılığın temelinde yatan düşünceleri şöyle sıralamışlardır: Zihin gerçektir ve zihinsel olayların incelenmesi gerekir. Bilgi, bellek içindedir ve dinamiktir. Anlam birey tarafından yapılandırılmıştır. Yansıma/soyutlama uzman olmak için önemlidir. Öğrenme, simgelerin yapılandırılmasını içerir. Öğretme, anlamın yapılandırılması için tartışmaktır. Düşünme ve algılama birbirinden ayrılamaz. Sorun çözme, bilişçi süreçlerin merkezindedir. Bu ilkelerden hareketle bilgi birey tarafından yapılandırılır; öğretme, anlamın yapılandırılması için tartışma sürecidir. Bu nedenle bireysel anlam inşasına, tartışmaya ve yansıtmaya dayalı öğrenme etkinlikleri yapılandırmacılığın özünü yansıtır. Diğer seçeneklerde ağırlıklı olarak öğretmen kontrolünde, doğru olan tek bir bilginin tek bir kaynaktan sunulduğu bağlamlara gönderme yapılmıştır. </p>",
+        "PageNumber": 8,
+        "AnswerExplanation": "<p>Klasik koşullanma (classical), Rus fizyolog Pavlov’un özellikle köpekler üzerinde yapmış olduğu deneyler sonunda ortaya koyduğu bir kuramdır. Bu kuramın ilkeleri şöyle özetlenebilir:</p> <p>• Öğrenme, organizmada var olan tepkinin yeni bir uyarıcı ile ortaya çıkarılmasıdır.</p> <p>• İki tür uyarıcı vardır: (1) Her zaman aynı tepkiyi uyandıran koşulsuz uyarıcı ve (2) başlangıçta etkisiz olan ancak koşulsuz uyarıcıyla eşleştirildiğinde koşullu tepkiyi uyandıran öğrenilmiş koşullu uyaran.</p> <p>• Organizma koşullu uyarıcılara karşı zamanla koşullu tepkilerde bulunma -genelleme- eğilimi gösterir.</p> <p>• Organizma koşullu uyaranları birbirinden ayırt ederek farklı koşullu tepkilerde bulunabilir.</p> <p>• Koşulsuz uyaran verilmeden koşullu uyaran verildiğinde sergilenen koşullu tepkide zamanla azalma ya da sönme gözlenebilir.</p> <p>• Sönmüş koşullu tepkiler, koşulsuz uyarıcılarla birlikte koşullu uyarıcılar verildiğinde kendiliğinden geri gelir.</p>",
         "Title": "",
-        "Text": "Wilson, Teslow ve Osman-Jouchoux’nun (1995) yapılandırmacılığın temel varsayımlarına ilişkin görüşleri dikkate alındığında, aşağıdaki öğretim uygulamalarından hangisi bu yaklaşımın <em data-start=\"452\" data-end=\"459\">özünü</em> en iyi biçimde yansıtır?",
-        "A": "Öğretmenin konuyu açık, sistematik biçimde anlatarak öğrencilerin doğru bilgiyi edindiğinden emin olması",
-        "B": "Öğrencilerin bireysel ve grup tartışmaları yoluyla kavramlara kendi anlamlarını yüklemelerine olanak tanınması",
-        "C": "Bilginin doğruluğunu ölçmek amacıyla standart testlerin düzenli olarak uygulanması",
-        "D": "Öğrencilerin belleklerine bilgiyi kalıcı biçimde yerleştirebilmek için tekrar ve ezber yapmaya yönlendirilmesi",
-        "E": "Öğretmenin öğrenme sürecini kontrol altında tutarak yanlış anlamaları anında düzeltmesi",
-        "CorrectAnswer": "B",
+        "Text": "<p>I• Öğrenme, organizmada var olan tepkinin yeni bir uyarıcı ile ortaya çıkarılmasıdır.</p> <p>II• Organizma koşullu uyaranları birbirinden ayırt ederek farklı koşullu tepkilerde bulunabilir. </p> <p>III• Sönmüş koşullu tepkiler, koşulsuz uyarıcılarla birlikte koşullu uyarıcılar verildiğinde kendiliğinden geri gelir. </p>  <p>Yukarıdakilerden hangisi ya da hangileri Rus fizyolog Pavlov’un özellikle köpekler üzerinde yapmış olduğu deneyler sonunda ortaya koyduğu Klasik koşullanma (classical) ilkelerindendir?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>Yalnız II</p>",
+        "C": "<p>Yalnız III</p>",
+        "D": "<p>I ve III</p>",
+        "E": "<p>Hepsi</p>",
+        "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 8
+        "QuestionNumber": 7
     },
     {
         "QuestionId": 3863611,
@@ -381,22 +365,38 @@
         "E": "<p>Öğrencilerin öğrenme yönetim sistemi içerisinde geometri problemlerini çözmeye yönelik etkileşimli içeriklerden yararlanması</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 10
     },
     {
-        "QuestionId": 3863615,
+        "QuestionId": 3924069,
         "UniteNo": 1,
-        "PageNumber": 14,
-        "AnswerExplanation": "Eğitimde teknoloji kullanımı konusunda farklı yaklaşımlar söz konusudur. Teknolojiden Öğrenme (Learning from Technology) ve Teknolojiyle Öğrenme (Learning with Teknoloji) ayrımı dikkat çekici bir ayrımdır. Teknolojiden öğrenme, teknolojinin birincil bilgi ya da öğrenme kaynağı olarak hareket ettiği senaryoları ifade eder. Tüm seçeneklerde bu tanıma uygun ifadeler yer almıştır. Teknoloji ile öğrenme ise teknolojinin öğrenme sürecini destekleyen ve geliştiren bir araç olarak kullanılmasını içerir. Burada teknoloji birincil bilgi kaynağı ya da eğiten değil, bilgi edinmeye yardımcı olan bir kolaylaştırıcıdır. Bu yaklaşım, genellikle problem çözme, araştırma ve proje tabanlı öğrenmeyi içeren aktif katılımı, etkileşimi ve işbirliğini teşvik eder. Teknoloji, öğrencilerin elinde kolaylaştırıcı bir araçtır ve doğru seçenekte bu bilgiye vurgu yapılmıştır.",
+        "PageNumber": 13,
+        "AnswerExplanation": "Tüm seçeneklerde bilişçi yaklaşıma özgü bilgiler yer almış, bu yaklaşıma göre tasarlanmış bir ortamdaki öğretmen rolleri vurgulanmıştır. Bağlantıcı yaklaşımda ise öğretenin rolü ögrenenlerin yeni ağlara erişmelerini sağlayacak ortamlar düzenlemek olarak betimlenmiştir.",
         "Title": "",
-        "Text": "<p>Teknolojiden Öğrenme (Learning from Technology) ve Teknolojiyle Öğrenme (Learning with Teknoloji) ayrımı dikkate alındığında aşağıdaki çıkarımlardan hangisi diğerlerinden farklı bir başlıkta değerlendirilmelidir?</p>",
-        "A": "<p>Teknoloji, doğrudan öğrenciye içerik sağlayan bir öğretendir.</p>",
-        "B": "<p>Doğrudan, insan müdahalesi olmadan içerik sunulur.</p>",
-        "C": "<p>Öğrencinin pasiftir, teknolojik araçtan bilgi almaktan ibarettir.</p>",
-        "D": "<p>Teknoloji, öğrenme hızını ve yolunu belirler.</p>",
-        "E": "<p>Teknoloji, öğrenme sürecini kolaylaştırıcı bir araçtır.</p>",
-        "CorrectAnswer": "E",
+        "Text": "\"Bağlantıcı yaklaşım, bilginin ağa bağlı ilişkilerden oluştuğunu ve öğrenmenin bu ağlarda gezinme<br />yeteneği olduğunu ileri sürmektedir. Bu yaklaşım, bilgi okuryazarlığına ayrı bir önem vermekte ve<br />öğrencilerin kendi öğrenme ağları içinde bilgiyi gezinmelerine ve değerlendirmelerine yardımcı olmanın önemini vurgulamaktadır (Transue, 2013).\" <br /><br />Bu bilgiden hareketle öğretenin rolüne ilişkin aşağıdaki çıkarımlardan hangisi yapılabilir?",
+        "A": "Öğrenenlerin yeni ağlara erişmelerini kolaylaştırır.",
+        "B": "Bilgiyi düzenler ve önceki bilgilerle ilişkilendirir.",
+        "C": "Öğrencilerin dikkatini çekerek geri çağırma ve kodlamaya yardımcı olur.",
+        "D": "Öğrenmeye yardımcı araçları kullanmaya çalışır.",
+        "E": "Zihindeki bilgi miktarında değişim yaratmaya çalışır.",
+        "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 19
+    },
+    {
+        "QuestionId": 3863496,
+        "UniteNo": 1,
+        "PageNumber": 5,
+        "AnswerExplanation": "<p>Davranışçı (behaviorist) yaklaşıma göre öğrenme bireyin gözlemlenebilen ve tekrarlanan davranışındaki değişim olarak betimlenebilir. </p>",
+        "Title": "",
+        "Text": "<p>Öğrenmeyi; <strong>bireyin gözlemlenebilen ve tekrarlanan davranışındaki değişim</strong> olarak tanımlayan yaklaşım aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Davranışcı</p>",
+        "B": "<p>Bilişci</p>",
+        "C": "<p>Yapıcı</p>",
+        "D": "<p>Bağlantıcı</p>",
+        "E": "<p>Yapılandırmacı</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 3
     }
 ]

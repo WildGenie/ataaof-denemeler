@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 201094,
-        "SoruMetni": "<strong>İnsan yarınını düşünmeye başlar ve daldan toplanan yiyecekler biriktirilir. Bu noktada aşağıdaki çelişkilerden hangisi başlamıştır?</strong>",
+        "SoruMetni": "<strong>İnsan yarınını düşünmeye başlar ve daldan toplanan yiyecekler biriktirilir. Bu noktada aşağıdaki çelişkilerden hangisi başlamıştır?</strong>",
         "A": "İnsan-insan",
         "B": "İnsan-doğa",
         "C": "Doğa-doğa",
@@ -9,14 +9,15 @@
         "E": "Mülkiyet-doğa",
         "DogruCevap": "A",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 201097,
@@ -28,18 +29,19 @@
         "E": "Becker",
         "DogruCevap": "D",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 201100,
-        "SoruMetni": "<strong>Aşağıdaki düşünürlerden hangisine göre Modernizm henüz tamamlanmamış bir projedir?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdaki düşünürlerden hangisine göre Modernizm henüz tamamlanmamış bir projedir?</strong>",
         "A": "Habermas",
         "B": "Fukuyama",
         "C": "Lyotard",
@@ -47,18 +49,19 @@
         "E": "Bourdieu",
         "DogruCevap": "A",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 201111,
-        "SoruMetni": "<strong>Postmodernizmi pastij ve şizofreni kavramları üzerinden tanımlayan düşünür aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Postmodernizmi pastij ve şizofreni kavramları üzerinden tanımlayan düşünür aşağıdakilerden hangisidir?</strong>",
         "A": "Bauman",
         "B": "Baudrillard",
         "C": "Giddens",
@@ -66,18 +69,19 @@
         "E": "Jameson",
         "DogruCevap": "E",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 201113,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi modern mimarinin ölümünü simgeler?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi modern mimarinin ölümünü simgeler?</strong>",
         "A": "I. Dünya Savaşı",
         "B": "Pruitt-Igoe konutlarının yıkımı",
         "C": "Berlin duvarının yıkılışı",
@@ -85,18 +89,19 @@
         "E": "II. Dünya Savaşı",
         "DogruCevap": "B",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 201115,
-        "SoruMetni": "<strong>İlkel toplumda sanatın ortaya çıkmasında etkili olan unsur aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>İlkel toplumda sanatın ortaya çıkmasında etkili olan unsur aşağıdakilerden hangisidir?</strong>",
         "A": "Bireysellik",
         "B": "Haz",
         "C": "Estetik",
@@ -104,18 +109,19 @@
         "E": "Yabancılaşma",
         "DogruCevap": "D",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 201117,
-        "SoruMetni": "<strong>İmge ile gerçeklik arasındaki ayrımın belirsiz olduğu dönem aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>İmge ile gerçeklik arasındaki ayrımın belirsiz olduğu dönem aşağıdakilerden hangisidir?</strong>",
         "A": "Barok",
         "B": "İlkel",
         "C": "Maniyerizm",
@@ -123,18 +129,19 @@
         "E": "Postmodern",
         "DogruCevap": "B",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 201118,
-        "SoruMetni": "<strong>Kutsal sanat, saray sanatı ve burjuva sanatı tipolojisi aşağıdakilerden hangisine aittir?</strong><br/>",
+        "SoruMetni": "<strong>Kutsal sanat, saray sanatı ve burjuva sanatı tipolojisi aşağıdakilerden hangisine aittir?</strong>",
         "A": "Herbert Marcuse",
         "B": "Howard S. Becker",
         "C": "Johan Huizinga",
@@ -142,18 +149,19 @@
         "E": "Rene Descartes",
         "DogruCevap": "D",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 201122,
-        "SoruMetni": "<strong>Mimaride eskiye gönderme yapılması, eklektik bir tarz oluşturulması, binalara heykel ve kabartma gibi elemanların yerleştirilmesi hangi dönem sanat anlayışının izlerini taşır?</strong><br/>",
+        "SoruMetni": "<strong>Mimaride eskiye gönderme yapılması, eklektik bir tarz oluşturulması, binalara heykel ve kabartma gibi elemanların yerleştirilmesi hangi dönem sanat anlayışının izlerini taşır?</strong>",
         "A": "Rönesans",
         "B": "Maniyerizm",
         "C": "Barok",
@@ -161,18 +169,19 @@
         "E": "İlkel",
         "DogruCevap": "B",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 201124,
-        "SoruMetni": "<strong>Postmodern sanatçıyı seslendirilmeyeni seslendiren, görülemeyene somut bir şekil veren filozof olarak değerlendiren düşünür aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Postmodern sanatçıyı seslendirilmeyeni seslendiren, görülemeyene somut bir şekil veren filozof olarak değerlendiren düşünür aşağıdakilerden hangisidir?</strong>",
         "A": "Marx",
         "B": "Hegel",
         "C": "Bauman",
@@ -187,11 +196,12 @@
         "GelYer": 2,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 210303,
-        "SoruMetni": "<strong>Belli başlı toplumsal kurumlar aracılığıyla çalışıp, tarihsel olarak gözlemlenmesi mümkün eğilimleri takip ederek işbirliği yapan birden çok aktörün bulunduğu sürecin içindeki bir an olarak tanımlanan kavram aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Belli başlı toplumsal kurumlar aracılığıyla çalışıp, tarihsel olarak gözlemlenmesi mümkün eğilimleri takip ederek işbirliği yapan birden çok aktörün bulunduğu sürecin içindeki bir an olarak tanımlanan kavram aşağıdakilerden hangisidir?</strong>",
         "A": "Estetik beğeni",
         "B": "Modernite",
         "C": "Sanat eseri",
@@ -199,18 +209,19 @@
         "E": "Yapı",
         "DogruCevap": "C",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 242253,
-        "SoruMetni": "<strong>Toplumsal sistem içerisinde yer alan ilişkilerin toplumsal kurumlar tarafından düzenlenmesiyle ortaya çıkan kavram aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Toplumsal sistem içerisinde yer alan ilişkilerin toplumsal kurumlar tarafından düzenlenmesiyle ortaya çıkan kavram aşağıdakilerden hangisidir?</strong>",
         "A": "Toplumsal yapı",
         "B": "Aktör",
         "C": "Kültür",
@@ -225,11 +236,12 @@
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 242256,
-        "SoruMetni": "Sanatçı aşama aşama uzmana dönüşür. Toplumsal bir alt dizge olarak sanat kendisini bambaşka bir alan olarak tanımlar. Bu durum sanatın estetik bir deneyim olarak değer kazanması gibi olumlu bir işlev görürken sanatçının toplumsal işlevini kaybetmesi gibi olumsuz bir durumdur.<br/> <br/><strong>Paragrafta sanatla ilgili olarak anlatılan değişimin nedeni aşağıdakilerden hangisidir?</strong><br> <br/></br>",
+        "SoruMetni": "Sanatçı aşama aşama uzmana dönüşür. Toplumsal bir alt dizge olarak sanat kendisini bambaşka bir alan olarak tanımlar. Bu durum sanatın estetik bir deneyim olarak değer kazanması gibi olumlu bir işlev görürken sanatçının toplumsal işlevini kaybetmesi gibi olumsuz bir durumdur.<br/><strong>Paragrafta sanatla ilgili olarak anlatılan değişimin nedeni aşağıdakilerden hangisidir?</strong><br/></br>",
         "A": "Burjuva toplumu",
         "B": "Psikolojizm",
         "C": "Gelenek",
@@ -237,18 +249,19 @@
         "E": "İşçi sınıfı",
         "DogruCevap": "A",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 242258,
-        "SoruMetni": "<strong>Büyük anlatıların sona ermesi fikrinin sanattaki karşılığı aşağıdakilerden hangisi <u>değildir</u>?</strong><br/>",
+        "SoruMetni": "<strong>Büyük anlatıların sona ermesi fikrinin sanattaki karşılığı aşağıdakilerden hangisi <u>değildir</u>?</strong>",
         "A": "Yaşam ve sanatın birleşmesi",
         "B": "Yüce estetiğinin hâkim olması",
         "C": "Seçkin ve popüler sanat arasındaki ayrımın kalkması",
@@ -256,18 +269,19 @@
         "E": "Her nesnenin sanat yapıtı olması",
         "DogruCevap": "B",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 242259,
-        "SoruMetni": "<strong>Avangard Kuramı kitabıyla sanatı üç tarihsel tipolojiye ayıran yazar aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Avangard Kuramı kitabıyla sanatı üç tarihsel tipolojiye ayıran yazar aşağıdakilerden hangisidir?</strong>",
         "A": "Jürgen Habermas",
         "B": "Jean Baudrillard",
         "C": "Peter Bürger",
@@ -275,18 +289,19 @@
         "E": "Henri Lefebvre",
         "DogruCevap": "C",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 242260,
-        "SoruMetni": "<strong>Sanatın yarı düş, yarı ticari bir uğraş hâlini alması aşağıdaki hangi toplumsal ve ekonomik değişimin sonucudur?</strong><br/>",
+        "SoruMetni": "<strong>Sanatın yarı düş, yarı ticari bir uğraş hâlini alması aşağıdaki hangi toplumsal ve ekonomik değişimin sonucudur?</strong>",
         "A": "Tarımsal üretim",
         "B": "Sosyalizm",
         "C": "Alet kullanımı",
@@ -294,14 +309,15 @@
         "E": "Kapitalizm",
         "DogruCevap": "E",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 295385,
@@ -313,14 +329,15 @@
         "E": "Bürger",
         "DogruCevap": "A",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 295388,
@@ -332,14 +349,15 @@
         "E": "Johan Huizinga",
         "DogruCevap": "C",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 345740,
@@ -351,14 +369,15 @@
         "E": "Dinle",
         "DogruCevap": "A",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 345741,
@@ -370,14 +389,15 @@
         "E": "Dünyevileşme",
         "DogruCevap": "E",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 345745,
@@ -389,13 +409,14 @@
         "E": "John Cage",
         "DogruCevap": "A",
         "DersAd": "Sanat Sosyolojisi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 274,
         "OBSDersId": 39029,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     }
 ]

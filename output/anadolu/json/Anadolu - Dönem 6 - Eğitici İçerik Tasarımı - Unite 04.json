@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3763909,
-        "SoruMetni": "\" .............., duyu organlarını harekete geçiren birdış uyaranın sinirler aracılığıyla sinir merkezine iletilmesi sonucunda meydana gelen dolaysız zihinsel ürün olarak tanımlanabilir.\"<br/> Yukarıdaki cümlede boşluğa aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "\" .............., duyu organlarını harekete geçiren birdış uyaranın sinirler aracılığıyla sinir merkezine iletilmesi sonucunda meydana gelen dolaysız zihinsel ürün olarak tanımlanabilir.\"<br/>Yukarıdaki cümlede boşluğa aşağıdakilerden hangisi gelmelidir?",
         "A": "Duyum",
         "B": "Durum",
         "C": "Duygu",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3763921,
-        "SoruMetni": "Sözel unsurları görsel olarak betimleyen çizim tekniğine .................. ismi verilir.<br/> Cümledeki boşluğa aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "Sözel unsurları görsel olarak betimleyen çizim tekniğine .................. ismi verilir.<br/>Cümledeki boşluğa aşağıdakilerden hangisi gelmelidir?",
         "A": "İllustrasyon",
         "B": "Karakter analizi",
         "C": "Serimleme",
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Organizma bir alandaki nesneleri birbirine olan yakınlıklarına göre gruplandırarak algılar. Gestalt kuramının yakınlık yasasına göre zihin, mesafe olarak birbirine yakın duran nesneleri tek bir parça olarak algılama eğilimindedir. Nesneler arasındaki mesafe azaldıkça bir gruba ait olma algısı artar."
+        "Aciklama": "Organizma bir alandaki nesneleri birbirine olan yakınlıklarına göre gruplandırarak algılar. Gestalt kuramının yakınlık yasasına göre zihin, mesafe olarak birbirine yakın duran nesneleri tek bir parça olarak algılama eğilimindedir. Nesneler arasındaki mesafe azaldıkça bir gruba ait olma algısı artar."
     },
     {
         "SoruID": 3763927,
@@ -381,7 +381,7 @@
     },
     {
         "SoruID": 3763932,
-        "SoruMetni": "Ayşe, okul öncesi çağındaki çocuklara sabahları el yüz yıkama ve yemekten sonra diş fırçalama davranışlarını öğretmek için bu davranışları çizim tekniği ile resimleyerek bir hikaye haline getirmiştir. Bu örnekte, Ayşe, görsel öğe oluşturmada aşağıdaki tekniklerden hangisini kullanmıştır.",
+        "SoruMetni": "Ayşe, okul öncesi çağındaki çocuklara sabahları el yüz yıkama ve yemekten sonra diş fırçalama davranışlarını öğretmek için bu davranışları çizim tekniği ile resimleyerek bir hikaye haline getirmiştir. Bu örnekte, Ayşe, görsel öğe oluşturmada aşağıdaki tekniklerden hangisini kullanmıştır.",
         "A": "İllüstrasyon",
         "B": "Grafik",
         "C": "Tablo",

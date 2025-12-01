@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3764329,
-        "SoruMetni": "----------------; çeşitli verilerin elektronik ortamlarda bulunması ve gösterilmesidir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "----------------; çeşitli verilerin elektronik ortamlarda bulunması ve gösterilmesidir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "Dijital Tasarım",
         "B": "Dijital Mecra",
         "C": "Dijital Aplikasyon",
@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yukarıdaki cümlede boş bırakılan yeri B seçeneği (dijital mecra) doğru olarak tamamlar. Dijital mecra; çeşitli verilerin elektronik ortamlarda bulunması ve gösterilmesidir."
+        "Aciklama": "GİRİŞ<br>Yukarıdaki cümlede boş bırakılan yeri B seçeneği (dijital mecra) doğru olarak tamamlar. Dijital mecra; çeşitli verilerin elektronik ortamlarda bulunması ve gösterilmesidir."
     },
     {
         "SoruID": 3764330,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Baskı teknikleri sanatsal ve endüstriyel baskı teknikleri şeklinde  iki bölüme ayrılır. Sanatsal baskı dediğimiz geleneksel (Traditional) baskı teknikleri; linol, ağaç, gravür, litoğrafi vb. ile yapılan çalışmalardır. Endüstriyel baskı teknikleri ise kullanılan ve uygulanan teknik kalıpların yapılarına göre;  yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve dijital baskı şeklinde beşe ayrılır. Dolayısıyla \"Linol baskı\" endüstriyel baskı tekniklerinden biri değildir."
+        "Aciklama": "DİJİTAL TASARIMDA YÜKSEK BASKI SİSTEMLERİ<br>Baskı teknikleri sanatsal ve endüstriyel baskı teknikleri şeklinde iki bölüme ayrılır. Sanatsal baskı dediğimiz geleneksel (Traditional) baskı teknikleri; linol, ağaç, gravür, litoğrafi vb. ile yapılan çalışmalardır. Endüstriyel baskı teknikleri ise kullanılan ve uygulanan teknik kalıpların yapılarına göre; yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve dijital baskı şeklinde beşe ayrılır. Dolayısıyla \"Linol baskı\" endüstriyel baskı tekniklerinden biri değildir."
     },
     {
         "SoruID": 3764341,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yüksek baskı sistemleri ile ilgili olarak  verilen ifadelerden E seçeneği (<em>Yüksek baskı sisteminin “tifdruk\" ve \"tampon” olmak üzere iki çeşidi bulunur</em>.) yanlıştır. Tifdruk ve tampon, çukur baskı çeşitleridir. Yüksek baskı sisteminin “tipo baskı” ve “flekso baskı” olmak üzere iki çeşidi bulunur."
+        "Aciklama": "DİJİTAL TASARIMDA YÜKSEK BASKI SİSTEMLERİ<br>Yüksek baskı sistemleri ile ilgili olarak verilen ifadelerden E seçeneği (<em>Yüksek baskı sisteminin “tifdruk\" ve \"tampon” olmak üzere iki çeşidi bulunur</em>.) yanlıştır. Tifdruk ve tampon, çukur baskı çeşitleridir. Yüksek baskı sisteminin “tipo baskı” ve “flekso baskı” olmak üzere iki çeşidi bulunur."
     },
     {
         "SoruID": 3764342,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipo baskı sistemi ve tarihsel süreci ile ilgili olarak verilen ifadelerden A seçeneği (<em>Johannes Gutenberg’in 1440’ta hurufat adı verilen kilden yapılmış harf kalıplarını icat etmesi, matbaacılık sektöründe devrim sayılacak bir gelişmedir.</em>) yanlıştır. Johannes Gutenberg’in 1440’ta hurufat adı verilen, kil değil metal harf kalıplarını icat etmesi, matbaacılık sektöründe devrim sayılacak bir gelişme olmuştur."
+        "Aciklama": "TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ<br>Tipo baskı sistemi ve tarihsel süreci ile ilgili olarak verilen ifadelerden A seçeneği (<em>Johannes Gutenberg’in 1440’ta hurufat adı verilen kilden yapılmış harf kalıplarını icat etmesi, matbaacılık sektöründe devrim sayılacak bir gelişmedir.</em>) yanlıştır. Johannes Gutenberg’in 1440’ta hurufat adı verilen, kil değil metal harf kalıplarını icat etmesi, matbaacılık sektöründe devrim sayılacak bir gelişme olmuştur."
     },
     {
         "SoruID": 3764343,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kesim; günümüzde tipo baskı sistemi kullanılarak yapılan işlerden biridir. Tipo baskı sisteminde kalıp hazırlama aşaması zorlu ve uzun bir süreç gerektirdiği için günümüzde kartvizit, kitap, broşür, fatura, el ilanı gibi ürünlerin basımında tercih edilmez. Numaratör, kesim, kırım, yaldız baskısı (ısı ile), pilyaj, perforaj gibi işler için kullanılır."
+        "Aciklama": "TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ<br>Kesim; günümüzde tipo baskı sistemi kullanılarak yapılan işlerden biridir. Tipo baskı sisteminde kalıp hazırlama aşaması zorlu ve uzun bir süreç gerektirdiği için günümüzde kartvizit, kitap, broşür, fatura, el ilanı gibi ürünlerin basımında tercih edilmez. Numaratör, kesim, kırım, yaldız baskısı (ısı ile), pilyaj, perforaj gibi işler için kullanılır."
     },
     {
         "SoruID": 3764354,
@@ -117,11 +117,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Kumpas\" hurufatın fiziksel özelliklerinden biri değildir. Matbaacılığın tipografik sisteminde kullanılan harfler anlamına gelen hurufatta, kumpas adı verilen alete harfler yerleştirilerek kelimeler oluşturulur. Hareketli harflerin dizgi sonucu oluşumunda katkısı büyüktür. El dizgi tekniğinde dizgi ustasının seri çalışabilmesi amacıyla, hurufatların gerek tanınmasında gerekse kalıp oluşturulması esnasında kolaylık sağlaması için üzerinde değişik fiziksel özellikler söz konusudur  Bu özellikler, punto genişliği, ayak, baş, işaret kertiği, vb. şeklindedir."
+        "Aciklama": "TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ<br>\"Kumpas\" hurufatın fiziksel özelliklerinden biri değildir. Matbaacılığın tipografik sisteminde kullanılan harfler anlamına gelen hurufatta, kumpas adı verilen alete harfler yerleştirilerek kelimeler oluşturulur. Hareketli harflerin dizgi sonucu oluşumunda katkısı büyüktür. El dizgi tekniğinde dizgi ustasının seri çalışabilmesi amacıyla, hurufatların gerek tanınmasında gerekse kalıp oluşturulması esnasında kolaylık sağlaması için üzerinde değişik fiziksel özellikler söz konusudur Bu özellikler, punto genişliği, ayak, baş, işaret kertiği, vb. şeklindedir."
     },
     {
         "SoruID": 3764619,
-        "SoruMetni": "I. Dijital tasarımda tasarım bilgisayar destekli hazırlanır.<br/> II. Çağdaş tasarım sürecinde diğer disiplinlerle ilişki ön plana çıkar.<br/> III. Geleneksel tasarım sürecinde geri dönüte yer yoktur.<br/> IV. Çağdaş tasarım yaklaşımında son üründen ziyade süreç önemlidir.<br/><br/>Yukarıda tasarım süreci ile ilgili verilenlerden hangileri doğrudur?<br/>",
+        "SoruMetni": "I. Dijital tasarımda tasarım bilgisayar destekli hazırlanır.<br/>II. Çağdaş tasarım sürecinde diğer disiplinlerle ilişki ön plana çıkar.<br/>III. Geleneksel tasarım sürecinde geri dönüte yer yoktur.<br/>IV. Çağdaş tasarım yaklaşımında son üründen ziyade süreç önemlidir.<br/>Yukarıda tasarım süreci ile ilgili verilenlerden hangileri doğrudur?",
         "A": "I ve II",
         "B": "I ve III",
         "C": "I ve IV",
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünitenin Şekil 2.2.’deki görseli incelenebilir."
+        "Aciklama": "Ünitenin ilgili bölümünü inceleyiniz.<br>Ünitenin Şekil 2.2.’deki görseli incelenebilir."
     },
     {
         "SoruID": 3764620,
@@ -157,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Matbaa teknolojisi veya endüstriyel basım teknolojile­ri olarak da adlandırılan bu temel basım/baskı sistemleri farklı teknik kalıplar içinde isimlen­dirilmektedir. Baskı teknikleri genel olarak ad­landırıldığında ise <strong><em>iki bölüme ayrılır</em></strong>. <em>Sanatsal baskı teknikleri ve endüstriyel baskı teknikleri’</em>dir."
+        "Aciklama": "Detaylı bilgi için ünitenin ilgili bölümü incelenebilir.<br>Matbaa teknolojisi veya endüstriyel basım teknolojile­ri olarak da adlandırılan bu temel basım/baskı sistemleri farklı teknik kalıplar içinde isimlen­dirilmektedir. Baskı teknikleri genel olarak ad­landırıldığında ise <strong><em>iki bölüme ayrılır</em></strong>. <em>Sanatsal baskı teknikleri ve endüstriyel baskı teknikleri’</em>dir."
     },
     {
         "SoruID": 3764621,
-        "SoruMetni": "I. Tipografi yüksek baskı çeşididir.<br/> II.  Taş baskı, yüksek baskı olarak da adlandırılmaktadır. <br/>III. Serigrafi,yüksek baskı çeşididir.<br/><br/>Yukarıda dijital tasarımda yüksek baskı sistemleri ile ilgili verilenlerden hangileri doğrudur?",
+        "SoruMetni": "I. Tipografi yüksek baskı çeşididir.<br/>II. Taş baskı, yüksek baskı olarak da adlandırılmaktadır. <br/>III. Serigrafi,yüksek baskı çeşididir.<br/>Yukarıda dijital tasarımda yüksek baskı sistemleri ile ilgili verilenlerden hangileri doğrudur?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beşe ayrılmak­tadır: yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve dijital baskı."
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beşe ayrılmak­tadır: yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve dijital baskı."
     },
     {
         "SoruID": 3764622,
@@ -197,11 +197,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hurufat adı verilen metal harf kalıpları ile yapılan yüksek baskı tekniğine tipo baskı adı denir."
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>Hurufat adı verilen metal harf kalıpları ile yapılan yüksek baskı tekniğine tipo baskı adı denir."
     },
     {
         "SoruID": 3764623,
-        "SoruMetni": "I. Matbaacılığın, tipografik sisteminde kullanılan harfleridir.<br/> II. Hurufatta resim kısmının oturduğu, daha kalın olan alt kısma denir.<br/> III. Harfin resim kısmını taşıyan taban geniş­lik değeridir.<br/> Yukarıda bir baskı sistemi ile ilgili açıklaması verilen kavramlar, aşağıdakilerin hangisinde sırasıyla doğru olarak verilmiştir?",
+        "SoruMetni": "I. Matbaacılığın, tipografik sisteminde kullanılan harfleridir.<br/>II. Hurufatta resim kısmının oturduğu, daha kalın olan alt kısma denir.<br/>III. Harfin resim kısmını taşıyan taban geniş­lik değeridir.<br/>Yukarıda bir baskı sistemi ile ilgili açıklaması verilen kavramlar, aşağıdakilerin hangisinde sırasıyla doğru olarak verilmiştir?",
         "A": "Et kısmı, hurufat, punto",
         "B": "Punto, et kısmı, hurufat",
         "C": "Punto, hurufat, et kısmı",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Matbaacılık sektöründe kullanılan terim; hu­rufatlar yani harfler demektir. Bir başka deyişle matbaacılığın, tipografik sisteminde kullanılan harflere <em>hurufat </em>denir. Resim kısmının oturduğu, daha kalın olan alt kısma ise harfin <em>“et kısmı</em>” denir. Harfin resim kısmını taşıyan taban geniş­lik değeri o harfin “<em>puntosu”</em>dur"
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>Matbaacılık sektöründe kullanılan terim; hu­rufatlar yani harfler demektir. Bir başka deyişle matbaacılığın, tipografik sisteminde kullanılan harflere <em>hurufat </em>denir. Resim kısmının oturduğu, daha kalın olan alt kısma ise harfin <em>“et kısmı</em>” denir. Harfin resim kısmını taşıyan taban geniş­lik değeri o harfin “<em>puntosu”</em>dur"
     },
     {
         "SoruID": 3764624,
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "El tezgahlarının çalışma prensibi tipo baskının temel baskı prensibi gibidir. Ma­kinenin çalışma sistemi oldukça basittir. Yapılan her baskı için mürekkep kalıba yeniden sürülür. Kalıp üzerindeki görüntü baskı altı malzemesine aktarılarak baskı gerçekleştirilir. El tezgahlarında baskı yapmak zahmetli olduğu ve işlem uzun sürdüğü için bu tezgâhlar günümüzde sadece sanatsal işlerde kullanılmakta­dır."
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>El tezgahlarının çalışma prensibi tipo baskının temel baskı prensibi gibidir. Ma­kinenin çalışma sistemi oldukça basittir. Yapılan her baskı için mürekkep kalıba yeniden sürülür. Kalıp üzerindeki görüntü baskı altı malzemesine aktarılarak baskı gerçekleştirilir. El tezgahlarında baskı yapmak zahmetli olduğu ve işlem uzun sürdüğü için bu tezgâhlar günümüzde sadece sanatsal işlerde kullanılmakta­dır."
     },
     {
         "SoruID": 3764625,
-        "SoruMetni": "I. Baskı basıncının yüksek olduğu makine, silindir kazanlıdır.<br/> II. El tezgahlarının çalışma prensibi temel prensipten çok farklıdır.<br/> III. Gazete basımında en çok kullanılan makine, silindir kazanlıdır.<br/> IV. Baskı alanı en küçük olan tipo baskı makineleri, maşalıdır.<br/> Yukarıda baskı makineleri ile ilgili verilenlerden hangileri doğrudur?",
+        "SoruMetni": "I. Baskı basıncının yüksek olduğu makine, silindir kazanlıdır.<br/>II. El tezgahlarının çalışma prensibi temel prensipten çok farklıdır.<br/>III. Gazete basımında en çok kullanılan makine, silindir kazanlıdır.<br/>IV. Baskı alanı en küçük olan tipo baskı makineleri, maşalıdır.<br/>Yukarıda baskı makineleri ile ilgili verilenlerden hangileri doğrudur?",
         "A": "I ve II",
         "B": "I ve III",
         "C": "I ve IV",
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "El tezgahlarının çalışma prensibi tipo baskının temel baskı prensibi gibidir. Ma­kinenin çalışma sistemi oldukça basittir.  Maşalı tipo baskı makineleri, baskı alanı en küçük olan tipo baskı makineleri olması ne­deniyle günümüzde hala tercih edilmektedir.  Silindir kazanlı makinelerin önemli özelliği baskı basıncının yüksek olmasıdır."
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>El tezgahlarının çalışma prensibi tipo baskının temel baskı prensibi gibidir. Ma­kinenin çalışma sistemi oldukça basittir. Maşalı tipo baskı makineleri, baskı alanı en küçük olan tipo baskı makineleri olması ne­deniyle günümüzde hala tercih edilmektedir. Silindir kazanlı makinelerin önemli özelliği baskı basıncının yüksek olmasıdır."
     },
     {
         "SoruID": 3764626,
@@ -277,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dizgi işinde kullanılan bir aralık ölçüsü birimi olarak dizgide harfler arasına konulan yazısız metal parçası kadrattır."
+        "Aciklama": "Detaylı bilgi için ünitenin ilgili bölümü incelenebilir.<br>Dizgi işinde kullanılan bir aralık ölçüsü birimi olarak dizgide harfler arasına konulan yazısız metal parçası kadrattır."
     },
     {
         "SoruID": 3764627,
-        "SoruMetni": "I-Projenin büyüklüğü, hacmi<br/><br/>II-Baskı alımında aciliyet, zaman, süre<br/><br/>III- Baskının ürün türü<br/><br/>IV- Baskıda önizleme prova çıktı<br/><br/>Yukarıdakilerden hangileri, bir baskıda çoğaltmaya karar verirken dikkat edilmesi gereken unsurlardandır?",
+        "SoruMetni": "I-Projenin büyüklüğü, hacmi<br/>II-Baskı alımında aciliyet, zaman, süre<br/>III- Baskının ürün türü<br/>IV- Baskıda önizleme prova çıktı<br/>Yukarıdakilerden hangileri, bir baskıda çoğaltmaya karar verirken dikkat edilmesi gereken unsurlardandır?",
         "A": "I ve II",
         "B": "II ve IV",
         "C": "I, II ve IV",
@@ -297,11 +297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir baskıda çoğaltmaya karar verirken dikkat edilmesi gereken unsurlar şunlardır: 1-Projenin büyüklüğü, hacmi, 2-Baskı alımında aciliyet, zaman, süre, 3- Baskının ürün türü (Kitap, dergi, kartvizit, davetiye, afiş vb.), 4- Baskıda önizleme prova çıktı, 5- Baskıda adet sayısı, 6- Özel ve özgün ürün tasarımında uygun baskı çeşitliliği, 6- Baskıda maliyet."
+        "Aciklama": "Ünitenin ilgili bölümü deteylı bilgi için incelenebilir.<br>Bir baskıda çoğaltmaya karar verirken dikkat edilmesi gereken unsurlar şunlardır: 1-Projenin büyüklüğü, hacmi, 2-Baskı alımında aciliyet, zaman, süre, 3- Baskının ürün türü (Kitap, dergi, kartvizit, davetiye, afiş vb.), 4- Baskıda önizleme prova çıktı, 5- Baskıda adet sayısı, 6- Özel ve özgün ürün tasarımında uygun baskı çeşitliliği, 6- Baskıda maliyet."
     },
     {
         "SoruID": 3764628,
-        "SoruMetni": "I. Bilginin kodlanarak sayısallaştırılması, ….. . <br/> II. …….., düz baskı çeşididir.<br/> III. Tipo baskı makinelerini …………. grupta toplayabiliriz,<br/> Yukarıda baskı tekniği ve üretim süreci ile ilgili bilgiler verilmiştir. Buna göre, yukarıda boş bırakılan noktalı yerlere gelecek sözcükler, aşağıdakilerden hangisinde doğru olarak sıralanmıştır?",
+        "SoruMetni": "I. Bilginin kodlanarak sayısallaştırılması, ….. . <br/>II. …….., düz baskı çeşididir.<br/>III. Tipo baskı makinelerini …………. grupta toplayabiliriz,<br/>Yukarıda baskı tekniği ve üretim süreci ile ilgili bilgiler verilmiştir. Buna göre, yukarıda boş bırakılan noktalı yerlere gelecek sözcükler, aşağıdakilerden hangisinde doğru olarak sıralanmıştır?",
         "A": "Tasarım, ofset, dört",
         "B": "Data, ofset, iki",
         "C": "Data, ofset, dört",
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipo baskı makinelerini dört grupta toplayabiliriz: a. El Tezgahları (Presler), b. Pedal Makineleri (Düz kazanlı presler), c. Silindir Kazanlı Baskı Makineleri, d. Rotatif Tipo Baskı Makineleri’dir.  Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır. Toplanan veriler (Data), belli bir sistematik içinde sayısallaştırılarak ve istenilen formatta yeniden kullanılmaktadır. Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beş’e ayrılmaktadır: yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve Dijital baskı gibi çeşitleri vardır. (Sayfa, 58-59-60"
+        "Aciklama": "Ünitenin ilgili bölümleri detaylı bilgi için incelenebilir. Cevap 58-59 ve 60. sayfalarda takip edilebilir.<br>Tipo baskı makinelerini dört grupta toplayabiliriz: a. El Tezgahları (Presler), b. Pedal Makineleri (Düz kazanlı presler), c. Silindir Kazanlı Baskı Makineleri, d. Rotatif Tipo Baskı Makineleri’dir. Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır. Toplanan veriler (Data), belli bir sistematik içinde sayısallaştırılarak ve istenilen formatta yeniden kullanılmaktadır. Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beş’e ayrılmaktadır: yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve Dijital baskı gibi çeşitleri vardır. (Sayfa, 58-59-60"
     },
     {
         "SoruID": 3764729,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Baskı teknikleri genel olarak adlandırıldığında iki bölüme ayrılır.<br/><br/>1-Sanatsal baskı teknikleri<br/><br/>2-Endüstriyel baskı teknikleri<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Baskı teknikleri genel olarak adlandırıldığında iki bölüme ayrılır.<br/>1-Sanatsal baskı teknikleri<br/>2-Endüstriyel baskı teknikleri"
     },
     {
         "SoruID": 3764730,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Baskı teknikleri genel olarak adlandırıldığında iki bölüme ayrılır. Sanatsal baskı teknikleri ve endüstriyel baskı teknikleri’dir. Sanatsal ve Endüstriyel baskı tekniklerinde farklı uygulama biçimleri vardır.<br/> Sanatsal baskı dediğimiz geleneksel (Traditional) baskı teknikleri: linol, ağaç, gravür, litoğrafi vb. ile yapılan çalışmalar çoğaltılır."
+        "Aciklama": "Baskı teknikleri genel olarak adlandırıldığında iki bölüme ayrılır. Sanatsal baskı teknikleri ve endüstriyel baskı teknikleri’dir. Sanatsal ve Endüstriyel baskı tekniklerinde farklı uygulama biçimleri vardır.<br/>Sanatsal baskı dediğimiz geleneksel (Traditional) baskı teknikleri: linol, ağaç, gravür, litoğrafi vb. ile yapılan çalışmalar çoğaltılır."
     },
     {
         "SoruID": 3764731,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beşe ayrılmaktadır:<br/> 1-yüksek baskı (Tipografi, Flekso),<br/> 2-düz baskı (Ofset),<br/> 3-çukur baskı (Tifdruk, Tampon),<br/> 4-şablon-elek baskı (Serigrafi)<br/> 5-dijital baskı."
+        "Aciklama": "Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beşe ayrılmaktadır:<br/>1-yüksek baskı (Tipografi, Flekso),<br/>2-düz baskı (Ofset),<br/>3-çukur baskı (Tifdruk, Tampon),<br/>4-şablon-elek baskı (Serigrafi)<br/>5-dijital baskı."
     },
     {
         "SoruID": 3764732,
@@ -441,10 +441,10 @@
     },
     {
         "SoruID": 3764735,
-        "SoruMetni": "\"Yüksek baskı sisteminde tipo baskıya uygun olarak baskı elde etmeye yarayan alet ve makinelerin tümüne birden <strong><em>tipo baskı makineleri</em> </strong>denir.\"<br/>  Aşağıdakilerden hangisi Tipo baskı makinelerinden değildir?",
+        "SoruMetni": "\"Yüksek baskı sisteminde tipo baskıya uygun olarak baskı elde etmeye yarayan alet ve makinelerin tümüne birden <strong><em>tipo baskı makineleri</em> </strong>denir.\"<br/>Aşağıdakilerden hangisi Tipo baskı makinelerinden değildir?",
         "A": "El Tezgahları (Presler)",
         "B": "Pedal Makineleri (Düz kazanlı presler)",
-        "C": "Kadrat Tipo Baskı Makineleri",
+        "C": "Kadrat Tipo Baskı Makineleri",
         "D": "Silindir Kazanlı Baskı Makineleri",
         "E": "Rotatif Tipo Baskı Makineleri",
         "DogruCevap": "C",
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yüksek baskı sisteminde tipo baskıya uygun olarak baskı elde etmeye yarayan alet ve makinelerin tümüne birden <strong><em>tipo baskı makineleri</em> </strong>denir.<br/> Tipo baskı makinelerini dört grupta toplayabiliriz:<br/>     <ol> <li> El Tezgahları (Presler)<br/> </li> <li> Pedal Makineleri (Düz kazanlı presler)<br/> </li> <li> Silindir Kazanlı Baskı Makineleri<br/> </li> <li> Rotatif Tipo Baskı Makineleri<br/> </li> </ol>"
+        "Aciklama": "Yüksek baskı sisteminde tipo baskıya uygun olarak baskı elde etmeye yarayan alet ve makinelerin tümüne birden <strong><em>tipo baskı makineleri</em> </strong>denir.<br/>Tipo baskı makinelerini dört grupta toplayabiliriz:<br/><ol> <li> El Tezgahları (Presler)<br/></li> <li> Pedal Makineleri (Düz kazanlı presler)<br/></li> <li> Silindir Kazanlı Baskı Makineleri<br/></li> <li> Rotatif Tipo Baskı Makineleri<br/></li> </ol>"
     },
     {
         "SoruID": 3764736,
@@ -501,7 +501,7 @@
     },
     {
         "SoruID": 3764738,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Bilgisayar ve destekleyici üniteler önemlidir.</li> <li>Grafik tasarıma uygun programlar kullanılır.</li> <li>Basımı elle çoğalatılacak baskı makineler kullanılır</li> <li>Programlar sayesinde çizim, sayfa tasarımı yapabiliriz. </li> <li>Programlar sayesinde tipografik çalışmalar yapabiliriz.</li> </ol> Yukaridakilerden hangisi Dijital baskı için söylenemez?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Bilgisayar ve destekleyici üniteler önemlidir.</li> <li>Grafik tasarıma uygun programlar kullanılır.</li> <li>Basımı elle çoğalatılacak baskı makineler kullanılır</li> <li>Programlar sayesinde çizim, sayfa tasarımı yapabiliriz. </li> <li>Programlar sayesinde tipografik çalışmalar yapabiliriz.</li> </ol> Yukaridakilerden hangisi Dijital baskı için söylenemez?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital baskı, dijital ortamda hazırlanmış işlerin, elektronik veri yoluyla baskı makinesine gönderilmesi ve basılmasıdır. Dijital baskı da aşağıdakiler önemlidir:<br/> <ol> <li> Bilgisayar ve destekleyici üniteler,<br/> </li> <li> Grafik tasarıma uygun programlar (Piksel ve vektörel tabanlı programlar) ve<br/> </li> <li> Basımı çoğlatılacak baskı makineleridir.<br/> </li> <li> Bu programlar sayesinde çizim, dijital fotoğraf görüntüle- rine düzenleme, sayfa tasarımı ve tipografik çalışmalar yapabiliriz<br/> </li> </ol>"
+        "Aciklama": "Dijital baskı, dijital ortamda hazırlanmış işlerin, elektronik veri yoluyla baskı makinesine gönderilmesi ve basılmasıdır. Dijital baskı da aşağıdakiler önemlidir:<br/><ol> <li> Bilgisayar ve destekleyici üniteler,<br/></li> <li> Grafik tasarıma uygun programlar (Piksel ve vektörel tabanlı programlar) ve<br/></li> <li> Basımı çoğlatılacak baskı makineleridir.<br/></li> <li> Bu programlar sayesinde çizim, dijital fotoğraf görüntüle- rine düzenleme, sayfa tasarımı ve tipografik çalışmalar yapabiliriz<br/></li> </ol>"
     },
     {
         "SoruID": 3764767,
@@ -537,12 +537,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hurufatın gelen yapısını oluşturan metal alaşım kurşun'dur. Hurufatlar yani harfler, özel döküm atölyelerinde ve içeriğinde üç ana metal kullanılarak üretilir. Hurufatların hem dayanıklılık hem iyi mürekkep transferi hem de düzgün satıh özelliğine sahip<br/>olabilmesi amacı ile kullanılan bu metal alaşımlar; kurşun (% 65-70), antimuan (% 20-25) ve kalay (Stannum) (% 5-10) dır. Bu metal karışımında kullanılan alaşımların harf bloğuna çeşitli katkıları vardır. Kurşun alaşımı, hurufatın genel yapısını oluştururken kullanılan antimuan hurufata sertlik, dolayısıyla dayanma gücü verirken kalay da metale dökümde kolaylık sağlar ve ona akıcılık<br/>verir."
+        "Aciklama": "TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ<br>Hurufatın gelen yapısını oluşturan metal alaşım kurşun'dur. Hurufatlar yani harfler, özel döküm atölyelerinde ve içeriğinde üç ana metal kullanılarak üretilir. Hurufatların hem dayanıklılık hem iyi mürekkep transferi hem de düzgün satıh özelliğine sahip<br/>olabilmesi amacı ile kullanılan bu metal alaşımlar; kurşun (% 65-70), antimuan (% 20-25) ve kalay (Stannum) (% 5-10) dır. Bu metal karışımında kullanılan alaşımların harf bloğuna çeşitli katkıları vardır. Kurşun alaşımı, hurufatın genel yapısını oluştururken kullanılan antimuan hurufata sertlik, dolayısıyla dayanma gücü verirken kalay da metale dökümde kolaylık sağlar ve ona akıcılık<br/>verir."
     },
     {
         "SoruID": 3764768,
-        "SoruMetni": "Hurufatın gövde kısmındaki parçalar ve tanımlarına ilişkin doğru eşleşme aşağıdakilerden hangisidir?<br/><br/><strong>PARÇA</strong><br/><br/>K-Resim<br/><br/>L-Et kısmı<br/><br/>M-İşaret kertiği<br/><br/>N-Punto<br/><br/><strong> TANIM</strong><br/><br/><ol><br/><li>Harfin doğru dizilmesi için dizgiciyi uyaran kısımdır.</li><br/><li>Mürekkep alıp baskı yapan kısımdır.</li><br/></ol>",
-        "A": "K-2 / M-1",
+        "SoruMetni": "Hurufatın gövde kısmındaki parçalar ve tanımlarına ilişkin doğru eşleşme aşağıdakilerden hangisidir?<br/><strong>PARÇA</strong><br/>K-Resim<br/>L-Et kısmı<br/>M-İşaret kertiği<br/>N-Punto<br/><strong> TANIM</strong><br/><ol><br/><li>Harfin doğru dizilmesi için dizgiciyi uyaran kısımdır.</li><br/><li>Mürekkep alıp baskı yapan kısımdır.</li><br/></ol>",
+        "A": "K-2 / M-1",
         "B": "L-1 / M-2",
         "C": "K-1 / N-2",
         "D": "M-1 / N-2",
@@ -557,16 +557,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hurufatın gövde kısmındaki parçalar ve tanımlarına ilişkin doğru eşleşme A seçeneğinde verilen \"K-2 / M-1\"dir. Genel anlamda incelendiğinde bir hurufat, baş ve gövde kısımlar olmak üzere iki ana unsurdan oluşur. Baş kısmı 3 parçadan oluşurken gövde kısmı ise 5 ana parçadan oluşur:<br/>• Harfin üstünde yer alan “Resim” kısmı mürekkep alıp baskı yapan kısımdır.<br/>• Resim kısmının oturduğu, daha kalın olan alt kısma ise harfin “Et kısmı” denir.<br/>• Altta tabana yakın bölümde bulunan kertiğe ise “işaret kertiği” adı verilir. İşaret kertiği<br/>harfin doğru dizilmesi için dizgiciyi uyarır.<br/>• Harfin enine olan boyutuna “kalınlık” denir.<br/>• Harfin resim kısmını taşıyan taban genişlik değeri o harfin “puntosu”dur."
+        "Aciklama": "TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ<br>Hurufatın gövde kısmındaki parçalar ve tanımlarına ilişkin doğru eşleşme A seçeneğinde verilen \"K-2 / M-1\"dir. Genel anlamda incelendiğinde bir hurufat, baş ve gövde kısımlar olmak üzere iki ana unsurdan oluşur. Baş kısmı 3 parçadan oluşurken gövde kısmı ise 5 ana parçadan oluşur:<br/>• Harfin üstünde yer alan “Resim” kısmı mürekkep alıp baskı yapan kısımdır.<br/>• Resim kısmının oturduğu, daha kalın olan alt kısma ise harfin “Et kısmı” denir.<br/>• Altta tabana yakın bölümde bulunan kertiğe ise “işaret kertiği” adı verilir. İşaret kertiği<br/>harfin doğru dizilmesi için dizgiciyi uyarır.<br/>• Harfin enine olan boyutuna “kalınlık” denir.<br/>• Harfin resim kısmını taşıyan taban genişlik değeri o harfin “puntosu”dur."
     },
     {
         "SoruID": 3764772,
         "SoruMetni": "Silindir kazanlı tipo baskı makineleri ile ilgili olarak aşağıda verilen ifadelerden hangisi <span style=\"text-decoration: underline;\">yanlıştır?</span>",
-        "A": "Baskı kazanları el tezgâhları ve pedallardaki gibi düz değil, silindir şeklindedir.<br/><br/>",
-        "B": "Hız, basınç şekli ve çalışma yöntemiyle diğer tipo baskı makinelerinden farklıdır.",
-        "C": "En önemli özelliği baskı basıncının yüksek olmasıdır.",
+        "A": "Baskı kazanları el tezgâhları ve pedallardaki gibi düz değil, silindir şeklindedir.",
+        "B": "Hız, basınç şekli ve çalışma yöntemiyle diğer tipo baskı makinelerinden farklıdır.",
+        "C": "En önemli özelliği baskı basıncının yüksek olmasıdır.",
         "D": "Baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilir.",
-        "E": "Tek turlu ve çift turlu baskı makineleri olmak üzere iki çeşittir.",
+        "E": "Tek turlu ve çift turlu baskı makineleri olmak üzere iki çeşittir.",
         "DogruCevap": "D",
         "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
         "Unite": 2,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Silindir kazanlı tipo baskı makineleri ile ilgili olarak aşağıda verilen ifadelerden D seçeneği (<em>Baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilir</em>.)yanlıştır. Maşalı tipo baskı makineleri, baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilmektedir. Silindir Kazanlı Tipo Baskı Makinelerinde ise baskı kazanları el tezgâhları ve pedallardaki gibi düz değil, silindir şeklindedir. Hız, basınç şekli ve çalışma yöntemiyle diğer tipo baskı makinelerinden farklıdır. En önemli özelliği baskı basıncının yüksek olmasıdır. Silindir kazanlı tipo baskı makineleri, tek turlu (stop silindirli) ve çift turlu baskı makineleri olmak üzere iki çeşittir."
+        "Aciklama": "TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ<br>Silindir kazanlı tipo baskı makineleri ile ilgili olarak aşağıda verilen ifadelerden D seçeneği (<em>Baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilir</em>.)yanlıştır. Maşalı tipo baskı makineleri, baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilmektedir. Silindir Kazanlı Tipo Baskı Makinelerinde ise baskı kazanları el tezgâhları ve pedallardaki gibi düz değil, silindir şeklindedir. Hız, basınç şekli ve çalışma yöntemiyle diğer tipo baskı makinelerinden farklıdır. En önemli özelliği baskı basıncının yüksek olmasıdır. Silindir kazanlı tipo baskı makineleri, tek turlu (stop silindirli) ve çift turlu baskı makineleri olmak üzere iki çeşittir."
     },
     {
         "SoruID": 3764782,
@@ -597,11 +597,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipo baskıdan dijital döneme geçişte çoğaltımla ilgili olarak aşağıda verilen ifadelerden C seçeneği (<em>19.yüzyıl sonlarında, piksel denilen metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makineleri ortaya çıkmıştır.</em>) yanlıştır. O dönemde ortaya çıkan, metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makinelerinin adı piksel değil, matris'tir."
+        "Aciklama": "TİPO BASKIDAN DİJİTAL DÖNEME GEÇİŞTE ÇOĞALTIM<br>Tipo baskıdan dijital döneme geçişte çoğaltımla ilgili olarak aşağıda verilen ifadelerden C seçeneği (<em>19.yüzyıl sonlarında, piksel denilen metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makineleri ortaya çıkmıştır.</em>) yanlıştır. O dönemde ortaya çıkan, metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makinelerinin adı piksel değil, matris'tir."
     },
     {
         "SoruID": 3764783,
-        "SoruMetni": "------------- ; dizilen satırların birbirine karışıp bozulmaması için satır aralarına konulan genellikle iki punto genişliğindeki metaldir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "------------- ; dizilen satırların birbirine karışıp bozulmaması için satır aralarına konulan genellikle iki punto genişliğindeki metaldir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "Anterlin",
         "B": "Garnitür",
         "C": "Mizantren",
@@ -617,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yukarıdaki cümlede boş bırakılan yeri A seçeneği (anterlin) doğru olarak tamamlar. Anterlin; dizilen satırların birbirine karışıp bozulmaması için satır aralarına konulan genellikle iki punto genişliğindeki metaldir."
+        "Aciklama": "TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ<br>Yukarıdaki cümlede boş bırakılan yeri A seçeneği (anterlin) doğru olarak tamamlar. Anterlin; dizilen satırların birbirine karışıp bozulmaması için satır aralarına konulan genellikle iki punto genişliğindeki metaldir."
     },
     {
         "SoruID": 3764791,
@@ -641,7 +641,7 @@
     },
     {
         "SoruID": 3764792,
-        "SoruMetni": "I. Dijitalleşme, insanlık için bir tercihtir.<br/> II. Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır.<br/> III. Yeni ürün ve hizmetlerin tanıtımı ve yaratılması tüm verilerin etkin kullanılabilmesi dijitalleşmenin olmazsa olmazıdır.<br/> IV. Dijital teknoloji ile arasını iyi tutan bireylerin iş bulma imkanları teknolojiyle ilişkisi kopuk olan bireylerden daha fazladır.<br/> V. Daha hızlı ve daha işe yarar sistemler geliştirmek ve geliştirilen sistemlerin tercih edilmesini sağlamak dijitalleşmenin bir sonucudur.<br/> Dijitalleşme ile ilgili yukarıdakilerden hangisi/hangileri doğrudur?",
+        "SoruMetni": "I. Dijitalleşme, insanlık için bir tercihtir.<br/>II. Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır.<br/>III. Yeni ürün ve hizmetlerin tanıtımı ve yaratılması tüm verilerin etkin kullanılabilmesi dijitalleşmenin olmazsa olmazıdır.<br/>IV. Dijital teknoloji ile arasını iyi tutan bireylerin iş bulma imkanları teknolojiyle ilişkisi kopuk olan bireylerden daha fazladır.<br/>V. Daha hızlı ve daha işe yarar sistemler geliştirmek ve geliştirilen sistemlerin tercih edilmesini sağlamak dijitalleşmenin bir sonucudur.<br/>Dijitalleşme ile ilgili yukarıdakilerden hangisi/hangileri doğrudur?",
         "A": "I, II, III ve IV",
         "B": "I, II, IV ve V",
         "C": "I, III ve IV",
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I. Dijitalleşme, insanlık için bir <strong>tercih değil bir zorunluluktur. </strong>II. Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır. III. Yeni ürün ve hizmetlerin tanıtımı ve yaratılması tüm verilerin etkin kullanılabilmesi dijitalleşmenin olmazsa olmazıdır. IV. Dijital teknoloji ile arasını iyi tutan bireylerin iş bulma imkanları teknolojiyle ilişkisi kopuk olan bireylerden daha fazladır. V. Daha hızlı ve daha işe yarar sistemler geliştirmek ve geliştirilen sistemlerin tercih edilmesini sağlamak dijitalleşmenin bir sonucudur."
+        "Aciklama": "I. Dijitalleşme, insanlık için bir <strong>tercih değil bir zorunluluktur. </strong>II. Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır. III. Yeni ürün ve hizmetlerin tanıtımı ve yaratılması tüm verilerin etkin kullanılabilmesi dijitalleşmenin olmazsa olmazıdır. IV. Dijital teknoloji ile arasını iyi tutan bireylerin iş bulma imkanları teknolojiyle ilişkisi kopuk olan bireylerden daha fazladır. V. Daha hızlı ve daha işe yarar sistemler geliştirmek ve geliştirilen sistemlerin tercih edilmesini sağlamak dijitalleşmenin bir sonucudur."
     },
     {
         "SoruID": 3764793,
@@ -697,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Sanatsal baskı dediğimiz geleneksel (Traditional) baskı teknikleri linol, ağaç, gravür, <strong>litografi</strong> vb. ile yapılan çalışmalar çoğaltılır.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Sanatsal baskı dediğimiz geleneksel (Traditional) baskı teknikleri linol, ağaç, gravür, <strong>litografi</strong> vb. ile yapılan çalışmalar çoğaltılır."
     },
     {
         "SoruID": 3764795,
@@ -721,7 +721,7 @@
     },
     {
         "SoruID": 3764796,
-        "SoruMetni": "I. Yüksek baskı sisteminde Tipo baskı ve flekso baskı olmak üzere iki baskı çeşidi bulunmaktadır.<br/> II. Yüksek baskı tekniğinde baskıyı gerçekleştiren kalıp yüzeyinin seviyesi, baskı yapmayan bölümlere oranla daha alçaktır.<br/> III. Kalıptaki görüntü baskı altı malzemesiyle direkt temas hâlinde iken belli bir basınç (forsa) yardımıyla transfer edilir.<br/> IV. Daktilo tuşlarına bağlı harf kalıpları çok kaba da olsa tipo baskı sistemini açıklamaya yeter.<br/> V. Baskı altı malzemesinin üzerinde görüntünün düz çıkması için Tipo Baskı kalıbında görüntünün baskı yapan yerlerde düz olması kaçınılmazdır.<br/> Tipo baskı ile ilgili yukardakilerden hangisi/hangileri doğrudur?",
+        "SoruMetni": "I. Yüksek baskı sisteminde Tipo baskı ve flekso baskı olmak üzere iki baskı çeşidi bulunmaktadır.<br/>II. Yüksek baskı tekniğinde baskıyı gerçekleştiren kalıp yüzeyinin seviyesi, baskı yapmayan bölümlere oranla daha alçaktır.<br/>III. Kalıptaki görüntü baskı altı malzemesiyle direkt temas hâlinde iken belli bir basınç (forsa) yardımıyla transfer edilir.<br/>IV. Daktilo tuşlarına bağlı harf kalıpları çok kaba da olsa tipo baskı sistemini açıklamaya yeter.<br/>V. Baskı altı malzemesinin üzerinde görüntünün düz çıkması için Tipo Baskı kalıbında görüntünün baskı yapan yerlerde düz olması kaçınılmazdır.<br/>Tipo baskı ile ilgili yukardakilerden hangisi/hangileri doğrudur?",
         "A": "I, II ve III",
         "B": "II, III ve IV",
         "C": "I, III ve IV",
@@ -737,11 +737,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I. Yüksek baskı sisteminde Tipo baskı ve flekso baskı olmak üzere iki baskı çeşidi bulunmaktadır.  <br/> II. Yüksek baskı tekniğinde baskıyı gerçekleştiren kalıp yüzeyinin seviyesi, baskı yapmayan bölümlere oranla daha <strong>yüksektir.  </strong><br/> III. Kalıptaki görüntü baskı altı malzemesiyle direkt temas hâlinde iken belli bir basınç (forsa) yardımıyla transfer edilir.<br/> IV. Daktilo tuşlarına bağlı harf kalıpları çok kaba da olsa tipo baskı sistemini açıklamaya yeter.<br/> V. Baskı altı malzemesinin üzerinde görüntünün düz çıkması için Tipo Baskı kalıbında görüntünün baskı yapan yerlerde <strong>ters</strong> olması kaçınılmazdır."
+        "Aciklama": "I. Yüksek baskı sisteminde Tipo baskı ve flekso baskı olmak üzere iki baskı çeşidi bulunmaktadır. <br/>II. Yüksek baskı tekniğinde baskıyı gerçekleştiren kalıp yüzeyinin seviyesi, baskı yapmayan bölümlere oranla daha <strong>yüksektir. </strong><br/>III. Kalıptaki görüntü baskı altı malzemesiyle direkt temas hâlinde iken belli bir basınç (forsa) yardımıyla transfer edilir.<br/>IV. Daktilo tuşlarına bağlı harf kalıpları çok kaba da olsa tipo baskı sistemini açıklamaya yeter.<br/>V. Baskı altı malzemesinin üzerinde görüntünün düz çıkması için Tipo Baskı kalıbında görüntünün baskı yapan yerlerde <strong>ters</strong> olması kaçınılmazdır."
     },
     {
         "SoruID": 3764797,
-        "SoruMetni": "1440 yılında Johannes Gutenberg’in icat ettiği metal harf kalıplarına ne ad verilir?",
+        "SoruMetni": "1440 yılında Johannes Gutenberg’in icat ettiği metal harf kalıplarına ne ad verilir?",
         "A": "Letterpress",
         "B": "Hurufat",
         "C": "Kaşe",
@@ -801,7 +801,7 @@
     },
     {
         "SoruID": 3764800,
-        "SoruMetni": "'Metal harflerin el ile kumpasta dizildiği uzunca bir dönemin ardından, 19. yüzyıl sonlarında, <span style=\"text-decoration: underline;\"><strong>...</strong></span>   diye adlandırılan metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makinaları ortaya çıkmıştır' anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
+        "SoruMetni": "'Metal harflerin el ile kumpasta dizildiği uzunca bir dönemin ardından, 19. yüzyıl sonlarında, <span style=\"text-decoration: underline;\"><strong>...</strong></span> diye adlandırılan metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makinaları ortaya çıkmıştır' anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Linotype",
         "B": "Dizgi",
         "C": "Glif",

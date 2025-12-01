@@ -214,7 +214,9 @@
     - **Cevap D-) Ekonomiye katkı**
     - E-) İnsan ihtiyaçlarına hizmet etme
 
-    > **Açıklama:** Ekonomiye katkı
+    > **Açıklama:** İBE, kullanıcı dostu, erişilebilir ve etkili arayüz tasarımları yoluyla teknolojiyi insan ihtiyaçlarına
+    > daha iyi hizmet eder hâle getirmeyi amaçlar. Sayfa 34 okuyup, bkz.
+    > Ekonomiye katkı
 
     ***
 1. Kullanıcıların teknoloji ile etkileşime girdikleri fiziksel ve sosyal ortamı ifade eden ve insan-bilgisayar etkileşiminin (İBE) temel bileşenlerinden olan bu tanımlama aşağıdakilerden hangi kavramdır?
@@ -224,7 +226,7 @@
     - D-) Erişilebilirlik
     - E-) Çoklu platform uyumu
 
-    > **Açıklama:** Bağlam
+    > **Açıklama:** Bağlam, kullanıcıların teknoloji ile etkileşime girdikleri fiziksel ve sosyal ortamı ifade eder.
 
     ***
 1. Yazılım ve kullanıcı arasındaki iletişimi kolaylaştıran, komutları alıp işleyen ve bilgiyi kullanıcıya geri besleyen her türlü işlemi, aracı ve süresi kapsayan kavram aşağıdakilerden hangisidir?
@@ -234,7 +236,8 @@
     - D-) Kodlama
     - **Cevap E-) Arayüz**
 
-    > **Açıklama:** Arayüz
+    > **Açıklama:** Yazılım ve kullanıcı arasındaki iletişimi kolaylaştıran, komutları alıp işleyen ve bilgiyi kullanıcıya geri besleyen her türlü işlemi, aracı ve süresi kapsar.
+    > Arayüz
 
     ***
 1. Aşağıdakilerden hangisi çeşitli arayüz formalarından **değildir?**
@@ -244,7 +247,8 @@
     - D-) Dokunmatik ekranlar
     - E-) Sesli komut arayüzleri
 
-    > **Açıklama:** Çoklu ortamlar
+    > **Açıklama:** Arayüzler; grafik kullanıcı arayüzleri (GUI), komut satırı arayüzleri (CLI), dokunmatik ekranlar, sesli komut arayüzleri gibi çeşitli formlarda olabilir. Arayüzler, insanların bilgisayar sistemleriyle ile etkileşim kurabilmelerinin en temel aracıdır.
+    > Çoklu ortamlar
 
     ***
 1. Arayüz tasarımının özü, bazı temel ilkelere dayanır. Bu ilkelerden; engelli kullanıcılar da dahil olmak üzere herkesin teknolojiyi kullanabilmesini sağlamayı hedefleyen ilke aşağıdakilerden hangisidir?
@@ -254,7 +258,8 @@
     - D-) Sezgisellik
     - E-) Tutarlılık
 
-    > **Açıklama:** Erişilebilirlik
+    > **Açıklama:** Erişebilirlik: Engelli kullanıcılar da dahil olmak üzere herkesin teknolojiyi kullanabilmesini sağlamayı hedefler.
+    > Erişilebilirlik
 
     ***
 1. Kullanıcıların uygulama içinde kolayca navigasyon yapmalarını sağlayan görsel ipuçları olarak tanımlanan, tasarımın görsel ögelerinden olan kavram aşağıdakilerden hangisidir?
@@ -264,7 +269,7 @@
     - **Cevap D-) İkon**
     - E-) Renkler
 
-    > **Açıklama:** İkon
+    > **Açıklama:** **İkonlar:** kullanıcıların uygulama içinde kolayca navigasyon yapmalarını sağlayan görsel ipuçlarıdır.
 
     ***
 1. Arayüz tasarımlarında kullanıcının birden fazla seçeneği işaretlemesine imkân veren form bileşeni aşağıdakilerden hangisidir?
@@ -274,7 +279,7 @@
     - D-) Metin Alanı (Text Field)
     - E-) İçerik Haritası (Breadcrumb)
 
-    > **Açıklama:** Onay Kutusu (Checkbox)
+    > **Açıklama:** **Onay Kutusu (Checkbox):** Kullanıcının birden fazla seçeneği işaretlemesine imkân verir.
 
     ***
 1. Tipik bir web ya da mobil uygulama arayüzü üç ana bölümden oluşur. Aşağıdakilerden hangisi bu bölümlerdendir?
@@ -284,7 +289,7 @@
     - D-) İpucu (Tooltip)
     - **Cevap E-) Başlık (Header)**
 
-    > **Açıklama:** Başlık (Header)
+    > **Açıklama:** Tipik bir web ya da mobil uygulama arayüzü üç ana bölümden oluşur: **Başlık (header)**, ana içerik (**main content veya body)** ve **altbilgi (footer)**.
 
     ***
 1. Farklı içerik türlerini (metin, resim, video vb.) bütünleştirmek için esnek bir yapı sunarak, içeriğin boyutuna ve türüne göre yapısal bölümleri uygun şekilde boyutlandırabilen ızgara sistemi aşağıdakilerden hangisidir?
@@ -294,7 +299,8 @@
     - D-) Akışkan (Fluid) Izgara Sistemi
     - E-) Sabit (Fixed) Izgara Sistemi
 
-    > **Açıklama:** Modüler (Modular) Izgara Sistemi
+    > **Açıklama:** Modüler ızgaralar, farklı içerik türlerini (metin, resim, video vb.) bütünleştirmek için esnek bir yapı sunar. Tasarımcılar, içeriğin boyutuna ve türüne göre modülleri uygun şekilde boyutlandırabilirler.
+    > Modüler (Modular) Izgara Sistemi
 
     ***
 1. Aşağıdakilerden hangisi popüler tasarım stillerinden **değildir?**
@@ -304,7 +310,8 @@
     - D-) İllustrative Design (İllüstratif Tasarım)
     - E-) Typography-Centric Design (Tipografi Odaklı Tasarım)
 
-    > **Açıklama:** Grunge Design (Dağınık Tasarım)
+    > **Açıklama:** Popüler Tasarım Stilleri Arayüz tasarımı, çeşitli stil türlerini kullanarak estetik çeşitlilik sunan dinamik bir disiplindir. Bu stiller;...Flat Design (Düz Tasarım), Product-Oriented Design (Ürün Odaklı Tasarım), Typography-Centric Design (Tipografi Odaklı Tasarım), Minimalist Design (Minimalist Tasarım) ve Illustrative Design (İllüstratif Tasarım) popüler tasarım stillerinin başlıcalarıdır.
+    > Grunge Design (Dağınık Tasarım)
 
     ***
 1. İnsan ihtiyaçlarından doğan bir talebin teknolojide karşılık bulması anlamında, bilgisayar - insan etkileşiminin ilk adımı olarak kabul edilen Memex (Memory Index) yapısı hangi yılda ortaya atılmıştır?
@@ -337,7 +344,7 @@
     > **Açıklama:** Çoklu Platform Uyumluluğu kullanıcıların her yereden ve her cihazdan erişebilmesi için gereklidir. Bu nedenle doğru yanıt d şıkkıdır.
 
     ***
-1. Aşağıdakilerden hangisi arayüz ile ilgili **yanlış** bir ifadedir?
+1. Aşağıdakilerden hangisi arayüz ile ilgili **yanlış** bir ifadedir?
     - A-) Herhangi bir dijital cihaz ile kullanıcıları arasında etkileşimi sağlayan bir katmandır.
     - B-) Komutları alıp işler ve bilgiyi kullanıcıya geri besleyen her türlü işlemi yapar.
     - C-) Kullanıcıların bir sistemle deneyimini doğrudan etkiler.
@@ -415,7 +422,8 @@
     - D-) hata toleransı
     - E-) erişilebilirlik
 
-    > **Açıklama:** Kullanılabilirliğin beş temel prensiplerinden biri olan ve belirli bir görevi tamamlamak için gereken zaman ve kaynakların oranını verimlilik ile ifade ederiz
+    > **Açıklama:** Doğru yanıt verimlilik
+    > Kullanılabilirliğin beş temel prensiplerinden biri olan ve belirli bir görevi tamamlamak için gereken zaman ve kaynakların oranını verimlilik ile ifade ederiz
 
     ***
 1. Aşağıdakilerden hangisi geri bildirim döngüsü adımlarındandır?
@@ -425,7 +433,8 @@
     - D-) hata toleransı
     - E-) kullanılabilirlik metrikleri
 
-    > **Açıklama:** Uygulama ve iyileştirme geribildirim döngüsü adımlarındandır
+    > **Açıklama:** Doğru yanıt A'dır
+    > Uygulama ve iyileştirme geribildirim döngüsü adımlarındandır
 
     ***
 1. Hangisi Gestalt ilkeleri prensiplerinden değildir?
@@ -435,7 +444,8 @@
     - D-) devamlılık
     - **Cevap E-) okunulabilirlik**
 
-    > **Açıklama:** Okunulabilirlik Gestalt ilkelerinden değildir.
+    > **Açıklama:** Doğru yanıt E şıkkıdır.
+    > Okunulabilirlik Gestalt ilkelerinden değildir.
 
     ***
 1. Başlıklar, alt başlıklar ve metin blokları arasındaki uygun hiyerarşi, kullanıcıların içeriği tarayabilmesini ve önemli bilgileri bulmalarını sağlar. Bunu aşağıdaki kavramlardan hangisi ifade eder?
@@ -445,7 +455,8 @@
     - **Cevap D-) Görsel hiyerarşi**
     - E-) Tipografi
 
-    > **Açıklama:** Başlıklar, alt başlıklar ve metin blokları arasındaki uygun hiyerarşi, kullanıcıların içeriği tarayabilmesini ve önemli bilgileri bulmalarını sağlayan görsel hiyerarşidir.
+    > **Açıklama:** Yanıt D şıkkıdır
+    > Başlıklar, alt başlıklar ve metin blokları arasındaki uygun hiyerarşi, kullanıcıların içeriği tarayabilmesini ve önemli bilgileri bulmalarını sağlayan görsel hiyerarşidir.
 
     ***
 1. Ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaştığı ve her türlü düşünceye açık bir ortamda yapılan oturuma ne ad verilir?
@@ -455,7 +466,8 @@
     - D-) kullanıcı odaklı yapı oluşturma
     - **Cevap E-) beyin fırtınası**
 
-    > **Açıklama:** Ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaştığı ve her türlü düşünceye açık bir ortamda yapılan oturuma beyin fırtınası adı verilir.
+    > **Açıklama:** Yanıt E şıkkıdır
+    > Ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaştığı ve her türlü düşünceye açık bir ortamda yapılan oturuma beyin fırtınası adı verilir.
 
     ***
 1. Aşağıdakilerden hangisi UX ve UI tasarımı arasındaki temel farklardan biridir?
@@ -465,17 +477,19 @@
     - **Cevap D-) UX, kullanıcı araştırmaları, kullanıcı senaryoları ve kullanıcı hikayeleri gibi stratejik ve araştırma odaklı süreçleri içerirken UI, renk şemaları gibi daha görsel ve estetik özelliklere odaklanır**
     - E-) UX, tipografi ve düzen gibi daha görsel özelliklere odaklanırken UI, kullanıcıların etkileşimde bulunduğu grafik ve yazılı tasarım ögelerine odaklanır
 
-    > **Açıklama:** UX, kullanıcı araştırmaları, kullanıcı senaryoları ve kullanıcı hikayeleri gibi stratejik ve araştırma odaklı süreçleri içerirken UI, renk şemaları gibi daha görsel ve estetik özelliklere odaklanır
+    > **Açıklama:** Doğru yanıt D şıkkıdır.
+    > UX, kullanıcı araştırmaları, kullanıcı senaryoları ve kullanıcı hikayeleri gibi stratejik ve araştırma odaklı süreçleri içerirken UI, renk şemaları gibi daha görsel ve estetik özelliklere odaklanır
 
     ***
 1. Aşağıdakilerden hangisi kullanıcı deneyimi tasarım araçlarının takım içindeki iş birliğini arttırmak ve tutarlı tasarım sistemleri oluşturmak için sağladığı özelliklerden biri değildir?
     - A-) tasarım ve prototipleme
-    - B-) iş  birliği ve paylaşım
+    - B-) iş birliği ve paylaşım
     - C-) kullanabilirlik testleri
     - D-) kullanıcılardan geri bildirim alma
     - **Cevap E-) görsel hiyerarşi**
 
-    > **Açıklama:** Kullanıcı deneyimi tasarım araçlarının takım içindeki iş birliğini arttırmak ve tutarlı tasarım sistemleri oluşturmak için sağladığı özelliklerden biri görsel hiyerarşi değildir.
+    > **Açıklama:** Doğru yanıt E şıkkıdır
+    > Kullanıcı deneyimi tasarım araçlarının takım içindeki iş birliğini arttırmak ve tutarlı tasarım sistemleri oluşturmak için sağladığı özelliklerden biri görsel hiyerarşi değildir.
 
     ***
 1. Aşağıdaki uygulamalardan hangisi Adobe ekosisteminde yer almaktadır?
@@ -485,7 +499,8 @@
     - D-) Cloud
     - E-) DX
 
-    > **Açıklama:** Adobe XD, Adobe bünyesinde bir yazılımdır
+    > **Açıklama:** Yanıt C şıkkıdır
+    > Adobe XD, Adobe bünyesinde bir yazılımdır
 
     ***
 1. Ürünlerin sadece işlevsel olmaktan öteye geçerek kullanıcılar üzerinde olumlu bir duygusal etki bırakmayı hedeflemesini açıklayan kavram aşağıdakilerden hangisidir?
@@ -495,7 +510,8 @@
     - D-) Geri bildirim döngüsü
     - E-) Simetri
 
-    > **Açıklama:** Ürünlerin sadece işlevsel olmaktan öteye geçerek kullanıcılar üzerinde olumlu bir duygusal etki bırakmayı hedeflemesini açıklayan kavram duygu tasarımıdır
+    > **Açıklama:** Yanıt A şıkkıdır
+    > Ürünlerin sadece işlevsel olmaktan öteye geçerek kullanıcılar üzerinde olumlu bir duygusal etki bırakmayı hedeflemesini açıklayan kavram duygu tasarımıdır
 
     ***
 1. Aynı doğrultuda olan ve birbirine bağlı olan unsurların, insanlar tarafından aynı gruba ait olarak algılanmasını ifade eden Gestalt ilkesi aşağıdakilerden hangisidir?
@@ -505,7 +521,8 @@
     - **Cevap D-) devamlılık**
     - E-) okunulabilirlik
 
-    > **Açıklama:** Aynı doğrultuda olan ve birbirine bağlı olan unsurların, insanlar tarafından aynı gruba ait olarak algılanmasını devamlılık kavramı ifade eder
+    > **Açıklama:** Yanıt D şıkkıdır
+    > Aynı doğrultuda olan ve birbirine bağlı olan unsurların, insanlar tarafından aynı gruba ait olarak algılanmasını devamlılık kavramı ifade eder
 
     ***
 ## Unite 4
@@ -618,11 +635,11 @@
     > Derinlik: Fluent Design’da derinlik, kullanıcı arayüzlerine katmanlar ve görsel hiyerarşi ekleyerek daha zengin bir deneyim oluşturmayı ve uygulamalar arası geçişleri, içerik organizasyonunu daha sezgisel hâle getirmeyi amaçlar; kullanıcılara hangi elementlerin etkileşime açık olduğunu ve hangi içeriğin önemli olduğunu görsel olarak iletmeye yardımcı olur.
 
     ***
-1. Aşağıdakilerden hangisi Favori web tarayıcınızı kullanarak bir web adresine erişmek istediğinizde istemci ve sunucu arasında yürütülen işlem adımlarından birisi değildir?
+1. Aşağıdakilerden hangisi Favori web tarayıcınızı kullanarak bir web adresine erişmek istediğinizde istemci ve sunucu arasında yürütülen işlem adımlarından birisi değildir?
     - A-) Adım 1: URL Kullanımı
     - B-) Adım 2: DNS Sorgulama
     - C-) Adım 3: HTTP İsteği
-    - D-) .   • Adım 4: Sunucu Yanıtı
+    - D-) . • Adım 4: Sunucu Yanıtı
     - **Cevap E-) Ön Uç (Front-end) Web Geliştirme**
 
     > **Açıklama:** Ön Uç (Front-end) Web Geliştirme
@@ -648,7 +665,7 @@
     > **Açıklama:** Tam Kapsamlı (Full-stack) Web Geliştirme
 
     ***
-1. Aşağıdakilerden hangisi JavaScript’in yaygın kullanım biçimleri ve alanlarından **değildir?**
+1. Aşağıdakilerden hangisi JavaScript’in yaygın kullanım biçimleri ve alanlarından **değildir?**
     - A-) Seçici (Selector)
     - **Cevap B-) Ön Uç Geliştirme**
     - C-) Arka Uç Geliştirme
@@ -658,7 +675,7 @@
     > **Açıklama:** Ön Uç Geliştirme:
 
     ***
-1. Aşağıdakilerden hangisi Web arayüzlerini diğer arayüz türlerinden, özellikle geleneksel masaüstü ve mobil uygulama arayüzlerinden ayrıştıran bazı temel unsurlardan değildir?
+1. Aşağıdakilerden hangisi Web arayüzlerini diğer arayüz türlerinden, özellikle geleneksel masaüstü ve mobil uygulama arayüzlerinden ayrıştıran bazı temel unsurlardan değildir?
     - A-) Platform Bağımsızlığı
     - B-) Canlı Güncellemeler
     - **Cevap C-) Kapsam ve Uygulama**
@@ -668,7 +685,7 @@
     > **Açıklama:** Kapsam ve Uygulama
 
     ***
-1. Aşağıdakilerden hangisi Web ve arayüz (UI) tasarımı süreçleri, temelde<br />benzer aşamalardan geçse de odaklandıkları alanlarda ve uygulamalarda bazı farklılıklar gösterirler.<br />Her iki süreç arasındaki ayrışma, özellikle tasarımın kapsamı, teknik gereklilikler ve etkileşim detaylarına dair aşamalardan biridir?
+1. Aşağıdakilerden hangisi Web ve arayüz (UI) tasarımı süreçleri, temelde<br />benzer aşamalardan geçse de odaklandıkları alanlarda ve uygulamalarda bazı farklılıklar gösterirler.<br />Her iki süreç arasındaki ayrışma, özellikle tasarımın kapsamı, teknik gereklilikler ve etkileşim detaylarına dair aşamalardan biridir?
     - A-) Canlı Güncellemeler
     - **Cevap B-) Teknik Bilgi ve Araçlar**
     - C-) Erişilebilirlik ve Uyumluluk
@@ -678,7 +695,7 @@
     > **Açıklama:** Teknik Bilgi ve Araçlar
 
     ***
-1. Aşağıdakilerden hangisi Duyarlı tasarımın temel bileşenlerinden biridir?
+1. Aşağıdakilerden hangisi Duyarlı tasarımın temel bileşenlerinden biridir?
     - **Cevap A-) Esnek Sayfa Düzenleri**
     - B-) Etkileşim ve Animasyon:
     - C-) Teknik Bilgi ve Araçlar
@@ -688,7 +705,7 @@
     > **Açıklama:** Esnek Sayfa Düzenleri
 
     ***
-1. Aşağıdakilerden hangisi Tasarım sistemleri, arayüz ve kullanıcı deneyimine yönelik standartlar, uygulama örnekleri ve<br />öneriler sunarak tutarlı, kullanıcı dostu ve estetik<br />açıdan etkileyici mobil, web ve masaüstü uygulamalar geliştirilmesine yardımcı olmaktadır. Büyük<br />teknoloji firmalarının tasarım vizyonunu yansıtan<br />bu sistemler; pek çok farklı açıdan kullanıcıları,<br />sektörü ve tasarımcılara olan etklerinden biri değildir?
+1. Aşağıdakilerden hangisi Tasarım sistemleri, arayüz ve kullanıcı deneyimine yönelik standartlar, uygulama örnekleri ve<br />öneriler sunarak tutarlı, kullanıcı dostu ve estetik<br />açıdan etkileyici mobil, web ve masaüstü uygulamalar geliştirilmesine yardımcı olmaktadır. Büyük<br />teknoloji firmalarının tasarım vizyonunu yansıtan<br />bu sistemler; pek çok farklı açıdan kullanıcıları,<br />sektörü ve tasarımcılara olan etklerinden biri değildir?
     - A-) Standartlaşma ve Tutumluluk
     - B-) İnovasyon ve Kullanıcı Deneyimi
     - C-) Kullanıcı Beklentilerinin Yönlendirilmesi
@@ -698,7 +715,7 @@
     > **Açıklama:** watchOS
 
     ***
-1. Aşağıdakilerden hangisi Fluent Design’ın temel unsurlarından değildir?
+1. Aşağıdakilerden hangisi Fluent Design’ın temel unsurlarından değildir?
     - A-) Derinlik
     - B-) Hareket
     - C-) Malzeme
@@ -726,7 +743,8 @@
     - D-) Walt Disney
     - E-) Snow White
 
-    > **Açıklama:** 1906 yılında J. Stuart Blackton tarafından yapılan ve animasyonun ilk örneklerinden biri olarak görülen film The Humorous Phases of Funny Faces'dir
+    > **Açıklama:** Doğru yanıt A şıkkıdır
+    > 1906 yılında J. Stuart Blackton tarafından yapılan ve animasyonun ilk örneklerinden biri olarak görülen film The Humorous Phases of Funny Faces'dir
 
     ***
 1. 1834 yılında İngiliz matematikçi William Horner tarafından icat edilen cihaz hangisidir?
@@ -736,7 +754,8 @@
     - D-) Squash
     - E-) Frames
 
-    > **Açıklama:** 1834 yılında İngiliz matematikçi William Horner tarafından icat edilen cihaz Zoetrope'dur
+    > **Açıklama:** Doğru yanıt C şıkkıdır
+    > 1834 yılında İngiliz matematikçi William Horner tarafından icat edilen cihaz Zoetrope'dur
 
     ***
 1. Dünyanın ilk uzun metraj 3B animasyon filmi aşağıdakilerden hangisidir?
@@ -746,7 +765,8 @@
     - D-) Madagaskar
     - E-) Ice Age
 
-    > **Açıklama:** Dünyanın ilk uzun metraj 3B animasyon filmi Toy Story'dir.
+    > **Açıklama:** Doğru yanıt C şıkkıdır
+    > Dünyanın ilk uzun metraj 3B animasyon filmi Toy Story'dir.
 
     ***
 1. Karakter ve nesnelerin üç boyutlu görünmesini sağlamak için hacim, ağırlık, denge ve anatomiyi dikkate alan çizimler oluşturmayı ifade eden ve “The Illusion of Life” adlı kitapta yer alan prensip aşağıdakilerden hangisidir?
@@ -756,7 +776,8 @@
     - **Cevap D-) Sağlam Çizim**
     - E-) İkincil Hareket
 
-    > **Açıklama:** Karakter ve nesnelerin üç boyutlu görünmesini sağlamak için hacim, ağırlık, denge ve anatomiyi dikkate alan çizimler oluşturmayı ifade eden prensip sağlam çizimdir.
+    > **Açıklama:** Doğru şık D'dir.
+    > Karakter ve nesnelerin üç boyutlu görünmesini sağlamak için hacim, ağırlık, denge ve anatomiyi dikkate alan çizimler oluşturmayı ifade eden prensip sağlam çizimdir.
 
     ***
 1. Hareketin yer aldığı kompozisyonun arka plan, ışık kullanımı ve kamera açılarıyla desteklenmesini ifade eden prensip hangisidir?
@@ -766,7 +787,8 @@
     - D-) Sağlam Çizim
     - E-) İkincil Hareket
 
-    > **Açıklama:** Hareketin yer aldığı kompozisyonun arka plan, ışık kullanımı ve kamera açılarıyla desteklenmesini ifade eden prensip sahnelemedir
+    > **Açıklama:** Doğru yanıt A şıkkıdır
+    > Hareketin yer aldığı kompozisyonun arka plan, ışık kullanımı ve kamera açılarıyla desteklenmesini ifade eden prensip sahnelemedir
 
     ***
 1. Animasyonlarda karaktere bir iskelet sistemi eklenerek doğal insan hareketleri simüle edilmesine ne isim verilmektedir?
@@ -776,7 +798,8 @@
     - D-) Exaggeration
     - E-) Timing
 
-    > **Açıklama:** Animasyonlarda karaktere bir iskelet sistemi eklenerek doğal insan hareketleri simüle edilmesine rigging denir
+    > **Açıklama:** Doğru yanıt B şıkkıdır
+    > Animasyonlarda karaktere bir iskelet sistemi eklenerek doğal insan hareketleri simüle edilmesine rigging denir
 
     ***
 1. 2B animasyonlarda uygulanan bir teknikle, ana kareler (keyframe) animatör tarafından tasarlandıktan sonra hareketi meydana getirecek ara kareler (frame) animasyon yazılımı tarafından otomatik olarak oynatılır. Bu tekniğin adı nedir?
@@ -786,17 +809,19 @@
     - D-) Exaggeration
     - E-) Timing
 
-    > **Açıklama:** Bahsedilen tekniğin adı tweening'dir.
+    > **Açıklama:** Doğru yanıt A şıkkıdır.
+    > Bahsedilen tekniğin adı tweening'dir.
 
     ***
-1. Videolar genellikle çok büyük dosya boyutlarına sahip olduğundan veri depolama ve aktarımı kolaylaştırmak için bazı  video kodlama standartlarını kullanılarak sıkıştırılır. Aşağıdakilerden hangisi bunlardan birisidir?
+1. Videolar genellikle çok büyük dosya boyutlarına sahip olduğundan veri depolama ve aktarımı kolaylaştırmak için bazı video kodlama standartlarını kullanılarak sıkıştırılır. Aşağıdakilerden hangisi bunlardan birisidir?
     - **Cevap A-) H.264**
     - B-) CCD
     - C-) CMOS
     - D-) HDMI
     - E-) FPS
 
-    > **Açıklama:** H.264 bir sıkıştırma türüdür.
+    > **Açıklama:** Doğru yanıt A şıkkıdır
+    > H.264 bir sıkıştırma türüdür.
 
     ***
 1. Bir öğenin yavaşça kaybolup başka bir görüntü veya ögeyle değişmesini ifade eden kavram aşağıdakilerden hangisidir?
@@ -806,7 +831,8 @@
     - **Cevap D-) Dissolve**
     - E-) Fade in-out
 
-    > **Açıklama:** Bir öğenin yavaşça kaybolup başka bir görüntü veya ögeyle değişmesi dissolve ile ifade edilir
+    > **Açıklama:** Doğru yanıt D şıkkıdır
+    > Bir öğenin yavaşça kaybolup başka bir görüntü veya ögeyle değişmesi dissolve ile ifade edilir
 
     ***
 ## Unite 6
@@ -820,7 +846,7 @@
     > **Açıklama:** Oyun Dinamikleri, oyun mekaniklerinin uygulanması sonucu ortaya çıkan, oyuncunun deneyimlediği etkileşimler ve olaylardır. Mekaniklerin sabit kuralları olmasına karşın dinamikler her oynanışta farklılık gösterebilir çünkü oyuncunun seçimleri, rastlantılar ve oyunun kendine özgü algoritmaları tarafından şekillendirilir. Oyun dinamikleri; oyunun akışını canlı ve öngörülemez kılar, her oyuncunun deneyiminin benzersiz olmasını sağlar.
 
     ***
-1. Aşağıda verilen cümlede, bırakılan boşluklara gelmesi gereken yanıt çiftini seçeneklere göre belirleyiniz.<br />Bir dijital oyunda……………….. eylemi   ……………. mekanik örneğidir.
+1. Aşağıda verilen cümlede, bırakılan boşluklara gelmesi gereken yanıt çiftini seçeneklere göre belirleyiniz.<br />Bir dijital oyunda……………….. eylemi ……………. mekanik örneğidir.
     - A-) Ana karakterin koşması/ikincil
     - B-) Ana karakterin harita toplaması /temel
     - C-) Ana karakterin sağa sola dönmesi/ yardımcı
@@ -880,7 +906,7 @@
     > **Açıklama:** Diegetic arayüzler; oyuncuların deneyimini daha sürükleyici hâle getiren, oyun dünyasıyla bütünleşik unsurlardır. **Non-diegetic arayüzler ise genellikle oyunun mekanik bilgilerini (can barı, mühimmat sayısı gibi) gösteren ve oyun dünyası dışında kalan bilgileri içerir.**
 
     ***
-1. Dijital oyunlarda klavyedeki A tuşu en yaygın kullanımıyla  hangi hareketi sağlar?
+1. Dijital oyunlarda klavyedeki A tuşu en yaygın kullanımıyla hangi hareketi sağlar?
     - A-) İleri
     - B-) Geri
     - C-) Yukarı
@@ -897,10 +923,10 @@
     - D-) Tıklama
     - **Cevap E-) Modifikasyon**
 
-    > **Açıklama:** Oyunlar tasarlanırken bilgisayar veya konsol oyunlarındaki gibi karmaşık tuş kombinasyonları ve karmaşık kontrolleri mobil tasarımda uygulamak mümkün değildir. Piyasadaki en popüler oyunlar, kullanıcıların sadece gerekli eylemleri gerçekleştirmelerine yardımcı olan belirli özellikler setine sahiptir. Kontroller, oyuncuların ekran üzerindeki eylemleri kolayca ve sezgisel olarak gerçekleştirmelerine olanak tanımalıdır. **Modifikasyon - Bilgisayarlarda oynanan oyunların kullanıcı tarafından geliştirilmesi ve değiştirilmesi  ise mobil oyunların değil, PC’leri diğer oyun platformlarından ayıran başlıca  özellikler içinde yer alır**
+    > **Açıklama:** Oyunlar tasarlanırken bilgisayar veya konsol oyunlarındaki gibi karmaşık tuş kombinasyonları ve karmaşık kontrolleri mobil tasarımda uygulamak mümkün değildir. Piyasadaki en popüler oyunlar, kullanıcıların sadece gerekli eylemleri gerçekleştirmelerine yardımcı olan belirli özellikler setine sahiptir. Kontroller, oyuncuların ekran üzerindeki eylemleri kolayca ve sezgisel olarak gerçekleştirmelerine olanak tanımalıdır. **Modifikasyon - Bilgisayarlarda oynanan oyunların kullanıcı tarafından geliştirilmesi ve değiştirilmesi ise mobil oyunların değil, PC’leri diğer oyun platformlarından ayıran başlıca özellikler içinde yer alır**
 
     ***
-1. Aşağıdakilerden hangisi oyun arayüzlerindeki  oyun-içi  bileşenlere örnektir?
+1. Aşağıdakilerden hangisi oyun arayüzlerindeki oyun-içi bileşenlere örnektir?
     - **Cevap A-) Oyun dünyasındaki harita**
     - B-) Skor tablosu
     - C-) Karakter metinleri
@@ -924,7 +950,7 @@
     > **Sanal Gerçeklik:** Kullanıcıları tamamen sanal bir ortamdaki gerçek üstü deneyimlere sürükleyen uygulamaları tanımlar. Genellikle başa takılan gözlükler aracılığıyla deneyimlenir ve kullanıcılara 360 derece, üç boyutlu bir deneyim sunmak üzere tasarlanır.
 
     ***
-1. Sanal gerçeklik teknolojisinin öncü fikirlerinden sayılan ve 1838'de Sir Charles Wheatstone tarafından icat edilen cihaz aşağıdakilerden hangisidir?
+1. Sanal gerçeklik teknolojisinin öncü fikirlerinden sayılan ve 1838'de Sir Charles Wheatstone tarafından icat edilen cihaz aşağıdakilerden hangisidir?
     - A-) Mavi Kutu
     - **Cevap B-) Stereoskop**
     - C-) Telesfer Maskesi
@@ -966,7 +992,7 @@
     - E-) Sosyal sürükleyicilik
 
     > **Açıklama:** **Duyusal Sürükleyicilik:** Duyusal sürükleyicilik, bir kişinin bir ortama veya deneyime tamamen dalmış ve çevresel duyularıyla yoğun bir şekilde etkileşimde bulunduğu bir durumu ifade eder.
-    > **Meydan okumaya dayalı sürükleyicilik:** Sanal gerçeklikte öğrenme sürecini daha interaktif ve uygulamalı hâle getiren bir yaklaşımdır. Kullanıcılara sanal ortamda belirli zorluklar, sorunlar ve görevler sunarak motor ve zihinsel becerilerini geliştirmelerine olanak tanır.
+    > **Meydan okumaya dayalı sürükleyicilik:** Sanal gerçeklikte öğrenme sürecini daha interaktif ve uygulamalı hâle getiren bir yaklaşımdır. Kullanıcılara sanal ortamda belirli zorluklar, sorunlar ve görevler sunarak motor ve zihinsel becerilerini geliştirmelerine olanak tanır.
     > **Yaratıcı sürükleyicilik:** Kullanıcının gerçek dünyadan ayrılıp hayal gücünün rehberliğinde farklı bir dünyaya girdiği anları tanımlar. Bu tür bir sanal gerçeklik ortamı, özellikle deneyimlerin fiziksel tehlikesini azaltarak gerçek dünyada deneyimlenmesi mümkün olmayan senaryoların oluşturulmasına olanak tanımaktadır.
     > **Sembolik/Anlatısal Sürükleyicilik:** Kullanıcının semboller, öyküler ve anlatılar aracılığıyla bir konsepte veya deneyime tamamen dalma durumunu ifade eder.
     > **Sosyal Sürükleyicilik:** Sanal gerçeklik ortamları tek veya çok kullanıcılı olacak şekilde tasarlanabilmektedir. Çok kullanıcılı sanal gerçeklik uygulamaları genellikle internet bağlantısına sahiptir dolayısıyla katılımcılar sanal dünyalarda aynı anda benzer bir deneyimi paylaşabilirler.
@@ -1039,14 +1065,14 @@
     > **Açıklama:** Schumpeter'e göre teknolojik değişim üç aşamada gerçekleşir: Buluş, yenilik, yayılma. Doğru yanıt C dir.
 
     ***
-1. Hangi kurama göre teknolojik yenilikler toplumun her kesiminde aynı hızda ve aynı zamanda  gerçekleşmez?
+1. Hangi kurama göre teknolojik yenilikler toplumun her kesiminde aynı hızda ve aynı zamanda gerçekleşmez?
     - **Cevap A-) Rogers- Yeniliklerin yayılması kuramı**
     - B-) Heidegger- Teknolojinin ekonomi politiği kuramı
     - C-) Marcuse- Kültlürel farklılıklar kuramı
     - D-) Newcomb- Bakışım kuramı
     - E-) Bandura- Sosyal öğrenme kuramı
 
-    > **Açıklama:** Rogers'ın yeniliklerin yayılması kuramına göre  teknolojik yenilikler toplumun her kesiminde aynı hızda ve zamanda gerçekleşmez. Doğru yanıt A'dır.
+    > **Açıklama:** Rogers'ın yeniliklerin yayılması kuramına göre teknolojik yenilikler toplumun her kesiminde aynı hızda ve zamanda gerçekleşmez. Doğru yanıt A'dır.
 
     ***
 1. Aşağıdakilerden hangisi Rogers'in Yeniliklerin Yayılması Kuramında bahsi geçen toplum kesimlerinden biri **değildir?**
@@ -1059,7 +1085,7 @@
     > **Açıklama:** Direnişçiler, Rogers'ın kuramında bahsi geçen toplum kesimlerinden biri değildir. Doğru yanıt E dir.
 
     ***
-1. "toplumun çoğunluğu güncel teknolojileri  kullanırken öncü kesimler .................... denemektedirler"<br />Yukarıdaki ifadede boş yere aşağıdakilerden hangisi gelebilir?
+1. "toplumun çoğunluğu güncel teknolojileri kullanırken öncü kesimler .................... denemektedirler"<br />Yukarıdaki ifadede boş yere aşağıdakilerden hangisi gelebilir?
     - A-) Direnmeyi
     - **Cevap B-) Sınırdaki teknolojileri**
     - C-) Yapay zekayı

@@ -17,13 +17,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mizanpaj: Gazete, dergi, kitap gibi yayınlardaki sayfa düzeni."
+        "Aciklama": "DİJİTAL DEVRİMİN KÖKENLERİ<br>Mizanpaj: Gazete, dergi, kitap gibi yayınlardaki sayfa düzeni."
     },
     {
         "SoruID": 3234899,
         "SoruMetni": "Aşağıdaki şirketlerden hangisi tarafından icat edilen PostScript programlama dili sayfa mizanpajı yazılımının temelini oluşturmuştur?",
         "A": "Apple Computer",
-        "B": "Adobe Systems<br/><br/>",
+        "B": "Adobe Systems",
         "C": "Aldus",
         "D": "IBM",
         "E": "NEC",
@@ -37,16 +37,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Adobe Systems tarafından icat edilen PostScript programlama dili<br/>sayfa mizanpajı yazılımının temelini oluştururken, Aldus tarafından yaratılan PageMaker programı, PostScript yazılım dilini kullanarak sayfa tasarımı yapmayı bilgisayar ekranında olanaklı hâle getiren erken yazılımlardan biri olmuştur."
+        "Aciklama": "DİJİTAL DEVRİMİN KÖKENLERİ<br>Adobe Systems tarafından icat edilen PostScript programlama dili<br/>sayfa mizanpajı yazılımının temelini oluştururken, Aldus tarafından yaratılan PageMaker programı, PostScript yazılım dilini kullanarak sayfa tasarımı yapmayı bilgisayar ekranında olanaklı hâle getiren erken yazılımlardan biri olmuştur."
     },
     {
         "SoruID": 3234900,
         "SoruMetni": "Yazıyı dijital hâle getirmede önemli yeri olan ve Macintosh için yazı karakterleri üreterek ismini duyurmayı başaran kişi aşağıdakilerden hangisidir?",
-        "A": "David Carson<br/><br/>",
-        "B": "Susan Kare<br/><br/>",
+        "A": "David Carson",
+        "B": "Susan Kare",
         "C": "Carol Twombly",
-        "D": "Robert Slimbach<br/><br/>",
-        "E": "Fred Woodward<br/><br/>",
+        "D": "Robert Slimbach",
+        "E": "Fred Woodward",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
         "Unite": 8,
@@ -57,15 +57,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeni teknolojiyi benimseyen ve yaratıcı potansiyelini araştıran ilk öncüler arasında, Los Angeleslı tasarımcı April Greiman (1948), Emigre dergi tasarımcı / editör Rudy Vanderlans (1955), ve yazı karakteri tasarımcısı Zuzana Licko (1961) sayılabilir. Bu tasarımcılar özellikle tasarım dünyasına getirdikleri yeni yaklaşımlar ile adlarını duyurmayı başarmışlardır. Bunların dışında yazıyı dijital hâle getirmede önemli yeri olan Sumner Stone, kendi adını taşıyan yazı karakterini dijitalleştirerek ve Susan Kare de Macintosh için yazı karakterleri üreterek isimlerini duyurmayı başarmışlardır."
+        "Aciklama": "DİJİTAL DEVRİMİN ÖNCÜLERİ<br>Yeni teknolojiyi benimseyen ve yaratıcı potansiyelini araştıran ilk öncüler arasında, Los Angeleslı tasarımcı April Greiman (1948), Emigre dergi tasarımcı / editör Rudy Vanderlans (1955), ve yazı karakteri tasarımcısı Zuzana Licko (1961) sayılabilir. Bu tasarımcılar özellikle tasarım dünyasına getirdikleri yeni yaklaşımlar ile adlarını duyurmayı başarmışlardır. Bunların dışında yazıyı dijital hâle getirmede önemli yeri olan Sumner Stone, kendi adını taşıyan yazı karakterini dijitalleştirerek ve Susan Kare de Macintosh için yazı karakterleri üreterek isimlerini duyurmayı başarmışlardır."
     },
     {
         "SoruID": 3234901,
         "SoruMetni": "Digital devrimin öncülerinden olan, videodan yakalanmış görüntüleri ve onları görselleştirmeyi, boşluktaki görüntüleri katmanlaştırmayı, kelimeleri ve resimleri tek bir bilgisayar dosyası içinde bütünleştirmeyi başarmış kişi aşağıdakilerden hangisidir?",
-        "A": "April Greiman<br/><br/>",
-        "B": "Rudy Vanderlans<br/><br/>",
-        "C": "William Morris<br/><br/>",
-        "D": "Zuzana Licko<br/><br/>",
+        "A": "April Greiman",
+        "B": "Rudy Vanderlans",
+        "C": "William Morris",
+        "D": "Zuzana Licko",
         "E": "Susan Kare",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "April Greiman, bitmapleştirilmiş yazı, katman ve üstüste binmiş görüntüler, video ve baskı sentezi, dokunsal desen ve yeni teknoloji ile yapılması mümkün olan görsellerin özelliklerini araştırmış ve çalışmalarında sıklıkla bunlara yer vermiştir. Macintosh bilgisayar kullanılarak üretilen tasarımlarında, bitmapleştirilmiş yazı<br/>ve bilgisayar tarafından oluşturulan dokuları büyük bir boyuta fotokopi ile çoğaltmış ve geleneksel dizgi ile birleştirilmiştir. Greiman, videodan yakalanmış görüntüleri ve onları görselleştirmeyi, boşluktaki görüntüleri katmanlaştırmayı, kelimeleri ve resimleri tek bir bilgisayar dosyası içinde bütünleştirmeyi başarmıştır."
+        "Aciklama": "DİJİTAL DEVRİMİN ÖNCÜLERİ<br>April Greiman, bitmapleştirilmiş yazı, katman ve üstüste binmiş görüntüler, video ve baskı sentezi, dokunsal desen ve yeni teknoloji ile yapılması mümkün olan görsellerin özelliklerini araştırmış ve çalışmalarında sıklıkla bunlara yer vermiştir. Macintosh bilgisayar kullanılarak üretilen tasarımlarında, bitmapleştirilmiş yazı<br/>ve bilgisayar tarafından oluşturulan dokuları büyük bir boyuta fotokopi ile çoğaltmış ve geleneksel dizgi ile birleştirilmiştir. Greiman, videodan yakalanmış görüntüleri ve onları görselleştirmeyi, boşluktaki görüntüleri katmanlaştırmayı, kelimeleri ve resimleri tek bir bilgisayar dosyası içinde bütünleştirmeyi başarmıştır."
     },
     {
         "SoruID": 3234902,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Grid (Izgara): Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere verilen isim."
+        "Aciklama": "SAYFA TASARIMINDA YENİ YAKLAŞIMLAR<br>Grid (Izgara): Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere verilen isim."
     },
     {
         "SoruID": 3234903,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Layout: Sayfa tasarımında plan, yerleşim ve mizanpaj anlamına gelen ingilizce sözcük."
+        "Aciklama": "SAYFA TASARIMINDA YENİ YAKLAŞIMLAR<br>Layout: Sayfa tasarımında plan, yerleşim ve mizanpaj anlamına gelen ingilizce sözcük."
     },
     {
         "SoruID": 3234904,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir matbaa terimi olan forma, tek bir tabaka kâğıda basılı on altı sayfalık kırılmış kitap, dergi parçası ya da bir kitabın, bir derginin on altışar sayfalık her bir bölümüne verilen isimdir. Baskı makinesine işler, işin ebadına göre hesaplanarak bulunan ve bitmiş ölçüsüne göre 1 den fazla adette yerleşimi yapılan kağıt tabakasına yerleştirilerek gönderilir. Örnek olarak, A4 ebadında bitmiş ölçüsü olan ve 16 sayfadan oluşan bir işin, 8 sayfası kağıt tabakasının önüne, kalan 8 sayfada arkasına, katlama düzenine göre yerleştirilir ve bu şekilde baskıya girer. Bu tabakaya “forma” denir."
+        "Aciklama": "SAYFA TASARIMINDA YENİ YAKLAŞIMLAR<br>Bir matbaa terimi olan forma, tek bir tabaka kâğıda basılı on altı sayfalık kırılmış kitap, dergi parçası ya da bir kitabın, bir derginin on altışar sayfalık her bir bölümüne verilen isimdir. Baskı makinesine işler, işin ebadına göre hesaplanarak bulunan ve bitmiş ölçüsüne göre 1 den fazla adette yerleşimi yapılan kağıt tabakasına yerleştirilerek gönderilir. Örnek olarak, A4 ebadında bitmiş ölçüsü olan ve 16 sayfadan oluşan bir işin, 8 sayfası kağıt tabakasının önüne, kalan 8 sayfada arkasına, katlama düzenine göre yerleştirilir ve bu şekilde baskıya girer. Bu tabakaya “forma” denir."
     },
     {
         "SoruID": 3234905,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1996’da Microsoft, Adobe ile birlikte yeni bir font dosyası formatı yayınlamıştır. OTF (Open Type Font) adındaki bu yeni format, TTF’nin<br/>bir üst versiyonu gibidir. OTF, tüm dillerin özel karakterlerine ve gliflerine destek vermektedir ve tek bir font dosyası 65 bin karakter içerebilmektedir."
+        "Aciklama": "DİJİTAL YAZININ YÜKSELİŞİ<br>1996’da Microsoft, Adobe ile birlikte yeni bir font dosyası formatı yayınlamıştır. OTF (Open Type Font) adındaki bu yeni format, TTF’nin<br/>bir üst versiyonu gibidir. OTF, tüm dillerin özel karakterlerine ve gliflerine destek vermektedir ve tek bir font dosyası 65 bin karakter içerebilmektedir."
     },
     {
         "SoruID": 3234907,
@@ -177,15 +177,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web ilk Cenevre, İsviçre Nükleer Araştırmalar için Avrupa Teşkilatı fizikçi Tim Berners Lee tarafından 1990 yılında geliştirilmiştir. Berners-Lee “Web”in üç ana yapı taşını geliştirdi: Köprü Metni Aktarım Protokolü (HTTP), Köprü Metni Biçimlendirme Dili (HTML) ve her dosyanın “adres” için bir belirtimi sağlayan Uniform Resource Locator (URL). İnternet sayesinde bilgiye erişim daha kolay ve olanaklı hâle gelmiştir."
+        "Aciklama": "İNTERAKTİF MEDYA<br>Web ilk Cenevre, İsviçre Nükleer Araştırmalar için Avrupa Teşkilatı fizikçi Tim Berners Lee tarafından 1990 yılında geliştirilmiştir. Berners-Lee “Web”in üç ana yapı taşını geliştirdi: Köprü Metni Aktarım Protokolü (HTTP), Köprü Metni Biçimlendirme Dili (HTML) ve her dosyanın “adres” için bir belirtimi sağlayan Uniform Resource Locator (URL). İnternet sayesinde bilgiye erişim daha kolay ve olanaklı hâle gelmiştir."
     },
     {
         "SoruID": 3234908,
         "SoruMetni": "Kullandığı kırmızı ve siyah renkler ve tasarımlarında özgün bir grafik dile sahip olması ile onu önemli tasarımcılardan biri yapan, çalıştığı kişiler arasında Alfred Hitchcock, Otto Preminger, Billy Wilder, Stanley Kubrick ve Martin Scorsese gibi Holywood’un tanınmış film yapımcıları ve yönetmenleri olan kişi aşağıdakilerden hangisidir?",
         "A": "Saul Bass",
-        "B": "David Carson<br/><br/>",
-        "C": "Sumner Stone<br/><br/>",
-        "D": "Robert Slimbach<br/><br/>",
+        "B": "David Carson",
+        "C": "Sumner Stone",
+        "D": "Robert Slimbach",
         "E": "Carol Twombly",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -197,11 +197,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Saul Bass, Amerikalı grafik tasarımcısı ve Oscar sahibi film yapımcısıdır. Kariyerinin 40’lı yıllarında aralarında Alfred Hitchcock, Otto Preminger, Billy Wilder, Stanley Kubrick ve Martin Scorsese gibi Holywood’un tanınmış film yapımcıları ve yönetmenleri ile çalışmıştır. Kullandığı kırmızı ve siyah renkler ve tasarımlarında özgün bir grafik dile sahip olması onu önemli tasarımcılardan biri yapmıştır"
+        "Aciklama": "İNTERAKTİF MEDYA<br>Saul Bass, Amerikalı grafik tasarımcısı ve Oscar sahibi film yapımcısıdır. Kariyerinin 40’lı yıllarında aralarında Alfred Hitchcock, Otto Preminger, Billy Wilder, Stanley Kubrick ve Martin Scorsese gibi Holywood’un tanınmış film yapımcıları ve yönetmenleri ile çalışmıştır. Kullandığı kırmızı ve siyah renkler ve tasarımlarında özgün bir grafik dile sahip olması onu önemli tasarımcılardan biri yapmıştır"
     },
     {
         "SoruID": 3234929,
-        "SoruMetni": "<strong>1980’lerde  gerçekleşen dijital devrimde bireysel grafik tasarımcıların masaüstüne ulaşmada rol oynayan üç şirketten biri aşağıdaki ifadelerden hangisidir?</strong>",
+        "SoruMetni": "<strong>1980’lerde gerçekleşen dijital devrimde bireysel grafik tasarımcıların masaüstüne ulaşmada rol oynayan üç şirketten biri aşağıdaki ifadelerden hangisidir?</strong>",
         "A": "Microsoft.",
         "B": "Macromedia.",
         "C": "Alias.",
@@ -342,7 +342,7 @@
     {
         "SoruID": 3234936,
         "SoruMetni": "<strong>1996 yılında kurulan, grafik tasarım, hareketli ve interaktif medya entegre edilerek tasarlanan film başlık tasarımında öncü olan şirket</strong> <strong>aşağıdaki ifadelerden hangisidir?</strong>",
-        "A": "<span style=\"font-family: 'Times New Roman',serif;\">Imaginary Forces.<br/> </span>",
+        "A": "<span style=\"font-family: 'Times New Roman',serif;\">Imaginary Forces.<br/></span>",
         "B": "<span style=\"font-family: 'Times New Roman',serif;\">Meta Design.</span>",
         "C": "<span style=\"font-family: 'Times New Roman',serif;\">Dessein.</span>",
         "D": "<span style=\"font-family: 'Times New Roman',serif;\">Pentagram.</span>",
@@ -402,10 +402,10 @@
     {
         "SoruID": 3234961,
         "SoruMetni": "Apple Computer, Adobe Systems ve Aldus şirketleri tarafından üretilen yazılım ve donanımlar sayesinde grafik tasarımcılar, masaüstü kişisel bilgisayarlara ulaşılabilir fiyatlarla erişme imkânı bulmuşlardır. <strong>Dijitalleşme ile birlikte teknolojik imkânlara erişim hangi yıllarda başlamıştır?</strong>",
-        "A": "1980 li yıllar<br/><br/>",
-        "B": "1992 li yıllar<br/><br/>",
-        "C": "2000 li yıllar<br/><br/>",
-        "D": "2005 li yıllar<br/><br/>",
+        "A": "1980 li yıllar",
+        "B": "1992 li yıllar",
+        "C": "2000 li yıllar",
+        "D": "2005 li yıllar",
         "E": "2010 lu yıllar",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -417,15 +417,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1980 li yıllar"
+        "Aciklama": "<span>Dijitalleşme ile birlikte teknolojik imkânlara erişim başlarda herkesin ulaşabileceği bir durum olmasa<br/>da 1980’lerde, Apple Computer, Adobe Systems ve Aldus şirketleri tarafından üretilen yazılım ve<br/>donanımlar sayesinde grafik tasarımcılar, masaüstü kişisel bilgisayarlara ulaşılabilir fiyatlarla erişme<br/>imkânı bulmuşlardır. </span><br>1980 li yıllar"
     },
     {
         "SoruID": 3234962,
         "SoruMetni": "Adobe Systems tarafından icat edilen sayfa mizanpajı yazılımının temelini oluşturan, daha çok masaüstü yayıncılığında kullanılan bir sayfa tanımlama ve bir programlama dilidir. Bu programlama dili aşağıdakilerden hangisidir?",
-        "A": "Java<br/><br/>",
-        "B": "Groovy<br/><br/>",
-        "C": "Pascal<br/><br/>",
-        "D": "Visual Basic <br/><br/>",
+        "A": "Java",
+        "B": "Groovy",
+        "C": "Pascal",
+        "D": "Visual Basic",
         "E": "Postscript",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -437,15 +437,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Postscript"
+        "Aciklama": "<span>PostScript daha çok masaüstü yayıncılığında kullanılan <strong>bir sayfa tanımlama dili ve bir programlama</strong> dilidir. </span>"
     },
     {
         "SoruID": 3234963,
         "SoruMetni": "Yazıyı dijital hâle getirmede önemli yeri olan, kendi adını taşıyan yazı karakterini dijitalleştirerek Macintosh için yazı karakterleri üreterek isimlerini duyurmayı başaran tasarımcı aşağıdakilerden hangisidir?",
-        "A": "David Carson<br/><br/>",
-        "B": "Stephan Bundi<br/><br/>",
-        "C": "Luba Lukova <br/><br/>",
-        "D": "Sumner Stone<br/><br/>",
+        "A": "David Carson",
+        "B": "Stephan Bundi",
+        "C": "Luba Lukova",
+        "D": "Sumner Stone",
         "E": "Edel Rodriguez",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -457,15 +457,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sumner Stone"
+        "Aciklama": "<span>Yazıyı dijital hâle getirmede önemli yeri olan <strong>Sumner Stone</strong>, kendi adını taşıyan yazı karakterini dijitalleştirerek ve Susan Kare de Macintosh için yazı karakterleri üreterek isimlerini duyurmayı başarmışlardır.</span>"
     },
     {
         "SoruID": 3234964,
         "SoruMetni": "Bilgisayar ekranında bir fotoğrafı veya resmi görüntülemek için gereken tüm renk bilgilerinin ekranı oluşturan piksel renk bilgilerinin verildiği resim formatlarına verilen genel ifade aşağıdakilerden hangisidir?",
-        "A": "Renk Skalası <br/><br/>",
-        "B": "Bitmap<br/><br/>",
-        "C": "RGB<br/><br/>",
-        "D": "CMYK<br/><br/>",
+        "A": "Renk Skalası",
+        "B": "Bitmap",
+        "C": "RGB",
+        "D": "CMYK",
         "E": "Tayf",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -477,15 +477,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bitmap"
+        "Aciklama": "<strong> <span>Bitmap: F</span></strong><span>otoğraflar ve resimler için sık sık kullanılan bir ifadedir. Bilgisayar ekranında bir fotoğrafı veya resmi görüntülemek için gereken tüm renk bilgilerinin ekranı oluşturan piksel renk bilgilerinin verildiği resim formatlarına verilen genel ifadedir.</span>"
     },
     {
         "SoruID": 3234965,
         "SoruMetni": "1984 yılında yayına başlamıştır. İlk sayısı 7000 kopya basılmıştır. Macintosh bilgisayarları kullanan ilk yayınlardan biri olan ve grafik tasarım topluluğu içinde masaüstü yayıncılığa geçişi önemli oranda etkileyen dergi aşağıdakilerden hangisidir?",
-        "A": "Ray Gun<br/><br/>",
-        "B": "The Face<br/><br/>",
-        "C": "Emigre<br/><br/>",
-        "D": "Eye<br/><br/>",
+        "A": "Ray Gun",
+        "B": "The Face",
+        "C": "Emigre",
+        "D": "Eye",
         "E": "Ed Fella",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -497,15 +497,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Emigre"
+        "Aciklama": "<span>1984 yılında, Rudy Vanderlans, Émigré adlı dergiyi tasarlamaya, düzenlemeye ve yayımlamaya<br/>başlamıştır... İlk sayısını 7000 kopya baskıyla yapan dergi,... <br/></span><br>Emigre"
     },
     {
         "SoruID": 3234966,
         "SoruMetni": "1939’lu yıllarda dijital tasarımının bir diğer öncülerindendir. Yaratılan harf formlarının, düzensiz aralıklarını, eksantrik karakterleri, kişisel gliflerle ve argo görüntülerin estetik potansiyelini incelemiştir. Tasarımlarında yazınsal malzemeleri, büyük kompozisyonlar eşliğinde, sıklıkla bir kenara dayanmış, notlar ve ana mesaja yapılmış eklentilerle bir araya getirmiştir. Bu tasarımcı aşağıdakilerden hangisidir?",
-        "A": "April Greiman<br/><br/>",
-        "B": "Zuzana Licko<br/><br/>",
-        "C": "Susan Kare<br/><br/>",
-        "D": "Sumner Stone<br/><br/>",
+        "A": "April Greiman",
+        "B": "Zuzana Licko",
+        "C": "Susan Kare",
+        "D": "Sumner Stone",
         "E": "Edvar Fella",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -517,15 +517,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Edvar Fella"
+        "Aciklama": "<span>Dijital tasarımının bir diğer öncü ismi olan <strong>Edward Fella</strong> (1939) yaratılan harf formlarının, düzensiz<br/>aralıklarını, eksantrik karakterleri, kişisel gliflerle ve argo görüntülerin estetik potansiyelini incelenmiştir. Tasarımlarında yazınsal malzemeleri, büyük kompozisyonlar eşliğinde, sıklıkla bir kenara dayanmış, notlar ve ana mesaja yapılmış eklentilerle bir araya getirmiştir.</span><br>Edvar Fella"
     },
     {
         "SoruID": 3234967,
         "SoruMetni": "Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere verilen isim aşağıdakilerden hangisidir?",
-        "A": "Grid<br/><br/>",
-        "B": "Gofre<br/><br/>",
-        "C": "Layout<br/><br/>",
-        "D": "Forma<br/><br/>",
+        "A": "Grid",
+        "B": "Gofre",
+        "C": "Layout",
+        "D": "Forma",
         "E": "Kros",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -537,15 +537,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Grid"
+        "Aciklama": "<strong> <span>Grid (Izgara): </span></strong><span>Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere verilen isim.</span>"
     },
     {
         "SoruID": 3234968,
         "SoruMetni": "Tasarımlarında hiyerarşik ve düzenlenmiş sayfa tasarımı yapısı için, kinetik mekânsal çevrede yazı ve görüntü ilişkisi üst üste bindirmeye, solmaya ve bulanıklaşmaya varan görsel özelliklerden faydalanmıştır. Bilinçli olarak sayfalarını, yazıları ve başlıkları bir sayfadan diğerine akıtarak ve sayfanın kenarı etrafından fotoğrafları diğer tarafa sararak sinematik bir izlenim yaratmaya çalışmıştır. Bu tasarımcı aşağıdakilerden hangisidir?",
-        "A": "Edvar Fella<br/><br/>",
-        "B": "Fred Woodward<br/><br/>",
-        "C": "Stephan Bundi<br/><br/>",
-        "D": "David Carson<br/><br/>",
+        "A": "Edvar Fella",
+        "B": "Fred Woodward",
+        "C": "Stephan Bundi",
+        "D": "David Carson",
         "E": "Zuzana Licko",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -557,15 +557,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "David Carson"
+        "Aciklama": "<span>Tasarımlarında hiyerarşik ve düzenlenmiş sayfa tasarımı yapısı için, kinetik mekânsal çevrede yazı ve görüntü ilişkisi üst üste bindirmeye, solmaya ve bulanıklaşmaya varan görsel özelliklerden faydalanmıştır. Carson bilinçli olarak sayfalarını, yazıları ve başlıkları bir sayfadan diğerine akıtarak ve sayfanın kenarı etrafından fotoğrafları diğer tarafa sararak sinematik bir izlenim yaratmaya çalışmıştır.</span><br>David Carson"
     },
     {
         "SoruID": 3234969,
         "SoruMetni": "Aşağıdakilerden hangisi dijital ortamda yazı tasarlamak için üretilen programlardandır?",
-        "A": "Postscript<br/><br/>",
-        "B": "PageMaker<br/><br/>",
-        "C": "Aldus<br/><br/>",
-        "D": "Adobe Photoshop<br/><br/>",
+        "A": "Postscript",
+        "B": "PageMaker",
+        "C": "Aldus",
+        "D": "Adobe Photoshop",
         "E": "Fontographer",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -577,15 +577,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fontographer"
+        "Aciklama": "<span>Masaüstü bilgisayarlar için yazı seçenekleri çoğaldıkça bunları üretmek için de font tasarım yazılımları ortaya çıkmıştır. <strong>Fontographer ve Fontlab</strong> programları dijital ortamda yazı tasarlamak için üretilen programlardır.</span>"
     },
     {
         "SoruID": 3234970,
         "SoruMetni": "Çevresel grafiklerin ilgi alanına insan amacıyla yapılmış her türlü şey girer. Çevresel tasarımın içeriği aşağıdakilerden hangisi <strong>değildir?</strong>",
-        "A": "Bilgilendirme<br/><br/>",
-        "B": "Basım teknolojileri<br/><br/>",
-        "C": "Yönlendirme<br/><br/>",
-        "D": "Sergi alanları<br/><br/>",
+        "A": "Bilgilendirme",
+        "B": "Basım teknolojileri",
+        "C": "Yönlendirme",
+        "D": "Sergi alanları",
         "E": "Açık hava reklamcılığı",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Basım teknolojileri"
+        "Aciklama": "<span>Çevresel grafiklerin ilgi alanına insan amacıyla yapılmış her türlü şey girer. Tek bir bina, otel, stadyum gibi yapılar, şehir ya da kampüs gibi binalar kompleksi, park ya da tarihsel alan gibi planlanmış bir açık alan ya da metro, havaalanı ve tren istasyonu gibi ulaşım ağları her zaman çevresel grafiklere ve işaretlere ihtiyaç duyarlar. </span><span><strong>Çevresel tasarım bilgilendirme ve yönlendirme işaretleri, sergi alanları ve açık hava reklamcılığını içerir.</strong> Bunun yanı sıra çevremizde kurulu yapılardaki tüm tasarım ögelerini de kapsar.</span><br>Basım teknolojileri"
     },
     {
         "SoruID": 3235017,
@@ -621,7 +621,7 @@
     },
     {
         "SoruID": 3235018,
-        "SoruMetni": "\"Adobe System’in  <span style=\"text-decoration: underline;\"><strong> ...  </strong></span> sayfa açıklama dili, yazıcıların çıktı almasını sağlayan metin, resim ve grafik ögelerini ve sayfadaki yerleşimlerini belirlemek üzere yaratılmıştır\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Adobe System’in <span style=\"text-decoration: underline;\"><strong> ... </strong></span> sayfa açıklama dili, yazıcıların çıktı almasını sağlayan metin, resim ve grafik ögelerini ve sayfadaki yerleşimlerini belirlemek üzere yaratılmıştır\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Tasarım",
         "B": "PostScript",
         "C": "Harf formları",
@@ -642,11 +642,11 @@
     {
         "SoruID": 3235019,
         "SoruMetni": "Aşağıdaki tasarımcılardan hangisi yeni teknolojiyi benimseyen ve yaratıcı potansiyelini araştıran ilk öncülerden <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span>",
-        "A": "<br/> <br/> <br/> <br/>April Greiman<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Rudy Vanderlans<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Pierre Bézier<br/><br/><br/><br/>",
+        "A": "<br/>April Greiman",
+        "B": "<br/>Rudy Vanderlans",
+        "C": "<br/>Pierre Bézier",
         "D": "Zuzana Licko",
-        "E": "<br/> <br/> <br/> <br/>Susan Kare<br/><br/><br/><br/>",
+        "E": "<br/>Susan Kare",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
         "Unite": 8,
@@ -657,13 +657,33 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Yeni teknolojiyi benimseyen ve yaratıcı potansiyelini araştıran ilk öncüler arasında, Los Angeleslı tasarımcı <strong>April Greiman</strong> (1948), Emigre dergi tasarımcı / editör <strong>Rudy Vanderlans</strong> (1955), ve yazı karakteri tasarımcısı <strong>Zuzana Licko</strong> (1961) sayılabilir. Bu tasarımcılar özellikle tasarım dünyasına getirdikleri yeni yaklaşımlar ile adlarını duyurmayı başarmışlardır. Bunların dışında yazıyı diji- tal hâle getirmede önemli yeri olan Sumner Stone, kendi adını taşıyan yazı karakterini dijitalleştirerek ve <strong>Susan Kare</strong> de Macintosh için yazı karakterleri üreterek isimlerini duyurmayı başarmışlardır.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Yeni teknolojiyi benimseyen ve yaratıcı potansiyelini araştıran ilk öncüler arasında, Los Angeleslı tasarımcı <strong>April Greiman</strong> (1948), Emigre dergi tasarımcı / editör <strong>Rudy Vanderlans</strong> (1955), ve yazı karakteri tasarımcısı <strong>Zuzana Licko</strong> (1961) sayılabilir. Bu tasarımcılar özellikle tasarım dünyasına getirdikleri yeni yaklaşımlar ile adlarını duyurmayı başarmışlardır. Bunların dışında yazıyı diji- tal hâle getirmede önemli yeri olan Sumner Stone, kendi adını taşıyan yazı karakterini dijitalleştirerek ve <strong>Susan Kare</strong> de Macintosh için yazı karakterleri üreterek isimlerini duyurmayı başarmışlardır."
+    },
+    {
+        "SoruID": 3235020,
+        "SoruMetni": "<br/>Bilgisayar ekranında bir fotoğrafı veya resmi görüntülemek için gereken tüm renk bilgilerinin ekranı oluşturan piksel renk bilgilerinin verildiği resim formatlarına ne ad verilir?",
+        "A": "<br/>Görsel iletişim",
+        "B": "<br/>Çözünürlük",
+        "C": "<br/>Masaüstü yayıncılık",
+        "D": "<br/>Bitmap",
+        "E": "<br/>Tipografi",
+        "DogruCevap": "D",
+        "DersAd": "Görsel İletişim ve Tasarım Tarihi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:21.185727",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<br/><strong>Bitmap:</strong> Bitmap fotoğraflar ve resimler için sık sık kullanılan bir ifadedir. Bilgisayar ekranında bir fotoğrafı veya resmi görüntülemek için gereken tüm renk bilgilerinin ekranı oluşturan piksel renk bilgilerinin verildiği resim formatlarına verilen genel ifadedir."
     },
     {
         "SoruID": 3235021,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere verilen isim aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere verilen isim aşağıdakilerden hangisidir?",
         "A": "Layout",
-        "B": "<br/> <br/> <br/> <br/>Forma<br/><br/><br/><br/>",
+        "B": "<br/>Forma",
         "C": "Renk paleti",
         "D": "Plan",
         "E": "Grid",
@@ -677,15 +697,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><strong>Grid (Izgara):</strong> Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere verilen isim.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><strong>Grid (Izgara):</strong> Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere verilen isim."
     },
     {
         "SoruID": 3235022,
-        "SoruMetni": "<br/> <br/> <br/> <br/>\"Bir matbaa terimi olan  <span style=\"text-decoration: underline;\"><strong>...,</strong></span> tek bir tabaka kâğıda basılı on altı sayfalık kırılmış kitap, dergi parçası ya da bir kitabın, bir derginin on altışar sayfalık her bir bölümüne verilen isimdir\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>\"Bir matbaa terimi olan <span style=\"text-decoration: underline;\"><strong>...,</strong></span> tek bir tabaka kâğıda basılı on altı sayfalık kırılmış kitap, dergi parçası ya da bir kitabın, bir derginin on altışar sayfalık her bir bölümüne verilen isimdir\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Forma",
-        "B": "<br/> <br/> <br/> <br/>Kağıt tabakası<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Sayfa tasarımı<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Yazı biçimi<br/><br/><br/><br/>",
+        "B": "<br/>Kağıt tabakası",
+        "C": "<br/>Sayfa tasarımı",
+        "D": "<br/>Yazı biçimi",
         "E": "Görsel",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -697,16 +717,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Bir matbaa terimi olan <span style=\"text-decoration: underline;\"><strong>forma</strong></span>, tek bir tabaka kâğıda basılı on altı sayfalık kırılmış kitap, dergi parçası ya da bir kitabın, bir derginin on altışar sayfalık her bir bölümüne verilen isimdir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Bir matbaa terimi olan <span style=\"text-decoration: underline;\"><strong>forma</strong></span>, tek bir tabaka kâğıda basılı on altı sayfalık kırılmış kitap, dergi parçası ya da bir kitabın, bir derginin on altışar sayfalık her bir bölümüne verilen isimdir."
     },
     {
         "SoruID": 3235023,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Çağdaş yazı tasarımcısı Carol Twombly’nin adını Roma Döneminin sütunlarına işlenen yazıdan esinlenerek tasarladığı ve miniskül harfleri olmayan yazı karakteri aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Fontlab<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Capitalis<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Çağdaş yazı tasarımcısı Carol Twombly’nin adını Roma Döneminin sütunlarına işlenen yazıdan esinlenerek tasarladığı ve miniskül harfleri olmayan yazı karakteri aşağıdakilerden hangisidir?",
+        "A": "<br/>Fontlab",
+        "B": "<br/>Capitalis",
         "C": "Fontographer",
-        "D": "<br/> <br/> <br/> <br/>ITC Slimbach<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Trajan<br/><br/><br/><br/>",
+        "D": "<br/>ITC Slimbach",
+        "E": "<br/>Trajan",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
         "Unite": 8,
@@ -717,11 +737,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Carol Twombly’nin yazı karakterleri tarihsel yazımdan esinlenilmiş ögeleri içerir. Adını Roma Döneminin sütunlarına işlenen yazıdan esinlenerek tasarladığı ve miniskül harfleri olmayan <strong>Trajan</strong> yazı karakteri buna örnek olarak verilebilir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Carol Twombly’nin yazı karakterleri tarihsel yazımdan esinlenilmiş ögeleri içerir. Adını Roma Döneminin sütunlarına işlenen yazıdan esinlenerek tasarladığı ve miniskül harfleri olmayan <strong>Trajan</strong> yazı karakteri buna örnek olarak verilebilir."
     },
     {
         "SoruID": 3235024,
-        "SoruMetni": "Kariyerinin 40’lı yıllarında aralarında Alfred Hitchcock, Otto Preminger, Billy Wilder, Stanley Kubrick ve Martin Scorsese gibi Holywood’un tanınmış film yapımcıları ve yönetmenleri ile çalışmış, kullandığı kırmızı ve siyah renkler ve tasarımlarında özgün bir grafik dile sahip olan çok önemli Amerikalı  tasarımcı aşağıdakilerden hangisidir?",
+        "SoruMetni": "Kariyerinin 40’lı yıllarında aralarında Alfred Hitchcock, Otto Preminger, Billy Wilder, Stanley Kubrick ve Martin Scorsese gibi Holywood’un tanınmış film yapımcıları ve yönetmenleri ile çalışmış, kullandığı kırmızı ve siyah renkler ve tasarımlarında özgün bir grafik dile sahip olan çok önemli Amerikalı tasarımcı aşağıdakilerden hangisidir?",
         "A": "Danny Yount",
         "B": "Kyle Cooper",
         "C": "Saul Bass",
@@ -741,7 +761,7 @@
     },
     {
         "SoruID": 3235025,
-        "SoruMetni": "<br/> <br/> <br/> <br/>\"<span style=\"text-decoration: underline;\"><strong>...</strong></span>  tasarım bilgilendirme ve yönlendirme işaretleri, sergi alanları ve açık hava reklamcılığını içerir. Bunun yanı sıra çevremizde kurulu yapılardaki tüm tasarım ögelerini de kapsar. Her ne kadar basılı veya dijital tasarımla aynı becerileri gerektirse de <span style=\"text-decoration: underline;\"><strong>...</strong></span> tasarım farklı alan ve boyutlarda çalışmayı gerektirir ve üzerine yoğunlaştığı başka sorunlar vardır\" anlatımında yer alan boşluklara gelmesi en uygun seçenek aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>\"<span style=\"text-decoration: underline;\"><strong>...</strong></span> tasarım bilgilendirme ve yönlendirme işaretleri, sergi alanları ve açık hava reklamcılığını içerir. Bunun yanı sıra çevremizde kurulu yapılardaki tüm tasarım ögelerini de kapsar. Her ne kadar basılı veya dijital tasarımla aynı becerileri gerektirse de <span style=\"text-decoration: underline;\"><strong>...</strong></span> tasarım farklı alan ve boyutlarda çalışmayı gerektirir ve üzerine yoğunlaştığı başka sorunlar vardır\" anlatımında yer alan boşluklara gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Dijital",
         "B": "Endüstriyel",
         "C": "Teknolojik",
@@ -757,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><strong>Çevresel</strong> tasarım bilgilendirme ve yönlendirme işaretleri, sergi alanları ve açık hava reklamcılığını içerir. Bunun yanı sıra çevremizde kurulu yapılardaki tüm tasarım ögelerini de kapsar. Her ne kadar basılı veya dijital tasarımla aynı becerileri gerektirse de <strong>çevresel</strong> tasarım farklı alan ve boyutlarda çalışmayı gerektirir ve üzerine yoğunlaştığı başka sorunlar vardır.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><strong>Çevresel</strong> tasarım bilgilendirme ve yönlendirme işaretleri, sergi alanları ve açık hava reklamcılığını içerir. Bunun yanı sıra çevremizde kurulu yapılardaki tüm tasarım ögelerini de kapsar. Her ne kadar basılı veya dijital tasarımla aynı becerileri gerektirse de <strong>çevresel</strong> tasarım farklı alan ve boyutlarda çalışmayı gerektirir ve üzerine yoğunlaştığı başka sorunlar vardır."
     },
     {
         "SoruID": 3235026,

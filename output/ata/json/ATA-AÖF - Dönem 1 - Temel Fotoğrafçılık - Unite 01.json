@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 109251,
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 109520,
@@ -54,11 +56,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 109625,
-        "SoruMetni": "I. Fotoğrafların seri üretimle yaygınlaşması<br/> <br/>II. Toplumun görselleşmesi<br> <br/>III. Ekonomik olması<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri görselliğin bir kültür hâline gelmesine zemin hazırlamıştır?</strong></br></br>",
+        "SoruMetni": "I. Fotoğrafların seri üretimle yaygınlaşması<br/>II. Toplumun görselleşmesi<br/>III. Ekonomik olması<br/><strong>Yukarıdakilerden hangisi ya da hangileri görselliğin bir kültür hâline gelmesine zemin hazırlamıştır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -73,11 +76,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 109686,
-        "SoruMetni": "I. Fotoğrafın endüstriyel bir boyut kazanması<br/> <br/>II. Fotoğrafın ilk yıllarında kendini gösteren resimsel fotoğraf eğilimi<br> <br/>III. Bir statü aracı olarak kullanılması<br> <br/>IV. Birinci Dünya Savaşı sonrası yaşanan sorunlarda insanların hayatın acımasız yönünü gündeme getirme çabaları<br> <br/><strong>Yukarıdakilerden hangileri b</strong><strong>elgesel fotoğrafın ortaya çıkmasında </strong><strong>etkili olmuştur?</strong></br></br></br>",
+        "SoruMetni": "I. Fotoğrafın endüstriyel bir boyut kazanması<br/>II. Fotoğrafın ilk yıllarında kendini gösteren resimsel fotoğraf eğilimi<br/>III. Bir statü aracı olarak kullanılması<br/>IV. Birinci Dünya Savaşı sonrası yaşanan sorunlarda insanların hayatın acımasız yönünü gündeme getirme çabaları<br/><strong>Yukarıdakilerden hangileri b</strong><strong>elgesel fotoğrafın ortaya çıkmasında </strong><strong>etkili olmuştur?</strong></br></br></br>",
         "A": "I ve II",
         "B": "I ve III",
         "C": "I, II ve III",
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 117879,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 117887,
@@ -130,11 +136,12 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 117890,
-        "SoruMetni": "Fotoğraf, özgürlüklerin kazanılması mücadelesinde ön ayak olmuş, modern çağı sembolize eden tipik bir iletişim aracı hâline gelmiştir.<br/> <br/><strong>Yukarıdaki cümlede fotoğrafın hangi işlevi vurgulanmaktadır?</strong>",
+        "SoruMetni": "Fotoğraf, özgürlüklerin kazanılması mücadelesinde ön ayak olmuş, modern çağı sembolize eden tipik bir iletişim aracı hâline gelmiştir.<br/><strong>Yukarıdaki cümlede fotoğrafın hangi işlevi vurgulanmaktadır?</strong>",
         "A": "Duygulandırıcı işlevi",
         "B": "Tanıtıcı işlevi",
         "C": "Demokratik işlevi",
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 117897,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 117901,
@@ -187,11 +196,12 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 117908,
-        "SoruMetni": "<strong>Fotoğrafçılıkta belirlenmiş veya kendi belirlediği ölçülere göre neyi, ne zaman, nasıl, ne kadar çekeceğine karar vererek fotoğrafı duygu, düşünce veya fikirlerini insanlara aktarmada bir iletişim yöntemi olarak kullanılan fotoğraf türü aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Fotoğrafçılıkta belirlenmiş veya kendi belirlediği ölçülere göre neyi, ne zaman, nasıl, ne kadar çekeceğine karar vererek fotoğrafı duygu, düşünce veya fikirlerini insanlara aktarmada bir iletişim yöntemi olarak kullanılan fotoğraf türü aşağıdakilerden hangisidir?</strong>",
         "A": "Spor fotoğrafı",
         "B": "Haber fotoğrafı",
         "C": "Reklam fotoğrafı",
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 171442,
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 171450,
@@ -244,7 +256,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 327276,
@@ -263,7 +276,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 328978,
@@ -282,11 +296,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 331039,
-        "SoruMetni": "Görsel iletişim, …………. resimleriyle başlayan, sembolik ifade araçları veya işaretleriyle gelişen ve ……………..; etkisiyle ilerleyen bir süreçte gelişme göstermiştir.<br/> <br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Görsel iletişim, …………. resimleriyle başlayan, sembolik ifade araçları veya işaretleriyle gelişen ve ……………..; etkisiyle ilerleyen bir süreçte gelişme göstermiştir.<br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "mağara - teknoloji",
         "B": "sanat - kültür",
         "C": "manzara - sanat",
@@ -301,11 +316,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 331047,
-        "SoruMetni": "Fotoğrafın yoğun şekilde kullanıldığı yerdir. Günümüzde ticari amaçlı olarak kullanılır ve tüketicilere yönelik yapılır. Fazla sayıda hedef kitleye ulaşmayı sağlar. Hem görsel etkiyi artırmak hem de zihinde bir görüntü oluşturmak için etkili bir yöntem olmayı hedefler.<br/> <br/><strong>Paragrafta bazı özellikleri verilen fotoğraf türü aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "Fotoğrafın yoğun şekilde kullanıldığı yerdir. Günümüzde ticari amaçlı olarak kullanılır ve tüketicilere yönelik yapılır. Fazla sayıda hedef kitleye ulaşmayı sağlar. Hem görsel etkiyi artırmak hem de zihinde bir görüntü oluşturmak için etkili bir yöntem olmayı hedefler.<br/><strong>Paragrafta bazı özellikleri verilen fotoğraf türü aşağıdakilerden hangisidir?</strong>",
         "A": "Figür fotoğrafı",
         "B": "Reklam fotoğrafı",
         "C": "Soyut fotoğraf",
@@ -320,11 +336,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 331054,
-        "SoruMetni": "Fotoğraf, özgürlüklerin kazanılması mücadelesinde ön ayak olmuş, modern çağı sembolize eden tipik bir iletişim aracı hâline gelmiştir.<br/> <br/><strong>Cümledeki ifade fotoğrafın hangi işlevini vurgulamaktadır?</strong>",
+        "SoruMetni": "Fotoğraf, özgürlüklerin kazanılması mücadelesinde ön ayak olmuş, modern çağı sembolize eden tipik bir iletişim aracı hâline gelmiştir.<br/><strong>Cümledeki ifade fotoğrafın hangi işlevini vurgulamaktadır?</strong>",
         "A": "Eğitici işlevi",
         "B": "Duygusal işlevi",
         "C": "Eğlendirici işlevi",
@@ -339,7 +356,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 363592,
@@ -358,7 +376,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 364701,
@@ -377,7 +396,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 364702,
@@ -396,11 +416,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 366217,
-        "SoruMetni": "Papirüs ve duvar üzerine yapılan ilk çizimler hikâyeleri iletme amacı taşırken; Mısır’da kaçan esirleri bulup getirene ödül verileceğini duyuran papirüsler, esirlerin fiyat ve özelliklerinin kazındığı duvarlar ..................  olarak kabul edilirler.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Papirüs ve duvar üzerine yapılan ilk çizimler hikâyeleri iletme amacı taşırken; Mısır’da kaçan esirleri bulup getirene ödül verileceğini duyuran papirüsler, esirlerin fiyat ve özelliklerinin kazındığı duvarlar .................. olarak kabul edilirler.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "ilk çizim örnekleri",
         "B": "ilk resim örnekleri",
         "C": "ilk haber örnekleri",
@@ -415,6 +436,7 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     }
 ]

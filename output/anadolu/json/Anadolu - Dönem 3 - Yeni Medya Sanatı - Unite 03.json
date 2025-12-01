@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 3641350,
-        "SoruMetni": "<ul> <li>Verinin saklanma şekli</li> <li>Verinin iletişim şekli</li> <li>İletişimin yapıldığı ortam </li> </ul> Yukarıda verilen bilgiler aşağıdaki kavramlardan hangisiyle ilgilidir?",
+        "SoruMetni": "<ul> <li>Verinin saklanma şekli</li> <li>Verinin iletişim şekli</li> <li>İletişimin yapıldığı ortam </li> </ul> Yukarıda verilen bilgiler aşağıdaki kavramlardan hangisiyle ilgilidir?",
         "A": "Analog ve dijital",
         "B": "Simülasyon ve simulakr",
         "C": "Siber uzay ve siber kültür",
@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3641352,
-        "SoruMetni": "I. Simülasyonlar sadece bilgisayarlar tarafından üretilebilirler.<br/><br/>II. Simülasyonlar çok çeşitli sektörde kullanılabilir.<br/><br/>III. Bir simülasyonun üç temel özelliği vardır. <br/><br/>Yukarıdaki bilgilere göre aşağıdaki seçeneklerden hangisi uygundur?",
+        "SoruMetni": "I. Simülasyonlar sadece bilgisayarlar tarafından üretilebilirler.<br/>II. Simülasyonlar çok çeşitli sektörde kullanılabilir.<br/>III. Bir simülasyonun üç temel özelliği vardır. <br/>Yukarıdaki bilgilere göre aşağıdaki seçeneklerden hangisi uygundur?",
         "A": "I. Yanlış",
         "B": "II. Yanlış",
         "C": "III. Yanlış",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3641354,
-        "SoruMetni": "Aşağıdakilerden hangisi sanal gerçekliğin elemanlarından <strong>değildir? </strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi sanal gerçekliğin elemanlarından <strong>değildir? </strong>",
         "A": "Üç boyutlu harekete izin",
         "B": "Gömülme (immersion)",
         "C": "Sanal dünya",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3641355,
-        "SoruMetni": "I. Deneyimleyenin hareket etmesiyle perspektif, konuma uygun olarak yeniden düzenlenir.<br/> II. İmgeler hareketli olabilir. <br/> III. Gözlük gibi cihazlar kullanılır.<br/> Yukarıda verilen bilgiler aşağıdaki kavram çiftlerinin hangisinin özellikleridir?",
+        "SoruMetni": "I. Deneyimleyenin hareket etmesiyle perspektif, konuma uygun olarak yeniden düzenlenir.<br/>II. İmgeler hareketli olabilir. <br/>III. Gözlük gibi cihazlar kullanılır.<br/>Yukarıda verilen bilgiler aşağıdaki kavram çiftlerinin hangisinin özellikleridir?",
         "A": "Artırılmış ve sanal gerçeklik",
         "B": "Görsel ve doğrusal gerçeklik",
         "C": "Gelişen perspektif ve Trompe l'oeil",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3641357,
-        "SoruMetni": "John Henry Pepper tarafından geliştirilmiş olan \"Pepper'ın Hayaleti\" adlı  tekniğin ilk kez uygulandığı sanat dalı aşağıdakilerden hangisidir?",
+        "SoruMetni": "John Henry Pepper tarafından geliştirilmiş olan \"Pepper'ın Hayaleti\" adlı tekniğin ilk kez uygulandığı sanat dalı aşağıdakilerden hangisidir?",
         "A": "Tiyatro",
         "B": "Sinema",
         "C": "Heykel",
@@ -203,7 +203,7 @@
         "SoruID": 3641410,
         "SoruMetni": "“Sanallık gerçektir, fakat edimsel değildir” ifadesi kime aittir?",
         "A": "Gilles Deleuze",
-        "B": "Neal Stephenson<br/><br/><br/>",
+        "B": "Neal Stephenson",
         "C": "Nathan S. Kline",
         "D": "Donna Haraway",
         "E": "William Gibson",
@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 3641411,
-        "SoruMetni": "Aşağıdaki ifadelerden hangisi veya hangileri doğrudur?<br/> I-Analog ortamların temelinde, iletişim biçiminin fiziksel özellikleri ile birlikte depolanması ve karşı tarafa iletilmesi yatmaktadır.<br/> II-Analog ortamlarda veri kesintisiz olarak depolanır<br/> III- Analog bir ortam olan plaklar sesi üzerlerindeki çizgilerin arasında fiziksel olarak depolamaktadır.<br/> IV-Analog olanlarda manyetik dalgalar bantların üzerinde fiziksel olarak iz bırakır.",
+        "SoruMetni": "Aşağıdaki ifadelerden hangisi veya hangileri doğrudur?<br/>I-Analog ortamların temelinde, iletişim biçiminin fiziksel özellikleri ile birlikte depolanması ve karşı tarafa iletilmesi yatmaktadır.<br/>II-Analog ortamlarda veri kesintisiz olarak depolanır<br/>III- Analog bir ortam olan plaklar sesi üzerlerindeki çizgilerin arasında fiziksel olarak depolamaktadır.<br/>IV-Analog olanlarda manyetik dalgalar bantların üzerinde fiziksel olarak iz bırakır.",
         "A": "I-II-III-IV",
         "B": "I-II",
         "C": "II-IV",
@@ -237,13 +237,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Analog ortamların temelinde, iletişim biçiminin (ses, yazı, fotoğraf, resim) fiziksel özellikleri ile birlikte depolanması ve karşı tarafa iletilmesi yatmaktadır. Analog ortamlarda veri kesintisiz olarak depolanırken dijital ortamlarda kesintili olarak depolanmaktadır. Analog bir ortam olan plaklar sesi üzerlerindeki çizgilerin arasında fiziksel olarak depolamaktadır. Analog olanlarda manyetik dalgalar bantların üzerinde fiziksel olarak iz bırakırken dijital kasetlere aktarılan veriler ikili kod sistemi ile aktarılmaktadır."
+        "Aciklama": "Analog ortamların temelinde, iletişim biçiminin (ses, yazı, fotoğraf, resim) fiziksel özellikleri ile birlikte depolanması ve karşı tarafa iletilmesi yatmaktadır. Analog ortamlarda veri kesintisiz olarak depolanırken dijital ortamlarda kesintili olarak depolanmaktadır. Analog bir ortam olan plaklar sesi üzerlerindeki çizgilerin arasında fiziksel olarak depolamaktadır. Analog olanlarda manyetik dalgalar bantların üzerinde fiziksel olarak iz bırakırken dijital kasetlere aktarılan veriler ikili kod sistemi ile aktarılmaktadır."
     },
     {
         "SoruID": 3641412,
-        "SoruMetni": "Simülasyon kavramı ile ilgili kitaplarında imgeler evreni ve sistem üzerinde eleştirel gözlemleri bulunan ve bir şeyi simüle etmenin aslında “mış” gibi yapmak olmadığını öne süren  bilim insanı kimdir?<br/><br/>",
+        "SoruMetni": "Simülasyon kavramı ile ilgili kitaplarında imgeler evreni ve sistem üzerinde eleştirel gözlemleri bulunan ve bir şeyi simüle etmenin aslında “mış” gibi yapmak olmadığını öne süren bilim insanı kimdir?",
         "A": "Baudrillard",
-        "B": "Stephenson<br/>",
+        "B": "Stephenson",
         "C": "Gibson",
         "D": "Haraway",
         "E": "Bethke",
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 3641414,
-        "SoruMetni": "Aşağıdakilerden hangisi veya hangileri Ronald Azuma’ya  göre artırılmış gerçekliğin temel elemanlarındandır?<br/> I-Gerçek ve sanal dünyaları birleştirmelidir.<br/>II-Gerçek zamanlı olarak etkileşimlidir.<br/>III-Üç boyutlu harekete izin vermelidir.",
+        "SoruMetni": "Aşağıdakilerden hangisi veya hangileri Ronald Azuma’ya göre artırılmış gerçekliğin temel elemanlarındandır?<br/>I-Gerçek ve sanal dünyaları birleştirmelidir.<br/>II-Gerçek zamanlı olarak etkileşimlidir.<br/>III-Üç boyutlu harekete izin vermelidir.",
         "A": "I-II-III",
         "B": "I-II",
         "C": "I-III",
@@ -343,7 +343,7 @@
         "SoruID": 3641417,
         "SoruMetni": "1974 yılımda Steve Mann ortaya koyduğu kavram hangisidir?",
         "A": "Giyilebilir artırılmış gerçeklik kavramı",
-        "B": "Genişletilmiş gerçeklik<br/><br/><br/>",
+        "B": "Genişletilmiş gerçeklik",
         "C": "Sanal gerçeklik",
         "D": "Yapay gerçeklik",
         "E": "Fiziksel gerçeklik",
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 3641418,
-        "SoruMetni": "\"Kullanıcıların sayısal ortamda temsil edildikleri suretleridir.\" ifadesi aşağıdakilerden hangisi için  söylenir?",
+        "SoruMetni": "\"Kullanıcıların sayısal ortamda temsil edildikleri suretleridir.\" ifadesi aşağıdakilerden hangisi için söylenir?",
         "A": "Avatar",
         "B": "Bedenlenme",
         "C": "Mevcudiyet",
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mevcudiyet: Sanal ortamı deneyimleyenlerin konumunun farklı bir yerde olmasına rağmen orada oldukları duygusunun yaşanmasına mevcudiyet veya tele-mevcudiyet denmektedir."
+        "Aciklama": "Mevcudiyet: Sanal ortamı deneyimleyenlerin konumunun farklı bir yerde olmasına rağmen orada oldukları duygusunun yaşanmasına mevcudiyet veya tele-mevcudiyet denmektedir."
     },
     {
         "SoruID": 3641488,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hipergerçek"
+        "Aciklama": "Bir köken ya da bir gerçeklikten yoksun gerçeğin modeller aracılığıyla türetilmesine hipergerçek yani simülasyon denilmektedir."
     },
     {
         "SoruID": 3641532,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karma gerçeklik"
+        "Aciklama": "Sherman ve Craig’e göre sanal gerçekliğin 4 temel elemanı aşağıdaki gibidir:<br/>• Sanal dünya<br/>• Gömülme (Immersion)<br/>• Kullanıcının girdilerine göre duyusal geribildirim<br/>• Etkileşim<br>Karma gerçeklik"
     },
     {
         "SoruID": 3641533,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bedenlenme"
+        "Aciklama": "Bedenlenme: Sayısal ortam ile etkileşime giren kullanıcıların, ortamla fiziksel olarak etkileşime girdikleri algısının yaratılmasına denmektedir."
     },
     {
         "SoruID": 3641534,
@@ -477,11 +477,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Marcel Duchamp"
+        "Aciklama": "Duchamp’ın “Rotary Glass Plates (1920)” isimli eseri de çalıştırıldığında sanal özellikler taşımaktadır.<br>Marcel Duchamp"
     },
     {
         "SoruID": 3641535,
-        "SoruMetni": "Siber kültür ve siberpunk gibi kavramların kapısını aralayan Neuromencer romanı kim tarafından yazılmılştır?",
+        "SoruMetni": "Siber kültür ve siberpunk gibi kavramların kapısını aralayan Neuromencer romanı kim tarafından yazılmılştır?",
         "A": "Douglas Klahr",
         "B": "L. Frank Baum",
         "C": "Norbert Wiener",
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "William Gibson"
+        "Aciklama": "İlk kavram olan siber uzay kavramı Amerikalı yazar William Gibson tarafından 1984 yılında ortaya atılmıştır. Ünlü bilimkurgu romanı olan Neuromencer kitabında yazar siber uzayı şu cümleler ile açıklamıştır: “Siber uzay. Her ulustan milyarlarca yasal kullanıcının, matematiksel kavramları öğrenen çocukların her gün yaşadığı bilinç ve duyguyla ilerleyen istem dışı halüsinasyon… İnsan sistemindeki her bilgisayarın kayıtlarından yansıyan verilerin grafiksel sunumu. Kavranamayacak bir karmaşa. Zihnin uzaysızlığında, ışık çizgileri, öbekler ve takım yıldızlar şeklinde düzenlenen veriler”"
     },
     {
         "SoruID": 3641536,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanal gerçeklik"
+        "Aciklama": "Bilgisayar tarafından oluşturulmuş, simüle edilmiş sayısal evrenin gerçek bir dünya gibi deneyimlenmesi amacıyla yapılan ortamlara sanal gerçeklik denmektedir."
     },
     {
         "SoruID": 3641537,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Avatar"
+        "Aciklama": "Avatar: Kullanıcıların sayısal ortamda temsil edildikleri suretleridir."
     },
     {
         "SoruID": 3641547,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "The Matrix"
+        "Aciklama": "Yeni medya sanatı alanında artırılmış gerçeklik, donanım ve yazılımlar geliştirilirken adım adım ilerlemiştir. Öncü sayılabilecek çalışmaların arasında “Augmented Groove (2000)”, “LifeClipper (2004)”, “Red Libre Red Visible (2004)”, “Debbusy 3.0 Bale Gösterisi”, “E-Tree (2008)” gibi çalışmalar bulunmaktadır (Portalés, 2018).<br>The Matrix"
     },
     {
         "SoruID": 3641548,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Benjamin"
+        "Aciklama": "Dijital kameralar, dijital kurgu ortamı, bilgisayarlarla üretilmiş grafiklerin yanı sıra yapay zekayı da artık elemanları arasına katmaktadır. Yönetmen Oscar Sharp ve yapay zekâ uzmanı Ross Goodwin’in ortak çalışmalarında kullandığı “Benjamin” isimli yazılım buna bir örnektir."
     },
     {
         "SoruID": 3641549,
@@ -597,11 +597,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mp3"
+        "Aciklama": "Mp3’ler sesi paketler halinde dijitale çevirmekte ve saklamaktadır."
     },
     {
         "SoruID": 3641550,
-        "SoruMetni": "Aşağıdakilerden hangisi kesintili veri parçacıklarından <span style=\"text-decoration: underline;\"><strong>oluşmamaktadır</strong></span>?",
+        "SoruMetni": "Aşağıdakilerden hangisi kesintili veri parçacıklarından <span style=\"text-decoration: underline;\"><strong>oluşmamaktadır</strong></span>?",
         "A": "mp3",
         "B": "WAV",
         "C": "Plak",
@@ -641,7 +641,7 @@
     },
     {
         "SoruID": 3641552,
-        "SoruMetni": "Aşağıdakilerden hangisi bilgisayar ile yaratılan bir simülasyon ortamı <span style=\"text-decoration: underline;\"><strong>değildir</strong></span>?",
+        "SoruMetni": "Aşağıdakilerden hangisi bilgisayar ile yaratılan bir simülasyon ortamı <span style=\"text-decoration: underline;\"><strong>değildir</strong></span>?",
         "A": "Simcity",
         "B": "Google Earth",
         "C": "Second Life",
@@ -681,7 +681,7 @@
     },
     {
         "SoruID": 3641554,
-        "SoruMetni": "Amerikalı yazar William Gibson tarafından 1984 yılında ortaya atılan siber uzay kavramı, yazarın <em>\"Siber uzay. Her ulustan milyarlarca yasal kullanıcının, matematiksel kavramları öğrenen çocukların her gün yaşadığı bilinç ve duyguyla ilerleyen istem dışı halüsinasyon...\"</em> cümleleriyle açıkladığı roman aşağıdakilerden hangisidir?",
+        "SoruMetni": "Amerikalı yazar William Gibson tarafından 1984 yılında ortaya atılan siber uzay kavramı, yazarın <em>\"Siber uzay. Her ulustan milyarlarca yasal kullanıcının, matematiksel kavramları öğrenen çocukların her gün yaşadığı bilinç ve duyguyla ilerleyen istem dışı halüsinasyon...\"</em> cümleleriyle açıkladığı roman aşağıdakilerden hangisidir?",
         "A": "The Peripheral",
         "B": "Neuromancer",
         "C": "Count Zero",
@@ -697,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlk kavram olan siber uzay kavramı Amerikalı yazar William Gibson tarafından 1984 yılında ortaya atılmıştır. Ünlü bilimkurgu romanı olan Neuromencer kitabında yazar siber uzayı şu cümleler ile açıklamıştır: <em>\"Siber uzay. Her ulusun milyarlarca yasal kullanıcının, matematiksel kavramları öğrenen çocukların her gün yaşadığı bilinç ve duyguyla ilerleyen istem dışı halüsinasyon...\" </em>Doğru cevap B seçeneğidir."
+        "Aciklama": "İlk kavram olan siber uzay kavramı Amerikalı yazar William Gibson tarafından 1984 yılında ortaya atılmıştır. Ünlü bilimkurgu romanı olan Neuromencer kitabında yazar siber uzayı şu cümleler ile açıklamıştır: <em>\"Siber uzay. Her ulusun milyarlarca yasal kullanıcının, matematiksel kavramları öğrenen çocukların her gün yaşadığı bilinç ve duyguyla ilerleyen istem dışı halüsinasyon...\" </em>Doğru cevap B seçeneğidir."
     },
     {
         "SoruID": 3641555,
@@ -741,7 +741,7 @@
     },
     {
         "SoruID": 3641557,
-        "SoruMetni": "Aşağıdakilerden hangisi Sherman &amp; Craig'e göre sanal gerçekliğin temel elemanı <span style=\"text-decoration: underline;\"><strong>değildir</strong></span>?",
+        "SoruMetni": "Aşağıdakilerden hangisi Sherman &amp; Craig'e göre sanal gerçekliğin temel elemanı <span style=\"text-decoration: underline;\"><strong>değildir</strong></span>?",
         "A": "Soyutlanma",
         "B": "Sanal Dünya",
         "C": "Gömülme",
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgisayar tarafından oluşturulmuş simüle edilmiş sayısal evrenin gerçek bir dünya gibi deneyimlenmesi amacıyla yapılan ortamlara sanal gerçeklik denmektedir. Sherman &amp; Craig'e göre (2002, s.6) sanal gerçekliğin 4 temel elemanı şu şekildedir:<br/> Sanal Dünya<br/> Gömülme<br/> Kullanıcın girdilerine göre duyusal geribildirim <br/> Etkileşim<br/> Sorudaki A seçeneği \"Soyutlama\" sanal gerçekliğin bir elemanı değildir."
+        "Aciklama": "Bilgisayar tarafından oluşturulmuş simüle edilmiş sayısal evrenin gerçek bir dünya gibi deneyimlenmesi amacıyla yapılan ortamlara sanal gerçeklik denmektedir. Sherman &amp; Craig'e göre (2002, s.6) sanal gerçekliğin 4 temel elemanı şu şekildedir:<br/>Sanal Dünya<br/>Gömülme<br/>Kullanıcın girdilerine göre duyusal geribildirim <br/>Etkileşim<br/>Sorudaki A seçeneği \"Soyutlama\" sanal gerçekliğin bir elemanı değildir."
     },
     {
         "SoruID": 3641558,
@@ -861,7 +861,7 @@
     },
     {
         "SoruID": 3641563,
-        "SoruMetni": "Aşağıdakilerden hangisi Manifest.AR grubu altında toplanan sanatçılardan birisi <span style=\"text-decoration: underline;\"><strong>değildir</strong></span>?",
+        "SoruMetni": "Aşağıdakilerden hangisi Manifest.AR grubu altında toplanan sanatçılardan birisi <span style=\"text-decoration: underline;\"><strong>değildir</strong></span>?",
         "A": "Mark Skwarek",
         "B": "John Craig Freeman",
         "C": "Clara Boj",

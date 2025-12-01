@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İbrahim Müteferrika matbaasından çıkan ilk kitap Lügati-Vankuli (Vankulu Lügatı) olmuştur. İki ciltten oluşan Vunkulu Lügatı’nın birinci cildi 31 Ocak 1729’da çıkmıştır."
+        "Aciklama": "<em>Vankulu Lügati</em>, Cevherî’nin kaleme aldığı ve <em>es-Sıhâh</em> adlı meşhur Arapça sözlüğün Vankulu Mehmed Efendi (ö. 1000/1592) tarafından yapılmış tercümesidir. Eser 28 bâbdan, her bâb ise 28 fasıldan oluşmaktadır. Eseri değerli kılan yönlerden birisi, bir Osmanlı müellifinin kaleminden çıkıp matbaada basılan ilk kitap olmasıdır.<br>İbrahim Müteferrika matbaasından çıkan ilk kitap Lügati-Vankuli (Vankulu Lügatı) olmuştur. İki ciltten oluşan Vunkulu Lügatı’nın birinci cildi 31 Ocak 1729’da çıkmıştır."
     },
     {
         "SoruID": 3764395,
@@ -160,6 +160,26 @@
         "Aciklama": "Baskı kalitesinin çok yüksek olması ve baskılar arasında fark bulunmaması nedeniyle kağıt paraların basımında da tifdruk baskı tekniği kullanılmaktadır."
     },
     {
+        "SoruID": 3764403,
+        "SoruMetni": "Benny Landa’nın 1993 yılında piyasaya sürdüğü dünyanın <u>ilk</u> dijital renkli yazıcısının adı nedir?",
+        "A": "Hewlett Packard",
+        "B": "Indigo",
+        "C": "Electroink",
+        "D": "Xerox",
+        "E": "Canon",
+        "DogruCevap": "B",
+        "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+        "Unite": 1,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:36.898000",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Benny Landa, 1993 yılında Indigo olarak da adlandırılan dünyanın ilk dijital renkli yazıcısını piyasaya sürer."
+    },
+    {
         "SoruID": 3764404,
         "SoruMetni": "Tonerin kağıt tabanına aktarıldığı ve ardından yerinde kaynaştırıldığı baskı tekniği aşağıdakilerden hangisidir?",
         "A": "Inkjet",
@@ -197,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Diamond Sutra(Elmas Sutra)"
+        "Aciklama": "Çin’in bu teknolojisi Japonya’ya doğru ilerlemiş ve MS 868’de altı sayfalık metin ve gravürlerden<br/>oluşan bilinen <strong>en eski ilk basılı kitap Diamond Sutra</strong> ortaya çıkmıştır.<br>Diamond Sutra(Elmas Sutra)"
     },
     {
         "SoruID": 3764506,
@@ -217,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gutenberg, çalışmaları sonucunda 1450 yılında matbaayı icat etmiş, 1455 yılında ise matbaasından ilk basılı kitap olarak İncil’i çıkartmıştır."
+        "Aciklama": "Gutenberg, 1455 yılında ise matbaasından <strong>ilk basılı kitap olarak İncil’</strong>i çıkarttı.<br>Gutenberg, çalışmaları sonucunda 1450 yılında matbaayı icat etmiş, 1455 yılında ise matbaasından ilk basılı kitap olarak İncil’i çıkartmıştır."
     },
     {
         "SoruID": 3764507,
@@ -237,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Almanya"
+        "Aciklama": "Gutenberg’den sonra matbaacılık Avrupa’da hızla yayıldı. Matbaacılığın <strong>Almanya’da yayılması daha </strong><strong>hızlı</strong> oldu; 1461’de Bamberg’de, 1470’te önce Köln, Augsburg ve Nuremberg’de ardından Ulm, Zübeck, Leipzig’de basımevleri açıldı."
     },
     {
         "SoruID": 3764508,
@@ -257,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilimsel devrimler yavaşladı."
+        "Aciklama": "<strong>Bilimsel devrimler hız kazandı:</strong> Bilimsel yöntemin geliştiricilerinden olan İngiliz filozof Francis<br/>Bacon, 1620’de dünyayı sonsuza dek değiştiren üç icattan bahseder: Barut, deniz pusulası ve matbaa. Matbaadan önce bilimsel verilerin elle yazılması pahalı ve elde edilmesi zor bir süreçti. Bunun yanı sıra insan hatasına da yatkındı. Bilimsel bulguları daha geniş kitlelere yayabilen matbaa sayesinde bilim, 16. ve 17. yüzyıllarda büyük atılımlar yaşadı. Örneğin, gökbilimci Copernicus, 1500’lerin başında güneş merkezli galaksi modelini sunarken yalnızca kendi gözlemlerinden değil basılı olan astronomik gezegen hareketleri tablolarından da yararlandı. Kitapların yayılma hızının yanı sıra doğru bir şekilde kopyalanabilmeleri etkili oldu. Formüllerin ve matematiksel tabloların basılı bir şekilde var olabilmesi bilim adamlarının mevcut verilere güvenebilmesini sağladı.<br>Bilimsel devrimler yavaşladı."
     },
     {
         "SoruID": 3764509,
@@ -277,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Batıya hayranlık"
+        "Aciklama": "<strong>Osmanlı döneminde matbaanın geç gelişinin sebebi</strong> çeşitli görüşler tarafından batılılaşmaya<br/>olan karşıtlık, hattat ve müzehhiplerin mesleklerini kaybetme korkusu, kitabın bir sanat olarak<br/>görülmesi, kâğıt ihtiyacının yeteri kadar karşılanamaması, teknik görevlilerin yetersizliği ve elverişli<br/>ortamın bulunmaması gibi etkenler sıralanabilir.<br>Batıya hayranlık"
     },
     {
         "SoruID": 3764510,
@@ -297,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözlük"
+        "Aciklama": "İbrahim Müteferrika, matbaanın kurulmasını üstlenmiş ve matbaasını açmıştır. Bu matbaadan çıkan ilk kitap ise Lügati-Vankuli (Vankulu Lügatı) olmuştur.<br>Sözlük"
     },
     {
         "SoruID": 3764511,
@@ -317,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tifdruk baskı"
+        "Aciklama": "Man firması 70x100’lük bir makineti Apa Ofset’e sattı. Artık bütün film afişleriyle kimi dergiler burada basılıyor, bir yandan da ofset ustaları yetiştiriliyordu. Aynı şirket, <strong>Türkiye’ye ilk kez tifdruk baskı</strong> sistemini getirdi. Böylece Doğan Kardeş Matbaası’nda kurulan basit bir tifdruk makinede, aylık “Resimli Hayat” <strong>dergisinin</strong> basımıyla işe başlandı."
     },
     {
         "SoruID": 3764512,
@@ -337,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mono baskı"
+        "Aciklama": "<strong>Mono baskı (Tek baskı):</strong> Düz baskı türleri içinde en çok rağbet gören tekniktir. Mono baskı, birden<br/>çok orijinalin olduğu çoğu baskı türünün aksine yalnızca bir kez yapılabilen görüntülere veya çizgilere sahip bir tekniktir."
     },
     {
         "SoruID": 3764513,
@@ -357,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tifdruk baskı"
+        "Aciklama": "<strong>Tifdruk baskı,</strong> kaliteli baskıya imkan veren bir seri baskı tekniğidir...kalıp boya haznesinin içinde döndüğünden göz kararı ayarlama söz konusu değildir. Kalıp her seferinde eşit miktarda mürekkep almaktadır. Bu nedenle de baskılar net ve birbirine denk olur."
     },
     {
         "SoruID": 3764514,
@@ -377,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital baskı"
+        "Aciklama": "<strong>Dijital baskı,</strong> geleneksel baskı yöntemlerinden farklı olarak dijital görüntüleri doğrudan kâğıt, kanvas, kumaş ve kart stoğu gibi çeşitli ortam türlerine aktarma işlemidir."
     },
     {
         "SoruID": 3764555,
@@ -397,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Köln"
+        "Aciklama": "Gutenberg’den sonra matbaacılık Avrupa’da hızla yayıldı. Matbaacılığın Almanya’da yayılması daha hızlı oldu; 1461’de Bamberg’de, 1470’te önce Köln, Augsburg ve Nuremberg’de ardından Ulm, Zübeck, Leipzig’de basımevleri açıldı. Kitaba kapak geçirme ve buna kitap adı, yazar adı, basımevi adı, baskı tarihi koyma uygulaması da Köln’de başladı."
     },
     {
         "SoruID": 3764583,
@@ -417,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İfade olanakları azaldı."
+        "Aciklama": "Her görüş, ifade olanağı kazandı: Matbaadan önce eleştirel ya da istenmeyen görüşleri sansürlemek çok daha kolaydı. Matbaadan sonra ise bir fikrin tüm kopyalarını yok etmek neredeyse imkânsız hâle geldi. Böylece, bir konu hakkında kendi görüşünü beyan etmek isteyen herkes sesini duyurabiliyordu. Eleştirel akıl yürütme, gelenek ve göreneklerin üzerine çıktı. Bilgi demokratikleşti.<br>İfade olanakları azaldı."
     },
     {
         "SoruID": 3764584,
@@ -437,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İbrahim Müteferrika"
+        "Aciklama": "İbrahim Müteferrika’nın kurduğu bu matbaa, ilk kitabı yayımladığı 1729’dan kapandığı 1794 yılına kadar 66 yılda ancak 18 yıl çalıştırılabilmiştir. Matbaanın çalıştığı bu 18 yıl içinde de 23 (ikinci baskılar, ikinci ve üçüncü ciltler de sayılırsa 31) kitap yayımlayabilmiştir. Bunların Toplam baskı sayısının da 27 bini geçmediği söylenebilir (Kabacalı, 2000: 26)."
     },
     {
         "SoruID": 3764585,
@@ -457,11 +477,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yüksek Baskı"
+        "Aciklama": "Yüksek baskı en eski teknik olup günümüzde hâlâ en çok kullanılan tekniktir. Yüksek baskı olarak ağaç ile linol baskının yanı sıra ilkokullarda yapılan patates baskı da bir tür baskıdır. Hatta günlük yaşamda kullandığımız mühürler de yüksek baskı sınıfına girer (Kıran, 2010: 31)."
     },
     {
         "SoruID": 3764586,
-        "SoruMetni": "Aşağıdakilerden hangisi Ofset baskının diğer adıdır?",
+        "SoruMetni": "Aşağıdakilerden hangisi Ofset baskının diğer adıdır?",
         "A": "Yüksek baskı",
         "B": "Tipografik baskı",
         "C": "Düz baskı",
@@ -477,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düz baskı"
+        "Aciklama": "Endüstriyel baskı teknolojileri 5 ana başlık altında incelenmektedir: 1. Yüksek baskı: Tipografik baskı, flekso baskı 2. Düz baskı: Ofset baskı 3. Çukur baskı: Tifdruk baskı, tampon (pad) baskı 4. Şablon baskı: Serigrafi baskı 5. Dijital baskı: Computer to press (direkt baskı)"
     },
     {
         "SoruID": 3764587,
@@ -497,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Şablon baskı"
+        "Aciklama": "1. Yüksek baskı: Tipografik baskı, flekso baskı 2. Düz baskı: Ofset baskı 3. Çukur baskı: Tifdruk baskı, tampon (pad) baskı 4. Şablon baskı: Serigrafi baskı 5. Dijital baskı: Computer to press (direkt baskı)"
     },
     {
         "SoruID": 3764588,
@@ -517,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipo baskı"
+        "Aciklama": "Tipografik (Tipo) Baskının metal hurufatların yeniden kullanılabilmesi nedeniyle baskı maliyeti düşüktür.<br>Tipo baskı"
     },
     {
         "SoruID": 3764589,
@@ -537,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ofset Baskı"
+        "Aciklama": "Ofset baskı diğer baskı türlerine göre bazı avantajlar taşır: •Ofsetbaskıkeskinvetemizgörüntülerüretir ve tipo baskıya göre daha kolay yazı yazar. Bunun nedeni, kauçuk örtünün baskı yüzeyinin dokusuna uymasıdır. •Baskıkalıplarıhızlıvekolayüretilir. •Plakailebaskıyüzeyiarasındadoğrudan temas olmadığı için baskı plakasının ömrü uzun ömürlüdür. Plakalar, bir milyon baskıdan daha uzun baskılar yapabilir. •Ofsetbaskı,ticaribaskıdayüksekkaliteli baskı üretmenin en ucuz yöntemidir. Ofset baskının diğer baskı yöntemlerine göre dezavanjları ise şunlardır: •Rotogravürveyafotogravürbaskıyakıyasla daha düşük görüntü kalitesi elde edilir. •Plakaüretimivebaskımakinesininkurulumu zaman ve maliyet gerektirir. Bunun yerine küçük boyutlu işler için dijital ofset makineler kullanılabilir (http-3)."
     },
     {
         "SoruID": 3764590,
@@ -557,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tifdruk baskı"
+        "Aciklama": "Tifdruk baskı, kaliteli baskıya imkan veren bir seri baskı tekniğidir. Tifdruk baskının başlıca özelliği net, yumuşak ve kopyaları birbirinden ayrımsız baskı vermesidir. Bunun nedeni ise gerek tipo baskıda gerekse ofset baskıda mürekkebin merdanelere oradan da baskı kalıplarına akımı musluklar aracılığıyla vermesi ve genelde elle ayarlanmasıdır. Bu bakımdan ne kadar dikkat edilirse edilsin boya akımında dengesizlikler olabilmektedir. Tifdruk baskı sisteminde kalıp boya haznesinin içinde döndüğünden göz kararı ayarlama söz konusu değildir. Kalıp her seferinde eşit miktarda mürekkep almaktadır. Bu nedenle de baskılar net ve birbirine denk olur. Tifdruk baskının en önemli özelliklerinden biri de kalıplarının çok yüksek tirajlara dayanıklı olmasıdır. Bu özelliğinden dolayı yüksek tirajlı işlerde hem kaliteli sonuç vermekte hem de baskı maliyeti diğer baskı sistemlerine oranla düşük olmaktadır. Ambalajlar aynı kalıpla yıllarca tekrar tekrar basılabilmektedir. Baskı k"
     },
     {
         "SoruID": 3764591,
@@ -577,7 +597,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital baskı"
+        "Aciklama": "Dijital baskı, film yapmak, renk provaları yapmak, parçaları manuel olarak bir araya getirmek ve plaka yapmak dahil olmak üzere geleneksel baskı sürecindeki sayısız mekanik adımı ortadan kaldırır. Sayfaları sıraya koymak için basılı “imzaları” kesmek ve katlamak yerine, yazılım bunları belleğe sıralar ve doğru sırayla yazdırır. Geleneksel, seri üretim baskı yöntemlerinin aksine, dijital baskı baskı plakası yapmaya gerek olmadığı için sadece düşük hacimli baskılı ürünlere ihtiyaç duyan müşteriler için ideal ve uygun maliyetli bir seçenektir. Dijital baskı, esnek bir baskı olması yönüyle her bir baskıda değişiklik yapma olanağına sahiptir, dolayısıyla her bir baskıda farklı şekillerde basabilme seçeneği sunar. Dijital baskı bu özelliğinden dolayı kısa süreli yayınlar, kişiselleştirilmiş içerik ve veri baskısı (VDP) için uygun bir yoldur."
+    },
+    {
+        "SoruID": 3764629,
+        "SoruMetni": "Bilinen en eski baskı teknolojisinde aşağıdakilerden hangisi kullanılarak gerçekleştirilmiştir?",
+        "A": "Tahta bloklar",
+        "B": "Kumaş parçaları",
+        "C": "Cam yüzeyi",
+        "D": "Taş bloklar",
+        "E": "Yaprak parçaları",
+        "DogruCevap": "A",
+        "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+        "Unite": 1,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:36.926918",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Bilinen en eski baskı teknolojileri ise uzak doğu ülkelerinde kullanılmıştır. Çin’de MS 600’lü yıllarla birlikte tahta blokların üzerine mürekkepli yazılarla baskı yapılmıştır."
     },
     {
         "SoruID": 3764630,
@@ -705,7 +745,7 @@
         "A": "İpek baskı",
         "B": "Linol baskı",
         "C": "Taş baskı",
-        "D": "Gravür<br/><br/>",
+        "D": "Gravür",
         "E": "Tipo baskı",
         "DogruCevap": "D",
         "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
@@ -761,7 +801,7 @@
     },
     {
         "SoruID": 3764714,
-        "SoruMetni": "Bilinen en eski baskı teknolojileri ise uzak doğu ülkelerinde kullanılmıştır. Çin’de tahta blokların üzerine mürekkepli yazılarla yapılan baskı hangi yıllarda gerçekleştirilmiştir?",
+        "SoruMetni": "Bilinen en eski baskı teknolojileri ise uzak doğu ülkelerinde kullanılmıştır. Çin’de tahta blokların üzerine mürekkepli yazılarla yapılan baskı hangi yıllarda gerçekleştirilmiştir?",
         "A": "MS 600’ler",
         "B": "MS 900’ler",
         "C": "MS 1200’ler",
@@ -777,11 +817,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazının icadı, bu yazıyı belirli yüzeylere aktararak çoğaltmayı beraberinde getirmiştir. Bilinen en eski baskı teknolojileri ise uzak doğu ülkelerinde kullanılmıştır. Çin’de MS 600’lü yıllarla birlikte tahta blokların üzerine mürekkepli yazılarla baskı yapılmıştır."
+        "Aciklama": "Yazının icadı, bu yazıyı belirli yüzeylere aktararak çoğaltmayı beraberinde getirmiştir. Bilinen en eski baskı teknolojileri ise uzak doğu ülkelerinde kullanılmıştır. Çin’de MS 600’lü yıllarla birlikte tahta blokların üzerine mürekkepli yazılarla baskı yapılmıştır."
     },
     {
         "SoruID": 3764777,
-        "SoruMetni": "Çin’de tahta blokların üzerine mürekkepli yazılarla yapılan baskı Japonya’ya doğru ilerlemiş ve MS 868’de altı sayfalık metin ve gravürlerden oluşan bilinen en eski ilk basılı kitap ortaya çıkmıştır. Bu kitabın adı aşağıdakilerden hangisidir?",
+        "SoruMetni": "Çin’de tahta blokların üzerine mürekkepli yazılarla yapılan baskı Japonya’ya doğru ilerlemiş ve MS 868’de altı sayfalık metin ve gravürlerden oluşan bilinen en eski ilk basılı kitap ortaya çıkmıştır. Bu kitabın adı aşağıdakilerden hangisidir?",
         "A": "Gutenberg İncili",
         "B": "Diamond Sutra",
         "C": "Papirus Sutra",
@@ -797,11 +837,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çin’de MS 600’lü yıllarla birlikte tahta blokların üzerine mürekkepli yazılarla baskı yapılmıştır. Çin’in bu teknolojisi Japonya’ya doğru ilerlemiş ve MS 868’de altı sayfalık metin ve gravürlerden oluşan bilinen en eski ilk basılı kitap Diamond Sutra ortaya çıkmıştır. Uzak Doğu’daki bu gelişmeler zaman içerisinde Avrupa’ya da taşınmıştır."
+        "Aciklama": "Çin’de MS 600’lü yıllarla birlikte tahta blokların üzerine mürekkepli yazılarla baskı yapılmıştır. Çin’in bu teknolojisi Japonya’ya doğru ilerlemiş ve MS 868’de altı sayfalık metin ve gravürlerden oluşan bilinen en eski ilk basılı kitap Diamond Sutra ortaya çıkmıştır. Uzak Doğu’daki bu gelişmeler zaman içerisinde Avrupa’ya da taşınmıştır."
     },
     {
         "SoruID": 3764780,
-        "SoruMetni": "İtalya’da ilk matbaa 1465’te nerede kuruldu?",
+        "SoruMetni": "İtalya’da ilk matbaa 1465’te nerede kuruldu?",
         "A": "Sorbonne'da",
         "B": "Roma'da",
         "C": "Subiaco manastırında",
@@ -821,7 +861,7 @@
     },
     {
         "SoruID": 3764784,
-        "SoruMetni": "\"......................, en basit ve en eski baskıresim biçimlerinden biridir. Tarih öncesi mağaralarda bulunan kırmızı toprak el baskıları ilk ................ örnekleridir. ...................., bir biçimin ayrıntılarını göstermek için istenmeyen yerlerin oyulmasıdır. Bu baskıda kalıbın tümsek kalan bölümlerine boya verilir ve bu boya başka bir yüzeye aktarılır. Bu işlemle birlikte beyaz kalmasını istediğimiz yerler kesilir veya oyularak çıkarılır.\" ifadesindeki boş yerlere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "\"......................, en basit ve en eski baskıresim biçimlerinden biridir. Tarih öncesi mağaralarda bulunan kırmızı toprak el baskıları ilk ................ örnekleridir. ...................., bir biçimin ayrıntılarını göstermek için istenmeyen yerlerin oyulmasıdır. Bu baskıda kalıbın tümsek kalan bölümlerine boya verilir ve bu boya başka bir yüzeye aktarılır. Bu işlemle birlikte beyaz kalmasını istediğimiz yerler kesilir veya oyularak çıkarılır.\" ifadesindeki boş yerlere aşağıdakilerden hangisi gelmelidir?",
         "A": "Çukur Baskı",
         "B": "Düz Baskı",
         "C": "Yüksek Baskı",
@@ -837,11 +877,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yüksek baskı, en basit ve en eski baskıresim biçimlerinden biridir. Tarih öncesi mağaralarda bulunan kırmızı toprak el baskıları ilk yüksek baskı örnekleridir. Yüksek baskı, bir biçimin ayrıntılarını göstermek için istenmeyen yerlerin oyulmasıdır. Rölyef baskı özelliğinde olup kalıbın yüksekte kalan bölümlerine boya verilir ve bu boya başka bir yüzeye aktarılır. Bu işlemle birlikte beyaz kalmasını istediğimiz yerler kesilir veya oyularak çıkarılır."
+        "Aciklama": "Yüksek baskı, en basit ve en eski baskıresim biçimlerinden biridir. Tarih öncesi mağaralarda bulunan kırmızı toprak el baskıları ilk yüksek baskı örnekleridir. Yüksek baskı, bir biçimin ayrıntılarını göstermek için istenmeyen yerlerin oyulmasıdır. Rölyef baskı özelliğinde olup kalıbın yüksekte kalan bölümlerine boya verilir ve bu boya başka bir yüzeye aktarılır. Bu işlemle birlikte beyaz kalmasını istediğimiz yerler kesilir veya oyularak çıkarılır."
     },
     {
         "SoruID": 3764785,
-        "SoruMetni": "1440 yılında Alman asıllı Johannes Gutenberg tarafından geliştirilen baskı türü aşağıdakilerden hangisidir?",
+        "SoruMetni": "1440 yılında Alman asıllı Johannes Gutenberg tarafından geliştirilen baskı türü aşağıdakilerden hangisidir?",
         "A": "Linol Baskı",
         "B": "Yüksek Baskı",
         "C": "Serigrafi",
@@ -857,11 +897,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipo baskı 1440 yılında Alman asıllı Johannes Gutenberg tarafından geliştirilmiştir."
+        "Aciklama": "Tipo baskı 1440 yılında Alman asıllı Johannes Gutenberg tarafından geliştirilmiştir."
     },
     {
         "SoruID": 3764786,
-        "SoruMetni": "Kâğıt, kaç yılında Çin’de Tsei Lun tarafından bulunmasıyla, baskıda kullanılmaya başlanmıştır?",
+        "SoruMetni": "Kâğıt, kaç yılında Çin’de Tsei Lun tarafından bulunmasıyla, baskıda kullanılmaya başlanmıştır?",
         "A": "MÖ 1050",
         "B": "MS 105",
         "C": "MS 1050",
@@ -877,11 +917,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kâğıdın M.S. 105 yılında Çin’de Tsei Lun tarafından bulunmasıyla kâğıt baskı kullanılmaya başlanmıştır."
+        "Aciklama": "Kâğıdın M.S. 105 yılında Çin’de Tsei Lun tarafından bulunmasıyla kâğıt baskı kullanılmaya başlanmıştır."
     },
     {
         "SoruID": 3764787,
-        "SoruMetni": "1796’da Bavyera Krallığı’nda Alois Senefelder tarafından icat edilen teknik aşağıdakilerden hangisidir?",
+        "SoruMetni": "1796’da Bavyera Krallığı’nda Alois Senefelder tarafından icat edilen teknik aşağıdakilerden hangisidir?",
         "A": "Taş Baskı",
         "B": "Elek Baskı",
         "C": "Linol Baskı",
@@ -897,11 +937,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Taş baskı, 1796’da Bavyera Krallığı’nda Alois Senefelder tarafından icat edilmiştir"
+        "Aciklama": "Taş baskı, 1796’da Bavyera Krallığı’nda Alois Senefelder tarafından icat edilmiştir."
     },
     {
         "SoruID": 3764788,
-        "SoruMetni": "Günümüzde gazeteler, dergiler, broşürler, kırtasiye malzemeleri ve kitaplar genellikle hangi baskı yöntemi ile yapılır?",
+        "SoruMetni": "Günümüzde gazeteler, dergiler, broşürler, kırtasiye malzemeleri ve kitaplar genellikle hangi baskı yöntemi ile yapılır?",
         "A": "Serigrafi",
         "B": "Çukur Baskı",
         "C": "Tampon Baskı",
@@ -917,11 +957,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ofset litografi, basılı materyaller oluşturmanın en yaygın yollarından biridir. Gazeteler, dergiler, broşürler, kırtasiye malzemeleri ve kitaplar bu baskı yöntemi ile yapılır."
+        "Aciklama": "Ofset litografi, basılı materyaller oluşturmanın en yaygın yollarından biridir. Gazeteler, dergiler, broşürler, kırtasiye malzemeleri ve kitaplar bu baskı yöntemi ile yapılır."
     },
     {
         "SoruID": 3764789,
-        "SoruMetni": "Mürekkebin esnek kauçuk baskı plakaları aracılığıyla çeşitli yüzeylere uygulandığı döner baskı türü olan ve kullanılan mürekkeplerin, buharlaşma yoluyla hızla kurur ve gıdalarla doğrudan temas eden ambalaj paketlerinin kullanımı için güvenli olduğu baskı türü aşağıdakilerden hangisidir?",
+        "SoruMetni": "Mürekkebin esnek kauçuk baskı plakaları aracılığıyla çeşitli yüzeylere uygulandığı döner baskı türü olan ve kullanılan mürekkeplerin, buharlaşma yoluyla hızla kurur ve gıdalarla doğrudan temas eden ambalaj paketlerinin kullanımı için güvenli olduğu baskı türü aşağıdakilerden hangisidir?",
         "A": "Flekso baskı",
         "B": "Tipo Baskı",
         "C": "Ofset Baskı",
@@ -937,11 +977,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Flekso baskı (fleksografi), mürekkebin esnek kauçuk baskı plakaları aracılığıyla çeşitli yüzeylere uygulandığı döner baskı şeklidir. Flekso baskıda kullanılan mürekkepler, buharlaşma yoluyla hızla kurur ve gıdalarla doğrudan temas eden ambalaj paketlerinin kullanımı için güvenlidir."
+        "Aciklama": "Flekso baskı (fleksografi), mürekkebin esnek kauçuk baskı plakaları aracılığıyla çeşitli yüzeylere uygulandığı döner baskı şeklidir. Flekso baskıda kullanılan mürekkepler, buharlaşma yoluyla hızla kurur ve gıdalarla doğrudan temas eden ambalaj paketlerinin kullanımı için güvenlidir."
     },
     {
         "SoruID": 3764790,
-        "SoruMetni": "Metin, grafik ve resim gibi öğelerin yazdırma işlemini durdurmadan veya yavaşlatmadan ve bir veritabanından veya harici dosyadan bilgi kullanmadan basılı bir parçadan diğerine değiştirilebildiği isteğe bağlı yazdırma da dahil olmak üzere bir dijital baskı biçimine ne ad verilir?",
+        "SoruMetni": "Metin, grafik ve resim gibi öğelerin yazdırma işlemini durdurmadan veya yavaşlatmadan ve bir veritabanından veya harici dosyadan bilgi kullanmadan basılı bir parçadan diğerine değiştirilebildiği isteğe bağlı yazdırma da dahil olmak üzere bir dijital baskı biçimine ne ad verilir?",
         "A": "Dijital Baskı",
         "B": "DTP baskı",
         "C": "Ofset Litografi",
@@ -957,11 +997,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Değişken veri yazdırma (variable data printing), metin, grafik ve resim gibi öğelerin yazdırma işlemini durdurmadan veya yavaşlatmadan ve bir veritabanından veya harici dosyadan bilgi kullanmadan basılı bir parçadan diğerine değiştirilebildiği isteğe bağlı yazdırma da dahil olmak üzere bir dijital baskı biçimidir."
+        "Aciklama": "Değişken veri yazdırma (variable data printing), metin, grafik ve resim gibi öğelerin yazdırma işlemini durdurmadan veya yavaşlatmadan ve bir veritabanından veya harici dosyadan bilgi kullanmadan basılı bir parçadan diğerine değiştirilebildiği isteğe bağlı yazdırma da dahil olmak üzere bir dijital baskı biçimidir."
     },
     {
         "SoruID": 3764329,
-        "SoruMetni": "----------------; çeşitli verilerin elektronik ortamlarda bulunması ve gösterilmesidir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "----------------; çeşitli verilerin elektronik ortamlarda bulunması ve gösterilmesidir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "Dijital Tasarım",
         "B": "Dijital Mecra",
         "C": "Dijital Aplikasyon",
@@ -977,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yukarıdaki cümlede boş bırakılan yeri B seçeneği (dijital mecra) doğru olarak tamamlar. Dijital mecra; çeşitli verilerin elektronik ortamlarda bulunması ve gösterilmesidir."
+        "Aciklama": "GİRİŞ<br>Yukarıdaki cümlede boş bırakılan yeri B seçeneği (dijital mecra) doğru olarak tamamlar. Dijital mecra; çeşitli verilerin elektronik ortamlarda bulunması ve gösterilmesidir."
     },
     {
         "SoruID": 3764330,
@@ -997,7 +1037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Baskı teknikleri sanatsal ve endüstriyel baskı teknikleri şeklinde  iki bölüme ayrılır. Sanatsal baskı dediğimiz geleneksel (Traditional) baskı teknikleri; linol, ağaç, gravür, litoğrafi vb. ile yapılan çalışmalardır. Endüstriyel baskı teknikleri ise kullanılan ve uygulanan teknik kalıpların yapılarına göre;  yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve dijital baskı şeklinde beşe ayrılır. Dolayısıyla \"Linol baskı\" endüstriyel baskı tekniklerinden biri değildir."
+        "Aciklama": "DİJİTAL TASARIMDA YÜKSEK BASKI SİSTEMLERİ<br>Baskı teknikleri sanatsal ve endüstriyel baskı teknikleri şeklinde iki bölüme ayrılır. Sanatsal baskı dediğimiz geleneksel (Traditional) baskı teknikleri; linol, ağaç, gravür, litoğrafi vb. ile yapılan çalışmalardır. Endüstriyel baskı teknikleri ise kullanılan ve uygulanan teknik kalıpların yapılarına göre; yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve dijital baskı şeklinde beşe ayrılır. Dolayısıyla \"Linol baskı\" endüstriyel baskı tekniklerinden biri değildir."
     },
     {
         "SoruID": 3764341,
@@ -1017,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yüksek baskı sistemleri ile ilgili olarak  verilen ifadelerden E seçeneği (<em>Yüksek baskı sisteminin “tifdruk\" ve \"tampon” olmak üzere iki çeşidi bulunur</em>.) yanlıştır. Tifdruk ve tampon, çukur baskı çeşitleridir. Yüksek baskı sisteminin “tipo baskı” ve “flekso baskı” olmak üzere iki çeşidi bulunur."
+        "Aciklama": "DİJİTAL TASARIMDA YÜKSEK BASKI SİSTEMLERİ<br>Yüksek baskı sistemleri ile ilgili olarak verilen ifadelerden E seçeneği (<em>Yüksek baskı sisteminin “tifdruk\" ve \"tampon” olmak üzere iki çeşidi bulunur</em>.) yanlıştır. Tifdruk ve tampon, çukur baskı çeşitleridir. Yüksek baskı sisteminin “tipo baskı” ve “flekso baskı” olmak üzere iki çeşidi bulunur."
     },
     {
         "SoruID": 3764342,
@@ -1037,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipo baskı sistemi ve tarihsel süreci ile ilgili olarak verilen ifadelerden A seçeneği (<em>Johannes Gutenberg’in 1440’ta hurufat adı verilen kilden yapılmış harf kalıplarını icat etmesi, matbaacılık sektöründe devrim sayılacak bir gelişmedir.</em>) yanlıştır. Johannes Gutenberg’in 1440’ta hurufat adı verilen, kil değil metal harf kalıplarını icat etmesi, matbaacılık sektöründe devrim sayılacak bir gelişme olmuştur."
+        "Aciklama": "TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ<br>Tipo baskı sistemi ve tarihsel süreci ile ilgili olarak verilen ifadelerden A seçeneği (<em>Johannes Gutenberg’in 1440’ta hurufat adı verilen kilden yapılmış harf kalıplarını icat etmesi, matbaacılık sektöründe devrim sayılacak bir gelişmedir.</em>) yanlıştır. Johannes Gutenberg’in 1440’ta hurufat adı verilen, kil değil metal harf kalıplarını icat etmesi, matbaacılık sektöründe devrim sayılacak bir gelişme olmuştur."
     },
     {
         "SoruID": 3764343,
@@ -1057,7 +1097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kesim; günümüzde tipo baskı sistemi kullanılarak yapılan işlerden biridir. Tipo baskı sisteminde kalıp hazırlama aşaması zorlu ve uzun bir süreç gerektirdiği için günümüzde kartvizit, kitap, broşür, fatura, el ilanı gibi ürünlerin basımında tercih edilmez. Numaratör, kesim, kırım, yaldız baskısı (ısı ile), pilyaj, perforaj gibi işler için kullanılır."
+        "Aciklama": "TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ<br>Kesim; günümüzde tipo baskı sistemi kullanılarak yapılan işlerden biridir. Tipo baskı sisteminde kalıp hazırlama aşaması zorlu ve uzun bir süreç gerektirdiği için günümüzde kartvizit, kitap, broşür, fatura, el ilanı gibi ürünlerin basımında tercih edilmez. Numaratör, kesim, kırım, yaldız baskısı (ısı ile), pilyaj, perforaj gibi işler için kullanılır."
     },
     {
         "SoruID": 3764354,
@@ -1077,11 +1117,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Kumpas\" hurufatın fiziksel özelliklerinden biri değildir. Matbaacılığın tipografik sisteminde kullanılan harfler anlamına gelen hurufatta, kumpas adı verilen alete harfler yerleştirilerek kelimeler oluşturulur. Hareketli harflerin dizgi sonucu oluşumunda katkısı büyüktür. El dizgi tekniğinde dizgi ustasının seri çalışabilmesi amacıyla, hurufatların gerek tanınmasında gerekse kalıp oluşturulması esnasında kolaylık sağlaması için üzerinde değişik fiziksel özellikler söz konusudur  Bu özellikler, punto genişliği, ayak, baş, işaret kertiği, vb. şeklindedir."
+        "Aciklama": "TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ<br>\"Kumpas\" hurufatın fiziksel özelliklerinden biri değildir. Matbaacılığın tipografik sisteminde kullanılan harfler anlamına gelen hurufatta, kumpas adı verilen alete harfler yerleştirilerek kelimeler oluşturulur. Hareketli harflerin dizgi sonucu oluşumunda katkısı büyüktür. El dizgi tekniğinde dizgi ustasının seri çalışabilmesi amacıyla, hurufatların gerek tanınmasında gerekse kalıp oluşturulması esnasında kolaylık sağlaması için üzerinde değişik fiziksel özellikler söz konusudur Bu özellikler, punto genişliği, ayak, baş, işaret kertiği, vb. şeklindedir."
     },
     {
         "SoruID": 3764619,
-        "SoruMetni": "I. Dijital tasarımda tasarım bilgisayar destekli hazırlanır.<br/> II. Çağdaş tasarım sürecinde diğer disiplinlerle ilişki ön plana çıkar.<br/> III. Geleneksel tasarım sürecinde geri dönüte yer yoktur.<br/> IV. Çağdaş tasarım yaklaşımında son üründen ziyade süreç önemlidir.<br/><br/>Yukarıda tasarım süreci ile ilgili verilenlerden hangileri doğrudur?<br/>",
+        "SoruMetni": "I. Dijital tasarımda tasarım bilgisayar destekli hazırlanır.<br/>II. Çağdaş tasarım sürecinde diğer disiplinlerle ilişki ön plana çıkar.<br/>III. Geleneksel tasarım sürecinde geri dönüte yer yoktur.<br/>IV. Çağdaş tasarım yaklaşımında son üründen ziyade süreç önemlidir.<br/>Yukarıda tasarım süreci ile ilgili verilenlerden hangileri doğrudur?",
         "A": "I ve II",
         "B": "I ve III",
         "C": "I ve IV",
@@ -1097,7 +1137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünitenin Şekil 2.2.’deki görseli incelenebilir."
+        "Aciklama": "Ünitenin ilgili bölümünü inceleyiniz.<br>Ünitenin Şekil 2.2.’deki görseli incelenebilir."
     },
     {
         "SoruID": 3764620,
@@ -1117,11 +1157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Matbaa teknolojisi veya endüstriyel basım teknolojile­ri olarak da adlandırılan bu temel basım/baskı sistemleri farklı teknik kalıplar içinde isimlen­dirilmektedir. Baskı teknikleri genel olarak ad­landırıldığında ise <strong><em>iki bölüme ayrılır</em></strong>. <em>Sanatsal baskı teknikleri ve endüstriyel baskı teknikleri’</em>dir."
+        "Aciklama": "Detaylı bilgi için ünitenin ilgili bölümü incelenebilir.<br>Matbaa teknolojisi veya endüstriyel basım teknolojile­ri olarak da adlandırılan bu temel basım/baskı sistemleri farklı teknik kalıplar içinde isimlen­dirilmektedir. Baskı teknikleri genel olarak ad­landırıldığında ise <strong><em>iki bölüme ayrılır</em></strong>. <em>Sanatsal baskı teknikleri ve endüstriyel baskı teknikleri’</em>dir."
     },
     {
         "SoruID": 3764621,
-        "SoruMetni": "I. Tipografi yüksek baskı çeşididir.<br/> II.  Taş baskı, yüksek baskı olarak da adlandırılmaktadır. <br/>III. Serigrafi,yüksek baskı çeşididir.<br/><br/>Yukarıda dijital tasarımda yüksek baskı sistemleri ile ilgili verilenlerden hangileri doğrudur?",
+        "SoruMetni": "I. Tipografi yüksek baskı çeşididir.<br/>II. Taş baskı, yüksek baskı olarak da adlandırılmaktadır. <br/>III. Serigrafi,yüksek baskı çeşididir.<br/>Yukarıda dijital tasarımda yüksek baskı sistemleri ile ilgili verilenlerden hangileri doğrudur?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -1137,7 +1177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beşe ayrılmak­tadır: yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve dijital baskı."
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beşe ayrılmak­tadır: yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve dijital baskı."
     },
     {
         "SoruID": 3764622,
@@ -1157,11 +1197,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hurufat adı verilen metal harf kalıpları ile yapılan yüksek baskı tekniğine tipo baskı adı denir."
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>Hurufat adı verilen metal harf kalıpları ile yapılan yüksek baskı tekniğine tipo baskı adı denir."
     },
     {
         "SoruID": 3764623,
-        "SoruMetni": "I. Matbaacılığın, tipografik sisteminde kullanılan harfleridir.<br/> II. Hurufatta resim kısmının oturduğu, daha kalın olan alt kısma denir.<br/> III. Harfin resim kısmını taşıyan taban geniş­lik değeridir.<br/> Yukarıda bir baskı sistemi ile ilgili açıklaması verilen kavramlar, aşağıdakilerin hangisinde sırasıyla doğru olarak verilmiştir?",
+        "SoruMetni": "I. Matbaacılığın, tipografik sisteminde kullanılan harfleridir.<br/>II. Hurufatta resim kısmının oturduğu, daha kalın olan alt kısma denir.<br/>III. Harfin resim kısmını taşıyan taban geniş­lik değeridir.<br/>Yukarıda bir baskı sistemi ile ilgili açıklaması verilen kavramlar, aşağıdakilerin hangisinde sırasıyla doğru olarak verilmiştir?",
         "A": "Et kısmı, hurufat, punto",
         "B": "Punto, et kısmı, hurufat",
         "C": "Punto, hurufat, et kısmı",
@@ -1177,7 +1217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Matbaacılık sektöründe kullanılan terim; hu­rufatlar yani harfler demektir. Bir başka deyişle matbaacılığın, tipografik sisteminde kullanılan harflere <em>hurufat </em>denir. Resim kısmının oturduğu, daha kalın olan alt kısma ise harfin <em>“et kısmı</em>” denir. Harfin resim kısmını taşıyan taban geniş­lik değeri o harfin “<em>puntosu”</em>dur"
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>Matbaacılık sektöründe kullanılan terim; hu­rufatlar yani harfler demektir. Bir başka deyişle matbaacılığın, tipografik sisteminde kullanılan harflere <em>hurufat </em>denir. Resim kısmının oturduğu, daha kalın olan alt kısma ise harfin <em>“et kısmı</em>” denir. Harfin resim kısmını taşıyan taban geniş­lik değeri o harfin “<em>puntosu”</em>dur"
     },
     {
         "SoruID": 3764624,
@@ -1197,11 +1237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "El tezgahlarının çalışma prensibi tipo baskının temel baskı prensibi gibidir. Ma­kinenin çalışma sistemi oldukça basittir. Yapılan her baskı için mürekkep kalıba yeniden sürülür. Kalıp üzerindeki görüntü baskı altı malzemesine aktarılarak baskı gerçekleştirilir. El tezgahlarında baskı yapmak zahmetli olduğu ve işlem uzun sürdüğü için bu tezgâhlar günümüzde sadece sanatsal işlerde kullanılmakta­dır."
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>El tezgahlarının çalışma prensibi tipo baskının temel baskı prensibi gibidir. Ma­kinenin çalışma sistemi oldukça basittir. Yapılan her baskı için mürekkep kalıba yeniden sürülür. Kalıp üzerindeki görüntü baskı altı malzemesine aktarılarak baskı gerçekleştirilir. El tezgahlarında baskı yapmak zahmetli olduğu ve işlem uzun sürdüğü için bu tezgâhlar günümüzde sadece sanatsal işlerde kullanılmakta­dır."
     },
     {
         "SoruID": 3764625,
-        "SoruMetni": "I. Baskı basıncının yüksek olduğu makine, silindir kazanlıdır.<br/> II. El tezgahlarının çalışma prensibi temel prensipten çok farklıdır.<br/> III. Gazete basımında en çok kullanılan makine, silindir kazanlıdır.<br/> IV. Baskı alanı en küçük olan tipo baskı makineleri, maşalıdır.<br/> Yukarıda baskı makineleri ile ilgili verilenlerden hangileri doğrudur?",
+        "SoruMetni": "I. Baskı basıncının yüksek olduğu makine, silindir kazanlıdır.<br/>II. El tezgahlarının çalışma prensibi temel prensipten çok farklıdır.<br/>III. Gazete basımında en çok kullanılan makine, silindir kazanlıdır.<br/>IV. Baskı alanı en küçük olan tipo baskı makineleri, maşalıdır.<br/>Yukarıda baskı makineleri ile ilgili verilenlerden hangileri doğrudur?",
         "A": "I ve II",
         "B": "I ve III",
         "C": "I ve IV",
@@ -1217,7 +1257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "El tezgahlarının çalışma prensibi tipo baskının temel baskı prensibi gibidir. Ma­kinenin çalışma sistemi oldukça basittir.  Maşalı tipo baskı makineleri, baskı alanı en küçük olan tipo baskı makineleri olması ne­deniyle günümüzde hala tercih edilmektedir.  Silindir kazanlı makinelerin önemli özelliği baskı basıncının yüksek olmasıdır."
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>El tezgahlarının çalışma prensibi tipo baskının temel baskı prensibi gibidir. Ma­kinenin çalışma sistemi oldukça basittir. Maşalı tipo baskı makineleri, baskı alanı en küçük olan tipo baskı makineleri olması ne­deniyle günümüzde hala tercih edilmektedir. Silindir kazanlı makinelerin önemli özelliği baskı basıncının yüksek olmasıdır."
     },
     {
         "SoruID": 3764626,
@@ -1237,11 +1277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dizgi işinde kullanılan bir aralık ölçüsü birimi olarak dizgide harfler arasına konulan yazısız metal parçası kadrattır."
+        "Aciklama": "Detaylı bilgi için ünitenin ilgili bölümü incelenebilir.<br>Dizgi işinde kullanılan bir aralık ölçüsü birimi olarak dizgide harfler arasına konulan yazısız metal parçası kadrattır."
     },
     {
         "SoruID": 3764627,
-        "SoruMetni": "I-Projenin büyüklüğü, hacmi<br/><br/>II-Baskı alımında aciliyet, zaman, süre<br/><br/>III- Baskının ürün türü<br/><br/>IV- Baskıda önizleme prova çıktı<br/><br/>Yukarıdakilerden hangileri, bir baskıda çoğaltmaya karar verirken dikkat edilmesi gereken unsurlardandır?",
+        "SoruMetni": "I-Projenin büyüklüğü, hacmi<br/>II-Baskı alımında aciliyet, zaman, süre<br/>III- Baskının ürün türü<br/>IV- Baskıda önizleme prova çıktı<br/>Yukarıdakilerden hangileri, bir baskıda çoğaltmaya karar verirken dikkat edilmesi gereken unsurlardandır?",
         "A": "I ve II",
         "B": "II ve IV",
         "C": "I, II ve IV",
@@ -1257,11 +1297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir baskıda çoğaltmaya karar verirken dikkat edilmesi gereken unsurlar şunlardır: 1-Projenin büyüklüğü, hacmi, 2-Baskı alımında aciliyet, zaman, süre, 3- Baskının ürün türü (Kitap, dergi, kartvizit, davetiye, afiş vb.), 4- Baskıda önizleme prova çıktı, 5- Baskıda adet sayısı, 6- Özel ve özgün ürün tasarımında uygun baskı çeşitliliği, 6- Baskıda maliyet."
+        "Aciklama": "Ünitenin ilgili bölümü deteylı bilgi için incelenebilir.<br>Bir baskıda çoğaltmaya karar verirken dikkat edilmesi gereken unsurlar şunlardır: 1-Projenin büyüklüğü, hacmi, 2-Baskı alımında aciliyet, zaman, süre, 3- Baskının ürün türü (Kitap, dergi, kartvizit, davetiye, afiş vb.), 4- Baskıda önizleme prova çıktı, 5- Baskıda adet sayısı, 6- Özel ve özgün ürün tasarımında uygun baskı çeşitliliği, 6- Baskıda maliyet."
     },
     {
         "SoruID": 3764628,
-        "SoruMetni": "I. Bilginin kodlanarak sayısallaştırılması, ….. . <br/> II. …….., düz baskı çeşididir.<br/> III. Tipo baskı makinelerini …………. grupta toplayabiliriz,<br/> Yukarıda baskı tekniği ve üretim süreci ile ilgili bilgiler verilmiştir. Buna göre, yukarıda boş bırakılan noktalı yerlere gelecek sözcükler, aşağıdakilerden hangisinde doğru olarak sıralanmıştır?",
+        "SoruMetni": "I. Bilginin kodlanarak sayısallaştırılması, ….. . <br/>II. …….., düz baskı çeşididir.<br/>III. Tipo baskı makinelerini …………. grupta toplayabiliriz,<br/>Yukarıda baskı tekniği ve üretim süreci ile ilgili bilgiler verilmiştir. Buna göre, yukarıda boş bırakılan noktalı yerlere gelecek sözcükler, aşağıdakilerden hangisinde doğru olarak sıralanmıştır?",
         "A": "Tasarım, ofset, dört",
         "B": "Data, ofset, iki",
         "C": "Data, ofset, dört",
@@ -1277,7 +1317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipo baskı makinelerini dört grupta toplayabiliriz: a. El Tezgahları (Presler), b. Pedal Makineleri (Düz kazanlı presler), c. Silindir Kazanlı Baskı Makineleri, d. Rotatif Tipo Baskı Makineleri’dir.  Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır. Toplanan veriler (Data), belli bir sistematik içinde sayısallaştırılarak ve istenilen formatta yeniden kullanılmaktadır. Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beş’e ayrılmaktadır: yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve Dijital baskı gibi çeşitleri vardır. (Sayfa, 58-59-60"
+        "Aciklama": "Ünitenin ilgili bölümleri detaylı bilgi için incelenebilir. Cevap 58-59 ve 60. sayfalarda takip edilebilir.<br>Tipo baskı makinelerini dört grupta toplayabiliriz: a. El Tezgahları (Presler), b. Pedal Makineleri (Düz kazanlı presler), c. Silindir Kazanlı Baskı Makineleri, d. Rotatif Tipo Baskı Makineleri’dir. Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır. Toplanan veriler (Data), belli bir sistematik içinde sayısallaştırılarak ve istenilen formatta yeniden kullanılmaktadır. Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beş’e ayrılmaktadır: yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve Dijital baskı gibi çeşitleri vardır. (Sayfa, 58-59-60"
     },
     {
         "SoruID": 3764729,
@@ -1297,7 +1337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Baskı teknikleri genel olarak adlandırıldığında iki bölüme ayrılır.<br/><br/>1-Sanatsal baskı teknikleri<br/><br/>2-Endüstriyel baskı teknikleri<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Baskı teknikleri genel olarak adlandırıldığında iki bölüme ayrılır.<br/>1-Sanatsal baskı teknikleri<br/>2-Endüstriyel baskı teknikleri"
     },
     {
         "SoruID": 3764730,
@@ -1317,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Baskı teknikleri genel olarak adlandırıldığında iki bölüme ayrılır. Sanatsal baskı teknikleri ve endüstriyel baskı teknikleri’dir. Sanatsal ve Endüstriyel baskı tekniklerinde farklı uygulama biçimleri vardır.<br/> Sanatsal baskı dediğimiz geleneksel (Traditional) baskı teknikleri: linol, ağaç, gravür, litoğrafi vb. ile yapılan çalışmalar çoğaltılır."
+        "Aciklama": "Baskı teknikleri genel olarak adlandırıldığında iki bölüme ayrılır. Sanatsal baskı teknikleri ve endüstriyel baskı teknikleri’dir. Sanatsal ve Endüstriyel baskı tekniklerinde farklı uygulama biçimleri vardır.<br/>Sanatsal baskı dediğimiz geleneksel (Traditional) baskı teknikleri: linol, ağaç, gravür, litoğrafi vb. ile yapılan çalışmalar çoğaltılır."
     },
     {
         "SoruID": 3764731,
@@ -1337,7 +1377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beşe ayrılmaktadır:<br/> 1-yüksek baskı (Tipografi, Flekso),<br/> 2-düz baskı (Ofset),<br/> 3-çukur baskı (Tifdruk, Tampon),<br/> 4-şablon-elek baskı (Serigrafi)<br/> 5-dijital baskı."
+        "Aciklama": "Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beşe ayrılmaktadır:<br/>1-yüksek baskı (Tipografi, Flekso),<br/>2-düz baskı (Ofset),<br/>3-çukur baskı (Tifdruk, Tampon),<br/>4-şablon-elek baskı (Serigrafi)<br/>5-dijital baskı."
     },
     {
         "SoruID": 3764732,
@@ -1401,10 +1441,10 @@
     },
     {
         "SoruID": 3764735,
-        "SoruMetni": "\"Yüksek baskı sisteminde tipo baskıya uygun olarak baskı elde etmeye yarayan alet ve makinelerin tümüne birden <strong><em>tipo baskı makineleri</em> </strong>denir.\"<br/>  Aşağıdakilerden hangisi Tipo baskı makinelerinden değildir?",
+        "SoruMetni": "\"Yüksek baskı sisteminde tipo baskıya uygun olarak baskı elde etmeye yarayan alet ve makinelerin tümüne birden <strong><em>tipo baskı makineleri</em> </strong>denir.\"<br/>Aşağıdakilerden hangisi Tipo baskı makinelerinden değildir?",
         "A": "El Tezgahları (Presler)",
         "B": "Pedal Makineleri (Düz kazanlı presler)",
-        "C": "Kadrat Tipo Baskı Makineleri",
+        "C": "Kadrat Tipo Baskı Makineleri",
         "D": "Silindir Kazanlı Baskı Makineleri",
         "E": "Rotatif Tipo Baskı Makineleri",
         "DogruCevap": "C",
@@ -1417,7 +1457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yüksek baskı sisteminde tipo baskıya uygun olarak baskı elde etmeye yarayan alet ve makinelerin tümüne birden <strong><em>tipo baskı makineleri</em> </strong>denir.<br/> Tipo baskı makinelerini dört grupta toplayabiliriz:<br/>     <ol> <li> El Tezgahları (Presler)<br/> </li> <li> Pedal Makineleri (Düz kazanlı presler)<br/> </li> <li> Silindir Kazanlı Baskı Makineleri<br/> </li> <li> Rotatif Tipo Baskı Makineleri<br/> </li> </ol>"
+        "Aciklama": "Yüksek baskı sisteminde tipo baskıya uygun olarak baskı elde etmeye yarayan alet ve makinelerin tümüne birden <strong><em>tipo baskı makineleri</em> </strong>denir.<br/>Tipo baskı makinelerini dört grupta toplayabiliriz:<br/><ol> <li> El Tezgahları (Presler)<br/></li> <li> Pedal Makineleri (Düz kazanlı presler)<br/></li> <li> Silindir Kazanlı Baskı Makineleri<br/></li> <li> Rotatif Tipo Baskı Makineleri<br/></li> </ol>"
     },
     {
         "SoruID": 3764736,
@@ -1461,7 +1501,7 @@
     },
     {
         "SoruID": 3764738,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Bilgisayar ve destekleyici üniteler önemlidir.</li> <li>Grafik tasarıma uygun programlar kullanılır.</li> <li>Basımı elle çoğalatılacak baskı makineler kullanılır</li> <li>Programlar sayesinde çizim, sayfa tasarımı yapabiliriz. </li> <li>Programlar sayesinde tipografik çalışmalar yapabiliriz.</li> </ol> Yukaridakilerden hangisi Dijital baskı için söylenemez?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Bilgisayar ve destekleyici üniteler önemlidir.</li> <li>Grafik tasarıma uygun programlar kullanılır.</li> <li>Basımı elle çoğalatılacak baskı makineler kullanılır</li> <li>Programlar sayesinde çizim, sayfa tasarımı yapabiliriz. </li> <li>Programlar sayesinde tipografik çalışmalar yapabiliriz.</li> </ol> Yukaridakilerden hangisi Dijital baskı için söylenemez?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -1477,7 +1517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital baskı, dijital ortamda hazırlanmış işlerin, elektronik veri yoluyla baskı makinesine gönderilmesi ve basılmasıdır. Dijital baskı da aşağıdakiler önemlidir:<br/> <ol> <li> Bilgisayar ve destekleyici üniteler,<br/> </li> <li> Grafik tasarıma uygun programlar (Piksel ve vektörel tabanlı programlar) ve<br/> </li> <li> Basımı çoğlatılacak baskı makineleridir.<br/> </li> <li> Bu programlar sayesinde çizim, dijital fotoğraf görüntüle- rine düzenleme, sayfa tasarımı ve tipografik çalışmalar yapabiliriz<br/> </li> </ol>"
+        "Aciklama": "Dijital baskı, dijital ortamda hazırlanmış işlerin, elektronik veri yoluyla baskı makinesine gönderilmesi ve basılmasıdır. Dijital baskı da aşağıdakiler önemlidir:<br/><ol> <li> Bilgisayar ve destekleyici üniteler,<br/></li> <li> Grafik tasarıma uygun programlar (Piksel ve vektörel tabanlı programlar) ve<br/></li> <li> Basımı çoğlatılacak baskı makineleridir.<br/></li> <li> Bu programlar sayesinde çizim, dijital fotoğraf görüntüle- rine düzenleme, sayfa tasarımı ve tipografik çalışmalar yapabiliriz<br/></li> </ol>"
     },
     {
         "SoruID": 3764767,
@@ -1497,12 +1537,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hurufatın gelen yapısını oluşturan metal alaşım kurşun'dur. Hurufatlar yani harfler, özel döküm atölyelerinde ve içeriğinde üç ana metal kullanılarak üretilir. Hurufatların hem dayanıklılık hem iyi mürekkep transferi hem de düzgün satıh özelliğine sahip<br/>olabilmesi amacı ile kullanılan bu metal alaşımlar; kurşun (% 65-70), antimuan (% 20-25) ve kalay (Stannum) (% 5-10) dır. Bu metal karışımında kullanılan alaşımların harf bloğuna çeşitli katkıları vardır. Kurşun alaşımı, hurufatın genel yapısını oluştururken kullanılan antimuan hurufata sertlik, dolayısıyla dayanma gücü verirken kalay da metale dökümde kolaylık sağlar ve ona akıcılık<br/>verir."
+        "Aciklama": "TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ<br>Hurufatın gelen yapısını oluşturan metal alaşım kurşun'dur. Hurufatlar yani harfler, özel döküm atölyelerinde ve içeriğinde üç ana metal kullanılarak üretilir. Hurufatların hem dayanıklılık hem iyi mürekkep transferi hem de düzgün satıh özelliğine sahip<br/>olabilmesi amacı ile kullanılan bu metal alaşımlar; kurşun (% 65-70), antimuan (% 20-25) ve kalay (Stannum) (% 5-10) dır. Bu metal karışımında kullanılan alaşımların harf bloğuna çeşitli katkıları vardır. Kurşun alaşımı, hurufatın genel yapısını oluştururken kullanılan antimuan hurufata sertlik, dolayısıyla dayanma gücü verirken kalay da metale dökümde kolaylık sağlar ve ona akıcılık<br/>verir."
     },
     {
         "SoruID": 3764768,
-        "SoruMetni": "Hurufatın gövde kısmındaki parçalar ve tanımlarına ilişkin doğru eşleşme aşağıdakilerden hangisidir?<br/><br/><strong>PARÇA</strong><br/><br/>K-Resim<br/><br/>L-Et kısmı<br/><br/>M-İşaret kertiği<br/><br/>N-Punto<br/><br/><strong> TANIM</strong><br/><br/><ol><br/><li>Harfin doğru dizilmesi için dizgiciyi uyaran kısımdır.</li><br/><li>Mürekkep alıp baskı yapan kısımdır.</li><br/></ol>",
-        "A": "K-2 / M-1",
+        "SoruMetni": "Hurufatın gövde kısmındaki parçalar ve tanımlarına ilişkin doğru eşleşme aşağıdakilerden hangisidir?<br/><strong>PARÇA</strong><br/>K-Resim<br/>L-Et kısmı<br/>M-İşaret kertiği<br/>N-Punto<br/><strong> TANIM</strong><br/><ol><br/><li>Harfin doğru dizilmesi için dizgiciyi uyaran kısımdır.</li><br/><li>Mürekkep alıp baskı yapan kısımdır.</li><br/></ol>",
+        "A": "K-2 / M-1",
         "B": "L-1 / M-2",
         "C": "K-1 / N-2",
         "D": "M-1 / N-2",
@@ -1517,16 +1557,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hurufatın gövde kısmındaki parçalar ve tanımlarına ilişkin doğru eşleşme A seçeneğinde verilen \"K-2 / M-1\"dir. Genel anlamda incelendiğinde bir hurufat, baş ve gövde kısımlar olmak üzere iki ana unsurdan oluşur. Baş kısmı 3 parçadan oluşurken gövde kısmı ise 5 ana parçadan oluşur:<br/>• Harfin üstünde yer alan “Resim” kısmı mürekkep alıp baskı yapan kısımdır.<br/>• Resim kısmının oturduğu, daha kalın olan alt kısma ise harfin “Et kısmı” denir.<br/>• Altta tabana yakın bölümde bulunan kertiğe ise “işaret kertiği” adı verilir. İşaret kertiği<br/>harfin doğru dizilmesi için dizgiciyi uyarır.<br/>• Harfin enine olan boyutuna “kalınlık” denir.<br/>• Harfin resim kısmını taşıyan taban genişlik değeri o harfin “puntosu”dur."
+        "Aciklama": "TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ<br>Hurufatın gövde kısmındaki parçalar ve tanımlarına ilişkin doğru eşleşme A seçeneğinde verilen \"K-2 / M-1\"dir. Genel anlamda incelendiğinde bir hurufat, baş ve gövde kısımlar olmak üzere iki ana unsurdan oluşur. Baş kısmı 3 parçadan oluşurken gövde kısmı ise 5 ana parçadan oluşur:<br/>• Harfin üstünde yer alan “Resim” kısmı mürekkep alıp baskı yapan kısımdır.<br/>• Resim kısmının oturduğu, daha kalın olan alt kısma ise harfin “Et kısmı” denir.<br/>• Altta tabana yakın bölümde bulunan kertiğe ise “işaret kertiği” adı verilir. İşaret kertiği<br/>harfin doğru dizilmesi için dizgiciyi uyarır.<br/>• Harfin enine olan boyutuna “kalınlık” denir.<br/>• Harfin resim kısmını taşıyan taban genişlik değeri o harfin “puntosu”dur."
     },
     {
         "SoruID": 3764772,
         "SoruMetni": "Silindir kazanlı tipo baskı makineleri ile ilgili olarak aşağıda verilen ifadelerden hangisi <span style=\"text-decoration: underline;\">yanlıştır?</span>",
-        "A": "Baskı kazanları el tezgâhları ve pedallardaki gibi düz değil, silindir şeklindedir.<br/><br/>",
-        "B": "Hız, basınç şekli ve çalışma yöntemiyle diğer tipo baskı makinelerinden farklıdır.",
-        "C": "En önemli özelliği baskı basıncının yüksek olmasıdır.",
+        "A": "Baskı kazanları el tezgâhları ve pedallardaki gibi düz değil, silindir şeklindedir.",
+        "B": "Hız, basınç şekli ve çalışma yöntemiyle diğer tipo baskı makinelerinden farklıdır.",
+        "C": "En önemli özelliği baskı basıncının yüksek olmasıdır.",
         "D": "Baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilir.",
-        "E": "Tek turlu ve çift turlu baskı makineleri olmak üzere iki çeşittir.",
+        "E": "Tek turlu ve çift turlu baskı makineleri olmak üzere iki çeşittir.",
         "DogruCevap": "D",
         "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
         "Unite": 2,
@@ -1537,7 +1577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Silindir kazanlı tipo baskı makineleri ile ilgili olarak aşağıda verilen ifadelerden D seçeneği (<em>Baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilir</em>.)yanlıştır. Maşalı tipo baskı makineleri, baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilmektedir. Silindir Kazanlı Tipo Baskı Makinelerinde ise baskı kazanları el tezgâhları ve pedallardaki gibi düz değil, silindir şeklindedir. Hız, basınç şekli ve çalışma yöntemiyle diğer tipo baskı makinelerinden farklıdır. En önemli özelliği baskı basıncının yüksek olmasıdır. Silindir kazanlı tipo baskı makineleri, tek turlu (stop silindirli) ve çift turlu baskı makineleri olmak üzere iki çeşittir."
+        "Aciklama": "TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ<br>Silindir kazanlı tipo baskı makineleri ile ilgili olarak aşağıda verilen ifadelerden D seçeneği (<em>Baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilir</em>.)yanlıştır. Maşalı tipo baskı makineleri, baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilmektedir. Silindir Kazanlı Tipo Baskı Makinelerinde ise baskı kazanları el tezgâhları ve pedallardaki gibi düz değil, silindir şeklindedir. Hız, basınç şekli ve çalışma yöntemiyle diğer tipo baskı makinelerinden farklıdır. En önemli özelliği baskı basıncının yüksek olmasıdır. Silindir kazanlı tipo baskı makineleri, tek turlu (stop silindirli) ve çift turlu baskı makineleri olmak üzere iki çeşittir."
     },
     {
         "SoruID": 3764782,
@@ -1557,11 +1597,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipo baskıdan dijital döneme geçişte çoğaltımla ilgili olarak aşağıda verilen ifadelerden C seçeneği (<em>19.yüzyıl sonlarında, piksel denilen metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makineleri ortaya çıkmıştır.</em>) yanlıştır. O dönemde ortaya çıkan, metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makinelerinin adı piksel değil, matris'tir."
+        "Aciklama": "TİPO BASKIDAN DİJİTAL DÖNEME GEÇİŞTE ÇOĞALTIM<br>Tipo baskıdan dijital döneme geçişte çoğaltımla ilgili olarak aşağıda verilen ifadelerden C seçeneği (<em>19.yüzyıl sonlarında, piksel denilen metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makineleri ortaya çıkmıştır.</em>) yanlıştır. O dönemde ortaya çıkan, metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makinelerinin adı piksel değil, matris'tir."
     },
     {
         "SoruID": 3764783,
-        "SoruMetni": "------------- ; dizilen satırların birbirine karışıp bozulmaması için satır aralarına konulan genellikle iki punto genişliğindeki metaldir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "SoruMetni": "------------- ; dizilen satırların birbirine karışıp bozulmaması için satır aralarına konulan genellikle iki punto genişliğindeki metaldir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
         "A": "Anterlin",
         "B": "Garnitür",
         "C": "Mizantren",
@@ -1577,7 +1617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yukarıdaki cümlede boş bırakılan yeri A seçeneği (anterlin) doğru olarak tamamlar. Anterlin; dizilen satırların birbirine karışıp bozulmaması için satır aralarına konulan genellikle iki punto genişliğindeki metaldir."
+        "Aciklama": "TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ<br>Yukarıdaki cümlede boş bırakılan yeri A seçeneği (anterlin) doğru olarak tamamlar. Anterlin; dizilen satırların birbirine karışıp bozulmaması için satır aralarına konulan genellikle iki punto genişliğindeki metaldir."
     },
     {
         "SoruID": 3764791,
@@ -1601,7 +1641,7 @@
     },
     {
         "SoruID": 3764792,
-        "SoruMetni": "I. Dijitalleşme, insanlık için bir tercihtir.<br/> II. Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır.<br/> III. Yeni ürün ve hizmetlerin tanıtımı ve yaratılması tüm verilerin etkin kullanılabilmesi dijitalleşmenin olmazsa olmazıdır.<br/> IV. Dijital teknoloji ile arasını iyi tutan bireylerin iş bulma imkanları teknolojiyle ilişkisi kopuk olan bireylerden daha fazladır.<br/> V. Daha hızlı ve daha işe yarar sistemler geliştirmek ve geliştirilen sistemlerin tercih edilmesini sağlamak dijitalleşmenin bir sonucudur.<br/> Dijitalleşme ile ilgili yukarıdakilerden hangisi/hangileri doğrudur?",
+        "SoruMetni": "I. Dijitalleşme, insanlık için bir tercihtir.<br/>II. Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır.<br/>III. Yeni ürün ve hizmetlerin tanıtımı ve yaratılması tüm verilerin etkin kullanılabilmesi dijitalleşmenin olmazsa olmazıdır.<br/>IV. Dijital teknoloji ile arasını iyi tutan bireylerin iş bulma imkanları teknolojiyle ilişkisi kopuk olan bireylerden daha fazladır.<br/>V. Daha hızlı ve daha işe yarar sistemler geliştirmek ve geliştirilen sistemlerin tercih edilmesini sağlamak dijitalleşmenin bir sonucudur.<br/>Dijitalleşme ile ilgili yukarıdakilerden hangisi/hangileri doğrudur?",
         "A": "I, II, III ve IV",
         "B": "I, II, IV ve V",
         "C": "I, III ve IV",
@@ -1617,7 +1657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I. Dijitalleşme, insanlık için bir <strong>tercih değil bir zorunluluktur. </strong>II. Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır. III. Yeni ürün ve hizmetlerin tanıtımı ve yaratılması tüm verilerin etkin kullanılabilmesi dijitalleşmenin olmazsa olmazıdır. IV. Dijital teknoloji ile arasını iyi tutan bireylerin iş bulma imkanları teknolojiyle ilişkisi kopuk olan bireylerden daha fazladır. V. Daha hızlı ve daha işe yarar sistemler geliştirmek ve geliştirilen sistemlerin tercih edilmesini sağlamak dijitalleşmenin bir sonucudur."
+        "Aciklama": "I. Dijitalleşme, insanlık için bir <strong>tercih değil bir zorunluluktur. </strong>II. Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır. III. Yeni ürün ve hizmetlerin tanıtımı ve yaratılması tüm verilerin etkin kullanılabilmesi dijitalleşmenin olmazsa olmazıdır. IV. Dijital teknoloji ile arasını iyi tutan bireylerin iş bulma imkanları teknolojiyle ilişkisi kopuk olan bireylerden daha fazladır. V. Daha hızlı ve daha işe yarar sistemler geliştirmek ve geliştirilen sistemlerin tercih edilmesini sağlamak dijitalleşmenin bir sonucudur."
     },
     {
         "SoruID": 3764793,
@@ -1657,7 +1697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Sanatsal baskı dediğimiz geleneksel (Traditional) baskı teknikleri linol, ağaç, gravür, <strong>litografi</strong> vb. ile yapılan çalışmalar çoğaltılır.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Sanatsal baskı dediğimiz geleneksel (Traditional) baskı teknikleri linol, ağaç, gravür, <strong>litografi</strong> vb. ile yapılan çalışmalar çoğaltılır."
     },
     {
         "SoruID": 3764795,
@@ -1681,7 +1721,7 @@
     },
     {
         "SoruID": 3764796,
-        "SoruMetni": "I. Yüksek baskı sisteminde Tipo baskı ve flekso baskı olmak üzere iki baskı çeşidi bulunmaktadır.<br/> II. Yüksek baskı tekniğinde baskıyı gerçekleştiren kalıp yüzeyinin seviyesi, baskı yapmayan bölümlere oranla daha alçaktır.<br/> III. Kalıptaki görüntü baskı altı malzemesiyle direkt temas hâlinde iken belli bir basınç (forsa) yardımıyla transfer edilir.<br/> IV. Daktilo tuşlarına bağlı harf kalıpları çok kaba da olsa tipo baskı sistemini açıklamaya yeter.<br/> V. Baskı altı malzemesinin üzerinde görüntünün düz çıkması için Tipo Baskı kalıbında görüntünün baskı yapan yerlerde düz olması kaçınılmazdır.<br/> Tipo baskı ile ilgili yukardakilerden hangisi/hangileri doğrudur?",
+        "SoruMetni": "I. Yüksek baskı sisteminde Tipo baskı ve flekso baskı olmak üzere iki baskı çeşidi bulunmaktadır.<br/>II. Yüksek baskı tekniğinde baskıyı gerçekleştiren kalıp yüzeyinin seviyesi, baskı yapmayan bölümlere oranla daha alçaktır.<br/>III. Kalıptaki görüntü baskı altı malzemesiyle direkt temas hâlinde iken belli bir basınç (forsa) yardımıyla transfer edilir.<br/>IV. Daktilo tuşlarına bağlı harf kalıpları çok kaba da olsa tipo baskı sistemini açıklamaya yeter.<br/>V. Baskı altı malzemesinin üzerinde görüntünün düz çıkması için Tipo Baskı kalıbında görüntünün baskı yapan yerlerde düz olması kaçınılmazdır.<br/>Tipo baskı ile ilgili yukardakilerden hangisi/hangileri doğrudur?",
         "A": "I, II ve III",
         "B": "II, III ve IV",
         "C": "I, III ve IV",
@@ -1697,11 +1737,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I. Yüksek baskı sisteminde Tipo baskı ve flekso baskı olmak üzere iki baskı çeşidi bulunmaktadır.  <br/> II. Yüksek baskı tekniğinde baskıyı gerçekleştiren kalıp yüzeyinin seviyesi, baskı yapmayan bölümlere oranla daha <strong>yüksektir.  </strong><br/> III. Kalıptaki görüntü baskı altı malzemesiyle direkt temas hâlinde iken belli bir basınç (forsa) yardımıyla transfer edilir.<br/> IV. Daktilo tuşlarına bağlı harf kalıpları çok kaba da olsa tipo baskı sistemini açıklamaya yeter.<br/> V. Baskı altı malzemesinin üzerinde görüntünün düz çıkması için Tipo Baskı kalıbında görüntünün baskı yapan yerlerde <strong>ters</strong> olması kaçınılmazdır."
+        "Aciklama": "I. Yüksek baskı sisteminde Tipo baskı ve flekso baskı olmak üzere iki baskı çeşidi bulunmaktadır. <br/>II. Yüksek baskı tekniğinde baskıyı gerçekleştiren kalıp yüzeyinin seviyesi, baskı yapmayan bölümlere oranla daha <strong>yüksektir. </strong><br/>III. Kalıptaki görüntü baskı altı malzemesiyle direkt temas hâlinde iken belli bir basınç (forsa) yardımıyla transfer edilir.<br/>IV. Daktilo tuşlarına bağlı harf kalıpları çok kaba da olsa tipo baskı sistemini açıklamaya yeter.<br/>V. Baskı altı malzemesinin üzerinde görüntünün düz çıkması için Tipo Baskı kalıbında görüntünün baskı yapan yerlerde <strong>ters</strong> olması kaçınılmazdır."
     },
     {
         "SoruID": 3764797,
-        "SoruMetni": "1440 yılında Johannes Gutenberg’in icat ettiği metal harf kalıplarına ne ad verilir?",
+        "SoruMetni": "1440 yılında Johannes Gutenberg’in icat ettiği metal harf kalıplarına ne ad verilir?",
         "A": "Letterpress",
         "B": "Hurufat",
         "C": "Kaşe",
@@ -1761,7 +1801,7 @@
     },
     {
         "SoruID": 3764800,
-        "SoruMetni": "'Metal harflerin el ile kumpasta dizildiği uzunca bir dönemin ardından, 19. yüzyıl sonlarında, <span style=\"text-decoration: underline;\"><strong>...</strong></span>   diye adlandırılan metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makinaları ortaya çıkmıştır' anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
+        "SoruMetni": "'Metal harflerin el ile kumpasta dizildiği uzunca bir dönemin ardından, 19. yüzyıl sonlarında, <span style=\"text-decoration: underline;\"><strong>...</strong></span> diye adlandırılan metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makinaları ortaya çıkmıştır' anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Linotype",
         "B": "Dizgi",
         "C": "Glif",
@@ -1821,7 +1861,7 @@
     },
     {
         "SoruID": 3764355,
-        "SoruMetni": "Aşağıdakilerden hangisi üç boyutlu nesneleri tanımlarken ışığı ve gölgeyi temsil etmek için kullanılan teknik olarak adlandırılmaktadır?",
+        "SoruMetni": "Aşağıdakilerden hangisi üç boyutlu nesneleri tanımlarken ışığı ve gölgeyi temsil etmek için kullanılan teknik olarak adlandırılmaktadır?",
         "A": "Chiaroscuro",
         "B": "Kurukazıma",
         "C": "Xylographica",
@@ -1837,7 +1877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Chiaroscuro: </strong>İtalyanca chiaro , “ışık” ve scuro , “karanlık” kelimelerinin bir araya gelmesiyle oluşan terim, görsel sanatlarda üç boyutlu nesneleri tanımlarken ışığı ve gölgeyi temsil etmek için kullanılan teknik olarak adlandırılmaktadır.<span> Cevap A'dır.</span>"
+        "Aciklama": "<strong>Chiaroscuro: </strong>İtalyanca chiaro , “ışık” ve scuro , “karanlık” kelimelerinin bir araya gelmesiyle oluşan terim, görsel sanatlarda üç boyutlu nesneleri tanımlarken ışığı ve gölgeyi temsil etmek için kullanılan teknik olarak adlandırılmaktadır.<span> Cevap A'dır.</span>"
     },
     {
         "SoruID": 3764356,
@@ -1861,7 +1901,7 @@
     },
     {
         "SoruID": 3764357,
-        "SoruMetni": "Aşağıdakilerden hangisi Avrupa’da hem metin hem de illüstrasyon içerecek şekilde oyulmuş ahşap baskılar olarak basılan, 50 yaprağa kadar kısa kitaplardır?",
+        "SoruMetni": "Aşağıdakilerden hangisi Avrupa’da hem metin hem de illüstrasyon içerecek şekilde oyulmuş ahşap baskılar olarak basılan, 50 yaprağa kadar kısa kitaplardır?",
         "A": "Chiaroscuro",
         "B": "Criblé",
         "C": "Xylographica",
@@ -1878,6 +1918,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "<strong>Xylographica </strong>olarak da adlandırılan blok kitaplar, 15. yüzyılın ikinci yarısında Avrupa’da hem metin hem de illüstrasyon içerecek şekilde oyulmuş ahşap baskılar olarak basılan, 50 yaprağa kadar kısa kitaplardır.Cevap C'dir."
+    },
+    {
+        "SoruID": 3764358,
+        "SoruMetni": "Aşağıdakilerden hangisi tipo baskıda yaygın olarak kullanılan baskı plakası türüdür?",
+        "A": "Asit Oyma",
+        "B": "Kurukazıma",
+        "C": "Mezzotint",
+        "D": "Stereotip Baskı",
+        "E": "Yumuşak vernik",
+        "DogruCevap": "D",
+        "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+        "Unite": 3,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:51.156752",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<strong>Stereotip Baskı: </strong>Tipo baskıda yaygın olarak kullanılan baskı plakası türüdür. Gazete ve diğer yüksek hızlı basın çalışmaları basımı için uygundur. Stereotip baskıda tam bir gazete sayfasının tipografik sütunları, illüstrasyon plakaları tek bir formda getirilir. Hazırlanan kalıp tek seferde bütün plakanın görüntüsünün alınacağı şekilde basılarak sonuçlandırılır.<span> Cevap D'dir.</span>"
     },
     {
         "SoruID": 3764359,
@@ -1897,7 +1957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Aquatint: </strong>Plaka üzerinde tonal alanları oluşturmak için kullanılan bir tekniktir. Önce plaka reçine tozu ile kaplanır ve plaka üzerine kaplanmış olan bu toz ısı yoluyla plakaya eriterek yapışması sağlanır. Burada amaç gözenekli bir zemin kazandırmaktır. Plaka asit tankının içine atıldığında reçinenin asitten etkilenmemesi sayesinde bu noktalar korunur ve dışında kalan alanlar asitte erimeye ve aşınmaya başlar. Aşınan bu boşluklar mürekkebi tutar. Boşlukların yoğunluğuna, genişliğine ve asitte kalma süresine bağlı olarak oluşan derinliklere bağlı olarak çeşitli tonlar ve dokular oluşturulabilir.<span> Cevap E'dir.</span>"
+        "Aciklama": "<strong>Aquatint: </strong>Plaka üzerinde tonal alanları oluşturmak için kullanılan bir tekniktir. Önce plaka reçine tozu ile kaplanır ve plaka üzerine kaplanmış olan bu toz ısı yoluyla plakaya eriterek yapışması sağlanır. Burada amaç gözenekli bir zemin kazandırmaktır. Plaka asit tankının içine atıldığında reçinenin asitten etkilenmemesi sayesinde bu noktalar korunur ve dışında kalan alanlar asitte erimeye ve aşınmaya başlar. Aşınan bu boşluklar mürekkebi tutar. Boşlukların yoğunluğuna, genişliğine ve asitte kalma süresine bağlı olarak oluşan derinliklere bağlı olarak çeşitli tonlar ve dokular oluşturulabilir.<span> Cevap E'dir.</span>"
     },
     {
         "SoruID": 3764360,
@@ -1921,7 +1981,7 @@
     },
     {
         "SoruID": 3764361,
-        "SoruMetni": "Aşağıdakilerden hangisi ışığa duyarlı bir emülsiyonun metal plaka üzerine uygulanıp pozlanmasıyla elde edilen görüntünün baskısının alınması ile sonuca ulaşılan bir çukurbaskı yöntemidir?",
+        "SoruMetni": "Aşağıdakilerden hangisi ışığa duyarlı bir emülsiyonun metal plaka üzerine uygulanıp pozlanmasıyla elde edilen görüntünün baskısının alınması ile sonuca ulaşılan bir çukurbaskı yöntemidir?",
         "A": "Fotogravür",
         "B": "Fotogalvanografi",
         "C": "Kolotip baskı",
@@ -1941,7 +2001,7 @@
     },
     {
         "SoruID": 3764362,
-        "SoruMetni": "Aşağıdakilerden hangisinde metal levha üzerinde mürekkebi tutan küçük noktacıklar vardır?",
+        "SoruMetni": "Aşağıdakilerden hangisinde metal levha üzerinde mürekkebi tutan küçük noktacıklar vardır?",
         "A": "Sert vernik",
         "B": "Yumuşak vernik",
         "C": "Mezzonit",
@@ -1957,11 +2017,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Mezzotint: </strong>Bu teknikte metal levha üze-rinde mürekkebi tutan küçük noktacıklar vardır. Bu noktacıklar bir dişli bıçak ile yüzeyde oluşturulmuştur. İlk önce yüzeye tek bir yönde uygulanan dişli bıçak uygula-ması, sonra zıt yönde ikinci nokta örtüsünü oluşturacak şekilde uygulanır. Bu işlem dik, yatay, yan olmak üzere değişik yönlerde çok kez tekrarlanır. Böylece levhanın tüm yüze-yi çok sık nokta dokusu ile örtülmüş olur. Beyaz veya çeşitli tonlar elde etmek için de sıyırıcı veya mıskala yardımı ile noktacıklar yok edilerek ya da gri tonların ortaya çık-masını sağlayacak şekilde basınç uygulaya-rak desen oluşturulur. Diğer çukur baskı tekniklerinden en büyük farkı, çizim için hazırlanan plakanın başlangıçta tamamen siyah olması ve deseni oluşturmak için açık ve gri tonlara gidilmesi oluşturmaktadır.<span> Cevap C'dir.</span>"
+        "Aciklama": "<strong>Mezzotint: </strong>Bu teknikte metal levha üze-rinde mürekkebi tutan küçük noktacıklar vardır. Bu noktacıklar bir dişli bıçak ile yüzeyde oluşturulmuştur. İlk önce yüzeye tek bir yönde uygulanan dişli bıçak uygula-ması, sonra zıt yönde ikinci nokta örtüsünü oluşturacak şekilde uygulanır. Bu işlem dik, yatay, yan olmak üzere değişik yönlerde çok kez tekrarlanır. Böylece levhanın tüm yüze-yi çok sık nokta dokusu ile örtülmüş olur. Beyaz veya çeşitli tonlar elde etmek için de sıyırıcı veya mıskala yardımı ile noktacıklar yok edilerek ya da gri tonların ortaya çık-masını sağlayacak şekilde basınç uygulaya-rak desen oluşturulur. Diğer çukur baskı tekniklerinden en büyük farkı, çizim için hazırlanan plakanın başlangıçta tamamen siyah olması ve deseni oluşturmak için açık ve gri tonlara gidilmesi oluşturmaktadır.<span> Cevap C'dir.</span>"
     },
     {
         "SoruID": 3764363,
-        "SoruMetni": "Aşağıdakilerden hangisi dokuların metal bir pla-ka yüzeyinde asit ile girdiği reaksiyon sonucu oluştu-rulmasıyla elde edilen çukur baskı tekniğidir?",
+        "SoruMetni": "Aşağıdakilerden hangisi dokuların metal bir pla-ka yüzeyinde asit ile girdiği reaksiyon sonucu oluştu-rulmasıyla elde edilen çukur baskı tekniğidir?",
         "A": "Kurukazıma",
         "B": "Yumuşak vernik",
         "C": "Xylographica",
@@ -1977,11 +2037,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Asit Oyma: </strong>İçizgilerin veya dokuların metal bir pla-ka yüzeyinde asit ile girdiği reaksiyon sonucu oluştu-rulmasıyla elde edilen çukur baskı tekniğidir. Metal plaka önce aside dayanıklı bir kaplama ile kaplanır (zemin ). Tasarım daha sonra çizilir. Çizgi yüzeyinde metal plaka üzerindeki kaplama maddesi kaldırılırak bu alanlardaki metal açığa çıkar. Son olarak, plaka, açıkta kalan alanlarda istenen derinlik ve genişliğe ulaşılana kadar bir asit çözeltisine daldırılır.<span> Cevap D'dir.</span>"
+        "Aciklama": "<strong>Asit Oyma: </strong>İçizgilerin veya dokuların metal bir pla-ka yüzeyinde asit ile girdiği reaksiyon sonucu oluştu-rulmasıyla elde edilen çukur baskı tekniğidir. Metal plaka önce aside dayanıklı bir kaplama ile kaplanır (zemin ). Tasarım daha sonra çizilir. Çizgi yüzeyinde metal plaka üzerindeki kaplama maddesi kaldırılırak bu alanlardaki metal açığa çıkar. Son olarak, plaka, açıkta kalan alanlarda istenen derinlik ve genişliğe ulaşılana kadar bir asit çözeltisine daldırılır.<span> Cevap D'dir.</span>"
     },
     {
         "SoruID": 3764364,
-        "SoruMetni": "Aşağıdakilerden hangisi ilk metal çukur baskı örneğidir?",
+        "SoruMetni": "Aşağıdakilerden hangisi ilk metal çukur baskı örneğidir?",
         "A": "Asit oyma",
         "B": "Yumuşak vernik",
         "C": "Kurukazıma",
@@ -1997,7 +2057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Criblé: </strong>İlk metal çukur baskı örneğidir. Criblé veya noktalı baskı olarak bilinen bu baskılar,15. yüzyılın ikinci yarısında yapılmıştır. Tasarım, metal üzerine ucu sivri bir kalem ile kuvvet uygulanarak oluşturulmuş küçük noktalarla gerçekleştirilmektedir.<span> Cevap E'dir.</span>"
+        "Aciklama": "<strong>Criblé: </strong>İlk metal çukur baskı örneğidir. Criblé veya noktalı baskı olarak bilinen bu baskılar,15. yüzyılın ikinci yarısında yapılmıştır. Tasarım, metal üzerine ucu sivri bir kalem ile kuvvet uygulanarak oluşturulmuş küçük noktalarla gerçekleştirilmektedir.<span> Cevap E'dir.</span>"
     },
     {
         "SoruID": 3764385,
@@ -2037,7 +2097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Metal kalıp ile ilgili önemli bir buluş yine bu yüzyılın sonlarına doğru Hollanda’da bulunmuştur. Master of the Housebook veya Master of the Amsterdam Cabinet adıyla bilinen Hollandalı sanatçı, <strong>Kurukazıma</strong> olarak bilinen tekniği icat etmiş ve bu teknikle eser vermiştir. Bu baskıresimler Hollanda’nın Rijksmuseum müzesinde kondisyonları oldukça iyi konumda bugüne kadar gelebilmiş olan nadir baskıresimlerdir.( Görsel 3.10.)<br/>Baskıresmin teknik gelişmesine oldukça önemli bir katkı yapan bu buluş daha sonraları<strong> Albrecht Dürer ve Rembrandt tarafından kullanılmış,</strong> özellikle 19. yüzyılda metal kalıp teknolojisinin gelişmesiyle<br/>beraber yaygınlaşmıştır.<br/><br/>Kurukazıma en çok diğer baskı teknikleriyle birlikte kullanılır. Örneğin, neredeyse tamamlanmış bir baskıresime koyu vurgular vermek için kullanılabilir veya başlangıçta tasarımı<br>metal levha üzerine çizmek için kullanılabilir.</br>"
+        "Aciklama": "Metal kalıp ile ilgili önemli bir buluş yine bu yüzyılın sonlarına doğru Hollanda’da bulunmuştur. Master of the Housebook veya Master of the Amsterdam Cabinet adıyla bilinen Hollandalı sanatçı, <strong>Kurukazıma</strong> olarak bilinen tekniği icat etmiş ve bu teknikle eser vermiştir. Bu baskıresimler Hollanda’nın Rijksmuseum müzesinde kondisyonları oldukça iyi konumda bugüne kadar gelebilmiş olan nadir baskıresimlerdir.( Görsel 3.10.)<br/>Baskıresmin teknik gelişmesine oldukça önemli bir katkı yapan bu buluş daha sonraları<strong> Albrecht Dürer ve Rembrandt tarafından kullanılmış,</strong> özellikle 19. yüzyılda metal kalıp teknolojisinin gelişmesiyle<br/>beraber yaygınlaşmıştır.<br/>Kurukazıma en çok diğer baskı teknikleriyle birlikte kullanılır. Örneğin, neredeyse tamamlanmış bir baskıresime koyu vurgular vermek için kullanılabilir veya başlangıçta tasarımı<br/>metal levha üzerine çizmek için kullanılabilir.</br>"
     },
     {
         "SoruID": 3764387,
@@ -2101,7 +2161,7 @@
     },
     {
         "SoruID": 3764390,
-        "SoruMetni": "\"Tifdruk baskı, endüstrileşmiş baskı yöntemleri içerisinde <strong>................</strong> yöntemi ile çalışan tek baskı yöntemidir.\"<br/><br/>Yukarıdaki cümlede boşluğu doğru şekilde dolduran ifade aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Tifdruk baskı, endüstrileşmiş baskı yöntemleri içerisinde <strong>................</strong> yöntemi ile çalışan tek baskı yöntemidir.\"<br/>Yukarıdaki cümlede boşluğu doğru şekilde dolduran ifade aşağıdakilerden hangisidir?",
         "A": "Çukur baskı",
         "B": "Fotogravür",
         "C": "Kolotip baskı",
@@ -2137,7 +2197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tifdruk Baskı Üretiminde Temel Elemanlar<br/><strong>Tifdruk Baskı Mürekkepleri, Rakle, Baskı Silindiri, Mürekkep Ünitesi,  Kurutma Sistemi</strong>"
+        "Aciklama": "Tifdruk Baskı Üretiminde Temel Elemanlar<br/><strong>Tifdruk Baskı Mürekkepleri, Rakle, Baskı Silindiri, Mürekkep Ünitesi, Kurutma Sistemi</strong>"
     },
     {
         "SoruID": 3764400,
@@ -2157,7 +2217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dezavantajları;<br/>• Kurulum maliyetinin yüksek olması,<br/>• Küçük tirajlar için maliyet değerlerinin yüksekliği,<br/>• Kullanılan bazı mürekkeplerin çevre ve insan sağlığı açısından risk oluşturması <br/>tifdruk baskı tekniğinin dezavantajlı yanlarını oluşturmaktadır."
+        "Aciklama": "Dezavantajları;<br/>• Kurulum maliyetinin yüksek olması,<br/>• Küçük tirajlar için maliyet değerlerinin yüksekliği,<br/>• Kullanılan bazı mürekkeplerin çevre ve insan sağlığı açısından risk oluşturması <br/>tifdruk baskı tekniğinin dezavantajlı yanlarını oluşturmaktadır."
     },
     {
         "SoruID": 3764407,
@@ -2177,11 +2237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lazer işleme teknolojisi; baskı yapılacak yüzeye bilgisayar ortamında tasarlanan tasarımın, bilgisayara bağlı lazer gravür makinesi ile işlenmesi işlemidir. İşlem yöntemi temel olarak elektromekanik yöntemle büyük benzerlikler taşımaktadır.<br/><br/>Aradaki temel farklar;<br>• Silindir hazırlama işleminde bakır kaplama yerine çinko kaplama yapılması,<br/>• Gravür makinesine gönderilecek tasarımın arayüz programının farklılığı,<br/>• Oyma işleminin lazer ışınlarıyla yapılmasından oluşmaktadır.<br/>• Gelişen teknolojilerin bu yönteme hızlı adapte edilmesi, endüstriyel anlamda bu<br/>tekniğin ileriye dönük kullanım alanını genişletmekte ve tekniğe verilen önemi artırmaktadır.</br>"
+        "Aciklama": "Lazer işleme teknolojisi; baskı yapılacak yüzeye bilgisayar ortamında tasarlanan tasarımın, bilgisayara bağlı lazer gravür makinesi ile işlenmesi işlemidir. İşlem yöntemi temel olarak elektromekanik yöntemle büyük benzerlikler taşımaktadır.<br/>Aradaki temel farklar;<br/>• Silindir hazırlama işleminde bakır kaplama yerine çinko kaplama yapılması,<br/>• Gravür makinesine gönderilecek tasarımın arayüz programının farklılığı,<br/>• Oyma işleminin lazer ışınlarıyla yapılmasından oluşmaktadır.<br/>• Gelişen teknolojilerin bu yönteme hızlı adapte edilmesi, endüstriyel anlamda bu<br/>tekniğin ileriye dönük kullanım alanını genişletmekte ve tekniğe verilen önemi artırmaktadır.</br>"
     },
     {
         "SoruID": 3764409,
-        "SoruMetni": "\"Lazer işleme teknolojisi; baskı yapılacak yüzeye bilgisayar ortamında tasarlanan tasarımın, bilgisayara bağlı lazer <strong>..............</strong> makinesi ile işlenmesi işlemidir.\"<br/><br/>Yukarıdaki cümlede boşluğu <span style=\"text-decoration: underline;\">doğru</span> şekilde dolduran ifade aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Lazer işleme teknolojisi; baskı yapılacak yüzeye bilgisayar ortamında tasarlanan tasarımın, bilgisayara bağlı lazer <strong>..............</strong> makinesi ile işlenmesi işlemidir.\"<br/>Yukarıdaki cümlede boşluğu <span style=\"text-decoration: underline;\">doğru</span> şekilde dolduran ifade aşağıdakilerden hangisidir?",
         "A": "Işın",
         "B": "Çinko",
         "C": "Gravür",
@@ -2222,11 +2282,11 @@
     {
         "SoruID": 3764725,
         "SoruMetni": "Aşağıdakilerden hangisi doğrudur?",
-        "A": "<br/> <br/> <br/> <br/>Yaklaşık 5 metre uzunluğunda olan Diamond Sutra rulosu ahşap baskıyla basılan ilk örnektir.<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>İlk kağıt makinesi 1151 yılında icat edilmiştir.<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>1840 yılına kadar pamuk ipliği ile üretilen kağıtlar seri üretime hız vermiştir.<br/><br/><br/><br/>",
+        "A": "<br/>Yaklaşık 5 metre uzunluğunda olan Diamond Sutra rulosu ahşap baskıyla basılan ilk örnektir.",
+        "B": "<br/>İlk kağıt makinesi 1151 yılında icat edilmiştir.",
+        "C": "<br/>1840 yılına kadar pamuk ipliği ile üretilen kağıtlar seri üretime hız vermiştir.",
         "D": "Günümüze ulaşan en eski tarihli Avrupa ahşap baskıresimleri Kartenmahler adıyla bilinen İskambil oyun kartlarıdır.",
-        "E": "<br/> <br/> <br/> <br/>Metal kalıplar da ahşap kalıplar gibi oyulması rahat ve kolay kalıplardır.<br/><br/><br/><br/>",
+        "E": "<br/>Metal kalıplar da ahşap kalıplar gibi oyulması rahat ve kolay kalıplardır.",
         "DogruCevap": "D",
         "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
         "Unite": 3,
@@ -2237,7 +2297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>Yaklaşık 5 metre uzunluğunda olan Diamond Sutra rulosu ahşap baskıyla basılan <strong>ilk örnek olmamasına karşın bugün elimize ulaşan en eski örnektir.</strong><br/><br/>İlk kağıt makinesi <strong>1798</strong> yılında icat edilmiştir.<br/><br/>1840 yılına kadar pamuk ipliği ile üretilen kağıtlar <strong>seri üretimde yavaşlığa sebebiyet vermektedir. </strong><br/><br/>Günümüze ulaşan en eski tarihli Avrupa ahşap baskıresimler Kartenmahler adıyla bilinen İskambil oyun kartlarıdır<br/><br/> <br/> <br/> <br/> <br/>Metal kalıp ahşap kalıp gibi oyulması <strong>rahat ve kolay olmadığından</strong> dolayı oyma işlemi için bir çözüme ihtiyaç duymaktadır.<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>"
+        "Aciklama": "<br/>Yaklaşık 5 metre uzunluğunda olan Diamond Sutra rulosu ahşap baskıyla basılan <strong>ilk örnek olmamasına karşın bugün elimize ulaşan en eski örnektir.</strong><br/>İlk kağıt makinesi <strong>1798</strong> yılında icat edilmiştir.<br/>1840 yılına kadar pamuk ipliği ile üretilen kağıtlar <strong>seri üretimde yavaşlığa sebebiyet vermektedir. </strong><br/>Günümüze ulaşan en eski tarihli Avrupa ahşap baskıresimler Kartenmahler adıyla bilinen İskambil oyun kartlarıdır<br/>Metal kalıp ahşap kalıp gibi oyulması <strong>rahat ve kolay olmadığından</strong> dolayı oyma işlemi için bir çözüme ihtiyaç duymaktadır."
     },
     {
         "SoruID": 3764739,
@@ -2281,7 +2341,7 @@
     },
     {
         "SoruID": 3764741,
-        "SoruMetni": "I. Tifdruk baskıda silindir bir yüzey üzerine geçirilmiş klişe adı verilen plakalar kullanılır.<br/> II. Tifdruk baskı sisteminin en önemli özelliği baskı kalitesini bozmadan birbirinin tıpatıp benzeri baskı almayı mümkün kılmasıdır.<br/> III. Ofset baskı sistemi oyma klişe kullanma esasına dayanmaktadır.<br/> IV. Tifdruk baskı, endüstrileşmiş baskı yöntemleri içerisinde çukur baskı yöntemi ile çalışan tek baskı yöntemidir.<br/> V Ofset baskı tifdruk baskıya oranla daha kaliteli bir sonuca ulaşmayı mümkün kılmaktadır.<br/> Yukarıdaki tanımlardan hangisi/hangileri doğrudur?",
+        "SoruMetni": "I. Tifdruk baskıda silindir bir yüzey üzerine geçirilmiş klişe adı verilen plakalar kullanılır.<br/>II. Tifdruk baskı sisteminin en önemli özelliği baskı kalitesini bozmadan birbirinin tıpatıp benzeri baskı almayı mümkün kılmasıdır.<br/>III. Ofset baskı sistemi oyma klişe kullanma esasına dayanmaktadır.<br/>IV. Tifdruk baskı, endüstrileşmiş baskı yöntemleri içerisinde çukur baskı yöntemi ile çalışan tek baskı yöntemidir.<br/>V Ofset baskı tifdruk baskıya oranla daha kaliteli bir sonuca ulaşmayı mümkün kılmaktadır.<br/>Yukarıdaki tanımlardan hangisi/hangileri doğrudur?",
         "A": "I, II ve III",
         "B": "II, III ve IV",
         "C": "III, IV ve V",
@@ -2297,7 +2357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tifdruk baskıda silindir bir yüzey üzerine geçirilmiş klişe adı verilen plakalar kullanılır.<br/> Tifdruk baskı sisteminin en önemli özelliği baskı kalitesini bozmadan birbirinin tıpatıp benzeri baskı almayı mümkün kılmasıdır.<br/>         <strong>Ofset baskı sisteminin aksine, tifdruk baskıda kabartma klişe yerine oyma klişe kullanılmaktadır.</strong><br/> Tifdruk baskı, endüstrileşmiş baskı yöntemleri içerisinde çukur baskı yöntemi ile çalışan tek baskı yöntemidir.<br/>         <strong>Tifdruk baskıda yüzey üzerinde açılmış olan oyuklar hem çok küçük hem de farklı derinliklere sahip oldukları için ofset baskıya oranla daha kaliteli bir sonuca ulaşmayı mümkün kılmaktadır.</strong>"
+        "Aciklama": "Tifdruk baskıda silindir bir yüzey üzerine geçirilmiş klişe adı verilen plakalar kullanılır.<br/>Tifdruk baskı sisteminin en önemli özelliği baskı kalitesini bozmadan birbirinin tıpatıp benzeri baskı almayı mümkün kılmasıdır.<br/><strong>Ofset baskı sisteminin aksine, tifdruk baskıda kabartma klişe yerine oyma klişe kullanılmaktadır.</strong><br/>Tifdruk baskı, endüstrileşmiş baskı yöntemleri içerisinde çukur baskı yöntemi ile çalışan tek baskı yöntemidir.<br/><strong>Tifdruk baskıda yüzey üzerinde açılmış olan oyuklar hem çok küçük hem de farklı derinliklere sahip oldukları için ofset baskıya oranla daha kaliteli bir sonuca ulaşmayı mümkün kılmaktadır.</strong>"
     },
     {
         "SoruID": 3764742,
@@ -2337,11 +2397,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Ambalaj Üretiminde Tifdruk Baskı</strong>: Tifdruk baskının en yaygın olarak kullanıldığı bu sektör; fleksible ambalaj basımı, karton basımı, etiket ve ambalaj basımı olarak üçe ayrılmaktadır."
+        "Aciklama": "<strong>Ambalaj Üretiminde Tifdruk Baskı</strong>: Tifdruk baskının en yaygın olarak kullanıldığı bu sektör; fleksible ambalaj basımı, karton basımı, etiket ve ambalaj basımı olarak üçe ayrılmaktadır."
     },
     {
         "SoruID": 3764744,
-        "SoruMetni": "Tifdruk baskı ile ilgili aşağıdakilerden hangisi/hangileri doğrudur?<br/> I. En iyi baskı kalitesini sunan basım sistemlerinden biri olması, II.Basım aşamasında yüksek bir hıza sahip olması, III. Kurulum maliyetinin düşük olması, IV. Baskı sisteminin otomatik işleyen sürecinin işçilik maliyetlerini yükseltmesi, V. Tifdruk baskı makinelerinin bakım kolaylığı ve dayanıklı olmaları.",
+        "SoruMetni": "Tifdruk baskı ile ilgili aşağıdakilerden hangisi/hangileri doğrudur?<br/>I. En iyi baskı kalitesini sunan basım sistemlerinden biri olması, II.Basım aşamasında yüksek bir hıza sahip olması, III. Kurulum maliyetinin düşük olması, IV. Baskı sisteminin otomatik işleyen sürecinin işçilik maliyetlerini yükseltmesi, V. Tifdruk baskı makinelerinin bakım kolaylığı ve dayanıklı olmaları.",
         "A": "I, II ve V",
         "B": "I, II ve III",
         "C": "II, III ve IV",
@@ -2357,7 +2417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I. En iyi baskı kalitesini sunan basım sistemlerinden biri olması, II.Basım aşamasında yüksek bir hıza sahip olması, III. Kurulum maliyetinin <strong>yüksek</strong> olması, IV. Baskı sisteminin otomatik işleyen sürecinin işçilik maliyetlerini <strong>düşürmesi</strong>, V. Tifdruk baskı makinelerinin bakım kolaylığı ve dayanıklı olmaları."
+        "Aciklama": "I. En iyi baskı kalitesini sunan basım sistemlerinden biri olması, II.Basım aşamasında yüksek bir hıza sahip olması, III. Kurulum maliyetinin <strong>yüksek</strong> olması, IV. Baskı sisteminin otomatik işleyen sürecinin işçilik maliyetlerini <strong>düşürmesi</strong>, V. Tifdruk baskı makinelerinin bakım kolaylığı ve dayanıklı olmaları."
     },
     {
         "SoruID": 3764745,
@@ -2377,7 +2437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İğnelerin uçları işe göre <span style=\"text-decoration: underline;\"><strong>110-130 derece</strong></span> arasında değişmektedir. Açı azaldıkça iğne ucu sivrileşir ve bakıra daha fazla dalar. <span style=\"text-decoration: underline;\"><strong>Açı arttıkça kütleşir ve bakıra daha az dalar</strong></span><strong>. </strong>Elmas uçlu iğne, silindire göre daha<span style=\"text-decoration: underline;\"><strong> hızlı</strong></span> hareket ederek bakır kalıba farklı derinliklerde hücreleri oluşturur. Saniyede yaklaşık <span style=\"text-decoration: underline;\"><strong>4000 hücre</strong></span> oluşturulmaktadır."
+        "Aciklama": "İğnelerin uçları işe göre <span style=\"text-decoration: underline;\"><strong>110-130 derece</strong></span> arasında değişmektedir. Açı azaldıkça iğne ucu sivrileşir ve bakıra daha fazla dalar. <span style=\"text-decoration: underline;\"><strong>Açı arttıkça kütleşir ve bakıra daha az dalar</strong></span><strong>. </strong>Elmas uçlu iğne, silindire göre daha<span style=\"text-decoration: underline;\"><strong> hızlı</strong></span> hareket ederek bakır kalıba farklı derinliklerde hücreleri oluşturur. Saniyede yaklaşık <span style=\"text-decoration: underline;\"><strong>4000 hücre</strong></span> oluşturulmaktadır."
     },
     {
         "SoruID": 3764746,
@@ -2397,7 +2457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Aradaki temel farklar;<br/> • Silindir hazırlama işleminde bakır kaplama yerine <strong><span style=\"text-decoration: underline;\">çinko </span></strong>kaplama yapılması,<br/> • Gravür makinesine gönderilecek tasarımın arayüz programının farklılığı,<br/> • Oyma işleminin lazer ışınlarıyla yapılmasından oluşmaktadır.<br/> • Gelişen teknolojilerin bu yönteme hızlı adapte edilmesi, endüstriyel anlamda bu tekniğin ileriye dönük kullanım alanını genişletmekte ve tekniğe verilen önemi artırmaktadır."
+        "Aciklama": "Aradaki temel farklar;<br/>• Silindir hazırlama işleminde bakır kaplama yerine <strong><span style=\"text-decoration: underline;\">çinko </span></strong>kaplama yapılması,<br/>• Gravür makinesine gönderilecek tasarımın arayüz programının farklılığı,<br/>• Oyma işleminin lazer ışınlarıyla yapılmasından oluşmaktadır.<br/>• Gelişen teknolojilerin bu yönteme hızlı adapte edilmesi, endüstriyel anlamda bu tekniğin ileriye dönük kullanım alanını genişletmekte ve tekniğe verilen önemi artırmaktadır."
     },
     {
         "SoruID": 3764769,
@@ -2617,7 +2677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Rakle"
+        "Aciklama": "Rakle: Baskı aşamasında dönen silindir kalıbın mürekkep haznesinden aldığı fazla mürekkebi plaka yüzeyinden tahliye etmeye yarayan sıyırıcı parçadır."
     },
     {
         "SoruID": 3764812,
@@ -2637,7 +2697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Xylographica"
+        "Aciklama": "Xylographica olarak da adlandırılan blok kitaplar, 15. yüzyılın ikinci yarısında Avrupa’da hem metin hem de illüstrasyon içerecek şekilde oyulmuş ahşap baskılar olarak basılan, 50 yaprağa kadar kısa kitaplardır."
     },
     {
         "SoruID": 3764813,
@@ -2657,11 +2717,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kurukazıma"
+        "Aciklama": "Kurukazıma (Drypoint): baskısı yapılacak tasarımın keskin uçlu bir aletle doğrudan metal levhaya çizildiği bir gravür yöntemi."
     },
     {
         "SoruID": 3764814,
-        "SoruMetni": "İtalyanca, “ışık” ve “karanlık” kelimelerinin bir araya gelmesiyle oluşan ve görsel sanatlarda üç boyutlu nesneleri tanımlarken ışığı ve gölgeyi temsil etmek için kullanılan terim aşağıdakilerden hangisidir?",
+        "SoruMetni": "İtalyanca, “ışık” ve “karanlık” kelimelerinin bir araya gelmesiyle oluşan ve görsel sanatlarda üç boyutlu nesneleri tanımlarken ışığı ve gölgeyi temsil etmek için kullanılan terim aşağıdakilerden hangisidir?",
         "A": "Cliché Verre",
         "B": "Aquatint",
         "C": "Mezzotint",
@@ -2677,7 +2737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Chiaroscuro"
+        "Aciklama": "Chiaroscuro: İtalyanca chiaro , “ışık” ve scuro , “karanlık” kelimelerinin bir araya gelmesiyle oluşan terim, görsel sanatlarda üç boyutlu nesneleri tanımlarken ışığı ve gölgeyi temsil etmek için kullanılan teknik olarak adlandırılmaktadır."
     },
     {
         "SoruID": 3764815,
@@ -2697,7 +2757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ludwig von Siegen"
+        "Aciklama": "1642 yılında Ludwig von Siegen mezzotint olarak bilinen ve çukur baskıda yarım tonları elde etmek için kullanılan tekniği icat etmiştir."
     },
     {
         "SoruID": 3764816,
@@ -2717,7 +2777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Stereotip Baskı"
+        "Aciklama": "Stereotip Baskı: Tipo baskıda yaygın olarak kullanılan baskı plakası türüdür. Gazete ve diğer yüksek hızlı basın çalışmaları basımı için uygundur."
     },
     {
         "SoruID": 3764821,
@@ -2737,7 +2797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lazer İşleme"
+        "Aciklama": "Lazer işleme teknolojisi, günümüzde kullanılan tifdruk baskı teknolojisinin geldiği en son aşamadır.<br>Lazer İşleme"
     },
     {
         "SoruID": 3764826,
@@ -2801,7 +2861,7 @@
     },
     {
         "SoruID": 3764397,
-        "SoruMetni": "Matbaacılık tarihin­deki en önemli dönüm noktalarından biri, 1450’de Johannes Gutenberg tarafından Almanya’da mü­kemmelleştirilen ………….. baskı tekniğidir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Matbaacılık tarihin­deki en önemli dönüm noktalarından biri, 1450’de Johannes Gutenberg tarafından Almanya’da mü­kemmelleştirilen ………….. baskı tekniğidir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
         "A": "Tipo",
         "B": "Serigrafi",
         "C": "Litografi",
@@ -2817,7 +2877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Matbaacılık tarihin­deki en önemli dönüm noktalarından biri, 1450’de Johannes Gutenberg tarafından Almanya’da mü­kemmelleştirilen tipo baskı tekniğidir."
+        "Aciklama": "Bir yüksek baskı çeşidi olan tipo baskı, birbirinden bağımsız olarak üretilmiş harflerin yan yana dizilerek, mü­rekkeplenip, basılacak kâğıda preslenmesi şeklinde özetlenebilir.<br>Matbaacılık tarihin­deki en önemli dönüm noktalarından biri, 1450’de Johannes Gutenberg tarafından Almanya’da mü­kemmelleştirilen tipo baskı tekniğidir."
     },
     {
         "SoruID": 3764402,
@@ -2837,11 +2897,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Litografi, fotoğraf teknolojisiyle bir araya geldiğinde, günümüz ofset baskı sistemlerinin sunduğu üretim imkanlarının temeli atılmıştır."
+        "Aciklama": "Fotoğrafın litografi ile buluşmasından önce, litografi daha kısıtlı bir üretim alanına sa­hipti.<br>Litografi, fotoğraf teknolojisiyle bir araya geldiğinde, günümüz ofset baskı sistemlerinin sunduğu üretim imkanlarının temeli atılmıştır."
     },
     {
         "SoruID": 3764405,
-        "SoruMetni": "…….. yılında Alois Senefelder’in litografiyi keşfetmesi, ofset baskının temel çalışma prensibi olan su ve yağın birbirlerine karış­maması ilkesinin baskı üretiminde kullanılmasını sağlamıştır.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "…….. yılında Alois Senefelder’in litografiyi keşfetmesi, ofset baskının temel çalışma prensibi olan su ve yağın birbirlerine karış­maması ilkesinin baskı üretiminde kullanılmasını sağlamıştır.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
         "A": "1450",
         "B": "1650",
         "C": "1698",
@@ -2857,7 +2917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1798 yılında Alois Senefelder’in litografiyi keşfetmesi, ofset baskının temel çalışma prensibi olan su ve yağın birbirlerine karış­maması ilkesinin baskı üretiminde kullanılmasını sağlamıştır."
+        "Aciklama": "Litografi öncesinde gravür, tipo baskı, ahşap baskı gibi tekniklerle üretilen baskılarda kalıp hazırlığı çukur ya da rölyef alanlar gerektirdiği için, oyma, kazıma, yontma, kalıp dökme gibi fiziksel süreçler gerektirmekteydi.<br>1798 yılında Alois Senefelder’in litografiyi keşfetmesi, ofset baskının temel çalışma prensibi olan su ve yağın birbirlerine karış­maması ilkesinin baskı üretiminde kullanılmasını sağlamıştır."
     },
     {
         "SoruID": 3764406,
@@ -2877,7 +2937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1800’lü yılların başlarında Alois Senefelder çok renkli taş baskı denemeleri üzerinde çalışmaya başlamıştır."
+        "Aciklama": "Teknik hakkında yazdığı kitabında ise, gelecekte litografi­nin tablo gibi sanat eserlerinin yeniden üretiminde kullanılacağını tahmin ettiğini belirtmiştir.<br>1800’lü yılların başlarında Alois Senefelder çok renkli taş baskı denemeleri üzerinde çalışmaya başlamıştır."
     },
     {
         "SoruID": 3764408,
@@ -2897,7 +2957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Joseph Niepce, 1826’da dünyanın ilk fotoğrafını üret­ti."
+        "Aciklama": "Joseph Niepce, Fransız bir bilim adamıdır.<br>Joseph Niepce, 1826’da dünyanın ilk fotoğrafını üret­ti."
     },
     {
         "SoruID": 3764410,
@@ -2917,7 +2977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İngiltere’den Henry Talbot, 1852’de fotoğrafla­rın çoğaltılması için ilk yarı ton perdeyi kullandı."
+        "Aciklama": "Yaklaşık 33 yıl sonra, Amerikalı Frederick Ives, çizgilerle çizilmiş iki açık cam negatiften oluşan ilk pratik yarım ton perdeyi tasarladı.<br>İngiltere’den Henry Talbot, 1852’de fotoğrafla­rın çoğaltılması için ilk yarı ton perdeyi kullandı."
     },
     {
         "SoruID": 3764411,
@@ -2937,11 +2997,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ofset baskı sistemleri çeşitli temel bi­leşenlerin bir araya gelmesi ile çalışır. Bu bileşenler;<br/> <ul> <li>Mürekkepleme ünitesi,</li> <li>Nemlendirme ünitesi,</li> <li>Kalıp silindiri,</li> <li>Blanket (Kauçuk) silindiri,</li> <li>Baskı silindiri.</li> </ul>"
+        "Aciklama": "Şekil 4.7 de Ofset baskı sisteminin şematik görünümü verilmiştir.<br>Ofset baskı sistemleri çeşitli temel bi­leşenlerin bir araya gelmesi ile çalışır. Bu bileşenler;<br/><ul> <li>Mürekkepleme ünitesi,</li> <li>Nemlendirme ünitesi,</li> <li>Kalıp silindiri,</li> <li>Blanket (Kauçuk) silindiri,</li> <li>Baskı silindiri.</li> </ul>"
     },
     {
         "SoruID": 3764423,
-        "SoruMetni": "………………….. baskının oluşturulması is­tenen görüntünün üzerine çeşitli işlemlerle aktarıl­dığı baskı kalıbını taşımakla görevlidir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "………………….. baskının oluşturulması is­tenen görüntünün üzerine çeşitli işlemlerle aktarıl­dığı baskı kalıbını taşımakla görevlidir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
         "A": "Blanket silindiri",
         "B": "Kalıp silindiri",
         "C": "Transfer silindiri",
@@ -2957,7 +3017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kalıp silindiri baskının oluşturulması is­tenen görüntünün üzerine çeşitli işlemlerle aktarıl­dığı baskı kalıbını taşımakla görevlidir."
+        "Aciklama": "Baskı kalıbı kalıp silindirinin etrafına sarılır ve sabitlenir.<br>Kalıp silindiri baskının oluşturulması is­tenen görüntünün üzerine çeşitli işlemlerle aktarıl­dığı baskı kalıbını taşımakla görevlidir."
     },
     {
         "SoruID": 3764425,
@@ -2977,11 +3037,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Rotatif ofset adıyla da anılabilen ve gazeteler, kitaplar, dergi ve bro­şürler gibi yüksek baskı sayısına sahip ürünler ve baskı sonrasında forma hâline getirilerek ciltleme işlemi uygulanacak işler için daha uygun olan web ofset baskıdır."
+        "Aciklama": "En önemli avantajı basım hızı olan web ofset, tabaka ofset baskıda kullanıma uygun olmayan incelikte ve hafiflikte baskı altı malzemeleri kullanmaya da olanak tanır.<br>Rotatif ofset adıyla da anılabilen ve gazeteler, kitaplar, dergi ve bro­şürler gibi yüksek baskı sayısına sahip ürünler ve baskı sonrasında forma hâline getirilerek ciltleme işlemi uygulanacak işler için daha uygun olan web ofset baskıdır."
     },
     {
         "SoruID": 3764426,
-        "SoruMetni": "<strong>I.</strong> ElectroInk – elektro mürekkep       <br/> <strong>II.</strong> Anında renk değiştirme<br/> <strong>III.</strong> Termal ofset transfer teknolojisi    <br/> Yukarı verilen ifadelerden hangisi/hangileri Dijital of­set baskı sürecinin temel teknolojisidir?",
+        "SoruMetni": "<strong>I.</strong> ElectroInk – elektro mürekkep <br/><strong>II.</strong> Anında renk değiştirme<br/><strong>III.</strong> Termal ofset transfer teknolojisi <br/>Yukarı verilen ifadelerden hangisi/hangileri Dijital of­set baskı sürecinin temel teknolojisidir?",
         "A": "<span style=\"font-family: verdana, geneva, sans-serif;\">Yalnız I</span>",
         "B": "<span style=\"font-family: verdana, geneva, sans-serif;\">Yalnız III</span>",
         "C": "<span style=\"font-family: verdana, geneva, sans-serif;\">I ve II </span>",
@@ -2997,7 +3057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital of­set baskı sürecinin üç temel teknolojisi şunlardır:<br/> <ul> <li>ElectroInk – elektro mürekkep</li> <li>Termal ofset transfer teknolojisi</li> <li>Anında renk değiştirme.</li> </ul>"
+        "Aciklama": "Dijital ofset baskı sistemi, dijital baskı yöntem­lerinin avantajları ile geleneksel ofset baskının hız ve kalitesini bir araya getirmeyi amaçlayan yeni bir baskı sistemidir.<br>Dijital of­set baskı sürecinin üç temel teknolojisi şunlardır:<br/><ul> <li>ElectroInk – elektro mürekkep</li> <li>Termal ofset transfer teknolojisi</li> <li>Anında renk değiştirme.</li> </ul>"
     },
     {
         "SoruID": 3764495,
@@ -3017,7 +3077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ofset baskı"
+        "Aciklama": "Hem tabaka hem de bobin kâğıt kullanımına imkân sağlayan türleri; iki renkten on iki renge<br/>kadar renk ünitesi bulunan alternatifleri, yüksek sayılı çoğaltımlarda sunduğu yüksek hız ve düşük<br/>maliyeti, tutarlı renk sonuçları, hassas baskı kalitesi gibi özellikleri ofset baskı tekniği yaygın olarak<br/>kullanılan baskı tekniklerinden biri yapmaktadır."
     },
     {
         "SoruID": 3764496,
@@ -3037,7 +3097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Litografi-Fotoğraf"
+        "Aciklama": "Fotoğrafın litografi ile buluşmasından önce, litografi daha kısıtlı bir üretim alanına sahipken,<br/>fotoğraf teknolojisiyle bir araya geldiğinde, günümüz ofset baskı sistemlerinin sunduğu üretim<br/>imkanlarının temeli atılmıştır.<br>Litografi-Fotoğraf"
     },
     {
         "SoruID": 3764497,
@@ -3057,7 +3117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Litografi"
+        "Aciklama": "Senefelder, litografiyi nasıl keşfettiğini anlatan kitabında bu süreci şu sözlerle özetlemiştir:<br/>“O anda böylesine yeni ve özgün bir matbaa türü icat edeceğimi tahmin edemezdim. Mekanik olmayan, tamamen kimyasal temellere dayalı bir yöntem…"
     },
     {
         "SoruID": 3764498,
@@ -3077,7 +3137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kromolitografi"
+        "Aciklama": "Fransız sanatçı Engelmann, 1837 yılında <strong>kromolitografi</strong> tekniğinin patentini almış ve böylece tekniğin kâşifi Senefelder’in de üzerinde çalışmalar yaptığı renkli taş baskı tekniği hayata geçmiştir."
     },
     {
         "SoruID": 3764499,
@@ -3097,7 +3157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ofset baskı"
+        "Aciklama": "Günümüzde en yaygın kullanılan baskı tekniklerinin başında gelen <strong>ofset baskı</strong>, renkli litografinin<br/>endüstriyel üretime uyarlanmış biçimidir."
     },
     {
         "SoruID": 3764500,
@@ -3117,7 +3177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kauçuk bilyesi"
+        "Aciklama": "Ofset baskı sistemleri çeşitli temel bileşenlerin bir araya gelmesi ile çalışır. <strong>Bu bileşenler;</strong><br/>• Mürekkepleme ünitesi,<br/>• Nemlendirme ünitesi,<br/>• Kalıp silindiri,<br/>• Blanket (Kauçuk) silindiri,<br/>• Baskı silindiri.<br>Kauçuk bilyesi"
     },
     {
         "SoruID": 3764501,
@@ -3137,7 +3197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Beyaz"
+        "Aciklama": "<strong>CMYK:</strong> Cyan (<strong>mav</strong>i/camgöbeği), Magenta (<strong>pembemsi kırmızı)</strong>, Yellow (<strong>sarı)</strong>, Key (<strong>Siyah</strong>) renklerinin kısaltmasıdır.<br>Beyaz"
     },
     {
         "SoruID": 3764502,
@@ -3157,7 +3217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lazerli Ofset baskı"
+        "Aciklama": "Bu başlıkta inceleyeceğimiz ofset baskı çeşitlerinden ilk ikisi olan <strong>tabaka ofset</strong> ve <strong>web ofset baskı...</strong>İnceleyeceğimiz diğer iki ofset baskı türü olan <strong>nemlendirme sistemli ofset</strong> ve <strong>susuz (kuru) ofset baskı</strong> sistemleri ise, baskı aşamasında teknik ve süreç farklılıkları göstermektedir.<br>Lazerli Ofset baskı"
     },
     {
         "SoruID": 3764503,
@@ -3177,7 +3237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gün ışığı"
+        "Aciklama": "Ofset baskıda baskı kalitesine etki çeşitli unsurlar bulunur. Kullanılan mürekkebin akışkanlığı,<br/>yoğunluğu, (nemlendirmeli ofset baskı sistemlerinde kullanılan) nemlendirme suyunun mürekkeple<br/>olan oranı, sertliği, içerdiği katkı malzemeleri, pH derecesi, kâğıdın nemi, kalıp ve blanket gibi parçaların koşulları, nokta kalitesi, hatta ortam ısısı gibi çok sayıda etmen baskı kalitesini etkilemektedir.<br>Gün ışığı"
     },
     {
         "SoruID": 3764504,
@@ -3197,16 +3257,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3"
+        "Aciklama": "Basılı grafik ürünlerin üretiminde rengi ölçmek için kullanılan <strong>üç önemli</strong> yöntemdir. <br/>1-Densitometre,<br/>2-Kalorimetre<br/>3-Spektral fotometreler,"
     },
     {
         "SoruID": 3764594,
-        "SoruMetni": "<span><span><span>Basılı grafik ürünlerin üretiminde </span></span><span><span>yaygın</span> <span>olan</span> <span>kullanılan</span> <span>baskı</span> <span>tekniği aşağıdakilerden hangisidir?</span></span></span><br/> <span><br role=\"presentation\"/><br/></span>",
-        "A": "<span><span>Ofset </span></span><span><span>baskı tekniği</span></span>",
+        "SoruMetni": "<span><span><span>Basılı grafik ürünlerin üretiminde </span></span><span><span>yaygın</span> <span>olan</span> <span>kullanılan</span> <span>baskı</span> <span>tekniği aşağıdakilerden hangisidir?</span></span></span><br/><span><br role=\"presentation\"/><br/></span>",
+        "A": "<span><span>Ofset </span></span><span><span>baskı tekniği</span></span>",
         "B": "Serigrafi baskı",
-        "C": "Gravür baskı",
-        "D": "Linol baskı",
-        "E": "Ağaç baskı",
+        "C": "Gravür baskı",
+        "D": "Linol baskı",
+        "E": "Ağaç baskı",
         "DogruCevap": "A",
         "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
         "Unite": 4,
@@ -3217,7 +3277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span>Ofset litografi olarak da adlandırılabilen ofset </span></span><span><span>baskı tekniği, basılı grafik ürünlerin üretiminde </span></span><span><span>yaygın</span> <span>olan</span> <span>kullanılan</span> <span>baskı</span> <span>tekniklerindendir.</span></span>"
+        "Aciklama": "<span><span>Ofset litografi olarak da adlandırılabilen ofset </span></span><span><span>baskı tekniği, basılı grafik ürünlerin üretiminde </span></span><span><span>yaygın</span> <span>olan</span> <span>kullanılan</span> <span>baskı</span> <span>tekniklerindendir.</span></span>"
     },
     {
         "SoruID": 3764595,
@@ -3237,7 +3297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span>Baskı tekniklerinin tarihi, belirli bir görüntüyü </span></span><span><span>yeniden üretmek için kullanılan mühür ve damga</span></span><span><span>lara kadar uzanmaktadır. Fakat matbaacılık tarihin</span></span><span><span>deki en önemli dönüm noktalarından biri, 1450’de </span></span><span><span>Johannes Gutenberg tarafından Almanya’da mü</span></span><span><span>kemmelleştirilen tipo baskı tekniğidir. </span></span>"
+        "Aciklama": "<span><span>Baskı tekniklerinin tarihi, belirli bir görüntüyü </span></span><span><span>yeniden üretmek için kullanılan mühür ve damga</span></span><span><span>lara kadar uzanmaktadır. Fakat matbaacılık tarihin</span></span><span><span>deki en önemli dönüm noktalarından biri, 1450’de </span></span><span><span>Johannes Gutenberg tarafından Almanya’da mü</span></span><span><span>kemmelleştirilen tipo baskı tekniğidir. </span></span>"
     },
     {
         "SoruID": 3764596,
@@ -3257,13 +3317,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span> Hareketli tipo baskılar 11. yüzyılda </span></span><span><span>Çin’de ve 15. yüzyılın başlarında Kore’de yapılmış</span></span><span><br role=\"presentation\"/><span>ancak binlerce karakterli Asya dillerine uygun ol</span></span><span><span>madığı için yaygınlaşmamıştır. </span></span>"
+        "Aciklama": "<span><span> Hareketli tipo baskılar 11. yüzyılda </span></span><span><span>Çin’de ve 15. yüzyılın başlarında Kore’de yapılmış</span></span><span><br role=\"presentation\"/><span>ancak binlerce karakterli Asya dillerine uygun ol</span></span><span><span>madığı için yaygınlaşmamıştır. </span></span>"
     },
     {
         "SoruID": 3764597,
         "SoruMetni": "<span><span>Litografi kimin tarafından icat edilmiştir?</span></span>",
         "A": "<span><span>Alo</span></span><span><span>is Senefelder</span></span>",
-        "B": "<span><span>Johanne </span></span>Gutenberg",
+        "B": "<span><span>Johanne </span></span>Gutenberg",
         "C": "<span><span> Henry Talbot</span></span>",
         "D": "<span><span> Louis Ducos du Hauron</span></span>",
         "E": "<span><span>Joseph Niepce</span></span>",
@@ -3277,11 +3337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span>Litografinin icadı, oyun ve tiyatro yazarı Alo</span></span><span><span>is Senefelder’in, yüzeyini mumla kapladığı cilalı </span></span><span><span>kireçtaşından bir tablet üzerine; mum, sabun ve </span></span><span><span>lamba isi ile hazırlanmış mürekkeple yazı yazdığı, </span></span><span><span>ardından kısa bir süre için bir asit çözeltisi uygula</span></span><span><span>dığı 1798 yılına kadar uzanmaktadır.</span></span>"
+        "Aciklama": "<span><span>Litografinin icadı, oyun ve tiyatro yazarı Alo</span></span><span><span>is Senefelder’in, yüzeyini mumla kapladığı cilalı </span></span><span><span>kireçtaşından bir tablet üzerine; mum, sabun ve </span></span><span><span>lamba isi ile hazırlanmış mürekkeple yazı yazdığı, </span></span><span><span>ardından kısa bir süre için bir asit çözeltisi uygula</span></span><span><span>dığı 1798 yılına kadar uzanmaktadır.</span></span>"
     },
     {
         "SoruID": 3764598,
-        "SoruMetni": "<span><span>Fransız </span></span><span><span> bilim adamı olan Joseph Niepce <span>fotolitografiyi tekniği ile ilk fotografı hangi tarihte</span></span></span><span><span> üret</span></span><span><span>ti?</span></span>",
+        "SoruMetni": "<span><span>Fransız </span></span><span><span> bilim adamı olan Joseph Niepce <span>fotolitografiyi tekniği ile ilk fotografı hangi tarihte</span></span></span><span><span> üret</span></span><span><span>ti?</span></span>",
         "A": "<span><span>1826</span></span>",
         "B": "1868",
         "C": "1837",
@@ -3297,11 +3357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span> Litogra</span></span><span><span>fi, baskı kalıpları üretmek için aradığı çözüm orta</span></span><span><span>ğını fotoğrafta buldu. Böylece litografi ve fotoğrafın </span></span><span><span>bir araya gelmesiyle</span></span><span> <span>fotolitografi</span></span><span> <span>doğdu. Fransız</span></span><span><br role=\"presentation\"/><span>bir bilim adamı olan Joseph Niepce, </span></span><span><span>1826’da dünyanın ilk fotoğrafını üret</span></span><span><span>ti.</span></span>"
+        "Aciklama": "<span><span> Litogra</span></span><span><span>fi, baskı kalıpları üretmek için aradığı çözüm orta</span></span><span><span>ğını fotoğrafta buldu. Böylece litografi ve fotoğrafın </span></span><span><span>bir araya gelmesiyle</span></span><span> <span>fotolitografi</span></span><span> <span>doğdu. Fransız</span></span><span><br role=\"presentation\"/><span>bir bilim adamı olan Joseph Niepce, </span></span><span><span>1826’da dünyanın ilk fotoğrafını üret</span></span><span><span>ti.</span></span>"
     },
     {
         "SoruID": 3764599,
-        "SoruMetni": "<span><span>Orijinal bir fotoğ</span><span>rafı noktalara ve baskı reprodüksiyonuna </span><span>uygun değişen boyutlara ayırma eylemine ne denir?</span></span>",
+        "SoruMetni": "<span><span>Orijinal bir fotoğ</span><span>rafı noktalara ve baskı reprodüksiyonuna </span><span>uygun değişen boyutlara ayırma eylemine ne denir?</span></span>",
         "A": "<span><span>Yarı Ton (Halftone)</span></span>",
         "B": "<span><span>Fotolitograf</span></span>",
         "C": "Litografi",
@@ -3321,7 +3381,7 @@
     },
     {
         "SoruID": 3764600,
-        "SoruMetni": "<span><span>Ofset baskı sistemleri çeşitli temel bi</span></span><span><span>leşenlerden biri <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span> </span></span><br/> <span><span>I.</span>   <span>Mürekkepleme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>II.</span>  <span>Nemlendirme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>III. </span><span>Kalıp</span> <span>silindiri,</span></span><span><br role=\"presentation\"/>IV.  <span>Blanket</span> <span>(Kauçuk)</span> <span>silindiri,</span></span><span><br role=\"presentation\"/>V.   <span>Baskı</span> <span>tasarımı</span></span>",
+        "SoruMetni": "<span><span>Ofset baskı sistemleri çeşitli temel bi</span></span><span><span>leşenlerden biri <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span> </span></span><br/><span><span>I.</span> <span>Mürekkepleme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>II.</span> <span>Nemlendirme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>III. </span><span>Kalıp</span> <span>silindiri,</span></span><span><br role=\"presentation\"/>IV. <span>Blanket</span> <span>(Kauçuk)</span> <span>silindiri,</span></span><span><br role=\"presentation\"/>V. <span>Baskı</span> <span>tasarımı</span></span>",
         "A": "V",
         "B": "IV",
         "C": "III",
@@ -3337,11 +3397,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span> Ofset baskı sistemleri çeşitli temel bi</span></span><span><span>leşenlerin bir araya gelmesi ile çalışır. Bu bileşenler;</span></span><br/> <span><br role=\"presentation\"/><span>•</span> <span>Mürekkepleme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Nemlendirme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Kalıp</span> <span>silindiri,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Blanket</span> <span>(Kauçuk)</span> <span>silindiri,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Baskı</span> <span>silindiri</span></span>"
+        "Aciklama": "<span><span> Ofset baskı sistemleri çeşitli temel bi</span></span><span><span>leşenlerin bir araya gelmesi ile çalışır. Bu bileşenler;</span></span><br/><span><br role=\"presentation\"/><span>•</span> <span>Mürekkepleme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Nemlendirme</span> <span>ünitesi,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Kalıp</span> <span>silindiri,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Blanket</span> <span>(Kauçuk)</span> <span>silindiri,</span></span><span><br role=\"presentation\"/><span>•</span> <span>Baskı</span> <span>silindiri</span></span>"
     },
     {
         "SoruID": 3764601,
-        "SoruMetni": "<span><span>Çıkarımsal renk </span><span>sistemine göre tasarlanmış olan, bileşim</span><br role=\"presentation\"/><span>matbaacılıkta kullanılan dört ana renk </span><span>sisteminin kısaltılmış hali nasıl yazılır?</span></span>",
+        "SoruMetni": "<span><span>Çıkarımsal renk </span><span>sistemine göre tasarlanmış olan, bileşim</span><br role=\"presentation\"/><span>matbaacılıkta kullanılan dört ana renk </span><span>sisteminin kısaltılmış hali nasıl yazılır?</span></span>",
         "A": "CMYK",
         "B": "MYKC",
         "C": "YKCM",
@@ -3361,7 +3421,7 @@
     },
     {
         "SoruID": 3764602,
-        "SoruMetni": "<span><span>Bir bilgiyi, düşün</span><span>ceyi ya da mesajı başka birine iletmek için </span><span>kâğıt, kumaş, plastik, ahşap gibi bir yüzey </span><span>üzerinde görsel değişiklikler yapmaya ya da </span><span>uygulandığı yüzeyin izleyici tarafından algı</span><span>lanan rengini değiştirmeye yarayan araç aşağıdakilerden hangisidir?</span></span>",
+        "SoruMetni": "<span><span>Bir bilgiyi, düşün</span><span>ceyi ya da mesajı başka birine iletmek için </span><span>kâğıt, kumaş, plastik, ahşap gibi bir yüzey </span><span>üzerinde görsel değişiklikler yapmaya ya da </span><span>uygulandığı yüzeyin izleyici tarafından algı</span><span>lanan rengini değiştirmeye yarayan araç aşağıdakilerden hangisidir?</span></span>",
         "A": "<span><span>Mürekkep</span></span>",
         "B": "Silindir",
         "C": "Kağıt",
@@ -3377,11 +3437,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span>Mürekkep</span><span>: Mürekkep bir bilgiyi, düşün</span><span>ceyi ya da mesajı başka birine iletmek için </span><span>kâğıt, kumaş, plastik, ahşap gibi bir yüzey </span><span>üzerinde görsel değişiklikler yapmaya ya da </span><span>uygulandığı yüzeyin izleyici tarafından algı</span><span>lanan rengini değiştirmeye yarayan araçtır.</span></span>"
+        "Aciklama": "<span><span>Mürekkep</span><span>: Mürekkep bir bilgiyi, düşün</span><span>ceyi ya da mesajı başka birine iletmek için </span><span>kâğıt, kumaş, plastik, ahşap gibi bir yüzey </span><span>üzerinde görsel değişiklikler yapmaya ya da </span><span>uygulandığı yüzeyin izleyici tarafından algı</span><span>lanan rengini değiştirmeye yarayan araçtır.</span></span>"
     },
     {
         "SoruID": 3764603,
-        "SoruMetni": "<span><span>Ofset</span> <span>baskı </span><span>tekniğiyle basılmak üzere bilgisayarda ta</span><span>mamlanan tasarımı ya da oluşturulan gö</span><span>rüntüyü, film kullanımı gerekmeden doğ</span><span>ruca kalıba taşıyan pozlandırma sistemine ne ad verilir?</span></span>",
+        "SoruMetni": "<span><span>Ofset</span> <span>baskı </span><span>tekniğiyle basılmak üzere bilgisayarda ta</span><span>mamlanan tasarımı ya da oluşturulan gö</span><span>rüntüyü, film kullanımı gerekmeden doğ</span><span>ruca kalıba taşıyan pozlandırma sistemine ne ad verilir?</span></span>",
         "A": "<span><span>CtP</span></span>",
         "B": "CYMK",
         "C": "Tabaka",
@@ -3397,7 +3457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span><span>CtP:</span> <span>(Computer-to-plate)</span> <span>Ofset</span> <span>baskı </span><span>tekniğiyle basılmak üzere bilgisayarda ta</span><span>mamlanan tasarımı ya da oluşturulan gö</span><span>rüntüyü, film kullanımı gerekmeden doğ</span><span>ruca kalıba taşıyan pozlandırma sistemi.</span></span>"
+        "Aciklama": "<span><span>CtP:</span> <span>(Computer-to-plate)</span> <span>Ofset</span> <span>baskı </span><span>tekniğiyle basılmak üzere bilgisayarda ta</span><span>mamlanan tasarımı ya da oluşturulan gö</span><span>rüntüyü, film kullanımı gerekmeden doğ</span><span>ruca kalıba taşıyan pozlandırma sistemi.</span></span>"
     },
     {
         "SoruID": 3764840,
@@ -3417,7 +3477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yarı ton"
+        "Aciklama": "Yarı Ton (Halftone): Orijinal bir fotoğrafı noktalara ve baskı reprodüksiyonuna uygun değişen boyutlara ayırma eylemi."
     },
     {
         "SoruID": 3764844,
@@ -3437,7 +3497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kurutma ünitesi"
+        "Aciklama": "Ofset baskı sistemleri çeşitli temel bileşenlerin bir araya gelmesi ile çalışır. Bu bileşenler; • Mürekkepleme ünitesi, • Nemlendirme ünitesi, • Kalıp silindiri, • Blanket (Kauçuk) silindiri, • Baskı silindiri<br>Kurutma ünitesi"
     },
     {
         "SoruID": 3764848,
@@ -3446,7 +3506,7 @@
         "B": "Nemlendirme sistemli ofset - Kuru ofset",
         "C": "Tabaka ofset - Nemlendirme sistemli ofset",
         "D": "Tabaka ofset - Web ofset",
-        "E": "Web ofset - Nemlendirme sistemli ofset",
+        "E": "Web ofset - Nemlendirme sistemli ofset",
         "DogruCevap": "D",
         "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
         "Unite": 4,
@@ -3457,7 +3517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tabaka ofset - Web ofset"
+        "Aciklama": "Bu başlıkta inceleyeceğimiz ofset baskı çeşitlerinden ilk ikisi olan tabaka ofset ve web ofset baskı türlerinin temel farkı, baskı sürecinden çok, kullanılan baskı altı malzemesinin biçimi ile ilgilidir..<br>Tabaka ofset - Web ofset"
     },
     {
         "SoruID": 3764849,
@@ -3477,7 +3537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nemlendirme sistemli ofset - Susuz ofset"
+        "Aciklama": "İnceleyeceğimiz diğer iki ofset baskı türü olan nemlendirme sistemli ofset ve susuz (kuru) ofset baskı sistemleri ise, baskı aşamasında teknik ve süreç farklılıkları göstermektedir<br>Nemlendirme sistemli ofset - Susuz ofset"
     },
     {
         "SoruID": 3764851,
@@ -3497,7 +3557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mürekkep"
+        "Aciklama": "Baskı altı malzemesi herhangi bir baskı yönteminde kullanılan ve baskının oluşturulacağı yüzeyi ifade eder<br>Mürekkep"
     },
     {
         "SoruID": 3764852,
@@ -3517,7 +3577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeşil"
+        "Aciklama": "CMYK: Cyan (mavi/camgöbeği), Magenta (pembemsi kırmızı), Yellow (sarı), Key (Siyah) renklerinin kısaltmasıdır.<br>Yeşil"
     },
     {
         "SoruID": 3764854,
@@ -3537,7 +3597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web ofset baskı"
+        "Aciklama": "Web ofset baskı gazeteler, kitaplar, dergi ve broşürler gibi yüksek baskı sayısına sahip ürünler ve baskı sonrasında forma hâline getirilerek ciltleme işlemi uygulanacak işler için daha uygun bir ofset baskı çeşididir."
     },
     {
         "SoruID": 3764857,
@@ -3557,7 +3617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tabaka ofset baskı"
+        "Aciklama": "Tabaka ofset baskı makineleri az sayıda basılması; planlanan dergiler, broşürler, antetli kâğıt benzeri kurumsal evraklar gibi, küçük ebatlı ya da düşük baskı adedi gerektiren işlerde ekonomik bir baskı alternatifi sunmaktadır."
     },
     {
         "SoruID": 3764859,
@@ -3577,7 +3637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Joseph Niepce"
+        "Aciklama": "Fransız bir bilim adamı olan Joseph Niepce, 1826’da dünyanın ilk fotoğrafını üretti."
     },
     {
         "SoruID": 3764860,
@@ -3597,7 +3657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hız, maliyet ve fonksiyonellik bakımından geleneksel yayıncılıktan bir farkı yoktur."
+        "Aciklama": "Hız, maliyet ve fonksiyonellik bakımından geleneksel yayıncılıktan oldukça farklıdır.<br>Hız, maliyet ve fonksiyonellik bakımından geleneksel yayıncılıktan bir farkı yoktur."
     },
     {
         "SoruID": 3764344,
@@ -3617,7 +3677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong><em>Elek baskı </em></strong>boyanın kalıbın geçirgen olan veya olmayan yerlerinden yüzeye aktarılmasıyla elde edilen baskıdır. Şablon baskı da elek baskı adı altında ele alınır.<span> Cevap A'dır.</span>"
+        "Aciklama": "<strong><em>Elek baskı </em></strong>boyanın kalıbın geçirgen olan veya olmayan yerlerinden yüzeye aktarılmasıyla elde edilen baskıdır. Şablon baskı da elek baskı adı altında ele alınır.<span> Cevap A'dır.</span>"
     },
     {
         "SoruID": 3764345,
@@ -3657,7 +3717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Emülsyon çekme küreği; Boş ipek eleğin emülsiyon malzemesiyle kaplanması için kullanılan gereçtir. Mantık olarak rakleye benzer ancak farklı bir forma sahiptir. Bir kürek gibi emülsiyon malzemesini içinde tutar, elle biraz eğildiğinde ise akıcı emülsiyon sıvısının eşit ve homojen bir şekilde ve ince bir tabaka oluşturacak biçimde eleğe sürülmesini sağlar.<span> Cevap C'dir.</span>"
+        "Aciklama": "Emülsyon çekme küreği; Boş ipek eleğin emülsiyon malzemesiyle kaplanması için kullanılan gereçtir. Mantık olarak rakleye benzer ancak farklı bir forma sahiptir. Bir kürek gibi emülsiyon malzemesini içinde tutar, elle biraz eğildiğinde ise akıcı emülsiyon sıvısının eşit ve homojen bir şekilde ve ince bir tabaka oluşturacak biçimde eleğe sürülmesini sağlar.<span> Cevap C'dir.</span>"
     },
     {
         "SoruID": 3764347,
@@ -3681,7 +3741,7 @@
     },
     {
         "SoruID": 3764348,
-        "SoruMetni": "Serigrafide aynı anda ve aynı kalıpta farklı renkler kullanarak karıştırılması ve birbirine geçişli renklerin elde edilmesine<span> ne ad verilir?</span>",
+        "SoruMetni": "Serigrafide aynı anda ve aynı kalıpta farklı renkler kullanarak karıştırılması ve birbirine geçişli renklerin elde edilmesine<span> ne ad verilir?</span>",
         "A": "Pozlama",
         "B": "Kros",
         "C": "Emülsyon",
@@ -3701,7 +3761,7 @@
     },
     {
         "SoruID": 3764349,
-        "SoruMetni": "Serigrafide birden fazla kalıpla renkleri hızlıca basmaya elveren tezgahlara<span> ne ad verilir?</span>",
+        "SoruMetni": "Serigrafide birden fazla kalıpla renkleri hızlıca basmaya elveren tezgahlara<span> ne ad verilir?</span>",
         "A": "Ahtapot",
         "B": "Degrate",
         "C": "Pozlama",
@@ -3721,7 +3781,7 @@
     },
     {
         "SoruID": 3764350,
-        "SoruMetni": "Aşağıdakilerden hangisi indirgeme yöntemiyle oyularak hazırlanan kalıplar için kullanılan bir terimdir?",
+        "SoruMetni": "Aşağıdakilerden hangisi indirgeme yöntemiyle oyularak hazırlanan kalıplar için kullanılan bir terimdir?",
         "A": "Yüksek baskı",
         "B": "Çukur baskı",
         "C": "Emülsyon",
@@ -3757,11 +3817,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong><em>Düz baskı </em></strong> kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu tekniklerdir (Örn. Litografi, Ofset Litografi). Cevap C'dir."
+        "Aciklama": "<strong><em>Düz baskı </em></strong> kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu tekniklerdir (Örn. Litografi, Ofset Litografi). Cevap C'dir."
     },
     {
         "SoruID": 3764352,
-        "SoruMetni": "Aşağıdakilerden hangisi kalıptan yüzeye aktarılacak olan yerlerin yüksekte kalarak mürekkep aldığı tekniktir?",
+        "SoruMetni": "Aşağıdakilerden hangisi kalıptan yüzeye aktarılacak olan yerlerin yüksekte kalarak mürekkep aldığı tekniktir?",
         "A": "Çukur baskı",
         "B": "Düz baskı",
         "C": "Elek baskı",
@@ -3821,11 +3881,11 @@
     },
     {
         "SoruID": 3764546,
-        "SoruMetni": "<span style=\"font-size: 11.0pt; color: #221e1f;\">İpek kumaşın ilk kez kullanıldığı elek baskı pa­tenti, kim tarafından, ne zaman alınmıştır. </span><br/><br/>",
-        "A": "Samuel Simon tarafından 1907 yılında<br/><br/>",
-        "B": "Roy Beck tarafından 1910’larda<br/>",
-        "C": "Charles Peter tarafından 1909’da<br/>",
-        "D": "Edward Owens tarafından 1905’de<br/>",
+        "SoruMetni": "<span style=\"font-size: 11.0pt; color: #221e1f;\">İpek kumaşın ilk kez kullanıldığı elek baskı pa­tenti, kim tarafından, ne zaman alınmıştır. </span>",
+        "A": "Samuel Simon tarafından 1907 yılında",
+        "B": "Roy Beck tarafından 1910’larda",
+        "C": "Charles Peter tarafından 1909’da",
+        "D": "Edward Owens tarafından 1905’de",
         "E": "Duncan Grant ve Frank Dobson gibi sanat­çılar tarafından 1908 yılında",
         "DogruCevap": "A",
         "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
@@ -3961,7 +4021,7 @@
     },
     {
         "SoruID": 3764553,
-        "SoruMetni": "Serigrafi denilince ilk akla gelen sanatçılardandır. Serigrafi de dahil olmak üzere birçok sanat projesinin stüdyosu olarak hizmet veren The Factory’yi 1963 yılında Manhattan’da açmıştır. Tüm sanatsal üretimlerini burada yapmaya başlayan sanatçı, aynı zamanda büyük boy serigrafi baskılar yapabileceği geniş bir alanı da yaratmıştır. Sanatçı, popüler kültürün eleştirisini üretim üzerinden yapmıştır. Seri üretim ve tekrarı kullandığı imgelerle ve ünlü yıldızların portreleriyle pekiştir­miş, bu imgeleri kendi özgün diliyle birleştirmiş, serigrafi baskılarla çoğaltarak ve sanatı bir tüketim nesne­si hâline getirmiştir.<br/> Yukarıda tasvir edilen sanatçı aşağıdakilerden hangisidir.",
+        "SoruMetni": "Serigrafi denilince ilk akla gelen sanatçılardandır. Serigrafi de dahil olmak üzere birçok sanat projesinin stüdyosu olarak hizmet veren The Factory’yi 1963 yılında Manhattan’da açmıştır. Tüm sanatsal üretimlerini burada yapmaya başlayan sanatçı, aynı zamanda büyük boy serigrafi baskılar yapabileceği geniş bir alanı da yaratmıştır. Sanatçı, popüler kültürün eleştirisini üretim üzerinden yapmıştır. Seri üretim ve tekrarı kullandığı imgelerle ve ünlü yıldızların portreleriyle pekiştir­miş, bu imgeleri kendi özgün diliyle birleştirmiş, serigrafi baskılarla çoğaltarak ve sanatı bir tüketim nesne­si hâline getirmiştir.<br/>Yukarıda tasvir edilen sanatçı aşağıdakilerden hangisidir.",
         "A": "Eduardo Paolozzi",
         "B": "Edward Ruscha",
         "C": "Andy Warhol",
@@ -3981,7 +4041,7 @@
     },
     {
         "SoruID": 3764554,
-        "SoruMetni": "Serigrafide birden fazla kalıpla renkleri hızlıca basmaya elveren tezgahlar bulunmakta,  baskı bu makinalarla hızlı bir şekilde yapılmaktadır. Bu makinalar, genellikle ti­şört baskısında kullanılır ve yarı otomatiktir. Aşağıda verilenlerden hangisi bu makinalara verilen isimdir?",
+        "SoruMetni": "Serigrafide birden fazla kalıpla renkleri hızlıca basmaya elveren tezgahlar bulunmakta, baskı bu makinalarla hızlı bir şekilde yapılmaktadır. Bu makinalar, genellikle ti­şört baskısında kullanılır ve yarı otomatiktir. Aşağıda verilenlerden hangisi bu makinalara verilen isimdir?",
         "A": "Marimekko",
         "B": "The Factory",
         "C": "Ahtapot",
@@ -4001,7 +4061,7 @@
     },
     {
         "SoruID": 3764747,
-        "SoruMetni": "Çinlerden Japonlara geçen, daha çok kumaş baskısında kullanılan, ipeğin üzerine maskeleyerek boyanması tekniğine verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?",
+        "SoruMetni": "Çinlerden Japonlara geçen, daha çok kumaş baskısında kullanılan, ipeğin üzerine maskeleyerek boyanması tekniğine verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?",
         "A": "Katazome",
         "B": "Katagami",
         "C": "Kasnak",
@@ -4017,11 +4077,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çinlerden Japonlara geçen teknik daha çok kumaş baskısında kullanılır. Japonya’da serigrafi tekniği daha da ileri düzeye taşınır. Şablonlarla tek renkli veya çok renkli desenleri katagami adı verdikleri bu tekniği ile uygulamaya başlarlar. Elle şablon kesme tekniğine katagami, ipeğin üzerine maskeleyerek boyanması tekniğine ise katazome adı verilir. Dolayısıyla cevap A şıkkıdır."
+        "Aciklama": "Çinlerden Japonlara geçen teknik daha çok kumaş baskısında kullanılır. Japonya’da serigrafi tekniği daha da ileri düzeye taşınır. Şablonlarla tek renkli veya çok renkli desenleri katagami adı verdikleri bu tekniği ile uygulamaya başlarlar. Elle şablon kesme tekniğine katagami, ipeğin üzerine maskeleyerek boyanması tekniğine ise katazome adı verilir. Dolayısıyla cevap A şıkkıdır."
     },
     {
         "SoruID": 3764748,
-        "SoruMetni": "Birinci Dünya Savaşı patlak verdiğinde matbaa üretimi hızlandı ve San Francisco’da John Pilsworth tarafından bir çok-renkli yöntem geliştirildi. Basılmakta olan renklere karşılık gelen ekranın alanını bloke ederek çok renkli işin basılması için bir kalıp kullan yönteme verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?",
+        "SoruMetni": "Birinci Dünya Savaşı patlak verdiğinde matbaa üretimi hızlandı ve San Francisco’da John Pilsworth tarafından bir çok-renkli yöntem geliştirildi. Basılmakta olan renklere karşılık gelen ekranın alanını bloke ederek çok renkli işin basılması için bir kalıp kullan yönteme verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?",
         "A": "Katagami",
         "B": "Selectasine",
         "C": "Katazome",
@@ -4037,7 +4097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Birinci Dünya Savaşı patlak verdiğinde matbaa üretimi hızlandı ve San Francisco’da John Pilsworth tarafından bir çok-renkli yöntem geliştirildi. Selectasine yöntemi olarak bilinen bu yöntem, basılmakta olan renklere karşılık gelen ekranın alanını bloke ederek çok renkli işin basılması için bir kalıp kullanıyordu. Dolayısıyla cevap B şıkkıdır."
+        "Aciklama": "Birinci Dünya Savaşı patlak verdiğinde matbaa üretimi hızlandı ve San Francisco’da John Pilsworth tarafından bir çok-renkli yöntem geliştirildi. Selectasine yöntemi olarak bilinen bu yöntem, basılmakta olan renklere karşılık gelen ekranın alanını bloke ederek çok renkli işin basılması için bir kalıp kullanıyordu. Dolayısıyla cevap B şıkkıdır."
     },
     {
         "SoruID": 3764749,
@@ -4061,7 +4121,7 @@
     },
     {
         "SoruID": 3764750,
-        "SoruMetni": "Kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu baskı tekniklerine verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?",
+        "SoruMetni": "Kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu baskı tekniklerine verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?",
         "A": "Çukur baskı",
         "B": "Elek baskı",
         "C": "Yüksek baskı",
@@ -4077,11 +4137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düz baskı ise kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu tekniklerdir. Dolayısıyla cevap D şıkkıdır."
+        "Aciklama": "Düz baskı ise kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu tekniklerdir. Dolayısıyla cevap D şıkkıdır."
     },
     {
         "SoruID": 3764751,
-        "SoruMetni": "Özel kırmızı renkte bir filmle çalışılan, adı bu alanda en yaygın ürünün markasından gelen, bu filmin kırmızı rengi sayesinde ultraviyole ışığın eleğe geçişini engellediği, bu filmin kalın asetat üzerine yapışmış ince kırmızı film tabakasından meydana geldiği ve kesilen alanlardan kırmızı filmin sıyrılarak çalışmanın yapıldığı  serigrafi kalıbı hazırlama yöntemine verilen ad aşağıdaki hangi şıkta belirtilmiştir ?",
+        "SoruMetni": "Özel kırmızı renkte bir filmle çalışılan, adı bu alanda en yaygın ürünün markasından gelen, bu filmin kırmızı rengi sayesinde ultraviyole ışığın eleğe geçişini engellediği, bu filmin kalın asetat üzerine yapışmış ince kırmızı film tabakasından meydana geldiği ve kesilen alanlardan kırmızı filmin sıyrılarak çalışmanın yapıldığı serigrafi kalıbı hazırlama yöntemine verilen ad aşağıdaki hangi şıkta belirtilmiştir ?",
         "A": "Gravür",
         "B": "Linol baskı",
         "C": "Şablon baskı",
@@ -4097,11 +4157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir yöntem ise rubylith adı verilen özel kırmızı renkte bir filmle çalışmaktır. Adı bu alanda en yaygın ürünün markasından gelmektedir. Bu film kırmızı rengi sayesinde ultraviyole ışığın eleğe geçişini engeller. Bu film kalın asetat üzerine yapışmış ince kırmızı film tabakasından meydana gelir. Kesilen alanlardan kırmızı film sıyrılarak çalışma yapılır. Dolayısıyla cevap E şıkkıdır."
+        "Aciklama": "Bir yöntem ise rubylith adı verilen özel kırmızı renkte bir filmle çalışmaktır. Adı bu alanda en yaygın ürünün markasından gelmektedir. Bu film kırmızı rengi sayesinde ultraviyole ışığın eleğe geçişini engeller. Bu film kalın asetat üzerine yapışmış ince kırmızı film tabakasından meydana gelir. Kesilen alanlardan kırmızı film sıyrılarak çalışma yapılır. Dolayısıyla cevap E şıkkıdır."
     },
     {
         "SoruID": 3764752,
-        "SoruMetni": "Fotografik pozlama ile kalıp hazırlama yönteminde renkli fotografik imgelerin da basılması mümkündür. Baskı öncesi aşamada bilgisayar ortamında basılmak istenen görsel CMYK renklerine ayrıştırılarak film çıktısı alınır, sonrasında bu ayrı filmlerin her biri kaç adet ayrı kalıpta pozlanır ?",
+        "SoruMetni": "Fotografik pozlama ile kalıp hazırlama yönteminde renkli fotografik imgelerin da basılması mümkündür. Baskı öncesi aşamada bilgisayar ortamında basılmak istenen görsel CMYK renklerine ayrıştırılarak film çıktısı alınır, sonrasında bu ayrı filmlerin her biri kaç adet ayrı kalıpta pozlanır ?",
         "A": "Dört",
         "B": "Altı",
         "C": "İki",
@@ -4117,7 +4177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotografik pozlama ile kalıp hazırlama yönteminde, renkli fotografik imgelerin da basılması mümkündür. Baskı öncesi aşamada bilgisayar ortamında basılmak istenen görsel CMYK renklerine ayrıştırılarak film çıktısı alınır, sonrasında bu dört ayrı filmin her biri 4 ayrı kalıpta pozlanır. Dolayısıyla cevap A şıkkıdır."
+        "Aciklama": "Fotografik pozlama ile kalıp hazırlama yönteminde, renkli fotografik imgelerin da basılması mümkündür. Baskı öncesi aşamada bilgisayar ortamında basılmak istenen görsel CMYK renklerine ayrıştırılarak film çıktısı alınır, sonrasında bu dört ayrı filmin her biri 4 ayrı kalıpta pozlanır. Dolayısıyla cevap A şıkkıdır."
     },
     {
         "SoruID": 3764753,
@@ -4157,11 +4217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Emülsiyon çekme küreği, boş ipek eleğin emülsiyon malzemesiyle kaplanması için kullanılan gereçtir. Dolayısıyla cevap C şıkkıdır."
+        "Aciklama": "Emülsiyon çekme küreği, boş ipek eleğin emülsiyon malzemesiyle kaplanması için kullanılan gereçtir. Dolayısıyla cevap C şıkkıdır."
     },
     {
         "SoruID": 3764755,
-        "SoruMetni": "Serigrafi tekniğini kullanan hangi sanatçı, farklı renklerde mürekkepleri birleştiren ticari sürecin ilk güzel sanat uygulamalarından biri olan “split fountain” (degrade) tekniğiyle yapılan harmanlanmış renklerin yanı sıra düz, düz renkli alanlar elde etmeyi başarmıştır ?",
+        "SoruMetni": "Serigrafi tekniğini kullanan hangi sanatçı, farklı renklerde mürekkepleri birleştiren ticari sürecin ilk güzel sanat uygulamalarından biri olan “split fountain” (degrade) tekniğiyle yapılan harmanlanmış renklerin yanı sıra düz, düz renkli alanlar elde etmeyi başarmıştır ?",
         "A": "Warhol",
         "B": "Keating",
         "C": "Opie",
@@ -4177,7 +4237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Serigrafi tekniğini kullanan Ruscha, farklı renklerde mürekkepleri birleştiren ticari sürecin ilk güzel sanat uygulamalarından biri olan “split fountain” (degrade) tekniğiyle yapılan harmanlanmış renklerin yanı sıra düz, düz renkli alanlar elde etmeyi başardı. Dolayısıyla cevap D şıkkıdır."
+        "Aciklama": "Serigrafi tekniğini kullanan Ruscha, farklı renklerde mürekkepleri birleştiren ticari sürecin ilk güzel sanat uygulamalarından biri olan “split fountain” (degrade) tekniğiyle yapılan harmanlanmış renklerin yanı sıra düz, düz renkli alanlar elde etmeyi başardı. Dolayısıyla cevap D şıkkıdır."
     },
     {
         "SoruID": 3764756,
@@ -4237,11 +4297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İpek elek, çekme küreği yardımıyla emülsiyon denilen bir sıvı bir malzemeyle kaplanır. Bu ince tabaka ışığa duyarlıdır. İstenilen tasarımın siyah beyaz olarak çıktısının alındığı veya elle hazırlanan film ışığı duyarlı bu kalıp ile birlikte kaplanıp pozlama ünitesinde gerekli ışık ve zaman ayarı yapılarak pozlanır.Emülsiyonlu kalıp pozitif filmle pozlanır ve böylelikle siyah olan alanlar ışığı geçirmeyerek yumuşak kalır, ışık alan alanlar ise sertleşerek sabitlenir.<br/> Emülsiyon pozlama aşaması , onun dışındaki malzemeler  baskı aşaması için gereklidir."
+        "Aciklama": "İpek elek, çekme küreği yardımıyla emülsiyon denilen bir sıvı bir malzemeyle kaplanır. Bu ince tabaka ışığa duyarlıdır. İstenilen tasarımın siyah beyaz olarak çıktısının alındığı veya elle hazırlanan film ışığı duyarlı bu kalıp ile birlikte kaplanıp pozlama ünitesinde gerekli ışık ve zaman ayarı yapılarak pozlanır.Emülsiyonlu kalıp pozitif filmle pozlanır ve böylelikle siyah olan alanlar ışığı geçirmeyerek yumuşak kalır, ışık alan alanlar ise sertleşerek sabitlenir.<br/>Emülsiyon pozlama aşaması , onun dışındaki malzemeler baskı aşaması için gereklidir."
     },
     {
         "SoruID": 3764803,
-        "SoruMetni": "Serigrafi baskıda işlem sıralaması hangisinde doğru verilmiştir? <br/> a.pozlama<br/> b.kalıba emülsiyon çekilmesi <br/> c. baskı<br/> d.kalıbın yıkanması ve kurutulması",
+        "SoruMetni": "Serigrafi baskıda işlem sıralaması hangisinde doğru verilmiştir? <br/>a.pozlama<br/>b.kalıba emülsiyon çekilmesi <br/>c. baskı<br/>d.kalıbın yıkanması ve kurutulması",
         "A": "a,b,c,d",
         "B": "b,a,d,c",
         "C": "a,c,d,b",
@@ -4257,7 +4317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1.kalıba emülsiyon çekilmesi <br/> 2.pozlama <br/> 3.kalıbın yıkanması ve kurutulması <br/> 4.boya hazırlama<br/> 5.baskı"
+        "Aciklama": "1.kalıba emülsiyon çekilmesi <br/>2.pozlama <br/>3.kalıbın yıkanması ve kurutulması <br/>4.boya hazırlama<br/>5.baskı"
     },
     {
         "SoruID": 3764804,
@@ -4284,7 +4344,7 @@
         "SoruMetni": "Serigrafide kullanılan eleklerin sıklığı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
         "A": "Yüksek sıklıkta elekte yüzeye geçen mürekkep miktarı daha düşüktür.",
         "B": "Elek sıklığı inç başına düşen ip sayısı olarak ölçülür.",
-        "C": "Yüksek sıklıkta elek detaylı baskıların çoğaltımında daha iyi sonuç verir.",
+        "C": "Yüksek sıklıkta elek detaylı baskıların çoğaltımında daha iyi sonuç verir.",
         "D": "Yoğun mürekkebin elekten geçebilmesi için elek sıklığının yüksek olması gerekir",
         "E": "kuşe kağıt gibi yüzeylerde yüksek sıklıkta elekler kullanılır.",
         "DogruCevap": "D",
@@ -4361,7 +4421,7 @@
     },
     {
         "SoruID": 3764809,
-        "SoruMetni": "Cilt bezi kumaşı üzerine baskıda hangi sıklıkta elek tercih edilir?<br/><br/>",
+        "SoruMetni": "Cilt bezi kumaşı üzerine baskıda hangi sıklıkta elek tercih edilir?",
         "A": "110",
         "B": "160",
         "C": "200",
@@ -4381,7 +4441,7 @@
     },
     {
         "SoruID": 3764811,
-        "SoruMetni": "Tekstil baskısı için çok renkli bir rotatif serigrafi makinesi geliştiren ve ve patentini alan Amerikalı girişimci, sanatçı ve mucit kimdir?  <br/><br/>",
+        "SoruMetni": "Tekstil baskısı için çok renkli bir rotatif serigrafi makinesi geliştiren ve ve patentini alan Amerikalı girişimci, sanatçı ve mucit kimdir?",
         "A": "Joe Ulano",
         "B": "Andy Warhol",
         "C": "Mildred Rackley",
@@ -4401,7 +4461,7 @@
     },
     {
         "SoruID": 3764521,
-        "SoruMetni": "Kullanımı dikkat gerektiren, izleyiciyi ha­rekete geçirme etkisine sahip; yalnız başına kulla­nıldığında dahi birçok farklı mesajı iletebilen, duy­gu yaratma gücü olan hatta insan bedeninde ya da zihninde ölçülebilir reaksiyonlara neden olabilen, kuvvetli bir tasarım elemanıdır.<br/><br/>Bu ifadeler aşağıdakilerden hangisini tanımlamaktadır.",
+        "SoruMetni": "Kullanımı dikkat gerektiren, izleyiciyi ha­rekete geçirme etkisine sahip; yalnız başına kulla­nıldığında dahi birçok farklı mesajı iletebilen, duy­gu yaratma gücü olan hatta insan bedeninde ya da zihninde ölçülebilir reaksiyonlara neden olabilen, kuvvetli bir tasarım elemanıdır.<br/>Bu ifadeler aşağıdakilerden hangisini tanımlamaktadır.",
         "A": "Ritm",
         "B": "Denge",
         "C": "Renk",
@@ -4441,7 +4501,7 @@
     },
     {
         "SoruID": 3764523,
-        "SoruMetni": "Renk çemberleri renklerin arasındaki ilişkileri anlamak, birbiri ile uyumlu renk armoni­leri kurmak, renk seçimleri yaparken birbirilerinin etkisini artırabilecek renkleri seçerken birbirinin etkisini zayıflatabilecek eşleşmelerden kaçınmak için faydalı araçlardır. Renk çemberi aşağıda isimleri  verilen kişilerden hangisinin deneyimleri sonucunda düzenlemiştir.",
+        "SoruMetni": "Renk çemberleri renklerin arasındaki ilişkileri anlamak, birbiri ile uyumlu renk armoni­leri kurmak, renk seçimleri yaparken birbirilerinin etkisini artırabilecek renkleri seçerken birbirinin etkisini zayıflatabilecek eşleşmelerden kaçınmak için faydalı araçlardır. Renk çemberi aşağıda isimleri verilen kişilerden hangisinin deneyimleri sonucunda düzenlemiştir.",
         "A": "Lupton",
         "B": "Phillips",
         "C": "Newton",
@@ -4461,7 +4521,7 @@
     },
     {
         "SoruID": 3764524,
-        "SoruMetni": "CMYK olarak kabul edilen  renkler aşağıdakilerden hangisidir",
+        "SoruMetni": "CMYK olarak kabul edilen renkler aşağıdakilerden hangisidir",
         "A": "Mor, Yeşil, Siyah, Cyan",
         "B": "Sarı, Magenta, Kırmızı, Mor",
         "C": "Magenta, Sarı, Cyan, Siyah,",
@@ -4581,7 +4641,7 @@
     },
     {
         "SoruID": 3764544,
-        "SoruMetni": "Aşağıdaki araçlardan  hangisi detaylı bir kullanım bilgisi gerektirmeyen, görsellerin renk ve kontrast gibi değerlerini hızlı şekilde düzeltme imkânı sağlayan araçlardandır. ?",
+        "SoruMetni": "Aşağıdaki araçlardan hangisi detaylı bir kullanım bilgisi gerektirmeyen, görsellerin renk ve kontrast gibi değerlerini hızlı şekilde düzeltme imkânı sağlayan araçlardandır. ?",
         "A": "Seçmeli Renk",
         "B": "Doygunluk",
         "C": "Ton",
@@ -4617,7 +4677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "•  3 ikincil (yeşil, <strong>mor,</strong> turuncu)"
+        "Aciklama": "Renk Teorisi<br>• 3 ikincil (yeşil, <strong>mor,</strong> turuncu)"
     },
     {
         "SoruID": 3764579,
@@ -4637,7 +4697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "• 3 birincil (sarı, mavi, <strong>kırmızı)•</strong>"
+        "Aciklama": "Renk Teorisi<br>• 3 birincil (sarı, mavi, <strong>kırmızı)•</strong>"
     },
     {
         "SoruID": 3764604,
@@ -4677,7 +4737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Renk yönetimi</strong>, tasarım ve üretim aşamasında kullanılan cihazlar arasında renk dönüşümlerinin yapılmasını, baskı sonucunun ekranda ve provada simüle edilmesini sağlar."
+        "Aciklama": "<strong>ICC ve Renk Profilleri</strong><br><strong>Renk yönetimi</strong>, tasarım ve üretim aşamasında kullanılan cihazlar arasında renk dönüşümlerinin yapılmasını, baskı sonucunun ekranda ve provada simüle edilmesini sağlar."
     },
     {
         "SoruID": 3764606,
@@ -4721,7 +4781,7 @@
     },
     {
         "SoruID": 3764608,
-        "SoruMetni": "Aşağıdaki kavramlardan hangisi tüm baskı birimlerinin tutarlı bir şekilde aynı sonuçları sağladığından emin olmayı içerir?",
+        "SoruMetni": "Aşağıdaki kavramlardan hangisi tüm baskı birimlerinin tutarlı bir şekilde aynı sonuçları sağladığından emin olmayı içerir?",
         "A": "Renk Profilleri",
         "B": "Stabilizasyon",
         "C": "Kalibrasyon",
@@ -4761,7 +4821,7 @@
     },
     {
         "SoruID": 3764610,
-        "SoruMetni": "Aşağıdaki boşluğu doldurunuz?<br/> Toplamsal renk metodunun üç ana rengi olan kırmızı yeşil ve mavi, beyaz ışığın bir bileşenini temsil eder ve böylece tüm renklerin üst üste geldiği yerde ............. üretilir.",
+        "SoruMetni": "Aşağıdaki boşluğu doldurunuz?<br/>Toplamsal renk metodunun üç ana rengi olan kırmızı yeşil ve mavi, beyaz ışığın bir bileşenini temsil eder ve böylece tüm renklerin üst üste geldiği yerde ............. üretilir.",
         "A": "Sarı",
         "B": "Turuncu",
         "C": "Siyah",
@@ -4777,7 +4837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Toplamsal renk metodunun üç ana rengi olan kırmızı yeşil ve mavi, beyaz ışığın bir bileşenini temsil eder ve böylece tüm renklerin üst üste geldiği yerde beyaz üretilir."
+        "Aciklama": "Işık ile Oluşan Renk (Toplamsal Renk Metodu)<br>Toplamsal renk metodunun üç ana rengi olan kırmızı yeşil ve mavi, beyaz ışığın bir bileşenini temsil eder ve böylece tüm renklerin üst üste geldiği yerde beyaz üretilir."
     },
     {
         "SoruID": 3764611,
@@ -4801,7 +4861,7 @@
     },
     {
         "SoruID": 3764757,
-        "SoruMetni": "…………..kitap, dergi, Logo tasarımı, ambalaj tasarımı, web sayfası tasarımları, afiş, kartvizit vb. tanıtıma ve bilgilendirmeye yönelik ürünlerdir. Bu ürünler, yaratıcı fikir çerçevesinde tasarlanarak üretilir ve çoğaltılarak hedef kitlesine ulaştırılır.<br/> Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "…………..kitap, dergi, Logo tasarımı, ambalaj tasarımı, web sayfası tasarımları, afiş, kartvizit vb. tanıtıma ve bilgilendirmeye yönelik ürünlerdir. Bu ürünler, yaratıcı fikir çerçevesinde tasarlanarak üretilir ve çoğaltılarak hedef kitlesine ulaştırılır.<br/>Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "Web Ürün",
         "B": "Grafik ürün",
         "C": "Tipografik ürün",
@@ -4861,7 +4921,7 @@
     },
     {
         "SoruID": 3764760,
-        "SoruMetni": "Dijital görüntüleme sistemlerinde Renk Yönetimi ………………………gibi endüstriyel baskı sistemleri arasında kontrollü bir renk iletişimi sağlamak anlamına gelir.<br/> Yukarıdaki boş yere aşağıdakilerden hangisi gelemez?",
+        "SoruMetni": "Dijital görüntüleme sistemlerinde Renk Yönetimi ………………………gibi endüstriyel baskı sistemleri arasında kontrollü bir renk iletişimi sağlamak anlamına gelir.<br/>Yukarıdaki boş yere aşağıdakilerden hangisi gelemez?",
         "A": "Tarayıcılar",
         "B": "Telgraflar",
         "C": "Televizyon ekranları",
@@ -4881,7 +4941,7 @@
     },
     {
         "SoruID": 3764761,
-        "SoruMetni": "…………… bir renk modelinde, belli bir renk evreninin (ya da bir cihazın) üretebildiği renk aralığını tanımlar.<br/> Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "…………… bir renk modelinde, belli bir renk evreninin (ya da bir cihazın) üretebildiği renk aralığını tanımlar.<br/>Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "Renk gamı",
         "B": "Renk değeri",
         "C": "Renk katmanı",
@@ -4901,7 +4961,7 @@
     },
     {
         "SoruID": 3764762,
-        "SoruMetni": "Dijital grafiklerin üretiminde tercih edilen, renkleri tanımlarken 6 haneli kodlar kullanan ve RGB sistemindeki 3 rengin olası tüm permütasyonlarını bu kodlarla karşılayan renk sistemi. <br/> Yukarıda tanımı verilen kavram nedir?",
+        "SoruMetni": "Dijital grafiklerin üretiminde tercih edilen, renkleri tanımlarken 6 haneli kodlar kullanan ve RGB sistemindeki 3 rengin olası tüm permütasyonlarını bu kodlarla karşılayan renk sistemi. <br/>Yukarıda tanımı verilen kavram nedir?",
         "A": "CMYK",
         "B": "RCB",
         "C": "HSL",
@@ -4961,7 +5021,7 @@
     },
     {
         "SoruID": 3764765,
-        "SoruMetni": "……………. tüm baskı birimlerinin tutarlı bir şekilde aynı sonuçları sağladığından emin olmayı içerir. Mekanik hatalar veya nem ve sıcaklık gibi değişken çevresel koşullar nedeniyle tutarsızlıklar meydana gelebilir. <br/><br/>Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "……………. tüm baskı birimlerinin tutarlı bir şekilde aynı sonuçları sağladığından emin olmayı içerir. Mekanik hatalar veya nem ve sıcaklık gibi değişken çevresel koşullar nedeniyle tutarsızlıklar meydana gelebilir. <br/>Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "Stabilizasyon",
         "B": "Kalibrasyon",
         "C": "Özelleştirme",
@@ -4981,7 +5041,7 @@
     },
     {
         "SoruID": 3764766,
-        "SoruMetni": "……………………“renk içeriği verilerinin açık bir şekilde yorumlanması için gerekli olan verilerin iletilmesi, dönüştürülmesi ve böylece amaçlanan renk üretiminin sağlanabilmesi” olarak tanımlanabilir.<br/> Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "……………………“renk içeriği verilerinin açık bir şekilde yorumlanması için gerekli olan verilerin iletilmesi, dönüştürülmesi ve böylece amaçlanan renk üretiminin sağlanabilmesi” olarak tanımlanabilir.<br/>Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "Renk karşılaştırması",
         "B": "Renk belirlemesi",
         "C": "Renk yönetimi",
@@ -5017,7 +5077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlk Uluslararası Kağıt Sanatı Bienali 1981 yılında Almanya’nın Düren kentinde Leopold Hoesch Müzesi’nde düzenlendi"
+        "Aciklama": "Grafik Üretim ve Dijital Çoğaltım Teknikleri giriş<br>İlk Uluslararası Kağıt Sanatı Bienali 1981 yılında Almanya’nın Düren kentinde Leopold Hoesch Müzesi’nde düzenlendi"
     },
     {
         "SoruID": 3764370,
@@ -5037,7 +5097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "M.S 105 yılında bitkisel liflerden elde edilen ilk kağıt Tsai Lun adında Çin İmparatorluğu Tarım Bakanlığında çalışan bir saray memuru tarafından bulunmuştur"
+        "Aciklama": "Dijital Baskı da Kullanılan Kağıdın Tarihçesi<br>M.S 105 yılında bitkisel liflerden elde edilen ilk kağıt Tsai Lun adında Çin İmparatorluğu Tarım Bakanlığında çalışan bir saray memuru tarafından bulunmuştur"
     },
     {
         "SoruID": 3764371,
@@ -5057,11 +5117,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkiye’de ise ilk kağıt fabrikası 1453 yılında İstanbul’da Kağıthane’de kurulmuş olup Çinlilerin üretim tekniğine benzer elle imalat yapımı uygulanmıştır."
+        "Aciklama": "Dijital Baskı da Kullanılan Kağıdın Tarihçesi<br>Türkiye’de ise ilk kağıt fabrikası 1453 yılında İstanbul’da Kağıthane’de kurulmuş olup Çinlilerin üretim tekniğine benzer elle imalat yapımı uygulanmıştır."
     },
     {
         "SoruID": 3764372,
-        "SoruMetni": "Sulu sistemle kağıt üretimi sırasında lifler tarafından tutulan su, ______ ile uzaklaştırılır.<br/> Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Sulu sistemle kağıt üretimi sırasında lifler tarafından tutulan su, ______ ile uzaklaştırılır.<br/>Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Kurutma",
         "B": "Dövme",
         "C": "Çevirme",
@@ -5097,7 +5157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yumuşak ağaçlar (Çam, köknar, ladin, kavak) uzun liflere sahiptir. Ve bu ağaçlardan üretilen kağıtlar oldukça dayanıklıdır."
+        "Aciklama": "Kağıt Üretimi<br>Yumuşak ağaçlar (Çam, köknar, ladin, kavak) uzun liflere sahiptir. Ve bu ağaçlardan üretilen kağıtlar oldukça dayanıklıdır."
     },
     {
         "SoruID": 3764374,
@@ -5117,7 +5177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yumuşak ağaçlar (Çam, köknar, ladin, kavak) uzun liflere sahiptir. Ve bu ağaçlardan üretilen kağıtlar oldukça dayanıklıdır."
+        "Aciklama": "Kağıt Üretimi<br>Yumuşak ağaçlar (Çam, köknar, ladin, kavak) uzun liflere sahiptir. Ve bu ağaçlardan üretilen kağıtlar oldukça dayanıklıdır."
     },
     {
         "SoruID": 3764375,
@@ -5137,7 +5197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üçüncü hamur kağıtlar: 57 x 82 cm, 68 x 100 cm"
+        "Aciklama": "Kağıdın özellikleri<br>Üçüncü hamur kağıtlar: 57 x 82 cm, 68 x 100 cm"
     },
     {
         "SoruID": 3764376,
@@ -5157,7 +5217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "210x297mm"
+        "Aciklama": "Kağıdın Özellikleri<br>210x297mm"
     },
     {
         "SoruID": 3764377,
@@ -5177,7 +5237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kuşe (Parlak) kağıt: Halk arasında parlak kağıt olarak bilinen, yüzeyi işlenmiş kağıt türüdür. İki yüzü de parlak ise kuşe, tek yüzü parlak ise kromolüks olarak adlandırılır."
+        "Aciklama": "DİJİTAL TASARIM SONRASI BASKIDA KAĞIT TÜRLERİ, KATLAMA-KIRIM-FORMA<br>Kuşe (Parlak) kağıt: Halk arasında parlak kağıt olarak bilinen, yüzeyi işlenmiş kağıt türüdür. İki yüzü de parlak ise kuşe, tek yüzü parlak ise kromolüks olarak adlandırılır."
     },
     {
         "SoruID": 3764378,
@@ -5197,7 +5257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kros: “Baskı esnasında renklerin yerine oturmasını sağlayan kılavuz işaretlerdir. Genellikle kâğıt ortasına yerleştirilir. Kalıp çekimi, baskı ve kırım bu kroslara göre yapılır.”"
+        "Aciklama": "Dijital Tasarım Sonrası Baskıda Kağıt Katlama-Kırım-Forma<br>Kros: “Baskı esnasında renklerin yerine oturmasını sağlayan kılavuz işaretlerdir. Genellikle kâğıt ortasına yerleştirilir. Kalıp çekimi, baskı ve kırım bu kroslara göre yapılır.”"
     },
     {
         "SoruID": 3764576,
@@ -5221,7 +5281,7 @@
     },
     {
         "SoruID": 3764577,
-        "SoruMetni": "I. Kayalar ve taşlar, II. Kil tablet ve çömlekler, III. Cam ve elyaf, IV. Ağaç ve kaplumbağa kabuğu,<br/><br/>Sıralanan maddelerden hangileri kağıdın keşfinden önce kayıt altına alma ve yazınsal iletişimde yazıların kazınarak oyulduğu malzemeler arasında yer almaktadır?",
+        "SoruMetni": "I. Kayalar ve taşlar, II. Kil tablet ve çömlekler, III. Cam ve elyaf, IV. Ağaç ve kaplumbağa kabuğu,<br/>Sıralanan maddelerden hangileri kağıdın keşfinden önce kayıt altına alma ve yazınsal iletişimde yazıların kazınarak oyulduğu malzemeler arasında yer almaktadır?",
         "A": "I, II ve III",
         "B": "I, II ve IV",
         "C": "II, III ve IV",
@@ -5237,11 +5297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "III. Cam ve elyaf, yazı kazımak için kullanılan malzemeler arasında yer almaz.<br/><br/>Doğru yanıt, doğru seçenekler olan I, II ve IV numaralı ifadeleri içeren B seçeneğidir."
+        "Aciklama": "III. Cam ve elyaf, yazı kazımak için kullanılan malzemeler arasında yer almaz.<br/>Doğru yanıt, doğru seçenekler olan I, II ve IV numaralı ifadeleri içeren B seçeneğidir."
     },
     {
         "SoruID": 3764580,
-        "SoruMetni": "M.Ö 4000’li yıllarda Mısırlılar tarafından, kağıda benzeyen ve kamış benzeri bir bitkiden üretilen ilk yazı sayfası  aşağıdakilerden hangisidir?",
+        "SoruMetni": "M.Ö 4000’li yıllarda Mısırlılar tarafından, kağıda benzeyen ve kamış benzeri bir bitkiden üretilen ilk yazı sayfası aşağıdakilerden hangisidir?",
         "A": "Papier",
         "B": "Cypruspapyrus",
         "C": "Papirus",
@@ -5277,11 +5337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Çeşitli işlemler sonucunda elde edilen kağıt, standart ölçülerde kesilerek paketlenip baskı için sevk ediliyordu.\" ifadesi <strong>yanlıştır.</strong> Papirüs kağıdının belli ölçülerde kesilip standart ölçülendirilmesi söz konusu değildir. Elde edilen kağıt bir kaç metrelik rulolar halinde saklanıyordu.<br/> Doğru yanıt <strong>E</strong> seçeneğidir."
+        "Aciklama": "\"Çeşitli işlemler sonucunda elde edilen kağıt, standart ölçülerde kesilerek paketlenip baskı için sevk ediliyordu.\" ifadesi <strong>yanlıştır.</strong> Papirüs kağıdının belli ölçülerde kesilip standart ölçülendirilmesi söz konusu değildir. Elde edilen kağıt bir kaç metrelik rulolar halinde saklanıyordu.<br/>Doğru yanıt <strong>E</strong> seçeneğidir."
     },
     {
         "SoruID": 3764582,
-        "SoruMetni": "I. Kağıt yapımında üç temel unsur bulunur: Su, enerji, selüloz lifleri; II. Bir kağıdın özelliklerini belirleyen en önemli unsur, ağacın içindeki lif yapısıdır; III. Yumuşak ağaçlar (Çam, köknar, ladin, kavak) uzun liflere sahiptir. Ve bu ağaçlardan üretilen kağıtlar oldukça dayanıklıdır; IV. Ağaçların kağıt hamuru hâline getirilmelerinde mekanik ve kimyasal ve elektronik yöntemlerden yararlanılır. V. En kolay ve ekonomik kağıt hamuru üretme biçimi, elektronik yöntemdir. <br/> Kağıt ve üretimi konusunda sıralanan ifadelerden hangileri doğrudur?",
+        "SoruMetni": "I. Kağıt yapımında üç temel unsur bulunur: Su, enerji, selüloz lifleri; II. Bir kağıdın özelliklerini belirleyen en önemli unsur, ağacın içindeki lif yapısıdır; III. Yumuşak ağaçlar (Çam, köknar, ladin, kavak) uzun liflere sahiptir. Ve bu ağaçlardan üretilen kağıtlar oldukça dayanıklıdır; IV. Ağaçların kağıt hamuru hâline getirilmelerinde mekanik ve kimyasal ve elektronik yöntemlerden yararlanılır. V. En kolay ve ekonomik kağıt hamuru üretme biçimi, elektronik yöntemdir. <br/>Kağıt ve üretimi konusunda sıralanan ifadelerden hangileri doğrudur?",
         "A": "I, II, III ve V",
         "B": "I, II, IV ve V",
         "C": "I, II ve III",
@@ -5297,11 +5357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"<strong>IV</strong>. Ağaçların kağıt hamuru hâline getirilmelerinde mekanik ve kimyasal ve elektronik yöntemlerden yararlanılır; <strong>V</strong>. En kolay ve ekonomik kağıt hamuru üretme biçimi, elektronik yöntemdir.\" ifadeleri yanlıştır. Elektronik yöntem olarak tanımlanabilecek bir kağıt üretim yöntemi yoktur.<br/> Doğru ifadeler;<br/> <strong>\"IV</strong>. Ağaçların kağıt hamuru hâline getirilmelerinde mekanik ve kimyasal ve elektronik yöntemlerden yararlanılır. ve <strong>V</strong>. En kolay ve ekonomik kağıt hamuru üretme biçimi, mekanik yöntemdir.\"<br/> biçiminde olacaktır. Doğru yanıt I, II ve III numaralı ifadelerin yer aldığı<strong> C</strong> seçeneğidir."
+        "Aciklama": "\"<strong>IV</strong>. Ağaçların kağıt hamuru hâline getirilmelerinde mekanik ve kimyasal ve elektronik yöntemlerden yararlanılır; <strong>V</strong>. En kolay ve ekonomik kağıt hamuru üretme biçimi, elektronik yöntemdir.\" ifadeleri yanlıştır. Elektronik yöntem olarak tanımlanabilecek bir kağıt üretim yöntemi yoktur.<br/>Doğru ifadeler;<br/><strong>\"IV</strong>. Ağaçların kağıt hamuru hâline getirilmelerinde mekanik ve kimyasal ve elektronik yöntemlerden yararlanılır. ve <strong>V</strong>. En kolay ve ekonomik kağıt hamuru üretme biçimi, mekanik yöntemdir.\"<br/>biçiminde olacaktır. Doğru yanıt I, II ve III numaralı ifadelerin yer aldığı<strong> C</strong> seçeneğidir."
     },
     {
         "SoruID": 3764592,
-        "SoruMetni": "Aşağıdakilerden hangisi dijital tasarım sonrası kullanılan kağıt için yazılan tanım ya da tanımları içerir?<br/><br/>I-Üzerine yazı yazılan bir malzemedir.<br/><br/>II-Keten paçavraları, odun, vs. atık lifli maddelerin su içinde tokmak ve çekiçlerle dövülerek üretilen yazı taşıyıcı ince bir tabakadır.<br/><br/>III-Basım sanayinin, vazgeçilmez malzemesi olup tarihin yapıcısı ve taşıyıcısıdır.<br/><br/>IV-Grafik iletişimin temel malzemesidir.<br/><br/>V-Kağıt yüzyıllar boyu mesaj ve bilginin taşıyıcı malzemesidir.",
+        "SoruMetni": "Aşağıdakilerden hangisi dijital tasarım sonrası kullanılan kağıt için yazılan tanım ya da tanımları içerir?<br/>I-Üzerine yazı yazılan bir malzemedir.<br/>II-Keten paçavraları, odun, vs. atık lifli maddelerin su içinde tokmak ve çekiçlerle dövülerek üretilen yazı taşıyıcı ince bir tabakadır.<br/>III-Basım sanayinin, vazgeçilmez malzemesi olup tarihin yapıcısı ve taşıyıcısıdır.<br/>IV-Grafik iletişimin temel malzemesidir.<br/>V-Kağıt yüzyıllar boyu mesaj ve bilginin taşıyıcı malzemesidir.",
         "A": "I ve II",
         "B": "I-III",
         "C": "I, II ve IV",
@@ -5317,7 +5377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital tasarım sonrasında baskı yapımında kullanılan kağıt, malzeme olarak tanımlarken; keten paçavraları, odun, saman gibi atık lifli maddelerin su içinde tokmak ve çekiçlerle dövülerek üretilen yazı taşıyıcı ince tabakaya kağıt denilir. Başka bir tanımda ise “ham maddesi selüloz, odun, saman, atık kağıt gibi bitkisel maddeler olan, üzerine baskı yapmaya elverişli tabakaya kağıt” denir. Kağıdın ham maddesi bitkilerde bulunan liflerdir (selüloz). Kağıt, bitkisel lifler veya atık kağıtlardan, paçavralardan yeniden selülozun mekanik veya kimyasal yollarla liflendirilmesi ile hamurlardan üretilen, üzerine baskı yapmaya uygun tabakadır. Kağıt, “üzerine yazı yazılan bir materyal olarak tarihin yapıcısı ve taşıyıcısı olarak anlamsal bakımdan çoğalır”. Kağıt, grafik iletişimin temel malzemesidir. Kağıt yüzyıllar boyu mesaj ve bilginin taşıyıcı malzemesidir.  Bu tanımlar doğrultusunda \"E\" seçeneği doğru cevaptır."
+        "Aciklama": "Dijital tasarım sonrasında baskı yapımında kullanılan kağıt, malzeme olarak tanımlarken; keten paçavraları, odun, saman gibi atık lifli maddelerin su içinde tokmak ve çekiçlerle dövülerek üretilen yazı taşıyıcı ince tabakaya kağıt denilir. Başka bir tanımda ise “ham maddesi selüloz, odun, saman, atık kağıt gibi bitkisel maddeler olan, üzerine baskı yapmaya elverişli tabakaya kağıt” denir. Kağıdın ham maddesi bitkilerde bulunan liflerdir (selüloz). Kağıt, bitkisel lifler veya atık kağıtlardan, paçavralardan yeniden selülozun mekanik veya kimyasal yollarla liflendirilmesi ile hamurlardan üretilen, üzerine baskı yapmaya uygun tabakadır. Kağıt, “üzerine yazı yazılan bir materyal olarak tarihin yapıcısı ve taşıyıcısı olarak anlamsal bakımdan çoğalır”. Kağıt, grafik iletişimin temel malzemesidir. Kağıt yüzyıllar boyu mesaj ve bilginin taşıyıcı malzemesidir. Bu tanımlar doğrultusunda \"E\" seçeneği doğru cevaptır."
     },
     {
         "SoruID": 3764593,
@@ -5377,7 +5437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kağıdın yapım aşamaları; Kesme-Yıkama-Suyunu alma-Yoğurma-Dövme-Buharda haşlama-Çevirme-Kurutma ve Toplama olarak sıralanmaktadır. \"D\" seçeneği doğru cevaptır.<br/>"
+        "Aciklama": "Kağıdın yapım aşamaları; Kesme-Yıkama-Suyunu alma-Yoğurma-Dövme-Buharda haşlama-Çevirme-Kurutma ve Toplama olarak sıralanmaktadır. \"D\" seçeneği doğru cevaptır."
     },
     {
         "SoruID": 3764614,
@@ -5401,7 +5461,7 @@
     },
     {
         "SoruID": 3764615,
-        "SoruMetni": "<strong>I.</strong> Renk tonlarını göstermede, ışık ve gölge alanlarını yakalama ve zıt renklerin oluşumunda kağıdın rengi önemlidir,<strong> II</strong>.Grafik tasarım açısından renkli tasarımlar için en çok kullanılan kağıt rengi gridir,<strong> III.</strong> Kağıdın beyazlığı; içerisindeki ağartıcı kimyasal maddeler, fosforlu boyalar, pigment ve benzeri maddelerle ayarlanır, <strong>IV.</strong> Kağıdın rengi üzerine basılacak işin rengini etkiler. “Beyaz dışındaki kağıtlar daha az parıldama oluşturur, uzun metinlerin okunmasında kolaylık sağlar. Kağıt rengine ilişkin sıralanan ifadelerden hangileri doğrudur?",
+        "SoruMetni": "<strong>I.</strong> Renk tonlarını göstermede, ışık ve gölge alanlarını yakalama ve zıt renklerin oluşumunda kağıdın rengi önemlidir,<strong> II</strong>.Grafik tasarım açısından renkli tasarımlar için en çok kullanılan kağıt rengi gridir,<strong> III.</strong> Kağıdın beyazlığı; içerisindeki ağartıcı kimyasal maddeler, fosforlu boyalar, pigment ve benzeri maddelerle ayarlanır, <strong>IV.</strong> Kağıdın rengi üzerine basılacak işin rengini etkiler. “Beyaz dışındaki kağıtlar daha az parıldama oluşturur, uzun metinlerin okunmasında kolaylık sağlar. Kağıt rengine ilişkin sıralanan ifadelerden hangileri doğrudur?",
         "A": "I, II ve III",
         "B": "II, III ve IV",
         "C": "I, II ve IV",
@@ -5417,11 +5477,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>II</strong>.Grafik tasarım açısından renkli tasarımlar için en çok kullanılan kağıt rengi gridir,\" ifadesi yanlıştır. Grafik tasarımda en çok kullanılan kağıt rengi beyazdır.<br/> I, III ve IV numaralı ifadelerin olduğu E seçeneği doğru yanıttır."
+        "Aciklama": "<strong>II</strong>.Grafik tasarım açısından renkli tasarımlar için en çok kullanılan kağıt rengi gridir,\" ifadesi yanlıştır. Grafik tasarımda en çok kullanılan kağıt rengi beyazdır.<br/>I, III ve IV numaralı ifadelerin olduğu E seçeneği doğru yanıttır."
     },
     {
         "SoruID": 3764616,
-        "SoruMetni": "Aşağıdaki seçeneklerin hangisinde  kağıt türleri gr/m2 değerlerine göre, hafiften ağıra,  doğru biçimde sıralanmıştır?",
+        "SoruMetni": "Aşağıdaki seçeneklerin hangisinde kağıt türleri gr/m2 değerlerine göre, hafiften ağıra, doğru biçimde sıralanmıştır?",
         "A": "Mukavva, karton, kağıt",
         "B": "Karton, kağıt, mukavva",
         "C": "Kağıt, karton, mukavva",
@@ -5437,7 +5497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kağıdın gramajı ile kalınlığı doğru orantılıdır. Ağırlık arttıkça kalınlık da artar.<br/> Gramajına göre kağıtlar üç gruba ayrılır:<br/> • Kağıt: 40-150 gr/m2<br/> • Karton: 150-400 gr/m2<br/> • Mukavva: 400 gr/m2 üzeridir. Doğru yanıt <strong>C</strong> seçeneğindedir."
+        "Aciklama": "Kağıdın gramajı ile kalınlığı doğru orantılıdır. Ağırlık arttıkça kalınlık da artar.<br/>Gramajına göre kağıtlar üç gruba ayrılır:<br/>• Kağıt: 40-150 gr/m2<br/>• Karton: 150-400 gr/m2<br/>• Mukavva: 400 gr/m2 üzeridir. Doğru yanıt <strong>C</strong> seçeneğindedir."
     },
     {
         "SoruID": 3764617,
@@ -5445,7 +5505,7 @@
         "A": "Kağıdın yansıttığı ışığın ölçüsüdür.",
         "B": "Kağıdın üretim rengidir.",
         "C": "İşlenmiş kağıdın görüntüsüdür.",
-        "D": "Kağıtta gr/m2 özelliğinin yansımasıdır",
+        "D": "Kağıtta gr/m2 özelliğinin yansımasıdır",
         "E": "Kağıdın su yönünü gösteren özelliğidir.",
         "DogruCevap": "A",
         "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
@@ -5457,7 +5517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Parlaklık, kağıdın yansıttığı ışığın ölçüsüdür. Kağıtların çoğu gelen ışığın % 60-90’ını yansıtır. Kağıdın parlaklığı okunabilirliği etkilediğinden önemlidir. Yüksek parlaklık gözün yorulmasına neden olabilir. Özellikle yüzeyi işlenmiş ve parlak kağıtlar uzun metinlerden oluşan çalışmalar için uygun olmayacaktır”<br/><br/>Doğru yanıt <strong>A</strong> seçeneğidir."
+        "Aciklama": "“Parlaklık, kağıdın yansıttığı ışığın ölçüsüdür. Kağıtların çoğu gelen ışığın % 60-90’ını yansıtır. Kağıdın parlaklığı okunabilirliği etkilediğinden önemlidir. Yüksek parlaklık gözün yorulmasına neden olabilir. Özellikle yüzeyi işlenmiş ve parlak kağıtlar uzun metinlerden oluşan çalışmalar için uygun olmayacaktır”<br/>Doğru yanıt <strong>A</strong> seçeneğidir."
     },
     {
         "SoruID": 3764618,
@@ -5484,7 +5544,7 @@
         "SoruMetni": "Aşağıdaki ağaçlardan hangisi ile kalın ve kaba dokulu kağıtlar <strong>üretilmez</strong>?",
         "A": "Kayın",
         "B": "Gürgen",
-        "C": "Akçaağaç<br/><br/>",
+        "C": "Akçaağaç",
         "D": "Çam",
         "E": "Meşe",
         "DogruCevap": "D",
@@ -5502,7 +5562,7 @@
     {
         "SoruID": 3764642,
         "SoruMetni": "Aşağıdakilerden hangisinde hammaddeler ve kullanım amaçları doğru olarak eşleştirilmiştir?",
-        "A": "Kaolin-kağıdı sertleştirmek <br/><br/>",
+        "A": "Kaolin-kağıdı sertleştirmek",
         "B": "Hipoklorit-kağıdın rengini beyazlaştırmak",
         "C": "Tutkal-kağıdın rengini beyazlaştırmak",
         "D": "Magnezyum karbonat-kağıdın rengini açmak",
@@ -5557,7 +5617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<em>I. Hamur Kağıt:</em> İçinde ağaç miktarı az, selüloz miktarı fazla olan beyaz renkli kağıtlardır.<br/> <em>II. Hamur Kağıt:</em> İçinde selüloz ve odun miktarı hemen hemen eşit, rengi sarımsı olan kağıt türüdür.<br/> <em>III. Hamur Kağıt:</em> İçinde odun miktarı selüloz miktarından daha fazla olan kağıt türüdür.<br/> <em>Kuşe (Parlak) kağıt:</em> Halk arasında parlak kağıt olarak bilinen, yüzeyi işlenmiş kağıt türüdür. İki<br/>yüzü de parlak ise kuşe, tek yüzü parlak ise kromolüks olarak adlandırılır<br/> <em>Bristol:</em> Bir yüzeyi işlenmiş, parlak ve tam beyaz; diğer yüzeyi mat ve pürüzlü, kaliteli bir karton<br/>türüdür.<br/> <em>Aydınger kağıt:</em> Saydam kağıt grubundandır. Yüzeyi parlatılmış, şeffaf buzlu cam görüntüsünde<br/>bir kağıt türüdür. \"B\" seçeneği doğru cevaptır."
+        "Aciklama": "<em>I. Hamur Kağıt:</em> İçinde ağaç miktarı az, selüloz miktarı fazla olan beyaz renkli kağıtlardır.<br/><em>II. Hamur Kağıt:</em> İçinde selüloz ve odun miktarı hemen hemen eşit, rengi sarımsı olan kağıt türüdür.<br/><em>III. Hamur Kağıt:</em> İçinde odun miktarı selüloz miktarından daha fazla olan kağıt türüdür.<br/><em>Kuşe (Parlak) kağıt:</em> Halk arasında parlak kağıt olarak bilinen, yüzeyi işlenmiş kağıt türüdür. İki<br/>yüzü de parlak ise kuşe, tek yüzü parlak ise kromolüks olarak adlandırılır<br/><em>Bristol:</em> Bir yüzeyi işlenmiş, parlak ve tam beyaz; diğer yüzeyi mat ve pürüzlü, kaliteli bir karton<br/>türüdür.<br/><em>Aydınger kağıt:</em> Saydam kağıt grubundandır. Yüzeyi parlatılmış, şeffaf buzlu cam görüntüsünde<br/>bir kağıt türüdür. \"B\" seçeneği doğru cevaptır."
     },
     {
         "SoruID": 3764648,
@@ -5621,7 +5681,7 @@
     },
     {
         "SoruID": 3764818,
-        "SoruMetni": "Aşağıdakilerden hangisi İnsanlık tarihinin en büyük dört icadından biridir?",
+        "SoruMetni": "Aşağıdakilerden hangisi İnsanlık tarihinin en büyük dört icadından biridir?",
         "A": "Otomobil",
         "B": "Saat",
         "C": "Ok",
@@ -5681,7 +5741,7 @@
     },
     {
         "SoruID": 3764822,
-        "SoruMetni": "Gerçek manada yazı için kullanılan kâğıdı ise kaçıncı yüzyıllarda  geliştirilmiş ve yayılmaya başlanmıştır?",
+        "SoruMetni": "Gerçek manada yazı için kullanılan kâğıdı ise kaçıncı yüzyıllarda geliştirilmiş ve yayılmaya başlanmıştır?",
         "A": "2.-3. yüzyıllarda",
         "B": "4.-5. yüzyıllarda",
         "C": "6.-7. yüzyıllarda",
@@ -5741,12 +5801,12 @@
     },
     {
         "SoruID": 3764839,
-        "SoruMetni": "Aşağıdakilerden hangisi günümüzde  kaliteli beyaz hamur <br/>üretiminde kullanılmaktadır?",
+        "SoruMetni": "Aşağıdakilerden hangisi günümüzde kaliteli beyaz hamur <br/>üretiminde kullanılmaktadır?",
         "A": "Köknar",
         "B": "Ladin",
         "C": "Kenevir sapı",
         "D": "Başak sapı",
-        "E": "Arpa sapı<br/><br/>",
+        "E": "Arpa sapı",
         "DogruCevap": "E",
         "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
         "Unite": 7,
@@ -5763,7 +5823,7 @@
         "SoruID": 3764846,
         "SoruMetni": "Bir yüzeyi işlenmiş, parlak ve tam beyaz; diğer yüzeyi mat ve pürüzlü, kaliteli bir karton türü olan kağıt türü aşağıdakilerden hangisidir?",
         "A": "Bristol",
-        "B": "Kuşe kağıt",
+        "B": "Kuşe kağıt",
         "C": "Pelür",
         "D": "Aydınger",
         "E": "Karton",
@@ -5781,7 +5841,7 @@
     },
     {
         "SoruID": 3764858,
-        "SoruMetni": "Cilt sırtını yuvarlattıktan sonra düzeltmeye yarayan içbükey olarak oyulmuş uçlarıyla tahta veya kemikten yapılmış  katlama aletine ne ad verilir?",
+        "SoruMetni": "Cilt sırtını yuvarlattıktan sonra düzeltmeye yarayan içbükey olarak oyulmuş uçlarıyla tahta veya kemikten yapılmış katlama aletine ne ad verilir?",
         "A": "Spatula",
         "B": "Giyotin",
         "C": "Makas",
@@ -5798,6 +5858,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Istaka: Cilt sırtını yuvarlattıktan sonra düzeltmeye yarayan içbükey olarak oyulmuş uçlarıyla tahta veya kemikten yapılmış bir katlama aletidir"
+    },
+    {
+        "SoruID": 3764331,
+        "SoruMetni": "Kayıplı sıkıştırma yöntemi olarak bilinen, çoğu kamera görüntüsünün depolama yöntemi olan format hangisidir.",
+        "A": "GIF",
+        "B": "PNG",
+        "C": "3D",
+        "D": "JPEG",
+        "E": "GAP",
+        "DogruCevap": "D",
+        "DersAd": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:30.145420",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kayıplı sıkıştırma yöntemi olarak bilinen, çoğu kamera görüntüsünün depolama yöntemi olan format JPEG'dir doğru yanıt D şıkkıdır."
     },
     {
         "SoruID": 3764332,
@@ -5817,7 +5897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Piksel"
+        "Aciklama": "Görüntü kalitesini belirleyen en küçük görsel dijital grafik birimin adı Piksel'dir, sorunun yanıtı C şıkkıdır."
     },
     {
         "SoruID": 3764333,
@@ -5837,7 +5917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çözünürlük"
+        "Aciklama": "Piksel sayısı dijital görüntünün çözünürlüğünü belirler, sorunun yanıtı E şıkkıdır.<br>Çözünürlük"
     },
     {
         "SoruID": 3764334,
@@ -5857,7 +5937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "DPI"
+        "Aciklama": "Görüntünün çözünürlüğü anlatan, açılımı inç başına nokta demek olan tanım DPI'dır, sorunun yanıtı A şıkkıdır."
     },
     {
         "SoruID": 3764335,
@@ -5877,7 +5957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Vektör dosyaları"
+        "Aciklama": "Çoğunlukla dijital çizimler, karmaşık grafikler, logolar için kullanılan Vektör dosyasıdır, sorunun yanıtı B şıkkıdır.<br>Vektör dosyaları"
     },
     {
         "SoruID": 3764336,
@@ -5897,7 +5977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nesil kaybı"
+        "Aciklama": "Saklanan verilerin sonraki kopyaları veya kod dönüştürmeleri arasındaki kalite kaybına ne denir.<br>Nesil kaybı"
     },
     {
         "SoruID": 3764337,
@@ -5917,7 +5997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "CMYK/RGB"
+        "Aciklama": "Raster görüntü kaydında kullanılan iki ana renk modeli CMYK/RGB'dir sorunun yanıtı D şıkkıdır."
     },
     {
         "SoruID": 3764338,
@@ -5937,7 +6017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Key"
+        "Aciklama": "CMYK görüntü sistemine kullandığı renkler isim vermektedir burada K harfi siyah rengi ifade ederken adını ingilizce Key yani anahtar kelimesinden alır, sorunun yanıtı A şıkkıdır."
     },
     {
         "SoruID": 3764339,
@@ -5957,7 +6037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "HEİF"
+        "Aciklama": "Genellikle Apple tarafından mobil cihazlarda kullanılan yüksek verimli görüntü biçimi sisteminin kısaltması HEİF'dir, sorunun yanıtı E şıkkıdır."
     },
     {
         "SoruID": 3764340,
@@ -5977,11 +6057,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3D"
+        "Aciklama": "Üç boyutlu dijital baskının 3D'dir, sorunun yanıtı D şıkkıdır."
     },
     {
         "SoruID": 3764365,
-        "SoruMetni": "\"Taranmış bir ekran görüntüsünde bir inç boyunca 200 piksel sayılabiliyorsa çözünürlük inç başına ..........................\"<br/><br/>Aşağıdakilerden hangisi yukarıdaki boşluğu tamamlar?",
+        "SoruMetni": "\"Taranmış bir ekran görüntüsünde bir inç boyunca 200 piksel sayılabiliyorsa çözünürlük inç başına ..........................\"<br/>Aşağıdakilerden hangisi yukarıdaki boşluğu tamamlar?",
         "A": "200 piksel yani 200 Ipi’dir.",
         "B": "100 piksel yani 100 dpi’dir.",
         "C": "200 piksel yani 200 ppi’dir.",
@@ -5997,7 +6077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "100 piksel yani 100 Ipi’dir."
+        "Aciklama": "Raster Görüntüler<br>100 piksel yani 100 Ipi’dir."
     },
     {
         "SoruID": 3764366,
@@ -6017,7 +6097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1, 3 ve 4"
+        "Aciklama": "Vektör Görüntüler<br>1, 3 ve 4"
     },
     {
         "SoruID": 3764367,
@@ -6037,7 +6117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Masaüstü yayıncılık programlarından değiştirilemedikleri için"
+        "Aciklama": "Vektör Görüntüler<br>Masaüstü yayıncılık programlarından değiştirilemedikleri için"
     },
     {
         "SoruID": 3764368,
@@ -6057,11 +6137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntü büyütüldüğünde bulanıklaşıyorsa vektör değil raster görüntü dosyasıdır"
+        "Aciklama": "Raster ve Vektör Görüntülerin Arasındaki Farklar<br>Görüntü büyütüldüğünde bulanıklaşıyorsa vektör değil raster görüntü dosyasıdır"
     },
     {
         "SoruID": 3764379,
-        "SoruMetni": "<ol> <li>Renk modeli</li> <li>Renk derinliği</li> <li>Kullanım alanı</li> <li>Dosya boyutu</li> <li>Görüntünün kayıplı ve kayıpsız olduğu</li> </ol> Dosya formatlarına karar verilirken yukarıdaki hangi özellikler dikkate alınmalıdır?",
+        "SoruMetni": "<ol> <li>Renk modeli</li> <li>Renk derinliği</li> <li>Kullanım alanı</li> <li>Dosya boyutu</li> <li>Görüntünün kayıplı ve kayıpsız olduğu</li> </ol> Dosya formatlarına karar verilirken yukarıdaki hangi özellikler dikkate alınmalıdır?",
         "A": "1, 2 ve 3",
         "B": "1, 3 ve 5",
         "C": "1, 2 ve 5",
@@ -6077,11 +6157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1, 2 ve 5<br/> Renk modeli ve derinliği, ikinci özellik ise görüntünün kayıplı ya da kayıpsız olduğudikkate alınmalıdır."
+        "Aciklama": "DİJİTAL GÖRÜNTÜ DOSYA FORMATLARI<br>1, 2 ve 5<br/>Renk modeli ve derinliği, ikinci özellik ise görüntünün kayıplı ya da kayıpsız olduğudikkate alınmalıdır."
     },
     {
         "SoruID": 3764380,
-        "SoruMetni": "<ol> <li>Saydamlık kanalına sahiptir</li> <li>Belirli yükseklikteki renk derinliklerini görüntüleyebilir</li> <li>Küçük dosya boyutu için kullanılmaya uygundur</li> <li>Geleneksel baskı yöntemleri için uygun bir format değildir</li> </ol> Yukarıdaki özellikler hangi dosya formatı için geçerlidir?",
+        "SoruMetni": "<ol> <li>Saydamlık kanalına sahiptir</li> <li>Belirli yükseklikteki renk derinliklerini görüntüleyebilir</li> <li>Küçük dosya boyutu için kullanılmaya uygundur</li> <li>Geleneksel baskı yöntemleri için uygun bir format değildir</li> </ol> Yukarıdaki özellikler hangi dosya formatı için geçerlidir?",
         "A": "PNG",
         "B": "JPEG",
         "C": "TIFF",
@@ -6101,7 +6181,7 @@
     },
     {
         "SoruID": 3764381,
-        "SoruMetni": "<ol>1. Bir görüntü kapsayıcı biçimidir</ol> <ol>2. Çift kamera ve canlı fotoğraflar bu dosya biçiminde kaydedilir</ol> <ol>3. Her görüntünün boyutunu, çözünürlüğünü, konumunu ve daha fazlasını açıklayan ilgili meta verileri içerir</ol> <ol>4. Apple mobil cihazlarda güncellenmiş bir çeşiti kullanılır</ol> <ol>Yukarıdaki özellikler hangi raster görüntü formatına aittir?</ol>",
+        "SoruMetni": "<ol>1. Bir görüntü kapsayıcı biçimidir</ol> <ol>2. Çift kamera ve canlı fotoğraflar bu dosya biçiminde kaydedilir</ol> <ol>3. Her görüntünün boyutunu, çözünürlüğünü, konumunu ve daha fazlasını açıklayan ilgili meta verileri içerir</ol> <ol>4. Apple mobil cihazlarda güncellenmiş bir çeşiti kullanılır</ol> <ol>Yukarıdaki özellikler hangi raster görüntü formatına aittir?</ol>",
         "A": "PNG",
         "B": "JPEG",
         "C": "TIFF",
@@ -6117,7 +6197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "HEIC"
+        "Aciklama": "Raster Görüntü Formatları<br>HEIC"
     },
     {
         "SoruID": 3764382,
@@ -6137,7 +6217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "EPS"
+        "Aciklama": "Birleştirilmiş Görüntü Formatları<br>EPS"
     },
     {
         "SoruID": 3764383,
@@ -6157,7 +6237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "TrueType Fontlar"
+        "Aciklama": "Font Formatları<br>TrueType Fontlar"
     },
     {
         "SoruID": 3764384,
@@ -6177,7 +6257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web tasarımı"
+        "Aciklama": "Tasarım Ürünleri<br>Web tasarımı"
     },
     {
         "SoruID": 3764639,
@@ -6437,7 +6517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SVG bir vektör tabanlı veri formatıdır. SVG yani Ölçeklenebilir Vektör Grafikleri (Scalable Vector Graphics) ile web ve diğer durumlar için çok yönlü, komut dosyası yazılabilir. Çok amaçlı bir vektör formatı ihtiyacını (ve birkaç şirketin girişimini) karşılamak için World Wide Web Konsorsiyumu tarafından oluşturulan ve geliştirilen açık kaynak bir standarttır. Komut dosyası oluşturma potansiyeli nedeniyle SVG, web uygulamalarında önemli bir bileşendir."
+        "Aciklama": "SVG bir vektör tabanlı veri formatıdır. SVG yani Ölçeklenebilir Vektör Grafikleri (Scalable Vector Graphics) ile web ve diğer durumlar için çok yönlü, komut dosyası yazılabilir. Çok amaçlı bir vektör formatı ihtiyacını (ve birkaç şirketin girişimini) karşılamak için World Wide Web Konsorsiyumu tarafından oluşturulan ve geliştirilen açık kaynak bir standarttır. Komut dosyası oluşturma potansiyeli nedeniyle SVG, web uygulamalarında önemli bir bileşendir."
     },
     {
         "SoruID": 3764719,
@@ -6521,7 +6601,7 @@
     },
     {
         "SoruID": 3764724,
-        "SoruMetni": "Tasarım sürecinde bir ürünün vizyonlarının deneyimlenmesini sağlayan aşama aşağıdakilerden hangisidir?",
+        "SoruMetni": "Tasarım sürecinde bir ürünün vizyonlarının deneyimlenmesini sağlayan aşama aşağıdakilerden hangisidir?",
         "A": "Prototip",
         "B": "Mock-up",
         "C": "Keşif",

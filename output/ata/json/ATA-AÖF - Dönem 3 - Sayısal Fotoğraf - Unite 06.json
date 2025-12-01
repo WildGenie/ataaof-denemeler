@@ -16,11 +16,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 173289,
-        "SoruMetni": "Görüntünün pozlamasına etki eden kamera ayarları ……..….., …...……. ve ….………. olarak sayılabilir.<br/> <br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Görüntünün pozlamasına etki eden kamera ayarları ……..….., …...……. ve ….………. olarak sayılabilir.<br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "enstantane-ışık ölçümü-diyafram",
         "B": "dinamik aralık-enstantane-diyafram",
         "C": "diyafram-EV-ISO",
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 173291,
@@ -54,11 +56,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 173292,
-        "SoruMetni": "Giriş seviyesi kameralar önceden ayarlanmış, yaygın olarak kullanılan bazı amatör modlara sahiptir.<br/> <br/><strong>Aşağıdakilerden hangisi yaygın amatör modlar arasında <u>yer almaz?</u></strong>",
+        "SoruMetni": "Giriş seviyesi kameralar önceden ayarlanmış, yaygın olarak kullanılan bazı amatör modlara sahiptir.<br/><strong>Aşağıdakilerden hangisi yaygın amatör modlar arasında <u>yer almaz?</u></strong>",
         "A": "Spor",
         "B": "Gece",
         "C": "Portre",
@@ -73,7 +76,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 173293,
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 173294,
@@ -111,7 +116,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 173296,
@@ -130,7 +136,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 173298,
@@ -149,7 +156,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 173300,
@@ -168,7 +176,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 173302,
@@ -187,11 +196,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 178529,
-        "SoruMetni": "Fotoğrafta pozlandırma, kamera sensörüne ulaşan ışık yoğunluğu ve ………. belirlenir<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Fotoğrafta pozlandırma, kamera sensörüne ulaşan ışık yoğunluğu ve ………. belirlenir<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "süresiyle",
         "B": "çapıyla",
         "C": "formülüyle",
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 178532,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 178539,
@@ -244,11 +256,12 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 178542,
-        "SoruMetni": "Normal hassasiyet (ISO) sınırları dâhilinde \"pozlama =   ….....… x süre\" formülü, eş değerlilik ilkesini ifade eder.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Normal hassasiyet (ISO) sınırları dâhilinde \"pozlama = ….....… x süre\" formülü, eş değerlilik ilkesini ifade eder.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Renk sıcaklığı",
         "B": "ISO",
         "C": "Saniye",
@@ -263,11 +276,12 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 178545,
-        "SoruMetni": "<strong>Çerçevenin birçok küçük parçaya bölündüğü, her bir bölümden poz okuması ve genel ortalama hesaplaması alınarak yapılan ölçüm değeri aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Çerçevenin birçok küçük parçaya bölündüğü, her bir bölümden poz okuması ve genel ortalama hesaplaması alınarak yapılan ölçüm değeri aşağıdakilerden hangisidir?</strong>",
         "A": "Nokta",
         "B": "Merkez Ağırlıklı",
         "C": "Parçalı",
@@ -282,7 +296,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 178547,
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 178548,
@@ -320,7 +336,8 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 178551,
@@ -339,11 +356,12 @@
         "GelYer": 2,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 331779,
-        "SoruMetni": "I. Enstantane hızı<br/> <br/>II. Diyafram açıklığı<br> <br/>III. ISO hassasiyeti<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri pozlamaya etki eden temel unsurlar arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Enstantane hızı<br/>II. Diyafram açıklığı<br/>III. ISO hassasiyeti<br/><strong>Yukarıdakilerden hangisi ya da hangileri pozlamaya etki eden temel unsurlar arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -358,11 +376,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 331782,
-        "SoruMetni": "<strong>Fotoğraf makinesinin diyafram ve enstantane hızını otomatik olarak belirlediği, kullanıcıya ise ISO (Hassasiyet) hızı ve pozlama telafisi gibi seçeneklerin bırakıldığı çekim modu aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Fotoğraf makinesinin diyafram ve enstantane hızını otomatik olarak belirlediği, kullanıcıya ise ISO (Hassasiyet) hızı ve pozlama telafisi gibi seçeneklerin bırakıldığı çekim modu aşağıdakilerden hangisidir?</strong>",
         "A": "Otomatik Mod",
         "B": "Program Modu",
         "C": "Diyafram Öncelikli Mod",
@@ -377,7 +396,8 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 331785,
@@ -396,11 +416,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 331789,
-        "SoruMetni": "Yüksek bir ................ hızı, genellikle konudaki hareketi dondurmak için kullanılır. Örneğin; hareketli kuşlar fotoğraflanıyor ise 1/1000 saniye veya daha yüksek hız gerekebilir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Yüksek bir ................ hızı, genellikle konudaki hareketi dondurmak için kullanılır. Örneğin; hareketli kuşlar fotoğraflanıyor ise 1/1000 saniye veya daha yüksek hız gerekebilir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "enstantane",
         "B": "diyafram",
         "C": "ISO",
@@ -415,11 +436,12 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 331790,
-        "SoruMetni": "I. Diyafram açıklığı<br/> <br/>II. Lensin odak uzaklığı<br> <br/>III. Konuya uzaklık<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri fotoğraftaki net alan derinliğini doğrudan etkileyen ögelerden biridir?</strong></br></br>",
+        "SoruMetni": "I. Diyafram açıklığı<br/>II. Lensin odak uzaklığı<br/>III. Konuya uzaklık<br/><strong>Yukarıdakilerden hangisi ya da hangileri fotoğraftaki net alan derinliğini doğrudan etkileyen ögelerden biridir?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -434,6 +456,7 @@
         "GelYer": 1,
         "DersId": 442,
         "OBSDersId": 73380,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     }
 ]

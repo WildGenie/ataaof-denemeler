@@ -1,5 +1,25 @@
 [
     {
+        "SoruID": 3257569,
+        "SoruMetni": "Aşağıdakilerden hangisi okumanın beş temel ilkesinden biri değildir?",
+        "A": "Okuma anlam kurma sürecidir.",
+        "B": "Okuma akıcı olmalıdır.",
+        "C": "Okuma stratejik olmalıdır.",
+        "D": "Kişi okumaya güdülenmelidir.",
+        "E": "Okuma okul ve iş yaşamından sonra duraksamalıdır.",
+        "DogruCevap": "E",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.283229",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Okuma anlam kurma sürecidir. Okuma akıcı olmalıdır. Okuma stratejik olmalıdır. Kişi okumaya güdülenmelidir. Okuma yaşam boyu devam etmelidir."
+    },
+    {
         "SoruID": 3257571,
         "SoruMetni": "Metindeki sebep-sonuç ilişkilerinin, durumlar, olaylar vb. arasındaki kıyaslama ve ilişkilerin belirlenmesi ile ilgili olan okuma stratejisi aşağıdakilerden hangisidir?",
         "A": "Yoğun dikkat",
@@ -97,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma öncesinde belirlenen amaçlar doğrultusunda metnin okunması, değerlendirilmesi ve anlama düzeyinin kontrol edilmesidir. Bu amaçla not alma, okuma hızını ayarlama, önemli bilgiyi işaretleme, sözlük vb. başvuru kaynaklarını kullanma, okuma sırasında geri dönüşlerde bulunma, metne yoğunlaşma, sesli okuma, bağlama yönelik ipuçları kullanma, bilginin kalıcılığını sağlamak amacıyla şemalaştırma, resimleştirme, noktalama işaretlerine, yazım kurallarına dikkat etme, önce okunanları kontrol etme, anlamı bilinmeyen kelimeleri metinden yola çıkarak tahmin etme ya da ek-köke dayalı olarak anlamı kestirme gibi stratejiler okuma eylemi devam ederken kullanılabilir (Birincioğlu, 2006; Karatay, 2007)."
+        "Aciklama": "Okuma amacını belirleme okuma öncesinde uygulanan bir stratejdir.<br>Okuma öncesinde belirlenen amaçlar doğrultusunda metnin okunması, değerlendirilmesi ve anlama düzeyinin kontrol edilmesidir. Bu amaçla not alma, okuma hızını ayarlama, önemli bilgiyi işaretleme, sözlük vb. başvuru kaynaklarını kullanma, okuma sırasında geri dönüşlerde bulunma, metne yoğunlaşma, sesli okuma, bağlama yönelik ipuçları kullanma, bilginin kalıcılığını sağlamak amacıyla şemalaştırma, resimleştirme, noktalama işaretlerine, yazım kurallarına dikkat etme, önce okunanları kontrol etme, anlamı bilinmeyen kelimeleri metinden yola çıkarak tahmin etme ya da ek-köke dayalı olarak anlamı kestirme gibi stratejiler okuma eylemi devam ederken kullanılabilir (Birincioğlu, 2006; Karatay, 2007)."
     },
     {
         "SoruID": 3257581,
@@ -142,9 +162,9 @@
     {
         "SoruID": 3257585,
         "SoruMetni": "Anlatılanları daha iyi kavramak amacıyla dinleyenlerin dinleme esnasında birbirleriyle etkileşim içinde oldukları, birbirlerine soru sordukları, paylaşımda bulundukları dinleme türü aşağıdakilerden hangisidir?",
-        "A": "Grup halinde dinleme",
+        "A": "Grup halinde dinleme",
         "B": "Pasif dinleme",
-        "C": "Not alarak dinleme",
+        "C": "Not alarak dinleme",
         "D": "Aktif dinleme",
         "E": "Empatik dinleme",
         "DogruCevap": "A",
@@ -177,7 +197,47 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma/dinleme öncesi, sırası ve sonrasındaki davranışlar her ikisi için de anlama sürecini etkilemektedir. Her ikisinde de anlamanın gerçekleşip gerçekleşmediği, anlama sürecinin aksadığı yönler alınan geri bildirimler sayesinde anlaşılabilir. İlgi ve istekler de yine her iki bileşen açısından anlama sürecini etkileyen ortak birer faktör olarak ifade edilebilir."
+        "Aciklama": "Okumada geri bildirim için metne yönelmek, tekrar tekrar okumak, metinde atlamalar yapıp ileri-geri dönmek gibi yöntemler mümkünken, <strong>özellikle</strong> <strong>canlı bir dinleme sırasında</strong> kaynaktan gelen iletiyi sürekli tekrar et(tir)mek veya durdurmak ya da ileri-geri gitmek mümkün olmayabilir.<br>Okuma/dinleme öncesi, sırası ve sonrasındaki davranışlar her ikisi için de anlama sürecini etkilemektedir. Her ikisinde de anlamanın gerçekleşip gerçekleşmediği, anlama sürecinin aksadığı yönler alınan geri bildirimler sayesinde anlaşılabilir. İlgi ve istekler de yine her iki bileşen açısından anlama sürecini etkileyen ortak birer faktör olarak ifade edilebilir."
+    },
+    {
+        "SoruID": 3257653,
+        "SoruMetni": "Aşağıdakilerden hangisi okuma sürecinde dikkat edilmesi gereken okumanın beş temel ilkesinden biri değildir?",
+        "A": "Okuma anlam kurma sürecidir",
+        "B": "Okuma akıcı olmalıdır",
+        "C": "Okuma hızlı olmalıdır",
+        "D": "Okuma stratejik olmalıdır",
+        "E": "Kişi okumaya güdülenmelidir",
+        "DogruCevap": "C",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.253119",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Okuma sürecinde dikkat edilmesi gereken okumanın beş temel ilkesinden bir diğeri de \"Okuma yaşam boyu devam etmelidir\" ilkesidir. Okuma hızlı olmak zorunda değildir. Önemli olan akıcı olmasıdır.Doğru yanıt C'dir."
+    },
+    {
+        "SoruID": 3257656,
+        "SoruMetni": "Aşağıdakilerden hangisi okuma sürecinde metnin daha iyi anlaşılmasını sağlayacak, okuduğunu anlamayı destekleyecek, anlama hızını arttıracak bazı çalışmalardan biri değildir?",
+        "A": "Metnin paragrafları arasında ilişki kurmak, ilişkiyi kavramak",
+        "B": "Metnin konusunu belirlemek",
+        "C": "Metnin konusunu önceden bilinenlerle ilişkilendirmek",
+        "D": "Metni okurken müzik dinlemek",
+        "E": "Metinde geçen anlamı bilinmeyen kelime ve terimlere bağlama uygun anlamlar yüklemek",
+        "DogruCevap": "D",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.368720",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Metni okurken müzik dinlemek bu çalışmalar arasında bulunmamaktadır. Doğru yanıt D'dir."
     },
     {
         "SoruID": 3257658,
@@ -257,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eleştirel düşünme sürecinin içerdiği beceriler şunlardır (Henderson, 1973):<br/> • Tanımlama<br/> • Hipotez (Denence) kurma<br/> • Bilgi toplama<br/> • Yorumlama ve genelleme<br/> • Akıl yürütme<br/> • Değerlendirme<br/> • Uygulama<br/> Doğru yanıt E'dir."
+        "Aciklama": "Eleştirel düşünme sürecinin içerdiği beceriler şunlardır (Henderson, 1973):<br/>• Tanımlama<br/>• Hipotez (Denence) kurma<br/>• Bilgi toplama<br/>• Yorumlama ve genelleme<br/>• Akıl yürütme<br/>• Değerlendirme<br/>• Uygulama<br/>Doğru yanıt E'dir."
     },
     {
         "SoruID": 3257666,
@@ -277,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlgi, istek dinleme sürecini etkileyen alıcı temelli faktörlerden biridir. Doğru yanıt B'dir."
+        "Aciklama": "İlgi, istek dinleme sürecini etkileyen alıcı temelli faktörlerden biridir. Doğru yanıt B'dir."
     },
     {
         "SoruID": 3257668,
@@ -297,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Isı dinleme sürecini etkileyen çevre-ortam temelli faktörlerden biridir. Doğru yanıt A'dır."
+        "Aciklama": "Isı dinleme sürecini etkileyen çevre-ortam temelli faktörlerden biridir. Doğru yanıt A'dır."
     },
     {
         "SoruID": 3257670,
@@ -360,6 +420,26 @@
         "Aciklama": "Okuma amacını belirleme, metnin yapısı hakkında bilgi edinme, metinle ilgili ön bilgileri hatırlama, başlık ve görsellerden hareket ederek konuyu tahmin etme, okuma sırasında nelere dikkat edileceğine karar verme gibi stratejiler okuma öncesinde kullanılabilir."
     },
     {
+        "SoruID": 3257696,
+        "SoruMetni": "Aşağıdakilerden hangisi okuduğunu anlayabilmenin şartlarından biri değildir?",
+        "A": "Çıkarımlarda bulunma",
+        "B": "Hayal gücü",
+        "C": "Yoğun dikkat",
+        "D": "Yeniden yapılandırma",
+        "E": "Anlamı kavramı",
+        "DogruCevap": "B",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.254804",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Okuduğunu anlayabilmenin başlıca şartları şunlardır (Moffet ve Wagler, 1976,<br/>127-129):<br/>Yoğun dikkat: Metinde birbirini izleyen kelimelerin anlamlarına yoğunlaşma<br/>konusunda dikkat yeteneğini geliştirebilmek için değişik etkinlikler gerçekleştirilebilir. Karşılıklı tartışmalar, metni oyunlaştırma, canlandırma ve metinle ilgili<br/>hazırlıksız konuşmalar bu etkinlikler arasında yer almaktadır.<br/>Yeniden yapılandırma: Metinden elde edilen bilgilerle, metnin konusuyla ilgili önceden sahip olunan bilgilerin ilişkilendirilmesi ve zihinde yapılandırılmasıdır. Bilginin yeniden yapılandırılması, dikkat ve bilgiyi yeniden elde etmek için<br/>harcanan çabayla yakından ilişkilidir.<br/>Zihinde canlandırma: Düşünmenin gerçekleşmesi doğrudan okumaya yoğunlaşmak, okunanların anlamları üzerinde düşünmek ve bunları zihinde canlandırmakla ilişkilidir.<br/>Çıkarımlarda bulunma: Çıkarımda bulunma metindeki sebep-sonuç ilişkilerinin, durumlar, olaylar vb. arasındaki kıyaslama ve ilişkilerin belirlenmesini<br/>gerektirmektedir.<br/>Anlamı kavrama: Karmaşık zihinsel etkinliklerin yer aldığı bu aşamada ipuçları ve kullanılan kelimeler büyük önem taşımaktadır."
+    },
+    {
         "SoruID": 3257698,
         "SoruMetni": "Aşağıdakilerden hangisi eleştirel düşünmenin temelinde yatan unsurlardan biri değildir?",
         "A": "Nesnellik",
@@ -378,6 +458,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Eleştirel düşünmenin temelinde dikkat, nesnellik, geniş bir bakış açısı ve yorumlama becerisi yatmaktadır."
+    },
+    {
+        "SoruID": 3257700,
+        "SoruMetni": "Aşağıdakilerden hangisi okuma sonrası stratejilerden biridir?",
+        "A": "Sözlük kullanma",
+        "B": "Başlama yönelik ipuçları kullanma",
+        "C": "Şemalaştırma",
+        "D": "Okumadan önce yapılan tahminlerin doğruluğunu kontrol etme",
+        "E": "Anlamı bilinmeyen sözcükleri metinden yola çıkarak tahmin etme",
+        "DogruCevap": "D",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.416076",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Okuma sonrası kullanılan stratejiler arasında, metinle ilgili önceden yapılan tahminlerin doğru olup olmadığını kontrol etme, özetleme, metindeki düşünceler arasındaki ilişkiyi görmek için metni yeniden gözden geçirme gibi stratejiler sayılabilir."
     },
     {
         "SoruID": 3257702,
@@ -500,6 +600,26 @@
         "Aciklama": "Dinleme Sürecini Etkileyen Alıcı (Dinleyici)Temelli Faktörler:<br/>• Alıcının zihinsel ve fizyolojik yetileri<br/>• Dikkat<br/>• İlgi, istek<br/>• Kelime dağarcığı<br/>• Bilgi birikimi<br/>• Ön yargı<br/>• Dinleme sürecinde uygun dinleme davranışları gösterme (Dik oturma, konuşanla göz teması kurma, not tutma, soru sorma, dinlenenlere uygun geri bildirimlerde bulunma, vb.)<br/>• Dinleme hızı"
     },
     {
+        "SoruID": 3257822,
+        "SoruMetni": "Aşağıdakilerden hangisi okuma sürecinde dikkat edilmesi gereken okumanın beş temel ilkesinden biri <strong>değildir</strong>?",
+        "A": "Okuma anlam kurma sürecidir",
+        "B": "Okuma stratejik olmalıdır",
+        "C": "Okuma akıcı olmalıdır",
+        "D": "Okuma yaşam boyu devam etmelidir",
+        "E": "Okuma düzenli yapılmalıdır",
+        "DogruCevap": "E",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.260465",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Okuma sürecinde dikkat edilmesi gereken okumanın beş temel ilkesi şunlardır; <em>Okuma anlam kurma sürecidir</em>, <em>okuma stratejik olmalıdır</em>, <em>okuma akıcı olmalıdır</em>, o<em>kuma yaşam boyu devam etmelidir ve </em>kişi okumaya güdülenmelidir."
+    },
+    {
         "SoruID": 3257823,
         "SoruMetni": "Okuduğunu anlayabilmenin başlıca şartlarından olan ‘<strong>Yeniden yapılandırma’</strong> ifadesiyle ne anlatılmak istenmiştir?",
         "A": "Karmaşık zihinsel etkinliklerin yer aldığı aşamada ipuçları ve kullanılan kelimelerin büyük önem taşıdığı",
@@ -541,7 +661,7 @@
     },
     {
         "SoruID": 3257825,
-        "SoruMetni": "Aşağıdakilerden hangisi <strong>Okuma alışkanlığı edinmeyi etkileyen faktörler</strong> arasında değildir?<br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi <strong>Okuma alışkanlığı edinmeyi etkileyen faktörler</strong> arasında değildir?",
         "A": "Bireysel etkenler",
         "B": "Sosyal statü",
         "C": "Çevre",
@@ -583,7 +703,7 @@
         "SoruID": 3257827,
         "SoruMetni": "Aşağıdaki tanımlardan hangisi <strong>okuduğunu anlama stratejilerini</strong> açıklamaktadır?",
         "A": "Okurların okuduklarını hatırlamalarına ve anlamalarına yardım eden kasıtlı planlardır.",
-        "B": "Metinde işlenen konuyla ilgili bilgi, duygu ve düşüncelerin başkalarıyla paylaşılması<br/> ve başkalarının bilgi ve görüşlerinden yararlanarak farklı bakış açıları kazanmadır.",
+        "B": "Metinde işlenen konuyla ilgili bilgi, duygu ve düşüncelerin başkalarıyla paylaşılması<br/>ve başkalarının bilgi ve görüşlerinden yararlanarak farklı bakış açıları kazanmadır.",
         "C": "Konuyu anlamaya yardımcı olacak anahtar kelime ve kavramların, önemli görülen yerlerin belirlenmesidir.",
         "D": "Okurların dikkatlerinin tarihlere, yerlere, isimlere, grafik, tablo ve bölümlere çekilmesidir.",
         "E": "Okurların, okunanların anlamları üzerinde düşünüp bunları zihinde canlandırarak anlamayı kolaylaştırmasıdır.",
@@ -597,7 +717,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Okuduğunu anlama </strong><strong>stratejileri</strong> okuduğunu anlamayı ve kavramayı kolaylaştırmak, bu süreçte yaşanan sorunları çözmek amacıyla kullanılan stratejilerdir. Okuduğunu anlama stratejileri, okurların okuduklarını hatırlamalarına ve anlamalarına yardım eden kasıtlı planlar olarak da nitelendirilebilir"
+        "Aciklama": "<strong>Okuduğunu anlama </strong><strong>stratejileri</strong> okuduğunu anlamayı ve kavramayı kolaylaştırmak, bu süreçte yaşanan sorunları çözmek amacıyla kullanılan stratejilerdir. Okuduğunu anlama stratejileri, okurların okuduklarını hatırlamalarına ve anlamalarına yardım eden kasıtlı planlar olarak da nitelendirilebilir"
+    },
+    {
+        "SoruID": 3257828,
+        "SoruMetni": "Aşağıdakilerden hangisi eleştirel düşünmenin temel özellikleri ile ilgili olarak doğrudur?",
+        "A": "Bilimsel bir yaklaşımı, öznel bakış açısını gerektirir.",
+        "B": "Eleştirel düşünme ön yargılardan etkilenir.",
+        "C": "Zihinsel düşünme süreçlerinin aktif kullanımı söz konusudur.",
+        "D": "Tek yönlü bakış açısını ve düşünmeyi zorunlu kılar",
+        "E": "Eleştirel düşünmenin temelinde yoğun bir dikkatten ziyade yorumlama becerisi yatmaktadır",
+        "DogruCevap": "C",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.291918",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Eleştirel düşünmenin temelinde zihinsel düşünme süreçlerinin aktif kullanımı söz konusudur. Diğer şıklarda ifadeler yanlıştır."
     },
     {
         "SoruID": 3257829,
@@ -660,6 +800,26 @@
         "Aciklama": "Dinleme ve okuma iki farklı süreç olduğundan, kullanılan stratejiler de aynı olmayacaktır."
     },
     {
+        "SoruID": 3258221,
+        "SoruMetni": "1. Sesli okuma 2. Özetleyerek okuma 3. Soru sorarak okuma 4. Resmederek okuma 5. Tartışarak okuma 6. Derin okumaYukarıdakilerden hangileri okuma türlerindendir?",
+        "A": "1, 2, 3 ve 4",
+        "B": "2, 3, 4 ve 5",
+        "C": "3, 4, 5 ve 6",
+        "D": "1, 2, 3 ve 5",
+        "E": "1, 3, 4 ve 6",
+        "DogruCevap": "D",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.299318",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Okumanın temel niteliklerini sıralayabileceksiniz."
+    },
+    {
         "SoruID": 3258222,
         "SoruMetni": "1. Konuşan ve dinleyici olmak üzere iki taraf vardır.2. Konuşkan bir dinleyici, karşı tarafla daha hızlı ve kolay iletişim kurabilir.3. Dinleyicinin kelime dağarcığının zenginliği anlam kurmasını kolaylaştırır.4. Dinleyicinin ve bilgi birikimi iletişim kurmada önemli bir etkendir.5. İletinin doğru algılanması yoğun bir dikkat gerektirir.6. Konuşma başlayınca hemen tepki verilmelidir.Yukarıdakilerden hangileri dinlemenin temel niteliklerindendir?",
         "A": "1, 2, 3 ve 4",
@@ -677,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "Dinlemenin temel niteliklerini sıralayabileceksiniz."
     },
     {
         "SoruID": 3258223,
@@ -697,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "Dinlemenin temel niteliklerini sıralayabileceksiniz."
     },
     {
         "SoruID": 3258224,
@@ -717,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "Dinlemenin temel niteliklerini sıralayabileceksiniz."
     },
     {
         "SoruID": 3258226,
@@ -737,11 +897,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "Dinlemenin temel niteliklerini sıralayabileceksiniz."
     },
     {
         "SoruID": 3258259,
-        "SoruMetni": "4-  Metinde işlenen konuyla ilgili bilgi, duygu ve düşüncelerin başkalarıyla paylaşılması türündeki okumalara ne denir?",
+        "SoruMetni": "4- Metinde işlenen konuyla ilgili bilgi, duygu ve düşüncelerin başkalarıyla paylaşılması türündeki okumalara ne denir?",
         "A": "Tartışarak okuma",
         "B": "Soru sorarak okuma",
         "C": "Tahmin ederek okuma",
@@ -757,11 +917,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Metnin sesli ya da sesiz okunmasından sonra, metinde ele alınan olay ya da düşüncelerin tartışılması esasına dayanan okumadır."
+        "Aciklama": "Okumanın temel niteliklerini sıralayabileceksiniz.<br>Metnin sesli ya da sesiz okunmasından sonra, metinde ele alınan olay ya da düşüncelerin tartışılması esasına dayanan okumadır."
     },
     {
         "SoruID": 3258260,
-        "SoruMetni": "5-  Aşağıdakilerden hangisi okuma sonrasında kullanılan stratejilerdendir?",
+        "SoruMetni": "5- Aşağıdakilerden hangisi okuma sonrasında kullanılan stratejilerdendir?",
         "A": "Metinde yer alan bilgilerle önceden sahip olunan bilgileri birleştirmek",
         "B": "Yönlendirme ve sorular yoluyla metinle etkileşimi sağlamak",
         "C": "Metnin yapı ve mantıksal sırasını kavramak",
@@ -777,7 +937,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Metinle ilgili önceden yapılan tahminlerin doğru olup olmadığını kontrol etme, özetleme, metindeki düşünceler arasındaki ilişkiyi görmek için metni yeniden gözden geçirme gibi stratejiler sayılabilir"
+        "Aciklama": "Okuduğunu anlama stratejilerini sıralayabileceksiniz.<br>Metinle ilgili önceden yapılan tahminlerin doğru olup olmadığını kontrol etme, özetleme, metindeki düşünceler arasındaki ilişkiyi görmek için metni yeniden gözden geçirme gibi stratejiler sayılabilir"
+    },
+    {
+        "SoruID": 3258261,
+        "SoruMetni": "6- Bir kişinin duygu ve düşüncelerini anlayabilmek için kendimizi onun yerine koyarak yaptığımız dinlemeye ne denir?",
+        "A": "Yaratıcı dinleme",
+        "B": "Empati dinleme",
+        "C": "Amaçlı dinleme",
+        "D": "Sorgulayıcı dinleme",
+        "E": "Seçici dinleme",
+        "DogruCevap": "B",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.322833",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Dinleme türlerini sıralayabileceksiniz.<br>Bir kişinin duygu ve düşüncelerini anlayabilmek için kendimizi onun yerine koyarak yaptığımız dinlemedir."
     },
     {
         "SoruID": 3258262,
@@ -797,11 +977,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma sürecinde metnin daha iyi anlaşılmasını sağlayacak, okuduğunu anlamayı destekleyecek, anlama hızını arttıracak bazı çalışmalar yapılabilir. Bu çalışmalar şu şekilde sıralanabilir:<br/>• Metnin ana ve ara başlıkları arasında ilişki kurmak<br/>• Metnin paragrafları arasında ilişki kurmak, ilişkiyi kavramak<br/>• Okuma sırasında önemli görülen yerleri not almak<br/>• Metnin konusunu belirlemek<br/>• Metindeki ana ve yardımcı düşünceyi belirlemek<br/>• Metin yazarının bakış açısını, anlatım tarzını belirlemek<br/>• Metinde yer alan örnekleri dikkatle okumak ve konuyla ilişkilendirmek<br/>• Metnin konusunu önceden bilinenlerle ilişkilendirmek<br/>• Metinde ele alınan konuyu zihinde yeniden yapılandırmak, analiz ve senteze<br/>gitmek, yorumlamak<br/>• Metinde geçen anlamı bilinmeyen kelime ve terimlere bağlama uygun anlamlar yüklemek<br/>• Metinden hareketle ‘’ne, nerede, ne zaman, nasıl, neden ve kim” sorularına<br/>cevap bulmak<br/><br/>\"Zengin kelime dağarcığına sahip olmak\" bunlar arasında değildir."
+        "Aciklama": "Okuduğunu anlama stratejilerini sıralayabileceksiniz.<br>Okuma sürecinde metnin daha iyi anlaşılmasını sağlayacak, okuduğunu anlamayı destekleyecek, anlama hızını arttıracak bazı çalışmalar yapılabilir. Bu çalışmalar şu şekilde sıralanabilir:<br/>• Metnin ana ve ara başlıkları arasında ilişki kurmak<br/>• Metnin paragrafları arasında ilişki kurmak, ilişkiyi kavramak<br/>• Okuma sırasında önemli görülen yerleri not almak<br/>• Metnin konusunu belirlemek<br/>• Metindeki ana ve yardımcı düşünceyi belirlemek<br/>• Metin yazarının bakış açısını, anlatım tarzını belirlemek<br/>• Metinde yer alan örnekleri dikkatle okumak ve konuyla ilişkilendirmek<br/>• Metnin konusunu önceden bilinenlerle ilişkilendirmek<br/>• Metinde ele alınan konuyu zihinde yeniden yapılandırmak, analiz ve senteze<br/>gitmek, yorumlamak<br/>• Metinde geçen anlamı bilinmeyen kelime ve terimlere bağlama uygun anlamlar yüklemek<br/>• Metinden hareketle ‘’ne, nerede, ne zaman, nasıl, neden ve kim” sorularına<br/>cevap bulmak<br/>\"Zengin kelime dağarcığına sahip olmak\" bunlar arasında değildir."
+    },
+    {
+        "SoruID": 3258303,
+        "SoruMetni": "I. Algılama<br/>II. Anlama<br/>III. Anlatma<br/>Yukarıdakilerden hangisi/hangileri temel dil becerilerini oluşturan alt bileşenlerdendir?",
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "I ve II",
+        "D": "II ve III",
+        "E": "I ve III",
+        "DogruCevap": "D",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.360609",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Temel dil becerileri, anlama ve anlatma olmak üzere iki temel alt bileşen üzerine kurulmuştur.<br>II ve III"
     },
     {
         "SoruID": 3258304,
-        "SoruMetni": "Aşağıdakilerden hangisi okuma sürecinde dikkat edilmesi gereken okumanın beş temel ilkesinden biri değildir?",
+        "SoruMetni": "Aşağıdakilerden hangisi okuma sürecinde dikkat edilmesi gereken okumanın beş temel ilkesinden biri değildir?",
         "A": "Okuma anlam kurma sürecidir",
         "B": "Okuma akıcı bir şekilde olmalıdır",
         "C": "Okuma eğitim süresince devam etmelidir",
@@ -817,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma eğitim süresince devam etmelidir"
+        "Aciklama": "Okuma eğitim süresince değil yaşam boyu devam etmelidir. Okuma yaşam boyu devam eden bir<br/>etkinliktir. Günlük yaşamın bir bölümü düzenli olarak okuma etkinliğine ayrılmalıdır. Bunun bir alışkanlık haline getirilmesiyle ancak etkin ve iyi okur olmanın temelleri atılabilir.<br>Okuma eğitim süresince devam etmelidir"
     },
     {
         "SoruID": 3258305,
@@ -837,11 +1037,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeniden yapılandırma"
+        "Aciklama": "Yeniden yapılandırma: Metinden elde edilen bilgilerle, metnin konusuyla ilgili önceden sahip olunan bilgilerin ilişkilendirilmesi ve zihinde yapılandırılmasıdır."
     },
     {
         "SoruID": 3258306,
-        "SoruMetni": "I. Görsel okuryazarlık<br/> II. Okuma-yazma becerisi edinme<br/> III. Okuma alışkanlığı becerisi kazanma<br/> <br/>Yukarıda verilen okuma kültürünün basamakları aşağıdakilerin hangisinde doğru şekilde sıralanmıştır?",
+        "SoruMetni": "I. Görsel okuryazarlık<br/>II. Okuma-yazma becerisi edinme<br/>III. Okuma alışkanlığı becerisi kazanma<br/>Yukarıda verilen okuma kültürünün basamakları aşağıdakilerin hangisinde doğru şekilde sıralanmıştır?",
         "A": "I, II ve III",
         "B": "I, III ve II",
         "C": "II, III ve I",
@@ -857,11 +1057,51 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I, II ve III"
+        "Aciklama": "Okuma kültürü sürecinin ilk basamağı görsel okuryazarlık, ikinci basamağı okuma-yazma becerisi edinme, üçüncü basamağı ise okuma alışkanlığı becerisi kazanmaktır.<br>I, II ve III"
+    },
+    {
+        "SoruID": 3258307,
+        "SoruMetni": "Rıza metinde önemli gördüğü yerlerin altını çizerek okumaktadır. Rızanın yaptığı okuma türü aşağıdakilerden hangisidir?",
+        "A": "Göz atarak okuma",
+        "B": "Özetleyerek okuma",
+        "C": "Tahmin ederek okuma",
+        "D": "Tartışarak okuma",
+        "E": "İşaretleyerek okuma",
+        "DogruCevap": "E",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.326720",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İşaretleyerek Okuma: Metinde önemli görülen yerlerin çeşitli işaretler konularak okunmasıdır."
+    },
+    {
+        "SoruID": 3258308,
+        "SoruMetni": "Aşağıdakilerden hangisi okuma sırasında kullanılan anlama stratejilerden biridir?",
+        "A": "Metinle ilgili ön bilgileri hatırlama",
+        "B": "Metnin konusunu tahmin etme",
+        "C": "Metnin bağlamına yönelik ipuçlarını kullanma",
+        "D": "Metinle ilgili tahminleri kontrol etme",
+        "E": "Metni yeniden gözden geçirme",
+        "DogruCevap": "C",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.362637",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Okuma sırasında kullanılan anlama stratejilerine; not alma, okuma hızını ayarlama, önemli bilgiyi işaretleme, metne yoğunlaşma ve bağlama yönelik ipuçlarını kullanma örnek olarak gösterilebilir.<br>Metnin bağlamına yönelik ipuçlarını kullanma"
     },
     {
         "SoruID": 3258309,
-        "SoruMetni": "Eleştirel okuma etkinliği ile ilgili aşağıdaki ifadelerden hangisi <strong><u>yanlıştır</u></strong>?",
+        "SoruMetni": "Eleştirel okuma etkinliği ile ilgili aşağıdaki ifadelerden hangisi <strong><u>yanlıştır</u></strong>?",
         "A": "Eleştirel okuma, daha yoğun zihinsel ve duyuşsal süreçleri içerir",
         "B": "Eleştirel düşünme yaklaşımının metin üzerinde uygulanmasıdır",
         "C": "Eleştirel okumada metnin konusu önceden bilinenlerle ilişkilendirilir",
@@ -877,7 +1117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eleştirel okumada okuyucunun ön yargıları sürece dahil edilir"
+        "Aciklama": "Eleştirel okuma etkenliğinde metnin konusu ön yargılardan uzak bir şekilde zihinsel süreçlerden<br/>geçirilerek yeniden yapılandırılır, sorgulanır, yorumlanır ve değerlendirilir.<br>Eleştirel okumada okuyucunun ön yargıları sürece dahil edilir"
     },
     {
         "SoruID": 3258310,
@@ -897,7 +1137,47 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kelime dağarcığı"
+        "Aciklama": "Dinleme sürecini etkileyen alıcı (dinleyici) temelli faktörler aşağıdaki gibidir:<br/>• Alıcının zihinsel ve fizyolojik yetileri<br/>• Dikkat<br/>• İlgi, istek<br/>• Kelime dağarcığı<br/>• Bilgi birikimi<br/>• Ön yargı<br/>• Dinleme sürecinde uygun dinleme davranışları gösterme (Dik oturma, ko<br/>nuşanla göz teması kurma, not tutma, soru sorma, dinlenenlere uygun geri<br/>bildirimlerde bulunma, vb.)<br/>• Dinleme hızı"
+    },
+    {
+        "SoruID": 3258311,
+        "SoruMetni": "Dinleyicinin dinlediklerine anlam yükledikten sonra zihninde yapılandırması, yorumlaması, analiz ve senteze gittikten sonra bunlardan yeni fikirler üretmesi şeklinde tanımlanan dinleme türü aşağıdakilerden hangisidir?",
+        "A": "Yaratıcı dinleme",
+        "B": "Amaçlı dinleme",
+        "C": "Sorgulayıcı dinleme",
+        "D": "Eleştirel dinleme",
+        "E": "Seçici dinleme",
+        "DogruCevap": "A",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.269028",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Yaratıcı dinleme dinleyicinin dinlediklerine anlam yükledikten sonra zihninde yapılandırması, yorumlaması, analiz ve senteze gittikten sonra bunlardan yeni fikirler üretmesi şeklinde gelişen bir dinleme türüdür."
+    },
+    {
+        "SoruID": 3258312,
+        "SoruMetni": "I. Her ikisi de anlama becerisinin temel bileşenidir<br/>II. Her ikisinde de zihnin ve beynin aktif olması gerekir<br/>III. Her ikisinde de süreçteki davranışlar anlamayı etkilemektedir<br/>Okuma-dinleme ilişkisi düşünüldüğünde yukarıda verilenlerden hangisi/hangileri doğrudur?",
+        "A": "Yanlızca II",
+        "B": "I ve II",
+        "C": "I ve III",
+        "D": "II ve III",
+        "E": "I, II ve III",
+        "DogruCevap": "E",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.364322",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Okuma-dinleme ilişkisi ile ilgili olarak;<br/><ul><br/><li>Her ikisi de anlama becerisinin temel bileşenidir</li><br/><li>Her ikisinde de zihnin ve beynin aktif olması gerekir</li><br/><li>Okuma/dinleme öncesi, sırası ve sonrasındaki davranışlar her ikisi için de an<br/>lama sürecini etkilemektedir.</br></li><br/></ul><br>I, II ve III"
     },
     {
         "SoruID": 3258433,
@@ -918,6 +1198,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Yazma"
+    },
+    {
+        "SoruID": 3258434,
+        "SoruMetni": "Aşağıdakilerden hangisi okuma sürecinde gelişen işlemlerden biri değildir?",
+        "A": "Dinleme",
+        "B": "Ön bilgilerin kulanılması",
+        "C": "Zihinde yapılandırma",
+        "D": "İlişkilendirme",
+        "E": "Değerlendirme",
+        "DogruCevap": "A",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.328423",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Dinleme"
     },
     {
         "SoruID": 3258435,
@@ -941,7 +1241,7 @@
     },
     {
         "SoruID": 3258436,
-        "SoruMetni": "İpuçları ve kullanılan kelimelerin büyük önem taşıması,  aşağıdaki okuduğunu anlayabilm şartlarının hangisinin kapsamındadır?",
+        "SoruMetni": "İpuçları ve kullanılan kelimelerin büyük önem taşıması, aşağıdaki okuduğunu anlayabilm şartlarının hangisinin kapsamındadır?",
         "A": "Anlamı kavrama",
         "B": "Çıkarımlarda bulunma",
         "C": "Zihinde canlandırma",
@@ -981,7 +1281,7 @@
     },
     {
         "SoruID": 3258438,
-        "SoruMetni": "Okumanın kesilerek ya da metne başlamadan önce metnin başlığından görsellerinden yola çıkarak yorumların  yapılması işlemi aşağıdaki okuma türlerinden hangisidir?",
+        "SoruMetni": "Okumanın kesilerek ya da metne başlamadan önce metnin başlığından görsellerinden yola çıkarak yorumların yapılması işlemi aşağıdaki okuma türlerinden hangisidir?",
         "A": "Tahmin ederek okuma",
         "B": "Soru sorarak okuma",
         "C": "Göz atarak okuma",
@@ -1061,7 +1361,7 @@
     },
     {
         "SoruID": 3258442,
-        "SoruMetni": "Aşağıdakilerden hangisi dinleme sürecini etkileyen dinleyici  temelli faktörlerden biridir?",
+        "SoruMetni": "Aşağıdakilerden hangisi dinleme sürecini etkileyen dinleyici temelli faktörlerden biridir?",
         "A": "Ön yargı",
         "B": "Konuşma hızı",
         "C": "Fiziksel konfor",
@@ -1097,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Amaç 1"
+        "Aciklama": "Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 1"
     },
     {
         "SoruID": 3258454,
@@ -1117,7 +1417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Amaç 1"
+        "Aciklama": "<br/>Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 1"
     },
     {
         "SoruID": 3258455,
@@ -1137,7 +1437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Amaç 1"
+        "Aciklama": "<br/>Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 1"
     },
     {
         "SoruID": 3258456,
@@ -1157,11 +1457,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Amaç 2"
+        "Aciklama": "<br/>Okuduğunu Anlama, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+    },
+    {
+        "SoruID": 3258457,
+        "SoruMetni": "Aşağıdakilerden hangisi, okuma alışkanlığına ilişkin geçerli bir bilgi değildir?",
+        "A": "Sözcük dağarcığını geliştirir.",
+        "B": "Konuşmanın etkinliğini arttırır.",
+        "C": "Ekonomik alım gücüyle doğru orantılıdır.",
+        "D": "Düşünsel gelişimin yolunu açar.",
+        "E": "Düzeyli ilişkilerin kurulmasında etkilidir.",
+        "DogruCevap": "C",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.419165",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<br/>Okuma Alışkanlığı, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
     },
     {
         "SoruID": 3258459,
-        "SoruMetni": "Eleştirel okuma, eleştirel düşünme süreciyle birlikte ilerler. Cüceloğlu’na göre, “Kendi düşünce süreçlerimizin bilincinde olarak, başkalarının düşünce süreçlerini göz önünde tutarak, öğrendiklerimizi uygulayarak kendimizi ve çevremizde yer alan olayları anlayabilmeyi amaç edinen aktif ve organize bir zihinsel sürece <em>eleştirel düşünme</em>” denir.<br/> Aşağıdakilerden hangisi, eleştirel düşünmeye ilişkin geçerli bir bilgidir?",
+        "SoruMetni": "Eleştirel okuma, eleştirel düşünme süreciyle birlikte ilerler. Cüceloğlu’na göre, “Kendi düşünce süreçlerimizin bilincinde olarak, başkalarının düşünce süreçlerini göz önünde tutarak, öğrendiklerimizi uygulayarak kendimizi ve çevremizde yer alan olayları anlayabilmeyi amaç edinen aktif ve organize bir zihinsel sürece <em>eleştirel düşünme</em>” denir.<br/>Aşağıdakilerden hangisi, eleştirel düşünmeye ilişkin geçerli bir bilgidir?",
         "A": "Nesnel verileri kullanmaktan kaçınır.",
         "B": "Tek yönlü bakış açısı gerektirir.",
         "C": "Neden – sonuç ilişkisinden uzaktır.",
@@ -1177,11 +1497,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Amaç 5"
+        "Aciklama": "<br/>Eleştirel Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 5"
     },
     {
         "SoruID": 3258468,
-        "SoruMetni": "Aşağıdakilerden hangileri okurun bir metni daha iyi anlamasına yardımcı olacak çalışmalardır?<br/> <ol style=\"list-style-type: upper-roman;\"> <li>ana ve yardımcı düşüncelerini belirlemek</li> <li>konusunu önceden bilinenlerle ilişkilendirmek</li> <li>yazarının bakış açısını belirlemek</li> <li>yazarının hayatı ile ilgili ön bilgiye sahip olmak</li> <li>paragraflar arasındaki ilişkiyi kavramak</li> </ol>",
+        "SoruMetni": "Aşağıdakilerden hangileri okurun bir metni daha iyi anlamasına yardımcı olacak çalışmalardır?<br/><ol style=\"list-style-type: upper-roman;\"> <li>ana ve yardımcı düşüncelerini belirlemek</li> <li>konusunu önceden bilinenlerle ilişkilendirmek</li> <li>yazarının bakış açısını belirlemek</li> <li>yazarının hayatı ile ilgili ön bilgiye sahip olmak</li> <li>paragraflar arasındaki ilişkiyi kavramak</li> </ol>",
         "A": "I, II, III",
         "B": "I, II, III, IV",
         "C": "I, II, III, V",
@@ -1200,8 +1520,28 @@
         "Aciklama": "I, II, III, V’de sözü geçen çalışmalar okurun bir metni daha iyi anlamasına yardımcı olacaktır. Bir metni daha iyi anlamak için yazarın hayatı hakkında ön bilgiye sahip olmak gerekmemektedir."
     },
     {
+        "SoruID": 3258470,
+        "SoruMetni": "Aşağıdakilerden hangileri eleştirel okuma süreçlerini içerir?<br/><ol style=\"list-style-type: upper-roman;\"> <li>Bir metni ön yargılar olmaksızın değerlendirmek</li> <li>Metindeki bilgilerin doğruluğunu sorgulamak</li> <li>Yazarın amacını zihinsel süreçten geçirmek</li> <li>Okuduğunu analiz etmek ve sentezlemek</li> </ol>",
+        "A": "I, II",
+        "B": "I, II, III",
+        "C": "I, II, IV",
+        "D": "I, III, IV",
+        "E": "I, II, III, IV",
+        "DogruCevap": "E",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.312952",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Tümü eleştirel okuma süreçlerindendir."
+    },
+    {
         "SoruID": 3258471,
-        "SoruMetni": "Eleştirel dinleyici aşağıdakilerden hangilerini gerçekleştirir?<br/> <ol style=\"list-style-type: upper-roman;\"> <li>dinleme anında zihinsel süreçlerini kullanır</li> <li>konuşmacının mesajının doğruluğunu sorgular</li> <li>konuşmacıyı tarafsız bir şekilde dinler</li> <li>duydukları ile bildiklerini karşılaştırır</li> <li>kendi görüşlerine zıt görüşleri yargılar</li> </ol>",
+        "SoruMetni": "Eleştirel dinleyici aşağıdakilerden hangilerini gerçekleştirir?<br/><ol style=\"list-style-type: upper-roman;\"> <li>dinleme anında zihinsel süreçlerini kullanır</li> <li>konuşmacının mesajının doğruluğunu sorgular</li> <li>konuşmacıyı tarafsız bir şekilde dinler</li> <li>duydukları ile bildiklerini karşılaştırır</li> <li>kendi görüşlerine zıt görüşleri yargılar</li> </ol>",
         "A": "I, II, III",
         "B": "III, IV, V",
         "C": "I, II, III, IV",
@@ -1260,8 +1600,28 @@
         "Aciklama": "Temel dil becerileri, anlama ve anlatma olmak üzere iki temel bileşen üzerine kurulmuştur. Okuma ve dinleme anlamanın; konuşma ve yazma ise anlatmanın alt bileşenidir. Doğru cevap A seçeneğidir."
     },
     {
+        "SoruID": 3258474,
+        "SoruMetni": "Okuma yapılan metindeki sebep-sonuç ilişkilerini belirlemek, okuduğunu anlayabilme için gerekli olan başlıca şartlardan hangisi ile ilgilidir?",
+        "A": "Yoğun dikkat",
+        "B": "Çıkarımda bulunma",
+        "C": "Yeniden yapılandırma",
+        "D": "Zihinde canlandırma",
+        "E": "Anlamı kavrama",
+        "DogruCevap": "B",
+        "DersAd": "Türk Dili II",
+        "Unite": 7,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:29.423006",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Çıkarımda bulunma; metindeki sebep-sonuç ilişkilerinin, durumlar, olaylar vb. arasındaki kıyaslama ve ilişkilerin belirlenmesini gerektirmektedir. Doğru cevap B seçeneğidir."
+    },
+    {
         "SoruID": 3258475,
-        "SoruMetni": "Metnin tamamını okumadan, metinde anlatılan konu hakkında genel bilgiler edinmek amacıyla yapılan okuma türü aşağıdakilerde hangisidir?",
+        "SoruMetni": "Metnin tamamını okumadan, metinde anlatılan konu hakkında genel bilgiler edinmek amacıyla yapılan okuma türü aşağıdakilerde hangisidir?",
         "A": "Sessiz okuma",
         "B": "Özetleyerek okuma",
         "C": "Göz atarak okuma",
@@ -1301,7 +1661,7 @@
     },
     {
         "SoruID": 3258477,
-        "SoruMetni": "Aşağıdakilerden hangisi dinleme sürecini etkileyen  alıcı (dinleyici) temelli faktörlerden biridir?",
+        "SoruMetni": "Aşağıdakilerden hangisi dinleme sürecini etkileyen alıcı (dinleyici) temelli faktörlerden biridir?",
         "A": "Konuşma hızı",
         "B": "Ses tonu",
         "C": "Jest ve mimikler",

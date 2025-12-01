@@ -1,7 +1,27 @@
 [
     {
+        "SoruID": 3769714,
+        "SoruMetni": "Birbirinden bağımsız karakterlerin satırlar, paragraflar ve sayfalar oluşturacak şekilde dizilip basıldıktan sonra sökülerek tekrar kullanılmasını sağlayan bir baskı sistemine _______________ denir.<br/>Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "A": "Hareketli Hurufat",
+        "B": "Tipografi",
+        "C": "Blackletter",
+        "D": "Ofset",
+        "E": "İtalik",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.924015",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Giriş<br>Hareketli hurufat (movable type), 15. yy’da hurufat adı verilen birbirinden bağımsız karakterlerin satırlar, paragraflar ve sayfalar oluşturacak şekilde dizilip basıldıktan sonra sökülerek tekrar kullanılmasını sağlayan bir baskı sistemi"
+    },
+    {
         "SoruID": 3769715,
-        "SoruMetni": "I. Old Style                      a. Palatino<br/> II. Sans Serif (Tırnaksız)   b. Clarendon<br/> III. Serif (Tırnaklı)            c. Helvetica<br/> Yukarıda verilen yazı sistemleri ve yazı karakterlerinin doğru eşlemesi aşağıdakilerden hangisidir?",
+        "SoruMetni": "I. Old Style a. Palatino<br/>II. Sans Serif (Tırnaksız) b. Clarendon<br/>III. Serif (Tırnaklı) c. Helvetica<br/>Yukarıda verilen yazı sistemleri ve yazı karakterlerinin doğru eşlemesi aşağıdakilerden hangisidir?",
         "A": "I-a, II-c, III-b",
         "B": "I-a, II-b, III-c",
         "C": "I-c, II-b, III-a",
@@ -17,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I. Old Style                      a. Palatino<br/> II. Sans Serif (Tırnaksız)   b. Helvetica<br/> III. Serif (Tırnaklı)            c. Clarendon"
+        "Aciklama": "Geometrik Altyapılar<br>I. Old Style a. Palatino<br/>II. Sans Serif (Tırnaksız) b. Helvetica<br/>III. Serif (Tırnaklı) c. Clarendon"
     },
     {
         "SoruID": 3769716,
@@ -37,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Blackletter"
+        "Aciklama": "<span><strong>Blackletter yazı stili</strong> hareketli hurufat sistemi ile kullanılmak üzere hazırlanan ilk kalıp (fount-font) olmuştur.</span>"
     },
     {
         "SoruID": 3769717,
@@ -57,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Humanist"
+        "Aciklama": "<span>Hareketli hurufat ile yapılan ilk örnek baskı için kullanılan Blackletter yazı karakteri, ağır lekesel de-<br/>ğeriyle okumayı zorlaştıran bir yapıdaydı. Bu yazı karakteri zaman içinde yerini daha okunaklı olan <strong>Humanist</strong> yazı karakterlerine bırakır.</span>"
     },
     {
         "SoruID": 3769718,
@@ -77,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Serif (Tırnaklı) yazı karakterlerine ise Clarendon, Bookman örnek verilebilir"
+        "Aciklama": "Geometrik Altyapılar<br>Serif (Tırnaklı) yazı karakterlerine ise Clarendon, Bookman örnek verilebilir"
     },
     {
         "SoruID": 3769719,
@@ -97,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tipografi"
+        "Aciklama": "<span><strong>Tipografi,</strong> yazıdan daha çok yazının yazılmasını sağlayan parçaların bir araya gelmesiyle<br/>oluşan bir sistemdir </span>"
     },
     {
         "SoruID": 3769720,
@@ -117,11 +137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İmajlar"
+        "Aciklama": "<span>Yazı karakterleri, harfler (büyük ve küçük), rakamlar, noktalama işaretleri ve özel sembolleri içeren karakter setlerinden oluşur. </span><br>İmajlar"
     },
     {
         "SoruID": 3769721,
-        "SoruMetni": "I. Gill Sans<br/><br/>II. Helvetica<br/><br/>III. Palatino<br/><br/>IV. Clarendon<br/><br/>V. Trajan<br/><br/>Yukarıdakilerden hangisi ya da hangileri eski biçem yani old style (geometrik formları kullanan) sistemi yazı karakterleridir?",
+        "SoruMetni": "I. Gill Sans<br/>II. Helvetica<br/>III. Palatino<br/>IV. Clarendon<br/>V. Trajan<br/>Yukarıdakilerden hangisi ya da hangileri eski biçem yani old style (geometrik formları kullanan) sistemi yazı karakterleridir?",
         "A": "I-III-V",
         "B": "I-II-III-IV-V",
         "C": "I-II",
@@ -137,7 +157,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu yapıda olan yazı karakterlerine Gill Sans, Garamond, Jenson, Trajan, Palatino, Minion Pro örnek verilebilir"
+        "Aciklama": "Geometrik Altyapılar<br>Bu yapıda olan yazı karakterlerine Gill Sans, Garamond, Jenson, Trajan, Palatino, Minion Pro örnek verilebilir"
+    },
+    {
+        "SoruID": 3769722,
+        "SoruMetni": "Yazı karakterleri geometrik altyapısına göre kaça ayrılmaktadır?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "E": "6",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:54.062146",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<span>Yazı karakterleri geometrik altyapısına göre<strong> ikiye</strong> ayrılmaktadır. </span><span>Bu yapılardan biri;</span><br/><strong><span>1-Eski Biçem (Old Style), diğeri ise,</span></strong><br/><strong><span>2-Eşit-en’dir (Transitional).</span></strong>"
     },
     {
         "SoruID": 3769723,
@@ -157,7 +197,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eşit-en (Evenwidth)"
+        "Aciklama": "<span><strong>Eşit-en (Evenwidth) sistemi,</strong> Eski Biçem sisteminin kullandığı geometrik formları deforme eder. Karenin dikdörtgene, üçgenin yamuğa, dairenin elipse dönüştürüldüğü bu sistemde karakter setlerindeki harfleri birbirlerine görsel olarak yakınlaştırmak amaçlanır. </span>"
+    },
+    {
+        "SoruID": 3769724,
+        "SoruMetni": "Eşit-en sistemi temel geometrik formları deforme ettiğinden her zaman her yazı karakteri için farklılık gösterebilir. Bu durum elips, dikdörtgen ve yamuk temelli olması nedeniyle Eşit-en sistemini değişken kılar. Aşağıdakilerden hangisi Eşit-en yazı grubundan <strong>değildir?</strong>",
+        "A": "Univers",
+        "B": "Garamond",
+        "C": "Bookman",
+        "D": "Clarendon",
+        "E": "Helvetica",
+        "DogruCevap": "B",
+        "DersAd": "Tipografi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.929944",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<span>Eşit-en sistemi temel geometrik formları deforme ettiğinden her zaman her yazı karakteri için farklılık gösterebilir. Bu durum elips, dikdörtgen ve yamuk temelli olması nedeniyle Eşit-en sistemini değişken kılar. Bu yapıda olan yazı karakterlerine Sans Serif (Tırnaksız) yazı grubundan <strong>Helvetica, Univers; Serif (Tırnaklı) yazı karakterlerine ise Clarendon, Bookman</strong> örnek verilebilir.</span><br>Garamond"
     },
     {
         "SoruID": 3769725,
@@ -177,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kelime sayısı"
+        "Aciklama": "<span>Metin, satır çizgisi (baseline) sayesinde aynı hizada tutulabilir ancak bir metnin düzeni için daha birçok parametreye ihtiyaç vardır. <strong>Satır arası boşluk, punto ölçüsü, harf arası boşluk, kelime arası boşluk, satır uzunluğu gibi parametreler</strong> metnin görüntüsüyle ya da oluşumuyla direk olarak ilgilidir. </span><br>Kelime sayısı"
     },
     {
         "SoruID": 3769726,
@@ -197,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Leg (Bacak): Bir harfin gövde çizgisinden çıkan ve bir ucu açık olan K, R gibi harflerin taban çizgisine doğru uzanan eğik çizgilerine verilen ad."
+        "Aciklama": "HARF ANATOMİSİ VE TERİMLER<br>Leg (Bacak): Bir harfin gövde çizgisinden çıkan ve bir ucu açık olan K, R gibi harflerin taban çizgisine doğru uzanan eğik çizgilerine verilen ad."
     },
     {
         "SoruID": 3769727,
@@ -217,7 +277,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tracking"
+        "Aciklama": "<strong> <span>Tracking: </span></strong><span>Bir metindeki tüm karakter arasındaki mesafe/boşluk ayarı.</span>"
+    },
+    {
+        "SoruID": 3769728,
+        "SoruMetni": "Yazı karakterleri üç ana grupta sınıflandırılır. Bu yazı karakterlerinden biri olan bu yazı grubu ayrıca Roma tipi olarak da adlandırılır. Bunun nedeni temellerini Roma yazıtlarından almış olmasıdır. Bu tür yazı karakterleri en okunaklı yazı tipleri olduğundan genellikle gövde metinlerde kullanılsalar da başlıklar için de uygundurlar. Bu yazı sınıflamasına ya da grubuna <strong>ne ad verilir?</strong>",
+        "A": "Blackletter yazı stili",
+        "B": "Display",
+        "C": "Tırnaklı (Serif)",
+        "D": "Tırnaksız (Sans Serif)",
+        "E": "Point (punto)",
+        "DogruCevap": "C",
+        "DersAd": "Tipografi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.884564",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<span>Tırnaklı (Serif) yazı karakterleri ayrıca Roma tipi olarak da adlandırılır. Bunun nedeni temellerini<br/>Roma yazıtlarından almış olmasıdır. Bu tür yazı karakterleri en okunaklı yazı tipleri olduğundan genellikle gövde metinlerde kullanılsalar da başlıklar için de uygundurlar. Günümüzde de Serif karakterler üretiliyor olmasına rağmen kaynağını geçmişten alır.</span>"
     },
     {
         "SoruID": 3769729,
@@ -237,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Loop (İlmik): Sadece iki katlı (two storey) küçük “g” harfinin alt kısmına verilen özel isim."
+        "Aciklama": "HARF ANATOMİSİ VE TERİMLER<br>Loop (İlmik): Sadece iki katlı (two storey) küçük “g” harfinin alt kısmına verilen özel isim."
     },
     {
         "SoruID": 3769730,
@@ -257,11 +337,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sholder (Omuz): Küçük harf h, m ve n’nin harflerin omuz gibi görünen kavisli çizgisine verilen ad."
+        "Aciklama": "HARF ANATOMİSİ VE TERİMLER<br>Sholder (Omuz): Küçük harf h, m ve n’nin harflerin omuz gibi görünen kavisli çizgisine verilen ad."
     },
     {
         "SoruID": 3769731,
-        "SoruMetni": "Bir metindeki belli iki karakter arasındaki boşluğun ayarlanmasına ________ denir.<br/> Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Bir metindeki belli iki karakter arasındaki boşluğun ayarlanmasına ________ denir.<br/>Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Kerning",
         "B": "Tracking",
         "C": "Leading",
@@ -277,7 +357,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kerning: Bir metindeki belli iki karakter arasındaki boşluk ayarı."
+        "Aciklama": "Harf Anatomisi/Harfleri Oluşturan Yapılar<br>Kerning: Bir metindeki belli iki karakter arasındaki boşluk ayarı."
+    },
+    {
+        "SoruID": 3769732,
+        "SoruMetni": "Bir yazı karakterini oluşturan çizgilerin kalınlığı, yazı karakterinin sayfa üzerindeki _______ belirler.<br/>Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "A": "Ağırlığını",
+        "B": "Genişliğini",
+        "C": "Derinliğini",
+        "D": "Boyutunu",
+        "E": "Hacmini",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.887784",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "YAZI KARAKTERİ AİLESİ<br>Bir yazı karakterini oluşturan çizgilerin kalınlığı, yazı karakterinin sayfa üzerindeki ağırlığını belirler."
     },
     {
         "SoruID": 3769733,
@@ -297,7 +397,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Blackletter yazı karakterleri hurufat olarak hazırlanmış ilk kalıp (fount-font) yazı karakterleridir."
+        "Aciklama": "YAZI KARAKTERLERİNİ SINIFLANDIRMA<br>Blackletter yazı karakterleri hurufat olarak hazırlanmış ilk kalıp (fount-font) yazı karakterleridir."
+    },
+    {
+        "SoruID": 3769801,
+        "SoruMetni": "Aşağıdakilerden hangisi eşit-en sistemine sahip bir yazı karakteridir?",
+        "A": "Minion",
+        "B": "Palatino",
+        "C": "Trajan",
+        "D": "Garamond",
+        "E": "Clarendon",
+        "DogruCevap": "E",
+        "DersAd": "Tipografi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.934986",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Clarendon, eşit-en sistemine sahip bir yazı karakteridir."
     },
     {
         "SoruID": 3769802,
@@ -341,7 +461,7 @@
     },
     {
         "SoruID": 3769804,
-        "SoruMetni": "Harflerde tırnak (serif) ile bitmeyen çizgi uçlarına ne ad verilir?<br/>",
+        "SoruMetni": "Harflerde tırnak (serif) ile bitmeyen çizgi uçlarına ne ad verilir?",
         "A": "Serif",
         "B": "Swash",
         "C": "Stem",
@@ -457,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Paul Renner tarafından 1927 yılında tasarlanan  Futura, Geometrik San Serif bir yazı karakteridir."
+        "Aciklama": "Paul Renner tarafından 1927 yılında tasarlanan Futura, Geometrik San Serif bir yazı karakteridir."
     },
     {
         "SoruID": 3769810,
@@ -480,13 +600,33 @@
         "Aciklama": "Yazı karakteri ailesi içindeki sıkıştırılarak daraltılmış varyasyona condesed denir. Aynı terim için condens, narrow, compact terimleri de kullanılabilmektedir."
     },
     {
+        "SoruID": 3770131,
+        "SoruMetni": "Hareketli hurufat ile yapılan ilk örnek baskı için kullanılan yazı karakteri aşağıdakilerden hangisidir?",
+        "A": "Blackletter",
+        "B": "Old style",
+        "C": "Transitional",
+        "D": "Slab Serif",
+        "E": "Sans Serif",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.943391",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Hareketli hurufat ile yapılan ilk örnek baskı için kullanılan <span style=\"text-decoration: underline;\"><strong>Blackletter</strong></span> yazı karakteri, ağır lekesel de- ğeriyle okumayı zorlaştıran bir yapıdaydı."
+    },
+    {
         "SoruID": 3770132,
-        "SoruMetni": "<br/> <br/> <br/> <br/>\"<strong><span style=\"text-decoration: underline;\">...</span>  <span style=\"text-decoration: underline;\">...</span></strong> harfler (büyük ve küçük), rakamlar, noktalama işaretleri ve özel sembolleri içeren karakter setlerinden oluşur\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Tipo baskı<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Yazı karakterleri<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Hareketli hurufat<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Baskı teknikleri<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Harf boşlukları<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>\"<strong><span style=\"text-decoration: underline;\">...</span> <span style=\"text-decoration: underline;\">...</span></strong> harfler (büyük ve küçük), rakamlar, noktalama işaretleri ve özel sembolleri içeren karakter setlerinden oluşur\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
+        "A": "<br/>Tipo baskı",
+        "B": "<br/>Yazı karakterleri",
+        "C": "<br/>Hareketli hurufat",
+        "D": "<br/>Baskı teknikleri",
+        "E": "<br/>Harf boşlukları",
         "DogruCevap": "B",
         "DersAd": "Tipografi",
         "Unite": 4,
@@ -497,11 +637,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><span style=\"text-decoration: underline;\"><strong>Yazı karakterleri</strong></span>, harfler (büyük ve küçük), rakamlar, noktalama işaretleri ve özel sembolleri içeren karakter setlerinden oluşur.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><span style=\"text-decoration: underline;\"><strong>Yazı karakterleri</strong></span>, harfler (büyük ve küçük), rakamlar, noktalama işaretleri ve özel sembolleri içeren karakter setlerinden oluşur."
     },
     {
         "SoruID": 3770133,
-        "SoruMetni": "Küçük harflerde, “y, g” gibi harfler taban çizgisinden aşağı doğru uzar. Bu uzantıların ulaştığı çizgiye ne ad verilir?",
+        "SoruMetni": "Küçük harflerde, “y, g” gibi harfler taban çizgisinden aşağı doğru uzar. Bu uzantıların ulaştığı çizgiye ne ad verilir?",
         "A": "Descent",
         "B": "Ascent",
         "C": "Meanline",
@@ -521,7 +661,7 @@
     },
     {
         "SoruID": 3770144,
-        "SoruMetni": "“Yazı yüzlerinin karakter setlerinin oluşmasını sağlayan geometrik yapılar Eski Yunanlılardan bu yana -------, kare ve daire formlarından oluşur.”<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "“Yazı yüzlerinin karakter setlerinin oluşmasını sağlayan geometrik yapılar Eski Yunanlılardan bu yana -------, kare ve daire formlarından oluşur.”<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "üçgen",
         "B": "dikdörtgen",
         "C": "yamuk",
@@ -572,7 +712,7 @@
         "Unite": 4,
         "Somestre": "2",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:21:03.370175",
+        "OlusturmaTarihi": "2025-12-01T04:16:01.100919",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -581,7 +721,7 @@
     },
     {
         "SoruID": 3770147,
-        "SoruMetni": "Harf anatomisi/harfleri oluşturan yapılara ilişkin aşağıdaki eşleştirmelerden hangisi veya hangileri doğrudur?<br/> I. Ear (Kulak) - Küçük harf g’nin üzerinden çıkan kulağa benzeyen küçük çizgiye verilen ad. <br/> II. Counter (İç Boşluk) - Dairesel harflerdeki tamamen kapalı ya da yarı açık iç boşluğa verilen ad. <br/> III. Bar / Crossbar (Köprü) - C, b, p, d gibi dairesel formlu karakterlerdeki kavisi oluşturan çizgiye verilen ad.",
+        "SoruMetni": "Harf anatomisi/harfleri oluşturan yapılara ilişkin aşağıdaki eşleştirmelerden hangisi veya hangileri doğrudur?<br/>I. Ear (Kulak) - Küçük harf g’nin üzerinden çıkan kulağa benzeyen küçük çizgiye verilen ad. <br/>II. Counter (İç Boşluk) - Dairesel harflerdeki tamamen kapalı ya da yarı açık iç boşluğa verilen ad. <br/>III. Bar / Crossbar (Köprü) - C, b, p, d gibi dairesel formlu karakterlerdeki kavisi oluşturan çizgiye verilen ad.",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -597,11 +737,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ear (Kulak) - Küçük harf g’nin üzerinden çıkan kulağa benzeyen küçük çizgiye verilen ad. <br/> Counter (İç Boşluk) - Dairesel harflerdeki tamamen kapalı ya da yarı açık iç boşluğa verilen ad. <br/> Bar / Crossbar (Köprü): A, H, R, e, veya f gibi harflerin yatay çizgilerine verilen ad.<br/> Doğru cevap B seçeneğidir."
+        "Aciklama": "Ear (Kulak) - Küçük harf g’nin üzerinden çıkan kulağa benzeyen küçük çizgiye verilen ad. <br/>Counter (İç Boşluk) - Dairesel harflerdeki tamamen kapalı ya da yarı açık iç boşluğa verilen ad. <br/>Bar / Crossbar (Köprü): A, H, R, e, veya f gibi harflerin yatay çizgilerine verilen ad.<br/>Doğru cevap B seçeneğidir."
     },
     {
         "SoruID": 3770148,
-        "SoruMetni": "“---- yazı karakterleri Roma Stili yazı karakterleri olarak da adlandırılan tırnaklı yazı karakterlerinin dönemsel olarak ilk üretilen versiyonudur.”<br/><br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "“---- yazı karakterleri Roma Stili yazı karakterleri olarak da adlandırılan tırnaklı yazı karakterlerinin dönemsel olarak ilk üretilen versiyonudur.”<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Humanist",
         "B": "Old Style",
         "C": "Modern",
@@ -660,6 +800,26 @@
         "Aciklama": "Bir yazı karakterinde ağırlıklar çok fazla çeşitlilik içeriyorsa Frutiger ızgarası olarak tanımlanan sistemle numaratik olarak belirlenebilir. Doğru cevap A seçeneğidir."
     },
     {
+        "SoruID": 3770151,
+        "SoruMetni": "15. yy’ın ilk yarısında Fransız Claude Garamond ve Venedikli Aldus Manutius gibi ustalar tarafından tasarlanan yazı karakteri aşağıdakilerden hangisidir?",
+        "A": "Eski biçem",
+        "B": "Transitional",
+        "C": "Modern",
+        "D": "Humanist",
+        "E": "Slab serif",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.893103",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Eski Biçem (Oldstyle/Garalde) yazı karakteri 15. yy’ın ilk yarısında Fransız Claude Garamond ve Venedikli Aldus Manutius gibi ustalar tarafından tasarlandı. Doğru cevap A seçeneğidir."
+    },
+    {
         "SoruID": 3770152,
         "SoruMetni": "Hurufat olarak hazırlanmış ilk kalıp (fount-font) yazı karakteri aşağıdakilerden hangisidir?",
         "A": "Blackletter",
@@ -701,12 +861,12 @@
     },
     {
         "SoruID": 3770154,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Tüm küçük harf karakterlerinin hizalandığı üst çizgi aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Baseline (Taban Çizgisi)<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Cap Height / Cap Line<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>x Height (x Yüksekliği)<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Meanline (Orta Çizgi)<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Point Size / Point (Punto)<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Tüm küçük harf karakterlerinin hizalandığı üst çizgi aşağıdakilerden hangisidir?",
+        "A": "<br/>Baseline (Taban Çizgisi)",
+        "B": "<br/>Cap Height / Cap Line",
+        "C": "<br/>x Height (x Yüksekliği)",
+        "D": "<br/>Meanline (Orta Çizgi)",
+        "E": "<br/>Point Size / Point (Punto)",
         "DogruCevap": "D",
         "DersAd": "Tipografi",
         "Unite": 4,
@@ -717,11 +877,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><strong>Meanline (Orta Çizgi):</strong> Tüm küçük harf karakterlerin hizalandığı üst çizgi. Büyük harf yüksekliğinden aşağıda kalır. Küçük harflerin üst sınırlarını, üst uzantılarından ayıran hayali çizgidir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><strong>Meanline (Orta Çizgi):</strong> Tüm küçük harf karakterlerin hizalandığı üst çizgi. Büyük harf yüksekliğinden aşağıda kalır. Küçük harflerin üst sınırlarını, üst uzantılarından ayıran hayali çizgidir."
     },
     {
         "SoruID": 3770155,
-        "SoruMetni": "Bir harfin gövde çizgisinden çıkan ve bir ya da iki ucu açık olan E, F, L, T, Y, V, K gibi harflerin yatay ya da yukarı doğru çıkan eğik çizgilerine verilen ad aşağıdakilerden hangisidir?",
+        "SoruMetni": "Bir harfin gövde çizgisinden çıkan ve bir ya da iki ucu açık olan E, F, L, T, Y, V, K gibi harflerin yatay ya da yukarı doğru çıkan eğik çizgilerine verilen ad aşağıdakilerden hangisidir?",
         "A": "Ascender (Üst Uzantılar)",
         "B": "Axis (Eksen)",
         "C": "Bar / Crossbar (Köprü)",
@@ -737,11 +897,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Arm (Kol):</strong> Bir harfin gövde çizgisinden çıkan ve bir ya da iki ucu açık olan E, F, L, T, Y, V, K gibi harflerin yatay ya da yukarı doğru çıkan eğik çizgilerine verilen ad."
+        "Aciklama": "<strong>Arm (Kol):</strong> Bir harfin gövde çizgisinden çıkan ve bir ya da iki ucu açık olan E, F, L, T, Y, V, K gibi harflerin yatay ya da yukarı doğru çıkan eğik çizgilerine verilen ad."
     },
     {
         "SoruID": 3770156,
-        "SoruMetni": "Bir harfin bitişini gösteren tırnaksız çizgi ucu (terminal) ya da tırnak (serif) yerine kullanılan süslü çizgi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Bir harfin bitişini gösteren tırnaksız çizgi ucu (terminal) ya da tırnak (serif) yerine kullanılan süslü çizgi aşağıdakilerden hangisidir?",
         "A": "Swash (Çalkantı)",
         "B": "Sholder (Omuz)",
         "C": "Spine (Omurga)",
@@ -757,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Swash (Çalkantı):</strong> Bir harfin bitişini gösteren tırnaksız çizgi ucu (terminal) ya da tırnak (serif) yerine kullanılan süslü çizgi."
+        "Aciklama": "<strong>Swash (Çalkantı):</strong> Bir harfin bitişini gösteren tırnaksız çizgi ucu (terminal) ya da tırnak (serif) yerine kullanılan süslü çizgi."
     },
     {
         "SoruID": 3770157,
@@ -801,12 +961,12 @@
     },
     {
         "SoruID": 3770159,
-        "SoruMetni": "<br/> <br/> <br/> <br/>1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteri aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Lubalin<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Rockwell<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Clarendon<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Century <br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>American Typewriter<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteri aşağıdakilerden hangisidir?",
+        "A": "<br/>Lubalin",
+        "B": "<br/>Rockwell",
+        "C": "<br/>Clarendon",
+        "D": "<br/>Century",
+        "E": "<br/>American Typewriter",
         "DogruCevap": "D",
         "DersAd": "Tipografi",
         "Unite": 4,
@@ -817,11 +977,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><strong>Century yazı karakteri</strong>, Century Dergisi için 1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteridir. Century Expanded, rafine bir Mısır (Egyption) ya da Slab Serif, yazı karakteri için mükemmel bir örnektir. Büyük x yüksekliği ve basit formları olması bu yazı karakterini çok okunaklı bir yazı karakteri yüzü yapar.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><strong>Century yazı karakteri</strong>, Century Dergisi için 1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteridir. Century Expanded, rafine bir Mısır (Egyption) ya da Slab Serif, yazı karakteri için mükemmel bir örnektir. Büyük x yüksekliği ve basit formları olması bu yazı karakterini çok okunaklı bir yazı karakteri yüzü yapar."
     },
     {
         "SoruID": 3770160,
-        "SoruMetni": "\"<span style=\"text-decoration: underline;\"><strong>...    ...,</strong></span> Adrian Frutiger’in 1957’de Univers ailesini tasarlamasıyla oluşturduğu bir sistemdir. Sistem Univers yazı karakteri ailesinin (21 adet) ağırlık ve genişliklerini tanımlamak için tasarladığı bir sayı sistemidir\" açıklamasında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"<span style=\"text-decoration: underline;\"><strong>... ...,</strong></span> Adrian Frutiger’in 1957’de Univers ailesini tasarlamasıyla oluşturduğu bir sistemdir. Sistem Univers yazı karakteri ailesinin (21 adet) ağırlık ve genişliklerini tanımlamak için tasarladığı bir sayı sistemidir\" açıklamasında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Oblique varyasyon",
         "B": "İtalik versiyon",
         "C": "Condensed light",
@@ -860,6 +1020,26 @@
         "Aciklama": "Blackletter yazı stili hareketli hurufat sistemi ile kullanılmak üzere hazırlanan ilk kalıp (fount-font) olmuştur. Dik ve kalın çizgilerden oluşan biçemin harf boşluklarının az olması nedeniyle sayfada bıraktığı ağır siyah leke bu adı almasını sağlamıştır. Bu yazı karakteri zaman içinde yerini daha okunaklı olan Humanist yazı karakterlerine bırakır."
     },
     {
+        "SoruID": 3770162,
+        "SoruMetni": "İlk Roma biçemi yazı karakterlerinin kaynağı M.S. 2.yy’da yapılan ………………………’dur.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "A": "Trajan Sütunu",
+        "B": "Gotlar Sütunu",
+        "C": "Korinth",
+        "D": "Colosseum",
+        "E": "Tuscan",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.910484",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İlk Roma biçemi yazı karakterlerinin kaynağı M.S. 2.yy’da yapılan Trajan Sütunu’dur."
+    },
+    {
         "SoruID": 3770163,
         "SoruMetni": "Aşağıdakilerden hangisi Eşit-en (Evenwidth) sistemi ile ilgili doğru bir ifadedir?",
         "A": "Eski Biçem sisteminin kullandığı geometrik şekillere sadık kalır.",
@@ -878,6 +1058,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Eşit-en (Evenwidth) sistemi, Eski Biçem sisteminin kullandığı geometrik formları deforme eder. Görsel eşitlik hiçbir zaman aynı birim ölçüsü anlamına gelmez. Eski Biçem sistemde geometrik şekillere sadık kalındığından, bazı harfler çok geniş bazıları ise çok dar görünür. Eşit-en sisteminde, karakterler arasındaki genişlik farklılıkları eski biçem sisteminde olduğu gibi çok fazla farklılık göstermez. Eşit-en sisteminde temel geometrik yapı olan daire yanlardan basılmış bir elips formuna dönüşür."
+    },
+    {
+        "SoruID": 3770164,
+        "SoruMetni": "Aşağıdakilerden hangisi tüm küçük harf karakterlerin hizalandığı hayali üst çizgiyi tanımlar?",
+        "A": "Baseline",
+        "B": "Cap Line",
+        "C": "Descent",
+        "D": "Meanline",
+        "E": "Ascent",
+        "DogruCevap": "D",
+        "DersAd": "Tipografi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.946165",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Meanline (Orta Çizgi): Tüm küçük harf karakterlerin hizalandığı üst çizgidir."
     },
     {
         "SoruID": 3770165,
@@ -940,6 +1140,26 @@
         "Aciklama": "Tracking: Bir metindeki tüm karakter arasındaki mesafe/boşluk ayarıdır."
     },
     {
+        "SoruID": 3770168,
+        "SoruMetni": "Leading değeri artı olarak fazla verildiğinde oluşan etki aşağıdakilerden hangisidir?",
+        "A": "Sözcükler birbirinden uzaklaşır.",
+        "B": "Harfler birbirinden uzaklaşır.",
+        "C": "Sözcükler birbirine yaklaşır.",
+        "D": "Satırlar birbirlerinden uzaklaşır.",
+        "E": "Satırlar birbirine çok yaklaşır.",
+        "DogruCevap": "D",
+        "DersAd": "Tipografi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.914492",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Leading (satır arası): Bir metni oluşturan satırların arasındaki mesafedir. Leading değeri eksi ya da artı olarak verilebilir. Değer artı olarak fazla verildiğinde satırlar birbirlerinden çok uzaklaşır."
+    },
+    {
         "SoruID": 3770169,
         "SoruMetni": "Aşağıdakilerden hangisi ‘geometric sans serif’ yazı karakterlerinden biridir?",
         "A": "Futura",
@@ -981,7 +1201,7 @@
     },
     {
         "SoruID": 3770181,
-        "SoruMetni": "Aşağıdakilerden hangisi  MS 2.yy.da yapılmış ve ilk Roma biçemi yazı karakterlerinin kaynağı olarak kabul edilen yapı parçasıdır?",
+        "SoruMetni": "Aşağıdakilerden hangisi MS 2.yy.da yapılmış ve ilk Roma biçemi yazı karakterlerinin kaynağı olarak kabul edilen yapı parçasıdır?",
         "A": "Trajan Sütunu",
         "B": "Anthony Pio Sütunu",
         "C": "Marcus Aurelius Sütunu",
@@ -997,7 +1217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlk Roma biçemi yazı karakterlerinin kaynağı M.S. 2.yy’da yapılan Trajan Sütunu’dur. Buna bağlı olarak Eski Biçem sisteminin kaynağı da mermere kazınmış Trajan büyük harfleridir."
+        "Aciklama": "Lütfen \"Eski Biçem (Old Style)\" başlıklı yazıyı gözden geçiriniz.<br>İlk Roma biçemi yazı karakterlerinin kaynağı M.S. 2.yy’da yapılan Trajan Sütunu’dur. Buna bağlı olarak Eski Biçem sisteminin kaynağı da mermere kazınmış Trajan büyük harfleridir."
     },
     {
         "SoruID": 3770182,
@@ -1017,7 +1237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Satır çizgisine tüm harfleri ya da karakter setlerini aynı düzlem üzerinde, bir düzen içerisinde bir araya getiren temel çizgidir (baseline) denilebilir."
+        "Aciklama": "Lütfen \"Temel Çizgiler\" başlıklı yazıyı gözden geçiriniz.<br>Satır çizgisine tüm harfleri ya da karakter setlerini aynı düzlem üzerinde, bir düzen içerisinde bir araya getiren temel çizgidir (baseline) denilebilir."
     },
     {
         "SoruID": 3770183,
@@ -1037,7 +1257,47 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uppercase (Büyük Harf): Yazı karakterlerindeki büyük harflere verilen addır."
+        "Aciklama": "Lütfen \"Temel Çizgiler\" başlıklı yazıyı gözden geçiriniz.<br>Uppercase (Büyük Harf): Yazı karakterlerindeki büyük harflere verilen addır."
+    },
+    {
+        "SoruID": 3770184,
+        "SoruMetni": "Aşağıdakilerden hangisi yazı karakterleri oluşturan karakter setlerinden <span style=\"text-decoration: underline;\"><strong>değildir?</strong></span>",
+        "A": "Fontlar.",
+        "B": "Büyük harfler.",
+        "C": "Küçük harfler.",
+        "D": "Rakamlar.",
+        "E": "Noktalama işaretleri.",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.918066",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Lütfen \"HARF ANATOMİSİ VE TERİMLER\" başlıklı yazıyı gözden geçiriniz.<br>Yazı karakterleri oluşturan karakter setleri; büyük harfler, küçük harfler, rakamlar, noktalama işaretleri ve özel işaretler içerir."
+    },
+    {
+        "SoruID": 3770185,
+        "SoruMetni": "Bir harfin gövde çizgisinden çıkan ve bir ucu açık olan K, R gibi harflerin taban çizgisine doğru uzanan eğik çizgilerine verilen ad aşağıdakilerden hangisidir?",
+        "A": "Arm (Kol).",
+        "B": "Axis (Eksen).",
+        "C": "Ear (Kulak).",
+        "D": "Leg (Bacak).",
+        "E": "Loop (İlmik).",
+        "DogruCevap": "D",
+        "DersAd": "Tipografi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:54.060653",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Lütfen \"Harf Anatomisi/Harfleri Oluşturan Yapılar\" başlıklı yazıyı gözden geçiriniz.<br>Leg (Bacak): Bir harfin gövde çizgisinden çıkan ve bir ucu açık olan K, R gibi harflerin taban çizgisine doğru uzanan eğik çizgilerine verilen ad."
     },
     {
         "SoruID": 3770226,
@@ -1057,7 +1317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Leading (satır arası): Bir metni oluşturan satırların arasındaki mesafe."
+        "Aciklama": "Lütfen \"Ölçü/Boyut (Punto)\" başlıklı yazıyı gözden geçiriniz.<br>Leading (satır arası): Bir metni oluşturan satırların arasındaki mesafe."
     },
     {
         "SoruID": 3770227,
@@ -1077,7 +1337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oldstyle (Eski Biçem) yazı karakterleri, Garalde (Eski Biçem) yazı karakterleri olarak da adlandırılır. Eski Biçem (Oldstyle/Garalde) yazı karakteri 15. yy’ın ilk yarısında Fransız Claude Garamond ve Venedikli Aldus Manutius gibi ustalar tarafından tasarlandı.15. yy ve 16. yy İtalya’sında yaratılan az çizgi kontrastı ve Humanist yazı karakterlerine göre daha az eğimli vurgusuyla tırnaklı (serif) yazı karakterlerinin dönemsel olarak üretilen ikinci versiyonudur."
+        "Aciklama": "Lütfen \"Old Style / Garalde (Eski Biçem/Stil) – 15. ve 16. Yy\" başlıklı yazıyı gözden geçiriniz.<br>Oldstyle (Eski Biçem) yazı karakterleri, Garalde (Eski Biçem) yazı karakterleri olarak da adlandırılır. Eski Biçem (Oldstyle/Garalde) yazı karakteri 15. yy’ın ilk yarısında Fransız Claude Garamond ve Venedikli Aldus Manutius gibi ustalar tarafından tasarlandı.15. yy ve 16. yy İtalya’sında yaratılan az çizgi kontrastı ve Humanist yazı karakterlerine göre daha az eğimli vurgusuyla tırnaklı (serif) yazı karakterlerinin dönemsel olarak üretilen ikinci versiyonudur."
     },
     {
         "SoruID": 3770228,
@@ -1097,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Century yazı karakteri, Century Dergisi için 1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteridir."
+        "Aciklama": "Lütfen \"Slab Serif (Egyption-Mechanistic) – 19. Yy\" başlıklı yazıyı gözden geçiriniz.<br>Century yazı karakteri, Century Dergisi için 1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteridir."
     },
     {
         "SoruID": 3770229,
@@ -1117,7 +1377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Helvetica, 1957’de Max Miedinger tarafından tasarlanan dünyanın en yaygın olarak kullanılan Transitional sans serif yazı karakteridir."
+        "Aciklama": "Lütfen \"Transitional / Grotesk / Neo-Grotesk\" başlıklı yazıyı gözden geçiriniz.<br>Helvetica, 1957’de Max Miedinger tarafından tasarlanan dünyanın en yaygın olarak kullanılan Transitional sans serif yazı karakteridir."
     },
     {
         "SoruID": 3770230,
@@ -1137,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir yazı karakterini oluşturan çizgilerin kalınlığı, yazı karakterinin sayfa üzerindeki ağırlığını belirler."
+        "Aciklama": "Lütfen \"Ağırlık\" başlıklı yazıyı gözden geçiriniz.<br>Bir yazı karakterini oluşturan çizgilerin kalınlığı, yazı karakterinin sayfa üzerindeki ağırlığını belirler."
     },
     {
         "SoruID": 3770241,
@@ -1201,7 +1461,7 @@
     },
     {
         "SoruID": 3770254,
-        "SoruMetni": "Eski Biçem (Old Style) sistemi, harflerin oluşmasında kullanılan geometrik şekillere (üçgen, kare, daire) olabildiğince sadık kalan bir yapıdır. Aşağıdakilerden hangisi Eski Biçem geometrik altyapılı yazı karakterine örnek <strong>verilemez?</strong>",
+        "SoruMetni": "Eski Biçem (Old Style) sistemi, harflerin oluşmasında kullanılan geometrik şekillere (üçgen, kare, daire) olabildiğince sadık kalan bir yapıdır. Aşağıdakilerden hangisi Eski Biçem geometrik altyapılı yazı karakterine örnek <strong>verilemez?</strong>",
         "A": "Brush Script",
         "B": "Trajan",
         "C": "Palatino",
@@ -1218,6 +1478,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Eski Biçem (Old Style) sistemi, harflerin oluşmasında kullanılan geometrik şekillere (üçgen, kare, daire) olabildiğince sadık kalan bir yapıdır. Bazı karakterler tek geometrik elemandan (A harfi tek bir üçgenden) oluşturulurken bazı karakterler çift geometrik elemandan (S harfi üst üste gelen iki daireden) oluşturulur (Görsel 4.7). Bu yapıda olan yazı karakterlerine Gill Sans, Garamond, Jenson, Trajan, Palatino, Minion Pro örnek verilebilir (Görsel 4.8)."
+    },
+    {
+        "SoruID": 3770255,
+        "SoruMetni": "Sans Serif (Tırnaksız) yazı grubundan Helvetica ve Univers; Serif (Tırnaklı) yazı karakterlerine ise Clarendon, Bookman örnek verilebilecek yapıya sahip yazı karakterleri sistemine ne ad verilir?",
+        "A": "Serifsiz",
+        "B": "Eski Biçem",
+        "C": "Eşit-En",
+        "D": "Uppercase (Büyük Harf)",
+        "E": "Modern",
+        "DogruCevap": "C",
+        "DersAd": "Tipografi",
+        "Unite": 4,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:54.006256",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Eşit-en sistemi temel geometrik formları deforme ettiğinden her zaman her yazı karakteri için farklılık gösterebilir. Bu durum elips, dikdörtgen ve yamuk temelli olması nedeniyle Eşit-en sistemini değişken kılar. Bu yapıda olan yazı karakterlerine Sans Serif (Tırnaksız) yazı grubundan Helvetica, Univers; Serif (Tırnaklı) yazı karakterlerine ise Clarendon, Bookman örnek verilebilir (Görsel 4.10)."
     },
     {
         "SoruID": 3770256,
@@ -1312,7 +1592,7 @@
         "Unite": 4,
         "Somestre": "2",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:21:03.390447",
+        "OlusturmaTarihi": "2025-12-01T04:16:01.102610",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,

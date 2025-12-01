@@ -1,10 +1,10 @@
 [
     {
         "SoruID": 3488778,
-        "SoruMetni": "Kişilerarası iletişim, grup iletişimi, örgüt iletişimi ve toplumsal iletişim sistemi, hangi iletişim sınıflandırılması içerisinde yer alır?<br/><br/>",
+        "SoruMetni": "Kişilerarası iletişim, grup iletişimi, örgüt iletişimi ve toplumsal iletişim sistemi, hangi iletişim sınıflandırılması içerisinde yer alır?",
         "A": "Toplumsal ilişkiler sistemi olarak",
         "B": "Grup iletişiminin yapısına göre",
-        "C": "Kullanılan kanallara ve araçlara göre<br/><br/>",
+        "C": "Kullanılan kanallara ve araçlara göre",
         "D": "Kullanılan kodlara göre",
         "E": "Zaman ve mekan boyutlarında",
         "DogruCevap": "A",
@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Toplumsal İlişkiler Sistemi</strong> Olarak:<br/>-Kişilerarası<br/>iletişim<br/>- Grup iletişimi<br/>- Örgüt iletişimi<br/>- Toplumsal<br/>iletişim"
+        "Aciklama": "İletişim Sistemleri<br><strong>Toplumsal İlişkiler Sistemi</strong> Olarak:<br/>-Kişilerarası<br/>iletişim<br/>- Grup iletişimi<br/>- Örgüt iletişimi<br/>- Toplumsal<br/>iletişim"
     },
     {
         "SoruID": 3488779,
-        "SoruMetni": "Hangi duyumuz ile oluşan iletişim sürecinde, ilk olarak anlama daha sonra algılama ve kavrama süreci gelişir?<br/><br/>",
+        "SoruMetni": "Hangi duyumuz ile oluşan iletişim sürecinde, ilk olarak anlama daha sonra algılama ve kavrama süreci gelişir?",
         "A": "İşitme",
         "B": "Tatma",
         "C": "Görme",
@@ -37,11 +37,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong> Görme duyumuz</strong> ile oluşan iletişim sürecinde, ilk olarak<br/>anlama daha sonra algılama ve kavrama süreci gelişir."
+        "Aciklama": "Görme ve Görsel İletişim<br><strong> Görme duyumuz</strong> ile oluşan iletişim sürecinde, ilk olarak<br/>anlama daha sonra algılama ve kavrama süreci gelişir."
     },
     {
         "SoruID": 3488780,
-        "SoruMetni": "Gösterge, simge, sembol, işaret gibi kavramlar hangi iletişimin temel parçaları arasında yer alır?<br/><br/>",
+        "SoruMetni": "Gösterge, simge, sembol, işaret gibi kavramlar hangi iletişimin temel parçaları arasında yer alır?",
         "A": "Kitle iletişimi",
         "B": "Grup iletişimi",
         "C": "Görsel iletişim",
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gösterge, simge, sembol, işaret<br/>gibi kavramlar <strong>görsel iletişimin</strong> temel parçaları arasında yer alır."
+        "Aciklama": "Görme ve Görsel İletişim<br>Gösterge, simge, sembol, işaret<br/>gibi kavramlar <strong>görsel iletişimin</strong> temel parçaları arasında yer alır."
     },
     {
         "SoruID": 3488781,
@@ -77,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözel iletişimde merkez alıcı iken, görsel iletişimde merkez, “<strong>anlamlandırılan görseldir</strong>”."
+        "Aciklama": "Görme ve Görsel İletişim<br>Sözel iletişimde merkez alıcı iken, görsel iletişimde merkez, “<strong>anlamlandırılan görseldir</strong>”."
     },
     {
         "SoruID": 3488782,
-        "SoruMetni": "Bir verici veya vericiler vasıtasıyla diğer tarafta yer alan alıcı veya alıcılar üzerinde etki oluşturmak hedefiyle kullanılan ve “gösterge” ne olarak tanımlanır?",
+        "SoruMetni": "Bir verici veya vericiler vasıtasıyla diğer tarafta yer alan alıcı veya alıcılar üzerinde etki oluşturmak hedefiyle kullanılan ve “gösterge” ne olarak tanımlanır?",
         "A": "Bildirim",
         "B": "İleti",
         "C": "Kanal",
@@ -97,11 +97,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Bildirim</strong>; bir verici veya vericiler vasıtasıyla diğer tarafta yer alan alıcı veya alıcılar üzerinde etki<br/>oluşturmak hedefiyle kullanılan ve “gösterge” denilen; mesaj yüklü araçları kullanarak “bildiri” ulaştırılması durumudur."
+        "Aciklama": "Bildirişim ve Görsel Bildirişim<br><strong>Bildirim</strong>; bir verici veya vericiler vasıtasıyla diğer tarafta yer alan alıcı veya alıcılar üzerinde etki<br/>oluşturmak hedefiyle kullanılan ve “gösterge” denilen; mesaj yüklü araçları kullanarak “bildiri” ulaştırılması durumudur."
     },
     {
         "SoruID": 3488783,
-        "SoruMetni": "Bildirişimin genel hedefi, mesajı alan alıcıda ne değişikliği oluşturmaktır?<br/><br/>",
+        "SoruMetni": "Bildirişimin genel hedefi, mesajı alan alıcıda ne değişikliği oluşturmaktır?",
         "A": "Anlam",
         "B": "Davranış",
         "C": "Sezgi",
@@ -117,11 +117,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bildirişimin genel hedefi, mesajı alan<br/>alıcıda <strong>davranış değişikliği</strong> oluşturmaktır."
+        "Aciklama": "Bildirişim ve Görsel Bildirişim<br>Bildirişimin genel hedefi, mesajı alan<br/>alıcıda <strong>davranış değişikliği</strong> oluşturmaktır."
     },
     {
         "SoruID": 3488784,
-        "SoruMetni": "İletişimin etki alanını artırmak, siber çağ ve yeni teknolojiler Max Bense ve kimin öncülüğünde bilimin ve sanatın ortaya koyduğu ortak bilgi değişimi sürecinden yola çıkarak “Bildirişim Estetiği” de denilen yeni bir anlayış oluşturdular?<br/><br/>",
+        "SoruMetni": "İletişimin etki alanını artırmak, siber çağ ve yeni teknolojiler Max Bense ve kimin öncülüğünde bilimin ve sanatın ortaya koyduğu ortak bilgi değişimi sürecinden yola çıkarak “Bildirişim Estetiği” de denilen yeni bir anlayış oluşturdular?",
         "A": "Roman Ingarden",
         "B": "Walter Benjamin",
         "C": "Herbert Marcuse",
@@ -137,11 +137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "letişimin etki alanını artırmak, siber çağ ve yeni<br/>teknolojiler Max Bense ve <strong>Roman Ingarden</strong> öncülüğünde bilimin ve sanatın ortaya koyduğu ortak<br/>bilgi değişimi sürecinden yola çıkarak “Bildirişim<br/>Estetiği” de denilen yeni bir anlayış oluşturdular."
+        "Aciklama": "Görsel Bildirişim Boyutunda Sanat ve<br/>Tasarım<br>letişimin etki alanını artırmak, siber çağ ve yeni<br/>teknolojiler Max Bense ve <strong>Roman Ingarden</strong> öncülüğünde bilimin ve sanatın ortaya koyduğu ortak<br/>bilgi değişimi sürecinden yola çıkarak “Bildirişim<br/>Estetiği” de denilen yeni bir anlayış oluşturdular."
     },
     {
         "SoruID": 3488785,
-        "SoruMetni": "Hangi bakış açısı, toplumsal açıdan sadece sanatçının, yazarın veya tasarımcının bir parçası değil aynı zamanda insanlık için bir kültürel mirastır?<br/><br/><br/>",
+        "SoruMetni": "Hangi bakış açısı, toplumsal açıdan sadece sanatçının, yazarın veya tasarımcının bir parçası değil aynı zamanda insanlık için bir kültürel mirastır?",
         "A": "Etkileyici",
         "B": "Çıkarımsal",
         "C": "Duyarlı",
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Simgeci bakış açısı</strong>, toplumsal açıdan sadece<br/>sanatçının, yazarın veya tasarımcının bir parçası değil aynı zamanda insanlık için bir kültürel<br/>mirastır."
+        "Aciklama": "Göstergeyi Oluşturan Nedenler<br><strong>Simgeci bakış açısı</strong>, toplumsal açıdan sadece<br/>sanatçının, yazarın veya tasarımcının bir parçası değil aynı zamanda insanlık için bir kültürel<br/>mirastır."
     },
     {
         "SoruID": 3488786,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dilbilimcilere<br/>göre sesler bütüncül bir yapıyı işaret eder ve gösterendir; kavramlar ise <strong>gösterilen</strong> olarak tanımlanır."
+        "Aciklama": "GÖSTERGE VE GÖRSEL<br/>GÖSTERGELER<br>Dilbilimcilere<br/>göre sesler bütüncül bir yapıyı işaret eder ve gösterendir; kavramlar ise <strong>gösterilen</strong> olarak tanımlanır."
     },
     {
         "SoruID": 3488787,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gösterge anlamsal olarak mesajını pozitif olarak temsil edebiliyor mu? sorusu semantik açıdan değerlendirme ölçütleri kapsamında yanıt aranması gereken sorulardan birisidir ve bu nedenle doğru cevap C seçeneğidir."
+        "Aciklama": "Gösterge anlamsal olarak mesajını pozitif olarak temsil edebiliyor mu? sorusu semantik açıdan değerlendirme ölçütleri kapsamında yanıt aranması gereken sorulardan birisidir ve bu nedenle doğru cevap C seçeneğidir."
     },
     {
         "SoruID": 3488974,
@@ -417,11 +417,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tablo 8.1 İletişimin sınıflandırılması'nda görüldüğü gibi.<br/> İletişimin sınıflandırılması<br/> Kullanılan Kodlara Göre: Sözlü iletişim - Yazılı iletişim - <strong>Sözsüz iletişim</strong>"
+        "Aciklama": "Tablo 8.1 İletişimin sınıflandırılması'nda görüldüğü gibi.<br/>İletişimin sınıflandırılması<br/>Kullanılan Kodlara Göre: Sözlü iletişim - Yazılı iletişim - <strong>Sözsüz iletişim</strong>"
     },
     {
         "SoruID": 3488997,
-        "SoruMetni": "\"Dilbilimcilere göre sesler bütüncül bir yapıyı işaret eder ve ................; kavramlar ise .................olarak tanımlanır.” <br/><br/>Yukarıda boşluk bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?",
+        "SoruMetni": "\"Dilbilimcilere göre sesler bütüncül bir yapıyı işaret eder ve ................; kavramlar ise .................olarak tanımlanır.” <br/>Yukarıda boşluk bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?",
         "A": "gösteren / gösterilen",
         "B": "gösterilen / gösteren",
         "C": "simgedir / gösterilen",
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Benzetge<br/>S. Pierce göstergeleri üç başlık altında ele alır: görüntüsel gösterge, belirti ve simge.<strong> Görüntüsel göstergeler, işaret ettiği anlamı doğrudan doğruya gösterir</strong>. Bu bir resim, bir desen bir fotoğraf olabileceği gibi<br/>onların doğrudan anlattığı bir şey de olabilir (Rıfat, 1996: 21). <strong>Görüntüsel göstergeler aslında saymaca</strong><br/><strong>özellik gösterirler</strong> ve belirttiği nesneleri doğrudan işaret ederler (Başkan, 1988: 78). <strong>Görüntüsel göstergeler işaret ettikleri anlamlar benzerlik göstermesinden dolayı BENZETGE</strong> olarak da adlandırılır. Örneğin<br/>Atatürk’ün fotoğrafı doğrudan onun kimliğinin ve görüntüsünün kendisine benzemesi güzel bir örnektir.<br/>Bu anlamda ait olduğu toplum tarafından saymaca bir gösterge niteliği taşır. Bir başka örnek verecek<br/>olursak Türkiye haritası veya<strong> bir bölgenin krokisi (Görsel 8.8) de benzetge için güzel göstergelerdir</strong> . Gerçekliği ortaya koyan bir sanat alanı olan fotoğraf, çok kullanılan benzetgelerden biridir<br/>ve saymaca niteliğinden ötürü ait olduğu şeyi doğrudan anlatır."
+        "Aciklama": "Benzetge<br/>S. Pierce göstergeleri üç başlık altında ele alır: görüntüsel gösterge, belirti ve simge.<strong> Görüntüsel göstergeler, işaret ettiği anlamı doğrudan doğruya gösterir</strong>. Bu bir resim, bir desen bir fotoğraf olabileceği gibi<br/>onların doğrudan anlattığı bir şey de olabilir (Rıfat, 1996: 21). <strong>Görüntüsel göstergeler aslında saymaca</strong><br/><strong>özellik gösterirler</strong> ve belirttiği nesneleri doğrudan işaret ederler (Başkan, 1988: 78). <strong>Görüntüsel göstergeler işaret ettikleri anlamlar benzerlik göstermesinden dolayı BENZETGE</strong> olarak da adlandırılır. Örneğin<br/>Atatürk’ün fotoğrafı doğrudan onun kimliğinin ve görüntüsünün kendisine benzemesi güzel bir örnektir.<br/>Bu anlamda ait olduğu toplum tarafından saymaca bir gösterge niteliği taşır. Bir başka örnek verecek<br/>olursak Türkiye haritası veya<strong> bir bölgenin krokisi (Görsel 8.8) de benzetge için güzel göstergelerdir</strong> . Gerçekliği ortaya koyan bir sanat alanı olan fotoğraf, çok kullanılan benzetgelerden biridir<br/>ve saymaca niteliğinden ötürü ait olduğu şeyi doğrudan anlatır."
     },
     {
         "SoruID": 3488999,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Tablo 8.3</strong> Semantik açıdan değerlendirme ölçütleri'nde görüldüğü gibi.<br/> Gösterge anlamsal olarak mesajını pozitif olarak temsil edebiliyor mu?<br/>Evrensel bir anlam iletisi oluşturabiliyor mu?<br/>Gösterge ilk kez mi? üretildi yoksa bilinen bir temsili söz konusu mu?<br/>Göstergenin anlam problematiği zor mu? kolay çözülüyor mu?<br/>Göstergede iletişim dışı bir elaman içeriyor mu?"
+        "Aciklama": "<strong>Tablo 8.3</strong> Semantik açıdan değerlendirme ölçütleri'nde görüldüğü gibi.<br/>Gösterge anlamsal olarak mesajını pozitif olarak temsil edebiliyor mu?<br/>Evrensel bir anlam iletisi oluşturabiliyor mu?<br/>Gösterge ilk kez mi? üretildi yoksa bilinen bir temsili söz konusu mu?<br/>Göstergenin anlam problematiği zor mu? kolay çözülüyor mu?<br/>Göstergede iletişim dışı bir elaman içeriyor mu?"
     },
     {
         "SoruID": 3489002,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Göstergelerin anlamlandırılmasında farklı anlamlandırma katmanları yananlam olarak karşımıza<br/>çıkabilir. Bu anlam katmanları daha çok öznenin zaman, mekan ve kültürel yapısı kadar içinde bulunduğu psikolojiyle ilişkilidir. Bu anlamlar şunlardır:<br/><strong>Çağrışımsal anlamlar</strong>; öznenin yer aldığı kültürel katmanlar ve zaman algısına göre çeşitlenir.<br/> <strong>Sosyal anlamlar</strong>; göstergelerin yer aldığı dil yapısına göre sosyal durumun nakli ile ilgilidir. Dil içi<br/>göstergeler buna iyi birer örnektir.<br/><strong>Psikolojik anlam</strong>; öznenin duygulanım ve psikolojik durumuna göre gösterge anlam sızmalarına<br/>uğrayabilir.<br/><strong>Yansıtılan anlam</strong>: gösterge olarak işaret edilen sözcük bir başka sözcük üzerinde etki yaratıp anlamı dolaylılaştırıyor ve kışkırtıyorsa yansıtılan bir anlam söz konusu olur."
+        "Aciklama": "Göstergelerin anlamlandırılmasında farklı anlamlandırma katmanları yananlam olarak karşımıza<br/>çıkabilir. Bu anlam katmanları daha çok öznenin zaman, mekan ve kültürel yapısı kadar içinde bulunduğu psikolojiyle ilişkilidir. Bu anlamlar şunlardır:<br/><strong>Çağrışımsal anlamlar</strong>; öznenin yer aldığı kültürel katmanlar ve zaman algısına göre çeşitlenir.<br/><strong>Sosyal anlamlar</strong>; göstergelerin yer aldığı dil yapısına göre sosyal durumun nakli ile ilgilidir. Dil içi<br/>göstergeler buna iyi birer örnektir.<br/><strong>Psikolojik anlam</strong>; öznenin duygulanım ve psikolojik durumuna göre gösterge anlam sızmalarına<br/>uğrayabilir.<br/><strong>Yansıtılan anlam</strong>: gösterge olarak işaret edilen sözcük bir başka sözcük üzerinde etki yaratıp anlamı dolaylılaştırıyor ve kışkırtıyorsa yansıtılan bir anlam söz konusu olur."
     },
     {
         "SoruID": 3489003,
@@ -566,7 +566,7 @@
         "B": "Nuh tufanı",
         "C": "Polis arabası",
         "D": "Araba görseli",
-        "E": "Guernica tablosu",
+        "E": "Guernica tablosu",
         "DogruCevap": "D",
         "DersAd": "Dijital Görüntüleme İşleme Yöntemleri",
         "Unite": 8,

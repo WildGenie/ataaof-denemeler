@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı A seçeneğinde verilmiştir."
+        "Aciklama": "Tek yönlü iletişim sağlayan geleneksel medyada (gazete radyo televizyon) hedef kitle pasif durumdayken dijital olarak üretilen ve tüketilen yeni medyada hedef kitle aktif duruma geçmiştir.<br>Sorunun doğru cevabı A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488763,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı B seçeneğinde verilmiştir."
+        "Aciklama": "Temel anlamda sıfırdan bir oyun karakterinin nasıl tasarlandığını anlamak için şu basamakları bilmek gerekir: 1. Karakteri ve model türünü tasarlama, 2. Modelleme için hazırlık aşamasında eskiz oluşturma, 3. 3 boyutlu programda karakteri modelleme, 4. Karakterin dokularını hazırlama ve UV doku koordinatlarını haritalama, 5. Dokular ve kabartma haritaları oluşturma, 6. Animasyon öncesi karakter ağına (mesh) iki ayaklı bir iskelet uygulama, 7. Oyun sırasında bir oyun motoru tarafından çağrılacak animasyon dizileri oluşturma. 163<br>Sorunun doğru cevabı B seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488764,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı C seçeneğinde verilmiştir."
+        "Aciklama": "NPC (Non Player Character): bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isim.<br>Sorunun doğru cevabı C seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488765,
@@ -77,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı D seçeneğinde verilmiştir."
+        "Aciklama": "Filmlerde ve oyunlarda kullanılan nesneler, poligon geometri sistemi ile oluşturulmaktadır.<br>Sorunun doğru cevabı D seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488766,
-        "SoruMetni": "Filmlerde ve oyunlarda kullanılan nesneler ne kadar fazla poligondan oluşursa nesne o kadar detaylı ve ________  gözükmektedir.<br/> Yukarıdaki boşluğa aşağıdaki ifadelerden hangisi gelmelidir?",
+        "SoruMetni": "Filmlerde ve oyunlarda kullanılan nesneler ne kadar fazla poligondan oluşursa nesne o kadar detaylı ve ________ gözükmektedir.<br/>Yukarıdaki boşluğa aşağıdaki ifadelerden hangisi gelmelidir?",
         "A": "Sade",
         "B": "Yapay",
         "C": "Uzamsal",
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı E seçeneğinde verilmiştir"
+        "Aciklama": "Nesne ne kadar fazla poligondan oluşursa o kadar detaylı ve gerçekçi gözükmektedir.<br>Sorunun doğru cevabı E seçeneğinde verilmiştir"
     },
     {
         "SoruID": 3488767,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı E seçeneğinde verilmiştir."
+        "Aciklama": "3 boyutlu olarak modellenen nesnelerin, bitkilerin, dokuların bulunduğu bu kütüphanedeki görseller fotoğraf kalitesindedir. Mega scans adında bir ekip dünyanın her yerini dolaşarak gerçek nesneleri 3 boyutlu tarayıcılar ile taramakta ve bu fotografik modellemeleri bu kütüphane üzerinden kullanıma sunmaktadırlar.<br>Sorunun doğru cevabı E seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488768,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı D seçeneğinde verilmiştir."
+        "Aciklama": "1895’te Alfred Clark, ilk sinema filmi özel efektini kullanmıştır. 36 saniye süren bu film, İskoçya Kraliçesi Mary’nin infazının yeniden canlandırılmasıdır.<br>Sorunun doğru yanıtı D seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488769,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabı C seçeneğinde verilmiştir."
+        "Aciklama": "İlk sinema filmlerinin öncülerinden Georges Méliès, aynı dönemlerde “durdurma hilesi” denen bu etkiyi tesadüf eseri keşfetmiştir. Bir film çektiği sırada kameranın bir süreliğine durması ve çalışmaması sonucunda görüntüde atlamalar olduğunu ve bazı insanlarla araçların şaşırtıcı bir biçimde aniden yer değiştirdiğini fark etmiştir. Sinema büyücüsü lakaplı yönetmenin ayın yüzünün olduğu ve gözüne bir mekiğin çarptığı görselden hatırlanan, Jules Verne’ün Romanından esinlenerek oluşturduğu, 15 dakika süren, 1902 yapımı Le Voyage dans la Lune filmi görsel efektlerin yoğun bir şekilde kullanıldığı ilk örneklerdendir.<br>Sorunun doğru cevabı C seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488770,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı B seçeneğinde verilmiştir."
+        "Aciklama": "1918’de Frank Williams “Traveling Matte” tekniğini buldu. Bu teknik kameranın sabit kalma zorunluluğunu ortadan kaldırıyordu. Teknik F.W. Murnau’nun Sunrise (1927) filminde kullanıldı.<br>Sorunun doğru yanıtı B seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488771,
@@ -197,11 +197,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru yanıtı A seçeneğinde verilmiştir."
+        "Aciklama": "Teknolojinin gelişmesi ve sinemanın da dijital teknikler ile üretilmeye başlanması ile, sinemada dijital görüntü işleme yöntemleri gelişmeye başlamıştır. Zaman geçtikçe ve dijital kamera teknolojisi ilerledikçe, film yapımcıları yeşil rengin arka plan ekranı rengi olarak daha uygun olduğunu fark etmeye başlamışlardır.<br>Sorunun doğru yanıtı A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488835,
-        "SoruMetni": "Yeni iletişim teknolojileri bireye istediği zamanda mesaj gönderme veya alma imkânını sağlamaktadır.  Bu medya teknolojilerinin hangi temel özelliğidir?",
+        "SoruMetni": "Yeni iletişim teknolojileri bireye istediği zamanda mesaj gönderme veya alma imkânını sağlamaktadır. Bu medya teknolojilerinin hangi temel özelliğidir?",
         "A": "Etkileşim",
         "B": "Kitlesizleştirme",
         "C": "Eşzamansızlık",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eşzamansızlık"
+        "Aciklama": "YENİ MEDYA TEKNOLOJİLERİ<br>Eşzamansızlık"
     },
     {
         "SoruID": 3488840,
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isimdir"
+        "Aciklama": "OYUNLARDA DİJİTAL GÖRÜNTÜ<br>Bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isimdir"
     },
     {
         "SoruID": 3488843,
-        "SoruMetni": "<ol> <li>Programlama dilleri ile oluşturulur</li> <li>İçerisinde çeşitli fonksiyonları, görsel kütüphaneleri barındırır</li> <li>Oyun geliştirmek için kullanılan programlardır. </li> <li>Ücretli veya ücretsiz çok sayıda versiyonu mevcuttur. </li> </ol> Yukarıdaki özellikler hangisine aittir?",
+        "SoruMetni": "<ol> <li>Programlama dilleri ile oluşturulur</li> <li>İçerisinde çeşitli fonksiyonları, görsel kütüphaneleri barındırır</li> <li>Oyun geliştirmek için kullanılan programlardır. </li> <li>Ücretli veya ücretsiz çok sayıda versiyonu mevcuttur. </li> </ol> Yukarıdaki özellikler hangisine aittir?",
         "A": "NPC",
         "B": "Oyun motoru",
         "C": "Oyun karakteri",
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyun motoru"
+        "Aciklama": "OYUNLARDA DİJİTAL GÖRÜNTÜ<br>Oyun motoru"
     },
     {
         "SoruID": 3488847,
@@ -277,11 +277,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanallaştırılmış geometri sistemi"
+        "Aciklama": "Unreal Engine 5<br>Sanallaştırılmış geometri sistemi"
     },
     {
         "SoruID": 3488849,
-        "SoruMetni": "<ol> <li>Unreal Engine 5 ile geliştirilen bir  özelliktir</li> <li>Aydınlatma ile ilgili olan sorunları büyük ölçüde ortadan kaldırır</li> <li>Oyunlarda kullanılan modeller ve ortamlar aydınlatılır</li> <li>Işık haritası adı verilen bir doku seti oluşturularak oyundaki mekanların üzerine yerleştirilir Yukarıda verilen özellikler hangisine aittir?</li> </ol>",
+        "SoruMetni": "<ol> <li>Unreal Engine 5 ile geliştirilen bir özelliktir</li> <li>Aydınlatma ile ilgili olan sorunları büyük ölçüde ortadan kaldırır</li> <li>Oyunlarda kullanılan modeller ve ortamlar aydınlatılır</li> <li>Işık haritası adı verilen bir doku seti oluşturularak oyundaki mekanların üzerine yerleştirilir Yukarıda verilen özellikler hangisine aittir?</li> </ol>",
         "A": "Sanallaştırılmış geometri",
         "B": "Lumen teknolojisi",
         "C": "Nesne kütüphanesi",
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lumen teknolojisi"
+        "Aciklama": "Unreal Engine 5<br>Lumen teknolojisi"
     },
     {
         "SoruID": 3489016,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Stop motion"
+        "Aciklama": "SİNEMADA DİJİTAL GÖRÜNTÜ<br>Stop motion"
     },
     {
         "SoruID": 3489017,
@@ -337,16 +337,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Büyük LED ekran"
+        "Aciklama": "Yeşil Ekran (Greenscreen)<br>Büyük LED ekran"
     },
     {
         "SoruID": 3489018,
         "SoruMetni": "Sinema filmlerinde saniye başına kaç kare izlenir?",
-        "A": "8 fps",
+        "A": "8 fps",
         "B": "24 fps",
         "C": "48 fps",
         "D": "60 fps",
-        "E": "120 fps",
+        "E": "120 fps",
         "DogruCevap": "B",
         "DersAd": "Dijital Görüntüleme İşleme Yöntemleri",
         "Unite": 6,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "24 fps"
+        "Aciklama": "Yeşil Ekran (Greenscreen)<br>24 fps"
     },
     {
         "SoruID": 3489019,
@@ -377,11 +377,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bayer filtresi"
+        "Aciklama": "SİNEMADA DİJİTAL GÖRÜNTÜ<br>Bayer filtresi"
     },
     {
         "SoruID": 3489020,
-        "SoruMetni": "Aşağıdakilerden hangisi kameramanı sabit kalmaktan kurtaran, ışığa duyarlı negatif filmlerin kullanıldığı, siyah renk ışık almadığı için arka planda siyah rengin kullanıldığı ve boşluklara görüntü ekleme kolaylığı sağlayan tekniktir?",
+        "SoruMetni": "Aşağıdakilerden hangisi kameramanı sabit kalmaktan kurtaran, ışığa duyarlı negatif filmlerin kullanıldığı, siyah renk ışık almadığı için arka planda siyah rengin kullanıldığı ve boşluklara görüntü ekleme kolaylığı sağlayan tekniktir?",
         "A": "Bayer filtresi",
         "B": "Sodium vapor process",
         "C": "Mavi ekran",
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Traveling Matte"
+        "Aciklama": "SİNEMADA DİJİTAL GÖRÜNTÜ<br>Traveling Matte"
     },
     {
         "SoruID": 3489145,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üç"
+        "Aciklama": "Yeni medya, dijital dünyada bilgisayarlar ile<br/>üretilen, tüketilen, sınırsız, etkileşimli ve merkezsiz<br/>bir mecradır. Üç temel özelliği vardır"
     },
     {
         "SoruID": 3489152,
@@ -437,11 +437,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web 0.1"
+        "Aciklama": "Web 1.0 (1990 – 2000), kullanıcıların tek yönlü<br/>olarak karşıdaki içerikle iletişime geçtiği, statik sitelerden<br/>oluşan, geleneksel medyadan farkı olmayan,<br/>insanların sadece izleyip dinledikleri, içerik sunan<br/>sitelerden oluşmaktaydı. Kullanıcılar başka kullanıcılar<br/>ile iletişim kuramaz, web üzerinden alışveriş<br/>yapamazlardı. Bu dönem uzmanlar tarafından salt<br/>okunur web olarak tanımlanmaktadır.<br>Web 0.1"
     },
     {
         "SoruID": 3489162,
-        "SoruMetni": "Uzmanlar tarafından sosyal web olarak da tanımlanan insanların sadece izleyip dinleyen olmaktan çıkıp aynı zamanda yazabiliyor, içeriğe katkı sağlayabiliyor, bilgiyi birbirleriyle paylaşarak ortaklaşa kullanabiliyor hâle gelmeleri hangi web sürecidir?",
+        "SoruMetni": "Uzmanlar tarafından sosyal web olarak da tanımlanan insanların sadece izleyip dinleyen olmaktan çıkıp aynı zamanda yazabiliyor, içeriğe katkı sağlayabiliyor, bilgiyi birbirleriyle paylaşarak ortaklaşa kullanabiliyor hâle gelmeleri hangi web sürecidir?",
         "A": "Web 0",
         "B": "Web 0.1",
         "C": "Web 0.2",
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web 0.2"
+        "Aciklama": "Web 2.0 (2000 – 2010) ile sosyal medyanın<br/>ön plana çıktığı, insanların da katılabildiği, içerik<br/>sunabildiği, yönetebildiği etkileşimli, dinamik ve<br/>çift yönlü siteler ortaya çıkmaya başladı. Artık insanlar<br/>sadece izleyip dinleyen olmaktan çıkıp aynı<br/>zamanda yazabiliyor, içeriğe katkı sağlayabiliyor,<br/>bilgiyi birbirleriyle paylaşarak ortaklaşa kullanabiliyor<br/>hâle geldiler. Paylaşım siteleri, blog sayfaları,<br/>e-posta gibi uygulamalar buna örnek gösterilebilir.<br/>Bu dönem uzmanlar tarafından sosyal web olarak<br/>tanımlanmaktadır.<br>Web 0.2"
     },
     {
         "SoruID": 3489168,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web 0.3"
+        "Aciklama": "Görüntü işleme teknolojilerinin yoğun kullanılmaya<br/>başlandığı fotoğraflardaki yüz tanıma özelliği, etiketleme,<br/>asistan uygulamaları gibi gelişmeler bu<br/>dönemle birlikte hayatımıza dâhil olmuştur. Bu<br/>dönem uzmanlar tarafından semantik (anlamsal)<br/>web olarak tanımlanmaktadır.<br>Web 0.3"
     },
     {
         "SoruID": 3489170,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web 0.4"
+        "Aciklama": "Yakın gelecekte hayatımızda çok daha fazla<br/>hissedeceğimiz web 4.0 (2020 – 2030) ise sabit<br/>disklerin kullanılmadığı tamamen web üzerinden<br/>ve sanallaştırma üzerinden bulut sistemler ile karşımıza<br/>çıkacaktır. İ nsanların cihazlarına herhangi bir<br/>program kurma ihtiyacı olmadan, cihazlarında herhangi<br/>bir veri depolamak zorunda kalmadan tüm<br/>işlemlerin bulut sistemler üzerinden gerçekleştiği<br/>bir altyapı kullanacaktır.<br>Web 0.4"
     },
     {
         "SoruID": 3489173,
@@ -506,7 +506,7 @@
         "B": "RPC (Real Player Character)",
         "C": "VPC (Visual Player Character)",
         "D": "APC (Active Player Character)",
-        "E": "VPC (V<span>irtual </span>Player Character)",
+        "E": "VPC (V<span>irtual </span>Player Character)",
         "DogruCevap": "A",
         "DersAd": "Dijital Görüntüleme İşleme Yöntemleri",
         "Unite": 6,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "NPC (Non Player Character)"
+        "Aciklama": "NPC (Non Player Character): bilgisayar<br/>oyunlarında oyuncu tarafından kontrol<br/>edilmeyen, oyun motoru tarafından kontrol<br/>edilen karakterlere verilen isim."
     },
     {
         "SoruID": 3489174,
@@ -557,11 +557,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyun Motoru"
+        "Aciklama": "Oyun Motoru: Oyun motoru, programlama dilleri ile oluşturulan, içerisinde çeşitli fonksiyonları, görsel<br/>kütüphaneleri barındıran, oyun geliştirmek için kullanılan programlardır. Oyun motoru ile geliştirilen<br/>oyunlar, önceden tanımlanmış veriler kullanılarak oluşturulur. Ücretli veya ücretsiz çok sayıda oyun motoru<br/>mevcuttur. Yaygın kullanılan motorlardan bir tanesi unreal engine oyun motorudur."
     },
     {
         "SoruID": 3489176,
-        "SoruMetni": "……., programlama dilleri ile oluşturulan, içerisinde çeşitli fonksiyonları, görsel kütüphaneleri barındıran, oyun geliştirmek için kullanılan programlardır.<br/> Yukarıda boş bırakılan kısma aşağıdakilerden hangi ifade gelmelidir?",
+        "SoruMetni": "……., programlama dilleri ile oluşturulan, içerisinde çeşitli fonksiyonları, görsel kütüphaneleri barındıran, oyun geliştirmek için kullanılan programlardır.<br/>Yukarıda boş bırakılan kısma aşağıdakilerden hangi ifade gelmelidir?",
         "A": "Non Player Character",
         "B": "Web 3.0",
         "C": "Etkileşim (Interaction )",
@@ -617,11 +617,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Unreal Engine"
+        "Aciklama": "Unreal Engine 5<br/>Unreal Engine, Epic Games şirketinin 1998 yılında C++ kullanarak geliştirdiği oyun motorudur. 13<br/>Mayıs 2020 tarihinde son sürüm olan unreal engine 5’i duyuran şirket getirdiği yenilikler ile oyunlardaki<br/>görüntü işleme teknolojisini çok ilerilere götürecek gibi gözükmektedir."
     },
     {
         "SoruID": 3489179,
-        "SoruMetni": "\"İlk olarak ........... yılında piyasaya sürülen GTA, tüm zamanların en çok satan video oyunlarından biridir.\"<br/><br/>Yukarıdaki cümlede boşluk bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "\"İlk olarak ........... yılında piyasaya sürülen GTA, tüm zamanların en çok satan video oyunlarından biridir.\"<br/>Yukarıdaki cümlede boşluk bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "2011",
         "B": "2012",
         "C": "2013",
@@ -681,7 +681,7 @@
     },
     {
         "SoruID": 3489182,
-        "SoruMetni": "Dijital kameralarda, analog görüntü dijital olarak kodlanıp kaydedilirken kullanılan tekniklerden biri olan …… görüntüyü kaydederken renkleri sıraya koymak için bir dizilim takip eder.<br/> Yukarıdaki cümlede bırakılan boşluğa hangi ifade gelmelidir?",
+        "SoruMetni": "Dijital kameralarda, analog görüntü dijital olarak kodlanıp kaydedilirken kullanılan tekniklerden biri olan …… görüntüyü kaydederken renkleri sıraya koymak için bir dizilim takip eder.<br/>Yukarıdaki cümlede bırakılan boşluğa hangi ifade gelmelidir?",
         "A": "Bayer filtresi",
         "B": "Green Screen",
         "C": "Mavi ekran",
@@ -721,7 +721,7 @@
     },
     {
         "SoruID": 3489184,
-        "SoruMetni": "<ol> <li>Dijital kameralar yeşil ışığa karşı daha duyarlıdır.</li> <li>Bayer, yeşil fotosensörleri parlaklığa duyarlı, kırmızı ve mavi olanları ise krominansa duyarlı olarak adlandırmıştır.</li> </ol> III. Oyuncuların yeşil perdeden en fazla bir metre uzakta olması gerekir.<br/> Yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+        "SoruMetni": "<ol> <li>Dijital kameralar yeşil ışığa karşı daha duyarlıdır.</li> <li>Bayer, yeşil fotosensörleri parlaklığa duyarlı, kırmızı ve mavi olanları ise krominansa duyarlı olarak adlandırmıştır.</li> </ol> III. Oyuncuların yeşil perdeden en fazla bir metre uzakta olması gerekir.<br/>Yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
         "A": "Yalnız III",
         "B": "I-III",
         "C": "II-III",
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Alfred Clark"
+        "Aciklama": "1895’te Alfred Clark, ilk sinema filmi özel efektini kullanmıştır. 36 saniye süren bu film, İ skoçya<br/>Kraliçesi Mary’nin infazının yeniden canlandırılmasıdır."
     },
     {
         "SoruID": 3489187,
@@ -797,6 +797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Albert II Smith"
+        "Aciklama": "1897 yılında Albert II Smith, durdurma hilesini kullanarak çektiği Humpty<br/>Dumpty Circus filmi ile stop motion tekniğini bulmuştur."
     }
 ]

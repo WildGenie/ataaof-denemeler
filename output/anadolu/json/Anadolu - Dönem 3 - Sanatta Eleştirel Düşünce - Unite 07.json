@@ -40,9 +40,29 @@
         "Aciklama": "Melies’nin en ünlü filmi, Jules Verne’nin romanından esinlenerek çektiği “Aya Yolculuk” (1902) adlı filmdir. 14 dakikalık bir film olan “Aya Yolculuk”, özel efektlerin kullanıldığı ilk film olmasının yanı sıra, sinema tarihinin bilinen ilk bilim kurgu filmidir."
     },
     {
+        "SoruID": 3354140,
+        "SoruMetni": "Aşağıdaki ifadelerden hangisi geleneksel anlatının özelliklerinden biri <u>değildir</u>?",
+        "A": "Olaylar arasında neden-sonuç ilişkileri belirgindir",
+        "B": "Olaylar genellikle bir karakterin etrafında döner",
+        "C": "Olay örgüsü doğrusal değildir",
+        "D": "Çatışmalar sergilenir ve çözülür",
+        "E": "Olay örgüsü serim, düğüm, çatışma, doruk noktası ve çözüm aşamalarından oluşur",
+        "DogruCevap": "C",
+        "DersAd": "Sanatta Eleştirel Düşünce",
+        "Unite": 7,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:20.559112",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Geleneksel anlatının nedenselliğe dayalı olay örgüsü doğrusaldır."
+    },
+    {
         "SoruID": 3354141,
-        "SoruMetni": "İzleyicinin karakterle özdeşleşmesinden çok,  filme düşünsel olarak katılmasını isteyen anlatı biçimi  aşağıdaki ifadelerden hangisidir?",
-        "A": "Klasik<br/><br/>",
+        "SoruMetni": "İzleyicinin karakterle özdeşleşmesinden çok, filme düşünsel olarak katılmasını isteyen anlatı biçimi aşağıdaki ifadelerden hangisidir?",
+        "A": "Klasik",
         "B": "Postmodern",
         "C": "Öyküleme",
         "D": "Yeni anlatım",
@@ -180,8 +200,28 @@
         "Aciklama": "Sinemaya felsefe ile bakışta, bu bakışın film eleştirisine taşınmasında da ölçüt “insan”dır; insan ve insana bağlı değerlerdir."
     },
     {
+        "SoruID": 3354193,
+        "SoruMetni": "\"Film dediğin, ayakkabının içine kaçan taş gibi olmalıdır.\"<br/>Yukarıdaki ifade hangi yönetmene aittir?",
+        "A": "Lars von Trier",
+        "B": "Michael Haneke",
+        "C": "Andrey Tarkovski",
+        "D": "Federico Fellini",
+        "E": "Akira Kurosawa",
+        "DogruCevap": "A",
+        "DersAd": "Sanatta Eleştirel Düşünce",
+        "Unite": 7,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:20.565525",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "GİRİŞ<br>Sinema sanatı söz konusu olduğunda, belki de en büyük yanılgımız, sinemayı sadece bir eğlence aracı olarak görmektir. Film izlememizin nedenlerinden biri elbette eğlenmektir. Ancak sinema eğlenceden başka amaçlar içinde izlenir. Bunu, \"Karanlıkta Dans\", \"Dogwille\",\"Dalgaları Aşmak\" gibi filmlerin yönetmeni Lars von Trier, film dediğin ayakkabının içine kaçmış taş gibi olmalıdır, diyerek belirtir. Onun filmleri eğlendirmek bir yana rahatsız eden filmlerdir."
+    },
+    {
         "SoruID": 3354195,
-        "SoruMetni": "\"Beyazperdede kıpırdayan her şey sinemadır.\" <br/> Yukarıdaki tanım kime aittir?",
+        "SoruMetni": "\"Beyazperdede kıpırdayan her şey sinemadır.\" <br/>Yukarıdaki tanım kime aittir?",
         "A": "Jean Renoir",
         "B": "Segei Eisentein",
         "C": "Akira Kurosawa",
@@ -197,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fransız yönetmen Jean Renoir'a ait olan bu kısa cümle, sinemanın özünü belki de en yalın haliyle ifade eder. Hareket. Kıpırdayan yani hareket eden görüntülerdir sinema..."
+        "Aciklama": "Sinema Nedir<br>Fransız yönetmen Jean Renoir'a ait olan bu kısa cümle, sinemanın özünü belki de en yalın haliyle ifade eder. Hareket. Kıpırdayan yani hareket eden görüntülerdir sinema..."
     },
     {
         "SoruID": 3354197,
@@ -217,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sinemanın yüzyılını henüz tamamlamış olan ve öbür sanat dallarıyla kıyaslandığında kısacık diyebileceğimiz tarihi, daha doğrusu, resmî doğum tarihi, <strong>28 Aralık 1895’te,</strong> Paris’te, Capucines Bulvarı üzerindeki Grand Cafe’nin zemin katında, halka açık ilk film gösterimi ile başlar. Bilet alarak film izlemeye gelen seyirciler Lumiere Kardeşler’in (Auguste Lumiere ve Louis Jean Lumiere) çektiği ve en uzunu 49 saniye olan on filmi izlemek için heyecanla beklerler."
+        "Aciklama": "Sinema Nedir<br>Sinemanın yüzyılını henüz tamamlamış olan ve öbür sanat dallarıyla kıyaslandığında kısacık diyebileceğimiz tarihi, daha doğrusu, resmî doğum tarihi, <strong>28 Aralık 1895’te,</strong> Paris’te, Capucines Bulvarı üzerindeki Grand Cafe’nin zemin katında, halka açık ilk film gösterimi ile başlar. Bilet alarak film izlemeye gelen seyirciler Lumiere Kardeşler’in (Auguste Lumiere ve Louis Jean Lumiere) çektiği ve en uzunu 49 saniye olan on filmi izlemek için heyecanla beklerler."
     },
     {
         "SoruID": 3354199,
@@ -237,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanatta modernizmin ya da modern sanatın ilk güçlü akımı romantizmdir. Modernizm 19. yüzyılda, özellikle de bu yüzyılın ikinci yarısında farklı adlarla, farklı çehrelerle belirginlik kazanarak karşımıza çıkar ki, bunların içerisinde en önemli olanları önce romantizm, romantizmden sonra da gerçekçilik (realizm), doğalcılık (natüralizm) ve sembolizmdir."
+        "Aciklama": "Modern Mitoloji: Sinema Modernizm ve Eleştiri<br>Sanatta modernizmin ya da modern sanatın ilk güçlü akımı romantizmdir. Modernizm 19. yüzyılda, özellikle de bu yüzyılın ikinci yarısında farklı adlarla, farklı çehrelerle belirginlik kazanarak karşımıza çıkar ki, bunların içerisinde en önemli olanları önce romantizm, romantizmden sonra da gerçekçilik (realizm), doğalcılık (natüralizm) ve sembolizmdir."
     },
     {
         "SoruID": 3354201,
@@ -257,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Her öykü bir anlatıdır fakat her anlatı bir öykü değildir. Bir anlatının öykü olabilmesi için, olay örgüsünün olması gerekir. . Hakikati bir kurmaca (fiction-yapıntı) evren içinde söyleyen anlatılar öykü olarak adlandırılır. Daha iyi bir tanım vermek istersek şöyle diyebiliriz öykü için: Bir başlangıcı ve sonu olan, biri tarafından anlatılan, belirli bir süreyi kapsayan ve düzenlenmiş bir olay örgüsüne sahip olan kurmaca anlatılardır öyküler. Bir başlangıcı ve sonu olmayan (varsa da bilemediğimiz) şey yaşamdır, gerçek dünyadır. Bu nedenle, gerçek hiçbir zaman öykü anlatmaz. Oysa her öykünün bir başlangıcı ve sonu vardır."
+        "Aciklama": "Sinemada Anlatı Türleri ve Eleştirel Düşünce<br>Her öykü bir anlatıdır fakat her anlatı bir öykü değildir. Bir anlatının öykü olabilmesi için, olay örgüsünün olması gerekir. . Hakikati bir kurmaca (fiction-yapıntı) evren içinde söyleyen anlatılar öykü olarak adlandırılır. Daha iyi bir tanım vermek istersek şöyle diyebiliriz öykü için: Bir başlangıcı ve sonu olan, biri tarafından anlatılan, belirli bir süreyi kapsayan ve düzenlenmiş bir olay örgüsüne sahip olan kurmaca anlatılardır öyküler. Bir başlangıcı ve sonu olmayan (varsa da bilemediğimiz) şey yaşamdır, gerçek dünyadır. Bu nedenle, gerçek hiçbir zaman öykü anlatmaz. Oysa her öykünün bir başlangıcı ve sonu vardır."
     },
     {
         "SoruID": 3354203,
@@ -277,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Geleneksel anlatıda dramatik yapının olay örgüsü serim, düğüm, çatışma, doruk noktası ve çözüm aşamalarından oluşur.<br/> Başlangıçta taşlar yerli yerindedir ve bir denge durumu söz konusudur. Serim<br/>bölümü çoğu zaman oyunun başlangıç noktası olarak algılansa da aslında oyunun başından sonuna kadar süren bilgi verme sürecini içerir. İzleyici serim aşamasında karakterleri tanır, karakterler arasında çatışma/mücadele öncesinde<br/>ve sırasında, çeşitli durumların neden, ne zaman ve nasıl olup da bu hâle geldiğini anlar. Kimi zaman da serim ile izleyiciye, oyunda yer almayan olaylar, durumlar, kişilere dair bilgiler verilir."
+        "Aciklama": "Geleneksel Anlatı Sineması<br>Geleneksel anlatıda dramatik yapının olay örgüsü serim, düğüm, çatışma, doruk noktası ve çözüm aşamalarından oluşur.<br/>Başlangıçta taşlar yerli yerindedir ve bir denge durumu söz konusudur. Serim<br/>bölümü çoğu zaman oyunun başlangıç noktası olarak algılansa da aslında oyunun başından sonuna kadar süren bilgi verme sürecini içerir. İzleyici serim aşamasında karakterleri tanır, karakterler arasında çatışma/mücadele öncesinde<br/>ve sırasında, çeşitli durumların neden, ne zaman ve nasıl olup da bu hâle geldiğini anlar. Kimi zaman da serim ile izleyiciye, oyunda yer almayan olaylar, durumlar, kişilere dair bilgiler verilir."
     },
     {
         "SoruID": 3354204,
@@ -297,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Geleneksel dramatik sanatta haz, özdeşleşmeye dayalı bir estetik uygulamanın egemenliği altında, seyircinin katharsise (arınma) ulaşmasından doğmaktadır. Seyirci olayların akışına kendini kaptırarak, olay ve karakterle kendini özdeşleştirir. Düşünsel faaliyeti bir kenara bırakarak, duygusal temel üzerinde kurulan bir yaşantı birliğine girer. Doruğa doğru yükselen bir gerilimle başka bir hayatın (kurmacanın)  içinde yer alan seyirci, doruk noktası ile başlayan son bölümde olayların çözülmesiyle, yapay olarak içine sokulduğu gerilimden kurtarılır ve rahatlatılır. İşte haz buradan doğmaktadır.<br/><br/>Kısaca, doruk noktasının ardından izleyicide arınmayı sağlayacak olan çözüm aşamasına geçilir. Bu aşamada tüm çatışmalar biter, düğümler çözülür,<br>izleyicinin kafasında soru işareti kalmaz ve tüm şüpheler giderilir</br>"
+        "Aciklama": "Geleneksel Anlatı Sineması<br>Geleneksel dramatik sanatta haz, özdeşleşmeye dayalı bir estetik uygulamanın egemenliği altında, seyircinin katharsise (arınma) ulaşmasından doğmaktadır. Seyirci olayların akışına kendini kaptırarak, olay ve karakterle kendini özdeşleştirir. Düşünsel faaliyeti bir kenara bırakarak, duygusal temel üzerinde kurulan bir yaşantı birliğine girer. Doruğa doğru yükselen bir gerilimle başka bir hayatın (kurmacanın) içinde yer alan seyirci, doruk noktası ile başlayan son bölümde olayların çözülmesiyle, yapay olarak içine sokulduğu gerilimden kurtarılır ve rahatlatılır. İşte haz buradan doğmaktadır.<br/>Kısaca, doruk noktasının ardından izleyicide arınmayı sağlayacak olan çözüm aşamasına geçilir. Bu aşamada tüm çatışmalar biter, düğümler çözülür,<br/>izleyicinin kafasında soru işareti kalmaz ve tüm şüpheler giderilir</br>"
     },
     {
         "SoruID": 3354205,
@@ -317,11 +357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çağdaş anlatının geleneksel anlatıdan ayrılan en önemli özelliği, izleyiciyi bir gerçeklik yanılsaması içine sokmaktan özenle kaçınması, uzak durmasıdır. Geleneksel anlatıda izleyici kurmaca evrenin içine çekilir, çağdaş anlatıda ise gözlemci olarak dışarıda tutulur, olayla-karakterlerle özdeşleşmek yerine inceler durumdadır. Çağdaş anlatı bilinçli olarak izleyicisi ile arasına mesafe koyan anlatıdır çünkü bu anlatıda önemli olan gerçeğe benzerlik yanılsaması yaratmak değil, gerçeği-gerçekliği sorgulamaktır. Bu nedenledir ki, izleyicide özdeşleşmeye (filmdeki karakterlerle ya da olaylarla) dayalı duygusal bir haz yaratmayı değil, izleyicinin aklını, düşüncesini devreye sokmaya çalışır. İstenen şey, izleyicinin perdede izlediği filme duygusal katılımının yanı sıra soru sorması, sorgulaması ve<br/>düşünmesidir."
+        "Aciklama": "Çağdaş (Modern) Anlatı Sineması<br>Çağdaş anlatının geleneksel anlatıdan ayrılan en önemli özelliği, izleyiciyi bir gerçeklik yanılsaması içine sokmaktan özenle kaçınması, uzak durmasıdır. Geleneksel anlatıda izleyici kurmaca evrenin içine çekilir, çağdaş anlatıda ise gözlemci olarak dışarıda tutulur, olayla-karakterlerle özdeşleşmek yerine inceler durumdadır. Çağdaş anlatı bilinçli olarak izleyicisi ile arasına mesafe koyan anlatıdır çünkü bu anlatıda önemli olan gerçeğe benzerlik yanılsaması yaratmak değil, gerçeği-gerçekliği sorgulamaktır. Bu nedenledir ki, izleyicide özdeşleşmeye (filmdeki karakterlerle ya da olaylarla) dayalı duygusal bir haz yaratmayı değil, izleyicinin aklını, düşüncesini devreye sokmaya çalışır. İstenen şey, izleyicinin perdede izlediği filme duygusal katılımının yanı sıra soru sorması, sorgulaması ve<br/>düşünmesidir."
     },
     {
         "SoruID": 3354206,
-        "SoruMetni": "I-Luchino Visconti<br/> II-Vittorio de Sica<br/> III_Jean-Luc Godard<br/> IV-François Truffaut<br/> Yukarıdaki yönetmenlerden hangileri Fransız Yeni Dalga sineması içinde yer alır?",
+        "SoruMetni": "I-Luchino Visconti<br/>II-Vittorio de Sica<br/>III_Jean-Luc Godard<br/>IV-François Truffaut<br/>Yukarıdaki yönetmenlerden hangileri Fransız Yeni Dalga sineması içinde yer alır?",
         "A": "I-II",
         "B": "I-III",
         "C": "II-III",
@@ -337,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1950’li yılların sonuna doğru, sinemada çağdaş anlatı yolunda ikinci bir dönüm noktasının yaşandığına tanık oluruz ve bu dönüm noktası belki de ilkinden, İtalyan Yeni Gerçekçiliği ile başlayan dönemden çok daha fazla etkili olacaktır.<br/>Bu yeni dönemin, Fransız Yeni Dalga Sineması (1959-64) olarak adlandırılan akımın içinde yer alan yönetmenlerle (François Truffaut, Alain Resnais, Claude Chabrol, Roger Vadim, Jean Pierre Melville, Jacques Rivetta, Chris Marker, Agnes Varda vb.) birlikte başladığı söylenebilir. Bu başlangıçta, Jean-Luc Godard’ın ve yönetmenin ünlü filmi “Serseri Aşıklar”ın özel bir yeri vardır. Sinemada bağıntıları oluşturan en önemli unsur kurgu ise Serseri Aşıklar’da görüntü; değerini, gücünü, anlamını kurgudan almaz. Hatta Godard bilinçli olarak geleneksel film kurgusunda yanlış olarak kabul edilen kesmeler yaparak, görüntünün kurgu ile kazanacağı anlamı, değeri yıkmak ister."
+        "Aciklama": "Parçalanmış Yaşamın Görsel Estetiği ve Yenilik Arayışı:İtalyan Yeni Gerçekçiliği, Fransız Yeni Dalgası<br>1950’li yılların sonuna doğru, sinemada çağdaş anlatı yolunda ikinci bir dönüm noktasının yaşandığına tanık oluruz ve bu dönüm noktası belki de ilkinden, İtalyan Yeni Gerçekçiliği ile başlayan dönemden çok daha fazla etkili olacaktır.<br/>Bu yeni dönemin, Fransız Yeni Dalga Sineması (1959-64) olarak adlandırılan akımın içinde yer alan yönetmenlerle (François Truffaut, Alain Resnais, Claude Chabrol, Roger Vadim, Jean Pierre Melville, Jacques Rivetta, Chris Marker, Agnes Varda vb.) birlikte başladığı söylenebilir. Bu başlangıçta, Jean-Luc Godard’ın ve yönetmenin ünlü filmi “Serseri Aşıklar”ın özel bir yeri vardır. Sinemada bağıntıları oluşturan en önemli unsur kurgu ise Serseri Aşıklar’da görüntü; değerini, gücünü, anlamını kurgudan almaz. Hatta Godard bilinçli olarak geleneksel film kurgusunda yanlış olarak kabul edilen kesmeler yaparak, görüntünün kurgu ile kazanacağı anlamı, değeri yıkmak ister."
     },
     {
         "SoruID": 3354207,
@@ -357,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçimci film kuramına göre sinemada anlamı yaratan temel öge “kurgu”dur. Sinematografik bir teknik olarak kurgu (montaj) art arda gelen iki ayrı çekim arasındaki bütünlüğü sağlayandır. Görüntü dilindeki anlatının ve anlatıdaki olayların zaman içerisindeki gelişimini, sürekliliği de yine kurguyla gerçekleşir."
+        "Aciklama": "Biçimci Kuram<br>Biçimci film kuramına göre sinemada anlamı yaratan temel öge “kurgu”dur. Sinematografik bir teknik olarak kurgu (montaj) art arda gelen iki ayrı çekim arasındaki bütünlüğü sağlayandır. Görüntü dilindeki anlatının ve anlatıdaki olayların zaman içerisindeki gelişimini, sürekliliği de yine kurguyla gerçekleşir."
     },
     {
         "SoruID": 3354405,
@@ -377,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareket anlamına gelen Kinema kelimesi Yunanca'dan gelmektedir."
+        "Aciklama": "Yunanca Kinema (hareket) ve Graphein (yazma) sözcüklerinin birleşmesiyle türetilen <em>\"cinematographe\"</em> hareketi yazan, saptayan anlamını taşır ve bu anlam aynı zamanda insanoğlunun binlerce yıllık hayalini, özlemini dile getirir.<br>Hareket anlamına gelen Kinema kelimesi Yunanca'dan gelmektedir."
     },
     {
         "SoruID": 3354406,
@@ -397,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sinemanın resmi doğum tarihi ve yeri 28 Aralık 1895, Paris'dir."
+        "Aciklama": "<br/>Sinemanın yüzyılını henüz tamamlamış olan ve öbür sanat dallarıyla kıyaslandığında kısacık diyebile- ceğimiz tarihi, daha doğrusu, resmî doğum tarihi, 28 Aralık 1895’te, Paris’te, Capucines Bulvarı üzerindeki Grand Cafe’nin zemin katında, halka açık ilk film gösterimi ile başlar.<br>Sinemanın resmi doğum tarihi ve yeri 28 Aralık 1895, Paris'dir."
     },
     {
         "SoruID": 3354407,
@@ -417,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "28 Aralık 1895'te Lumiere Kardeşler'in çektiği 49 saniye olan filmi Trenin Ciotat Garı'na Varışı'dır."
+        "Aciklama": "<br/>Bilet alarak film izlemeye gelen seyirciler Lumiere Kardeşler’in (Auguste Lumiere ve Louis Jean Lumiere) çektiği ve en uzunu 49 saniye olan on filmi izlemek için heyecanla beklerler. Aslında seyircilerin beklentisi sihirbazlık gösterisine benzer bir şeydir fakat duvardaki perdede bir trenin gara girişini gördüklerinde şok geçirirler. <br/>“Trenin Ciotat Garı’na Varışı” adını taşıyan bu filmde kamera sabittir ve ilk görülen şey uzaktaki bir buharlı lokomotiftir fakat hızla kameraya doğru yaklaşarak duran tren, seyirciler arasında korkuya, paniğe neden olur.<br>28 Aralık 1895'te Lumiere Kardeşler'in çektiği 49 saniye olan filmi Trenin Ciotat Garı'na Varışı'dır."
     },
     {
         "SoruID": 3354408,
@@ -437,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Sinema bir çocuğun sahip olabileceği en güzel oyuncaktır\" diyen Orson Welles'tir."
+        "Aciklama": "<br/>Sinema şeyin-şeylerin en güzel oyuncak olduğunu söyleyen Orson Welles’tir: “Sinema, bir çocuğun sahip olabileceği en güzel oyuncaktır.”<br>\"Sinema bir çocuğun sahip olabileceği en güzel oyuncaktır\" diyen Orson Welles'tir."
     },
     {
         "SoruID": 3354409,
@@ -457,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gerçeküstücü sinemanın usta yönetmeni olan ve sinema, özgür bir kafanın elindeyse olağanüstü ve tehlikeli bir silah olarak tanımlayan Luis Bunuel'dir."
+        "Aciklama": "<br/>Oyuncağı silah olarak gören ise gerçeküstücü sinemanın usta yönetmeni Luis Bunuel’dir; ona göre sinema, özgür bir kafanın elindeyse olağanüstü ve tehlikeli bir silahtır çünkü düşler ve duygular, insanın içgüdü dünyasını anlatan en güçlü araçlardır.<br>Gerçeküstücü sinemanın usta yönetmeni olan ve sinema, özgür bir kafanın elindeyse olağanüstü ve tehlikeli bir silah olarak tanımlayan Luis Bunuel'dir."
     },
     {
         "SoruID": 3354410,
@@ -477,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sofuların sinema caiz değildir diyeceklerini önceden düşünüp, olası bir baskıyla, engellemeyle baş etmek için müftüyü ve imamları bağ evine toplayıp, mükemmel bir şekilde ağırlayıp, konusu hac olan bir filmi getirip sinemasında göstereceğini duyuran ve Gaziantep'e sinemayı getiren Nakıp Ali'dir."
+        "Aciklama": "<br/>Nakıp Ali zekidir, çünkü sofuların sinema caiz değildir diyeceklerini önceden düşünüp, olası bir baskıyla, engellemeyle baş etmek için müftüyü ve imamları bağ evine toplayıp, mükemmel şekilde ağırlamış, konusu hac olan bir filmi getirtip sinemasında göstereceğini duyurmuştur. Belki de imamlar vaazlarında bu filmden bahsettiği için, kısa zamanda halk arasında bir söylenti çıkmış ve bu filmi üç defa görenlerin yarı hacı, yedi defa görenlerin tam hacı olacağı, daha film gelmeden kulaktan kulağa yayılmıştır.<br>Sofuların sinema caiz değildir diyeceklerini önceden düşünüp, olası bir baskıyla, engellemeyle baş etmek için müftüyü ve imamları bağ evine toplayıp, mükemmel bir şekilde ağırlayıp, konusu hac olan bir filmi getirip sinemasında göstereceğini duyuran ve Gaziantep'e sinemayı getiren Nakıp Ali'dir."
     },
     {
         "SoruID": 3354411,
@@ -497,11 +537,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sinema doğrudan doğruya teknolojiye bağlı olarak çıktığı ve geliştiği için modern bir sanat dalıdır."
+        "Aciklama": "<br/>Sinema, modern zamanların çocuğudur ve kısmen değil, tamamıyla modern olan, hem ilk hem de tek sanat dalıdır. Sinemanın modern olarak nitelendirilmesinin bir nedeni, bu sanat dalının doğrudan doğruya teknolojiye bağlı olarak ortaya çıkması ve gelişmesi ise bir başka neden de kalabalıklara, kitleye yönelik ilk sanat olmasıdır.<br>Sinema doğrudan doğruya teknolojiye bağlı olarak çıktığı ve geliştiği için modern bir sanat dalıdır."
+    },
+    {
+        "SoruID": 3354412,
+        "SoruMetni": "Geleneksel olandan, eskiden kopuşu, köklü ve radikal bir değişimle birlikte eskiden yeniye geçişi ve güncelliği ifade eden kavram hangisidir?",
+        "A": "Klasik",
+        "B": "Postmodern",
+        "C": "Çağdaş",
+        "D": "Antik",
+        "E": "Modern",
+        "DogruCevap": "E",
+        "DersAd": "Sanatta Eleştirel Düşünce",
+        "Unite": 7,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:20.610231",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<br/>Modern kavramı; geleneksel olandan, eskiden kopuşu, köklü (radikal) bir değişimle birlikte eskiden yeniye geçişi ve güncelliği ifade eder. C seçeneğindeki \"Çağdaş\" kavramı daha çok günümüze ait olan diğer bir deyişle <em>\"contemporain\"</em> olan ile karıştırılmaması gerekir, zira \"Modern\" sözcüğün geçmişi çok daha eskilere dayanır.<br>Geleneksel olandan, eskiden kopuşu, köklü ve radikal bir değişimle birlikte eskiden yeniye geçişi ve güncelliği ifade eden kavram Modern'dir."
     },
     {
         "SoruID": 3354414,
-        "SoruMetni": "Aşağıdakilerden hangisi Mozernizmin oluşmasında önayak olan akımlardan biri <strong><span style=\"text-decoration: underline;\">değildir?</span></strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi Mozernizmin oluşmasında önayak olan akımlardan biri <strong><span style=\"text-decoration: underline;\">değildir?</span></strong>",
         "A": "Romantizm",
         "B": "Realizm",
         "C": "Natüralizm",
@@ -517,11 +577,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tüm seçenekler Sanatta Modernizmin ya da modern sanatın oluşmasında önayak olmuşlardır. E seçeneğindeki Empresiyonizm (İzlenimcilik) diğer seçeneklere göre modernizm'in oluşmasında daha az etkili olmuştur. Her ne kadar Sembolik Şiir ile Empresiyonist resim kol kola olsalar da Empresiyonizm başlı başına modernizmin bir kolu olarak düşünmek gerekir."
+        "Aciklama": "<br/>Sanatta modernizmin ya da modern sanatın ilk güçlü akımı romantizmdir. Modernizm 19. yüzyılda, özellikle de bu yüzyılın ikinci yarısında farklı adlarla, farklı çehrelerle belirginlik kazanarak karşımıza çıkar ki, bunların içerisinde en önemli olanları önce romantizm, romantizmden sonra da gerçekçilik (realizm), doğalcılık (natüralizm) ve sembolizmdir.<br>Tüm seçenekler Sanatta Modernizmin ya da modern sanatın oluşmasında önayak olmuşlardır. E seçeneğindeki Empresiyonizm (İzlenimcilik) diğer seçeneklere göre modernizm'in oluşmasında daha az etkili olmuştur. Her ne kadar Sembolik Şiir ile Empresiyonist resim kol kola olsalar da Empresiyonizm başlı başına modernizmin bir kolu olarak düşünmek gerekir."
     },
     {
         "SoruID": 3354415,
-        "SoruMetni": "Aşağıdakilerden hangisi Modern Sanatın 20. yy. başındaki yeni yüzünü oluşturan akımlardan biri <strong><span style=\"text-decoration: underline;\">değildir?</span></strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi Modern Sanatın 20. yy. başındaki yeni yüzünü oluşturan akımlardan biri <strong><span style=\"text-decoration: underline;\">değildir?</span></strong>",
         "A": "Fütürizm",
         "B": "Dadaizm",
         "C": "Ekspresiyonizm",
@@ -537,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nihilizm, Modern Sanatın 20. yy. başındaki yeni yüzünü oluşturan akımlardan biri değildir."
+        "Aciklama": "<br/>Modern sanatın 20. yüzyıl başındaki yeni yüzü, karşı sanat ve <em>avangard</em> (öncü) sanattır. Gelecekçilik(fütürizm), dadaizm, gerçeküstücülük, dışavurumculuk, kübizm, pop sanat, kavramsal sanat gibi akımların hepsi bu aynı yüzün farklı farklı adları, görünümleridir (Savaş, 2013c).<br>Nihilizm, Modern Sanatın 20. yy. başındaki yeni yüzünü oluşturan akımlardan biri değildir."
     },
     {
         "SoruID": 3354416,
@@ -557,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1902 yılında Melies tarafından çekilmiş 14 dakikalık özel efektlerin kullanıldığı ilk bilimkurgu filmi Ay'a Yolculuk'tur."
+        "Aciklama": "<br/>Melies’nin en ünlü filmi, Jules Verne’nin romanından esinlenerek çektiği “Aya Yolculuk” (1902) adlı filmdir. 14 dakikalık bir film olan “Aya Yolculuk”, özel efektlerin kullanıldığı ilk film olmasının yanı<br/>sıra, sinema tarihinin bilinen ilk bilim kurgu filmidir (Savaş, 2013a).</br><br>1902 yılında Melies tarafından çekilmiş 14 dakikalık özel efektlerin kullanıldığı ilk bilimkurgu filmi Ay'a Yolculuk'tur."
     },
     {
         "SoruID": 3354417,
@@ -577,11 +637,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fransız yazar ve filozof Jean Paul Sartre (1961), “Bulantı” adlı romanında “En bayağı olayın bir serüven haline gelmesi için onu anlatmanız gerekir ve yeter. Kişioğlu hikâyecilikten kurtulamaz, kendi hikâyeleri ve başkalarının hikayeleri arasında yaşar.” diyor."
+        "Aciklama": "Fransız yazar ve filozof Jean Paul Sartre (1961), “Bulantı” adlı romanında “En bayağı olayın bir serüven haline gelmesi için onu anlatmanız gerekir ve yeter. Kişioğlu hikâyecilikten kurtulamaz, kendi hikâyeleri ve başkalarının hikâyeleri arasında yaşar.” diyor.<br>Fransız yazar ve filozof Jean Paul Sartre (1961), “Bulantı” adlı romanında “En bayağı olayın bir serüven haline gelmesi için onu anlatmanız gerekir ve yeter. Kişioğlu hikâyecilikten kurtulamaz, kendi hikâyeleri ve başkalarının hikayeleri arasında yaşar.” diyor."
     },
     {
         "SoruID": 3354420,
-        "SoruMetni": "Aşağıdakilerden hangisi geleneksel anlatıda dramatik yapının olay örgüsü aşamalarından <strong><span style=\"text-decoration: underline;\">değildir?</span></strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi geleneksel anlatıda dramatik yapının olay örgüsü aşamalarından <strong><span style=\"text-decoration: underline;\">değildir?</span></strong>",
         "A": "Serim",
         "B": "Düğüm",
         "C": "Tekrar Serim",
@@ -597,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tekrar Serim geleneksel anlatıda dramatik yapının olay örgüsü aşamalarından değildir."
+        "Aciklama": "<br/>Geleneksel anlatıda dramatik yapının olay örgüsü <em>serim</em>, <em>düğüm</em>, <em>çatışma</em>, <em>doruk noktası</em> ve <em>çözüm</em> aşamalarından oluşur.<br>Tekrar Serim geleneksel anlatıda dramatik yapının olay örgüsü aşamalarından değildir."
     },
     {
         "SoruID": 3354421,
@@ -617,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İzleyicinin kurmaca bir gerçek karşısında olduğunu unutması ve anlatıyı gerçek - hakikat olarak görmesi ya da yaşaması durumuna <em>Gönüllü aldanma</em> olarak adlandırılır."
+        "Aciklama": "<br/>İzleyicinin kurmaca bir gerçek karşısında olduğunu unutması ve anlatıyı gerçek-hakikat olarak görmesi ya da yaşamasıdır. “Gönüllü aldanma” olarak da adlandırılan bu durum, izleyicinin kurmaca olduğunu bildiği şeyi kısa süre için de olsa kendi isteğiyle gerçekmiş gibi kabul etmesidir (Oluk, 2008).<br>İzleyicinin kurmaca bir gerçek karşısında olduğunu unutması ve anlatıyı gerçek - hakikat olarak görmesi ya da yaşaması durumuna <em>Gönüllü aldanma</em> olarak adlandırılır."
     },
     {
         "SoruID": 3354422,
@@ -637,11 +697,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çağdaş anlatının geleneksel anlatıdan ayrılan en önemli özellik çağdaş anlatıda izleyiciyi bir gerçeklik yanılsaması içine sokmaktan uzak durmasıdır."
+        "Aciklama": "<br/>Çağdaş anlatının geleneksel anlatıdan ayrılan en önemli özelliği, izleyiciyi bir gerçeklik yanılsa- ması içine sokmaktan özenle kaçınması, uzak durmasıdır. Geleneksel anlatıda izleyici kurmaca evrenin içine çekilir, çağdaş anlatıda ise gözlemci olarak dışarıda tutulur, olayla-karakterlerle özdeşleşmek yerine inceler durumdadır. Çağdaş anlatı bilinçli olarak izleyicisi ile arasına mesafe koyan anlatıdır çünkü bu anlatıda önemli olan gerçeğe benzerlik yanılsaması yaratmak değil, gerçeği-gerçekliği sorgulamaktır.<br>Çağdaş anlatının geleneksel anlatıdan ayrılan en önemli özellik çağdaş anlatıda izleyiciyi bir gerçeklik yanılsaması içine sokmaktan uzak durmasıdır."
     },
     {
         "SoruID": 3354423,
-        "SoruMetni": "Aşağıdakilerden hangisi 1942-1951 arasındaki İtalyan Yeni Gerçekçiliği akımındaki bir yenilik <strong><span style=\"text-decoration: underline;\">değildir?</span></strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi 1942-1951 arasındaki İtalyan Yeni Gerçekçiliği akımındaki bir yenilik <strong><span style=\"text-decoration: underline;\">değildir?</span></strong>",
         "A": "Profesyonel oyuncular yerine amatör oyuncularla çalışması",
         "B": "Doğaçlamaya yer vermesi",
         "C": "Kamerayı stüdyo dışına sokağa çıkarması",
@@ -657,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ticari kaygılı yüksek bütçeli filmler olması, 1942-1951 arasındaki İtalyan Yeni Gerçekçiliği akımındaki bir yenilik olarak görülmez. Günümüz Hollywood filimleri için bu söylenebilir."
+        "Aciklama": "<br/>Çağdaş anlatı sinemasına giden yolda ilk dönüm noktasının, İtalyan Yeni Gerçekçiliği (1942- 1951) olduğu söylenebilir ki, Gilles Deleuze’e göre bu akım, sinema için yalnızca bir dönüm noktası değil, apaçık bir devrimdir, sinemanın yeniden keşfidir. Akımın gerçekçiliğindeki yenilik, yalnızca profesyonel oyuncular yerine amatör oyuncularla çalışması, doğaçlamaya yer vermesi, kamerayı stüdyo dışına, sokağa çıkarması, düşük bütçeli filmler yapması, kurguda özel efektlere başvurmayı reddetmesi, belgesele yakın teknik vb. değildir.<br>Ticari kaygılı yüksek bütçeli filmler olması, 1942-1951 arasındaki İtalyan Yeni Gerçekçiliği akımındaki bir yenilik olarak görülmez. Günümüz Hollywood filimleri için bu söylenebilir."
     },
     {
         "SoruID": 3354424,
@@ -677,11 +737,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bisiklet Hırsızları Yeni Gerçeklik başyapıtlarından olan De Sica'nın filmidir."
+        "Aciklama": "<br/>Yeni Gerçekçilik denilince akla ilk gelen ve akımın başyapıtlarından birisi olan De Sica’nın Bisiklet Hırsızları’nda konu yok denilecek kadar basittir, önemsizdir.<br>Bisiklet Hırsızları Yeni Gerçeklik başyapıtlarından olan De Sica'nın filmidir."
     },
     {
         "SoruID": 3354426,
-        "SoruMetni": "Aşağıdakilerden hangisi Fransız Yeni Dalga Sineması (1959-64) olarak adlandırılan akımın içinde yer alan yönetmenlerden biri <strong><span style=\"text-decoration: underline;\">değildir?</span></strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi Fransız Yeni Dalga Sineması (1959-64) olarak adlandırılan akımın içinde yer alan yönetmenlerden biri <strong><span style=\"text-decoration: underline;\">değildir?</span></strong>",
         "A": "François Truffaut",
         "B": "Maurice Ravel",
         "C": "Alain Resnais",
@@ -698,6 +758,46 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Bu yeni dönemin, Fransız Yeni Dalga Sineması (1959-64) olarak adlandırılan akımın içinde yer alan yönetmenlerle (François Truffaut, Alain Resnais, Claude Chabrol, Roger Vadim, Jean Pierre Melville, Jacques Rivetta, Chris Marker, Agnes Varda vb.) birlikte başladığı söylenebilir. B seçeneğindeki isim, yani Maurice Ravel, bir bestecidir."
+    },
+    {
+        "SoruID": 3354427,
+        "SoruMetni": "Gerçekliğin perdede gösterilmesinden ziyade onun yaratılması, oluşturulması durumu aşağıdakilerden hangisi ile açıklanabilir?",
+        "A": "Pudovkin etkisi",
+        "B": "Vertov etkisi",
+        "C": "Kurşçev etkisi",
+        "D": "Kuleşov etkisi",
+        "E": "Ayzenştayn etkisi",
+        "DogruCevap": "D",
+        "DersAd": "Sanatta Eleştirel Düşünce",
+        "Unite": 7,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:20.614880",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Pudovkin ve Kuleşov, deneysel arayışları sonucunda “Kuleşov Etkisi” olarak adlandırılan etkiyi keşfeder. Söz konusu etki, gerçekliğin perdede gösterilmesi değil; yaratılması, oluşturulması olarak özetlenebilir."
+    },
+    {
+        "SoruID": 3354429,
+        "SoruMetni": "Robert J. Flaherty'nin 1922'de çektiği ve bir Eskimo ailesinin gündelik yaşamını, geleneklerini, doğayla nasıl mücadele ettiklerini anlatan Kuzeyli Nanook adlı belgeselde fok balığının nasıl avlandığı sahnesi hangi kuram ile bağdaştırılabilir?",
+        "A": "Gerçekçi Film Kuramı",
+        "B": "Kurgu Film Kuramı",
+        "C": "Gerçeküstü Film Kuramı",
+        "D": "Biçimci Film Kuramı",
+        "E": "Eleştirel Film Kuramı",
+        "DogruCevap": "A",
+        "DersAd": "Sanatta Eleştirel Düşünce",
+        "Unite": 7,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:20.570784",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<br/>Film dilinin evrimini, nasıl geliştiğini inceleyen sinema kuramcısı Andre Bazin bu soruya yanıt ararken yönetmen Robert J. Flaherty’nin Kuzeyli Nanook (Nanook of the North, 1922) adlı belgesel filmini ele alır. Belgesel sinemanın ilk ve en önemli örneklerinden biri olarak kabul edilen bu film bir eskimo ailesinin gündelik yaşamını, geleneklerini, doğayla nasıl mücadele ettiklerini anlatır.<br/>Bazin’e göre bu filmdeki fok balığı avlama sahnesi sinema tarihi içinde ayrı bir yeri olan bir çekim şaheseridir. Yönetmen, eskimonun fok balığını nasıl avladığını, avın başından sonuna kadar tek bir çekimle anlatır. Oysa av için hazırlığı, avın başlangıcını, avını yakaladığı anı ve avın bitişini ayrı ayrı çekimlerle kayıt etmek ve bu çekimleri kurguyla bir araya getirmek olanaklıdır ki<br>Robert J. Flaherty'nin 1922'de çektiği ve bir Eskimo ailesinin gündelik yaşamını, geleneklerini, doğayla nasıl mücadele ettiklerini anlatan Kuzeyli Nanook adlı belgeselde fok balığının nasıl avlandığı sahnesi Gerçekçi Filim Kuramı ile bağdaştırılabilir."
     },
     {
         "SoruID": 3354431,
@@ -717,7 +817,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uzun çekimler ile alan derinliğine verilen ayrıcalıklı önem ile \"Yurttaş Kane\" film biçimine getirdiği en önemli yenilik olarak görebiliriz."
+        "Aciklama": "<br/>“Yurttaş Kane”nin film biçimine getirdiği en önemli yenilik çekimlerde alan derinliğine verilen ayrıcalıklı önem ve alan derinliğinin kullanıldığı uzun çekimler ile filmin kurgusu arasındaki olağanüstü başarı ve uyumdur. Teknik olarak, alan derinliği (depth of field) kameraya en yakın ve en uzak alandaki her şeyin net odakta olması şeklinde tanımlanabilir.<br>Uzun çekimler ile alan derinliğine verilen ayrıcalıklı önem ile \"Yurttaş Kane\" film biçimine getirdiği en önemli yenilik olarak görebiliriz."
+    },
+    {
+        "SoruID": 3354432,
+        "SoruMetni": "Sinemaya felsefe ile bakışta, bu bakışın film eleştirisine taşınmasında ölçüt nedir?",
+        "A": "İde",
+        "B": "Yapıtın kendisi",
+        "C": "Felsefi akımı",
+        "D": "insan",
+        "E": "Sorgu",
+        "DogruCevap": "D",
+        "DersAd": "Sanatta Eleştirel Düşünce",
+        "Unite": 7,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:20.536490",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Sinemaya felsefe ile bakmanın bir yolu da felsefi bakışı, film eleştirisine taşımaktır. Sinemaya felsefe ile bakışta, bu bakışın film eleştirisine taşınmasında ölçüt “insan”dır; insan ve insana bağlı değerlerdir."
     },
     {
         "SoruID": 3354460,
@@ -737,11 +857,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sinemanın yüzyılını henüz tamamlamış olan ve öbür sanat dallarıyla kıyaslandığında kısacık diyebile­ceğimiz tarihi, daha doğrusu, resmî doğum tarihi, 28 Aralık 1895’te, Paris’te, Capucines Bulvarı üzerindeki Grand Cafe’nin zemin katında, halka açık ilk film gösterimi ile başlar.<br/><br/>Bilet alarak film izlemeye gelen se­yirciler Lumiere Kardeşler’in (Auguste Lumiere ve Louis Jean Lumiere) çektiği ve en uzunu 49 saniye olan on filmi izlemek için heyecanla beklerler."
+        "Aciklama": "Sinemanın yüzyılını henüz tamamlamış olan ve öbür sanat dallarıyla kıyaslandığında kısacık diyebile­ceğimiz tarihi, daha doğrusu, resmî doğum tarihi, 28 Aralık 1895’te, Paris’te, Capucines Bulvarı üzerindeki Grand Cafe’nin zemin katında, halka açık ilk film gösterimi ile başlar.<br/>Bilet alarak film izlemeye gelen se­yirciler Lumiere Kardeşler’in (Auguste Lumiere ve Louis Jean Lumiere) çektiği ve en uzunu 49 saniye olan on filmi izlemek için heyecanla beklerler."
     },
     {
         "SoruID": 3354461,
-        "SoruMetni": "A.Si­nemanın amacı, insanı ölüme hazırlamaktır.<br/> B.Sinema güzel vakit geçirmemizi sağlayan bir araçtır.<br/> C.Beyazperdede kıpırdayan her şey sinemadır.<br/> D.Sinema, sıkıcı bölümleri atılmış hayat­tır<br/> E.Sinema, gerçeklik yanıl­saması değil, <em>yanılsamanın gerçekliği</em>dir.<br/> F.Sinema bir hayat dilimi değildir; bir pasta dilimidir.<br/> Yukarıda verilenlerden hangileri Alfred Hitchcock’un sinema hakkındaki düşüncelerini yansıtmaktadır.",
+        "SoruMetni": "A.Si­nemanın amacı, insanı ölüme hazırlamaktır.<br/>B.Sinema güzel vakit geçirmemizi sağlayan bir araçtır.<br/>C.Beyazperdede kıpırdayan her şey sinemadır.<br/>D.Sinema, sıkıcı bölümleri atılmış hayat­tır<br/>E.Sinema, gerçeklik yanıl­saması değil, <em>yanılsamanın gerçekliği</em>dir.<br/>F.Sinema bir hayat dilimi değildir; bir pasta dilimidir.<br/>Yukarıda verilenlerden hangileri Alfred Hitchcock’un sinema hakkındaki düşüncelerini yansıtmaktadır.",
         "A": "<span style=\"font-size: 11.0pt; color: windowtext;\">A,B,E</span>",
         "B": "<span>A,C,D</span>",
         "C": "<span>C,D,F</span>",
@@ -761,7 +881,7 @@
     },
     {
         "SoruID": 3354462,
-        "SoruMetni": "Sinemanın en yalın ifadesi olarak görülebilecek olan  “Beyazperdede kıpırdayan her şey sinemadır.” İfadesi aşağıdaki yönetmenlerden hangisine aittir.",
+        "SoruMetni": "Sinemanın en yalın ifadesi olarak görülebilecek olan “Beyazperdede kıpırdayan her şey sinemadır.” İfadesi aşağıdaki yönetmenlerden hangisine aittir.",
         "A": "Andrey Tarkovski",
         "B": "Alfred Hitchcock",
         "C": "Jean Renoir",
@@ -797,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sinemanın modern olarak nitelendirilmesinin bir nedeni, bu sanat dalının doğrudan doğruya teknolojiye bağlı olarak ortaya çıkması ve gelişmesi ise bir başka neden de kalaba<br/> lıklara, kitleye yönelik ilk sanat olmasıdır."
+        "Aciklama": "Sinemanın modern olarak nitelendirilmesinin bir nedeni, bu sanat dalının doğrudan doğruya teknolojiye bağlı olarak ortaya çıkması ve gelişmesi ise bir başka neden de kalaba<br/>lıklara, kitleye yönelik ilk sanat olmasıdır."
     },
     {
         "SoruID": 3354464,
@@ -821,10 +941,10 @@
     },
     {
         "SoruID": 3354465,
-        "SoruMetni": "“….. sanatta haz, özdeşleşmeye dayalı bir estetik uygulamanın egemenliği altında, se­yircinin katharsise (arınma) ulaşmasından doğmaktadır. Seyirci olayların akışına kendini kaptırarak, olay ve karakterle kendini özdeşleştirir. Düşünsel faaliyeti bir kenara bırakarak, duygusal temel üzerinde kurulan bir yaşantı birliğine girer. Doruğa doğru yükselen bir geri­limle başka bir hayatın (kurmacanın) içinde yer alan se­yirci, doruk noktası ile başlayan son bölümde olayların çözülmesiyle, yapay olarak içine sokulduğu gerilimden kurtarılır ve rahatlatılır.”<br/><br/>Bu ifadeler aşağıdaki sinema anlatılarından hangisinin özelliklerini ele almaktadır?",
+        "SoruMetni": "“….. sanatta haz, özdeşleşmeye dayalı bir estetik uygulamanın egemenliği altında, se­yircinin katharsise (arınma) ulaşmasından doğmaktadır. Seyirci olayların akışına kendini kaptırarak, olay ve karakterle kendini özdeşleştirir. Düşünsel faaliyeti bir kenara bırakarak, duygusal temel üzerinde kurulan bir yaşantı birliğine girer. Doruğa doğru yükselen bir geri­limle başka bir hayatın (kurmacanın) içinde yer alan se­yirci, doruk noktası ile başlayan son bölümde olayların çözülmesiyle, yapay olarak içine sokulduğu gerilimden kurtarılır ve rahatlatılır.”<br/>Bu ifadeler aşağıdaki sinema anlatılarından hangisinin özelliklerini ele almaktadır?",
         "A": "Geleneksel anlatı",
         "B": "Modern Anlatı",
-        "C": "Çağdaş Anlatı<br/>",
+        "C": "Çağdaş Anlatı",
         "D": "Postmodern Anlatı",
         "E": "Avangard Anlatı",
         "DogruCevap": "A",
@@ -861,7 +981,7 @@
     },
     {
         "SoruID": 3354467,
-        "SoruMetni": "Gilles Deleuze’un sinemada devrim olarak nitelediği, profesyonel oyuncular yerine amatör oyuncularla çalışması, doğaçlamaya yer vermesi, kamerayı stüd­yo dışına, sokağa çıkarması, düşük bütçeli filmler yapması, kurguda özel efektlere başvurmayı red­detmesi gibi yenilikler içeren, çağdaş anlatı sinemasında ilk dönüm noktası olarak kabul edilen akım aşağıdakilerden hangisidir?<br/>",
+        "SoruMetni": "Gilles Deleuze’un sinemada devrim olarak nitelediği, profesyonel oyuncular yerine amatör oyuncularla çalışması, doğaçlamaya yer vermesi, kamerayı stüd­yo dışına, sokağa çıkarması, düşük bütçeli filmler yapması, kurguda özel efektlere başvurmayı red­detmesi gibi yenilikler içeren, çağdaş anlatı sinemasında ilk dönüm noktası olarak kabul edilen akım aşağıdakilerden hangisidir?",
         "A": "Fransız Yeni Dalga Sineması",
         "B": "Deneysel Sinema",
         "C": "Özgür Sinema",
@@ -881,7 +1001,7 @@
     },
     {
         "SoruID": 3354468,
-        "SoruMetni": "“Bu filmi, dün olduğu gibi bugün de başyapıt kılan şey, söz konusu gemide yaşa­nan isyandan yola çıkarak film dilin­de bir “düşünce”nin, bir “kavram”ın dile getirilebileceğidir ki, o düşünce de ezilenin ezene karşı başkaldırması gerektiği ve bir kavram olarak “daya­nışma”, “direniş” ve “başkaldırı”dır. Sinemanın bir düşünceyi ve bir kavramı ifade edebilecek yetkinlikte bir dil olması demek, bu dilde “soyutlama” yapılabileceğinin anlaşılması demek olduğu için olağanüstü bir önem taşır ve sinemanın sanat olup olmadığına ilişkin tartışmalara da son noktayı koyar”<br/> Bahsedilen film aşağıdakilerden hangisidir?",
+        "SoruMetni": "“Bu filmi, dün olduğu gibi bugün de başyapıt kılan şey, söz konusu gemide yaşa­nan isyandan yola çıkarak film dilin­de bir “düşünce”nin, bir “kavram”ın dile getirilebileceğidir ki, o düşünce de ezilenin ezene karşı başkaldırması gerektiği ve bir kavram olarak “daya­nışma”, “direniş” ve “başkaldırı”dır. Sinemanın bir düşünceyi ve bir kavramı ifade edebilecek yetkinlikte bir dil olması demek, bu dilde “soyutlama” yapılabileceğinin anlaşılması demek olduğu için olağanüstü bir önem taşır ve sinemanın sanat olup olmadığına ilişkin tartışmalara da son noktayı koyar”<br/>Bahsedilen film aşağıdakilerden hangisidir?",
         "A": "Hiroşima Sevgilim",
         "B": "Utanç",
         "C": "Yurttaş Kane",
@@ -901,7 +1021,7 @@
     },
     {
         "SoruID": 3354469,
-        "SoruMetni": "Aşağıdaki film ve yönetmenlerden hangisinde doğru eşleştirme<strong> yapılmamıştır. </strong>",
+        "SoruMetni": "Aşağıdaki film ve yönetmenlerden hangisinde doğru eşleştirme<strong> yapılmamıştır. </strong>",
         "A": "Orson Wel­les - Yurttaş Kane",
         "B": "Lars von Trier-Karanlıkta Dans",
         "C": "Andrey Tarkovski -Piyanist",
@@ -937,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anlatı, gerçek ya da düşsel olayların değişik gösterge dizgeleri aracılığıyla anlatılması sonucunda ortaya çıkmış bütün olarak tanımlanır. Bir başka tanım ise durumların, olayların, kişilerin ve kişiler arasındaki ilişkilerinin öykülenmesidir. Her öykü bir anlatıdır fakat her anlatı bir öykü değildir.<br/>Mektup, makale, gazete yazısı, tarih kayıtları da birer anlatıdır ama öykü değildir bunlar. Söz gelimi, tarih kayıtları olayların bir listesini sunar fakat olay örgüsünden yoksun olduğu için öykü değildir."
+        "Aciklama": "Bu soru \"SİNEMADA ANLATI TÜRLERİ VE ELEŞTİREL DÜŞÜNCE\" başlığından türetilmiştir.<br>Anlatı, gerçek ya da düşsel olayların değişik gösterge dizgeleri aracılığıyla anlatılması sonucunda ortaya çıkmış bütün olarak tanımlanır. Bir başka tanım ise durumların, olayların, kişilerin ve kişiler arasındaki ilişkilerinin öykülenmesidir. Her öykü bir anlatıdır fakat her anlatı bir öykü değildir.<br/>Mektup, makale, gazete yazısı, tarih kayıtları da birer anlatıdır ama öykü değildir bunlar. Söz gelimi, tarih kayıtları olayların bir listesini sunar fakat olay örgüsünden yoksun olduğu için öykü değildir."
     },
     {
         "SoruID": 3354547,
@@ -957,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Serim bölümü çoğu zaman oyunun başlangıç noktası olarak algılansa da aslında oyunun başından sonuna kadar süren bilgi verme sürecini içerir. İzleyici serim aşamasında karakterleri tanır,<br/>karakterler arasında çatışma/mücadele öncesinde ve sırasında, çeşitli durumların neden, ne zaman ve nasıl olup da bu hâle geldiğini anlar.  Düğüm, başlangıçtaki hareketsizliği, denge durumunu bozan ve eylemi başlatan şeydir, çoğu zaman ortaya çıkan bir sorundur. Çatışma iki güç arasındaki zıtlığı ve çözümün kuşkulu olduğunu duyurur. Doruk noktası, gerilimin had safhaya ulaştığı noktadır.  Çözüm aşamasında  tüm çatışmalar biter, düğümler çözülür, izleyicinin kafasında soru işareti kalmaz ve tüm şüpheler giderilir ."
+        "Aciklama": "Bu soru \"Geleneksel Anlatı Sineması\" başlığından türetilmiştir.<br>Serim bölümü çoğu zaman oyunun başlangıç noktası olarak algılansa da aslında oyunun başından sonuna kadar süren bilgi verme sürecini içerir. İzleyici serim aşamasında karakterleri tanır,<br/>karakterler arasında çatışma/mücadele öncesinde ve sırasında, çeşitli durumların neden, ne zaman ve nasıl olup da bu hâle geldiğini anlar. Düğüm, başlangıçtaki hareketsizliği, denge durumunu bozan ve eylemi başlatan şeydir, çoğu zaman ortaya çıkan bir sorundur. Çatışma iki güç arasındaki zıtlığı ve çözümün kuşkulu olduğunu duyurur. Doruk noktası, gerilimin had safhaya ulaştığı noktadır. Çözüm aşamasında tüm çatışmalar biter, düğümler çözülür, izleyicinin kafasında soru işareti kalmaz ve tüm şüpheler giderilir ."
     },
     {
         "SoruID": 3354548,
@@ -977,15 +1097,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Geleneksel anlatı, akıl ve akılcılık temeli üzerine inşa edilen bir yapıdır. Öykü ve öyküyü oluşturan olay örgüsü neden-sonuç ilişkilerine göre düzenlenir ve temel ilkesi “sürekli ilerleme”dir. Bu ilkeye göre, her sahne bir sonraki ya da önceki sahnenin nedeni ya da sonucu olacak şekilde belirlenir ve böylece izleyicinin dikkati, merakı sürekli ayakta tutulmaya çalışılır."
+        "Aciklama": "Bu soru \"Geleneksel Anlatı Sineması\" başlığından türetilmiştir.<br>Geleneksel anlatı, akıl ve akılcılık temeli üzerine inşa edilen bir yapıdır. Öykü ve öyküyü oluşturan olay örgüsü neden-sonuç ilişkilerine göre düzenlenir ve temel ilkesi “sürekli ilerleme”dir. Bu ilkeye göre, her sahne bir sonraki ya da önceki sahnenin nedeni ya da sonucu olacak şekilde belirlenir ve böylece izleyicinin dikkati, merakı sürekli ayakta tutulmaya çalışılır."
     },
     {
         "SoruID": 3354549,
         "SoruMetni": "Aşağıdakilerden hangisi geleneksel anlatı ile modern anlatı arasındaki farkı doğru vermektedir?",
         "A": "Geleneksel anlatının çağdaş anlatıdan ayrılan en önemli özelliği, izleyiciyi bir gerçeklik yanılsaması içine sokmaktan özenle kaçınmasıdır.",
         "B": "Geleneksel anlatıda izleyici kurmaca evrenin içine çekilir, çağdaş anlatıda ise gözlemci olarak<br/>dışarıda tutulur.",
-        "C": "Geleneksel anlatıda olayla-karakterleri incelemek varken modern anlatıda özdeşleşmek önemlidir.<br/><br/>",
-        "D": "Geleneksel anlatıda izleyicinin soru sorması ve sorgulaması önemliyken modern anlatıda duygusal katılım öne çıkar.",
+        "C": "Geleneksel anlatıda olayla-karakterleri incelemek varken modern anlatıda özdeşleşmek önemlidir.",
+        "D": "Geleneksel anlatıda izleyicinin soru sorması ve sorgulaması önemliyken modern anlatıda duygusal katılım öne çıkar.",
         "E": "Geleneksel anlatının temel ilkelerinden birisi felsefik bakış iken modern anlatıda amaç “kolay anlaşılır” olmaktır.",
         "DogruCevap": "B",
         "DersAd": "Sanatta Eleştirel Düşünce",
@@ -997,7 +1117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çağdaş anlatının geleneksel anlatıdan ayrılan en önemli özelliği, izleyiciyi bir gerçeklik yanılsaması içine sokmaktan özenle kaçınması, uzak durmasıdır. Geleneksel anlatıda izleyici kurmaca evrenin içine çekilir, çağdaş anlatıda ise gözlemci olarak dışarıda tutulur, olayla-karakterlerle özdeşleşmek<br/>yerine inceler durumdadır. Çağdaş anlatı izleyicide özdeşleşmeye  dayalı duygusal bir haz yaratmayı değil, izleyicinin aklını, düşüncesini devreye sokmaya çalışır. İstenen şey, izleyicinin perdede izlediği filme duygusal katılımının yanı sıra soru sorması, sorgulaması ve düşünmesidir. Geleneksel anlatının temel ilkelerinden birisi “kolay anlaşılır” olmaktır. Bunun için nedenler ve sonuçlar en anlaşılır ve kolay kabul edilir şekilde sunulur ve güven duygusu verir. Öte yandan çağdaş anlatı rahatsızlık verir ve tedirgin edicidir çünkü insanı, hayatı sorgularken bizden de bu sorgulamaya katılmamızı bekler.<br/><br/>"
+        "Aciklama": "Bu soru \"Çağdaş (Modern) Anlatı Sineması\" başlığından türetilmiştir.<br>Çağdaş anlatının geleneksel anlatıdan ayrılan en önemli özelliği, izleyiciyi bir gerçeklik yanılsaması içine sokmaktan özenle kaçınması, uzak durmasıdır. Geleneksel anlatıda izleyici kurmaca evrenin içine çekilir, çağdaş anlatıda ise gözlemci olarak dışarıda tutulur, olayla-karakterlerle özdeşleşmek<br/>yerine inceler durumdadır. Çağdaş anlatı izleyicide özdeşleşmeye dayalı duygusal bir haz yaratmayı değil, izleyicinin aklını, düşüncesini devreye sokmaya çalışır. İstenen şey, izleyicinin perdede izlediği filme duygusal katılımının yanı sıra soru sorması, sorgulaması ve düşünmesidir. Geleneksel anlatının temel ilkelerinden birisi “kolay anlaşılır” olmaktır. Bunun için nedenler ve sonuçlar en anlaşılır ve kolay kabul edilir şekilde sunulur ve güven duygusu verir. Öte yandan çağdaş anlatı rahatsızlık verir ve tedirgin edicidir çünkü insanı, hayatı sorgularken bizden de bu sorgulamaya katılmamızı bekler."
     },
     {
         "SoruID": 3354550,
@@ -1017,14 +1137,34 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Rus yönetmen Andrey Tarkovski’ye göre sinemanın amacı, insanı ölüme hazırlamaktır. Belki de bu yüzden Tarkovski’den bir film izleyen, o filmi kolay kolay unutamaz."
+        "Aciklama": "Bu soru \"GİRİŞ\" başlığından türetilmiştir.<br>Rus yönetmen Andrey Tarkovski’ye göre sinemanın amacı, insanı ölüme hazırlamaktır. Belki de bu yüzden Tarkovski’den bir film izleyen, o filmi kolay kolay unutamaz."
+    },
+    {
+        "SoruID": 3354551,
+        "SoruMetni": "Aşağıdakilerden hangisi İtalyan Yeni Gerçekçiliği (1942- 1951) akımından Vittorio De Sica'nın konusu yok denilecek kadar basit ve önemsiz olan ama güçlü flimidir ?",
+        "A": "Roma Açık Şehir",
+        "B": "Almanya Sıfır Yılı",
+        "C": "Vittorio de Sica’nın",
+        "D": "Bisiklet Hırsızları",
+        "E": "Yer Sarsılıyor",
+        "DogruCevap": "D",
+        "DersAd": "Sanatta Eleştirel Düşünce",
+        "Unite": 7,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:20.593367",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Bu soru \"Parçalanmış Yaşamın Görsel Estetiği<br/>ve Yenilik Arayışı: İtalyan Yeni<br/>Gerçekçiliği, Fransız Yeni Dalga<br/>Sineması\" başlığından türetilmiştir.<br>Yeni Gerçekçi Sinema, adı bu akımın kuramıyla birlikte anılan Zavattini’nin (Aktaran: Hakan Savaş,<br/>2013a) dile getirdiği gibi, sinemada gerçeğe bakan gözün, bakışın kökten değişmesiyle açıklanmalıdır:“... Kısacası, gördük ki, gerçek son derece zengindi, sadece bu gerçeğe bakmayı bilmek gerekiyordu. Sanatçının görevi de birtakım hilelere başvurarak seyirciyi heyecanlandırmak ya da tiksindirmek değil, onu kendisinin ya da başkalarının yaptığı şeyler üzerine düşünmeye (isterseniz heyecana hatta tiksinmeye) yöneltmekti. Böylelikle gerçek karşısında duyulan derin, bilinçaltı güvensizlikten, yalancı ve belli belirsiz bir kaçıştan, eşyaya, olaylara, insanlara<br/>sonsuz bir güvene geçildi.”"
     },
     {
         "SoruID": 3354552,
         "SoruMetni": "Görüntü dilindeki anlatının ve anlatıdaki olayların zaman içerisindeki gelişimini, sürekliliği de yine kurguyla gerçekleştiğini vurgulayan sinema kuramı aşağıdakilerden hangisidir?",
         "A": "Yeni Dalga",
         "B": "Biçimci film kuramı",
-        "C": "<strong><em>Yeni Gerçekçilik   </em></strong>",
+        "C": "<strong><em>Yeni Gerçekçilik </em></strong>",
         "D": "<strong><em>Gerçekçi Kuram</em></strong>",
         "E": "Gerçeküstücü sinema",
         "DogruCevap": "B",
@@ -1037,11 +1177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçimci film kuramına göre sinemada anlamı yaratan temel öge “kurgu”dur. Sinematografik bir<br/>teknik olarak kurgu (montaj) art arda gelen iki ayrı çekim arasındaki bütünlüğü sağlayandır. Görüntü dilindeki anlatının ve anlatıdaki olayların zaman içerisindeki gelişimini, sürekliliği de yine<br/>kurguyla gerçekleşir."
+        "Aciklama": "bu soru \"FİLM KURAMLARI VE ELEŞTİRİ\" başlığından türetilmiştir.<br>Biçimci film kuramına göre sinemada anlamı yaratan temel öge “kurgu”dur. Sinematografik bir<br/>teknik olarak kurgu (montaj) art arda gelen iki ayrı çekim arasındaki bütünlüğü sağlayandır. Görüntü dilindeki anlatının ve anlatıdaki olayların zaman içerisindeki gelişimini, sürekliliği de yine<br/>kurguyla gerçekleşir."
     },
     {
         "SoruID": 3354553,
-        "SoruMetni": "Gwerçekçi film anlayışındaki kurtarılmış gerçeklik ifadesi kime aittir?",
+        "SoruMetni": "Gwerçekçi film anlayışındaki kurtarılmış gerçeklik ifadesi kime aittir?",
         "A": "Ayzenştayn",
         "B": "Orson Welles",
         "C": "Siegfried Kracauer",
@@ -1057,7 +1197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "rçekçi film anlayışının önemli kuramcılarından birisi olan Siegfried Kracauer’a göre de sinemayı<br/>sanat yapan şey “kurtarılmış gerçeklik”tir. Yönetmen, kurguya başvurmadan da gözümüzün önünde durduğu hâlde göremediğimiz, fark etmediğimiz ayrıntıları kamerasını kullanarak kurtarabilir, yakalayabilir"
+        "Aciklama": "Bu soru \"V\" başlığından türetilmiştir.<br>rçekçi film anlayışının önemli kuramcılarından birisi olan Siegfried Kracauer’a göre de sinemayı<br/>sanat yapan şey “kurtarılmış gerçeklik”tir. Yönetmen, kurguya başvurmadan da gözümüzün önünde durduğu hâlde göremediğimiz, fark etmediğimiz ayrıntıları kamerasını kullanarak kurtarabilir, yakalayabilir"
     },
     {
         "SoruID": 3354554,
@@ -1077,7 +1217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Alain Resnais’in ünlü filmi “Hiroşima Sevgilim”, yalnızca bir Japon ile Hiroşima’da çekilecek bir filmde oynamak üzere orada bulunan Avrupalı bir kadın arasında geçen aşkın öyküsünü anlatan, bu sırada araya Hiroşima’ya atılan atom bombasıyla ilgili belgesel görüntüleri sıkıştıran bir film değil, “bellek” üzerine yazılmış bir şiirdir…<br/>Bu filmde önemli olan kadın ile erkeğin arasındaki aşkı anlatan sahnelerin akılcı hikâyesi değildir."
+        "Aciklama": "Bu soru \"Parçalanmış Yaşamın Görsel Estetiği<br/>ve Yenilik Arayışı: İtalyan Yeni<br/>Gerçekçiliği, Fransız Yeni Dalga<br/>Sineması\" başlığından türetilmiştir.<br>Alain Resnais’in ünlü filmi “Hiroşima Sevgilim”, yalnızca bir Japon ile Hiroşima’da çekilecek bir filmde oynamak üzere orada bulunan Avrupalı bir kadın arasında geçen aşkın öyküsünü anlatan, bu sırada araya Hiroşima’ya atılan atom bombasıyla ilgili belgesel görüntüleri sıkıştıran bir film değil, “bellek” üzerine yazılmış bir şiirdir…<br/>Bu filmde önemli olan kadın ile erkeğin arasındaki aşkı anlatan sahnelerin akılcı hikâyesi değildir."
     },
     {
         "SoruID": 3354555,
@@ -1097,6 +1237,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Serim bölümü çoğu zaman oyunun başlangıç noktası olarak algılansa da aslında oyunun başından sonuna kadar süren bilgi verme sürecini içerir. İzleyici serim aşamasında karakterleri tanır, karakterler arasında çatışma/mücadele öncesinde ve sırasında, çeşitli durumların neden, ne zaman ve nasıl olup da bu hâle geldiğini anlar.<strong>  Düğüm, başlangıçtaki hareketsizliği, denge durumunu bozan ve eylemi başlatan şeydir, çoğu zaman ortaya çıkan bir sorundur.</strong> Çatışma iki güç arasındaki zıtlığı ve çözümün kuşkulu olduğunu duyurur. Doruk noktası, gerilimin had safhaya ulaştığı noktadır.  Çözüm aşamasında  tüm çatışmalar biter, düğümler çözülür, izleyicinin kafasında soru işareti kalmaz ve tüm şüpheler giderilir ."
+        "Aciklama": "Bu sru<br>Serim bölümü çoğu zaman oyunun başlangıç noktası olarak algılansa da aslında oyunun başından sonuna kadar süren bilgi verme sürecini içerir. İzleyici serim aşamasında karakterleri tanır, karakterler arasında çatışma/mücadele öncesinde ve sırasında, çeşitli durumların neden, ne zaman ve nasıl olup da bu hâle geldiğini anlar.<strong> Düğüm, başlangıçtaki hareketsizliği, denge durumunu bozan ve eylemi başlatan şeydir, çoğu zaman ortaya çıkan bir sorundur.</strong> Çatışma iki güç arasındaki zıtlığı ve çözümün kuşkulu olduğunu duyurur. Doruk noktası, gerilimin had safhaya ulaştığı noktadır. Çözüm aşamasında tüm çatışmalar biter, düğümler çözülür, izleyicinin kafasında soru işareti kalmaz ve tüm şüpheler giderilir ."
     }
 ]

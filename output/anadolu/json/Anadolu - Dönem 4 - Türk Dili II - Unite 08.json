@@ -20,8 +20,48 @@
         "Aciklama": "Boğumlanma; telaffuz, artikülasyon, sesletim gibi terimlerle de ifade edilmektedir. Doğru cevap B'dir."
     },
     {
+        "SoruID": 3257487,
+        "SoruMetni": "Sözcüklerde ve sözcük öbeklerinde bazı hecelerin, cümlenin bütününde de bazı sözcüklerin diğerlerine göre daha yüksek tonda seslendirilmesidir.<br/>Aşağıdakilerden hangisi yukarıda tanımı verilen terimdir?",
+        "A": "Vurgu",
+        "B": "Ezgi",
+        "C": "Ton",
+        "D": "Frekans",
+        "E": "Ses",
+        "DogruCevap": "A",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.300594",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Sözcüklerde ve sözcük öbeklerinde bazı hecelerin, cümlenin bütününde de bazı sözcüklerin diğerlerine göre daha yüksek tonda seslendirilmesine vurgu denir. Doğru cevap A'dır."
+    },
+    {
+        "SoruID": 3257490,
+        "SoruMetni": "Aşağıdakilerden hangisi doğru, güzel ve iyi bir sesin sahip olması gereken temel fiziksel özelliklerden birisi değildir?",
+        "A": "Hoşagiderlik",
+        "B": "Akıcılık",
+        "C": "İşitilebilirlik",
+        "D": "Esneklik",
+        "E": "Duruluk",
+        "DogruCevap": "E",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.437885",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Duruluk doğru, güzel ve iyi bir sesin sahip olması gereken temel fiziksel özelliklerden birisi değildir. Doğru cevap E'dir."
+    },
+    {
         "SoruID": 3257492,
-        "SoruMetni": "Aşağıdakilerden hangisi doğru, güzel ve etkili konuşmanın temel ilkelerindendir?<br/> I. Açıklık<br/> II. Doğallık<br/> III. İnandırıcılık<br/> IV. İlginçlik",
+        "SoruMetni": "Aşağıdakilerden hangisi doğru, güzel ve etkili konuşmanın temel ilkelerindendir?<br/>I. Açıklık<br/>II. Doğallık<br/>III. İnandırıcılık<br/>IV. İlginçlik",
         "A": "I-II",
         "B": "Yalnız IV",
         "C": "I-III-IV",
@@ -41,7 +81,7 @@
     },
     {
         "SoruID": 3257494,
-        "SoruMetni": "\"................ belirli hislerin sonucu olarak yüzde, yüzü oluşturan organlarda meydana gelen hareketlerdir.\"<br/> Aşağıdaki beden dili terimlerinden hangisi yukarıdaki boşluğa gelmelidir?",
+        "SoruMetni": "\"................ belirli hislerin sonucu olarak yüzde, yüzü oluşturan organlarda meydana gelen hareketlerdir.\"<br/>Aşağıdaki beden dili terimlerinden hangisi yukarıdaki boşluğa gelmelidir?",
         "A": "Jest",
         "B": "Görünüş",
         "C": "Mimik",
@@ -78,6 +118,66 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Önceden belirlenen bir konunun, o konuda uzman bir grup kişi tarafından tartışılarak ele alındığı konuşmalardır. Davet edilen 3 ile 5 konuşmacı, konunun genel olarak veya sadece belirli bir yönüyle uzmanı olabilir ve uzmanı olduğu konuda görüş bildirmek üzere söz alabilir. Bu hazırlıklı topluluk konuşması açık oturumdur. Doğru cevap E'dir."
+    },
+    {
+        "SoruID": 3257498,
+        "SoruMetni": "Bu hazırlıklı topluluk konuşmasını diğer benzer konuşma türlerinden ayıran en önemli özelliği, dinleyicilerin, bu konuşma süresince yönetici kontrolünde söz alarak soru ve görüşlerini ifade edebilmeleridir.<br/>Yukarıda anlatılan topluluk konuşma türü aşağıdakilerden hangisidir?",
+        "A": "Panel",
+        "B": "Forum",
+        "C": "Açık Oturum",
+        "D": "Nutuk",
+        "E": "Sempozyum",
+        "DogruCevap": "B",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.333479",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Forumu diğer benzer konuşma türlerinden ayıran en önemli özelliği, dinleyicilerin, forum süresince yönetici kontrolünde söz alarak soru ve görüşlerini ifade edebilmeleridir. Doğru cevap B'dir."
+    },
+    {
+        "SoruID": 3257501,
+        "SoruMetni": "Aşağıdakilerden hangisi başarılı sunumun ilkeleri ve tekniklerinden biri değildir?",
+        "A": "Sunum öncesi dinleyici profili öğrenilmelidir",
+        "B": "Sunum okuma şeklinde değil sunum şeklinde gerçekleştirilmelidir",
+        "C": "Sunumda açılış cümleleri dikkat çekici olmalıdır",
+        "D": "Sunumun yirmi dakika sonrasında önemli bilgiler aktarılmalıdır",
+        "E": "Sunumun kapanış cümlelerinde önemli mesajlar verilmelidir",
+        "DogruCevap": "D",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.415974",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Dinleyicilerin konsantrasyon eğrisine dair bilgiler, yirmi dakikadan sonra ciddi oranda dikkat eksilmesi yaşandığını göstermektedir. Buna göre önemli mesajlar, dikkatin yoğun olduğu bölümlerde, yani ilk yirmi dakikada, konuşmanın son bölümünde ya da dinleyicilerin dikkatini çekecek teknikler kullanıldıktan sonra ortaya konulmalıdır. Doğru cevap D'dir."
+    },
+    {
+        "SoruID": 3257503,
+        "SoruMetni": "Aşağıdakilerden hangisi başka dillerden geçen dil bilgisel yapıların doğru kullanımlarından biridir?",
+        "A": "birfiil",
+        "B": "beynamaz",
+        "C": "mürettabatlar",
+        "D": "gidişat",
+        "E": "resmigeçit",
+        "DogruCevap": "E",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.304472",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "resmigeçit doğru kullanılmıştır. Diğer seçeneklerin sırasıyla doğru kullanımı şu şekildedir: bilfiil, bî-namaz, mürettabat, gidiş. Doğru cevap E'dir."
     },
     {
         "SoruID": 3257505,
@@ -118,6 +218,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Konuşma, insanın duygularını, düşüncelerini sese dayalı bir dizge halinde sunması, başka bir deyişle anlamlı parçalara dönüştürülmüş seslerden yararlanarak düşüncelerini ifade etmesidir. Kulağa hitap eden konuşma; verilmek istenen mesajın niteliğine uygun tonlama, vurgu gibi sese dayalı unsurlarla olduğu gibi jest ve mimik gibi bedene dayalı destekleyici unsurlarla birlikte bütünlenir."
+    },
+    {
+        "SoruID": 3257676,
+        "SoruMetni": "\"Boğumlanma; ........................... gibi terimlerle de ifade edilmektedir.\"<br/>Verilen ifadedeki boşluğa aşağıdakilerden hangisi/hangileri gelebilir?",
+        "A": "Sesletim",
+        "B": "Artikülasyon",
+        "C": "Telaffuz",
+        "D": "Sesletim, artikülasyon ve telaffuz",
+        "E": "Artikülasyon ve telaffuz",
+        "DogruCevap": "D",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.336865",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Boğumlanma; telaffuz, artikülasyon, sesletim gibi terimlerle de ifade edilmektedir."
     },
     {
         "SoruID": 3257679,
@@ -161,7 +281,7 @@
     },
     {
         "SoruID": 3257683,
-        "SoruMetni": "\"İletilmek istenen mesaja, oluşturulmak istenen duygu değerine bağlı olarak konuşmacının cümle düzeyinde yaptığı tonlamalardır\"<br/> Verilen ifade aşağıdakilerden hangisini tanımlamaktadır?",
+        "SoruMetni": "\"İletilmek istenen mesaja, oluşturulmak istenen duygu değerine bağlı olarak konuşmacının cümle düzeyinde yaptığı tonlamalardır\"<br/>Verilen ifade aşağıdakilerden hangisini tanımlamaktadır?",
         "A": "Vurgu",
         "B": "Sıklık",
         "C": "Ezgi",
@@ -180,8 +300,68 @@
         "Aciklama": "İletilmek istenen mesaja, oluşturulmak istenen duygu değerine bağlı olarak konuşmacının cümle düzeyinde yaptığı tonlamalara ezgi denir"
     },
     {
+        "SoruID": 3257685,
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>İşitilebilirlik</li> <li>Esneklik</li> <li>Akıcılık</li> <li>Hoşagiderlik</li> </ol> Verilenlerden hangileri doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özelliklerdendir?",
+        "A": "I-II-III",
+        "B": "I-II-IV",
+        "C": "I-III-IV",
+        "D": "I-II-III-IV",
+        "E": "II-III-IV",
+        "DogruCevap": "D",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.265508",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özellikler şöyle sıralanabilir:<br/>• İşitilebilirlik: Konuşmanın sıklığı, tonu, yeğinliği ve tınısı dinleyicinin rahatça işitebileceği nitelikte olmalıdır. Konuşmacıyı sağlıklı bir şekilde işitemeyen dinleyici, dikkatini konuşmanın içeriğine yoğunlaştıramayabilir, sinirlenebilir; dolayısıyla iletişim sorunları yaşanabilir. • Esneklik: Esneklik, ses hacminin değişikliğe bağlı olan ses tonunu ya da perde değişikliğini ifade eder. Konuşmayı aynı tonda, tekdüze olmaktan çıkaran unsurlardan biri, ses hacminin ve perdelerinin karışık olarak kullanılmasıdır (Vural, 2003: 99). Konuşma sırasında kişi, ses aralığını bilmeli ve sesinin pesliğini, tizliğini, tonunu bu ses aralığına göre ayarlamalıdır. • Akıcılık: Konuşma sırasında sesin boğumlanarak sözcüklere dönüştürülmesi ve boğumlanma hızı, iletilmek istenen mesajın hedefe en doğru şekilde ulaşması için iyi ayarlanmalıdır. Konuşmada akıcılığın sağlanması,ayrıca sözcüklerin art arda sesletim hızı ve uyumlu bir şekilde bir araya getirilmesine özen gösterilmesi ile mümkündür. • Hoşagiderlik: Kişi doğru, güzel ve etkili iletişim kurabilmek için ses aralığını, perde genişliğini, tonlamayla sesine katabileceği tınıları, ifadesine katabileceği ezgiyi, sözcükleri söyleyiş hızını öncelikle tanımalı ardından da doğru şekillerde bunlardan yararlanmalıdır."
+    },
+    {
+        "SoruID": 3257687,
+        "SoruMetni": "Aşağıdakilerden hangisi konuşmanın doğru, güzel ve etkili bir şekilde gerçekleşmesi için <strong>kişinin konuşmayla ilgili olarak dikkat etmesi gereken özelliklerden <em>değildir</em></strong><em>?</em>",
+        "A": "Açıklık",
+        "B": "İnandırıcılık",
+        "C": "Doğallık",
+        "D": "İnandırıcılık",
+        "E": "Güzellik",
+        "DogruCevap": "E",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.427806",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Konuşmanın doğru, güzel ve etkili bir şekilde gerçekleşmesi için <strong>kişinin konuşmayla ilgili olarak dikkat etmesi gereken başka özellikler</strong>;<br/>Açıklık Açıklık, konuşmanın hem fizyolojik hem de psikolojik yönüyle ilgilidir. Sesleri doğru çıkarmak, yine o sesleri sözcüklere dönüştürürken doğru boğumlamak, sözcükleri cümlelere dönüştürürken iletilmek istenen mesaja göre doğru vurguları yapmak açık konuşmanın fizyolojik yönünü ilgilendirir ve başarılı bir konuşma için gereklidir. <br/>İçten olmayı gerektiren doğallık, konuşmacının yapmacık sözcük tercihleri ve vurgulara başvurmadan iletmek istediği mesajı karşısındakilere ulaştırması ile mümkün olabilir.<br/>İnandırıcılık, konuşmacının ortaya koyacağı fikirlerin dinleyici tarafından inandırıcı bulunabilmesi için bu fikirlere önce konuşmacının inanmış görünmesi gerekir. <br/>İlginçlik Konuşmanın konusu her zaman ilgi çekici olmayabilir.<br/>Konuşmacının Bilgi ve Donanımı Konuşmacının genellikle ilk ve temel amacı dinleyiciye mesaj, bilgi iletmektir. <br/>Ön Çalışma Başarılı bir konuşmacı dinleyici karşısında konuşmadan önce belirli hazırlık süreçlerini geçirmelidir. <br/>Diğer yandan; doğru, güzel ve iyi bir <strong>sesin sahip olması gereken temel fiziksel özellikler;</strong> işitilebilirlik, esneklik, akıcılık ve <strong>hoşagiderliktir</strong>.<br/>Ancak güzellik bu koşullardan biri değildir."
+    },
+    {
+        "SoruID": 3257689,
+        "SoruMetni": "Aşağıda verilen konuşma türlerinden hangisi tek bir kişi tarafından yapılan konuşmalardandır?",
+        "A": "Açık oturum",
+        "B": "Söylev",
+        "C": "Sempozyum",
+        "D": "Panel",
+        "E": "Kurultay",
+        "DogruCevap": "B",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.391358",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Hazırlıklı konuşma türlerinden söylev, konferans ve açış konuşması tek bir kişi; sempozyum, açık oturum, panel, forum, seminer, kurultay grup tarafından ve belirli bir topluluk karşısında gerçekleşen konuşmalardır."
+    },
+    {
         "SoruID": 3257691,
-        "SoruMetni": "\"Uzmanlık gerektiren bir konuda, bu içeriği anlayabilecek ve sorular yöneltebilecek dinleyici kitlesi karşısında yapılan konuşmalar\"<br/> Verilen ifade aşağıdaki terimlerden hangisini tanımlamaktadır?",
+        "SoruMetni": "\"Uzmanlık gerektiren bir konuda, bu içeriği anlayabilecek ve sorular yöneltebilecek dinleyici kitlesi karşısında yapılan konuşmalar\"<br/>Verilen ifade aşağıdaki terimlerden hangisini tanımlamaktadır?",
         "A": "Konferans",
         "B": "Açık oturum",
         "C": "Panel",
@@ -241,7 +421,7 @@
     },
     {
         "SoruID": 3257770,
-        "SoruMetni": "<br/> <br/> <br/>Bir sesi başka seslerden ayırmamızı sağlayan fiziksel niteliğe ne ad verilir?<br/><br/><br/>",
+        "SoruMetni": "<br/>Bir sesi başka seslerden ayırmamızı sağlayan fiziksel niteliğe ne ad verilir?",
         "A": "Durak",
         "B": "Pes",
         "C": "Ezgi",
@@ -257,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/>Bir sesi başka seslerden ayırmamızı sağlayan fiziksel niteliğe tını ya da renk denir. Bir sesin tınısı, sadece o sesi diğer seslerden ayırma noktasında değil, aynı zamanda kişinin sesine kattığı tını sayesinde konuşmanın içeriğine göre güzel, etkili, kalıcı izler bırakmasını da sağlar. Doğru cevap E'dir.<br/><br/><br/>"
+        "Aciklama": "<br/>Bir sesi başka seslerden ayırmamızı sağlayan fiziksel niteliğe tını ya da renk denir. Bir sesin tınısı, sadece o sesi diğer seslerden ayırma noktasında değil, aynı zamanda kişinin sesine kattığı tını sayesinde konuşmanın içeriğine göre güzel, etkili, kalıcı izler bırakmasını da sağlar. Doğru cevap E'dir."
     },
     {
         "SoruID": 3257771,
@@ -277,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özellikler şöyle sıralanabilir:<br/> <ul> <li>İşitilebilirlik</li> <li>Esneklik</li> <li>Akıcılık</li> <li>Hoşagiderlik</li> </ul> Doğru cevap E'dir."
+        "Aciklama": "Doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özellikler şöyle sıralanabilir:<br/><ul> <li>İşitilebilirlik</li> <li>Esneklik</li> <li>Akıcılık</li> <li>Hoşagiderlik</li> </ul> Doğru cevap E'dir."
     },
     {
         "SoruID": 3257772,
@@ -340,6 +520,46 @@
         "Aciklama": "Jest; belirli hislerin sonucu olarak elde, kolda ve başta meydana gelen hareketlerdir. Doğru cevap D'dir."
     },
     {
+        "SoruID": 3257775,
+        "SoruMetni": "Önceden belirlenen bir konunun, o konuda uzman bir grup kişi tarafından tartışılarak ele alındığı konuşmalara ne ad verilir?",
+        "A": "konferans",
+        "B": "açık konuşma",
+        "C": "söylev",
+        "D": "açık oturum",
+        "E": "panel",
+        "DogruCevap": "D",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.269360",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Önceden belirlenen bir konunun, o konuda uzman bir grup kişi tarafından tartışılarak ele alındığı konuşmalardır. Davet edilen 3 ile 5 konuşmacı, konunun genel olarak veya sadece belirli bir yönüyle uzmanı olabilir ve uzmanı olduğu konuda görüş bildirmek üzere söz alabilir."
+    },
+    {
+        "SoruID": 3257776,
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Topluluk önünce bir düşünceyi açıklamak için yapılır.</li> <li>Ses tonu, jest ve mimiklere özellikle dikkat edilir.</li> <li>Uzman birisi tarafından aynı uzamanlıkta kişilere yapılır.</li> </ol> Yukarıdakilerden hangileri söylevin özellikleri arasında sıralanabilir?",
+        "A": "Yalnız I",
+        "B": "I ve II",
+        "C": "I ve III",
+        "D": "II ve III",
+        "E": "I, II ve III",
+        "DogruCevap": "B",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.271506",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Nutuk, bir düşünceyi belirli bir topluluğa açıklamak veya aşılamak amacıyla açık veya kapalı alanlarda yapılan topluluk konuşmalarından biridir. Kürsüye çıkan kişinin, toplumun değişik kesimlerinden oluşmuş topluluk karşısında etkili bir sunum yapabilmesi için konuşmasında ses tonu, vurgu, jest ve mimiklere özellikle dikkat etmesi gerekir. Konuşmaya coşkunluk katan bu özellikler, topluluğun iknası ve bir amaca yönelik olarak harekete geçirilmesi için önemlidir. Nutukta içerik siyasî, askerî, dinî, ekonomik, kültürel konulara göre oluşturulabilir. Doğru cevap B'dir."
+    },
+    {
         "SoruID": 3257777,
         "SoruMetni": "Aşağıdakilerden hangisi başarılı bir sunumun özellikleri arasında gösterilemez?",
         "A": "Aralıksız bir konuşma olması.",
@@ -377,11 +597,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Konuşma sırasında ifadelerin aralarına takılan ve genellikle düşünülmeden kullanılan bazı sesler, sözcükler veya ifadeler bulunur. Bu asalak sesler ve sözler konuşmadan çıkarıldığında büyük bir çoğunlukla sözlü iletişimde herhangi bir dilsel boşluk oluşmaz.  \"ıı, hı, şey, yani, falan, evet, tamam mı, oldu, işte, artı, dermişim, ondan sonra, neyse, efendime söyleyim, anlatabildim mi vb.\" asalak ses ve sözler konuşmacının dikkat eksikliği ile çok yakından ilişkilidir. Doğru cevap B'dir."
+        "Aciklama": "Konuşma sırasında ifadelerin aralarına takılan ve genellikle düşünülmeden kullanılan bazı sesler, sözcükler veya ifadeler bulunur. Bu asalak sesler ve sözler konuşmadan çıkarıldığında büyük bir çoğunlukla sözlü iletişimde herhangi bir dilsel boşluk oluşmaz. \"ıı, hı, şey, yani, falan, evet, tamam mı, oldu, işte, artı, dermişim, ondan sonra, neyse, efendime söyleyim, anlatabildim mi vb.\" asalak ses ve sözler konuşmacının dikkat eksikliği ile çok yakından ilişkilidir. Doğru cevap B'dir."
     },
     {
         "SoruID": 3257803,
-        "SoruMetni": "Aşağıdaki yanlış anlaşılmaya sebep olan, seçeneklerden hangisidir?<br/> <em>A: Niye görüşmeden çıktı acaba. Ne zorlukla almıştık bu  randevuyu.</em><br/> <em>B: GöRÜŞmeden çıktı demedim ki. GörüşMEden çıktı dedim. </em>",
+        "SoruMetni": "Aşağıdaki yanlış anlaşılmaya sebep olan, seçeneklerden hangisidir?<br/><em>A: Niye görüşmeden çıktı acaba. Ne zorlukla almıştık bu randevuyu.</em><br/><em>B: GöRÜŞmeden çıktı demedim ki. GörüşMEden çıktı dedim. </em>",
         "A": "Ezgi",
         "B": "Vurgu",
         "C": "Ton",
@@ -420,8 +640,28 @@
         "Aciklama": "<strong>Sıklık / Frekans: </strong>Titreşen her nesnenin 1 saniyedeki yalın titreşimleridir. Ölçü birimi Hertz’dir. İnsanlar 20 ile 20 000 Hertz arasındaki ses dalgalarını algılayabilirler. Sıklıkta meydana gelen değişiklikler, kulaktaki seslerin tonunun alçak ve yüksek olarak algılanmasına neden olur. Doğru cevap A’ dır."
     },
     {
+        "SoruID": 3257805,
+        "SoruMetni": "Konuşmayı tekdüze olmaktan çıkarmak için kullanılan unsur aşağıdakilerden hangisidir?",
+        "A": "Vurgu",
+        "B": "İşitebilirlik",
+        "C": "Esneklik",
+        "D": "Akıcılık",
+        "E": "Hoşagiderlik",
+        "DogruCevap": "C",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.273246",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<strong>Esneklik: </strong>Esneklik, ses hacminin değişikliğe bağlı olan ses tonunu ya da perde değişikliğini ifade eder. Konuşmayı aynı tonda, tekdüze olmaktan çıkaran unsurlardan biri, ses hacminin ve perdelerinin karışık olarak kullanılmasıdır Konuşma sırasında kişi, ses aralığını bilmeli. Doğru cevap C’ dir."
+    },
+    {
         "SoruID": 3257806,
-        "SoruMetni": "Aşağıdakilerden hangisi, konuşmanın doğru, güzel ve etkili bir şekilde gerçekleşmesi için dikkat edilmesi gereken özelliklerdendir?<br/> <em>I: Açıklık</em><br/> <em>II: Doğallık</em><br/> <em>III: İnandırıcılık</em>",
+        "SoruMetni": "Aşağıdakilerden hangisi, konuşmanın doğru, güzel ve etkili bir şekilde gerçekleşmesi için dikkat edilmesi gereken özelliklerdendir?<br/><em>I: Açıklık</em><br/><em>II: Doğallık</em><br/><em>III: İnandırıcılık</em>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -537,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Başka dillerden geçen ve tarihî dönemlerde Türkçede kullanılmış olan bazı dil bilgisel yapılar, artık Türkçede yer almadığından ve dolayısıyla çağdaş Türkçe konuşurları için bilişsel düzeyde işlevlerini yitirmiş bulunduklarından, eski örneklerin kalıntısı olarak ne yazık ki yanlış bicimde kullanılmaktadır.<br/>           <img alt=\"\" height=\"125\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/75e4edb6915fb78fcd6d6f9d0800e198.png\" width=\"393\"/><br/> Doğru cevap E’ dir."
+        "Aciklama": "Başka dillerden geçen ve tarihî dönemlerde Türkçede kullanılmış olan bazı dil bilgisel yapılar, artık Türkçede yer almadığından ve dolayısıyla çağdaş Türkçe konuşurları için bilişsel düzeyde işlevlerini yitirmiş bulunduklarından, eski örneklerin kalıntısı olarak ne yazık ki yanlış bicimde kullanılmaktadır.<br/><img alt=\"\" height=\"125\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/75e4edb6915fb78fcd6d6f9d0800e198.png\" width=\"393\"/><br/>Doğru cevap E’ dir."
     },
     {
         "SoruID": 3257835,
@@ -558,6 +798,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Ciğerlerden gönderilen havanın ağız ve burun yolundaki ses aygıtlarının yardımıyla ağızdan çıkarken konuşma sesi biçimlerini almasına boğumlanma denir. Doğru cevap E'dir."
+    },
+    {
+        "SoruID": 3257840,
+        "SoruMetni": "Aşağıdakilerden hangisi ton/tonlama ile ilgili <span style=\"text-decoration: underline;\"><strong>yanlış</strong></span>bir ifadedir?",
+        "A": "Kesin yargılı bildirim cümleleri alçalan tonda olur.",
+        "B": "Cümle içerisinde ara sözler düz bir tonda olur.",
+        "C": "Soru cümleleri yükselen tonda olur.",
+        "D": "Cevaplarda yükselen tonlama olur.",
+        "E": "Bağlama ve anlama göre kayıtsız, alaycı, sinirli vb. tonlar bulunur.",
+        "DogruCevap": "D",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.395058",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kesin yargılı bildirim cümlelerinin alçalan tonda olduğu, cümle içerisinde ara sözlerin düz bir tonda belirtildiği, soru cümlelerinde yükselen, cevaplarda alçalan tonlama olduğu, bağlama ve anlama göre kayıtsız, alaycı, sinirli vb. tonların bulunduğu görülmektedir (Eker, 2005: 323). Doğru cevap D'dir."
     },
     {
         "SoruID": 3257842,
@@ -592,7 +852,7 @@
         "Unite": 8,
         "Somestre": "4",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:21:45.964646",
+        "OlusturmaTarihi": "2025-12-01T04:18:49.327941",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -661,7 +921,7 @@
     },
     {
         "SoruID": 3257847,
-        "SoruMetni": "Aşağıdakilerden hangisi ünlü ile başlayan ek aldığında  Türkçenin ünlü uyumuna göre kalın sıradan ünlülerle söylenmesi gerekirken ince sıradan ünlülerle söylenmektedir?",
+        "SoruMetni": "Aşağıdakilerden hangisi ünlü ile başlayan ek aldığında Türkçenin ünlü uyumuna göre kalın sıradan ünlülerle söylenmesi gerekirken ince sıradan ünlülerle söylenmektedir?",
         "A": "Kanıt",
         "B": "Ağıl",
         "C": "Kabahat",
@@ -677,11 +937,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dilimize Arapçadan geçen \"Kabahat\" sözcüğü kalın ünlü ile bittiği halde t sesinin inceltici özelliği nedeniyle  ince ünlü ile devam eder. Örneğin kabahati... Doğru cevap C'dir."
+        "Aciklama": "Dilimize Arapçadan geçen \"Kabahat\" sözcüğü kalın ünlü ile bittiği halde t sesinin inceltici özelliği nedeniyle ince ünlü ile devam eder. Örneğin kabahati... Doğru cevap C'dir."
     },
     {
         "SoruID": 3257848,
-        "SoruMetni": "I. adele<br/> II. hafakan<br/> III. amfi<br/> IV. acemî<br/> Yukarıdaki sözcüklerden hangileri doğru yazılmıştır?",
+        "SoruMetni": "I. adele<br/>II. hafakan<br/>III. amfi<br/>IV. acemî<br/>Yukarıdaki sözcüklerden hangileri doğru yazılmıştır?",
         "A": "I ve II",
         "B": "II ve III",
         "C": "III ve IV",
@@ -698,6 +958,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Soruda verilen sözcüklerin doğru yazılışları sırasıyla adale, hafakan, amfi ve acemidir. Doğru cevap B'dir."
+    },
+    {
+        "SoruID": 3257849,
+        "SoruMetni": "<em>Sinerji</em> sözcüğünün Türkçe karşılığı aşağıdakilerden hangisidir?",
+        "A": "Dayanışma",
+        "B": "Uzlaşma",
+        "C": "Eğilim",
+        "D": "Bağlantı",
+        "E": "Kışkırtma",
+        "DogruCevap": "A",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.313843",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Sinerji sözcüğünün Türkçesi dayanışmadır. Doğru cevap A'dır."
     },
     {
         "SoruID": 3257914,
@@ -860,6 +1140,26 @@
         "Aciklama": "Doru yanıt B şıkkıdır."
     },
     {
+        "SoruID": 3257980,
+        "SoruMetni": "<span style=\"left: 90.756px; top: 544.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.701478);\"> İnsan dilinin </span><span style=\"left: 90.756px; top: 559.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.731069);\">toplumsal yönünü ifade </span><span style=\"left: 90.756px; top: 574.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.732222);\">eden dil </span><span style=\"left: 130.296px; top: 574.209px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.731604);\">(langue)</span><span style=\"left: 169.071px; top: 574.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.711296);\"> ile bireysel </span><span style=\"left: 90.756px; top: 589.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.7036);\">yönünü ifade eden söz </span><span style=\"left: 90.756px; top: 604.209px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.7197);\">(parole)</span><span style=\"left: 126.741px; top: 604.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.706163);\"> arasındaki farka ve </span><span style=\"left: 90.756px; top: 619.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.701969);\">aynı zamanda konuşan (veya </span><span style=\"left: 90.756px; top: 634.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.727324);\">yazan) bireyin var olan dili </span><span style=\"left: 90.756px; top: 649.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.726844);\">özgün kullanımına işaret </span><span style=\"left: 90.756px; top: 664.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.75169);\">etmiş olan bilim insanı aşağıdakilerden hangisidir?<br/></span>",
+        "A": "<span style=\"font-family: verdana; font-size: 13px;\">Noam Chomsky</span>",
+        "B": "<span style=\"font-family: verdana; font-size: 13px;\">Wilhelm von Humboldt</span>",
+        "C": "Ferdinand de Saussoure",
+        "D": "<span style=\"font-family: verdana; font-size: 13px;\">Karl Brugmann</span>",
+        "E": "<span style=\"font-family: verdana; font-size: 13px;\">Jacob Grimm</span>",
+        "DogruCevap": "C",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.441688",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<span style=\"left: 90.756px; top: 499.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.695493);\">19. yüzyılda çağdaş </span><span style=\"left: 90.756px; top: 514.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.740415);\">dilbiliminin kurucusu olarak </span><span style=\"left: 90.756px; top: 529.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.723926);\">bu ayrımı ortaya koyan </span><span style=\"left: 90.756px; top: 544.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.701478);\">Saussoure, insan dilinin </span><span style=\"left: 90.756px; top: 559.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.731069);\">toplumsal yönünü ifade </span><span style=\"left: 90.756px; top: 574.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.732222);\">eden dil </span><span style=\"left: 130.296px; top: 574.209px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.731604);\">(langue)</span><span style=\"left: 169.071px; top: 574.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.711296);\"> ile bireysel </span><span style=\"left: 90.756px; top: 589.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.7036);\">yönünü ifade eden söz </span><span style=\"left: 90.756px; top: 604.209px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.7197);\">(parole)</span><span style=\"left: 126.741px; top: 604.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.706163);\"> arasındaki farka ve </span><span style=\"left: 90.756px; top: 619.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.701969);\">aynı zamanda konuşan (veya </span><span style=\"left: 90.756px; top: 634.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.727324);\">yazan) bireyin var olan dili </span><span style=\"left: 90.756px; top: 649.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.726844);\">özgün kullanımına işaret </span><span style=\"left: 90.756px; top: 664.194px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.75169);\">etmektedir.</span>"
+    },
+    {
         "SoruID": 3257981,
         "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Ezgi</li> <li>Frekans</li> <li>Tonlama</li> </ol> Verilenlerden hangisi konuşma ve güzel konuşma ile ilgili temel kavramlar arasında yer alır?",
         "A": "Yalnız I",
@@ -877,7 +1177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"left: 108.661px; top: 146.003px; font-size: 21.6667px; font-family: sans-serif; transform: scaleX(0.99492);\">Sıklık / Frekans<br/></span><span style=\"left: 108.661px; top: 170.966px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.964328);\">Titreşen her nesnenin 1 saniyedeki yalın titreşimleridir. <br/><span style=\"left: 108.661px; top: 300.966px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.99828);\">Titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna <strong>tonlama</strong> denir</span><br/><span style=\"left: 108.661px; top: 669.306px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.953772);\">İletilmek istenen mesaja, oluşturulmak istenen duygu değe-</span><span style=\"left: 108.661px; top: 690.976px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.01776);\">rine bağlı olarak konuşmacının cümle düzeyinde yaptığı tonlamalara <strong>ezgi</strong> denir</span>.<br/><br/></span>"
+        "Aciklama": "<span style=\"left: 108.661px; top: 146.003px; font-size: 21.6667px; font-family: sans-serif; transform: scaleX(0.99492);\">Sıklık / Frekans<br/></span><span style=\"left: 108.661px; top: 170.966px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.964328);\">Titreşen her nesnenin 1 saniyedeki yalın titreşimleridir. <br/><span style=\"left: 108.661px; top: 300.966px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.99828);\">Titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna <strong>tonlama</strong> denir</span><br/><span style=\"left: 108.661px; top: 669.306px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.953772);\">İletilmek istenen mesaja, oluşturulmak istenen duygu değe-</span><span style=\"left: 108.661px; top: 690.976px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.01776);\">rine bağlı olarak konuşmacının cümle düzeyinde yaptığı tonlamalara <strong>ezgi</strong> denir</span>.<br/></span>"
     },
     {
         "SoruID": 3257982,
@@ -937,7 +1237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<h5><span style=\"left: 108.661px; top: 424.748px; font-size: 10pt; font-family: sans-serif; transform: scaleX(0.911102);\"><span style=\"left: 108.661px; top: 429.739px; font-family: sans-serif; transform: scaleX(0.911102);\">DOĞRU, GÜZEL VE ETKİLİ KONUŞMANIN TEMEL </span><span style=\"left: 108.661px; top: 451.406px; font-family: sans-serif; transform: scaleX(0.898931);\">İLKELERİ<br/><span style=\"left: 108.661px; top: 581.406px; font-size: 21.6667px; font-family: sans-serif; transform: scaleX(1.01573);\">Açıklık </span><br/><span style=\"left: 108.661px; top: 819.739px; font-size: 21.6667px; font-family: sans-serif; transform: scaleX(1.03501);\">Doğallık </span><br/><span style=\"left: 108.661px; top: 971.406px; font-size: 21.6667px; font-family: sans-serif; transform: scaleX(1.05602);\">İnandırıcılık</span><br/><span style=\"left: 245.669px; top: 150.994px; font-size: 21.6667px; font-family: sans-serif; transform: scaleX(1.11002);\">İlginçlik</span><br/></span></span></h5><br/><span style=\"left: 108.661px; top: 446.414px; font-size: 21.6667px; font-family: sans-serif; transform: scaleX(0.898931);\"><span style=\"left: 245.669px; top: 146.003px; font-size: 21.6667px; font-family: sans-serif; transform: scaleX(1.11002);\"><span style=\"left: 269.283px; top: 909.109px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.994133);\">Doğru, güzel, iyi bir <strong>sesin</strong> sahip olması gereken temel fiziksel özellikler şöyle </span><span style=\"left: 245.669px; top: 930.779px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.993937);\">sıralanabilir:<br/></span><span style=\"left: 269.283px; top: 952.449px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.02833);\">• </span><span style=\"left: 292.896px; top: 952.449px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.04962);\">İşitilebilirlik</span><span style=\"left: 292.896px; top: 974.119px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.938323);\"><br/><span style=\"left: 269.283px; top: 1039.13px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.02833);\">• </span><span style=\"left: 292.896px; top: 1039.13px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.01874);\">Esneklik</span><br/><span style=\"left: 269.283px; top: 1147.48px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.02833);\">• </span><span style=\"left: 292.896px; top: 1147.48px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.01449);\">Akıcılık</span><br/><span style=\"left: 132.292px; top: 194.099px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.02833);\">• </span><span style=\"left: 155.906px; top: 194.099px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.04395);\">Hoşagiderlik</span><br/></span></span></span><br/>"
+        "Aciklama": "<h5><span style=\"left: 108.661px; top: 424.748px; font-size: 10pt; font-family: sans-serif; transform: scaleX(0.911102);\"><span style=\"left: 108.661px; top: 429.739px; font-family: sans-serif; transform: scaleX(0.911102);\">DOĞRU, GÜZEL VE ETKİLİ KONUŞMANIN TEMEL </span><span style=\"left: 108.661px; top: 451.406px; font-family: sans-serif; transform: scaleX(0.898931);\">İLKELERİ<br/><span style=\"left: 108.661px; top: 581.406px; font-size: 21.6667px; font-family: sans-serif; transform: scaleX(1.01573);\">Açıklık </span><br/><span style=\"left: 108.661px; top: 819.739px; font-size: 21.6667px; font-family: sans-serif; transform: scaleX(1.03501);\">Doğallık </span><br/><span style=\"left: 108.661px; top: 971.406px; font-size: 21.6667px; font-family: sans-serif; transform: scaleX(1.05602);\">İnandırıcılık</span><br/><span style=\"left: 245.669px; top: 150.994px; font-size: 21.6667px; font-family: sans-serif; transform: scaleX(1.11002);\">İlginçlik</span><br/></span></span></h5><br/><span style=\"left: 108.661px; top: 446.414px; font-size: 21.6667px; font-family: sans-serif; transform: scaleX(0.898931);\"><span style=\"left: 245.669px; top: 146.003px; font-size: 21.6667px; font-family: sans-serif; transform: scaleX(1.11002);\"><span style=\"left: 269.283px; top: 909.109px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.994133);\">Doğru, güzel, iyi bir <strong>sesin</strong> sahip olması gereken temel fiziksel özellikler şöyle </span><span style=\"left: 245.669px; top: 930.779px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.993937);\">sıralanabilir:<br/></span><span style=\"left: 269.283px; top: 952.449px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.02833);\">• </span><span style=\"left: 292.896px; top: 952.449px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.04962);\">İşitilebilirlik</span><span style=\"left: 292.896px; top: 974.119px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.938323);\"><br/><span style=\"left: 269.283px; top: 1039.13px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.02833);\">• </span><span style=\"left: 292.896px; top: 1039.13px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.01874);\">Esneklik</span><br/><span style=\"left: 269.283px; top: 1147.48px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.02833);\">• </span><span style=\"left: 292.896px; top: 1147.48px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.01449);\">Akıcılık</span><br/><span style=\"left: 132.292px; top: 194.099px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.02833);\">• </span><span style=\"left: 155.906px; top: 194.099px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.04395);\">Hoşagiderlik</span><br/></span></span></span>"
     },
     {
         "SoruID": 3257986,
@@ -961,7 +1261,7 @@
     },
     {
         "SoruID": 3257987,
-        "SoruMetni": "<span style=\"left: 108.661px; top: 1143.04px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.01764);\">Önceden belirlenen bir konunun, o konuda uzman bir grup kişi tarafından tartı</span><span style=\"left: 108.661px; top: 1164.71px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.98445);\">şılarak ele alındığı konuşmalardır. Davet edilen 3 ile 5 konuşmacı, konunun genel </span><span style=\"left: 108.661px; top: 1186.38px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.00885);\">olarak veya sadece belirli bir yönüyle uzmanı olabilir ve uzmanı olduğu konuda</span> <span style=\"left: 245.669px; top: 146.378px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.005);\">görüş bildirmek üzere söz alabilir.</span> B<span style=\"left: 269.283px; top: 276.398px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.929182);\">elirli bir salonda ve hazır bulunan dinleyici kitle karşısında </span><span style=\"left: 245.669px; top: 298.068px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.915454);\">olabildiği gibi, televizyon veya radyoda hatta bilgisayar aracılığıyla internet kulla</span><span style=\"left: 245.669px; top: 319.738px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.973716);\">nıcısı karşısında da gerçekleştirilebilir. </span><span style=\"left: 245.669px; top: 319.738px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.973716);\">Birden fazla konuşmacı yer aldığından</span><span style=\"left: 245.669px; top: 341.408px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.999537);\"> bir yöneticisi (başkanı/moderatörü) olur. </span><br/> <span style=\"left: 245.669px; top: 341.408px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.999537);\">Yukarıda bahsedilen konuşma türü verilenlerden hangisidir?</span>",
+        "SoruMetni": "<span style=\"left: 108.661px; top: 1143.04px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.01764);\">Önceden belirlenen bir konunun, o konuda uzman bir grup kişi tarafından tartı</span><span style=\"left: 108.661px; top: 1164.71px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.98445);\">şılarak ele alındığı konuşmalardır. Davet edilen 3 ile 5 konuşmacı, konunun genel </span><span style=\"left: 108.661px; top: 1186.38px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.00885);\">olarak veya sadece belirli bir yönüyle uzmanı olabilir ve uzmanı olduğu konuda</span> <span style=\"left: 245.669px; top: 146.378px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.005);\">görüş bildirmek üzere söz alabilir.</span> B<span style=\"left: 269.283px; top: 276.398px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.929182);\">elirli bir salonda ve hazır bulunan dinleyici kitle karşısında </span><span style=\"left: 245.669px; top: 298.068px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.915454);\">olabildiği gibi, televizyon veya radyoda hatta bilgisayar aracılığıyla internet kulla</span><span style=\"left: 245.669px; top: 319.738px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.973716);\">nıcısı karşısında da gerçekleştirilebilir. </span><span style=\"left: 245.669px; top: 319.738px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.973716);\">Birden fazla konuşmacı yer aldığından</span><span style=\"left: 245.669px; top: 341.408px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.999537);\"> bir yöneticisi (başkanı/moderatörü) olur. </span><br/><span style=\"left: 245.669px; top: 341.408px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.999537);\">Yukarıda bahsedilen konuşma türü verilenlerden hangisidir?</span>",
         "A": "Konferans",
         "B": "Açış Konuşması",
         "C": "Sempozyum",
@@ -1001,7 +1301,7 @@
     },
     {
         "SoruID": 3257989,
-        "SoruMetni": "<span style=\"left: 269.291px; top: 456.339px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.976995);\">Türkçeye başka dillerden yapılan anlam kopyalamalarında adlar, zaman zaman </span><span style=\"left: 245.678px; top: 477.001px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.986124);\">verici dilin etkisi sonucu, yanlış yardımcı eylemlerle birlikte kullanıma çıkmakta</span><span style=\"left: 245.678px; top: 497.663px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.00178);\">dır. Bu şekilde yanlış kullanılan sözcükleri, Türkçede doğru yardımcı eylemlerle </span><span style=\"left: 245.678px; top: 518.324px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.978081);\">veya eylem yapım ekleriyle kullanmak gerekir</span>.<br/><br/>Buna göre aşağıdakilerden hangisinin kullanımı doğrudur?",
+        "SoruMetni": "<span style=\"left: 269.291px; top: 456.339px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.976995);\">Türkçeye başka dillerden yapılan anlam kopyalamalarında adlar, zaman zaman </span><span style=\"left: 245.678px; top: 477.001px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.986124);\">verici dilin etkisi sonucu, yanlış yardımcı eylemlerle birlikte kullanıma çıkmakta</span><span style=\"left: 245.678px; top: 497.663px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.00178);\">dır. Bu şekilde yanlış kullanılan sözcükleri, Türkçede doğru yardımcı eylemlerle </span><span style=\"left: 245.678px; top: 518.324px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.978081);\">veya eylem yapım ekleriyle kullanmak gerekir</span>.<br/>Buna göre aşağıdakilerden hangisinin kullanımı doğrudur?",
         "A": "<span style=\"left: 245.678px; top: 848.691px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.984674);\">Sahne almak</span>",
         "B": "Duş almak",
         "C": "Panik yapmak",
@@ -1017,7 +1317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"left: 245.678px; top: 600.201px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.680166);\">Ya n l ı ş</span><span style=\"left: 291.511px; top: 600.201px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.753697);\">                  Doğru<br/></span><span style=\"left: 245.678px; top: 621.413px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.984804);\">açıklama                 yapmak </span><span style=\"left: 485.68px; top: 621.413px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.982212);\">açıklama<br/>k</span><span style=\"left: 245.678px; top: 642.074px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.769184);\">alkış almak           alkışlanmak<br/></span><span style=\"left: 245.678px; top: 662.736px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.733453);\">beğeni almak          beğenilmek<br/></span><span style=\"left: 245.678px; top: 683.398px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.683077);\">bekleme yapmak    beklemek<br/></span><span style=\"left: 245.678px; top: 704.059px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.779992);\">duş almak               yıkanmak<br/></span><span style=\"left: 245.678px; top: 724.721px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.74198);\">etki yapmak           etkilemek<br/></span><span style=\"left: 245.678px; top: 745.383px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.960025);\">içki almak              </span><span style=\"left: 485.678px; top: 745.383px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.924496);\">içki içmek<br/></span><span style=\"left: 245.678px; top: 766.044px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.753357);\">istek almak            istenmek<br/></span><span style=\"left: 245.678px; top: 786.706px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.97715);\">katkı yapmak         </span><span style=\"left: 485.678px; top: 786.706px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.996992);\">katkıda bulunmak<br/></span><span style=\"left: 245.678px; top: 807.368px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.982496);\">konuşma yapmak   </span><span style=\"left: 485.678px; top: 807.368px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.977399);\">konuşmak<br/></span><span style=\"left: 245.678px; top: 828.029px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.983626);\">panik yapmak         </span><span style=\"left: 485.678px; top: 828.029px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.967867);\">paniğe kapılmak<br/></span><span style=\"left: 245.678px; top: 848.691px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.984674);\">sahne almak            </span><span style=\"left: 485.678px; top: 848.691px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.955776);\">sahneye çıkmak</span>"
+        "Aciklama": "<span style=\"left: 245.678px; top: 600.201px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.680166);\">Ya n l ı ş</span><span style=\"left: 291.511px; top: 600.201px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.753697);\"> Doğru<br/></span><span style=\"left: 245.678px; top: 621.413px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.984804);\">açıklama yapmak </span><span style=\"left: 485.68px; top: 621.413px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.982212);\">açıklama<br/>k</span><span style=\"left: 245.678px; top: 642.074px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.769184);\">alkış almak alkışlanmak<br/></span><span style=\"left: 245.678px; top: 662.736px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.733453);\">beğeni almak beğenilmek<br/></span><span style=\"left: 245.678px; top: 683.398px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.683077);\">bekleme yapmak beklemek<br/></span><span style=\"left: 245.678px; top: 704.059px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.779992);\">duş almak yıkanmak<br/></span><span style=\"left: 245.678px; top: 724.721px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.74198);\">etki yapmak etkilemek<br/></span><span style=\"left: 245.678px; top: 745.383px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.960025);\">içki almak </span><span style=\"left: 485.678px; top: 745.383px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.924496);\">içki içmek<br/></span><span style=\"left: 245.678px; top: 766.044px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.753357);\">istek almak istenmek<br/></span><span style=\"left: 245.678px; top: 786.706px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.97715);\">katkı yapmak </span><span style=\"left: 485.678px; top: 786.706px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.996992);\">katkıda bulunmak<br/></span><span style=\"left: 245.678px; top: 807.368px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.982496);\">konuşma yapmak </span><span style=\"left: 485.678px; top: 807.368px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.977399);\">konuşmak<br/></span><span style=\"left: 245.678px; top: 828.029px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.983626);\">panik yapmak </span><span style=\"left: 485.678px; top: 828.029px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.967867);\">paniğe kapılmak<br/></span><span style=\"left: 245.678px; top: 848.691px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.984674);\">sahne almak </span><span style=\"left: 485.678px; top: 848.691px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.955776);\">sahneye çıkmak</span>"
     },
     {
         "SoruID": 3258016,
@@ -1052,7 +1352,7 @@
         "Unite": 8,
         "Somestre": "4",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:21:45.953251",
+        "OlusturmaTarihi": "2025-12-01T04:18:49.323224",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1117,7 +1417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“ Durağanlık” doğru, güzel ve etkili konuşmanın ilkelerinden biri değildir. Doğru cevap B’dir."
+        "Aciklama": "“ Durağanlık” doğru, güzel ve etkili konuşmanın ilkelerinden biri değildir. Doğru cevap B’dir."
     },
     {
         "SoruID": 3258050,
@@ -1237,7 +1537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna ezgi değil tonlama denir. İletilmek istenen mesaja, oluşturulmak istenen duygu değerine bağlı olarak konuşmacının cümle düzeyinde yaptığı tonlamalara <strong>ezgi</strong> denir."
+        "Aciklama": "Ezgi, titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna denir.<br>Titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna ezgi değil tonlama denir. İletilmek istenen mesaja, oluşturulmak istenen duygu değerine bağlı olarak konuşmacının cümle düzeyinde yaptığı tonlamalara <strong>ezgi</strong> denir."
     },
     {
         "SoruID": 3258107,
@@ -1321,7 +1621,7 @@
     },
     {
         "SoruID": 3258111,
-        "SoruMetni": "“Doğa bilimlerinden sanata, edebiyattan teknik alanlara, eğitimden siyasete kadar uzmanlık gerektiren herhangi bir konuda, bu içeriği anlayabilecek ve sorular yöneltebilecek dinleyici kitlesi karşısında yapılan konuşmalardandır.<br/> Konunun uzmanı bir kişi, bu özellikteki dinleyici kitlesinin beklentilerine uygun olarak konuşmasını bilimsel veriler, analizler ve yargılar ile sunar. Bu konuşma türüne genellikle bilimsel faaliyet yürüten veya bu nitelikte faaliyetlere gereksinim duyan resmî veya özel kurum ve kuruluşlar ev sahipliği yapar; bu konuşma türünün sunum süresi genellikle 45 dakika-1 saat olarak tercih edilir.”<br/> Aşağıdakilerden hangisi bu özellikleri barındıran bir konuşma türüdür?",
+        "SoruMetni": "“Doğa bilimlerinden sanata, edebiyattan teknik alanlara, eğitimden siyasete kadar uzmanlık gerektiren herhangi bir konuda, bu içeriği anlayabilecek ve sorular yöneltebilecek dinleyici kitlesi karşısında yapılan konuşmalardandır.<br/>Konunun uzmanı bir kişi, bu özellikteki dinleyici kitlesinin beklentilerine uygun olarak konuşmasını bilimsel veriler, analizler ve yargılar ile sunar. Bu konuşma türüne genellikle bilimsel faaliyet yürüten veya bu nitelikte faaliyetlere gereksinim duyan resmî veya özel kurum ve kuruluşlar ev sahipliği yapar; bu konuşma türünün sunum süresi genellikle 45 dakika-1 saat olarak tercih edilir.”<br/>Aşağıdakilerden hangisi bu özellikleri barındıran bir konuşma türüdür?",
         "A": "Açık Oturum",
         "B": "Panel",
         "C": "Konferans",
@@ -1352,7 +1652,7 @@
         "Unite": 8,
         "Somestre": "4",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:21:45.904399",
+        "OlusturmaTarihi": "2025-12-01T04:18:49.324997",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1378,6 +1678,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Bir konu, konunun uzmanı olan 3 ile 5 konuşmacı tarafından tartışılarak ele alınır."
+    },
+    {
+        "SoruID": 3258114,
+        "SoruMetni": "Aşağıdakilerden hangisi sözlü sunum sırasında dinleyicinin dikkatini çekmeye yönelik tekniklerden biri <strong>olamaz?</strong>",
+        "A": "Kısaltmaların, jargonların kullanılması",
+        "B": "Sunulan önerilerin dinleyicilere nasıl avantajlar sağladığına değinilmesi",
+        "C": "Dinleyicilere sunumla ilgili soruların sorulması",
+        "D": "Beden dilinin anlaşılırlığa hizmet edecek şekilde etkin kullanılması",
+        "E": "Anlatılanların sözlü resimlere çevrilerek ifade edilmeye çalışılması",
+        "DogruCevap": "A",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.421244",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kısaltmaların, jargonların kullanılması"
     },
     {
         "SoruID": 3258115,
@@ -1417,7 +1737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": ""
+        "Aciklama": "Konuşma türlerini ayırt edebileceksiniz."
     },
     {
         "SoruID": 3258256,
@@ -1437,7 +1757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yukarıdaki tanımların hepsi sözlü iletişim ortamında bireyin uyması gereken kurallardandır. Dolayısıyla doğru cevap E seçeneğidir."
+        "Aciklama": "Konuşma türlerini ayırt edebileceksiniz.<br>Yukarıdaki tanımların hepsi sözlü iletişim ortamında bireyin uyması gereken kurallardandır. Dolayısıyla doğru cevap E seçeneğidir."
     },
     {
         "SoruID": 3258257,
@@ -1457,7 +1777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İş görüşmesi sırasında yapılan konuşmalar ile ilgili belirli hazırlıklar yapılabilse de bu konuşmaların içeriği, takınılan tutum bakımından standartları olamayacağından iş görüşmelerini topluluk karşısında yapılan hazırlıklı konuşmalardan ayrı ele almak gerekir. Dolayısıyla Doğru cevap A seçeneğidir."
+        "Aciklama": "Konuşma türlerini ayırt edebileceksiniz.<br>İş görüşmesi sırasında yapılan konuşmalar ile ilgili belirli hazırlıklar yapılabilse de bu konuşmaların içeriği, takınılan tutum bakımından standartları olamayacağından iş görüşmelerini topluluk karşısında yapılan hazırlıklı konuşmalardan ayrı ele almak gerekir. Dolayısıyla Doğru cevap A seçeneğidir."
     },
     {
         "SoruID": 3258258,
@@ -1477,7 +1797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yukarıdaki ifade hazırlıklı konuşma türlerinden münazarayı tanımlamaktadır. Dolayısıyla doğru cevap C seçeneğidir."
+        "Aciklama": "Konuşma türlerini ayırt edebileceksiniz.<br>Yukarıdaki ifade hazırlıklı konuşma türlerinden münazarayı tanımlamaktadır. Dolayısıyla doğru cevap C seçeneğidir."
     },
     {
         "SoruID": 3258281,
@@ -1497,7 +1817,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özellikler işitilebilirlik, esneklik, akıcılık ve hoşagiderliktir."
+        "Aciklama": "Doğru, güzel ve etkili konuşmada olması gereken temel içerik özelliklerini betimleyebileceksiniz.<br>Doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özellikler işitilebilirlik, esneklik, akıcılık ve hoşagiderliktir."
+    },
+    {
+        "SoruID": 3258282,
+        "SoruMetni": "Duygulara daha fazla yer veren üslup aşağıdakilerden hangisidir?",
+        "A": "Ziyafet üslubu",
+        "B": "Ayrık üslup",
+        "C": "Keskin üslüp",
+        "D": "Hissi üslup",
+        "E": "Delil üslubu",
+        "DogruCevap": "D",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.351788",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Doğru, güzel ve etkili konuşmada olması gereken temel içerik özelliklerini betimleyebileceksiniz.<br>Duygulara daha fazla yer veren üsluba hissi üslup denir."
     },
     {
         "SoruID": 3258463,
@@ -1517,7 +1857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sıklık"
+        "Aciklama": "Sıklık / Frekans:<br/>Titreşen her nesnenin 1 saniyedeki yalın titreşimleridir. Ölçü birimi Hertz’dir."
     },
     {
         "SoruID": 3258464,
@@ -1537,7 +1877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ezgi"
+        "Aciklama": "<strong>İ</strong><strong>letilmek istenen mesaja, olu</strong><strong>ş</strong><strong>turulmak istenen duygu de</strong><strong>ğ</strong><strong>erine ba</strong><strong>ğ</strong><strong>l</strong><strong>ı</strong><strong> olarak konu</strong><strong>ş</strong><strong>mac</strong><strong>ı</strong><strong>n</strong><strong>ı</strong><strong>n c</strong><strong>ü</strong><strong>mle d</strong><strong>ü</strong><strong>zeyinde yapt</strong><strong>ığı</strong><strong> tonlamalara ezgi adı verilir. </strong>"
     },
     {
         "SoruID": 3258465,
@@ -1557,7 +1897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Açıklık"
+        "Aciklama": "<strong>Açıklık, </strong><strong>konu</strong><strong>ş</strong><strong>man</strong><strong>ı</strong><strong>n hem fizyolojik hem de psikolojik y</strong><strong>ö</strong><strong>n</strong><strong>ü</strong><strong>yle ilgilidir.</strong>"
     },
     {
         "SoruID": 3258466,
@@ -1577,6 +1917,26 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ağır başlı, azametli, keskin, hiddetli, ne çok ciddi ne çok gergin olmayan, meclislerde kendiliğinden oluşan, konuşmada eğlenceli, nazik ve orijinal özellikler taşımaya dayalı"
+        "Aciklama": "Ağır başlı, azametli, keskin, hiddetli, ne çok ciddi ne çok gergin olmayan, meclislerde kendiliğinden oluşan, konuşmada eğlenceli, nazik ve orijinal özellikler taşımaya dayalı ziyafet üslubu."
+    },
+    {
+        "SoruID": 3258467,
+        "SoruMetni": "<strong>A</strong><strong>ş</strong><strong>a</strong><strong>ğı</strong><strong>dakilerden hangisi bilim ve sanat alanlar</strong><strong>ı</strong><strong>nda genel veya belirli bir tema etraf</strong><strong>ı</strong><strong>nda sunum yapmak </strong><strong>ü</strong><strong>zere bir araya gelen alan uzmanlar</strong><strong>ı</strong><strong>n</strong><strong>ı</strong><strong>n topluluk kar</strong><strong>şı</strong><strong>s</strong><strong>ı</strong><strong>nda ger</strong><strong>ç</strong><strong>ekle</strong><strong>ş</strong><strong>tirdikleri konu</strong><strong>ş</strong><strong>ma t</strong><strong>ü</strong><strong>r</strong><strong>ü</strong><strong>d</strong><strong>ü</strong><strong>r?</strong>",
+        "A": "Sempozyum",
+        "B": "Forum",
+        "C": "Panel",
+        "D": "Açık oturum",
+        "E": "Konferans",
+        "DogruCevap": "A",
+        "DersAd": "Türk Dili II",
+        "Unite": 8,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:11:36.297568",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<strong>Bilim ve sanat alanlar</strong><strong>ı</strong><strong>nda genel veya belirli bir tema etraf</strong><strong>ı</strong><strong>nda sunum yapmak </strong><strong>ü</strong><strong>zere bir araya gelen alan uzmanlar</strong><strong>ı</strong><strong>n</strong><strong>ı</strong><strong>n topluluk kar</strong><strong>şı</strong><strong>s</strong><strong>ı</strong><strong>nda ger</strong><strong>ç</strong><strong>ekle</strong><strong>ş</strong><strong>tirdikleri konu</strong><strong>ş</strong><strong>ma t</strong><strong>ü</strong><strong>r</strong><strong>ü sempozyumdur. </strong>"
     }
 ]

@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgisayarların ayrılmaz parçası olan monitörler de çözünürlük, renk kalitesi, kontrast oranları ve boyut olarak devamlı değişmekte ve gelişmektedir. Anakart bilgisayar donanımındadır."
+        "Aciklama": "BİLGİSAYARLAR VE MONİTÖRLER<br>Bilgisayarların ayrılmaz parçası olan monitörler de çözünürlük, renk kalitesi, kontrast oranları ve boyut olarak devamlı değişmekte ve gelişmektedir. Anakart bilgisayar donanımındadır."
     },
     {
         "SoruID": 3353136,
@@ -257,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgisayarı oluşturan bütün fiziksel parçalara (işlemci, ekran, sabit disk, fare, klavye, ekran…) donanım adı verilir. MacOS bir yazılımdır"
+        "Aciklama": "Bilgisayarlar<br>Bilgisayarı oluşturan bütün fiziksel parçalara (işlemci, ekran, sabit disk, fare, klavye, ekran…) donanım adı verilir. MacOS bir yazılımdır"
     },
     {
         "SoruID": 3353137,
-        "SoruMetni": "Aşağıdakilerden hangisi geçici bellek birimidir?",
+        "SoruMetni": "Aşağıdakilerden hangisi geçici bellek birimidir?",
         "A": "Hard Disk",
         "B": "DVD",
         "C": "RAM",
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "RAM geçici bellek birimidir"
+        "Aciklama": "Bilgisayarlar<br>RAM geçici bellek birimidir"
     },
     {
         "SoruID": 3353138,
@@ -297,7 +297,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "şletim sistemleri içerisinde çalışan ve çeşitli işlevleri olan yazılımlara ise uygulama yazılımları (program) denir. Photoshop, chrome, word, premiere gibi bilgisayarda kullandığımız tüm programlar birer uygulama yazılımıdır"
+        "Aciklama": "BİLGİSAYARLAR VE MONİTÖRLER<br>şletim sistemleri içerisinde çalışan ve çeşitli işlevleri olan yazılımlara ise uygulama yazılımları (program) denir. Photoshop, chrome, word, premiere gibi bilgisayarda kullandığımız tüm programlar birer uygulama yazılımıdır"
+    },
+    {
+        "SoruID": 3353139,
+        "SoruMetni": "Monitör özellikleri ile ilgili olarak aşağıdakilerden hangisi doğru değildir?",
+        "A": "Çözünürlük arttıkça netlik azalır ve görüntü bozulur.",
+        "B": "Monitörlerde görüntü, ışık ile oluşturulur.",
+        "C": "Monitör büyüklükleri inç birimi üzerinden ölçülendirilir.",
+        "D": "Oyun oynamak için alınması gereken monitör ile fotoğraf işlemek için ya da tasarım yapmak için alınması gereken monitör farklı özelliklere sahip olmalıdır.",
+        "E": "Monitörler piksellerden oluşur.",
+        "DogruCevap": "A",
+        "DersAd": "Sayısal Görüntüleme Teknolojileri",
+        "Unite": 4,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:55.472336",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Monitörler<br>Çözünürlük azaldıkça netlik azalır ve görüntü bozulur."
     },
     {
         "SoruID": 3353140,
@@ -317,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Monitöre tam karşıdan baktığımızda ideal görüntüyü alırken, biraz yukarıdan bakıldığında görüntü açık tonlarda görünmeye başlarken biraz aşağıdan bakıldığında görüntü koyulaşır ve belli bir açıdan sonra neredeyse tamamen kaybolur. Bu nedenle hassas renk kontrolü gereken fotoğrafçılık gibi alanlarda tercih edilmemelidir"
+        "Aciklama": "Monitör Özellikleri<br>Monitöre tam karşıdan baktığımızda ideal görüntüyü alırken, biraz yukarıdan bakıldığında görüntü açık tonlarda görünmeye başlarken biraz aşağıdan bakıldığında görüntü koyulaşır ve belli bir açıdan sonra neredeyse tamamen kaybolur. Bu nedenle hassas renk kontrolü gereken fotoğrafçılık gibi alanlarda tercih edilmemelidir"
     },
     {
         "SoruID": 3353141,
@@ -341,7 +361,7 @@
     },
     {
         "SoruID": 3353142,
-        "SoruMetni": "\"Kâğıttan farklı olarak, kumaş, seramik gibi malzemelere baskı yapılmak istendiğinde, ............ baskı tekniği kullanılır.\"<br/> Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?",
+        "SoruMetni": "\"Kâğıttan farklı olarak, kumaş, seramik gibi malzemelere baskı yapılmak istendiğinde, ............ baskı tekniği kullanılır.\"<br/>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?",
         "A": "Lazer",
         "B": "Süblimasyon",
         "C": "Solid ink",
@@ -361,7 +381,7 @@
     },
     {
         "SoruID": 3353143,
-        "SoruMetni": ".......... cam, ahşap, seramik, metal, pvc gibi her türden sert yüzey üzerine, uygun tekstil ürünlerine hatta düzgün yüzeyli taş üzerine bile baskı yapabilen bir teknolojidir.<br/> Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?",
+        "SoruMetni": ".......... cam, ahşap, seramik, metal, pvc gibi her türden sert yüzey üzerine, uygun tekstil ürünlerine hatta düzgün yüzeyli taş üzerine bile baskı yapabilen bir teknolojidir.<br/>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?",
         "A": "UV baskı",
         "B": "3 boyutlu baskı",
         "C": "Süblimasyon Baskı",
@@ -377,11 +397,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "UV baskı cam, ahşap, seramik, metal, pvc gibi her türden sert yüzey üzerine, uygun tekstil ürünlerine hatta düzgün yüzeyli taş üzerine bile baskı yapabilen bir teknolojidir."
+        "Aciklama": "UV (ultraviyole) Baskı Yöntemi<br>UV baskı cam, ahşap, seramik, metal, pvc gibi her türden sert yüzey üzerine, uygun tekstil ürünlerine hatta düzgün yüzeyli taş üzerine bile baskı yapabilen bir teknolojidir."
     },
     {
         "SoruID": 3353144,
-        "SoruMetni": "Aşağıdakilerden hangisi renge baktığımızda gördüğümüz, rengin kendisidir?",
+        "SoruMetni": "Aşağıdakilerden hangisi renge baktığımızda gördüğümüz, rengin kendisidir?",
         "A": "Kalibrasyon",
         "B": "Doygunluk",
         "C": "Parlaklık",
@@ -397,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Rengin baskın olan dalga boyunu tanımlar ve onu kırmızı, sarı, yeşil, mavi vb. gibi diğer renklerden ayıran rengin özelliğidir. Daha basit bir tanımla; renge baktığımızda gördüğümüz, rengin kendisidir."
+        "Aciklama": "RENK YÖNETİMİ VE KALİBRASYON<br>Rengin baskın olan dalga boyunu tanımlar ve onu kırmızı, sarı, yeşil, mavi vb. gibi diğer renklerden ayıran rengin özelliğidir. Daha basit bir tanımla; renge baktığımızda gördüğümüz, rengin kendisidir."
     },
     {
         "SoruID": 3353145,
@@ -421,7 +441,7 @@
     },
     {
         "SoruID": 3353146,
-        "SoruMetni": "Eğer oyun oynamak için bir monitör tercih edilecekse, oyunlarda daha akışkan ve gerçekçi bir dene­yim sağlamak adına monitörün …………., ………………………. olmalıdır.<br/> Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar.",
+        "SoruMetni": "Eğer oyun oynamak için bir monitör tercih edilecekse, oyunlarda daha akışkan ve gerçekçi bir dene­yim sağlamak adına monitörün …………., ………………………. olmalıdır.<br/>Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar.",
         "A": "boyutu büyük/ kontrastı yüksek",
         "B": "tepki süresi düşük/ ekran yenileme hızı yüksek",
         "C": "IPS panelli/ kontrast oranı düşük",
@@ -497,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gündelik kullanım için üretilen kâğıtlar A B ve C olmak üzere 3 farklı standarttadır. A standardı 1m<sup>2 </sup>olarak hesaplanır ve A0 olarak adlandırılır. A serisindeki tüm kâğıtlar, bu kâğıttan oranlı olarak kesilerek oluşturulur. (Becer, 2019, s. 159)<br/> A0=841 x 1189<br/> A1 =594 x 841<br/> A2=420 x 594<br/> A3=297 x 420<br/> A4 =210 x 297<br/> A5=148 x 210<br/> A6=105 x 148"
+        "Aciklama": "Gündelik kullanım için üretilen kâğıtlar A B ve C olmak üzere 3 farklı standarttadır. A standardı 1m<sup>2 </sup>olarak hesaplanır ve A0 olarak adlandırılır. A serisindeki tüm kâğıtlar, bu kâğıttan oranlı olarak kesilerek oluşturulur. (Becer, 2019, s. 159)<br/>A0=841 x 1189<br/>A1 =594 x 841<br/>A2=420 x 594<br/>A3=297 x 420<br/>A4 =210 x 297<br/>A5=148 x 210<br/>A6=105 x 148"
     },
     {
         "SoruID": 3353150,
@@ -541,7 +561,7 @@
     },
     {
         "SoruID": 3353152,
-        "SoruMetni": "SD kartlar üzerinde yazılı olan sıralı kayıt hızını gösteren “ ..” harfi ve onu takip eden sayı, kartın sıralı olarak yazabileceği minimum ….. sayısını gösterir.<br/> Yukarıdaki boş bırakılan yerlere sırasıyla uygun olan hangi seçenektir?",
+        "SoruMetni": "SD kartlar üzerinde yazılı olan sıralı kayıt hızını gösteren “ ..” harfi ve onu takip eden sayı, kartın sıralı olarak yazabileceği minimum ….. sayısını gösterir.<br/>Yukarıdaki boş bırakılan yerlere sırasıyla uygun olan hangi seçenektir?",
         "A": "C, UHS",
         "B": "H, CF",
         "C": "T, SD",
@@ -581,11 +601,11 @@
     },
     {
         "SoruID": 3353154,
-        "SoruMetni": "Aşağıda verilen seçeneklerden hangisi bir bilgisayar donanımı <strong>değildir</strong>?<br/><br/>",
-        "A": "Klavye<br/><br/>",
-        "B": "Fare<br/><br/>",
-        "C": "Ekran<br/><br/>",
-        "D": "Ofis programı<br/><br/>",
+        "SoruMetni": "Aşağıda verilen seçeneklerden hangisi bir bilgisayar donanımı <strong>değildir</strong>?",
+        "A": "Klavye",
+        "B": "Fare",
+        "C": "Ekran",
+        "D": "Ofis programı",
         "E": "Sabit disk",
         "DogruCevap": "D",
         "DersAd": "Sayısal Görüntüleme Teknolojileri",
@@ -601,11 +621,11 @@
     },
     {
         "SoruID": 3353155,
-        "SoruMetni": "Aşağıda verilen seçeneklerden hangisi bir veri depolama birimi <strong>değildir</strong>?<br/><br/>",
-        "A": "Hard Disk<br/><br/>",
-        "B": "Flash Disk<br/><br/>",
-        "C": "CD<br/><br/>",
-        "D": "DVD<br/><br/>",
+        "SoruMetni": "Aşağıda verilen seçeneklerden hangisi bir veri depolama birimi <strong>değildir</strong>?",
+        "A": "Hard Disk",
+        "B": "Flash Disk",
+        "C": "CD",
+        "D": "DVD",
         "E": "Ekran",
         "DogruCevap": "E",
         "DersAd": "Sayısal Görüntüleme Teknolojileri",
@@ -621,11 +641,11 @@
     },
     {
         "SoruID": 3353156,
-        "SoruMetni": "Aşağıda verilen seçeneklerden hangisi bir yazılım <strong>değildir</strong>?<br/><br/>",
-        "A": "Photoshop<br/><br/>",
-        "B": "Chrome<br/><br/>",
-        "C": "Mikrofon<br/><br/>",
-        "D": "Word<br/><br/>",
+        "SoruMetni": "Aşağıda verilen seçeneklerden hangisi bir yazılım <strong>değildir</strong>?",
+        "A": "Photoshop",
+        "B": "Chrome",
+        "C": "Mikrofon",
+        "D": "Word",
         "E": "Premiere",
         "DogruCevap": "C",
         "DersAd": "Sayısal Görüntüleme Teknolojileri",
@@ -641,7 +661,7 @@
     },
     {
         "SoruID": 3353157,
-        "SoruMetni": "Aşağıdaki ifade yer alan boşluğu tamamlayan seçenek hangisidir?<br/><br/>Nokta sayısı yoğunluğuna ..... denir.",
+        "SoruMetni": "Aşağıdaki ifade yer alan boşluğu tamamlayan seçenek hangisidir?<br/>Nokta sayısı yoğunluğuna ..... denir.",
         "A": "Çözünürlük",
         "B": "Photoshop",
         "C": "Chrome",
@@ -682,10 +702,10 @@
     {
         "SoruID": 3353159,
         "SoruMetni": "Kâğıttan farklı olarak, kumaş, seramik gibi malzemelere baskı yapılması ne tür baskı tekniği kullanılır?",
-        "A": "Nokta Vuruşlu<br/><br/>",
-        "B": "Süblimasyon<br/><br/>",
-        "C": "Mürekkep Püskürtmeli<br/><br/>",
-        "D": "Lazer<br/><br/>",
+        "A": "Nokta Vuruşlu",
+        "B": "Süblimasyon",
+        "C": "Mürekkep Püskürtmeli",
+        "D": "Lazer",
         "E": "Mürekkep",
         "DogruCevap": "B",
         "DersAd": "Sayısal Görüntüleme Teknolojileri",
@@ -717,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "A4 boyut, günlük hayatta kullandığımız A4 kâğıdıdır. Değerler mm cinsinden 210 x 297 şeklindedir.<br/> ."
+        "Aciklama": "A4 boyut, günlük hayatta kullandığımız A4 kâğıdıdır. Değerler mm cinsinden 210 x 297 şeklindedir.<br/>."
     },
     {
         "SoruID": 3353161,
@@ -740,12 +760,32 @@
         "Aciklama": "Yazıcıdan kaliteli fotoğraf baskıları almak için kullanılan kâğıtlar, fotoğraf kâğıdı olarak adlandırılır. Fotoğraf kâğıdı; parlak (glossy), mat (matte), yarı mat (semi-matte), yarı parlak (semi-gloss), saten (satin) veya ipek (silk) olarak gruplandırılır"
     },
     {
+        "SoruID": 3353162,
+        "SoruMetni": "Aşağıdaki seçeneklerden hangisi glossy fotoğraf kağıdı olarak bilinen türü nitelemektedir?",
+        "A": "Parlak",
+        "B": "Mat",
+        "C": "Yarı mat",
+        "D": "Saten",
+        "E": "İpek",
+        "DogruCevap": "A",
+        "DersAd": "Sayısal Görüntüleme Teknolojileri",
+        "Unite": 4,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:55.440507",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Yazıcıdan kaliteli fotoğraf baskıları almak için kullanılan kâğıtlar, fotoğraf kâğıdı olarak adlandırılır. Fotoğraf kâğıdı; parlak (glossy), mat (matte), yarı mat (semi-matte), yarı parlak (semi-gloss), saten (satin) veya ipek (silk) olarak gruplandırılır."
+    },
+    {
         "SoruID": 3353163,
-        "SoruMetni": "Aşağıdaki seçeneklerden hangisi silk fotoğraf kağıdı olarak bilinen türü nitelemektedir?<br/><br/>",
-        "A": "Parlak <br/><br/>",
-        "B": "Mat <br/><br/>",
-        "C": "Yarı mat<br/><br/>",
-        "D": "Saten <br/><br/>",
+        "SoruMetni": "Aşağıdaki seçeneklerden hangisi silk fotoğraf kağıdı olarak bilinen türü nitelemektedir?",
+        "A": "Parlak",
+        "B": "Mat",
+        "C": "Yarı mat",
+        "D": "Saten",
         "E": "İpek",
         "DogruCevap": "E",
         "DersAd": "Sayısal Görüntüleme Teknolojileri",

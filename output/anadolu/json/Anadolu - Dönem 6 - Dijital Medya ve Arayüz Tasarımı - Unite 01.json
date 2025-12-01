@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3593441,
-        "SoruMetni": "…………………………..; fikirlerin düşük maliyetli, hızlı ve somut modelleridir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "…………………………..; fikirlerin düşük maliyetli, hızlı ve somut modelleridir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Amblemler",
         "B": "Videolar",
         "C": "Tasarımlar",
@@ -282,10 +282,10 @@
     {
         "SoruID": 3598566,
         "SoruMetni": "Aşağıdakilerden hangisi bir tasarım sürecinin ilk adımıdır?",
-        "A": "Problemi tanımlama<br/><br/>",
-        "B": "Öneri geliştirme<br/><br/>",
-        "C": "Taslak oluşturma<br/><br/>",
-        "D": "Prototip geliştirme<br/><br/>",
+        "A": "Problemi tanımlama",
+        "B": "Öneri geliştirme",
+        "C": "Taslak oluşturma",
+        "D": "Prototip geliştirme",
         "E": "Geribildirim",
         "DogruCevap": "A",
         "DersAd": "Dijital Medya ve Arayüz Tasarımı",

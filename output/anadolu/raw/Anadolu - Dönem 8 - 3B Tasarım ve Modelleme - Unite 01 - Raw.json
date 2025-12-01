@@ -12,8 +12,7 @@
         "D": "<p>1910’lerin sonlarına ve 1920’lerın başlarına dayanmaktadır.</p>",
         "E": "<p>1960’lerin sonlarına ve 1970’lerin başlarına dayanmaktadır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831754,
@@ -28,8 +27,7 @@
         "D": "<p>Bell,</p>",
         "E": "<p>Sutherland,</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831761,
@@ -44,8 +42,7 @@
         "D": "<p>Mühendislik ve mimarlık gibi endüstriyel alanlarda kullanılmaya başlandı.</p>",
         "E": "<p>İletişim alanlarında kullanılmaya başlandı.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831765,
@@ -60,8 +57,7 @@
         "D": "<p>test ve kontrol, </p>",
         "E": "<p>Toplumsal ve kişisel gelişim,</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831770,
@@ -76,8 +72,7 @@
         "D": "<p>Prototiplerin yaygınlaşmasıdır</p>",
         "E": "<p>Karmaşık robotların yaygınlaşmasıdır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831777,
@@ -92,8 +87,7 @@
         "D": "<p>İnsan vücudunun dört boyut algısını etkili bir şekilde işleyebiliyor olmasıdır.</p>",
         "E": "<p>İnsan beyninin yapay zeka ile daha etkili bir şekilde iletişimde olmasıdır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831779,
@@ -108,8 +102,7 @@
         "D": "<p>Sanal gerçeklik (Virtual Reality, VR), Eksiltilmiş gerçeklik ve karma gerçeklik (Mixed Reality, MR).</p>",
         "E": "<p>Tasarımsal gerçeklik (Design Reality, DR) ve artırılmış gerçeklik (Augmented Reality, AR).</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831785,
@@ -124,8 +117,7 @@
         "D": "<p>eksi ve eksi</p>",
         "E": "<p>artı ve eksi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831792,
@@ -140,8 +132,7 @@
         "D": "<p>Bir noktanın, uzunluklarının kesiştiği orijine olan yakınlığa koordinat denir.</p>",
         "E": "<p>Bir doğrunun, eksenlerin kesiştiği merkezine koordinat denir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831797,
@@ -156,7 +147,6 @@
         "D": "<p>nokta ve koordinatlar</p>",
         "E": "<p>küresel objeler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

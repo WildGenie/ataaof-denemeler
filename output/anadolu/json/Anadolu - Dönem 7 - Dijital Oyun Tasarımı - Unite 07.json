@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Demografik özellikler"
+        "Aciklama": "Dijital oyunlar bilişim dünyasının en eski ve popüler alanlarından birisidir. Dijital oyunların <br/>tasarlanması ve geliştirilmesi büyük çaba gerektirmektedir. Basit oyunlardan çok kullanıcılı<br/>karmaşık oyunlara kadar olan geniş oyun yelpazesinde oyunları geliştirmek için <strong>programlama</strong>,<br/><strong>teknik beceriler</strong>, <strong>grafik tasarım üretimleri</strong>, <strong>senaryo akışları</strong> ve diğer bileşenler yer alır.<br>Demografik özellikler"
     },
     {
         "SoruID": 3685503,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İnsan kaynakları"
+        "Aciklama": "Oyun yayıncı şirketler geliştiricilere pazarlama, reklam, satış, destek ve istatistik anlamında servisler sunmaktadır.<br>İnsan kaynakları"
     },
     {
         "SoruID": 3685508,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkiye"
+        "Aciklama": "Avrupa 2023 verilerine göre ise ekonomik gelir anlamında<br/>1. Birleşik Krallık – 7,94 milyar ABD doları<br/>2. Almanya – 4,83 milyar ABD doları<br/>3. Fransa – 3,45 milyar ABD doları<br/>4. İtalya – 2,16 milyar ABD doları<br/>5. İspanya – 1,43 milyar ABD doları<br/>şeklinde ilk 5 ülke sıralanmaktadır (Statista, 2024).<br>Türkiye"
     },
     {
         "SoruID": 3685513,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyunun bütçesi"
+        "Aciklama": "Dijital oyunların geliştirilmesinde çeşitli bileşenler vardır. Bir oyunun<br/><strong>• Bütçesi</strong><br/><strong>• Türü</strong><br/><strong>• Platformu</strong><br/><strong>• Programlama Dili</strong><br/><strong>• Oyun Motoru</strong><br/><strong>• Hedef Kitlesi</strong><br/><strong>• Yayıncı</strong><br/><strong>• ve Dağıtım Kanalı</strong> bunlardan bazılarıdır.<br>Oyunun bütçesi"
     },
     {
         "SoruID": 3685517,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Montaj"
+        "Aciklama": "Oyun geliştirmede kullanılan programlama dillerinden bazıları<br/><strong>• C++</strong><br/><strong>• C#</strong><br/><strong>• Java</strong><br/><strong>• Python</strong><br/><strong>• JavaScript</strong><br/><strong>• ve Lua</strong> olarak listelenebilir.<br>Montaj"
     },
     {
         "SoruID": 3685519,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyun geliştiriciler"
+        "Aciklama": "Dijital oyunların dağıtımında en ön planda <strong>oyun geliştiriciler</strong> yer almaktadır."
     },
     {
         "SoruID": 3685522,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kalite değerlendirme"
+        "Aciklama": "Oyunların oyuncularla buluşması genel olarak<br/><strong>• Üretim</strong><br/><strong>• Yayınlama</strong><br/><strong>• Pazarlama</strong><br/><strong>• Satış sonrası destek hizmetleri</strong> gibi aşamalarda gerçekleşmektedir.<br>Kalite değerlendirme"
     },
     {
         "SoruID": 3685531,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kullanıcı anketi"
+        "Aciklama": "Oyunun üretim aşamaları;<br/><strong>1. Kavramsal tasarım</strong><br/><strong>2. Ön üretim ve prototip geliştirme</strong><br/><strong>3. Üretim</strong><br/><strong>4. Alfa Beta denemeleri</strong><br/><strong>5. Son ürün ve yayınlama</strong> şeklindedir.<br>Kullanıcı anketi"
     },
     {
         "SoruID": 3685539,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyunun satın alınabilirliği"
+        "Aciklama": "Oyunun;<br/><strong>• Kullanıcı deneyimi</strong><br/><strong>• Hikâyesinin akıcılığı ve senaryosu</strong><br/><strong>• Karakterlerin kişilik özellikleri</strong><br/><strong>• Oynanabilirliği</strong><br/><strong>• Oyun mekaniği ve kinematik özellikleri </strong>incelenir.<br>Oyunun satın alınabilirliği"
     },
     {
         "SoruID": 3685546,
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "IQ testleri"
+        "Aciklama": "Google Play Console’da sonraki aşamalarda oyunun tür seçimi ve etiketleri belirleme işlemleri<br/>yapılır. Oyun türleri olarak<br/><strong>• Aksiyon</strong><br/><strong>• Arcade</strong><br/><strong>• Bulmaca</strong><br/><strong>• Eğitici</strong><br/><strong>• Gündelik</strong><br/><strong>• Kâğıt</strong><br/><strong>• Kelime</strong><br/><strong>• Macera</strong><br/><strong>• Masa</strong><br/><strong>• Müzik</strong><br/><strong>• Rol oyunu</strong> yer almaktadır.<br>IQ testleri"
     }
 ]

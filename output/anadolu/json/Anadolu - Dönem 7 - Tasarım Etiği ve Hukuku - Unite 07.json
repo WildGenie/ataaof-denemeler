@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3700795,
-        "SoruMetni": "Tasarım kavramı, Türk hukukunda __________________’nda düzenlenmektedir.<br/> Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?",
+        "SoruMetni": "Tasarım kavramı, Türk hukukunda __________________’nda düzenlenmektedir.<br/>Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?",
         "A": "Fikir ve Sanat Eserleri Kanunu",
         "B": "Sınai Mülkiyet Kanunu",
         "C": "Borçlar Kanunu",
@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tasarım kavramı, Türk hukukunda Sınai Mülkiyet Kanunu’nda düzenlenmektedir. Sınai Mülkiyet Kanunu’nda bu kavram endüstriyel tasarım olarak değil, “tasarım” olarak geçmektedir"
+        "Aciklama": "Görsel iletişimde tasarımın öneminin modern dönemden sonra arttığı ve birçok alanda görsel iletişimden yararlanıldığı tespit edilmiştir. Günümüzde görsel iletişimde tasarımın geldiği nokta incelendiğinde, bu bileşenin reklam ve sosyal medya üzerinde çok yoğun bir şekilde kullanıldığı ve hatta gözümüzün görebildiği her noktaya yayıldığı söylenebilir.<br>Tasarım kavramı, Türk hukukunda Sınai Mülkiyet Kanunu’nda düzenlenmektedir. Sınai Mülkiyet Kanunu’nda bu kavram endüstriyel tasarım olarak değil, “tasarım” olarak geçmektedir"
     },
     {
         "SoruID": 3700796,
-        "SoruMetni": "I- İki tacirin bir ürünü 1000 TL’den daha düşük fiyata satmamaları konusunda uzlaşmaları<br/> II- İki tacirin belirli bir standart altında ürün satmama konusunda uzlaşmaları<br/> III- Pazarı elinde tutan tacirin  o sektördeki daha küçük işletmeleri bünyesinde toplaması<br/> Yukarıda sayılanlardan hangisi veya hangileri haksız rekabete örnek olarak gösterilebilir?",
+        "SoruMetni": "I- İki tacirin bir ürünü 1000 TL’den daha düşük fiyata satmamaları konusunda uzlaşmaları<br/>II- İki tacirin belirli bir standart altında ürün satmama konusunda uzlaşmaları<br/>III- Pazarı elinde tutan tacirin o sektördeki daha küçük işletmeleri bünyesinde toplaması<br/>Yukarıda sayılanlardan hangisi veya hangileri haksız rekabete örnek olarak gösterilebilir?",
         "A": "I veII",
         "B": "II ve III",
         "C": "I ve III",
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1. Bazen büyük işletmeler veya aynı sektörde çalışan tacirler, birbirleriyle rekabet etmeleri gerekirken, gizlice birbirleriyle anlaşabilmektedirler. Örneğin, ikisinin de 400 TL’den daha düşük fiyata satmamaları konusunda uzlaşabilirler.<br/>2. Büyük bir sektörde o pazarı elinde tutan tacir (hakim durumdaki işletme), o sektördeki daha küçük işletmeleri bünyesinde toplayabilmektedir. Örneğin, onları baskıyla ya da satın alarak elde<br/>edebilmektedir. O sektörde hakim durumda olup bu durumu kötüye kullanabilmektedir. Örneğin,<br/>belirli sayıda büyük yatak şirketi olduğunu varsayalım. Bir yatak şirketinin diğer yatak şirketlerini satın alması hâlinde, bütün yatak şirketlerinin aynı grubun eline geçmesi hâlinde, rekabet hakkı ortadan kaldırılmış olur."
+        "Aciklama": "Anayasamıza göre, rekabet, temel haklardan biri olup her bireyin rekabet etme hakkı bulunmaktadır. İşletmelerin rekabet etmeleri müşterilerin lehinedir, zira onlar rekabet ettikleri zaman müşteriler daha kaliteli ürünleri daha ucuza alabileceklerdir.<br>1. Bazen büyük işletmeler veya aynı sektörde çalışan tacirler, birbirleriyle rekabet etmeleri gerekirken, gizlice birbirleriyle anlaşabilmektedirler. Örneğin, ikisinin de 400 TL’den daha düşük fiyata satmamaları konusunda uzlaşabilirler.<br/>2. Büyük bir sektörde o pazarı elinde tutan tacir (hakim durumdaki işletme), o sektördeki daha küçük işletmeleri bünyesinde toplayabilmektedir. Örneğin, onları baskıyla ya da satın alarak elde<br/>edebilmektedir. O sektörde hakim durumda olup bu durumu kötüye kullanabilmektedir. Örneğin,<br/>belirli sayıda büyük yatak şirketi olduğunu varsayalım. Bir yatak şirketinin diğer yatak şirketlerini satın alması hâlinde, bütün yatak şirketlerinin aynı grubun eline geçmesi hâlinde, rekabet hakkı ortadan kaldırılmış olur."
     },
     {
         "SoruID": 3700797,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Haksız rekabet iki rakip arasında olan ilişki midir? Adından yola çıkarak, bunun mutlaka bir rekabet ilişkisinin sonucu olduğunu söyleyebilir miyiz? Hayır. Genellikle, aynı sektörde ve birbirine rakip olanlar arasında ortaya çıkmaktadır. Fakat böyle bir zorunluluk yoktur."
+        "Aciklama": "Farklı sektörler arasında haksız rekabet olabilmektedir. Hatta müşteri olarak dava açtığımızda, rakip olabilecek bir sektörümüz bile olmayabilmektedir.<br>Haksız rekabet iki rakip arasında olan ilişki midir? Adından yola çıkarak, bunun mutlaka bir rekabet ilişkisinin sonucu olduğunu söyleyebilir miyiz? Hayır. Genellikle, aynı sektörde ve birbirine rakip olanlar arasında ortaya çıkmaktadır. Fakat böyle bir zorunluluk yoktur."
     },
     {
         "SoruID": 3700798,
@@ -77,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Diploma, ödül vs sahip olmadığı hâlde böyle bir imaj oluşturmak (TTK Madde 55/1-a.3) haksız rekabettir.<br/><br/>"
+        "Aciklama": "Hakkı olmayan unvanları, meslek adları, derece ve sembolleri kullanarak kendini üstün yetenekli göstermek, haksız rekabet sayılır.<br>Diploma, ödül vs sahip olmadığı hâlde böyle bir imaj oluşturmak (TTK Madde 55/1-a.3) haksız rekabettir."
     },
     {
         "SoruID": 3700799,
-        "SoruMetni": "I- İki ürünün aynı, benzer sınıfta ve benzer özelliklere sahip olması gerekir.<br/> <br/>II-Bu karşılaştırmanın gerçekten dürüst olması gerekmektedir.<br/> III-Karşılaştırmalı reklamın karşı tarafı kötüleme, karşı tarafın tanınmışlığından yararlanma şeklinde yapılmaması gerekmektedir.<br/> Yukarıdakilerden hangisi veya hangileri karşılaştırmalı reklamların  hukuka uygun ve geçerli olması için  aranan koşullardandır?",
+        "SoruMetni": "I- İki ürünün aynı, benzer sınıfta ve benzer özelliklere sahip olması gerekir.<br/>II-Bu karşılaştırmanın gerçekten dürüst olması gerekmektedir.<br/>III-Karşılaştırmalı reklamın karşı tarafı kötüleme, karşı tarafın tanınmışlığından yararlanma şeklinde yapılmaması gerekmektedir.<br/>Yukarıdakilerden hangisi veya hangileri karşılaştırmalı reklamların hukuka uygun ve geçerli olması için aranan koşullardandır?",
         "A": "I",
         "B": "I ve II",
         "C": "I ve III",
@@ -97,11 +97,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karşılaştırmalı reklamlar, kural olarak hukuka uygun ve geçerlidir. Ancak bazı şartları vardır: a) İki ürünün aynı, benzer sınıfta ve benzer özelliklere sahip olması gerekir. b) Bu karşılaştırmanın gerçekten dürüst olması gerekmektedir. c) Karşılaştırmalı reklamın karşı tarafı kötüleme, karşı tarafın tanınmışlığından yararlanma şeklinde yapılmaması gerekmektedir."
+        "Aciklama": "Karşılaştırmalı reklamlar (TTK Madde 55/1- a.5): Kendisini, mallarını, iş ürünlerini, faaliyetlerini, fiyatlarını gerçeğe aykırı, yanıltıcı, rakibini gereksiz yere kötüleyici veya gereksiz yere onun tanınmışlığından yararlanacak şekilde; başkaları, malları, iş ürünleri veya fiyatları ile karşılaştırmak ya da üçüncü kişiyi benzer yollardan öne geçirmek, haksız rekabete yol açmaktadır. Bazen iki malın bazı özellikleri karşılaştırılmakta ve bir markanın diğer markadan daha üstün olduğu mesajı verilmeye çalışılmaktadır.<br>Karşılaştırmalı reklamlar, kural olarak hukuka uygun ve geçerlidir. Ancak bazı şartları vardır: a) İki ürünün aynı, benzer sınıfta ve benzer özelliklere sahip olması gerekir. b) Bu karşılaştırmanın gerçekten dürüst olması gerekmektedir. c) Karşılaştırmalı reklamın karşı tarafı kötüleme, karşı tarafın tanınmışlığından yararlanma şeklinde yapılmaması gerekmektedir."
     },
     {
         "SoruID": 3700800,
-        "SoruMetni": "I- Tespit davası<br/> II- Tazminat davası<br/> III- Haksız rekabetin ortadan kaldırılması davası<br/> Yukarıdaki davalardan hangisi veya hangilerini meslek birliklerinin açması mümkün değildir?",
+        "SoruMetni": "I- Tespit davası<br/>II- Tazminat davası<br/>III- Haksız rekabetin ortadan kaldırılması davası<br/>Yukarıdaki davalardan hangisi veya hangilerini meslek birliklerinin açması mümkün değildir?",
         "A": "I ve II",
         "B": "II ve III",
         "C": "I ve III",
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tazminat davasının açılmasını mesleki birlikler isteyemez.<br/>- Zarar + kusur şarttır.<br/><br/>"
+        "Aciklama": "Tazminat davası açılabilmesi için, zarar ve kusur şarttır. Ancak, diğer talepler için zararın doğmuş olması gerekmez, zarar tehlikesinin doğması dahi yeterlidir.<br>Tazminat davasının açılmasını mesleki birlikler isteyemez.<br/>- Zarar + kusur şarttır."
     },
     {
         "SoruID": 3700802,
@@ -137,11 +137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hukukî sorumluluk yanında, bazı haksız rekabet fiilleri ayrıca birer suçtur. Bu suçların cezası da Türk Ceza Kanunu’nda değil, TTK’da düzenlenmiştir. Dolayısıyla, haksız rekabet, ceza sorumluluğuna da yol açmaktadır. TTK Madde 62’ye göre, bu durumlar 2 yıla kadar hapis cezası veya adli para cezası ile cezalandırılmaktadır."
+        "Aciklama": "Ancak, hapis cezası 2 yıla kadar olunca ertelenme söz konusu olduğu için, uygulamada haksız rekabetten kimsenin hapis cezası aldığı görülmemektedir.<br>Hukukî sorumluluk yanında, bazı haksız rekabet fiilleri ayrıca birer suçtur. Bu suçların cezası da Türk Ceza Kanunu’nda değil, TTK’da düzenlenmiştir. Dolayısıyla, haksız rekabet, ceza sorumluluğuna da yol açmaktadır. TTK Madde 62’ye göre, bu durumlar 2 yıla kadar hapis cezası veya adli para cezası ile cezalandırılmaktadır."
     },
     {
         "SoruID": 3700803,
-        "SoruMetni": "Fikri mülkiyet hakları bakımından _____________ koruma ilkesi kabul edilmektedir.<br/> Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?",
+        "SoruMetni": "Fikri mülkiyet hakları bakımından _____________ koruma ilkesi kabul edilmektedir.<br/>Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?",
         "A": "Mütemadi",
         "B": "Mülki",
         "C": "Evrensel",
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fikri mülkiyet hakları bakımından kümülatif (çoklu) koruma ilkesi kabul edilmektedir. Bir başka deyişle, bir fikri çalışma, fikri mülkiyeti düzenleyen birden çok yasal düzenlemenin koruma şartlarını taşıyabilir."
+        "Aciklama": "Örneğin, bir üründeki hem tasarım, hem buluş, hem marka aynı anda korumaya tabi olabilir. Bir fikri ürün birden çok yasal düzenlemenin koruma şartlarını aynı anda karşılıyorsa, hak sahibi, birden çok yasal düzenlemeye dayanabilir.<br>Fikri mülkiyet hakları bakımından kümülatif (çoklu) koruma ilkesi kabul edilmektedir. Bir başka deyişle, bir fikri çalışma, fikri mülkiyeti düzenleyen birden çok yasal düzenlemenin koruma şartlarını taşıyabilir."
     },
     {
         "SoruID": 3700804,
@@ -177,11 +177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Davacının fiili ve faili öğrenmesinden itibaren 1 yıl, herhâlükarda fiilin gerçekleştiği tarihten itibaren 3 yıl içinde bu davaların açılması gerekmektedir."
+        "Aciklama": "Haksız rekabet, haksız fiil türüdür. Borçlar Kanunu’nda haksız fiil için öngörülen zamanaşımı süresi 2 ve 10 yıl olmasına rağmen, haksız rekabette daha kısa bir zamanaşımı süresi öngörülmüştür.<br>Davacının fiili ve faili öğrenmesinden itibaren 1 yıl, herhâlükarda fiilin gerçekleştiği tarihten itibaren 3 yıl içinde bu davaların açılması gerekmektedir."
     },
     {
         "SoruID": 3700805,
-        "SoruMetni": "Fikri mülkiyet ve haksız rekabet mevzuatı arasında, ______________ ilişkisi devreye girmektedir.<br/> Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?",
+        "SoruMetni": "Fikri mülkiyet ve haksız rekabet mevzuatı arasında, ______________ ilişkisi devreye girmektedir.<br/>Aşağıdakilerden hangisi boşluğa gelmesi gereken ifadedir?",
         "A": "Zaman bakımından uygulanma",
         "B": "Özel hüküm - genel hüküm",
         "C": "İçtima",
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fikri mülkiyet ve haksız rekabet mevzuatı arasında, özel hüküm - genel hüküm ilişkisi devreye girmektedir. Bu ilişkide ilk olarak özel hükümler uygulanmaktadır. Özel hükümler, konusunu tamamen kapsadığı ve daha kapsamlı ve üstün bir koruma sağladığı durumlarda genel hükümlere üstün gelir."
+        "Aciklama": "Özel hükümlerin getirdiği sınırlamalar genel hükümlere dayanılarak bertaraf edilemez. Dolayısıyla, genel bir kanun tarafından sağlanan bir korumadan, özel kanunun belirli kısıtlamalar nedeniyle korumayı esirgediği durumlarda faydalanmak mümkün değildir.<br>Fikri mülkiyet ve haksız rekabet mevzuatı arasında, özel hüküm - genel hüküm ilişkisi devreye girmektedir. Bu ilişkide ilk olarak özel hükümler uygulanmaktadır. Özel hükümler, konusunu tamamen kapsadığı ve daha kapsamlı ve üstün bir koruma sağladığı durumlarda genel hükümlere üstün gelir."
     },
     {
         "SoruID": 3840120,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Haksız rekabetin ortadan kaldırılması (ref ’i/eski hâle iadesi) davası: Haksız reka­bet sonucunda ortaya çıkan maddi duru­mun ortadan kaldırılması talep edilir.<br/> <ol> <li>Beyanların düzeltilmesi talebiyle: Hak­sız rekabet, kötüleme, yanlış veya yanıl­tıcı beyan ve eylemler ile yapılmış ise, bunların nasıl düzeltileceği, mahkeme hükmünde açıkça belirtilir.</li> <li>Kaçınılmaz ise, araç ve malların imhası talebiyle: Örneğin; ticari sırlardan ya­rarlanarak imal edilen makinenin imha­sına karar verilebilir. Örneğin; iltibasa neden olan taklit marka, etiket, amba­lajların sökülmesi, silinmesi, imalat ve ticaret sırlarını içeren belge ve formülle­rin iadesi istenebilir. Müşteri isteyemez!</li> </ol>"
+        "Aciklama": "Haksız rekabetin ortadan kaldırılması (ref ’i/eski hâle iadesi) davası: Haksız reka­bet sonucunda ortaya çıkan maddi duru­mun ortadan kaldırılması talep edilir.<br/><ol> <li>Beyanların düzeltilmesi talebiyle: Hak­sız rekabet, kötüleme, yanlış veya yanıl­tıcı beyan ve eylemler ile yapılmış ise, bunların nasıl düzeltileceği, mahkeme hükmünde açıkça belirtilir.</li> <li>Kaçınılmaz ise, araç ve malların imhası talebiyle: Örneğin; ticari sırlardan ya­rarlanarak imal edilen makinenin imha­sına karar verilebilir. Örneğin; iltibasa neden olan taklit marka, etiket, amba­lajların sökülmesi, silinmesi, imalat ve ticaret sırlarını içeren belge ve formülle­rin iadesi istenebilir. Müşteri isteyemez!</li> </ol>"
     },
     {
         "SoruID": 3840131,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "TTK Madde 62/1-a’da, hapis veya adli para ce­zasını gerektiren haksız rekabet fiilleri, şu başlıklar altında gösterilmiştir:<br/> 1 TTK Madde 55’de yazılı haksız rekabet fiil­lerinden birini kasten işleyenler,<br/> 2 Kendi icap ve tekliflerinin rakiplerininkine tercih edilmesi için kişisel durumu, ürünleri, iş ürünleri, ticari faaliyeti ve işleri hakkında kasten yanlış veya yanıltıcı bilgi verenler."
+        "Aciklama": "TTK Madde 62/1-a’da, hapis veya adli para ce­zasını gerektiren haksız rekabet fiilleri, şu başlıklar altında gösterilmiştir:<br/>1 TTK Madde 55’de yazılı haksız rekabet fiil­lerinden birini kasten işleyenler,<br/>2 Kendi icap ve tekliflerinin rakiplerininkine tercih edilmesi için kişisel durumu, ürünleri, iş ürünleri, ticari faaliyeti ve işleri hakkında kasten yanlış veya yanıltıcı bilgi verenler."
     },
     {
         "SoruID": 3840134,

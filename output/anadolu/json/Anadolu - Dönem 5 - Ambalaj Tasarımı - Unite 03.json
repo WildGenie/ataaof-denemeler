@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tasarım yüzeyi üzerinde bulunan ana ekran paneli, aynı zamanda başlıca ekran paneli veya PDP<br/>olarak bilinen, marka kimliği ve tüm ana iletişim <br/>unsurları için ayrılmış olan ambalaj tasarımındaki <br/>alandır."
+        "Aciklama": "Tasarım yüzeyi üzerinde bulunan marka kimliği ve tüm ana iletişim <br/>unsurları için ayrılmış olan ambalaj tasarımındaki <br/>alan ana ekran panelidir.<br>Tasarım yüzeyi üzerinde bulunan ana ekran paneli, aynı zamanda başlıca ekran paneli veya PDP<br/>olarak bilinen, marka kimliği ve tüm ana iletişim <br/>unsurları için ayrılmış olan ambalaj tasarımındaki <br/>alandır."
     },
     {
         "SoruID": 3862864,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mukavva malzeme de suya karşı dayanıksızdır ve nemle temas halinde kolayca zarar görebilir. Bu nedenle, mukavva ambalajların suya dayanıklı bir kaplama veya bariyer malzemesi ile korunması gerekebilir. Mukavva ambalajlar ayrıca taşıma sırasında düzgün desteklenmezse ezilebilir veya şekil değiştirebilir."
+        "Aciklama": "Mukavva ezilme ve şekil değiştirmeye diğer malzemelere göre yatkındır.<br>Mukavva malzeme de suya karşı dayanıksızdır ve nemle temas halinde kolayca zarar görebilir. Bu nedenle, mukavva ambalajların suya dayanıklı bir kaplama veya bariyer malzemesi ile korunması gerekebilir. Mukavva ambalajlar ayrıca taşıma sırasında düzgün desteklenmezse ezilebilir veya şekil değiştirebilir."
     },
     {
         "SoruID": 3862865,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yapısal olarak:<br/>• Yüksek hızlarda mekanize üretimden geçecek mi?<br/>• Taşıma ve nakliye sırasında aşırı sıcaklık ve/veya soğutma koşullarına dayanabilir mi?<br/>• Depolarda ve perakende satış mağazalarında depolama koşullarında ayakta duracak mı?<br/>• Vakum, gaz veya hermetik ambalajlama gerekiyorsa, ambalaj yapısı bu tür ekipmanlar için uygun mu?<br/>• Gerektiğinde ambalaj ve içindekiler sterilize edilebilir mi?"
+        "Aciklama": "bak<br>Yapısal olarak:<br/>• Yüksek hızlarda mekanize üretimden geçecek mi?<br/>• Taşıma ve nakliye sırasında aşırı sıcaklık ve/veya soğutma koşullarına dayanabilir mi?<br/>• Depolarda ve perakende satış mağazalarında depolama koşullarında ayakta duracak mı?<br/>• Vakum, gaz veya hermetik ambalajlama gerekiyorsa, ambalaj yapısı bu tür ekipmanlar için uygun mu?<br/>• Gerektiğinde ambalaj ve içindekiler sterilize edilebilir mi?"
     },
     {
         "SoruID": 3862878,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İşlevsel bir ürün olan ambalajın temel işlevi ürünü dış etkilere karşı korumaktır. Bu işlev ambalajın<br/>malzemesini, biçimini, boyutunu ve bunun gibi faktörlerini belirler. Ambalajın üzerinin tasarımı<br/>ise daha çok pazarlamaya yönelik, estetik, albenisi olan, bilgi veren, güven verici ve dikkat çekici olmak üzerinedir."
+        "Aciklama": "İşlevsel bir ürün olan ambalajın temel işlevi ürünü dış etkilere karşı korumaktır. Bu işlev ambalajın<br/>malzemesini, biçimini, boyutunu ve bunun gibi faktörlerini belirler. Ambalajın üzerinin tasarımı<br/>ise daha çok pazarlamaya yönelik, estetik, albenisi olan, bilgi veren, güven verici ve dikkat çekici olmak üzerinedir."
     },
     {
         "SoruID": 3862879,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Marka analizi, bir markanın gücünü, değerini ve algılanışını anlamak için yapılan ayrıntılı bir inceleme sürecidir. Bu analiz, markanın mevcut durumunu değerlendirmek, rekabet ortamında nasıl konumlandığını anlamak ve pazarlama stratejilerini belirlemek için kullanılır."
+        "Aciklama": "Marka analizi, bir markanın gücünü, değerini ve algılanışını anlamak için yapılan ayrıntılı bir inceleme sürecidir. Bu analiz, markanın mevcut durumunu değerlendirmek, rekabet ortamında nasıl konumlandığını anlamak ve pazarlama stratejilerini belirlemek için kullanılır."
     },
     {
         "SoruID": 3862880,
@@ -177,11 +177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yedi aşamalı tasarım sürecinin 5.basamağı olan seçme evresinde, daha önceki evrelerde bulunan fikirler ve bu fikirler doğrultusunda üretilen çözümlerden bir tanesi geliştirilmek üzere seçilir. Seçme evresinin kontrol listesi şu şekildedir:<br/>• Tasarım yön bilgide tanımlanan gereksinimleri<br/>karşılıyor mu?<br/>• Tasarım hedef kitlenin duygularını harekete<br/>geçiriyor mu?<br/>• Tasarım zamanında ve bütçenin sınırları<br/>içinde üretilebilecek mi?<br/>• Hesaba katılması gereken başka etmenler<br/>var mı?<br/>• Müşteri tasarımı onayladı mı?"
+        "Aciklama": "Yedi aşamalı tasarım sürecinin 5.basamağı olan seçme evresinde, daha önceki evrelerde bulunan fikirler ve bu fikirler doğrultusunda üretilen çözümlerden bir tanesi geliştirilmek üzere seçilir. Seçme evresinin kontrol listesi şu şekildedir:<br/>• Tasarım yön bilgide tanımlanan gereksinimleri<br/>karşılıyor mu?<br/>• Tasarım hedef kitlenin duygularını harekete<br/>geçiriyor mu?<br/>• Tasarım zamanında ve bütçenin sınırları<br/>içinde üretilebilecek mi?<br/>• Hesaba katılması gereken başka etmenler<br/>var mı?<br/>• Müşteri tasarımı onayladı mı?"
     },
     {
         "SoruID": 3862883,
-        "SoruMetni": "I. Tasarım yüzeyi üzerinde bulunan ana ekran panelidir.<br/> II. Sadece marka bilgilerini içermelidir.<br/> III. İhtiyaca göre 4 veya 5 alana bölünerek tasarlanabilir.<br/> IV. Bilgileri hiyerarşik olarak sunar.<br/> V. Üzerinde fotoğraf, illüstrasyon, sembol benzeri ögeler taşımaz.<br/> Yukarıdaki verilen bilgilerden hangileri PDP için doğrudur?",
+        "SoruMetni": "I. Tasarım yüzeyi üzerinde bulunan ana ekran panelidir.<br/>II. Sadece marka bilgilerini içermelidir.<br/>III. İhtiyaca göre 4 veya 5 alana bölünerek tasarlanabilir.<br/>IV. Bilgileri hiyerarşik olarak sunar.<br/>V. Üzerinde fotoğraf, illüstrasyon, sembol benzeri ögeler taşımaz.<br/>Yukarıdaki verilen bilgilerden hangileri PDP için doğrudur?",
         "A": "I ve II",
         "B": "I ve IV",
         "C": "II ve III",
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tasarım yüzeyi üzerinde bulunan ana ekran paneli (başlıca ekran paneli veya PDP) marka kimliği ve tüm ana iletişim unsurları için ayrılmış olan ambalaj tasarımındaki alandır. İyi tasarlanmış bir PDP marka ve ürün bilgilerini içerir ve bilgileri hiyerarşik bir şekilde sunar. İhtiyaca göre 2 veya 3 alana bölünerek tasarlanabilir. Bir PDP’nin tasarımı, tipografi, renk, imgeleme (örneğin illüstrasyonlar, fotoğraflar, semboller, grafik cihazlar ve simgeler), boyut, şekil ve yapı gibi mevcut olan tüm araçları ve seçenekleri kullanabilir."
+        "Aciklama": "Tasarım yüzeyi üzerinde bulunan ana ekran paneli (başlıca ekran paneli veya PDP) marka kimliği ve tüm ana iletişim unsurları için ayrılmış olan ambalaj tasarımındaki alandır. İyi tasarlanmış bir PDP marka ve ürün bilgilerini içerir ve bilgileri hiyerarşik bir şekilde sunar. İhtiyaca göre 2 veya 3 alana bölünerek tasarlanabilir. Bir PDP’nin tasarımı, tipografi, renk, imgeleme (örneğin illüstrasyonlar, fotoğraflar, semboller, grafik cihazlar ve simgeler), boyut, şekil ve yapı gibi mevcut olan tüm araçları ve seçenekleri kullanabilir."
     },
     {
         "SoruID": 3862884,
@@ -282,10 +282,10 @@
     {
         "SoruID": 3862888,
         "SoruMetni": "İlham panosu olarak kullanılan araç nedir?",
-        "A": "Foodboard<br/>",
-        "B": "Soulboard<br/>",
-        "C": "<br/>Museboard<br/>",
-        "D": "Moodboard<br/>",
+        "A": "Foodboard",
+        "B": "Soulboard",
+        "C": "<br/>Museboard",
+        "D": "Moodboard",
         "E": "Soultable",
         "DogruCevap": "D",
         "DersAd": "Ambalaj Tasarımı",
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "MOODBOARD: Görüntüleri, malzemeleri, metni ve diğer tasarım öğelerini nihai <br/>tasarımın stilini temsil eden bir formatta <br/>düzenleyen fiziksel veya dijital kolajlardır. <br/>“mood”+”board” kelimelerinden oluşup; <br/>Türkçe karşılığı “ruh hali, duygu durumu”+ “pano” olarak çevrilir, ilham panosu <br/>olarak kullanılır. Moodboard, tasarım sürecinde ilham almak için kullanılan, üzerine resim veya yazı gibi birçok materyalin <br/>yerleştirildiği, konuyu daha iyi kavramak <br/>ve görsel bir dil oluşturmak adına yapılan <br/>panolardır. İlham panoları tasarım disiplinin birçok alanında, özellikle hazırlık sürecinde kullanılır."
+        "Aciklama": "MOODBOARD: Görüntüleri, malzeme\u0002leri, metni ve diğer tasarım öğelerini nihai <br/>tasarımın stilini temsil eden bir formatta <br/>düzenleyen fiziksel veya dijital kolajlardır. <br/>“mood”+”board” kelimelerinden oluşup; <br/>Türkçe karşılığı “ruh hali, duygu duru\u0002mu”+ “pano” olarak çevrilir, ilham panosu <br/>olarak kullanılır. Moodboard, tasarım sü\u0002recinde ilham almak için kullanılan, üze\u0002rine resim veya yazı gibi birçok materyalin <br/>yerleştirildiği, konuyu daha iyi kavramak <br/>ve görsel bir dil oluşturmak adına yapılan <br/>panolardır. İlham panoları tasarım disipli\u0002nin birçok alanında, özellikle hazırlık sü\u0002recinde kullanılır. (Gök<br>MOODBOARD: Görüntüleri, malzemeleri, metni ve diğer tasarım öğelerini nihai <br/>tasarımın stilini temsil eden bir formatta <br/>düzenleyen fiziksel veya dijital kolajlardır. <br/>“mood”+”board” kelimelerinden oluşup; <br/>Türkçe karşılığı “ruh hali, duygu durumu”+ “pano” olarak çevrilir, ilham panosu <br/>olarak kullanılır. Moodboard, tasarım sürecinde ilham almak için kullanılan, üzerine resim veya yazı gibi birçok materyalin <br/>yerleştirildiği, konuyu daha iyi kavramak <br/>ve görsel bir dil oluşturmak adına yapılan <br/>panolardır. İlham panoları tasarım disiplinin birçok alanında, özellikle hazırlık sürecinde kullanılır."
     },
     {
         "SoruID": 3862889,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Beşikten beşiğe (cradle to cradle) ise kimyager Michael Braungart ve mimar William McDonough tarafından ortaya atılan bir değerlendirme modelidir. Bu model “Atığın” olmadığı kapalı döngü bir sistemdir."
+        "Aciklama": "Braungart, paketin ilk kullanımını tasarlarken reenkarnasyon için tasarım yapmayı ve malzemenin bir sonraki kullanımını planlamayı tavsiye eder.<br>Beşikten beşiğe (cradle to cradle) ise kimyager Michael Braungart ve mimar William McDonough tarafından ortaya atılan bir değerlendirme modelidir. Bu model “Atığın” olmadığı kapalı döngü bir sistemdir."
     },
     {
         "SoruID": 3862890,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Braungart, paketin ilk kullanımını tasarlarken <strong><em>reenkarnasyon*</em></strong> için tasarım yapmayı ve malzemenin bir sonraki kullanımını planlamayı tavsiye eder.<br/><br/>NOT:<br>*Braungart'ın tasarım modeli çağrısında kullandığı Design for Reincarnation\" (reenkarnasyon için tasarlayın) ifadesinde reenkarnasyon kelimesini tercih etmesi, tasarım ürününün yaşam döngüsünü tıpkı canlılardaki biyolojik sürece benzetmesine dayanır.</br><br/><br/>Atık oluşturmamanın hedeflendiği bu sistemde kullanım süresini doldurmuş tasarım ürünü atığa dönüşmek yerine, ya bir üretim sistemi için teknik bir <strong>besin</strong> maddesi olarak ya da biyolojik olarak güvenli bir şekilde parçalanan biyolojik bir <strong>besin</strong> maddesi olarak tekrar tekrar geri dönüştürülür veya başka bir amaca uygun hale getirilir. Braungart bu tasarım yaklaşımında besin ve reenkarnasyon benzeri ifadeleri, endüstriyel ürünlerin de tıpkı canlıların geçirdiği doğum, beslenme, ölüm gibi biyolojik süreçlere tabi olduğunu vurgulamak için kullandığı benzetmelerdir."
+        "Aciklama": "Beşikten beşiğe (cradle to cradle) ise kimyager Michael Braungart ve mimar William McDonough tarafından ortaya atılan bir değerlendirme modelidir. Bu model “Atığın” olmadığı kapalı döngü bir sistemdir. Kullanım ömrünün sonundaki ambalajlar, ya bir üretim sistemi için teknik bir besin maddesi olarak ya da biyolojik olarak güvenli bir şekilde parçalanan biyolojik bir besin maddesi olarak tekrar tekrar geri dönüştürülür veya başka bir amaca uygun hale getirilir. Braungart, paketin ilk kullanımını tasarlarken reenkarnasyon için tasarım yapmayı ve malzemenin bir sonraki kullanımını planlamayı tavsiye eder.<br>Braungart, paketin ilk kullanımını tasarlarken <strong><em>reenkarnasyon*</em></strong> için tasarım yapmayı ve malzemenin bir sonraki kullanımını planlamayı tavsiye eder.<br/>NOT:<br/>*Braungart'ın tasarım modeli çağrısında kullandığı Design for Reincarnation\" (reenkarnasyon için tasarlayın) ifadesinde reenkarnasyon kelimesini tercih etmesi, tasarım ürününün yaşam döngüsünü tıpkı canlılardaki biyolojik sürece benzetmesine dayanır.</br><br/>Atık oluşturmamanın hedeflendiği bu sistemde kullanım süresini doldurmuş tasarım ürünü atığa dönüşmek yerine, ya bir üretim sistemi için teknik bir <strong>besin</strong> maddesi olarak ya da biyolojik olarak güvenli bir şekilde parçalanan biyolojik bir <strong>besin</strong> maddesi olarak tekrar tekrar geri dönüştürülür veya başka bir amaca uygun hale getirilir. Braungart bu tasarım yaklaşımında besin ve reenkarnasyon benzeri ifadeleri, endüstriyel ürünlerin de tıpkı canlıların geçirdiği doğum, beslenme, ölüm gibi biyolojik süreçlere tabi olduğunu vurgulamak için kullandığı benzetmelerdir."
     },
     {
         "SoruID": 3862891,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Stok ambalajları genellikle<br/>markasızdır ve ürünlerin tanıtımına yönelik özel <br/>tasarımları veya baskıları bulunmaz."
+        "Aciklama": "Stok ambalajı, genellikle birçok farklı ürün için<br/>kullanılabilen ve kolayca erişilebilen bir ambalaj <br/>çeşididir.<br>Stok ambalajları genellikle<br/>markasızdır ve ürünlerin tanıtımına yönelik özel <br/>tasarımları veya baskıları bulunmaz."
     },
     {
         "SoruID": 3862892,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Proje kabul edildikten sonra müşteriyi ve talebi doğru anlamak adına müşteri <br/>ile yüz yüze bir görüşme yapılarak yönbilgi (brief) <br/>tüm detaylarıyla alınmalı, müşterinin tam olarak <br/>ne istediği iki taraf için de netleşene kadar sorular <br/>sorularak durum netleştirilmelidir."
+        "Aciklama": "Kitabımızda görüşmenin yüz yüze yapılması önerilmektedir.<br>Proje kabul edildikten sonra müşteriyi ve talebi doğru anlamak adına müşteri <br/>ile yüz yüze bir görüşme yapılarak yönbilgi (brief) <br/>tüm detaylarıyla alınmalı, müşterinin tam olarak <br/>ne istediği iki taraf için de netleşene kadar sorular <br/>sorularak durum netleştirilmelidir."
     },
     {
         "SoruID": 3862893,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tanımlama: Yapılan bu tanımlama birçok<br/>noktada beş aşamalı sürece benzemektedir. İlk aşama olan tanımlama süreci müşteriden alınan yönbilgi ile başlar. Yönbilginin netleştirilmesi için bir<br/>kontrol listesi yapılabilir:<br/>• Müşterinin ne istediğini anladınız mı?<br/>• Müşteri ne beklediğini biliyor mu?<br/>• Terimlerin tanımlarında anlaştınız mı?<br/>• Yönbilginin kusurları var mı?<br/>• Müşterinin beklentilerini karşılayabilecek<br/>misiniz?"
+        "Aciklama": "Kitabımızda fikir bulma aşaması için \"Fikirler, çizimler, eskizler, moodboardlar veya diğer görsel araçlarla ifade edilir. Bu süreçte, farklı yaklaşımlar deneyerek sınırları zorlamak ve yaratıcılığı teşvik etmek önemlidir\" denmiştir. Fikir bulma aşaması tanımlama aşamasından sonra gelir.<br>Tanımlama: Yapılan bu tanımlama birçok<br/>noktada beş aşamalı sürece benzemektedir. İlk aşama olan tanımlama süreci müşteriden alınan yönbilgi ile başlar. Yönbilginin netleştirilmesi için bir<br/>kontrol listesi yapılabilir:<br/>• Müşterinin ne istediğini anladınız mı?<br/>• Müşteri ne beklediğini biliyor mu?<br/>• Terimlerin tanımlarında anlaştınız mı?<br/>• Yönbilginin kusurları var mı?<br/>• Müşterinin beklentilerini karşılayabilecek<br/>misiniz?"
     }
 ]

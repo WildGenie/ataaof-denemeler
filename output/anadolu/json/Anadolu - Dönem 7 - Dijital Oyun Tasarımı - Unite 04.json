@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karakter animasyonu"
+        "Aciklama": "Karakter animasyonları, oyuncuların oyunun karakterleriyle duygusal bağ kurmasını sağlar. Karakterlerin mimikleri, hareketleri ve tepkileri, onların kişiliklerini ve hikâyelerini anlatır. Karakter<br/>animasyonları, kullanıcıların karakter kontrolüne ilişkin geri bildirim sağlar. Bir karakterin koşma,<br/>zıplama veya saldırı animasyonu, oyun içi fizik ve hareket sisteminin anlaşılmasına yardımcı olur. Yüz animasyonları ve beden dili, karakterlerin duygularını ve niyetlerini ifade etmede kritik öneme sahiptir. Bu, özellikle hikâye odaklı oyunlarda, oyuncuların hikâyeye daha fazla dahil olmasını sağlar.<br>Karakter animasyonu"
     },
     {
         "SoruID": 3690999,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Beklenti"
+        "Aciklama": "Beklenti, bir hareketin başlamadan önceki hazırlık evresini ifade eder. Bu, izleyicinin veya oyuncunun bir sonraki hareketi öngörebilmesini sağlar. Örneğin, bir karakterin zıplamadan önce dizlerini bükmesi, atış yapmadan önce geri çekilmesi gibi. Dijital oyunlarda öncül, oyunculara hareketlerin ne zaman gerçekleşeceği konusunda ipuçları verir ve böylece daha interaktif bir deneyim sunar."
     },
     {
         "SoruID": 3691006,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sahneleme"
+        "Aciklama": "Sahneleme, animasyonun odak noktasını belirginleştirmek ve hikâyenin ne hakkında olduğunu<br/>açıkça iletmek için kullanılır. Bir sahnede, hareket, ışıklandırma, kamera açıları ve arka plan, izleyicinin dikkatini nereye yönlendirmesi gerektiğini<br/>belirlemeye yardımcı olur. Dijital oyunlarda, sahneleme özellikle oyuncunun dikkatini çeşitli görevlere, düşmanlara veya nesnelere yönlendirebilmek için önemli bir prensiptir."
     },
     {
         "SoruID": 3691012,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zamanlama"
+        "Aciklama": "Zamanlama prensibi animasyondaki hareketlerin hızı ve ritmi ile ilgilidir. Doğru zamanlama, animasyonun gerçekçiliğini ve etkisini belirler. Oyunlarda, zamanlama savaş sahneleri, diyaloglar ve interaktif elementler için kritik önem taşır."
     },
     {
         "SoruID": 3691338,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sprite Tabanlı Animasyonlar"
+        "Aciklama": "Sprite tabanlı animasyonlar, animatörlerin karakterlerin ve nesnelerin çeşitli hareket durumlarını temsil eden bir dizi 2D görüntü oluşturmasını gerektirir. Bu görüntüler, oyun içinde belirli bir sıra ve hızda gösterilerek animasyon etkisi yaratır. Hollow Knight (Team Cherry) 2D oyunlara örnek olarak verilebilir. Bu metroidvania tarzı oyun, el çizimi 2D animasyonların<br/>iyi bir örneğidir."
     },
     {
         "SoruID": 3691349,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Prosedürel Animasyon"
+        "Aciklama": "Prosedürel animasyon, fizik motorları ve algoritmalar kullanılarak gerçek zamanlı olarak oluşturulan<br/>animasyon türüdür. Bu yöntem, özellikle oyun içi dinamiklerin ve etkileşimlerin gerçekçiliğini artırmak için kullanılır. Prosedürel animasyon, karakterlerin yüzeylerle etkileşimini ve çevresel faktörlere tepkilerini gerçekçi bir şekilde simüle eder. Bu, özellikle açık dünya oyunları ve simülasyon oyunlarında kullanışlıdır."
     },
     {
         "SoruID": 3691362,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kilit Kare (Keyframe) tekniği"
+        "Aciklama": "Kilit kare animasyonu, animatörlerin belirli anahtar pozisyonları elle çizdiği veya tasarladığı, ardından yazılımın bu kilit kareler arasındaki hareketi otomatik olarak doldurduğu bir tekniktir. Örneğin “Cuphead” oyunu, kilit kare tekniğini kullanarak karakterlerin animasyonlarında 1930’ların çizgi filmlerine özgü bir estetik sunar.<br>Kilit Kare (Keyframe) tekniği"
     },
     {
         "SoruID": 3691378,
@@ -157,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Blender"
+        "Aciklama": "Blender kendine özgü render motorları olan Cycles ve Eevee’yi kullanır. Blender, Cycles render motoru sayesinde gerçek zamanlı render alabilir. Cycles, Blender için geliştirilmiş olan hem GPU hem de CPU destekli, fiziksel olarak doğru aydınlatma ve malzemeleri simüle eden bir render motorudur. Ayrıca, Blender’ın Grease Pencil özelliği, 2D çizim ve animasyonların 3D sahnelerle entegre edilmesini sağlar. Grease Pencil, Blender içinde 2D çizim ve animasyon oluşturmak için kullanılan güçlü bir araçtır. Son olarak Blender, Python programlama dili desteği ile genişletilebilir ve özelleştirilebilir bir araçtır."
     },
     {
         "SoruID": 3691385,
-        "SoruMetni": "Aşağıdakilerden hangisi sesin kaynağının yönünü ve mesafesini simüle ederek oyuncuya mekânsal<br/> farkındalık kazandıran özellikle VR oyunlar ve açık dünya oyunları için kritik öneme sahip olan ses tasarımıdır?",
+        "SoruMetni": "Aşağıdakilerden hangisi sesin kaynağının yönünü ve mesafesini simüle ederek oyuncuya mekânsal<br/>farkındalık kazandıran özellikle VR oyunlar ve açık dünya oyunları için kritik öneme sahip olan ses tasarımıdır?",
         "A": "3D Ses ve Mekansal Ses",
         "B": "Katmanlı Ses Tasarımı",
         "C": "Dinamik Ses Sistemleri",
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3D Ses ve Mekansal Ses"
+        "Aciklama": "3D Ses ve Mekânsal Ses: Sesin kaynağının yönünü ve mesafesini simüle ederek oyuncuya mekânsal<br/>farkındalık kazandıran tekniktir. Özellikle VR oyunlar ve açık dünya oyunları için kritik öneme<br/>sahiptir.<br>3D Ses ve Mekansal Ses"
     },
     {
         "SoruID": 3691398,
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dolby Atmos"
+        "Aciklama": "Dolby Atmos (Mekânsal Ses): Dolby Atmos, oyunlarda mekânsal ses kullanımı için bir<br/>standart olarak kabul edilir. Sesleri sadece yatay düzlemde değil, aynı zamanda dikey düzlemde de konumlandırabilen bu teknoloji, sesleri gerçek dünyadaki gibi daha doğal ve üç boyutlu bir şekilde sunar."
     }
 ]

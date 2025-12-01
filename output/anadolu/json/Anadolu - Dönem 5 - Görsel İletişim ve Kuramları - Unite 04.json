@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Göstergebilim"
+        "Aciklama": "Göstergebilim, gözle görünen, aşikâr olan anlamın yanında metinlerin arkasında saklı bulunan derin anlamı; alt metinleri ortaya çıkaran ve analiz eden bir disiplindir."
     },
     {
         "SoruID": 3603441,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "sembol"
+        "Aciklama": "Göstergeler aynı zamanda görüntüsel<br/>gösterge (ikon), belirti ve sembol olmak<br/>üzere de üçe ayrılır."
     },
     {
         "SoruID": 3603442,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğal göstergeler ve yapay göstergeler olarak ikiye ayrılır."
+        "Aciklama": "Nitelikleri bakımından ise göstergeleri<br/>doğal göstergeler ve yapay göstergeler olarak<br/>ikiye ayırmak mümkündür.<br>Doğal göstergeler ve yapay göstergeler olarak ikiye ayrılır."
     },
     {
         "SoruID": 3603443,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğal göstergeler."
+        "Aciklama": "Doğal göstergeler<br/>kendiliğinden doğada bulunan ve belirli<br/>bir sebep sonuç ilişkisi kurmamıza yarayan<br/>göstergelerdir.<br>Doğal göstergeler."
     },
     {
         "SoruID": 3603444,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kültürün"
+        "Aciklama": "Barthes coğrafya ve kültürün göstergeler üzerinde büyük etkisi olduğunu ifade etmiştir."
     },
     {
         "SoruID": 3603445,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kod"
+        "Aciklama": "Fiske’nin “anlamlandırma sistemi”<br/>olarak nitelendirdiği kodlar mesajların iletilmesine<br/>olanak sağlayan bir göstergeler<br/>sistemidir."
     },
     {
         "SoruID": 3603446,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dil"
+        "Aciklama": "Sosyal kodların en başında elbette dil gelir. Dilin<br/>dışında beden dili, jestler, mimikler,<br/>hâl ve tutumlar, ses tonu ve giyim kuşam<br/>da yine bu tür kodlara örnek olarak sayılabilir."
     },
     {
         "SoruID": 3603447,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Resim"
+        "Aciklama": "Resim sanatı insanoğlunun kendini dil dışında<br/>bir araçla ifade etme çabasının en eski yöntemlerindendir."
     },
     {
         "SoruID": 3603449,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Afiş ve kitap tasarımlarıdır."
+        "Aciklama": "Grafik tasarımında en yaratıcı alanlardan ikisi hiç şüphesiz afiş ve kitap tasarımlarıdır. Tasarımcılar<br/>özellikle resim sanatından ve sanat akımlarından etkilenmiş hatta bazı önemli ressamlar, sanat sanat içindir<br/>mottosuna karşı çıkarak afiş ya da kitap kapağı tasarımı da yapmışlardır."
     },
     {
         "SoruID": 3603577,
@@ -497,11 +497,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nitelikleri bakımından göstergeler doğal ve  yapay olmak üzere ikiye ayrılır. Doğru yanıt B dir."
+        "Aciklama": "Nitelikleri bakımından göstergeler doğal ve yapay olmak üzere ikiye ayrılır. Doğru yanıt B dir."
     },
     {
         "SoruID": 3603621,
-        "SoruMetni": "Aşağıdakilerden hangisi  hiçbir zaman fiziki bir varlık değil soyut bir anlamdır?",
+        "SoruMetni": "Aşağıdakilerden hangisi hiçbir zaman fiziki bir varlık değil soyut bir anlamdır?",
         "A": "Gösterge",
         "B": "Gösteren",
         "C": "Gösterilen",
@@ -521,7 +521,7 @@
     },
     {
         "SoruID": 3603622,
-        "SoruMetni": "\"Anlam .................... bağımsız değildir\"<br/> Yukarıdaki ifadede boşluğa aşağıdakilerden hangisi  gelmelidir.",
+        "SoruMetni": "\"Anlam .................... bağımsız değildir\"<br/>Yukarıdaki ifadede boşluğa aşağıdakilerden hangisi gelmelidir.",
         "A": "Teknolojiden",
         "B": "Yorumlayandan",
         "C": "Fizik kanunlarından",

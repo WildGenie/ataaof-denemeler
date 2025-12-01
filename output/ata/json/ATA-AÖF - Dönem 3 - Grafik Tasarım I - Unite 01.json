@@ -16,7 +16,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 321473,
@@ -35,11 +36,12 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 321474,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi mağara resimleriyle bilinen, başlıca yerlerden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi mağara resimleriyle bilinen, başlıca yerlerden biri <u>değildir</u>?</strong>",
         "A": "Lascaux Mağarası, Fransa",
         "B": "Coliboaia Mağarası, Romanya",
         "C": "Damlataş Mağarası, Türkiye",
@@ -54,14 +56,15 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 321475,
         "SoruMetni": "<strong>Aşağıdakilerden hangisi yazı öncesine ait bir görsel iletişim formudur?</strong>",
         "A": "Hiyeroglif",
         "B": "Meteoroglif",
-        "C": "Noraglif\r<br/>",
+        "C": "Noraglif",
         "D": "Terraglif",
         "E": "Petroglif",
         "DogruCevap": "E",
@@ -73,7 +76,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 321476,
@@ -92,11 +96,12 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 321477,
-        "SoruMetni": "8. yüzyılın sonlarında küçük (miniskül) harfler ortaya çıkmış ve Frenk İmparatoru Şarlman (Charlamagne) tarafından resmî yazı biçimi olarak ilan edilmiştir.<strong><br/> <br/>Aşağıdakilerden hangisi küçük harflerin ortaya çıkmasının önemli nedenlerinden biridir?</strong>",
+        "SoruMetni": "8. yüzyılın sonlarında küçük (miniskül) harfler ortaya çıkmış ve Frenk İmparatoru Şarlman (Charlamagne) tarafından resmî yazı biçimi olarak ilan edilmiştir.<strong><br/>Aşağıdakilerden hangisi küçük harflerin ortaya çıkmasının önemli nedenlerinden biridir?</strong>",
         "A": "Küçük harflerin görsel olarak daha etkileyici olması",
         "B": "Küçük harflerin Frenk kültürünü yansıtması",
         "C": "Küçük harflerin daha az maliyetli olması",
@@ -111,12 +116,13 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 321478,
         "SoruMetni": "<strong>Aşağıdakilerden hangisi sanayi devrimi sonrasında ortaya çıkan görsel iletişim ve grafik tasarım mecralarından biri <u>değildir</u>?</strong>",
-        "A": "Matbaa\r<br/>",
+        "A": "Matbaa",
         "B": "Afiş",
         "C": "Günlük Gazete",
         "D": "Dergi",
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 321479,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 321480,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 321481,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 325555,
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 325613,
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 364921,
@@ -244,7 +256,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 367650,
@@ -263,7 +276,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 368309,
@@ -282,7 +296,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 368310,
@@ -301,7 +316,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 368311,
@@ -320,7 +336,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 368317,
@@ -339,7 +356,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 395873,
@@ -358,7 +376,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 395875,
@@ -377,6 +396,7 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     }
 ]

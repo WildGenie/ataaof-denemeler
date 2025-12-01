@@ -121,12 +121,12 @@
     },
     {
         "SoruID": 3670792,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Hareketli görüntünün kaydedilmesi veya görüntünün hareketli olarak izlenebilmesini sağlayan ilerleme, 19. yüzyılda fotoğraf makinesinin icadına kadar olan süreçte teknik olarak hangi araca bağlı kalmıştır?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Hareketli görüntünün kaydedilmesi veya görüntünün hareketli olarak izlenebilmesini sağlayan ilerleme, 19. yüzyılda fotoğraf makinesinin icadına kadar olan süreçte teknik olarak hangi araca bağlı kalmıştır?",
         "A": "Camera Obscura",
-        "B": "<br/> <br/> <br/> <br/>Praksinoskop<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Flipbook (çevir çizim)<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Kinora<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Cinématographe<br/><br/><br/><br/>",
+        "B": "<br/>Praksinoskop",
+        "C": "<br/>Flipbook (çevir çizim)",
+        "D": "<br/>Kinora",
+        "E": "<br/>Cinématographe",
         "DogruCevap": "A",
         "DersAd": "Hareketli Grafik Tasarımı",
         "Unite": 1,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Hareketli görüntünün kaydedilmesi veya görüntünün hareketli olarak izlenebilmesini sağlayan ilerleme, 19. yüzyılda fotoğraf makinesinin icadına kadar olan süreçte teknik olarak Camera Obscura’ya bağlı kalmıştır. Modern kameranın öncüsü, atası olarak kabul edilen Camera Obscura, görüntünün hareketlendirilmesinin seyrini şekillendirmede çok önemli bir rol oynamıştır. İmgenin harekete geçirilmesi süreci, ışık ve gölgenin manipülasyonunu, optik oyuncakların kullanımını ve Camera Obscura’nın entegrasyonunu aracılığıyla olmuştur.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Hareketli görüntünün kaydedilmesi veya görüntünün hareketli olarak izlenebilmesini sağlayan ilerleme, 19. yüzyılda fotoğraf makinesinin icadına kadar olan süreçte teknik olarak Camera Obscura’ya bağlı kalmıştır. Modern kameranın öncüsü, atası olarak kabul edilen Camera Obscura, görüntünün hareketlendirilmesinin seyrini şekillendirmede çok önemli bir rol oynamıştır. İmgenin harekete geçirilmesi süreci, ışık ve gölgenin manipülasyonunu, optik oyuncakların kullanımını ve Camera Obscura’nın entegrasyonunu aracılığıyla olmuştur."
     },
     {
         "SoruID": 3670809,
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 3678918,
-        "SoruMetni": "<span style=\"text-align: justify;\">Hedef kitlenin dikkatini çekmek, karmaşık konuları kolayca anlatmak, eğlendirmek ve güçlü marka kimliklerinin yaratılmasında </span><span style=\"text-align: justify;\">grafik tasarım öğelerinin zaman, ses, mekân unsurları ile birlikteliğinden oluşan yapı aşağıdakilerden hangisidir?</span>",
+        "SoruMetni": "<span style=\"text-align: justify;\">Hedef kitlenin dikkatini çekmek, karmaşık konuları kolayca anlatmak, eğlendirmek ve güçlü marka kimliklerinin yaratılmasında </span><span style=\"text-align: justify;\">grafik tasarım öğelerinin zaman, ses, mekân unsurları ile birlikteliğinden oluşan yapı aşağıdakilerden hangisidir?</span>",
         "A": "Hareketli grafik",
         "B": "Animasyon",
         "C": "Video",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/> <br/>Grafik tasarım öğelerinin zaman, ses, mekân unsurları ile birlikteliğinden oluşan hareketli grafikler, dijital medyanın çevrelediği günümüz yaşamında çarpıcı örnekleriyle varlığını hissettirmektedir. Hedef kitlenin dikkatini çekmek, karmaşık konuları kolayca anlatmak, eğlendirmek ve güçlü marka kimliklerinin yaratılmasında <strong>hareketli grafik</strong>ler etkili bir araçtır.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Grafik tasarım öğelerinin zaman, ses, mekân unsurları ile birlikteliğinden oluşan hareketli grafikler, dijital medyanın çevrelediği günümüz yaşamında çarpıcı örnekleriyle varlığını hissettirmektedir. Hedef kitlenin dikkatini çekmek, karmaşık konuları kolayca anlatmak, eğlendirmek ve güçlü marka kimliklerinin yaratılmasında <strong>hareketli grafik</strong>ler etkili bir araçtır."
     },
     {
         "SoruID": 3678957,
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 3679084,
-        "SoruMetni": "Aşağıdaki tanımlamalardan hangisi/hangileri doğrudur?<br/><br/><strong>I.</strong> İlk filmlerin sessiz oluşu sebebiyle başlık kartlarının filmi tanıtıcı görevinin yanı sıra hikâyenin anlaşılması için gerekli olan konuşma diyaloglarını göstermek gibi ek bir işlevi de vardı.  <br/><br/><strong>II.</strong> Başlık kartları önce fotoğraflanır, daha sonra ana filmin içine yerleştirilir ve sırasıyla kartlar hareketlendirilirdi.<br/><br/><strong>III.</strong> Jenerik bilgilerinin yalnızca metinsel olarak düzenlendiği bu kartlar, prodüksiyon ekibinde bulunan yapımcının sorumluluğunda tasarlanmaktaydı.<br/><br/><strong>IV.</strong> Siyah-beyaz filmlerde, yansıtıldığında daha etkili görünmesi sebebiyle başlık kartları siyah renkteki arka plan veya görsel üzerinde, elle çizilmiş çoğunlukla beyaz renkteki yazılardan oluşuyordu.<br/><br/><strong>V.</strong> Sözcüklerin (filmin adı, filmde görev alanların isimleri), çizgiler, hatlar veya dekoratif çizimler ile süslendiği başlık kartlarında, filmin türü kullanılan yazı stilini de belirliyordu.",
+        "SoruMetni": "Aşağıdaki tanımlamalardan hangisi/hangileri doğrudur?<br/><strong>I.</strong> İlk filmlerin sessiz oluşu sebebiyle başlık kartlarının filmi tanıtıcı görevinin yanı sıra hikâyenin anlaşılması için gerekli olan konuşma diyaloglarını göstermek gibi ek bir işlevi de vardı. <br/><strong>II.</strong> Başlık kartları önce fotoğraflanır, daha sonra ana filmin içine yerleştirilir ve sırasıyla kartlar hareketlendirilirdi.<br/><strong>III.</strong> Jenerik bilgilerinin yalnızca metinsel olarak düzenlendiği bu kartlar, prodüksiyon ekibinde bulunan yapımcının sorumluluğunda tasarlanmaktaydı.<br/><strong>IV.</strong> Siyah-beyaz filmlerde, yansıtıldığında daha etkili görünmesi sebebiyle başlık kartları siyah renkteki arka plan veya görsel üzerinde, elle çizilmiş çoğunlukla beyaz renkteki yazılardan oluşuyordu.<br/><strong>V.</strong> Sözcüklerin (filmin adı, filmde görev alanların isimleri), çizgiler, hatlar veya dekoratif çizimler ile süslendiği başlık kartlarında, filmin türü kullanılan yazı stilini de belirliyordu.",
         "A": "I ve II",
         "B": "I, II ve III",
         "C": "I, II, III ve IV",
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>I.</strong> İlk filmlerin sessiz oluşu sebebiyle başlık kartlarının filmi tanıtıcı görevinin yanı sıra hikâyenin anlaşılması için gerekli olan konuşma diyaloglarını göstermek gibi ek bir işlevi de vardı.  <br/><br/><strong>II.</strong> Başlık kartları önce fotoğraflanır, daha sonra ana filmin içine yerleştirilir ve sırasıyla kartlar hareketlendirilirdi.<br/><br/><strong>III.</strong> Jenerik bilgilerinin yalnızca metinsel olarak düzenlendiği bu kartlar, prodüksiyon ekibinde bulunan <strong>yazı sanatçısının</strong> sorumluluğunda tasarlanmaktaydı.<br/><br/><strong>IV.</strong> Siyah-beyaz filmlerde, yansıtıldığında daha etkili görünmesi sebebiyle başlık kartları siyah renkteki arka plan veya görsel üzerinde, elle çizilmiş çoğunlukla beyaz renkteki yazılardan oluşuyordu.<br/><br/><strong>V.</strong> Sözcüklerin (filmin adı, filmde görev alanların isimleri), çizgiler, hatlar veya dekoratif çizimler ile süslendiği başlık kartlarında, filmin türü kullanılan yazı stilini de belirliyordu."
+        "Aciklama": "<strong>I.</strong> İlk filmlerin sessiz oluşu sebebiyle başlık kartlarının filmi tanıtıcı görevinin yanı sıra hikâyenin anlaşılması için gerekli olan konuşma diyaloglarını göstermek gibi ek bir işlevi de vardı. <br/><strong>II.</strong> Başlık kartları önce fotoğraflanır, daha sonra ana filmin içine yerleştirilir ve sırasıyla kartlar hareketlendirilirdi.<br/><strong>III.</strong> Jenerik bilgilerinin yalnızca metinsel olarak düzenlendiği bu kartlar, prodüksiyon ekibinde bulunan <strong>yazı sanatçısının</strong> sorumluluğunda tasarlanmaktaydı.<br/><strong>IV.</strong> Siyah-beyaz filmlerde, yansıtıldığında daha etkili görünmesi sebebiyle başlık kartları siyah renkteki arka plan veya görsel üzerinde, elle çizilmiş çoğunlukla beyaz renkteki yazılardan oluşuyordu.<br/><strong>V.</strong> Sözcüklerin (filmin adı, filmde görev alanların isimleri), çizgiler, hatlar veya dekoratif çizimler ile süslendiği başlık kartlarında, filmin türü kullanılan yazı stilini de belirliyordu."
     },
     {
         "SoruID": 3679108,
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 3679156,
-        "SoruMetni": "Aşağıdaki tanımlamalardan hangileri doğrudur?<br/><br/><strong>I.</strong> 1940’larda yaratılmış bir başlık dizisi olarak oldukça dikkat çekici olan, Mary Ellen Bute tarafından yaratılan ve Norman McLaren tarafından canlandırılan Spook Sport (1940) önemli animasyonlardandır.<br/><br/><strong>II.</strong> Warner Brothers Stüdyosu, 1940’lardaki filmlerinde başrol oyuncularının portreleri üzerine isimleri gelecek şekildeki tasarlanan açılış jenerikleri ile bilinmektedir.<br/><br/><strong>III.</strong> 1950’lere kadar jenerik tasarımlarında deneysel yaklaşımlara sahip farklı tipografik çözümler içeren denemeler de yapılmıştır. Bu dönemde tasarımcıların yapım stüdyolarından bağımsız çalışamamaları, jenerik tasarımının yerinde saymasının en önemli etkenlerinden olmuştur.<br/><br/><strong>IV.</strong> 1960’lar, stüdyo firma ilişkisinin yerini tasarımcı-yönetmen ilişkisinin almaya başlaması, teknoloji ve endüstrinin gelişmesiyle jenerik yapımında deneysel yaklaşımların ve farklı tarzların denenmesine olanak sağlanmıştır.<br/><br/><strong>V.</strong> Yirminci yüzyılın başlarından itibaren sinema endüstrisindeki teknolojik gelişmeler ile film başlıklarında kullanılan hareketli görüntüler, izleyiciyi filme hazırlayan adeta bağımsız birer sanat formuna dönüşmüştür.",
+        "SoruMetni": "Aşağıdaki tanımlamalardan hangileri doğrudur?<br/><strong>I.</strong> 1940’larda yaratılmış bir başlık dizisi olarak oldukça dikkat çekici olan, Mary Ellen Bute tarafından yaratılan ve Norman McLaren tarafından canlandırılan Spook Sport (1940) önemli animasyonlardandır.<br/><strong>II.</strong> Warner Brothers Stüdyosu, 1940’lardaki filmlerinde başrol oyuncularının portreleri üzerine isimleri gelecek şekildeki tasarlanan açılış jenerikleri ile bilinmektedir.<br/><strong>III.</strong> 1950’lere kadar jenerik tasarımlarında deneysel yaklaşımlara sahip farklı tipografik çözümler içeren denemeler de yapılmıştır. Bu dönemde tasarımcıların yapım stüdyolarından bağımsız çalışamamaları, jenerik tasarımının yerinde saymasının en önemli etkenlerinden olmuştur.<br/><strong>IV.</strong> 1960’lar, stüdyo firma ilişkisinin yerini tasarımcı-yönetmen ilişkisinin almaya başlaması, teknoloji ve endüstrinin gelişmesiyle jenerik yapımında deneysel yaklaşımların ve farklı tarzların denenmesine olanak sağlanmıştır.<br/><strong>V.</strong> Yirminci yüzyılın başlarından itibaren sinema endüstrisindeki teknolojik gelişmeler ile film başlıklarında kullanılan hareketli görüntüler, izleyiciyi filme hazırlayan adeta bağımsız birer sanat formuna dönüşmüştür.",
         "A": "I, II, III ve IV",
         "B": "I, II, IV ve V",
         "C": "II, III, IV ve V",
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>I.</strong> 1940’larda yaratılmış bir başlık dizisi olarak oldukça dikkat çekici olan, Mary Ellen Bute tarafından yaratılan ve Norman McLaren tarafından canlandırılan Spook Sport (1940) önemli animasyonlardandır.<br/><br/><strong>II.</strong> Warner Brothers Stüdyosu, 1940’lardaki filmlerinde başrol oyuncularının portreleri üzerine isimleri gelecek şekildeki tasarlanan açılış jenerikleri ile bilinmektedir.<br/><br/><strong>III.</strong> 1950’lere kadar jenerik tasarımlarında deneysel yaklaşımlara sahip farklı tipografik çözümler içeren denemeler de yapılmıştır. Bu dönemde tasarımcıların yapım stüdyolarından <strong>bağımsız çalışmaları, jenerik tasarımını özgünleştiren</strong> en önemli etkenlerden olmuştur.<br/><br/><strong>IV.</strong> 1960’lar, stüdyo firma ilişkisinin yerini tasarımcı-yönetmen ilişkisinin almaya başlaması, teknoloji ve endüstrinin gelişmesiyle jenerik yapımında deneysel yaklaşımların ve farklı tarzların denenmesine olanak sağlanmıştır.<br/><br/><strong>V.</strong> Yirminci yüzyılın başlarından itibarensinema endüstrisindeki teknolojik gelişmeler ile film başlıklarında kullanılan hareketli görüntüler, izleyiciyi filme hazırlayan adeta bağımsız birer sanat formuna dönüşmüştür."
+        "Aciklama": "<strong>I.</strong> 1940’larda yaratılmış bir başlık dizisi olarak oldukça dikkat çekici olan, Mary Ellen Bute tarafından yaratılan ve Norman McLaren tarafından canlandırılan Spook Sport (1940) önemli animasyonlardandır.<br/><strong>II.</strong> Warner Brothers Stüdyosu, 1940’lardaki filmlerinde başrol oyuncularının portreleri üzerine isimleri gelecek şekildeki tasarlanan açılış jenerikleri ile bilinmektedir.<br/><strong>III.</strong> 1950’lere kadar jenerik tasarımlarında deneysel yaklaşımlara sahip farklı tipografik çözümler içeren denemeler de yapılmıştır. Bu dönemde tasarımcıların yapım stüdyolarından <strong>bağımsız çalışmaları, jenerik tasarımını özgünleştiren</strong> en önemli etkenlerden olmuştur.<br/><strong>IV.</strong> 1960’lar, stüdyo firma ilişkisinin yerini tasarımcı-yönetmen ilişkisinin almaya başlaması, teknoloji ve endüstrinin gelişmesiyle jenerik yapımında deneysel yaklaşımların ve farklı tarzların denenmesine olanak sağlanmıştır.<br/><strong>V.</strong> Yirminci yüzyılın başlarından itibarensinema endüstrisindeki teknolojik gelişmeler ile film başlıklarında kullanılan hareketli görüntüler, izleyiciyi filme hazırlayan adeta bağımsız birer sanat formuna dönüşmüştür."
     },
     {
         "SoruID": 3679204,
@@ -421,7 +421,7 @@
     },
     {
         "SoruID": 3671965,
-        "SoruMetni": "Kaynağındaki biçimiyle kaydedilebilen, saklanabilen ve iletilen görüntü türleri nasıl  tanımlanır?",
+        "SoruMetni": "Kaynağındaki biçimiyle kaydedilebilen, saklanabilen ve iletilen görüntü türleri nasıl tanımlanır?",
         "A": "Analog görüntü",
         "B": "Piksel Görüntü",
         "C": "Vektör görüntü",
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayısal (Dijital) Görüntü<br/> Çeşitli tekniklerle sayısal ortama dönüştürülen görüntüler ya da bilgisayar yazılımları kullanılarak oluşturulan çizim ve tasarımlar, sayısal görüntüler olarak adlandırılmaktadır."
+        "Aciklama": "Sayısal (Dijital) Görüntü<br/>Çeşitli tekniklerle sayısal ortama dönüştürülen görüntüler ya da bilgisayar yazılımları kullanılarak oluşturulan çizim ve tasarımlar, sayısal görüntüler olarak adlandırılmaktadır."
     },
     {
         "SoruID": 3672017,
@@ -521,7 +521,7 @@
     },
     {
         "SoruID": 3685587,
-        "SoruMetni": "Aşağıdakilerden hagisi veya hangileri 80 lerin ortasında Görsel iletişimde imgelerin anlamlandırılması ve göstergebilim üzerine yapılan deneyselliğin odak noktası olmuştur?<br/><br/><br>I. Yeni teknolojiI</br><br/><br/>II. Baskı<br/><br/>III. Multimeda uygulamaları",
+        "SoruMetni": "Aşağıdakilerden hagisi veya hangileri 80 lerin ortasında Görsel iletişimde imgelerin anlamlandırılması ve göstergebilim üzerine yapılan deneyselliğin odak noktası olmuştur?<br/>I. Yeni teknolojiI</br><br/>II. Baskı<br/>III. Multimeda uygulamaları",
         "A": "I/II/III",
         "B": "I/II",
         "C": "III",
@@ -617,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareket-ses-etkileşim"
+        "Aciklama": "GİRİŞ<br>Hareket-ses-etkileşim"
     },
     {
         "SoruID": 3690031,
@@ -637,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karmaşık bilgileri organize etmek ve izleyicinin dikkatini bir çerçeve/kurgu boyunca görsel ve işitsel düzeyde yönlendirebilmek için hiyerarşi kullanılır."
+        "Aciklama": "Denge<br>Karmaşık bilgileri organize etmek ve izleyicinin dikkatini bir çerçeve/kurgu boyunca görsel ve işitsel düzeyde yönlendirebilmek için hiyerarşi kullanılır."
     },
     {
         "SoruID": 3690058,
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dikey simetri"
+        "Aciklama": "Denge<br>Dikey simetri"
     },
     {
         "SoruID": 3690069,
@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düzenli-düzensiz"
+        "Aciklama": "Zıtlık<br>Düzenli-düzensiz"
     },
     {
         "SoruID": 3690077,
@@ -697,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düz-pürüzlü doku zıtlığıdır."
+        "Aciklama": "Zıtlık<br>Düz-pürüzlü doku zıtlığıdır."
     },
     {
         "SoruID": 3690086,
@@ -717,11 +717,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Akıcı"
+        "Aciklama": "Ritim<br>Akıcı"
     },
     {
         "SoruID": 3690092,
-        "SoruMetni": "Bir grafiğin bütününde siyah renkli metinler hakim iken metinler arasında  belirli kısımlarının kırmızı renkte yazılması hangi tasarım ilkesi ile ilişkilidir?",
+        "SoruMetni": "Bir grafiğin bütününde siyah renkli metinler hakim iken metinler arasında belirli kısımlarının kırmızı renkte yazılması hangi tasarım ilkesi ile ilişkilidir?",
         "A": "Denge",
         "B": "Ritim",
         "C": "Oran",
@@ -797,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir alan"
+        "Aciklama": "Devamlılık<br>Bir alan"
     },
     {
         "SoruID": 3678111,
@@ -817,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareketli grafiklerin üretimi, bilgisayar teknolojilerinin yaygınlaşmasıyla birlikte daha az karmaşık ve düşük maliyetli hale gelmiştir."
+        "Aciklama": "Bilinen en yaygın grafik tasarım stili hareketsiz, düz grafiktir. Bu grafik stili, görsellerin, yazı karakterlerinin ve renklerin kombinasyonuyla izleyiciyi maksimum bilgiye odaklamak, izleyicinin dikkatini çekmek, bilgiyi aktarıp toparlamak için kullanılır. Yirminci yüzyılın ikinci yarısında, yeni medya teknolojilerinin gelişimiyle grafik tasarımın uygulama alanının da genişlediği görülmektedir. Geng’e (2016, s. 761) göre geleneksel baskı tekniklerinde grafik tasarımın vizyonu statikken Yeni Medya Grafik Tasarımla birlikte birden fazla duyuya hitap eden dinamik performansa kavuşmuştur. Sonuç olarak, dinamik medya kullanımı orijinal Grafik Tasarımdan Hareketli Grafik Tasarıma dönüşmüştür. Betancourt’un (2019, s. 43) da belirttiği gibi, hareketlendirilmiş logolar, bilgi grafikleri ve diğer hareketli tasarım türleri sinemanın başlangıcı olan 1890’lardan bu yana sinema filmlerinin bir parçasıdır. Ancak bilgisayar teknolojileri gibi daha ucuz, daha verimli ve daha fazla hassasiyet sunan yeni teknolojiler yaygı<br>Hareketli grafiklerin üretimi, bilgisayar teknolojilerinin yaygınlaşmasıyla birlikte daha az karmaşık ve düşük maliyetli hale gelmiştir."
     },
     {
         "SoruID": 3678120,
@@ -837,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareketli grafikler, animasyon tekniklerinden faydalansa da, grafik tasarımın temel kurallarına tabidir ve tasarımın özgü ihtiyaçlarına yanıt verir."
+        "Aciklama": "Grafik tasarım ve animasyon arasında hareket bağlamında bir bağlantı kurulması, bu iki alanın birbiriyle birleştiği ya da aynı şey olduğu anlamına gelmemektedir. Hareketli grafik, animasyondan faydalansa da film diline değil, grafik tasarımın temel kurallarına tabidir ve grafik tasarıma özgü ihtiyaçlara cevap veren bir tasarım ürünüdür. “Animasyonda görüntülerin gerçekliği ve hareketi taklit etmek için ardışık olarak yakalandığını veya oluşturulduğunu, dolayısıyla yaşam ilüzyonuna (illusion of life) dayandığı varsayılabilir. Hareketli grafikler ise animasyonu bir teknik olarak kullanır ve grafik tasarımcıların fikirlerini hareketle iletmelerini sağlar” (Schlittler, 2015). Geng’in (2016, s. 761) de belirttiği gibi, hareketli grafik tasarım bilginin yeniden yapılandırılmasına dayanan bir tür popüler bilgi animasyonudur.<br>Hareketli grafikler, animasyon tekniklerinden faydalansa da, grafik tasarımın temel kurallarına tabidir ve tasarımın özgü ihtiyaçlarına yanıt verir."
     },
     {
         "SoruID": 3678133,
@@ -857,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcı özet hazırlamak, müşteriyle görüşmeyi ve projeyi anlamayı içerir; bu aşama, hareketli grafiklerin yapım sürecinde iletişim ve uyum sağlamak için önemlidir."
+        "Aciklama": "Hareketli Grafik yapımı aynı film prodüksiyonlarında olduğu gibi bir ön hazırlık süreci gerektirir. Prodüksiyon çalışmasını bir bina inşa etmek gibi görmek mümkün; neticede hiçbir yapı planlama olmadan inşa aşamasına geçemez; işe, planlama ve tasarım olmadan tuğlaları bir araya getirerek başlanmaz. Dolayısıyla inşa edilecek yapı ister bir sinema filmi isterse de grafik tasarım çalışması olsun sistematik bir ön çalışmaya ihtiyaç vardır. Tasarım alanında bu ön hazırlık süreci yaratıcı özet (creative brief) olarak tanımlanmaktadır. “Yaratıcı özet hazırlamak için önce müşteriyle görüşmek, proje hakkında bilgi edinmek ve ardından mümkün olduğunca çok araştırma yapmak gerekir” (Braha &amp; Byrne, 2011, s. 3). Bu özetin amacı, proje başlamadan önce paydaşlar arasında bir iletişim ve uyum sağlamaktır. Bundan ötürü hareketli grafik tasarımında yaratıcı süreç hem yapım aşamasını kolaylaştıracak hazırlıkları hem de hangi alıcı kitleye hangi bilginin ne ölçüde sunulması gerektiğiyle ilgili bir hedef bilgisi içermelidi<br>Yaratıcı özet hazırlamak, müşteriyle görüşmeyi ve projeyi anlamayı içerir; bu aşama, hareketli grafiklerin yapım sürecinde iletişim ve uyum sağlamak için önemlidir."
     },
     {
         "SoruID": 3678138,
@@ -877,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcı özet, yalnızca estetik tasarımın özetini içerir ve hareketli grafik tasarımında proje hedefleriyle ilgili bilgi sağlamaz."
+        "Aciklama": "D şıkkındaki 'Yaratıcı özet, yalnızca estetik tasarımın özetini içerir ve hareketli grafik tasarımında proje hedefleriyle ilgili bilgi sağlamaz' bilgisi yanlış bilgidir.<br>Yaratıcı özet, yalnızca estetik tasarımın özetini içerir ve hareketli grafik tasarımında proje hedefleriyle ilgili bilgi sağlamaz."
     },
     {
         "SoruID": 3678147,
@@ -897,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Teknik ve mali ihtiyaçlar, yapım süreci başladıktan sonra belirlendiğinde, tasarım sürecinde sorun yaşanabilir ve zaman kaybı yaşanabilir."
+        "Aciklama": "Hazırlık aşaması aynı zamanda çalışmanın teknik ve mali ihtiyaçlarının belirlenmesi için de önemlidir. Bu ihtiyaçların daha hazırlık aşamasında hesaplanması hem tasarımcının yapım sürecindeki ihtiyaçlarının önceden karşılanmasını hem de müşterinin beklediği iş için ayırması gereken bütçeyi öğrenmesini ve kendisini buna göre ayarlamasını sağlar. Örneğin bir reklam filmi için yapılacak çalışmada tasarımcının ihtiyaç duyduğu bilgisayar sisteminin ya da kullanılacak programların yapım aşamasına geçmeden önce hazırlanması, gerekirse satın alınması gerekir. Bu tür ihtiyaçların yapım süreci başladıktan sonra sağlanması hem zaman kaybı yaratır hem de ortaya çıkabilecek sorunlarda sürecin kilitlenmesi riskini ortaya çıkarır. Benzer şekilde maliyeti belli olmayan bir işin yürütülmesi hem müşteri hem de tasarımcı için büyük bir sıkıntı, karmaşa ve güvensizlik yaratacaktır. Ayrıca teknik türler de bütçeye uygun şekilde tercih edilir. Örneğin bütçe kompleks bir 3D çalışmayı karşılamaya yetmiyorsa ya bütçenin revize edi<br>Teknik ve mali ihtiyaçlar, yapım süreci başladıktan sonra belirlendiğinde, tasarım sürecinde sorun yaşanabilir ve zaman kaybı yaşanabilir."
     },
     {
         "SoruID": 3678162,
@@ -917,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Verilecek Mesaj"
+        "Aciklama": "Verilecek Mesaj: Projenin vereceği mesaj nedir? İzleyicide uyandırması beklenen duygular nelerdir? İzleyicide nasıl bir etki bırakması hedeflenmektedir?"
     },
     {
         "SoruID": 3678169,
@@ -937,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ön-prodüksiyon aşamasında hazırlanan tüm öğeler, prodüksiyon aşamasında uygulanmaya başlanır ve post-prodüksiyon aşamasında kurgulanır."
+        "Aciklama": "Hareketli grafik yapım aşamaları, daha önce de belirtildiği gibi animasyon film ve reel-görüntü film yapım aşamalarıyla benzer bir yol izlemektedir. Bu yol ön-prodüksiyon, prodüksiyon ve post-prodüksiyon olmak üzere üç aşamadan oluşmaktadır. İlk aşama yapım aşamasına geçmeden önce yapılan hazırlıkları, tasarımları ve planlamaları içerir. Prodüksiyon aşamasına geçmeden her türlü ayrıntının, senaryonun, taslağın, karakterlerin, konseptlerin, kamera, mekân ve sahne tasarımlarının, teknik ihtiyaçların, ışık ve ses planlamalarının yapıldığı süreçtir. Bu aşama animasyon/film/hareketli grafik yapım sürecinin en uzun ve ayrıntılı kısmını oluşturur. İkinci aşama olan prodüksiyona geçildiğinde zaten önceden hazırlanmış her öğe uygulamaya geçer. Animasyonlar, çekimler yapılır, oyuncular rollerini oynar, ses ve ışık ekibi çekimler sırasında görevlerini yapar. Ön-prodüksiyon aşamasında planlanmış tüm çekimler yapıldığında, tüm animasyonlar tamamlandığında üçüncü aşamaya, post-prodüksiyona geçilir. Yapım sonrası, film g<br>Ön-prodüksiyon aşamasında hazırlanan tüm öğeler, prodüksiyon aşamasında uygulanmaya başlanır ve post-prodüksiyon aşamasında kurgulanır."
     },
     {
         "SoruID": 3678181,
@@ -957,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Reel-görüntü filmlerinde ses, görüntünün üzerine eklenirken, animasyon filmlerinde görüntü sesin üzerine eklenir."
+        "Aciklama": "Animasyon film ve reel-görüntü film yapımı arasında belli farklılıklar olduğu gibi hareketli grafik yapımında da farklılıklar mevcuttur. Örneğin reel-görüntü filmlerinde ses tasarımı görüntünün üzerine eklenen bir öğeyken animasyon filmlerde görüntü sesin üzerine eklenir. Reel-görüntü filmlerinde çerçeve içerisinde ne gösterildiği daha önemliyken animasyonun merkezinde hareket olgusu bulunduğu için “çerçeveler arası” geçişler önemlidir. Bu farklılıklar yapım sürecindeki önceliklerin, ihtiyaçların ve yapım ekibindeki görevlerin de değişmesini gerektirir. Hareketli Grafik yapımında amaç, bilgi aktarımı olduğu için hikâyenin/senaryonun olay örgüsü de aynı üç perdeli yapıya dayanmasına rağmen değişime uğramaktadır.<br>Reel-görüntü filmlerinde ses, görüntünün üzerine eklenirken, animasyon filmlerinde görüntü sesin üzerine eklenir."
     },
     {
         "SoruID": 3678188,
@@ -977,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üç perdeli yapı, hareketli grafiklerde bilgi akışını açıklamak için kullanılır; gelişme bölümünde bilgiye dair çözümler belirlenir ve sonuç bölümünde bilgi tatmin edici bir şekilde sunulur."
+        "Aciklama": "Blazer’ın (2016) da belirttiği gibi, üç perdeli yapı, bilgi odaklı hareketli grafikler için de işe yaramaktadır. Sorun çözmeyi amaçlayan karakterlerle çalışılmıyor olsa da yanıtlanması gereken bir soru ya da problem mevcuttur. Animasyon film yapımında olay örgüsünün birinci aşaması olan giriş (birinci Perde) bölümünde karakterin tanıtılması, davranış ve tepkilerine göre ruh halinin ortaya konması, karakterin içinde bulunduğu dünya ve koşulların gösterilmesi, ileride gerçekleşecek olaylara/sorunlara zemin hazırlanması gibi bir başlangıç söz konusudur. Hareketli grafik yapımında bunun yerini kurguya konu olan bilgiyi açıklamaya zemin hazırlayacak soruların ve sorunların ortaya konması gerekmektedir. Üç Perdeli Yapının ikinci perdesinde yani gelişme bölümünde ise Hareketli Grafik yapımında başlangıçta ortaya konulan sorunun çözülmesi için gerekli durumlar belirlenir, sorulara cevaplar aranır, yanlış cevaplar elenir, sonuca giden yol aydınlatılır. Doruk noktasına varıldığında gerçek cevap ya da sorunun çözümüy<br>Üç perdeli yapı, hareketli grafiklerde bilgi akışını açıklamak için kullanılır; gelişme bölümünde bilgiye dair çözümler belirlenir ve sonuç bölümünde bilgi tatmin edici bir şekilde sunulur."
     },
     {
         "SoruID": 3678199,
@@ -997,7 +997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sekans"
+        "Aciklama": "Sekans “belirli bir başlangıcı, ortası ve sonu olan, tek bir fikirle birbirine bağlanan bir dizi sahnedir. Tek bir fikirle birleştirilen dramatik bir eylem birimi ya da bloğudur. Senaryonun iskeleti ya da omurgasıdır ve her şeyi bir arada tutar” (Field, 2004, s. 184)."
     },
     {
         "SoruID": 3686974,
@@ -1301,7 +1301,7 @@
     },
     {
         "SoruID": 3683376,
-        "SoruMetni": "Farklı lensler alınarak tek bir kamera ile makro çekimden panoramik manzaralara kadar çekim olanağı sağlayan, hem profesyonel hem de amatör fotoğrafçılar tarafından kullanılan dijital kameralara ne ad verilir?",
+        "SoruMetni": "Farklı lensler alınarak tek bir kamera ile makro çekimden panoramik manzaralara kadar çekim olanağı sağlayan, hem profesyonel hem de amatör fotoğrafçılar tarafından kullanılan dijital kameralara ne ad verilir?",
         "A": "DSLR",
         "B": "SDLR",
         "C": "DRLS",
@@ -1317,11 +1317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>DSLR </strong>ya da Digital Single Lens Reflex kamera (Tr. Dijital Tek Mercek Yansımalı kamera), hem profesyonel hem de amatör fotoğrafçılar tarafından kullanılan bir fotoğraf makinesi türüdür. Dijital SLR’lere farklı lensler alınarak tek bir kamera gövdesinin makro fotoğrafçılıktan panoramik manzaralara kadar her şeyi çekmesine olanak tanınabilir."
+        "Aciklama": "<strong>DSLR </strong>ya da Digital Single Lens Reflex kamera (Tr. Dijital Tek Mercek Yansımalı kamera), hem profesyonel hem de amatör fotoğrafçılar tarafından kullanılan bir fotoğraf makinesi türüdür. Dijital SLR’lere farklı lensler alınarak tek bir kamera gövdesinin makro fotoğrafçılıktan panoramik manzaralara kadar her şeyi çekmesine olanak tanınabilir."
     },
     {
         "SoruID": 3683416,
-        "SoruMetni": "Aşağıdakilerden hangisi, SSD’deki sıralı ve rastgele veri istekleri için yüksek okuma/yazma performansı sağlamak üzere optimize edilmiş yapılandırmanın iki temel bileşeninden biridir?",
+        "SoruMetni": "Aşağıdakilerden hangisi, SSD’deki sıralı ve rastgele veri istekleri için yüksek okuma/yazma performansı sağlamak üzere optimize edilmiş yapılandırmanın iki temel bileşeninden biridir?",
         "A": "Mekanik kol",
         "B": "Döner plakalar",
         "C": "Flash denetleyici",
@@ -1377,11 +1377,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "After Effects 2.5 boyutlu bir animasyon yazılımıdır. <br/> Adobe After Effects’i hareketli grafik sanatçıları için mükemmel bir yazılım haline getiren yüzlerce özellik vardır, ancak en önemlisi efekt tarayıcısı, zaman çizelgesi ve kompozisyon panelidir.<br/> Efekt tarayıcısı, zaman çizelgesindeki katmanlara (şekiller, görüntüler, videolar vb.) kolayca sürüklenip bırakılabilen yüzlerce efekt ve hazır ayarlar içeren bir paneldir. B<br/> After Effects’te bulunan zaman çizelgesi, bir video düzenleme yazılımında kullanmış olunabilecek normal bir zaman çizelgesi gibi değildir. After Effects zaman çizelgesi, tüm öğelerin (grafik, fotoğraf, video, yazı, ses dosyası vb.) düzenlenebileceği bir yerdir.<br/> <strong>Adobe ailesinde vektörel elemanlar oluşturmak ve düzenlemek için en elverişli yazılım Adobe Illustrator programıdır.</strong>"
+        "Aciklama": "After Effects 2.5 boyutlu bir animasyon yazılımıdır. <br/>Adobe After Effects’i hareketli grafik sanatçıları için mükemmel bir yazılım haline getiren yüzlerce özellik vardır, ancak en önemlisi efekt tarayıcısı, zaman çizelgesi ve kompozisyon panelidir.<br/>Efekt tarayıcısı, zaman çizelgesindeki katmanlara (şekiller, görüntüler, videolar vb.) kolayca sürüklenip bırakılabilen yüzlerce efekt ve hazır ayarlar içeren bir paneldir. B<br/>After Effects’te bulunan zaman çizelgesi, bir video düzenleme yazılımında kullanmış olunabilecek normal bir zaman çizelgesi gibi değildir. After Effects zaman çizelgesi, tüm öğelerin (grafik, fotoğraf, video, yazı, ses dosyası vb.) düzenlenebileceği bir yerdir.<br/><strong>Adobe ailesinde vektörel elemanlar oluşturmak ve düzenlemek için en elverişli yazılım Adobe Illustrator programıdır.</strong>"
     },
     {
         "SoruID": 3683508,
-        "SoruMetni": "Bu yazılım düzlemsel tabanlı bir hareket izleme sistemidir. Bu, temel olarak bir piksel kümesini izlemenin ötesinde hareketin izlendiği anlamına gelmektedir. Akıllı telefon ya da ekranlardaki görüntüleri değiştirme, videolardaki istenmeyen nesneleri kaldırma veya rotoskoplama işlemleri için kullanılabilmektedir. <br/> Sözü geçen yazılım aşağıdakilerden hangisidir?",
+        "SoruMetni": "Bu yazılım düzlemsel tabanlı bir hareket izleme sistemidir. Bu, temel olarak bir piksel kümesini izlemenin ötesinde hareketin izlendiği anlamına gelmektedir. Akıllı telefon ya da ekranlardaki görüntüleri değiştirme, videolardaki istenmeyen nesneleri kaldırma veya rotoskoplama işlemleri için kullanılabilmektedir. <br/>Sözü geçen yazılım aşağıdakilerden hangisidir?",
         "A": "Mocha AE",
         "B": "BorisFX Syntheyes",
         "C": "Maxon Trapcode Suite",
@@ -1421,7 +1421,7 @@
     },
     {
         "SoruID": 3683567,
-        "SoruMetni": "“Yapay zeka” teriminin ilk kez kullanıldığı Dartmouth Konferansı kaç yılında gerçekleşmiştir?",
+        "SoruMetni": "“Yapay zeka” teriminin ilk kez kullanıldığı Dartmouth Konferansı kaç yılında gerçekleşmiştir?",
         "A": "1955",
         "B": "1956",
         "C": "1957",
@@ -1477,7 +1477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üretken Yapay Zeka çok kısa bir zamanda inanılmaz gerçeklik veya estetik stillerde çok yetenekli sanatçı ve tasarımcıların elinden çıkmış gibi görünen eserler vermeye başlamıştır. Bu algoritmaların temeli, veri setlerinden öğrenme ve bu öğrenmeleri yeni, özgün tasarımlar oluşturmak için kullanım kapasitesine dayanır.<br/> Makine öğrenimi ve <strong>derin öğrenme</strong>, bu algoritmaların iki ana dalıdır. Makine öğrenimi, belirli veri desenlerini tanıma ve bu desenlere dayalı tahminlerde bulunma yeteneğine sahiptir. <strong>Derin öğrenme</strong> ise insan beyninin işlevlerini taklit eden yapay sinir ağları kullanarak daha karmaşık ve soyut görevleri yerine getirebilmektedir."
+        "Aciklama": "Üretken Yapay Zeka çok kısa bir zamanda inanılmaz gerçeklik veya estetik stillerde çok yetenekli sanatçı ve tasarımcıların elinden çıkmış gibi görünen eserler vermeye başlamıştır. Bu algoritmaların temeli, veri setlerinden öğrenme ve bu öğrenmeleri yeni, özgün tasarımlar oluşturmak için kullanım kapasitesine dayanır.<br/>Makine öğrenimi ve <strong>derin öğrenme</strong>, bu algoritmaların iki ana dalıdır. Makine öğrenimi, belirli veri desenlerini tanıma ve bu desenlere dayalı tahminlerde bulunma yeteneğine sahiptir. <strong>Derin öğrenme</strong> ise insan beyninin işlevlerini taklit eden yapay sinir ağları kullanarak daha karmaşık ve soyut görevleri yerine getirebilmektedir."
     },
     {
         "SoruID": 3683719,
@@ -1541,7 +1541,7 @@
     },
     {
         "SoruID": 3683832,
-        "SoruMetni": "Karma gerçeklik içinde yer alan artırılmış ve sanal gerçeklik kavramları kullanıcı deneyimi ve etkileşim açısından önemli farklılıklar gösterse de hepsi ......................................... temel prensiplerini paylaşır ve kullanıcıya daha zengin ve etkileşimli deneyimler sunma potansiyeline sahiptir.<br/> Yukarıdaki cümlede boş bırakılan kısmı aşağıdakileren hangisi doğru olarak tamamlar?",
+        "SoruMetni": "Karma gerçeklik içinde yer alan artırılmış ve sanal gerçeklik kavramları kullanıcı deneyimi ve etkileşim açısından önemli farklılıklar gösterse de hepsi ......................................... temel prensiplerini paylaşır ve kullanıcıya daha zengin ve etkileşimli deneyimler sunma potansiyeline sahiptir.<br/>Yukarıdaki cümlede boş bırakılan kısmı aşağıdakileren hangisi doğru olarak tamamlar?",
         "A": "artırılmış sanallığın",
         "B": "üretken algoritmaların",
         "C": "üretken yapay zekanın",

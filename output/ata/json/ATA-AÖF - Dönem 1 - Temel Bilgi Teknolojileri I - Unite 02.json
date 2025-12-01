@@ -16,7 +16,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376246,
@@ -35,7 +36,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376247,
@@ -54,7 +56,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376248,
@@ -73,15 +76,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376249,
-        "SoruMetni": "<strong>Her bilgisayar için eşsiz özellikte olan adres aşağıdakilerden hangisidir?</strong><br/>",
-        "A": "Kasa üretici firma adresi<br/>",
-        "B": "E-mail adresi<br/>",
-        "C": "MAC adresi<br/>",
-        "D": "CD-DVD sürücülerin adresi<br/>",
+        "SoruMetni": "<strong>Her bilgisayar için eşsiz özellikte olan adres aşağıdakilerden hangisidir?</strong>",
+        "A": "Kasa üretici firma adresi",
+        "B": "E-mail adresi",
+        "C": "MAC adresi",
+        "D": "CD-DVD sürücülerin adresi",
         "E": "Modem şifresi",
         "DogruCevap": "C",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -92,7 +96,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376250,
@@ -111,11 +116,12 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376251,
-        "SoruMetni": "I. Dot Pitch<br/> <br/>II. Çözünürlük<br> <br/>III. Tazeleme hızı<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri görüntü kalitesi üzerinde etkisi olan seçenekler arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Dot Pitch<br/>II. Çözünürlük<br/>III. Tazeleme hızı<br/><strong>Yukarıdakilerden hangisi ya da hangileri görüntü kalitesi üzerinde etkisi olan seçenekler arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376252,
@@ -149,15 +156,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376253,
-        "SoruMetni": "<strong>Birbirinden uzak bilgisayarları telefon hattı aracılığıyla haberleşmesini sağlayan donanım birimi aşağıdakilerden hangisidir?</strong><br/>",
-        "A": "RAM bellek<br/>",
-        "B": "Modem<br/>",
-        "C": "Tarayıcı<br/>",
-        "D": "Monitör<br/>",
+        "SoruMetni": "<strong>Birbirinden uzak bilgisayarları telefon hattı aracılığıyla haberleşmesini sağlayan donanım birimi aşağıdakilerden hangisidir?</strong>",
+        "A": "RAM bellek",
+        "B": "Modem",
+        "C": "Tarayıcı",
+        "D": "Monitör",
         "E": "Fare",
         "DogruCevap": "B",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376254,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376633,
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376636,
@@ -225,15 +236,16 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376638,
-        "SoruMetni": "I. HDD<br/> <br/>II. SSD<br> <br/>III. HHD<br> <br/><strong>Yukardakilerden hangisi veya hangileri sabit disk çeşitlerindendir?</strong><br> <br/> </br></br></br>",
-        "A": "Yalnız I<br/>",
-        "B": "I ve II<br/>",
-        "C": "I ve III<br/>",
-        "D": "II ve III<br/>",
+        "SoruMetni": "I. HDD<br/>II. SSD<br/>III. HHD<br/><strong>Yukardakilerden hangisi veya hangileri sabit disk çeşitlerindendir?</strong><br/></br></br></br>",
+        "A": "Yalnız I",
+        "B": "I ve II",
+        "C": "I ve III",
+        "D": "II ve III",
         "E": "I, II ve III",
         "DogruCevap": "E",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -244,7 +256,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376639,
@@ -263,7 +276,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 392884,
@@ -282,7 +296,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 394257,
@@ -301,6 +316,7 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     }
 ]

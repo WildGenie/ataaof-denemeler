@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3863408,
-        "SoruMetni": "Öğrenenin tespit ettiği eksik konulara yönelik ihtiyaçlarını eyleme dönüştürmesi ve  gereksinim duyulan olanakların sağlanması biçiminde ele alınan ihtiyaç aşağıdaki kavramlardan hangisi ile açıklanır?",
+        "SoruMetni": "Öğrenenin tespit ettiği eksik konulara yönelik ihtiyaçlarını eyleme dönüştürmesi ve gereksinim duyulan olanakların sağlanması biçiminde ele alınan ihtiyaç aşağıdaki kavramlardan hangisi ile açıklanır?",
         "A": "Normatif ihtiyaçlar",
         "B": "Karşılaştırmalı ihtiyaçlar",
         "C": "Hissedilen ihtiyaçlar",
@@ -17,12 +17,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İfade edilen ihtiyaçlar <br/> İfade edilen ihtiyaçlar, öğrenenin tespit ettiği eksik konulara yönelik ihtiyaçlarını eyleme dönüştürmesi olarak açıklanabilir. Burada hissedilen ihtiyaçtan farklı olarak bir eyleme dönüşüm vardır. Burada ifade edilmesi gereken kritik nokta; gereksinim duyulan olanakların sağlanması ve işlemlerin yerine getirilmesi ihtiyaçtır."
+        "Aciklama": "İfade edilen ihtiyaçlar <br/>İfade edilen ihtiyaçlar, öğrenenin tespit ettiği eksik konulara yönelik ihtiyaçlarını eyleme dönüştürmesi olarak açıklanabilir. Burada hissedilen ihtiyaçtan farklı olarak bir eyleme dönüşüm vardır. Burada ifade edilmesi gereken kritik nokta; gereksinim duyulan olanakların sağlanması ve işlemlerin yerine getirilmesi ihtiyaçtır."
     },
     {
         "SoruID": 3863409,
-        "SoruMetni": "Aşağıdaki seçeneklerden hangisi ihtiyaç analizi yapılmasının sağlayacağı katkılarından birisi <strong>değildir? </strong><br/><br/>",
-        "A": "Potansiyel yolların belirlenmesi ve bu bağlamda atılacak belirli adımların ana hatlarının çizilmesi sürecini kolaylaştırır.<br/><br/><br/>",
+        "SoruMetni": "Aşağıdaki seçeneklerden hangisi ihtiyaç analizi yapılmasının sağlayacağı katkılarından birisi <strong>değildir? </strong>",
+        "A": "Potansiyel yolların belirlenmesi ve bu bağlamda atılacak belirli adımların ana hatlarının çizilmesi sürecini kolaylaştırır.",
         "B": "Karar vericiler için yararlı bir rehber görevi görür ve onlara bilinçli seçimler yapmaları için gerekli bilgileri sağlar.",
         "C": "Kararların kabul oranı artar.",
         "D": "Eğitimin koordinasyonunu geliştirerek planlama sürecinde ortaya çıkabilecek potansiyel sorunların ele alınmasını kolaylaştırır.",
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Değerlendirme süreçlerinin etkili biçimde yürütülmesi sağlanır. <br/> İhtiyaç analizi yapılması;<br/>• Potansiyel yolların belirlenmesi ve bu bağlamda atılacak belirli adımların ana hatlarının çizilmesi sürecini kolaylaştırır.<br/>• Karar vericiler için yararlı bir rehber görevi görür ve onlara bilinçli seçimler yapmaları için gerekli bilgileri sağlar.<br/>• Kararların kabul oranı artar.<br/>• Eğitimin koordinasyonunu geliştirerek planlama sürecinde ortaya çıkabilecek potansiyel sorunların ele alınmasını kolaylaştırır."
+        "Aciklama": "Değerlendirme süreçlerinin etkili biçimde yürütülmesi sağlanır. <br/>İhtiyaç analizi yapılması;<br/>• Potansiyel yolların belirlenmesi ve bu bağlamda atılacak belirli adımların ana hatlarının çizilmesi sürecini kolaylaştırır.<br/>• Karar vericiler için yararlı bir rehber görevi görür ve onlara bilinçli seçimler yapmaları için gerekli bilgileri sağlar.<br/>• Kararların kabul oranı artar.<br/>• Eğitimin koordinasyonunu geliştirerek planlama sürecinde ortaya çıkabilecek potansiyel sorunların ele alınmasını kolaylaştırır."
     },
     {
         "SoruID": 3863410,
@@ -57,11 +57,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Analitik yaklaşım<br/> Analitik yaklaşımda yerel veya küresel çapta koşullarla meydana gelen değişimlerin ve yeni yönelimlerin analiz edilerek incelenmesi sonucu ihtiyaçlar belirlenmektedir. Bu yaklaşım; sayısal verileri, istatistiksel analizleri ve bilimsel yöntemleri kullanarak ihtiyaçları belirlemeye odaklanır. Mevcut durumlar göz önüne alınarak geleceğe yönelik öngörüler geliştirilir ve bu öngörüler doğrultusunda eleştirel bir bakışla çözüm önerileri oluşturulur ve bu çözümler için ihtiyaçlar belirlenir."
+        "Aciklama": "Analitik yaklaşım<br/>Analitik yaklaşımda yerel veya küresel çapta koşullarla meydana gelen değişimlerin ve yeni yönelimlerin analiz edilerek incelenmesi sonucu ihtiyaçlar belirlenmektedir. Bu yaklaşım; sayısal verileri, istatistiksel analizleri ve bilimsel yöntemleri kullanarak ihtiyaçları belirlemeye odaklanır. Mevcut durumlar göz önüne alınarak geleceğe yönelik öngörüler geliştirilir ve bu öngörüler doğrultusunda eleştirel bir bakışla çözüm önerileri oluşturulur ve bu çözümler için ihtiyaçlar belirlenir."
     },
     {
         "SoruID": 3863411,
-        "SoruMetni": "Bir mesleğin beceri profilleri çıkarılarak yetkinlik alanlarının ve bu alanlara yönelik ihtiyaçların belirlendiği ihtiyaç belirleme tekniği aşağıdakilerden hangisidir? <br/><br/>",
+        "SoruMetni": "Bir mesleğin beceri profilleri çıkarılarak yetkinlik alanlarının ve bu alanlara yönelik ihtiyaçların belirlendiği ihtiyaç belirleme tekniği aşağıdakilerden hangisidir?",
         "A": "Delphi tekniği",
         "B": "Gözlem",
         "C": "Progel (Dacum) tekniği",
@@ -77,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Progel (Dacum) tekniği<br/><br/>Progel tekniği bir iş sürecinin adımlarını ve işlemlerini, bu işte deneyimli ve uzman kişilerin birlikte çalışarak belirlemesine dayanmaktadır. Progel tekniğinde mesleğin beceri profilleri çıkarılarak yetkinlik alanları ve bu alanlara yönelik ihtiyaçlar belirlenir. Bu teknik eğitim, iş tanımları, beceri testi geliştirme, rehberlik gibi alanlarda kullanılmaktadır."
+        "Aciklama": "Progel (Dacum) tekniği<br/>Progel tekniği bir iş sürecinin adımlarını ve işlemlerini, bu işte deneyimli ve uzman kişilerin birlikte çalışarak belirlemesine dayanmaktadır. Progel tekniğinde mesleğin beceri profilleri çıkarılarak yetkinlik alanları ve bu alanlara yönelik ihtiyaçlar belirlenir. Bu teknik eğitim, iş tanımları, beceri testi geliştirme, rehberlik gibi alanlarda kullanılmaktadır."
     },
     {
         "SoruID": 3863412,
-        "SoruMetni": "Uzman grubun akılcı bir yaklaşımla görüşleri alınarak her görüşmede ortak bir fikre ulaşılmaya çalışıldığı, tartışma ortamından çok görüşme ya da anket ile yapılan fikir alma turlarının üç ya da daha fazla biçimde sürdürüldüğü ihtiyaç belirleme tekniği aşağıdakilerden hangisidir? <br/><br/>",
+        "SoruMetni": "Uzman grubun akılcı bir yaklaşımla görüşleri alınarak her görüşmede ortak bir fikre ulaşılmaya çalışıldığı, tartışma ortamından çok görüşme ya da anket ile yapılan fikir alma turlarının üç ya da daha fazla biçimde sürdürüldüğü ihtiyaç belirleme tekniği aşağıdakilerden hangisidir?",
         "A": "Delphi tekniği",
         "B": "Progel (Dacum) tekniği",
         "C": "İş analizi tekniği",
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Delphi tekniği<br/> Delphi tekniğinde uzman grubun akılcı bir yaklaşımla görüşleri alınarak her görüşmede ortak bir fikre ulaşmaya çalışılır. Görüşme ya da anket ile yapılan fikir alma turları, bir fikir birliği elde edilene kadar sürebilmektedir. Uzmanların görüşleri alınırken bir tartışma ortamı oluşturulmaz, görüşme formu ya da anket aracılığıyla alınan veriler sonucunda bir tahmine ulaşılır."
+        "Aciklama": "Delphi tekniği<br/>Delphi tekniğinde uzman grubun akılcı bir yaklaşımla görüşleri alınarak her görüşmede ortak bir fikre ulaşmaya çalışılır. Görüşme ya da anket ile yapılan fikir alma turları, bir fikir birliği elde edilene kadar sürebilmektedir. Uzmanların görüşleri alınırken bir tartışma ortamı oluşturulmaz, görüşme formu ya da anket aracılığıyla alınan veriler sonucunda bir tahmine ulaşılır."
     },
     {
         "SoruID": 3863413,
@@ -117,11 +117,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SWOT Analizi<br/><br/>SWOT (GZFT) Analizi, bir projede ya da bir ticari girişimde içinde bulunduğu kurumun, sürecin veya durumun güçlü ve zayıf yönlerini belirlemek, dış çevreden kaynaklanan fırsat ve tehditleri saptamak için kullanılan yöntemin adıdır. Bu analizin adı Strengths, Weaknesses, Opportunities, Threats yani Güçlü yönler, Zayıf yönler, Fırsatlar, Tehditler kelimelerinin baş harflerinden gelmektedir."
+        "Aciklama": "SWOT Analizi<br/>SWOT (GZFT) Analizi, bir projede ya da bir ticari girişimde içinde bulunduğu kurumun, sürecin veya durumun güçlü ve zayıf yönlerini belirlemek, dış çevreden kaynaklanan fırsat ve tehditleri saptamak için kullanılan yöntemin adıdır. Bu analizin adı Strengths, Weaknesses, Opportunities, Threats yani Güçlü yönler, Zayıf yönler, Fırsatlar, Tehditler kelimelerinin baş harflerinden gelmektedir."
     },
     {
         "SoruID": 3863414,
-        "SoruMetni": "Aşağıdakilerden hangisi Krathwohl ve arkadaşlarının 1964 yılında duyuşsal alan olarak ifade edilen tutumlar ve değerler için geliştirdikleri taksonominin aşamalarından birisi <strong>değildir? </strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi Krathwohl ve arkadaşlarının 1964 yılında duyuşsal alan olarak ifade edilen tutumlar ve değerler için geliştirdikleri taksonominin aşamalarından birisi <strong>değildir? </strong>",
         "A": "Alma",
         "B": "Tepkide bulunma",
         "C": "Değer verme",
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sentez<br/> Krathwohl ve arkadaşlarının 1964 yılında duyuşsal alan olarak ifade edilen tutumlar ve değerler için geliştirdikleri taksonomide; alma, tepkide bulunma, değer verme, örgütleme ve kişilik haline getirme aşamaları mevcuttur."
+        "Aciklama": "Sentez<br/>Krathwohl ve arkadaşlarının 1964 yılında duyuşsal alan olarak ifade edilen tutumlar ve değerler için geliştirdikleri taksonomide; alma, tepkide bulunma, değer verme, örgütleme ve kişilik haline getirme aşamaları mevcuttur."
     },
     {
         "SoruID": 3863415,
@@ -157,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma<br/> Yenilenmiş Bloom taksonomisinde; bilişsel beceriler Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma biçiminde düzenlenmiştir. <br/> Hatırlama genellikle anlamaya gerek duymadan kavram ya da olguları, ilkeleri hatırlayabilme becerisidir. Hatırlama düzeyinde; tanımlama, tekrarlama, kaydetme, listeleme, hatırlama, adlandırma, anlatma, sıralama, belirtme eylemleri kullanılır.<br/>Anlama öğrenilen bilginin kavranması, açıklanabilmesi ve yorumlanmasını ifade eder. Bu düzeyde; kendi cümleleriyle ifade etme, betimleme, tasvir etme, tanıma, açıklama, ifade etme, yerini belirleme, saptama, özetleme, tercüme etme, rapor etme, kategorilendirme eylem ifadeleri kullanılır.<br/>Uygulama öğrenilen bilgileri, yeni veya uygun durumlarda kullanabilme, problem çözmede işe koşabilme, yeni fikir geliştirebilmeyi tanımlar. Uygulama düzeyinde; uygulama, kullanma, çalıştırma, uyarlama,<br/>oluşturma, hazırlama, yönetme, gösterme eylemleri ile ifadeler oluşturulur.<br/>Analiz düzeyi edinilen bilgi parçalara ayrılabilme yeteneğini ifade eder. Bu düzey için ayırt etme, çözümleme, hesaplama, eleştirme, denetleme, sorgulama, ilişkilendirme, kategorilere ayırma, farklılaştırma, çıkarım yapma, test etme, sınama ifadeleri kullanılır. Değerlendirme bir amaca yönelik verilen malzeme ya da materyalin önemi hakkında yargıya varabilme, karar verebilme becerisidir. Bu düzeyde; yargılama, değer biçme, hüküm verme, değerlendirme, tahminde bulunma, düzeltme ifadeleriyle öğrenme çıktıları yazılır.<br/>Yaratma düzeyinde edinilen bilgilerin bir araya getirilmesiyle orjinal bir bütün oluşturulması beklenir, bu aynı zamanda en üst düzey yetkinliktir. Bu düzey için önerme, tasarlama, planlama, düzenleme,<br/>yapılandırma, inşa etme, organize etme, geliştirme, kurma, monte etme, formüle etme eylem ifadeleri kullanılır."
+        "Aciklama": "Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma<br/>Yenilenmiş Bloom taksonomisinde; bilişsel beceriler Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma biçiminde düzenlenmiştir. <br/>Hatırlama genellikle anlamaya gerek duymadan kavram ya da olguları, ilkeleri hatırlayabilme becerisidir. Hatırlama düzeyinde; tanımlama, tekrarlama, kaydetme, listeleme, hatırlama, adlandırma, anlatma, sıralama, belirtme eylemleri kullanılır.<br/>Anlama öğrenilen bilginin kavranması, açıklanabilmesi ve yorumlanmasını ifade eder. Bu düzeyde; kendi cümleleriyle ifade etme, betimleme, tasvir etme, tanıma, açıklama, ifade etme, yerini belirleme, saptama, özetleme, tercüme etme, rapor etme, kategorilendirme eylem ifadeleri kullanılır.<br/>Uygulama öğrenilen bilgileri, yeni veya uygun durumlarda kullanabilme, problem çözmede işe koşabilme, yeni fikir geliştirebilmeyi tanımlar. Uygulama düzeyinde; uygulama, kullanma, çalıştırma, uyarlama,&lt;br /</br></br><br>Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma<br/>Yenilenmiş Bloom taksonomisinde; bilişsel beceriler Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma biçiminde düzenlenmiştir. <br/>Hatırlama genellikle anlamaya gerek duymadan kavram ya da olguları, ilkeleri hatırlayabilme becerisidir. Hatırlama düzeyinde; tanımlama, tekrarlama, kaydetme, listeleme, hatırlama, adlandırma, anlatma, sıralama, belirtme eylemleri kullanılır.<br/>Anlama öğrenilen bilginin kavranması, açıklanabilmesi ve yorumlanmasını ifade eder. Bu düzeyde; kendi cümleleriyle ifade etme, betimleme, tasvir etme, tanıma, açıklama, ifade etme, yerini belirleme, saptama, özetleme, tercüme etme, rapor etme, kategorilendirme eylem ifadeleri kullanılır.<br/>Uygulama öğrenilen bilgileri, yeni veya uygun durumlarda kullanabilme, problem çözmede işe koşabilme, yeni fikir geliştirebilmeyi tanımlar. Uygulama düzeyinde; uygulama, kullanma, çalıştırma, uyarlama,<br/>oluşturma, hazırlama, yönetme, gösterme eylemleri ile ifadeler oluşturulur.<br/>Analiz düzeyi edinilen bilgi parçalara ayrılabilme yeteneğini ifade eder. Bu düzey için ayırt etme, çözümleme, hesaplama, eleştirme, denetleme, sorgulama, ilişkilendirme, kategorilere ayırma, farklılaştırma, çıkarım yapma, test etme, sınama ifadeleri kullanılır. Değerlendirme bir amaca yönelik verilen malzeme ya da materyalin önemi hakkında yargıya varabilme, karar verebilme becerisidir. Bu düzeyde; yargılama, değer biçme, hüküm verme, değerlendirme, tahminde bulunma, düzeltme ifadeleriyle öğrenme çıktıları yazılır.<br/>Yaratma düzeyinde edinilen bilgilerin bir araya getirilmesiyle orjinal bir bütün oluşturulması beklenir, bu aynı zamanda en üst düzey yetkinliktir. Bu düzey için önerme, tasarlama, planlama, düzenleme,<br/>yapılandırma, inşa etme, organize etme, geliştirme, kurma, monte etme, formüle etme eylem ifadeleri kullanılır."
     },
     {
         "SoruID": 3863416,
-        "SoruMetni": "Aşağıdakilerden hangisi öğrenme çıktıları hazırlanırken dikkat edilmesi gereken noktalardan birisi <strong>değildir? </strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi öğrenme çıktıları hazırlanırken dikkat edilmesi gereken noktalardan birisi <strong>değildir? </strong>",
         "A": "İfadeler bilişsel, psikomotor beceriler, duyuşsal ve anahtar becerilere göre sınıflandırılmalıdır.",
         "B": "Öğreticinin değil öğrenenin ne yapacağını ifade etmelidir.",
         "C": "Her ders için öğrenme çıktısı sayısı 2-4 arasında tutulmalıdır.",
@@ -177,11 +177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Her ders için öğrenme çıktısı sayısı 2-4 arasında tutulmalıdır.<br/> <ul> <li>Bir ders düzeyinde başlanmalıdır.</li> <li> İfadeler bilişsel, psikomotor beceriler, duyuşsal ve anahtar becerilere göre sınıflandırılmaldır.</li> <li>Öğreticinin değil öğrenenin ne yapacağını<br/>ifade etmelidir.</li> <li>Her ders için öğrenme çıktısı sayısı 5-8 arasında tutulmalıdır.</li> <li>Her öğrenme çıktısında tek bir eylem ifadesi/fiil kullanılmalıdır.</li> <li>İfade edilen eylemler gözlenebilir ya da ölçülebilir olmalıdır.</li> <li>Karmaşık cümlelerden kaçınılmalı, gerekiyorsa cümle bölünerek yazılmalıdır.</li> <li>İlgili derse yönelik yazılan öğrenme çıktılarının programın tüm sonuçlarıyla ilgili olmasına dikkat edilmelidir.</li> <li>Her öğrenme çıktısı dersin içeriğini belirten ifadeler ve eylemin amacını bildiren fiillerle oluşturulmalıdır.</li> </ul>"
+        "Aciklama": "Her ders için öğrenme çıktısı sayısı 2-4 arasında tutulmalıdır.<br/><ul> <li>Bir ders düzeyinde başlanmalıdır.</li> <li> İfadeler bilişsel, psikomotor beceriler, duyuşsal ve anahtar becerilere göre sınıflandırılmaldır.</li> <li>Öğreticinin değil öğrenenin ne yapacağını<br/>ifade etmelidir.</li> <li>Her ders için öğrenme çıktısı sayısı 5-8 arasında tutulmalıdır.</li> <li>Her öğrenme çıktısında tek bir eylem ifadesi/fiil kullanılmalıdır.</li> <li>İfade edilen eylemler gözlenebilir ya da ölçülebilir olmalıdır.</li> <li>Karmaşık cümlelerden kaçınılmalı, gerekiyorsa cümle bölünerek yazılmalıdır.</li> <li>İlgili derse yönelik yazılan öğrenme çıktılarının programın tüm sonuçlarıyla ilgili olmasına dikkat edilmelidir.</li> <li>Her öğrenme çıktısı dersin içeriğini belirten ifadeler ve eylemin amacını bildiren fiillerle oluşturulmalıdır.</li> </ul>"
     },
     {
         "SoruID": 3863417,
-        "SoruMetni": "\"Öğrenenler bütünün farklı bileşenlerini birbirinden ayırt edebiliyor mu?\" biçiminde verilen ifade Bloom’un bilişsel beceriler sınıflamasındaki hangi aşama ile ilişkilidir?",
+        "SoruMetni": "\"Öğrenenler bütünün farklı bileşenlerini birbirinden ayırt edebiliyor mu?\" biçiminde verilen ifade Bloom’un bilişsel beceriler sınıflamasındaki hangi aşama ile ilişkilidir?",
         "A": "Çözümleme",
         "B": "Anlama",
         "C": "Uygulama",
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çözümleme<br/> Çözümleme basamağında öğrenenler bütünün farklı bileşenlerini birbirinden ayırt edebiliyor mu? biçiminde bilgi parçalara ayrılabilme yeteneğini ifade eder. Bu düzey için ayırt etme, çözümleme, hesaplama, eleştirme, denetleme, sorgulama, ilişkilendirme, kategorilere ayırma, farklılaştırma, çıkarım yapma, test etme, sınama ifadeleri kullanılır."
+        "Aciklama": "Çözümleme<br/>Çözümleme basamağında öğrenenler bütünün farklı bileşenlerini birbirinden ayırt edebiliyor mu? biçiminde bilgi parçalara ayrılabilme yeteneğini ifade eder. Bu düzey için ayırt etme, çözümleme, hesaplama, eleştirme, denetleme, sorgulama, ilişkilendirme, kategorilere ayırma, farklılaştırma, çıkarım yapma, test etme, sınama ifadeleri kullanılır."
     },
     {
         "SoruID": 3863652,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Öğrenenin tespit ettiği eksik konulara yönelik ihtiyaçlarını eyleme dönüştürmesi ifade edilen ihtiyaçlarla ilişkilidir.  Aynı kademedeki iki farklı sınıfın fen bilgisi dersindeki başarılarının karşılaştırılması karşılaştırmalı ihtiyaca ilişkin bir örnektir.  Bir öğrencinin öz yeterliğinin düşük olduğuna inandığı bir konu başlığını anket formunda belirtmesi hissedilen ihtiyaçtır. Pandemi nedeniyle sınıf ortamında alınacak önlemlere yönelik bilinçlendirici faaliyetlerin işe koşulması acil ihtiyaca örnek gösterilebilir. Adından da belli olduğu gibi aniden ortaya çıkan bir duruma karşı ortaya çıkan bir ihtiyaç söz konusudur. Bu yıla ait anket ve sınav sonuçlarından hareketle gelecek yıl işe koşulacak politikaların belirlenmesi ise önceden tahmin edilen bir ihtiyaçtır."
+        "Aciklama": "Öğrenenin tespit ettiği eksik konulara yönelik ihtiyaçlarını eyleme dönüştürmesi ifade edilen ihtiyaçlarla ilişkilidir. Aynı kademedeki iki farklı sınıfın fen bilgisi dersindeki başarılarının karşılaştırılması karşılaştırmalı ihtiyaca ilişkin bir örnektir. Bir öğrencinin öz yeterliğinin düşük olduğuna inandığı bir konu başlığını anket formunda belirtmesi hissedilen ihtiyaçtır. Pandemi nedeniyle sınıf ortamında alınacak önlemlere yönelik bilinçlendirici faaliyetlerin işe koşulması acil ihtiyaca örnek gösterilebilir. Adından da belli olduğu gibi aniden ortaya çıkan bir duruma karşı ortaya çıkan bir ihtiyaç söz konusudur. Bu yıla ait anket ve sınav sonuçlarından hareketle gelecek yıl işe koşulacak politikaların belirlenmesi ise önceden tahmin edilen bir ihtiyaçtır."
     },
     {
         "SoruID": 3863653,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çoğu seçenekte farklar yaklaşımı esas alınmaktadır. Bu yaklaşımda beklenen beceri düzeyi ile var olan beceri arasındaki fark bulunur. Belirlenen farkın boyutuna göre bireyde bir yeterlilik, prob­lem varlığını ya da yokluğunu ortaya koymaktadır. Farklar yaklaşımı, mevcut durum ve hedeflenen durum arasındaki farkın belirlenmesiyle birlik­te, bu farkı kapatabilmek için gerekli işlemler ve stratejileri geliştirme amacıyla da kullanılmaktadır. Öte yandan çoğunluğun talebine göre içerik düzenlemesi yapmak demokratik yaklaşım ile ilişkilidir.  Demokratik yaklaşımda üstün olan grupların isteklerinin etkisiyle yapılanan ihtiyaçlar söz konu­sudur. Bu yaklaşımda ihtiyaçlar, çoğunluk grubun kararına göre belirlenmektedir ve bu ihtiyaç değer­lendirme sürecinde paydaşların katılımının sağlan­ması önem taşır."
+        "Aciklama": "Çoğu seçenekte farklar yaklaşımı esas alınmaktadır. Bu yaklaşımda beklenen beceri düzeyi ile var olan beceri arasındaki fark bulunur. Belirlenen farkın boyutuna göre bireyde bir yeterlilik, prob­lem varlığını ya da yokluğunu ortaya koymaktadır. Farklar yaklaşımı, mevcut durum ve hedeflenen durum arasındaki farkın belirlenmesiyle birlik­te, bu farkı kapatabilmek için gerekli işlemler ve stratejileri geliştirme amacıyla da kullanılmaktadır. Öte yandan çoğunluğun talebine göre içerik düzenlemesi yapmak demokratik yaklaşım ile ilişkilidir. Demokratik yaklaşımda üstün olan grupların isteklerinin etkisiyle yapılanan ihtiyaçlar söz konu­sudur. Bu yaklaşımda ihtiyaçlar, çoğunluk grubun kararına göre belirlenmektedir ve bu ihtiyaç değer­lendirme sürecinde paydaşların katılımının sağlan­ması önem taşır."
     },
     {
         "SoruID": 3863654,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çoğu seçenekte analitik yaklaşım işe koşulmaktadır. Söz konusu yaklaşımda yerel veya küresel çapta koşul­larla meydana gelen değişimlerin ve yeni yönelim­lerin analiz edilerek incelenmesi sonucu ihtiyaçlar belirlenmektedir. Bu yaklaşım; sayısal verileri, ista­tistiksel analizleri ve bilimsel yöntemleri kullanarak ihtiyaçları belirlemeye odaklanır. Mevcut durumlar göz önüne alınarak geleceğe yönelik öngörüler ge­liştirilir ve bu öngörüler doğrultusunda eleştirel bir bakışla çözüm önerileri oluşturulur ve bu çözümler için ihtiyaçlar belirlenir.<br/><br/>Ders sırasında erişilemeyen bazı materyallerin memnuniyete yansımalarını irdeleyerek yeni bir yol haritası belirlemek ise betimsel yaklaşım başlığında değerlendirilebilir."
+        "Aciklama": "Çoğu seçenekte analitik yaklaşım işe koşulmaktadır. Söz konusu yaklaşımda yerel veya küresel çapta koşul­larla meydana gelen değişimlerin ve yeni yönelim­lerin analiz edilerek incelenmesi sonucu ihtiyaçlar belirlenmektedir. Bu yaklaşım; sayısal verileri, ista­tistiksel analizleri ve bilimsel yöntemleri kullanarak ihtiyaçları belirlemeye odaklanır. Mevcut durumlar göz önüne alınarak geleceğe yönelik öngörüler ge­liştirilir ve bu öngörüler doğrultusunda eleştirel bir bakışla çözüm önerileri oluşturulur ve bu çözümler için ihtiyaçlar belirlenir.<br/>Ders sırasında erişilemeyen bazı materyallerin memnuniyete yansımalarını irdeleyerek yeni bir yol haritası belirlemek ise betimsel yaklaşım başlığında değerlendirilebilir."
     },
     {
         "SoruID": 3863655,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>İhtiyaç belirlenirken hangi yaklaşımın kullanılacağına karar verildikten sonra, hangi tekniğin<br/>uygulanacağına karar verilmelidir. Analitik yaklaşım, söz konusu yaklaşımlardan bir tanesidir. Diğer seçeneklerde ihtiyaç belirlenirken kullanılan teknikler yer almaktadır. <br/><br/>İhtiyaç belirlenirken kullanılan teknikler;<br/>• Delphi tekniği<br/>• Progel (Dacum) tekniği<br/>• İş analizi tekniği<br/>• Gözlem<br/>• Testler-ölçme araçları<br/>• Kaynak tarama olarak sıralanabilir."
+        "Aciklama": "<br/>İhtiyaç belirlenirken hangi yaklaşımın kullanılacağına karar verildikten sonra, hangi tekniğin<br/>uygulanacağına karar verilmelidir. Analitik yaklaşım, söz konusu yaklaşımlardan bir tanesidir. Diğer seçeneklerde ihtiyaç belirlenirken kullanılan teknikler yer almaktadır. <br/>İhtiyaç belirlenirken kullanılan teknikler;<br/>• Delphi tekniği<br/>• Progel (Dacum) tekniği<br/>• İş analizi tekniği<br/>• Gözlem<br/>• Testler-ölçme araçları<br/>• Kaynak tarama olarak sıralanabilir."
     },
     {
         "SoruID": 3863656,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İhtiyaç analizi için hangi tekniğin kullanılacağı belirlendikten sonra ihtiyaç analizinin uygulamasına geçilir. İhtiyaç analizi dört aşamada gerçekleştirilir. Bu aşamalar;<br/>• Planlama<br/>• Veri toplama<br/>• Verileri analiz etme ve<br/>• rapor oluşturmadır.<br/><br/>Seçeneklerde yer alan kaynak tarama ise Delphi, Progel ya da iş analizi gibi bir ihtiyaç belirleme tekniğidir."
+        "Aciklama": "İhtiyaç analizi için hangi tekniğin kullanılacağı belirlendikten sonra ihtiyaç analizinin uygulamasına geçilir. İhtiyaç analizi dört aşamada gerçekleştirilir. Bu aşamalar;<br/>• Planlama<br/>• Veri toplama<br/>• Verileri analiz etme ve<br/>• rapor oluşturmadır.<br/>Seçeneklerde yer alan kaynak tarama ise Delphi, Progel ya da iş analizi gibi bir ihtiyaç belirleme tekniğidir."
     },
     {
         "SoruID": 3863657,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Öğrenme çıktıları belirlenirken aşağıdaki özellikleri taşıması beklenir. <br/>Açıklık ve netlik<br/>Ölçülebilirlik<br/>Ulaşılabilirlik<br/>Uygunluk<br/>Zamana Bağlılık<br/>Bağlam<br/><br/>Yenilikçilik bu özellikler arasında yer almamaktadır."
+        "Aciklama": "Öğrenme çıktıları belirlenirken aşağıdaki özellikleri taşıması beklenir. <br/>Açıklık ve netlik<br/>Ölçülebilirlik<br/>Ulaşılabilirlik<br/>Uygunluk<br/>Zamana Bağlılık<br/>Bağlam<br/>Yenilikçilik bu özellikler arasında yer almamaktadır."
     },
     {
         "SoruID": 3863660,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yenilenmiş Bloom taksonomisinde kazanımlar isim ve eylem hâlleri ayrılarak iki boyutta ele alınmıştır. Bunlar;<br/>• Bilgi Boyutu ve<br/>• Bilişsel Süreç boyutudur.<br/><br/>Bilgi boyutunda bilginin farklı türleri bulunmaktadır. Bunlar;<br/>Olgusal bilgi; terminoloji bilgisi, özel hususlar ve detay bilgisini içerir.<br/>Kavramsal bilgi; daha karmaşık ve organize edilmiş bilgi formlarını kapsar. Sınıflamalar, kategoriler,<br/>ilkeler, genellemeler, kuram, model ve yapıları içerir.<br/>İşlemsel bilgi; bir şeyin nasıl yapılacağının bilgisidir. Beceri ve algoritmalarla birlikte yöntem ve<br/>teknikleri kapsar. Ayrıca özel bilgi alanlarındaki ve disiplinlerdeki ölçütleri içerir.<br/>Biliş ötesi/üstbilişsel bilgi; bireyin stratejik, bilişsel görevlere yönelik ve bağlamsal bilgisini kapsar.<br/>Ayrıca koşullu bilgilerle birlikte bireyin kendi hakkındaki bilgisini de içerir.<br/><br/>Görüleceği üzere terminoloji bilgisi olgusal bilgiye örnektir. Diğer seçeneklerde kavramsal bilgi örnekleri yer almıştır."
+        "Aciklama": "Yenilenmiş Bloom taksonomisinde kazanımlar isim ve eylem hâlleri ayrılarak iki boyutta ele alınmıştır. Bunlar;<br/>• Bilgi Boyutu ve<br/>• Bilişsel Süreç boyutudur.<br/>Bilgi boyutunda bilginin farklı türleri bulunmaktadır. Bunlar;<br/>Olgusal bilgi; terminoloji bilgisi, özel hususlar ve detay bilgisini içerir.<br/>Kavramsal bilgi; daha karmaşık ve organize edilmiş bilgi formlarını kapsar. Sınıflamalar, kategoriler,<br/>ilkeler, genellemeler, kuram, model ve yapıları içerir.<br/>İşlemsel bilgi; bir şeyin nasıl yapılacağının bilgisidir. Beceri ve algoritmalarla birlikte yöntem ve<br/>teknikleri kapsar. Ayrıca özel bilgi alanlarındaki ve disiplinlerdeki ölçütleri içerir.<br/>Biliş ötesi/üstbilişsel bilgi; bireyin stratejik, bilişsel görevlere yönelik ve bağlamsal bilgisini kapsar.<br/>Ayrıca koşullu bilgilerle birlikte bireyin kendi hakkındaki bilgisini de içerir.<br/>Görüleceği üzere terminoloji bilgisi olgusal bilgiye örnektir. Diğer seçeneklerde kavramsal bilgi örnekleri yer almıştır."
     }
 ]

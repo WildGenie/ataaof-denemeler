@@ -16,7 +16,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376236,
@@ -35,11 +36,12 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376237,
-        "SoruMetni": "“……….............; veri ve enformasyonu kaynak olarak kullanır ve tecrübe, deney veya yorumlama sonucu ortaya çıkar.”<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "“……….............; veri ve enformasyonu kaynak olarak kullanır ve tecrübe, deney veya yorumlama sonucu ortaya çıkar.”<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Veri",
         "B": "Enformasyon",
         "C": "Bilgi",
@@ -54,7 +56,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376238,
@@ -73,15 +76,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376239,
-        "SoruMetni": "<strong>Günümüzde kullanılan veri işleme evresi aşağıdakilerden hangisidir?</strong><br/>",
-        "A": "El yordamıyla veri işleme<br/>",
+        "SoruMetni": "<strong>Günümüzde kullanılan veri işleme evresi aşağıdakilerden hangisidir?</strong>",
+        "A": "El yordamıyla veri işleme",
         "B": "Mekanik veri işleme",
-        "C": "Elektromekanik veri işleme<br/>",
-        "D": "Mantıksal veri işleme<br/>",
+        "C": "Elektromekanik veri işleme",
+        "D": "Mantıksal veri işleme",
         "E": "Elektronik veri işleme",
         "DogruCevap": "E",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -92,7 +96,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376240,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376241,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376242,
@@ -149,15 +156,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376243,
-        "SoruMetni": "<strong>Hem analog hem de dijital bilgisayarların özelliklerini bir arada barındıran bilgisayarlar aşağıdakilerden hangisidir?</strong><br/>",
-        "A": "Özel amaçlı dijital bilgisayarlar<br/>",
-        "B": "Genel amaçlı dijital bilgisayarlar<br/>",
-        "C": "Analog bilgisayarlar<br/>",
-        "D": "Hibrid bilgisayarlar<br/>",
+        "SoruMetni": "<strong>Hem analog hem de dijital bilgisayarların özelliklerini bir arada barındıran bilgisayarlar aşağıdakilerden hangisidir?</strong>",
+        "A": "Özel amaçlı dijital bilgisayarlar",
+        "B": "Genel amaçlı dijital bilgisayarlar",
+        "C": "Analog bilgisayarlar",
+        "D": "Hibrid bilgisayarlar",
         "E": "Sayısal bilgisayarlar",
         "DogruCevap": "D",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376244,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376623,
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376624,
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376626,
@@ -244,7 +256,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376627,
@@ -263,7 +276,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376630,
@@ -282,7 +296,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376631,
@@ -301,7 +316,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 394256,
@@ -320,6 +336,7 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     }
 ]

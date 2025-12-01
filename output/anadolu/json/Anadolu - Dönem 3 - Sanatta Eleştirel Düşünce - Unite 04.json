@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 3354043,
-        "SoruMetni": "\"Bir tiyatro oyununun kuramsal ve yazınsal iç dinamiklerinin anlaşılması, yazarın iletisinin irdelenmesi ve sahneye doğru aktarılması üzerine çalışan alan.\"<br/> Yukarıda verilen tanım aşağıda verilen kavramlardan hangisine aittir?",
+        "SoruMetni": "\"Bir tiyatro oyununun kuramsal ve yazınsal iç dinamiklerinin anlaşılması, yazarın iletisinin irdelenmesi ve sahneye doğru aktarılması üzerine çalışan alan.\"<br/>Yukarıda verilen tanım aşağıda verilen kavramlardan hangisine aittir?",
         "A": "Dramaturji",
         "B": "Reji",
         "C": "Arya",
@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3354044,
-        "SoruMetni": "\"Bir tiyatro oyununun sahnelenmesine dair dekor, kostüm, oyun tasarımı gibi tüm teknik ve sanatsal ögeleri ve oyun kurgusunu tasarlayan alan, oyun yönetmenliği.\"<br/> Yukarıda verilen tanım aşağıda verilen kavramlardan hangisine aittir?",
+        "SoruMetni": "\"Bir tiyatro oyununun sahnelenmesine dair dekor, kostüm, oyun tasarımı gibi tüm teknik ve sanatsal ögeleri ve oyun kurgusunu tasarlayan alan, oyun yönetmenliği.\"<br/>Yukarıda verilen tanım aşağıda verilen kavramlardan hangisine aittir?",
         "A": "Üslup",
         "B": "Tiyatro",
         "C": "Dramaturji",
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 3354045,
-        "SoruMetni": "\"Komedya türünde, koronun bir anda seyirciye doğru yürüyerek olay akışının dışında, gündemde olan bir olaydan bahsettiği kesitler.\"<br/> Yukarıda verilen tanım aşağıda verilen kavramlardan hangisine aittir?",
+        "SoruMetni": "\"Komedya türünde, koronun bir anda seyirciye doğru yürüyerek olay akışının dışında, gündemde olan bir olaydan bahsettiği kesitler.\"<br/>Yukarıda verilen tanım aşağıda verilen kavramlardan hangisine aittir?",
         "A": "Parabasis",
         "B": "Ezgi",
         "C": "Melizma",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3354047,
-        "SoruMetni": "\"Bir ezgiyi başka bir ya da birkaç ezgi ile çok seslendirme tekniğidir.\"<br/> Yukarıda verilen tanım aşağıda verilen kavramlardan hangisine aittir?",
+        "SoruMetni": "\"Bir ezgiyi başka bir ya da birkaç ezgi ile çok seslendirme tekniğidir.\"<br/>Yukarıda verilen tanım aşağıda verilen kavramlardan hangisine aittir?",
         "A": "Kontrpuan",
         "B": "Madrigal",
         "C": "Repertuvar",
@@ -138,6 +138,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Kontrpuan: Bir ezgiyi başka bir ya da birkaç ezgi ile çok seslendirme tekniğine kontrpuan denir. İki ya da daha fazla ezgisel hattın üst üste kullanımıyla oluşan dokular polifoni terimiyle tanımlanır."
+    },
+    {
+        "SoruID": 3354048,
+        "SoruMetni": "Müzik tarihinin en önemli bestecilerinin başında gelen Bach hangi yıllarda yaşamıştır?",
+        "A": "1985 ile 2000 yılları arasında",
+        "B": "1885 ile 1950 yılları arasında",
+        "C": "1785 ile 1850 yılları arasında",
+        "D": "1685 ile 1750 yılları arasında",
+        "E": "1585 ile 1650 yılları arasında",
+        "DogruCevap": "D",
+        "DersAd": "Sanatta Eleştirel Düşünce",
+        "Unite": 4,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:56.563315",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "1685 ile 1750 yılları arasında yaşayan Bach müzik tarihinin en önemli bestecilerinin başında gelir."
     },
     {
         "SoruID": 3354049,
@@ -161,7 +181,7 @@
     },
     {
         "SoruID": 3354050,
-        "SoruMetni": "Üç birlik kuralına göre başarılı bir oyun kaç saatlik bir süre içinde geçmelidir?",
+        "SoruMetni": "Üç birlik kuralına göre başarılı bir oyun kaç saatlik bir süre içinde geçmelidir?",
         "A": "6 saatlik",
         "B": "12 saatlik",
         "C": "24 saatlik",
@@ -241,7 +261,7 @@
     },
     {
         "SoruID": 3354084,
-        "SoruMetni": "Bir ezgiyi başka bir ya da birkaç ezgi ile çok seslendirme tekniğine.......... denir.<br/> ifadesindeki boşluğu aşağıdakilerden doğru olan kelime ile tamamlayınız.",
+        "SoruMetni": "Bir ezgiyi başka bir ya da birkaç ezgi ile çok seslendirme tekniğine.......... denir.<br/>ifadesindeki boşluğu aşağıdakilerden doğru olan kelime ile tamamlayınız.",
         "A": "Partisyon",
         "B": "Kontrpuan",
         "C": "Beste",
@@ -261,7 +281,7 @@
     },
     {
         "SoruID": 3354085,
-        "SoruMetni": "Çalgı eşliği olmayan ve  genelde beş partili vokal müzik türüne ne ad verilir?",
+        "SoruMetni": "Çalgı eşliği olmayan ve genelde beş partili vokal müzik türüne ne ad verilir?",
         "A": "Madrigal",
         "B": "Troubadour",
         "C": "Minnesinger",
@@ -321,7 +341,7 @@
     },
     {
         "SoruID": 3354091,
-        "SoruMetni": "Türkçeye ‘Ortak Sanat Yapıtı” olarak çevrilebilecek Gesamtkunstwerk, “müzik, yazın ve oyunculuk sanatlarının bir ortaklık içinde seyirci üzerinde etki yapabilmesi” arayışı kime aittir?",
+        "SoruMetni": "Türkçeye ‘Ortak Sanat Yapıtı” olarak çevrilebilecek Gesamtkunstwerk, “müzik, yazın ve oyunculuk sanatlarının bir ortaklık içinde seyirci üzerinde etki yapabilmesi” arayışı kime aittir?",
         "A": "F. Liszt",
         "B": "R. Wagner",
         "C": "J. S. Bach",
@@ -341,7 +361,7 @@
     },
     {
         "SoruID": 3354092,
-        "SoruMetni": "20. yüzyıl müziğinin temelini hazırlayan ve  fonksiyonel tonalitenin ötesine geçen eserler yaratan besteci kimdir?",
+        "SoruMetni": "20. yüzyıl müziğinin temelini hazırlayan ve fonksiyonel tonalitenin ötesine geçen eserler yaratan besteci kimdir?",
         "A": "J. Brahms",
         "B": "R. Wagner",
         "C": "M. Ravel",
@@ -361,7 +381,7 @@
     },
     {
         "SoruID": 3354093,
-        "SoruMetni": "19. yüzyılın devrimci yazarı ve  modern tiyatronun öncüsü olarak bilinen Norveçli yazar kimdir?",
+        "SoruMetni": "19. yüzyılın devrimci yazarı ve modern tiyatronun öncüsü olarak bilinen Norveçli yazar kimdir?",
         "A": "J. W.von Goethe",
         "B": "F. Schiller",
         "C": "H. Ibsen",
@@ -397,11 +417,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir müzisyenin hareket noktası partisyondur. Partisyon, bestecinin tasarımını icracıya aktaran yazılı bir ortamdır; bir bakıma müzik parçasının metnidir."
+        "Aciklama": "Kitabınızın \"Tiyatroda Metin, Oyuncu, Sahneleme Bağlamında Yaratıcılık\" başlıklı konusunu yeniden çalışın.<br>Bir müzisyenin hareket noktası partisyondur. Partisyon, bestecinin tasarımını icracıya aktaran yazılı bir ortamdır; bir bakıma müzik parçasının metnidir."
     },
     {
         "SoruID": 3354154,
-        "SoruMetni": "Tiyatro tarihinde yenilikçi yaklaşımların etkisi hangi dönemlerde en belirgindir?<br/> I. Antik Yunan<br/> II. Rönesans<br/> III. Fransız Devrimi<br/> IV. 19. Yüzyıl<br/> V. 20. Yüzyıl",
+        "SoruMetni": "Tiyatro tarihinde yenilikçi yaklaşımların etkisi hangi dönemlerde en belirgindir?<br/>I. Antik Yunan<br/>II. Rönesans<br/>III. Fransız Devrimi<br/>IV. 19. Yüzyıl<br/>V. 20. Yüzyıl",
         "A": "I, II, III",
         "B": "III, IV, V",
         "C": "II, IV, V",
@@ -417,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tiyatro tarihinde yenilikçi yaklaşımların etkisi özellikle üç dönemde belirgindir: (1) Antik Yunan,<br/>(2) Rönesans ve (3) 20. yüzyıl."
+        "Aciklama": "Kitabınızın \"Rönesans Öncesinde Besteci ve Oyun Yazarının Rolü\" başlıklı konusunu yeniden çalışın.<br>Tiyatro tarihinde yenilikçi yaklaşımların etkisi özellikle üç dönemde belirgindir: (1) Antik Yunan,<br/>(2) Rönesans ve (3) 20. yüzyıl."
     },
     {
         "SoruID": 3354160,
@@ -437,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ortaçağ dönemin kilise müziğinde ezgisel tasarım, birtakım seyir kalıplarının ve ezgisel formüllerin farklı kombinasyonlarına dayanır. Bu ezgiler düz şarkı (plainchant) ya da Gregoryan ezgiler adlarıyla tanımlanırlar."
+        "Aciklama": "Kitabınızın \"Rönesans Öncesinde Besteci ve Oyun Yazarının Rolü\" başlıklı konusunu yeniden çalışın.<br>Ortaçağ dönemin kilise müziğinde ezgisel tasarım, birtakım seyir kalıplarının ve ezgisel formüllerin farklı kombinasyonlarına dayanır. Bu ezgiler düz şarkı (plainchant) ya da Gregoryan ezgiler adlarıyla tanımlanırlar."
     },
     {
         "SoruID": 3354161,
@@ -457,11 +477,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Johann Sebastian Bach, opera dışında neredeyse her türde müzik bestelemiştir."
+        "Aciklama": "Kitabınızın \"Operanın Doğuşu ve Barok: Bach\" başlıklı konusunu yeniden çalışın.<br>Johann Sebastian Bach, opera dışında neredeyse her türde müzik bestelemiştir."
     },
     {
         "SoruID": 3354162,
-        "SoruMetni": "Aşağıdakilerden hangisi  bir oyun yazarı <span style=\"text-decoration: underline;\"><strong>değildir</strong></span>?",
+        "SoruMetni": "Aşağıdakilerden hangisi bir oyun yazarı <span style=\"text-decoration: underline;\"><strong>değildir</strong></span>?",
         "A": "Haydn",
         "B": "Shakespeare",
         "C": "Molière",
@@ -477,15 +497,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Joseph Haydn, 18. yüzyıl klasik müziğin gelişiminde önemli rol oynamış bir bestecidir."
+        "Aciklama": "Kitabınızın \"19. Yüzyıla Doğru Bestecinin Toplumsal Konumu\" başlıklı konusunu yeniden çalışın.<br>Joseph Haydn, 18. yüzyıl klasik müziğin gelişiminde önemli rol oynamış bir bestecidir."
     },
     {
         "SoruID": 3354163,
         "SoruMetni": "Yazdığı oyunlarla modernizmin temelini atan ve modern tiyatronun öncüsü sayılan oyun yazarı kimdir?",
-        "A": "Johann Wolfgang von Goethe",
+        "A": "Johann Wolfgang von Goethe",
         "B": "Henrik Ibsen",
         "C": "Friedrich Schiller",
-        "D": "Georg Büchner",
+        "D": "Georg Büchner",
         "E": "Bertold Brecht",
         "DogruCevap": "B",
         "DersAd": "Sanatta Eleştirel Düşünce",
@@ -497,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Modern tiyatronun öncüsü olan Norveçli yazar Henrik Ibsen’in oyunları modernizmin temeli olarak ele alınır. Yalnızca modern değil, modernist tiyatronun da ilk ürünlerini vermiştir."
+        "Aciklama": "Kitabınızın \"19. Yüzyılın İkinci Yarısında Tiyatro\" başlıklı konusunu yeniden çalışın.<br>Modern tiyatronun öncüsü olan Norveçli yazar Henrik Ibsen’in oyunları modernizmin temeli olarak ele alınır. Yalnızca modern değil, modernist tiyatronun da ilk ürünlerini vermiştir."
     },
     {
         "SoruID": 3354164,
@@ -517,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Polonyalı tiyatrocu Jerzy Grotowski, tiyatroda oyuncunun konumunu tümüyle merkeze taşıyarak kostüm, makyaj, dekor etkenlerini oyundan çıkartır. Oyuncunun estetiğini bütünüyle beden ve ses çalışmaları yoluyla sağlamak ister ve bu yönde egzersizler geliştirir. Grotowski, tiyatroyu bir tür laboratuvar çalışması olarak ele alır. Kimi çalışmalarında mekânı ve ışığı da tiyatronun dışına çıkartır. Seyirci ve oyuncu dışında bütün fazlalıklardan kurtulma arayışındaki bu tiyatroyu Grotowski ‘Yoksul Tiyatro’ olarak tanımlar."
+        "Aciklama": "Kitabınızın \"İkinci Dünya Savaşı Sonrası Yeni Arayışlar\" başlıklı bölümünü yeniden çalışın.<br>Polonyalı tiyatrocu Jerzy Grotowski, tiyatroda oyuncunun konumunu tümüyle merkeze taşıyarak kostüm, makyaj, dekor etkenlerini oyundan çıkartır. Oyuncunun estetiğini bütünüyle beden ve ses çalışmaları yoluyla sağlamak ister ve bu yönde egzersizler geliştirir. Grotowski, tiyatroyu bir tür laboratuvar çalışması olarak ele alır. Kimi çalışmalarında mekânı ve ışığı da tiyatronun dışına çıkartır. Seyirci ve oyuncu dışında bütün fazlalıklardan kurtulma arayışındaki bu tiyatroyu Grotowski ‘Yoksul Tiyatro’ olarak tanımlar."
     },
     {
         "SoruID": 3354165,
@@ -537,11 +557,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çağın kısa süreli ama radikal eleştirel tutumuyla çok ses getirmiş bir diğer akımı fütürizmdir. Müziğin sadece çalgı sesleriyle yapılmasını eleştiren ve her türlü ses kaynağını, özellikle gürültüyü de müzikal bir gereç olarak tanımlayan fütüristlerin başında Luigi Russolo gelir."
+        "Aciklama": "Kitabınızın \"Tonaliteden Atonaliteye\" başlıklı bölümünü yeniden çalışın.<br>Çağın kısa süreli ama radikal eleştirel tutumuyla çok ses getirmiş bir diğer akımı fütürizmdir. Müziğin sadece çalgı sesleriyle yapılmasını eleştiren ve her türlü ses kaynağını, özellikle gürültüyü de müzikal bir gereç olarak tanımlayan fütüristlerin başında Luigi Russolo gelir."
     },
     {
         "SoruID": 3354166,
-        "SoruMetni": "Samuel Beckett ve Eugène Ionesco hangi tiyatro akımının temsilcileridir?",
+        "SoruMetni": "Samuel Beckett ve Eugène Ionesco hangi tiyatro akımının temsilcileridir?",
         "A": "Absürd Tiyatro",
         "B": "Epik Tiyatro",
         "C": "Yoksul Tiyatro",
@@ -557,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Beckett’in Godot’yu Beklerken adlı oyunu absürt tiyatronun en önemli eseridir. Absürt tiyatronun bir başka yazarı Eugène Ionesco'dur."
+        "Aciklama": "Kitabınızın \"Metinli Tiyatro ve Performatif Tiyatro\" başlıklı konusunu yeniden çalışın.<br>Beckett’in Godot’yu Beklerken adlı oyunu absürt tiyatronun en önemli eseridir. Absürt tiyatronun bir başka yazarı Eugène Ionesco'dur."
     },
     {
         "SoruID": 3354167,
@@ -577,11 +597,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeni Karmaşıkçılık akımın en önde gelen bestecisi Brian Ferneyhough’dur."
+        "Aciklama": "Kitabınızın \"Müzikte 1950 Sonrası Akımların Doğuşunda Eleştirel Düşünce\" başlıklı konusunu yeniden çalışın.<br>Yeni Karmaşıkçılık akımın en önde gelen bestecisi Brian Ferneyhough’dur."
     },
     {
         "SoruID": 3354188,
-        "SoruMetni": "İyi bir yorum, icracının ....... beslenir ve bu özellik icracıyı eşsiz kılarak aynı yapıtın diğer performanslarından ayırır.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "İyi bir yorum, icracının ....... beslenir ve bu özellik icracıyı eşsiz kılarak aynı yapıtın diğer performanslarından ayırır.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Bilgisinden",
         "B": "Tekniğinden",
         "C": "Yaratıcılığından",
@@ -601,11 +621,11 @@
     },
     {
         "SoruID": 3354189,
-        "SoruMetni": "......... konuları mitolojiden seçilir. Bu türün ana karakterleri kahramanlar, krallar ve Tanrılardır.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "......... konuları mitolojiden seçilir. Bu türün ana karakterleri kahramanlar, krallar ve Tanrılardır.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Komedya",
         "B": "Deus ex machina",
         "C": "Parabasis",
-        "D": "Tragedya<br/><br/>",
+        "D": "Tragedya",
         "E": "Madrigal",
         "DogruCevap": "D",
         "DersAd": "Sanatta Eleştirel Düşünce",
@@ -617,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Tragedya </strong>konuları mitolojiden seçilir. Bu türün ana karakterleri kahramanlar, krallar ve Tanrılardır."
+        "Aciklama": "<strong>Tragedya </strong>konuları mitolojiden seçilir. Bu türün ana karakterleri kahramanlar, krallar ve Tanrılardır."
     },
     {
         "SoruID": 3354190,
@@ -697,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu bağlamda müzik eleştirmenliği de özerk bir alan olarak gelişmeye başlar. Schumann, Berlioz, Debussy gibi birçok 19. yüzyıl bestecisi etkili bir eleştirmen olarak müziğe katkıda bulunur. <strong>Özellikle Schumann </strong><strong>müzik eleştirmenliğinin gelişmesi açısından önemli </strong><strong>bir yere sahiptir</strong>. Besteci, Beethoven, Schubert ve<br/>Bach gibi kendinden önceki bestecilerin müziklerinin anlaşılması, Chopin ve Brahms gibi dönemde adları yeni duyulan bestecilerin tanıtılması ve kendi çağdaşı bestecilerinin üretimi hakkında<strong> çok sayıda </strong><strong>makale ve yazı yazar.</strong>"
+        "Aciklama": "Bu bağlamda müzik eleştirmenliği de özerk bir alan olarak gelişmeye başlar. Schumann, Berlioz, Debussy gibi birçok 19. yüzyıl bestecisi etkili bir eleştirmen olarak müziğe katkıda bulunur. <strong>Özellikle Schumann </strong><strong>müzik eleştirmenliğinin gelişmesi açısından önemli </strong><strong>bir yere sahiptir</strong>. Besteci, Beethoven, Schubert ve<br/>Bach gibi kendinden önceki bestecilerin müziklerinin anlaşılması, Chopin ve Brahms gibi dönemde adları yeni duyulan bestecilerin tanıtılması ve kendi çağdaşı bestecilerinin üretimi hakkında<strong> çok sayıda </strong><strong>makale ve yazı yazar.</strong>"
     },
     {
         "SoruID": 3354196,
@@ -737,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "20. yüzyıl, ilk yıllarından itibaren, <strong>tiyatroda çarpıcı</strong> arayışların ve yeniliklerin belirgin şekilde yoğunlaştığı bir yüzyıldır. Dönemin toplumsal ve politik çalkantılarının etkisinde, metin tasarımından, sahneleme ve oyunculuğa, tiyatroda farklı yaklaşımlar ve arayışlar özellikle Birinci Dünya Savaşı sonrası hızla gelişir. <strong>Bu hızlı gelişim ve dönüşüm süreci 20. yüzyılın hemen başında Stanislavski ile Rusya’da başlar. </strong>"
+        "Aciklama": "20. yüzyıl, ilk yıllarından itibaren, <strong>tiyatroda çarpıcı</strong> arayışların ve yeniliklerin belirgin şekilde yoğunlaştığı bir yüzyıldır. Dönemin toplumsal ve politik çalkantılarının etkisinde, metin tasarımından, sahneleme ve oyunculuğa, tiyatroda farklı yaklaşımlar ve arayışlar özellikle Birinci Dünya Savaşı sonrası hızla gelişir. <strong>Bu hızlı gelişim ve dönüşüm süreci 20. yüzyılın hemen başında Stanislavski ile Rusya’da başlar. </strong>"
     },
     {
         "SoruID": 3354200,

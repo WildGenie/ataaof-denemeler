@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3862464,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Hususi olarak yapılmıştır.</li> <li>Somut eser formundadır.</li> <li>Sözün görsel canlandırmasıdır. </li> <li>Günümüzde dayanıklı eserler kullanılmaktadır.</li> </ol> Yukarıdakilerden hangileri sanat eserinin nitelikleriyle ilgili doğru bir bilgidir?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Hususi olarak yapılmıştır.</li> <li>Somut eser formundadır.</li> <li>Sözün görsel canlandırmasıdır. </li> <li>Günümüzde dayanıklı eserler kullanılmaktadır.</li> </ol> Yukarıdakilerden hangileri sanat eserinin nitelikleriyle ilgili doğru bir bilgidir?",
         "A": "II ve III",
         "B": "I ve III",
         "C": "II ve IV",
@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 3862465,
-        "SoruMetni": "Sanayi Devrimi öncesinde de sonrasında bir ürünün ortaya çıkışında ilk etapta ........... ön planda olmuş sonraları ............................ gibi nitelikler eklenmiştir. <br/><br/>Yukarıdaki boşluklara aşağıdakilerden hangisinin gelmesi daha uygundur?",
+        "SoruMetni": "Sanayi Devrimi öncesinde de sonrasında bir ürünün ortaya çıkışında ilk etapta ........... ön planda olmuş sonraları ............................ gibi nitelikler eklenmiştir. <br/>Yukarıdaki boşluklara aşağıdakilerden hangisinin gelmesi daha uygundur?",
         "A": "basitlik / karmaşıklık",
         "B": "doğallık / yapaylık",
         "C": "işlev / kişiselleştirme",
@@ -42,11 +42,11 @@
     {
         "SoruID": 3862466,
         "SoruMetni": "\"Sergide, kullanıcıların bir geri bildirim yapabilmesi ya da sergi ile edindikleri bilgiyi geliştirebilmeleri ve böylece akışı devam ettirebilmeleri olanaklı değildir.\" Bu durum serginin aşağıdaki özelliklerinden hangisine karşılık gelmektedir?",
-        "A": "Sergi, yoğun bir kavramsal bilgi akışına sahiptir.",
-        "B": "Sergi, tek taraflı bir iletişim modelidir.",
+        "A": "Sergi, yoğun bir kavramsal bilgi akışına sahiptir.",
+        "B": "Sergi, tek taraflı bir iletişim modelidir.",
         "C": "Sergi, açık ya da kapalı mekanda gerçekleşir.",
         "D": "Sergide görünür kılmak başat koşuldur.",
-        "E": "Sergi, öğretici ve bilgilendiricidir.",
+        "E": "Sergi, öğretici ve bilgilendiricidir.",
         "DogruCevap": "B",
         "DersAd": "Görsel Sistem Tasarımları",
         "Unite": 5,
@@ -85,7 +85,7 @@
         "A": "Sergiler, sanatla uğraşan kesime eserleri görme imkanı tanır.",
         "B": "Sergiler, kültürel ve entelektüel diyaloğu kolaylaştırır.",
         "C": "Sergiler, eleştirel düşünmeyi ve yaratıcılığı teşvik eder.",
-        "D": "Sergiler, daha fazla görünüm ve tanınırlığa yol açar.",
+        "D": "Sergiler, daha fazla görünüm ve tanınırlığa yol açar.",
         "E": "Sergiler, farklı tarz ve hareketlerle temas imkanı sağlar.",
         "DogruCevap": "A",
         "DersAd": "Görsel Sistem Tasarımları",
@@ -97,11 +97,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanatsal sergiler, sanatın teşvik edilmesinde, kültürel ve entelektüel diyaloğun teşvik edilmesinde çok önemli rol oynar. Sanatçılara çalışmalarını sergilemeleri için bir platform sağlayarak daha fazla görünüm ve tanınırlığa yol açar. Ayrıca sanat sergileri, insanları farklı tarzlara ve hareketlerle temas etmesini sağlayarak halka sanatın takdirini arttırır. İnsanların farklı fikirleri ve bakış açılarını tartışıp keşfetmeleri için bir alan sağlayarak eleştirel düşünmeyi ve yaratıcılığı teşvik eder. Bununla birlikte, günümüzde sanat eserleri her kesimden insanın ulaşabileceği mekanlarda sergilenmektedir. Diğer bir ifadeyle, sıradan insanların sanat eserlerini serbestçe görme imkanları bulunmaktadır. Bu bilgiler ışığında doğru cevap A'dır."
+        "Aciklama": "Sanatsal sergiler, sanatın teşvik edilmesinde, kültürel ve entelektüel diyaloğun teşvik edilmesinde çok önemli rol oynar. Sanatçılara çalışmalarını sergilemeleri için bir platform sağlayarak daha fazla görünüm ve tanınırlığa yol açar. Ayrıca sanat sergileri, insanları farklı tarzlara ve hareketlerle temas etmesini sağlayarak halka sanatın takdirini arttırır. İnsanların farklı fikirleri ve bakış açılarını tartışıp keşfetmeleri için bir alan sağlayarak eleştirel düşünmeyi ve yaratıcılığı teşvik eder. Bununla birlikte, günümüzde sanat eserleri her kesimden insanın ulaşabileceği mekanlarda sergilenmektedir. Diğer bir ifadeyle, sıradan insanların sanat eserlerini serbestçe görme imkanları bulunmaktadır. Bu bilgiler ışığında doğru cevap A'dır."
     },
     {
         "SoruID": 3862469,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"><br/><li> Sahibinin eserlerinden oluşan bir seçki anlamına gelir.</li><br/><li>Tek bir sayfası pek çok referans mektubundan daha<br>değerlidir.</br></li><br/><li>Tek ve mutlak bir dosya değildir, her seferinde yeniden oluşturulabilir.</li><br/></ol><br/>Yukarıda özelliklere sıralanan kavram aşağıdakilerden hangisidir?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"><br/><li> Sahibinin eserlerinden oluşan bir seçki anlamına gelir.</li><br/><li>Tek bir sayfası pek çok referans mektubundan daha<br/>değerlidir.</br></li><br/><li>Tek ve mutlak bir dosya değildir, her seferinde yeniden oluşturulabilir.</li><br/></ol><br/>Yukarıda özelliklere sıralanan kavram aşağıdakilerden hangisidir?",
         "A": "Portföy",
         "B": "Sunum",
         "C": "Sergi",
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kendisi de hâlihazırda bir sunum olan portfolyo, sahibinin eserlerinden oluşan bir seçki anlamına gelir. Yerine göre portfolyonun tek bir sayfası pek çok referans mektubundan daha değerlidir. Seçki olması da bu çalışmayı kendine özgü kılar. Seçki derken hem eser sahibinin en iyi eserlerinin bir araya getirildiği hem de başvuru ya da sunum yapılan yerle ilişkili olarak derlendiği anlatılmak istenmektedir. Bu bağlamda portfolyonun tek ve mutlak bir dosya olmadığı, başvuru ya da sunum yapılacak yere göre her seferinde yeniden oluşturulabilecek esnek bir çalışma olduğu anlaşılır. Dolayısıyla doğru cevap D'dir."
+        "Aciklama": "Kendisi de hâlihazırda bir sunum olan portfolyo, sahibinin eserlerinden oluşan bir seçki anlamına gelir. Yerine göre portfolyonun tek bir sayfası pek çok referans mektubundan daha değerlidir. Seçki olması da bu çalışmayı kendine özgü kılar. Seçki derken hem eser sahibinin en iyi eserlerinin bir araya getirildiği hem de başvuru ya da sunum yapılan yerle ilişkili olarak derlendiği anlatılmak istenmektedir. Bu bağlamda portfolyonun tek ve mutlak bir dosya olmadığı, başvuru ya da sunum yapılacak yere göre her seferinde yeniden oluşturulabilecek esnek bir çalışma olduğu anlaşılır. Dolayısıyla doğru cevap D'dir."
     },
     {
         "SoruID": 3862520,
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3862521,
-        "SoruMetni": "\"Sergileme tasarımında önemli çalışmalardan biridir. Bu çalışmada, matematik<br/>ile ilgili önemli bilim insanlarını tanıtmak, matematik ve insanın gelişimini zaman çizelgesiyle aktarmak, matematiğe ilişkin temel kavram ve teoremleri etkileşimli sunmak amaçlanmıştır. Sergi, 1998 yılına kadar tam 37 yıl açık kalmıştır\"<br/><br/>Yukarıda bahsi geçen ve sergi tasarımı alanında önemli bir çalışma olan \"Mathematica: A World of Numbers... and Beyond” adlı çalışmanın eser sahibi aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Sergileme tasarımında önemli çalışmalardan biridir. Bu çalışmada, matematik<br/>ile ilgili önemli bilim insanlarını tanıtmak, matematik ve insanın gelişimini zaman çizelgesiyle aktarmak, matematiğe ilişkin temel kavram ve teoremleri etkileşimli sunmak amaçlanmıştır. Sergi, 1998 yılına kadar tam 37 yıl açık kalmıştır\"<br/>Yukarıda bahsi geçen ve sergi tasarımı alanında önemli bir çalışma olan \"Mathematica: A World of Numbers... and Beyond” adlı çalışmanın eser sahibi aşağıdakilerden hangisidir?",
         "A": "Herbert Bayer, Walter Gropius ve Laszlo Moholy-Nagy",
         "B": "Brigitte Campeau, Stephane Breton",
         "C": "Ralph Appelbaum",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3862522,
-        "SoruMetni": "Amerikan Ulusal Anayasa Merkezinde, 1787 yılında bildiriye imza atan 39 kişinin birebir boyutlu bronz heykelleri arasında gezinme ve deftere imza atabilme imkanı sunulmaktadır. Bu durum, aşağıdaki yenilikçi sistemlerden özellikle hangisine örnek olarak verilebilir?",
+        "SoruMetni": "Amerikan Ulusal Anayasa Merkezinde, 1787 yılında bildiriye imza atan 39 kişinin birebir boyutlu bronz heykelleri arasında gezinme ve deftere imza atabilme imkanı sunulmaktadır. Bu durum, aşağıdaki yenilikçi sistemlerden özellikle hangisine örnek olarak verilebilir?",
         "A": "Işıklandırma ve renklendirme",
         "B": "Etkileşimli grafik/sergiler",
         "C": "Üç boyutlu çalışmalar",
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Klasik anlamdan sıyrılan sergilemenin, sergileme tasarımı biçimine dönüşerek pek çok ögeyi kapsadığı görülmektedir. Artık günümüzde işin içine dev boyutlu grafikler, üç boyutlu çalışmalar, farklı sergileme biçimleri, izleyiciyi sergiye dahil eden etkileşimli grafikler girmektedir. Amerikan Ulusal Anayasa Merkezinde anayasanın onaylanma sürecini hissettirme amaçlanmaktadır. Bu bağlamda, izleyicilere 1787 yılında bildiriye imza atan 39 kişinin birebir boyutlu bronz heykelleri arasında gezinme ve deftere imza atabilme gibi benzersiz deneyimler yaşatılmaktadır. Diğer bir ifadeyle, bu sergi izleyiciyi sergiye dahil eden etkileşimli grafik/ eserler içermektedir. Bu bilgiler ışığında doğru cevap B'dir."
+        "Aciklama": "Klasik anlamdan sıyrılan sergilemenin, sergileme tasarımı biçimine dönüşerek pek çok ögeyi kapsadığı görülmektedir. Artık günümüzde işin içine dev boyutlu grafikler, üç boyutlu çalışmalar, farklı sergileme biçimleri, izleyiciyi sergiye dahil eden etkileşimli grafikler girmektedir. Amerikan Ulusal Anayasa Merkezinde anayasanın onaylanma sürecini hissettirme amaçlanmaktadır. Bu bağlamda, izleyicilere 1787 yılında bildiriye imza atan 39 kişinin birebir boyutlu bronz heykelleri arasında gezinme ve deftere imza atabilme gibi benzersiz deneyimler yaşatılmaktadır. Diğer bir ifadeyle, bu sergi izleyiciyi sergiye dahil eden etkileşimli grafik/ eserler içermektedir. Bu bilgiler ışığında doğru cevap B'dir."
     },
     {
         "SoruID": 3862523,

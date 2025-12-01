@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 3863494,
-        "SoruMetni": "\"Genelde belirli bir meslek alanına ilişkin bilgi, beceri ve tutumların olası en kısa sürede kazandırılması ve en kısa sürede bireylerin bunları uygulamaya aktarmalarını hedefleyen eğitim etkinliğidir.\"<br/><br/>Tanımı verilen kavram aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Genelde belirli bir meslek alanına ilişkin bilgi, beceri ve tutumların olası en kısa sürede kazandırılması ve en kısa sürede bireylerin bunları uygulamaya aktarmalarını hedefleyen eğitim etkinliğidir.\"<br/>Tanımı verilen kavram aşağıdakilerden hangisidir?",
         "A": "Eğitim",
         "B": "Öğretim",
         "C": "Öğrenme",
@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3863497,
-        "SoruMetni": "Öğrenmeyi bireyin zihinde depoladığı bilgi miktarındaki değişim olarak tanımlayan yaklaşım aşağıdakilerden hangisidir?",
+        "SoruMetni": "Öğrenmeyi bireyin zihinde depoladığı bilgi miktarındaki değişim olarak tanımlayan yaklaşım aşağıdakilerden hangisidir?",
         "A": "Davranışcı",
         "B": "Yapıcı",
         "C": "Bilişçi",
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 3863498,
-        "SoruMetni": "I.  nesnelcilik (objectivism)<br/> II. yapılandırmacılık (constructivism)<br/> III.  davranışçılık (behaviorism)<br/> Yukarıdakilerden hangisi ya da hangileri felsefi bakış açısı içerisinde yer alan yaklaşımdır?",
+        "SoruMetni": "I. nesnelcilik (objectivism)<br/>II. yapılandırmacılık (constructivism)<br/>III. davranışçılık (behaviorism)<br/>Yukarıdakilerden hangisi ya da hangileri felsefi bakış açısı içerisinde yer alan yaklaşımdır?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3863500,
-        "SoruMetni": "I• Öğrenme, organizmada var olan tepkinin yeni bir uyarıcı ile ortaya çıkarılmasıdır.<br/> II• Organizma koşullu uyaranları birbirinden ayırt ederek farklı koşullu tepkilerde bulunabilir. <br/> III• Sönmüş koşullu tepkiler, koşulsuz uyarıcılarla birlikte koşullu uyarıcılar verildiğinde kendiliğinden geri gelir. <br/> Yukarıdakilerden hangisi ya da hangileri Rus fizyolog Pavlov’un özellikle köpekler üzerinde yapmış olduğu deneyler sonunda ortaya koyduğu Klasik koşullanma (classical) ilkelerindendir?",
+        "SoruMetni": "I• Öğrenme, organizmada var olan tepkinin yeni bir uyarıcı ile ortaya çıkarılmasıdır.<br/>II• Organizma koşullu uyaranları birbirinden ayırt ederek farklı koşullu tepkilerde bulunabilir. <br/>III• Sönmüş koşullu tepkiler, koşulsuz uyarıcılarla birlikte koşullu uyarıcılar verildiğinde kendiliğinden geri gelir. <br/>Yukarıdakilerden hangisi ya da hangileri Rus fizyolog Pavlov’un özellikle köpekler üzerinde yapmış olduğu deneyler sonunda ortaya koyduğu Klasik koşullanma (classical) ilkelerindendir?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Klasik koşullanma (classical), Rus fizyolog Pavlov’un özellikle köpekler üzerinde yapmış olduğu deneyler sonunda ortaya koyduğu bir kuramdır. Bu kuramın ilkeleri şöyle özetlenebilir:<br/> • Öğrenme, organizmada var olan tepkinin yeni bir uyarıcı ile ortaya çıkarılmasıdır.<br/> • İki tür uyarıcı vardır: (1) Her zaman aynı tepkiyi uyandıran koşulsuz uyarıcı ve (2) başlangıçta etkisiz olan ancak koşulsuz uyarıcıyla eşleştirildiğinde koşullu tepkiyi uyandıran öğrenilmiş koşullu uyaran.<br/> • Organizma koşullu uyarıcılara karşı zamanla koşullu tepkilerde bulunma -genelleme- eğilimi gösterir.<br/> • Organizma koşullu uyaranları birbirinden ayırt ederek farklı koşullu tepkilerde bulunabilir.<br/> • Koşulsuz uyaran verilmeden koşullu uyaran verildiğinde sergilenen koşullu tepkide zamanla azalma ya da sönme gözlenebilir.<br/> • Sönmüş koşullu tepkiler, koşulsuz uyarıcılarla birlikte koşullu uyarıcılar verildiğinde kendiliğinden geri gelir."
+        "Aciklama": "Klasik koşullanma (classical), Rus fizyolog Pavlov’un özellikle köpekler üzerinde yapmış olduğu deneyler sonunda ortaya koyduğu bir kuramdır. Bu kuramın ilkeleri şöyle özetlenebilir:<br/>• Öğrenme, organizmada var olan tepkinin yeni bir uyarıcı ile ortaya çıkarılmasıdır.<br/>• İki tür uyarıcı vardır: (1) Her zaman aynı tepkiyi uyandıran koşulsuz uyarıcı ve (2) başlangıçta etkisiz olan ancak koşulsuz uyarıcıyla eşleştirildiğinde koşullu tepkiyi uyandıran öğrenilmiş koşullu uyaran.<br/>• Organizma koşullu uyarıcılara karşı zamanla koşullu tepkilerde bulunma -genelleme- eğilimi gösterir.<br/>• Organizma koşullu uyaranları birbirinden ayırt ederek farklı koşullu tepkilerde bulunabilir.<br/>• Koşulsuz uyaran verilmeden koşullu uyaran verildiğinde sergilenen koşullu tepkide zamanla azalma ya da sönme gözlenebilir.<br/>• Sönmüş koşullu tepkiler, koşulsuz uyarıcılarla birlikte koşullu uyarıcılar verildiğinde kendiliğinden geri gelir."
     },
     {
         "SoruID": 3863501,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Davranışçılık, eğitim alanında en uzun süre etkili olan yaklaşımdır. Biliş, yapıcı ve bağlantıcı yaklaşımların gelişmesiyle birlikte zayıflamasına karşın bu yaklaşımın uygulamalar üzerindeki etkileri hâlâ devam etmektedir. Bu etkiler ya da katkılarından bazıları seçeneklerde de paylaşılmıştır. <br/>* Öğretim tasarımı, öğrenme-öğretme ilkelerinden yararlanılarak öğretim etkinliklerinin ve gereçlerinin sistematik olarak düzenlenmesi sürecidir. <br/>* Tam öğrenme, öğretime başlamadan önce, öğrencilerin bir ön değerlendirmeye alınması; böylece öğrencilerin belirli bir düzeyden öğretme-öğrenme sürecine başlamalarının ve yeni sunulacak gereçleri %90 başarıyla özümseyene kadar çalışmalarının sağlanmasıdır. <br/>* Pekiştirme, beklenen davranışın ortaya çıkması için öğrenciye çeşitli uyaranların verilmesi şeklinde tanımlanabilir. Bu bağlamda doğru seçenektir. <br/>* Öğretme makineleri, programlı öğretim gereçlerini sunan özel araçlardır. <br/>* Programlı öğretim, öğretilecek içeriğin basitten karmaşığa doğru giden ardışık ve küçük parçalar halinde düzenlenmesi; bu düzenin, hata oranını en aza indirinceye kadar incelenmesi ve düzeltilmesi; öğrencinin sürece etken olarak katılması ve tepkide bulunması; tepki sonrası doğru yanıtın hemen sunulması; öğrencilerin, kendi öğrenme hızlarına göre materyali çalışmalarına olanak tanıyacak bireysel öğrenmenin sağlanmasıdır. <br/>* Öğretme makineleri ise programlı öğretim gereçlerini sunan özel araçlardır."
+        "Aciklama": "Davranışçılık, eğitim alanında en uzun süre etkili olan yaklaşımdır. Biliş, yapıcı ve bağlantıcı yaklaşımların gelişmesiyle birlikte zayıflamasına karşın bu yaklaşımın uygulamalar üzerindeki etkileri hâlâ devam etmektedir. Bu etkiler ya da katkılarından bazıları seçeneklerde de paylaşılmıştır. <br/>* Öğretim tasarımı, öğrenme-öğretme ilkelerinden yararlanılarak öğretim etkinliklerinin ve gereçlerinin sistematik olarak düzenlenmesi sürecidir. <br/>* Tam öğrenme, öğretime başlamadan önce, öğrencilerin bir ön değerlendirmeye alınması; böylece öğrencilerin belirli bir düzeyden öğretme-öğrenme sürecine başlamalarının ve yeni sunulacak gereçleri %90 başarıyla özümseyene kadar çalışmalarının sağlanmasıdır. <br/>* Pekiştirme, beklenen davranışın ortaya çıkması için öğrenciye çeşitli uyaranların verilmesi şeklinde tanımlanabilir. Bu bağlamda doğru seçenektir. <br/>* Öğretme makineleri, programlı öğretim gereçlerini sunan özel araçlardır. <br/>* Programlı öğretim, öğretilecek içeriğin basitten karmaşığa doğru giden ardışık ve küçük parçalar halinde düzenlenmesi; bu düzenin, hata oranını en aza indirinceye kadar incelenmesi ve düzeltilmesi; öğrencinin sürece etken olarak katılması ve tepkide bulunması; tepki sonrası doğru yanıtın hemen sunulması; öğrencilerin, kendi öğrenme hızlarına göre materyali çalışmalarına olanak tanıyacak bireysel öğrenmenin sağlanmasıdır. <br/>* Öğretme makineleri ise programlı öğretim gereçlerini sunan özel araçlardır."
     },
     {
         "SoruID": 3863503,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Wilson, Teslow ve Osman-Jouchoux (1995) yapıcılığın temelinde yatan düşünceleri şöyle sıralamışlardır: Zihin gerçektir ve zihinsel olayların incelenmesi gerekir. Bilgi, bellek içindedir ve dinamiktir. Anlam birey tarafından yapılandırılmıştır. Yansıma/soyutlama uzman olmak için önemlidir. Öğrenme, simgelerin yapılandırılmasını içerir. Öğretme, anlamın yapılandırılması için tartışmaktır. Düşünme ve algılama birbirinden ayrılamaz. Sorun çözme, bilişçi süreçlerin merkezindedir. Bu ilkelerden hareketle bilgi birey tarafından yapılandırılır; öğretme, anlamın yapılandırılması için tartışma sürecidir. Bu nedenle bireysel anlam inşasına, tartışmaya ve yansıtmaya dayalı öğrenme etkinlikleri yapılandırmacılığın özünü yansıtır. Diğer seçeneklerde ağırlıklı olarak öğretmen kontrolünde, doğru olan tek bir bilginin tek bir kaynaktan sunulduğu bağlamlara gönderme yapılmıştır."
+        "Aciklama": "Wilson, Teslow ve Osman-Jouchoux (1995) yapıcılığın temelinde yatan düşünceleri şöyle sıralamışlardır: Zihin gerçektir ve zihinsel olayların incelenmesi gerekir. Bilgi, bellek içindedir ve dinamiktir. Anlam birey tarafından yapılandırılmıştır. Yansıma/soyutlama uzman olmak için önemlidir. Öğrenme, simgelerin yapılandırılmasını içerir. Öğretme, anlamın yapılandırılması için tartışmaktır. Düşünme ve algılama birbirinden ayrılamaz. Sorun çözme, bilişçi süreçlerin merkezindedir. Bu ilkelerden hareketle bilgi birey tarafından yapılandırılır; öğretme, anlamın yapılandırılması için tartışma sürecidir. Bu nedenle bireysel anlam inşasına, tartışmaya ve yansıtmaya dayalı öğrenme etkinlikleri yapılandırmacılığın özünü yansıtır. Diğer seçeneklerde ağırlıklı olarak öğretmen kontrolünde, doğru olan tek bir bilginin tek bir kaynaktan sunulduğu bağlamlara gönderme yapılmıştır."
     },
     {
         "SoruID": 3863504,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
+        "Aciklama": "ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
     },
     {
         "SoruID": 3863610,
@@ -441,7 +441,7 @@
     },
     {
         "SoruID": 3924069,
-        "SoruMetni": "\"Bağlantıcı yaklaşım, bilginin ağa bağlı ilişkilerden oluştuğunu ve öğrenmenin bu ağlarda gezinme<br/>yeteneği olduğunu ileri sürmektedir. Bu yaklaşım, bilgi okuryazarlığına ayrı bir önem vermekte ve<br/>öğrencilerin kendi öğrenme ağları içinde bilgiyi gezinmelerine ve değerlendirmelerine yardımcı olmanın önemini vurgulamaktadır (Transue, 2013).\" <br/><br/>Bu bilgiden hareketle öğretenin rolüne ilişkin aşağıdaki çıkarımlardan hangisi yapılabilir?",
+        "SoruMetni": "\"Bağlantıcı yaklaşım, bilginin ağa bağlı ilişkilerden oluştuğunu ve öğrenmenin bu ağlarda gezinme<br/>yeteneği olduğunu ileri sürmektedir. Bu yaklaşım, bilgi okuryazarlığına ayrı bir önem vermekte ve<br/>öğrencilerin kendi öğrenme ağları içinde bilgiyi gezinmelerine ve değerlendirmelerine yardımcı olmanın önemini vurgulamaktadır (Transue, 2013).\" <br/>Bu bilgiden hareketle öğretenin rolüne ilişkin aşağıdaki çıkarımlardan hangisi yapılabilir?",
         "A": "Öğrenenlerin yeni ağlara erişmelerini kolaylaştırır.",
         "B": "Bilgiyi düzenler ve önceki bilgilerle ilişkilendirir.",
         "C": "Öğrencilerin dikkatini çekerek geri çağırma ve kodlamaya yardımcı olur.",
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
+        "Aciklama": "Bu soru tipi ADDIE modelinin daha iyi kavranması bağlamında yararlı olabilir. Bu nedenle birkaç versiyonu hazırlanmıştır.<br>ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
     },
     {
         "SoruID": 3940023,
@@ -497,11 +497,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
+        "Aciklama": "ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
     },
     {
         "SoruID": 3863468,
-        "SoruMetni": "I. Bileşenlerin varlığı<br/><br/>II. Çıktı odaklı olma<br/><br/>III. Belirli bir amaç<br/><br/>IV. Etkileşim<br/><br/>V. İlişki<br/><br/>Aşağıdakilerden hangisi bir sistemin varlığını sürdürebilmesi için sahip olması gereken temel özellikleri doğru biçimde yansıtmaktadır?",
+        "SoruMetni": "I. Bileşenlerin varlığı<br/>II. Çıktı odaklı olma<br/>III. Belirli bir amaç<br/>IV. Etkileşim<br/>V. İlişki<br/>Aşağıdakilerden hangisi bir sistemin varlığını sürdürebilmesi için sahip olması gereken temel özellikleri doğru biçimde yansıtmaktadır?",
         "A": "I, II, III, IV, V",
         "B": "I, II, III, IV",
         "C": "I, III, IV",
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir sistemin varlığını sürdürebilmesi için bileşenlerin varlığı, etkileşim ve ilişki ile belirli bir amaç temel özelliklerine sahip olması gerekir.<br/><br/>Doğru cevap \"I, III, IV, V\" seçeneğidir."
+        "Aciklama": "Bir sistemin varlığını sürdürebilmesi için bileşenlerin varlığı, etkileşim ve ilişki ile belirli bir amaç temel özelliklerine sahip olması gerekir.<br/>Doğru cevap \"I, III, IV, V\" seçeneğidir."
     },
     {
         "SoruID": 3863470,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çıktı (Output), girdinin bir süreç tarafından değiştirilerek ürün hâline getirilmesidir. Örnek olarak kağıdın işlenip kitap haline gelmesi verilebilir. <br/> Doğru cevap \"Çıktı\" seçeneğidir."
+        "Aciklama": "Çıktı (Output), girdinin bir süreç tarafından değiştirilerek ürün hâline getirilmesidir. Örnek olarak kağıdın işlenip kitap haline gelmesi verilebilir. <br/>Doğru cevap \"Çıktı\" seçeneğidir."
     },
     {
         "SoruID": 3863471,
@@ -557,11 +557,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir organizasyonun çalışan memnuniyetini değerlendiremeyip geri bildirimler alamaması da yarı açık bir sistem örneği olarak düşünülebilir. Sistemdeki geri dönüşlerin eksikliği, sürekli gelişmeyi ve olası sorunların çözümünü zorlaştırabilir.<br/> Doğru cevap \"Yarı açık\" seçeneğidir."
+        "Aciklama": "Bir organizasyonun çalışan memnuniyetini değerlendiremeyip geri bildirimler alamaması da yarı açık bir sistem örneği olarak düşünülebilir. Sistemdeki geri dönüşlerin eksikliği, sürekli gelişmeyi ve olası sorunların çözümünü zorlaştırabilir.<br/>Doğru cevap \"Yarı açık\" seçeneğidir."
     },
     {
         "SoruID": 3863472,
-        "SoruMetni": "__________ mevcut düzensizliğe bağlı olarak bir sistemin durağanlaşması, bozulması ve çökmesidir.<br/> Yukarıdaki ifadede yer alan boşluğu en iyi aşağıdakilerden hangisi tamamlar?",
+        "SoruMetni": "__________ mevcut düzensizliğe bağlı olarak bir sistemin durağanlaşması, bozulması ve çökmesidir.<br/>Yukarıdaki ifadede yer alan boşluğu en iyi aşağıdakilerden hangisi tamamlar?",
         "A": "Entropi",
         "B": "Kapalı sistem",
         "C": "Kaos",
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Entropi, mevcut düzensizliğe (kaos) bağlı olarak bir sistemin durağanlaşması, bozulması ve çökmesidir.<br/> Doğru cevap \"Entropi\" seçeneğidir."
+        "Aciklama": "Entropi, mevcut düzensizliğe (kaos) bağlı olarak bir sistemin durağanlaşması, bozulması ve çökmesidir.<br/>Doğru cevap \"Entropi\" seçeneğidir."
     },
     {
         "SoruID": 3863476,
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eğitim sürecinde geri bildirim, öğrencilerin performanslarının değerlendirilmesi, öğrenme sürecinin etkinliğinin ölçülmesi ve gerekli iyileştirmenin yapılması için kullanılan bir unsurdur. Öğrenci performansı, sınavlar, proje teslimleri, ödevler ve öğretmenlerin değerlendirmeleri gibi çeşitli yollarla değerlendirme sağlanabilir.<br/> Doğru cevap \"Geribildirim\" seçeneğidir."
+        "Aciklama": "Eğitim sürecinde geri bildirim, öğrencilerin performanslarının değerlendirilmesi, öğrenme sürecinin etkinliğinin ölçülmesi ve gerekli iyileştirmenin yapılması için kullanılan bir unsurdur. Öğrenci performansı, sınavlar, proje teslimleri, ödevler ve öğretmenlerin değerlendirmeleri gibi çeşitli yollarla değerlendirme sağlanabilir.<br/>Doğru cevap \"Geribildirim\" seçeneğidir."
     },
     {
         "SoruID": 3863478,
@@ -617,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eğitim kurumları yapı, yönetim, araştırma-geliştirme, kaynakların kullanımı, teknoloji, politikalar, esas ve usuller gibi işleme süreçlerini içeren yapılardır. <br/> Doğru cevap \"Araştırma-geliştirme\" seçeneğidir."
+        "Aciklama": "Eğitim kurumları yapı, yönetim, araştırma-geliştirme, kaynakların kullanımı, teknoloji, politikalar, esas ve usuller gibi işleme süreçlerini içeren yapılardır. <br/>Doğru cevap \"Araştırma-geliştirme\" seçeneğidir."
     },
     {
         "SoruID": 3863482,
@@ -637,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sistem sentezi, çözüm stratejisinin seçimi, stratejinin uygulanması ve performans etkinliğinin değerlendirmesini içerir. Sistem sentez teknikleri, problem çözme adımlarının dengelenmesinde faydalıdır. Misyon analizi, bir hedefin ne olduğunu ve bu hedefe ulaşmak için neyin gerektiğini belirler. Bu süreç, belirli performans gereksinimlerini ve hedefe ulaşmayı engelleyen kısıtlamaları tespit ederek çözüm yollarını sürekli olarak belirler. İşlevsel analiz ve görev analizi, görevlerin detaylı parçalara ayrılmasını ve performansın neler olduğunun belirlenmesini sağlar. Son olarak, yöntem-araç analizi, performans gereksinimleri için olası stratejileri ve araçları tanımlar. Bu adımlar, çözüm stratejilerinin belirlenmesi için gerekli verileri sağlamaktadır. Strateji analizi sistem sentezinde yer almamaktadır.<br/> Doğru cevap \"I, II, III, V\" seçeneğidir."
+        "Aciklama": "Sistem sentezi, çözüm stratejisinin seçimi, stratejinin uygulanması ve performans etkinliğinin değerlendirmesini içerir. Sistem sentez teknikleri, problem çözme adımlarının dengelenmesinde faydalıdır. Misyon analizi, bir hedefin ne olduğunu ve bu hedefe ulaşmak için neyin gerektiğini belirler. Bu süreç, belirli performans gereksinimlerini ve hedefe ulaşmayı engelleyen kısıtlamaları tespit ederek çözüm yollarını sürekli olarak belirler. İşlevsel analiz ve görev analizi, görevlerin detaylı parçalara ayrılmasını ve performansın neler olduğunun belirlenmesini sağlar. Son olarak, yöntem-araç analizi, performans gereksinimleri için olası stratejileri ve araçları tanımlar. Bu adımlar, çözüm stratejilerinin belirlenmesi için gerekli verileri sağlamaktadır. Strateji analizi sistem sentezinde yer almamaktadır.<br/>Doğru cevap \"I, II, III, V\" seçeneğidir."
     },
     {
         "SoruID": 3863484,
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Diğerleri sistem yaklaşımının eğitim alanındaki kazanımlarıyken standart tasarımın esnekliği bir sınırlılık olarak verilmiştir. Genel olarak, sistem yaklaşımı tek tip bir tasarım sunar. Ancak, yönetim bağlamında, her kurumun stratejileri değişebilir. Bu durumda, sistem yaklaşımının esnek olmaması ve değişken stratejilere uyum sağlamada zaman zaman zorluk yaşanabilir.<br/> Doğru cevap \"Standart Tasarımın Esnekliği\" seçeneğidir."
+        "Aciklama": "Diğerleri sistem yaklaşımının eğitim alanındaki kazanımlarıyken standart tasarımın esnekliği bir sınırlılık olarak verilmiştir. Genel olarak, sistem yaklaşımı tek tip bir tasarım sunar. Ancak, yönetim bağlamında, her kurumun stratejileri değişebilir. Bu durumda, sistem yaklaşımının esnek olmaması ve değişken stratejilere uyum sağlamada zaman zaman zorluk yaşanabilir.<br/>Doğru cevap \"Standart Tasarımın Esnekliği\" seçeneğidir."
     },
     {
         "SoruID": 3863487,
@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ters yüz öğrenme modeli, diğer modellerle birlikte örgütsel düzenleme bileşeni altında verilmiştir. <br/> Doğru cevap \"Örgütsel düzenleme\" seçeneğidir."
+        "Aciklama": "Ters yüz öğrenme modeli, diğer modellerle birlikte örgütsel düzenleme bileşeni altında verilmiştir. <br/>Doğru cevap \"Örgütsel düzenleme\" seçeneğidir."
     },
     {
         "SoruID": 3863490,
@@ -697,11 +697,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "PUKÖ döngüsü planlama, uygulama, control etme ve önlem alma adımlarından oluşmaktadır. Her yönetim sürecinde olduğu gibi izleme ve değerlendirme bir diğer adıyla kontrol etme göz önünde bulundurulması gereken olmazsa olmaz bir adımdır.<br/><br/>Doğru cevap \"Kontrol et\" seçeneğidir."
+        "Aciklama": "PUKÖ döngüsü planlama, uygulama, control etme ve önlem alma adımlarından oluşmaktadır. Her yönetim sürecinde olduğu gibi izleme ve değerlendirme bir diğer adıyla kontrol etme göz önünde bulundurulması gereken olmazsa olmaz bir adımdır.<br/>Doğru cevap \"Kontrol et\" seçeneğidir."
     },
     {
         "SoruID": 3863621,
-        "SoruMetni": "Bir üniversitede yürütülen uzaktan eğitim programının tasarım sürecinde; öğretim elemanları, öğrenci ihtiyaçlarını dikkate almadan sadece kendi uzmanlık alanlarına göre içerik üretmiş ve bu içerikler arasında herhangi bir koordinasyon sağlanamamıştır. Ortaya çıkan programda dersler birbiriyle örtüşmemekte, öğrenciye bütüncül bir öğrenme deneyimi sunulamamaktadır.<br/> Sönmez’in (1987) sistem tanımı dikkate alındığında, bu durum aşağıdakilerden hangisinin eksikliğine işaret eder?",
+        "SoruMetni": "Bir üniversitede yürütülen uzaktan eğitim programının tasarım sürecinde; öğretim elemanları, öğrenci ihtiyaçlarını dikkate almadan sadece kendi uzmanlık alanlarına göre içerik üretmiş ve bu içerikler arasında herhangi bir koordinasyon sağlanamamıştır. Ortaya çıkan programda dersler birbiriyle örtüşmemekte, öğrenciye bütüncül bir öğrenme deneyimi sunulamamaktadır.<br/>Sönmez’in (1987) sistem tanımı dikkate alındığında, bu durum aşağıdakilerden hangisinin eksikliğine işaret eder?",
         "A": "Etkileşim ve ilişki ile amaç birliği",
         "B": "Bileşenlerin varlığı ile dış çevreye açıklık",
         "C": "Amaç birliği ile değerlendirme döngüsü",
@@ -717,16 +717,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Senaryoda vurgulanan iki temel eksiklik vardır:<br/> <ol> <li>Dersler arasında etkileşim ve ilişki eksikliği (bileşenlerin koordinasyonsuzluğu, kopukluk),</li> <li>Programın öğrenci ihtiyaçlarını dikkate almadan tasarlanması, yani ortak bir amaç birliğinden uzak olunması.</li> </ol> Bu iki eksiklik doğrudan Sönmez’in sistem anlayışındaki \"etkileşim ve ilişki\" ile \"belirli bir amaç\" özelliklerinin eksikliğiyle örtüşmektedir.<br/> Dolayısıyla doğru yanıt: A şıkkıdır."
+        "Aciklama": "Senaryoda vurgulanan iki temel eksiklik vardır:<br/><ol> <li>Dersler arasında etkileşim ve ilişki eksikliği (bileşenlerin koordinasyonsuzluğu, kopukluk),</li> <li>Programın öğrenci ihtiyaçlarını dikkate almadan tasarlanması, yani ortak bir amaç birliğinden uzak olunması.</li> </ol> Bu iki eksiklik doğrudan Sönmez’in sistem anlayışındaki \"etkileşim ve ilişki\" ile \"belirli bir amaç\" özelliklerinin eksikliğiyle örtüşmektedir.<br/>Dolayısıyla doğru yanıt: A şıkkıdır."
     },
     {
         "SoruID": 3863622,
-        "SoruMetni": "Bir üniversitenin uzaktan eğitim birimi, yeni bir öğrenme yönetim sistemi (LMS) kurmuştur. Bu süreçte aşağıdaki adımlar uygulanmıştır:<br/><br/><ol><br/><li>Platformun öğrenciye sunulması ve derslerin başlaması</li><br/><li>Öğrenci memnuniyeti anketlerinin yapılması</li><br/><li>Ulusal düzeydeki eğitim politikalarının ve dijitalleşme trendlerinin göz önünde bulundurulması</li><br/><li>Sistem tasarımı ve içerik üretimi için ekiplerin iş birliği içinde çalışması</li><br/><li>Öğrencilerin, öğretim elemanlarının, teknik alt yapının ve bütçenin belirlenip projeye tahsis edilmesi</li><br/></ol><br/><br> Aşağıdaki şıklardan hangisi her adımı doğru sistem öğesiyle eşleştirmektedir?</br>",
-        "A": "1 → Çıktı<br/> 2 → Geri bildirim<br/> 3 → Çevre<br/> 4 → Süreç<br/> 5 → Girdi",
-        "B": "1 → Süreç<br/> 2 → Çıktı<br/> 3 → Geri bildirim<br/> 4 → Çevre<br/> 5 → Girdi",
-        "C": "1 → Geri bildirim<br/> 2 → Süreç<br/> 3 → Çevre<br/> 4 → Girdi<br/> 5 → Çıktı",
-        "D": "1 → Çıktı<br/> 2 → Geri bildirim<br/> 3 → Girdi<br/> 4 → Süreç<br/> 5 → Çevre",
-        "E": "1 → Çevre<br/> 2 → Geri bildirim<br/> 3 → Çıktı<br/> 4 → Girdi<br/> 5 → Süreç",
+        "SoruMetni": "Bir üniversitenin uzaktan eğitim birimi, yeni bir öğrenme yönetim sistemi (LMS) kurmuştur. Bu süreçte aşağıdaki adımlar uygulanmıştır:<br/><ol><br/><li>Platformun öğrenciye sunulması ve derslerin başlaması</li><br/><li>Öğrenci memnuniyeti anketlerinin yapılması</li><br/><li>Ulusal düzeydeki eğitim politikalarının ve dijitalleşme trendlerinin göz önünde bulundurulması</li><br/><li>Sistem tasarımı ve içerik üretimi için ekiplerin iş birliği içinde çalışması</li><br/><li>Öğrencilerin, öğretim elemanlarının, teknik alt yapının ve bütçenin belirlenip projeye tahsis edilmesi</li><br/></ol><br/>Aşağıdaki şıklardan hangisi her adımı doğru sistem öğesiyle eşleştirmektedir?</br>",
+        "A": "1 → Çıktı<br/>2 → Geri bildirim<br/>3 → Çevre<br/>4 → Süreç<br/>5 → Girdi",
+        "B": "1 → Süreç<br/>2 → Çıktı<br/>3 → Geri bildirim<br/>4 → Çevre<br/>5 → Girdi",
+        "C": "1 → Geri bildirim<br/>2 → Süreç<br/>3 → Çevre<br/>4 → Girdi<br/>5 → Çıktı",
+        "D": "1 → Çıktı<br/>2 → Geri bildirim<br/>3 → Girdi<br/>4 → Süreç<br/>5 → Çevre",
+        "E": "1 → Çevre<br/>2 → Geri bildirim<br/>3 → Çıktı<br/>4 → Girdi<br/>5 → Süreç",
         "DogruCevap": "A",
         "DersAd": "Öğretim Tasarımı",
         "Unite": 2,
@@ -737,11 +737,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1 -Çıktı : Platformun öğrenciye sunulması ve derslerin başlaması<br/><br/> Bu aşamada sistemin ürettiği ürün yani çıktı devreye girmektedir. Girdiler (öğrenci, altyapı vs.) işlenmiş, süreç tamamlanmış ve ortaya çıkan ürün — yani kullanılabilir bir LMS — öğrencilere sunulmuştur. Bu nedenle doğru eşleşme “çıktı”dır.<br/><br/>2 -Geri bildirim: Öğrenci memnuniyeti anketlerinin yapılması<br><br/> Anketler, sistemin performansını ve öğrenci memnuniyetini ölçmek için yapılır. Bu da sistemin çıktısına dair geri bildirim toplanması anlamına gelir. Geri bildirim sayesinde sistemin işleyişi gözden geçirilip, gerekiyorsa iyileştirmeler yapılabilir. Bu nedenle burası net olarak “geri bildirim”dir.</br><br/><br/>3 - Çevre: Ulusal düzeydeki eğitim politikalarının ve dijitalleşme trendlerinin dikkate alınması<br><br/> Bu unsurlar, sistemin dışında yer alır ama sistemin nasıl şekilleneceğini etkiler. Örneğin MEB politikaları ya da teknolojik dönüşüm baskıları, sistemin karar alma süreçlerini yönlendirir. Bu nedenle bu adım “çevre” öğesini temsil eder.</br><br/><br/>4 - Süreç: Sistem tasarımı ve içerik üretimi için ekiplerin iş birliği içinde çalışması<br><br/> Bu aşama, sistemin girdilerinin işlenip yapılandırıldığı aşamadır. Yani kaynaklar (girdiler), burada bir süreçten geçirilir, bilgi ve teknoloji kullanılarak ürün haline getirilir. Bu işlem basamağı tam anlamıyla “süreç” unsurunu karşılar.</br><br/><br/>5 - Girdi: Öğrencilerin, öğretim elemanlarının, teknik alt yapının ve bütçenin belirlenip projeye tahsis edilmesi<br><br/> Tüm bu kaynaklar sistemin çalışması için dışarıdan alınan, sisteme giren girdilerdir. Öğrenci, öğretim elemanı, finansal kaynak vb. sistemin başında yer alan temel bileşenlerdir. Dolayısıyla bu adım “girdi” olarak doğru eşleştirilmiştir.</br>"
+        "Aciklama": "1 -Çıktı : Platformun öğrenciye sunulması ve derslerin başlaması<br/>Bu aşamada sistemin ürettiği ürün yani çıktı devreye girmektedir. Girdiler (öğrenci, altyapı vs.) işlenmiş, süreç tamamlanmış ve ortaya çıkan ürün — yani kullanılabilir bir LMS — öğrencilere sunulmuştur. Bu nedenle doğru eşleşme “çıktı”dır.<br/>2 -Geri bildirim: Öğrenci memnuniyeti anketlerinin yapılması<br/>Anketler, sistemin performansını ve öğrenci memnuniyetini ölçmek için yapılır. Bu da sistemin çıktısına dair geri bildirim toplanması anlamına gelir. Geri bildirim sayesinde sistemin işleyişi gözden geçirilip, gerekiyorsa iyileştirmeler yapılabilir. Bu nedenle burası net olarak “geri bildirim”dir.</br><br/>3 - Çevre: Ulusal düzeydeki eğitim politikalarının ve dijitalleşme trendlerinin dikkate alınması<br/>Bu unsurlar, sistemin dışında yer alır ama sistemin nasıl şekilleneceğini etkiler. Örneğin MEB politikaları ya da teknolojik dönüşüm baskıları, sistemin karar alma süreçlerini yönlendirir. Bu nedenle bu adım “çevre” öğesini temsil eder.</br><br/>4 - Süreç: Sistem tasarımı ve içerik üretimi için ekiplerin iş birliği içinde çalışması<br/>Bu aşama, sistemin girdilerinin işlenip yapılandırıldığı aşamadır. Yani kaynaklar (girdiler), burada bir süreçten geçirilir, bilgi ve teknoloji kullanılarak ürün haline getirilir. Bu işlem basamağı tam anlamıyla “süreç” unsurunu karşılar.</br><br/>5 - Girdi: Öğrencilerin, öğretim elemanlarının, teknik alt yapının ve bütçenin belirlenip projeye tahsis edilmesi<br/>Tüm bu kaynaklar sistemin çalışması için dışarıdan alınan, sisteme giren girdilerdir. Öğrenci, öğretim elemanı, finansal kaynak vb. sistemin başında yer alan temel bileşenlerdir. Dolayısıyla bu adım “girdi” olarak doğru eşleştirilmiştir.</br>"
     },
     {
         "SoruID": 3863623,
-        "SoruMetni": "Bir eğitim kurumu, öğrenci kayıtlarını almakta, dersler sunmakta ancak öğrenci memnuniyeti ya da mezun başarı verisi toplamamaktadır. Bu durum yıllar içinde eğitim kalitesinin düşmesine yol açmıştır.<br/><br/>Bu kurumun sistemi aşağıdakilerden hangisidir?<br/>",
+        "SoruMetni": "Bir eğitim kurumu, öğrenci kayıtlarını almakta, dersler sunmakta ancak öğrenci memnuniyeti ya da mezun başarı verisi toplamamaktadır. Bu durum yıllar içinde eğitim kalitesinin düşmesine yol açmıştır.<br/>Bu kurumun sistemi aşağıdakilerden hangisidir?",
         "A": "Açık sistem",
         "B": "Kapalı sistem",
         "C": "Statik sistem",
@@ -757,13 +757,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<ul><br/><li>Kurum öğrenci alıyor : Girdi var</li><br/><li>Ders sunuyor : Süreç var</li><br/><li>Ancak:<br/><ul><br/><li>Geri bildirim yok (öğrenci memnuniyeti veya mezun takibi yapılmıyor)</li><br/><li>Bu durum kalitenin düşmesine neden oluyor</li><br/></ul><br/></li><br/></ul>"
+        "Aciklama": "Yarı açık sistemlerde:<br/><ul><br/><li><br/>Girdi, süreç ve çıktı vardır.<br/></li><br/><li><br/>Ama geri bildirim eksiktir → sistem gelişemez, hatalarını fark edemez.<br/></li><br/><li><br/>Bu da zamanla kalite düşüşü ve entropi (bozulma) yaratır.<br/></li><br/></ul><br/>Soru senaryosuna göre sistem işlemekte ama geri bildirim mekanizması çalışmamaktadır.<br><ul><br/><li>Kurum öğrenci alıyor : Girdi var</li><br/><li>Ders sunuyor : Süreç var</li><br/><li>Ancak:<br/><ul><br/><li>Geri bildirim yok (öğrenci memnuniyeti veya mezun takibi yapılmıyor)</li><br/><li>Bu durum kalitenin düşmesine neden oluyor</li><br/></ul><br/></li><br/></ul>"
     },
     {
         "SoruID": 3863624,
-        "SoruMetni": "Bir üniversite, uzun süredir aynı ders içeriklerini kullanmakta, dış paydaşlarla (öğrenciler, mezunlar, iş dünyası) iletişim kurmamakta ve dış çevredeki gelişmeleri dikkate almamaktadır. Sistem içinde sınırlı sayıda kişi karar almakta ve dışardan gelen hiçbir etki dikkate alınmamaktadır.<br/> Bu üniversitenin sistemi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Bir üniversite, uzun süredir aynı ders içeriklerini kullanmakta, dış paydaşlarla (öğrenciler, mezunlar, iş dünyası) iletişim kurmamakta ve dış çevredeki gelişmeleri dikkate almamaktadır. Sistem içinde sınırlı sayıda kişi karar almakta ve dışardan gelen hiçbir etki dikkate alınmamaktadır.<br/>Bu üniversitenin sistemi aşağıdakilerden hangisidir?",
         "A": "Açık sistem",
-        "B": "<br/> Yarı açık sistem",
+        "B": "<br/>Yarı açık sistem",
         "C": "Geri bildirimli sistem",
         "D": "Kapalı sistem",
         "E": "Çevresel sistem",
@@ -781,7 +781,7 @@
     },
     {
         "SoruID": 3863625,
-        "SoruMetni": "Bir lisede, öğrencilerin önceki başarı düzeyleri ve öğrenme ihtiyaçları dikkate alınarak ders içerikleri yeniden yapılandırılmıştır. Öğretmenler bu içerikleri çeşitli öğretim etkinlikleriyle işlemiş, eğitim süreci sonunda ise öğrencilerin bilgi ve beceri düzeyleri sınav, proje ve performans görevleriyle ölçülmüştür. Bu ölçümler sonucunda içerik ve öğretim yöntemlerinde iyileştirmelere gidilmiştir.<br/> Bu uygulama, sistem yaklaşımının hangi özelliğine açık bir örnektir?",
+        "SoruMetni": "Bir lisede, öğrencilerin önceki başarı düzeyleri ve öğrenme ihtiyaçları dikkate alınarak ders içerikleri yeniden yapılandırılmıştır. Öğretmenler bu içerikleri çeşitli öğretim etkinlikleriyle işlemiş, eğitim süreci sonunda ise öğrencilerin bilgi ve beceri düzeyleri sınav, proje ve performans görevleriyle ölçülmüştür. Bu ölçümler sonucunda içerik ve öğretim yöntemlerinde iyileştirmelere gidilmiştir.<br/>Bu uygulama, sistem yaklaşımının hangi özelliğine açık bir örnektir?",
         "A": "Sistemin yalnızca iç süreçlere odaklanması",
         "B": "Öğrenme çıktılarının öngörülemezliği",
         "C": "Girdilerin sabit kalması ve değiştirilememesi",
@@ -797,11 +797,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Girdi: Öğrencilerin özellikleri ve yapılandırılan içerikler<br/>Süreç: Öğretim etkinlikleri<br/>Çıktı: Sınav ve performans sonuçları<br/>Geri bildirim: Sonuçlara göre içerik ve yöntemlerde yapılan değişiklikler<br/> Tüm bu bileşenler etkileşim hâlindedir ve sistem geri bildirim yoluyla kendini iyileştirmektedir. Bu, sistem yaklaşımının temel bir özelliğidir."
+        "Aciklama": "Girdi: Öğrencilerin özellikleri ve yapılandırılan içerikler<br/>Süreç: Öğretim etkinlikleri<br/>Çıktı: Sınav ve performans sonuçları<br/>Geri bildirim: Sonuçlara göre içerik ve yöntemlerde yapılan değişiklikler<br/>Tüm bu bileşenler etkileşim hâlindedir ve sistem geri bildirim yoluyla kendini iyileştirmektedir. Bu, sistem yaklaşımının temel bir özelliğidir."
     },
     {
         "SoruID": 3863626,
-        "SoruMetni": "Bir okul müdürü, öğrencilerin okuma becerilerinde düşüş olduğunu fark eder. Bu sorunu çözmek için önce bu durumun nedenlerini analiz eder, hedef olarak \"okuma becerilerini artırma\" amacını belirler. Ardından bir komisyon oluşturarak hedefe ulaşmak için gerekli görevleri, sorumlu kişileri ve kullanılacak yöntemleri belirler. Süreç sonunda uygulanan yeni stratejilerin öğrenciler üzerindeki etkisi ölçülür.<br/> Eğitim Sistem Yaklaşımı Modeli’ne göre bu örnek aşağıdaki aşamalardan hangilerini kapsamaktadır?",
+        "SoruMetni": "Bir okul müdürü, öğrencilerin okuma becerilerinde düşüş olduğunu fark eder. Bu sorunu çözmek için önce bu durumun nedenlerini analiz eder, hedef olarak \"okuma becerilerini artırma\" amacını belirler. Ardından bir komisyon oluşturarak hedefe ulaşmak için gerekli görevleri, sorumlu kişileri ve kullanılacak yöntemleri belirler. Süreç sonunda uygulanan yeni stratejilerin öğrenciler üzerindeki etkisi ölçülür.<br/>Eğitim Sistem Yaklaşımı Modeli’ne göre bu örnek aşağıdaki aşamalardan hangilerini kapsamaktadır?",
         "A": "Yalnızca sistem sentezi",
         "B": "Sadece misyon analizi ve görev analizi",
         "C": "Sistem analizi ile çözüm stratejisinin seçimi",
@@ -817,11 +817,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Örnek olayda<br/> <ul> <li> Problem tanımlama : Okuma becerisi düşüklüğü<br/> </li> <li> Analiz ve hedef belirleme :Sorunun nedenlerinin incelenmesi ve hedefin konması<br/> </li> <li> Misyon, işlevsel, görev, yöntem analizleri : Komisyonla görev ve yöntem belirleme<br/> </li> <li> Çözüm stratejisi seçimi ve uygulaması: Yeni yöntemlerin kararlaştırılması ve uygulanması<br/> </li> <li> Performans etkinliği değerlendirme : Uygulama sonuçlarının ölçülmesi<br/> </li> </ul> Tüm bu adımlar, modelde yer alan hem sistem analizi hem de sistem sentezi süreçlerini kapsar. Bu nedenle doğru yanıt D’dir."
+        "Aciklama": "Örnek olayda<br/><ul> <li> Problem tanımlama : Okuma becerisi düşüklüğü<br/></li> <li> Analiz ve hedef belirleme :Sorunun nedenlerinin incelenmesi ve hedefin konması<br/></li> <li> Misyon, işlevsel, görev, yöntem analizleri : Komisyonla görev ve yöntem belirleme<br/></li> <li> Çözüm stratejisi seçimi ve uygulaması: Yeni yöntemlerin kararlaştırılması ve uygulanması<br/></li> <li> Performans etkinliği değerlendirme : Uygulama sonuçlarının ölçülmesi<br/></li> </ul> Tüm bu adımlar, modelde yer alan hem sistem analizi hem de sistem sentezi süreçlerini kapsar. Bu nedenle doğru yanıt D’dir."
     },
     {
         "SoruID": 3863627,
-        "SoruMetni": "Bir eğitim kurumu, kaynaklarını etkili biçimde planlamak, öğretim materyallerini bütüncül bir sistem içinde yönetmek ve toplumsal beklentilere uyumlu hale gelmek amacıyla sistem yaklaşımını uygulamaya karar verir. Ancak süreçte kurumun iç-dış çevresi arasındaki ilişkiler tam olarak analiz edilememiş ve uygulama için ciddi zaman ve insan kaynağı gerekmiştir.<br/> Bu durumda aşağıdakilerden hangisi, sistem yaklaşımının hem kazanımlarını hem de sınırlılıklarını birlikte yansıtan bir değerlendirme olur?",
+        "SoruMetni": "Bir eğitim kurumu, kaynaklarını etkili biçimde planlamak, öğretim materyallerini bütüncül bir sistem içinde yönetmek ve toplumsal beklentilere uyumlu hale gelmek amacıyla sistem yaklaşımını uygulamaya karar verir. Ancak süreçte kurumun iç-dış çevresi arasındaki ilişkiler tam olarak analiz edilememiş ve uygulama için ciddi zaman ve insan kaynağı gerekmiştir.<br/>Bu durumda aşağıdakilerden hangisi, sistem yaklaşımının hem kazanımlarını hem de sınırlılıklarını birlikte yansıtan bir değerlendirme olur?",
         "A": "Tüm eğitim kurumları için tek tip çözüm sunar ve değişime tam uyum sağlar.",
         "B": "Disiplinlerarası entegrasyonu önler ve kurum içi süreçlerle sınırlı kalır.",
         "C": "Sistem yaklaşımı öğretim sürecine esneklik kazandırır ve uygulaması düşük maliyetlidir.",
@@ -837,11 +837,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<ul> <li> Kazançlar: Bütüncül planlama, kaynak yönetimi, öğretim materyallerinin yönetimi<br/> </li> <li> Sınırlılıklar: Çevreyle ilişkilerin eksik tanımlanması, zaman ve kaynak gereksinimi<br data-end=\"1452\" data-start=\"1449\"/> Bu durum tam olarak şık B'de ifade edilmiştir.<br/> </li> </ul>"
+        "Aciklama": "<ul> <li> Kazançlar: Bütüncül planlama, kaynak yönetimi, öğretim materyallerinin yönetimi<br/></li> <li> Sınırlılıklar: Çevreyle ilişkilerin eksik tanımlanması, zaman ve kaynak gereksinimi<br data-end=\"1452\" data-start=\"1449\"/> Bu durum tam olarak şık B'de ifade edilmiştir.<br/></li> </ul>"
     },
     {
         "SoruID": 3863628,
-        "SoruMetni": "Bir üniversitede elektronik arşivleme sistemleri, çevre birimleri ve iş istasyonlarının yeniden yapılandırılması, yükseköğretim ekosisteminde özellikle “___________” bileşeni kapsamında değerlendirilir.<br/> Bu cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "Bir üniversitede elektronik arşivleme sistemleri, çevre birimleri ve iş istasyonlarının yeniden yapılandırılması, yükseköğretim ekosisteminde özellikle “___________” bileşeni kapsamında değerlendirilir.<br/>Bu cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         "A": "Yazılım",
         "B": "Yönetim ve Prosedürler",
         "C": "Donanım",
@@ -877,11 +877,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Birinci boşluk: <em>planlama, seçim, üretim</em>: Malzeme tasarımı<br/> İkinci boşluk: <em>dijital sunum, veri işleme, güvenlik</em> :Teknolojik altyapı"
+        "Aciklama": "Birinci boşluk: <em>planlama, seçim, üretim</em>: Malzeme tasarımı<br/>İkinci boşluk: <em>dijital sunum, veri işleme, güvenlik</em> :Teknolojik altyapı"
     },
     {
         "SoruID": 3863630,
-        "SoruMetni": "Bir devlet üniversitesi, öğretim elemanlarının dijital yeterliliklerini artırmak amacıyla bir geliştirme programı başlatır. Program kapsamında:<br/> <ul> <li>Uzman eğitmenlerin katkısıyla öğretim materyalleri hazırlanır ve atölye planlaması yapılır.</li> <li>6 hafta süren atölyelere 120 akademisyen katılır.</li> <li>Katılımcılar, dijital araçları kullanma becerisi kazandıklarını ifade eder.</li> <li>Takip eden 6 ay içinde bu akademisyenlerin derslerinde etkileşimli içerik kullanım oranı %70 artar.</li> <li>Bir yıl sonra, üniversitenin genelinde öğrenci memnuniyet puanlarında anlamlı bir artış görülür.</li> </ul> Yukarıda anlatılan örnek olaya göre, aşağıdaki eşleştirmelerden hangisi Logic Model’in bileşenlerine en uygun karşılıkları verir?",
+        "SoruMetni": "Bir devlet üniversitesi, öğretim elemanlarının dijital yeterliliklerini artırmak amacıyla bir geliştirme programı başlatır. Program kapsamında:<br/><ul> <li>Uzman eğitmenlerin katkısıyla öğretim materyalleri hazırlanır ve atölye planlaması yapılır.</li> <li>6 hafta süren atölyelere 120 akademisyen katılır.</li> <li>Katılımcılar, dijital araçları kullanma becerisi kazandıklarını ifade eder.</li> <li>Takip eden 6 ay içinde bu akademisyenlerin derslerinde etkileşimli içerik kullanım oranı %70 artar.</li> <li>Bir yıl sonra, üniversitenin genelinde öğrenci memnuniyet puanlarında anlamlı bir artış görülür.</li> </ul> Yukarıda anlatılan örnek olaya göre, aşağıdaki eşleştirmelerden hangisi Logic Model’in bileşenlerine en uygun karşılıkları verir?",
         "A": "Uzman eğitmenlerin görevlendirilmesi → Faaliyet<br/>Atölyeye katılım sayısı → Girdi<br/>Etkileşimli içerik kullanımı → Çıktı<br/>Öğrenci memnuniyetindeki artış → Kısa vadeli sonuç",
         "B": "Hazırlanan materyaller ve eğitici katkısı → Kaynak<br/>Atölyelere katılım → Faaliyet<br/>Dijital beceri kazanımı → Uzun vadeli çıktı<br/>Ders içeriği değişikliği → Kısa vadeli sonuç",
         "C": "Uzman eğitmen, materyal ve zaman → Kaynak<br/>Atölye eğitimi → Faaliyet<br/>120 akademisyenin katılımı → Çıktı<br/>%70 içerik kullanım artışı → Orta vadeli sonuç<br/>Öğrenci memnuniyetindeki artış → Uzun vadeli sonuç",
@@ -917,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kontrol listesi içeren gözlem formu<br/><br/>Öğretim tasarımcısı öğrenci performansını değerlendirmek için geçerli ve güvenilir ölçme araçlarını belirler veya kendi ölçme aracını tasarlar. Kontrol listesi içeren gözlem formu, çoktan seçmeli test öğretim tasarımcısının kullanabileceği ölçme araçları olabilir. Öğretim tasarımcısı, öğretim süreci sonucunda öğrencinin belirlenen hedefler doğrultusunda hangi performansı sergilemesi gerektiği ile ilgili bir kontrol listesi hazırlayabilir."
+        "Aciklama": "Kontrol listesi içeren gözlem formu<br/>Öğretim tasarımcısı öğrenci performansını değerlendirmek için geçerli ve güvenilir ölçme araçlarını belirler veya kendi ölçme aracını tasarlar. Kontrol listesi içeren gözlem formu, çoktan seçmeli test öğretim tasarımcısının kullanabileceği ölçme araçları olabilir. Öğretim tasarımcısı, öğretim süreci sonucunda öğrencinin belirlenen hedefler doğrultusunda hangi performansı sergilemesi gerektiği ile ilgili bir kontrol listesi hazırlayabilir."
     },
     {
         "SoruID": 3863369,
@@ -937,11 +937,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Programın düzenlenmesi ve uygulanması<br/><br/>Programın düzenlenmesi ve uygulanması (Öğretim tasarımı süreci)<br>8. Öğretimsel amaçları belirle.<br/>9. Öğretimsel hedefleri belirle.<br/>10. Öğretim stratejilerini seç.<br/>11. Taslak ölçme ve değerlendirme tekniklerini belirle.<br/>12. Öğretim stratejilerini uygula.<br/>13. Ölçme ve değerlendirme tekniklerini seç.<br/>14. Öğretimi değerlendirme</br><br/><br/>basamaklarından oluşmaktadır."
+        "Aciklama": "Programın düzenlenmesi ve uygulanması<br/>Programın düzenlenmesi ve uygulanması (Öğretim tasarımı süreci)<br/>8. Öğretimsel amaçları belirle.<br/>9. Öğretimsel hedefleri belirle.<br/>10. Öğretim stratejilerini seç.<br/>11. Taslak ölçme ve değerlendirme tekniklerini belirle.<br/>12. Öğretim stratejilerini uygula.<br/>13. Ölçme ve değerlendirme tekniklerini seç.<br/>14. Öğretimi değerlendirme</br><br/>basamaklarından oluşmaktadır."
     },
     {
         "SoruID": 3863370,
-        "SoruMetni": "Çekirdek öğretim tasarımı modelleri arasında yer alan ve dünyada en yaygın olarak kullanılan öğretim tasarımı modeli aşağıdakilerden hangisinde doğru verilmiştir?<br/><br/>",
+        "SoruMetni": "Çekirdek öğretim tasarımı modelleri arasında yer alan ve dünyada en yaygın olarak kullanılan öğretim tasarımı modeli aşağıdakilerden hangisinde doğru verilmiştir?",
         "A": "ADDIE Modeli",
         "B": "ASSURE Modeli",
         "C": "Dick, Carey ve Carey Modeli",
@@ -957,13 +957,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ADDIE Modeli<br/> Çekirdek öğretim tasarımı modelleri arasında yer alan ve dünyada en yaygın olarak kullanılan öğretim tasarımı modeli, 1975 yılında geliştirilen ADDIE öğretim tasarımı modelidir."
+        "Aciklama": "ADDIE Modeli<br/>Çekirdek öğretim tasarımı modelleri arasında yer alan ve dünyada en yaygın olarak kullanılan öğretim tasarımı modeli, 1975 yılında geliştirilen ADDIE öğretim tasarımı modelidir."
     },
     {
         "SoruID": 3863371,
         "SoruMetni": "Aşağıdaki modeller içerisinde hangileri esnek öğretim tasarımı modeli sınıflaması içerisinde yer almaktadır?",
-        "A": "ADDIE modeli- ASSURE modeli",
-        "B": "ASSURE modeli- Dick, Carey ve Carey modeli",
+        "A": "ADDIE modeli- ASSURE modeli",
+        "B": "ASSURE modeli- Dick, Carey ve Carey modeli",
         "C": "Dick, Carey ve Carey modeli- Addie modeli",
         "D": "Kemp, Morrison ve Ross modeli - ASSURE modeli",
         "E": "Kemp, Morrison ve Ross modeli- ADDIE modeli",
@@ -977,11 +977,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kemp, Morrison ve Ross modeli - ASSURE modeli<br/> Kemp, Morrison ve Ross modeli, ASSURE modeli gibi esnek model sınıflamasında yer almakta, davranışçı ve bilişsel yaklaşımları benimsemektedir."
+        "Aciklama": "Kemp, Morrison ve Ross modeli ve ASSURE modeli esnek model sınıflamasında yer almakta, davranışçı ve bilişsel yaklaşımları benimsemektedir.<br>Kemp, Morrison ve Ross modeli - ASSURE modeli<br/>Kemp, Morrison ve Ross modeli, ASSURE modeli gibi esnek model sınıflamasında yer almakta, davranışçı ve bilişsel yaklaşımları benimsemektedir."
     },
     {
         "SoruID": 3863372,
-        "SoruMetni": "Öğretim tasarımı sürecinin ilk adımından son adımına kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu,  davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkilenen, web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulan öğretim tasarımı modeli aşağıdakilerden hangisidir?",
+        "SoruMetni": "Öğretim tasarımı sürecinin ilk adımından son adımına kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu, davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkilenen, web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulan öğretim tasarımı modeli aşağıdakilerden hangisidir?",
         "A": "Kemp, Morrison ve Ross Modeli",
         "B": "Gerlach ve Ely Modeli",
         "C": "Dört Boyutlu Öğretim Tasarım Modeli",
@@ -997,7 +997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dick, Carey ve Carey Modeli<br/> Öğrenme sürecinde öğretenin bir moderatör ve iletişimi başlatan kişi olduğu ve öğretim hedeflerinin oluşturulmasından ve tüm bu hedeflere nasıl ulaşılacağının adım adım belirlendiği doğrusal bir öğretim tasarımı modelidir. Davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkiler barındırdığı kabul edilen modelin (Dick, Carey veCarey, 2001) web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulduğu bilinmektedir. Dick, Carey ve Carey modeli, öğretim tasarımı sürecinin ilk adımdan son adıma kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu bir modeldir."
+        "Aciklama": "Dick, Carey ve Carey Modeli; öğrenme sürecinde öğretenin bir moderatör ve iletişimi başlatan kişi olduğu ve öğretim hedeflerinin oluşturulmasından ve tüm bu hedeflere nasıl ulaşılacağının adım adım belirlendiği doğrusal bir öğretim tasarımı modelidir. Davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkiler barındırdığı kabul edilen modelin (Dick, Carey veCarey, 2001) web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulduğu bilinmektedir. Dick, Carey ve Carey modeli, öğretim tasarımı sürecinin ilk adımdan son adıma kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu bir modeldir.<br>Dick, Carey ve Carey Modeli<br/>Öğrenme sürecinde öğretenin bir moderatör ve iletişimi başlatan kişi olduğu ve öğretim hedeflerinin oluşturulmasından ve tüm bu hedeflere nasıl ulaşılacağının adım adım belirlendiği doğrusal bir öğretim tasarımı modelidir. Davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkiler barındırdığı kabul edilen modelin (Dick, Carey veCarey, 2001) web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulduğu bilinmektedir. Dick, Carey ve Carey modeli, öğretim tasarımı sürecinin ilk adımdan son adıma kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu bir modeldir."
     },
     {
         "SoruID": 3863373,
@@ -1017,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Beceri hiyerarşisi<br/><br/>Dört boyutlu öğretim tasarımı modelinde dikkat edilmesi istenen 6 tasarım ilkesi kısaca açıklanmıştır:<br>Gerçekçilik: Öğretim tasarımcısı, öğrenme hedeflerini belirlerken meslekten veya günlük yaşamdan bilgi, beceri ve tutumlara hitap eden gerçek hedefler belirler.<br/>Aslına Uygunluk: Öğretim tasarımcısı öğretim tasarımı süresince, öğrenme etkinlikleri tasarlarken<br/>güvenli bir şekilde simüle edilmiş görev ortamından, giderek daha yüksek doğrulukta görev ortamlarına ve gerçek yaşam etkinliklerine doğru bir geçiş uygular.<br/>Değişkenlik: Öğretim tasarımında öğrenme hedefleri belirlenirken, gerçek yaşam görevlerinin<br/>birbirinden farklı olması gerekmektedir. Dolayısıyla öğretim tasarımcısı, öğrenme hedeflerinin tamamını gerçek yaşam görev performansını temsil edecek şekilde düzenler.<br/>Destek: Öğretim tasarımcısı öğrenenlere, öğrenme görevleri vererek destek sağlar.<br/>Rehberlik: Öğretim tasarımcısı öğrenenlere, problem çözmeye yönelik sistematik bir yaklaşım,<br/>başparmak kuralları veya süreç çalışma sayfaları sağlayarak öğrenme görevlerini yerine getirmeleri için rehberlik eder.<br/>Yapı: Öğretim tasarımcısı, öğrenenlerin daha fazla uzmanlık kazandıkça, verdiği destek ve rehberlik miktarını, öğrenenlerin öğrenme görevlerini herhangi bir destek ve rehberlik olmadan gerçekleştirene kadar kademeli olarak azaltır. </br>"
+        "Aciklama": "Beceri hiyerarşisi<br/>Dört boyutlu öğretim tasarımı modelinde dikkat edilmesi istenen 6 tasarım ilkesi kısaca açıklanmıştır:<br/>Gerçekçilik: Öğretim tasarımcısı, öğrenme hedeflerini belirlerken meslekten veya günlük yaşamdan bilgi, beceri ve tutumlara hitap eden gerçek hedefler belirler.<br/>Aslına Uygunluk: Öğretim tasarımcısı öğretim tasarımı süresince, öğrenme etkinlikleri tasarlarken<br/>güvenli bir şekilde simüle edilmiş görev ortamından, giderek daha yüksek doğrulukta görev ortamlarına ve gerçek yaşam etkinliklerine doğru bir geçiş uygular.<br/>Değişkenlik: Öğretim tasarımında öğrenme hedefleri belirlenirken, gerçek yaşam görevlerinin<br/>birbirinden farklı olması gerekmektedir. Dolayısıyla öğretim tasarımcısı, öğrenme hedeflerinin tamamını gerçek yaşam görev performansını temsil edecek şekilde düzenler.<br/>Destek: Öğretim tasarımcısı öğrenenlere, öğrenme görevleri vererek destek sağlar.<br/>Rehberlik: Öğretim tasarımcısı öğrenenlere, problem çözmeye yönelik sistematik bir yaklaşım,<br/>başparmak kuralları veya süreç çalışma sayfaları sağlayarak öğrenme görevlerini yerine getirmeleri için rehberlik eder.<br/>Yapı: Öğretim tasarımcısı, öğrenenlerin daha fazla uzmanlık kazandıkça, verdiği destek ve rehberlik miktarını, öğrenenlerin öğrenme görevlerini herhangi bir destek ve rehberlik olmadan gerçekleştirene kadar kademeli olarak azaltır. </br>"
     },
     {
         "SoruID": 3863374,
@@ -1037,11 +1037,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hızlı Prototipleme Öğretim Tasarımı Modeli<br/><br/>Hızlı prototipleme modeli, sezgisel öğretim modeli sınıflamasında yer almaktadır. Hızlı prototipleme modeli, öğretim amaçlarının oluşturulması, gereksinimlerin belirlenmesi sonucu içeriğin çözümlemesi ile başlayıp sistemin kurulup sürdürülebilir bir sistem oluşturulması aşamasıyla tamamlanmaktadır."
+        "Aciklama": "Hızlı Prototipleme Öğretim Tasarımı Modeli<br/>Hızlı prototipleme modeli, sezgisel öğretim modeli sınıflamasında yer almaktadır. Hızlı prototipleme modeli, öğretim amaçlarının oluşturulması, gereksinimlerin belirlenmesi sonucu içeriğin çözümlemesi ile başlayıp sistemin kurulup sürdürülebilir bir sistem oluşturulması aşamasıyla tamamlanmaktadır."
     },
     {
         "SoruID": 3863375,
-        "SoruMetni": "Aşağıdakilerden hangisi ARCS-V motivasyon tasarımı modelinin boyutları arasında yer alan \"ilişki\" boyutunda uygulanan stratejiler arasında yer almaktadır?",
+        "SoruMetni": "Aşağıdakilerden hangisi ARCS-V motivasyon tasarımı modelinin boyutları arasında yer alan \"ilişki\" boyutunda uygulanan stratejiler arasında yer almaktadır?",
         "A": "Hedef yönelimi",
         "B": "Doğal sonuçlar",
         "C": "Eşitlik",
@@ -1057,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hedef yönelimi<br/> İlişki boyutunda, öğrenen konuyu kendi yaşamındaki yeri ve değeri ile ilişkilendirdiğinde güdülenme sağlayacaktır. Bu boyutla ilgili stratejiler şu biçimdedir: <br/>• Yakınlık: Öğretim tasarımcısı, öğrenenlerin deneyimleri ve değerleriyle ilgili somut bir dil, örnek ve kavramlar kullanır.<br/>• Hedef yönelimi: Öğretim tasarımcısı, öğrenenlerden başarmaları için belirlenen hedefleri açıklamalarını ve hedefi tanımlamalarını ister.<br/>• Güdü eşlemesi: Öğretim tasarımcısı, öğrenenleri neyin güdüleyeceğini belirleyerek buna uygun stratejileri kullanır."
+        "Aciklama": "Hedef yönelimi<br/>İlişki boyutunda, öğrenen konuyu kendi yaşamındaki yeri ve değeri ile ilişkilendirdiğinde güdülenme sağlayacaktır. Bu boyutla ilgili stratejiler şu biçimdedir: <br/>• Yakınlık: Öğretim tasarımcısı, öğrenenlerin deneyimleri ve değerleriyle ilgili somut bir dil, örnek ve kavramlar kullanır.<br/>• Hedef yönelimi: Öğretim tasarımcısı, öğrenenlerden başarmaları için belirlenen hedefleri açıklamalarını ve hedefi tanımlamalarını ister.<br/>• Güdü eşlemesi: Öğretim tasarımcısı, öğrenenleri neyin güdüleyeceğini belirleyerek buna uygun stratejileri kullanır."
     },
     {
         "SoruID": 3863376,
@@ -1077,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Programlı öğretim<br/><br/>1960’lı yıllarda davranışçı yaklaşımının benimsendiği programlı öğretim, öğretim tasarımının ilk uygulama örneği olmuştur. Programlı öğretimin aşamalı yapısı sayesinde, bir önceki aşamadan elde edilen verilerin bir sonraki aşamanın girdisi olarak kullanılması, öğrenenin kendi başına kendi hızında öğrenmesi, uzaktan öğretim için verimli olarak kullanılmasını sağlamıştır."
+        "Aciklama": "Programlı öğretim<br/>1960’lı yıllarda davranışçı yaklaşımının benimsendiği programlı öğretim, öğretim tasarımının ilk uygulama örneği olmuştur. Programlı öğretimin aşamalı yapısı sayesinde, bir önceki aşamadan elde edilen verilerin bir sonraki aşamanın girdisi olarak kullanılması, öğrenenin kendi başına kendi hızında öğrenmesi, uzaktan öğretim için verimli olarak kullanılmasını sağlamıştır."
     },
     {
         "SoruID": 3863377,
@@ -1097,7 +1097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "ARCS-V motivasyon tasarım modeli<br/><br/>ARCS-V motivasyon tasarım modeli, öğretim tasarımı modellerinde öğrenenlerin motivasyonlarının artırılmasına yönelik yeterli vurgu yapılmamasına tepki olarak geliştirilmiştir."
+        "Aciklama": "ARCS-V motivasyon tasarım modeli<br/>ARCS-V motivasyon tasarım modeli, öğretim tasarımı modellerinde öğrenenlerin motivasyonlarının artırılmasına yönelik yeterli vurgu yapılmamasına tepki olarak geliştirilmiştir."
     },
     {
         "SoruID": 3863641,
@@ -1117,7 +1117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Öğretim tasarımı performans üzerine odaklanır.  Öğretim tasarımcısı; öğrencilerden bilgileri hatırlama, öğrendikleri bilgi ve kazandıkları becerileri kullanma, öğrenme ortamında öğrendiklerini gerçek ortamda uygulama, karşılaşabilecekleri gerçek problemleri çözebilmeleri için karmaşık davranışları gerçekleştirme performansı sergilemelerini bekler. Öğretim tasarımcısı tasarım sürecinde, öğrencilerin performans sergileyecekleri gerçek ortama benzer bir öğrenme ortamı tasarlamalı, gerçek ortam için özgün performans ölçütleri belirlemelidir. Bu bağlamda gerçek yaşam koşullarına benzer görevlerin tasarlanması söz konusu amaca uygun bir karardır."
+        "Aciklama": "Öğretim tasarımı performans üzerine odaklanır. Öğretim tasarımcısı; öğrencilerden bilgileri hatırlama, öğrendikleri bilgi ve kazandıkları becerileri kullanma, öğrenme ortamında öğrendiklerini gerçek ortamda uygulama, karşılaşabilecekleri gerçek problemleri çözebilmeleri için karmaşık davranışları gerçekleştirme performansı sergilemelerini bekler. Öğretim tasarımcısı tasarım sürecinde, öğrencilerin performans sergileyecekleri gerçek ortama benzer bir öğrenme ortamı tasarlamalı, gerçek ortam için özgün performans ölçütleri belirlemelidir. Bu bağlamda gerçek yaşam koşullarına benzer görevlerin tasarlanması söz konusu amaca uygun bir karardır."
     },
     {
         "SoruID": 3863642,
@@ -1177,7 +1177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çözüm: Tüm seçeneklerde program amaçlarının yazımı ile ilgili adımlar paylaşılmıştır. Ölçme ve değerlendirme tekniklerinin seçimi ise programın düzenlenmesi ve uygulanması başlığı altında yer almaktadır.  Oliva’nın program geliştirme modeline göre program geliştirecek uzmanın izleyeceği adımlar aşağıda listelenmiştir (Oliva &amp; Gordon, 2018):<br/> <strong>PROGRAMIN AMAÇLARINI YAZMA </strong><br/> <ol> <li>Öğrencilerin genel ihtiyaçlarını ve öğren­me gereksinimlerini belirle.</li> <li>Toplumun ihtiyaçlarını ve gereksinimleri­ni belirle.</li> <li>Eğitim programının dayanacağı felsefi te­melleri belirle.</li> <li>Eğitim programının düzenleneceği oku­lun ya da kurumun öğrencilerine ait ihti­yaçları belirle.</li> <li>Hedef öğrenci grubunun ihtiyaçlarını belirle.</li> <li>Eğitim programında öğrenilmesi hedefle­nen konunun ihtiyaçlarını belirle.</li> </ol> <strong>PROGRAMIN HEDEFLERİNİ YAZMA </strong><br/> <ol start=\"7\"> <li>Program sonunda öğrencilerde gözlenebi­lir performans, hedef davranışlar, ölçülebi­len öğrenme sonuçları ya da kazanımlar ile ilgili hedefleri yaz.</li> </ol> <strong>PROGRAMIN DÜZENLENMESİ VE UYGULANMA­SI (ÖĞRETİM TASARIMI SÜRECİ) </strong><br/> <ol start=\"8\"> <li>Öğretimsel amaçları belirle.</li> <li>Öğretimsel hedefleri belirle.</li> <li>Öğretim stratejilerini seç.</li> <li>Taslak ölçme ve değerlendirme teknikleri­ni belirle.</li> <li>Öğretim stratejilerini uygula.</li> <li>Ölçme ve değerlendirme tekniklerini seç.</li> <li>Öğretimi değerlendir.</li> </ol> <strong>PROGRAMIN DEĞERLENDİRMESİ</strong>"
+        "Aciklama": "Çözüm: Tüm seçeneklerde program amaçlarının yazımı ile ilgili adımlar paylaşılmıştır. Ölçme ve değerlendirme tekniklerinin seçimi ise programın düzenlenmesi ve uygulanması başlığı altında yer almaktadır. Oliva’nın program geliştirme modeline göre program geliştirecek uzmanın izleyeceği adımlar aşağıda listelenmiştir (Oliva &amp; Gordon, 2018):<br/><strong>PROGRAMIN AMAÇLARINI YAZMA </strong><br/><ol> <li>Öğrencilerin genel ihtiyaçlarını ve öğren­me gereksinimlerini belirle.</li> <li>Toplumun ihtiyaçlarını ve gereksinimleri­ni belirle.</li> <li>Eğitim programının dayanacağı felsefi te­melleri belirle.</li> <li>Eğitim programının düzenleneceği oku­lun ya da kurumun öğrencilerine ait ihti­yaçları belirle.</li> <li>Hedef öğrenci grubunun ihtiyaçlarını belirle.</li> <li>Eğitim programında öğrenilmesi hedefle­nen konunun ihtiyaçlarını belirle.</li> </ol> <strong>PROGRAMIN HEDEFLERİNİ YAZMA </strong><br/><ol start=\"7\"> <li>Program sonunda öğrencilerde gözlenebi­lir performans, hedef davranışlar, ölçülebi­len öğrenme sonuçları ya da kazanımlar ile ilgili hedefleri yaz.</li> </ol> <strong>PROGRAMIN DÜZENLENMESİ VE UYGULANMA­SI (ÖĞRETİM TASARIMI SÜRECİ) </strong><br/><ol start=\"8\"> <li>Öğretimsel amaçları belirle.</li> <li>Öğretimsel hedefleri belirle.</li> <li>Öğretim stratejilerini seç.</li> <li>Taslak ölçme ve değerlendirme teknikleri­ni belirle.</li> <li>Öğretim stratejilerini uygula.</li> <li>Ölçme ve değerlendirme tekniklerini seç.</li> <li>Öğretimi değerlendir.</li> </ol> <strong>PROGRAMIN DEĞERLENDİRMESİ</strong>"
     },
     {
         "SoruID": 3863645,
@@ -1261,7 +1261,7 @@
     },
     {
         "SoruID": 3863649,
-        "SoruMetni": "“Bu model, bağımsız bir öğretim tasarım modeli olmayıp öğrenen çevresinin tasarımından, öğretim tasarımına ve öğrenenlerin motivasyonlarına yönelik bütüncül bir tasarım yaklaşımının bir parçasıdır. Dikkat, ilişki, güven, doyum ve eylem boyutlarından oluşmaktadır.”<br/> Yukarıda betimlenen model aşağıdakilerden hangisidir?",
+        "SoruMetni": "“Bu model, bağımsız bir öğretim tasarım modeli olmayıp öğrenen çevresinin tasarımından, öğretim tasarımına ve öğrenenlerin motivasyonlarına yönelik bütüncül bir tasarım yaklaşımının bir parçasıdır. Dikkat, ilişki, güven, doyum ve eylem boyutlarından oluşmaktadır.”<br/>Yukarıda betimlenen model aşağıdakilerden hangisidir?",
         "A": "Hızlı Prototipleme Öğretim Tasarımı Modeli",
         "B": "ARCS-V Motivasyon Tasarımı Modeli",
         "C": "Gerlach ve Ely Modeli",
@@ -1321,7 +1321,7 @@
     },
     {
         "SoruID": 3863408,
-        "SoruMetni": "Öğrenenin tespit ettiği eksik konulara yönelik ihtiyaçlarını eyleme dönüştürmesi ve  gereksinim duyulan olanakların sağlanması biçiminde ele alınan ihtiyaç aşağıdaki kavramlardan hangisi ile açıklanır?",
+        "SoruMetni": "Öğrenenin tespit ettiği eksik konulara yönelik ihtiyaçlarını eyleme dönüştürmesi ve gereksinim duyulan olanakların sağlanması biçiminde ele alınan ihtiyaç aşağıdaki kavramlardan hangisi ile açıklanır?",
         "A": "Normatif ihtiyaçlar",
         "B": "Karşılaştırmalı ihtiyaçlar",
         "C": "Hissedilen ihtiyaçlar",
@@ -1337,12 +1337,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İfade edilen ihtiyaçlar <br/> İfade edilen ihtiyaçlar, öğrenenin tespit ettiği eksik konulara yönelik ihtiyaçlarını eyleme dönüştürmesi olarak açıklanabilir. Burada hissedilen ihtiyaçtan farklı olarak bir eyleme dönüşüm vardır. Burada ifade edilmesi gereken kritik nokta; gereksinim duyulan olanakların sağlanması ve işlemlerin yerine getirilmesi ihtiyaçtır."
+        "Aciklama": "İfade edilen ihtiyaçlar <br/>İfade edilen ihtiyaçlar, öğrenenin tespit ettiği eksik konulara yönelik ihtiyaçlarını eyleme dönüştürmesi olarak açıklanabilir. Burada hissedilen ihtiyaçtan farklı olarak bir eyleme dönüşüm vardır. Burada ifade edilmesi gereken kritik nokta; gereksinim duyulan olanakların sağlanması ve işlemlerin yerine getirilmesi ihtiyaçtır."
     },
     {
         "SoruID": 3863409,
-        "SoruMetni": "Aşağıdaki seçeneklerden hangisi ihtiyaç analizi yapılmasının sağlayacağı katkılarından birisi <strong>değildir? </strong><br/><br/>",
-        "A": "Potansiyel yolların belirlenmesi ve bu bağlamda atılacak belirli adımların ana hatlarının çizilmesi sürecini kolaylaştırır.<br/><br/><br/>",
+        "SoruMetni": "Aşağıdaki seçeneklerden hangisi ihtiyaç analizi yapılmasının sağlayacağı katkılarından birisi <strong>değildir? </strong>",
+        "A": "Potansiyel yolların belirlenmesi ve bu bağlamda atılacak belirli adımların ana hatlarının çizilmesi sürecini kolaylaştırır.",
         "B": "Karar vericiler için yararlı bir rehber görevi görür ve onlara bilinçli seçimler yapmaları için gerekli bilgileri sağlar.",
         "C": "Kararların kabul oranı artar.",
         "D": "Eğitimin koordinasyonunu geliştirerek planlama sürecinde ortaya çıkabilecek potansiyel sorunların ele alınmasını kolaylaştırır.",
@@ -1357,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Değerlendirme süreçlerinin etkili biçimde yürütülmesi sağlanır. <br/> İhtiyaç analizi yapılması;<br/>• Potansiyel yolların belirlenmesi ve bu bağlamda atılacak belirli adımların ana hatlarının çizilmesi sürecini kolaylaştırır.<br/>• Karar vericiler için yararlı bir rehber görevi görür ve onlara bilinçli seçimler yapmaları için gerekli bilgileri sağlar.<br/>• Kararların kabul oranı artar.<br/>• Eğitimin koordinasyonunu geliştirerek planlama sürecinde ortaya çıkabilecek potansiyel sorunların ele alınmasını kolaylaştırır."
+        "Aciklama": "Değerlendirme süreçlerinin etkili biçimde yürütülmesi sağlanır. <br/>İhtiyaç analizi yapılması;<br/>• Potansiyel yolların belirlenmesi ve bu bağlamda atılacak belirli adımların ana hatlarının çizilmesi sürecini kolaylaştırır.<br/>• Karar vericiler için yararlı bir rehber görevi görür ve onlara bilinçli seçimler yapmaları için gerekli bilgileri sağlar.<br/>• Kararların kabul oranı artar.<br/>• Eğitimin koordinasyonunu geliştirerek planlama sürecinde ortaya çıkabilecek potansiyel sorunların ele alınmasını kolaylaştırır."
     },
     {
         "SoruID": 3863410,
@@ -1377,11 +1377,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Analitik yaklaşım<br/> Analitik yaklaşımda yerel veya küresel çapta koşullarla meydana gelen değişimlerin ve yeni yönelimlerin analiz edilerek incelenmesi sonucu ihtiyaçlar belirlenmektedir. Bu yaklaşım; sayısal verileri, istatistiksel analizleri ve bilimsel yöntemleri kullanarak ihtiyaçları belirlemeye odaklanır. Mevcut durumlar göz önüne alınarak geleceğe yönelik öngörüler geliştirilir ve bu öngörüler doğrultusunda eleştirel bir bakışla çözüm önerileri oluşturulur ve bu çözümler için ihtiyaçlar belirlenir."
+        "Aciklama": "Analitik yaklaşım<br/>Analitik yaklaşımda yerel veya küresel çapta koşullarla meydana gelen değişimlerin ve yeni yönelimlerin analiz edilerek incelenmesi sonucu ihtiyaçlar belirlenmektedir. Bu yaklaşım; sayısal verileri, istatistiksel analizleri ve bilimsel yöntemleri kullanarak ihtiyaçları belirlemeye odaklanır. Mevcut durumlar göz önüne alınarak geleceğe yönelik öngörüler geliştirilir ve bu öngörüler doğrultusunda eleştirel bir bakışla çözüm önerileri oluşturulur ve bu çözümler için ihtiyaçlar belirlenir."
     },
     {
         "SoruID": 3863411,
-        "SoruMetni": "Bir mesleğin beceri profilleri çıkarılarak yetkinlik alanlarının ve bu alanlara yönelik ihtiyaçların belirlendiği ihtiyaç belirleme tekniği aşağıdakilerden hangisidir? <br/><br/>",
+        "SoruMetni": "Bir mesleğin beceri profilleri çıkarılarak yetkinlik alanlarının ve bu alanlara yönelik ihtiyaçların belirlendiği ihtiyaç belirleme tekniği aşağıdakilerden hangisidir?",
         "A": "Delphi tekniği",
         "B": "Gözlem",
         "C": "Progel (Dacum) tekniği",
@@ -1397,11 +1397,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Progel (Dacum) tekniği<br/><br/>Progel tekniği bir iş sürecinin adımlarını ve işlemlerini, bu işte deneyimli ve uzman kişilerin birlikte çalışarak belirlemesine dayanmaktadır. Progel tekniğinde mesleğin beceri profilleri çıkarılarak yetkinlik alanları ve bu alanlara yönelik ihtiyaçlar belirlenir. Bu teknik eğitim, iş tanımları, beceri testi geliştirme, rehberlik gibi alanlarda kullanılmaktadır."
+        "Aciklama": "Progel (Dacum) tekniği<br/>Progel tekniği bir iş sürecinin adımlarını ve işlemlerini, bu işte deneyimli ve uzman kişilerin birlikte çalışarak belirlemesine dayanmaktadır. Progel tekniğinde mesleğin beceri profilleri çıkarılarak yetkinlik alanları ve bu alanlara yönelik ihtiyaçlar belirlenir. Bu teknik eğitim, iş tanımları, beceri testi geliştirme, rehberlik gibi alanlarda kullanılmaktadır."
     },
     {
         "SoruID": 3863412,
-        "SoruMetni": "Uzman grubun akılcı bir yaklaşımla görüşleri alınarak her görüşmede ortak bir fikre ulaşılmaya çalışıldığı, tartışma ortamından çok görüşme ya da anket ile yapılan fikir alma turlarının üç ya da daha fazla biçimde sürdürüldüğü ihtiyaç belirleme tekniği aşağıdakilerden hangisidir? <br/><br/>",
+        "SoruMetni": "Uzman grubun akılcı bir yaklaşımla görüşleri alınarak her görüşmede ortak bir fikre ulaşılmaya çalışıldığı, tartışma ortamından çok görüşme ya da anket ile yapılan fikir alma turlarının üç ya da daha fazla biçimde sürdürüldüğü ihtiyaç belirleme tekniği aşağıdakilerden hangisidir?",
         "A": "Delphi tekniği",
         "B": "Progel (Dacum) tekniği",
         "C": "İş analizi tekniği",
@@ -1417,7 +1417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Delphi tekniği<br/> Delphi tekniğinde uzman grubun akılcı bir yaklaşımla görüşleri alınarak her görüşmede ortak bir fikre ulaşmaya çalışılır. Görüşme ya da anket ile yapılan fikir alma turları, bir fikir birliği elde edilene kadar sürebilmektedir. Uzmanların görüşleri alınırken bir tartışma ortamı oluşturulmaz, görüşme formu ya da anket aracılığıyla alınan veriler sonucunda bir tahmine ulaşılır."
+        "Aciklama": "Delphi tekniği<br/>Delphi tekniğinde uzman grubun akılcı bir yaklaşımla görüşleri alınarak her görüşmede ortak bir fikre ulaşmaya çalışılır. Görüşme ya da anket ile yapılan fikir alma turları, bir fikir birliği elde edilene kadar sürebilmektedir. Uzmanların görüşleri alınırken bir tartışma ortamı oluşturulmaz, görüşme formu ya da anket aracılığıyla alınan veriler sonucunda bir tahmine ulaşılır."
     },
     {
         "SoruID": 3863413,
@@ -1437,11 +1437,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SWOT Analizi<br/><br/>SWOT (GZFT) Analizi, bir projede ya da bir ticari girişimde içinde bulunduğu kurumun, sürecin veya durumun güçlü ve zayıf yönlerini belirlemek, dış çevreden kaynaklanan fırsat ve tehditleri saptamak için kullanılan yöntemin adıdır. Bu analizin adı Strengths, Weaknesses, Opportunities, Threats yani Güçlü yönler, Zayıf yönler, Fırsatlar, Tehditler kelimelerinin baş harflerinden gelmektedir."
+        "Aciklama": "SWOT Analizi<br/>SWOT (GZFT) Analizi, bir projede ya da bir ticari girişimde içinde bulunduğu kurumun, sürecin veya durumun güçlü ve zayıf yönlerini belirlemek, dış çevreden kaynaklanan fırsat ve tehditleri saptamak için kullanılan yöntemin adıdır. Bu analizin adı Strengths, Weaknesses, Opportunities, Threats yani Güçlü yönler, Zayıf yönler, Fırsatlar, Tehditler kelimelerinin baş harflerinden gelmektedir."
     },
     {
         "SoruID": 3863414,
-        "SoruMetni": "Aşağıdakilerden hangisi Krathwohl ve arkadaşlarının 1964 yılında duyuşsal alan olarak ifade edilen tutumlar ve değerler için geliştirdikleri taksonominin aşamalarından birisi <strong>değildir? </strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi Krathwohl ve arkadaşlarının 1964 yılında duyuşsal alan olarak ifade edilen tutumlar ve değerler için geliştirdikleri taksonominin aşamalarından birisi <strong>değildir? </strong>",
         "A": "Alma",
         "B": "Tepkide bulunma",
         "C": "Değer verme",
@@ -1457,7 +1457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sentez<br/> Krathwohl ve arkadaşlarının 1964 yılında duyuşsal alan olarak ifade edilen tutumlar ve değerler için geliştirdikleri taksonomide; alma, tepkide bulunma, değer verme, örgütleme ve kişilik haline getirme aşamaları mevcuttur."
+        "Aciklama": "Sentez<br/>Krathwohl ve arkadaşlarının 1964 yılında duyuşsal alan olarak ifade edilen tutumlar ve değerler için geliştirdikleri taksonomide; alma, tepkide bulunma, değer verme, örgütleme ve kişilik haline getirme aşamaları mevcuttur."
     },
     {
         "SoruID": 3863415,
@@ -1477,11 +1477,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma<br/> Yenilenmiş Bloom taksonomisinde; bilişsel beceriler Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma biçiminde düzenlenmiştir. <br/> Hatırlama genellikle anlamaya gerek duymadan kavram ya da olguları, ilkeleri hatırlayabilme becerisidir. Hatırlama düzeyinde; tanımlama, tekrarlama, kaydetme, listeleme, hatırlama, adlandırma, anlatma, sıralama, belirtme eylemleri kullanılır.<br/>Anlama öğrenilen bilginin kavranması, açıklanabilmesi ve yorumlanmasını ifade eder. Bu düzeyde; kendi cümleleriyle ifade etme, betimleme, tasvir etme, tanıma, açıklama, ifade etme, yerini belirleme, saptama, özetleme, tercüme etme, rapor etme, kategorilendirme eylem ifadeleri kullanılır.<br/>Uygulama öğrenilen bilgileri, yeni veya uygun durumlarda kullanabilme, problem çözmede işe koşabilme, yeni fikir geliştirebilmeyi tanımlar. Uygulama düzeyinde; uygulama, kullanma, çalıştırma, uyarlama,<br/>oluşturma, hazırlama, yönetme, gösterme eylemleri ile ifadeler oluşturulur.<br/>Analiz düzeyi edinilen bilgi parçalara ayrılabilme yeteneğini ifade eder. Bu düzey için ayırt etme, çözümleme, hesaplama, eleştirme, denetleme, sorgulama, ilişkilendirme, kategorilere ayırma, farklılaştırma, çıkarım yapma, test etme, sınama ifadeleri kullanılır. Değerlendirme bir amaca yönelik verilen malzeme ya da materyalin önemi hakkında yargıya varabilme, karar verebilme becerisidir. Bu düzeyde; yargılama, değer biçme, hüküm verme, değerlendirme, tahminde bulunma, düzeltme ifadeleriyle öğrenme çıktıları yazılır.<br/>Yaratma düzeyinde edinilen bilgilerin bir araya getirilmesiyle orjinal bir bütün oluşturulması beklenir, bu aynı zamanda en üst düzey yetkinliktir. Bu düzey için önerme, tasarlama, planlama, düzenleme,<br/>yapılandırma, inşa etme, organize etme, geliştirme, kurma, monte etme, formüle etme eylem ifadeleri kullanılır."
+        "Aciklama": "Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma<br/>Yenilenmiş Bloom taksonomisinde; bilişsel beceriler Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma biçiminde düzenlenmiştir. <br/>Hatırlama genellikle anlamaya gerek duymadan kavram ya da olguları, ilkeleri hatırlayabilme becerisidir. Hatırlama düzeyinde; tanımlama, tekrarlama, kaydetme, listeleme, hatırlama, adlandırma, anlatma, sıralama, belirtme eylemleri kullanılır.<br/>Anlama öğrenilen bilginin kavranması, açıklanabilmesi ve yorumlanmasını ifade eder. Bu düzeyde; kendi cümleleriyle ifade etme, betimleme, tasvir etme, tanıma, açıklama, ifade etme, yerini belirleme, saptama, özetleme, tercüme etme, rapor etme, kategorilendirme eylem ifadeleri kullanılır.<br/>Uygulama öğrenilen bilgileri, yeni veya uygun durumlarda kullanabilme, problem çözmede işe koşabilme, yeni fikir geliştirebilmeyi tanımlar. Uygulama düzeyinde; uygulama, kullanma, çalıştırma, uyarlama,&lt;br /</br></br><br>Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma<br/>Yenilenmiş Bloom taksonomisinde; bilişsel beceriler Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma biçiminde düzenlenmiştir. <br/>Hatırlama genellikle anlamaya gerek duymadan kavram ya da olguları, ilkeleri hatırlayabilme becerisidir. Hatırlama düzeyinde; tanımlama, tekrarlama, kaydetme, listeleme, hatırlama, adlandırma, anlatma, sıralama, belirtme eylemleri kullanılır.<br/>Anlama öğrenilen bilginin kavranması, açıklanabilmesi ve yorumlanmasını ifade eder. Bu düzeyde; kendi cümleleriyle ifade etme, betimleme, tasvir etme, tanıma, açıklama, ifade etme, yerini belirleme, saptama, özetleme, tercüme etme, rapor etme, kategorilendirme eylem ifadeleri kullanılır.<br/>Uygulama öğrenilen bilgileri, yeni veya uygun durumlarda kullanabilme, problem çözmede işe koşabilme, yeni fikir geliştirebilmeyi tanımlar. Uygulama düzeyinde; uygulama, kullanma, çalıştırma, uyarlama,<br/>oluşturma, hazırlama, yönetme, gösterme eylemleri ile ifadeler oluşturulur.<br/>Analiz düzeyi edinilen bilgi parçalara ayrılabilme yeteneğini ifade eder. Bu düzey için ayırt etme, çözümleme, hesaplama, eleştirme, denetleme, sorgulama, ilişkilendirme, kategorilere ayırma, farklılaştırma, çıkarım yapma, test etme, sınama ifadeleri kullanılır. Değerlendirme bir amaca yönelik verilen malzeme ya da materyalin önemi hakkında yargıya varabilme, karar verebilme becerisidir. Bu düzeyde; yargılama, değer biçme, hüküm verme, değerlendirme, tahminde bulunma, düzeltme ifadeleriyle öğrenme çıktıları yazılır.<br/>Yaratma düzeyinde edinilen bilgilerin bir araya getirilmesiyle orjinal bir bütün oluşturulması beklenir, bu aynı zamanda en üst düzey yetkinliktir. Bu düzey için önerme, tasarlama, planlama, düzenleme,<br/>yapılandırma, inşa etme, organize etme, geliştirme, kurma, monte etme, formüle etme eylem ifadeleri kullanılır."
     },
     {
         "SoruID": 3863416,
-        "SoruMetni": "Aşağıdakilerden hangisi öğrenme çıktıları hazırlanırken dikkat edilmesi gereken noktalardan birisi <strong>değildir? </strong>",
+        "SoruMetni": "Aşağıdakilerden hangisi öğrenme çıktıları hazırlanırken dikkat edilmesi gereken noktalardan birisi <strong>değildir? </strong>",
         "A": "İfadeler bilişsel, psikomotor beceriler, duyuşsal ve anahtar becerilere göre sınıflandırılmalıdır.",
         "B": "Öğreticinin değil öğrenenin ne yapacağını ifade etmelidir.",
         "C": "Her ders için öğrenme çıktısı sayısı 2-4 arasında tutulmalıdır.",
@@ -1497,11 +1497,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Her ders için öğrenme çıktısı sayısı 2-4 arasında tutulmalıdır.<br/> <ul> <li>Bir ders düzeyinde başlanmalıdır.</li> <li> İfadeler bilişsel, psikomotor beceriler, duyuşsal ve anahtar becerilere göre sınıflandırılmaldır.</li> <li>Öğreticinin değil öğrenenin ne yapacağını<br/>ifade etmelidir.</li> <li>Her ders için öğrenme çıktısı sayısı 5-8 arasında tutulmalıdır.</li> <li>Her öğrenme çıktısında tek bir eylem ifadesi/fiil kullanılmalıdır.</li> <li>İfade edilen eylemler gözlenebilir ya da ölçülebilir olmalıdır.</li> <li>Karmaşık cümlelerden kaçınılmalı, gerekiyorsa cümle bölünerek yazılmalıdır.</li> <li>İlgili derse yönelik yazılan öğrenme çıktılarının programın tüm sonuçlarıyla ilgili olmasına dikkat edilmelidir.</li> <li>Her öğrenme çıktısı dersin içeriğini belirten ifadeler ve eylemin amacını bildiren fiillerle oluşturulmalıdır.</li> </ul>"
+        "Aciklama": "Her ders için öğrenme çıktısı sayısı 2-4 arasında tutulmalıdır.<br/><ul> <li>Bir ders düzeyinde başlanmalıdır.</li> <li> İfadeler bilişsel, psikomotor beceriler, duyuşsal ve anahtar becerilere göre sınıflandırılmaldır.</li> <li>Öğreticinin değil öğrenenin ne yapacağını<br/>ifade etmelidir.</li> <li>Her ders için öğrenme çıktısı sayısı 5-8 arasında tutulmalıdır.</li> <li>Her öğrenme çıktısında tek bir eylem ifadesi/fiil kullanılmalıdır.</li> <li>İfade edilen eylemler gözlenebilir ya da ölçülebilir olmalıdır.</li> <li>Karmaşık cümlelerden kaçınılmalı, gerekiyorsa cümle bölünerek yazılmalıdır.</li> <li>İlgili derse yönelik yazılan öğrenme çıktılarının programın tüm sonuçlarıyla ilgili olmasına dikkat edilmelidir.</li> <li>Her öğrenme çıktısı dersin içeriğini belirten ifadeler ve eylemin amacını bildiren fiillerle oluşturulmalıdır.</li> </ul>"
     },
     {
         "SoruID": 3863417,
-        "SoruMetni": "\"Öğrenenler bütünün farklı bileşenlerini birbirinden ayırt edebiliyor mu?\" biçiminde verilen ifade Bloom’un bilişsel beceriler sınıflamasındaki hangi aşama ile ilişkilidir?",
+        "SoruMetni": "\"Öğrenenler bütünün farklı bileşenlerini birbirinden ayırt edebiliyor mu?\" biçiminde verilen ifade Bloom’un bilişsel beceriler sınıflamasındaki hangi aşama ile ilişkilidir?",
         "A": "Çözümleme",
         "B": "Anlama",
         "C": "Uygulama",
@@ -1517,7 +1517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çözümleme<br/> Çözümleme basamağında öğrenenler bütünün farklı bileşenlerini birbirinden ayırt edebiliyor mu? biçiminde bilgi parçalara ayrılabilme yeteneğini ifade eder. Bu düzey için ayırt etme, çözümleme, hesaplama, eleştirme, denetleme, sorgulama, ilişkilendirme, kategorilere ayırma, farklılaştırma, çıkarım yapma, test etme, sınama ifadeleri kullanılır."
+        "Aciklama": "Çözümleme<br/>Çözümleme basamağında öğrenenler bütünün farklı bileşenlerini birbirinden ayırt edebiliyor mu? biçiminde bilgi parçalara ayrılabilme yeteneğini ifade eder. Bu düzey için ayırt etme, çözümleme, hesaplama, eleştirme, denetleme, sorgulama, ilişkilendirme, kategorilere ayırma, farklılaştırma, çıkarım yapma, test etme, sınama ifadeleri kullanılır."
     },
     {
         "SoruID": 3863652,
@@ -1537,7 +1537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Öğrenenin tespit ettiği eksik konulara yönelik ihtiyaçlarını eyleme dönüştürmesi ifade edilen ihtiyaçlarla ilişkilidir.  Aynı kademedeki iki farklı sınıfın fen bilgisi dersindeki başarılarının karşılaştırılması karşılaştırmalı ihtiyaca ilişkin bir örnektir.  Bir öğrencinin öz yeterliğinin düşük olduğuna inandığı bir konu başlığını anket formunda belirtmesi hissedilen ihtiyaçtır. Pandemi nedeniyle sınıf ortamında alınacak önlemlere yönelik bilinçlendirici faaliyetlerin işe koşulması acil ihtiyaca örnek gösterilebilir. Adından da belli olduğu gibi aniden ortaya çıkan bir duruma karşı ortaya çıkan bir ihtiyaç söz konusudur. Bu yıla ait anket ve sınav sonuçlarından hareketle gelecek yıl işe koşulacak politikaların belirlenmesi ise önceden tahmin edilen bir ihtiyaçtır."
+        "Aciklama": "Öğrenenin tespit ettiği eksik konulara yönelik ihtiyaçlarını eyleme dönüştürmesi ifade edilen ihtiyaçlarla ilişkilidir. Aynı kademedeki iki farklı sınıfın fen bilgisi dersindeki başarılarının karşılaştırılması karşılaştırmalı ihtiyaca ilişkin bir örnektir. Bir öğrencinin öz yeterliğinin düşük olduğuna inandığı bir konu başlığını anket formunda belirtmesi hissedilen ihtiyaçtır. Pandemi nedeniyle sınıf ortamında alınacak önlemlere yönelik bilinçlendirici faaliyetlerin işe koşulması acil ihtiyaca örnek gösterilebilir. Adından da belli olduğu gibi aniden ortaya çıkan bir duruma karşı ortaya çıkan bir ihtiyaç söz konusudur. Bu yıla ait anket ve sınav sonuçlarından hareketle gelecek yıl işe koşulacak politikaların belirlenmesi ise önceden tahmin edilen bir ihtiyaçtır."
     },
     {
         "SoruID": 3863653,
@@ -1557,7 +1557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çoğu seçenekte farklar yaklaşımı esas alınmaktadır. Bu yaklaşımda beklenen beceri düzeyi ile var olan beceri arasındaki fark bulunur. Belirlenen farkın boyutuna göre bireyde bir yeterlilik, prob­lem varlığını ya da yokluğunu ortaya koymaktadır. Farklar yaklaşımı, mevcut durum ve hedeflenen durum arasındaki farkın belirlenmesiyle birlik­te, bu farkı kapatabilmek için gerekli işlemler ve stratejileri geliştirme amacıyla da kullanılmaktadır. Öte yandan çoğunluğun talebine göre içerik düzenlemesi yapmak demokratik yaklaşım ile ilişkilidir.  Demokratik yaklaşımda üstün olan grupların isteklerinin etkisiyle yapılanan ihtiyaçlar söz konu­sudur. Bu yaklaşımda ihtiyaçlar, çoğunluk grubun kararına göre belirlenmektedir ve bu ihtiyaç değer­lendirme sürecinde paydaşların katılımının sağlan­ması önem taşır."
+        "Aciklama": "Çoğu seçenekte farklar yaklaşımı esas alınmaktadır. Bu yaklaşımda beklenen beceri düzeyi ile var olan beceri arasındaki fark bulunur. Belirlenen farkın boyutuna göre bireyde bir yeterlilik, prob­lem varlığını ya da yokluğunu ortaya koymaktadır. Farklar yaklaşımı, mevcut durum ve hedeflenen durum arasındaki farkın belirlenmesiyle birlik­te, bu farkı kapatabilmek için gerekli işlemler ve stratejileri geliştirme amacıyla da kullanılmaktadır. Öte yandan çoğunluğun talebine göre içerik düzenlemesi yapmak demokratik yaklaşım ile ilişkilidir. Demokratik yaklaşımda üstün olan grupların isteklerinin etkisiyle yapılanan ihtiyaçlar söz konu­sudur. Bu yaklaşımda ihtiyaçlar, çoğunluk grubun kararına göre belirlenmektedir ve bu ihtiyaç değer­lendirme sürecinde paydaşların katılımının sağlan­ması önem taşır."
     },
     {
         "SoruID": 3863654,
@@ -1577,7 +1577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çoğu seçenekte analitik yaklaşım işe koşulmaktadır. Söz konusu yaklaşımda yerel veya küresel çapta koşul­larla meydana gelen değişimlerin ve yeni yönelim­lerin analiz edilerek incelenmesi sonucu ihtiyaçlar belirlenmektedir. Bu yaklaşım; sayısal verileri, ista­tistiksel analizleri ve bilimsel yöntemleri kullanarak ihtiyaçları belirlemeye odaklanır. Mevcut durumlar göz önüne alınarak geleceğe yönelik öngörüler ge­liştirilir ve bu öngörüler doğrultusunda eleştirel bir bakışla çözüm önerileri oluşturulur ve bu çözümler için ihtiyaçlar belirlenir.<br/><br/>Ders sırasında erişilemeyen bazı materyallerin memnuniyete yansımalarını irdeleyerek yeni bir yol haritası belirlemek ise betimsel yaklaşım başlığında değerlendirilebilir."
+        "Aciklama": "Çoğu seçenekte analitik yaklaşım işe koşulmaktadır. Söz konusu yaklaşımda yerel veya küresel çapta koşul­larla meydana gelen değişimlerin ve yeni yönelim­lerin analiz edilerek incelenmesi sonucu ihtiyaçlar belirlenmektedir. Bu yaklaşım; sayısal verileri, ista­tistiksel analizleri ve bilimsel yöntemleri kullanarak ihtiyaçları belirlemeye odaklanır. Mevcut durumlar göz önüne alınarak geleceğe yönelik öngörüler ge­liştirilir ve bu öngörüler doğrultusunda eleştirel bir bakışla çözüm önerileri oluşturulur ve bu çözümler için ihtiyaçlar belirlenir.<br/>Ders sırasında erişilemeyen bazı materyallerin memnuniyete yansımalarını irdeleyerek yeni bir yol haritası belirlemek ise betimsel yaklaşım başlığında değerlendirilebilir."
     },
     {
         "SoruID": 3863655,
@@ -1597,7 +1597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>İhtiyaç belirlenirken hangi yaklaşımın kullanılacağına karar verildikten sonra, hangi tekniğin<br/>uygulanacağına karar verilmelidir. Analitik yaklaşım, söz konusu yaklaşımlardan bir tanesidir. Diğer seçeneklerde ihtiyaç belirlenirken kullanılan teknikler yer almaktadır. <br/><br/>İhtiyaç belirlenirken kullanılan teknikler;<br/>• Delphi tekniği<br/>• Progel (Dacum) tekniği<br/>• İş analizi tekniği<br/>• Gözlem<br/>• Testler-ölçme araçları<br/>• Kaynak tarama olarak sıralanabilir."
+        "Aciklama": "<br/>İhtiyaç belirlenirken hangi yaklaşımın kullanılacağına karar verildikten sonra, hangi tekniğin<br/>uygulanacağına karar verilmelidir. Analitik yaklaşım, söz konusu yaklaşımlardan bir tanesidir. Diğer seçeneklerde ihtiyaç belirlenirken kullanılan teknikler yer almaktadır. <br/>İhtiyaç belirlenirken kullanılan teknikler;<br/>• Delphi tekniği<br/>• Progel (Dacum) tekniği<br/>• İş analizi tekniği<br/>• Gözlem<br/>• Testler-ölçme araçları<br/>• Kaynak tarama olarak sıralanabilir."
     },
     {
         "SoruID": 3863656,
@@ -1617,7 +1617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İhtiyaç analizi için hangi tekniğin kullanılacağı belirlendikten sonra ihtiyaç analizinin uygulamasına geçilir. İhtiyaç analizi dört aşamada gerçekleştirilir. Bu aşamalar;<br/>• Planlama<br/>• Veri toplama<br/>• Verileri analiz etme ve<br/>• rapor oluşturmadır.<br/><br/>Seçeneklerde yer alan kaynak tarama ise Delphi, Progel ya da iş analizi gibi bir ihtiyaç belirleme tekniğidir."
+        "Aciklama": "İhtiyaç analizi için hangi tekniğin kullanılacağı belirlendikten sonra ihtiyaç analizinin uygulamasına geçilir. İhtiyaç analizi dört aşamada gerçekleştirilir. Bu aşamalar;<br/>• Planlama<br/>• Veri toplama<br/>• Verileri analiz etme ve<br/>• rapor oluşturmadır.<br/>Seçeneklerde yer alan kaynak tarama ise Delphi, Progel ya da iş analizi gibi bir ihtiyaç belirleme tekniğidir."
     },
     {
         "SoruID": 3863657,
@@ -1677,7 +1677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Öğrenme çıktıları belirlenirken aşağıdaki özellikleri taşıması beklenir. <br/>Açıklık ve netlik<br/>Ölçülebilirlik<br/>Ulaşılabilirlik<br/>Uygunluk<br/>Zamana Bağlılık<br/>Bağlam<br/><br/>Yenilikçilik bu özellikler arasında yer almamaktadır."
+        "Aciklama": "Öğrenme çıktıları belirlenirken aşağıdaki özellikleri taşıması beklenir. <br/>Açıklık ve netlik<br/>Ölçülebilirlik<br/>Ulaşılabilirlik<br/>Uygunluk<br/>Zamana Bağlılık<br/>Bağlam<br/>Yenilikçilik bu özellikler arasında yer almamaktadır."
     },
     {
         "SoruID": 3863660,
@@ -1717,7 +1717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yenilenmiş Bloom taksonomisinde kazanımlar isim ve eylem hâlleri ayrılarak iki boyutta ele alınmıştır. Bunlar;<br/>• Bilgi Boyutu ve<br/>• Bilişsel Süreç boyutudur.<br/><br/>Bilgi boyutunda bilginin farklı türleri bulunmaktadır. Bunlar;<br/>Olgusal bilgi; terminoloji bilgisi, özel hususlar ve detay bilgisini içerir.<br/>Kavramsal bilgi; daha karmaşık ve organize edilmiş bilgi formlarını kapsar. Sınıflamalar, kategoriler,<br/>ilkeler, genellemeler, kuram, model ve yapıları içerir.<br/>İşlemsel bilgi; bir şeyin nasıl yapılacağının bilgisidir. Beceri ve algoritmalarla birlikte yöntem ve<br/>teknikleri kapsar. Ayrıca özel bilgi alanlarındaki ve disiplinlerdeki ölçütleri içerir.<br/>Biliş ötesi/üstbilişsel bilgi; bireyin stratejik, bilişsel görevlere yönelik ve bağlamsal bilgisini kapsar.<br/>Ayrıca koşullu bilgilerle birlikte bireyin kendi hakkındaki bilgisini de içerir.<br/><br/>Görüleceği üzere terminoloji bilgisi olgusal bilgiye örnektir. Diğer seçeneklerde kavramsal bilgi örnekleri yer almıştır."
+        "Aciklama": "Yenilenmiş Bloom taksonomisinde kazanımlar isim ve eylem hâlleri ayrılarak iki boyutta ele alınmıştır. Bunlar;<br/>• Bilgi Boyutu ve<br/>• Bilişsel Süreç boyutudur.<br/>Bilgi boyutunda bilginin farklı türleri bulunmaktadır. Bunlar;<br/>Olgusal bilgi; terminoloji bilgisi, özel hususlar ve detay bilgisini içerir.<br/>Kavramsal bilgi; daha karmaşık ve organize edilmiş bilgi formlarını kapsar. Sınıflamalar, kategoriler,<br/>ilkeler, genellemeler, kuram, model ve yapıları içerir.<br/>İşlemsel bilgi; bir şeyin nasıl yapılacağının bilgisidir. Beceri ve algoritmalarla birlikte yöntem ve<br/>teknikleri kapsar. Ayrıca özel bilgi alanlarındaki ve disiplinlerdeki ölçütleri içerir.<br/>Biliş ötesi/üstbilişsel bilgi; bireyin stratejik, bilişsel görevlere yönelik ve bağlamsal bilgisini kapsar.<br/>Ayrıca koşullu bilgilerle birlikte bireyin kendi hakkındaki bilgisini de içerir.<br/>Görüleceği üzere terminoloji bilgisi olgusal bilgiye örnektir. Diğer seçeneklerde kavramsal bilgi örnekleri yer almıştır."
     },
     {
         "SoruID": 3863324,
@@ -1757,11 +1757,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotoğraflar piksel tabanlıdır."
+        "Aciklama": "Görüntüler vektör ve piksel tabanlı olabilir. Vektörel görüntüler çözünürlükten ödün vermeden ölçeklenebilir. Yani büyütüldüğünde kalite kaybı yaşamaz. Ayrıca kolay bir şekilde düzenlenebilirler. Logolar, illüstrasyonlar, ikonlar, tablolar, grafikler, kavram haritaları ve çizimler vektör tabanlı görüntülere örnektir. Piksel tabanlı görüntüler ise gerçekçi ayrıntıları ve detayları göstermek amacıyla kullanılabilir. Ancak vektör tabanlı görüntüler gibi ölçeklenebilirlik açısından oldukça zayıftır. Çözünürlüğü düşük olan piksel tabanlı görüntüler büyütüldüğünde kalite kaybına uğramaktadır. Fotoğraflar ise piksel tabanlı görüntüye örnektir.<br>Fotoğraflar piksel tabanlıdır."
     },
     {
         "SoruID": 3863326,
-        "SoruMetni": "\"......... kavramı, çizgi tekniklerinin kullanılmasıyla ortaya çıkan, görünenin abartılabileceği veya tamamen hayali bir çizgide tasvir edilebileceği anlamına gelen sanattır.\" <br/> Yukarıdaki cümlede boş bırakılan yer hangisiyle doldurulmalıdır?",
+        "SoruMetni": "\"......... kavramı, çizgi tekniklerinin kullanılmasıyla ortaya çıkan, görünenin abartılabileceği veya tamamen hayali bir çizgide tasvir edilebileceği anlamına gelen sanattır.\" <br/>Yukarıdaki cümlede boş bırakılan yer hangisiyle doldurulmalıdır?",
         "A": "Çizim",
         "B": "İllüstrasyon",
         "C": "İnfografik",
@@ -1857,11 +1857,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Önemli işlevlere sahip düğmelerin farklı renklerde veya boyutlarda sunulması benzerlik ilkesine örnek gösterilebilir."
+        "Aciklama": "Benzer nesnelerin birlikte gruplanması durumunu ifade eder. Renk, şekil, boyut veya doku gibi benzer özelliklere sahip öğelerin aynı gruba ait olarak algılandığını belirtmektedir. Benzerlik, bir tasarımda yan yana olmayabilecek ögeleri birbirine bağlamak için kullanılabilir. Önemli işlevlere sahip düğmelerin farklı renklerde veya boyutlarda sunulması benzerlik ilkesine bir örnektir. Bir arayüzdeki tüm tıklanabilir düğmeler için aynı rengin kullanılması, öğrenenlerin bunları benzer işlevlere sahip düğmeler olarak tanımasına yardımcı olur.<br>Önemli işlevlere sahip düğmelerin farklı renklerde veya boyutlarda sunulması benzerlik ilkesine örnek gösterilebilir."
     },
     {
         "SoruID": 3863331,
-        "SoruMetni": "İnsan zihninin nesneleri  arka planlarına göre nasıl algıladığına odaklanan Gestalt ilkesi hangisidir?",
+        "SoruMetni": "İnsan zihninin nesneleri arka planlarına göre nasıl algıladığına odaklanan Gestalt ilkesi hangisidir?",
         "A": "Benzerlik",
         "B": "Yakınlık",
         "C": "Devamlılık",
@@ -1877,7 +1877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Şekil-zemin </strong><strong>ilkesi, </strong>insan zihninin nesneleri (şekilleri) arka planlarına (zemine) göre nasıl algıladığına odaklanır."
+        "Aciklama": "Şekil-zemin ilkesi ile renk, boyut ve bulanıklık gibi teknikler kullanılarak önemli içeriğin öne çıkması sağlanabilir. Bu yöntemler, öncelikli içeriğe vurgu yaparak dikkat çekmeyi amaçlamaktadır. İnsan beyni, ön planı arka plan öğelerinden ayırmaya odaklanır. <strong>Şekil-zemin </strong><strong>ilkesi, insan zihninin nesneleri (şekilleri) arka planlarına </strong><strong>(zemine) göre nasıl algıladığına odaklanır.</strong> Tasarımcılar, kontrast ve görsel hiyerarşi kullanarak önemli ögeler (şekiller) ile arka plan arasında ayrım yapabilir."
     },
     {
         "SoruID": 3863332,
@@ -2037,7 +2037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Denge seçeneği hariç tüm seçeneklerde Gestalt ilkeleri yer almıştır. Gestalt ilkeleri aşağıda sıralanmıştır:<br/> Yakınlık ilkesi<br/> Benzerlik ilkesi<br/> Tamamlama ilkesi<br/> Devamlılık ilkesi<br/> Simetri ilkesi<br/> Şekil-zemin ilkesi"
+        "Aciklama": "Denge seçeneği hariç tüm seçeneklerde Gestalt ilkeleri yer almıştır. Gestalt ilkeleri aşağıda sıralanmıştır:<br/>Yakınlık ilkesi<br/>Benzerlik ilkesi<br/>Tamamlama ilkesi<br/>Devamlılık ilkesi<br/>Simetri ilkesi<br/>Şekil-zemin ilkesi"
     },
     {
         "SoruID": 3863637,
@@ -2057,7 +2057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zıtlık; renk, boyut, doku veya aralıktaki farklılıkları kullanarak dikkatin öncelikli unsurlara yönlendirilmesini ifade eder.<br/> Denge, tüm tasarım ögelerinin tasarım boyunca eşit şekilde dağıtılmasıyla ortaya çıkar (Resnick, 2003).<br/> Vurgu, bir tasarımın belirli bölümlerinin diğer ögelerle karşılaştırıldığında öne çıkmasını ifade eder.<br/> Tasarımda hiyerarşi, öğelerin önem düzeylerine göre düzenlenmesini ifade eder.<br/> Bütünlük, tasarım ögelerinin ve ilkelerinin birliğini ifade eder; yani, bu öğelerin doğru zamanda ve doğru ölçülerde nasıl kullanılması gerektiğini açıklar.<br/> Beyaz alan, herhangi bir tasarım içermeyen, fiziksel olarak boş alanları ifade eder. Bu alanlar, tasarımcılar tarafından sıklıkla göz ardı edilebilen ancak birçok önemli amaca hizmet eden ögelerdir."
+        "Aciklama": "Zıtlık; renk, boyut, doku veya aralıktaki farklılıkları kullanarak dikkatin öncelikli unsurlara yönlendirilmesini ifade eder.<br/>Denge, tüm tasarım ögelerinin tasarım boyunca eşit şekilde dağıtılmasıyla ortaya çıkar (Resnick, 2003).<br/>Vurgu, bir tasarımın belirli bölümlerinin diğer ögelerle karşılaştırıldığında öne çıkmasını ifade eder.<br/>Tasarımda hiyerarşi, öğelerin önem düzeylerine göre düzenlenmesini ifade eder.<br/>Bütünlük, tasarım ögelerinin ve ilkelerinin birliğini ifade eder; yani, bu öğelerin doğru zamanda ve doğru ölçülerde nasıl kullanılması gerektiğini açıklar.<br/>Beyaz alan, herhangi bir tasarım içermeyen, fiziksel olarak boş alanları ifade eder. Bu alanlar, tasarımcılar tarafından sıklıkla göz ardı edilebilen ancak birçok önemli amaca hizmet eden ögelerdir."
     },
     {
         "SoruID": 3863638,
@@ -2097,7 +2097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru seçenek, doğrudan metinden alıntılanan şu ifadelere dayanmaktadır: “Etkileşimli ögeler, öğrenenlerin ilgisini çeker ve onların içeriğe odaklanmalarını ve keşfetmelerine olanak tanır. Ayrıca, öğrenen katılımını artırır ve problem çözme becerilerini geliştirmelerine yardımcı olur.”.  Üretim maliyetlerinin azaltılması görsel senaryo taslağına aittir. Tüm dijital ortamlarda çalışabilirliğinin test edilmesi ve anlatım tutarlılığının kontrol edilmesi düzenleme ve iyileştirme adımları ile ilişkilidir. Doğru yazı tiplerinin, renk ve aralıklarının seçimi ise tasarım adımına aittir."
+        "Aciklama": "Doğru seçenek, doğrudan metinden alıntılanan şu ifadelere dayanmaktadır: “Etkileşimli ögeler, öğrenenlerin ilgisini çeker ve onların içeriğe odaklanmalarını ve keşfetmelerine olanak tanır. Ayrıca, öğrenen katılımını artırır ve problem çözme becerilerini geliştirmelerine yardımcı olur.”. Üretim maliyetlerinin azaltılması görsel senaryo taslağına aittir. Tüm dijital ortamlarda çalışabilirliğinin test edilmesi ve anlatım tutarlılığının kontrol edilmesi düzenleme ve iyileştirme adımları ile ilişkilidir. Doğru yazı tiplerinin, renk ve aralıklarının seçimi ise tasarım adımına aittir."
     },
     {
         "SoruID": 3863640,
@@ -2117,7 +2117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: 'Times New Roman',serif;\">Adobe Photoshop, Adobe Illustrator, Canva, Prezi ve Photoscape görsel oluşturma uygulamaları arasında gösterilmiştir. Bu uygulamalar dışında görsel oluşturmak için çeşitli araçlar da kullanılabilir. Bunlar; Gimp, Piktochart, Easelly, Fotor, Inscape ve Venngage şeklinde sıralanabilir. Camtasia Studio uygulaması ise </span><span style=\"font-family: 'Times New Roman',serif; color: #221e1f;\">hem ekran kaydı videolar hazırlamak için hem de videoları dü­zenlemek için kullanılan bir araç olup video oluşturma ve düzenleme başlığı altında incelenmiştir.  </span>"
+        "Aciklama": "<span style=\"font-family: 'Times New Roman',serif;\">Adobe Photoshop, Adobe Illustrator, Canva, Prezi ve Photoscape görsel oluşturma uygulamaları arasında gösterilmiştir. Bu uygulamalar dışında görsel oluşturmak için çeşitli araçlar da kullanılabilir. Bunlar; Gimp, Piktochart, Easelly, Fotor, Inscape ve Venngage şeklinde sıralanabilir. Camtasia Studio uygulaması ise </span><span style=\"font-family: 'Times New Roman',serif; color: #221e1f;\">hem ekran kaydı videolar hazırlamak için hem de videoları dü­zenlemek için kullanılan bir araç olup video oluşturma ve düzenleme başlığı altında incelenmiştir. </span>"
     },
     {
         "SoruID": 3863506,
@@ -2137,11 +2137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Öğrenme Yönetim Sistemi (ÖYS): öğrenme sürecinin planlanmasını ve yönetimini sağlayan, öğrenme deneyimini zenginleştiren yazılımlardır."
+        "Aciklama": "Öğrenme Yönetim Sistemi (ÖYS): öğrenme sürecinin planlanmasını ve yönetimini sağlayan, öğrenme deneyimini zenginleştiren yazılımlardır."
     },
     {
         "SoruID": 3863507,
-        "SoruMetni": "I. öğretene içerik geliştirme ve öğretim sürecini planlama olanağı sunar.<br/> II. Öğrenenlerin öğretenle ve birbirleriyle olan etkileşimini artırmak için tartışma, sohbet ve eş zamanlı oturumlar gibi olanaklar sağlar.<br/> III. Öğretenin ders içi etkileşim için öğrenenlere hızlı ve bireysel geri bildirim verebilmesini kolaylaştırır.<br/> IV. ÖYS’ler dijital öğrenme kaynakları olmaması nedeniyle eğitim materyallerindeki maliyeti artırır.<br/> Yukarıda ders tasarımı sırasında Öğrenme Yönetim Sistemleri için söylenenlerden hangileri doğrudur?",
+        "SoruMetni": "I. öğretene içerik geliştirme ve öğretim sürecini planlama olanağı sunar.<br/>II. Öğrenenlerin öğretenle ve birbirleriyle olan etkileşimini artırmak için tartışma, sohbet ve eş zamanlı oturumlar gibi olanaklar sağlar.<br/>III. Öğretenin ders içi etkileşim için öğrenenlere hızlı ve bireysel geri bildirim verebilmesini kolaylaştırır.<br/>IV. ÖYS’ler dijital öğrenme kaynakları olmaması nedeniyle eğitim materyallerindeki maliyeti artırır.<br/>Yukarıda ders tasarımı sırasında Öğrenme Yönetim Sistemleri için söylenenlerden hangileri doğrudur?",
         "A": "I ve ıI",
         "B": "I, II ve III",
         "C": "I, II ve IV",
@@ -2157,7 +2157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I. öğretene içerik geliştirme ve öğretim sürecini planlama olanağı sunar.<br/> II. Öğrenenlerin öğretenle ve birbirleriyle olan etkileşimini artırmak için tartışma, sohbet ve eş zamanlı oturumlar gibi olanaklar sağlar.<br/> III. Öğretenin ders içi etkileşim için öğrenenlere hızlı ve bireysel geri bildirim verebilmesini kolaylaştırır.<br/> IV. ÖYS’ler dijital öğrenme kaynakları olması nedeniyle eğitim materyallerindeki maliyeti azaltır."
+        "Aciklama": "I. öğretene içerik geliştirme ve öğretim sürecini planlama olanağı sunar.<br/>II. Öğrenenlerin öğretenle ve birbirleriyle olan etkileşimini artırmak için tartışma, sohbet ve eş zamanlı oturumlar gibi olanaklar sağlar.<br/>III. Öğretenin ders içi etkileşim için öğrenenlere hızlı ve bireysel geri bildirim verebilmesini kolaylaştırır.<br/>IV. ÖYS’ler dijital öğrenme kaynakları olması nedeniyle eğitim materyallerindeki maliyeti azaltır."
     },
     {
         "SoruID": 3863508,
@@ -2241,7 +2241,7 @@
     },
     {
         "SoruID": 3863512,
-        "SoruMetni": "I. Yönlendirme ve Kontrol<br/> II. Sınırlı Öğrenme Hızı<br/> III. Düzenli Değerlendirme<br/> Yukarıdakilerden hangisi yada hangileri Rehber gözetimli öğrenme özellikleri arasındadır?",
+        "SoruMetni": "I. Yönlendirme ve Kontrol<br/>II. Sınırlı Öğrenme Hızı<br/>III. Düzenli Değerlendirme<br/>Yukarıdakilerden hangisi yada hangileri Rehber gözetimli öğrenme özellikleri arasındadır?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -2261,7 +2261,7 @@
     },
     {
         "SoruID": 3863513,
-        "SoruMetni": "I. Hız ve Esneklik<br/> II. Özgür ilerleme<br/> III. Kişiselleştirilmiş Değerlendirme<br/> IV. Uzaktan Eğitim<br/> Yukarıdakilerden hangileri Kendi hızında öğrenme özellikleri arasındadır?",
+        "SoruMetni": "I. Hız ve Esneklik<br/>II. Özgür ilerleme<br/>III. Kişiselleştirilmiş Değerlendirme<br/>IV. Uzaktan Eğitim<br/>Yukarıdakilerden hangileri Kendi hızında öğrenme özellikleri arasındadır?",
         "A": "I ve II",
         "B": "I, II ve IV",
         "C": "II, III ve IV",
@@ -2281,7 +2281,7 @@
     },
     {
         "SoruID": 3863514,
-        "SoruMetni": "I• Ders hedeflerini öğrenenlerin ihtiyaçlarını ve hedeflerini göz önünde bulundurarak belirlemek.<br/> II• Öğrenenlerin aktif olarak katılmalarını ve öğrenmeye katkıda bulunmalarını sağlayacak şekilde ders etkinlikleri tasarlamak.<br/> III• Öğrenenlerin öğrenmelerini geliştirmek için geri bildirim toplamak ve kullanmak.<br/> IV• Öğrenmeyi geliştirmek için öğrenme sürecine teknolojiyi entegre etmek.<br/> Yukarıdakilerden hangileri Ders planlama sürecinde öğrenen deneyimi tasarımına odaklanmanın yolları arasında sayılmaktadır?",
+        "SoruMetni": "I• Ders hedeflerini öğrenenlerin ihtiyaçlarını ve hedeflerini göz önünde bulundurarak belirlemek.<br/>II• Öğrenenlerin aktif olarak katılmalarını ve öğrenmeye katkıda bulunmalarını sağlayacak şekilde ders etkinlikleri tasarlamak.<br/>III• Öğrenenlerin öğrenmelerini geliştirmek için geri bildirim toplamak ve kullanmak.<br/>IV• Öğrenmeyi geliştirmek için öğrenme sürecine teknolojiyi entegre etmek.<br/>Yukarıdakilerden hangileri Ders planlama sürecinde öğrenen deneyimi tasarımına odaklanmanın yolları arasında sayılmaktadır?",
         "A": "I ve III",
         "B": "I, II ve III",
         "C": "I, II ve IV",
@@ -2301,7 +2301,7 @@
     },
     {
         "SoruID": 3863516,
-        "SoruMetni": "I. İnteraktif ve Etkileşimli Tasarım<br/> II. Uyarlanabilirlik ve Erişilebilirlik<br/> III. Topluluk ve İletişim<br/> IV. Teknoloji Kullanma Becerisi<br/> Yukarıdakilerden hangileri Uzaktan eğitim bağlamında öğrenen deneyimi tasarımında üzerinde durulan bazı önemli noktalardandır?",
+        "SoruMetni": "I. İnteraktif ve Etkileşimli Tasarım<br/>II. Uyarlanabilirlik ve Erişilebilirlik<br/>III. Topluluk ve İletişim<br/>IV. Teknoloji Kullanma Becerisi<br/>Yukarıdakilerden hangileri Uzaktan eğitim bağlamında öğrenen deneyimi tasarımında üzerinde durulan bazı önemli noktalardandır?",
         "A": "I ve II",
         "B": "II ve III",
         "C": "I, II ve III",
@@ -2317,14 +2317,14 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uzaktan eğitim bağlamında öğrenen deneyimi tasarımında üzerinde durulan bazı önemli noktalar<br/> I. İnteraktif ve Etkileşimli Tasarım<br/> II. Uyarlanabilirlik ve Erişilebilirlik<br/> III. Topluluk ve İletişim<br/> IV. Teknoloji Kullanma Becerisi<br/> V. Çeşitli Medya ve Kaynak Kullanımı<br/> VI. Geri bildirim ve Değerlendirme"
+        "Aciklama": "Uzaktan eğitim bağlamında öğrenen deneyimi tasarımında üzerinde durulan bazı önemli noktalar<br/>I. İnteraktif ve Etkileşimli Tasarım<br/>II. Uyarlanabilirlik ve Erişilebilirlik<br/>III. Topluluk ve İletişim<br/>IV. Teknoloji Kullanma Becerisi<br/>V. Çeşitli Medya ve Kaynak Kullanımı<br/>VI. Geri bildirim ve Değerlendirme"
     },
     {
         "SoruID": 3863418,
         "SoruMetni": "Aşağıda ölçme ve değerlendirme kavramlarına ilişkin verilen bilgilerden hangisi <span style=\"text-decoration: underline;\">yanlıştır</span>?",
         "A": "Değerlendirme ölçmenin temelini oluşturur.",
         "B": "Ölçme bir niteliğin sayı ve sembollerle ifade edilmesidir.",
-        "C": "Ölçmede ölçülen nesnenin sahip olduğu özellik ya da niteliğin miktarı belirlenir.",
+        "C": "Ölçmede ölçülen nesnenin sahip olduğu özellik ya da niteliğin miktarı belirlenir.",
         "D": "Bir öğrenenin matematik sınavından 90 puan alması, ölçme işlemine örnek olarak gösterilebilir.",
         "E": "Değerlendirme ise ölçme sonuçlarına dayanarak bir yargıya varma sürecidir.",
         "DogruCevap": "A",
@@ -2417,7 +2417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hatırlama Basamağı: Yenilenmiş Bloom taksonomisine göre, hatırlama bilişsel alanın en temel düzeyini ifade eder. Bu aşamada, öğrenenler önceden öğrendikleri bilgileri hatırlama becerisine sahiptirler. Hatırlama düzeyini ölçmek amacıyla kullanılan sorular genellikle kısa ve doğrudan yanıtlar içerir <br/> Hatırlama basamağında öğrenenin temel öğrenme düzeyini değerlendirmek amacıyla, öğrenene öğrendiği materyalin sunulduğu koşullara benzer bir ortamda, tanıma veya hatırlama görevi verilir. Bu görevler genellikle öğrenenin öğrendiği bilgileri basit bir şekilde geri çağırma yeteneğini ölçer ve daha derin anlama veya genişletilmiş düşünme becerilerini test etmekten ziyade, öğrenenin öğrenilenleri temel düzeyde hatırlama kapasitesine odaklanır. Örneğin, bir öğrenen 10 İngilizce kelimenin Türkçe karşılıklarını öğrendiyse, bir hatırlama sınavıyla, öğrenenden bir listedeki İngilizce kelimeleri ikinci listedeki Türkçe karşılıklarıyla eşleştirmeleri (yani tanıma) veya listede sunulan her İngilizce kelimenin yanına karşılık gelen Türkçe kelimeyi yazmaları (yani hatırlama) istenebilir (Anderson ve Krathwohl, 2001). Ayrıca “Türkiye’nin başkentineresidir?”, “Mustafa Kemal Atatürk, Samsun’a kaç yılında çıkmıştır?”, “İstiklal Marşı’nın yazarı kimdir?”gibi sorular da öğrenenin hatırlama düzeyini ölçmek amacıyla kullanılabilecek örnek sorulardır (Anderson<br/> ve Krathwohl, 2001)."
+        "Aciklama": "Hatırlama Basamağı: Yenilenmiş Bloom taksonomisine göre, hatırlama bilişsel alanın en temel düzeyini ifade eder. Bu aşamada, öğrenenler önceden öğrendikleri bilgileri hatırlama becerisine sahiptirler. Hatırlama düzeyini ölçmek amacıyla kullanılan sorular genellikle kısa ve doğrudan yanıtlar içerir <br/>Hatırlama basamağında öğrenenin temel öğrenme düzeyini değerlendirmek amacıyla, öğrenene öğrendiği materyalin sunulduğu koşullara benzer bir ortamda, tanıma veya hatırlama görevi verilir. Bu görevler genellikle öğrenenin öğrendiği bilgileri basit bir şekilde geri çağırma yeteneğini ölçer ve daha derin anlama veya genişletilmiş düşünme becerilerini test etmekten ziyade, öğrenenin öğrenilenleri temel düzeyde hatırlama kapasitesine odaklanır. Örneğin, bir öğrenen 10 İngilizce kelimenin Türkçe karşılıklarını öğrendiyse, bir hatırlama sınavıyla, öğrenenden bir listedeki İngilizce kelimeleri ikinci listedeki Türkçe karşılıklarıyla eşleştirmeleri (yani tanıma) veya listede sunulan her İngilizce kelimenin yanına karşılık gelen Türkçe kelimeyi yazmaları (yani hatırlama) istenebilir (Anderson ve Krathwohl, 2001). Ayrıca “Türkiye’nin başkentineresidir?”, “Mustafa Kemal Atatürk, Samsun’a kaç yılında çıkmıştır?”, “İstiklal Marşı’nın yazarı kimdir?”gibi sorular da öğrenenin hatırlama düzeyini ölçmek amacıyla kullanılabilecek örnek sorulardır (Anderson<br/>ve Krathwohl, 2001)."
     },
     {
         "SoruID": 3863423,
@@ -2441,7 +2441,7 @@
     },
     {
         "SoruID": 3863424,
-        "SoruMetni": "Bir sporcunun kişisel en iyi zamanlarını takip etmesi ve zaman içindeki ilerlemesini değerlendirmesi hangi değerlendirme türüne örnek olarak verilebilir.",
+        "SoruMetni": "Bir sporcunun kişisel en iyi zamanlarını takip etmesi ve zaman içindeki ilerlemesini değerlendirmesi hangi değerlendirme türüne örnek olarak verilebilir.",
         "A": "Tanılayıcı değerlendirme",
         "B": "Öz değerlendirme",
         "C": "Biçimlendirici değerlendirme",
@@ -2461,7 +2461,7 @@
     },
     {
         "SoruID": 3863425,
-        "SoruMetni": "Bir tartı ile ağırlığınızı birer dakika arayla dört defa ölçtüğünüzü düşünelim. Birinci ölçümde 65 kg, ikinci ölçümde 63 kg, üçüncü ölçümde 66,5 kg, dördüncü ölçümde ise 64 kg gibi farklı sonuçlar elde ettiğinizi varsayalım.  Bu tartının bir ölçme aracında bulunması gereken özeliklerden hangisinde bir sorunu vardır?",
+        "SoruMetni": "Bir tartı ile ağırlığınızı birer dakika arayla dört defa ölçtüğünüzü düşünelim. Birinci ölçümde 65 kg, ikinci ölçümde 63 kg, üçüncü ölçümde 66,5 kg, dördüncü ölçümde ise 64 kg gibi farklı sonuçlar elde ettiğinizi varsayalım. Bu tartının bir ölçme aracında bulunması gereken özeliklerden hangisinde bir sorunu vardır?",
         "A": "Güvenirlik",
         "B": "Geçerlik",
         "C": "Kullanışlılık",
@@ -2497,7 +2497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kısa Cevaplı Sorular: Kısa cevaplı sorular, öğrenenlerin cevabını açık uçlu olarak ifade etmelerini gerektiren bir soru türüdür. Sorular, doğrudan bir soru, tamamlanmamış bir ifade veya soru şeklinde olabilir. Kısa cevaplı sorular, bilişsel alan basamaklarının alt düzeylerindeki yeterliklerini test etmek için kullanılabilir. Öğrenenin olası yanıtlar listesinden doğru yanıtı belirlemek yerine bir yanıt vermesini gerektirir, böylece şans başarısını azaltır.<br/> Kısa cevaplı sorular, eksik cümle türünde (boşluk doldurma) ya da kökü soru ifadesiyle biten sorular olarak iki türdür. Boşluk doldurma soruları, öğrenenlerin eksik kelimeleri veya sayıları tamamlamasını gerektiren bir soru türüdür. Boşluklar bir cümlenin içinde veya bir sorunun sonunda yer alabilir. Ayrıca, birden fazla boşluk bir metin paragrafına veya bir tabloya da dağıtılabilir."
+        "Aciklama": "Kısa Cevaplı Sorular: Kısa cevaplı sorular, öğrenenlerin cevabını açık uçlu olarak ifade etmelerini gerektiren bir soru türüdür. Sorular, doğrudan bir soru, tamamlanmamış bir ifade veya soru şeklinde olabilir. Kısa cevaplı sorular, bilişsel alan basamaklarının alt düzeylerindeki yeterliklerini test etmek için kullanılabilir. Öğrenenin olası yanıtlar listesinden doğru yanıtı belirlemek yerine bir yanıt vermesini gerektirir, böylece şans başarısını azaltır.<br/>Kısa cevaplı sorular, eksik cümle türünde (boşluk doldurma) ya da kökü soru ifadesiyle biten sorular olarak iki türdür. Boşluk doldurma soruları, öğrenenlerin eksik kelimeleri veya sayıları tamamlamasını gerektiren bir soru türüdür. Boşluklar bir cümlenin içinde veya bir sorunun sonunda yer alabilir. Ayrıca, birden fazla boşluk bir metin paragrafına veya bir tabloya da dağıtılabilir."
     },
     {
         "SoruID": 3863427,
@@ -2517,7 +2517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Öğrenenler için geri bildirim aşağıdaki faydaları sağlayabilir (Nicol ve McFarlane-Dick, 2006):<br/> • Kendi öğrenme süreçlerini kontrol etme yeteneği kazandırarak öz-düzenleyici öğrenenler olmalarına yardımcı olur.<br/> • Kendi performanslarını izleme ve düzenleme sürecine aktif katılımlarını sağlar.<br/> • Performansları hakkındaki belirsizliği azaltabilir. Kavram yanılgılarını veya uygun olmayan stratejileri düzeltmeye yardımcı olabilir.<br/> •Daha yüksek motivasyon seviyelerine ve daha etkili stratejiler geliştirmelerine olanak tanır.<br/> D seçeneği öğretmene sağlayacağı faydayı ifade etmektedir."
+        "Aciklama": "Öğrenenler için geri bildirim aşağıdaki faydaları sağlayabilir (Nicol ve McFarlane-Dick, 2006):<br/>• Kendi öğrenme süreçlerini kontrol etme yeteneği kazandırarak öz-düzenleyici öğrenenler olmalarına yardımcı olur.<br/>• Kendi performanslarını izleme ve düzenleme sürecine aktif katılımlarını sağlar.<br/>• Performansları hakkındaki belirsizliği azaltabilir. Kavram yanılgılarını veya uygun olmayan stratejileri düzeltmeye yardımcı olabilir.<br/>•Daha yüksek motivasyon seviyelerine ve daha etkili stratejiler geliştirmelerine olanak tanır.<br/>D seçeneği öğretmene sağlayacağı faydayı ifade etmektedir."
     },
     {
         "SoruID": 3863491,
@@ -2537,11 +2537,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eğitim programlarının değerlendirilmesi, bu programların nasıl planlandığı, tasarlandığı ve uygulandığının kapsamlı bir şekilde anlaşılmasını sağlar. Bu süreç, hem içerik hem de öğretim yöntemlerinin etkinliğini değerlendirerek programın eğitim hedeflerini ne ölçüde karşıladığını inceler. Program değerlendirme, öğrenci başarısının ölçülmesinde ve eğitimde sürekli gelişimin teşvik edilmesinde çok önemlidir. Eğitimcilere ve yöneticilere programın etkinliğini ve öğrenci ihtiyaçlarıyla uyumunu sürekli olarak değerlendirmede yardımcı olur (Gagne ve ark.2005). Eğitim programı değerlendirmesi, programların etkililiğini, verimliliğini ve etkisini ölçmek için kritik bir süreçtir. Kirkpatrick &amp; Kirkpatrick (2006) bu sürecin program hedeflerine, öğrenme çıktılarına ve genel etkinliğe ulaşılma derecesini objektif olarak değerlendirmeyi amaçladığını vurgulamaktadır. Ayrıca, Guskey (2000) bu sürecin programların sürekli gelişimi için temel bir araç olduğunu belirtmektedir. Bir eğitim programının değeri genellikle amaçlanan öğrenme çıktılarına ulaşma kabiliyeti ile ölçülür. Ancak değerlendirme süreci bu niceliksel ölçünün ötesine geçerek öğrenci katılımı, öğretimin uygunluğu ve programın değişen eğitim ihtiyaçlarına uyarlanabilirliği gibi öğrenme ortamının niteliksel yönlerini araştırır (Scriven, 1991). Ayrıca değerlendirme, mali ve insan kaynaklarının en etkili ve sürdürülebilir şekilde kullanılmasını sağlamaya çalışarak programın kaynak tahsisinin analizini de kapsar. Bu, eğitim çıktılarının yatırımı haklı çıkardığından emin olmak için fayda-maliyet<br/> oranını göz önünde bulundurmayı da içerir (Levin &amp; McEwan, 2001). Değerlendirmeye yönelik sistematik bir yaklaşım, hem biçimlendirici (formatif) hem de özetleyici (sumatif) değerlendirmelerin kullanılmasını içerir. Biçimlendirici değerlendirmeler öğretim süreci boyunca sürekli geri bildirim sağlayarak öğretim stratejilerinde ve öğrenme faaliyetlerinde ayarlamalar yapılmasına olanak tanır. Bir programın veya kursun sonunda yapılan özetleyici değerlendirmeler ise genel başarının değerlendirilmesine ve iyileştirme alanlarının belirlenmesine hizmet eder (Bloom, Hastings ve Madaus, 1971)."
+        "Aciklama": "Eğitim programlarının değerlendirilmesi, bu programların nasıl planlandığı, tasarlandığı ve uygulandığının kapsamlı bir şekilde anlaşılmasını sağlar. Bu süreç, hem içerik hem de öğretim yöntemlerinin etkinliğini değerlendirerek programın eğitim hedeflerini ne ölçüde karşıladığını inceler. Program değerlendirme, öğrenci başarısının ölçülmesinde ve eğitimde sürekli gelişimin teşvik edilmesinde çok önemlidir. Eğitimcilere ve yöneticilere programın etkinliğini ve öğrenci ihtiyaçlarıyla uyumunu sürekli olarak değerlendirmede yardımcı olur (Gagne ve ark.2005). Eğitim programı değerlendirmesi, programların etkililiğini, verimliliğini ve etkisini ölçmek için kritik bir süreçtir. Kirkpatrick &amp; Kirkpatrick (2006) bu sürecin program hedeflerine, öğrenme çıktılarına ve genel etkinliğe ulaşılma derecesini objektif olarak değerlendirmeyi amaçladığını vurgulamaktadır. Ayrıca, Guskey (2000) bu sürecin programların sürekli gelişimi için temel bir araç olduğunu belirtmektedir. Bir eğitim programının değeri genellikle amaçlanan öğrenme çıktılarına ulaşma kabiliyeti ile ölçülür. Ancak değerlendirme süreci bu niceliksel ölçünün ötesine geçerek öğrenci katılımı, öğretimin uygunluğu ve programın değişen eğitim ihtiyaçlarına uyarlanabilirliği gibi öğrenme ortamının niteliksel yönlerini araştırır (Scriven, 1991). Ayrıca değerlendirme, mali ve insan kaynaklarının en etkili ve sürdürülebilir şekilde kullanılmasını sağlamaya çalışarak programın kaynak tahsisinin analizini de kapsar. Bu, eğitim çıktılarının yatırımı haklı çıkardığından emin olmak için fayda-maliyet<br/>oranını göz önünde bulundurmayı da içerir (Levin &amp; McEwan, 2001). Değerlendirmeye yönelik sistematik bir yaklaşım, hem biçimlendirici (formatif) hem de özetleyici (sumatif) değerlendirmelerin kullanılmasını içerir. Biçimlendirici değerlendirmeler öğretim süreci boyunca sürekli geri bildirim sağlayarak öğretim stratejilerinde ve öğrenme faaliyetlerinde ayarlamalar yapılmasına olanak tanır. Bir programın veya kursun sonunda yapılan özetleyici değerlendirmeler ise genel başarının değerlendirilmesine ve iyileştirme alanlarının belirlenmesine hizmet eder (Bloom, Hastings ve Madaus, 1971)."
     },
     {
         "SoruID": 3863495,
-        "SoruMetni": "Aşağıdakilerden hangisi etkili eğitim programı için gerekli unsurlardan biri <span style=\"text-decoration: underline;\">değildir</span>?",
+        "SoruMetni": "Aşağıdakilerden hangisi etkili eğitim programı için gerekli unsurlardan biri <span style=\"text-decoration: underline;\">değildir</span>?",
         "A": "Öğrenme hedeflerinin belirlenmesi",
         "B": "Öğretim stratejilerinin seçimi",
         "C": "Toplumsal bakış açısının benimsenmesi",
@@ -2557,7 +2557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Etkili bir eğitim programı hazırlamak için bir takım alt süreçlerin gerçekleştirilmesi gerekir. Bu alt süreçler sistematik bir şekilde işletildiği takdirde etkili bir eğitim programı tasarlamak mümkündür. Döngüsel bir yaklaşımla sürekli olarak değerlendirme ve iyileştirme gerektiren bu alt süreçler şu şekildedir:<br/> •Öğrenme hedeflerinin belirlenmesi<br/> •İçerik analizi ve organizasyonu<br/> •Öğretim stratejilerinin seçimi<br/> •Teknoloji entegrasyonu<br/> •Öğrenme ortamının tasarımı<br/> •Öğrenci değerlendirmesi<br/> •Sürekli iyileştirme ve adaptasyon"
+        "Aciklama": "Etkili bir eğitim programı hazırlamak için bir takım alt süreçlerin gerçekleştirilmesi gerekir. Bu alt süreçler sistematik bir şekilde işletildiği takdirde etkili bir eğitim programı tasarlamak mümkündür. Döngüsel bir yaklaşımla sürekli olarak değerlendirme ve iyileştirme gerektiren bu alt süreçler şu şekildedir:<br/>•Öğrenme hedeflerinin belirlenmesi<br/>•İçerik analizi ve organizasyonu<br/>•Öğretim stratejilerinin seçimi<br/>•Teknoloji entegrasyonu<br/>•Öğrenme ortamının tasarımı<br/>•Öğrenci değerlendirmesi<br/>•Sürekli iyileştirme ve adaptasyon"
     },
     {
         "SoruID": 3863502,
@@ -2617,11 +2617,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Öğrenme ortamının tasarımı, öğrencilerin eğitim deneyimlerinin başarısını belirleyen kritik bir faktördür. Jonassen’in yapılandırmacı öğrenme ortamları teorisi, etkili bir öğrenme ortamı tasarlamada rehberlik eden önemli bir çerçevedir (Jonassen,<br/> 1999). Yapılandırmacı öğrenme teorisi, öğrenmenin aktif, yapıcı, işbirlikçi ve bağlamsal olduğunu vurgular ve öğrencilerin kendi anlam ve bilgilerini oluşturmalarını teşvik eder. Jonassen, yapılandırmacı öğrenme ortamlarının birkaç temel özelliğini belirtir. Bu özellikler arasında problem tabanlı öğrenme, öğrencilerin aktif katılımı, gerçek dünya<br/> bağlantıları, işbirlikçi öğrenme ve yansıtıcı düşünme yer alır. Etkili bir öğrenme ortamı tasarlarken, bu öğelerin entegrasyonu önemlidir."
+        "Aciklama": "Öğrenme ortamının tasarımı, öğrencilerin eğitim deneyimlerinin başarısını belirleyen kritik bir faktördür. Jonassen’in yapılandırmacı öğrenme ortamları teorisi, etkili bir öğrenme ortamı tasarlamada rehberlik eden önemli bir çerçevedir (Jonassen,<br/>1999). Yapılandırmacı öğrenme teorisi, öğrenmenin aktif, yapıcı, işbirlikçi ve bağlamsal olduğunu vurgular ve öğrencilerin kendi anlam ve bilgilerini oluşturmalarını teşvik eder. Jonassen, yapılandırmacı öğrenme ortamlarının birkaç temel özelliğini belirtir. Bu özellikler arasında problem tabanlı öğrenme, öğrencilerin aktif katılımı, gerçek dünya<br/>bağlantıları, işbirlikçi öğrenme ve yansıtıcı düşünme yer alır. Etkili bir öğrenme ortamı tasarlarken, bu öğelerin entegrasyonu önemlidir."
     },
     {
         "SoruID": 3863523,
-        "SoruMetni": "\"________, öğrenenlerin olaylara aktif olarak katılarak ve bunları yansıtarak bilgi edindiklerini ileri sürer.  ________, pekiştirme ve koşullandırma kavramlarına önem vererek davranıştaki gözle görülür değişikliklerin incelenmesine odaklanır. Öte yandan ________, hafıza ve problem çözme gibi öğrenmeyle ilgili bilişsel süreçleri araştırır.\"<br/> Yukarıdaki paragraftaki boşluklara hangi seçenekteki kavramlar gelirse paragraf doğru ve anlamlı bir bilgi aktarır?",
+        "SoruMetni": "\"________, öğrenenlerin olaylara aktif olarak katılarak ve bunları yansıtarak bilgi edindiklerini ileri sürer. ________, pekiştirme ve koşullandırma kavramlarına önem vererek davranıştaki gözle görülür değişikliklerin incelenmesine odaklanır. Öte yandan ________, hafıza ve problem çözme gibi öğrenmeyle ilgili bilişsel süreçleri araştırır.\"<br/>Yukarıdaki paragraftaki boşluklara hangi seçenekteki kavramlar gelirse paragraf doğru ve anlamlı bir bilgi aktarır?",
         "A": "Aktif öğrenme-Öğrenme stratejileri-Psikoloji",
         "B": "Öğrenme stratejileri-Öğretim stratejileri-Problem tabanlı öğrenme",
         "C": "Yapılandırmacılık-Davranışçılık-Bilişselcilik",
@@ -2657,7 +2657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Spesifik, Ölçülebilir, Ulaşılabilir, İlgi ve Zamana Bağlı anlamına gelen SMART (Specific, Measurable, Achievable, Relevant ve Time-bound) kriterleri, etkili öğrenme hedefleri oluşturmak için çok önemlidir. Ölçülebilir hedefler, öğrenme hedeflerine ulaşılmasını değerlendirmek için gereklidir. Bu, özellikle öğrenci performansını doğrudan gözlemleme becerisinin daha zor olduğu uzaktan eğitimde geçerlidir. Ölçülebilir hedefler, ödevler, testler veya diğer değerlendirme biçimleri aracılığıyla öğrenme çıktılarını değerlendirmek için bir araç sunar(Airasian, 2001)."
+        "Aciklama": "Spesifik, Ölçülebilir, Ulaşılabilir, İlgi ve Zamana Bağlı anlamına gelen SMART (Specific, Measurable, Achievable, Relevant ve Time-bound) kriterleri, etkili öğrenme hedefleri oluşturmak için çok önemlidir. Ölçülebilir hedefler, öğrenme hedeflerine ulaşılmasını değerlendirmek için gereklidir. Bu, özellikle öğrenci performansını doğrudan gözlemleme becerisinin daha zor olduğu uzaktan eğitimde geçerlidir. Ölçülebilir hedefler, ödevler, testler veya diğer değerlendirme biçimleri aracılığıyla öğrenme çıktılarını değerlendirmek için bir araç sunar(Airasian, 2001)."
     },
     {
         "SoruID": 3863525,
@@ -2677,7 +2677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Spesifik, Ölçülebilir, Ulaşılabilir, İlgi ve Zamana<br/> Bağlı anlamına gelen SMART (Specific, Measurable,<br/> Achievable, Relevant ve Time-bound) kriterleri, etkili<br/> öğrenme hedefleri oluşturmak için çok önemlidir.<br/> Eğitim Sistemlerinin Değerlendirilmesi<br/> Spesifik özellikler, eğitmenlerin ve öğrencile-<br/> rin kesin beklentileri net bir şekilde anlamalarını<br/> sağlar. Belirsiz ya da aşırı genel hedefler kafa karı-<br/> şıklığına ve öğretim taktikleri ile öğrenci beklen-<br/> tileri arasında anlaşma eksikliğine neden olabilir<br/> (Gronlund, 2004).<br/> Ölçülebilir hedefler, öğrenme hedeflerine ula-<br/> şılmasını değerlendirmek için gereklidir. Bu, özel-<br/> likle öğrenci performansını doğrudan gözlemleme<br/> becerisinin daha zor olduğu uzaktan eğitimde ge-<br/> çerlidir. Ölçülebilir hedefler, ödevler, testler veya<br/> diğer değerlendirme biçimleri aracılığıyla öğren-<br/> me çıktılarını değerlendirmek için bir araç sunar<br/> (Airasian, 2001).<br/> Ulaşılabilirliğin sağlanması, öğrenme hedef-<br/> lerinin öğrencilerin mevcut bilgi ve becerileri göz<br/> önünde bulundurularak ulaşılabilir olmasını ga-<br/> ranti altına almak için çok önemlidir. Ulaşılamaz<br/> hedefler belirlemek sinirlenme ve ilgisizlik duygu-<br/> larına yol açabilir (Driscoll &amp; Carliner, 2005).<br/> İlgi düzeyinin sağlanması, öğretilen içeriğin<br/> kurs veya programın genel hedefleriyle uyumlu ol-<br/> masını sağlamak açısından hayati önem taşır. Açık<br/> ve çevrimiçi eğitimde, öğrencilerin öğrendikleri ile<br/> bunların kişisel ya da mesleki yaşamlarına doğru-<br/> dan uygulanabilirliği arasındaki uyum son derece<br/> önemlidir (Moore ve ark., 2011).<br/> Zamana bağlı hedefler, öğrenme hedeflerine<br/> ulaşmak için kesin bir zaman çizelgesi oluşturur.<br/> Bu faktör, uzaktan eğitimde yaygın olarak görülen<br/> kendi hızında öğrenme ortamlarında, öğrencilerin<br/> ilerlemesini ve motivasyonunu sürdürmeye yar-<br/> dımcı olduğu için büyük önem taşır (Simonson,<br/> Smaldino ve Zvacek, 2015)."
+        "Aciklama": "Spesifik, Ölçülebilir, Ulaşılabilir, İlgi ve Zamana<br/>Bağlı anlamına gelen SMART (Specific, Measurable,<br/>Achievable, Relevant ve Time-bound) kriterleri, etkili<br/>öğrenme hedefleri oluşturmak için çok önemlidir.<br/>Eğitim Sistemlerinin Değerlendirilmesi<br/>Spesifik özellikler, eğitmenlerin ve öğrencile-<br/>rin kesin beklentileri net bir şekilde anlamalarını<br/>sağlar. Belirsiz ya da aşırı genel hedefler kafa karı-<br/>şıklığına ve öğretim taktikleri ile öğrenci beklen-<br/>tileri arasında anlaşma eksikliğine neden olabilir<br/>(Gronlund, 2004).<br/>Ölçülebilir hedefler, öğrenme hedeflerine ula-<br/>şılmasını değerlendirmek için gereklidir. Bu, özel-<br/>likle öğrenci performansını doğrudan gözlemleme<br/>becerisinin daha zor olduğu uzaktan eğitimde ge-<br/>çerlidir. Ölçülebilir hedefler, ödevler, testler veya<br/>diğer değerlendirme biçimleri aracılığıyla öğren-<br/>me çıktılarını değerlendirmek için bir araç sunar<br/>(Airasian, 2001).<br/>Ulaşılabilirliğin sağlanması, öğrenme hedef-<br/>lerinin öğrencilerin mevcut bilgi ve becerileri göz<br/>önünde bulundurularak ulaşılabilir olmasını ga-<br/>ranti altına almak için çok önemlidir. Ulaşılamaz<br/>hedefler belirlemek sinirlenme ve ilgisizlik duygu-<br/>larına yol açabilir (Driscoll &amp; Carliner, 2005).<br/>İlgi düzeyinin sağlanması, öğretilen içeriğin<br/>kurs veya programın genel hedefleriyle uyumlu ol-<br/>masını sağlamak açısından hayati önem taşır. Açık<br/>ve çevrimiçi eğitimde, öğrencilerin öğrendikleri ile<br/>bunların kişisel ya da mesleki yaşamlarına doğru-<br/>dan uygulanabilirliği arasındaki uyum son derece<br/>önemlidir (Moore ve ark., 2011).<br/>Zamana bağlı hedefler, öğrenme hedeflerine<br/>ulaşmak için kesin bir zaman çizelgesi oluşturur.<br/>Bu faktör, uzaktan eğitimde yaygın olarak görülen<br/>kendi hızında öğrenme ortamlarında, öğrencilerin<br/>ilerlemesini ve motivasyonunu sürdürmeye yar-<br/>dımcı olduğu için büyük önem taşır (Simonson,<br/>Smaldino ve Zvacek, 2015)."
     },
     {
         "SoruID": 3863526,
@@ -2697,7 +2697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Donald Kirkpatrick tarafından geliştirilen bu model, eğitim programlarının etkinliğini dört düzeyde değerlendirir: tepki, öğrenme, davranış ve sonuçlar (Kirkpatrick, 1959).<br/> •Tepki: Bu düzey, katılımcıların eğitim programına verdikleri tepkileri ölçer. Eğitimin keyifli ve faydalı olup olmadığının değerlendirilmesi bu aşamada gerçekleşir.<br/> •Öğrenme: Burada, eğitimin bilgi, beceri ve tutumları nasıl etkilediğini ölçmek amaçlanır. Genellikle sınavlar, testler ve gözlemler yoluyla değerlendirilir.<br/> •Davranış: Bu düzey, eğitimin katılımcıların iş yerindeki davranışlarına nasıl yansıdığını inceler. Uygulamalı değişikliklerin gözlemlenmesi esastır.<br/> •Sonuçlar: Eğitimin genel iş hedefleri ve sonuçları üzerindeki etkisi bu aşamada değerlendirilir. Örneğin satışlardaki artış oranı veya müşteri memnuniyetindeki iyileşmeler gibi."
+        "Aciklama": "Donald Kirkpatrick tarafından geliştirilen bu model, eğitim programlarının etkinliğini dört düzeyde değerlendirir: tepki, öğrenme, davranış ve sonuçlar (Kirkpatrick, 1959).<br/>•Tepki: Bu düzey, katılımcıların eğitim programına verdikleri tepkileri ölçer. Eğitimin keyifli ve faydalı olup olmadığının değerlendirilmesi bu aşamada gerçekleşir.<br/>•Öğrenme: Burada, eğitimin bilgi, beceri ve tutumları nasıl etkilediğini ölçmek amaçlanır. Genellikle sınavlar, testler ve gözlemler yoluyla değerlendirilir.<br/>•Davranış: Bu düzey, eğitimin katılımcıların iş yerindeki davranışlarına nasıl yansıdığını inceler. Uygulamalı değişikliklerin gözlemlenmesi esastır.<br/>•Sonuçlar: Eğitimin genel iş hedefleri ve sonuçları üzerindeki etkisi bu aşamada değerlendirilir. Örneğin satışlardaki artış oranı veya müşteri memnuniyetindeki iyileşmeler gibi."
     },
     {
         "SoruID": 3863527,
@@ -2717,6 +2717,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "CIPP (Context, Input, Process, Product) Modeli, Daniel Stufflebeam tarafından geliştirilmiştir ve program değerlendirmesi için kapsamlı bir çerçeve sunar (Stufflebeam, 2003).<br/> •Bağlam: Programın ihtiyaçlarını ve hedeflerini belirlemek için bağlam analizi yapılır.<br/> •Girdi: Kaynakların, stratejilerin ve planların etkinliği değerlendirilir.<br/> •Süreç: Programın nasıl uygulandığını ve işletildiğini inceleyerek süreçlerinetkinliği değerlendirilir.<br/> •Ürün: Programın sonuçlarını ve etkilerini değerlendirir."
+        "Aciklama": "CIPP (Context, Input, Process, Product) Modeli, Daniel Stufflebeam tarafından geliştirilmiştir ve program değerlendirmesi için kapsamlı bir çerçeve sunar (Stufflebeam, 2003).<br/>•Bağlam: Programın ihtiyaçlarını ve hedeflerini belirlemek için bağlam analizi yapılır.<br/>•Girdi: Kaynakların, stratejilerin ve planların etkinliği değerlendirilir.<br/>•Süreç: Programın nasıl uygulandığını ve işletildiğini inceleyerek süreçlerinetkinliği değerlendirilir.<br/>•Ürün: Programın sonuçlarını ve etkilerini değerlendirir."
     }
 ]

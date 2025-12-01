@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 107687,
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 107720,
@@ -54,11 +56,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 110917,
-        "SoruMetni": "I.   Zoom halkası bütün lenslerde bulunmaktadır.<br/> <br/>II.  Lensin üzerinde örneğin 18-55 mm gibi iki değer varsa bu lens değişken odaklı bir objektiftir ve zoom halkası  vardır.<br> <br/>III. Lenste tek bir açı değeri varsa bu lens sabit odaklı bir objektiftir ve zoom halkası bulunmamaktadır.<br> <br/><strong>Zoom halkası ile ilgili olarak yukarıdakilerden hangisi ya da hangileri <u>yanlıştır</u>?</strong></br></br>",
+        "SoruMetni": "I. Zoom halkası bütün lenslerde bulunmaktadır.<br/>II. Lensin üzerinde örneğin 18-55 mm gibi iki değer varsa bu lens değişken odaklı bir objektiftir ve zoom halkası vardır.<br/>III. Lenste tek bir açı değeri varsa bu lens sabit odaklı bir objektiftir ve zoom halkası bulunmamaktadır.<br/><strong>Zoom halkası ile ilgili olarak yukarıdakilerden hangisi ya da hangileri <u>yanlıştır</u>?</strong></br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -73,11 +76,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 110935,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi bataryayı daha verimli kullanmak için alınması gereken önlemlerden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi bataryayı daha verimli kullanmak için alınması gereken önlemlerden biri <u>değildir</u>?</strong>",
         "A": "Gereksiz yere flaş kullanmaktan sakınmak",
         "B": "Makineyi gereğinden fazla şarj etmekten kaçınmak",
         "C": "Çekilen video ve fotoğrafları makineden tekrar tekrar izlemek",
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 118347,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 118348,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 118349,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 118350,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 118353,
@@ -187,11 +196,12 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 118355,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi fotoğraf makinesinin gövde bölümünde <u>yer almaz</u>?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi fotoğraf makinesinin gövde bölümünde <u>yer almaz</u>?</strong>",
         "A": "Lens çıkarma düğmesi",
         "B": "İnfo düğmesi",
         "C": "Vibrasyon düğmesi",
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 118357,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 118358,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 118359,
@@ -263,7 +276,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 118360,
@@ -282,7 +296,8 @@
         "GelYer": 2,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 155813,
@@ -301,7 +316,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 155814,
@@ -320,7 +336,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 155815,
@@ -339,7 +356,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 155816,
@@ -358,7 +376,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 155820,
@@ -377,7 +396,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 155822,
@@ -396,7 +416,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 155825,
@@ -415,7 +436,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 155826,
@@ -434,7 +456,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 326166,
@@ -453,7 +476,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 327708,
@@ -472,7 +496,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 327716,
@@ -491,13 +516,14 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 331141,
         "SoruMetni": "<strong>Fotoğraf makinesinin ana yapısını oluşturan iki mekanizma aşağıdakilerden hangisidir?</strong>",
         "A": "Objektif ve gövde",
-        "B": "Batarya ve mod kadranı",
+        "B": "Batarya ve mod kadranı",
         "C": "Vizör ve flaş kızağı",
         "D": "Deklanşör ve hafıza kartı",
         "E": "LCD ekran ve zoom halkası",
@@ -510,11 +536,12 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 331147,
-        "SoruMetni": "I.   Netlik kilitleme düğmesi<br/> <br/>II.  Hafıza kartı<br> <br/>III. Objektif (lens) değerleri<br> <br/>IV. Vibrasyon düğmesi<br> <br/><strong>Yukarıdakilerden hangileri objektif üzerinde bulunan mekanizmalar arasında yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. Netlik kilitleme düğmesi<br/>II. Hafıza kartı<br/>III. Objektif (lens) değerleri<br/>IV. Vibrasyon düğmesi<br/><strong>Yukarıdakilerden hangileri objektif üzerinde bulunan mekanizmalar arasında yer alır?</strong></br></br></br>",
         "A": "I ve II",
         "B": "II ve III",
         "C": "I, II ve IV",
@@ -529,7 +556,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 363147,
@@ -548,7 +576,8 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 364683,
@@ -567,6 +596,7 @@
         "GelYer": 1,
         "DersId": 399,
         "OBSDersId": 39202,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     }
 ]

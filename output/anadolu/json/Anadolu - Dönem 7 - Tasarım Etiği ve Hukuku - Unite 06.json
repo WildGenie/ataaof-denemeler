@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tescil edilmiş bir markanın koruma süresi 10 yıldır. Tescil edilmiş bir markanın koruma süresi 10 yıldır. Koruma süresi 10 yıl sonra tekrar bir 10 yıl uzatılabilir."
+        "Aciklama": "Tescil edilmiş bir markanın koruma süresi 10 yıldır. Tescil edilmiş bir markanın koruma süresi 10 yıldır. Koruma süresi 10 yıl sonra tekrar bir 10 yıl uzatılabilir."
     },
     {
         "SoruID": 3839712,
@@ -242,7 +242,7 @@
     {
         "SoruID": 3839715,
         "SoruMetni": "Aşağıdakilerden hangisi yabancı dildeki sözcüklerin marka olarak tescil edilmesi ile ilgili doğru bir ifadedir?",
-        "A": "Yalnızca Türkçe karşılığı olmayanlar tescil edilebilir.<br data-end=\"2263\" data-start=\"2260\"/><br/>",
+        "A": "Yalnızca Türkçe karşılığı olmayanlar tescil edilebilir.<br data-end=\"2263\" data-start=\"2260\"/>",
         "B": "Yabancı kelimeler gıda sektöründe daima kabul edilir.",
         "C": "Ayırt edici oldukları ve kamu düzenine aykırı olmadıkları sürece tescil edilebilir.",
         "D": "Sadece tanımlayıcı anlam taşıyanlar kabul edilir.",

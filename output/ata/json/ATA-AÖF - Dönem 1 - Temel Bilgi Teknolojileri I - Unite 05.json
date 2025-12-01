@@ -16,7 +16,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376276,
@@ -35,7 +36,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376277,
@@ -54,15 +56,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376278,
-        "SoruMetni": "<strong>Word programı karşılama ekranının yardımıyla aşağıdakilerden hangisi <u>yapılamaz</u>?</strong><br/>",
-        "A": "Boş belge açılabilir.<br/>",
-        "B": "Var olan belge açılabilir.<br/>",
-        "C": "Hazır şablonlar kullanılabilir.<br/> <br/><br> <br/> </br>",
-        "D": "Belge yazdırılabilir.<br/>",
+        "SoruMetni": "<strong>Word programı karşılama ekranının yardımıyla aşağıdakilerden hangisi <u>yapılamaz</u>?</strong>",
+        "A": "Boş belge açılabilir.",
+        "B": "Var olan belge açılabilir.",
+        "C": "Hazır şablonlar kullanılabilir.<br/></br>",
+        "D": "Belge yazdırılabilir.",
         "E": "Word seçeneklerine erişilebilir.",
         "DogruCevap": "D",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -73,15 +76,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376279,
-        "SoruMetni": "<strong>Word seçenekleri penceresi kullanılarak aşağıdakilerden hangisi <u>yapılamaz</u>?</strong><br/>",
-        "A": "Gizlilik ayarları düzenlenebilir.<br/>",
-        "B": "Şerit otomatik gizlenebilir.<br/>",
-        "C": "Yazım denetleme ayarları yapılabilir.<br/>",
-        "D": "Yazdırma seçenekleri belirlenebilir.<br/>",
+        "SoruMetni": "<strong>Word seçenekleri penceresi kullanılarak aşağıdakilerden hangisi <u>yapılamaz</u>?</strong>",
+        "A": "Gizlilik ayarları düzenlenebilir.",
+        "B": "Şerit otomatik gizlenebilir.",
+        "C": "Yazım denetleme ayarları yapılabilir.",
+        "D": "Yazdırma seçenekleri belirlenebilir.",
         "E": "Belgeye parola eklenebilir.",
         "DogruCevap": "E",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -92,15 +96,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376280,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi Word 2021 Dosya menüsünde yer <u>almaz</u>?</strong><br/>",
-        "A": "Erişim kolaylığı<br/>",
-        "B": "Bilgi<br/>",
-        "C": "Farklı kaydet<br/>",
-        "D": "Geçmiş<br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi Word 2021 Dosya menüsünde yer <u>almaz</u>?</strong>",
+        "A": "Erişim kolaylığı",
+        "B": "Bilgi",
+        "C": "Farklı kaydet",
+        "D": "Geçmiş",
         "E": "Yazdır",
         "DogruCevap": "A",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -111,15 +116,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376281,
-        "SoruMetni": "<strong>Word 2021’de Dosya menüsünde yer alan Belgeyi Koru seçeneği kullanılarak aşağıdakilerden hangisi <u>yapılamaz</u>?</strong><br/>",
-        "A": "Parola ile şifreleme<br/>",
-        "B": "Belgeyi inceleme<br/>",
-        "C": "Dijital imza ekleme<br/>",
-        "D": "Erişimi kısıtlama<br/>",
+        "SoruMetni": "<strong>Word 2021’de Dosya menüsünde yer alan Belgeyi Koru seçeneği kullanılarak aşağıdakilerden hangisi <u>yapılamaz</u>?</strong>",
+        "A": "Parola ile şifreleme",
+        "B": "Belgeyi inceleme",
+        "C": "Dijital imza ekleme",
+        "D": "Erişimi kısıtlama",
         "E": "Düzenlemeyi kısıtlama",
         "DogruCevap": "B",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376282,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376283,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376284,
@@ -187,11 +196,12 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376662,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi kelime işlemci yazılımlarından biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi kelime işlemci yazılımlarından biri <u>değildir</u>?</strong>",
         "A": "Google Sheets",
         "B": "LibreOffice Writer",
         "C": "Calligra",
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376663,
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376665,
@@ -244,15 +256,16 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376668,
-        "SoruMetni": "<strong>Word 2021’de Dosya menüsünde yer alan Belgeyi Koru seçeneği kullanılarak aşağıdakilerden hangisi yapılabilir?</strong><br/>",
-        "A": "Belgeyi inceleme<br/>",
-        "B": "Dijital imza ekleme<br/>",
-        "C": "Erişebilirliği denetleme<br/>",
-        "D": "Uyumluluğu denetleme<br/>",
+        "SoruMetni": "<strong>Word 2021’de Dosya menüsünde yer alan Belgeyi Koru seçeneği kullanılarak aşağıdakilerden hangisi yapılabilir?</strong>",
+        "A": "Belgeyi inceleme",
+        "B": "Dijital imza ekleme",
+        "C": "Erişebilirliği denetleme",
+        "D": "Uyumluluğu denetleme",
         "E": "Belgeyi paylaşma",
         "DogruCevap": "B",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -263,7 +276,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376669,
@@ -282,7 +296,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376671,
@@ -301,7 +316,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 392889,
@@ -320,11 +336,12 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 392989,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi kelime işlemci programlarından biri olan LibreOffice Writer'ın temel özelliklerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi kelime işlemci programlarından biri olan LibreOffice Writer'ın temel özelliklerinden biri <u>değildir</u>?</strong>",
         "A": "Varsayılan “odt” dosya biçiminin yanı sıra “docx”, “rtf” gibi biçimleri destekler.",
         "B": "İki belgeyi karşılaştırabilir ve değişiklikleri izleyebilir.",
         "C": "HTML ve XHTML belgelerini düzenleyebilir.",
@@ -339,6 +356,7 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     }
 ]

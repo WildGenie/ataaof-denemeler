@@ -32,6 +32,22 @@
         "QuestionNumber": 2
     },
     {
+        "QuestionId": 3863370,
+        "UniteNo": 3,
+        "PageNumber": 77,
+        "AnswerExplanation": "<p>ADDIE Modeli</p> <p style=\"text-align: justify;\">Çekirdek öğretim tasarımı modelleri arasında yer alan ve dünyada en yaygın olarak kullanılan öğretim tasarımı modeli, 1975 yılında geliştirilen ADDIE öğretim tasarımı modelidir.</p>",
+        "Title": "<p>ADDIE Modeli</p>\n<p style=\"text-align: justify;\">Çekirdek öğretim tasarımı modelleri arasında yer alan ve dünyada en yaygın olarak kullanılan öğretim tasarımı modeli, 1975 yılında geliştirilen ADDIE öğretim tasarımı modelidir.</p>",
+        "Text": "<p style=\"text-align: justify;\">Çekirdek öğretim tasarımı modelleri arasında yer alan ve dünyada en yaygın olarak kullanılan öğretim tasarımı modeli aşağıdakilerden hangisinde doğru verilmiştir?<br /><br /></p>",
+        "A": "<p>ADDIE Modeli</p>",
+        "B": "<p>ASSURE Modeli</p>",
+        "C": "<p>Dick, Carey ve Carey Modeli</p>",
+        "D": "<p>Kemp, Morrison ve Ross Modeli</p>",
+        "E": "<p>Gerlach ve Ely Modeli</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 3
+    },
+    {
         "QuestionId": 3863371,
         "UniteNo": 3,
         "PageNumber": 82,
@@ -46,22 +62,6 @@
         "CorrectAnswer": "D",
         "UserAnswer": null,
         "QuestionNumber": 4
-    },
-    {
-        "QuestionId": 3863372,
-        "UniteNo": 3,
-        "PageNumber": 81,
-        "AnswerExplanation": "<p style=\"text-align: justify;\">Dick, Carey ve Carey Modeli</p> <p style=\"text-align: justify;\">Öğrenme sürecinde öğretenin bir moderatör ve iletişimi başlatan kişi olduğu ve öğretim hedeflerinin oluşturulmasından ve tüm bu hedeflere nasıl ulaşılacağının adım adım belirlendiği doğrusal bir öğretim tasarımı modelidir. Davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkiler barındırdığı kabul edilen modelin (Dick, Carey veCarey, 2001) web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulduğu bilinmektedir. Dick, Carey ve Carey modeli, öğretim tasarımı sürecinin ilk adımdan son adıma kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu bir modeldir.</p>",
-        "Title": "<p style=\"text-align: justify;\">Dick, Carey ve Carey Modeli; öğrenme sürecinde öğretenin bir moderatör ve iletişimi başlatan kişi olduğu ve öğretim hedeflerinin oluşturulmasından ve tüm bu hedeflere nasıl ulaşılacağının adım adım belirlendiği doğrusal bir öğretim tasarımı modelidir. Davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkiler barındırdığı kabul edilen modelin (Dick, Carey veCarey, 2001) web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulduğu bilinmektedir. Dick, Carey ve Carey modeli, öğretim tasarımı sürecinin ilk adımdan son adıma kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu bir modeldir.</p>",
-        "Text": "<p style=\"text-align: justify;\">Öğretim tasarımı sürecinin ilk adımından son adımına kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu,  davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkilenen, web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulan öğretim tasarımı modeli aşağıdakilerden hangisidir?</p>",
-        "A": "<p>Kemp, Morrison ve Ross Modeli</p>",
-        "B": "<p>Gerlach ve Ely Modeli</p>",
-        "C": "<p>Dört Boyutlu Öğretim Tasarım Modeli</p>",
-        "D": "<p>Hızlı Prototipleme Öğretim Tasarımı<br />Modeli</p>",
-        "E": "<p>Dick, Carey ve Carey Modeli</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
     },
     {
         "QuestionId": 3863373,
@@ -205,7 +205,7 @@
         "E": "<p>Ölçme ve değerlendirme tekniklerini seç.</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 14
+        "QuestionNumber": 13
     },
     {
         "QuestionId": 3863645,
@@ -221,7 +221,7 @@
         "E": "<p>Eğitsel gereksinim analiziyle süreci başlatan yapı</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 15
+        "QuestionNumber": 14
     },
     {
         "QuestionId": 3863646,
@@ -237,7 +237,7 @@
         "E": "<p>Amaçları yaz</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 16
+        "QuestionNumber": 15
     },
     {
         "QuestionId": 3863647,
@@ -253,7 +253,7 @@
         "E": "<p>Öğretim çözümlemesi yapma     </p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 17
+        "QuestionNumber": 16
     },
     {
         "QuestionId": 3863648,
@@ -320,19 +320,19 @@
         "QuestionNumber": 20
     },
     {
-        "QuestionId": 3863370,
+        "QuestionId": 3863372,
         "UniteNo": 3,
-        "PageNumber": 77,
-        "AnswerExplanation": "<p>ADDIE Modeli</p> <p style=\"text-align: justify;\">Çekirdek öğretim tasarımı modelleri arasında yer alan ve dünyada en yaygın olarak kullanılan öğretim tasarımı modeli, 1975 yılında geliştirilen ADDIE öğretim tasarımı modelidir.</p>",
-        "Title": "<p>ADDIE Modeli</p>\n<p style=\"text-align: justify;\">Çekirdek öğretim tasarımı modelleri arasında yer alan ve dünyada en yaygın olarak kullanılan öğretim tasarımı modeli, 1975 yılında geliştirilen ADDIE öğretim tasarımı modelidir.</p>",
-        "Text": "<p style=\"text-align: justify;\">Çekirdek öğretim tasarımı modelleri arasında yer alan ve dünyada en yaygın olarak kullanılan öğretim tasarımı modeli aşağıdakilerden hangisinde doğru verilmiştir?<br /><br /></p>",
-        "A": "<p>ADDIE Modeli</p>",
-        "B": "<p>ASSURE Modeli</p>",
-        "C": "<p>Dick, Carey ve Carey Modeli</p>",
-        "D": "<p>Kemp, Morrison ve Ross Modeli</p>",
-        "E": "<p>Gerlach ve Ely Modeli</p>",
-        "CorrectAnswer": "A",
+        "PageNumber": 81,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Dick, Carey ve Carey Modeli</p> <p style=\"text-align: justify;\">Öğrenme sürecinde öğretenin bir moderatör ve iletişimi başlatan kişi olduğu ve öğretim hedeflerinin oluşturulmasından ve tüm bu hedeflere nasıl ulaşılacağının adım adım belirlendiği doğrusal bir öğretim tasarımı modelidir. Davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkiler barındırdığı kabul edilen modelin (Dick, Carey veCarey, 2001) web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulduğu bilinmektedir. Dick, Carey ve Carey modeli, öğretim tasarımı sürecinin ilk adımdan son adıma kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu bir modeldir.</p>",
+        "Title": "<p style=\"text-align: justify;\">Dick, Carey ve Carey Modeli; öğrenme sürecinde öğretenin bir moderatör ve iletişimi başlatan kişi olduğu ve öğretim hedeflerinin oluşturulmasından ve tüm bu hedeflere nasıl ulaşılacağının adım adım belirlendiği doğrusal bir öğretim tasarımı modelidir. Davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkiler barındırdığı kabul edilen modelin (Dick, Carey veCarey, 2001) web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulduğu bilinmektedir. Dick, Carey ve Carey modeli, öğretim tasarımı sürecinin ilk adımdan son adıma kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu bir modeldir.</p>",
+        "Text": "<p style=\"text-align: justify;\">Öğretim tasarımı sürecinin ilk adımından son adımına kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu,  davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkilenen, web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulan öğretim tasarımı modeli aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Kemp, Morrison ve Ross Modeli</p>",
+        "B": "<p>Gerlach ve Ely Modeli</p>",
+        "C": "<p>Dört Boyutlu Öğretim Tasarım Modeli</p>",
+        "D": "<p>Hızlı Prototipleme Öğretim Tasarımı<br />Modeli</p>",
+        "E": "<p>Dick, Carey ve Carey Modeli</p>",
+        "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 3
+        "QuestionNumber": 5
     }
 ]

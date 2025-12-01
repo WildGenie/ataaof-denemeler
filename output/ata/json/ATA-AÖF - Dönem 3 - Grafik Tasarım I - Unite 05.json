@@ -2,7 +2,7 @@
     {
         "SoruID": 321770,
         "SoruMetni": "<strong>Aşağıdakilerden hangisi grafik bir simge <u>değildir</u>?</strong>",
-        "A": "Park yapılma tabelası\r<br/>",
+        "A": "Park yapılma tabelası",
         "B": "Yazı",
         "C": "Tuğra",
         "D": "Fotoğraf",
@@ -16,7 +16,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 321774,
@@ -35,7 +36,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 321779,
@@ -54,7 +56,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 321782,
@@ -73,11 +76,12 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 321783,
-        "SoruMetni": "……………. sadece harf veya sözcüklerden oluşur.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "……………. sadece harf veya sözcüklerden oluşur.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Logo",
         "B": "Amblem",
         "C": "Piktogram",
@@ -92,13 +96,14 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 321784,
-        "SoruMetni": "Logo tasarımında beyin fırtınası düşüncenin …………………………… dönüşmesi sürecidir.<br/> <br/><strong>Yukarıda boş bırakılan alana aşağıdaki ifadelerden hangisinin yerleştirilmesi uygundur?</strong>",
+        "SoruMetni": "Logo tasarımında beyin fırtınası düşüncenin …………………………… dönüşmesi sürecidir.<br/><strong>Yukarıda boş bırakılan alana aşağıdaki ifadelerden hangisinin yerleştirilmesi uygundur?</strong>",
         "A": "‘söz'",
-        "B": "‘yazı ve görüntü’\r<br/>",
+        "B": "‘yazı ve görüntü’",
         "C": "‘kitap’",
         "D": "‘karalama’",
         "E": "‘müzik’",
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 321803,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 321805,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 321807,
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 321809,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 325978,
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 325992,
@@ -225,7 +236,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 326003,
@@ -244,7 +256,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 326006,
@@ -263,7 +276,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 364927,
@@ -282,7 +296,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 367664,
@@ -301,7 +316,8 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 368662,
@@ -320,6 +336,7 @@
         "GelYer": 1,
         "DersId": 509,
         "OBSDersId": 59563,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     }
 ]

@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayısal Tipografi"
+        "Aciklama": "GİRİŞ<br>Sayısal Tipografi"
     },
     {
         "SoruID": 3769632,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotodizgi sonrası bilgisayarın keşfi ile başlamıştır"
+        "Aciklama": "SAYISAL TİPOGRAFİ TEKNOLOJİLERİ<br>Fotodizgi sonrası bilgisayarın keşfi ile başlamıştır"
     },
     {
         "SoruID": 3769633,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Grafik ve yazıların tanınmasına ve çıktı alınmasını sağlayan bir tanımlama dilidir"
+        "Aciklama": "PostScript<br>Grafik ve yazıların tanınmasına ve çıktı alınmasını sağlayan bir tanımlama dilidir"
     },
     {
         "SoruID": 3769634,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayısal tipografinin nasıl şekillendirildiğinin ilk örneklerinin yayınlanmasıdır"
+        "Aciklama": "Emigre Dergisi<br>Sayısal tipografinin nasıl şekillendirildiğinin ilk örneklerinin yayınlanmasıdır"
     },
     {
         "SoruID": 3769635,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Baskerville fontu"
+        "Aciklama": "Mrs Eaves Fontu<br>Baskerville fontu"
     },
     {
         "SoruID": 3769636,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fred Woodward"
+        "Aciklama": "Rolling Stone Dergisi<br>Fred Woodward"
     },
     {
         "SoruID": 3769637,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Grunge Tipografi anlayışı"
+        "Aciklama": "Ray Gun Dergisi<br>Grunge Tipografi anlayışı"
     },
     {
         "SoruID": 3769638,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fuse dergisi"
+        "Aciklama": "Neville Brody<br>Fuse dergisi"
     },
     {
         "SoruID": 3769639,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Futura + Bodoni"
+        "Aciklama": "Max Kisman<br>Futura + Bodoni"
     },
     {
         "SoruID": 3769640,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "19. yüzyıl başında modernizm akımları ile tipografi, içerik ile bağlantı kurmaya başlamıştır. Tipografi sadece bilginin görselleştirilerek okunması ve okutulmasının dışında biçimsel bir gösterge olmuştur. Kullanılan karakterler düşünce ve fikirleri ifade etmenin bir yolu olarak kullanılmıştır. Doğru yanıt A'dır."
+        "Aciklama": "19. yüzyıl başında modernizm akımları ile tipografi, içerik ile bağlantı kurmaya başlamıştır. Tipografi sadece bilginin görselleştirilerek okunması ve okutulmasının dışında biçimsel bir gösterge olmuştur. Kullanılan karakterler düşünce ve fikirleri ifade etmenin bir yolu olarak kullanılmıştır. Doğru yanıt A'dır."
     },
     {
         "SoruID": 3769753,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayısal tipografi terimi masaüstü yayıncılığın keşfi ile dillendirilmeye başlanmıştır. Harflerin sayısallaşması (dijital) tipografinin içerik ile olan bağlantısını güçlendirmek adına yeni olanaklar sağlamıştır. Doğru yanıt E'dir."
+        "Aciklama": "Sayısal tipografi terimi masaüstü yayıncılığın keşfi ile dillendirilmeye başlanmıştır. Harflerin sayısallaşması (dijital) tipografinin içerik ile olan bağlantısını güçlendirmek adına yeni olanaklar sağlamıştır. Doğru yanıt E'dir."
     },
     {
         "SoruID": 3769754,
@@ -257,7 +257,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayısal baskı teknikleri ve tipografinin sayısallaşması temelde mürekkebin gelmesini istediğiniz yerlere \"1\", boş kalacak alanlara \"0\" dizilerek sayfa tasarımının yapılmasına dayanmaktadır. Doğru yanıt B'dir."
+        "Aciklama": "Sayısal baskı teknikleri ve tipografinin sayısallaşması temelde mürekkebin gelmesini istediğiniz yerlere \"1\", boş kalacak alanlara \"0\" dizilerek sayfa tasarımının yapılmasına dayanmaktadır. Doğru yanıt B'dir."
+    },
+    {
+        "SoruID": 3769755,
+        "SoruMetni": "Vektör yazı karakteri oluşturma teknolojilerinden biri olan Postscript hangi teknoloji firması tarafından geliştirilmiştir?",
+        "A": "Adobe",
+        "B": "Mac",
+        "C": "Apple",
+        "D": "Google",
+        "E": "Metafont",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 3,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:47.038852",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "En önemli vektör yazı karakteri oluşturma teknolojileri arasında gösterilen Postscript, Adobe tarafından geliştirilmiştir. Doğru yanıt A'dır."
     },
     {
         "SoruID": 3769756,
@@ -465,7 +485,7 @@
         "A": "Bitmap font",
         "B": "QR Type font",
         "C": "OpenType font",
-        "D": "TrueType  font",
+        "D": "TrueType font",
         "E": "Postscript font",
         "DogruCevap": "A",
         "DersAd": "Tipografi",
@@ -581,7 +601,7 @@
     },
     {
         "SoruID": 3769856,
-        "SoruMetni": "\"<span style=\"text-decoration: underline;\"><strong>...</strong> </span> Tipografi, sayısal dönemin gereksindiği görsel değerleri ve bilgisayarın bu süreçteki etkilerini de içeren yaratıcı ve yenilikçi font tasarımları ve tipografi anlayışıdır\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"<span style=\"text-decoration: underline;\"><strong>...</strong> </span> Tipografi, sayısal dönemin gereksindiği görsel değerleri ve bilgisayarın bu süreçteki etkilerini de içeren yaratıcı ve yenilikçi font tasarımları ve tipografi anlayışıdır\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Sayısal",
         "B": "Metal",
         "C": "Mekanik",
@@ -617,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>En önemli vektör yazı karakteri oluşturma teknolojileri arasında Adobe tarafından geliştirilen <strong>Postscript</strong>; Apple tarafından geliştirilen <strong>TrueType</strong>; ve Stanford bilgisayar bilimcisi Dr. Donald Knuth tarafından icat edilen <strong>Metafont</strong> gösterilebilir. Belirli zamanlarda ve özelliklerde kullanıma sunulan bu <strong>yazılım</strong>lardan postscript baskı endüstrisinde, Metafont akademik çevrelerde TrueType ise digital font teknolojisinin ilerlemesinin büyük kısmının gerçekleştiği bir paya sahiptir.<br/><br/><br/><br/><br/><br/><br/><br/>"
+        "Aciklama": "<br/>En önemli vektör yazı karakteri oluşturma teknolojileri arasında Adobe tarafından geliştirilen <strong>Postscript</strong>; Apple tarafından geliştirilen <strong>TrueType</strong>; ve Stanford bilgisayar bilimcisi Dr. Donald Knuth tarafından icat edilen <strong>Metafont</strong> gösterilebilir. Belirli zamanlarda ve özelliklerde kullanıma sunulan bu <strong>yazılım</strong>lardan postscript baskı endüstrisinde, Metafont akademik çevrelerde TrueType ise digital font teknolojisinin ilerlemesinin büyük kısmının gerçekleştiği bir paya sahiptir."
     },
     {
         "SoruID": 3769858,
@@ -641,7 +661,7 @@
     },
     {
         "SoruID": 3769859,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Kişisel bilgisayarların kullanımıyla baskıya hazırlık süreçlerini kolaylaştırmayı sağlayan, tasarımcıların çalışmalarını “Ne Görürsen Onu Alırsın” mantığıyla doğrudan yazıcılara ulaştırabilecekleri bir ortam içinde harf formları ve diğer görsel unsurlarla çalıştıkları yayıncılık faaliyetlerine ne ad verilir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Kişisel bilgisayarların kullanımıyla baskıya hazırlık süreçlerini kolaylaştırmayı sağlayan, tasarımcıların çalışmalarını “Ne Görürsen Onu Alırsın” mantığıyla doğrudan yazıcılara ulaştırabilecekleri bir ortam içinde harf formları ve diğer görsel unsurlarla çalıştıkları yayıncılık faaliyetlerine ne ad verilir?",
         "A": "Sayfa düzeni",
         "B": "Uluslararası karakterler",
         "C": "Yazı karakterleri",
@@ -657,11 +677,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><strong>Masaüstü yayıncılık</strong>, kişisel bilgisayarların kullanımıyla baskıya hazırlık süreçlerini kolaylaştırmayı sağlayan, tasarımcıların çalışmalarını “Ne Görürsen Onu Alırsın” mantığıyla doğrudan yazıcılara ulaştırabilecekleri bir ortam içinde harf formları ve diğer görsel unsurlarla çalıştıkları yayıncılık faaliyetlerini ifade etmektedir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><strong>Masaüstü yayıncılık</strong>, kişisel bilgisayarların kullanımıyla baskıya hazırlık süreçlerini kolaylaştırmayı sağlayan, tasarımcıların çalışmalarını “Ne Görürsen Onu Alırsın” mantığıyla doğrudan yazıcılara ulaştırabilecekleri bir ortam içinde harf formları ve diğer görsel unsurlarla çalıştıkları yayıncılık faaliyetlerini ifade etmektedir."
     },
     {
         "SoruID": 3769860,
-        "SoruMetni": "Rudy Vanderlands ve Zuzana Licko tarafından 1984 yılından 2005 yılına kadar her üç ayda bir olmak üzere  çıkardığı ve sayısal tipografiye getirdiği yenilikleri hem font tasarımlarına hem de sayfa düzenlerine (layout) yansıyan dergi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Rudy Vanderlands ve Zuzana Licko tarafından 1984 yılından 2005 yılına kadar her üç ayda bir olmak üzere çıkardığı ve sayısal tipografiye getirdiği yenilikleri hem font tasarımlarına hem de sayfa düzenlerine (layout) yansıyan dergi aşağıdakilerden hangisidir?",
         "A": "The Face",
         "B": "Arena",
         "C": "Arena Homme+",
@@ -721,7 +741,7 @@
     },
     {
         "SoruID": 3769863,
-        "SoruMetni": "The Face, Arena, Fuse, Arena Homme gibi dergilerin sanat yönetmenliğini yapan, FF Autotrace, FF Digitalogue, FF Dirty, FF Tokyo ve FF Pop gibi birçok sayısal fontun yanı sıra ‘A Rage in Harlem’ filmi afişi için Harlem isimli fontu tasarlayan İngiliz grafik tasarımcı, tipografist ve sanat yönetmeni aşağıdakilerden hangisidir?",
+        "SoruMetni": "The Face, Arena, Fuse, Arena Homme gibi dergilerin sanat yönetmenliğini yapan, FF Autotrace, FF Digitalogue, FF Dirty, FF Tokyo ve FF Pop gibi birçok sayısal fontun yanı sıra ‘A Rage in Harlem’ filmi afişi için Harlem isimli fontu tasarlayan İngiliz grafik tasarımcı, tipografist ve sanat yönetmeni aşağıdakilerden hangisidir?",
         "A": "Erik Spiekerman",
         "B": "David Carson",
         "C": "Neville Brody",
@@ -737,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Neville Brody,</strong> 1957 Londra doğumlu İngiliz grafik tasarımcı, tipografist ve sanat yönetmenidir. Hornsey College ve London College’de eğitimini alan Brody, The Face, Arena, Fuse, Arena Homme gibi dergilerin sanat yönetmenliğini yapmıştır. Brody, FF Autotrace, FF Digitalogue, FF Dirty, FF Tokyo ve FF Pop gibi birçok sayısal fontun yanı sıra  ‘A Rage in Harlem’ filmi afişi için Harlem isimli fontu tasarlamıştır."
+        "Aciklama": "<strong>Neville Brody,</strong> 1957 Londra doğumlu İngiliz grafik tasarımcı, tipografist ve sanat yönetmenidir. Hornsey College ve London College’de eğitimini alan Brody, The Face, Arena, Fuse, Arena Homme gibi dergilerin sanat yönetmenliğini yapmıştır. Brody, FF Autotrace, FF Digitalogue, FF Dirty, FF Tokyo ve FF Pop gibi birçok sayısal fontun yanı sıra ‘A Rage in Harlem’ filmi afişi için Harlem isimli fontu tasarlamıştır."
     },
     {
         "SoruID": 3769864,
@@ -761,12 +781,12 @@
     },
     {
         "SoruID": 3769865,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Helter Skelter aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Helter Skelter aşağıdakilerden hangisidir?",
         "A": "Grafik tasarımcı ve yazar",
-        "B": "<br/> <br/> <br/> <br/>Fransız felsefeci ve göstergebilimci<br/><br/><br/><br/>",
+        "B": "<br/>Fransız felsefeci ve göstergebilimci",
         "C": "Sayısal bir font ismi",
-        "D": "<br/> <br/> <br/> <br/>Çağdaş sanat sergisi<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Amerika  doğumlu tasarımcı ve yazar<br/><br/><br/><br/>",
+        "D": "<br/>Çağdaş sanat sergisi",
+        "E": "<br/>Amerika doğumlu tasarımcı ve yazar",
         "DogruCevap": "D",
         "DersAd": "Tipografi",
         "Unite": 3,
@@ -777,6 +797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><strong>Helter Skelter</strong>, The Beatles’ın Charles Manson’ı motive eden şarkısından adını alan 1990’lardaki L.A. Art, 26 Ocak - 26 Nisan 1992 tarihleri arasında L.A. Museum of Contemporary Art’ta düzenlenen bir çağdaş sanat sergisidir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><strong>Helter Skelter</strong>, The Beatles’ın Charles Manson’ı motive eden şarkısından adını alan 1990’lardaki L.A. Art, 26 Ocak - 26 Nisan 1992 tarihleri arasında L.A. Museum of Contemporary Art’ta düzenlenen bir çağdaş sanat sergisidir."
     }
 ]

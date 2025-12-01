@@ -92,14 +92,14 @@
     - D-) Demotik
     - E-) Brahmi
     ***
-1. **Aşağıdakilerden hangisi yazının başlangıcından günümüze kadar dünya üzerinde ortaya çıkan yazı sistemlerinden biri değildir?**
+1. **Aşağıdakilerden hangisi yazının başlangıcından günümüze kadar dünya üzerinde ortaya çıkan yazı sistemlerinden biri değildir?**
     - A-) Logografik
     - B-) Syllabic (Heceye dayalı / Hece Sistemi Yazısı)
     - C-) Consonantal alfabe veya Ebced (Sessiz harflere dayalı yazı sistemi)
     - **Cevap D-) Piktografik**
     - E-) Segmental alfabe (Bölümlü alfabe)
     ***
-1. **Aşağıdakilerden hangisi ailelere göre yazı sistemlerinden biri değildir?**
+1. **Aşağıdakilerden hangisi ailelere göre yazı sistemlerinden biri değildir?**
     - A-) Çivi Yazısı
     - B-) Mısır Yazısı
     - **Cevap C-) Avrupa Yazısı**
@@ -134,7 +134,7 @@
     - D-) Reklamlar
     - E-) Uzaktan eğitim
     ***
-1. **Hiyeroglifler ile ilgili olarak a****şağıdakilerden hangisi****yanlıştır?**
+1. **Hiyeroglifler ile ilgili olarak a****şağıdakilerden hangisi** **yanlıştır?**
     - A-) "Resimyazı" olarak da adlandırılır.
     - B-) Sümer çiviyazısı ile benzer özellikler taşır.
     - **Cevap C-) Yalnızca kutsal metinlerin yazımında kullanılır.**
@@ -240,7 +240,7 @@
     - D-) Lombardik ve Vizigot stili
     - E-) Rustik yazı
     ***
-1. **Aşağıdakilerden hangisi Roma El Yazısı harflerinden biri değildir?**
+1. **Aşağıdakilerden hangisi Roma El Yazısı harflerinden biri değildir?**
     - A-) Kare kapital harfler
     - B-) Gündelik yazı
     - C-) Uncialler
@@ -254,7 +254,7 @@
     - D-) Vizigot stili
     - E-) Anglo-Sakson stili
     ***
-1. I. İrlanda veya Anglo-Sakson stili<br />II. Merovenj ve Doğu Frenk stili
+1. I. İrlanda veya Anglo-Sakson stili<br />II. Merovenj ve Doğu Frenk stili<br />III. Lombardik ve Vizigot stili<br />**Yukarıdaki ifadelerden hagisi ya da hangileri ulusal el yazısı stillerindendir?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) II ve III
@@ -275,7 +275,7 @@
     - D-) Asur
     - E-) Çin
     ***
-1. **Aşağıdakilerden hangisi hızlı ve kolay yazılabilen yuvarlak majüskül harflerdir?**
+1. **Aşağıdakilerden hangisi hızlı ve kolay yazılabilen yuvarlak majüskül harflerdir?**
     - A-) Gündelik yazı
     - **Cevap B-) Uncialler**
     - C-) Rustik yazı
@@ -358,9 +358,9 @@
     - **Cevap B-) Matbaanın Avrupa’da kullanılmaya başlanmasından 31 Aralık 1500 gecesine kadar Avrupa‘da basılmış kitaplara verilen addır.**
     - C-) Matbaanın Avrupa’da kullanılmaya başlanmasından önce Çin’de ve Kore’de basılan kitaplara verilen addır.
     - D-) Matbaanın Avrupa’da kullanılmaya başlanmasından önce manastırlarda elle çoğaltılan kitaplara verilen addır.
-    - E-) 9. yüzyıldan 11. yüzyıla kadar Avrupa’ya egemen olan Karolenj minüskül harflerin, 11. yüzyıla gelindiğinde, kuzeyde daha küçük ve darlaştırılmış (condenced) versiyonlarına verilen addır.
+    - E-) 9\. yüzyıldan 11. yüzyıla kadar Avrupa’ya egemen olan Karolenj minüskül harflerin, 11. yüzyıla gelindiğinde, kuzeyde daha küçük ve darlaştırılmış (condenced) versiyonlarına verilen addır.
     ***
-1. **Aşağıdakilerden hangisi Gotik stilin belirgin özelliklerinden biri değildir?**
+1. **Aşağıdakilerden hangisi Gotik stilin belirgin özelliklerinden biri değildir?**
     - A-) Kuzey Avrupa’dan yaygınlaşmıştır.
     - B-) Dar harfler kullanılır.
     - C-) Harflerin iç boşlukları eşittir.
@@ -621,7 +621,7 @@
     - D-) Ahşabın doğal ve geri dönüştürülebilir bir malzeme oluşu
     - E-) Metal kullanımının insan sağlığına zararlı etkisi
     ***
-1. **Aşağıdakilerden hangisi Clarendonların özelliklerinden biri değildir?**
+1. **Aşağıdakilerden hangisi Clarendonların özelliklerinden biri değildir?**
     - A-) Fat Face yazı karakterlerinin metin için uyarlanmış versiyonlarıdır.
     - B-) Küçük boyutlarda x-yükseklikleri artırılmıştır.
     - C-) Alt ve üst uzantıları kısadır.
@@ -691,21 +691,21 @@
     - D-) İngiltere
     - E-) Almanya
     ***
-1. I. Küt Serifliler<br />II. Clarendonlar
+1. I. Küt Serifliler<br />II. Clarendonlar<br />III. Golden Type<br />IV. Ofset Litografi<br />**Yukarıdakilerden hangisi ya da hangileri Sanayi Dönemi yazı karakterlerinden biridir?**
     - A-) Yalnız I
     - B-) I ve II
     - **Cevap C-) I, II ve III**
     - D-) I, II ve IV
     - E-) I, II, III ve IV
     ***
-1. **Aşağıdakilerden hangisi küt seriflilerin özelliklerinden biri****değildir****?**
+1. **Aşağıdakilerden hangisi küt seriflilerin özelliklerinden biri** **değildir****?**
     - A-) Yazı karakterleri öylesine büyük puntolarda kullanılır ki hurufat dökümünde kullanılan kurşun hem çok pahalıya mal olur hem de metal kalıpların ağırlığı başka bir dezavantaj oluşturur.
     - B-) Aşırı harf yüksekliğine ve genişliğine sahiptir.
     - C-) Modern yazı karakterlerinin ince ve kalın çizgileri arasındaki kontrast daha da abartılı hâle gelir.
     - **Cevap D-) Başlık yazı karakteri olan “Fat Face”lerin metin yazı karakteri olarak kullanıma uygun hâle getirilmiştir.**
     - E-) Metal harf kalıplarınından farklı olarak ahşap harf kalıpları “satır” (line) veya “pika” (pica) olarak ölçülendirilir.
     ***
-1. **Arts & Crafts Hareketi’nin öncüsü olan ve Golden Type adını verdiği yazı karakterini tasarlayan kişi aşağıdakilerden hangisidir?**
+1. **Arts & Crafts Hareketi’nin öncüsü olan ve Golden Type adını verdiği yazı karakterini tasarlayan kişi aşağıdakilerden hangisidir?**
     - A-) Theo Van Doesburg
     - B-) Photon Corporation
     - **Cevap C-) William Morris**
@@ -839,19 +839,19 @@
     - **Cevap D-) OpenType**
     - E-) Unicode
     ***
-1. **Apple ilk kuşak Macintosh bilgisayarları hangi yıl üretilmiştir?**
+1. **Apple ilk kuşak Macintosh bilgisayarları hangi yıl üretilmiştir?**
     - A-) 1930
     - **Cevap B-) 1984**
     - C-) 1971
     - D-) 1800
     - E-) 2000
     ***
-1. **Aşağıdakilerden hangisi dijital tanımlama sistemlerinden Postscript Fontu'nun özelliklerinden biri değildir?**
+1. **Aşağıdakilerden hangisi dijital tanımlama sistemlerinden Postscript Fontu'nun özelliklerinden biri değildir?**
     - A-) Masaüstü yayıncılığı mümkün kılan ve “Type 1” olarak da bilinen bir fonttur.
     - B-) 1985 yılında Adobe tarafından geliştirilmiştir.
     - C-) İlk olarak Apple'ın lazer yazıcılarında kullanılmıştır.
     - D-) Sabit boyutlu bitmap dosyasını kullanarak ekrandaki karakterlerin çizilmesini sağlar.
-    - **Cevap E-) Latin alfabesini kullanan dillerin gerektirdiği alternatif karakter ve aksanları barındırır ve aynı zamanda Yunan ve Kiril gibi farklı alfabeleri de kapsamaktadır.**
+    - **Cevap E-) Latin alfabesini kullanan dillerin gerektirdiği alternatif karakter ve aksanları barındırır ve aynı zamanda Yunan ve Kiril gibi farklı alfabeleri de kapsamaktadır.**
     ***
 1. **Vektöre ilişkin bilginin, vektör biçiminin piksellerle doldurulan yazıcıya gönderilmesi işlemine ne ad verilir?**
     - A-) Hinting
@@ -860,7 +860,7 @@
     - D-) OpenType
     - E-) Futura
     ***
-1. **Masaüstü yayıncılık hakkında aşağıdakilerden hangisi yanlıştır?**
+1. **Masaüstü yayıncılık hakkında aşağıdakilerden hangisi yanlıştır?**
     - A-) Masaüstü yayıncılık terimi ilk olarak bu sistemi bulan Aldus, Apple ve Adobe tarafından 1984’te kullanılır.
     - B-) Masaüstü yayıncılık sayesinde asırlardır onlarca kişi tarafından gerçekleştirilen yayıncılık tek bir kişi tarafından yapılabilir hâle gelir.
     - C-) Masaüstü yayıncılık, daktilo ile yazma ve dizgi makinesinde harf kalıpları dizme eylemlerini bir araya getirir.
@@ -952,14 +952,14 @@
     - **Cevap D-) Barry Deck**
     - E-) Joseph A. David
     ***
-1. I. Work Sans<br />II. Canola
+1. I. Work Sans<br />II. Canola<br />III. Breite<br />**Yukarıdakilerden hangisi ya da hangileri Metapolator ile geliştirilen ilk yazı ailelerindendir?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     ***
-1. I. OpenType’ın geliştirilmesi<br />II. Unicode’un geliştirilmesi
+1. I. OpenType’ın geliştirilmesi<br />II. Unicode’un geliştirilmesi<br />III. İnternet kullanımının yaygınlaşması<br />IV. Baskı teknolojilerinin geliştirilmesi<br />**Yukarıdaki ifadelerden hangileri 20. yüzyılın sonunda tipografi alanında görülen değişimlerdendir?**
     - A-) Yalnız I
     - B-) I ve III
     - **Cevap C-) I, II ve III**
@@ -973,7 +973,7 @@
     - D-) Sayılar
     - E-) Noktalama işaretleri
     ***
-1. I. Work Sans<br />II. Canola
+1. I. Work Sans<br />II. Canola<br />III. Breite<br />**Yukarıdaki ifadelerden hangisi ya da hangileri metapolator ile geliştirilen ilk yazı ailelerindendir?**
     - A-) Yalnız I
     - B-) I ve II
     - C-) I ve III
@@ -1000,4 +1000,774 @@
     - C-) “Anti-alised”
     - D-) Bitmap
     - **Cevap E-) Bézier**
+    ***
+## Unite 8
+1. **Aşağıdakilerden hangisi yazı karakterlerinin çeşitlenmesine neden olarak gösterilemez?**
+    - A-) Farklı çoğaltım tekniklerine uygunluk
+    - B-) Teknolojik gelişmeler
+    - C-) Taşıyıcı ortam (yüzey)
+    - D-) Okur gereksinimleri
+    - **Cevap E-) Dönemin moda renkleri**
+    ***
+1. **Aşağıdaki eşleştirmelerden hangisi grafik tasarımın vazgeçilmezi olan iki ögesini belirtir?**
+    - A-) Renk ve baskı teknikleri
+    - B-) Yazı ve düşünce
+    - C-) Baskı teknikleri ve yazı
+    - **Cevap D-) Yazı ve resim**
+    - E-) Resim ve renk
+    ***
+1. **Aşağıdakilerden hangisi yeni yazı karakterlerinin ortaya çıkmasının nedenlerinden biridir?**
+    - **Cevap A-) Gelişen teknolojilerin gerektirdiği ve sağladığı olanaklar**
+    - B-) Kişiye özel tasarımların yaygınlaşması
+    - C-) Eski çoğaltım tekniklerinin tümüyle terk edilmesi
+    - D-) Bireysel tercihlerin ön plana çıkması
+    - E-) OpenType formatının ortaya çıkması
+    ***
+1. **Aşağıdakilerden hangisi VOX-ATypI sınıflandırma sistemine temel teşkil eder?**
+    - A-) Parametrik yazı karakterleri
+    - **Cevap B-) Thibaudeau Sınıflandırması**
+    - C-) Marcel Jacno Sınıflandırması
+    - D-) Robert Bringhurst Sınıflandırması
+    - E-) Codex 80
+    ***
+1. **Maxmilien Vox sınıflandırmasının, Thibaudeau sınıflandırmasından ayrışan temel özelliği aşağıdakilerden hangisidir?**
+    - A-) Serifleri temel alması
+    - B-) Mimarlık ve müzikte olduğu gibi tarihsel dönemleri temel alması
+    - C-) Kültürel altyapılarına göre yazı karakterlerini sınıflandırması
+    - **Cevap D-) Seriflerin biçimi kadar x-yüksekliği, eksen gibi özellikleri dikkate alması**
+    - E-) Yazı karakterlerini tasarlandıkları döneme göre sınıflandırması
+    ***
+1. **Maxmilien Vox sınıflandırma sisteminde dokuz kategori bulunurken bu sistemden kaynağını alan Vox-Atypl sisteminde on bir sınıf bulunmasının nedeni aşağıdakilerden hangisidir?**
+    - **Cevap A-) “Fraktur” ve “Latin olmayan” (Non-Latin) yazı karakterlerinin eklenmesi**
+    - B-) Ekran tabanlı yazı karakterlerinin ve duyarlı fontların eklenmesi
+    - C-) Seriflerin biçimi ile birlikte x-yüksekliği, eksen gibi özelliklerin dikkate alınması
+    - D-) Yazı karakterlerinin tarihsel altyapılarına uygun olarak sınıflandırılması
+    - E-) Seriflerin biçimsel özelliklerini ve açılarını temel alması
+    ***
+1. **Aldo Novarese sınıflandırma sisteminini temel aldığı özellikler aşağıdakilerin hangisinde eksiksiz olarak yer almaktadır?**
+    - A-) Serifler ve dizgi genişlikleri
+    - B-) Serifler ve x-yüksekliği
+    - C-) Serifli olup olmadıkları ve x-yüksekliği
+    - **Cevap D-) Serifli olup olmadıkları ve seriflerin biçimsel, açısal farklılıkları**
+    - E-) Seriflerin biçimsel farklılıkları
+    ***
+1. **Her bir fontun yazı ailesi özelliği, serif biçimi, ağırlık, oran, kontrast, vurgu, kol biçimi, harf biçimi, orta çizgi, x-yüksekliği özelliklerine göre sınıflandırıldığı ve fontların bu özelliklerine dayanarak bir sınıflandırma numarası alarak sınıflandırıldığı sistem aşağıdakilerden hangisidir?**
+    - **Cevap A-) Ben Bauermeiste Panose-1 Sınıflandırma Sistemi**
+    - B-) Aldo Novarese Sınıflandırma Sistemi
+    - C-) Bask Maxmilien Vox Sınıflandırma Sistemi
+    - D-) VOX-ATypI Sınıflandırma Sistemi
+    - E-) Codex 80
+    ***
+1. **Aşağıdakilerden hangisi Codex 80 yazı karakteri sınıflandırma sisteminin alt kategorilerinden biri değildir?**
+    - A-) Les simplices
+    - B-) Les claviennes
+    - C-) Les romaines
+    - **Cevap D-) Futuriset**
+    - E-) Les onciales
+    ***
+1. **Aşağıdaki verilen bilgilerden hangisi Robert Bringhurst yazı karakterleri sınıflandırırma sistemi hakkında söylenemez?**
+    - A-) Yazı karakterleri dönemlerden yararlanılarak sınıflandırılır.
+    - B-) Yazı karakterleri tarihsel bağlamları ile ele alınır.
+    - C-) Yazı karakterlerinin, tıpkı müzik, resim, mimari gibi zaman içinde değiştiklerinin göz önünde bulundurulmasını gerekli görür.
+    - D-) Yazı karakterleri sınıflandırılırken sekiz dönemden yararlanılır ve her bir sınıf ismini dönemine damga vurmuş üsluptan alır.
+    - **Cevap E-) Yazı karakterlerini ayrıştıran temel özellikler seriflli olup olmadıkları ve seriflerinin biçimsel, açısal farklılıklarıdır.**
+    ***
+1. **Aşağıdakilerden hangisi yazı karakterlerinin sınıflandırılmasındaki farklı yaklaşımlardan biri değildir?**
+    - A-) Tarihsel altyapı
+    - B-) Biçimsel özellik
+    - C-) Kullanım alanları
+    - **Cevap D-) Kişisel tercihler**
+    - E-) Taşıyıcı yüzeyler
+    ***
+1. **Aşağıdakilerden hangisi Thibaudeau sınıflandırma sisteminin alt kategorilerinden biri değildir?**
+    - A-) “Elzévir”ler
+    - B-) “Didot”lar
+    - **Cevap C-) Non-Latin karakterler**
+    - D-) “Égyptienne”lar
+    - E-) “Antiques”
+    ***
+1. **Aşağıdakilerden hangisi Maxmilien Vox tarafından 1952 yılında önerilen Vox sınıflandırma sisteminde yer alan bir sınıf değildir?**
+    - A-) Humanistic
+    - B-) Transitional (Réales)
+    - **Cevap C-) Non-Latin**
+    - D-) Didonic
+    - E-) Lineal
+    ***
+## Unite 9
+1. **Aşağıdakilerden hangisi yazı karakterlerinin sınıflandırılmasının yararlarından biri olamaz?**
+    - A-) Yazı karakterlerinin biçimsel özelliklerini kavrayabilmek
+    - **Cevap B-) Modaya uygun yazı karakterleri seçebilmek**
+    - C-) Gerektiğinde yazı karakterlerini eşleştirebilmek
+    - D-) Yazı karakterlerini görsel olarak ayırt edebilmek
+    - E-) Yazı karakterlerinin tarihsel olarak tanımlanabilmesi
+    ***
+1. **Aşağıdaki özelliklerden hangisi Hümanist yazı karakterlerine ait değildir?**
+    - A-) İlk örnekleri Venedik’te ortaya çıkar.
+    - B-) Kaynağını Hümanist el yazısından alır.
+    - C-) İlk örnekleri Nicolas Jenson tarafından tasarlanır.
+    - **Cevap D-) Tümüyle geometrik formlardan, daire ve daire parçalarından oluşur.**
+    - E-) Kaligrafik kökenlidir.
+    ***
+1. **“Garalde” (Old Style) yazı karakterlerinin isim kaynağı aşağıdakilerden hangisidir?**
+    - A-) Mimarlık tarihindeki Gotik dönem isim kaynağıdır
+    - B-) William Caslon ve Giambattista Bodoni’nin isimlerinin birleşmesi
+    - **Cevap C-) Claude Garamond ve Aldus Manutius’un isimlerinin birleşmesi**
+    - D-) Adobe Garamond yazı karakteri isim kaynağıdır
+    - E-) Aldus Manutius isim kaynağıdır
+    ***
+1. **Aşağıdakilerden hangisi “Transitional” (Geçişsel) dönem yazı karakterleri tasarlayan tasarımcılardan biridir?**
+    - **Cevap A-) John Baskerville**
+    - B-) Giambattista Bodoni
+    - C-) Marcel Jacno
+    - D-) Robert Bringhurst
+    - E-) Nicolas Jenson
+    ***
+1. **Giambattista Bodoni’nin tasarladığı yazı karakterleri VOX Atypl sınıflandırmasına göre hangi kategorinin en iyi örnekleri arasında sayılır?**
+    - A-) Gotik
+    - **Cevap B-) Didone (Modern Neoklasik)**
+    - C-) Glifik
+    - D-) Aldine (Old Style)
+    - E-) Kaligrafik
+    ***
+1. **Köşeli serifliler (slab serif / Egyptian serif) ortaya çıktıkları dönemde hangi gereksinimi karşılamışlardır?**
+    - A-) Serbest el yazısını taklit etmek amacıyla kullanılmıştır.
+    - B-) Orta Çağ dinî el yazmalarını taklit etmek amacıyla kullanılmıştır.
+    - C-) II. Dünya Savaşı sonrası yenilikçi bir görsel dil yaratma amacına hizmet etmiştir.
+    - **Cevap D-) Sanayi Devrimi sonrası doğan reklamcılığın yeni ve dikkat çekici yazı karakterlerine duyduğu gereksinimi karşılamıştır.**
+    - E-) Kültürel eğilimleri yansıtmak; belirli bir düşünme şekli, dönem ve temayı anımsatmak gereksinimini karşılamıştır.
+    ***
+1. **Aşağıdakilerden hangisi Grotesk (Sans Serif) yazı karakterlerinin özelliklerinden biri değildir?**
+    - A-) “Linéal” bu yazı karakteri sınıfına verilen bir diğer isimdir.
+    - **Cevap B-) Kaynakları Orta Çağ dinî el yazmalarına dayanır.**
+    - C-) Aynı zamanda Amerikan Gotikleri olarak da adlandırılırlar.
+    - D-) Ticari olarak popüler olan ilk serifsiz yazı karakterleridir.
+    - E-) Çizgi ağırlıklarında hafif kontrast vardır ve birçok eğri hafif köşelidir.
+    ***
+1. **En zor okunan ve Grotesk (Sans Serif) üst sınıfına dâhil olan sınıflandırma aşağıdakilerden hangisidir?**
+    - A-) Neo-Grotesk (Neoklasik Sans Serifler)
+    - B-) Hümanist Sans
+    - **Cevap C-) Geometrik Sans**
+    - D-) Glifik
+    - E-) Neo Grotesk
+    ***
+1. **Aşağıdaki seçeneklerden hangisi Glifik yazı karakterlerinin özelliklerinden biri değildir?**
+    - **Cevap A-) “Modern Neoklasik serifli yazı karakterleri” olarak da tanımlanırlar.**
+    - B-) Kalemle çizilmiş harflerden çok taşa veya metale oyulmuş harflerle benzerlik gösterirler.
+    - C-) Anıtsal, güçlü ve sağlamdırlar.
+    - D-) Genellikle üçgen şekilli seriflere sahiptirler.
+    - E-) Bazı yazı karakteri sınıflandırma sistemlerinde “Glifik” ve “Latin” olmak üzere iki grup altında değerlendirilirler.
+    ***
+1. **Aşağıdakilerden hangisi Gotik yazı karakterlerine verilen isimlerden biri değildir?**
+    - A-) Fraktur
+    - **Cevap B-) Neo-Klasik**
+    - C-) Blackletter
+    - D-) Tekstura
+    - E-) Lombardic
+    ***
+1. **İlk örnekleri 15. yüzyılın sonlarında, Venedik’teki matbaalarda üretilen, 9. yüzyıl Karolenj minüsküllerinden kaynağını alan ve bugüne kadar kullanılagelen yazı karakteri sınıflarının ilk örneği olarak kabul edilen yazı karakteri sınıfı aşağıdakilerden hangisidir?**
+    - A-) Garalde (Old Face)
+    - B-) Glifik
+    - C-) Gotik (Fraktur)
+    - **Cevap D-) Hümanist (Venetian)**
+    - E-) Hümanist Sans
+    ***
+1. **Aşağıdaki özelliklerden hangisi el yazısından ilk olarak uzaklaşan yazı karakteri sınıfına verilen isimdir?**
+    - A-) Glifik
+    - B-) Hümanist (Venetian)
+    - **Cevap C-) Garalde (Old Face)**
+    - D-) Gotik (Fraktur)
+    - E-) Didone (Modern Klasik)
+    ***
+1. **Aşağıdakilerden hangisi Didone (Modern Neoklasik) yazı karakterleri tasarlayan tasarımcılardan biridir?**
+    - A-) John Baskerville
+    - **Cevap B-) Giambattista Bodoni**
+    - C-) Marcel Jacno
+    - D-) Robert Bringhurst
+    - E-) Nicolas Jenson
+    ***
+1. **Aşağıdakilerden hangisi Neo-Grotesk (Neoklasik Sans Serifler) sınıfına dâhil bir yazı karakteri değildir?**
+    - A-) Helvetica
+    - **Cevap B-) Times New Roman**
+    - C-) Univers
+    - D-) Bell Centennial
+    - E-) Meta
+    ***
+1. **Avrupa’da yazıdan dizgiye aktarılan ilk harf biçimleri sınıfına ne ad verilir?**
+    - A-) Linéal
+    - B-) Hümanist Sans
+    - C-) Geometrik Sans
+    - **Cevap D-) Gotik**
+    - E-) Neo Grotesk
+    ***
+1. **Kaynağını bitişik veya ayrık yazılan el yazısından alan son derece organik formlara sahip, kesik uçlu bir yazı aracı ile yazılmış gibi görünen karakterlere sahip yazı karakteri sınıfı aşağıdakilerden hangisidir?**
+    - A-) Neo-Grotesk (Neoklasik Sans Serifler)
+    - **Cevap B-) Kaligrafik Yazı Karakterleri**
+    - C-) Hümanist Sans
+    - D-) Geometrik Sans
+    - E-) Glifik
+    ***
+1. **Aşağıdakilerden hangisi kalemle çizilmiş harflerden çok taşa veya metale oyulmuş; anıtsal, güçlü ve sağlam görünüme sahip yazı karakterleri sınıfına verilen isimdir?**
+    - **Cevap A-) Glifik**
+    - B-) Neo-Grotesk (Neoklasik Sans Serifler)
+    - C-) Kaligrafik Yazı Karakterleri
+    - D-) Hümanist Sans
+    - E-) Geometrik Sans
+    ***
+## Unite 10
+1. **Aşağıdakilerden hangisi bir yazı karakterlerinin başarılı tipografik sonuçlara olanak tanımasını sağlayan özelliklerden biri değildir?**
+    - A-) Geniş bir yazı ailesinin üyesi olması
+    - B-) Ligatür seçenekleri sunması
+    - C-) Alternatif karakterler içermesi
+    - D-) Farklı tarz rakam setlerine sahip olması
+    - **Cevap E-) Tümüyle majüskül karakterlerden oluşması**
+    ***
+1. **Aşağıdakilerden hangisi çok dilli tasarımları teknik açıdan destekleyen ve bir metindeki görsel ifadeyi birden fazla dile ve hatta yazı sistemine taşımayı mümkün kılan formattır?**
+    - **Cevap A-) OpenType**
+    - B-) Postscript
+    - C-) TrueType
+    - D-) Masaüstü Yayıncılık
+    - E-) Mac Fontları
+    ***
+1. **Aşağıdakilerden hangisi eski tarz rakamlara (old style figures) verilen bir diğer isimdir?**
+    - A-) Minüskül
+    - B-) Small Caps
+    - C-) Majüskül
+    - **Cevap D-) Sırasız rakamlar**
+    - E-) Sıralı rakamlar
+    ***
+1. **Aşağıdakilerden hangisi sıralı rakamların (lining figures) özelliklerinden biri değildir?**
+    - A-) Eski tarz rakamlardan üretilmişlerdir.
+    - B-) Rakamlar majüskül harflerle aynı yüksekliğe sahiptir.
+    - C-) “Regular numerals” ve “titling figures” olarak da isimlendirilirler.
+    - **Cevap D-) Minüskül harfler gibi hareket ederek metnin dokusuna uyum sağlarlar.**
+    - E-) Tablolar veya hesap cetvellerinde tercih edilirler.
+    ***
+1. **İstanbul Kent Bildirişim Tasarımı Projesi’nde tabelaların alt kısmında semt isimleri için ayrılan bölümde her semt için farklı bir renk kullanılmasının amacı aşağıdakilerden hangisidir?**
+    - A-) Metnin dokusuna uyum sağlamak
+    - **Cevap B-) Bölgesel farklılıkları görünür kılmak**
+    - C-) Metin rengi ile kontrast oluşturmak
+    - D-) Semt isimlerini görünür kılmak
+    - E-) Saatte 72 km hızla giden sürücülerin kolay okumasını sağlamak
+    ***
+1. **“Küçük büyük harfler”in kullanım alanı aşağıdaki seçeneklerden hangisinde eksiksiz verilmiştir?**
+    - A-) Metin içinde özel isimlerin yazımında
+    - B-) Metin içinde tarihlerin yazımında
+    - **Cevap C-) Metin içinde vurgulanmak istenen sözcük veya sözcük gruplarının yazımında**
+    - D-) Hesap cetvelleri ve tabloların hazırlanmasında
+    - E-) Metin içinde küçük punto ile yazılmak istenen sözcüklerde
+    ***
+1. **“Pro” olarak adlandırılan fontların ortak özelliği nedir?**
+    - **Cevap A-) Çekçe, Lehçe, Macarca gibi Doğu Avrupa dilleri ile bazen Yunanca ile Rusça’da bulunan karakterleri içeren fontlardır ve daha geniş bir kullanım alanına sahiptir.**
+    - B-) Türkçedeki tüm karakterleri ve gerekli tüm aksanları içeren fontlardır.
+    - C-) Orantılı-boşluklu karakterlerden oluşan fontlardır.
+    - D-) Satırlar oluşturacak şekilde yatay olarak yan yana gelmeleri halinde tüm satırların düzenli sütunlar oluşturduğu fontlardır.
+    - E-) Matematik işlemleri veya muhasebe hesaplamaları gibi basamak değerlerinin alt alta gelmesinin önemli olduğu kullanım alanlarında tercih edilen fontlardır.
+    ***
+1. **Temelde aynı özellikleri taşımakla birlikte farklı çizgi kalınlığı (ağırlık) ve oranlara sahip (darlaştırılmış, genişletilmiş, vb.) fontlardan oluşan ve bazen italik çeşitlemeleri de içeren font gruplarına ne ad verilir?**
+    - A-) Küçük büyük harfler
+    - B-) Sıralı rakamlar
+    - C-) Geometrik Sans
+    - **Cevap D-) Yazı ailesi**
+    - E-) Font
+    ***
+1. **2010 yılında İstanbul’da kurulan kültür enstitüsü SALT'ın kurumsal kimlik tasarımının resmî bir logo yerine özel olarak tasarlanan Kraliçe yazı karakteri ile bütünleşmesinin ardından S-A-L-T harflerinin konuk tasarımcılar tarafından düzenli olarak yeniden tasarlanmasının amacı aşağıdakilerden hangisi olamaz?**
+    - A-) Kültürel değişimin sürekliliğini vurgulamak
+    - B-) Tasarım alanındaki düşünsel birikime katkı yapılması
+    - C-) Yazı karakterinin kendi özgün bağlamının dışında kullanıcı ve izleyiciler ile buluşmasını sağlamak
+    - D-) Kurumun yenilikçi duruşunu korumak
+    - **Cevap E-) Güncel modayı uygun tasarımlarla gündeme gelmek**
+    ***
+1. **ABD’de Highway Gothic yerine kullanılmak üzere sipariş edilen geniş iç boşluklu ve daha büyük x-yüksekliğine sahip minüskül ve majüskül harflerden oluşan yazı karakteri aşağıdakilerden hangisidir?**
+    - A-) Helvetica
+    - B-) Kent
+    - C-) Kraliçe
+    - **Cevap D-) Clearview**
+    - E-) Univers
+    ***
+1. **Tablolar veya hesap cetvelleri söz konusu olduğunda hangi tarz rakamları kullanmak uygun olur?**
+    - A-) Eski tarz rakamlar
+    - B-) Sırasız rakamlar
+    - C-) Romen rakamları
+    - **Cevap D-) Sıralı rakamlar**
+    - E-) Minüsküller
+    ***
+1. **Aşağıdaki rakam tarzlarından hangisi metin içinde kullanılırken metnin dokusunu bozmayacağı için tercih edilmelidir?**
+    - A-) Sıralı rakamlar
+    - **Cevap B-) Eski tarz rakamlar**
+    - C-) Romen rakamları
+    - D-) Minüsküller
+    - E-) Majüsküller
+    ***
+1. **Aşağıdakilerden hangisi orantılı boşluklu rakamların özelliklerinden biri değildir?**
+    - A-) Her bir rakamın kendi genişlik değeri vardır.
+    - B-) Yan yana ve alt alta geldiklerinde düzgün sütunlar oluşturmazlar.
+    - **Cevap C-) Mali kayıtlarda, matematik işlemlerinde tercih edilirler.**
+    - D-) Hesaplamalarda tercih edilmezler.
+    - E-) Metin içinde majüskül harfler gibi hareket ederler.
+    ***
+1. **Aşağıdakilerden hangisi küçük büyük harflerin özelliklerinden biri değildir?**
+    - A-) Majüskül harf biçimindedirler.
+    - B-) Yükseklikleri yaklaşık x-yüksekliği kadardır.
+    - C-) Metin içinde majüskül harflerin yerine kullanılanılır.
+    - D-) Metnin dokusu bozmaksızın vurgulanmak istenen sözcük veya sözcükleri öne çıkarır.
+    - **Cevap E-) Mali kayıtlarda ve matematiksel hesaplamalarda kullanılır.**
+    ***
+1. **Bir fontun “Turk” veya “Tu” kısaltması taşıması ne anlama gelir?**
+    - A-) Batı Avrupa dillerindeki bütün karakterleri içerdiğini gösterir.
+    - B-) Fontun geniş bir yazı ailesine sahip olduğunu gösterir.
+    - C-) Fontun sıralı ve eski tarz rakamlar içerdiğini gösterir.
+    - **Cevap D-) Fontun Türkçedeki tüm karakterleri ve gerekli tüm aksanları içerdiğini gösterir.**
+    - E-) Fontun küçük büyük harflerden (small caps) oluştuğunu gösterir.
+    ***
+1. **Birlikte uyumlu bir şekilde kullanılmak amacıyla tasarlanan serifli ve serifsiz fontları bünyesinde barındıran son derece geniş bir font paletine sahip yazı ailelerine ne ad verilir?**
+    - **Cevap A-) Süper Aile**
+    - B-) Small Caps
+    - C-) Yazı Ailesi
+    - D-) Zengin Aile
+    - E-) Eski Tarz
+    ***
+1. **“Lettering” ne anlama gelir?**
+    - A-) Çekçe, Lehçe, Macarca gibi Doğu Avrupa dilleri ile bazen Yunanca ile Rusçada bulunan karakterleri içeren fontlar
+    - B-) Küçük büyük harfler
+    - C-) Metin içinde kullanıma uygun eski tarz rakamlar
+    - **Cevap D-) Elle yazılmış gibi görünen özgün yazı**
+    - E-) Hesaplamalarda tercih edilen eş-genişlikli rakamlar
+    ***
+## Unite 11
+1. **Aşağıdakilerden hangisi bir objeye bakıldığında görülen özelliklerden biri değildir?**
+    - A-) Parlaklık
+    - B-) Renk
+    - C-) Biçim
+    - **Cevap D-) Ağırlık**
+    - E-) Hareket
+    ***
+1. **Görsel sistemimizin yanılmasıyla gerçekte var olmayan etkileri gördüğümüzü düşünmemize verilen isim aşağıdakilerden hangisidir?**
+    - A-) Sanrı (halüsinasyon)
+    - B-) Görsel efekt
+    - C-) Özel efekt
+    - D-) Görme bozukluğu
+    - **Cevap E-) Görsel yanılsama (illüzyon)**
+    ***
+1. **Eşit büyüklükte, siyah ve beyaz renkli karelerin oluşturduğu yatay şeritlerin birbirlerine paralel olmasına karşın giderek daralan ve genişleyen şeritlerin içinde yer alan eşkenar olmayan dörtgenler olarak algılanması sonucunda ortaya çıkan görsel yanılsama aşağıdakilerden hangisidir?**
+    - **Cevap A-) Kafe duvarı yanılsaması**
+    - B-) Ponzo yanılsaması
+    - C-) Poggendorff yanılsaması
+    - D-) Hering yanılsaması
+    - E-) Işıma yanılsaması
+    ***
+1. **İsmini İtalyan ressam ve psikolog Mario Ponzo’dan (1882-1960) alan; göreli çizgi uzunluğunun yanlış değerlendirilmesi sonucu ortaya çıkan bir dizi geometrik yanılsamadan biri olan Ponzo yanılsamasının kaynağı aşağıdakilerden hangisidir?**
+    - A-) Belirli bağlamlarda üç boyutlu geometrik biçimleri çevremizdeki iki boyutlu nesneler gibi algılama eğilimi
+    - **Cevap B-) Belirli bağlamlarda iki boyutlu geometrik biçimleri çevremizdeki üç boyutlu nesneler gibi algılama eğilimi**
+    - C-) Eğimli ve yatay çizgilerin buluştuğu noktalarda oluşan keskin açıların olduklarından büyük algılanması
+    - D-) Açık renk bir zemin üzerindeki geometrik biçim ile aynı boyutta olan koyu renk zemindeki geometrik biçim farklı boyutlarda algılanması
+    - E-) Gözün okuma esnasında gerçekleştirdiği sakkadik (gözün sekme hareketi) hareket
+    ***
+1. **Açık renk bir zemin üzerindeki geometrik biçim ile aynı boyutta olan ve koyu renk bir zemin üzerinde yer alan açık renkli geometrik biçimin farklı boyutta algılanması aşağıdaki görsel yanılsamalardan hangisini örneklendirir?**
+    - A-) Mach şeritleri yanılsaması
+    - B-) Henmann gridi yanılsaması
+    - **Cevap C-) Işıma yanılsaması**
+    - D-) Delboeuf yanılsaması
+    - E-) Ebbinghaus yanılsaması
+    ***
+1. **“Dithering” noktaların veya piksellerin, aslında var olan renklerden daha fazla rengin olduğu izlenimi veren bir renk çoğaltma tekniği olup sınırlı renk gruplarıyla geniş bir renk paleti oluşturmayı mümkün kılan görsel yanılsama aşağıdakilerden hangisidir?**
+    - A-) Kafe duvarı yanılsaması
+    - B-) Ponzo yanılsaması
+    - **Cevap C-) Dithering**
+    - D-) Doldurma örüntüsü
+    - E-) Henmann gridi yanılsaması
+    ***
+1. **Michel Eugène Chevreul’ün iki renkli ipliğin yan yana geldiğinde her iki ipliğin renginin de değişmiş göründüğünü fark etmesinin ardından üzerinde çalışarak temellerini oluşturduğu eş zamanlı kontrast kanunu aşağıdaki sanat akımlarının hangisinde etkili olmuştur?**
+    - **Cevap A-) Puantilizm**
+    - B-) Fovizm
+    - C-) De Stijl
+    - D-) Dadaizm
+    - E-) Futurizm
+    ***
+1. **Aşağıdaki harf gruplarının hangisinde biçimsel özelliklerine göre dar majüskül harflere yer verilmemiştir?**
+    - A-) B, E, F
+    - B-) I, İ, J
+    - **Cevap C-) O, Ö, Q**
+    - D-) L, P, R
+    - E-) S, Ş, T
+    ***
+1. **Matematiksel olarak eşit genişliğe sahip iki çizgiden biri yatay, diğeri düşey olarak konumlandırıldığında yatay olan düşey olandan daha kalın algılanacaktır. Bu optik yanılsamanın önlenmesi için aşağıdakilerden hangisi yapılmalıdır?**
+    - A-) Yatay konumlanacak çizgi, düşey konumlanacak çizginin iki katı genişliğinde çizilmelidir.
+    - B-) Yatay konumlanacak çizgi, düşey konumlanacak çizgiden daha kısa çizilmelidir.
+    - C-) Yatay konumlanacak çizgi, düşey konumlanacak çizgiden daha uzun çizilmelidir.
+    - D-) Yatay konumlanacak çizgi, düşey konumlanacak çizgiden daha geniş çizilmelidir.
+    - **Cevap E-) Yatay konumlanacak çizgi, düşey konumlanacak çizgiden daha dar çizilmelidir.**
+    ***
+1. Farklı geometrik biçimler yan yana geldiklerinde her ne kadar matematiksel olarak aynı yüksekliğe sahip olsalar da optik olarak farklı boyutlarda algılanırlar. Biçimsel özelliklerin beraberinde gelen bu optik yanılsamanın harfler söz konusu olduğunda ortadan kaldırılması için yuvarlak biçimlere sahip harfler taban çizgisini ve kapital harf yüksekliğini aşacak şekilde çizilmelidir.<br />**Aşağıdaki sözcüklerden hangisinde bu kuralı örnekleyen bir harf yer almaz?**
+    - A-) KALYON
+    - B-) MANOLYA
+    - **Cevap C-) KRALLIK**
+    - D-) MAYDANOZ
+    - E-) TROLEYBÜS
+    ***
+1. **Aşağıdaki görsel yanılsamalardan hangisinde “kafe duvarı yanılsaması”nda olduğu gibi çizgilerin birbirine paralel olduğu hâlde birbirlerine yaklaşıyor ve birbirlerinden uzaklaşıyor gibi algılanır?**
+    - **Cevap A-) Zöllner yanılsaması**
+    - B-) Perspektif yanılsaması
+    - C-) Yatay-düşey yanılsaması
+    - D-) Işıma yanılsaması
+    - E-) Mach şeritleri yanılsaması
+    ***
+1. **İçine daha küçük bir daire çizilen daire, kendisi ile aynı büyüklükteki bir başka daire ile yan yana geldiğinde olduğundan daha küçük algılanır. Delboeuf Yanılsaması olarak adlandırılan bu durum boyutun hangi özelliği ile ilişkilidir?**
+    - A-) Boyut, geçmiş deneyimlerden etkilenir.
+    - B-) Boyut, zemin renginden etkilenir.
+    - C-) Boyut, cismin yanına gelen renklerden etkilenir.
+    - **Cevap D-) Boyut, görecelidir.**
+    - E-) Boyut, açısal yer değiştirmeden etkilenir.
+    ***
+1. **Yatay ve düşey desenler birleştirildiğinde gözün görüntü üzerinde seğirmesi nedeniyle beynin aslında var olmayan bir hareketi algılamasına dayalı yanılsama aşağıdakilerden hangisidir?**
+    - A-) Kafe duvarı yanılsaması
+    - B-) Ponzo yanılsaması
+    - C-) Hering yanılsaması
+    - D-) Işıma yanılsaması
+    - **Cevap E-) Ouchi yanılsaması**
+    ***
+1. **Aşağıdakilerden hangisi sivri bitişli harflerin yanlarına gelen harflerle optik olarak aynı yükseklikte görünebilmelerine yönelik bir çözümdür?**
+    - A-) Sivri bitişli harflerin kapital harf yüksekliğinden daha kısa tasarlanmaları gerekir.
+    - B-) Sivri bitişli harflerin yanlarına gelen harflere kıyasla daha geniş tasarlanmaları gerekir.
+    - **Cevap C-) Sivri bitişli harflerin taban çizgisini ve kapital harf yüksekliğini aşacak şekilde tasarlanmaları gerekir.**
+    - D-) Sivri bitişli harflerin yanlarına gelen harflere kıyasla daha dar tasarlanmaları gerekir.
+    - E-) Sivri bitişli harflerin yanlarına gelen harflere kıyasla daha köşeli tasarlanmaları gerekir.
+    ***
+1. **“Ö”, “Ü” gibi çift noktalı harflerin noktalarının dengeli görünebilmelerine yönelik çözüm aşağıdakilerin hangisinde yer almaktadır?**
+    - A-) Noktalar harfin üst orta noktasından üç nokta mesafede olacak şekilde konumlandırılmalıdır.
+    - B-) Noktalar harfin üst orta noktasına değecek şekilde konumlandırılmalıdır.
+    - C-) Noktalar harfin üst orta noktasında birbirinden uzak şekilde konumlandırılmalıdır.
+    - D-) Noktalar harfin üst orta noktasında birbirlerine değecek şekilde konumlandırılmalıdır.
+    - **Cevap E-) Noktalar harfin üst orta noktasında birbirlerine yaklaşacak şekilde konumlandırılmalıdır.**
+    ***
+1. **Aşağıdakilerden hangisi perspektif yanılsamasına sebebiyet verir?**
+    - A-) Belirli bağlamlarda iki boyutlu geometrik biçimleri çevremizdeki üç boyutlu nesneler gibi algılama eğilimi
+    - **Cevap B-) Bir nesnenin ne kadar uzakta olduğu konusundaki yanılgı**
+    - C-) Eğimli ve yatay çizgilerin buluştuğu noktalarda oluşan keskin açıların olduklarından büyük algılanması
+    - D-) Açık renk bir zemin üzerindeki geometrik biçim ile aynı boyutta olan koyu renk zemindeki geometrik biçim farklı boyutlarda algılanması
+    - E-) Birbirine paralel çizgilerin, onları çevreleyen açısal çizgilerin etkisi nedeniyle eğilmiş gibi görünmesi
+    ***
+## Unite 12
+1. **Aşağıdakilerden hangisi harf anatomisine ilişkin terimlerden biri değildir?**
+    - **Cevap A-) Pica**
+    - B-) Kemer
+    - C-) Taşma
+    - D-) Ayak serif
+    - E-) Alt uzantı
+    ***
+1. **Genellikle en yüksek üst uzantının tepesinden en alçak alt uzantının tabanına kadar olan harf ölçüsüne verilen isim aşağıdakilerden hangisidir?**
+    - A-) Alt uzantı
+    - B-) Üst uzantı
+    - C-) Kapital harf yüksekliği
+    - **Cevap D-) Punto boyutu**
+    - E-) x-yüksekliği
+    ***
+1. **Aşağıda yer alan harf anatomisine ilişkin terimlerden hangisi kesinlikle harflerin taban çizgisinin altında kalan bölümleri ile ilişkilidir?**
+    - A-) Nokta
+    - **Cevap B-) Alt uzantı**
+    - C-) Taşma
+    - D-) Eklem
+    - E-) İlmek
+    ***
+1. **Aşağıdakilerden hangisi bir yazı karakterinin özelliklerden biri değildir?**
+    - A-) Bir ismi vardır.
+    - B-) Temel bir veya çoğunlukla birkaç şekli vardır.
+    - C-) Kullanımına ilişkin kuralları vardır.
+    - **Cevap D-) Satışa sunulmuş olmalıdır.**
+    - E-) Çoğunlukla bir ailenin üyesidir.
+    ***
+1. **Oblik ve italik yazı karakterlerinin temel farkı aşağıdakilerin hangisinde açıklanmıştır?**
+    - A-) Oblik yazı karakterleri dik, italik yazı karakterleri sağa doğru yatıktır.
+    - B-) Oblik yazı karakterleri majüskül harflerden, italik yazı karakterleri minüskül harflerden oluşur.
+    - C-) Oblik yazı karakterleri Roman karakterlerin sağa doğru yatık versiyonlarıyken, italik yazı karakterleri Roman karakterlerin darlaştırılmış versiyonlarıdır.
+    - **Cevap D-) Oblikler çoğunlukla sans serif yazı karakteridir, italikler serifli yazı karakterleridir ve bambaşka tasarımlara sahip olabilirler.**
+    - E-) İtalikler sans serif yazı karakterlerin, oblikler serifli karakterlerin sağa doğru yatık versiyonlarıdır.
+    ***
+1. **Aşağıdakilerden hangisi sağa doğru yatık yazı karakterlerinden biri değildir?**
+    - A-) Slanted
+    - B-) Oblik
+    - **Cevap C-) Roman**
+    - D-) Kursiv
+    - E-) İtalik
+    ***
+1. **Birbirleriyle ilintili; ortak tasarım özellikleri ve benzer isimler taşıyan yazı karakterlerinden oluşan yapıya verilen isim aşağıdakilerden hangisidir?**
+    - A-) Foundry
+    - B-) Font
+    - C-) Punto değeri
+    - D-) Yazı stili
+    - **Cevap E-) Yazı ailesi**
+    ***
+1. **Günümüzde harfleri ölçmekte yayın olarak kullanılmakta olan ölçü birimi aşağıdakilerden hangisidir?**
+    - **Cevap A-) Punto**
+    - B-) Santimetre
+    - C-) Feet
+    - D-) İnç
+    - E-) Milimetre
+    ***
+1. **Aşağıdaki terimlerden hangisi bir yazı karakterinin ağırlığına ilişkin bilgi vermez?**
+    - A-) Bold
+    - **Cevap B-) İtalik**
+    - C-) Semi bold
+    - D-) Light
+    - E-) Ultra light
+    ***
+1. **Aşağıdakilerden hangisi aynı punto ölçüsüne sahip iki farklı yazı karakteri kıyaslandığında birinin diğerinden daha küçük görünmesinin açıklaması olabilir?**
+    - A-) Farklı tasarımcılar tarafından tasarlanmış olmaları
+    - B-) Farklı dönemlerde tasarlanmış olmaları
+    - C-) Bir yazı karakterinin serifli, diğerinin sans serif olması
+    - **Cevap D-) Her iki yazı karakterinin farklı x-yüksekliklerine sahip olmaları**
+    - E-) Bir yazı karakterinin dik, diğerinin italik olması
+    ***
+1. **Aşağıdaki tipografi terimlerinden hangisi harflerin anatomik yapısı ile ilişkili değildir?**
+    - A-) Çanak
+    - B-) Kemer
+    - C-) Destek
+    - **Cevap D-) Pika**
+    - E-) Eksen
+    ***
+1. **Bir metin satırındaki karakterlerin arasındaki yatay boşluğun özel olarak ayarlanmasına ne ad verilir?**
+    - A-) Bağlantı
+    - B-) Harf yüksekliği
+    - **Cevap C-) Uyumlama**
+    - D-) Gaga
+    - E-) Mahmuz
+    ***
+1. **Aşağıdakilerden hangisi tek bir karakterde birleştirilerek uyum içinde tasarlanan iki ya da daha fazla karaktere verilen isimdir?**
+    - **Cevap A-) Bitişik karakter**
+    - B-) Dizgi genişliği
+    - C-) İki bölümlü harf
+    - D-) Düzeltme işareti
+    - E-) İlmek
+    ***
+1. **Aşağıdakilerden hangisi bir yazı ailesinin üyelerinden biri değildir?**
+    - A-) Bold
+    - B-) Light
+    - C-) Condenced
+    - D-) İtalik
+    - **Cevap E-) 12 punto**
+    ***
+1. **Sütun genişliğini ölçmekte yaygın olarak kullanılan ölçü birimi aşağıdakilerden hangisidir?**
+    - A-) Milimetre
+    - **Cevap B-) Pika**
+    - C-) İnç
+    - D-) Santimetre
+    - E-) Feet
+    ***
+1. **Aşağıdaki terimlerden hangisi harflerin genişliğine ilişkin bilgi vermez?**
+    - A-) Condenced
+    - B-) Extended
+    - C-) Wide
+    - D-) Extra Compressed
+    - **Cevap E-) Slanted**
+    ***
+1. **Harf genişliklerine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?**
+    - A-) Bir yazı karakterinin darlaştırılmış versiyonundaki harfler daha dar bir dizgi genişliğine sahiptir.
+    - B-) Bir yazı karakterinin genişletilmiş versiyonlarındaki harfler daha geniş bir dizgi genişliğine sahiptir.
+    - C-) Harflerin genişlikleri harfin anatomisine uygun olarak hesaplanmalıdır.
+    - D-) Harfi oluşturan tüm çizgiler ve detaylar harfin genişliğine göre yeniden planlanarak farklı genişlikteki karakterler tasarlanır.
+    - **Cevap E-) Bir harfin biçimine müdahale ederek değiştirmek, farklı genişliklerde karakterler elde etmek için başvurulması gereken bir yöntemdir.**
+    ***
+## Unite 13
+1. **Aşağıdakilerden hangisi metnin renk değerine karar verirken göz önünde bulundurulması gereken özelliklerden biri değildir?**
+    - A-) Konu
+    - B-) Hedef kitle
+    - **Cevap C-) Hava sıcaklığı**
+    - D-) Taşıyıcı yüzey
+    - E-) Aydınlatma koşulları
+    ***
+1. **Aynı genişliğe sahip karakterlerin eşit harf arası espas değerine sahip olduğu ve harf kombinasyonlarına göre çeşitlilik göstermediği yazı karakterlerine ne ad verilir?**
+    - A-) Serifli yazı karakterleri
+    - **Cevap B-) Eş-aralıklı yazı karakterleri**
+    - C-) Orantılı-aralıklı yazı karakterleri
+    - D-) İtalik yazı karakterleri
+    - E-) Majüskül yazı karakterleri
+    ***
+1. **Aşağıda yer alan seçeneklerin hangisinde “tracking” teriminin açıklamasına yer verilmiştir?**
+    - A-) İki karakter arası espasın özel olarak ayarlanması
+    - B-) Satır arası boşlukları
+    - C-) Harflerin iç boşlukları
+    - D-) Metin alanının dışında kalan boşluklar
+    - **Cevap E-) Harf arası espas değerinin ayarlanması**
+    ***
+1. **Aşağıda yer alan seçeneklerin hangisinde beyaz alanların siyah metin alanlarına göre daha fazla yer tuttuğu dizgi tipine verilen isim yer almaktadır?**
+    - **Cevap A-) Açık dizgi**
+    - B-) Negatif yazı
+    - C-) Soldan hizalı
+    - D-) Negatif satır arası espası
+    - E-) Gövde metni
+    ***
+1. **Bir metinde punto değerinin artması durumunda harf arası espasta nasıl bir değişiklik yapılması gerekir?**
+    - A-) Artırılır
+    - **Cevap B-) Azaltılır**
+    - C-) Değiştirilmez
+    - D-) Sözcüklerin anlamına bağlı olarak değiştirilir
+    - E-) Her satırda farklılaştırılır
+    ***
+1. **Yan yana geldiklerinde gereğinden fazla veya gereğinden az espasa sahip harflerin arasındaki boşluğun özel olarak ayarlanmasına ne ad verilir?**
+    - A-) Espas
+    - B-) Tracking
+    - C-) Negatif yazı
+    - **Cevap D-) Uyumlama**
+    - E-) Metin rengi
+    ***
+1. **Aşağıdaki seçeneklerden hangisi uygunsuz harf aralıklı çiftler (kerning pairs) için doğru bir tanımdır?**
+    - A-) Bir taban çizgisinden diğer taban çizgisine kadar olan satırlar arasındaki boşluktur.
+    - B-) Yan yana geldiklerinde gereğinden fazla veya gereğinden az espasa sahip harflerin arasındaki boşluğun özel olarak ayarlanmasıdır.
+    - C-) Beyaz alanları siyah metin alanlarına göre daha fazla yer tutan metinlerdir.
+    - D-) Koyu renk zemin üzerinde açık renk ile yazılmış metinlerdir.
+    - **Cevap E-) Sıklıkla boşluk düzenlemelerinin yapılmasına gereksinim duyulan harf/karakter kombinasyonlarıdır.**
+    ***
+1. **Aşağıdakilerden hangisi kendinden önce boşluk verilmeyen karakterlerden biri değildir?**
+    - A-) Tescil sembolü
+    - B-) Derece sembolü
+    - C-) Asterisk (Yıldız imi)
+    - **Cevap D-) Formüller için kullanılan matematik sembolleri**
+    - E-) Ticari marka sembolü
+    ***
+1. **Aşağıdaki açıklamalardan hangisi sözcük arası espas için söylenemez?**
+    - A-) Sözcüklerin arasında boşluk bırakılmasının temel nedeni okurun her bir sözcüğü ayrı ayrı algılamasını sağlamaktır.
+    - B-) Genellikle sözcükler arasındaki boşluğun bir “i” harfinin dizgi genişliğinde olması yeterlidir.
+    - C-) Harf arası espas için geçerli olan kurallar sözcük arası espas için de geçerlidir.
+    - D-) Birbirine çok yakın dizilmiş sözcükler okur tarafından kolaylıkla ayırt edilemeyeceği için okumayı güçleştirir.
+    - **Cevap E-) Sözcük arası espasın gereğinden fazla olması durumunda ortaya çıkacak nehirler okumayı kolaylaştırır.**
+    ***
+1. **Aşağıdaki tanımlardan hangisi aralıksız metni açıklar niteliktedir?**
+    - A-) Sözcük arası espasın gereğinden fazla olması durumunda ortaya çıkan nehirler nehirlerdir.
+    - B-) Sıklıkla boşluk düzenlemelerinin yapılmasına gereksinim duyulan harf/karakter kombinasyonlarıdır.
+    - **Cevap C-) “Leading” ve yazı karakteri büyüklüğü aynı değere sahip olan metinlerdir.**
+    - D-) Koyu renk zemin üzerinde açık renk ile yazılmış metinlerdir.
+    - E-) Yan yana geldiklerinde gereğinden fazla veya gereğinden az espasa sahip harflerin arasındaki boşluğun özel olarak ayarlanmasıdır.
+    ***
+1. **Aşağıdakilerden hangisi metnin rengini belirleyen etmenlerden biri değildir?**
+    - **Cevap A-) Konu**
+    - B-) Karakterlerin içinde yer alan boşluklar
+    - C-) Sözcüklerin arasında yer alan boşluklar
+    - D-) Satırların arasında yer alan boşluklar
+    - E-) Metnin çevresinde yer alan boşluk
+    ***
+1. **Aşağıdakilerden hangisi orantılı-aralıklı yazı karakterlerinin özelliği değildir?**
+    - A-) Eş-aralıklı yazı karakterlerine göre satırda daha az yer kaplar.
+    - B-) Organik bir doku oluştururlar.
+    - C-) Eş-aralıklı yazı karakterlerine göre daha kolay okunurlar.
+    - D-) Her karakterin kendine özgü dizgi genişliği vardır.
+    - **Cevap E-) Bu yazı karakterlerinde harf arası espaslar standarttır.**
+    ***
+1. **Aşağıdakilerin hangisinde “tracking” ile ilgili verilen bilgi yanlıştır?**
+    - A-) Harf arası espas değerinde yapılan değişiklikler metnin tümünü etkiler.
+    - B-) Harf arası espası kapatmak harflerin birbirlerine daha yakın konumlanmasına neden olur.
+    - C-) Harf arası espası kapatmak metin alanı daraltılabilir.
+    - D-) Harf arası espasın kapatılmasıyla dar bir sütuna daha çok harfin sığması sağlanabilir.
+    - **Cevap E-) Sıkışık harf arası espas ile dizilen bir metnin rengi açılarak daha beyaz bir metnin rengi elde edilir.**
+    ***
+1. **Özellikle negatif yazının küçük punto değeriyle kullanıldığı durumlarda harf arası espasta nasıl bir değişiklik yapılması gerekir?**
+    - **Cevap A-) Artırılır.**
+    - B-) Azaltılır.
+    - C-) Değiştirilmez.
+    - D-) Sözcüklerin anlamına bağlı olarak değiştirilir.
+    - E-) Her satırda farklılaştırılır.
+    ***
+1. **Aşağıdakilerden hangisi kendinden sonra boşluk verilmeyen karakterlerdendir?**
+    - A-) Telif hakları sembolü
+    - **Cevap B-) Alt çizgi**
+    - C-) Madde imi
+    - D-) Paragraf işareti
+    - E-) Formüller için kullanılan matematik sembolleri
+    ***
+## Unite 14
+1. **Aşağıdakilerden hangisi uzun alıntıların metnin bütününden ayrılması için kullanılan bir paragraf ayrım yöntemidir?**
+    - **Cevap A-) Sürekli girintili paragraf kullanımı**
+    - B-) Satır başı girintisi kullanımı
+    - C-) Satır arası boşluk kullanımı
+    - D-) Satır sonu boşluğu ile paragraf ayrımı
+    - E-) Asılı girinti ile paragraf ayrımı
+    ***
+1. **Bir sütunun sonundaki paragrafın ilk satırında veya bir sonraki sütunun ilk satırında kalan metin parçalarına ne ad verilir?**
+    - A-) Asılı girinti
+    - B-) Uzun tire
+    - C-) Pilcrow
+    - **Cevap D-) Yetim**
+    - E-) Dul
+    ***
+1. **Aşağıdaki hizalama seçeneklerinden hangisi zor okunması nedeniyle gövde metinlerinde tercih edilmemesine karşın özellikle resim künyeleri gibi metnin bir başka tasarım elemanına eşlik etmesi gereken durumlarda kullanılabilir?**
+    - A-) Hizasız
+    - B-) Sola hizalı
+    - C-) Simetrik hizalı
+    - D-) Hizalı (sağlı-sollu hizalı)
+    - **Cevap E-) Sağa hizalı**
+    ***
+1. **Aşağıdaki hizalama seçeneklerinden hangisi bir metin alanına maksimum sayıda karakter sığdırmayı mümkün kıldığı için özellikle süreli yayınlarda sıkça tercih edilir?**
+    - A-) Simetrik hizalı
+    - **Cevap B-) Hizalı (sağlı-sollu hizalı)**
+    - C-) Hizasız
+    - D-) Sola hizalı
+    - E-) Sağa hizalı
+    ***
+1. **Aşağıdaki yatay hizalama seçeneklerinden hangisinin satırlarda oluşabilecek beyaz boşlukların nehirler meydana getirmesi olasılığı nedeniyle çok iyi uygulanması gerekir?**
+    - A-) Tescil sembolü
+    - B-) Libre
+    - C-) Ölçü birimi işaretleri
+    - **Cevap D-) Tireler**
+    - E-) Telif hakkı sembolü
+    ***
+1. **Sözcükleri bölmekte ve ayrıca birlikte yeni anlamlar oluşturacak sözcükleri birleştirmek amacıyla kullanılan karakter aşağıdakilerden hangisidir?**
+    - A-) Libre
+    - B-) “n” tire
+    - C-) “m” tire
+    - **Cevap D-) Tire**
+    - E-) Asteriks
+    ***
+1. **“Küçük sayının büyük sayıya oranı ile büyük sayı ile her iki sayının toplamının oranı eşittir.” olarak tanımlanan altın oranını tanımlayan yaklaşık değer aşağıdakilerden hangisidir?**
+    - **Cevap A-) 1 : 1,61803**
+    - B-) 1 : 1
+    - C-) 1 : 314
+    - D-) 3 : 4
+    - E-) 2: 5
+    ***
+1. **Aşağıdaki seçeneklerden hangisinde geleneksel olarak Britanya’da ve ABD’de kullanılan ve inç cinsinden ölçülen kâğıt ölçülerine verilen isim yer almaktadır?**
+    - A-) DIN
+    - B-) ISO
+    - **Cevap C-) Emperyal**
+    - D-) Letter
+    - E-) Legal
+    ***
+1. **20. yüzyılın başında posta pullarından afişlere kadar tüm basılı malzemelerin standart ölçülerini belirlemek amacıyla önerilen ve 1:1,414 oranı ile bir tabaka kâğıdın katlanması veya ikiye kesilmesi hâlinde ortaya çıkan tabakanın da aynı orana sahip olmasını sağlayan standarda ne ad verilir?**
+    - A-) Ledger
+    - **Cevap B-) ISO**
+    - C-) Letter
+    - D-) Legal
+    - E-) Tabloid
+    ***
+1. **Aşağıdaki seçeneklerden hangisinde tasarımın tümünün akıcı bir bütünlüğe sahip olmasını sağlayan; bir sayfa tasarımında yer alması planlanan tüm öğelerin konumunu ve birbirleriyle ilişkilerini belirlemekte kullanılan yapıya verilen isim yer almaktadır?**
+    - A-) Van de Graaf Kanonu
+    - B-) Altın Oran
+    - C-) Fibonacci Serisi
+    - **Cevap D-) Grid Sistemi**
+    - E-) DIN
+    ***
+1. **Aşağıdakilerden hangisinde 19. yüzyılın başında daktiloların piyasaya sürülmesinin ardından paragrafları birbirinden ayırmakta yaygınlaşan yöntem yer almaktadır?**
+    - A-) Satır başı girintisi kullanımı
+    - **Cevap B-) Çift satır boşluğu kullanımı**
+    - C-) Satır sonu boşluğu ile paragraf ayrımı
+    - D-) Asılı girinti ile paragraf ayrımı
+    - E-) “Pilcrow” veya özel işaretlerin kullanımı
+    ***
+1. **Aşağıdakilerden hangisinde web alanında sıkça tercih edilen ve okurun paragrafları kolaylıkla ayırt edebildiği paragraf yapısı yer almaktadır?**
+    - **Cevap A-) Satır arası boşluk kullanımı**
+    - B-) Sürekli girintili paragraf kullanımı
+    - C-) Asılı girinti ile paragraf ayrımı
+    - D-) “Pilcrow” veya özel işaretlerin kullanımı
+    - E-) Satır başı girintisi kullanımı
+    ***
+1. **Bir paragrafın son satırının çok kısa olması veya bu satırın tek bir sözcükten oluşması hâlinde metin bloğunun dokusunu, bütünlüğünü bozan satıra ne ad verilir?**
+    - A-) Asılı girinti
+    - B-) Uzun tire
+    - C-) Pilcrow
+    - D-) Yetim
+    - **Cevap E-) Dul**
+    ***
+1. **Aşağıdaki yatay hizalama seçeneklerinden hangisinin satırlarda oluşabilecek beyaz boşlukların nehirler meydana getirmesi olasılığı nedeniyle çok iyi uygulanması gerekir?**
+    - A-) Sağa hizalı
+    - B-) Hizasız
+    - C-) Sola hizalı
+    - **Cevap D-) Hizalı (sağlı-sollu hizalı)**
+    - E-) Simetrik hizalı
     ***

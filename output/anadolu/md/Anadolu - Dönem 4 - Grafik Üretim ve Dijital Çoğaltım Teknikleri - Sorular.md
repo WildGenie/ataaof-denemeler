@@ -28,7 +28,8 @@
     - D-) Grammaire Turque
     - E-) Cihan-nüma
 
-    > **Açıklama:** İbrahim Müteferrika matbaasından çıkan ilk kitap Lügati-Vankuli (Vankulu Lügatı) olmuştur. İki ciltten oluşan Vunkulu Lügatı’nın birinci cildi 31 Ocak 1729’da çıkmıştır.
+    > **Açıklama:** *Vankulu Lügati*, Cevherî’nin kaleme aldığı ve *es-Sıhâh* adlı meşhur Arapça sözlüğün Vankulu Mehmed Efendi (ö. 1000/1592) tarafından yapılmış tercümesidir. Eser 28 bâbdan, her bâb ise 28 fasıldan oluşmaktadır. Eseri değerli kılan yönlerden birisi, bir Osmanlı müellifinin kaleminden çıkıp matbaada basılan ilk kitap olmasıdır.
+    > İbrahim Müteferrika matbaasından çıkan ilk kitap Lügati-Vankuli (Vankulu Lügatı) olmuştur. İki ciltten oluşan Vunkulu Lügatı’nın birinci cildi 31 Ocak 1729’da çıkmıştır.
 
     ***
 1. Aşağıdakilerden hangisi geleneksel baskı tekniklerinden biri değildir?
@@ -81,6 +82,16 @@
     > **Açıklama:** Baskı kalitesinin çok yüksek olması ve baskılar arasında fark bulunmaması nedeniyle kağıt paraların basımında da tifdruk baskı tekniği kullanılmaktadır.
 
     ***
+1. Benny Landa’nın 1993 yılında piyasaya sürdüğü dünyanın ilk dijital renkli yazıcısının adı nedir?
+    - A-) Hewlett Packard
+    - **Cevap B-) Indigo**
+    - C-) Electroink
+    - D-) Xerox
+    - E-) Canon
+
+    > **Açıklama:** Benny Landa, 1993 yılında Indigo olarak da adlandırılan dünyanın ilk dijital renkli yazıcısını piyasaya sürer.
+
+    ***
 1. Tonerin kağıt tabanına aktarıldığı ve ardından yerinde kaynaştırıldığı baskı tekniği aşağıdakilerden hangisidir?
     - A-) Inkjet
     - B-) Piezo-Elektrik
@@ -98,7 +109,9 @@
     - **Cevap D-) Diamond Sutra(Elmas Sutra)**
     - E-) Ezop Fabllar
 
-    > **Açıklama:** Diamond Sutra(Elmas Sutra)
+    > **Açıklama:** Çin’in bu teknolojisi Japonya’ya doğru ilerlemiş ve MS 868’de altı sayfalık metin ve gravürlerden
+    > oluşan bilinen **en eski ilk basılı kitap Diamond Sutra** ortaya çıkmıştır.
+    > Diamond Sutra(Elmas Sutra)
 
     ***
 1. 1455 yılında Johannes Gutenberg matbaasından ilk basılı kitap aşağıdakilerden hangi alanı içermektedir?
@@ -108,7 +121,8 @@
     - D-) Ekonomi
     - E-) Siyaset
 
-    > **Açıklama:** Gutenberg, çalışmaları sonucunda 1450 yılında matbaayı icat etmiş, 1455 yılında ise matbaasından ilk basılı kitap olarak İncil’i çıkartmıştır.
+    > **Açıklama:** Gutenberg, 1455 yılında ise matbaasından **ilk basılı kitap olarak İncil’**i çıkarttı.
+    > Gutenberg, çalışmaları sonucunda 1450 yılında matbaayı icat etmiş, 1455 yılında ise matbaasından ilk basılı kitap olarak İncil’i çıkartmıştır.
 
     ***
 1. Gutenberg’den sonra matbaacılık Avrupa’da hızla yayıldı. Matbaacılığın Avrupa’da en hızlı yayıldığı ülke aşağıdakilerden hangisidir?
@@ -118,7 +132,7 @@
     - D-) İtalya
     - E-) Hollanda
 
-    > **Açıklama:** Almanya
+    > **Açıklama:** Gutenberg’den sonra matbaacılık Avrupa’da hızla yayıldı. Matbaacılığın **Almanya’da yayılması daha** **hızlı** oldu; 1461’de Bamberg’de, 1470’te önce Köln, Augsburg ve Nuremberg’de ardından Ulm, Zübeck, Leipzig’de basımevleri açıldı.
 
     ***
 1. Matbaa, insanlığın ilerlemesinde büyük katkıların merkezindeydi. Aşağıdakilerden hangisi bu katkılardan **değildir?**
@@ -128,7 +142,9 @@
     - D-) Küresel bir haber ağı oluştu.
     - E-) Yeni bir Rönesans dönemi yarattı.
 
-    > **Açıklama:** Bilimsel devrimler yavaşladı.
+    > **Açıklama:** **Bilimsel devrimler hız kazandı:** Bilimsel yöntemin geliştiricilerinden olan İngiliz filozof Francis
+    > Bacon, 1620’de dünyayı sonsuza dek değiştiren üç icattan bahseder: Barut, deniz pusulası ve matbaa. Matbaadan önce bilimsel verilerin elle yazılması pahalı ve elde edilmesi zor bir süreçti. Bunun yanı sıra insan hatasına da yatkındı. Bilimsel bulguları daha geniş kitlelere yayabilen matbaa sayesinde bilim, 16. ve 17. yüzyıllarda büyük atılımlar yaşadı. Örneğin, gökbilimci Copernicus, 1500’lerin başında güneş merkezli galaksi modelini sunarken yalnızca kendi gözlemlerinden değil basılı olan astronomik gezegen hareketleri tablolarından da yararlandı. Kitapların yayılma hızının yanı sıra doğru bir şekilde kopyalanabilmeleri etkili oldu. Formüllerin ve matematiksel tabloların basılı bir şekilde var olabilmesi bilim adamlarının mevcut verilere güvenebilmesini sağladı.
+    > Bilimsel devrimler yavaşladı.
 
     ***
 1. Aşağıdakilerden hangisi Osmanlı’ya matbaacılığın geç gelişinin sebeplerinden **değildir?**
@@ -138,7 +154,11 @@
     - D-) Hattatların mesleğini kaybetme korkusu
     - **Cevap E-) Batıya hayranlık**
 
-    > **Açıklama:** Batıya hayranlık
+    > **Açıklama:** **Osmanlı döneminde matbaanın geç gelişinin sebebi** çeşitli görüşler tarafından batılılaşmaya
+    > olan karşıtlık, hattat ve müzehhiplerin mesleklerini kaybetme korkusu, kitabın bir sanat olarak
+    > görülmesi, kâğıt ihtiyacının yeteri kadar karşılanamaması, teknik görevlilerin yetersizliği ve elverişli
+    > ortamın bulunmaması gibi etkenler sıralanabilir.
+    > Batıya hayranlık
 
     ***
 1. İbrahim Müteferrika ilk matbaasını açmıştır. Bu matbaadan çıkan ilk kitap aşağıdakilerden hangi alanda olmuştur?
@@ -148,7 +168,8 @@
     - D-) Tiyatro
     - E-) Şiir
 
-    > **Açıklama:** Sözlük
+    > **Açıklama:** İbrahim Müteferrika, matbaanın kurulmasını üstlenmiş ve matbaasını açmıştır. Bu matbaadan çıkan ilk kitap ise Lügati-Vankuli (Vankulu Lügatı) olmuştur.
+    > Sözlük
 
     ***
 1. Man firması, Türkiye’ye 1950 li yıllarda ilk kez yeni bir baskı sistemini getirdi. Doğan Kardeş Matbaası’nda kurulan bu basit baskı sisteminde, aylık “Resimli Hayat” dergisinin basımıyla işe başlandı. Bu baskı sistemi çeşidi aşağıdakilerden hangisidir?
@@ -158,7 +179,7 @@
     - **Cevap D-) Tifdruk baskı**
     - E-) Ofset baskı
 
-    > **Açıklama:** Tifdruk baskı
+    > **Açıklama:** Man firması 70x100’lük bir makineti Apa Ofset’e sattı. Artık bütün film afişleriyle kimi dergiler burada basılıyor, bir yandan da ofset ustaları yetiştiriliyordu. Aynı şirket, **Türkiye’ye ilk kez tifdruk baskı** sistemini getirdi. Böylece Doğan Kardeş Matbaası’nda kurulan basit bir tifdruk makinede, aylık “Resimli Hayat” **dergisinin** basımıyla işe başlandı.
 
     ***
 1. Birden çok orijinalin olduğu çoğu baskı türünün aksine yalnızca bir kez yapılabilen görüntülere veya çizgilere sahip olan düz baskı tekniği aşağıdakilerden hangisidir?
@@ -168,7 +189,8 @@
     - D-) Litografi baskı
     - **Cevap E-) Mono baskı**
 
-    > **Açıklama:** Mono baskı
+    > **Açıklama:** **Mono baskı (Tek baskı):** Düz baskı türleri içinde en çok rağbet gören tekniktir. Mono baskı, birden
+    > çok orijinalin olduğu çoğu baskı türünün aksine yalnızca bir kez yapılabilen görüntülere veya çizgilere sahip bir tekniktir.
 
     ***
 1. Endüstriyel Basım Teknolojileri içinde kaliteli baskıya imkân veren bir seri baskı tekniğidir. Bu baskının başlıca özelliği net, yumuşak ve kopyaları birbirinden ayrımsız baskı vermesidir. Bu baskı sisteminde kalıp boya haznesinin içinde döndüğünden göz kararı ayarlama söz konusu değildir. Kalıp her seferinde eşit miktarda mürekkep almaktadır. Bu nedenle de baskılar net ve birbirine denk olur. Bu basım tekniği aşağıdakilerden hangisidir?
@@ -178,7 +200,7 @@
     - D-) Tipografi baskı
     - E-) Tampon baskı
 
-    > **Açıklama:** Tifdruk baskı
+    > **Açıklama:** **Tifdruk baskı,** kaliteli baskıya imkan veren bir seri baskı tekniğidir...kalıp boya haznesinin içinde döndüğünden göz kararı ayarlama söz konusu değildir. Kalıp her seferinde eşit miktarda mürekkep almaktadır. Bu nedenle de baskılar net ve birbirine denk olur.
 
     ***
 1. Geleneksel baskı yöntemlerinden farklı olarak görüntüleri doğrudan kâğıt, kanvas, kumaş ve kart stoğu gibi çeşitli ortam türlerine aktarma işleminin gerçekleştiği baskı tekniği aşağıdakilerden hangisidir?
@@ -188,7 +210,7 @@
     - **Cevap D-) Dijital baskı**
     - E-) Ofset baskı
 
-    > **Açıklama:** Dijital baskı
+    > **Açıklama:** **Dijital baskı,** geleneksel baskı yöntemlerinden farklı olarak dijital görüntüleri doğrudan kâğıt, kanvas, kumaş ve kart stoğu gibi çeşitli ortam türlerine aktarma işlemidir.
 
     ***
 1. Tarihte ilk kez, kitaba kapak geçirme ve buna kitap adı, yazar adı, basımevi adı, baskı tarihi koyma uygulaması nerede başlamıştır?
@@ -198,17 +220,18 @@
     - D-) Ulm
     - E-) Zübeck
 
-    > **Açıklama:** Köln
+    > **Açıklama:** Gutenberg’den sonra matbaacılık Avrupa’da hızla yayıldı. Matbaacılığın Almanya’da yayılması daha hızlı oldu; 1461’de Bamberg’de, 1470’te önce Köln, Augsburg ve Nuremberg’de ardından Ulm, Zübeck, Leipzig’de basımevleri açıldı. Kitaba kapak geçirme ve buna kitap adı, yazar adı, basımevi adı, baskı tarihi koyma uygulaması da Köln’de başladı.
 
     ***
-1. 15. yüzyılda Avrupa’da yaşanan bu yenilik ile birlikte, bilginin her zamankinden daha hızlı yayılmasını sağladı. Aşağıdakilerden hangisi matbaanın katkılardan biri değildir?
+1. 15\. yüzyılda Avrupa’da yaşanan bu yenilik ile birlikte, bilginin her zamankinden daha hızlı yayılmasını sağladı. Aşağıdakilerden hangisi matbaanın katkılardan biri değildir?
     - A-) Küresel bir haber ağı oluştu.
     - B-) Yeni bir Rönesans dönemi yarattı.
     - C-) Bilimsel devrimler hız kazandı.
     - **Cevap D-) İfade olanakları azaldı.**
     - E-) Yeni bir endüstri yaratıldı.
 
-    > **Açıklama:** İfade olanakları azaldı.
+    > **Açıklama:** Her görüş, ifade olanağı kazandı: Matbaadan önce eleştirel ya da istenmeyen görüşleri sansürlemek çok daha kolaydı. Matbaadan sonra ise bir fikrin tüm kopyalarını yok etmek neredeyse imkânsız hâle geldi. Böylece, bir konu hakkında kendi görüşünü beyan etmek isteyen herkes sesini duyurabiliyordu. Eleştirel akıl yürütme, gelenek ve göreneklerin üzerine çıktı. Bilgi demokratikleşti.
+    > İfade olanakları azaldı.
 
     ***
 1. Osmanlı'da ilk matbaa kim tarafından kurulmuştur?
@@ -218,7 +241,7 @@
     - D-) Osman Ersoy
     - E-) Johannes Gutenberg
 
-    > **Açıklama:** İbrahim Müteferrika
+    > **Açıklama:** İbrahim Müteferrika’nın kurduğu bu matbaa, ilk kitabı yayımladığı 1729’dan kapandığı 1794 yılına kadar 66 yılda ancak 18 yıl çalıştırılabilmiştir. Matbaanın çalıştığı bu 18 yıl içinde de 23 (ikinci baskılar, ikinci ve üçüncü ciltler de sayılırsa 31) kitap yayımlayabilmiştir. Bunların Toplam baskı sayısının da 27 bini geçmediği söylenebilir (Kabacalı, 2000: 26).
 
     ***
 1. Ağaç ile linol baskının yanı sıra ilkokullarda yapılan patates baskı, mühürler hangi baskı sınıfına dahildir?
@@ -228,17 +251,17 @@
     - D-) Serigrafi Baskı
     - E-) Dijital Baskı
 
-    > **Açıklama:** Yüksek Baskı
+    > **Açıklama:** Yüksek baskı en eski teknik olup günümüzde hâlâ en çok kullanılan tekniktir. Yüksek baskı olarak ağaç ile linol baskının yanı sıra ilkokullarda yapılan patates baskı da bir tür baskıdır. Hatta günlük yaşamda kullandığımız mühürler de yüksek baskı sınıfına girer (Kıran, 2010: 31).
 
     ***
-1. Aşağıdakilerden hangisi Ofset baskının diğer adıdır?
+1. Aşağıdakilerden hangisi Ofset baskının diğer adıdır?
     - A-) Yüksek baskı
     - B-) Tipografik baskı
     - **Cevap C-) Düz baskı**
     - D-) Tifdruk baskı
     - E-) Şablon baskı
 
-    > **Açıklama:** Düz baskı
+    > **Açıklama:** Endüstriyel baskı teknolojileri 5 ana başlık altında incelenmektedir: 1. Yüksek baskı: Tipografik baskı, flekso baskı 2. Düz baskı: Ofset baskı 3. Çukur baskı: Tifdruk baskı, tampon (pad) baskı 4. Şablon baskı: Serigrafi baskı 5. Dijital baskı: Computer to press (direkt baskı)
 
     ***
 1. Aşağıdakilerden hangisi serigrafi baskının diğer adıdır?
@@ -248,7 +271,7 @@
     - D-) Tampon (pad) baskı
     - **Cevap E-) Şablon baskı**
 
-    > **Açıklama:** Şablon baskı
+    > **Açıklama:** 1\. Yüksek baskı: Tipografik baskı, flekso baskı 2. Düz baskı: Ofset baskı 3. Çukur baskı: Tifdruk baskı, tampon (pad) baskı 4. Şablon baskı: Serigrafi baskı 5. Dijital baskı: Computer to press (direkt baskı)
 
     ***
 1. Metal hurufatların yeniden kullanılabilmesi nedeniyle baskı maliyeti düşük olan baskı türü aşağıdakilerden hangisidir?
@@ -258,7 +281,8 @@
     - D-) Tifdruk baskı
     - E-) Tampon baskı
 
-    > **Açıklama:** Tipo baskı
+    > **Açıklama:** Tipografik (Tipo) Baskının metal hurufatların yeniden kullanılabilmesi nedeniyle baskı maliyeti düşüktür.
+    > Tipo baskı
 
     ***
 1. Baskı kalıpları hızlı ve kolay üreten, plaka ile baskı yüzeyi arasında doğrudan temas olmadığı için baskı plakasının ömrü uzun ömürlü olan ve ticari baskıda yüksek kaliteli baskı üretmenin en ucuz yöntemi olan baskı türü, aşağıdakilerden hangisidir?
@@ -268,7 +292,7 @@
     - **Cevap D-) Ofset Baskı**
     - E-) Serigrafi baskı
 
-    > **Açıklama:** Ofset Baskı
+    > **Açıklama:** Ofset baskı diğer baskı türlerine göre bazı avantajlar taşır: •Ofsetbaskıkeskinvetemizgörüntülerüretir ve tipo baskıya göre daha kolay yazı yazar. Bunun nedeni, kauçuk örtünün baskı yüzeyinin dokusuna uymasıdır. •Baskıkalıplarıhızlıvekolayüretilir. •Plakailebaskıyüzeyiarasındadoğrudan temas olmadığı için baskı plakasının ömrü uzun ömürlüdür. Plakalar, bir milyon baskıdan daha uzun baskılar yapabilir. •Ofsetbaskı,ticaribaskıdayüksekkaliteli baskı üretmenin en ucuz yöntemidir. Ofset baskının diğer baskı yöntemlerine göre dezavanjları ise şunlardır: •Rotogravürveyafotogravürbaskıyakıyasla daha düşük görüntü kalitesi elde edilir. •Plakaüretimivebaskımakinesininkurulumu zaman ve maliyet gerektirir. Bunun yerine küçük boyutlu işler için dijital ofset makineler kullanılabilir (http-3).
 
     ***
 1. Net, yumuşak ve kopyaları birbirinden ayrımsız baskı veren, kalıpları çok yüksek tirajlara dayanıklı olan baskı türü aşağıdakilerden hangisidir?
@@ -278,7 +302,7 @@
     - D-) Tampon baskı
     - E-) Dijital Baskı
 
-    > **Açıklama:** Tifdruk baskı
+    > **Açıklama:** Tifdruk baskı, kaliteli baskıya imkan veren bir seri baskı tekniğidir. Tifdruk baskının başlıca özelliği net, yumuşak ve kopyaları birbirinden ayrımsız baskı vermesidir. Bunun nedeni ise gerek tipo baskıda gerekse ofset baskıda mürekkebin merdanelere oradan da baskı kalıplarına akımı musluklar aracılığıyla vermesi ve genelde elle ayarlanmasıdır. Bu bakımdan ne kadar dikkat edilirse edilsin boya akımında dengesizlikler olabilmektedir. Tifdruk baskı sisteminde kalıp boya haznesinin içinde döndüğünden göz kararı ayarlama söz konusu değildir. Kalıp her seferinde eşit miktarda mürekkep almaktadır. Bu nedenle de baskılar net ve birbirine denk olur. Tifdruk baskının en önemli özelliklerinden biri de kalıplarının çok yüksek tirajlara dayanıklı olmasıdır. Bu özelliğinden dolayı yüksek tirajlı işlerde hem kaliteli sonuç vermekte hem de baskı maliyeti diğer baskı sistemlerine oranla düşük olmaktadır. Ambalajlar aynı kalıpla yıllarca tekrar tekrar basılabilmektedir. Baskı k
 
     ***
 1. Film yapmak, renk provaları yapmak, parçaları manuel olarak bir araya getirmek ve plaka yapmak dahil olmak üzere geleneksel baskı sürecindeki sayısız mekanik adımı ortadan kaldıran baskı yöntemi, aşağıdakilerden hangisidir?
@@ -288,7 +312,17 @@
     - D-) Vitreografi baskı
     - **Cevap E-) Dijital baskı**
 
-    > **Açıklama:** Dijital baskı
+    > **Açıklama:** Dijital baskı, film yapmak, renk provaları yapmak, parçaları manuel olarak bir araya getirmek ve plaka yapmak dahil olmak üzere geleneksel baskı sürecindeki sayısız mekanik adımı ortadan kaldırır. Sayfaları sıraya koymak için basılı “imzaları” kesmek ve katlamak yerine, yazılım bunları belleğe sıralar ve doğru sırayla yazdırır. Geleneksel, seri üretim baskı yöntemlerinin aksine, dijital baskı baskı plakası yapmaya gerek olmadığı için sadece düşük hacimli baskılı ürünlere ihtiyaç duyan müşteriler için ideal ve uygun maliyetli bir seçenektir. Dijital baskı, esnek bir baskı olması yönüyle her bir baskıda değişiklik yapma olanağına sahiptir, dolayısıyla her bir baskıda farklı şekillerde basabilme seçeneği sunar. Dijital baskı bu özelliğinden dolayı kısa süreli yayınlar, kişiselleştirilmiş içerik ve veri baskısı (VDP) için uygun bir yoldur.
+
+    ***
+1. Bilinen en eski baskı teknolojisinde aşağıdakilerden hangisi kullanılarak gerçekleştirilmiştir?
+    - **Cevap A-) Tahta bloklar**
+    - B-) Kumaş parçaları
+    - C-) Cam yüzeyi
+    - D-) Taş bloklar
+    - E-) Yaprak parçaları
+
+    > **Açıklama:** Bilinen en eski baskı teknolojileri ise uzak doğu ülkelerinde kullanılmıştır. Çin’de MS 600’lü yıllarla birlikte tahta blokların üzerine mürekkepli yazılarla baskı yapılmıştır.
 
     ***
 1. Altı sayfalık metin ve gravürlerden oluşan en eski ilk basılı kitap aşağıdakilerden hangisidir?
@@ -381,27 +415,27 @@
     > **Açıklama:** Ofset baskı, bir baskı plakası üzerine mürekkebin kauçuk bir silindir üzerinden geçtiği ve ardından kâğıda veya başka bir malzemeye aktarıldığı yaygın olarak kullanılan baskı tekniğidir. Kauçuk silindir, ahşap, kumaş, metal, deri ve pürüzlü kâğıt üzerine baskı yapılma olanağı sağlaması açısından büyük bir esneklik sağlar. Ofset baskıda basılacak olan madde ne baskı plakasının yüzeyinin üstüne çıkarılır ne de altında yer alır. Bunun yerine basılacak madde plaka ile aynı hizadadır. Bu sebeple ofset baskı düz baskı (planografik) bir baskı yöntemi olarak sınıflandırılır.
 
     ***
-1. Bilinen en eski baskı teknolojileri ise uzak doğu ülkelerinde kullanılmıştır. Çin’de tahta blokların üzerine mürekkepli yazılarla yapılan baskı hangi yıllarda gerçekleştirilmiştir?
+1. Bilinen en eski baskı teknolojileri ise uzak doğu ülkelerinde kullanılmıştır. Çin’de tahta blokların üzerine mürekkepli yazılarla yapılan baskı hangi yıllarda gerçekleştirilmiştir?
     - **Cevap A-) MS 600’ler**
     - B-) MS 900’ler
     - C-) MS 1200’ler
     - D-) MS 1600’ler
     - E-) MS 1900’ler
 
-    > **Açıklama:** Yazının icadı, bu yazıyı belirli yüzeylere aktararak çoğaltmayı beraberinde getirmiştir. Bilinen en eski baskı teknolojileri ise uzak doğu ülkelerinde kullanılmıştır. Çin’de MS 600’lü yıllarla birlikte tahta blokların üzerine mürekkepli yazılarla baskı yapılmıştır.
+    > **Açıklama:** Yazının icadı, bu yazıyı belirli yüzeylere aktararak çoğaltmayı beraberinde getirmiştir. Bilinen en eski baskı teknolojileri ise uzak doğu ülkelerinde kullanılmıştır. Çin’de MS 600’lü yıllarla birlikte tahta blokların üzerine mürekkepli yazılarla baskı yapılmıştır.
 
     ***
-1. Çin’de tahta blokların üzerine mürekkepli yazılarla yapılan baskı Japonya’ya doğru ilerlemiş ve MS 868’de altı sayfalık metin ve gravürlerden oluşan bilinen en eski ilk basılı kitap ortaya çıkmıştır. Bu kitabın adı aşağıdakilerden hangisidir?
+1. Çin’de tahta blokların üzerine mürekkepli yazılarla yapılan baskı Japonya’ya doğru ilerlemiş ve MS 868’de altı sayfalık metin ve gravürlerden oluşan bilinen en eski ilk basılı kitap ortaya çıkmıştır. Bu kitabın adı aşağıdakilerden hangisidir?
     - A-) Gutenberg İncili
     - **Cevap B-) Diamond Sutra**
     - C-) Papirus Sutra
     - D-) Müteferrika
     - E-) Origami
 
-    > **Açıklama:** Çin’de MS 600’lü yıllarla birlikte tahta blokların üzerine mürekkepli yazılarla baskı yapılmıştır. Çin’in bu teknolojisi Japonya’ya doğru ilerlemiş ve MS 868’de altı sayfalık metin ve gravürlerden oluşan bilinen en eski ilk basılı kitap Diamond Sutra ortaya çıkmıştır. Uzak Doğu’daki bu gelişmeler zaman içerisinde Avrupa’ya da taşınmıştır.
+    > **Açıklama:** Çin’de MS 600’lü yıllarla birlikte tahta blokların üzerine mürekkepli yazılarla baskı yapılmıştır. Çin’in bu teknolojisi Japonya’ya doğru ilerlemiş ve MS 868’de altı sayfalık metin ve gravürlerden oluşan bilinen en eski ilk basılı kitap Diamond Sutra ortaya çıkmıştır. Uzak Doğu’daki bu gelişmeler zaman içerisinde Avrupa’ya da taşınmıştır.
 
     ***
-1. İtalya’da ilk matbaa 1465’te nerede kuruldu?
+1. İtalya’da ilk matbaa 1465’te nerede kuruldu?
     - A-) Sorbonne'da
     - B-) Roma'da
     - **Cevap C-) Subiaco manastırında**
@@ -411,85 +445,86 @@
     > **Açıklama:** İtalya’da ilk matbaa 1465’te Subiaco manastırında kuruldu
 
     ***
-1. "......................, en basit ve en eski baskıresim biçimlerinden biridir. Tarih öncesi mağaralarda bulunan kırmızı toprak el baskıları ilk ................ örnekleridir. ...................., bir biçimin ayrıntılarını göstermek için istenmeyen yerlerin oyulmasıdır. Bu baskıda kalıbın tümsek kalan bölümlerine boya verilir ve bu boya başka bir yüzeye aktarılır. Bu işlemle birlikte beyaz kalmasını istediğimiz yerler kesilir veya oyularak çıkarılır." ifadesindeki boş yerlere aşağıdakilerden hangisi gelmelidir?
+1. "......................, en basit ve en eski baskıresim biçimlerinden biridir. Tarih öncesi mağaralarda bulunan kırmızı toprak el baskıları ilk ................ örnekleridir. ...................., bir biçimin ayrıntılarını göstermek için istenmeyen yerlerin oyulmasıdır. Bu baskıda kalıbın tümsek kalan bölümlerine boya verilir ve bu boya başka bir yüzeye aktarılır. Bu işlemle birlikte beyaz kalmasını istediğimiz yerler kesilir veya oyularak çıkarılır." ifadesindeki boş yerlere aşağıdakilerden hangisi gelmelidir?
     - A-) Çukur Baskı
     - B-) Düz Baskı
     - **Cevap C-) Yüksek Baskı**
     - D-) Ofset Baskı
     - E-) Elek Baskı
 
-    > **Açıklama:** Yüksek baskı, en basit ve en eski baskıresim biçimlerinden biridir. Tarih öncesi mağaralarda bulunan kırmızı toprak el baskıları ilk yüksek baskı örnekleridir. Yüksek baskı, bir biçimin ayrıntılarını göstermek için istenmeyen yerlerin oyulmasıdır. Rölyef baskı özelliğinde olup kalıbın yüksekte kalan bölümlerine boya verilir ve bu boya başka bir yüzeye aktarılır. Bu işlemle birlikte beyaz kalmasını istediğimiz yerler kesilir veya oyularak çıkarılır.
+    > **Açıklama:** Yüksek baskı, en basit ve en eski baskıresim biçimlerinden biridir. Tarih öncesi mağaralarda bulunan kırmızı toprak el baskıları ilk yüksek baskı örnekleridir. Yüksek baskı, bir biçimin ayrıntılarını göstermek için istenmeyen yerlerin oyulmasıdır. Rölyef baskı özelliğinde olup kalıbın yüksekte kalan bölümlerine boya verilir ve bu boya başka bir yüzeye aktarılır. Bu işlemle birlikte beyaz kalmasını istediğimiz yerler kesilir veya oyularak çıkarılır.
 
     ***
-1. 1440 yılında Alman asıllı Johannes Gutenberg tarafından geliştirilen baskı türü aşağıdakilerden hangisidir?
+1. 1440 yılında Alman asıllı Johannes Gutenberg tarafından geliştirilen baskı türü aşağıdakilerden hangisidir?
     - A-) Linol Baskı
     - B-) Yüksek Baskı
     - C-) Serigrafi
     - D-) Ofset Baskı
     - **Cevap E-) Tipo baskı**
 
-    > **Açıklama:** Tipo baskı 1440 yılında Alman asıllı Johannes Gutenberg tarafından geliştirilmiştir.
+    > **Açıklama:** Tipo baskı 1440 yılında Alman asıllı Johannes Gutenberg tarafından geliştirilmiştir.
 
     ***
-1. Kâğıt, kaç yılında Çin’de Tsei Lun tarafından bulunmasıyla, baskıda kullanılmaya başlanmıştır?
+1. Kâğıt, kaç yılında Çin’de Tsei Lun tarafından bulunmasıyla, baskıda kullanılmaya başlanmıştır?
     - A-) MÖ 1050
     - **Cevap B-) MS 105**
     - C-) MS 1050
     - D-) MS 1500
     - E-) MS 1950
 
-    > **Açıklama:** Kâğıdın M.S. 105 yılında Çin’de Tsei Lun tarafından bulunmasıyla kâğıt baskı kullanılmaya başlanmıştır.
+    > **Açıklama:** Kâğıdın M.S. 105 yılında Çin’de Tsei Lun tarafından bulunmasıyla kâğıt baskı kullanılmaya başlanmıştır.
 
     ***
-1. 1796’da Bavyera Krallığı’nda Alois Senefelder tarafından icat edilen teknik aşağıdakilerden hangisidir?
+1. 1796’da Bavyera Krallığı’nda Alois Senefelder tarafından icat edilen teknik aşağıdakilerden hangisidir?
     - **Cevap A-) Taş Baskı**
     - B-) Elek Baskı
     - C-) Linol Baskı
     - D-) Mono Baskı
     - E-) Çukur Baskı
 
-    > **Açıklama:** Taş baskı, 1796’da Bavyera Krallığı’nda Alois Senefelder tarafından icat edilmiştir
+    > **Açıklama:** Taş baskı, 1796’da Bavyera Krallığı’nda Alois Senefelder tarafından icat edilmiştir.
 
     ***
-1. Günümüzde gazeteler, dergiler, broşürler, kırtasiye malzemeleri ve kitaplar genellikle hangi baskı yöntemi ile yapılır?
+1. Günümüzde gazeteler, dergiler, broşürler, kırtasiye malzemeleri ve kitaplar genellikle hangi baskı yöntemi ile yapılır?
     - A-) Serigrafi
     - B-) Çukur Baskı
     - C-) Tampon Baskı
     - **Cevap D-) Ofset Baskı**
     - E-) Tipo Baskı
 
-    > **Açıklama:** Ofset litografi, basılı materyaller oluşturmanın en yaygın yollarından biridir. Gazeteler, dergiler, broşürler, kırtasiye malzemeleri ve kitaplar bu baskı yöntemi ile yapılır.
+    > **Açıklama:** Ofset litografi, basılı materyaller oluşturmanın en yaygın yollarından biridir. Gazeteler, dergiler, broşürler, kırtasiye malzemeleri ve kitaplar bu baskı yöntemi ile yapılır.
 
     ***
-1. Mürekkebin esnek kauçuk baskı plakaları aracılığıyla çeşitli yüzeylere uygulandığı döner baskı türü olan ve kullanılan mürekkeplerin, buharlaşma yoluyla hızla kurur ve gıdalarla doğrudan temas eden ambalaj paketlerinin kullanımı için güvenli olduğu baskı türü aşağıdakilerden hangisidir?
+1. Mürekkebin esnek kauçuk baskı plakaları aracılığıyla çeşitli yüzeylere uygulandığı döner baskı türü olan ve kullanılan mürekkeplerin, buharlaşma yoluyla hızla kurur ve gıdalarla doğrudan temas eden ambalaj paketlerinin kullanımı için güvenli olduğu baskı türü aşağıdakilerden hangisidir?
     - **Cevap A-) Flekso baskı**
     - B-) Tipo Baskı
     - C-) Ofset Baskı
     - D-) Serigrafi
     - E-) Tampon Baskı
 
-    > **Açıklama:** Flekso baskı (fleksografi), mürekkebin esnek kauçuk baskı plakaları aracılığıyla çeşitli yüzeylere uygulandığı döner baskı şeklidir. Flekso baskıda kullanılan mürekkepler, buharlaşma yoluyla hızla kurur ve gıdalarla doğrudan temas eden ambalaj paketlerinin kullanımı için güvenlidir.
+    > **Açıklama:** Flekso baskı (fleksografi), mürekkebin esnek kauçuk baskı plakaları aracılığıyla çeşitli yüzeylere uygulandığı döner baskı şeklidir. Flekso baskıda kullanılan mürekkepler, buharlaşma yoluyla hızla kurur ve gıdalarla doğrudan temas eden ambalaj paketlerinin kullanımı için güvenlidir.
 
     ***
-1. Metin, grafik ve resim gibi öğelerin yazdırma işlemini durdurmadan veya yavaşlatmadan ve bir veritabanından veya harici dosyadan bilgi kullanmadan basılı bir parçadan diğerine değiştirilebildiği isteğe bağlı yazdırma da dahil olmak üzere bir dijital baskı biçimine ne ad verilir?
+1. Metin, grafik ve resim gibi öğelerin yazdırma işlemini durdurmadan veya yavaşlatmadan ve bir veritabanından veya harici dosyadan bilgi kullanmadan basılı bir parçadan diğerine değiştirilebildiği isteğe bağlı yazdırma da dahil olmak üzere bir dijital baskı biçimine ne ad verilir?
     - A-) Dijital Baskı
     - B-) DTP baskı
     - C-) Ofset Litografi
     - **Cevap D-) Değişken veri yazdırma**
     - E-) Serigrafik veri yazdırma
 
-    > **Açıklama:** Değişken veri yazdırma (variable data printing), metin, grafik ve resim gibi öğelerin yazdırma işlemini durdurmadan veya yavaşlatmadan ve bir veritabanından veya harici dosyadan bilgi kullanmadan basılı bir parçadan diğerine değiştirilebildiği isteğe bağlı yazdırma da dahil olmak üzere bir dijital baskı biçimidir.
+    > **Açıklama:** Değişken veri yazdırma (variable data printing), metin, grafik ve resim gibi öğelerin yazdırma işlemini durdurmadan veya yavaşlatmadan ve bir veritabanından veya harici dosyadan bilgi kullanmadan basılı bir parçadan diğerine değiştirilebildiği isteğe bağlı yazdırma da dahil olmak üzere bir dijital baskı biçimidir.
 
     ***
 ## Unite 2
-1. ----------------; çeşitli verilerin elektronik ortamlarda bulunması ve gösterilmesidir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?
+1. ----------------; çeşitli verilerin elektronik ortamlarda bulunması ve gösterilmesidir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?
     - A-) Dijital Tasarım
     - **Cevap B-) Dijital Mecra**
     - C-) Dijital Aplikasyon
     - D-) Dijital Platform
     - E-) Dijital Ortam
 
-    > **Açıklama:** Yukarıdaki cümlede boş bırakılan yeri B seçeneği (dijital mecra) doğru olarak tamamlar. Dijital mecra; çeşitli verilerin elektronik ortamlarda bulunması ve gösterilmesidir.
+    > **Açıklama:** GİRİŞ
+    > Yukarıdaki cümlede boş bırakılan yeri B seçeneği (dijital mecra) doğru olarak tamamlar. Dijital mecra; çeşitli verilerin elektronik ortamlarda bulunması ve gösterilmesidir.
 
     ***
 1. Aşağıdakilerden hangisi endüstriyel baskı tekniklerinden biri değildir?
@@ -499,7 +534,8 @@
     - D-) Şablon-elek baskı
     - **Cevap E-) Linol baskı**
 
-    > **Açıklama:** Baskı teknikleri sanatsal ve endüstriyel baskı teknikleri şeklinde  iki bölüme ayrılır. Sanatsal baskı dediğimiz geleneksel (Traditional) baskı teknikleri; linol, ağaç, gravür, litoğrafi vb. ile yapılan çalışmalardır. Endüstriyel baskı teknikleri ise kullanılan ve uygulanan teknik kalıpların yapılarına göre;  yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve dijital baskı şeklinde beşe ayrılır. Dolayısıyla "Linol baskı" endüstriyel baskı tekniklerinden biri değildir.
+    > **Açıklama:** DİJİTAL TASARIMDA YÜKSEK BASKI SİSTEMLERİ
+    > Baskı teknikleri sanatsal ve endüstriyel baskı teknikleri şeklinde iki bölüme ayrılır. Sanatsal baskı dediğimiz geleneksel (Traditional) baskı teknikleri; linol, ağaç, gravür, litoğrafi vb. ile yapılan çalışmalardır. Endüstriyel baskı teknikleri ise kullanılan ve uygulanan teknik kalıpların yapılarına göre; yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve dijital baskı şeklinde beşe ayrılır. Dolayısıyla "Linol baskı" endüstriyel baskı tekniklerinden biri değildir.
 
     ***
 1. Yüksek baskı sistemleri ile ilgili olarak aşağıda verilen ifadelerden hangisi yanlıştır?
@@ -509,7 +545,8 @@
     - D-) Patates ve soğan baskıları, lastik kaşeler ve mühürler, yüksek baskı tekniğine uygundur.
     - **Cevap E-) Yüksek baskı sisteminin “tifdruk" ve "tampon” olmak üzere iki çeşidi bulunur.**
 
-    > **Açıklama:** Yüksek baskı sistemleri ile ilgili olarak  verilen ifadelerden E seçeneği (*Yüksek baskı sisteminin “tifdruk" ve "tampon” olmak üzere iki çeşidi bulunur*.) yanlıştır. Tifdruk ve tampon, çukur baskı çeşitleridir. Yüksek baskı sisteminin “tipo baskı” ve “flekso baskı” olmak üzere iki çeşidi bulunur.
+    > **Açıklama:** DİJİTAL TASARIMDA YÜKSEK BASKI SİSTEMLERİ
+    > Yüksek baskı sistemleri ile ilgili olarak verilen ifadelerden E seçeneği (*Yüksek baskı sisteminin “tifdruk" ve "tampon” olmak üzere iki çeşidi bulunur*.) yanlıştır. Tifdruk ve tampon, çukur baskı çeşitleridir. Yüksek baskı sisteminin “tipo baskı” ve “flekso baskı” olmak üzere iki çeşidi bulunur.
 
     ***
 1. Tipo baskı sistemi ve tarihsel süreci ile ilgili olarak aşağıda verilen ifadelerden hangisi yanlıştır?
@@ -519,7 +556,8 @@
     - D-) Tipo baskının özünde, yazının yani mekanikleştirilen hareketli hurufat sisteminin kompozisyon hâline getirilerek çoğaltması yatar.
     - E-) Tipo baskı tekniğinde; ağaç, plastik bir malzeme olan lastik ve metal malzemeler, kalıp hazırlarken kullanılabilir.
 
-    > **Açıklama:** Tipo baskı sistemi ve tarihsel süreci ile ilgili olarak verilen ifadelerden A seçeneği (*Johannes Gutenberg’in 1440’ta hurufat adı verilen kilden yapılmış harf kalıplarını icat etmesi, matbaacılık sektöründe devrim sayılacak bir gelişmedir.*) yanlıştır. Johannes Gutenberg’in 1440’ta hurufat adı verilen, kil değil metal harf kalıplarını icat etmesi, matbaacılık sektöründe devrim sayılacak bir gelişme olmuştur.
+    > **Açıklama:** TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ
+    > Tipo baskı sistemi ve tarihsel süreci ile ilgili olarak verilen ifadelerden A seçeneği (*Johannes Gutenberg’in 1440’ta hurufat adı verilen kilden yapılmış harf kalıplarını icat etmesi, matbaacılık sektöründe devrim sayılacak bir gelişmedir.*) yanlıştır. Johannes Gutenberg’in 1440’ta hurufat adı verilen, kil değil metal harf kalıplarını icat etmesi, matbaacılık sektöründe devrim sayılacak bir gelişme olmuştur.
 
     ***
 1. Aşağıdakilerden hangisi günümüzde tipo baskı sistemi kullanılarak yapılan işlerden biridir?
@@ -529,7 +567,8 @@
     - D-) Fatura
     - E-) El ilanı
 
-    > **Açıklama:** Kesim; günümüzde tipo baskı sistemi kullanılarak yapılan işlerden biridir. Tipo baskı sisteminde kalıp hazırlama aşaması zorlu ve uzun bir süreç gerektirdiği için günümüzde kartvizit, kitap, broşür, fatura, el ilanı gibi ürünlerin basımında tercih edilmez. Numaratör, kesim, kırım, yaldız baskısı (ısı ile), pilyaj, perforaj gibi işler için kullanılır.
+    > **Açıklama:** TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ
+    > Kesim; günümüzde tipo baskı sistemi kullanılarak yapılan işlerden biridir. Tipo baskı sisteminde kalıp hazırlama aşaması zorlu ve uzun bir süreç gerektirdiği için günümüzde kartvizit, kitap, broşür, fatura, el ilanı gibi ürünlerin basımında tercih edilmez. Numaratör, kesim, kırım, yaldız baskısı (ısı ile), pilyaj, perforaj gibi işler için kullanılır.
 
     ***
 1. Aşağıdakilerden hangisi hurufatın fiziksel özelliklerinden biri değildir?
@@ -539,7 +578,8 @@
     - **Cevap D-) Kumpas**
     - E-) İşaret kertiği
 
-    > **Açıklama:** "Kumpas" hurufatın fiziksel özelliklerinden biri değildir. Matbaacılığın tipografik sisteminde kullanılan harfler anlamına gelen hurufatta, kumpas adı verilen alete harfler yerleştirilerek kelimeler oluşturulur. Hareketli harflerin dizgi sonucu oluşumunda katkısı büyüktür. El dizgi tekniğinde dizgi ustasının seri çalışabilmesi amacıyla, hurufatların gerek tanınmasında gerekse kalıp oluşturulması esnasında kolaylık sağlaması için üzerinde değişik fiziksel özellikler söz konusudur  Bu özellikler, punto genişliği, ayak, baş, işaret kertiği, vb. şeklindedir.
+    > **Açıklama:** TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ
+    > "Kumpas" hurufatın fiziksel özelliklerinden biri değildir. Matbaacılığın tipografik sisteminde kullanılan harfler anlamına gelen hurufatta, kumpas adı verilen alete harfler yerleştirilerek kelimeler oluşturulur. Hareketli harflerin dizgi sonucu oluşumunda katkısı büyüktür. El dizgi tekniğinde dizgi ustasının seri çalışabilmesi amacıyla, hurufatların gerek tanınmasında gerekse kalıp oluşturulması esnasında kolaylık sağlaması için üzerinde değişik fiziksel özellikler söz konusudur Bu özellikler, punto genişliği, ayak, baş, işaret kertiği, vb. şeklindedir.
 
     ***
 1. I. Dijital tasarımda tasarım bilgisayar destekli hazırlanır.<br />II. Çağdaş tasarım sürecinde diğer disiplinlerle ilişki ön plana çıkar.<br />III. Geleneksel tasarım sürecinde geri dönüte yer yoktur.<br />IV. Çağdaş tasarım yaklaşımında son üründen ziyade süreç önemlidir.<br />Yukarıda tasarım süreci ile ilgili verilenlerden hangileri doğrudur?
@@ -549,7 +589,8 @@
     - D-) I, II ve III
     - E-) II ve IV
 
-    > **Açıklama:** Ünitenin Şekil 2.2.’deki görseli incelenebilir.
+    > **Açıklama:** Ünitenin ilgili bölümünü inceleyiniz.
+    > Ünitenin Şekil 2.2.’deki görseli incelenebilir.
 
     ***
 1. Dijital tasarımda baskı sistemleri temel olarak kaç çeşide ayrılmaktadır?
@@ -559,17 +600,19 @@
     - D-) Dört
     - E-) Beş
 
-    > **Açıklama:** Matbaa teknolojisi veya endüstriyel basım teknolojile­ri olarak da adlandırılan bu temel basım/baskı sistemleri farklı teknik kalıplar içinde isimlen­dirilmektedir. Baskı teknikleri genel olarak ad­landırıldığında ise ***iki bölüme ayrılır***. *Sanatsal baskı teknikleri ve endüstriyel baskı teknikleri’*dir.
+    > **Açıklama:** Detaylı bilgi için ünitenin ilgili bölümü incelenebilir.
+    > Matbaa teknolojisi veya endüstriyel basım teknolojile­ri olarak da adlandırılan bu temel basım/baskı sistemleri farklı teknik kalıplar içinde isimlen­dirilmektedir. Baskı teknikleri genel olarak ad­landırıldığında ise ***iki bölüme ayrılır***. *Sanatsal baskı teknikleri ve endüstriyel baskı teknikleri’*dir.
 
     ***
-1. I. Tipografi yüksek baskı çeşididir.<br />II.  Taş baskı, yüksek baskı olarak da adlandırılmaktadır.<br />III. Serigrafi,yüksek baskı çeşididir.<br />Yukarıda dijital tasarımda yüksek baskı sistemleri ile ilgili verilenlerden hangileri doğrudur?
+1. I. Tipografi yüksek baskı çeşididir.<br />II. Taş baskı, yüksek baskı olarak da adlandırılmaktadır.<br />III. Serigrafi,yüksek baskı çeşididir.<br />Yukarıda dijital tasarımda yüksek baskı sistemleri ile ilgili verilenlerden hangileri doğrudur?
     - **Cevap A-) Yalnız I**
     - B-) Yalnız II
     - C-) Yalnız III
     - D-) II ve III
     - E-) Hepsi
 
-    > **Açıklama:** Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beşe ayrılmak­tadır: yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve dijital baskı.
+    > **Açıklama:** Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.
+    > Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beşe ayrılmak­tadır: yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve dijital baskı.
 
     ***
 1. Hurufat adı verilen metal harf kalıpları ile yapılan yüksek baskı tekniğine ne ad verilir?
@@ -579,7 +622,8 @@
     - D-) Dijital baskı
     - E-) Serigrafi
 
-    > **Açıklama:** Hurufat adı verilen metal harf kalıpları ile yapılan yüksek baskı tekniğine tipo baskı adı denir.
+    > **Açıklama:** Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.
+    > Hurufat adı verilen metal harf kalıpları ile yapılan yüksek baskı tekniğine tipo baskı adı denir.
 
     ***
 1. I. Matbaacılığın, tipografik sisteminde kullanılan harfleridir.<br />II. Hurufatta resim kısmının oturduğu, daha kalın olan alt kısma denir.<br />III. Harfin resim kısmını taşıyan taban geniş­lik değeridir.<br />Yukarıda bir baskı sistemi ile ilgili açıklaması verilen kavramlar, aşağıdakilerin hangisinde sırasıyla doğru olarak verilmiştir?
@@ -589,7 +633,8 @@
     - D-) Hurufat, punto, et kısmı
     - **Cevap E-) Hurufat, et kısmı, punto**
 
-    > **Açıklama:** Matbaacılık sektöründe kullanılan terim; hu­rufatlar yani harfler demektir. Bir başka deyişle matbaacılığın, tipografik sisteminde kullanılan harflere *hurufat* denir. Resim kısmının oturduğu, daha kalın olan alt kısma ise harfin *“et kısmı*” denir. Harfin resim kısmını taşıyan taban geniş­lik değeri o harfin “*puntosu”*dur
+    > **Açıklama:** Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.
+    > Matbaacılık sektöründe kullanılan terim; hu­rufatlar yani harfler demektir. Bir başka deyişle matbaacılığın, tipografik sisteminde kullanılan harflere *hurufat* denir. Resim kısmının oturduğu, daha kalın olan alt kısma ise harfin *“et kısmı*” denir. Harfin resim kısmını taşıyan taban geniş­lik değeri o harfin “*puntosu”*dur
 
     ***
 1. Çalışma prensibi tipo baskının temel baskı prensibi gibi olan baskı makinesi aşağıdakilerden hangisidir?
@@ -599,7 +644,8 @@
     - **Cevap D-) El tezgahı**
     - E-) Rotatif tipo baskı makinesi
 
-    > **Açıklama:** El tezgahlarının çalışma prensibi tipo baskının temel baskı prensibi gibidir. Ma­kinenin çalışma sistemi oldukça basittir. Yapılan her baskı için mürekkep kalıba yeniden sürülür. Kalıp üzerindeki görüntü baskı altı malzemesine aktarılarak baskı gerçekleştirilir. El tezgahlarında baskı yapmak zahmetli olduğu ve işlem uzun sürdüğü için bu tezgâhlar günümüzde sadece sanatsal işlerde kullanılmakta­dır.
+    > **Açıklama:** Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.
+    > El tezgahlarının çalışma prensibi tipo baskının temel baskı prensibi gibidir. Ma­kinenin çalışma sistemi oldukça basittir. Yapılan her baskı için mürekkep kalıba yeniden sürülür. Kalıp üzerindeki görüntü baskı altı malzemesine aktarılarak baskı gerçekleştirilir. El tezgahlarında baskı yapmak zahmetli olduğu ve işlem uzun sürdüğü için bu tezgâhlar günümüzde sadece sanatsal işlerde kullanılmakta­dır.
 
     ***
 1. I. Baskı basıncının yüksek olduğu makine, silindir kazanlıdır.<br />II. El tezgahlarının çalışma prensibi temel prensipten çok farklıdır.<br />III. Gazete basımında en çok kullanılan makine, silindir kazanlıdır.<br />IV. Baskı alanı en küçük olan tipo baskı makineleri, maşalıdır.<br />Yukarıda baskı makineleri ile ilgili verilenlerden hangileri doğrudur?
@@ -609,7 +655,8 @@
     - D-) I, II ve III
     - E-) I, II ve IV
 
-    > **Açıklama:** El tezgahlarının çalışma prensibi tipo baskının temel baskı prensibi gibidir. Ma­kinenin çalışma sistemi oldukça basittir.  Maşalı tipo baskı makineleri, baskı alanı en küçük olan tipo baskı makineleri olması ne­deniyle günümüzde hala tercih edilmektedir.  Silindir kazanlı makinelerin önemli özelliği baskı basıncının yüksek olmasıdır.
+    > **Açıklama:** Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.
+    > El tezgahlarının çalışma prensibi tipo baskının temel baskı prensibi gibidir. Ma­kinenin çalışma sistemi oldukça basittir. Maşalı tipo baskı makineleri, baskı alanı en küçük olan tipo baskı makineleri olması ne­deniyle günümüzde hala tercih edilmektedir. Silindir kazanlı makinelerin önemli özelliği baskı basıncının yüksek olmasıdır.
 
     ***
 1. Dizgi işinde kullanılan bir aralık ölçüsü birimi olarak dizgide harfler arasına konulan yazısız metal parçası aşağıdakilerden hangisidir?
@@ -619,7 +666,8 @@
     - D-) Mizantren
     - E-) Anterlin
 
-    > **Açıklama:** Dizgi işinde kullanılan bir aralık ölçüsü birimi olarak dizgide harfler arasına konulan yazısız metal parçası kadrattır.
+    > **Açıklama:** Detaylı bilgi için ünitenin ilgili bölümü incelenebilir.
+    > Dizgi işinde kullanılan bir aralık ölçüsü birimi olarak dizgide harfler arasına konulan yazısız metal parçası kadrattır.
 
     ***
 1. I-Projenin büyüklüğü, hacmi<br />II-Baskı alımında aciliyet, zaman, süre<br />III- Baskının ürün türü<br />IV- Baskıda önizleme prova çıktı<br />Yukarıdakilerden hangileri, bir baskıda çoğaltmaya karar verirken dikkat edilmesi gereken unsurlardandır?
@@ -629,7 +677,8 @@
     - D-) II, III ve IV
     - **Cevap E-) Hepsi**
 
-    > **Açıklama:** Bir baskıda çoğaltmaya karar verirken dikkat edilmesi gereken unsurlar şunlardır: 1-Projenin büyüklüğü, hacmi, 2-Baskı alımında aciliyet, zaman, süre, 3- Baskının ürün türü (Kitap, dergi, kartvizit, davetiye, afiş vb.), 4- Baskıda önizleme prova çıktı, 5- Baskıda adet sayısı, 6- Özel ve özgün ürün tasarımında uygun baskı çeşitliliği, 6- Baskıda maliyet.
+    > **Açıklama:** Ünitenin ilgili bölümü deteylı bilgi için incelenebilir.
+    > Bir baskıda çoğaltmaya karar verirken dikkat edilmesi gereken unsurlar şunlardır: 1-Projenin büyüklüğü, hacmi, 2-Baskı alımında aciliyet, zaman, süre, 3- Baskının ürün türü (Kitap, dergi, kartvizit, davetiye, afiş vb.), 4- Baskıda önizleme prova çıktı, 5- Baskıda adet sayısı, 6- Özel ve özgün ürün tasarımında uygun baskı çeşitliliği, 6- Baskıda maliyet.
 
     ***
 1. I. Bilginin kodlanarak sayısallaştırılması, ….. .<br />II. …….., düz baskı çeşididir.<br />III. Tipo baskı makinelerini …………. grupta toplayabiliriz,<br />Yukarıda baskı tekniği ve üretim süreci ile ilgili bilgiler verilmiştir. Buna göre, yukarıda boş bırakılan noktalı yerlere gelecek sözcükler, aşağıdakilerden hangisinde doğru olarak sıralanmıştır?
@@ -639,7 +688,8 @@
     - D-) Dijitalleşme, ofset, iki
     - **Cevap E-) Dijitalleşme, ofset, dört**
 
-    > **Açıklama:** Tipo baskı makinelerini dört grupta toplayabiliriz: a. El Tezgahları (Presler), b. Pedal Makineleri (Düz kazanlı presler), c. Silindir Kazanlı Baskı Makineleri, d. Rotatif Tipo Baskı Makineleri’dir.  Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır. Toplanan veriler (Data), belli bir sistematik içinde sayısallaştırılarak ve istenilen formatta yeniden kullanılmaktadır. Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beş’e ayrılmaktadır: yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve Dijital baskı gibi çeşitleri vardır. (Sayfa, 58-59-60
+    > **Açıklama:** Ünitenin ilgili bölümleri detaylı bilgi için incelenebilir. Cevap 58-59 ve 60. sayfalarda takip edilebilir.
+    > Tipo baskı makinelerini dört grupta toplayabiliriz: a. El Tezgahları (Presler), b. Pedal Makineleri (Düz kazanlı presler), c. Silindir Kazanlı Baskı Makineleri, d. Rotatif Tipo Baskı Makineleri’dir. Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır. Toplanan veriler (Data), belli bir sistematik içinde sayısallaştırılarak ve istenilen formatta yeniden kullanılmaktadır. Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beş’e ayrılmaktadır: yüksek baskı (Tipografi, Flekso), düz baskı (Ofset), çukur baskı (Tifdruk, Tampon), şablon-elek baskı (Serigrafi) ve Dijital baskı gibi çeşitleri vardır. (Sayfa, 58-59-60
 
     ***
 1. Baskı tekniklerini genel olarak iki bölümde adlalandırılırlar. Aşağıdakilerden hangisinde bu iki bölüm adı doğru olarak verilmiştir?
@@ -713,16 +763,16 @@
 1. "Yüksek baskı sisteminde tipo baskıya uygun olarak baskı elde etmeye yarayan alet ve makinelerin tümüne birden ***tipo baskı makineleri*** denir."<br />Aşağıdakilerden hangisi Tipo baskı makinelerinden değildir?
     - A-) El Tezgahları (Presler)
     - B-) Pedal Makineleri (Düz kazanlı presler)
-    - **Cevap C-) Kadrat Tipo Baskı Makineleri**
+    - **Cevap C-) Kadrat Tipo Baskı Makineleri**
     - D-) Silindir Kazanlı Baskı Makineleri
     - E-) Rotatif Tipo Baskı Makineleri
 
     > **Açıklama:** Yüksek baskı sisteminde tipo baskıya uygun olarak baskı elde etmeye yarayan alet ve makinelerin tümüne birden ***tipo baskı makineleri*** denir.
     > Tipo baskı makinelerini dört grupta toplayabiliriz:
-    > 1. El Tezgahları (Presler)
-    > 2. Pedal Makineleri (Düz kazanlı presler)
-    > 3. Silindir Kazanlı Baskı Makineleri
-    > 4. Rotatif Tipo Baskı Makineleri
+    > 1\. El Tezgahları (Presler)
+    > 2\. Pedal Makineleri (Düz kazanlı presler)
+    > 3\. Silindir Kazanlı Baskı Makineleri
+    > 4\. Rotatif Tipo Baskı Makineleri
 
     ***
 1. Amerika Birleşik Devletleri’nde “Linotype”ı1886’ da icat eden mucit aşağıdakilerden hangisidir?
@@ -745,7 +795,7 @@
     > **Açıklama:** Edward Rondthaler’in **Fotodizgi tekniği** (harflerin optic yardımıyla ışık duyarlı bir kağıt üzerine pozlanarak tipografik metinlerin oluşturulduğu sistem) Gutenberg’in bulduğu metal dizginin yerini almıştır.
 
     ***
-1. 1. Bilgisayar ve destekleyici üniteler önemlidir.<br />2. Grafik tasarıma uygun programlar kullanılır.<br />3. Basımı elle çoğalatılacak baskı makineler kullanılır<br />4. Programlar sayesinde çizim, sayfa tasarımı yapabiliriz.<br />5. Programlar sayesinde tipografik çalışmalar yapabiliriz.<br />Yukaridakilerden hangisi Dijital baskı için söylenemez?
+1. 1\. Bilgisayar ve destekleyici üniteler önemlidir.<br />2\. Grafik tasarıma uygun programlar kullanılır.<br />3\. Basımı elle çoğalatılacak baskı makineler kullanılır<br />4\. Programlar sayesinde çizim, sayfa tasarımı yapabiliriz.<br />5\. Programlar sayesinde tipografik çalışmalar yapabiliriz.<br />Yukaridakilerden hangisi Dijital baskı için söylenemez?
     - A-) Yalnız I
     - B-) Yalnız II
     - **Cevap C-) Yalnız III**
@@ -753,10 +803,10 @@
     - E-) Yalnız V
 
     > **Açıklama:** Dijital baskı, dijital ortamda hazırlanmış işlerin, elektronik veri yoluyla baskı makinesine gönderilmesi ve basılmasıdır. Dijital baskı da aşağıdakiler önemlidir:
-    > 1. Bilgisayar ve destekleyici üniteler,
-    > 2. Grafik tasarıma uygun programlar (Piksel ve vektörel tabanlı programlar) ve
-    > 3. Basımı çoğlatılacak baskı makineleridir.
-    > 4. Bu programlar sayesinde çizim, dijital fotoğraf görüntüle- rine düzenleme, sayfa tasarımı ve tipografik çalışmalar yapabiliriz
+    > 1\. Bilgisayar ve destekleyici üniteler,
+    > 2\. Grafik tasarıma uygun programlar (Piksel ve vektörel tabanlı programlar) ve
+    > 3\. Basımı çoğlatılacak baskı makineleridir.
+    > 4\. Bu programlar sayesinde çizim, dijital fotoğraf görüntüle- rine düzenleme, sayfa tasarımı ve tipografik çalışmalar yapabiliriz
 
     ***
 1. Hurufatın gelen yapısını oluşturan metal alaşım aşağıdakilerden hangisidir?
@@ -766,21 +816,23 @@
     - D-) Kalay
     - E-) Amalgam
 
-    > **Açıklama:** Hurufatın gelen yapısını oluşturan metal alaşım kurşun'dur. Hurufatlar yani harfler, özel döküm atölyelerinde ve içeriğinde üç ana metal kullanılarak üretilir. Hurufatların hem dayanıklılık hem iyi mürekkep transferi hem de düzgün satıh özelliğine sahip
-    > olabilmesi amacı ile kullanılan bu metal alaşımlar; kurşun (% 65-70), antimuan (% 20-25) ve kalay (Stannum) (% 5-10) dır. Bu metal karışımında kullanılan alaşımların harf bloğuna çeşitli katkıları vardır. Kurşun alaşımı, hurufatın genel yapısını oluştururken kullanılan antimuan hurufata sertlik, dolayısıyla dayanma gücü verirken kalay da metale dökümde kolaylık sağlar ve ona akıcılık
+    > **Açıklama:** TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ
+    > Hurufatın gelen yapısını oluşturan metal alaşım kurşun'dur. Hurufatlar yani harfler, özel döküm atölyelerinde ve içeriğinde üç ana metal kullanılarak üretilir. Hurufatların hem dayanıklılık hem iyi mürekkep transferi hem de düzgün satıh özelliğine sahip
+    > olabilmesi amacı ile kullanılan bu metal alaşımlar; kurşun (% 65-70), antimuan (% 20-25) ve kalay (Stannum) (% 5-10) dır. Bu metal karışımında kullanılan alaşımların harf bloğuna çeşitli katkıları vardır. Kurşun alaşımı, hurufatın genel yapısını oluştururken kullanılan antimuan hurufata sertlik, dolayısıyla dayanma gücü verirken kalay da metale dökümde kolaylık sağlar ve ona akıcılık
     > verir.
 
     ***
-1. Hurufatın gövde kısmındaki parçalar ve tanımlarına ilişkin doğru eşleşme aşağıdakilerden hangisidir?<br />**PARÇA**<br />K-Resim<br />L-Et kısmı<br />M-İşaret kertiği<br />N-Punto<br />**TANIM**<br />1. Harfin doğru dizilmesi için dizgiciyi uyaran kısımdır.<br />2. Mürekkep alıp baskı yapan kısımdır.
-    - **Cevap A-) K-2 / M-1**
+1. Hurufatın gövde kısmındaki parçalar ve tanımlarına ilişkin doğru eşleşme aşağıdakilerden hangisidir?<br />**PARÇA**<br />K-Resim<br />L-Et kısmı<br />M-İşaret kertiği<br />N-Punto<br />**TANIM**<br />1\. Harfin doğru dizilmesi için dizgiciyi uyaran kısımdır.<br />2\. Mürekkep alıp baskı yapan kısımdır.
+    - **Cevap A-) K-2 / M-1**
     - B-) L-1 / M-2
     - C-) K-1 / N-2
     - D-) M-1 / N-2
     - E-) L-2 / N-1
 
-    > **Açıklama:** Hurufatın gövde kısmındaki parçalar ve tanımlarına ilişkin doğru eşleşme A seçeneğinde verilen "K-2 / M-1"dir. Genel anlamda incelendiğinde bir hurufat, baş ve gövde kısımlar olmak üzere iki ana unsurdan oluşur. Baş kısmı 3 parçadan oluşurken gövde kısmı ise 5 ana parçadan oluşur:
+    > **Açıklama:** TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ
+    > Hurufatın gövde kısmındaki parçalar ve tanımlarına ilişkin doğru eşleşme A seçeneğinde verilen "K-2 / M-1"dir. Genel anlamda incelendiğinde bir hurufat, baş ve gövde kısımlar olmak üzere iki ana unsurdan oluşur. Baş kısmı 3 parçadan oluşurken gövde kısmı ise 5 ana parçadan oluşur:
     > • Harfin üstünde yer alan “Resim” kısmı mürekkep alıp baskı yapan kısımdır.
-    > • Resim kısmının oturduğu, daha kalın olan alt kısma ise harfin “Et kısmı” denir.
+    > • Resim kısmının oturduğu, daha kalın olan alt kısma ise harfin “Et kısmı” denir.
     > • Altta tabana yakın bölümde bulunan kertiğe ise “işaret kertiği” adı verilir. İşaret kertiği
     > harfin doğru dizilmesi için dizgiciyi uyarır.
     > • Harfin enine olan boyutuna “kalınlık” denir.
@@ -789,32 +841,35 @@
     ***
 1. Silindir kazanlı tipo baskı makineleri ile ilgili olarak aşağıda verilen ifadelerden hangisi yanlıştır?
     - A-) Baskı kazanları el tezgâhları ve pedallardaki gibi düz değil, silindir şeklindedir.
-    - B-) Hız, basınç şekli ve çalışma yöntemiyle diğer tipo baskı makinelerinden farklıdır.
-    - C-) En önemli özelliği baskı basıncının yüksek olmasıdır.
+    - B-) Hız, basınç şekli ve çalışma yöntemiyle diğer tipo baskı makinelerinden farklıdır.
+    - C-) En önemli özelliği baskı basıncının yüksek olmasıdır.
     - **Cevap D-) Baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilir.**
-    - E-) Tek turlu ve çift turlu baskı makineleri olmak üzere iki çeşittir.
+    - E-) Tek turlu ve çift turlu baskı makineleri olmak üzere iki çeşittir.
 
-    > **Açıklama:** Silindir kazanlı tipo baskı makineleri ile ilgili olarak aşağıda verilen ifadelerden D seçeneği (*Baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilir*.)yanlıştır. Maşalı tipo baskı makineleri, baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilmektedir. Silindir Kazanlı Tipo Baskı Makinelerinde ise baskı kazanları el tezgâhları ve pedallardaki gibi düz değil, silindir şeklindedir. Hız, basınç şekli ve çalışma yöntemiyle diğer tipo baskı makinelerinden farklıdır. En önemli özelliği baskı basıncının yüksek olmasıdır. Silindir kazanlı tipo baskı makineleri, tek turlu (stop silindirli) ve çift turlu baskı makineleri olmak üzere iki çeşittir.
+    > **Açıklama:** TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ
+    > Silindir kazanlı tipo baskı makineleri ile ilgili olarak aşağıda verilen ifadelerden D seçeneği (*Baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilir*.)yanlıştır. Maşalı tipo baskı makineleri, baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilmektedir. Silindir Kazanlı Tipo Baskı Makinelerinde ise baskı kazanları el tezgâhları ve pedallardaki gibi düz değil, silindir şeklindedir. Hız, basınç şekli ve çalışma yöntemiyle diğer tipo baskı makinelerinden farklıdır. En önemli özelliği baskı basıncının yüksek olmasıdır. Silindir kazanlı tipo baskı makineleri, tek turlu (stop silindirli) ve çift turlu baskı makineleri olmak üzere iki çeşittir.
 
     ***
 1. Tipo baskıdan dijital döneme geçişte çoğaltımla ilgili olarak aşağıda verilen ifadelerden hangisi yanlıştır?
     - A-) 1886’ da Ottmar Mergenthaler, Amerika Birleşik Devletleri’nde “Linotype”ı icat etmiştir.
     - B-) Edward Rondthaler’in fotodizgi tekniği, Gutenberg’in bulduğu metal dizginin yerini almıştır.
-    - **Cevap C-) 19.yüzyıl sonlarında, *piksel* denilen metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makineleri ortaya çıkmıştır.**
+    - **Cevap C-) 19\.yüzyıl sonlarında, *piksel* denilen metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makineleri ortaya çıkmıştır.**
     - D-) 1960’larda uçak tasarımcısı William Fetter, grafik tasarım için CRT’yi kullanan kişi olmuştur.
     - E-) 1965’te Almanya’da, *Digiset* adı verilen, harfleri bilgisayar yardımıyla dizme yöntemi geliştirilmiştir.
 
-    > **Açıklama:** Tipo baskıdan dijital döneme geçişte çoğaltımla ilgili olarak aşağıda verilen ifadelerden C seçeneği (*19.yüzyıl sonlarında, piksel denilen metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makineleri ortaya çıkmıştır.*) yanlıştır. O dönemde ortaya çıkan, metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makinelerinin adı piksel değil, matris'tir.
+    > **Açıklama:** TİPO BASKIDAN DİJİTAL DÖNEME GEÇİŞTE ÇOĞALTIM
+    > Tipo baskıdan dijital döneme geçişte çoğaltımla ilgili olarak aşağıda verilen ifadelerden C seçeneği (*19.yüzyıl sonlarında, piksel denilen metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makineleri ortaya çıkmıştır.*) yanlıştır. O dönemde ortaya çıkan, metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makinelerinin adı piksel değil, matris'tir.
 
     ***
-1. ------------- ; dizilen satırların birbirine karışıp bozulmaması için satır aralarına konulan genellikle iki punto genişliğindeki metaldir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?
+1. ------------- ; dizilen satırların birbirine karışıp bozulmaması için satır aralarına konulan genellikle iki punto genişliğindeki metaldir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?
     - **Cevap A-) Anterlin**
     - B-) Garnitür
     - C-) Mizantren
     - D-) Gale
     - E-) Takatuka
 
-    > **Açıklama:** Yukarıdaki cümlede boş bırakılan yeri A seçeneği (anterlin) doğru olarak tamamlar. Anterlin; dizilen satırların birbirine karışıp bozulmaması için satır aralarına konulan genellikle iki punto genişliğindeki metaldir.
+    > **Açıklama:** TİPO (HURUFAT) BASKI VE TARİHSEL SÜREÇ
+    > Yukarıdaki cümlede boş bırakılan yeri A seçeneği (anterlin) doğru olarak tamamlar. Anterlin; dizilen satırların birbirine karışıp bozulmaması için satır aralarına konulan genellikle iki punto genişliğindeki metaldir.
 
     ***
 1. Elektronik veri ortamlarına ne ad verilir?
@@ -834,7 +889,7 @@
     - D-) I, III ve V
     - **Cevap E-) II, III, IV ve V**
 
-    > **Açıklama:** I. Dijitalleşme, insanlık için bir **tercih değil bir zorunluluktur.**II. Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır. III. Yeni ürün ve hizmetlerin tanıtımı ve yaratılması tüm verilerin etkin kullanılabilmesi dijitalleşmenin olmazsa olmazıdır. IV. Dijital teknoloji ile arasını iyi tutan bireylerin iş bulma imkanları teknolojiyle ilişkisi kopuk olan bireylerden daha fazladır. V. Daha hızlı ve daha işe yarar sistemler geliştirmek ve geliştirilen sistemlerin tercih edilmesini sağlamak dijitalleşmenin bir sonucudur.
+    > **Açıklama:** I. Dijitalleşme, insanlık için bir **tercih değil bir zorunluluktur.** II. Dijitalleşme en basit tanımla bilginin kodlanarak sayısallaştırılmasıdır. III. Yeni ürün ve hizmetlerin tanıtımı ve yaratılması tüm verilerin etkin kullanılabilmesi dijitalleşmenin olmazsa olmazıdır. IV. Dijital teknoloji ile arasını iyi tutan bireylerin iş bulma imkanları teknolojiyle ilişkisi kopuk olan bireylerden daha fazladır. V. Daha hızlı ve daha işe yarar sistemler geliştirmek ve geliştirilen sistemlerin tercih edilmesini sağlamak dijitalleşmenin bir sonucudur.
 
     ***
 1. '**...** tasarım, tasarım kararlarının kağıt üzerinde değil de ekran üzerinde verildiği bir süreçtir' tanımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
@@ -881,7 +936,7 @@
     > V. Baskı altı malzemesinin üzerinde görüntünün düz çıkması için Tipo Baskı kalıbında görüntünün baskı yapan yerlerde **ters** olması kaçınılmazdır.
 
     ***
-1. 1440 yılında Johannes Gutenberg’in icat ettiği metal harf kalıplarına ne ad verilir?
+1. 1440 yılında Johannes Gutenberg’in icat ettiği metal harf kalıplarına ne ad verilir?
     - A-) Letterpress
     - **Cevap B-) Hurufat**
     - C-) Kaşe
@@ -911,7 +966,7 @@
     > **Açıklama:** **Edward Rondthaler**’in Fotodizgi tekniği (harflerin optic yardımıyla ışık duyarlı bir kağıt üzerine pozlanarak tipografik metinlerin oluşturulduğu sistem) Gutenberg’in bulduğu metal dizginin yerini almıştır.
 
     ***
-1. 'Metal harflerin el ile kumpasta dizildiği uzunca bir dönemin ardından, 19. yüzyıl sonlarında, **...**   diye adlandırılan metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makinaları ortaya çıkmıştır' anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
+1. 'Metal harflerin el ile kumpasta dizildiği uzunca bir dönemin ardından, 19. yüzyıl sonlarında, **...** diye adlandırılan metal harf kalıpları kullanarak erimiş metal alaşımlar hâlinde döküm yapan sıcak dizgi makinaları ortaya çıkmıştır' anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - A-) Linotype
     - B-) Dizgi
     - C-) Glif
@@ -942,14 +997,14 @@
 
     ***
 ## Unite 3
-1. Aşağıdakilerden hangisi üç boyutlu nesneleri tanımlarken ışığı ve gölgeyi temsil etmek için kullanılan teknik olarak adlandırılmaktadır?
+1. Aşağıdakilerden hangisi üç boyutlu nesneleri tanımlarken ışığı ve gölgeyi temsil etmek için kullanılan teknik olarak adlandırılmaktadır?
     - **Cevap A-) Chiaroscuro**
     - B-) Kurukazıma
     - C-) Xylographica
     - D-) Asit oyma
     - E-) Criblé
 
-    > **Açıklama:** **Chiaroscuro:** İtalyanca chiaro , “ışık” ve scuro , “karanlık” kelimelerinin bir araya gelmesiyle oluşan terim, görsel sanatlarda üç boyutlu nesneleri tanımlarken ışığı ve gölgeyi temsil etmek için kullanılan teknik olarak adlandırılmaktadır. Cevap A'dır.
+    > **Açıklama:** **Chiaroscuro:** İtalyanca chiaro , “ışık” ve scuro , “karanlık” kelimelerinin bir araya gelmesiyle oluşan terim, görsel sanatlarda üç boyutlu nesneleri tanımlarken ışığı ve gölgeyi temsil etmek için kullanılan teknik olarak adlandırılmaktadır. Cevap A'dır.
 
     ***
 1. Baskısı yapılacak tasarımın keskin uçlu bir aletle doğrudan metal levhaya çizildiği bir gravür yöntemi aşağıdakilerden hangisidir?
@@ -962,7 +1017,7 @@
     > **Açıklama:** **Kurukazıma (Drypoint):** baskısı yapılacak tasarımın keskin uçlu bir aletle doğrudan metal levhaya çizildiği bir gravür yöntemi. Kurukazıma tekniği ile yapılmış baskıresim baskısındaki çizgiler, kazıma sırasında her iki yana doğru açılan metalin çapaklarının neden olduğu yumuşak bir bulanıklık ile karakterize edilir. Kurukazıma en çok diğer baskı teknikleriyle birlikte kullanılır. Örneğin, neredeyse tamamlanmış bir baskıresime koyu vurgular vermek için kullanılabilir veya başlangıçta tasarımı metal levha üzerine çizmek için kullanılabilir. Cevap B'dir.
 
     ***
-1. Aşağıdakilerden hangisi Avrupa’da hem metin hem de illüstrasyon içerecek şekilde oyulmuş ahşap baskılar olarak basılan, 50 yaprağa kadar kısa kitaplardır?
+1. Aşağıdakilerden hangisi Avrupa’da hem metin hem de illüstrasyon içerecek şekilde oyulmuş ahşap baskılar olarak basılan, 50 yaprağa kadar kısa kitaplardır?
     - A-) Chiaroscuro
     - B-) Criblé
     - **Cevap C-) Xylographica**
@@ -972,6 +1027,16 @@
     > **Açıklama:** **Xylographica** olarak da adlandırılan blok kitaplar, 15. yüzyılın ikinci yarısında Avrupa’da hem metin hem de illüstrasyon içerecek şekilde oyulmuş ahşap baskılar olarak basılan, 50 yaprağa kadar kısa kitaplardır.Cevap C'dir.
 
     ***
+1. Aşağıdakilerden hangisi tipo baskıda yaygın olarak kullanılan baskı plakası türüdür?
+    - A-) Asit Oyma
+    - B-) Kurukazıma
+    - C-) Mezzotint
+    - **Cevap D-) Stereotip Baskı**
+    - E-) Yumuşak vernik
+
+    > **Açıklama:** **Stereotip Baskı:** Tipo baskıda yaygın olarak kullanılan baskı plakası türüdür. Gazete ve diğer yüksek hızlı basın çalışmaları basımı için uygundur. Stereotip baskıda tam bir gazete sayfasının tipografik sütunları, illüstrasyon plakaları tek bir formda getirilir. Hazırlanan kalıp tek seferde bütün plakanın görüntüsünün alınacağı şekilde basılarak sonuçlandırılır. Cevap D'dir.
+
+    ***
 1. Aşağıdakilerden hangisi plaka üzerinde tonal alanları oluşturmak için kullanılan bir tekniktir?
     - A-) Stereotip baskı
     - B-) Asit oyma
@@ -979,7 +1044,7 @@
     - D-) Yumuşak vernik
     - **Cevap E-) Aquatint**
 
-    > **Açıklama:** **Aquatint:** Plaka üzerinde tonal alanları oluşturmak için kullanılan bir tekniktir. Önce plaka reçine tozu ile kaplanır ve plaka üzerine kaplanmış olan bu toz ısı yoluyla plakaya eriterek yapışması sağlanır. Burada amaç gözenekli bir zemin kazandırmaktır. Plaka asit tankının içine atıldığında reçinenin asitten etkilenmemesi sayesinde bu noktalar korunur ve dışında kalan alanlar asitte erimeye ve aşınmaya başlar. Aşınan bu boşluklar mürekkebi tutar. Boşlukların yoğunluğuna, genişliğine ve asitte kalma süresine bağlı olarak oluşan derinliklere bağlı olarak çeşitli tonlar ve dokular oluşturulabilir. Cevap E'dir.
+    > **Açıklama:** **Aquatint:** Plaka üzerinde tonal alanları oluşturmak için kullanılan bir tekniktir. Önce plaka reçine tozu ile kaplanır ve plaka üzerine kaplanmış olan bu toz ısı yoluyla plakaya eriterek yapışması sağlanır. Burada amaç gözenekli bir zemin kazandırmaktır. Plaka asit tankının içine atıldığında reçinenin asitten etkilenmemesi sayesinde bu noktalar korunur ve dışında kalan alanlar asitte erimeye ve aşınmaya başlar. Aşınan bu boşluklar mürekkebi tutar. Boşlukların yoğunluğuna, genişliğine ve asitte kalma süresine bağlı olarak oluşan derinliklere bağlı olarak çeşitli tonlar ve dokular oluşturulabilir. Cevap E'dir.
 
     ***
 1. Aşağıdakilerden hangisi bir cam veya metal plakanın jelatin veya ışığa duyarlı diğer yüzey tutuculardan oluşan bir substrat ile kaplanması ve sertleştirilmesiyle yapılır?
@@ -992,7 +1057,7 @@
     > **Açıklama:** **Kolotip Baskı:** Bir cam veya metal plakanın jelatin veya ışığa duyarlı diğer yüzey tutuculardan oluşan bir substrat ile kaplanması ve sertleştirilmesiyle yapılır. Daha sonra kalın bir dikromatlı jelatin tabakası ile kaplanır ve kontrollü bir sıcaklıkta (50° C’nin biraz üzerinde) dikkatlice kuru-tulur, böylece daha sonra yaklaşık 16°C suda yıkandığında “ağsılaşır” veya ince taneli bir desene ayrılır. Plaka, maruz kalan jelatinin daha sonra suyu emme yeteneğini değiştiren bir ultraviyole (UV) kaynağı kullanılarak negatif ile temas hâlinde maruz bırakılır. Plaka, dikromat tuz ile dik-katlice yıkanarak geliştirilir ve ısı olmadan kurutulur. Plaka, baskı için kullanılmadan önce 24 saat kürlenmesi için serin ve kuru bir yerde bırakılır ve baskı aşamasına geçilerek baskısı alınır. Cevap A'dır.
 
     ***
-1. Aşağıdakilerden hangisi ışığa duyarlı bir emülsiyonun metal plaka üzerine uygulanıp pozlanmasıyla elde edilen görüntünün baskısının alınması ile sonuca ulaşılan bir çukurbaskı yöntemidir?
+1. Aşağıdakilerden hangisi ışığa duyarlı bir emülsiyonun metal plaka üzerine uygulanıp pozlanmasıyla elde edilen görüntünün baskısının alınması ile sonuca ulaşılan bir çukurbaskı yöntemidir?
     - A-) Fotogravür
     - **Cevap B-) Fotogalvanografi**
     - C-) Kolotip baskı
@@ -1002,34 +1067,34 @@
     > **Açıklama:** **Fotogalvanografi:** Paul Pretsch’in geliştirip patentini aldığı bu teknik ışığa duyarlı bir emülsiyonun metal plaka üzerine uygulanıp pozlanmasıyla elde edilen görüntünün baskısının alınması ile sonuca ulaşılan bir çukurbaskı yöntemidir. Bu yöntemi klişe baskıdan ayıran en önemli fark, fotografik görüntünün yakalanmasında gri tonları işe dahil etmesi oluşturmaktadır. Siyah beyaz kontrastına dayanan klişe baskı bu yöntemle elde edilen gri tonları plaka görüntüsü üzerinde oluşturamaz. Cevap B'dir.
 
     ***
-1. Aşağıdakilerden hangisinde metal levha üzerinde mürekkebi tutan küçük noktacıklar vardır?
+1. Aşağıdakilerden hangisinde metal levha üzerinde mürekkebi tutan küçük noktacıklar vardır?
     - A-) Sert vernik
     - B-) Yumuşak vernik
     - **Cevap C-) Mezzonit**
     - D-) Asit oyma
     - E-) Kurukazıma
 
-    > **Açıklama:** **Mezzotint:** Bu teknikte metal levha üze-rinde mürekkebi tutan küçük noktacıklar vardır. Bu noktacıklar bir dişli bıçak ile yüzeyde oluşturulmuştur. İlk önce yüzeye tek bir yönde uygulanan dişli bıçak uygula-ması, sonra zıt yönde ikinci nokta örtüsünü oluşturacak şekilde uygulanır. Bu işlem dik, yatay, yan olmak üzere değişik yönlerde çok kez tekrarlanır. Böylece levhanın tüm yüze-yi çok sık nokta dokusu ile örtülmüş olur. Beyaz veya çeşitli tonlar elde etmek için de sıyırıcı veya mıskala yardımı ile noktacıklar yok edilerek ya da gri tonların ortaya çık-masını sağlayacak şekilde basınç uygulaya-rak desen oluşturulur. Diğer çukur baskı tekniklerinden en büyük farkı, çizim için hazırlanan plakanın başlangıçta tamamen siyah olması ve deseni oluşturmak için açık ve gri tonlara gidilmesi oluşturmaktadır. Cevap C'dir.
+    > **Açıklama:** **Mezzotint:** Bu teknikte metal levha üze-rinde mürekkebi tutan küçük noktacıklar vardır. Bu noktacıklar bir dişli bıçak ile yüzeyde oluşturulmuştur. İlk önce yüzeye tek bir yönde uygulanan dişli bıçak uygula-ması, sonra zıt yönde ikinci nokta örtüsünü oluşturacak şekilde uygulanır. Bu işlem dik, yatay, yan olmak üzere değişik yönlerde çok kez tekrarlanır. Böylece levhanın tüm yüze-yi çok sık nokta dokusu ile örtülmüş olur. Beyaz veya çeşitli tonlar elde etmek için de sıyırıcı veya mıskala yardımı ile noktacıklar yok edilerek ya da gri tonların ortaya çık-masını sağlayacak şekilde basınç uygulaya-rak desen oluşturulur. Diğer çukur baskı tekniklerinden en büyük farkı, çizim için hazırlanan plakanın başlangıçta tamamen siyah olması ve deseni oluşturmak için açık ve gri tonlara gidilmesi oluşturmaktadır. Cevap C'dir.
 
     ***
-1. Aşağıdakilerden hangisi dokuların metal bir pla-ka yüzeyinde asit ile girdiği reaksiyon sonucu oluştu-rulmasıyla elde edilen çukur baskı tekniğidir?
+1. Aşağıdakilerden hangisi dokuların metal bir pla-ka yüzeyinde asit ile girdiği reaksiyon sonucu oluştu-rulmasıyla elde edilen çukur baskı tekniğidir?
     - A-) Kurukazıma
     - B-) Yumuşak vernik
     - C-) Xylographica
     - **Cevap D-) Asit Oyma**
     - E-) Criblé
 
-    > **Açıklama:** **Asit Oyma:** İçizgilerin veya dokuların metal bir pla-ka yüzeyinde asit ile girdiği reaksiyon sonucu oluştu-rulmasıyla elde edilen çukur baskı tekniğidir. Metal plaka önce aside dayanıklı bir kaplama ile kaplanır (zemin ). Tasarım daha sonra çizilir. Çizgi yüzeyinde metal plaka üzerindeki kaplama maddesi kaldırılırak bu alanlardaki metal açığa çıkar. Son olarak, plaka, açıkta kalan alanlarda istenen derinlik ve genişliğe ulaşılana kadar bir asit çözeltisine daldırılır. Cevap D'dir.
+    > **Açıklama:** **Asit Oyma:** İçizgilerin veya dokuların metal bir pla-ka yüzeyinde asit ile girdiği reaksiyon sonucu oluştu-rulmasıyla elde edilen çukur baskı tekniğidir. Metal plaka önce aside dayanıklı bir kaplama ile kaplanır (zemin ). Tasarım daha sonra çizilir. Çizgi yüzeyinde metal plaka üzerindeki kaplama maddesi kaldırılırak bu alanlardaki metal açığa çıkar. Son olarak, plaka, açıkta kalan alanlarda istenen derinlik ve genişliğe ulaşılana kadar bir asit çözeltisine daldırılır. Cevap D'dir.
 
     ***
-1. Aşağıdakilerden hangisi ilk metal çukur baskı örneğidir?
+1. Aşağıdakilerden hangisi ilk metal çukur baskı örneğidir?
     - A-) Asit oyma
     - B-) Yumuşak vernik
     - C-) Kurukazıma
     - D-) Xylographica
     - **Cevap E-) Criblé**
 
-    > **Açıklama:** **Criblé:** İlk metal çukur baskı örneğidir. Criblé veya noktalı baskı olarak bilinen bu baskılar,15. yüzyılın ikinci yarısında yapılmıştır. Tasarım, metal üzerine ucu sivri bir kalem ile kuvvet uygulanarak oluşturulmuş küçük noktalarla gerçekleştirilmektedir. Cevap E'dir.
+    > **Açıklama:** **Criblé:** İlk metal çukur baskı örneğidir. Criblé veya noktalı baskı olarak bilinen bu baskılar,15. yüzyılın ikinci yarısında yapılmıştır. Tasarım, metal üzerine ucu sivri bir kalem ile kuvvet uygulanarak oluşturulmuş küçük noktalarla gerçekleştirilmektedir. Cevap E'dir.
 
     ***
 1. Baskıresim veya sanatsal üretim için en uygun kağıt türü aşağıdakilerden hangisidir?
@@ -1088,7 +1153,7 @@
     > en önemli yanını **büyük tirajlı baskıların alınabilmesine** olanak vermesi oluşturmaktadır.
 
     ***
-1. "Tifdruk baskı, endüstrileşmiş baskı yöntemleri içerisinde **................** yöntemi ile çalışan tek baskı yöntemidir."<br />Yukarıdaki cümlede boşluğu doğru şekilde dolduran ifade aşağıdakilerden hangisidir?
+1. "Tifdruk baskı, endüstrileşmiş baskı yöntemleri içerisinde **................** yöntemi ile çalışan tek baskı yöntemidir."<br />Yukarıdaki cümlede boşluğu doğru şekilde dolduran ifade aşağıdakilerden hangisidir?
     - **Cevap A-) Çukur baskı**
     - B-) Fotogravür
     - C-) Kolotip baskı
@@ -1106,10 +1171,10 @@
     - **Cevap E-) Oyma klişe**
 
     > **Açıklama:** Tifdruk Baskı Üretiminde Temel Elemanlar
-    > **Tifdruk Baskı Mürekkepleri, Rakle, Baskı Silindiri, Mürekkep Ünitesi,  Kurutma Sistemi**
+    > **Tifdruk Baskı Mürekkepleri, Rakle, Baskı Silindiri, Mürekkep Ünitesi, Kurutma Sistemi**
 
     ***
-1. 1. Kurulum maliyetinin yüksek olması<br />2. Dörtten fazla rengin kullanımında renklerin üzerini örtmesi<br />3. Küçük tirajlar için maliyet değerlerinin yüksekliği<br />4. Bazı mürekkeplerin çevre ve insan sağlığı açısından risk oluşturması<br />5. Tifdruk baskı makinelerinin bakımının zor olması<br />Tifdruk baskının dezavantajları yukarıdakilerden hangileridir?
+1. 1\. Kurulum maliyetinin yüksek olması<br />2\. Dörtten fazla rengin kullanımında renklerin üzerini örtmesi<br />3\. Küçük tirajlar için maliyet değerlerinin yüksekliği<br />4\. Bazı mürekkeplerin çevre ve insan sağlığı açısından risk oluşturması<br />5\. Tifdruk baskı makinelerinin bakımının zor olması<br />Tifdruk baskının dezavantajları yukarıdakilerden hangileridir?
     - A-) Yalnız I ve II
     - B-) I,II ve III
     - **Cevap C-) I,III ve IV**
@@ -1123,7 +1188,7 @@
     > tifdruk baskı tekniğinin dezavantajlı yanlarını oluşturmaktadır.
 
     ***
-1. 1. Silindir hazırlama işleminde bakır kaplama yerine çinko kaplama yapılması<br />2. Gravür makinesine gönderilecek tasarımın arayüz programının farklılığı<br />3. Tram sıklığının değiştirilememesi<br />4. Oyma işleminin lazer ışınlarıyla yapılması<br />5. Gelişen teknolojilerin bu yönteme hızlı adapte edilmesi<br />Lazer işleme yöntemini elektromekanik işleme yönteminden ayıran temel farklar yukarıdakilerden hangileridir?
+1. 1\. Silindir hazırlama işleminde bakır kaplama yerine çinko kaplama yapılması<br />2\. Gravür makinesine gönderilecek tasarımın arayüz programının farklılığı<br />3\. Tram sıklığının değiştirilememesi<br />4\. Oyma işleminin lazer ışınlarıyla yapılması<br />5\. Gelişen teknolojilerin bu yönteme hızlı adapte edilmesi<br />Lazer işleme yöntemini elektromekanik işleme yönteminden ayıran temel farklar yukarıdakilerden hangileridir?
     - A-) Yalnız I ve II
     - B-) I,II ve III
     - C-) II,III ve IV
@@ -1133,9 +1198,13 @@
     > **Açıklama:** Lazer işleme teknolojisi; baskı yapılacak yüzeye bilgisayar ortamında tasarlanan tasarımın, bilgisayara bağlı lazer gravür makinesi ile işlenmesi işlemidir. İşlem yöntemi temel olarak elektromekanik yöntemle büyük benzerlikler taşımaktadır.
     > Aradaki temel farklar;
     > • Silindir hazırlama işleminde bakır kaplama yerine çinko kaplama yapılması,
+    > • Gravür makinesine gönderilecek tasarımın arayüz programının farklılığı,
+    > • Oyma işleminin lazer ışınlarıyla yapılmasından oluşmaktadır.
+    > • Gelişen teknolojilerin bu yönteme hızlı adapte edilmesi, endüstriyel anlamda bu
+    > tekniğin ileriye dönük kullanım alanını genişletmekte ve tekniğe verilen önemi artırmaktadır.
 
     ***
-1. "Lazer işleme teknolojisi; baskı yapılacak yüzeye bilgisayar ortamında tasarlanan tasarımın, bilgisayara bağlı lazer **..............** makinesi ile işlenmesi işlemidir."<br />Yukarıdaki cümlede boşluğu doğru şekilde dolduran ifade aşağıdakilerden hangisidir?
+1. "Lazer işleme teknolojisi; baskı yapılacak yüzeye bilgisayar ortamında tasarlanan tasarımın, bilgisayara bağlı lazer **..............** makinesi ile işlenmesi işlemidir."<br />Yukarıdaki cümlede boşluğu doğru şekilde dolduran ifade aşağıdakilerden hangisidir?
     - A-) Işın
     - B-) Çinko
     - **Cevap C-) Gravür**
@@ -1220,17 +1289,17 @@
     - D-) Gazete
     - E-) Kitap
 
-    > **Açıklama:** **Ambalaj Üretiminde Tifdruk Baskı**: Tifdruk baskının en yaygın olarak kullanıldığı bu sektör; fleksible ambalaj basımı, karton basımı, etiket ve ambalaj basımı olarak üçe ayrılmaktadır.
+    > **Açıklama:** **Ambalaj Üretiminde Tifdruk Baskı**: Tifdruk baskının en yaygın olarak kullanıldığı bu sektör; fleksible ambalaj basımı, karton basımı, etiket ve ambalaj basımı olarak üçe ayrılmaktadır.
 
     ***
-1. Tifdruk baskı ile ilgili aşağıdakilerden hangisi/hangileri doğrudur?<br />I. En iyi baskı kalitesini sunan basım sistemlerinden biri olması, II.Basım aşamasında yüksek bir hıza sahip olması, III. Kurulum maliyetinin düşük olması, IV. Baskı sisteminin otomatik işleyen sürecinin işçilik maliyetlerini yükseltmesi, V. Tifdruk baskı makinelerinin bakım kolaylığı ve dayanıklı olmaları.
+1. Tifdruk baskı ile ilgili aşağıdakilerden hangisi/hangileri doğrudur?<br />I. En iyi baskı kalitesini sunan basım sistemlerinden biri olması, II.Basım aşamasında yüksek bir hıza sahip olması, III. Kurulum maliyetinin düşük olması, IV. Baskı sisteminin otomatik işleyen sürecinin işçilik maliyetlerini yükseltmesi, V. Tifdruk baskı makinelerinin bakım kolaylığı ve dayanıklı olmaları.
     - **Cevap A-) I, II ve V**
     - B-) I, II ve III
     - C-) II, III ve IV
     - D-) III ve IV
     - E-) III, IV ve V
 
-    > **Açıklama:** I. En iyi baskı kalitesini sunan basım sistemlerinden biri olması, II.Basım aşamasında yüksek bir hıza sahip olması, III. Kurulum maliyetinin **yüksek** olması, IV. Baskı sisteminin otomatik işleyen sürecinin işçilik maliyetlerini **düşürmesi**, V. Tifdruk baskı makinelerinin bakım kolaylığı ve dayanıklı olmaları.
+    > **Açıklama:** I. En iyi baskı kalitesini sunan basım sistemlerinden biri olması, II.Basım aşamasında yüksek bir hıza sahip olması, III. Kurulum maliyetinin **yüksek** olması, IV. Baskı sisteminin otomatik işleyen sürecinin işçilik maliyetlerini **düşürmesi**, V. Tifdruk baskı makinelerinin bakım kolaylığı ve dayanıklı olmaları.
 
     ***
 1. Elektromekanik Resim ve Yazı İşleme aşamasına ilişkin aşağıdaki seçeneklerden hangisi doğrudur?
@@ -1240,7 +1309,7 @@
     - D-) Elmas uçlu iğne, silindire göre daha yavaş hareket ederek bakır kalıba farklı derinliklerde hücreleri oluşturur.
     - E-) Saniyede yaklaşık 40000 hücre oluşturulmaktadır.
 
-    > **Açıklama:** İğnelerin uçları işe göre **110-130 derece** arasında değişmektedir. Açı azaldıkça iğne ucu sivrileşir ve bakıra daha fazla dalar. **Açı arttıkça kütleşir ve bakıra daha az dalar****.**Elmas uçlu iğne, silindire göre daha **hızlı** hareket ederek bakır kalıba farklı derinliklerde hücreleri oluşturur. Saniyede yaklaşık **4000 hücre** oluşturulmaktadır.
+    > **Açıklama:** İğnelerin uçları işe göre **110-130 derece** arasında değişmektedir. Açı azaldıkça iğne ucu sivrileşir ve bakıra daha fazla dalar. **Açı arttıkça kütleşir ve bakıra daha az dalar****.** Elmas uçlu iğne, silindire göre daha **hızlı** hareket ederek bakır kalıba farklı derinliklerde hücreleri oluşturur. Saniyede yaklaşık **4000 hücre** oluşturulmaktadır.
 
     ***
 1. Aşağıdakilerden hangisi Lazer işleme teknolojisi ile Elektromekanik resim ve yazı İşleme teknolojisi arasındaki temel farklardan biri **değildir?**
@@ -1337,7 +1406,7 @@
     > **Açıklama:** Alimünyum folyo
 
     ***
-1. 19. Yüzyılda yağlı boya resimlerin kopyalarını oluşturmak amacıyla kullanılan baskı tekniği aşağıdakilerden hangisidir?
+1. 19\. Yüzyılda yağlı boya resimlerin kopyalarını oluşturmak amacıyla kullanılan baskı tekniği aşağıdakilerden hangisidir?
     - A-) Fotogalvanografi
     - B-) Kolotip baskı
     - C-) Aquatint
@@ -1364,7 +1433,7 @@
     - D-) Kauçuk silindir
     - E-) Plaka
 
-    > **Açıklama:** Rakle
+    > **Açıklama:** Rakle: Baskı aşamasında dönen silindir kalıbın mürekkep haznesinden aldığı fazla mürekkebi plaka yüzeyinden tahliye etmeye yarayan sıyırıcı parçadır.
 
     ***
 1. Aşağıdakilerden hangisi "blok kitapların" diğer adıdır?
@@ -1374,7 +1443,7 @@
     - D-) Mezzotint
     - E-) Aquatint
 
-    > **Açıklama:** Xylographica
+    > **Açıklama:** Xylographica olarak da adlandırılan blok kitaplar, 15. yüzyılın ikinci yarısında Avrupa’da hem metin hem de illüstrasyon içerecek şekilde oyulmuş ahşap baskılar olarak basılan, 50 yaprağa kadar kısa kitaplardır.
 
     ***
 1. Baskısı yapılacak tasarımın keskin uçlu bir aletle doğrudan metal levhaya çizildiği bir gravür yöntemi hangisidir?
@@ -1384,17 +1453,17 @@
     - D-) Sert vernik
     - E-) Stereotip
 
-    > **Açıklama:** Kurukazıma
+    > **Açıklama:** Kurukazıma (Drypoint): baskısı yapılacak tasarımın keskin uçlu bir aletle doğrudan metal levhaya çizildiği bir gravür yöntemi.
 
     ***
-1. İtalyanca, “ışık” ve “karanlık” kelimelerinin bir araya gelmesiyle oluşan ve görsel sanatlarda üç boyutlu nesneleri tanımlarken ışığı ve gölgeyi temsil etmek için kullanılan terim aşağıdakilerden hangisidir?
+1. İtalyanca, “ışık” ve “karanlık” kelimelerinin bir araya gelmesiyle oluşan ve görsel sanatlarda üç boyutlu nesneleri tanımlarken ışığı ve gölgeyi temsil etmek için kullanılan terim aşağıdakilerden hangisidir?
     - A-) Cliché Verre
     - B-) Aquatint
     - C-) Mezzotint
     - **Cevap D-) Chiaroscuro**
     - E-) Fotogalvanografi
 
-    > **Açıklama:** Chiaroscuro
+    > **Açıklama:** Chiaroscuro: İtalyanca chiaro , “ışık” ve scuro , “karanlık” kelimelerinin bir araya gelmesiyle oluşan terim, görsel sanatlarda üç boyutlu nesneleri tanımlarken ışığı ve gölgeyi temsil etmek için kullanılan teknik olarak adlandırılmaktadır.
 
     ***
 1. Mezzotint olarak bilinen ve çukur baskıda yarım tonları elde etmek için kullanılan tekniği kim icat etmiştir?
@@ -1404,7 +1473,7 @@
     - D-) Peter Perez Burdett
     - E-) Francisco Goya
 
-    > **Açıklama:** Ludwig von Siegen
+    > **Açıklama:** 1642 yılında Ludwig von Siegen mezzotint olarak bilinen ve çukur baskıda yarım tonları elde etmek için kullanılan tekniği icat etmiştir.
 
     ***
 1. Gazete ve diğer yüksek hızlı basın çalışmaları basımı için uygun olan baskı yöntemi aşağıdakilerden hangisidir?
@@ -1414,7 +1483,7 @@
     - D-) Aquatint
     - **Cevap E-) Stereotip Baskı**
 
-    > **Açıklama:** Stereotip Baskı
+    > **Açıklama:** Stereotip Baskı: Tipo baskıda yaygın olarak kullanılan baskı plakası türüdür. Gazete ve diğer yüksek hızlı basın çalışmaları basımı için uygundur.
 
     ***
 1. Tifdruk baskı teknolojisinin günümüzde geldiği en son aşama hangisidir?
@@ -1424,7 +1493,8 @@
     - D-) Kolotip Baskı
     - E-) Aquatint
 
-    > **Açıklama:** Lazer İşleme
+    > **Açıklama:** Lazer işleme teknolojisi, günümüzde kullanılan tifdruk baskı teknolojisinin geldiği en son aşamadır.
+    > Lazer İşleme
 
     ***
 1. Aşağıdakilerden hangisi tifdruk baskı üretiminde kullanılan temel elemanlardan biri değildir?
@@ -1465,7 +1535,8 @@
     - D-) Gravür
     - E-) Fleksografi
 
-    > **Açıklama:** Matbaacılık tarihin­deki en önemli dönüm noktalarından biri, 1450’de Johannes Gutenberg tarafından Almanya’da mü­kemmelleştirilen tipo baskı tekniğidir.
+    > **Açıklama:** Bir yüksek baskı çeşidi olan tipo baskı, birbirinden bağımsız olarak üretilmiş harflerin yan yana dizilerek, mü­rekkeplenip, basılacak kâğıda preslenmesi şeklinde özetlenebilir.
+    > Matbaacılık tarihin­deki en önemli dönüm noktalarından biri, 1450’de Johannes Gutenberg tarafından Almanya’da mü­kemmelleştirilen tipo baskı tekniğidir.
 
     ***
 1. Aşağıdaki hangi baskı tekniği fotoğraf teknolojisiyle bir araya geldiğinde, günümüz ofset baskı sistemlerinin sunduğu üretim imkanlarının temeli atılmıştır?
@@ -1475,7 +1546,8 @@
     - D-) Gravür
     - E-) Fleksografi
 
-    > **Açıklama:** Litografi, fotoğraf teknolojisiyle bir araya geldiğinde, günümüz ofset baskı sistemlerinin sunduğu üretim imkanlarının temeli atılmıştır.
+    > **Açıklama:** Fotoğrafın litografi ile buluşmasından önce, litografi daha kısıtlı bir üretim alanına sa­hipti.
+    > Litografi, fotoğraf teknolojisiyle bir araya geldiğinde, günümüz ofset baskı sistemlerinin sunduğu üretim imkanlarının temeli atılmıştır.
 
     ***
 1. …….. yılında Alois Senefelder’in litografiyi keşfetmesi, ofset baskının temel çalışma prensibi olan su ve yağın birbirlerine karış­maması ilkesinin baskı üretiminde kullanılmasını sağlamıştır.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?
@@ -1485,7 +1557,8 @@
     - D-) 1750
     - **Cevap E-) 1798**
 
-    > **Açıklama:** 1798 yılında Alois Senefelder’in litografiyi keşfetmesi, ofset baskının temel çalışma prensibi olan su ve yağın birbirlerine karış­maması ilkesinin baskı üretiminde kullanılmasını sağlamıştır.
+    > **Açıklama:** Litografi öncesinde gravür, tipo baskı, ahşap baskı gibi tekniklerle üretilen baskılarda kalıp hazırlığı çukur ya da rölyef alanlar gerektirdiği için, oyma, kazıma, yontma, kalıp dökme gibi fiziksel süreçler gerektirmekteydi.
+    > 1798 yılında Alois Senefelder’in litografiyi keşfetmesi, ofset baskının temel çalışma prensibi olan su ve yağın birbirlerine karış­maması ilkesinin baskı üretiminde kullanılmasını sağlamıştır.
 
     ***
 1. 1800’lü yılların başlarında çok renkli taş baskı denemeleri üzerinde çalışmaya başlamış olan kişi aşağıdakilerden hangisidir?
@@ -1495,7 +1568,8 @@
     - D-) Henry Talbot
     - E-) Joseph Niepce
 
-    > **Açıklama:** 1800’lü yılların başlarında Alois Senefelder çok renkli taş baskı denemeleri üzerinde çalışmaya başlamıştır.
+    > **Açıklama:** Teknik hakkında yazdığı kitabında ise, gelecekte litografi­nin tablo gibi sanat eserlerinin yeniden üretiminde kullanılacağını tahmin ettiğini belirtmiştir.
+    > 1800’lü yılların başlarında Alois Senefelder çok renkli taş baskı denemeleri üzerinde çalışmaya başlamıştır.
 
     ***
 1. 1826’da dünyanın ilk fotoğrafını üreten kişi aşağıdakilerden hangisidir?
@@ -1505,7 +1579,8 @@
     - D-) Godefroy Engelmann
     - **Cevap E-) Joseph Niepce**
 
-    > **Açıklama:** Joseph Niepce, 1826’da dünyanın ilk fotoğrafını üret­ti.
+    > **Açıklama:** Joseph Niepce, Fransız bir bilim adamıdır.
+    > Joseph Niepce, 1826’da dünyanın ilk fotoğrafını üret­ti.
 
     ***
 1. 1852’de fotoğrafla­rın çoğaltılması için ilk yarı ton perdeyi kullanan kişi aşağıdakilerden hangisidir?
@@ -1515,7 +1590,8 @@
     - **Cevap D-) Henry Talbot**
     - E-) Godefroy Engelmann
 
-    > **Açıklama:** İngiltere’den Henry Talbot, 1852’de fotoğrafla­rın çoğaltılması için ilk yarı ton perdeyi kullandı.
+    > **Açıklama:** Yaklaşık 33 yıl sonra, Amerikalı Frederick Ives, çizgilerle çizilmiş iki açık cam negatiften oluşan ilk pratik yarım ton perdeyi tasarladı.
+    > İngiltere’den Henry Talbot, 1852’de fotoğrafla­rın çoğaltılması için ilk yarı ton perdeyi kullandı.
 
     ***
 1. Ofset baskı sistemleri kaç temel bi­leşenlerin bir araya gelmesi ile çalışır?
@@ -1525,7 +1601,8 @@
     - D-) 6
     - E-) 7
 
-    > **Açıklama:** Ofset baskı sistemleri çeşitli temel bi­leşenlerin bir araya gelmesi ile çalışır. Bu bileşenler;
+    > **Açıklama:** Şekil 4.7 de Ofset baskı sisteminin şematik görünümü verilmiştir.
+    > Ofset baskı sistemleri çeşitli temel bi­leşenlerin bir araya gelmesi ile çalışır. Bu bileşenler;
     > * Mürekkepleme ünitesi,
     > * Nemlendirme ünitesi,
     > * Kalıp silindiri,
@@ -1540,7 +1617,8 @@
     - D-) Baskı silindiri
     - E-) Mürekkep silindiri
 
-    > **Açıklama:** Kalıp silindiri baskının oluşturulması is­tenen görüntünün üzerine çeşitli işlemlerle aktarıl­dığı baskı kalıbını taşımakla görevlidir.
+    > **Açıklama:** Baskı kalıbı kalıp silindirinin etrafına sarılır ve sabitlenir.
+    > Kalıp silindiri baskının oluşturulması is­tenen görüntünün üzerine çeşitli işlemlerle aktarıl­dığı baskı kalıbını taşımakla görevlidir.
 
     ***
 1. Rotatif ofset adıyla da anılabilen ve gazeteler, kitaplar, dergi ve bro­şürler gibi yüksek baskı sayısına sahip ürünler ve baskı sonrasında forma hâline getirilerek ciltleme işlemi uygulanacak işler için daha uygun olan ofset baskı çeşiti aşağıdakilerden hangisidir?
@@ -1550,7 +1628,8 @@
     - D-) Nemlendirme sistemli ofset baskı
     - E-) Tabaka ofset baskı
 
-    > **Açıklama:** Rotatif ofset adıyla da anılabilen ve gazeteler, kitaplar, dergi ve bro­şürler gibi yüksek baskı sayısına sahip ürünler ve baskı sonrasında forma hâline getirilerek ciltleme işlemi uygulanacak işler için daha uygun olan web ofset baskıdır.
+    > **Açıklama:** En önemli avantajı basım hızı olan web ofset, tabaka ofset baskıda kullanıma uygun olmayan incelikte ve hafiflikte baskı altı malzemeleri kullanmaya da olanak tanır.
+    > Rotatif ofset adıyla da anılabilen ve gazeteler, kitaplar, dergi ve bro­şürler gibi yüksek baskı sayısına sahip ürünler ve baskı sonrasında forma hâline getirilerek ciltleme işlemi uygulanacak işler için daha uygun olan web ofset baskıdır.
 
     ***
 1. **I.** ElectroInk – elektro mürekkep<br />**II.** Anında renk değiştirme<br />**III.** Termal ofset transfer teknolojisi<br />Yukarı verilen ifadelerden hangisi/hangileri Dijital of­set baskı sürecinin temel teknolojisidir?
@@ -1560,7 +1639,8 @@
     - D-) I ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Dijital of­set baskı sürecinin üç temel teknolojisi şunlardır:
+    > **Açıklama:** Dijital ofset baskı sistemi, dijital baskı yöntem­lerinin avantajları ile geleneksel ofset baskının hız ve kalitesini bir araya getirmeyi amaçlayan yeni bir baskı sistemidir.
+    > Dijital of­set baskı sürecinin üç temel teknolojisi şunlardır:
     > * ElectroInk – elektro mürekkep
     > * Termal ofset transfer teknolojisi
     > * Anında renk değiştirme.
@@ -1573,7 +1653,10 @@
     - D-) Litografi baskı
     - E-) Serigrafi baskı
 
-    > **Açıklama:** Ofset baskı
+    > **Açıklama:** Hem tabaka hem de bobin kâğıt kullanımına imkân sağlayan türleri; iki renkten on iki renge
+    > kadar renk ünitesi bulunan alternatifleri, yüksek sayılı çoğaltımlarda sunduğu yüksek hız ve düşük
+    > maliyeti, tutarlı renk sonuçları, hassas baskı kalitesi gibi özellikleri ofset baskı tekniği yaygın olarak
+    > kullanılan baskı tekniklerinden biri yapmaktadır.
 
     ***
 1. Ofset baskı tekniği aşağıdakilerden hangi baskı sistemi ve teknolojinin birleşmesiyle sunduğu üretim imkânlarının temelleri atılmıştır?
@@ -1583,7 +1666,10 @@
     - D-) Fotoğraf- Serigrafi
     - E-) Bal mumu-Tipo baskı
 
-    > **Açıklama:** Litografi-Fotoğraf
+    > **Açıklama:** Fotoğrafın litografi ile buluşmasından önce, litografi daha kısıtlı bir üretim alanına sahipken,
+    > fotoğraf teknolojisiyle bir araya geldiğinde, günümüz ofset baskı sistemlerinin sunduğu üretim
+    > imkanlarının temeli atılmıştır.
+    > Litografi-Fotoğraf
 
     ***
 1. Alois Senefelder, yeni ve özgün bir matbaa türü icat edeceğimi tahmin edemezdim. Mekanik olmayan, tamamen kimyasal temellere dayalı olarak anlattığı bu yöntem aşağıdakilerden hangisidir?
@@ -1593,7 +1679,8 @@
     - D-) Tipo baskı
     - **Cevap E-) Litografi**
 
-    > **Açıklama:** Litografi
+    > **Açıklama:** Senefelder, litografiyi nasıl keşfettiğini anlatan kitabında bu süreci şu sözlerle özetlemiştir:
+    > “O anda böylesine yeni ve özgün bir matbaa türü icat edeceğimi tahmin edemezdim. Mekanik olmayan, tamamen kimyasal temellere dayalı bir yöntem…
 
     ***
 1. Fransız sanatçı Engelmann, 1837 yılında bulmuş olduğu bu tekniğinin patentini almış ve böylece tekniğin kâşifi Senefelder’in de üzerinde çalışmalar yaptığı renkli taş baskı tekniği olan Litografi tekniği hayata geçmiştir. Engelmann bulduğu teknik aşağıdakilerden hangisidir?
@@ -1603,7 +1690,7 @@
     - D-) Ksilografi
     - E-) Tifdruk baskı
 
-    > **Açıklama:** Kromolitografi
+    > **Açıklama:** Fransız sanatçı Engelmann, 1837 yılında **kromolitografi** tekniğinin patentini almış ve böylece tekniğin kâşifi Senefelder’in de üzerinde çalışmalar yaptığı renkli taş baskı tekniği hayata geçmiştir.
 
     ***
 1. Renkli litografi biçimi günümüzde en yaygın kullanılan endüstriyel üretime uyarlanmış baskı tekniği aşağıdakilerden hangisidir?
@@ -1613,7 +1700,8 @@
     - D-) Dijital baskı
     - **Cevap E-) Ofset baskı**
 
-    > **Açıklama:** Ofset baskı
+    > **Açıklama:** Günümüzde en yaygın kullanılan baskı tekniklerinin başında gelen **ofset baskı**, renkli litografinin
+    > endüstriyel üretime uyarlanmış biçimidir.
 
     ***
 1. Aşağıdakilerden hangisi Ofset baskı sistemleri çeşitli temel bileşenlerinden **değildir?**
@@ -1623,7 +1711,13 @@
     - **Cevap D-) Kauçuk bilyesi**
     - E-) Nemlendirme ünitesi,
 
-    > **Açıklama:** Kauçuk bilyesi
+    > **Açıklama:** Ofset baskı sistemleri çeşitli temel bileşenlerin bir araya gelmesi ile çalışır. **Bu bileşenler;**
+    > • Mürekkepleme ünitesi,
+    > • Nemlendirme ünitesi,
+    > • Kalıp silindiri,
+    > • Blanket (Kauçuk) silindiri,
+    > • Baskı silindiri.
+    > Kauçuk bilyesi
 
     ***
 1. Ofset baskı tekniğinde basılacak görüntüler genellikle baskı renk sistemi olan CMYK renk sistemine göre ayrılırlar. Aşağıdakilerden hangisi bu renklerden **değildir?**
@@ -1633,7 +1727,8 @@
     - D-) Sarı
     - E-) Pembe
 
-    > **Açıklama:** Beyaz
+    > **Açıklama:** **CMYK:** Cyan (**mav**i/camgöbeği), Magenta (**pembemsi kırmızı)**, Yellow (**sarı)**, Key (**Siyah**) renklerinin kısaltmasıdır.
+    > Beyaz
 
     ***
 1. Aşağıdakilerden hangisi Ofset Baskı çeşitlerinden **değildir****?**
@@ -1643,7 +1738,8 @@
     - D-) Tabaka ofset baskı
     - E-) Web ofset baskı
 
-    > **Açıklama:** Lazerli Ofset baskı
+    > **Açıklama:** Bu başlıkta inceleyeceğimiz ofset baskı çeşitlerinden ilk ikisi olan **tabaka ofset** ve **web ofset baskı...**İnceleyeceğimiz diğer iki ofset baskı türü olan **nemlendirme sistemli ofset** ve **susuz (kuru) ofset baskı** sistemleri ise, baskı aşamasında teknik ve süreç farklılıkları göstermektedir.
+    > Lazerli Ofset baskı
 
     ***
 1. Ofset baskıda baskı kalitesine etki çeşitli unsurlar bulunur. Aşağıdakilerden hangisi bu unsurlardan **değildir?**
@@ -1653,7 +1749,10 @@
     - **Cevap D-) Gün ışığı**
     - E-) Mürekkebin yoğunluğu
 
-    > **Açıklama:** Gün ışığı
+    > **Açıklama:** Ofset baskıda baskı kalitesine etki çeşitli unsurlar bulunur. Kullanılan mürekkebin akışkanlığı,
+    > yoğunluğu, (nemlendirmeli ofset baskı sistemlerinde kullanılan) nemlendirme suyunun mürekkeple
+    > olan oranı, sertliği, içerdiği katkı malzemeleri, pH derecesi, kâğıdın nemi, kalıp ve blanket gibi parçaların koşulları, nokta kalitesi, hatta ortam ısısı gibi çok sayıda etmen baskı kalitesini etkilemektedir.
+    > Gün ışığı
 
     ***
 1. Basılı grafik ürünlerinin üretiminde, rengi ölçmek için kaç farklı yöntem kullanılır?
@@ -1663,17 +1762,20 @@
     - D-) 6
     - E-) 7
 
-    > **Açıklama:** 3
+    > **Açıklama:** Basılı grafik ürünlerin üretiminde rengi ölçmek için kullanılan **üç önemli** yöntemdir.
+    > 1-Densitometre,
+    > 2-Kalorimetre
+    > 3-Spektral fotometreler,
 
     ***
-1. Basılı grafik ürünlerin üretiminde yaygın olan kullanılan baskı tekniği aşağıdakilerden hangisidir?
-    - **Cevap A-) Ofset baskı tekniği**
+1. Basılı grafik ürünlerin üretiminde yaygın olan kullanılan baskı tekniği aşağıdakilerden hangisidir?
+    - **Cevap A-) Ofset baskı tekniği**
     - B-) Serigrafi baskı
-    - C-) Gravür baskı
-    - D-) Linol baskı
-    - E-) Ağaç baskı
+    - C-) Gravür baskı
+    - D-) Linol baskı
+    - E-) Ağaç baskı
 
-    > **Açıklama:** Ofset litografi olarak da adlandırılabilen ofset baskı tekniği, basılı grafik ürünlerin üretiminde yaygın olan kullanılan baskı tekniklerindendir.
+    > **Açıklama:** Ofset litografi olarak da adlandırılabilen ofset baskı tekniği, basılı grafik ürünlerin üretiminde yaygın olan kullanılan baskı tekniklerindendir.
 
     ***
 1. Johannes Gutenberg tarafından Almanya’da mükemmelleştirdiği tipo baskı tekniği hangi tarihe dayanmaktadır?
@@ -1683,7 +1785,7 @@
     - D-) 1800
     - E-) 1911
 
-    > **Açıklama:** Baskı tekniklerinin tarihi, belirli bir görüntüyü yeniden üretmek için kullanılan mühür ve damgalara kadar uzanmaktadır. Fakat matbaacılık tarihindeki en önemli dönüm noktalarından biri, 1450’de Johannes Gutenberg tarafından Almanya’da mükemmelleştirilen tipo baskı tekniğidir.
+    > **Açıklama:** Baskı tekniklerinin tarihi, belirli bir görüntüyü yeniden üretmek için kullanılan mühür ve damgalara kadar uzanmaktadır. Fakat matbaacılık tarihindeki en önemli dönüm noktalarından biri, 1450’de Johannes Gutenberg tarafından Almanya’da mükemmelleştirilen tipo baskı tekniğidir.
 
     ***
 1. Hareketli tipo baskılar 11. yüzyılda hangi ülkede uygulanmıştır?
@@ -1693,32 +1795,32 @@
     - D-) Fransa
     - E-) İngiltere
 
-    > **Açıklama:** Hareketli tipo baskılar 11. yüzyılda Çin’de ve 15. yüzyılın başlarında Kore’de yapılmış
+    > **Açıklama:** Hareketli tipo baskılar 11. yüzyılda Çin’de ve 15. yüzyılın başlarında Kore’de yapılmış
     > ancak binlerce karakterli Asya dillerine uygun olmadığı için yaygınlaşmamıştır.
 
     ***
 1. Litografi kimin tarafından icat edilmiştir?
     - **Cevap A-) Alois Senefelder**
-    - B-) Johanne Gutenberg
+    - B-) Johanne Gutenberg
     - C-) Henry Talbot
     - D-) Louis Ducos du Hauron
     - E-) Joseph Niepce
 
-    > **Açıklama:** Litografinin icadı, oyun ve tiyatro yazarı Alois Senefelder’in, yüzeyini mumla kapladığı cilalı kireçtaşından bir tablet üzerine; mum, sabun ve lamba isi ile hazırlanmış mürekkeple yazı yazdığı, ardından kısa bir süre için bir asit çözeltisi uyguladığı 1798 yılına kadar uzanmaktadır.
+    > **Açıklama:** Litografinin icadı, oyun ve tiyatro yazarı Alois Senefelder’in, yüzeyini mumla kapladığı cilalı kireçtaşından bir tablet üzerine; mum, sabun ve lamba isi ile hazırlanmış mürekkeple yazı yazdığı, ardından kısa bir süre için bir asit çözeltisi uyguladığı 1798 yılına kadar uzanmaktadır.
 
     ***
-1. Fransız  bilim adamı olan Joseph Niepce fotolitografiyi tekniği ile ilk fotografı hangi tarihte üretti?
+1. Fransız  bilim adamı olan Joseph Niepce fotolitografiyi tekniği ile ilk fotografı hangi tarihte üretti?
     - **Cevap A-) 1826**
     - B-) 1868
     - C-) 1837
     - D-) 1852
     - E-) 1798
 
-    > **Açıklama:** Litografi, baskı kalıpları üretmek için aradığı çözüm ortağını fotoğrafta buldu. Böylece litografi ve fotoğrafın bir araya gelmesiyle fotolitografi doğdu. Fransız
-    > bir bilim adamı olan Joseph Niepce, 1826’da dünyanın ilk fotoğrafını üretti.
+    > **Açıklama:** Litografi, baskı kalıpları üretmek için aradığı çözüm ortağını fotoğrafta buldu. Böylece litografi ve fotoğrafın bir araya gelmesiyle fotolitografi doğdu. Fransız
+    > bir bilim adamı olan Joseph Niepce, 1826’da dünyanın ilk fotoğrafını üretti.
 
     ***
-1. Orijinal bir fotoğrafı noktalara ve baskı reprodüksiyonuna uygun değişen boyutlara ayırma eylemine ne denir?
+1. Orijinal bir fotoğrafı noktalara ve baskı reprodüksiyonuna uygun değişen boyutlara ayırma eylemine ne denir?
     - **Cevap A-) Yarı Ton (Halftone)**
     - B-) Fotolitograf
     - C-) Litografi
@@ -1729,7 +1831,7 @@
     > uygun değişen boyutlara ayırma eylemi.
 
     ***
-1. Ofset baskı sistemleri çeşitli temel bileşenlerden biri **değildir?**<br />I.   Mürekkepleme ünitesi,<br />II.  Nemlendirme ünitesi,<br />III. Kalıp silindiri,<br />IV.  Blanket (Kauçuk) silindiri,<br />V.   Baskı tasarımı
+1. Ofset baskı sistemleri çeşitli temel bileşenlerden biri **değildir?**<br />I. Mürekkepleme ünitesi,<br />II. Nemlendirme ünitesi,<br />III. Kalıp silindiri,<br />IV. Blanket (Kauçuk) silindiri,<br />V. Baskı tasarımı
     - **Cevap A-) V**
     - B-) IV
     - C-) III
@@ -1744,7 +1846,7 @@
     > • Baskı silindiri
 
     ***
-1. Çıkarımsal renk sistemine göre tasarlanmış olan, bileşim<br />matbaacılıkta kullanılan dört ana renk sisteminin kısaltılmış hali nasıl yazılır?
+1. Çıkarımsal renk sistemine göre tasarlanmış olan, bileşim<br />matbaacılıkta kullanılan dört ana renk sisteminin kısaltılmış hali nasıl yazılır?
     - **Cevap A-) CMYK**
     - B-) MYKC
     - C-) YKCM
@@ -1765,24 +1867,24 @@
     > sistemi tanımlar
 
     ***
-1. Bir bilgiyi, düşünceyi ya da mesajı başka birine iletmek için kâğıt, kumaş, plastik, ahşap gibi bir yüzey üzerinde görsel değişiklikler yapmaya ya da uygulandığı yüzeyin izleyici tarafından algılanan rengini değiştirmeye yarayan araç aşağıdakilerden hangisidir?
+1. Bir bilgiyi, düşünceyi ya da mesajı başka birine iletmek için kâğıt, kumaş, plastik, ahşap gibi bir yüzey üzerinde görsel değişiklikler yapmaya ya da uygulandığı yüzeyin izleyici tarafından algılanan rengini değiştirmeye yarayan araç aşağıdakilerden hangisidir?
     - **Cevap A-) Mürekkep**
     - B-) Silindir
     - C-) Kağıt
     - D-) Su
     - E-) Çözelti
 
-    > **Açıklama:** Mürekkep: Mürekkep bir bilgiyi, düşünceyi ya da mesajı başka birine iletmek için kâğıt, kumaş, plastik, ahşap gibi bir yüzey üzerinde görsel değişiklikler yapmaya ya da uygulandığı yüzeyin izleyici tarafından algılanan rengini değiştirmeye yarayan araçtır.
+    > **Açıklama:** Mürekkep: Mürekkep bir bilgiyi, düşünceyi ya da mesajı başka birine iletmek için kâğıt, kumaş, plastik, ahşap gibi bir yüzey üzerinde görsel değişiklikler yapmaya ya da uygulandığı yüzeyin izleyici tarafından algılanan rengini değiştirmeye yarayan araçtır.
 
     ***
-1. Ofset baskı tekniğiyle basılmak üzere bilgisayarda tamamlanan tasarımı ya da oluşturulan görüntüyü, film kullanımı gerekmeden doğruca kalıba taşıyan pozlandırma sistemine ne ad verilir?
+1. Ofset baskı tekniğiyle basılmak üzere bilgisayarda tamamlanan tasarımı ya da oluşturulan görüntüyü, film kullanımı gerekmeden doğruca kalıba taşıyan pozlandırma sistemine ne ad verilir?
     - **Cevap A-) CtP**
     - B-) CYMK
     - C-) Tabaka
     - D-) Web
     - E-) Ofset
 
-    > **Açıklama:** CtP: (Computer-to-plate) Ofset baskı tekniğiyle basılmak üzere bilgisayarda tamamlanan tasarımı ya da oluşturulan görüntüyü, film kullanımı gerekmeden doğruca kalıba taşıyan pozlandırma sistemi.
+    > **Açıklama:** CtP: (Computer-to-plate) Ofset baskı tekniğiyle basılmak üzere bilgisayarda tamamlanan tasarımı ya da oluşturulan görüntüyü, film kullanımı gerekmeden doğruca kalıba taşıyan pozlandırma sistemi.
 
     ***
 1. Orijinal bir fotoğrafı noktalara ve baskı reprodüksiyonuna uygun değişen boyutlara ayırma eylemine ne ad verilir?
@@ -1792,7 +1894,7 @@
     - D-) Yarı baskı
     - E-) Tam baskı
 
-    > **Açıklama:** Yarı ton
+    > **Açıklama:** Yarı Ton (Halftone): Orijinal bir fotoğrafı noktalara ve baskı reprodüksiyonuna uygun değişen boyutlara ayırma eylemi.
 
     ***
 1. Aşağıdakilerden hangisi ofset baskı sistemlerinin temel bileşenlerinden biri değildir?
@@ -1802,7 +1904,8 @@
     - D-) Kalıp silindiri
     - E-) Blanket
 
-    > **Açıklama:** Kurutma ünitesi
+    > **Açıklama:** Ofset baskı sistemleri çeşitli temel bileşenlerin bir araya gelmesi ile çalışır. Bu bileşenler; • Mürekkepleme ünitesi, • Nemlendirme ünitesi, • Kalıp silindiri, • Blanket (Kauçuk) silindiri, • Baskı silindiri
+    > Kurutma ünitesi
 
     ***
 1. Aralarındaki temel fark, baskı sürecinden çok, kullanılan baskı altı malzemesinin biçimi olan ofset baskı türleri hangileridir?
@@ -1810,9 +1913,10 @@
     - B-) Nemlendirme sistemli ofset - Kuru ofset
     - C-) Tabaka ofset - Nemlendirme sistemli ofset
     - **Cevap D-) Tabaka ofset - Web ofset**
-    - E-) Web ofset - Nemlendirme sistemli ofset
+    - E-) Web ofset - Nemlendirme sistemli ofset
 
-    > **Açıklama:** Tabaka ofset - Web ofset
+    > **Açıklama:** Bu başlıkta inceleyeceğimiz ofset baskı çeşitlerinden ilk ikisi olan tabaka ofset ve web ofset baskı türlerinin temel farkı, baskı sürecinden çok, kullanılan baskı altı malzemesinin biçimi ile ilgilidir..
+    > Tabaka ofset - Web ofset
 
     ***
 1. Baskı aşamasında teknik ve süreç farklılıkları gösteren ofset türleri hangileridir?
@@ -1822,7 +1926,8 @@
     - D-) Susuz ofset - Tabaka ofset
     - E-) Nemlendirme sistemli ofset - Tabaka ofset
 
-    > **Açıklama:** Nemlendirme sistemli ofset - Susuz ofset
+    > **Açıklama:** İnceleyeceğimiz diğer iki ofset baskı türü olan nemlendirme sistemli ofset ve susuz (kuru) ofset baskı sistemleri ise, baskı aşamasında teknik ve süreç farklılıkları göstermektedir
+    > Nemlendirme sistemli ofset - Susuz ofset
 
     ***
 1. Aşağıdakilerden hangisi baskı altı malzemesi olamaz?
@@ -1832,7 +1937,8 @@
     - D-) Kitap
     - **Cevap E-) Mürekkep**
 
-    > **Açıklama:** Mürekkep
+    > **Açıklama:** Baskı altı malzemesi herhangi bir baskı yönteminde kullanılan ve baskının oluşturulacağı yüzeyi ifade eder
+    > Mürekkep
 
     ***
 1. Aşağıdakilerden hangisi CMYK renk sisteminde yer alan renklerden biri değildir?
@@ -1842,7 +1948,8 @@
     - D-) Sarı
     - E-) Siyah
 
-    > **Açıklama:** Yeşil
+    > **Açıklama:** CMYK: Cyan (mavi/camgöbeği), Magenta (pembemsi kırmızı), Yellow (sarı), Key (Siyah) renklerinin kısaltmasıdır.
+    > Yeşil
 
     ***
 1. Gazeteler, kitaplar, dergi ve broşürler gibi yüksek baskı sayısına sahip ürünler için uygun olan baskı türü hangisidir?
@@ -1852,7 +1959,7 @@
     - D-) Kuru ofset baskı
     - E-) Susuz ofset baskı
 
-    > **Açıklama:** Web ofset baskı
+    > **Açıklama:** Web ofset baskı gazeteler, kitaplar, dergi ve broşürler gibi yüksek baskı sayısına sahip ürünler ve baskı sonrasında forma hâline getirilerek ciltleme işlemi uygulanacak işler için daha uygun bir ofset baskı çeşididir.
 
     ***
 1. Az sayıda basılması planlanan dergiler, broşürler, antetli kâğıt benzeri kurumsal evraklar için ekonomik bir alternatif olan baskı türü aşağıdakilerden hangisidir?
@@ -1862,7 +1969,7 @@
     - D-) Nemlendirme sistemli ofset baskı
     - E-) Geleneksel ofset baskı
 
-    > **Açıklama:** Tabaka ofset baskı
+    > **Açıklama:** Tabaka ofset baskı makineleri az sayıda basılması; planlanan dergiler, broşürler, antetli kâğıt benzeri kurumsal evraklar gibi, küçük ebatlı ya da düşük baskı adedi gerektiren işlerde ekonomik bir baskı alternatifi sunmaktadır.
 
     ***
 1. 1826’da dünyanın ilk fotoğrafını üreten bilim adamı kimdir?
@@ -1872,7 +1979,7 @@
     - **Cevap D-) Joseph Niepce**
     - E-) Godefroy Engelmann
 
-    > **Açıklama:** Joseph Niepce
+    > **Açıklama:** Fransız bir bilim adamı olan Joseph Niepce, 1826’da dünyanın ilk fotoğrafını üretti.
 
     ***
 1. Masaüstü yayıncılık için aşağıdakilerden hangisi söylenemez?
@@ -1882,7 +1989,8 @@
     - D-) Tasarımcılara ekranlarında, gerçek masaüstlerini çağrıştıracak bir ortam yaratılmıştır.
     - **Cevap E-) Hız, maliyet ve fonksiyonellik bakımından geleneksel yayıncılıktan bir farkı yoktur.**
 
-    > **Açıklama:** Hız, maliyet ve fonksiyonellik bakımından geleneksel yayıncılıktan bir farkı yoktur.
+    > **Açıklama:** Hız, maliyet ve fonksiyonellik bakımından geleneksel yayıncılıktan oldukça farklıdır.
+    > Hız, maliyet ve fonksiyonellik bakımından geleneksel yayıncılıktan bir farkı yoktur.
 
     ***
 ## Unite 5
@@ -1893,7 +2001,7 @@
     - D-) Mürekkep kalıpta çukurda kalan yerlere dolar ve yumuşatılan kağıt çukurdaki mürekkebi toplar
     - E-) Kalıptan yüzeye aktarılacak olan yerlerin yüksekte kalarak mürekkep aldığı tekniklerdir
 
-    > **Açıklama:** ***Elek baskı*** boyanın kalıbın geçirgen olan veya olmayan yerlerinden yüzeye aktarılmasıyla elde edilen baskıdır. Şablon baskı da elek baskı adı altında ele alınır. Cevap A'dır.
+    > **Açıklama:** ***Elek baskı*** boyanın kalıbın geçirgen olan veya olmayan yerlerinden yüzeye aktarılmasıyla elde edilen baskıdır. Şablon baskı da elek baskı adı altında ele alınır. Cevap A'dır.
 
     ***
 1. Kros nedir?
@@ -1913,7 +2021,7 @@
     - D-) Elek kurutma fırını
     - E-) Kalıp yıkama ünitesi
 
-    > **Açıklama:** Emülsyon çekme küreği; Boş ipek eleğin emülsiyon malzemesiyle kaplanması için kullanılan gereçtir. Mantık olarak rakleye benzer ancak farklı bir forma sahiptir. Bir kürek gibi emülsiyon malzemesini içinde tutar, elle biraz eğildiğinde ise akıcı emülsiyon sıvısının eşit ve homojen bir şekilde ve ince bir tabaka oluşturacak biçimde eleğe sürülmesini sağlar. Cevap C'dir.
+    > **Açıklama:** Emülsyon çekme küreği; Boş ipek eleğin emülsiyon malzemesiyle kaplanması için kullanılan gereçtir. Mantık olarak rakleye benzer ancak farklı bir forma sahiptir. Bir kürek gibi emülsiyon malzemesini içinde tutar, elle biraz eğildiğinde ise akıcı emülsiyon sıvısının eşit ve homojen bir şekilde ve ince bir tabaka oluşturacak biçimde eleğe sürülmesini sağlar. Cevap C'dir.
 
     ***
 1. Aşağıdakilerden hangisi pozlamadır?
@@ -1926,7 +2034,7 @@
     > **Açıklama:** **Pozlama:** Serigrafide fotografik yöntem kullanılırken ışığa duyarlı emülsiyonun uygulandığı kalıp, özel ışığa sahip bir ünitede belli bir süre ışığa maruz bırakılır ve kalıp bu yöntemle oluşturulur. Bu işleme pozlama adı verilir. Cevap D'dir.
 
     ***
-1. Serigrafide aynı anda ve aynı kalıpta farklı renkler kullanarak karıştırılması ve birbirine geçişli renklerin elde edilmesine ne ad verilir?
+1. Serigrafide aynı anda ve aynı kalıpta farklı renkler kullanarak karıştırılması ve birbirine geçişli renklerin elde edilmesine ne ad verilir?
     - A-) Pozlama
     - B-) Kros
     - C-) Emülsyon
@@ -1936,7 +2044,7 @@
     > **Açıklama:** Serigrafide aynı anda ve aynı kalıpta farklı renkler kullanarak karıştırılması ve birbirine geçişli renklerin elde edilmesine “degrade baskı” adı verilir. Cevap E'dir.
 
     ***
-1. Serigrafide birden fazla kalıpla renkleri hızlıca basmaya elveren tezgahlara ne ad verilir?
+1. Serigrafide birden fazla kalıpla renkleri hızlıca basmaya elveren tezgahlara ne ad verilir?
     - **Cevap A-) Ahtapot**
     - B-) Degrate
     - C-) Pozlama
@@ -1946,7 +2054,7 @@
     > **Açıklama:** **Ahtapot:** Serigrafide birden fazla kalıpla renkleri hızlıca basmaya elveren tezgahlara ahtapot baskı makinesi verilir. Genellikle tişört baskısında kullanılır ve yarı otomatiktir. Cevap A'dır.
 
     ***
-1. Aşağıdakilerden hangisi indirgeme yöntemiyle oyularak hazırlanan kalıplar için kullanılan bir terimdir?
+1. Aşağıdakilerden hangisi indirgeme yöntemiyle oyularak hazırlanan kalıplar için kullanılan bir terimdir?
     - A-) Yüksek baskı
     - **Cevap B-) Çukur baskı**
     - C-) Emülsyon
@@ -1963,10 +2071,10 @@
     - D-) Tipo baskı
     - E-) Şablon baskı
 
-    > **Açıklama:** ***Düz baskı***  kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu tekniklerdir (Örn. Litografi, Ofset Litografi). Cevap C'dir.
+    > **Açıklama:** ***Düz baskı***  kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu tekniklerdir (Örn. Litografi, Ofset Litografi). Cevap C'dir.
 
     ***
-1. Aşağıdakilerden hangisi kalıptan yüzeye aktarılacak olan yerlerin yüksekte kalarak mürekkep aldığı tekniktir?
+1. Aşağıdakilerden hangisi kalıptan yüzeye aktarılacak olan yerlerin yüksekte kalarak mürekkep aldığı tekniktir?
     - A-) Çukur baskı
     - B-) Düz baskı
     - C-) Elek baskı
@@ -2046,19 +2154,19 @@
     > **Açıklama:** Rakle, serigrafi tekniğinde kullanılan boya sıyırıcıdır. Manuel baskıda elle tutulan, otomatik baskılarda ise makineye bağlı olan rakle, eleğin üzerine koyulan mürekkebin sıyırılarak gözeneklerin açık olduğu yer­den alttaki baskı yapılacak yüzeye geçmesini sağlar
 
     ***
-1. 1. Kuruyan kalıp yıkanarak baskıya hazır hale getirilir.<br />2. Kalıplara emülsiyon çekilir.<br />3. Görüntü dijital olarak bilgisayar ortamında hazırlanır ve görsele bağlı olarak renk ayrı­mı yapılır.<br />4. Bu yöntemle çok sayıda ve yüksek hızda hazırlanan kalıplar seri üretimi kusursuz ve hızlı hâle getirir.<br />5. CTS makinesi kalıp baskısının ardından UV-Led ışıkla elek üzerinde baskı yaptığı alanları ve emülsiyonu kurutur.<br />6. Dijital ortamda baskı öncesi yazılımlarla hazırlanan renk ayrımı kalıp dosyaları CTS bilgisayarına aktarılır ve kalıp baskısı yapı­lır.<br />**CTS Yöntemi ile kalıp hazırlama ve baskı süreçlerinin doğru sıralaması aşağıdakilerden hangisidir?**
+1. 1\. Kuruyan kalıp yıkanarak baskıya hazır hale getirilir.<br />2\. Kalıplara emülsiyon çekilir.<br />3\. Görüntü dijital olarak bilgisayar ortamında hazırlanır ve görsele bağlı olarak renk ayrı­mı yapılır.<br />4\. Bu yöntemle çok sayıda ve yüksek hızda hazırlanan kalıplar seri üretimi kusursuz ve hızlı hâle getirir.<br />5\. CTS makinesi kalıp baskısının ardından UV-Led ışıkla elek üzerinde baskı yaptığı alanları ve emülsiyonu kurutur.<br />6\. Dijital ortamda baskı öncesi yazılımlarla hazırlanan renk ayrımı kalıp dosyaları CTS bilgisayarına aktarılır ve kalıp baskısı yapı­lır.<br />**CTS Yöntemi ile kalıp hazırlama ve baskı süreçlerinin doğru sıralaması aşağıdakilerden hangisidir?**
     - **Cevap A-) 3,2,6,5,1,4**
     - B-) 1,2,3,4,5,6
     - C-) 2,4,1,5,3,6
     - D-) 5,4,1,6,3,2
     - E-) 3,5,6,2,1,4
 
-    > **Açıklama:** 1. Görüntü dijital olarak bilgisayar ortamında hazırlanır ve görsele bağlı olarak renk ayrı­mı yapılır.
-    > 2. Kalıplara emülsiyon çekilir. Bu aşamada da otomatik makinelerden faydalanılır.
-    > 3. Dijital ortamda baskı öncesi yazılımlarla hazırlanan renk ayrımı kalıp dosyaları CTS bilgisayarına aktarılır ve kalıp baskısı yapı­lır. Bu makinelerde dakikada 1 kalıp kadar hızlı üretim yapılabilmektedir.
-    > 4. CTS makinesi kalıp baskısının ardından UV-Led ışıkla elek üzerinde baskı yaptığı alanları ve emülsiyonu kurutur.
-    > 5. Kuruyan kalıp yıkanarak baskıya hazır hale getirilir. Yıkanma aşamasında da kapalı yı­kama üniteleri kullanımı tercih edilir.
-    > 6. Bu yöntemle çok sayıda ve yüksek hızda hazırlanan kalıplar seri üretimi kusursuz ve hızlı hâle getirir.
+    > **Açıklama:** 1\. Görüntü dijital olarak bilgisayar ortamında hazırlanır ve görsele bağlı olarak renk ayrı­mı yapılır.
+    > 2\. Kalıplara emülsiyon çekilir. Bu aşamada da otomatik makinelerden faydalanılır.
+    > 3\. Dijital ortamda baskı öncesi yazılımlarla hazırlanan renk ayrımı kalıp dosyaları CTS bilgisayarına aktarılır ve kalıp baskısı yapı­lır. Bu makinelerde dakikada 1 kalıp kadar hızlı üretim yapılabilmektedir.
+    > 4\. CTS makinesi kalıp baskısının ardından UV-Led ışıkla elek üzerinde baskı yaptığı alanları ve emülsiyonu kurutur.
+    > 5\. Kuruyan kalıp yıkanarak baskıya hazır hale getirilir. Yıkanma aşamasında da kapalı yı­kama üniteleri kullanımı tercih edilir.
+    > 6\. Bu yöntemle çok sayıda ve yüksek hızda hazırlanan kalıplar seri üretimi kusursuz ve hızlı hâle getirir.
 
     ***
 1. Çok detaylı çalışmalarda ve renk ayrımı yapılan detaylı imgeler basılacağı zaman kullanımı tercih edilen; solvent ve su bazlı mürekkep kullanılan baskılarda daha iyi sonuç veren elek sıklığı aşağıdakilerden hangisidir?
@@ -2081,7 +2189,7 @@
     > **Açıklama:** Serigrafi denilince ilk akla gelen isim olan Andy Warhol, serigrafi de dahil olmak üzere birçok sanat projesinin stüdyosu olarak hizmet veren The Factory’yi 1963 yılında Manhattan’da açmıştır. Tüm sanatsal üretimlerini burada yapmaya başlayan sanatçı, aynı zamanda büyük boy serigrafi baskılar yapabileceği geniş bir alanı da yaratmıştır. Warhol, popüler kültürün eleştirisini üretim üzerinden yapmış ve serigrafi bunun için eşsiz bir teknik olmuştur.
 
     ***
-1. Serigrafide birden fazla kalıpla renkleri hızlıca basmaya elveren tezgahlar bulunmakta,  baskı bu makinalarla hızlı bir şekilde yapılmaktadır. Bu makinalar, genellikle ti­şört baskısında kullanılır ve yarı otomatiktir. Aşağıda verilenlerden hangisi bu makinalara verilen isimdir?
+1. Serigrafide birden fazla kalıpla renkleri hızlıca basmaya elveren tezgahlar bulunmakta, baskı bu makinalarla hızlı bir şekilde yapılmaktadır. Bu makinalar, genellikle ti­şört baskısında kullanılır ve yarı otomatiktir. Aşağıda verilenlerden hangisi bu makinalara verilen isimdir?
     - A-) Marimekko
     - B-) The Factory
     - **Cevap C-) Ahtapot**
@@ -2091,24 +2199,24 @@
     > **Açıklama:** Ahtapot: Serigrafide birden fazla kalıpla renkleri hızlıca basmaya elveren tezgahlara ahtapot baskı makinesi verilir. Genellikle ti­şört baskısında kullanılır ve yarı otomatiktir.
 
     ***
-1. Çinlerden Japonlara geçen, daha çok kumaş baskısında kullanılan, ipeğin üzerine maskeleyerek boyanması tekniğine verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?
+1. Çinlerden Japonlara geçen, daha çok kumaş baskısında kullanılan, ipeğin üzerine maskeleyerek boyanması tekniğine verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?
     - **Cevap A-) Katazome**
     - B-) Katagami
     - C-) Kasnak
     - D-) Selectasine
     - E-) Creswell
 
-    > **Açıklama:** Çinlerden Japonlara geçen teknik daha çok kumaş baskısında kullanılır. Japonya’da serigrafi tekniği daha da ileri düzeye taşınır. Şablonlarla tek renkli veya çok renkli desenleri katagami adı verdikleri bu tekniği ile uygulamaya başlarlar. Elle şablon kesme tekniğine katagami, ipeğin üzerine maskeleyerek boyanması tekniğine ise katazome adı verilir. Dolayısıyla cevap A şıkkıdır.
+    > **Açıklama:** Çinlerden Japonlara geçen teknik daha çok kumaş baskısında kullanılır. Japonya’da serigrafi tekniği daha da ileri düzeye taşınır. Şablonlarla tek renkli veya çok renkli desenleri katagami adı verdikleri bu tekniği ile uygulamaya başlarlar. Elle şablon kesme tekniğine katagami, ipeğin üzerine maskeleyerek boyanması tekniğine ise katazome adı verilir. Dolayısıyla cevap A şıkkıdır.
 
     ***
-1. Birinci Dünya Savaşı patlak verdiğinde matbaa üretimi hızlandı ve San Francisco’da John Pilsworth tarafından bir çok-renkli yöntem geliştirildi. Basılmakta olan renklere karşılık gelen ekranın alanını bloke ederek çok renkli işin basılması için bir kalıp kullan yönteme verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?
+1. Birinci Dünya Savaşı patlak verdiğinde matbaa üretimi hızlandı ve San Francisco’da John Pilsworth tarafından bir çok-renkli yöntem geliştirildi. Basılmakta olan renklere karşılık gelen ekranın alanını bloke ederek çok renkli işin basılması için bir kalıp kullan yönteme verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?
     - A-) Katagami
     - **Cevap B-) Selectasine**
     - C-) Katazome
     - D-) Perry
     - E-) Owens
 
-    > **Açıklama:** Birinci Dünya Savaşı patlak verdiğinde matbaa üretimi hızlandı ve San Francisco’da John Pilsworth tarafından bir çok-renkli yöntem geliştirildi. Selectasine yöntemi olarak bilinen bu yöntem, basılmakta olan renklere karşılık gelen ekranın alanını bloke ederek çok renkli işin basılması için bir kalıp kullanıyordu. Dolayısıyla cevap B şıkkıdır.
+    > **Açıklama:** Birinci Dünya Savaşı patlak verdiğinde matbaa üretimi hızlandı ve San Francisco’da John Pilsworth tarafından bir çok-renkli yöntem geliştirildi. Selectasine yöntemi olarak bilinen bu yöntem, basılmakta olan renklere karşılık gelen ekranın alanını bloke ederek çok renkli işin basılması için bir kalıp kullanıyordu. Dolayısıyla cevap B şıkkıdır.
 
     ***
 1. Baskı teknikleri genellikle kaç temel başlık altında incelenir ?
@@ -2121,34 +2229,34 @@
     > **Açıklama:** Baskı teknikleri genellikle dört temel başlık altında incelenir: Yüksek baskı teknikleri, çukur baskı teknikleri, düz baskı teknikleri ve elek baskı teknikleri. Dolayısıyla cevap C şıkkıdır.
 
     ***
-1. Kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu baskı tekniklerine verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?
+1. Kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu baskı tekniklerine verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?
     - A-) Çukur baskı
     - B-) Elek baskı
     - C-) Yüksek baskı
     - **Cevap D-) Düz baskı**
     - E-) Şablon baskı
 
-    > **Açıklama:** Düz baskı ise kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu tekniklerdir. Dolayısıyla cevap D şıkkıdır.
+    > **Açıklama:** Düz baskı ise kalıbın herhangi bir çukur veya tümsek bölümü olmaksızın, genellikle fotografik yöntemlerle mürekkebin kağıtla buluştuğu tekniklerdir. Dolayısıyla cevap D şıkkıdır.
 
     ***
-1. Özel kırmızı renkte bir filmle çalışılan, adı bu alanda en yaygın ürünün markasından gelen, bu filmin kırmızı rengi sayesinde ultraviyole ışığın eleğe geçişini engellediği, bu filmin kalın asetat üzerine yapışmış ince kırmızı film tabakasından meydana geldiği ve kesilen alanlardan kırmızı filmin sıyrılarak çalışmanın yapıldığı  serigrafi kalıbı hazırlama yöntemine verilen ad aşağıdaki hangi şıkta belirtilmiştir ?
+1. Özel kırmızı renkte bir filmle çalışılan, adı bu alanda en yaygın ürünün markasından gelen, bu filmin kırmızı rengi sayesinde ultraviyole ışığın eleğe geçişini engellediği, bu filmin kalın asetat üzerine yapışmış ince kırmızı film tabakasından meydana geldiği ve kesilen alanlardan kırmızı filmin sıyrılarak çalışmanın yapıldığı serigrafi kalıbı hazırlama yöntemine verilen ad aşağıdaki hangi şıkta belirtilmiştir ?
     - A-) Gravür
     - B-) Linol baskı
     - C-) Şablon baskı
     - D-) Tipo baskı
     - **Cevap E-) Rubylith**
 
-    > **Açıklama:** Bir yöntem ise rubylith adı verilen özel kırmızı renkte bir filmle çalışmaktır. Adı bu alanda en yaygın ürünün markasından gelmektedir. Bu film kırmızı rengi sayesinde ultraviyole ışığın eleğe geçişini engeller. Bu film kalın asetat üzerine yapışmış ince kırmızı film tabakasından meydana gelir. Kesilen alanlardan kırmızı film sıyrılarak çalışma yapılır. Dolayısıyla cevap E şıkkıdır.
+    > **Açıklama:** Bir yöntem ise rubylith adı verilen özel kırmızı renkte bir filmle çalışmaktır. Adı bu alanda en yaygın ürünün markasından gelmektedir. Bu film kırmızı rengi sayesinde ultraviyole ışığın eleğe geçişini engeller. Bu film kalın asetat üzerine yapışmış ince kırmızı film tabakasından meydana gelir. Kesilen alanlardan kırmızı film sıyrılarak çalışma yapılır. Dolayısıyla cevap E şıkkıdır.
 
     ***
-1. Fotografik pozlama ile kalıp hazırlama yönteminde renkli fotografik imgelerin da basılması mümkündür. Baskı öncesi aşamada bilgisayar ortamında basılmak istenen görsel CMYK renklerine ayrıştırılarak film çıktısı alınır, sonrasında bu ayrı filmlerin her biri kaç adet ayrı kalıpta pozlanır ?
+1. Fotografik pozlama ile kalıp hazırlama yönteminde renkli fotografik imgelerin da basılması mümkündür. Baskı öncesi aşamada bilgisayar ortamında basılmak istenen görsel CMYK renklerine ayrıştırılarak film çıktısı alınır, sonrasında bu ayrı filmlerin her biri kaç adet ayrı kalıpta pozlanır ?
     - **Cevap A-) Dört**
     - B-) Altı
     - C-) İki
     - D-) Beş
     - E-) Üç
 
-    > **Açıklama:** Fotografik pozlama ile kalıp hazırlama yönteminde, renkli fotografik imgelerin da basılması mümkündür. Baskı öncesi aşamada bilgisayar ortamında basılmak istenen görsel CMYK renklerine ayrıştırılarak film çıktısı alınır, sonrasında bu dört ayrı filmin her biri 4 ayrı kalıpta pozlanır. Dolayısıyla cevap A şıkkıdır.
+    > **Açıklama:** Fotografik pozlama ile kalıp hazırlama yönteminde, renkli fotografik imgelerin da basılması mümkündür. Baskı öncesi aşamada bilgisayar ortamında basılmak istenen görsel CMYK renklerine ayrıştırılarak film çıktısı alınır, sonrasında bu dört ayrı filmin her biri 4 ayrı kalıpta pozlanır. Dolayısıyla cevap A şıkkıdır.
 
     ***
 1. Serigrafi tekniğinde kullanılan boya sıyırıcıya verilen ad aşağıdaki hangi seçenekte belirtilmiştir ?
@@ -2168,17 +2276,17 @@
     - D-) Kalıp yıkama ünitesi
     - E-) Elek germe ünitesi
 
-    > **Açıklama:** Emülsiyon çekme küreği, boş ipek eleğin emülsiyon malzemesiyle kaplanması için kullanılan gereçtir. Dolayısıyla cevap C şıkkıdır.
+    > **Açıklama:** Emülsiyon çekme küreği, boş ipek eleğin emülsiyon malzemesiyle kaplanması için kullanılan gereçtir. Dolayısıyla cevap C şıkkıdır.
 
     ***
-1. Serigrafi tekniğini kullanan hangi sanatçı, farklı renklerde mürekkepleri birleştiren ticari sürecin ilk güzel sanat uygulamalarından biri olan “split fountain” (degrade) tekniğiyle yapılan harmanlanmış renklerin yanı sıra düz, düz renkli alanlar elde etmeyi başarmıştır ?
+1. Serigrafi tekniğini kullanan hangi sanatçı, farklı renklerde mürekkepleri birleştiren ticari sürecin ilk güzel sanat uygulamalarından biri olan “split fountain” (degrade) tekniğiyle yapılan harmanlanmış renklerin yanı sıra düz, düz renkli alanlar elde etmeyi başarmıştır ?
     - A-) Warhol
     - B-) Keating
     - C-) Opie
     - **Cevap D-) Rucha**
     - E-) Hecker
 
-    > **Açıklama:** Serigrafi tekniğini kullanan Ruscha, farklı renklerde mürekkepleri birleştiren ticari sürecin ilk güzel sanat uygulamalarından biri olan “split fountain” (degrade) tekniğiyle yapılan harmanlanmış renklerin yanı sıra düz, düz renkli alanlar elde etmeyi başardı. Dolayısıyla cevap D şıkkıdır.
+    > **Açıklama:** Serigrafi tekniğini kullanan Ruscha, farklı renklerde mürekkepleri birleştiren ticari sürecin ilk güzel sanat uygulamalarından biri olan “split fountain” (degrade) tekniğiyle yapılan harmanlanmış renklerin yanı sıra düz, düz renkli alanlar elde etmeyi başardı. Dolayısıyla cevap D şıkkıdır.
 
     ***
 1. Helsinki’de 1951 yılında kurulan hangi tasarım ofisi, dünyaca ünlü kumaşlarıyla ve yüksek kalitede tekstil baskılarıyla ünlüdür ?
@@ -2209,7 +2317,7 @@
     - E-) Spatula
 
     > **Açıklama:** İpek elek, çekme küreği yardımıyla emülsiyon denilen bir sıvı bir malzemeyle kaplanır. Bu ince tabaka ışığa duyarlıdır. İstenilen tasarımın siyah beyaz olarak çıktısının alındığı veya elle hazırlanan film ışığı duyarlı bu kalıp ile birlikte kaplanıp pozlama ünitesinde gerekli ışık ve zaman ayarı yapılarak pozlanır.Emülsiyonlu kalıp pozitif filmle pozlanır ve böylelikle siyah olan alanlar ışığı geçirmeyerek yumuşak kalır, ışık alan alanlar ise sertleşerek sabitlenir.
-    > Emülsiyon pozlama aşaması , onun dışındaki malzemeler  baskı aşaması için gereklidir.
+    > Emülsiyon pozlama aşaması , onun dışındaki malzemeler baskı aşaması için gereklidir.
 
     ***
 1. Serigrafi baskıda işlem sıralaması hangisinde doğru verilmiştir?<br />a.pozlama<br />b.kalıba emülsiyon çekilmesi<br />c. baskı<br />d.kalıbın yıkanması ve kurutulması
@@ -2219,11 +2327,11 @@
     - D-) d,c,a,b
     - E-) c,d,b,a
 
-    > **Açıklama:** 1.kalıba emülsiyon çekilmesi
-    > 2.pozlama
-    > 3.kalıbın yıkanması ve kurutulması
-    > 4.boya hazırlama
-    > 5.baskı
+    > **Açıklama:** 1\.kalıba emülsiyon çekilmesi
+    > 2\.pozlama
+    > 3\.kalıbın yıkanması ve kurutulması
+    > 4\.boya hazırlama
+    > 5\.baskı
 
     ***
 1. Aşağıdaki sanatçılardan Türkiye'de ipek baskı tekniğini sanatsal anlamda ilk defa kullanmıştır?
@@ -2244,7 +2352,7 @@
 1. Serigrafide kullanılan eleklerin sıklığı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
     - A-) Yüksek sıklıkta elekte yüzeye geçen mürekkep miktarı daha düşüktür.
     - B-) Elek sıklığı inç başına düşen ip sayısı olarak ölçülür.
-    - C-) Yüksek sıklıkta elek detaylı baskıların çoğaltımında daha iyi sonuç verir.
+    - C-) Yüksek sıklıkta elek detaylı baskıların çoğaltımında daha iyi sonuç verir.
     - **Cevap D-) Yoğun mürekkebin elekten geçebilmesi için elek sıklığının yüksek olması gerekir**
     - E-) kuşe kağıt gibi yüzeylerde yüksek sıklıkta elekler kullanılır.
 
@@ -2334,7 +2442,7 @@
     > **Açıklama:** Renk ışık ile var olan fiziksel bir oluşumdur. Işık olmadan renk ve görme eylemi olamaz.
 
     ***
-1. Renk çemberleri renklerin arasındaki ilişkileri anlamak, birbiri ile uyumlu renk armoni­leri kurmak, renk seçimleri yaparken birbirilerinin etkisini artırabilecek renkleri seçerken birbirinin etkisini zayıflatabilecek eşleşmelerden kaçınmak için faydalı araçlardır. Renk çemberi aşağıda isimleri  verilen kişilerden hangisinin deneyimleri sonucunda düzenlemiştir.
+1. Renk çemberleri renklerin arasındaki ilişkileri anlamak, birbiri ile uyumlu renk armoni­leri kurmak, renk seçimleri yaparken birbirilerinin etkisini artırabilecek renkleri seçerken birbirinin etkisini zayıflatabilecek eşleşmelerden kaçınmak için faydalı araçlardır. Renk çemberi aşağıda isimleri verilen kişilerden hangisinin deneyimleri sonucunda düzenlemiştir.
     - A-) Lupton
     - B-) Phillips
     - **Cevap C-) Newton**
@@ -2344,7 +2452,7 @@
     > **Açıklama:** Newton’un gözlemleri sonucu ulaştığı bu yedi renkle düzenlediği renk çemberi, günümüzde yaygın olarak kullanılan renk teorilerinden pek de uzak değildir.
 
     ***
-1. CMYK olarak kabul edilen  renkler aşağıdakilerden hangisidir
+1. CMYK olarak kabul edilen renkler aşağıdakilerden hangisidir
     - A-) Mor, Yeşil, Siyah, Cyan
     - B-) Sarı, Magenta, Kırmızı, Mor
     - **Cevap C-) Magenta, Sarı, Cyan, Siyah,**
@@ -2404,7 +2512,7 @@
     > **Açıklama:** # işareti ile başlayan kod söz konusu rengin HEX kodu karşılığını gösterirken, parantez içinde verilmiş olan üçlü sistem ise, aynı rengin RGB sistemindeki karşılığıdır.
 
     ***
-1. Aşağıdaki araçlardan  hangisi detaylı bir kullanım bilgisi gerektirmeyen, görsellerin renk ve kontrast gibi değerlerini hızlı şekilde düzeltme imkânı sağlayan araçlardandır. ?
+1. Aşağıdaki araçlardan hangisi detaylı bir kullanım bilgisi gerektirmeyen, görsellerin renk ve kontrast gibi değerlerini hızlı şekilde düzeltme imkânı sağlayan araçlardandır. ?
     - A-) Seçmeli Renk
     - B-) Doygunluk
     - C-) Ton
@@ -2421,7 +2529,8 @@
     - D-) Sarı
     - E-) Mavi
 
-    > **Açıklama:** •  3 ikincil (yeşil, **mor,** turuncu)
+    > **Açıklama:** Renk Teorisi
+    > • 3 ikincil (yeşil, **mor,** turuncu)
 
     ***
 1. Aşağıdakilerden hangisi bir ana yada birincil renktir?
@@ -2431,7 +2540,8 @@
     - D-) Yeşil
     - E-) Beyaz
 
-    > **Açıklama:** • 3 birincil (sarı, mavi, **kırmızı)•**
+    > **Açıklama:** Renk Teorisi
+    > • 3 birincil (sarı, mavi, **kırmızı)•**
 
     ***
 1. Aşağıdakilerden hangisi bir rengin griye doğru canlılığını kaybederek nötrleştiği skalada saflık derecesini betimler?
@@ -2451,7 +2561,8 @@
     - **Cevap D-) Renk yönetimi**
     - E-) Renk teorisi
 
-    > **Açıklama:** **Renk yönetimi**, tasarım ve üretim aşamasında kullanılan cihazlar arasında renk dönüşümlerinin yapılmasını, baskı sonucunun ekranda ve provada simüle edilmesini sağlar.
+    > **Açıklama:** **ICC ve Renk Profilleri**
+    > **Renk yönetimi**, tasarım ve üretim aşamasında kullanılan cihazlar arasında renk dönüşümlerinin yapılmasını, baskı sonucunun ekranda ve provada simüle edilmesini sağlar.
 
     ***
 1. Aşağıdakilerden hangisi bir renk modelinde, belli bir renk evreninin ya da bir cihazın üretebildiği renk aralığını tanımlar?
@@ -2474,7 +2585,7 @@
     > **Açıklama:** **Kalibrasyon,** tüm cihazların koordineli olması için ekipmanın önceden belirlenmiş değerlere ayarlanması anlamına gelmektedir.
 
     ***
-1. Aşağıdaki kavramlardan hangisi tüm baskı birimlerinin tutarlı bir şekilde aynı sonuçları sağladığından emin olmayı içerir?
+1. Aşağıdaki kavramlardan hangisi tüm baskı birimlerinin tutarlı bir şekilde aynı sonuçları sağladığından emin olmayı içerir?
     - A-) Renk Profilleri
     - **Cevap B-) Stabilizasyon**
     - C-) Kalibrasyon
@@ -2501,7 +2612,8 @@
     - **Cevap D-) Beyaz**
     - E-) Mor
 
-    > **Açıklama:** Toplamsal renk metodunun üç ana rengi olan kırmızı yeşil ve mavi, beyaz ışığın bir bileşenini temsil eder ve böylece tüm renklerin üst üste geldiği yerde beyaz üretilir.
+    > **Açıklama:** Işık ile Oluşan Renk (Toplamsal Renk Metodu)
+    > Toplamsal renk metodunun üç ana rengi olan kırmızı yeşil ve mavi, beyaz ışığın bir bileşenini temsil eder ve böylece tüm renklerin üst üste geldiği yerde beyaz üretilir.
 
     ***
 1. Sayısal değerler yardımıyla tanımlanmış renk aralığına ne ad verilir?
@@ -2622,7 +2734,8 @@
     - D-) 1991- Almanya
     - E-) 1971 - İngiltere
 
-    > **Açıklama:** İlk Uluslararası Kağıt Sanatı Bienali 1981 yılında Almanya’nın Düren kentinde Leopold Hoesch Müzesi’nde düzenlendi
+    > **Açıklama:** Grafik Üretim ve Dijital Çoğaltım Teknikleri giriş
+    > İlk Uluslararası Kağıt Sanatı Bienali 1981 yılında Almanya’nın Düren kentinde Leopold Hoesch Müzesi’nde düzenlendi
 
     ***
 1. Bitkisel liflerden elde edilen ilk kağıt hangi uygarlık tarafından bulunmuştur?
@@ -2632,7 +2745,8 @@
     - D-) Arap
     - E-) Viking
 
-    > **Açıklama:** M.S 105 yılında bitkisel liflerden elde edilen ilk kağıt Tsai Lun adında Çin İmparatorluğu Tarım Bakanlığında çalışan bir saray memuru tarafından bulunmuştur
+    > **Açıklama:** Dijital Baskı da Kullanılan Kağıdın Tarihçesi
+    > M.S 105 yılında bitkisel liflerden elde edilen ilk kağıt Tsai Lun adında Çin İmparatorluğu Tarım Bakanlığında çalışan bir saray memuru tarafından bulunmuştur
 
     ***
 1. Türkiye'deki ilk kağıt fabrikasının kuruluş tarihi aşağıdakilerden hangisidir?
@@ -2642,7 +2756,8 @@
     - D-) 1753
     - E-) 1853
 
-    > **Açıklama:** Türkiye’de ise ilk kağıt fabrikası 1453 yılında İstanbul’da Kağıthane’de kurulmuş olup Çinlilerin üretim tekniğine benzer elle imalat yapımı uygulanmıştır.
+    > **Açıklama:** Dijital Baskı da Kullanılan Kağıdın Tarihçesi
+    > Türkiye’de ise ilk kağıt fabrikası 1453 yılında İstanbul’da Kağıthane’de kurulmuş olup Çinlilerin üretim tekniğine benzer elle imalat yapımı uygulanmıştır.
 
     ***
 1. Sulu sistemle kağıt üretimi sırasında lifler tarafından tutulan su, \_\_\_\_\_\_ ile uzaklaştırılır.<br />Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -2662,7 +2777,8 @@
     - D-) Akçaağaç
     - E-) Meşe
 
-    > **Açıklama:** Yumuşak ağaçlar (Çam, köknar, ladin, kavak) uzun liflere sahiptir. Ve bu ağaçlardan üretilen kağıtlar oldukça dayanıklıdır.
+    > **Açıklama:** Kağıt Üretimi
+    > Yumuşak ağaçlar (Çam, köknar, ladin, kavak) uzun liflere sahiptir. Ve bu ağaçlardan üretilen kağıtlar oldukça dayanıklıdır.
 
     ***
 1. Dayanıklı bir kağıt üretilmek isteniyorsa aşağıdaki ağaç türlerinden hangisini kullanmak gerekir?
@@ -2672,7 +2788,8 @@
     - D-) Meşe
     - E-) Dişbudak
 
-    > **Açıklama:** Yumuşak ağaçlar (Çam, köknar, ladin, kavak) uzun liflere sahiptir. Ve bu ağaçlardan üretilen kağıtlar oldukça dayanıklıdır.
+    > **Açıklama:** Kağıt Üretimi
+    > Yumuşak ağaçlar (Çam, köknar, ladin, kavak) uzun liflere sahiptir. Ve bu ağaçlardan üretilen kağıtlar oldukça dayanıklıdır.
 
     ***
 1. Aşağıdaki ebatlardan hangisi üçüncü hamur kağıtlara aittir?
@@ -2682,7 +2799,8 @@
     - D-) 70x100cm
     - E-) 64x90cm
 
-    > **Açıklama:** Üçüncü hamur kağıtlar: 57 x 82 cm, 68 x 100 cm
+    > **Açıklama:** Kağıdın özellikleri
+    > Üçüncü hamur kağıtlar: 57 x 82 cm, 68 x 100 cm
 
     ***
 1. Aşağıdakilerden hangisi A4 kağıdının boyutlarıdır?
@@ -2692,7 +2810,8 @@
     - D-) 148x210
     - E-) 297x420mm
 
-    > **Açıklama:** 210x297mm
+    > **Açıklama:** Kağıdın Özellikleri
+    > 210x297mm
 
     ***
 1. Halk arasında parlak kağıt olarak bilinen, yüzeyi işlenmiş kağıt ne ad verilir?
@@ -2702,7 +2821,8 @@
     - D-) Pelür
     - E-) Karton
 
-    > **Açıklama:** Kuşe (Parlak) kağıt: Halk arasında parlak kağıt olarak bilinen, yüzeyi işlenmiş kağıt türüdür. İki yüzü de parlak ise kuşe, tek yüzü parlak ise kromolüks olarak adlandırılır.
+    > **Açıklama:** DİJİTAL TASARIM SONRASI BASKIDA KAĞIT TÜRLERİ, KATLAMA-KIRIM-FORMA
+    > Kuşe (Parlak) kağıt: Halk arasında parlak kağıt olarak bilinen, yüzeyi işlenmiş kağıt türüdür. İki yüzü de parlak ise kuşe, tek yüzü parlak ise kromolüks olarak adlandırılır.
 
     ***
 1. Aşağıdakilerden hangisi baskı esnasında renklerin yerine oturmasını sağlayan kılavuz işaretlerine denir?
@@ -2712,7 +2832,8 @@
     - D-) Pelür
     - E-) Istaka
 
-    > **Açıklama:** Kros: “Baskı esnasında renklerin yerine oturmasını sağlayan kılavuz işaretlerdir. Genellikle kâğıt ortasına yerleştirilir. Kalıp çekimi, baskı ve kırım bu kroslara göre yapılır.”
+    > **Açıklama:** Dijital Tasarım Sonrası Baskıda Kağıt Katlama-Kırım-Forma
+    > Kros: “Baskı esnasında renklerin yerine oturmasını sağlayan kılavuz işaretlerdir. Genellikle kâğıt ortasına yerleştirilir. Kalıp çekimi, baskı ve kırım bu kroslara göre yapılır.”
 
     ***
 1. "Keten paçavraları, odun, saman gibi atık .......... maddelerin su içinde tokmak ve çekiçlerle dövülerek üretilen yazı taşıyıcı ince tabakaya kağıt denilir." ifadesinde boş bırakılan yeri aşağıdakilerden hangisi doğru biçimde tamamlar?
@@ -2725,7 +2846,7 @@
     > **Açıklama:** Dijital tasarım sonrasında baskı yapımında kullanılan kağıt, malzeme olarak tanımlarken; keten paçavraları, odun, saman gibi atık **lifli** maddelerin su içinde tokmak ve çekiçlerle dövülerek üretilen yazı taşıyıcı ince tabakaya kağıt denilir. Doğru yanıt C seçeneğidir.
 
     ***
-1. I. Kayalar ve taşlar, II. Kil tablet ve çömlekler, III. Cam ve elyaf, IV. Ağaç ve kaplumbağa kabuğu,<br />Sıralanan maddelerden hangileri kağıdın keşfinden önce kayıt altına alma ve yazınsal iletişimde yazıların kazınarak oyulduğu malzemeler arasında yer almaktadır?
+1. I. Kayalar ve taşlar, II. Kil tablet ve çömlekler, III. Cam ve elyaf, IV. Ağaç ve kaplumbağa kabuğu,<br />Sıralanan maddelerden hangileri kağıdın keşfinden önce kayıt altına alma ve yazınsal iletişimde yazıların kazınarak oyulduğu malzemeler arasında yer almaktadır?
     - A-) I, II ve III
     - **Cevap B-) I, II ve IV**
     - C-) II, III ve IV
@@ -2736,7 +2857,7 @@
     > Doğru yanıt, doğru seçenekler olan I, II ve IV numaralı ifadeleri içeren B seçeneğidir.
 
     ***
-1. M.Ö 4000’li yıllarda Mısırlılar tarafından, kağıda benzeyen ve kamış benzeri bir bitkiden üretilen ilk yazı sayfası  aşağıdakilerden hangisidir?
+1. M.Ö 4000’li yıllarda Mısırlılar tarafından, kağıda benzeyen ve kamış benzeri bir bitkiden üretilen ilk yazı sayfası aşağıdakilerden hangisidir?
     - A-) Papier
     - **Cevap B-) Cypruspapyrus**
     - C-) Papirus
@@ -2766,18 +2887,18 @@
 
     > **Açıklama:** "**IV**. Ağaçların kağıt hamuru hâline getirilmelerinde mekanik ve kimyasal ve elektronik yöntemlerden yararlanılır; **V**. En kolay ve ekonomik kağıt hamuru üretme biçimi, elektronik yöntemdir." ifadeleri yanlıştır. Elektronik yöntem olarak tanımlanabilecek bir kağıt üretim yöntemi yoktur.
     > Doğru ifadeler;
-    > **"IV**. Ağaçların kağıt hamuru hâline getirilmelerinde mekanik ve kimyasal ve elektronik yöntemlerden yararlanılır. ve **V**. En kolay ve ekonomik kağıt hamuru üretme biçimi, mekanik yöntemdir."
+    > **"IV**. Ağaçların kağıt hamuru hâline getirilmelerinde mekanik ve kimyasal ve elektronik yöntemlerden yararlanılır. ve **V**. En kolay ve ekonomik kağıt hamuru üretme biçimi, mekanik yöntemdir."
     > biçiminde olacaktır. Doğru yanıt I, II ve III numaralı ifadelerin yer aldığı **C** seçeneğidir.
 
     ***
-1. Aşağıdakilerden hangisi dijital tasarım sonrası kullanılan kağıt için yazılan tanım ya da tanımları içerir?<br />I-Üzerine yazı yazılan bir malzemedir.<br />II-Keten paçavraları, odun, vs. atık lifli maddelerin su içinde tokmak ve çekiçlerle dövülerek üretilen yazı taşıyıcı ince bir tabakadır.<br />III-Basım sanayinin, vazgeçilmez malzemesi olup tarihin yapıcısı ve taşıyıcısıdır.<br />IV-Grafik iletişimin temel malzemesidir.<br />V-Kağıt yüzyıllar boyu mesaj ve bilginin taşıyıcı malzemesidir.
+1. Aşağıdakilerden hangisi dijital tasarım sonrası kullanılan kağıt için yazılan tanım ya da tanımları içerir?<br />I-Üzerine yazı yazılan bir malzemedir.<br />II-Keten paçavraları, odun, vs. atık lifli maddelerin su içinde tokmak ve çekiçlerle dövülerek üretilen yazı taşıyıcı ince bir tabakadır.<br />III-Basım sanayinin, vazgeçilmez malzemesi olup tarihin yapıcısı ve taşıyıcısıdır.<br />IV-Grafik iletişimin temel malzemesidir.<br />V-Kağıt yüzyıllar boyu mesaj ve bilginin taşıyıcı malzemesidir.
     - A-) I ve II
     - B-) I-III
     - C-) I, II ve IV
     - D-) I, III ve V
     - **Cevap E-) I-V**
 
-    > **Açıklama:** Dijital tasarım sonrasında baskı yapımında kullanılan kağıt, malzeme olarak tanımlarken; keten paçavraları, odun, saman gibi atık lifli maddelerin su içinde tokmak ve çekiçlerle dövülerek üretilen yazı taşıyıcı ince tabakaya kağıt denilir. Başka bir tanımda ise “ham maddesi selüloz, odun, saman, atık kağıt gibi bitkisel maddeler olan, üzerine baskı yapmaya elverişli tabakaya kağıt” denir. Kağıdın ham maddesi bitkilerde bulunan liflerdir (selüloz). Kağıt, bitkisel lifler veya atık kağıtlardan, paçavralardan yeniden selülozun mekanik veya kimyasal yollarla liflendirilmesi ile hamurlardan üretilen, üzerine baskı yapmaya uygun tabakadır. Kağıt, “üzerine yazı yazılan bir materyal olarak tarihin yapıcısı ve taşıyıcısı olarak anlamsal bakımdan çoğalır”. Kağıt, grafik iletişimin temel malzemesidir. Kağıt yüzyıllar boyu mesaj ve bilginin taşıyıcı malzemesidir.  Bu tanımlar doğrultusunda "E" seçeneği doğru cevaptır.
+    > **Açıklama:** Dijital tasarım sonrasında baskı yapımında kullanılan kağıt, malzeme olarak tanımlarken; keten paçavraları, odun, saman gibi atık lifli maddelerin su içinde tokmak ve çekiçlerle dövülerek üretilen yazı taşıyıcı ince tabakaya kağıt denilir. Başka bir tanımda ise “ham maddesi selüloz, odun, saman, atık kağıt gibi bitkisel maddeler olan, üzerine baskı yapmaya elverişli tabakaya kağıt” denir. Kağıdın ham maddesi bitkilerde bulunan liflerdir (selüloz). Kağıt, bitkisel lifler veya atık kağıtlardan, paçavralardan yeniden selülozun mekanik veya kimyasal yollarla liflendirilmesi ile hamurlardan üretilen, üzerine baskı yapmaya uygun tabakadır. Kağıt, “üzerine yazı yazılan bir materyal olarak tarihin yapıcısı ve taşıyıcısı olarak anlamsal bakımdan çoğalır”. Kağıt, grafik iletişimin temel malzemesidir. Kağıt yüzyıllar boyu mesaj ve bilginin taşıyıcı malzemesidir. Bu tanımlar doğrultusunda "E" seçeneği doğru cevaptır.
 
     ***
 1. Aşağıdakilerden hangisinde kağıt yapımının geliştirildiği yıl ve kişi doğru olarak verilmiştir?
@@ -2820,7 +2941,7 @@
     > **Açıklama:** Kağıdın optik, mekanik ve kimyasal yönden temiz ve beyaz olması **baskı kalıplarının** aşınmasını önler, baskı tirajını arttırır.
 
     ***
-1. **I.** Renk tonlarını göstermede, ışık ve gölge alanlarını yakalama ve zıt renklerin oluşumunda kağıdın rengi önemlidir, **II**.Grafik tasarım açısından renkli tasarımlar için en çok kullanılan kağıt rengi gridir, **III.** Kağıdın beyazlığı; içerisindeki ağartıcı kimyasal maddeler, fosforlu boyalar, pigment ve benzeri maddelerle ayarlanır, **IV.** Kağıdın rengi üzerine basılacak işin rengini etkiler. “Beyaz dışındaki kağıtlar daha az parıldama oluşturur, uzun metinlerin okunmasında kolaylık sağlar. Kağıt rengine ilişkin sıralanan ifadelerden hangileri doğrudur?
+1. **I.** Renk tonlarını göstermede, ışık ve gölge alanlarını yakalama ve zıt renklerin oluşumunda kağıdın rengi önemlidir, **II**.Grafik tasarım açısından renkli tasarımlar için en çok kullanılan kağıt rengi gridir, **III.** Kağıdın beyazlığı; içerisindeki ağartıcı kimyasal maddeler, fosforlu boyalar, pigment ve benzeri maddelerle ayarlanır, **IV.** Kağıdın rengi üzerine basılacak işin rengini etkiler. “Beyaz dışındaki kağıtlar daha az parıldama oluşturur, uzun metinlerin okunmasında kolaylık sağlar. Kağıt rengine ilişkin sıralanan ifadelerden hangileri doğrudur?
     - A-) I, II ve III
     - B-) II, III ve IV
     - C-) I, II ve IV
@@ -2831,7 +2952,7 @@
     > I, III ve IV numaralı ifadelerin olduğu E seçeneği doğru yanıttır.
 
     ***
-1. Aşağıdaki seçeneklerin hangisinde  kağıt türleri gr/m2 değerlerine göre, hafiften ağıra,  doğru biçimde sıralanmıştır?
+1. Aşağıdaki seçeneklerin hangisinde kağıt türleri gr/m2 değerlerine göre, hafiften ağıra, doğru biçimde sıralanmıştır?
     - A-) Mukavva, karton, kağıt
     - B-) Karton, kağıt, mukavva
     - **Cevap C-) Kağıt, karton, mukavva**
@@ -2849,7 +2970,7 @@
     - **Cevap A-) Kağıdın yansıttığı ışığın ölçüsüdür.**
     - B-) Kağıdın üretim rengidir.
     - C-) İşlenmiş kağıdın görüntüsüdür.
-    - D-) Kağıtta gr/m2 özelliğinin yansımasıdır
+    - D-) Kağıtta gr/m2 özelliğinin yansımasıdır
     - E-) Kağıdın su yönünü gösteren özelliğidir.
 
     > **Açıklama:** “Parlaklık, kağıdın yansıttığı ışığın ölçüsüdür. Kağıtların çoğu gelen ışığın % 60-90’ını yansıtır. Kağıdın parlaklığı okunabilirliği etkilediğinden önemlidir. Yüksek parlaklık gözün yorulmasına neden olabilir. Özellikle yüzeyi işlenmiş ve parlak kağıtlar uzun metinlerden oluşan çalışmalar için uygun olmayacaktır”
@@ -2956,7 +3077,7 @@
     > **Açıklama:** Çin’in insanlık tarihindeki dört büyük icadıdır. Bu dört büyük icat, insanlık medeniyetinin ilerlemesine de büyük katkıda bulunmuştur. Kağıdın icadı dünyada dört büyük buluştan biri sayılarak M.Ö 2. yüzyıldan günümüze kadar hâlâ kullanılan yaygın malzeme seçeneği olmuştur.
 
     ***
-1. Aşağıdakilerden hangisi İnsanlık tarihinin en büyük dört icadından biridir?
+1. Aşağıdakilerden hangisi İnsanlık tarihinin en büyük dört icadından biridir?
     - A-) Otomobil
     - B-) Saat
     - C-) Ok
@@ -2986,12 +3107,12 @@
     > **Açıklama:** Eski çağlarda Mısır’da papirüs, Avrupa’da koyun derisi, Çin’de ise ipek kağıt, defter için kullanılan ipek kumaş ve Tsai Lun kağıdı türleri bulunmaktadır.
 
     ***
-1. Gerçek manada yazı için kullanılan kâğıdı ise kaçıncı yüzyıllarda  geliştirilmiş ve yayılmaya başlanmıştır?
-    - A-) 2.-3. yüzyıllarda
-    - B-) 4.-5. yüzyıllarda
-    - C-) 6.-7. yüzyıllarda
-    - **Cevap D-) 8.-9. yüzyıllarda**
-    - E-) 9.-10. yüzyıllarda
+1. Gerçek manada yazı için kullanılan kâğıdı ise kaçıncı yüzyıllarda geliştirilmiş ve yayılmaya başlanmıştır?
+    - A-) 2\.-3. yüzyıllarda
+    - B-) 4\.-5. yüzyıllarda
+    - C-) 6\.-7. yüzyıllarda
+    - **Cevap D-) 8\.-9. yüzyıllarda**
+    - E-) 9\.-10. yüzyıllarda
 
     > **Açıklama:** Gerçek manada yazı için kullanılan kâğıdı ise 8.-9. yüzyıllarda Batı Asya’ya gelen Müslüman Arapların sayesinde öğrenmişler ve geliştirerek Doğu Avrupa’ya yani İspanya’ya ve oradan da tüm Avrupa’ya yaymışlardır.
 
@@ -3016,7 +3137,7 @@
     > **Açıklama:** Cumhuriyet döneminde yeni bir kağıt endüstrisinin kurulmasına yönelik çalışmalar ormanların az, enerjinin kıt olması nedeniyle destek görmemiştir.
 
     ***
-1. Aşağıdakilerden hangisi günümüzde  kaliteli beyaz hamur<br />üretiminde kullanılmaktadır?
+1. Aşağıdakilerden hangisi günümüzde kaliteli beyaz hamur<br />üretiminde kullanılmaktadır?
     - A-) Köknar
     - B-) Ladin
     - C-) Kenevir sapı
@@ -3030,7 +3151,7 @@
     ***
 1. Bir yüzeyi işlenmiş, parlak ve tam beyaz; diğer yüzeyi mat ve pürüzlü, kaliteli bir karton türü olan kağıt türü aşağıdakilerden hangisidir?
     - **Cevap A-) Bristol**
-    - B-) Kuşe kağıt
+    - B-) Kuşe kağıt
     - C-) Pelür
     - D-) Aydınger
     - E-) Karton
@@ -3039,7 +3160,7 @@
     > türüdür. Amerikan Bristol’ü olarak da bilinir.
 
     ***
-1. Cilt sırtını yuvarlattıktan sonra düzeltmeye yarayan içbükey olarak oyulmuş uçlarıyla tahta veya kemikten yapılmış  katlama aletine ne ad verilir?
+1. Cilt sırtını yuvarlattıktan sonra düzeltmeye yarayan içbükey olarak oyulmuş uçlarıyla tahta veya kemikten yapılmış katlama aletine ne ad verilir?
     - A-) Spatula
     - B-) Giyotin
     - C-) Makas
@@ -3050,6 +3171,16 @@
 
     ***
 ## Unite 8
+1. Kayıplı sıkıştırma yöntemi olarak bilinen, çoğu kamera görüntüsünün depolama yöntemi olan format hangisidir.
+    - A-) GIF
+    - B-) PNG
+    - C-) 3D
+    - **Cevap D-) JPEG**
+    - E-) GAP
+
+    > **Açıklama:** Kayıplı sıkıştırma yöntemi olarak bilinen, çoğu kamera görüntüsünün depolama yöntemi olan format JPEG'dir doğru yanıt D şıkkıdır.
+
+    ***
 1. Görüntü kalitesini belirleyen en küçük görsel dijital grafik birimin adı nedir.
     - A-) Tiff
     - B-) Çözünürlük
@@ -3057,7 +3188,7 @@
     - D-) Vektör
     - E-) Tram
 
-    > **Açıklama:** Piksel
+    > **Açıklama:** Görüntü kalitesini belirleyen en küçük görsel dijital grafik birimin adı Piksel'dir, sorunun yanıtı C şıkkıdır.
 
     ***
 1. Piksel sayısı dijital görüntünün nesini belirler.
@@ -3067,7 +3198,8 @@
     - D-) Rengini
     - **Cevap E-) Çözünürlüğünü**
 
-    > **Açıklama:** Çözünürlük
+    > **Açıklama:** Piksel sayısı dijital görüntünün çözünürlüğünü belirler, sorunun yanıtı E şıkkıdır.
+    > Çözünürlük
 
     ***
 1. Görüntünün çözünürlüğü anlatan, açılımı inç başına nokta demek olan tanım hangisidir.
@@ -3077,7 +3209,7 @@
     - D-) CMY
     - E-) RGB
 
-    > **Açıklama:** DPI
+    > **Açıklama:** Görüntünün çözünürlüğü anlatan, açılımı inç başına nokta demek olan tanım DPI'dır, sorunun yanıtı A şıkkıdır.
 
     ***
 1. Çoğunlukla dijital çizimler, karmaşık grafikler, logolar için kullanılan dosya formatı seçeneklerden hangisidir.
@@ -3087,7 +3219,8 @@
     - D-) Piksel dosyaları
     - E-) GIFf formatı
 
-    > **Açıklama:** Vektör dosyaları
+    > **Açıklama:** Çoğunlukla dijital çizimler, karmaşık grafikler, logolar için kullanılan Vektör dosyasıdır, sorunun yanıtı B şıkkıdır.
+    > Vektör dosyaları
 
     ***
 1. Saklanan verilerin sonraki kopyaları veya kod dönüştürmeleri arasındaki kalite kaybına ne denir.
@@ -3097,7 +3230,8 @@
     - **Cevap D-) Nesil kaybı**
     - E-) Geçecek nesil
 
-    > **Açıklama:** Nesil kaybı
+    > **Açıklama:** Saklanan verilerin sonraki kopyaları veya kod dönüştürmeleri arasındaki kalite kaybına ne denir.
+    > Nesil kaybı
 
     ***
 1. Raster görüntü kaydında kullanılan iki ana renk modeli seçeneklerden hangisidir.
@@ -3107,7 +3241,7 @@
     - **Cevap D-) CMYK/RGB**
     - E-) HEIF/CMYK
 
-    > **Açıklama:** CMYK/RGB
+    > **Açıklama:** Raster görüntü kaydında kullanılan iki ana renk modeli CMYK/RGB'dir sorunun yanıtı D şıkkıdır.
 
     ***
 1. CMYK görüntü sistemine kullandığı renkler isim vermektedir burada K harfi siyah rengi ifade ederken adını hangi ingilizce kelimeden alır.
@@ -3117,7 +3251,7 @@
     - D-) King
     - E-) Kit
 
-    > **Açıklama:** Key
+    > **Açıklama:** CMYK görüntü sistemine kullandığı renkler isim vermektedir burada K harfi siyah rengi ifade ederken adını ingilizce Key yani anahtar kelimesinden alır, sorunun yanıtı A şıkkıdır.
 
     ***
 1. Genellikle Apple tarafından mobil cihazlarda kullanılan yüksek verimli görüntü biçimi sisteminin kısaltması hangisidir.
@@ -3127,7 +3261,7 @@
     - D-) APP/KEY
     - **Cevap E-) HEİF**
 
-    > **Açıklama:** HEİF
+    > **Açıklama:** Genellikle Apple tarafından mobil cihazlarda kullanılan yüksek verimli görüntü biçimi sisteminin kısaltması HEİF'dir, sorunun yanıtı E şıkkıdır.
 
     ***
 1. Üç boyutlu dijital baskının adı nedir.
@@ -3137,7 +3271,7 @@
     - **Cevap D-) 3D**
     - E-) 3DİJ
 
-    > **Açıklama:** 3D
+    > **Açıklama:** Üç boyutlu dijital baskının 3D'dir, sorunun yanıtı D şıkkıdır.
 
     ***
 1. "Taranmış bir ekran görüntüsünde bir inç boyunca 200 piksel sayılabiliyorsa çözünürlük inç başına .........................."<br />Aşağıdakilerden hangisi yukarıdaki boşluğu tamamlar?
@@ -3147,17 +3281,19 @@
     - D-) 100 piksel yani 100 ppi’dir.
     - E-) 200 piksel yani 200 dpi’dir.
 
-    > **Açıklama:** 100 piksel yani 100 Ipi’dir.
+    > **Açıklama:** Raster Görüntüler
+    > 100 piksel yani 100 Ipi’dir.
 
     ***
-1. 1. Matematiksel yollarla tanımlanan birçok ölçeklenebilir nesne içerir<br />2. Pikseller küçük kareler gibi görünür.<br />3. Görüntüler çözünürlükten bağımsızdırlar<br />4. Görüntüler sonsuz ölçeklenebilir<br />5. Piksel miktarı görüntünün kalitesini belirler<br />Yukarıdaki özelliklerden hangisi vektör görüntüler için geçerlidir?
+1. 1\. Matematiksel yollarla tanımlanan birçok ölçeklenebilir nesne içerir<br />2\. Pikseller küçük kareler gibi görünür.<br />3\. Görüntüler çözünürlükten bağımsızdırlar<br />4\. Görüntüler sonsuz ölçeklenebilir<br />5\. Piksel miktarı görüntünün kalitesini belirler<br />Yukarıdaki özelliklerden hangisi vektör görüntüler için geçerlidir?
     - A-) 1, 2 ve 3
     - B-) 1,2 ve 4
     - C-) 2,3 ve 5
     - **Cevap D-) 1, 3 ve 4**
     - E-) 3, 4 ve 5
 
-    > **Açıklama:** 1, 3 ve 4
+    > **Açıklama:** Vektör Görüntüler
+    > 1, 3 ve 4
 
     ***
 1. Vektör dosyaların kurumsal logo ve diğer grafiklerde kullanılma nedeni aşağıdakilerden hangisidir?
@@ -3167,31 +3303,34 @@
     - D-) Küçük boyutta basıla yüksek çözünürlüklü bir görüntünün profesyonel görünmesi
     - E-) Çözünürlükle bağımlı oldukları için
 
-    > **Açıklama:** Masaüstü yayıncılık programlarından değiştirilemedikleri için
+    > **Açıklama:** Vektör Görüntüler
+    > Masaüstü yayıncılık programlarından değiştirilemedikleri için
 
     ***
 1. Aşağıdakilerden hangisi raster ve vektör görüntülerin farklılıklarından biri değildir?
     - A-) Çözünürlük
     - B-) Raster görüntü dosyalarının daha geniş bir renk dizisine sahip olması
-    - C-) Raster görüntü dosyalarının yeniden boyutlandırıldıklarında görüntü    kalitesini kaybetmesi
+    - C-) Raster görüntü dosyalarının yeniden boyutlandırıldıklarında görüntü kalitesini kaybetmesi
     - **Cevap D-) Görüntü büyütüldüğünde bulanıklaşıyorsa vektör görüntü dosyasıdır**
     - E-) Vektör görüntü dosyası yeniden ölçeklendirebilir ve yeniden şekillendirebilir.
 
-    > **Açıklama:** Görüntü büyütüldüğünde bulanıklaşıyorsa vektör değil raster görüntü dosyasıdır
+    > **Açıklama:** Raster ve Vektör Görüntülerin Arasındaki Farklar
+    > Görüntü büyütüldüğünde bulanıklaşıyorsa vektör değil raster görüntü dosyasıdır
 
     ***
-1. 1. Renk modeli<br />2. Renk derinliği<br />3. Kullanım alanı<br />4. Dosya boyutu<br />5. Görüntünün kayıplı ve kayıpsız olduğu<br />Dosya formatlarına karar verilirken yukarıdaki hangi özellikler dikkate alınmalıdır?
+1. 1\. Renk modeli<br />2\. Renk derinliği<br />3\. Kullanım alanı<br />4\. Dosya boyutu<br />5\. Görüntünün kayıplı ve kayıpsız olduğu<br />Dosya formatlarına karar verilirken yukarıdaki hangi özellikler dikkate alınmalıdır?
     - A-) 1, 2 ve 3
     - B-) 1, 3 ve 5
     - **Cevap C-) 1, 2 ve 5**
     - D-) 3, 4 ve 5
     - E-) 2, 4 ve 5
 
-    > **Açıklama:** 1, 2 ve 5
+    > **Açıklama:** DİJİTAL GÖRÜNTÜ DOSYA FORMATLARI
+    > 1, 2 ve 5
     > Renk modeli ve derinliği, ikinci özellik ise görüntünün kayıplı ya da kayıpsız olduğudikkate alınmalıdır.
 
     ***
-1. 1. Saydamlık kanalına sahiptir<br />2. Belirli yükseklikteki renk derinliklerini görüntüleyebilir<br />3. Küçük dosya boyutu için kullanılmaya uygundur<br />4. Geleneksel baskı yöntemleri için uygun bir format değildir<br />Yukarıdaki özellikler hangi dosya formatı için geçerlidir?
+1. 1\. Saydamlık kanalına sahiptir<br />2\. Belirli yükseklikteki renk derinliklerini görüntüleyebilir<br />3\. Küçük dosya boyutu için kullanılmaya uygundur<br />4\. Geleneksel baskı yöntemleri için uygun bir format değildir<br />Yukarıdaki özellikler hangi dosya formatı için geçerlidir?
     - **Cevap A-) PNG**
     - B-) JPEG
     - C-) TIFF
@@ -3201,44 +3340,48 @@
     > **Açıklama:** PNG
 
     ***
-1. 1. Bir görüntü kapsayıcı biçimidir<br />2. Çift kamera ve canlı fotoğraflar bu dosya biçiminde kaydedilir<br />3. Her görüntünün boyutunu, çözünürlüğünü, konumunu ve daha fazlasını açıklayan ilgili meta verileri içerir<br />4. Apple mobil cihazlarda güncellenmiş bir çeşiti kullanılır<br />Yukarıdaki özellikler hangi raster görüntü formatına aittir?
+1. 1\. Bir görüntü kapsayıcı biçimidir<br />2\. Çift kamera ve canlı fotoğraflar bu dosya biçiminde kaydedilir<br />3\. Her görüntünün boyutunu, çözünürlüğünü, konumunu ve daha fazlasını açıklayan ilgili meta verileri içerir<br />4\. Apple mobil cihazlarda güncellenmiş bir çeşiti kullanılır<br />Yukarıdaki özellikler hangi raster görüntü formatına aittir?
     - A-) PNG
     - B-) JPEG
     - C-) TIFF
     - **Cevap D-) HEIC**
     - E-) GIF
 
-    > **Açıklama:** HEIC
+    > **Açıklama:** Raster Görüntü Formatları
+    > HEIC
 
     ***
-1. 1. Profesyonel ve yüksek kaliteli görüntü baskısı için gerekli olan bir dosya biçimidir<br />2. Hem vektör hem de raster görüntü verilerini içerebilir<br />3. Renk ve boyut üzerinde bireysel kodlamayı koruyarak bitmap verilerini içerir<br />4. Boyutu ne olursa olsun, her zaman doğru çözünürlükte görünecektir<br />Yukarıdaki özellikler hangi görüntü formatına aittir?
+1. 1\. Profesyonel ve yüksek kaliteli görüntü baskısı için gerekli olan bir dosya biçimidir<br />2\. Hem vektör hem de raster görüntü verilerini içerebilir<br />3\. Renk ve boyut üzerinde bireysel kodlamayı koruyarak bitmap verilerini içerir<br />4\. Boyutu ne olursa olsun, her zaman doğru çözünürlükte görünecektir<br />Yukarıdaki özellikler hangi görüntü formatına aittir?
     - A-) SVG
     - B-) DWG
     - **Cevap C-) EPS**
     - D-) WMF
     - E-) GIF
 
-    > **Açıklama:** EPS
+    > **Açıklama:** Birleştirilmiş Görüntü Formatları
+    > EPS
 
     ***
-1. 1. Apple Inc. tarafından geliştirilen bir font sistemidir<br />2. Glifleri ikinci dereceden Bezier eğrileriyle tanımlanmaktadır.<br />3. Tüm büyük işletim sistemlerinde kullanılabilmektedirler<br />4. Hâlen yaygın olarak tercih edilmektedirler<br />Yukarıdaki özellikler hangi font formatına aittir?
+1. 1\. Apple Inc. tarafından geliştirilen bir font sistemidir<br />2\. Glifleri ikinci dereceden Bezier eğrileriyle tanımlanmaktadır.<br />3\. Tüm büyük işletim sistemlerinde kullanılabilmektedirler<br />4\. Hâlen yaygın olarak tercih edilmektedirler<br />Yukarıdaki özellikler hangi font formatına aittir?
     - A-) Bitmap fontlar
     - B-) Type 1 ve Type 3 Fontlar
     - C-) OpenType Fontlar
     - D-) Vektör (outline) Fontlar
     - **Cevap E-) TrueType Fontlar**
 
-    > **Açıklama:** TrueType Fontlar
+    > **Açıklama:** Font Formatları
+    > TrueType Fontlar
 
     ***
-1. 1. Dijital tasarımın en yaygın olarak vücut bulmuş hâlidir<br />2. İşletmeler için bir logo kadar önem taşımaktadır<br />3. Bir konu veya hizmet için bir merkez görevi görür<br />4. Birçok dallanma sayfası içerir<br />Yukarıdaki özellikler hangi tasarım ürününe aittir?
+1. 1\. Dijital tasarımın en yaygın olarak vücut bulmuş hâlidir<br />2\. İşletmeler için bir logo kadar önem taşımaktadır<br />3\. Bir konu veya hizmet için bir merkez görevi görür<br />4\. Birçok dallanma sayfası içerir<br />Yukarıdaki özellikler hangi tasarım ürününe aittir?
     - **Cevap A-) Web tasarımı**
     - B-) Broşürler
     - C-) Uygulama tasarımı
     - D-) Sosyal medya görselleri
     - E-) E-kitaplar
 
-    > **Açıklama:** Web tasarımı
+    > **Açıklama:** Tasarım Ürünleri
+    > Web tasarımı
 
     ***
 1. Raster görüntüyü vektör görüntüden ayıran en temel nokta aşağıdakilerden hangisidir?
@@ -3342,8 +3485,8 @@
 
     ***
 1. Raster görüntü ne demektir?
-    - **Cevap A-) Renk ve ton kullanan piksellerden veya küçük   noktalardan oluşan görüntülere verilen isimdir**
-    - B-) Renk bilgisi içermeyen görsellere raster görsel   denir
+    - **Cevap A-) Renk ve ton kullanan piksellerden veya küçük noktalardan oluşan görüntülere verilen isimdir**
+    - B-) Renk bilgisi içermeyen görsellere raster görsel denir
     - C-) Bir fotoğraf formatıdır
     - D-) Ölçeklenebilir vektör grafiklerine verilen isimdir.
     - E-) Matematiksel formüller veya yollarla tanımlanan birçok ölçeklenebilir nesne içeren görüntüleri kapsar
@@ -3368,7 +3511,7 @@
     - D-) TIFF
     - E-) PNG
 
-    > **Açıklama:** SVG bir vektör tabanlı veri formatıdır. SVG yani Ölçeklenebilir Vektör Grafikleri (Scalable Vector Graphics) ile web ve diğer durumlar için çok yönlü, komut dosyası yazılabilir. Çok amaçlı bir vektör formatı ihtiyacını (ve birkaç şirketin girişimini) karşılamak için World Wide Web Konsorsiyumu tarafından oluşturulan ve geliştirilen açık kaynak bir standarttır. Komut dosyası oluşturma potansiyeli nedeniyle SVG, web uygulamalarında önemli bir bileşendir.
+    > **Açıklama:** SVG bir vektör tabanlı veri formatıdır. SVG yani Ölçeklenebilir Vektör Grafikleri (Scalable Vector Graphics) ile web ve diğer durumlar için çok yönlü, komut dosyası yazılabilir. Çok amaçlı bir vektör formatı ihtiyacını (ve birkaç şirketin girişimini) karşılamak için World Wide Web Konsorsiyumu tarafından oluşturulan ve geliştirilen açık kaynak bir standarttır. Komut dosyası oluşturma potansiyeli nedeniyle SVG, web uygulamalarında önemli bir bileşendir.
 
     ***
 1. Aşağıdakilerden hangisi "Photo Shop Belgesi" anlamına gelir?
@@ -3415,7 +3558,7 @@
     > sayfasına götürebilirler.
 
     ***
-1. Tasarım sürecinde bir ürünün vizyonlarının deneyimlenmesini sağlayan aşama aşağıdakilerden hangisidir?
+1. Tasarım sürecinde bir ürünün vizyonlarının deneyimlenmesini sağlayan aşama aşağıdakilerden hangisidir?
     - A-) Prototip
     - **Cevap B-) Mock-up**
     - C-) Keşif

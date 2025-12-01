@@ -9,14 +9,15 @@
         "E": "Uzatılmış",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337381,
@@ -35,7 +36,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 337382,
@@ -47,14 +49,15 @@
         "E": "Fontographer",
         "DogruCevap": "D",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337383,
@@ -66,14 +69,15 @@
         "E": "Espas",
         "DogruCevap": "A",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 337384,
@@ -85,14 +89,15 @@
         "E": "Alan Fletcher",
         "DogruCevap": "B",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 337385,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337386,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 337387,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 337388,
@@ -161,18 +169,19 @@
         "E": "Alan Fletcher",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 341075,
-        "SoruMetni": "<strong>1967 tarihinde yazdığı ''Tipografi Üzerine</strong><strong>''</strong><strong> adlı makalesinde, “Tipografi her ne kadar saf ve esaslı olsa da bir güzel sanat değil bir hizmet sanatıdır.” diyen sanatçı aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>1967 tarihinde yazdığı ''Tipografi Üzerine</strong><strong>''</strong><strong> adlı makalesinde, “Tipografi her ne kadar saf ve esaslı olsa da bir güzel sanat değil bir hizmet sanatıdır.” diyen sanatçı aşağıdakilerden hangisidir?</strong>",
         "A": "Herbert Bayer",
         "B": "Peter Bilak",
         "C": "Helen Armstrong",
@@ -180,18 +189,19 @@
         "E": "David Carson",
         "DogruCevap": "A",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 341080,
-        "SoruMetni": "<strong>Belçika’nın nüfus yoğunluğunu hesaba katan ve haritacılık üzerine temellenen ''Sprawl</strong><strong>''</strong><strong> adlı deneysel bir yazı karakteri yaratan tasarımcı aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "<strong>Belçika’nın nüfus yoğunluğunu hesaba katan ve haritacılık üzerine temellenen ''Sprawl</strong><strong>''</strong><strong> adlı deneysel bir yazı karakteri yaratan tasarımcı aşağıdakilerden hangisidir?</strong>",
         "A": "Helen Armstrong",
         "B": "Herbert Bayer",
         "C": "David Carson",
@@ -199,14 +209,15 @@
         "E": "Alan Fletcher",
         "DogruCevap": "D",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 347605,
@@ -218,14 +229,15 @@
         "E": "Modern",
         "DogruCevap": "C",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 347608,
@@ -237,14 +249,15 @@
         "E": "Gavin Ambrose",
         "DogruCevap": "C",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 347610,
@@ -256,13 +269,14 @@
         "E": "Brecht Cuppens",
         "DogruCevap": "D",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 2,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     }
 ]

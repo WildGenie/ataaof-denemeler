@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Açıklık İlkesi"
+        "Aciklama": "Özellikle sanatçılar ve tasarımcılar tarafından sıklıkla odaklanılan bazı Gestalt ilkeleri şunlardır: • Yakınlık İlkesi • Benzerlik İlkesi • Devamlılık İlkesi • Kapalılık İlkesi • Figür-Zemin İlkesi<br>Açıklık İlkesi"
     },
     {
         "SoruID": 3763444,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kapalılık İlkesi"
+        "Aciklama": "“Kapalılık ilkesi”, algıda bütünü oluşturan görsel ögelerin, eksik veya tamamlanmamış formları tamamlama eğiliminde olduğunu açıklar.<br>Kapalılık İlkesi"
     },
     {
         "SoruID": 3763445,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Grafik format"
+        "Aciklama": "Grafik format, verilerin görsel olarak temsil edildiği yapı veya düzen biçimidir."
     },
     {
         "SoruID": 3763446,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hiyerarşi"
+        "Aciklama": "Hiyerarşi, tüm tasarım ürünlerinde olduğu gibi bilgigrafi tasarımında da bilginin öncelik sırasına göre tasarlanmasına yarayan ayrıca izleyiciyi de belirlenen bu düzen içinde yönlendiren temel prensiptir."
     },
     {
         "SoruID": 3763467,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Renkler"
+        "Aciklama": "Renkler, tasarımın duygusal etkisini artırmak ve mesajını vurgulamak için kullanılabilir"
     },
     {
         "SoruID": 3763470,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tasarımcısının karakteristik özellikleri."
+        "Aciklama": "Yazı tipleri seçimi kimi zaman zorlu bir iştir. Bu seçimi yaparken, harflerin karakteristik biçimleri, oranları ve vuruşlarının yazının görsel etkisini nasıl etkilediğini anlamak önemlidir. Ayrıca, yazı tipinin tasarımının tipografi tarihindeki yerini ve temsil ettiği değerleri bilmek gereklidir.<br>Tasarımcısının karakteristik özellikleri."
     },
     {
         "SoruID": 3763471,
@@ -157,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Devamlılık İlkesi"
+        "Aciklama": "Okunurluk ve Akıcılık: Metin blokları ve grafiklerin düzenlenmesi sırasında, okunurluk ve akıcılığı artırmak için devamlılık ilkesi kullanılır. Metin blokları ve grafikler arasındaki boşluklar, hizalar ve aralıklar sistematik bir biçimde dikkatlice düzenlenir.<br>Devamlılık İlkesi"
     },
     {
         "SoruID": 3763472,
-        "SoruMetni": "Gestalt Psikolojisinin hangi ilkesine göre, tasarımda yer alan ögelerin birbiriyle sürekli bir ilişki içinde olması ve izleyicinin bu ilişkiyi kolayca görmesi gerekmektedir?",
+        "SoruMetni": "Gestalt Psikolojisinin hangi ilkesine göre, tasarımda yer alan ögelerin birbiriyle sürekli bir ilişki içinde olması ve izleyicinin bu ilişkiyi kolayca görmesi gerekmektedir?",
         "A": "Devamlılık İlkesi",
         "B": "Kapalılık İlkesi",
         "C": "Benzerlik İlkesi",
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Devamlılık İlkesi"
+        "Aciklama": "Bu ilkeye göre, tasarımda yer alan ögelerin birbiriyle sürekli bir ilişki içinde olması ve izleyicinin bu ilişkiyi kolayca görmesi gerekmektedir.<br>Devamlılık İlkesi"
     },
     {
         "SoruID": 3763473,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Devamlılık İlkesi"
+        "Aciklama": "Manuel Bortoletti isimli tasarımcının sağlık ve korunma konularında İtalyanca olarak yayınlanan aylık dergi Salute Magazine’deki “LA PAROLA” isimli bölüm için tasarladığı bilgigrafi serisi Gestalt devamlılık ilkesi için oldukça iyi bir örnektir.<br>Devamlılık İlkesi"
     },
     {
         "SoruID": 3763524,
@@ -217,11 +217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt C'dir. Açıklık ilkesi bir Gestalt ilkesi değidlir."
+        "Aciklama": "Özellikle sanatçılar ve tasarımcılar tarafından<br/>sıklıkla odaklanılan bazı Gestalt ilkeleri şunlardır:<br/>• Yakınlık İlkesi<br/>• Benzerlik İlkesi<br/>• Devamlılık İlkesi<br/>• Kapalılık İlkesi<br/>• Figür-Zemin İlkesi<br/>Buna göre açıklık ilkesi olarak bir Gestalt ilkesi yoktur.<br>Yanıt C'dir. Açıklık ilkesi bir Gestalt ilkesi değidlir."
     },
     {
         "SoruID": 3763525,
-        "SoruMetni": "Aşağıda bahsedilen Gestalt ilkesi hangisidir?<br/><br/>\"Bir sayfa üzerindeki bir grup harf arasındaki mesafe ile ilgilidir. düşünelim. Harfler kelimeleri, kelimeler anlamlı bir satırı, satırlar anlamlı bilgi öbeğiyle geliştirilmiş bir paragrafı oluşturur. Okur, mesafe ile ilişkilendirerek metni anlamlandırma eğilimindedir.\"",
+        "SoruMetni": "Aşağıda bahsedilen Gestalt ilkesi hangisidir?<br/>\"Bir sayfa üzerindeki bir grup harf arasındaki mesafe ile ilgilidir. düşünelim. Harfler kelimeleri, kelimeler anlamlı bir satırı, satırlar anlamlı bilgi öbeğiyle geliştirilmiş bir paragrafı oluşturur. Okur, mesafe ile ilişkilendirerek metni anlamlandırma eğilimindedir.\"",
         "A": "Benzerlik ilkesi",
         "B": "Devamlılık ilkesi",
         "C": "Figür-zemin ilkesi",
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt D'dir. Yakınlık ilkesidir."
+        "Aciklama": "Gestalt ilkelerinden biri olan “yakınlık ilkesi,” nesnelerin birbirlerine olan mesafeye dayalı olarak nasıl algılandığını açıklar. Bu ilkeye göre, nesneler bir arada bulunduklarında bir grup oluştururlar ve bu grup içinde daha yakın olan nesneler, birlikte algılanma eğilimindedir. Sorudaki açıklamada işaret edilen ilke yakınlık ilkesidir.<br>Yanıt D'dir. Yakınlık ilkesidir."
     },
     {
         "SoruID": 3763526,
-        "SoruMetni": "\"Bilgigrafi tasarımında, bilgiyi düzenlemek ve iletmek için önemli bir tasarım ilkesidir. Bu ilke, görsel olarak bağlantılı ve sürekli bir akış oluşturarak izleyicinin bilgiyi daha kolay ve<br/>anlaşılır bir şekilde takip etmelerini sağlamak amacıyla kullanılır.\"<br/> İfadesinde sözü edilen Gestalt ilkesi aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"Bilgigrafi tasarımında, bilgiyi düzenlemek ve iletmek için önemli bir tasarım ilkesidir. Bu ilke, görsel olarak bağlantılı ve sürekli bir akış oluşturarak izleyicinin bilgiyi daha kolay ve<br/>anlaşılır bir şekilde takip etmelerini sağlamak amacıyla kullanılır.\"<br/>İfadesinde sözü edilen Gestalt ilkesi aşağıdakilerden hangisidir?",
         "A": "Devamlılık ilkesi",
         "B": "Benzerlik ilkesi",
         "C": "Yakınlık ilkesi",
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt A'dır. Devamlılık ilkesidir."
+        "Aciklama": "Bilgigrafi tasarımında, bilgiyi düzenlemek ve iletmek için devamlılık ilkesi önemli bir tasarım ilkesidir. Bu ilke, görsel olarak bağlantılı ve sürekli bir akış oluşturarak izleyicinin bilgiyi daha kolay ve anlaşılır bir şekilde takip etmelerini sağlamak amacıyla kullanılır.<br>Yanıt A'dır. Devamlılık ilkesidir."
     },
     {
         "SoruID": 3763527,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt B'dir. Devamılık ilkesidir."
+        "Aciklama": "Bilgigrafi tasarımında devamlılık ilkesi, bilgiyi düzenlemek ve iletmek için önemli bir tasarım ilkesidir. Bu ilke, görsel olarak bağlantılı ve sürekli bir akış oluşturarak izleyicinin bilgiyi daha kolay ve anlaşılır bir şekilde takip etmelerini sağlamak amacıyla kullanılır. Bilgigrafi tasarımında devamlılık ilkesinin nasıl kullanılabileceğine dair Renk ve Stil Sürekliliği sağlanması için, Bilgigrafi tasarımında kullanılan renkler, yazı karakterleri<br/>ve stil özellikleri (örneğin, başlık stilleri ya da görsel dilde kullanılan üslup) devamlılık ilkesine uygun olarak tasarlanır. Benzer renk paletleri veya yazı karakterleri kullanılarak bilgi parçaları arasında görsel tutarlılık sağlanır.<br>Yanıt B'dir. Devamılık ilkesidir."
     },
     {
         "SoruID": 3763528,
@@ -297,11 +297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt B'dir. Kategorizasyon rolüne işaret eder."
+        "Aciklama": "Bilgigrafi tasarımında renk kullanımı oldukça önemlidir çünkü renkler, bilgilerin iletilmesinde<br/>güçlü bir araç olarak hizmet edebilir. Birçok örnekle renk kullanımının bilgigrafi tasarımındaki rolünün açıklanması mümkündür. Renk kullanımının rollerinden biri de kategorizasyondur.<br/>Kategorizasyon: Bilgigrafilerde çok sayıda veriyi kategorilere ayırmak yaygındır. Renkler, her kategoriyi temsil etmek için kullanılabilir. Örneğin, bir coğrafi harita tasarımında farklı bölgeleri farklırenklerle kodlayarak izleyicinin her bölgeyi hızla ayırt etmesi sağlanabilir.<br>Yanıt B'dir. Kategorizasyon rolüne işaret eder."
     },
     {
         "SoruID": 3763529,
-        "SoruMetni": "Bibligrafi tasarımında okunurluk açısından aşağıdakilerden hangisi ya da hangileri doğrudur?<br/> I. Parlak ve zıt renklerin bir arada kullanılması okunurluğu azaltabilir.<br/> <br/>II. Siyah yazılar beyaz bir arka plan üzerinde negatif olarak algılanır.<br/> III. Yakın tonlardaki renklerin bir arada kullanılması yazının görünmez hâle gelmesine yol açabilir.",
+        "SoruMetni": "Bibligrafi tasarımında okunurluk açısından aşağıdakilerden hangisi ya da hangileri doğrudur?<br/>I. Parlak ve zıt renklerin bir arada kullanılması okunurluğu azaltabilir.<br/>II. Siyah yazılar beyaz bir arka plan üzerinde negatif olarak algılanır.<br/>III. Yakın tonlardaki renklerin bir arada kullanılması yazının görünmez hâle gelmesine yol açabilir.",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -317,11 +317,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt D'dir. I ve III doğrudur."
+        "Aciklama": "Okunurluk için yazının rengi ve zeminin rengi arasındaki ilişki önemlidir. Tipografi tasarımında genellikle vurgu ve hiyerarşi oluşturmak için renk kullanır. Ancak parlak ve zıt renklerin bir arada kullanılması, yazının titremesine neden olabilir ve okunurluğu azaltabilir. Aynı şekilde çok yakın tonlardaki açık ve koyu renklerin bir arada kullanılması, yazının görünmez hâle gelmesine yol açabilir. Yazının arka plan rengine dikkat etmek de önemlidir. Siyah yazılar beyaz bir arka plan üzerinde pozitif olarak algılanırken, beyaz yazılar siyah bir arka plan üzerinde negatif olarak algılanır.<br>Yanıt D'dir. I ve III doğrudur."
     },
     {
         "SoruID": 3763530,
-        "SoruMetni": "Bir çizgi grafiği üzerinde zamanla değişen döviz kurlarını gösterirken, yükselen kurlar için kırmızı, düşen kurlar için mavi rengin kullanılması, renk kullanımının bilgigrafi tasarımındaki hangi rolünün örneğidir?",
+        "SoruMetni": "Bir çizgi grafiği üzerinde zamanla değişen döviz kurlarını gösterirken, yükselen kurlar için kırmızı, düşen kurlar için mavi rengin kullanılması, renk kullanımının bilgigrafi tasarımındaki hangi rolünün örneğidir?",
         "A": "Vurgu",
         "B": "Kategorizasyon",
         "C": "Zaman ve değişim betimlemesi",
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt C'dir. Zaman ve değişim betimlemesidir."
+        "Aciklama": "Bilgigrafi tasarımında renk kullanımı oldukça önemlidir çünkü renkler, bilgilerin iletilmesinde<br/>güçlü bir araç olarak hizmet edebilir. Altta verilen örneklerle renk kullanımının bilgigrafi tasarımındaki rolünün açıklanması mümkündür:<br/>Vurgu: Bilgigrafilerde, belirli verilerin vurgulanması önemlidir. Bu, bir metindeki anahtar istatistikler, grafikler veya diğer önemli bilgileri içerebilir. Renkler, bu tür vurgular için mükemmel bir araçtır. Örneğin, bir bilgigrafide en yüksek geliri gösteren bir sütun grafiği yeşil renkle vurgulanabilir, böylece izleyici hemen bu önemli bilgiyi yakalayabilir.</br><br/>Kategorizasyon: Bilgigrafilerde çok sayıda veriyi kategorilere ayırmak yaygındır. Renkler, her kategoriyi temsil etmek için kullanılabilir. Örneğin, bir coğrafi harita tasarımında farklı bölgeleri farklı renklerle kodlayarak izleyicinin her bölgeyi hızla ayırt etmesi sağlanabilir.<br/>Zaman ve Değişim Betimlemesi: Renkler aynı verinin zaman içindeki değişimini veya karşılaştırmalarını gösterm<br>Yanıt C'dir. Zaman ve değişim betimlemesidir."
     },
     {
         "SoruID": 3763531,
@@ -357,11 +357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt E'dir. Tasarımcı zevki parametrelerden biri değildir."
+        "Aciklama": "Bibligrafi tasarımında grafik sistemlerindeki parametrelerden biri tasarımcı zevki değildir. Grafik format, entelektüel amaç ya da işlev, içerik türü, anlamı yapılandırma yöntemleri, disiplin kökenleri gibi parametreler bulunmaktadır.<br>Yanıt E'dir. Tasarımcı zevki parametrelerden biri değildir."
     },
     {
         "SoruID": 3763532,
-        "SoruMetni": "Bilgigrafi tasarımında metin akışında başlıkların, alt başlıkların ve ana metin paragrafları<br/>arasındaki görsel bağlantılar kurularak izleyicinin metni kolayca takip etmesinin sağlanması hangi Gestalt ilkesini açıklar?<br/><br/>",
+        "SoruMetni": "Bilgigrafi tasarımında metin akışında başlıkların, alt başlıkların ve ana metin paragrafları<br/>arasındaki görsel bağlantılar kurularak izleyicinin metni kolayca takip etmesinin sağlanması hangi Gestalt ilkesini açıklar?",
         "A": "Devamlılık ilkesi",
         "B": "Benzerlik ilkesi",
         "C": "Yakınlık ilkesi",
@@ -377,11 +377,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt A'dır. Devamlılık ilkesidir."
+        "Aciklama": "Bilgigrafi tasarımında devamlılık ilkesi, bilgiyi düzenlemek ve iletmek için önemli bir tasarım ilkesidir. Bu ilke, görsel olarak bağlantılı ve sürekli bir akış oluşturarak izleyicinin bilgiyi daha kolay ve anlaşılır bir şekilde takip etmelerini sağlamak amacıyla kullanılır. Bilgigrafi tasarımında devamlılık ilkesinin nasıl kullanılabileceğine dair örneklerden biri de metin akışıdır.<br/>Metin Akışı: Bilgigrafi tasarımında metin akışı devamlılık ilkesiyle düzenlenir. Başlıklar, alt başlıklar ve ana metin paragrafları arasındaki görsel bağlantılar kurularak izleyicinin metni kolayca takip etmesi sağlanır. Aynı tip yazı karakterleri, noktalama işaretleri ve renk kullanılarak metinler arasında bir bütünlük ve süreklilik oluşturulur.<br>Yanıt A'dır. Devamlılık ilkesidir."
     },
     {
         "SoruID": 3763533,
-        "SoruMetni": "\"Bilgigrafi tasarımında bilginin öne çıkarılması, anlamın iletilmesi ve izleyicinin odak<br/>noktasının belirlenmesi açısından temel ilkedir. Farklı ögelerin önem sıralamasını belirlemekte, izleyicinin bilgiyi anlama sürecini yönlendirmekte ve akışı tasarlamaya yaramaktadır.\"<br/> Tanımı aşağıdakilerden hangi seçeneğin açıklamasıdır?",
+        "SoruMetni": "\"Bilgigrafi tasarımında bilginin öne çıkarılması, anlamın iletilmesi ve izleyicinin odak<br/>noktasının belirlenmesi açısından temel ilkedir. Farklı ögelerin önem sıralamasını belirlemekte, izleyicinin bilgiyi anlama sürecini yönlendirmekte ve akışı tasarlamaya yaramaktadır.\"<br/>Tanımı aşağıdakilerden hangi seçeneğin açıklamasıdır?",
         "A": "Ölçek",
         "B": "Oran",
         "C": "Kapalılık",
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt E'dir. Hiyerarşi doğru seçenektir."
+        "Aciklama": "Bilgigrafi tasarımında hiyerarşi, bilginin öne çıkarılması, anlamın iletilmesi ve izleyicinin odak<br/>noktasının belirlenmesi açısından temel ilkedir. Hiyerarşi, farklı ögelerin önem sıralamasını belirlemekte, izleyicinin bilgiyi anlama sürecini yönlendirmekte ve akışı tasarlamaya yaramaktadır.<br>Yanıt E'dir. Hiyerarşi doğru seçenektir."
     }
 ]

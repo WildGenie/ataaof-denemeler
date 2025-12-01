@@ -1,5 +1,25 @@
 [
     {
+        "SoruID": 3374226,
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"> <li>Kavram; bir nesnenin veya düşüncenin zihindeki soyut ve genel tasarımıdır.</li> <li>Felsefi manada kavram, nesnelerin veya olayların ortak noktalarını kapsayan ve bir ortak isim altında toplayan genel tasarımdır.</li> <li>Fikir ve olayları sınıflandırmaya yarayan kelime veya kelime öbekleridir.</li> <li>Kavramlar ağaç, dergi, kitap, makas gibi çok somut olabilir ya da özgürlük, önyargı gibi çok soyut olabilirler.</li> <li>Kavramlar herkes için aynıdır. Yaşayanların algı ve sosyal durumlarına göre değişmez. Aşağıdakilerden hangisi kavram kelimesinin özellikleridir?</li> </ol>",
+        "A": "I-III-IV-V",
+        "B": "I-II-IV-V",
+        "C": "II-III-IV-V",
+        "D": "III-IV-V",
+        "E": "I-II-III-IV",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.451658",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "I-II-III-IV din kavramının özelliklerindendir. Fakat V. seçenek bu özelliklere uymaz.<br/>Kavramlar herkes için aynı manayı taşımayabilirler. Yaşayanların algı ve sosyal durumlarına göre değişkenlik arz edebilirler."
+    },
+    {
         "SoruID": 3374227,
         "SoruMetni": "İnsanlara bir hayat tarzı sunarak onları belli bir dünya görüşü içinde toplayıp yaratıcıya isteyerek bağlanmayı sağlayan olgu aşağıdakilerden hangisidir?",
         "A": "Kamlık",
@@ -37,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I-II-IV-V din kavramının özelliklerindendir. Fakat III. seçenek Mit kavramını açıklar.<br/> Mitler, konu bakımından âlemin yaradılışı, insanların yaradılışı, hayvanlar ve bitkilerin geçmişini sorgulamaktadır. Sorgulama, mitoloji ve kozmogoni bağlamında ele alınmaktadır."
+        "Aciklama": "I-II-IV-V din kavramının özelliklerindendir. Fakat III. seçenek Mit kavramını açıklar.<br/>Mitler, konu bakımından âlemin yaradılışı, insanların yaradılışı, hayvanlar ve bitkilerin geçmişini sorgulamaktadır. Sorgulama, mitoloji ve kozmogoni bağlamında ele alınmaktadır."
     },
     {
         "SoruID": 3374229,
@@ -57,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kelime olarak mit, Yunancadaki “Mythos” kelimesinden gelmektedir.<br/> Mythos, söylenen veya duyulan söz, masal, öykü, efsane anlamlarını taşımaktadır.<br/> Mythos, tarihi değeri olmayan söylenti, uydurma, boş ve gülünç masal olarak tanımlanır."
+        "Aciklama": "Kelime olarak mit, Yunancadaki “Mythos” kelimesinden gelmektedir.<br/>Mythos, söylenen veya duyulan söz, masal, öykü, efsane anlamlarını taşımaktadır.<br/>Mythos, tarihi değeri olmayan söylenti, uydurma, boş ve gülünç masal olarak tanımlanır."
     },
     {
         "SoruID": 3374230,
@@ -181,7 +201,7 @@
     },
     {
         "SoruID": 3374371,
-        "SoruMetni": "I. Daha çok âlemle ilgili yaradılış tarzı konuları ele alır.<br/><br/>II. Kahramanlık gibi toplumu teşkil edecek sosyal meselelere yönelir.<br/><br/>III. Kutsallığı daha ağır basar.<br/><br/>Yukarıdakilerden hangisi ya da hangileri mitlerin efsane, din, masal gibi kavramlardan farkını ortaya koyan özellikleri arasındadır?",
+        "SoruMetni": "I. Daha çok âlemle ilgili yaradılış tarzı konuları ele alır.<br/>II. Kahramanlık gibi toplumu teşkil edecek sosyal meselelere yönelir.<br/>III. Kutsallığı daha ağır basar.<br/>Yukarıdakilerden hangisi ya da hangileri mitlerin efsane, din, masal gibi kavramlardan farkını ortaya koyan özellikleri arasındadır?",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -221,7 +241,7 @@
     },
     {
         "SoruID": 3374373,
-        "SoruMetni": "I. Eski çağlarda yaşanmış olayları konu alan sözlü destan türüdür<br/> II. Türk Edebiyatı’nda doğal destanlar İslamiyet öncesi ve İslami dönem olmak üzere ikiye ayrılır<br/> III. Yazarı belli olan destan türüdür<br/> Yukarıdakilerden hangisi ya da hangileri doğal destanların özellikleri arasındadır?",
+        "SoruMetni": "I. Eski çağlarda yaşanmış olayları konu alan sözlü destan türüdür<br/>II. Türk Edebiyatı’nda doğal destanlar İslamiyet öncesi ve İslami dönem olmak üzere ikiye ayrılır<br/>III. Yazarı belli olan destan türüdür<br/>Yukarıdakilerden hangisi ya da hangileri doğal destanların özellikleri arasındadır?",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -321,7 +341,7 @@
     },
     {
         "SoruID": 3374378,
-        "SoruMetni": "I. Siyasi güç, iktidar, bereket, hayır demektir.<br/><br/>II. İfade ettiği güç hanedan üyelerine Tanrı tarafından bahşedilmiştir.<br/><br/>III. Babadan oğula değil bu gücü hak eden aynı kandan olmayan kişilere de geçebilir.<br/><br/>Yukarıdakilerden hangisi ya da hangileri Türk devletlerindeki “kut” anlayışı ile ilgili doğru bir bilgiyi içermektedir?",
+        "SoruMetni": "I. Siyasi güç, iktidar, bereket, hayır demektir.<br/>II. İfade ettiği güç hanedan üyelerine Tanrı tarafından bahşedilmiştir.<br/>III. Babadan oğula değil bu gücü hak eden aynı kandan olmayan kişilere de geçebilir.<br/>Yukarıdakilerden hangisi ya da hangileri Türk devletlerindeki “kut” anlayışı ile ilgili doğru bir bilgiyi içermektedir?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -401,7 +421,7 @@
     },
     {
         "SoruID": 3374402,
-        "SoruMetni": "Aşağıdakilerden hangisi vahye dayalı dinlerden biridir?<br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi vahye dayalı dinlerden biridir?",
         "A": "Budizm",
         "B": "Şamanizm",
         "C": "Hinduizm",
@@ -438,6 +458,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Geçmiş toplumlarda kutsallık atfedilen ve insanların onlardan türediği kabul edilen hayvan, ağaç, rüzgar gibi tabiat unsurlarına dayandırılan kutsiyet unsurlarına totem/ongun denmektedir. Doğru cevap E'dir."
+    },
+    {
+        "SoruID": 3374404,
+        "SoruMetni": "“Ongon”un Moğolca bir kelime dahi olsa kullanım olarak Türkçeye iyice yerleşmiş olduğu­nu dile getiren düşünür aşağıdakilerden hangisidir",
+        "A": "Z. Gökalp",
+        "B": "M. Eröz",
+        "C": "E. Esin",
+        "D": "M. F. Köprülü",
+        "E": "A. İnan",
+        "DogruCevap": "B",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.547856",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "“Ongon”un Moğolca bir kelime dahi olsa kullanım olarak Türkçeye iyice yerleşmiş olduğu­nu dile getiren düşünür, M. Eröz’dür. Doğru cevap B'dir."
     },
     {
         "SoruID": 3374405,
@@ -480,6 +520,26 @@
         "Aciklama": "Kutsal, eski Türkçe’de fırsat, hayır, bereket anlamındadır. Doğru cevap A'dır."
     },
     {
+        "SoruID": 3374407,
+        "SoruMetni": "Şaman ayini düzenlemek anlamına gelen fiil aşağıdakilerden hangisidir?",
+        "A": "Fesane",
+        "B": "Esatir",
+        "C": "Ongon",
+        "D": "Kut",
+        "E": "Kammak",
+        "DogruCevap": "E",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.341329",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Kammak fiili, Şaman ayini düzenlemek anlamına gelir. Doğru cevap E'dir."
+    },
+    {
         "SoruID": 3374408,
         "SoruMetni": "“Kült” kelimesi hangi dileden Türkçe’ye geçmiştir?",
         "A": "Arapça",
@@ -517,14 +577,14 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Emile Durhhem'a göre din; “Din, sosyal bir olgudur.” Bu sosyal olguyu besleyen faktörlerden biri de tecrübedir. E. Durkheim, her ne kadar dinin kaynağını toplumda arıyorsa da dayandığı argümanlar büyük oranda totemizmden beslendiği görülmektedir."
+        "Aciklama": "Emile Durhhem'a göre din; “Din, sosyal bir olgudur.” Bu sosyal olguyu besleyen faktörlerden biri de tecrübedir. E. Durkheim, her ne kadar dinin kaynağını toplumda arıyorsa da dayandığı argümanlar büyük oranda totemizmden beslendiği görülmektedir."
     },
     {
         "SoruID": 3374555,
         "SoruMetni": "Dine yönelik aşağıda verilen bilgilerden hangisi insan hakları sözleşmesi ile de kendini güvene almıştır?",
         "A": "Toplumları bir araya getiren kaynaştırıcı bir unsur olması.",
         "B": "Farklı alanlarda sınıflandırılan dini bilimlere yer verilmesi.",
-        "C": "Yahudilik, Hristiyanlık  ve İslamiyet'in kitabi dinler olarak ifade edilmesi.",
+        "C": "Yahudilik, Hristiyanlık ve İslamiyet'in kitabi dinler olarak ifade edilmesi.",
         "D": "Din ve vicdan hürriyetinin insanın temel hak ve hürriyetleri arasında yer alması.",
         "E": "Dinin kişiyi uhrevi bir boyuta hazırlaması.",
         "DogruCevap": "D",
@@ -561,7 +621,7 @@
     },
     {
         "SoruID": 3374649,
-        "SoruMetni": "I. Evrenin menşei,<br/> II. Evrenin düzene konması<br/> III. İnsanın yaratılması<br/> Yukarıdakilerden hangisi ya da hangileri Sümer mitolojisindeki kozmogoniyi ele almaktadır?",
+        "SoruMetni": "I. Evrenin menşei,<br/>II. Evrenin düzene konması<br/>III. İnsanın yaratılması<br/>Yukarıdakilerden hangisi ya da hangileri Sümer mitolojisindeki kozmogoniyi ele almaktadır?",
         "A": "Yalnız I",
         "B": "I-III",
         "C": "II-III",
@@ -680,6 +740,26 @@
         "Aciklama": "Türklerde dağlar, Gök Tanrı’ya yakın olması ve bazen de ona ev sahipliği yapmasıyla kutsal mekanlar olarak kabul edilmiştir. Bu dağlar, evrenin merkezi olmaları sebebiyle kozmik işleve de sahip olmuşlardır. Ayrıca Türk mitolojisinde dağlar, etrafında yaşayan insanların koruyucusudur, onların vatan anlayışını şekillendiren en önemli tabiat unsurlarıdır."
     },
     {
+        "SoruID": 3374655,
+        "SoruMetni": "Abartı unsurlarının bol olarak kullanıldığı olağanüstü yaratıkların konu edildiği kavram aşağıdakilerden hangisidir?",
+        "A": "Masal",
+        "B": "Totem",
+        "C": "Destan",
+        "D": "Efsane",
+        "E": "Kam",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.369726",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Masalların kahramanları olağanüstü yaratıklardır. Abartı unsurlarının bol olduğu ifade biçimleridir. İçeriği büyük oranda hayali unsurlarla doludur."
+    },
+    {
         "SoruID": 3374698,
         "SoruMetni": "“Din, sosyal bir olgudur” sözü ile tanıdığımız, bu olgunun tecrübe ve her ne kadar kaynağı toplumda aranıyorsa da dayandığı argümanların büyük oranda totemizmden beslendiğini belirten sosyolog aşağıdakilerden hangisidir?",
         "A": "Max Müller",
@@ -697,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sosyoloji teorisyenlerden Emile Durkheim’e göre “Din, sosyal bir olgudur.” Bu sosyal olguyu besleyen faktörlerden biri de tecrübedir. E. Durkheim, her ne kadar dinin kaynağını toplumda arıyorsa da dayandığı argümanlar büyük oranda totemizmden beslendiği görülmektedir."
+        "Aciklama": "Soru din kavramının açıklandığı bölümdeki kendi anlayışlarına göre din tanımı yapan araştırmacıların tanınmalarına yönelik olarak hazırlanmıştır.<br>Sosyoloji teorisyenlerden Emile Durkheim’e göre “Din, sosyal bir olgudur.” Bu sosyal olguyu besleyen faktörlerden biri de tecrübedir. E. Durkheim, her ne kadar dinin kaynağını toplumda arıyorsa da dayandığı argümanlar büyük oranda totemizmden beslendiği görülmektedir."
     },
     {
         "SoruID": 3374699,
@@ -717,11 +797,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Michel Mayer, “Din, Allah’a insanlara ve kendimize karşı yapmamız gerekene dair öğütlerle inançların tamamıdır” tarzında tarif etmektedir."
+        "Aciklama": "Soru din kavramının açıklandığı bölümdeki kendi anlayışlarına göre din tanımı yapan araştırmacıların tanınmalarına yönelik olarak hazırlanmıştır.<br>Michel Mayer, “Din, Allah’a insanlara ve kendimize karşı yapmamız gerekene dair öğütlerle inançların tamamıdır” tarzında tarif etmektedir."
+    },
+    {
+        "SoruID": 3374759,
+        "SoruMetni": "Yunancada söylenen veya duyulan söz, masal, öykü, efsane anlamlarını taşıyan, tarihi değeri olmayan söylenti, uydurma, boş ve gülünç masal olarak tanımlanan kelime aşağıdakilerden hangisidir?",
+        "A": "Mit",
+        "B": "Efsane",
+        "C": "Destan",
+        "D": "Totem",
+        "E": "Kült",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.588980",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Sorudan öğrenilen bir kavramın kelime anlamının hatırlanması beklenmektedir.<br>Kelime olarak mit, Yunancadaki “Mythos” kelimesinden gelmektedir. Mythos, söylenen veya duyulan söz, masal, öykü, efsane anlamlarını taşımaktadır. Mythos, tarihi değeri olmayan söylenti, uydurma, boş ve gülünç masal olarak tanımlanır."
     },
     {
         "SoruID": 3374762,
-        "SoruMetni": "Veyis Örnek'in “myth” kelimesiyle eş anlamlı olarak algılandığını belirttiği  “Tanrıların, evrenin, insanların, kahramanların, hayvanların ve toplumsal kurumların ortaya çıkışı gibi konuların doğrudan veya dolaylı biçimde manzum olarak aktarılan ve zamanla kutsallaşan bilgiler ” olarak tanımladığı terim aşağıdakilerden hangisidir?",
+        "SoruMetni": "Veyis Örnek'in “myth” kelimesiyle eş anlamlı olarak algılandığını belirttiği “Tanrıların, evrenin, insanların, kahramanların, hayvanların ve toplumsal kurumların ortaya çıkışı gibi konuların doğrudan veya dolaylı biçimde manzum olarak aktarılan ve zamanla kutsallaşan bilgiler ” olarak tanımladığı terim aşağıdakilerden hangisidir?",
         "A": "Masal",
         "B": "Efsane",
         "C": "Totem",
@@ -737,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Veyis Örnek, efsane teriminin batı dillerindeki “myth” kelimesiyle eş anlamlı olarak algılamakta ve şöyle tanımlamaktadır: “Tanrıların, insanların, kahramanların yaratılması; evrenin yaratılışı, tufanlar gibi meseleleri konu edinmektedir. Hayvanların yaratılması ve avcılığın toplumların bir parçası halini alışı, ayrıca toplumsal kurumların ortaya çıkışı gibi konuları doğrudan veya dolaylı biçimde manzum olarak aktarılan ve zamanla kutsallaşan bilgilere denilmektedir."
+        "Aciklama": "Soru öğrenilen bir kavramın anlamının hatırlanması ve diğer kavramlardan ayrılabilmesini amaçlamaktadır.<br>Veyis Örnek, efsane teriminin batı dillerindeki “myth” kelimesiyle eş anlamlı olarak algılamakta ve şöyle tanımlamaktadır: “Tanrıların, insanların, kahramanların yaratılması; evrenin yaratılışı, tufanlar gibi meseleleri konu edinmektedir. Hayvanların yaratılması ve avcılığın toplumların bir parçası halini alışı, ayrıca toplumsal kurumların ortaya çıkışı gibi konuları doğrudan veya dolaylı biçimde manzum olarak aktarılan ve zamanla kutsallaşan bilgilere denilmektedir."
     },
     {
         "SoruID": 3374765,
@@ -757,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Destan, Farsça bir kelime olup milletlerin benliğinde derin tesirler bırakan savaş, göç gibi toplumsal;yangın, salgın hastalık, sel, deprem gibi doğal olayların<br/>etkisiyle söylenmiş hayali unsurlarla süslenmiş uzun manzum eserlerdir. Destan derin geçmişe sahip devletlere ait hikayelerdir. Çünkü savaş yaşamayan, doğal afetlerle karşılaşmayan milletlerde destan unsuru bulunmaz. Destanlar bir kavmin yada ulusun yurt edinme ve kimlik kazanma mücadelesini ihtiva eder."
+        "Aciklama": "Soru öğrenilen bir kavramın anlamının hatırlanması ve diğer kavramlardan ayrılabilmesini amaçlamaktadır.<br>Destan, Farsça bir kelime olup milletlerin benliğinde derin tesirler bırakan savaş, göç gibi toplumsal;yangın, salgın hastalık, sel, deprem gibi doğal olayların<br/>etkisiyle söylenmiş hayali unsurlarla süslenmiş uzun manzum eserlerdir. Destan derin geçmişe sahip devletlere ait hikayelerdir. Çünkü savaş yaşamayan, doğal afetlerle karşılaşmayan milletlerde destan unsuru bulunmaz. Destanlar bir kavmin yada ulusun yurt edinme ve kimlik kazanma mücadelesini ihtiva eder."
     },
     {
         "SoruID": 3374768,
@@ -777,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anadolu’da yaygın olan “Alazlama” adeti de, hastalıkların ateşle temizlenmesi amacını güden Kırgızlardaki “Alazlama”nın bir uzantısı olarak görülmektedir. Yine bazı Türk boyları, yemin merasimlerinde ateşi kullanırlardı. Kesilen kurbandan bir parçanın ateşe atılması ve ateşle fala bakma adeti Yakut Türklerinde görülmektedir. Eski Türk boylarında yas günü de ateş yakılırdı. Anadolu’da hala, akşam evden eve ateş verilmemekte, eğlence günlerinde ateşin üzerinden atlanılmakta, hastaların ve yeni doğan çocukların ateş karşısında tutulma adetlerinin devam ettiği görülmektedir."
+        "Aciklama": "Soru öğrenilen bir kavramın anlamının hatırlanması ve diğer kavramlardan ayrılabilmesini amaçlamaktadır.<br>Anadolu’da yaygın olan “Alazlama” adeti de, hastalıkların ateşle temizlenmesi amacını güden Kırgızlardaki “Alazlama”nın bir uzantısı olarak görülmektedir. Yine bazı Türk boyları, yemin merasimlerinde ateşi kullanırlardı. Kesilen kurbandan bir parçanın ateşe atılması ve ateşle fala bakma adeti Yakut Türklerinde görülmektedir. Eski Türk boylarında yas günü de ateş yakılırdı. Anadolu’da hala, akşam evden eve ateş verilmemekte, eğlence günlerinde ateşin üzerinden atlanılmakta, hastaların ve yeni doğan çocukların ateş karşısında tutulma adetlerinin devam ettiği görülmektedir."
     },
     {
         "SoruID": 3374769,
@@ -797,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kutsal kelimesi, ‘kut’ kelimesine “-sel-sal” eklenerek oluşturulmuş bir kelimedir. “Kut” ise eski Türkçede fırsat, hayır, bereket anlamındadır. Kutsal kelimesi Türk Dil Kurumu’nun yayımladığı Türkçe Sözlük’te “tapınılacak, yolunda can verilecek<br/>mukaddes vaya karşı çıkılmaması gereken, Tanrıya adanmış olan, Tanrısal içerikli olan” şeklinde tarif edilmektedir."
+        "Aciklama": "Soru öğrenilen bir kavramın anlamının hatırlanması ve diğer kavramlardan ayrılabilmesini amaçlamaktadır.<br>Kutsal kelimesi, ‘kut’ kelimesine “-sel-sal” eklenerek oluşturulmuş bir kelimedir. “Kut” ise eski Türkçede fırsat, hayır, bereket anlamındadır. Kutsal kelimesi Türk Dil Kurumu’nun yayımladığı Türkçe Sözlük’te “tapınılacak, yolunda can verilecek<br/>mukaddes vaya karşı çıkılmaması gereken, Tanrıya adanmış olan, Tanrısal içerikli olan” şeklinde tarif edilmektedir."
     },
     {
         "SoruID": 3374770,
@@ -817,7 +917,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Şaman” ve “kam” kelimeleri birlikte kullanılmıştır. Öbür dünya ile beşer arasında şifa vermek amacıyla bağlantı kuran bir vasıta ve dini ayinleri tertip eden kişi olarak ifade edilmiştir. Rivayete göre, Tanrı Ülgen ilk şamana “Senin adın bundan<br/>böyle Kam olacak” diyerek adını vermiştir. “Kamlamak” veya “Kammak” fiili şamanlık yapmak ve/ veya şaman ayini düzenlemek demektir. Kamın Gök Tanrı tarafından bu göreve getirildiğine ve üstün güçlerle donatıldığına ve ruhlar âlemi ile insanlar arasında aracı olduğuna, bazı gizli bilgiler taşıdığına inanılır."
+        "Aciklama": "Soru öğrenilen bir kavramın anlamının hatırlanması ve diğer kavramlardan ayrılabilmesini amaçlamaktadır.<br>“Şaman” ve “kam” kelimeleri birlikte kullanılmıştır. Öbür dünya ile beşer arasında şifa vermek amacıyla bağlantı kuran bir vasıta ve dini ayinleri tertip eden kişi olarak ifade edilmiştir. Rivayete göre, Tanrı Ülgen ilk şamana “Senin adın bundan<br/>böyle Kam olacak” diyerek adını vermiştir. “Kamlamak” veya “Kammak” fiili şamanlık yapmak ve/ veya şaman ayini düzenlemek demektir. Kamın Gök Tanrı tarafından bu göreve getirildiğine ve üstün güçlerle donatıldığına ve ruhlar âlemi ile insanlar arasında aracı olduğuna, bazı gizli bilgiler taşıdığına inanılır."
+    },
+    {
+        "SoruID": 3374771,
+        "SoruMetni": "Orta Asya Türk Devletlerinden Osmanlı Devletine kadar devlet geleneğinde karşımıza çıkan, eski Türk idari sisteminde siyasi güç, iktidar, bereket, hayır anlamına gelen, hanedan üyelerine de Tanrı tarafından bahşedildiğine ve kan yoluyla geçtiğine inanılan kanın kutsallığı ve “temizlik” anlamına geldiği kabul edilen kavram aşağıdakilerden hangisidir?",
+        "A": "Kült",
+        "B": "Kam",
+        "C": "Kutsal",
+        "D": "Kut",
+        "E": "Mit",
+        "DogruCevap": "D",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.374325",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Soru öğrenilen bir kavramın anlamının hatırlanması ve diğer kavramlardan ayrılabilmesini amaçlamaktadır.<br>Kut/Kud kökünden türemiş olup “temizlik” anlamına geldiği kabul edilir. Farsça Hüda kelimesinin dönüşmüş biçimi olduğu öne sürülse de aslı Türkçe “kut” (kutsallık, kutluluk) kökünden türemiştir. Eski Türk idari sisteminde “kut” siyasi güç, iktidar, bereket, hayır demektir. Bu güç hanedan üyelerine de Tanrı tarafından bahşedilmiştir. Babadan oğula kan yoluyla geçer. Bu kanın kutsallığı<br/>Orta Asya Türk Devletlerinden Osmanlı Devletine kadar devlet geleneğinin hepsinde mevcuttur."
     },
     {
         "SoruID": 3374772,
@@ -837,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kült kelimesi Fransızca “culte” kelimesinden Türkçeye geçmiştir. Kelimenin aslı Latincedeki “cultus” yani tapınma anlamına gelmektedir. Kült kelimesi, tapma, tapınım, din, dini merasim ibadet, ayin gibi anlamlarda kullanılmıştır. Kült, belli ilahlara karşı sesli veya sessiz; hareketli veya hareketsiz; dua veya niyaz şeklinde olabileceği kabul edilir.Kült din anlamında kullanılmasına karşın sosyolojik bağlamda toplumun genel inanç ve ibadetlerinin dışındaki uygulamaları olarak ifade edilebilir. Yani her ne kadar kült, genellikle din anlamında ele alınsa veya belirtildiği gibi dini bir grup olarak tanımlansa da, dini öğeler içermek zorunda değil folklorik unsurlar ihtiva edebilir."
+        "Aciklama": "Soru öğrenilen bir kavramın anlamının hatırlanması ve diğer kavramlardan ayrılabilmesini amaçlamaktadır.<br>Kült kelimesi Fransızca “culte” kelimesinden Türkçeye geçmiştir. Kelimenin aslı Latincedeki “cultus” yani tapınma anlamına gelmektedir. Kült kelimesi, tapma, tapınım, din, dini merasim ibadet, ayin gibi anlamlarda kullanılmıştır. Kült, belli ilahlara karşı sesli veya sessiz; hareketli veya hareketsiz; dua veya niyaz şeklinde olabileceği kabul edilir.Kült din anlamında kullanılmasına karşın sosyolojik bağlamda toplumun genel inanç ve ibadetlerinin dışındaki uygulamaları olarak ifade edilebilir. Yani her ne kadar kült, genellikle din anlamında ele alınsa veya belirtildiği gibi dini bir grup olarak tanımlansa da, dini öğeler içermek zorunda değil folklorik unsurlar ihtiva edebilir."
     },
     {
         "SoruID": 3374954,
@@ -857,7 +977,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dinin kaynağı hususunda batılı araştırmacılar psikolojik ve sosyolojik teoriler ileri sürmüşlerdir. Psikolojik teoriler esin kaynağını tabiat mitolojilerinden almıştır. Bu yaklaşıma göre tanrılar, kişileştirilmiş tabiat olgularından ibarettir. J. G. Frazer dini, ruhların kaprisine teslim edilmiş bir olgu olarak tanımlamaktadır. Sosyoloji teorisyenlerden Emile Durkheim’e göre “Din, sosyal bir olgudur.” Bu sosyal olguyu besleyen faktörlerden biri de tecrübedir. E. Durkheim, her ne kadar dinin kaynağını toplumda arıyorsa da dayandığı argümanlar büyük oranda totemizmden beslendiği görülmektedir. H. Bradley, “Din daha çok bütün mevcudiyetimizle iyiliğin tam gerçeğini anlatma çabasıdır.” şeklinde ifade eder. Michel Mayer ise, “Din, Allah’a insanlara ve kendimize karşı yapmamız gerekene dair öğütlerle inançların tamamıdır” tarzında tarif etmektedir. Doğru yanıt E’dir."
+        "Aciklama": "4. Sayfa sağ sütunda ilk paragrafın ortalarında “Bu durumda mit söylenen söz; logos ise bilimin keşfi olarak <strong>alınanca</strong> birbirinden farklı iki teşekkülün birlikteliği söz konusudur:” <strong>alınınca</strong> olmalı sanırım<br/>7. Sayfada ilk sütunun 3. Paragrafının sonlarına doğru “<strong>Tabuların</strong> yazılı metinlere dayanmayan ancak dinler kadar eskiye giden yaptırımlar olarak ifade edilmektedir:” <strong>Tabular</strong> olmalıdır.<br/>11. Sayfada sağ sütundaki 3. Paragraftaki son cümlede “Aynı taşın insanları şimşek ve yıldırımlara karşı <strong>kuruduğuna</strong> inanılmıştır:” <strong>koruduğuna</strong> olmalı.<br/>12. Sayfanın ilk sütunundaki su kültü bölümünün son cümlesindeki “İyileştirici özelliklere sahip olduğu kabul edilen belli <strong>pınarlar</strong> bazı hastalıklara iyi geldiği kabul edilmiştir” cümlesindeki sözcük <strong>pınarların</strong> olmalıdır.<br/>12. Sayfanın ikinci sütunundaki beşinci paragrafın ilk cümlesi “Cezalandırma ve temizleyicilik.<br>Dinin kaynağı hususunda batılı araştırmacılar psikolojik ve sosyolojik teoriler ileri sürmüşlerdir. Psikolojik teoriler esin kaynağını tabiat mitolojilerinden almıştır. Bu yaklaşıma göre tanrılar, kişileştirilmiş tabiat olgularından ibarettir. J. G. Frazer dini, ruhların kaprisine teslim edilmiş bir olgu olarak tanımlamaktadır. Sosyoloji teorisyenlerden Emile Durkheim’e göre “Din, sosyal bir olgudur.” Bu sosyal olguyu besleyen faktörlerden biri de tecrübedir. E. Durkheim, her ne kadar dinin kaynağını toplumda arıyorsa da dayandığı argümanlar büyük oranda totemizmden beslendiği görülmektedir. H. Bradley, “Din daha çok bütün mevcudiyetimizle iyiliğin tam gerçeğini anlatma çabasıdır.” şeklinde ifade eder. Michel Mayer ise, “Din, Allah’a insanlara ve kendimize karşı yapmamız gerekene dair öğütlerle inançların tamamıdır” tarzında tarif etmektedir. Doğru yanıt E’dir."
+    },
+    {
+        "SoruID": 3374955,
+        "SoruMetni": "Arapçadaki ‘usture’ kelimesi hangisine karşılık gelir?",
+        "A": "Mit",
+        "B": "Kozmogoni",
+        "C": "Efsane",
+        "D": "Destan",
+        "E": "Masal",
+        "DogruCevap": "C",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.592388",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Efsane kelimesi, Farsça “fesâne” ve çoğulu “efsane” şeklinde geçmiştir. Arapçadaki “usture” kelimesinin çoğulu “esatir” olarak kullanılmıştır. Doğru yanıt C’dir."
     },
     {
         "SoruID": 3374956,
@@ -881,7 +1021,7 @@
     },
     {
         "SoruID": 3374957,
-        "SoruMetni": "Görseldeki motif hangi kült ile ilgilidir?<br/> <img alt=\"\" height=\"294\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/dc4eaf9f0d8a6c0295ca6f2e78c083c0.png\" width=\"297\"/>",
+        "SoruMetni": "Görseldeki motif hangi kült ile ilgilidir?<br/><img alt=\"\" height=\"294\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/dc4eaf9f0d8a6c0295ca6f2e78c083c0.png\" width=\"297\"/>",
         "A": "Ağaç kültü",
         "B": "Atalar Kültü",
         "C": "Dağ Kültü",
@@ -897,7 +1037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ağaç kültü, ağaçların taşıdığı ruha karşı hürmet ve ağacın yararlılıklarına karşı duyulan saygı anlayışıdır. Türk yaradılış kozmogonisi içinde ilk insanın dokuz budaklı dalın altında yaratıldığına inanılmıştır. Ağacın yüksekliği ona ulviyet kazandırmış, gökyüzündeki cennete kadar uzandığı kabul edilmiştir. “Kozmik ağaç” veya “Hayat ağacı” olarak ifade edilen ağaç, dünyanın tam ortasından yükselerek kökleri yer altına kadar iner ve dalları da dünya dağının zirvesine kadar yükselirdi. Böylece bu kutsal ağaç, dünyanın her üç katı -gök, yer ve yer altı- arasında irtibat unsuru olmuştur. Hayat ağacının yedi dalı olduğu, bu dalların her birinin göğün katlarına tekabül ettiği ifade edilmektedir. Aynı ağacın yapraklarında insanların kaderi yazılı olduğu ve her bir yaprak düştüğü anda insan hayatı son bulmuş oluyordu. Hayat ağacı, canlıların hayat kaynağı olan öz suyunu bünyesinde barındırdığı kabul edilir. Hayat ağacının tepesinde çift başlı kartal tünemektedir. Ders kitabının ikinci sayfasında yer alan görselde de ağacın tepesinde bir kartal sembolü vardır.  Doğru yanıt A’dır."
+        "Aciklama": "Ağaç kültü, ağaçların taşıdığı ruha karşı hürmet ve ağacın yararlılıklarına karşı duyulan saygı anlayışıdır. Türk yaradılış kozmogonisi içinde ilk insanın dokuz budaklı dalın altında yaratıldığına inanılmıştır. Ağacın yüksekliği ona ulviyet kazandırmış, gökyüzündeki cennete kadar uzandığı kabul edilmiştir. “Kozmik ağaç” veya “Hayat ağacı” olarak ifade edilen ağaç, dünyanın tam ortasından yükselerek kökleri yer altına kadar iner ve dalları da dünya dağının zirvesine kadar yükselirdi. Böylece bu kutsal ağaç, dünyanın her üç katı -gök, yer ve yer altı- arasında irtibat unsuru olmuştur. Hayat ağacının yedi dalı olduğu, bu dalların her birinin göğün katlarına tekabül ettiği ifade edilmektedir. Aynı ağacın yapraklarında insanların kaderi yazılı olduğu ve her bir yaprak düştüğü anda insan hayatı son bulmuş oluyordu. Hayat ağacı, canlıların hayat kaynağı olan öz suyunu bünyesinde barındırdığı kabul edilir. Hayat ağacının tepesinde çift başlı kartal tünemektedir. Ders kitabının ikinci sayfasında yer alan görselde de ağacın tepesinde bir kartal sembolü vardır. Doğru yanıt A’dır."
     },
     {
         "SoruID": 3374958,
@@ -1041,7 +1181,7 @@
     },
     {
         "SoruID": 3374965,
-        "SoruMetni": "Dini hangisi “Her şey bizim bilgimizin üstüne çıkan bir kudretin tezahürü\" olarak ifade eder?",
+        "SoruMetni": "Dini hangisi “Her şey bizim bilgimizin üstüne çıkan bir kudretin tezahürü\" olarak ifade eder?",
         "A": "Emile Durkheim",
         "B": "Herbert Spencer",
         "C": "Max Müller",
@@ -1101,7 +1241,7 @@
     },
     {
         "SoruID": 3374968,
-        "SoruMetni": "Hangisi  derin geçmişe sahip devletlere ait hikayelerdir?",
+        "SoruMetni": "Hangisi derin geçmişe sahip devletlere ait hikayelerdir?",
         "A": "Destan",
         "B": "Totem",
         "C": "Masal",
@@ -1118,6 +1258,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Destan derin geçmişe sahip devletlere ait hikayelerdir. Çünkü savaş yaşamayan, doğal afetlerle karşılaşmayan milletlerde destan unsuru bulunmaz. Destanlar bir kavmin yada ulusun yurt edinme ve kimlik kazanma mücadelesini ihtiva eder."
+    },
+    {
+        "SoruID": 3374969,
+        "SoruMetni": "Hangisi turna donuna giren Türk Müslüman dervişlerinden biridir?",
+        "A": "Yunus Emre",
+        "B": "Ahmet Yesevi",
+        "C": "Mevlana",
+        "D": "Şemsî",
+        "E": "Sa‘dî",
+        "DogruCevap": "B",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.469632",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İlk Türk Müslüman dervişleri de zaman zaman kuş donuna girmişlerdir. Ahmet Yesevi turna donuna; Hacı Bektaş Veli güvercin donuna, Abdal Musa ise geyik donuna bürünmüşlerdir."
     },
     {
         "SoruID": 3374970,
@@ -1172,7 +1332,7 @@
         "Unite": 1,
         "Somestre": "1",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:20:53.124747",
+        "OlusturmaTarihi": "2025-12-01T04:15:38.921221",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
@@ -1201,7 +1361,7 @@
     },
     {
         "SoruID": 3375202,
-        "SoruMetni": "I. Yol<br/><br/>II. Benimsemek<br/><br/>III. Kabul etmek<br/><br/>Yukarıdakilerden hangisi/hangileri Arapça kökenli olan din kelimesinin geldiği anlamlar arasındadır?",
+        "SoruMetni": "I. Yol<br/>II. Benimsemek<br/>III. Kabul etmek<br/>Yukarıdakilerden hangisi/hangileri Arapça kökenli olan din kelimesinin geldiği anlamlar arasındadır?",
         "A": "Yalnız II",
         "B": "I ve II",
         "C": "I ve III",
@@ -1221,7 +1381,7 @@
     },
     {
         "SoruID": 3375203,
-        "SoruMetni": "Kime göre “Din, sosyal bir olgudur.”",
+        "SoruMetni": "Kime göre “Din, sosyal bir olgudur.”",
         "A": "Durkheim",
         "B": "Müller",
         "C": "Matthew",
@@ -1237,7 +1397,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Durkheim"
+        "Aciklama": "Din<br>Durkheim"
+    },
+    {
+        "SoruID": 3375204,
+        "SoruMetni": "Aşağıda yer alan bilim insanlarından hangisi eski Türk dini konusunda Türkiye’de ilk çalışmalar yapan bilim insanlarından biri değildir?",
+        "A": "Fuat İnan",
+        "B": "Ziya Gökalp",
+        "C": "M. Fuad Köprülü",
+        "D": "Abdülkadir İnan",
+        "E": "İbrahim Kafesoğlu",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.540838",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Din<br>Fuat İnan"
     },
     {
         "SoruID": 3375205,
@@ -1257,7 +1437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mit"
+        "Aciklama": "Mit- Mitoloji"
     },
     {
         "SoruID": 3375206,
@@ -1277,7 +1457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "S. Veyis Örnek"
+        "Aciklama": "Efsane<br>S. Veyis Örnek"
     },
     {
         "SoruID": 3375207,
@@ -1298,6 +1478,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Destan"
+    },
+    {
+        "SoruID": 3375208,
+        "SoruMetni": "Kahramanları olağanüstü yaratıklardır; Abartı unsurlarının bol olduğu ifade biçimleridir; İçeriği büyük oranda hayali unsurlarla doludur; şeklinde tanımlanabilen türe ne ad verilir?",
+        "A": "Masal",
+        "B": "Efsane",
+        "C": "Destan",
+        "D": "Mit",
+        "E": "Kıssa",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.475644",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Masal"
     },
     {
         "SoruID": 3375209,
@@ -1361,7 +1561,7 @@
     },
     {
         "SoruID": 3375244,
-        "SoruMetni": "<span>Öbür dünya ile beşer arasında şifa vermek amacıyla bağlantı kuran  ve dini ayinleri tertip eden kişi aşağıdakilerden hangisidir?</span><br/>",
+        "SoruMetni": "<span>Öbür dünya ile beşer arasında şifa vermek amacıyla bağlantı kuran ve dini ayinleri tertip eden kişi aşağıdakilerden hangisidir?</span>",
         "A": "Kam",
         "B": "Kut",
         "C": "Eros",
@@ -1381,7 +1581,7 @@
     },
     {
         "SoruID": 3375245,
-        "SoruMetni": "<span>......., yağmur yağdırmak, kar yağdırmak, yangın söndürmek ve rüzgar<br/>estirmek amacıyla gerçekleştirilen bir tür kamlık<br/>olarak ifade edilmiştir. </span> <br/> <span>Yukarıdaki boşluğa hangisi gelmelidir? </span>",
+        "SoruMetni": "<span>......., yağmur yağdırmak, kar yağdırmak, yangın söndürmek ve rüzgar<br/>estirmek amacıyla gerçekleştirilen bir tür kamlık<br/>olarak ifade edilmiştir. </span> <br/><span>Yukarıdaki boşluğa hangisi gelmelidir? </span>",
         "A": "Şaman",
         "B": "<span>Yada taşı</span>",
         "C": "Kült",
@@ -1397,7 +1597,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yada Taşı"
+        "Aciklama": "<span>Taşla ilgili en çok karşılaşılan “Yada taşı”(Yağmur<br/>taşı) meselesi olmalıdır. Yada taşı, yağmur yağdırmak, kar yağdırmak, yangın söndürmek ve rüzgar<br/>estirmek amacıyla gerçekleştirilen bir tür kamlık<br/>olarak ifade edilmiştir. Bu taşa, aynı zamanda,<br/>Yağmur boncuğu da dendiği olmuştur. Aynı taşın<br/>insanları şimşek ve yıldırımlara karşı kuruduğuna<br/>inanılmıştır.</span>"
+    },
+    {
+        "SoruID": 3375246,
+        "SoruMetni": "<span>Cezalandırma ve temizleyicilik</span> hangi kült ile ilişkilidir?",
+        "A": "Ağaç kültü",
+        "B": "Dağ kültü",
+        "C": "Ateş kültü",
+        "D": "Taş kültü",
+        "E": "Su kültü",
+        "DogruCevap": "C",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.562356",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<span>Cezalandırma ve temizleyicilik. Bunun için işkence genelde ateşle yapılıyordu. Hz. İbrahim’in,<br/>kavmi tarafından ateşe atıldığını ve ateşle cezalandırılmak istendiğini Kur’an-ı Kerim’den öğreniyoruz</span><br>Ateş kültü"
     },
     {
         "SoruID": 3375247,
@@ -1420,8 +1640,28 @@
         "Aciklama": "Atalar kültü"
     },
     {
+        "SoruID": 3375248,
+        "SoruMetni": "<span>Kimi zaman “evrensel sütun”<br/>kimi zaman da “kozmik dağ” olarak anlamlandırılır.</span><br/><span>Şeklinde sözü edilen hangisidir? </span>",
+        "A": "Hayat ağacı",
+        "B": "Tepe",
+        "C": "Ateş",
+        "D": "Su",
+        "E": "Kaya",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 1,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:33.556643",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<span>“Kozmik ağaç” veya “Hayat ağacı” olarak ifade<br/>edilen ağaç, dünyanın tam ortasından yükselerek<br/>kökleri yer altına kadar iner ve dalları da dünya<br/>dağının zirvesine kadar yükselirdi. Ebedi canlılığın<br/>sembolüdür. Böylece bu kutsal ağaç, dünyanın her<br/>üç katı -gök, yer ve yer altı- arasında irtibat unsuru<br/>olmuştur. Bu oluşum kimi zaman “evrensel sütun”<br/>kimi zaman da “kozmik dağ” olarak anlamlandırılmıştır. </span>"
+    },
+    {
         "SoruID": 3375249,
-        "SoruMetni": "<span>Türklerin Ötüken’i hangi kültle ilişkilidir? </span>",
+        "SoruMetni": "<span>Türklerin Ötüken’i hangi kültle ilişkilidir? </span>",
         "A": "<span>Dağ ve Tepe Kültü</span>",
         "B": "Ağaç kültü",
         "C": "Su Kültü",
@@ -1437,11 +1677,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dağ ve tepe kültü"
+        "Aciklama": "<span>Dağ ve tepeler, coğrafyanın yüksek noktalarını<br/>teşkil etmeleri sebebiyle yükseklik algısıyla birlikte telakki edilmiştir. Göksel yapılanmanın dışında<br/>yükseklik anlayışı dağ ve tepelerle anlamını bulmuş-<br/>tur. Böylece bu mekanlar gizem ve kutsal mekanlar<br/>olarak görülmüştür. Paganist inanç sistemlerinde<br/>yüksek dağlar, tanrıların mekanı olarak kabul edilmiş ve hatta buralarda tanrı ve tanrıçaların meclisleri<br/>tasavvur edilmiştir. Bu minval üzere, her bir kültür<br/>çevresi kendi bağlamında bir dağı kutsamış ve onu<br/>erişilmez olarak görmüştür. Örneğin; Yunanlıların<br/>Olimpos’u, Türklerin Ötüken’i sayılabilir</span><br>Dağ ve tepe kültü"
     },
     {
         "SoruID": 3375250,
-        "SoruMetni": "<span>Anadolu’da yaygın olan “Alazlama” hangi kült ile ilişkilidir? </span>",
+        "SoruMetni": "<span>Anadolu’da yaygın olan “Alazlama” hangi kült ile ilişkilidir? </span>",
         "A": "Ağaç kültü",
         "B": "Su kültü",
         "C": "Ateş kültü",
@@ -1457,11 +1697,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ateş kültü"
+        "Aciklama": "<span>Anadolu’da yaygın olan “Alazlama” adeti de,<br/>hastalıkların ateşle temizlenmesi amacını güden<br/>Kırgızlardaki “Alazlama”nın bir uzantısı olarak gö-<br/>rülmektedir. </span><br>Ateş kültü"
     },
     {
         "SoruID": 3375252,
-        "SoruMetni": "<span>Totemle birlikte ifade edilen bir diğer sözcük<br/>“.....” olmuştur. Asıl itibariyle Polinez diline ait olan<br/>kelime dünyanın farklı coğrafyalarında farklı biçimde ifade edilmiştir. Birbirine zıt iki anlam<br/>taşıdığı görülmektedir: Bir taraftan kutsal, kutsallaştırılmış kavramlar için kullanılırken; diğer taraftan<br/>tehlikeli, korkunç, kirli, yasak anlamlarını ihtiva etmektedir.</span> <br/> <span>Sözü edilen kelime hangisidir? </span>",
+        "SoruMetni": "<span>Totemle birlikte ifade edilen bir diğer sözcük<br/>“.....” olmuştur. Asıl itibariyle Polinez diline ait olan<br/>kelime dünyanın farklı coğrafyalarında farklı biçimde ifade edilmiştir. Birbirine zıt iki anlam<br/>taşıdığı görülmektedir: Bir taraftan kutsal, kutsallaştırılmış kavramlar için kullanılırken; diğer taraftan<br/>tehlikeli, korkunç, kirli, yasak anlamlarını ihtiva etmektedir.</span> <br/><span>Sözü edilen kelime hangisidir? </span>",
         "A": "Şaman",
         "B": "Kam",
         "C": "Kült",
@@ -1481,7 +1721,7 @@
     },
     {
         "SoruID": 3375254,
-        "SoruMetni": "<span>Yazarı belli olmayan eski<br/>çağlarda yaşanmış olayları konu alan sözlü<br/>destan türü</span> aşağıdakilerden hangisidir?",
+        "SoruMetni": "<span>Yazarı belli olmayan eski<br/>çağlarda yaşanmış olayları konu alan sözlü<br/>destan türü</span> aşağıdakilerden hangisidir?",
         "A": "Mitler",
         "B": "Doğal destanlar",
         "C": "Efsaneler",
@@ -1501,7 +1741,7 @@
     },
     {
         "SoruID": 3375255,
-        "SoruMetni": "<span><br/> Kötü ruhlarla iletişim halindeki<br/>kam</span> aşağıdakilerden hangisidir?",
+        "SoruMetni": "<span><br/>Kötü ruhlarla iletişim halindeki<br/>kam</span> aşağıdakilerden hangisidir?",
         "A": "Karakam",
         "B": "Aktoyun",
         "C": "Akkam",

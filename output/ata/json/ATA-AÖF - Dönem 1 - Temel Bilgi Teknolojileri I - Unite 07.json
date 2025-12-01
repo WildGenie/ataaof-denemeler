@@ -1,11 +1,11 @@
 [
     {
         "SoruID": 376298,
-        "SoruMetni": "<strong>Word programında bir tabloya ait tablo tasarımı bağlamsal sekmesinden aşağıdakilerden hangisi <u>yapılamaz</u>?</strong><br/>",
-        "A": "Tablo hücreleri bölünebilir.<br/>",
-        "B": "Tablo stilleri belirlenir.<br/>",
-        "C": "Gölgelendirme yapılabilir.<br/>",
-        "D": "Kenarlık stilleri ayarlanabilir.<br/>",
+        "SoruMetni": "<strong>Word programında bir tabloya ait tablo tasarımı bağlamsal sekmesinden aşağıdakilerden hangisi <u>yapılamaz</u>?</strong>",
+        "A": "Tablo hücreleri bölünebilir.",
+        "B": "Tablo stilleri belirlenir.",
+        "C": "Gölgelendirme yapılabilir.",
+        "D": "Kenarlık stilleri ayarlanabilir.",
         "E": "Kenarlık boyacısı kullanılabilir.",
         "DogruCevap": "A",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -16,15 +16,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376299,
-        "SoruMetni": "<strong>Word programında resim biçimi bağlamsal sekmesinden aşağıdakilerden hangisi <u>yapılamaz</u>?</strong><br/>",
-        "A": "Resim kenarlığı belirlenebilir.<br/>",
-        "B": "Biçim boyacısı aracı kullanılabilir.<br/>",
-        "C": "Artistik efektler ayarlanabilir.<br/>",
-        "D": "Saydamlık ayarı yapılabilir.<br/>",
+        "SoruMetni": "<strong>Word programında resim biçimi bağlamsal sekmesinden aşağıdakilerden hangisi <u>yapılamaz</u>?</strong>",
+        "A": "Resim kenarlığı belirlenebilir.",
+        "B": "Biçim boyacısı aracı kullanılabilir.",
+        "C": "Artistik efektler ayarlanabilir.",
+        "D": "Saydamlık ayarı yapılabilir.",
         "E": "Resim değiştirilebilir.",
         "DogruCevap": "B",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -35,7 +36,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376300,
@@ -54,7 +56,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376301,
@@ -73,15 +76,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376302,
-        "SoruMetni": "<strong>Word programında dikey yöndeki belgeyi yatay konuma getirmek için kullanılan sekme aşağıdakilerden hangisidir?</strong><br/>",
-        "A": "Giriş<br/>",
-        "B": "Başvurular<br/>",
-        "C": "Tasarım<br/>",
-        "D": "Görünüm<br/>",
+        "SoruMetni": "<strong>Word programında dikey yöndeki belgeyi yatay konuma getirmek için kullanılan sekme aşağıdakilerden hangisidir?</strong>",
+        "A": "Giriş",
+        "B": "Başvurular",
+        "C": "Tasarım",
+        "D": "Görünüm",
         "E": "Düzen",
         "DogruCevap": "E",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -92,15 +96,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 376303,
-        "SoruMetni": "<strong>Word programında belgeyi sütunlara ayırmak için kullanılan komut hangi sekmede yer alır?</strong><br/>",
-        "A": "Düzen<br/>",
-        "B": "Giriş<br/>",
-        "C": "Başvurular<br/>",
-        "D": "Tasarım<br/>",
+        "SoruMetni": "<strong>Word programında belgeyi sütunlara ayırmak için kullanılan komut hangi sekmede yer alır?</strong>",
+        "A": "Düzen",
+        "B": "Giriş",
+        "C": "Başvurular",
+        "D": "Tasarım",
         "E": "Görünüm",
         "DogruCevap": "A",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -111,15 +116,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376304,
-        "SoruMetni": "<strong>Word programında bölüm sonu ekleyip yeni bölümü aynı sayfada başlatan kesmeler özelliği aşağıdakilerden hangisidir?</strong><br/>",
-        "A": "Sütun<br/>",
-        "B": "Sürekli<br/>",
-        "C": "Metin kaydırma<br/>",
-        "D": "Sonraki sayfa<br/>",
+        "SoruMetni": "<strong>Word programında bölüm sonu ekleyip yeni bölümü aynı sayfada başlatan kesmeler özelliği aşağıdakilerden hangisidir?</strong>",
+        "A": "Sütun",
+        "B": "Sürekli",
+        "C": "Metin kaydırma",
+        "D": "Sonraki sayfa",
         "E": "Çift sayfa",
         "DogruCevap": "B",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -130,15 +136,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376305,
-        "SoruMetni": "<strong>Word programında belgenin tümüne satır numarası eklemek için kullanılan komut hangi sekmede yer alır?</strong><br/> <br/><br> <br/> </br>",
-        "A": "Giriş<br/>",
-        "B": "Başvurular<br/>",
-        "C": "Düzen<br/>",
-        "D": "Tasarım<br/>",
+        "SoruMetni": "<strong>Word programında belgenin tümüne satır numarası eklemek için kullanılan komut hangi sekmede yer alır?</strong><br/></br>",
+        "A": "Giriş",
+        "B": "Başvurular",
+        "C": "Düzen",
+        "D": "Tasarım",
         "E": "Görünüm",
         "DogruCevap": "C",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -149,15 +156,16 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376306,
-        "SoruMetni": "<strong>Word programında tüm belgenin arkasına şirket logosu, sloganı vb. bilgileri silik bir biçimde bastırmaya yarayan özellik aşağıdakilerden hangisidir?</strong><br/>",
-        "A": "Grafik<br/>",
-        "B": "Dipnot<br/>",
-        "C": "Son not<br/>",
-        "D": "Filigran<br/>",
+        "SoruMetni": "<strong>Word programında tüm belgenin arkasına şirket logosu, sloganı vb. bilgileri silik bir biçimde bastırmaya yarayan özellik aşağıdakilerden hangisidir?</strong>",
+        "A": "Grafik",
+        "B": "Dipnot",
+        "C": "Son not",
+        "D": "Filigran",
         "E": "Baskı Önizleme",
         "DogruCevap": "D",
         "DersAd": "Temel Bilgi Teknolojileri I",
@@ -168,7 +176,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376307,
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376684,
@@ -206,7 +216,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376685,
@@ -225,11 +236,12 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376687,
-        "SoruMetni": "<strong>Word programında sayfaların boyutlarını ayarlamak için kullanılan komut aşağıdaki hangi sekmede yer alır?</strong><br/>",
+        "SoruMetni": "<strong>Word programında sayfaların boyutlarını ayarlamak için kullanılan komut aşağıdaki hangi sekmede yer alır?</strong>",
         "A": "Düzen",
         "B": "Giriş",
         "C": "Başvurular",
@@ -244,7 +256,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 376688,
@@ -263,7 +276,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 376689,
@@ -282,7 +296,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 376690,
@@ -301,7 +316,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 376691,
@@ -320,7 +336,8 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 392892,
@@ -339,11 +356,12 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 394266,
-        "SoruMetni": "<strong>Word programında yapılan değişikliklerin otomatik olarak kaydedilmesi, değişen kısımların farklı renklerle gösterilmesi, kayıt altına alınması ve gösterilmesi için aşağıdaki hangi sekme ve komutlar ile izleme başlatılır?</strong>",
+        "SoruMetni": "<strong>Word programında yapılan değişikliklerin otomatik olarak kaydedilmesi, değişen kısımların farklı renklerle gösterilmesi, kayıt altına alınması ve gösterilmesi için aşağıdaki hangi sekme ve komutlar ile izleme başlatılır?</strong>",
         "A": "Gözden Geçir sekmesinde yer alan Değişiklikler grubundaki Kabul Et ile izleme başlatılır.",
         "B": "Giriş sekmesinin İzleme grubunda bulunan Değişiklikleri İzle düğmesi ile izleme başlatılır.",
         "C": "Giriş sekmesinde yer alan Değişiklikler grubundaki Kabul Et ile izleme başlatılır.",
@@ -358,6 +376,7 @@
         "GelYer": 1,
         "DersId": 315,
         "OBSDersId": 34122,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     }
 ]

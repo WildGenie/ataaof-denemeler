@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3234922,
-        "SoruMetni": "<strong>Aşağıdaki ifadelerden hangisi  İsviçre Tasarım ilkelerini uluslararası olarak yayan, Uluslararası Stil’in öncülerinden ve ustalarındandır?</strong>",
+        "SoruMetni": "<strong>Aşağıdaki ifadelerden hangisi İsviçre Tasarım ilkelerini uluslararası olarak yayan, Uluslararası Stil’in öncülerinden ve ustalarındandır?</strong>",
         "A": "Saul Bass.",
         "B": "Paul Rand.",
         "C": "Milton Glaser.",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3234926,
-        "SoruMetni": "<strong>Aşağıdaki ifadelerden hangisi  New York Okulunda yer alan tasarımcılardan biridir?</strong>",
+        "SoruMetni": "<strong>Aşağıdaki ifadelerden hangisi New York Okulunda yer alan tasarımcılardan biridir?</strong>",
         "A": "Josef Müller-Brockmann.",
         "B": "Eduard Hoffmann.",
         "C": "Paul Rand.",
@@ -197,11 +197,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: 'Times New Roman',serif;\">Polonya film afişinde mesajın içeriğini ve anlamını ifade etmede gerçeküstü dünya görüşüne yakın bir benzerlik görülür. Sözde mühendislik tasarımı, geometriye dayalı katı kompozisyon kuralları, grafizmin kendisi olarak tanımladığımız her şey neredeyse hiç yoktur.<br/><br/></span>"
+        "Aciklama": "<span style=\"font-family: 'Times New Roman',serif;\">Polonya film afişinde mesajın içeriğini ve anlamını ifade etmede gerçeküstü dünya görüşüne yakın bir benzerlik görülür. Sözde mühendislik tasarımı, geometriye dayalı katı kompozisyon kuralları, grafizmin kendisi olarak tanımladığımız her şey neredeyse hiç yoktur.<br/></span>"
     },
     {
         "SoruID": 3234998,
-        "SoruMetni": "I-Sadelik, minimalizm<br/><br/>II-Tipografi, okunabilirlik<br/><br/>III-Geometrik, soyutlama<br/><br/>IV-Rasyonel, objektif<br/><br/>Uluslararası Tipografik Stil’in tasarım prensiplerine ilişkin yukarıdaki ifadelerden hangileri doğrudur?",
+        "SoruMetni": "I-Sadelik, minimalizm<br/>II-Tipografi, okunabilirlik<br/>III-Geometrik, soyutlama<br/>IV-Rasyonel, objektif<br/>Uluslararası Tipografik Stil’in tasarım prensiplerine ilişkin yukarıdaki ifadelerden hangileri doğrudur?",
         "A": "I ve II",
         "B": "II ve III",
         "C": "I, II, III",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayfa 141'deki bilgilere göre Uluslararası Tipografik Stil’inde uygulanan tasarım prensipleri kısaca aşağıdaki gibi sıralanmaktadır.<br/>• <strong>Sadelik, minimalizm</strong><br/>• Düzen, netlik, ızgaralar<br/>• <strong>Geometrik, soyutlama</strong><br/>• <strong>Tipografi, okunabilirlik</strong><br/><strong>• Rasyonel, objektif</strong><br/>• Evrensel, bütünlük <br/><br/>Bu nedenle cevap e seçeneğidir."
+        "Aciklama": "Sayfa 141'deki bilgilere göre Uluslararası Tipografik Stil’inde uygulanan tasarım prensipleri kısaca aşağıdaki gibi sıralanmaktadır.<br/>• <strong>Sadelik, minimalizm</strong><br/>• Düzen, netlik, ızgaralar<br/>• <strong>Geometrik, soyutlama</strong><br/>• <strong>Tipografi, okunabilirlik</strong><br/><strong>• Rasyonel, objektif</strong><br/>• Evrensel, bütünlük <br/>Bu nedenle cevap e seçeneğidir."
     },
     {
         "SoruID": 3235002,
@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 3235006,
-        "SoruMetni": "\"<span style=\"text-decoration: underline;\"><strong>...  </strong></span>   <span style=\"text-decoration: underline;\"><strong>...</strong></span>, negatif alan ve boşluk kullanımı, ızgaralar, sans-serif yazı tipleri ve güçlü geometrik şekilleri gibi belirli özelliklerie yapılandırılmıştır\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
+        "SoruMetni": "\"<span style=\"text-decoration: underline;\"><strong>... </strong></span> <span style=\"text-decoration: underline;\"><strong>...</strong></span>, negatif alan ve boşluk kullanımı, ızgaralar, sans-serif yazı tipleri ve güçlü geometrik şekilleri gibi belirli özelliklerie yapılandırılmıştır\" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?",
         "A": "Uluslararası Stil",
         "B": "Soyut yapı",
         "C": "Klasik modernizm",
@@ -342,11 +342,11 @@
     {
         "SoruID": 3235008,
         "SoruMetni": "Aşağıdaki seçeneklerden hangisi Uluslararası Tipografik Stil’inde uygulanan tasarım prensipleri içinde <span style=\"text-decoration: underline;\"><strong>yer almaz?</strong></span>",
-        "A": "<br/> <br/> <br/> <br/>Sadelik, minimalizm<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Düzen, netlik, ızgaralar<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Geometrik, soyutlama<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>İrasyonel, subjektif<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Tipografi, okunabilirlik<br/><br/><br/><br/>",
+        "A": "<br/>Sadelik, minimalizm",
+        "B": "<br/>Düzen, netlik, ızgaralar",
+        "C": "<br/>Geometrik, soyutlama",
+        "D": "<br/>İrasyonel, subjektif",
+        "E": "<br/>Tipografi, okunabilirlik",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
         "Unite": 6,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Uluslararası Tipografik Stil’inde uygulanan tasarım prensipleri kısaca aşağıdaki gibi sıralanabilir:<br/><br/>• Sadelik, minimalizm, • Düzen, netlik, ızgaralar, • Geometrik, soyutlama, • Tipografi, okunabilirlik, • Rasyonel, objektif, • Evrensel, bütünlük<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Uluslararası Tipografik Stil’inde uygulanan tasarım prensipleri kısaca aşağıdaki gibi sıralanabilir:<br/>• Sadelik, minimalizm, • Düzen, netlik, ızgaralar, • Geometrik, soyutlama, • Tipografi, okunabilirlik, • Rasyonel, objektif, • Evrensel, bütünlük"
     },
     {
         "SoruID": 3235009,
@@ -381,12 +381,12 @@
     },
     {
         "SoruID": 3235010,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Metnin bir sayfada nereye oturtulacağını basitçe belirleyen tek sütunlu ızgara türü aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
-        "A": "<br/> <br/> <br/> <br/>Kitap Izgarası<br/><br/><br/><br/>",
-        "B": "<br/> <br/> <br/> <br/>Temel Izgara<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Sütun Izgarası<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Modüler Izgara<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Hiyerarşik Izgara<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Metnin bir sayfada nereye oturtulacağını basitçe belirleyen tek sütunlu ızgara türü aşağıdakilerden hangisidir?",
+        "A": "<br/>Kitap Izgarası",
+        "B": "<br/>Temel Izgara",
+        "C": "<br/>Sütun Izgarası",
+        "D": "<br/>Modüler Izgara",
+        "E": "<br/>Hiyerarşik Izgara",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
         "Unite": 6,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/><strong>Kitap Izgarası.</strong> (Manuscript) Bu ızgara türü, metnin bir sayfada nereye oturtulacağını basitçe belirleyen tek sütunlu bir ızgaradır.<br/><br/><br/><br/>"
+        "Aciklama": "<br/><strong>Kitap Izgarası.</strong> (Manuscript) Bu ızgara türü, metnin bir sayfada nereye oturtulacağını basitçe belirleyen tek sütunlu bir ızgaradır."
     },
     {
         "SoruID": 3235011,
@@ -482,10 +482,10 @@
     {
         "SoruID": 3235029,
         "SoruMetni": "1957'de Adrian Frutiger ve Deberny &amp; Piegnot tarafından piyasaya sürülen ve daha sonra Linotype tarafından üretilen font ailesi aşağıdakilerden hangisidir?",
-        "A": "Akzidenz Grotesk<br/><br/>",
-        "B": "Helvetica<br/><br/>",
-        "C": "Univers<br/><br/>",
-        "D": "<br/>Frutiger<br/><br/>",
+        "A": "Akzidenz Grotesk",
+        "B": "Helvetica",
+        "C": "Univers",
+        "D": "<br/>Frutiger",
         "E": "Gotik-Sans",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -501,11 +501,11 @@
     },
     {
         "SoruID": 3235030,
-        "SoruMetni": "Tasarımcı Max Miedinger ve patronu Eduard Hoffmann tarafından tasarlanan yazı tipinin şimdiki ismi aşağıdakilerden hangisidir?<br/><br/>",
-        "A": "Akzidenz Grotesk<br/><br/>",
-        "B": "Helvetica<br/><br/>",
-        "C": "Univers<br/><br/>",
-        "D": "Frutiger<br/><br/>",
+        "SoruMetni": "Tasarımcı Max Miedinger ve patronu Eduard Hoffmann tarafından tasarlanan yazı tipinin şimdiki ismi aşağıdakilerden hangisidir?",
+        "A": "Akzidenz Grotesk",
+        "B": "Helvetica",
+        "C": "Univers",
+        "D": "Frutiger",
         "E": "Gotik-Sans",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
@@ -521,12 +521,12 @@
     },
     {
         "SoruID": 3235031,
-        "SoruMetni": "Berlin’de 1896 yılında tasarlanan ve H. Berthold AG dökümhanesi tarafından piyasaya sürülen yazı tipi aşağıdakilerden hangisidir?",
+        "SoruMetni": "Berlin’de 1896 yılında tasarlanan ve H. Berthold AG dökümhanesi tarafından piyasaya sürülen yazı tipi aşağıdakilerden hangisidir?",
         "A": "Gotik-Sans",
-        "B": "Frutiger<br/><br/>",
-        "C": "Univers<br/><br/>",
-        "D": "Akzidenz Grotesk<br/><br/>",
-        "E": "Helvetica<br/><br/>",
+        "B": "Frutiger",
+        "C": "Univers",
+        "D": "Akzidenz Grotesk",
+        "E": "Helvetica",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim ve Tasarım Tarihi",
         "Unite": 6,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"<strong>Akzidenz Grotesk</strong> <span style=\"text-decoration: underline;\">Berlin’de 1896 yılında tasarlanmış</span> bir yazı karakteridir ve Helvetica’nın tasarlanmasında büyük bir katkısı olmuştur\"(s.151).  \"Helvetica’nın realist, doğrusal, basit ve zarif, son derece okunaklı olmasının dışındaki bir diğer amacı, rakipleri <span style=\"text-decoration: underline;\">H. Berthold AG dökümhanesi tarafından piyasaya sürülen</span> yazı tipi <strong>Akzidenz Grotesk’</strong>in başarısına bir nevi karşı koymak olmuştur\" (s.151).Buna göre cevap d seçeneğidir."
+        "Aciklama": "\"<strong>Akzidenz Grotesk</strong> <span style=\"text-decoration: underline;\">Berlin’de 1896 yılında tasarlanmış</span> bir yazı karakteridir ve Helvetica’nın tasarlanmasında büyük bir katkısı olmuştur\"(s.151). \"Helvetica’nın realist, doğrusal, basit ve zarif, son derece okunaklı olmasının dışındaki bir diğer amacı, rakipleri <span style=\"text-decoration: underline;\">H. Berthold AG dökümhanesi tarafından piyasaya sürülen</span> yazı tipi <strong>Akzidenz Grotesk’</strong>in başarısına bir nevi karşı koymak olmuştur\" (s.151).Buna göre cevap d seçeneğidir."
     },
     {
         "SoruID": 3235032,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"New York Okulunda yer alan tasarımcılar:<br/>• Paul Rand: Art direktör ve grafik tasarımcı<br/>• Saul Bass: Amerikan grafik tasarımcı ve Oscar ödüllü film yapımcısı<br/>• Herb Lubalin: Amerikan grafik tasarımcı<br/>• Milton Glaser: Amerikan graphic tasarımcı (s.153) <br/> Bu bilgilere göre e seçeneğindeki isim New York Okulunda yer almayıp, cevap e seçeneğidir."
+        "Aciklama": "\"New York Okulunda yer alan tasarımcılar:<br/>• Paul Rand: Art direktör ve grafik tasarımcı<br/>• Saul Bass: Amerikan grafik tasarımcı ve Oscar ödüllü film yapımcısı<br/>• Herb Lubalin: Amerikan grafik tasarımcı<br/>• Milton Glaser: Amerikan graphic tasarımcı (s.153) <br/>Bu bilgilere göre e seçeneğindeki isim New York Okulunda yer almayıp, cevap e seçeneğidir."
     },
     {
         "SoruID": 3235033,
@@ -581,7 +581,7 @@
     },
     {
         "SoruID": 3235034,
-        "SoruMetni": "I-Sürrealizm <br/> II-Ekspresyonizm<br/> III-Realizm<br/> IV-Dada<br/> Polonya film afişlerinin tasarımında yukarıdaki sanat akımlarının hangilerinden ilham alınmıştır?",
+        "SoruMetni": "I-Sürrealizm <br/>II-Ekspresyonizm<br/>III-Realizm<br/>IV-Dada<br/>Polonya film afişlerinin tasarımında yukarıdaki sanat akımlarının hangilerinden ilham alınmıştır?",
         "A": "I ve II",
         "B": "II ve III",
         "C": "I, II, III",
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uluslararası Tipografik Stil’inde uygulanan tasarım prensipleri kısaca aşağıdaki gibi sıralanabilir: Sadelik, minimalizm; Düzen, netlik, ızgaralar; Geometrik, soyutlama; Evrensel, bütünlük; Tipografi, okunabilirlik; Rasyonel, objektif. Doğru cevap B seçeneğidir.<br/>"
+        "Aciklama": "Uluslararası Tipografik Stil’inde uygulanan tasarım prensipleri kısaca aşağıdaki gibi sıralanabilir: Sadelik, minimalizm; Düzen, netlik, ızgaralar; Geometrik, soyutlama; Evrensel, bütünlük; Tipografi, okunabilirlik; Rasyonel, objektif. Doğru cevap B seçeneğidir."
     },
     {
         "SoruID": 3235127,
@@ -697,11 +697,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Milton Glaser; Amerikan graphic tasarımcıdır ve New York Okulunda yer alan tasarımcılardan biridir. Doğru cevap D seçeneğidir."
+        "Aciklama": "Milton Glaser; Amerikan graphic tasarımcıdır ve New York Okulunda yer alan tasarımcılardan biridir. Doğru cevap D seçeneğidir."
     },
     {
         "SoruID": 3235132,
-        "SoruMetni": "Neo-grotesk sans-serif yazı tiplerinden biri olan 1957’de  piyasaya sürülen font aşağıdakilerden hangisidir?",
+        "SoruMetni": "Neo-grotesk sans-serif yazı tiplerinden biri olan 1957’de piyasaya sürülen font aşağıdakilerden hangisidir?",
         "A": "Univers",
         "B": "Times New Roman",
         "C": "Verdana",

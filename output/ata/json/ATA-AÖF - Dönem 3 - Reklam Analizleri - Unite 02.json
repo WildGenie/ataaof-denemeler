@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 107907,
-        "SoruMetni": "<strong>​Aşağıdakilerden hangisi ana mesaj stratejilerinden biri olan bilgisel stratejiler arasında <u>yer almaz</u>?</strong>",
+        "SoruMetni": "<strong>​Aşağıdakilerden hangisi ana mesaj stratejilerinden biri olan bilgisel stratejiler arasında <u>yer almaz</u>?</strong>",
         "A": "Karşılaştırmalı strateji",
         "B": "Abartma stratejisi",
         "C": "Öncü üstünlük stratejisi",
@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 107978,
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 107986,
@@ -54,11 +56,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 110845,
-        "SoruMetni": "I.   İlgi<br/> <br/>​II.  Orijinallik<br> <br/>III. Güçlü etki<br> <br/><strong>​Yukarıdakilerden hangisi ya da hangileri yaratıcı reklam mesajının ana özellikleri arasında yer alır?</strong> </br></br>",
+        "SoruMetni": "I. İlgi<br/>​II. Orijinallik<br/>III. Güçlü etki<br/><strong>​Yukarıdakilerden hangisi ya da hangileri yaratıcı reklam mesajının ana özellikleri arasında yer alır?</strong> </br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -73,11 +76,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 110951,
-        "SoruMetni": "​Markalar, pazarda yer alan diğer ürün ya da hizmetlerde bulunan bir özelliği ön plana çıkararak tüketici zihninde söz konusu özelliği sahiplenirler.<br/> <br/><strong>​Cümlede ifade edilen yaratıcı strateji aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "​Markalar, pazarda yer alan diğer ürün ya da hizmetlerde bulunan bir özelliği ön plana çıkararak tüketici zihninde söz konusu özelliği sahiplenirler.<br/><strong>​Cümlede ifade edilen yaratıcı strateji aşağıdakilerden hangisidir?</strong>",
         "A": "Kullanım Fırsatı Stratejisi",
         "B": "Kullanıcı Kişiliği Stratejisi",
         "C": "Öncü Üstünlük Stratejisi",
@@ -92,11 +96,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 127869,
-        "SoruMetni": "………………………………., tüketicilerin satın alma karar süreçlerinde mantıksal kararlar aldıkları varsayılarak ürün ya da hizmet hakkında bilgi vermektedir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "………………………………., tüketicilerin satın alma karar süreçlerinde mantıksal kararlar aldıkları varsayılarak ürün ya da hizmet hakkında bilgi vermektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Ana mesaj stratejisi",
         "B": "Transformasyonel strateji",
         "C": "Bilgisel strateji",
@@ -111,11 +116,12 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 127880,
-        "SoruMetni": "<strong>Daha önce hiç kullanılmamış bir fikrin kullanımı yaratıcı reklam mesajının hangi özelliğini ifade etmektedir?</strong><br/>",
+        "SoruMetni": "<strong>Daha önce hiç kullanılmamış bir fikrin kullanımı yaratıcı reklam mesajının hangi özelliğini ifade etmektedir?</strong>",
         "A": "Güçlü etki",
         "B": "İlgi",
         "C": "Basitlik",
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 166562,
@@ -149,11 +156,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 166563,
-        "SoruMetni": "I. Marka ve hedef kitle arasında ilişki kurmalı<br/> <br/>II. Bir satış fikri sunmalı<br> <br/>III. Beklenmedik olmalı<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri yaratıcı reklamı betimlemektedir?</strong> </br></br>",
+        "SoruMetni": "I. Marka ve hedef kitle arasında ilişki kurmalı<br/>II. Bir satış fikri sunmalı<br/>III. Beklenmedik olmalı<br/><strong>Yukarıdakilerden hangisi ya da hangileri yaratıcı reklamı betimlemektedir?</strong> </br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -168,7 +176,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 166564,
@@ -187,11 +196,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 166570,
-        "SoruMetni": "Konumlandırma stratejileri, bünyesinde mikro stratejileri barındırmaktadır.<br/> <br/><strong>Aşağıdakilerden hangisi mikro stratejilerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "Konumlandırma stratejileri, bünyesinde mikro stratejileri barındırmaktadır.<br/><strong>Aşağıdakilerden hangisi mikro stratejilerinden biri <u>değildir</u>?</strong>",
         "A": "Meydan okuma",
         "B": "İkincil yarar",
         "C": "Birden çok şey vadetme",
@@ -206,11 +216,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 175972,
-        "SoruMetni": "I.   Daha önce kullanılmamış bir fikrin kullanımı<br/> <br/>II.  Oluşturulan yaratıcı reklam fikrinin hedef kitlenin ilgi alanına girmesi<br> <br/>III. Yaratıcı fikrin hedef kitleye ulaşabilmesi için güçlü bir etkiye sahip olması<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri yaratıcı reklam mesajının özellikleri arasında yer alır?</strong> </br></br>",
+        "SoruMetni": "I. Daha önce kullanılmamış bir fikrin kullanımı<br/>II. Oluşturulan yaratıcı reklam fikrinin hedef kitlenin ilgi alanına girmesi<br/>III. Yaratıcı fikrin hedef kitleye ulaşabilmesi için güçlü bir etkiye sahip olması<br/><strong>Yukarıdakilerden hangisi ya da hangileri yaratıcı reklam mesajının özellikleri arasında yer alır?</strong> </br></br>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve III",
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 175973,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 175974,
@@ -263,7 +276,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 175975,
@@ -282,7 +296,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 175976,
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 175977,
@@ -320,7 +336,8 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 175978,
@@ -339,11 +356,12 @@
         "GelYer": 2,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     },
     {
         "SoruID": 294074,
-        "SoruMetni": "I. Marka ve hedef kitle arasında ilişki kurmak<br/> <br/>II. Satış fikri sunmak<br> <br/>III. Beklenmedik olmak<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri yaratıcı reklamın başlıca özelliklerindendir?</strong></br></br>",
+        "SoruMetni": "I. Marka ve hedef kitle arasında ilişki kurmak<br/>II. Satış fikri sunmak<br/>III. Beklenmedik olmak<br/><strong>Yukarıdakilerden hangisi ya da hangileri yaratıcı reklamın başlıca özelliklerindendir?</strong></br></br>",
         "A": "Yalnız II",
         "B": "I ve II",
         "C": "I ve III",
@@ -358,7 +376,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 294075,
@@ -377,7 +396,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 325113,
@@ -396,7 +416,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 325118,
@@ -415,11 +436,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 327792,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi yaratıcı reklam mesajlarının taşıması gereken özelliklerden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi yaratıcı reklam mesajlarının taşıması gereken özelliklerden biri <u>değildir</u>?</strong>",
         "A": "Sıra dışı",
         "B": "Umulmadık",
         "C": "Beklenmedik",
@@ -434,11 +456,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 3
     },
     {
         "SoruID": 327800,
-        "SoruMetni": "I. Diğerlerinden ayrılan tek ya da üstün özellikli ürünler için kullanılmaktadır.<br/> <br/>II. Üstünlük iddiası taşıdığı için rakipleri tarafından taklit edilemez.<br> <br/>III. Rakipleri ancak agresif stratejiler kullanarak markanın karşısına çıkabilir.<br> <br/>IV. Genellikle teknolojik özelliklerin önemli olduğu kategoriler için uygun bir stratejidir.<br> <br/><strong>Özellikleri verilen strateji aşağıdakilerden hangisidir?</strong></br></br></br>",
+        "SoruMetni": "I. Diğerlerinden ayrılan tek ya da üstün özellikli ürünler için kullanılmaktadır.<br/>II. Üstünlük iddiası taşıdığı için rakipleri tarafından taklit edilemez.<br/>III. Rakipleri ancak agresif stratejiler kullanarak markanın karşısına çıkabilir.<br/>IV. Genellikle teknolojik özelliklerin önemli olduğu kategoriler için uygun bir stratejidir.<br/><strong>Özellikleri verilen strateji aşağıdakilerden hangisidir?</strong></br></br></br>",
         "A": "Marka imajı",
         "B": "Abartma",
         "C": "Öncü üstünlük",
@@ -453,11 +476,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 3
     },
     {
         "SoruID": 327804,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi yaratıcı stratejilerden yararlanarak hazırlanan reklam analizleri ile elde edilen verilerden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi yaratıcı stratejilerden yararlanarak hazırlanan reklam analizleri ile elde edilen verilerden biri <u>değildir</u>?</strong>",
         "A": "Ürünün pazarda nasıl konumlandırıldığı",
         "B": "Reklam mesajının içeriği",
         "C": "Hedef kitlenin ürünü ne kadar satın aldığı",
@@ -472,11 +496,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 363409,
-        "SoruMetni": "<strong>Pazarda yer alan diğer ürün ya da hizmetlerde de bulunan bir özelliği ön plana çıkararak tüketici zihninde söz konusu özelliği sahiplenen markaların izlediği stratejiye ne ad verilmektedir? </strong>",
+        "SoruMetni": "<strong>Pazarda yer alan diğer ürün ya da hizmetlerde de bulunan bir özelliği ön plana çıkararak tüketici zihninde söz konusu özelliği sahiplenen markaların izlediği stratejiye ne ad verilmektedir? </strong>",
         "A": "Konumlandırma (Positioning)",
         "B": "Yankılama stratejisi (Resonance)",
         "C": "Öncü üstünlük stratejisi (Preemptive)",
@@ -491,7 +516,8 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 3
     },
     {
         "SoruID": 392901,
@@ -510,11 +536,12 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 3
     },
     {
         "SoruID": 393856,
-        "SoruMetni": "I. Yaratıcı reklam fikri hedef kitlenin ilgi alanına girmelidir.<br/> <br/>II. Daha önce hiç kullanılmamış bir fikrin kullanımı, yaratıcı reklam mesajının can damarıdır.<br> <br/>IIII.Yaratıcı fikir hedef kitleye ulaşmak için güçlü bir etkiye sahip olmalıdır.<br> <br/>IV. Yaratıcı reklam fikri daha önce kullanılan bir fikir olmalıdır. <br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri  yaratıcı reklam mesajının üç ana özelliği arasında <u>yer almaz</u>? </strong></br></br></br>",
+        "SoruMetni": "I. Yaratıcı reklam fikri hedef kitlenin ilgi alanına girmelidir.<br/>II. Daha önce hiç kullanılmamış bir fikrin kullanımı, yaratıcı reklam mesajının can damarıdır.<br/>IIII.Yaratıcı fikir hedef kitleye ulaşmak için güçlü bir etkiye sahip olmalıdır.<br/>IV. Yaratıcı reklam fikri daha önce kullanılan bir fikir olmalıdır. <br/><strong>Yukarıdakilerden hangisi ya da hangileri yaratıcı reklam mesajının üç ana özelliği arasında <u>yer almaz</u>? </strong></br></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız IV",
         "C": "II ve III",
@@ -529,6 +556,7 @@
         "GelYer": 1,
         "DersId": 258,
         "OBSDersId": 39129,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 3
     }
 ]

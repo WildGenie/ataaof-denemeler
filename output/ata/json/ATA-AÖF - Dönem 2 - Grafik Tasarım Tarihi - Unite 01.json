@@ -9,18 +9,19 @@
         "E": "Sosyalist düşünce esasında estetik kaygıyı merkez alan Almanya temelli bir sanat hareketidir.",
         "DogruCevap": "E",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 310698,
-        "SoruMetni": "“Modern grafik tasarım bağlamında atılan ilk temel olarak nitelendirilen …………….., yaklaşım çerçevesinde bir gelenekten kopma sürecini ifade etmektedir.”<br/> <br/><strong>Aşağıdakilerden hangisi yukarıda açıklanan ifadedeki boşluğa yerleştirildiğinde doğru bir tanım ortaya koymaktadır?</strong>",
+        "SoruMetni": "“Modern grafik tasarım bağlamında atılan ilk temel olarak nitelendirilen …………….., yaklaşım çerçevesinde bir gelenekten kopma sürecini ifade etmektedir.”<br/><strong>Aşağıdakilerden hangisi yukarıda açıklanan ifadedeki boşluğa yerleştirildiğinde doğru bir tanım ortaya koymaktadır?</strong>",
         "A": "Konstrüktivizm",
         "B": "Japon Ukiyo-e Baskıları",
         "C": "Bauhaus",
@@ -28,18 +29,19 @@
         "E": "Alman Ekspresyonizmi",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 310700,
-        "SoruMetni": "“Şimdiye kadar, edebiyat, düşünceli, dalgın, hareketsiz (sabit), kendinden geçen coşkunluk ve uyku halini yüceltmiştir. Biz, saldırgan eylemi, harareti, uykusuzluğu, yarışçının uzun adımlarını, ölümcül sıçramayı, yumruğu ve tokadı yüceltmeyi amaçlıyoruz. Biz, dünyanın ihtişamını, yeni bir güzellik olan hız güzelliğinin zenginleştireceğini söylüyoruz… Biz, müzeleri, kütüphaneleri, her çeşit akademileri yok edeceğiz, ahlakçılıkla, feminizmle, faydacıl korkaklıkla mücadele edeceğiz”.<br/> <br/><strong>Aşağıdakilerden hangisi yukarıda açıklanan bir modern sanat hareketi ifadesini yansıtmaktadır?</strong>",
+        "SoruMetni": "“Şimdiye kadar, edebiyat, düşünceli, dalgın, hareketsiz (sabit), kendinden geçen coşkunluk ve uyku halini yüceltmiştir. Biz, saldırgan eylemi, harareti, uykusuzluğu, yarışçının uzun adımlarını, ölümcül sıçramayı, yumruğu ve tokadı yüceltmeyi amaçlıyoruz. Biz, dünyanın ihtişamını, yeni bir güzellik olan hız güzelliğinin zenginleştireceğini söylüyoruz… Biz, müzeleri, kütüphaneleri, her çeşit akademileri yok edeceğiz, ahlakçılıkla, feminizmle, faydacıl korkaklıkla mücadele edeceğiz”.<br/><strong>Aşağıdakilerden hangisi yukarıda açıklanan bir modern sanat hareketi ifadesini yansıtmaktadır?</strong>",
         "A": "Konstrüktivizm",
         "B": "Dadaizm",
         "C": "Fütürizm",
@@ -47,14 +49,15 @@
         "E": "Ekspresyonizm",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 310701,
@@ -66,14 +69,15 @@
         "E": "Gerd Arntz",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 310702,
@@ -85,14 +89,15 @@
         "E": "20. yüzyılın sonu",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 310703,
@@ -104,14 +109,15 @@
         "E": "El Lissitzky, Gerd Arntz",
         "DogruCevap": "D",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 310704,
@@ -123,14 +129,15 @@
         "E": "Geometri",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 313744,
@@ -142,14 +149,15 @@
         "E": "De Stijl",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 313745,
@@ -161,18 +169,19 @@
         "E": "Bilgilendirme Tasarımı",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 313746,
-        "SoruMetni": "“Uluslararası Art Nouveau modern sanat hareketinin Almanya’da ………….., Avusturya’da ……………., İtalya’da ……….……., İspanya’da ….…………, Hollanda’da ………….., şeklinde tanımlanması, farklı dil ve kimliklerde anlayışını göstermesine dayandırılmaktadır.”<br/> <br/><strong>Aşağıdakilerden hangisi yukarıda açıklanan ifadedeki boşluklara sırasıyla yerleştirildiğinde doğru bir tanım ortaya koymaktadır?</strong>",
+        "SoruMetni": "“Uluslararası Art Nouveau modern sanat hareketinin Almanya’da ………….., Avusturya’da ……………., İtalya’da ……….……., İspanya’da ….…………, Hollanda’da ………….., şeklinde tanımlanması, farklı dil ve kimliklerde anlayışını göstermesine dayandırılmaktadır.”<br/><strong>Aşağıdakilerden hangisi yukarıda açıklanan ifadedeki boşluklara sırasıyla yerleştirildiğinde doğru bir tanım ortaya koymaktadır?</strong>",
         "A": "“Jugendstil” (Gençlik tarzı), “Secession” (Ayrılıkçılık), “Stile Liberty”, “Nieuwe Kunst”, “Modernista”",
         "B": "“Secession” (Ayrılıkçılık), “Stile Liberty”, “Jugendstil” (Gençlik tarzı), “Nieuwe Kunst”, “Modernista”",
         "C": "“Secession” (Ayrılıkçılık), “Jugendstil” (Gençlik tarzı), “Nieuwe Kunst”, “Modernista”, “Stile Liberty”",
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 313747,
@@ -199,14 +209,15 @@
         "E": "Alman Ekspresyonizmi",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 313748,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 313749,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 313750,
@@ -256,14 +269,15 @@
         "E": "Grafik tasarım ve reklam endüstrinin gelişimine katkı sağlamıştır.",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 313751,
@@ -275,14 +289,15 @@
         "E": "Fransız Art Nouveau Hareketi",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 313752,
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 313753,
@@ -313,18 +329,19 @@
         "E": "İdeal olanı düzen ve açıklık olarak ifade etmektedir.",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 343000,
-        "SoruMetni": "I. Yeni bir görselliğin zihinde biçimlenmesi üzerine anlayış geliştiren Art Nouveau, bir gelenekten kopma sürecini ifade etmektedir.<br/> <br/>II. Nouveau Hareketi, 20. yüzyılın başlarında (1905-25) sosyal, kültürel, toplumsal, ekonomik gelişimlerin doğrusallığında ortaya çıkmıştır.<br> <br/>III. Uluslararası Art Nouveau hareketi, birçok Avrupa ülkesinde kent merkezli olarak farklı biçimlerde tanımlanmaktadır.<br> <br/><strong>Yukarıdaki ifadelerden hangisi ya da hangileri “ Uluslararası Art Nouveau Hareketi” nin genel özelliklerini  içermektedir?</strong></br></br>",
+        "SoruMetni": "I. Yeni bir görselliğin zihinde biçimlenmesi üzerine anlayış geliştiren Art Nouveau, bir gelenekten kopma sürecini ifade etmektedir.<br/>II. Nouveau Hareketi, 20. yüzyılın başlarında (1905-25) sosyal, kültürel, toplumsal, ekonomik gelişimlerin doğrusallığında ortaya çıkmıştır.<br/>III. Uluslararası Art Nouveau hareketi, birçok Avrupa ülkesinde kent merkezli olarak farklı biçimlerde tanımlanmaktadır.<br/><strong>Yukarıdaki ifadelerden hangisi ya da hangileri “ Uluslararası Art Nouveau Hareketi” nin genel özelliklerini içermektedir?</strong></br></br>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -332,14 +349,15 @@
         "E": "I, II ve III",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 343004,
@@ -351,18 +369,19 @@
         "E": "Geometrik nesnelerde endüstriyel malzeme kullanımına odaklanan Konstrüktivizm, grafik tasarımı toplumun esas kuvveti olarak değerlendirir.",
         "DogruCevap": "A",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 343006,
-        "SoruMetni": "<strong>Edward Munch’un  \"Çığlık\" (Skrik) adlı yağlı boya tablosu hangi modern sanat hareketinin öne çıkan eserlerinden biridir?</strong>",
+        "SoruMetni": "<strong>Edward Munch’un \"Çığlık\" (Skrik) adlı yağlı boya tablosu hangi modern sanat hareketinin öne çıkan eserlerinden biridir?</strong>",
         "A": "Arts and Crafts Hareketi",
         "B": "Alman Ekspresyonizmi",
         "C": "Fransız Art Nouveau Hareketi",
@@ -370,18 +389,19 @@
         "E": "De Stijl",
         "DogruCevap": "B",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 343010,
-        "SoruMetni": "I. Bauhaus Okulu 1919 yılında Walter Gropius tarafından yaşamın tümünü algılamak amacıyla kurulmuştur.<br/> <br/>II. Modern sanat ve tasarımın gereksinimlerine göre geliştirilen Bauhaus metodolojisi, bu modern gereksinimlerin kaynağını Batı sanatı geleneklerinden farklılaşmasına dayandırmaktadır.<br> <br/>III. Bauhaus ve Yeni Tipografi Sanat Hareketi, soyut ve ruhsal bir ifade biçimini (dışavurum) vurgular.<br> <br/><strong>“Bauhaus ve Yeni Tipografi” ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?</strong></br></br>",
+        "SoruMetni": "I. Bauhaus Okulu 1919 yılında Walter Gropius tarafından yaşamın tümünü algılamak amacıyla kurulmuştur.<br/>II. Modern sanat ve tasarımın gereksinimlerine göre geliştirilen Bauhaus metodolojisi, bu modern gereksinimlerin kaynağını Batı sanatı geleneklerinden farklılaşmasına dayandırmaktadır.<br/>III. Bauhaus ve Yeni Tipografi Sanat Hareketi, soyut ve ruhsal bir ifade biçimini (dışavurum) vurgular.<br/><strong>“Bauhaus ve Yeni Tipografi” ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -389,13 +409,14 @@
         "E": "I, II ve III",
         "DogruCevap": "C",
         "DersAd": "Grafik Tasarım Tarihi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 479,
         "OBSDersId": 82517,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     }
 ]

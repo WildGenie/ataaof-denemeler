@@ -140,6 +140,26 @@
         "Aciklama": "Bir yazı karakterinin eksenin 7 ila 20 derece arasında eğimli versiyonuna Eğik yazılar denir."
     },
     {
+        "SoruID": 3769648,
+        "SoruMetni": "Yazı boyutu ne ölçüsü ile ifade edilmektedir?",
+        "A": "satır",
+        "B": "Optik Hizalama",
+        "C": "Hizalamalar",
+        "D": "Paragraflar Ayrımları",
+        "E": "punto",
+        "DogruCevap": "E",
+        "DersAd": "Tipografi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.325289",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Yazı boyutu punto ölçüsü ile ifade edilmektedir."
+    },
+    {
         "SoruID": 3769649,
         "SoruMetni": "Aşağıdakilerden hangisi kelimelerin, cümlelerin ve metin bloklarının okuturluğuna katkıda bulunan ana başlıklardan <span style=\"text-decoration: underline;\">değildir?</span>",
         "A": "Tırnaklı ve Tırnaksız Yazılar",
@@ -181,7 +201,7 @@
     },
     {
         "SoruID": 3769653,
-        "SoruMetni": "……………………………  küçük harfin büyük harfe göre yüksekliğini ifade eder.<br/>  Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "…………………………… küçük harfin büyük harfe göre yüksekliğini ifade eder.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
         "A": "Kontrast",
         "B": "x-yüksekliği",
         "C": "Condensed",
@@ -240,6 +260,26 @@
         "Aciklama": "Bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklar şunlardır: x- yüksekliği, karakter ağırlığı, karakter genişliği, harf çizgisi kontrastı, iç boşluklar, tırnaklı ve tırnaksız yazılar, başlık yazı karakterleri, bitişik yazılar."
     },
     {
+        "SoruID": 3769656,
+        "SoruMetni": "Yazı karakterinin ağırlığı neyi ifade etmektedir?",
+        "A": "Harf çizgilerinin kalınlığını",
+        "B": "Harf karakterinin boyutunu",
+        "C": "Karakter genişliğini",
+        "D": "Harfteki kalın ve ince çizgilerin birbiriyle olan ilişkisini",
+        "E": "Karakter çizgisinin bitiminde bulunan küçük çıkıntıları",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.205394",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Yazı karakterinin ağırlığı, harf çizgilerinin kalınlığını ifade etmektedir."
+    },
+    {
         "SoruID": 3769657,
         "SoruMetni": "Aşağıdakilerden hangisi bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her birini tanımlayan kavramdır?",
         "A": "Counter",
@@ -260,6 +300,26 @@
         "Aciklama": "Allograf: Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her biridir. Örneğin büyük harf, küçük harf, italik ve bir harfin çeşitli el yazısı biçimleridir."
     },
     {
+        "SoruID": 3769658,
+        "SoruMetni": "Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyut aralığı hangisidir?",
+        "A": "6 ile 8 punto",
+        "B": "8 ile 10 punto",
+        "C": "9 ile 12 punto",
+        "D": "12 ile 16 punto",
+        "E": "16 ile 18 punto",
+        "DogruCevap": "C",
+        "DersAd": "Tipografi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.314651",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları 9 ile 12 punto arasında değişmektedir."
+    },
+    {
         "SoruID": 3769659,
         "SoruMetni": "Aşağıdakilerden hangisi kelime, satır veya tüm paragraftaki karakterler arasındaki boşluğun eşit değerde azaltılması veya artırılmasını tanımlayan kavramdır?",
         "A": "Kerning",
@@ -278,6 +338,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Harf arası ayarı (Tracking), kelime, satır veya tüm paragraftaki karakterler arasındaki boşluğun eşit değerde azaltılması veya artırılmasıdır."
+    },
+    {
+        "SoruID": 3769660,
+        "SoruMetni": "Aşağıdakilerden hangisi paragrafları birbirinden ayırt edebilmek için en çok kullanılan yöntemlerden biri <u>değildir</u>?",
+        "A": "Paragraf başı girintisi",
+        "B": "Satır arası boşluğu ile paragraf ayrımı",
+        "C": "Asılı girinti ile paragraf ayrımı",
+        "D": "Paragraf işareti veya özel işaretler kullanılarak yapılan paragraf ayrımı",
+        "E": "Harf arası ayarı ile yapılan paragraf ayrımı",
+        "DogruCevap": "E",
+        "DersAd": "Tipografi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.316321",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Paragrafları birbirinden ayırt edebilmek için en çok kullanılan yöntemlerden bazıları şu şekildedir: paragraf başı girintisi, satır arası boşluğu ile paragraf ayrımı, asılı girinti ile paragraf ayrımı, paragraf işareti veya özel işaretler kullanılarak yapılan paragraf ayrımı."
     },
     {
         "SoruID": 3769661,
@@ -320,8 +400,28 @@
         "Aciklama": "Genel olarak kabul edilen standart, satır başına yaklaşık 45-75 karakterdir."
     },
     {
+        "SoruID": 3769688,
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklar arasında yer alır?<br/>I-Karakter Ağırlığı<br/>II-İç Boşluklar<br/>III-Bitişik Yazılar",
+        "A": "Sadece I",
+        "B": "II ve III",
+        "C": "I, II ve III",
+        "D": "I ve III",
+        "E": "Sadece II",
+        "DogruCevap": "C",
+        "DersAd": "Tipografi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.207102",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Okunurluk<br>Bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklar şunlardır:<br/>• x- yüksekliği<br/>• Karakter Ağırlığı<br/>• Karakter Genişliği<br/>• Harf Çizgisi Kontrastı<br/>• İç Boşluklar<br/>• Tırnaklı ve Tırnaksız Yazılar<br/>• Başlık Yazı Karakterleri<br/>• Bitişik Yazılar"
+    },
+    {
         "SoruID": 3769689,
-        "SoruMetni": "\"Yazı karaterinin ağırlığı\" yla ilgili olarak aşağıda verilen bilgilerden hangisi ya da hangileri <span style=\"text-decoration: underline;\"><strong>doğrudur</strong></span>?<br/> I-Küçük harfi büyük harfe göre yüksekliğini ifade etmektedir.<br/> II-İç boşlukları ifade etmektedir.<br/> III-Harf çizgilerinin kalınlığını ifade etmektedir.",
+        "SoruMetni": "\"Yazı karaterinin ağırlığı\" yla ilgili olarak aşağıda verilen bilgilerden hangisi ya da hangileri <span style=\"text-decoration: underline;\"><strong>doğrudur</strong></span>?<br/>I-Küçük harfi büyük harfe göre yüksekliğini ifade etmektedir.<br/>II-İç boşlukları ifade etmektedir.<br/>III-Harf çizgilerinin kalınlığını ifade etmektedir.",
         "A": "II ve III",
         "B": "Sadece III",
         "C": "Sadece II",
@@ -337,11 +437,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazı karakterinin ağırlığı, harf çizgilerinin kalınlığını ifade etmektedir."
+        "Aciklama": "Karakter ağırlığı<br>Yazı karakterinin ağırlığı, harf çizgilerinin kalınlığını ifade etmektedir."
     },
     {
         "SoruID": 3769690,
-        "SoruMetni": "\"x-yüksekliğiyle\" ilgili olarak aşağıda verilen bilgilerden hangisi ya da hangileri <span style=\"text-decoration: underline;\"><strong>doğrudur</strong>?</span><br/> I-Harf çizgilerinin kalınlığını ifade etmektedir.<br/> II-Küçük harfin büyük harfe göre yüksekliğini ifade eder.<br/> III-İç boşlukları ifade etmektedir.",
+        "SoruMetni": "\"x-yüksekliğiyle\" ilgili olarak aşağıda verilen bilgilerden hangisi ya da hangileri <span style=\"text-decoration: underline;\"><strong>doğrudur</strong>?</span><br/>I-Harf çizgilerinin kalınlığını ifade etmektedir.<br/>II-Küçük harfin büyük harfe göre yüksekliğini ifade eder.<br/>III-İç boşlukları ifade etmektedir.",
         "A": "Sadece III",
         "B": "Sadece I",
         "C": "II ve III",
@@ -357,11 +457,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Küçük harfin büyük harfe göre yüksekliğini ifade eder."
+        "Aciklama": "x-yüksekliği<br>Küçük harfin büyük harfe göre yüksekliğini ifade eder."
     },
     {
         "SoruID": 3769693,
-        "SoruMetni": "İç boşlukların okunurluğa etkisi bağlamında aşağıdaki bilgilerden hangisi ya da hangileri <span style=\"text-decoration: underline;\"><strong>doğrudur?</strong></span><br/> I-Yarı kapalı iç boşluklarının açık olması okunurluğu olumlu yönde etkiler.<br/> II-İç boşlukları ne kadar büyükse okunurluğu artar.<br/> III-Açıklığın az olması okunurluğu arttırır.",
+        "SoruMetni": "İç boşlukların okunurluğa etkisi bağlamında aşağıdaki bilgilerden hangisi ya da hangileri <span style=\"text-decoration: underline;\"><strong>doğrudur?</strong></span><br/>I-Yarı kapalı iç boşluklarının açık olması okunurluğu olumlu yönde etkiler.<br/>II-İç boşlukları ne kadar büyükse okunurluğu artar.<br/>III-Açıklığın az olması okunurluğu arttırır.",
         "A": "Sadece I",
         "B": "II ve III",
         "C": "Sadece III",
@@ -401,7 +501,7 @@
     },
     {
         "SoruID": 3769695,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri başlık yazı karakterlerinin kullanıldığı yerler arasında <span style=\"text-decoration: underline;\"><strong>yer alır?</strong></span><br/> I-Dergi başlıkları<br/> II-Gövde metinleri<br/> III-Gazete başlıkları",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri başlık yazı karakterlerinin kullanıldığı yerler arasında <span style=\"text-decoration: underline;\"><strong>yer alır?</strong></span><br/>I-Dergi başlıkları<br/>II-Gövde metinleri<br/>III-Gazete başlıkları",
         "A": "I ve III",
         "B": "II ve III",
         "C": "Sadece III",
@@ -421,7 +521,7 @@
     },
     {
         "SoruID": 3769696,
-        "SoruMetni": "\"Bitişik yazı\" karakterlerinin kullanımıyla ilgili olarak aşağıda verilen bilgilerden hangisi ya da hangileri <span style=\"text-decoration: underline;\"><strong>doğrudur</strong>?</span><br/> I-Bitişik yazılar gövde metinlerinde kullanılmamalıdır.<br/> II-Bitişik yazılar kısa metinler olarak kullanılmalıdır.<br/> III-Bitişik yazılar; başlıklarda, davetiyelerde, karakteristik logolarda kullanılmalıdır.",
+        "SoruMetni": "\"Bitişik yazı\" karakterlerinin kullanımıyla ilgili olarak aşağıda verilen bilgilerden hangisi ya da hangileri <span style=\"text-decoration: underline;\"><strong>doğrudur</strong>?</span><br/>I-Bitişik yazılar gövde metinlerinde kullanılmamalıdır.<br/>II-Bitişik yazılar kısa metinler olarak kullanılmalıdır.<br/>III-Bitişik yazılar; başlıklarda, davetiyelerde, karakteristik logolarda kullanılmalıdır.",
         "A": "Sadece I",
         "B": "Sadece II",
         "C": "II ve III",
@@ -441,7 +541,7 @@
     },
     {
         "SoruID": 3769697,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri kelimelerin, cümlelerin ve metin bloklarının okuturluğuna katkıda bulunan ana başlıklar arasında yer alır?<br/><br/>I-Karakter ağırlığı<br/>II-Satır arası boşluklar<br/>III-Paragraflar ayrımları",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri kelimelerin, cümlelerin ve metin bloklarının okuturluğuna katkıda bulunan ana başlıklar arasında yer alır?<br/>I-Karakter ağırlığı<br/>II-Satır arası boşluklar<br/>III-Paragraflar ayrımları",
         "A": "II ve III",
         "B": "Sadece I",
         "C": "Sadece II",
@@ -457,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kelimelerin, cümlelerin ve metin bloklarının okuturluğuna katkıda bulunan ana başlıklar şunlardır:<br/>• Yazı Boyutu<br/>• Büyük ve Küçük Harfler<br/>• Harfler ve Kelimeler Arası Boşluklar<br/>• Satır Arası Boşluklar<br/>• Paragraflar Ayrımları<br/>• Satır Uzunlukları<br/>• Hizalamalar<br/>• Optik Hizalama<br/>• Renk, Kontrast ve Dişi Yazı<br/> Karakter ağırlığı okunurlukla ilgili bir unsurdur."
+        "Aciklama": "Okuturluk<br>Kelimelerin, cümlelerin ve metin bloklarının okuturluğuna katkıda bulunan ana başlıklar şunlardır:<br/>• Yazı Boyutu<br/>• Büyük ve Küçük Harfler<br/>• Harfler ve Kelimeler Arası Boşluklar<br/>• Satır Arası Boşluklar<br/>• Paragraflar Ayrımları<br/>• Satır Uzunlukları<br/>• Hizalamalar<br/>• Optik Hizalama<br/>• Renk, Kontrast ve Dişi Yazı<br/>Karakter ağırlığı okunurlukla ilgili bir unsurdur."
     },
     {
         "SoruID": 3769698,
@@ -477,16 +577,36 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları 9 ile 12 punto arasında değişmektedir."
+        "Aciklama": "Yazı boyutu<br>Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları 9 ile 12 punto arasında değişmektedir."
+    },
+    {
+        "SoruID": 3769699,
+        "SoruMetni": "İki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesine .................denmektedir.<br/>Yukarıda belirtilen boşluğa gelecek terim aşağıdaki şıklardan hangisinde verilmiştir?",
+        "A": "Paragraf girintisi",
+        "B": "Hizalama",
+        "C": "Uyumlama",
+        "D": "Kırıntılar",
+        "E": "Dişi yazı",
+        "DogruCevap": "C",
+        "DersAd": "Tipografi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.218602",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Uyumlama (Kerning), iki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesine denmektedir"
     },
     {
         "SoruID": 3770091,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Okunurluk harflerin hangi özelliğine atıfta bulunur?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Okunurluk harflerin hangi özelliğine atıfta bulunur?",
         "A": "Tasarım",
         "B": "Yükseklik",
-        "C": "<br/> <br/> <br/> <br/>Karakter Ağırlığı<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Karakter Genişliği<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Harf Çizgisi Kontrastı<br/><br/><br/><br/>",
+        "C": "<br/>Karakter Ağırlığı",
+        "D": "<br/>Karakter Genişliği",
+        "E": "<br/>Harf Çizgisi Kontrastı",
         "DogruCevap": "A",
         "DersAd": "Tipografi",
         "Unite": 8,
@@ -497,11 +617,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Okunurluk harflerin tasarımına atıfta bulunurken, okuturluk bir tasarımcının kelimeleri düzenleme biçimine atıfta bulunur.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Okunurluk harflerin tasarımına atıfta bulunurken, okuturluk bir tasarımcının kelimeleri düzenleme biçimine atıfta bulunur."
     },
     {
         "SoruID": 3770092,
-        "SoruMetni": "Aşağıdakilerden hangisi veya hangileri bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklardır?<br/> I. x- yüksekliği<br/> II. Karakter Ağırlığı<br/> III. Karakter Genişliği<br/> IV. Harf Çizgisi Kontrastı<br/> V. İç Boşluklar<br/> VI. Tırnaklı ve Tırnaksız Yazılar<br/> VII. Başlık Yazı Karakterleri<br/> VIII. Bitişik Yazılar",
+        "SoruMetni": "Aşağıdakilerden hangisi veya hangileri bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklardır?<br/>I. x- yüksekliği<br/>II. Karakter Ağırlığı<br/>III. Karakter Genişliği<br/>IV. Harf Çizgisi Kontrastı<br/>V. İç Boşluklar<br/>VI. Tırnaklı ve Tırnaksız Yazılar<br/>VII. Başlık Yazı Karakterleri<br/>VIII. Bitişik Yazılar",
         "A": "I/II/III/IV/V/VI/VII/VIII",
         "B": "I/II/III/IV",
         "C": "V/VI/VII/VIII",
@@ -517,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklar şunlardır:<br/> • x- yüksekliği<br/> • Karakter Ağırlığı<br/> • Karakter Genişliği<br/> • Harf Çizgisi Kontrastı<br/> • İç Boşluklar<br/> • Tırnaklı ve Tırnaksız Yazılar<br/> • Başlık Yazı Karakterleri<br/> • Bitişik Yazılar"
+        "Aciklama": "Bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklar şunlardır:<br/>• x- yüksekliği<br/>• Karakter Ağırlığı<br/>• Karakter Genişliği<br/>• Harf Çizgisi Kontrastı<br/>• İç Boşluklar<br/>• Tırnaklı ve Tırnaksız Yazılar<br/>• Başlık Yazı Karakterleri<br/>• Bitişik Yazılar"
     },
     {
         "SoruID": 3770093,
@@ -541,7 +661,7 @@
     },
     {
         "SoruID": 3770094,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her birine ne denir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her birine ne denir?",
         "A": "Allograf",
         "B": "Tırnaklı Serif",
         "C": "Tırnaksız Serif",
@@ -557,15 +677,15 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Allograf: Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her biridir. Örneğin büyük harf, küçük harf, italik ve bir harfin çeşitli el yazısı biçimleridir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Allograf: Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her biridir. Örneğin büyük harf, küçük harf, italik ve bir harfin çeşitli el yazısı biçimleridir."
     },
     {
         "SoruID": 3770095,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Kelimelerin, cümlelerin veya metin bloklarının ne kadar kolay tanınıp okunabileceğini ifade eden tanımın ismi nedir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Kelimelerin, cümlelerin veya metin bloklarının ne kadar kolay tanınıp okunabileceğini ifade eden tanımın ismi nedir?",
         "A": "Okuturluk",
         "B": "Okunurluk",
-        "C": "<br/> <br/> <br/> <br/>Eğik Yazılar<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Harf Çizgisi Kontrastı<br/><br/><br/><br/>",
+        "C": "<br/>Eğik Yazılar",
+        "D": "<br/>Harf Çizgisi Kontrastı",
         "E": "Karekter ağırlığı",
         "DogruCevap": "A",
         "DersAd": "Tipografi",
@@ -577,16 +697,36 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Okuturluk; kelimelerin, cümlelerin veya metin bloklarının ne kadar kolay tanınıp okunabileceğini ifade eder.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Okuturluk; kelimelerin, cümlelerin veya metin bloklarının ne kadar kolay tanınıp okunabileceğini ifade eder."
+    },
+    {
+        "SoruID": 3770096,
+        "SoruMetni": "<br/>Aşağıdakilerden hangi puntoda göz daha fazla duraklar ve okuma akışını kesintiye uğratır?",
+        "A": "20",
+        "B": "9",
+        "C": "8",
+        "D": "7",
+        "E": "11",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.220437",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<br/>12 puntodan büyük yazı boyutlarında göz daha fazla duraklar ve okuma akışını kesintiye uğratır. Bu durum okumayı rahatsız ve verimsiz hale getirebilmektedir. Daha az duraklama olduğunda ise daha fazla okuma verimliliği ve anlama vardır. Yazı boyutu 9 puntodan küçük olduğunda ise harfin okunur olma özellikleri azalabilir ve okunurluğu etkileyebilir. Yazı boyutu çok küçükse okuyucu yazıyı net bir şekilde göremeyecek ve har eri birbirinden tek tek ayırt edemeyecektir"
     },
     {
         "SoruID": 3770097,
-        "SoruMetni": "<br/> <br/> <br/> <br/>İki harf arasındaki boşluğun özel olarak ayarlanması, optik olarak dengelenmesi işlemi aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>İki harf arasındaki boşluğun özel olarak ayarlanması, optik olarak dengelenmesi işlemi aşağıdakilerden hangisidir?",
         "A": "Uyumlama",
-        "B": "<br/> <br/> <br/> <br/>Harf Arası Ayar<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Kelime Arası Espası<br/><br/><br/><br/>",
-        "D": "<br/> <br/> <br/> <br/>Paragraf Başı Girintisi<br/><br/><br/><br/>",
-        "E": "<br/> <br/> <br/> <br/>Satır Arası Boşluğu<br/><br/><br/><br/>",
+        "B": "<br/>Harf Arası Ayar",
+        "C": "<br/>Kelime Arası Espası",
+        "D": "<br/>Paragraf Başı Girintisi",
+        "E": "<br/>Satır Arası Boşluğu",
         "DogruCevap": "A",
         "DersAd": "Tipografi",
         "Unite": 8,
@@ -597,11 +737,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Uyumlama (Kerning), iki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesine denmektedir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Uyumlama (Kerning), iki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesine denmektedir."
     },
     {
         "SoruID": 3770098,
-        "SoruMetni": "Aşağıdakilerden hangisi veya hangileri paragrafları birbirinden ayırt edebilmek için en çok kullanılan yöntemlerdendir?<br/> I. Paragraf Başı Girintisi<br/> II. Satır Arası Boşluğu ile Paragraf Ayrımı<br/> III. Asılı Girinti ile Paragraf Ayrımı<br/> IV. Paragraf İşareti veya Özel İşaretler Kullanılarak Yapılan Paragraf Ayrımı",
+        "SoruMetni": "Aşağıdakilerden hangisi veya hangileri paragrafları birbirinden ayırt edebilmek için en çok kullanılan yöntemlerdendir?<br/>I. Paragraf Başı Girintisi<br/>II. Satır Arası Boşluğu ile Paragraf Ayrımı<br/>III. Asılı Girinti ile Paragraf Ayrımı<br/>IV. Paragraf İşareti veya Özel İşaretler Kullanılarak Yapılan Paragraf Ayrımı",
         "A": "I/II/III/IV",
         "B": "I/II",
         "C": "I/III",
@@ -617,11 +757,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Paragrafları birbirinden ayırt edebilmek için farklı yöntemler kullanılmaktadır. Farklı içerik türleri, paragrafları ayırt etmek için farklı yaklaşımları getirmiştir. Tasarımcılar içeriği farklı sunabilmek için çok sayıda alternatif geliştirmiştir. Paragrafları birbirinden ayırt edebilmek için en çok kullanılan yöntemlerden bazıları şu şekildedir:<br/> <ul> <li> Paragraf Başı Girintisi<br/> </li> <li> Satır Arası Boşluğu ile Paragraf Ayrımı<br/> </li> <li> Asılı Girinti ile Paragraf Ayrımı<br/> </li> <li> Paragraf İşareti veya Özel İşaretler Kullanılarak Yapılan Paragraf Ayrımı<br/> </li> </ul>"
+        "Aciklama": "Paragrafları birbirinden ayırt edebilmek için farklı yöntemler kullanılmaktadır. Farklı içerik türleri, paragrafları ayırt etmek için farklı yaklaşımları getirmiştir. Tasarımcılar içeriği farklı sunabilmek için çok sayıda alternatif geliştirmiştir. Paragrafları birbirinden ayırt edebilmek için en çok kullanılan yöntemlerden bazıları şu şekildedir:<br/><ul> <li> Paragraf Başı Girintisi<br/></li> <li> Satır Arası Boşluğu ile Paragraf Ayrımı<br/></li> <li> Asılı Girinti ile Paragraf Ayrımı<br/></li> <li> Paragraf İşareti veya Özel İşaretler Kullanılarak Yapılan Paragraf Ayrımı<br/></li> </ul>"
+    },
+    {
+        "SoruID": 3770099,
+        "SoruMetni": "<br/>Tipografik olarak metin gövdesinde, bir düşünceyi diğerinden ayırt etmek, içeriği netleştirmek ve okuyucunun kavrayışını artırmak için aşağıdakilerden hangisi uygulanır?",
+        "A": "<br/>Paragraflar Ayrımı",
+        "B": "<br/>Satır Uzunlukları",
+        "C": "<br/>Hizalamalar",
+        "D": "<br/>Optik Hizalama",
+        "E": "<br/>Renk, Kontrast ve Dişi Yazı",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.301745",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<br/>Paragraflar Ayrımları<br/>Tipografik olarak bir düşünceyi diğerinden ayırt etmek, içeriği netleştirmek ve okuyucunun kavrayışını artırmak tasarımcı için önemli bir amaçtır. Bir metin gövdesindeki paragrafların net bir şekilde ayrılması bu amacı gerçekleştirmenin bir yoludur. Bir girinti veya satır boşluğu yeni bir paragrafın başlangıcını gösterir"
     },
     {
         "SoruID": 3770100,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Koyu zeminde açık renk harflerin kullanıldığı yazı türü aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Koyu zeminde açık renk harflerin kullanıldığı yazı türü aşağıdakilerden hangisidir?",
         "A": "Dişi",
         "B": "İnce",
         "C": "Serifli",
@@ -637,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Dişi Yazı<br/><br/>Dişi (negatif) yazı koyu renk zeminde açık renk har erin kullanılmasıdır.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Dişi Yazı<br/>Dişi (negatif) yazı koyu renk zeminde açık renk har erin kullanılmasıdır."
     },
     {
         "SoruID": 3770134,
@@ -657,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karakter Ağırlığı"
+        "Aciklama": "Okunurluk<br>Karakter Ağırlığı"
     },
     {
         "SoruID": 3770135,
@@ -677,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Harf çizgilerinin kalınlığıdır"
+        "Aciklama": "Karakter Ağırlığı<br>Harf çizgilerinin kalınlığıdır"
     },
     {
         "SoruID": 3770136,
@@ -697,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Allograf olarak"
+        "Aciklama": "Tek Katlı – Çift Katlı Harfler<br>Allograf olarak"
     },
     {
         "SoruID": 3770137,
@@ -717,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Elle eğim verilmesidir"
+        "Aciklama": "Eğik Yazılar<br>Elle eğim verilmesidir"
     },
     {
         "SoruID": 3770138,
@@ -737,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bitişik yazı kulllanılan metinlerde bütün harfler büyük yazılmamalıdır"
+        "Aciklama": "Bitişik Yazılar<br>Bitişik yazı kulllanılan metinlerde bütün harfler büyük yazılmamalıdır"
     },
     {
         "SoruID": 3770139,
@@ -757,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Satır Arası Boşluklar"
+        "Aciklama": "Okuturluk<br>Satır Arası Boşluklar"
     },
     {
         "SoruID": 3770140,
@@ -777,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "16 punto"
+        "Aciklama": "Yazı Boyutu<br>16 punto"
     },
     {
         "SoruID": 3770141,
@@ -797,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesidir"
+        "Aciklama": "Uyumlama<br>İki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesidir"
     },
     {
         "SoruID": 3770142,
@@ -817,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "65 karakter"
+        "Aciklama": "Satır Uzunlukları<br>65 karakter"
     },
     {
         "SoruID": 3770143,
@@ -840,6 +1000,26 @@
         "Aciklama": "Optik hizalama"
     },
     {
+        "SoruID": 3770171,
+        "SoruMetni": "\"Okunurluk harflerin tasarımına atıfta bulunurken, ................... bir tasarımcının kelimeleri düzenleme biçimine atıfta bulunur\" Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?",
+        "A": "okuturluk",
+        "B": "yazarlık",
+        "C": "kelime",
+        "D": "metin",
+        "E": "cümle",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.351750",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Okunurluk harflerin tasarımına atıfta<br/>bulunurken, okuturluk bir tasarımcının kelimeleri<br/>düzenleme biçimine atıfta bulunur"
+    },
+    {
         "SoruID": 3770172,
         "SoruMetni": "Aşağıdakilerden hangisi bir okuyucunun metni anlamasının ne kadar kolay veya zor olduğunun ölçüsü olarak tanımlanmaktadır?",
         "A": "Cümle",
@@ -857,7 +1037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuturluk"
+        "Aciklama": "Okuturluk, bir okuyucunun metni anlamasının<br/>ne kadar kolay veya zor olduğunun ölçüsü olarak<br/>tanımlanmaktadır."
     },
     {
         "SoruID": 3770173,
@@ -877,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "satır taban çizgisinden"
+        "Aciklama": "Bir yazı karakterinin x-yüksekliği, tüm karakterlerin oturduğu satır taban çizgisinden (baseline) başlamakta<br/>ve küçük harflerin yüksekliğine kadar ulaşmaktadır"
     },
     {
         "SoruID": 3770174,
@@ -897,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Punto Boyutu"
+        "Aciklama": "Punto Boyutu (Point Size): Genellikle<br/>en yüksek üst uzantının tepesinden en alçak<br/>alt uzantının tabanına kadar olan harf<br/>ölçüsüdür."
     },
     {
         "SoruID": 3770175,
@@ -917,7 +1097,27 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "iç boşlukları"
+        "Aciklama": "Bir yazı karakterinin iç boşlukları ne kadar küçükse okunurluğu o kadar zor olabilir."
+    },
+    {
+        "SoruID": 3770176,
+        "SoruMetni": "Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her birine ne ad verilir?",
+        "A": "Allograf",
+        "B": "Punto",
+        "C": "Counter",
+        "D": "Aperture",
+        "E": "Caption",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.264961",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Allograf: Bir alfabenin bir harfinin iki veya daha fazla alternatif<br/>biçiminden her biridir. Örneğin büyük harf, küçük<br/>harf, italik ve bir harfin çeşitli el yazısı biçimleridir."
     },
     {
         "SoruID": 3770177,
@@ -937,7 +1137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Serif"
+        "Aciklama": "Tırnaklı (Serif) ve Tırnaksız (Sans Serif) Yazılar<br/>Tırnaklar, karakter çizgisinin bitiminde bulunan küçük çıkıntılardır. Tırnaksız yazı karakterlerinde ise<br/>bu çıkıntılar yoktur. Tırnaklı yazı karakterleri kullanıldığında metin bloklarının okuturluğunun daha iyi<br/>olduğuna inanılmaktadır."
     },
     {
         "SoruID": 3770178,
@@ -957,11 +1157,51 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "doygunluk"
+        "Aciklama": "Yazı tipi ve arka planı arasındaki uygun kontrast için; ton (Hue), değer<br/>(Value) ve doygunluk (Saturation) olmak üzere üç temel renk özelliğini dikkate almanız gerekmektedir.<br/>Ton rengin derecesini, değer bir rengin açıklığını veya koyuluğunu, doygunluk ise bir rengin yoğunluğu ve<br/>görece parlaklığını ifade etmektedir (Carter, 2014)."
+    },
+    {
+        "SoruID": 3770179,
+        "SoruMetni": "Yazı koyu renk zeminde açık renk harflerin kullanılmasına ne ad verilir?",
+        "A": "Simultane",
+        "B": "Complementary",
+        "C": "pozitif yazı",
+        "D": "negatif yazı",
+        "E": "tipografik yazı",
+        "DogruCevap": "D",
+        "DersAd": "Tipografi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.307119",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Dişi (negatif ) yazı koyu renk zeminde açık renk harflerin kullanılmasıdır. Uzun metinlerde dişi yazı<br/>kulanılması okuturluğu zorlaştırmaktadır. İnce ve tırnaklı yazı karakterleri küçük puntolar ile kullanıldıklarında<br/>kopmalara maruz kalabilirler. Bu yüzden daha kalın hatlara sahip yazı karakterleri seçmek gerekmektedir.<br/>Küçük puntolarda mürekkebin şişme yapacağı göz önünde bulundurularak daha açık harf arası<br/>espas değeri kullanmak gerekmektedir (Başer Nejat, 2017).<br>negatif yazı"
+    },
+    {
+        "SoruID": 3770180,
+        "SoruMetni": "Metni dikey bir kenar boyunca kusursuz hizalayabilmemiz için hangi hizalamaya ihtiyaç duyulmaktadır?",
+        "A": "Justified",
+        "B": "Align Left",
+        "C": "Align Right",
+        "D": "Simetrik",
+        "E": "optik",
+        "DogruCevap": "E",
+        "DersAd": "Tipografi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.330324",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Metni dikey bir kenar boyunca kusursuz hizalayabilmemiz için optik hizalamaya ihtiyaç duyulmaktadır.<br/>Optik hizalama (Optical aligment), hafif girintili görünen belirli karakterlerin kenar boşluğuna itilmesine<br/>olanak tanımaktadır. Büyük A, T, V, W harfleri ve 1 rakamı gibi belirli karakterler bir satırın başına<br/>yerleştirildiğinde sola doğru hafif girinti verilmesi gerekmektedir. Bazı karakterler dikey hizalama noktasının<br/>biraz soluna ya da sağına yeniden konumlandırılmalıdır."
     },
     {
         "SoruID": 3770206,
-        "SoruMetni": "Aşağıda hangisi ya da hangileri bir yazı karakterinin okunurluğuna katkıda bu­lunan ana başlıklar arasında yer alır?<br/> I- İç boşluklar<br/> II-Paragraf sayısı<br/> III-Bitişik Yazılar",
+        "SoruMetni": "Aşağıda hangisi ya da hangileri bir yazı karakterinin okunurluğuna katkıda bu­lunan ana başlıklar arasında yer alır?<br/>I- İç boşluklar<br/>II-Paragraf sayısı<br/>III-Bitişik Yazılar",
         "A": "Sadece II",
         "B": "I ve III",
         "C": "II ve III",
@@ -977,11 +1217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir yazı karakterinin okunurluğuna katkıda bu­lunan ana başlıklar şunlardır:<br/> <ul> <li>x- yüksekliği</li> <li>Karakter Ağırlığı</li> <li>Karakter Genişliği</li> <li>Harf Çizgisi Kontrastı</li> <li>İç Boşluklar</li> <li>Tırnaklı ve Tırnaksız Yazılar</li> <li>Başlık Yazı Karakterleri</li> <li>Bitişik Yazılar</li> </ul>"
+        "Aciklama": "Okunurluk<br>Bir yazı karakterinin okunurluğuna katkıda bu­lunan ana başlıklar şunlardır:<br/><ul> <li>x- yüksekliği</li> <li>Karakter Ağırlığı</li> <li>Karakter Genişliği</li> <li>Harf Çizgisi Kontrastı</li> <li>İç Boşluklar</li> <li>Tırnaklı ve Tırnaksız Yazılar</li> <li>Başlık Yazı Karakterleri</li> <li>Bitişik Yazılar</li> </ul>"
     },
     {
         "SoruID": 3770207,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri karakter ağırlığına etki eden unsurlar arasında yer alır? <br/> I- Karakterinin nerede kullanılacağı<br/> II-Karakter genişliği<br/> III-Tasarım alanı",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri karakter ağırlığına etki eden unsurlar arasında yer alır? <br/>I- Karakterinin nerede kullanılacağı<br/>II-Karakter genişliği<br/>III-Tasarım alanı",
         "A": "Sadece I",
         "B": "Sadece III",
         "C": "I ve III",
@@ -1001,7 +1241,7 @@
     },
     {
         "SoruID": 3770208,
-        "SoruMetni": "Yazı karakterinin boşluklarının etkileri bakımından aşağıdakilerden hangisi ya da hangilerinin okunurluğu<span style=\"text-decoration: underline;\"><strong> arttırdığı</strong> </span>söylenebilir? <br/><br/>I-İç boşlukların büyük olması<br/><br/>II-İç boşlukların küçük olması<br/><br/>III-Çok kalın ağırlıkların kullanılması",
+        "SoruMetni": "Yazı karakterinin boşluklarının etkileri bakımından aşağıdakilerden hangisi ya da hangilerinin okunurluğu<span style=\"text-decoration: underline;\"><strong> arttırdığı</strong> </span>söylenebilir? <br/>I-İç boşlukların büyük olması<br/>II-İç boşlukların küçük olması<br/>III-Çok kalın ağırlıkların kullanılması",
         "A": "Sadece II",
         "B": "Sadece III",
         "C": "I ve III",
@@ -1021,7 +1261,7 @@
     },
     {
         "SoruID": 3770209,
-        "SoruMetni": "Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her birine…………adı verilir. <br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her birine…………adı verilir. <br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
         "A": "Punto Boyutu",
         "B": "Tırnaksız Yazı",
         "C": "Karakter Ağırlığı",
@@ -1037,7 +1277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her birine Allograf adı verilir."
+        "Aciklama": "Tek Katlı – Çift Katlı Harfler<br>Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her birine Allograf adı verilir."
     },
     {
         "SoruID": 3770210,
@@ -1057,11 +1297,51 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bitişik yazılar (Script)  kolayca okunması, net bir şekilde anlaşılması gereken gövde metinlerinde okuturluk açısından iyi bir seçim değildir, bitişik yazılar gövde metinlerinde kullanılmamalıdır. Bitişik yazılar; gösterişli başlıklarda, davetiyelerde, karakteristik logolarda veya zarif markalamalarda kısa metinler olarak kullanılmalıdır."
+        "Aciklama": "Bitişik yazılar (Script) kolayca okunması, net bir şekilde anlaşılması gereken gövde metinlerinde okuturluk açısından iyi bir seçim değildir, bitişik yazılar gövde metinlerinde kullanılmamalıdır. Bitişik yazılar; gösterişli başlıklarda, davetiyelerde, karakteristik logolarda veya zarif markalamalarda kısa metinler olarak kullanılmalıdır."
+    },
+    {
+        "SoruID": 3770211,
+        "SoruMetni": "Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları hangi punto aralıkları arasında değişmektedir?",
+        "A": "3-6 punto",
+        "B": "2-5 punto",
+        "C": "14-24 punto",
+        "D": "9-12 punto",
+        "E": "14-28 punto",
+        "DogruCevap": "D",
+        "DersAd": "Tipografi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.346724",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Yazı boyutu<br>Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları 9 ile 12 punto arasında değişmektedir."
+    },
+    {
+        "SoruID": 3770212,
+        "SoruMetni": "Başlık yazıları hangi punto aralıkları arasındadır?",
+        "A": "24 punto ve üzeri",
+        "B": "9-12 punto",
+        "C": "14-24 punto",
+        "D": "3-6 punto",
+        "E": "6-8 punto",
+        "DogruCevap": "A",
+        "DersAd": "Tipografi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.348499",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Yazı boyutu<br>Karakterler, tasarım amaçlarına uygun olarak kullanıldıkları punto büyüklüklerine göre aşağıdaki şekilde sınıflandırılmaktadır:<br/>Başlık (Display) 24 pt ve üzeri,<br/>Alt başlık (Subhead) 14 pt – 24 pt<br/>Gövde metni (Body copy) 9 pt – 14 pt<br/>Alt yazı (Caption) 6 pt – 8 pt (Cullen, 2012)."
     },
     {
         "SoruID": 3770213,
-        "SoruMetni": "İki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak denge­lenmesine ……………….denmektedir.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "İki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak denge­lenmesine ……………….denmektedir.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
         "A": "Karakter Ağırlığı",
         "B": "Uyumlama (Kerning)",
         "C": "X-Yüksekliği",
@@ -1081,7 +1361,7 @@
     },
     {
         "SoruID": 3770214,
-        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri paragrafları birbirinden ayırt edebilmek için kullanılan yöntemler arasında yer alır?<br/> I-Paragraf başı girintisi ile paragraf ayrımı<br/> II- Satır arası boşluğu ile paragraf ayrımı<br/> III-Asılı girinti ile paragraf ayrımı",
+        "SoruMetni": "Aşağıdakilerden hangisi ya da hangileri paragrafları birbirinden ayırt edebilmek için kullanılan yöntemler arasında yer alır?<br/>I-Paragraf başı girintisi ile paragraf ayrımı<br/>II- Satır arası boşluğu ile paragraf ayrımı<br/>III-Asılı girinti ile paragraf ayrımı",
         "A": "Sadece I",
         "B": "II ve III",
         "C": "I ve III",
@@ -1097,7 +1377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Paragrafları birbirinden ayırt edebilmek için en çok kullanılan yöntemlerden bazıları şu şekildedir:<br/> <ul> <li>Paragraf Başı Girintisi</li> <li>Satır Arası Boşluğu ile Paragraf Ayrımı</li> <li>Asılı Girinti ile Paragraf Ayrımı</li> <li>Paragraf İşareti veya Özel İşaretler Kullanılarak Yapılan Paragraf Ayrımı</li> </ul>"
+        "Aciklama": "Paragraf ayrımları<br>Paragrafları birbirinden ayırt edebilmek için en çok kullanılan yöntemlerden bazıları şu şekildedir:<br/><ul> <li>Paragraf Başı Girintisi</li> <li>Satır Arası Boşluğu ile Paragraf Ayrımı</li> <li>Asılı Girinti ile Paragraf Ayrımı</li> <li>Paragraf İşareti veya Özel İşaretler Kullanılarak Yapılan Paragraf Ayrımı</li> </ul>"
     },
     {
         "SoruID": 3770215,
@@ -1117,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Genel olarak kabul edilen standart, satır başına yaklaşık 45-75 karakterdir (kelime boşlukları dahil),<br/>80 karaktere gidebilir ancak bu seçilen yazı karakterine bağlıdır. Genel olarak x-yüksekliği küçük olan<br/>yazı karakteri için maksimum satır uzunluğu yaklaşık 65 karakterdir."
+        "Aciklama": "satır Uzunlukları<br>Genel olarak kabul edilen standart, satır başına yaklaşık 45-75 karakterdir (kelime boşlukları dahil),<br/>80 karaktere gidebilir ancak bu seçilen yazı karakterine bağlıdır. Genel olarak x-yüksekliği küçük olan<br/>yazı karakteri için maksimum satır uzunluğu yaklaşık 65 karakterdir."
     },
     {
         "SoruID": 3770216,
@@ -1141,7 +1421,7 @@
     },
     {
         "SoruID": 3770217,
-        "SoruMetni": "Yazı karakter çizgisinin bitiminde bulunan küçük çıkıntılara ne ad verilmektedir?",
+        "SoruMetni": "Yazı karakter çizgisinin bitiminde bulunan küçük çıkıntılara ne ad verilmektedir?",
         "A": "Kırıntı",
         "B": "Tırnak",
         "C": "Allograf",
@@ -1161,7 +1441,7 @@
     },
     {
         "SoruID": 3770218,
-        "SoruMetni": "\"...................... yazı karakterlerinde bazı harfler tekrar tasarlanırken ................. yazı karakterlerinde ise harflere sadece eğim verilmektedir.\"<br/> Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangileri sırasıyla ve doğru şekilde tamamlar?",
+        "SoruMetni": "\"...................... yazı karakterlerinde bazı harfler tekrar tasarlanırken ................. yazı karakterlerinde ise harflere sadece eğim verilmektedir.\"<br/>Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangileri sırasıyla ve doğru şekilde tamamlar?",
         "A": "İtalik/Oblik",
         "B": "Oblik/İtalik",
         "C": "Serif/Sans Serif",
@@ -1180,8 +1460,28 @@
         "Aciklama": "\"<strong>İtalik</strong> yazı karakterlerinde bazı harfler tekrar tasarlanırken <strong>Oblik</strong> yazı karakterlerinde ise harflere sadece eğim verilmektedir\" (s.225). Buna göre cevap a seçeneğidir."
     },
     {
+        "SoruID": 3770219,
+        "SoruMetni": "I- Davetiye<br/>II- Karakteristik Logo<br/>III- Gövde Metni<br/>IV- Gösterişli Başlık<br/>Bitişik yazıların yukarıdaki maddelerde belirtilen hangi yerlerde kullanılması doğru olur?",
+        "A": "I ve II",
+        "B": "I ve IV",
+        "C": "I, II, III",
+        "D": "I, II, IV",
+        "E": "I, II, III, IV",
+        "DogruCevap": "D",
+        "DersAd": "Tipografi",
+        "Unite": 8,
+        "Somestre": "2",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:09:22.332052",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "\"...bitişik yazılar <strong>gövde metinlerinde</strong> kullanılmamalıdır. Bitişik yazılar; <strong>gösterişli başlıklarda, davetiyelerde, karakteristik logolarda</strong> veya zarif markalamalarda kısa metinler olarak kullanılmalıdır (Adams vd., 2012)\" (s.226).<br/>Buna göre cevap d seçeneğidir."
+    },
+    {
         "SoruID": 3770220,
-        "SoruMetni": "Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları ....... punto arasında değişmektedir.<br/> Yukarıdaki cümlede boş bırakılan yeri seçeneklerden hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları ....... punto arasında değişmektedir.<br/>Yukarıdaki cümlede boş bırakılan yeri seçeneklerden hangisi doğru şekilde tamamlar?",
         "A": "7 ile 10",
         "B": "8 ile 11",
         "C": "9 ile 12",
@@ -1201,7 +1501,7 @@
     },
     {
         "SoruID": 3770221,
-        "SoruMetni": "I- Küçük harfler şekil çeşitliliği açısından daha zengindir.<br/> II-  Düzensiz kelime biçimi küçük harfleri daha az tanınır kılmaktadır.<br/> III-Küçük harflerin iç boşluk açıklıkları metinde okuturluğu azaltmaktadır.<br/> IV- Küçük harflerle yazılan kelimeler, büyük harflerle yazılanlardan daha okuturdur.<br/> Küçük harflere ilişkin yukarıdaki ifadelerden hangileri doğrudur?",
+        "SoruMetni": "I- Küçük harfler şekil çeşitliliği açısından daha zengindir.<br/>II- Düzensiz kelime biçimi küçük harfleri daha az tanınır kılmaktadır.<br/>III-Küçük harflerin iç boşluk açıklıkları metinde okuturluğu azaltmaktadır.<br/>IV- Küçük harflerle yazılan kelimeler, büyük harflerle yazılanlardan daha okuturdur.<br/>Küçük harflere ilişkin yukarıdaki ifadelerden hangileri doğrudur?",
         "A": "I ve II",
         "B": "I ve IV",
         "C": "II ve III",
@@ -1212,16 +1512,16 @@
         "Unite": 8,
         "Somestre": "2",
         "DogruCevapSirasi": null,
-        "OlusturmaTarihi": "2025-12-01T03:21:03.921286",
+        "OlusturmaTarihi": "2025-12-01T04:16:30.314076",
         "GelYer": 0,
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"<strong>Küçük harflerle yazılan kelimeler, tamamı büyük harflerle yazılan kelimelerden daha okuturdur</strong>, <strong>Küçük harfler şekil çeşitliliği açısından daha zengindi</strong>r ve <strong>düzensiz kelime biçimi küçük harfleri <span style=\"text-decoration: underline;\">daha tanınır</span> kılmaktadır</strong>. Küçük harflerin üst uzantıları ve alt uzantıları tatmin edici kontrastlar sağlamaktadır. Ayrıca <strong>küçük harflerin sahip olduğu iç boşluk açıklıkları </strong>ve çift katlı karakterler<strong> metinde okuturluğu <span style=\"text-decoration: underline;\">arttırmaktadır</span></strong>.\" (s.230). Buna göre cevap b seçeneğidir."
+        "Aciklama": "\"<strong>Küçük harflerle yazılan kelimeler, tamamı büyük harflerle yazılan kelimelerden daha okuturdur</strong>, <strong>Küçük harfler şekil çeşitliliği açısından daha zengindi</strong>r ve <strong>düzensiz kelime biçimi küçük harfleri <span style=\"text-decoration: underline;\">daha tanınır</span> kılmaktadır</strong>. Küçük harflerin üst uzantıları ve alt uzantıları tatmin edici kontrastlar sağlamaktadır. Ayrıca <strong>küçük harflerin sahip olduğu iç boşluk açıklıkları </strong>ve çift katlı karakterler<strong> metinde okuturluğu <span style=\"text-decoration: underline;\">arttırmaktadır</span></strong>.\" (s.230). Buna göre cevap b seçeneğidir."
     },
     {
         "SoruID": 3770222,
-        "SoruMetni": "\"........................., iki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesine denmektedir\"<br/> Yukarıdaki cümlede yer boşluğu aşağıdakilerden hangisi doğru tamamlar?",
+        "SoruMetni": "\"........................., iki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesine denmektedir\"<br/>Yukarıdaki cümlede yer boşluğu aşağıdakilerden hangisi doğru tamamlar?",
         "A": "Optik Hizalama",
         "B": "Tireleme",
         "C": "Uyumlama",
@@ -1241,7 +1541,7 @@
     },
     {
         "SoruID": 3770223,
-        "SoruMetni": "\"............................, kelime, satır veya tüm paragraftaki karakterler arasındaki boşluğun eşit değerde azaltılması veya artırılmasıdır\".<br/><br/>Yukarıdaki cümlede yer alan boşluğu aşağıdakilerden hangisi doğru tamamlar?",
+        "SoruMetni": "\"............................, kelime, satır veya tüm paragraftaki karakterler arasındaki boşluğun eşit değerde azaltılması veya artırılmasıdır\".<br/>Yukarıdaki cümlede yer alan boşluğu aşağıdakilerden hangisi doğru tamamlar?",
         "A": "Optik Hizalama",
         "B": "Uyumlama",
         "C": "Harf Arası Ayarı",
@@ -1261,7 +1561,7 @@
     },
     {
         "SoruID": 3770224,
-        "SoruMetni": "Aşağıdakilerden hangisinde kelimeler arasında oluşan beyaz boşluklardan dolayı nehirler (river) meydana gelebilir?",
+        "SoruMetni": "Aşağıdakilerden hangisinde kelimeler arasında oluşan beyaz boşluklardan dolayı nehirler (river) meydana gelebilir?",
         "A": "Sağlı-sollu hizalanmış metinler",
         "B": "Ortalı hizalı metinler",
         "C": "Sağa hizalı metinler",

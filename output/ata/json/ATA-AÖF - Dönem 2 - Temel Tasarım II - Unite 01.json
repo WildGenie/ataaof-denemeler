@@ -8,26 +8,27 @@
         "D": "Hareketlerimizin temel dayanaklarından biridir.",
         "E": "İnsan, boşluk içerisinde varlık kazanır.",
         "DogruCevap": "C",
-        "DersAd": "Temel Tasarım II ",
-        "Somestre": 0,
+        "DersAd": "Temel Tasarım II",
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 310718,
-        "SoruMetni": "Boş alan, …………. değildir. Boş olan bir alandır, bir mekândır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Boş alan, …………. değildir. Boş olan bir alandır, bir mekândır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "görsel öge",
         "B": "renk",
         "C": "zemin",
         "D": "arka plan",
         "E": "boşluk",
         "DogruCevap": "E",
-        "DersAd": "Temel Tasarım II ",
+        "DersAd": "Temel Tasarım II",
         "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 310719,
@@ -46,26 +48,27 @@
         "D": "Grafik ögelerin vurgusunu güçlendirmez.",
         "E": "Tasarıma göre değişkenlik göstermez.",
         "DogruCevap": "B",
-        "DersAd": "Temel Tasarım II ",
-        "Somestre": 0,
+        "DersAd": "Temel Tasarım II",
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 310722,
-        "SoruMetni": "………………..….., bir bakıma logonun yakın planda yer alacak diğer tasarım ögeleriyle olan ilişkisinde boşluğun önemine dikkat çekmektedir.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "………………..….., bir bakıma logonun yakın planda yer alacak diğer tasarım ögeleriyle olan ilişkisinde boşluğun önemine dikkat çekmektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Logo korunmuş alanı",
         "B": "Logo arka planı",
         "C": "Logo katmanlı yapı",
         "D": "Logo zemini",
         "E": "Logo sınırları",
         "DogruCevap": "A",
-        "DersAd": "Temel Tasarım II ",
+        "DersAd": "Temel Tasarım II",
         "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
@@ -73,7 +76,8 @@
         "GelYer": 1,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 310723,
@@ -84,7 +88,7 @@
         "D": "Tasarımcının hayal gücüne bağlı olarak farklılık gösterebilir.",
         "E": "Bir tasarımdaki boşluğun kendine ait tasarım dili yoktur.",
         "DogruCevap": "E",
-        "DersAd": "Temel Tasarım II ",
+        "DersAd": "Temel Tasarım II",
         "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 310724,
@@ -103,15 +108,16 @@
         "D": "Sonsuz bir deneme ve bakış açısı",
         "E": "Sınırsız bir boşluk",
         "DogruCevap": "D",
-        "DersAd": "Temel Tasarım II ",
-        "Somestre": 0,
+        "DersAd": "Temel Tasarım II",
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 310725,
@@ -122,7 +128,7 @@
         "D": "Tasarım düşüncesinin doğru bir şekilde ifade edilmesi açısından önemlidir.",
         "E": "Tüm tasarım yüzeyi ve aynı zamanda tasarım ürünün yer aldığı mekânı kapsayan bir kavramdır.",
         "DogruCevap": "A",
-        "DersAd": "Temel Tasarım II ",
+        "DersAd": "Temel Tasarım II",
         "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
@@ -130,7 +136,8 @@
         "GelYer": 1,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 313762,
@@ -141,34 +148,36 @@
         "D": "Tasarımın temelini teşkil etmektedir.",
         "E": "Tasarımcının öznel anlatım dilini yansıtır.",
         "DogruCevap": "C",
-        "DersAd": "Temel Tasarım II ",
-        "Somestre": 0,
+        "DersAd": "Temel Tasarım II",
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 313764,
-        "SoruMetni": "Boşlukta var olan her tasarım …….........., aynı zamanda boşluğun tasarlanacağı bir yüzeye ihtiyaç duymaktadır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Boşlukta var olan her tasarım …….........., aynı zamanda boşluğun tasarlanacağı bir yüzeye ihtiyaç duymaktadır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "rengi",
         "B": "fikri",
         "C": "formu",
         "D": "sınırı",
         "E": "katmanı",
         "DogruCevap": "B",
-        "DersAd": "Temel Tasarım II ",
-        "Somestre": 0,
+        "DersAd": "Temel Tasarım II",
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 313765,
@@ -179,53 +188,56 @@
         "D": "İnsan, boşlukta var olan bir alan içermez.",
         "E": "Boşluk, varlık alanını temsil eden sonsuzluğun kendisidir.",
         "DogruCevap": "E",
-        "DersAd": "Temel Tasarım II ",
-        "Somestre": 0,
+        "DersAd": "Temel Tasarım II",
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 313766,
-        "SoruMetni": "I. Tasarımın sınırları<br/> <br/>II. Ön plan<br> <br/>III. Katman<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri boşluğun tasarlanmasını etkileyen temel unsurlar arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Tasarımın sınırları<br/>II. Ön plan<br/>III. Katman<br/><strong>Yukarıdakilerden hangisi ya da hangileri boşluğun tasarlanmasını etkileyen temel unsurlar arasında yer alır?</strong></br></br>",
         "A": "Yalnız II",
         "B": "I ve II",
         "C": "Yalnız I",
         "D": "I, II ve III",
         "E": "I ve III",
         "DogruCevap": "C",
-        "DersAd": "Temel Tasarım II ",
-        "Somestre": 0,
+        "DersAd": "Temel Tasarım II",
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 313767,
-        "SoruMetni": "Bir ……………….….. açısından karşılıklı iki sayfada kaç görsel ögeye yer verileceği, boşluğun tasarlanması açısından değer taşımaktadır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Bir ……………….….. açısından karşılıklı iki sayfada kaç görsel ögeye yer verileceği, boşluğun tasarlanması açısından değer taşımaktadır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "logo tasarımı",
         "B": "kurumsal kimlik",
         "C": "afiş tasarımı",
         "D": "kitap tasarımı",
         "E": "ambalaj tasarımı",
         "DogruCevap": "D",
-        "DersAd": "Temel Tasarım II ",
-        "Somestre": 0,
+        "DersAd": "Temel Tasarım II",
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 313768,
@@ -236,7 +248,7 @@
         "D": "Steven Heller",
         "E": "Milton Glaser",
         "DogruCevap": "B",
-        "DersAd": "Temel Tasarım II ",
+        "DersAd": "Temel Tasarım II",
         "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 313769,
@@ -255,7 +268,7 @@
         "D": "Boş yüzeylerin varlığı ve yokluğu tasarımda bir anlam ifade edebilir.",
         "E": "Boş yüzeylerin varlığı ve yokluğu tasarımda bir anlam ifade etmez.",
         "DogruCevap": "E",
-        "DersAd": "Temel Tasarım II ",
+        "DersAd": "Temel Tasarım II",
         "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 1,
@@ -263,7 +276,8 @@
         "GelYer": 2,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 313770,
@@ -274,15 +288,16 @@
         "D": "Tasarımcının iletmek istediği mesaja göre farklılık göstermez.",
         "E": "Tasarımda sadece içeriği kapsar.",
         "DogruCevap": "A",
-        "DersAd": "Temel Tasarım II ",
-        "Somestre": 0,
+        "DersAd": "Temel Tasarım II",
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 346679,
@@ -293,15 +308,16 @@
         "D": "Tasarımcı açısından yeni görsel dillerin/tavırların oluşmasını etkiler.",
         "E": "Görsel hiyerarşi açısından iyi organize olmuş yüzey/yüzeyler bütünüdür.",
         "DogruCevap": "C",
-        "DersAd": "Temel Tasarım II ",
-        "Somestre": 0,
+        "DersAd": "Temel Tasarım II",
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 346688,
@@ -312,15 +328,16 @@
         "D": "Tasarımdaki boşluk anlayışı, her bir tasarım ürününün bir diğeriyle olan farklılığında belirleyici rol oynamaktadır.",
         "E": "Her bir grafik öge kadar boşluğunda kendine ait bir tasarım dili vardır.",
         "DogruCevap": "B",
-        "DersAd": "Temel Tasarım II ",
-        "Somestre": 0,
+        "DersAd": "Temel Tasarım II",
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 346690,
@@ -331,15 +348,16 @@
         "D": "Canlının var olabilmesi için gereken zemin/boşluk; atmosferik, mevsimsel, su ve oksijene dayalı bir alt zemin ve boşluk içermelidir.",
         "E": "Canlı ve cansız varlıkların üzerinde yükseldiği ve var olduğu esas zemin boşluğun ta kendisidir.",
         "DogruCevap": "C",
-        "DersAd": "Temel Tasarım II ",
-        "Somestre": 0,
+        "DersAd": "Temel Tasarım II",
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 346855,
@@ -350,14 +368,15 @@
         "D": "Tasarımda boşluğa gerek yoktur.",
         "E": "Boşluk anlayışı, tasarımcının yaratıcı düşünmeye bağlı olarak tasarım sürecinin her aşamasına yansır.",
         "DogruCevap": "D",
-        "DersAd": "Temel Tasarım II ",
-        "Somestre": 0,
+        "DersAd": "Temel Tasarım II",
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 1,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 478,
         "OBSDersId": 82513,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     }
 ]

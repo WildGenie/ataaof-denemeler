@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Öğrenme Yönetim Sistemi (ÖYS): öğrenme sürecinin planlanmasını ve yönetimini sağlayan, öğrenme deneyimini zenginleştiren yazılımlardır."
+        "Aciklama": "Öğrenme Yönetim Sistemi (ÖYS): öğrenme sürecinin planlanmasını ve yönetimini sağlayan, öğrenme deneyimini zenginleştiren yazılımlardır."
     },
     {
         "SoruID": 3863507,
-        "SoruMetni": "I. öğretene içerik geliştirme ve öğretim sürecini planlama olanağı sunar.<br/> II. Öğrenenlerin öğretenle ve birbirleriyle olan etkileşimini artırmak için tartışma, sohbet ve eş zamanlı oturumlar gibi olanaklar sağlar.<br/> III. Öğretenin ders içi etkileşim için öğrenenlere hızlı ve bireysel geri bildirim verebilmesini kolaylaştırır.<br/> IV. ÖYS’ler dijital öğrenme kaynakları olmaması nedeniyle eğitim materyallerindeki maliyeti artırır.<br/> Yukarıda ders tasarımı sırasında Öğrenme Yönetim Sistemleri için söylenenlerden hangileri doğrudur?",
+        "SoruMetni": "I. öğretene içerik geliştirme ve öğretim sürecini planlama olanağı sunar.<br/>II. Öğrenenlerin öğretenle ve birbirleriyle olan etkileşimini artırmak için tartışma, sohbet ve eş zamanlı oturumlar gibi olanaklar sağlar.<br/>III. Öğretenin ders içi etkileşim için öğrenenlere hızlı ve bireysel geri bildirim verebilmesini kolaylaştırır.<br/>IV. ÖYS’ler dijital öğrenme kaynakları olmaması nedeniyle eğitim materyallerindeki maliyeti artırır.<br/>Yukarıda ders tasarımı sırasında Öğrenme Yönetim Sistemleri için söylenenlerden hangileri doğrudur?",
         "A": "I ve ıI",
         "B": "I, II ve III",
         "C": "I, II ve IV",
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "I. öğretene içerik geliştirme ve öğretim sürecini planlama olanağı sunar.<br/> II. Öğrenenlerin öğretenle ve birbirleriyle olan etkileşimini artırmak için tartışma, sohbet ve eş zamanlı oturumlar gibi olanaklar sağlar.<br/> III. Öğretenin ders içi etkileşim için öğrenenlere hızlı ve bireysel geri bildirim verebilmesini kolaylaştırır.<br/> IV. ÖYS’ler dijital öğrenme kaynakları olması nedeniyle eğitim materyallerindeki maliyeti azaltır."
+        "Aciklama": "I. öğretene içerik geliştirme ve öğretim sürecini planlama olanağı sunar.<br/>II. Öğrenenlerin öğretenle ve birbirleriyle olan etkileşimini artırmak için tartışma, sohbet ve eş zamanlı oturumlar gibi olanaklar sağlar.<br/>III. Öğretenin ders içi etkileşim için öğrenenlere hızlı ve bireysel geri bildirim verebilmesini kolaylaştırır.<br/>IV. ÖYS’ler dijital öğrenme kaynakları olması nedeniyle eğitim materyallerindeki maliyeti azaltır."
     },
     {
         "SoruID": 3863508,
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3863512,
-        "SoruMetni": "I. Yönlendirme ve Kontrol<br/> II. Sınırlı Öğrenme Hızı<br/> III. Düzenli Değerlendirme<br/> Yukarıdakilerden hangisi yada hangileri Rehber gözetimli öğrenme özellikleri arasındadır?",
+        "SoruMetni": "I. Yönlendirme ve Kontrol<br/>II. Sınırlı Öğrenme Hızı<br/>III. Düzenli Değerlendirme<br/>Yukarıdakilerden hangisi yada hangileri Rehber gözetimli öğrenme özellikleri arasındadır?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3863513,
-        "SoruMetni": "I. Hız ve Esneklik<br/> II. Özgür ilerleme<br/> III. Kişiselleştirilmiş Değerlendirme<br/> IV. Uzaktan Eğitim<br/> Yukarıdakilerden hangileri Kendi hızında öğrenme özellikleri arasındadır?",
+        "SoruMetni": "I. Hız ve Esneklik<br/>II. Özgür ilerleme<br/>III. Kişiselleştirilmiş Değerlendirme<br/>IV. Uzaktan Eğitim<br/>Yukarıdakilerden hangileri Kendi hızında öğrenme özellikleri arasındadır?",
         "A": "I ve II",
         "B": "I, II ve IV",
         "C": "II, III ve IV",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3863514,
-        "SoruMetni": "I• Ders hedeflerini öğrenenlerin ihtiyaçlarını ve hedeflerini göz önünde bulundurarak belirlemek.<br/> II• Öğrenenlerin aktif olarak katılmalarını ve öğrenmeye katkıda bulunmalarını sağlayacak şekilde ders etkinlikleri tasarlamak.<br/> III• Öğrenenlerin öğrenmelerini geliştirmek için geri bildirim toplamak ve kullanmak.<br/> IV• Öğrenmeyi geliştirmek için öğrenme sürecine teknolojiyi entegre etmek.<br/> Yukarıdakilerden hangileri Ders planlama sürecinde öğrenen deneyimi tasarımına odaklanmanın yolları arasında sayılmaktadır?",
+        "SoruMetni": "I• Ders hedeflerini öğrenenlerin ihtiyaçlarını ve hedeflerini göz önünde bulundurarak belirlemek.<br/>II• Öğrenenlerin aktif olarak katılmalarını ve öğrenmeye katkıda bulunmalarını sağlayacak şekilde ders etkinlikleri tasarlamak.<br/>III• Öğrenenlerin öğrenmelerini geliştirmek için geri bildirim toplamak ve kullanmak.<br/>IV• Öğrenmeyi geliştirmek için öğrenme sürecine teknolojiyi entegre etmek.<br/>Yukarıdakilerden hangileri Ders planlama sürecinde öğrenen deneyimi tasarımına odaklanmanın yolları arasında sayılmaktadır?",
         "A": "I ve III",
         "B": "I, II ve III",
         "C": "I, II ve IV",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 3863516,
-        "SoruMetni": "I. İnteraktif ve Etkileşimli Tasarım<br/> II. Uyarlanabilirlik ve Erişilebilirlik<br/> III. Topluluk ve İletişim<br/> IV. Teknoloji Kullanma Becerisi<br/> Yukarıdakilerden hangileri Uzaktan eğitim bağlamında öğrenen deneyimi tasarımında üzerinde durulan bazı önemli noktalardandır?",
+        "SoruMetni": "I. İnteraktif ve Etkileşimli Tasarım<br/>II. Uyarlanabilirlik ve Erişilebilirlik<br/>III. Topluluk ve İletişim<br/>IV. Teknoloji Kullanma Becerisi<br/>Yukarıdakilerden hangileri Uzaktan eğitim bağlamında öğrenen deneyimi tasarımında üzerinde durulan bazı önemli noktalardandır?",
         "A": "I ve II",
         "B": "II ve III",
         "C": "I, II ve III",
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uzaktan eğitim bağlamında öğrenen deneyimi tasarımında üzerinde durulan bazı önemli noktalar<br/> I. İnteraktif ve Etkileşimli Tasarım<br/> II. Uyarlanabilirlik ve Erişilebilirlik<br/> III. Topluluk ve İletişim<br/> IV. Teknoloji Kullanma Becerisi<br/> V. Çeşitli Medya ve Kaynak Kullanımı<br/> VI. Geri bildirim ve Değerlendirme"
+        "Aciklama": "Uzaktan eğitim bağlamında öğrenen deneyimi tasarımında üzerinde durulan bazı önemli noktalar<br/>I. İnteraktif ve Etkileşimli Tasarım<br/>II. Uyarlanabilirlik ve Erişilebilirlik<br/>III. Topluluk ve İletişim<br/>IV. Teknoloji Kullanma Becerisi<br/>V. Çeşitli Medya ve Kaynak Kullanımı<br/>VI. Geri bildirim ve Değerlendirme"
     }
 ]

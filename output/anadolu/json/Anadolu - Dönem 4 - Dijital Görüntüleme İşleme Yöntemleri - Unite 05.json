@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Generatif sanat, kısmen veya tamamen özerk bir sistem aracılığıyla üretilen sanatı ifade eder."
+        "Aciklama": "Giriş<br>Generatif sanat, kısmen veya tamamen özerk bir sistem aracılığıyla üretilen sanatı ifade eder."
     },
     {
         "SoruID": 3488803,
-        "SoruMetni": "I. NFT'ler<br/> II. Mobil cihaz<br/> III. Windows işletim sistemi<br/> IV. Görsel programlama uygulamaları<br/> V. Yardımcı teknik araçlar<br/> Yukarıdakilerden hangileri dijital bir sanat eserinin üretilmesinde seçilen araca göre teknik açıdan öncelikli olarak hâkim olunması gereken alanlar arasında yer alır?",
+        "SoruMetni": "I. NFT'ler<br/>II. Mobil cihaz<br/>III. Windows işletim sistemi<br/>IV. Görsel programlama uygulamaları<br/>V. Yardımcı teknik araçlar<br/>Yukarıdakilerden hangileri dijital bir sanat eserinin üretilmesinde seçilen araca göre teknik açıdan öncelikli olarak hâkim olunması gereken alanlar arasında yer alır?",
         "A": "I-II-III-V",
         "B": "I-II-III-IV",
         "C": "I-III-V",
@@ -37,11 +37,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital bir sanat eseri oluşturmak için en önemli teknik malzemeler; bilgisayar, tablet ve mobil cihaz gibi<br/>araçlar ile bu araçlar üzerinde çalışabilen ilgili yazılımlardır. Bu araçlardan herhangi biri üzerinde üretim yapılmak istenen sanata özgü yazılımlar aracılığıyla eserler ortaya çıkarmak mümkündür. Dijital bir sanat eserinin<br/>üretilmesi noktasında seçilen araca göre teknik açıdan öncelikli olarak hâkim olunması gereken alanlar şunlardır:<br/>• Bilgisayar/mobil cihaz/tablet donanımları,<br/>• İşletim sistemleri (Windows, MacOS, Android),<br/>• Tasarım ve görsel programlama uygulamaları (Photoshop, Krita, Procreate, Touchdesigner vs.) ve<br/>• Yardımcı teknik araçlar (Çizim kalemi vs)."
+        "Aciklama": "Dijital Sanat Eseri Oluşturmak<br>Dijital bir sanat eseri oluşturmak için en önemli teknik malzemeler; bilgisayar, tablet ve mobil cihaz gibi<br/>araçlar ile bu araçlar üzerinde çalışabilen ilgili yazılımlardır. Bu araçlardan herhangi biri üzerinde üretim yapılmak istenen sanata özgü yazılımlar aracılığıyla eserler ortaya çıkarmak mümkündür. Dijital bir sanat eserinin<br/>üretilmesi noktasında seçilen araca göre teknik açıdan öncelikli olarak hâkim olunması gereken alanlar şunlardır:<br/>• Bilgisayar/mobil cihaz/tablet donanımları,<br/>• İşletim sistemleri (Windows, MacOS, Android),<br/>• Tasarım ve görsel programlama uygulamaları (Photoshop, Krita, Procreate, Touchdesigner vs.) ve<br/>• Yardımcı teknik araçlar (Çizim kalemi vs)."
     },
     {
         "SoruID": 3488804,
-        "SoruMetni": "I. Max/MSP<br/><br/>II. Kadraj<br/><br/>III. Birleştirme <br/><br/>IV. Sanal dokunma<br/><br/>Yukarıdakilerden hangileri dijital sanat alanında çalışan sanatçıların yeni bir görsel imgeyi tasarlarken kullandıkları dijital görüntü işleme programı işlevleri arasında yer alır?",
+        "SoruMetni": "I. Max/MSP<br/>II. Kadraj<br/>III. Birleştirme <br/>IV. Sanal dokunma<br/>Yukarıdakilerden hangileri dijital sanat alanında çalışan sanatçıların yeni bir görsel imgeyi tasarlarken kullandıkları dijital görüntü işleme programı işlevleri arasında yer alır?",
         "A": "I-II",
         "B": "II-III",
         "C": "I-VI",
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital sanat alanında çalışan sanatçılar yeni bir görsel imgeyi tasarlarken boyama, çizim, renk, kadraj, oranlama, kırpma, birleştirme, efekt uygulama gibi yüzlerce işlevi bünyesinde barındıran dijital görüntü işleme programları kullanırlar. Görüntüler üzerinde çok çeşitli uygulamalar yapılmasına imkân veren bu programların kullanıcılarına sunduğu en büyük avantaj, öncelikle görüntülerin katmanlı yapılar şeklinde üst üste kullanılabilme<br/>özelliğinden gelmektedir."
+        "Aciklama": "Dijital Sanat Uygulamaları ve Görüntü İşleme<br>Dijital sanat alanında çalışan sanatçılar yeni bir görsel imgeyi tasarlarken boyama, çizim, renk, kadraj, oranlama, kırpma, birleştirme, efekt uygulama gibi yüzlerce işlevi bünyesinde barındıran dijital görüntü işleme programları kullanırlar. Görüntüler üzerinde çok çeşitli uygulamalar yapılmasına imkân veren bu programların kullanıcılarına sunduğu en büyük avantaj, öncelikle görüntülerin katmanlı yapılar şeklinde üst üste kullanılabilme<br/>özelliğinden gelmektedir."
     },
     {
         "SoruID": 3488805,
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 3488806,
-        "SoruMetni": "I.  Zbrush <br/> II. Corel Painter<br/> III. Millumin<br/> IV. Cinema 4D<br/> Yukarıdakilerden hangileri bir ya da birden fazla projektörle etkileşime girerek herhangi bir görüntünün ilgili yüzeylere yansıtılarak sığdırılmasını sağlayan video haritalama yazılımlarındandır?",
+        "SoruMetni": "I. Zbrush <br/>II. Corel Painter<br/>III. Millumin<br/>IV. Cinema 4D<br/>Yukarıdakilerden hangileri bir ya da birden fazla projektörle etkileşime girerek herhangi bir görüntünün ilgili yüzeylere yansıtılarak sığdırılmasını sağlayan video haritalama yazılımlarındandır?",
         "A": "I-II",
         "B": "I-III",
         "C": "II-IV",
@@ -103,7 +103,7 @@
         "SoruID": 3488807,
         "SoruMetni": "Üç boyutlu generatif sanat eserlerin, bilgisayar oyunlarındaki üç boyutlu modellemeler ve grafiklerinin, NFT projelerinin üretiminde kullanılan, bir dizi teknik kurallar dizisinden üç boyutlu modeller ve dokular içeren grafikleri yaratmaya ilişkin kullanılan tasarım süreci aşağıdakilerden hangisidir?",
         "A": "Prosedürel modelleme",
-        "B": "Vektör Sanatı<br/><br/>",
+        "B": "Vektör Sanatı",
         "C": "TouchDesigner",
         "D": "Dijital Enstalasyon",
         "E": "Video Haritalama",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3488808,
-        "SoruMetni": "I. Tarayıcı aracılığıyla etkileşimli generatif sanat uygulaması: Dall-E<br/> II. 2B ve 3B Fraktal Üretme Yazılımı: Mandelbulb<br/> III. Generatif Kodlama ile Çevresel Tasarım: Arbaro<br/> IV. Video Haritalama Yazılımı: Silk<br/> Yukarıdaki generatif sanat uygulamaları ile yazılım eşleştirmelerinden hangileri doğrudur?",
+        "SoruMetni": "I. Tarayıcı aracılığıyla etkileşimli generatif sanat uygulaması: Dall-E<br/>II. 2B ve 3B Fraktal Üretme Yazılımı: Mandelbulb<br/>III. Generatif Kodlama ile Çevresel Tasarım: Arbaro<br/>IV. Video Haritalama Yazılımı: Silk<br/>Yukarıdaki generatif sanat uygulamaları ile yazılım eşleştirmelerinden hangileri doğrudur?",
         "A": "I-II",
         "B": "II-III",
         "C": "I-III",
@@ -137,11 +137,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2B ve 3B Fraktal Üretme Yazılımı: Mandelbulb<br/> Tarayıcı Aracılığıyla Etkileşimli Generatif Sanat Uygulaması: Silk<br/> Generatif Kodlama ile Çevresel Tasarım: Arbaro"
+        "Aciklama": "GENERATİF SANAT VE TASARIM UYGULAMALARI<br>2B ve 3B Fraktal Üretme Yazılımı: Mandelbulb<br/>Tarayıcı Aracılığıyla Etkileşimli Generatif Sanat Uygulaması: Silk<br/>Generatif Kodlama ile Çevresel Tasarım: Arbaro"
     },
     {
         "SoruID": 3488809,
-        "SoruMetni": "I. Avid Media Composer<br/> II. Lightworks<br/> III. Vegas Pro<br/> IV. Shotcut <br/><br/><br/> Yukarıdaki yazılımlardan hangileri hareketli görüntülerin kurgulanmasında kullanılan ücretsiz yazılımlardandır?",
+        "SoruMetni": "I. Avid Media Composer<br/>II. Lightworks<br/>III. Vegas Pro<br/>IV. Shotcut <br/>Yukarıdaki yazılımlardan hangileri hareketli görüntülerin kurgulanmasında kullanılan ücretsiz yazılımlardandır?",
         "A": "I-II",
         "B": "II-III-IV",
         "C": "II-IV",
@@ -157,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Adobe Premiere Pro, Avid Media Composer, Vegas Pro, Final Cut Pro, Edius Pro<br/>gibi çoğunlukla profesyonel kullanıcıların ve post-prodüksiyon ekiplerinin tercih ettiği ücretli yazılımların yanında çoğunlukla kişisel kullanıcılara yönelik olarak sunulan OpenShot, VSDC Free Video Editör, Lightworks, Shotcut gibi ücretsiz olarak erişilebilen pek çok farklı yazılım bulunur."
+        "Aciklama": "Hareketli Görüntülerin Kurgulanması<br>Adobe Premiere Pro, Avid Media Composer, Vegas Pro, Final Cut Pro, Edius Pro<br/>gibi çoğunlukla profesyonel kullanıcıların ve post-prodüksiyon ekiplerinin tercih ettiği ücretli yazılımların yanında çoğunlukla kişisel kullanıcılara yönelik olarak sunulan OpenShot, VSDC Free Video Editör, Lightworks, Shotcut gibi ücretsiz olarak erişilebilen pek çok farklı yazılım bulunur."
     },
     {
         "SoruID": 3488810,
-        "SoruMetni": "Aşağıdakilerden hangisi izleyicileri etkilemek için sahne içerisinde fantastik, ilginç ve çekilmesi imkânsız, zor ya da maliyetli görsel unsurları bilgisayar ya da çeşitli ekipmanlar yardımıyla kompozisyon içerisine post-prodüksiyon esnasında yerleştirilme, çıkartılma ya da eklenme işlemidir?",
+        "SoruMetni": "Aşağıdakilerden hangisi izleyicileri etkilemek için sahne içerisinde fantastik, ilginç ve çekilmesi imkânsız, zor ya da maliyetli görsel unsurları bilgisayar ya da çeşitli ekipmanlar yardımıyla kompozisyon içerisine post-prodüksiyon esnasında yerleştirilme, çıkartılma ya da eklenme işlemidir?",
         "A": "Vektör boyama",
         "B": "Dijital sinema",
         "C": "Monitör kalibrasyonu",
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital görüntü işleme yazılımları yoluyla oluşturulan görsel efektler bugün pek çok filmde karşımıza çıkmaktadır. Görsel efekt; izleyicileri etkilemek için sahne içerisinde fantastik, ilginç ve çekilmesi imkânsız, zor ya da maliyetli görsel unsurları bilgisayar ya da çeşitli ekipmanlar yardımıyla kompozisyon içerisine post-prodüksiyon esnasında yerleştirilme, çıkartılma ya da eklenme işlemine karşılık gelir."
+        "Aciklama": "Görsel Efektlerin Hazırlanması<br>Dijital görüntü işleme yazılımları yoluyla oluşturulan görsel efektler bugün pek çok filmde karşımıza çıkmaktadır. Görsel efekt; izleyicileri etkilemek için sahne içerisinde fantastik, ilginç ve çekilmesi imkânsız, zor ya da maliyetli görsel unsurları bilgisayar ya da çeşitli ekipmanlar yardımıyla kompozisyon içerisine post-prodüksiyon esnasında yerleştirilme, çıkartılma ya da eklenme işlemine karşılık gelir."
     },
     {
         "SoruID": 3488811,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Java programlama diliyle yazılan Arbaro, ağaç ve bitki tasarımına ilişkin hazır algoritmalar yoluyla kolaylaştırılmış süreçlere sahip bir generatif tasarım uygulamasıdır. Java tarafından desteklenen herhangi bir işletim sistemi üzerinde kolaylıkla kullanılabilen uygulama gerçekçi<br/>çevresel tasarımların, ağaç ve bitkilerin ortaya çıkartılması noktasında sanat ve yazılım ilişkisinin oldukça çarpıcı bir örneğidir."
+        "Aciklama": "Generatif Kodlama ile Çevresel Tasarım: Arbaro<br>Java programlama diliyle yazılan Arbaro, ağaç ve bitki tasarımına ilişkin hazır algoritmalar yoluyla kolaylaştırılmış süreçlere sahip bir generatif tasarım uygulamasıdır. Java tarafından desteklenen herhangi bir işletim sistemi üzerinde kolaylıkla kullanılabilen uygulama gerçekçi<br/>çevresel tasarımların, ağaç ve bitkilerin ortaya çıkartılması noktasında sanat ve yazılım ilişkisinin oldukça çarpıcı bir örneğidir."
     },
     {
         "SoruID": 3488875,
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 3488880,
-        "SoruMetni": "Aşağıdakilerden hangisi Dijital bir sanat eserinin üretilmesi noktasında seçilen araca göre teknik açıdan öncelikli olarak hâkim olunması gereken alanlardan <span style=\"text-decoration: underline;\">değildir?</span>",
+        "SoruMetni": "Aşağıdakilerden hangisi Dijital bir sanat eserinin üretilmesi noktasında seçilen araca göre teknik açıdan öncelikli olarak hâkim olunması gereken alanlardan <span style=\"text-decoration: underline;\">değildir?</span>",
         "A": "Bilgisayar/mobil cihaz/tablet donanımları",
         "B": "İşletim sistemleri (Windows, MacOS, Android)",
         "C": "Tasarım ve görsel programlama uygulamaları (Photoshop, Krita, Procreate, Touchdesigner vs.)",
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 3488886,
-        "SoruMetni": "Aşağıdakilerden hangisi  raster sanata ilişkin eserlerin tasarlanmasında kullanılan programlardan <span style=\"text-decoration: underline;\">değildir?</span>",
+        "SoruMetni": "Aşağıdakilerden hangisi raster sanata ilişkin eserlerin tasarlanmasında kullanılan programlardan <span style=\"text-decoration: underline;\">değildir?</span>",
         "A": "Corel Painter",
         "B": "Krita",
         "C": "Sound blaster",
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çözünürlüğü"
+        "Aciklama": "Piksel sayısının az ya da çok olması dijital görüntüde netliği belirler, sorunun yanıtı C şıkkıdır.<br>Çözünürlüğü"
     },
     {
         "SoruID": 3488938,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Generatif Sanat"
+        "Aciklama": "Kısmen veya tamamen özerk bir sistem aracılığı ile üretilen sanat türüne Generatif Sanat denir, sorunun yanıtı E şıkkıdır."
     },
     {
         "SoruID": 3488939,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "NFT"
+        "Aciklama": "Yakın dönemde popüler hale gelen, görsel sanat eserlerinin dijital varlık biçimine NFT denilmektedir, sorunun yanıtı D şıkkıdır."
     },
     {
         "SoruID": 3488940,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Multimedya"
+        "Aciklama": "Sinema, video, film, ses, gibi çoklu ortam sanatları genel terimle Multimedya olarak adlandırılır, sorunun yanıtı B şıkkıdır."
     },
     {
         "SoruID": 3488941,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgisayar Belleği"
+        "Aciklama": "Dijital ortamda Layer efektlerinin sınırını Bilgisayar Belleği belirler, sorunun yanıtı C şıkkıdır."
     },
     {
         "SoruID": 3488942,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Enstalasyon"
+        "Aciklama": "Yerleştirme sanatı denilen sanat türünün dünyada geçerli genel tanımı Enstalasyon'dur, sorunun yanıtı A şıkkıdır."
     },
     {
         "SoruID": 3488943,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Raster"
+        "Aciklama": "Geleneksel resme en yakın olan dijital görselleştirme türü Raster'dır, sorunun yanıtı E şıkkıdır."
     },
     {
         "SoruID": 3488944,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Touch Designer"
+        "Aciklama": "Gerçek zamanlı grafikler üretmek, hareket tasarlamak amacıyla kullanılan programlama ortamı Touch Designer'dır, sorunun yanıtı B şıkkıdır."
     },
     {
         "SoruID": 3488945,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kaggle"
+        "Aciklama": "Geniş kapsamlı açık kaynak veri kümeleriyle oluşan arşivin adı Kaggle'dır, sorunun yanıtı A şıkkıdır."
     },
     {
         "SoruID": 3488946,
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "MANDELBULB"
+        "Aciklama": "Üç boyutlu fraktal üretimine olanak sağlayan yazılımın adı Mandelbulb'dır, sorunun yanıtı C şıkkıdır."
     },
     {
         "SoruID": 3489031,
@@ -617,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotoğraf eğitimi alan Jarrett, cep telefonuyla çektiği fotoğrafları, Supe­rimpose, Procreate, iColorama, Glaze vb. uygula­maları kullanarak, resim ile fotoğraf arası çalışma­lar üretmektedir."
+        "Aciklama": "Görsel 5.7 Portrait, Saraj Jarett. Sarah Jarrett, fantastik çalış­malarıyla dikkat çekmiştir.<br>Fotoğraf eğitimi alan Jarrett, cep telefonuyla çektiği fotoğrafları, Supe­rimpose, Procreate, iColorama, Glaze vb. uygula­maları kullanarak, resim ile fotoğraf arası çalışma­lar üretmektedir."
     },
     {
         "SoruID": 3489032,
@@ -637,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Raster, yatay ve dikey piksel sıralarından oluşan dijital görsel sanat eserlerinin üretilmesinde kulla­nılan hem bir dosyalama formatı hem de bu yolla üretilen eserleri niteleyen dijital bir sanat türüdür."
+        "Aciklama": "Geleneksel resme en yakın olan dijital görselleştirme türlerinden biridir.<br>Raster, yatay ve dikey piksel sıralarından oluşan dijital görsel sanat eserlerinin üretilmesinde kulla­nılan hem bir dosyalama formatı hem de bu yolla üretilen eserleri niteleyen dijital bir sanat türüdür."
     },
     {
         "SoruID": 3489033,
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital kolaj olarak adlandırılan bu dijital sanat türü içerisinde çeşitli kaynaklardan elde edi­len imajlar görüntü işleme yazılımları ile düzenle­nerek bir araya getirilerek yeni imgeler oluşturulur."
+        "Aciklama": "Sanatçılar fotoğraf işleme yazılımlarının izin verdi­ği pek çok işlevle birlikte pek çok farklı görüntüyü bir araya getirerek kolaj çalışmaları gerçekleştirebil­mektedir.<br>Dijital kolaj olarak adlandırılan bu dijital sanat türü içerisinde çeşitli kaynaklardan elde edi­len imajlar görüntü işleme yazılımları ile düzenle­nerek bir araya getirilerek yeni imgeler oluşturulur."
     },
     {
         "SoruID": 3489034,
@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mekân ve bilgisayar animasyonla­rını birleştiren Peter Kogler, mekân içindeki algıyı değiştiren ve mekânı sanallaştıran çalışmalar üretir."
+        "Aciklama": "Nesnenin mekânla var olduğu gerçek dünyada bir­birinden bağımsız mekân ve nesne oluşturarak diji­tal bir ortam/mekân oluşturan sanatçı, mekânlarda kullandığı sesler ile görsel algıyı destekleyen işitsel bir yapı kurarak izlenen resmin dışında ve içinde gezilebilen bir resim/dünya yaratmıştır.<br>Mekân ve bilgisayar animasyonla­rını birleştiren Peter Kogler, mekân içindeki algıyı değiştiren ve mekânı sanallaştıran çalışmalar üretir."
     },
     {
         "SoruID": 3489035,
@@ -697,11 +697,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Popülerliği artma­ya başlayan bu NFT sanat kavramı Beeple adıyla tanınan Amerikalı sanatçı Mike Winkelmann <em>The First 5000 Days </em>isimli eserinin yüksek satış tuta­rıyla oldukça popülerleşmiştir."
+        "Aciklama": "İlk defa krip­to para birimleriyle ilişkili olarak yaygınlaşmaya başlayan ve Türkçeye “nitelikli fikri tapu” olarak çevrilen NFT’ler hareketli ve hareketsiz imgelere, çeşitli koleksiyon ve oyun içi nesnelere sahipliği temsil eden dijital varlıklardır.<br>Popülerliği artma­ya başlayan bu NFT sanat kavramı Beeple adıyla tanınan Amerikalı sanatçı Mike Winkelmann <em>The First 5000 Days </em>isimli eserinin yüksek satış tuta­rıyla oldukça popülerleşmiştir."
     },
     {
         "SoruID": 3489036,
-        "SoruMetni": "………………….eserini metin satırlarını hiper gerçek­çi grafiklere dönüştüren bir yapay zekâ programı olan Midjourney ile yarattı.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "………………….eserini metin satırlarını hiper gerçek­çi grafiklere dönüştüren bir yapay zekâ programı olan Midjourney ile yarattı.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
         "A": "Jason M. Allen",
         "B": "Peter Kogler",
         "C": "Sarah Jarrett",
@@ -717,11 +717,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Jason M. Allen eserini metin satırlarını hiper gerçek­çi grafiklere dönüştüren bir yapay zekâ programı olan Midjourney ile yarattı (Roose, 2022)."
+        "Aciklama": "Colorado Eyalet Fuarı’nın her yıl yaptığı geleneksel sanat yarışması dijital sanat kategorisinde birincilik ödülü yapay zekâ ile yaratılan bir sanat eserine verildi.<br>Jason M. Allen eserini metin satırlarını hiper gerçek­çi grafiklere dönüştüren bir yapay zekâ programı olan Midjourney ile yarattı (Roose, 2022)."
     },
     {
         "SoruID": 3489047,
-        "SoruMetni": "Basit matematiksel denklemlerden yararlanarak iki ve üç boyutlu fraktallar oluşturmak için kullanılan ………………, generatif sanat alanında pek çok sanatçı tarafından tercih edilen bir görüntü oluşturma yazılımı­dır.<br/> Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
+        "SoruMetni": "Basit matematiksel denklemlerden yararlanarak iki ve üç boyutlu fraktallar oluşturmak için kullanılan ………………, generatif sanat alanında pek çok sanatçı tarafından tercih edilen bir görüntü oluşturma yazılımı­dır.<br/>Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?",
         "A": "Mandelbulb",
         "B": "Dall-E",
         "C": "Krita",
@@ -737,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Basit matematiksel denklemlerden yararlanarak iki ve üç boyutlu fraktallar oluşturmak için kullanılan Mandelbulb, generatif sanat alanında pek çok sanatçı tarafından tercih edilen bir görüntü oluşturma yazılımı­dır."
+        "Aciklama": "Fibonacci spirali ve altın oran ilişkisine benzer bir biçimde doğada birbirini tekrar eden ögelerden ilham alan Mandelbulb, sanatçılara sayısız yaratıcı değişkeni kolaylıkla kontrol edebilmesini ve bu yolla oldukça şaşırtıcı generatif sanat eserleri üretebilmesini sağlamaktadır.<br>Basit matematiksel denklemlerden yararlanarak iki ve üç boyutlu fraktallar oluşturmak için kullanılan Mandelbulb, generatif sanat alanında pek çok sanatçı tarafından tercih edilen bir görüntü oluşturma yazılımı­dır."
     },
     {
         "SoruID": 3489050,
@@ -757,11 +757,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Datamoshing (veri kısıtlama), sıkıştırılmış video görüntülerinde kullanılan sıkıştırma ve çözme algoritmaları üzerinde değişiklik yaparak yeni bir imaj veya yeni video görüntüleri elde etmeye denir."
+        "Aciklama": "Görsel 5.34 TV test görseli üzerine uygulanmış bir datamoshing çalışması.<br>Datamoshing (veri kısıtlama), sıkıştırılmış video görüntülerinde kullanılan sıkıştırma ve çözme algoritmaları üzerinde değişiklik yaparak yeni bir imaj veya yeni video görüntüleri elde etmeye denir."
     },
     {
         "SoruID": 3489053,
-        "SoruMetni": "<strong>I.</strong> Fusion<br/> <strong>II.</strong> Houdini<br/> <strong>III.</strong> Nuke<br/> <strong>IV.</strong> After Effects<br/> Yukarıdakilerden hangileri gü­nümüzde görsel efekt tasarımı noktasında kullanılan ve pek çok farklı işleve sahip olan yazılımlar arasında yer alır?",
+        "SoruMetni": "<strong>I.</strong> Fusion<br/><strong>II.</strong> Houdini<br/><strong>III.</strong> Nuke<br/><strong>IV.</strong> After Effects<br/>Yukarıdakilerden hangileri gü­nümüzde görsel efekt tasarımı noktasında kullanılan ve pek çok farklı işleve sahip olan yazılımlar arasında yer alır?",
         "A": "<span style=\"font-family: 'Times New Roman',serif;\">I ve II</span>",
         "B": "<span style=\"font-family: 'Times New Roman',serif;\">I ve IV</span>",
         "C": "<span style=\"font-family: 'Times New Roman',serif;\">I, II ve III </span>",
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gü­nümüzde görsel efekt tasarımı noktasında kullanılan After Effects, Nuke, Houdini, HitFilm Pro, Fusion, Cinema 4D, Maya gibi pek çok farklı işleve sahip yazılım kullanılmaktadır."
+        "Aciklama": "Görsel 5.30 Modelleme ve Görsel efekt programı Houdini, sayfa 148 de verilmektedir.<br>Gü­nümüzde görsel efekt tasarımı noktasında kullanılan After Effects, Nuke, Houdini, HitFilm Pro, Fusion, Cinema 4D, Maya gibi pek çok farklı işleve sahip yazılım kullanılmaktadır."
     },
     {
         "SoruID": 3489054,
@@ -797,6 +797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Davinci Resolve, herhangi bir manuel seçime gerek duymadan cildi pürüzsüzleştirmek, cilt tonunu ayarlamak, gözleri aydınlat­mak ve dudak rengini değiştirmek gibi işlemler için yapay zekâ destekli bir yüz tanıma ve izleme aracını barındırır."
+        "Aciklama": "Davinci Resolve’un temel özelliklerinden bazıları sayfa 152 de verilmiştir.<br>Davinci Resolve, herhangi bir manuel seçime gerek duymadan cildi pürüzsüzleştirmek, cilt tonunu ayarlamak, gözleri aydınlat­mak ve dudak rengini değiştirmek gibi işlemler için yapay zekâ destekli bir yüz tanıma ve izleme aracını barındırır."
     }
 ]

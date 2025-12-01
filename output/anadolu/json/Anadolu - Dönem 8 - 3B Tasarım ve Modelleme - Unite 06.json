@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3834299,
-        "SoruMetni": "Sahne tasarımında bir yüzeyin sık seyrek dokulu olması, derinlik ya da çıkıntı  ile ilgili durumları  performans ve zaman kaybını azaltarak çözümleyen yöntem aşağıdakilerden hangisidir?",
+        "SoruMetni": "Sahne tasarımında bir yüzeyin sık seyrek dokulu olması, derinlik ya da çıkıntı ile ilgili durumları performans ve zaman kaybını azaltarak çözümleyen yöntem aşağıdakilerden hangisidir?",
         "A": "Bump harita",
         "B": "Displacement harita",
         "C": "Render",
@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Displacement harita, kabaca bir malzemenin ne kadar ve ne şekilde yer değiştirerek 3B görünüm kazanacağını belirler. Sahnelerde saç, kıl, ot ve tüy gibi tek tek modellemenin hem zaman hem de performans kaybı olacağı durumlarda tercih edilen bir haritalandırma yöntemidir"
+        "Aciklama": "sayfa 190 Displacement haritalandırma ile oluşturulan malzemelerin 2B olarak dokulara atanan haritalardan bir başka farkı da sahnedeki ışık ve gölge ile olan ilişkisidir. Görsel 6.9’da displacement harita ile oluşturulmuş örgünün bir malzemenin sık dokulu hâli ile seyrek dokulu<br/>hâlini yan yana görülmektedir.<br>Displacement harita, kabaca bir malzemenin ne kadar ve ne şekilde yer değiştirerek 3B görünüm kazanacağını belirler. Sahnelerde saç, kıl, ot ve tüy gibi tek tek modellemenin hem zaman hem de performans kaybı olacağı durumlarda tercih edilen bir haritalandırma yöntemidir"
     },
     {
         "SoruID": 3834307,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Geniş açılı bir lens kullanmak, sahnenin daha geniş ve derin görünmesine yardımcı olurken,  sahnedeki objeler arasındaki mesafeyi sıkıştırarak daha samimi ve yoğun bir görüntü oluşturabilen telefoto lens kullanımıdır."
+        "Aciklama": "Geniş açılı bir lens kullanmak, sahnenin daha geniş ve derin görünmesine yardımcı olurken, sahnedeki objeler arasındaki mesafeyi sıkıştırarak daha samimi ve yoğun bir görüntü oluşturabilen telefoto lens kullanımıdır."
     },
     {
         "SoruID": 3834317,
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3834326,
-        "SoruMetni": "I Büyük bütçeli film ve animasyon stüdyoları tarafından sıklıkla tercih edilir.<br/> II Bağımsız geliştiriciler ve hobi kullanıcıları için maliyet etkin bir çözümdür.<br/> III Mimari görselleştirme, iç mekân sahneleri, yüksek çözünürlüklü görseller için kullanılır.<br/> IV Fiziksel olarak doğru aydınlatma hesaplamaları yapar<br/> V yüksek poligonlu objeler için kullanılır<br/> VI Blender 3B yazılımında kullanılır<br/> VII kullanıcı dostu arayüzüne ve geniş malzeme kütüphanesine sahiptir.<br/> Yukarıda verilen render motorlarına ait kullanım ve popülerlik özelliklerinden hangileri Arnold için geçerlidir?",
+        "SoruMetni": "I Büyük bütçeli film ve animasyon stüdyoları tarafından sıklıkla tercih edilir.<br/>II Bağımsız geliştiriciler ve hobi kullanıcıları için maliyet etkin bir çözümdür.<br/>III Mimari görselleştirme, iç mekân sahneleri, yüksek çözünürlüklü görseller için kullanılır.<br/>IV Fiziksel olarak doğru aydınlatma hesaplamaları yapar<br/>V yüksek poligonlu objeler için kullanılır<br/>VI Blender 3B yazılımında kullanılır<br/>VII kullanıcı dostu arayüzüne ve geniş malzeme kütüphanesine sahiptir.<br/>Yukarıda verilen render motorlarına ait kullanım ve popülerlik özelliklerinden hangileri Arnold için geçerlidir?",
         "A": "II, IV, VII",
         "B": "V, VI,VII",
         "C": "I, IV, V",
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Arnold büyük bütçeli film ve animasyon stüdyoları tarafından sıklıkla tercih edilir. Fiziksel olarak doğru aydınlatma hesaplamaları yapar, yüksek poligonlu objeler için kullanılır."
+        "Aciklama": "Arnold<br/>Fiziksel olarak doğru aydınlatma<br/>hesaplamaları, üstün bellek<br/>yönetimi, yüksek performans<br/>Sinema endüstrisi,<br/>karmaşık karakter<br/>animasyonları, VFX<br/>projeleri, yüksek<br/>poligonlu objeler</br><br/>Büyük bütçeli film ve<br/>animasyon stüdyoları<br/>tarafından sıklıkla tercih<br/>edilir.</br><br>Arnold büyük bütçeli film ve animasyon stüdyoları tarafından sıklıkla tercih edilir. Fiziksel olarak doğru aydınlatma hesaplamaları yapar, yüksek poligonlu objeler için kullanılır."
     },
     {
         "SoruID": 3834329,

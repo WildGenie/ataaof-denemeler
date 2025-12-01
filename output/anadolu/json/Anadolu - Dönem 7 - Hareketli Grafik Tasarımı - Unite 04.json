@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareket-ses-etkileşim"
+        "Aciklama": "GİRİŞ<br>Hareket-ses-etkileşim"
     },
     {
         "SoruID": 3690031,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karmaşık bilgileri organize etmek ve izleyicinin dikkatini bir çerçeve/kurgu boyunca görsel ve işitsel düzeyde yönlendirebilmek için hiyerarşi kullanılır."
+        "Aciklama": "Denge<br>Karmaşık bilgileri organize etmek ve izleyicinin dikkatini bir çerçeve/kurgu boyunca görsel ve işitsel düzeyde yönlendirebilmek için hiyerarşi kullanılır."
     },
     {
         "SoruID": 3690058,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dikey simetri"
+        "Aciklama": "Denge<br>Dikey simetri"
     },
     {
         "SoruID": 3690069,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düzenli-düzensiz"
+        "Aciklama": "Zıtlık<br>Düzenli-düzensiz"
     },
     {
         "SoruID": 3690077,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düz-pürüzlü doku zıtlığıdır."
+        "Aciklama": "Zıtlık<br>Düz-pürüzlü doku zıtlığıdır."
     },
     {
         "SoruID": 3690086,
@@ -117,11 +117,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Akıcı"
+        "Aciklama": "Ritim<br>Akıcı"
     },
     {
         "SoruID": 3690092,
-        "SoruMetni": "Bir grafiğin bütününde siyah renkli metinler hakim iken metinler arasında  belirli kısımlarının kırmızı renkte yazılması hangi tasarım ilkesi ile ilişkilidir?",
+        "SoruMetni": "Bir grafiğin bütününde siyah renkli metinler hakim iken metinler arasında belirli kısımlarının kırmızı renkte yazılması hangi tasarım ilkesi ile ilişkilidir?",
         "A": "Denge",
         "B": "Ritim",
         "C": "Oran",
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir alan"
+        "Aciklama": "Devamlılık<br>Bir alan"
     }
 ]

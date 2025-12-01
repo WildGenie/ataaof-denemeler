@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt Twitter olmalıdır."
+        "Aciklama": "Amerika Birleşik Devletleri’ndeki Black Lives Matter sosyal<br/>hareketi Twitter’ı örgütlenme ve siyasi katılım için<br/>sıkça kullandı (Cohen and Jackson; 2016). Twitter<br/>üzerinden yapılan çağrılar ve paylaşılan haberler insanların protestolara katılması için bilgi dağıtırken<br/>bir yandan da genel kamuoyunu bilgilendirme rolünü üstlendi. Platformlar bu bağlamda birçok sosyal<br/>aksiyonun temeline oturabiliyor.<br>Yanıt Twitter olmalıdır."
     },
     {
         "SoruID": 3769004,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt B seçeneği olmalıdır."
+        "Aciklama": "Belli bir problemi çözmek veya belirli bir amaca ulaşmak için tasarlanan yol olarak tanımlanan algoritma (Merriam-Webster.com Dictionary)<br/>bilgisayar mühendisliğinin kullandığı standart bir kavram iken artık internet kullanıcılarının da anlaması gereken bir unsura dönüşmüştür.<br>Yanıt B seçeneği olmalıdır."
     },
     {
         "SoruID": 3769005,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cevap A seçeneği olmalıdır."
+        "Aciklama": "Blokzincir kabaca (ya da Blok Zinciri, İngilizce kullanımıyla blockchain) kriptografi kullanılarak verinin bloklar hâlinde art arda bir zincir gibi dijital olarak kaydedilmesine deniyor. En ünlü ve yaygın kripto para birimi Bitcoin bu teknolojiye dayanıyor.<br>Cevap A seçeneği olmalıdır."
     },
     {
         "SoruID": 3769006,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt dijital oyun olmalıdır."
+        "Aciklama": "Yüksek işletim ve ekran gücü olan bilgisayarlar, hızlı ve pingi düşük internete bağlanarak CS GO, Valorant, League of Legends, Rainbow 6 gibi oyunları oynatabilmektedir.<br>Yanıt dijital oyun olmalıdır."
     },
     {
         "SoruID": 3769007,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cevap Transmedya olmalıdır."
+        "Aciklama": "Transmedya tam da internetin yapısına uygun olarak bir hikayeyi/anlatıyı birçok mecra kullanarak anlatmak olarak tanımlanabilir.<br>Cevap Transmedya olmalıdır."
     },
     {
         "SoruID": 3769008,
@@ -117,12 +117,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cevap Marshall McLuhan olmalıdır."
+        "Aciklama": "Teknolojinin yarattığı koşulların;<br/>insanların çalışma ve haberleşme biçimlerini veya<br/>siyasete katılım biçimlerini doğrudan etkileyeceğini iddia eden bu yaklaşımın en bilinen isimlerinden birisi Marshall McLuhan’dır. Bilim ve Teknoloji Çalışmaları ise sosyal konstrüktivizmi daha çok<br/>benimsemiştir. Bu ekole göre insanın ve toplumun<br/>eylemleri teknolojiyi inşa eden en önemli faktör<br>Cevap Marshall McLuhan olmalıdır."
     },
     {
         "SoruID": 3769009,
         "SoruMetni": "Thomas Kuhn’un Bilimsel Devrimlerin Yapısı eseri hangi konunun öncülerindendir ?",
-        "A": "Sosyal Konstruktivizm<br/><br/>",
+        "A": "Sosyal Konstruktivizm",
         "B": "Teknolojik determinizmi",
         "C": "Teknolojik olanaklar",
         "D": "Kültürel incelemeler",
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt A seçeneği olmalıdır."
+        "Aciklama": "İnsan toplulukları etkendir ve karşılarına çıkan teknolojileri arzuladıkları<br/>gibi şekillendirirler. Bilim ve Teknolojiye dair sosyal bilimcilerin çalışmaları başlarda özellikle bu perspektiften yapıldı. Thomas Kuhn’un Bilimsel<br/>Devrimlerin Yapısı (Kuhn, 1962) bu yaklaşımın en<br/>öncü eserlerinden biridir. Bilimsel paradigmaların<br/>lineer bir şekilde ilerlemediğini aksine bilim insanlarının öznel deneyimlerinin bu paradigmaların oluşmasında etkili olduğunu savunan Kuhn daha<br/>sonraki birçok çalışmaya ilham vermiştir.<br>Yanıt A seçeneği olmalıdır."
     },
     {
         "SoruID": 3769010,
@@ -157,11 +157,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt E seçeneği olmalıdır."
+        "Aciklama": "Frankfurt Okulu’nun bir diğer temsilcisi olan Habermas ise Kamusal Alan teorisiyle 1960’larda gelişmiş kapitalizm içerisinde ticarileşen medyayı eleştiriyordu (Habermas, 1991). Habermas’a göre kamusal alan aslında insanların özgürce sosyal problemleri ve güncel siyaseti tartışabildikleri bir alandı. Bu alana katılımı teşvik eden sosyal kurumlardan birisi de medyaydı. Medyanın ticarileşmesi ise insanları yalnızca pasif hâle getirmiyor, aynı zamanda kamusal ve özel alanların birleşmesine yol açıyordu. Bu birleşme aynı zamanda insanların sürekli olarak ticari olana ve kapitalizme maruz kalması anlamına geliyordu<br>Yanıt E seçeneği olmalıdır."
     },
     {
         "SoruID": 3769011,
-        "SoruMetni": "Aşağıdakilerden ahngisi/hangileri büyük Veri’nin temel özelliklerindendir ?<br/> I. Yüksek volüm<br/> II. Yüksek çeşitlilik<br/> III. Yüksek hız",
+        "SoruMetni": "Aşağıdakilerden ahngisi/hangileri büyük Veri’nin temel özelliklerindendir ?<br/>I. Yüksek volüm<br/>II. Yüksek çeşitlilik<br/>III. Yüksek hız",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -177,11 +177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt hepsi olmalıdır."
+        "Aciklama": "Büyük Veri son yılların popülerleşen terimlerinden birisi. Büyük Veri, alışageldiğimiz veri işleme yöntemleriyle analiz edilmesi, sistematik veri toplamanın ve iş yapmanın genellikle zor olan verilerini inceleyen, bu verilerden anlamlı sonuçlar çıkaran bir<br/>çalışma alanıdır. Büyük Veri hem yapılanmış (structured) hem de dağınık/yapılanmamış (unstructured) formlarda olabilir. Yüksek volümdeki (volume)<br/>bu veri setleri, yüksek çeşitlilik (diversity) ve yüksek<br/>hız (velocity) Büyük Veri’nin temel özelliklerindendir.<br>Yanıt hepsi olmalıdır."
     },
     {
         "SoruID": 3769012,
-        "SoruMetni": "''Web 2.0 teknolojisiyle hayatımıza daha çok giren  ............ bu kanaat önderliği<br/>iletişiminin yoğunlaşmasına müsaade etti.'' cümlesindeki boşluğa aşağıdakilerden hangisi getirilmelidir ?",
+        "SoruMetni": "''Web 2.0 teknolojisiyle hayatımıza daha çok giren ............ bu kanaat önderliği<br/>iletişiminin yoğunlaşmasına müsaade etti.'' cümlesindeki boşluğa aşağıdakilerden hangisi getirilmelidir ?",
         "A": "Mikroblogging",
         "B": "Fenomen",
         "C": "influencer",
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mikroblogging"
+        "Aciklama": "Web 2.0 teknolojisiyle hayatımıza daha çok giren “mikroblogging” pratiği bu kanaat önderliği iletişiminin yoğunlaşmasına müsaade etti. Sosyal medya öncesinde insanlar daha uzun blog postları, köşe yazıları gibi içerikler üretirken Twitter gibi mikroblogging platformlarının popülerleşmesiyle beraber gündemi işgal eden konular hakkında daha kısa, öz ve yoğunlaşmış içerikler üretilmeye başlandı"
     },
     {
         "SoruID": 3769175,
@@ -217,11 +217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Henry Jenkins’in geliştirdiği “Katılımcı Kültür” kavramı internet sayesinde sıradan vatandaşların kamusal alana daha kolay ve aktif<br/>bir şekilde katılabilir olmasını kastediyor"
+        "Aciklama": "TEORİK ÇERÇEVELER<br>Henry Jenkins’in geliştirdiği “Katılımcı Kültür” kavramı internet sayesinde sıradan vatandaşların kamusal alana daha kolay ve aktif<br/>bir şekilde katılabilir olmasını kastediyor"
     },
     {
         "SoruID": 3769176,
-        "SoruMetni": "Aşağıdakilerden hangisi Henry Jenkins’in oyun olarak görülmeyen alanların oyun mekanikleri ve felsefesiyle yapılandırılmasını kastettiği kavramdır?",
+        "SoruMetni": "Aşağıdakilerden hangisi Henry Jenkins’in oyun olarak görülmeyen alanların oyun mekanikleri ve felsefesiyle yapılandırılmasını kastettiği kavramdır?",
         "A": "Mobilleşme",
         "B": "Teknolojik determinizm",
         "C": "Yapay zeka",
@@ -237,16 +237,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyunlaştırma"
+        "Aciklama": "TEORİK ÇERÇEVELER<br>Oyunlaştırma"
     },
     {
         "SoruID": 3769177,
         "SoruMetni": "Aşağıdakilerden hangisi teknolojik determinizmi açıklar?",
-        "A": "İnsanın iradesinin, yaşadığı toplum değişkenleri (eğitim, ekonomi, sağlık, mal varlığı) ile belirlenmesi",
+        "A": "İnsanın iradesinin, yaşadığı toplum değişkenleri (eğitim, ekonomi, sağlık, mal varlığı) ile belirlenmesi",
         "B": "İnsan toplulukları etken oluşu ve karşılarına çıkan teknolojileri arzuladıkları gibi şekillendirmesi",
         "C": "Dijital kültürlerin var olması ve kendini yeniden üretmesi, bu altyapıların ve platformların çalışmasıyla doğrudan ilgili olması",
         "D": "Bireylerlerin teknolojinin kullanım amacını gözetmeksizin teknolojinin sağladığı olanakları kullanarak dijital medya ve kültürlerle etkileşime geçmesi",
-        "E": "Teknolojinin ortaya çıkardığı sanal topluluklar ile yepyeni ve daha<br/>demokratik ve katılımcı bir toplum ortaya çıkacağı inancı",
+        "E": "Teknolojinin ortaya çıkardığı sanal topluluklar ile yepyeni ve daha<br/>demokratik ve katılımcı bir toplum ortaya çıkacağı inancı",
         "DogruCevap": "E",
         "DersAd": "Dijital Kültür",
         "Unite": 1,
@@ -257,11 +257,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Teknolojinin ortaya çıkardığı sanal topluluklar ile yepyeni ve daha<br/>demokratik ve katılımcı bir toplum ortaya çıkacağı inancı"
+        "Aciklama": "Teknolojik Determinizm<br>Teknolojinin ortaya çıkardığı sanal topluluklar ile yepyeni ve daha<br/>demokratik ve katılımcı bir toplum ortaya çıkacağı inancı"
     },
     {
         "SoruID": 3769178,
-        "SoruMetni": "Aşağıdakilerden hangisi kültürün şekillenmesinde sosyal kurumların rolünü inceleyen disiplinlerarası bir alandır?",
+        "SoruMetni": "Aşağıdakilerden hangisi kültürün şekillenmesinde sosyal kurumların rolünü inceleyen disiplinlerarası bir alandır?",
         "A": "Kültürel İncelemeler",
         "B": "Bilim ve Teknoloji Çalışmaları",
         "C": "Sosyal Konstruktivizm",
@@ -277,13 +277,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kültürel İncelemeler"
+        "Aciklama": "Sosyal Konstruktivizm<br>Kültürel İncelemeler"
     },
     {
         "SoruID": 3769179,
         "SoruMetni": "İnternetin geleceğini net göremeyeceğimiz, internetin geleceğinin birden çok faktöre bağlı olduğu savı kime aittir?",
         "A": "Jürgen Habermas",
-        "B": "Zizi Papacharissi",
+        "B": "Zizi Papacharissi",
         "C": "Adorno ve Horkheimer",
         "D": "Henry Jenkins",
         "E": "Thomas Kuhn",
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zizi Papacharissi"
+        "Aciklama": "YÜKSELEN ÇALIŞMA ALANLARI<br>Zizi Papacharissi"
     },
     {
         "SoruID": 3769181,
@@ -317,13 +317,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İnternetin tamamen kapanmış bir yer olmadığı"
+        "Aciklama": "Ticarileşme &amp; Metalaşma<br>İnternetin tamamen kapanmış bir yer olmadığı"
     },
     {
         "SoruID": 3769183,
         "SoruMetni": "Avustralya’daki aseksüel toplulukların Tumblr’ı keşfi ve kullanımı aşağıdakilerden hangisine iyi bir örnek teşkil eder?",
         "A": "Platformların değişen algoritmalara göre karar vermesi",
-        "B": "Büyük verinin  anlamlı sonuçlar elde edilmesi",
+        "B": "Büyük verinin anlamlı sonuçlar elde edilmesi",
         "C": "Platformların sosyal aksiyondaki rolü",
         "D": "Sosyal eşitzsizliklerin yeniden yaratılması",
         "E": "Büyük verinin kullanıcı davranışlarını anlamlandırması",
@@ -357,11 +357,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sosyal eşitsizlik"
+        "Aciklama": "Algoritmik Düzen<br>Sosyal eşitsizlik"
     },
     {
         "SoruID": 3769186,
-        "SoruMetni": "Aşağıdakilerden hangisi internetin finansal düzenlere en doğrudan<br/>müdahalesi olarak görülür?",
+        "SoruMetni": "Aşağıdakilerden hangisi internetin finansal düzenlere en doğrudan<br/>müdahalesi olarak görülür?",
         "A": "Mikroblogging pratiği",
         "B": "Platformlar",
         "C": "Büyük Veri",
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Blokzinciri teknolojisi"
+        "Aciklama": "Blokzincir ve Kripto Paralar<br>Blokzinciri teknolojisi"
     },
     {
         "SoruID": 3769187,

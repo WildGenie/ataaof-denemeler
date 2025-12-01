@@ -57,11 +57,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anzu: Mezopotamya mitolojisi ve ikonografisinde aslan başlı kartal şeklinde bir yaratıktır. Bu isim \"IM.DUGUD.MUŞEN\" ya da \"Anzu\" olarak yazılırdı."
+        "Aciklama": "Anzu: Mezopotamya mitolojisi ve ikonografisinde aslan başlı kartal şeklinde bir yaratıktır. Bu isim \"IM.DUGUD.MUŞEN\" ya da \"Anzu\" olarak yazılırdı."
     },
     {
         "SoruID": 3374253,
-        "SoruMetni": "Sembolik rakamı 30 olan Ay Tanrı'sının adı nedir?",
+        "SoruMetni": "Sembolik rakamı 30 olan Ay Tanrı'sının adı nedir?",
         "A": "IM",
         "B": "Nanna",
         "C": "Inanna",
@@ -98,6 +98,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Ningişzida: Anlamı güzel ağacın efendisidir. Yeraltı dünyası tanrıçasıdır. Sumerce tapınak ilahilerinde onun evi karanlık mahzendir."
+    },
+    {
+        "SoruID": 3374255,
+        "SoruMetni": "Ningirsu ve Nanşe’nin kız kardeşi olan Nisaba'nın İkonoğrafik sembolü hangisidir?",
+        "A": "Güneş",
+        "B": "Yıldırım",
+        "C": "Mısır başağı",
+        "D": "Savaş",
+        "E": "Boynuzlu yılan",
+        "DogruCevap": "C",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 4,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.854628",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Nisaba:Gudea’ya göre o, Ningirsu ve Nanşe’nin kız kardeşidir. Sumerce NAGA işaretiyle ve hububat çeşitlerinin farklı türlerinin determinatifiyle yazılır. İkonoğrafik sembolü mısır başağıdır."
     },
     {
         "SoruID": 3374256,
@@ -140,8 +160,28 @@
         "Aciklama": "Erken dönem Sumer Kral listelerinde Tufan’dan sonraki ilk hanedan efsanevî Kiş hanedanı olup, bu hanedanın 13. kralının adı göğe çıkan çoban Etena’dır."
     },
     {
+        "SoruID": 3374258,
+        "SoruMetni": "Sumer edebî ürünlerinden olan ve döneminin en önemli belgesi niteliğindeki iki adet silindir kitabe üzerine yazdırılmış olan eser aşağıdakilerden hangisidir?",
+        "A": "Gılgamış, Enkidu ve Ölüler Diyarı",
+        "B": "Etena ile Kartal",
+        "C": "Ur-Nammu Ağıtı",
+        "D": "Agade’nin Lanetlenmesi",
+        "E": "Lugalbanda ve Enmerkar Destanı",
+        "DogruCevap": "D",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 4,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.825697",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Agade’nin Lanetlenmesi: Sumer edebî ürünlerinden olan ve döneminin en önemli belgesi niteliğindeki iki adet silindir kitabe üzerine yazdırılmış olan eser, Lağaş beyi Gudea’nın Ningirsu adına bu şehirde yaptırdığı tapınağı anlatmaktadır."
+    },
+    {
         "SoruID": 3374259,
-        "SoruMetni": "Tufan mitine göre Utnapiştim'e bir gemi yapıp gemiye canlılardan birer tane almasını söyleyen bilge Tanrı hangisidir?",
+        "SoruMetni": "Tufan mitine göre Utnapiştim'e bir gemi yapıp gemiye canlılardan birer tane almasını söyleyen bilge Tanrı hangisidir?",
         "A": "Enki",
         "B": "Ninurta",
         "C": "Dumuzi",
@@ -180,6 +220,26 @@
         "Aciklama": "“Mit” Yunanca’da söz, öykü anlamına gelir. Mitler, ilkel insan topluluklarının, evreni, dünyayı ve doğa olaylarını kişileştirerek yorumlamak, henüz sırrını çözemedikleri hayatın ve evrenin çeşitli görüntülerini bir anlam kolaylığına bağlamak ihtiyacından doğmuştur. Doğaüstü ve fizikötesi güçler yanı sıra, doğa güçleriyle savaşa girmiş, onları yenmiş ya da yenememiş ilk yiğitlerin kimlik ve kişiliklerini belirtmesiyle de mitler, eposlara, yani destanlara konu oluştururlar."
     },
     {
+        "SoruID": 3374301,
+        "SoruMetni": "Aşağıdakilerden hangisi Sümer tanrıları arasında yer almaz?",
+        "A": "Hava Tanrısı",
+        "B": "Güneş Tanrı",
+        "C": "Yılan Tanrı",
+        "D": "Çoban Tanrı",
+        "E": "Ay Tanrı",
+        "DogruCevap": "C",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 4,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.803969",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Aşağı Mezopotamya’da yer alan Sümer kentlerinin her birinin kendine has bir tanrısı bulunmaktaydı. Bunlar, hava tanrısı, gök tanrı, güneş tanrı, ay tanrı, yaratıcı ana tanrı, çoban tanrı ve tahıl tanrı gibi."
+    },
+    {
         "SoruID": 3374302,
         "SoruMetni": "Sümerler tanrılarını nasıl tasavvur etmişlerdir?",
         "A": "Hayvan",
@@ -198,6 +258,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Sümerler tanrıları insan şeklinde tasavvur ettikleri gibi onların yaşantısını da insanlara benzetirlerdi. İnsanoğlu gibi onlar da yiyip-içmekte, evlenip yuva kurmaktaydılar. Onların da hırsları, arzuları vardı, sevinçli ya da hüzünlü olduklarına inanılırdı."
+    },
+    {
+        "SoruID": 3374303,
+        "SoruMetni": "Mezopotamya panteonunun baş tanrısı aşağıdakilerden hangisidir?",
+        "A": "Anunna",
+        "B": "Anzu",
+        "C": "Enlil",
+        "D": "An/Anu",
+        "E": "Enki/Ea",
+        "DogruCevap": "D",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 4,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.734607",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "An, Mezopotamya panteonunun baş tanrısı olup, göğün kişileştirilmiş halidir, kutsal rakamı 60’tır. Bütün Mezopotamya tanrılarının en yüksek rakamıdır. Mezopotamya kozmogonisinde, An-Enlil-Enki bir üçlü oluşturmaktadırlar. An’ın ünvanları, “tanrıların kralı”, “göğün kralı” ve “ülkelerin kralı”dır. Eski Sümer Devrinde, An Ur ve Uruk’ta önemli unsurlardan birisidir."
     },
     {
         "SoruID": 3374304,
@@ -241,7 +321,7 @@
     },
     {
         "SoruID": 3374306,
-        "SoruMetni": "<br/>\"...Pek çok Sumer destanı Dumuzi ile ..... arasında<br>geçer. ...\"</br><br/><br/>Yukarıdaki boşluğa hangisi gelmelidir?",
+        "SoruMetni": "<br/>\"...Pek çok Sumer destanı Dumuzi ile ..... arasında<br/>geçer. ...\"</br><br/>Yukarıdaki boşluğa hangisi gelmelidir?",
         "A": "Lamassular",
         "B": "Ereşkigal",
         "C": "İnanna",
@@ -437,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "b, c  ve d şıkkı Gılgamış, Enkıdu ve Ölüler DiyarıDestanında; e şıkkı,  Enmerkar ve Aratta Beyi Destanında geçer. Cevap a şıkkıdır."
+        "Aciklama": "b, c ve d şıkkı Gılgamış, Enkıdu ve Ölüler DiyarıDestanında; e şıkkı, Enmerkar ve Aratta Beyi Destanında geçer. Cevap a şıkkıdır."
     },
     {
         "SoruID": 3374339,
@@ -617,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkı Gılgamış destanı (s.70)<br/><br/>b şıkkı insanoğlunun ölümsüzlüğe ulaşamayacağı konusunu,   c şıkkı insanın yaratılışını, d şıkkı evrenin düzene konulmasını, e şıkkı insanın çamurdan yaratılmasını anlatır. Cevap A şıkkıdır."
+        "Aciklama": "Doğru yanıt A şıkkı Gılgamış destanı (s.70)<br/>b şıkkı insanoğlunun ölümsüzlüğe ulaşamayacağı konusunu, c şıkkı insanın yaratılışını, d şıkkı evrenin düzene konulmasını, e şıkkı insanın çamurdan yaratılmasını anlatır. Cevap A şıkkıdır."
     },
     {
         "SoruID": 3374355,
@@ -660,6 +740,46 @@
         "Aciklama": "A şıkkı Gılgamış, Enkıdu ve Ölüler Diyarı Destanında geçer. Cevap A şıkkıdır."
     },
     {
+        "SoruID": 3374358,
+        "SoruMetni": "Sumer Mitolojisinde deniz ve okyanus tanrısının adı nedir?",
+        "A": "Enki",
+        "B": "İnanna",
+        "C": "Ereştigal",
+        "D": "Dumuzi",
+        "E": "Lamassular",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 4,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.746325",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "b şıkkı göğün hanımefendisi; c şıkkı yeraltı dünyası tanrıçası, d şıkkı çoban tanrısı, e şıkkı koruyucu tanrıdır. Cevap A şıkkıdır."
+    },
+    {
+        "SoruID": 3374359,
+        "SoruMetni": "Adalet tanrısı olarak önem kazanan tanrı hangisidir?",
+        "A": "Şamaş",
+        "B": "Ninurta",
+        "C": "Ningişzida",
+        "D": "Nanna",
+        "E": "Dumuzi",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 4,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.865403",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "b şıkkı yıldırım, savaş ve av tanrısı; c şıkkı yeraltı dünyası tanrıçası; d şıkkı Ay tanrısı, e şıkkı çoban tanrısıdır. Cevap A şıkkıdır."
+    },
+    {
         "SoruID": 3374439,
         "SoruMetni": "Aşağıdakilerden hangisi Mezopotamya panteosunun baş tanrısıdır?",
         "A": "An/Anu",
@@ -677,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "An, Mezopotamya panteonunun baş tanrısı olup, göğün kişileştirilmiş halidir, kutsal rakamı 60’tır.Bütün Mezopotamya tanrılarının en yüksek rakamıdır. Mezopotamya kozmogonisinde, An-Enlil-Enki bir üçlü oluşturmaktadırlar.An’ın ünvanları, “tanrıların kralı”, “göğün kralı” ve “ülkelerin kralı”dır."
+        "Aciklama": "An, Mezopotamya panteonunun baş tanrısı olup, göğün kişileştirilmiş halidir, kutsal rakamı 60’tır.Bütün Mezopotamya tanrılarının en yüksek rakamıdır. Mezopotamya kozmogonisinde, An-Enlil-Enki bir üçlü oluşturmaktadırlar.An’ın ünvanları, “tanrıların kralı”, “göğün kralı” ve “ülkelerin kralı”dır."
     },
     {
         "SoruID": 3374440,
@@ -721,7 +841,7 @@
     },
     {
         "SoruID": 3374442,
-        "SoruMetni": "Aşağıdakilerden hangisi Eski Sümer'de ay tanrısı olarak bilinir?",
+        "SoruMetni": "Aşağıdakilerden hangisi Eski Sümer'de ay tanrısı olarak bilinir?",
         "A": "Lugalbanda",
         "B": "Dumuzi",
         "C": "Ereşkigal",
@@ -777,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sumer koruyucu tanrı veya demonu olup, arabulucu rolü oynamaktadır.Er Hanedan Devri Lagaş panteonundan tanınır.Bu tanrının kültü Eski Babil döneminde popülerdir.Silindir mühürler üzerinde tasvir edilmiştir.Bu tarihten itibaren Lamassu genelde kuvvet verici koruyucu bir terim olmuştur.Asur’da şedu ve Lamassu olarak bilinen tapınaklar ve saray<br/>tören geçit yollarının yanında dev gibi insan başlı boğa veya aslanlar vardır.Bunların söz konusu binaları kötülüklerden koruduklarına inanılmaktadır."
+        "Aciklama": "Sumer koruyucu tanrı veya demonu olup, arabulucu rolü oynamaktadır.Er Hanedan Devri Lagaş panteonundan tanınır.Bu tanrının kültü Eski Babil döneminde popülerdir.Silindir mühürler üzerinde tasvir edilmiştir.Bu tarihten itibaren Lamassu genelde kuvvet verici koruyucu bir terim olmuştur.Asur’da şedu ve Lamassu olarak bilinen tapınaklar ve saray<br/>tören geçit yollarının yanında dev gibi insan başlı boğa veya aslanlar vardır.Bunların söz konusu binaları kötülüklerden koruduklarına inanılmaktadır."
     },
     {
         "SoruID": 3374445,
@@ -797,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sumerlerin diğer kavimler gibi yazı öncesine ait olan ve kahramanlık çağı denilen dönemin olaylarını anlatan destanları vardır. Bu destanlar, asırlar sonrasında yazıya aktarılmıştır.Bu destanlardan iki adedi<br/>Enmerkar isimli kahramanla ilgili olup, Enmerkar ve Aratta Ülkesi ile Enmerkar ve Ensukuşşiranna’dır.Diğer<br/>ikisi Lugalbanda ve Enmerkar ile Lugalbanda ve Hurrum dağı’dır.Diğer Sumer destanları Gılgamış’ın<br/>etrafında şekillenmiştir.Gılgamış’ın Ölümü, Gılgamış ve Kiş Kralı Agga, Gılgamış ve Yaşayanlar Ülkesi ile<br/>Gılgamış, Enkidu ve Ölüler Diyarı’dır.<br/><br/>E şıkkı ise Hurri Kökenli Mitlerdendir."
+        "Aciklama": "Sumerlerin diğer kavimler gibi yazı öncesine ait olan ve kahramanlık çağı denilen dönemin olaylarını anlatan destanları vardır. Bu destanlar, asırlar sonrasında yazıya aktarılmıştır.Bu destanlardan iki adedi<br/>Enmerkar isimli kahramanla ilgili olup, Enmerkar ve Aratta Ülkesi ile Enmerkar ve Ensukuşşiranna’dır.Diğer<br/>ikisi Lugalbanda ve Enmerkar ile Lugalbanda ve Hurrum dağı’dır.Diğer Sumer destanları Gılgamış’ın<br/>etrafında şekillenmiştir.Gılgamış’ın Ölümü, Gılgamış ve Kiş Kralı Agga, Gılgamış ve Yaşayanlar Ülkesi ile<br/>Gılgamış, Enkidu ve Ölüler Diyarı’dır.<br/>E şıkkı ise Hurri Kökenli Mitlerdendir."
     },
     {
         "SoruID": 3374446,
@@ -820,6 +940,26 @@
         "Aciklama": "Sumerlerin iki yüzlü tanrısı Usumi, Kültepe’de<br/>bulunan Anadolu grubundaki mühür baskılarının<br/>tapınım sahnelerinde ve tanrı alaylarında, Bābilli<br/>özelikleri ve Anadolu’da kazandığı yeni hususiyetleriyle<br/>önemli bir yer tutmaktadır. Usumi, mühürlerde<br/>genellikle dua eden kişiyi Ea’ya haber verirken<br/>tasvir edilmiştir. Usumi’nin Anadolu grubu mühürleri<br/>üzerinde domuza binmiş olarak görünmesi,<br/>bu olayın MÖ 2.başlarında Anadolu’da vuku bulduğunu<br/>göstermektedir. Usumi, Kültepe dışında<br/>Konya Karahöyük’te yapılan kazılarda ortaya çıkarılan<br/>mühürler üzerinde de görülmektedir."
     },
     {
+        "SoruID": 3374447,
+        "SoruMetni": "Aşağıdaki tanrılardan hangisi göğün hanımefendisi lakabını taşımaktadır?",
+        "A": "İnanna",
+        "B": "Ereşkigal",
+        "C": "Lamassular",
+        "D": "Dumuzi",
+        "E": "Ea",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 4,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.749818",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İnanna/İştar Sumer tanrıçası olup, göğün hanımefendisi unvanı<br/>vardır. Fara tanrı listelerinde An ve Enlil’den<br/>sonra, Enki’den önce gelmektedir. Bu tanrıça daha<br/>çok aşk ve savaşla ilgili gözükmektedir. III. binyılın<br/>ortalarına ait Kiş kral yazıtlarında geçmektedir.<br/>Nanna ay tanrısı olup, onun kızı tanrıça İnanna ve<br/>oğlu güneş tanrısı UTU’dur."
+    },
+    {
         "SoruID": 3374448,
         "SoruMetni": "Aşağıdakilerden hangisi hem deniz/okyanus hemde bilgelik tanrısıdır?",
         "A": "Anzu",
@@ -837,11 +977,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Enki/ Ea<br/>Sumer deniz ve okyanus tanrısıdır. Aynı zamanda<br/>bilge tanrı olup, Enlil’in kararlarına uygun olarak<br/>planları hazırlayıp yeryüzünü düzenleyen olarak<br/>görülmüştür. Enki ve Dünya Düzeni mitinden<br/>onun yaratıcı özelliklerini öğrenmekteyiz.<br/>Bu tanrı adı, Sumerce É-a “suyun evi” dan<br/>gelmektedir. Eski Babil’de, Eski Sumer ve Sargon<br/>dönemlerine ait belgelerde Ea, Akadca şahıs adlarında<br/>geçmektedir. III. Ur Devrinde kanıtlanmıştır.<br/>Bābil ve Asur geleneğinde Ea’nın fonksiyonları<br/>Enki ile aynıdır. O bir su tanrısı olup, yaratıcı ve bilge tanrıdır. Sami anlayışında serin su kaynakları<br/>ile alakalı gözükmektedir.Mezopotamya’da<br/>büyük tanrılar arasında geçmektedir.Orta ve Geç<br/>Babil dönemlerinde Ea, Şamaş ve Marduk’tan<br/>oluşan üçlünün bir parçasıdır.Akad destanlarında<br/>Ea zor görevler üstlenmektedir. Adapa mitinde,<br/>onun gerçek gücü belli değildir ve enuma eliş destanında<br/>Marduk’tan daha kabiliyetli gözükmektedir.<br/>Halep panteonunda Mezopotamya grubunda<br/>Ninurta ve Nisaba ile beraber geçer.Geleneksel<br/>Kuzey Suriye panteonunda, Emar, Ebla ve Mari<br/>metinlerinde geçmektedir."
+        "Aciklama": "Enki/ Ea<br/>Sumer deniz ve okyanus tanrısıdır. Aynı zamanda<br/>bilge tanrı olup, Enlil’in kararlarına uygun olarak<br/>planları hazırlayıp yeryüzünü düzenleyen olarak<br/>görülmüştür. Enki ve Dünya Düzeni mitinden<br/>onun yaratıcı özelliklerini öğrenmekteyiz.<br/>Bu tanrı adı, Sumerce É-a “suyun evi” dan<br/>gelmektedir. Eski Babil’de, Eski Sumer ve Sargon<br/>dönemlerine ait belgelerde Ea, Akadca şahıs adlarında<br/>geçmektedir. III. Ur Devrinde kanıtlanmıştır.<br/>Bābil ve Asur geleneğinde Ea’nın fonksiyonları<br/>Enki ile aynıdır. O bir su tanrısı olup, yaratıcı ve bilge tanrıdır. Sami anlayışında serin su kaynakları<br/>ile alakalı gözükmektedir.Mezopotamya’da<br/>büyük tanrılar arasında geçmektedir.Orta ve Geç<br/>Babil dönemlerinde Ea, Şamaş ve Marduk’tan<br/>oluşan üçlünün bir parçasıdır.Akad destanlarında<br/>Ea zor görevler üstlenmektedir. Adapa mitinde,<br/>onun gerçek gücü belli değildir ve enuma eliş destanında<br/>Marduk’tan daha kabiliyetli gözükmektedir.<br/>Halep panteonunda Mezopotamya grubunda<br/>Ninurta ve Nisaba ile beraber geçer.Geleneksel<br/>Kuzey Suriye panteonunda, Emar, Ebla ve Mari<br/>metinlerinde geçmektedir."
     },
     {
         "SoruID": 3375033,
-        "SoruMetni": "Aşağı Mezopotamya’ya MÖ IV.bin yılın ortalarında gelerek, kendilerine özgü bir medeniyet geliştiren, Orta Asya’dan geldikleri sanılan, kent devletleri ile ilk defa şehir medeniyetini kuran, silindir mühür, ziggurat denilen yüksek katlı tapınaklar ve çömlekçi çarkını getirmiş gerçek başarıları kültürel sahada olan uygarlık aşağıdakilerden hangisidir?",
+        "SoruMetni": "Aşağı Mezopotamya’ya MÖ IV.bin yılın ortalarında gelerek, kendilerine özgü bir medeniyet geliştiren, Orta Asya’dan geldikleri sanılan, kent devletleri ile ilk defa şehir medeniyetini kuran, silindir mühür, ziggurat denilen yüksek katlı tapınaklar ve çömlekçi çarkını getirmiş gerçek başarıları kültürel sahada olan uygarlık aşağıdakilerden hangisidir?",
         "A": "Hattiler",
         "B": "Hititler",
         "C": "Frigler",
@@ -857,7 +997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Aşağı Mezopotamya’ya MÖ IV.bin yılın ortalarında gelerek burada kendilerine özgü bir medeniyet geliştiren Sümerlerin Türkçe'mizin de içinde yer aldığı bitişken bir dil kullanan kavim oldukları, ayrıca bölgeye geliş yönleri konusunda kesin bir bilgi olmamakla birlikte Orta Asya’dan geldikleri anlaşılmaktadır. Sumerler Irak'ın güneyine daha önce bölgede bilinmeyen silindir mühür, ziggurat denilen yüksek katlı tapınaklar ve çömlekçi çarkını getirmişlerdir.Bölgede daha önce tarım ve madenciliğin gelişmiş olduğu anlaşılır.Sumerler burada kent devletleri kurarak ilk defa şehir medeniyetini geliştirmişlerdir.Şehir meclisi, sosyal sınıflar, yönetim konuları onların eseri olarak görülür.Onların gerçek başarıları kültürel sahada olmuştur."
+        "Aciklama": "Soruda verilen özelliklerinden yola çıkılarak uygarlığın tanınması amaçlanmıştır.<br>Aşağı Mezopotamya’ya MÖ IV.bin yılın ortalarında gelerek burada kendilerine özgü bir medeniyet geliştiren Sümerlerin Türkçe'mizin de içinde yer aldığı bitişken bir dil kullanan kavim oldukları, ayrıca bölgeye geliş yönleri konusunda kesin bir bilgi olmamakla birlikte Orta Asya’dan geldikleri anlaşılmaktadır. Sumerler Irak'ın güneyine daha önce bölgede bilinmeyen silindir mühür, ziggurat denilen yüksek katlı tapınaklar ve çömlekçi çarkını getirmişlerdir.Bölgede daha önce tarım ve madenciliğin gelişmiş olduğu anlaşılır.Sumerler burada kent devletleri kurarak ilk defa şehir medeniyetini geliştirmişlerdir.Şehir meclisi, sosyal sınıflar, yönetim konuları onların eseri olarak görülür.Onların gerçek başarıları kültürel sahada olmuştur."
     },
     {
         "SoruID": 3375036,
@@ -877,11 +1017,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Aşağı Mezopotamya’da yer alan Sümer kentlerinin her birinin kendine has bir tanrısı bulunmaktaydı. Bunlar, hava tanrısı, gök tanrı, güneş tanrı, ay tanrı, yaratıcı ana tanrı, çoban tanrı ve tahıl tanrı gibi.Bunların kendi kült merkezleri vardı. Enlil’in Nippur’da, Nanna’nın, Ur’da, Utu’nun Sippar’da, Enki’nin Eridu’da tapınakları yer almıştır. Tanrılar yalnızca tapınakta bir yer işgal etmez aynı zamanda bilge tanrı, koruyucu tanrı, yaratıcı tanrı olarak insanların hayatını da düzenlerdi."
+        "Aciklama": "Soruda metinde örnekleri verilen kült merkezleri ve tanrılarının eşleştirilmesi istenmektedir.<br>Aşağı Mezopotamya’da yer alan Sümer kentlerinin her birinin kendine has bir tanrısı bulunmaktaydı. Bunlar, hava tanrısı, gök tanrı, güneş tanrı, ay tanrı, yaratıcı ana tanrı, çoban tanrı ve tahıl tanrı gibi.Bunların kendi kült merkezleri vardı. Enlil’in Nippur’da, Nanna’nın, Ur’da, Utu’nun Sippar’da, Enki’nin Eridu’da tapınakları yer almıştır. Tanrılar yalnızca tapınakta bir yer işgal etmez aynı zamanda bilge tanrı, koruyucu tanrı, yaratıcı tanrı olarak insanların hayatını da düzenlerdi."
     },
     {
         "SoruID": 3375037,
-        "SoruMetni": "Aşağı Mezopotamya’da yer alan Sümer kentlerinin her birinin kendine has bir tanrısı ve kendi kült merkezleri vardır. Buna göre Tanrıların babası, yerin ve göğün kralı, bütün ülkelerin kralı gibi unvanlara sahip olan Enlil’in tapınağı aşağıdaki şehirlerin hangisinde bulunmaktadır?",
+        "SoruMetni": "Aşağı Mezopotamya’da yer alan Sümer kentlerinin her birinin kendine has bir tanrısı ve kendi kült merkezleri vardır. Buna göre Tanrıların babası, yerin ve göğün kralı, bütün ülkelerin kralı gibi unvanlara sahip olan Enlil’in tapınağı aşağıdaki şehirlerin hangisinde bulunmaktadır?",
         "A": "Ur",
         "B": "Sippa",
         "C": "Nippur",
@@ -897,7 +1037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Aşağı Mezopotamya’da yer alan Sümer kentlerinin her birinin kendine has bir tanrısı bulunmaktaydı. Bunlar, hava tanrısı, gök tanrı, güneş tanrı, ay tanrı, yaratıcı ana tanrı, çoban tanrı ve tahıl tanrı gibi.Bunların kendi kült merkezleri vardı. Enlil’in Nippur’da, Nanna’nın, Ur’da, Utu’nun Sippar’da, Enki’nin Eridu’da tapınakları yer almıştır. Tanrılar yalnızca tapınakta bir yer işgal etmez aynı zamanda bilge tanrı, koruyucu tanrı, yaratıcı tanrı olarak insanların hayatını da düzenlerdi."
+        "Aciklama": "Soruda verilen tanrı ile onun kült ile ilgili olan şehrin eşleştirilmesinin yapılması istenmektedir.<br>Aşağı Mezopotamya’da yer alan Sümer kentlerinin her birinin kendine has bir tanrısı bulunmaktaydı. Bunlar, hava tanrısı, gök tanrı, güneş tanrı, ay tanrı, yaratıcı ana tanrı, çoban tanrı ve tahıl tanrı gibi.Bunların kendi kült merkezleri vardı. Enlil’in Nippur’da, Nanna’nın, Ur’da, Utu’nun Sippar’da, Enki’nin Eridu’da tapınakları yer almıştır. Tanrılar yalnızca tapınakta bir yer işgal etmez aynı zamanda bilge tanrı, koruyucu tanrı, yaratıcı tanrı olarak insanların hayatını da düzenlerdi."
     },
     {
         "SoruID": 3375038,
@@ -917,11 +1057,31 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Enki/ Ea: Sümer deniz ve okyanus tanrısıdır. Aynı zamanda bilge tanrı olup, Enlil’in kararlarına uygun olarak planları hazırlayıp yeryüzünü düzenleyen olarak görülmüştür."
+        "Aciklama": "Soruda özellikleri verilen Sümer tanrısının tanınması amaçlanmaktadır.<br>Enki/ Ea: Sümer deniz ve okyanus tanrısıdır. Aynı zamanda bilge tanrı olup, Enlil’in kararlarına uygun olarak planları hazırlayıp yeryüzünü düzenleyen olarak görülmüştür."
+    },
+    {
+        "SoruID": 3375039,
+        "SoruMetni": "Sümer mitolojisinde Uruk’un ilk hanedanından 3.kral olan, Enmerkarın oğlu, Fara tanrı listelerinde, Gılgamış ve Huwawa destanında Ninsu’nun kocası, Gılgamış’ın babası olarak geçen tanrılaştırılmış kahraman aşağıdakilerden hangisidir?",
+        "A": "Nanna/Sin",
+        "B": "Lugalbanda",
+        "C": "Ningirsu",
+        "D": "Ningişzida",
+        "E": "Usumi",
+        "DogruCevap": "B",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 4,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.816566",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Soruda Sümer mitolojisinden özellikleri verilen tanrının tanınması amaçlanmaktadır.<br>Lugalbanda: Sümer tanrılaştırılmış kahramanıdır.Uruk’un ilk hanedanından 3.kral olarak listelerde geçer. Enmerkarın oğludur.Fara tanrı listelerinde Ninsu’nun kocası olarak bulunur.Eski Babil Devri’nde Nippur ve Uruk’ta tapınım görmüştür. Gılgamış ve Huwawa destanında Ninsu’nun kocası, Gılgamış’ın babası olarak<br/>geçer."
     },
     {
         "SoruID": 3375040,
-        "SoruMetni": "Sümer mitolojisinde ilk defa Fara tanrı listelerinde karşımıza çıkan, bütün Lagaş kralları tarafından tapınım görmüş, yalnızca sınırları korumakla kalmamış, ovalara bereket getiren bir özelliğe sahip, adına kanallar ve su yolları yapılmış, festivaller düzenlenmiş Lagaş şehrinin baş tanrısı aşağıdakilerden hangisidir?",
+        "SoruMetni": "Sümer mitolojisinde ilk defa Fara tanrı listelerinde karşımıza çıkan, bütün Lagaş kralları tarafından tapınım görmüş, yalnızca sınırları korumakla kalmamış, ovalara bereket getiren bir özelliğe sahip, adına kanallar ve su yolları yapılmış, festivaller düzenlenmiş Lagaş şehrinin baş tanrısı aşağıdakilerden hangisidir?",
         "A": "Ningişzida",
         "B": "Usumi",
         "C": "Ningirsu",
@@ -937,11 +1097,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ningirsu: Lagaş şehrinin baş tanrısıdır. İlk defa Fara tanrı listelerinde geçer.Bütün Lagaş kralları tarafından tapınım görmüştür.Bir şehir tanrısı olarak yalnızca sınırları koruyan biri olmayıp ayrıca ovalara bereket getiren bir özelliğe sahiptir. Adına kanallar ve su yolları yapılmış, festivaller düzenlenmiştir."
+        "Aciklama": "Soruda Sümer mitolojisinden özellikleri verilen bir tanrının tanınması amaçlanmıştır.<br>Ningirsu: Lagaş şehrinin baş tanrısıdır. İlk defa Fara tanrı listelerinde geçer.Bütün Lagaş kralları tarafından tapınım görmüştür.Bir şehir tanrısı olarak yalnızca sınırları koruyan biri olmayıp ayrıca ovalara bereket getiren bir özelliğe sahiptir. Adına kanallar ve su yolları yapılmış, festivaller düzenlenmiştir."
     },
     {
         "SoruID": 3375041,
-        "SoruMetni": "Mezopotamya’da yazılmış Sümer/Babil Tufan Mitinde anlatılan Gılgamış destanının 11. tabletinde anlatılan Tufan olayının, Fırat ırmağının dar bir boğazdan geçtiği ve günümüzde Karakaya barajı olan yerde meydana gelen bir deprem sonucu kayaların ırmağın önünü keserek doğal bir baraj gölü haline gelip sonra yıkılmasıyla burada gerçekleşmiş olduğunu belirten araştırmacı aşağıdakilerden hangisidir?",
+        "SoruMetni": "Mezopotamya’da yazılmış Sümer/Babil Tufan Mitinde anlatılan Gılgamış destanının 11. tabletinde anlatılan Tufan olayının, Fırat ırmağının dar bir boğazdan geçtiği ve günümüzde Karakaya barajı olan yerde meydana gelen bir deprem sonucu kayaların ırmağın önünü keserek doğal bir baraj gölü haline gelip sonra yıkılmasıyla burada gerçekleşmiş olduğunu belirten araştırmacı aşağıdakilerden hangisidir?",
         "A": "Mehmet ÖZDOĞAN",
         "B": "Leonard WOOLEY",
         "C": "Muazzez İlmiye ÇIĞ",
@@ -957,7 +1117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sümer/Babil Tufan Miti: Mezopotamya’da Tufan olayı Sümerler tarafından yazılmış daha sonra ise Eski Bābil’de ve Yeni Asur Devrinde tekrar ele alındığı görülmüştür. Tufan olayı Yeni Asur Devri’nde yazılmış olan Gılgamış destanının 11.tabletinde geçer. Tufan olayının nerede gerçekleştiği konusunda farklı görüşler ortaya atılmıştır. Prof. Dr. Mehmet ÖZDOĞAN Atlas Dergisinin Nisan 2006 sayısında, Fırat ırmağının dar bir boğazdan geçtiği ve günümüzde Karakaya barajı olan yerde meydana gelen bir deprem sonucu kayaların ırmağın önünü keserek doğal bir baraj gölü haline gelip sonra yıkılmasıyla buradan itibaren Basra körfezine kadar suların ırmak kenarındaki tüm yerleşim yerlerinin çamur altında bıraktığını ve Fırat nehri üzerindeki bazı höyüklerde yapılan kazılarda büyük taşların bulunduğundan hareketle Tufan olayının burada gerçekleşmiş olduğunu belirtmiştir."
+        "Aciklama": "Soruda verilen arkeolojik belirlemenin kim tarafından yapıldığının hatırlanması amaçlanmıştır.<br>Sümer/Babil Tufan Miti: Mezopotamya’da Tufan olayı Sümerler tarafından yazılmış daha sonra ise Eski Bābil’de ve Yeni Asur Devrinde tekrar ele alındığı görülmüştür. Tufan olayı Yeni Asur Devri’nde yazılmış olan Gılgamış destanının 11.tabletinde geçer. Tufan olayının nerede gerçekleştiği konusunda farklı görüşler ortaya atılmıştır. Prof. Dr. Mehmet ÖZDOĞAN Atlas Dergisinin Nisan 2006 sayısında, Fırat ırmağının dar bir boğazdan geçtiği ve günümüzde Karakaya barajı olan yerde meydana gelen bir deprem sonucu kayaların ırmağın önünü keserek doğal bir baraj gölü haline gelip sonra yıkılmasıyla buradan itibaren Basra körfezine kadar suların ırmak kenarındaki tüm yerleşim yerlerinin çamur altında bıraktığını ve Fırat nehri üzerindeki bazı höyüklerde yapılan kazılarda büyük taşların bulunduğundan hareketle Tufan olayının burada gerçekleşmiş olduğunu belirtmiştir."
     },
     {
         "SoruID": 3375042,
@@ -977,7 +1137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sümer/Babil Tufan Mitinde bahsedilen Mezopotamya’da yaşanan Tufan olayının M. İlmiye Çığ Orta Asya’da meydana geldiğini, burada bulunan bir büyük denizin taşması sonucu Sümerlerin bölgeden kaçarak Önasya’ya geldiklerini ve hafızalarından kaybolmayan bu olayı daha sonra yazıya geçirdiklerini söylemektedir."
+        "Aciklama": "Soruda Tufan olayının nerede gerçekleştiği üzerine bilimsel görüşü verilen araştırmacının tanınması amaçlanmaktadır.<br>Sümer/Babil Tufan Mitinde bahsedilen Mezopotamya’da yaşanan Tufan olayının M. İlmiye Çığ Orta Asya’da meydana geldiğini, burada bulunan bir büyük denizin taşması sonucu Sümerlerin bölgeden kaçarak Önasya’ya geldiklerini ve hafızalarından kaybolmayan bu olayı daha sonra yazıya geçirdiklerini söylemektedir."
     },
     {
         "SoruID": 3375043,
@@ -997,7 +1157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gılgamış, Enkidu ve Ölüler Diyarı: Bu destanda Gılgamış sırasıyla soylu bir şövalye, zalim bir kabadayı, çaresizlik içinde sızlanan biri, vefalı bir bey ve ölüler diyarındaki hayat hakkında bilgi edinmek üzere çırpınan bir ölümlü olarak anlatılır. Enkidu ise efendisinin uyarılarına kulak asmadığından hayatını kaybeden bir dosttur. Destanın ilk bölümünde yaratılış olayları anlatılır.İkinci bölümde Enki ile korkunç bir canavara dönüşen ölüler diyarı arasındaki mücadele anlatılır.Bu savaş gökle yerin birbirinden ayrılmasından ve tanrıça Ereşkigalin zorla yeraltı dünyasına kaçırılmasından hemen sonra başlar.Destanda savaşın sonucu anlatılmayıp, Gılgamış’ın yeni bir macerası başlar."
+        "Aciklama": "Soruda Sümer destanlarından birinin konusu verilerek destanın adının hatırlanması amaçlanmıştır.<br>Gılgamış, Enkidu ve Ölüler Diyarı: Bu destanda Gılgamış sırasıyla soylu bir şövalye, zalim bir kabadayı, çaresizlik içinde sızlanan biri, vefalı bir bey ve ölüler diyarındaki hayat hakkında bilgi edinmek üzere çırpınan bir ölümlü olarak anlatılır. Enkidu ise efendisinin uyarılarına kulak asmadığından hayatını kaybeden bir dosttur. Destanın ilk bölümünde yaratılış olayları anlatılır.İkinci bölümde Enki ile korkunç bir canavara dönüşen ölüler diyarı arasındaki mücadele anlatılır.Bu savaş gökle yerin birbirinden ayrılmasından ve tanrıça Ereşkigalin zorla yeraltı dünyasına kaçırılmasından hemen sonra başlar.Destanda savaşın sonucu anlatılmayıp, Gılgamış’ın yeni bir macerası başlar."
     },
     {
         "SoruID": 3375044,
@@ -1017,7 +1177,47 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gudea’nın Rüyası: Sümer edebî ürünlerinden olan ve döneminin en önemli belgesi niteliğindeki iki adet silindir kitabe üzerine yazdırılmış olan eser, Lağaş beyi Gudea’nın Ningirsu adına bu şehirde yaptırdığı tapınağı anlatmaktadır."
+        "Aciklama": "Soruda konusu verilen Sümer edebiyat ürünlerinden bir eserin tanınması amaçlanmıştır.<br>Gudea’nın Rüyası: Sümer edebî ürünlerinden olan ve döneminin en önemli belgesi niteliğindeki iki adet silindir kitabe üzerine yazdırılmış olan eser, Lağaş beyi Gudea’nın Ningirsu adına bu şehirde yaptırdığı tapınağı anlatmaktadır."
+    },
+    {
+        "SoruID": 3375045,
+        "SoruMetni": "Eski Babil Devri katiplerinin Sümer mitolojik belgelerini kendi dillerine tercüme ettikleri Türkiye’de MÖ II. binyıl ortalarında Boğazköy ve Sultantepe gibi merkezlere ait kaynaklarda karşımıza çıkmaktadır. Mısır’da aynı döneme tarihlenen hangi şehirde Babil mitlerinin versiyonları karşımıza çıkmaktadır?",
+        "A": "Karnak",
+        "B": "Luksor",
+        "C": "Edfu",
+        "D": "Amarna",
+        "E": "Abidos",
+        "DogruCevap": "D",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 4,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.753422",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Soruda verilen eserlerin bulunduğu merkezin hatırlanması amaçlanmıştır.<br>MÖ II. binyıl boyunca Akadça yazılmış tabletlerde Babil mitleri diye bilinen destanlar yer almıştır. Bu destanların çoğunluğu Yeni Asur ve Yeni Babil devri arşivlerinden korunmuş olarak ele geçmiştir. Ninive, Uruk ve Babil gibi kentlerde ele geçen tabletlerin giriş bölümlerinde eski materyalin bir kopyası olarak bulunur. Mısır’daki Amarna ve Türkiye’de Boğazköy ve Sultantepe gibi merkezlerden MÖ II.binyıl ortalarına ait kaynaklarda Babil mitlerinin versiyonları<br/>ortaya çıkmıştır. Babilliler Sumer dini ve kültürünü benimsemişlerdir. Eski Babil Devri katipleri Sumer mitolojik belgelerini kendi dillerine tercüme etmişlerdir. Ayrıca Suriye ve Batı Sami geleneği de benimsenmiştir. Asur ve Babil mitlerinin hemen hemen aynı oldukları bilinmektedir."
+    },
+    {
+        "SoruID": 3375237,
+        "SoruMetni": "“Mit” Yunanca’da ne anlama gelir.",
+        "A": "Söz",
+        "B": "Ufuk",
+        "C": "Toplum",
+        "D": "Evren",
+        "E": "İnaç",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 4,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.754968",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Giriş<br>Söz"
     },
     {
         "SoruID": 3375238,
@@ -1037,16 +1237,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kendi Tanrılar Topluluğunu"
+        "Aciklama": "SUMER PANTEONU<br>Kendi Tanrılar Topluluğunu"
     },
     {
         "SoruID": 3375239,
         "SoruMetni": "An, Mezopotamya panteonunun ne tanrısıdır?",
         "A": "Baş Tanrısı",
-        "B": "Gök Tanrısı",
-        "C": "Deniz Tanrısı",
-        "D": "Doğa Tanrısı",
-        "E": "Ana Tanrısı",
+        "B": "Gök Tanrısı",
+        "C": "Deniz Tanrısı",
+        "D": "Doğa Tanrısı",
+        "E": "Ana Tanrısı",
         "DogruCevap": "A",
         "DersAd": "Mitoloji ve Din",
         "Unite": 4,
@@ -1101,7 +1301,7 @@
     },
     {
         "SoruID": 3375242,
-        "SoruMetni": "Sumerlerin iki yüzlü tanrısıdır.  Kültepe’de bulunan Anadolu grubundaki mühür baskılarının<br/>tapınım sahnelerinde ve tanrı alaylarında, Bābilli özelikleri ve Anadolu’da kazandığı yeni hususiyetleriyle önemli bir yer tutmaktadır. Mühürlerde genellikle dua eden kişiyi Ea’ya haber verirken tasvir edilmiştir. Söz konusu Tanrı kimdir?",
+        "SoruMetni": "Sumerlerin iki yüzlü tanrısıdır. Kültepe’de bulunan Anadolu grubundaki mühür baskılarının<br/>tapınım sahnelerinde ve tanrı alaylarında, Bābilli özelikleri ve Anadolu’da kazandığı yeni hususiyetleriyle önemli bir yer tutmaktadır. Mühürlerde genellikle dua eden kişiyi Ea’ya haber verirken tasvir edilmiştir. Söz konusu Tanrı kimdir?",
         "A": "Usumi",
         "B": "Ninhursag",
         "C": "Ninşubur",
@@ -1120,8 +1320,28 @@
         "Aciklama": "Usumi"
     },
     {
+        "SoruID": 3375243,
+        "SoruMetni": "Babilonya güneş tanrısı olup, çoğunlukla UTU logogamıyla yazılan tanrıya ne ad verilir?",
+        "A": "Utu",
+        "B": "Ninşubur",
+        "C": "İlabrat",
+        "D": "Nanna",
+        "E": "Sin",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 4,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.833980",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Utu"
+    },
+    {
         "SoruID": 3375251,
-        "SoruMetni": "Pek çok Sumer destanı Dumuzi ile İnanna arasında geçer. Dumuzi’nin İnanna’ya kur yapması kaç bölümde anlatılır?",
+        "SoruMetni": "Pek çok Sumer destanı Dumuzi ile İnanna arasında geçer. Dumuzi’nin İnanna’ya kur yapması kaç bölümde anlatılır?",
         "A": "İki",
         "B": "Üç",
         "C": "Dört",
@@ -1137,13 +1357,13 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İki"
+        "Aciklama": "Dumuzi ile İnanna Miti<br>İki"
     },
     {
         "SoruID": 3375253,
-        "SoruMetni": "Dilmun’da geçmektedir. Önce ırmakları ve kanalları yaratır. Tanrı Ud’un yardımıyla yeryüzüne su çıkartır ve onları depolamak için havuzlar ve sarnıçlar yapar. Tarlalar suyun bolluğundan ürün verir. Rıhtımlar ve su yolları ticarete uygun hale gelir. Dilmun şimdi cazip bir yer olmuştur.  Suyu kıraç bölgelere sevk eder ve büyük bahçeler oluşturur. Utu buna sevinir ve Onunla ile uykuya dalar. Bahse konu olan bu ifadeler hangi mit'e ait olabilir?",
+        "SoruMetni": "Dilmun’da geçmektedir. Önce ırmakları ve kanalları yaratır. Tanrı Ud’un yardımıyla yeryüzüne su çıkartır ve onları depolamak için havuzlar ve sarnıçlar yapar. Tarlalar suyun bolluğundan ürün verir. Rıhtımlar ve su yolları ticarete uygun hale gelir. Dilmun şimdi cazip bir yer olmuştur. Suyu kıraç bölgelere sevk eder ve büyük bahçeler oluşturur. Utu buna sevinir ve Onunla ile uykuya dalar. Bahse konu olan bu ifadeler hangi mit'e ait olabilir?",
         "A": "Enki ve Ninhursag Miti",
-        "B": "Sumer/Ba-bil  Miti",
+        "B": "Sumer/Ba-bil Miti",
         "C": "Enlil ve Ninlil Miti",
         "D": "Dünya Düzeni Miti",
         "E": "Yaratılış Miti",
@@ -1165,7 +1385,7 @@
         "A": "Gılgamış ve Kiş Kralı Agga Destanı",
         "B": "Ninli Destanı",
         "C": "Adapa Destanı",
-        "D": "Sümer Destanı",
+        "D": "Sümer Destanı",
         "E": "Babil Tufan Destanı",
         "DogruCevap": "A",
         "DersAd": "Mitoloji ve Din",
@@ -1180,8 +1400,28 @@
         "Aciklama": "Gılgamış ve Kiş Kralı Agga Destanı"
     },
     {
+        "SoruID": 3375307,
+        "SoruMetni": "<span> Mezopotamya panteonunun baş tanrısı<br/>olup, göğün kişileştirilmiş halidir, kutsal rakamı<br/>60’tır. Bütün Mezopotamya tanrılarının en yüksek rakamıdır.</span> <br/>Yukarıda sözü edilen Tanrı hangisidir?",
+        "A": "Anu",
+        "B": "Anunna",
+        "C": "Enlil",
+        "D": "Enki",
+        "E": "Anzu",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 4,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.850870",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "An/Anu"
+    },
+    {
         "SoruID": 3375308,
-        "SoruMetni": "<span>Sumer deniz ve okyanus tanrısıdır. Aynı zamanda bilge tanrı olup, Enlil’in kararlarına uygun olarak planları hazırlayıp yeryüzünü düzenleyen olarak görülmüştür.</span><br/> <span>Yukarıda sözü edilen Tanrı hangisidir? </span>",
+        "SoruMetni": "<span>Sumer deniz ve okyanus tanrısıdır. Aynı zamanda bilge tanrı olup, Enlil’in kararlarına uygun olarak planları hazırlayıp yeryüzünü düzenleyen olarak görülmüştür.</span><br/><span>Yukarıda sözü edilen Tanrı hangisidir? </span>",
         "A": "Anzu",
         "B": "Enki",
         "C": "Anunna",
@@ -1201,7 +1441,7 @@
     },
     {
         "SoruID": 3375309,
-        "SoruMetni": "<span>Sumer yeraltı dünyası tanrıçası “büyük yerin<br/>beyi” anlamına gelir.Sumer kurban listelerinde ve<br/>III.Ur Devrine ait tapınak sunularında bilinir.Bu<br/>tanrıçaya adanmış dua ve ilahiler azdır</span> <br/> Sözü edilen Tanrıça hangisidir?",
+        "SoruMetni": "<span>Sumer yeraltı dünyası tanrıçası “büyük yerin<br/>beyi” anlamına gelir.Sumer kurban listelerinde ve<br/>III.Ur Devrine ait tapınak sunularında bilinir.Bu<br/>tanrıçaya adanmış dua ve ilahiler azdır</span> <br/>Sözü edilen Tanrıça hangisidir?",
         "A": "Enkidu",
         "B": "Adad",
         "C": "<span>Ereşkigal</span>",
@@ -1221,7 +1461,7 @@
     },
     {
         "SoruID": 3375310,
-        "SoruMetni": "<span>Ay tanrısıdır. Ur şehriyle alakalı olup, sembolik rakamı 30’dur.</span> <br/> <span>Sözü edilen Tanrı hangisidir? </span>",
+        "SoruMetni": "<span>Ay tanrısıdır. Ur şehriyle alakalı olup, sembolik rakamı 30’dur.</span> <br/><span>Sözü edilen Tanrı hangisidir? </span>",
         "A": "<span>Nanna</span>",
         "B": "Lugalbanda",
         "C": "<span>Dumuzi</span>",
@@ -1237,11 +1477,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span>Nanna</span> (Sin)"
+        "Aciklama": "<span>Nanna</span> (Sin)"
     },
     {
         "SoruID": 3375311,
-        "SoruMetni": "<span>Lagaş şehrinin baş tanrısıdır.İlk defa Fara tanrı listelerinde geçer.Bütün Lagaş kralları tarafından tapınım görmüştür.Bir şehir tanrısı olarak yalnızca sınırları koruyan biri olmayıp ayrıca ovalara bereket getiren bir özelliğe sahiptir.</span> <br/> Sözü edilen Tanrı hangisidir?",
+        "SoruMetni": "<span>Lagaş şehrinin baş tanrısıdır.İlk defa Fara tanrı listelerinde geçer.Bütün Lagaş kralları tarafından tapınım görmüştür.Bir şehir tanrısı olarak yalnızca sınırları koruyan biri olmayıp ayrıca ovalara bereket getiren bir özelliğe sahiptir.</span> <br/>Sözü edilen Tanrı hangisidir?",
         "A": "<span>Ninhursag</span>",
         "B": "<span>Nisaba</span>",
         "C": "<span>İlabrat</span>",
@@ -1261,7 +1501,7 @@
     },
     {
         "SoruID": 3375312,
-        "SoruMetni": "<span>Sumerce NAGA işaretiyle ve hububat çeşitlerinin farklı türlerinin determinatifiyle yazılır.İkonoğrafik sembolü mısır başağıdır.Erken yazılı belgelerde karşımıza çıkmaktadır.Fara listelerinde geçer.Uruk’un<br/>hanımefendisi olup Umma’da tapınım görmüştür.</span> <br/> Sözü edilen Tanrıça hangisidir?",
+        "SoruMetni": "<span>Sumerce NAGA işaretiyle ve hububat çeşitlerinin farklı türlerinin determinatifiyle yazılır.İkonoğrafik sembolü mısır başağıdır.Erken yazılı belgelerde karşımıza çıkmaktadır.Fara listelerinde geçer.Uruk’un<br/>hanımefendisi olup Umma’da tapınım görmüştür.</span> <br/>Sözü edilen Tanrıça hangisidir?",
         "A": "<span>Nisaba</span>",
         "B": "<span>Ninşubur</span>",
         "C": "<span>Ningişzida</span>",
@@ -1284,7 +1524,7 @@
         "SoruMetni": "Aşağıdakilerden hangisi Sümer ağıtlarından biridir?",
         "A": "<span>Gılgamış ve Yaşayanlar Ülkesi</span>",
         "B": "<span>Enlil ve Ninlil</span>",
-        "C": "<span>Enmerkar ve Aratta Beyi</span> <br/>",
+        "C": "<span>Enmerkar ve Aratta Beyi</span>",
         "D": "<span>Etena ile Kartal</span>",
         "E": "<span>Agade’nin Lanetlenmesi</span>",
         "DogruCevap": "E",
@@ -1303,9 +1543,9 @@
         "SoruID": 3375314,
         "SoruMetni": "Aşağıdakilerden hangisinde Sümer mitosları verilmiştir?",
         "A": "<span>Enlil ve Ninli - Enki ve Dünya Düzeni <br/></span>",
-        "B": "<span>Gılgamış, Enkidu ve Ölüler Diyarı- Enmerkar ve Aratta Beyi <br/> </span>",
-        "C": "<span>Etena ile Kartal- Gılgamış ve Yaşayanlar Ülkesi <br/> </span>",
-        "D": "<span>Ur-Nammu Ağıtı- Agade’nin Lanetlenmesi <br/> </span>",
+        "B": "<span>Gılgamış, Enkidu ve Ölüler Diyarı- Enmerkar ve Aratta Beyi <br/></span>",
+        "C": "<span>Etena ile Kartal- Gılgamış ve Yaşayanlar Ülkesi <br/></span>",
+        "D": "<span>Ur-Nammu Ağıtı- Agade’nin Lanetlenmesi <br/></span>",
         "E": "<span>Agade’nin Lanetlenmesi-Enki ve Dünya Düzeni <br/></span>",
         "DogruCevap": "A",
         "DersAd": "Mitoloji ve Din",
@@ -1320,8 +1560,28 @@
         "Aciklama": "<span>Enlil ve Ninli - Enki ve Dünya Düzeni <br/></span>"
     },
     {
+        "SoruID": 3375315,
+        "SoruMetni": "<span>Sumerlerin iki yüzlü tanrısıdır.Kültepe’de<br/>bulunan Anadolu grubundaki mühür baskılarının<br/>tapınım sahnelerinde ve tanrı alaylarında, Bābilli<br/>özelikleri ve Anadolu’da kazandığı yeni hususiyetleriyle önemli bir yer tutmaktadır.</span> <br/>Yukarıda sözü edilen Tanrı hangisidir?",
+        "A": "<span>Şamaş</span>",
+        "B": "<span>Ninurta</span>",
+        "C": "<span>Nisaba</span>",
+        "D": "<span>Usumi</span>",
+        "E": "<span>Nanna</span>",
+        "DogruCevap": "D",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 4,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:08:53.873014",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "<span>Usumi</span>"
+    },
+    {
         "SoruID": 3375316,
-        "SoruMetni": "<span>Lagaş şehrinin baş tanrısıdır.İlk defa Fara tanrı listelerinde geçer.Bütün Lagaş kralları tarafından tapınım görmüştür.Bir şehir tanrısı olarak yalnızca sınırları koruyan biri olmayıp ayrıca ovalara bereket getiren bir özelliğe sahiptir.</span> <br/> Sözü edilen Tanrı hangisidir?",
+        "SoruMetni": "<span>Lagaş şehrinin baş tanrısıdır.İlk defa Fara tanrı listelerinde geçer.Bütün Lagaş kralları tarafından tapınım görmüştür.Bir şehir tanrısı olarak yalnızca sınırları koruyan biri olmayıp ayrıca ovalara bereket getiren bir özelliğe sahiptir.</span> <br/>Sözü edilen Tanrı hangisidir?",
         "A": "<span>Ningişzida</span>",
         "B": "<span>Ninşubur</span>",
         "C": "<span>Ningirsu</span>",

@@ -12,8 +12,7 @@
         "D": "<p>High Dynamic Range imaging</p>",
         "E": "<p>UV haritalama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834307,
@@ -28,8 +27,7 @@
         "D": "<p>Objenin yüzey geometrisinde optik illüzyonlar yaratarak derinlik ve detay katkısında bulunur.</p>",
         "E": "<p>Sahneye fazladan poligon eklemeden kaynakları daha verimli kullanmamızı sağlar.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834309,
@@ -44,8 +42,7 @@
         "D": "<p>Görsel uyum</p>",
         "E": "<p>Sıcak ışık etkisi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834312,
@@ -60,8 +57,7 @@
         "D": "<p>Geniş açı lens kullanımı sahnedeki objeler arasındaki mesafeyi sıkıştırarak daha samimi ve yoğun bir görüntü oluşturabilir.</p> ",
         "E": "<p>Doğru kamera ayarı yapılması, hikâyeyi anlatma biçimini ve izleyicinin eseri algılayış şeklini doğrudan etkiler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834317,
@@ -76,8 +72,7 @@
         "D": "<p>UV haritalama</p> ",
         "E": "<p>Depth of field</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834321,
@@ -92,8 +87,7 @@
         "D": "<p>Alan ışığı</p> ",
         "E": "<p>Gece ışığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834322,
@@ -108,8 +102,7 @@
         "D": "<p>Ampul, mum, fener gibi küçük ışık kaynaklarını temsil etmek için kullanılır.</p>",
         "E": "<p>Karakterlerin ve objelerin görsel algısını şekillendirmek ve sahneye üç boyutluluk algısı kazandırmak için kullanılır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834326,
@@ -124,8 +117,7 @@
         "D": "<p>I, III, VII</p> ",
         "E": "<p>III, IV, VI</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834329,
@@ -140,8 +132,7 @@
         "D": "<p>Nuke Studio</p>",
         "E": "<p>Autodesk Maya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834330,
@@ -156,7 +147,6 @@
         "D": "<p>After Effects</p>",
         "E": "<p> Blender 3D</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

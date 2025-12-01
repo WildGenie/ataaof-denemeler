@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3683376,
-        "SoruMetni": "Farklı lensler alınarak tek bir kamera ile makro çekimden panoramik manzaralara kadar çekim olanağı sağlayan, hem profesyonel hem de amatör fotoğrafçılar tarafından kullanılan dijital kameralara ne ad verilir?",
+        "SoruMetni": "Farklı lensler alınarak tek bir kamera ile makro çekimden panoramik manzaralara kadar çekim olanağı sağlayan, hem profesyonel hem de amatör fotoğrafçılar tarafından kullanılan dijital kameralara ne ad verilir?",
         "A": "DSLR",
         "B": "SDLR",
         "C": "DRLS",
@@ -117,11 +117,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>DSLR </strong>ya da Digital Single Lens Reflex kamera (Tr. Dijital Tek Mercek Yansımalı kamera), hem profesyonel hem de amatör fotoğrafçılar tarafından kullanılan bir fotoğraf makinesi türüdür. Dijital SLR’lere farklı lensler alınarak tek bir kamera gövdesinin makro fotoğrafçılıktan panoramik manzaralara kadar her şeyi çekmesine olanak tanınabilir."
+        "Aciklama": "<strong>DSLR </strong>ya da Digital Single Lens Reflex kamera (Tr. Dijital Tek Mercek Yansımalı kamera), hem profesyonel hem de amatör fotoğrafçılar tarafından kullanılan bir fotoğraf makinesi türüdür. Dijital SLR’lere farklı lensler alınarak tek bir kamera gövdesinin makro fotoğrafçılıktan panoramik manzaralara kadar her şeyi çekmesine olanak tanınabilir."
     },
     {
         "SoruID": 3683416,
-        "SoruMetni": "Aşağıdakilerden hangisi, SSD’deki sıralı ve rastgele veri istekleri için yüksek okuma/yazma performansı sağlamak üzere optimize edilmiş yapılandırmanın iki temel bileşeninden biridir?",
+        "SoruMetni": "Aşağıdakilerden hangisi, SSD’deki sıralı ve rastgele veri istekleri için yüksek okuma/yazma performansı sağlamak üzere optimize edilmiş yapılandırmanın iki temel bileşeninden biridir?",
         "A": "Mekanik kol",
         "B": "Döner plakalar",
         "C": "Flash denetleyici",
@@ -177,11 +177,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "After Effects 2.5 boyutlu bir animasyon yazılımıdır. <br/> Adobe After Effects’i hareketli grafik sanatçıları için mükemmel bir yazılım haline getiren yüzlerce özellik vardır, ancak en önemlisi efekt tarayıcısı, zaman çizelgesi ve kompozisyon panelidir.<br/> Efekt tarayıcısı, zaman çizelgesindeki katmanlara (şekiller, görüntüler, videolar vb.) kolayca sürüklenip bırakılabilen yüzlerce efekt ve hazır ayarlar içeren bir paneldir. B<br/> After Effects’te bulunan zaman çizelgesi, bir video düzenleme yazılımında kullanmış olunabilecek normal bir zaman çizelgesi gibi değildir. After Effects zaman çizelgesi, tüm öğelerin (grafik, fotoğraf, video, yazı, ses dosyası vb.) düzenlenebileceği bir yerdir.<br/> <strong>Adobe ailesinde vektörel elemanlar oluşturmak ve düzenlemek için en elverişli yazılım Adobe Illustrator programıdır.</strong>"
+        "Aciklama": "After Effects 2.5 boyutlu bir animasyon yazılımıdır. <br/>Adobe After Effects’i hareketli grafik sanatçıları için mükemmel bir yazılım haline getiren yüzlerce özellik vardır, ancak en önemlisi efekt tarayıcısı, zaman çizelgesi ve kompozisyon panelidir.<br/>Efekt tarayıcısı, zaman çizelgesindeki katmanlara (şekiller, görüntüler, videolar vb.) kolayca sürüklenip bırakılabilen yüzlerce efekt ve hazır ayarlar içeren bir paneldir. B<br/>After Effects’te bulunan zaman çizelgesi, bir video düzenleme yazılımında kullanmış olunabilecek normal bir zaman çizelgesi gibi değildir. After Effects zaman çizelgesi, tüm öğelerin (grafik, fotoğraf, video, yazı, ses dosyası vb.) düzenlenebileceği bir yerdir.<br/><strong>Adobe ailesinde vektörel elemanlar oluşturmak ve düzenlemek için en elverişli yazılım Adobe Illustrator programıdır.</strong>"
     },
     {
         "SoruID": 3683508,
-        "SoruMetni": "Bu yazılım düzlemsel tabanlı bir hareket izleme sistemidir. Bu, temel olarak bir piksel kümesini izlemenin ötesinde hareketin izlendiği anlamına gelmektedir. Akıllı telefon ya da ekranlardaki görüntüleri değiştirme, videolardaki istenmeyen nesneleri kaldırma veya rotoskoplama işlemleri için kullanılabilmektedir. <br/> Sözü geçen yazılım aşağıdakilerden hangisidir?",
+        "SoruMetni": "Bu yazılım düzlemsel tabanlı bir hareket izleme sistemidir. Bu, temel olarak bir piksel kümesini izlemenin ötesinde hareketin izlendiği anlamına gelmektedir. Akıllı telefon ya da ekranlardaki görüntüleri değiştirme, videolardaki istenmeyen nesneleri kaldırma veya rotoskoplama işlemleri için kullanılabilmektedir. <br/>Sözü geçen yazılım aşağıdakilerden hangisidir?",
         "A": "Mocha AE",
         "B": "BorisFX Syntheyes",
         "C": "Maxon Trapcode Suite",

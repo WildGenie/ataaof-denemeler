@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3641480,
-        "SoruMetni": "I.Da Vinci<br/><br/>II.Picasso<br/><br/>III.Raphael<br/><br/>IV.Cezeri<br/><br/>V. Tinguely<br/><br/> Yukarıdakilerden hangisi/hangileri  Server Demirtaş’ın çalışmalarına ilham  vermiştir?",
+        "SoruMetni": "I.Da Vinci<br/>II.Picasso<br/>III.Raphael<br/>IV.Cezeri<br/>V. Tinguely<br/>Yukarıdakilerden hangisi/hangileri Server Demirtaş’ın çalışmalarına ilham vermiştir?",
         "A": "Yalnız I",
         "B": "I,II",
         "C": "I,II,III",
@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 3641481,
-        "SoruMetni": "I.Alanın teknolojik bilgisini öğrencilerine sunar.<br/><br/>II. Mühendislik, matematik gibi alanlardan daha çok klasik sanat eğitimi veren alanlardır.<br/><br/>III.Klasik sanat eğitimi kurumlarından daha etkileşimsel yapıdaki atölye ortamı sunar.<br/><br/>IV. Güncel teknoloji ve malzemeyle disiplinler arası geçişkenli­ğin kolaylıkla sağlandığı bir atölye ortamı yaratırlar.<br/><br/>Yukarıdaki ifadelerden hangisi/ hangileri <em>Görsel İletişim Tasarımı</em> bölümleri alanını doğru tanımlar?",
+        "SoruMetni": "I.Alanın teknolojik bilgisini öğrencilerine sunar.<br/>II. Mühendislik, matematik gibi alanlardan daha çok klasik sanat eğitimi veren alanlardır.<br/>III.Klasik sanat eğitimi kurumlarından daha etkileşimsel yapıdaki atölye ortamı sunar.<br/>IV. Güncel teknoloji ve malzemeyle disiplinler arası geçişkenli­ğin kolaylıkla sağlandığı bir atölye ortamı yaratırlar.<br/>Yukarıdaki ifadelerden hangisi/ hangileri <em>Görsel İletişim Tasarımı</em> bölümleri alanını doğru tanımlar?",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I,II, III",
@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 3641482,
-        "SoruMetni": "NOMAD-TV.network  adlı oluşum aşağıdakilerden hangisinin küratör­yel projesidir?",
+        "SoruMetni": "NOMAD-TV.network adlı oluşum aşağıdakilerden hangisinin küratör­yel projesidir?",
         "A": "Başak Şenova",
         "B": "Ekmel Er­tan",
         "C": "Nafiz Akşehirlioğlu",
@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 3641483,
-        "SoruMetni": "…………adlı eser devasa boyutta kamusal alanda tarihi bir yapının dış yüzey­lerine uygulanan projection mapping / üç boyutlu haritalama performansıdır.<br/> Aşağıdakilerden hangisi yukarıdaki ifadede boş bırakılan yeri doğru  olarak tamamlar?",
+        "SoruMetni": "…………adlı eser devasa boyutta kamusal alanda tarihi bir yapının dış yüzey­lerine uygulanan projection mapping / üç boyutlu haritalama performansıdır.<br/>Aşağıdakilerden hangisi yukarıdaki ifadede boş bırakılan yeri doğru olarak tamamlar?",
         "A": "Yekpare",
         "B": "Flux",
         "C": "Parataktik Müşterekler",
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2010 yılında İstanbul’un Kültür Başkenti ol­ması üzerine Kadıköy’de bulunan Haydarpaşa Tren Garı’nda Nerdworking ekibi, sanatçılar Candaş Şişman, Deniz Kader ve Görkem Şen’le bir proje gerçekleştirir. Yekpare adlı eser,  devasa boyutta kamusal alanda tarihi bir yapının dış yüzey­lerine uygulanan projection mapping / üç boyutlu haritalama performansındır. Şehrin en görkem­li alanlarından birinde konumlanan Haydarpaşa Garı’nın yüzeyleri video, animasyon, yazılım kulla­nılarak üretilen görsellerin yansıtılmasıyla bambaş­ka bir yapıya dönüştürülür."
+        "Aciklama": "2010 yılında İstanbul’un Kültür Başkenti ol­ması üzerine Kadıköy’de bulunan Haydarpaşa Tren Garı’nda Nerdworking ekibi, sanatçılar Candaş Şişman, Deniz Kader ve Görkem Şen’le bir proje gerçekleştirir. Yekpare adlı eser, devasa boyutta kamusal alanda tarihi bir yapının dış yüzey­lerine uygulanan projection mapping / üç boyutlu haritalama performansındır. Şehrin en görkem­li alanlarından birinde konumlanan Haydarpaşa Garı’nın yüzeyleri video, animasyon, yazılım kulla­nılarak üretilen görsellerin yansıtılmasıyla bambaş­ka bir yapıya dönüştürülür."
     },
     {
         "SoruID": 3641484,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1983, Ankara doğumlu Erdal İnci, Hacette­pe Üniversitesi, Güzel Sanatlar Fakültesi, Resim Bölümünden 2005 yılında mezun olur. Mezun olduktan sonra fotoğraf, animasyon, dijital sanat ve video çalışmaları yapan İnci 2009’da İstanbul’a geldikten kısa bir süre sonra dünya çapında tanın­masını yol açan bir çalışmaya imza atar. Clones Project  adıyla sunduğu seri teme­linde kısa anlara sıkıştırdığı video performansların kusursuz bir döngüde tekrar etmesinden oluşur."
+        "Aciklama": "1983, Ankara doğumlu Erdal İnci, Hacette­pe Üniversitesi, Güzel Sanatlar Fakültesi, Resim Bölümünden 2005 yılında mezun olur. Mezun olduktan sonra fotoğraf, animasyon, dijital sanat ve video çalışmaları yapan İnci 2009’da İstanbul’a geldikten kısa bir süre sonra dünya çapında tanın­masını yol açan bir çalışmaya imza atar. Clones Project adıyla sunduğu seri teme­linde kısa anlara sıkıştırdığı video performansların kusursuz bir döngüde tekrar etmesinden oluşur."
     },
     {
         "SoruID": 3641487,
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3641489,
-        "SoruMetni": "I.Türkiye’de ilk kinetik heykel örnekleri olarak görülen eserleri vermiştir.<br/><br/> II.Klasik gelenekten gelmiş, dijital göçmen sanatçıların en eski temsilci­sidir.<br/><br/> III.Yaklaşık yirmi yıl boyunca üç boyutun olasılıklarını arayan çalışmalar yapmıştır.<br/><br/> IV. Kendisini medya teknolojileri uzmanı  olarak adlan­dırır.<br/><br/> Yukarıdaki ifadelerden hangisi/hangileri Server Demirtaş'ın özellikleri içinde yer alır?",
+        "SoruMetni": "I.Türkiye’de ilk kinetik heykel örnekleri olarak görülen eserleri vermiştir.<br/>II.Klasik gelenekten gelmiş, dijital göçmen sanatçıların en eski temsilci­sidir.<br/>III.Yaklaşık yirmi yıl boyunca üç boyutun olasılıklarını arayan çalışmalar yapmıştır.<br/>IV. Kendisini medya teknolojileri uzmanı olarak adlan­dırır.<br/>Yukarıdaki ifadelerden hangisi/hangileri Server Demirtaş'ın özellikleri içinde yer alır?",
         "A": "Yalnız I",
         "B": "Yalnız IV",
         "C": "II,III",
@@ -185,7 +185,7 @@
         "A": "İzleyicinin ba­şına özel bir gözlük takınca, önündeki kağıda düz çizgi çizmek, kullanıcının elindeki topu atıp tut­ması gibi basit psikomotor faaliyetleri gerçekleşti­rememesini konu edinir.",
         "B": "Türkiye’deki servet paylaşımını gör­selleştiren bir GIF animasyondur.",
         "C": "Bir pandomimcinin izleyeni bir tablo içerisinde gözlemesini konu edinir.",
-        "D": "Şiirleri basılan  şair bir robotu konu edinir.",
+        "D": "Şiirleri basılan şair bir robotu konu edinir.",
         "E": "Banka üzerinden yapılan harcamaları analiz eden canlı bir yazılımın ertesi gün sanatçının ne alacağını tahmin etmesini konu edinir.",
         "DogruCevap": "A",
         "DersAd": "Yeni Medya Sanatı",
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 3641602,
-        "SoruMetni": "I. Bank of Amerika’nın gizlilik sözleşmesindeki ifadelerden hareketle oluşur. II. Sanatçının banka üzerinden yaptığı harcamalarını analiz eden canlı bir yazılım ertesi gün sanatçının ne alacağını tahmin eder. III. Sanatçının duygu durumu ve hayat anlayışına ilişkin önermeleri analiz eder. IV. Kişiye özel mali kayıtların şirketler tarafından veri işleme, analiz ve kullanımını sorgulatır. Sıralanan ifadelerden hangileri sanatçı Burak Arıkan'ın 2007 yılında ürettiği My Pocket / Cüzdanım adlı çalışmasına ilişkin özellikler arasında gösterilebilir?",
+        "SoruMetni": "I. Bank of Amerika’nın gizlilik sözleşmesindeki ifadelerden hareketle oluşur. II. Sanatçının banka üzerinden yaptığı harcamalarını analiz eden canlı bir yazılım ertesi gün sanatçının ne alacağını tahmin eder. III. Sanatçının duygu durumu ve hayat anlayışına ilişkin önermeleri analiz eder. IV. Kişiye özel mali kayıtların şirketler tarafından veri işleme, analiz ve kullanımını sorgulatır. Sıralanan ifadelerden hangileri sanatçı Burak Arıkan'ın 2007 yılında ürettiği My Pocket / Cüzdanım adlı çalışmasına ilişkin özellikler arasında gösterilebilir?",
         "A": "I, II ve IV",
         "B": "I, III ve IV",
         "C": "II, III ve IV",
@@ -338,6 +338,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "\"III. Sanatçının duygu durumu ve hayat anlayışına ilişkin önermeleri analiz eder.\" ifadesi konu ile ilgili değildir. A seçeneğinde yer alan I, II ve IV numaralı ifadeler doğru yanıtı oluşturmaktadır."
+    },
+    {
+        "SoruID": 3641603,
+        "SoruMetni": "Sanatçı Bager Akbay'ın, Posta gazetesi Yurdumun Şairi köşesine başvurması için gerekli olan vesikalık fotoğrafını bu köşede daha önce şiirleri basılan 60 şairin vesikalıklarının karışımından ürettiği sanal şair aşağıdakilerden hangisidir?",
+        "A": "Deniz Yılmaz",
+        "B": "Berkay Tunalı",
+        "C": "Erdal İnci",
+        "D": "Burak Arıkan",
+        "E": "Selçuk Artut",
+        "DogruCevap": "A",
+        "DersAd": "Yeni Medya Sanatı",
+        "Unite": 8,
+        "Somestre": "3",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T04:10:27.289052",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Sanatçı Bager Akbay, Yazı yazmayı öğrettiği robota, cinsiyet belirtmeyen yaygın bir isim soyadı atayarak Posta gazetesi Yurdumun Şairi köşesine başvurması için gerekli olan vesikalık fotoğrafını bu köşede daha önce şiirleri basılan 60 şairin vesikalıklarının karışımından üretti."
     },
     {
         "SoruID": 3641604,
@@ -357,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru Yanıt C seçeneği ve sanatçı ismi Murat Pak olacaktır. Türk yeni medya sanatçıları alanlarının en iyileri olarak uluslararası arenada boy göstermeye başladıkları son yirmi yıldan günümüze gelindiğinde kripto para ekonomisinin hızla yaygınlaşması sanat eseri tanımını dönüştürmüştür ve blok zinciri adı verilen bir dijital defterde depolanan veri birimini ifade eden NFT ortaya çıkmıştır. Bugün, Aralık 2021 itibariyle yaşarken eseri en yüksek fiyata (91 milyon dolar) satılmış olan sanatçı,  Murat Pak'tır. Dünyanın en pahalı kripto üreticisi / sanatçısı olarak literatüre girmiştir."
+        "Aciklama": "Doğru Yanıt C seçeneği ve sanatçı ismi Murat Pak olacaktır. Türk yeni medya sanatçıları alanlarının en iyileri olarak uluslararası arenada boy göstermeye başladıkları son yirmi yıldan günümüze gelindiğinde kripto para ekonomisinin hızla yaygınlaşması sanat eseri tanımını dönüştürmüştür ve blok zinciri adı verilen bir dijital defterde depolanan veri birimini ifade eden NFT ortaya çıkmıştır. Bugün, Aralık 2021 itibariyle yaşarken eseri en yüksek fiyata (91 milyon dolar) satılmış olan sanatçı, Murat Pak'tır. Dünyanın en pahalı kripto üreticisi / sanatçısı olarak literatüre girmiştir."
     },
     {
         "SoruID": 3641625,
@@ -377,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nomad.tv"
+        "Aciklama": "Küratör ve tasarımcı Başak Şenova’nın küratöryel<br/>projesi olarak 2002 yılında ortaya çıkan oluşum<br/>dijital kültür içinde yerel bir şebeke kurma amacıyla<br/>kurulmuş.<br>Nomad.tv"
     },
     {
         "SoruID": 3641626,
@@ -397,11 +417,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Alman ve Fransız"
+        "Aciklama": "Ülkemizde sanat eğitiminin planlaması yapılırken<br/>ağırlıklı olarak Alman ve Fransız ekolleri<br/>baz alınmıştır."
     },
     {
         "SoruID": 3641627,
-        "SoruMetni": "En temel ifade ile sanat bir insanın ........................  şeklidir. Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?",
+        "SoruMetni": "En temel ifade ile sanat bir insanın ........................ şeklidir. Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?",
         "A": "konuşma",
         "B": "düşünme",
         "C": "kendini ifade etme",
@@ -417,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "kendini ifade etme"
+        "Aciklama": "En temel ifade ile sanat bir insanın kendini ifade<br/>etme şeklidir"
     },
     {
         "SoruID": 3641628,
@@ -437,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Commodore 64"
+        "Aciklama": "1982’de üretilen ve ilk oyun bilgisayarlarından<br/>biri sayılabilecek Commodore 64’ün yaygınlaşması<br/>ile oyunları edinmeye maddi imkanı<br/>olmayan birçok çocuk bu oyunları kopyalamaya<br/>başlamıştır."
     },
     {
         "SoruID": 3641629,
@@ -457,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Selçuk Artut"
+        "Aciklama": "Karmaşık ağ sistemleri ile toplumsal konular<br/>üzerine soyut mekanizmalar, ağ haritaları ve tahmin<br/>sistemleri yaratarak, sosyal yapılardaki güç odaklarını<br/>ve ilişkileri bu sistemler sayesinde görselleştirir<br>Selçuk Artut"
     },
     {
         "SoruID": 3641630,
@@ -477,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Erdal İnci"
+        "Aciklama": "İnci’nin yarattığı sürreal, dijital ve figüratif<br/>GIF looplarındaki müdahaleler mekanı renk ve<br/>formlar yerine hareket ve zamanla kompoze eder.<br>Erdal İnci"
     },
     {
         "SoruID": 3641631,
@@ -497,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bager Akbay"
+        "Aciklama": "İzleyicinin başına<br/>özel bir gözlük takınca, önündeki kağıda düz<br/>çizgi çizmek, kullanıcının elindeki topu atıp tutması<br/>gibi basit psikomotor faaliyetleri gerçekleştirememesini<br/>konu alıyor.<br>Bager Akbay"
     },
     {
         "SoruID": 3641632,
@@ -517,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oddviz kolektifi"
+        "Aciklama": "Oddviz adlı sanatçı kolektifi<br/>ile de yapıtlar üretir. Oddviz’in yoğunlaştığı<br/>başlıca konular mimarlık ve şehircilik sayılabilir.<br/>Mimari yapıların 3 boyutlu rekonstrüksiyonlarının<br/>deneysel görselleştirmelerini içeren çalışmaları<br/>ve üç boyutlu görüntüleme tekniği fotogrametriyi<br/>kullanarak oluşturdukları envanterleri ile tanınmaktadır.<br>Oddviz kolektifi"
     },
     {
         "SoruID": 3641633,
@@ -537,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Burak Arıkan"
+        "Aciklama": "2007 yılında ürettiği My Pocket / Cüzdanım adlı<br/>Bank of Amerika’nın gizlilik sözleşmesindeki ifadelerden<br/>hareketle oluşur.<br>Burak Arıkan"
     },
     {
         "SoruID": 3641634,
@@ -557,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Refik Anadol"
+        "Aciklama": "bugün yapay zeka<br/>ile üretilen estetiğin öncüsü olarak bilinir. Sanatçı<br/>bugün Refik Anadol Studiosunu ve yapay zeka ile<br/>veri öykülemeleri ve bunların açık ve kapalı alanlara<br/>yansıtılmasıyla ilgili öncülü olmayan çalışmalar<br/>yürüttüğü RAS LAB’ı yönetir."
     },
     {
         "SoruID": 3641685,
@@ -582,7 +602,7 @@
     {
         "SoruID": 3641686,
         "SoruMetni": "Türkiye’de günümüz sanatçılarını klasik yöntemlerle sanat üretimi yapan sanatçılardan ayıran başlıca kriter aşağıdakilerden hangisidir?",
-        "A": "Sanatçıların dijital yerli olarak tanımlanması",
+        "A": "Sanatçıların dijital yerli olarak tanımlanması",
         "B": "Sanatçıların dijital göçmen olarak tanımlanması",
         "C": "Sanatçıların teknolojileri bilen ve kullanan bireyler olması",
         "D": "Türkiye'de teknolojinin gelişmesi",
@@ -621,10 +641,10 @@
     },
     {
         "SoruID": 3641688,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"><br/><li>Amber Platformu</li><br/><li>NOMAD-TV.network  </li><br/><li>Nerdworking   </li><br/><li>Contemporary İstanbul</li><br/><li>2010 Yılı Kültür Başkenti İstanbul</li><br/></ol><br/>Yukarıdakilerden hangileri yeni medya sanatının Türkiye’de yaygınlaşmasında etkili olan oluşumlardır?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"><br/><li>Amber Platformu</li><br/><li>NOMAD-TV.network </li><br/><li>Nerdworking </li><br/><li>Contemporary İstanbul</li><br/><li>2010 Yılı Kültür Başkenti İstanbul</li><br/></ol><br/>Yukarıdakilerden hangileri yeni medya sanatının Türkiye’de yaygınlaşmasında etkili olan oluşumlardır?",
         "A": "Yalnız I",
         "B": "Yalnız I ve II",
-        "C": "II, III  ve IV",
+        "C": "II, III ve IV",
         "D": "I, II, III ve V",
         "E": "II, III, IV ve V",
         "DogruCevap": "D",
@@ -637,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Günümüz yeni medya sanatçılarının Türkiye’dehiç fark edilmeden dünyada alanlarının en önemli isimleri haline gelmesini sağlayan en etkili kurumlardan biri <strong>Amber Platformu’</strong>dur.<br/><br/><strong>NOMAD-TV.network</strong><br>Küratör ve tasarımcı Başak Şenova’nın küratöryel projesi olarak 2002 yılında ortaya çıkan oluşum<br/>dijital kültür içinde yerel bir şebeke kurma amacıyla kurulmuş.</br><br/><br/><strong>2010 Yılı Kültür Başkenti İstanbul</strong><br>2010 yılında Avrupa Konseyi tarafından 1995 yılından bugüne sürdürülen bir fon projesi kapsamında rekor bir bütçe ile İstanbul ve Linz birlikte Avrupa<br/>kültür başkentleri seçilmiştir (Hızlan, 2011). Hem<br/>iki şehir arasında hem de Avrupa’daki İstanbul’un<br/>kültür başkentliği kültürel ve sanatsal hareketlilik sağlamış, uluslararası alanda ses duyurarak ve İstanbul’da<br/>da sanatın yaygınlaşmasını sağlayan pek çok sanat ve<br/>kültür kurumu etkinlikler düzenlemiştir.</br><br/><br/><strong>Nerdworking</strong><br/><br/>İstanbul’da 2009 yılında yeni medya teknolojileri ile yaratıcı alanlarda teknoloji çözümleri sunan, kamusal alanlarda sergileme ihtiyaçlarını karşılayabilecek Nerdworking adlı bir kolektif kurulmuştur.<br>Bu oluşum yeni medya projelerine odaklanan ilk ya da tek oluşum değildir. Ancak yeni medya sanatının Türkiye’deki gelişimine etkisi benzerlerinden daha kapsamlı olagelmiştir.</br>"
+        "Aciklama": "Günümüz yeni medya sanatçılarının Türkiye’dehiç fark edilmeden dünyada alanlarının en önemli isimleri haline gelmesini sağlayan en etkili kurumlardan biri <strong>Amber Platformu’</strong>dur.<br/><strong>NOMAD-TV.network</strong><br/>Küratör ve tasarımcı Başak Şenova’nın küratöryel projesi olarak 2002 yılında ortaya çıkan oluşum<br/>dijital kültür içinde yerel bir şebeke kurma amacıyla kurulmuş.</br><br/><strong>2010 Yılı Kültür Başkenti İstanbul</strong><br/>2010 yılında Avrupa Konseyi tarafından 1995 yılından bugüne sürdürülen bir fon projesi kapsamında rekor bir bütçe ile İstanbul ve Linz birlikte Avrupa<br/>kültür başkentleri seçilmiştir (Hızlan, 2011). Hem<br/>iki şehir arasında hem de Avrupa’daki İstanbul’un<br/>kültür başkentliği kültürel ve sanatsal hareketlilik sağlamış, uluslararası alanda ses duyurarak ve İstanbul’da<br/>da sanatın yaygınlaşmasını sağlayan pek çok sanat ve<br/>kültür kurumu etkinlikler düzenlemiştir.</br><br/><strong>Nerdworking</strong><br/>İstanbul’da 2009 yılında yeni medya teknolojileri ile yaratıcı alanlarda teknoloji çözümleri sunan, kamusal alanlarda sergileme ihtiyaçlarını karşılayabilecek Nerdworking adlı bir kolektif kurulmuştur.<br/>Bu oluşum yeni medya projelerine odaklanan ilk ya da tek oluşum değildir. Ancak yeni medya sanatının Türkiye’deki gelişimine etkisi benzerlerinden daha kapsamlı olagelmiştir.</br>"
     },
     {
         "SoruID": 3641689,
@@ -657,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Osman Koç bir elektronik mühendisi olarak Unity’nin birçok grafikerin ya da tasarımcının yapacağı kurumsal kimliğini üstlenmesi oldukça ilginçtir. <strong>Koç, Generative Sanat Yazılım Aracı olarak tanımlanabilecek bir yazılım </strong><strong>geliştirir. </strong>"
+        "Aciklama": "Osman Koç bir elektronik mühendisi olarak Unity’nin birçok grafikerin ya da tasarımcının yapacağı kurumsal kimliğini üstlenmesi oldukça ilginçtir. <strong>Koç, Generative Sanat Yazılım Aracı olarak tanımlanabilecek bir yazılım </strong><strong>geliştirir. </strong>"
     },
     {
         "SoruID": 3641690,
@@ -677,16 +697,16 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeni medya kültürünün eğitimci, mühendis, sanatçı, hacker/maker kimlikleriyle çok yönlü karakterlerinden biri olarak <strong>Bager Akbay</strong> 2014’ün son aylarında facebook üzerinden bir profille izleyiciye sunduğu işi Deniz Yılmaz sanat dünyasında farklı bir etki yaratmıştır (Görsel 8.15). Öncülü olmayan bir <strong>yapıt Deniz Yılmaz. Çünkü bir robot ve şair bir robot.</strong> Sanatçı Akbay, şiir yazan bir robot yapmak için önce bilgisayarla programlanarak otomatik işlem yapan bir makine olan CNC’ye yazı yazmayı öğretmiştir. Bilgisayarla kontrol edilen cihaza komut veren sayısal kontrol dili G-code’u kullanarak CNC’nin noktasal vuruşlarla yazı yazmasını sağladı. 2015 yılında Contemporary Istanbul’un yeni medya alanı Plug-In de sanatçı olarak katılır, bunu takiben <strong>Deniz Yılmaz Blok Art Space ile sözleşme imzalayarak galeri temsiliyeti kazanan ilk robot sanatçı</strong> ünvanını alır."
+        "Aciklama": "Yeni medya kültürünün eğitimci, mühendis, sanatçı, hacker/maker kimlikleriyle çok yönlü karakterlerinden biri olarak <strong>Bager Akbay</strong> 2014’ün son aylarında facebook üzerinden bir profille izleyiciye sunduğu işi Deniz Yılmaz sanat dünyasında farklı bir etki yaratmıştır (Görsel 8.15). Öncülü olmayan bir <strong>yapıt Deniz Yılmaz. Çünkü bir robot ve şair bir robot.</strong> Sanatçı Akbay, şiir yazan bir robot yapmak için önce bilgisayarla programlanarak otomatik işlem yapan bir makine olan CNC’ye yazı yazmayı öğretmiştir. Bilgisayarla kontrol edilen cihaza komut veren sayısal kontrol dili G-code’u kullanarak CNC’nin noktasal vuruşlarla yazı yazmasını sağladı. 2015 yılında Contemporary Istanbul’un yeni medya alanı Plug-In de sanatçı olarak katılır, bunu takiben <strong>Deniz Yılmaz Blok Art Space ile sözleşme imzalayarak galeri temsiliyeti kazanan ilk robot sanatçı</strong> ünvanını alır."
     },
     {
         "SoruID": 3641691,
         "SoruMetni": "Bir makine ile Twitter’de hızla trend olan başlık verisini bir kazağa çeviren sanatçı aşağıdakilerden hangisidir?",
         "A": "Ebru Kurbak",
-        "B": "Selçuk Artut<br/><br/>",
+        "B": "Selçuk Artut",
         "C": "Zeynep Nal",
-        "D": "Beeple<br/><br/>",
-        "E": "Damien Hirst<br/><br/>",
+        "D": "Beeple",
+        "E": "Damien Hirst",
         "DogruCevap": "A",
         "DersAd": "Yeni Medya Sanatı",
         "Unite": 8,
@@ -737,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Candaş Şişman ve Deniz Kader birlikte kurdukları NOHlab ile 2012 yılında Ars Electronica’da</strong><br/><strong>Deep Space Music adlı bir iş daha sergilemişlerdir</strong>.Candaş Şişman ve Deniz Kader’in kürasyonunu yaptığı görsellere sanatçı Zeynep Nal, Bager Akbay, İsmail Kasarcı, Osman Koç ve Kaan Kaner bölümler üretmişlerdir.<br/>Namekawa’nın soyut notalarına, mekanın atmosferi ve gerçek zamanlı performans ile izleyicilere büyüleyici bir immersive deneyim sunan performans karma tekniklerle üretilmiştir. Teknikler, kod ile<br/>üretilen animasyonlar, reaktif sahneler ve önceden hazırlanmış videolar ile emprovize edilen müziğe<br/>tepki veren sistemleri içermektedir. Bu açıdan <strong>güncel yeni medya sanatında ortak çalışma kültürünü</strong><br/><strong>de örneklendirir. </strong>"
+        "Aciklama": "<strong>Candaş Şişman ve Deniz Kader birlikte kurdukları NOHlab ile 2012 yılında Ars Electronica’da</strong><br/><strong>Deep Space Music adlı bir iş daha sergilemişlerdir</strong>.Candaş Şişman ve Deniz Kader’in kürasyonunu yaptığı görsellere sanatçı Zeynep Nal, Bager Akbay, İsmail Kasarcı, Osman Koç ve Kaan Kaner bölümler üretmişlerdir.<br/>Namekawa’nın soyut notalarına, mekanın atmosferi ve gerçek zamanlı performans ile izleyicilere büyüleyici bir immersive deneyim sunan performans karma tekniklerle üretilmiştir. Teknikler, kod ile<br/>üretilen animasyonlar, reaktif sahneler ve önceden hazırlanmış videolar ile emprovize edilen müziğe<br/>tepki veren sistemleri içermektedir. Bu açıdan <strong>güncel yeni medya sanatında ortak çalışma kültürünü</strong><br/><strong>de örneklendirir. </strong>"
     },
     {
         "SoruID": 3641694,
@@ -745,7 +765,7 @@
         "A": "AmberPlatform",
         "B": "Nerdworking",
         "C": "Ars Electronica",
-        "D": "Digilogue<br/><br/>",
+        "D": "Digilogue",
         "E": "NOMAD-TV.network",
         "DogruCevap": "B",
         "DersAd": "Yeni Medya Sanatı",
@@ -777,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1980'lerden sonra"
+        "Aciklama": "Çağdaş sanat tanımı 1980'lerden sonra disiplinler arası bir yapıya kavuşmuştur."
     },
     {
         "SoruID": 3641779,
@@ -797,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Alanın köklü geçmişi"
+        "Aciklama": "Türkiye'de kökü bulunmamakta<br>Alanın köklü geçmişi"
     },
     {
         "SoruID": 3641780,
@@ -817,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Amber platformu"
+        "Aciklama": "Amber platformudur."
     },
     {
         "SoruID": 3641781,
@@ -837,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "X-Change"
+        "Aciklama": "Küratör Ebru Yetişkin Contemporary İstanbul'un yeni medya alanının kürasyonunu X-CHANGE başlık altında gerçekleştirmiş ve yeni medya sanatları bölümü ilk defa fuar izleyicisiyle buluşmuştur"
     },
     {
         "SoruID": 3641804,
@@ -857,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Flux"
+        "Aciklama": "Candaş Şişman'ın Prix Ars Electronica ödülüne layık görülen eseri Flux'tur."
     },
     {
         "SoruID": 3641805,
@@ -877,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Onur Sönmez"
+        "Aciklama": "Cerebra Electronica yapıtı ile festival izleyicileri ile müze arasında unik bir bağ kuran Osman Sönmez'dir. Müzenin bio verilerle aydınlatılmasını sağlamıştır.<br>Onur Sönmez"
     },
     {
         "SoruID": 3641806,
@@ -897,11 +917,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Refik Anadol"
+        "Aciklama": "İmmersive sanat eserlerinde yapay zekayı ilk kullanan ve immersive enstalasyonları ile alanın en önemli isimleri arasında yer alan sanatçı Refik Anadol'dur."
     },
     {
         "SoruID": 3641807,
-        "SoruMetni": "Time Square'deki kamusal sanat platformu Time Square Arts programıyla  LED ekranlara taşınan Clones project adlı serisinin Centipedes (Kırkayaklar) adlı videosu hangi sanatçıya aittir?",
+        "SoruMetni": "Time Square'deki kamusal sanat platformu Time Square Arts programıyla LED ekranlara taşınan Clones project adlı serisinin Centipedes (Kırkayaklar) adlı videosu hangi sanatçıya aittir?",
         "A": "Burak Arıkan",
         "B": "CAndaş Şişman",
         "C": "Erdal İnci",
@@ -917,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Erdal İnci"
+        "Aciklama": "Time Square'deki kamusal sanat platformu Time Square Arts programıyla LED ekranlara taşınan Clones project adlı serisinin Centipedes (Kırkayaklar) adlı videosu Erdal İnci'ye aittir."
     },
     {
         "SoruID": 3641808,
@@ -937,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bager Akbay"
+        "Aciklama": "Bager Akbay'a aiittir."
     },
     {
         "SoruID": 3641809,
@@ -957,6 +977,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Server Demirtaş"
+        "Aciklama": "Türkiye'de ilk kinetik heykel olarak görülen eserleri veren sanatçı Server Demirtaş'tır."
     }
 ]

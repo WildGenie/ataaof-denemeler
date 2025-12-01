@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 182886,
-        "SoruMetni": "Görsel iletişim, görsel göstergelerin iletişim ögesi olarak kullanılmasıyla gerçekleşen iletişim biçemlerini kapsar.<br/> <br/><strong>Aşağıdakilerden hangisi bu bağlamda değerlendirilebilecek mesaj taşıyan anlam yüklü bir görsel öge <u>değildir</u>?</strong>",
+        "SoruMetni": "Görsel iletişim, görsel göstergelerin iletişim ögesi olarak kullanılmasıyla gerçekleşen iletişim biçemlerini kapsar.<br/><strong>Aşağıdakilerden hangisi bu bağlamda değerlendirilebilecek mesaj taşıyan anlam yüklü bir görsel öge <u>değildir</u>?</strong>",
         "A": "Rakam",
         "B": "Fotoğraf",
         "C": "Resim",
@@ -9,14 +9,15 @@
         "E": "Müzik",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 182887,
@@ -28,14 +29,15 @@
         "E": "İletişim sürecinde vericinin empati duymasını sağlamak",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 182888,
@@ -47,14 +49,15 @@
         "E": "Yayınların sadece dijital olarak çoğaltılması işidir.",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 182889,
@@ -66,14 +69,15 @@
         "E": "1984 yılında Aldus firması tarafından tanımlanan “masaüstü yayımcılık” (Desktop Pubishing) terimi bugün ki baskı öncesi işlemlerin temelini oluşturur.",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 182890,
@@ -85,14 +89,15 @@
         "E": "Ofset",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 182891,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 182892,
@@ -123,14 +129,15 @@
         "E": "Yazılım",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 182893,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 182895,
@@ -161,14 +169,15 @@
         "E": "Gravür Baskı",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 182896,
@@ -180,14 +189,15 @@
         "E": "Mürekkep mat kâğıda yapışırsa, emilir ve parlamaz.",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 192550,
@@ -199,14 +209,15 @@
         "E": "3D MAX, Maya",
         "DogruCevap": "C",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 192551,
@@ -218,14 +229,15 @@
         "E": "Lightroom",
         "DogruCevap": "D",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 192552,
@@ -237,14 +249,15 @@
         "E": "Sayfaya hizalama cetvellerinin yerleştirilmesi tasarımı bozacaktır.",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 192553,
@@ -256,14 +269,15 @@
         "E": "Vektör",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 192556,
@@ -275,18 +289,19 @@
         "E": "UV kaplamalar sıvı olarak yayılır, ardından ultraviyole ışıkla sertleştirilir.",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 342078,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi çoğunlukla sanatsal üretimlerde kullanılan ve görüntünün ipekten yapılmış bir kalıp üzerine geçirildiği mürekkepli baskı türüdür ? </strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi çoğunlukla sanatsal üretimlerde kullanılan ve görüntünün ipekten yapılmış bir kalıp üzerine geçirildiği mürekkepli baskı türüdür ? </strong>",
         "A": "Flekso baskı",
         "B": "Rotaravür",
         "C": "Pantone altı renkli baskı",
@@ -294,18 +309,19 @@
         "E": "Serigrafi",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 342080,
-        "SoruMetni": "<strong>Ürününün tasarlanarak görselleştirilmesi aşamasında başvurulan teknik işlemler bütünü aşağıdakilerden hangisiyle ifade edilir? </strong>",
+        "SoruMetni": "<strong>Ürününün tasarlanarak görselleştirilmesi aşamasında başvurulan teknik işlemler bütünü aşağıdakilerden hangisiyle ifade edilir? </strong>",
         "A": "Tipografi",
         "B": "Masaüstü Yayıncılık",
         "C": "Baskı",
@@ -313,18 +329,19 @@
         "E": "Ciltleme",
         "DogruCevap": "B",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 342081,
-        "SoruMetni": "I. Ciltleme ve kıvrımlar<br/> <br/>II. Baskı yüzeyi<br> <br/>III. Vernikler ve koruyucu sıvı kaplamalar<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri baskı sonrası işlemleri kapsar? </strong></br></br>",
+        "SoruMetni": "I. Ciltleme ve kıvrımlar<br/>II. Baskı yüzeyi<br/>III. Vernikler ve koruyucu sıvı kaplamalar<br/><strong>Yukarıdakilerden hangisi ya da hangileri baskı sonrası işlemleri kapsar? </strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -332,13 +349,14 @@
         "E": "I, II ve III",
         "DogruCevap": "E",
         "DersAd": "Görsel İletişim Tasarımı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 107,
         "OBSDersId": 39120,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     }
 ]

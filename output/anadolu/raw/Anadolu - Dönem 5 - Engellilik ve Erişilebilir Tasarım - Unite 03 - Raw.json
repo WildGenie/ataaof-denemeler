@@ -1,19 +1,35 @@
 [
     {
-        "QuestionId": 3862972,
+        "QuestionId": 3862970,
         "UniteNo": 3,
-        "PageNumber": 73,
-        "AnswerExplanation": "<p><strong>Kompozisyon</strong> hangi görsel ögenin önce algılanacağını hangi görsel ögelerin birbiriyle ilişkilendirileceğini belirler.</p>",
+        "PageNumber": 71,
+        "AnswerExplanation": "<p>Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak istiyorsanız, daha fazla bilgi edinmek için uzmanlara danışmak ve kullanıcılarla etkileşim kurmak ve empati kurmak için gözlemler yapmak uygun olacaktır. Ayrıca ilgili sorunların yanı sıra deneyimleri ve motivasyonları hakkında daha derin, kişisel bir anlayış kazanmak için kendinizi kullanıcılarınızın fiziksel ortamına sokmak isteyebilirsiniz. Empati, tasarım düşünürlerinin dünyayla ilgili <strong>kendi varsayımlarını bir kenara bırakmalarına</strong> ve kullanıcılar ve onların ihtiyaçları hakkında gerçek bir iç görü kazanmalarına olanak tanıdığından, problem çözme ve insan merkezli bir tasarım sürecinin merkezinde yer alır.</p>",
         "Title": "",
-        "Text": "<p>'Hangi görsel ögenin önce algılanacağını hangi görsel ögelerin birbiriyle ilişkilendirileceğini belirlenmesi' olarak tanımlanan kavram aşağıdaki seçeneklerden hangisinde yer almaktadır?</p>",
-        "A": "<p>Görsel ögeler</p>",
-        "B": "<p>Tasarım odaklı düşünme</p>",
-        "C": "<p>İletişim kurma</p>",
-        "D": "<p>Dijital medya</p>",
-        "E": "<p>Kompozisyon</p>",
+        "Text": "<p>Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak için aşağıdakilerden hangilerini yaparsınız?</p> <ol style=\"list-style-type: upper-roman;\"> <li>Uzmanlara danışmak</li> <li>Kullanıcılarla etkileşim kurmak</li> <li>Gözlemler yapmak</li> <li>Kendi varsayımlarını dikkate almak </li> </ol> ",
+        "A": "<p>II-III-IV</p>  ",
+        "B": "<p>I-III-IV</p> ",
+        "C": "<p>I-II-IV</p> ",
+        "D": "<p>III-IV-I</p>",
+        "E": "<p>I-II-III</p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 4
+        "QuestionNumber": 2
+    },
+    {
+        "QuestionId": 3862971,
+        "UniteNo": 3,
+        "PageNumber": 72,
+        "AnswerExplanation": "<p>Tasarımcılar veya değerlendiriciler, prototip aşamasında belirlenen en iyi çözümleri kullanarak tüm ürünü titizlikle <strong>test ederler.</strong></p>",
+        "Title": "",
+        "Text": "<p>Tasarımcılar veya değerlendiriciler, prototip aşamasında belirlenen en iyi çözümleri kullanarak tüm ürünü titizlikle ........... .......... .</p>\n<p>Yukarıdaki cümleyi en iyi tamamlayan ifade aşağıdaki seçeneklerden hangisinde yer almaktadır?</p>",
+        "A": "<p> Empati yaparlar</p>",
+        "B": "<p>Prototip geliştirirler</p>",
+        "C": "<p>Düşünceleştirirler</p>",
+        "D": "<p>Tanımlarlar</p>",
+        "E": "<p>Test ederler</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 1
     },
     {
         "QuestionId": 3862973,
@@ -29,7 +45,23 @@
         "E": "<p>Gelenekesel yazı karakterlerinin kullanılması</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 2
+        "QuestionNumber": 3
+    },
+    {
+        "QuestionId": 3862974,
+        "UniteNo": 3,
+        "PageNumber": 77,
+        "AnswerExplanation": "<p>Errol Morris 2012 yılında fontlar üzerine bir dizi deney yapar. Bu deneylerden birinde insanların farklı fontlarda yazılmış metinlere karşı duydukları güven duygusu ölçülür. Deney sonucuna göre <strong>Baskerville</strong> fontu (Görsel 3.12); Georgia, Computer Modern, Helvetica, Comic Sans ve Trebuchet fontlarına kıyasla insanlara daha fazla güven vermektedir.</p>",
+        "Title": "",
+        "Text": "<p>Errol Morris 2012 yılında fontlar üzerine yaptığı deneylerden birinde insanların farklı fontlarda yazılmış metinlere karşı duydukları <span style=\"text-decoration: underline;\">güven duygusu</span> ölçülmüştür. Bu font aşağıdaki seçeneklerden hangisinde yer almaktadır?</p>",
+        "A": "<p>Baskerville</p>",
+        "B": "<p>Georgia </p>",
+        "C": "<p>Helvetica </p>",
+        "D": "<p>Comic Sans </p>",
+        "E": "<p>Trebuchet</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 4
     },
     {
         "QuestionId": 3862975,
@@ -61,7 +93,7 @@
         "E": "<p>Mavi</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 3
+        "QuestionNumber": 5
     },
     {
         "QuestionId": 3862978,
@@ -80,6 +112,22 @@
         "QuestionNumber": 7
     },
     {
+        "QuestionId": 3863034,
+        "UniteNo": 3,
+        "PageNumber": 66,
+        "AnswerExplanation": "<p>İletişim, insanın işitsel ya da görsel olarak çevresinden aldığı tüm bilgilerin akılda yorumlanmasıyla oluşur. Bu iletişim süreci gönderici, mesaj, iletişim aracı, alıcı ve geri bildirim unsurlarından oluşan bir sırayla gerçekleşir. Doğru cevap E'dir. </p>",
+        "Title": "",
+        "Text": "<p>İletişim süreci çeşitli unsurlardan oluşan bir sırayla gerçekleşir. Aşağıdaki seçeneklerden hangisinde iletişim sürecinin unsurları doğru bir şekilde sıralanmıştır?</p>",
+        "A": "<p>İletişim Aracı-Mesaj-Gönderici-Alıcı-Geri Bildirim </p>",
+        "B": "<p>Mesaj-İletişim Aracı-Gönderici-Alıcı-Geri Bildirim</p>",
+        "C": "<p>Gönderici-Mesaj-Alıcı-İletişim Aracı-Geri Bildirim</p>",
+        "D": "<p>Gönderici-İletişim Aracı-Mesaj-Geri Bildirim-Alıcı</p>",
+        "E": "<p>Gönderici-Mesaj-İletişim Aracı-Alıcı-Geri Bildirim </p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 8
+    },
+    {
         "QuestionId": 3863035,
         "UniteNo": 3,
         "PageNumber": 67,
@@ -93,23 +141,7 @@
         "E": "<p>Mesaj</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 7
-    },
-    {
-        "QuestionId": 3863036,
-        "UniteNo": 3,
-        "PageNumber": 69,
-        "AnswerExplanation": "<p>Görsel iletişim tasarım süreci, görsel iletişimin oluşturulması için gereken faaliyetler ve akışı tanımlar. Belirli bir tasarım özeti için görsel iletişim oluştururken bir çerçeve olarak<br />kullanılabilecek belirli aşamaları içerir. Bunlar sırasıyla; özetin geliştirilmesi (problemin tanımı), araştırma (bilgi toplama), fikir üretimi (yaratıcılık ve buluş süreci), kavramların geliştirilmesi (çözüm oluşturma) ve tasarım uygulamasının ortaya konulması (uygulama) aşamalarıdır. </p> <p>Doğru cevap B'dir. </p>",
-        "Title": "",
-        "Text": "<p>I. Tasarım uygulamasının ortaya konması (uygulama)</p> <p>II. Kavramların geliştirilmesi (çözüm oluşturma)</p> <p>III. Araştırma (bilgi toplama)</p> <p>IV. Fikir üretimi (yaratılış ve buluş)</p> <p>V. Özetin geliştirilmesi (problemin tanımı)</p>   <p>Görsel iletişim tasarım süreci yukarıdaki aşamalardan oluşmaktadır. Aşağıdaki seçeneklerden hangisinde bu aşamalar doğru bir şekilde sıralanmıştır?</p>",
-        "A": "<p>III-V-IV-II-I</p>",
-        "B": "<p>V-III-IV-II-I</p>",
-        "C": "<p>V-III-IV-I-II</p>",
-        "D": "<p>IV-III-V-II-I</p>",
-        "E": "<p>II-IV-III-V-I</p>",
-        "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "QuestionNumber": 8
     },
     {
         "QuestionId": 3863037,
@@ -125,7 +157,7 @@
         "E": "<p>Çözüm üretme</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 7
+        "QuestionNumber": 10
     },
     {
         "QuestionId": 3863038,
@@ -141,7 +173,7 @@
         "E": "<p>Fotografi</p>",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 8
+        "QuestionNumber": 9
     },
     {
         "QuestionId": 3863039,
@@ -157,7 +189,7 @@
         "E": "<p>Karakter-Hurufat</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 9
+        "QuestionNumber": 11
     },
     {
         "QuestionId": 3863040,
@@ -173,7 +205,7 @@
         "E": "<p>Yakın aralıklı</p>",
         "CorrectAnswer": "C",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 11
     },
     {
         "QuestionId": 3863041,
@@ -189,23 +221,7 @@
         "E": "<p>Engelli bireyler için algılamayı destekleyici teknolojilerin kullanılması konusunda tek yönlü yaklaşımlar tercih edilmelidir. </p>",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 10
-    },
-    {
-        "QuestionId": 3863042,
-        "UniteNo": 3,
-        "PageNumber": 88,
-        "AnswerExplanation": "<p>Ferdinand de Saussure (1857-1913) çok önemli İsveçli bir dilbilimcidir. Dilin işaret ve sembollerle<br />yapılanmış bir sistem olduğunu önermiştir. İlkeleri, göstergebilimin kurumsallaşmasını sağlamış ve<br />1960’ların sonuna kadar eleştirel ve kültürel çalışmalarda yoğun şekilde kullanılmıştır.</p>\n<p>Doğru cevap A'dır. </p>",
-        "Title": "",
-        "Text": "<p>Dilin işaret ve sembollerle yapılanmış bir sistem olduğunu öneren, önerdiği ilkeleri ile göstergebilimin kurumsallaşmasını sağlayan ve bu ilkeleri 1960’ların sonuna kadar eleştirel ve kültürel çalışmalarda yoğun şekilde kullanılan dilbilimci aşağıdakilerden hangisidir? </p>",
-        "A": "<p>Ferdinand de Saussure</p>",
-        "B": "<p>Sigmund Freud</p>",
-        "C": "<p>Lev Vygotsky </p>",
-        "D": "<p>Leonard Ambrose</p>",
-        "E": "<p>Urie Bronfenbrenner</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "QuestionNumber": 12
     },
     {
         "QuestionId": 3863043,
@@ -221,7 +237,7 @@
         "E": "<p>İmaj seçiminde sosyal ve kültürel farklılar göz önünde bulundurulmalı, kapsayıcı tasarımlar yapılmalıdır. </p>",
         "CorrectAnswer": "B",
         "UserAnswer": null,
-        "QuestionNumber": 12
+        "QuestionNumber": 14
     },
     {
         "QuestionId": 3863315,
@@ -237,53 +253,21 @@
         "E": "Geribildirim - gönderici - alıcı",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 14
+        "QuestionNumber": 15
     },
     {
-        "QuestionId": 3863316,
+        "QuestionId": 3863317,
         "UniteNo": 3,
         "PageNumber": 68,
-        "AnswerExplanation": "Yanıt C'dir. Kavramların geliştirilmesidir.",
-        "Title": "Kavramların geliştirilmesi (çözüm oluşturma): Hangi fikir yada fikirlerle devam edileceğine karar verildikten sonra çeşitli ortamlar, malzemeler, yöntemler, tasarım öğeleri ve ilkeler uygulanarak görselleştirme oluşturulur. Tasarım müşteri geri bildirimine ve/veya özete göre görsel düzenleme, uyarlamalar yapılarak tamamlanır.",
-        "Text": "Görsel tasarım sürecinde aşağıda bahsedilen etkinlikler hangi aşamayı açıklar?<br /><br />\"Hangi fikir yada fikirlerle devam edileceğine karar verildikten sonra çeşitli ortamlar, malzemeler, yöntemler, tasarım öğeleri ve ilkeler uygulanarak görselleştirme oluşturulur. Tasarım müşteri geri bildirimine ve/veya özete göre görsel düzenleme, uyarlamalar yapılarak tamamlanır.\"",
-        "A": "Özetin geliştirilmesi",
-        "B": "Bilgi toplama",
-        "C": "Kavramların geliştirilmesi",
-        "D": "Fikir üretimi",
-        "E": "Uygulama",
-        "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
-    },
-    {
-        "QuestionId": 3863318,
-        "UniteNo": 3,
-        "PageNumber": 69,
-        "AnswerExplanation": "Yanıt E'dir. Empati kurmadır.",
-        "Title": "Empati kurun: Tasarım odaklı düşünmenin ilk aşaması, kullanıcılar ve onların ihtiyaçları hakkında gerçek bilgiler edinmektir. Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak istiyorsanız, daha fazla bilgi edinmek için uzmanlara danışmak ve kullanıcılarla etkileşim kurmak ve empati kurmak için gözlemler yapmak uygun olacaktır. Ayrıca ilgili sorunların yanı sıra deneyimleri ve motivasyonları hakkında daha derin, kişisel bir anlayış kazanmak için kendinizi kullanıcılarınızın fiziksel ortamına sokmak isteyebilirsiniz. Empati, tasarım düşünürlerinin dünyayla ilgili kendi varsayımlarını bir kenara bırakmalarına<br />ve kullanıcılar ve onların ihtiyaçları hakkında gerçek bir iç görü kazanmalarına olanak tanıdığından, problem çözme ve insan merkezli bir tasarım sürecinin merkezinde yer alır. Özellikle engelliler söz konusu olduğunda genel kalıpları bir kenara bırakmak gerekir. Bir engellinin algısı söz konusu olduğunda ne kalıplar ne de bizim kendi algılama deneyimimiz<br />bize yol göstermeyecekti",
-        "Text": "Tasarım odaklı düşünmenin ilk aşaması nedir?",
-        "A": "Düşünceleştirme",
-        "B": "Tanımlama",
-        "C": "Test",
-        "D": "Prototip",
-        "E": "Empati kurma",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
-    },
-    {
-        "QuestionId": 3863319,
-        "UniteNo": 3,
-        "PageNumber": 74,
-        "AnswerExplanation": "Yanıt D'dir. \"Punto satırların uzunluğunu ölçmek için kullanılır.\" ifadesi yanlıştır.",
-        "Title": "\"Punto satırların uzunluğunu ölçmek için kullanılır.\" ifadesi yanlıştır. Punto harf ölçüsünü ölçmek, pika ise satırların uzunluğunu ölçmek için kullanılır.",
-        "Text": "Tipografi ile ilgili aşağıdakilerden hangisi <strong>yanlıştır</strong>?",
-        "A": "Büyük harflere majüskül ya da kapital denir.",
-        "B": "Küçük harflere miniskül denir.",
-        "C": "Font aynı dizide, ölçüde ve hizada, sayıları ve noktalama işaretlerini de içeren bütündür.",
-        "D": "Punto satırların uzunluğunu ölçmek için kullanılır.",
-        "E": "Okunabilirlik, yazı tipi, boyutu, rengi gibi tüm tasarım ilkeleriyle bağlantılıdır.",
-        "CorrectAnswer": "D",
+        "AnswerExplanation": "Yanıt A'dır. Fikir üretimidir.",
+        "Title": "Fikir üretimi (yaratılıcılık ve buluş süreci): Öncelikle konu hakkındaki bilgiler bir araya getirilerek değerlendirilir. Araştırmalardan yararlanılarak olası fikirler bulunup görselleştirme taslakları ya da fikir eskizleri oluşturulur. Tasarımcı kağıda ilk eskizlerini karaladığında “dışavurumculu yaratıcılık” aşamasındadır. Eskiz biraz daha ayrıntılı bir hale getirildiğinde ise “üretken yaratıcılık” aşamasına geçilmiş olur.",
+        "Text": "\"Konu hakkındaki bilgiler bir araya getirilerek değerlendirilir. Araştırmalardan yararlanılarak<br />olası fikirler bulunup görselleştirme taslakları ya da fikir eskizleri oluşturulur. Tasarımcı kağıda ilk eskizlerini karalar.\"<br /><br />Açıklanan bu etkinlikler görsel iletişim tasarım sürecinde hangi aşamaya aittir?",
+        "A": "Fikir üretimi",
+        "B": "Araştırma",
+        "C": "Problemin tanımı",
+        "D": "Kavramların geliştirilmesi",
+        "E": "Tasarım uygulamasının ortaya konması",
+        "CorrectAnswer": "A",
         "UserAnswer": null,
         "QuestionNumber": 16
     },
@@ -301,7 +285,7 @@
         "E": "Bir tasarımda veri görselleştirmesi yaparken algılamayı güçleştirecek<br />parlak ve çok renkten kaçınılmalıdır.",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 18
+        "QuestionNumber": 19
     },
     {
         "QuestionId": 3863322,
@@ -317,87 +301,7 @@
         "E": "Metafor",
         "CorrectAnswer": "E",
         "UserAnswer": null,
-        "QuestionNumber": 19
-    },
-    {
-        "QuestionId": 3862969,
-        "UniteNo": 3,
-        "PageNumber": 70,
-        "AnswerExplanation": "<p>Çözümleri denemek.</p> <p>Tasarım odaklı düşüncenin beş aşaması izleyen şekilde sıralanabilir: • Empati yapın: Kullanıcılarınızın ihtiyaçlarını araştırın. • Tanımlayın: Kullanıcılarınızın ihtiyaçlarını ve sorunlarını belirtin. • Fikir üretin: Varsayımlara meydan okuyun ve fikirler yaratın. • Prototip oluşturun: Çözüm üretmeye başlayın. • Test edin: Çözümlerinizi deneyin.</p>",
-        "Title": "",
-        "Text": "<p>Aşağıdakilerden hangisi tasarım odaklı düşünmenin beş aşamasından biri değildir?</p>",
-        "A": "<p>Kullanıcılarınızın ihtiyaçlarını araştırmak. </p>",
-        "B": "<p>Kullanıcılarınızın ihtiyaçlarını ve sorunlarını belirlemek. </p>",
-        "C": "<p>Varsayımlara meydan okumak ve fikirler yaratmak. </p> ",
-        "D": "<p>Çözüm üretmeye başlamak. </p> ",
-        "E": "<p>Çözümlerinizi denememek.</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
-    },
-    {
-        "QuestionId": 3862970,
-        "UniteNo": 3,
-        "PageNumber": 71,
-        "AnswerExplanation": "<p>Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak istiyorsanız, daha fazla bilgi edinmek için uzmanlara danışmak ve kullanıcılarla etkileşim kurmak ve empati kurmak için gözlemler yapmak uygun olacaktır. Ayrıca ilgili sorunların yanı sıra deneyimleri ve motivasyonları hakkında daha derin, kişisel bir anlayış kazanmak için kendinizi kullanıcılarınızın fiziksel ortamına sokmak isteyebilirsiniz. Empati, tasarım düşünürlerinin dünyayla ilgili <strong>kendi varsayımlarını bir kenara bırakmalarına</strong> ve kullanıcılar ve onların ihtiyaçları hakkında gerçek bir iç görü kazanmalarına olanak tanıdığından, problem çözme ve insan merkezli bir tasarım sürecinin merkezinde yer alır.</p>",
-        "Title": "",
-        "Text": "<p>Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak için aşağıdakilerden hangilerini yaparsınız?</p> <ol style=\"list-style-type: upper-roman;\"> <li>Uzmanlara danışmak</li> <li>Kullanıcılarla etkileşim kurmak</li> <li>Gözlemler yapmak</li> <li>Kendi varsayımlarını dikkate almak </li> </ol> ",
-        "A": "<p>II-III-IV</p>  ",
-        "B": "<p>I-III-IV</p> ",
-        "C": "<p>I-II-IV</p> ",
-        "D": "<p>III-IV-I</p>",
-        "E": "<p>I-II-III</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
-    },
-    {
-        "QuestionId": 3862974,
-        "UniteNo": 3,
-        "PageNumber": 77,
-        "AnswerExplanation": "<p>Errol Morris 2012 yılında fontlar üzerine bir dizi deney yapar. Bu deneylerden birinde insanların farklı fontlarda yazılmış metinlere karşı duydukları güven duygusu ölçülür. Deney sonucuna göre <strong>Baskerville</strong> fontu (Görsel 3.12); Georgia, Computer Modern, Helvetica, Comic Sans ve Trebuchet fontlarına kıyasla insanlara daha fazla güven vermektedir.</p>",
-        "Title": "",
-        "Text": "<p>Errol Morris 2012 yılında fontlar üzerine yaptığı deneylerden birinde insanların farklı fontlarda yazılmış metinlere karşı duydukları <span style=\"text-decoration: underline;\">güven duygusu</span> ölçülmüştür. Bu font aşağıdaki seçeneklerden hangisinde yer almaktadır?</p>",
-        "A": "<p>Baskerville</p>",
-        "B": "<p>Georgia </p>",
-        "C": "<p>Helvetica </p>",
-        "D": "<p>Comic Sans </p>",
-        "E": "<p>Trebuchet</p>",
-        "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
-    },
-    {
-        "QuestionId": 3863034,
-        "UniteNo": 3,
-        "PageNumber": 66,
-        "AnswerExplanation": "<p>İletişim, insanın işitsel ya da görsel olarak çevresinden aldığı tüm bilgilerin akılda yorumlanmasıyla oluşur. Bu iletişim süreci gönderici, mesaj, iletişim aracı, alıcı ve geri bildirim unsurlarından oluşan bir sırayla gerçekleşir. Doğru cevap E'dir. </p>",
-        "Title": "",
-        "Text": "<p>İletişim süreci çeşitli unsurlardan oluşan bir sırayla gerçekleşir. Aşağıdaki seçeneklerden hangisinde iletişim sürecinin unsurları doğru bir şekilde sıralanmıştır?</p>",
-        "A": "<p>İletişim Aracı-Mesaj-Gönderici-Alıcı-Geri Bildirim </p>",
-        "B": "<p>Mesaj-İletişim Aracı-Gönderici-Alıcı-Geri Bildirim</p>",
-        "C": "<p>Gönderici-Mesaj-Alıcı-İletişim Aracı-Geri Bildirim</p>",
-        "D": "<p>Gönderici-İletişim Aracı-Mesaj-Geri Bildirim-Alıcı</p>",
-        "E": "<p>Gönderici-Mesaj-İletişim Aracı-Alıcı-Geri Bildirim </p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
-    },
-    {
-        "QuestionId": 3863314,
-        "UniteNo": 3,
-        "PageNumber": 65,
-        "AnswerExplanation": "Yanıt D'dir. İletişimdir.",
-        "Title": "“İletişim nedir?” diye sorulduğunda iletişim kavramı için çok şey söylenebilir. En yaygın tanımıyla iletişim “duygu, düşünce veya bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılması, bildirişim, haberleşme, komünikasyon” olarak tanımlanabilir (Türk Dil Kurumu [TDK]).",
-        "Text": "“Duygu, düşünce veya bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılması, bildirişim, haberleşme, komünikasyon” tanımı aşağıdakilerden hangisine aittir?",
-        "A": "Tasarım",
-        "B": "Biliş",
-        "C": "Teknoloji",
-        "D": "İletişim",
-        "E": "Algı",
-        "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "QuestionNumber": 20
     },
     {
         "QuestionId": 3863323,
@@ -416,22 +320,6 @@
         "QuestionNumber": 20
     },
     {
-        "QuestionId": 3862971,
-        "UniteNo": 3,
-        "PageNumber": 72,
-        "AnswerExplanation": "<p>Tasarımcılar veya değerlendiriciler, prototip aşamasında belirlenen en iyi çözümleri kullanarak tüm ürünü titizlikle <strong>test ederler.</strong></p>",
-        "Title": "",
-        "Text": "<p>Tasarımcılar veya değerlendiriciler, prototip aşamasında belirlenen en iyi çözümleri kullanarak tüm ürünü titizlikle ........... .......... .</p>\n<p>Yukarıdaki cümleyi en iyi tamamlayan ifade aşağıdaki seçeneklerden hangisinde yer almaktadır?</p>",
-        "A": "<p> Empati yaparlar</p>",
-        "B": "<p>Prototip geliştirirler</p>",
-        "C": "<p>Düşünceleştirirler</p>",
-        "D": "<p>Tanımlarlar</p>",
-        "E": "<p>Test ederler</p>",
-        "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
-    },
-    {
         "QuestionId": 3862977,
         "UniteNo": 3,
         "PageNumber": 87,
@@ -445,7 +333,119 @@
         "E": "<p>Görseller seyreltilmişse</p>",
         "CorrectAnswer": "A",
         "UserAnswer": null,
-        "QuestionNumber": 4
+        "QuestionNumber": 6
+    },
+    {
+        "QuestionId": 3863042,
+        "UniteNo": 3,
+        "PageNumber": 88,
+        "AnswerExplanation": "<p>Ferdinand de Saussure (1857-1913) çok önemli İsveçli bir dilbilimcidir. Dilin işaret ve sembollerle<br />yapılanmış bir sistem olduğunu önermiştir. İlkeleri, göstergebilimin kurumsallaşmasını sağlamış ve<br />1960’ların sonuna kadar eleştirel ve kültürel çalışmalarda yoğun şekilde kullanılmıştır.</p>\n<p>Doğru cevap A'dır. </p>",
+        "Title": "",
+        "Text": "<p>Dilin işaret ve sembollerle yapılanmış bir sistem olduğunu öneren, önerdiği ilkeleri ile göstergebilimin kurumsallaşmasını sağlayan ve bu ilkeleri 1960’ların sonuna kadar eleştirel ve kültürel çalışmalarda yoğun şekilde kullanılan dilbilimci aşağıdakilerden hangisidir? </p>",
+        "A": "<p>Ferdinand de Saussure</p>",
+        "B": "<p>Sigmund Freud</p>",
+        "C": "<p>Lev Vygotsky </p>",
+        "D": "<p>Leonard Ambrose</p>",
+        "E": "<p>Urie Bronfenbrenner</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null,
+        "QuestionNumber": 13
+    },
+    {
+        "QuestionId": 3863314,
+        "UniteNo": 3,
+        "PageNumber": 65,
+        "AnswerExplanation": "Yanıt D'dir. İletişimdir.",
+        "Title": "“İletişim nedir?” diye sorulduğunda iletişim kavramı için çok şey söylenebilir. En yaygın tanımıyla iletişim “duygu, düşünce veya bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılması, bildirişim, haberleşme, komünikasyon” olarak tanımlanabilir (Türk Dil Kurumu [TDK]).",
+        "Text": "“Duygu, düşünce veya bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılması, bildirişim, haberleşme, komünikasyon” tanımı aşağıdakilerden hangisine aittir?",
+        "A": "Tasarım",
+        "B": "Biliş",
+        "C": "Teknoloji",
+        "D": "İletişim",
+        "E": "Algı",
+        "CorrectAnswer": "D",
+        "UserAnswer": null,
+        "QuestionNumber": 14
+    },
+    {
+        "QuestionId": 3863318,
+        "UniteNo": 3,
+        "PageNumber": 69,
+        "AnswerExplanation": "Yanıt E'dir. Empati kurmadır.",
+        "Title": "Empati kurun: Tasarım odaklı düşünmenin ilk aşaması, kullanıcılar ve onların ihtiyaçları hakkında gerçek bilgiler edinmektir. Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak istiyorsanız, daha fazla bilgi edinmek için uzmanlara danışmak ve kullanıcılarla etkileşim kurmak ve empati kurmak için gözlemler yapmak uygun olacaktır. Ayrıca ilgili sorunların yanı sıra deneyimleri ve motivasyonları hakkında daha derin, kişisel bir anlayış kazanmak için kendinizi kullanıcılarınızın fiziksel ortamına sokmak isteyebilirsiniz. Empati, tasarım düşünürlerinin dünyayla ilgili kendi varsayımlarını bir kenara bırakmalarına<br />ve kullanıcılar ve onların ihtiyaçları hakkında gerçek bir iç görü kazanmalarına olanak tanıdığından, problem çözme ve insan merkezli bir tasarım sürecinin merkezinde yer alır. Özellikle engelliler söz konusu olduğunda genel kalıpları bir kenara bırakmak gerekir. Bir engellinin algısı söz konusu olduğunda ne kalıplar ne de bizim kendi algılama deneyimimiz<br />bize yol göstermeyecekti",
+        "Text": "Tasarım odaklı düşünmenin ilk aşaması nedir?",
+        "A": "Düşünceleştirme",
+        "B": "Tanımlama",
+        "C": "Test",
+        "D": "Prototip",
+        "E": "Empati kurma",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 17
+    },
+    {
+        "QuestionId": 3863319,
+        "UniteNo": 3,
+        "PageNumber": 74,
+        "AnswerExplanation": "Yanıt D'dir. \"Punto satırların uzunluğunu ölçmek için kullanılır.\" ifadesi yanlıştır.",
+        "Title": "\"Punto satırların uzunluğunu ölçmek için kullanılır.\" ifadesi yanlıştır. Punto harf ölçüsünü ölçmek, pika ise satırların uzunluğunu ölçmek için kullanılır.",
+        "Text": "Tipografi ile ilgili aşağıdakilerden hangisi <strong>yanlıştır</strong>?",
+        "A": "Büyük harflere majüskül ya da kapital denir.",
+        "B": "Küçük harflere miniskül denir.",
+        "C": "Font aynı dizide, ölçüde ve hizada, sayıları ve noktalama işaretlerini de içeren bütündür.",
+        "D": "Punto satırların uzunluğunu ölçmek için kullanılır.",
+        "E": "Okunabilirlik, yazı tipi, boyutu, rengi gibi tüm tasarım ilkeleriyle bağlantılıdır.",
+        "CorrectAnswer": "D",
+        "UserAnswer": null,
+        "QuestionNumber": 18
+    },
+    {
+        "QuestionId": 3862969,
+        "UniteNo": 3,
+        "PageNumber": 70,
+        "AnswerExplanation": "<p>Çözümleri denemek.</p> <p>Tasarım odaklı düşüncenin beş aşaması izleyen şekilde sıralanabilir: • Empati yapın: Kullanıcılarınızın ihtiyaçlarını araştırın. • Tanımlayın: Kullanıcılarınızın ihtiyaçlarını ve sorunlarını belirtin. • Fikir üretin: Varsayımlara meydan okuyun ve fikirler yaratın. • Prototip oluşturun: Çözüm üretmeye başlayın. • Test edin: Çözümlerinizi deneyin.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi tasarım odaklı düşünmenin beş aşamasından biri değildir?</p>",
+        "A": "<p>Kullanıcılarınızın ihtiyaçlarını araştırmak. </p>",
+        "B": "<p>Kullanıcılarınızın ihtiyaçlarını ve sorunlarını belirlemek. </p>",
+        "C": "<p>Varsayımlara meydan okumak ve fikirler yaratmak. </p> ",
+        "D": "<p>Çözüm üretmeye başlamak. </p> ",
+        "E": "<p>Çözümlerinizi denememek.</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 1
+    },
+    {
+        "QuestionId": 3862972,
+        "UniteNo": 3,
+        "PageNumber": 73,
+        "AnswerExplanation": "<p><strong>Kompozisyon</strong> hangi görsel ögenin önce algılanacağını hangi görsel ögelerin birbiriyle ilişkilendirileceğini belirler.</p>",
+        "Title": "",
+        "Text": "<p>'Hangi görsel ögenin önce algılanacağını hangi görsel ögelerin birbiriyle ilişkilendirileceğini belirlenmesi' olarak tanımlanan kavram aşağıdaki seçeneklerden hangisinde yer almaktadır?</p>",
+        "A": "<p>Görsel ögeler</p>",
+        "B": "<p>Tasarım odaklı düşünme</p>",
+        "C": "<p>İletişim kurma</p>",
+        "D": "<p>Dijital medya</p>",
+        "E": "<p>Kompozisyon</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null,
+        "QuestionNumber": 2
+    },
+    {
+        "QuestionId": 3863316,
+        "UniteNo": 3,
+        "PageNumber": 68,
+        "AnswerExplanation": "Yanıt C'dir. Kavramların geliştirilmesidir.",
+        "Title": "Kavramların geliştirilmesi (çözüm oluşturma): Hangi fikir yada fikirlerle devam edileceğine karar verildikten sonra çeşitli ortamlar, malzemeler, yöntemler, tasarım öğeleri ve ilkeler uygulanarak görselleştirme oluşturulur. Tasarım müşteri geri bildirimine ve/veya özete göre görsel düzenleme, uyarlamalar yapılarak tamamlanır.",
+        "Text": "Görsel tasarım sürecinde aşağıda bahsedilen etkinlikler hangi aşamayı açıklar?<br /><br />\"Hangi fikir yada fikirlerle devam edileceğine karar verildikten sonra çeşitli ortamlar, malzemeler, yöntemler, tasarım öğeleri ve ilkeler uygulanarak görselleştirme oluşturulur. Tasarım müşteri geri bildirimine ve/veya özete göre görsel düzenleme, uyarlamalar yapılarak tamamlanır.\"",
+        "A": "Özetin geliştirilmesi",
+        "B": "Bilgi toplama",
+        "C": "Kavramların geliştirilmesi",
+        "D": "Fikir üretimi",
+        "E": "Uygulama",
+        "CorrectAnswer": "C",
+        "UserAnswer": null,
+        "QuestionNumber": 16
     },
     {
         "QuestionId": 3863320,
@@ -461,6 +461,22 @@
         "E": "Hiyerarşi",
         "CorrectAnswer": "D",
         "UserAnswer": null,
-        "QuestionNumber": 17
+        "QuestionNumber": 19
+    },
+    {
+        "QuestionId": 3863036,
+        "UniteNo": 3,
+        "PageNumber": 69,
+        "AnswerExplanation": "<p>Görsel iletişim tasarım süreci, görsel iletişimin oluşturulması için gereken faaliyetler ve akışı tanımlar. Belirli bir tasarım özeti için görsel iletişim oluştururken bir çerçeve olarak<br />kullanılabilecek belirli aşamaları içerir. Bunlar sırasıyla; özetin geliştirilmesi (problemin tanımı), araştırma (bilgi toplama), fikir üretimi (yaratıcılık ve buluş süreci), kavramların geliştirilmesi (çözüm oluşturma) ve tasarım uygulamasının ortaya konulması (uygulama) aşamalarıdır. </p> <p>Doğru cevap B'dir. </p>",
+        "Title": "",
+        "Text": "<p>I. Tasarım uygulamasının ortaya konması (uygulama)</p> <p>II. Kavramların geliştirilmesi (çözüm oluşturma)</p> <p>III. Araştırma (bilgi toplama)</p> <p>IV. Fikir üretimi (yaratılış ve buluş)</p> <p>V. Özetin geliştirilmesi (problemin tanımı)</p>   <p>Görsel iletişim tasarım süreci yukarıdaki aşamalardan oluşmaktadır. Aşağıdaki seçeneklerden hangisinde bu aşamalar doğru bir şekilde sıralanmıştır?</p>",
+        "A": "<p>III-V-IV-II-I</p>",
+        "B": "<p>V-III-IV-II-I</p>",
+        "C": "<p>V-III-IV-I-II</p>",
+        "D": "<p>IV-III-V-II-I</p>",
+        "E": "<p>II-IV-III-V-I</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null,
+        "QuestionNumber": 9
     }
 ]

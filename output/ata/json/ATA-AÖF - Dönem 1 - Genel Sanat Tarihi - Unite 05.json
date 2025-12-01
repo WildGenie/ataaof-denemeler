@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 264925,
-        "SoruMetni": "Sanat ve mimarlıkta özellikle 4. ve 5. yüzyıllarda, Antik Roma sanatından çok fazla etkiler taşıması nedeniyle bu dönem “……………” olarak da adlandırılmaktadır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br> <br/></br>",
+        "SoruMetni": "Sanat ve mimarlıkta özellikle 4. ve 5. yüzyıllarda, Antik Roma sanatından çok fazla etkiler taşıması nedeniyle bu dönem “……………” olarak da adlandırılmaktadır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
         "A": "İlk Çağ",
         "B": "Geç Antik Çağ",
         "C": "Orta Çağ",
@@ -16,7 +16,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264926,
@@ -35,11 +36,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264927,
-        "SoruMetni": "\"………………..\" doğu-batı ekseni üzerinde gelişen üstü ahşap, çift meyilli çatı ile örtülü olan ve Hristiyanlığın zaferini simgelemek istercesine çok büyük ölçülerde inşa edilen uzunlamasına yapılardır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br> <br/></br>",
+        "SoruMetni": "\"………………..\" doğu-batı ekseni üzerinde gelişen üstü ahşap, çift meyilli çatı ile örtülü olan ve Hristiyanlığın zaferini simgelemek istercesine çok büyük ölçülerde inşa edilen uzunlamasına yapılardır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
         "A": "Kilise",
         "B": "Katedral",
         "C": "Şapel",
@@ -54,7 +56,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264928,
@@ -73,7 +76,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264929,
@@ -92,11 +96,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 264933,
-        "SoruMetni": "Roma İmparatoru Septimus tarafından yaptırılan ve daha sonra Konstantinus tarafından genişletilen ve imparatorluğun değişik yerlerinden getirilen eserlerle donatılan Hipodromun; eni 117, boyu ise 480 metreye, kapasitesi ise ………… kişiye ulaşıyordu.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "Roma İmparatoru Septimus tarafından yaptırılan ve daha sonra Konstantinus tarafından genişletilen ve imparatorluğun değişik yerlerinden getirilen eserlerle donatılan Hipodromun; eni 117, boyu ise 480 metreye, kapasitesi ise ………… kişiye ulaşıyordu.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "2.000",
         "B": "5.000",
         "C": "10.000",
@@ -111,11 +116,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 264934,
-        "SoruMetni": "Delfi’deki Apollon Tapınağı’na sunulmuş olan üç ayaklı altından kazanın kaidesidir. Birbirine sarılmış üç büyük yılan başları üzerinde altından bir kazanı taşıyordu. Anıtın orijinali 8 metre yüksekliğinde olup 29 boğumludur. Bizans İmparatoru Konstantinus, anıtı Delfi kehanet merkezinden söktürerek Konstantinapolis’e getirtmiş ve Hipodroma diktirmiştir.<br/> <br/><strong>Yukarıda özellikleri anlatılan Delfi kehanet merkezi hangi ülkededir?</strong>",
+        "SoruMetni": "Delfi’deki Apollon Tapınağı’na sunulmuş olan üç ayaklı altından kazanın kaidesidir. Birbirine sarılmış üç büyük yılan başları üzerinde altından bir kazanı taşıyordu. Anıtın orijinali 8 metre yüksekliğinde olup 29 boğumludur. Bizans İmparatoru Konstantinus, anıtı Delfi kehanet merkezinden söktürerek Konstantinapolis’e getirtmiş ve Hipodroma diktirmiştir.<br/><strong>Yukarıda özellikleri anlatılan Delfi kehanet merkezi hangi ülkededir?</strong>",
         "A": "Mısır",
         "B": "Filistin",
         "C": "Yunanistan",
@@ -130,7 +136,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 267078,
@@ -149,7 +156,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 267085,
@@ -157,7 +165,7 @@
         "A": "İkona",
         "B": "Minyatür",
         "C": "Fresko",
-        "D": "Mozaik<br/> <br/><br> <br/></br>",
+        "D": "Mozaik<br/></br>",
         "E": "Diptikon",
         "DogruCevap": "A",
         "DersAd": "Genel Sanat Tarihi",
@@ -168,11 +176,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 267090,
-        "SoruMetni": "<strong>El yazmalarında karşımıza çıkan, çok ince işlenmiş ve küçük boyutlu resimlere “………………..” denir.<br/> <br/>Boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir.</strong>",
+        "SoruMetni": "<strong>El yazmalarında karşımıza çıkan, çok ince işlenmiş ve küçük boyutlu resimlere “………………..” denir.<br/>Boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir.</strong>",
         "A": "Fresko",
         "B": "Minyatür",
         "C": "Ebru",
@@ -187,7 +196,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 267095,
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 267102,
@@ -225,14 +236,15 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 267103,
         "SoruMetni": "<strong>Bizans medeniyetinde konuşulan resmî dil aşağıdakilerden hangisidir?</strong>",
         "A": "Sırpça",
         "B": "Bulgarca",
-        "C": "Rusça<br/> <br/><br> <br/></br>",
+        "C": "Rusça<br/></br>",
         "D": "Grekçe",
         "E": "Almanca",
         "DogruCevap": "D",
@@ -244,7 +256,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 267104,
@@ -263,7 +276,8 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 267105,
@@ -282,11 +296,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 267106,
-        "SoruMetni": "325 yılında…………. toplanan I. Konsil Hristiyanlığa yeni bir güç kazandırmıştır.<strong><br/> <br/>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "325 yılında…………. toplanan I. Konsil Hristiyanlığa yeni bir güç kazandırmıştır.<strong><br/>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "İznik’te",
         "B": "Kadıköy’de",
         "C": "Trabzon’da",
@@ -301,11 +316,12 @@
         "GelYer": 2,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 328788,
-        "SoruMetni": "Bizans mimarisinde çeşitli plan tipleri uygulanmıştır.<br/> <br/><strong>Aşağıdakilerden hangisi bu plan tiplerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "Bizans mimarisinde çeşitli plan tipleri uygulanmıştır.<br/><strong>Aşağıdakilerden hangisi bu plan tiplerinden biri <u>değildir</u>?</strong>",
         "A": "Bazilikal plan",
         "B": "Merkezî plan",
         "C": "Serbest ve Yunan haçı plan",
@@ -320,7 +336,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 328794,
@@ -339,11 +356,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 328800,
-        "SoruMetni": "Bizans Dönemi’nden kalma İstanbul’da yedi tane dikilitaş mevcuttur.<br/> <br/><strong>Aşağıdakilerden hangisi bu dikilitaşlardan biri <u>değildir</u>?</strong>",
+        "SoruMetni": "Bizans Dönemi’nden kalma İstanbul’da yedi tane dikilitaş mevcuttur.<br/><strong>Aşağıdakilerden hangisi bu dikilitaşlardan biri <u>değildir</u>?</strong>",
         "A": "Obelisk (Dikilitaş)",
         "B": "Yılanlı Sütun",
         "C": "Örmeli Sütun",
@@ -358,7 +376,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 328801,
@@ -377,11 +396,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 367081,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi Bizans İmparatorluğu'nun tarihi dönemlerinden biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi Bizans İmparatorluğu'nun tarihi dönemlerinden biri <u>değildir</u>?</strong>",
         "A": "İntikal ve Geçiş Dönemi",
         "B": "İkonoklazma Dönemi",
         "C": "Latin İstilası",
@@ -396,7 +416,8 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 393963,
@@ -415,11 +436,12 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 394215,
-        "SoruMetni": "I. Gotlar Sütunu<br/> <br/>II. Arkadius Sütunu<br> <br/>III. Çemberlitaş Sütunu<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri Topkapı Sarayı'nın dış bahçesinde yer alan, yekpare mermerden yapılmış 18,5 m yüksekliğindeki korint başlıklı ve kartal armalı sütundur?</strong></br></br>",
+        "SoruMetni": "I. Gotlar Sütunu<br/>II. Arkadius Sütunu<br/>III. Çemberlitaş Sütunu<br/><strong>Yukarıdakilerden hangisi ya da hangileri Topkapı Sarayı'nın dış bahçesinde yer alan, yekpare mermerden yapılmış 18,5 m yüksekliğindeki korint başlıklı ve kartal armalı sütundur?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -434,6 +456,7 @@
         "GelYer": 1,
         "DersId": 454,
         "OBSDersId": 82515,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     }
 ]

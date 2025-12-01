@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3688615,
-        "SoruMetni": "I. Derin Öğrenme<br/><br/>II. Makine Öğrenimi<br/><br/>III. Bilgisayar Mühendisliği<br/><br/>IV. Doğal Dil İşleme<br/><br/>Yukarıdakilerden hangisi ya da hangileri yapay zekanın alt kavramlarındandır?",
+        "SoruMetni": "I. Derin Öğrenme<br/>II. Makine Öğrenimi<br/>III. Bilgisayar Mühendisliği<br/>IV. Doğal Dil İşleme<br/>Yukarıdakilerden hangisi ya da hangileri yapay zekanın alt kavramlarındandır?",
         "A": "Yalnız I",
         "B": "Yalnız IV",
         "C": "I ve IV",

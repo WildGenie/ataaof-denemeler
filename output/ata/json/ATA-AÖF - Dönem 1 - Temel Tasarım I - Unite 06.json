@@ -16,11 +16,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 264469,
-        "SoruMetni": "...………… şeklinde de ifade edebileceğimiz bu çizgisel dörtgen, aynı zamanda tasarımcının görsel alanıdır.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "...………… şeklinde de ifade edebileceğimiz bu çizgisel dörtgen, aynı zamanda tasarımcının görsel alanıdır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Doku",
         "B": "Renk",
         "C": "Kadraj",
@@ -35,7 +36,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264470,
@@ -54,11 +56,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264471,
-        "SoruMetni": "Sokak direkleri ve elektrik telleri, mazgallar, merdiven korkulukları, bir noktada birleşiyormuş gibi algılanan tren yolu, yaya geçitleri ve otoyol kesik ve düz çizgileri, el yazısı ve imza vb.<br/> <br/><strong>Örneklendirilen çizgi türü aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "Sokak direkleri ve elektrik telleri, mazgallar, merdiven korkulukları, bir noktada birleşiyormuş gibi algılanan tren yolu, yaya geçitleri ve otoyol kesik ve düz çizgileri, el yazısı ve imza vb.<br/><strong>Örneklendirilen çizgi türü aşağıdakilerden hangisidir?</strong>",
         "A": "Yapay çizgi",
         "B": "Dikey çizgi",
         "C": "Birleşen çizgi",
@@ -73,7 +76,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 264472,
@@ -92,7 +96,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 264473,
@@ -111,7 +116,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 264474,
@@ -130,7 +136,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 264475,
@@ -149,7 +156,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 264476,
@@ -168,11 +176,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 266744,
-        "SoruMetni": "I. Çizgi<br/> <br/>II. Afiş<br> <br/>III.Şekil<br> <br/><strong>Yukarıdakilerden hangisi ya da hangileri tasarımın temel iskeletini oluşturan unsurlar arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Çizgi<br/>II. Afiş<br/>III.Şekil<br/><strong>Yukarıdakilerden hangisi ya da hangileri tasarımın temel iskeletini oluşturan unsurlar arasında yer alır?</strong></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -187,11 +196,12 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266745,
-        "SoruMetni": "Bir bütün olarak tasarım yüzeyi, parçaların toplamından oluşmaktadır.<br/> <br/><strong>Aşağıdakilerden hangisi tasarım yüzeyini oluşturan parçalar içerisinde <u>yer almaz</u>?</strong>",
+        "SoruMetni": "Bir bütün olarak tasarım yüzeyi, parçaların toplamından oluşmaktadır.<br/><strong>Aşağıdakilerden hangisi tasarım yüzeyini oluşturan parçalar içerisinde <u>yer almaz</u>?</strong>",
         "A": "Çizgi",
         "B": "Doku",
         "C": "Afiş",
@@ -206,7 +216,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 266747,
@@ -225,7 +236,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266749,
@@ -244,11 +256,12 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266751,
-        "SoruMetni": "……………, formların hacimsel bir etkide görünmesini ve şekillerinin algılanmasını sağlar.<br/> <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "……………, formların hacimsel bir etkide görünmesini ve şekillerinin algılanmasını sağlar.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Renk",
         "B": "Doku",
         "C": "Işık ve gölge",
@@ -263,11 +276,12 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 266754,
-        "SoruMetni": "Ufuk çizgisi, gökkuşağı renkleri arasındaki sınırlar, çizgisel form niteliği taşıyan bazı dağlar ve kanyonlar, örümcek ağları, ağaç gövdelerinin doku niteliğindeki hacimleri, ağaç dalları ve yaprakların yakından izlenen damarlı dokuları, vb.<br/> <br/><strong>Yukarıda örneklendirilen çizgi türü aşağıdakilerden hangisidir?</strong>",
+        "SoruMetni": "Ufuk çizgisi, gökkuşağı renkleri arasındaki sınırlar, çizgisel form niteliği taşıyan bazı dağlar ve kanyonlar, örümcek ağları, ağaç gövdelerinin doku niteliğindeki hacimleri, ağaç dalları ve yaprakların yakından izlenen damarlı dokuları, vb.<br/><strong>Yukarıda örneklendirilen çizgi türü aşağıdakilerden hangisidir?</strong>",
         "A": "Yapay çizgi",
         "B": "Dikey çizgi",
         "C": "Birleşen çizgi",
@@ -282,11 +296,12 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266755,
-        "SoruMetni": "<strong>“Görsel dünyada farklı forma sahip yapraklar olsa da, beynimiz öncelikle basit bir yaprak şeklini algılama eğilimindedir. “<br/> <br/>Yukarıda bahsedilen örnekte beynimizin hangi özelliğinden bahsedilmektedir?</strong>",
+        "SoruMetni": "<strong>“Görsel dünyada farklı forma sahip yapraklar olsa da, beynimiz öncelikle basit bir yaprak şeklini algılama eğilimindedir. “<br/>Yukarıda bahsedilen örnekte beynimizin hangi özelliğinden bahsedilmektedir?</strong>",
         "A": "Soyutlama",
         "B": "Somutlama",
         "C": "Algılama",
@@ -301,7 +316,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 266758,
@@ -320,7 +336,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 266760,
@@ -339,7 +356,8 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 266763,
@@ -358,11 +376,12 @@
         "GelYer": 2,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 332213,
-        "SoruMetni": "<strong>Kadrajın tasarımcı, tasarım süreci, tasarım açısından önemine yönelik aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>",
+        "SoruMetni": "<strong>Kadrajın tasarımcı, tasarım süreci, tasarım açısından önemine yönelik aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>",
         "A": "Kadraj, tasarımın sınırlarını belirler.",
         "B": "Kadraj, tasarımın sınırlarını belirlemez.",
         "C": "Kadraj, tasarım sürecini yönetir, gerektiğinde uyarır.",
@@ -377,11 +396,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 332215,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi optik yanılsamanın insan algısındaki tanınırlığını önemli ölçüde etkilemiş Op Art sanatçılarından biri <u>değildir</u>?</strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi optik yanılsamanın insan algısındaki tanınırlığını önemli ölçüde etkilemiş Op Art sanatçılarından biri <u>değildir</u>?</strong>",
         "A": "Jeffrey Steele",
         "B": "Victor Vasarely",
         "C": "Pablo Picasso",
@@ -396,7 +416,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 1
     },
     {
         "SoruID": 332216,
@@ -415,7 +436,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     },
     {
         "SoruID": 332220,
@@ -434,7 +456,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 363247,
@@ -453,7 +476,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 1
     },
     {
         "SoruID": 367765,
@@ -472,11 +496,12 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 1
     },
     {
         "SoruID": 390456,
-        "SoruMetni": "I.   Şekil, çizgi ve renklerle sınırları belirlenen bir yapıdır.<br/> <br/>II.  Genel olarak şekil, bir alanı belirleyen çizgiyle tanımlanan sınırlardır. <br> <br/>III. Şekil ve formlara, tasarımın içeriğine yönelik bilgi yüklenir. <br> <br/>IV. Her formun bir şekli vardır fakat her şeklin bir formu olamaz.<br> <br/><strong>Yukarıda şekil ile ilgili olarak verilen bilgilerden hangisi ya da hangileri doğrudur?</strong></br></br></br>",
+        "SoruMetni": "I. Şekil, çizgi ve renklerle sınırları belirlenen bir yapıdır.<br/>II. Genel olarak şekil, bir alanı belirleyen çizgiyle tanımlanan sınırlardır. <br/>III. Şekil ve formlara, tasarımın içeriğine yönelik bilgi yüklenir. <br/>IV. Her formun bir şekli vardır fakat her şeklin bir formu olamaz.<br/><strong>Yukarıda şekil ile ilgili olarak verilen bilgilerden hangisi ya da hangileri doğrudur?</strong></br></br></br>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -491,7 +516,8 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 1
     },
     {
         "SoruID": 392382,
@@ -510,6 +536,7 @@
         "GelYer": 1,
         "DersId": 453,
         "OBSDersId": 82514,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 1
     }
 ]

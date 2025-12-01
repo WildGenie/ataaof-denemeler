@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 132828,
-        "SoruMetni": "<strong>Fotoğrafta konu üzerinde oluşan en aydınlık bölge ile en karanlık bölge arasındaki farka ne ad verilir?</strong>",
+        "SoruMetni": "<strong>Fotoğrafta konu üzerinde oluşan en aydınlık bölge ile en karanlık bölge arasındaki farka ne ad verilir?</strong>",
         "A": "Kontrast",
         "B": "Ton farkı",
         "C": "Doğal ışık",
@@ -9,14 +9,15 @@
         "E": "Cephe ışığı",
         "DogruCevap": "A",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 132836,
@@ -28,14 +29,15 @@
         "E": "Ters ışık",
         "DogruCevap": "B",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 132960,
@@ -47,18 +49,19 @@
         "E": "İki ışıklı aydınlatma",
         "DogruCevap": "A",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 200549,
-        "SoruMetni": "Işık, ister doğal ister yapay olsun konuyu üç hâlde aydınlatır.<br/> <br/><strong>Işığın üç aydınlatma hâli aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong><br> <br/></br>",
+        "SoruMetni": "Işık, ister doğal ister yapay olsun konuyu üç hâlde aydınlatır.<br/><strong>Işığın üç aydınlatma hâli aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong><br/></br>",
         "A": "Doğal aydınlatma, yapay aydınlatma, tersten aydınlatma",
         "B": "Tek ışık aydınlatması, iki ışık aydınlatması, üç ışık aydınlatması",
         "C": "Süzülmüş aydınlatma, kontrast aydınlatma, doğal aydınlatma",
@@ -66,18 +69,19 @@
         "E": "Süzülmüş aydınlatma, difüz aydınlatma, yapay aydınlatma",
         "DogruCevap": "D",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 200552,
-        "SoruMetni": "<strong>Bir fotoğraf çekerken ya da çekilmiş bir fotoğrafa bakarken, ışığın konuyu hangi yönden aydınlattığı nasıl anlaşılır?</strong><br/>",
+        "SoruMetni": "<strong>Bir fotoğraf çekerken ya da çekilmiş bir fotoğrafa bakarken, ışığın konuyu hangi yönden aydınlattığı nasıl anlaşılır?</strong>",
         "A": "Şiddeti ölçülerek",
         "B": "Rengi ölçülerek",
         "C": "Konuya olan mesafesine bakılarak",
@@ -85,18 +89,19 @@
         "E": "Yansıtıcı kullanılarak",
         "DogruCevap": "D",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 200554,
-        "SoruMetni": "<strong>Gün ışığı aşağıdaki hangi yönde konuyu <u>aydınlatmaz</u>?</strong><br/>",
+        "SoruMetni": "<strong>Gün ışığı aşağıdaki hangi yönde konuyu <u>aydınlatmaz</u>?</strong>",
         "A": "Cephe",
         "B": "Tepe",
         "C": "Alttan",
@@ -111,11 +116,12 @@
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 200555,
-        "SoruMetni": "I. Fotoğrafçılıkta en çok kullanılan ışık türüdür.<br/> <br/>II. Cisimlerin üç boyut yapısını vurgulayan en ideal ışıktır.<br> <br/>III. Doğru renklerin en kolay yakalandığı aydınlatma yönüdür.<br> <br/>IV. Gölge ve aydınlık bölgeyi aynı anda barındırır.<br> <br/><strong>Yukarıdaki özellikler konuyu hangi yönden aydınlatan ışık için geçerlidir?</strong><br> <br/></br></br></br></br>",
+        "SoruMetni": "I. Fotoğrafçılıkta en çok kullanılan ışık türüdür.<br/>II. Cisimlerin üç boyut yapısını vurgulayan en ideal ışıktır.<br/>III. Doğru renklerin en kolay yakalandığı aydınlatma yönüdür.<br/>IV. Gölge ve aydınlık bölgeyi aynı anda barındırır.<br/><strong>Yukarıdaki özellikler konuyu hangi yönden aydınlatan ışık için geçerlidir?</strong><br/></br></br></br></br>",
         "A": "Cephe",
         "B": "Tepe",
         "C": "Alttan",
@@ -123,18 +129,19 @@
         "E": "Yanal",
         "DogruCevap": "E",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 200556,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi Rembrandt aydınlatması için <u>söylenemez</u>?</strong><br/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi Rembrandt aydınlatması için <u>söylenemez</u>?</strong>",
         "A": "Dar açılı ışık veren aydınlatma kaynağı kullanılarak konu aydınlatılır.",
         "B": "Birden fazla aydınlatma kullanıldığından konu üzerinde yeterince gölgeli alan yoktur.",
         "C": "Işık yüzün bir bölümüne 45 derecelik açı ile verilir.",
@@ -149,11 +156,12 @@
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 200557,
-        "SoruMetni": "<strong>Stüdyo ortamında fotoğrafı çekilecek bir konunun dört ışık ile aydınlatılmasında aşağıdaki ışıklardan hangisi <u>kullanılmaz</u>?</strong><br/>",
+        "SoruMetni": "<strong>Stüdyo ortamında fotoğrafı çekilecek bir konunun dört ışık ile aydınlatılmasında aşağıdaki ışıklardan hangisi <u>kullanılmaz</u>?</strong>",
         "A": "Ana (anahtar) ışık",
         "B": "Yardımcı ışık",
         "C": "Ortam ışığı",
@@ -161,18 +169,19 @@
         "E": "Tepe (saç) ışığı",
         "DogruCevap": "C",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 200558,
-        "SoruMetni": "I. Ana ışığın yeterli derecede aydınlatmadığı bölgeleri aydınlatması için kullanılır.<br/> <br/>II. Yardımcı ışık, daima konuyu tam karşıdan aydınlatacak şekilde kullanılır.<br> <br/>III. Asıl işlevi, ışık almayan bölgelere ışık vererek kontrastı düşürmektir.<br> <br/>IV. Genellikle, yardımcı ışık ana ışığa oranla daha şiddetli kullanılır.<br> <br/><strong>Dolgu (yardımcı) ışıkla ilgili yukarıdaki özelliklerden hangileri <u>yanlıştır</u>?</strong><br> <br/></br></br></br></br>",
+        "SoruMetni": "I. Ana ışığın yeterli derecede aydınlatmadığı bölgeleri aydınlatması için kullanılır.<br/>II. Yardımcı ışık, daima konuyu tam karşıdan aydınlatacak şekilde kullanılır.<br/>III. Asıl işlevi, ışık almayan bölgelere ışık vererek kontrastı düşürmektir.<br/>IV. Genellikle, yardımcı ışık ana ışığa oranla daha şiddetli kullanılır.<br/><strong>Dolgu (yardımcı) ışıkla ilgili yukarıdaki özelliklerden hangileri <u>yanlıştır</u>?</strong><br/></br></br></br></br>",
         "A": "I ve II",
         "B": "I ve III",
         "C": "II ve III",
@@ -180,18 +189,19 @@
         "E": "III ve IV",
         "DogruCevap": "D",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 200559,
-        "SoruMetni": "<strong>High Key aydınlatma için </strong><strong>aşağıdakilerden hangisi </strong><strong><u>söylenemez</u>?</strong><br/>",
+        "SoruMetni": "<strong>High Key aydınlatma için </strong><strong>aşağıdakilerden hangisi </strong><strong><u>söylenemez</u>?</strong>",
         "A": "Işık kaynakları şiddetli olarak objeyi aydınlatır ve parlak görüntü oluşur.",
         "B": "Kontrast oldukça yüksektir.",
         "C": "Aydınlatılan kişiler daha mutlu gözükürler.",
@@ -199,18 +209,19 @@
         "E": "Işığın şiddetinin yüksek oluşu, gölgeleri ve görüntüde doku zenginliğini yok eder.",
         "DogruCevap": "B",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 2
     },
     {
         "SoruID": 200560,
-        "SoruMetni": "<strong>Low Key Aydınlatma ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong><br/>",
+        "SoruMetni": "<strong>Low Key Aydınlatma ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>",
         "A": "Fotoğraf karesi içinde objenin yalnız bir bölümü aydınlatılır.",
         "B": "Dramatik bir atmosfer elde edilerek gerilimli bir ifadeye ulaşmaya çalışılır.",
         "C": "Çekilen fotoğraflarda tonlar daha koyu ve hâkim renk genellikle siyahtır.",
@@ -218,18 +229,19 @@
         "E": "Reflektör yardımı ile fotoğraf tamamen karartılır.",
         "DogruCevap": "E",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 200561,
-        "SoruMetni": "<strong>Reklam fotoğrafında ışıktan söz edildiğinde aşağıdakilerden hangisi <u>yanlıştır</u>?</strong><br/>",
+        "SoruMetni": "<strong>Reklam fotoğrafında ışıktan söz edildiğinde aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>",
         "A": "Işığın konu üzerinde en aydınlık bölgeden en karanlık bölgeye göre “ton farkı” oluştururken kontrastı da belirlenmiş olur.",
         "B": "Gün ışığında yapılan bir reklam çekimi düşünüldüğünde; sabahın erken ve akşamın geç saatlerinde, güneşin rengi daha sarı olduğu için çekilen fotoğrafta da hakim renk sarı olacaktır.",
         "C": "Işık, konudan uzaklaştıkça şiddeti, aldığı mesafenin karesi oranında azalır.",
@@ -244,11 +256,12 @@
         "GelYer": 2,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 240493,
-        "SoruMetni": "<strong>Rembrandt’ın asıl mesleği aşağıdakilerden hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Rembrandt’ın asıl mesleği aşağıdakilerden hangisidir?</strong>",
         "A": "Heykeltıraş",
         "B": "Şair",
         "C": "Ressam",
@@ -256,18 +269,19 @@
         "E": "Sanat Tarihçi",
         "DogruCevap": "C",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 2
     },
     {
         "SoruID": 240494,
-        "SoruMetni": "<strong>Özel ışık aydınlatma başlığı altında verilen aydınlatma çeşitleri aşağıdakilerin hangisinde doğru verilmiştir?</strong><br/>",
+        "SoruMetni": "<strong>Özel ışık aydınlatma başlığı altında verilen aydınlatma çeşitleri aşağıdakilerin hangisinde doğru verilmiştir?</strong>",
         "A": "Rembrandt aydınlatma, High Key, Low Key",
         "B": "Tek ışıklı aydınlatma, iki ışıklı aydınlatma",
         "C": "High Key, Low Key, çoklu aydınlatma",
@@ -275,18 +289,19 @@
         "E": "İkili aydınlatma, üçlü aydınlatma, çoklu aydınlatma",
         "DogruCevap": "A",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 240497,
-        "SoruMetni": "<strong>Fotoğrafçılıkta anahtar ışığın diğer adı aşağıdakilerin hangisidir?</strong><br/>",
+        "SoruMetni": "<strong>Fotoğrafçılıkta anahtar ışığın diğer adı aşağıdakilerin hangisidir?</strong>",
         "A": "Ana ışık",
         "B": "Tepe ışığı",
         "C": "Dolgu ışığı",
@@ -294,14 +309,15 @@
         "E": "Süzülmüş ışık",
         "DogruCevap": "A",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 240498,
@@ -320,11 +336,12 @@
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 2
     },
     {
         "SoruID": 295394,
-        "SoruMetni": "<strong>Işık, konuyu aydınlatırken şiddetli aydınlattığı bölgeden daha az şiddetli aydınlattığı bölgeye doğru ilerlerken güç kaybederek yoluna devam eder. Işığın konu üzerinde oluşturduğu bu değişim fotoğrafçılıkta aşağıdaki hangi kavram ile ifade edilmektedir? </strong>",
+        "SoruMetni": "<strong>Işık, konuyu aydınlatırken şiddetli aydınlattığı bölgeden daha az şiddetli aydınlattığı bölgeye doğru ilerlerken güç kaybederek yoluna devam eder. Işığın konu üzerinde oluşturduğu bu değişim fotoğrafçılıkta aşağıdaki hangi kavram ile ifade edilmektedir? </strong>",
         "A": "Ton Farkı",
         "B": "Kontrast",
         "C": "Fon Işığı",
@@ -332,14 +349,15 @@
         "E": "Tepe Işığı",
         "DogruCevap": "A",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 295396,
@@ -351,18 +369,19 @@
         "E": "Cephe aydınlatma, tepe aydınlatma, süzülerek aydınlatma",
         "DogruCevap": "A",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 2
     },
     {
         "SoruID": 295402,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi reklam fotoğrafçılığında aydınlatma çeşitlerinden biri <u>değildir</u>? </strong>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi reklam fotoğrafçılığında aydınlatma çeşitlerinden biri <u>değildir</u>? </strong>",
         "A": "Özel Işık",
         "B": "Üç Işıklı",
         "C": "İki Işıklı",
@@ -370,14 +389,15 @@
         "E": "Dört Işıklı",
         "DogruCevap": "E",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     },
     {
         "SoruID": 345566,
@@ -389,13 +409,14 @@
         "E": "Dolgu ışığı",
         "DogruCevap": "E",
         "DersAd": "Reklam Fotoğrafçılığı",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 7,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 259,
         "OBSDersId": 39130,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 2
     }
 ]

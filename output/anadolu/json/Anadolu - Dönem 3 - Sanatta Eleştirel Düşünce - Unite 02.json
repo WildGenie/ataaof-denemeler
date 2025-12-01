@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 3354086,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Aşağıdakilerden hangisi eleştirel düşünmede bahsedilen “düşünme” ile ilişkilendirilebilir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Aşağıdakilerden hangisi eleştirel düşünmede bahsedilen “düşünme” ile ilişkilendirilebilir?",
         "A": "Seçim yapma",
         "B": "Hayal etme",
         "C": "Akıl yürütme",
@@ -17,11 +17,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Eleştirel düşünmede bahsedeceğimiz “düşünme”  dünyada olmuş, olacak veya olanaklı nesne veya olayları zihinde temsil etmeye, onları “göz önüne getirme” veya hayal etmeye değil, akıl yürütmeye dayanmaktadır. Doğru cevap C'dir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Eleştirel düşünmede bahsedeceğimiz “düşünme” dünyada olmuş, olacak veya olanaklı nesne veya olayları zihinde temsil etmeye, onları “göz önüne getirme” veya hayal etmeye değil, akıl yürütmeye dayanmaktadır. Doğru cevap C'dir."
     },
     {
         "SoruID": 3354087,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Bir iddiada bulunan bir cümlenin içeriğinde barınan düşünce veya fikir .......... olarak tanımlanmaktadır.<br/><br/>Yukarıda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Bir iddiada bulunan bir cümlenin içeriğinde barınan düşünce veya fikir .......... olarak tanımlanmaktadır.<br/>Yukarıda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
         "A": "Akıl yürütme",
         "B": "Önerme",
         "C": "Zihinde canlandırma",
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Önerme, bir iddiada bulunan bir cümlenin içeriğinde barınan düşünce veya fikir olarak tanımlanmaktadır (Baç, 2011). Doğru cevap B'dir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Önerme, bir iddiada bulunan bir cümlenin içeriğinde barınan düşünce veya fikir olarak tanımlanmaktadır (Baç, 2011). Doğru cevap B'dir."
     },
     {
         "SoruID": 3354088,
@@ -77,11 +77,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tümevarım tipindeki çıkarımlarda çıkan sonucun doğruluğu kesinlik taşımaz.  Ancak tümevarımlı akıl yürütmenin düzgün bir akıl yürütme olmasının kriteri geçerlilik değil, kuvvettir. Kuvvet, öncüllerin sonucu destekleme derecesidir.  Dahası, öncüller sonucu ne kadar kuvvetle destekliyorsa, çıkarım o kadar kuvvetli olacaktır. Yani, tümevarımlı çıkarımların kuvveti derecelidir. Öncüllerin sonucu doğru yapma olasılığına bağlıdır. Doğru cevap E'dir."
+        "Aciklama": "Tümevarım tipindeki çıkarımlarda çıkan sonucun doğruluğu kesinlik taşımaz. Ancak tümevarımlı akıl yürütmenin düzgün bir akıl yürütme olmasının kriteri geçerlilik değil, kuvvettir. Kuvvet, öncüllerin sonucu destekleme derecesidir. Dahası, öncüller sonucu ne kadar kuvvetle destekliyorsa, çıkarım o kadar kuvvetli olacaktır. Yani, tümevarımlı çıkarımların kuvveti derecelidir. Öncüllerin sonucu doğru yapma olasılığına bağlıdır. Doğru cevap E'dir."
     },
     {
         "SoruID": 3354095,
-        "SoruMetni": "I- Modus ponens<br/> II- Modus tollens<br/> III- Modus tollendo ponens<br/> Yukarıdakilerden hangileri tümdengelimli mantıkta çıkarım yöntemi olarak kullanılan akıl yürütme formudur?",
+        "SoruMetni": "I- Modus ponens<br/>II- Modus tollens<br/>III- Modus tollendo ponens<br/>Yukarıdakilerden hangileri tümdengelimli mantıkta çıkarım yöntemi olarak kullanılan akıl yürütme formudur?",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -101,12 +101,12 @@
     },
     {
         "SoruID": 3354096,
-        "SoruMetni": "<br/> <br/> <br/> <br/>Aşağıdakilerden hangisi ilk kez Aristoteles tarafından incelenmiş, iki öncülü ve bir sonucu bulunan; küçük terim, orta terim ve büyük terim olmak üzere üç terimden oluşan çıkarımdır.<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>Aşağıdakilerden hangisi ilk kez Aristoteles tarafından incelenmiş, iki öncülü ve bir sonucu bulunan; küçük terim, orta terim ve büyük terim olmak üzere üç terimden oluşan çıkarımdır.",
         "A": "Formel Safsata",
-        "B": "<br/> <br/> <br/> <br/>Değilleyici Kip<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Artbileşenin Evetlenmesi<br/><br/><br/><br/>",
+        "B": "<br/>Değilleyici Kip",
+        "C": "<br/>Artbileşenin Evetlenmesi",
         "D": "Tasım",
-        "E": "<br/> <br/> <br/> <br/>Rasyonalite<br/><br/><br/><br/>",
+        "E": "<br/>Rasyonalite",
         "DogruCevap": "D",
         "DersAd": "Sanatta Eleştirel Düşünce",
         "Unite": 2,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Tasım İki öncülü ve bir sonucu bulunan; küçük terim, orta terim ve büyük terim olmak üzere üç terimden oluşan çıkarımlardır. İlk kez Aristoteles tarafından incelenmişlerdir. Doğru cevap D'dir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Tasım İki öncülü ve bir sonucu bulunan; küçük terim, orta terim ve büyük terim olmak üzere üç terimden oluşan çıkarımlardır. İlk kez Aristoteles tarafından incelenmişlerdir. Doğru cevap D'dir."
     },
     {
         "SoruID": 3354125,
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 3354126,
-        "SoruMetni": "Özerk bir biçimde sürekli kendini disipline eden, izleyen ve düzelten düşünceye ................ adı verilmektedir.<br/> Yukarıda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+        "SoruMetni": "Özerk bir biçimde sürekli kendini disipline eden, izleyen ve düzelten düşünceye ................ adı verilmektedir.<br/>Yukarıda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
         "A": "Eleştirel düşünce",
         "B": "Dogmacılık",
         "C": "Ilımlı muhafazakârlık",
@@ -181,10 +181,10 @@
     },
     {
         "SoruID": 3354128,
-        "SoruMetni": "<br/> <br/> <br/> <br/>İlk öncül olarak bir koşul önermesi barındıran, ardından da ikinci öncülü, ilk öncüldeki koşullu önermenin devamı olarak gören terim aşağıdakilerden hangisidir?<br/><br/><br/><br/>",
+        "SoruMetni": "<br/>İlk öncül olarak bir koşul önermesi barındıran, ardından da ikinci öncülü, ilk öncüldeki koşullu önermenin devamı olarak gören terim aşağıdakilerden hangisidir?",
         "A": "İnformel safsata",
-        "B": "<br/> <br/> <br/> <br/>Formel safsata<br/><br/><br/><br/>",
-        "C": "<br/> <br/> <br/> <br/>Artbileşenin evetlenmesi<br/><br/><br/><br/>",
+        "B": "<br/>Formel safsata",
+        "C": "<br/>Artbileşenin evetlenmesi",
         "D": "Önbileşeninin değillemesi",
         "E": "Modus tollens",
         "DogruCevap": "D",
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/> <br/> <br/> <br/>Önbileşenin Değillenmesi: İlk öncül olarak bir koşul önermesi barındırır. Adından da tahmin edilebileceği gibi ikinci öncülü, ilk öncüldeki koşullu önermenin önbileşeninin değillemesidir. Sonuç olarak da artbileşenin değillenmesine götüren bir safsatadır. Doğru cevap D'dir.<br/><br/><br/><br/>"
+        "Aciklama": "<br/>Önbileşenin Değillenmesi: İlk öncül olarak bir koşul önermesi barındırır. Adından da tahmin edilebileceği gibi ikinci öncülü, ilk öncüldeki koşullu önermenin önbileşeninin değillemesidir. Sonuç olarak da artbileşenin değillenmesine götüren bir safsatadır. Doğru cevap D'dir."
     },
     {
         "SoruID": 3354168,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Önerme"
+        "Aciklama": "Önerme: “Bir iddiada bulunan bir cümlenin<br/>içeriğinde barınan düşünce veya fikir”"
     },
     {
         "SoruID": 3354169,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Akıl yürütme"
+        "Aciklama": "Akıl Yürütme: Bilindiği varsayılan öncüllerden<br/>veya olgulardan, çıkarım kurallarına<br/>göre temellendirilmiş yeni sonuçlar<br/>çıkarma süreci."
     },
     {
         "SoruID": 3354170,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mantık"
+        "Aciklama": "Mantık en temelde<br/>“doğru öncülden yanlış sonuç çıkartmama”<br/>prensibine göre işleyen bir disiplindir."
     },
     {
         "SoruID": 3354171,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uslamlama"
+        "Aciklama": "Akıl yürütmenin gözlemlenebildiği, öncül ve<br/>sonuçlardan oluşan bütüne çıkarım (uslamlama)<br/>denir. Çıkarımlar, bir veya daha çok elemana sahip<br/>bir öncül kümesinden ve bir sonuçtan oluşur."
     },
     {
         "SoruID": 3354172,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tümdengelim"
+        "Aciklama": "Tümdengelim, genel bir yargıdan onun özel<br/>bir örneğini çıkarma üzerine kurulu bir düşünme<br/>yöntemidir."
     },
     {
         "SoruID": 3354173,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Geçerlilik"
+        "Aciklama": "Geçerlilik: Tümdengelimli bir akıl yürütmenin<br/>düzgün bir çıkarım olma özelliğine;<br/>yani, doğru olduğu verilen veya kabul<br/>edilen öncüllerden doğru sonuca zorunlu<br/>olarak götürme özelliğine geçerlilik denir."
     },
     {
         "SoruID": 3354184,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Analoji"
+        "Aciklama": "Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme<br/>şeklinde yapılan akıl yürütme biçimi analoji (benzetme)dir."
     },
     {
         "SoruID": 3354185,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Analoji"
+        "Aciklama": "Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme<br/>şeklinde yapılan akıl yürütme biçimi analoji (benzetme)dir."
     },
     {
         "SoruID": 3354186,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Modus ponens"
+        "Aciklama": "Modus Ponens: Modus ponens, koşul önermelerinde kullanılan bir çıkarım formudur. Koşul önermeleri<br/>sıkça kullandığımız önermeler arasında yer alır ve bir şey olursa diğerinin de olacağını ifade eder. Örneğin,<br/>“Ayşe eğer iyi çalışırsa başarır” cümlesi bir koşul cümlesidir ve ön bileşendeki önerme doğru olursa,<br/>art bileşenin de zorunlu olarak doğru olacağını ifade eder. Başka bir deyişle, bu koşullu önerme eğer doğru<br/>ise “Ayşe iyi çalıştı” önermesi doğruysa, “başardı” cümlesi de doğru olmak durumundadır."
     },
     {
         "SoruID": 3354187,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Safsatalar"
+        "Aciklama": "Hatalı Akıl Yürütme Biçimleri<br/>(Safsatalar)<br/>Tümevarım, tümdengelim, modus ponens ve<br/>bahsettiğimiz diğer akıl yürütme formlarındaki ortak<br/>nokta, öncüllerin sonuç önermesine inanmamız<br/>için iyi nedenler sağlaması, başka bir deyişle<br/>“öncüllerin sonucu desteklemesi” idi. Şimdi ise<br/>öncüllerin sonucu desteklemediği akıl yürütme biçimleri<br/>olan safsatalara göz atalım."
     },
     {
         "SoruID": 3354283,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çıkarım: Akıl yürütmenin gözlemlenebildiği, öncül ve sonuçlardan oluşan bütün.<br/> <br/>Öncül: Doğru olduğu başlangıçta bilinen<br/>veya kabul edilen önermeler.<br/> <br/>Sonuç: Öncüllerden çıkarım yoluyla elde<br/>edilen yeni önerme."
+        "Aciklama": "Akıl Yürütme Olarak Düşünme<br>Çıkarım: Akıl yürütmenin gözlemlenebildiği, öncül ve sonuçlardan oluşan bütün.<br/>Öncül: Doğru olduğu başlangıçta bilinen<br/>veya kabul edilen önermeler.<br/>Sonuç: Öncüllerden çıkarım yoluyla elde<br/>edilen yeni önerme."
     },
     {
         "SoruID": 3354284,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Cogito, ergo sum - Düşünüyorum, öyleyse varım” René Descartes'e aittir."
+        "Aciklama": "Akıl Yürütme Olarak Düşünme<br>“Cogito, ergo sum - Düşünüyorum, öyleyse varım” René Descartes'e aittir."
     },
     {
         "SoruID": 3354285,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Bilindiği varsayılan öncüllerden veya olgulardan, çıkarım kurallarına göre temellendirilmiş yeni sonuçlar çıkarma sürecine <strong>akıl yürütme</strong> adı verilir."
+        "Aciklama": "Akıl Yürütme Olarak Düşünme<br><br/>Bilindiği varsayılan öncüllerden veya olgulardan, çıkarım kurallarına göre temellendirilmiş yeni sonuçlar çıkarma sürecine <strong>akıl yürütme</strong> adı verilir."
     },
     {
         "SoruID": 3354286,
@@ -477,11 +477,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kuvvet (İkna Edicilik):<br/> Tümevarımlı akıl<br/>yürütmelerde bir çıkarımın düzgün bir çıkarım olma özelliğine; yani, doğru olduğu verilen veya kabul edilen öncüllerdendoğru sonuca zorunlu olarak götürmese<br/>de sonucun doğru olma olasılığını yüksek hâle getirme derecesine o çıkarımın kuvveti (ikna ediciliği) denir."
+        "Aciklama": "Kuvvet (İkna Edicilik):<br/>Tümevarımlı akıl<br/>yürütmelerde bir çıkarımın düzgün bir çıkarım olma özelliğine; yani, doğru olduğu verilen veya kabul edilen öncüllerdendoğru sonuca zorunlu olarak götürmese<br/>de sonucun doğru olma olasılığını yüksek hâle getirme derecesine o çıkarımın kuvveti (ikna ediciliği) denir."
     },
     {
         "SoruID": 3354287,
-        "SoruMetni": "Kaan'ın el becerisi yüksek ve üretken.<br/>Kerem'in de el becerisi yüksek.<br/>Öyleyse, Kerem de üretken biri.<br/> Yukarıdaki akıl yürütme biçimine ne ad verilir?",
+        "SoruMetni": "Kaan'ın el becerisi yüksek ve üretken.<br/>Kerem'in de el becerisi yüksek.<br/>Öyleyse, Kerem de üretken biri.<br/>Yukarıdaki akıl yürütme biçimine ne ad verilir?",
         "A": "Tümdengelim",
         "B": "Tümevarım",
         "C": "Yorumlama",
@@ -497,11 +497,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Analoji<br/>Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme<br/>şeklinde yapılan akıl yürütme biçimi analoji (benzetme)dir. Örneğin;<br/> <br/>Ayşe çalışkan ve başarılı.<br/>Mehmet de çalışkan.<br/>Öyleyse, Mehmet de başarılı biridir.<br/> <br/>Yukarıda görece kuvvetli bir analoji örneği karşımıza çıkmaktadır. Bunun nedeni “Çalışkan olan kimseler başarılı olur” gibi bir tümevarım öncülünün gizli olarak bulunması olabilir."
+        "Aciklama": "Analoji<br/>Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme<br/>şeklinde yapılan akıl yürütme biçimi analoji (benzetme)dir. Örneğin;<br/>Ayşe çalışkan ve başarılı.<br/>Mehmet de çalışkan.<br/>Öyleyse, Mehmet de başarılı biridir.<br/>Yukarıda görece kuvvetli bir analoji örneği karşımıza çıkmaktadır. Bunun nedeni “Çalışkan olan kimseler başarılı olur” gibi bir tümevarım öncülünün gizli olarak bulunması olabilir."
     },
     {
         "SoruID": 3354288,
-        "SoruMetni": "T1 anında gözlemlediğim k1 kedisinin iki kulağı vardır.<br/>T2 anında gözlemlediğim k2 kedisinin iki kulağı vardır.<br/>T3 anında gözlemlediğim k3 kedisinin iki kulağı vardır.<br/>.<br/>.<br/>Tn anında gözlemlediğim kn kedisinin iki kulağı vardır.<br/>.<br/>.<br/>T753 anında gözlemlediğim k753 kedisinin iki kulağı vardır.<br/>Öyleyse, tüm kedilerin iki kulağı vardır.<br/> Yukarıdaki akıl yürütme biçimine ne ad verilir?",
+        "SoruMetni": "T1 anında gözlemlediğim k1 kedisinin iki kulağı vardır.<br/>T2 anında gözlemlediğim k2 kedisinin iki kulağı vardır.<br/>T3 anında gözlemlediğim k3 kedisinin iki kulağı vardır.<br/>.<br/>.<br/>Tn anında gözlemlediğim kn kedisinin iki kulağı vardır.<br/>.<br/>.<br/>T753 anında gözlemlediğim k753 kedisinin iki kulağı vardır.<br/>Öyleyse, tüm kedilerin iki kulağı vardır.<br/>Yukarıdaki akıl yürütme biçimine ne ad verilir?",
         "A": "Tümevarım",
         "B": "Tümdengelim",
         "C": "Analoji",
@@ -521,7 +521,7 @@
     },
     {
         "SoruID": 3354289,
-        "SoruMetni": "Gülsüm annesi oyuncak alırsa sevinecek. <br/>Annesi Gülsüm'e oyuncak almadı.<br/>Öyleyse, Gülsüm sevinmedi.<br/> Yukarıdaki örnek hangi akıl yürütme biçimine örnektir?",
+        "SoruMetni": "Gülsüm annesi oyuncak alırsa sevinecek. <br/>Annesi Gülsüm'e oyuncak almadı.<br/>Öyleyse, Gülsüm sevinmedi.<br/>Yukarıdaki örnek hangi akıl yürütme biçimine örnektir?",
         "A": "Tümevarım",
         "B": "Tümdengelim",
         "C": "İnformel safsata",
@@ -557,11 +557,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanlış İkilem Safsatası (False Dilemma): Başka seçenekler<br/>de bulunduğu halde iki seçenekten birinin seçilmek zorunda olduğu izlenimi verilerek gerçekleştirilen safsatadır. Örnek verecek<br/>olursak;<br/> <br/>Örnek 1: Ya bizim ürettiğimiz güneş kremini kullanın ya da acı veren güneş yanıkları sizi bekliyor… (Burada belirli bir firmanın sattığı ürün dışında güneş yanığından korunamayacağı izlenimi yaratılmaya çalışılarak bir safsata ortaya konuyor).<br/> <br/>Örnek 2: Muhtarlık seçiminde ya bana oy verirsiniz ya da ikamet belgesi için yüksek ücretler ödersiniz (Burada diğer adayların da seçilmesi hâlinde ikamet belgesinden ücret<br/>almayabileceği hâlde yanlış bir ikilem sunularak seçmen ikna edilmeye çalışılıyor)."
+        "Aciklama": "İnformel Safsatalar<br>Yanlış İkilem Safsatası (False Dilemma): Başka seçenekler<br/>de bulunduğu halde iki seçenekten birinin seçilmek zorunda olduğu izlenimi verilerek gerçekleştirilen safsatadır. Örnek verecek<br/>olursak;<br/>Örnek 1: Ya bizim ürettiğimiz güneş kremini kullanın ya da acı veren güneş yanıkları sizi bekliyor… (Burada belirli bir firmanın sattığı ürün dışında güneş yanığından korunamayacağı izlenimi yaratılmaya çalışılarak bir safsata ortaya konuyor).<br/>Örnek 2: Muhtarlık seçiminde ya bana oy verirsiniz ya da ikamet belgesi için yüksek ücretler ödersiniz (Burada diğer adayların da seçilmesi hâlinde ikamet belgesinden ücret<br/>almayabileceği hâlde yanlış bir ikilem sunularak seçmen ikna edilmeye çalışılıyor)."
     },
     {
         "SoruID": 3354291,
-        "SoruMetni": "\"Yunus Bey gerçekten çok adil bir ekip lideri\" sözü karşısında arkadaşı Kerim'e \"Sana zam yapılsın diye sürekli övüyorsun bu adamı\" diye çıkıştı. <br/><br/>Yukarıdaki örnek hangi tür akıl yürütmeye uymaktadır?",
+        "SoruMetni": "\"Yunus Bey gerçekten çok adil bir ekip lideri\" sözü karşısında arkadaşı Kerim'e \"Sana zam yapılsın diye sürekli övüyorsun bu adamı\" diye çıkıştı. <br/>Yukarıdaki örnek hangi tür akıl yürütmeye uymaktadır?",
         "A": "Kişi Karalama Safsatası",
         "B": "Korkuluk Safsatası",
         "C": "Yanlış İkilem Safsatası",
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kişi Karalama Safsatası (Argumentum ad Hominem): Bu safsata türü bir kişinin ortaya koyduğu çıkarıma değil, kişinin kendisine saldırılması üzerine ortaya çıkar. Latince “insana” anlamına gelir ve adından da anlaşılacağı gibi, çıkarıma değil, onu ortaya atan kişiye yönelik bir karalamadır. Örnek verecek olursak “Ayşe Hoca işinde çok başarılı birisi” diyen bir kişiye “ondan yüksek not almak için her yerde onu övüyorsun” şeklinde cevap verilmesi gösterilebilir. Burada dikkat edilirse Ayşe Hoca’nın işinde başarılı olduğu iddiası, başarılı olma özelliğine değil, bunu söyleyen kişi üzerinden reddedilmiş, ortaya atılan fikre bir karşı çıkış değil, fikri ortaya atan kişiye bir suçlama getirilmiştir. Argumentum Ad Hominem (Kişi Karalama Safsatası) bu şekilde tespit edebileceğimiz bir safsatadır."
+        "Aciklama": "İnformel Safsatalar<br>Kişi Karalama Safsatası (Argumentum ad Hominem): Bu safsata türü bir kişinin ortaya koyduğu çıkarıma değil, kişinin kendisine saldırılması üzerine ortaya çıkar. Latince “insana” anlamına gelir ve adından da anlaşılacağı gibi, çıkarıma değil, onu ortaya atan kişiye yönelik bir karalamadır. Örnek verecek olursak “Ayşe Hoca işinde çok başarılı birisi” diyen bir kişiye “ondan yüksek not almak için her yerde onu övüyorsun” şeklinde cevap verilmesi gösterilebilir. Burada dikkat edilirse Ayşe Hoca’nın işinde başarılı olduğu iddiası, başarılı olma özelliğine değil, bunu söyleyen kişi üzerinden reddedilmiş, ortaya atılan fikre bir karşı çıkış değil, fikri ortaya atan kişiye bir suçlama getirilmiştir. Argumentum Ad Hominem (Kişi Karalama Safsatası) bu şekilde tespit edebileceğimiz bir safsatadır."
     },
     {
         "SoruID": 3354292,
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ilımlı Muhafazakârlık:<br/> Fikirlerini hemen değiştirmeye meyilli olmasa da düzgün temellendirilmiş karşıt görüşler karşısında fikir değiştirmekten kaçınmayan tavır"
+        "Aciklama": "Önemli Bazı İnformel İlkeler<br>Ilımlı Muhafazakârlık:<br/>Fikirlerini hemen değiştirmeye meyilli olmasa da düzgün temellendirilmiş karşıt görüşler karşısında fikir değiştirmekten kaçınmayan tavır"
     },
     {
         "SoruID": 3842716,
@@ -697,11 +697,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap D<br/>Formel safsatalardan en yaygın olanları arasında önbileşenin değillenmesi ve artbileşenin evetlenmesi safsataları yer alır."
+        "Aciklama": "Doğru cevap D<br/>Formel safsatalardan en yaygın olanları arasında önbileşenin değillenmesi ve artbileşenin evetlenmesi safsataları yer alır."
     },
     {
         "SoruID": 3842797,
-        "SoruMetni": "Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme şeklinde yapılan akıl yürütme biçimine ne ad verilir?<br/>",
+        "SoruMetni": "Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme şeklinde yapılan akıl yürütme biçimine ne ad verilir?",
         "A": "<span>Analoji</span>",
         "B": "Tümevarım",
         "C": "Tümdengelim",
@@ -717,12 +717,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap A<br/>Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme şeklinde yapılan akıl yürütme biçimi analoji (benzetme)dir. Örneğin;<br/> Ayşe çalışkan ve başarılı. <br/>Mehmet de çalışkan.<br/> Öyleyse, Mehmet de başarılı biridir."
+        "Aciklama": "Doğru cevap A<br/>Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme şeklinde yapılan akıl yürütme biçimi analoji (benzetme)dir. Örneğin;<br/>Ayşe çalışkan ve başarılı. <br/>Mehmet de çalışkan.<br/>Öyleyse, Mehmet de başarılı biridir."
     },
     {
         "SoruID": 3842798,
         "SoruMetni": "\"Kürtajı savunuyorsun demek. O zaman cinayet de senin için meşru bir şey olmalı, öyle değil <br/>mi?\" sorusu hangi safsatayı örneklemektedir?",
-        "A": "Kişi karalama<br/>",
+        "A": "Kişi karalama",
         "B": "<span>Korkuluk</span>",
         "C": "Yanlış ikilem",
         "D": "Artbileşenin evetlenmesi",
@@ -737,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap B<br/> Korkuluk Safsatası (Straw Man Falacy): Bir tartışma esnasında karşı tarafın iddiasını çürütmek için <br/>onu olduğundan çok daha zayıf gösterecek şekilde yorumlayıp yeniden sunmak şeklinde gerçekleşen safsatadır. Adının korkuluk olmasının sebebi de budur: güçlü kuvvetli bir biçimde de yorumlanabilecek bir iddiayı zayıflatıp, âdeta iki tahtanın birbirine çakılmasından oluşan korkuluğa benzeterek bu safsata ortaya konur."
+        "Aciklama": "Doğru cevap B<br/>Korkuluk Safsatası (Straw Man Falacy): Bir tartışma esnasında karşı tarafın iddiasını çürütmek için <br/>onu olduğundan çok daha zayıf gösterecek şekilde yorumlayıp yeniden sunmak şeklinde gerçekleşen safsatadır. Adının korkuluk olmasının sebebi de budur: güçlü kuvvetli bir biçimde de yorumlanabilecek bir iddiayı zayıflatıp, âdeta iki tahtanın birbirine çakılmasından oluşan korkuluğa benzeterek bu safsata ortaya konur."
     },
     {
         "SoruID": 3842799,
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap C<br/>P ise Q<br/> Değil-Q<br/> Öyleyse, değil-P<br/> Bu çıkarım kuralı için de bir örnek verelim.<br/> Ahmet eğer Ankara’daysa, İç Anadolu Bölge<br/>si’ndedir. <br/>Ahmet İç Anadolu Bölgesi’nde değildir.<br/> Öyleyse, Ahmet Ankara’da değildir."
+        "Aciklama": "Doğru cevap C<br/>P ise Q<br/>Değil-Q<br/>Öyleyse, değil-P<br/>Bu çıkarım kuralı için de bir örnek verelim.<br/>Ahmet eğer Ankara’daysa, İç Anadolu Bölge<br/>si’ndedir. <br/>Ahmet İç Anadolu Bölgesi’nde değildir.<br/>Öyleyse, Ahmet Ankara’da değildir."
     },
     {
         "SoruID": 3842800,
@@ -797,6 +797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru cevap B<br/>P ise Q<br/> P Öyleyse, Q <br/>Bir içerikli örnek verecek olursak;<br/> Ahmet eğer uzun boyluysa iyi basketbol oynar. <br/>Ahmet uzun boyludur.<br/> Öyleyse, Ahmet iyi basketbol oynar."
+        "Aciklama": "Doğru cevap B<br/>P ise Q<br/>P Öyleyse, Q <br/>Bir içerikli örnek verecek olursak;<br/>Ahmet eğer uzun boyluysa iyi basketbol oynar. <br/>Ahmet uzun boyludur.<br/>Öyleyse, Ahmet iyi basketbol oynar."
     }
 ]

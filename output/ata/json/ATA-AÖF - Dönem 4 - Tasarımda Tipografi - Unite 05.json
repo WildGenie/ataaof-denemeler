@@ -9,14 +9,15 @@
         "E": "Orta Çağ'da dükkanlarda kullanılan tabelalar",
         "DogruCevap": "B",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 337597,
@@ -35,7 +36,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337598,
@@ -47,14 +49,15 @@
         "E": "Rakiplerin arasında fark edilmeyi zorlaştırır.",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337599,
@@ -66,14 +69,15 @@
         "E": "İşletmeye artı değer katması",
         "DogruCevap": "D",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 337600,
@@ -92,7 +96,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 337601,
@@ -111,7 +116,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 337602,
@@ -130,7 +136,8 @@
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 337603,
@@ -142,14 +149,15 @@
         "E": "Arial",
         "DogruCevap": "C",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 3,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 3
+        "CevapSira": 3,
+        "Donem": 4
     },
     {
         "SoruID": 337604,
@@ -161,14 +169,15 @@
         "E": "Açık renkli olmalıdır",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 2,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 341086,
@@ -180,14 +189,15 @@
         "E": "Hizmet",
         "DogruCevap": "B",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     },
     {
         "SoruID": 343470,
@@ -199,14 +209,15 @@
         "E": "Finansal geri dönüşlerin kaynağıdır.",
         "DogruCevap": "D",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 4,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 4
+        "CevapSira": 4,
+        "Donem": 4
     },
     {
         "SoruID": 347917,
@@ -218,14 +229,15 @@
         "E": "Markaya değer katma",
         "DogruCevap": "A",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 1,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 1
+        "CevapSira": 1,
+        "Donem": 4
     },
     {
         "SoruID": 347920,
@@ -237,14 +249,15 @@
         "E": "Ürün arama maliyetlerini düşürür.",
         "DogruCevap": "E",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 5,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 5
+        "CevapSira": 5,
+        "Donem": 4
     },
     {
         "SoruID": 347921,
@@ -256,13 +269,14 @@
         "E": "Ürün arama maliyetlerini düşürür.",
         "DogruCevap": "B",
         "DersAd": "Tasarımda Tipografi",
-        "Somestre": 0,
+        "Somestre": 2,
         "DogruCevapSirasi": 2,
         "Unite": 5,
         "OlusturmaTarihi": "2025-07-28T08:49:01.01",
         "GelYer": 1,
         "DersId": 527,
         "OBSDersId": 82520,
-        "CevapSira": 2
+        "CevapSira": 2,
+        "Donem": 4
     }
 ]

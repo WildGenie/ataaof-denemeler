@@ -12,8 +12,7 @@
         "D": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Tasarım Hatalarını Azaltmak</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sanal Prototip</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831011,
@@ -28,8 +27,7 @@
         "D": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Tasarım Hatalarını Azaltır</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sanal Prototiplemeyi Etkinleştirir</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831016,
@@ -44,8 +42,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Ustalaşmanın Zorlukları</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sınırlı Fiziksel Etkileşim</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831017,
@@ -60,8 +57,7 @@
         "D": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Parametrik Modelleme</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>3DS Max Programı</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831018,
@@ -76,8 +72,7 @@
         "D": "<p>Rhinoceros</p>",
         "E": "<p>Solidworks</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831027,
@@ -92,8 +87,7 @@
         "D": "<p>I/II/III/V/VI/VII</p>",
         "E": "<p>I/II/V/VI/VII</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831030,
@@ -108,8 +102,7 @@
         "D": "<div class=\"page\" title=\"Page 34\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Müzik ve Ses Miksajı</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 34\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Dağıtım Materyalleri</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831031,
@@ -124,8 +117,7 @@
         "D": "<p>Dijital Animasyon ve Video Dosyaları</p>",
         "E": "<p>CD/DVD Aracılığı ile Dağıtım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831032,
@@ -140,8 +132,7 @@
         "D": "<div class=\"page\" title=\"Page 34\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Renk Düzeltme</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 34\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Başlıklar, Jenerik ve Grafikler</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831033,
@@ -156,7 +147,6 @@
         "D": "<div class=\"page\" title=\"Page 34\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Dağıtım Materyalleri</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 34\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Ses Tasarımı</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

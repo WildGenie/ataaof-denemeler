@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 3763381,
-        "SoruMetni": "Habercilikte kullanılan veri görselleştirmeleri aşağıdakilerden hangi amaca hizmet ederler?<br/> <ol style=\"list-style-type: upper-roman;\"> <li>Zaman içindeki değişimi göstermek</li> <li>Değerleri birbirleri ile kıyaslamak</li> <li>İlişkileri ve akışları göstermek</li> <li>Coğrafi konum bildirmek</li> </ol>",
+        "SoruMetni": "Habercilikte kullanılan veri görselleştirmeleri aşağıdakilerden hangi amaca hizmet ederler?<br/><ol style=\"list-style-type: upper-roman;\"> <li>Zaman içindeki değişimi göstermek</li> <li>Değerleri birbirleri ile kıyaslamak</li> <li>İlişkileri ve akışları göstermek</li> <li>Coğrafi konum bildirmek</li> </ol>",
         "A": "Yalnızca I",
         "B": "I ve II",
         "C": "I ve III",
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Habercilikte kullanılan veri görselleştirmeleri, temelde üç amaca hizmet ederler.<br/> • Zaman içindeki değişimi göstermek,<br/> • Değerleri birbirleri ile kıyaslamak ve<br/> • İlişkileri ve akışları göstermek."
+        "Aciklama": "Habercilikte kullanılan veri görselleştirmeleri, temelde üç amaca hizmet ederler.<br/>• Zaman içindeki değişimi göstermek,<br/>• Değerleri birbirleri ile kıyaslamak ve<br/>• İlişkileri ve akışları göstermek."
     },
     {
         "SoruID": 3763382,
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 3763383,
-        "SoruMetni": "Kennedy vd. (2021)'e göre aşağıdakilerden hangisi veriye dayalı haberlerdeki görselleştirmelerin okuyucu tarafından ilgi görmesinde etkili olan faktörlerden biri <strong>değildir? </strong>",
+        "SoruMetni": "Kennedy vd. (2021)'e göre aşağıdakilerden hangisi veriye dayalı haberlerdeki görselleştirmelerin okuyucu tarafından ilgi görmesinde etkili olan faktörlerden biri <strong>değildir? </strong>",
         "A": "Haberin konusu",
         "B": "Okuyucunun inanç ve görüşleri",
         "C": "Verinin kaynağı ve haberin yayımlandığı mec<span>ra</span>",
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kennedy vd. (2021) veriye dayalı haberlerdeki görselleştirmelerin okuyucu tarafından ilgi görmesinde etkili olan faktörleri şu başlıklar altında incelemiştir:<br/> • Haberin konusu,<br/> • Verinin kaynağı ve haberin yayımlandığı mecra,<br/> • Okuyucunun inanç ve görüşleri,<br/> • Zaman,<br/> • Okuyucunun özgüveni ve becerileri,<br/> • Duygular."
+        "Aciklama": "Kennedy vd. (2021) veriye dayalı haberlerdeki görselleştirmelerin okuyucu tarafından ilgi görmesinde etkili olan faktörleri şu başlıklar altında incelemiştir:<br/>• Haberin konusu,<br/>• Verinin kaynağı ve haberin yayımlandığı mecra,<br/>• Okuyucunun inanç ve görüşleri,<br/>• Zaman,<br/>• Okuyucunun özgüveni ve becerileri,<br/>• Duygular."
     },
     {
         "SoruID": 3763384,
@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 3763623,
-        "SoruMetni": "Zaman içindeki değişimler için hazırlanan veri görselleştirmeler en yaygın olarak  hangi biçimde görselleştirilir?",
+        "SoruMetni": "Zaman içindeki değişimler için hazırlanan veri görselleştirmeler en yaygın olarak hangi biçimde görselleştirilir?",
         "A": "Harita",
         "B": "Akış çizelgesi",
         "C": "Dağılım grafiği",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 3763626,
-        "SoruMetni": "Aşağıdakilerden hangisi Kennedy'e (2021) göre veriye dayalı haberlerdeki görselleştirmelerin okuyucu tarafından ilgi görmesinde etkili olan faktörlerden <span style=\"text-decoration: underline;\">değildir</span>?<br/><br/>",
+        "SoruMetni": "Aşağıdakilerden hangisi Kennedy'e (2021) göre veriye dayalı haberlerdeki görselleştirmelerin okuyucu tarafından ilgi görmesinde etkili olan faktörlerden <span style=\"text-decoration: underline;\">değildir</span>?",
         "A": "Haberin konusu",
         "B": "Okuyucunun inanç ve görüşleri",
         "C": "Mekan",
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 3763629,
-        "SoruMetni": "Aşağıdakilerden hangisi okuyucuların veriye dayalı haberlerden kaçınma sebeplerinden <span style=\"text-decoration: underline;\">değildir?</span>",
+        "SoruMetni": "Aşağıdakilerden hangisi okuyucuların veriye dayalı haberlerden kaçınma sebeplerinden <span style=\"text-decoration: underline;\">değildir?</span>",
         "A": "Görsel okuryazarlık eksikliği",
         "B": "Matematik beceri eksikliği",
         "C": "İstatistik beceri eksikliği",
@@ -362,7 +362,7 @@
     {
         "SoruID": 3763640,
         "SoruMetni": "Gazetecilik mesleği açısından veri görselleştirmelerinin ne kadar inanılır<br/>olduğu ve gerçeği ne kadar yansıttığı konusunda aşağıdakilerden hangisi tartışılmamaktadır?",
-        "A": "Haberi hazırlayan kişilerin seçimleri ve bakış açıları doğrultusunda analizlerin<br/>şekillenmesi.",
+        "A": "Haberi hazırlayan kişilerin seçimleri ve bakış açıları doğrultusunda analizlerin<br/>şekillenmesi.",
         "B": "Günümüz medya ortamında bir haber pek çok farklı şekilde algılanabilmesi.",
         "C": "Bazı okuyucuların sunulan içeriği körü körüne kabullenirken, bazılarının kuşkuyla reddedebilmesi.",
         "D": "Haberin görselleştirilmesi aşamasında hata yapılabilmesi.",
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Haberin görselleştirilmesi aşamasında hata yapılabilmesi, ünite kapsamında gazetecilik mesleği açısından veri görselleştirmelerinin ne kadar inanılır olduğu ve gerçeği ne kadar yansıttığı konusunda tartışılan konulardan biri değildir."
+        "Aciklama": "Haberin görselleştirilmesi aşamasında hata yapılabilmesi, ünite kapsamında gazetecilik mesleği açısından veri görselleştirmelerinin ne kadar inanılır olduğu ve gerçeği ne kadar yansıttığı konusunda tartışılan konulardan biri değildir. Bunun yanında veri görselleştirmeleri her ne kadar gerçeklere dayansa da hazırlayan kişilerin seçimleri ve bakış açıları doğrultusunda şekillenen analizler, veriye dayalı olarak yapılacak tüm çıkarsamaları yansıtmaması, günümüz medya ortamında bir haber pek çok farklı şekilde algılanması, bazı okuyucular sunulan içeriği körü körüne kabullenirken, bazıları kuşkuyla reddetmesi, hatta bağlamından koparılarak sosyal medyada paylaşılan bir veri görselleştirilmesi, aslında ifade edilmek istenenden farklı yorumlanması, bunun da ötesinde, üzerinde değişiklik yapılarak çarpıtılabilmesi tartışılan noktalardandır."
     },
     {
         "SoruID": 3763642,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Veri görselleştirmesinin, haber metninin önüne geçerek anlatının temel unsuru hâline gelmesidir."
+        "Aciklama": "Veri görselleştirmeleri, habercilik uygulamalarında bazı değişimler ve zorlukları beraberinde getirmektedir. En önemli değişim, veri görselleştirmesinin, haber metninin önüne geçerek anlatının temel unsuru hâline gelmesidir."
     }
 ]
