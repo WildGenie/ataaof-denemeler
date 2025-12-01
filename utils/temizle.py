@@ -46,7 +46,7 @@ def process_questions(input_file, output_file):
                     f"    - {'Cevap ' if isanswer else ''}{chr(65 + i)}-) {option.strip()}{'' if isanswer else ''}\n"
                 )  # Format options
 
-            outfile.write("\n\n    ***\n\n")
+            outfile.write("\n\n    <hr />\n\n")
 
 
 

@@ -11,7 +11,7 @@
     > **Açıklama:** **Vektör,** görüntüyü oluşturan her çizginin başlangıç, bitiş, uzunluk, yön, dolgu rengi ve çizgi rengi
     > bilgilerinin saklandığı görüntü yapısıdır.
 
-    ***
+    <hr />
 1. Dijital görüntüdeki detaylar yan yana sıralanmış küçük karelerin birleşiminden meydana gelmektedir.<br />Yukarıda tanımlanan bu kareler aşağıdaki hangi kavram ile ifade edilir?
     - A-) Vektör
     - B-) Çözünürlük
@@ -21,7 +21,7 @@
 
     > **Açıklama:** Dijital görüntüde detaylar yan yana sıralanmış küçük karelerden yani **piksellerin** birleşiminden meydana gelmektedir
 
-    ***
+    <hr />
 1. Fiziksel değişkenlerin durumu hakkında, verilerin aktarımını sağlayan ve sayısal olarak bir “f” fonksiyonu ile gösterilen kavram aşağıdakilerden hangisidr?
     - A-) Piksel
     - B-) Vektör
@@ -31,7 +31,7 @@
 
     > **Açıklama:** **Sinyal,** Fiziksel değişkenlerin durumuhakkında, verilerin aktarımını sağlayan ve sayısal olarak bir “f” fonksiyonu ile gösterilen kavramdır.
 
-    ***
+    <hr />
 1. Dijital görüntü işleme ile ilgili olarak aşağıda söylenenlerden hangisi gerçek değildir?
     - A-) sayısal hâle getirilmiş görüntülerin bilgisayar vasıtası ile işlenmesidir.
     - B-) dijitalleştirilmiş görüntülerin bilgisayar vasıtası ile işlenmesidir.
@@ -42,7 +42,7 @@
     > **Açıklama:** Dijital görüntü işleme, sayısal hâle getirilmiş, dijitalleştirilmiş görüntülerin bilgisayar vasıtası ile işlenmesidir.
     > Dijital görüntü işleme yöntemleri ile dijital görüntünün insanın yorumlaması için iyileştirilmesi, **iyileştirilen görüntülerin anlamlandırılması** ve farklı amaçlar için farklı görüntülerin elde edilmesi temel olarak amaçlanmaktadır.
 
-    ***
+    <hr />
 1. Dijital görüntünün birim ölçüdeki piksel sayısına verilen ve görüntünün yükseklik ve genişlik boyutunu tanımlayan kavram aşağıdakilerden hangisidir?
     - **Cevap A-) çözünürlük**
     - B-) piksel
@@ -52,7 +52,7 @@
 
     > **Açıklama:** Çözünürlük, birim ölçüdeki piksel sayısına verilen isimdir. Piksel cinsinden yükseklik ve genişlik boyutunu tanımlar.
 
-    ***
+    <hr />
 1. Çözünürlük ile ilgili olarak aşağıda söylenenlerden hangisi gerçek değildir?
     - A-) birim ölçüdeki piksel sayısıdır
     - B-) dijital görüntünün yükseklik ve genişlik boyutunu tanımlar
@@ -65,7 +65,7 @@
     > görüntüyü tanımlar. Dijital görüntüde çözünürlük değeri arttıkça görüntü alanı büyür, küçüldükçe görüntü
     > alanı küçülür
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi çıkarımsal renk sentezini oluşturan renkler arasında yer alamaz?
     - A-) Magenta
     - B-) Key
@@ -75,7 +75,7 @@
 
     > **Açıklama:** Çıkarımsal renk İngilizcesi subtractive color mix olarak adlandırılmaktadır. CMYK’nın açılımına baktığımızda İngilizce Cyan, Magenta, Yellow ve Key renklerinin baş harflerinden oluşur.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi iki ve daha fazla toplamsal rengin çakışması ile meydana gelen bir renk değildir?
     - A-) Macenta
     - **Cevap B-) siyah**
@@ -86,7 +86,7 @@
     > **Açıklama:** Toplamsal renk İngilizcesi additive color mixolarak adlandırılmaktadır. RGB açılımına bakıldığında İngilizce Red, Green ve Blue renklerinin baş harflerinin kısaltılmasından oluşur. Kırmızı, Yeşil ve Mavi üç ana renkten oluşur. RGB Renkler: Toplamsal ana renkler beyaz ışığın birer bileşenini oluşturur.
     > İki toplamsal rengin çakışması ile bir çıkarımsal ana renk meydana gelir.siyah yani key rengi bu üç rengin üst üste basılması ile elde edilir.
 
-    ***
+    <hr />
 1. Işığın farklı dalga boyları tarafından meydana getirilen ve rengin belirli bir niteliğe ve onu diğerlerinden görsel olarak ayrıştırmamızı sağlayan özellikleri aşağıdaki kavramlardan hangisiyle tanimlanır?
     - A-) Doygunluk
     - B-) Parlaklık
@@ -97,7 +97,7 @@
     > **Açıklama:** Ton, rengin belirli bir niteliğe ve onu diğerlerinden görsel olarak ayrıştırmamızı sağlayan özellikleri tanımlar.
     > Tonlar ışığın farklı dalga boyları tarafından meydana getirilir.
 
-    ***
+    <hr />
 1. Resmin içindeki renk sayısından çok, resmin büyüklüğü önemli olduğunda tercih edilen ve en temel resim formatı olarak herhangi bir sıkıştırma yapmayan oldukça hızlı bir format olarak tanımlanan dijital görüntü formatı aşağıdakilerden hangisidir?
     - **Cevap A-) BMP**
     - B-) PDF
@@ -107,7 +107,7 @@
 
     > **Açıklama:** BMP: En temel resim formatıdır. BMP 16 ya da çok renk kaydedebileceğimiz, herhangi bir sıkıştırma yapmayan oldukça hızlı bir formattır. Bu formatta resmin içindeki renk sayısından çok, resmin büyüklüğü önemlidir
 
-    ***
+    <hr />
 1. "................" piksel olarak da bilinen resim ögelerinden oluşan, belirli özelliği ve renk yoğunluğu olan görüntünün, dijital ortama belirli boyutlarda aktarılarak oluşturulan hâline denir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tanımlar?
     - A-) Çözünürlük
     - B-) Vektör
@@ -118,7 +118,7 @@
     > **Açıklama:** Yanıtınız yanlış ise "Dijital Görüntü" konusunu yeniden gözden geçiriniz.
     > Dijital görüntü, piksel olarak da bilinen resim ögelerinden oluşan, belirli özelliği ve renk yoğunluğu olan görüntünün, dijital ortama belirli boyutlarda aktarılarak oluşturulan hâline denir.
 
-    ***
+    <hr />
 1. "Görüntüyü oluşturan her çizginin başlangıç, bitiş, uzunluk, yön, dolgu rengi ve çizgi rengi<br />bilgilerinin saklandığı görüntü yapısıdır."<br />Yukarıda tanımlanan kavram aşağıdakilerden hangisidir?
     - A-) Sinyal
     - **Cevap B-) Vektör**
@@ -130,7 +130,7 @@
     > **Vektör**, görüntüyü oluşturan her çizginin başlangıç, bitiş, uzunluk, yön, dolgu rengi ve çizgi rengi
     > bilgilerinin saklandığı görüntü yapısıdır.
 
-    ***
+    <hr />
 1. "..................... fiziksel değişkenlerin durumu hakkında, verilerin aktarımını sağlayan ve<br />sayısal olarak bir "f" fonksiyonu ile gösterilen kavramdır."<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
     - **Cevap A-) Sinyal**
     - B-) Piksel
@@ -141,7 +141,7 @@
     > **Açıklama:** Yanıtınız yanlış ise "Dijital Görüntü" konusunu yeniden gözden geçiriniz.
     > **Sinyal**, Fiziksel değişkenlerin durumu hakkında, verilerin aktarımını sağlayan ve sayısal olarak bir "f" fonksiyonu ile gösterilen kavramdır.
 
-    ***
+    <hr />
 1. Piksel kısaltma olarak aşağıdakilerden hangisi ile gösterilir?
     - A-) p
     - B-) f
@@ -152,7 +152,7 @@
     > **Açıklama:** Yanıtınız yanlış ise "Dijital Görüntü" konusunu yeniden gözden geçiriniz.
     > Piksel, dijital görüntünün elde edilmesini sağlayan ve kontrol edilebilen en küçük birimdir. Piksel, İngilizce "pixel" yani "Picture Elements" kelimelerinden kısaltılarak üretilmiş bir kelimedir. Resim parçası anlamına gelen piksel, sayısal bir görüntüyü oluşturan ışığa duyarlı hücreler ya da kareler için kullanılır. Dijital görüntü denildiğinde piksellerden oluşan bir yapı akla gelmelidir. Piksel kısaltma olarak "px" ile gösterilir.
 
-    ***
+    <hr />
 1. Aşağıdaki çözünürlüklerden hangisi High Definition (HD) olarak adlandırılan çözünürlük standardıdır?
     - A-) 4096x2160px
     - B-) 3840x1860px
@@ -163,7 +163,7 @@
     > **Açıklama:** Yanıtınız yanlış ise "Dijital Görüntü" konusunu yeniden gözden geçiriniz.
     > Dijital görüntüde çözünürlük değeri arttıkça görüntü alanı büyür, küçüldükçe görüntü alanı küçülür. Bazı çözünürlüklerin yükseklik ve genişlik ölçüleri standartlaştırılmış ve özel isimler verilmiştir. 1280x720 px çözünürlük High Definition (HD) ve 1920x1080px çözünürlük Full High Definition (FHD) dönemleri itibariyle yoğun kullanılan çözünürlük standartlarıdır.
 
-    ***
+    <hr />
 1. Toplamsal renk sentezini oluşturan renkler aşağıdakilerin hangisinde birlikte ve doğru olarak<br />verilmiştir?
     - A-) Cyan, Magenta, Yellow ve Key
     - B-) Cyan, Magenta, Red ve Blue
@@ -174,7 +174,7 @@
     > **Açıklama:** Yanıtınız yanlış ise "Dijital Görüntü" konusunu yeniden gözden geçiriniz.
     > Toplamsal renk İngilizcesi additive color mix olarak adlandırılmaktadır. RGB açılımına bakıldığında İngilizce Red, Green ve Blue renklerinin baş harflerinin kısaltılmasından oluşur. Kırmızı, Yeşil ve Mavi üç ana renkten oluşur. RGB ile renk oluşturmak için üç ışık ışını (bir kırmızı, bir yeşil ve bir mavi) üst üste binmelidir (örneğin siyah bir ekrandan yayılan veya beyaz bir ekrandan yansıyan). Üç ışının her birine o rengin bir bileşeni denir ve her biri karışımda tamamen kapalıdan tamamen açıklığa kadar rastgele bir yoğunluğa sahip olabilir. Bu üç rengin kesiştiği noktada beyaz oluşur.
 
-    ***
+    <hr />
 1. "Adobe Photoshop"’un kendi dosya formatı aşağıdakilerden hangisidir?
     - A-) PDF
     - **Cevap B-) PSD**
@@ -185,7 +185,7 @@
     > **Açıklama:** Yanıtınız yanlış ise "Dijital Görüntü" konusunu yeniden gözden geçiriniz.
     > PSD: Adobe Photoshop’un kendi dosya formatıdır. Resim işlemlerinde standart formattır. Sıkıştırma yapmaz. Görüntüye birden fazla katman (layer) eklenebilir. Dosya .psd formatında kayıtlı olduğu sürece tabaka korunur ve asıl görüntüden her an ayrılabilir. Dezavantajı olarak büyük dosya boyutu şeklinde bellekte yer kaplar. Transparanlık özelliklerini de barındıran bu format, görüntü işlem çalışmaları esnasında kullanılacak ideal formattır.
 
-    ***
+    <hr />
 1. Geleneksel ve Dijital Sanatın bir arada kullanımına örnek aşağıdakilerden hangisidir?
     - **Cevap A-) Mona/Leo**
     - B-) Sinek Kuşu
@@ -198,7 +198,7 @@
     > da Vinci’nin otoportresinin görüntüsünü Mona Lisa ile benzerlikleri göstermek için eşleyerek
     > Mona/Leo eserini dijital görüntü işlemlerini kullanarak bilgisayar ortamında bir araya getirmiştir. Bu çalışma dijital görüntü işlemenin tarihinde, dijital ve geleneksel sanat ürünlerinin birlikte kullanıldığı ilk örnektir. Yeni dijital görüntü işleme teknikleri ve yöntemlerini kullanarak Leonardo da Vinci ve Mona Lisa arasındaki benzerlikleri ortaya çıkarmayı amaçlamıştır.
 
-    ***
+    <hr />
 1. Türkiye'de sanat camiasını dijital görüntü işlemi ile tanıştıran kişi aşağıdakilerden hangisidir?
     - A-) Hamdi Telli
     - B-) Refik Anadol
@@ -209,7 +209,7 @@
     > **Açıklama:** Yanıtınız yanlış ise "Dijital Görüntü İşlemenin Tarihsel Kökeni ve Gelişimi" konusunu yeniden gözden geçiriniz.
     > Özcan Onur, Türkiye’deki sanat camiasını dijital sanatla ve dijital görüntü işleme işleme ile tanıştıran kişidir. Güzel Sanatlar Akademisi’nden mezun olduktan sonra Paris’e giderek PC ortamında grafik programlar geliştiren bir ekibe katılan Onur, bu süreçte ürettiği çalışmaları 1986 yılında "Elektropentur" adlı sergisinde sergiledi.
 
-    ***
+    <hr />
 1. I. Hız tespiti<br />II. Plaka tanıma<br />III. Hareket algılama<br />IV. Kişi tanıma ve sayma<br />V. Yangın tespiti<br />VI. Verimlilik artışı, ıslah çalışmaları<br />Yukarıdakilerden hangisi ya da hangileri dijital görüntü işlemlerinin güvenlik alanında kullanımı arasında yer alır?
     - A-) Yalnız I
     - B-) I ve II
@@ -221,7 +221,7 @@
     > Güvenlik kamera ağları ve plaka tespit sistemleri görüntü işleme sistemleri ile entegre çalışan sistemlerdir. Hız tespiti, plaka tanıma, hareket algılama, kişi tanıma ve sayma, yangın tespiti, su seviyesi artışı gibi birçok farklı görevi yerine getiren sistemler güvenlik anlamında kullanılmaktadır. Dijital görüntü işleme yazılımları ile hazırlanmış sistemler genellikle emniyet teşkilatı ve özel güvenlik şirketleri tarafından tercih edilmektedir.
     > VI. Verimlilik artışı, ıslah çalışmaları ise dijital görüntü işlemlerinin coğrafi bilgi sistemleri tarım ve hayvancılık uygulamaları kullanımı arasında yer almaktadır.
 
-    ***
+    <hr />
 1. I. Yan yana gelmiş piksellerin birleşiminden meydana gelir.<br />II. Dijital görüntü sayı sistemine göre kodlandığında “0”ın denk geldiği renktir.<br />III. İkili sayı sistemine verilen isimdir.<br />IV. Verilerin aktarımını sağlayan ve sayısal olarak bir “f” fonksiyonu ile göste­rilen kavramdır.<br />Aşağıdakilerden hangisinde, yukarıda açıklaması verilen kavramlar doğru biçimde sıralanmıştır?
     - A-) Dijital görüntü, beyaz, binary, sinyal
     - **Cevap B-) Dijital görüntü, siyah, binary, sinyal**
@@ -236,7 +236,7 @@
     > Sinyal:Verilerin aktarımını sağlayan ve sayısal olarak bir “f” fonksiyonu ile göste­rilen kavramdır.
     > Doğru cevap B şıkkıdır.
 
-    ***
+    <hr />
 1. Piksel sayısına verilen isim aşağıdakilerden hangisidir?
     - A-) Linol
     - B-) Dijital renk
@@ -247,7 +247,7 @@
     > **Açıklama:** Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.
     > İngilizcesi “resolution” olan çözünürlük birim ölçüdeki piksel sayısına verilen isimdir.
 
-    ***
+    <hr />
 1. I. Büyütüldüğünde çözünürlük bozulmamaktadır.<br />II. Piksel tabanlı görüntü kalitesini sunar.<br />III. Genellikle küçük boyutlu tasarımların oluşturulmasında kullanılır.<br />IV. Nokta ve eğrilerle oluşturulmuştur.<br />Yukarıda vektör ile ilgili verilenlerden hangileri doğrudur?
     - A-) I ve II
     - B-) I ve III
@@ -258,7 +258,7 @@
     > **Açıklama:** Ünitenin ilgili bölümü vektör hakkında detaylı bilgi vermektedir.
     > Vektör, dijital görüntüyü oluşturan her çizginin başlangıç, bitiş, uzunluk, yön, dolgu rengi ve çizgi ren­gi bilgilerinin saklandığı görüntü yapısıdır. Matematiksel koordinatlar üzerine yapılandırılmış, çözünür­lük bozulmaksızın büyütülebilen, piksel yapısı yerine nokta ve eğrilerle oluşturulmuş dijital bir görüntü türüdür. Vektör tabanlı dijital görüntü üretimi genellikle diji­tal yayıncılık uygulamalarında ve büyük boyutlu tasarımların ha­zırlanmasında kullanılır.
 
-    ***
+    <hr />
 1. Toplamsal ana renkler beyaz ışığın birer bileşenini oluşturur. İki toplamsal rengin çakışması ile bir çıkarımsal ana renk meydana gelir. Bu sentezle oluşturulan renklere hangi isim verilmektedir?
     - **Cevap A-) RGB renkleri**
     - B-) CMYK renkleri
@@ -269,7 +269,7 @@
     > **Açıklama:** Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.
     > Toplamsal ana renkler beyaz ışığın birer bileşenini oluşturur. İki toplamsal rengin çakışması ile bir çıkarımsal ana renk meydana gelir. Buna RGB renk denir.
 
-    ***
+    <hr />
 1. I. Rengin belirli bir niteliğe ve onu diğerlerinden görsel olarak ayrıştırmamızı sağlayan özellikleri tanımlar.<br />II. Rengin koyuluk ve açıklık oranlarını tanımlar.<br />III. Bir rengin saflığını belirler ve rengin griye olan mesafesini tanımlamaya yarar.<br />Aşağıdaki seçeneklerin hangisinde tanımı verilen kavramlar, sırasıyla doğru olarak verilmiştir?
     - A-) Ton, doygunluk, parlaklık
     - B-) Doygunluk, parlaklık, ton
@@ -281,7 +281,7 @@
     > Ton, rengin belirli bir niteliğe ve onu diğerlerinden görsel olarak ayrıştırmamızı sağlayan özellikleri tanımlar. Tonlar ışığın farklı dalga boyları tarafından meydana getirilir. Doygunluk, bir rengin saflığını belirler ve rengin griye olan mesafesini tanımlar. Parlaklık, bu nitelik rengin koyuluk ve açıklık oranlarını tanımlar. Işık değerindeki değişimler rengin siyah ya da beyazla karıştırılmasıyla elde edilir.
     > Doğru cevap E şıkkıdır.
 
-    ***
+    <hr />
 1. Bir ekran ve benzeri cihazın renk alanının, belirli standartlara göre ayarlanma sürecine ne ad verilir?
     - A-) Anahtar renk
     - B-) Ton eşitleme
@@ -292,7 +292,7 @@
     > **Açıklama:** Ünitenin ilgili bölümü detaylı öğrenme için incelenebilir.
     > Kalibrasyon**,** bir ekran ve benzeri cihazın renk alanının, belirli standartlara göre ayarlanma­sı sürecidir. Örneğin: sRGB (standart RGB) 1990’lı yıllarda Hewlett Packard ve Microsoft tarafından bilgisayarlardaki dijital görüntüleri standartlaştırmayı amaçlayan, araçtan bağımsız bir renk alanıdır.
 
-    ***
+    <hr />
 1. I. En temel resim formatı, BMP’dir.<br />II.Standart jpg formatında, resmin kalitesinden bir miktar ödün vererek sıkıştırma uygulanır.<br />III. TIFF formatı, düşük kalitede olduğu için genellikle sanatçılar tarafından tercih edilmez.<br />IV. PDF hem vektör hem de piksel tabanlı görüntüleri ba­rındırma açısından en yaygın olarak kul­lanılan biçimlerden biridir.<br />Yukarıda dijital görüntüleme formatları ile ilgili verilenlerden hangileri doğrudur?
     - A-) I ve II
     - B-) I ve III
@@ -306,7 +306,7 @@
     > Tasarımcılar tarafından çoğunlukla tercih edilen formatlardan biri olan TIFF formatı, yüksek kalitesi ile öne çıkar.
     > PDF hem vektör hem de piksel tabanlı görüntüleri ba­rındırma açısından en esnek ve yaygın olarak kul­lanılan biçimlerden biridir*.*
 
-    ***
+    <hr />
 1. Taranarak elde edilen ilk dijital görüntü öğesi, aşağıdakilerden hangisidir?
     - A-) Sinek kuşu
     - **Cevap B-) Çocuk**
@@ -317,7 +317,7 @@
     > **Açıklama:** Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.
     > 1957 yılında bir bilgisayarda taranan ilk dijital görüntü, araştırmacı Russell Kirsch’in oğlu Walden’dir. 176 piksel çözünürlüğe sahip ilk dijital görüntüdür.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi, dijital görüntü işleme alanında sanatsal eseri olmayan bir sanatçıdır?
     - **Cevap A-) Osman Hamdi**
     - B-) Özcan Onur
@@ -328,7 +328,7 @@
     > **Açıklama:** Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.
     > Osmose Dünya’da, Özcan Onur, Hamdi Telli ve Refik Anadol Türkiye’de digital görüntü işleme ve sanat alanında eser veren önemli sanatçılardandır.
 
-    ***
+    <hr />
 1. I. Dijital görüntünün ilk ilkel örneği olsa da sayısallaştırılmış görüntülerdir<br />II. Kayıpsız sıkıştırarak görüntü saklamak için kullanılan bir saklama biçimidir.<br />III. Dijital tarayıcı ve sensörler tarafından kaydedilen dijital görüntülerin sıkıştırılmadan, ham hâliyle saklanan hâllerinin kaydedildiği formattır.<br />Yukarıda dijital görüntüleme tarihi ve dijital görüntü formatları ile ilgili verilenler, sırasıyla aşağıdakilerin hangisinde doğru olarak verilmiştir?
     - A-) PNG, Bartlane sistemi, RAW
     - B-) RAW, Bartlane sistemi, PNG
@@ -339,7 +339,7 @@
     > **Açıklama:** Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.
     > Bartlane Sistemi ile aktarılan görüntüler, dijital görüntünün ilk ilkel örneği olsa da sayısallaştırılmış görüntülerdir ve dijital görüntülerin oluşturulmasında bilgisayarlar kullanılmamıştır. Bu nedenle, di-jital görüntü işlemenin tarihi, dijital bilgisayarın ortaya çıkışı ve gelişimi ile birlikte gerçekleşmiştir. RAW görüntü formatı, dijital tarayıcı ve sensörler tarafından kaydedilen dijital görüntülerin sıkıştırılmadan, ham hâliyle saklanan hâllerinin kaydedildiği formattır.Kayıpsız sıkıştırarak görüntü saklamak için kullanılan bir saklama biçimidir. GIF’in gelişmiş ver­siyonu denebilir.
 
-    ***
+    <hr />
 1. Dijital görüntü ile ilgili aşağıdakilerden hangisi söylenemez?
     - A-) İki basit değişkenin fonksiyonu olarak tanımlanabilir.
     - B-) Dijital görüntü, analog olmayan, görüntüsel öğelerin tamamıdır.
@@ -349,7 +349,7 @@
 
     > **Açıklama:** İlk dijital görüntüler sadece siyah ve beyaz renklerden oluşmaktadır. Dijital görüntü, sayısal olarak ikili sayı sistemine göre kodlandığında 0 siyah renge, 1 ise beyaz renge karşılık gelmektedir. Doğru cevap E'dir.
 
-    ***
+    <hr />
 1. Dijital görüntüyü oluşturan her çizginin başlangıç, bitiş, uzunluk, yön, dolgu rengi ve çizgi rengi bilgilerinin saklandığı görüntü yapısına ne ad verilir?
     - A-) Dijital renk
     - B-) Sinyal
@@ -359,7 +359,7 @@
 
     > **Açıklama:** Vektör, dijital görüntüyü oluşturan her çizginin başlangıç, bitiş, uzunluk, yön, dolgu rengi ve çizgi rengi bilgilerinin saklandığı görüntü yapısıdır. Doğru cevap C'dir.
 
-    ***
+    <hr />
 1. Bir ekran ve benzeri cihazın renk alanının, belirli standartlara göre ayarlanması sürecine ne ad verilir?
     - **Cevap A-) Kalibrasyon**
     - B-) RGB
@@ -369,7 +369,7 @@
 
     > **Açıklama:** Bir ekran ve benzeri cihazın renk alanının, belirli standartlara göre ayarlanması sürecidir. Doğru cevap A'dır.
 
-    ***
+    <hr />
 1. Dijital tarayıcı ve sensörler tarafından kaydedilen dijital görüntülerin sıkıştırılmadan, hâliyle saklanan hâllerinin kaydedildiği görüntü formatı aşağıdakilerden hangisidir?
     - A-) JPEG
     - B-) PNG
@@ -379,7 +379,7 @@
 
     > **Açıklama:** RAW görüntü formatı, dijital tarayıcı ve sensörler tarafından kaydedilen dijital görüntülerin sıkıştırılmadan, ham hâliyle saklanan hâllerinin kaydedildiği formattır. Doğru cevap D'dir.
 
-    ***
+    <hr />
 1. Dijital görüntünün elde edilmesine ait ilk uygulama olan Amerika ve Avrupa kıtaları arasında deniz altından görüntü aktarımı için telgraf kablolarının kullanılması hangi yılda başlamıştır?
     - A-) 1910
     - **Cevap B-) 1920**
@@ -389,7 +389,7 @@
 
     > **Açıklama:** Dijital görüntünün elde edilmesine ait ilk uygulama 1920 yılında Amerika ve Avrupa kıtaları arasında deniz altından görüntü aktarımı için telgraf kablolarının kullanılması ile başlamaktadır. Doğru cevap B'dir.
 
-    ***
+    <hr />
 1. Bir sinek kuşunun hareketlerinin ana hatları ile çizildiği animasyon olan "Hummingbird" isimli çalışma kime aittir?
     - A-) Maynard D. McFarlane
     - B-) Russell Kirsch
@@ -399,7 +399,7 @@
 
     > **Açıklama:** Csuri ilk dijital sanat ile ilgili çalışmalarına 1964 yılında başladı. 1967 yılında Bir sinek kuşunun hareketlerinin ana hatları ile çizildiği animasyon olan “Hummingbird” isimli çalışması ile “Fourth International Experimental Film Competition” da ödül aldı. Bilgisayar tarafından yaklaşık 25 hareket dizisi içeren 30.000’den fazla görüntüden oluşan Sinek Kuşu filmi dijital animasyonun ilk örneklerindendir. Doğru cevap C'dir.
 
-    ***
+    <hr />
 1. Dijital görüntü işleme ile ilgili görevleri yerine getirebilecek kadar güçlü ilk bilgisayarlar ne zaman ortaya çıkmıştır?
     - A-) 1940'ların başı
     - B-) 1950'ların başı
@@ -409,7 +409,7 @@
 
     > **Açıklama:** Dijital görüntü işleme ile ilgili görevleri yerine getirebilecek kadar güçlü ilk bilgisayarlar 1960’ların başında ortaya çıktı. Doğru cevap C'dir.
 
-    ***
+    <hr />
 1. Harold Cohen'in yaklaşık 50 yıl boyunca çizim yapan, üreten ve renklendiren bilgisayar programının adı nedir?
     - A-) The Human Race Machine
     - B-) Microsoft Paint
@@ -419,7 +419,7 @@
 
     > **Açıklama:** Britanya doğumlu Harold Cohen de döneminde ilk generatif sanat eserlerini oluşturan ve döneme yön veren sanatçılardan biridir. Cohen, bugünkü gibi yapay zekâ ile ilgili araştırmalar çok yaygın değilken yapay zekâ, bilgisayar öğrenmesi ve sanat üzerine çalışan bir ressam ve bilgisayar bilimcidir. Yaklaşık 50 yıl boyunca çizim yapan, üreten ve renklendiren AARON adını verdiği bir bilgisayar programı üzerinde çalışmıştır. Doğru cevap C'dir.
 
-    ***
+    <hr />
 1. I. Özcan Onur<br />II. Hamdi Telli<br />III. Refik Anadol<br />Yukarıda verilen isimlerden hangisi ya da hangileri ülkemizin dijital sanat temsilcilerindendir?
     - A-) I
     - B-) II
@@ -429,7 +429,7 @@
 
     > **Açıklama:** Özcan Onur, Türkiye’deki sanat camiasını dijital sanatla ve dijital görüntü işleme işleme ile tanıştıran kişidir. Ülkemizde dijital sanatı kullanan bir diğer önemli isim ise Hamdi Telli’dir. Küreselleşen dünya ve gelişen teknoloji ile birlikte dijitale olan ilgi ve erişilebilirlik arttıkça dünyada olduğu gibi Türkiye’de de dijital eser üreten sanatçı sayısı artmıştır. Bu sanatın yurtdışında olduğu kadar etkin bir şekilde temsil edildiğini söyleyemesek de dünya çapında artan popülaritesi sayesinde Türkiye’de genç sanatçıların ilgisini çektiğini ve bu sanata gösterilen ilginin arttığını söylemek mümkündür. Mimariyi, medya sanatlarını, veri bilimini ve yapay zekâyı buluşturan, dünyada yapay zekâ sanatının başlamasına çalışmaları ile destek veren ve gelişimine katkı sağlayan Refik Anadol da bu genç sanatçılardan biridir. Doğru cevap E'dir.
 
-    ***
+    <hr />
 1. I. Plaka tespit sistemleri<br />II. Tıbbi görüntüleme cihazları<br />III. Tarihi arkeolojik yapıların onarılması ve modellenmesi<br />IV. Göl ve su havzalarının yüzeyindeki seviye değişimlerinin tespiti ve takibi<br />Yukarıda verilenlerden hangilerinde dijital görüntü işleme kullanılmaktadır?
     - A-) I ve II
     - B-) I ve III
@@ -439,7 +439,7 @@
 
     > **Açıklama:** Tıbbi görüntüleme cihazlarının tamamı, dijital olarak görüntüleri işleme yazılımları ile gürültü, parlaklık, kontrast ve belirlenen kullanım amacına göre düzenleyerek, iyileştirerek ve işleyerek doğru sonuçlar oluşturmada, kanserli hücrelerin tespiti, doku analizi ve patolojik araştırmalar gibi biyoloji ve kimya alanında da benzer şekilde x ışınları vasıtası ile görüntülemeler gerçekleştirilmekte ve elde edilen görüntüler yapay zekâ destekli uygulamalar ile işlenmektedir. Güvenlik kamera ağları ve plaka tespit sistemleri görüntü işleme sistemleri ile entegre çalışan sistemlerdir. Göl ve su havzalarının yüzeyindeki seviye değişimlerinin tespiti ve takibi görüntü işleme sistemleri ile yapılmaktadır. Ayrıca dijital görüntü işleme, mimari uygulamalarda ve tarihi arkeolojik yapıların onarılması ve modellenmesi gibi uygulamalarda da kullanılmaktadır. Doğru cevap E'dir.
 
-    ***
+    <hr />
 ## Unite 2
 1. Görsel iletişimin uygulayıcısı olarak değerlendirebileceğimiz, basılı görsel tasarım ürünlerinin üretim teknolojilerindeki bilgi düzeyi, ürünü sonuçlandırmada önemli bir rol oynayan kişiye ne denir?
     - **Cevap A-) Görsel tasarımcı**
@@ -450,7 +450,7 @@
 
     > **Açıklama:** Görsel iletişimin uygulayıcısı olarak değerlendirebileceğimiz görsel tasarımcının, basılı görsel tasarım ürünlerinin üretim teknolojilerindeki bilgi düzeyi, ürünü sonuçlandırmada önemli bir rol oynamaktadır.
 
-    ***
+    <hr />
 1. Farklı yöntem ve kanallarla edinilmiş bilginin, belirli bir kaynaktan geniş kitlelere yayılmasını mümkün kılan ve yazı /görsel unsurların farklı yüzeyler üzerine, farklı yöntemler kullanılarak aktarılıp çoğaltılması işlemine ne denir?
     - **Cevap A-) Baskı teknikleri**
     - B-) Tasarım
@@ -460,7 +460,7 @@
 
     > **Açıklama:** Baskı teknikleri: Farklı yöntem ve kanallarla edinilmiş bilginin, belirli bir kaynaktan geniş kitlelere yayılmasını mümkün kılan baskı teknikleri, yazı ve görsel unsurların farklı yüzeyler üzerine, farklı yöntemler kullanılarak aktarılıp çoğaltılması işlemidir
 
-    ***
+    <hr />
 1. Bir kurum ya da kuruluşun vizyon ve misyon ekseninde tasarlanmış: logo, amblem gibi tanıtıcı işaretleri ve kurumla ilgili diğer tasarım ürünlerinin kullanım standartlarını açıklayan kitapcığa verilen isim aşağıdakilerden hangisidir?
     - **Cevap A-) Kurumsal görsel kimlik kılavuzu**
     - B-) Görsel Tasarım
@@ -470,7 +470,7 @@
 
     > **Açıklama:** Kurumsal görsel kimlik kılavuzu: Bir kurum ya da kuruluşun vizyon ve misyon ekseninde tasarlanmış: logo, amblem gibi tanıtıcı işaretleri ve kurumla ilgili diğer tasarım ürünlerinin kullanım standartlarını açıklayan kitapçıktır.
 
-    ***
+    <hr />
 1. Sosyal hayatın her alanında karşılaşabileceğimiz ve kitle iletişim araçlarından biri olan, haber niteliği olan bir olayı topluma duyurmak için, belirli standartlar gözetilerek farklı yüzeylere tasarlanan ve şehirlerin belirli yerlerine asılan duyurular şeklinde de tanım aşağıdakilerden hangisini tanımlar?
     - **Cevap A-) Afiş**
     - B-) Gazete
@@ -480,7 +480,7 @@
 
     > **Açıklama:** Afiş: Sosyal hayatın her alanında karşılaşabileceğimiz ve kitle iletişim araçlarından biri olan afiş, haber niteliği olan bir olayı topluma duyurmak için, belirli standartlar gözetilerek farklı yüzeylere tasarlanan ve şehirlerin belirli yerlerine asılan duyurular şeklinde de tanımlanır
 
-    ***
+    <hr />
 1. Bir ürünün, markasını, bileşen özelliklerini, kullanım şeklini, miktarını, vb. gibi özellikleri içeren materyallere ne denir?
     - **Cevap A-) Etiket**
     - B-) Gazete
@@ -490,7 +490,7 @@
 
     > **Açıklama:** Etiket: Bir ürünün, markasını, bileşen özel- liklerini, kullanım şeklini, miktarını, vb. gibi özellikleri içeren materyallere etiket denir.
 
-    ***
+    <hr />
 1. Temel olarak bir ürünü dış etkilerden korumak, ürünle ilgili imaj oluşturmak ve kullanıcıyı bilgilendirmek amacıyla farklı malzemelerden yapılan ürün tamamlayıcısına ne denir?
     - **Cevap A-) Ambalaj**
     - B-) Etiket
@@ -500,7 +500,7 @@
 
     > **Açıklama:** Ambalaj: Temel olarak bir ürünü dış etkilerden korumak, ürünle ilgili imaj oluşturmak ve kullanıcıyı bilgilendirmek amacıyla farklı malzemelerden yapılan ürün tamamlayıcısına ambalaj denir
 
-    ***
+    <hr />
 1. Matbaa endüstrisinde üzerine baskı yapmaya elverişli olan ve bitki liflerinden oluşan malzemeye aşağıdakilerden hangisi ile tanımlanır?
     - **Cevap A-) Kâğıt**
     - B-) Levha
@@ -510,7 +510,7 @@
 
     > **Açıklama:** Kâğıt: Matbaa endüstrisinde üzerine baskı yapmaya elverişli olan ve bitki liflerinden oluşan malzemeye kâğıt denir.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi kağıdın özelliklerinden biri **değildir?**
     - **Cevap A-) Kağıt türleri**
     - B-) Kâğıdın su yönü
@@ -525,7 +525,7 @@
     > Kâğıdın Yoğunluğu/Opaklığı:
     > Kâğıdın Rengi:
 
-    ***
+    <hr />
 1. Cisimlere çarpan ışığın yansıması ile görme duyusunda bıraktığı etkiye ne denir?
     - **Cevap A-) Renk**
     - B-) Skala
@@ -535,7 +535,7 @@
 
     > **Açıklama:** Renk: Cisimlere çarpan ışığın yansıması ile görme duyusunda bıraktığı etkiye renk denir
 
-    ***
+    <hr />
 1. Bir cihazın tekrar üretebildiği, algılayabildiği ya da görüntüleyebildiği renk sınırına ne isim verilir?
     - **Cevap A-) Renk gamı**
     - B-) Renk modelleri
@@ -545,7 +545,7 @@
 
     > **Açıklama:** Renk gamı: Bir cihazın tekrar üretebildiği, algılayabildiği ya da görüntüleyebildiği renk sınırına renk gamı ya da renk evreni denir
 
-    ***
+    <hr />
 1. Hangi renk modu, basılı ürünlerin matbaada üretiminde kullanılmalıdır?
     - A-) RGB
     - **Cevap B-) CMYK**
@@ -555,7 +555,7 @@
 
     > **Açıklama:** Basılı ürün tasarımlarında nihai ürün matbaadan çıkacağı için çalışma belgesinin ve çalışmada kullanılan görsel unsurların renk modu CMYK olmalıdır.
 
-    ***
+    <hr />
 1. Aydınger kâğıdı hangi görünüme sahiptir?
     - A-) Parlak
     - B-) Mat
@@ -565,7 +565,7 @@
 
     > **Açıklama:** Aydınger kağıdı: Şeffaf buzlu cam görüntüsünde olan bu kâğıt genelde davetiye gibi işlerin tasarımında özgünlük oluşturmak için kullanılır (Mazlum, 2006).
 
-    ***
+    <hr />
 1. Hangi renk modeli elektronik ürünlerin tasarımında kullanılır?
     - A-) CMYK
     - B-) HSL
@@ -575,7 +575,7 @@
 
     > **Açıklama:** Elektronik ürünlerde renkler RGB modeli temel alınarak oluşturulur ve bu ışık renkleri R: 255, G: 255, B: 255 sayısal değerde karıştırıldığında beyaz ışık rengi; R: 0, G: 0, B: 0 sayısal değerde karıştırıldığında ise siyah ışık rengi elde edilir (Mazlum, 2006; Uğur, 2007).
 
-    ***
+    <hr />
 1. Aşağıdaki renklerden hangileri RGB’nin ışık renkleridir?
     - **Cevap A-) Kırmızı, yeşil ve mavi**
     - B-) Siyah, beyaz ve gri
@@ -585,7 +585,7 @@
 
     > **Açıklama:** Televizyon, telefon ya da bilgisayar ekranlarında görüntülenen ve genel olarak dijital platformlar olarak tanımlanan alanlar için hazırlanacak çalışmalarda kullanılan RGB renk modeli, RED, GREEN, BLUE (kırmızı, yeşil, mavi) ışık renklerinden oluşur.
 
-    ***
+    <hr />
 1. Yarımton baskıda ara tonlar oluşturmak için hangi unsurlar kullanılır?
     - A-) Kenarlıklar
     - **Cevap B-) Tramlar**
@@ -595,7 +595,7 @@
 
     > **Açıklama:** Yarımton (Tramlı) Baskı: Bu baskı türünde renk tonları arasında farklı değerlere sahip gri bölgeler bulunmaktadır. Bu gri bölgeler “tram”lar sayesinde oluşturulur. Tramlar, ara tonlar oluşturmak için kullanılan küçük noktacıklardır.
 
-    ***
+    <hr />
 1. Basılı görsel tasarım ürünlerindeki metinlerin çalışma alanına aktarılması için hangi işlemlerin yapılması gerekir?
     - A-) Fotoğraf çekimi ve retouch
     - B-) Renk ayarlamaları ve düzenlemeleri
@@ -605,7 +605,7 @@
 
     > **Açıklama:** Basılı görsel tasarım ürünlerinin en önemli unsurlarından biri olan metinlerin çalışma alanına aktarılması için dizgisinin yapılması ve yazım hatalarından arındırmak için de tashih işleminin yapılması gerekir.
 
-    ***
+    <hr />
 1. Basılı ürün tasarımında kullanılan görsellerin yüksek çözünürlükte olması neden önemlidir?
     - A-) Görselin renk kalitesini artırır
     - B-) Görselin boyutunda zemin oluşturmaya izin verir
@@ -616,7 +616,7 @@
     > **Açıklama:** Tarama sırasında görsellerin çözünürlük özelliği basılı ürünlerin kritik unsurlarındandır ve basılı ürün tasarımında kullanılan görsellerin yüksek çözünürlükte olması beklenir. Aksi durumda pikselleşme olarak adlandırılan istenmeyen durumla karşılaşılır.
     > Bir görselde çözünürlük değerinin yüksek olması, o görselin içerdiği veri miktarının, fazla olduğunu ve dolayısıyla da o görselin çok detaylı olduğunu gösterir. Böylece görüntü boyutunu büyütmeye imkan sağlar.
 
-    ***
+    <hr />
 1. Bir görselin ya da rengin, baskı makinelerinde basılabilmesi için hangi işlem uygulanır?
     - A-) Renk uyumu
     - **Cevap B-) Renk ayrımı**
@@ -626,7 +626,7 @@
 
     > **Açıklama:** Bir görselin ya da rengin, baskı makinelerinde basılabilmesi için noktalara ayrılması işlemine renk ayrımı (RIP-Raster Image Processor) denir.
 
-    ***
+    <hr />
 1. Matbaada renkli baskının yapılabilmesi için hangi yöntem kullanılır?
     - A-) Görsellerin doğrudan baskıya alınması
     - B-) Görsellerin yeniden düzenlenmesi
@@ -636,7 +636,7 @@
 
     > **Açıklama:** Matbaada renkli baskının yapılabilmesi için, dört rengin çalışmadaki yoğunluklarını içeren filmler veya kalıplar üretilmesi gerekmektedir.
 
-    ***
+    <hr />
 1. Kitap, dergi, broşür, dosya gibi materyallerin üzerine güzel bir görünüm vermek ve dış etkenlerden korumak için yapılan çeşitli işlemlere ne ad verilir?
     - A-) Baskı işlemi
     - B-) Tasarım işlemi
@@ -646,7 +646,7 @@
 
     > **Açıklama:** Kitap, dergi, broşür, dosya vb. gibi materyallerin üzerine güzel bir görüntü vermek ve dış etkenlerden korumak için yapılan çeşitli işlemlere yüzey işlemleri denir.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi kurumsal kimlik kılavu­zunu oluşturan görsel tasarım ürünlerinden biri değildir?
     - A-) Antetli kağıt
     - B-) Fatura
@@ -656,7 +656,7 @@
 
     > **Açıklama:** Bir kurum ya da kuruluşun, hedef kitlesine ula­şabilmesi için kullanmış olduğu ürünlerinde mis­yon ve vizyonu doğrultusunda oluşturulan görsel tasarım ürünleridir. Kurum ya da kuruluşun tüm görsel imajını yansıtan **kurumsal kimlik kılavu­zu**, kurumun kimliğinin görsel yansımasıdır ve bu görsel kılavuz; antetli kâğıt, zarf, kartvizit, tebrik kartı, fatura, sevk irsaliyesi, evrak dosyası, promos­yon ürünleri ve daha bir çok basılı görsel tasarım ürünlerden oluşur (Elden ve Özdem, 2015).
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi kurumsal kimlik kılavu­zunu oluşturan görsel tasarım ürünlerinden biridir?
     - **Cevap A-) Tebrik kartı**
     - B-) El ilanı
@@ -666,7 +666,7 @@
 
     > **Açıklama:** Bir kurum ya da kuruluşun, hedef kitlesine ula­şabilmesi için kullanmış olduğu ürünlerinde mis­yon ve vizyonu doğrultusunda oluşturulan görsel tasarım ürünleridir. Kurum ya da kuruluşun tüm görsel imajını yansıtan **kurumsal kimlik kılavu­zu**, kurumun kimliğinin görsel yansımasıdır ve bu görsel kılavuz; antetli kâğıt, zarf, kartvizit, tebrik kartı, fatura, sevk irsaliyesi, evrak dosyası, promos­yon ürünleri ve daha bir çok basılı görsel tasarım ürünlerden oluşur (Elden ve Özdem, 2015).
 
-    ***
+    <hr />
 1. Bir afiş tasarlanırken, hedef kitleler tarafından algılanması için dikkat edilmesi gereken tasarım kriterlerinden ilk şart aşağıdakilerden hangisidir?
     - A-) Sadelik
     - B-) Biçim
@@ -676,7 +676,7 @@
 
     > **Açıklama:** Bir afiş tasarlanırken, hedef kitleler tarafından algılanması için ilk şart olan “dikkat çekicilik”, ulaştırıl­mak istenilen mesaj ile hedef kitlenin çıkardığı anlamın aynı olması için “sadelik ve biçim”, baskı teknik­leriyle kolay ve makul maliyetlerle üretilebilmesi “endüstriyel ve ekonomiklik” ve “estetik” özellikler gibi dikkat edilmesi gereken bazı tasarım kriterleri vardır (Tepecik, 2002: 69-70).
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi ambalaj tasarım ürünüdür?
     - A-) Gazete
     - B-) Kitap
@@ -688,7 +688,7 @@
     > **Karton, Cam, Metal, Plastik, vb.**
     > Farklı malzemelerden yapılan ambalajların, doğ­rudan üzerine baskı yoluyla ya da **etiket** gibi yardım­cı malzemelerle ürün hakkında bilgi veren, beğeni ve satış sağlaması için tasarlanması gerekmektedir. Bu aşamada tasarımcı devreye girer. Sayısız ambalaj ürü­nü arasından yapılan tasarımı hedef kitleye beğen­dirmek asıl amaçtır. **Ambalaj** tasarımı yapılırken, ambalajın içerdiği ürünü: sarması, saklaması/koru­ması ve satması gerekliliği unutulmamalıdır.
 
-    ***
+    <hr />
 1. Matbaa endüstrisinde hangi gramajlardaki kâğıtlara baskı yapılabilir?
     - A-) 20 gr/m2
     - B-) 30 gr/m2
@@ -700,7 +700,7 @@
     > *Kağıdın gramajı* = *tabaka ağırlığı*(*gram*) *tabaka alanı*(*m*2 )
     > formülünü kullanmaktır. Matbaa endüstrisinde 40 gr/m2 ile 450 gr/m2 gramajlardaki kâğıtlara baskı yapılabilir (Mazlum, 2006; Kansu ve Köse, 2008; Ambrose and Harris, 2020).
 
-    ***
+    <hr />
 1. Kartonun gramajı hangi aralıktadır?
     - A-) 40 ile 140 gr/m2
     - B-) 90 ile 145 gr/m2
@@ -710,7 +710,7 @@
 
     > **Açıklama:** Gramajı: 40 ile 150 gr/m2 olan kâğıt, 150 ile 400 gr/m2 olan karton ve 400 gr/m2 üzeri olan-lar ise mukavva olarak isimlendirilir ve tasarım-cıların kâğıtların gramajlarına göre kaç kırım ya-pılabileceğini bilmelidir. 90 gr/m2 ve daha düşük gramajlı olanlar en fazla 4 kez, 90 ile 170 gr/m2 arasındakiler 3 kez, 170 ile 240 gr/m2 2 kez, 240 ile 450 gr/m2 arasındakiler ise 1 kez kırılabilir (Mazlum, 2006; Kansu ve Köse, 2008; Ambrose and Harris, 2020).
 
-    ***
+    <hr />
 1. Üçüncü hamur kağıtların genel olarak gramajı nedir?
     - A-) 55 gr/m2
     - **Cevap B-) 60 gr/m2**
@@ -720,7 +720,7 @@
 
     > **Açıklama:** ***Üçüncü hamur kâğıtlar:*** “Tamamen ağaç hamu­rundan üretilirler.” Halk dilinde saman kâğıdı olarak bilinen bu kâğıtlar; kırmızı, mavi, yeşil ve sarı gibi renklerininin bulunmasının yanı sıra gazete, bilet ve kupon gibi nispeten baskı kalitesi düşük işler için ter­cih edilir. Genel olarak; 54 ve 60 gr/m2 gramajların­da üretilir (Mazlum, 2006; Kansu ve Köse, 2008).
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi mat, kumlu ve yarı saydam özel­liklere sahip kâğıtlardır?
     - A-) Çıkartma kâğıtları
     - **Cevap B-) Pelur kâğıtları**
@@ -730,7 +730,7 @@
 
     > **Açıklama:** ***Pelur kâğıtlar:*** “Mat, kumlu ve yarı saydam özel­liklere sahip bir kâğıttır.” Genellikle, ambalaj sektö­ründe kırılacak malzemeleri sarmak ve basım sektö­ründe de nüshalı işlerin ikinci ve üçüncü nüshalarının baskısı için kullanılır. Genel olarak; beyaz, pembe, mavi, yeşil ve sarı renklerde; 35-40 gr/m2 gramajla­rında üretilir (Mazlum, 2006; Kansu ve Köse, 2008).
 
-    ***
+    <hr />
 1. ISO standart kâğıt ölçülerine göre A3 kâğıdının ölçüsü aşağıdakilerden hangisidir?
     - A-) 841 mm x 1189 mm
     - B-) 594 mm x 841 mm
@@ -740,7 +740,7 @@
 
     > **Açıklama:** Tablo 2.1 ISO Standart Kâğıt Ölçüleri - A3 297 mm x 420 mm’dir.
 
-    ***
+    <hr />
 1. CMYK renklerine ek olarak turuncu ve yeşil renklerin de basıldığı altı renkten oluşan yüksek kaliteli baskı yöntemi aşağıdakilerden hangisidir?
     - A-) Özel (Spot/Pantone) Renk Baskı
     - B-) Trikromi Baskı
@@ -750,7 +750,7 @@
 
     > **Açıklama:** **Hexachrome Baskı:** CMYK renklerine ek olarak turuncu ve yeşil renklerin de basıldığı altı renkten oluşan yüksek kaliteli baskı yöntemidir. Bu yöntemle trikromi baskıda oluşturulan renk evreninden daha geniş renk evreni oluşturulabilmektedir.
 
-    ***
+    <hr />
 1. **Bir görsel tasarım ürününün üretilmesi planlandığında aşağıdaki so­rulardan hangisinin sorulması beklenemez?**
     - A-) Ne üretilecek? Afiş, kitap kapağı, kartvizit, ... mı?
     - B-) Hangi platform için üretilecek? Dijital/Ba­sılı mı? ya da her ikisi içinde mi?
@@ -760,7 +760,7 @@
 
     > **Açıklama:** Doğru cevap C şıkkı
 
-    ***
+    <hr />
 1. **Bir afiş tasarlanırken, hedef kitleler tarafından algılanması için ilk şart aşağıdakilerden hangisidir?**
     - **Cevap A-) Dikkat çekicilik**
     - B-) Sadelik
@@ -770,7 +770,7 @@
 
     > **Açıklama:** Doğru cevap A şıkkı
 
-    ***
+    <hr />
 1. Temel olarak bir ürünü dış etkilerden korumak, ürünle ilgili imaj oluşturmak ve kullanıcıyı bilgilendirmek amacıyla farklı malzemelerden yapılan ürün tamamlayıcısına ambalaj denir (Becer, 2017).<br />**Aşağıdakilerden hangisi ambalaj tasarım ürünlerinden biri değildir?**
     - A-) Karton
     - B-) Cam
@@ -780,7 +780,7 @@
 
     > **Açıklama:** Doğru cevap E şıkkı
 
-    ***
+    <hr />
 1. Bir ürünün, markasını, bileşen özelliklerini, kullanım şeklini, miktarını, vb. gibi özellikleri içeren materyallere ne denir?
     - A-) Ambalaj
     - **Cevap B-) Etiket**
@@ -790,7 +790,7 @@
 
     > **Açıklama:** Doğru cevap B şıkkı
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi kâğıt çeşitlerinden biri değildir?**
     - A-) Kuşe kâğıtlar
     - B-) Birinci hamur kâğıtlar
@@ -800,7 +800,7 @@
 
     > **Açıklama:** Doğru cevap E şıkkı
 
-    ***
+    <hr />
 1. **Bilgi ve haber verme amaçlı ekonomik, kül­türel, politik, magazin gibi konuları içeren; yerel, ulusal ve uluslararası olarak kategorize edilen basılı görsel tasarım ürünü aşağıdakilerden hangisidir?**
     - A-) Davetiye
     - B-) Kitap
@@ -810,7 +810,7 @@
 
     > **Açıklama:** Doğru cevap D şıkkı
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi bir baskı türü değildir?**
     - A-) Tek tonlu (Tire) Baskı
     - B-) Yarımton (Tramlı) Baskı
@@ -820,7 +820,7 @@
 
     > **Açıklama:** Doğru cevap C şıkkı
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi halk dilinde saman kâğıdı olarak bilinen kağıtı türüdür?
     - A-) Birinci hamur kağıtlar
     - B-) İkinci hamur kağıtlar
@@ -830,7 +830,7 @@
 
     > **Açıklama:** Üçüncü hamur kâğıtlar: “Tamamen ağaç hamurundan üretilirler.” Halk dilinde saman kâğıdı olarak bilinen bu kâğıtlar; kırmızı, mavi, yeşil ve sarı gibi renklerininin bulunmasının yanı sıra gazete, bilet ve kupon gibi nispeten baskı kalitesi düşük işler için tercih edilir. Genel olarak; 54 ve 60 gr/m2 gramajların- da üretilir (Mazlum, 2006; Kansu ve Köse, 2008).
 
-    ***
+    <hr />
 1. **Bir görsel tasarımcı aşağıdakilerden hangisini dikkate alarak renk seçimi yapmaz?**
     - **Cevap A-) Kendisinin hoşlandığı rengi tercih eder**
     - B-) Kurumun istediği renkleri tercih eder
@@ -840,7 +840,7 @@
 
     > **Açıklama:** Doğru cevap A şıkkı
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi reklam ve pazarlama alanında kullanılan basılı görsel tasarım ürünlerin­den biridir?**
     - A-) Dergi
     - B-) Gazete
@@ -852,7 +852,7 @@
     > Afiş, El İlanı, Folyo, Branda, Billboard, Raket, Durak Reklamları, Silindir Board, Megalight, Sokak Board, Duvar Giydirme Reklamları, Araç Giydirme Reklamları, vb.
     > Doğru cevap C şıkkı
 
-    ***
+    <hr />
 ## Unite 3
 1. Aşağıdakilerden hangisi başarılı bir arayüz tasarımı oluşturabilmek için gerekli ilkelerden biri değildir?
     - A-) Denge
@@ -864,7 +864,7 @@
     > **Açıklama:** Kontrast bu ilkeler arasında yer almaz.
     > Denge, yalınlık, bütünlük, hiyerarşi arayüz tasarımı oluşturabilmek için gerekli ilkeler arasındadır. Nokta ve çizgi, seçeneği ise arayüz tasarımı ögeleri arasındadır.
 
-    ***
+    <hr />
 1. Tasarım yüzeyi üzerinde yer alan her bir görsel elemanın, diğer görsel ögeler ile bağlantılı olması ve tasarımın tüm parçalarının uyum içerisinde olması anlamına gelen tasarım ilkesi aşağıdakilerden hangisidir?
     - A-) Renk
     - **Cevap B-) Bütünlük**
@@ -875,7 +875,7 @@
     > **Açıklama:** Bütünlük: Birlik ya da uyum olarak da bilinen bütünlük ilkesi, tasarım yüzeyi üzerinde yer alan her
     > bir görsel elemanın, diğer görsel ögeler ile bağlantılı olması ve tasarımın tüm parçalarının uyum içerisinde olması anlamına gelmektedir. Bütünlüğe sahip bir tasarım, kullanıcılar tarafından daha kolay anlaşılır ve verilmek istenen mesaj doğru bir biçimde kullanıcıya aktarılmış olur. Ayrıca tasarım ögelerinin özellikleri arasındaki benzerlikler/karşıtlıklar; tasarım alanı ve içerisinde yer alan boşluk ve doluluk oranları, renk değerlerinin uyumu, biçimler arasındaki bağlantının sürekliliği, tasarımda kullanılan tekrarlar, son üründe bütünlük algısı yaratarak estetik bir görüntü oluşturur.
 
-    ***
+    <hr />
 1. Dış kenarları tanımlayan, kapalı bir sınır tarafından oluşturulan alana ne ad verilmektedir?
     - **Cevap A-) Şekil**
     - B-) İkon
@@ -887,7 +887,7 @@
     > sınır; çizgi, renk veya değer değişikliği ile oluşturulabilir. Görsel iletişim tasarımında şekil, iki boyutlu
     > bir resmin karşılığı olarak düşünülür.
 
-    ***
+    <hr />
 1. Bir işaret, iz, kişi veya olay gibi başka bir şeyi temsil etmede kullanılan her şey olarak tanımlanan kelime aşağıdakilerden hangisidir?
     - **Cevap A-) Sembol**
     - B-) ikon
@@ -897,7 +897,7 @@
 
     > **Açıklama:** Sembol, İkon vb.: Sembol; bir işaret, iz, kişi veya olay gibi başka bir şeyi temsil etmede kullanılan her şey olarak tanımlanır. İkon ise; temsil ettiği şey ile fiziksel olarak benzerlik gösterir.
 
-    ***
+    <hr />
 1. Fotoğraf kelimesinin anlamı aşağıdakilerden hangisidir?
     - A-) Işıkla resim çizmek
     - B-) Işıkla anlatmak
@@ -908,7 +908,7 @@
     > **Açıklama:** Yunanca’da photos (foto) ve graphos (çizim) sözcüklerinden oluşan fotoğraf kelimesi “ışık
     > ile yazı yazmak” anlamına gelmektedir.
 
-    ***
+    <hr />
 1. KIsaca IoT olarak ifade edilen kelime aşağıdakilerden hangisidir?
     - **Cevap A-) Nesnelerin İnterneti**
     - B-) Izgara
@@ -919,7 +919,7 @@
     > **Açıklama:** “Internet of Things” kelimesi İngilizcede kısaca ‘IoT’ olarak ifade edilir. Bu kelime Türkçede
     > “Nesnelerin İnterneti” olarak adlandırılmaktadır. IoT, birbiriyle ilişki kurabilen, dijital makine, nesne veya tanımlayıcılar sayesinde ağa gerek duymaksızın, veri aktarabilen sistemlere verilen isimdir.
 
-    ***
+    <hr />
 1. Tasarım sürecinin en zor aşamalarından biri olan ilk örnek aşaması aşağıdakilerden hangisidir?
     - A-) Wireframe
     - **Cevap B-) Prototip**
@@ -931,7 +931,7 @@
     > ilk ürün testleri bu dönemde yapılır. Eğer ilk ürün istenileni veremiyorsa, tasarım sürecinin yeniden
     > başlamasına sebep olabilir. Ancak unutulmamalıdır ki tasarım sürecinde her hata bir sonraki çalışmanın daha iyi olacağına işarettir. İlk örnek (prototip) döneminde hiçbir şey bitmiş sayılmaz.
 
-    ***
+    <hr />
 1. Sayfa düzeninde metin, resim, çizelge gibi unsuları tasarım alanında konumlandırmak için kullanılan kılavuza ne ad verilmektedir?
     - A-) Taslak Çizimler
     - **Cevap B-) Izgara**
@@ -945,7 +945,7 @@
     > hiyerarşi, kompozisyon, simetri, asitmeri gibi konuların yer aldığı konularda ızgara kullanmak
     > özellikle tasarım süreci içerisindeki sorunları azaltacaktır.
 
-    ***
+    <hr />
 1. Web sitesindeki belli kategorilerde, linklerin ağaç yapısı hakkında bilgi veren ve genellikle sayfa sonunda footer olarak nitelendirilen alanda konumlandırılan yönlendirmelere ne ad verilmektedir?
     - A-) Sayfa Düzeni
     - **Cevap B-) Site Haritaları**
@@ -956,7 +956,7 @@
     > **Açıklama:** Site Haritaları: Web sitesindeki belli kategorilerde, linklerin ağaç yapısı hakkında bilgi veren
     > ve genellikle sayfa sonunda footer olarak nitelendirilen alanda konumlandırılan yönlendirmelerdir. Özellikle arama motorları, kullanıcılara arama sorgusunda en yakın sonuçları sağlayabilmek adına site haritalardan yararlanmaktadır.
 
-    ***
+    <hr />
 1. E-kitaplar metin formatında yayın hayatına kaç yılında başlamıştır?
     - A-) 1980
     - **Cevap B-) 1993**
@@ -967,7 +967,7 @@
     > **Açıklama:** 1993 yılında yayın hayatına sadece metin formatında başlayan e-kitaplar günümüzde film,
     > ses müzik gibi içerikleri de bünyesinde barındırabilmektedir.
 
-    ***
+    <hr />
 1. Web siteleri, mobil uygulamalar gibi dijital iletişim teknolojilerinin ekranlarında yer alan görüntüyü tasarlamayı içeren alana ne ad verilir ?
     - **Cevap A-) Dijital görsel tasarım**
     - B-) Ara yüz tasarımı
@@ -977,7 +977,7 @@
 
     > **Açıklama:** Dijital görsek tasarım: Web siteleri, mobil uygulamalar gibi dijital iletişim teknolojilerinin ekranlarında yer alan görüntüyü tasarlamayı içeren bir alandır. Doğru cevap A şıkkıdır.
 
-    ***
+    <hr />
 1. ......... tasarımı ile ifade edilmek istenen, kullanıcının bir üründen en üst seviyede memnun olmasıdır.<br />Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir ?
     - A-) Görsel tasarım
     - **Cevap B-) Kullanıcı deneyimi**
@@ -987,7 +987,7 @@
 
     > **Açıklama:** .Kullanıcı Deneyimi tasarımı ile ifade edilmek istenen, kullanıcının bir üründen en üst seviyede memnun olmasıdır. doğru cevap B şıkkıdır.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi donanım ve yazılım bileşenlerini içeren bir yapıya sahip olan kullanıcı arayüz tasarımının bir öğesi **değildir** ?
     - A-) Kullanılabilirlik
     - B-) Görselleştirme
@@ -997,7 +997,7 @@
 
     > **Açıklama:** Donanım ve yazılım bileşenlerini içeren bir yapıya sahip olan Kullanıcı Arayüz tasarımı; “kullanılabilirlik”, “görselleştirme”, “işlevsellik” ve “erişilebilirlik” olmak üzere dört ana başlıkta değerlendirilebilir. Doğru cevap E şıkkıdır.
 
-    ***
+    <hr />
 1. Kullanıcı deneyimi tasarımını ön plana çıkartan firma aşağıdakilerden hangisidir ?
     - A-) Samsung
     - B-) Nokia
@@ -1007,7 +1007,7 @@
 
     > **Açıklama:** Özellikle Apple firmasının “Kullanıcı Deneyimi (UX)” tasarımını ön plana çıkardığı söylenebilir. Öyle ki Kullanıcı Deneyimi (UX) tasarımı, Apple firması için bir kelimeden çok adeta bir motto gibidir. Çünkü Apple firması, ürünün, işlevsel ve estetik bir arayüz tasarımına sahip olmasını ve kullanım kolaylığı sağlamasını bir bütün olarak değerlendirmektedir. Doğru cevap C şıkkıdır.
 
-    ***
+    <hr />
 1. Web siteleri, mobil uygulamalar gibi dijital iletişim teknolojilerinin ekranlarında yer alan görüntüyü tasarlamayı içeren alan aşağıdakilerden hangisi ile tanımlanır?
     - **Cevap A-) Dijital görsel tasarım**
     - B-) Foto-grafik tasarım
@@ -1017,7 +1017,7 @@
 
     > **Açıklama:** Dijital Görsel Tasarım: Web siteleri, mobil uygulamalar gibi dijital iletişim teknolojilerinin ekranlarında yer alan görüntüyü tasarlamayı içeren bir alandır.
 
-    ***
+    <hr />
 1. Bir ürünün son kullanıcılarının davranışlarını anlamakla başlayan yaklaşım, hizmet veya sistem süreci aşağıdakilerden hangisi ile tanımlanır?
     - **Cevap A-) Kullanıcı deneyimi tasarımı**
     - B-) Makine deneyimi tasarımı
@@ -1027,7 +1027,7 @@
 
     > **Açıklama:** Kullanıcı Deneyimi (UX) Tasarımı: Bir ürünün son kullanıcılarının davranışlarını anlamakla başlayan yaklaşım, hizmet veya sistem sürecidir. Kullanıcı Deneyimi (UX) tasarımı aslında yeni bir olgu değildir. Terimin tarihçesine bakıldığında Antik Yunan’da ortaya konulan “ergonomi prensipleri” ya da Uzak Doğu’nun “Feng Şui” öğretisi ile benzer özellikler taşıdığı görülür. Terimin günümüzdeki anlamıyla kullanılması ise 1990’lı yıllara denk gelmektedir. Özellikle Apple firmasının “Kullanıcı Deneyimi (UX)” tasarımını ön plana çıkardığı söylenebilir.
 
-    ***
+    <hr />
 1. Bir kullanıcının, bir cihazın arayüzü ile nasıl etkileşime girdiğiyle ilgili tasarım biçimi aşağıdakilerden hangisi ile tanımlanır?
     - A-) Modüler tasarım
     - B-) Yapay zeka tasarımı
@@ -1037,7 +1037,7 @@
 
     > **Açıklama:** Kullanıcı arayüz tasarımı: “İnsan-makine birlikteliğinin bir sonucu olarak ortaya çıkan ve ikisi arasındaki etkileşimin yaşandığı alana kullanıcı arayüzü denir” Donanım ve yazılım bileşenlerini içeren bir yapıya sahip olan Kullanıcı Arayüz tasarımı; “kullanılabilirlik”, “görselleştirme”, “işlevsellik” ve “erişilebilirlik” olmak üzere dört ana başlıkta değerlendirilebilir.
 
-    ***
+    <hr />
 1. I-Denge<br />II-Yalınlık<br />III-Bütünlük<br />IV-Hiyerarşi<br />V-Vurgu<br />Yukarıdakilerden hangileri arayüz tasarımı ilkelerindendir?
     - A-) I-II-IV
     - B-) IV-V
@@ -1047,7 +1047,7 @@
 
     > **Açıklama:** Arayüz tasarımı ilkeleri denge, yalınlık, vurgu, bütünlük, hiyerarşidir.
 
-    ***
+    <hr />
 1. Dijital görsel tasarım ürünleri arasında en sık kullanılan unsurlar aşağıdakilerden hangisidir?
     - **Cevap A-) İkonlar ve semboller**
     - B-) Fotoğraflar- animasyonlar
@@ -1057,7 +1057,7 @@
 
     > **Açıklama:** Sembol; bir işaret, iz, kişi veya olay gibi başka bir şeyi temsil etmede kullanılan her şey olarak tanımlanır. İkon ise; temsil ettiği şey ile fiziksel olarak benzerlik gösterir. İkonun aksine sembolün temsil ettiği şeyle mantıksal bir bağı yoktur. Belki de dijital görsel tasarım ürünleri arasında en sık kullanılan unsurlar ikonlar ve sembollerdir. Kullanıcı Deneyimi (UX) ve Kullanıcı Arayüz (UI) tasarımında, bilgi akışı sırasında kullanıcının karmaşadan kurtularak amacına kısa sürede ulaşabilmesinin en pratik ve en estetik çözümü ikon ve sembollerin kullanılmasıdır.
 
-    ***
+    <hr />
 1. Bir metnin veya bir fikrin, açıklanması ve anlamın güçlendirilmesi amacıyla yapılan resimlemeler aşağıdakilerden hangisi ile tanımlanır?
     - A-) Fotoğraf
     - **Cevap B-) İllüstrasyon**
@@ -1067,7 +1067,7 @@
 
     > **Açıklama:** İllüstrasyonun amacı, bir metnin içeriğini, görseller yoluyla okuyucuya iletmektir. Özellikle dergi, gazete, kitap gibi geleneksel yayın yapılan alanlarda sıklıkla kullanılan illüstrasyonlar, günümüzde varlığını dijital illüstrasyonlar olarak web, mobil gibi alanlara da taşımayı başarmıştır.
 
-    ***
+    <hr />
 1. Fiziksel nesnelerin birbiriyle ilişki kurabilmesi, dijital makine, nesne veya tanımlayıcılar sayesinde ağa gerek duymaksızın veri aktarabilen sistemlere ne ad verilir?
     - A-) 3B Haritalama
     - B-) Sanal gerçeklik
@@ -1077,7 +1077,7 @@
 
     > **Açıklama:** Nesnelerin interneti, fiziksel nesnelerin birbirleri arasında ya da daha büyük sistemler arasındaki veri aktarımını ve bağlı olduğu iletişim ağını tanımlamak için kullanılmaktadır. “Internet of Things” kelimesi İngilizcede kısaca ‘IoT’ olarak ifade edilir. Bu kelime Türkçede “Nesnelerin İnterneti” olarak adlandırılmaktadır. IoT, birbiriyle ilişki kurabilen, dijital makine, nesne veya tanımlayıcılar sayesinde ağa gerek duymaksızın, veri aktarabilen sistemlere verilen isimdir.
 
-    ***
+    <hr />
 1. Arttırılmış gerçeklikle, düzensiz şekle sahip nesnelerin üzerine yansıtılan video projeksiyon görüntü tekniklerini içeren teknik aşağıdakilerden hangisi ile tanımlanır?
     - A-) Hologram
     - B-) Sanal görünüm
@@ -1087,7 +1087,7 @@
 
     > **Açıklama:** 3B Haritalama; arttırılmış gerçeklikle, düzensiz şekle sahip nesnelerin üzerine yansıtılan video projeksiyon görüntü tekniklerini içeren bir terimdir. 3B Haritalama, son yıllarda teknolojinin gelişimiyle ortaya çıkan Lazer, Otonom Robot, Kızıl Ötesi Sensör, GPS, AR- VR gibi teknolojik uygulamaları içerisinde barındıran geniş bir çalışma alanıdır. Kısa adıyla SLAM (Simultaneous localization and mapping) olarak adlandırılan bu alan, ‘çevreyi haritalama’ ve ‘kendi konumunu bulma’ anlamına gelmektedir.
 
-    ***
+    <hr />
 1. İş dünyasındaki profesyonellerin yeni ilişkiler kurmak, geliştirmek ve devam ettirmek için kullandıkları sosyal ağ aşağıdakilerden hangisidir?
     - **Cevap A-) LinkedIn**
     - B-) Youtube
@@ -1097,7 +1097,7 @@
 
     > **Açıklama:** LinkedIn, iş dünyasındaki profesyonellerin yeni ilişkiler kurmak, geliştirmek ve devam ettirmek için kullandıkları sosyal bir ağdır. Ancak asıl amaç, iş ilanı verenler ile işe alınmak amacıyla özgeçmişlerini gönderenler arasında iletişim kurmak için kullanılmaktadır.
 
-    ***
+    <hr />
 1. Çevrimiçi video paylaşım ve sosyal medya platformu olarak tanımlanan sosyal medya platformu aşağıdakilerden hangisidir?
     - A-) LinkedIn
     - **Cevap B-) Youtube**
@@ -1107,7 +1107,7 @@
 
     > **Açıklama:** Youtube çevrimiçi video paylaşım ve sosyal medya platformu olarak kullanılmaktadır. 2005 yılında kurulan Youtube, şu anda Google’ın yan kuruluşlarından biri olarak faaliyet göstermektedir. Youtube, kullanıcılarına video yükleme, video izleme ve paylaşma olanağı sunmaktadır. Bireyler videolar sayesinde etkileşim içerisine girebilmektedirler. Çünkü videolar beğenilip yorum yapılabilme özelliğine de sahiptir. Ayrıca Youtube uygulamasında kanal özelliği de bulunmaktadır.
 
-    ***
+    <hr />
 1. Simetrik denge, dikey ya da yatay bir eksene eşit oranlarda yerleşen ve benzerlikten dolayı oluşan denge sistemidir. Simetrik denge, tasarımda .......... yaratabilir.<br />Yukarıdaki boşluğa hangisi gelmelidir ?
     - **Cevap A-) Monotonluk**
     - B-) Görsel çeşitlilik
@@ -1117,7 +1117,7 @@
 
     > **Açıklama:** Simetrik denge, dikey ya da yatay bir eksene eşit oranlarda yerleşen ve benzerlikten dolayı oluşan denge sistemidir. Simetrik denge, tasarımda monotonluk yaratabilir. Doğru cevap A şıkkıdır.
 
-    ***
+    <hr />
 1. Görsel düzenlemeler dikkat çekici bir vurgu elamanına ihtiyaç duyar. Tasarımda vurgu etkisi aşağıdakilerden hangisi ile **oluşturulamaz** ?
     - A-) Oran
     - B-) Orantı
@@ -1127,7 +1127,7 @@
 
     > **Açıklama:** Görsel düzenlemeler dikkat çekici bir vurgu elamanına ihtiyaç duyar. Tasarımda vurgu etkisi, oran-orantı, renk ve doku ile oluşturulabileceği gibi, tasarım yüzeyi üzerinde beyaz alanın doğru kullanılması ile de oluşturulabilir. Doğru cevap D şıkkıdır.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi arayüz tasarım öğelerinden biridir ?
     - A-) Vurgu
     - B-) Hiyerarşi
@@ -1137,7 +1137,7 @@
 
     > **Açıklama:** Arayüz tasarımı öğeleri: Nokta-çizgi, şekil, renk, sembol-ikon, fotoğraf, illüstrasyon, tipografi,bilgi grafiği vb.... Doğru cevap E şıkkıdır.
 
-    ***
+    <hr />
 1. Yazınsal ve görsel iletişim sürecinde bir iletişim aracı olarak bilgi alışverişini sağlayan görsel eleman aşağıdakilerden hangisidir ?
     - **Cevap A-) Tipografi**
     - B-) Fotoğraf
@@ -1147,7 +1147,7 @@
 
     > **Açıklama:** Yazınsal ve görsel iletişim sürecinde bir iletişim aracı olarak bilgi alışverişini sağlayan tipografi, grafik tasarımın tamamlayıcı ve en önemli görsel elemanlarından biridir. Tipografinin birincil işlevi okunurluğun sağlanmasıdır. Doğru cevap A şıkkıdır.
 
-    ***
+    <hr />
 1. Çevreyi haritalama ve kendi konumunu bulma anlamına gelen kavram aşağıdakilerden hangisidir ?
     - A-) Lazer
     - **Cevap B-) Slam**
@@ -1157,7 +1157,7 @@
 
     > **Açıklama:** Kısa adıyla SLAM (Simultaneous localization and mapping) olarak adlandırılan bu alan, ‘çevreyi haritalama’ ve ‘kendi konumunu bulma’ anlamına gelmektedir. SLAM problemini çözmek için kullanılan en önemli unsur; ortam tarayıcıları, kameralar ve mesafe sensörleridir. Doğru cevap B şıkkıdır.
 
-    ***
+    <hr />
 1. İş dünyasındaki profesyonellerin yeni ilişkiler kurmak, geliştirmek ve devam ettirmek için kullandıkları sosyal ağ aşağıdakilerden hangisidir ?
     - A-) Facebook
     - B-) İnstagram
@@ -1167,7 +1167,7 @@
 
     > **Açıklama:** LinkedIn, iş dünyasındaki profesyonellerin yeni ilişkiler kurmak, geliştirmek ve devam ettirmek için kullandıkları sosyal bir ağdır. Ancak asıl amaç, iş ilanı verenler ile işe alınmak amacıyla özgeçmişlerini gönderenler arasında iletişim kurmak için kullanılmaktadır. Doğru cevap C şıkkıdır.
 
-    ***
+    <hr />
 1. Bir ürünün son kullanıcılarının davranışlarını anlamakla başlayan yaklaşım, hizmet veya sistem süreci olarak anlatılan kullanıcı deneyimi (UX) tasarımı teriminin kullanılması hangi yıllarda başlamıştır?
     - A-) 1970'li yıllarda
     - B-) 1980'lı yıllarda
@@ -1178,7 +1178,7 @@
     > **Açıklama:** 1990'lı yıllarda
     > Kullanıcı Deneyimi (UX) tasarımı aslında yeni bir olgu değildir. Terimin tarihçesine bakıldığında Antik Yunan’da ortaya konulan “ergonomi prensipleri” ya da Uzak Doğu’nun “Feng Şui” öğretisi ile benzer özellikler taşıdığı görülür. Terimin günümüzdeki anlamıyla kullanılması ise 1990’lı yıllara denk gelmektedir.
 
-    ***
+    <hr />
 1. Herkesin uygulayabileceği, toplumun tüm alanlarına entegre olabilecek çığır açan fikirlerin üretilip, uygulanabileceği bir inovasyon yaklaşımı ya da fiziksel bir ürün yaratmanın ötesinde problemlere çok yönlü çözüm getirmek olarak açıklanan kavram aşağıdakilerden hangisidir?
     - A-) Kullanıcı Arayüz (UI) Tasarımı
     - B-) Kullanıcı Deneyimi (UX) Tasarımı
@@ -1189,7 +1189,7 @@
     > **Açıklama:** Tasarım Odaklı Düşünce
     > Tasarım odaklı düşünceyi, herkesin uygulayabileceği, toplumun tüm alanlarına entegre olabilecek çığır açan fikirlerin üretilip, uygulanabileceği bir inovasyon yaklaşımı olarak görmemiz gereklidir. Tasarım Odaklı Düşünce, fiziksel bir ürün yaratmanın ötesinde problemlere çok yönlü çözüm getirmektir.
 
-    ***
+    <hr />
 1. Birlik ya da uyum olarak da bilinen, tasarım yüzeyi üzerinde yer alan her bir görsel elemanın, diğer görsel ögeler ile bağlantılı olması ve tasarımın tüm parçalarının uyum içerisinde olması anlamına gelen arayüz tasarım ilkesi aşağıdakilerden hangisidir?
     - A-) Yalınlık
     - **Cevap B-) Bütünlük**
@@ -1200,7 +1200,7 @@
     > **Açıklama:** Bütünlük
     > Birlik ya da uyum olarak da bilinen bütünlük ilkesi, tasarım yüzeyi üzerinde yer alan her bir görsel elemanın, diğer görsel ögeler ile bağlantılı olması ve tasarımın tüm parçalarının uyum içerisinde olması anlamına gelmektedir. Bütünlüğe sahip bir tasarım, kullanıcılar tarafından daha kolay anlaşılır ve verilmek istenen mesaj doğru bir biçimde kullanıcıya aktarılmış olur.
 
-    ***
+    <hr />
 1. Web sitelerinde veya mobil uygulamalarda kullanıcılara verilmek istenen mesajın açık ve kolay algılanabilir olması ve arayüz tasarımlarının temel başarı kriteri ise, geliştirilen uygulamalar ile kullanıcı arasındaki etkileşimi artırmak ve olası hataları ortadan kaldırmak olarak açıklanan arayüz tasarım ilkesi aşağıdakilerden hangisidir?
     - **Cevap A-) Yalınlık**
     - B-) Denge
@@ -1211,7 +1211,7 @@
     > **Açıklama:** Yalınlık
     > Yalınlık: Web sitelerinde veya mobil uygulamalarda kullanıcılara verilmek istenen mesaj açık ve kolay algılanabilir olmalıdır. Arayüz tasarımlarının temel başarı kriteri, geliştirilen uygulamalar ile kullanıcı arasındaki etkileşimi artırmak ve olası hataları ortadan kaldırmaktır. Bu bağlamda arayüz tasarımlarında kullanıcıların algılama zorluklarının ortadan kaldırılması ve mesajın net bir şekilde verilmesi önemlidir.
 
-    ***
+    <hr />
 1. Yazınsal ve görsel iletişim sürecinde bir iletişim aracı olarak bilgi alışverişini sağlayan, grafik tasarımının tamamlayıcısı ve en önemli görsel elemanlarından birisi olan ve birincil işlevi okunurluğun sağlanması olan arayüz tasarım öğesi aşağıdakilerden hangisidir?
     - A-) İllüstrasyon
     - B-) Fotoğraf
@@ -1222,7 +1222,7 @@
     > **Açıklama:** Tipografi
     > Yazınsal ve görsel iletişim sürecinde bir iletişim aracı olarak bilgi alışverişini sağlayan tipografi, grafik tasarımın tamamlayıcı ve en önemli görsel elemanlarından biridir. Tipografinin birincil işlevi okunurluğun sağlanmasıdır. Bu nedenle aktarılacak olan bilgilerin, gereksinimler doğrultusunda doğru ve anlaşılır bir biçimde organize edilmesi, önem sırasına göre düzenlenmesi gereklidir.
 
-    ***
+    <hr />
 1. Birbiriyle ilişki kurabilen, dijital makine, nesne veya tanımlayıcılar sayesinde ağa gerek duymaksızın, veri aktarabilen sistemlere verilen isim aşağıdakilerden hangisidir?
     - **Cevap A-) Nesnelerin İnterneti (IoT)**
     - B-) Prototip
@@ -1233,7 +1233,7 @@
     > **Açıklama:** Nesnelerin İnterneti (IoT)
     > “Internet of Things” kelimesi İngilizcede kısaca ‘IoT’ olarak ifade edilir. Bu kelime Türkçede “Nesnelerin İnterneti” olarak adlandırılmaktadır. IoT, birbiriyle ilişki kurabilen, dijital makine, nesne veya tanımlayıcılar sayesinde ağa gerek duymaksızın, veri aktarabilen sistemlere verilen isimdir.
 
-    ***
+    <hr />
 1. Arttırılmış gerçeklikle, düzensiz şekle sahip nesnelerin üzerine yansıtılan video projeksiyon görüntü tekniklerini içeren ve son yıllarda teknolojinin gelişimiyle ortaya çıkan Lazer, Otonom Robot, Kızıl Ötesi Sensör, GPS, AR- VR gibi teknolojik uygulamaları içerisinde barındıran terim aşağıdakilerden hangisidir?
     - A-) Nesnelerin İnterneti
     - **Cevap B-) 3B Haritalama**
@@ -1244,7 +1244,7 @@
     > **Açıklama:** 3B Haritalama
     > 3B Haritalama; arttırılmış gerçeklikle, düzensiz şekle sahip nesnelerin üzerine yansıtılan video projeksiyon görüntü tekniklerini içeren bir terimdir. 3B Haritalama, son yıllarda teknolojinin gelişimiyle ortaya çıkan Lazer, Otonom Robot, Kızıl Ötesi Sensör, GPS, AR- VR gibi teknolojik uygulamaları içerisinde barındıran geniş bir çalışma alanıdır.
 
-    ***
+    <hr />
 1. E-kitapların yayın hayatına sadece metin formatında başlama yılı aşağıdakilerden hangisidir?
     - A-) 1990
     - B-) 1992
@@ -1255,7 +1255,7 @@
     > **Açıklama:** 1993
     > 1993 yılında yayın hayatına sadece metin formatında başlayan e-kitaplar günümüzde film, ses müzik gibi içerikleri de bünyesinde barındırabilmektedir.
 
-    ***
+    <hr />
 1. “Metaverse” olarak bilenen, bazen üç boyutlu dünyayı kapsayarak bazen de fiziksel dünyada var olarak günümüzün çevrimiçi sosyal deneyimlerini karışımıza çıkarmayı hedefleyen projeyi hayata geçirme çalışmaları başlatan ve geniş bir hedef kitleye sahip olan sosyal medya mecrası aşağıdakilerden hangisidir?
     - A-) Twitter
     - B-) LinkedIn
@@ -1266,7 +1266,7 @@
     > **Açıklama:** Facebook
     > Facebook, hem teknolojinin geldiği noktada hem de kendi geleceği konusunda 2021 yılında kritik bir adım atmıştır. Şirket kimliğini “Meta” olarak yenilemiş, “Metaverse” olarak bilenen, bazen üç boyutlu dünyayı kapsayarak bazen de fiziksel dünyada var olarak günümüzün çevrimiçi sosyal deneyimlerini karışımıza çıkarmayı hedefleyen projeyi hayata geçirme çalışmaları başlatmıştır. Facebook’ta eğlence, bilgi alışverişi, fotoğraf, video, müzik paylaşımı, oyun oynama, insanlarla iletişime geçme gibi birçok özellik bulunmaktadır. Bu sebepten dolayı Facebook oldukça geniş bir kitleye hitap etmektedir.
 
-    ***
+    <hr />
 1. Çevirimiçi video paylaşım ve sosyal medya platformu olarak kullanılan YouTube hangi yıl kurulmuştur?
     - A-) 2002
     - B-) 2000
@@ -1277,7 +1277,7 @@
     > **Açıklama:** 2005
     > Youtube çevirimiçi video paylaşım ve sosyal medya platformu olarak kullanılmaktadır. 2005 yılında kurulan Youtube, şuanda Google’ın yan kuruluşlarından biri olarak faaliyet göstermektedir.
 
-    ***
+    <hr />
 ## Unite 4
 1. Aşağıdakilerden hangisi bir hareketli grafik videosu üretmek için takip edilen adımlardan biri değildir?
     - A-) Görüşme
@@ -1288,7 +1288,7 @@
 
     > **Açıklama:** Raporlama bu süreçler içerisinde yer almaz. Görüşme ile başlayan süreç Montaj ve Kurgu aşaması ile sonlanır.
 
-    ***
+    <hr />
 1. Üç boyutlu hareketli nesnelerin seçilen yazılımda üç boyutlu olarak çizilmesine ne ad verilmektedir?
     - **Cevap A-) Modelleme**
     - B-) Doku kaplama
@@ -1298,7 +1298,7 @@
 
     > **Açıklama:** Modelleme: Üç boyutlu hareketli grafik yapılacaksa kullanılacak nesneler öncelikle seçilen yazılımda (3Ds Max Studio, Cinema 4D, Blender, Maya vb.) üç boyutlu olarak çizilir.
 
-    ***
+    <hr />
 1. Video yapımında kullanılması düşünülen tüm nesne ve ögeler fotoğraf, illüstrasyon, metinler, font, renk, müzik ve varsa seslendirmenin bir pano hâlinde tasarlanmasına ne ad verilmektedir?
     - A-) Araştırma
     - **Cevap B-) Moodboard**
@@ -1311,7 +1311,7 @@
     > fotoğraf, illüstrasyon, metinler, font, renk, müzik
     > ve varsa seslendirme bir pano hâlinde tasarlanır.
 
-    ***
+    <hr />
 1. Cel animasyon yönteminde full animasyon hareketine giren her saniye için kaç kare çizim yapılmaktadır?
     - A-) 4
     - B-) 6
@@ -1321,7 +1321,7 @@
 
     > **Açıklama:** Geleneksel bir yöntemdir, animasyon hareketine giren her saniye için 24 kare çizim yapılmaktadır.
 
-    ***
+    <hr />
 1. Gerçek görüntüleri çizgi film görüntülerine dönüştürmek için kullanılan bir animasyon tekniği aşağıdakilerden hangisidir?
     - A-) Cel Animasyon
     - **Cevap B-) Rotoskop**
@@ -1333,7 +1333,7 @@
     > tekniğidir. Herhangi bir ortamda çekilen gerçek görüntüler farklı bir arka plan veya sahneye alınıp kare
     > kare birleştirmektedir. William Boyd’un Any Human Heart (Herhangi Bir İnsan Kalbi) 2022 romanından uyarlanarak tasarlanan film jeneriği Birleşik Krallık’taki Channel 4 televizyonu için yapılmıştır.
 
-    ***
+    <hr />
 1. 2007 yılında bir belgesel dizisi olan How We Built Britain için yönetmen Gareth Edwards tarafından hazırlanan jenerik aşağıdaki yöntemlerden hangisi ile üretilmiştir?
     - **Cevap A-) 3 Boyutlu Bilgisayar Animasyonu**
     - B-) Cel Animasyon
@@ -1346,7 +1346,7 @@
     > bir animasyon olarak tasarlanmasa da farklı yazılımlardan yararlanılarak 3 boyutlu ögeler kullanılarak
     > oluşturulması açısından önemlidir.
 
-    ***
+    <hr />
 1. Cinema 4D arayüzünde sahnedeki tüm ögeleri listeleyen ve bir sahnede nesneleri ve bunların hiyerarşisini gösteren bir yapı olarak biçimlendiren menü aşağıdakilerden hangisidir?
     - A-) Koordinatlar Yöneticisi
     - B-) Malzeme Yöneticisi
@@ -1356,7 +1356,7 @@
 
     > **Açıklama:** Nesne Yöneticisi (Object Manager) Menüsü: Bu, sahnedeki tüm ögeleri listeler. Bir sahnede nesneleri ve bunların hiyerarşisini gösteren bir yapı olarak biçimlendirilir.
 
-    ***
+    <hr />
 1. Seçilen bir nesnenin konumu, boyutu ve dönüşü hakkında bilgi olarak kullanılabilen veya nesneyi değiştirmek için sayısal veriler sağladığı için hassas modelleme veya işleme için kullanılan Cinema 4D arayüzündeki ana yönetici menü aşağıdakilerden hangisidir?
     - A-) Object Manager
     - B-) Attributes Manager
@@ -1370,7 +1370,7 @@
     > için sayısal veriler sağladığı için hassas modelleme
     > veya işleme için kullanılır.
 
-    ***
+    <hr />
 1. Hareketli grafiklerle hazırlanan jenerikler sinemada hangi yıllarda kullanılmaya başlamıştır?
     - **Cevap A-) 1950'ler**
     - B-) 1970'ler
@@ -1381,7 +1381,7 @@
     > **Açıklama:** Hareketli grafiğin en yoğun kullanıldığı alanlardan biri film jenerikleridir. Filmlerin açılış kapanış jenerikleri ve bazen film içinde hareketli grafik kullanılmaktadır. Film jeneriklerinin birincil amacı bilgilendirici metni izleyiciye aktarmaktır. Öyle ki 1950’lere kadar film jeneriklerinde yaratıcı tasarımlar yerine metin (oyuncular reji ve hatta
     > sponsorlar) ekranda akmaktadır.Sonraları grafik tasarımcıların özellikle Saul Bass’ın film jenerikleri üretmesi ile daha yaratıcı tasarımlar üretilmiştir. Saul Bass geleneksel grafik tasarım dili ile dinamik görsel sinemanın dilini bütünleştirerek yaratıcı ve yenilikçi jenerikler oluşturmuştur.
 
-    ***
+    <hr />
 1. Doctor Who dizisinin ilk jeneriği kim tarafından yapılmıştır?
     - **Cevap A-) Bernard Lodge**
     - B-) Richard Alan Greenberg
@@ -1396,7 +1396,7 @@
     > dönen dizinin logosu ve jenerikleri Phil Collinson ve ekibi tarafından yeniden ele alınmıştır.
     > Dizi jenerikleri zaman içerisinde, siyah beyaz, manuel yöntemler ile derinlik verilen tasarımlardan, üç boyutlu yazılımlar ile üretilen üç boyutlu yazılar grafiklere evirilmiştir.
 
-    ***
+    <hr />
 1. İyi bir hareketli grafik videosu üretmek için ilk üç adım aşağıdaki seçeneklerden hangisinde sırasıyla doğru olarak verilmiştir?
     - A-) Görüşme – Moodboard – Storyboard
     - B-) Moodboard – Storyboard – Modelleme
@@ -1406,7 +1406,7 @@
 
     > **Açıklama:** * Durağan grafikler oluştururken, şekil, renk, tipografi gibi bilgi içeriklerini yalnızca iki boyutlu bir uzamda dikkate almak gerekmektedir. Hareketli grafikler oluştururken ise durağan grafikleri oluşturma süreci içerisinde düşünerek zaman, dönüşüm, geçiş ve ses gibi unsurlar hakkında daha fazla deneyim harcanması gerekmektedir. İyi bir hareketli grafik videosu üretmek için aşağıdaki adımların sırasıyla uygulanması gerekmektedir: Görüşme (Brief): Hareketli grafik müşteri için yapılacaksa önce müşteri ile görüşülmeli ve videonun hangi amaçla yapılacağı öğrenilmelidir. Araştırma: Tasarımcı sadece müşteri ile görüşmesinden alacağı bilgiler ile yetinmemeli ve konu hakkında detaylı bir literatür taraması yapmalıdır. Video istek üzerine müşteri için yapılmıyorsa önceki adım atlanıp bu adımdan başlanır. Moodboard: Video yapımında kullanılması düşünülen tüm nesne ve ögeler (gerçek veya dijital) fotoğraf, illüstrasyon, metinler, font, renk, müzik ve varsa seslendirme bir pano hâlinde tasarlanır. Doğru cevap E seçeneğidir.
 
-    ***
+    <hr />
 1. Video yapımında kullanılması düşünülen tüm nesne ve ögeler (gerçek veya dijital) fotoğraf, illüstrasyon, metinler, font, renk, müzik ve varsa seslendirmenin bir pano hâlinde tasarlanmasına ne denir?
     - A-) Storyboard
     - **Cevap B-) Moodboard**
@@ -1416,7 +1416,7 @@
 
     > **Açıklama:** Moodboard: Video yapımında kullanılması düşünülen tüm nesne ve ögeler (gerçek veya dijital) fotoğraf, illüstrasyon, metinler, font, renk, müzik ve varsa seslendirme bir pano hâlinde tasarlanır. Doğru cevap B seçeneğidir.
 
-    ***
+    <hr />
 1. Ünlü sanatçı Madonna’nın unutulmaz filmlerinden biri olan Who’s That Girl filminin jeneriği hangi animasyon yöntemi kullanılarak yapılmıştır?
     - A-) Cut-out Yöntemi
     - B-) Stop Motion Yöntemi
@@ -1426,7 +1426,7 @@
 
     > **Açıklama:** Geleneksel bir yöntemdir, animasyon hareketine giren her saniye için 24 kare çizim yapılmaktadır. Kare kare animasyon, geleneksel animasyon tekniğidir. Zoetrope gibi cihazların ortaya çıkmasıyla beraber kökleri on dokuzuncu yüzyıla kadar dayanmaktadır. Animasyon süreci kullanılacak sekansların her bir karesini ayrı bir sayfaya çizmeyi ve ardından sekansları istenen hızda ve sırayla görüntülemeyi içermektedir. Ünlü sanatçı Madonna’nın unutulmaz filmlerinden biri olan Who’s That Girl (Kim Bu Kız) film jeneriği cel animasyon yöntemi kullanılarak yapılmıştır. Doğru cevap C seçeneğidir.
 
-    ***
+    <hr />
 1. Aşağıda yer alan film ve yapıldığı animasyon yöntemi eşlerinden hangisi yanlıştır?
     - A-) Who’s That Girl Jeneriği- Cel Animasyon Yöntemi
     - B-) Offset festivali tanıtım filmi - Stop Motion Yöntemi
@@ -1436,7 +1436,7 @@
 
     > **Açıklama:** Gerçek aktörlerin hareketlerinin 3 boyutlu iskelet sistemine aktarılmasına ve sonrasında bilgisayara alınarak hareketlendirilerek oluşturulmasına verilen isimdir. Bu yöntem ile kayıt edilen aktörlerin yerini bilgisayarda çizgi, şekil, nesne veya üretilen hayali karakterler alabilmektedir. Tanıtım filmi önemli reklam ajanslarından biri olan The Mill tarafından ve yine önemli etkinliklerden biri olan Offf için 2014 yılında St Petersburg’da düzenlenen tasarım festivali tanıtımı adına yapılmıştır. Tanıtım filminde, profesyonel dansçıların figürleri hareket yakalama tekniği (motion capture) kullanarak kayıt edilmiştir. Yazılarda ise sulu boya ve yağlı boya karışımının etkisi kullanılmıştır. Doğru cevap E seçeneğidir.
 
-    ***
+    <hr />
 1. Aşağıdaki seçeneklerden hangisinde üç boyutlu modelleme iş akışındaki ilk adım doğru verilmiştir?
     - A-) Hareketlendirme
     - **Cevap B-) Model oluşturma**
@@ -1446,7 +1446,7 @@
 
     > **Açıklama:** Üç boyutlu modelleme iş akışındaki ilk adım, bir modelin oluşturulmasıdır. Model yazılımda üretildiği gibi hazır modeller de kullanılabilir. Sonraki adım hareketlendirmedir. Sırasıyla sahnenin oluşturulması kameraların eklenmesi, renklendirme kaplama ve ışıklandırma yapılır. Bu aşamalar tamamlandıktan sonra render aşamasına geçilir. Render için CD4’ün kendi render motoru kullanılabildiği gibi RedShift, Arnold ve Octane vb. uygulamaları da kullanılabilir. Doğru cevap B seçeneğidir.
 
-    ***
+    <hr />
 1. Cinema 4D arayüzünün “Seçilen nesneler ve araçlar için bağlamsal bilgi ve özellikler sağladığı” ana menüsü aşağıdaki seçeneklerden hangisinde yer almaktadır?
     - A-) Nesne Yöneticisi Menüsü
     - **Cevap B-) Nitelik Yöneticisi Menüsü**
@@ -1456,7 +1456,7 @@
 
     > **Açıklama:** Nitelik Yöneticisi (Attributes Manager) menüsü: Seçilen nesneler ve araçlar için bağlamsal bilgi ve özellikler sağlar. Yeni bir dosya oluşturduğunuzda, Nitelikler Yöneticisi, zaman çizelgesindeki kare hızı ve kare sayısı dâhil olmak üzere belge dosyası hakkındaki bilgileri görüntülemeye izin verir. Doğru cevap B seçeneğidir.
 
-    ***
+    <hr />
 1. Cinema 4D arayüzünün “3B sahnede kullanılan tüm gölgelendirmeleri ve malzemeleri içerdiği” ana menüsü aşağıdaki seçeneklerden hangisinde yer almaktadır?
     - **Cevap A-) Malzeme Yöneticisi Menüsü**
     - B-) Model Oluşturma Yöneticisi Menüsü
@@ -1466,7 +1466,7 @@
 
     > **Açıklama:** Malzeme Yöneticisi (Materials Manager) Menüsü: 3B sahnede kullanılan tüm gölgelendirmeleri ve malzemeleri içerir. Malzemeler, bir 3B nesnenin yüzey dokusunu tanımlar ve renk, yansıtma, kırılma ve şeffaflık gibi çeşitli parametreleri içerir. Doğru cevap A seçeneğidir.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi 2 ve 3 boyutlu (element 3D vb eklenti veya 3D kamera) tasarımlar üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren görüntü işleme yazılımıdır?
     - **Cevap A-) Adobe After Effects**
     - B-) Adobe Premiere
@@ -1476,7 +1476,7 @@
 
     > **Açıklama:** After Effects yazılımı, 2 ve 3 boyutlu (element 3D vb eklenti veya 3D kamera) tasarımlar üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren bir görüntü işleme yazılımıdır. Photoshop ve Illustrator gibi temel grafik yazılımlarında oluşturulan ögeleri hareketli grafik tasarımın parçası olarak canlandırmak ve işlemek için After Effects’te bir araya getirebilmektedir. Yazılım sadece 2 boyutlu animasyon konusunda değil ayrıca 3 boyutlu ögeler ve Cinema 4D yazılımıyla da entegre olarak çalışabilmektedir. Bir yazılımın diğer yazılımlarla entegre çalışabilmesi diğer yazılımlarda oluşturulan ögelerin herhangi bir formata çevrilmeden yazılım formatında açılmasına izin vermesi yoluyla gerçekleşmektedir. Yazılım içerisinde bulunan hazır efektlerin eklentileri ve diğer dışarıdan eklenebilen hazır eklentiler sayesinde etkili hareketli grafiklerin oluşturulmasını sağlamaktadır. Doğru cevap A seçeneğidir.
 
-    ***
+    <hr />
 1. Televizyonlarda hareketli grafik kullanımlarına nerelerde rastlanmaz?
     - A-) Haber bültenleri jeneriklerinde
     - B-) Dizi film Jeneriklerinde
@@ -1486,7 +1486,7 @@
 
     > **Açıklama:** Televizyonda en sık rastlanan hareketli grafik uygulamalarına broadcasting denilen kanalların haber, spor, reklam gibi programların başlangıç ve kapanış tasarımlarında rastlanılmaktadır. Tasarım stüdyoları kanallar için kurumsal bir tasarım (id pack) üretir ve tüm tasarımlar bu çerçevede yapılır. Aynı tasarım anlayışı haber, spor, eğlence ve reklam gibi tüm programlara uygulanır. Yirminci yüzyılda yayına başlayan Doctor Who dizisi geçmiş ile günümüz tasarımlarını karşılaştırmak adına uygun bir örnektir. Öyle ki BBC tarafından 1963 yılında çekilmeye başlanan Doctor Who adlı televizyon dizisi açılış jeneriklerinde kullandığı yaratıcı çözümler ile önemlidir. Doğru cevap D seçeneğidir.
 
-    ***
+    <hr />
 1. Yaratıcı yönetmenliği Brandon Hırzel tarafından yapılan She Wolf müzik klibinin hareketli grafikleri hangi yazılımla üretilmiştir?
     - A-) Cut-out Yöntemi
     - B-) Motion Capture Yöntemi
@@ -1498,7 +1498,7 @@
     > çekimlerin yanı sıra hareketli grafik uygulamaları görülmektedir. Yönetmenliği Hiro Murai tarafındanyapılan klipin, elektronik frekansı yüksek bir kısmına geçildiğinde sahneler yavaşlamakta, ortamdaki taş gibi nesneler (bilgisayar yazılımları ile) patlamakta ve müzik ile senkron olarak hareket etmektedir. Zemin polygonlar şeklinde yukarı doğru sert ve keskin bir şekilde hareket etmektedir.
     > Yaratıcı yönetmenliği Brandon Hırzel tarafından yapılan klibin hareketli grafikleri Cinema 4D yazılımında üretilmiştir. Çoğunlukla polygon kullanılarak haritalanmış ve distortion (bozulma efekti) ile patlayarak hareketlendirilmesi sağlanmıştır. Doğru cevap E seçeneğidir.
 
-    ***
+    <hr />
 1. Video yapımında kullanılması düşünülen tüm nesne ve ögeler (gerçek veya dijital) fotoğraf, illüstrasyon, metinler, font, renk, müzik ve varsa seslendirme bir pano hâlinde tasarlanmasına ne ad verilir?
     - **Cevap A-) Moodboard**
     - B-) Montaj ve Kurgu
@@ -1511,7 +1511,7 @@
     > fotoğraf, illüstrasyon, metinler, font, renk, müzik
     > ve varsa seslendirme bir pano hâlinde tasarlanır.
 
-    ***
+    <hr />
 1. Üç boyutlu hareketli grafik yapılacaksa kullanılacak nesneler öncelikle seçilen yazılımda (3Ds Max Studio, Cinema 4D, Blender, Maya vb.) üç boyutlu olarak çizilmesine ne ad verilir?
     - A-) Render
     - **Cevap B-) Modelleme**
@@ -1524,7 +1524,7 @@
     > (3Ds Max Studio, Cinema 4D, Blender,
     > Maya vb.) üç boyutlu olarak çizilir.
 
-    ***
+    <hr />
 1. Animasyon süreci kullanılacak sekansların her bir karesini ayrı bir sayfaya çizmeyi ve ardından sekansları istenen hızda ve sırayla görüntülemeyi içermekte olan yönteme ne ad verilir?
     - A-) Modelleme
     - B-) Render
@@ -1541,7 +1541,7 @@
     > içermektedir.
     > Cel Animasyon
 
-    ***
+    <hr />
 1. Animasyondaki tüm parçaların ayrı ayrı hareket ettirilerek yapıldığı, elde kesilmiş<br />ögelerin öndeki figür, arka plan ve yazılar gibi ayrı katmanlara yerleştirilerek hareket ettirilmesine ne denir?
     - A-) Storyboard
     - B-) Render
@@ -1554,7 +1554,7 @@
     > ögeler öndeki figür, arka plan ve yazılar gibi ayrı katmanlara yerleştirilerek hareket ettirilmektedir.
     > Cut out
 
-    ***
+    <hr />
 1. Animasyon film yapımında en eski yöntemlerden olan bir nesnenin adımlarını fotoğraflayarak nesneyi her çekim arasında küçük değişimlerle hareket ettirme işleminin adı nedir?
     - A-) Modelleme
     - B-) Blender
@@ -1568,7 +1568,7 @@
     > kendisi kadar eskidir ve en eski örnekleri ondokuzuncu yüzyılın sonlarında ortaya
     > çıkmıştır. Teknik, başlangıcından bu yana çok az değişime uğramıştır (Crook ve Beare, 2017).
 
-    ***
+    <hr />
 1. Gerçek görüntüleri çizgi film görüntülerine dönüştürmek için kullanılan bir animasyon tekniğidir. Herhangi bir ortamda çekilen gerçek görüntüler farklı bir arka plan veya sahneye alınıp kare kare birleştirilen bu tekniğin adı nedir?
     - **Cevap A-) Rotoskopi**
     - B-) Render
@@ -1580,7 +1580,7 @@
     > tekniğidir. Herhangi bir ortamda çekilen gerçek görüntüler farklı bir arka plan veya sahneye alınıp kare
     > kare birleştirmektedir.
 
-    ***
+    <hr />
 1. Gerçek aktörlerin hareketlerinin 3 boyutlu iskelet sistemine aktarılmasına ve sonrasında bilgisayara alınarak hareketlendirilerek oluşturulmasına verilen isim nedir?
     - A-) Cut Out
     - **Cevap B-) Motion Capture**
@@ -1593,7 +1593,7 @@
     > alınarak hareketlendirilerek oluşturulmasına verilen isimdir. Bu yöntem ile kayıt edilen aktörlerin yerini
     > bilgisayarda çizgi, şekil, nesne veya üretilen hayali karakterler alabilmektedir.
 
-    ***
+    <hr />
 1. Üç boyutlu hareketli grafikler, ürün görselleştirmeleri, video, animasyon gibi grafik unsurlarını oluşturmak için kullanılan program hangisidir?
     - A-) Adobe Photoshop
     - B-) RedShift
@@ -1605,7 +1605,7 @@
     > ürün görselleştirmeleri, video, animasyon gibi grafik
     > unsurlarını oluşturmak için kullanılmaktadır.
 
-    ***
+    <hr />
 1. 2 ve 3 boyutlu (element 3D vb eklenti veya 3D kamera) tasarımlar üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren görüntü işleme yazılımı aşağıdakilerden hangisidir?
     - A-) Maxon Cinema 4D
     - B-) Motion Capture
@@ -1619,7 +1619,7 @@
     > değiştirilmesine, birleştirilmesine ve canlandırılmasına
     > izin veren bir görüntü işleme yazılımıdır.
 
-    ***
+    <hr />
 1. Hareketli grafik tasarımcılarının geçişler, görsel efektler, ses efektleri, müzik ve birden fazla videoyu birbirine ekleme gibi son dokunuşları eklemek için kullandıkları montaj yazılımı aşağıdakilerden hangisidir?
     - A-) Adobe Photoshop
     - B-) Blender
@@ -1633,7 +1633,7 @@
     > son halini alması için gereken akış ve senkronizasyon gibi düzenlemeler Adobe Premiere yazılımı
     > kullanılarak yapılabilmektedir.
 
-    ***
+    <hr />
 1. İyi bir hareketli grafik videosu üretmek için gerekli olan adımlarda biri olan ve modellenen, hareketlendirilen, kaplanan sonra ışıklandırılan nesneler ile üretilen videoların görselleri, render motorları ile nesneleri, ışıkları, efektleri ve diğer detayların hesaplandığı ve görüntülerin (hareketli veya durağan) üretildiği aşamaya aşağıdaki şıklarda belirtilen adlardan hangisi verilmiştir ?
     - **Cevap A-) Render**
     - B-) Kaplama
@@ -1643,7 +1643,7 @@
 
     > **Açıklama:** Render: Modellenen, hareketlendirilen, kaplanan sonra ışıklandırılan nesneler ile üretilen videoların görselleri, render motorları ile nesneleri, ışıkları, efektleri ve diğer detayları hesaplanır ve görüntüleri (hareketli veya durağan) üretilir. Dolayısıyla cevap A şıkkıdır.
 
-    ***
+    <hr />
 1. İyi bir hareketli grafik videosu üretmek için gerekli adımlardan biri olan ve video yapımında kullanılması düşünülen tüm nesne ve ögeler (gerçek veya dijital) fotoğraf, illüstrasyon, metinler, font, renk, müzik ve varsa seslendirmelerin bir pano hâlinde tasarlandığı aşama aşağıdaki şıklardan hangisinde belirtilmiştir ?
     - A-) Storyboard
     - **Cevap B-) Moodboard**
@@ -1653,7 +1653,7 @@
 
     > **Açıklama:** Moodboard: Video yapımında kullanılması düşünülen tüm nesne ve ögeler (gerçek veya dijital) fotoğraf, illüstrasyon, metinler, font, renk, müzik ve varsa seslendirme bir pano hâlinde tasarlanır. Dolayısıyla cevap B şıkkıdır.
 
-    ***
+    <hr />
 1. En geleneksel animasyon biçimlerinden biri olan ve genellikle karakterler olmak üzere nesnelerin şeffaf selüloit yapraklara elle çizilmesi ve boyalı arka planlara yerleştirilmesi ile oluşan hareketli grafik yapımı yöntemine verilen ad aşağıdaki hangi şıkta belirtilmiştir ?
     - A-) Stop motion yöntemi
     - B-) Cut-out yöntemi
@@ -1663,7 +1663,7 @@
 
     > **Açıklama:** Cel animasyon, en geleneksel animasyon biçimlerinden biridir ve genellikle karakterler olmak üzere nesnelerin şeffaf selüloit yapraklara elle çizilmesi ve boyalı arka planlara yerleştirilmesi ile oluşur. Dolayısıyla cevap C şıkkıdır.
 
-    ***
+    <hr />
 1. Gerçek görüntüleri çizgi film görüntülerine dönüştürmek için kullanılan bir animasyon tekniği olan ve herhangi bir ortamda çekilen gerçek görüntülerin farklı bir arka plan veya sahneye alınıp kare kare birleştirildiği hareketli grafik yapımı yöntemi aşağıdaki hangi şıkta belirtilmiştir.
     - A-) Cut-out yöntemi
     - B-) Cel animasyon yöntemi
@@ -1673,7 +1673,7 @@
 
     > **Açıklama:** Rotoskopi, gerçek görüntüleri çizgi film görüntülerine dönüştürmek için kullanılan bir animasyon tekniğidir. Herhangi bir ortamda çekilen gerçek görüntüler farklı bir arka plan veya sahneye alınıp kare kare birleştirmektedir. Dolayısıyla cevap D şıkkıdır.
 
-    ***
+    <hr />
 1. BBC’nin 2007 yılında bir belgesel dizisi olan How We Built Britain (İngiltere’yi Nasıl İnşa Ettik) için yönetmen Gareth Edwards tarafından bir film jeneriği tasarlanmıştır. Jenerik tamamen üç boyutlu bir animasyon olarak tasarlanmasa da farklı yazılımlardan yararlanılarak 3 boyutlu ögeler kullanılarak oluşturulması açısından önemlidir. Braha ve Byrne’a göre Gareth, kabul edilen konseptin dışında kaç farklı konsept üretmiştir ?
     - A-) 4
     - B-) 7
@@ -1683,7 +1683,7 @@
 
     > **Açıklama:** BBC’nin 2007 yılında bir belgesel dizisi olan How We Built Britain (İngiltere’yi Nasıl İnşa Ettik) için yönetmen Gareth Edwards tarafından bir film jeneriği tasarlanmıştır. Jenerik tamamen üç boyutlu bir animasyon olarak tasarlanmasa da farklı yazılımlardan yararlanılarak 3 boyutlu ögeler kullanılarak oluşturulması açısından önemlidir. Braha ve Byrne’a göre Gareth, kabul edilen konseptin dışında 8 farklı konsept üretmiştir. Dolayısıyla cevap E şıkkıdır.
 
-    ***
+    <hr />
 1. Gerçek aktörlerin hareketlerinin 3 boyutlu iskelet sistemine aktarılmasına ve sonrasında bilgisayara alınarak hareketlendirilerek oluşturulan ve bu yöntem ile kayıt edilen aktörlerin yerini bilgisayarda çizgi, şekil, nesne veya üretilen hayali karakterler alabildiği hareketli grafik yapımı yöntemine verilen isim aşağıdaki hangi şıkta belirtilmiştir ?
     - **Cevap A-) Motion capture yöntemi**
     - B-) Cel animasyon yöntemi
@@ -1693,7 +1693,7 @@
 
     > **Açıklama:** Motion Capture Yöntemi: Gerçek aktörlerin hareketlerinin 3 boyutlu iskelet sistemine aktarılmasına ve sonrasında bilgisayara alınarak hareketlendirilerek oluşturulmasına verilen isimdir. Bu yöntem ile kayıt edilen aktörlerin yerini bilgisayarda çizgi, şekil, nesne veya üretilen hayali karakterler alabilmektedir. Dolayısıyla cevap A şıkkıdır.
 
-    ***
+    <hr />
 1. Hareketli grafikler, modelleme, animasyon ve simülasyon efektleri için yaygın olarak kullanılan, özellikle televizyon yayıncılığı (broadcasting), televizyon reklamcılığında (commercials) tercih edilen ve Adobe After Effects ile olan uyumu, hareketli tipografi tasarımı konusunda olan becerileri, çeşitli modelleme (MoGraph) teknikleri artılarından bazıları olan hareketli grafik oluşturma yazılımı aşağıdaki hangi şıkta belirtilmiştir ?
     - A-) Adobe Premiere
     - **Cevap B-) Maxon Cinema 4D**
@@ -1703,7 +1703,7 @@
 
     > **Açıklama:** Hareketli grafik tasarımcıları, Cinema 4D yazılımını, hareketli grafikler, modelleme, animasyon ve simülasyon efektleri için yaygın olarak kullanılmaktadır. Yazılım özellikle televizyon yayıncılığı (broadcasting), televizyon reklamcılığında (commercials) kullanılmaktadır. Yazılımın Adobe After Effects ile olan uyumu, hareketli tipografi tasarımı konusunda olan becerileri, çeşitli modelleme (MoGraph) teknikleri artılarından bazılarıdır. Dolayısıyla cevap B şıkkıdır.
 
-    ***
+    <hr />
 1. Cinema 4D arayüzü kaç adet ana yönetici menüden oluşmaktadır ?
     - A-) 5
     - B-) 2
@@ -1713,7 +1713,7 @@
 
     > **Açıklama:** Cinema 4D arayüzü 4 ana yönetici menüden oluşmaktadır. Dolayısıyla cevap C şıkkıdır.
 
-    ***
+    <hr />
 1. Hareketli grafik tasarımcılarının geçişler, görsel efektler, ses efektleri, müzik ve birden fazla videoyu birbirine ekleme gibi son dokunuşları eklemek için kullandıkları montaj yazılımına verilen isim aşağıdaki hangi şıkta belirtilmiştir ?
     - A-) Adobe After Effects
     - B-) Maxon Cinema 4D
@@ -1723,7 +1723,7 @@
 
     > **Açıklama:** Adobe Premiere, hareketli grafik tasarımcılarının geçişler, görsel efektler, ses efektleri, müzik ve birden fazla videoyu birbirine ekleme gibi son dokunuşları eklemek için kullandıkları montaj yazılımıdır. Dolayısıyla cevap D şıkkıdır.
 
-    ***
+    <hr />
 1. Hareketli grafik, çeşitli yerlerde kullanılan kimliklerde karşımıza çıkmaktadır. Hareketli grafik kullanım alanları temel olarak kaça ayrılabilir ?
     - A-) Beş
     - B-) İki
@@ -1733,7 +1733,7 @@
 
     > **Açıklama:** Hareketli grafik, jeneriklerde, reklam filmlerinde, TV reklamlarında, etkileşimli yazılımlarda, web sayfası tasarımlarında ve kısa logo animasyonlarında veya televizyon/internet yayınlarında kullanılan kimliklerde karşımıza çıkmaktadır. Bununla birlikte hareketli grafik kullanım alanları temel olarak üçe ayrılabilir, Bunlar: Sinema, Televizyon ve Dijital Ortamlar olarak sınıflandırılabilir. Dolayısıyla cevap E şıkkıdır.
 
-    ***
+    <hr />
 ## Unite 5
 1. Aşağıdakilerden hangisi kısmen veya tamamen özerk bir sistem aracılığıyla üretilen sanatı ifade eder?
     - A-) Dijital veri heykeli
@@ -1745,7 +1745,7 @@
     > **Açıklama:** Giriş
     > Generatif sanat, kısmen veya tamamen özerk bir sistem aracılığıyla üretilen sanatı ifade eder.
 
-    ***
+    <hr />
 1. I. NFT'ler<br />II. Mobil cihaz<br />III. Windows işletim sistemi<br />IV. Görsel programlama uygulamaları<br />V. Yardımcı teknik araçlar<br />Yukarıdakilerden hangileri dijital bir sanat eserinin üretilmesinde seçilen araca göre teknik açıdan öncelikli olarak hâkim olunması gereken alanlar arasında yer alır?
     - A-) I-II-III-V
     - B-) I-II-III-IV
@@ -1762,7 +1762,7 @@
     > • Tasarım ve görsel programlama uygulamaları (Photoshop, Krita, Procreate, Touchdesigner vs.) ve
     > • Yardımcı teknik araçlar (Çizim kalemi vs).
 
-    ***
+    <hr />
 1. I. Max/MSP<br />II. Kadraj<br />III. Birleştirme<br />IV. Sanal dokunma<br />Yukarıdakilerden hangileri dijital sanat alanında çalışan sanatçıların yeni bir görsel imgeyi tasarlarken kullandıkları dijital görüntü işleme programı işlevleri arasında yer alır?
     - A-) I-II
     - **Cevap B-) II-III**
@@ -1774,7 +1774,7 @@
     > Dijital sanat alanında çalışan sanatçılar yeni bir görsel imgeyi tasarlarken boyama, çizim, renk, kadraj, oranlama, kırpma, birleştirme, efekt uygulama gibi yüzlerce işlevi bünyesinde barındıran dijital görüntü işleme programları kullanırlar. Görüntüler üzerinde çok çeşitli uygulamalar yapılmasına imkân veren bu programların kullanıcılarına sunduğu en büyük avantaj, öncelikle görüntülerin katmanlı yapılar şeklinde üst üste kullanılabilme
     > özelliğinden gelmektedir.
 
-    ***
+    <hr />
 1. Çeşitli kaynaklardan elde edilen imajların görüntü işleme yazılımları ile düzenlenip bir araya getirilerek yeni imgeler oluşturulduğu dijital sanat türü aşağıdakilerden hangisidir?
     - **Cevap A-) Dijital kolaj**
     - B-) Dijital resim
@@ -1784,7 +1784,7 @@
 
     > **Açıklama:** Sanatçılar fotoğraf işleme yazılımlarının izin verdiği pek çok işlevle birlikte pek çok farklı görüntüyü bir araya getirerek kolaj çalışmaları gerçekleştirebilmektedir. **Dijital kolaj** olarak adlandırılan bu dijital sanat türü içerisinde çeşitli kaynaklardan elde edilen imajlar görüntü işleme yazılımları ile düzenlenerek bir araya getirilerek yeni imgeler oluşturulur.
 
-    ***
+    <hr />
 1. I. Zbrush<br />II. Corel Painter<br />III. Millumin<br />IV. Cinema 4D<br />Yukarıdakilerden hangileri bir ya da birden fazla projektörle etkileşime girerek herhangi bir görüntünün ilgili yüzeylere yansıtılarak sığdırılmasını sağlayan video haritalama yazılımlarındandır?
     - A-) I-II
     - B-) I-III
@@ -1794,7 +1794,7 @@
 
     > **Açıklama:** Video haritalama yazılımları bir ya da birden fazla projektörle etkileşime girerek herhangi bir görüntünün ilgili yüzeylere yansıtılarak sığdırılmasını sağlar. Günümüzde başta Cinema 4D, Millumin, TouchDesigner ve Adobe After Effects gibi programlar yardımıyla görüntülerin istenilen yüzeye yansıtılması gerçekleştirilebilir ancak özellikle video haritalama işine özel olarak tasarlanmış birtakım yazılımlar bulunur.
 
-    ***
+    <hr />
 1. Üç boyutlu generatif sanat eserlerin, bilgisayar oyunlarındaki üç boyutlu modellemeler ve grafiklerinin, NFT projelerinin üretiminde kullanılan, bir dizi teknik kurallar dizisinden üç boyutlu modeller ve dokular içeren grafikleri yaratmaya ilişkin kullanılan tasarım süreci aşağıdakilerden hangisidir?
     - **Cevap A-) Prosedürel modelleme**
     - B-) Vektör Sanatı
@@ -1805,7 +1805,7 @@
     > **Açıklama:** Üç boyutlu generatif sanat eserleri, mimari tasarımlar, bilgisayar oyunlarında yer alan üç boyutlu modellemeler ve grafiklerinin yanı sıra çok sayıda imajı içeren NFT projelerinin üretiminde prosedürel modelleme adı verilen bir yöntem kullanılır. Prosedürel modelleme, yazılım ve tasarım uygulamaları aracılığıyla bir dizi teknik kurallar dizisinden üç boyutlu modeller ve dokular içeren grafikleri yaratmaya ilişkin
     > kullanılan bir tasarım sürecidir
 
-    ***
+    <hr />
 1. I. Tarayıcı aracılığıyla etkileşimli generatif sanat uygulaması: Dall-E<br />II. 2B ve 3B Fraktal Üretme Yazılımı: Mandelbulb<br />III. Generatif Kodlama ile Çevresel Tasarım: Arbaro<br />IV. Video Haritalama Yazılımı: Silk<br />Yukarıdaki generatif sanat uygulamaları ile yazılım eşleştirmelerinden hangileri doğrudur?
     - A-) I-II
     - **Cevap B-) II-III**
@@ -1818,7 +1818,7 @@
     > Tarayıcı Aracılığıyla Etkileşimli Generatif Sanat Uygulaması: Silk
     > Generatif Kodlama ile Çevresel Tasarım: Arbaro
 
-    ***
+    <hr />
 1. I. Avid Media Composer<br />II. Lightworks<br />III. Vegas Pro<br />IV. Shotcut<br />Yukarıdaki yazılımlardan hangileri hareketli görüntülerin kurgulanmasında kullanılan ücretsiz yazılımlardandır?
     - A-) I-II
     - B-) II-III-IV
@@ -1830,7 +1830,7 @@
     > Adobe Premiere Pro, Avid Media Composer, Vegas Pro, Final Cut Pro, Edius Pro
     > gibi çoğunlukla profesyonel kullanıcıların ve post-prodüksiyon ekiplerinin tercih ettiği ücretli yazılımların yanında çoğunlukla kişisel kullanıcılara yönelik olarak sunulan OpenShot, VSDC Free Video Editör, Lightworks, Shotcut gibi ücretsiz olarak erişilebilen pek çok farklı yazılım bulunur.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi izleyicileri etkilemek için sahne içerisinde fantastik, ilginç ve çekilmesi imkânsız, zor ya da maliyetli görsel unsurları bilgisayar ya da çeşitli ekipmanlar yardımıyla kompozisyon içerisine post-prodüksiyon esnasında yerleştirilme, çıkartılma ya da eklenme işlemidir?
     - A-) Vektör boyama
     - B-) Dijital sinema
@@ -1841,7 +1841,7 @@
     > **Açıklama:** Görsel Efektlerin Hazırlanması
     > Dijital görüntü işleme yazılımları yoluyla oluşturulan görsel efektler bugün pek çok filmde karşımıza çıkmaktadır. Görsel efekt; izleyicileri etkilemek için sahne içerisinde fantastik, ilginç ve çekilmesi imkânsız, zor ya da maliyetli görsel unsurları bilgisayar ya da çeşitli ekipmanlar yardımıyla kompozisyon içerisine post-prodüksiyon esnasında yerleştirilme, çıkartılma ya da eklenme işlemine karşılık gelir.
 
-    ***
+    <hr />
 1. Java programlama diliyle yazılan, ağaç ve bitki tasarımına ilişkin hazır algoritmalar yoluyla kolaylaştırılmış süreçlere sahip bir generatif tasarım uygulaması aşağıdakilerden hangisidir?
     - A-) Davinci Resolve
     - B-) TouchDesigner
@@ -1853,7 +1853,7 @@
     > Java programlama diliyle yazılan Arbaro, ağaç ve bitki tasarımına ilişkin hazır algoritmalar yoluyla kolaylaştırılmış süreçlere sahip bir generatif tasarım uygulamasıdır. Java tarafından desteklenen herhangi bir işletim sistemi üzerinde kolaylıkla kullanılabilen uygulama gerçekçi
     > çevresel tasarımların, ağaç ve bitkilerin ortaya çıkartılması noktasında sanat ve yazılım ilişkisinin oldukça çarpıcı bir örneğidir.
 
-    ***
+    <hr />
 1. Kısmen veya tamamen özerk bir sistem aracılığıyla üretilen sanatı ifaden sanat tipi aşağıdakilerden hangisidir?
     - **Cevap A-) Generatif sanat**
     - B-) Popüler sanat
@@ -1863,7 +1863,7 @@
 
     > **Açıklama:** Generatif sanat, kısmen veya tamamen özerk bir sistem aracılığıyla üretilen sanatı ifade eder.
 
-    ***
+    <hr />
 1. Bilgisayar ve yardımcı araçlarının yanı sıra mobil teknolojiler aracılığıyla üretilen tüm sanatsal ifade biçimlerini kapsayan sanat kavramına ne denir?
     - A-) Modern sanat
     - **Cevap B-) Dijital sanat**
@@ -1873,7 +1873,7 @@
 
     > **Açıklama:** Dijital sanat bilgisayar ve yardımcı araçlarının yanı sıra mobil teknolojiler aracılığıyla üretilen tüm sanatsal ifade biçimlerini kapsayan çatı bir kavramdır.
 
-    ***
+    <hr />
 1. Müzik ve etkileşimli multimedya türleri için kullanılan görsel bir programlama dili aşağıdakilerden hangisidir?
     - A-) Fix
     - B-) Jpeg
@@ -1883,7 +1883,7 @@
 
     > **Açıklama:** Max/MSP müzik ve etkileşimli multimedya türleri için kullanılan görsel bir programlama dilidir.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi Dijital bir sanat eserinin üretilmesi noktasında seçilen araca göre teknik açıdan öncelikli olarak hâkim olunması gereken alanlardan değildir?
     - A-) Bilgisayar/mobil cihaz/tablet donanımları
     - B-) İşletim sistemleri (Windows, MacOS, Android)
@@ -1893,7 +1893,7 @@
 
     > **Açıklama:** Dijital bir sanat eserinin üretilmesi noktasında seçilen araca göre teknik açıdan öncelikli olarak hâkim olunması gereken alanlar şunlardır: • Bilgisayar/mobil cihaz/tablet donanımları, • İşletim sistemleri (Windows, MacOS, Android), • Tasarım ve görsel programlama uygulamaları (Photoshop, Krita, Procreate, Touchdesigner vs.) • Yardımcı teknik araçlar (Çizim kalemi vs).
 
-    ***
+    <hr />
 1. Blokzincir ağları üzerine kaydedilen benzersiz özellikteki imge ve ses gibi ögelere ilişkin yeni dijital varlık biçimlerini ifade eden kısaltma aşağıdakilerden hangisidir?
     - A-) ACU
     - **Cevap B-) NFT**
@@ -1903,7 +1903,7 @@
 
     > **Açıklama:** NFT: Türkçe’ye “nitelikli fikri tapu” olarak çevrilen NFT’ler, blokzincir ağları üzerine kaydedilen benzersiz özellikteki imge ve ses gibi ögelere ilişkin yeni dijital varlık biçimlerini ifade eder.
 
-    ***
+    <hr />
 1. Açık veya kapalı mekanlarda yapılan ve çoğunlukla izleyicilerin katılımını öngören, onlarla etkileşime giren bir sanat tarzı aşağıdakilerden hangisidir?
     - **Cevap A-) Enstalasyon sanatı**
     - B-) Dijital fotoğraf sanatı
@@ -1913,7 +1913,7 @@
 
     > **Açıklama:** “Enstalasyon”ya da bir diğer adıyla “yerleştirme sanatı”, açık veya kapalı mekanlarda yapılan ve çoğunlukla izleyicilerin katılımını öngören, onlarla etkileşime giren bir sanat tarzıdır
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi raster sanata ilişkin eserlerin tasarlanmasında kullanılan programlardan değildir?
     - A-) Corel Painter
     - B-) Krita
@@ -1923,7 +1923,7 @@
 
     > **Açıklama:** Bugün raster sanata ilişkin eserlerin tasarlanmasında Adobe Photoshop, Adobe Illustrator, Krita, Medibang, Procreate ya da Corel Painter gibi pek çok program bulunmaktadır.
 
-    ***
+    <hr />
 1. Projeksiyon haritalamanın ilk halka açık gösterimi hangi yılda olmuştur?
     - A-) 1979
     - B-) 1955
@@ -1933,7 +1933,7 @@
 
     > **Açıklama:** Projeksiyon haritalamanın ilk halka açık gösterimi, Disney’in Disney topraklarındaki Perili Köşk yolculuğunun bir parçası olarak teknolojiyi kullandığı 1969’da gerçekleşmiştir.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi birçok dijital enstalasyon ve yeni medya sanatçısı tarafından kullanılan TouchDesigner’in öne çıkan bazı özelliklerinden değildir?
     - **Cevap A-) Sesleri 3 boyutlu verebilir**
     - B-) Serbest biçimli ve bezier şekilleri de dahil olmak üzere gelişmiş 2B haritalama ve maskeleme için eşleştirici aracına sahiptir.
@@ -1943,7 +1943,7 @@
 
     > **Açıklama:** • Gerçek zamanlı 3B görselleştirme motoruyla sıkı entegrasyon, projeksiyon kurulumlarının eksiksiz ön görselleştirilmesine olanak tanır. • Haritalama, kubbe, VR, birleştirme ve ortam ışıkları için çok çeşitli projeksiyon formatları için destek sunar • Yansıtma yüzeyine ilişkin çarpıklık oluşturma ve maskeleme için birçok barındırır. • Serbest biçimli ve bezier şekilleri de dahil olmak üzere gelişmiş 2B haritalama ve maskeleme için eşleştirici aracına sahiptir. • 3B görüntülere ilişkin projeksiyon hizalama ve kalibrasyon için “Camschnapr” aracı vardır. • 2B çıktıdan optik bir 3B yanılsaması yaratan efekt türlerine sahiptir.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi yaratıcı kodlama için açık kaynaklı bir C++ yazılım dilinde programlanmış bir uygulamadır?
     - A-) Photoshop
     - B-) Java
@@ -1953,7 +1953,7 @@
 
     > **Açıklama:** OpenFrameworks, yaratıcı kodlama için açık kaynaklı bir C++ yazılım dilinde programlanmış bir uygulamadır.
 
-    ***
+    <hr />
 1. Piksel sayısının az ya da çok olması dijital görüntüde aşağıdakilerden hangisini belirler?
     - A-) Büyüklüğü
     - B-) Çoğaltmayı
@@ -1964,7 +1964,7 @@
     > **Açıklama:** Piksel sayısının az ya da çok olması dijital görüntüde netliği belirler, sorunun yanıtı C şıkkıdır.
     > Çözünürlüğü
 
-    ***
+    <hr />
 1. Kısmen veya tamamen özerk bir sistem aracılığı ile üretilen sanat türünün tanımı nedir.
     - A-) Lokomotif Art
     - B-) Art Space
@@ -1974,7 +1974,7 @@
 
     > **Açıklama:** Kısmen veya tamamen özerk bir sistem aracılığı ile üretilen sanat türüne Generatif Sanat denir, sorunun yanıtı E şıkkıdır.
 
-    ***
+    <hr />
 1. Yakın dönemde popüler hale gelen, görsel sanat eserlerinin dijital varlık biçimine ne ad verilir.
     - A-) NFL
     - B-) HOL
@@ -1984,7 +1984,7 @@
 
     > **Açıklama:** Yakın dönemde popüler hale gelen, görsel sanat eserlerinin dijital varlık biçimine NFT denilmektedir, sorunun yanıtı D şıkkıdır.
 
-    ***
+    <hr />
 1. Sinema, video, film, ses, gibi çoklu ortam sanatları genel terimle nasıl adlandırılır.
     - A-) Medyatik
     - **Cevap B-) Multimedya**
@@ -1994,7 +1994,7 @@
 
     > **Açıklama:** Sinema, video, film, ses, gibi çoklu ortam sanatları genel terimle Multimedya olarak adlandırılır, sorunun yanıtı B şıkkıdır.
 
-    ***
+    <hr />
 1. Dijital ortamda Layer efektlerinin sınırını ne belirler.
     - A-) İnternet
     - B-) Sanat türleri
@@ -2004,7 +2004,7 @@
 
     > **Açıklama:** Dijital ortamda Layer efektlerinin sınırını Bilgisayar Belleği belirler, sorunun yanıtı C şıkkıdır.
 
-    ***
+    <hr />
 1. Yerleştirme sanatı denilen sanat türünün dünyada geçerli genel tanımı seçeneklerden hangisidir.
     - **Cevap A-) Enstalasyon**
     - B-) Dadaizm
@@ -2014,7 +2014,7 @@
 
     > **Açıklama:** Yerleştirme sanatı denilen sanat türünün dünyada geçerli genel tanımı Enstalasyon'dur, sorunun yanıtı A şıkkıdır.
 
-    ***
+    <hr />
 1. Geleneksel resme en yakın olan dijital görselleştirme türü hangisidir.
     - A-) Java
     - B-) Master
@@ -2024,7 +2024,7 @@
 
     > **Açıklama:** Geleneksel resme en yakın olan dijital görselleştirme türü Raster'dır, sorunun yanıtı E şıkkıdır.
 
-    ***
+    <hr />
 1. Gerçek zamanlı grafikler üretmek, hareket tasarlamak amacıyla kullanılan programlama ortamı hangisidir.
     - A-) Mandelbulb
     - **Cevap B-) Touch Designer**
@@ -2034,7 +2034,7 @@
 
     > **Açıklama:** Gerçek zamanlı grafikler üretmek, hareket tasarlamak amacıyla kullanılan programlama ortamı Touch Designer'dır, sorunun yanıtı B şıkkıdır.
 
-    ***
+    <hr />
 1. Geniş kapsamlı açık kaynak veri kümeleriyle oluşan arşivin adı nedir.
     - **Cevap A-) Kaggle**
     - B-) Kable
@@ -2044,7 +2044,7 @@
 
     > **Açıklama:** Geniş kapsamlı açık kaynak veri kümeleriyle oluşan arşivin adı Kaggle'dır, sorunun yanıtı A şıkkıdır.
 
-    ***
+    <hr />
 1. Üç boyutlu fraktal üretimine olanak sağlayan yazılımın adı nedir.
     - A-) JAVA
     - B-) TİFF
@@ -2054,7 +2054,7 @@
 
     > **Açıklama:** Üç boyutlu fraktal üretimine olanak sağlayan yazılımın adı Mandelbulb'dır, sorunun yanıtı C şıkkıdır.
 
-    ***
+    <hr />
 1. Fotoğraf eğitimi alan, cep telefonuyla çektiği fotoğrafları, Supe­rimpose, Procreate, iColorama, Glaze vb. uygula­maları kullanarak, resim ile fotoğraf arası çalışma­lar üreten kişi aşağıdakilerden hangisidir?
     - A-) Alberto Seveso
     - **Cevap B-) Sarah Jarrett**
@@ -2065,7 +2065,7 @@
     > **Açıklama:** Görsel 5.7 Portrait, Saraj Jarett. Sarah Jarrett, fantastik çalış­malarıyla dikkat çekmiştir.
     > Fotoğraf eğitimi alan Jarrett, cep telefonuyla çektiği fotoğrafları, Supe­rimpose, Procreate, iColorama, Glaze vb. uygula­maları kullanarak, resim ile fotoğraf arası çalışma­lar üretmektedir.
 
-    ***
+    <hr />
 1. Yatay ve dikey piksel sıralarından oluşan dijital görsel sanat eserlerinin üretilmesinde kulla­nılan hem bir dosyalama formatı hem de bu yolla üretilen eserleri niteleyen sanat türü aşağıdaki­lerden hangisidir?
     - A-) Vektör sanatı
     - B-) Glitch sanatı
@@ -2076,7 +2076,7 @@
     > **Açıklama:** Geleneksel resme en yakın olan dijital görselleştirme türlerinden biridir.
     > Raster, yatay ve dikey piksel sıralarından oluşan dijital görsel sanat eserlerinin üretilmesinde kulla­nılan hem bir dosyalama formatı hem de bu yolla üretilen eserleri niteleyen dijital bir sanat türüdür.
 
-    ***
+    <hr />
 1. Çeşitli kaynaklardan elde edi­len imajlar görüntü işleme yazılımları ile düzenle­nerek bir araya getirilerek yeni imgeler oluşturulan sanat türü aşağıdaki­lerden hangisidir?
     - A-) Piksel sanatı
     - B-) Glitch sanatı
@@ -2087,7 +2087,7 @@
     > **Açıklama:** Sanatçılar fotoğraf işleme yazılımlarının izin verdi­ği pek çok işlevle birlikte pek çok farklı görüntüyü bir araya getirerek kolaj çalışmaları gerçekleştirebil­mektedir.
     > Dijital kolaj olarak adlandırılan bu dijital sanat türü içerisinde çeşitli kaynaklardan elde edi­len imajlar görüntü işleme yazılımları ile düzenle­nerek bir araya getirilerek yeni imgeler oluşturulur.
 
-    ***
+    <hr />
 1. Mekân ve bilgisayar animasyonla­rını birleştiren, mekân içindeki algıyı değiştiren ve mekânı sanallaştıran çalışmalar üreten kişi aşağıdakilerden hangisidir?
     - A-) Cristinia Siquiera
     - B-) Alberto Seveso
@@ -2098,7 +2098,7 @@
     > **Açıklama:** Nesnenin mekânla var olduğu gerçek dünyada bir­birinden bağımsız mekân ve nesne oluşturarak diji­tal bir ortam/mekân oluşturan sanatçı, mekânlarda kullandığı sesler ile görsel algıyı destekleyen işitsel bir yapı kurarak izlenen resmin dışında ve içinde gezilebilen bir resim/dünya yaratmıştır.
     > Mekân ve bilgisayar animasyonla­rını birleştiren Peter Kogler, mekân içindeki algıyı değiştiren ve mekânı sanallaştıran çalışmalar üretir.
 
-    ***
+    <hr />
 1. Aşağıdaki hangi sanat türü, Beeple adıyla tanınan Amerikalı sanatçı Mike Winkelmann *The First 5000 Days* isimli eserinin yüksek satış tuta­rıyla oldukça popülerleşmiştir?
     - A-) Piksel sanatı
     - B-) Glitch sanatı
@@ -2109,7 +2109,7 @@
     > **Açıklama:** İlk defa krip­to para birimleriyle ilişkili olarak yaygınlaşmaya başlayan ve Türkçeye “nitelikli fikri tapu” olarak çevrilen NFT’ler hareketli ve hareketsiz imgelere, çeşitli koleksiyon ve oyun içi nesnelere sahipliği temsil eden dijital varlıklardır.
     > Popülerliği artma­ya başlayan bu NFT sanat kavramı Beeple adıyla tanınan Amerikalı sanatçı Mike Winkelmann *The First 5000 Days* isimli eserinin yüksek satış tuta­rıyla oldukça popülerleşmiştir.
 
-    ***
+    <hr />
 1. ………………….eserini metin satırlarını hiper gerçek­çi grafiklere dönüştüren bir yapay zekâ programı olan Midjourney ile yarattı.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?
     - **Cevap A-) Jason M. Allen**
     - B-) Peter Kogler
@@ -2120,7 +2120,7 @@
     > **Açıklama:** Colorado Eyalet Fuarı’nın her yıl yaptığı geleneksel sanat yarışması dijital sanat kategorisinde birincilik ödülü yapay zekâ ile yaratılan bir sanat eserine verildi.
     > Jason M. Allen eserini metin satırlarını hiper gerçek­çi grafiklere dönüştüren bir yapay zekâ programı olan Midjourney ile yarattı (Roose, 2022).
 
-    ***
+    <hr />
 1. Basit matematiksel denklemlerden yararlanarak iki ve üç boyutlu fraktallar oluşturmak için kullanılan ………………, generatif sanat alanında pek çok sanatçı tarafından tercih edilen bir görüntü oluşturma yazılımı­dır.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakiler­den hangisi doğru şekilde tamamlar?
     - **Cevap A-) Mandelbulb**
     - B-) Dall-E
@@ -2131,7 +2131,7 @@
     > **Açıklama:** Fibonacci spirali ve altın oran ilişkisine benzer bir biçimde doğada birbirini tekrar eden ögelerden ilham alan Mandelbulb, sanatçılara sayısız yaratıcı değişkeni kolaylıkla kontrol edebilmesini ve bu yolla oldukça şaşırtıcı generatif sanat eserleri üretebilmesini sağlamaktadır.
     > Basit matematiksel denklemlerden yararlanarak iki ve üç boyutlu fraktallar oluşturmak için kullanılan Mandelbulb, generatif sanat alanında pek çok sanatçı tarafından tercih edilen bir görüntü oluşturma yazılımı­dır.
 
-    ***
+    <hr />
 1. Sıkıştırılmış video görüntülerinde kullanılan sıkıştırma ve çözme algoritmaları üzerinde değişiklik yaparak yeni bir imaj veya yeni video görüntüleri elde etmeye ne denir?
     - A-) NFT
     - B-) VR
@@ -2142,7 +2142,7 @@
     > **Açıklama:** Görsel 5.34 TV test görseli üzerine uygulanmış bir datamoshing çalışması.
     > Datamoshing (veri kısıtlama), sıkıştırılmış video görüntülerinde kullanılan sıkıştırma ve çözme algoritmaları üzerinde değişiklik yaparak yeni bir imaj veya yeni video görüntüleri elde etmeye denir.
 
-    ***
+    <hr />
 1. **I.** Fusion<br />**II.** Houdini<br />**III.** Nuke<br />**IV.** After Effects<br />Yukarıdakilerden hangileri gü­nümüzde görsel efekt tasarımı noktasında kullanılan ve pek çok farklı işleve sahip olan yazılımlar arasında yer alır?
     - A-) I ve II
     - B-) I ve IV
@@ -2153,7 +2153,7 @@
     > **Açıklama:** Görsel 5.30 Modelleme ve Görsel efekt programı Houdini, sayfa 148 de verilmektedir.
     > Gü­nümüzde görsel efekt tasarımı noktasında kullanılan After Effects, Nuke, Houdini, HitFilm Pro, Fusion, Cinema 4D, Maya gibi pek çok farklı işleve sahip yazılım kullanılmaktadır.
 
-    ***
+    <hr />
 1. Aşağıda verilen yazılımlardan hangisi, herhangi bir manuel seçime gerek duymadan cildi pürüzsüzleştirmek, cilt tonunu ayarlamak, gözleri aydınlat­mak ve dudak rengini değiştirmek gibi işlemler için yapay zekâ destekli bir yüz tanıma ve izleme aracını barındırır?
     - A-) Houdini
     - **Cevap B-) Davinci Resolve**
@@ -2164,7 +2164,7 @@
     > **Açıklama:** Davinci Resolve’un temel özelliklerinden bazıları sayfa 152 de verilmiştir.
     > Davinci Resolve, herhangi bir manuel seçime gerek duymadan cildi pürüzsüzleştirmek, cilt tonunu ayarlamak, gözleri aydınlat­mak ve dudak rengini değiştirmek gibi işlemler için yapay zekâ destekli bir yüz tanıma ve izleme aracını barındırır.
 
-    ***
+    <hr />
 ## Unite 6
 1. Dijital olarak üretilen ve tüketilen yeni medyada hedef kitle nasıl bir duruma geçmiştir?
     - **Cevap A-) Aktif**
@@ -2176,7 +2176,7 @@
     > **Açıklama:** Tek yönlü iletişim sağlayan geleneksel medyada (gazete radyo televizyon) hedef kitle pasif durumdayken dijital olarak üretilen ve tüketilen yeni medyada hedef kitle aktif duruma geçmiştir.
     > Sorunun doğru cevabı A seçeneğinde verilmiştir.
 
-    ***
+    <hr />
 1. Temel anlamda sıfırdan bir oyun karakterinin nasıl tasarlandığını anlamak için bazı basamakları bilmek gerekmektedir. Aşağıdakilerden hangisi bu basamaklardan birisi değildir?
     - A-) Karakteri ve model türünü tasarlama
     - **Cevap B-) 2 boyutlu programda karakteri modelleme**
@@ -2187,7 +2187,7 @@
     > **Açıklama:** Temel anlamda sıfırdan bir oyun karakterinin nasıl tasarlandığını anlamak için şu basamakları bilmek gerekir: 1. Karakteri ve model türünü tasarlama, 2. Modelleme için hazırlık aşamasında eskiz oluşturma, 3. 3 boyutlu programda karakteri modelleme, 4. Karakterin dokularını hazırlama ve UV doku koordinatlarını haritalama, 5. Dokular ve kabartma haritaları oluşturma, 6. Animasyon öncesi karakter ağına (mesh) iki ayaklı bir iskelet uygulama, 7. Oyun sırasında bir oyun motoru tarafından çağrılacak animasyon dizileri oluşturma. 163
     > Sorunun doğru cevabı B seçeneğinde verilmiştir.
 
-    ***
+    <hr />
 1. Bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isim aşağıdakilerden hangisidir?
     - A-) Codec
     - B-) Asset
@@ -2198,7 +2198,7 @@
     > **Açıklama:** NPC (Non Player Character): bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isim.
     > Sorunun doğru cevabı C seçeneğinde verilmiştir.
 
-    ***
+    <hr />
 1. Filmlerde ve oyunlarda kullanılan nesneler hangi sistem ile oluşturulmaktadır?
     - A-) Lumen
     - B-) Unreal
@@ -2209,7 +2209,7 @@
     > **Açıklama:** Filmlerde ve oyunlarda kullanılan nesneler, poligon geometri sistemi ile oluşturulmaktadır.
     > Sorunun doğru cevabı D seçeneğinde verilmiştir.
 
-    ***
+    <hr />
 1. Filmlerde ve oyunlarda kullanılan nesneler ne kadar fazla poligondan oluşursa nesne o kadar detaylı ve \_\_\_\_\_\_\_\_ gözükmektedir.<br />Yukarıdaki boşluğa aşağıdaki ifadelerden hangisi gelmelidir?
     - A-) Sade
     - B-) Yapay
@@ -2220,7 +2220,7 @@
     > **Açıklama:** Nesne ne kadar fazla poligondan oluşursa o kadar detaylı ve gerçekçi gözükmektedir.
     > Sorunun doğru cevabı E seçeneğinde verilmiştir
 
-    ***
+    <hr />
 1. Dünyanın her yerini dolaşarak gerçek nesneleri 3 boyutlu tarayıcılar ile tarayan ve bu fotografik modellemeleri bu kütüphane üzerinden kullanıma sunan ekibin ismi nedir?
     - A-) Dataprot
     - B-) Statista
@@ -2231,7 +2231,7 @@
     > **Açıklama:** 3 boyutlu olarak modellenen nesnelerin, bitkilerin, dokuların bulunduğu bu kütüphanedeki görseller fotoğraf kalitesindedir. Mega scans adında bir ekip dünyanın her yerini dolaşarak gerçek nesneleri 3 boyutlu tarayıcılar ile taramakta ve bu fotografik modellemeleri bu kütüphane üzerinden kullanıma sunmaktadırlar.
     > Sorunun doğru cevabı E seçeneğinde verilmiştir.
 
-    ***
+    <hr />
 1. 1895 yılında 36 saniye süren bir film ile İskoçya Kraliçesi Mary’nin infazının yeniden canlandırarak dünyadaki ilk sinema filmi özel efektini kullanan kişi kimdir?
     - A-) Oscar Rejlander
     - B-) Albert Smith
@@ -2242,7 +2242,7 @@
     > **Açıklama:** 1895’te Alfred Clark, ilk sinema filmi özel efektini kullanmıştır. 36 saniye süren bu film, İskoçya Kraliçesi Mary’nin infazının yeniden canlandırılmasıdır.
     > Sorunun doğru yanıtı D seçeneğinde verilmiştir.
 
-    ***
+    <hr />
 1. Jules Verne’in romanından esinlenerek oluşturduğu 1902 yapımı “Le Voyage dans la Lune” filmi ile sinemada görsel efektleri yoğun bir şekilde ilk kez kullanan, “durdurma hilesi” denen etkiyi tesadüfen keşfeden sinemanın büyücüsü lakaplı yönetmen aşağıdakilerden hangisidir?
     - A-) Auguste Lumiere
     - B-) Louis Lumiere
@@ -2253,7 +2253,7 @@
     > **Açıklama:** İlk sinema filmlerinin öncülerinden Georges Méliès, aynı dönemlerde “durdurma hilesi” denen bu etkiyi tesadüf eseri keşfetmiştir. Bir film çektiği sırada kameranın bir süreliğine durması ve çalışmaması sonucunda görüntüde atlamalar olduğunu ve bazı insanlarla araçların şaşırtıcı bir biçimde aniden yer değiştirdiğini fark etmiştir. Sinema büyücüsü lakaplı yönetmenin ayın yüzünün olduğu ve gözüne bir mekiğin çarptığı görselden hatırlanan, Jules Verne’ün Romanından esinlenerek oluşturduğu, 15 dakika süren, 1902 yapımı Le Voyage dans la Lune filmi görsel efektlerin yoğun bir şekilde kullanıldığı ilk örneklerdendir.
     > Sorunun doğru cevabı C seçeneğinde verilmiştir.
 
-    ***
+    <hr />
 1. 1918’de Frank Williams’ın bulduğu “Traveling Matte” tekniği ilk kez hangi filmde kullanılmıştır?
     - A-) Mephisto
     - **Cevap B-) Sunrise**
@@ -2264,7 +2264,7 @@
     > **Açıklama:** 1918’de Frank Williams “Traveling Matte” tekniğini buldu. Bu teknik kameranın sabit kalma zorunluluğunu ortadan kaldırıyordu. Teknik F.W. Murnau’nun Sunrise (1927) filminde kullanıldı.
     > Sorunun doğru yanıtı B seçeneğinde verilmiştir.
 
-    ***
+    <hr />
 1. Teknolojinin gelişmesi ve sinemanın da dijital teknikler ile üretilmeye başlanması ile, sinemada dijital görüntü işleme yöntemleri gelişmeye başlamıştır. Zaman geçtikçe ve dijital kamera teknolojisi ilerledikçe, film yapımcıları arka plan ekranı rengi olarak mavi yerine hangi rengin daha uygun olduğunu fark etmeye başlamışlardır?
     - **Cevap A-) Yeşil**
     - B-) Sarı
@@ -2275,7 +2275,7 @@
     > **Açıklama:** Teknolojinin gelişmesi ve sinemanın da dijital teknikler ile üretilmeye başlanması ile, sinemada dijital görüntü işleme yöntemleri gelişmeye başlamıştır. Zaman geçtikçe ve dijital kamera teknolojisi ilerledikçe, film yapımcıları yeşil rengin arka plan ekranı rengi olarak daha uygun olduğunu fark etmeye başlamışlardır.
     > Sorunun doğru yanıtı A seçeneğinde verilmiştir.
 
-    ***
+    <hr />
 1. Yeni iletişim teknolojileri bireye istediği zamanda mesaj gönderme veya alma imkânını sağlamaktadır. Bu medya teknolojilerinin hangi temel özelliğidir?
     - A-) Etkileşim
     - B-) Kitlesizleştirme
@@ -2286,7 +2286,7 @@
     > **Açıklama:** YENİ MEDYA TEKNOLOJİLERİ
     > Eşzamansızlık
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi NPC'yi tanımlar?
     - A-) Epic Games şirketinin 1998 yılında C++ kullanarak geliştirdiği oyun motorudur
     - B-) Programlama dilleri ile oluşturulan, içerisinde çeşitli fonksiyonları, görsel kütüphaneleri barındıran, oyun geliştirmek için kullanılan programlardır
@@ -2297,7 +2297,7 @@
     > **Açıklama:** OYUNLARDA DİJİTAL GÖRÜNTÜ
     > Bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isimdir
 
-    ***
+    <hr />
 1. 1\. Programlama dilleri ile oluşturulur<br />2\. İçerisinde çeşitli fonksiyonları, görsel kütüphaneleri barındırır<br />3\. Oyun geliştirmek için kullanılan programlardır.<br />4\. Ücretli veya ücretsiz çok sayıda versiyonu mevcuttur.<br />Yukarıdaki özellikler hangisine aittir?
     - A-) NPC
     - **Cevap B-) Oyun motoru**
@@ -2308,7 +2308,7 @@
     > **Açıklama:** OYUNLARDA DİJİTAL GÖRÜNTÜ
     > Oyun motoru
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi nesnelerin yüzeyindeki ayrıntıların kamera mesafesi için gereken maksimum ayrıntı düzeyine göre çalışır, Nanite özelliği yüksek çözünürlükten feragat etmeden gerçekçi deneyimler yaşamamızı sağlar ve görüntü kalitesinden ödün vermeden geometrik ayrıntıları daha gerçekçi şekilde sunar?
     - A-) Nesne kütüphaneleri
     - B-) MetaHuman Creator
@@ -2319,7 +2319,7 @@
     > **Açıklama:** Unreal Engine 5
     > Sanallaştırılmış geometri sistemi
 
-    ***
+    <hr />
 1. 1\. Unreal Engine 5 ile geliştirilen bir özelliktir<br />2\. Aydınlatma ile ilgili olan sorunları büyük ölçüde ortadan kaldırır<br />3\. Oyunlarda kullanılan modeller ve ortamlar aydınlatılır<br />4\. Işık haritası adı verilen bir doku seti oluşturularak oyundaki mekanların üzerine yerleştirilir Yukarıda verilen özellikler hangisine aittir?
     - A-) Sanallaştırılmış geometri
     - **Cevap B-) Lumen teknolojisi**
@@ -2330,7 +2330,7 @@
     > **Açıklama:** Unreal Engine 5
     > Lumen teknolojisi
 
-    ***
+    <hr />
 1. Humpty Dumpty Circus filmi ile bulunan teknik aşağıdakilerden hangisidir?
     - A-) Özel efekt üretimi
     - B-) Durdurma hilesi
@@ -2341,7 +2341,7 @@
     > **Açıklama:** SİNEMADA DİJİTAL GÖRÜNTÜ
     > Stop motion
 
-    ***
+    <hr />
 1. Aşağıdaki tekniklerden hangisi yeşil ekrana alternatif oluşturur?
     - A-) Motion capture
     - **Cevap B-) Büyük LED ekran**
@@ -2352,7 +2352,7 @@
     > **Açıklama:** Yeşil Ekran (Greenscreen)
     > Büyük LED ekran
 
-    ***
+    <hr />
 1. Sinema filmlerinde saniye başına kaç kare izlenir?
     - A-) 8 fps
     - **Cevap B-) 24 fps**
@@ -2363,7 +2363,7 @@
     > **Açıklama:** Yeşil Ekran (Greenscreen)
     > 24 fps
 
-    ***
+    <hr />
 1. Analog görüntüleri dijital olarak kodlayıp kaydederken 1 mavi 1 kırmızı 2 yeşil şeklinde dizilim aşağıdakilerden hangisidir?
     - A-) Optik motion capture
     - B-) Yeşil ekran
@@ -2374,7 +2374,7 @@
     > **Açıklama:** SİNEMADA DİJİTAL GÖRÜNTÜ
     > Bayer filtresi
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi kameramanı sabit kalmaktan kurtaran, ışığa duyarlı negatif filmlerin kullanıldığı, siyah renk ışık almadığı için arka planda siyah rengin kullanıldığı ve boşluklara görüntü ekleme kolaylığı sağlayan tekniktir?
     - A-) Bayer filtresi
     - B-) Sodium vapor process
@@ -2385,7 +2385,7 @@
     > **Açıklama:** SİNEMADA DİJİTAL GÖRÜNTÜ
     > Traveling Matte
 
-    ***
+    <hr />
 1. Yeni medya teknolojilerinin kaç temel özelliği vardır?
     - **Cevap A-) Üç**
     - B-) Yedi
@@ -2397,7 +2397,7 @@
     > üretilen, tüketilen, sınırsız, etkileşimli ve merkezsiz
     > bir mecradır. Üç temel özelliği vardır
 
-    ***
+    <hr />
 1. Kullanıcıların tek yönlü olarak karşıdaki içerikle iletişime geçtiği, statik sitelerden oluşan, geleneksel medyadan farkı olmayan, insanların sadece izleyip dinledikleri, içerik sunan sitelerden oluşan web aşağıdakilerden hangisidir?
     - A-) Web 0
     - **Cevap B-) Web 0.1**
@@ -2415,7 +2415,7 @@
     > okunur web olarak tanımlanmaktadır.
     > Web 0.1
 
-    ***
+    <hr />
 1. Uzmanlar tarafından sosyal web olarak da tanımlanan insanların sadece izleyip dinleyen olmaktan çıkıp aynı zamanda yazabiliyor, içeriğe katkı sağlayabiliyor, bilgiyi birbirleriyle paylaşarak ortaklaşa kullanabiliyor hâle gelmeleri hangi web sürecidir?
     - A-) Web 0
     - B-) Web 0.1
@@ -2436,7 +2436,7 @@
     > tanımlanmaktadır.
     > Web 0.2
 
-    ***
+    <hr />
 1. Uzmanlar tarafından semantik (anlamsal) web olarak tanımlan web aşağıdakilerden hangisidir?
     - A-) Web 0.1
     - B-) Web 0.4
@@ -2452,7 +2452,7 @@
     > web olarak tanımlanmaktadır.
     > Web 0.3
 
-    ***
+    <hr />
 1. Yakın zamanda sabit disklerin kullanılmadığı tamamen web üzerinden ve sanallaştırma üzerinden bulut sistemler ile karşımıza çıkacak olan İnsanların cihazlarına herhangi bir program kurma ihtiyacı olmadan, cihazlarında herhangi bir veri depolamak zorunda kalmadan tüm işlemlerin bulut sistemler üzerinden gerçekleştiği bir altyapı kullanılarak ortaya çıkacak olan Web aşağıdakilerden hangisidir?
     - A-) Web 0
     - B-) Web 0.1
@@ -2471,7 +2471,7 @@
     > bir altyapı kullanacaktır.
     > Web 0.4
 
-    ***
+    <hr />
 1. Bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isim aşağıdakilerden hangisidir?
     - **Cevap A-) NPC (Non Player Character)**
     - B-) RPC (Real Player Character)
@@ -2484,7 +2484,7 @@
     > edilmeyen, oyun motoru tarafından kontrol
     > edilen karakterlere verilen isim.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi Yeni medyanın özelliklerinden eşzamansızlığı açıklar?
     - **Cevap A-) Bireye istediği zaman mesaj gönderme veya alma imkanını sağlar.**
     - B-) Fotoğraflardaki yazıları metne dönüştürmeye yardımcı olur.
@@ -2494,7 +2494,7 @@
 
     > **Açıklama:** Yeni iletişim teknolojileri bireye istediği zamanda mesaj gönderme veya alma imkânını sağlar.
 
-    ***
+    <hr />
 1. Programlama dilleri ile oluşturulan, içerisinde çeşitli fonksiyonları, görsel kütüphaneleri barındıran, oyun geliştirmek için kullanılan programlara genel olarak ne ad verilir?
     - A-) Tasarım Motoru
     - **Cevap B-) Oyun Motoru**
@@ -2507,7 +2507,7 @@
     > oyunlar, önceden tanımlanmış veriler kullanılarak oluşturulur. Ücretli veya ücretsiz çok sayıda oyun motoru
     > mevcuttur. Yaygın kullanılan motorlardan bir tanesi unreal engine oyun motorudur.
 
-    ***
+    <hr />
 1. ……., programlama dilleri ile oluşturulan, içerisinde çeşitli fonksiyonları, görsel kütüphaneleri barındıran, oyun geliştirmek için kullanılan programlardır.<br />Yukarıda boş bırakılan kısma aşağıdakilerden hangi ifade gelmelidir?
     - A-) Non Player Character
     - B-) Web 3.0
@@ -2517,7 +2517,7 @@
 
     > **Açıklama:** Oyun motoru, programlama dilleri ile oluşturulan, içerisinde çeşitli fonksiyonları, görsel kütüphaneleri barındıran, oyun geliştirmek için kullanılan programlardır.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi Unreal Engine oyun motoru için doğru **değildir**?
     - A-) Unreal Engine 5 ile geliştirilen bir diğer özellik ise aydınlatma ile ilgili olan sorunları büyük ölçüde ortadan kaldıran Lumen teknolojisidir.
     - **Cevap B-) Poligon sayısının artması bilgisayarın o nesneyi işlemesini de kolaylaştırır.**
@@ -2527,7 +2527,7 @@
 
     > **Açıklama:** Poligon sayısının artması bilgisayarın o nesneyi işlemesini de zorlaştırmaktadır.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi Epic Games şirketinin 1998 yılında C++ kullanarak geliştirdiği oyun motorudur?
     - A-) Skylight
     - B-) Axiom Engine
@@ -2540,7 +2540,7 @@
     > Mayıs 2020 tarihinde son sürüm olan unreal engine 5’i duyuran şirket getirdiği yenilikler ile oyunlardaki
     > görüntü işleme teknolojisini çok ilerilere götürecek gibi gözükmektedir.
 
-    ***
+    <hr />
 1. "İlk olarak ........... yılında piyasaya sürülen GTA, tüm zamanların en çok satan video oyunlarından biridir."<br />Yukarıdaki cümlede boşluk bırakılan yere aşağıdakilerden hangisi gelmelidir?
     - A-) 2011
     - B-) 2012
@@ -2550,7 +2550,7 @@
 
     > **Açıklama:** İlk olarak 2013 yılında piyasaya sürülen GTA, tüm zamanların en çok satan video oyunlarından biridir.
 
-    ***
+    <hr />
 1. İlk sinema filmi özel efektini kullanan kişi aşağıdakilerden hangisidir?
     - A-) Georges Méliès
     - B-) Crystal Dynamics
@@ -2560,7 +2560,7 @@
 
     > **Açıklama:** İlk sinema filmi özel efektini kullanan kişi Alfred Clark’dır.
 
-    ***
+    <hr />
 1. Bağdat Hırsızı filminde, hangi teknoloji kullanılarak filmde birçok görsel efekt gerçekleştirilmiştir?
     - A-) Kırmızı ekran
     - B-) Siyah beyaz
@@ -2570,7 +2570,7 @@
 
     > **Açıklama:** Bağdat Hırsızı filminde, mavi ekran teknoloji kullanılarak filmde birçok görsel efekt gerçekleştirilmiştir.
 
-    ***
+    <hr />
 1. Dijital kameralarda, analog görüntü dijital olarak kodlanıp kaydedilirken kullanılan tekniklerden biri olan …… görüntüyü kaydederken renkleri sıraya koymak için bir dizilim takip eder.<br />Yukarıdaki cümlede bırakılan boşluğa hangi ifade gelmelidir?
     - **Cevap A-) Bayer filtresi**
     - B-) Green Screen
@@ -2580,7 +2580,7 @@
 
     > **Açıklama:** Dijital kameralarda, analog görüntü dijital olarak kodlanıp kaydedilirken kullanılan tekniklerden biri olan Bayer filtresi görüntüyü kaydederken renkleri sıraya koymak için bir dizilim takip eder.
 
-    ***
+    <hr />
 1. Aşağıdaki dizilerden hangisi interaktif biçimde ilerleyen bir yapımdır?
     - A-) Dr. No
     - **Cevap B-) Black Mirror**
@@ -2590,7 +2590,7 @@
 
     > **Açıklama:** Netflix’te yayımlanan Black Mirror dizisinin Bandersnatch adlı bölümü de interaktif biçimde ilerleyen bir yapımdır.
 
-    ***
+    <hr />
 1. 1\. Dijital kameralar yeşil ışığa karşı daha duyarlıdır.<br />2\. Bayer, yeşil fotosensörleri parlaklığa duyarlı, kırmızı ve mavi olanları ise krominansa duyarlı olarak adlandırmıştır.<br />III. Oyuncuların yeşil perdeden en fazla bir metre uzakta olması gerekir.<br />Yukarıdaki ifadelerden hangisi/hangileri doğrudur?
     - A-) Yalnız III
     - B-) I-III
@@ -2600,7 +2600,7 @@
 
     > **Açıklama:** Dijital kameralar yeşil ışığa karşı daha duyarlıdır. Bayer, yeşil fotosensörleri parlaklığa duyarlı, kırmızı ve mavi olanları ise krominansa duyarlı olarak adlandırmıştır.
 
-    ***
+    <hr />
 1. Aşağıdaki filmlerden hangisi 1964 yılında en iyi özel efekt dalında akademi Oscar ödülü almıştır?
     - A-) Görünmez Adam
     - B-) Bağdat Hırsızı
@@ -2610,7 +2610,7 @@
 
     > **Açıklama:** 1964 tarihli Robert Stevenson tarafından yönetilen Mary Poppins filmi en iyi özel efekt dalında akademi (Oscar) ödülü almıştır.
 
-    ***
+    <hr />
 1. Sinemada kullanılan ilk görsel efekti uygulayan yönetmen aşağıdakilerden hangisidir?
     - A-) Stanley Kubrick
     - B-) Ingmar Bergman
@@ -2621,7 +2621,7 @@
     > **Açıklama:** 1895’te Alfred Clark, ilk sinema filmi özel efektini kullanmıştır. 36 saniye süren bu film, İ skoçya
     > Kraliçesi Mary’nin infazının yeniden canlandırılmasıdır.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangi yönetmen sinemada durdurma hilesini kullanarak çektiği Humpty Dumpty Circus filmi ile stop motion tekniğini bulmuştur.
     - A-) Alfred Hitchcock
     - B-) Orson Welles
@@ -2632,7 +2632,7 @@
     > **Açıklama:** 1897 yılında Albert II Smith, durdurma hilesini kullanarak çektiği Humpty
     > Dumpty Circus filmi ile stop motion tekniğini bulmuştur.
 
-    ***
+    <hr />
 ## Unite 7
 1. Ölçüm, deney, gözlem ya da araştırma yoluyla elde edilen işlenmemiş ham hâldeki enformasyon parçacığını ifade eden kavram aşağıdakilerden hangisidir?
     - A-) Bilgi
@@ -2643,7 +2643,7 @@
 
     > **Açıklama:** Veri kavramı ölçüm, deney, gözlem ya da araştırma yoluyla elde edilen işlenmemiş ham hâldeki enformasyon parçacığıdır.
 
-    ***
+    <hr />
 1. Enformasyonun yorum, bağlam, deney, analiz ve tecrübe ile güçlendirilmiş, desteklenmiş ve zenginleştirilmiş hâline ne ad verilir?
     - A-) Değer
     - B-) Kayıt
@@ -2653,7 +2653,7 @@
 
     > **Açıklama:** Bilgi, enformasyonun yorum, bağlam, deney, analiz ve tecrübe ile güçlendirilmiş, desteklenmiş ve zenginleştirilmiş hâlidir.
 
-    ***
+    <hr />
 1. ……………….., belirli bir ihtiyacı karşılamak ya da bir amacı gerçekleştirmek için büyük verilerin ileri düzey tekniklerle analiz edilmesi sonucu işlenerek değerli verilerin elde edilme sürecidir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?
     - **Cevap A-) Veri madenciliği**
     - B-) Veri tanımlama
@@ -2663,7 +2663,7 @@
 
     > **Açıklama:** Veri madenciliği, belirli bir ihtiyacı karşılamak ya da bir amacı gerçekleştirmek için büyük verilerin ileri düzey tekniklerle analiz edilmesi sonucu işlenerek değerli verilerin elde edilme sürecidir.
 
-    ***
+    <hr />
 1. Çıkarımda bulunabilmek, sonuçlara ulaşmak ve karar almaya yardımcı olabilmek amacıyla verinin toplanması, modellenmesi ve dönüştürülmesi sürecine ne ad verilir?
     - A-) Veri filtreleme
     - B-) Veri birleştirme
@@ -2673,7 +2673,7 @@
 
     > **Açıklama:** Veri analizi; çıkarımda bulunabilmek, sonuçlara ulaşmak ve karar almaya yardımcı olabilmek amacıyla verinin toplanması, modellenmesi ve dönüştürülmesi sürecidir.
 
-    ***
+    <hr />
 1. Makine öğrenimi, doğal dil işleme, veri madenciliği, sinir ağları veya bir algoritma gibi bir dizi teknoloji ve yöntemi tanımlamak için kullanılan şemsiye terim aşağıdakilerden hangisidir?
     - A-) Rassal orman
     - **Cevap B-) Yapay zekâ**
@@ -2684,7 +2684,7 @@
     > **Açıklama:** Yapay zekâ; makine öğrenimi, doğal dil işleme, veri madenciliği, sinir ağları veya bir algoritma gibi bir dizi teknoloji ve yöntemi tanımlamak için kullanılan bir şemsiye terimdir.
     > Yapay zekâ; makine öğrenimi, doğal dil işleme, veri madenciliği, sinir ağları veya bir algoritma gibi bir dizi teknoloji ve yöntemi tanımlamak için kullanılan şemsiye terimdir.
 
-    ***
+    <hr />
 1. Yapay sinir ağları gibi insan anatomisinden örnek alınarak geliştirilen algoritmalar geliştirerek makinelerin farklı durumlara yönelik insan gibi düşünüp yorum yapabilmesini sağlama sürecine ………..…... adı verilir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?
     - A-) veri madenciliği
     - B-) naive bayes
@@ -2694,7 +2694,7 @@
 
     > **Açıklama:** Yapay sinir ağları gibi insan anatomisinden örnek alınarak geliştirilen algoritmalar geliştirerek makinelerin farklı durumlara yönelik insan gibi düşünüp yorum yapabilmesini sağlama sürecine derin öğrenme adı verilir.
 
-    ***
+    <hr />
 1. Veri görselleştirmenin tarihsel sürecinde, 1864 salgını sırasında Londra’da meydana gelen kolera salgınlarının haritasını çıkaran İngiliz doktor aşağıdakilerden hangisidir?
     - A-) John W. Tukey
     - B-) William Playfair
@@ -2704,7 +2704,7 @@
 
     > **Açıklama:** Veri görselleştirmenin tarihsel sürecinde, İngiliz doktor John Snow, 1864 salgını sırasında Londra’da meydana gelen kolera salgınlarının haritasını çıkarmıştır.
 
-    ***
+    <hr />
 1. Büyük hacimli verileri görselleştirmek amacıyla çevrimiçi ve masaüstü ortamlarda kullanılabilen görsel analitik platform aşağıdakilerden hangisidir?
     - A-) Datawrapper
     - B-) Flourish
@@ -2714,7 +2714,7 @@
 
     > **Açıklama:** Tableau, büyük hacimli verileri görselleştirmek amacıyla çevrimiçi ve masaüstü ortamlarda kullanılabilen görsel analitik platformdur.
 
-    ***
+    <hr />
 1. Ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bilgisayar programı aşağıdakilerden hangisidir?
     - A-) Datawrapper
     - B-) DALL-E
@@ -2724,7 +2724,7 @@
 
     > **Açıklama:** VOSviewer, ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bilgisayar programıdır.
 
-    ***
+    <hr />
 1. Veri görselleştirme sürecinde kullanılmak amacıyla 2021 yılında ilk olarak OpenAI tarafından geliştirilen yapay zekâ uygulaması aşağıdakilerden hangisidir?
     - A-) Flourish
     - **Cevap B-) DALL-E**
@@ -2734,7 +2734,7 @@
 
     > **Açıklama:** Veri görselleştirme sürecinde kullanılmak amacıyla 2021 yılında ilk olarak OpenAI tarafından geliştirilen yapay zekâ uygulaması, DALL-E’dir.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi ham gerçek enformasyon parçacığı olarak tanımlanır?
     - **Cevap A-) Veri**
     - B-) Doğrulama
@@ -2746,7 +2746,7 @@
     > Veri Nedir?
     > **Veri kavramı,** ham gerçek enformasyon parçacığına verilen isim olarak tanımlanabilir.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi büyük verinin özelliklerinden biri değildir?
     - A-) Çeşitlilik
     - B-) Hız
@@ -2791,7 +2791,7 @@
     > kullanan kuruma fayda sağlaması öncelikli
     > olarak ele alınmalıdır.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi veri madenciliğinin 7 farklı sürecinden biri **değildir?**
     - A-) Veri tanımlama
     - B-) Veri toplama ve filtreleme
@@ -2807,7 +2807,7 @@
     > • veri birleştirme ve sunma,
     > • veri analizi ve veri görselleştirmedir.
 
-    ***
+    <hr />
 1. Yapay sinir ağların gibi insan anatomisinden örnek alınarak geliştirilen algoritmalar geliştirerek makinelerin farklı durumlara yönelik insan gibi düşünüp yorum yapabilme sürecine ne adı verilebilir ?
     - A-) Büyük Veri
     - B-) Veri Madenciliği
@@ -2817,7 +2817,7 @@
 
     > **Açıklama:** Yapay sinir ağları gibi insan anatomisinden örnek alınarak geliştirilen algoritmalar geliştirerek makinelerin farklı durumlara yönelik insan gibi düşünüp yorum yapabilmesini sağlama sürecine **derin öğrenme** adı verilebilir (Karaoğlu, 2021).
 
-    ***
+    <hr />
 1. Aşağıdaki hangi bilim insanları makine öğrenmesini, “örüntüleri tanıyabilen, tahminlerde buluna bilen ve yeni keşfedilen kalıpları ilk tasarımlarında yer almayan veya kapsanmayan durumlara uygulayabilen yazılımları içeren yapay zekânın bir alt alanı” olarak tanımlamaktadır?
     - A-) Atalay ve Çelik
     - B-) Tienin ve Karaoğlu
@@ -2827,7 +2827,7 @@
 
     > **Açıklama:** **Popenici ve Kerr (2017),** makine öğrenmesini, “örüntüleri tanıyabilen, tahminlerde buluna bilen ve yeni keşfedilen kalıpları ilk tasarımlarında yer almayan veya kapsanmayan durumlara uygulayabilen yazılımları içeren yapay zekânın bir alt alanı” olarak tanımlamaktadır.
 
-    ***
+    <hr />
 1. Aşağıdaki Boşluğu doldurunuz?<br />Derin öğrenme sürecinde ....................... sinir ağlarının ana kavramını oluşturmaktadır.
     - **Cevap A-) öğrenme kabiliyeti**
     - B-) model oluşturma
@@ -2838,7 +2838,7 @@
     > **Açıklama:** dikkat
     > Derin öğrenme sürecinde **öğrenme kabiliyeti**, sinir ağlarının ana kavramını oluşturmaktadır.
 
-    ***
+    <hr />
 1. Duygu analizi yapılmasında, yüz tanıma sistemlerinde, ses tanıma sistemlerinde, yazı içeriklerinin sınıflandırılmasında hangi uygulama kullanılır?
     - A-) Yapay Sinir Ağları
     - **Cevap B-) Bayes Algoritma**
@@ -2849,7 +2849,7 @@
     > **Açıklama:** Naive Bayes
     > Duygu analizi yapılmasında, yüz tanıma sistemlerinde, ses tanıma sistemlerinde, yazı içeriklerinin sınıflandırılmasında **bayes algoritmaları** kullanılabilir.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi bir bağımlı değişken ile bağımsız değişkenler arasındaki ilişkinin tahmini için kullanılan istatistiksel yaklaşımdır?
     - A-) Denetimsiz Öğrenme
     - **Cevap B-) Lojistik Regresyon**
@@ -2859,7 +2859,7 @@
 
     > **Açıklama:** **Lojistik Regresyon** Bir bağımlı değişken ile bağımsız değişkenler arasındaki ilişkinin tahmini için kullanılan istatistiksel yaklaşımdır.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda kullanılabilen görsel analitik platformudur?
     - A-) Algoritma
     - B-) Denetimsiz Öğrenme
@@ -2870,7 +2870,7 @@
     > **Açıklama:** Tableau ile Veri Görselleştirme
     > **Tableau,** büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda kullanılabilen görsel analitik platformudur.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır?
     - A-) Tableau
     - B-) Dijital Görüntüleme
@@ -2881,7 +2881,7 @@
     > **Açıklama:** VOSviewer ile Veri Görselleştirme
     > **VOSviewer,** ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır.
 
-    ***
+    <hr />
 1. Üretilen verilerin büyük bir kısmının birbirinden farklı biçimlere sahip olması aşağıdaki hangi özellik içerisine girmektedir?
     - A-) Hız
     - B-) Hacim
@@ -2892,7 +2892,7 @@
     > **Açıklama:** BÜYÜK VERİLERLE ÇALIŞMAK
     > Üretilen verilerin büyük bir kısmı, birbirinden farklı biçimlere sahip olmasına çeşitlilik yani variety denmektedir.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi büyük verinin sahip olması gereken özellikleri arasında **değildir**?
     - A-) Hacim olarak yüksek kapasitede veri içermelidir.
     - B-) Sürekli ve yüksek hızla güncellenmeli ve ulaşılabilir olmalıdır
@@ -2903,7 +2903,7 @@
     > **Açıklama:** BÜYÜK VERİLERLE ÇALIŞMAK
     > Büyük verinin sahip olması gereken 5 özelliği vardır. D şıkkı yanlıştır çünkü farklı özelliklere sahip birçok veriden oluşmalıdır.
 
-    ***
+    <hr />
 1. Yapay sinir ağları gibi insan anatomisinden örnek alınarak geliştirilen algoritmalar geliştirerek makinelerin farklı durumlara yönelik insan gibi düşünüp yorum yapabilmesini sağlama sürecine derin öğrenme adı verilmektedir. Aşağıdakilerden hangisi derin öğrenme süreci için doğru **değildir**?
     - A-) Yapay sinir ağları, insan sinir hücresine benzer olarak giriş katmanı, gizli katman ve çıkış katmanı içerir.
     - B-) Derin öğrenme; resmin veya sesin içeriğini tanımlayarak ne olduğu hakkında doğru verilere ulaşabilmektedir.
@@ -2914,7 +2914,7 @@
     > **Açıklama:** YAPAY ZEKÂ VE MAKİNE ÖĞRENİMİ
     > Yapay sinir ağlarının yapısı tek giriş değil birden çok giriş, çıkış ve gizli katmandan oluşmaktadır.
 
-    ***
+    <hr />
 1. Bir bağımlı değişken ile bağımsız değişkenler arasındaki ilişkinin tahmini için kullanılan istatistiksel yaklaşıma ne denir?
     - A-) Rassal Orman
     - **Cevap B-) Lojistik Regresyon**
@@ -2925,7 +2925,7 @@
     > **Açıklama:** YAPAY ZEKÂ VE MAKİNE ÖĞRENİMİ
     > Bir bağımlı değişken ile bağımsız değişkenler arasındaki ilişkinin tahmini için kullanılan istatistiksel yaklaşıma Lojistik Regresyon denir.
 
-    ***
+    <hr />
 1. Makine öğrenimi algoritmaları ile oluşturulan modellerin amaçlandığı gibi performans gösterip göstermediğinden emin olmak için veri görselleştirme kullanılır. Buna göre aşağıdakilerden hangisi veri görselleştirme için doğru **değildir** ?
     - A-) Veri analizi sonucunda ortaya çıkan bulgular ile daha hızlı ve daha az hatayla başarıya ulaşmayı sağlar.
     - **Cevap B-) Veri bilimcilerine olan ihtiyacı arttırır.**
@@ -2936,7 +2936,7 @@
     > **Açıklama:** YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME
     > Enformasyon daha anlaşılır olduğundan veri bilimcilerine olan ihtiyacı arttırmaz aksine ihtiyacı ortadan kaldırır.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda ücretsiz olarak kullanılabilen görsel analitik platformudur?
     - A-) VOSviewer
     - **Cevap B-) Tableau Public**
@@ -2947,7 +2947,7 @@
     > **Açıklama:** YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME
     > Tableau, büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda ücretsiz kullanılabilen görsel analitik platformudur
 
-    ***
+    <hr />
 1. Ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bilgisayar programı aşağıdakilerden hangisidir?
     - **Cevap A-) VOSviewer**
     - B-) Tableau Public
@@ -2958,7 +2958,7 @@
     > **Açıklama:** YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME
     > VOSviewer, ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır.
 
-    ***
+    <hr />
 1. Yapay zekâ aracılığıyla gerçekleştirilecek veri görselleştirme süreci, aşağıdaki işlem adımlarının hangi sırasıyla uygulanır?<br />**I-** Veri görselleştirme sürecinde, yapay zekâ uygulamaları ham verileri analitikler aracıyla gerçekleştirilen analiz sürecinin sonucunda oluşturduğu modeller aracılığıyla ham verilerin gruplandırılması, ilişkilendirilmesi, karşılaştırılması sonucu ürettiği enformasyonu görsel içeriğe dönüştürme işlevlerini yerine getirilir.<br />**II-** Yapay zekâ uygulamaları, veri görselleştirme sürecinde ham verilerden enformasyon görüntüleri oluşturmak için algoritmalar kullanarak modeller oluşturur.<br />**III-** Yapay zekânın oluşturduğu modeller sonucu üretilen enformasyon, yapay zekâ algoritmasını geliştiren programcının istekleri doğrultusunda hedef kişiye özel oluşturulan gösterge panellerinde (dashboard) görselleştirilir.
     - A-) I, II, III
     - **Cevap B-) II, I, III**
@@ -2969,7 +2969,7 @@
     > **Açıklama:** YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME
     > Yapay zekâ aracılığıyla gerçekleştirilecek veri görselleştirme süreci II,I, III sırası ile uygulanır.
 
-    ***
+    <hr />
 1. Veri görselleştirme sürecinde kullanılmak amacıyla 2021 yılında ilk olarak OpenAI tarafından geliştirilen yapay zekâ uygulaması aşağıdakilerden hangisidir?
     - A-) IMAGEN
     - **Cevap B-) DALL-E**
@@ -2980,7 +2980,7 @@
     > **Açıklama:** YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME
     > Veri görselleştirme sürecinde kullanılmak amacıyla 2021 yılında ilk olarak OpenAI tarafından geliştirilen yapay zekâ uygulaması, DALL-E’dir
 
-    ***
+    <hr />
 1. Google tarafından geliştirilen hangi uygulama, doğal dildeki (Şu an için İngilizce dili) bir metin açıklaması üzerinden görseller oluşturabilen çevrimi platformda çalışan bir yapay zekâ görselleştirme uygulamasıdır?
     - **Cevap A-) İMAGEN**
     - B-) DALL-E 2
@@ -2991,7 +2991,7 @@
     > **Açıklama:** YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME
     > Google tarafından geliştirilen Imagen uygulaması, doğal dildeki (Şu an için İngilizce dili) bir metin açıklaması üzerinden görseller oluşturabilen çevrimi platformda çalışan bir yapay zekâ görselleştirme uygulamasıdır.
 
-    ***
+    <hr />
 1. Veri kaynaklarından toplanan verinin büyük veri olabilmesi için toplamda 5 özelliğe sahip olması gerekmektedir.<br />**Aşağıdakilerden hangisi bu özelliklerinden biri değildir?**
     - A-) Çeşitlilik
     - B-) Hız
@@ -3001,7 +3001,7 @@
 
     > **Açıklama:** Doğru cevap C şıkkı
 
-    ***
+    <hr />
 1. **Veri madenciliği 7 farklı süreci içermektedir. Aşağıdakilerden hangisi bunlardan biri değildir?**
     - A-) Veri tanımlama
     - B-) Veri toplama ve filtreleme
@@ -3011,7 +3011,7 @@
 
     > **Açıklama:** Cevap E şıkkı
 
-    ***
+    <hr />
 1. **Makine öğrenmesi algoritmalarını kullana­rak çevrimiçi öğrenme ortamlarında aşağıdakilerden hangisi yapılamaz?**
     - A-) Öğrenenleri özelliklerine, derslerde içerik, öğretici ve diğer öğrenenlerle etkileşimlerine ve akademik başarılarına göre sınıflandırmak,
     - **Cevap B-) Sınav esnasında öğrenene ait web kamerası ve sensörlerle öğrenenin kopya çekip çek­mediğini denetlemek için çevrimiçi öğren­me ortamlarında kullanamayız.**
@@ -3021,7 +3021,7 @@
 
     > **Açıklama:** Cevap B şıkkı
 
-    ***
+    <hr />
 1. Çevrimiçi öğrenme ortamlarında kullanılabilecek her bir makine öğrenmesi algorit­masının farklı işlevleri vardır.<br />**Aşağıdakilerden hangisi öğrenme or­tamlarında kullanılabilecek makine öğrenme algorit­malarından biri değildir?**
     - A-) Destek Vektör Makineleri (Support Vector Machines)
     - **Cevap B-) Kollerasyon Ağları**
@@ -3031,7 +3031,7 @@
 
     > **Açıklama:** Cevap B şıkkı
 
-    ***
+    <hr />
 1. Veri görselleştirme, ham verilerin analitikler aracıyla gerçekleştirilen analiz sürecinin sonucunda veriler­den üretilen enformasyonun anlaşılmasını kolaylaştırmak için enformasyonu harita veya grafik gibi görsel içeriğe dönüştürme uygulamasıdır.<br />**Aşağıdakilerden hangisi veri görselleştirme tekniklerinden biri değildir?**
     - **Cevap A-) Çizgi grafikleri**
     - B-) Sütun grafikleri
@@ -3041,7 +3041,7 @@
 
     > **Açıklama:** Doğru cevap A şıkkı
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi veri görselleştirmenin faydalarından biri değildir?**
     - A-) Veri madenciliği sürecinin sonucunda üretilen enformasyonu keşfetmenin ve anlamanın en güçlü yoludur.
     - B-) Enformasyonu hızla özümseme, iç görüleri geliştirme ve daha hızlı kararlar almayı sağlar.
@@ -3051,7 +3051,7 @@
 
     > **Açıklama:** Doğru cevap D şıkkı
 
-    ***
+    <hr />
 1. **Veri görselleştirme sürecinde kullanılmak amacıyla 2021 yılında ilk olarak OpenAI tarafından geliştirilen yapay zekâ uygulaması aşağıdakilerden hangisidir?**
     - A-) IMAGEN
     - B-) VOSviewer
@@ -3061,7 +3061,7 @@
 
     > **Açıklama:** Doğru cevap E şıkkı
 
-    ***
+    <hr />
 1. **Ülkelerin dış ticaret verileri aşağıdaki uygulamalardan hangisi ile gösterilir?**
     - **Cevap A-) Tableau Public**
     - B-) VOSviewer
@@ -3071,7 +3071,7 @@
 
     > **Açıklama:** Doğru cevap A şkkı
 
-    ***
+    <hr />
 1. **Makine öğrenmesi öğrenme şekline göre kaça ayrılır?**
     - A-) 8
     - B-) 6
@@ -3081,7 +3081,7 @@
 
     > **Açıklama:** Doğru cevap E şıkkı
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi öğrenme or­tamlarında kullanılabilecek makine öğrenme algorit­malarından değildir?**
     - A-) Naive Bayes
     - **Cevap B-) Variety**
@@ -3091,7 +3091,7 @@
 
     > **Açıklama:** Doğru cevap B şıkkı
 
-    ***
+    <hr />
 ## Unite 8
 1. Kişilerarası iletişim, grup iletişimi, örgüt iletişimi ve toplumsal iletişim sistemi, hangi iletişim sınıflandırılması içerisinde yer alır?
     - **Cevap A-) Toplumsal ilişkiler sistemi olarak**
@@ -3109,7 +3109,7 @@
     > - Toplumsal
     > iletişim
 
-    ***
+    <hr />
 1. Hangi duyumuz ile oluşan iletişim sürecinde, ilk olarak anlama daha sonra algılama ve kavrama süreci gelişir?
     - A-) İşitme
     - B-) Tatma
@@ -3121,7 +3121,7 @@
     > **Görme duyumuz** ile oluşan iletişim sürecinde, ilk olarak
     > anlama daha sonra algılama ve kavrama süreci gelişir.
 
-    ***
+    <hr />
 1. Gösterge, simge, sembol, işaret gibi kavramlar hangi iletişimin temel parçaları arasında yer alır?
     - A-) Kitle iletişimi
     - B-) Grup iletişimi
@@ -3133,7 +3133,7 @@
     > Gösterge, simge, sembol, işaret
     > gibi kavramlar **görsel iletişimin** temel parçaları arasında yer alır.
 
-    ***
+    <hr />
 1. Sözel iletişimde merkez alıcı iken, görsel iletişimde merkez hangisidir?
     - **Cevap A-) Anlamlandırılan görseldir**
     - B-) Anlamlandırılan simgedir
@@ -3144,7 +3144,7 @@
     > **Açıklama:** Görme ve Görsel İletişim
     > Sözel iletişimde merkez alıcı iken, görsel iletişimde merkez, “**anlamlandırılan görseldir**”.
 
-    ***
+    <hr />
 1. Bir verici veya vericiler vasıtasıyla diğer tarafta yer alan alıcı veya alıcılar üzerinde etki oluşturmak hedefiyle kullanılan ve “gösterge” ne olarak tanımlanır?
     - **Cevap A-) Bildirim**
     - B-) İleti
@@ -3156,7 +3156,7 @@
     > **Bildirim**; bir verici veya vericiler vasıtasıyla diğer tarafta yer alan alıcı veya alıcılar üzerinde etki
     > oluşturmak hedefiyle kullanılan ve “gösterge” denilen; mesaj yüklü araçları kullanarak “bildiri” ulaştırılması durumudur.
 
-    ***
+    <hr />
 1. Bildirişimin genel hedefi, mesajı alan alıcıda ne değişikliği oluşturmaktır?
     - A-) Anlam
     - **Cevap B-) Davranış**
@@ -3168,7 +3168,7 @@
     > Bildirişimin genel hedefi, mesajı alan
     > alıcıda **davranış değişikliği** oluşturmaktır.
 
-    ***
+    <hr />
 1. İletişimin etki alanını artırmak, siber çağ ve yeni teknolojiler Max Bense ve kimin öncülüğünde bilimin ve sanatın ortaya koyduğu ortak bilgi değişimi sürecinden yola çıkarak “Bildirişim Estetiği” de denilen yeni bir anlayış oluşturdular?
     - **Cevap A-) Roman Ingarden**
     - B-) Walter Benjamin
@@ -3183,7 +3183,7 @@
     > bilgi değişimi sürecinden yola çıkarak “Bildirişim
     > Estetiği” de denilen yeni bir anlayış oluşturdular.
 
-    ***
+    <hr />
 1. Hangi bakış açısı, toplumsal açıdan sadece sanatçının, yazarın veya tasarımcının bir parçası değil aynı zamanda insanlık için bir kültürel mirastır?
     - A-) Etkileyici
     - B-) Çıkarımsal
@@ -3196,7 +3196,7 @@
     > sanatçının, yazarın veya tasarımcının bir parçası değil aynı zamanda insanlık için bir kültürel
     > mirastır.
 
-    ***
+    <hr />
 1. Dilbilimcilere göre kavramlar ne olarak tanımlanır?
     - A-) Gösteren
     - **Cevap B-) Gösterilen**
@@ -3209,7 +3209,7 @@
     > Dilbilimcilere
     > göre sesler bütüncül bir yapıyı işaret eder ve gösterendir; kavramlar ise **gösterilen** olarak tanımlanır.
 
-    ***
+    <hr />
 1. Görüntüsel göstergeler işaret ettikleri anlamlar benzerlik göstermesinden dolayı ne olarak adlandırılır?
     - **Cevap A-) Benzetge**
     - B-) Gösterge
@@ -3219,7 +3219,7 @@
 
     > **Açıklama:** Görüntüsel göstergeler işaret ettikleri anlamlar benzerlik göstermesinden dolayı **BENZETGE** olarak da adlandırılır.
 
-    ***
+    <hr />
 1. Gösterge olarak işaret edilen sözcük bir başka sözcük üzerinde etki yaratıp anlamı dolaylılaştırıyor ve kışkırtıyorsa ne tür bir anlam söz konusu olur?
     - **Cevap A-) Yansıtılan anlam**
     - B-) Çağrışımsal anlam
@@ -3229,7 +3229,7 @@
 
     > **Açıklama:** Gösterge olarak işaret edilen sözcük bir başka sözcük üzerinde etki yaratıp anlamı dolaylılaştırıyor ve kışkırtıyorsa yansıtılan bir anlam söz konusu olur ve bu nedenle doğru cevap A seçeneğidir.
 
-    ***
+    <hr />
 1. Bir sözün ait olduğu toplum ve kültürde fazlasıyla kabul görmüş anlamı dışında başka bir söz olarak ifade edilmesi ya da kullanılmasına ne ad verilir?
     - A-) Düzdeğişmece
     - **Cevap B-) Eğretileme**
@@ -3239,7 +3239,7 @@
 
     > **Açıklama:** Bir sözün ait olduğu toplum ve kültürde fazlasıyla kabul görmüş anlamı dışında başka bir söz olarak ifade edilmesi ya da kullanılması eğretileme (metafor) olarak tanımlanır. Bu nedenle doğru cevap B seçeneğidir.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi semantik açıdan değerlendirme ölçütleri kapsamında yanıt aranması gereken sorulardan birisidir?
     - A-) Göstergenin oluşturduğu anlam düzen dışına taşıyor mu, çatışma yaratıyor mu?
     - B-) Kullanılan gösterge özneler tarafından değiştirilebilir mi?
@@ -3249,7 +3249,7 @@
 
     > **Açıklama:** Gösterge anlamsal olarak mesajını pozitif olarak temsil edebiliyor mu? sorusu semantik açıdan değerlendirme ölçütleri kapsamında yanıt aranması gereken sorulardan birisidir ve bu nedenle doğru cevap C seçeneğidir.
 
-    ***
+    <hr />
 1. Temel anlamı söylenceye dayanarak işitilen söz olarak açıklanan kavram aşağıdakilerden hangisidir?
     - A-) Syntax
     - B-) Semantik
@@ -3259,7 +3259,7 @@
 
     > **Açıklama:** Mit terimi tarihin en eski dönemlerine giden bazen yazılı bazen de günümüze söylencelerle ulaşmış öyküler olarak tanımlanır. TDK (Türk Dil Kurumu) toplumbilim terimleri sözlüğü mit sözcüğünü masal, hikaye, söylence ve efsane terimleriyle benzer nitelikte kullanır. Mit ve mitolojinin en eski kaynaklarda Antik Yunan mitolojisinde çokça geçtiği bilinir. Köken bilim olarak en eski kaynaklarda “mythos”, “epos”, “logos” sözcüğünden türediği söylenir. Temel anlamı söylenceye dayanarak işitilen söz olarak açıklanır. Bu nedenle doğru cevap D seçeneğidir.
 
-    ***
+    <hr />
 1. Gösterenin doğrudan gönderme yaptığı kavrama ne ad verilir?
     - A-) Psikolojik anlam
     - B-) Sosyal anlam
@@ -3270,7 +3270,7 @@
     > **Açıklama:** Düzanlam, gösterge vasıtasıyla gösterilen anlamın bellekte doğrudan anlamlandırılması sonucu oluşur. Düz anlam göstergenin zihindeki ilk tasavvurudur, nettir, nedensiz ve
     > amasızdır. Kısacası gösterenin doğrudan gönderme yaptığı kavrama, düzanlam denir. Bu nedenle doğru cevap E seçeneğidir.
 
-    ***
+    <hr />
 1. Kodların iletişim sistemlerindeki özellikleri açısından aşağıdakilerden hangisi yanlıştır?
     - **Cevap A-) Kodların dizimsel bir boyutu vardır.**
     - B-) Kodlar dizimler saymacalar tarafından düzene konulmaktadır.
@@ -3287,7 +3287,7 @@
     > 4\. Kodlar toplumsallığın ve toplumsal geçmişin bir parçası olarak üretilir ve kullanıcılar arasında uzlaşının sonucudur.
     > 5\. Hedefe yönelten kitle iletişim araçları ile yayınlanabilir olurlar”. Bu nedenle doğru cevap A seçeneğidir.
 
-    ***
+    <hr />
 1. Göstergeyi seçimleyen öznenin onları sıralaması durumunda anlamlı bir bütüne ulaşmasına ne ad verilir?
     - A-) Dizisel boyut
     - **Cevap B-) Dizimsel boyut**
@@ -3297,7 +3297,7 @@
 
     > **Açıklama:** Dizimsel boyut ise göstergeyi seçimleyen öznenin onları sıralaması durumunda anlamlı bir bütüne ulaşması olarak açıklanabilir. Bu nedenle doğru cevap B seçeneğidir.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi kullanılan kodlara göre yapılan iletişim sınıflandırması içinde yer almaktadır?
     - A-) Dikey iletişim
     - B-) Toplumsal iletişim
@@ -3307,7 +3307,7 @@
 
     > **Açıklama:** Kullanılan kodlara göre iletişim sınıflandırmasında sözlü iletişim, yazılı iletişim ve sözsüz iletişim yer almaktadır. Bu nedenle doğru cevap C seçeneğidir.
 
-    ***
+    <hr />
 1. Kavramsal nitelik olarak bir sözcüğü veya kelimeyi temsil etmeyi amaçlayan yazılı veya resimli sembollere ne ad verilir?
     - A-) Piktogram
     - B-) İdeogram
@@ -3317,7 +3317,7 @@
 
     > **Açıklama:** Kavramsal nitelik olarak bir sözcüğü veya kelimeyi temsil etmeyi amaçlayan yazılı veya resimli sembollere logogram denir. Çin, Mısır hiyeroglif yazısı ve erken dönem çivi yazıları logogram bakış açısından beslenir. Bu nedenle doğru cevap D seçeneğidir.
 
-    ***
+    <hr />
 1. Gösterge ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
     - A-) Anlamın fiziksel bir ifade biçimidir.
     - B-) Algılama gerçekleşmemiş bir durumu işaret eder.
@@ -3330,7 +3330,7 @@
     > • Kendi anlamı dışında başka anlamlara sızma yaratır.
     > • İnsanlarca gösterge olarak tanımlanıp algılama sonrası bir anlam taşıması gerekir. Bu nedenle doğru cevap E seçeneğidir.
 
-    ***
+    <hr />
 1. İletişim sistemlerinde “Kullanılan Kodlara Göre” sınıflandırmada doğru iletişim türü aşağıdakilerden hangisidir?
     - A-) Kişilerarası iletişim
     - B-) Biçimsel olmayan/ yatay iletişim
@@ -3342,7 +3342,7 @@
     > İletişimin sınıflandırılması
     > Kullanılan Kodlara Göre: Sözlü iletişim - Yazılı iletişim - **Sözsüz iletişim**
 
-    ***
+    <hr />
 1. "Dilbilimcilere göre sesler bütüncül bir yapıyı işaret eder ve ................; kavramlar ise .................olarak tanımlanır.”<br />Yukarıda boşluk bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?
     - **Cevap A-) gösteren / gösterilen**
     - B-) gösterilen / gösteren
@@ -3352,7 +3352,7 @@
 
     > **Açıklama:** Dilbilimcilere göre sesler bütüncül bir yapıyı işaret eder ve **gösterendir**; kavramlar ise **gösterilen** olarak tanımlanır.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi benzetge özelliklerinden biri değildir?
     - A-) Görüntüsel göstergeler, işaret ettiği anlamı doğrudan doğruya gösterir.
     - B-) Görüntüsel göstergelersaymaca özellik gösterirler.
@@ -3369,7 +3369,7 @@
     > olursak Türkiye haritası veya **bir bölgenin krokisi (Görsel 8.8) de benzetge için güzel göstergelerdir** . Gerçekliği ortaya koyan bir sanat alanı olan fotoğraf, çok kullanılan benzetgelerden biridir
     > ve saymaca niteliğinden ötürü ait olduğu şeyi doğrudan anlatır.
 
-    ***
+    <hr />
 1. Belirtge ile ilgili en doğru örnek aşağıdakilerden hangisidir?
     - A-) Fotoğraf
     - **Cevap B-) Öksürük**
@@ -3383,7 +3383,7 @@
     > adlandırılır; belirtgeler nesnesine her ne kadar benzemesede anlam olarak doğrudan sızmalar yaratırlar. Bir
     > şekilde bellekte benzerlik ilişkisi olarak belirirler. **En iyi örnek ateş ve öksürük gibi dokunsal, işitsel göstergelerdir ve belirtileri hastalığı işaret eder.**
 
-    ***
+    <hr />
 1. Konuşma dilinin seslerinden yola çıkarak üretilen simgesel işaretlere ne ad verilir?
     - **Cevap A-) Fonogram**
     - B-) Logogram
@@ -3393,7 +3393,7 @@
 
     > **Açıklama:** Konuşma dilinin seslerinden yola çıkarak üretilen simgesel işaretler **FONOGRAM** olarak adlandırılır. Alfabede yer alan sesli/sessiz harfler iyi birer örnektir.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi semantik açıdan değerlendirme ölçütlerinden biridir?
     - A-) Göstergeyi temsil eden elemanların ilişkisel bağı ve düzeni nasıl?
     - B-) Birden fazla göstergenin işaret ettiği anlam nasıl?
@@ -3408,7 +3408,7 @@
     > Göstergenin anlam problematiği zor mu? kolay çözülüyor mu?
     > Göstergede iletişim dışı bir elaman içeriyor mu?
 
-    ***
+    <hr />
 1. 1\. Çağrışımsal<br />2\. Sosyal<br />3\. Psikolojik<br />4\. Kültürel<br />5\. Yansıtılan<br />Göstergelerin anlamlandırılmasında ilişkili olduğu yananlamlar yukarıdakilerden hangileridir?
     - A-) Yalnız I ve II
     - B-) Yalnız I ve V
@@ -3425,7 +3425,7 @@
     > uğrayabilir.
     > **Yansıtılan anlam**: gösterge olarak işaret edilen sözcük bir başka sözcük üzerinde etki yaratıp anlamı dolaylılaştırıyor ve kışkırtıyorsa yansıtılan bir anlam söz konusu olur.
 
-    ***
+    <hr />
 1. Bir sözün ait olduğu toplum ve kültürde fazlasıyla kabul görmüş anlamı dışında başka bir söz olarak ifade edilmesi ya da kullanılmasına ne ad verilir?
     - A-) Sembol
     - B-) Metonomi
@@ -3437,7 +3437,7 @@
     > olarak ifade edilmesi ya da kullanılması **eğretileme (metafor)** olarak tanımlanır. Sıklıkla dilimizdeki
     > mecaz veya mecaz-ı mürsel (ad aktarımı) kavramlarıyla ilişkilendirilir.
 
-    ***
+    <hr />
 1. Düzanlam için en doğru örnek aşağıdakilerden hangisidir?
     - A-) Tanrıçalar
     - B-) Nuh tufanı
@@ -3448,7 +3448,7 @@
     > **Açıklama:** Göstergelerde **düzanlam** dilimizde yer aldığı anlamıyla zihinde oluşan kavram, göstergenin düzanlamı olarak karşımıza çıkar. Ancak düzanlam oluşurken kültürle bir çatışkı da yaşamamalıdır.
     > Yaşadığı takdirde anlamda sızmalar yaşanabilir. **Örneklenecek olursa sıradan bir araba görseline** baktığımızda belleğimizde oluşan ilk anlam onun bir ulaşım aracı olduğudur. Ancak bu araba görüntüsel olarak bir polis arabası ise anlam farklı bir boyutta taşınmış olur.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi kodların iletişim sistemlerindeki özelliklerinden biri değildir?
     - **Cevap A-) Kodları oluşturan temel birimler gösterilendir.**
     - B-) Dizisel bir boyutu vardır.
@@ -3468,4 +3468,4 @@
     > bir parçası olarak üretilir ve kullanıcılar arasında uzlaşının sonucudur.
     > 5\. Hedefe yönelten kitle iletişim araçları ile yayınlanabilir olurlar”
 
-    ***
+    <hr />

@@ -91,7 +91,7 @@ class HTMLPreservingConverter(markdownify.MarkdownConverter):
 
 def questions_to_markdown(questions):
     md = ""
-    converter = HTMLPreservingConverter()
+    converter = HTMLPreservingConverter(autolinks=False)
 
     def safe_convert(text):
         if not text: return ""
@@ -102,6 +102,11 @@ def questions_to_markdown(questions):
         converted = converter.convert(text).strip()
         # Escape dots after numbers at the start of a line to prevent markdown list parsing
         converted = re.sub(r'^(\d+)\.', r'\1\.', converted, flags=re.MULTILINE)
+
+        # Escape < characters that look like start of tags, except for allowed tags (sup, sub)
+        # This prevents text like "<body>" from being treated as HTML tags in Markdown
+        converted = re.sub(r'<(?!/?(sup|sub)>)', '&lt;', converted)
+
         return converted
 
     for i, q in enumerate(questions, 1):
@@ -148,5 +153,5 @@ def questions_to_markdown(questions):
                         md += f"    > {clean_line}\n"
             md += "\n" # Extra newline after blockquote
 
-        md += "    ***\n"
+        md += "    <hr />\n"
     return md

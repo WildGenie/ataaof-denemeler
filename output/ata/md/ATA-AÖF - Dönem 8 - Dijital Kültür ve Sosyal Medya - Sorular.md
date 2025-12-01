@@ -10,7 +10,7 @@
 
     > **Açıklama:** Ders notlarının giriş bölümünde açıkça belirtildiği gibi, dijitalleşme süreci 1950'li yıllarda askeri amaçlı tasarlanan **ENIAC** adlı bilgisayarla başlamıştır. Diğer seçenekler, dijitalleşme öncesi farklı tarihsel dönemlere aittir.
 
-    ***
+    <hr />
 1. **Dijitalleşmeye geçiş süreci aşağıdakilerden hangisinde doğru olarak sıralanmıştır?**
     - **Cevap A-) Tarım Toplumu - Sanayi Toplumu-Bilgi Toplumu**
     - B-) Sanayi Toplumu - Tarım Toplumu-Bilgi Toplumu
@@ -20,7 +20,7 @@
 
     > **Açıklama:** Daniel Bell'in tarihsel sınıflandırmasına göre, insanlık tarihi üretim ilişkileri temel alınarak üç aşamada incelenir. Bu sıralama; toprağa dayalı **Tarım Toplumu** , makineye dayalı **Sanayi Toplumu** ve son olarak bilginin temel üretim faktörü hâline geldiği **Bilgi Toplumu** şeklindedir.
 
-    ***
+    <hr />
 1. **A****şa**ğıdakilerden hangisi **dijital iletişim araçlarından biridir?**
     - A-) Kitap
     - B-) Radyo
@@ -30,7 +30,7 @@
 
     > **Açıklama:** Dijital iletişim, verilerin dijital (sayısal) teknoloji ile iletildiği araçları kapsar. **Web siteleri**, internet tabanlı, çift yönlü ve dijital yayıncılığa bir örnektir. Kitap, radyo, televizyon ve dergi ise tek yönlü ve analog yayıncılık yapan geleneksel medya araçlarıdır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi dijital devlet anlayışındaki G2B'ye karşılık gelir?**
     - A-) Devletten devlete yapılan işlemler
     - B-) Vatandaştan devlete yapılan işlemler
@@ -44,7 +44,7 @@
     > * **G2G:** Kamu kurumlarının birbirleriyle olan iletişim ve etkileşimi
     > * **G2E:** Kamu kurumlarının kamu çalışanlarıyla olan etkileşimi
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi **Daniel Bell’in insanlık tarihine yönelik yapmış olduğu sınıflamalardan biri olan Sanayi Dönemi’nin özelliklerinden biri değildir?**
     - A-) Batı Avrupa, Sovyetler Birliği ve Japonya’da hâkim olmuştur.
     - B-) Makinaya dayalı üretim anlayışı benimsenmiştir.
@@ -54,7 +54,7 @@
 
     > **Açıklama:** Daniel Bell'in sınıflandırmasına göre **Sanayi Dönemi**, imalat sektörünün hâkim olduğu ve makineye dayalı üretimin yapıldığı bir süreçtir. Bu dönemde deneye ve bilimsel bilgiye dayalı üretim vardır ve yatırım kararlarında devlet ile özel sektör belirleyicidir. Üretim anlayışının temelinin **toprak** olması ise Sanayi Dönemi'ne değil, **Tarım Toplumu**'na ait bir özelliktir.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi **McLuhan’ın insanlık tarihine ilişkin yapmış olduğu sınıflamaya ait değildir?**
     - A-) Kabilecilik çağı
     - **Cevap B-) Televizyon çağı**
@@ -64,7 +64,7 @@
 
     > **Açıklama:** McLuhan, insanlık tarihini ve bilgiye erişim olanaklarındaki değişimi dört döneme ayırmıştır. Bunlar sırasıyla: sözlü kültürün hâkim olduğu **Kabilecilik Çağı** , alfabenin bulunmasıyla geçilen **Edebiyat Çağı** , matbaanın icadıyla başlayan **Basım Çağı** ve telgrafın icadıyla başlayan **Elektronik Çağ**'dır. Televizyon Çağı, bu sınıflandırmada ayrı bir başlık olarak yer almaz, Elektronik Çağ içerisinde değerlendirilir.
 
-    ***
+    <hr />
 1. **Toffler’in (Birinci Dalga, İkinci Dalga, Üçüncü Dalga) yaptığı sınıflamada temel belirleyici aşağıdakilerden hangisidir?**
     - **Cevap A-) Servetin ölçüsü**
     - B-) Bilgiye ulaşım biçimi
@@ -74,7 +74,7 @@
 
     > **Açıklama:** Alvin Toffler, insanlığın geçirmiş olduğu toplumsal aşamaları **servetin ölçüsü** ve değişim için kullanılan materyallerdeki değişimi göz önünde bulundurarak sınıflandırır. Birinci Dalga'da toprak, İkinci Dalga'da makine ve malzeme, Üçüncü Dalga'da ise düşünce (bilgi) servetin ölçüsüdür.
 
-    ***
+    <hr />
 1. **Dijitalleşmenin önündeki engellerden biri aşağıdakilerden hangisi değildir?**
     - A-) Sayısal uçurum
     - B-) Gizlilik
@@ -84,7 +84,7 @@
 
     > **Açıklama:** Dijitalleşmenin toplumun tüm kesimlerine yayılmasının önünde bazı engeller bulunmaktadır. Bunlar arasında bilgi ve iletişim teknolojilerine erişimdeki eşitsizlikleri ifade eden **sayısal uçurum** , kişisel bilgilerin korunmasına yönelik **güven eksikliği** ve **gizlilik** kaygıları ile teknik kadro ve finansman gibi **kaynak yetersizlikleri** sayılabilir. Kalite eksikliği ise bu bağlamda doğrudan bir engel olarak belirtilmemiştir.
 
-    ***
+    <hr />
 1. **Dijitalleşmenin önündeki engellerden biri olan kaynak yetersizliğini aşağıdakilerden hangisi doğru bir biçimde tanımlar?**
     - **Cevap A-) Teknik kadro eksikliği-Finansman eksikliği**
     - B-) Finansman eksikliği-Gizlilik
@@ -94,7 +94,7 @@
 
     > **Açıklama:** Dijitalleşmenin önündeki engellerden biri olan **kaynak yetersizliği**, iki temel başlık altında ele alınır: Birincisi, dijitalleşme süreçlerini yönetecek ve geliştirecek donanıma sahip **teknik kadro ve yetişmiş insan gücü eksikliği**dir. İkincisi ise, bu süreçlerin gerektirdiği bütçeyi ifade eden **finansman engeli**dir.
 
-    ***
+    <hr />
 1. **Dijitalleşmenin önündeki engellerden kaynak yetersizliği sorununa üretilebilecek çözümlerden biri aşağıdakilerden hangisi değildir?**
     - A-) Yazılım mühendisleri yetiştirmek
     - B-) Donanım konusunda yetkin insan gücü yetiştirmek
@@ -104,7 +104,7 @@
 
     > **Açıklama:** Kaynak yetersizliği, teknik kadro ve finansman eksikliğini kapsar. Bu soruna çözüm olarak; ülkelerin kendi yazılımlarını geliştirmesi, bu alanda yetkin insan gücü (yazılım mühendisleri, donanım uzmanları) yetiştirmesi ve şeffaf bir yönetim anlayışı benimseyerek güven oluşturması gerekir. Vatandaşa e-devlet konusunda eğitim vermek ise "sayısal uçurum" engelinin "bilgisayar okuryazarlığı" boyutuna yönelik bir çözümdür, doğrudan kaynak yetersizliği ile ilgili değildir.
 
-    ***
+    <hr />
 1. **ARPANET’in ilk kuruluş amacı aşağıdakilerden hangisidir?**
     - A-) Haberleşme
     - B-) Pazarlama
@@ -114,7 +114,7 @@
 
     > **Açıklama:** İnternetin temelini oluşturan **ARPANET** (Amerikan Gelişmiş Savunma Araştırmaları Dairesi Ağı), 1960'lı yılların sonunda bir Amerikan Askeri **Savunma** Projesi olarak geliştirilmiştir. Dünyadaki pek çok iletişim alanında olduğu gibi internet de öncelikle savunma ve askeri amaçlı olarak ortaya çıkarılmış bir araçtır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi dijital halkla ilişkiler faaliyetlerinde yararlanılan araçlardan biri değildir?**
     - **Cevap A-) Billboardlar**
     - B-) Web siteleri
@@ -124,7 +124,7 @@
 
     > **Açıklama:** Dijital halkla ilişkiler faaliyetleri, kurumların hedef kitleleriyle dijital ortamlar üzerinden etkileşim kurmasını içerir. Bu kapsamda **kurumsal web sayfaları, sosyal medya platformları, SMS teknolojileri ve bloglar** gibi araçlar kullanılır. Billboardlar ise açık hava reklamcılığında kullanılan geleneksel bir araçtır ve dijital halkla ilişkiler kapsamına girmez.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi dijital eğitimin yararlarından biri değildir?**
     - A-) Öğretmenle öğrencinin aynı sınıfta bulunmak zorunda olmaması
     - B-) Eğitimin sisteme yüklenen videolar üzerinden gerçekleşmesi
@@ -134,7 +134,7 @@
 
     > **Açıklama:** Dijital eğitim, öğrenci ve öğretmenin aynı mekânda olma zorunluluğunu ortadan kaldırması, derslerin video gibi materyallerle sunulabilmesi sayesinde **zaman ve maliyet tasarrufu** gibi önemli yararlar sağlar. Ancak dijital eğitimin, geleneksel eğitime kıyasla başarı oranlarında kesin bir artış sağladığına dair genel bir bulgu metinde yer almamaktadır. Başarı, kullanılan yönteme ve öğrencinin motivasyonuna göre değişebilir.
 
-    ***
+    <hr />
 1. **McLuhan’ın yapmış olduğu sınıflama aşağıdaki sıralamalardan hangisidir?**
     - A-) Edebiyat çağı – Basım çağı – Kabilecilik çağı – Elektronik çağ
     - B-) Basım çağı – Kabilecilik çağı – Edebiyat çağı – Elektronik çağ
@@ -144,7 +144,7 @@
 
     > **Açıklama:** Marshall McLuhan'ın, insanlık tarihini iletişim araçlarındaki dönüşümlere göre yaptığı sınıflandırmanın doğru sıralaması şu şekildedir: **1. Kabilecilik Çağı** (sözlü kültür), **2. Edebiyat Çağı** (yazının icadı), **3. Basım Çağı** (matbaanın icadı), **4. Elektronik Çağ** (telgrafın icadı ve sonrası).
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi** **Masuda’nın bilginin evrimselleştirilmesi sınıflamasında yer alan devrimlerden biri değildir?**
     - A-) Basım devrimi
     - B-) Dil devrimi
@@ -154,7 +154,7 @@
 
     > **Açıklama:** Yoneji Masuda, insanlık tarihini bilginin nesnelleştirilmesi sürecine göre dört devrimle açıklar. Bunlar sırasıyla: **Dil Devrimi** , **Yazı Devrimi** , **Basım Devrimi** ve **Bilgisayar/İletişim Devrimi**'dir. Teknoloji devrimi, bu sınıflandırmada yer alan bir kategori değildir.
 
-    ***
+    <hr />
 1. **Sayısal uçurumun unsurları aşağıdakilerden hangisinde doğru verilmiştir?**
     - A-) Hizmete erişim eşitliği - Gizlilik
     - **Cevap B-) Hizmete erişim eşitliği- Bilgisayar okuryazarlığı**
@@ -164,7 +164,7 @@
 
     > **Açıklama:** Sayısal uçurum (dijital bölünme), bilgi ve iletişim teknolojilerine erişim ve kullanım imkânlarındaki farklılıkları ifade eder. Bu kavram iki temel boyutta ele alınır: Birincisi, altyapı yetersizlikleri gibi nedenlerle ortaya çıkan **hizmete erişim eşitliği** sorunudur. İkincisi ise, bireylerin teknolojik araçları kullanma becerisiyle ilgili olan **bilgisayar okuryazarlığı** boyutudur.
 
-    ***
+    <hr />
 1. **Aşağıdaki dijitalleşme önündeki engellerden hangisi “teknik kadro eksikliği” ve “finansman engeli”ne karşılık gelir?**
     - **Cevap A-) Kaynak yetersizliği**
     - B-) Gizlilik
@@ -174,7 +174,7 @@
 
     > **Açıklama:** Dijitalleşmenin önündeki engellerden biri olan **kaynak yetersizliği**, iki temel sorunu içerir : Birincisi, dijitalleşme için gerekli altyapıyı kuracak ve sürdürecek **teknik kadro ve yetişmiş insan gücü eksikliği**dir. İkincisi ise, bu süreçlerin gerektirdiği donanım ve yazılım için ayrılacak bütçeyi ifade eden **finansman engeli**dir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi bilginin basılı kitap yoluyla aktarılmaya başlandığı dönemdir?**
     - A-) El Yazmalı ya da Chirografik Kültür
     - B-) Elektrik ve Elektronik Devrimi
@@ -184,7 +184,7 @@
 
     > **Açıklama:** Bilginin basılı kitap yoluyla aktarılmaya başlandığı dönem, matbaanın icadıyla ilişkilendirilir. Bu dönem, Baldini'nin sınıflandırmasına göre **Gutenberg Devrimi ya da Tipografik Kültür** olarak adlandırılır. Bu dönem, bilginin daha kolay aktarımını ve bireysel bilgiye erişim olanağını sağlamıştır.
 
-    ***
+    <hr />
 1. **Telgrafın icadıyla birlikte bireysel ve toplumsal bilinçliliği ortaya koyan ve tüm insanların katılımına olanak tanıyan çağ aşağıdakilerden hangisidir?**
     - A-) Dijital Çağ
     - **Cevap B-) Elektronik Çağ**
@@ -194,7 +194,7 @@
 
     > **Açıklama:** McLuhan'ın tarihsel sınıflandırmasına göre, **telgrafın icadıyla** başlayan ve bireysel/toplumsal bilinçlenmeyi artırarak tüm insanların katılımına olanak tanıyan dönem **Elektronik Çağ**'dır. Bu çağ, radyo ve televizyon gibi araçlarla "yeniden kabileleşme"yi de beraberinde getirmiştir.
 
-    ***
+    <hr />
 1. I. Tarım Toplumu<br />II. Sanayi Toplumu<br />III. Bilgi Toplumu<br />IV. Dijital Toplum<br />**Yukarıdakilerden hangisi ya da hangileri Daniel Bell'in tarihsel sınıflandırmasında yer alır?**
     - A-) Yalnız I
     - B-) I ve III
@@ -204,7 +204,7 @@
 
     > **Açıklama:** Sosyolog Daniel Bell, toplumsal değişimi üretim anlayışındaki dönüşümlere göre üç aşamada sınıflandırır: **Tarım Toplumu** , **Sanayi Toplumu** ve **Bilgi Toplumu**. Dijital Toplum, bu sınıflandırmanın içinde doğrudan yer alan bir kategori değildir, ancak Bilgi Toplumu'nun bir uzantısı olarak düşünülebilir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sözlü kültürün hâkim olduğu dönemden yazının icat edildiği MÖ 4. yüzyıla kadar olan dönemi kapsamaktadır?**
     - **Cevap A-) El Yazmalı ya da Chirografik Kültür**
     - B-) Gutenberg Devrimi ya da Tipografik Kültür
@@ -214,7 +214,7 @@
 
     > **Açıklama:** Sözlü kültürün egemen olduğu dönemden, sessiz söz teknolojisi olan yazının icat edildiği M.Ö. 4. yüzyıla kadar olan dönemi kapsayan kültür, Baldini'nin sınıflandırmasına göre **El Yazmalı ya da Chirografik Kültür** olarak adlandırılır.
 
-    ***
+    <hr />
 ## Unite 2
 1. **Kişi veya grubun kendini tanımlaması ve kendini diğer kişi veya grup arasında konumlandırmasına ne denir?**
     - A-) Bellek
@@ -225,7 +225,7 @@
 
     > **Açıklama:** **Kimlik**, bir kişi veya grubun kendini nasıl tanımladığı ve diğerleri arasında kendini nasıl konumlandırdığıdır. Bu tanım, kişinin hem kendi gözündeki hem de diğerleriyle etkileşim içinde oluşan imajını ve sosyal alandaki yerini kapsar.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi dijital kimlik üzerine yapılan eleştirilerden biri değildir?**
     - **Cevap A-) Sanal gerçeklik**
     - B-) Gösteriş tüketimi
@@ -235,7 +235,7 @@
 
     > **Açıklama:** Dijital kimlik üzerine yapılan eleştiriler arasında **gösteriş tüketimi** , **her an her yerde görünür olma isteği** ve tüketim odaklı varoluşu ifade eden **"Tüketiyorum öyleyse varım"** mottosu yer almaktadır. Ayrıca sosyal medya dindarlığının gösterişçi bir biçim alması da bir eleştiri konusudur. **Sanal gerçeklik** ise Foucault'un bahsettiği, insanların kendilerini gördükleri ancak içinde var olmadıkları bir ortamı (dijital oyunlar, sosyal medya vb.) açıklayan bir terimdir ve doğrudan bir eleştiri olarak sunulmamıştır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi özdeşim kavramı için bir örnektir?**
     - A-) Evde misafir varken televizyon seyretmek
     - B-) Akıllı telefon ile oyun oynamak
@@ -245,7 +245,7 @@
 
     > **Açıklama:** **Özdeşim (identifikasyon)**, başkasını model alan bir kişinin, diğerinin kişiliğinin bir parçasını kendi kişiliğinin bir parçası yapma sürecidir. Dijital oyunlarda oyuncular, izleyici konumundan çıkarak baş aktör olarak hareket ederler ve sanal oyuncu ile özdeş olurlar. Bu durum, karakterin rolüne bürünerek onunla bir bütünleşmeyi ifade ettiği için özdeşime en uygun örnektir.
 
-    ***
+    <hr />
 1. **Günümüzde fotoğrafın en beğenilen özelliği aşağıdakilerden hangisidir?**
     - A-) Akıllı telefonların piksellerinin yüksek olması
     - B-) Fotoğrafların renkli olması
@@ -255,7 +255,7 @@
 
     > **Açıklama:** Günümüzde dijital fotoğraf teknolojilerinin gelişmesi ve internetin yaygınlaşmasıyla birlikte fotoğraf çekmek gündelik hayatın bir parçası haline gelmiştir. Özellikle sosyal medya ortamlarında fotoğrafların kolayca **paylaşılabilir** olması, onların en çok beğenilen ve kullanılan özelliği olmuştur.
 
-    ***
+    <hr />
 1. **İnternet kullanıcılarının sosyal medyada günlük yaşadığı olayları, fotoğraf, yazı ve metne dönüştürerek paylaşmasına ne ad verilir?**
     - A-) Sosyal Medya Profili
     - B-) Medya Okuryazarlığı
@@ -265,7 +265,7 @@
 
     > **Açıklama:** **Online benlik sunumu**, internet kullanıcılarının, özellikle sosyal medyada, günlük hayatında yaşadığı olayları fotoğraf, yazı ve metne dönüştürerek yayınlamasıdır. Bu, Erving Goffman'ın "günlük yaşamda benliğin sunumu" teorisinin dijital ortamlardaki bir yansımasıdır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi öz çekim kavramının tanımıdır?**
     - A-) Bir kişinin kısa filmler çekmesidir.
     - B-) Aile fotoğraflarından hikâye oluşturma türüdür.
@@ -275,7 +275,7 @@
 
     > **Açıklama:** **Öz çekim (selfie)**, herhangi bir kimsenin cep telefonuyla veya fotoğraf makinesi ile kendi fotoğrafını çekmesi ve bunu sosyal medya ortamlarında paylaşmasıdır. Bu, kişinin hem fotoğrafı çeken hem de çekilen olduğu bir fotoğraf türüdür.
 
-    ***
+    <hr />
 1. **Sosyal medyada anlık paylaşım olan ve genelde 24 saat içerisinde kaybolan iletişim aracı hangisidir?**
     - A-) Öz çekim
     - **Cevap B-) Sosyal medyada hikȃyeleştirme**
@@ -285,7 +285,7 @@
 
     > **Açıklama:** Sosyal medyanın **hikâyeleştirme (story)** özelliği, kullanıcıların video ya da fotoğraf gibi paylaşımlarını takipçileriyle paylaştıkları ve genellikle **24 saat içerisinde kaybolan** anlık paylaşımlardır. Bu özellik, kullanıcıların gündelik anlarını daha dinamik bir biçimde aktarmalarını sağlar.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi kişisel kimlik açısından sosyal medyada konumlandırma ile ilgili motivasyonlardan biri değildir?**
     - A-) Silinmeme ve gündemde kalma arzusu
     - B-) Dijital ortamda var olma arzusu
@@ -295,7 +295,7 @@
 
     > **Açıklama:** Bireylerin sosyal medyada bulundukları mekânı paylaşarak kendilerini konumlandırmalarının arkasında yatan motivasyonlar arasında; **göz önünde olma ve sesini duyurma** , **var olma arzusu** (beğenilme, fark edilme) , **gündemde kalma ve unutulma kaygısı** ile **tatmin edilemeyen haz endişesi** gibi faktörler bulunur. Konum atma (check-in) ise bu motivasyonların bir sonucu olarak gerçekleştirilen eylemin kendisidir, bir motivasyon kaynağı değildir.
 
-    ***
+    <hr />
 1. **Çoğunlukla siyasi konuların konuşulduğu ve gündem oluşturulduğu sosyal medya aracı aşağıdakilerden hangisidir?**
     - **Cevap A-) Twitter (X)**
     - B-) Instagram
@@ -308,7 +308,7 @@
     > * **Instagram:** Özel yaşantıları ve öz çekimleri paylaşmak
     > * **LinkedIn:** Mesleki özellikleri paylaşmak
 
-    ***
+    <hr />
 1. **A**şağıdakilerden hangisi s**osyal medya ortamlarında kişinin kimliği ile ilgili sanal mekânlardan biri değildir?**
     - **Cevap A-) E-devlet**
     - B-) Twitter
@@ -318,7 +318,7 @@
 
     > **Açıklama:** **Facebook, Twitter, Instagram ve LinkedIn** gibi sosyal medya mecraları, bireylerin kendi kimliklerini oluşturdukları ve yansıttıkları sanal mekânlardır. E-devlet ise, kamu hizmetlerinin elektronik ortamda sunulduğu bir platform olup, kişisel kimlik inşasından ziyade resmi kimlik bilgilerinin kullanıldığı bir hizmet arayüzüdür.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi “tüketiyorum öyleyse varım” mottosunun özelliklerinden biri değildir?**
     - A-) Kişinin giyim tarzını sürekli sosyal medyada paylaşması
     - B-) Kişinin gittiği restoranları sosyal medyada paylaşması
@@ -328,7 +328,7 @@
 
     > **Açıklama:** **"Tüketiyorum öyleyse varım"** mottosu, bireylerin kimliklerini ve toplumsal statülerini tükettikleri nesneler üzerinden sergileme eğilimini ifade eder. Bu bağlamda, tükettikleri lüks marka elbiseleri, yemek yedikleri pahalı restoranları veya gezdikleri uzak yerleri sosyal medyada paylaşmak bu anlayışa örnektir. Çalıştığı kurumun web sitesini paylaşmak ise doğrudan bir tüketim göstergesi değildir.
 
-    ***
+    <hr />
 1. **Simülasyon kavramını aşağıdaki yazarlardan hangisi ortaya atmıştır?**
     - **Cevap A-) Jean Baudrillard**
     - B-) Manuel Castell
@@ -338,7 +338,7 @@
 
     > **Açıklama:** **Simülasyon** kavramını ortaya atan düşünür **Jean Baudrillard**'dır. Baudrillard'a göre simülasyon, köken ya da gerçeklikten yoksun gerçek modeller aracılığıyla gerçeğin türetilmesidir. Sosyal medyadaki gerçekliğin yerini simülasyonlara bıraktığını savunur.
 
-    ***
+    <hr />
 1. **İnternet kullanıcılarının sosyal medya ortamlarında günlük yaşantılarını yazı, fotoğraf, video gibi araçlarla paylaşmasına ne ad verilir?**
     - A-) Benlik
     - B-) Sunum
@@ -348,7 +348,7 @@
 
     > **Açıklama:** İnternet kullanıcılarının sosyal medya ortamlarında günlük yaşantılarını yazı, fotoğraf, video gibi araçlarla paylaşmasına **Online Benlik Sunumu** denir. Bu, Erving Goffman'ın "günlük yaşamda benliğin sunumu" teorisinin dijital ortamlardaki bir yansımasıdır.
 
-    ***
+    <hr />
 1. İnsanların sosyal medya ortamlarında kendisi ile ilgili sürekli paylaşımda bulunarak kişinin kendisini aşırı beğenme durumu ortaya çıkabilir.<br />**Bu yargıyı aşağıdaki kavramlardan hangisi açıklamaktadır?**
     - A-) Üretim yeteneği (yaratıcılık)
     - **Cevap B-) Narsisizm**
@@ -358,7 +358,7 @@
 
     > **Açıklama:** İnsanların sosyal medya ortamlarında sürekli kendileriyle ilgili paylaşımda bulunarak aşırı beğenilme arzusu içinde olmaları durumu, kullanıcıları "**narsisizm kültürüne**" yöneltmektedir. Sürekli takdir ve beğeni ile yaşayan bireyin zamanla narsisistik özellikleri ön plana çıkmaktadır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi bireylerin sosyal medyada bulunduğu mekânla iletmek istediği alt mesajları konumlandırma ve bu eylemlerde bulunmanın motivasyonlarından biri değildir?**
     - A-) Göz önünde olma, sesini duyurma, sosyal medyada görünür olma, bu sebeple ayrıcalık oluşturma
     - B-) Var olma arzusu
@@ -368,7 +368,7 @@
 
     > **Açıklama:** Bireylerin sosyal medyada bulundukları mekânla iletmek istediği alt mesajları konumlandırma ve bu eylemlerde bulunmalarının motivasyonları arasında şunlar yer alır : Göz önünde olma, sesini duyurma , var olma arzusu , silinmeme ve gündemde kalma kaygısı ve tatmin edilemeyen haz endişesi. Sosyal kimliğin doğrulanması, metinde listelenen motivasyonlardan biri değildir.
 
-    ***
+    <hr />
 1. **Sosyal medyada kişinin kendisi tarafından fotoğraf veya videolardan oluşturulan ve günlük (geçici) olarak yayınlanan iletişim aracı aşağıdakilerden hangisidir?**
     - **Cevap A-) Sosyal medyanın “hikâye” (story) özelliği**
     - B-) Sosyal medyanın reklam özelliği
@@ -378,7 +378,7 @@
 
     > **Açıklama:** Sosyal medyanın **"hikâye" (story)** özelliği, kullanıcıların fotoğraf ya da video gibi paylaşımlarını takipçileriyle paylaştıkları ve genellikle **24 saat içerisinde kaybolan** anlık paylaşımlardır. Bu, geçici olma özelliğiyle öne çıkar ve kullanıcıların daha gündelik anlarını paylaşmasına olanak tanır.
 
-    ***
+    <hr />
 1. **LinkedIn sosyal medya aracı kişinin kimliğinin hangi özelliğini göstermektedir?**
     - A-) Kişinin siyasi söylemini
     - **Cevap B-) Kişinin iş çevresini**
@@ -388,7 +388,7 @@
 
     > **Açıklama:** **LinkedIn** sosyal medya aracı, bireylerin **mesleki özelliklerini ve iş çevresini** paylaşmak için kullandıkları profesyonel bir sosyal ağdır. Diğer sosyal medya araçları genellikle farklı kimlik sunumlarına odaklanır; örneğin Twitter siyasi söylemler için, Instagram ise özel yaşantılar için kullanılır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi bir kişinin ya da grubun kendini dijital (sanal) ortamda tanımlaması, kendisini kişi veya grubun da içerisinde konumlandırmasıdır?**
     - A-) Kimlik
     - B-) Konumlandırma
@@ -398,7 +398,7 @@
 
     > **Açıklama:** **Dijital kimlik**, bir kişinin ya da grubun kendini dijital (sanal) ortamda tanımlaması, kendisini kişi veya grup içerisinde konumlandırmasıdır. Bu, kişinin dijital ortamda fotoğraf, video ve metin gibi içerikler paylaşarak kendini ifade etmesiyle gerçekleşir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi Baudrillard'a göre köken ya da gerçeklikten yoksun gerçeğin modeller aracılığıyla türetilmesidir?**
     - A-) Sanal gerçeklik
     - **Cevap B-) Simülasyon**
@@ -408,7 +408,7 @@
 
     > **Açıklama:** Jean Baudrillard'a göre **simülasyon**, köken ya da gerçeklikten yoksun gerçeğin modeller aracılığıyla türetilmesidir. Bu, sahip olunmayan bir şeye sahipmiş gibi davranma (simüle etme) durumudur ve gerçek ile gerçek olmayanın ayırt edilemediği bir hali ifade eder.
 
-    ***
+    <hr />
 1. I. Öz çekim<br />II. Sosyal medya anlatısı<br />III. Dijital mekânlar<br />**Yukarıdakilerden hangisi ya da hangileri dijital kimlik donanımlarının en önemlileri arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız III
@@ -418,7 +418,7 @@
 
     > **Açıklama:** Sanal ortamlardaki dijital kimlik donanımlarından en önemlileri; kişinin kendi fotoğrafını çekip paylaşması olan **öz çekim (selfie)**, günlük yaşantıların anlık olarak paylaşıldığı **sosyal medya anlatısı (hikaye)** ve kişinin kendini ifade etmek için kullandığı **dijital mekânlardır**.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sosyal medya benlik sunum araçlarının en önemlilerinden biri değildir?**
     - A-) Instagram
     - B-) Facebook
@@ -428,7 +428,7 @@
 
     > **Açıklama:** Metne göre, sosyal medya benlik sunum araçlarından en önemlileri **Facebook, Instagram, Twitter ve Youtube** olarak görülmektedir. LinkedIn ise daha çok mesleki özelliklerin paylaşıldığı bir platform olarak ayrışır ve metinde bu dört platform kadar öne çıkarılmamıştır.
 
-    ***
+    <hr />
 ## Unite 3
 1. ………………………………. genellikle, kullanıcılar, izleyiciler, tüketiciler ve taraftarların içerik ve kültür oluşturmasına dâhil olmasını belirtmek için kullanılan bir kavramdır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - **Cevap A-) Katılımcı kültür**
@@ -439,7 +439,7 @@
 
     > **Açıklama:** Ders notlarında belirtildiği gibi, **katılımcı kültür**, genellikle kullanıcıların, izleyicilerin, tüketicilerin ve taraftarların içerik ve kültür oluşturmasına dâhil olmasını ifade eden bir kavramdır. Bu, gönderici ve alıcının net olduğu geleneksel tek yönlü iletişim modelinin karşısında yer alır.
 
-    ***
+    <hr />
 1. 1980 öncesi doğan teknolojiyi faydalanma aracı olarak gören, ancak son zamanlarda bilgi edinme dışında eğlenmek ve sohbet etmek için kullanan insanların oluşturduğu kuşaktır. Resim, ses ve video içeriklerinin kullanıcısı olmayı tercih eden, insanlarla iletişim kurarken telefonda veya şahsen konuşmayı tercih eden, bilgiyi yavaşça almayı tercih eden kuşaktır.<br />**Yukarıdaki dijital kuşak tanımı hangisine aittir?**
     - A-) Dijital yerliler
     - B-) Melezler
@@ -449,7 +449,7 @@
 
     > **Açıklama:** Metinde bu kuşak şu şekilde tanımlanmıştır: "**Dijital Göçmenler**: 1980 öncesi doğan, teknolojiyi faydalanma aracı olarak gören, ... insanlarla iletişim kurarken telefonda veya şahsen konuşmayı tercih eden ve bilgiyi yavaşça almayı tercih eden bir kuşaktır."
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi gösterge kavramının tanımıdır?**
     - **Cevap A-) Kendi dışında bir şeyi temsil eden ve bu temsil ettiği şeyin yerini alabilecek nitelikte olan herhangi bir biçim, nesne, olgu, vb. olarak tanımlanmaktadır.**
     - B-) Dijital platformlarda kullanıcıları birbirine bağlayan ağ sistemidir.
@@ -459,7 +459,7 @@
 
     > **Açıklama:** **Gösterge**, ders notlarında "kendi dışında bir şeyi temsil eden ve bu temsil ettiği şeyin yerini alabilecek nitelikte olan herhangi bir biçim, nesne, olgu, vb." olarak tanımlanmaktadır. Sözcükler, simgeler ve işaretler bu tanıma uyan gösterge örnekleridir.
 
-    ***
+    <hr />
 1. **Emoji kavramı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
     - A-) Emoji kavramı Japoncadan İngilizceye uyarlanmıştır. Emojinin Japonca (絵文字) “e” resim anlamına, “moji” ise harf, karakter anlamına gelmektedir.
     - B-) Kelimenin kendisi hem tekil hem de çoğul olarak kullanılmaktadır. Bu yüzden emoji kelimesinin anlamı basitçe “resim-kelime” olarak adlandırılabilir.
@@ -469,7 +469,7 @@
 
     > **Açıklama:** Emoji, dijital iletişimin önemli bir parçasıdır. Japoncadan gelen ve "resim-kelime" anlamına gelen emoji, mizahi bir tanıtım aracı olabilir ve sıklıkla emotikonlarla karıştırılır. Ancak, ders notlarında belirtildiği gibi marka yöneticileri emojileri "reklam stratejilerinde kullanmakta... mesaj oluşturmadan ambalajlamaya kadar **pazarlamanın bütün aşamalarında** kullanılmasını önermektedir ". Bu nedenle E seçeneğindeki ifade yanlıştır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi emojilerin özelliklerinden biri değildir?**
     - A-) Tarihi zengin ve karmaşıktır.
     - B-) İletişim boyutu vardır.
@@ -479,7 +479,7 @@
 
     > **Açıklama:** Metne göre emojilerin birçok temel özelliği vardır: Zengin ve karmaşık bir tarihe sahiptirler , iletişim boyutu taşırlar , algılama etkisini güçlendirirler ve toplumu tembelliğe itebilirler. Ayrıca, emojiler "nesnelerin, **hayvanların**, yiyecek yerlerinin ya da olayların temsillerine kadar geniş bir anlam aralığını" kapsamaktadır. Bu nedenle "Hayvanlar için emoji kullanılamaz" ifadesi yanlıştır.
 
-    ***
+    <hr />
 1. **Emotikon kavramı ile ilgili olarak aşağıda verilenlerden hangisi doğrudur?**
     - A-) Emotikon yalnız noktalama işaretlerinden oluşur.
     - B-) Emotikon yalnız sayılardan oluşur.
@@ -489,7 +489,7 @@
 
     > **Açıklama:** Emotikonlar (his simgeleri), emojilerden farklıdır. 1982'de ortaya çıkmışlardır ve noktalama işaretleri, sayılar ve harflerden oluşan metin tabanlı sembollerdir. Metinde belirtildiği gibi, "Onlar **ASCII (American Standart Code for Information Intercange)** karakterleri kullanan kullanıcılar tarafından oluşturulmuş metin tabanlı sembollerdir."
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi dijital göçmenlerin özelliklerinden biridir?**
     - **Cevap A-) İnterneti sadece bir şeyler öğrenmek için kullanmaktadır.**
     - B-) İnternet ortamında sosyal medyayı rahatlıkla kullanmaktadır.
@@ -499,7 +499,7 @@
 
     > **Açıklama:** Metinde **dijital göçmenler** (1980 öncesi doğanlar), teknolojiyi bir faydalanma aracı olarak gören, ancak temel amaçlarının bilgi edinme olduğu bir kuşak olarak tanımlanır. Eğlenmek ve sohbet etmek için de kullansalar da, içerik üretmek veya sosyal medyayı rahatlıkla kullanmak gibi özellikler daha çok dijital yerlilere aittir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi emoji ile ilgili özelliklerden değildir?**
     - A-) Emoji bir nesneyi temsil eder.
     - **Cevap B-) Emojiyi herhangi bir ülke oluşturamaz.**
@@ -509,7 +509,7 @@
 
     > **Açıklama:** Emojiler bir nesneyi veya duyguyu temsil edebilir ve kültürel farklılıklara göre anlamları değişebilir. Ancak, ders notlarında belirtildiği gibi, emojiler evrensel bir dil olma yolundadır ve "Farklı kültüre sahip ülkeler **kendi emojilerini oluşturabilmektedirler**." Bu nedenle, herhangi bir ülkenin emoji oluşturamayacağı ifadesi yanlıştır.
 
-    ***
+    <hr />
 1. **“Kulağın göze teslimi” olarak ortaya atılan yargının anlamı aşağıdakilerden hangisidir?**
     - A-) Göz kulaktan daha önemlidir.
     - **Cevap B-) Sözlü kültür yerine yazılı kültürün değeri artmıştır.**
@@ -519,7 +519,7 @@
 
     > **Açıklama:** Ders notlarında, Ong (2018)'den alıntılanarak matbaanın icadı sonrası dönem için **"kulağın göze teslimi"** ifadesi kullanılmıştır. Bu ifade, sözlü kültürün yerini yazılı kültüre bırakmasını, yani bilginin ve iletişimin işitmekten çok görmeye dayalı hâle gelmesini simgeler.
 
-    ***
+    <hr />
 1. **1980 sonrası doğan, dijital araçlara aşina olan ve rahatlıkla içerik üretebilen kuşak aşağıdakilerden hangisidir?**
     - A-) Dijital göçmenler
     - **Cevap B-) Dijital yerliler**
@@ -529,7 +529,7 @@
 
     > **Açıklama:** Metne göre, teknolojik araçları kendi yaşantısı içinde dijital bir dile çevirerek kullanan, **1980 sonrası** dünyaya gelmiş olan nesle **"dijital yerliler"** ismi verilmiştir. Bu nesil, teknolojiyi hayatın bir gerekliliği olarak görür ve rahatlıkla içerik üretebilir.
 
-    ***
+    <hr />
 1. **Emoji kavramı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
     - A-) Emojiler canlı ve cansız varlıkları temsil edebilir.
     - B-) Emojiler insanları tembelleştirebilir.
@@ -539,7 +539,7 @@
 
     > **Açıklama:** Emojiler, canlı ve cansız varlıkları temsil edebilir , insanları tembelleştirebilir ve kültürel farklılıklar nedeniyle yanlış anlaşılabilir. Emotikonlardan farklıdırlar. Metinde "Giderek emoji sayısında ve kullanıcılarında yaşanan artış nedeniyle her işletim sistemi güncellemesinde yenilerinin eklendiği de bilinmektedir" ifadesi yer almaktadır. Bu durum emojilerin **çoğaltılabileceğini** gösterir, bu nedenle D seçeneği yanlıştır.
 
-    ***
+    <hr />
 1. **Kitle iletişiminde detaylı açıklanması gereken bir durumda iletişimi emoji ile sonuçlandırmak emojinin hangi özelliğini gösterir?**
     - **Cevap A-) İnsanları tembelliğe götürdüğü**
     - B-) İnsanları iş yapmada hızlandırdığı ve zamandan kazandırdığı
@@ -549,7 +549,7 @@
 
     > **Açıklama:** Ders notlarında, "Emojiler duygu durumunu güçlendirmek yerine sözcüklerle ifade etmekten sakındığımız durumları geçiştirmek için de sıklıkla kullanılmaktadır. Bu da toplumun dil gelişimi noktasında **tembelleşmesine zemin hazırlamaktadır**" ifadesi yer almaktadır. Dolayısıyla, detaylı açıklama gereken bir durumu emoji ile geçiştirmek, bu tembellik özelliğine bir örnektir.
 
-    ***
+    <hr />
 1. **Kişinin otomobili alamadığı bir reklam filminde otomobilin logosuna “üzgün insan” emojisi yerleştirmek emojinin hangi özelliğini gösterir?**
     - A-) Simgesel boyutu
     - **Cevap B-) Mizahi boyutu**
@@ -559,7 +559,7 @@
 
     > **Açıklama:** Metinde emojilerin temel özelliklerinden biri olarak **Mizahi Tanıtım Aracı** olmaları belirtilmiştir. Verilen örnekte de, gerçek bir otomobil reklamı yerine "üzgün surat" emojisinin kullanılması, duruma esprili ve mizahi bir boyut katmaktadır.
 
-    ***
+    <hr />
 1. Diğer kitle iletişim araçları gibi izleyici ve dinleyici kitlesine ulaşma olanağına sahip fakat mesaj üretiminin kişinin kendisine bağlı olduğu, mesajın alımını kendisinin yönlendirdiği, elektronik ağlarda içerik kabulü ve bir araya getirme işini kişinin kendi seçimlerine dayandığı karşılıklı etkileşime dayalı iletişim şeklidir.<br />**Bu tanım aşağıdakilerden hangisine aittir?**
     - A-) Kitle iletişimi
     - B-) Kişiler arası iletişim
@@ -569,7 +569,7 @@
 
     > **Açıklama:** Ders metninde Castells'e (2016) atıfla yapılan tanım şöyledir: "**Kitlesel öz iletişim** ise diğer kitle iletişim araçları gibi izleyici ve dinleyici kitlesine ulaşma olanağına sahip fakat mesaj üretiminin, kişinin kendisine bağlı olduğu... karşılıklı etkileşime dayalı iletişim şeklidir." Bu tanım, soruda verilen ifadeyle birebir örtüşmektedir.
 
-    ***
+    <hr />
 1. **Kişinin kendisine bağlı olduğu, mesajın alımını kendisinin yönlendirdiği, elektronik ağlarda içerik kabulü ve bir araya getirme işinin kişinin kendi seçimlerine dayandığı karşılıklı etkileşime dayalı iletişim şekli aşağıdakilerden hangisidir?**
     - A-) Kişiler arası iletişim
     - **Cevap B-) Kitlesel öz iletişim**
@@ -579,7 +579,7 @@
 
     > **Açıklama:** Metinde açıklandığı üzere, mesaj üretiminin kişiye bağlı olduğu, mesajın alımını kendisinin yönlendirdiği ve elektronik ağlarda içerik seçimlerinin kişisel olduğu iletişim şekli Castells tarafından **"kitlesel öz iletişim"** olarak tanımlanmıştır. Bu, bireyin hem yayıncı hem de alıcı olduğu yeni medya dönemine özgü bir iletişim biçimidir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi hızın önem kazandığı tüketim toplumunun içine doğan, hızlı yemek yiyen, hızlı iş değiştiren, hızlı okuyan, nihayetinde hızlı yazan, sabırsız olarak tanımlanan kuşaktır?**
     - A-) X kuşağı
     - **Cevap B-) Z kuşağı**
@@ -589,7 +589,7 @@
 
     > **Açıklama:** Ders notlarında, "hızın önem kazandığı tüketim toplumunun içine doğmuştur. Hızlı yemek yiyen, hızlı iş değiştiren, hızlı okuyan, nihayetinde hızlı yazan, sabırsız bir kuşak olarak nitelendirilmektedir" ifadeleriyle tanımlanan kuşak **Z kuşağıdır** (1990 yılından sonra doğanlar).
 
-    ***
+    <hr />
 1. **Kulağın göze teslimi davranışı yerine, insanın görsele teslim olma davranışını ortaya çıkaran teknolojik gelişme aşağıdakilerden hangisidir?**
     - A-) Elektronik kültür
     - B-) Tipografik kültür
@@ -599,7 +599,7 @@
 
     > **Açıklama:** Ders notlarında, matbaanın icadıyla sözlü kültürden yazılı kültüre geçişin **"kulağın göze teslimi"** olarak ifade edildiği belirtilmektedir. Devamında ise, günümüzde Facebook, Twitter, YouTube gibi **sosyal medya araçlarının** yaygınlaşmasıyla bu durumun bir adım daha ileri giderek **"insanın görsele teslim olması"** davranışına dönüştüğü açıklanmaktadır. Bu araçlar, iletişimi metinden çok fotoğraf, video gibi görsel öğelere dayalı hâle getirmiştir.
 
-    ***
+    <hr />
 ## Unite 4
 1. Gelişimi kısa bir süre içerisinde gerçekleşen ve insan hayatına hızlı bir giriş yapan bilgisayar ve elektronik sistemlerinde gerçek dünya bilgisinin ikili sayı formuna dönüştürülerek kullanılmasını ifade etmek için kullanılan bir kavramdır.<br />**Bu tanım aşağıdakilerden hangisine aittir?**
     - A-) İnternet
@@ -610,7 +610,7 @@
 
     > **Açıklama:** Ders notlarında bu kavram doğrudan şu şekilde tanımlanmıştır: "**Dijital**, gelişimi kısa bir süre içerisinde gerçekleşen ve insan hayatına hızlı bir giriş yapan bilgisayar ve elektronik sistemlerinde gerçek dünya bilgisinin ikili sayı formuna dönüştürülerek kullanılmasını ifade etmek için kullanılan bir kavramdır.". Bu süreç aynı zamanda "sayısallaştırma" olarak da bilinir.
 
-    ***
+    <hr />
 1. **Bilgi toplumu kavramının en önemli özelliği aşağıdakilerden hangisidir?**
     - **Cevap A-) Bilgi toplumunun temelinde bilgi vardır ve bu dönemde bilgi en önemli güçtür.**
     - B-) Bilgi toplumu kavramı sanayi devriminden önceki toplumu ifade etmektedir.
@@ -620,7 +620,7 @@
 
     > **Açıklama:** Metinde belirtildiği üzere, "Bilginin önemli bir güç olarak karşımıza çıktığı bu çağda, bu gücün gelişmesindeki en önemli nedeninin iletişim teknolojileri olduğu inkâr edilemez bir gerçektir.". Bilgi toplumu, önceki dönemlerden farklı olarak bilginin kendisini en temel güç ve üretim faktörü olarak merkeze alır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi yeni iletişim teknolojilerinin özelliklerinden biri değildir?**
     - A-) Kitlesizleştirme
     - B-) Kişiselleştirme
@@ -630,7 +630,7 @@
 
     > **Açıklama:** Yeni iletişim teknolojilerinin temel özellikleri arasında; farklı medya türlerini birleştiren **yöndeşme** , kullanıcı katılımını sağlayan **etkileşim** , bireysel mesajlaşmaya olanak tanıyan **kitlesizleştirme** ve içeriğin kullanıcıya göre ayarlanabildiği **kişiselleştirme** bulunur. Bu teknolojiler, sınırlı içerik yerine neredeyse sonsuz bir içerik evreni sunar, bu yüzden "sınırlı içerik" bir özelliği değildir.
 
-    ***
+    <hr />
 1. **A**şağıdakilerden hangisini y**öndeşme kavramını ifade etmektedir?**
     - **Cevap A-) Yeni iletişim teknolojilerinin geleneksel medyanın özelliklerini barındırması**
     - B-) İnternet teknolojilerinin kullanıcıları yönlendirmesi
@@ -640,7 +640,7 @@
 
     > **Açıklama:** Ders notlarında **yöndeşme** şu şekilde açıklanmıştır: "Bilgisayar ve internet teknolojileri, bu teknolojilerin gelişiminden önce geleneksel olarak adlandırılan gazete, radyo, televizyon gibi birçok iletişim aracının özelliklerini bünyesinde barındıran bir sisteme sahiptir.". Yani farklı medya teknolojilerinin tek bir araçta birleşmesidir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi dijital yerlilerden oluşan yeni kuşak öğrencilerin temel özelliklerinden biri değildir?**
     - A-) Aynı anda birçok işi yapmak isterler.
     - **Cevap B-) Dijital ortamlarda oyunlar yerine ciddi çalışmaları tercih ederler.**
@@ -650,7 +650,7 @@
 
     > **Açıklama:** Metne göre dijital yerliler (yeni kuşak öğrenciler), aynı anda birçok işi yapmak ister, bilgiye hızla ulaşmayı hedefler ve metin yerine grafiği tercih ederler. Ayrıca "Dijital ortamlarda ciddi çalışmalar yerine **oyunları tercih ederler**" ifadesi bulunmaktadır. Bu nedenle B seçeneği bu kuşağın özelliklerinden biri değildir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi dijital göçmenlerin özelliklerinden biri değildir?**
     - A-) İnternet ve internet ile ilişkili teknolojilerle hayatlarının daha geç dönemlerinde tanışan kişilerdir.
     - B-) 1980 öncesi doğan nesli tanımlamak için kullanılmaktadır.
@@ -660,7 +660,7 @@
 
     > **Açıklama:** Metinde **dijital göçmenler**, 1980 öncesi doğan ve internet gibi teknolojilerle hayatlarının daha geç dönemlerinde tanışan kişiler olarak tanımlanır. Eski alışkanlıklarını korurlar ve hem geleneksel hem de yeni medyayı kullanırlar. "Doğdukları andan itibaren teknoloji ile donatılmış kişilerdir" tanımı ise dijital göçmenlere değil, **dijital yerlilere** aittir.
 
-    ***
+    <hr />
 1. **Dijital melezler ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
     - A-) Dijital yerlilere ve dijital göçmenlere özellik olarak hem benzemekte hem de benzememektedirler.
     - B-) Tüm dijital olanaklardan faydalanan dijital melezler bu olanakları iyi ve etkin bir biçimde kullanma noktasında dijital yerlilere göre daha gerilerdir.
@@ -670,7 +670,7 @@
 
     > **Açıklama:** **Dijital melezler**, hem dijital yerlilerin hem de dijital göçmenlerin özelliklerini taşıyan bir ara kuşaktır. Teknolojiyi kullanırlar ancak dijital yerliler kadar yetkin değillerdir; aynı zamanda dijital göçmenler kadar da teknolojiye dirençli değillerdir . "Teknoloji vazgeçilmez bir olgudur" ifadesi, teknolojinin içine doğan **dijital yerlilerin** temel özelliğidir ve dijital melezleri tam olarak tanımlamaz.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi Z kuşağının bir özelliğidir?**
     - **Cevap A-) Kuşaklar içerisinde teknolojiye en yatkın, değişime en açık kuşaktır.**
     - B-) Geçiş dönemi çocukları olarak adlandırılırlar.
@@ -680,7 +680,7 @@
 
     > **Açıklama:** Metinde **Z Kuşağı** (2000 ve sonrası doğanlar), "şu anki kuşaklar içinde teknolojiye en yatkın, değişimlere çok açık ve teknolojiyi yaşamın asli bir unsuru gibi gören bir nesildir" şeklinde tanımlanmaktadır. Bu, onları teknolojiyle en bütünleşmiş kuşak yapar.
 
-    ***
+    <hr />
 1. “Vietnam savaşı, Kennedy suikastı, cinsel devrim ve sivil haklar isyanı gibi önemli toplumsal olayları yaşayan bu kuşak, ağırlıkla gazete, radyo ve sinema gibi geleneksel kitle iletişim araçlarını kullanmışlardır.”<br />**Bu cümlede tanımlanan kuşak aşağıdakilerden hangisidir?**
     - A-) X kuşağı
     - B-) Y kuşağı
@@ -690,7 +690,7 @@
 
     > **Açıklama:** Soruda bahsedilen toplumsal olaylar (Vietnam Savaşı, Kennedy suikastı vb.) ve ağırlıklı olarak geleneksel kitle iletişim araçlarını (gazete, radyo, sinema) kullanmaları, metinde **Baby Boomerlar** (1945-1964) kuşağı için verilen tanıma uymaktadır .
 
-    ***
+    <hr />
 1. “Enformasyon çağının yeni kamusal alanı olan internet ve dijital alanda gerçek veya sanal kimlikleri ile var olan bireyler” **için kullanılan tanımlama aşağıdakilerden hangisidir?**
     - A-) Yurttaş
     - **Cevap B-) Nettaş**
@@ -700,7 +700,7 @@
 
     > **Açıklama:** Metinde, "enformasyon çağının yeni kamusal alanı olan internet ve dijital alanda gerçek veya sanal kimlikleri ile var olan her birey **'nettaş'** olarak isimlendirilmektedir" denilmektedir. Bu kavram, klasik yurttaşlık kavramının dijital dönüşümünü ifade eder.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi bilgi toplumunun diğer isimlerinden biri değildir?**
     - A-) Enformasyon toplumu
     - **Cevap B-) Sanayi toplumu**
@@ -710,7 +710,7 @@
 
     > **Açıklama:** Dijital gelişimin olduğu döneme; **Bilgi Toplumu/Çağı, Enformasyon Toplumu/Çağı, İnternet Toplumu/Çağı, Bilişim Çağı ve Dijital Çağ** gibi pek çok farklı isim verilmiştir. Sanayi toplumu ise bu dönemden önceki, makineleşmeye dayalı dönemi ifade eder.
 
-    ***
+    <hr />
 1. **Yeni iletişim teknolojileri olarak adlandırılan iletişim araçlarının gelişimine hangi gelişmeler öncülük etmiştir?**
     - **Cevap A-) Bilgisayar ve internet alanındaki gelişmeler**
     - B-) Sağlık alanındaki gelişmeler
@@ -720,7 +720,7 @@
 
     > **Açıklama:** Metinde açıkça belirtildiği gibi, "Yeni iletişim teknolojileri olarak adlandırılan iletişim araçlarının gelişimine **bilgisayar ve internet alanındaki gelişmeler** öncülük etmiştir.". Bu iki teknoloji, dijital dönüşümün temelini oluşturur.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi Web 2.0 teknolojisinin özellikleri arasında değerlendirilemez?**
     - A-) Çift yönlü iletişimin mümkün olması
     - B-) Kullanıcının içerik üretebilmesi
@@ -730,7 +730,7 @@
 
     > **Açıklama:** **Web 2.0**; çift yönlü iletişim, kullanıcının içerik üretmesi ve sosyal katılım gibi özellikleriyle interaktif (etkileşimli) bir yapıya sahiptir. Anlamsal web (semantic web) teknolojisi ise, makinelerin de veriyi anlayıp yorumlayabildiği **Web 3.0** döneminin bir özelliğidir.
 
-    ***
+    <hr />
 1. Her kuşağın yaşamı algılama biçimleri, farklı iletişim kurma ve kullanma tarzlarıyla kendine özgü özellikleri bulunmaktadır.<br />**Aşağıdakilerden hangisi literatürde yer alan kuşak sınıflandırması içerisinde yer almaz?**
     - A-) Baby boomerlar
     - **Cevap B-) W kuşağı**
@@ -740,7 +740,7 @@
 
     > **Açıklama:** Literatürde kuşaklar genellikle doğum yılları ve o dönemin önemli olaylarına göre sınıflandırılır. Metinde bu sınıflandırma şu şekilde verilmiştir: **Baby Boomerlar (1945-1964), X Kuşağı (1965-1979), Y Kuşağı (1980-1999) ve Z Kuşağı (2000 ve sonrası)**. W kuşağı bu sınıflandırmada yer almamaktadır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi dijital yerlilerin özelliklerinden değildir?**
     - A-) 1980 ve sonrasında doğanları ifade etmek için kullanılır.
     - B-) Doğdukları andan itibaren teknoloji ile iç içedirler.
@@ -750,7 +750,7 @@
 
     > **Açıklama:** **Dijital yerliler**, 1980 sonrası doğan, teknolojiyle iç içe büyümüş ve dijital araçları hayatlarının doğal bir parçası olarak gören nesildir. Eski alışkanlıklarını koruma eğilimi ise teknolojiyi sonradan öğrenen **dijital göçmenlerin** bir özelliğidir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi mekânın, bedenin ve normların bulanıklaştığı yeni iletişim ortamlarında bireylerin yeni bağlarını tanımlamak için kullanılan kavramlardan biri değildir?**
     - **Cevap A-) Yurttaş**
     - B-) Nettaş
@@ -760,7 +760,7 @@
 
     > **Açıklama:** Metinde, dijitalleşme ile birlikte ortaya çıkan yeni yurttaşlık biçimini tanımlamak için **"Nettaş, siber yurttaş, dijital yurttaş, çevrim içi yurttaş"** gibi kavramların kullanıldığı belirtilmektedir. "Yurttaş" ise modern devletin klasik vatandaşlık tanımıdır ve bu yeni dönüşümü ifade etmez.
 
-    ***
+    <hr />
 1. **Günümüz toplumlarında klasik anlamdaki yurttaşlık tanımının değişmesindeki ana faktör nedir?**
     - **Cevap A-) Yeni iletişim teknolojilerinin iletişim alanında meydana getirdiği dönüşümler**
     - B-) Yurttaşlık kavramının önemini yitirmesi
@@ -770,7 +770,7 @@
 
     > **Açıklama:** Metinde belirtildiği gibi, "izleyici kavramsallaştırmasının literatürdeki değişimini ve yurttaşlık meselesini nasıl etkilediğini değerlendirirken... **yeni medya teknolojilerinin iletişim alanında meydana getirdiği dönüşümlerle** yakından ilişkilidir.". Bu teknolojiler, bireyi pasif izleyicilikten aktif katılımcılığa (nettaş) dönüştürmüştür.
 
-    ***
+    <hr />
 1. **Geçiş dönemi çocukları olarak adlandırılan ve radyonun altın yıllarından sonra olağanüstü derecede ilgi gören televizyonun yaygınlaştığı bir döneme karşılık gelen kuşak aşağıdakilerden hangisidir?**
     - A-) Baby Boomerlar
     - B-) Y kuşağı
@@ -780,7 +780,7 @@
 
     > **Açıklama:** Metinde **X Kuşağı** (1965-1979) için "Geçiş dönemi çocukları olarak adlandırılan bu kuşağın o şekilde adlandırılmasının nedeni... televizyonun yaygınlaştığı bir döneme karşılık gelmektedir" ifadeleri kullanılmıştır. Bu kuşak, geleneksel medyanın pasif izleyici tipinin hâkim olduğu bir dönemde büyümüştür.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi ağ tasarımının öncülük ettiği zaman dilimi, HTML dil kodlaması, Netspace, Navigator gibi hantal tarayıcılar ve karmaşık arama motorlarının olduğu çağdır?**
     - **Cevap A-) Web 1.0**
     - B-) Web 2.0
@@ -790,7 +790,7 @@
 
     > **Açıklama:** İnternet teknolojisinin ilk dönemi olan **Web 1.0**, metinde "ağ tasarımının öncülük ettiği bu zaman dilimi, HTML dil kodlaması, Netspace, Navigator gibi hantal tarayıcılar ve karmaşık arama motorlarının olduğu bir çağ olmuştur" şeklinde tanımlanmaktadır. Bu dönemde kullanıcılar pasif ve sadece içerik tüketicisi konumundaydı.
 
-    ***
+    <hr />
 1. **Yeni iletişim teknolojilerinin, kişinin yalnızca kendi istediği bilgileri alabilmesine olanak sağlayan ve içerisinde kullanıcıların ilgi alanlarına göre bilgiye erişim sağlama olanağına sahip olan özelliği aşağıdakilerden hangisidir?**
     - A-) Kitlesizleştirme
     - B-) Yöndeşme
@@ -800,7 +800,7 @@
 
     > **Açıklama:** Yeni iletişim teknolojilerinin "**kişiselleştirme**" özelliği, metinde "kullanıcıların bu ortamları bireysel ihtiyaçlarına göre kullanabilmesi" ve "kişinin yalnızca kendi istediği bilgileri alabilmesine olanak sağlaması" olarak açıklanmıştır. Bu, içeriğin kullanıcının ilgi alanlarına göre sunulmasını ifade eder.
 
-    ***
+    <hr />
 ## Unite 5
 1. **Aşağıdakilerden hangisi medya okuryazarlığı eğitiminin kazanımlarından biri değildir?**
     - **Cevap A-) Medya karşısında aktif olmak yerine pasif olmak**
@@ -811,7 +811,7 @@
 
     > **Açıklama:** Medya okuryazarlığı eğitiminin temel hedeflerinden biri, bireylerin medya mesajları karşısında "pasif/edilgen olmak yerine **aktif olmasını**" sağlamaktır. Dolayısıyla medya karşısında pasif olmak, bu eğitimin bir kazanımı değil, tam tersine değiştirilmesi hedeflenen bir durumdur.
 
-    ***
+    <hr />
 1. **Türkiye’de Medya Okuryazarlığı dersi, hangi eğitim-öğretim yılından itibaren ilk kez 5 pilot okulda seçmeli ders olarak okutulmaya başlanmıştır?**
     - A-) 2003-2004
     - B-) 2004-2005
@@ -821,7 +821,7 @@
 
     > **Açıklama:** Ders notlarında Türkiye'deki süreç açıkça belirtilmiştir: "Bu karar doğrultusunda **2006-2007 eğitim-öğretim yılında** Türkiye genelinde pilot uygulama için seçilen İstanbul, Ankara, İzmir, Adana ve Erzurum illerinde beş ilköğretim okulunda Medya Okuryazarlığı dersinin okutulmasına başlanmıştır.".
 
-    ***
+    <hr />
 1. **Medya okuryazarlığının izleyici açısından temel amacı aşağıdakilerden hangisidir?**
     - A-) Medya iletilerini olduğu gibi kabul etmek
     - B-) Etkileşime açık olmak ve medya kahramanlarını örnek almak
@@ -831,7 +831,7 @@
 
     > **Açıklama:** Medya okuryazarlığının temel amacı, bireylere medya metinlerini doğru anlama, sorgulama ve eleştirel bir tutum sergileme becerisi kazandırmaktır. Bu da, **medyayı doğru bir biçimde kullanabilmek ve eleştirel analiz yapabilmek** anlamına gelir. Medya iletilerini olduğu gibi kabul etmek veya medyadan tamamen uzaklaşmak, bu eğitimin hedefleriyle çelişir.
 
-    ***
+    <hr />
 1. **Ülkemizde medya okuryazarlığı projesinin öncü iki kurumu aşağıdaki seçeneklerden hangisinde doğru eşleştirilmiştir?**
     - **Cevap A-) Milli Eğitim Bakanlığı – Radyo Televizyon Üst Kurulu**
     - B-) İçişleri Bakanlığı – TRT
@@ -841,7 +841,7 @@
 
     > **Açıklama:** Metinde Türkiye'de medya okuryazarlığı projesinin hayata geçirilmesi sürecinde iki kurumun öncü rol oynadığı vurgulanmıştır: "2006 yılında **MEB ile RTÜK arasında** iş birliği protokolü imzalanmıştır.". Bu iki kurum, projenin lokomotifleri olmuştur.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi ülkemizde Medya Okuryazarlığı dersinde atılması gereken adımlardan biri olarak kabul edilemez?**
     - A-) Ders, seçmelilikten zorunlu hâle getirilmelidir.
     - **Cevap B-) Derste eleştirel bir yaklaşım yerine korumacı bir yaklaşım benimsenmelidir.**
@@ -851,7 +851,7 @@
 
     > **Açıklama:** Ders notlarında, günümüzde "**korumacı yaklaşımdan giderek uzaklaşılmaktadır**" ve bunun yerine "bireylerin medya karşısında daha bilinçli bir bakış açısı kazanmasına karşılık gelen **'eleştirel yaklaşım'** esas alınmaktadır" bilgisi yer almaktadır. Bu nedenle derste korumacı bir yaklaşımın benimsenmesi, atılması gereken adımlardan biri olarak kabul edilemez.
 
-    ***
+    <hr />
 1. **Aşağıdaki seçeneklerden hangisi medya okuryazarı olmada toplumsal düzeyde atılacak adımlar arasında sayılamaz?**
     - A-) Boykot eylemine katılma
     - B-) İmza kampanyasında yer alma
@@ -861,7 +861,7 @@
 
     > **Açıklama:** Sosyal medyada örgütlenme, imza kampanyası düzenleme, boykot ve lobicilik faaliyetleri, medya karşısında daha güçlü bir pozisyon kazanmak için atılacak **toplumsal düzeyde adımlardır**. Enformasyon kaynakları arasında kıyas yapma ise medya okuryazarının kazanması gereken **bireysel bir beceridir**.
 
-    ***
+    <hr />
 1. **Aşağıdaki seçeneklerden hangisi medya okuryazarlığının aşamalarından biri değildir?**
     - A-) Erişim
     - B-) Analiz
@@ -871,7 +871,7 @@
 
     > **Açıklama:** Medya okuryazarlığı, metinde "**erişim, anlama, analiz, değerlendirme ve üretim**" gibi bir dizi beceriyi kapsayan bir öğrenme süreci olarak tanımlanmıştır. Empati, önemli bir insani beceri olmasına rağmen, medya okuryazarlığının temel aşamalarından biri olarak metinde sayılmamıştır.
 
-    ***
+    <hr />
 1. **“Sorumluluk sahibi bir yurttaş” sıfatı kazanabilmek için medya okuryazarı olmada aşağıdakilerden hangisi yanlıştır?**
     - A-) Tüm medya yapılardan ibarettir.
     - **Cevap B-) Medya gerçekliği olduğu gibi yansıtır.**
@@ -881,7 +881,7 @@
 
     > **Açıklama:** Medya okuryazarlığının anahtar kavramlarından biri şudur: "Medya, sadece gerçeği yansıtmaz. Özel amaçlarla üretilmiş ürünler de sunar." ve "Medya gerçekliği yeniden inşa eder.". Bu nedenle, "Medya gerçekliği olduğu gibi yansıtır" ifadesi medya okuryazarlığı anlayışına göre yanlıştır.
 
-    ***
+    <hr />
 1. **Televizyonda 13 yaş ve üzeri (13+) koruyucu sembolünün kullanıldığı programların günün hangi saatinden sonra yayınlanması zorunludur?**
     - A-) 17\.30 sonrası
     - B-) 19\.30 sonrası
@@ -891,7 +891,7 @@
 
     > **Açıklama:** Ders notlarında Akıllı İşaretler'e ilişkin bilgilerde şu ifade yer almaktadır: "**13+ almış bir program saat 21.30**, 18+ almış bir program saat 24.00'den sonra yayınlanabilir.".
 
-    ***
+    <hr />
 1. Yoram Eshet Alkalai, dijital okuryazarlığa yönelik olarak gerçekleştirdiği çalışmasında, 5 farklı dijital okuryazarlık tipinden bahsetmektedir.<br />**Aşağıdakilerden hangisi bu sınıflandırma içinde yer almaz?**
     - A-) Görsel okuryazarlık
     - B-) İçerik üretkenliğine yönelik okuryazarlık
@@ -901,7 +901,7 @@
 
     > **Açıklama:** Yoram Eshet Alkalai, dijital okuryazarlığı 5 farklı tipe ayırmıştır: **Görsel okuryazarlık, içerik üretkenliğine yönelik okuryazarlık, bilgi okuryazarlığı, multimedya içeriklere yönelik geliştirilen okuryazarlık** ve **sosyo-duygusal okuryazarlık**. Finansal okuryazarlık bu sınıflandırmada yer almamaktadır.
 
-    ***
+    <hr />
 1. **Yeni medya okuryazarlığı kapsamında, dijital ortamlarda kişilerin gönüllü olarak sunduğu bilgilerin siyasi ve ticari çıkarlara karşı korunması konusunda bilinçlendirme yapılması aşağıdaki kavramlardan hangisiyle ilişkilidir?**
     - **Cevap A-) Mahremiyet**
     - B-) Bağımlılık
@@ -911,7 +911,7 @@
 
     > **Açıklama:** Yeni medya okuryazarlığının güncel konu başlıklarından biri **mahremiyet**tir. Bu başlık altında, "dijital ortamlarda kişilerin mahremiyet alanlarının ve gönüllü olarak sunduğu bilgilerin siyasi ve ticari çıkarlara karşı korunması konusunda bilinçlendirme yapılması" gerektiği belirtilmektedir.
 
-    ***
+    <hr />
 1. **Dünyada medya okuryazarlığı eğitiminde giderek terk edilen yaklaşım biçimi aşağıdakilerden hangisidir?**
     - A-) Eleştirel Yaklaşım
     - B-) Analitik Yaklaşım
@@ -921,7 +921,7 @@
 
     > **Açıklama:** Metinde, medya okuryazarlığı çalışmalarının ilk dönemlerde ağırlıkla **"korumacı yaklaşım"** çerçevesinde yürütüldüğü ancak günümüzde bu yaklaşımdan **giderek uzaklaşıldığı** belirtilmektedir. Bunun yerine bireylere eleştirel bakış açısı kazandırmayı hedefleyen "eleştirel yaklaşım" esas alınmaktadır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi** **dijital medya okuryazarlığı alanını doğrudan ilgilendiren faaliyetler arasında yer almaz?**
     - A-) İnternette sörf yapma
     - B-) Sosyal medyada paylaşım yapma
@@ -931,7 +931,7 @@
 
     > **Açıklama:** Dijital medya okuryazarlığı, dijital araçların ve yapıların etkin kullanımını içerir. İnternette sörf yapmak, sosyal medyada paylaşım yapmak, online alışveriş ve elektronik haberleşme gibi faaliyetler bu kapsama girer. Televizyon dizilerine bağımlı olmak ise geleneksel medya ile ilgili bir davranış olup, dijital okuryazarlık alanının doğrudan konusu değildir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi medyaya yönelik okuryazarlık türlerinden biri değildir?**
     - A-) Çoklu okuryazarlık
     - **Cevap B-) Finansal okuryazarlık**
@@ -941,7 +941,7 @@
 
     > **Açıklama:** Metinde, yeni medya kullanım pratiklerinin yaygınlaşmasıyla birlikte **yeni medya okuryazarlığı, bilgisayar okuryazarlığı, internet okuryazarlığı, elektronik okuryazarlık, dijital okuryazarlık** ve **çoklu okuryazarlıklar** gibi tanımlamaların ortaya çıktığı belirtilmektedir . Finansal okuryazarlık ise medya okuryazarlığı türlerinden biri olarak sayılmamıştır.
 
-    ***
+    <hr />
 1. **Türkiye’de medya okuryazarlığına yönelik atılan adımlar arasında aşağıdakilerden hangisi yer almaz?**
     - **Cevap A-) Medya takip merkezinin kurulması**
     - B-) Okulların müfredatına Medya Okuryazarlığı dersinin eklenmesi
@@ -951,7 +951,7 @@
 
     > **Açıklama:** Türkiye'de medya okuryazarlığına yönelik atılan adımlar arasında; okullarda Medya Okuryazarlığı dersinin verilmesi, RTÜK tarafından **www.medyaokuryazarligi.org.tr** sitesinin kurulması, **Haydi Çocuklar Uykuya** kampanyası ve **koruyucu sembol sisteminin (akıllı işaretler)** zorunlu hale getirilmesi bulunmaktadır . Medya takip merkezinin kurulması bu adımlar arasında yer almamaktadır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi kullanıcıların; fotoğrafları, resimleri ve görsel mesajları kolay ve akıcı bir şekilde çözümlemesini sağlayan okuryazarlık becerisidir?**
     - A-) Medya okuryazarlığı
     - **Cevap B-) Görsel okuryazarlık**
@@ -961,7 +961,7 @@
 
     > **Açıklama:** Yoram Eshet Alkalai'nin dijital okuryazarlık tiplerinden biri olan **görsel okuryazarlık**, "kullanıcılar, fotoğrafları, resimleri ve görsel mesajları kolay ve akıcı bir şekilde çözümleyerek anlamlandırmaktadır" şeklinde tanımlanır.
 
-    ***
+    <hr />
 1. I. Çocukların yayınlardan olumsuz etkilenmelerini önlemek için televizyonlarda akıllı işaretlerin kullanılması zorunludur.<br />II. Programların sembolleri yayın kuruluşlarında çalışan kodlayıcılar tarafından belirlenir.<br />III. 13+ ve 18+ sembolleri programın yayını süresince ekranın bir köşesinde sabit ve sürekli olarak kalmaz.<br />**Yukarıda akıllı işaretlerle ilgili verilen bilgilerden hangisi ya da hangileri doğrudur?**
     - A-) Yalnız I
     - B-) Yalnız III
@@ -971,7 +971,7 @@
 
     > **Açıklama:** Ders notlarında akıllı işaretlere ilişkin faydalı bilgiler bölümünde; akıllı işaretlerin kullanımının zorunlu olduğu (I. Öncül) ve sembollerin yayın kuruluşlarındaki kodlayıcılar tarafından belirlendiği (II. Öncül) belirtilmiştir. Ancak III. Öncüldeki ifade yanlıştır, doğrusu şöyledir: "**13+ ve 18+ sembolleri programın yayını süresince ekranın bir köşesinde sabit ve sürekli olarak kalır.**". Bu nedenle sadece I ve II doğrudur.
 
-    ***
+    <hr />
 ## Unite 6
 1. **Aşağıdakilerden hangisi geleneksel medya araçlarından biri değildir?**
     - A-) Dergi
@@ -982,7 +982,7 @@
 
     > **Açıklama:** Dergi, gazete, radyo ve televizyon, tek yönlü ve durağan yayın teknolojileri olarak **geleneksel medya** kategorisinde yer alır. **İnternet** ise Web 2.0 teknolojisiyle birlikte herkesin içerik oluşturabildiği, çift yönlü ve etkileşimli bir yapıya sahip olan yeni medya aracıdır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi i**nternetin ilk ortaya çıkış amaçlarından biridir**?**
     - A-) Ticaret
     - **Cevap B-) Savunma**
@@ -992,7 +992,7 @@
 
     > **Açıklama:** Dünyadaki pek çok iletişim alanında olduğu gibi internet de öncelikle **savunma ve askeri amaçlı** olarak ortaya çıkarılmıştır. Temelini oluşturan ARPANET, bir Amerikan Askeri Savunma Projesi olarak geliştirilmiştir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi Web 1.0’ın özelliklerinden biri değildir?**
     - A-) Bilgilerin okunmasıyla ilgilidir.
     - B-) Duyuru ve reklamcılığa odaklanır.
@@ -1002,7 +1002,7 @@
 
     > **Açıklama:** **Web 1.0**, "salt okunur web" olarak tanımlanır; kullanıcıların sadece bilgi arayıp okumasına izin verir . Bu dönemde içerikler profesyonellerce oluşturulur, sahiplik esası hâkimdir ve duyuru/reklamcılığa odaklanılır . **İki yönlü paylaşım ve etkileşim** ise Web 2.0'ın en temel özelliğidir.
 
-    ***
+    <hr />
 1. Aşağıdakilerden hangisi s**osyal medyanın ilk örneği olarak kabul edilmektedir?**
     - **Cevap A-) SixDegrees.com**
     - B-) LinkedIn
@@ -1012,7 +1012,7 @@
 
     > **Açıklama:** Boyd ve Ellison'a (2008) göre, sosyal medyanın ilk örneği **1997 yılında** ortaya çıkan **SixDegrees.com**'dur. Bu site, kullanıcılara profil oluşturma, arkadaş listeleme ve bu listelerde gezinme imkânı sunmuştur .
 
-    ***
+    <hr />
 1. **"Geleneksel medya üretimi çoğunlukla uzmanlaşmış yetenekler ve eğitim gerektirirken; sosyal medyada böyle bir uzmanlığa ihtiyaç yoktur." ifadesi geleneksel medya ile sosyal medyanın farklarından hangisine işaret etmektedir?**
     - A-) Yenilik
     - B-) Erişilebilirlik
@@ -1022,7 +1022,7 @@
 
     > **Açıklama:** Geleneksel medya ile sosyal medya arasındaki farklardan biri **kullanılabilirliktir**. Metinde bu fark şöyle açıklanmıştır: "Geleneksel medya üretimi çoğunlukla uzmanlaşmış yetenekler ve eğitim gerektirmektedir... Sosyal medyadaki içerik üretimi ise, okur-yazar olan ve internete erişimi olan herkesin üretime katkı sağlayabileceği bir olanağı mümkün kılmaktadır." .
 
-    ***
+    <hr />
 1. **Sosyal medyanın benzer özellikleri aşağıdakilerden hangisinde ikili grup biçiminde sunulmuştur?**
     - **Cevap A-) Açıklık-Katılımcılık**
     - B-) Konuşma-Topluluk
@@ -1032,7 +1032,7 @@
 
     > **Açıklama:** Sosyal medyanın özelliklerinden **açıklık**, içeriğe erişimde nadiren engel olması ve sansürsüz paylaşıma olanak tanımasıdır. **Katılımcılık** ise herkesi katkı sağlamaya ve geri bildirimde bulunmaya teşvik etmesidir. Bu iki özellik, kullanıcıların görüşlerini özgürce dile getirebilmesi ve sürece dâhil olabilmesi açısından birbiriyle benzer ve tamamlayıcı niteliktedir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sosyal medyanın özelliklerinden biridir?**
     - A-) Geri bildirim
     - B-) Etkileşim
@@ -1042,7 +1042,7 @@
 
     > **Açıklama:** Sosyal medyanın karakteristik özellikleri Mayfield (2008) tarafından; **katılımcılık, açıklık, konuşma, topluluk** ve **bağlılık** olarak sıralanmıştır. Geri bildirim, etkileşim, yayılma ve yenilik ise sosyal medyanın geleneksel medyadan farklarını açıklarken kullanılan terimlerdir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sosyal ağları tanımlayan bir unsur değildir?**
     - A-) Profil oluşturma
     - **Cevap B-) Başka profillere müdahale etme**
@@ -1052,7 +1052,7 @@
 
     > **Açıklama:** Sosyal ağ siteleri, bireylerin sınırlı bir sistemde profil oluşturmalarına, bağlantıdaki diğer kullanıcıların profillerini listelemelerine ve bu listelere bakıp takip etmelerine imkân verir. Ancak bir kullanıcının, başka bir kullanıcının profiline doğrudan müdahale etmesi (içeriğini izinsiz değiştirmesi gibi) mümkün değildir ve bu, sosyal ağların tanımına aykırıdır.
 
-    ***
+    <hr />
 1. **Farklı kullanıcıların bilgileriyle içeriğe katkıda bulunmalarına ve bu bilgileri düzenlemelerine olanak sağlayan web siteleri aşağıdakilerden hangisidir?**
     - A-) Medya paylaşım siteleri
     - B-) Bloglar
@@ -1062,7 +1062,7 @@
 
     > **Açıklama:** Metinde **Wikiler**, "farklı kullanıcıların bilgileriyle içeriğe katkıda bulunmalarını ve bu bilgileri düzenlemelerine olanak sağlayan web siteleri" olarak tanımlanmıştır. Bu platformlar, iş birliğine dayalı bilgi paylaşımı için kullanılır.
 
-    ***
+    <hr />
 1. **Aşağıdaki sosyal ağlardan hangisi grup ve takım çalışmasıyla strateji ve çözümlerin ortaya konduğu bir uygulama olarak tanımlanmaktadır?**
     - A-) Medya paylaşım siteleri
     - B-) Wikiler
@@ -1072,7 +1072,7 @@
 
     > **Açıklama:** **Sanal dünyalar**, "kullanıcılar tarafından kontrol edilen ve oynanan avatarların sakinleri olarak birbirleriyle etkileşime girdiği, etkileşimli bir üç boyutlu bilgisayar simülasyonuna dayanan bir dünya" olarak ifade edilmektedir. Bu platformlar, tek bir kullanıcıdan ziyade **grup ve takım çalışmasıyla strateji ve çözümlerin** ortaya konduğu uygulamalardır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sosyal medyanın ortaya çıkmasında etkili olan gelişmelerden biridir?**
     - A-) Elektrikli telgrafın icat edilmesi
     - **Cevap B-) İnternetin icat edilmesi**
@@ -1082,7 +1082,7 @@
 
     > **Açıklama:** Sosyal medya, Web 2.0 teknolojileri üzerine kurulu, web tabanlı bir uygulamadır. Dolayısıyla varlığı **internetin icat edilmesine** ve yaygınlaşmasına bağlıdır. Diğer seçenekler, internet öncesi dönemin teknolojik gelişmeleridir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi Web 2.0’ın özelliklerinden biri değildir?**
     - A-) Bilgileri okuma ve yazma olanağı sunması
     - **Cevap B-) Duyuru ve reklamcılığa odaklanması**
@@ -1092,7 +1092,7 @@
 
     > **Açıklama:** **Web 2.0**, kullanıcıların bilgi okuma, yazma, içerik üretme ve paylaşma gibi eylemlerle sürece aktif katıldığı bir dönemdir. **Duyuru ve reklamcılığa odaklanması** ise içeriğin profesyonellerce oluşturulduğu ve kullanıcının pasif olduğu Web 1.0 döneminin bir özelliğidir.
 
-    ***
+    <hr />
 1. **Kronolojik olarak sosyal medya araçlarının kuruluş sırası aşağıdakilerden hangisinde doğru verilmiştir?**
     - A-) WhatsApp – Facebook – YouTube – Twitter
     - B-) Facebook – Twitter – WhatsApp – YouTube
@@ -1102,7 +1102,7 @@
 
     > **Açıklama:** Metinde verilen bilgilere göre büyük sosyal medya araçlarının kuruluş tarihleri şöyledir: **Facebook (2004)**, **YouTube (2005)**, **Twitter (2006)** ve **WhatsApp (2009)** .
 
-    ***
+    <hr />
 1. **“Geleneksel medya iletişimlerinde medyana gelen zaman farkı, anında etki ve tepkisi olan sosyal medya ile kıyaslandığında daha uzun olabilmektedir.” ifadesine karşılık gelen ayrım aşağıdakilerden hangisidir?**
     - A-) Erişim
     - B-) Yayılma
@@ -1112,7 +1112,7 @@
 
     > **Açıklama:** Geleneksel medya ile sosyal medya arasındaki farklardan biri olan **yenilik**, iletişimdeki zaman farkını ifade eder. Geleneksel medyada içeriğin yayınlanması günler, haftalar sürebilirken, sosyal medyada etki ve tepki anında gerçekleşebilir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi geleneksel medya ile sosyal medya arasındaki farklardan biri değildir?**
     - A-) Erişim
     - B-) Kullanılabilirlik
@@ -1122,7 +1122,7 @@
 
     > **Açıklama:** Metinde, sosyal medyanın geleneksel medyadan temel farkları; **erişim, erişilebilirlik, kullanılabilirlik, yenilik, kalıcılık, geri bildirim, etkileşim ve yayılma** olarak sıralanmıştır . **Bağlılık** ise sosyal medyanın kendi içindeki bir özelliği olarak (diğer sitelere, kaynaklara bağlantı kurma olanağı) açıklanmıştır, geleneksel medya ile bir fark olarak değil.
 
-    ***
+    <hr />
 1. **Bilgileri otomatik olarak güncelleyen ve daha çok medya mensuplarının abone yoluyla bilgi edindiği sosyal paylaşım ağı aşağıdakilerden hangisidir?**
     - A-) Wikiler
     - B-) Bloglar
@@ -1132,7 +1132,7 @@
 
     > **Açıklama:** **RSS (Really Simple Syndication)**, "bilgileri otomatik olarak güncelleyen XML dosyaları" olarak tanımlanır. Kullanıcılar, ilgilendikleri konulara abone olarak yeni eklenen içeriklerden otomatik olarak haberdar olurlar. Bu yöntem, özellikle medya mensuplarının kurumlarla ilgili gelişmeleri takip etmesi için işlevseldir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sosyal medyanın ilk örneği olarak kabul edilmektedir?**
     - A-) Yahoo!
     - B-) YouTube
@@ -1142,7 +1142,7 @@
 
     > **Açıklama:** Boyd ve Ellison'a (2008) göre, sosyal medyanın ilk örneği **1997 yılında** ortaya çıkan **SixDegrees.com**'dur. Bu site, kullanıcılara profil oluşturma, arkadaş listeleme ve bu listelerde gezinme imkânı sunmuştur .
 
-    ***
+    <hr />
 1. **2004 yılında Marc Zuckerberg tarafından kullanıcıların arkadaşlarıyla metin, fotoğraf ve video paylaşmalarına ve iletişim kurmalarına olanak sağlayan oldukça yaygın bir sosyal medya mecrası aşağıdakilerden hangisidir?**
     - A-) YouTube
     - B-) WhatsApp
@@ -1152,7 +1152,7 @@
 
     > **Açıklama:** Metinde belirtildiği üzere, "**2004 yılında Mark Zuckerberg tarafından** kullanıcıların arkadaşlarıyla metin, fotoğraf ve video paylaşmalarına ve iletişim kurmalarına olanak sağlayan oldukça yaygın bir sosyal medya mecrası olan **Facebook**" kurulmuştur.
 
-    ***
+    <hr />
 1. **Dawley tarafından sınıflandırılan sosyal paylaşım siteleri ile ilgili aşağıda verilen eşleştirmelerden hangisi yanlıştır?**
     - A-) Sosyal Siteler: MySpace, Facebook, Twitter
     - B-) Sanal Dünyalar: SL, Active Worlds, There, Whyville, Club Penguin, HİPİH
@@ -1162,7 +1162,7 @@
 
     > **Açıklama:** Dawley tarafından yapılan sınıflandırmada **Sosyal Siteler** kategorisinde MySpace, Facebook ve Twitter yer almaktadır. Sanal Dünyalar kategorisinde ise SL, Active Worlds gibi platformlar bulunur. Bu nedenle E seçeneğindeki eşleştirme yanlıştır.
 
-    ***
+    <hr />
 1. **Mikroblog servisi olarak hizmet sunan, insanın gerçek hayatta içinde bulunduğu anda ne yaptığını, onu izleyenlere kısa mesajlarla özetleyerek durumunu paylaştığı platform** **aşağıdakilerden hangisidir?**
     - A-) Facebook
     - B-) Instagram
@@ -1172,7 +1172,7 @@
 
     > **Açıklama:** Metinde **Twitter**, "popüler bir mikroblog servisi olarak hizmet sunan, insanın gerçek hayatta içinde bulunduğu anda ne yaptığını, onu izleyenlere kısa mesajlarla özetlediği, durumunu paylaştığı bir platform" olarak tanımlanmıştır.
 
-    ***
+    <hr />
 ## Unite 7
 1. **İnternetin ortaya çıkmasının kökeninde hangi amaç vardır?**
     - A-) Ekonomik
@@ -1183,7 +1183,7 @@
 
     > **Açıklama:** İnternetin temelini oluşturan ARPANET, bir Amerikan Savunma Bakanlığı projesidir ve ilk döneminde tamamen **askerî** amaçlara hizmet etmiştir. Bireysel ve ticari kullanımı çok daha sonra mümkün olmuştur.
 
-    ***
+    <hr />
 1. **Sosyal medya aşağıdaki uygulamalardan hangisini içermez?**
     - A-) Sosyal paylaşım ağları
     - **Cevap B-) Office programları**
@@ -1193,7 +1193,7 @@
 
     > **Açıklama:** Sosyal medya; sosyal paylaşım ağları, çevrim içi oyunlar, **wikiler, bloglar, mikrobloglar** gibi Web 2.0 tabanlı uygulamaları içerir. Office programları (Word, Excel vb.) ise birer üretkenlik yazılımıdır ve sosyal medya kategorisine girmezler.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sosyal medyanın bir özelliği değildir?**
     - A-) İnternet tabanlı uygulamalar olması
     - B-) Kullanıcıların içerik üretmesine imkân vermesi
@@ -1203,7 +1203,7 @@
 
     > **Açıklama:** Sosyal medya; internet tabanlı, kullanıcıların içerik üretmesine olanak tanıyan, hızlı ve kolay kullanımlı bir iletişim ağıdır . Dijital doğası gereği, depolama ve arşiv olanakları geleneksel medyaya göre neredeyse sınırsızdır. Bu nedenle "depolama ve arşiv olanaklarının sınırlı olması" sosyal medyanın bir özelliği değildir.
 
-    ***
+    <hr />
 1. **Sosyal medya alanında paylaşım kültürü aşağıdakilerden hangisini ifade etmektedir?**
     - A-) Kullanıcıların bu ortamda devamlı faydalı bilgiler paylaşması
     - **Cevap B-) Kullanıcıların hayatlarının her anını belgeleyerek bu ortamlarda paylaşması ve bunun bir kültür hâlini alması**
@@ -1213,7 +1213,7 @@
 
     > **Açıklama:** Metinde **paylaşım kültürü**, "sosyal hayatın ve günlük yaşamın birçok yansımasını bünyesinde barındıran sosyal medyada, yaşanılan her anın paylaşılması gerektiğine dair" gelişen bir kültür olarak açıklanmıştır. Bu durum, kullanıcıların sahip oldukları her şeyi (yiyip içtikleri, gezdiği yerler vb.) paylaşmasını olağan bir hâle getirmiştir.
 
-    ***
+    <hr />
 1. **Sosyal medya, mahremiyet ilişkisi ne şekilde gelişmiştir?**
     - A-) Sosyal medya mahremiyet konusunda çok dikkatli bir ortamdır.
     - **Cevap B-) Mahremiyetin ihlali sosyal medyada sıklıkla yaşanmaktadır.**
@@ -1223,7 +1223,7 @@
 
     > **Açıklama:** Sosyal medya, kullanıcıların kendi hayatlarına dair içerikleri gönüllü olarak paylaştığı bir ortamdır. Bu durum, özel ve kamusal alan arasındaki sınırı belirsizleştirerek **mahremiyetin sıklıkla ihlal edildiği** bir alan yaratmıştır. Kullanıcılar görünür olmak adına mahremiyetlerini ikinci plana atabilmektedirler.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisinde mahremiyetin boyutları doğru bir şekilde verilmiştir?**
     - **Cevap A-) Bireysel/Mekânsal/Enformasyonel**
     - B-) Zamansal/Mekânsal/Kişisel
@@ -1233,7 +1233,7 @@
 
     > **Açıklama:** Ders notlarında mahremiyetin üç boyutu olduğu belirtilmiştir: **Bireysel mahremiyet** (beden ve kişisel konular), **Mekânsal mahremiyet** (fiziksel müdahalelerden ve gözetlenmekten uzak alanlar) ve **Enformasyon mahremiyeti** (kişisel verilerin korunması).
 
-    ***
+    <hr />
 1. **Mahremiyetle ilişkilendirilen gösteri toplumu kavramı aşağıdaki isimlerden hangisine aittir?**
     - A-) Marshall McLuhan
     - B-) Douglas Kellner
@@ -1243,7 +1243,7 @@
 
     > **Açıklama:** Ders notlarında, "İlk baskısı 1967 yılında yapılan Gösteri Toplumu isimli kitapta Fransız teorisyen **Guy Debord**, 'gösteri toplumu' diye bir kavram ortaya atmış ve bu kavram modern dünyada mahremiyete yüklenen anlamı açık şekilde ortaya koyan bir tanımlama olarak karşımıza çıkmıştır." ifadesi yer almaktadır.
 
-    ***
+    <hr />
 1. **Mahremiyet kavramını aşağıdaki ifadelerden hangisi karşılamaz?**
     - A-) Mahremiyet mimari ile de ilişkili bir kavramdır.
     - B-) Mahremiyet insani ve doğal bir haktır.
@@ -1253,7 +1253,7 @@
 
     > **Açıklama:** Mahremiyet; insani ve doğal bir hak olup, özgürlük ve kamusal olmayan alanla ilişkilidir. Mimari ile de yakın bir ilişkisi vardır. Ancak, yapılan tanımlar ve algılar "her dine, kültüre, döneme, coğrafi bölgeye göre" **farklılık gösterir**. Bu nedenle her kültürde aynı anlama geldiği söylenemez.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sosyal medyanın yarattığı yeni kullanıcı tipinin bir özelliğidir?**
     - **Cevap A-) Paylaşım yapmayı kültür hâline getiren**
     - B-) Sosyal medyada yaptığı paylaşımlarda toplumsal değerlere uygun hareket eden
@@ -1263,7 +1263,7 @@
 
     > **Açıklama:** Yeni iletişim teknolojilerinin yaygınlaşmasıyla geleneksel medyada sadece izleyici olan birey, aktif bir kullanıcıya dönüşmüştür. Bu yeni kullanıcı tipi, "içeriğin baş aktörü haline gelmiş, bizzat içerik üreten kullanıcılar bu üretimi bir hayat tarzı olarak benimsemiştir.". Yaşamın her anını paylaşmayı ilke olarak kabul etmesi, bu kullanıcı tipinin en belirgin özelliğidir.
 
-    ***
+    <hr />
 1. **Sosyal medyada kullanıcıları paylaşım yapmaya iten en büyük etken nedir?**
     - **Cevap A-) Kullanıcının sosyal medyada görünür olmak ile var olmak arasında bağ kurması**
     - B-) Kullanıcının faydalı bilgiler sunarak diğer kullanıcılara yararlı olmak istemesi
@@ -1273,7 +1273,7 @@
 
     > **Açıklama:** Gösteri toplumunda bireyler, var olmak için görünür olma çabasına girerler. Sosyal medyada bu durum, "takipçi sayısının artırılması uğruna her şeyin meşru görüldüğü, **gözetlendikçe değerin arttığı bir düşünce tipi**" olarak ortaya çıkar. Dolayısıyla kullanıcıları paylaşım yapmaya iten en büyük etken, sosyal medyada görünür olmak ile var olmak arasında kurdukları bağdır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi mahremiyetin kelime anlamına karşılık gelmez?**
     - A-) Bir şeyin gizli hâli olan
     - B-) Başkalarının bilmemesi gereken
@@ -1283,7 +1283,7 @@
 
     > **Açıklama:** **Mahremiyet**, samimi, başkaları tarafından bilinmemesi gereken, saklı olan anlamlarına gelir. Bir şeyin gizli hâli, kişiye özel boyutu ve paylaşılmasının izin gerektirmesi bu kavramın içindedir. Kamusal nitelikte olan ise mahremiyetin tam tersi, yani herkese açık olan demektir.
 
-    ***
+    <hr />
 1. **Guy Debord’un “gösteri toplumu” kavramı aşağıdakilerden hangisiyle ilişkilendirilmiştir?**
     - **Cevap A-) Tüketim kültürü**
     - B-) Geleneksel kültür
@@ -1293,7 +1293,7 @@
 
     > **Açıklama:** Guy Debord, gösteri toplumu kavramını, kapitalist üretim tarzı sonrası ortaya çıkan **tüketim kültürü** bağlamında ele alır. Bu toplumda tüketim ve gösteri birleşmiş, bütün yaşam pratikleri gösterinin bir parçası hâline gelmiştir.
 
-    ***
+    <hr />
 1. **Gösteri toplumu kavramının en büyük tetikleyicisi nedir?**
     - A-) Ekonomi
     - B-) Siyaset
@@ -1303,7 +1303,7 @@
 
     > **Açıklama:** Ders notlarında, "İletişim teknolojilerinde yaşanan gelişmelerin de katkısıyla, **medya** mahremiyetin alenileştirilmesi noktasında önemli bir araç işlevini üstlenmiş, gösteri üzerine kurulu yapısıyla dönüşümlerin katalizörü olmuştur." denilmektedir. Medya, gösteriyi yayarak gösteri toplumunu besler.
 
-    ***
+    <hr />
 1. **İnternetin ilk dönemine adını veren teknoloji aşağıdakilerden hangisidir?**
     - **Cevap A-) Web 1.0**
     - B-) Web 2.0
@@ -1313,7 +1313,7 @@
 
     > **Açıklama:** İnternetin ilk dönemi, günümüzdeki etkileşimli yapıdan farklı, tek yönlü bir yapıdaydı. Kullanıcıların içeriklere müdahale edemediği ve interneti bir kütüphane gibi kullandığı bu döneme **Web 1.0** adı verilmiştir .
 
-    ***
+    <hr />
 1. **İnternet teknolojilerinden önce varlığını sürdüren kitle iletişim araçları aşağıdaki isimlerden hangisiyle nitelendirilmiştir?**
     - A-) Kültürel
     - B-) Dinî
@@ -1323,7 +1323,7 @@
 
     > **Açıklama:** İnternet teknolojilerinden önce var olan gazete, radyo, televizyon gibi kitle iletişim araçları, tek yönlü yayın anlayışları nedeniyle **geleneksel** medya olarak nitelendirilir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sosyal medyanın yarattığı yeni kullanıcı tipinin özelliği değildir?**
     - A-) Geleneksel medyaya oranla aktif olması
     - B-) İçerik üretebilme potansiyeli olması
@@ -1333,7 +1333,7 @@
 
     > **Açıklama:** Yeni iletişim teknolojilerinin (sosyal medya) yarattığı kullanıcı tipi, geleneksel medyanın pasif izleyicisinden farklıdır. Bu yeni kullanıcı, içeriklere müdahale edebilen ve bizzat içerik üreten **aktif bir kullanıcıya** dönüşmüştür . Dolayısıyla pasif olmak bu kullanıcı tipinin bir özelliği değildir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi mahremiyetin boyutlarıdır?**
     - **Cevap A-) Bireysel/Mekânsal/Enformasyonel**
     - B-) Bedensel/Ruhsal/Toplumsal
@@ -1343,7 +1343,7 @@
 
     > **Açıklama:** Ders notlarında mahremiyetin üç boyutu olduğu belirtilmiştir: **Bireysel mahremiyet** (beden ve kişisel konular), **Mekânsal mahremiyet** (fiziksel müdahalelerden ve gözetlenmekten uzak alanlar) ve **Enformasyon mahremiyeti** (kişisel verilerin korunması).
 
-    ***
+    <hr />
 1. **Bireylerin kişiye özel kabul edilen özel bilgilerinin hukuken kontrol ve denetim altına alınması sonucunu doğuran mahremiyet hakkı aşağıdakilerden hangisidir?**
     - A-) Özel mahremiyet
     - **Cevap B-) Enformasyon mahremiyet**
@@ -1353,7 +1353,7 @@
 
     > **Açıklama:** Metinde **enformasyon mahremiyeti**, "bireylerin kendileri hakkındaki bireysel bilgiyi kontrol edebilme hakkı olarak ele alınmaktadır" ve "kişiye özel kabul edilen özel bilgilerinin hukuken kontrol ve denetim altına alınması sonucunu doğuran" bir mahremiyet türü olarak açıklanmaktadır .
 
-    ***
+    <hr />
 1. **Önceleri teknolojiyi şekillendiren insanın, günümüzde teknolojinin şekillendirdiği bir nesne hâline gelmesini ifade eden teorisyen aşağıdakilerden hangisidir?**
     - A-) Daniel Bell
     - **Cevap B-) McLuhan**
@@ -1363,7 +1363,7 @@
 
     > **Açıklama:** Ders notlarında, "**Marshall McLuhan**'ın deyimiyle; önceleri teknolojiyi şekillendiren insanın, günümüzde teknolojinin şekillendirdiği bir nesne haline gelmesi neticesinde yaşanan gelişmeler paylaşım adı altında kendini sürekli üretmektedir." ifadesi yer almaktadır.
 
-    ***
+    <hr />
 1. **1969 yılında yalnızca 4 üniversite arasında iletişimi sağlayan ve zaman içerisinde gelişerek daha geniş alanda hizmet vermeye başlayan ağın ismi aşağıdakilerden hangisidir?**
     - A-) Darpa
     - **Cevap B-) ARPANET**
@@ -1373,7 +1373,7 @@
 
     > **Açıklama:** Metinde, internetin başlangıcı olan ve 1969 yılında yalnızca 4 üniversite arasında iletişimi sağlayan ağın **ARPANET** olduğu belirtilmektedir. Bu ağ zamanla gelişerek daha geniş bir alana yayılmıştır.
 
-    ***
+    <hr />
 ## Unite 8
 1. **Aşağıdaki oyunlardan hangisi içerik, teknik özellikler, yayımlandıkları platformlar ve kontrol mekanizmalarına göre dijital oyun türleri arasında yer almaz?**
     - A-) Konsol oyunları
@@ -1384,7 +1384,7 @@
 
     > **Açıklama:** Ders notlarında dijital oyunlar içerik, platform ve kontrol mekanizmalarına göre sınıflandırılmıştır. Bu sınıflandırma içerisinde **Konsol oyunları, Masaüstü oyunları, Çevrim içi oyunlar** ve **Mobil oyunlar** yer almaktadır . "Durağa oyunları" şeklinde bir kategori metinde bulunmamaktadır.
 
-    ***
+    <hr />
 1. **Dijital oyun kullananlar için aşağıdakilerden hangisi bir fırsattır?**
     - A-) Şiddet
     - B-) Bıçaklama
@@ -1394,7 +1394,7 @@
 
     > **Açıklama:** Dijital oyunların çevrim içi (online) oynanması hem fırsatlar hem de riskler barındırır. Ders notlarında listelenen fırsatlar arasında "Eğitim olanakları", "Yurttaş katılımı" ve "Topluluklarla bağlar" gibi maddeler bulunmaktadır . Bu bağlamda, oyunlar aracılığıyla **yeni kavramlar öğrenmek** de bir eğitim olanağı ve fırsat olarak değerlendirilebilir. Diğer seçenekler ise riskler kategorisinde yer alır.
 
-    ***
+    <hr />
 1. **Dijital oyun kullanıcıları için aşağıdakilerden hangisi bir tehdittir?**
     - A-) Deneyimlerin paylaşımı
     - **Cevap B-) Siber zorbalık**
@@ -1404,7 +1404,7 @@
 
     > **Açıklama:** Dijital oyunların çevrim içi riskleri arasında yasa dışı içerik, şiddet, nefret söylemi ve mahremiyetin ihlali gibi tehlikeler bulunmaktadır. **Siber zorbalık (kabadayılık)** da bu risklerden biridir. Deneyimlerin paylaşımı, aktif katılım, uzman gruplara katılım ve dijital aktivizm ise çevrim içi fırsatlar arasında sayılmıştır .
 
-    ***
+    <hr />
 1. **Kullanıcıların motivasyonlarına ve ilgi alanlarına göre aşağıdakilerden hangisi dijital oyun kullanıcısı değildir?**
     - **Cevap A-) Düşman kuvvetler**
     - B-) Katiller
@@ -1414,7 +1414,7 @@
 
     > **Açıklama:** Bartle (1996), çoklu kullanıcı oyunlardaki oyuncuları motivasyonlarına göre dört farklı kategoriye ayırmıştır: Sürekli kazanma odaklı olan **"Kazananlar"**, oyun dünyasını keşfetmekten hoşlanan **"Kâşifler"**, diğer oyuncularla etkileşim kurmayı seven **"Sosyalleşenler"** ve diğer oyuncuları alt etmeye odaklanan **"Katiller"** . "Düşman kuvvetler" bu sınıflandırmada bir oyuncu türü olarak yer almaz, genellikle oyun içi bir unsurdur.
 
-    ***
+    <hr />
 1. Teknik ve içerik açısından dijital oyunları anlama ve analiz etme becerisidir. Bununla birlikte dijital oyunlara erişebilme, onları değerlendirebilme ve onlara eleştirel açıdan bakabilme donanımına sahip olma ve bununla yetinmeyerek yeni iletiler oluşturabilme ve dile getirebilme becerisidir.<br />**Yukarıdaki tanım aşağıdaki hangi kavrama aittir?**
     - A-) Medya okuryazarlığı
     - B-) Dijital medya okuryazarlığı
@@ -1424,7 +1424,7 @@
 
     > **Açıklama:** Sorudaki tanım, **dijital oyun okuryazarlığını** ifade etmektedir. Metinde bu kavram, "Teknik ve içerik açısından dijital oyunları anlama ve analiz etme becerisidir. Bununla birlikte dijital oyunlara erişebilme, onları değerlendirebilme ve onlara eleştirel açıdan bakabilme donanımına sahip olma ve bununla yetinmeyerek yeni iletiler oluşturabilme ve dile getirebilme becerisidir." şeklinde açıklanmıştır .
 
-    ***
+    <hr />
 1. “İnternet kafe kültürü toplumun genelinin kabul etmediği bazı grupların kabul ettiği ve geçici olan bir …………….. dür.”<br />**Cümledeki boşluğa aşağıdakilerden hangisi getirilmelidir?**
     - A-) Somut kültür
     - B-) Soyut kültür
@@ -1434,7 +1434,7 @@
 
     > **Açıklama:** Metinde, internet kafelerdeki davranış biçimlerinin toplumun genelinden farklılaştığı ve bu ortamların kendine özgü kuralları olduğu belirtilmektedir. Bu durum şu ifadeyle açıklanır: "Kültür açısından değerlendirildiğinde internet kafe ortamlarındaki davranış bir **alt kültür** davranışıdır.". Alt kültür, toplumun genelinin kabul etmediği bazı grupların benimsediği ve geçici olan kültür çeşididir.
 
-    ***
+    <hr />
 1. **Dijital oyunlarda araçsal şiddet türü aşağıdakilerden hangisidir?**
     - A-) Görsel şiddet
     - B-) Küfür etmek
@@ -1448,7 +1448,7 @@
     > * **Fiziksel Şiddet:** Karakterlerin el, kol, bacak gibi uzuvlarını kullanarak uyguladığı şiddet.
     > Buna göre, balta ile vurmak **araçsal şiddet** kategorisine girer.
 
-    ***
+    <hr />
 1. **Gerçek olmayıp gerçekmiş gibi oluşturulan ve neredeyse birçok olayın meydana geldiği alanlar aşağıdakilerden hangisidir?**
     - **Cevap A-) Simülasyon**
     - B-) Akıllı araçlar
@@ -1458,7 +1458,7 @@
 
     > **Açıklama:** Gerçek olmayıp gerçekmiş gibi oluşturulan, kullanıcıların içinde hareket ederek deneyim yaşadığı sanal ortamlara **simülasyon** denir. Dijital oyunlar, bu simülasyon ortamları içerisinde gerçekleşir.
 
-    ***
+    <hr />
 1. **İnsanların gördüğü, duyduğu herhangi bir durumu kendine göre değerlendirme ve içselleştirme becerisine ne denir?**
     - A-) İletişim becerisi
     - **Cevap B-) Eleştirel düşünme becerisi**
@@ -1468,7 +1468,7 @@
 
     > **Açıklama:** Metinde eleştirel kavramı, "doğrunun, iyinin, haklının ve gerçeğin yerini alan, sahteye, yanlışa, kötüye ve haksıza karşı doğru, iyi, haklı ve gerçek olanı sunmaktır" şeklinde tanımlanmıştır. Bu, bir durumu sadece olumsuz yönleriyle değil, tüm yönleriyle değerlendirip içselleştirme becerisi olan **eleştirel düşünme becerisini** ifade eder.
 
-    ***
+    <hr />
 1. **Dijital oyunların olumlu yönlerinden biri aşağıdakilerden hangisi değildir?**
     - A-) Hayal kurma
     - B-) Kendini ifade etme
@@ -1478,7 +1478,7 @@
 
     > **Açıklama:** Dijital oyunların hayal kurma, kendini ifade etme, boş zamanı değerlendirme ve içerik üretme gibi olumlu yönleri ve kültürel işlevleri vardır . Ancak "dijital çerezleri kabul etme", bir web sitesinin teknik bir işlemi olup, oyunların sağladığı olumlu bir yön veya kültürel bir işlev değildir.
 
-    ***
+    <hr />
 1. **Bir bilgisayar ağı veya internet üzerinden birçok oyuncu ile oynanan oyunlar aşağıdakilerden hangisidir?**
     - **Cevap A-) Çevrim içi oyunlar**
     - B-) Offline oyunlar
@@ -1488,7 +1488,7 @@
 
     > **Açıklama:** Ders notlarında, bir bilgisayar ağı veya internet üzerinden birçok oyuncu ile oynanan oyunlar **"Çevrim içi oyunlar"** olarak tanımlanmıştır. Bu oyunlar, çok sayıda kullanıcının aynı anda etkileşimde bulunmasına olanak tanır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi bilgisayar oyunu oynayanlar için bir fırsattır?**
     - A-) Reklam
     - B-) Nefret söylemi
@@ -1498,7 +1498,7 @@
 
     > **Açıklama:** Ders notlarında dijital oyunların sağladığı çevrim içi fırsatlar listelenmiştir. Bu listede **"Yurttaş katılımı / politik katılım"** bir fırsat olarak yer almaktadır. Reklam, nefret söylemi, kumar ve yasa dışı içerik ise çevrim içi riskler arasında sayılmıştır .
 
-    ***
+    <hr />
 1. **Motivasyon açısından dijital oyun türlerinde sürekli aşama atlama eğiliminde olan oyuncuların kategorisi aşağıdakilerden hangisidir?**
     - A-) Katiller
     - **Cevap B-) Kazananlar**
@@ -1508,7 +1508,7 @@
 
     > **Açıklama:** Bartle'ın oyuncu motivasyonlarına göre yaptığı sınıflandırmada, oyun içerisinde kazanmaya ve aşama atlamaya odaklanan oyuncular **"Kazananlar"** olarak tanımlanmıştır. Onlar için her şey bu amaca hizmet eder.
 
-    ***
+    <hr />
 1. **Medya okuryazarlığının temel ilkeleri arasında aşağıdakilerden hangisi yer almaz?**
     - A-) Medyadaki mesajlar kurgudur.
     - B-) Medyadaki mesajlar gerçeği yansıtmaz, oluşturur.
@@ -1518,7 +1518,7 @@
 
     > **Açıklama:** Metinde medya okuryazarlığının beş temel ilkesi sıralanmıştır: Medyadaki mesajların kurgu olması, gerçeği yansıtmayıp oluşturması, izleyicinin kendi anlamını yüklemesi, medyanın ticari bir amaç taşıması ve sosyal/politik içerikli olması . Reklamın ürün satışını olumlu etkilemesi bir pazarlama gerçeği olsa da, metinde medya okuryazarlığının temel bir ilkesi olarak belirtilmemiştir.
 
-    ***
+    <hr />
 1. **Dijital oyunları teknik ve içerik açısından erişebilme, analiz etme, eleştirel düşünme ve kendi iletilerini oluşturabilme davranışına ne ad verilir?**
     - **Cevap A-) Dijital oyun okuryazarlığı**
     - B-) Medya okuryazarlığı
@@ -1528,7 +1528,7 @@
 
     > **Açıklama:** Sorudaki tanım, **dijital oyun okuryazarlığını** ifade eder. Bu kavram, dijital oyunları teknik ve içerik açısından anlama, analiz etme, eleştirel düşünme ve bu doğrultuda yeni iletiler üretebilme becerisi olarak açıklanmıştır .
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisinin internet kafelerde görülen davranışlar arasında olduğu söylenemez?**
     - A-) Boş zaman harcaması
     - B-) Şans oyunları
@@ -1538,7 +1538,7 @@
 
     > **Açıklama:** Metinde internet kafelerde görülen olumsuz davranışlar arasında zamanın boşa harcanması, şans oyunlarına ilginin artması, yalnızlaşma ve gerçek dünyadan kaçma gibi durumlar sayılmıştır. Yazılım programlarını öğrenmek ise bu mekanların temel kullanım amaçlarından biri olarak belirtilmemiştir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi bir bilgisayar ağı veya internet üzerinden birçok oyuncu ile oynanan oyun türüdür?**
     - A-) Mobil oyunlar
     - B-) Konsol oyunları
@@ -1548,7 +1548,7 @@
 
     > **Açıklama:** Bir bilgisayar ağı veya internet üzerinden birçok oyuncunun birlikte oynadığı oyunlar **"Çevrim içi oyunlar"** olarak tanımlanmaktadır. Bu, soruda verilen tanımın tam karşılığıdır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi Bartle'nin çoklu kullanıcı oyunlarda oyuncuları motivasyonlarına göre ayırmış olduğu kategorilerden biri değildir?**
     - A-) Kaşifler
     - B-) Kazananlar
@@ -1558,7 +1558,7 @@
 
     > **Açıklama:** Richard Bartle'ın çoklu kullanıcı oyunlardaki oyuncu tiplerini motivasyonlarına göre ayırdığı dört kategori şunlardır: **Kazananlar, Kaşifler, Sosyalleşenler** ve **Katiller**. "Kaybedenler" bu sınıflandırmada yer alan bir kategori değildir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi dijital oyun okuryazarlığının ilkelerinden biri değildir?**
     - A-) Dijital oyunlar gerçeği yansıtmayıp, simülasyondan oluşmaktadır.
     - **Cevap B-) Dijital oyunlar, kullanıcının bilgi düzeyini artırır.**
@@ -1568,7 +1568,7 @@
 
     > **Açıklama:** Dijital oyun okuryazarlığının temel ilkeleri arasında oyunların birer simülasyon (kurgu) olduğu, ticari amaç taşıdığı, sosyal ve siyasi mesajlar içerebileceği ve biçim ile içeriğin bağlantılı olduğu vurgulanır . Dijital oyunların kullanıcının bilgi düzeyini artırması, eğitim amaçlı kullanımlarında bir sonuç olsa da, okuryazarlığın temel bir ilkesi olarak sunulmamıştır.
 
-    ***
+    <hr />
 ## Unite 9
 1. **Bir kurumun meşruiyet kaynakları arasında aşağıdakilerden hangisi sayılamaz?**
     - A-) Yönetimin belirlenme şekli
@@ -1579,7 +1579,7 @@
 
     > **Açıklama:** Bir kurumun meşruiyet kaynakları arasında yönetimin belirlenme şekli, kurumun sosyal, siyasal, kültürel ve ekonomik rolleri ve en önemlisi hedef kitlelerinin kararlara **katılımı** yer alır. İstihdam sayısı, kurumun ekonomik bir göstergesi olsa da, doğrudan bir meşruiyet kaynağı olarak metinde belirtilmemiştir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi katılım türlerinden biri değildir?**
     - A-) Aktif katılma
     - B-) İdeolojik katılma
@@ -1589,7 +1589,7 @@
 
     > **Açıklama:** Perroux'a göre dört temel katılım türü vardır: Bireyin bir ortaklığa aktif olarak girmesi olan **aktif katılma**, sosyal bir bütünleşme olan **pasif katılma**, bir otoritenin amaçlarına gönüllü ve bilinçli olarak katılma olan **ideolojik katılma** ve somut olanak ve **yetkilerin bölüşüldüğü** katılım . "Geçersiz katılma" bu sınıflandırmada yer almaz.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi bir yönetimin demokratiklik niteliğini ortaya koyan özelliklerinden biri değildir?**
     - **Cevap A-) Kullandığı teknoloji**
     - B-) Halk denetimi
@@ -1599,7 +1599,7 @@
 
     > **Açıklama:** Bir yönetimin demokratiklik niteliğini ortaya koyan özellikler arasında; halkın katılımı, **halk denetimi**, etkinlik ve **yönetimde yaratıcılık**, **halkla ilişkiler** ve **yönetsel saydamlık** gibi ilkeler yer alır . Bir kurumun kullandığı teknoloji, onun modernliğini gösterebilir ancak tek başına demokratiklik niteliğini belirleyen bir özellik değildir.
 
-    ***
+    <hr />
 1. **Sahip olunan tüm bilgi ve verilerin bir bilgisayar aracılığıyla ulaşılabilecek ortama aktarılması aşağıdakilerden hangisiyle tanımlanabilir?**
     - A-) Küreselleşme
     - **Cevap B-) Dijitalleşme**
@@ -1609,7 +1609,7 @@
 
     > **Açıklama:** Ders notlarında **dijitalleşme** için yapılan basit tanım şöyledir: "sahip olunan tüm bilgi ve verilerin herhangi bir bilgisayar aracılığı ile ulaşılabilecek ortama aktarılmasına verilen addır". Bu, soruda verilen ifadenin tam karşılığıdır.
 
-    ***
+    <hr />
 1. **Emirlerin, zümrelerin, sınıfların ya da sosyal işlevlerin yerine bireysel çıkarların siyasi temsiline dair bir anlayış olarak tanımlanabilecek kavram aşağıdakilerden hangisidir?**
     - A-) Sosyalleşme
     - B-) Sınıflaşma
@@ -1619,7 +1619,7 @@
 
     > **Açıklama:** Metinde Lukes'e (2008) atıfta bulunularak **bireyselleşme**; "emirlerin, zümrelerin, sınıfların ya da sosyal işlevlerin yerine bireysel çıkarların siyasi temsiline dair bir anlayıştır" şeklinde tanımlanmıştır. Bu, kolektif kimliklerden bireysel çıkarlara doğru bir kaymayı ifade eder.
 
-    ***
+    <hr />
 1. **Nüfusun yaşadığı yerle ilgili bir değişim nedeniyle vatandaşın yönetimden beklentilerinin değişmesi dijitalleşmeyi gerektiren hangi şartla açıklanabilir?**
     - A-) Bireyselleşme
     - B-) Küreselleşme
@@ -1629,7 +1629,7 @@
 
     > **Açıklama:** **Şehirleşme**, kırsaldan kente göç ile nüfusun şehirlerde toplanması ve şehir alanlarının genişlemesi sürecidir. Şehirlerde yaşamaya başlayan nüfus, teknolojiye daha kolay ulaşır ve bireysel talep ve beklentilerini daha fazla ifade eder. Bu durum, kamu yönetiminden beklentileri değiştirerek dijitalleşmeyi gerektiren bir şart haline gelir.
 
-    ***
+    <hr />
 1. **Aşağıdaki internet mecralarından hangisi bir kurumun kurumsal iletişimde başvurabileceği kontrollü bir araçtır?**
     - **Cevap A-) Kurumsal Web sayfaları**
     - B-) Bloglar
@@ -1639,7 +1639,7 @@
 
     > **Açıklama:** **Kurumsal web sayfaları**, kurumların paydaşları ve medya ile iletişim kurabilecekleri **kontrollü bir kanaldır**. Bloglar, mikrobloglar ve sosyal ağlar gibi diğer mecralarda ise içerik ve etkileşim büyük ölçüde kullanıcıların kontrolündedir.
 
-    ***
+    <hr />
 1. **Kullanıcıların fikir ve düşüncelerini cep telefonları, e-posta veya Web tarafından dağıtılan kısa mesajlarla açıklayabilecekleri ve en önemli örneğinin Twitter olduğu sosyal medya ortamı aşağıdakilerden hangisidir?**
     - A-) Elektronik posta
     - B-) Blog
@@ -1649,7 +1649,7 @@
 
     > **Açıklama:** **Mikrobloglar**, kullanıcıların fikir ve düşüncelerini anlık ve kısa mesajlarla açıklayabildikleri bir iletişim şeklidir. Metinde, en önemli mikroblog örneği olarak **Twitter** gösterilmiştir.
 
-    ***
+    <hr />
 1. **Vatandaşların telefonla ya da internet ortamında çeşitli konulardaki görüş, istek ve şikâyetlerini Cumhurbaşkanlığına ya da Cumhurbaşkanlığı koordinasyonunda kamu kurumlarına iletebildikleri uygulamanın adı aşağıdakilerden hangisidir?**
     - A-) VEDOP
     - B-) BİMER
@@ -1659,7 +1659,7 @@
 
     > **Açıklama:** **CİMER (Cumhurbaşkanlığı İletişim Merkezi)**, vatandaşların telefonla ya da internet ortamında çeşitli konulardaki görüş, istek, ihbar ve şikâyetlerini doğrudan Cumhurbaşkanlığına ya da ilgili kamu kurumlarına iletebildikleri bir dijital katılım uygulamasıdır.
 
-    ***
+    <hr />
 1. **Vatandaşın telefon, web ve mobil uygulama aracılığıyla sağlık bakanlığına bağlı hastane, aile hekimlikleri ve ağız diş sağlığı merkezlerinden istediği hastane ya da hekimden randevu alabildiği sistem aşağıdakilerden hangisidir?**
     - A-) Ulusal Yargı Ağı Bilişim Sistemi (UYAP)
     - **Cevap B-) Merkezî Hekim Randevu Sistemi (MHRS)**
@@ -1669,7 +1669,7 @@
 
     > **Açıklama:** **MHRS (Merkezî Hekim Randevu Sistemi)**, vatandaşların telefon, web ve mobil uygulama aracılığıyla Sağlık Bakanlığı'na bağlı hastaneler, aile hekimlikleri ve ağız diş sağlığı merkezlerinden istedikleri hastaneden ya da hekimden randevu alabildikleri bir e-sağlık sistemidir.
 
-    ***
+    <hr />
 1. **Bir kurumun hedef kitlelerinin kurumsal kararların alınması sürecinde söz sahibi olabilmesi aşağıdakilerden hangisi ile tanımlanabilir?**
     - **Cevap A-) Katılım**
     - B-) Sözleşme
@@ -1679,7 +1679,7 @@
 
     > **Açıklama:** Bir kurumun hedef kitlelerinin kurumsal kararların alınması sürecinde söz sahibi olabilmesi, metinde **katılım olgusu** olarak tanımlanmıştır. Bu, kurumun en önemli meşruiyet kaynaklarından biridir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi katılım kavramının içerik ve sınırlarını belirleyen sorulardan biri değildir?**
     - A-) Kim katılacak?
     - B-) Neye katılacak?
@@ -1689,7 +1689,7 @@
 
     > **Açıklama:** Katılım kavramının içerik ve sınırları, **kimin, neye, nerede, ne zaman ve nasıl katılacağı** gibi sorulara verilen yanıtlara göre değişir. Katılımın sonuçlarının ne olacağı ise bu sürecin bir çıktısıdır, sürecin sınırlarını belirleyen bir soru değildir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi demokratik kurumlardaki katılım türlerinden biri değildir?**
     - A-) Seçimle katılım
     - B-) Halkla ilişkiler yoluyla katılım
@@ -1699,7 +1699,7 @@
 
     > **Açıklama:** Metne göre demokratik kurumlarda iki tür katılım vardır: Birincisi **seçimle yönetime katılım**, ikincisi ise **halkla ilişkiler, sivil toplum kuruluşları ve medya gibi araçlarla** yönetime etki etmektir. Parasal destek yoluyla katılım, bu bağlamda bir yöntem olarak belirtilmemiştir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi dijitalleşmeye bağlı olarak kamu kurumlarıyla ilişkilendirilebilecek kavramlardan biri değildir?**
     - A-) Kırtasiyeciliğin azaltılması
     - **Cevap B-) Yüksek veri güvenliği**
@@ -1709,7 +1709,7 @@
 
     > **Açıklama:** Metinde kamu yönetiminde dijitalleşme sürecine **kırtasiyeciliğin azaltılması, katılımcılığın artırılması, kamu hizmetlerinin verimli, etkin, şeffaf ve hızlı biçimde sunulması** gibi olumlu anlamlar yüklendiği belirtilmektedir. Yüksek veri güvenliği bir amaç olmakla birlikte, dijitalleşmenin doğası gereği ihlallere ve risklere de açık bir alandır ve bu nedenle bir sonuçtan ziyade sürekli yönetilmesi gereken bir süreçtir.
 
-    ***
+    <hr />
 1. **Yönetime katılımın pratik fonksiyonları arasında yer alan kuralcı fonksiyon aşağıdakilerden hangisi ile açıklanabilir?**
     - A-) Halkla ilişkiler yoluyla katılım
     - B-) İnternet aracılığıyla katılım
@@ -1719,7 +1719,7 @@
 
     > **Açıklama:** Yönetime katılımın pratik fonksiyonları ikiye ayrılır. Bunlardan **kuralcı fonksiyon, doğrudan ya da dolaylı olarak demokrasi talebiyle ilgilidir**. Araçsal fonksiyon ise etkili bir planlama için katılımcı yöntemin kullanılmasıyla ilgilidir.
 
-    ***
+    <hr />
 1. **Maliye Bakanlığınca veri tabanı oluşturulması ve kayıt dışı ekonomi ile mücadele edilmesi amacıyla 1998 yılında başlatılan proje aşağıdakilerden hangisidir?**
     - **Cevap A-) VEDOP**
     - B-) UYAP
@@ -1729,7 +1729,7 @@
 
     > **Açıklama:** Maliye Bakanlığınca veri tabanı oluşturulması ve kayıt dışı ekonomi ile mücadele edilmesi amacıyla 1998 yılında başlatılan proje **VEDOP (Vergi Daireleri Otomasyon Projesi)**'tur.
 
-    ***
+    <hr />
 1. **Hangisi kamuda dijitalleşmeyi gerektiren şartlardan biri değildir?**
     - A-) Şehirleşme
     - **Cevap B-) Personel sayısının azlığı**
@@ -1739,7 +1739,7 @@
 
     > **Açıklama:** Kamuda dijitalleşmeyi gerektiren şartlar arasında **şehirleşme, bireyselleşme, bilgi ve iletişim teknolojilerinin gelişmesi, küreselleşme** ve **vatandaşın verimli hizmet beklentisi** gibi sosyo-teknolojik dönüşümler yer alır . Personel sayısının azlığı, dijitalleşme için bir neden olabilir ancak metinde temel bir şart olarak listelenmemiştir.
 
-    ***
+    <hr />
 1. I. Şehirleşme<br />II. Bilgi ve iletişim teknolojilerinin gelişmesi ve yaygınlaşması<br />III. Küreselleşme<br />**Yukarıdakilerden hangisi ya da hangileri kamuda dijitalleşmeyi zorunlu kılan unsurlar arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız II
@@ -1749,7 +1749,7 @@
 
     > **Açıklama:** Metinde kamuda dijitalleşmeyi zorunlu kılan unsurlar detaylı bir şekilde açıklanmıştır. Bunlar arasında nüfusun kentlere taşınmasıyla beklentilerin değiştiği **şehirleşme**, iletişim ve ulaşım teknolojilerinin gelişimiyle dünyanın küçüldüğü **küreselleşme** ve internet gibi **bilgi ve iletişim teknolojilerinin gelişmesi** yer almaktadır. Dolayısıyla her üç unsur da doğrudur.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi hem kaynağın hem de alıcının aynı zaman içinde mesajlaştığı araçlarla kurulan iletişim yöntemidir?**
     - **Cevap A-) Anlık mesajlaşma**
     - B-) Mikrobloglar
@@ -1759,7 +1759,7 @@
 
     > **Açıklama:** Ders notlarında **anlık mesajlaşma (Instant Messaging)**, "hem kaynağın hem de alıcının aynı zaman içinde mesajlaştığı araçlarla kurulan iletişim yöntemidir" şeklinde tanımlanmıştır. Whatsapp ve Messenger bu türün en bilinen örnekleridir.
 
-    ***
+    <hr />
 1. I. CİMER: Vatandaşların telefonla ya da internet ortamında çeşitli konulardaki görüş, istek ve şikâyetlerini Cumhurbaşkanlığına ya da Cumhurbaşkanlığı koordinasyonunda kamu kurumlarına iletebildikleri bir uygulamadır.<br />II. MHRS: Vatandaşın telefon, web ve mobil uygulama aracılığıyla Sağlık Bakanlığı'na bağlı hastane, aile hekimlikleri ve ağız diş sağlığı merkezlerinden istediği hastaneden ya da hekimden randevu alabildiği bir sistemdir.<br />III. UYAP: Kamu yönetimi unsurlarının mevzuat dayanaklarıyla birlikte tespitinin yapılıp elektronik ortama aktarıldığı ve geliştirilen e-Devlet uygulamalarının birbirine entegre edilerek tek merkezden yönetildiği, böylece Devlete geçilmesini sağlayan bir sistemdir.<br />**Yukarıdaki kamu kurumlarında dijital katılımı sağlayan uygulama ile uygulamanın işlevi eşleştirmelerinden hangisi ya da hangiileri doğrudur?**
     - A-) Yalnız I
     - B-) Yalnız II
@@ -1769,7 +1769,7 @@
 
     > **Açıklama:** I. ve II. öncüllerdeki **CİMER** ve **MHRS** tanımları metindeki açıklamalarla birebir uyumludur. Ancak III. öncüldeki tanım, UYAP'a değil, **KAYSİS**'e (Elektronik Kamu Bilgi Yönetim Sistemi) aittir. UYAP ise Adalet Bakanlığı ve yargı birimlerinin bilişim sistemidir.
 
-    ***
+    <hr />
 ## Unite 10
 1. **Sağlıkla ilgili yapılan tanımların kültürden kültüre farklılıklar göstermesinin** **nedeni aşağıdakilerden hangisi değildir?**
     - A-) Yapılan bireysel yorumlar
@@ -1780,7 +1780,7 @@
 
     > **Açıklama:** Metinde, "Sağlıkla ilgili yapılan tanımlar kültürden kültüre farklılık göstermektedir. Çünkü yapılan tanımlar **bireysel, sosyal, kültürel ve ekonomik yorumların** birer öznesi durumundadır" ifadesi yer almaktadır. Bilimsel yorumlar ise evrensel olma iddiası taşıdığı için bu kültürel farklılıkların temel nedeni olarak görülmez.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi kitle iletişim araçlarının yeniliklerin yayılması aşamalarından biri değildir?**
     - **Cevap A-) Hazırlık**
     - B-) Bilgilendirme
@@ -1790,7 +1790,7 @@
 
     > **Açıklama:** Rogers'a göre kitle iletişim araçlarının yeniliklerin yayılmasında dört temel aşaması vardır: **Bilgilendirme, İkna, Karar** ve **Onaylama** . Hazırlık aşaması bu modelde yer almaz.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sağlıkta dijitalleşmenin sağlık sektörüne sağladığı faydalardan biri değildir?**
     - A-) Kalite ve verimi artırma
     - B-) Tasarruf sağlama
@@ -1800,7 +1800,7 @@
 
     > **Açıklama:** Sağlıkta dijitalleşmenin sektöre; kalite ve verim artışı, tasarruf sağlama, sağlık politikalarının belirlenmesine katkı ve sağlığın geliştirilmesini destekleme gibi faydaları vardır . Kronik hastalıkların gerçekleşme oranını düşürmek, bu dijitalleşme süreçlerinin bir sonucu olabilir ancak metinde doğrudan bir fayda olarak listelenmemiştir.
 
-    ***
+    <hr />
 1. **Belirli amaçlar doğrultusunda bilginin bilime uygulanmasına ne denir?**
     - A-) Sanat
     - **Cevap B-) Teknoloji**
@@ -1810,7 +1810,7 @@
 
     > **Açıklama:** Ders notlarında **teknoloji**, "geniş anlamıyla belli amaçlar doğrultusunda bilginin bilime uygulanmasıdır" şeklinde tanımlanmıştır. Bu, bilginin sistematik bir şekilde yeni bir ürüne veya yönteme dönüşmesini ifade eder.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi dijital sağlığın bileşenlerinden biri değildir?**
     - A-) Teknoloji
     - **Cevap B-) Kronik hastalıklar**
@@ -1820,7 +1820,7 @@
 
     > **Açıklama:** Metinde dijital sağlığın bileşenleri, bilgi ve iletişim teknolojilerinin kullanım sürecindeki unsurlar olarak tanımlanmış ve şu şekilde sıralanmıştır: **teknoloji, sağlık personeli, hasta, sağlık kuruluşları ve sağlıklı bireyler**. Kronik hastalıklar, bu sistemin odaklandığı bir konu alanıdır ancak sistemin bir bileşeni değildir.
 
-    ***
+    <hr />
 1. **Toplumun bütün kesimleri adına sağlığın dengelenmesini, her bir toplum ferdinin sağlıklı bireyler olarak yetişmesini ve bu anlamda bireylerin sağlıklı bir yaşam için tutum ve davranış geliştirmesini hedefleyen yaklaşım aşağıdakilerden hangisi ile tanımlanabilir?**
     - A-) Kronik hastalıklar yönetimi
     - B-) Sağlık kuruluşları kurumsal iletişimi
@@ -1830,7 +1830,7 @@
 
     > **Açıklama:** Soruda verilen tanım, ders notlarında açıklanan **sağlığın geliştirilmesi** kavramıyla birebir örtüşmektedir. Bu kavram, "insanların sağlıklarının belirleyicileri üzerindeki kontrollerini artırmalarını ve böylece kendi sağlıklarını iyileştirmelerini sağlama sürecidir".
 
-    ***
+    <hr />
 1. **Günümüz doktor-hasta iletişiminde tedavi süreciyle ilgili tıbbi kararın verilmesi konusunda aşağıdakilerden hangisi doğrudur?**
     - A-) Karar resmi otoritelere aittir.
     - B-) Karar doktorlar heyetine aittir.
@@ -1840,7 +1840,7 @@
 
     > **Açıklama:** Günümüz doktor-hasta iletişiminde, hastanın tedavi sürecine aktif katılımı önem kazanmıştır. Metinde bu durum şöyle ifade edilir: "Günümüz doktor-hasta iletişimi karar verme sürecinde hasta ve doktor arasında bir ortaklığın kurulmasını gerektirmektedir. Çünkü... **hastanın tıbbi karara katılımının önemini artırmaktadır**".
 
-    ***
+    <hr />
 1. **Sosyal medya mecralarında insanların hastane ve hekimlerle ilgili yorumları okuması, başkalarının hastalık ve tedavi süreciyle ilgili paylaştıkları başarı ya da başarısızlık hikâyelerini takip etmesi gibi şekillerde yayılan sağlık bilgileri nasıl tanımlanabilir?**
     - A-) Sağlık iletişimi
     - B-) Alternatif Tıp
@@ -1850,7 +1850,7 @@
 
     > **Açıklama:** Ağızdan ağıza pazarlamanın bir türü olan viral pazarlamadan esinlenerek üretilen **"Viral Sağlık"** kavramı, sosyal medyada hastaların ya da sağlıklı kişilerin sağlıkla ilgili bilgileri (deneyim, başarı hikayesi, yorum vb.) bir virüs gibi yaymasını ifade eder.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sosyal medyanın sağlık iletişiminde kullanılması sonucunda sağlık personeliyle ilgili doğabilecek risklerden biri değildir?**
     - **Cevap A-) Modern sağlığın güven kaybı**
     - B-) Sorumsuz davranış gösterme
@@ -1860,7 +1860,7 @@
 
     > **Açıklama:** Sosyal medyanın sağlık hizmetlerinde kullanımının sağlık personeli için getirdiği riskler arasında sorumluluk, gizlilik, disiplin ve hukuki sorunlara maruz kalma olasılığı bulunmaktadır. Modern sağlığa güven kaybı ise, yanlış bilgilerin yayılması sonucu hastalar ve toplum nezdinde oluşabilecek bir risktir, doğrudan personele yönelik bir risk değildir.
 
-    ***
+    <hr />
 1. **Sağlık iletişimi kavramı ilk olarak hangi dönemde ortaya çıkmıştır?**
     - A-) 1960’lı yıllar
     - **Cevap B-) 1970’li yıllar**
@@ -1870,7 +1870,7 @@
 
     > **Açıklama:** Ders notlarında, bireylerin sağlık konusunda yoğun baskı altında hissetmesi gibi nedenlerle **1970'li yıllarda sağlık iletişimi kavramının ortaya çıktığı** belirtilmektedir. Bu gelişme ilk olarak ABD'de başlamış, daha sonra Avrupa'ya yayılmıştır .
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sağlığın geliştirilmesiyle ilgili alanlardan biri değildir?**
     - A-) Koruyucu hizmetler
     - B-) Önleyici sağlık tedbirleri
@@ -1880,7 +1880,7 @@
 
     > **Açıklama:** Metinde Downie ve arkadaşlarının sağlığın geliştirilmesi için tanımladığı yedi alan listelenmiştir. Bu alanlar arasında **koruyucu hizmetler, önleyici sağlık tedbirleri, pozitif sağlık eğitimi** ve **önleyici sağlık eğitimi** gibi başlıklar bulunmaktadır . "Kanserle mücadele" ise spesifik bir hastalıkla mücadele olup, sağlığın geliştirilmesinin genel bir alanı olarak değil, bir alt başlığı olarak değerlendirilebilir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sağlıkta dijitalleşmenin hastanenin iç iletişimine sağladığı faydalardan biri değildir?**
     - **Cevap A-) Bilgi güvenliği riskini ortadan kaldırmak**
     - B-) Zaman kaybını azaltmak
@@ -1890,7 +1890,7 @@
 
     > **Açıklama:** Sağlıkta dijitalleşmenin hastane içi iletişime faydaları arasında **zaman kaybını azaltmak, hekim açığını gidermeye katkı sağlamak, planlama ve denetim sağlamak** ve **iş gücü kaybından doğan sosyal maliyetleri azaltmak** sayılmıştır . Bilgi güvenliği riskini ortadan kaldırmak mümkün değildir; dijitalleşme bu riski azaltmaya yönelik tedbirler içerse de tamamen yok edemez.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi Türkiye Sağlık Bilgi Sistemi Eylem Planı’nda benimsenen eylemlerden biri değildir?**
     - A-) Ulusal ve uluslararası uyum için standartlar geliştirme
     - B-) Sağlık kuruluşları arasında özel iletişim ağları oluşturma
@@ -1900,7 +1900,7 @@
 
     > **Açıklama:** Türkiye Sağlık Bilgi Sistemi Eylem Planı'nda benimsenen eylemler arasında standartların belirlenmesi, sağlık kuruluşları arasında özel ağ oluşturulması, kişisel verilerin korunması ve sağlık veri setlerinin oluşturulması gibi maddeler yer almaktadır . Sağlık profesyonelleri arasında sosyal bir ağ oluşturulması bu planın eylemleri arasında listelenmemiştir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sosyal medyanın sağlık iletişimindeki kullanım alanlarından biri değildir?**
     - A-) Sağılığın geliştirilmesi
     - B-) Kronik hastalıklar yönetimi
@@ -1910,7 +1910,7 @@
 
     > **Açıklama:** Ders notlarında sosyal medyanın sağlık iletişiminde kullanım alanları; **sağlığın geliştirilmesi, kronik hastalıklar yönetimi, sağlık kuruluşları kurumsal iletişimi, sağlık profesyonelleri iletişim yönetimi** gibi başlıklar altında incelenmiştir. Sağlığın reklam mecrası olması, bir kullanım alanı değil, bu alanlar için kullanılabilecek bir araçtır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sosyal medyanın sağlık hizmetlerinde kullanılmasının doğurduğu risklerden biri değildir?**
     - A-) Sağlık Personelinin disiplin soruşturmasına maruz kalması
     - **Cevap B-) Tıbbi teşhislerde başarısızlığın artması**
@@ -1920,7 +1920,7 @@
 
     > **Açıklama:** Metinde sosyal medyanın sağlık hizmetlerinde kullanılmasının riskleri listelenmiştir. Bu riskler arasında **sağlık personelinin disiplin soruşturmasına maruz kalması, yanlış sağlık bilgisinin yayılması, hastanın doğru bilgiye ulaşamaması** ve **modern sağlığa güven kaybı yaşanması** bulunmaktadır. Tıbbi teşhislerde başarısızlığın artması doğrudan bir risk olarak belirtilmemiştir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi devletten vatandaşa olan e-sağlık hizmetleri arasında yer almaz?**
     - A-) E-Nabız Sistemi
     - B-) Tele- tıp
@@ -1930,7 +1930,7 @@
 
     > **Açıklama:** Metinde Türkiye'deki e-sağlık hizmetleri üç başlıkta gruplandırılmıştır. **E-Nabız, Tele-tıp, MHRS** ve **e-Laboratuvar** "devletten vatandaşa olan e-sağlık hizmetleri" başlığı altında yer alırken, **İlaç Takip Sistemi (İTS)** "devletten devlete sunulan e-sağlık hizmetleri" başlığı altında listelenmiştir .
 
-    ***
+    <hr />
 ## Unite 11
 1. **Aşağıdaki kavramlardan hangisi siyasi iktidarın ele geçirilmesine dönük eylem ya da eylemlere verilen addır?**
     - A-) Siyasal iletişim
@@ -1941,7 +1941,7 @@
 
     > **Açıklama:** Ders notlarında **siyaset** için yapılan tanımlardan ilki şöyledir: "siyasi iktidarın ele geçirilmesine dönük eylem ya da eylemlerdir". Reklam, propaganda ve halkla ilişkiler ise bu amaca ulaşmak için kullanılan siyasal iletişim araçlarıdır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi siyasal iletişim açısından internetin olumlu özelliklerinden biri değildir?**
     - **Cevap A-) Aynı anda herkesin yararlanabileceği bir araç değildir.**
     - B-) Özgürlük vermektedir.
@@ -1951,7 +1951,7 @@
 
     > **Açıklama:** İnternetin siyasal iletişim açısından olumlu özellikleri arasında; **özgürlük vermesi, hızlı olması, kolay erişilebilir olması** ve diğer medya araçlarıyla iç içe olması sayılmıştır . "Aynı anda herkesin yararlanabileceği bir araç değildir" ifadesi ise internetin bireysel kullanıma dayanması nedeniyle ortaya çıkan **olumsuz bir özelliğidir**.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi Web 1.0’dan Web 2.0’a geçişle birlikte internet mecrasında gerçekleşen değişimlerden biri değildir?**
     - A-) Sosyal ağların ortaya çıkması
     - B-) Hem okunabilir hem de yazılabilir mecraların oluşması
@@ -1961,7 +1961,7 @@
 
     > **Açıklama:** Web 1.0'dan Web 2.0'a geçişle birlikte internet; sosyal ağların ortaya çıktığı, hem okunabilir hem yazılabilir hale geldiği, etkileşimli bilgi paylaşımına ve kullanıcıların içerik üretimine olanak tanıyan bir yapıya dönüşmüştür. **Kişisel web sayfaları** ise daha çok tek yönlü bilgi aktarımının olduğu Web 1.0 d&önemine aittir.
 
-    ***
+    <hr />
 1. **Sosyal medya imkanlarını kullanarak seçim kampanyasında harcanan paradan daha fazla paranın toplandığı kampanya hangi lidere aittir?**
     - A-) Donald Trump
     - B-) Recep Tayyip Erdoğan
@@ -1971,7 +1971,7 @@
 
     > **Açıklama:** Metinde belirtildiği üzere, "ABD yasaları siyasal partilere bağış toplamaya izin vermektedir. **Barack Obama'nın** seçim kampanyasında sosyal medya olanakları başarıyla kullanılarak harcanan paradan çok daha fazla bir bağış toplanabilmiştir.".
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi siyasal seçim kampanyalarında sosyal medyanın kullanım amaçlarından biri değildir?**
     - A-) Sayfa yayınlama
     - B-) Elektronik posta gönderme
@@ -1981,7 +1981,7 @@
 
     > **Açıklama:** Siyasal seçim kampanyalarında sosyal medya; sayfa yayınlama, e-posta gönderme, sohbet odaları oluşturma ve kampanya çalışmalarını test etme gibi amaçlarla kullanılır. **Asimetrik (tek yönlü) bilgi akışı** ise geleneksel medyanın bir özelliğidir. Sosyal medya, tam tersine, simetrik ve etkileşimli bir iletişimi teşvik eder.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi sosyal medyanın özelliklerinden biri değildir?**
     - **Cevap A-) Tek yönlülük**
     - B-) Katılım
@@ -1991,7 +1991,7 @@
 
     > **Açıklama:** Sosyal medyanın temel özellikleri; kullanıcıları geri bildirim ve katkıya teşvik eden **katılım**, karşılıklı diyalog imkânı sunan **konuşma**, ortak ilgi alanlarına sahip insanları bir araya getiren **topluluk** ve diğer sitelerle bağlantı kurmayı sağlayan **bağlanabilirliktir** . **Tek yönlülük**, geleneksel medyanın bir özelliğidir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi Türkiye’deki seçim kampanyalarında yaygın olarak kullanılan sosyal ağ sitelerinden biridir?**
     - A-) Twitter
     - **Cevap B-) Facebook**
@@ -2001,7 +2001,7 @@
 
     > **Açıklama:** Ders notlarında Türkiye'deki siyasal iletişim bağlamında **Facebook**'un geniş kullanım potansiyeline sahip bir sosyal ağ sitesi olduğu belirtilmiştir. Siyasi aktörler, seçim dönemleri ve sonrasında seçmenlerle iletişim kurmak için Facebook'u yaygın olarak kullanmaktadır .
 
-    ***
+    <hr />
 1. **Aşağıdaki araçlardan hangisiyle farklı mekanlardaki insanlar tarafından eş zamanlı olmadan ortak içerik üretimi yapılabilir?**
     - A-) YouTube
     - B-) Facebook
@@ -2011,7 +2011,7 @@
 
     > **Açıklama:** **Wikiler**, "insanlara içerik oluşturma ya da içerikleri düzenleme imkânı veren sitelerdir. Ortak çalışma yapmak için oldukça uygun araçlardır". Bu özelliği sayesinde farklı mekânlardaki insanlar eş zamanlı olmadan ortak bir metin veya proje üzerinde çalışabilirler.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi aday ya da siyasi liderin konuşma kayıtlarının seçmenlere iletilebileceği bir sosyal mecradır?**
     - A-) Televizyon
     - B-) Bilboard
@@ -2021,7 +2021,7 @@
 
     > **Açıklama:** **Podcastlar**, internette yayınlanan ve kullanıcıların abone olabileceği ses ve video dosyalarıdır. Bu format, siyasi liderlerin veya adayların konuşma kayıtlarının seçmenlere ulaştırılması için uygun bir sosyal mecradır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi seçmenlerin sosyal medyada siyasete katılım biçimlerinden biri değildir?**
     - **Cevap A-) Siyasi bir bilgiyi okuma**
     - B-) Bir sayfayı beğenme
@@ -2031,7 +2031,7 @@
 
     > **Açıklama:** Metne göre, sosyal mecralarda insanlar; siyasi paylaşımlarda bulunma, bir siyasi gruba dâhil olma, bir sayfayı beğenme, bir siyasi aktörü takip etme ve onlarla diyalog kurma gibi yöntemlerle siyasete katılırlar. Siyasi bir bilgiyi sadece okumak ise pasif bir eylemdir ve doğrudan bir katılım biçimi olarak değerlendirilmez.
 
-    ***
+    <hr />
 1. **Siyasal iletişimde iki yönlü iletişim yeteneği bakımından aşağıdakilerden hangisi diğerlerine göre daha avantajlı bir iletişim aracıdır?**
     - A-) Televizyon
     - B-) Radyo
@@ -2041,7 +2041,7 @@
 
     > **Açıklama:** Ders notlarında, diğer kitle iletişim araçlarıyla kıyaslandığında **iki yönlü iletişim yeteneği** bakımından en önemli avantajları sunan teknolojinin **internet** olduğu belirtilmektedir. Diğer seçenekler (televizyon, radyo, gazete) büyük ölçüde tek yönlü iletişim araçlarıdır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi internetin siyasal iletişim açısından olumsuz özelliklerinden biri değildir?**
     - A-) Güvenilirliği azaltabilir.
     - B-) Teknik donanım yetersizliği yaşanabilir.
@@ -2051,7 +2051,7 @@
 
     > **Açıklama:** İnternetin siyasal iletişimdeki olumsuz özellikleri arasında; mesajların kolayca değiştirilmesi nedeniyle güvenilirliğinin azalması, teknik donanım yetersizlikleri, herkesin aynı anda yararlanamaması ve okuryazarlık gerektirmesi sayılmıştır . **Geri bildirim imkânı vermesi** ise internetin olumlu bir özelliğidir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi internet teknolojisinin siyasal iletişim alanına etkilerinden biri değildir?**
     - A-) Seçimlere katılımı artırmaktadır.
     - **Cevap B-) Mesaj aktarımında sesin etkisini artırmıştır.**
@@ -2061,7 +2061,7 @@
 
     > **Açıklama:** Dick Morris'e göre internetin siyasal iletişime ve seçim kampanyalarına üç belirgin etkisi vardır: Seçimlere katılımı artırması, interaktif demokrasiyi teşvik etmesi ve daha düşük bütçeli kampanyalara imkân vermesi . İnternet görsel ve işitsel unsurları birleştirebilse de, mesaj aktarımında "sesin etkisini artırması" spesifik olarak radyonun bir özelliğidir ve internetin temel bir etkisi olarak belirtilmemiştir.
 
-    ***
+    <hr />
 1. **Medya ve kullanıcı/izleyici arasındaki kesin sınırları yumuşatan kitle iletişim aracı aşağıdakilerden hangisidir?**
     - **Cevap A-) Sosyal medya**
     - B-) Televizyon
@@ -2071,7 +2071,7 @@
 
     > **Açıklama:** Geleneksel medyada medya profesyonelleri (kaynak) ile izleyici (alıcı) arasında kesin sınırlar varken, **sosyal medya** bu sınırları yumuşatmıştır. Kullanıcılar artık sadece tüketici değil, aynı zamanda içerik üreticisi konumuna gelmiştir.
 
-    ***
+    <hr />
 1. **Blog ve anlık mesajlaşma arasındaki boşluğu dolduran sosyal mecra aşağıdakilerden hangisidir?**
     - A-) e-mail
     - **Cevap B-) Twitter**
@@ -2081,7 +2081,7 @@
 
     > **Açıklama:** Ders notlarında **mikrobloglar**, "blog ve anlık mesajlaşma arasındaki boşluğu doldurmaktadır" şeklinde tanımlanmıştır. **Twitter**, bu türün en bilinen örneğidir. Bloglardan daha kısa ve anlık, anlık mesajlaşmadan ise daha kamusal bir iletişim sunar.
 
-    ***
+    <hr />
 1. **Dijital iletişimde,bir konunun en önemli noktasıyla ilgili ve kitaplarda yazmayan bilgilerin kısa sürede konunun uzmanından öğrenilmesine ne ad verilir?**
     - A-) Dayanıklılık
     - B-) Göreceli olan bilgiyi yayma
@@ -2091,7 +2091,7 @@
 
     > **Açıklama:** Dijital iletişimin kendine has özelliklerinden biri olan **"Hap Bilgi"**, "bir konunun en önemli noktasıyla ilgili ve kitaplarda yazmayan bilgilerin kısa sürede konunun uzmanından öğrenilebilmesi" olarak tanımlanmıştır.
 
-    ***
+    <hr />
 ## Unite 12
 1. **Bilgisayar sistemlerinin birbirine bağlı olduğu, dünya çapında yaygın olan ve sürekli gelişme gösteren, bünyesinde FTP ve e-posta gibi çeşitli unsurları da barındıran iletişim ağı aşağıdakilerden hangisidir?**
     - A-) Dijital reklam
@@ -2102,7 +2102,7 @@
 
     > **Açıklama:** **İnternet**, "bilgisayar sistemlerinin birbirine bağlı olduğu, dünya çapında yaygın olan ve sürekli gelişme gösteren iletişim ağı" olarak tanımlanır. FTP ve e-posta gibi farklı protokolleri de içeren geniş kapsamlı bir yapıdır. Web ise bu ağ üzerindeki bilgi paylaşım sistemlerinden sadece biridir.
 
-    ***
+    <hr />
 1. **Web kavramının mucidi kimdir?**
     - A-) Mark Zuckerberg
     - **Cevap B-) Tim Berners Lee**
@@ -2112,7 +2112,7 @@
 
     > **Açıklama:** **Web (World Wide Web - Dünya Çapında Ağ)**, 1989 yılında CERN'de görevli bir bilgisayar programcısı olan **Tim Berners-Lee** tarafından geliştirilmiştir.
 
-    ***
+    <hr />
 1. **Web 1.0 döneminde en yoğun kullanılan dijital reklam türü aşağıdakilerden hangisidir?**
     - **Cevap A-) Display (banner) reklamlar**
     - B-) Kelime ağı reklamları
@@ -2122,7 +2122,7 @@
 
     > **Açıklama:** **Web 1.0** döneminde internetin teknik altyapısı ve hızı, video gibi hareketli görsellerden çok statik görsellere izin veriyordu. Bu dönemin en yaygın reklam türü, bir web sitesinin genellikle üst kısmında yer alan ve tıklandığında reklam verenin sitesine yönlendiren görüntülü reklamlar olan **display (banner) reklamlardır**.
 
-    ***
+    <hr />
 1. **Kullanıcıların kodlama ve tasarım gibi teknik bilgiye gerek duymaksızın Web ortamında kolaylıkla yayın ve reklam yapabildiği dönem aşağıdakilerden hangisidir?**
     - A-) Web 1.0 dönemi
     - **Cevap B-) Web 2.0 dönemi**
@@ -2132,7 +2132,7 @@
 
     > **Açıklama:** **Web 2.0 dönemi**, "kullanıcıların kodlama ve tasarım gibi teknik bilgiye ve yüksek meblağlara gerek duymaksızın diğer kullanıcılarla... iletişim kurabildiği, ortak ağlarda ve gruplarda yer alabildiği ikinci nesil İnternet dönemi" olarak tanımlanır. Bu dönem, kullanıcıların içerik üretmesine olanak sağlamıştır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi dijital reklamların kendine özgü avantajlarından biri değildir?**
     - A-) Hedef kitlelerin pek çok kritere göre belirlenebilmesi
     - B-) Coğrafi sınırların aşılabiliyor olması
@@ -2142,7 +2142,7 @@
 
     > **Açıklama:** Dijital reklamların avantajları arasında hedef kitleyi detaylı seçebilme, coğrafi sınırları aşma, anlık etkileşim ve isabetli analiz yapabilme bulunur . Ancak metinde bir dezavantaj olarak, "Genç nüfusun Web ortamlarında aktif olup **yaşlı nüfusun daha çekingen davranması**" belirtilmiştir. Bu durum, reklamların yaşlı nüfusa ulaşmasını zorlaştıran bir dezavantajdır.
 
-    ***
+    <hr />
 1. **Bir kullanıcının reklamın yayımlandığı web sitesinden yönlendirilerek ürün satın alması durumunda reklamın yayımlandığı siteye belli bir oranda komisyon ödenmesi şeklindeki reklam tekniği aşağıdakilerden hangisidir?**
     - A-) Display (banner) reklamlar
     - B-) Kelime ağı reklamları
@@ -2152,7 +2152,7 @@
 
     > **Açıklama:** **Satış Ortaklığı (Affiliate) Reklamları**, "Bir kullanıcının reklamın yayımlandığı Web sitesinden yönlendirilerek ürün satın alması durumunda reklamın yayımlandığı siteye belli bir oranda komisyon ödenmesi" şeklindeki reklam tekniğidir. Bu modelde ödeme sadece gerçekleşen satış üzerinden yapılır.
 
-    ***
+    <hr />
 1. **Bir kullanıcının bir ürüne/hizmete ihtiyaç duyduğunu fark ettiği andan itibaren onu satın almasına ve hatta o ürünün/hizmetin sadık bir müşterisi olana kadar geçen süreci anlatan pazarlama modeli aşağıdakilerden hangisidir?**
     - A-) Macnamara Modeli
     - B-) IPRA Modeli
@@ -2162,7 +2162,7 @@
 
     > **Açıklama:** Bir kullanıcının bir ürüne ihtiyaç duyduğunu fark etmesinden başlayarak, o ürünün sadık bir müşterisi ve hatta savunucusu olana kadar geçirdiği tüm aşamaları gösteren pazarlama modeli **Pazarlama Hunisi Modeli**'dir.
 
-    ***
+    <hr />
 1. **Hedef kitlelerin ziyaret ettiği sitelerde sergilenmesi için Google üzerinden verilen reklam türü aşağıdakilerden hangisidir?**
     - A-) Dinamik web reklamlar
     - B-) Kelime ağı reklamları
@@ -2172,7 +2172,7 @@
 
     > **Açıklama:** **Google görüntülü reklam ağı**, reklam verenin hedef kitlesinin ziyaret ettiği web sitelerinde (haber sitesi, blog, forum vb.) hareketli ya da sabit bir görsel ile reklamının gösterildiği modeldir. Bu model, özellikle yeniden pazarlama (remarketing) için kullanılır.
 
-    ***
+    <hr />
 1. **Reklam verenin amaç edindiği aksiyonların gerçekleşme oranını ortaya koyan metrik aşağıdakilerden hangisidir?**
     - A-) Click
     - B-) Session
@@ -2182,7 +2182,7 @@
 
     > **Açıklama:** **Conversion (Dönüşüm)**, bir reklam kampanyasının nihai amacının (bu bir ürün satışı, form doldurma, telefon araması vb. olabilir) gerçekleşme durumunu ve oranını ifade eden metriktir. Bir sitenin en temel amacı dönüşüm oranını artırmaktır.
 
-    ***
+    <hr />
 1. **Kullanıcının sergilenen bir reklama ancak tıkladığı zaman reklam verenin ücret ödeyeceği model aşağıdakilerden hangisidir?**
     - **Cevap A-) CPC**
     - B-) CR
@@ -2192,7 +2192,7 @@
 
     > **Açıklama:** Dijital reklam maliyet modellerinden biri olan **CPC (Cost per Click)**, yani **Tıklama Başı Maliyet**, reklam verenin, reklamı sadece görüntülendiğinde değil, bir kullanıcı tarafından **tıklandığında** ücret ödediği modeldir.
 
-    ***
+    <hr />
 1. **Bilgi paylaşımının yapılması amacıyla hazırlanmış ve yayımlanmış bağlantı biçimlerine (sayfalara) ne ad verilir?**
     - A-) Google
     - **Cevap B-) Web**
@@ -2202,7 +2202,7 @@
 
     > **Açıklama:** Metinde **Web**, "bilgi paylaşımının yapılması amacıyla hazırlanmış ve yayımlanmış bağlantı biçimlerini yani web sayfalarını kapsar" şeklinde tanımlanmıştır. **İnternet** ise FTP ve e-posta gibi pek çok farklı kavramı bünyesinde barındıran daha geniş kapsamlı bir iletişim ağıdır.
 
-    ***
+    <hr />
 1. **Web dünyasında yayımlanan ilk reklam aşağıda verilen platformların hangisinde yayımlanmıştır?**
     - A-) Facebook
     - B-) Google
@@ -2212,7 +2212,7 @@
 
     > **Açıklama:** Web dünyasında yayımlanan ilk banner reklam, 1994 yılında yayın hayatına başlayan ticari bir web dergisi olan **HotWired**'da yayımlanmıştır. Reklam, AT&T firmasına aitti.
 
-    ***
+    <hr />
 1. **Web 2.0 döneminde en yoğun kullanılan dijital reklam platformları aşağıdakilerden hangisinde doğru olarak belirtilmiştir?**
     - **Cevap A-) Google ve Facebook**
     - B-) Instagram ve Spotify
@@ -2222,7 +2222,7 @@
 
     > **Açıklama:** Metinde, "Web 2.0 dönemine ait reklamların çoğunluğu **Google ve Facebook** üzerinden verilmekle birlikte..." ifadesi yer almaktadır. Bu iki platform, milyarlarca kullanıcıya ev sahipliği yapmaları nedeniyle en büyük reklam alanları olarak öne çıkmıştır.
 
-    ***
+    <hr />
 1. **Reklamın bin kullanıcı tarafından görüntülenmesi sonucunda reklam verenin ücret ödeyeceği model aşağıdakilerden hangisidir?**
     - **Cevap A-) CPM**
     - B-) CPC
@@ -2232,7 +2232,7 @@
 
     > **Açıklama:** **CPM (Cost per Mille)**, yani **1.000 Gösterim Başı Maliyet**, reklamın kullanıcı tarafından tıklanmasına bakılmaksızın, sadece **görüntülenmesi** durumunda reklam verenin ücret ödediği modeldir. Maliyet, genellikle her 1.000 gösterim için hesaplanır.
 
-    ***
+    <hr />
 1. **Kullanıcının bir alışveriş sitesinden bir ürüne bakıp sonrasında o siteden ayrılıp başka bir siteye, örneğin bir haber sitesine gitmesi durumunda, o haber sitesinde de az önce alışveriş sitesinde bakmış olduğu ürünün reklamını görmesini sağlayan reklam tekniği aşağıdakilerden hangisidir?**
     - **Cevap A-) Yeniden Pazarlama (Remarketing) Reklamları**
     - B-) Sosyal Medya Reklamları
@@ -2242,7 +2242,7 @@
 
     > **Açıklama:** **Yeniden Pazarlama (Remarketing) Reklamları**, "Kullanıcının bir alışveriş sitesinden bir ürüne bakıp sonrasında o siteden ayrılıp başka bir siteye, örneğin bir haber sitesine gitmesi durumunda, o haber sitesinde de az önce alışveriş sitesinde bakmış olduğu ürünün reklamını görmesini sağlayan reklam tekniğidir".
 
-    ***
+    <hr />
 1. I. Click : Bir kullanıcının reklama kaç defa tıkladığını ortaya koyan rakamdır.<br />II. UTM tracking (UTM takibi): UTM kodu, dönüşümün hangi kanal üzerinden geldiğini ortaya koyan metriktir.<br />III. Landing page: Sergilenen reklam tıklandığında yönlendirilen sayfadır.<br />**Yukarıdaki** **sık kullanılan dijital reklam terimleri ve tanımlarından hangisi ya da hangileri yanlıştır?**
     - A-) Yalnız I
     - **Cevap B-) Yalnız II**
@@ -2252,7 +2252,7 @@
 
     > **Açıklama:** I. ve III. öncüllerdeki **Click (Tıklama)** ve **Landing page (Varış sayfası)** tanımları doğrudur. Ancak II. öncüldeki tanım **UTM tracking (UTM takibi)**'ne değil, **Attribution (İlişkilendirme)**'ye aittir. UTM takibi, siteye hangi kaynaktan trafik geldiğini anlamak için linklerin sonuna eklenen kodlardır.
 
-    ***
+    <hr />
 ## Unite 13
 1. **Günümüzde Kayseri il sınırları içinde kalan** **MÖ 20. yüzyılda** **Kültepe’yi ticari koloni olarak kuran ve Anadolu-Suriye-Mezopotamya arasında oldukça hareketli ticari faaliyetler yürüten devlet aşağıdakilerden hangisidir?**
     - **Cevap A-) Asurlular**
@@ -2263,7 +2263,7 @@
 
     > **Açıklama:** Metnin giriş bölümünde, M.Ö. 20. yüzyılda Mezopotamya'nın önde gelen medeniyetlerinden olan **Asurluların** bugün Kayseri il sınırları içinde bulunan Kültepe'de ilk ticari koloniyi kurdukları ve bu dönemde bölgede hareketli ticari faaliyetler yürüttükleri belirtilmektedir.
 
-    ***
+    <hr />
 1. **1994 yılında hizmete girmesiyle ilk e-ticaret sitelerinin başında gelen ve günümüzün h**â**len en popüler e-ticaret sitelerinden biri olan e-ticaret sitesi aşağıdakilerden hangisidir?**
     - A-) Alibaba
     - B-) E-bay
@@ -2273,7 +2273,7 @@
 
     > **Açıklama:** Ders notlarında, "Günümüzün en popüler e-ticaret sitelerinden biri olan **Amazon**, ilk kurulan e-ticaret sitelerinden biri olup **1994** yılında yayın hayatına başlamıştır." bilgisi yer almaktadır. Ebay 1995'te, Alibaba ise 1999'da kurulmuştur.
 
-    ***
+    <hr />
 1. **Geçmiş dönemler ile günümüz karşılaştırıldığında aşağıdaki dinamiklerden hangisinde değişim yaşanmamıştır?**
     - A-) Zaman
     - B-) Mekân
@@ -2283,7 +2283,7 @@
 
     > **Açıklama:** İletişim ve ulaşım teknolojilerindeki gelişmeler sonucunda ticaretin **zaman, mekân, hız** ve **iş süreçleri** gibi dinamiklerinde çok büyük değişimler yaşanmıştır . Ancak güven duygusu, ticari ilişkilerin temelini oluşturan ve geçmişten günümüze önemini koruyan evrensel bir unsurdur; bu dinamik bir değişim yaşamamıştır.
 
-    ***
+    <hr />
 1. **İnternet ortamında bir kâr elde etmek üzere ürünlerin tanıtımının yapılmasını, ürünü satın almak isteyen tüketiciden ödemesinin alınarak ürünün satılmasını ve tüketiciye ürünün gönderilmesini kapsayan kavram aşağıdakilerden hangisidir?**
     - A-) Ticaret
     - **Cevap B-) E-ticaret**
@@ -2293,7 +2293,7 @@
 
     > **Açıklama:** Metinde **e-ticaret** şu şekilde tanımlanmıştır: "İnternet ortamında bir kâr elde etmek üzere ürünlerin tanıtımının yapılmasını, ürünü satın almak isteyen tüketiciden ödemesinin alınarak ürünün satılmasını ve tüketiciye ürünün gönderilmesini kapsamaktadır.".
 
-    ***
+    <hr />
 1. **E-ticaretin yönünün işletmeden tüketiciye olduğu, ülkemizdeki ve dünyadaki en yaygın e-ticaret modeli aşağıdakilerden hangisidir?**
     - A-) C2B
     - B-) B2B
@@ -2303,7 +2303,7 @@
 
     > **Açıklama:** **B2C (Business to Consumer - İşletmeden Tüketiciye)** modeli, en temel ve yaygın e-ticaret modelidir. Bu modelde, bir e-ticaret işletmesi web sitesinden ürünlerini doğrudan nihai tüketiciye satar.
 
-    ***
+    <hr />
 1. **Sanal ortamda başlayıp gerçek bir ortamda ticaretine devam eden e-ticaret işletmelerini kapsayan ve geleneksel iş yapış modellerine göre oldukça yeni olan e-ticaret modeli aşağıdakilerden hangisidir?**
     - A-) P2P
     - B-) B2C
@@ -2313,7 +2313,7 @@
 
     > **Açıklama:** Metinde iki farklı C2B modelinden bahsedilmiştir. Soruda tanımı yapılan model, İngilizcede "Click to Brick" (Tıklamadan Tuğlaya), Türkçede ise **"Sanaldan Gerçeğe"** olarak adlandırılan modeldir. Bu model, "e-ticaret siteleri gibi sanal bir ortamda başlayıp daha sonra gerçek bir mekâna dönüşerek gerçek bir ticarethane olmayı anlatmaktadır". Bu tanım, D seçeneğindeki **C2B** ile ifade edilir.
 
-    ***
+    <hr />
 1. **İş planında okuyucunun ilk aşamada dikkatini sağlamak üzere sade, karmaşık rakamlardan uzak ve anlaşılır bir şekilde kaleme alınması gereken ana başlık aşağıdakilerden hangisidir?**
     - **Cevap A-) Ana Özet**
     - B-) İşletme ve Yönetim
@@ -2323,7 +2323,7 @@
 
     > **Açıklama:** Bir iş planının en önemli bölümü okuyucunun ilk karşılaştığı yer olan **Ana Özet** kısmıdır. Bu bölümün, planın amacını ve getirilerini en sade ve anlaşılır biçimde, karmaşık rakamlardan uzak bir şekilde açıklaması gerekir.
 
-    ***
+    <hr />
 1. **Bir işletmenin kredi kartı ya da hesap bilgilerinin çalınması gibi her türlü hırsızlığa karşı alabileceği önlemler aşağıdaki altyapılardan hangisine girmektedir?**
     - A-) Barındırma
     - **Cevap B-) Güvenlik**
@@ -2333,7 +2333,7 @@
 
     > **Açıklama:** Bir e-ticaret sitesinin altyapısal unsurları arasında barındırma, ödeme ve güvenlik yer alır. Kredi kartı bilgilerinin şifrelenerek korunması ve her türlü siber hırsızlığa karşı önlem alınması, sitenin **güvenlik altyapısı** kapsamına girmektedir. Bunun için SSL sertifikası gibi araçlar kullanılır.
 
-    ***
+    <hr />
 1. **Müşterinin e-ticaret sitesine girdiğinde karşılaşacağı ara yüz, menüler, sayfalar, yerleşim, renkler gibi daha çok tasarım kapsamında değerlendirilebilecek elemanlar aşağıdakilerden hangisine girmektedir?**
     - A-) Güvenlik
     - B-) Ödeme
@@ -2343,7 +2343,7 @@
 
     > **Açıklama:** E-ticaret sitesinin yapısı altyapısal ve üstyapısal unsurlardan oluşur. Müşterinin siteye girdiğinde karşılaştığı arayüz, menüler, sayfalar, yerleşim, renkler gibi daha çok **tasarım kapsamında değerlendirilebilecek elemanlar üstyapısal unsurların** başında gelmektedir.
 
-    ***
+    <hr />
 1. **Bir e-ticaret sitesinin tanıtımı ve pazarlanması aşamasında stratejiler belirlenirken sınırlandırıcı unsur olarak en baskın rolü oynayan faktör aşağıdakilerden hangisidir?**
     - A-) Taktikler
     - B-) Hedef kitle
@@ -2353,7 +2353,7 @@
 
     > **Açıklama:** Bir e-ticaret sitesinin tanıtım ve pazarlama faaliyetleri belirlenirken amaçlar, stratejiler ve hedef kitle gibi unsurlar önemlidir. Ancak ders notlarında, "Elbette **bütçe bu konuda en baskın faktördür**." ifadesiyle, tüm stratejileri sınırlandıran en temel unsurun bütçe olduğu vurgulanmaktadır.
 
-    ***
+    <hr />
 1. **Anadolu’da, MÖ 7. yüzyılda parayı keşfederek günümüz ticaretinin en geçerli değiş-tokuş modelinin temelini atan imparatorluk aşağıdakilerden hangisidir?**
     - A-) Asurlular
     - B-) Urartular
@@ -2363,7 +2363,7 @@
 
     > **Açıklama:** Metinde, "Anadolu'da yaşamış olan **Lidyalılar** tarafından M.Ö. 7. yüzyılda bulunan ilk madeni para ile de günümüz ticaretinin en geçerli değiş-tokuş modelinin (ürün karşılığı para) temelleri atılmıştır" bilgisi verilmektedir.
 
-    ***
+    <hr />
 1. **Ülkemizde 1998 yılında hizmete girmesiyle ilk e-ticaret sitelerinin başında gelen ve günümüzde ülkemizin hâlen en popüler e-ticaret sitelerinden biri olan e-ticaret sitesi aşağıdakilerden hangisidir?**
     - A-) Estore
     - B-) Idefixe
@@ -2373,7 +2373,7 @@
 
     > **Açıklama:** Metinde, Türkiye'deki ilk e-ticaret siteleri arasında **Infoshop**'un 1998 yılında kurulduğu ve sonradan Doğan Online tarafından satın alınıp **Hepsiburada** adı altında hizmet vermeye başladığı belirtilmektedir.
 
-    ***
+    <hr />
 1. **Ülkeler arasında fiziksel, finansal, insan ve bilgi gibi kaynakların serbest dolaşımını ifade eden kavram aşağıdakilerden hangisidir?**
     - A-) Bölgeselleşme
     - **Cevap B-) Küreselleşme**
@@ -2383,7 +2383,7 @@
 
     > **Açıklama:** **Küreselleşme**, "en yalın ifadeyle ülkeler arasında sermayenin serbest dolaşımı olarak tanımlanmakla birlikte esasında kaynakların serbest dolaşımını ifade etmektedir. Bu kaynaklar başta fiziksel ve finansal kaynaklar olmak üzere (insan ve bilgi kaynakları dahil) çeşitlilik arz etmektedir." .
 
-    ***
+    <hr />
 1. **E-ticaret uygulamalarının dışında stok, satın alma, muhasebe, insan kaynakları, müşteri ilişkileri gibi yönetimsel uygulamaların karmaşaya yer vermemek adına dijital ortamda takip edilmesi, aşağıdaki kavramlardan hangisi ile anlatılmaktadır?**
     - A-) Ticaret
     - B-) E-Ticaret
@@ -2393,7 +2393,7 @@
 
     > **Açıklama:** Metinde, işletmelerin e-ticaret dışındaki stok yönetimi, muhasebe, müşteri ilişkileri gibi yönetimsel uygulamalarını da dijital ortama taşıması ve takip etmesi sürecinin **e-işletme** haline gelmek olduğu açıklanmıştır.
 
-    ***
+    <hr />
 1. **Aşağıdaki modellerden hangisi, bir devletin kendi sınırları içinde kurulmuş olan kurum, kuruluş ve organizasyonlar gibi tüzel kişiliklere verdiği dijital ortamdaki hizmetleri kapsamaktadır?**
     - A-) B2B
     - **Cevap B-) G2B**
@@ -2403,7 +2403,7 @@
 
     > **Açıklama:** **G2B (Government to Business - Devletten İşletmeye) Modeli**, devletlerin kendi sınırları içinde kurulmuş kurum, kuruluş ve organizasyonlar gibi tüzel kişiliklere verdiği dijital ortamdaki hizmetleri kapsamaktadır. Vergi beyannameleri veya gümrük işlemleri bu modele örnektir.
 
-    ***
+    <hr />
 1. **Hedeflerin belirlenip bu hedeflerin nasıl ve ne zaman oluşturulması gerektiğini, bu hedefler için gereken kaynakları ve kurulan varsayımların gerçek rakamlarla desteklendiği kanıtları içeren yazılı doküman aşağıdakilerden hangisidir?**
     - A-) Kriter Listesi
     - B-) Kontrol Listesi
@@ -2413,7 +2413,7 @@
 
     > **Açıklama:** Ders notlarında **iş planı**, "hedeflerin belirlenip bu hedeflerin nasıl ve ne zaman oluşturulması gerektiğini, bu hedefler için gereken kaynakları ve kurulan varsayımların gerçek rakamlarla desteklendiği kanıtları içeren yazılı dokümandır" şeklinde tanımlanmıştır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi, tüketicilerin e-posta adreslerine tanıtım materyalleri göndererek pazarlama yapılmasını kapsamaktadır?**
     - A-) Halkla ilişkiler
     - B-) Lokasyon bazlı çalışmalar
@@ -2423,7 +2423,7 @@
 
     > **Açıklama:** **E-posta pazarlama**, "tüketicilerin e-posta adreslerine tanıtım materyalleri göndermektir". Günümüzde bu yöntemin etkili olabilmesi için kullanıcılardan izin alınması gerekmektedir.
 
-    ***
+    <hr />
 1. **Devletlerin kendi sınırları içinde kurulmuş kurum, kuruluş ve organizasyonlar gibi tüzel kişiliklere verdiği dijital ortamdaki hizmetleri kapsayan e- ticaret modeli aşağıdakilerden hangisidir?**
     - A-) B2B (Business to Business - İşletmeden İşletmeye)
     - **Cevap B-) G2B (Government to Business - Devletten İşletmeye)**
@@ -2433,7 +2433,7 @@
 
     > **Açıklama:** **G2B (Government to Business - Devletten İşletmeye) Modeli**, devletlerin kendi sınırları içinde kurulmuş tüzel kişiliklere (işletmelere) dijital ortamda verdiği hizmetleri kapsamaktadır.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi B2B (Business to Business- İşletmeden İşletmeye) kurumlar arası ticaret yapan e- ticaret sitelerinden biri değildir?**
     - A-) Alibaba
     - B-) Amazon
@@ -2443,7 +2443,7 @@
 
     > **Açıklama:** **B2B (İşletmeden İşletmeye)** modeli, kurumlar arası ticareti ifade eder. Metinde Alibaba, Amazon, Gittigidiyor ve Aliexpress gibi aracı siteler, reklam alanı satan Google veya altyapı hizmeti veren firmalar bu model için örnek verilmiştir. **Trendyol** ise doğrudan tüketiciye satış yapan bir B2C işletmesidir.
 
-    ***
+    <hr />
 ## Unite 14
 1. **Aşağıdakilerden hangisi, toplum içindeki ilişkileri düzenleyen kurallardan biri değildir?**
     - A-) Ahlak kuralları
@@ -2454,7 +2454,7 @@
 
     > **Açıklama:** Toplum içindeki ilişkileri düzenleyen kurallar arasında yazılı olan **hukuk kuralları** ile yazılı olmayan **ahlak, görgü ve din kuralları** yer alır. Sevgi kuralları ise bu sınıflandırmada yer alan normatif bir kategori değildir.
 
-    ***
+    <hr />
 1. **Bir grubun ya da bir toplumun yaşama biçimi şeklinde ifade edilen ve kişinin diğer kişilerle, içinde bulunduğu toplumla, dünyayla ve hayatla olan ilişkilerini konu edinen kavram hangisidir?**
     - A-) Ahlak
     - B-) Görgü
@@ -2464,7 +2464,7 @@
 
     > **Açıklama:** Metinde **etik**, "kişinin diğer kişilerle, içinde bulunduğu toplumla, dünyayla ve hayatla olan ilişkilerini konu edinmektedir" şeklinde tanımlanmıştır. Evrensel olması ve doğru ile yanlışı sorgulaması bakımından ahlaktan ayrılır .
 
-    ***
+    <hr />
 1. **Kullanıcıların 5651 sayılı İnternet Kanunu’na göre TurkTelekom, Superonline, Turkcell, Vodafone, KabloNet gibi İnternet’e bağlanmasını sağlayan işletmeleri temsil eden terim aşağıdakilerden hangisidir?**
     - **Cevap A-) Erişim sağlayıcı**
     - B-) Yer sağlayıcı
@@ -2474,7 +2474,7 @@
 
     > **Açıklama:** 5651 sayılı İnternet Kanunu'na göre, kullanıcıların internete bağlanmasını sağlayan Turk Telekom, Superonline gibi işletmeler **"erişim sağlayıcı"** olarak tanımlanmaktadır.
 
-    ***
+    <hr />
 1. **5651 Sayılı İnternet Kanunu’na göre internet ortamında yazı, fotoğraf veya video gibi içerikleri yayımlayan/paylaşan gerçek ya da tüzel kişileri temsil eden terim aşağıdakilerden hangisidir?**
     - A-) Erişim sağlayıcı
     - B-) Yer sağlayıcı
@@ -2484,7 +2484,7 @@
 
     > **Açıklama:** 5651 sayılı İnternet Kanunu'na göre, "herhangi bir içeriği İnternet üzerinden yayımlayan gerçek ya da tüzel kişiler **içerik sağlayıcılar** kapsamı altında değerlendirilmekte olup, İnternet üzerinde platform fark etmeksizin yayımladığı tüm içeriklerden sorumludur".
 
-    ***
+    <hr />
 1. **Bir sosyal paylaşım sitesinde kullanıcıları intihar etmeye teşvik edici video paylaşan kullanıcı, Türk Ceza Kanunu’na göre şikâyet edilmesi durumunda aşağıdakilerden hangisi kapsamında hâkim karşısına çıkacaktır?**
     - A-) Tehdit
     - B-) Özel Hayatın Gizliliğini İhlal
@@ -2494,7 +2494,7 @@
 
     > **Açıklama:** Türk Ceza Kanunu'nun 84. maddesi, bir kişiyi intihara azmettiren, teşvik eden veya intiharına yardım eden kişilerin cezalandırılacağını belirtir. Sosyal medyada bu tür içerikler paylaşan bir kullanıcı, bu madde kapsamında **İntihara Yönlendirme** suçuyla yargılanabilir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi, inanç, düşünce ve kanaat hürriyetinin kullanılması kapsamına girmez?**
     - A-) TCK İnanç, Düşünce Ve Kanaat Hürriyetinin Kullanılmasını Engelleme Maddesi
     - B-) TCK Tehdit Maddesi
@@ -2504,7 +2504,7 @@
 
     > **Açıklama:** Bir kimsenin inanç, düşünce ve kanaat hürriyetinin kullanılmasını engellemek, **TCK Madde 115** kapsamındadır. Bu eyleme tehdit (**TCK Madde 106**) veya şantaj (**TCK Madde 107**) eşlik edebilir. Bu haklar aynı zamanda **1982 Anayasası** ile de güvence altındadır. Tüketiciyi Koruma Hakkında Kanun'un bu konuyla doğrudan bir ilgisi yoktur.
 
-    ***
+    <hr />
 1. **Bir kullanıcının TCK’nın Özel Hayatın Gizliliğini İhlal suçundan yargılanması için aşağıdakilerden hangisini yapmış olması gerekmektedir?**
     - A-) Arkadaşının fotoğrafını izin alarak paylaşması
     - B-) Kendi evini sosyal medyada paylaşan arkadaşının bu fotoğrafını paylaşması
@@ -2514,7 +2514,7 @@
 
     > **Açıklama:** **TCK Madde 134 - Özel Hayatın Gizliliğini İhlal**, bir kişinin özel yaşam alanına izinsiz müdahale edilmesini suç sayar. Arkadaşının evine ait bir fotoğrafı, o kişinin haberi ve rızası olmaksızın paylaşmak bu suçun kapsamına girer. Diğer seçenekler ya izinli paylaşımlardır ya da farklı suçları (tehdit) oluşturur.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi, Türk Ceza Kanunu'na göre devlet unsurlarına karşı işlenen suçlar kapsamında değerlendirilmez?**
     - **Cevap A-) Sınıf arkadaşını tehdit eden bir paylaşım yapmak**
     - B-) Türk milletini aşağılayan bir paylaşım yapmak
@@ -2524,7 +2524,7 @@
 
     > **Açıklama:** TCK'da **Devlet Unsurlarına Karşı Suçlar** başlığı altında Türk Milletini veya devlet kurumlarını aşağılama (Madde 301), devletin birliğini bozmak (Madde 302) veya Cumhurbaşkanına hakaret (Madde 299) gibi fiiller düzenlenmiştir . Sınıf arkadaşını tehdit etmek ise bu kapsama girmez, şahsa karşı işlenen bir suçtur (TCK Madde 106).
 
-    ***
+    <hr />
 1. **E-ticaret faaliyeti yürütecek bir kişinin aşağıdakilerden hangisiyle direkt ilişkisi yoktur?**
     - A-) 6502 sayılı Tüketicinin Korunması Hakkında Kanun
     - B-) 5651 sayılı İnternet Ortamında Yapılan Yayınlar Hakkında Kanun
@@ -2534,7 +2534,7 @@
 
     > **Açıklama:** Bir e-ticaret faaliyeti yürüten kişi veya kurum; **6102 sayılı Türk Ticaret Kanunu, 6502 sayılı Tüketicinin Korunması Hakkında Kanun, 6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanun** ve **5651 sayılı İnternet Ortamında Yapılan Yayınlar Hakkında Kanun** gibi düzenlemelerle doğrudan ilişkilidir. TCK'nın Yağma maddesi ise doğrudan e-ticaret faaliyetini düzenleyen bir kanun değildir.
 
-    ***
+    <hr />
 1. **İnternet ortamında dolandırılmamak için alınacak önlemler arasında aşağıdakilerden hangisi yoktur?**
     - A-) Güvenilir e-ticaret sitelerinden alışveriş yapmak
     - **Cevap B-) Güvenli olmadığı düşünülen dosyaları açıp bir bakmak**
@@ -2544,7 +2544,7 @@
 
     > **Açıklama:** İnternet ortamında dolandırılmamak için; güvenilir sitelerden alışveriş yapmak, gelen e-postaları ve eklerini dikkatle incelemek ve kaynağın güvenilirliğinden emin olmak gibi önlemler alınmalıdır. Güvenli olmadığı düşünülen bir dosyayı merak edip açmak, bir önlem değil, tam tersine büyük bir risktir.
 
-    ***
+    <hr />
 1. **İlk yazılı kanunları düzenleyip uyguladığı kabul edilen medeniyet aşağıdakilerden hangisidir?**
     - A-) Asurlular
     - B-) Urartular
@@ -2554,7 +2554,7 @@
 
     > **Açıklama:** Metnin giriş bölümünde, "İlk yazılı kanunların yazıyı ilk bulan medeniyet olan **Sümerler** tarafından ortaya konması bir tesadüf değil, insanlığın olduğu her yerde hukuk kurallarının olduğunun bir ispatıdır" ifadesi yer almaktadır.
 
-    ***
+    <hr />
 1. **Toplumu düzenleyen ve devletin yaptırım gücünü belirleyen yasaların bütünü aşağıdakilerden hangisidir?**
     - **Cevap A-) Hukuk**
     - B-) Etik
@@ -2564,7 +2564,7 @@
 
     > **Açıklama:** **Hukuk**, ders notlarında "toplumu düzenleyen ve devletin yaptırım gücünü belirleyen kuralların bütünü olarak" tanımlanmaktadır.
 
-    ***
+    <hr />
 1. **Suçun ancak kanun ile ortaya konulması durumunda yaptırımının olacağını ortaya koyan ilke aşağıdakilerden hangisidir?**
     - A-) Yasama İlkesi
     - **Cevap B-) Suçta ve Cezada Kanunilik İlkesi**
@@ -2574,7 +2574,7 @@
 
     > **Açıklama:** Ceza Hukuku'nun temel ilkelerinden biri olan **Suçta ve Cezada Kanunilik İlkesi**, bir eylemin suç sayılabilmesi ve cezaya tabi olabilmesi için o eylemin açıkça kanunda "suçtur" şeklinde tanımlanmış olması gerektiğini ifade eder.
 
-    ***
+    <hr />
 1. **5651 Sayılı İnternet Kanunu’na göre barındırma (hosting) hizmeti veren işletmeler ve içeriğini kullanıcıların oluşturduğu sosyal medya platformları aşağıdaki kavramlardan hangisiyle açıklanmaktadır?**
     - A-) Maddi sağlayıcı
     - B-) İçerik sağlayıcı
@@ -2584,7 +2584,7 @@
 
     > **Açıklama:** 5651 sayılı İnternet Kanunu'na göre; Facebook, Instagram, Wikipedia gibi içeriğini kullanıcıların oluşturduğu platformlar ile barındırma (hosting) hizmeti veren işletmeler **"yer sağlayıcı"** kapsamında kabul edilir.
 
-    ***
+    <hr />
 1. **Bir sosyal medya platformunda hiç tanımadığı bir kullanıcıyı sadece farklı siyasi görüşte olduğu için tehdit eden kişi, TCK’ya göre şikâyet edilmesi durumunda hangi madde kapsamında yargılanması beklenmez?**
     - A-) Tehdit
     - B-) Şantaj
@@ -2594,7 +2594,7 @@
 
     > **Açıklama:** Bir kullanıcıyı siyasi görüşü nedeniyle tehdit etmek; **Tehdit (TCK 106), Şantaj (TCK 107), Nefret ve Ayrımcılık (TCK 122)** ve söylemin içeriğine göre **Hakaret (TCK 125)** suçlarını oluşturabilir. **Dolandırıcılık (TCK 157)** ise hileli davranışlarla bir kimseyi aldatarak menfaat sağlamayı ifade eder ve bu senaryoyla doğrudan ilgili değildir.
 
-    ***
+    <hr />
 1. **Aşağıdakilerden hangisi, bir kullanıcının sosyal medyada yaptığı paylaşımın TCK’ya göre Kamu Barışına Karşı İşlenen Suçlar kapsamında doğrudan değerlendirilmesini gerektiren bir durum değildir?**
     - A-) Suç işlemeyi tahrik eden paylaşım
     - B-) Korku ve panik yaratıcı paylaşım
@@ -2604,7 +2604,7 @@
 
     > **Açıklama:** **Kamu Barışına Karşı Suçlar** başlığı altında; korku ve panik yaratma, suç işlemeye tahrik, suçu ve suçluyu övme ve kanunlara uymamaya tahrik gibi eylemler düzenlenmiştir. Özel hayatın gizliliğini ihlal ise TCK'nın farklı bir bölümünde (Madde 134) düzenlenen, kişiye karşı işlenen bir suçtur.
 
-    ***
+    <hr />
 1. **Bir kullanıcının çok satan bir şarkı albümünün dijital versiyonunu sosyal medya hesabından paylaşması ile aşağıdaki hangi kanun doğrudan ihlal edilmiş olur?**
     - A-) 5651 sayılı İnternet Ortamında Yapılan Yayınlar Hakkında Kanun
     - **Cevap B-) 5846 sayılı Fikir ve Sanat Eserleri Kanunu**
@@ -2614,7 +2614,7 @@
 
     > **Açıklama:** Bir eserin (müzik, film, kitap vb.) sahibinden izinsiz olarak çoğaltılması, yayılması ve paylaşılması, **5846 sayılı Fikir ve Sanat Eserleri Kanunu**'nun ihlalidir. İnternet üzerinden yapılan korsan paylaşımlar da bu kanun kapsamında suç teşkil etmektedir.
 
-    ***
+    <hr />
 1. **Bir kimsenin inanç, düşünce ve kanaatlerinden kaynaklanan yaşam tarzına ilişkin tercihlerine müdahale eden veya bunları değiştirmeye zorlayan kişi, Türk Ceza Kanunu’na göre şikâyet edilmesi durumunda aşağıdakilerden hangisi kapsamında hâkim karşısına çıkar?**
     - **Cevap A-) İnanç, düşünce ve kanaat hürriyetinin kullanılmasını engelleme**
     - B-) Nefret, ayırımcılık, halkı kin ve düşmanlığa tahrik veya aşağılama
@@ -2624,4 +2624,4 @@
 
     > **Açıklama:** TCK Madde 115, "bir kimsenin inanç, düşünce ve kanaatlerinden kaynaklanan yaşam tarzına ilişkin tercihlerine müdahale eden veya bunları değiştirmeye zorlayan kişiye" hapis cezası verileceğini düzenler. Bu madde, **İnanç, düşünce ve kanaat hürriyetinin kullanılmasını engelleme** suçunu tanımlar.
 
-    ***
+    <hr />

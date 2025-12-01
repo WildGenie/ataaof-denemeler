@@ -53,8 +53,31 @@ class AtaPipeline(QuestionPipeline):
         return list(all_questions.values())
 
     def transform_question(self, raw_question, course, unit):
+        # Special handling for "Web Tasarımının Temelleri":
+        # Options often contain raw HTML tags (e.g. "<body>") which clean_html strips.
+        # We protect them with placeholders.
+        raw_copy = raw_question.copy()
+        is_web_design = "Web Tasarımının Temelleri" in course.get("CourseName", "")
+
+        if is_web_design:
+            for opt in ['A', 'B', 'C', 'D', 'E']:
+                val = raw_copy.get(opt)
+                if val and isinstance(val, str):
+                    # Replace <, >, &lt;, &gt; with placeholders
+                    # This handles both literal tags and escaped tags in raw data
+                    new_val = val.replace('<', '{{LT}}').replace('>', '{{GT}}')
+                    new_val = new_val.replace('&lt;', '{{LT}}').replace('&gt;', '{{GT}}')
+                    raw_copy[opt] = new_val
+
         # Use base transformation first (cleans HTML)
-        q = super().transform_question(raw_question, course, unit)
+        q = super().transform_question(raw_copy, course, unit)
+
+        # Restore placeholders for Web Design course
+        if is_web_design:
+            for opt in ['A', 'B', 'C', 'D', 'E']:
+                val = q.get(opt)
+                if val and isinstance(val, str):
+                    q[opt] = val.replace('{{LT}}', '&lt;').replace('{{GT}}', '&gt;')
 
         # Load external explanations lazily (cache in instance)
         if not hasattr(self, "_aciklama_mapping"):
