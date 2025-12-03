@@ -1,0 +1,3597 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Aşağıdakilerden hangisi analog TV yayın sisteminin özelliklerinden biridir?",
+            "options": [
+                "Birden çok kanal yayını yapılabilir.",
+                "Düşük maliyetlidir.",
+                "Görüntü formatları PAL, NTSC ve SECAM'dır.",
+                "Etkileşime olanak sağlar.",
+                "Dijital yayınlara kıyasla daha kaliteli ses ve görüntü kapasitesine sahiptir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 2,
+            "question": "Dijital çağın doğuşunu sağlayan gelişmelerden hangisi aynı zamanda bilgisayarın icat edilmesine yol açmıştır?",
+            "options": [
+                "İnternet",
+                "Transistör",
+                "Optik iletişim",
+                "Hafıza kartı",
+                "Mikro çipler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 3,
+            "question": "Televizyonda canlı yayını dışında kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?",
+            "options": [
+                "VTR (Video Tape Recorder)",
+                "Kaset tabanlı tipik elektronik televizyon",
+                "Sinematograf",
+                "Telekstaf uydusu",
+                "Vifaphone ses sistemi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 4,
+            "question": "Aşağıdakilerden hangisi telekomünikasyon sektöründeki artan rekabetin sonuçlarından biridir?",
+            "options": [
+                "Cep telefonu fiyatlarının yükselmesi",
+                "Cep telefonlarının hafiflemesi",
+                "Kitlelerin gündeme olan ilgisini yitirmesi",
+                "Cep telefonlarının bir statü göstergesine dönüşmesi",
+                "Cep telefonlarının bir lüks ürüne dönüşmesi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 5,
+            "question": "Aşağıdakilerden hangisi Endüstri 3.0'ın özelliklerinden biridir?",
+            "options": [
+                "Bulut Sistemi ve Büyük Veri ile daha çok akıllı makinenin çalıştırılması amaçlanır.",
+                "Üretim sürecinde makineler birbirleriyle iletişim kurarak akıllı bir şekilde çalışır.",
+                "Karar verme yetkisi yapay zekâya sahip olan robotlar vasıtasıyla gerçekleştirilir.",
+                "Makineler insanın fiziksel yapısı ve işgücü temeline göre dizayn edilir.",
+                "Süreç izleme neden-sonuç ilişkisi içinde kapsamlı olarak çalışır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 6,
+            "question": "Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin büyük sensöre sahip olmasının avantajları arasında yer almaz?",
+            "options": [
+                "Otomatik odaklama sistemleri daha gelişmiştir.",
+                "Daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir.",
+                "Daha kısa pozlama süreleri kullanarak anı dondurabilir.",
+                "Loş ışıkta rahatlıkla fotoğraf çekebilir.",
+                "Hafif ve pratik bir kullanım sağlar."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 7,
+            "question": "Fotoğrafçılık dünyasında fotoğraf makineleri sınıflandırılırken \"-------.\" kavramı genellikle profesyonel ve sektörel kullanımlarını ifade eder. Reklam sektörüne yönelik ticari çekimlerde moda çekimleri, özel stüdyo çekimleri, mimari (otel, iş merkezleri, avm vs.) çekimler, özel gün çekimleri, otomotiv çekimleri gibi daha birçok alanda profesyonel fotoğrafçılar kullanılır.. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "DSLR fotoğraf makineleri",
+                "MILC aynasız fotoğraf makineleri",
+                "Orta Format(Medium) fotoğraf makineleri",
+                "Basit kompak fotoğraf makineler",
+                "Köprü(Bridge) fotoğraf makineleri"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 8,
+            "question": "Aşağıdakilerden hangisi DSLR fotoğraf makinelerinde tam çerçeve (FX) gövdelerin dezavantajları arasında yer alır?",
+            "options": [
+                "Geniş açı lenslerde kenar keskinliklerinde bir düşüş yaşanır.",
+                "Yüksek ISO hızı performansı kötüdür.",
+                "Çözünürlükleri ve renk derinlikleri daha sınırlıdır.",
+                "1,5 veya 1,6 çarpanlıdırlar.",
+                "Sensör küçüklüğü nedeniyle hafiftirler."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 9,
+            "question": "Aşağıda yer alan cihazlardan hangisi \"basit kompakt fotoğraf makineleri\" içerisinde yer alır?",
+            "options": [
+                "DSLR fotoğraf makineleri",
+                "Akıllı telefon fotoğraf makineleri",
+                "Orta format fotoğraf makineleri",
+                "Aynasız fotoğraf makineleri",
+                "Sayısal arkalıklı fotoğraf makineleri"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 10,
+            "question": "I. Menü kullanımı rahatlığı<br>II. Hafif tasarıma sahip olması<br>III. Görüntü kalitesinin iyileştirilmiş olması<br>IV. Küçük sensörlerinin olması<br>Yukarıdaki ifadelerden hangisi veya hangileri standart kompakt fotoğraf makinelerinin kullanım avantajları arasında yer alır?",
+            "options": [
+                "Yalnız II",
+                "I ve IV",
+                "I, III ve IV",
+                "II, III ve IV",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 11,
+            "question": "Ebatları DSLR ve aynasız kameralara benzeyen, işlev olarak sinema kameralarına benzer şekilde üst düzey video üretimi yapabilen kamera türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Dijital Aksiyon Kameraları",
+                "Drone Kameralar",
+                "Büyük Boy Kameralar",
+                "360 Derece Kameralar",
+                "Hibrit Kameralar"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 12,
+            "question": "Video kameraların çok yüksek hızlarda gerçekleştirdiği ve hareketli görüntünün ortaya çıkarılması adına gerekli olan tarama işleminin türleri aşağıdakilerden hangisinde verilmiştir?",
+            "options": [
+                "625 (PAL) veya 525 (NTSC).",
+                "RAW video ve Log",
+                "AVCHD, XDCAM",
+                "İnterlaced ve Progressive",
+                "Avid ve Final Cut Pro"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 13,
+            "question": "Video kameralarda mekanik bir aparat kullanmadan per değiştirsin görüntünün yansıttığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?",
+            "options": [
+                "Optik görüntü sabitleme (OIS)",
+                "Analog sistem",
+                "Elektronik görüntü sabitleme (EIS)",
+                "Dijital sistem",
+                "Interlaced (i) tarama"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 14,
+            "question": "Kafa montajlı ekranlar ya da diğer ifade ile VR gözlükler ile izlenebilen videoların üretilmesini sağlayan kamera türü aşağıdakilerden hangisidir?",
+            "options": [
+                "360 Derece Kameralar",
+                "DSLR Kamera",
+                "3D Dijital Kameralar",
+                "Hibrit Kameralar",
+                "Drone Kameralar"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 15,
+            "question": "Kendi yapay zekâsı ile herhangi bir nesnenin etrafında hareket edebilen, gelişmiş GPS özellikleri sayesinde uçuş, kalkış ve iniş noktaları belirlenebilen ve gök yüzünden görüntüleme işlemini oldukça düşük maliyetlere indiren kamera türü aşağıdakilerden hangisidir?",
+            "options": [
+                "3D Dijital Kameralar",
+                "DSLR Kamera",
+                "360 Derece Kameralar",
+                "Hibrit Kameralar",
+                "Drone Kameralar"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 16,
+            "question": "Farklı açılardan bakıldığında görüntü kalitesi değiştiği için hassas renk kontrolü gereken fotoğrafçılık gibi alanlarda tercih edilmemesi gereken monitör panel türü aşağıdakilerden hangisidir?",
+            "options": [
+                "IPS",
+                "4K",
+                "HD",
+                "TN",
+                "VA"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 17,
+            "question": "Görüntüyü oluşturmak için, içi katı mürekkeple dolu tonerler kullanan, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve böylece kâğıt üzerinde herhangi bir dağılma veya taşma olmadan baskı yapılabilen yazıcılar hangi tip yazıcılardır?",
+            "options": [
+                "Lazer",
+                "Mürekkep püskürtmeli",
+                "Süblimasyon",
+                "Ofset",
+                "Dijital"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 18,
+            "question": "------- filtreler renkleri güçlendiren yapıya sahiptirler. ------- filtreler ise dimer olarak renk kaybı olmadan ışığı doğal şekilde azaltırlar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Polarize – UV",
+                "ND – UV",
+                "UV - ND",
+                "ND - Polarize",
+                "Polarize - ND"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 19,
+            "question": "Veri depolama ve yedekleme için kullanılan, çoklu hard disklerden oluşan, yerel ağ ya da internet üzerinden içerisindeki verilere erişim sağlanabilen ünitelere ne ad verilir?",
+            "options": [
+                "Yerel sürücü",
+                "Ağ depolama (NAS)",
+                "RAID",
+                "CFast kart",
+                "Katı hal diski (SSD)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 20,
+            "question": "Bir ışık kaynağının doğal güneş ışığı ile karşılaştırıldığında, nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değer aşağıdakilerden hangisidir?",
+            "options": [
+                "LED",
+                "UV",
+                "TLCI",
+                "CRI",
+                "ND"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "523000"
+        },
+        {
+            "id": 21,
+            "question": "Hareketli görüntünün kronolojisinde yer alan gelişmelerden hangisi diğerlerine göre daha önce gerçekleşmiştir? A) Philo Farnsworth, ilk elektronik televizyon görüntüsünü yarattı. B) Renkli filmler geldi. C) Sinemaya ses geldi. D) İlk renkli televizyonlar tanıtıldı. E) Super 8 formatı, film yapımını kitleler için erişilebilir hâle getirdi.",
+            "options": [
+                "Philo Farnsworth, ilk elektronik televizyon görüntüsünü yarattı.",
+                "Renkli filmler geldi.",
+                "Sinemaya ses geldi.",
+                "İlk renkli televizyonlar tanıtıldı.",
+                "Super 8 formatı, film yapımını kitleler için erişilebilir hâle getirdi."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 22,
+            "question": "Aşağıdakilerden hangisi akıllı telefon kameralarının olumsuz özelliklerinden biridir? A) Görüntülerin kolayca paylaşılabilmesi B) Görüntülerin bulut depolama sistemine kolayca yüklenebilmesi C) Kullanım kolaylığı sağlaması D) Ayarların hızlıca yapılabilmesi E) Sağladığı alan derinliğinin fazla olması",
+            "options": [
+                "Görüntülerin kolayca paylaşılabilmesi",
+                "Görüntülerin bulut depolama sistemine kolayca yüklenebilmesi",
+                "Kullanım kolaylığı sağlaması",
+                "Ayarların hızlıca yapılabilmesi",
+                "Sağladığı alan derinliğinin fazla olması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 23,
+            "question": "-------, genellikle doğadan elde edilen, işlenmemiş ya da çok az işlem görmüş maddeleri işlemek, değiştirmek ve böylece doğada gerçekte bulunmayan ürünler üretmek anlamına gelir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? A) Endüstri B) Dijitalleşme C) Tarım D) Ticaret E) Tüketim",
+            "options": [
+                "Endüstri",
+                "Dijitalleşme",
+                "Tarım",
+                "Ticaret",
+                "Tüketim"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 24,
+            "question": "Halka açık internet ağını kullanarak sayısal televizyon hizmetleri sunan TV yayıncılık türü aşağıdakilerden hangisidir? A) Analog yayıncılık B) IPTV C) Web TV D) Mobil TV E) Pay TV",
+            "options": [
+                "Analog yayıncılık",
+                "IPTV",
+                "Web TV",
+                "Mobil TV",
+                "Pay TV"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 25,
+            "question": "Aşağıdakilerden hangisi IPTV altyapısının sunduğu hizmetler arasında <u>yer almaz</u>? A) Öde-İzle (Pay TV) B) Üç Boyutlu İzle (Watch-3D) C) VoD (İsteğe Bağlı Video) D) İçerik Kaydı (PVR) E) Elektronik Program Rehberi (EPG)",
+            "options": [
+                "Öde-İzle (Pay TV)",
+                "Üç Boyutlu İzle (Watch-3D)",
+                "VoD (İsteğe Bağlı Video)",
+                "İçerik Kaydı (PVR)",
+                "Elektronik Program Rehberi (EPG)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 26,
+            "question": "I. Sığ alan derinliğini kontrol etmeye olanak tanır. II. Yüksek çözünürlüklü renk derinliği olan görüntüler sunar. III. Hafif bir gövdeye sahiptir. IV. İhtiyaç ve amaç ölçüsünde geniş bir yelpaze sunar. Yukarıda verilenlerden hangileri \"Orta Format Makineleri'nin\" tercih edilme nedenleri arasında yer alır? A) I ve II B) II I ve III C) I, II ve III D) I, II ve IV E) II, III ve IV",
+            "options": [
+                "I ve II",
+                "II I ve III",
+                "I, II ve III",
+                "I, II ve IV",
+                "II, III ve IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 27,
+            "question": "Aşağıda yer alan cihazlardan hangisi \"basit kompakt fotoğraf makineleri\" içerisinde yer alır? A) Aynasız fotoğraf makineleri B) DSLR fotoğraf makineleri C) Sayısal arkalıklı fotoğraf makineleri D) Orta format fotoğraf makineleri E) Akıllı telefon fotoğraf makineleri",
+            "options": [
+                "Aynasız fotoğraf makineleri",
+                "DSLR fotoğraf makineleri",
+                "Sayısal arkalıklı fotoğraf makineleri",
+                "Orta format fotoğraf makineleri",
+                "Akıllı telefon fotoğraf makineleri"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 28,
+            "question": "Aşağıdakilerden hangisi kompakt fotoğraf makinelerinin ön kısmında bulunmaktadır? A) LCD Ekran B) Büyültme Küçültme modu düğmesi C) Zamanlayıcı lambası D) Mod kadranı E) Yön tuşları",
+            "options": [
+                "LCD Ekran",
+                "Büyültme Küçültme modu düğmesi",
+                "Zamanlayıcı lambası",
+                "Mod kadranı",
+                "Yön tuşları"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 29,
+            "question": "Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin büyük sensöre sahip olmasının avantajları arasında yer almaz? A) Daha kısa pozlama süreleri kullanarak anı dondurabilir. B) Loş ışıkta rahatlıkla fotoğraf çekebilir. C) Daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir. D) Hafif ve pratik bir kullanım sağlar. E) Otomatik odaklama sistemleri daha gelişmiştir.",
+            "options": [
+                "Daha kısa pozlama süreleri kullanarak anı dondurabilir.",
+                "Loş ışıkta rahatlıkla fotoğraf çekebilir.",
+                "Daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir.",
+                "Hafif ve pratik bir kullanım sağlar.",
+                "Otomatik odaklama sistemleri daha gelişmiştir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 30,
+            "question": "Mekanik bir aparat kullanmayan ve yer değiştiren görüntünün yarattığı hareket bulanıklığını düzeltmenin tek yöntemi aşağıdakilerden hangisidir? A) Elektronik görüntü sabitleme (EIS) B) Optik görüntü sabitleme (OIS) C) Frame Per Second D) Progressive Tarama E) Interlaced Tarama",
+            "options": [
+                "Elektronik görüntü sabitleme (EIS)",
+                "Optik görüntü sabitleme (OIS)",
+                "Frame Per Second",
+                "Progressive Tarama",
+                "Interlaced Tarama"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 31,
+            "question": "Aşağıdakilerden hangisi FX (Tam Çerçeve) gövde avantajlarından biridir? A) 1.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar. B) Net alan derinliği ve bokeh kalitesi yüksektir. C) Sensör lensin verimli olan merkez kısımlarını kullanırlar. D) Maliyet olarak oldukça ucuzdurlar. E) Geniş açı ve balık gözü lenslerde kenar keskinliklerinde belirgin bir düşüş yaşanır.",
+            "options": [
+                "1.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar.",
+                "Net alan derinliği ve bokeh kalitesi yüksektir.",
+                "Sensör lensin verimli olan merkez kısımlarını kullanırlar.",
+                "Maliyet olarak oldukça ucuzdurlar.",
+                "Geniş açı ve balık gözü lenslerde kenar keskinliklerinde belirgin bir düşüş yaşanır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 32,
+            "question": "Kasklara, bisiklet veya kaykay gibi araçlara monte edilebilen kameralar aşağıdakilerden hangisidir? A) Omuz Kameraları B) El Kameraları C) DSLR Kamera D) Aynasız Kameralar E) Dijital Aksiyon Kameralar",
+            "options": [
+                "Omuz Kameraları",
+                "El Kameraları",
+                "DSLR Kamera",
+                "Aynasız Kameralar",
+                "Dijital Aksiyon Kameralar"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 33,
+            "question": "Mekân içinde yükseklik, derinlik ve genişlikte; dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan vinç mekanizması aşağıdakilerden hangisi ile tanımlanmaktadır? A) Dolly B) OIS C) Jimmy Jib D) Gimbal E) Steadicam",
+            "options": [
+                "Dolly",
+                "OIS",
+                "Jimmy Jib",
+                "Gimbal",
+                "Steadicam"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 34,
+            "question": "Kendi yapay zekâsı ile herhangi bir nesnenin etrafında hareket edebilen, gelişmiş GPS özellikleri sayesinde uçuş, kalkış ve iniş noktaları belirlenebilen ve gök yüzünden görüntüleme işlemini oldukça düşük maliyetlere indiren kamera türü aşağıdakilerden hangisidir? A) Hibrit Kameralar B) Drone Kameralar C) 3D Dijital Kameralar D) 360 Derece Kameralar E) DSLRA Kameralar",
+            "options": [
+                "Hibrit Kameralar",
+                "Drone Kameralar",
+                "3D Dijital Kameralar",
+                "360 Derece Kameralar",
+                "DSLRA Kameralar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 35,
+            "question": "Su, cam gibi yüzeylerden yansıyarak objektife giren ışığı kesip yansıma parlamaları azaltan, iki kat optikten oluşan filtrelere ne ad verilir? A) Polarize filtre B) UV filtre C) ND filtre D) Kızılötesi filtre E) Macro filtre",
+            "options": [
+                "Polarize filtre",
+                "UV filtre",
+                "ND filtre",
+                "Kızılötesi filtre",
+                "Macro filtre"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 36,
+            "question": "Kafa montajlı ekranlar ya da diğer ifade ile VR gözlükler ile izlenebilen videoların üretilmesini sağlayan kamera türü aşağıdakilerden hangisidir? A) Hibrit Kameralar B) 3D Dijital Kameralar C) DSLR Kamera D) 360 Derece Kameralar E) Drone Kameralar",
+            "options": [
+                "Hibrit Kameralar",
+                "3D Dijital Kameralar",
+                "DSLR Kamera",
+                "360 Derece Kameralar",
+                "Drone Kameralar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 37,
+            "question": "-------, bir renkteki Ton (hue) değerinin ne kadar fazla ya da az olduğunun göstergesidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? A) Parlaklık B) Tint C) Kontrast D) Shadow E) Doygunluk",
+            "options": [
+                "Parlaklık",
+                "Tint",
+                "Kontrast",
+                "Shadow",
+                "Doygunluk"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 38,
+            "question": "Bilgisayarlarda yer alan geçici bellek birimi aşağıdakilerden hangisidir? A) CPU B) SSD C) GPU D) RAM E) ROM",
+            "options": [
+                "CPU",
+                "SSD",
+                "GPU",
+                "RAM",
+                "ROM"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 39,
+            "question": "Üzerinde çalışılan dijital bir görüntünün renklerini ve oranlarını gösteren grafik aşağıdakilerden hangisidir? A) Histogram B) RGB C) Ton D) CMYK E) Doygunluk",
+            "options": [
+                "Histogram",
+                "RGB",
+                "Ton",
+                "CMYK",
+                "Doygunluk"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 40,
+            "question": "Bir ışık kaynağının, doğal güneş ışığı ile karşılaştırıldığında, nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değer aşağıdakilerden hangisidir? A) UV B) Polarize C) CRI D) LED E) TLCI",
+            "options": [
+                "UV",
+                "Polarize",
+                "CRI",
+                "LED",
+                "TLCI"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523009"
+        },
+        {
+            "id": 41,
+            "question": "Açık internet ağını kullanarak sayısal televizyon hizmetleri sunan TV yayıncılık türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Analog yayıncılık",
+                "IPTV",
+                "Web TV",
+                "Mobil TV",
+                "Pay TV"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 42,
+            "question": "-------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakileden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "İnternet",
+                "Transistör",
+                "Optik iletişim",
+                "Hafıza kartı",
+                "Mikro çipler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 43,
+            "question": "Aşağıdakilerden hangisi film yapımını kitleler için erişilebilir hâle getirmiştir?",
+            "options": [
+                "VTR",
+                "Telstar uydusu",
+                "Super 8 formatı",
+                "Kodak DCS-100",
+                "Nikon D1"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 44,
+            "question": "-------, genellikle doğadan elde edilen, işlenmemiş ya da çok az işlem görmüş maddeleri işlemek, değiştirmek ve böylece doğada gerçekte bulunmayan ürünler üretmek anlamına gelir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Endüstri",
+                "Kullanıcı",
+                "Ürün",
+                "Ticaret",
+                "Müşteri"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 45,
+            "question": "Aşağıdakilerden hangisi Endüstri 3.0'ın özelliklerinden biridir?",
+            "options": [
+                "Bulut Sistemi ve Büyük Veri ile daha çok akıllı makinenin çalıştırılması amaçlanır.",
+                "Karar verme yetkisi yapay zekâya sahip olan robotlar vasıtasıyla gerçekleştirilir.",
+                "Süreç izleme neden-sonuç ilişkisi içinde kapsamlı olarak çalışır.",
+                "Üretim sürecinde makineler birbirleriyle iletişim kurarak akıllı bir şekilde çalışır.",
+                "Makineler insanın fiziksel yapısı ve işgücü temeline göre dizayn edilir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 46,
+            "question": "Aşağıdakilerden hangileri \"Orta Format Makineleri'nin\" tercih edilme nedenleri arasında yer alır? I. Sığ alan derinliğini kontrol etmeye olanak tanır. II. Yüksek çözünürlüklü renk derinliği olan görüntüler sunar. III. Hafif bir gövdeye sahiptir. IV. İhtiyaç ve amaç ölçüsünde geniş bir yelpaze sunar.",
+            "options": [
+                "I ve II",
+                "II ve III",
+                "I, II ve III",
+                "I, II ve IV",
+                "II, III ve IV"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 47,
+            "question": "Aşağıdakilerden hangisi kompakt fotoğraf makinesi kullanmanın dezavantajlarından biridir?",
+            "options": [
+                "Hafifliği ve hacmi nedeniyle bir ceket cebine koyup onu her yere götürmek mümkündür.",
+                "Sınırlı bir yakınlaştırma aralığına sahiplerdir.",
+                "Geniş optik zoom aralıkları sunmaktadır.",
+                "Keskin, iyi pozlanmış bir fotoğraf elde etmek mümkündür.",
+                "Kullanıcıya basitlik sunar."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 48,
+            "question": "-------, bir objektifin görüş alanının ölçümü, teknik olarak objektifin optik merkezi ile sonsuzdaki bir konuya odaklanmış görüntü arasındaki mesafe olarak adlandırılır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Odak uzaklığı",
+                "Titreşim önleyici",
+                "Zoom",
+                "Optik Zoom",
+                "Netleme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 49,
+            "question": "Aşağıdakilerden hangisi kompakt fotoğraf makinelerinin ön kısmında bulunmaktadır?",
+            "options": [
+                "Yön tuşları",
+                "LCD Ekran",
+                "Zamanlayıcı lambası",
+                "Büyültme Küçültme modu düğmesi",
+                "Mod kadranı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 50,
+            "question": "Aşağıdakilerden hangisi sensöre istenilen dalga boyundaki infrared ışığın ulaşmasını sağlar?",
+            "options": [
+                "Pentaprisma",
+                "Yoğunlaştırıcı Optik",
+                "Dijital Sensör",
+                "Renkli kızılötesi filtre",
+                "Vizör"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 51,
+            "question": "Kafa montajlı ekranlar ya da diğer ifade ile VR gözlükler ile izlenebilen videoların üretilmesini sağlayan kamera türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Drone Kameralar",
+                "360 Derece Kameralar",
+                "3D Dijital Kameralar",
+                "DSLR Kamera",
+                "Hibrit Kameralar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 52,
+            "question": "Hızlı ayar gerektiren elektronik haber toplama (ENG) ve gözlemsel belgesel çekimleri için tasarlanmış kameralar aşağıdakilerden hangisidir?",
+            "options": [
+                "DSLR ve Aynasız Kameralar",
+                "Dijital Sinema Kameraları",
+                "Hibrit Kameralar",
+                "El Kameraları",
+                "Büyük Boy Dijital Kameralar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 53,
+            "question": "Çözünürlüğü 625 (PAL) veya 525 (NTSC) satır çözünürlük standartı aşağıdakilerden hangisinde doğru verilmektedir?",
+            "options": [
+                "SDTV",
+                "4K TV",
+                "HDTV",
+                "UHDTV",
+                "1920x1080"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 54,
+            "question": "Dijital video kameralarda EIS veya Ois gibi görüntü sabitleme özelliklerinin olmaması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir?",
+            "options": [
+                "Dolly",
+                "3D Dijital Kameralar",
+                "Drone",
+                "Gimbal",
+                "Jimmy Jib"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 55,
+            "question": "Yer değiştiren görüntünün yarattığı hareket bulanıklığını mekanik bir aparat kullanmadan düzeltmenin tek yöntemi aşağıdakilerden hangisidir?",
+            "options": [
+                "Progressive Tarama",
+                "Frame Per Second",
+                "Optik görüntü sabitleme (OIS)",
+                "Interlaced Tarama",
+                "Elektronik görüntü sabitleme (EIS)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 56,
+            "question": "Oyunlarda tercih edilecek monitörün tepki süresi ve yenileme hızı en önemli iki faktördür. Oyunlarda görüntüler çok hızlı aktığı için, daha akışkan ve gerçekçi bir deneyim sağlamak adına tepki süresi düşük, ekran yenileme hızı yüksek olmalıdır. Bu bilgiye göre, aşağıdaki monitör türlerinden hangisi tercih edilebilir?",
+            "options": [
+                "IPS",
+                "TN paneller",
+                "PLS",
+                "AHVA",
+                "VA paneller"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 57,
+            "question": "Aşağıdakilerden hangisi güneşten gelen mavi ve mor ötesi ışınları %99 oranında emerek daha berrak görüntü elde edilmesini sağlarlar?",
+            "options": [
+                "Renk düzeltme filtreleri",
+                "ND (Netural Density) filtreler",
+                "Makro filtreler",
+                "Polarize filtreler",
+                "UV (UltraViole) filtreler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 58,
+            "question": "Kâğıttan farklı olarak, kumaş, seramik gibi malzemelere baskı yapılmas, istendiğinde aşağıdakilerden hangisi kullanılmalıdır?",
+            "options": [
+                "Tarayıcılar",
+                "Nokta vuruşlu yazıcılar",
+                "Süblimasyon baskı tekniği",
+                "Lazer yazıcılar",
+                "Mürekkep püskürtmeli yazıcılar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 59,
+            "question": "Bir ışık kaynağının doğal güneş ışığı ile karşılaştırıldığında, nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değer aşağıdakilerden hangisidir?",
+            "options": [
+                "CRI",
+                "LED",
+                "TLCI",
+                "UV",
+                "ND"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 60,
+            "question": "Veri depolama ve yedekleme için kullanılan, çoklu hard disklerden oluşan, yerel ağ ya da internet üzerinden içerisindeki verilere erişim sağlanabilen ünitelere ne ad verilir?",
+            "options": [
+                "Yerel sürücü",
+                "CFast kart",
+                "Katı hal diski (SSD)",
+                "Ağ depolama (NAS)",
+                "RAID"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541195"
+        },
+        {
+            "id": 61,
+            "question": "Tüketiciler için üretilen ilk LCD ekranlı kamera aşağıdakilerden hangisidir?",
+            "options": [
+                "FinePix Real 3D",
+                "Kodak DCS-100",
+                "Nikon D1",
+                "Casio QV-10",
+                "Minolta RD-175"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 62,
+            "question": "İnsanların ortak aşaması ve geleceği olarak öne sürülmüş ve henüz bu aşamaya ulaşmamış olsalar da bütün toplumların ulaşacağı bir nokta olarak gösterilmektedir. Yukarıda verilen tanım aşağıdakilerden hangisine aittir?",
+            "options": [
+                "Endüstri",
+                "Sanayi",
+                "Kapitalizm",
+                "Sayısal Çağ",
+                "Endüstri toplumu"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 63,
+            "question": "Açık internet ağını kullanarak sayısal televizyon hizmetleri sunan TV yayıncılık türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Mobil TV",
+                "Web TV",
+                "Pay TV",
+                "IPTV",
+                "Yayıncılık"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 64,
+            "question": "-------, piyasaya tümüyle hakim olmak ve onu kontrolü altında tutmak isteyen iktisadi üretim tarzıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Sayısal çağ",
+                "Sanayi",
+                "Kapitalizm",
+                "Endüstri",
+                "Sosyalizm"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 65,
+            "question": "Buhar makinesinin dokuma tezgahlarında kullanılmaya başlanması hangi endüstri devrimi içinde yer almaktadır?",
+            "options": [
+                "Endüstri 1.0",
+                "Endüstri 3.0",
+                "Endüstri 2.0",
+                "Endüstri 5.0",
+                "Endüstri 4.0"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 66,
+            "question": "Fotoğrafçılık dünyasında fotoğraf makineleri sınıflandırılırken ------- kavramı genellikle profesyonel ve sektörel kullanımlarını ifade eder. Reklam sektörüne yönelik ticari çekimlerde moda çekimleri, özel stüdyo çekimleri, mimari (otel, iş merkezleri, avm vs.) çekimler, özel gün çekimleri, otomotiv çekimleri gibi daha birçok alanda profesyonel fotoğrafçılar kullanılır.. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Köprü (Bridge) fotoğraf makineleri",
+                "DSLR fotoğraf makineleri",
+                "MILC aynasız fotoğraf makineleri",
+                "Basit kompak fotoğraf makineler",
+                "Orta Format(Medium) fotoğraf makineleri"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 67,
+            "question": "Aşağıdakilerden hangisi kompakt fotoğraf makinesi kullanmanın dezavantajlarından biridir?",
+            "options": [
+                "Hafifliği ve hacmi nedeniyle bir ceket cebine koyup onu her yere götürmek mümkündür.",
+                "Kullanıcıya basitlik sunar.",
+                "Keskin, iyi pozlanmış bir fotoğraf elde etmek mümkündür.",
+                "Sınırlı bir yakınlaştırma aralığına sahiplerdir.",
+                "Geniş optik zoom aralıkları sunmaktadır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 68,
+            "question": "Aynasız fotoğraf makineleri (MILC) ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Optik vizör kullanırlar.",
+                "Canlı Önizleme bulunur.",
+                "Tamir ve maliyetleri oldukça düşüktür.",
+                "DSLR'den daha az sarsıntı üretirler.",
+                "Küçük ve hafif gövdelere sahiptirler."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 69,
+            "question": "Kompakt fotoğraf makinelerinde bulunan farklı çekim ayarlarının kolayca seçilebildiği fonksiyon düğmesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Elektronik flaş",
+                "LCD ekran",
+                "Mod kadranı",
+                "Zamanlayıcı lambası",
+                "Yön tuşları"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 70,
+            "question": "Aynadan gelen görüntüyü vizöre ulaştıran DSLR parçası aşağıdakilerden hangisidir?",
+            "options": [
+                "Pentaprisma",
+                "Objektif",
+                "Örtücü",
+                "Sensör",
+                "Diyafram"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 71,
+            "question": "Çözünürlüğü 625 (PAL) veya 525 (NTSC) satır olarak tanımlanan TV çözünürlük standardı aşağıdakilerden hangisinde doğru verilmektedir?",
+            "options": [
+                "HDTV",
+                "4K TV",
+                "SDTV",
+                "UHDTV",
+                "1920x1080"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 72,
+            "question": "Video kameralarda mekanik bir aparat kullanmadan yer değiştiren görüntünün yarattığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?",
+            "options": [
+                "Dijital sistem",
+                "Optik görüntü sabitleme (OIS)",
+                "İnterlaced (i) tarama",
+                "Analog sistem",
+                "Elektronik görüntü sabitleme (EIS)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 73,
+            "question": "Video kameraların görüntülediği ve kayıt altına aldığı saniyedeki kare sayısı aşağıdakilerden hangisiyle tanımlanmaktadır?",
+            "options": [
+                "Progressive",
+                "FPS",
+                "İnterlaced",
+                "OIS",
+                "HDTV"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 74,
+            "question": "Aşağıda 3D video kameralar ile ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Kullanılan kameralar HDTV sinyallerini kendi yüksek kapasiteli dahili bellek cihazlarına ya da ikiz SD kartlara depolar.",
+                "3D video görüntüleri için kullanılan kameralarda CMOS sensör bulunmaktadır.",
+                "3D video üretmek için iki gözümüzün yerine iki adet kameraya ihtiyaç vardır.",
+                "3D video üretmek için ortama yerleştirilen en az 6 kameraya ihtiyaç vardır.",
+                "3D görüntünün üretilmesindeki temel prensip iki gözümüzün tek sahneyi birbirinden farklı açılarla görmesidir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 75,
+            "question": "------- formatı, sesin televizyon veya hareketli görüntü prodüksiyonları için dijital olarak kaydedildiği sıkıştırılmamış dosya formatı türüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "LOG",
+                "MP3",
+                "WAV",
+                "PDF",
+                "PNG"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 76,
+            "question": "Bir ışık kaynağının, doğal güneş ışığı ile karşılaştırıldığında, nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değer aşağıdakilerden hangisidir?",
+            "options": [
+                "TLCI",
+                "CRI",
+                "LED",
+                "UV",
+                "Polarize"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 77,
+            "question": "Geniş görüntüleme açısı ve yüksek kontrast oranları sunan paneller aşağıdakilerden hangisidir?",
+            "options": [
+                "TN Paneller",
+                "OLED Paneller",
+                "AMOLED Paneller",
+                "VA Paneller",
+                "IPS Paneller"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 78,
+            "question": "Görüntüyü oluşturmak için, içi mürekkeple dolu tonerler kullanan, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve böylece kâğıt üzerinde herhangi bir dağılma veya taşma olmadan baskı yapılabilen yazıcılar hangi tip yazıcılardır?",
+            "options": [
+                "Ofset",
+                "Mürekkep püskürtmeli",
+                "Süblimasyon",
+                "Lazer",
+                "Dijital"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 79,
+            "question": "Aşağıdakilerden hangisi CMYK renk uzayının ana renklerinden biri <u>değildir</u>?",
+            "options": [
+                "Black",
+                "Blue",
+                "Cyan",
+                "Magenta",
+                "Yellow"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 80,
+            "question": "Aşağıdakilerden hangisi işletim sistemi yazılımına bir örnektir?",
+            "options": [
+                "Windows 10",
+                "Chrome",
+                "C++",
+                "Premiere",
+                "Photoshop"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591737"
+        },
+        {
+            "id": 81,
+            "question": "Açık internet ağını kullanarak sayısal televizyon hizmetleri sunan TV yayıncılık türü aşağıdakilerden hangisidir?",
+            "options": [
+                "IPTV",
+                "Web TV",
+                "Pay TV",
+                "Mobil TV",
+                "Analog yayıncılık"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 82,
+            "question": "Aşağıdakilerden hangisi \"DSLR\" fotoğraf makinelerinin özellikleri arasında <u>yer almaz</u>?",
+            "options": [
+                "Tek tuşla video özelliği kullanılabilir.",
+                "Çekimle görüntünün kaydı arasında herhangi bir gecikme yoktur.",
+                "Maliyeti kompaktlara nazaran daha ucuzdur.",
+                "Tak çıkar bir lensten oluşur.",
+                "Tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 83,
+            "question": "Dijital video kameralarda EIS veya OIS gibi görüntü sabitleme özelliklerinin olmaması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir?",
+            "options": [
+                "Drone",
+                "3D Dijital Kameralar",
+                "Jimmy Jib",
+                "Dolly",
+                "Gimbal"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 84,
+            "question": "Su, cam gibi yüzeylerden yansıyarak objektife giren ışığı kesip yansıma parlamaları azaltan, iki kat optikten oluşan filtrelere ne ad verilir?",
+            "options": [
+                "Polarize filtre",
+                "Macro filtre",
+                "ND filtre",
+                "Kızılötesi filtre",
+                "UV filtre"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 85,
+            "question": "Eskişehir'de çekmiş olduğunuz gezi fotoğraflarınıza \"ESK1, ESK2...ESK9999\" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan \"File and folder structure\" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir. <br>Yukarıda örnekte yer alan ve kullanıcı için özellikli avantajlar sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir?",
+            "options": [
+                "Görüntü Ayarları (Display settings)",
+                "Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and numbering)",
+                "Telif Hakkı Girişi (Copyright)",
+                "Görüntü Kontrolü ve Tarzı (Picture Control Or Creative Style)",
+                "İzlemeyi Kontrol Etme (Controlling Playback)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 86,
+            "question": "I. Renk Modu<br>II. Manzara Modu<br>III. Spor/aksiyon modu<br>IV. Portre Modu<br>Yukarıda verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır?",
+            "options": [
+                "Yalnız I",
+                "I ve II",
+                "II ve IV",
+                "I, II ve III",
+                "II, III ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 87,
+            "question": "kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın, parlaklığın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler. <br>Yukarıdaki cümlede boş bırakılan yeri doğru şekilde tamamlar?",
+            "options": [
+                "Histogram",
+                "Odak noktası",
+                "Auto fokus",
+                "Beyaz ayarı",
+                "Diyafram"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 88,
+            "question": "Gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlara benzer şekilde gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan stüdyo türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Daylight stüdyo",
+                "Çekim seti",
+                "Plato",
+                "Outdoor stüdyo",
+                "Portatif stüdyo"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 89,
+            "question": "Çekilen fotoğraflar üzerinde renk, keskinlik, ışık ve kompozisyon düzenlemeleri, çekilen fotoğrafların gruplandırılması, keyword girilmesi gibi birçok işlemin yapılmasına olanak sağlayan yazılım aşağıdakilerden hangisidir?",
+            "options": [
+                "Adobe Photoshop",
+                "Capture One Pro",
+                "Helicon focus",
+                "Adobe Bridge",
+                "Rescue Pro Deluxe"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 90,
+            "question": "Aşağıdakilerden hangisi parlak yüzeyli nesnelerin stüdyo çekimlerinde ışık ve ortam yansımalarını önlemek için kullanılan bir stüdyo donanımıdır?",
+            "options": [
+                "Ayna",
+                "Stil life masası",
+                "Sonsuz Fon",
+                "Strafor",
+                "Çekim çadırı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 91,
+            "question": "Aşağıdakilerden hangisi parlak yüzeyli nesnelerin stüdyo çekimlerinde ışık ve ortam yansımalarını önlemek için kullanılan bir stüdyo donanımıdır?",
+            "options": [
+                "Ayna",
+                "Stil life masası",
+                "Sonsuz Fon",
+                "Strafor",
+                "Çekim çadırı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 92,
+            "question": "Aşağıdakilerden hangisi fotoğrafçıların ajans ve müşterilerle ilişkilerini düzenleyen, tanıtımını yapan, teklif ve bütçesini hazırlayan, idari ve mali konulardaki işlerin takibini yürüten temsilcisidir?",
+            "options": [
+                "Styling",
+                "Representer",
+                "Prodüktör",
+                "Butafor",
+                "Retoucher"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 93,
+            "question": "Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre göre renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?",
+            "options": [
+                "Gamma ayarı",
+                "Beyaz ayarı",
+                "ICC profil ayarı",
+                "Pozometre ayarı",
+                "Kontrast ayarı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 94,
+            "question": "Hareketli görüntü dosya türlerinin pek çoğunu dönüştürmeye gerek duymadan gerçek zamanlı olarak işleyebilmesiyle öne çıkan ve ağırlıklı olarak televizyon ve habercilik alanında kullanılan yazılım aşağıdakilerden hangisidir?",
+            "options": [
+                "Final Cut Pro",
+                "Lightroom",
+                "Edius Pro",
+                "Photoshop",
+                "Camera Raw Lab"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 95,
+            "question": "Görüntü işleme ve tasarım yazılımları tarafından matematiksel denklemler aracılığıyla sayısal olarak oluşturulan ve çözünürlükleri bağımsız olduğu için büyütüldüklerinde ayrıntılarını kaybetmeyen sayısal görüntü formatı aşağıdakilerden hangisidir?",
+            "options": [
+                "Raster",
+                "Bitmap",
+                "Mpeg",
+                "Vektörel",
+                "Hücresel"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 96,
+            "question": "İnternet ortamına yüklenecek görüntülere ilişkin olarak \"Jpeg\" formatı ile kıyaslandığında %40 oranında daha fazla sıkıştırma oranına sahip dosya türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Png",
+                "WebP",
+                "Tiff",
+                "Gif",
+                "Psd"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 97,
+            "question": "Aşağıdakilerden hangisi gerçek dünyadan uzaklaşmadan elinizdeki cihazın kamerasını kullanarak aldığı görsel veriyi inceleyip gerekli koşullara uyan yerlere fazladan öge ekleyebilmektedir?",
+            "options": [
+                "AR",
+                "VR",
+                "2D",
+                "ISO",
+                "MP"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 98,
+            "question": "Sonsuz bir mesafeden çekilen ve dümdüz aşağıya bakan bir fotoğrafın simülasyonuna verilen ad aşağıdakilerden hangisidir?",
+            "options": [
+                "Panoroma",
+                "Perspektif",
+                "Kombine pozlama",
+                "Ortofoto",
+                "Dikey pozlama"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 99,
+            "question": "Aşağıdakilerden hangisi fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilmesi işlemidir?",
+            "options": [
+                "Sokak fotoğrafçılığı",
+                "Belgesel fotoğrafçılık",
+                "Reklam fotoğrafçılığı",
+                "Sualtı fotoğrafçılığı",
+                "Makro fotoğrafçılık"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 100,
+            "question": "Aşağıdaki uygulamalardan hangisi videoları düzenlemenizi ve birden fazla cihazda yayın yapmanızı sağlar?",
+            "options": [
+                "TouchRetouch",
+                "FaceApp",
+                "Switcher",
+                "Adobe Photoshop Camera",
+                "Prisma"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "523001"
+        },
+        {
+            "id": 101,
+            "question": "Televizyonda <u>canlı yayınlar dışında</u> bant kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?",
+            "options": [
+                "Vitaphone ses sistemi",
+                "VTR (Video Tape Recorder)",
+                "Katot ışın tüplü elektronik televizyon",
+                "Sinematograf",
+                "Telstar uydusu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 102,
+            "question": "Aşağıdakilerden hangisi \"DSLR\" fotoğraf makinelerinin özellikleri arasında <u>yer almaz</u>?",
+            "options": [
+                "Tak çıkar bir lensten oluşur.",
+                "Tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir.",
+                "Çekimle görüntünün kaydı arasında herhangi bir gecikme yoktur.",
+                "Tek tuşla video özelliği kullanılabilir.",
+                "Maliyeti kompaktlara nazaran daha ucuzdur."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 103,
+            "question": "Dijital video kameralarda EIS veya OIS gibi görüntü sabitleme özelliklerinin olmaması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir?",
+            "options": [
+                "Drone",
+                "Dolly",
+                "Gimbal",
+                "3D Dijital Kameralar",
+                "Jimmy Jib"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 104,
+            "question": "Görüntüyü oluşturmak için, içi katı mürekkeple dolu tonerler kullanan, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve böylece kâğıt üzerinde herhangi bir dağılma veya taşma olmadan baskı yapılabilen yazıcılar hangi tip yazıcılardır?",
+            "options": [
+                "Ofset",
+                "Süblimasyon",
+                "Mürekkep püskürtmeli",
+                "Lazer",
+                "Dijital"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 105,
+            "question": "Eskişehir'de çekmiş olduğunuz gezi fotoğraflarınıza \"ESK1, ESK2...ESK9999\" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan \"File and folder structure\" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir. Yukarıda örnekte yer alan ve kullanıcı için <u>özellikli avantajlar</u> sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir?",
+            "options": [
+                "Görüntü Ayarları (Display settings)",
+                "Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and numbering)",
+                "Telif Hakkı Girişi (Copyright)",
+                "İzlemeyi Kontrol Etme (Controlling Playback)",
+                "Görüntü Kontrolü ve Tarzı (Picture Control Or Creative Style)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 106,
+            "question": "Mümkün olan en sığ alan derinliğini yakalamayı amaçlayan hazır sahneleme modu aşağıdakilerden hangisidir?",
+            "options": [
+                "Düşük ışık Modu",
+                "Spor/aksiyon Modu",
+                "Manzara Modu",
+                "Gece Modu",
+                "Portre Modu"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 107,
+            "question": "Bu soru iptal edilmiştir.",
+            "options": [],
+            "correctIndex": -1,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 108,
+            "question": "Sahnedeki ışığın tümünü ölçerek ortalama bir değer alan ışık ölçüm modu aşağıdakilerden hangisidir?",
+            "options": [
+                "Kısmi ölçüm",
+                "Nokta ölçüm",
+                "Partial metering",
+                "Merkez ağırlıklı ölçüm",
+                "Matris ölçümü"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 109,
+            "question": "Fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurlar ya da bulundukları ortam kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılabilir. Yukarıda tanımı verilen fon türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Mekân/Set Fonlar",
+                "Sonsuz Fon",
+                "Askı/Rulo Fon",
+                "Çekim Çadırı",
+                "Düz Fonlar"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 110,
+            "question": "Fotoğraf işlemede kullanılan yazılımları etkin ve yaratıcı bir biçimde kullanan personel aşağıdakilerden hangisidir?",
+            "options": [
+                "İkinci Asistan",
+                "Retoucher",
+                "Sekreter",
+                "Muhasebeci",
+                "Sanat Yönetmeni"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 111,
+            "question": "Ayarlanabilir güçleriyle daha geniş bir aralıkta pozlama ve aydınlatma etkisi elde edilmesini sağlar.<br>Ortamı ısıtmaz. Kendisi de çabuk ısınmaz.<br>Işık kaynakları daha uzun ömürlüdür.<br>Kullanımı daha ekonomiktir.<br>Yukarıda verilen bilgiler aşağıdaki ışık kaynaklarından hangisinin sabit ışık kaynaklarına göre avantajları arasında yer almaktadır?",
+            "options": [
+                "Tungsten",
+                "Daylight",
+                "Led",
+                "Paraflaş",
+                "HMI Daylight"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 112,
+            "question": "Huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlayan ışık şekillendirici aşağıdakilerden hangisidir?",
+            "options": [
+                "Snoot",
+                "Şemsiye",
+                "Reflektör",
+                "Gobo",
+                "Softbox"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 113,
+            "question": "Aşağıdakilerden hangisi RGB renk uzayının ana renklerinden biridir?",
+            "options": [
+                "Siyah",
+                "Mavi",
+                "Eflatun",
+                "Cam göbeği",
+                "Sarı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 114,
+            "question": "Renk metre ya da renk ölçer (colorimeter) adı verilen cihazın temel kullanım amacı aşağıdakilerden hangisidir?",
+            "options": [
+                "LUT kalibrasyonu",
+                "Poz ölçümü",
+                "Monitör kalibrasyonu",
+                "Işık ölçümü",
+                "Beyaz ayarı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 115,
+            "question": "Görüntülerin gerçek renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırılmasına imkân sunan dosya formatı aşağıdakilerden hangisidir?",
+            "options": [
+                "RAW",
+                "PSD",
+                "TIFF",
+                "PNG",
+                "JPEG"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 116,
+            "question": "Sayısal tabanlı doğrusal olmayan görüntü işlemeye ettiği öncülükten dolayı 2017 yılında EMMY ödülüne layık görülen hareketli görüntü işleme ve düzenleme yazılımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Lightworks",
+                "Shotcut",
+                "VSDC Free Video Editör",
+                "OpenShot",
+                "Vegas Pro"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 117,
+            "question": "Sonsuz bir mesafeden çekilen ve dümdüz aşağıya bakan bir fotoğrafın simülasyonuna verilen ad aşağıdakilerden hangisidir?",
+            "options": [
+                "Panoroma",
+                "Perspektif",
+                "Dikey pozlama",
+                "Kombine pozlama",
+                "Ortofoto"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 118,
+            "question": "Aşağıdaki uygulamalardan hangisi fotoğraflarınızın tablo gibi görünmesini sağlar?",
+            "options": [
+                "Prisma",
+                "Trash",
+                "FaceApp",
+                "TouchRetouch",
+                "Polaroid Lab"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 119,
+            "question": "Sayısal fotoğrafçılıkta, bir eserin kopyalanarak sayısal ortama geçirilmesi yoluyla çoğalmak anlamına gelen kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "An",
+                "Doğrudan fotoğraf",
+                "Reprodüksiyon",
+                "Flaneur",
+                "Landscape"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 120,
+            "question": "-----------, kullanıcıların kendilerine ait panoda bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı görsel paylaşım ve sosyal medya hizmetidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Instagram",
+                "Selfie",
+                "Flickr",
+                "Pinterest",
+                "Facebook"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523017"
+        },
+        {
+            "id": 121,
+            "question": "Tüketicilerin ilk kez kendi video görüntülerini kaydedip izleyebilmelerine olanak sağlayan medya formatı aşağıdakilerden hangisidir?",
+            "options": [
+                "Sony BMC100",
+                "Sony DV-2400 Video Rover",
+                "VHS (Video Home System)",
+                "VTR (Video Tape Recorder)",
+                "Super 8 format"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 122,
+            "question": "Aşağıdakilerden hangisi \"DSLR\" fotoğraf makinelerinin özellikleri arasında yer <u>almaz</u>?",
+            "options": [
+                "Maliyeti kompaktlara nazaran daha ucuzdur.",
+                "Çekimle görüntünün kaydı arasında herhangi bir gecikme yoktur.",
+                "Tek tuşla video özelliği kullanılabilir.",
+                "Tak çıkar bir lensten oluşur.",
+                "Tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 123,
+            "question": "Kendi yapay zekâsı ile herhangi bir nesnenin etrafında hareket edebilen, gelişmiş GPS özellikleri sayesinde uçuş, kalkış ve iniş noktaları belirlenebilen ve gökyüzünden görüntüleme işlemini oldukça düşük maliyetlere indiren kamera türü aşağıdakilerden hangisidir?",
+            "options": [
+                "DSLR Kamera",
+                "Drone Kameralar",
+                "Hibrit Kameralar",
+                "3D Dijital Kameralar",
+                "360 Derece Kameralar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 124,
+            "question": "Su, cam gibi yüzeylerden yansıyarak objektife giren ışığı kesip yansıma parlamaları azaltan, iki kat optikten oluşan filtrelere ne ad verilir?",
+            "options": [
+                "Kızılötesi filtre",
+                "ND filtre",
+                "Macro filtre",
+                "UV filtre",
+                "Polarize filtre"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 125,
+            "question": "Programlanmış otomatik pozlama olarak adlandırılan mod aşağıdakilerden hangisidir?",
+            "options": [
+                "Auto",
+                "A",
+                "P",
+                "S",
+                "M"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 126,
+            "question": "------- -------, lensinizde yer alan merceklerden geçen ışığın makineniz içerisine ne kadar gireceği kontrolünün sağlandığı ve çok özel yapraklardan oluşan bir mekanizmadır.",
+            "options": [
+                "Net Derinliği",
+                "Histogram",
+                "Enstantane",
+                "Diyafram",
+                "ISO"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 127,
+            "question": "Eskişehir'de çekime başladığınız gezi fotoğraflarınıza \"ESK1, ESK2...ESK9999\" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan \"File and folder structure\" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir. Yukarıda örnekte yer alan ve kullanıcı için özellikli avantajlar sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir?",
+            "options": [
+                "Telif Hakkı Girişi (Copyright)",
+                "Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and numbering)",
+                "Görüntü Kontrolü ve Tarzı (Picture Control Or Creative Style)",
+                "İzlemeyi Kontrol Etme (Controlling Playback)",
+                "Görüntü Ayarları (Display settings)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 128,
+            "question": "Aşağıdakilerden hangisi White Balance(Beyaz Dengesi) ayarları arasında yer <u>almaz</u>?",
+            "options": [
+                "Shade(Gölge)",
+                "Cloudy (Bulutlu)",
+                "Fluorescent(Floresan)",
+                "Daylight(Gün ışığı)",
+                "Depth of field(Alan Derinliği)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 129,
+            "question": "Farklı noktalara netlik kaydırması yaparak ayrı ayrı elde edilen fotoğrafları birleştirmek suretiyle, daha geniş alan derinliği elde etmek için kullanılan yazılım aşağıdakilerden hangisidir?",
+            "options": [
+                "Helicon Focus",
+                "Photoshop",
+                "Capture One Pro",
+                "NAS",
+                "Raid"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 130,
+            "question": "Fotoğraf işlemede kullanılan yazılımları etkin ve yaratıcı bir biçimde kullanan personel aşağıdakilerden hangisidir?",
+            "options": [
+                "Muhasebeci",
+                "İkinci Asistan",
+                "Sekreter",
+                "Retoucher",
+                "Sanat Yönetmeni"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 131,
+            "question": "Bilgisayara bağlanarak gücü ve rengi ayarlanabilir, özel yazılım kullanılarak farklı ışık etkileri yaratmak için kullanılabilirler. Enerji sarfiyatları diğer sabit ışık kaynaklarına nazaran oldukça düşük, ısınmadıkları için kullanım ömürleri de uzundur. Yukarıda tanımı verilen ışık kaynağı aşağıdakilerden hangisidir?",
+            "options": [
+                "Halojen",
+                "Paraflaş",
+                "HMI Daylight",
+                "Tungsten",
+                "Led Işık"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 132,
+            "question": "I. Stüdyoların ışıktan yalıtılmış olmaları gerekir. II. Stüdyo olarak kullanılacak mekânların, en az 7 metre ve üzeri yükseklikte olması önerilmektedir. III. Stüdyolarda duvar rengi olarak yeşil renk önerilmektedir. IV. Stüdyo zeminlerinin kaygan olmayan mat ve düz yüzeyli, dayanıklı ve çizilmeyen malzemeden olması önerilmektedir. Yukarıda verilen fotoğraf stüdyolarının ideal koşullarından hangileri doğrudur?",
+            "options": [
+                "I, II ve IV",
+                "I ve IV",
+                "I, II, III ve IV",
+                "I ve II",
+                "II ve III"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 133,
+            "question": "Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?",
+            "options": [
+                "Beyaz ayarı",
+                "Gamma ayarı",
+                "Kontrast ayarı",
+                "ICC profil ayarı",
+                "Pozometre ayarı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 134,
+            "question": "-------, Adobe firmasının çıkardığı Photoshop programına rakip olarak ilk defa Jasc yazılım şirketi tarafından piyasaya sürülmüş bir sayısal görüntü düzenleme yazılımıdır.",
+            "options": [
+                "GIMP",
+                "Camera RAW",
+                "Adobe Photoshop Lightroom",
+                "Paint Shop Pro",
+                "Darktable"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 135,
+            "question": "Görüntü işleme ve tasarım yazılımları tarafından matematiksel denklemler aracılığıyla sayısal olarak oluşturulan ve çözünürlükleri bağımsız olduğu için büyütüldüklerinde ayrıntılarını kaybetmeyen sayısal görüntü formatı aşağıdakilerden hangisidir?",
+            "options": [
+                "Raster",
+                "Bitmap",
+                "Vektörel",
+                "Mpeg",
+                "Hücresel"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 136,
+            "question": "Aşağıdakilerden hangisi Linux sistemler için açık kaynak kodlu bir hareketli görüntü düzenleme yazılımıdır?",
+            "options": [
+                "Edius Pro",
+                "Avid Media Composer",
+                "Vegas Pro",
+                "Final Cut Pro",
+                "OpenShot"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 137,
+            "question": "Videoları düzenlemeyi ve birden fazla cihaza yayın yapmayı sağlayan uygulama aşağıdakilerden hangisidir?",
+            "options": [
+                "Polaroid Lab",
+                "Switcher",
+                "Trash",
+                "FaceApp",
+                "FilmoraGo"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 138,
+            "question": "Kullanıcıların kendilerine ait panoda bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı, görsel paylaşım ve sosyal medya hizmeti aşağıdakilerden hangisidir?",
+            "options": [
+                "Instagram",
+                "Facebook",
+                "Pinterest",
+                "Flickr",
+                "Snapchat"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 139,
+            "question": "Sonsuz bir mesafeden çekilen ve dümdüz aşağıya bakan bir fotoğrafın simülasyonuna verilen ad aşağıdakilerden hangisidir?",
+            "options": [
+                "Kombine pozlama",
+                "Perspektif",
+                "Dikey pozlama",
+                "Ortofoto",
+                "Panoroma"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 140,
+            "question": "Aşağıdakilerden hangisi telefon kamerasıyla çekilen 0.11 MP görüntülerin doğrudan e-posta yoluyla gönderilmesine olanak veren ilk telefon modelidir?",
+            "options": [
+                "Sharp J-SH04",
+                "Kyocera VP-210",
+                "Sanyo SCP-5300",
+                "IPhone",
+                "Samsung SCH-V200"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556440"
+        },
+        {
+            "id": 141,
+            "question": "-------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukardaki cümlede boş bırakılan yeri aşağıdakileden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Transistör",
+                "Mikro çipler",
+                "İnternet",
+                "Hafıza kartı",
+                "Optik iletişim"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 142,
+            "question": "Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin büyük sensöre sahip olmasının avantajları arasında yer <u>almaz</u>?",
+            "options": [
+                "Otomatik odaklama sistemleri daha gelişmiştir.",
+                "Hafif ve pratik bir kullanım sağlar.",
+                "Daha kısa pozlama süreleri kullanarak anı dondurabilir.",
+                "Loş ışıkta rahatlıkla fotoğraf çekebilir.",
+                "Daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 143,
+            "question": "Dijital video kameralarda Eis veya Ois gibi görüntü sabitleme özelliklerinin olması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir?",
+            "options": [
+                "Jimmy Jib",
+                "Dolly",
+                "3D Dijital Kameralar",
+                "Drone",
+                "Gimbal"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 144,
+            "question": "-------, bir renkteki Ton (hue) değerinin ne kadar fazla ya da az olduğunun göstergesidir. Yukar1daki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Parlaklık",
+                "Tint",
+                "Doygunluk",
+                "Kontrast",
+                "Shadow"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 145,
+            "question": "Ofis ve ticari binalarda iç mekânlarda fotoğraf çekerken kullanılması önerilen beyaz dengesi modu aşağıdakilerden hangisidir?",
+            "options": [
+                "Fluorescent/Floresan",
+                "Cloudy/Bulutlu",
+                "Daylight/Gün ışığı",
+                "Flash/Flaş",
+                "Incandescent/Akkor Lamba"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 146,
+            "question": "Otomatik netleme noktası etrafından ışığı küçük bir yüzeyden ölçen ışık ölçüm modu aşağıdakilerden hangisidir?",
+            "options": [
+                "Matris ölçümü",
+                "Merkez ağırlıklı ölçüm",
+                "Kısmi ölçüm",
+                "Nokta ölçüm",
+                "Geniş ölçüm"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 147,
+            "question": "Program modu(P) ile kullanıcı aşağıdaki ayarlardan hangilerini değiştirebilir?",
+            "options": [
+                "Beyaz dengesi ve alan derinliği",
+                "ISO ve flaş",
+                "Diyafram ve enstantane",
+                "Poz telafisi ve histogram",
+                "Manuel odaklama ve ışık ölçümü"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 148,
+            "question": "Hazır sahneleme modlarından belirli bir pozlama için olabildiğince hızlı bir enstantane hızı elde etmeye çalışan mod aşağıdakilerden hangisidir?",
+            "options": [
+                "Manzara Modu",
+                "Gece / düşük ışık Modu",
+                "Portre Modu",
+                "Makro Modu",
+                "Spor/aksiyon Modu"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 149,
+            "question": "Aşağıdakilerden hangisi paraflaşların dezavantajlarından biridir?",
+            "options": [
+                "Parlak ve güçlü ışık yayarlar.",
+                "Gün ışığına yakın bir değerde 5500 K beyaz ışık verir.",
+                "Sabit ışıklar gibi ortamı ısıtmaz.",
+                "Anlık ışık yaydıkları için ışık etkileri çıplak gözle gözlemlenemez.",
+                "Işık kaynakları daha uzun ömürlüdür."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 150,
+            "question": "Gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlara benzer şekilde gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan stüdyo türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Daylight stüdyo",
+                "Plato",
+                "Çekim seti",
+                "Outdoor stüdyo",
+                "Portatif stüdyo"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 151,
+            "question": "------- kameraların teknik özellikleri ile birlikte oldukça gelişmiştir. 100 Megapikseli aşan çözünürlükleri ile artık daha yüksek kalitede fotoğraflar elde edilebilmektedir. Ayrıca dinamik aralıkları (+,-) 3 stop aralığında zengin bir ton skalası ve renk derinliği sağlamaktadır. Yukar1daki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "DSLR",
+                "Cep telefonu",
+                "Full Frame",
+                "Orta format",
+                "Aynasız"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 152,
+            "question": "Işık kaynaklarının önüne takılan ve ışığın açısını daraltarak noktasal aydınlatma sağlayan aydınlatma aksesuarı aşağıdakilerden hangisidir?",
+            "options": [
+                "Petek",
+                "Şemsiye",
+                "Snoot",
+                "Softbox",
+                "Tas Reflektör"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 153,
+            "question": "Sayısal fotoğraf makinelerinin sensöründen alınan işlenmemiş, sıkıştırılmamış ve gri tonlamalı görüntü verilerinin bulunduğu dosya türü aşağıdakilerden hangisidir?",
+            "options": [
+                "TIFF",
+                "RAW",
+                "GIF",
+                "PNG",
+                "JPEG"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 154,
+            "question": "Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?",
+            "options": [
+                "Beyaz ayarı",
+                "Gamma ayarı",
+                "Kontrast ayarı",
+                "ICC profil ayarı",
+                "Pozometre ayarı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 155,
+            "question": "Aşağıdaki formatlardan hangisi vektörel bir dosya formatıdır?",
+            "options": [
+                "JPEG",
+                "GIF",
+                "PNG",
+                "TIFF",
+                "SVG"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 156,
+            "question": "------- video formatı, Uluslararası Standartlar Organizasyonu (ISO) tarafından geliştirilen bir sıkıştırma formatıdır. Web uygulamalarından TV yayıncılığına, uygulamalar, mobil cihazlar ve video akışında dünya çapında çok geniş yelpazede kullanılır. Yukar1daki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "MPEG",
+                "MP4",
+                "RAW",
+                "MP3",
+                "AVI"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 157,
+            "question": "Mevcut görsellerin analizi ile çeşitli bilgiler edinmeye yarayan sistemler aşağıdakilerden hangisidir?",
+            "options": [
+                "Görüntü",
+                "Görüntü kurgu çeşitleri",
+                "Görüntü oluşturma yöntemleri",
+                "Görüntü işleme teknikleri",
+                "Görsel iletişim kuramları"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 158,
+            "question": "Aşağıdakilerden hangisi gerçek dünyadan uzaklaşmadan elinizdeki cihazın kamerasını kullanarak aldığı görsel veriyi inceleyip gerekli koşullara uyan yerlere fazladan öge ekleyebilmektedir?",
+            "options": [
+                "ISO",
+                "MP",
+                "AR",
+                "2D",
+                "VR"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 159,
+            "question": "Telefon, radyo, televizyon ve bilgisayar dünyalarının entegrasyonu, tüm dijital medyanın tek bir ortamda içe içe geçmesine ne ad verilir?",
+            "options": [
+                "Yöndeşme",
+                "Etkileşim",
+                "Verileşme",
+                "İletişim",
+                "Bilgi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 160,
+            "question": "Mayıs 1999'da Japonya'da piyasaya sürülen, ticari olarak halka satılan ve yerleşik kamerası olan ilk cep telefonu aşağıdakilerden hangisidir?",
+            "options": [
+                "Sanyo SCP-5300",
+                "SCH-V200",
+                "Sharp J-SH04",
+                "Iphone 6",
+                "Kyocera VP-210"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596749"
+        },
+        {
+            "id": 161,
+            "question": "-------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?",
+            "options": [
+                "İnternet",
+                "Mikro çipler",
+                "Hafıza kartı",
+                "Optik iletişim",
+                "Transistör"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 162,
+            "question": "Tüketicilerin ilk kez kendi video görüntülerini kaydedip izleyebilmelerine olanak sağlayan medya formatı aşağıdakilerden hangisidir?",
+            "options": [
+                "Sony BMC100",
+                "VTR (Video Tape Recorder)",
+                "Sony DV-2400 Video Rover",
+                "VHS (Video Home System)",
+                "Super 8 format"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 163,
+            "question": "Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin dezavantajlarından biri <u>değildir</u>?",
+            "options": [
+                "Servis maliyeti yüksektir.",
+                "Canlı önizleme çoktur.",
+                "Lensler küçüktür.",
+                "Makine sarsıntısı çoktur.",
+                "Gövde içi hava hareketi vardır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 164,
+            "question": "Aşağıda yer alan cihazlardan hangisi \"basit kompakt fotoğraf makineleri\" içerisinde yer alır?",
+            "options": [
+                "Sayısal arkalıklı fotoğraf makineleri",
+                "Orta format fotoğraf makineleri",
+                "Aynasız fotoğraf makineleri",
+                "Akıllı telefon fotoğraf makineleri",
+                "DSLR fotoğraf makineleri"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 165,
+            "question": "Aşağıda 3D video kameralar ile ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "3D video görüntüleri için kullanılan kameralarda CMOS sensör bulunmaktadır.",
+                "Kullanılan kameralar HDTV sinyallerini kendi yüksek kapasiteli dahili bellek cihazlarına ya da ikiz SD kartlara depolar.",
+                "3D video üretmek için iki gözümüzün yerine iki adet kameraya ihtiyaç vardır.",
+                "3D görüntünün üretilmesindeki temel prensip iki gözümüzün tek sahneyi birbirinden farklı açılarla görmesidir.",
+                "3D video üretmek için ortama yerleştirilen en az 6 kameraya ihtiyaç vardır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 166,
+            "question": "Video kameralarda mekanik bir aparat kullanmadan yer değiştiren görüntünün yarattığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?",
+            "options": [
+                "Optik görüntü sabitleme (OIS)",
+                "Elektronik görüntü sabitleme (EİS)",
+                "Dijital sistem",
+                "Interlaced (d) tarama",
+                "Analog sistem"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 167,
+            "question": "Rengin baskın olan dalga boyunu tanımlayan ve onu kırmızı, sarı, yeşil, mavi vb. gibi diğer renklerden ayıran, renge baktığımızda gördüğümüz, rengin kendisini ifade eden değere ne ad verilir?",
+            "options": [
+                "Ton (Hue)",
+                "Parlaklık (Brightness)",
+                "Doygunluk (Saturation)",
+                "Açıklık (Tint)",
+                "Koyuluk (Shade)"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 168,
+            "question": "Üzerinde çalışılan dijital bir görüntünün renklerini ve oranlarını gösteren grafik aşağıdakilerden hangisidir?",
+            "options": [
+                "Doygunluk",
+                "RGB",
+                "Histogram",
+                "CMYK",
+                "Ton"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 169,
+            "question": "Diyafram, fotoğraf makinesinin aşağıdaki birimlerinden hangisinde yer almaktadır?",
+            "options": [
+                "Denklanşör",
+                "Gövde",
+                "Sensör",
+                "Lens",
+                "Elektronik vizör"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 170,
+            "question": "Aşağıdakilerden hangisi White Balance(Beyaz Dengesi) ayarları arasında yer almaz?",
+            "options": [
+                "Fluorescent(Floresan)",
+                "Depth of field(Alan Derinliği)",
+                "Cloudy(Bulutlu)",
+                "Daylight(Gün ışığı)",
+                "Shade(Gölge)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 171,
+            "question": "I. Renk Modu<br>II. Manzara Modu<br>III. Spor/aksiyon modu<br>IV. Portre Modu<br>Yukarıdaki verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır?",
+            "options": [
+                "Yalnız I",
+                "I ve II",
+                "II ve IV",
+                "I, II ve III",
+                "II, III ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 172,
+            "question": "görüleceklerin yeri ve konumu, kullanılacak malzemelerin seçimi, birbirleriyle olan ilişkileri, uyumu ve en estetik görünümü elde etmede görüş ve önerileriyle çekimin başarılı geçmesine katkıda bulunurlar.\" Yukarıda verilen iş tanımlamasına uygun bir şekilde hizmet veren profesyonel görevli aşağıdakilerden hangisidir?",
+            "options": [
+                "Styling",
+                "Representer",
+                "Retoucher",
+                "1. Asistan",
+                "Işık operatörü"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 173,
+            "question": "Aşağıdaki ürün gruplarından hangisinin çekimlerinde makro objektif tercih edilir?",
+            "options": [
+                "Otomobil",
+                "Mücevher",
+                "Moda",
+                "Mobilya takımı",
+                "Beyaz Eşya"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 174,
+            "question": "Aşağıdakilerden hangisi flaş ışık kaynaklarının her çakışta ve uzun süreli kullanımlarında ışık şiddeti ve renk olarak aynı değerleri vermesi ya da kabul edilebilir sapma yaratmasına yönelik kullanılan bir ifadedir?",
+            "options": [
+                "Maksimum ışık şiddeti",
+                "Flaş dolum süresi",
+                "Flaş tutarlığı",
+                "Flaş senkronizasyon hızı",
+                "Flaş güç aralığı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 175,
+            "question": "Sayısal fotoğraf makinelerinin sensöründen alınan işlenmemiş, sıkıştırılmamış ve gri tonlamalı görüntü verilerinin bulunduğu dosya türü aşağıdakilerden hangisidir?",
+            "options": [
+                "RAW",
+                "TIFF",
+                "GIF",
+                "PNG",
+                "JPEG"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 176,
+            "question": "Aşağıdakilerden hangisi RGB renk uzayının ana renklerinden biridir?",
+            "options": [
+                "Siyah",
+                "Mavi",
+                "Eflatun",
+                "Cam göbeği",
+                "Sarı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 177,
+            "question": "Aşağıdakilerden hangisi, sayısal fotoğrafın üretim aşamasında kullanılan makine ve cihazların renk profillerinin bilgisayar monitörü ve baskı cihazlarına doğru bir biçimde aktarılarak uyumlandırılmasını sağlar?",
+            "options": [
+                "Kod çözümleme",
+                "Pozlama",
+                "Renk yönetimi",
+                "Işık ölçümü",
+                "Beyaz ayarı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 178,
+            "question": "Aşağıdakilerden hangisi fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan teknolojidir?",
+            "options": [
+                "VR",
+                "AR",
+                "Piktometri",
+                "Stereo tekniği",
+                "Ortofoto"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 179,
+            "question": "-------- işlemi günümüzde sayısal fotoğrafçılıkta, eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Görüntü işleme",
+                "Aura",
+                "Yapay zeka",
+                "Kataloglama",
+                "Reprodüksiyon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 180,
+            "question": "Aşağıdakilerden hangisi hava fotoğrafçılığı çeşitlerinden biri <u>değildir</u>?",
+            "options": [
+                "Kombine",
+                "Ortofotolar",
+                "Eğik",
+                "AR",
+                "Dikey"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "523002"
+        },
+        {
+            "id": 181,
+            "question": "-------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakileden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Hafıza kartı",
+                "Transistör",
+                "İnternet",
+                "Mikro çipler",
+                "Optik iletişim"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 182,
+            "question": "Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?",
+            "options": [
+                "Sinematograf",
+                "Telstar uydusu",
+                "Katot ışın tüplü elektronik televizyon",
+                "VTR (Video Tape Recorder)",
+                "Vitaphone ses sistemi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 183,
+            "question": "I. Menü kullanımı rahatlığı<br>II. Hafif tasarıma sahip olması<br>III. Görüntü kalitesinin iyileştirilmiş olması<br>IV. Küçük sensörlerinin olması<br>Yukarıdaki ifadelerden hangisi standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır?",
+            "options": [
+                "Yalnız II",
+                "I ve IV",
+                "I, II ve III",
+                "I, III ve IV",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 184,
+            "question": "Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin dezavantajlarından biri <u>değildir</u>?",
+            "options": [
+                "Canlı Önizleme yoktur.",
+                "Makine sarsıntısı çoktur.",
+                "Gövde içi hava hareketi vardır.",
+                "Servis maliyeti yüksektir.",
+                "Lensler küçüktür."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 185,
+            "question": "Video kameralarda mekanik bir aparat kullanmadan yer değiştiren görüntünün yarattığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?",
+            "options": [
+                "Optik görüntü sabitleme (OIS)",
+                "Elektronik görüntü sabitleme (EIS)",
+                "İnterlaced (1) tarama",
+                "Analog sistem",
+                "Dijital sistem"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 186,
+            "question": "Aşağıda 3D video kameralar ile ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "3D video üretmek için ortama yerleştirilen en az 6 kameraya ihtiyaç vardır.",
+                "3D görüntünün üretilmesindeki temel prensip iki gözümüzün tek sahneyi birbirinden farklı açılarla görmesidir.",
+                "3D video görüntüleri için kullanılan kameralarda CMOS sensör bulunmaktadır.",
+                "3D video üretmek için iki gözümüzün yerine iki adet kameraya ihtiyaç vardır.",
+                "Kullanılan kameralar HDTV sinyallerini kendi yüksek kapasiteli dahili bellek cihazlarına ya da ikiz SD kartlara depolar."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 187,
+            "question": "LCD teknolojisinin en eski panel türü aşağıdakilerden hangisidir?",
+            "options": [
+                "PLS",
+                "IPS",
+                "TN",
+                "VA",
+                "AHVA"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 188,
+            "question": "Rengin baskın olan dalga boyunu tanımlayan ve onu kırmızı, sarı, yeşil, mavi vb. gibi diğer renklerden ayıran, renge baktığımızda gördüğümüz, rengin kendisini ifade eden değere ne ad verilir?",
+            "options": [
+                "Açıklık (Tint)",
+                "Parlaklık (Brightness)",
+                "Koyuluk (Shade)",
+                "Doygunluk (Saturation)",
+                "Ton (Hue)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 189,
+            "question": "--------, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın, parlaklığın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Histogram",
+                "Auto fokus",
+                "Diyafram",
+                "Odak noktası",
+                "Beyaz ayarı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 190,
+            "question": "Otomatik netleme noktası etrafından ışığı küçük bir yüzeyden ölçen ışık ölçüm modu aşağıdakilerden hangisidir?",
+            "options": [
+                "Merkez ağırlıklı ölçüm",
+                "Nokta ölçüm",
+                "Geniş ölçüm",
+                "Matris ölçümü",
+                "Kısmi ölçüm"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 191,
+            "question": "I. Renk Modu<br>II. Manzara Modu<br>III. Spor/aksiyon modu<br>IV. Portre Modu<br>Yukarıda verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır?",
+            "options": [
+                "Yalnız I",
+                "I ve II",
+                "II ve IV",
+                "I, II ve III",
+                "II, III ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 192,
+            "question": "\"Kompozisyon düzenlemesi içerisinde çerçevede görüneceklerin yeri ve konumu, kullanılacak malzemelerin seçimi, birbirleriyle olan ilişkileri, uyumu ve en estetik görünümü elde etmede görüş ve önerileriyle çekimin başarılı geçmesine katkıda bulunurlar.\" Yukarıda verilen iş tanımlamasına uygun bir şekilde hizmet veren aşağıdakilerden hangisidir?",
+            "options": [
+                "1. Asistan",
+                "Representer",
+                "Retoucher",
+                "Styling",
+                "Işık operatörü"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 193,
+            "question": "Gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlara benzer şekilde gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan stüdyo türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Daylight stüdyo",
+                "Çekim seti",
+                "Plato",
+                "Outdoor stüdyo",
+                "Portatif stüdyo"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 194,
+            "question": "\"Focus Stacking\" olarak bilinen farklı noktalara netlik kaydırması yaparak ayrı ayrı elde edilen fotoğrafları birleştirmek suretiyle, daha geniş alan derinliği elde etmek için kullanılan bir yazılımdır. Yukarıda tanımı verilen yazılım aşağıdakilerden hangisidir?",
+            "options": [
+                "Photoshop",
+                "Capture One Pro",
+                "Set A Light 3D",
+                "Veri Kurtarma Yazılımları",
+                "Helicon Focus"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 195,
+            "question": "Sayısal fotoğraf makinelerinin sensöründen alınan işlenmemiş, sıkıştırılmamış ve gri tonlamalı görüntü verilerinin bulunduğu dosya türü aşağıdakilerden hangisidir?",
+            "options": [
+                "RAW",
+                "TIFF",
+                "GIF",
+                "PNG",
+                "JPEG"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 196,
+            "question": "Aşağıdakilerden hangisi görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları olarak tanımlanmaktadır?",
+            "options": [
+                "Piktokram",
+                "Layer",
+                "Vektörel",
+                "Piksel",
+                "Proxy"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 197,
+            "question": "Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre renk sıcaklığını fotoğraf makinesine/video kamerasına tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?",
+            "options": [
+                "ICC profil ayarı",
+                "Gamma ayarı",
+                "Beyaz ayarı",
+                "Kontrast ayarı",
+                "Pozometre ayarı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 198,
+            "question": "Mevcut görsellerin analizi ile çeşitli bilgiler edinmeye yarayan sistemler aşağıdakilerden hangisidir?",
+            "options": [
+                "Görsel iletişim kuramları",
+                "Görüntü kurgu çeşitleri",
+                "Görüntü oluşturma yöntemleri",
+                "Görüntü işleme teknikleri",
+                "Görüntü"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 199,
+            "question": "-------- işlemi günümüzde sayısal fotoğrafçılıkta, eseri eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Görüntü işleme",
+                "Reprodüksiyon",
+                "Aura",
+                "Yapay zeka",
+                "Kataloglama"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 200,
+            "question": "Aşağıdakilerden hangisi fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan teknolojidir?",
+            "options": [
+                "VR",
+                "Piktometri",
+                "AR",
+                "Stereo tekniği",
+                "Ortofoto"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523035"
+        },
+        {
+            "id": 201,
+            "question": "Aşağıdakilerden hangisi IPTV altyapısının sunduğu hizmetler arasında <u>yer almaz</u>?",
+            "options": [
+                "VoD (İsteğe Bağlı Video)",
+                "Öde-İzle (Pay TV)",
+                "İçerik Kaydı (PVR)",
+                "Elektronik Program Rehberi (EPG)",
+                "Üç Boyutlu İzle (Watch-3D)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 202,
+            "question": "Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?",
+            "options": [
+                "VTR (Video Tape Recorder)",
+                "Katot ışın tüplü elektronik televizyon",
+                "Vitaphone ses sistemi",
+                "Sinematograf",
+                "Telstar uydusu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 203,
+            "question": "I. Menü kullanımı rahatlığı<br>II. Hafif tasarıma sahip olması<br>III. Görüntü kalitesinin iyileştirilmiş olması<br>IV. Küçük sensörlerinin olması<br>Yukarıdaki ifadelerden hangisi veya hangileri standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır?",
+            "options": [
+                "Yalnız II",
+                "I ve IV",
+                "I, II ve III",
+                "I, III ve IV",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 204,
+            "question": "Aşağıdakilerden hangisi FX (Tam Çerçeve) gövde avantajlarından biridir?",
+            "options": [
+                "Geniş açı ve balık gözü lenslerde kenar keskinliklerinde belirgin bir düşüş yaşanır.",
+                "Net alan derinliği ve bokeh kalitesi yüksektir.",
+                "1.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar.",
+                "Sensör lensin verimli olan merkez kısımlarını kullanırlar.",
+                "Maliyet olarak oldukça ucuzdurlar."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 205,
+            "question": "Mekân içinde yükseklik, derinlik ve genişlikte; dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan vinç mekanizması aşağıdakilerden hangisi ile tanımlanmaktadır?",
+            "options": [
+                "OIS",
+                "Dolly",
+                "Gimbal",
+                "Jimmy Jib",
+                "Steadicam"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 206,
+            "question": "Kaskellara, bisiklet veya kaykay gibi araçlara monte edilebilen kameralar aşağıdakilerden hangisidir?",
+            "options": [
+                "Omuz Kameraları",
+                "El Kameraları",
+                "Dijital Aksiyon Kameralar",
+                "Aynasız Kameralar",
+                "DSLR Kamera"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 207,
+            "question": "Aşağıdakilerden hangisi fotoğrafçılıkta ve matbaacılıkta, ekranlardaki görüntü ile basılı çıktıdaki rengi ölçmek ve karşılaştırmak için kullanılan cihazlardan biridir?",
+            "options": [
+                "Spektrofotometre",
+                "Dinamometre",
+                "Flaşmetre",
+                "Tansiyometre",
+                "Anemometre"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 208,
+            "question": "Rengin baskın olan dalga boyunu tanımlayan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Parlaklık",
+                "Saturation",
+                "Waveform",
+                "Ton",
+                "Doygunluk"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 209,
+            "question": " kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın, parlaklığın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler.",
+            "options": [
+                "Auto fokus",
+                "Histogram",
+                "Diyafram",
+                "Odak noktası",
+                "Beyaz ayarı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 210,
+            "question": "I. Renk Modu<br>II. Manzara Modu<br>III. Spor/aksiyon modu<br>IV. Portre Modu<br>Yukarıda verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır?",
+            "options": [
+                "Yalnız I",
+                "I ve II",
+                "II ve IV",
+                "I, II ve III",
+                "II, III ve IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 211,
+            "question": " modülü, fotoğraf makinesi sahnedeki ışığın tümünü ölçerek ortalama bir değer alır.",
+            "options": [
+                "Kısmi ölçüm",
+                "Matris ölçümü",
+                "Merkez ağırlıklı ölçüm",
+                "Nokta ölçüm"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 212,
+            "question": "Huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlayan ışık şekillendirici aşağıdakilerden hangisidir?",
+            "options": [
+                "Reflektör",
+                "Şemsiye",
+                "Softbox",
+                "Gobo",
+                "Snoot"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 213,
+            "question": "Fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurlar ya da bulundukları ortam kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılabilir.",
+            "options": [
+                "Askı/Rulo Fon",
+                "Sonsuz Fon",
+                "Mekân/Set Fonlar",
+                "Çekim Çadırı",
+                "Düz Fonlar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 214,
+            "question": "Aşağıdakilerden hangisi zarar gören ve kaybolan dosyaları kurtarmak için kullanılan yazılımlardan biridir?",
+            "options": [
+                "Set A Light 3D",
+                "Capture One Pro",
+                "Photoshop",
+                "Helicon Focus",
+                "Stellar Data Recover"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 215,
+            "question": " görüntülerin gerçek renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırılmasına imkân sunan bir dosya formatıdır.",
+            "options": [
+                "RAW",
+                "PNG",
+                "GIF",
+                "JPEG",
+                "TIFF"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 216,
+            "question": "Aşağıdakilerden hangisi görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları olarak tanımlanmaktadır?",
+            "options": [
+                "Piksel",
+                "Vektörel",
+                "Layer",
+                "Proxy",
+                "Piktogram"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 217,
+            "question": "Aşağıdakilerden hangisi RGB renk uzayının ana renklerinden biridir?",
+            "options": [
+                "Cam göbeği",
+                "Eflatun",
+                "Siyah",
+                "Mavi",
+                "Sarı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 218,
+            "question": "Aşağıdakilerden hangisi fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan teknolojidir?",
+            "options": [
+                "VR",
+                "AR",
+                "Piktometri",
+                "Stereo tekniği",
+                "Ortofoto"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 219,
+            "question": "Tarafsız bir gözlemci olarak içine kapanan herkesi meşgul eden uyaranlara kapılmayıp anların alt metnini okuyan kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Landscape",
+                "Helyograf",
+                "Flaneur",
+                "Skylight",
+                "Diyafram"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 220,
+            "question": " işlemi günümüzde sayısal fotoğrafçılıkta, sanat eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir.",
+            "options": [
+                "Aura",
+                "Kataloglama",
+                "Görüntü işleme",
+                "Reprodüksiyon",
+                "Yapay zekâ"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574654"
+        },
+        {
+            "id": 221,
+            "question": "-------, genellikle doğadan elde edilen, işlenmemiş ya da çok az işlem görmüş maddeleri işlemek, değiştirmek ve böylece doğada gerçekte bulunmayan ürünler üretmek anlamına gelir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Ticaret",
+                "Müşteri",
+                "Ürün",
+                "Endüstri",
+                "Kullanıcı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 222,
+            "question": "Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren aşağıdakilerden hangisidir?",
+            "options": [
+                "Katot ışın tüplü elektronik televizyor",
+                "Telstar uydusu",
+                "Sinematograf",
+                "Vitaphone ses sistemi",
+                "VTR (Video Tape Recorder)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 223,
+            "question": "I. Menü kullanımı rahatlığı II. Hafif tasarıma sahip olması III. Görüntü kalitesinin iyileştirilmiş olması IV. Küçük sensörlerinin olması Yukarıdaki ifadelerden hangisi veya hangileri standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır?",
+            "options": [
+                "Yalnız II",
+                "I ve IV",
+                "I, II ve III",
+                "I, III ve IV",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 224,
+            "question": "Aşağıdakilerden hangisi FX (Tam Çerçeve) gövde avantajlarından biridir?",
+            "options": [
+                "Net alan derinliği ve bokeh kalitesi yüksektir.",
+                "Sensör lensin verimli olan merkez kısımlarını kullanırlar.",
+                "1.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar.",
+                "Maliyet olarak oldukça ucuzdurlar.",
+                "Geniş açı ve balık gözü lenslerde kenar keskinliklerinde belirgin bir düşüş yaşanır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 225,
+            "question": "Video kameralarda mekanik bir aparat kullanmadan yer değiştiren görüntünün yarattığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?",
+            "options": [
+                "Optik görüntü sabitleme (OIS)",
+                "İnterlaced (i) tarama",
+                "Analog sistem",
+                "Dijital sistem",
+                "Elektronik görüntü sabitleme (EIS)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 226,
+            "question": "------- içinde yükseklik, derinlik ve genişlikte; dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan vinç mekanizması aşağıdakilerden hangisi ile tanımlanmaktadır?",
+            "options": [
+                "Gimbal",
+                "Steadicam",
+                "Jimmy Jib",
+                "OIS",
+                "Dolly"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 227,
+            "question": "Veri depolama ve yedekleme için kullanılan, çoklu hard disklerden oluşan, yerel ağ ya da internet üzerinden içerisindeki verilere erişim sağlanabilen ünitelere ne ad verilir?",
+            "options": [
+                "RAID",
+                "Ağ depolama (NAS)",
+                "Katı hal diski (SSD)",
+                "CFast kart",
+                "Yerel sürücü"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 228,
+            "question": "Aşağıdakilerden hangisi temel düzey monitör gruplarından biri <u>değildir</u>?",
+            "options": [
+                "VGA",
+                "AMOLED",
+                "OLED",
+                "LED",
+                "LCD"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 229,
+            "question": "Aşağıdakilerden hangisi White Balance(Beyaz Dengesi) ayarları arasında yer <u>almaz</u>?",
+            "options": [
+                "Daylight(Gün ışığı)",
+                "Depth of field(Alan Derinliği)",
+                "Shade(Gölge)",
+                "Fluorescent(Floresan)",
+                "Cloudy(Bulutlu)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 230,
+            "question": "------- kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın, parlaklığın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Odak noktası",
+                "Auto fokus",
+                "Diyafram",
+                "Histogram",
+                "Beyaz ayarı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 231,
+            "question": "Aşağıdaki diyafram değerlerine göre en büyük açıklık hangisidir?",
+            "options": [
+                "f/22",
+                "f/16",
+                "f/8",
+                "f/4",
+                "f/1.4"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 232,
+            "question": "Huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlayan ışık şekillendirici aşağıdakilerden hangisidir?",
+            "options": [
+                "Reflektör",
+                "Snoot",
+                "Şemsiye",
+                "Softbox",
+                "Gobo"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 233,
+            "question": "Fotoğraf işlemede kullanılan yazılımları etkin ve yaratıcı bir biçimde kullanan personel aşağıdakilerden hangisidir?",
+            "options": [
+                "İkinci Asistan",
+                "Mufettis",
+                "Fotoğrafçı",
+                "Sekreter",
+                "Sanat Yönetmeni"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 234,
+            "question": "Aşağıdakilerden hangisi stüdyoda kullanılan sürekli ışık kaynaklarından biri <u>değildir</u>?",
+            "options": [
+                "Paraflaş",
+                "LED Işık",
+                "Floresan Işık",
+                "Tungsten",
+                "HMI Daylight"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 235,
+            "question": "Aşağıdakilerden hangisi RGB renk uzayının ana renklerinden biridir?",
+            "options": [
+                "Siyah",
+                "Mavi",
+                "Eflatun",
+                "Cam göbeği",
+                "Sarı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 236,
+            "question": "Hareketli Resim Uzmanları Grubu tarafından çıkarılan video kodlama standardı aşağıdakilerden hangisidir?",
+            "options": [
+                "AVI",
+                "MP4",
+                "RAW",
+                "MPEG-1",
+                "MP3"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 237,
+            "question": "Aşağıdakilerden hangisi görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları olarak tanımlanmaktadır?",
+            "options": [
+                "Proxy",
+                "Piktokram",
+                "Piksel",
+                "Vektörel",
+                "Layer"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 238,
+            "question": "İnsanın kişiliğini, iç dünyasını, en iyi şekilde yansıtacak fotoğrafı çekmeyi amaçlayan fotoğrafçılık türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Belgesel Fotoğrafçılık",
+                "Basın Fotoğrafçılığı",
+                "Reklam Fotoğrafçılığı",
+                "Stok Fotoğrafçılığı",
+                "İnsan ve Portre Fotoğrafçılığı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 239,
+            "question": "Sonsuz bir mesafeden çekilen ve dümdüz aşağıya bakan bir fotoğrafın simülasyonuna verilen ad aşağıdakilerden hangisidir?",
+            "options": [
+                "Ortofoto",
+                "Perspektif",
+                "Dikey pozlama",
+                "Kombine pozlama",
+                "Panoroma"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        },
+        {
+            "id": 240,
+            "question": "Sayısal fotoğrafçılıkta, bir eserin kopyalanarak sayısal ortama geçirilmesi yoluyla çoğalmak anlamına gelen kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Landscape",
+                "Doğrudan fotoğraf",
+                "Flaneur",
+                "Reprodüksiyon",
+                "An"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626537"
+        }
+    ]
+}

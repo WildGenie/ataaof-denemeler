@@ -1,0 +1,2693 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Bir problem veya senaryo hakkında bilindiği düşünülen her varsayımı aktif olarak sorgulama ve ardından sıfırdan yeni bilgi ve çözümler yaratma pratiği aşağıdakilerden hangisi ile açıklanır?",
+            "options": [
+                "Biçimsel düşünme",
+                "Normatif düşünme",
+                "Yaratıcı düşünme",
+                "Eleştirel düşünme",
+                "İlk ilkeler düşüncesi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 2,
+            "question": "Aşağıdakilerden hangisi yaratıcı mitlere bir örnektir?",
+            "options": [
+                "Yaratıcılık herkeste olmayan özel bir beceridir.",
+                "Yaratıcılık uygun koşullarda geliştirilebilen ve herkeste olan farklı düzeylerde bir özelliktir.",
+                "Sosyal refah ve motivasyon yaratıcılık gelişimine olumlu katkı sağlar.",
+                "Yaratıcılık, sanatın dışındaki bütün alanlar için geçerlidir.",
+                "Yaratıcı fikirlerin başlangıçta orijinal olması beklenemez."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 3,
+            "question": "Aşağıdakilerden hangisi yaratıcı bireylerin yaratıcı kişilik özelliklerinden biridir?",
+            "options": [
+                "Dış kontrol odağına sahip olma",
+                "Tedbirli olma",
+                "Duyguları reddetme",
+                "Belirsizliklere karşı sabırsız davranma",
+                "Benzer, stereotip özellikleri reddetme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 4,
+            "question": "Akademik problem çözme ve hesaplamalarla yakından uyumlu olan zekâ türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Yakınsak zekâ",
+                "Mantıksal zekâ",
+                "Analitik zekâ",
+                "Duygusal zekâ",
+                "Pratik zekâ"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 5,
+            "question": "Öğrencilerin fen bilimleri, teknoloji, mühendislik ve matematik derslerinde öğrendikleri bilgileri bir bütünün parçaları olarak görmelerini sağlayan, dünyada birçok ülkenin öğretim programlarına dâhil ettiği eğitim yaklaşımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Yapılandırmacılık",
+                "Çoklu zeka",
+                "Sosyalizasyon",
+                "STEM",
+                "Kuantum"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 6,
+            "question": "Her insan uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabilir, dolayısıyla insanı merkeze alan bir anlayışa sahiptir. Yukarıdaki bilgi yaratıcılığın hangi kuramsal temeli ile ilgilidir?",
+            "options": [
+                "Hümanistik yaklaşım",
+                "Bilişsel yaklaşım",
+                "Psikoanalitik yaklaşım",
+                "Karma yaklaşım",
+                "Gestaltçı yaklaşım"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 7,
+            "question": "Aşağıdakilerden hangisi yaratıcı öğretmen tutumlarına bir örnektir?",
+            "options": [
+                "Aksilikleri hoş görmemek",
+                "Bir model izlemek",
+                "Doğru cevap gerektiren sorular sormak",
+                "Açık ve sonlu tepkiler vermek",
+                "Taklide eğilim göstermek"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 8,
+            "question": "Aşağıdakilerden hangisi proaktif kişilerin göstereceği davranışlardan biri <u>değildir</u>?",
+            "options": [
+                "Planlıdırlar.",
+                "Risk analizi yapmazlar.",
+                "Çevrelerine örnek olurlar.",
+                "İnisiyatif almaktan çekinmezler.",
+                "Olayların öncesinde harekete geçerler."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 9,
+            "question": "Aşağıdakilerden hangisi 'Polya'nın Problem Çözme Stratejisi'nin aşamalarından biri <u>değildir</u>?",
+            "options": [
+                "Çözüm için plan yapma",
+                "Problemi anlama",
+                "Değerlendirme",
+                "Planı uygulama",
+                "Problem çözümü için literatür tarama"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 10,
+            "question": "Sanatsal elemanların birbirleriyle ilişkileri, konumlandırılmaları ve daha çok soyut düzendeki görünüşleri önem taşır. Soyut eser üreten sanatçıların, eserlerinde izlenir. \"Sanat, Sanat İçindir\" ilkesi benimsenir. Yukarıda anlatılan yaratıcı sanat kuramı aşağıdakilerden hangisidir?",
+            "options": [
+                "İşlevsellik",
+                "Dışavurumcu",
+                "Biçimci",
+                "Anlatım",
+                "Taklit"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 11,
+            "question": "Kültür endüstrisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Sosyal değişime yol açar.",
+                "Bireyi başarısız olma olasılığına maruz bırakan eylemlerdir.",
+                "Dünyayı bir olgu-ürünü betimler.",
+                "Bireyler üzerinde edilgenleştirici etkiye sahiptir.",
+                "Hem yaratıcı öz güven hem de yaratıcı davranışla ilişkilidir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 12,
+            "question": "Van Gogh'un \"İhtiyar\" adlı yapıtı ile E. Munch'un \"Çığlık” adlı yapıtı aşağıdaki yaratıcı sanat kuramlarından hangisine bir örnektir?",
+            "options": [
+                "Yansıtma kuramı",
+                "Dışavurumcu kuram",
+                "Yapılandırmacı kuram",
+                "Biçimci kuram",
+                "İşlevsellik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 13,
+            "question": "Bir 19. yüzyıl realist sanatçısı, evinin karşısındaki dağı tıpkısıymış gibi asıl görünenin taklidini yaparak çizmiştir. Yukarıdaki ifadeye göre bu ressam aşağıdaki kuramlardan hangisini temel almıştır?",
+            "options": [
+                "Yansıtma",
+                "Biçimci",
+                "Dışavurumcu",
+                "Aktarım",
+                "İşlevsellik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 14,
+            "question": "Aşağıdakilerden hangisi \"Hümaniter Yaklaşım\" kuramının kurucularından biridir?",
+            "options": [
+                "Gardner",
+                "Bruner",
+                "Freud",
+                "Vygotsky",
+                "Rogers"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 15,
+            "question": "Fotoğraflardan üretilen bir çeşit videodur. Bir hareket hissi oluşturur. Herhangi bir olay veya eylemi seri fotoğraflarla göstermek için özel bir montaj tekniğini de kullanarak geliştirilmiştir. Yukarıdaki bilgiler aşağıdaki anlatı türlerinden hangisine aittir?",
+            "options": [
+                "Montajlama",
+                "Time-Lapse",
+                "Kurgu",
+                "Mekansal anlatı",
+                "İllustrasyon"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 16,
+            "question": "Aşağıdakilerden hangisi yaratıcı sanat eğitim kuramlarından biridir?",
+            "options": [
+                "Yansıtma",
+                "Dışavurum",
+                "Eğitim Ortamlarında Yaratıcı Düşünce",
+                "Aktarım",
+                "Yapılandırmacı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 17,
+            "question": "İllüstrasyon ile ilgili olarak aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Hikâye olaylarını ve gelişimini tam anlamıyla yorumlar.",
+                "Bir anlatı çizimidir.",
+                "Bir metnin veya kavramın özel yorumunu destekler.",
+                "Grafik ilkelere dayanır.",
+                "Sözel, akıcı bir anlatım tarzıdır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 18,
+            "question": "Aristokratlar, kral, yargıç, savaşçı gibi kişiler aşağıdaki karakter sınıflandırmalarından hangisine bir örnektir?",
+            "options": [
+                "Birey veya Kişi Olarak Karakter",
+                "Rol Olarak Karakter",
+                "Toplumsal Kişilik Olarak Karakter",
+                "Anlatı Aracı Olarak Karakter",
+                "Birey veya Kişi Olarak Karakter"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 19,
+            "question": "Anlatıyı nihai referansı zamansallık olan dil yapısı olarak tanımlayan yazar aşağıdakilerden hangisidir?",
+            "options": [
+                "Dennett",
+                "Brooks",
+                "Ricoeur",
+                "Barthes",
+                "Kreiswirth"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 20,
+            "question": "Aşağıdakilerden hangisi temel anlatı mekânlarından biri <u>değildir</u>?",
+            "options": [
+                "Evrensel Mekân",
+                "Öykü Mekânı",
+                "Genel Anlatı Mekânı",
+                "Mekânsal Çerçeveler",
+                "Öykü Dünyası"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634550"
+        },
+        {
+            "id": 21,
+            "question": "Aşağıdakilerden hangisi yaratıcı mitlerden biri <u>değildir</u>?",
+            "options": [
+                "Bazı kısıtlamalar yaratıcılığı öldürür.",
+                "Yaratıcılık genetiktir, geliştirilemez.",
+                "Yaratıcılık herkeste olan bir beceridir.",
+                "Yaratıcılık anlık parlak fikirlerle ortaya çıkar.",
+                "Yaratıcılık sadece sanatsal alanlarla ilgilidir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 22,
+            "question": "Akademik problem çözme ve hesaplamalarla yakından uyumlu olan zekâ türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Analitik zekâ",
+                "Duygusal zekâ",
+                "Pratik zekâ",
+                "Sözel zekâ",
+                "Yakınsak zekâ"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 23,
+            "question": "Bir problem veya senaryo hakkında bilindiği düşünülen her varsayımı, aktif olarak sorgulama ve ardından sıfırdan yeni bilgi ve çözümler yaratma pratiği aşağıdakilerden hangisi ile açıklanır?",
+            "options": [
+                "Yaratıcı düşünme",
+                "İlk ilkeler düşüncesi",
+                "Eleştirel düşünme",
+                "Biçimsel düşünme",
+                "Normatif düşünme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 24,
+            "question": "Her insan uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabilir, dolayısıyla insanı merkeze alan bir anlayışa sahiptir. Yukarıdaki ifade yaratıcılığın aşağıdaki kuramsal temellerinden hangisi ile ilgilidir?",
+            "options": [
+                "Bilişsel yaklaşım",
+                "Gestaltçı yaklaşım",
+                "Hümanistik yaklaşım",
+                "Karma yaklaşım",
+                "Psikoanalitik yaklaşım"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 25,
+            "question": "Aşağıdakilerden hangisi yaratıcı öğretmen tutumlarına bir örnektir?",
+            "options": [
+                "Doğru cevap gerektiren sorular sormak",
+                "Bir model izlemek",
+                "Taklide eğilim göstermek",
+                "Açık ve sonlu tepkiler vermek",
+                "Aksilikleri hoş görmemek"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 26,
+            "question": "Kişinin güvenilir ve yardımsever olması aşağıdaki kişilik özelliklerinden hangisinde yer alır?",
+            "options": [
+                "Girişkenlik",
+                "Özdenetim",
+                "Çekicilik",
+                "Nevrotizm",
+                "Uyumluluk"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 27,
+            "question": "Öğrencilerin fen bilimleri, teknoloji, mühendislik ve matematik derslerinde öğrendikleri bilgileri bir bütünün parçaları olarak görmelerini sağlayan, dünyada birçok ülkenin öğretim programlarına dâhil ettiği eğitim yaklaşımı aşağıdakilerden hangisidir?",
+            "options": [
+                "STEM",
+                "Yapılandırmacılık",
+                "Kuantum",
+                "Sosyalizasyon",
+                "Çoklu zekâ"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 28,
+            "question": "Yaratıcılığın ego ve süper ego arasındaki gerilimden kaynaklandığını ifade eden kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Pestalozzi",
+                "Dewey",
+                "Piaget",
+                "Freud",
+                "Platon"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 29,
+            "question": "Aşağıdakilerden hangisi proaktif kişilik özelliklerinden biridir?",
+            "options": [
+                "Olumsuz anlarda kontrollerini kaybetme",
+                "Planlı olma",
+                "Fiziki şartlardan etkilenme",
+                "Ancak ciddi sonuçlar ortaya çıktığında harekete geçme",
+                "İnisiyatif alma ve karar vermede çekimser davranma"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 30,
+            "question": "Aşağıdakilerden hangisi beyni keşif için optimize eden temel davranışın işlevlerinden biri <u>değildir</u>?",
+            "options": [
+                "Sıralama",
+                "Gözlemleme",
+                "Sorgulama",
+                "Deney yapma",
+                "İlişkilendirme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 31,
+            "question": "Van Gogh'un \"İhtiyar\" adlı yapıtı ile E. Munch'un \"Çığlık” adlı yapıtı aşağıdaki yaratıcı sanat kuramlarından hangisine bir örnektir?",
+            "options": [
+                "Yapılandırmacı kuram",
+                "İşlevsellik",
+                "Dışavurumcu kuram",
+                "Yansıtma kuramı",
+                "Biçimci kuram"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 32,
+            "question": "Jean Désiré Gustave Courbet, eserlerini anlatırken her mekanı kendi yapıtında sunulan çünkü hiç ekleme yapmadığından dolayı sergilediği söylenir. Yukarıda anlatılan sanat kuramı aşağıdakilerden hangisidir?",
+            "options": [
+                "İşlevsel",
+                "Anlatım",
+                "Dışavurumcu",
+                "Biçimci",
+                "Yansıtma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 33,
+            "question": "Fotoğraflardan üretilen bir çeşit videodur. Bir hareket hissi oluşturur. Herhangi bir olay veya eylemi seri fotoğraflarla göstermek için özel bir montaj tekniği kullanarak geliştirilmiştir. Yukarıdaki bilgiler aşağıdaki anlatı türlerinden hangisine aittir?",
+            "options": [
+                "Mekansal anlatı",
+                "Time-Lapse",
+                "İllustrasyon",
+                "Kurgu",
+                "Montajlama"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 34,
+            "question": "Biçimci kuram ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Eserin tüm parçalarının eserle ilişkili olması gerekmez.",
+                "Sanat eserinin konusundan çok biçimsel düzenlemesi en önemli unsurdur.",
+                "Sanat elemanları sanatçı tarafından ön plana çıkarılır.",
+                "Soyut eser üreten sanatçıların eserlerinde izlenir.",
+                "\"Sanat, Sanat İçindir\" ilkesi temel alınır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 35,
+            "question": "Yüceltme olarak adlandırılan yaratıcılık aslında bir savunma mekanizmasıdır. Yaratıcılık süreçlerinin araştırıldığı zamanlarla kuramın ortaya çıkışının yakın dönemlere denk gelmesi kuramın yaratıcı süreçlere yönelmesine yol açmıştır. Freud kuramında yaratıcılığın kökenini açıklamaya çalışmış ve bilinç, rüyalar, imajinasyon ve sapmalar üzerinde araştırmalar yapmıştır. Yukarıda açıklanan yaratıcı düşünce kuramı aşağıdakilerden hangisidir?",
+            "options": [
+                "Bilişsel",
+                "Çağrışım",
+                "İnsancıl",
+                "Psikanalitik",
+                "Gestalt"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 36,
+            "question": "\"Sanat Dersi\" anlayışı aşağıdaki yaratıcı sanat eğitimi kuramlarından hangisi ile adlandırılır?",
+            "options": [
+                "Eğitim Ortamlarında Yaratıcı Düşünce",
+                "Sanat Yoluyla Eğitim",
+                "Biçimci Öğrenme",
+                "Eğitim Ağırlıklı Sanat Eğitimi",
+                "Sanat Ağırlıklı Sanat Eğitimi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 37,
+            "question": "Aşağıdakilerden hangisi icadından ve yaygın kullanımından bugüne kadar insanları en çok etkileyen anlatı üreticilerinin başında gelir?",
+            "options": [
+                "Video",
+                "Radyo",
+                "Televizyon",
+                "Fotoğraf",
+                "Sinema"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 38,
+            "question": "Anlatıcı dünyaya kimin gözünden bakar? \"Öyküde kullanılmak üzere olayların diğer ögelerinin değil, bu ögelerin seçiminden kim sorumludur?\" Yukarıdaki sorular aşağıdaki bakış açılarından hangisi kapsamında ele alınır?",
+            "options": [
+                "Mekânsal Bakış Açısı",
+                "Algısal Bakış Açısı",
+                "Zamansal Bakış Açısı",
+                "Dil Bilimsel Bakış Açısı",
+                "İdeolojik Bakış Açısı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 39,
+            "question": "Aşağıdakilerden hangisi bir anlatı aracı olarak karakter sınıflandırması içinde yer almaz?",
+            "options": [
+                "Birey veya Kişi Olarak Karakter",
+                "Eylemci Olarak Karakter",
+                "Anlatı Aracı Olarak Karakter",
+                "Aktarıcı Kahramanı Olarak Karakter",
+                "Rol Olarak Karakter"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 40,
+            "question": "İllüstrasyon ile ilgili olarak aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Bir metnin veya kavramın özel yorumunu destekler.",
+                "Hikâye olaylarını ve gelişimini tam anlamıyla yorumlar.",
+                "Bir anlatı çizimidir.",
+                "Grafik ilkelere dayanır.",
+                "Sözel, akıcı bir anlatım tarzıdır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634586"
+        },
+        {
+            "id": 41,
+            "question": "Akademik problem çözme ve hesaplamalarla yakından uyumlu olan zekâ <u>türü</u> aşağıdakilerden hangisidir?",
+            "options": [
+                "Pratik zekâ",
+                "Duygusal zekâ",
+                "Analitik zekâ",
+                "Sözel zekâ",
+                "Yakınsak zekâ"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 42,
+            "question": "Her insan uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabilir, dolayısıyla insanı merkeze alan bir anlayışa sahiptir. Yukarıdaki ifade yaratıcılığın aşağıdaki kuramsal temellerinden hangisi ile ilgilidir?",
+            "options": [
+                "Karma yaklaşım",
+                "Gestaltçı yaklaşım",
+                "Bilişsel yaklaşım",
+                "Psikoanalitik yaklaşım",
+                "Hümanistik yaklaşım"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 43,
+            "question": "Sürü zihniyetinden kurtulmaya, <u>dışında</u> düşünmeye ve tanıdık sorunlara yepyeni çözümler üretmeye yardımcı olacak güçlü bir yoldur. Temel gerçeklere ulaşmak için kullanılır. Yukarıda anlatılan düşünme <u>türü</u> aşağıdakilerden hangisidir?",
+            "options": [
+                "Yaratıcı düşünme",
+                "Iraksak düşünce",
+                "Empatik düşünce",
+                "İlk ilkeler düşüncesi",
+                "Eleştirel düşünme"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 44,
+            "question": "Gardner'ın Çoklu Zekâ Kuramına göre yapılandırılan yaratıcılık <u>kuramı</u> aşağıdakilerden hangisidir?",
+            "options": [
+                "Hümanistik yaklaşım",
+                "Psikoanalitik yaklaşım",
+                "Karma yaklaşım",
+                "Bilişsel yaklaşım",
+                "Gestaltçı yaklaşım"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 45,
+            "question": "Aşağıdakilerden hangisi John M. Digman'ın kişilik özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "Uyumluluk",
+                "Açıklık",
+                "Nevrotizm",
+                "İçe dönüklük",
+                "Öz denetim"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 46,
+            "question": "Aşağıdakilerden hangisi Polya'nın Problem Çözme Stratejisi'nin aşamalarından biri <u>değildir</u>?",
+            "options": [
+                "Problemi anlama",
+                "Çözüm için plan yapma",
+                "Planı uygulama",
+                "Değerlendirme",
+                "Problem çözümü için literatür tarama"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 47,
+            "question": "Yaratıcılığın ego ve süper ego arasındaki gerilimden kaynaklandığını ifade eden kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Platon",
+                "Pisistratus",
+                "Freud",
+                "Galton",
+                "Dewey",
+                "Pestalozzi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 48,
+            "question": "Aşağıdakilerden hangisi proaktif olmayan kişilik özelliklerinden biridir?",
+            "options": [
+                "İnisiyatif almaktan çekinmemeleri",
+                "Karar vermekte tereddüt etmemeleri",
+                "Ciddi bir planlarının olmaması",
+                "Analiz etmeleri ve düşünmeleri",
+                "Çevrelerine örnek olmaları"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 49,
+            "question": "Bilinçli düşünme yoktur. Toplanılmış bilgiler beklemeye alınır. Bilgi bilinç dışımızda işlenir. Bilinç dışımız, bilinçli düşünme ile yapamayacağımız şekilde farklı fikirleri bir araya getirir ve edindiği çeşitli sonuçlar hayalimizde belirir. Yukarıdaki paragrafta anlatılanlar yaratıcılık modelinin aşağıdaki hangi aşamasında gerçekleşir?",
+            "options": [
+                "Kuluçka",
+                "Çözümleme",
+                "Bilgi toplama",
+                "Fikrin doğuşu",
+                "Hazırlık"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 50,
+            "question": "Aşağıdakilerden hangisi yaratıcı tutuma örnek olarak verilebilir?",
+            "options": [
+                "Sabit ve sonuç odaklı tepkiler vardır.",
+                "Doğru cevaplar vardır.",
+                "İzlenen model vardır.",
+                "Bilgiden bilinmeyene ulaşılır.",
+                "Taklit ve ezbere eğilim vardır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 51,
+            "question": "Yaratıcı süreç, bir fikrin, düşünce ve eylemlerin ilerlemesi yoluyla nihai biçimine evrimidir. Yukarıdaki ifadeye göre aşağıdakilerden hangisi bu süreçte sorulan sorulardan biri <u>değildir</u>?",
+            "options": [
+                "Bunu niçin yapıyoruz?",
+                "Bu çalışmanın alana katkısı/etki değeri nedir?",
+                "Bu başka türlü nasıl yapılabilir?",
+                "Bu konuda ne kadar seçenek var?",
+                "Bunu kim yaptı?"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 52,
+            "question": "Aşağıdakilerden hangisi yaratıcı sanat eğitim kuramlarından biridir?",
+            "options": [
+                "Aktarım",
+                "Eğitim Ortamlarında Yaratıcı Düşünce",
+                "Dışavurum",
+                "Yansıtma",
+                "Yapılandırmacı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 53,
+            "question": "Romantizm akımı kuramın güzel örneklerini barındırır. Merkezde sanatçı vardır ve duygularıyla ön plandadır. Sanatçı aynı olmaktan çıkarak iç dünyasını simge ve sembollerle anlatır. Sadece duygularını anlatmakla kalmaz izleyiciyle ilişki de kurar. Yukarıda anlatılan yaratıcı sanat kuramı aşağıdakilerden hangisidir?",
+            "options": [
+                "İşlevsel kuram",
+                "Yansıtma kuramı",
+                "Taklit kuramı",
+                "Dışavurumcu kuram",
+                "Biçimci kuram"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 54,
+            "question": "Bir 19. yüzyıl realist sanatçısı, evinin karşısındaki dağı tıpkısıymış gibi asıl görünenin taklidini yaparak çizmiştir. Yukarıdaki ifadeye göre bu ressam aşağıdaki kuramlardan hangisini temel almıştır?",
+            "options": [
+                "Yansıtma",
+                "Aktarım",
+                "Biçimci",
+                "İşlevsellik",
+                "Dışavurumcu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 55,
+            "question": "Yüceltme olarak adlandırılan yaratıcılık aslında mekanizmasıdır. Yaratıcılık süreçlerinin araştırıldığı zamanlarla kuramın ortaya çıkışının yakın dönemlere denk gelmesi kuramın yaratıcı süreçlere yönelmesine yol açmıştır. Freud kuramında yaratıcılığın kökenini açıklırmaya çalışmış ve bilinç, rüyalar, imajinasyon ve sapmalar üzerinde araştırmalar yapmıştır. Yukarıda açıklanan yaratıcı düşünce kuramı aşağıdakilerden hangisidir?",
+            "options": [
+                "Çağrışım",
+                "Bilişsel",
+                "Psikanalitik",
+                "İnsancıl",
+                "Gestalt"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 56,
+            "question": "Anlatıcı dünyaya kimin gözünden bakar? \"Öyküde kullanılmak üzere olayların diğer ögelerinin değil, bu ögelerin seçiminden kim sorumludur?\" Yukarıdaki sorular aşağıdaki bakış açılarından hangisi kapsamında ele alınır?",
+            "options": [
+                "Mekânsal Bakış Açısı",
+                "Algısal Bakış Açısı",
+                "İdeolojik Bakış Açısı",
+                "Zamansal Bakış Açısı",
+                "Dil Bilimsel Bakış Açısı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 57,
+            "question": "Fotoğraflardan üretilen bir çeşit videodur. Bir hareket hissi oluşturur. Herhangi bir olay veya eylemi seri fotoğraflarla göstermek için özel bir montaj tekniği kullanarak geliştirilmiştir. Yukarıdaki bilgiler aşağıdaki anlatı türlerinden hangisine aittir?",
+            "options": [
+                "Montajlama",
+                "Mekânsal anlatı",
+                "Kurgu",
+                "İllüstrasyon",
+                "Time-Lapse"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 58,
+            "question": "Anlatının kurucu özelliklerinden biri olan bir durum değişikliğini işaret eder. Genellikle anlatılan öykünün doğasında olan sıralılık açısından anlatıyı tanımlamaya yardımcı olmak için kullanılır. Temsil edilen dünyadaki durum değişikliklerini içerir. Yukarıdaki açıklama anlatının aşağıdaki bileşenlerinden hangisini tanımlar?",
+            "options": [
+                "Olay",
+                "Durum",
+                "Ortam",
+                "Söylem",
+                "Zaman"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 59,
+            "question": "Seçime dayalı anlatıların en çok bilineni aşağıdakilerden hangisidir?",
+            "options": [
+                "Roman",
+                "Video oyunları",
+                "Enstalasyon",
+                "Tiyatro",
+                "Dijital platform"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 60,
+            "question": "İllüstrasyon ile ilgili olarak aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Sözel, akıcı bir anlatım tarzıdır.",
+                "Bir metnin veya kavramın özel yorumunu destekler.",
+                "Grafik ilkelere dayanır.",
+                "Bir anlatı çizimidir.",
+                "Hikâye olaylarını ve gelişimini tam anlamıyla yorumlar."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634606"
+        },
+        {
+            "id": 61,
+            "question": "Biçimci kuram ile ilgili aşağıdaki ifadelerden <u>hangisi yanlıştır</u>?",
+            "options": [
+                "Soyut eser üreten sanatçıların eserlerinde izlenir.",
+                "Sanat elemanları sanatçı tarafından ön plana çıkarılır.",
+                "Eserin tüm parçalarının eserle ilişkili olması gerekmez.",
+                "Sanat eserinin konusundan çok biçimsel düzenlemesi en önemli unsurdur.",
+                "\"Sanat, Sanat İçindir\" ilkesi temel alınır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 62,
+            "question": "Bir problem veya senaryo hakkında bilindiği düşünülen her varsayımı aktif olarak sorgulama ve ardından sıfırdan yeni bilgi ve çözümler yaratma pratiği aşağıdakilerden hangisi ile açıklanır?",
+            "options": [
+                "Normatif düşünme",
+                "İlk ilkeler düşüncesi",
+                "Yaratıcı düşünme",
+                "Eleştirel düşünme",
+                "Biçimsel düşünme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 63,
+            "question": "Bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eden çok basit semboller aşağıdaki kavramlardan hangisiyle adlandırılır?",
+            "options": [
+                "Piktogram",
+                "Epigram",
+                "Stem",
+                "Histogram",
+                "Proaktif"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 64,
+            "question": "Zihinsel bir öge olan öykü ile bunun nesneleştirilmesini tanımlayan söylemden oluşan anlatı türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Sosyal medya anlatısı",
+                "Akademik anlatısı",
+                "Sinema anlatısı",
+                "Masal anlatısı",
+                "Oyun anlatısı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 65,
+            "question": "Wallas'ın yaratıcı düşünme süreci aşağıdakilerin hangisinde birlikte doğru olarak verilmiştir?",
+            "options": [
+                "Merak, Keşfetme, Ortaya çıkarma, Teyit",
+                "Hazırlık, Kuluçka, İlham, Doğrulama",
+                "Kuluçka, Yumurtlama, Açıklama, Sunma",
+                "Merak, İlham, Seçme, Araştırma",
+                "Keşfetme, Doğrulama, Tutum Geliştirme, Anlama"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 66,
+            "question": "Dikey düşünme ile ilgili aşağıdaki ifadelerden <u>hangisi yanlıştır</u>?",
+            "options": [
+                "Mantıksal, doğrusal ve seçici bir düşünme yöntemidir.",
+                "Her adım gerekli, doğru ve kesindir.",
+                "Daha çok sosyoloji, felsefe gibi sosyal bilimlerde kullanılır.",
+                "Duruma objektif yaklaşılır.",
+                "Sonlu bir süreçtir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 67,
+            "question": "Roberts'a göre, \"Lovemark\" olmak isteyen işletmeler için unsurlar aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Duygusallık, açıklık ve özenlilik",
+                "Samimiyet, empati ve şeffaflık",
+                "Özenlilik, şeffaflık ve açıklık",
+                "Gizem, duygusallık ve samimiyet",
+                "Mahremiyet, gizemlilik ve kalite"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 68,
+            "question": "Bu soru iptal edilmiştir.",
+            "options": [],
+            "correctIndex": -1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 69,
+            "question": "Anlatının türüne göre eser/yapıtın duyumsanabilir yapısal özellikleri aşağıdaki kavramlardan hangisi ile açıklanabilir?",
+            "options": [
+                "Anlatı",
+                "Estetik",
+                "Görsellik",
+                "Değer",
+                "Biçim"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 70,
+            "question": "Dünya kendi ekseni etrafında döner ve Dünya'da gece ve gündüz oluşur. Mars da kendi ekseni etrafında döner. O hâlde Mars'ta da gece ve gündüz oluşur. Yukarıdaki düşünme biçimi aşağıdaki düşünme biçimlerinden hangisine örnektir?",
+            "options": [
+                "Bilimsel düşünme",
+                "Yaratıcı düşünme",
+                "Analojik düşünme",
+                "Eleştirel düşünme",
+                "Mantıklı düşünme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 71,
+            "question": "Bir ürünün bir başka üründen daha farklı ve daha yararlı olduğunun mesajı aşağıdaki stratejilerden hangisi ile daha etkili verilir?",
+            "options": [
+                "Marka stratejisi",
+                "Star stratejisi",
+                "TEARS stratejisi",
+                "Konumlandırma stratejisi",
+                "Satış stratejisi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 72,
+            "question": "Aşağıdakilerden hangisi yaratıcı kişilik niteliğini belirleyen özelliklerden biridir?",
+            "options": [
+                "Hayal gücü",
+                "Merak",
+                "Duygular",
+                "Kişilik",
+                "Tutum"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 73,
+            "question": "Aşağıdakilerden hangisi sanattaki en tartışmalı sorundur?",
+            "options": [
+                "Eserin sahibinin niteliği",
+                "Yaratıcılık unsurunu içermesi",
+                "Estetik değerin niteliği",
+                "Eserin içeriği",
+                "İçerik-biçim ilişkisi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 74,
+            "question": "Bir web sitesinin sağ veya sol tarafında yayınlanan uzun, ince boyutlu reklamlara ne ad verilir?",
+            "options": [
+                "Major reklam",
+                "Gökdelen reklamlar",
+                "Banner reklam",
+                "Mikro reklam",
+                "Makro reklam"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 75,
+            "question": "Bir yazı, müzik ya da görüş olarak televizyon yapımlarınca işlenen ve konunun dayandığı ana fikri ifade eden kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "İçerik",
+                "Sinopsis",
+                "Öğrenme alanı",
+                "Senaryo",
+                "Tema"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 76,
+            "question": "Aşağıdakilerden hangisi \"Star Stratejisi\"nin <u>olumsuz</u> yönlerinden biridir?",
+            "options": [
+                "Marka yeni bir görünüme kavuşabilir.",
+                "Küresel kampanyalar desteklenir.",
+                "Markaya karşı farkındalık oluşur.",
+                "Ünlü, markayı gölgede bırakabilir.",
+                "Marka yenileme stratejileri uygulanabilir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 77,
+            "question": "Bu soru iptal edilmiştir.",
+            "options": [],
+            "correctIndex": -1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 78,
+            "question": "Çekim Senaryosu ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Fransız ve Amerikan formatları vardır.",
+                "Senaryoda çekim yerleri belirtilir.",
+                "Ayrıntılı bilgileri içeren teknik bir metindir.",
+                "Amerikan formatı çekim senaryosunda diyaloglar sayfanın sağ tarafında yer alır.",
+                "Film öyküsünün sahnelere bölünerek ayrımlanmasını sağlar."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 79,
+            "question": "Öyküye dayalı olarak ilerleyen kısa film türüne ne ad verilir?",
+            "options": [
+                "Mockumentary",
+                "Parodi",
+                "Belgesel",
+                "Aldatmaca",
+                "Kurmaca"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 80,
+            "question": "Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan sahnelere ne ad verilir?",
+            "options": [
+                "Sekans",
+                "Tretman",
+                "Shutter",
+                "Çekim metni",
+                "Sinopsis"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634564"
+        },
+        {
+            "id": 81,
+            "question": "Piktogram ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?<br>A) Yazı sistemleri gelişmeden önce piktogramlar gelmiştir.<br>B) Piktografik sembollerle oluşturulan karakterler daha sonra harflere dönüşmüştür.<br>C) Bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eder.<br>D) Bir cümle oluşturmak için inşa edilmişlerdir.<br>E) Çok karmaşık sembollerdir.",
+            "options": [
+                "Yazı sistemleri gelişmeden önce piktogramlar gelmiştir.",
+                "Piktografik sembollerle oluşturulan karakterler daha sonra harflere dönüşmüştür.",
+                "Bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eder.",
+                "Bir cümle oluşturmak için inşa edilmişlerdir.",
+                "Çok karmaşık sembollerdir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 82,
+            "question": "Aşağıdakilerden hangisi yaratıcı mitlere bir örnek<u>dür</u>?<br>A) Sosyal refah ve motivasyon yaratıcılık gelişimine olumlu katkı sağlar.<br>B) Yaratıcı fikirlerin başlangıçta orijinal olması beklenemez.<br>C) Yaratıcılık herkeste olmayan özel bir beceridir.<br>D) Yaratıcılık, sanatın dışındaki bütün alanlar için geçerlidir.<br>E) Yaratıcılık uygun koşullarda geliştirilebilen özelliktir.",
+            "options": [
+                "Sosyal refah ve motivasyon yaratıcılık gelişimine olumlu katkı sağlar.",
+                "Yaratıcı fikirlerin başlangıçta orijinal olması beklenemez.",
+                "Yaratıcılık herkeste olmayan özel bir beceridir.",
+                "Yaratıcılık, sanatın dışındaki bütün alanlar için geçerlidir.",
+                "Yaratıcılık uygun koşullarda geliştirilebilen özelliktir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 83,
+            "question": "Sanatsal elemanların birbirleriyle ilişkileri, konumlandırılmaları ve daha çok soyut düzendeki görünüşleri önem taşır. Soyut eser üreten sanatçıların, eserlerini izlenir. \"Sanat, Sanat İçindir\" ilkesi benimsenir. Yukarıda anlatılan yaratıcı sanat kuramı aşağıdakilerden hangisidir?<br>A) İşlevsellik<br>B) Dışavurumcu<br>C) Anlatım<br>D) Taklit<br>E) Biçimci",
+            "options": [
+                "İşlevsellik",
+                "Dışavurumcu",
+                "Anlatım",
+                "Taklit",
+                "Biçimci"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 84,
+            "question": "Dikey düşünme ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?<br>A) Duruma objektif yaklaşılır.<br>B) Daha çok sosyoloji, felsefe gibi sosyal bilimlerde kullanılır.<br>C) Her adım gerekli, doğru ve kesindir.<br>D) Sonlu bir süreçtir.<br>E) Mantıksal, doğrusal ve seçici bir düşünme yöntemidir.",
+            "options": [
+                "Duruma objektif yaklaşılır.",
+                "Daha çok sosyoloji, felsefe gibi sosyal bilimlerde kullanılır.",
+                "Her adım gerekli, doğru ve kesindir.",
+                "Sonlu bir süreçtir.",
+                "Mantıksal, doğrusal ve seçici bir düşünme yöntemidir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 85,
+            "question": "Anlatının kurucu özelliklerinden biri olan bir durum değişikliğini işaret eder. Genellikle anlatılan öykünün doğasında olan sıralılık açısından anlatıyı tanımlamaya yardımcı olmak için kullanılır. Temsil edilen dünyadaki durum değişikliklerini içerir. Yukarıdaki açıklama anlatının bileşenlerinden hangisini tanımlar?<br>A) Söylem<br>B) Ortam<br>C) Olay<br>D) Zaman<br>E) Durum",
+            "options": [
+                "Söylem",
+                "Ortam",
+                "Olay",
+                "Zaman",
+                "Durum"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 86,
+            "question": "Aşağıdakilerden hangisi buluşçu, yenilikçi, sorunlara yeni ve farklı çözümler üreten, özgün düşüncelerin ortaya çıkmasını sağlayan düşünme biçimidir?<br>A) Yaratıcı düşünme<br>B) Eleştirel düşünme<br>C) Sistemli düşünme<br>D) Tümevarımcı düşünme<br>E) Analojik düşünme",
+            "options": [
+                "Yaratıcı düşünme",
+                "Eleştirel düşünme",
+                "Sistemli düşünme",
+                "Tümevarımcı düşünme",
+                "Analojik düşünme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 87,
+            "question": "Çeşitli elemanlar ve aralarındaki ilişkileri içeren karmaşık bir bakış açısı ile bilinçli düşünme biçimidir. Bir amaç ve bu amaç doğrultusunda bir hedef belirlenir, bilinenden yola çıkarak bilinmeyene ulaşmak için mantıklı işlemler gerçekleştirilir. Yukarıdaki açıklama aşağıdaki düşünme türlerinden hangisine aittir?<br>A) Planlı düşünme<br>B) Analitik düşünme<br>C) Eleştirel düşünme<br>D) Yaratıcı düşünme<br>E) Sistemli düşünme",
+            "options": [
+                "Planlı düşünme",
+                "Analitik düşünme",
+                "Eleştirel düşünme",
+                "Yaratıcı düşünme",
+                "Sistemli düşünme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 88,
+            "question": "Aşağıdakilerden hangisi Wallas'a göre düşünme sürecinin aşamalarından biri <u>değildir</u>?<br>A) İlham<br>B) Sindirme<br>C) Kuluçka<br>D) Hazırlık<br>E) Doğrulama",
+            "options": [
+                "İlham",
+                "Sindirme",
+                "Kuluçka",
+                "Hazırlık",
+                "Doğrulama"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 89,
+            "question": "Bir deri eşyalar üreten markanın \"Sen öldüğünde bunun için kavga edecekler\" yazısı ile ürünün 100 yıllık garantilerinin olması, ürünün taklit edilmesinin oldukça zor olduğunu ifade etmesi aşağıdakilerden hangisi ile açıklanır?<br>A) Konumlandırma<br>B) Lovemarks<br>C) Marka imajı<br>D) Temel satış vaadi<br>E) Stardan yararlanma",
+            "options": [
+                "Konumlandırma",
+                "Lovemarks",
+                "Marka imajı",
+                "Temel satış vaadi",
+                "Stardan yararlanma"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 90,
+            "question": "Aşağıdakilerden hangisi marka imajı tanımlamalarının kişileştirme vurgusu ile ilgilidir?<br>A) Bir ürünün bir insanmış gibi tanımlanması<br>B) Markayla özdeşleşen anlamlar nedeniyle satın alındığı fikrinin ifade edilmesi<br>C) Tüketicilerin markalar hakkında sahip olduğu fikir, duygu ve tutumlarının öne çıkması<br>D) Prestijin sembolik bir değerinin olması<br>E) İnsanların bir markayla ilişkilendirdiği, her şeyin birleşik bir görüntüsünün olması",
+            "options": [
+                "Bir ürünün bir insanmış gibi tanımlanması",
+                "Markayla özdeşleşen anlamlar nedeniyle satın alındığı fikrinin ifade edilmesi",
+                "Tüketicilerin markalar hakkında sahip olduğu fikir, duygu ve tutumlarının öne çıkması",
+                "Prestijin sembolik bir değerinin olması",
+                "İnsanların bir markayla ilişkilendirdiği, her şeyin birleşik bir görüntüsünün olması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 91,
+            "question": "Aşağıdakilerden hangisi star stratejisinin olumsuz yönlerinden biridir?<br>A) Küresel kampanyalar oluşması<br>B) Ünlünün markanın önüne geçmesi<br>C) Markaya yenilik getirmesi<br>D) Marka yenileme stratejilerinin uygulanması<br>E) Markaya karşı farkındalık oluşturma",
+            "options": [
+                "Küresel kampanyalar oluşması",
+                "Ünlünün markanın önüne geçmesi",
+                "Markaya yenilik getirmesi",
+                "Marka yenileme stratejilerinin uygulanması",
+                "Markaya karşı farkındalık oluşturma"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 92,
+            "question": "Aşağıdakilerden hangisi zamanı dondurma buna bağlı olarak da hareketli nesneleri sabitleyebilme özelliği gösteren, doğru enstantane değerini tercih etmeyi önemli kılan görsel anlatım aracıdır?<br>A) Televizyon<br>B) Video<br>C) Gazete<br>D) Fotoğraf<br>E) Karikatür",
+            "options": [
+                "Televizyon",
+                "Video",
+                "Gazete",
+                "Fotoğraf",
+                "Karikatür"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 93,
+            "question": "Aşağıdakilerden hangisi sanattaki tartışmalı sorundur?<br>A) İçerik-biçim ilişkisi<br>B) Eserin ele alındığı dönem<br>C) Eserin sahibinin niteliği<br>D) Eserin içeriği<br>E) Yaratıcılık unsurunu içermesi",
+            "options": [
+                "İçerik-biçim ilişkisi",
+                "Eserin ele alındığı dönem",
+                "Eserin sahibinin niteliği",
+                "Eserin içeriği",
+                "Yaratıcılık unsurunu içermesi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 94,
+            "question": "Bir otomobilin sürücüyü daha genç hissettirmesi, sürüş keyfi yaşatması, herkesin dikkatini çekmesi, insanların saygısını kazanması Pazar Konumlandırma modelinin aşağıdaki hangi özelliği ile ilgilidir?<br>A) Somut özellikler<br>B) Dolaylı (Deney/Duygu/Sembolik) Faydalar<br>C) Soyut Özellikler<br>D) Doğrudan (İşlevsel) Faydalar<br>E) Vekil (Yer Tutucu) Konumlandırmalar",
+            "options": [
+                "Somut özellikler",
+                "Dolaylı (Deney/Duygu/Sembolik) Faydalar",
+                "Soyut Özellikler",
+                "Doğrudan (İşlevsel) Faydalar",
+                "Vekil (Yer Tutucu) Konumlandırmalar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 95,
+            "question": "___, kompozisyonda sadeleştirme sağladığı gibi ilgiyi çoğunlukla ön planda tutulan figüre yönlendirir. Sadece katı sağlam bir mekân ya da stüdyoda oluşturulan bir dekor ve nesne olabileceği gibi düz bir renkte kumaş, karton, duvar vb farklı maddelerden de oluşabilir. Yukarıdaki paragrafta boş bırakılan yeri hangisi doğru şekilde tamamlar?<br>A) Görüntü<br>B) Kompozisyon<br>C) Fon<br>D) Mekan<br>E) Anlatı",
+            "options": [
+                "Görüntü",
+                "Kompozisyon",
+                "Fon",
+                "Mekan",
+                "Anlatı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 96,
+            "question": "Çekim aşamasında fotoğrafçının yaratıcı performansını belirleyen üç temel anlatı ögesi bulunur. Bunlar ışık ve pozlama, ___ ve çekim teknikleridir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?<br>A) sezgiler<br>B) düşünme gücü<br>C) yetenekli olma<br>D) kompozisyon oluşturma<br>E) empatik olma",
+            "options": [
+                "sezgiler",
+                "düşünme gücü",
+                "yetenekli olma",
+                "kompozisyon oluşturma",
+                "empatik olma"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 97,
+            "question": "Aşağıdakilerden hangisi konuyu doğrudan aydınlatan ve en güçlü olan ışık kaynağıdır?<br>A) Arka Işık<br>B) Yansıyan Işık<br>C) Anahtar Işık<br>D) Dolgu Işığı<br>E) Ön Işık",
+            "options": [
+                "Arka Işık",
+                "Yansıyan Işık",
+                "Anahtar Işık",
+                "Dolgu Işığı",
+                "Ön Işık"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 98,
+            "question": "Aşağıdakilerden hangisi sinopsisin geliştirilmiş halidir?<br>A) Tema<br>B) Çekim<br>C) Çekim Senaryosu<br>D) Tretman<br>E) Sekans",
+            "options": [
+                "Tema",
+                "Çekim",
+                "Çekim Senaryosu",
+                "Tretman",
+                "Sekans"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 99,
+            "question": "Aşağıdakilerden hangisi, film yapım aşamalarından biri <u>değildir</u>?<br>A) Yapım Öncesi<br>B) Çekim Öncesi<br>C) Çekim Sonrası<br>D) Yapım Sonrası<br>E) Değerlendirme",
+            "options": [
+                "Yapım Öncesi",
+                "Çekim Öncesi",
+                "Çekim Sonrası",
+                "Yapım Sonrası",
+                "Değerlendirme"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 100,
+            "question": "Çoğunlukla gerçek olmayan, kurgusal bir hikâye, belgeselin gerçekliğini dayandırdığı röportajlar, arşiv görüntüleri ile yönlendirilmiş stil kullanılarak gerçekmiş gibi izleyiciye sunulur. Yukarıda anlatılan yapım türü aşağıdakilerden hangisidir?<br>A) Mockumentary<br>B) Kolaj<br>C) Piksilasyon<br>D) Rotoskop<br>E) Kukla",
+            "options": [
+                "Mockumentary",
+                "Kolaj",
+                "Piksilasyon",
+                "Rotoskop",
+                "Kukla"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634596"
+        },
+        {
+            "id": 101,
+            "question": "Aşağıdakilerden hangisi proaktif kişilerin göstereceği davranışlardan biri <u>değildir</u>?",
+            "options": [
+                "İnisiyatif almaktan çekinmezler.",
+                "Olayların öncesinde harekete geçerler.",
+                "Planlıdırlar.",
+                "Risk analizi yapmazlar.",
+                "Çevrelerine örnek olurlar."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 102,
+            "question": "Bir problem veya senaryo hakkında bilindiği düşünülen her varsayımı aktif olarak sorgulama ve ardından sıfırdan yeni bilgi ve çözümler yaratma pratiği aşağıdakilerden hangisi ile açıklanır?",
+            "options": [
+                "Biçimsel düşünme",
+                "Normatif düşünme",
+                "İlk ilkeler düşüncesi",
+                "Eleştirel düşünme",
+                "Yaratıcı düşünme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 103,
+            "question": "Jean Désiré Gustave Courbet, eserlerini anlatırken hiç melek resmi yapmadığından çünkü hiç melek görmediğinden bahsetmiştir. Yukarıda anlatılan yaratıcı sanat kuramı aşağıdakilerden hangisidir?",
+            "options": [
+                "Dışavurumcu",
+                "Yansıtma",
+                "İşlevsel",
+                "Biçimci",
+                "Anlatım"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 104,
+            "question": "Aristokratlar, kral, yargıç, savaşçı gibi kişiler aşağıdaki karakter sınıflandırmalarından hangisine bir örnektir?",
+            "options": [
+                "Anlatı Aracı Olarak Karakter",
+                "Toplumsal Kişilik Olarak Karakter",
+                "Eylemci Olarak Karakter",
+                "Rol Olarak Karakter",
+                "Birey veya Kişi Olarak Karakter"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 105,
+            "question": "Gösterge bilimin üç temel kategorisi vardır. Bunlar; gösterge, dizge ve ------ . Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "sembol",
+                "bağlam",
+                "işaret",
+                "sinekdok",
+                "metonimi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 106,
+            "question": "Akıl yürütme yöntemlerinden \"benzetiş\" ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Özelden özele gider.",
+                "Bütün öncüller doğru bile olsa sonuç yanlış olabilir.",
+                "Sonuç, öncülleri ne aşar ne de öncüllere yeni bir şey katar.",
+                "Genelden özeli çıkarsar.",
+                "Bilgimizi arttırmaz."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 107,
+            "question": "Aşağıdakilerden hangisi buluşçu, yenilikçi, sorunlara yeni ve farklı çözümler üreten, özgün düşüncelerin ortaya çıkmasını sağlayan düşünme biçimidir?",
+            "options": [
+                "Sistemli düşünme",
+                "Tümevarımcı düşünme",
+                "Yaratıcı düşünme",
+                "Eleştirel düşünme",
+                "Analojik düşünme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 108,
+            "question": "Aşağıdakilerden hangisi star stratejisinin olumsuz yönlerinden biridir?",
+            "options": [
+                "Küresel kampanyalar oluşması",
+                "Markaya karşı farkındalık oluşturma",
+                "Markaya yenilik getirmesi",
+                "Ünlünün markanın önüne geçmesi",
+                "Marka yenileme stratejilerinin uygulanması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 109,
+            "question": "\"Beyaz Saray bu konuda bir açıklama yaptı\" cümlesindeki Beyaz Saray, ABD Başkanı'nı temsil etmektedir. Yukarıdaki cümlede ifade edilen bu temsil aşağıdaki kavramlardan hangisi ile açıklanır?",
+            "options": [
+                "Sembol",
+                "Metonimi",
+                "İşaret",
+                "Metafor",
+                "Sinekdok"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 110,
+            "question": "Aşağıdakilerden hangisi Catenescu ve Tom'a göre, mizah yaratılırken kullanılan biçimlerden biri <u>değildir</u>?",
+            "options": [
+                "Saçma durum",
+                "Alay",
+                "Kara mizah",
+                "Mavi mizah",
+                "Rutinlik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 111,
+            "question": "Aşağıdakilerden hangisi Roberts'a göre, lovemark olmak isteyen bir işletmenin öncelikle dikkate alması gereken unsurlardan biridir?",
+            "options": [
+                "Zaman",
+                "Maliyet",
+                "Ünlü olma",
+                "Samimiyet",
+                "Kâr elde etme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 112,
+            "question": "Fuchs ve Diamantopoulos'un pazar konumlandırma modeline göre, küçük alanlara park edebilmek, kullanım kolaylığı, dayanıklılık bir markanın aşağıdaki hangi özelliği ile ilgilidir?",
+            "options": [
+                "Dolaylı fayda",
+                "Konumlandırma",
+                "Soyut özellikler",
+                "Somut özellikler",
+                "Doğrudan fayda"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 113,
+            "question": "Aşağıdakilerden hangisi fotoğrafın ilk göze çarpan teknik özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "Ele aldığı konu",
+                "Aydınlatma",
+                "Pozlama",
+                "Kadraj",
+                "Netlik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 114,
+            "question": "Aşağıdakilerden hangisi dijital teknoloji ve yazılımlar aracılığıyla manipülasyon uygulamalarında en sık gerçekleştirilen işlemdir?",
+            "options": [
+                "Birleştirme",
+                "Büyütme",
+                "Sayısal uzama",
+                "Ayrıştırma",
+                "Odaklanma"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 115,
+            "question": "----, görme duyusunun gerçekleşebilmesi kadar, fotoğraf imgesinin kaydedilebilmesi için de temel etkenlerdendir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Pozlanma",
+                "Gölge",
+                "Işık",
+                "Tonlama",
+                "İmgeleme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 116,
+            "question": "Aşağıdakilerden hangisi zamanı dondurma buna bağlı olarak da hareketli nesneleri sabitleyebilme özelliği gösteren, doğru enstantane değerini tercih etmeyi önemli kılan görsel anlatım aracıdır?",
+            "options": [
+                "Video",
+                "Fotoğraf",
+                "Televizyon",
+                "Karikatür",
+                "Gazete"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 117,
+            "question": "Aşağıdakilerden hangisi hareketli görüntüye dayalı dramatik türlerin tasarımında ilk olarak ele alınacak ana fikrin dayandığı ana fikre karşılık gelir?",
+            "options": [
+                "Ses",
+                "Renk",
+                "Kurgu",
+                "Dış Işık",
+                "Tema"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 118,
+            "question": "Telif Hakları film yapımının aşağıdaki aşamalarından hangisi içinde yer alır?",
+            "options": [
+                "Çekim sonrası",
+                "Çekim öncesi",
+                "Yapım öncesi",
+                "Çekim aşaması",
+                "Yapım sonrası"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 119,
+            "question": "3 boyutlu animasyonlarda iki farklı görüntü arasında geçiş yapmak için görüntüler arasındaki kilit noktalarının eşlenerek form değişikliklerinin bilgisayar yardımıyla oluşturulması aşağıdaki animasyon tekniklerinden hangisi ile yapılır?",
+            "options": [
+                "Şekil değiştirme",
+                "Stereoskopik 3D",
+                "Hareket Yakalama",
+                "Sayısal Kolaj",
+                "Kukla"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 120,
+            "question": "Birbirinden farklı zaman ve mekânlarda geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan sahnelere ne ad verilir?",
+            "options": [
+                "Çekim metni",
+                "Shutter",
+                "Tretman",
+                "Sinopsis",
+                "Sekans"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634623"
+        },
+        {
+            "id": 121,
+            "question": "Her insan uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabilir, dolayısıyla insanı merkeze alan bir anlayışa sahiptir. Yukarıdaki bilgi yaratıcılığın hangi kuramsal temeli ile ilgilidir?",
+            "options": [
+                "Psikoanalitik yaklaşım",
+                "Hümanistik yaklaşım",
+                "Bilişsel yaklaşım",
+                "Gestaltçı yaklaşım",
+                "Karma yaklaşım"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 122,
+            "question": "Aşağıdakilerden hangisi yaratıcı bireylerin yaratıcı kişilik özelliklerinden biridir?",
+            "options": [
+                "Belirsizliklere karşı sabırsız davranma",
+                "Dış kontrol duygusuna sahip olma",
+                "Duyguları reddetme",
+                "Benzer, stereotip özellikleri reddetme",
+                "Tedbirli olma"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 123,
+            "question": "Aşağıdakilerden hangisi proaktif kişilerin göstereceği davranışlardan biri <u>değildir</u>?",
+            "options": [
+                "Çevrelerine örnek olurlar.",
+                "Risk analizi yapmazlar.",
+                "İnisiyatif almaktan çekinmezler.",
+                "Planlıdırlar.",
+                "Olayların öncesinde harekete geçerler."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 124,
+            "question": "Bir 19. yüzyıl realist sanatçısı, evinin karşısındaki dağı tıpkısıymış gibi asıl görünenin taklidini yaparak çizmiştir. Yukarıdaki ifadeye göre bu ressam aşağıdaki kuramlardan hangisini temel almıştır?",
+            "options": [
+                "Aktarım",
+                "İşlevsellik",
+                "Dışavurumcu",
+                "Biçimci",
+                "Yansıtma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 125,
+            "question": "Aristokratlar, kral, yargıç, savaşçı gibi kişiler aşağıdaki karakter sınıflandırmalarından hangisine bir örnektir?",
+            "options": [
+                "Rol Olarak Karakter",
+                "Birey veya Kişi Olarak Karakter",
+                "Anlatı Aracı Olarak Karakter",
+                "Toplumsal Kişilik Olarak Karakter",
+                "Birey veya Kişi Olarak Karakter"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 126,
+            "question": "Aşağıdakilerden hangisi yaratıcı sanat eğitim kuramlarından biridir?",
+            "options": [
+                "Yansıtma",
+                "Dışavurum",
+                "Yapılandırmacı",
+                "Eğitim Ortamlarında Yaratıcı Düşünce",
+                "Aktarım"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 127,
+            "question": "Bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eden çok basit semboller aşağıdaki kavramlardan hangisiyle adlandırılır?",
+            "options": [
+                "Histogram",
+                "Piktogram",
+                "Epigram",
+                "Stem",
+                "Proaktif"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 128,
+            "question": "Time-Lapse tekniği ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+            "options": [
+                "Son yıllarda sıkça kullanılan özel bir örnektir.",
+                "Sadece fotoğraflardan üretilen bir çeşit videodur.",
+                "Fotoğraf ve hikâye anlatıcılığı içerir.",
+                "Bir durgunluk hissi oluşturur.",
+                "Özel bir montaj tekniğini kullanarak geliştirilir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 129,
+            "question": "Dünya kendi ekseni etrafında döner ve Dünya'da gece ve gündüz oluşur. Mars da kendi ekseni etrafında döner. O hâlde Mars'ta da gece ve gündüz oluşur. Yukarıdaki düşünme biçimi aşağıdaki düşünme biçimlerinden hangisine örnektir?",
+            "options": [
+                "Bilimsel düşünme",
+                "Mantıklı düşünme",
+                "Analojik düşünme",
+                "Eleştirel düşünme",
+                "Yaratıcı düşünme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 130,
+            "question": "Dikey düşünme ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Daha çok sosyoloji, felsefe gibi sosyal bilimlerde kullanılır.",
+                "Her adım gerekli, doğru ve kesindir.",
+                "Duruma objektif yaklaşılır.",
+                "Sonlu bir süreçtir.",
+                "Mantıksal, doğrusal ve seçici bir düşünme yöntemidir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 131,
+            "question": "Genellikle okul öncesi eğitimde kullanılır. Özgün bir fikre ulaşmak için mevcut bir fikri farklı türde sorular sorarak değiştirme ve çeşitlendirme mantığı üzerine kuruludur. Yukarıda anlatılan beyin fırtınası yöntemi aşağıdakilerden hangisidir?",
+            "options": [
+                "Beyin çizimi",
+                "Altı şapkalı düşünme",
+                "SCAMPER",
+                "Tartışma",
+                "Benzetim"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 132,
+            "question": "Aşağıdakilerden hangisi \"Star Stratejisi\"nin olumsuz yönlerinden biridir?",
+            "options": [
+                "Marka yenileme stratejileri uygulanabilir.",
+                "Marka yeni bir görünüme kavuşabilir.",
+                "Markaya karşı farkındalık oluşur.",
+                "Küresel kampanyalar desteklenir.",
+                "Ünlü, markayı gölgede bırakabilir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 133,
+            "question": "Bir web sitesinin sağ veya sol tarafında yayınlanan uzun, ince boyutlu reklamlara ne ad verilir?",
+            "options": [
+                "Major reklam",
+                "Banner reklam",
+                "Mikro reklam",
+                "Makro reklam",
+                "Gökdelen reklamlar"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 134,
+            "question": "Anlatının türüne göre eser/yapıtın duyumsanabilir yapısal özellikleri aşağıdaki kavramlardan hangisi ile açıklanabilir?",
+            "options": [
+                "Değer",
+                "Estetik",
+                "Biçim",
+                "Anlatı",
+                "Görsellik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 135,
+            "question": "Aşağıdakilerden hangisi yaratıcı kişilik niteliğini belirleyen özelliklerden biridir?",
+            "options": [
+                "Merak",
+                "Hayal gücü",
+                "Tutum",
+                "Kişilik",
+                "Duygular"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 136,
+            "question": "Aşağıdakilerden hangisi markaların Lovemark olmak için atlamaması gereken adımlardan biridir?",
+            "options": [
+                "Sonuçlandırın",
+                "Serbest bırakın",
+                "Gerçekleştirin",
+                "Gizleyin",
+                "Gelenekselleşin"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 137,
+            "question": "Tasarım ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Sanatsal yaratılışın ilk adımıdır.",
+                "Bilinçte ortaya çıkan bir ögedir.",
+                "Daha önce algılanmış bir nesneyi bilinçte ortaya çıkarır.",
+                "Geniş anlamıyla, bilinç içeriğidir.",
+                "Öngörülmüş olanı kabul eder."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 138,
+            "question": "Bir yazı, müzik ya da görüş olarak televizyon yapımlarınca işlenen ve konunun dayandığı ana fikri ifade eden kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Tema",
+                "Senaryo",
+                "Sinopsis",
+                "Öğrenme alanı",
+                "İçerik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 139,
+            "question": "'Görsel efekt' aşağıdaki film yapım aşamalarından hangisi içinde yer alır?",
+            "options": [
+                "Çekim öncesi",
+                "Çekim aşaması",
+                "Yapım sonrası",
+                "Çekim sonrası",
+                "Yapım öncesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 140,
+            "question": "Birbirinden farklı zaman ve mekânlarda geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan sahnelere ne ad verilir?",
+            "options": [
+                "Sekans",
+                "Çekim metni",
+                "Sinopsis",
+                "Tretman",
+                "Shutter"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634578"
+        },
+        {
+            "id": 141,
+            "question": "Bir problem veya senaryo hakkında bilindiği düşünülen her varsayımı aktif olarak sorgulama ve ardından sıfırdan yeni bilgi ve çözümler yaratma pratiği aşağıdakilerden hangisi ile açıklanır?",
+            "options": [
+                "İlk ilkeler düşüncesi",
+                "Yaratıcı düşünme",
+                "Eleştirel düşünme",
+                "Biçimsel düşünme",
+                "Normatif düşünme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 142,
+            "question": "Aşağıdakilerden hangisi yaratıcı mitlere bir örnektir?",
+            "options": [
+                "Yaratıcılık, sanatın dışındaki bütün alanlar için geçerlidir.",
+                "Yaratıcılık herkeste olmayan özel bir beceridir.",
+                "Yaratıcı fikirlerin başlangıçta orijinal olması beklenemez.",
+                "Yaratıcılık uygun koşullarda geliştirilebilen özelliktir.",
+                "Sosyal refah ve motivasyon yaratıcılık gelişimine olumlu katkı sağlar."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 143,
+            "question": "Aşağıdakilerden hangisi proaktif kişinin göstereceği davranışlardan biri <u>değildir</u>?",
+            "options": [
+                "Çevrelerine örnek olurlar.",
+                "Risk analizi yapmazlar.",
+                "İnisiyatif almaktan çekinmezler.",
+                "Planlıdırlar.",
+                "Olayların öncesinde harekete geçerler."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 144,
+            "question": "Bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eden çok basit semboller hangi kavramlardan hangisiyle adlandırılır?",
+            "options": [
+                "Epigram",
+                "Histogram",
+                "Stem",
+                "Piktogram",
+                "Proaktif"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 145,
+            "question": "Aşağıdakilerden hangisi yaratıcı sanat eğitim kuramlarından biridir?",
+            "options": [
+                "Dışavurum",
+                "Yansıtma",
+                "Eğitim Ortamlarında Yaratıcı Düşünce",
+                "Yapılandırmacı",
+                "Aktarım"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 146,
+            "question": "İllüstrasyon ile ilgili olarak aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Hikâye olaylarını ve gelişimini tam anlamıyla yorumlar.",
+                "Bir metnin veya kavramın özel yorumunu destekler.",
+                "Bir anlatı çizimidir.",
+                "Grafik ilkelere dayanır.",
+                "Sözel, akıcı bir anlatım tarzıdır"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 147,
+            "question": "Aşağıdakilerden hangisi \"Hümaniter kuramının kurucularından biridir?",
+            "options": [
+                "Vygotsky",
+                "Rogers",
+                "Gardner",
+                "Bruner",
+                "Skinner"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 148,
+            "question": "Time-Lapse tekniği ile ilgili olarak aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Özel bir montaj tekniğini kullanarak geliştirilir.",
+                "Son yıllarda sıkça kullanılan özel bir örnektir.",
+                "Bir durgunluk hissi oluşturur.",
+                "Sadece fotoğraflardan üretilen bir çeşit videodur.",
+                "Fotoğraf ve hikâye anlatıcılığı içerir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 149,
+            "question": "Aşağıdaki yaratıcılık ile ilgili ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Bir çeşit beyin egzersizi, düşünme ve yorumlama biçimidir.",
+                "Bilgi ve hayal gücünün harmanlanarak yeni çözüm yolları üretebilme becerisidir.",
+                "Her insanda doğuştan var olan bir özelliktir.",
+                "Yaratıcılık çalışılarak geliştirilebilen bir beceri <u>değildir</u>.",
+                "Yeni yaklaşımlar ortaya koymak ve daha önce kimsenin bakmadığı bir perspektiften durumu değerlendirmektir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 150,
+            "question": "Wallas'ın yaratıcı düşünme süreci aşağıdakilerin hangisinde birlikte doğru olarak verilmiştir?",
+            "options": [
+                "Keşfetme, Doğrulama, Tutum Geliştirme, Anlama",
+                "Merak, Keşfetme, Ortaya Çıkarma, Teyit",
+                "Kuluçka, Yumurtlama, Açıklama, Sunma",
+                "Merak, İlham, Seçme, Araştırma",
+                "Hazırlık, Kuluçka, İlham, Doğrulama"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 151,
+            "question": "Edward De Bono'ya göre, yanal düşünme ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "En az olası yolları araştırır.",
+                "Olumsuzluk yoktur.",
+                "Kategoriler ile sınıflandırmalar ve etiketler sabittir.",
+                "Bir yön oluşturmak için hareket eder.",
+                "Kışkırtıcıdır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 152,
+            "question": "Aşağıdakilerden hangisi star stratejisinde bir ünlü kişi seçmenin nedenlerinden <u>değildir</u>?",
+            "options": [
+                "Güvenilirlik",
+                "Benzerlik",
+                "Fiziksel çekicilik",
+                "Samimiyet",
+                "Saygı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 153,
+            "question": "Aşağıdakilerden hangisi Lovemark olmak için atlamaması gereken adımlardan biridir?",
+            "options": [
+                "Gelenekselleşin",
+                "Samimiyetin",
+                "Serbest bırakın",
+                "Gizleyin",
+                "İnternette tanıtın"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 154,
+            "question": "Tasarım ile ilgili aşağıdaki ifadelerden hangisi <u>yanlış</u>?",
+            "options": [
+                "Öngörülmüş olanı kabul eder.",
+                "Sanatsal yaratılışın ilk adımıdır.",
+                "Daha önce algılanmış bir nesneyi bilinçte ortaya çıkarır.",
+                "Geniş anlamıyla, bilinç içeriğidir.",
+                "Bilinçte ortaya çıkan bir ögedir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 155,
+            "question": "Aşağıdakilerden hangisi bir reklam tasarımında yararlanılabilecek stratejilerden biri <u>değildir</u>?",
+            "options": [
+                "Marka imajı",
+                "Star",
+                "Konumlandırma",
+                "Anlamlandırma",
+                "Lovemarks"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 156,
+            "question": "Aşağıdakilerden hangisi fotoğrafın üretilme amaçlarından biri <u>değildir</u>?",
+            "options": [
+                "Bilgi verme",
+                "İmaj oluşturma",
+                "Duyguları harekete geçirme",
+                "İletide bulunma",
+                "Rekabete girme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 157,
+            "question": "Aydınlatma ve kompozisyonu ilişkin tercihlerle birlikte ortaya çıkan görünümdür. Böylece aradan resmine duranlar (seyirciler) tarafından sıra dışı, farklı ve ilgi çekici, şaşırtıcı bir görünüm kazanabilir.",
+            "options": [
+                "Fan",
+                "Yaratıcılık",
+                "Fotoğrafik görme",
+                "Arka plan",
+                "Arka plan"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 158,
+            "question": "Yukarıdaki anlatılan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Tema",
+                "Senaryo",
+                "Sinopsis",
+                "Öğrenme alanı",
+                "İçerik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 159,
+            "question": "'Görsel efekt' aşağıdaki film yapım aşamalarından hangisi içinde yer alır?",
+            "options": [
+                "Yapım sonrası",
+                "Yapım öncesi",
+                "Çekim aşaması",
+                "Çekim öncesi",
+                "Çekim sonrası"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 160,
+            "question": "Birbirinden farklı zaman ve mekânlarda geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan sahnelere ne ad verilir?",
+            "options": [
+                "Sekans",
+                "Tretman",
+                "Sinopsis",
+                "Çekim metni",
+                "Shutter"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634599"
+        },
+        {
+            "id": 161,
+            "question": "Aşağıdakilerden hangisi John M. Digman'ın kişilik özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "Açıklık",
+                "İçe dönüklük",
+                "Uyumluluk",
+                "Öz denetim",
+                "Nevrotizm"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 162,
+            "question": "Bir problem veya senaryo hakkında bilindiği düşünülen her varsayımı aktif olarak sorgulama ve ardından sıfırdan yeni bilgi ve çözümler yaratma pratiği aşağıdakilerden hangisi ile açıklanır?",
+            "options": [
+                "Normatif düşünme",
+                "Biçimsel düşünme",
+                "İlk ilkeler düşüncesi",
+                "Yaratıcı düşünme",
+                "Eleştirel düşünme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 163,
+            "question": "Aşağıdakilerden hangisi proaktif kişilik özelliklerinden biridir?",
+            "options": [
+                "Olumsuz durumlarda kontrollerini kaybetme",
+                "Planlı olma",
+                "Ancak ciddi sonuçlar ortaya çıktığında harekete geçme",
+                "İnisiyatif alma ve karar vermede çekimser davranma",
+                "Fiziki şartlardan etkilenme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 164,
+            "question": "Yaratıcılığın ego ve süper ego arasındaki gerilimden kaynaklandığını ifade eden kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Pestalozzi",
+                "Dewey",
+                "Piaget",
+                "Platon",
+                "Freud"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 165,
+            "question": "Yüceltme olarak adlandırılan yaratıcılık aslında bir savunma mekanizmasıdır. Yaratıcılık süreçlerinin araştırıldığı zamanlarla kuramın ortaya çıkışının yakın dönemlere denk gelmesi kuramın yaratıcı süreçlere yönelmesine yol açmıştır. Freud kuramında yaratıcılığın kökenini açıklama çalışmış ve bilinç, rüyalar, imajinasyon ve sapmalar üzerinde araştırmalar yapmıştır. Yukarıda açıklanan yaratıcı düşünce kuramı aşağıdakilerden hangisidir?",
+            "options": [
+                "Gestalt",
+                "İnsancıl",
+                "Bilişsel",
+                "Psikanalitik",
+                "Çağrışımsal"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 166,
+            "question": "İllüstrasyon ile ilgili olarak aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Sözel, akıcı bir anlatım tarzıdır.",
+                "Bir anlatı çizimidir.",
+                "Grafik ilkelere dayanır.",
+                "Hikâye olaylarını ve gelişimini tam anlamıyla yorumlar.",
+                "Bir metnin veya kavramın özel yorumunu destekler."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 167,
+            "question": "Aşağıdakilerden hangisi icadından ve yaygın kullanımından bugüne kadar insanları en çok etkileyen anlatı üreticilerinin başında gelir?",
+            "options": [
+                "Fotoğraf",
+                "Video",
+                "Televizyon",
+                "Radyo",
+                "Sinema"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 168,
+            "question": "Van Gogh'un “İhtiyar” adlı yapıtı ile E. Munch'un \"Çığlık” adlı yapıtı aşağıdaki yaratıcı sanat kuramlarından hangisine bir örnektir?",
+            "options": [
+                "Biçimci kuram",
+                "Dışavurumcu kuram",
+                "İşlevsellik",
+                "Yapılandırmacı kuram",
+                "Yansıtma kuramı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 169,
+            "question": "Genellikle okul öncesi eğitimde kullanılır. Özgün bir fikre ulaşmak için mevcut bir fikri farklı türde sorular sorarak değiştirme ve çeşitlendirme mantığı üzerine kuruludur. Yukarıda anlatılan beyin fırtınası yöntemi aşağıdakilerden hangisidir?",
+            "options": [
+                "SCAMPER",
+                "Beyin çizimi",
+                "Tartışma",
+                "Altı şapkalı düşünme",
+                "Benzetim"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 170,
+            "question": "Aşağıdakilerden hangisi, beyin fırtınası yönteminin, yaratıcı düşünmeyi ve problem çözmeyi kolaylaştırması için sağlaması gereken koşullardan biridir?",
+            "options": [
+                "Düşüncelerin niteliği yüksek olmalıdır.",
+                "Düşünceler birbiri ile uyumlu olmalıdır.",
+                "Düşünceler eleştiriye tabi tutulur.",
+                "Katılımcılar birbirlerinin etkilenerek düşünce üretir.",
+                "Düşünce sayısı az olmalıdır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 171,
+            "question": "Aşağıdakilerden hangisi Wallas'a göre düşünme sürecinin aşamalarından biri <u>değildir</u>?",
+            "options": [
+                "Hazırlık",
+                "İlham",
+                "Doğrulama",
+                "Uyuşma",
+                "Sezgi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 172,
+            "question": "TEARS modeline göre ünlünün, markanın ürünüyle ilgili becerilere, bilgilere veya yeteneklere sahip olması, star stratejisinin aşağıdaki özelliklerinden hangisi ile ilgilidir?",
+            "options": [
+                "Güvenilirlik",
+                "Eşitlik",
+                "Fiziksel çekicilik",
+                "Saygı",
+                "Uzmanlık"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 173,
+            "question": "Bir web sitesinin sağ veya sol tarafında yayınlanan uzun, ince boyutlu reklamlara ne ad verilir?",
+            "options": [
+                "Gökdelen reklamlar",
+                "Makro reklam",
+                "Mikro reklam",
+                "Banner reklam",
+                "Majör reklam"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 174,
+            "question": "Satın alınan ürün sahibi için iki tür değere sahiptir; biri somut faydası diğeri ise prestijin imajı olarak faydasıdır. Marka imajı, teknik maddeleri, ürün özelliklerini, finansal değeri veya sosyal uygunluğu içerir. Yukarıdaki ifade aşağıdaki marka imajı tanımlamalarından hangisi ile ilgilidir?",
+            "options": [
+                "İşlevselliğe vurgusu",
+                "Anlamlara ve mesajlara vurgu",
+                "Bilişsel veya psikolojik unsurlara vurgu",
+                "Kapsayıcı tanımlamalar",
+                "Sembolizm vurgusu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 175,
+            "question": "Aşağıdakilerden hangisi yaratıcılık eyleminin hem düşünsel hem de uygulama açısından geçtiği süreçteki işlemlerden biri <u>değildir</u>?",
+            "options": [
+                "İmleme",
+                "Araştırma",
+                "Tasarlama",
+                "Aktarma",
+                "Sezgi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 176,
+            "question": "Aşağıdakilerden hangisi yaratıcı kişilik niteliğini belirleyen özelliklerden biridir?",
+            "options": [
+                "Duygular",
+                "Merak",
+                "Hayal gücü",
+                "Tutum",
+                "Kişilik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 177,
+            "question": "Aşağıdakilerden hangisi sanattaki en tartışmalı sorundur?",
+            "options": [
+                "İçerik-biçim ilişkisi",
+                "Eserin ele alındığı dönem",
+                "Eserin sahibinin niteliği",
+                "Eserin içeriği",
+                "Yaratıcılık unsurunu içermesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 178,
+            "question": "Çoğunlukla gerçek olmayan, kurgusal bir hikâye, belgeselin gerçekliğini dayandırdığı röportajlar, arşiv görüntüleri ile yönlendirilmiş stil kullanılarak gerçekmiş gibi izleyiciye sunulur. Yukarıda anlatılan yapım türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Kolaj",
+                "Mockumentary",
+                "Piksilasyon",
+                "Rotoskop",
+                "Kukla"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 179,
+            "question": "...... görüntünün oluşturulmasında en önemli unsurlardan biri olup, etrafımızdaki dünyayı görsel olarak algılamak için birincil faktördür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Tonlama",
+                "Kontrast",
+                "Aydınlatma",
+                "Işık",
+                "Ses"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        },
+        {
+            "id": 180,
+            "question": "Öyküye dayalı olarak ilerleyen kısa film türüne ne ad verilir?",
+            "options": [
+                "Aldatmaca",
+                "Mockumentary",
+                "Kurmaca",
+                "Belgesel",
+                "Parodi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634626"
+        }
+    ]
+}

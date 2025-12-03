@@ -1,0 +1,2404 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Kağıt ve matbaanın kökeninin dayandığı medeniyet aşağıdakilerden hangisidir?",
+            "options": [
+                "Antik Yunanistan",
+                "Almanya",
+                "Çin",
+                "Mısır",
+                "Maya"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 2,
+            "question": "Aşağıdaki yazı yüzeylerinin hangisinin daha kaliteli versiyonuna \"Vellum\" denilmiştir?",
+            "options": [
+                "Parşömen",
+                "Papirüs",
+                "Kil tablet",
+                "Kağıt",
+                "Mermer"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 3,
+            "question": "Kullanılan harflerin bir sesi işaret ettiği sesçil (fonetik) alfabeyi ilk kullanan uygarlık aşağıdakilerden hangisidir?",
+            "options": [
+                "Mısır",
+                "Çin",
+                "İndus",
+                "Fenike",
+                "Roma"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 4,
+            "question": "Matbaacılık tarihinde ilk resimli İncil'i üreten kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Martin Luther",
+                "Aldus Manutius",
+                "Günther Zainer",
+                "Albrect Dürer",
+                "Gutenberg"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 5,
+            "question": "Dünya tarihinde bilinen ilk basılı kitap aşağıdakilerden hangisidir?",
+            "options": [
+                "Elmas Sutra",
+                "Gutenberg İncili",
+                "Dresden Kodeksi",
+                "Kells Kitabı",
+                "Vatican Virgil"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 6,
+            "question": "Fransa'da yalnızca kraliyetin kullanımı için tasarlanan yazıyüzü aşağıdakilerden hangisidir?",
+            "options": [
+                "İtalik",
+                "Roman",
+                "Sans Serif",
+                "Romain du Roi",
+                "Serif"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 7,
+            "question": "Aşağıdakilerden hangisi \"Petroglif\"in tanımıdır? Kayaların üzerine ellerin şablon gibi koyularak yapılan resimlerdir.<br>Kayaların üzerine püskürtme yolu ile yapılan resimlerdir.<br>Kayaların üzerine kazıma ve oyma yoluyla yapılan resimlerdir.<br>Kayaların üzerine aşıboyası damlatılarak yapılan resimlerdir.<br>Kayaların üzerine fırça ile yapılan resimlerdir.",
+            "options": [
+                "Kayaların üzerine ellerin şablon gibi koyularak yapılan resimlerdir.",
+                "Kayaların üzerine püskürtme yolu ile yapılan resimlerdir.",
+                "Kayaların üzerine kazıma ve oyma yoluyla yapılan resimlerdir.",
+                "Kayaların üzerine aşıboyası damlatılarak yapılan resimlerdir.",
+                "Kayaların üzerine fırça ile yapılan resimlerdir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 8,
+            "question": "\"Şüpheye düştüğünüzde <u>kullanın</u>\" özdeyişi matbaacılar arasında günümüze kadar gelmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Garamond",
+                "Baskerville",
+                "Didot",
+                "Bodoni",
+                "Caslon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 9,
+            "question": "Baskı teknolojisini Avrupa'ya getiren kâşif aşağıdakilerden hangisidir?",
+            "options": [
+                "Kristof Kolomb",
+                "Marco Polo",
+                "Ricoldus de Monte Crucis",
+                "Pîrî Reis",
+                "Ugolino Vivaldi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 10,
+            "question": "Almanya'da bilinen en eski basım örneği bir -------şiirinin basıldığı bir kitap yaprağıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Virgil",
+                "Biblia Latina",
+                "Sibylline",
+                "Aristoteles",
+                "Ars Moriendi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 11,
+            "question": "Yazar John Ruskin ve Tasarımcı William Morris, 19. yüzyıl sonlarına doğru Endüstriyel devrimin getirdiği sanatsal karmaşaya karşı bir duruş sergilenme ihtiyacı hissetmiştir. Bu duruş zamanla bir sanat hareketine dönüşmüştür. Yukarıdaki bilgiye göre, bu iki önemli ismin başlattığı sanat hareketi aşağıdakilerden hangisidir?",
+            "options": [
+                "Viktorya Sanatı",
+                "Vienna Secession (Viyana Stili)",
+                "Jugendstil",
+                "Art Nouveau (Yeni Sanat)",
+                "Arts&Crafts (Sanat&Zanaat)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 12,
+            "question": "Aşağıdakilerden hangisi Arts&Crafts (Sanat ve Zanaat) hareketinin özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "El Sanatlarını daha ucuz maliyet ile üretmek",
+                "Anti-akademik yaklaşımlar ile üretim yapmak",
+                "El sanatlarını yeniden canlandırmak",
+                "Tasarımları sadece el ile üretmek",
+                "El sanatlarını seri imalat haline getirmek"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 13,
+            "question": "Dünya tarihinde ilk gerçek reklam ajansı aşağıdaki ülkelerden hangisinde açılmıştır?",
+            "options": [
+                "İngiltere",
+                "Amerika",
+                "Fransa",
+                "Belçika",
+                "Almanya"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 14,
+            "question": "Aşağıdakilerden hangisi Art Nouveau sanat hareketinin esinlendiği kaynaklardan biri <u>değildir</u>?",
+            "options": [
+                "Psikoloji bilimi",
+                "Doğal motifler",
+                "Japon ahşap baskıları",
+                "Rubens, Fragonard gibi romantik dönem ressamları",
+                "Fransız kabare kültürü"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 15,
+            "question": "\"Zoetrope\" ve \"Praxinascope\" (Hayat Tekerleği) adlı oyuncaklar aşağıdaki sanat alanlarından hangisine dair geliştirilmiş örnekleri temsil eder?",
+            "options": [
+                "Fotoğraf",
+                "Animasyon",
+                "Grafik Tasarım",
+                "Baskı Sanatları",
+                "Sinema"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 16,
+            "question": "Sanat tarihinde gerçekçi olma geleneğini yıkan doğadan bağımsız bir sanat kavramı yaratarak yeni bir sanatsal gelenek ve görme biçimi kazandırmıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Futurizm",
+                "Art Deco",
+                "De Stijl",
+                "Sürrealizm",
+                "Kubizm"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 17,
+            "question": "Tekrar eden harfler ile ses kavramını ifade etme denemeleri aşağıdaki sanat akımlarından hangisi ile başlamıştır?",
+            "options": [
+                "Futurizm",
+                "Sürrealizm",
+                "Kubizm",
+                "Dadaizm",
+                "Caslon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 18,
+            "question": "Marcel Duchamp aşağıdaki modern sanat akımlarından hangisinin en önemli temsilcilerinden biridir?",
+            "options": [
+                "Kubizm",
+                "Dadaizm",
+                "Futurizm",
+                "Sürrealizm",
+                "De Stijl"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 19,
+            "question": "De Stijl sanat akımının başaladığı ülke aşağıdaki hangisidir?",
+            "options": [
+                "Hollanda",
+                "İtalya",
+                "İngiltere",
+                "Almanya",
+                "Fransa"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 20,
+            "question": "Aşağıdakilerden hangisi Art Deco'nun özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "Aydınlık renkler",
+                "Düz ve keskin hatlar",
+                "Tüketim kültürüne gönderme",
+                "Yumuşatılmış formlar",
+                "Çiçekli formlar"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "492716"
+        },
+        {
+            "id": 21,
+            "question": "Aşağıdakilerden hangisi \"Petroglif\"in tanımıdır?",
+            "options": [
+                "Kayaların üzerine fırça ile yapılan resimlerdir.",
+                "Kayaların üzerine püskürtme yolu ile yapılan resimlerdir.",
+                "Kayaların üzerine kazıma ve oyma yoluyla yapılan resimlerdir.",
+                "Kayaların üzerine aşıboyası damlatılarak yapılan resimlerdir.",
+                "Kayaların üstüne ellerin şablon gibi koyularak yapılan resimlerdir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 22,
+            "question": "Kağıt ve matbaanın kökeninin dayandığı medeniyet aşağıdakilerden hangisidir?",
+            "options": [
+                "Maya",
+                "Çin",
+                "Antik Yunanistan",
+                "Almanya",
+                "Mısır"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 23,
+            "question": "Kullanılan $\\text{harflerin bir sesi ifade ettiği}$ $\\text{seçili (fonetik alfabe) ilk kullanan uygarlık}$ aşağıdakilerden hangisidir?",
+            "options": [
+                "Roma",
+                "Çin",
+                "İndus",
+                "Fenike",
+                "Mısır"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 24,
+            "question": "Doğal iletişimde/duyusal iletişim ile teknoloji aracılı iletişim arasındaki temel fark aşağıdakilerden hangisidir?",
+            "options": [
+                "Doğal iletişimde medyum, teknoloji aracılı iletişimde medya kullanılır.",
+                "Doğal iletişimde basılı ortam, teknoloji aracılı iletişimde yazılı iletişim dili kullanılır.",
+                "Doğal iletişimde zaman ve mekan sınırlamaları aşılırken, teknoloji aracılı iletişimde iletişim önündeki engeller <u>kaldırılamaz</u>.",
+                "Doğal iletişimde mektuplar, kitaplar, gazeteler kullanılırken, teknoloji aracılı iletişimde internet siteleri, görüntülü konuşma kullanılır.",
+                "Doğal iletişimde sesler, vücut dili, mimikler kullanılırken, teknoloji aracılı iletişimde sinyaller, tasvirler, aletler kullanılır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 25,
+            "question": "Wang Zhen'in 1298 yılında matbaacılığa getirdiği yenilik aşağıdakilerden hangisidir?",
+            "options": [
+                "Harfler için tahta baskı tekniğini bulmuştur.",
+                "Matbaada dört renkli baskıyı bulmuştur.",
+                "Matbaayı Avrupa kıtasına tanıtmıştır.",
+                "Dizgi için döner masayı icat etmiştir.",
+                "Kağıt parayı icat etmiştir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 26,
+            "question": "Aşağıdakilerden hangisi Avrupa'da 14. yüzyılda uygulanmaya başlanan ahşap blok baskının ilk örneklerinden biridir?",
+            "options": [
+                "İncil'le Kitaplar",
+                "Ars Moriendi",
+                "Dört Arzlı Bakire ve Çocuk",
+                "Mappa Mundi",
+                "Biblia Latina"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 27,
+            "question": "Fransa'da yalnızca kraliyetin kullanımı için tasarlanan yazı yüzü aşağıdakilerden hangisidir?",
+            "options": [
+                "Romain du Roi",
+                "Garamond",
+                "Serif",
+                "Roman",
+                "İtalik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 28,
+            "question": "İlk ahşap baskılarda aşağıdaki temalardan hangisi <u>kullanılmamıştır</u>?",
+            "options": [
+                "Azizler",
+                "İllüstrasyonlar",
+                "Oyun Kartları",
+                "Krallar",
+                "Dini imgeler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 29,
+            "question": "Christoffel van Dyck aşağıdaki yayınevlerinden hangisinin yazıyüzlerini tasarlayarak büyük üne kavuşmuştur?",
+            "options": [
+                "Aldine Yayınevi",
+                "Gutenberg Matbaası",
+                "Elsevier Yayınevi",
+                "Harvard Üniversitesi Yayınları",
+                "Kraliyet Yayınevi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 30,
+            "question": "William Morris'in kitap tasarımındaki önemli eserlerinden biri olan \"Golden\", \"Troy\" ve \"Ghaucer\" adlı harf tasarımlarının yarattığı etki aşağıdakilerden hangisidir?",
+            "options": [
+                "Gotik türündeki harf tasarımlarına olan ilgiyi azaltmıştır.",
+                "Sayfaları çevreleyen bordürlerin sade ve monoton olduğu gözlenmiştir.",
+                "Morris'in eserlerindeki motifler Orta Çağ sanatlarından ziyade modern sanatlara daha yakındır.",
+                "William Morris'in tasarım kuralları, sanat dünyasında olumsuz eleştiriler almıştır?",
+                "Kitap tasarımlarındaki kendine has düzenleme anlayışı, harf tasarımlarındaki incelikler ve ayrıntılar gelecek nesillere bu konuda yararlanılabilecek önemli bir kaynak olmuş ve kitap tasarımını bir sanat haline getirmiştir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 31,
+            "question": "Yazar John Ruskin ve Tasarımcı William Morris, 19. yüzyıl sonlarına doğru Endüstriyel devrimin getirdiği sanatsal karmaşaya karşı bir duruş sergilenme ihtiyacı hissetmiştir. Bu duruş zamanla bir sanat hareketine dönüşmüştür. Yukarıdaki bilgiye göre, bu iki önemli ismin başlattığı sanat hareketi aşağıdakilerden hangisidir?",
+            "options": [
+                "Arts&Crafts (Sanat&Zanaat)",
+                "Viktorya Sanatı",
+                "Vienna Secession (Viyana Stili)",
+                "Jugendstil",
+                "Art Nouveau (Yeni Sanat)"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 32,
+            "question": "Aşağıdakilerden hangisi \"sanatı toplumun yaşam alanı ile buluşturan\" ilk hareket olarak bilinir?",
+            "options": [
+                "Kontrüktivizm",
+                "Art Nouveau",
+                "Sanat ve Zanaat",
+                "Dadaizm",
+                "Art Deco"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 33,
+            "question": "Aldus Pius Manutius'un matbaa alanındaki katkılarına dair aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Manutius, klasik Kiril kültürünü yaymak amacıyla bir yayınevi olan Press'i kurmuştur.",
+                "Aldus Pius Manutius, matbaanın icadıyla kilisenin birleşmesine katkıda bulunmuştur.",
+                "Aldus Pius Manutius'un en önemli başarısı gotik yazıyüzünü popülerleştirmesi olmuştur.",
+                "Manutius, klasik basımlar için \"formato in ottavo\" öncülük etmiştir ve aynı zamanda italik yazı karakterini kullanmıştır.",
+                "Aldus Pius Manutius, Gutenberg'in icadını geliştirmiştir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 34,
+            "question": "Viyana Ayrılıkçılığı hareketinin etkisi altındaki sanatçılardan biri olan Gustav Klimt'in sanat anlayışını yansıtan ögeler aşağıdakilerden hangisidir?",
+            "options": [
+                "Mimari tasarımlar",
+                "Köşeli hatlar ve kütlesel tipografik düzenlemeler",
+                "Soyut ekspresyonizm eserleri",
+                "Doğa manzaralarının detaylı resimlemeleri",
+                "Çiçekli ve yoğun dekoratif desenler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 35,
+            "question": "Modern sanat ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Modern sanatta her şey bireyi ilgilendirir.",
+                "Sanatçılar yapıtlarında daha çok kendi bireysel yaklaşımlarını vermeye çalışmışlardır.",
+                "Sanat için sanat değil, toplum için sanat üretme anlayışı yaygınlaşır.",
+                "Modern sanat için makineleşme geleceğin sembolü olarak görülmüştür.",
+                "Modern sanat için sanat ve endüstriyi ayırmak gereklidir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 36,
+            "question": "Taş baskı (litografi) tekniğinin gelişim sürecine dair aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "II. Mahmut döneminde sarayın ihtiyaçları için ilk taş baskı atölyesi kurmuştur.",
+                "Litografi tekniğinin gelişimi sadece 18. yüzyılda Viktorya dönemi oyun yazarı William Shakespeare tarafından başlatılmıştır.",
+                "Modern litografi, fotokimyasal metotlar ile hazırlanmış çinko ve alüminyum levhaların kullanılmasıyla gerçekleştirilmektedir.",
+                "Litografi tekniğinin uygulanmasında yağlı mürekkep kullanılarak hazırlanan bir kasnak yardımıyla çizimler yapılmaktadır.",
+                "Taş baskı tekniği, II.Mahmut döneminde özellikle Aşevlerinde asılı afişlerde kullanılmıştır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 37,
+            "question": "De Stijl akımının öncüleri tarafından belirlenen temel özellikler aşağıdakilerden hangisidir?",
+            "options": [
+                "Tipografide kavisli çizgileri vurgulama ve asimetrik sayfa tasarımı",
+                "Temel renklerin dışındaki renkleri yoğun olarak kullanma",
+                "Eğrisel çizgilerin ağırlıklı kullanımı ve duygusallığa vurgu yapma",
+                "Görsel elemanlarda öznelik ve duygusallığı teşvik etme",
+                "Sübjektivizme karşı duruş ve eğrisel çizgiler, yuvarlatılmış formlara sahip her ögenin dışlanması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 38,
+            "question": "Üretici ve el işçiliğini bir araya getirmenin çabası, modern yaşam, makine çağı kültürüne ait motifler, tüketim kültürüne gönderme gibi özellikler aşağıdaki akımlardan hangisine aittir?",
+            "options": [
+                "Dada",
+                "Art Deco",
+                "Kubizm",
+                "Futurizm",
+                "Sürrealizm"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 39,
+            "question": "-----, soyut bir sanat akımı görünümünde olmasına rağmen gerçekçi bir sanat akımı olan realizmden daha fazla gerçekle ilgilenmiştir çünkü somut bir kavramı soyut hâle getirmek için öncelikle onun çok iyi bir biçimde analiz edilmesi gerekmektedir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kübizm",
+                "Sembolizm",
+                "Art Deco",
+                "Futurizm",
+                "Sürrealizm"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 40,
+            "question": "I.Dünya Savaşı'nın katliamlarına ve savaşa duyulan nefretten doğan -----, teknolojik ilerlemeye körü körüne bağlanmanın yüzeyselliğini, toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto etmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Art Deco",
+                "Futurizm",
+                "Kubizm",
+                "Sürrealizm",
+                "Dadizm"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565285"
+        },
+        {
+            "id": 41,
+            "question": "İnsanlık tarihinin ilk resimli el yazmalarının ortaya çıktığı medeniyet aşağıdakilerden hangisidir?",
+            "options": [
+                "İnka",
+                "İndus",
+                "Mısır",
+                "Sümer",
+                "Maya"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 42,
+            "question": "Aşağıdakilerden hangisi Ukiyoe'nin tanımıdır?",
+            "options": [
+                "Japon siyah-beyaz mürekkep resmidir.",
+                "Japon ahşap baskı sanatıdır.",
+                "Japon Sumi-e'nin renkli versiyonudur.",
+                "Japon peyzaj düzenleme tekniğidir.",
+                "Japon iç mekan tasarım sanatıdır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 43,
+            "question": "------- akımı tasarımdaki öznelciliğe karşı bir duruş sergilemekte olup, eğrisel çizgisel ve yuvarlatılmış formlara sahip her öge bu akımda dışlanmıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Art Deco",
+                "Futurizm",
+                "Art Nouveau",
+                "Kubizm",
+                "De Stijl"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 44,
+            "question": "------- büyük harf ve ------- küçük harf demektir. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?",
+            "options": [
+                "Majiskül / Miniskül",
+                "Tam/Yarım",
+                "Altı Çizili / Çizgisiz",
+                "Serif / Sanserif",
+                "İtalik / Bold"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 45,
+            "question": "Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Logotype",
+                "Kolofon",
+                "Monogram",
+                "İnfografik",
+                "Piktogram"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 46,
+            "question": "Futura yazı karakteri ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Tırnaklı bir yazı tipidir.",
+                "Futura gelecek anlamına gelmektedir.",
+                "Minimal bir yapıya sahiptir.",
+                "Paul Renner tarafından tasarlanmıştır.",
+                "Geometrik formlara dayalıdır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 47,
+            "question": "Aşağıdakilerden hangisi sanat terimi olan Avangard'ın tanımıdır?",
+            "options": [
+                "Klasik dönemi savunanları tanımlamaktadır.",
+                "Rönesans döneminde altın oranı tanımlamaktadır.",
+                "Resimde anatomik yapıyı tanımlamaktadır.",
+                "Orta çağ mimarisinde abartılı elemanları tanımlamaktadır.",
+                "İlerici ve deneysel sanatı tanımlamaktadır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 48,
+            "question": "Aşağıdakilerden hangisi 1950'lerin başlarında televizyon ve bilgisayar oluşum çağını başlatan stildir?",
+            "options": [
+                "De Stijl",
+                "Yeni Tipografik Stil",
+                "Pop Art",
+                "Kurumsal Stil",
+                "Victoria Stili"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 49,
+            "question": "Aşağıdakilerden hangisi Rusya'da ortaya çıkan Konstrüktivizm akımının kurucu sanatçılarından biridir?",
+            "options": [
+                "Vladimir Tatlin",
+                "Stenberg kardeşler",
+                "Fillippo Marinetti",
+                "Liubov Popova",
+                "Lazar Markovich Lissitzki"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 50,
+            "question": "Görsel verileri en basit haline indirgeyen çizelgeye veya grafiğe ne ad verilir?",
+            "options": [
+                "Telegram",
+                "Diagram",
+                "İsogram",
+                "Monogram",
+                "Piktogram"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 51,
+            "question": "Genellikle tanıtım ve duyuru amaçlı yapılan resimli ve yazılı duvar ilanlarına ne ad verilir?",
+            "options": [
+                "Font ailesi",
+                "Font",
+                "Tipografi",
+                "Afiş",
+                "Fotoğraf"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 52,
+            "question": "Aşağıdakilerden hangisi Uluslararası Tipografik Stil'in tasarım prensiplerinden biri <u>değildir</u>?",
+            "options": [
+                "Evrensel, bütünlük",
+                "Süslemeler",
+                "Düzen",
+                "Netlik",
+                "Geometrik soyutlama"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 53,
+            "question": "Aşağıdakilerden hangisi Psychedelic sanatın görsel anlamda tanımlanmasında öne çıkan sanatçılardan biri <u>değildir</u>?",
+            "options": [
+                "Rick Griffin",
+                "Wes Wilson",
+                "Andy Warhol",
+                "Stanley Mouse",
+                "Victor Moscoso"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 54,
+            "question": "Oransal kırılma özelliği gösteren karmaşık geometrik şekillere ne ad verilir?",
+            "options": [
+                "Flog",
+                "Kaleidoskop",
+                "Optik",
+                "Fraktal",
+                "Postmodern"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 55,
+            "question": "Wes Wilson tarafından yapılan aşağıdaki savaş karşıtı afişlerden hangisi baskın renkleri, politik mesajı ve farklı estetik düzenlemesi ile dikkat çekmiştir?",
+            "options": [
+                "Skeleton and Roses",
+                "Are we Next? Be Aware",
+                "In Utero",
+                "Pop Goes Poster",
+                "Family Dog"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 56,
+            "question": "Aşağıdakilerden hangisi yazı karakteri formatlarından biridir?",
+            "options": [
+                "RTF",
+                "BTF",
+                "TTF",
+                "CTF",
+                "STF"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 57,
+            "question": "Aşağıdakilerden hangisi Psychedelic sanata ait özelliklerden biridir?",
+            "options": [
+                "Fraktal desenlerin kullanımı ve tekrar eden motifler",
+                "Konularının gerçekçi temalar içermesi",
+                "Sadece siyah ve beyaz renklerin kullanılması",
+                "İmgelerin net bir biçimde algılanır olması",
+                "Tasarımın tam olarak doldurulmaması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 58,
+            "question": "Gazete, dergi, kitap gibi yayınlardaki sayfa düzenine ne ad verilir?",
+            "options": [
+                "Postscript",
+                "İndesign",
+                "Modem",
+                "Arayüz",
+                "Mizanpaj"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 59,
+            "question": "Aşağıdakilerden hangisi dijital ortamda yazı tasarlamak için üretilen programlardan biridir?",
+            "options": [
+                "Aldus Pagemaker",
+                "Macromedia Freehand",
+                "Adobe Indesign",
+                "Fontlab",
+                "Adobe Photoshop"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 60,
+            "question": "Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere ne ad verilir?",
+            "options": [
+                "Katman",
+                "Izgara",
+                "Metin",
+                "Çerçeve",
+                "Sayfa no"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "492757"
+        },
+        {
+            "id": 61,
+            "question": "İletilmek istenen fikir veya kavramı, fiziksel forma gönderme yapmadan belirten grafik elemanlara ne ad verilir?",
+            "options": [
+                "Therianthropi",
+                "Sufumato",
+                "Sembol",
+                "Stylus",
+                "Piktogram"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 62,
+            "question": "Aşağıdakilerden hangisi Art Nouveau sanat hareketinin esinlendiği kaynaklardan biri <u>değildir</u>?",
+            "options": [
+                "Fransız kabare kültürü",
+                "Psikoloji bilimi",
+                "Doğal motifler",
+                "Rubens, Fragonard gibi romantik dönem ressamları",
+                "Japon ahşap baskıları"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 63,
+            "question": "Marcel Duchamp aşağıdaki modern sanat akımlarından hangisinin temsilcilerinden biridir?",
+            "options": [
+                "Kubizm",
+                "Futurizm",
+                "Sürrealizm",
+                "De Stijl",
+                "Dadaizm"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 64,
+            "question": "Başka tekniolojisini Avrupa'ya getiren kaşif aşağıdakilerden hangisidir?",
+            "options": [
+                "Ugolino Vivaldi",
+                "Kristof Kolomb",
+                "Marco Polo",
+                "Pîrî Reis",
+                "Ricoldus de Monte Crucis"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 65,
+            "question": "Yazı karakterlerdeki harflerin kalınlığı için kullanılan terime ne ad verilir?",
+            "options": [
+                "Et kalınlığı",
+                "Miniskül",
+                "Majiskül",
+                "Grotesk",
+                "Neo-Grotesk"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 66,
+            "question": "Aşağıdakilerden hangisi Konstrüktivizm akımının Türkçe karşılığıdır?",
+            "options": [
+                "Yapıcılık",
+                "İnşacılık - Yapısalcılık",
+                "Yapısökümcülük",
+                "Gerçeküstücülük",
+                "Azcılık"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 67,
+            "question": "Bauhaus'ta tipografi ve reklam ürünleri tasarımında çalışmalar yapan, yazı tipi tasarımlarında basitlik ve işlevselliği ön planda tutan, ayrıca açık hava reklamları ve stant tasarımlarına öncülük eden tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Hannes Meyer",
+                "Walter Gropius",
+                "Herbert Bayer",
+                "Marcel Lajos Breuer",
+                "Georg Schmidthammer"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 68,
+            "question": "Futura yazı karakteri ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Futura gelecek anlamına gelmektedir.",
+                "Tırnaklı bir yazı tipidir.",
+                "Geometrik formlara dayalıdır.",
+                "Minimal bir yapıya sahiptir.",
+                "Paul Renner tarafından tasarlanmıştır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 69,
+            "question": "Alexander Rodchenko'nun tasarımlarında estetik kaygıların ötesinde öncelik verdiği unsurlar aşağıdakilerden hangisidir?",
+            "options": [
+                "İnsan figürünün merkeze alınması ve duygusal ifadelerin ön plana çıkarılması",
+                "Soyut ifadelerin kullanımı ve duygusal derinlik",
+                "Fotomontaj tekniklerinin ustaca kullanımı ve film tekniğiyle benzerlikler",
+                "Özgün tipografi kullanımı ve basit, anlaşılabilir tasarım anlayışı",
+                "Natüralist anlatımların tercih edilmesi ve organik formların vurgulanması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 70,
+            "question": "Helvetica yazı tipinin 1960'larda uluslararası alanda popüler hale gelmesinin nedeni aşağıdakilerden hangisidir?",
+            "options": [
+                "Helvetica, savaş sonrası iyimserliği ve geleceğe dair umutları temsil ediyor olması",
+                "Helvetica, Akzidenz Grotesk'ten daha modern ve minimalist bir tasarıma sahip olması",
+                "Helvetica, New York Metrosu gibi büyük projelerde kullanılmış olması",
+                "Helvetica, Massimo Vignelli gibi tanınmış tasarımcılar tarafından destekleniyor olması",
+                "Helvetica, Avrupa ve ABD'de yaygın olarak kullanılan bir yazı tipi olması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 71,
+            "question": "İsviçre Stili'nin temel ilkeleriyle ilgili aşağıdaki ifadelerden hangisi <u>doğrudur</u>?",
+            "options": [
+                "İsviçre Stili, sanatçının öznelliğini vurgulamayı amaçlar.",
+                "Grafik tasarımın temel ilkeleri, İsviçre Stili'nin temel felsefesine ters düşer.",
+                "Uluslararası Tipografik Stil, kişisel ifadeyi teşvik eder.",
+                "İsviçre Stili, netlik, minimalizm ve düzen gibi ilkeleri benimser.",
+                "İsviçre Stili, karmaşıklık ve süslemeleri teşvik eder."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 72,
+            "question": "Wes Wilson tarafından yapılan aşağıdaki savaş karşıtı afişlerden hangisi baskın renkleri, politik mesajı ve farklı estetik düzenlemesi ile dikkat çekmiştir?",
+            "options": [
+                "Pop Goes Poster",
+                "Skeleton and Roses",
+                "In Utero",
+                "Family Dog",
+                "Are we Next? Be Aware"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 73,
+            "question": "Sembollerin logo tasarımında kullanılmasının önemi ve etkileriyle ilgili aşağıdaki ifadelerden hangisi <u>doğrudur</u>?",
+            "options": [
+                "Logo tasarımında sembollerin kullanımı, metinlerin anlaşılmasını sağlamak için gereklidir.",
+                "Semboller, logo tasarımında karmaşıklığı artırarak iletişimi güçleştirir.",
+                "Semboller, logo tasarımında metaforik iletişimi teşvik etmek için kullanılır.",
+                "Logo tasarımında sembollerin kullanımı, markanın neyle ilgili olduğunu özetleyen benzersiz bir sembol oluşturmayı amaçlar.",
+                "Logolar, sembollerin karmaşık ve gizemli olmasını gerektirir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 74,
+            "question": "Oransal kırılma özelliği gösteren karmaşık geometrik şekillere ne ad verilir?",
+            "options": [
+                "Fraktal",
+                "Floral",
+                "Postmodern",
+                "Kaleidoskop",
+                "Optik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 75,
+            "question": "Henri Micaux, 1956'da \"Miserabla Miracle\" adlı eseriyle aşağıdaki sanat akımlarından hangisinin öncüsü olarak kabul edilir?",
+            "options": [
+                "İmpresyonizm",
+                "Rönesans",
+                "Romantizm",
+                "Barok",
+                "Psychedelic"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 76,
+            "question": "______ ile karmaşık şekiller oluşturulabilir, pürüzsüz uç noktalar, onları özellikle harf formları ve bilgisayar grafikleri oluşturmak için kullanışlı hale getirir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Postscript",
+                "Mizanpaj",
+                "Bezier eğrileri",
+                "Arayüz",
+                "İnternet"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 77,
+            "question": "Pop Sanat akımının kökenleri aşağıdakilerden hangisine dayanmaktadır?",
+            "options": [
+                "Rönesans döneminin perspektif tekniğine",
+                "Orta Çağ dini temalı eserlere",
+                "Antik Yunan dönemi estetik anlayışına",
+                "19. yüzyıl sanayileşme ve kapitalist değerlerin yükselişine",
+                "Barok döneminin heykelsi üslubuna"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 78,
+            "question": "Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere ne ad verilir?",
+            "options": [
+                "Layout",
+                "Grid (Izgara)",
+                "Miniskül",
+                "Forma",
+                "Trajan"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 79,
+            "question": "____ bilgilendirme ve yönlendirme işaretleri, sergi alanları ve açık hava reklamcılığını içerir. Bunun yanı sıra çevremizde kurulu yapılardaki tüm tasarım ögelerini de kapsar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Dijital tasarım",
+                "İç mekan tasarımı",
+                "Yazı tasarımı",
+                "Sayfa tasarımı",
+                "Çevresel tasarım"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 80,
+            "question": "Aşağıdakilerden hangisi yazı karakteri formatlarından biridir?",
+            "options": [
+                "TTF",
+                "CTF",
+                "RTF",
+                "BTF",
+                "STF"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571097"
+        },
+        {
+            "id": 81,
+            "question": "Orta Çağ Avrupası'ndaki el yazmaları ve yazı stilleri hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Romanesk Dönem'de el yazmalarının sayısının arttığı gibi manastırlar ve kiliselerin sayısı da artmıştır.",
+                "Carolingian yazı stili, yalnızca büyük harflerden oluşmuş ve küçük harfler içermemiştir.",
+                "Gotik Dönem'deki \"Textura\" yazı stili, metinleri daha açık ve geniş alanlı hale getirerek okunabilirliği artırmıştır.",
+                "Kelt el yazmalarında, gerçekçi figürler ve doğal manzaralar ön planda olup, soyut desenler kullanılmamıştır.",
+                "Şarlman döneminde, Yorklu Alcuin tarafından geliştirilen Carolingian yazı stili, yalnızca dini metinler için kullanılmıştır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 82,
+            "question": "Aşağıdaki yazı yüzeylerinin hangisinin daha kaliteli versiyonuna \"Vellum\" denilmiştir?",
+            "options": [
+                "Mermer",
+                "Parşömen",
+                "Kil tablet",
+                "Papirüs",
+                "Kağıt"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 83,
+            "question": "Aşağıdakilerden hangisi Baskerville'in tipografi alanındaki çalışmalarının temel amacını en iyi şekilde tamamlar?",
+            "options": [
+                "Müzik tipografisi üzerine öncü çalışmalar yapmak",
+                "Matematiksel olarak yazı karakterleri geliştirmek",
+                "Rokoko tarzı dekoratif süslemeleri kitaplara uygulamak",
+                "William Caslon'un yazı tiplerini tamamen değiştirerek yeni bir estetik yaratmak",
+                "Caslon'un yazı tiplerini daha okunaklı hale getirerek mükemmelleştirmek"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 84,
+            "question": "Yeni çağın gelecekteki tüm tipografi çalışmalarının temel taşı olacak hümanist roman yazı yüzünü yaratan kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Erhard Ratdolt",
+                "Claude Garamond",
+                "Henri Estiennes",
+                "Nicholas Jenson",
+                "Geoffroy Tory"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 85,
+            "question": "Aşağıdakilerden hangisi Art Nouveau sanat hareketinin esinlendiği kaynaklardan biri <u>değildir</u>?",
+            "options": [
+                "Psikoloji bilimi",
+                "Japon ahşap baskıları",
+                "Fransız kabare kültürü",
+                "Doğal motifler",
+                "Rubens, Fragonard gibi rokoko dönem ressamları"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 86,
+            "question": "Arts and Crafts (Sanat ve Zanaat) Hareketi'nin temel prensipleri ve hedefleri göz önüne alındığında, aşağıdaki ifadelerden hangisi bu hareketin içsel çelişkisini en iyi şekilde yansıtmaktadır?",
+            "options": [
+                "Endüstriyel devrimin getirdiği makineleşmenin karşı potansiyelini reddetmemeleri aynı zamanda",
+                "Geçmişin zanaat tekniklerini canlandırmayı hedeflerken, yeni ve özgün tasarımlar yaratmaya çalışmaları",
+                "Toplumsal bir değişim yaratmayı hedeflerken, daha çok elit bir kesime hitap eden ürünler üretmeleri",
+                "El emeğinin değerini savunurken, üretim maliyetlerini yeterince hesaplayamamaları",
+                "Sanat ve zanaatı birleştirmeyi amaçlarken, farklı sanat disiplinlerinden sanatçıları bir araya getirmekte zorlanmaları"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 87,
+            "question": "Üretici ve el işçiliğini bir araya getirmenin çabası, modern yaşam, makine çağı kültürüne ait motifler, tüketim kültürüne gönderme gibi özellikler aşağıdaki akımlardan hangisine aittir?",
+            "options": [
+                "Kubizm",
+                "Dada",
+                "Futurizm",
+                "Sürrealizm",
+                "Art Deco"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 88,
+            "question": "Manifestoların tasarım ve sunumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Manifestolar genellikle renkli ve ciddiyetsiz tipografiye sahiptir.",
+                "Manifestolar genellikle sert siyah-beyaz tipografiyle sunulur.",
+                "Manifestolar her zaman renkli ve gösterişli olmaya özen gösterir.",
+                "Manifestoların çoğu grafik olarak dikkat çekici ve renklidir.",
+                "İlk sanat manifestolarından biri 1918'de Le Figaro'da basılmıştır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 89,
+            "question": "Jan Tschichold ve Yeni Tipografi ile ilgili aşağıdakilerden hangisi doğrudur?",
+            "options": [
+                "Adrian Frutiger, \"Die Neue Typografie\" kitabını yazmış ve Konstrüktivizm'den etkilenmiştir.",
+                "Yeni Tipografi, süslemelerden uzak ve işlevsel bir tasarım anlayışını benimsemiştir.",
+                "Paul Renner, Yeni Tipografi manifestolarını yazmış ve Univers yazı tipini tasarlamıştır.",
+                "Jan Tschichold, tipografide süslemeleri geleneksel tasarımları savunmuş ve reddetmiştir.",
+                "Jan Tschichold, Bauhaus'un bir üyesi olarak Futura yazı tipini tasarlamıştır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 90,
+            "question": "------------ büyük harf ve ------------ küçük harf demektir.<br>Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?",
+            "options": [
+                "Altı Çizili / Çizgisiz",
+                "İtalik / Bold",
+                "Tam/Yarım",
+                "Majiskül / Miniskül",
+                "Serif / Sanserif"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 91,
+            "question": "Aşağıdakilerden hangisi Rusya'da ortaya çıkan Konstrüktivizm akımının kurucu sanatçılarından biridir?",
+            "options": [
+                "Vladimir Tatlin",
+                "Liubov Popova",
+                "Fillippo Marinetti",
+                "Stenberg kardeşler",
+                "Lazar Markovich Lissitzki"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 92,
+            "question": "Aşağıdakilerden hangisi Uluslararası Tipografik Stil'in tasarım prensiplerinden biri <u>değildir</u>?",
+            "options": [
+                "Düzen",
+                "Netlik",
+                "Süslemeler",
+                "Geometrik soyutlama",
+                "Bütünlük"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 93,
+            "question": "Helvetica yazı tipinin uluslararası üne kavuşmasında en önemli katkıyı sağlayan tasarımcı ve proje aşağıdakilerden hangisidir?",
+            "options": [
+                "Max Miedinger ve Eduard Hoffmann'ın \"Neue Haas Grotesk\" tasarımı",
+                "H. Berthold AG dökümhanesinin Akzidenz Grotesk yazı tipi",
+                "Massimo Vignelli ve Bob Noorda'nın New York Metrosu için tasarladığı görsel kimlik",
+                "Gary Hustwit'in 2007 yılında çektiği \"Helvetica\" belgeseli",
+                "İsviçre tasarımında 1950'lerde yaşanan modernist dönüşüm"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 94,
+            "question": "Genellikle tanıtım ve duyuru amaçlı yapılan resimli ve yazılı duvar ilanlarına ne ad verilir?",
+            "options": [
+                "Fotoğraf",
+                "Font",
+                "Font ailesi",
+                "Afiş",
+                "Tipografi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 95,
+            "question": "Op Sanatı sanatçıları ve eserleriyle ilgili ifadelerden hangisi doğrudur?",
+            "options": [
+                "Bridget Riley, \"Fall\" eserinde yatay çizgilerle sabit bir görüntü algısı yaratmıştır.",
+                "Richard Anuszkiewicz, \"Ters Artı\" eserinde tek bir renk tonuyla optik etki oluşturmuştur.",
+                "Victor Vasarely, \"Zebra\" eserinde siyah ve beyaz zıtlığını kullanarak Op Sanatını başlatmıştır.",
+                "Victor Vasarely, \"Vega Mavisi\" eserinde matematiksel desenler kullanmaktan kaçınmıştır.",
+                "Bridget Riley, \"Katarakt 3\" eserinde sadece siyah ve beyaz renklerle çalışarak yanılsama yaratmıştır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 96,
+            "question": "Oransal kırılma özelliği gösteren karmaşık geometrik şekillere ne ad verilir?",
+            "options": [
+                "Floral",
+                "Postmodern",
+                "Fraktal",
+                "Kaleidoskop",
+                "Optik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 97,
+            "question": "Postmodernizmin grafik tasarıma katkıları aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+            "options": [
+                "Wolfgang Weingart, tipografik kuralları sorgulayarak görsel efektler ve sezgisel tasarımlarla İsviçre stilini dönüştürmüştür.",
+                "Wolfgang Weingart'ın \"Staatlicher\" afişi, düzenli yazı öbekleri ve sabit bir kompozisyonla geleneksel tipografiyi yansıtmaktadır.",
+                "April Greinman, tasarımlarında derinlik ve üç boyutlu hissi reddederek düzlemsel bir estetik benimsemiştir.",
+                "Postmodernizm, İsviçre stilinin tipografik düzenini güçlendirmiş ve deneysel yaklaşımlardan uzak durmuştur.",
+                "\"Yeni Dalga\" yaklaşımı, modernist tasarım ilkelerine bağlı kalarak bilgisayar kullanımını tamamen dışlamıştır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 98,
+            "question": "Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere ne ad verilir?",
+            "options": [
+                "Metin",
+                "Izgara",
+                "Çerçeve",
+                "Sayfa no",
+                "Katman"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 99,
+            "question": "Bilgisayar teknolojisinin görsel iletişim tasarımına getirdiği en önemli katkı aşağıdakilerden hangisidir?",
+            "options": [
+                "Tasarımların daha fazla kişiye ulaşmasını sağlaması",
+                "Tasarım sektöründe rekabeti artırması",
+                "Tasarımcıların çalışma hızını artırması",
+                "Tasarım sürecinin maliyetini düşürmesi",
+                "Görülmemiş görüntüler ve formlar yaratma olanağı sağlaması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 100,
+            "question": "Tim Berners-Lee ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Film başlıkları tasarımında \"Geç Saul Bass\" tarzını geliştiren kişidir.",
+                "Hollywood Reporter'da film eleştirmeni olarak çalışmıştır.",
+                "İnteraktif medya kavramını ilk tanımlayan kişidir.",
+                "Imaginary Forces şirketinin kurucularından biridir.",
+                "Cenevre'deki İsviçre Nükleer Araştırmalar için görev yapan bir fizikçidir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622593"
+        },
+        {
+            "id": 101,
+            "question": "İbn Mukle'nin yazı sanatındaki önemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Ucu çapraz kesik kalemi hat sanatına kazandırmıştır.",
+                "Parşömenlerin yüzeyini kaligrafiye uygun hale getirmiştir.",
+                "İlk hattat okulunu açmış ve yönetmiştir.",
+                "Geometri kurallarına dayalı ve oranlı bir yazı stili önermiştir.",
+                "Minyatür sanatını el yazmalarına kullanmıştır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 102,
+            "question": "Kullanılan harflerin bir sesi işaret ettiği sesçil (fonetik) alfabeyi ilk kullanan uygarlık aşağıdakilerden hangisidir?",
+            "options": [
+                "Fenike",
+                "İndus",
+                "Mısır",
+                "Çin",
+                "Roma"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 103,
+            "question": "İlk ahşap baskılarda aşağıdaki temalardan hangisi <u>kullanılmamıştır</u>?",
+            "options": [
+                "Dini imgeler",
+                "Oyun Kartları",
+                "Azizler",
+                "İllüstrasyonlar",
+                "Krallar"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 104,
+            "question": "Aşağıdakilerden hangisi Avrupa'da 14. yüzyılda uygulanmaya başlanan ahşap blok baskının bilinen ilk örneklerinden biridir?",
+            "options": [
+                "Ars Moriendi",
+                "Dört Azizli Bakire ve Çocuk",
+                "Mappa Mundi",
+                "Sibyls Kitabı",
+                "Biblia Latina"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 105,
+            "question": "Aşağıdaki yapılardan hangisi Osmanlı dönemi Art Nouveau örneklerinden biri <u>değildir</u>?",
+            "options": [
+                "Tayyare Evleri",
+                "Edirne Garı",
+                "Ankara Resim Heykel Müzesi",
+                "Ankara IV. Vakıfhanı",
+                "Ahmet Ratıp Paşa Köşkü"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 106,
+            "question": "Aşağıdakilerden hangisi litografi (taş baskı) tekniğinde kullanılan malzemelerden biri <u>değildir</u>?",
+            "options": [
+                "Yağlı Mürekkep",
+                "Arap Sakızı",
+                "Terebentin",
+                "Talaş",
+                "Su"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 107,
+            "question": "Aşağıdakilerden hangisi Ukiyoe'nin tanımıdır?",
+            "options": [
+                "Japon siyah-beyaz mürekkep resmidir.",
+                "Japon ahşap baskı sanatıdır.",
+                "Japon Sumi-e'nin renkli versiyonudur.",
+                "Japon peyzaj düzenleme tekniğidir.",
+                "Japon iç mekan tasarım sanatıdır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 108,
+            "question": "Modern sanat ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Modern sanat için makineleşme geleceğin sembolü olarak görülmüştür.",
+                "Sanat için sanat değil, toplum için sanat üretme anlayışı yaygınlaşır.",
+                "Modern sanatta her şey bireyi ilgilendirir.",
+                "Modern sanat için sanat ve endüstriyi ayırmak gereklidir.",
+                "Sanatçılar yapıtlarında daha çok kendi bireysel yaklaşımlarını vermeye çalışmışlardır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 109,
+            "question": "Tekrar eden harfler ile ses kavramını ifade etme denemeleri aşağıdaki sanat akımlarından hangisi ile başlamıştır?",
+            "options": [
+                "Art Deco",
+                "Sürrealizm",
+                "Kubizm",
+                "Dadaizm",
+                "Futurizm"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 110,
+            "question": "Futurist felsefeyi grafik ve reklam tasarımına uyarlayan sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "J.J. Oud",
+                "Fortunato Depero",
+                "Georges Braque",
+                "Pablo Picasso",
+                "A.M. Cassandre"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 111,
+            "question": "Aşağıdakilerden hangisi Zanaatın tanımıdır?",
+            "options": [
+                "İnsanların geçinmek ve hayatlarını devam ettirirken maddeye dayanan gereksinimlerini karşılamak için yapılan ve öğrenim ile birlikte deneyim, ustalık ve beceri gerektiren iş olarak verilen isimdir.",
+                "Elindekiyle yetinme durumu, yeter olarak ortaya konulan iş ve ürünler topluluğudur.",
+                "Çeşitli şekillerde akademik eğitimler sonucu ortaya çıkan iş ve meslek grupları topluluğudur.",
+                "Bir duygunun, tasarımın, güzelliğin vb. dışavurumunda, anlatımında kullanılan yöntemlerin tümüdür.",
+                "Ortaya konulan üstün yaratıcılıkdır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 112,
+            "question": "Aşağıdakilerden hangisi Vkhutemas Okulu tasarım anlayışı ve eğitiminde etkili olan akımlardan biridir?",
+            "options": [
+                "İzlenimcilik",
+                "Video Sanatı",
+                "Konstrüktivizm",
+                "Dışavurumculuk",
+                "Arte Povera"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 113,
+            "question": "Izgara sisteminde derinlikler ve genişliklerin belirlendiği ölçüler hangisidir?",
+            "options": [
+                "Santimetre ve Milimetre",
+                "İnç ve Feet",
+                "Megabayt ve Gigabyte",
+                "Punto ve Ciceros",
+                "Litre Mililitre"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 114,
+            "question": "Aşağıdakilerden hangisi 1950'lerin başlarında televizyon ve bilgisayar oluşum çağını başlatan stildir?",
+            "options": [
+                "De Stijl",
+                "Victoria Stili",
+                "Kurumsal Stil",
+                "Yeni Tipografik Stil",
+                "Pop Art"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 115,
+            "question": "Aşağıdaki film yıldızlarından hangisi Pop Sanatçı Andy Warhol tarafından eserlerinde popüler bir ikon haline getirilmiştir?",
+            "options": [
+                "Marilyn Monroe",
+                "Shirley Temple",
+                "Charlize Theron",
+                "Kevin Spacey",
+                "Audrey Hepburn"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 116,
+            "question": "Psychedelic sanat akımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Psychedelic eserler tamamen gerçekçi bir alt yapıyı temel alarak tasarlanmıştır.",
+                "Psychedelic sanat, zihnin sınırlarının peşine düşen bir sanat akımıdır.",
+                "Psychedelic eserler ortak bir dil içermemektedir ve birlikte ortak bir dile sahip değildirler.",
+                "Psychedelic eserler tamamen siyah ve beyaz renklerden oluşmaktadır.",
+                "Psychedelic eserler Art Nouveau gibi geçmiş sanat hareketlerinden esinlenmemeye özen göstermiştir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 117,
+            "question": "Oransal kırılma özelliği gösteren karmaşık geometrik şekillere ne ad verilir?",
+            "options": [
+                "Kaleidoskop",
+                "Florik",
+                "Optik",
+                "FraktaI",
+                "Postmodern"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 118,
+            "question": "Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere ne ad verilir?",
+            "options": [
+                "Sayfa no",
+                "Metin",
+                "Çerçeve",
+                "Katman",
+                "Izgara"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 119,
+            "question": "Gazete, dergi, kitap gibi yayınlardaki sayfa düzenine ne ad verilir?",
+            "options": [
+                "Mizanpaj",
+                "İnternet",
+                "Postscript",
+                "Arayüz",
+                "Modem"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 120,
+            "question": "Yazıcıların çıktı almasını sağlayan metin, resim ve grafik ögelerini ve sayfadaki yerleşimlerini belirlemek üzere yaratılan sayfa açıklama diline ne ad verilir?",
+            "options": [
+                "Modem",
+                "Arayüz",
+                "İnternet",
+                "Mizanpaj",
+                "Postscript"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "492762"
+        },
+        {
+            "id": 121,
+            "question": "Kullanılan harflerin bir sesi işaret ettiği sesçil (fonetik) alfabeyi ilk kullanan uygarlık aşağıdakilerden hangisidir?",
+            "options": [
+                "Fenike",
+                "Roma",
+                "Mısır",
+                "Çin",
+                "İndus"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 122,
+            "question": "Aşağıdaki yazı yüzeylerinin hangisinin daha kaliteli versiyonuna \"Vellum\" denilmiştir?",
+            "options": [
+                "Kil tablet",
+                "Mermer",
+                "Kağıt",
+                "Parşömen",
+                "Papirüs"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 123,
+            "question": "------ bir veya daha fazla harfin tek bir simge oluşturmak için tasarlanmasıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Logotype",
+                "Monogram",
+                "Piktogram",
+                "Kolofon",
+                "İnfografik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 124,
+            "question": "Matbaacılık tarihinde ilk resimli İncil'i üreten kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Gutenberg",
+                "Martin Luther",
+                "Aldus Manutius",
+                "Albrect Dürer",
+                "Günther Zainer"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 125,
+            "question": "Dünya tarihinde ilk gerçek reklam ajansı aşağıdaki ülkelerden hangisinde açılmıştır?",
+            "options": [
+                "Fransa",
+                "Belçika",
+                "Amerika",
+                "İngiltere",
+                "Almanya"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 126,
+            "question": "Aşağıdakilerden hangisi \"sanatı toplumun yaşam alanı ile buluşturan\" ilk hareket olarak görülmüştür?",
+            "options": [
+                "Dadaizm",
+                "Kontrüktivizm",
+                "Sanat ve Zanaat",
+                "Art Nouveau",
+                "Art Deco"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 127,
+            "question": "Aşağıdakilerden hangisi Art Deco'nun özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "Düz ve keskin hatlar",
+                "Yumuşatılmış formlar",
+                "Çiçekli formlar",
+                "Aydınlık renkler",
+                "Tüketim kültürüne gönderme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 128,
+            "question": "De Stijl sanat akımının başladığı ülke aşağıdaki hangisidir?",
+            "options": [
+                "Hollanda",
+                "İtalya",
+                "İngiltere",
+                "Fransa",
+                "Almanya"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 129,
+            "question": "İlk kez 19. yüzyıl başında opera eserlerini tarif etmek için kullanılan, sonrasında başka disiplinler için de kullanılmaya başlanan ve \"bütünsel sanat eseri\" anlamına gelen Almanca terim aşağıdakilerden hangisidir?",
+            "options": [
+                "Faktura",
+                "Futura",
+                "Tektonik",
+                "Vorkurs",
+                "Gesamtkunstwerk"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 130,
+            "question": "Konstrüktivizm akımının Türkçe karşılığı aşağıdakilerden hangisidir?",
+            "options": [
+                "Gerçeküstücülük",
+                "Yapısökümcülük",
+                "İnşacılık - Yapısalcılık",
+                "Azcılık",
+                "Yapıcılık"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 131,
+            "question": "Futura yazı karakteri ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Minimal bir yapıya sahiptir.",
+                "Paul Renner tarafından tasarlanmıştır.",
+                "Geometrik formlara dayalıdır.",
+                "Tırnaklı bir yazı tipidir.",
+                "Futura gelecek anlamına gelmektedir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 132,
+            "question": "Görsel verileri en basit haline indirgeyen çizelgeye veya grafiğe ne ad verilir?",
+            "options": [
+                "Piktogram",
+                "Telegram",
+                "İsogram",
+                "Diagram",
+                "Monogram"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 133,
+            "question": "Genellikle tanıtım ve duyuru amaçlı yapılan resimli ve yazılı duvar ilanlarına ne ad verilir?",
+            "options": [
+                "Fotoğraf",
+                "Font ailesi",
+                "Tipografi",
+                "Font",
+                "Afiş"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 134,
+            "question": "Wes Wilson tarafından yapılan aşağıdaki savaş karşıtı afişlerden hangisi baskın renkleri, politik mesajı ve farklı estetik düzenlemesi ile dikkat çekmiştir?",
+            "options": [
+                "Skeleton and Roses",
+                "Are we Next? Be Aware",
+                "In Utero",
+                "Family Dog",
+                "Pop Goes Poster"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 135,
+            "question": "İsviçre tipografisini, ızgara sistemini ve grafik tasarımda uygulamış olduğu yeni yöntemleri uluslararası boyutlara taşımayı başaran tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Joseph Müller Brockmann",
+                "Milton Glaser",
+                "Paul Rand",
+                "Saul Bass",
+                "Armin Hoffman"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 136,
+            "question": "Aşağıdakilerden hangisi Psychedelic sanatın görsel anlamda tanımlanmasında öne çıkan sanatçılardan biri <u>değildir</u>?",
+            "options": [
+                "Victor Moscoso",
+                "Wes Wilson",
+                "Andy Warhol",
+                "Stanley Mouse",
+                "Rick Griffin"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 137,
+            "question": "Aşağıdakilerden hangisi Psychedelic sanatı resimlerinde kullanan ilk sanatçı olarak kayıtlara geçmiştir?",
+            "options": [
+                "Sigmund Freud",
+                "Salvador Dali",
+                "Pablo Picasso",
+                "Andy Warhol",
+                "Henri Rousseau"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 138,
+            "question": "------ ile karmaşık şekiller oluşturabilir, pürüzsüz uç noktalar, onlar özellikli harf formları ve bilgisayar grafikleri oluşturmak için kullanışlı hale getirir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Arayüz",
+                "Bezier eğrileri",
+                "Postscript",
+                "İnternet",
+                "Mizanpaj"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 139,
+            "question": "Gazete, dergi, kitap gibi yayınlardaki sayfa düzenine ne ad verilir?",
+            "options": [
+                "Postscript",
+                "Modem",
+                "İnternet",
+                "Mizanpaj",
+                "Arayüz"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 140,
+            "question": "Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere ne ad verilir?",
+            "options": [
+                "Metin",
+                "Izgara",
+                "Katman",
+                "Çerçeve",
+                "Sayfa no"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516201"
+        },
+        {
+            "id": 141,
+            "question": "İnsanlık tarihinin ilk resimli el yazmalarının ortaya çıktığı medeniyet aşağıdakilerden hangisidir?",
+            "options": [
+                "Mısır",
+                "Sümer",
+                "İndus",
+                "İnka",
+                "Maya"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 142,
+            "question": "Fransa'da yalnızca kraliyetin kullanımı için tasarlanan yazı yüzü aşağıdakilerden hangisidir?",
+            "options": [
+                "İtalik",
+                "Roman",
+                "Sans Serif",
+                "Serif",
+                "Romain du Roi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 143,
+            "question": "Kullanılan harflerin bir sesi işaret ettiği sesçil (fonetik) alfabeyi ilk kullanan uygarlık aşağıdakilerden hangisidir?",
+            "options": [
+                "Fenike",
+                "Roma",
+                "Mısır",
+                "İndus",
+                "Çin"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 144,
+            "question": "Aşağıdakilerden hangisi Ukiyo'nin tanımıdır?",
+            "options": [
+                "Japon siyah-beyaz mürekkep resmidir.",
+                "Japon Sumi-e'nin renkli versiyonudur.",
+                "Japon ahşap baskı sanatıdır.",
+                "Japon peyzaj düzenleme tekniğidir.",
+                "Japon iç mekan tasarım sanatıdır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 145,
+            "question": "Aşağıdakilerden hangisi \"sanatı toplumun yaşam alanı ile buluşturan\" ilk hareket olarak görülmüştür?",
+            "options": [
+                "Dadaizm",
+                "Sanat ve Zanaat",
+                "Art Nouveau",
+                "Art Deco",
+                "Kontrüktivizm"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 146,
+            "question": "Eskiden kitapların sonuna konulan başlığı, basımcının adını, tarihini ve yayınevinin amblemini gösteren yazılara ne ad verilir?",
+            "options": [
+                "Kolofon",
+                "Incunabula",
+                "Gravür",
+                "Tipografi",
+                "Litografi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 147,
+            "question": "De Stijl sanat akımının başaladığı ülke aşağıdakilerden hangisidir?",
+            "options": [
+                "İtalya",
+                "Hollanda",
+                "İngiltere",
+                "Fransa",
+                "Almanya"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 148,
+            "question": "Konstrüktivizm akımının özellikleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Konstrüktivizm, İtalyan Rönesansı'ndan esinlenen ve insan figürünü merkeze alan bir sanat anlayışını benimser.",
+                "Konstrüktivizm, 20. yüzyılın başlarında Fransa'da ortaya çıkan bir sanat akımıdır ve özellikle natüralizm ile bilinir.",
+                "Konstrüktivizm, sanat eserlerindeki temel amaç olarak duygusal ifadeyi öne çıkarır ve teknolojiyi ikincil bir rolde tutar.",
+                "Akımın temel prensiplerinden biri olan \"makine estetiği\", sanat eserlerinde mekanik formların ve endüstriyel malzemelerin kullanımını içerir.",
+                "Akımın kurucularından biri olan Vladimir Tatlin, mimari tasarımlarında organik formları tercih etmiştir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 149,
+            "question": "Futurist felsefeyi grafik ve reklam tasarımına uyarlayan sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Pablo Picasso",
+                "J.J. Oud",
+                "A.M. Cassandre",
+                "Georges Braque",
+                "Fortunato Depero"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 150,
+            "question": "Aşağıdakilerden hangisi Süprematizm akımının tanımıdır?",
+            "options": [
+                "Hareketli görüntüler üzerine yoğunlaşarak eserler üretilmiş bir sanat akımıdır.",
+                "Organik formlar üzerine yoğunlaşarak eserler üretilmiş bir sanat akımıdır.",
+                "Bilgisayarla üretilmiş imgeler üzerine yoğunlaşarak eserler üretilmiş bir sanat akımıdır.",
+                "Geometrik formlar üzerine yoğunlaşarak eserler üretilmiş bir sanat akımıdır.",
+                "Opera eserlerinin bütüncüllüğü üzerine yoğunlaşarak eserler üretilmiş bir sanat akımıdır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 151,
+            "question": "Sembollerin logo tasarımında kullanılmasının önemi ve etkileriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Logo tasarımında sembollerin kullanımı, metinlerin anlaşılmasını sağlamak için gereklidir.",
+                "Semboller, logo tasarımında karmaşıklığı artırarak iletişimi güçleştirir.",
+                "Logo tasarımında sembollerin kullanımı, markanın neyle ilgili olduğunu özetleyen benzersiz bir sembol oluşturmayı amaçlar.",
+                "Semboller, logo tasarımında metaforik iletişimi teşvik etmek için kullanılır.",
+                "Logolar, sembollerin ve gizemli olmasını gerektirir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 152,
+            "question": "Futura yazı karakteri ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Tırnaklı bir yazı tipidir.",
+                "Minimal bir yapıya sahiptir.",
+                "Geometrik formlara dayalıdır.",
+                "Futura gelecek anlamına gelmektedir.",
+                "Paul Renner tarafından tasarlanmıştır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 153,
+            "question": "Aşağıdakilerden hangisi Uluslararası Tipografik Stil'in tasarım prensiplerinden biri <u>değildir</u>?",
+            "options": [
+                "Düzen",
+                "Netlik",
+                "Evrensel, bütünlük",
+                "Geometrik soyutlama",
+                "Süslemeler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 154,
+            "question": "Uluslararası Tipografik Stil'in kökenleri aşağıdaki akımlardan hangisine dayanmıştır?",
+            "options": [
+                "Kübizm",
+                "Yeni Tipografi",
+                "Soyut Ekspresyonizm",
+                "Dadaizm",
+                "Sürrealizm"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 155,
+            "question": "1960'lı yıllardan sonra siyah-beyaz ağırlıklı logolara sahip firmaların renkli logo tasarımlarına geçişlerine öncülük eden sanat hareketi aşağıdakilerden hangisidir?",
+            "options": [
+                "Sanat ve Zanaat Hareketi",
+                "Modernizm",
+                "Op Sanatı",
+                "Psychedelic Sanat",
+                "Yeni Sanat Hareketi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 156,
+            "question": "Aşağıdaki sanatçılardan hangisi Pop Sanat hareketine dahil olan eserler vermiştir?",
+            "options": [
+                "Jules Cheret",
+                "Andy Warhol",
+                "Bridget Riley",
+                "Aldoux Huxley",
+                "Toulouse Lautrec"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 157,
+            "question": "Tüketildiğinde estetik bir etki yaratan ama herhangi bir sanat akımı kapsamında değerlendirilemeyen sanat ürünlerini kapsayan bir terimdir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Pychedelic sanat",
+                "Postmodernizm",
+                "Op Art",
+                "Pop Art",
+                "Kitsch"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 158,
+            "question": "Aşağıdakilerden hangisi dijital ortamda yazı tasarlamak için üretilen programlardan biridir?",
+            "options": [
+                "Macromedia Freehand",
+                "Adobe Photoshop",
+                "Adobe Indesign",
+                "Fontlab",
+                "Aldus Pagemaker"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 159,
+            "question": "Bilgisayar ekranında bir fotoğrafı veya resmi görüntülemek için gereken tüm renk bilgilerinin ekranı oluşturan piksel renk bilgileriyle verildiği resim formatlarına genel olarak ne ad verilir?",
+            "options": [
+                "Grid",
+                "Mizanpaj",
+                "Bitmap",
+                "Miniskül",
+                "Layout"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        },
+        {
+            "id": 160,
+            "question": "Aşağıdakilerden hangisi dijital devrimin öncü tasarımcılarından biri <u>değildir</u>?",
+            "options": [
+                "Susan Kare",
+                "Marcel Duchamp",
+                "Sumner Stone",
+                "April Greiman",
+                "Zuzana Licko"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574660"
+        }
+    ]
+}

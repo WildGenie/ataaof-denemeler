@@ -1,0 +1,604 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "\"Biyomimikri\"nin kullanım amacına dair aşağıdaki açıklamalardan hangisi doğrudur?",
+            "options": [
+                "İnsanın karşılaştığı zorlukları çözmek için doğanın tasarımlarından ve süreçlerinden içgörü elde etme uygulamasıdır.",
+                "Doğadaki süreçleri göz ardı ederek mühendislik çözümleri geliştirmek için kullanılır.",
+                "Biyolojik çeşitliliği azaltmak için kullanılır.",
+                "Teknolojik ilerlemeyi durdurmak için kullanılır.",
+                "Canlı organizmaların görsel güzelliklerini sergilemek için kullanılır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 2,
+            "question": "Aşağıdakilerden hangisi bireyin kendi yaşamı üzerinde etkili olma kapasitesini ve seçimlerini yönetebilme gücünü ifade eder?",
+            "options": [
+                "Teslimiyet",
+                "Yöndeşme",
+                "Bağlılık",
+                "Eyleyicilik",
+                "Uyumluluk"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 3,
+            "question": "İnsanın diğer varlıklarla olan hiyerarşik ilişkisini korumaya çalışan ve insanmerkezci yaklaşımı ve bu yaklaşımın getirebileceği çevresel yıkımlar, tür yok oluşları ve insanlık dışı adaletsizlikler sebebiyle diğer posthümanist tutumlar tarafından eleştirilen posthümanizmin alt türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Eleştirel posthümanizm",
+                "Teknolojik posthümanizm",
+                "Felsefi posthümanizm",
+                "Spekülatif posthümanizm",
+                "Kültürel posthümanizm"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 4,
+            "question": "Posthümanizmin grafik tasarıma etkisi hakkında aşağıdaki bilgilerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Geleneksel yazarlık kavramlarına meydan okur.",
+                "Tasarımcıların organik ile sentetik arasındaki sınırları bulanıklaştırmasına yardımcı olur.",
+                "Geleneksel insan merkezli bakış açılarına meydan okuyan ve melezliği, iş birliğini ve etik düşünümselliği benimser.",
+                "Eleştirel düşünceyi, düşünümselliği ve tasarım müdahalelerinin toplumsal etkilerine ilişkin artan farkındalığı teşvik ederek bu zorlukların üstesinden gelmeyi amaçlar.",
+                "Teknolojiyi kullanarak sadece insan olmayan varlıkları vurgular."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 5,
+            "question": "Aşağıdakilerden hangisi posthümanizmi hazırlayan en temel koşullardan biri <u>değildir</u>?",
+            "options": [
+                "Ekoeleştiri",
+                "Antroposantrizm",
+                "Feminizm",
+                "Stoacılık",
+                "Kartezyen İkilik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 6,
+            "question": "Grafik tasarımın sanal topluluklardaki rolü aşağıdakilerden hangisidir?",
+            "options": [
+                "Üyeler arasındaki aidiyet duygusunu zayıflatmak",
+                "İletişimi kolaylaştırmak ve katılımı teşvik etmek",
+                "Sanal toplulukların büyümesini engellemek",
+                "Üyeler arasındaki çatışmayı arttırmak",
+                "Sanal toplulukların görsel kimliğini önemsiz hale getirmek"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 7,
+            "question": "Yapay Zekâ'nın algoritmik kararlarının etik boyutlarına ilişkin aşağıdakilerden hangisi doğrudur?",
+            "options": [
+                "Toplumda varolan önyargıları yansıtmaz.",
+                "Şeffaflığı ve hesap verebilirliği teşvik etmez.",
+                "Veri gizliliği endişelerini artırabilir.",
+                "Sadece belirli demografik gruplara odaklanır ve mevcut eşitsizlikleri ortada kaldırır.",
+                "Her zaman insan müdahalesine ihtiyaç duymadan adil kararlar alır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 8,
+            "question": "I. İnsan, doğa ve teknoloji arasında eşitlikçi bir ilişki kurmayı amaçlar.<br>II. Doğayı sömürülecek bir kaynak olarak görmez.<br>III. Yalnızca insan ihtiyaçlarına odaklanır.<br>IV. Biyoçeşitliliği ve yenileyici süreçleri destekler.<br>V. Sadece teknolojik yenilikleri ön planda tutar.<br>Posthümanist tasarımın sürdürülebilirliğe yaklaşımını ifade eden yukarıdaki bilgilerden hangileri doğrudur?",
+            "options": [
+                "I, II ve III",
+                "I, II ve IV",
+                "II, IV ve V",
+                "I, II, III ve IV",
+                "II, III, IV ve V"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 9,
+            "question": "Aydınlanma Çağı'nda pekiştirilen insanın, rasyonellik temelli bilimler ve teknolojiler yoluyla sürekli ilerlemesi üzerine kurulu olduğunu ifade eden kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Determinizm",
+                "Postmodernizm",
+                "Transhümanizm",
+                "Posthümanizm",
+                "Hümanizm"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 10,
+            "question": "Rhino 3D yazılımı için geliştirilmiş bir görsel programlama dili eklentisi olan ve parametrik ve generatif tasarım için yaygın olarak kullanılan yazılım veya platform aşağıdakilerden hangisidir?",
+            "options": [
+                "Grasshopper",
+                "Google Docs",
+                "Microsoft Word",
+                "PowerPoint",
+                "Blender"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 11,
+            "question": "I. Gözlemci ve eleştirel bir türdür.<br>II. İnsanın bilgi ve kavramasını genişletme, ekonomi, kültür ve insan ilişkilerine yönelik çözümler sunma ve uyarma amaçlı yapımlar ortaya koyan çalışmalardır.<br>III. Cansız varlıkları antropomorfize ederek onlara insan özellikleri atfetme geleneği, posthümanist düşünce ile zengin bir diyalog kurmaktadır.<br>IV. \"Cow belgeseli\" izleyicileri hayvanların deneyimlerine empatiyle yaklaşmaya davet eden bir yapımdır.<br>Yukarıdakilerden hangisi ya da hangileri belgesel filmler ve posthümanizm ilişkisi açısından <u>yanlıştır</u>?",
+            "options": [
+                "Yalnız I",
+                "Yalnız III",
+                "I ve II",
+                "III ve IV",
+                "I, II ve IV"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 12,
+            "question": "------- ileri düzey bir ses formatıdır. Sesin yalnızca yatay düzlemde değil, dikey düzlemde de hareket etmesine olanak tanıyan bir \"üç boyutlu\" ses deneyimi sunar.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "VFX",
+                "Shotcut",
+                "DTS-HD",
+                "CGI",
+                "Dolby Atmos"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 13,
+            "question": "Bilgisayarlı biçim bulma yöntemleriyle sanal ortamda oluşan, robotik kapasiteleriyle kendi kendine inşa olan, sensörleriyle algılayan, yapay zekâsıyla nasıl adapte olacağına karar veren ve bünyesine katılmış robot kolu sayesinde yeni bileşenlerle kendini dönüştürebilen bir mekân deneyi olarak \"-\", doğalla yapayın yeniden aynı zeminde buluşması açısından incelemeye değerdir.",
+            "options": [
+                "Burj Khalifa",
+                "Fallingwater",
+                "Haydar Aliyev Kültür Merkezi",
+                "Sydney Opera Binası",
+                "Elytra Filament Pavilion"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 14,
+            "question": "Ekrandaki gerçekliği artırmak amacıyla canlı görüntülerle harmanlanan bilgisayar tarafından oluşturulmuş veya manipüle edilmiş görüntülere ne ad verilir?",
+            "options": [
+                "VFX (Görsel efektler)",
+                "Scripting",
+                "Processing",
+                "Neuralink",
+                "Matte painting"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 15,
+            "question": "Aşağıdakilerden hangisi Hümanist ortaklaştığı geleneklerin değerlerden biri <u>değildir</u>?",
+            "options": [
+                "Merhamet ve adalet değerleri",
+                "İnsanın kapasitelerine ve özellikle aklına ve üretimlerine güven",
+                "Yüzlerce yıl içinde kendisini hümanist olarak adlandıran toplulukların bakışları aynıdır ve değişmemiştir.",
+                "Göksel değerler karşısında dünyevi yaşamın merkeziliğine yapılan vurgu",
+                "İnsanın potansiyellerinin seküler bir eğitim ve kültürlenme yoluyla açığa çıkarılacağına dönük arayış"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 16,
+            "question": "I. Romantikler, binayı bir canlı beden gibi görerek büyüyüp gelişen ve sonunda eskiyeni bir yapı olarak ele almışlardır.<br>II. Boullée, insan bedeninden hoşlandığımız için simetrik binaları da beğendiğimizi savunmuştur.<br>III. Fütüristler, geçmişin sanatsal ve mimari unsurlarına dayanan bir estetik anlayışı savunmuşlardır.<br>IV. Modernist mimarlar, yeni çağın endüstriyel koşullarına uygun yeni mimari tavırlar geliştirmeyi savunmuşlardır.<br>Yukarıdaki mimari anlayışlarla ilgili bilgilerden hangileri doğrudur?",
+            "options": [
+                "I ve III",
+                "III ve IV",
+                "I, II ve III",
+                "I, II ve IV",
+                "II, III ve IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 17,
+            "question": "Yapay zekâ tarafından desteklenen senaryo analiz araçları aşağıdaki işlevlerden hangisini yerine getirmesi <u>daha zordur</u>?",
+            "options": [
+                "Diyalogları ve eylem tanımlarını analiz ederek karakter gelişimini takip etme",
+                "Senaryolardaki temaları ve tekrar eden fikirleri tanımlama",
+                "Senaryoyu perde, sekans ve sahneler olarak ayırarak hikâyenin gelişimini görselleştirme",
+                "Derin katmanlarda fark edilmeyen temaları ortaya çıkarma",
+                "Senaryonun gişe başarısını tahmin etme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 18,
+            "question": "Postapokaliptik filmlerle ilgili aşağıdaki bilgilerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Postapokaliptik filmler, genellikle insanın mekanik unsurlarla olan ilişkisini ele almaz.",
+                "Genellikle dünya üzerinde büyük bir felaketin sonucunda geçen hikâyeleri anlatır.",
+                "Mad Max: Fury Road (2015) postapokaliptik filmlere örnektir.",
+                "Filmlerde genellikle doğal afetler, nükleer savaşlar veya salgın hastalıklar sonucu, dünya büyük bir yıkıma uğramıştır.",
+                "Felaket sonrasında kalan toplumların hayatta kalma mücadelesini konu edinir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 19,
+            "question": "Aşağıdaki mimarlık eserlerinden hangisi, nesneden bağımsız bir mimarlık anlayışını temsil eden, \"katı bedenlere dayanmayan\" bir yapı olarak öne çıkmıştır?",
+            "options": [
+                "Guggenheim Müzesi, Bilbao, İspanya",
+                "Fallingwater (Şelale Evi), ABD",
+                "Lloyd's Binası, Londra, İngiltere",
+                "Blur Binası, İsviçre",
+                "Sydney Opera House, Avustralya"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 20,
+            "question": "Mimaride binayı insan bedeni üzerinden anlama girişiminin arkasında mimarlığı Aristotelesçi sanat olarak tarifleyebilme arayışı \"_______\" yatıyordu.",
+            "options": [
+                "minimalist",
+                "tektonik",
+                "mimetik",
+                "fütürist",
+                "fonksiyonel"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591750"
+        },
+        {
+            "id": 21,
+            "question": "Posthümanizm, ekoeleştiri ve yeni maddecilik alanlarındaki pek çok bilimsel çalışmanın kökenini oluşturan siborg, yoldaş türler, konumlu bilgiler gibi kavramları ortaya atan ve tartışmaya açan bilim insanı aşağıdakilerden hangisidir?",
+            "options": [
+                "Didier Grumbach",
+                "Thomas Wendt",
+                "Andrea Arnold",
+                "Zaha Hadid",
+                "Donna J. Haraway"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 22,
+            "question": "Felsefi posthümanizm ile ilişkilendirilebilecek filmler, insanların fiziksel ve zihinsel kapasitelerini artırmak için teknolojileri kullanmalarını konu alır. Yönetmenliğini Paul Verhoeven'ın yaptığı RoboCop (1987) ve Neill Blomkamp'ın Elysium (2013) filmleri bu anlayışı içeren filmlerdir.<br>Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "alternatif yaşam biçimleri",
+                "teknolojik yükseltmeler (augmentations)",
+                "yaratıcı yazılım teknikleri",
+                "sosyal ilişkiler",
+                "doğal yöntemler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 23,
+            "question": "Kullanıcı deneyimi tasarımında, multimedya ögelerinin (videolar, resimler, animasyonlar, ses ve etkileşimli özellikler) en önemli rolü aşağıdakilerden hangisidir?",
+            "options": [
+                "Kullanıcıların dikkat süresini artırmak",
+                "Kullanıcıları içerikten uzaklaştırmak",
+                "Erişilebilirliği azaltmak",
+                "Bilgiyi etkili bir şekilde aktarmak ve unutulmaz deneyimler yaratmak",
+                "Sadece görsel estetiği geliştirmek"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 24,
+            "question": "Aşağıdakilerin hangisi kullanıcıların arzu, beklenti ve ihtiyaçlarını açığa çıkarabilmek için günümüzde pek çok ülkede geliştirilen katılım tekniklerine örnek <u>değildir</u>?",
+            "options": [
+                "Mekan kurma oyunları yoluyla arayış ve tercihleri tartışmak",
+                "Kullanıcıları olasılık ve imkanlarla karşı karşıya getirerek farkındalıklarını artırmak",
+                "Kent kullanıcılarından görüş almadan kentsel bir alanın kullanımı ile ilgili kararlar almak",
+                "Olası paydaşlarla toplantılar yapıp görüşlerini toplamak",
+                "Anketler ve eğilim yoklamaları yapmak"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 25,
+            "question": "SpaceX tarafından geliştirilen ve işletilen bir alçak dünya yörüngesi uydu ağı olan \"Starlink\" in, posthümanist açıdan en çok sorun teşkil edebilecek özelliği aşağıdakilerden hangisidir?",
+            "options": [
+                "Tekeşleşme",
+                "Reklamlar",
+                "Bağlantı",
+                "Algoritma",
+                "Yankı odası"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 26,
+            "question": "Aşağıdakilerden hangisi ses tasarımı yöntemlerinden biri <u>değildir</u>?",
+            "options": [
+                "Foley Sesleri",
+                "Ses Rengi Çözünürlüğü Filtrasyonu",
+                "Ses Düzenleme",
+                "Ses Efektleri Manipülasyonu",
+                "Ambiyans ve Reverb Kullanımı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 27,
+            "question": "Fransa'da otizmli çocukların sosyal becerilerini geliştirmek için birlikte çalışılmış sosyal robot aşağıdakilerden hangisidir?",
+            "options": [
+                "Jibo",
+                "Paro",
+                "Pepper",
+                "Nao",
+                "Sophia"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 28,
+            "question": "Otomotiv ve yazılım yakınlaşması, farklı sektörlerden şirketlerin aynı pazarda iş birliği yapmasına bir örnektir.<br>Yukarıdaki yöndeşme-yakınsama türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Teknolojik yakınsama",
+                "İçerik yakınsaması",
+                "Kültürel yakınsama",
+                "Fiziksel yakınsama",
+                "Endüstri yakınsaması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 29,
+            "question": "\"Ses Tasarımı\" terimi ilk olarak yönetmenliğini Francis Ford Coppola'nın yaptığı Apocalypse Now (1979) filminde üstlendiği görevi tanımlamak için yine kendisi tarafından kullanılmıştır.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Walter Murch",
+                "Luigi Russolo",
+                "Hans Zimmer",
+                "Max Steiner",
+                "Rouben Mamoulian"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 30,
+            "question": "Bireylerin veya grupların kişisel veya profesyonel içerik yayınladığı çevrimiçi platformlar veya makale sitelerine ne ad verilir?",
+            "options": [
+                "Sosyal ağ",
+                "Blog",
+                "Forum",
+                "Mikroblog",
+                "Sözlük"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 31,
+            "question": "Aşağıdaki tekniklerden hangisi önceden kaydedilmiş seslerin (örneklerin) oynatılmasını ve manipülasyonunu içermektedir?",
+            "options": [
+                "Additive Synthesis (Ekleme Sentezi)",
+                "Granular Synthesis (Taneli Sentez)",
+                "Subtractive Synthesis (Çıkartma Sentezi)",
+                "Sample-Based Synthesis (Örnek Tabanlı Sentez)",
+                "Frequency Modulation Synthesis (FM Synthesis - Frekans Modülasyon Sentezi)"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 32,
+            "question": "Aşağıdaki yazılımlardan hangisi özellikle müzik analizi ve görselleştirme için tasarlanmış, ses spektrumunu, dalga formunu ve diğer analitik verileri görüntülemek için kullanılan uygulamadır?",
+            "options": [
+                "FL Studio",
+                "Sonic Visualiser",
+                "Subtractive Synthesis",
+                "Additive Sound",
+                "Sample Effect"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 33,
+            "question": "Aşağıdakilerden hangisi 20. yüzyılın modernizm evresinde ortaya çıkan anlatı türlerinden <u><u>değildir</u></u> ve beklenmektedir?",
+            "options": [
+                "Kısacık anlatı, üslubu ve biçimlerinin yükselişi",
+                "Basitleştirilmiş dil ve anlaşılır olay örgüsü",
+                "Romantik ve idealist temalara vurgu",
+                "Duygusal hikaye anlatı yapısında yazılmış geleneksel öyküler",
+                "Bilinç akışı ve doğrusal olmayan zaman akışları"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 34,
+            "question": "Aşağıdakilerden hangisi giyilebilir teknoloji ürünlerinden bedene takılabilir araçlara örnektir?",
+            "options": [
+                "Çipli tekstiller",
+                "Akıllı saat",
+                "Akıllı dövme",
+                "Akıllı gözlük",
+                "Biyonik kulak"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 35,
+            "question": "Aşağıdakilerden hangisi biyo-deri ile üretilen ilk giyim ürününü tasarlamıştır?",
+            "options": [
+                "MycoWorks",
+                "Platex",
+                "Modern Meadow",
+                "MycoFlex",
+                "Inflata Corset"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 36,
+            "question": "Dramatik anlatılar bağlamında \"katharsis\" kavramı aşağıdakilerden hangisini temsil eder?",
+            "options": [
+                "Gerilimi artırma tekniği",
+                "Duygusal etkileşimden kaçınan bir anlatı tarzı",
+                "Güçlü veya bastırılmış duyguları serbest bırakma süreci",
+                "Karmaşık karakterler oluşturmak için bir yöntem",
+                "Fütüristik ortamların geliştirilmesine yönelik bir yaklaşım"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 37,
+            "question": "İlahi bakış açısı olarak da bilinen bu bakış açısında anlatıcı, hikâyedeki tüm karakterlerin tüm düşüncelerini ve duygularını, olmuş veya olacak tüm olayları bilir.<br>Yukarıdaki tanımlama bakış açılarından hangisini ifade etmektedir?",
+            "options": [
+                "Birinci Şahıs Bakış Açısı",
+                "İkinci Şahıs Bakış Açısı",
+                "Üçüncü Şahıs Sınırlı Bakış Açısı",
+                "Üçüncü Şahıs Hâkim Bakış Açısı",
+                "Çoğulcu Bakış Açısı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 38,
+            "question": "Kendini \"dünyanın ilk yapay zekâ marka elçisi\" olarak tanıtan marka aşağıdakilerden hangisidir?",
+            "options": [
+                "Glitch",
+                "Prada",
+                "Gucci",
+                "Balenciaga",
+                "Versace"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 39,
+            "question": "Anlatı yapılarından \"Çerçeve Anlatı\" aşağıdaki hangi özelliğiyle dikkat çeker?",
+            "options": [
+                "Birbirine bağlı birden fazla hikâyeyi iç içe sunar.",
+                "Hikaye aynı noktada başlar ve aynı noktada biter.",
+                "Tek bir karakterin bakış açısını kullanır.",
+                "Yalnızca tek bir hikâyeyi detaylandırır.",
+                "İnteraktif bir deneyim sunar."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        },
+        {
+            "id": 40,
+            "question": "2000 yılında Corel firmasının ürettiği ve Adobe firmasının ürettiği yazılımları ile hazır giyim sektöründe bilgisayar destekli tasarım uygulamaları yaygınlaşmaya başlamıştır.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?",
+            "options": [
+                "1957 - Pronto ve Sketchpad",
+                "1985 - Microsoft Paint ve GIMP",
+                "1987 - CorelDraw ve Adobe Illustrator",
+                "1990 - AutoCAD ve SketchUp",
+                "2000 - Clo 3D ve Adobe Photoshop"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596762"
+        }
+    ]
+}

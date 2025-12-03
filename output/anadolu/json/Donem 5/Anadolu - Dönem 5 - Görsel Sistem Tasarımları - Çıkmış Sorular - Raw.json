@@ -1,0 +1,1819 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "-----, bir sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel, kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı olarak nitelendirilir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kompleksite",
+                "Kompozisyon",
+                "Açık sistemler",
+                "ISO 247",
+                "Yaratıcı düşünce"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 2,
+            "question": "Aşağıdakilerden hangisi tasarımın temel çalışma alanları arasında yer <u>almaz</u>?",
+            "options": [
+                "Endüstriyel tasarım",
+                "İç mimarlık",
+                "Moda tasarımı",
+                "NFT",
+                "Grafik tasarım"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 3,
+            "question": "Aşağıdakilerden hangisi tasarımcıların, üreticilerle renk konusunda verilen kararları doğru şekilde alabilmesini sağlayan, evrensel bir renk dili ortaya koyan sistemdir?",
+            "options": [
+                "Venn",
+                "Isotype",
+                "De Doelen",
+                "ISO",
+                "Pantone"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 4,
+            "question": "Aşağıdakilerden hangisi sistem türlerinden biri <u>değildir</u>?",
+            "options": [
+                "Açık ve Kapalı Sistemler",
+                "Fiziksel (Somut) veya Soyut Sistemler",
+                "Uzun ve Kısa Sistemler",
+                "Kalıcı ve Geçici Sistemler",
+                "Doğal ve Yapay Sistem"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 5,
+            "question": "Bir eşyayı, bir objeyi, bir yeri, bir işleyişi veya bir kavramı yalınlaştırarak görsel yolla temsil eden sembollere ne ad verilir?",
+            "options": [
+                "Piktogram",
+                "ISO",
+                "Monogram",
+                "WYSIWYG",
+                "Logotayp"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 6,
+            "question": "Metis Yayınlarının \"Ötekini Dinlemek\" adlı yayın serisinin kapak tasarımını yapan tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Yeşim Demir",
+                "Yetkin Başarır",
+                "Geray Gencer",
+                "Esen Karol",
+                "Bülent Erkmen"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 7,
+            "question": "Portekiz'in liman kenti Porto'da yer alan ve mimari tasarımı Rem Kohlhaas'a ait olan müzik merkezi Casa da Musica'nın kapsamlı kimlik tasarımını yapan tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Ellen Lupton",
+                "Paul Rand",
+                "Stefan Sagmeister",
+                "Irma Boom",
+                "Wolfgang Weignart"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 8,
+            "question": "İkinci Dünya Savaşı sonrası Avrupa, İsviçre'den başlayıp Almanya ve İngiltere'de karşılığını bulan, Jan Tschichold'un da öncülerinden olduğu tasarım anlayışı aşağıdakilerden hangisidir?",
+            "options": [
+                "Minimalizm",
+                "Modernizm",
+                "Jugend Stil",
+                "Art Nouveau",
+                "Uluslararası Tipografik Üslup"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 9,
+            "question": "Editörlüğünü Uğur Tanyeli'nin yaptığı ve ilk sayısını Şubat 1989 yılında yayımlanan (önce Arredamento Dekorasyon, 1989'dan itibaren ise Arredamento Mimarlık) dergilerin kapak tasarımlarını üstlenen ünlü grafik tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Bülent Erkmen",
+                "Esen Karol",
+                "Yeşim Demir",
+                "Yurdaer Altıntaş",
+                "Sadık Karamustafa"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 10,
+            "question": "I. Seri tasarım anlayışı, bir markanın kimlik bütünlüğünü koruyup marka altında çıkan ürün gruplarının (veya serisinin) görsel tutarlılığını ve devamlılığını sağlar. Bu metot, tüketici alışkanlıkları açısından olumlu bir hamledir.<br>II. Seri tasarım mantığı doğrultusunda tasarımcının vereceği tüm kararlar, tasarımı yapılacak ürünün markasına, ait olduğu kuruma ve içeriğine bağlıdır.<br>III. Seri tasarım yaklaşımının köklü bir markanın yerleşmiş olan kimliğine aidiyet değeri katmada katkısı <u>yoktur</u>.<br>Seri tasarım ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "Yalnız III",
+                "I ve II",
+                "I, II ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 11,
+            "question": "Mimari alanında grid sistemini en etkili biçimde kullanan isimlerin başında gelen ve 1946 yılında altın oranı kendi tanımladığı \"Modüler (Modulor)\" tasarım sistemine uyarlayan İsviçreli mimar aşağıdakilerden hangisidir?",
+            "options": [
+                "Antoni Gaudí",
+                "Frank Gehry",
+                "Le Corbusier",
+                "Zaha Hadid",
+                "Ludwig Mies van der Rohe"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 12,
+            "question": "Atina'daki ünlü Parthenon Tapınağı'nın ölçüleri aşağıdaki oran türlerinden hangisine dayandırılmıştır?",
+            "options": [
+                "Grid sistemi",
+                "Altın oran",
+                "Modüler oran",
+                "Sütün oranı",
+                "Simetrik oran"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 13,
+            "question": "Çoklu sayfa tasarımlarında, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimi aşağıdakilerden hangisidir?",
+            "options": [
+                "Modüler grid",
+                "Altın oran",
+                "Simetrik grid",
+                "Tipografik grid",
+                "Asimetrik grid"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 14,
+            "question": "Bir yazı karakterinin hatlarının uç yapısında bulunan yatay çıkıntılara ne ad verilir?",
+            "options": [
+                "Perspektif",
+                "Serif",
+                "Modulor",
+                "Grid",
+                "Le Corbusier"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 15,
+            "question": "Sayfanın iç çevresinde bulunan, gridin dışında kalan ve sayfa numaralarını yerleştirmek için en uygun alan olan negatif boşluklara ne ad verilir?",
+            "options": [
+                "Modül",
+                "Yatay çizgi",
+                "Sütun",
+                "Kenar boşlukları",
+                "Sütun arası boşluk"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 16,
+            "question": "Haritada hangi rengin veya çizginin ne anlama geldiğini toplu olarak gösteren açıklama kısmına ne ad verilir?",
+            "options": [
+                "Sözlük",
+                "Atlas",
+                "Lejant",
+                "Coğrafik",
+                "Kolofon"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 17,
+            "question": "Haritada yansıtılacak alanın büyütme ve küçültme işlemine ne ad verilir?",
+            "options": [
+                "Ölçeklendirme",
+                "Bilgilendirme",
+                "Ölçümleme",
+                "Yönlendirme",
+                "UX"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 18,
+            "question": "I. Haritanın temel amacı ilgili içeriği aktarmaktır.<br>II. Haritalarda yalnızca coğrafi özellikler gösterilebilir.<br>III. Haritalar kullanıcılarıyla aktarmak istedikleri içeriklerine paralel biçimde iletişim kurarlar.<br>Haritalarla ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "Yalnız III",
+                "I ve II",
+                "I ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 19,
+            "question": "Aşağıdakilerden hangisi yönlendirme ve işaretleme sistemlerinin kullanıldığı alanlardan biri <u>değildir</u>?",
+            "options": [
+                "Kültürel mekanlar",
+                "Evlerin içi",
+                "Ulaştırma birimleri",
+                "Kamusal binalar",
+                "Kurum kimlik uygulamaları"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 20,
+            "question": "New York metrosu için geliştirdiği yönlendirme ve işaretleme sistemiyle ünlü tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Lance Wyman",
+                "Esen Karol",
+                "Harry Beck",
+                "Massimo Vignelli",
+                "Paula Scher"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634729"
+        },
+        {
+            "id": 21,
+            "question": "Aşağıdakilerden hangisi tasarımcıların, üreticilerle renk konusunda verilen kararları doğru şekilde alabilmesini sağlayan, evrensel bir renk dili ortaya koyan sistemdir?",
+            "options": [
+                "ISO",
+                "Pantone",
+                "Venn",
+                "De Doelen",
+                "Isotype"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 22,
+            "question": "Bilgiyi düzenlemekten bahsederken aynı zamanda tasarımın genel bir konusu olan kullanıcı deneyiminden de bahsetmek gerekir. Nesnel veya dijital ürünlerde kullanıcının ürünle karşılaşma anının başından sonuna kadar olan deneyimini konu alan bu alana kullanıcı deneyimi adı verilir. Yukarıda anlatılan tasarım alanının kısaltması aşağıdakilerden hangisidir?",
+            "options": [
+                "UX",
+                "UI",
+                "NFT",
+                "FEDEX",
+                "PDF"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 23,
+            "question": "Aşağıdakilerden hangisi sistem türlerinden biri <u>değildir</u>?",
+            "options": [
+                "Fiziksel (Somut) veya Soyut Sistemler",
+                "Açık ve Kapalı Sistemler",
+                "Uzun ve Kısa Sistemler",
+                "Kalıcı ve Geçici Sistemler",
+                "Doğal ve Yapay Sistem"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 24,
+            "question": "Aşağıdakilerden hangisi tasarımın temel çalışma alanları arasında yer <u>almaz</u>?",
+            "options": [
+                "Endüstriyel tasarım",
+                "İç mimarlık",
+                "Moda tasarımı",
+                "NFT",
+                "Grafik tasarım"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 25,
+            "question": "Grafik tasarım, doğasında tekrar ve devamlılık içeren mecralarda ürünler sunar. Yukarıdaki cümleye göre aşağıdaki ifadelerden hangisi bu tür seri tasarım mantığında üretilen ürünlere bir örnek <u>değildir</u>?",
+            "options": [
+                "Beyazlar için olan bir çamaşır deterjanı markasının renkliler için olan ürününü birbirinden ayırt edebilmemiz için etiketinde küçük farklar taşıması.",
+                "Bir yayınevine bağlı yazarların kitapları, önceden karar verilmiş belli şablonlar dâhilinde tasarlanmış kapakları.",
+                "Aynı marka çikolata ambalajının bademli, fındıklı ve sade çeşitleri.",
+                "Bir tiyatro salonunun farklı oyunları tanıtan afişleri.",
+                "Ünlü bir beyaz eşya markasının logotype tasarımı."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 26,
+            "question": "______ bir sistem, tüm olayların oluşumunun tamamen tahmin edilebilir olduğu sistemdir. Belirli bir zamandaki sistem durumunun açıklamasını alırsak, bir sonraki durum kolayca tahmin edilebilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Olasılıkçı",
+                "Fiziksel",
+                "Yeni",
+                "Belirlenimci",
+                "Alt"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 27,
+            "question": "\"Pat Metheny Trio 99-00\" albüm kapağındaki \"sonsuz olasılıklı sistem\" aşağıdaki tasarımcılardan hangisi tarafından tasarlanmıştır?",
+            "options": [
+                "Stefan Sagmeister",
+                "Umut Altıntaş",
+                "Bülent Erkmen",
+                "Bruce Mau",
+                "Erim Gözen"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 28,
+            "question": "Penguin Books'un dünyaca tanınan kapak kimliğine ilk kez bir standart getiren İsviçreli tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Milton Glaser",
+                "Jan Tschichold",
+                "Paula Scher",
+                "Karel Martens",
+                "Wolfgang Weingart"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 29,
+            "question": "David Pearson tarafından tasarlanan Great Ideas serisi \"sistem içerisinde serbestlik\" tanımının en iyi örneklerinden sayılabilir. Seri, felsefe, politika, bilim ve savaş gibi konuları içeren, radikal, öncü ve geleceği öngören yazarların ürettiği kurgusal olmayan metinleri içerir. Yukarıdaki paragrafta anlatılan tasarımlar aşağıdaki hangi yayınevi tarafından üretilmiştir?",
+            "options": [
+                "Penguin Books",
+                "D&R",
+                "Dost",
+                "Princeton Architectural Press",
+                "Yale"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 30,
+            "question": "Editörlüğünü Uğur Tanyeli'nin yaptığı ve ilk sayısı Şubat 1989 yılında yayımlanan (önce Arredamento Dekorasyon, 1989'dan itibaren ise Arredamento Mimarlık) dergilerin kapak tasarımlarını üstlenen ünlü grafik tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Yurdaer Altıntaş",
+                "Esen Karol",
+                "Yeşim Demir",
+                "Bülent Erkmen",
+                "Sadık Karamustafa"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 31,
+            "question": "Parthenon Tapınağında ______ sütunların yer aldığı, Albert Albert mimarisine göre ele alındığında ______________ ve __________ sütunlarının pek çoğunun boşluklarının belirlenmesinde ve kenar boşluklarının belirlenmesinde kullanıldığı görülür. Yukarıdaki boşlukların hangisi/hangilerinin tasarımında altın orandan faydalanılmıştır?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I, II ve III",
+                "II ve III",
+                "I, II ve III ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 32,
+            "question": "Çoklu sayfa tasarımlarında, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimi aşağıdakilerden hangisidir?",
+            "options": [
+                "Simetrik grid",
+                "Modüler grid",
+                "Asimetrik grid",
+                "Altın oran",
+                "Tipografik grid"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 33,
+            "question": "Bir yazı karakterinin hatlarının uç yapısında bulunan yatay çıkıntılara ne ad verilir?",
+            "options": [
+                "Grid",
+                "Modül",
+                "Serif",
+                "Tipografi",
+                "Kontrast"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 34,
+            "question": "Sayfanın iç çevresinde bulunan, gridin dışında kalan ve sayfa numaralarını yerleştirmek için en uygun alan olan negatif boşluklara ne ad verilir?",
+            "options": [
+                "Modül",
+                "Kenar boşlukları",
+                "Sütun arası boşluk",
+                "Sütun",
+                "Yatay çizgi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 35,
+            "question": "-----, yazı karakterinin tasarımı ile ilgilidir. Yazı karakterinin hat kalınlığı, x-yüksekliği, harflerin kapalı alan boşluklarının tasarımları yazı karakterinin etkileyen faktörlerdendir. Garamond, Times New Roman, Helvetica, Futura gibi yazı karakterleri, bu tür yazı karakterlerine örnek olarak verilebilir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tanımlar?",
+            "options": [
+                "Okunurluk",
+                "Ölçü",
+                "Grid",
+                "Fibonacci",
+                "Sayfa kenar boşlukları"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 36,
+            "question": "Haritada hangi rengin veya çizginin ne anlama geldiğini toplu olarak gösteren açıklama kısmına ne ad verilir?",
+            "options": [
+                "Kolofon",
+                "Sözlük",
+                "Coğrafik",
+                "Atlas",
+                "Lejant"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 37,
+            "question": "Aşağıdakilerden hangisi yönlendirme ve işaretleme sistemlerinin kullanıldığı alanlardan biri <u>değildir</u>?",
+            "options": [
+                "Kültürel mekanlar",
+                "Evlerin içi",
+                "Kurum kimlik uygulamaları",
+                "Kamusal binalar",
+                "Ulaştırma birimleri"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 38,
+            "question": "______ varılan noktayı gösteren isimlik, bir başka deyişle görsel işarettir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Ambalaj tasarımı",
+                "Sergileme tasarımı",
+                "İşaretleme tasarımı",
+                "Haritalandırma tasarımı",
+                "Amaç tasarımı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 39,
+            "question": "I. Bilgi panoları, çerçevesi çizilen ve konumlandırıldığı yere özel olarak hazırlanan tasarım ürünleridir.<br>II. Taşıdıkları içeriğin sınırları bellidir ve bu içeriğe göre görselleştirilir.<br>III. Bilgi panoları pek çok ortamda pek çok amaçla kullanılabilir.<br>IV. Bilgi panoları taşıdığı içeriğin kullanıcının anlayacağı şekilde görselleştirildiği bir iletişim mecrasıdır.<br>Bilgi panoları ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız IV",
+                "I, II ve III",
+                "II, III ve IV",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 40,
+            "question": "Aşağıdakilerden hangisi haritanın başlıca görsel unsurlardan biri <u>değildir</u>?",
+            "options": [
+                "Sembol ve işaretler",
+                "Renk",
+                "Form",
+                "Süreç",
+                "Yazı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634750"
+        },
+        {
+            "id": 41,
+            "question": "Seri üretimin standartlaşan üretim bandı biçiminde kişiye özel müdahalelere olanak veren, kişiye veya ürüne özel müdahalelere olanak sağlayan yapı bloklarından oluşan sistemlere ne ad verilir?",
+            "options": [
+                "Modüler sistemler",
+                "Olasılık sistemleri",
+                "Açık sistemler",
+                "Bireysel sistemler",
+                "Tasarım sistemleri"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 42,
+            "question": "Penguin Books'un dünyaca tanınan kapak kimliğine ilk kez bir standart getiren İsviçreli tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Paula Scher",
+                "Wolfgang Weingart",
+                "Milton Glaser",
+                "Jan Tschichold",
+                "Karel Martens"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 43,
+            "question": "Çoklu sayfa tasarımlarında, grid çizgi yerleşimlerinin dikey alanlarda sütunlar oluşturacak bir biçimde ve karşılıklı sayfalarda birbirinin ayna yansımaları şeklinde düzenlendiği grid sistemi türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Serifli grid",
+                "Zıt grid",
+                "Simetrik grid",
+                "Asimetrik grid",
+                "Modüler grid"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 44,
+            "question": "I. Bilgi panoları, çerçevesi çizilen ve konumlandırıldığı yere özel olarak hazırlanan tasarım ürünleridir. II. Taşıdıkları içeriğin sınırları bellidir ve bu içeriğe göre görselleştirilir. III. Bilgi panoları pek çok ortamda pek çok amaçla kullanılabilir. IV. Bilgi panoları taşıdığı içeriğin kullanıcının anlayacağı şekilde görselleştirildiği bir iletişim mecrasıdır. Bilgi panoları ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız IV",
+                "I, II ve III",
+                "II, III ve IV",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 45,
+            "question": "En yalın biçimiyle bir eser, ürün ya da fikrin izleyiciye/kullanıcıya çeşitli kanallarıyla aktarımına ne ad verilir?",
+            "options": [
+                "Etkinlik",
+                "PowerPoint",
+                "Ekran",
+                "Sunum",
+                "Sanal İletişim"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 46,
+            "question": "Sergileme tasarımında -----, kavramsal, sanatsal ya da ticari düzlemde izleyiciye iletilmesi istenen mesajdır. Üzerinde çalışılması ve bu kompozisyon kaleme alır gibi planlanması gereken içeriktir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "anlatı",
+                "portfolyo",
+                "iç mimari",
+                "mizanpaj",
+                "beyaz küp"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 47,
+            "question": "I. Üç ana sanat sergisi türü vardır: kişisel sergiler, karma sergiler ve temalı sergiler. II. Sanat sergileri, halka sunulan sanat eserlerinin sergilenmesidir. III. Ticari sergiler, çeşitli sektörlerden ürün ve hizmetlerin gösterime çıktığı mekânlardır. Sergiler ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnızca I",
+                "Yalnızca II",
+                "I ve III",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 48,
+            "question": "Sunum ya da sunumlara yönelik önceden hazırlanmış, tek başına çalışan, esnek ve geliştirilebilme özelliği bulunan, farklı tasarım materyallerinden hazırlanmış yapılara ne ad verilir?",
+            "options": [
+                "Tasarım",
+                "Kurumsal kimlik sistemi",
+                "Grid sistemi",
+                "Portfolyo sistemi",
+                "Ekrana yönelik sistem"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 49,
+            "question": "Bir kurumu, ürünü ya da hizmeti simgelemesi amacıyla sistematik olarak kullanılan ve genellikle kurumun adı olan tipografik eleman aşağıdakilerden hangisidir?",
+            "options": [
+                "Grid",
+                "Logotayp",
+                "İkona",
+                "Majiskül",
+                "Tasarım"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 50,
+            "question": "I. Yazılı belgenin arşiv değeri vardır ve daha kalıcıdır. II. Konu bir bütünlük içinde ifade edilir ve iletilebilir. III. Resmiyeti azaltır ve samimi hissettirir. IV. Kişilerin gidemeyeceği yerlere gidebilir. V. Zaman açısından daha elverişlidir; uygun olunduğu zaman yazılabilir ve okunabilir. Yukarıdakilerden hangileri bürokratik bir yapının içinde yazılı iletişimi tercih etmenin başlıca nedenlerindendir?",
+            "options": [
+                "I, II ve III",
+                "I, II, IV ve V",
+                "I, II, IV ve V",
+                "II, IV ve V",
+                "I, II, III ve V"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 51,
+            "question": "Kurumun iletişiminde tek isim ve görsel karakter kullanan <u>kimlik</u> türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Monolitik kimlik",
+                "Marka kimliği",
+                "Desteklenmiş kimlik",
+                "Değişken kimlik",
+                "Sürdürülebilir kimlik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 52,
+            "question": "Jenerik Marka, isimlerini faaliyet alanlarına vermiş kurumlara ait markalardır. Yukarıdaki ifadeye göre aşağıdaki markalardan hangisi jenerik markadır?",
+            "options": [
+                "Doğan",
+                "Kodak",
+                "Thy",
+                "Mudo",
+                "Vileda"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 53,
+            "question": "Kurumun oluşturduğu davranış biçimleri, ortak değerleri, inançları ve geleneklerine ne ad verilir?",
+            "options": [
+                "Kurum kimliği",
+                "Kurumsal işleyiş",
+                "Kurum logosu",
+                "Kurum kültürü",
+                "Kurumsal ün"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 54,
+            "question": "Aşağıdakilerden hangisi beklenilen cevaplar için ayrılan alanların dikey ya da yatay kutulardan oluşturulduğu form tasarımlarıdır?",
+            "options": [
+                "Çizgi formlar",
+                "Kutu formlar",
+                "e-Formlar",
+                "Yazınsal formlar",
+                "Dikey formlar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 55,
+            "question": "Aşağıdakilerden hangisi Gestalt teorilerinden biri <u>değildir</u>?",
+            "options": [
+                "Kapalılık (closure)",
+                "Benzerlik (similarity)",
+                "Açıklık (openness)",
+                "Yakınlık (proximity)",
+                "Devamlılık (continuity)"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 56,
+            "question": "Yazıyla tasarım yapan ve tipografi pratiği hakkında iyi bir çalışma bilgisine sahip olan kişilere ne ad verilir?",
+            "options": [
+                "Dizgici",
+                "Tipograf",
+                "Karakteri tasarımcısı",
+                "Afiş tasarımcısı",
+                "Görsel tasarımcı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 57,
+            "question": "Tüm dünyada ortak bir sembol dili oluşturmak adıyla tasarlanmış oldukça geniş kullanım alanlarına yayılan uluslararası iletişim sistemi aşağıdakilerden hangisidir?",
+            "options": [
+                "WYSIWYG",
+                "A4 ve A3",
+                "ISO7000",
+                "Grid sistemi",
+                "Logometre"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 58,
+            "question": "I. Genellikle bileşen kütüphaneleri ile eş anlamlı olarak kullanılırlar fakat işlev ve kapsam olarak birbirlerinden ayrışırlar. II. Bileşen kütüphaneleri butonlar, menü öğeleri gibi daha küçük görsel elemanlara odaklanırken model kütüphaneleri bu elemanların birlikte çalıştığı daha geniş çaplı gruplara ya da yerleşimlere odaklanırlar. III. Bileşen kütüphanelerinden ayrıştığı bir diğer nokta ise daha esnek olmalarıdır. Model Kütüphaneleri ile ilgili aşağıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnızca I",
+                "Yalnızca II",
+                "I ve II",
+                "I ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 59,
+            "question": "Stil rehberinin bir sonraki adımı olarak konumlandırılabilir. Pek çok tasarım iştirakçisinin tasarım sistemleriyle en sık ilişkilendiği bileşenlerden oluşur. Yukarıdaki anlatılan tasarım sistemi bileşeni aşağıdakilerden hangisidir?",
+            "options": [
+                "Bileşen Kütüphaneleri",
+                "Model Kütüphaneleri",
+                "Açı Rehberi",
+                "Font Menüleri",
+                "Drop-down menü"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 60,
+            "question": "Verilen herhangi bir girdiye uygun şekilde yanıt vererek, tasarımda karar verme sürecini yeniden yaratan, objelerin ya da tasarım bileşenlerinin farklı şartlarda bir otomasyona bağlı biçimde farklı davranışlar geliştirebilmesini amaçlayan yaklaşım aşağıdakilerden hangisidir?",
+            "options": [
+                "UI/UX",
+                "Fonksiyonlar",
+                "Grid sistemi",
+                "Açık kaynaklar",
+                "Nötrler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634738"
+        },
+        {
+            "id": 61,
+            "question": "----- , bir sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel, kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı olarak nitelendirilir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Yaratıcı düşünce",
+                "Açık sistemler",
+                "ISO 247",
+                "Kompleksite",
+                "Kompozisyon"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 62,
+            "question": "Atina'daki ünlü Parthenon Tapınağı'nın ölçüleri aşağıdaki oran türlerinden hangisine dayandırılmıştır?",
+            "options": [
+                "Simetrik oran",
+                "Modüler oran",
+                "Sütün oranı",
+                "Grid sistemi",
+                "Altın oran"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 63,
+            "question": "I. Seri tasarım anlayışı, bir markanın kimlik bütünlüğünü koruyup marka altında çıkan ürün gruplarının (veya serisinin) görsel ve devamlılığını sağlar. Bu metot, tüketici alışkanlıkları açısından olumlu bir hamledir.<br>II. Seri tasarım mantığı doğrultusunda tasarımcının vereceği tüm kararlar, tasarımı yapılacak ürünün markasına, ait olduğu kuruma ve içeriğine bağlıdır.<br>III. Seri tasarım yaklaşımının köklü bir markanın yerleşmiş olan kimliğine aidiyet değeri katmada katkısı <u>yoktur</u>. <br>Seri tasarım ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "Yalnız III",
+                "I ve II",
+                "I, II ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 64,
+            "question": "Haritada yansıtılacak alanın büyütme ve küçültme işlemine ne ad verilir?",
+            "options": [
+                "Ölçümleme",
+                "UX",
+                "Yönlendirme",
+                "Bilgilendirme",
+                "Ölçeklendirme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 65,
+            "question": "Tamamen soyut bir kavram olan matematik üzerine anlatımlar içeren, izleyiciyle etkileşimin öne çıktığı, 1961'de açılıp tam 37 yıl açık kalan serginin tasarımcısı aşağıdakilerden hangisidir?",
+            "options": [
+                "Simon ve Garfunkel",
+                "Charles ve Ray Eames",
+                "El Lissitzky",
+                "Walter Gropius ve Herbert Bayer",
+                "Laszlo Moholy-Nagy"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 66,
+            "question": "Sunum ya da sunumlara yönelik önceden hazırlanmış, tek başına çalışan, esnek ve geliştirilebilme özelliği bulunan, farklı boyutta materyallerden hazırlanan yapılara ne ad verilir?",
+            "options": [
+                "Portfolyo sistemi",
+                "Grid sistemi",
+                "Tasarım",
+                "Kurumsal kimlik sistemi",
+                "Ekrana yönelik sistem"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 67,
+            "question": "I. Kişisel sergiler, sanatçılara çalışmalarını derinlemesine sergileme fırsatı sunar.<br>II. Karma sergiler, sanatçıların tüm eserlerini aynı anda sergilemelerine olanak tanır.<br>III. Temalı sergiler, sanatçılara belirli fikirleri veya temaları keşfetmeleri için bir platform sağlayarak eleştirel düşünmeyi ve entelektüel diyaloğu teşvik eder.<br>Sergi türleri ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve III",
+                "II ve III",
+                "I, II, III"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 68,
+            "question": "Uluslararası Otomobil Fuarı ve Las Vegas'ta düzenlenen Tüketici Elektroniği Fuarı (CES) aşağıdaki sergi türlerinden hangisine bir örnektir?",
+            "options": [
+                "Karma",
+                "Kişisel",
+                "Sanatsal",
+                "Ticari",
+                "Tematik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 69,
+            "question": "Coca-Cola, Fanta ve Sprite markaları örneğinde olduğu gibi, birbirine doğrudan etki etmeyen ve her bir alt kurumun birbirinden bağımsız olarak hareket ettiği kimlik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Desteklenmiş kimlik",
+                "Monolitik kimlik",
+                "Marka kimliği",
+                "Kurumsal iletişim",
+                "Halkla ilişkiler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 70,
+            "question": "Aşağıdakilerden hangisi kurum kimliğinin dört temel aşamasından biri <u>değildir</u>?",
+            "options": [
+                "Kurumsal Felsefe",
+                "Kurumsal Grafik",
+                "Kurumsal Tasarım",
+                "Kurum kültürü",
+                "Kurumsal ün"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 71,
+            "question": "Oluşturduğu davranış biçimleri, odak değerleri, inançları ve geleneklerine ne verilir?",
+            "options": [
+                "Kurumsal işleyiş",
+                "Kurum logosu",
+                "Kurum kimliği",
+                "Kurum kültürü",
+                "Kurumsal ün"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 72,
+            "question": "Aşağıdakilerden hangisi form tasarımında sıklıkla kullanılan tasarım biçimlerinden biri <u>değildir</u>?",
+            "options": [
+                "Daire formlar",
+                "Çizgi formlar",
+                "Kutu formlar",
+                "Yazışma formları",
+                "Karma formlar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 73,
+            "question": "Aşağıdakilerden hangisi bir kurumun kimliğini oluşturma/yenileme ihtiyaçlarından biri <u>değildir</u>?",
+            "options": [
+                "Yeni ürün/hizmet eklenmesi",
+                "Kuruluşundan bu yana 25 yıl süre geçmiş olması",
+                "Kurum evlilikleri",
+                "Yönetim değişimi",
+                "Yeni kurulmuş olması"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 74,
+            "question": "Aşağıdakilerden hangisi beklenilen cevaplar için ayrılan alanların dikey ya da yatay kutulardan oluşturulduğu form tasarımlarıdır?",
+            "options": [
+                "Yazınsal formlar",
+                "Dikey formlar",
+                "Kutu formlar",
+                "Çizgi formlar",
+                "X formlar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 75,
+            "question": "I. Genellikle bileşen kütüphaneleri ile eş anlamlı olarak kullanılırlar fakat işlev ve kapsam olarak birbirlerinden ayrışırlar.<br>II. Bileşen kütüphaneleri butonlar, menü öğeleri gibi daha küçük görsel elemanlara odaklanırken model kütüphaneleri bu elemanların birlikte çalıştığı daha geniş çaplı gruplara ya da yerleşimlere odaklanırlar.<br>III. Bileşen kütüphanelerinden ayrıştığı bir diğer nokta ise daha esnek olmalarıdır.<br>Model Kütüphaneleri ile ilgili aşağıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnızca I",
+                "Yalnızca II",
+                "I ve II",
+                "I ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 76,
+            "question": "Yazıyla tasarım yapan ve tipografi pratiği hakkında iyi bir çalışma bilgisine sahip olan kişilere ne ad verilir?",
+            "options": [
+                "Afiş tasarımcısı",
+                "Tipograf",
+                "İllüstratör",
+                "Karakter tasarımcısı",
+                "Görsel tasarımcı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 77,
+            "question": "1900'lerde Avusturyalı ve Alman psikologların çalışmalarıyla ortaya çıkan, görsel bilginin algılanması, sınıflandırılması ve organizasyonunu bilimsel olarak açıklayan tasarım problemlerinin çözümünde de sıklıkla kullanılan kuramların bütününe verilen isimdir. Yukarıda anlatılan kuram/teori aşağıdakilerden hangisidir?",
+            "options": [
+                "Gestalt teorisi",
+                "Tipografi kuramı",
+                "Pantone kuramı",
+                "Bütünlük teorisi",
+                "Kurumsal iletişim kuramı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 78,
+            "question": "Daha az görsel öge ve işlem adımı ile daha anlaşılır, yalın ve kolay kullanılır 'hafif' ara birimler tasarlamayı amaçlayan, bu sayede arayüzleri çok daha hızlı, anlaşılır ve yalın hale getirebilen arayüz tasarım türüne ne ad verilir?",
+            "options": [
+                "Düz (flat)",
+                "Tipografik",
+                "Skemorfik",
+                "Uyarlanabilir",
+                "Gölgeli"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 79,
+            "question": "Tüm dünyada ortak bir sembol dili oluşturmak adıyla tasarlanmış oldukça geniş kullanım alanlarına yayılan uluslararası iletişim sistemi aşağıdakilerden hangisidir?",
+            "options": [
+                "A4 ve A3",
+                "Logometre",
+                "ISO7000",
+                "WYSIWYG",
+                "Grid sistemi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 80,
+            "question": "XEROX PARC ve benzeri laboratuvarlarda yapılan, temel amacı makineler ve insanlar arasında olan tüm grafik ve fiziksel etkileşimleri verimli, kolay ve sezgisel hale getirmek olan çalışmalara ne ad verilir?",
+            "options": [
+                "Taşınabilir Dosya Formatı (PDF)",
+                "Etkileşim Parkı (EP)",
+                "Grafik ve Fiziksel Arayüz (GFA)",
+                "Tasarım Arayüz Etkileşimi (TCI)",
+                "İnsan-Bilgisayar Etkileşimi (HCI)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634775"
+        },
+        {
+            "id": 81,
+            "question": "Aşağıdakilerden hangisi sistem türlerinden biri <u>değildir</u>?",
+            "options": [
+                "Uzun ve Kısa Sistemler",
+                "Kalıcı ve Geçici Sistemler",
+                "Fiziksel (Somut) veya Soyut Sistemler",
+                "Açık ve Kapalı Sistemler",
+                "Doğal ve Yapay Sistem"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 82,
+            "question": "Bir eşyayı, bir objeyi, bir yeri, bir işleyişi veya bir kavramı yalınlaştırarak görsel yolla temsil eden sembollere ne ad verilir?",
+            "options": [
+                "Logotayp",
+                "ISO",
+                "WYSIWYG",
+                "Piktogram",
+                "Monogram"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 83,
+            "question": "Editörlüğünü Uğur Tanyeli'nin yaptığı ve ilk sayısı Şubat 1989 yılında yayımlanan (önce Arredamento Dekorasyon, 1989'dan itibaren ise Arredamento Mimarlık) dergilerin kapak tasarımlarını üstlenen ünlü grafik tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Esen Karol",
+                "Bülent Erkmen",
+                "Yurdaer Altıntaş",
+                "Yeşim Demir",
+                "Sadık Karamustafa"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 84,
+            "question": "Çoklu sayfa tasarımlarında, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimi aşağıdakilerden hangisidir?",
+            "options": [
+                "Simetrik grid",
+                "Modüler grid",
+                "Altın oran",
+                "Tipografik grid",
+                "Asimetrik grid"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 85,
+            "question": "Penguin Books'un dünyaca tanınan kapak kimliğine ilk kez bir standart getiren İsviçreli tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Karel Martens",
+                "Paula Scher",
+                "Jan Tschichold",
+                "Milton Glaser",
+                "Wolfgang Weingart"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 86,
+            "question": "Atina'daki ünlü Parthenon Tapınağı'nın ölçüleri aşağıdaki oran türlerinden hangisine dayandırılmıştır?",
+            "options": [
+                "Simetrik oran",
+                "Altın oran",
+                "Grid sistemi",
+                "Modüler oran",
+                "Sütün oranı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 87,
+            "question": "I. Haritanın temel amacı ilgili içeriği aktarmaktır.<br>II. Haritalarda yalnızca coğrafi özellikler gösterilebilir.<br>III. Haritalar kullanıcılarıyla aktarmak istedikleri içeriklerine paralel biçimde iletişim kurar.",
+            "options": [
+                "I ve II",
+                "Yalnız I",
+                "Yalnız III",
+                "I ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 88,
+            "question": "New York metrosu için geliştirdiği yönlendirme ve işaretleme sistemiyle ünlü tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Esen Karol",
+                "Harry Beck",
+                "Massimo Vignelli",
+                "Paula Scher",
+                "Lance Wyman"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 89,
+            "question": "Haritada yansıtılacak alanın büyütme ve küçültme işlemine ne ad verilir?",
+            "options": [
+                "Yönlendirme",
+                "Ölçümleme",
+                "Bilgilendirme",
+                "Ölçeklendirme",
+                "UX"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 90,
+            "question": "Sergi mekanının nasıl olması gerektiğine dair ilk düşünce ve görüşler Londra'da 19. yüzyılın sonlarında açılan FAS adlı galeride vücut bulmuştur. ----- olarak adlandırılan bu yaklaşımda galeri dikdörtgen formda düz ve beyaz boyalı duvarlara sahip, tavandan aydınlatılan bir mekân olarak tanımlanmaktadır.",
+            "options": [
+                "Küratör (Curator)",
+                "Video Sanatı (Video Art)",
+                "Portfolyo",
+                "Beyaz Küp (White Cube)",
+                "Sanatsal Yaklaşım"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 91,
+            "question": "Sergileme tasarımında -----, kavramsal, sanatsal ya da ticari düzlemde izleyiciye iletilmesi istenen mesajdır. Üzerinde çalışılması ve bir kompozisyon kaleme alır gibi planlanması gereken içeriktir.",
+            "options": [
+                "iç mimari",
+                "mizanpaj",
+                "anlatı",
+                "portfolyo",
+                "beyaz küp"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 92,
+            "question": "Bir kuruluşun kurum kültürü, kurum felsefesi gibi soyut niteliklerinin sistematik bir iletişimle görsel ve fiziksel davranışlara dönüşmesine ne ad verilir?",
+            "options": [
+                "Endüstriyel tasarım",
+                "Grid",
+                "Tipografi",
+                "Vizyon ve Misyon",
+                "Kurumsal kimlik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 93,
+            "question": "En yalın biçimiyle bir eser, ürün ya da fikrin izleyiciye/kullanıcıya çeşitli iletişim kanallarıyla aktarımına ne ad verilir?",
+            "options": [
+                "Sanal",
+                "Ekran",
+                "Sunum",
+                "Etkinlik",
+                "PowerPoint"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 94,
+            "question": "Aşağıdaki görselde yer alan form türü hangisidir?",
+            "options": [
+                "Çizgi form",
+                "Kutu form",
+                "Geometri form",
+                "e-Form",
+                "Açılır menü form"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 95,
+            "question": "Türkiye'de resmî yazışmalarda kullanılacak yazı karakteri ve büyüklükleri ile Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik'e göre, hazırlanan belgelerde kullanılması gereken yazı karakterleri aşağıdakilerden hangileridir?",
+            "options": [
+                "Times New Roman ve Arial",
+                "Comic Sans ve Times New Roman",
+                "Futura ve Gill Sans",
+                "Futura ve Arial",
+                "Avant Grande ve Gill Sans"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 96,
+            "question": "Kurumun tüm iletişiminde tek isim ve görsel karakter kullanılan kimlik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Marka kimliği",
+                "Değişken kimlik",
+                "Desteklenmiş kimlik",
+                "Sürdürülebilir kimlik",
+                "Monolitik kimlik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 97,
+            "question": "Bir kurumu, ürünü ya da hizmeti simgelemesi amacıyla sistematik olarak kullanılan ve genellikle kurumun adı olan tipografik eleman aşağıdakilerden hangisidir?",
+            "options": [
+                "Majiskül",
+                "İkona",
+                "Tasarım",
+                "Logotayp",
+                "Grid"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 98,
+            "question": "Stil rehberinin bir sonraki adımı olarak konumlandırılabilir. Pek çok tasarım iştirakçisinin tasarım sistemleriyle en sık ilişkilendiği bileşenlerden oluşur. Yukarıdaki anlatılan tasarım sistemi bileşeni aşağıdakilerden hangisidir?",
+            "options": [
+                "Açı Rehberi",
+                "Bileşen Kütüphaneleri",
+                "Model Kütüphaneleri",
+                "Font Menüleri",
+                "Drop-down menü"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 99,
+            "question": "Tüm dünyada ortak bir sembol dili oluşturmak adıyla tasarlanmış oldukça geniş kullanım alanlarına yayılan uluslararası iletişim sistemi aşağıdakilerden hangisidir?",
+            "options": [
+                "ISO7000",
+                "Logometre",
+                "Grid sistemi",
+                "A4 ve A3",
+                "WYSIWYG"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 100,
+            "question": "En erken arayüz tasarımlarının geliştirdiği strateji tasarım (taklit tasarım) prensiplerine dayanmaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Skemorfik",
+                "Monolitik",
+                "Duotone",
+                "Semantik",
+                "Tipografik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634741"
+        },
+        {
+            "id": 101,
+            "question": "Aşağıdakilerden hangisi sistem türlerinden biri <u>değildir</u>?",
+            "options": [
+                "Uzun ve Kısa Sistemler",
+                "Kalıcı ve Geçici Sistemler",
+                "Fiziksel (Somut) veya Soyut Sistemler",
+                "Açık ve Kapalı Sistemler",
+                "Doğal ve Yapay Sistem"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 102,
+            "question": "Bir eşyayı, bir objeyi, bir yeri, bir işleyişi veya bir kavramı yalınlaştırarak görsel yolla temsil eden sembollere ne ad verilir?",
+            "options": [
+                "Logotayp",
+                "ISO",
+                "WYSIWYG",
+                "Piktogram",
+                "Monogram"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 103,
+            "question": "Editörlüğünü Uğur Tanyeli'nin yaptığı ve ilk sayıs\n Şubat 1989 yılında yayımlanan (önce Arredamento Dekorasyon, 1989'dan itibaren ise Arredamento Mimarlık) dergilerin kapak tasarımlarını üstlenen ünlü grafik tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Esen Karol",
+                "Bülent Erkmen",
+                "Yurdaer Altıntaş",
+                "Yeşim Demir",
+                "Sadık Karamustafa"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 104,
+            "question": "Çoklu sayfa tasarımlarında, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimi aşağıdakilerden hangisidir?",
+            "options": [
+                "Simetrik grid",
+                "Modüler grid",
+                "Altın oran",
+                "Tipografik grid",
+                "Asimetrik grid"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 105,
+            "question": "Penguin Books'un dünyaca tanınan kapak kimliğine ilk kez bir standart getiren İsviçreli tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Karel Martens",
+                "Paula Scher",
+                "Jan Tschichold",
+                "Milton Glaser",
+                "Wolfgang Weingart"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 106,
+            "question": "Atina'daki ünlü Parthenon Tapınağı'nın ölçüleri aşağıdaki oran türlerinden hangisine dayandırılmıştır?",
+            "options": [
+                "Simetrik oran",
+                "Altın oran",
+                "Grid sistemi",
+                "Modüler oran",
+                "Sütün oranı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 107,
+            "question": "I. Haritanın amacı ilgili içeriği aktarmaktır. II. Haritalarda yalnızca coğrafi özellikler gösterilebilir. III. Haritalar kullanıcılarıyla aktarmak istedikleri içeriklerine paralel biçimde iletişim kurarlar.",
+            "options": [
+                "I. ve II.",
+                "Yalnız I.",
+                "II. ve III.",
+                "I. ve III.",
+                "I, II ve III."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 108,
+            "question": "Haritalarla ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "Yalnız III",
+                "I ve II",
+                "I ve III"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 109,
+            "question": "New York metrosu için geliştirdiği yönlendirme ve işaretleme sistemiyle ünlü tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Esen Karol",
+                "Harry Beck",
+                "Massimo Vignelli",
+                "Paula Scher",
+                "Lance Wyman"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 110,
+            "question": "Haritada yansıtılacak alanın büyütme ve küçültme işlemine ne ad verilir?",
+            "options": [
+                "Yönlendirme",
+                "Ölçümleme",
+                "Bilgilendirme",
+                "Ölçeklendirme",
+                "UX"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 111,
+            "question": "Sergi mekanının nasıl olması gerektiğine dair ilk düşünce ve görüşler Londra'da 19. yüzyılın sonlarında açılan FAS adlı galeride vücut bulmuştur. ----- olarak adlandırılan bu yaklaşımda galeri dikdörtgen formda düz ve beyaz boyalı duvarlara sahip, tavandan aydınlatılan bir mekân olarak tanımlanmaktadır.",
+            "options": [
+                "Küratör (Curator)",
+                "Video Sanatı (Video Art)",
+                "Portfolyo",
+                "Beyaz Küp (White Cube)",
+                "Sanatsal Yaklaşım"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 112,
+            "question": "Sergileme tasarımında -----, kavramsal, sanatsal ya da ticari düzlemde izleyiciye iletilmesi istenen mesajdır. Üzerinde çalışılması ve bir kompozisyon kaleme alır gibi planlanması gereken içeriktir.",
+            "options": [
+                "iç mimari",
+                "mizanpaj",
+                "anlatı",
+                "portfolyo",
+                "beyaz küp"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 113,
+            "question": "Bir kuruluşun kurum kültürü, kurum felsefesi gibi soyut niteliklerinin sistematik bir iletişimle görsel ve fiziksel davranışlara dönüşmesine ne ad verilir?",
+            "options": [
+                "Endüstriyel tasarım",
+                "Grid",
+                "Tipografi",
+                "Vizyon ve Misyon",
+                "Kurumsal kimlik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 114,
+            "question": "En yalın biçimiyle bir eser, ürün ya da fikrin izleyiciye/kullanıcıya çeşitli iletişim kanallarıyla aktarımına ne ad verilir?",
+            "options": [
+                "Sanal",
+                "Ekran",
+                "Sunum",
+                "Etkinlik",
+                "PowerPoint"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 115,
+            "question": "Aşağıdaki görselde yer alan form türü hangisidir?",
+            "options": [
+                "Çizgi form",
+                "Kutu form",
+                "Gestalt form",
+                "e-Form",
+                "Açılır menü form"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 116,
+            "question": "Türkiye'de resmî yazışmalarda kullanılacak yazı karakteri ve büyüklükleri ile Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik'e göre, hazırlanan belgelerde kullanılması gereken yazı karakterleri aşağıdakilerden hangileridir?",
+            "options": [
+                "Times New Roman ve Arial",
+                "Comic Sans ve Times New Roman",
+                "Futura ve Gill Sans",
+                "Futura ve Arial",
+                "Avant Grande ve Gill Sans"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 117,
+            "question": "Kurumun tüm iletişiminde tek isim ve görsel karakter kullanılan kimlik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Marka kimliği",
+                "Değişken kimlik",
+                "Desteklenmiş kimlik",
+                "Sürdürülebilir kimlik",
+                "Monolitik kimlik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 118,
+            "question": "Bir kurumu, ürünü ya da hizmeti simgelemesi amacıyla sistematik olarak kullanılan ve genellikle kurumun adı olan tipografik eleman aşağıdakilerden hangisidir?",
+            "options": [
+                "Majiskül",
+                "İkona",
+                "Tasarım",
+                "Logotayp",
+                "Grid"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 119,
+            "question": "Stil rehberinin bir sonraki adımı olarak konumlandırılabilir. Pek çok tasarım iştirakçisinin tasarım sistemleriyle en sık ilişkilendiği bileşenlerden oluşur. Yukarıdaki anlatılan tasarım sistemi bileşeni aşağıdakilerden hangisidir?",
+            "options": [
+                "Açı Rehberi",
+                "Bileşen Kütüphaneleri",
+                "Model Kütüphaneleri",
+                "Font Menüleri",
+                "Drop-down menü"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 120,
+            "question": "Tüm dünyada ortak bir sembol dili oluşturmak adıyla tasarlanmış oldukça geniş kullanım alanlarına yayılan uluslararası iletişim sistemi aşağıdakilerden hangisidir?",
+            "options": [
+                "ISO7000",
+                "Logometre",
+                "Grid sistemi",
+                "A4 ve A3",
+                "WYSIWYG"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        },
+        {
+            "id": 121,
+            "question": "En erken arayüz tasarımlarının geliştirdiği strateji tasarım (taklit tasarım) prensiplerine dayanmaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Skemorfik",
+                "Monolitik",
+                "Duotone",
+                "Semantik",
+                "Tipografik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634778"
+        }
+    ]
+}

@@ -1,0 +1,1804 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Bilgi'nin hızla çoğalması ve insanların bilgiye kolay ulaşabilmesi aşağıdaki dönemlerden hangisinin sonucunda gerçekleşmiştir?",
+            "options": [
+                "Rönesans döneminde",
+                "Antik Yunan'da",
+                "Demir Çağında",
+                "Orta Çağ'da",
+                "Sanayi Devrimi dönemi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 2,
+            "question": "Aşağıdakilerden hangisi bilgiyi görselleştirme sürecinde yer <u>almaz</u>?",
+            "options": [
+                "Problemin tanımlanması",
+                "Verici",
+                "Kullanıcı",
+                "Tasarımda ortam",
+                "Planlama"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 3,
+            "question": "Aşağıdakilerden hangisi veri ve bilgi arasındaki temel farktır?",
+            "options": [
+                "Veri, işlenip analiz edilmiş materyallerdir, bilgi ise ham, işlenmemiş malzemelerdir.",
+                "Veri, anlamlı ve bağlam sağlayan işlenmiş materyallerdir, bilgi ise analiz edilmemiş ham, işlenmemiş materyallerdir.",
+                "Veri, anlamsız ham materyallerdir, bilgi ise veri işlenip analiz edildiğinde elde edilen dökümdür.",
+                "Veri, bilgi oluşturmak için kullanılan yapı taşlarıdır, bilgi ise başlangıç ve bitiş noktaları arasında değişen etki alanlarına sahiptir.",
+                "Veri, doğal değere sahip olan işlenmiş malzemelerdir, bilgi ise herhangi bir bağlam sağlamayan işlenmemiş malzemelerdir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 4,
+            "question": "Irwin'e göre bilgi görselleştirme aşağıdakilerden hangisiyle <u>ilişkilendirilemez</u>?",
+            "options": [
+                "Kullanışlı",
+                "Bilgilendirici",
+                "Erişilebilir",
+                "Sınırlı",
+                "Anlamlı ve işlevsel"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 5,
+            "question": "Bilgi görselleştirme tasarımcısı ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Bilgiyi, iletişim amaçlı mesajın yeterince dikkati çekebileceği kadar ilginç ve çekici tasarlayabilmelidir.",
+                "İletişim medyası ve özellikle görsel iletişime ilişkin teknik gerekliliklere ihtiyaç duymamalıdır.",
+                "Çalışacağı alanda yeterli derecede bilgi sahibi olmalıdır.",
+                "Görsel mesajın iletişim özellikleri ve kendi içindeki iletişimi hakkında bilgiye sahip olmalıdır.",
+                "Hem yenilikçi hem de sistematik düşünceye sahip olmalıdır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 6,
+            "question": "Aşağıdakilerden hangisi Otto Neurath'ın geliştirdiği ISOTYPE görsel dilinin temel amaçlarındandır?",
+            "options": [
+                "Karmaşık bilgiyi basitleştirmek ve herkesin anlayabileceği bir formatta sunmak",
+                "Teknik detayları açıklamak ve uzmanlara yönelik bilgi sunmak",
+                "Yalnızca sanat alanında kullanılmak üzere estetik görseller oluşturmak",
+                "Sadece bilimsel araştırmalarda kullanılmak üzere veri görselleştirmek",
+                "Sadece eğlence amaçlı olarak resimler çizmek"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 7,
+            "question": "Chauvet Mağarası'ndaki mağara resimleri aşağıdaki amaçlardan hangisi için kullanılmıştır?",
+            "options": [
+                "Arkeolojik kazılar için yönlendirici bilgilerin sağlanması",
+                "Medikal araştırmaların desteklenmesi",
+                "Coğrafi konumların belirlenmesi",
+                "Astronomik gözlemlerinin kaydedilmesi",
+                "Dönemin yaşam ve olaylarına ilişkin faaliyetlerin belgelenmesi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 8,
+            "question": "Bilgigrafilerin kökenlerine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Bilgigrafiler, 20. ve 21. yüzyıllarda teknolojinin ilerlemesiyle popülerliğini yitirmiştir.",
+                "Bilgigrafilerin tarihi, sadece 18. yüzyıla kadar izlenebilir.",
+                "Bilgigrafilerin tarihi, sadece son 50 yıl içinde belirginleşmiştir.",
+                "Bilgigrafiler, görsel semboller ve sayısal ifadeler kullanılarak antik dönemlerde oluşturulmuştur.",
+                "Bilgigrafilerin ilk örnekleri, yalnızca Orta Çağ belgelerinde görülmüştür."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 9,
+            "question": "Sanayi Devrimi ile karmaşık hale gelen iş akışı ve iş gücü yönetimini ifade etmek için aşağıdaki yöntemlerden hangisi kullanılmıştır?",
+            "options": [
+                "Müzik notaları kullanarak",
+                "Görselleştirmeler ve diyagramlar aracılığıyla",
+                "Yalnızca sözel ifadelerle",
+                "Soyut kavramlarla",
+                "Renk tayfı diyagramlarıyla"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 10,
+            "question": "Süreç bilgigrafileri'nin kullanım amacı aşağıdakilerden hangisidir?",
+            "options": [
+                "Belirli bir konunun genel bakışını paylaşmak",
+                "Yeni bir fikir veya konsepti tanıtmak",
+                "Bir görev ya da stratejinin adımlarını anlaşılır biçimde görselleştirmek",
+                "Pazarlama stratejilerini sadeleştirerek görselleştirmek",
+                "İstatistiksel verileri görselleştirmek"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 11,
+            "question": "Nigel Holmes, bilgigrafi tasarımlarında temel prensip olarak aşağıdakilerden hangisini benimsemiştir?",
+            "options": [
+                "Ciddi ve resmi bir yaklaşım",
+                "Teknik ayrıntıların vurgulanması",
+                "Gerçekçi ve çarpıcı ifadeler",
+                "Karmaşık verilerin kullanımı",
+                "Bilginin eğlenceli anlatımı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 12,
+            "question": "Bir konu hakkında bilgileri parçalayarak, bir araç veya hizmetin nasıl çalıştığını görsel olarak ileten grafiklere ne ad verilir?",
+            "options": [
+                "Anatomi Bilgigrafileri",
+                "İstatistiksel Bilgigrafiler",
+                "Karşılaştırma Bilgigrafileri",
+                "Hiyerarşi Bilgigrafileri",
+                "Akış Şeması Bilgigrafileri"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 13,
+            "question": "İki veya daha fazla seçenek arasında, daha kapsamlı değerlendirme yapma imkanı sunan bilgigrafi türü aşağıdakilerden hangisidir?",
+            "options": [
+                "İstatistiksel Bilgigrafiler",
+                "Zaman Çizelgesi Bilgigrafileri",
+                "Coğrafi Bilgi ve Konum Bilgigrafileri",
+                "Veri Bağlantı Bilgigrafileri",
+                "Hiyerarşi Bilgigrafileri"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 14,
+            "question": "Sayed Sayad'ın çalışmalarına göre, veri biliminin incelenmesinde belirtilen temel yöntemler aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Açımlayıcı metotlar ve nicel veri",
+                "Modelleme yöntemleri ve nitel veri",
+                "Açımlayıcı metotlar ve modelleme yöntem ve yaklaşımları",
+                "Görselleştirme biçimleri ve veri işleme teknikleri",
+                "Veri türleri ve öngörü yöntemleri"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 15,
+            "question": "İstatistiksel bilgigrafilerin popüler kullanım biçimleri aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Süreç bilgigrafileri ve anatomi bilgigrafileri",
+                "Yuvarlak diyagramlar, sütun grafikleri ve histogramlar",
+                "Coğrafi bilgi ve konum bilgigrafileri",
+                "Karşılaştırma bilgigrafileri ve hiyerarşi bilgigrafileri",
+                "Zaman çizelgeleri ve öğretici bilgigrafiler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 16,
+            "question": "Yapılandırma ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Yapılandırma, bilgiyi alt parçalara bölerek ve bu parçaları birbirleri ile ilişkilendirerek gerçekleştirilir.",
+                "Yapılandırma, bilgiyi rastgele bir şekilde parçalayarak düzenler.",
+                "Yapılandırma, bilgiyi sınıflandırma ve etiketleme işlemlerini kapsamaz.",
+                "Yapılandırma, bilgiyi sunum biçimine bağlı olarak ilişkilendirerek şekillendirir.",
+                "Yapılandırma, bilgiye erişimi zorlaştırır ve karmaşıklığı arttırır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 17,
+            "question": "Makro okuma seviyesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Her günün satış rakamlarını incelemek amacı ile kullanılır.",
+                "Belirli bir ürünün günlük performansını değerlendirmek için kullanılmaz.",
+                "Belirli bir müşteri grubunun en yüksek satın alma potansiyeline sahip olduğunu analiz etmek için kullanılır.",
+                "Verinin genel yapısını anlamayı sağlar ve uzun vadeli stratejik kararların temelini oluşturur.",
+                "Hangi ürünün hangi günlerde daha fazla talep gördüğünü belirlemek için tercih edilir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 18,
+            "question": "Veri görselleştirmeleri genellikle aşağıdaki hangi tür veriler arasındaki farkı ifade etmeye odaklanır?",
+            "options": [
+                "Tam ve kesirli veriler",
+                "Pozitif ve negatif veriler",
+                "Nicel ve nitel veriler",
+                "Yüzdeler ve riskler",
+                "Ayrık ve sürekli veriler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 19,
+            "question": "Aşağıdakilerden hangisi ilk kez Ackoff (1989), tarafından literatüre alınan bilgiye hiyerarşik yaklaşımda yer almaz?",
+            "options": [
+                "Bilgelik",
+                "Bilgi birikimi",
+                "Veri",
+                "Bilgi",
+                "Süreç"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 20,
+            "question": "Aşağıdakilerden hangisi veri bilimcilerin yararlandığı açımlayıcı metotlardan biri <u>değildir</u>?",
+            "options": [
+                "Mutlak grafikler",
+                "Sütun grafikler",
+                "Dağılım grafiği",
+                "Histogram",
+                "Pasta grafikler"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606507"
+        },
+        {
+            "id": 21,
+            "question": "Aşağıdakilerden hangisi Veri'nin tanımıdır?<br>A) Veri, işlenip analiz edilmiş materyaller ve bunların sıralanıp saklanmasıdır.<br>B) Veri, anlamlı ve bağlam sağlayan işlenmiş materyallerdir.<br>C) Veri, kendi başına anlamlı bilgi ve işaretler bütünüdür.<br>D) Veri, doğal değere sahip olan işlenmiş malzemelerin kayıt altına alınmasıdır.<br>E) Veri henüz anlam ya da bağlam sağlayacak şekilde analiz edilmemiş anlamsız, ham, düzenlenmemiş materyallerdir.",
+            "options": [
+                "Veri, işlenip analiz edilmiş materyaller ve bunların sıralanıp saklanmasıdır.",
+                "Veri, anlamlı ve bağlam sağlayan işlenmiş materyallerdir.",
+                "Veri, kendi başına anlamlı bilgi ve işaretler bütünüdür.",
+                "Veri, doğal değere sahip olan işlenmiş malzemelerin kayıt altına alınmasıdır.",
+                "Veri henüz anlam ya da bağlam sağlayacak şekilde analiz edilmemiş anlamsız, ham, düzenlenmemiş materyallerdir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 22,
+            "question": "Aşağıdaki tarihsel gelişmelerin hangisi sonucunda bilgi miktarı ve paylaşım hızı artmıştır?<br>A) Matbaanın icadı, sanayi devrimi ve kitle iletişim araçlarındaki gelişmelerle<br>B) Tarım devrimi ve insanlığın gelişimiyle<br>C) Aydınlanma Çağı'nın etkisiyle<br>D) Antik Yunan dönemindeki felsefi düşüncelerin etkisiyle<br>E) Yeni Çağ'ın başlangıcında",
+            "options": [
+                "Matbaanın icadı, sanayi devrimi ve kitle iletişim araçlarındaki gelişmelerle",
+                "Tarım devrimi ve insanlığın gelişimiyle",
+                "Aydınlanma Çağı'nın etkisiyle",
+                "Antik Yunan dönemindeki felsefi düşüncelerin etkisiyle",
+                "Yeni Çağ'ın başlangıcında"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 23,
+            "question": "İletişim kanallarının çeşitli ve son derece hızlı olması ile ortaya çıkan dezavantaj hangisidir?<br>A) Bilgiye erişimde serbestlik<br>B) Gelişen teknolojinin getirdiği kolaylıklar<br>C) Bireylerin gelişimine katkısı<br>D) Yanlış bilgi ve dezenformasyonun hızlı yayılımı<br>E) İnsanların hayatını kolaylaştırması",
+            "options": [
+                "Bilgiye erişimde serbestlik",
+                "Gelişen teknolojinin getirdiği kolaylıklar",
+                "Bireylerin gelişimine katkısı",
+                "Yanlış bilgi ve dezenformasyonun hızlı yayılımı",
+                "İnsanların hayatını kolaylaştırması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 24,
+            "question": "Aşağıdakilerden hangisi bilgiyi görselleştirme sürecinde yer <u>almaz</u>?<br>A) Kullanıcı<br>B) Problemin tanımlanması<br>C) Planlama<br>D) Tasarımda ortam<br>E) Verici",
+            "options": [
+                "Kullanıcı",
+                "Problemin tanımlanması",
+                "Planlama",
+                "Tasarımda ortam",
+                "Verici"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 25,
+            "question": "Aşağıdakilerden hangisi gazetecilerin bilgigrafileri kullanırken dikkate alması gereken faktörlerden biridir?<br>A) Veri ekonomisi ve görsel sunum<br>B) Sistematik düşünce ve analiz<br>C) Hareketli ya da durağan yazı<br>D) Veri tekrarı ve devamı<br>E) Hedefsel veri ve güçlü kaynak",
+            "options": [
+                "Veri ekonomisi ve görsel sunum",
+                "Sistematik düşünce ve analiz",
+                "Hareketli ya da durağan yazı",
+                "Veri tekrarı ve devamı",
+                "Hedefsel veri ve güçlü kaynak"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 26,
+            "question": "Aşağıdakilerden hangisi Hans Rosling'in Gapminder projesi kurma amacıdır?<br>A) İstatistiksel verilerin derlenmesi, koruma<br>B) Sağlık, ekonomi, eğitim ve sosyal alanlardaki konulara ilişkin verilerin daha iyi anlaşılmasını sağlamak<br>C) Su israfını önlemek, güncel su kaynaklarını kayıt altına almak<br>D) Teknoloji devlerine danışmanlık yapmak<br>E) Soyu tükenmekte olan bir takım hayvanları kayıt altına almak",
+            "options": [
+                "İstatistiksel verilerin derlenmesi, koruma",
+                "Sağlık, ekonomi, eğitim ve sosyal alanlardaki konulara ilişkin verilerin daha iyi anlaşılmasını sağlamak",
+                "Su israfını önlemek, güncel su kaynaklarını kayıt altına almak",
+                "Teknoloji devlerine danışmanlık yapmak",
+                "Soyu tükenmekte olan bir takım hayvanları kayıt altına almak"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 27,
+            "question": "Aydınlanma dönemi düşünürleri, akılcılık ve eşitlik gibi konuları aşağıdaki yöntemlerden hangisi ile ifade etmişlerdir?<br>A) Soyut kavramlarla<br>B) Yalnızca sözel ifadelerle<br>C) Renk tayfı diyagramlarıyla<br>D) Müzik notaları kullanarak<br>E) Görselleştirmeler ve diyagramlar aracılığıyla",
+            "options": [
+                "Soyut kavramlarla",
+                "Yalnızca sözel ifadelerle",
+                "Renk tayfı diyagramlarıyla",
+                "Müzik notaları kullanarak",
+                "Görselleştirmeler ve diyagramlar aracılığıyla"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 28,
+            "question": "Peutinger Haritası ile ilgili aşağıdaki ifadelerden hangisi doğrudur?<br>A) Avrupa'daki bütün mağaraların yerlerini belirten bir haritadır.<br>B) Roma İmparatorluğu'nun güzergahını gösteren bir \"itinerarium\"dur.<br>C) Anadolu'nun coğrafi yapısını detaylı bir şekilde betimler.<br>D) Sadece antik Mısır'ın coğrafi özelliklerini gösterir.<br>E) Sadece Roma şehirlerini ve köylerini gösterir.",
+            "options": [
+                "Avrupa'daki bütün mağaraların yerlerini belirten bir haritadır.",
+                "Roma İmparatorluğu'nun güzergahını gösteren bir \"itinerarium\"dur.",
+                "Anadolu'nun coğrafi yapısını detaylı bir şekilde betimler.",
+                "Sadece antik Mısır'ın coğrafi özelliklerini gösterir.",
+                "Sadece Roma şehirlerini ve köylerini gösterir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 29,
+            "question": "Aşağıdakilerden hangisi Nigel Holmes'ün bilgiligrafi tasarımlarındaki temel prensibidir?<br>A) Bilginin eğlenceli anlatımı<br>B) Karmaşık verilerin kullanımı<br>C) Teknik ayrıntıların vurgulanması<br>D) Ciddi ve resmi bir yaklaşımı<br>E) Düşündürücü ögelerin kullanımı",
+            "options": [
+                "Bilginin eğlenceli anlatımı",
+                "Karmaşık verilerin kullanımı",
+                "Teknik ayrıntıların vurgulanması",
+                "Ciddi ve resmi bir yaklaşımı",
+                "Düşündürücü ögelerin kullanımı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 30,
+            "question": "Florence Nightingale'in, 1858'de yayımladığı döngüsel bir zaman modeli kullanarak ürettiği tıbbi veriler aşağıdaki grafik yöntemlerinden hangisi kullanılarak oluşturulmuştur?<br>A) Şema haritaları<br>B) Yatay harita<br>C) Açı grafikleri<br>D) Biyografi<br>E) Gül grafikleri",
+            "options": [
+                "Şema haritaları",
+                "Yatay harita",
+                "Açı grafikleri",
+                "Biyografi",
+                "Gül grafikleri"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 31,
+            "question": "İki veya daha fazla seçenek arasında, daha kapsamlı değerlendirme yapma imkanı sunan bilgiligrafi türü aşağıdakilerden hangisidir?<br>A) İstatistiksel Bilgigrafiler<br>B) Zaman Çizelgesi Bilgigrafileri<br>C) Coğrafi Bilgi ve Konum Bilgigrafileri<br>D) Karşılaştırma Bilgigrafileri<br>E) Hiyerarşi Bilgigrafileri",
+            "options": [
+                "İstatistiksel Bilgigrafiler",
+                "Zaman Çizelgesi Bilgigrafileri",
+                "Coğrafi Bilgi ve Konum Bilgigrafileri",
+                "Karşılaştırma Bilgigrafileri",
+                "Hiyerarşi Bilgigrafileri"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 32,
+            "question": "Statik bilgiligrafi tasarımlarının amacı aşağıdakilerden hangisidir?<br>A) Sadece bir bilgiyi anlatmak için kullanabilme<br>B) İnteraktif özelliklerle geniş kitleye ulaşma<br>C) Bilgiyi basit ve anlaşılabilir bir şekilde sunma<br>D) Karmaşık verileri çözümleme ve derinlemesine keşif yapma<br>E) Karmaşık verileri ve etkileşimli analizleri iletebilme",
+            "options": [
+                "Sadece bir bilgiyi anlatmak için kullanabilme",
+                "İnteraktif özelliklerle geniş kitleye ulaşma",
+                "Bilgiyi basit ve anlaşılabilir bir şekilde sunma",
+                "Karmaşık verileri çözümleme ve derinlemesine keşif yapma",
+                "Karmaşık verileri ve etkileşimli analizleri iletebilme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 33,
+            "question": "Makro okuma seviyesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?<br>A) Her günün satış rakamlarını incelemek amacı ile kullanılır.<br>B) Hangi ürünün hangi günlerde daha fazla talep gördüğünü belirlemek için tercih edilir.<br>C) Belirli bir müşteri grubunun en yüksek satın alma potansiyeline sahip olduğunu analiz etmek için kullanılır.<br>D) Verinin genel yapısını anlamayı sağlar ve uzun vadeli stratejik kararların temelini oluşturur.<br>E) Belirli bir ürünün günlük performansını saat saat değerlendirmek için kullanılır.",
+            "options": [
+                "Her günün satış rakamlarını incelemek amacı ile kullanılır.",
+                "Hangi ürünün hangi günlerde daha fazla talep gördüğünü belirlemek için tercih edilir.",
+                "Belirli bir müşteri grubunun en yüksek satın alma potansiyeline sahip olduğunu analiz etmek için kullanılır.",
+                "Verinin genel yapısını anlamayı sağlar ve uzun vadeli stratejik kararların temelini oluşturur.",
+                "Belirli bir ürünün günlük performansını saat saat değerlendirmek için kullanılır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 34,
+            "question": "Eğitim ve yaratıcı düşünme alanında nitel verilerin görselleştirilmesine çeşitli kavramlar arasındaki anlamsal ilişkileri araçları aşağıdakilerden hangisidir?<br>A) Pasta grafikler<br>B) Sütun grafikler<br>C) Zihin haritaları<br>D) Gofret grafikler<br>E) Çizgi grafikler",
+            "options": [
+                "Pasta grafikler",
+                "Sütun grafikler",
+                "Zihin haritaları",
+                "Gofret grafikler",
+                "Çizgi grafikler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 35,
+            "question": "Aşağıdakilerden hangisi tıklanabilir bilgiligrafilerde, belirli bir bölgeye veya veri noktasına tıkladığınızda gerçekleşir?<br>A) İlgili bilgiler veya görseller daha büyük bir pencerede veya yan panelde görüntülenir.<br>B) Ana hikâyenin tüm detayları gösterilir.<br>C) Görseller yeni bir sayfada otomatik olarak açılır.<br>D) Karşılaştırmalı bilgileri görüntülenir.<br>E) Statik bir görüntü sunulur.",
+            "options": [
+                "İlgili bilgiler veya görseller daha büyük bir pencerede veya yan panelde görüntülenir.",
+                "Ana hikâyenin tüm detayları gösterilir.",
+                "Görseller yeni bir sayfada otomatik olarak açılır.",
+                "Karşılaştırmalı bilgileri görüntülenir.",
+                "Statik bir görüntü sunulur."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 36,
+            "question": "Yapılandırma ile ilgili aşağıdaki ifadelerden hangisi doğrudur?<br>A) Yapılandırma, bilgiyi rastgele bir şekilde parçalayarak düzenler.<br>B) Yapılandırma, bilgiyi sınıflandırma ve etiketleme işlemlerini kapsamaz.<br>C) Yapılandırma, bilgiyi alt parçalara bölerek ve bu parçaları birbirleri ile ilişkilendirerek gerçekleştirilir.<br>D) Yapılandırma, bilgiyi sunum biçimine bağlı olarak ilişkilendirerek şekillendirir.<br>E) Yapılandırma, bilgiye erişimi zorlaştırır ve karmaşıklığı arttırır.",
+            "options": [
+                "Yapılandırma, bilgiyi rastgele bir şekilde parçalayarak düzenler.",
+                "Yapılandırma, bilgiyi sınıflandırma ve etiketleme işlemlerini kapsamaz.",
+                "Yapılandırma, bilgiyi alt parçalara bölerek ve bu parçaları birbirleri ile ilişkilendirerek gerçekleştirilir.",
+                "Yapılandırma, bilgiyi sunum biçimine bağlı olarak ilişkilendirerek şekillendirir.",
+                "Yapılandırma, bilgiye erişimi zorlaştırır ve karmaşıklığı arttırır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 37,
+            "question": "Süreç bilgiligrafileri'nin kullanım amacı aşağıdakilerden hangisidir?<br>A) Yeni bir fikir veya konsepti tanıtmak<br>B) İstatistiksel verileri görselleştirmek<br>C) Belirli bir konunun genel bakışını paylaşmak<br>D) Bir görev ya da stratejinin adımlarını anlaşılır biçimde görselleştirmek<br>E) Pazarlama stratejilerini sadeleştirerek görselleştirmek",
+            "options": [
+                "Yeni bir fikir veya konsepti tanıtmak",
+                "İstatistiksel verileri görselleştirmek",
+                "Belirli bir konunun genel bakışını paylaşmak",
+                "Bir görev ya da stratejinin adımlarını anlaşılır biçimde görselleştirmek",
+                "Pazarlama stratejilerini sadeleştirerek görselleştirmek"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 38,
+            "question": "Posta kodları, enlem/boylam çiftleri, ülke ve şehir kodları gibi işlemler söz konusu olduğunda kullanılan veri türü aşağıdakilerden hangisidir?<br>A) Zamansal veri<br>B) Coğrafi veri<br>C) Tarih verisi<br>D) Metin dizgesi verisi<br>E) İnterval veri",
+            "options": [
+                "Zamansal veri",
+                "Coğrafi veri",
+                "Tarih verisi",
+                "Metin dizgesi verisi",
+                "İnterval veri"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 39,
+            "question": "Aşağıdakilerden hangisi ilk kez Ackoff (1989), tarafından literatüre alınan bilgiye hiyerarşik yaklaşımda yer <u>almaz</u>?<br>A) Bilgi<br>B) Bilgelik<br>C) Süreç<br>D) Bilgi birikimi<br>E) Veri",
+            "options": [
+                "Bilgi",
+                "Bilgelik",
+                "Süreç",
+                "Bilgi birikimi",
+                "Veri"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 40,
+            "question": "(sıralama) ölçümler, doğal bir sıra ile birbirlerini izleyen, birbirine göre alt ve üst olarak değerlendirilebilecek kademeleri ifade ederler. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?<br>A) Interval<br>B) Ordinal<br>C) Oransal<br>D) Nominal<br>E) Metrik",
+            "options": [
+                "Interval",
+                "Ordinal",
+                "Oransal",
+                "Nominal",
+                "Metrik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618231"
+        },
+        {
+            "id": 41,
+            "question": "Aşağıdaki tarihsel gelişmelerin hangisi sonucunda bilgi miktarı ve paylaşım hızı artmıştır?",
+            "options": [
+                "Aydınlanma Çağı'nın etkisiyle",
+                "Matbaanın icadı, sanayi devrimi ve kitle İletişim araçlarındaki gelişmelerle",
+                "Tarım devrimi ve insanlığın gelişimiyle",
+                "Antik Yunan dönemindeki felsefi düşüncelerin etkisiyle",
+                "Yeni Çağ'ın başlangıcında"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 42,
+            "question": "Peutinger Haritası ile ilgili aşağıdaki ifadelerden hangisi <u>doğrudur</u>?",
+            "options": [
+                "Sadece antik Mısır'ın coğrafi özelliklerini gösterir.",
+                "Sadece Roma şehirlerini ve köylerini gösterir.",
+                "Roma İmparatorluğu'nun güzergahını gösteren bir \"itinerarium\"dur.",
+                "Anadolu'nun coğrafi yapısını detaylı bir şekilde betimler.",
+                "Avrupa'daki bütün mağaraların yerlerini belirten bir haritadır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 43,
+            "question": "Aşağıdakilerden hangisi tabloların avantajları arasında yer <u>almaz</u>?",
+            "options": [
+                "Verilerin düzenli ve anlaşılır bir şekilde sunulması",
+                "Farklı sınıflandırma kriterlerine göre sıralama olanağı sunması",
+                "Sayfa dolusu verilerin bir göz atımı süresinde görülmesini sağlaması",
+                "Verilerin görsel olarak zenginleştirilmesinin karmaşık görünüm sağlaması",
+                "Verilerin karşılaştırılması ve analizinde kullanılabilir olması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 44,
+            "question": "Bir dizi küçük ve benzer grafik veya tablonun kullanılmasını içeriren bilgigrafi türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Küçük çoğaltmalar",
+                "Parçalara ayırarak anlatım",
+                "Mikro-Makro okuma",
+                "Doku ve renk kullanarak anlatım",
+                "Zaman ve mekan kullanarak anlatım"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 45,
+            "question": "Çeşitli kavramlar arasındaki anlamsal ya da diğer ilişkileri görsel bir şekilde aktaran grafik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Kutu grafiği",
+                "Histogram",
+                "Zihin haritası",
+                "Pasta grafik",
+                "Çizgi grafiği"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 46,
+            "question": "Geleneksel bilgi aktarım yöntemlerinden biri olan sözlü iletişimin temelini oluşturan yöntem aşağıdakilerden hangisidir?",
+            "options": [
+                "Mektuplar",
+                "Kitaplar",
+                "<u>Sözlü metinler</u>",
+                "Sözlü aktarım",
+                "Kil tabletler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 47,
+            "question": "Bilgi görselleştirmede farklı konularda anlatı yapmak için sıklıkla kullanılan bir yöntemdir. Fotoğrafı olamayan ya da fotoğrafı çekilemeyen durumlarda başvurulur. Yukarıda anlatılan görselleştirme yöntemi aşağıdakilerden hangisidir?",
+            "options": [
+                "Resim",
+                "Tablo",
+                "Grafik",
+                "Fotoğraf",
+                "İllüstrasyon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 48,
+            "question": "İletişim aşağıdaki durumlardan hangisi için temel bir araç olarak tanımlanır?",
+            "options": [
+                "Teknolojik gelişmelerin analizi",
+                "İnsanların varlıklarını ifade etmeleri ve etkileşimde bulunmaları",
+                "Bilgi işlem süreçlerinin yönetim",
+                "Duygusal denge",
+                "Toplumsal normların oluşturulması"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 49,
+            "question": "Bilginin görselleştirilmesinin gerçek hayatta sağladığı fayda aşağıdakilerden hangisidir?",
+            "options": [
+                "Bilgiyi gizlemek",
+                "İzleyicileri kafa karışıklığına sürüklemek",
+                "Verileri karmaşık hale getirmek",
+                "Yaklaşan sorun ya da fırsatların farkına varmak",
+                "Verileri azaltmak"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 50,
+            "question": "Aşağıdakilerden hangisi özellikle sanatçılar ve tasarımcılar arasında sıklıkla odaklanılan Gestalt ilkelerinden biri <u>değildir</u>?",
+            "options": [
+                "Yakınlık İlkesi",
+                "Öğrenme İlkesi",
+                "Devamlılık İlkesi",
+                "Benzerlik İlkesi",
+                "Kapalılık İlkesi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 51,
+            "question": "Aşağıdakilerden hangisi Gestalt psikolojisinde, figür-zemin ilkesini tanımlar?",
+            "options": [
+                "Karmaşık verilerin düzenlenmesi ve ayrışması ilkesidir.",
+                "Nesnelerin karmaşıklığının artmasıdır.",
+                "Nesnelerin birbirinden ayrılmaması ilkesidir.",
+                "Görsel algının oluşmasıdır.",
+                "Nesnelerin bir arka plana göre nasıl algılandığına odaklanan ilkedir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 52,
+            "question": "Nicel veri görselleştirilmesinde hesap tabloları yeterli gelmediğinde sıklıkla kullanılan, bilimsel amaçlı veri işleme dilleri hangileridir?",
+            "options": [
+                "R ve Python",
+                "HTML ve CSS",
+                "JavaScript ve PHP",
+                "Java ve C++",
+                "SQL ve Ruby"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 53,
+            "question": "Hiyerarşinin, bilgigrafi tasarımındaki kullanım amacı aşağıdakilerden hangisidir?",
+            "options": [
+                "Renkleri düzenlemek",
+                "Bilgilerin önem ve değerine göre sırasını belirlemek",
+                "Metin fontlarını seçerek düzenlemek",
+                "Arka planı düzenlemek",
+                "Grafiklerin boyutunu belirlemek"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 54,
+            "question": "Aşağıdakilerden hangisi ilişkileri ve akışları gösteren veri görselleştirme amaçlı kullanılan grafik türüdür?",
+            "options": [
+                "Sütun grafik",
+                "Pasta grafik",
+                "İlişki diyagramı",
+                "Çizgi grafik",
+                "Isı haritası"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 55,
+            "question": "Veri gazeteciliğinde nicel veriye dayalı kullanılan grafik görselleştirme biçimi aşağıdakilerden hangisidir?",
+            "options": [
+                "Sütun grafikler",
+                "Nokta grafikler",
+                "Boy grafikleri",
+                "Kabarcık grafikler",
+                "Örümcek grafikler"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 56,
+            "question": "______: Tasarım sürecinin hedefe yönelik belirlenen kullanıcılardan alınan test verileri ile sürekli biçimde iyileştirilmesi ve yenilenmesi anlamına gelmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Başlangıç yaklaşımı",
+                "Kullanıcı test tasarım süreci",
+                "Tasarım günlüğü",
+                "Sabit verilerin kullanımı yaklaşım",
+                "Yinelemeli tasarım yaklaşımı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 57,
+            "question": "Veri gazeteciliğinde veri görselleştirmenin önemi ile ilgili aşağıdaki ifadelerden hangisi <u>doğrudur</u>?",
+            "options": [
+                "Veri görselleştirmeleri haberlerin içeriğini anlamak için gereksizdir.",
+                "Veri görselleştirmeleri sadece fotoğraf ve illüstrasyonlara dayalıdır.",
+                "Veri görselleştirmeleri duygusal bir etkiye sahiptir.",
+                "İyi tasarlanmış bir veri görselleştirmesi izleyiciye çabuk ve derin bir kavrayış olanağı sağlayabilir.",
+                "Veri görselleştirmeleri haberlerin yazım sürecini hızlandırır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 58,
+            "question": "Çeşitli teknolojik cihazlar aracılığıyla çevrede görülen fiziksel unsurların veri ve grafikler aracılığıyla zenginleştirilerek yeni yeniden anlamına aşağıdakilerden hangisidir?",
+            "options": [
+                "Arttırılmış Gerçeklik",
+                "Sanal Gerçeklik",
+                "Karma Gerçeklik",
+                "Teknolojik Gerçeklik",
+                "Dijital Sunum"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 59,
+            "question": "Aşağıdakilerden hangisi akış kavramının yaratıcısı Csikszentmihalyi'nin başarılı bir etkileşim için belirttiği temel özellikler arasında yer <u>almaz</u>?",
+            "options": [
+                "Dengeli bir mücadele",
+                "Konsantrasyon, kontrol hissi",
+                "Ön bildirim yapılması",
+                "Öz bilincin terk edilmesi",
+                "Zaman kavramının yitimi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 60,
+            "question": "Aşağıdakilerden hangisi Karma Gerçeklik (Mixed Reality) kavramının tanımıdır?",
+            "options": [
+                "Karma Gerçeklik, sadece özel endüstriyel cihazlarda kullanılan bir görüntüleme teknolojisidir.",
+                "Karma Gerçeklik, bilgisayar oyunları için özel olarak tasarlanan bir sanal gerçeklik türüdür.",
+                "Sadece sanal gerçeklik gözlükleri kullanılarak gerçekleştirilen bir deneyim teknolojidir.",
+                "Karma Gerçeklik, fiziksel dünya ve sanal dünyanın gerçek zamanlı olarak birleştiği bir teknoloji türüdür.",
+                "Dijital ve fiziksel nesnelerin gerçek zamanlı bir arada olduğu özel görüntüleme cihazları yardımıyla yaratılan sanal ve gerçek dünya melezidir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606525"
+        },
+        {
+            "id": 61,
+            "question": "Irwin'e göre bilgi görselleştirme aşağıdakilerden hangisiyle <u>ilişkilendirilemez</u>?",
+            "options": [
+                "Kullanışlı",
+                "Erişilebilir",
+                "Sınırlı",
+                "Bilgilendirici",
+                "Anlamlı ve işlevsel"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 62,
+            "question": "Bilgigrafilerin kökenlerine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Bilgigrafiler, görsel semboller ve sayısal ifadeler kullanılarak antik dönemlerde oluşturulmuştur.",
+                "Bilgigrafilerin tarihi, sadece 18. yüzyıla kadar izlenebilir.",
+                "Bilgigrafilerin ilk örnekleri, yalnızca Orta Çağ belgelerinde görülmüştür.",
+                "Bilgigrafiler, 20. ve 21. yüzyıllarda teknolojinin ilerlemesiyle popülerliğini yitirmiştir.",
+                "Bilgigrafilerin tarihi, sadece son 50 yıl içinde belirginleşmiştir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 63,
+            "question": "İstatistiksel bilgigrafilerin popüler kullanım biçimleri aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Coğrafi bilgi ve konum bilgigrafileri",
+                "Yuvarlak diyagramlar, sütun grafikleri ve histogramlar",
+                "Karşılaştırma bilgigrafileri ve hiyerarşi bilgigrafileri",
+                "Süreç bilgigrafileri ve anatomi bilgigrafileri",
+                "Zaman çizelgeleri ve öğretici bilgigrafiler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 64,
+            "question": "Çeşitli kavramlar arasındaki anlamsal ya da diğer ilişkileri görsel bir şekilde aktaran grafik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Histogram",
+                "Çizgi grafiği",
+                "Kutu grafiği",
+                "Zihin haritası",
+                "Pasta grafik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 65,
+            "question": "Geleneksel bilgi aktarım yöntemlerinden biri olan sözlü iletişimin temelini oluşturan yöntem aşağıdakilerden hangisidir?",
+            "options": [
+                "Sözlü aktarım",
+                "Yazılı metinler",
+                "Mektuplar",
+                "Kitaplar",
+                "Kil tabletler"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 66,
+            "question": "Aşağıdakilerden hangisi bilginin tablo biçiminde gösterilmesinin avantajlarından biridir?",
+            "options": [
+                "Verilerin sadece görsel karşılaştırılması ve analizinde yer alır.",
+                "Bilgi görselleştirme tasarımının bileşenlerinden biri olarak hiyerarşik düzenlemede gerekli verilerin vurgulanmasını sağlar.",
+                "Dijital baskı alanında kolaylıklar sağlar ve baskı için uygunluk sağlar.",
+                "Sayfalar dolusu verinin bir göz atımı süresinde görülmesini ve analiz edilmesini sağlar.",
+                "Gerçek veriyi bir arada tutar ve gizleyerek saklar."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 67,
+            "question": "Aşağıdakilerden hangisi bilgi görselleştirme tasarım disiplinin içinde yer alır?",
+            "options": [
+                "Verileri görselleştirerek içeriği gizlemek",
+                "Verileri kompleks hale getirmek",
+                "Verilerin grafik formlara dönüştürerek içeriğin fark edilmesini sağlamak",
+                "Verileri ayrıştırarak çıkarımlarda bulunmayı sağlamak",
+                "Bilgiyi sınıflandırarak çözümlenmesini sağlamak"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 68,
+            "question": "Aşağıdakilerden hangisi bilginin önem sıralamasını belirlemekte, öncelik sırasına göre düzenlenmesini ve izleyiciyi bu düzende yönlendirmeyi sağlayan bilgigrafi tasarımındaki temel prensiplerden biridir?",
+            "options": [
+                "Hiyerarşi",
+                "Figür-Zemin ilişkisi",
+                "Tasarımın denge ve düzenini oluşturma",
+                "Gestalt ilkeleri",
+                "Doğru ölçek ve oran kullanımı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 69,
+            "question": "Aşağıdakilerden hangisi renk kullanımının bilgigrafi tasarımında kullanılan unsurlarından biri <u>değildir</u>?",
+            "options": [
+                "Kategorizasyon",
+                "Vurgu",
+                "Zaman ve değişim betimlenmesi",
+                "Uyum ve zıtlık",
+                "Estetik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 70,
+            "question": "Bir bütünün parçalarının oranlarını göstermek için kullanılan bir görselleştirme aracıdır. Bakıldığında söz konusu verinin diğer verilerle oranı belli olur. Yukarıda anlatılan bilgi görselleştirmede kullanılan grafik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Kesit Grafikleri",
+                "Ağaç Grafikleri",
+                "Çizgi Grafikleri",
+                "Pasta Dilimi Grafikler",
+                "Rapor Grafikleri"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 71,
+            "question": "Veri gazeteciliğinin habercilik uygulamalarında bazı değişimler ve zorlukları beraberinde getirmesinin sonucu gelişen önemli değişim aşağıdakilerden hangisidir?",
+            "options": [
+                "Haber metninin uzunluğunu arttırması",
+                "Veri görselleştirmesinin haber metninin önüne geçmesi",
+                "Habercilerin iş yükünü azaltması",
+                "Veri analistlerinin görevlerini değiştirmesi",
+                "Tasarımcıların görselleştirme sürecine dahil olması"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 72,
+            "question": "Gestalt psikolojisinde --- ilkesi, insanların görsel algılamalarında birçok ögeyi sürekli ve kesintisiz bir şekilde izlemeye eğilimli olduklarını ifade eder. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "figür-zemin",
+                "benzerlik",
+                "Yakınlık ilkesi",
+                "kapalılık",
+                "devamlılık"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 73,
+            "question": "Johanna Drucker grafik sistemlerde, görselleştirme biçimlerini belirli parametrelere dayalı olarak düzenlemiştir. Yukarıdaki bilgiye göre aşağıdakilerden hangisi bu parametrelerden biri <u>değildir</u>?",
+            "options": [
+                "İşlev, içerik türü",
+                "Grafik format",
+                "Sistem parçaları",
+                "Entelektüel amaç",
+                "Disiplin kökenleri"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 74,
+            "question": "Nicel veri görselleştirilmesinde hesap tabloları yeterli gelmediğinde sıklıkla kullanılan bilimsel amaçlı diller genellikle aşağıdakilerden hangisidir?",
+            "options": [
+                "SQL ve Ruby",
+                "R ve Python",
+                "Java ve C++",
+                "JavaScript ve PHP",
+                "HTML ve CSS"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 75,
+            "question": "Aşağıdakilerden hangisi \"veri sızıntısı\"nın tanımıdır?",
+            "options": [
+                "Verilerin gazeteciler tarafından talep edilmesi durumunda onaylı kişilere açılmasıdır.",
+                "Verilerin web sayfalarından otomatik olarak indirilmesidir.",
+                "Yetkisiz kişilerin izin verilmemiş verilere erişmesidir.",
+                "Verilerin resmi kurumlardan alınması kaydıyla alınabilmesidir.",
+                "Verilerin bilgisayar yazılımları tarafından işlenerek elde edilmesidir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 76,
+            "question": "Verinin sürekli biçimde değiştiği, anlık olarak izlendiği ve sadece gerekli olduğu zamanlarda depolandığı bilgi deneyimleme biçimine ad verilir?",
+            "options": [
+                "Way Ray",
+                "IoT",
+                "Deneme",
+                "Süreç",
+                "Akış"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 77,
+            "question": "Aşağıdakilerden hangisi habercilikte kullanılan veri görselleştirmelerinin hizmet ettiği amaçlardan biri <u>değildir</u>?",
+            "options": [
+                "Odak noktalarını tespit",
+                "İlişkileri göstermek",
+                "Değerleri birbirleri ile kıyaslamak",
+                "Zaman içindeki değişimi göstermek",
+                "Akışları göstermek"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 78,
+            "question": "Yinelemeli Tasarım Yaklaşımı'nın temel amacı aşağıdakilerden hangisidir?",
+            "options": [
+                "Tasarım sürecinde ilk hedef olarak tasarımcının estetik kaygılarını dikkate almak",
+                "Kullanıcı geri bildirimlerine göre sürekli iyileştirme yaparak ürün veya hizmeti geliştirmek",
+                "Kullanıcı deneyimini göz ardı ederek, yalnızca teknik özelliklere odaklanmak",
+                "Kullanıcılara sürekli sorular ve açıklamalar koyarak sınamak",
+                "Tasarım tamamlandıktan sonra kullanıcıların etkileşimleri hakkında veri toplamamak"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 79,
+            "question": "------ Tasarım sürecinin hedefe yönelik belirlenen kullanıcılardan alınan test verileri ile sürekli biçimde iyileştirilmesi ve yenilenmesi anlamına gelmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Başlangıç yaklaşımı",
+                "Sabit verilerin kullanımı yaklaşım",
+                "Kullanıcı test tasarım süreci",
+                "Yinelemeli tasarım yaklaşımı",
+                "Tasarım günlüğü"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 80,
+            "question": "Aşağıdakilerden hangisi Csikszentmihalyi'ye göre, başarılı bir etkileşimin temel özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "Dengeli bir mücadele",
+                "Konsantrasyon",
+                "Kontrol hissi",
+                "Zaman kavramının yitimi",
+                "Cezalandırıcı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622603"
+        },
+        {
+            "id": 81,
+            "question": "Bilgi'nin hızla çoğalması ve insanların bilgiye kolay ulaşabilmesi aşağıdaki dönemlerden hangisinin sonucunda gerçekleşmiştir?",
+            "options": [
+                "Yakın Çağ dönemi",
+                "Antik Yunan'da",
+                "Demir Çağında",
+                "Orta Çağ'da",
+                "Sanayi Devrimi dönemi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 82,
+            "question": "Aşağıdakilerden hangisi veri ve bilgi arasındaki temel farktır?",
+            "options": [
+                "Veri, bilgi oluşturmak için kullanılan yapı taşlarıdır, bilgi ise başlangıç ve bitiş noktaları arasında değişen etki alanlarına sahiptir.",
+                "Veri, anlamsız ham malzemedir, bilgi ise veri işlenip analiz edildiğinde elde edilen dökümdür.",
+                "Veri, anlamlı ve bağlam sağlayan işlenmiş materyallerdir, bilgi ise analiz edilmemiş ham, işlenmemiş materyallerdir.",
+                "Veri, işlenip analiz edilmiş materyallerdir, bilgi ise ham, işlenmemiş malzemelerdir.",
+                "Veri, doğal değere sahip olan işlenmiş malzemelerdir, bilgi ise herhangi bir bağlam sağlamayan işlenmemiş malzemelerdir"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 83,
+            "question": "Chauvet Mağarası'ndaki mağara resimleri aşağıdaki amaçlardan hangisi için kullanılmıştır?",
+            "options": [
+                "Astronomik gözlemlerinin kaydedilmesi",
+                "Coğrafi konumların belirlenmesi",
+                "Dönemin yaşam ve olaylarına ilişkin faaliyetlerin belgelenmesi",
+                "Medikal araştırmaların desteklenmesi",
+                "Arkeolojik kazılar için yönlendirici bilgilerin sağlanması"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 84,
+            "question": "Sanayi Devrimi ile karmaşık hale gelen iş akışı ve iş gücü yönetimini ifade etmek için aşağıdaki yöntemlerden hangisi kullanılmıştır?",
+            "options": [
+                "Görselleştirmeler ve diyagramlar aracılığıyla",
+                "Renk tayfı diyagramlarıyla",
+                "Yalnızca sözel ifadelerle",
+                "Soyut kavramlarla",
+                "Müzik notaları kullanarak"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 85,
+            "question": "Bir konu hakkında bilgileri parçalayarak, bir araç veya hizmetin nasıl çalıştığını görsel olarak ileten grafiklere ne ad verilir?",
+            "options": [
+                "İstatistiksel Bilgigrafiler",
+                "Akış Şeması Bilgigrafileri",
+                "Karşılaştırma Bilgigrafileri",
+                "Anatomi Bilgigrafileri",
+                "Hiyerarşi Bilgigrafileri"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 86,
+            "question": "İstatistiksel bilgigrafilerin popüler kullanım biçimleri aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Coğrafi bilgi ve konum bilgigrafileri",
+                "Karşılaştırma bilgigrafileri ve hiyerarşi bilgigrafileri",
+                "Yuvarlak diyagramlar, sütun grafikleri ve histogramlar",
+                "Süreç bilgigrafileri ve anatomi bilgigrafileri",
+                "Zaman çizelgeleri ve öğretici bilgigrafiler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 87,
+            "question": "Aşağıdakilerden hangisi ilk kez Ackoff (1989), tarafından literatüre alınan bilgiye hiyerarşik yaklaşımda yer <u>almaz</u>?",
+            "options": [
+                "Bilgi",
+                "Süreç",
+                "Bilgi birikimi",
+                "Veri",
+                "Bilgelik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 88,
+            "question": "Çeşitli kavramlar arasındaki anlamsal ya da diğer ilişkileri görsel bir şekilde aktaran grafik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Kutu grafiği",
+                "Pasta grafik",
+                "Histogram",
+                "Zihin haritası",
+                "Çizgi grafiği"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 89,
+            "question": "Geleneksel bilgi aktarım yöntemlerinden biri olan sözlü iletişimin temelini oluşturan yöntem aşağıdakilerden hangisidir?",
+            "options": [
+                "Sözlü aktarım",
+                "Mektuplar",
+                "Kil tabletler",
+                "Yazılı metinler",
+                "Kitaplar"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 90,
+            "question": "Aşağıdakilerden hangisi tabloların avantajları arasında yer <u>almaz</u>?",
+            "options": [
+                "Verilerin düzenli ve anlaşılır bir şekilde sunulması",
+                "Farklı sınıflandırma kriterlerine göre sıralama olanağı sunması",
+                "Sayfa dolusu verilerin bir göz atımı süresinde görülmesini sağlaması",
+                "Verilerin görsel olarak zenginleştirilmesinin karmaşık görünüm sağlaması",
+                "Verilerin karşılaştırılması ve analizinde kullanılabilir olması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 91,
+            "question": "Aşağıdakilerden hangisi Gestalt psikolojisinde, figür-zemin ilkesini tanımlar?",
+            "options": [
+                "Nesnelerin bir arka plana göre nasıl algılandığına odaklanan ilkedir.",
+                "Nesnelerin birbirinden ayrılmaması ilkesidir.",
+                "Karmaşık verilerin düzenlenmesi ve ayrışması ilkesidir.",
+                "Görsel algının oluşmasıdır.",
+                "Nesnelerin karmaşıklığının artmasıdır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 92,
+            "question": "Bilgi görselleştirme tasarımı alanı aşağıdaki amaçlardan hangisini sağlamak için ortaya çıkmıştır?",
+            "options": [
+                "İki veri arasındaki farkı görmeyi sağlama",
+                "Verilerin içeriğini oluşturma ve içerik kontrollerinin yapılması",
+                "Verilerin kodlar ile alınarak saklanmasını sağlamak",
+                "Verileri grafik formlara dönüştürerek, karmaşıklıkları basitleştiren, böylece verilerin eğilimlerini belirleyerek içeriğin fark edilmesini sağlanması",
+                "Verilerin karmaşıklığını arttırarak gizliliklerinin korunmasını sağlama"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 93,
+            "question": "Aşağıdakilerden hangisi renk kullanımının bilgigrafi tasarımında unsurlarından biri <u>değildir</u>?",
+            "options": [
+                "Vurgu",
+                "Estetik",
+                "Kategorizasyon",
+                "Zaman ve değişim betimlenmesi",
+                "Uyum ve zıtlık"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 94,
+            "question": "Aşağıdakilerden hangisi görsel iletişimin diğer iletişim biçimlerine göre sağladığı avantajlardan biridir?",
+            "options": [
+                "Akılda kalıcı, evrensel anlam ve algı boyutlarına sahip olması",
+                "Sıklıkla değişken ve ölçülebilir bir yöntem olması",
+                "Yavaş anlamlandırabilme ve yavaş anlamaya yönelik olması",
+                "Sınırlı ve çoğaltılabilmeden uzak bir yöntem olması",
+                "Zaman içinde unutulma eğilimine sahip olması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 95,
+            "question": "Veri gazeteciliğinin habercilik uygulamalarında bazı değişimler ve zorlukları beraberinde getirmesinin en önemli sonucu aşağıdakilerden hangisidir?",
+            "options": [
+                "Veri analistlerinin görevlerini değiştirmesi",
+                "Tasarımcıların görselleştirme sürecine dahil olmaması",
+                "Habercilerin iş yükünü azaltması",
+                "Haber metninin uzunluğunu arttırması",
+                "Veri görselleştirmesinin haber metninin önüne geçmesi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 96,
+            "question": "Veri gazeteciliğinde nicel veriye dayalı kullanılan grafik görselleştirme biçimi aşağıdakilerden hangisidir?",
+            "options": [
+                "Örümcek grafikler",
+                "Kabarcık grafikler",
+                "Sütun grafikler",
+                "Boy grafikleri",
+                "Nokta grafikler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 97,
+            "question": "Tasarım sürecinin hedefe yönelik belirlenen kullanıcılardan alınan test verileri ile sürekli biçimde iyileştirilmesi ve yenilenmesi anlamına gelmektedir.",
+            "options": [
+                "Sabit verilerin kullanımı yaklaşım",
+                "Kullanıcı test tasarım süreci",
+                "Tasarım günlüğü",
+                "Başlangıç yaklaşımı",
+                "Yinelemeli tasarım yaklaşımı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 98,
+            "question": "Veri gazeteciliği veya veriye dayalı gazetecilik aşağıdaki hangi nedenden dolayı önem kazanmıştır?",
+            "options": [
+                "Popüler bilim dergiciliğindeki öneminin artmasıyla",
+                "Bilgisayar programcılarının haberci olarak çalışmaya başlamasıyla",
+                "Kamu kuruluşlarının faaliyetlerinin şeffaf bir şekilde açık veri kaynakları halinde erişilebilir hale gelmesiyle",
+                "Geleneksel gazeteciliğin popülerliğini kaybetmesiyle",
+                "Bilgisayar destekli haberleşmenin önemini yitirmesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 99,
+            "question": "Çeşitli teknolojik cihazlar aracılığıyla çevrede görülen fiziksel unsurların veri ve grafikler aracılığıyla zenginleştirilerek yeniden sunulması anlamına gelen kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Dijital Sunum",
+                "Arttırılmış Gerçeklik",
+                "Karma Gerçeklik",
+                "Sanal Gerçeklik",
+                "Teknolojik Gerçeklik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 100,
+            "question": "Aşağıdakilerden hangisi akış kavramının yaratıcısı Csikszentmihalyi'nin başarılı bir etkileşim için belirttiği temel özellikler arasında yer <u>almaz</u>?",
+            "options": [
+                "Konsantrasyon, kontrol hissi",
+                "Öz bilincin terk edilmesi",
+                "Zaman kavramının yitimi",
+                "Dengeli bir mücadele",
+                "Ön bildirim yapılması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606527"
+        },
+        {
+            "id": 101,
+            "question": "Bilgi'nin hızla çoğalması ve insanların bilgiye kolay ulaşabilmesi aşağıdaki dönemlerden hangisinin sonucunda gerçekleşmiştir?",
+            "options": [
+                "Yakın Çağ dönemi",
+                "Antik Yunan'da",
+                "Demir Çağında",
+                "Orta Çağ'da",
+                "Sanayi Devrimi dönemi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 102,
+            "question": "Aşağıdakilerden hangisi veri ve bilgi arasındaki temel farktır?",
+            "options": [
+                "Veri, bilgi oluşturmak için kullanılan yapı taşlarıdır, bilgi ise başlangıç ve bitiş noktaları arasında değişen etki alanlarına sahiptir.",
+                "Veri, anlamsız ham malzemedir, bilgi ise veri işlenip analiz edildiğinde elde edilen dökümdür.",
+                "Veri, anlamlı ve bağlam sağlayan işlenmiş materyallerdir, bilgi ise analiz edilmemiş ham, işlenmemiş materyallerdir.",
+                "Veri, işlenip analiz edilmiş materyallerdir, bilgi ise ham, işlenmemiş malzemelerdir.",
+                "Veri, doğal değere sahip olan işlenmiş malzemelerdir, bilgi ise herhangi bir bağlam sağlamayan işlenmemiş malzemelerdir"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 103,
+            "question": "Chauvet Mağarası'ndaki mağara resimleri aşağıdaki amaçlardan hangisi için kullanılmıştır?",
+            "options": [
+                "Astronomik gözlemlerinin kaydedilmesi",
+                "Coğrafi konumların belirlenmesi",
+                "Dönemin yaşam ve olaylarına ilişkin faaliyetlerin belgelenmesi",
+                "Medikal araştırmaların desteklenmesi",
+                "Arkeolojik kazılar için yönlendirici bilgilerin sağlanması"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 104,
+            "question": "Sanayi Devrimi ile karmaşık hale gelen iş akışı ve iş gücü yönetimini ifade etmek için aşağıdaki yöntemlerden hangisi kullanılmıştır?",
+            "options": [
+                "Görselleştirmeler ve diyagramlar aracılığıyla",
+                "Renk tayfı diyagramlarıyla",
+                "Yalnızca sözel ifadelerle",
+                "Soyut kavramlarla",
+                "Müzik notaları kullanarak"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 105,
+            "question": "Bir konu hakkında bilgileri parçalayarak, bir araç veya hizmetin nasıl çalıştığını görsel olarak ileten grafiklere ne ad verilir?",
+            "options": [
+                "İstatistiksel Bilgigrafiler",
+                "Akış Şeması Bilgigrafileri",
+                "Karşılaştırma Bilgigrafileri",
+                "Anatomi Bilgigrafileri",
+                "Hiyerarşi Bilgigrafileri"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 106,
+            "question": "İstatistiksel bilgigrafilerin popüler kullanım biçimleri aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Coğrafi bilgi ve konum bilgigrafileri",
+                "Karşılaştırma bilgigrafileri ve hiyerarşi bilgigrafileri",
+                "Yuvarlak diyagramlar, sütun grafikleri ve histogramlar",
+                "Süreç bilgigrafileri ve anatomi bilgigrafileri",
+                "Zaman çizelgeleri ve öğretici bilgigrafiler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 107,
+            "question": "Aşağıdakilerden hangisi ilk kez Ackoff (1989), tarafından literatüre alınan bilgiye hiyerarşik yaklaşımda yer <u>almaz</u>?",
+            "options": [
+                "Bilgi",
+                "Süreç",
+                "Bilgi birikimi",
+                "Veri",
+                "Bilgelik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 108,
+            "question": "Çeşitli kavramlar arasındaki anlamsal ya da diğer ilişkileri görsel bir şekilde aktaran grafik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Kutu grafiği",
+                "Pasta grafik",
+                "Histogram",
+                "Zihin haritası",
+                "Çizgi grafiği"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 109,
+            "question": "Geleneksel bilgi aktarım yöntemlerinden biri olan sözlü iletişimin temelini oluşturan yöntem aşağıdakilerden hangisidir?",
+            "options": [
+                "Sözlü aktarım",
+                "Mektuplar",
+                "Kil tabletler",
+                "Yazılı metinler",
+                "Kitaplar"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 110,
+            "question": "Aşağıdakilerden hangisi tabloların avantajları arasında yer <u>almaz</u>?",
+            "options": [
+                "Verilerin düzenli ve anlaşılır bir şekilde sunulması",
+                "Farklı sınıflandırma kriterlerine göre sıralama olanağı sunması",
+                "Sayfa dolusu verilerin bir göz atımı süresinde görülmesini sağlaması",
+                "Verilerin görsel olarak zenginleştirilmesinin karmaşık görünüm sağlaması",
+                "Verilerin karşılaştırılması ve analizinde kullanılabilir olması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 111,
+            "question": "Aşağıdakilerden hangisi Gestalt psikolojisinde, figür-zemin ilkesini tanımlar?",
+            "options": [
+                "Nesnelerin bir arka plana göre nasıl algılandığına odaklanan ilkedir.",
+                "Nesnelerin birbirinden ayrılmaması ilkesidir.",
+                "Karmaşık verilerin düzenlenmesi ve ayrışması ilkesidir.",
+                "Görsel algının oluşmasıdır.",
+                "Nesnelerin karmaşıklığının artmasıdır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 112,
+            "question": "Bilgi görselleştirme tasarımı alanı aşağıdaki amaçlardan hangisini sağlamak için ortaya çıkmıştır?",
+            "options": [
+                "İki veri arasındaki farkı görmeyi sağlama",
+                "Verilerin içeriğini oluşturma ve içerik kontrollerinin yapılması",
+                "Verilerin kodlar ile alınarak saklanmasını sağlamak",
+                "Verileri grafik formlara dönüştürerek, karmaşıklıkları basitleştiren, böylece verilerin eğilimlerini belirleyerek içeriğin fark edilmesini sağlanması",
+                "Verilerin karmaşıklığını arttırarak gizliliklerinin korunmasını sağlama"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 113,
+            "question": "Aşağıdakilerden hangisi renk kullanımının bilgigrafi tasarımında kullanılan unsurlarından biri <u>değildir</u>?",
+            "options": [
+                "Vurgu",
+                "Estetik",
+                "Kategorizasyon",
+                "Zaman ve değişim betimlenmesi",
+                "Uyum ve zıtlık"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 114,
+            "question": "Aşağıdakilerden hangisi görsel iletişimin diğer iletişim biçimlerine göre sağladığı avantajllardan biridir?",
+            "options": [
+                "Akılda kalıcı, evrensel anlam ve algı boyutlarına sahip olması",
+                "Sıklıkla değişken ve ölçülebilir bir yöntem olması",
+                "Yavaş anlamlandırabilme ve yavaş anlamaya yönelik olması",
+                "Sınırlı ve çoğaltılabilmeden uzak bir yöntem olması",
+                "Zaman içinde unutulma eğilimine sahip olması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 115,
+            "question": "Veri gazeteciliğinin habercilik uygulamalarında bazı değişimler ve zorlukları beraberinde getirmesinin en önemli sonucu aşağıdakilerden hangisidir?",
+            "options": [
+                "Veri analistlerinin görevlerini değiştirmesi",
+                "Tasarımcıların görselleştirme sürecine dahil olmaması",
+                "Habercilerin iş yükünü azaltması",
+                "Haber metninin uzunluğunu arttırması",
+                "Veri görselleştirmesinin haber metninin önüne geçmesi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 116,
+            "question": "Veri gazeteciliğinde nicel veriye dayalı kullanılan grafik görselleştirme biçimi aşağıdakilerden hangisidir?",
+            "options": [
+                "Örümcek grafikler",
+                "Kabarcık grafikler",
+                "Sütun grafikler",
+                "Boy grafikleri",
+                "Nokta grafikler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 117,
+            "question": "Tasarım sürecinin hedefe yönelik belirlenen kullanıcılardan alınan test verileri ile sürekli biçimde iyileştirilmesi ve yenilenmesi anlamına gelmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Sabit verilerin kullanımı yaklaşım",
+                "Kullanıcı test tasarım süreci",
+                "Tasarım günlüğü",
+                "Başlangıç yaklaşımı",
+                "Yinelemeli tasarım yaklaşımı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 118,
+            "question": "Veri gazeteciliği veya veriye dayalı gazetecilik aşağıdaki hangi nedenden dolayı önem kazanmıştır?",
+            "options": [
+                "Popüler bilim dergiciliğindeki öneminin artmasıyla",
+                "Bilgisayar programcılarının haberci olarak çalışmaya başlamasıyla",
+                "Kamu kuruluşlarının faaliyetlerinin şeffaf bir şekilde açık veri kaynakları halinde erişilebilir hale gelmesiyle",
+                "Geleneksel gazeteciliğin popülerliğini kaybetmesiyle",
+                "Bilgisayar destekli haberleşmenin önemini yitirmesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 119,
+            "question": "Çeşitli teknolojik cihazlar aracılığıyla çevrede görülen fiziksel unsurların veri ve grafikler aracılığıyla zenginleştirilerek yeniden sunulması anlamına gelen kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Dijital Sunum",
+                "Arttırılmış Gerçeklik",
+                "Karma Gerçeklik",
+                "Sanal Gerçeklik",
+                "Teknolojik Gerçeklik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        },
+        {
+            "id": 120,
+            "question": "Aşağıdakilerden hangisi akış kavramının yaratıcısı Csikszentmihalyi'nin başarılı bir etkileşim için belirttiği temel özellikler arasında yer <u>almaz</u>?",
+            "options": [
+                "Konsantrasyon, kontrol hissi",
+                "Öz bilincin terk edilmesi",
+                "Zaman kavramının yitimi",
+                "Dengeli bir mücadele",
+                "Ön bildirim yapılması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626560"
+        }
+    ]
+}

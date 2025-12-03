@@ -1,0 +1,1804 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Aşağıdakilerden hangisi dijital ses düzenleme işlemlerinde yaygın olarak kullanılan yazılımlardan biridir?",
+            "options": [
+                "Rush",
+                "Premier Pro",
+                "Lightroom",
+                "Adobe Audition",
+                "InDesign"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 2,
+            "question": "Renk teorisine göre, renk çemberinde birbirlerinin karşısında yer alan ve birlikte yüksek kontrast oluşturan renk armonisinin türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Analog Renkler",
+                "Triadic Renkler",
+                "Tamamlayıcı Renkler",
+                "Tetrad Renkler",
+                "Üçüncül Renkler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 3,
+            "question": "Aşağıdakilerden hangisi vektörel çizim ile karşılaştırıldığında bitmap görüntü işlemenin dezavantajlarından biridir?",
+            "options": [
+                "Renk zenginliği ve detay düzeylerinin düşük olması",
+                "Düzenleme seçeneklerinin kısıtlı olması",
+                "Katman kullanımının desteklenmemesi",
+                "Yüksek çözünürlükte çalışmanın mümkün olmaması",
+                "Görüntü ölçeklendirilmese olası kalite kayıpları"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 4,
+            "question": "Google tarafından özellikle web kullanımına yönelik geliştirilmiş görsel dosya formatı aşağıdakilerden hangisidir?",
+            "options": [
+                "WEBP",
+                "JPEGG",
+                "PNG",
+                "SVG",
+                "GIF"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 5,
+            "question": "Arayüz tasarımının insan-bilgisayar etkileşimindeki en önemli etkisi aşağıdakilerden hangisidir?",
+            "options": [
+                "Kullanıcıların teknolojiyi sorgulamasını sağlar.",
+                "İlgili teknolojiye odaklanılmasını sağlar.",
+                "Kullanıcı memnuniyetini, erişilebilirliği ve etkileşim etkinliğini artırır.",
+                "Kullanıcıların bir ürüne yönelik güvenini arttırır.",
+                "Deneyimsiz kullanıcılar için yazılımları kolaylaştırır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 6,
+            "question": "Aşağıdakilerden hangisi 1970'li yıllarda piyasaya sürülen ilk grafiksel kullanıcı arayüzüne sahip bilgisayarlardan biridir?",
+            "options": [
+                "IBM Dezi",
+                "DELL MX",
+                "HP xComp",
+                "Apple II",
+                "Microsoft PC"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 7,
+            "question": "Arayüz tasarımında <u>ilkesi</u>, kullanıcıların arayüzü en az çabayla, hızlı, kolay ve var olan alışkanlıklarıyla çelişmeyecek şekilde keşfedebilmeleri gerektiğini vurgular.",
+            "options": [
+                "estetik",
+                "sezgisellik",
+                "karşıtlık",
+                "ritim ve tekrar",
+                "erişilebilirlik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 8,
+            "question": "Duyarlı (responsive) tasarıma uygun olarak oluşturulan web arayüzlerinde ziyaretçilere platformun temel içeriği ve işlevleri hakkında hızlı bir özet sağlar; logo, gezinme menüsü, arama fonksiyonu ve kullanıcı girişi gibi bileşenleri barındırır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "içerik haritası (breadcrumb)",
+                "ana içerik (body)",
+                "başlık (header)",
+                "kenar çubuğu (aside)",
+                "altbilgi (footer)"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 9,
+            "question": "Aşağıdakilerden hangisi arayüz tasarımında kullanılan form bileşenlerinden biri <u>değildir</u>?",
+            "options": [
+                "Düğme (Button)",
+                "Onay Kutusu (Checkbox)",
+                "Liste Kutusu (Listbox)",
+                "İpucu (Tooltip)",
+                "Metin Alanı (Textfield)"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 10,
+            "question": "---------- iki veya daha fazla değişkenin karşılaştırılması amacıyla kullanılan istatistiksel bir deney tasarımıdır. Genellikle web siteleri, mobil uygulamalar veya pazarlama materyalleri gibi dijital ortamlarda kullanılan farklı versiyonların performanslarını ölçmek için uygulanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Anova",
+                "T-Test",
+                "Göz İzleme Testi",
+                "Metrix",
+                "A/B Testi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 11,
+            "question": "Geri bildirim döngüsünde, toplanan kullanıcı geri bildirimlerinin değerlendirilip sınıflandırıldığı ve önceliklendirildiği aşama aşağıdakilerden hangisidir?",
+            "options": [
+                "Analiz",
+                "Uygulama ve İyileştirme",
+                "Değerlendirme",
+                "Döngünün Yenilenmesi",
+                "Toplama"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 12,
+            "question": "İnsan-bilgisayar etkileşimi (İBE) kullanıcı dostu, erişilebilir ve etkili arayüz tasarımları yoluyla teknolojiyi insan ihtiyaçlarına daha iyi hizmet eder hâle getirmeyi amaçlar. Yukarıdaki ifadeye göre aşağıdakilerden hangisi İBE'nin temel bileşenlerinden biri <u>değildir</u>?",
+            "options": [
+                "Bağlam",
+                "Ağ",
+                "Açış",
+                "Kullanıcılar",
+                "Görev"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 13,
+            "question": "Her türlü düşünceye açık bir ortamda ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaşmasını öngören yaratıcı düşünme tekniğine ne ad verilir?",
+            "options": [
+                "Mükemmelleştirme",
+                "Beyin Fırtınası (Brainstorming)",
+                "Teknoloji Analizi (Benchmarking)",
+                "Moodboard",
+                "Storyboard"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 14,
+            "question": "----------; kullanıcıların bir ürün, web sitesi veya uygulama içinde etkileşime girebileceği tasarım kalıplarını ve ögelerini ifade etmek için kullanılan bir kavramdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Etkileşim deseni",
+                "Arayüz",
+                "Erişilebilirlik",
+                "Geri bildirim döngüsü",
+                "A/B Testi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 15,
+            "question": "Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? Gestalt ilkeleri tasarım <u>ilkesinin</u> temel prensiplerinden biridir.",
+            "options": [
+                "Devamlılık (Continuity)",
+                "Kapanış (Closure)",
+                "Benzerlik (Similarity)",
+                "Yakınlık (Proximity)",
+                "Açıklık (Openness)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 16,
+            "question": "Aşağıdakilerden hangisi JavaScript ile mobil uygulamalar geliştirmek amacıyla yaygın olarak kullanılan çatılardan (frameworks) biridir?",
+            "options": [
+                "SPA",
+                "React Native",
+                "Android",
+                "WebGL",
+                "Angular"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 17,
+            "question": "Aşağıdaki web teknolojilerinden hangisi arka uç (back-end) geliştirmede kullanılmaz?",
+            "options": [
+                "C#",
+                "Python",
+                "SQL",
+                "CSS",
+                "PHP"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 18,
+            "question": "İnternet ile web arasındaki fark ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "İnternet ve web aynı şeydir; her ikisi de dijital içeriklerin paylaşılmasını sağlar.",
+                "Web, internetin bir parçası olup e-posta ve dosya transferi gibi hizmetleri içerir.",
+                "Web, global bilgisayar ağ yapısının genel adıdır, internet ise webin altında çalışan popüler bir servistir.",
+                "HTTP üzerinde çalışan ağ yapılarına internet, HTTPS üzerinde çalışanlara ise web adı verilir.",
+                "İnternet, dünya genelinde milyonlarca bilgisayarın birbirine bağlı olduğu geniş bir ağdır, web ise bu ağ üzerindeki dijital içeriklere erişim sağlar."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 19,
+            "question": "HTML ögelerinin görsel sunumunu düzenlemek için geliştirilmiş bir betik dilidir, web sayfalarının nasıl görüneceğini ve kullanıcı deneyiminin nasıl olacağını yönetmeye imkân verir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "CSS",
+                "JavaScript",
+                "JSS",
+                "Web",
+                "CES"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 20,
+            "question": "Bir HTML sayfasında kullanıcının gördüğü tüm içerikler aşağıdaki etiketlerden hangisi içerisine yazılmalıdır?",
+            "options": [
+                "Title",
+                "Body",
+                "Head",
+                "Section",
+                "P"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565292"
+        },
+        {
+            "id": 21,
+            "question": "1. Tasarım sürecinin ilk aşaması aşağıdakilerden hangisidir?",
+            "options": [
+                "Prototip geliştirme",
+                "Test ve değerlendirme",
+                "Problemi tanımlama",
+                "Taslağı detaylandırma",
+                "Öneri geliştirme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 22,
+            "question": "2. Aşağıdakilerden hangisi görsel içeriklerin arayüz tasarımındaki güçlü yönlerinden biri <u>değildir</u>?",
+            "options": [
+                "Dikkat çekicilik",
+                "Anında iletişim",
+                "Duygusal etkileşim",
+                "Hafızada kalıcılık",
+                "Düşük dosya boyutu"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 23,
+            "question": "3. Aşağıdakilerden hangisi vektörel çizim ile karşılaştırıldığında bitmap görüntü işlemenin dezavantajlarından biridir?",
+            "options": [
+                "Yüksek çözünürlükte çalışmanın mümkün olmaması",
+                "Renk zenginliği ve detay düzeylerinin düşük olması",
+                "Görüntü ölçeklendirmedeki olası kalite kayıpları",
+                "Düzenleme seçeneklerinin kısıtlı olması",
+                "Katman kullanımının desteklenmemesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 24,
+            "question": "4. Aşağıdakilerden hangisi dijital ses düzenleme işlemlerinde yaygın olarak kullanılan yazılımlardan biridir?",
+            "options": [
+                "Adobe Audition",
+                "InDesign",
+                "Premier Pro",
+                "Rush",
+                "Lightroom"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 25,
+            "question": "5. Birlikte yüksek kontrast oluşturan ve renk çemberinde birbirinin karşısında yer alan renklere ne ad verilir?",
+            "options": [
+                "Pastel renkler",
+                "Anolog renkler",
+                "Triadic renkler",
+                "Tamamlayıcı renkler",
+                "Ana renkler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 26,
+            "question": "6. Aşağıdakilerden hangisi arayüz tasarımında kullanılan form bileşenlerinden biri <u>değildir</u>?",
+            "options": [
+                "Liste Kutusu (Listbox)",
+                "Düğme (Button)",
+                "Onay Kutusu (Checkbox)",
+                "Metin Alanı (Textfield)",
+                "İpucu (Tooltip)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 27,
+            "question": "7. Aşağıdakilerden hangisi illüstratif tasarım (illustrative design) stilini diğerlerinden ayıran belirgin özelliklerinden biridir?",
+            "options": [
+                "Sadece vektörel grafikler kullanılması",
+                "Tipografinin ön planda olması",
+                "Renkli ve eğlenceli yapısıyla özgün çizimler ve karakterlerle görsel zenginlik katılması",
+                "Minimalist bir yaklaşım benimsenmesi",
+                "Yoğun gölgelendirme efektleri kullanılması"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 28,
+            "question": "8. Aşağıdakilerden hangisi duyarlı (responsive) tasarımın temel prensiplerinden biri <u>değildir</u>?",
+            "options": [
+                "Esnek Izgara sistemleri kullanmak",
+                "Medya sorguları ile farklı ekran boyutlarına uyum sağlamak",
+                "Farklı cihazlarda tutarlı bir kullanıcı deneyimi sunmak",
+                "Mobil uyumlu navigasyon ögeleri kullanmak",
+                "İçeriği piksel tabanlı sabit boyutlarda tasarlamak"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 29,
+            "question": "9. Arayüz tasarımında ---- ilkesi, kullanıcıların arayüzü en az çabayla, hızlı, kolay ve var olan alışkanlıklarıyla çelişmeyecek şekilde keşfedebilmeleri gerektiğini vurgular.",
+            "options": [
+                "erişilebilirlik",
+                "sezgisellik",
+                "karşıtlık",
+                "ritim ve tekrar",
+                "estetik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 30,
+            "question": "10. Kullanıcı deneyimi tasarımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Kullanıcıların bir ürün ya da hizmeti kullanırken yaşadıkları her türlü etkileşimi, duyguyu, düşünceyi, deneyimi ve tepkiyi içerir.",
+                "Kullanıcıları yalnızca görsel olarak etkileyici arayüzlerle buluşturmayı sağlar.",
+                "Dijital tasarımlarda yalnızca estetik kaygıları öne çıkarmak amacıyla sunulan çalışmaları hedefler.",
+                "Kullanıcıların ürünleri nasıl kullanacağına dair detaylı eğitimlerin içeriğini oluşturur.",
+                "Ürün geliştirme süreçlerini hızlandırmak için kullanılır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 31,
+            "question": "11. Duyarlı (responsive) tasarıma uygun olarak oluşturulan web arayüzlerinde ---- ziyaretçilere platformun temel içeriği ve işlevleri hakkında hızlı bir özet sağlar; logo, gezinme menüsü, arama fonksiyonu ve kullanıcı girişi gibi bileşenleri barındırır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "altbilgi (footer)",
+                "kenar çubuğu (aside/)",
+                "içerik haritası (breadcrumb)",
+                "başlık (header)",
+                "ana içerik (body)"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 32,
+            "question": "12. Aşağıdakilerden hangisi Gestalt İlkeleri kapsamında \"Figür-Zemin İlişkisi\" tasarım prensibini tanımlar?",
+            "options": [
+                "UX ve Ul tasarım süreçlerinin birbirine entegre edilmesini sağlar.",
+                "Bir nesnenin öne çıktığı veya ana nesnenin arka plandan ayrıldığı ilişkiyi ifade eder.",
+                "Kullanıcıların içerik parçalarını gruplayarak algılamasına yardımcısıdır.",
+                "Renklerin kullanıcının duygusal tepkilerini bilişsel yükünü artırarak yönlendirmesini ifade eder.",
+                "Kullanıcıların bilişsel yükünü artırarak deneyimlerini iyileştirir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 33,
+            "question": "13. UX tasarımında kullanıcı hikâyelerini haritalamanın temel amacı aşağıdakilerden hangisidir?",
+            "options": [
+                "Kullanıcıların deneyimlerini ve etkileşimlerini belirli bir süreç içinde görselleştirmek",
+                "Kullanıcılara ürün hakkında doğrudan eğitim vermek",
+                "Web sitelerinin yalnızca teknik altyapısını test etmek",
+                "Kullanıcıları bir ürünü nasıl kullanmaları gerektiği konusunda kısıtlamak",
+                "Kullanıcı geri bildirimlerini yok sayarak yalnızca estetik kaygılarla hareket etmek"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 34,
+            "question": "14. Gestalt İlkeleri, görsel iletişim bağlamında tasarımcılara kılavuzluk eden temel bir rehber niteliğindedir. Yukarıdaki ifadeye göre, aşağıdakilerden hangisi Gestalt İlkelerinin temel prensiplerinden biri <u>değildir</u>?",
+            "options": [
+                "Kapanış (Closure)",
+                "Benzerlik (Similarity)",
+                "Yakınlık (Proximity)",
+                "Devamlılık (Continuity)",
+                "Açıklık (Openness)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 35,
+            "question": "15. Web tasarım ve geliştirme süreçlerinde doğrudan CSS kodlamak yerine çoğunlukla tasarım sistemlerinden yararlanılır. Yukarıdaki ifadeye göre aşağıdakilerden hangisi web geliştirmede yaygın olarak kullanılan tasarım sistemlerinden biri <u>değildir</u>?",
+            "options": [
+                "Semantic UI",
+                "Bulma",
+                "Tailwind",
+                "xCss UI",
+                "Bootstrap"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 36,
+            "question": "16. Android işletim sistemine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Kapalı kaynak kodludur ve sadece belirli cihazlarda çalışır.",
+                "Google tarafından geliştirilen açık kaynaklı bir mobil işletim sistemidir.",
+                "Yalnızca cep telefonları için geliştirilmiştir.",
+                "Apple cihaz ekosisteminde çalışır.",
+                "Kullanıcıların farklı kaynaklardan uygulama yüklemelerine izin vermez."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 37,
+            "question": "17. ---- iki veya daha fazla değişkenin karşılaştırılması amacıyla kullanılan istatistiksel bir deney tasarımıdır. Genellikle web siteleri, mobil uygulamalar veya pazarlama materyalleri gibi dijital ortamlarda kullanılan farklı versiyonların performanslarını ölçmek için uygulanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Göz İzleme Testi",
+                "Anova",
+                "A/B Testi",
+                "Metrix",
+                "T-Test"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 38,
+            "question": "18. İnternet tarayıcısından bir web sayfasına erişim sırasında DNS sorgulamasının amacı aşağıdakilerden hangisidir?",
+            "options": [
+                "Web sitesinin alan adını o alan adına karşılık gelen IP adresine dönüştürmek",
+                "Kullanıcının tarayıcı geçmişini temizlemek",
+                "Web sayfasını ilgili içerik yönetim sistemine (CMS) yönlendirmek",
+                "Web sayfasının yüklenme süresini kısaltmak",
+                "Kullanıcının cihaz güvenliğini doğrulamak"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 39,
+            "question": "19. Aşağıdaki web teknolojilerinden hangisi arka uç (back-end) geliştirmede kullanılmaz?",
+            "options": [
+                "Python",
+                "C#",
+                "SQL",
+                "CSS",
+                "PHP"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 40,
+            "question": "20. İnternet ile web arasındaki fark ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "İnternet ve web aynı şeydir; her ikisi de dijital içeriklerin paylaşılmasını sağlar.",
+                "İnternet, dünya genelinde milyonlarca bilgisayarın birbirine bağlı olduğu geniş bir ağdır, web ise bu ağ üzerindeki dijital içeriklere erişim sağlar.",
+                "Web, internetin bir parçası olup e-posta ve dosya transferi gibi hizmetleri içerir.",
+                "Web, global bilgisayar ağ yapısının genel adıdır, internet ise webin altında çalışan popüler bir servistir.",
+                "HTTP üzerinde çalışan ağ yapılarına internet, HTTPS üzerinde çalışanlara ise web adı verilir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618228"
+        },
+        {
+            "id": 41,
+            "question": "Bilişsel Yük kavramının UX tasarımındaki önemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Bilişsel yük, kullanıcıların hafızasıyla ilgili bir ölçümdür, UX tasarımı ile ilgili değildir.",
+                "Bilişsel yük, kullanıcıların bir ürünü veya hizmeti kullanırken karşılaştıkları zihinsel çabanın artırılmasını hedefler.",
+                "Bilişsel yükü azaltmak, kullanıcıların ürünlerle etkileşimini daha verimli hâle getirerek kullanıcı memnuniyetini artırır.",
+                "Karmaşık ve dağınık kullanıcı arayüzleri bilişsel yükü azaltır.",
+                "Yüksek bilişsel yük, kullanıcının bir ürünü veya hizmeti daha kolay anlamasını ve kullanmasını sağlar."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 42,
+            "question": "Birlikte yüksek kontrast oluşturan ve renk çemberinde birbirinin karşısında yer alan renklere ne ad verilir?",
+            "options": [
+                "Tamamlayıcı renkler",
+                "Triadic renkler",
+                "Pastel renkler",
+                "Analog renkler",
+                "Ana renkler"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 43,
+            "question": "Aşağıdakilerden hangisi web arayüzlerinin ayırt edici özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "Etkileşim ve görsellik açısından zengin olması",
+                "Platform bağımsızlığı sağlaması",
+                "Geniş erişilebilirlik ve uyumluluk sunması",
+                "Uygun fiyatlı bir çözüm olması",
+                "Canlı güncellemelere izin vermesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 44,
+            "question": "Aşağıdaki gezinti bileşenlerinden hangisi kullanıcının bir uygulama veya web sitesi içerisindeki mevcut gezinme konumunu ve geri dönüş yolunu göstermek için kullanılır?",
+            "options": [
+                "Akordiyon Menü (Accordion Menu)",
+                "İçerik Haritası (Breadcrumb)",
+                "Bağlantı (Link)",
+                "Sayfalama (Pagination)",
+                "Sekme Menü (Tabs)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 45,
+            "question": "Web ve mobil uygulama arayüzlerinde video içeriği kullanırken uygulanan \"Tembel Yükleme (Lazy Loading)\" tekniği aşağıdaki sorunlardan hangisini çözmeye yardımcı olur?",
+            "options": [
+                "Video kalitesinin düşmesini önlemek",
+                "Video içeriğinin arama motoru optimizasyonunu artırmak",
+                "Kullanıcıların video içeriğini daha hızlı indirmesini sağlamak",
+                "Arayüzlerin başlangıç yükleme süresini azaltmak ve kullanıcı deneyimini iyileştirmek",
+                "Videoların çeşitli cihazlarda farklı ekran boyutlarına uyum sağlamasını garantilemek"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 46,
+            "question": "Arayüz tasarımında geri bildirimin animasyonlarının kullanımıyla ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Arayüze yalnızca estetik değer sunar ve işlevsel bir amaca hizmet etmez.",
+                "Değişiklik körlüğünün önüne geçmek için kulu bir aracıdır.",
+                "Kullanıcıların dikkatini eylemlerinin sonuçlarına yönlendirerek arayüzle olan etkileşimlerini artırır.",
+                "Kullanıcıların yeni bilgileri veya güncellemeleri gözden kaçırmasını önler.",
+                "Kullanıcı deneyimini kesintiye uğratmadan daha akıcı bir durum bildirimi sağlar."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 47,
+            "question": "cansız nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan bir kendini ifade etme çabasına veya sanat formuna vurgu yapar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kısa Film",
+                "Efekt",
+                "Video",
+                "Animasyon",
+                "Sunum"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 48,
+            "question": "Aşağıdaki dijital medya türlerinin hangisinde hareket tasarımının yoğun bir şekilde <u>kullanılmaz</u>?",
+            "options": [
+                "Video ve Film Prodüksiyonu",
+                "Kullanıcı Arayüzleri (UI)",
+                "Dijital Reklamlar",
+                "Sosyal Medya",
+                "E-kitap Yayıncılığı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 49,
+            "question": "Aşağıdakilerden hangisi dijital oyunlarda karakter tasarımının amaçlarından biridir?",
+            "options": [
+                "Oyun dünyasının fiziksel kurallarını belirlemek",
+                "Oyuncuların oyunla duygusal bağ kurmasını teşvik etmek",
+                "Hikâyenin geçtiği çevreyi ve atmosferi oluşturmak",
+                "Oyun mekaniklerinin temel kurallarını tanımlamak",
+                "Oyun dinamiklerinin algoritmasını yönetmek"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 50,
+            "question": "1985 yılında piyasaya sürülen ____ ile oyunlar ilk kez statik kamera açısından yana doğru kayan hareketli bir kamera açısına geçiş yaptı. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Super Mario Bros",
+                "Donkey Kong",
+                "Forza",
+                "Pokemon",
+                "Legend of Zelda"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 51,
+            "question": "Aşağıdakilerden hangisi dijital oyunlarda kullanıcılara uyarlama ve özelleştirme imkânı sunmak için kullanılan tekniklerden biri <u>değildir</u>?",
+            "options": [
+                "Kontrol Şemalarının Özelleştirilmesi",
+                "Zorluk Seviyesi Ayarları",
+                "Menü yapısının değiştirilmesi",
+                "Görsel ve Ses Ayarları",
+                "Arayüz Ögelerinin Yerleşimi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 52,
+            "question": "Bir kişinin ya da bir nesnenin fiziksel olarak bulunmadığı bir yerde, genellikle başka bir uzak yerde, bir varlık gibi hissedilmesini sağlayan bir teknolojiyi veya deneyimi ifade etmek amacıyla kullanılan sanal gerçeklik terimi aşağıdakilerden hangisidir?",
+            "options": [
+                "Yer yanılsaması",
+                "İnandırıcılık yanılsaması",
+                "Sürükleyicilik",
+                "Sanal varlık",
+                "Telebulunma (Telepresence)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 53,
+            "question": "Güncel oyunlarının başlangıç ekranlarında halen kullanılan \"Press Any Key to Continue (Devam etmek için herhangi bir tuşa basınız)\" ifadesi ilk defa aşağıdaki oyunlardan hangisinde kullanılmıştır?",
+            "options": [
+                "Pac-Man",
+                "Spacewar",
+                "Pong",
+                "OXO",
+                "Pokemon"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 54,
+            "question": "Başa takılan ekranların ilk örneklerinden biri olarak kabul edilen ____ teknolojisinin gelişiminde önemli bir yere sahip olan stereoskopik ____ verilir?",
+            "options": [
+                "Sensorama",
+                "Piyade Tüfeği Gözlükleri",
+                "Kiesler Maskesi",
+                "Video Place",
+                "Demokles'in Kılıcı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 55,
+            "question": "Aşağıdakilerden hangisi genişletilmiş gerçeklik (XR) uygulamaları geliştirmek amacıyla kullanılabilecek oyun motorlarından biridir?",
+            "options": [
+                "WebXR",
+                "Unity",
+                "MRTK",
+                "A-Frame",
+                "HoloLens"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 56,
+            "question": "Aşağıdakilerden hangisi eğlence sektöründe dijital tasarımın giderek daha fazla kişiselleştirilmiş içerik sunma eğilimine bir örnektir?",
+            "options": [
+                "Yüz yüze ve çevrimiçi eğitimlerin bir arada sunulması",
+                "Profesyonel video prodüksiyonlarının uzaktan iş birliği ile yapılması",
+                "Sosyal medya platformlarının kullanıcı sayısının artması",
+                "Grafik tasarım ve animasyonun temel tekniklerinin öğretilmesi",
+                "Etkileşimli filmlerin ve oyunların artan popülaritesi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 57,
+            "question": "Aşağıdakilerden hangisi web geliştirme tecrübesine sahip kişilerin genişletilmiş gerçeklik (XR) uygulamaları oluştururken öncelikli olarak tercih edebileceği kütüphanelerden biridir?",
+            "options": [
+                "Unreal Engine",
+                "MRTK",
+                "A-Frame",
+                "Unity",
+                "HoloLens"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 58,
+            "question": "Sergi amacıyla yapılmış üç boyutlu büyük tablo olarak da ifade edilen ____ gerçek veya kurgu bir olayın, anın veya hikâyenin ışık oyunları yardımıyla üç boyutlu olarak modellenmesidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Diorama",
+                "Tuvatu",
+                "Metas",
+                "NFT",
+                "HoloPaint"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 59,
+            "question": "Yapay zekâ ve derin öğrenme teknikleri kullanılarak yapılan video manipülasyon tekniğine ne ad verilir?",
+            "options": [
+                "HoloVid",
+                "Memex",
+                "Dumps",
+                "Deepfake",
+                "Transifex"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 60,
+            "question": "Gelecekte bir yapay zekânın her türlü dijital varlığı aynı simülasyon ortamında birleştirebileceğini savunan teknolojik ön görü aşağıdakilerden hangisidir?",
+            "options": [
+                "Sürükleyici gerçeklik",
+                "Metaverse",
+                "Genişletilmiş gerçeklik",
+                "Yeni gerçeklik",
+                "Simüle edilmiş gerçeklik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571104"
+        },
+        {
+            "id": 61,
+            "question": "Aşağıdaki gezinti bileşenlerinden hangisi kullanıcının bir uygulama veya web sitesi içerisindeki mevcut gezinme konumunu ve geri dönüş yolunu göstermek için kullanılır?",
+            "options": [
+                "Sekme Menü (Tabs)",
+                "İçerik Haritası (Breadcrumb)",
+                "Akordiyon Menü (Accordion Menu)",
+                "Sayfalama (Pagination)",
+                "Bağlantı (Link)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 62,
+            "question": "Renk teorisine göre, renk çemberinde birbirlerinin karşısında yer alan ve birlikte yüksek kontrast oluşturan renk armonisinin türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Tetrad Renkler",
+                "Üçüncül Renkler",
+                "Tamamlayıcı Renkler",
+                "Analog Renkler",
+                "Triadic Renkler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 63,
+            "question": "Geri bildirim döngüsünde, toplanan kullanıcı geri bildirimlerinin değerlendirilip sınıflandırıldığı ve önceliklendirildiği aşama aşağıdakilerden hangisidir?",
+            "options": [
+                "Toplama",
+                "Döngünün Yenilenmesi",
+                "Uygulama ve İyileştirme",
+                "Analiz",
+                "Değerlendirme"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 64,
+            "question": "Aşağıdaki efektlerden hangisi kullanıcıya bir ögenin ekrana kenardan veya köşeden içeri doğru kayarak girmesini gösterir?",
+            "options": [
+                "Slide In/Out",
+                "Fade In/Out",
+                "Rotation",
+                "Blur",
+                "Zoom"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 65,
+            "question": "Bir HTML sayfasında kullanıcının gördüğü tüm içerikler aşağıdaki etiketlerden hangisi içerisine yazılmalıdır?",
+            "options": [
+                "P",
+                "Body",
+                "Title",
+                "Head",
+                "Section"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 66,
+            "question": "Aşağıdakilerden hangisi durum değişikliği animasyonlarının kullanım amaçlarından biridir?",
+            "options": [
+                "Kullanıcıları daha fazla tıklamaya teşvik etmek",
+                "Kullanıcının dikkatini animasyonların kendisine çekmek",
+                "Kullanıcı deneyimini anlamlandırmak",
+                "Kullanıcıların sayfa içeriğini göz ardı etmesini sağlamak",
+                "Kullanıcının arayüzdeki farklı bir moda geçtiğini görsel olarak ifade etmek"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 67,
+            "question": "Web ve mobil uygulama arayüzlerinde video içeriği kullanırken uygulanan \"Tembel Yükleme (Lazy Loading)\" tekniği aşağıdaki sorunlardan hangisini çözmeye yardımcı olur?",
+            "options": [
+                "Video içeriğinin düşmesini önlemek",
+                "Video içeriğinin arama motoru optimizasyonunu artırmak",
+                "Kullanıcıların video içeriğini daha hızlı indirmesini sağlamak",
+                "Arayüzlerin başlangıç yükleme süresini azaltmak ve kullanıcı deneyimini iyileştirmek",
+                "Videoların çeşitli cihazlarda farklı ekran boyutlarına uyum sağlamasını garantilemek"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 68,
+            "question": "----- cansız nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan bir kendini ifade etme çabasına veya sanat formuna vurgu yapar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kısa Film",
+                "Animasyon",
+                "Sunum",
+                "Video",
+                "Efekt"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 69,
+            "question": "Aşağıdakilerden hangisi dijital oyun tasarımında açıklığı ve kolay gezinmeyi sağlamak etmek için uyulması gereken ilkelerden biridir?",
+            "options": [
+                "Net Görsel İşaretler",
+                "Hızlı ağ ulaşımı",
+                "Video Kullanımı",
+                "Oyun içi iletişim",
+                "Açıklayıcı metinler"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 70,
+            "question": "Oyunculara açık uçlu bir sanal dünya sunarak neredeyse sınırsız bir keşif ve yaratıcılık özgürlüğü sağlayan sandbox türündeki dijital oyunlar, genellikle belirli bir hedefi veya sonu olmayan, oyuncuların kendi hikayelerini yaratmalarına, oyunun sanal dünyasını keşfetmelerine ve karmaşık yapılar inşa etmelerine olanak tanıyan bir oynanış biçimine sahiptir. Aşağıdakilerden hangisi güncel popüler sandbox oyunlarından biridir?",
+            "options": [
+                "Forza",
+                "Gran Turismo",
+                "Civilization",
+                "StarCraft",
+                "Minecraft"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 71,
+            "question": "Aşağıdakilerden hangisi erken dönem video oyunlarından biri <u>değildir</u>?",
+            "options": [
+                "Pong",
+                "Pac-Man",
+                "Spacewar",
+                "Pokemon",
+                "OXO"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 72,
+            "question": "Gerçek ve sanal nesneleri tek bir ekranda birleştiren herhangi bir ortama ne ad verilir?",
+            "options": [
+                "Fiziksel Simülasyon",
+                "Arttırılmış Gerçeklik",
+                "Karma Gerçeklik (Mixed Reality)",
+                "Sanallık Devamlılığı",
+                "Sanal Gerçeklik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 73,
+            "question": "Oyun arayüzü tasarımında kullanılan HUD (Head-Up Display) ögesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Oyun içi bilgileri oyuncuya sürekli olarak gösteren arayüz elemanıdır.",
+                "Oyuncunun manuel olarak değiştirebildiği ses ayarlarıdır.",
+                "Oyuncunun avatarının fiziksel görünümüdür.",
+                "Oyunun yapay zekâ bileşenidir.",
+                "Oyunun kodlama yapısını düzenleyen bileşendir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 74,
+            "question": "Aşağıdakilerden hangisi sanal gerçeklikte 'Telebulunma' kavramını tanımlar?",
+            "options": [
+                "Gerçek dünyada fiziksel olarak hareket etmeyi gerektiren sistemlerdir.",
+                "Sadece uzak mesafeden video izlemedir.",
+                "Kullanıcının fiziksel olarak orada olmadan sanal ortamda bulunma hissidir.",
+                "VR gözlükleri olmadan sanal dünyaya erişimdir.",
+                "Tamamen yapay bir zeka tarafından oluşturulan ortamlarda bulunmalıdır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 75,
+            "question": "Başa takılan ekranların ilk örneklerinden biri olarak kabul edilen ve sanal gerçeklik teknolojisinin gelişiminde önemli bir yere sahip olan stereoskopik sisteme ne ad verilir?",
+            "options": [
+                "Sensorama",
+                "Pygmalion'un Gözlükleri",
+                "Video Place",
+                "Demokles'in Kılıcı",
+                "Telesfer"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 76,
+            "question": "Aşağıdakilerden hangisi XR'ın kapsadığı teknolojilerden?",
+            "options": [
+                "Sadece MR",
+                "VR, AR ve MR",
+                "Sadece AR",
+                "Geleneksel 3D modelleme",
+                "Sadece VR"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 77,
+            "question": "Aşağıdakilerden hangisi eğlence dünyasının güncel dijital tasarım eğilimlerinde ön plana çıkan \"kitlesel etkileşimli canlı etkinliklerin\" özelliklerinden biridir?",
+            "options": [
+                "Bireysel içerik üretiminin sınırlandırılması",
+                "Merkezi iş süreçlerine dayalı üretimin ön planda olması",
+                "Prodüksiyon maliyetlerinin sürekli yüksek seyretmesi",
+                "Etkinliklerin yalnızca offline ortamda gerçekleştirilmesi",
+                "İzleyicilerin aksiyonu etkilemek için canlı yayınla etkileşime girebilmesi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 78,
+            "question": "Yapay zekâ ve derin öğrenme teknikleri kullanılarak yapılan video manipülasyon tekniğine ne ad verilir?",
+            "options": [
+                "Dumps",
+                "Transifex",
+                "Deepfake",
+                "Memex",
+                "HoloVid"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 79,
+            "question": "Aşağıdakilerden hangisi gelecekte dijital tasarım alanında beklenen gelişmelerden biridir?",
+            "options": [
+                "Fiziksel deneyimlerin dijital olarak yeniden üretilebilmesi",
+                "Sadece reklamcılık alanında yeniliklerin görülmesi",
+                "Analog teknolojilerin yeniden canlanması",
+                "Yalnızca dijital materyal üretiminin artması",
+                "Tasarım araçlarının maliyetlerinin yükselmesi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 80,
+            "question": "Aşağıdakilerden hangisi eğlence sektöründe dijital tasarımın giderek daha fazla kişiselleştirilmiş içerik sunma eğilimine bir örnektir?",
+            "options": [
+                "Grafik tasarım ve animasyonun temel tekniklerinin öğretilmesi",
+                "Yüz yüze ve çevrimiçi eğitimlerin bir arada sunulması",
+                "Sosyal medya platformlarının kullanıcı sayısının artması",
+                "Etkileşimli filmlerin ve oyunların artan popülaritesi",
+                "Profesyonel video prodüksiyonlarının uzaktan iş birliği ile yapılması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622600"
+        },
+        {
+            "id": 81,
+            "question": "Renk teorisine göre, renk çemberinde birbirlerinin karşısında yer alan ve birlikte yüksek kontrast oluşturan renk armonisinin türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Triadic Renkler",
+                "Üçüncül Renkler",
+                "Tetrad Renkler",
+                "Tamamlayıcı Renkler",
+                "Analog Renkler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 82,
+            "question": "Aşağıdakilerden hangisi dijital ses düzenleme işlemlerinde yaygın olarak kullanılan yazılımlardan biridir?",
+            "options": [
+                "Lightroom",
+                "Premier Pro",
+                "Adobe Audition",
+                "InDesign",
+                "Rush"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 83,
+            "question": "Arayüz tasarımının insan-bilgisayar etkileşimindeki en önemli etkisi aşağıdakilerden hangisidir?",
+            "options": [
+                "Kullanıcıların teknolojiyi sorgulamasını sağlar.",
+                "Kullanıcı memnuniyetini, erişilebilirliği ve etkileşim etkinliğini artırır.",
+                "Deneyimsiz kullanıcılar için yazılımları kolaylaştırır.",
+                "Kullanıcıların bir ürüne yönelik güvenini artırır.",
+                "İlgili teknolojiye odaklanılmasını sağlar."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 84,
+            "question": "Aşağıdaki gezinti bileşenlerinden hangisi kullanıcının bir uygulama veya web sitesi içerisindeki mevcut gezinme konumunu ve geri dönüş yolunu göstermek için kullanılır?",
+            "options": [
+                "Bağlantı (Link)",
+                "Akordiyon Menü (Accordion Menu)",
+                "İçerik Haritası (Breadcrumb)",
+                "Sekme Menü (Tabs)",
+                "Sayfalama (Pagination)"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 85,
+            "question": "Her türlü düşünceye açık bir ortamda ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaşmasını öngören yaratıcı düşünme tekniğine ne ad verilir?",
+            "options": [
+                "Storyboard",
+                "Teknoloji Analizi (Benchmarking)",
+                "Mükemmelleştirme",
+                "Moodboard",
+                "Beyin Fırtınası (Brainstorming)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 86,
+            "question": "Geri bildirim döngüsünde, toplanan kullanıcı geri bildirimlerinin değerlendirilip sınıflandırıldığı ve önceliklendirildiği aşama aşağıdakilerden hangisidir?",
+            "options": [
+                "Toplama",
+                "Analiz",
+                "Değerlendirme",
+                "Uygulama ve İyileştirme",
+                "Döngünün Yenilenmesi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 87,
+            "question": "HTML ögelerinin görsel sunumunu düzenlemek için geliştirilmiş bir betik dilidir, web sayfalarının nasıl görüneceğini ve kullanıcı deneyiminin nasıl olacağını yönetmeye imkân verir.",
+            "options": [
+                "CSS",
+                "JavaScript",
+                "JSS",
+                "Web",
+                "CES"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 88,
+            "question": "Aşağıdakilerden hangisi animasyonun kullanıcı arayüzü tasarımına sağladığı avantajlardan biri <u>değildir</u>?",
+            "options": [
+                "Farklı dillerdeki kullanıcılar için harekete dayalı net yönlendirmeler sunması",
+                "Estetik bir değer sunarak kullanıcı deneyimini daha keyifli hale getirmesi",
+                "Kullanıcıların ilgisini çekmesi",
+                "Bilişsel yükü azaltması",
+                "Uygulamalar veya web siteleri için daha hızlı yükleme sürelerini sağlaması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 89,
+            "question": "Aşağıdakilerden hangisi JavaScript ile mobil uygulamalar geliştirmek amacıyla yaygın olarak kullanılan çatılardan (frameworks) biridir?",
+            "options": [
+                "WebGL",
+                "React Native",
+                "Android",
+                "Angular",
+                "SPA"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 90,
+            "question": "----- cansız nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan bir kendini ifade etme çabasına veya sanat formuna vurgu yapar.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kısa Film",
+                "Video",
+                "Animasyon",
+                "Sunum",
+                "Efekt"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 91,
+            "question": "Aşağıdaki dijital medya türlerinin hangisinde hareket tasarımının yoğun bir şekilde kullanılmaz?",
+            "options": [
+                "Kullanıcı Arayüzleri (UI)",
+                "Dijital Reklamlar",
+                "Video ve Film Prodüksiyon",
+                "E-kitap Yayıncılığı",
+                "Sosyal Medya"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 92,
+            "question": "----- bileşenler genellikle görsel yardımcılar olarak işlev görür, oyunculara nesneleri seçmelerinde yardımcı olur veya önemli yer işaretlerini gösterir. Bunlar seçim auraları, istikamet gösterici işaretler veya tanım gösteren yazılar olabilir.<br>Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Mekânsal (Spatial)",
+                "Oyun-içi (Diegetic)",
+                "Oyun-dışı (Non-diegetic)",
+                "Kullanıcı Arayüzü (UI)",
+                "Meta"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 93,
+            "question": "Aşağıdakilerden hangisi erken dönem video oyunlarından biri <u>değildir</u>?",
+            "options": [
+                "Spacewar",
+                "OXO",
+                "Pong",
+                "Pac-Man",
+                "Pokemon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 94,
+            "question": "Aşağıdakilerden hangisi dijital oyunlarda karakter tasarımının amaçlarından biridir?",
+            "options": [
+                "Oyun dünyasının fiziksel kurallarını belirlemek",
+                "Hikâyenin geçtiği çevreyi ve atmosferi oluşturmak",
+                "Oyun mekaniklerinin temel kurallarını tanımlamak",
+                "Oyuncuların oyunla duygusal bağ kurmasını teşvik etmek",
+                "Oyun dinamiklerinin algoritmasını yönetmek"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 95,
+            "question": "Başa takılan ekranların ilk örneklerinden biri olarak kabul edilen ve sanal gerçeklik teknolojisinin gelişiminde önemli bir yere sahip olan stereoskopik sisteme ne ad verilir?",
+            "options": [
+                "Telesfer Maskesi",
+                "Pygmalion'un Gözlükleri",
+                "Video Place",
+                "Sensorama",
+                "Demokles'in Kılıcı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 96,
+            "question": "Aşağıdakilerden hangisi dijital tasarıma yön veren güncel eğilimlerden biri <u>değildir</u>?",
+            "options": [
+                "Fizikselin ve dijitalin birbirini sarmalaması",
+                "Yapay zekâ",
+                "Bitmap grafiklerden vektörel çizimlere geçiş",
+                "NFT gibi yeni dijital sanat ürünlerinin ortaya çıkışı",
+                "Dijital tasarımın demokratikleşmesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 97,
+            "question": "Aşağıdakilerden hangisi web geliştirme tecrübesine sahip kişilerin genişletilmiş gerçeklik (XR) uygulamaları oluştururken öncelikli olarak tercih edebileceği kütüphanelerden biridir?",
+            "options": [
+                "Unity",
+                "Unreal Engine",
+                "HoloLens",
+                "A-Frame",
+                "MRTK"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 98,
+            "question": "Yapay zekâ ve derin öğrenme teknikleri kullanılarak yapılan video manipülasyon tekniğine ne ad verilir?",
+            "options": [
+                "HoloVid",
+                "Deepfake",
+                "Dumps",
+                "Memex",
+                "Transifex"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 99,
+            "question": "Genişletilmiş gerçeklik (XR) uygulamalarında görünüm piramidinin (view frustum) doğru yönetiminin temel işlevi aşağıdakilerden hangisidir?",
+            "options": [
+                "Kullanıcıların bakış açısına göre arayüz ögelerinin uygun yerleştirilmesini sağlamak",
+                "Kullanıcıların sanal ortamda konumlarını değiştirmelerini engellemek",
+                "Tüm kullanıcıların aynı deneyimi yaşamasını sağlamak",
+                "Tüm sanal nesnelerin tek bir çerçevede işlenmesini sağlamak",
+                "Sanal dünyadaki detayları ayrıntılandırmak"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 100,
+            "question": "Gelecekte bir yapay zekânın her türlü dijital varlığı aynı simülasyon ortamında birleştirebileceğini savunan teknolojik ön görü aşağıdakilerden hangisidir?",
+            "options": [
+                "Sürükleyici gerçeklik",
+                "Yeni gerçeklik",
+                "Metaverse",
+                "Genişletilmiş gerçeklik",
+                "Simüle edilmiş gerçeklik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574672"
+        },
+        {
+            "id": 101,
+            "question": "Renk teorisine göre, renk çemberinde birbirlerinin karşısında yer alan ve birlikte yüksek kontrast oluşturan renk armonisinin türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Triadic Renkler",
+                "Üçüncül Renkler",
+                "Tetrad Renkler",
+                "Tamamlayıcı Renkler",
+                "Analog Renkler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 102,
+            "question": "Aşağıdakilerden hangisi dijital ses düzenleme işlemlerinde yaygın olarak kullanılan yazılımlardan biridir?",
+            "options": [
+                "Lightroom",
+                "Premier Pro",
+                "Adobe Audition",
+                "InDesign",
+                "Rush"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 103,
+            "question": "Arayüz tasarımının insan-bilgisayar etkileşimindeki en önemli etkisi aşağıdakilerden hangisidir?",
+            "options": [
+                "Kullanıcıların teknolojiyi sorgulamasını sağlar.",
+                "Kullanıcı memnuniyetini, erişilebilirliği ve etkileşim etkinliğini artırır.",
+                "Deneyimsiz kullanıcılar için yazılımları kolaylaştırır.",
+                "Kullanıcıların bir ürüne yönelik güvenini artırır.",
+                "İlgili teknolojiye odaklanılmasını sağlar."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 104,
+            "question": "Aşağıdaki gezinti bileşenlerinden hangisi kullanıcının bir uygulama veya web sitesi içerisindeki mevcut gezinme konumunu ve geri dönüş yolunu göstermek için kullanılır?",
+            "options": [
+                "Bağlantı (Link)",
+                "Akordiyon Menü (Accordion Menu)",
+                "İçerik Haritası (Breadcrumb)",
+                "Sekme Menü (Tabs)",
+                "Sayfalama (Pagination)"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 105,
+            "question": "Her türlü düşünceye açık bir ortamda ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaşmasını öngören yaratıcı düşünme tekniğine ne ad verlir?",
+            "options": [
+                "Storyboard",
+                "Teknoloji Analizi (Benchmarking)",
+                "Mükemmelleştirme",
+                "Moodboard",
+                "Beyin Fırtınası (Brainstorming)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 106,
+            "question": "Geri bildirim döngüsünde, toplanan kullanıcı geri bildirimlerinin değerlendirilip sınıflandırıldığı ve önceliklendirildiği aşama aşağıdakilerden hangisidir?",
+            "options": [
+                "Toplama",
+                "Analiz",
+                "Değerlendirme",
+                "Uygulama ve İyileştirme",
+                "Döngünün Yenilenmesi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 107,
+            "question": "HTML ögelerinin görsel sunumunu düzenlemek için geliştirilmiş bir betik dilidir, web sayfalarının nasıl görüneceğini ve kullanıcı deneyiminin nasıl olacağını yönetmeye imkân verir.",
+            "options": [
+                "CSS",
+                "JavaScript",
+                "JSS",
+                "Web",
+                "CES"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 108,
+            "question": "Aşağıdakilerden hangisi animasyonun kullanıcı arayüzü tasarımına sağladığı avantajlardan biri <u>değildir</u>?",
+            "options": [
+                "Farklı dillerdeki kullanıcılar için harekete dayalı net yönlendirmeler sunması",
+                "Estetik bir değer sunarak kullanıcı deneyimini daha keyifli hale getirmesi",
+                "Kullanıcıların ilgisini çekmesi",
+                "Bilişsel yükü azaltması",
+                "Uygulamalar veya web siteleri için daha hızlı yükleme sürelerini sağlaması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 109,
+            "question": "Aşağıdakilerden hangisi JavaScript ile mobil uygulamalar geliştirmek amacıyla yaygın olarak kullanılan çatılardan (frameworks) biridir?",
+            "options": [
+                "WebGL",
+                "React Native",
+                "Android",
+                "Angular",
+                "SPA"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 110,
+            "question": "cansıız nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan bir kendini ifade etme çabasına veya sanat formuna vurgu yapar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kısa Film",
+                "Video",
+                "Animasyon",
+                "Sunum",
+                "Efekt"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 111,
+            "question": "Aşağıdaki dijital medya türlerinin hangisinde hareket tasarımının yoğun bir şekilde kullanılmaz?",
+            "options": [
+                "Kullanıcı Arayüzleri (UI)",
+                "Dijital Reklamlar",
+                "Video ve Film Prodüksiyon",
+                "E-kitap Yayıncılığı",
+                "Sosyal Medya"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 112,
+            "question": "bileşenler genellikle görsel yardımcılar olarak işlev görür, oyunculara nesneleri seçmelerinde yardımcı olur veya önemli yer işaretlerini gösterir. Bunlar seçim auraları, istikamet gösterici işaretler veya tanım gösteren yazılar olabilir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Mekânsal (Spatial)",
+                "Oyun-içi (Diegetic)",
+                "Oyun-dışı (Non-diegetic)",
+                "Kullanıcı Arayüzü (UI)",
+                "Meta"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 113,
+            "question": "Aşağıdakilerden hangisi erken dönem video oyunlarından biri <u>değildir</u>?",
+            "options": [
+                "Spacewar",
+                "OXO",
+                "Pong",
+                "Pac-Man",
+                "Pokemon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 114,
+            "question": "Aşağıdakilerden hangisi dijital oyunlarda karakter tasarımının amaçlarından biridir?",
+            "options": [
+                "Oyun dünyasının fiziksel kurallarını belirlemek",
+                "Hikâyelerin geçtiği çevreyi ve atmosferi oluşturmak",
+                "Oyun mekaniklerinin temel kurallarını tanımlamak",
+                "Oyuncuların oyunla duygusal bağ kurmasını teşvik etmek",
+                "Oyun dinamiklerinin algoritmasını yönetmek"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 115,
+            "question": "Başa takılan ekranların ilk örneklerinden biri olarak kabul edilen ve sanal gerçeklik teknolojisinin gelişiminde önemli bir yere sahip olan stereoskopik sisteme ne ad verilir?",
+            "options": [
+                "Telesfer Maskesi",
+                "Pygmalion'un Gözlükleri",
+                "Video Place",
+                "Sensorama",
+                "Demokles'in Kılıcı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 116,
+            "question": "Aşağıdakilerden hangisi dijital tasarıma yön veren güncel eğilimlerden biri <u>değildir</u>?",
+            "options": [
+                "Fizikselin ve dijitalin birbirini sarmalaması",
+                "Yapay zekâ",
+                "Bitmap grafiklerden vektörel çizimlere geçiş",
+                "NFT gibi yeni dijital sanat ürünlerinin ortaya Çıkışı",
+                "Dijital tasarımın demokratikleşmesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 117,
+            "question": "Aşağıdakilerden hangisi web geliştirme tecrübesine sahip kişilerin genişletilmiş gerçeklik (XR) uygulamaları oluştururken öncelikli olarak tercih edebileceği kütüphanelerden biridir?",
+            "options": [
+                "Unity",
+                "Unreal Engine",
+                "HoloLens",
+                "A-Frame",
+                "MRTK"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 118,
+            "question": "Yapay zekâ ve derin öğrenme teknikleri kullanılarak yapılan video manipülasyon tekniğine ne ad verilir?",
+            "options": [
+                "HoloVid",
+                "Deepfake",
+                "Dumps",
+                "Memex",
+                "Transifex"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 119,
+            "question": "Genişletilmiş gerçeklik (XR) uygulamalarında görünüm piramidinin (view frustum) doğru yönetiminin temel işlevi aşağıdakilerden hangisidir?",
+            "options": [
+                "Kullanıcıların bakış açısına göre arayüz ögelerinin uygun yerleştirilmesini sağlamak",
+                "Kullanıcıların sanal ortamda konumlarını değiştirmelerini engellemek",
+                "Tüm kullanıcıların aynı deneyimi yaşamasını sağlamak",
+                "Tüm sanal nesnelerin tek bir çerçevede işlenmesini sağlamak",
+                "Sanal dünyadaki detayları ayrıntılandırmak"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        },
+        {
+            "id": 120,
+            "question": "Gelecekte bir yapay zekânın her türlü dijital varlığı aynı simülasyon ortamında birleştirebileceğini savunan teknolojik ön görü aşağıdakilerden hangisidir?",
+            "options": [
+                "Sürükleyici gerçeklik",
+                "Yeni gerçeklik",
+                "Metaverse",
+                "Genişletilmiş gerçeklik",
+                "Simüle edilmiş gerçeklik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626555"
+        }
+    ]
+}

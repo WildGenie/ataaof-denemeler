@@ -1,0 +1,3169 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Dairesel kent suru ve şehir planı ile dikkati çeken Geç Hitit Krallığı aşağıdakilerden hangisidir?",
+            "options": [
+                "Kargamış",
+                "Sam'al",
+                "Melid",
+                "Gurgum",
+                "Tabal"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028"
+        },
+        {
+            "id": 2,
+            "question": "Konya-İvriz kaya kabartmasında tasvirlerini gördüğümüz tanrı ve kral çifti aşağıdakilerden hangisidir?",
+            "options": [
+                "Teişiba-Sarduri",
+                "Teşup-Muwatalli",
+                "Tarhunza-Warpalawas",
+                "Attis-Midas",
+                "Fırtına Tanrısı-Murşili"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 3,
+            "topic": "Frig Kültürü",
+            "explanation": "Frig kültürü bölümünde, Friglerin çok tanrılı dine inandıkları ancak özellikle Ana tanrıça 'Matar'a saygı gösterdikleri belirtilmiştir. Konya-İvriz kaya kabartmaları Friglere atfedilmemiştir. İvriz kabartmaları genellikle Hitit veya Geç Hitit dönemleriyle ilişkilendirilir. Friglerin ana tanrıçası Matar Kubileya/Areyastin'dir. Verilen bilgiye göre, Konya-İvriz kabartması ile ilgili bilgi (Tanrı ve kral çifti) metinde bulunmamaktadır. Ancak Konya ve çevresi Frig Krallığı'nın güney sınırlarında yer alsa da, İvriz kabartmasının Frig kültürüyle doğrudan bağlantısı metinde yer almamaktadır. Bu nedenle, bu soruya doğrudan metinden yanıt verilebilecek bir bilgi mevcut değildir; metinde sadece Frig tanrıçası Matar'dan bahsedilir."
+        },
+        {
+            "id": 3,
+            "question": "Lidya Krallığı'na son veren toplum aşağıdakilerden hangisidir?",
+            "options": [
+                "Medler",
+                "Persler",
+                "Babilliler",
+                "Mısırlılar",
+                "Kimmerler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 4,
+            "topic": "Lidya Krallığı'nın sonu",
+            "explanation": "Lidya Krallığı, MÖ. 547'de Persler tarafından ele geçirilerek yıkılmıştır. Metinde, 'MÖ. 547'de Persler Sardeis'i ele geçirirler ve Lidya Krallığı yıkılır.' bilgisi mevcuttur."
+        },
+        {
+            "id": 4,
+            "question": "İlk sikkeler aşağıdaki maden veya alaşımlardan hangisinden yapılmıştır?",
+            "options": [
+                "Elektron",
+                "Altın",
+                "Gümüş",
+                "Bronz",
+                "Bakır"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 4,
+            "topic": "Lidya sikkeleri",
+            "explanation": "Lidyalılar sikke adı verilen madeni parayı icat etmişlerdir. İlk sikkeler, altın ve gümüş karışımı bir alaşım olan elektrondan yapılmıştır. Metinde, 'İlk sikkeler altın ve gümüş karışımı bir alaşım olan elektrondan yapılmışlardır.' ifadesi yer almaktadır."
+        },
+        {
+            "id": 5,
+            "question": "MÖ. 47 yılında Anadolu'ya giren lulius Caesar'in (Jül Sezar) kısa sürede başarı elde etmesi sonucunda, önceki Romalı generallere gönderme yapmak ve kendi zaferini yüceltmek için meşhur, \"Geldim, gördüm, yendim, (veni, vidi, vici)\" deyişini ifade ettiği merkezimiz aşağıdakilerden hangisidir?",
+            "options": [
+                "Efes (İzmir)",
+                "Smyrna (İzmir)",
+                "Gordion (Ankara)",
+                "Zela (Tokat)",
+                "Hattusa (Çorum)"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 4,
+            "topic": "Roma'da Sezar dönemi",
+            "explanation": "Jül Sezar, Perslerden kalma yolları onartmış, yeni kentler kurdurmuş, Anadolu kentlerini ziyaret etmiş ve Pompeius'u destekleyenlere karşı affedici davranmıştır. Ancak, metinde 'veni, vidi, vici' deyişinin geçtiği bir merkez adı belirtilmemiştir; sadece Sezar'ın zafer sonrası Anadolu'daki kentleri (Troia, Bergama, Knidos, Ephesos gibi) ziyaret ettiği ve bağışladığı belirtilmiştir."
+        },
+        {
+            "id": 6,
+            "question": "Aşağıdaki süreçlerden hangisi kültür evresine ait bir dönemi <u>göstermemektedir</u>?",
+            "options": [
+                "Paleolitik",
+                "Mezolitik",
+                "Holosen",
+                "Neolitik",
+                "Tunç çağları"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 1,
+            "topic": "Kültür Evreleri",
+            "explanation": "Verilen seçenekler (Paleolitik, Neolitik, Kalkolitik, Tunç Çağları) kültürel evrelerdir. Epi-Paleolitik Dönem ise, Üst Paleolitik sonrası ve Neolitik öncesi bir geçiş evresi olarak tanımlanmıştır, ancak ana kültürel çağ evreleri dışında kalan bir alt dönemdir. Ancak, soruda bir dönemin gösterilmediği sorulmaktadır ve verilen metinlerde yer alan ana evreler şunlardır: Paleolitik (Alt, Orta, Üst), Neolitik, Kalkolitik, İlk Tunç Çağı. Epi-Paleolitik dönem, metinde açıkça bir ana çağ olarak değil, Üst Paleolitik sonrası geçiş dönemi olarak geçmektedir. Ancak, tüm seçenekler bir kültürel süreç ifadesi içerdiği için, en az 'ana çağ' niteliği taşıyan veya metinde doğrudan bir ana evre başlığı altında tanımlanmayan Epi-Paleolitik en uygun adaydır. Fakat, eğer soru seçenekleri belirli bir üniteye bağlıysa, Ünite 1'de Alt, Orta, Üst Paleolitik, Neolitik ve Kalkolitik ana başlıklar altında incelenmiştir. Epi-Paleolitik bu ana başlıkların dışında bir geçiş dönemi olarak ele alınmıştır."
+        },
+        {
+            "id": 7,
+            "question": "Traianus Tapınağı, Hadrianus Tapınağı, Augustus Tapınağı veya Aizanoi'deki Zeus Tapınağı gibi birçok yapı ve basılmış yüzlerce sikkedeki tasarımlar aracılığıyla Roma'nın Anadolu'da propagandasını yapmaya çalıştığı dinsel/politik düşünce aşağıdakilerden hangisinde belirtilmiştir?",
+            "options": [
+                "Krallık Kültü",
+                "Mutlak Monarşi",
+                "Dictatore Kültü",
+                "Tiran Kültü",
+                "İmparatorluk Kültü"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 4,
+            "topic": "Roma İmparatorluk kültü",
+            "explanation": "Roma'nın Anadolu'daki fetih ve yönetimi sırasında Propaganda yapma aracı olarak, kentlere imparatorluk kültü tapınakları inşa edilmiştir. Hadrianus Kapısı ve Traianus Tapınağı buna örnektir. Metinde, 'İmparatorluk Kültü tapınakları da vardır.' denilerek bu durum belirtilmiştir."
+        },
+        {
+            "id": 8,
+            "question": "Yazılıkaya B Odası'nın hangi amaçla inşa edildiği düşünülmektedir?",
+            "options": [
+                "Ölü Kültüne adanmış mekan",
+                "Tapınak avlusu",
+                "Sığınma alanı",
+                "Depo",
+                "Kabul salonu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 2,
+            "topic": "Hitit kültü",
+            "explanation": "Yazılıkaya B Odası'nda (İmparatorluk Dönemi'nde), kralın mevsimlere göre düzenlenen bayram törenlerini yönettiği ve bu törenlerin (Antahşum, Purulli) tasvir edildiği Alacahöyük ortostatları ve Yazılıkaya'daki kabartmalarla paralellik gösteren tasvirler bulunmaktadır. Bu törenler, kralın dini ve yönetimsel görevlerinin bir parçasıydı."
+        },
+        {
+            "id": 9,
+            "question": "Tunç Çağında doğal liman olan körfezlerde ve koylarda yeni yerleşmelerin kurulmasına ve küçük köylerin de büyüyerek kasabalara dönüşmesine neden olan gelişme hangisidir?",
+            "options": [
+                "Deniz ticaretinin artması",
+                "Yeni mimari yapı tekniklerinin geliştirilmesi",
+                "Maden ticaretinin başlaması",
+                "İlk gerçek anlamda kentlerin ortaya çıkması",
+                "Soylu-Elit sınıfın ortaya çıkışı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 4,
+            "topic": "Hellen Göçleri Sonrası",
+            "explanation": "Hellen göçleri sonrası Batı Anadolu'daki gelişimler anlatılırken, İonialıların denizcilik yapabilmek ve savunmada avantaj sağlamak amacıyla yerleşimleri yarımadalar üzerine kurdukları belirtilmiştir. Bu yerleşimler aynı zamanda ticaret ve korunaklı olma gereksinimini karşılamak amacıyla doğal limanları seçmek zorundaydı."
+        },
+        {
+            "id": 10,
+            "question": "Lidya'da hüküm süren Mermnad Sülalesinin ilk kralı aşağıdakilerden hangisidir?",
+            "options": [
+                "Gyges",
+                "Lydos",
+                "Argon",
+                "Daskylos",
+                "Mopsos"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 4,
+            "topic": "Lidya Krallığı",
+            "explanation": "Lidya Krallığı, MÖ. 680-MÖ. 546 yılları arasında Mermnad hanedanı zamanında güçlü olmuştur. Bu hanedanın ilk kralı Gyges'tir. Metinde, 'Üçüncü hanedan olan Mermnadlar Hanedanı zamanında Lidya Krallığı güçlü bir krallık olarak Anadolu tarih sahnesindeki yerini almıştır.' denilmekte ve ardından gelen krallar listelenmektedir; ilki Gyges'tir."
+        },
+        {
+            "id": 11,
+            "question": "Aşağıdakilerden hangisi kaya zemin üzerine kurulmuş yamaç yerleşmelerine örnektir?",
+            "options": [
+                "Çatalhöyük",
+                "Karain Mağarası",
+                "Arslantepe",
+                "Göbekli Tepe",
+                "Orman Fidanlığı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 5,
+            "topic": "Bizans Mimari",
+            "explanation": "Urartu Devleti'nin ölü gömme geleneklerinde soylular, kalelerin yamaçlarındaki çok odalı kaya mezarlarına gömülmüşlerdir. Bu, kaya zemin üzerine kurulmuş yamaç yerleşmelerine örnektir."
+        },
+        {
+            "id": 12,
+            "question": "Daha önce Obeyd döneminde kültürel birliğe kavuşmuş olan Mezopotamya'da, ilk defa siyasal birlik aşağıdakilerden hangisi ile sağlanmıştır?",
+            "options": [
+                "Anadolu'ya yapılan askeri seferler",
+                "Halaf dönemi",
+                "Akkad Krallığı",
+                "Uruk dönemi",
+                "Asur ticaret kolonileri"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 6,
+            "topic": "Mezopotamya Tarihi",
+            "explanation": "Mezopotamya'da Halaf ve Obeyd kültürleri ile başlayan kültürel birlik sürecini, Uruk kültürü ile devam eden süreçte, ilk defa siyasal birlik (ilk kent devletleri) takip etmiştir."
+        },
+        {
+            "id": 13,
+            "question": "Bu soru iptal edilmiştir.",
+            "options": [],
+            "correctIndex": -1,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 0,
+            "topic": "İptal Edildi",
+            "explanation": "Bu soru iptal edilmiştir."
+        },
+        {
+            "id": 14,
+            "question": "Aşağıdakilerden hangisi, Anadolu'da (Küçük Asya) Roma'nın kurduğu eyaletlerden biri <u>değildir</u>?",
+            "options": [
+                "Asia Eyaleti",
+                "Kilikya Eyaleti",
+                "Bithynia - Pontos Eyaleti",
+                "Panionia Eyaleti",
+                "Galatia Eyaleti"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 4,
+            "topic": "Roma Eyaletleri",
+            "explanation": "Roma'nın Anadolu'da kurduğu eyaletler arasında Kapadokya (Provincia Cappadocia), Likya-Pamphylia (Provincia Lycia et Pamphylia), Trakya (Provincia Thracia), Bithynia-Pontos ve Kilikya Eyaletleri (Provincia Cilicia) bulunmaktadır. Asya Eyaleti, daha önceki dönemlerden (Bergama Krallığı) Roma'ya katılmış bir bölgedir, ancak Roma'nın doğrudan ilk kurduğu eyaletlerden biri olarak bahsedilmemektedir; III. Attalos'un vasiyeti üzerine alınmıştır."
+        },
+        {
+            "id": 15,
+            "question": "Devasa tanrı heykeli tasarımlarıyla Hellenistik Dönem'in Doğu-Batı sentezini uygulamaya çalışan Kommagene kralı I. Antiokhos'un tümülüsü hangi ilimiz sınırları içerisinde yer almaktadır?",
+            "options": [
+                "Efes (İzmir)",
+                "Smyrna (İzmir)",
+                "Gordion (Ankara)",
+                "Zela (Tokat)",
+                "Hattusa (Çorum)"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 4,
+            "topic": "Hellenistik Dönem Anıtlar",
+            "explanation": "Kommagene kralı I. Antiokhos'un tümülüsü, Nemrut Dağı'nda yer almaktadır. Nemrut Dağı, günümüzde Adıyaman sınırları içerisindedir ve burada I. Antiokhos, Hellenistik ve Doğu unsurlarını sentezleyen devasa tanrı heykelleriyle ünlü anıtsal bir tümülüs inşa ettirmiştir."
+        },
+        {
+            "id": 16,
+            "question": "Aşağıdaki süreçlerden hangisi kültür evresine ait bir dönemi <u>göstermemektedir</u>?",
+            "options": [
+                "Tunç çağları",
+                "Neolitik",
+                "Mezolitik",
+                "Paleolitik",
+                "Holosen"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 1,
+            "topic": "Tarih Öncesi Dönemler",
+            "explanation": "Hellen Göçleri sonrası Batı Anadolu'daki MÖ. 1100-900 arası dönem 'Karanlık Çağ' olarak adlandırılır ve bu dönem arkeolojik olarak seramik buluntularıyla temsil edilir. Diğer seçenekler (Paleolitik, Neolitik Devrim, Kalkolitik, İlk Tunç Çağı) ise tarih öncesi kültür evrelerine aittir ve bu evreler, Karanlık Çağ'dan önce veya sonra gelirler, dolayısıyla 'Karanlık Çağ' evresine ait değildir."
+        },
+        {
+            "id": 17,
+            "question": "Frig kralı Midas aşağıdaki Aiol kentlerinden hangisinin prensesi ile evlenmiştir?",
+            "options": [
+                "Gryneion",
+                "Larissa",
+                "Pitane",
+                "Kyme",
+                "Myrina"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 3,
+            "topic": "Frig Tarihi",
+            "explanation": "Frig kralı Midas, MÖ. 717-709 yılları arasında Assur kralı II. Sargon'a karşı mücadele ederken, Assur kaynaklarında Muşkili Mita olarak geçer ve onunla dostluk anlaşması imzalar. Midas'ın evliliği hakkında metinde kesin bir bilgi verilmemiştir; sadece Batı Anadolu'da sınırlarının genişlediği belirtilmiştir."
+        },
+        {
+            "id": 18,
+            "question": "Konya-İvriz kaya kabartmasında tasvirlerini gördüğümüz tanrı ve kral çifti aşağıdakilerden hangisidir?",
+            "options": [
+                "Teişiba-Sarduri",
+                "Teşup-Muwatalli",
+                "Tarhunza-Warpalawas",
+                "Attis-Midas",
+                "Fırtına Tanrısı-Murşili"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 3,
+            "topic": "Frig Kültürü",
+            "explanation": "Konya-İvriz kaya kabartmasında, Fırtına Tanrısı ve ona eşlik eden bereket tanrıçası tasvir edilmiştir. Bu tanrıça, Friglerin Ana Tanrıça kültü olan Matar'a karşılık gelmektedir."
+        },
+        {
+            "id": 19,
+            "question": "Tunç Çağında doğal liman olan körfezlerde ve koylarda yeni yerleşmelerin kurulmasına ve küçük köylerin de büyüyerek kasabalara dönüşmesine neden olan gelişme hangisidir?",
+            "options": [
+                "Deniz ticaretinin artması",
+                "Yeni mimari yapı tekniklerinin geliştirilmesi",
+                "Maden ticaretinin başlaması",
+                "İlk gerçek anlamda kentlerin ortaya çıkması",
+                "Soylu-Elit sınıfın ortaya çıkışı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 3,
+            "topic": "Erken Tunç Çağı Gelişimi",
+            "explanation": "Tunç Çağı'nda doğal liman olan körfez ve koylarda yeni yerleşmelerin kurulması ve küçük köylerin kasabalara dönüşmesine neden olan gelişme, denizciliğin artmasıyla beraber ticaretin canlanması ve bunun sonucunda ortaya çıkan kentleşme sürecidir."
+        },
+        {
+            "id": 20,
+            "question": "İlk sikkeler aşağıdaki maden veya alaşımlardan hangisinden yapılmıştır?",
+            "options": [
+                "Altın",
+                "Elektron",
+                "Gümüş",
+                "Bakır",
+                "Bronz"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443028",
+            "UniteNo": 3,
+            "topic": "Lidya Kültürü",
+            "explanation": "Lidyalılar tarafından icat edilen ilk sikkeler, altın ve gümüş karışımı olan 'elektron' madeninden yapılmıştır. Elektron, doğal olarak bu iki madenin karışımıdır."
+        },
+        {
+            "id": 21,
+            "question": "Avcı ve toplayıcı toplumların zamanla göçebeliği terk edip, üretici konumuna gelmeleri ve yıl boyunca iskân edilen ilk sürekli yerleşmeleri kurdukları dönem aşağıdakilerden hangisidir?",
+            "options": [
+                "Mezolitik Dönem",
+                "Epipaleolitik Dönem",
+                "Kalkolitik Dönem",
+                "Neolitik Dönem",
+                "Paleolitik Dönem"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 1,
+            "topic": "Neolitik Devrim",
+            "explanation": "Avcı ve toplayıcı toplumların zamanla üretici konumuna gelmeleri, göçebeliği terk etmeleri ve yıl boyunca iskân edilen ilk sürekli yerleşmeleri kurmaları süreci, \"Neolitik devrim\" olarak adlandırılır."
+        },
+        {
+            "id": 22,
+            "question": "Eşit şartlarda iki büyük devlet, yani Hititler ile Mısırlılar arasında dostluk ve kardeşliğin sonsuza kadar devam edeceğini belirten, Boğazköy'deki kazılarda ele geçirilen Sonsuz Barış Antlaşması'nın bakır bir kopyası, günümüzde ülkemiz dışında nerede sergilenmektedir?",
+            "options": [
+                "UNICEF Binası",
+                "Avrupa Birliği Binası",
+                "İstanbul Arkeoloji Müzesi",
+                "NATO Binası",
+                "Birleşmiş Milletler Binası"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 2,
+            "topic": "Hitit-Mısır Antlaşması",
+            "explanation": "Hitit-Mısır Sonsuz Barışı antlaşmasının bakır kopyası, antlaşmayı dikte eden tabletlerin ele geçirildiği Boğazköy'de (Çorum) değil, antlaşmanın onaylandığı Mısır'da, Kahire'deki Mısır Müzesi'nde sergilenmektedir."
+        },
+        {
+            "id": 23,
+            "question": "Yaklaşık olarak MÖ. 20. yüzyılın başlarından 18. yüzyılın sonlarına kadar iki yüz yıl boyunca Asurluların Anadolu'da bulunmalarındaki temel amaç aşağıdakilerden hangisidir?",
+            "options": [
+                "Ticari etkinlik",
+                "Askeri etkinlik",
+                "Dini propaganda",
+                "Siyasal yayılım",
+                "Kültürel alışveriş"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 2,
+            "topic": "Asur Ticaret Kolonileri",
+            "explanation": "Asurlu tüccarların Anadolu'ya gelmelerindeki temel amaç, Anadolu'nun zenginliği olan; altın, gümüş, bakır, taş, kereste gibi, Mezopotamya'nın yoksun olduğu ve ihtiyaç duyduğu malları ticaret yoluyla temin etmekti."
+        },
+        {
+            "id": 24,
+            "question": "Asurlu tüccarın Anadolu'da kurmuş olduğu ve ticari merkez olarak düşünebileceğimiz bütün karum'ların merkezi, bugün hangi ilimizin sınırları içerisinde kalmaktadır?",
+            "options": [
+                "Aksaray",
+                "Kayseri",
+                "Kahramanmaraş",
+                "Nevşehir",
+                "Malatya"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 2,
+            "topic": "Asur Ticaret Merkezleri",
+            "explanation": "Asurlu tüccarların kurduğu ticaret merkezleri olan karum'lar arasında en önemlisi ve merkezi olanı, ticaret kolonilerinin merkezi olan Kaniş'tir. Kaniş, bugün Konya'nın Karahöyük mevkiinde bulunmaktadır."
+        },
+        {
+            "id": 25,
+            "question": "Ön Asya ve Anadolu'da görülen en erken tapınak yapılarının saptandığı yerleşme aşağıdakilerden hangisidir ve hangi döneme tarihlenir?",
+            "options": [
+                "Göbekli Tepe - Çanak Çömleksiz Neolitik Dönem",
+                "Nevali Çori - Çanak Çömleksiz Neolitik Dönem",
+                "Caferhöyük-İlk Tunç Çağı",
+                "Çatalhöyük -Erken Kalkolitik",
+                "Aşıklıhöyük -Çanak Çömlekli Neolitik Dönem"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 2,
+            "topic": "Neolitik Mimari",
+            "explanation": "Anadolu'da Neolitik Dönem'e ait, dünyanın en erken 'tapınak' yapısı örnekleri Göbekli Tepe'de (Urfa) kazılarda ortaya çıkarılmıştır. Bu yapılar, MÖ. 9. binin ikinci yarısından itibaren tarım ve evcilleştirmenin başlangıcındaki toplumların organize ve gelişmiş yapısını göstermektedir."
+        },
+        {
+            "id": 26,
+            "question": "Başkentleri Gökhan, Anadolu'yu yurt edinen ve başkentleri Gordion etrafında MÖ. 9. yüzyıl ve 7. yüzyıllar arasında Orta Anadolu'da etkin olan uygarlık aşağıdakilerden hangisidir?",
+            "options": [
+                "Frigler",
+                "Lidyalılar",
+                "Hititler",
+                "Urartular",
+                "Lidyalılar"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 3,
+            "topic": "Frig Krallığı",
+            "explanation": "Anadolu'yu yurt edinen, başkenti Gordion olan ve MÖ. 9.-7. yüzyıllar arasında Orta Anadolu'da etkin olan uygarlık Friglerdir."
+        },
+        {
+            "id": 27,
+            "question": "Diğer dönemlere göre en kısa süren dördüncü jeolojik devir (Kuaterner) içerisinde kalan Paleolitik dönemi, kültür tarihi açısından en önemli zaman dilimi kılan özellik aşağıdakilerden hangisinde belirtilmiştir?",
+            "options": [
+                "İlk buzul çağının sonlanması ve iklimin dünya genelinde daha ılıman olması",
+                "Dinozorların neslinin tükenmiş olması",
+                "Tarımsal etkinliklere yönelik ilk izlerin belirmesi",
+                "İnsanların ilk kez bu dönemde ortaya çıkması",
+                "Siyasal açıdan gelişmiş devletlerin görülmesi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 1,
+            "topic": "Paleolitik Dönem",
+            "explanation": "Dördüncü jeolojik zaman olan Kuaterner'in en önemli iki özelliği, buzul ve buzul arası iklim dönemlerini barındırması ve Paleolitik dönemin bu devir içinde olması dolayısıyla insanın bu jeolojik devirde ortaya çıkmasıdır."
+        },
+        {
+            "id": 28,
+            "question": "Geç Tunç Çağı Anadolu'sunda bölgenin belirleyici siyasi gücü ve Anadolu'nun ilk merkezi krallığı aşağıdakilerden hangisidir?",
+            "options": [
+                "Hititler",
+                "Urartular",
+                "Akadlar",
+                "Lidyalılar",
+                "Frigler"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 2,
+            "topic": "Geç Tunç Çağı",
+            "explanation": "Geç Tunç Çağı'nda Anadolu'da belirleyici siyasi güç Hitit Devleti olmuştur. Hitit Devleti, Anadolu'nun ilk merkezi krallığıdır ve yerel krallıkları tek çatı altında toplamıştır."
+        },
+        {
+            "id": 29,
+            "question": "Hellenistik Dönem sanatında bağımsız olarak da karşımıza çıkan sunaklar, dönemin askeri ve politik gelişmelerine paralel sahneler sunmuşlardır. Buna göre, şu an Berlin'de sergilenen ünlü Zeus Sunağı'nda, \"kötülere\" (Galatlara) karşı mücadelesinde \"iyileri\" gösteren krallık aşağıdakilerden hangisidir?",
+            "options": [
+                "Kommagene Krallığı",
+                "Pontus Krallığı",
+                "Kapadokya Krallığı",
+                "Bithynia Krallığı",
+                "Bergama Krallığı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 4,
+            "topic": "Hellenistik Dönem",
+            "explanation": "Berlin'de sergilenen ünlü Zeus Sunağı, Hellenistik Dönem'in Doğu-Batı sentezini temsil eden anıtsal bir eserdir. Bu eserin inşa edildiği Kommagene Krallığı'nın hükümdarı I. Antiokhos, Pers İmparatorluğu'nun mirasçısı olarak kendisini konumlandırmış ve \"iyilerin\" (Hellenlerin) mücadelesini Galatlara (kötülere) karşı tasvir ettirmiştir. Kommagene Krallığı'nın merkezi Nemrut Dağı, günümüzde Adıyaman sınırları içerisindedir."
+        },
+        {
+            "id": 30,
+            "question": "Özellikle MÖ. 7. ve 6. yüzyıllarda Batı Anadolu'daki kültürlerin birbirleriyle kaynaşmasında kilit rol oynayan temel etmen aşağıdakilerden hangisidir?",
+            "options": [
+                "Tiranlar",
+                "Persli yöneticiler",
+                "Kent devletleri",
+                "Senatus",
+                "Yerel halklar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284"
+        },
+        {
+            "id": 31,
+            "question": "Fiziksel evreni anlamaya yönelik çabalar sırasında bilimsel düşüncenin temellerinin Anadolu'da atıldığı bilinmektedir. Doğa Felsefesi olarak adlandırılmış ve Ionia düşünürlerin \"İonia Doğa Düşünürleri\" adı verilen bu süreçte karşımıza çıkan düşünürlerin ilki ve okulun kurucusu aşağıdakilerden hangisidir?",
+            "options": [
+                "Platon",
+                "Thales",
+                "Parmenides",
+                "Aristoteles",
+                "Sokrates"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284"
+        },
+        {
+            "id": 32,
+            "question": "Hemen hemen her kalede kendisi için yapılmış bir tapınağın olduğu ve Urartu devletinin baş tanrısı olarak kabul edilen tanrı aşağıdakilerden hangisidir?",
+            "options": [
+                "Hades",
+                "Teşup",
+                "Haldi",
+                "Iuppiter",
+                "Zeus"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 3,
+            "topic": "Urartu Dini ve Mimarisi",
+            "explanation": "Urartu dininde Haldi, baş tanrı olarak kabul edilirdi. Urartu kalelerinde mutlaka bir Haldi tapınağı bulunurdu. Eğer bir kalede birden fazla tapınak varsa, tapınaklardan biri Haldi'ye, diğeri ise o bölgenin yerel tanrısına adanırdı. Urartular, fethettikleri halkların tanrılarını da panteonlarına katarak tanrı çeşitliliği sağlamışlardır (Ünite 3, Sayfa 1)."
+        },
+        {
+            "id": 33,
+            "question": "Büyük İskender'in ölümünün ardından generaller, bölgelerinde kendilerini kral ilan etmiş ve bu durumu halka duyurabilmek amacıyla görsel iletişimde önemli yer tutan yaygın bir şekilde kullanmışlardır. Aşağıdakilerden hangisi bu propaganda aracını göstermektedir?",
+            "options": [
+                "Tiyatro",
+                "Zafer Takı",
+                "Steller",
+                "Sikke",
+                "Heykel"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 4,
+            "topic": "Hellenistik Dönem Propagandası",
+            "explanation": "Büyük İskender'in ölümünden sonra generalleri, imparatorluğun parçalanmasını ve kendi otoritelerini vurgulamak için görsel iletişim araçlarını kullanmışlardır. Anadolu'da özellikle kentlerin görkemli sütunlu caddeleri, heykellerle süslenmiş anıtsal çeşmeleri ve bu heykeller, yeni yönetimlerin gücünü ve Helenistik kültürü yayma amacını yansıtan görsel propaganda araçlarıydı. (Ünite 4, Sayfa 2)."
+        },
+        {
+            "id": 34,
+            "question": "Aşağıdakilerden hangisi, eskiçağ yazarları tarafından Hellen göçleri sırasında; sorguçlu miğferleri, tutamaklı kalkanları ve çifte baltalarıyla kaba bir dil konuşan Anadolu'nun yerel halkları olarak betimlenen halklardan birini göstermektedir?",
+            "options": [
+                "Frigler",
+                "Lidyalılar",
+                "Hititler",
+                "Urartular",
+                "Urartular"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 1,
+            "topic": "İlk İnsanlar ve Kültürler",
+            "explanation": "Antik kaynaklar, Doğu Avrupa'dan göç eden ve Anadolu'ya gelen Trak kökenli halkları Frigler (Phryg) olarak tanımlar. Bu halklar, MÖ 1200'lerden itibaren Anadolu'ya gelmiş, MÖ 9.-7. yüzyıllar arasında Orta Anadolu'da etkinlik göstermiştir. Kaynaklarda, bu halklar zaman zaman kaba ve yerel olarak betimlenmiştir (Ünite 1, Sayfa 2)."
+        },
+        {
+            "id": 35,
+            "question": "Karayolları, barajlar ve göletler yanında Urartuların en önemli bayındırlık faaliyetlerinden bir diğeri aşağıdakilerden hangisinde belirtilmiştir?",
+            "options": [
+                "Hipodromlar",
+                "Su kanalları",
+                "Hamamlar",
+                "Mil taşları",
+                "Zafer takları"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 3,
+            "topic": "Urartu Bayındırlık Faaliyetleri",
+            "explanation": "Urartular, maden işçiliği, ahşap işçiliği, fildişi ve kemik işlemeciliği gibi alanlarda gelişmişlerdi. Bakır, demir ve gümüş madenlerini işleyerek silahlar, kazanlar, kalkanlar, fibulalar ve tarım aletleri yapmışlardır. Bu madencilik ve işçilik faaliyetleri, önemli bayındırlık projeleri ile birlikte Urartu medeniyetinin önemli bileşenleriydi (Ünite 3, Sayfa 1)."
+        },
+        {
+            "id": 36,
+            "question": "Asurlu tüccarın Anadolu'ya getirdiği ürünlerin başında kalay madeni yer alırken, bu üründen sonra Anadolu'daki halkların talep ettiği ikinci ürün aşağıdakilerden hangisinde belirtilmiştir?",
+            "options": [
+                "Gümüş",
+                "Tunç",
+                "Köle",
+                "Demir",
+                "Kumaş"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 3,
+            "topic": "Asur Ticaret Kolonileri",
+            "explanation": "Asurlu tüccarlar, Anadolu'ya kalay madenini getirmişlerdir. Tunç yapımının temel bileşenleri bakır, kalay ve bronzdur. Kalayın ardından, Asurluların Babil'in meşhur dokuma kumaşlarını da ticaret yoluyla Anadolu'ya getirip sattıkları belirtilmiştir (Ünite 3, Sayfa 3)."
+        },
+        {
+            "id": 37,
+            "question": "MÖ. 9. yüzyılın ortalarından MÖ. 7. yüzyılın sonlarına kadar Van Gölü'nün doğu kıyısında yer alan Tuşpa (Van Kalesi) merkez olmak üzere güçlü bir krallık kuran ve tarım, hayvancılık, mimari, madencilik, taş işçiliği ve çanak çömlekçilik alanlarında gelişmiş uygarlık aşağıdakilerden hangisidir?",
+            "options": [
+                "Hititler",
+                "Lidyalılar",
+                "Frigler",
+                "Kargamış Krallığı",
+                "Urartular"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 3,
+            "topic": "Urartu Krallığı",
+            "explanation": "Urartu Krallığı, MÖ 9. yüzyılın ortalarından MÖ 7. yüzyılın sonlarına kadar Van Gölü'nün doğu kıyısında Tuşpa merkezli olarak var olmuştur. Bu dönemde tarım, hayvancılık (otlaklar), mimari (kaleler), madencilik (demir, bakır), taş işçiliği ve çanak çömlekçilik alanlarında gelişmişlerdi (Ünite 3, Sayfa 1)."
+        },
+        {
+            "id": 38,
+            "question": "Batı Anadolu'dan zengin buluntular sağlaması ve ilk kent örneği olması gibi çeşitli nedenlerden dolayı, Anadolu arkeolojisinde çok önemli bir yer tutan, Homeros'un İlliada Destanı'na konu olmuş yerleşim aşağıdakilerden hangisidir?",
+            "options": [
+                "Atina",
+                "Knossos",
+                "Ephesus",
+                "Miletus",
+                "Troia"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 3,
+            "topic": "Troia (Hisarlık Tepe)",
+            "explanation": "Troia (Hisarlık Tepe) yerleşmesi, Heinrich Schliemann tarafından sistematik olarak kazılarak belgelendiği için arkeoloji biliminin ilk sistematik kazısı sayılır. Ayrıca Homeros'un İlyada Destanı'na konu olması ve Kuzeybatı Anadolu'daki stratejik konumu nedeniyle Anadolu arkeolojisi için çok önemli bir yere sahiptir (Ünite 3, Sayfa 3)."
+        },
+        {
+            "id": 39,
+            "question": "Yerleşik tarımcı hayatın gelişmesi ile birlikte değişen sosyal ve dinsel inançların sonucunda ilk örnekleri Çanak Çömleksiz Neolitik dönem Nevali Çöri ve Çayönü yerleşmelerinde görülen, kilden veya taştan yapılmış heykelciklerin ana teması aşağıdakilerden hangisidir?",
+            "options": [
+                "Meander motifleri",
+                "Mitolojik yaratıklar",
+                "Kadın figürleri",
+                "Savaşçı erkek figürleri",
+                "Soyut figürler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 1,
+            "topic": "Çanak Çömleksiz Neolitik Kültür",
+            "explanation": "Çanak Çömleksiz Neolitik dönem yerleşmelerinde (Nevali Çori, Çayönü) tapınak benzeri yapılar ve bu yapıların içinde bulunan heykel, dikilitaş gibi imgelemeler, törenler ve ritüeller için tasarlandığını akla getirmektedir. Heykellerde genellikle ilkel bir soyutlama yetisi ve belki de doğa/bereket teması ön plandadır. Ancak bu heykellerin ana teması, genellikle Ana Tanrıça figürinleri veya soyut öğelerdir. Sorudaki 'Ana Tanrıça' teması, genel olarak bu dönemdeki heykelcilik için en baskın temalardan birini ifade eder (Ünite 1, Sayfa 3)."
+        },
+        {
+            "id": 40,
+            "question": "MÖ. 680-MÖ. 546 yılları arasında güçlü bir krallık olarak Anadolu'nun Kızılırmak Nehri'nin batısında kalan topraklarına egemen olan ve sikkeyi (madeni para) icat ederek kültür tarihine önemli bir katkı yapmış uygarlık aşağıdakilerden hangisidir?",
+            "options": [
+                "Frigler",
+                "Hititler",
+                "Asurlular",
+                "Lidyalılar",
+                "Urartular"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565284",
+            "UniteNo": 3,
+            "topic": "Lidya Krallığı",
+            "explanation": "Lidya Krallığı, MÖ 680-546 yılları arasında Mermnad Hanedanlığı döneminde güçlü bir krallık olmuş, Kızılırmak'ın batısına egemen olmuştur. Lidyalılar, kültürel tarihe en büyük katkıları olarak sikke (madeni para) icadıyla bilinirler (Ünite 3, Sayfa 3)."
+        },
+        {
+            "id": 41,
+            "question": "Kalkolitik Dönemde bilezik üretim süreçlerinin görüldüğü aşağıdakilerden hangisidir?",
+            "options": [
+                "Küllüoba",
+                "Orman Fidanlığı",
+                "Kanlıtaş Höyük",
+                "Arslantepe",
+                "Aktopraklık"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220"
+        },
+        {
+            "id": 42,
+            "question": "Aşağıdaki yerleşme süreçlerden hangisi kültür evresine ait bir dönemi göstermemektedir?",
+            "options": [
+                "Paleolitik",
+                "Mezolitik",
+                "Holosen",
+                "Neolitik",
+                "Tunç çağları"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 1,
+            "topic": "Tarih Öncesi Dönemler",
+            "explanation": "Paleolitik (Alt, Orta, Üst), Neolitik (Çanak Çömleksiz ve Seramikli) ve Kalkolitik dönemler tarih öncesi çağlardır. Epi-Paleolitik Dönem (Mezolitik ile eşleşen) ise bu evreler arasında yer alan bir geçiş dönemidir ancak kültür evresi olarak adlandırılan ana dönemlere ait değildir. Epi-Paleolitik dönem, iklimsel değişimler sonrası mikrolit aletlerin üretildiği Mezolitik çağa denk gelirken, diğer seçenekler (Paleolitik, Neolitik, Kalkolitik) ana kültür evrelerini temsil eder."
+        },
+        {
+            "id": 43,
+            "question": "Frig kralı Midas aşağıdaki Aiol kentlerinden hangisinin prensesi ile evlenmiştir?",
+            "options": [
+                "Kyme",
+                "Pitane",
+                "Myrina",
+                "Gryneion",
+                "Larissa"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 3,
+            "topic": "Frig Siyasi Tarihi",
+            "explanation": "Frig kralı Midas'ın sınırları batıda Kütahya'ya kadar uzanıyordu. Aiol kentleri (İyonya'nın kuzeyi) arasında Midilli, Efes, Milet gibi kentler vardı. Kitapta Midas'ın evlilikleri hakkında doğrudan bilgi verilmemekle birlikte, Friglerin komşuları ile diplomatik ilişkileri olduğu belirtilmiştir. Ancak Aiol kentleri arasında özel bir prenses ile evliliğine dair bilgi metinlerde bulunmamaktadır. Bu bilgi, ders notlarında olmayan harici bir bilgiye dayanarak cevaplanamaz. Ancak, Friglerin Orta Anadolu'da etkin olduğu, Aiollerin ise Batı Anadolu'nun kuzeyine yerleştiği bilgisi mevcuttur."
+        },
+        {
+            "id": 44,
+            "question": "Geç Tunç Çağı Anadolu'sunda bölgenin belirleyici siyasi gücü ve Anadolu'nun ilk merkezi krallığı aşağıdakilerden hangisidir?",
+            "options": [
+                "Frigler",
+                "Urartular",
+                "Lidyalılar",
+                "Akadlar",
+                "Hititler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 2,
+            "topic": "Geç Tunç Çağı Gücü",
+            "explanation": "Geç Tunç Çağı'nda Anadolu'da belirleyici siyasi gücün Hitit Devleti olduğu ve Anadolu'nun ilk merkezi krallığı olduğu belirtilmiştir. Hitit Devleti, Eski Krallık ve İmparatorluk dönemleri olarak incelenir."
+        },
+        {
+            "id": 45,
+            "question": "Aşağıdakilerden hangisi Geç Hitit Krallıkları Dönemi'nde kullanılan dillerden biridir?",
+            "options": [
+                "Eski Yunanca",
+                "Aramice",
+                "Palaca",
+                "Hurrice",
+                "Latince"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 2,
+            "topic": "Geç Hitit Dilleri",
+            "explanation": "Geç Hitit Krallıkları döneminde, Karatepe'de bulunan ve hiyeroglif yazısının çözümüne büyük katkı sağlayan yazıtların Luwi hiyeroglifli ve Fenikece çift dilli olduğu belirtilmiştir. Dolayısıyla Luwi hiyeroglifleri (ve dolaylı olarak Fenikece) bu dönemde kullanılan dillerdendir."
+        },
+        {
+            "id": 46,
+            "question": "MÖ. 47 yılında Anadolu'ya giren lulius Caesar'in (Jül Sezar) kısa sürede başarı elde etmesi sonucunda, önceki Romalı generallere gönderme yapmak ve kendi zaferini yüceltmek için meşhur, \"Geldim, gördüm, yendim, (veni, vidi, vici)\" deyişini ifade ettiği merkezimiz aşağıdakilerden hangisidir?",
+            "options": [
+                "Efes (İzmir)",
+                "Smyrna (İzmir)",
+                "Gordion (Ankara)",
+                "Hattusa (Çorum)",
+                "Zela (Tokat)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 4,
+            "topic": "Roma Dönemi Seferleri",
+            "explanation": "Jül Sezar, Pompeius'u yendikten sonra Anadolu'ya geçerek Troia, Bergama, Knidos, Ephesos gibi kentleri ziyaret etmiş ve buralarda kendi zaferini ilan etmiştir. Veni, Vidi, Vici sözünü Caesar'in söylediği bilinmektedir."
+        },
+        {
+            "id": 47,
+            "question": "Devasa tanrı heykeli tasarımlarıyla Hellenistik Dönem'in Doğu-Batı sentezini uygulamaya çalışan Kommagene kralı I. Antiokhos'un tümülüsü hangi ilimiz sınırları içerisinde yer almaktadır?",
+            "options": [
+                "Çorum",
+                "Konya",
+                "Eskişehir",
+                "Adıyaman",
+                "Uşak"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 4,
+            "topic": "Hellenistik Dönem Tümülüsler",
+            "explanation": "Kommagene Kralı I. Antiokhos'un tümülüsünün Nemrut Dağı'nda (Adıyaman) yer aldığı, bu tümülüsün devasa tanrı heykelleri ve Doğu-Batı sentezini yansıtan özellikleriyle Hellenistik Dönem'in önemli bir mimari eseri olduğu metinde belirtilmiştir. Bu bölge Adıyaman sınırları içerisindedir."
+        },
+        {
+            "id": 48,
+            "question": "Aşağıdakilerden hangisi Friglerin küçük fasadlar grubundaki eserlerden biridir?",
+            "options": [
+                "Sümbüllü Anıt",
+                "Bahşayiş Anıtı",
+                "Bitmemiş Anıt",
+                "Maltaş Anıtı",
+                "Arezastis Anıtı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 3,
+            "topic": "Frig Kültürü Eserleri",
+            "explanation": "Friglerde yazıtların, sunaklar, nişler ve kap kacaklar üzerine kazınmış kısa yazıtlar ve kelimelerden oluştuğu, bu tür eserlerin \"küçük eserler\" kategorisinde yer aldığı belirtilmiştir. Ayrıca Friglerde \"fasadlar\" olarak adlandırılan, işlenmiş kaya cepheleri olduğu belirtilmiştir. Bu fasadlar genellikle anıtsal yapılarda görülürken, küçük fasadlar grubuna ait eserler hakkında spesifik bir bilgi metinde yoktur. Ancak, genel olarak yazıtların ve tasvirlerin kaya yüzeylerine yansıtıldığı bilgisi mevcuttur. Şüphesiz ki, kaya yüzeylerine yansıtılan tasvirler (kaya anıtları) bu grubun bir parçasıdır."
+        },
+        {
+            "id": 49,
+            "question": "Eşit şartlarda iki büyük devlet, yani Hititler ile Mısırlılar arasında dostluk ve kardeşliğin sonsuza kadar devam edeceğini belirten, Boğazköy'deki kazılarda ele geçirilen Sonsuz Barış Antlaşması'nın bakır bir kopyası, günümüzde Türkiye Cumhuriyeti dışında nerede sergilenmektedir?",
+            "options": [
+                "Avrupa Birliği Binası",
+                "Birleşmiş Milletler Binası",
+                "NATO Binası",
+                "British Museum, Londra",
+                "UNICEF Binası"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 2,
+            "topic": "Hitit Barış Antlaşması",
+            "explanation": "III. Hattuşili döneminde, Hititler ile Mısır arasında imzalanan ve “Hitit-Mısır Sonsuz Barışı” olarak tanımlanan antlaşmanın dikte edildiği tabletin kopyası, Mısır tapınak duvarlarına hiyeroglifle işlenmiştir. Tabletin orijinal metni ise Boğazköy'de (Çorum) bulunmuştur. Dolayısıyla, bakır kopyanın (eğer varsa) veya tabletin orijinalinin Türkiye Cumhuriyeti dışında sergilendiği merkez Mısır'dır (Hiyeroglifli kopyanın bulunduğu yer)."
+        },
+        {
+            "id": 50,
+            "question": "Aşağıdakilerden hangisi, Roma'nın Anadolu'da (Küçük Asya) kurduğu eyaletlerden biri <u>değildir</u>?",
+            "options": [
+                "Asia Eyaleti",
+                "Kilikya Eyaleti",
+                "Bithynia – Pontos Eyaleti",
+                "Panionia Eyaleti",
+                "Galatia Eyaleti"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 4,
+            "topic": "Roma Eyaletleri",
+            "explanation": "Roma, Anadolu'da Likya-Pamphylia, Trakya, Cappadocia (Kapadokya) eyaletlerini kurmuştur. Ephesos (Efes) ise bir kent devletiyken sonradan Roma kontrolüne girmiş ancak ayrı bir eyalet olarak kurulduğuna dair bilgi metinde bulunmamaktadır. Metinde Bithynia-Pontos, Kilikya Eyaleti'nin kurulduğu belirtilmiştir."
+        },
+        {
+            "id": 51,
+            "question": "Anadolu'da Hellen dönemi resim sanatının örneklerinin takip edilebildiği eserler aşağıdakilerden hangisinde belirtilmektedir?",
+            "options": [
+                "Duvar resimleri",
+                "Heykel altlıkları",
+                "Seramik eserler",
+                "Mezar stelleri",
+                "Mimari yapılar"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220"
+        },
+        {
+            "id": 52,
+            "question": "Geç Hitit Dönemi beyliği Gurgum (Maraş)'da ortaya çıkan ve krali olmayan mezar stelleri Anadolu'ya bu dönemde gelmiş olan hangi halkla ilişkilendirilir?",
+            "options": [
+                "Luwi",
+                "Frig",
+                "Fenike",
+                "Arami",
+                "Akha"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 2,
+            "topic": "Geç Hitit Krallıkları",
+            "explanation": "Geç Hitit Krallıkları içinde son olarak Gurgum (Maraş) Krallığı mezar stelleri hakkında bilgi verilirken, tasvir edilen şahısların zengin tabakadan olduğu ve Gurgum'daki mezar stellerindeki sahnelerin Eski Yunan mezar stellerinin prototipi olduğu belirtilmektedir. Mezarlarda tasvir edilen zengin tabaka, Fenike etkisi taşıyan Karatepe'deki kabartmalarla birlikte, bölgeye gelen yeni halkların (Aramiler, Fenikeliler) etkisini göstermektedir. Ancak Gurgum'daki mezar stellerinin Eski Yunan mezar stellerinin prototipi olması, bu krallığın kültürel etkileşimini göstermektedir. Soruda belirtilen, krali olmayan zengin tabakayı tasvir eden stellerin, Eski Yunan mezar stellerinin prototipi olması, doğrudan bir halkla ilişkilendirmekten ziyade, o dönemki kültürel alışverişin bir sonucu olarak yorumlanabilir. Verilen metinde, Gurgum'daki mezar stellerinin Eski Yunan mezar stellerinin prototipi olduğu belirtilerek, bir sonraki kültürle olan yakınlığı vurgulanmaktadır. Ancak Geç Hitit Krallıkları döneminde Arami kültürü (Sam'al'da) ve Fenike etkisi (Karatepe'de) güçlüdür. Gurgum'daki stellerin doğrudan bir halkla değil, zengin tabakayla ilişkili olduğu söylenmiştir."
+        },
+        {
+            "id": 53,
+            "question": "Asurlu tüccarın Anadolu'ya getirdiği ürünlerin başında kalay madeni yer alırken, bu üründen sonra Anadolu'daki halkların talep ettiği ikinci ürün aşağıdakilerden hangisinde belirtilmiştir?",
+            "options": [
+                "Demir",
+                "Tunç",
+                "Gümüş",
+                "Köle",
+                "Kumaş"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 2,
+            "topic": "Orta Tunç Çağı Ticareti",
+            "explanation": "Orta Tunç Çağı-Asur Ticaret Kolonileri Dönemi'nde tüccarların Anadolu'ya getirdiği ürünlerin başında tunç yapımı için olmazsa olmaz olan kalay madeni yer alıyordu. İkinci önemli ürünün ise Babil'in meşhur dokuma kumaşları olduğu belirtilmiştir. Asurlular bu kumaşları başka ülkelerden sağlayıp Anadolu'da satıyorlardı."
+        },
+        {
+            "id": 54,
+            "question": "İyiler ile kötülerin mücadelesini, tanrılar ve devler arasındaki savaş (gigantomakhi) şeklinde betimleyen sahneleriyle, günümüz konsol ya da bilgisayar oyunlarına ilham verecek nitelikteki Zeus ve Athena'ya adanmış sunak, aşağıdaki merkezlerimizden hangisinde ele geçirilmiştir?",
+            "options": [
+                "Efes",
+                "Hattusa",
+                "Bergama",
+                "Sardis",
+                "Coridien"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 2,
+            "topic": "Neolitik Kültür ve Tapınaklar",
+            "explanation": "Göbekli Tepe, Nevali Çori ve Çayönü gibi Çanaksız Neolitik döneme tarihlenen yerleşmelerdeki bulguların, ilk Neolitik toplulukların konutların dışında, tapınak olarak adlandırılabilecek dikkat çekici mimari yapılara sahip olduklarını gösterdiği belirtilmiştir. Bu yapılarda bulunan heykel, dikilitaş, duvar resmi ve kabartmalar törensel ritüeller için tasarlanmış olabileceğini akla getirmektedir. Göbekli Tepe, dünyanın en erken “tapınak” yapısı örneklerini ortaya çıkartmıştır."
+        },
+        {
+            "id": 55,
+            "question": "Frig Devleti'nin bilinen ilk kralı aşağıdakilerden hangisidir?",
+            "options": [
+                "Midas",
+                "Gordios",
+                "Adrastos",
+                "Kambyses",
+                "Kyros"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 2,
+            "topic": "Frig Krallığı Siyasi Tarihi",
+            "explanation": "Frig Krallığı'nın başkent Gordion'a adını veren ilk kralın Gordios olduğu, daha sonra Frig tahtına MÖ. 742 veya MÖ. 738 yılında ünlü kral Midas'ın geçtiği bilgisi metinde yer almaktadır."
+        },
+        {
+            "id": 56,
+            "question": "Aşağıdakilerden hangisi kaya zemin üzerine kurulmuş yamaç yerleşmelerine örnektir?",
+            "options": [
+                "Orman Fidanlığı",
+                "Çatalhöyük",
+                "Arslantepe",
+                "Göbekli Tepe",
+                "Karain Mağarası"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 4,
+            "topic": "Roma Dönemi Yerleşimleri",
+            "explanation": "Bölgeye gelen İonialılar, Batı Anadolu'nun orta kesimlerine yerleşmişler birçok kent kurmuşlardır. Denizcilik yapabilmek ve savunmada avantaj sağlamak amacıyla yerleşimler daha çok yarımadalar üzerine kurulmuştur. Bu, kaya zemin üzerine kurulmuş yamaç yerleşimlerine bir örnek teşkil eder."
+        },
+        {
+            "id": 57,
+            "question": "Ön Asya ve Anadolu'da görülen en erken tapınak yapılarının saptandığı yerleşme aşağıdakilerden hangisidir ve hangi döneme tarihlenir?",
+            "options": [
+                "Nevali Çori – Çanak Çömleksiz Neolitik Dönem",
+                "Caferhöyük-İlk Tunç Çağı",
+                "Aşıklıhöyük- Çanak Çömlekli Neolitik Dönem",
+                "Göbekli Tepe - Çanak Çömleksiz Neolitik Dönem",
+                "Çatalhöyük -Erken Kalkolitik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 2,
+            "topic": "Neolitik Dönem Mimari",
+            "explanation": "1990'ların ortalarından itibaren kazılan Göbekli Tepe (Urfa) yerleşmesinde, dünyanın en erken “tapınak” yapısı örnekleri ortaya çıkartılmıştır. Bu yapılar, tarım ve evcilleştirme sürecinin başlangıcındaki Neolitik toplumların organize ve gelişmiş yapısını yansıtmaktadır ve MÖ. 9. binin ikinci yarısından itibaren tarihlendirilir."
+        },
+        {
+            "id": 58,
+            "question": "Frig kralı Midas'ın görülmeye değer güzellikteki ahşap tahtını armağan olarak yolladığı Orta Yunanistan'daki kent aşağıdakilerden hangisidir?",
+            "options": [
+                "Delphoi",
+                "Thebai",
+                "Olympia",
+                "Atina",
+                "Megara"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 2,
+            "topic": "Frig Kültürü ve Sanat",
+            "explanation": "Friglerde maden işçiliği, mobilyacılık, dokumacılık ve çanak çömlekçilik gelişmiştir. Tunç eşyalar arasında siren ve boğa eklentili büyük boyutlu kazanlar, boğa, kuş ve T biçimi eklentili kulpları olan küçük kazanlar yer almaktadır. Frig mobilyacılığı ile ilgili bilgi edinilmesini sağlayan mobilya örnekleri Gordion'da MM, P ve W Tümülüslerinden ele geçirilmiştir. Metinde Midas'ın tahtının, kraliçe ile birlikte armağan edildiği bilgisi bulunmamaktadır. Ancak Gordion'daki tümülüslerden ele geçirilen tunç eserler arasında büyük boyutlu kazanlar belirtilmiştir. Sorunun iddiası olan Midas'ın tahtını gönderme bilgisi metinde doğrudan yer almasa da, Gordion'daki tümülüslerden çıkan zengin tunç eserler, Frig zanaatkârlığının yüksek seviyede olduğunu gösterir. Ancak kesin cevaba ulaşmak için en yakın kültürel ürünler olan tunç eserlerin ele geçtiği Gordion Nekropolü'ndeki buluntulara odaklanılmalıdır. Gordion'da ele geçen tunç eserler arasında, boğa eklentili büyük boyutlu kazanlar mevcuttur."
+        },
+        {
+            "id": 59,
+            "question": "Tabakalanmasının sistematik şekilde belgelenmesi nedeniyle arkeoloji biliminin ilk sistematik kazısı sayılan merkez aşağıdakilerden hangisidir?",
+            "options": [
+                "Alacahöyük",
+                "Çatalhöyük",
+                "Yarımburgaz Mağarası",
+                "Hacılar",
+                "Troia"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 2,
+            "topic": "Troia Kazıları Tarihçesi",
+            "explanation": "Heinrich Schliemann tarafından, ilk olarak 1870 yılında kazılmaya başlanan Troia (Hisarlık Tepe) yerleşmesi tabakalanmasının sistematik şekilde belgelenmesi nedeniyle arkeoloji biliminin ilk sistematik kazısı sayılır."
+        },
+        {
+            "id": 60,
+            "question": "Çok tanrılı bir inanca sahip olan Friglerin tek bir kutsal varlık olarak saygı gösterdikleri ve olasılıkla bu nedenle sadece onun tasvirini yaptıkları tanrıça aşağıdakilerden hangisidir?",
+            "options": [
+                "Matar Kubileye",
+                "Teişeba",
+                "Hera",
+                "Demeter",
+                "Persephone"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618220",
+            "UniteNo": 2,
+            "topic": "Frig Dini",
+            "explanation": "Frigler çok tanrılı bir dine inanıyorlardı. Ancak sadece Matar (Ana) adını verdikleri tanrıçalarının tasvirlerini yapmışlar ve ona tek tanrı gibi saygı göstermişlerdir. Tanrıçalarını Matar Kubileya, Matar Areyastin olarak da adlandırmışlardır. Matar tanrıçası bolluk, bereket ve doğa tanrıçası, vahşi hayvanların hakimesidir."
+        },
+        {
+            "id": 61,
+            "question": "Aşağıdakilerden hangisi Geç Hitit Krallıklarından biri <u>değildir</u>?",
+            "options": [
+                "Kargamış",
+                "Frig",
+                "Sam'al",
+                "Melid",
+                "Tabal"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677"
+        },
+        {
+            "id": 62,
+            "question": "Aşağıdakilerden hangisi Roma'da ilk Hıristiyanların içinde toplanıp, tapındıkları yer altı mezarlarının genel adıdır?",
+            "options": [
+                "Şapel",
+                "Hipoje",
+                "Tempera",
+                "Diptikon",
+                "Katakomp"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 4,
+            "topic": "Roma Dönemi Kültürü",
+            "explanation": "Roma döneminde, Hıristiyanlığın ilk yıllarında kentlerin görkemli sütunlu caddeleri, anıtsal çeşmeler (Nymphaion) ve Roma katkısı olarak kabul edilen takların yanı sıra, inançla ilgili yapılar arasında yer altında yer alan mezarlar (Katakomplar) ve bazilikalara benzer yapılar önemliydi. Roma'da halkın dinsel aktiviteleri için kullandığı yer altı mezarlarına verilen genel isim \"Katakomplar\"dır."
+        },
+        {
+            "id": 63,
+            "question": "Hellen göç hareketleri sonrası Batı Anadolu'da kurulmuş, Miletus, Myus, Priene, Ephesos, vkimi kentlerin kendi aralarında kurdukları ve belirli zamanlarda toplanarak savaş gibi önemli kararlar aldıkları birliğe ne ad verilmektedir?",
+            "options": [
+                "Attika Delos Birliği",
+                "Likya Birliği",
+                "Panionion",
+                "Kutsal Birlik",
+                "Panhellenizm"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 4,
+            "topic": "Hellenistik Dönem",
+            "explanation": "İonialılar, Batı Anadolu'nun orta kesimlerine yerleşerek birçok kent kurmuşlardır. Bu kentler, kıta Yunanistan'ına kıyasla üstün bir kültüre sahipti ve kendi aralarında Panionion adı verilen dinsel bir birlik oluşturmuşlardı. Bu birlik, dinsel olsa da, savaş gibi önemli kararların alındığı bir meclis işlevi görmüştür."
+        },
+        {
+            "id": 64,
+            "question": "İlhanlıların zayıflamasından yararlanarak ortaya çıkan ve Selçuklu nizamının Anadolu'ya yerleşmesinde rol oynayan döneme ne ad verilir?",
+            "options": [
+                "Erken Osmanlı",
+                "Selçuklular",
+                "Anadolu Beylikleri",
+                "Osmanlı Devleti",
+                "Büyük Selçuklular"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 6,
+            "topic": "Anadolu Selçuklu",
+            "explanation": "Anadolu Beylikleri, 13. yüzyılın son yarısında, İlhanlıların zayıflamasından yararlanarak ortaya çıkmıştır. Bu dönemde beylikler, Batı Anadolu'da Selçuklu nizamının yerleşmesi ve Türkleşmenin hızlanmasında önemli roller oynamıştır."
+        },
+        {
+            "id": 65,
+            "question": "Çeşitli iktisadi ve kültürel ortak öğeleri belirtmek için kullanılan \"Neolitik Paket\" tanımı kime aittir?",
+            "options": [
+                "Mehmet Özdoğan",
+                "Robert J. Braidwood",
+                "H.J. Breasted",
+                "Gordon Childe",
+                "Manfred Korfmann"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 1,
+            "topic": "Neolitik Dönem Kültürü",
+            "explanation": "Neolitik Dönem'de mimari ve yerleşim birimlerinin incelendiği kısımda, Orta Anadolu'nun mimari anlayışının Güneydoğu Anadolu'dan farklı olduğu belirtilir. Mehmet Özdoğan, Neolitik Dönem'de Batı Anadolu ve Trakya'ya yayılan ortak kültürel ve iktisadi öğeleri tanımlarken, bu bileşenleri kapsayan yapıya \"Neolitik Paket\" adını vermiştir."
+        },
+        {
+            "id": 66,
+            "question": "Aşağıdakilerden hangisi üniversite reformu İçin Türkiye'ye çağrılmış, hazırladığı rapor ile bu reforma temel oluşturmuş bilim insanıdır?",
+            "options": [
+                "Paul Hindemith",
+                "Albert Malch",
+                "Léopold Lèvy",
+                "Carl Ebert",
+                "Rudolf Belling"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 8,
+            "topic": "Reformlar ve Eğitim",
+            "explanation": "Cumhuriyet dönemi kültür reformlarının önemli bir parçası olarak, üniversitelerin Batılılaşma çabaları çerçevesinde yeniden düzenlenmesi yer alır. Metinde, Hasan Âli Yücel'in önderliğinde, 1933'te üniversite reformunun yapıldığı ve bu reformun mimar Heinrich B. B. von Tessin ile işbirliği içinde gerçekleştirildiği belirtilmektedir. Ancak belirtilen seçenekler arasında doğrudan reformu hazırlayan bilim insanı olarak sadece Von Tessin (mimarlık) adı geçmektedir. Metinde belirtilen diğer önemli figürler arasında, Ankara'yı planlayan Clemens Holzmeister, Theodor Post ve Herman Jansen yer alır, ancak üniversite reformunda adı geçen yabancı bilim insanı olarak genellikle Alman mimar Clemens Holzmeister anılır; verilen seçenekler arasında B.B. von Tessin ismi yer almadığından, en uygun cevap (diğer şıklar da uygun olmadığı için) bağlamsal olarak en yakın olan mimar (Holzmeister) veya reformun lideri Hasan Âli Yücel'in ismini içermeyen diğer seçeneklere bakılmalıdır. Bu sorunun bağlamına en uygun cevap, üniversite reformuyla doğrudan ilişkilendirilen, raporu hazırlayan yabancı bilim insanı olmasıdır; verilen seçenekler arasında bu bilgi net olarak karşılık bulmamaktadır. Ancak, genel reform bağlamında ve mimarlıkla ilişkilendirilen yabancı uzmanlar arasında Ernst Egli, Clemens Holzmeister ve Herman Jansen'den bahsedilmiştir. Fakat Hasan Ali Yücel'in önderliğindeki reformun mimari ayağında Ernst Egli'nin adı geçer, ancak buradaki sorunun kapsamı reformu hazırlayan raporu hazırlayan yabancı bilim insanıdır. Hasan Âli Yücel'in bizzat getirdiği isimlerden biri Clemens Holzmeister'dir (Ünite 8)."
+        },
+        {
+            "id": 67,
+            "question": "Aşağıdakilerden hangisi Ankara'nın erken Cumhuriyet dönemindeki imarında iz bırakan mimarlardan biri <u>değildir</u>?",
+            "options": [
+                "Ernst Egli",
+                "Herman Jansen",
+                "Heinrich Krippel",
+                "Clemens Holzmeister",
+                "Theodor Post"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 8,
+            "topic": "Cumhuriyet Mimarlığı",
+            "explanation": "Ankara'nın erken Cumhuriyet dönemindeki imarında iz bırakan mimarlar arasında Alman ve Avusturyalı mimarlar Theodor Post, Ernst Egli, Clemens Holzmeister ve Herman Jansen'in adları geçmektedir (Ünite 8, s. 2). Seçeneklerde adı geçmeyen kişi bu listede yer almayan olmalıdır. Verilen seçenekler arasında, bu listede adı geçmeyen kişi (varsayımsal olarak) sorunun bağlamına en uygun olmayan olacaktır. Eğer soruda verilen seçenekler olsaydı, listede olmayan kişi seçilirdi. Ancak seçenekler verilmediği için, metinde adı geçenler (Post, Egli, Holzmeister, Jansen) dışındaki bir mimarın doğru cevap olduğu varsayılır."
+        },
+        {
+            "id": 68,
+            "question": "Diyarbakır Surları Türk ve Yunus Emre'nin divanında geçen, Türk müziğinin bilinen en eski çalgıları arasında yer alan müzik aleti aşağıdakilerden hangisidir?",
+            "options": [
+                "Ney",
+                "Kanun",
+                "Tambur",
+                "Kopuz",
+                "Ud"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 7,
+            "topic": "Osmanlı Müziği",
+            "explanation": "Metinde, Osmanlı müziğinin temellerinin Orta Asya'ya dayandığı, ancak süreç içerisinde kısmen Arap ve İran müziğinin de etkisinde kaldığı belirtilmektedir. 16. yüzyılda Selçuklu izleri taşıyan bazı eserlerde, özellikle Anadolu'da yapılmış olan eserlerde, hayvan figürlerinin (kartal, aslan, fil, grifon, sfenks) bulunduğu tekstillerden bahsedilse de, müzik aleti olarak Diyarbakır Surları ile doğrudan ilişkilendirilen bir çalgı adı geçmemektedir. Ancak, Osmanlı müziğinin Klasik döneminde Mimar Sinan'ın eserlerinde (Süleymaniye ve Selimiye Külliyeleri) çini ve seramik sanatının öne çıktığı belirtilmiştir. Soru, Diyarbakır Surları ile müzik aletini bağlamaktadır. Metinde Diyarbakır Surları ile ilgili herhangi bir müzik aleti bilgisi bulunmamaktadır. Ancak, Divan Edebiyatı'nda yer alan müzik terimleri ve tiyatro oyunlarından bahsedilmiştir (Ünite 7)."
+        },
+        {
+            "id": 69,
+            "question": "Türkiye Selçuklularında ilk medreseler kimin zamanında kurulmuştur?",
+            "options": [
+                "I. Kılıçarslan",
+                "II. Mesud",
+                "Alaeddin Keykubad",
+                "Gıyaseddin Keyhüsrev",
+                "II. Kılıçarslan"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 6,
+            "topic": "Selçuklu Eğitimi",
+            "explanation": "Türkiye Selçuklularında ilk medreseler, siyasi istikrarın sağlanması ile kültür faaliyetlerinin başladığı dönemde, II. Kılıçarslan devrinde kurulmuştur. II. Kılıçarslan Konya ve Aksaray'da iki medrese yaptırmıştır (Ünite 6)."
+        },
+        {
+            "id": 70,
+            "question": "Aşağıdakilerden hangisi dini el yazmaları arasında yer almaz?",
+            "options": [
+                "Oktateuch",
+                "Mezmurlar",
+                "Meseller",
+                "Evangeliar",
+                "Kronik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 7,
+            "topic": "Osmanlı Edebiyatı",
+            "explanation": "Osmanlı klasik edebiyatında dîvan, hamse, mesnevi, tefsir, hadis, fıkıh gibi dini kitaplar; kısasü'l-enbiya, tezkiretü'l-evliya, menâkıb-nâmeler, hikâye, destâni eserler ve manzum tarihler gibi türler yer almaktadır. Tezkiretü'l-evliya ve menâkıb-nâme türleri dini/tasavvufi konulu eserlerdir. Ancak, 'kırk hadisler' de dini bir eser türü iken, 'Halk Tiyatrosu Geleneği' ile ilgili oyunlar (kukla, karagöz, ortaoyunu) sahne sanatları başlığı altında yer alır ve bunlar dini içerikli olmaktan çok dünyevi/popüler eğlence türleridir. Metinde, halk tiyatrosu oyunlarının (kukla, Karagöz, Ortaoyunu) sahne sanatları altında yer aldığı ve bunların geleneksel gösteri türleri olduğu belirtilirken, dini el yazmaları arasında sayılan Tevrat, Kuran ve İncil gibi eserlerden bahsedilmemiştir. Seçeneklerde dini yazmalar arasında sayılmayan tür, tiyatro oyunlarıdır (Ünite 7)."
+        },
+        {
+            "id": 71,
+            "question": "Selçuklu devrinde Kırım'ın fethi ile Sinop'a yerleştirilen Türkler kimlerdir?",
+            "options": [
+                "Peçenekler",
+                "Kıpçaklar",
+                "Türkmenler",
+                "Avarlar",
+                "Uzlar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677"
+        },
+        {
+            "id": 72,
+            "question": "Aşağıdaki savaşlardan hangisi Babai isyanı sonrası 1243'te gerçekleşen ve Selçukluların siyasi otoritesini sarsan savaştır?",
+            "options": [
+                "Miryakefalon",
+                "Malazgirt",
+                "Kosova",
+                "Kösedağ",
+                "Pasinler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 6,
+            "topic": "Anadolu Selçuklu Savaşları",
+            "explanation": "Babai İsyanı sonrası Selçukluların siyasi otoritesini sarsan savaş, 1243'te gerçekleşen Kösedağ Savaşı'dır (Metinde '13. yüzyılda Moğol istilası' olarak geçer). Bu savaş, İlhanlılar tarafından kazanılmış ve Anadolu Selçuklu Devleti'nin (Türkiye Selçukluları Devleti) İlhanlı hakimiyetine girmesine neden olmuştur. (Ünite 6, Sayfa 1, Moğol İstilasının Durumu paragrafı)."
+        },
+        {
+            "id": 73,
+            "question": "Pisanello'nun öğrencisi, Venedikli sanatçı Costanzo'yu İstanbul'a davet ederek ona büst portresinin yer aldığı madalyonu yaptıran Osmanlı padişahı aşağıdakilerden hangisidir?",
+            "options": [
+                "II. Selim",
+                "Fatih Sultan Mehmet",
+                "II. Bayezid",
+                "Yavuz Sultan Selim",
+                "Kanuni Sultan Süleyman"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 7,
+            "topic": "Osmanlı Sanat ve Padişahlar",
+            "explanation": "Pisanello'nun öğrencisi Costanzo'yu İstanbul'a davet eden ve büst portreli madalyon yaptıran padişah Fatih Sultan Mehmed'dir (Ünite 7, Sayfa 2). Fatih döneminde Batı kültürü ve sanatına ilgi artmıştır; Gazel ve kaside ön plana çıkmış, aynı zamanda yabancı sanatçılar davet edilmiştir."
+        },
+        {
+            "id": 74,
+            "question": "Urartu panteonunda fırtına ve gökgürültüsü tanrısı Teişeba'nın kökeni aşağıdakilerden hangisidir?",
+            "options": [
+                "Hurri",
+                "Hatti",
+                "Hint-Avrupa",
+                "Mezopotamya",
+                "Mısır"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 3,
+            "topic": "Urartu Tanrıları ve Kökenleri",
+            "explanation": "Urartu panteonunda fırtına tanrısı olan Teişeba (veya Teşup), Hurri kökenli bir tanrıdır. Urartular, fethettikleri topraklardaki halkların tanrılarını panteonlarına katmışlardır. (Ünite 3, Sayfa 1, Urartu Kültürü paragrafı)."
+        },
+        {
+            "id": 75,
+            "question": "Aşağıdakilerden hangisi Cumhuriyetin ilk yıllarında Batı tekniğiyle işlenerek milli müziği oluşturacak türde müzik türüdür?",
+            "options": [
+                "Orta Asya Türk müziği",
+                "Mevlevî müziği",
+                "Halk müziği",
+                "Saray müziği",
+                "Alaturka müzik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 8,
+            "topic": "Cumhuriyet Müziği ve Batılılaşma",
+            "explanation": "Cumhuriyetin ilk yıllarında Batı tekniğiyle işlenerek milli müziği oluşturacak türde müzik, Türk Beşleri olarak bilinen bestecilerin öncülük ettiği çok sesli müzik kültürüdür. (Ünite 8, Sayfa 2, Müzik ve Tiyatro Alanındaki Gelişmeler paragrafı)."
+        },
+        {
+            "id": 76,
+            "question": "Seyirlik sanatlarda bir topluluk önünde hikâye anlatan ve canlandıran kişiye ne ad verilir?",
+            "options": [
+                "Meddah",
+                "Kuklacı",
+                "Karagöz",
+                "Köçek",
+                "Çengi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 7,
+            "topic": "Osmanlı Sahne Sanatları",
+            "explanation": "Seyirlik sanatlarda bir topluluk önünde hikâye anlatan ve canlandıran kişiye 'meddah' adı verilir. Bu tür, Halk Tiyatrosu geleneği altında yer alır. (Ünite 7, Sayfa 4, Sahne Sanatları paragrafı)."
+        },
+        {
+            "id": 77,
+            "question": "Aşağıdakilerden hangisi Bizans'ın ipek üretim merkezlerinden biridir?",
+            "options": [
+                "Şam",
+                "Ravenna",
+                "Kiev",
+                "Amorium",
+                "Selanik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 5,
+            "topic": "Bizans İpek Üretimi",
+            "explanation": "Osmanlı döneminde (Bizans sonrası süreç için de geçerli olan bu bilgi) ipek üretiminin en önemli merkezi başkent Konstantinopolis'tir. Ayrıca Atina, Selanik, Korintos yakınlarındaki Thiva da önemli merkezlerdendir. (Ünite 5, Sayfa 4)."
+        },
+        {
+            "id": 78,
+            "question": "Hititler'de Tabarna ve Tavananna kavramlarının karşılığı aşağıdakilerden hangisidir?",
+            "options": [
+                "Hitit prens ve prensesi",
+                "Hitit rahip ve rahibeleri",
+                "Hitit yaya birlikleri ve atlı savaş arabaları birlikleri komutanları",
+                "Hitit büyük kralı ve kraliçesi",
+                "Hitit baş tanrı ve tanrıçası"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 2,
+            "topic": "Hitit Kraliyet Terimleri",
+            "explanation": "Hitit Devleti'nde kraliçenin statüsü ve görevleri zamanla değişmiştir. 'Tavananna' (veya Tawannanna) kavramı, genellikle kraliçe veya kraliçenin annesi tarafından yönetilen, önemli idari ve dini yetkilere sahip bir konumu ifade ederken, 'Tabarna' (veya Tabarna/Tawananna) daha çok kralın eşini veya annesini ifade eden bir terimdir. Metinde doğrudan Tavananna ve Tabarna'nın karşılığı verilmemekle birlikte, Hitit kültürü ve krallık yapısından bahsedilmektedir. Ünite 2'de Hatti Kraliçesi ile ilgili bir bilgi bulunmaktadır, ancak bu kavramların birebir karşılığı net olarak verilmemiştir. Ancak Hitit Kraliçesi (çoğunlukla Tavananna) imparatorluktan sonraki dönemde de etkili olmuştur."
+        },
+        {
+            "id": 79,
+            "question": "Aşağıdakilerden hangisi Hz. İsa'nın bedenini simgeleyen ekmek ve kanını simgeleyen şarabın kutsandığı Hıristiyan litürjisinin ana ayinidir?",
+            "options": [
+                "Ökaristi",
+                "Lektionar",
+                "Krizobul",
+                "Perikop",
+                "Oktateuch"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 5,
+            "topic": "Hıristiyan Ayinleri",
+            "explanation": "Hz. İsa'nın bedenini simgeleyen ekmek ve kanını simgeleyen şarabın kutsandığı Hıristiyan litürjisinin ana ayini 'Ökaristi'dir. (Ünite 5, Sayfa 4)."
+        },
+        {
+            "id": 80,
+            "question": "13. Yüzyılda Selçuklu Anadolu'sunu etkileyen istila hangisidir?",
+            "options": [
+                "Haçlılar",
+                "Bizans",
+                "Moğollar",
+                "Vikingler",
+                "Ruslar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "448677",
+            "UniteNo": 6,
+            "topic": "Anadolu Selçuklu Tarihi",
+            "explanation": "13. yüzyılda Anadolu Selçuklu Devleti'ni vuran ve İlhanlı hakimiyetini başlatan istila, Moğol saldırıları ve istilasıdır (Ünite 6, Sayfa 1). Bu olay, Haçlı Seferleri'nden sonra ikinci büyük darbe olarak nitelendirilmiştir."
+        },
+        {
+            "id": 81,
+            "question": "Sefer sırasında ordunun konakladığı, yabancı hükümdarların ağırlandığı ve gerektiğinde hapishane veya sığınak olarak da kullanılan Selçuklu yapılarına verilen ad aşağıdakilerden hangisidir?",
+            "options": [
+                "Şifahaneler",
+                "Bimarethaneler",
+                "Hanlar",
+                "Kervansaraylar",
+                "Vakıflar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096"
+        },
+        {
+            "id": 82,
+            "question": "Erken Cumhuriyet döneminde, kırsal alana rejimin yeni değerlerini götürmek ve öğretmen eksikliğini gidermek için uygulanan çözüm aşağıdakilerden hangisidir?",
+            "options": [
+                "Köy Enstitüleri",
+                "Halkevleri",
+                "Tevhid-i Tedrisat Kanunu",
+                "Üniversite reformu",
+                "Mahalle Mekteplerinin kapatılması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 8,
+            "topic": "Cumhuriyet Eğitimi ve Köy Enstitüleri",
+            "explanation": "Cumhuriyetin ilk yıllarında, Batılılaşma ve ulus-inşa hedefleri doğrultusunda, özellikle kırsal alanda rejimin yeni değerlerini yaymak ve öğretmen eksikliğini gidermek amacıyla hareket geçilmiştir. 1940 yılında kurulan Köy Enstitüleri, bu amaca hizmet etmek için kurulmuş, tarım, zanaatkârlık, teknik beceriler ile kültür derslerinin eşit ağırlıkta olduğu bir müfredatla yetişmiş öğretmenler yetiştirmeyi hedeflemiştir."
+        },
+        {
+            "id": 83,
+            "question": "VII. ve VIII. yüzyıllardaki Arap akınları ve Batı ile olan ilişkilerin gerginleşmesi sonucunda imparatorluğun doğusunda (Bizans'ta) Hıristiyanlığının tek temsilcisi olarak kalan merkez aşağıdakilerden hangisidir?",
+            "options": [
+                "Kapadokya",
+                "Konstantinopolis",
+                "İskenderiye",
+                "Antakya",
+                "Kudüs"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 5,
+            "topic": "Geç Bizans Dönemi ve Merkezleri",
+            "explanation": "VII. ve VIII. yüzyıllardaki Arap akınları ve dış baskılar sonucu Bizans, Anadolu'daki topraklarının büyük bir kısmını (Suriye, Filistin, Mısır dahil) kaybetmiştir. Bu dönemde Hıristiyanlığın tek temsilcisi olarak kalan ve imparatorluğun yönetim merkezi olan şehir Konstantinopolis'tir (İstanbul). Metinde 7. yüzyılda İslamiyet'in doğuşu ile Mısır, Filistin, Suriye, Güney ve Doğu Anadolu'nun önemli bir bölgesi Müslümanların eline geçtiği belirtilmektedir."
+        },
+        {
+            "id": 84,
+            "question": "Bizans halkının, hukuk ve geleneklerine göre, kendileri için belirledikleri isim ve kültürel anlamda devamı olduğunu kabul ettikleri uygarlık aşağıdakilerden hangisidir?",
+            "options": [
+                "Sasaniler",
+                "Hellenler",
+                "Romalılar",
+                "Balkan halkları",
+                "Germenler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 4,
+            "topic": "Helen Kültürünün Devamlılığı",
+            "explanation": "Hellenistik Dönem sonrası Anadolu'da Roma egemenliği başlamıştır. Roma, fethettiği bölgelerin yerel yönetim kurumlarına (polis) özerklik tanımış, ancak Roma hukuku ve yönetimi esas olmuştur. Ancak Bizans (Doğu Roma) döneminde, özellikle Hellenistik dönemden kalan idari yapılar ve kültürel gelenekler (örneğin Yunan dili ve kültürü) korunmuş ve geliştirilmiştir. Metinde, Bizans'ın Hellen (Grek, Yunan) ve Roma halklarının bıraktığı miras üzerine kültürel evrimini sürdürdüğü belirtilmektedir. Kendi isimleri olarak Hellen (Grek) adını benimseme süreci İonia Ayaklanması sonrasına (MÖ. 6. yy.) dayanmaktadır."
+        },
+        {
+            "id": 85,
+            "question": "Bizans sanatında büyük bir kısmı paten, kalis, röliker veya kitap kapağı gibi dini işlevli eserler veya taç, küpe, bilezik gibi süs eşyaları üzerinde kullanılan kuyumculuk tekniği aşağıdakilerden hangisidir?",
+            "options": [
+                "Eskitme tekniği",
+                "Dövme tekniği",
+                "Ergitme tekniği",
+                "Isıtma tekniği",
+                "Mine tekniği"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 5,
+            "topic": "Bizans Minyatür ve El Sanatları",
+            "explanation": "Bizans sanatında, özellikle dini işlevli eserler (paten, kalis, röliker, kitap kapağı) ve değerli eşyalar üzerinde kullanılan, cam tozunun metal oksitlerle karıştırılıp eserin oyuklarına doldurulması tekniği 'Mine Tekniği' olarak tanımlanır. Metinde bu tekniğin madeni eser üzerine çökertilerek veya oyularak açılan yuvaların içine doldurulup fırınlandığı ve parlak mine dolgusu meydana getirdiği açıklanmaktadır."
+        },
+        {
+            "id": 86,
+            "question": "13. yüzyılda Anadolu'da yaşamış Mevlâna Celâleddin-i Rumî'nin, didaktik dinî-tasavvufi görüşlerini hikayelerle anlattığı ve Farsça otuz binden fazla dizeden oluşan eseri aşağıdakilerden hangisidir?",
+            "options": [
+                "Divan-ı Kebir",
+                "Çarhname",
+                "Halaik",
+                "Mesnevi",
+                "Salsalname"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 6,
+            "topic": "Mevlâna'nın Eseri",
+            "explanation": "Mevlâna Celâleddin-i Rumî'nin (13. yüzyıl) didaktik, dinî-tasavvufi görüşlerini hikayelerle anlattığı ve Farsça otuz binden fazla dizeden oluşan eseri Mesnevî'dir. Metinde \"Mevlânâ Celaleddin-i Rûmî'nin Mesnevisi 1436'da Mesnevî-i Muradiyye adıyla Türkçe'ye tercüme edildi.\" bilgisi verilmektedir."
+        },
+        {
+            "id": 87,
+            "question": "Avcı ve toplayıcı toplumların zamanla göçebeliği terk edip, üretici konumuna gelmeleri ve yıl boyunca iskân edilen ilk sürekli yerleşmeleri kurdukları dönem aşağıdakilerden hangisidir?",
+            "options": [
+                "Paleolitik Dönem",
+                "Mezolitik Dönem",
+                "Epipaleolitik Dönem",
+                "Neolitik Dönem",
+                "Kalkolitik Dönem"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 1,
+            "topic": "Neolitik Devrim",
+            "explanation": "Neolitik Dönem'e geçiş süreci, insanın avcı ve toplayıcı konumdan üretici konuma gelmesi, göçebeliği terk ederek yıl boyunca iskân edilen ilk sürekli yerleşmeleri kurması süreçlerini kapsadığı için 'Neolitik Devrim' olarak adlandırılır. Metinde bu geçiş süreci \"Neolitik Devrim' olarak adlandırılır\" şeklinde açıkça belirtilmiştir."
+        },
+        {
+            "id": 88,
+            "question": "Asurlu tüccarın Anadolu'ya getirdiği ürünlerin başında kalay madeni yer alırken, bu üründen sonra Anadolu'daki halkların talep ettiği ikinci ürün aşağıdakilerden hangisi belirtilmiştir?",
+            "options": [
+                "Tuğla",
+                "Demir",
+                "Kumaş",
+                "Gümüş",
+                "Köle"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 1,
+            "topic": "Asur Ticaret Kolonileri Ürünleri",
+            "explanation": "Orta Tunç Çağı'nda Anadolu'ya Asurlu tüccarlar kalay (tunç yapımı için gerekli) getirmiştir. İkinci önemli ürün olarak ise Babil'in dokuma kumaşları belirtilmiştir. Metinde \"Tüccarların Anadolu'ya getirdiği ürünlerin başında tunç yapımı için olmazsa olmaz kalay madeni yer alıyordu. Tunç, bakır ve kalay alaşımıdır. Babil'in meşhur dokuma kumaşları da satışından kar elde ettikleri ikinci önemli üründü.\" ifadesi yer almaktadır."
+        },
+        {
+            "id": 89,
+            "question": "\"Halk içinde mu'teber bir nesne yok devlet gibi, Olmaya devlet cihânda bir nefes sıhhat gibi\" dizelerini, \"Muhibbi\" mahlasıyla yazmış olan Osmanlı sultanı aşağıdakilerden hangisidir?",
+            "options": [
+                "II. Murad",
+                "Kanuni Sultan Süleyman",
+                "Fatih Sultan Mehmed",
+                "Yavuz Sultan Selim",
+                "Yıldırım Bayezid"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 7,
+            "topic": "Kanuni Sultan Süleyman Eserleri",
+            "explanation": "Verilen beyit, Osmanlı padişahlarından Kanuni Sultan Süleyman'ın mahlası olan 'Muhibbi'ye aittir. Kanuni, klasik dönemde hem devlet yönetimi hem de sanata verdiği önemle tanınır. Beyitteki 'devlet' ile 'sıhhat' (sağlık) karşılaştırması, Kanuni'nin mutlak iktidarı döneminde dahi sağlığın ve huzurun önceliğine vurgu yaptığını göstermektedir."
+        },
+        {
+            "id": 90,
+            "question": "Aşağıdakilerden hangisi, 19. yüzyıl Osmanlı yenileşme hareketinin ortaya çıkardığı ve öncülüğünü Sultan Abdülaziz'in yaptığı sanat dalıdır?",
+            "options": [
+                "Çinicilik",
+                "Tiyatro",
+                "Resim",
+                "Opera",
+                "Heykel"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 7,
+            "topic": "Osmanlı Yenileşme Dönemi Sanatı",
+            "explanation": "Osmanlı yenileşme hareketlerinin başladığı 18. yüzyıl sonları ve özellikle Tanzimat dönemiyle Batı etkisi belirginleşmiştir. Heykel sanatı, bu yenileşme sürecinin bir sonucu olarak ortaya çıkmış ve öncülüğünü Sultan Abdülaziz yapmıştır. Metinde, \"Heykel, 19. yüzyıl Osmanlı yenileşme hareketinin ortaya çıkardığı bir sanat dalıdır. Bu sanat dalına saray ve Sultan Abdülaziz öncülük etmiştir.\" bilgisi yer almaktadır."
+        },
+        {
+            "id": 91,
+            "question": "13. yüzyıldaki iktisadî gelişme ortamı içerisinde Anadolu'da ticarî ve sinai faaliyetlerin gelişmesi ile şehirler çok genişlemiş, hatta bazıları var olan surlarının dışına taşmıştır. Aşağıdakilerden hangisi bu kentlerden birine örnek olarak gösterilebilir?",
+            "options": [
+                "Kayseri",
+                "Bursa",
+                "Amasya",
+                "İstanbul",
+                "İzmir"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096"
+        },
+        {
+            "id": 92,
+            "question": "Renk açısından; \"darçın?”, “sürma?”, “tufeg?\" ve teknik açıdan; \"seraser\" ve \"kemhayi\" terminolojisi, aşağıdaki Osmanlı güzel sanatlarından hangisine ilişkindir?",
+            "options": [
+                "Seramik",
+                "İpek kumaşlar",
+                "Hattat",
+                "Çinicilik",
+                "Resim"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 7,
+            "topic": "Osmanlı ipekli kumaşları",
+            "explanation": "Metinde, 'Osmanlı İpek Kumaşları' başlığı altında, Osmanlı yönetici elitinin kültürü içerisinde ipekli kumaşların önemli yer tuttuğu belirtilmektedir. 'Seraser' ve 'kemhayi' desenli kumaşlar, Bursa ve İstanbul'daki atölyelerde dokunuyordu. 'Darçın' ve 'sürma' gibi renk terimleri, ipekli kumaş desenleri veya renkleri ile ilgili olabilirken, 'tufeg' terimi de bu bağlamda değerlendirilebilir. Bu terimler, Osmanlı'da gelişen ipekli kumaş sanatına ilişkindir."
+        },
+        {
+            "id": 93,
+            "question": "Devletin kültür alanına müdahalesinin gevşediği 1950'li ve 60'lı yıllarda, müzik ve mimariyle birlikte kültürel değişimi en açık biçimde gösteren kurum <u>olarak</u> ortaya çıkan kurum aşağıdakilerden hangisi olmuştur?",
+            "options": [
+                "Tiyatro",
+                "Resim",
+                "Sinema",
+                "Opera",
+                "Heykel"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 8,
+            "topic": "1950-70 kültürel değişim",
+            "explanation": "Metinde, 1950'ler ve 60'larda devletin kültür alanına müdahalesinin gevşediği, Amerikanlaşma ve kırdan kente göçün etkisiyle kültürel gelişmelerin yaşandığı belirtilmektedir. Müzik, sinema ve mimari bu değişimin ana alanlarıdır. Mimarlık alanında, 1950'li yıllardan itibaren Amerikanlaşmanın etkisiyle ortaya çıkan ve uluslararası üslubu simgeleyen yapılara örnek olarak Hilton Oteli ve Belediye Sarayı gösterilmiştir. Sinemada ise Hollywood yapımı filmlerin ön plana çıktığı vurgulanmıştır. Müzikte ise Anadolu pop-rock ve arabesk gibi yeni türlerin ortaya çıktığı ifade edilmiştir. Bu dönemde kültürel değişimi somutlaştıran, Batı tarzı yeni kurumların hızla inşa edildiği mimari (şehir planlaması/yapıları) ve müzik/sinema gibi popüler kültür alanlarındaki değişimler, genel olarak bu dönemin ana temalarıdır."
+        },
+        {
+            "id": 94,
+            "question": "Anadolu'da kültürün mayalanmasında etkili olan ve tekke şiir geleneğini Anadolu'da canlandırarak Türkçe'nin edebi oluşumunda büyük rol oynayan kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Kaşgarlı Mahmut",
+                "Yunus Emre",
+                "Ahi Evran",
+                "Nasreddin Hoca",
+                "Hacı Bektaş-ı Veli"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 5,
+            "topic": "Tasavvufi şairler",
+            "explanation": "Metinde, Anadolu Selçuklu döneminde yetişen ve Mevlâna ile birlikte anılan önemli isimler arasında Yunus Emre'nin de olduğu belirtilmektedir. Yunus Emre'nin, tasavvufi düşünceyi halk diliyle ifade etmesiyle, Anadolu'da tekke şiir geleneğinin canlanmasında ve Türkçe'nin edebi oluşumunda önemli bir rol oynadığı ima edilmektedir (Mevlâna'nın yanında anılması ve bilim/felsefe/sanat alanındaki önemi vurgulanmıştır)."
+        },
+        {
+            "id": 95,
+            "question": "Bizans uygarlığında, İsa, Meryem, Azizler ve Azizlerin yaşamlarının canlandırıldığı, taşınabilir nitelikte ibadet amacı taşıyan dini konulu resimlere ne ad verilmektedir?",
+            "options": [
+                "Rölyef",
+                "Katakomp",
+                "Kronik",
+                "İkona",
+                "Transept"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 4,
+            "topic": "Hellenistik dönem ikonografi",
+            "explanation": "Metinde, Hellenistik Dönem Kültürü başlığı altında, Bizans kültürü ile karıştırılmamasına dikkat edilse de, Bizans'taki 'İkonalar' tanımı sorunun içeriğiyle birebir örtüşmektedir. İkonalar, İsa, Meryem, Azizler ve Azizlerin yaşamlarının canlandırıldığı, taşınabilir nitelikte ibadet amacı taşıyan dini konulu resimlerdir. (Ancak bu terim aslında Bizans dönemine ait olsa da, sorunun içeriği doğrudan bu tanıma işaret etmektedir. Ünite 4'te geçen Hellenistik dönemde heykel ve seramik öne çıkmıştır. Ancak sorunun içeriği (İsa, Meryem, Azizler, taşınabilir, dini konulu resimler) doğrudan Bizans ikonografisini tanımlar. Bu tür dini figürlerin erken örnekleri Hellenistik dönemde de mevcuttur, ancak sorunun tanımladığı 'İkona' terimi ve taşınabilirliği bağlamı 4. ünitede açıkça tanımlanmamıştır. Ancak 5. ünitede bu tanım net olarak mevcuttur: 'İkonalar: İsa, Meryem, Azizler ve Azizlerin yaşamlarının canlandırıldığı, taşınabilir nitelikte ibadet amacı taşıyan dini konulu resimlerdir.' Soru 4'ün bağlamı, 5. ünitedeki Bizans kültürünün tanımına daha yakındır. Sorunun içeriği için en uygun terim İkonalar'dır.)"
+        },
+        {
+            "id": 96,
+            "question": "Selçuklu kültüründe karşımıza çıkan Yabanlu(ğ) terimi, aşağıdaki kültürel ögelerden hangisine ilişkindir?",
+            "options": [
+                "Yollar",
+                "Köprüler",
+                "Kervansaraylar",
+                "Hanlar",
+                "Pazarlar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 6,
+            "topic": "Selçuklu sosyal yapısı",
+            "explanation": "Metinde, Selçuklu Devri'nde toprak ve dinin medeni yapıların iki temel esası olduğu belirtilmiştir. Sultanların toprak siyasetleri önemliydi. Süleyman Şah, toprakları halk kitlelerine dağıtarak, hürriyete, adalete ve toprağa kavuşan halkın Selçuklu yönetimini tercih etmesini sağladı. Bu düzenleme, mülkiyet ve toplumsal ilişkiler bağlamında, 'Yabanlu(ğ)' teriminin, yani mülkiyetin ve işleyişin temelini oluşturan ekonomik ve toplumsal yapıya ilişkin olduğunu gösterir. (Ancak metinde 'Yabanlu(ğ)' terimi doğrudan geçmemektedir. Ancak, bahsi geçen toprak dağıtımı ve vakıf sistemi, sosyal ve ekonomik yapının temelini oluşturur. Sorunun içeriğindeki 'Yabanlu(ğ)' terimi, Selçuklu döneminde kırsal alandaki göçebe/yerleşik halkın durumu veya toprak mülkiyeti ile ilişkilidir, bu da doğrudan 'Din ve Toprak' (vakıf sistemi) ile bağlantılıdır.)"
+        },
+        {
+            "id": 97,
+            "question": "Karayolları, barajlar ve göletler yanında Urartuların en önemli bayındırlık faaliyetlerinden bir diğeri aşağıdakilerden hangisinde belirtilmiştir?",
+            "options": [
+                "Mil taşları",
+                "Hamamlar",
+                "Su kanalları",
+                "Zafer takları",
+                "Hipodromlar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 3,
+            "topic": "Urartu bayındırlık faaliyetleri",
+            "explanation": "Metinde, Urartuların en önemli bayındırlık faaliyetleri arasında karayolları, sulama kanalları ve barajlar sayılmıştır. Sulama kanalları içinde en ünlüsü, Kral Minua tarafından yaptırılan Minua Kanalı'dır. Bu faaliyetler, su yönetimi ve altyapı çalışmalarının önemini vurgular."
+        },
+        {
+            "id": 98,
+            "question": "Aşağıdakilerde hangisi, Erken Cumhuriyet döneminde müzik alanında bir dönüm noktası olarak ortaya çıkmış ve daha sonra Ankara Devlet Konservatuvarına dönüşmüş kurumdur?",
+            "options": [
+                "Musiki Muallim Mektebi",
+                "Darü'l-Elhan",
+                "Darü'l-Bedayi",
+                "Mızıka-i Hümayun",
+                "Riyaseti Cumhur Musiki Heyeti"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 8,
+            "topic": "Cumhuriyet dönemi müzik eğitimi",
+            "explanation": "Metinde, Cumhuriyetin kurulduğu 1923 yılında müzik alanında eğitim veren iki resmi kuruluştan ilkinin Konservatuvar (Darü'l-Elhan) olduğu belirtilmiştir. Daha sonra, Ankara Devlet Konservatuvarına dönüşecek olan kurumun Musiki Muallim Mektebi'nin 1924 yılında açılması, müzik alanında bir dönüm noktası olarak ifade edilmiştir."
+        },
+        {
+            "id": 99,
+            "question": "Özellikle MÖ. 7. ve 6. yüzyıllarda Batı Anadolu'daki kültürlerin birbirleriyle kaynaşmasında kilit rol oynayan <u>temel</u> etmen aşağıdakilerden hangisidir?",
+            "options": [
+                "Kent devletleri",
+                "Tiranlar",
+                "Persli yöneticiler",
+                "Yerel halklar",
+                "Senatus"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 3,
+            "topic": "İyonya kültürel etkileşim",
+            "explanation": "Metinde, MÖ 2. binin ikinci yarısından sonra Ege dünyasında başlayan göçlerle Batı Anadolu'ya gelen İonlar, Aioller ve Dorların yerleştiği belirtilmiştir. Bu dönemde, özellikle Batı Anadolu'da ticaretin gelişmesiyle bu kültürlerin etkileşimi ve kaynaşması hızlanmıştır. Lidyalıların güçlü bir krallık olması ve bölgeye egemen olması, bu kültürel etkileşimlerin Batı Anadolu'da kaynaşmasında ve kültürel birliğin doğuşunda kilit rol oynamıştır."
+        },
+        {
+            "id": 100,
+            "question": "Ankara dışında, Erken Cumhuriyet dönemindeki büyük ölçekli kentlerin modernizasyonuna örnek olabilecek diğer kent olarak aşağıdakilerden hangisi gösterilebilir?",
+            "options": [
+                "Bursa",
+                "Trabzon",
+                "İstanbul",
+                "Adana",
+                "İzmir"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571096",
+            "UniteNo": 8,
+            "topic": "Erken Cumhuriyet kentleşmesi",
+            "explanation": "Metinde, Ankara'nın 1923'te başkent seçilerek modern bir kent olarak kurulması ve geliştirilmesinin Cumhuriyet rejiminin başlıca amaçlarından biri olduğu belirtilmiştir. Ankara dışında kent planlaması ve mimarî alanında Avrupalı mimarlar davet edilmiştir. Bu bağlamda, mimari anlatımın Batılı ve modern bir ulus yaratma aracı olarak kullanıldığı ve bu amaçla kentlerin imar yasalarının çıkarıldığı ifade edilmiştir. Ankara dışındaki diğer bir büyük kentleşme ve modernleşme örneği olarak, metin içerisinde belirli bir kent adı direkt olarak bu bağlamda (Ankara ile eşdeğer) verilmemiştir; ancak Erken Cumhuriyet döneminde kentlerin imarı ve planlamasına önem verildiği vurgulanmıştır. (Ankara ile birlikte anılan diğer şehirler genellikle kültürel etkinlik merkezleri veya farklı dönemlere ait örneklerdir. Verilen metin parçalarında Ankara'dan sonra doğrudan 'modernleşme' bağlamında bir başka kent adı verilmemiştir, bu nedenle sorunun kesin bir cevabını metinden çıkarmak zordur. Ancak genellikle İstanbul, yeni başkent seçilmese de kültürel ve ekonomik merkez olarak öne çıkmıştır. Fakat metin sadece Ankara'nın modernleşmesine odaklanmıştır. Bu durumda en yakın ilikili olabilecek yerler; kültürel değişimlerin ve mimari yeniliklerin yoğun yaşandığı eski başkent İstanbul veya sanayi merkezi olan İzmir olabilir, ancak metin kesin bir eşleşme sunmamaktadır. Sorunun cevabının metinde açıkça belirtilmediği varsayılırsa en mantıklı şık, kültürel ve siyasi olarak en önemli ikinci şehir olan İstanbul'dur, zira yeni mimari akımından bahsedilmiştir.)"
+        },
+        {
+            "id": 101,
+            "question": "313 yılında Roma İmparatorluğu'nda Hıristiyanlığın devlet tarafından serbest bir din olarak tanınmasını ve zamanla Hıristiyanlığın devlet içerisinde yayılmasını sağlayan olay aşağıdakilerden hangisidir?",
+            "options": [
+                "Roma Fermanı'nın ilan edilmesi",
+                "Milano Fermanı'nın ilan edilmesi",
+                "İmparatorluğun doğusunda yeni başkent olarak Constantinapolis'in kurulması",
+                "Nicaea (İznik) Konsili'nin toplanması",
+                "Milvius Köprüsü Savaşı'nda Constantinus'un pagan Licinius'u yenmesi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592"
+        },
+        {
+            "id": 102,
+            "question": "\"Halk içinde mu'teber bir nesne yok devlet gibi, Olmaya devlet cihânda bir nefes sıhhat gibi\" dizelerini, \"Muhibbi\" mahlasıyla yazmış olan Osmanlı sultanı aşağıdakilerden hangisidir?",
+            "options": [
+                "Kanuni Sultan Süleyman",
+                "Fatih Sultan Mehmed",
+                "Yavuz Sultan Selim",
+                "Yıldırım Bayezid",
+                "II. Murad"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 7,
+            "topic": "Osmanlı Edebiyatı ve Şairler",
+            "explanation": "Verilen dizeler, Kanuni Sultan Süleyman'ın (Muhibbi mahlasıyla) söylediği bir beytin anlamını yansıtmaktadır. Kanuni Sultan Süleyman, klasik dönem Osmanlı edebiyatının önde gelen şairlerindendir ve döneminin ihtişamına uygun eserler vermiştir. Klasik Dönem Osmanlı Kültürü başlığı altında, Necâti, Fuzûlî, Bâkî, Hayalî gibi şairlerin öne çıktığı belirtilmektedir, ancak bu beytin Muhibbi'ye ait olduğu bilgisi (genel kültür bilgisi/kastedilen içerik) dikkate alındığında, Kanuni döneminin zirve dönemi olduğu hatırlanır."
+        },
+        {
+            "id": 103,
+            "question": "Orta Bizans Dönemi tekstilinde Sasani Pers üslubu olarak adlandırılmış kumaşlar da kullanılmıştır. Bu kumaşlarda genellikle madalyonlar içerisinde aslan, kartal, fil, sfenks ve grifon gibi hayali yaratıkların tasvirleri görülmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Gamayun",
+                "Dragon",
+                "Satir",
+                "Yılan",
+                "Grifon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 7,
+            "topic": "Osmanlı Tekstil Sanatı",
+            "explanation": "Metne göre, Orta Bizans Dönemi tekstilinde Sasani Pers üslubu olarak adlandırılan kumaşlarda madalyonlar içinde aslan, kartal, fil, grifon gibi yaratıkların tasvirleri görülür. Parantez içinde aslan, kartal ve fil zaten verilmiştir. Eksik olan yaratıklar arasında sfenks ve grifon bulunmaktadır. Şıklarda verilenlerden sfenks ve grifon bu tasvirlerin bir parçasıdır."
+        },
+        {
+            "id": 104,
+            "question": "Renk açısından; “darçınî”, “sürmaî”, “tufeg?” ve \"binevş\" ve teknik açıdan; \"seraser” ve \"kemhayr\" terminolojisi, aşağıdaki Osmanlı güzel sanatlarından hangisine ilişkindir?",
+            "options": [
+                "Resim",
+                "Hattat",
+                "İpek kumaşlar",
+                "Seramik",
+                "Çinicilik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 7,
+            "topic": "Osmanlı İpek Kumaşları",
+            "explanation": "Metinde, Osmanlı İpek Kumaşları başlığı altında, 'seraser' ve 'kemhayr' terimlerinin tekniklere işaret ettiği belirtilmektedir. Ayrıca renkler için 'dârcınî', 'sürmaî', 'tufegî' ve 'binevş' gibi terimlerin kullanıldığına dair bilgi, genel Osmanlı kültürü (veya tekstil kültürü) bağlamında değerlendirilebilir. Bu terimler, Osmanlı ipekli kumaşlarının çeşitli çeşitlerini ve renklerini tanımlamak için kullanılır."
+        },
+        {
+            "id": 105,
+            "question": "Kendi emperyal politikalarının bir sonucu olarak Romalıların, Anadolu'da oluşturdukları <i>Via Sebaste</i> ile anlatılmak istenen uygulama aşağıdakilerin hangisinde gösterilmiştir?",
+            "options": [
+                "Su kemerleri",
+                "İmparatorluk Kültü tapınakları",
+                "Yol sistemi",
+                "İdari yapılanma",
+                "Ordu reformu"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 4,
+            "topic": "Roma İmparatorluğu Yolları",
+            "explanation": "Roma döneminde, korsan tehlikesinin ortadan kalkmasının ardından deniz yolları ve yol inşaatlarının hızlandığı belirtilmiştir. Roma'nın Anadolu'da kurduğu yollar, özellikle 'Via Sebaste', Roma'nın Anadolu'ya entegrasyonunu, ticaret yollarını güvence altına almayı ve askeri hareketliliği kolaylaştırmayı amaçlayan emperyal politikalarının bir sonucudur. Bu durum, kentlerin ekonomik ve ticari gelişimini desteklemiştir."
+        },
+        {
+            "id": 106,
+            "question": "Osmanlı tarihçisi Halil İnalcık'ın, \"sarayın en göze çarpan yeri, Dârul-'Adl denilen Adalet Kulesi ve Cihânnümâ'dır\" diye belirttiği, mutlak iktidarın merkezi durumundaki Fatih Sultan Mehmed dönemi yapısı aşağıdakilerden hangisidir?",
+            "options": [
+                "Büyük Saray",
+                "Selimiye Külliyesi",
+                "Dolmabahçe Sarayı",
+                "Topkapı Sarayı",
+                "Nur-u Osmaniye Külliyesi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 7,
+            "topic": "Fatih Dönemi Mimarisi",
+            "explanation": "Metinde, Fatih Sultan Mehmed döneminin mimarideki en önemli katkılarından birinin, sultan camilerinin inşası ve imâret (külliye) tasarımı olduğu belirtilmiştir. Ayrıca Topkapı Sarayı'nın bu anlayışın sembolü olduğu ifade edilmektedir. Dârul-'Adl (Adalet Kulesi) ve Cihânnümâ da Fatih'in mimari faaliyetleri bağlamında önemli yapılardır."
+        },
+        {
+            "id": 107,
+            "question": "Avrupa'dan gelerek Anadolu'yu yurt edinen ve başkentleri Gordion etrafında MÖ. 9. yüzyıl ve 7. yüzyıl arasında Orta Anadolu'da etkin olan uygarlık aşağıdakilerden hangisidir?",
+            "options": [
+                "Urartular",
+                "Thraklar",
+                "Lidyalılar",
+                "Frigler",
+                "Hititler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 3,
+            "topic": "Frig Krallığı",
+            "explanation": "Metinde, Friglerin Güneydoğu Avrupa'dan gelerek Anadolu'yu yurt edindiği, başkentleri Gordion etrafında MÖ. 9.-7. yüzyıllar arasında Orta Anadolu'da etkin olduğu ve Eşek Kulaklı Midas ile ünlü olduğu bilgisi verilmektedir. Bu tanımlama Frig Krallığı'na aittir."
+        },
+        {
+            "id": 108,
+            "question": "Aşağıdakilerde hangisi, Erken Cumhuriyet döneminde müzik alanında bir dönüm noktası olarak ortaya çıkmış ve daha sonra Ankara Devlet Konservatuvarına dönüşmüş kurumdur?",
+            "options": [
+                "Mızıka-i Hümayun",
+                "Riyaseti Cumhur Musiki Heyeti",
+                "Musiki Muallim Mektebi",
+                "Darü'l-Bedayi",
+                "Darü'l-Elhan"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 8,
+            "topic": "Cumhuriyet Dönemi Müziği",
+            "explanation": "Metne göre, Cumhuriyetin kurulduğu 1923 yılında sahne sanatlarıyla birlikte müzik alanında eğitim veren ilk resmi kuruluş Konservatuvar (Darü'l-Elhan) idi. Bu kurumun daha sonra Ankara Devlet Konservatuvarına dönüşecek olan Musiki Muallim Mektebi'nin 1924'te açılmasıyla bir dönüm noktası yaşadığı belirtilmektedir."
+        },
+        {
+            "id": 109,
+            "question": "Dairesel kent suru ve şehir planı ile dikkati çeken Geç Hitit Krallığı aşağıdakilerden hangisidir?",
+            "options": [
+                "Kargamış",
+                "Melid",
+                "Sam'al",
+                "Gurgum",
+                "Tabal"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 3,
+            "topic": "Geç Hitit Krallıkları",
+            "explanation": "Metinde, Geç Hitit Krallıklarından Sam'al'ın (Gaziantep-Zincirli Höyük) en ilham verici özelliğinin, ana kaleyi çevreleyen, pergelle çizilmiş kadar düzgün bir daire olan şehir suru ve planı olduğu belirtilmiştir. Bu dairesel planın, ilerideki İslam kentlerine örnek teşkil ettiği de eklenmiştir."
+        },
+        {
+            "id": 110,
+            "question": "Erken Cumhuriyet döneminde, kırsal alana rejimin yeni değerlerini götürmek ve öğretmen eksikliğini gidermek için uygulanan aşağıdakilerden hangisidir?",
+            "options": [
+                "Tevhid-i Tedrisat Kanunu",
+                "Köy Enstitüleri",
+                "Halkevleri",
+                "Mahalle Mekteplerinin kapatılması",
+                "Üniversite reformu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 8,
+            "topic": "Köy Enstitüleri",
+            "explanation": "Metinde, İkinci Dünya Savaşı sonrasında Kırsal alanda rejimin yeni değerlerini yaymak ve öğretmen eksikliğini gidermek için 1940 yılında Köy Enstitüleri kurulduğu belirtilmektedir. Bu kurumların müfredatında kültür dersleriyle birlikte tarım ve zanaatkârlık gibi pratik becerilere de ağırlık verildiği vurgulanmıştır."
+        },
+        {
+            "id": 111,
+            "question": "Batı Anadolu'dan zengin buluntular sağlaması ve ilk kent örneği olması gibi çeşitli nedenlerden dolayı, Anadolu arkeolojisinde çok önemli bir yer tutan, Homeros'un İliada Destanı'na konu olmuş yerleşim aşağıdakilerden hangisidir?",
+            "options": [
+                "Atina",
+                "Knossos",
+                "Ephesus",
+                "Troia",
+                "Miletus"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592"
+        },
+        {
+            "id": 112,
+            "question": "Selçukluların Anadolu'daki fetihlerinde \"ekonomi politik\" belirleyici bir etmen olmuştur. Aşağıdakilerden hangisi bu süreçte Selçukluların başarısında rol oynamış unsurlardan birini göstermektedir?",
+            "options": [
+                "Yollar",
+                "Büyük çiftlikler",
+                "Hamamlar",
+                "Macellum'lar",
+                "Seküler devlet yapısı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 6,
+            "topic": "Selçuklu Ekonomi Politikası",
+            "explanation": "Sayfa 2'de Selçukluların Anadolu'da Türkleşmeyi başarmasında iktisadi sebeplerin rol oynadığı belirtilmektedir. Selçukluların Anadolu'ya geldiklerinde toprakları vakıflar aracılığıyla halka dağıtması ve serbest ticaretin teşvik edilmesi, bölgeye yerleşen halkın memnuniyetini artırmış ve böylece siyasi ve sosyal yapının da olumlu yönde gelişmesine zemin hazırlamıştır. Bu durum, Selçuklu devlet yapısının temelini güçlendirmiştir."
+        },
+        {
+            "id": 113,
+            "question": "Neolitik mimari yapısının Anadolu'daki bütün gelişim aşamalarını en iyi şekilde gösteren yerleşim aşağıdakilerden hangisidir?",
+            "options": [
+                "Çayönü",
+                "Troia",
+                "Çatalhöyük",
+                "Erbid",
+                "Ephesus"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 1,
+            "topic": "Neolitik Mimari Yerleşim",
+            "explanation": "Sayfa 2'de Neolitik Dönem'de mimari ve ilk yerleşim birimlerinden bahsedilirken, Çayönü, Hallan Çemi, Güsir Höyük ve Hasankeyf Höyük gibi yerleşimlerde yuvarlak planlı yapı tipinden dörtgen temelli, düz damlı yapılara geçişin görüldüğü belirtilmektedir. Ancak, 1990'ların ortalarından itibaren kazılan Göbekli Tepe, anıtsal tapınak yapıları ile Orta Anadolu Neolitik toplumlarının çok ötesinde organize ve gelişmiş bir toplum yapısını yansıttığını belirterek bu dönemin en erken ve en önemli buluntu yerlerinden birini temsil eder."
+        },
+        {
+            "id": 114,
+            "question": "Aşağıdakilerden hangisi, mermer, fildişi, metal, mine, seramik ve mozaik gibi malzemelerden üretilmiş, taşınabilir nitelikte ibadet amacı taşıyan dini konulu resimler olan ikonaların konuları arasında yer <u>almamaktadır</u>?",
+            "options": [
+                "İsa ve Meryem",
+                "Azizler",
+                "Meryem'in hayatı",
+                "Halktan öyküler",
+                "Azizlerin hayatı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 7,
+            "topic": "Osmanlı Dini Sanatları",
+            "explanation": "İkonalar, dini konulu, taşınabilir ibadet resimleridir ve İsa, Meryem, Azizler ve Azizlerin yaşamlarını canlandırırlar (Sayfa 2). Seramikler ise halkın ekonomik çizgisine göre şekillenmiş, depo ve mutfak gereçleri olarak kullanılan kaplardır (Sayfa 2). Dolayısıyla, seramik üretimi ikonaların konusu arasında yer almaz."
+        },
+        {
+            "id": 115,
+            "question": "Aşağıdakilerden hangisi, Selçuklu dönemi hanlarında hizmet eden görevliler arasında yer <u>almamaktadır</u>?",
+            "options": [
+                "Memurlar",
+                "Katipler",
+                "Baytar",
+                "İmam",
+                "Müderris"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 6,
+            "topic": "Selçuklu Kervansaray Hizmetlileri",
+            "explanation": "Selçuklu döneminde kervansaraylar ticaretin önemli bir ayağıydı ve bu yapılarda tüccarların konaklama ve ticaret yapma imkanları sağlanırdı. Sayfa 2'de geçen kervansaraylar, genellikle hanlar ve pazarlar ile birlikte anılır. Hanlarda kalanlara hizmet eden görevliler arasında kervancı ve bekçi bulunurken, hanın kendisinin bir tüccar ya da yönetici (İlhanlı kontrolünde olmasına rağmen) olması beklenir, ancak 'kervancıbaşı' gibi belirli bir unvanlı görevli bilgisi metinde geçmemektedir. Metinde geçen temel unsurlar yollar, kervansaraylar-hanlar, pazarlar ve köprülerdir. Hanlarda kalan tüccarlara hizmet eden görevlilerin spesifik olarak 'kervancıbaşı' olduğu bilgisi metinlerde yer almamaktadır."
+        },
+        {
+            "id": 116,
+            "question": "Asurlu tüccarın Anadolu'da kurmuş olduğu ve ticari merkez olarak düşünebileceğimiz bütün karum'ların merkezi, bugün hangi ilimizin sınırları içerisinde kalmaktadır?",
+            "options": [
+                "Aksaray",
+                "Kayseri",
+                "Nevşehir",
+                "Malatya",
+                "Kahramanmaraş"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 2,
+            "topic": "Asur Ticaret Kolonileri",
+            "explanation": "Sayfa 1'de Orta Tunç Çağı'nda Asur Kolonileri Dönemi'nden bahsedilirken, Asur şehrinin bugünkü Musul yakınlarında olduğu belirtilmiştir. Bu şehirde kurulan karumlar (tüccar merkezleri) aracılığıyla ticaret yapılırdı. Musul, günümüzde Irak'ın sınırları içerisinde yer almaktadır."
+        },
+        {
+            "id": 117,
+            "question": "Sefer sırasında ordunun konakladığı, yabancı hükümdarların ağırlandığı ve gerektiğinde hapishane veya sığınak olarak da kullanılan Selçuklu yapılarına verilen ad aşağıdakilerden hangisidir?",
+            "options": [
+                "Hanlar",
+                "Vakıflar",
+                "Bimarethaneler",
+                "Şifahaneler",
+                "Kervansaraylar"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 6,
+            "topic": "Selçuklu Kervansarayları",
+            "explanation": "Sayfa 2'de kervansarayların iktisadi vazifeleri dışında, hudutlara yakın yerlerde askeri vazifeler de gördüğüne ve İbn Bîbî'nin eserinde bu yapıların askeri seferler bağlamında geçtiğine değinilmektedir. Bu yapılar hem konaklama hem de savunma/askeri amaçlar için kullanılmıştır."
+        },
+        {
+            "id": 118,
+            "question": "Roma'nın ilk imparatoru Octavianus'un, icraatlarını halka anlattığı ve bir çeşit \"ulusa sesleniş\" konuşması gibi düşünebileceğimiz \"Res Gestae Divi Augusti'nin günümüze kadar sağlam gelmiş en iyilerinden bir tanesi ülkemizde hangi ilde ele geçirilmiştir?",
+            "options": [
+                "Antakya",
+                "İzmir",
+                "Kayseri",
+                "İstanbul",
+                "Ankara"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 4,
+            "topic": "Augustus'un Yazıtı",
+            "explanation": "Sayfa 3'te Roma İmparatoru Octavianus'un (Augustus) eylemlerini anlatan 'Res Gestae Divi Augusti' adlı eserin varlığından bahsedilmektedir. Bu eserin en iyi örneği olarak, yazıtın bir kısmı MS 102 yılından sonraki dönemde Anadolu'da, Kapadokya Eyaleti'nde (Provincia Cappadocia) ele geçirilmiştir. Kapadokya Eyaleti'nin merkezi Kayseri civarında bulunmaktaydı."
+        },
+        {
+            "id": 119,
+            "question": "Bedri Rahmi Eyüboğlu, Cemal Tollu, Sabri Berkel, Zeki Kocamemi, Ali Çelebi, Nurullah Berk ve Zeki Faik gibi isimlerden söz eden bir makale erken Cumhuriyet Dönemi'ndeki hangi sanat alanına ilişkindir?",
+            "options": [
+                "Resim",
+                "Klasik müzik",
+                "Opera",
+                "Heykel",
+                "Tiyatro"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 8,
+            "topic": "Erken Cumhuriyet Sanatı",
+            "explanation": "Sayfa 2'de, Bedri Rahmi Eyüboğlu, Cemal Tollu, Sabri Berkel, Zeki Kocamemi, Ali Çelebi, Nurullah Berk ve Zeki Faik gibi isimler, 1930'larda Ankara'da kurulan Güzel Sanatlar Akademisi'nin mimarlık, şehircilik, resim ve heykel gibi dallarda Batı tarzında sistemi öğretmek amacıyla kurulan Sanayi-i Nefise Mektebi'nin (sonradan Güzel Sanatlar Akademisi) öğretim kadrosundan bahsedilirken, bu isimler özellikle Resim-Heykel alanındaki gelişmeleri temsil ederler."
+        },
+        {
+            "id": 120,
+            "question": "Hemen hemen her kalede kendisi için yapılmış bir tapınağın olduğu ve Urartu devletinin baş tanrısı olarak kabul edilen tanrı aşağıdakilerden hangisidir?",
+            "options": [
+                "Teşup",
+                "Haldi",
+                "Zeus",
+                "Iuppiter",
+                "Hades"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622592",
+            "UniteNo": 3,
+            "topic": "Urartu Baş Tanrısı",
+            "explanation": "Sayfa 1'de Urartu kültürü anlatılırken, Urartuların çok tanrılı bir dine inandığı ve fethettikleri halkların tanrılarını da panteona kattıkları belirtilir. Urartu devletinin baş tanrısı, Meherkapı Nişi'ndeki yazıtta belirtildiği üzere Haldi'dir ve Urartu kalelerinde mutlaka bir Haldi tapınağı bulunurdu."
+        },
+        {
+            "id": 121,
+            "question": "Orta Bizans Dönemi tekstilinde Sasani Pers üslubu olarak adlandırılmış kumaşlar da kullanmıştır. Bu kumaşlarda genellikle madalyonlar içerisinde aslan, kartal, fil, sfenks ve gibi hayali yaratıkların tasvirleri görülmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Gamayun",
+                "Dragon",
+                "Satir",
+                "Yılan",
+                "Grifon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606"
+        },
+        {
+            "id": 122,
+            "question": "Aşağıdakilerden hangisi Hz. İsa'nın bedenini simgeleyen ekmeğin ve kanını simgeleyen şarabın kutsandığı Hıristiyan litürjisinin ana ayinidir?",
+            "options": [
+                "Krizobul",
+                "Ökaristi",
+                "Perikop",
+                "Oktateuch",
+                "Lektionar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606"
+        },
+        {
+            "id": 123,
+            "question": "Batı musikisinin icralarını durdurarak eski saray eğlencelerini tekrar canlandıran; ortaoyunu, tulûat gibi geleneksel gösteri sanatlarına önem veren Osmanlı padişahı aşağıdakilerden hangisidir?",
+            "options": [
+                "Abdülaziz",
+                "Abdülmecid",
+                "II. Abdülhamid",
+                "II. Mahmud",
+                "III. Selim"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606"
+        },
+        {
+            "id": 124,
+            "question": "Büyük İskender'in MÖ. 334 yılında doğu seferine çıkmasıyla başlayıp, Cleopatra'nın MÖ. 30 yılındaki ölümüne kadar süren ve Doğu ve batı uygarlıklarının her anlamda birbiriyle etkileşim içine girdiği döneme ne ad verilmektedir?",
+            "options": [
+                "Hellen Dönem",
+                "Krallık Dönemi",
+                "İmparatorluk Dönemi",
+                "Cumhuriyet Dönemi",
+                "Hellenistik Dönem"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606"
+        },
+        {
+            "id": 125,
+            "question": "Aşağıdakilerden hangisi mimari biçim olarak, güç, ciddiyet ve devlet otoritesini simgeleyen yapılardan biridir?",
+            "options": [
+                "TBMM Binası",
+                "Çankaya Cumhurbaşkanlığı Köşkü",
+                "Ankara Yüksek Ziraat Enstitüsü",
+                "Merkez Bankası Binası",
+                "Musiki Muallim Mektebi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606"
+        },
+        {
+            "id": 126,
+            "question": "Demirden yapılmış en eski alet olarak kabul edilen kama hangi yerleşmede ve hangi dönemde bulunmuştur?",
+            "options": [
+                "Kanlıtaş- Erken Kalkolitik dönem",
+                "Demircihöyük- İlk Tunç Çağı II",
+                "ArslantepGeç Kalkolitik dönem",
+                "Alacahöyük- İlk Tunç Çağı III",
+                "Frigya - Demir Çağı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606"
+        },
+        {
+            "id": 127,
+            "question": "Sultan I. Alaü'd-Din Keykubad'ın, 1220 tarihli ticari Müsaadename'yi kimlere vermiştir?",
+            "options": [
+                "Cenevizliler",
+                "Vikingler",
+                "Pisalılar",
+                "Venedikliler",
+                "Latinler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606"
+        },
+        {
+            "id": 128,
+            "question": "Anadolu'da Demir Çağında Friglerle birlikte görülen, Kubaba/Kibele ana tanrıça inancının da temelini oluşturduğu düşünülen, kadınlık uzuvları vurgulanmış şişman kadın heykelciklerinin yansıttığı inanç sistemi aşağıdaki yerleşmelerden hangisinde karşımıza çıkmaktadır?",
+            "options": [
+                "Göbekli Tepe",
+                "Orman Fidanlığı",
+                "Çatal Höyük",
+                "Çayönü",
+                "Nevali Çori"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606"
+        },
+        {
+            "id": 129,
+            "question": "İlk kez Romalılarla birlikte karşımıza çıkan ve kentlerin ekonomik, ticari ve hukuki işlerinin yürütüldüğü, Hıristiyanlık sonrasında kiliseye dönüştürülen yapı aşağıdakilerden hangisidir?",
+            "options": [
+                "Curcus Publicus",
+                "Nymphaion",
+                "Bazilika",
+                "Gymnasium",
+                "Frigidarium"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606"
+        },
+        {
+            "id": 130,
+            "question": "Hitit Dönemi'nde mühürlerde ve kaya anıtlarında kullanılan hiyeroglif yazı hangi halka aittir?",
+            "options": [
+                "Hurri",
+                "Luwi",
+                "Hitit",
+                "Mısır",
+                "Asur"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606"
+        },
+        {
+            "id": 131,
+            "question": "Kayseri Fraktin Anıtı'nda tasvirleri yer alan kral ve kraliçe aşağıdakilerden hangisidir?",
+            "options": [
+                "Tudhaliya-Nikalmati",
+                "Arnuwanda-Aşmunikal",
+                "Hattuşili-Puduhepa",
+                "II. Murşili-Gasuliwiya",
+                "Şuppiluliuma-Babilli Tavananna"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606"
+        },
+        {
+            "id": 132,
+            "question": "Lydia kralları ve kraliyet ailesinin mensuplarının gömüldükleri tümülüslerin günümüzdeki adı aşağıdakilerden hangisidir?",
+            "options": [
+                "Bin Tepe Mezarlığı",
+                "Büyük Kral Mezarlığı",
+                "Sakarya Mezar Anıtları",
+                "Kocatepe",
+                "Kartepe"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606",
+            "UniteNo": 3,
+            "topic": "Lidya Kral Mezarları",
+            "explanation": "Lidya kralları ve kraliyet ailesi mensupları, Sardeis'in kuzeyinde, Gygae Gölü'nün güneyinde bulunan Bin Tepe Mezarlığı'ndaki tümülüs mezarlara gömülmüşlerdir. Günümüzde bu mezarlıklar 'Bin Tepe' olarak bilinir ve Lidya kral mezarları yakınında başka Artemis Tapınakları da bulunmaktadır."
+        },
+        {
+            "id": 133,
+            "question": "Historiae (Tarihler) adlı siyasi, askeri ve kültür tarihi içerikli eserinde Anadolu hakkında da ayrıntılı bilgiler veren ve \"Tarihin Babası\" unvanıyla nitelendirilen MÖ. 1. yüzyılın önemli tarihçisi aşağıdakilerden hangisidir?",
+            "options": [
+                "Hekatalos",
+                "Homeros",
+                "Herodotos",
+                "Hesiodos",
+                "Cicero"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606",
+            "UniteNo": 7,
+            "topic": "Antik Tarihçi",
+            "explanation": "MÖ. 1. yüzyılda yaşamış olan ve 'Tarihin Babası' olarak nitelendirilen önemli tarihçi Herodotos'tur. Eseri 'Historiae'de (Tarihler), Anadolu'daki birçok olay ve kültür hakkında ayrıntılı bilgiler vermiştir. (Metinde doğrudan Herodotos ismi geçmese de, Roma Dönemi öncesi Anadolu tarihini veren temel kaynak olduğu belirtilmektedir.)"
+        },
+        {
+            "id": 134,
+            "question": "Aşağıdaki saraylardan hangisi Tanzimat döneminde inşa edilmiştir?",
+            "options": [
+                "Çırağan Sarayı",
+                "Eski Saray",
+                "İshak Paşa Sarayı",
+                "Topkapı Sarayı",
+                "Dolmabahçe Sarayı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606",
+            "UniteNo": 7,
+            "topic": "Osmanlı Mimarisi Dönemleri",
+            "explanation": "Tanzimat dönemi, Batılılaşma ve yenileşmenin hızlandığı dönemdir. Dolmabahçe Sarayı, 19. yüzyılda inşa edilen ve Batılılaşmanın mimarideki yansımasını gösteren önemli bir yapıdır. Diğer şıklardaki yapılar (Topkapı Sarayı, Süleymaniye Külliyesi, Selimiye Kışlası) önceki dönemlere aittir."
+        },
+        {
+            "id": 135,
+            "question": "Aşağıdakilerden hangisi Ankara'nın erken Cumhuriyet dönemindeki imarında iz bırakan mimarlardan biri <u>değildir</u>?",
+            "options": [
+                "Heinrich Krippel",
+                "Theodor Post",
+                "Ernst Egli",
+                "Clemens Holzmeister",
+                "Herman Jansen"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606",
+            "UniteNo": 8,
+            "topic": "Erken Cumhuriyet Mimarları",
+            "explanation": "Ankara'nın imarında Alman ve Avusturyalı mimarlar (Theodor Post, Ernst Egli, Clemens Holzmeister, Herman Jansen) etkili olmuştur. Mimar Vedat Tek ise, 1930'ların modernist yaklaşımıyla öne çıkan, ancak bu dönemde Ankara'nın ilk imarında doğrudan yer almayan, daha sonraki dönemlerde de etkin olan önemli bir Türk mimardır. Ancak verilen metne göre, erken Cumhuriyet mimarisine etki eden Avrupalılar arasında adı geçmeyen Vedat Tek, bu bağlamda diğerlerinden ayrılır."
+        },
+        {
+            "id": 136,
+            "question": "Selçuklu devrinde esnaf teşkilatı mensuplarına ne ad verilirdi?",
+            "options": [
+                "Fütüvvet",
+                "Bitikçi",
+                "Sipahi",
+                "Ahi",
+                "Bezzaz"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606",
+            "UniteNo": 6,
+            "topic": "Ahilik Teşkilatı",
+            "explanation": "Selçuklu devrinde ticaret erbabı ve esnaf Ahilik teşkilatı çevresinde örgütlenmişti. Bu teşkilatın mensuplarına 'Ahi' denirdi. Ahilikte meslek hiyerarşisi usta, kalfa, yamak/çırak şeklinde idi ve üyeler dinî/tasavvufi esaslara göre eğitim alırlardı."
+        },
+        {
+            "id": 137,
+            "question": "Paris elçiliği görevinde bulunan, 1721 yılında ülkeye dönüşünde gözlemlerini Paris Sefaretnamesi adlı eserinde Osmanlı yönetici elit ve aydınlarına aktaran devlet adamı aşağıdakilerden hangisidir?",
+            "options": [
+                "Vasıf Efendi",
+                "Halet Efendi",
+                "Yirmisekiz Çelebi Mehmed Efendi",
+                "Ahmet Resmi Efendi",
+                "Ebubekir Ratib Efendi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606",
+            "UniteNo": 7,
+            "topic": "Yirmidört Sekizinci Yüzyıl Elçisi",
+            "explanation": "Paris elçiliği görevinde bulunan ve gözlemlerini 'Paris Sefaretnamesi' adlı eserde toplayan devlet adamı Yirmidört Sekizinci Yüzyıl döneminde yaşamış olan Yusuf Agâh Efendi'dir."
+        },
+        {
+            "id": 138,
+            "question": "Aşağıdakilerden hangisi 395-540 yılları arasına tarihlenen fildişi eserler arasında en önemli grubu oluşturan, birbirine menteşe ile bağlı iki levhadan oluşan panellere verilen isimdir?",
+            "options": [
+                "Kalis",
+                "Paten",
+                "Triptikon",
+                "Röliker",
+                "Diptikon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606",
+            "UniteNo": 5,
+            "topic": "Bizans Fildişi Eserleri",
+            "explanation": "395-540 yılları arasına tarihlenen ve genellikle çift levhadan oluşan, menteşelerle birbirine bağlı panellere verilen isim 'Diptych'tir (Diptik). Bu eserler Bizans'ta fildişi sanatının en önemli grubunu oluşturur."
+        },
+        {
+            "id": 139,
+            "question": "Aşağıdakilerden hangisi Metin And'a göre, Batı'dan alınan yeni tiyatro anlayışının benimsenmesi ve yerleşmesinde etken rol oynayan nedenlerden biri <u>değildir</u>?",
+            "options": [
+                "Azınlıklar",
+                "Taşrada yaşayan halk",
+                "İlk Türkçe oyunlar",
+                "Yüksek devlet görevlileri",
+                "Yabancı topluluklar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606",
+            "UniteNo": 8,
+            "topic": "Batılı Tiyatro Nedenleri",
+            "explanation": "Metin, Batı tiyatrosunun benimsenmesinde yerli geleneklerin (Halk Tiyatrosu, Ortaoyunu) ve kültürel etkileşimlerin rolünden bahseder. Ancak, 'Batılılaşma' odaklı bir dönüşümün temelinde, devletin önayak olduğu yenilikler ve modernleşme arayışı yatar. Metinde, 'Köyden kente göç olgusu'nun tiyatro üzerindeki etkisinden bahsedilse de, bunun doğrudan Batı tiyatrosunun benimsenmesinde rol oynayan nedenlerden biri olarak değil, genel kültürel değişimin bir sonucu olarak verilmesi daha uygundur."
+        },
+        {
+            "id": 140,
+            "question": "Lidya Krallığı'na son veren toplum aşağıdakilerden hangisidir?",
+            "options": [
+                "Mısırlılar",
+                "Persler",
+                "Kimmerler",
+                "Babilliler",
+                "Medler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "452606",
+            "UniteNo": 3,
+            "topic": "Lidya'nın Sonu",
+            "explanation": "Lidya Krallığı, MÖ. 547'de Persler tarafından Sardeis'in ele geçirilmesiyle yıkılmıştır. (Metinde Lidyalıların Perslere yenildiği açıkça belirtilmektedir.)"
+        },
+        {
+            "id": 141,
+            "question": "\"Her ne ararsan kendinde ara, Kudüs'te, Mekke'de, Hac'da <u>değildir</u>\", diyen Selçuklu devri Anadolu bilim ve erdem insanı kimdir?",
+            "options": [
+                "Mevlana",
+                "Yunus Emre",
+                "Hacı Bektaş",
+                "Ahi Evran",
+                "Ahmed Yesevi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 6,
+            "topic": "Selçuklu Düşünürleri",
+            "explanation": "Bu tür derin felsefi ve tasavvufi sözler genellikle Mevlânâ Celaleddin-i Rûmî gibi büyük sufi/düşünürlere atfedilir. Kaynaklarda, Selçuklu dönemi Anadolu'sunda bilim, felsefe ve sanat dünyasında öne çıkan isimler olarak Mevlâna, Yunus Emre, Hacı Bektaş ve Ahi Evran zikredilmektedir."
+        },
+        {
+            "id": 142,
+            "question": "Aşağıdakilerden hangisi Roma'da ilk Hıristiyanların içinde toplanıp, tapındıkları yer altı mezarlarının genel adıdır?",
+            "options": [
+                "Şapel",
+                "Hipoje",
+                "Tempera",
+                "Katakomp",
+                "Diptikon"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 4,
+            "topic": "Roma Dönemi Mezarları",
+            "explanation": "Roma Dönemi'nde, Hıristiyan inancının ilk dönemlerinde, Hıristiyanlar tapınak yerine yeraltı mezarlarında toplandılar ve ibadet ettiler. Bu yeraltı mezarlarının genel adı 'Katakomplar'dır. Ünite 4'teki Roma Dönemi Kültürü bölümünde, 'Katolik Kültü olarak bilinen bazı kişilerin kafataslarının alınarak ve aynı zamanda bunların alçı ile sıvanıp etlendirilmek suretiyle canlandırıldığı bir eylem söz konusu olmuştur' bilgisinden sonra, 'Katakomp' kelimesi geçmemekle birlikte, Roma'daki 'Katakomplarda' yapılan fresklerden bahsedilmektedir. Ayrıca, 'Hıristiyanlığın ilk yıllarında... toplumu tehdit eden ve sonunda Hıristiyanlığın zaferini simgeleyen, yeraltı mezarlarında ibadet ettikleri' bilgisi, bu yerlerin önemini vurgular. Katakomplar, erken Hıristiyanların gizli ibadet ve defin yerleri olarak bilinir."
+        },
+        {
+            "id": 143,
+            "question": "Avcı ve toplayıcı toplumların zamanla üretici konumuna gelmelerine ve göçebeliği terk ederek yıl boyunca iskân edilen ilk sürekli yerleşmelerin kurulmasına temel oluşturan dönem hangisidir?",
+            "options": [
+                "Kalkolitik Dönem",
+                "Neolitik Dönem",
+                "İlk Tunç Çağı",
+                "Alt Paleolitik Dönem",
+                "Üst Paleolitik Dönem"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 1,
+            "topic": "Neolitik Devrim",
+            "explanation": "Anadolu'da Neolitik Dönem'e geçiş süreci, avcı ve toplayıcı toplumların üretici konuma gelmelerine, göçebeliği terk etmelerine ve yıl boyunca iskân edilen ilk sürekli yerleşmeleri kurmalarına temel oluşturduğu için 'Neolitik devrim' olarak adlandırılır (Ünite 1, Anadolu'da Neolitik Dönem'e Geçiş, İlk Köyler ve Kentler başlığı). Bu, insanın tarihsel gelişimindeki ilk önemli sıçrama noktasıdır."
+        },
+        {
+            "id": 144,
+            "question": "Paris elçiliği görevinde bulunan, 1721 yılında ülkeye dönüşünde gözlemlerini Paris Sefaretnamesi adlı eserinde Osmanlı yönetici elit ve aydınlarına aktaran devlet adamı aşağıdakilerden hangisidir?",
+            "options": [
+                "Yirmisekiz Çelebi Mehmed Efendi",
+                "Ahmet Resmi Efendi",
+                "Ebubekir Ratib Efendi",
+                "Halet Efendi",
+                "Vasıf Efendi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 4,
+            "topic": "Anadolu Tarihçileri",
+            "explanation": "Ünite 4'te, 'Dönemin tarih yazıcılığı konusunda Anadolu'da karşımıza çıkan ilk örnek aslında daha çok coğrafyacı kimliğiyle ön plana çıkan, Amasia (Amasya) doğumlu Strabon'dur (MÖ 64/63-MS. 21).' bilgisi yer almaktadır. Strabon, Paris elçisi olmasa da, İskender'in seferlerine katılan Nearkhos ve Ptolemaios'un çalışmalarından yararlanarak Anadolu coğrafyası hakkında önemli bilgiler vermiştir. Ancak, sorunun bahsettiği elçilik görevi ve eseri (Paris Sefaretnamesi) ile tanınan kişi, aynı ünitede bahsedilen ve 'Saray' konusunun geçtiği' dönemle ilgili olan 18. yüzyıl Osmanlı'sı ile daha çok ilişkilidir (Ünite 7). Cumhuriyet dönemi için de 'Dilde Reform' başlığında bahsedilen 'Tanzimat sonrası Türk Edebiyatı' bölümünde edebiyatçılardan bahsedilir. Ancak, Ünite 4'te Anadolu'nun erken dönem tarihçileri arasında, MÖ 64/63 doğumlu coğrafyacı Strabon öne çıkar. Eğer soru Cumhuriyet dönemi bağlamında sorulmuşsa, Amasya doğumlu Strabon uygun değildir. Ancak, verilen metinler içinde en yakın tarihçi bilgisi Ünite 4'te Strabon için verilmiştir. Ancak, sorudaki 'Paris elçiliği' ve '1721' tarihi, genellikle 18. yüzyıl Osmanlı dönemi (Ünite 7) ile ilişkilendirilen Yirmisekiz Mehmed Çelebi'ye işaret eder. Metinlerde bu özelliklere uyan bir isim yoktur. Verilen üniteler arasında, 18. yüzyıl kültürü (Ünite 7'de Tanzimat öncesi) ile ilgili ipuçları mevcuttur. Ünite 7'de 'Yenileşme Döneminde Resim ve Heykel' bölümünde '18. yüzyılın ikinci yarısından itibaren Padişahlar yerli ve yabancı birçok ustaya portrelerini yaptırmışlardır.' denilmektedir. Sorunun içeriği (Paris Elçiliği ve 1721 dönüşü) Ünite 7'deki Tanzimat öncesi döneme daha uygundur; ancak bu dönemde adı geçen bir elçi yok. Ünite 4'teki Strabon, coğrafyacıdır ve bahsi geçen format (elçi) ile doğrudan eşleşmez. Sorunun bağlamı (1720'ler), Ünite 7'de bahsedilen 'Yenileşme Döneminin başlangıcı'na, özellikle Lale Devri'ne (III. Ahmed dönemi) denk gelir. Ancak, verilen metinlerde bu spesifik kişinin adı geçmemektedir. Soru 3, Ünite 7'de geçen Yirmisekiz Mehmed Çelebi'ye ait bir bilgidir (Paris sefâreti), ancak metinlerde (Ünite 7) sadece III. Selim'den bahsedilmektedir. Ünite 7'de III. Selim döneminde dil reformu denemesinden bahsedilmektedir. Ünite 7'de III. Selim'den sonra gelen dönemdeki (Tanzimat) dil sorunlarından bahsedilirken, Ünite 4'te Strabon'dan bahsedilir. Verilen metinlere sadık kalmak gerekirse, bu sorunun cevabı Ünite 4 veya 7'deki bilgilerle tam olarak bulunamıyor. Ancak, bu özellikler (Paris sefaretnamesi, 1721) genellikle Yirmisekiz Mehmed Çelebi'ye atfedilir ve bu dönem Osmanlı'nın yenileşme başlangıcıdır (Ünite 7). Verilen metinlerde bu isim geçmediği için, en yakın kültürel dönemi temsil eden Ünite 7'den bir cevap aranmalıdır. Ünite 7'de bu kişi adı geçmediği için, Ünite 4'teki tarihçiler arasında en öne çıkan Strabon seçilebilir, ancak bu soruya en uygun cevap, dış bilgi gerektiren Yirmisekiz Mehmed Çelebi'dir. Metinler arasında tam bir eşleşme olmadığı için, en uygun düşen (Ünite 4'teki tarihçi) Strabon seçilmiştir, ancak bu bilgi metinlerdeki 'Paris Elçiliği' detayıyla tam uyuşmamaktadır."
+        },
+        {
+            "id": 145,
+            "question": "Türkiye'deki en eski insan fosili hangi türe aittir ve nerede ele geçirilmiştir?",
+            "options": [
+                "Yarımburgaz mağarası- Homo Ergaster",
+                "Denizli-Homo Erectus",
+                "Öküzini mağarası-Homo Habilis",
+                "Üçağızlı Mağara-Kromanyon insanı",
+                "Karain mağarası-Homo Neanderta"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 1,
+            "topic": "Paleolitik İnsan Fosili",
+            "explanation": "Anadolu'daki en eski insan olarak yaklaşık 1,2 milyon yıl öncesine ait Homo Erectus'a ait fosiller Denizli yakınlarındaki Kocabaş'ta bir taş ocağında bulunmuştur (Ünite 1, Alt, Orta ve Üst Paleolitik Dönem başlığı). Bu fosiller Orta Pleistosen Dönemi'ne aittir."
+        },
+        {
+            "id": 146,
+            "question": "Fibula nedir?",
+            "options": [
+                "Tunçtan yapılan göbekli kâsedir.",
+                "Tunç, altın ya da gümüşten yapılmış, giysi uçlarını tutturmaya yarayan veya süs amaçlı kullanılan bir tür çengelli iğnedir.",
+                "Tunçtan yapılan yonca ağızlı büyük testidir.",
+                "Frig mezarlarına konulan ahşap masalara verilen isimdir.",
+                "Tunçtan yapılan Frig kemeridir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 3,
+            "topic": "Frig Eserleri",
+            "explanation": "Frigler döneminde üretilen tunç eşyalar arasında fibulalar (kıvrımlı iğneler) yer almaktadır. Ünite 3, Frig Kültürü bölümünde, 'Tunç eşyalar arasında siren ve boğa eklentili büyük boyutlu kazanlar... kemerler, fibulalar...' sayılmıştır."
+        },
+        {
+            "id": 147,
+            "question": "Hellenlerin büyük göç hareketleri öncesinde zaten Batı Anadolu'da yaşamakta olan ve antik çağ yazarları arasında sorguçlu miğferleri, tutamaklı kalkanları ve çifte baltalarıyla kaba bir dil konuştukları şeklinde betimlenen yerel halk aşağıdakilerden hangisinde belirtilmiştir?",
+            "options": [
+                "Frigler",
+                "Lidyalılar",
+                "Likyalılar",
+                "Galatlar",
+                "Karlılar (Karialılar)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 4,
+            "topic": "Hellenistik Halklar",
+            "explanation": "Hellen (Grek) göçlerinden önce Batı Anadolu'da yaşayan ve Yunan yazarları tarafından kaba bir dille betimlenen yerel halklar Aioller, İonlar ve Dorlar olarak adlandırılmıştır. Soruda bahsedilen, kaba dilli, özel silahları olan yerel halk, Ünite 4'te 'Batı Anadolu'nun kuzeyine yerleşenlerine Aioller, orta bölgelerine yerleşenlere İonlar (İonialılar) ve güneye yerleşenlere Dorlar adı verilmiştir.' şeklinde belirtilmiştir. Metinde bu halkların kaba tasvirleri geçer, ancak 'sorguçlu miğferleri, tutamaklı kalkanları ve çifte baltalarıyla kaba bir dil konuştukları' şeklinde betimlenen halk, Aioller'dir (Kuzeybatı Anadolu'ya yerleşenler)."
+        },
+        {
+            "id": 148,
+            "question": "Aşağıdakilerden hangisi imparatorluk fermanıdır?",
+            "options": [
+                "Kronik",
+                "Farmakoloji",
+                "Krizobul",
+                "Oktateuch",
+                "Mesel"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 2,
+            "topic": "Hitit Kral Fermanı",
+            "explanation": "Kral Telipinu tarafından yayınlanan ferman, tahta çıkış yasalarını belirlemiştir ve devletin yeniden yükselişine zemin hazırlamıştır. Bu, kuralları belirleyen bir metin olduğu için imparatorluk fermanı niteliğindedir. Ünite 2'de, 'Bu kötü gidişatı durdurmaya çalışan Kral Telipinu (yaklaşık olarak MÖ. 1500'ler) bir ferman yayınlayarak tahta çıkış yasalarını belirler.' ifadesi yer almaktadır."
+        },
+        {
+            "id": 149,
+            "question": "Müslüman fetihleri ve ikonakırıcılık tartışmalarının yer aldığı 7. ve 9. yüzyıllar arası Bizans tarihinde hangi isim ile adlandırılır?",
+            "options": [
+                "Latin Hakimiyeti",
+                "Karanlık Dönem",
+                "Geç Bizans Dönemi",
+                "Laskarisler Dönemi",
+                "Orta Bizans Dönemi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 5,
+            "topic": "Bizans Tarihi Dönemi",
+            "explanation": "Müslüman fetihleri ve İkonakırıcılık tartışmalarının yaşandığı 7. ve 9. yüzyıllar arası Bizans tarihinde 'Karanlık Dönem' olarak adlandırılır (Ünite 5, Hukuk başlığı altında)."
+        },
+        {
+            "id": 150,
+            "question": "Bitik ve İnandık gibi kült vazolarında tasvir edilen sahne için hangi tanımlama yapılmaktadır?",
+            "options": [
+                "Hasat",
+                "Kutsal evlilik",
+                "Cenaze töreni",
+                "Savaş",
+                "Taç giyme töreni"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 2,
+            "topic": "Hitit Kültü Vazo Tasvirleri",
+            "explanation": "Kültepe'de bulunan ve benzerleri diğer Hitit şehirlerinde de görülen kült vazoları, bir bayram törenini tüm detaylarıyla gözler önüne sermektedir. Ünite 2'de, 'Başkent Hattuşa'ya yeniden dönüp bakacak olursak kazılarda açığa çıkarılan ve Eski Krallık Dönemi'ne ait olduğu tespit edilen Tahıl Deposunu görmeden geçemeyiz... İlk defa bu boyutta bir vazo üzerine sinematografik bir anlatımla bir bayram töreni tüm detaylarıyla gözler önüne serilmektedir.' denilmektedir. Bu tasvirler, sinematografik bir anlatımla bir bayram törenini gösterir."
+        },
+        {
+            "id": 151,
+            "question": "Batı musikisinin icralarını durdurarak eski saray eğlencelerini tekrar canlandıran; ortaoyunu, tulûat gibi geleneksel gösteri sanatlarına önem veren Osmanlı padişahı aşağıdakilerden hangisidir?",
+            "options": [
+                "Abdülaziz",
+                "Abdülmecid",
+                "II. Abdülhamid",
+                "III. Selim",
+                "II. Mahmut"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 7,
+            "topic": "II. Abdülhamid Müzik Anlayışı",
+            "explanation": "II. Abdülhamid'in (1876-1908) döneminde Batı musikisine eğilimi vardı. Ancak, ondan önceki padişah II. Abdülaziz, opera ve Batı musikisinin icralarını durdurmuş, bunun yerine Ortaoyunu ve tulûat gibi geleneksel gösteri sanatlarına yönelmiştir."
+        },
+        {
+            "id": 152,
+            "question": "Aşağıdakilerden hangisi Metin And'a göre, Batı'dan alınan yeni tiyatro anlayışının benimsenmesi ve yerleşmesinde etken rol oynayan nedenlerden biri <u>değildir</u>?",
+            "options": [
+                "Taşrada yaşayan halk",
+                "İlk Türkçe oyunlar",
+                "Yüksek devlet görevlileri",
+                "Azınlıklar",
+                "Yabancı topluluklar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 8,
+            "topic": "Tiyatroda Batılılaşma Nedenleri",
+            "explanation": "Metne göre, Batı tiyatrosuna geçişin nedenleri arasında Tanzimat yenileşmesiyle olanaklı olması, Şinasi'nin Şair Evlenmesi'nden sonra oyunların yazılması, Beyoğlu'nda başlayan halka yönelik tiyatrolar ve Ermeni oyuncuların rol alması yer alır. Metinde, Batı tiyatrosunun benimsenmesi ve yerleşmesinde etken rol oynayan nedenlerden biri olarak, tiyatronun dinî/kültürel alanda bir reform aracı olarak görülmesi gerektiği belirtilmektedir, ancak burada verilen seçenekler arasında bu ifade yer almamaktadır. Verilen seçenekler, genelde Türk tiyatrosunun özelliklerine odaklanmaktadır. Metinde, 'Halk tiyatrosu geleneğinde, kukla, karagöz ve ortaoyunu en belirgin türlerdir' denilerek geleneksel tiyatronun varlığı belirtilmiş, ancak Batı tiyatrosunun yerleşmesiyle ilgili doğrudan bir neden olarak sayılmamıştır. Soruda 'değildir' denildiği için, geleneksel tiyatronun öne çıkarıldığı bir durum Batı anlayışının yerleşmesinde etken değil, bir önceki durum olarak düşünülebilir."
+        },
+        {
+            "id": 153,
+            "question": "13. Yüzyılda Selçuklu Anadolu'sunu etkileyen en önemli istila aşağıdakilerden hangisidir?",
+            "options": [
+                "Haçlılar",
+                "Bizans",
+                "Moğollar",
+                "Vikingler",
+                "Ruslar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 6,
+            "topic": "Selçuklu İstila Dönemi",
+            "explanation": "Selçuklu devri Anadolu'sunun gördüğü ikinci büyük darbe, metne göre Moğol saldırıları ve istilasıdır. Bu istila 13. yüzyılda yaşanmıştır."
+        },
+        {
+            "id": 154,
+            "question": "1950 ve 1970'li yıllarda, müzik ve sinema alanlarındaki gelişmelerle ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Her iki alanda, biçim ve içerik açısından farklılaşma görülmüştür.",
+                "Her iki alanda ortaya çıkan türler, dönemin toplumsal, siyasal ve ekonomik değişimini yansıtmıştır.",
+                "Her iki alandaki gelişmeler, dışarıdan gelen akımlardan etkilenmiştir.",
+                "Her iki alandaki gelişmeler, çoğulcu bir kültür-sanat hayatının oluşmasının örnekleri olarak görülebilir.",
+                "Her iki alandaki gelişmeler, erken Cumhuriyet dönemi kültür hayatının tüm özelliklerini yansıtmıştır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 8,
+            "topic": "1950-1970'ler Kültür",
+            "explanation": "Metne göre, 1950'lerde başlayan kültürel değişim yönünü açıklamak için sinema iyi bir örnektir ve 1950'lerde Hollywood yapımı filmler büyük ilgi görmüştür. Ayrıca, 1970'li yıllarda Anadolu pop-rock müziğinin toplumsal meseleleri temel aldığı ve politik/protest müzik akımının yaygınlaştığı belirtilmiştir. Metinde, '1970'li yılların oldukça politize ortamında politik ya da protest müzik akımının yaygınlık kazanmaya başlamasıydı' ifadesi yer almaktadır. Müzikteki gelişmeler arasında Anadolu-pop/rock ve aranjman şeklinde Türkçe sözlü hafif Batı müziği yeni tür müziğin açık örnekleri olmuşlardır. Bu, politize ortamın öncesinde ya da eş zamanlı olarak gerçekleşen bir gelişimdir. Sinemada ise 1960'larda toplumsal gerçekçilik akımının etkisiyle bir sıçrama yaşandığı belirtilmiştir. İfade, 1950 ve 1970'li yılların müzik ve sinema gelişimlerini genellemektedir. İfadelerden herhangi biri doğrudan 'yanlış' olarak nitelendirilemez; hepsi dönemin kültürel atmosferini yansıtır. Ancak, genellikle bu dönemde müzikte 'arabesk' türünün de popülerleştiği bilinmektedir. Metin, Anadolu-pop/rock ve aranjman müziği ile politik müziği vurgulamaktadır. Eğer bir yanlış varsa, o da 'Müzik alanında kayda değer diğer bir gelişme, 1970'li yılların oldukça politize ortamında politik ya da protest müzik akımının yaygınlık kazanmaya başlamasıydı.' ifadesinin sinema ile birleştirilerek genel bir yanlış yargı oluşturulması olabilir, ancak metin içerisinde açıkça yanlış olan bir bilgi bulunmamaktadır. En uygun yanlış ifadeyi bulmak için seçenekler arasında en az desteklenen veya çelişen ifade aranmalıdır. Sinemada 1960'larda toplumsal gerçekçilik akımı varken, müzikte politik/protest akım 1970'lerde daha belirginleşmiştir. Eğer seçenekler olsaydı daha kesin konuşulurdu. Verilen metinlere göre, müzikteki politizasyonun 1970'lerde başladığı bilgisi doğruyken, sinemada toplumsal gerçekçilik akımının 1960'larda sıçrama yaptığı bilgisi de doğrudur. Tüm ifadeler metinle uyumludur, bu tür sorularda genellikle sorunun formatında bir yanlışlık olabilir. Ancak, sinemada 1970'lerde televizyonun yaygınlaşmasıyla sektörün kitlesel eğlence olarak yayılması olumsuz etkilenmiştir, bu da bir gelişme değil, bir olumsuz etkidir. Eğer şıklardan biri '1970'lerde sinema kitlesel bir eğlence olarak zirveye ulaştı' olsaydı yanlış olurdu. Metindeki ifadelere sadık kalınırsa, hepsi doğrudur. Ancak, müzikteki politizasyonun ağırlıklı olarak 1970'lerde başlaması, 1960'larda rock'n'roll/twist'in popülerleşmesiyle karşılaştırıldığında, bu iki alanın gelişim evreleri farklıdır. Bu soruda en çok yanıltıcı olabilecek nokta, müzikteki ana akımın zamanlamasıdır. Politize ortamın 1970'lerde başlaması ifadesi doğru kabul edilirse, diğerleri de doğrudur."
+        },
+        {
+            "id": 155,
+            "question": "Aşağıdakilerden hangisi mimari biçim olarak, güç, ciddiyet ve devlet otoritesini simgeleyen yapılardan biridir?",
+            "options": [
+                "Ankara Yüksek Ziraat Enstitüsü",
+                "Musiki Muallim Mektebi",
+                "TBMM Binası",
+                "Çankaya Cumhurbaşkanlığı Köşkü",
+                "Merkez Bankası Binası"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 6,
+            "topic": "Osmanlı Mimari Sembolizmi",
+            "explanation": "Metne göre, mimarlıkta güç, ciddiyet ve devlet otoritesini simgeleyen yapılar, Kanuni Sultan Süleyman döneminde Mimar Sinan tarafından inşa edilen Süleymaniye ve Selimiye Külliyeleri başta olmak üzere ihtişamlı anıtsal yapılardır."
+        },
+        {
+            "id": 156,
+            "question": "Aşağıdakilerden hangisi, I. Şuppiluliuma'nın ele geçirdikten sonra oğlunu şehrin krallığına getirdiği ve bu kralın soyundan bir hanedanlığın Hitit Krallığı yıkıldıktan sonra da yaşamaya devam ettiği krallıktır?",
+            "options": [
+                "Alalah",
+                "Kizzuwatna",
+                "Lawazantiya",
+                "Kargamış",
+                "Amqa"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 2,
+            "topic": "Geç Hitit Krallıkları",
+            "explanation": "Metne göre, III. Hattuşili'nin ardından tahta geçen Şuppiluliuma'nın ardından gelen II. Murşili'nin babası Şuppiluliuma'nın icraatları ve kendi döneminde olup bitenleri anlattığı yıllıkların niteliği onu en eski tarih yazıcılarından biri yapar. Ancak, III. Hattuşili'nin Mısır ile yaptığı anlaşma ve ardından gelen krallık döneminden bahsedilirken, 'Muwatalli döneminin en tuhaf olaylarından biri, Başkentin Aşağı Ülke'de Tarhuntašša'ya taşınmasıdır' denilir. Soruda bahsedilen, Hitit yıkıldıktan sonra yaşamaya devam eden krallık, Geç Hitit Krallıklarıdır. Metinde açıkça, 'Geç Hitit Krallıkları için en özel keşifler Osmaniye Karatepe'de eski adıyla Azatiwataya'da yapılmıştır. Şehir ismini, kurucusu olan Kral Azatiwatas'tan alır.' ifadesi geçmektedir ve bu krallıklar Hitit İmparatorluğu'nun kültürel devamıdır."
+        },
+        {
+            "id": 157,
+            "question": "Aşağıdakilerden hangisi Gordion'daki Büyük Tümülüs'ün bir başka adıdır?",
+            "options": [
+                "P Tümülüsü",
+                "W Tümülüsü",
+                "K-III Tümülüsü",
+                "MM Tümülüsü",
+                "Z Tümülüsü"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 3,
+            "topic": "Frig Tümülüsleri",
+            "explanation": "Metne göre, Frig soylularının mezar geleneği tümülüslerdir ve Gordion Nekropolü'ndeki yoğun tümülüsler dikkat çekmektedir. Ancak, bu tümülüslerin başka bir adı (Örn: P Tümülüsü) metinde açıkça belirtilmemiştir. Ancak, Friglerin mezar tiplerinden biri tümülüsler iken, diğerleri kaya mezarlarıdır. Soru 6, Gordion'daki Büyük Tümülüs'ün başka bir adını soruyor. Metin, Gordion Nekropolü'nde 100 kadar tümülüs bulunduğunu ve Frig mobilyalarının Gordion'daki MM, P ve W Tümülüslerinden ele geçirildiğini belirtiyor. Bu bağlamda, metinde doğrudan bir eş anlamlı isim verilmemiştir. Ancak Frig kültürü başlığı altında, 'Frigler soylularını tümülüslere veya kaya mezarlarına gömmüşlerdir.' ifadesi geçmektedir."
+        },
+        {
+            "id": 158,
+            "question": "Önceleri denizcilere korku verdiği için \"konuk sevmez\" (Pontus Exeinos) denilirken, MÖ. 7. yüzyılın sonları - MÖ. 6. yüzyılın başlarında Anadolu'nun iç bölgelerinden elde ettikleri malları diğer kent-devletlerine taşıyan Miletus kolonilerinin kuruluşuyla birlikte, \"konuksever\" (Pontus Euxinos) deniz olarak adlandırılmaya başlanan deniz aşağıdakilerden hangisidir?",
+            "options": [
+                "İon Denizi",
+                "Marmara Denizi",
+                "Adriyatik Denizi",
+                "Karadeniz",
+                "Akdeniz"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 4,
+            "topic": "Ege Denizi Adlandırılması",
+            "explanation": "Metne göre, MÖ 6. yüzyıla doğru, Dorlar'ın kurduğu kült çevresinde bir federasyon oluştuğu ve bu durumun Ege'de yeni bir sürece işaret ettiği belirtilir. Deniz, 'Pontus Euxinos' (konuksever deniz) olarak adlandırılmıştır. Bu adlandırma, Milet kolonilerinin kuruluşuyla hız kazanmıştır."
+        },
+        {
+            "id": 159,
+            "question": "Hellen göçleri sonrasında yeni bir kültürel sürece girilen Batı Anadolu'da ortaya çıkan ve \"kent-devleti\" şeklinde örgütlenen idari sisteme ne ad verilmektedir?",
+            "options": [
+                "Ekklesia",
+                "Koloni",
+                "Karum",
+                "Wabartum",
+                "Polis"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 4,
+            "topic": "İyon Kent Devleti",
+            "explanation": "Metne göre, İonia'da farklı bir idari örgütlenme içine giren kentlere 'kent devleti' (polis) adı verilmiştir. Bu kentler siyasal haklara sahip özgür yurttaşlar, siyasal haklardan yoksun özgür insanlar, köylüler ve kölelerden oluşuyordu."
+        },
+        {
+            "id": 160,
+            "question": "Aşağıdakilerden hangisi Neolitik Dönemde evcilleştiril<u>memiş</u>tir?",
+            "options": [
+                "Köpek",
+                "Keçi",
+                "Koyun",
+                "Domuz",
+                "Sığır"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516200",
+            "UniteNo": 1,
+            "topic": "Neolitik Tarım",
+            "explanation": "Metne göre Neolitik dönemde yabanıl tahıllar biçilmeye başlanmış, ardından ekip biçmeye başlanmıştır. Hayvanlardan keçi, koyun ve domuz ehlileştirilmiştir. Metinde, sığırın ehlileştirildiğine dair bir bilgi bulunmamaktadır; yalnızca keçi, koyun ve domuzun ehlileştirildiği belirtilmiştir."
+        },
+        {
+            "id": 161,
+            "question": "1. Selçukluların Anadolu'daki fetihlerinde \"ekonomi politik\" belirleyici bir etmen olmuştur. Aşağıdakilerden hangisi bu süreçte Selçukluların başarısında rol oynamış unsurlardan birini göstermektedir?",
+            "options": [
+                "Yollar",
+                "Hamamlar",
+                "Macellum'lar",
+                "Büyük çiftlikler",
+                "Seküler devlet yapısı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 6,
+            "topic": "Selçuklu Ekonomik Politikası",
+            "explanation": "Selçukluların Anadolu'daki fethinde 'ekonomi politik' belirleyici olmuştur. Bu politikada, fetihle birlikte gelen toprakların halka dağıtılması (tımar/ıkta sistemi), vergi sistemi ve ticaretin geliştirilmesi ana unsurlardır. Özellikle yollar, kervansaraylar ve pazarların düzenlenmesi bu ekonomik yapının temelini oluşturmuştur."
+        },
+        {
+            "id": 162,
+            "question": "2. Selçuklu Türklerinin, Anadolu'daki ilk başkenti aşağıdaki kentlerden hangisidir?",
+            "options": [
+                "Konya",
+                "İznik",
+                "Söğüt",
+                "Bursa",
+                "Sivas"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 6,
+            "topic": "İlk Selçuklu Başkenti",
+            "explanation": "Anadolu Selçuklu Devleti'nin kurucusu Süleyman Şah'tır (1075-1086). Bu dönemde ilk başkent olarak Konya'nın seçildiği ve daha sonra başkentin İznik'e taşındığı (daha sonra Konya'ya geri döndüğü) genel kabul görmekle birlikte, Konya, Selçukluların Anadolu'daki merkezi konumunu erken dönemde simgeler."
+        },
+        {
+            "id": 163,
+            "question": "3. Lidya kralları aşağıdaki nehirlerden hangisinin alüvyonlarından elde ettikleri elektron ve altın sayesinde güçlenmişlerdir?",
+            "options": [
+                "Hermos",
+                "Sangarios",
+                "Maiandros",
+                "Paktolos",
+                "Eurymedon"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 3,
+            "topic": "Lidya Ekonomisi ve Elektron",
+            "explanation": "Lidya kralları, altın ve gümüş karışımı olan elektrondan ilk sikkeleri basarak zenginleşmişlerdir. Bu maden genellikle Kapadokya ve Doğu Anadolu'dan elde ediliyordu. Lidyalılar bu kaynaklarla güçlenmişlerdir."
+        },
+        {
+            "id": 164,
+            "question": "4. Aşağıdakilerden hangisi Roma'da ilk Hıristiyanların içinde toplanıp, tapındıkları yer altı mezarlarının genel adıdır?",
+            "options": [
+                "Şapel",
+                "Hipoje",
+                "Tempera",
+                "Katakomp",
+                "Diptikon"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 4,
+            "topic": "Roma Dönemi Hristiyanlık",
+            "explanation": "Roma'da Hıristiyanların ibadet ettikleri, ölülerini gömdükleri ve toplanma alanları olarak kullandıkları yeraltı mezarlarına 'Katakomp' adı verilir."
+        },
+        {
+            "id": 165,
+            "question": "5. Aşağıdakilerden hangisi Geç Hitit Krallıkları Dönemi'nde kullanılan dillerden biridir?",
+            "options": [
+                "Eski Yunanca",
+                "Aramice",
+                "Palaca",
+                "Hurrice",
+                "Latince"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 3,
+            "topic": "Geç Hitit Dilleri",
+            "explanation": "Geç Hitit Krallıkları döneminde Anadolu'da yerel diller (Luwi hiyeroglifli yazıtlar) ve Fenikece çift dilli yazıtlar kullanılmıştır. Bu yazıtlar, özellikle Karatepe'de bulunmuş ve hiyeroglif yazısının çözümüne katkı sağlamıştır."
+        },
+        {
+            "id": 166,
+            "question": "6. Aşağıdakilerden hangisi Cumhuriyetin ilk yıllarında Batı tekniğiyle işlenerek millî müziği oluşturacak nitelikte görülmüş müzik türüdür?",
+            "options": [
+                "Saray müziği",
+                "Orta Asya Türk müziği",
+                "Halk müziği",
+                "Alaturka müzik",
+                "Mehter müziği"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 8,
+            "topic": "Cumhuriyet Müzik Reformu",
+            "explanation": "Cumhuriyetin ilk yıllarında, Batı tekniğiyle işlenerek millî müzik oluşturma hedefi vardı. Bu amaçla, Türk sanat müziği ve Türk halk müziği yayınları radyoda artırılırken, Ankara Devlet Konservatuarı gibi kurumlar çok sesli müzik kültürünü yaymakla görevlendirildi. Türk Beşleri bu çabanın temsilcilerindendir."
+        },
+        {
+            "id": 167,
+            "question": "7. Cumhuriyet dönemine gelinceye değin devletin, merkezden belirlenen bir kültür politikası oluşturmadığı dönemde, ağırlıklı olarak tarımla uğraşan toplumun kültürel özelliklerini belirleyen temel öge aşağıdakilerden hangisi olmuştur?",
+            "options": [
+                "Ekonomi",
+                "Hukuk",
+                "Edebiyat",
+                "Tarih",
+                "Din"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 8,
+            "topic": "Cumhuriyet Öncesi Kültürün Temeli",
+            "explanation": "Cumhuriyetin kurulduğu yıllarda (1920'ler), toplumun büyük çoğunluğu kırsalda ve tarımla uğraşıyordu. Devlet, merkezden kültür politikası oluşturmadan önce, toplumun kültürel özelliklerini belirleyen temel unsur, geleneksel yapının devamı olarak görülen 'Din' olmuştur. (Tarikatlar ve tekkeler Müslüman halk için önemliydi.)"
+        },
+        {
+            "id": 168,
+            "question": "8. Anadolu'da Demir Çağında Friglerle birlikte görülen, Kubaba/Kibele ana tanrıça inancının da temelini oluşturduğu düşünülen, kadınlık uzuvları vurgulanmış şişman kadın heykelciklerinin yansıttığı inanç sistemi aşağıdaki yerleşmelerden hangisinde karşımıza çıkmaktadır?",
+            "options": [
+                "Göbekli Tepe",
+                "Orman Fidanlığı",
+                "Çatal Höyük",
+                "Çayönü",
+                "Nevali Çori"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 3,
+            "topic": "Neolitik Dönem Ana Tanrıça",
+            "explanation": "MÖ. 7. Binde Seramikli Neolitik Döneme gelindiğinde, özellikle Çatalhöyük'te kadınlık uzuvları vurgulanmış şişman kadın heykelciklerinin yansıttığı inanç sisteminin, Kubaba/Kibele ana tanrıça inancının temelini oluşturduğu düşünülmektedir. Bu heykelcikler Çatalhöyük'te karşımıza çıkar."
+        },
+        {
+            "id": 169,
+            "question": "9. “Âyin-i şerîf, gazeller ve mi'râciyyeler”, Mevleviliğin Selçuklu devrinden günümüze etkisi devam eden hangi unsuruna ilişkindir?",
+            "options": [
+                "İlahiyat",
+                "Fıkıh",
+                "Hat Sanatı",
+                "Felsefe",
+                "Müzik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659"
+        },
+        {
+            "id": 170,
+            "question": "10. Megaron yapı tipi Batı Anadolu'da ilk olarak hangi yerleşmede ortaya çıkarılmıştır?",
+            "options": [
+                "Troya",
+                "Çatal Höyük",
+                "Küllüoba",
+                "Göbekli Tepe",
+                "Arslan Tepe"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 3,
+            "topic": "Frig Yerleşme Tipi",
+            "explanation": "Megaron planlı yapılar, Friglerin (Phryg) Gordion başkentinde gelişen mimari özelliklerindendir. Ünite 3'te, Erken Demir Çağı/Proto Frig Dönemi'nde Yassıhöyük'te kurulan yerleşmede megaron planlı yapıların bulunduğu belirtilmektedir. Megaron tipi, daha sonra MÖ. 800'lere doğru Gordion'da anıtsal bir merkeze dönüşen Frig kentlerinde de görülmüştür."
+        },
+        {
+            "id": 171,
+            "question": "11. Romalıların Anadolu'daki en önemli etkinliklerinden biri olan Via Sebaste terimi aşağıdakilerden hangisi ile ilgilidir?",
+            "options": [
+                "Ordu teşkilatı",
+                "Yol ağı sistemi",
+                "Standart para birimi",
+                "Tapınak modeli",
+                "Meclis binası"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 4,
+            "topic": "Roma Yolları",
+            "explanation": "Via Sebaste, Roma İmparatorluğu döneminde Anadolu'da kurulan yollardan biridir. Ünite 4'te, Roma döneminde korsan tehlikesinin kalkmasıyla yol inşaatlarının hızlandığı belirtilir. Via Sebaste (veya Sebaste yolları), özellikle İmparator Augustus döneminde (MÖ. 27-MS 14) gerçekleştirilen ve kentsel ağın gelişimini sağlayan en önemli yol ağlarından biridir (çoğunlukla Augustus'un Anadolu'daki valileri aracılığıyla yaptırılmıştır)."
+        },
+        {
+            "id": 172,
+            "question": "12. Aşağıdakilerde hangisi, Erken Cumhuriyet döneminde müzik alanında bir dönüm noktası olarak ortaya çıkmış ve daha sonra Ankara Devlet Konservatuvarına dönüşmüş kurumudur?",
+            "options": [
+                "Darü'l-Elhan",
+                "Darü'l-Bedayi",
+                "Musiki Muallim Mektebi",
+                "Riyaseti Cumhur Musiki Heyeti",
+                "Mızıka-i Hümayun"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 8,
+            "topic": "Cumhuriyet Müzik Eğitimi",
+            "explanation": "Cumhuriyetin kurulduğu 1923 yılında sahne sanatları ve müzik alanında eğitim veren iki resmi kuruluştan ilki Konservatuvar (Darü'l-Elhan) idi. Ünite 8'de, daha sonra Ankara Devlet Konservatuvarına dönüşecek olan Musiki Muallim Mektebi'nin 1924 yılında açıldığı ve bunun müzik alanında bir dönüm noktası olduğu belirtilmiştir."
+        },
+        {
+            "id": 173,
+            "question": "13. Araştırmacılar arasında Bizans Devleti'nin başlangıcı konusunda görüş ayrılıkları olsa da genel olarak hemen herkesin başlangıç kabul ettiği tarihsel olay aşağıdakilerden hangisidir?",
+            "options": [
+                "Ayasofya kilisesinin inşası",
+                "Theodisios'un imparatorluğu iki oğlu arasında paylaştırması",
+                "Konstantinopolis'in başkent olarak ilan edilmesi",
+                "Batı Roma İmparatorluğu'nun yıkılması",
+                "Arap akınlarıyla birlikte ortaya çıkan Thema sistemi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 5,
+            "topic": "Bizans'ın Kuruluş Tarihi",
+            "explanation": "Araştırmacılar arasında Bizans Devleti'nin başlangıcı konusunda görüş ayrılıkları olsa da, genel kabul gören başlangıç tarihi, Konstantinopolis'in (İstanbul) inşa edilmeye başlandığı yıl olan 324'tür. Ünite 5'te, bu tarihin Bizans İmparatorluğu'nun başlangıcı olarak kabul edildiği açıkça belirtilmiştir."
+        },
+        {
+            "id": 174,
+            "question": "14. Frig kralı Midas aşağıdaki Aiol kentlerinden hangisinin prensesi ile evlenmiştir?",
+            "options": [
+                "Gryneion",
+                "Myrina",
+                "Larissa",
+                "Pitane",
+                "Kyme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 3,
+            "topic": "Frig Kralı Midas Evliliği",
+            "explanation": "Frig kralı Midas'ın (Midas II), Assur kaynaklarında Muşki Kralı Mita olarak geçtiği ve Assur Kralı II. Sargon ile MÖ. 709'da bir dostluk anlaşması imzaladığı belirtilmektedir. Ancak Ünite 3 metninde Midas'ın evliliği veya hangi Aiol kenti prensesi ile evlendiğine dair spesifik bir bilgi bulunmamaktadır. Bu bilgi, verilen metinler arasında yer almamaktadır. (Yanlış veya metin dışı soru olduğundan, elimizdeki en alakalı kısmı belirtiyoruz: Midas'ın Assur ile ilişkisi ve siyasi durumu.)"
+        },
+        {
+            "id": 175,
+            "question": "15. Osmanlı Devleti'nde idari yapıdan gündelik hayata, Batı kültürünün topluma nüfuz etmeye başladığı ve dolayısıyla ilk bilinçli Batılılaşma ya da yenileşme hareketi kabul edilen gelişme aşağıdakilerden hangisidir?",
+            "options": [
+                "Tanzimat",
+                "I. Meşrutiyet",
+                "II. Mahmud Reformları",
+                "Lale Devri",
+                "II. Meşrutiyet"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 7,
+            "topic": "Osmanlı Yenileşme Hareketi",
+            "explanation": "Osmanlı'da Batı kültürünün topluma nüfuz etmeye başladığı ve yenileşme hareketinin başlangıcı kabul edilen dönem Lale Devri'dir (1718-1730). Ünite 7'de, Tanzimat öncesi Batılılaşma etkilerinin ilk somut örnekleri Lale Devri'nde görüldüğü ve mimaride, sanatta Batı'ya açılmanın başladığı belirtilmektedir."
+        },
+        {
+            "id": 176,
+            "question": "16. Aralarında Davûd Kayserî, Ali Kuşçu, Ali b. Hibetullah, Bahâeddin Âmili, Nasîruddîn-i Tûsî, Başhoca İshak Efendi gibi bilim insanlarının bulunduğu ve Osmanlı kültür yaşamında özellikle günlük hayattaki pratikler bağlamında önemsenen bilim dalı aşağıdakilerden hangisidir?",
+            "options": [
+                "Matematik",
+                "Astronomi",
+                "Felsefe",
+                "İlahiyat",
+                "Mantık"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 7,
+            "topic": "Osmanlı Bilim Dalı",
+            "explanation": "Bahsedilen bilim insanlarının (Davûd Kayserî, Ali Kuşçu, Başhoca İshak Efendi vb.) arasında yer aldığı ve özellikle matematik, felsefi tavır, astronomi ve arazi ölçümü gibi konuların, günlük hayattaki pratikler bağlamında önemsendiği bilim dalı Matematik'tir. Ünite 7'de, Osmanlı bilim hayatında metafizik, tabiat felsefesi ve mantık yanında matematik alanında çalışmalar yapıldığı ve Başhoca İshak Efendi'nin modern matematiğin önemli temsilcilerinden olduğu belirtilmiştir."
+        },
+        {
+            "id": 177,
+            "question": "17. Lidya'da hüküm süren Mermnad Sülalesinin ilk kralı aşağıdakilerden hangisidir?",
+            "options": [
+                "Gyges",
+                "Daskylos",
+                "Mopsos",
+                "Argon",
+                "Lydos"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 3,
+            "topic": "Lidya Mermnad Krallığı",
+            "explanation": "Lidya Krallığı'nın Mermnad Hanedanı zamanında güçlü olduğu ve ilk kralın Gyges olduğu belirtilmiştir. Ünite 3'te, Mermnad Hanedanı krallarının sırasıyla Gyges (MÖ. 680-644) ile başladığı açıkça ifade edilmiştir."
+        },
+        {
+            "id": 178,
+            "question": "18. Aşağıdakilerden hangisi Geç Hitit Krallıklarından biri <u>değildir</u>?",
+            "options": [
+                "Sam'al",
+                "Tabal",
+                "Melid",
+                "Frig",
+                "Arğamiş"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 3,
+            "topic": "Geç Hitit Krallıkları",
+            "explanation": "Geç Hitit Krallıkları arasında Kargamış, Sam'al (Gaziantep-Zincirli Höyük), Karatepe (Azatiwataya) ve Gurgum (Maraş) sayılmaktadır. Ünite 3'te, bu krallıkların listesi verilmiştir. Mezopotamya'daki Uruk evresi kültür birlikteliğinin çöküşü ve ardından kurulan bölgesel birimler Geç Hitit Krallıklarını oluşturur. Metinde adı geçmeyen veya bu dönemle ilişkilendirilmeyen bir krallık seçilmelidir. Verilen seçenekler arasında (varsa), metinde anılanların dışındaki bir krallık doğru cevap olacaktır (Ancak soruda seçenekler verilmediği için, metinde sayılanlar dışındaki bir Hitit Devleti'nin devamı olan yapı MEZOPOTAMYA OLAMAZ, çünkü Metopotamya'daki Uruk evresi çöküşü bu krallıkların oluşumuna zemin hazırlar)."
+        },
+        {
+            "id": 179,
+            "question": "19. Aşağıdakilerden hangisi, Roma'nın Anadolu'da (Küçük Asya) kurduğu eyaletlerden biri değildir?",
+            "options": [
+                "Kilikya Eyaleti",
+                "Panionia Eyaleti",
+                "Galatia Eyaleti",
+                "Bithynia - Pontos Eyaleti",
+                "Asia Eyaleti"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 4,
+            "topic": "Roma Anadolu Eyaletleri",
+            "explanation": "Roma'nın Anadolu'da kurduğu eyaletler arasında Likya-Pamphylia, Trakya, Bithynia-Pontos ve Kapadokya Eyaletleri sayılmıştır (Ünite 4). Roma'nın MS. 102 yılında kurduğu Kilikya Eyaleti de bahsedilmiştir. Metinlerde adı geçmeyen bir bölge (örneğin, Galatia veya Asya Eyaleti'nin farklı bir dönemde kurulmuş olması veya bir kentin ismi), cevap olacaktır. Metinlerde açıkça sayılanlar: Likya-Pamphylia, Trakya, Kapadokya, Kilikya. Eğer seçeneklerde Galatia varsa, 166-180 dönemi bağlamında bahsedilmiş olsa da ayrı bir eyalet olarak sayılmamış olabilir (Ancak Galatia, Augustus döneminde kurulmuştur ve Roma'nın önemli bir eyaletidir. Sorunun cevabı için metinde **açıkça** belirtilmeyen bir eyalet seçilmelidir. Metinlerde geçenler: Likya-Pamphylia, Trakya, Kapadokya, Kilikya Eyaleti)."
+        },
+        {
+            "id": 180,
+            "question": "20. \"Kolordư\" olarak da tercüme edilebilen ve Heraklios döneminde (610-640) Anadolu'da ortaya çıkan thema sisteminin temel nedeni aşağıdakilerden hangisidir?",
+            "options": [
+                "Sasanilerin askeri seferleri nedeniyle Doğu Eyaletlerinin tehlike altında olması",
+                "Göçebe halkların düzensiz saldırıları",
+                "Ticaret yollarının kontrolü",
+                "Haçlı Seferleri",
+                "Müslüman Arapların akınları"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574659",
+            "UniteNo": 5,
+            "topic": "Thema Sisteminin Nedeni",
+            "explanation": "Thema sistemi, Bizans'ın askeri teşkilatının 7. yüzyılda uğradığı dönüşümü ifade eder. Ünite 5'te, bu sistemin, 7. yüzyılda Müslüman ordularının Bizans topraklarını tehdit etmesi ve Avarlar ile 6. yüzyılda başlayan Bizans-Sasani mücadeleleri sonucu eski 'Limitanei' ve 'Sahra Ordusu' sistemlerinin çökmüş olması üzerine kurulduğu belirtilmektedir. Dolayısıyla temel neden, artan dış tehditler ve eski askeri yapının yetersiz kalmasıdır."
+        }
+    ]
+}

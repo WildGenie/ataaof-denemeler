@@ -1,0 +1,361 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Fantastik karakterlere yönelik hafif düzeyde şiddet veya insan benzeri karakterlere yönelik gerçekçi olmayan şiddet gösteren oyunlar PEGI tarafından hangi yaş kategorisinde değerlendirilir?",
+            "options": [
+                "3",
+                "7",
+                "12",
+                "16",
+                "18"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 2,
+            "question": "Scratch adlı oyun geliştirme platformu ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Geniş bir topluluğa sahiptir.",
+                "Yeterlilikleri sürekli gelişmektedir.",
+                "Metin tabanlı kod yazımı gerektirir.",
+                "Ücretsiz olarak kullanılabilir.",
+                "Başta çocuklar olmak üzere her yaştan bireye hitap eder."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 2,
+            "topic": "Scratch Motoru Özellikleri",
+            "explanation": "Scratch'in avantajları arasında ücretsiz olması, blok tabanlı kodlama ile kolay öğrenilmesi, 70'ten fazla dil desteği sunması ve zengin bir topluluğa sahip olması sayılabilir. Ancak, Scratch'in sınırlılıkları arasında 3B ve sanal gerçeklik gibi ortamlara desteğinin sınırlı olması, performans açısından Unity ve Unreal Engine gibi motorlarla kıyaslandığında alt düzeyde yeterliliğe sahip olması ve tasarım/çalıştırma için internet ihtiyacı bulunması yer alır. Metinde 'performans açısından Unity, Unreal Engine gibi oyun motorları ile kıyaslandığında alt düzeyde bir yeterliliğe sahip olması' belirtilmiştir. Bu nedenle, 3B ve sanal gerçeklik desteği sınırlı olsa da performans olarak üstün olduğu iddiası yanlıştır (Ünite 2)."
+        },
+        {
+            "id": 3,
+            "question": "Dijital oyun tasarımında modellere renk ve desen eklenen aşama aşağıdakilerden hangisidir?",
+            "options": [
+                "Yayınlama",
+                "Tekstürlendirme",
+                "Modelleme",
+                "Konsept Tasarımı",
+                "Kümeleme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 3,
+            "topic": "3D Varlık Geliştirme Aşaması",
+            "explanation": "Dijital oyun tasarımında modellere renk, desen ve detay ekleyerek onları daha gerçekçi veya stilize hâle getiren sürece Tekstürlendirme denir. Bu, modelin son görünümünü büyük ölçüde etkiler ve görsel kalitesini artırır (Ünite 3)."
+        },
+        {
+            "id": 4,
+            "question": "Aşağıdakilerden hangisi ücretsiz ve açık kaynaklı bir ses düzenleme aracıdır?",
+            "options": [
+                "Cry Engine",
+                "Blender",
+                "Audacity",
+                "Unity 3D",
+                "Sound-Max"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 4,
+            "topic": "Ses Düzenleme Araçları",
+            "explanation": "Audacity, ücretsiz ve açık kaynaklı bir ses düzenleme yazılımıdır. Ses kaydı, düzenleme ve efekt ekleme gibi temel ses işleme özelliklerine sahiptir ve ses tasarımcıları tarafından hızlı düzenleme ve basit efektler oluşturmak için kullanılır (Ünite 4)."
+        },
+        {
+            "id": 5,
+            "question": "Unity 3D ortamında bir değişkenin değerinin editör üzerinden ayarlanabilir olmasını sağlamak için kullanılan özellik aşağıdakilerden hangisidir?",
+            "options": [
+                "SerializeField",
+                "Instantiate",
+                "OnCollide",
+                "Private",
+                "Editable"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 5,
+            "topic": "Unity Bileşen Özellikleri",
+            "explanation": "Unity'de bir nesnenin transform bileşeni, pozisyonunu, rotasını ve ölçeğini belirler. Inspector penceresi aracılığıyla bu transform değerleri manuel olarak ayarlanabilir. Bu, özellikle alanlar (konum, ölçek vb.) için doğrudan editör üzerinden müdahale imkanı sunar, bu da bileşenin Inspector'da düzenlenebilir olduğunu gösterir (Ünite 5)."
+        },
+        {
+            "id": 6,
+            "question": "Unity 3D ortamında, oyun çalıştığı esnada bir tuşa basıldığında veya belirli bir zamandan sonra nesneler oluşturmayı sağlayan fonksiyon aşağıdakilerden hangisidir?",
+            "options": [
+                "Instantiate()",
+                "Start()",
+                "Build()",
+                "GetKeyDown()",
+                "Destroy()"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 5,
+            "topic": "Unity Runtime Nesne Oluşturma",
+            "explanation": "Unity'de oyun çalışırken (runtime) dinamik olarak yeni nesneler yaratmak için Instantiate fonksiyonu kullanılır. Bu fonksiyon, bir tuşa basıldığında veya belirli bir zamanda prefab'ların örneklerini oluşturmaya imkân tanır (Ünite 5)."
+        },
+        {
+            "id": 7,
+            "question": "Aşağıdakilerden hangisi Unity 3D ortamında bulunan kare ile bir önceki kare arasındaki zaman farkını veren C# fonksiyonudur?",
+            "options": [
+                "Time.frameCount()",
+                "Frame.Time()",
+                "Frame.time Difference()",
+                "Time.deltaTime()",
+                "Time.Difference()"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 5,
+            "topic": "Unity C# Metotları",
+            "explanation": "Update metodu, her kare yenilendiğinde otomatik olarak çalışır ve bu sayede kareler arasındaki zaman farkını kullanarak dinamik hareketler sağlar. Start metodu ise sadece bir kez çalışır (Ünite 5)."
+        },
+        {
+            "id": 8,
+            "question": "Unity 3D aşağıdaki programlama dillerinden hangisinin kullanımını destekler?",
+            "options": [
+                "Pascal",
+                "Fortran",
+                "Java",
+                "C++",
+                "C#"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 2,
+            "topic": "Unity Programlama Dili",
+            "explanation": "Unity tarafından kullanılan C# programlama dili, hem 2B hem de 3B oyunlarda sıklıkla kullanılır. Metinde C# dilinin Unity'de yaygın olarak kullanıldığı belirtilmiştir (Ünite 2)."
+        },
+        {
+            "id": 9,
+            "question": "Aşağıdakilerden hangisi yapay zekanın alt dallarından biri <u>değildir</u>?",
+            "options": [
+                "Veri Madenciliği",
+                "Derin Öğrenme",
+                "Uzman Sistemler",
+                "Makine Öğrenimi",
+                "İşletim Sistemleri"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 6,
+            "topic": "Yapay Zekâ Alt Dalları",
+            "explanation": "Yapay zekanın alt kavramları arasında Makine Öğrenimi, Derin Öğrenme, Doğal Dil İşleme, Genetik Öğrenme, Uzman Sistemler, Veri Madenciliği, Bilgisayar Görüşü ve Yapay Zekâ Etiği ve Güvenliği bulunmaktadır. Üç Boyutlu Modelleme (3D Modelleme) ise genellikle oyun varlıklarının oluşturulmasıyla ilgili bir süreçtir, yapay zekanın temel bir alt dalı olarak listelenmemiştir (Ünite 6)."
+        },
+        {
+            "id": 10,
+            "question": "Unity Muse aşağıdaki işlevlerden hangisine sahip <u>değildir</u>?",
+            "options": [
+                "Sprite oluşturma",
+                "Veritabanı olarak kullanım",
+                "Texture oluşturma",
+                "Kod yazma",
+                "Sohbet ile fikir edinme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 3,
+            "topic": "Unity Muse Yetenekleri",
+            "explanation": "Unity Muse, üretim süreçlerini otomatikleştirmeyi amaçlayan bir araçtır ve Texture oluşturma, Sprite üretme, Sohbet desteği, Kod oluşturma/temizleme, Stil bütünlüğü ve Karakter etkileşimleri (davranış ağaçları) gibi yeteneklere sahiptir. Ancak, metinde doğrudan Unity Muse'un 'Grafik üretme' veya 'Uyarlama' (platformlar arası) gibi işlevlere sahip olduğu belirtilmemiştir; daha çok doku, sprite, kod ve animasyon gibi yaratıcı varlıkların üretimi ve yönetimine odaklandığı gösterilmiştir. Grafikleri ve görsel optimizasyonu yapay zeka (örn. Nvidia Canvas) yapabilir ancak Muse'un temel listesinde doğrudan grafik üretimi (genel anlamda) yok (Ünite 3)."
+        },
+        {
+            "id": 11,
+            "question": "Aşağıdakilerden hangisi oyun içerisinde bulunan sistemlerin ya da karakterlerin farklı durum ve senaryolar için akıllıca karar almasını sağlayan yapay zeka boyutudur?",
+            "options": [
+                "Karar verme süreçlerinde oyun yapay zekâsı kullanımı",
+                "Tahmin etme süreçlerinde oyun yapay zekâsı kullanımı",
+                "Üç boyutlu modelleme süreçlerinde oyun yapay zekâsı kullanımı",
+                "Oyun içi tanıtım süreçlerinde oyun yapay zekâsı kullanımı",
+                "Grafik oluşturma süreçlerinde oyun yapay zekâsı kullanımı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 6,
+            "topic": "Yapay Zeka Karar Verme",
+            "explanation": "Dijital oyun tasarım süreçlerinde yapay zekânın (YZ) karar verme süreci, oyun içerisindeki sistemlerin veya karakterlerin farklı durum ve senaryolara karşı akıllıca karar almasını sağlayan boyuttur. Bu süreçte YZ, oyuncunun hareketlerini, yeteneklerini ve ekipmanlarını analiz ederek kararlarını günceller (Ünite 6, Sayfa 2). Algılama, çevreyi algılamayla; Seviye Belirleme, zorluk ayarıyla; Tahmin Etme ise gelecekteki olayları öngörmeyle ilgilidir."
+        },
+        {
+            "id": 12,
+            "question": "I. Spline Al II. Edge III. Masterpiece X Yukarıdakilerden hangisi/hangileri üç boyutlu modelleme süreçlerinde kullanılabilecek yapay zeka araçlarıdır?",
+            "options": [
+                "Yalnız I",
+                "Yalnız III",
+                "I ve II",
+                "I ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 3,
+            "topic": "Yapay Zeka 3D Modelleme Araçları",
+            "explanation": "Soru, üç boyutlu modelleme süreçlerinde kullanılabilecek yapay zeka araçlarını sormaktadır. Ünite 3'te, 3D modelleme için yapay zekanın kullanılabileceği belirtilmiştir. Metinde Spline AI ve Luma AI'nin 3D modelleme için tercih edildiği, Nvidia Canvas, Adobe Sensei ve AutoDraw gibi araçların ise hızlı tasarım ve optimizasyon sağladığı, ancak doğrudan 3D modelleme/optimizasyon aracı olarak Spline AI ve Luma AI öne çıktığı belirtilmektedir. Edge ile ilgili bilgi bu bağlamda verilmemiştir."
+        },
+        {
+            "id": 13,
+            "question": "Mobil dijital oyun sektöründe en çok indirme sayısına sahip olan oyun türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Açık dünya",
+                "Basit oynanan",
+                "Aksiyon",
+                "Rol yapma",
+                "Macera"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 7,
+            "topic": "Mobil Oyun Türleri",
+            "explanation": "Soru, mobil dijital oyun sektöründe en çok indirme sayısına sahip olan oyun türünü sormaktadır. Ünite 7'de, oyuncu sayısı bakımından şirket büyüklükleri listelenmiş, ancak oyun türlerinin indirme sayılarına göre sıralaması belirtilmemiştir. Ancak, Ünite 1'de oyun türleri listelenmiştir ve Ünite 7'de genel olarak bağımsız geliştiricilerin mobil oyunlara ağırlık verdiği ima edilmiştir. Genel eğilimler ve sektör raporları genellikle Aksiyon ve Macera türlerinin popüler olduğunu gösterir. Ancak, sunulan metinlerde doğrudan bir sıralama olmadığı için, genel mobil oyun popülerliğinde Aksiyon/Macera veya genellikle mobil cihazlarda yaygın olan türlerden birinin seçilmesi gerekir. Metinlerimizde en çok indirilen tür hakkında kesin bilgi olmamasına rağmen, Ünite 7'de oyun türleri listelenmiştir (Aksiyon, Macera vb.). Genellikle mobil oyunlarda Aksiyon ve Bulmaca türleri yüksek indirme sayılarına sahiptir. En güvenilir cevap için metinlere bakıldığında spesifik veri bulunmamaktadır, ancak genel eğilim Aksiyon/Macera'yı işaret eder. Mevcut metinlerimizde spesifik bir sıralama olmadığından, genellikle mobil platformlarda Aksiyon türünün baskın olduğu kabul edilir."
+        },
+        {
+            "id": 14,
+            "question": "Aşağıdakilerden hangisi dijital bir oyunun arama motorlarında daha üst sıraya çıkması için gerçekleştirilen süreci tanımlar?",
+            "options": [
+                "MMO",
+                "SEO",
+                "PUB",
+                "APK",
+                "RPG"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 7,
+            "topic": "SEO (Arama Motoru Optimizasyonu)",
+            "explanation": "Soru, bir dijital oyunun arama motorlarında daha üst sıraya çıkması için gerçekleştirilen süreci tanımlar. Ünite 7'de 'Pazarlama' bileşeninden bahsedilmiştir, ancak SEO tanımı açıkça verilmemiştir. Ünite 6'da ise 'Oyun İçi Reklam' başlığı altında yapay zekanın reklam yerleşimi ve optimizasyonundan bahsedilmiştir, ancak doğrudan arama motoru optimizasyonundan bahsedilmemektedir. Ancak 'Dijital Oyun Yayınlama Süreçleri' başlığı altında Pazarlama aşaması bulunur ki, bu aşama SEO'yu kapsar. Verilen seçenekler arasında en uygun başlık 'Pazarlama'dır, ancak bu süreç spesifik olarak 'SEO' olarak adlandırılır. Verilen metinlerde doğrudan SEO tanımı bulunmadığından, pazarlama faaliyetlerinin bir parçası olduğu varsayılır. Eğer seçenekler olsaydı, 'Pazarlama ve Reklam' en yakını olurdu. Soru, spesifik bir terim istediği için, metinlerdeki 'İletişim, pazarlama ve reklam' kısmı bu süreci kapsar."
+        },
+        {
+            "id": 15,
+            "question": "I. APK II. EXE III. AAB Yukarıdakilerden hangisi/hangileri oyun dosyası olarak Google Play Console'a yüklenebilir?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "II ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 7,
+            "topic": "Google Play Yükleme Dosyaları",
+            "explanation": "Soru, Google Play Console'a yüklenebilecek oyun dosyası formatlarını sormaktadır. Ünite 7'de Android Play Store'da oyun yayınlama adımları anlatılırken, 'Oyun kurulumunu yapma' aşamasından bahsedilir. Android uygulamaları için standart dosya formatı AAB (Android App Bundle)'dir. APK da kullanılabilir ancak AAB tercih edilen formattır. EXE ise masaüstü (PC) uygulamaları için kullanılan bir formattır. Metinde spesifik formatlar listelenmese de, Android için AAB (Android App Bundle) ve APK (Android Package Kit) kullanılırken, EXE Windows tabanlı oyunlar için kullanılır. Dolayısıyla I ve III doğru kabul edilir (AAB ve APK)."
+        },
+        {
+            "id": 16,
+            "question": "\"Oyun geliştirme sürecindeki testler ------- ve ------- terimleri ile de anılırlar.\" Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?",
+            "options": [
+                "kalite güvencesi/hata ayıklama",
+                "lisans Sözleşmesi/anlaşmalar",
+                "geliştirme/yayınlama",
+                "kontrol/değerlendirme",
+                "onay/geri bildirim"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 7,
+            "topic": "Oyun Test Süreçleri",
+            "explanation": "Soru, oyun geliştirme sürecinde testlerin hangi terimlerle anıldığını sormaktadır. Ünite 7'de Epic Games yayınlama adımlarında 'Oyunun Oluşturulması, Çeşitli Testlerin Yapılması, Yaş ve İçerik Derecelendirme İşlemlerinin Yapılması' ifadesi geçmektedir. Ancak, boşlukları dolduran spesifik terimler metin içinde yer almamaktadır. Ünite 7'de genel olarak 'Üretim' süreci altında 'testlerini gerçekleştirme' ifadesi geçmektedir. Metinde bu boşlukları dolduracak spesifik terimler bulunmamaktadır, ancak genel olarak testler 'Alpha' ve 'Beta' olarak adlandırılır. Bu terimler bu ünitede geçmese de, genel oyun geliştirme bilgisiyle cevaplanabilir. Metinlerdeki en yakın ifade 'Oyunun Oluşturulması, Çeşitli Testlerin Yapılması'dır."
+        },
+        {
+            "id": 17,
+            "question": "Gelecekte oyun geliştirmeyi oyuncu beklentileriyle uyumlu kılmak için yola çıkan aktörler bütününe ne ad verilir?",
+            "options": [
+                "Oyun ekibi",
+                "Sosyal oyunculuk",
+                "Build sistemi",
+                "Programlama ekosistemi",
+                "Çapraz oyunculuk"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 8,
+            "topic": "Gelecek Trendleri",
+            "explanation": "Soru, gelecek oyun geliştirme sürecini oyuncu beklentileriyle uyumlu kılmak için yola çıkan aktörler bütününü soruyor. Ünite 8'de, Goh, Al-Tabbaa ve Khan'ın (2023) gelecekteki trendleri arasında 'Kullanıcı psikolojisi ve müşteri ilişkileri' başlığı altında, oyuncuların beklentileri ve ruh hallerine göre oyunların tasarlanması gerektiği belirtilmiştir. Ayrıca, Değişen Oyuncu Profilleri ve Oyun Türlerine İlişkin Yeni Beklentiler başlığı altında oyuncuların beklentilerine uyumun önemi vurgulanmıştır. Metinde bu aktörler bütününe dair özel bir isim verilmemiştir, ancak en yakın kavram 'Kullanıcı psikolojisi ve müşteri ilişkileri' veya daha genel olarak 'Değişen Oyuncu Profilleri'dir."
+        },
+        {
+            "id": 18,
+            "question": "Aşağıdakilerden hangisi yakın bir gelecekte Sora ve benzeri platformların öngörülen gelişmelerinden biri <u>değildir</u>?",
+            "options": [
+                "Oyun senaristlerinin hayal güçlerini sesten metine-metinden videoya denemesi",
+                "Sahte oynanış videoları üreterek popülerlik ve portföy sağlaması",
+                "Farklı görsel ve metinsel öğeleri birleştirerek video kitaplar üretmesi",
+                "Edebi şaheserlerin oyunlarının görsel altyapısının sağlanması",
+                "Oyunlara entegre yapay zeka araçlarına destek sağlanmaması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 8,
+            "topic": "Sora ve Yapay Zekâ",
+            "explanation": "Soru, Sora ve benzeri platformların öngörülen gelişmelerinden biri olmayan seçeneği bulmayı gerektiriyor. Ünite 8'de Fields (2023) tarafından öngörülen 5 gelişme sıralanmıştır: 1. Sahte oynanış videoları, 2. Video kitapları, 3. Edebi eserlerin görsel altyapısının sağlanması, 4. Bağımsız geliştiricilerin stüdyolarla yarışması, 5. Oyun senaristlerinin hayal güçlerini anlık dönüştürmesi. Listedeki hiçbir madde 'Oyun motorlarının performansının artırılması' veya 'Oyun içi optimizasyon' gibi spesifik bir teknik iyileştirmeyi içermemektedir (bu daha çok genel YZ/optimizasyon konusudur). Bu bağlamda, listede olmayan bir çıkarım aranmalıdır. 'Oyun motorlarının performansının artırılması' ifadesi bu listede doğrudan yer almamaktadır (genel YZ gelişimi kapsamı dışında)."
+        },
+        {
+            "id": 19,
+            "question": "\"2019 yılı itibariyle Dünya Sağlık Örgütü (DSÖ) tarafından -------, uluslararası ortak hastalıklar sıralamasına 11. sıradan girmiştir.\" Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "depresyon",
+                "dijital obezite",
+                "dijital oyun bağımlılığı",
+                "dijital istifçilik",
+                "hareketsizlik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 1,
+            "topic": "Oyun Bağımlılığı",
+            "explanation": "Soru, DSÖ'nün uluslararası hastalıklar sıralamasına 'Oyun Bağımlılığı'nın hangi sıradan girdiğini sormaktadır. Ünite 1'de Oyunların Sosyopsikolojik Etkileri başlığı altında, oyun bağımlılığının öz saygı düşüklüğü, stres, DEHAB gibi sorunlarla ilişkili olduğu vurgulanmış, ancak DSÖ sıralaması veya sırası (11. sıra) hakkında bilgi verilmemiştir. Bu tür spesifik istatistikler ders içeriğinde yer almayabilir, ancak genel olarak oyun bağımlılığının bir sağlık sorunu olarak kabul edildiği Ünite 1'de belirtilmiştir."
+        },
+        {
+            "id": 20,
+            "question": "Gameband ve Supersuit örnekleri arasında yer alır. Bilgisayar başında olunmadan da oynanış sürdürülebilmektedir. Genç kesimin ekran zamanını azaltma, fiziksel aktivite ve sosyallik hedefleri ön plandadır. Yukarıda temel özellikleri verilen ve oyun dünyasının geleceğinde yer edineceği düşünülen teknoloji aşağıdakilerden hangisidir?",
+            "options": [
+                "E-spor",
+                "Bulut oyunculuğu",
+                "Yüz tanımalı oyunculuk",
+                "Sosyal oyunculuk",
+                "Gizlilik odaklı oyunculuk"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765",
+            "UniteNo": 8,
+            "topic": "Geleceğin Oyun Teknolojileri",
+            "explanation": "Soru, Gameband ve Supersuit örnekleriyle tanımlanan, fiziksel aktivite ve sosyalliği hedefleyen, ekran zamanını azaltmayı amaçlayan teknolojiyi sormaktadır. Ünite 8'de bu tür teknolojiye dair spesifik bir terim verilmemiştir. Ancak, Ünite 8'de 'Giyilebilir Oyunculuk' (Wearable Gaming) bir trend olarak listelenmiştir (Lucintel raporunda 4. madde). Gameband ve Supersuit gibi cihazlar, Artırılmış Gerçeklik ve fiziksel aktiviteyi birleştiren giyilebilir oyunculuk örnekleridir."
+        }
+    ]
+}

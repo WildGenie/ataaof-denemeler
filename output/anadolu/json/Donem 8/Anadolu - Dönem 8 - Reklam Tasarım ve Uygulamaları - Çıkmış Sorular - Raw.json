@@ -1,0 +1,604 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "I. Reklamı yapan kurum/kuruluş ya da kişinin belli olması<br>II. Reklamın ikna edici özelliğinin bulması<br>III. Reklamın bir bedel karşılığında gerçekleşmesi<br>IV. Reklamın bir tutundurma karması elemanı olması<br>V. Reklamın kişisel olmayan bir iletişim biçimi olması<br>Yukarıdaki özelliklerden hangisi/hangileri klasik reklam tanımının tartışılan noktaları arasında yer alır?",
+            "options": [
+                "Yalnız I",
+                "II ve III",
+                "I, III ve V",
+                "II, III, IV ve V",
+                "I, II, III, IV ve V"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 2,
+            "question": "Aşağıdaki reklam ajans türlerinin hangisinde medya ya da stratejik planlamadan ziyade yaratıcı konsept veya yaratıcı strateji geliştirme konusunda markalara hizmetler sunulur?",
+            "options": [
+                "Uzman reklam ajansı",
+                "Geleneksel reklam ajansı",
+                "Kurum içi reklam ajansı",
+                "Yaratıcı butik reklam ajansı",
+                "Medya ajansı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 3,
+            "question": "Tanımlanabilir bir marka tarafından etkinleştirilen ve tüketiciyi şimdi veya gelecekte bazı bilişsel, duyuşsal veya davranışsal değişiklikler yapmaya ikna etme amacı güden; ücretli, sahip olunan ve kazanılan medya üzerinden gerçekleştirilen aracılı iletişime ne ad verilir?",
+            "options": [
+                "Kurumsal İletişim",
+                "Halkla İlişkiler",
+                "Sponsorluk",
+                "Pazarlama",
+                "Reklam"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 4,
+            "question": "Aşağıdakilerden hangisi televizyonda yayımlanan ilk reklam filmi olarak değerlendirilir?",
+            "options": [
+                "Bulova Watch şirketinin reklam filmi",
+                "Kodak şirketinin reklam filmi",
+                "Ford şirketinin reklam filmi",
+                "Fox şirketinin reklam filmi",
+                "AT&T şirketinin reklam filmi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 5,
+            "question": "Packshot kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Reklamın doğru içgörü üzerine tasarlandığını ifade eden kavramdır.",
+                "Reklamın temel satış önerisinin konumlandığı andır.",
+                "Reklamı yapılan ürün/hizmete ait slogan ve logo gibi temel göstergelerin yer aldığı reklam filminin son sahnesidir.",
+                "Reklamda kullanılan ünlülerin reklam filminde görüldüğü sahnelerdir.",
+                "Reklamın hedef kitlesinin dikkatini çekmek için reklam filminde kullanılan taktiklerin genel adıdır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 6,
+            "question": "Aşağıdakilerden hangisi tüketici türleri/rolleri arasında yer <u>almaz</u>?",
+            "options": [
+                "Teşvik eden",
+                "Etkileyen",
+                "Satın alan",
+                "Eğlenen",
+                "Kullanan"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 7,
+            "question": "Aşağıdakilerden hangisi ikna edici reklam mesajlarını tasarlamak için farkında olunması gereken unsurlar arasında yer <u>almaz</u>?",
+            "options": [
+                "Ünlü kullanımı",
+                "Mesajın taraflılığı",
+                "Sunum sırası",
+                "Sonuca varma",
+                "Sözlü ve görsel mesajlar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 8,
+            "question": "Hedef pazarın benzer özelliklere sahip insan gruplarına bölünmesi işlemine ne ad verilir?",
+            "options": [
+                "Marka konumlandırma",
+                "Pazar segmentasyonu",
+                "Tüketici hedefleme",
+                "Strateji geliştirme",
+                "Rekabet çözümleme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 9,
+            "question": "pazarlama araştırması sonuçlarından elde edilen analizleri yorumlamaktan öte, reklamın amacına hizmet eden cevabı ve tüketicinin reklamda kendini bulmasını sağlayacak olan görüşü yakalayabilmektir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Ürün/hizmet değeri",
+                "Tüketici içgörüsü",
+                "Marka konumlandırma",
+                "Reklam vaadi",
+                "Medya stratejisi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 10,
+            "question": "Marka yöneticileri tarafından yazılan brief aşağıdakilerden hangisiyle adlandırılır?",
+            "options": [
+                "Müşteri briefi",
+                "Medya briefi",
+                "Ajans briefi",
+                "Yaratıcı brief",
+                "Debrief"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 11,
+            "question": "Aşağıdaki yaratıcı strateji türlerinden hangisi temel olarak tüketicilerin zihninde yer etme çabası olarak açıklanabilir?",
+            "options": [
+                "Duygusal strateji",
+                "Jenerik stratejisi",
+                "Konumlandırma stratejisi",
+                "Rezonans stratejisi",
+                "Marka imajı stratejisi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 12,
+            "question": "Temel noktası ürün ve hizmetin yokluğunda hedef kitlenin nasıl bir durumla karşılaşılacağının anlatılması olan yaratıcı reklamlarda kullanılan taktik aşağıdakilerden hangisidir?",
+            "options": [
+                "Absürt alternatif taktiği",
+                "Ters yüz etme taktiği",
+                "Mecaz taktiği",
+                "Harekete geçirme taktiği",
+                "Eksiltme taktiği"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 13,
+            "question": "Aşağıdaki yaratıcılık modellerinin hangisine göre yaratıcılık, sosyal ve kültürel bir varlık olan yaratıcı bireyin sosyal ve maddi bir çevre içerisinde ortaya koyduğu yaratıcı ürün ve süreçleri temsil eder?",
+            "options": [
+                "4C modeli",
+                "7P Modeli",
+                "4P Modeli",
+                "3B modeli",
+                "5A modeli"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 14,
+            "question": "Yaratıcılığın bilinçli gerçeklik ile bilinçaltı dürtüler arasındaki çatışmanın çözümünden kaynaklandığı yönündeki Freud'cu inanca dayanan yaratıcılık yaklaşımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Birleşme yaklaşımı",
+                "Pragmatik yaklaşım",
+                "Sosyal-kişilik yaklaşımı",
+                "Psikometrik yaklaşım",
+                "Psikodinamik yaklaşım"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 15,
+            "question": "Ted Bates reklam ajansından Rosser Reeves tarafından geliştirilen ve İngilizce kısaltması USP olan yaratıcı strateji türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Erken davranma stratejisi",
+                "Temel satış vaadi stratejisi",
+                "Jenerik strateji",
+                "Rezonans stratejisi",
+                "Marka imajı stratejisi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 16,
+            "question": "Aşağıdaki sanat akımlarından hangisi din olgusunun egemen olduğu Orta Çağ sanatından, insanı merkeze alan Antik Çağ felsefesine bir tür geri dönüşe işaret eder ve \"yeniden doğuş\" anlamına gelir?",
+            "options": [
+                "Modernizm",
+                "Barok",
+                "Post-Modernizm",
+                "Rönesans",
+                "Pop-Art"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 17,
+            "question": "Bir havayolu şirketinin sloganının \"uçma sanatı\" şeklinde olması, marka iletişiminde sanat kullanım biçimlerinden hangisine karşılık gelmektedir?",
+            "options": [
+                "Ürünün bir parçasını sanatsallaştırma",
+                "Görsel unsurda sanata referans verme",
+                "Metin unsurunda sanata referans verme",
+                "Markaya sanatsal deneyim ekleme",
+                "Reklamı sanatsal eyleme dönüştürme"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 18,
+            "question": "Perspektif kuramından yoksun olan tarzda figürler ve nesneler genellikle, gerçek uzamda yer aldıkları izlenimi vermekten öte, süsleme etkisi yaratacak biçimde verilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Klasik",
+                "Rokoko",
+                "Modern",
+                "Barok",
+                "Gotik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 19,
+            "question": "Genel olarak 17. yüzyıl kültürü ve sanatını adlandırırken kullanılan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Barok",
+                "Maniyerizm",
+                "Natüralizm",
+                "Neo Klasizm",
+                "Rokoko"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 20,
+            "question": "Aşağıdaki sanat akımlarından hangisi Pablo Picasso ve Georges Braque tarafından geliştirilmiştir?",
+            "options": [
+                "Ekspresyonizm",
+                "Fütürizm",
+                "Dadaizm",
+                "Kübizm",
+                "Fovizm"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618236"
+        },
+        {
+            "id": 21,
+            "question": "2024-2025 BAHAR DÖNEM SONU - A REKLAM TASARIM VE UYGULAMALARI<br>1. I. Ücreti ödenen medya II. Konvansiyonel medya III. Kazanılmış medya IV. Sahip olunan medya V. Yeni medya<br>Yukarıdakilerden hangileri POEM kavramını oluşturan medya türleri arasında yer alır?",
+            "options": [
+                "I ve IV",
+                "II ve III",
+                "I, III ve IV",
+                "II, IV ve V",
+                "I, III, IV ve V"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 22,
+            "question": "Aşağıdaki araştırma tekniklerinden hangisi bir moderatör eşliğinde ve belirlenen temalar üzerinden açık uçlu soruların katılımcılara sorulması şeklinde gerçekleştirilir?",
+            "options": [
+                "Davranışsal gözlem",
+                "Odak grup görüşmesi",
+                "Derinlemesine görüşme",
+                "Sosyal medya dinlemesi",
+                "Anket"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 23,
+            "question": "Aşağıdakilerden hangisi yaratıcı fikir bulma teknikleri arasında yer almaz?",
+            "options": [
+                "SES grubu tekniği",
+                "Zihin haritası tekniği",
+                "Gordon yöntemi tekniği",
+                "Piramit model",
+                "Beyin fırtınası tekniği"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 24,
+            "question": "Aşağıdaki düşünürlerin hangisine göre, reklamcıların işi araştırmalar yaparak reklamı bilimsel ve mekanik bir hâle getirmek değil, aksine bir sanatçı gibi hareket ederek yaratıcılığın peşinde koşmak olmalıdır?",
+            "options": [
+                "Bill Bernbach",
+                "David Ogilvy",
+                "Paul Rutherford",
+                "Marshall McLuhan",
+                "Andy Warhol"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 25,
+            "question": "Bir gazete reklamının yaklaşık 15-16 cm genişliğinde ve 25-26 cm uzunluğunda olması, reklamın hangi boyutta reklam olduğuna işaret etmektedir?",
+            "options": [
+                "Yarım sayfa reklamı",
+                "Çeyrek sayfa reklamı",
+                "Tam sayfa reklamı",
+                "Özel boyut reklamı",
+                "3 çeyrek sayfa reklamı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 26,
+            "question": "Aşağıdaki sayfa düzenlerinin hangisinde reklamı canlı kılmak, eğlenceli ve ilgi çekici hâle getirmek için birden fazla illüstrasyon, büyük boy yazı, ters bloklar, eğimler veya diğer ögelere yer verilir?",
+            "options": [
+                "Çerçeveli sayfa düzeni",
+                "Siluetli sayfa düzeni",
+                "Bulmaca sayfa düzeni",
+                "Dağınık sayfa düzeni",
+                "Çoklu panel sayfa düzeni"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 27,
+            "question": "Aşağıdakilerden hangisi, şehrin işlek noktalarında, insanların göz hizasına gelecek şekilde önü ve arkası cam olup reklamların çerçeveli bir şekilde muhafaza edildiği ve sergilendiği açık hava reklamı aracıdır?",
+            "options": [
+                "CLP",
+                "Megaboard",
+                "Alınlık",
+                "Giantboard",
+                "Homeboard"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 28,
+            "question": "Aşağıdakilerden hangisi bir mecradaki reklamların yoğun tekrarı ve medya içeriğine maruz kalmada izleyici ya da okuyucuda kesinti oluşturmasının bir ifadesidir?",
+            "options": [
+                "Reklam manipülasyonu",
+                "Reklam uyuşmazlığı",
+                "Reklam körlüğü",
+                "Reklam kirliliği",
+                "Reklam etkisi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 29,
+            "question": "Aşağıdaki çekim ölçeklerinden hangisi, genelde kurucu çekimler olarak adlandırılır ve mekânı, ortamı tasvir etmeye yarayan genel bir görünüm sunar?",
+            "options": [
+                "Ayrıntı çekim",
+                "Yakın çekim",
+                "Boy çekim",
+                "Çok uzak çekim",
+                "Hareketli çekim"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 30,
+            "question": "I. Açıklayıcı gösterim II. Yan yana gösterim III. Öncesi-sonrası gösterim IV. Dayanıklılık testi gösterimi V. Gösterimi yapanın güveni<br>Yukarıdakilerden hangileri gösterim anlatım formatının türleri arasında yer alır?",
+            "options": [
+                "I ve II",
+                "III ve IV",
+                "I, III ve IV",
+                "I, II, III ve IV",
+                "I, II, III, IV ve V"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 31,
+            "question": "Aşağıdaki reklam anlatım formatlarından hangisi, müşterilerin ürüne verdikleri önceden yazılmamış gerçek tepkilerin kayda alınması biçiminde karşımıza çıkar?",
+            "options": [
+                "Yaşamdan kesit",
+                "Gösterim",
+                "Tanıklık",
+                "Problemler ve çözümler",
+                "Ürün öykünü"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 32,
+            "question": "Kameranın yatay eksen üzerinde sağa ve sola çevrilerek yaptığı harekete ne denir?",
+            "options": [
+                "Pan",
+                "Dolly",
+                "Zoom",
+                "Crane",
+                "Tilt"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 33,
+            "question": "Aşağıdakilerden hangisi görüntülü (display) reklam çeşitleri arasında yer <u>almaz</u>?",
+            "options": [
+                "Video reklamlar",
+                "Zengin medya reklamları",
+                "E-posta reklamları",
+                "Banner reklamlar",
+                "Geçiş reklamları"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 34,
+            "question": "--------, reklamverenin mevcut ve potansiyel hedef kitleye yönelik reklam mesajlarını çevrimiçi kanallar olan arama motorları, web siteleri, bloglar, sosyal medya aracılığıyla dijital ortamda iletmesi olarak tanımlanabilir.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Banner reklamcılığı",
+                "Sosyal medya reklamcılığı",
+                "İnternet reklamcılığı",
+                "Sanal gerçeklik reklamcılığı",
+                "Geleneksel reklamcılık"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 35,
+            "question": "Aşağıdaki mobil reklam formatlarından hangisi, izleyicilerin çevrimiçi bir videoyu izlemesinden önce, izlemesi sırasında ve sonrasında oynatılır?",
+            "options": [
+                "Geçiş reklamları",
+                "Doğal reklamlar",
+                "Banner reklamlar",
+                "Uygulama içi reklamlar",
+                "Yayın içi video reklamlar"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 36,
+            "question": "Aşağıdakilerden hangisi dijital nesnelerin gerçek dünyaya aktarılmasının yanı sıra kokusal veya dokunsal bilgileri de gerçek dünyadaki kullanıcıların algılarına dahil ederek, katılımcı bir deneyim yaratmaya imkân sağlamaktadır?",
+            "options": [
+                "Sanal gerçeklik",
+                "Yapay zeka",
+                "Nesnelerin interneti",
+                "QR kod",
+                "Artırılmış gerçeklik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 37,
+            "question": "Aşağıdakilerden hangisi reklamların izleyiciyi anlamlandırma etkisine çektiği yöntemler arasında yer almaz?",
+            "options": [
+                "Mekansal düzenleme",
+                "Marka farkındalığı",
+                "Görsel eksiklikler",
+                "Yazılı metin",
+                "Tipografi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 38,
+            "question": "Beynin yüzlerce duyuyu birleştirdikten sonra meydana gelen anlamlı duyusal deneyimler ne olarak adlandırılır?",
+            "options": [
+                "İmaj",
+                "İmge",
+                "Farkındalık",
+                "İlgi",
+                "İlgi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 39,
+            "question": "Aşağıdakilerden hangisi fiziksel özellikler sürekli değişmesine rağmen boyut, şekil ve parlaklıkları değişmemiş olarak algılama eğilimimiz şeklinde tanımlanmaktadır?",
+            "options": [
+                "Algıda kopukluk",
+                "Algıda değişmezlik",
+                "Algısal bütünlük",
+                "Algısal sürdürülebilirlik",
+                "Algıda şüphecilik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        },
+        {
+            "id": 40,
+            "question": "Aşağıdakilerden hangisi dilbilimciler arasında çağdaş dilbilimin kurucusu ve yapısal dilbilim akımının öncüsü olarak görülür?",
+            "options": [
+                "Paul Watzlawick",
+                "Walter Benjamin",
+                "Carl Hovland",
+                "Herbert Marcuse",
+                "Ferdinand de Saussure"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622608"
+        }
+    ]
+}

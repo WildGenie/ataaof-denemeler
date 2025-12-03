@@ -1,6 +1,13 @@
 # Türk Dili II
 
-## Ders İçerikleri
-- [Sorularla Ogrenelim.md](Sorularla%20Ogrenelim.md)
+## Ders Materyalleri
 
-## Materyaller
+### [📚 Sorularla Öğrenelim](Sorularla%20Ogrenelim.md)
+
+### [✏️ Alıştırma Soruları](Al%C4%B1%C5%9Ft%C4%B1rma%20Sorular%C4%B1.md)
+
+---
+## Diğer Materyaller
+
+
+[🔙 Ana Sayfaya Dön](../../index.md)

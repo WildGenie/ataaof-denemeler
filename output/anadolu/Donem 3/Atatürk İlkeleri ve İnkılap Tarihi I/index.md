@@ -1,4 +1,4 @@
-# Türk Dili I
+# Atatürk İlkeleri ve İnkılap Tarihi I
 
 ## Ders Materyalleri
 

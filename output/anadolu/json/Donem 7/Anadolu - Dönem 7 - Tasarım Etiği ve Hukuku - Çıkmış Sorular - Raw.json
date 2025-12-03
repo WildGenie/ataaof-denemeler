@@ -1,0 +1,604 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Aşağıdakilerden hangisi etik sorunların özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "Seçimlerin mutlak doğru ya da yanlış olması",
+                "Çeşitli nedenlerden dolayı çözüm yolunun seçilememesi",
+                "Seçimlerin istenmedik sonuçlara yol açabilmesi",
+                "Seçimlerin insan ve toplum ilişkileri üzerine dolaylı etkilerinin olması",
+                "Herhangi bir sorunun çözümünde istenmedik seçimlerin söz konusu olması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 2,
+            "question": "Aşağıdakilerden hangisi etik sorun türlerinden biri <u>değildir</u>?",
+            "options": [
+                "Ahlaki sıkıntı",
+                "Etik kararsızlık",
+                "Etik ihlal",
+                "Etik ikilem",
+                "Ahlaki belirsizlik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 3,
+            "question": "Etik karar verme sürecinde etik soruna neden olan faktörlerin gözden geçirildiği aşama aşağıdakilerden hangisidir?",
+            "options": [
+                "Seçenekleri belirleme",
+                "Sorunu tanımlama",
+                "Etik yönden değerlendirme",
+                "Eyleme karar verme",
+                "Sonuçları inceleme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 4,
+            "question": "Etik ilkeler ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Etik ilkeler insan eylemlerinin nasıl iyi olacağını belirlemektedir.",
+                "İlkeler çok genel ve dayatıcı olmayan biçimde ortaya konulmuştur.",
+                "İlkelere uyulmadığı takdirde hukuksal düzenlemeler söz konusu olmaktadır.",
+                "Etik ilkeler evrenseldir.",
+                "Etik ilkeler varsayımsal olarak bağlayıcıdır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 5,
+            "question": "Aşağıda verilen durumlardan hangisi etik duyarlılığı <u>etkilemez</u>?",
+            "options": [
+                "Etik kurallara ilişkin farkındalık",
+                "Diğer çalışma arkadaşlarının etik olmayan davranışları",
+                "Etik eğitimi",
+                "Dini ve kültürel değerler",
+                "Ekonomik değerler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 6,
+            "question": "'Poetika' adlı eserinde şiir sanatının kökeni üzerine yazmış olduğu ünlü metin nedeniyle sanat kuramının babası olarak kabul edilen kuramcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Aristoteles",
+                "Platon",
+                "Marks",
+                "Rousseau",
+                "Kant"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 7,
+            "question": "Alman filozof Schopenhauer'e göre sanat ile ilgili aşağıdaki ifadelerden hangisi <u>doğrudur</u>?",
+            "options": [
+                "Hayatın anlamıdır.",
+                "İnsanı köreltir ve yalnızlaştırır.",
+                "Sevginin ifadesidir.",
+                "Doğanın anlaşılmaz ifadesidir.",
+                "Neşe kaynağıdır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 8,
+            "question": "Sanayi ürünü kullanım nesnelerini sanat aracı olarak kullanma fikrini ilk ortaya atan sanatçı kimdir?",
+            "options": [
+                "Whiteread",
+                "Zaha Hadid",
+                "Pierre Auguste Renoir",
+                "Michelangelo",
+                "Marcel Duchamp"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 9,
+            "question": "Aşağıdakilerden hangisi bir eserin sanat eseri sayılması için sanatçının dolaylı veya dolaysız etkileşim içinde olması gereken kişilerden biri <u>değildir</u>?",
+            "options": [
+                "Eğitmen",
+                "Koleksiyoncu",
+                "Eleştirmen",
+                "Küratör",
+                "İzleyici"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 10,
+            "question": "Aşağıdakilerden hangisi 'yedi özgür sanat' olarak ifade edilen sanat dallarından biri <u>değildir</u>?",
+            "options": [
+                "Geometri",
+                "Retorik",
+                "Mantık",
+                "Resim",
+                "Gramer"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 11,
+            "question": "Aşağıdakilerden hangisi fikri ve sınai mülkiyet haklarından biri <u>değildir</u>?",
+            "options": [
+                "Bir kamp çadırı üzerinde kullanılan marka hakkı",
+                "Bir kitaba ilişkin yaşam hakkı",
+                "Bir ışıklı oyuncak şarjı faydalı modeline ilişkin hak",
+                "Bir buluşa ilişkin patent hakkı",
+                "Bir heykele ilişkin telif hakkı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 12,
+            "question": "6769 sayılı Sınai Mülkiyet Kanunu'na göre aşağıdaki konu ve faaliyetlerden hangisi buluş niteliğinde kabul edilerek patentlenebilir?",
+            "options": [
+                "Bilimsel teoriler",
+                "Keşifler",
+                "İlaçlar",
+                "Matematiksel yöntemler",
+                "Zihni faaliyetler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 13,
+            "question": "6769 sayılı Sınai Mülkiyet Kanunu'na göre başvuru tarihinden başlamak üzere faydalı modelin koruma süresi kaç yıldır?",
+            "options": [
+                "1",
+                "3",
+                "5",
+                "10",
+                "25"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 14,
+            "question": "Aşağıdakilerden hangisi 5846 sayılı Fikir ve Sanat Eserleri Kanunu kapsamında korunmaz?",
+            "options": [
+                "Piyano konçertosu",
+                "Benzin tüketimini azaltan bir alet",
+                "Heykel",
+                "Suluboya tablo",
+                "Bale koreografisi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 15,
+            "question": "Tasarım hukukunda 'bilgilenmiş kullanıcı' ile ilgili aşağıdaki ifadelerden hangisi <u>doğrudur</u>?",
+            "options": [
+                "Tasarımın üreticisidir.",
+                "Tasarımın e-ticaretini yapandır.",
+                "İlgili tasarım alanındaki teknik uzmandır.",
+                "İlgili sektörde bu tür tasarımların olduğunu bilen dikkatli ve deneyimli ürün kullanıcısıdır.",
+                "Tasarımın tasarımcısıdır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 16,
+            "question": "5846 sayılı Fikir ve Sanat Eserleri Kanunu ek madde 8 kapsamında veri tabanı yatırımcısının sui generis (kendine özgü) koruma hakkından yararlanabilmesinin koşulu aşağıdakilerden hangisidir?",
+            "options": [
+                "Veri tabanının içeriğinin oluşturulması, doğrulanması veya sunumunun yeni olması",
+                "Veri tabanının içeriğinin oluşturulmasına, doğrulanmasına veya sunumuna nitelik ve nicelik açısından, esaslı bir nispet dahilinde yatırım yapılması",
+                "Veri tabanının içeriğinin oluşturulması, doğrulanması veya sunumunun düşünce yaratıcılığı sonucunda ortaya çıkması",
+                "Veri tabanının içeriğinin oluşturulması, doğrulanması veya sunumunda özgün olması",
+                "Veri tabanının içeriğinin oluşturulması, doğrulanması veya sunumunun yapımcısının hususiyetini taşıyor olması"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 17,
+            "question": "Ada, bir reklam ajansında fotoğrafçı olarak çalışmaktadır. Ada şirket tarafından yürütülen bir reklam kampanyası kapsamında fotoğraflar çekmiştir. Buna göre söz konusu fotoğrafların eser olduğu kabul edilirse hakları kullanma yetkisi ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Fotoğraflar Ada'nın işini yaparken meydana getirilmiş olsa da eser sahipliği Ada'ya aittir.",
+                "Somut olayda hakları kullanma yetkisine sahip olan kişi işverendir ve fotoğrafları kullanmak için kullanmadan önce Ada'ya haber vermesi gerekmez.",
+                "Fotoğraflar Ada'nın işini yaparken meydana getirildiği için işverenin fotoğrafları çoğaltmak ve yaymak için Ada'dan izin alması gerekmez.",
+                "Ada'nın kampanya dışında kendi hobisi için çektiği fotoğrafların eser sahibi Ada'dır ve bu fotoğraflar üzerindeki hakları kullanma yetkisi yine Ada'nındır.",
+                "Ada işten ayrıldıktan sonra sözleşmede aksi kararlaştırılmamışsa işveren fotoğrafları kullanmak için Ada'dan izin almak zorundadır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 18,
+            "question": "Eser sahibinin hakları ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Eser sahipliği devredilebilir.",
+                "Manevi haklar devredilemez, sadece kullanma yetkisi verilebilir.",
+                "Manevi haklar mirasla intikal etmez.",
+                "Manevi haklar da mali haklar da sınırlı sayıdadır.",
+                "Kültür Bakanlığı'na manevi hakların korunmasına ilişkin bir yetki verilmiştir, Bakanlık bu yetkiyi tüm eserler bakımından kullanabilir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 19,
+            "question": "Bağlantılı hak sahiplerinden hangisinin manevi haklar arasında bulunmamaktadır?",
+            "options": [
+                "Fonogram yapımcıları",
+                "İcrayı organize eden müteşebbisler",
+                "İcracı sanatçılar",
+                "Radyo TV kuruluşları",
+                "Film yapımcıları"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 20,
+            "question": "Aşağıdakilerden hangisi için eser sahibinden izin almaya gerek <u>yoktur</u>?",
+            "options": [
+                "Bir müzik eserinin yeniden düzenlenmesi (cover)",
+                "Bir müzik eserinin bir videonun altına döşenmesi (senkronize edilmesi)",
+                "Bir fotoğrafın illüstrasyonu",
+                "Bir kitabın sinema filmine uyarlanması",
+                "Nazım Hikmet'in bir şiirinde geçen \"saçları saman sarısı kirpikleri mavi\" dizesinden esinlenilerek yapılan bir tablo"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591752"
+        },
+        {
+            "id": 21,
+            "question": "Bir kavram konu ve disiplin olarak uygulamalı felsefenin alt dalı kabul edilerek değerler felsefesinin içinde yer alan ve törebilim/ahlak felsefesi olarak da adlandırılan kavrama ne ad verilir?",
+            "options": [
+                "Felsefe",
+                "Ahlak",
+                "Erdem",
+                "Etik",
+                "Hukuk"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 22,
+            "question": "Aşağıdakilerden hangisi sanat dalları sınıflandırmasında kavramsal sanat alanında yer alır?",
+            "options": [
+                "Enstalasyon",
+                "Seramik",
+                "Grafik",
+                "Destan",
+                "Mimarlık"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 23,
+            "question": "Fikri hukuk anlamında komşu haklar kavramı ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Bir şiiri özgün şekilde okuyan, komşu haklara sahiptir.",
+                "Bir şarkının bestecisi komşu haklara sahiptir.",
+                "Radyo kuruluşlarının komşu hakları vardır.",
+                "Televizyon kuruluşlarının komşu hakları vardır.",
+                "Fonogram yapımcılarının komşu hakları vardır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 24,
+            "question": "Aşağıdakilerden hangisinin 5846 sayılı Fikir ve Sanat Eserleri Kanunu kapsamında eser olarak korunması <u>mümkün değildir</u>?",
+            "options": [
+                "Cep telefonu ile çekilen fotoğraf",
+                "İş yapma yöntemi",
+                "Video oyunlarının unsurları",
+                "Dizi filmler",
+                "Şiirler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 25,
+            "question": "Tasarım koruması ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Tescilsiz tasarımlar korunamaz.",
+                "Tasarimlar 6769 sayılı Sınai Mülkiyet Kanunu ile korunur.",
+                "Tasarım mevzuatı ile yenilik ve ayırt edici niteliğe sahip tasarımlar korunur.",
+                "Tasarım koruması, görünüm ile ilişkilidir.",
+                "Koruma koşullarını sağlayan tasarımlar için tescil başvurusunda bulunulabilir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 26,
+            "question": "Bilgilenmiş kullanıcı ile ilgili aşağıdaki ifadelerden hangisi <u>doğrudur</u>?",
+            "options": [
+                "Değerlendirmeye konu tasarım hakkında bilgi sahibi olan, piyasayı tanıyan, bilen, benzer tasarımlar hakkında bilgi ve/veya kullanım deneyimine sahip farazi bir kimse olarak kabul edilir.",
+                "Bilirkişi ile eş anlamlıdır.",
+                "Ortalama tüketici ile eş anlamlıdır.",
+                "Buluş sahibi kimseler olmaları koşulu vardır.",
+                "Tasarimlar konusunda uzmandır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 27,
+            "question": "Bir tasarımın ilgili mevzuat açısından yeni olduğunun kabulü için o tasarımın <u>olması gerekir</u>. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "dünyanın herhangi bir yerinde daha önce kamuya sunulmamış",
+                "orijinallik kriterini sağlamış",
+                "seçenek özgürlüğünün özgün",
+                "en az 5 yıl önce üretilmiş",
+                "patent almış"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 28,
+            "question": "Tasarimlarla ilgili aşağıdaki ifadelerden hangisi <u>doğrudur</u>?",
+            "options": [
+                "Tasarım tescili ile marka tescili eş anlamlıdır.",
+                "Tasarimlar için koruma koşulları yenilik ve ayırt edici niteliktir.",
+                "Tasarımlar için koruma koşulları orijinallik ve kalitedir.",
+                "Tasarım koruması işleve yöneliktir.",
+                "Tasarımlar buluşları korumaktadır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 29,
+            "question": "Kullanım yoluyla ayırt ediciliği bulunmayan aşağıdaki marka başvurularının hangisi mutlak tescil engeline takılmayarak tescil edilir?",
+            "options": [
+                "Adaleti temsil eden Themis figürünün tek başına hukuk hizmetleri için tescili",
+                "\"Erciyes Su\" sözcüğünün Uludağ'dan gelen kaynak sular için tescili",
+                "\"ABC Doğrama\" sözcük ve marangozluk hizmetleri için tescili",
+                "En üstün sözcüğünün herhangi bir sınıf için tescili",
+                "Müzik için sarı renkte meyve grafiği"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 30,
+            "question": "ISO 9000 markası ile ilgili aşağıdaki ifadelerden hangisidir?",
+            "options": [
+                "Vekil markasıdır.",
+                "Ortak markadır.",
+                "Ferdi markadır.",
+                "Garanti markasıdır.",
+                "Ses markasıdır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 31,
+            "question": "Ressam ibaresinin resim malzemelerinde kullanım yoluyla ayırt edicilik kazanmasını aşağıdakilerden hangisi mümkün kılar?",
+            "options": [
+                "İşaretin tasviri niteliğinden uzaklaşmasını ve piyasada artık bir işletmenin markası olarak algılanmaya başlamasını sağlayacak şekilde markasal kullanımı",
+                "Ressam ibaresi taşıyan ürünlerin sadece 20 kişiye satılmış olması",
+                "Almanya'da kullanılmış olması",
+                "Ürünün eklenmesiz, tanıtımsız bir aydır küçük bir ofiste kullanılıyor olması",
+                "Ressam ibaresinin sadece takvimlerde ve ajandalarda (tanınımı)"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 32,
+            "question": "Tescilli markanın ne zaman yenilenmesi gerekir?",
+            "options": [
+                "Markanın başvuru tarihinden 3 yıl sonra",
+                "Markanın başvuru tarihinden 5 yıl sonra",
+                "Markanın başvuru tarihinden 10 yıl sonra",
+                "Markanın başvuru tarihinden 20 yıl sonra",
+                "Markanın başvuru tarihinden 25 yıl sonra"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 33,
+            "question": "Bir ürünün ambalaj tasarımı, hukukta hangi hükümler kapsamında korunmaktadır?",
+            "options": [
+                "Haksız rekabet hukuku",
+                "Sınai mülkiyet hukuku",
+                "Rekabet hukuku",
+                "Borçlar hukuku",
+                "İş hukuku"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 34,
+            "question": "6102 sayılı Ticaret Kanunu'na göre hangi kural haksız rekabetin tespitinde belirleyicidir?",
+            "options": [
+                "Müşterinin korunması",
+                "Dürüstlük kuralı",
+                "Ekonominin korunması",
+                "Rekabetin korunması",
+                "Rakibin korunması"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 35,
+            "question": "Haksız rekabet fiilini işleyen, haksız rekabetin mağduru ve dava açma hakkı ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Haksız rekabet, tacirler arasında veya esnaflar arasında veya müşteri ile işletmeci arasında olabilir.",
+                "Tüketici dernekleri dava açma ehliyetine sahiptir.",
+                "Memur, haksız rekabet davası açabilir.",
+                "Haksız rekabet nedeniyle zarar görmüş veya zarar tehlikesi içinde olan kişi mağdur olarak nitelenebilir.",
+                "Haksız rekabet fiilini sadece tacirler işleyebilir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 36,
+            "question": "6102 sayılı Ticaret Kanunu m. 54/1'e göre haksız rekabete ilişkin kuralların amacı bütün katılanların menfaatine dürüst ve bozulmamış rekabetin sağlanmasıdır. Buna göre 'bütün katılanlar' kavramına dahil ögeler aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Rakip, tüketici",
+                "Ekonomi, tüketici",
+                "Kamu, tüketici, ekonomi",
+                "Ekonomi, kamu",
+                "Tüketici, kamu"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 37,
+            "question": "5846 sayılı Fikir ve Sanat Eserleri Kanunu'na göre eser birden fazla kişi tarafından ortaklaşa meydana getirildiğinde ve eserin tamamlanmasından veya alenileştirilmesinden önce ortaklardan biri vefat ettiğinde vefat eden ortağın mali hak hissesinin akıbeti ne olur?",
+            "options": [
+                "Eserin mülkiyeti kimdeyse ona geçer.",
+                "Devlete geçer.",
+                "Vefat eden ortağın mirasçılarına geçer.",
+                "Diğer ortaklar arasında paylaştırılır.",
+                "Kamuya ait olur."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 38,
+            "question": "5846 sayılı Fikir ve Sanat Eserleri Kanunu'na göre eser sahipleri hangi koşullar altında mali haklarını başkalarına devredebilir?",
+            "options": [
+                "Yalnızca sınırlı süre için ve mutlaka karşılıklı olarak",
+                "Yalnızca sınırlı ve karşılıksız olarak",
+                "Süre, yer ve içerik itibariyle sınırlı veya sınırsız, karşılıklı veya karşılıksız olarak",
+                "Sadece belirli bir bölge ile sınırlı olarak",
+                "Yalnızca sınırsız ve karşılıklı olarak"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 39,
+            "question": "Mali haklarla ilgili sözleşmelerin geçerliliği için 5846 sayılı Fikir ve Sanat Eserleri Kanunu hangi şeklî şartı öngörür?",
+            "options": [
+                "Sözleşmelerin noter onaylı olması",
+                "Eser sahibinin sözlü onayı",
+                "Eserin kamuya açık bir şekilde sergilenmesi",
+                "Sözleşmelerin ses kaydı altına alınması",
+                "Sözleşmelerin yazılı olması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        },
+        {
+            "id": 40,
+            "question": "5846 sayılı Fikir ve Sanat Eserleri Kanunu uyarınca 'tekeffül' ne anlama gelir?",
+            "options": [
+                "Devir",
+                "Vazgeçme",
+                "Lisans",
+                "Garanti",
+                "Sorumluluk"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596764"
+        }
+    ]
+}

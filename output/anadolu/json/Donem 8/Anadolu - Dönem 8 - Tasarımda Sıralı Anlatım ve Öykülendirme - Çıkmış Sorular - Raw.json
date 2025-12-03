@@ -1,0 +1,604 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Çoklu medya ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Farklı platformlar arasında güçlü bir bağlantı ve tutarlılık vardır.",
+                "Transmedya hikaye anlatıcılığı ile aynı anlama gelmektedir.",
+                "Grafik, resim, video ve ses gibi farklı medya türleri bir araya getirilir.",
+                "Bir hikâyeyi farklı platformlarda genişleterek daha zengin bir deneyim sunmayı amaçlar.",
+                "Transmedya ile aynı anlama gelir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 2,
+            "question": "I. Bilginin sürekli zenginleştirilmesini sağlar.<br>II. Bilginin eş zamanlı koordinasyonunu sağlar.<br>III. Becerilerin etkili bir biçimde nakledilmesini sağlar.<br>Kolektif zekanın temel ilkeleri ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "I ve II",
+                "I ve III",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 3,
+            "question": "Hikâyenin ana hatlarının değişmediği, sadece yayınlanacağı coğrafyanın kültürüne göre küçük biçimsel değişikliğe uğrayabildiği süreç aşağıdakilerden hangisidir?",
+            "options": [
+                "Çeviri",
+                "Yakınsama",
+                "Çapraz medya",
+                "Çoklu medya",
+                "Adaptasyon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 4,
+            "question": "Aşağıdakilerden hangisi \"Durumlar, Olaylar, Eylemler\" stratejisi ile analiz edilebilecek bir örnektir?",
+            "options": [
+                "Bir karakterin bir odada oturması",
+                "Bir karakterin geçmişine dair bir anı",
+                "Bir karakterin diğer bir karakterle olan ilişkisi",
+                "Bir karakterin yaşadığı bir şehir",
+                "Bir karakterin kullandığı bir nesne"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 5,
+            "question": "Çeşitli kanallardan ve farklı dillerde sunulan içerikleri tüketip kurgusal dünyaya daha kapsamlı alanlar ekleme çabası içinde olan medya tüketicisi aşağıdakilerden hangisidir?",
+            "options": [
+                "Tek kanal tüketicileri",
+                "Tek metin tüketicileri",
+                "Transmedya tüketicileri",
+                "Sadık metin tüketicileri",
+                "İnovatif tüketiciler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 6,
+            "question": "Freytag dramatik yapısı, antik dünyanın hangi iki eserinden ödünç alınmıştır?",
+            "options": [
+                "Homeros'un İlyada'sı ve Vergilius'un Aeneis'i",
+                "Ovidius'un Metamorfozları ve Sappho'nun Şiirleri",
+                "Platon'un Devlet'i ve Sokrates'in Savunması",
+                "Aristoteles'in Poetika'sı ve Horace'ın Ars Poetica'sı",
+                "Sophokles'in Kral Oidipus'u ve Euripides'in Medea'sı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 7,
+            "question": "Instagram platformu, kullanıcıların hangi tür hikâye anlatımı ile meşgul olmalarına olanak tanır?",
+            "options": [
+                "Yalnızca metin tabanlı anlatılar",
+                "Görsel hikâye anlatımı",
+                "Mikro-anlatılar",
+                "Geleneksel dramatik yapı",
+                "Sesli anlatılar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 8,
+            "question": "Veri odaklı yapay zekânın, tasarım sürecine sağladı fayda aşağıdakilerden hangisidir?",
+            "options": [
+                "Kullanıcı davranışlarını görmezden gelir.",
+                "Tüm kullanıcılar için aynı görsel içeriklerin kullanılmasını önerir.",
+                "Kullanıcı tercihleri doğrultusunda hedefli görsel anlatılar oluşturur.",
+                "Sadece görsel estetiği artırmaya odaklanır.",
+                "Tasarımcıların yalnızca genel verilere odaklanmasını sağlar."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 9,
+            "question": "Hiper metinin anlatının doğrusal doğasına katkısı aşağıdaki ifadelerden hangisidir?",
+            "options": [
+                "Kullanıcıya kendi anlatı yolunu oluşturma imkânı tanır.",
+                "Anlatıyı sabit ve sıralı hale getirir.",
+                "Anlatıyı tek bir yol üzerinden ilerletir.",
+                "Yazarın sesini daha da merkezileştirir.",
+                "Anlatıyı daha az erişilebilir hale getirir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 10,
+            "question": "Etkileşimli medya, kullanıcıların anlatıyla olan ilişkisini nasıl değiştirir?",
+            "options": [
+                "Anlatıyı doğrusal hale getirir.",
+                "Kullanıcıların içerik üzerinde hiçbir kontrol sağlamamasına yol açar.",
+                "Kullanıcıları tamamen pasif bir konuma indirger.",
+                "Kullanıcıların anlatının yönünü etkileyebileceği bir katılımcı kültür oluşturur.",
+                "Yalnızca tek bir sonuç sunar."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 11,
+            "question": "Aşağıdakilerden hangisi insan veya nesi olabilen en az iki varlığın etkin bir ilişki içerisinde bulunmasını ifade eder?",
+            "options": [
+                "Gömülme",
+                "Çevresel Akışkanlık",
+                "Kimliğin muğlaklığı",
+                "Etkileşim",
+                "Swayze etkisi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 12,
+            "question": "Aşağıdakilerden hangisi geleneksel medyaya bir örnektir?",
+            "options": [
+                "Basılı gazete haberi",
+                "Sanal gerçeklik filmi",
+                "Artırılmış gerçeklik reklamı",
+                "Genişletilmiş gerçeklik uygulaması",
+                "Bilgisayar oyunu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 13,
+            "question": "Marcos Novak'ın \"Siber uzayın maddesizleşmiş, hareketli (dans eden), karmaşık mimarisi ön görülemez, dünyevi olmayan ve değişken doğaya sahip yapısı dünyanın her köşesine aynı anda iletilebilir fakat ancak dolaylı olarak dokunulabilir ve bu mimari belki de tüm zamanlar içerisinde tasarlanmış en kalıcı yapı haline gelebilir.\" sözleriyle açıkladığı siber uzay, genişletilmiş gerçeklik içerisindeki hangi terimi açıklayan bir örnektir?",
+            "options": [
+                "Çevresel akışkanlık",
+                "Yapay eylemsellik",
+                "Etkileşim",
+                "Gömülme",
+                "Kimliğin muğlaklığı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 14,
+            "question": "Aşağıdakilerden hangisi mekan tabanlı sanal gerçeklik (Location Based VR) anlatı uygulamalarına bir örnektir?",
+            "options": [
+                "Hareket simülatörünün üzerinde sinema perdesinde film izlemek",
+                "Hareket simülatörünün üzerinde sanal gerçeklik gözlüğü ile dinozor safarisine çıkmak",
+                "Artırılmış gerçeklik gözlüğü ile Pokemon Go oynamak",
+                "Artırılmış gerçeklik gözlüğü ile sanat sergisindeki resimleri incelemek",
+                "Tiyatro oyununda alkış ile oyuncuların kararlarını değiştirmek"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 15,
+            "question": "Aşağıdakilerden hangisi Gary Zabel'ın sanal dünyalar için belirlediği genel özelliklerden biridir?",
+            "options": [
+                "Kimliğin muğlaklığı",
+                "Kod çevrimi",
+                "Statik uzam",
+                "Basılı olması",
+                "Simülatif olması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 16,
+            "question": "I. Oyun başlangıcından günümüze modayı, müziği ve eğlenceyi etkileyerek kültürel bir ikon haline gelmiştir.<br>II. İlk olarak 1982 yılında Hanna-Barbera tarafından üretilen bir animasyon televizyon dizisine uyarlanmıştır.<br>III. Pac-Man, Pac-Man Plus ve Pac-Land gibi her biri yeni unsurlar ekleyen ve Pac-Man evrenini genişleten çok sayıda yan oyun da piyasaya sürülmüştür.<br>IV. Pac-man kültürel bir fenomen olarak yaygınlığına karşın müzik alanında etki yaratmamıştır.<br>Transmedyal bir örnek olarak Pac-Man oyununa dair yukarıdakilerden hangisi/hangileri yanlıştır?",
+            "options": [
+                "Yalnız III",
+                "Yalnız IV",
+                "I ve II",
+                "I ve III",
+                "II ve IV"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 17,
+            "question": "I. Kullanıcı tarafından oluşturulan içeriği teşvik ederler.<br>II. Hayranlar bu platformlar aracılığıyla, hayran kurgusu ve hayran sanatı üretimlerinde bulunur.<br>III. Bu platformlar aracılığıyla sosyalleşmek mümkün değildir.<br>Transmedya anlatı platformu haline gelen oyunlarla ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "Yalnız III",
+                "I ve II",
+                "II ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 18,
+            "question": "I. Bir oyunun anlatısını, mitolojisini ve dünya inşasını orijinal mecrasının ötesine taşımaktır.<br>II. Çeşitli platformlarda zengin ve birbirine bağlı bir deneyim yaratır.<br>III. Oyun geliştiricileri bu sayede farklı kitleleri çekebilir ve seriye olan ilgili sürdürebilir.<br>Transmedya bağlamında \"genişletilmiş evren\" kavramı ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız III",
+                "I ve II",
+                "I ve III",
+                "I, II ve III",
+                "II ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 19,
+            "question": "I. Transmedya kavramı, video oyunlarının medya manzarasında önem kazanmaya başladığı, oyun endüstrisinin ilk günlerine kadar uzanmaktadır.<br>II. Video oyunları, doğaları gereği sahip oldukları etkileşim ve katılımla oyunculara hikâye anlatımı sürecinde aktif roller sunmaktadırlar.<br>III. Oyunlardaki anlatı derinliğinin artması, transmedya hikaye anlatımı potansiyellerini önemli ölçüde artırmıştır.<br>Transmedya ve oyun ilişkisi bağlamında yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 20,
+            "question": "I. Hayranların ana anlatının ötesinde hikâye dünyasının farklı yönlerini keşfetmelerini sağlayarak katılımı ve sürükleyiciliği artırır.<br>II. Yaratıcılar için bir çerçeve görevi görerek yeni anlatıların üzerine inşa edilebileceği bir temel sağlar.<br>III. Hayranlar genellikle kendi yorumlarını, hayran kurgularını ve tartışmalarını yaratarak lor ile etkileşime girer.<br>'Lor' kavramı ile yukarıdakilerden hangisi/hangileri ifade edilir?",
+            "options": [
+                "Yalnız II",
+                "Yalnız III",
+                "I ve II",
+                "I ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618234"
+        },
+        {
+            "id": 21,
+            "question": "Aşağıdakilerden hangisi transmedya anlatılarında \"eklenti\"yi ifade eder?",
+            "options": [
+                "Ana hikâyenin akışını bozan ek sahnelerdir.",
+                "Hikâyenin bütünlüğünü bozan ek içeriklerdir.",
+                "Hikâyenin sonunu değiştiren ek bölümlerdir.",
+                "Ana hikâyeyi destekleyen ve derinleştiren ek içeriklerdir.",
+                "Sadece oyunlarda kullanılan ek özelliklerdir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 22,
+            "question": "Aşağıdakilerden hangisi Ezop'un fabllarının özelliklerinden biridir?",
+            "options": [
+                "Antropomorfize edilmiş hayvanlarla ahlaki dersler vermesi",
+                "Sadece yazılı olarak yayılması",
+                "Sadece insanları konu alması",
+                "Karmaşık siyasi olayları anlatması",
+                "Bilimsel konuları işlemesi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 23,
+            "question": "Aşağıdakilerden hangisi genişletilmiş gerçeklikte bedenlenme hissinde \"kendini konumlandırma\" kavramını ifade eder?",
+            "options": [
+                "Diğer karakterler ile etkileşime geçebilme yetisi",
+                "Mekân içerisinde hareket edebilme yetisi",
+                "Akıllı telefonda navigasyon kullanımı",
+                "Avatarın kullanıcıya benzer nitelikleri olması",
+                "Bulunulan uzam içerisinde bedenin belirli bir alanı kapsadığı hissi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 24,
+            "question": "I. Hayranlar modlar yaratır, oyun videoları paylaşır ve gelişen hikâyeye hayran kurgusu üretimlerle katkıda bulunurlar.<br>II. Gelişen sosyal medya platformları transmedya serileri etrafında etkileşim ve topluluk oluşturmayı mümkün kılmıştır.<br>III. Oyun geliştiriciler hayranların önerilerini gelecekteki gelişmelere dahil edebilirler.<br>Oyunların transmedya stratejilerindeki hayran etkinlikleriyle ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "I ve II",
+                "Yanlız II",
+                "II ve III",
+                "I, II ve III",
+                "I ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 25,
+            "question": "Aşağıdakilerden hangisi Stuart Hall'ün kodlama/kodaçımı (encoding/decoding) modeline göre izleyicilerin kitle iletişim araçlarından gelen iletileri okuma biçimlerinden biri <u>değildir</u>?",
+            "options": [
+                "Hegemonik okuma",
+                "Müzakereci okuma",
+                "Gündelik okuma",
+                "Karşıt okuma",
+                "Muhalif okuma"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 26,
+            "question": "Aşağıdakilerden hangisi UNESCO tarafından hazırlanan McBride raporuna göre, kitle iletişim araçlarının işlevlerinden biridir?",
+            "options": [
+                "Dağıtıcı işlev",
+                "Fiziksel ortam hazırlama işlevi",
+                "Bireysel gelişim işlevi",
+                "Eğlendirme işlevi",
+                "Özelleştirme işlevi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 27,
+            "question": "Aşağıdakilerden hangisi Henry Jenkins'e göre, yakınsama sürecini oluşturan katmanlardan biridir?",
+            "options": [
+                "Siyasi yakınsama",
+                "Çevresel yakınsama",
+                "Yerel yakınsama",
+                "Psikolojik yakınsama",
+                "Teknolojik yakınsama"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 28,
+            "question": "I. Taşıma kemeri<br>II. Gümüş kurşun<br>III. Davranışsal teori<br>IV. Sihirli mermi<br>Yukarıdakilerden hangisi Harold Lasswell tarafından geliştirilen hipodermik iğne/şırınga modeli için kullanılan diğer isimlerdir?",
+            "options": [
+                "I ve III",
+                "I, II ve III",
+                "I, II ve IV",
+                "II, III ve IV",
+                "I ve III"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 29,
+            "question": "Aşağıdakilerden hangisi dikkat eksikliği ve hiperaktivite bozukluğu (DEHB) olan öğrenciler için transmedya projelerinde önerilen içeriklerden biridir?",
+            "options": [
+                "Kısa ve odaklanmış mikro-öğrenme içerikleri",
+                "Uzun video serileri",
+                "İşbirlikçi projeler",
+                "Disiplinler arası yaklaşımlar",
+                "Kapsamlı ve karmaşık projeler"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 30,
+            "question": "Sosyal medya ve işbirlikçi öğrenme platformları, transmedya projelerinde aşağıdaki becerilerden hangisini geliştirmeyi amaçlar?",
+            "options": [
+                "Tarih bilgisi",
+                "Matematik becerileri",
+                "Grafik tasarım becerileri",
+                "Dijital okuryazarlık becerileri",
+                "Fiziksel beceriler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 31,
+            "question": "Transmedya projeleri, Lave ve Wenger'in Durumlu Öğrenme Teorisi bağlamında aşağıdakilerden hangisini sağlar?",
+            "options": [
+                "Sadece bireysel çalışmayı teşvik eder",
+                "Bilginin farklı alanlara transferini engeller",
+                "Yalnızca teorik bilgi sağlar",
+                "Öğrencilere soyut bilgiler sunar",
+                "Öğrenilen bilgilerin gerçek dünya bağlamlarıyla ilişkilendirilmesini ve uygulanabilirliğini artırır"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 32,
+            "question": "Akran değerlendirmesi ve öz değerlendirme aşağıdaki becerilerden hangisini geliştirmek için kullanılabilir?",
+            "options": [
+                "Grafik tasarım becerileri",
+                "Eleştirel düşünme ve yansıtma becerileri",
+                "Teknik bilgi birikimi",
+                "Yaratıcı yazma becerileri",
+                "Sosyal medya kullanımı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 33,
+            "question": "I. Mesajları iletmek<br>II. Duyguları uyandırmak<br>III. Kitleleri etkili bir şekilde meşgul etmek<br>Yukarıda sıralananlardan hangileri hikâye anlatma teknikleri kapsamında halkla ilişkilerde kullanılan temel araçlar arasındadır?",
+            "options": [
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 34,
+            "question": "Kuruluşun bağlı olduğu paydaş gruplarıyla olumlu itibarlar kurma ve sürdürme genel amacıyla tüm iç ve dış iletişimin etkili bir şekilde koordine edilmesi için çerçeve sunan yönetim işlevi aşağıdakilerden hangisidir?",
+            "options": [
+                "Kurumsal iletişim",
+                "Stratejik iletişim",
+                "Marka iletişimi",
+                "Reklamcılık",
+                "Satış teşvikleri"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 35,
+            "question": "Aşağıdakilerden hangisi pazarlama alanında bir hikâyenin/ reklam hikâye anlatımının temel bileşenlerinden olan ve konuşmanın doğrusal olmayan okunmasını ifade eden kavramdır?",
+            "options": [
+                "Transmedya",
+                "Etkileşim",
+                "Hipermetin",
+                "Multimedya",
+                "Yayılabilirlik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 36,
+            "question": "Arama motorları ve internet erişimiyle erişilebilen dizinler de dahil olmak üzere üçüncü taraf web sitelerine yerleştirilen mesajlar aşağıdakilerden hangisidir?",
+            "options": [
+                "Satış teşviki",
+                "Çevrimiçi reklamcılık",
+                "Etkileşimli reklamcılık",
+                "Halkla ilişkiler",
+                "Kişisel satış"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 37,
+            "question": "Aşağıdakilerden hangisi yapay zekânın (AI) transmedya hikaye anlatımında sağladığı katkılardan biridir?",
+            "options": [
+                "Anlatıyı yalnızca metin tabanlı hale getirmek",
+                "Kullanıcının tercihleri ile uyarlanan kişisel hikaye deneyimleri oluşturmak",
+                "Hikayenin her platformda aynı içeriği sunmasını sağlamak",
+                "Hikaye anlatımını yalnızca oyunlar ile sınırlamak",
+                "İzleyicinin hikaye üzerindeki etkisini sınırlamak"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 38,
+            "question": "\"Kendin yap\" tasarım kültürünün yükselişinde aşağıdaki faktörlerden hangisi belirleyici olmuştur?",
+            "options": [
+                "Sadece profesyonel eğitim alan bireylerin tasarım yapabilmesi",
+                "Geleneksel tasarım ilkelerinin dijital tasarıma uyarlanması",
+                "Bilgisayar ve sezgisel arayüzlere sahip yazılımların yaygınlaşması",
+                "Grafik tasarımın, tasarım görsel iletişim tasarımı olarak değiştirilmesi",
+                "Grafik tasarımın sadece profesyoneller tarafından yapılması"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 39,
+            "question": "Multimedya tasarımının geleneksel grafik tasarımdan farkı aşağıdakilerden hangisidir?",
+            "options": [
+                "Statik görseller yerine, farklı medya türlerini birleştirerek etkileşimli deneyimler sunması",
+                "Grafik tasarım kurallarını takip etmemesi",
+                "Sadece analog araçlarla yapılması",
+                "Yalnızca metin ve fotoğraf içermesi",
+                "Sadece basılı medya için içerik oluşturması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        },
+        {
+            "id": 40,
+            "question": "Aşağıdakilerden hangisi transmedya hikaye anlatımında görsel iletişim tasarımcılarının karşılaştığı zorluklardan biridir?",
+            "options": [
+                "Pasif bir izleyici kitlesi için içerik hazırlamak",
+                "Farklı platformlarda anlatının tutarlılığını sağlamak",
+                "Etkileşimli içeriklere yer vermekten kaçınmak",
+                "Sadece basılı materyaller oluşturmak",
+                "Yalnızca yazarlık alanında yetkin olmak"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622606"
+        }
+    ]
+}

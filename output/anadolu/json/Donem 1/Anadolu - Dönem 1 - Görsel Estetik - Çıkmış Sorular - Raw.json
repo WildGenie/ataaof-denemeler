@@ -1,0 +1,3303 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Genel olarak, algının nesnesi, algılanan ya da bilince görünen şey, gözlemlenebilir olan olay ya da olgu anlamına gelen kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Fenomen",
+                "Mimesis",
+                "Katharsis",
+                "Yansıtma",
+                "Perspektif"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 2,
+            "question": "Dış dünyayı olduğu gibi değil, bıraktığı etki, izlenimler üzerinden alarak, doğanın karşısında etkin bir insan anlatımı oluşturarak anlatan sanat akımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Sürrealizm",
+                "Kübizm",
+                "Eskpresyonizm",
+                "Fovizm",
+                "Empresyonizm"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 3,
+            "question": "İlk kez 1970 sonrası gündeme gelen ve geleneksel estetik değerleri bir yana bırakıp, gelenekseli ön plana alan tasarım anlayışı aşağıdakilerden hangisidir?",
+            "options": [
+                "Güncel sanat",
+                "Görsel sanat",
+                "Baskı sanatı",
+                "Geleneksel sanat",
+                "Dışavurumcu sanat"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 4,
+            "question": "Fotoğrafın düz bir yüzey üzerinde sanki gerçekmiş gibi, üç boyutlu görünmesi aşağıdaki kavramların hangisi ile ilgilidir?",
+            "options": [
+                "Çekim açısı",
+                "Kompozisyon",
+                "Fotoğrafçılık deneyimi",
+                "Çekim araçları",
+                "Işık ve renk"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 5,
+            "question": "Sürekli değişen duyusal girdilere rağmen nesnelerin biçimlerini, büyüklüklerini, yerlerini ve renklerini değişmeden algılamamıza -------denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "algı yanılsaması",
+                "kör nokta",
+                "algıda seçicilik",
+                "algıda değişmezlik",
+                "metafor"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 6,
+            "question": "Portre fotoğrafçılığında lens seçimi ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Genellikle geniş açılı lensler tercih edilir.",
+                "En çok önerilenler odak uzaklığı 85 mm ile 135 mm arası lenslerdir.",
+                "100 mm bir odak uzaklığı standart portreler için iyi bir seçimdir.",
+                "Diyafram değeri f-1.4, f-1.8, f-2.8 gibi açılabilecek olan lensler tercih edilir.",
+                "Geniş diyafram açıklığına sahip lensler hem keskinlik hem de sığ alan derinliği, arka plan fluluğu için idealdir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 7,
+            "question": "\"Tone Mapping\", \"Digital Blending\", \"DRI\" ve \"Luminance Masking\" gibi birçok farklı tekniği tanımlamak için kullanılan terim aşağıdakilerden hangisidir?",
+            "options": [
+                "ISO",
+                "RGB",
+                "GTL",
+                "RAW",
+                "HDR"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 8,
+            "question": "Aşağıdakilerden hangisi ışık efektlerinden biri <u>değildir</u>?",
+            "options": [
+                "Su dalgası efekti",
+                "Duvar efekti",
+                "Çoklu gölge efekti",
+                "Ayna efekti",
+                "Şimşek efekti"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 9,
+            "question": "Aşağıdakilerden hangisi \"kör nokta\"nın tanımıdır?",
+            "options": [
+                "Tamamen biyolojik bir problemdir.",
+                "Sinirlerin göz küresinden çıktığı bölümdür.",
+                "Elektro manyetik sinir uçlarının hasar görmesidir.",
+                "Ağ tabakada Işık duyargalarının bulunmadığı noktadır.",
+                "Retina hareketlerinin kısıtlandığı bir durumdur."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 10,
+            "question": "Çekimi yapılacak konunun vurgulanması gereken bölümlerinin aydınlık, konu dışında kalan yerlerin karanlıkta bırakıldığı aydınlatma tekniğine ne ad verilir?",
+            "options": [
+                "Notan aydınlatma",
+                "Chiaroscuro aydınlatma",
+                "Silüet aydınlatma",
+                "Rembrandt aydınlatma",
+                "Çapraz aydınlatma"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 11,
+            "question": "Dış mekanlarda aydınlatma aracı olarak kullanılan güneşin set ya da stüdyo gibi mekanlardaki karşılığı aşağıdakilerden hangisidir?",
+            "options": [
+                "Spot ışık",
+                "Balon ışık",
+                "Anahtar ışık",
+                "Fon ışığı",
+                "Gün ışığı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 12,
+            "question": "Aşağıdaki çizgi çeşitlerinden hangisi dengeyi ve gücü (kuvvet) vurgular?",
+            "options": [
+                "Düz çizgi",
+                "Dikey çizgi",
+                "Zikzak çizgi",
+                "Eğri çizgi",
+                "Doğru çizgi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 13,
+            "question": "Aşağıdakilerden hangisi kompozisyonda figürden daha çok ve geniş yer kaplayarak fon/zemin etkisi yaratır?",
+            "options": [
+                "Örtme",
+                "Ölçü derecelemesi",
+                "Doku zıtlıkları",
+                "Saydamlık",
+                "Etkili çevre"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 14,
+            "question": "Aynı olmama, benzer yönlerin olmaması, karşıt olma, çelişkili olma kompozisyon oluşturmanın aşağıdaki temel ilkelerinden hangisidir?",
+            "options": [
+                "Ayırıcı nitelik",
+                "Yakınlık",
+                "Benzerlik",
+                "Zıtlık",
+                "Saydamlık"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 15,
+            "question": "Genellikle röportaj çekimlerinde kullanılan çekim türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Baş çekim",
+                "Omuz çekim",
+                "Bel çekim",
+                "Göğüs çekim",
+                "Yüz çekim"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 16,
+            "question": "Aşağıdakilerden hangisi kamera hareketlerinden biridir?",
+            "options": [
+                "Üstten bakış",
+                "Nesnel görüş açısı",
+                "Optik kaydırma",
+                "Eğik bakış",
+                "Uzak çekim"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 17,
+            "question": "Doğa ile bağlantılı olarak gece-gündüz döngüsü, mevsimlerin değişimi gibi zaman döngüselliklerle bağlantılı zaman anlayışı aşağıdakilerden hangisidir?",
+            "options": [
+                "Mitolojik zaman",
+                "Doğal zaman",
+                "İçsel zaman",
+                "Dışsal zaman",
+                "Evrensel zaman"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 18,
+            "question": "Sanat tarihinde hangi anlayışın ortaya çıkışı ile sonsuz zaman ve mekân kavrayışı yerini gerçek mekânlara ve sonu olan bir zaman anlayışına bırakmıştır?",
+            "options": [
+                "Barok",
+                "Modernizm",
+                "Postmodernizm",
+                "Orfizm",
+                "Rönesans"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 19,
+            "question": "Canlıların yaşam ömürleriyle ve yaşam organlarının hareketiyle ilgili zaman türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Psikolojik",
+                "Biyolojik",
+                "Objektif",
+                "Subjektif",
+                "Metafizik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 20,
+            "question": "Aşağıdakilerden hangisi görsel etkiyi artırma yöntemlerinden biri <u>değildir</u>?",
+            "options": [
+                "Denge",
+                "Ölçü",
+                "Kesme",
+                "Birlik",
+                "Derinlik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "633974"
+        },
+        {
+            "id": 21,
+            "question": "Felsefesi, felsefe tarihinde ilk sistemli felsefi düşüncenin kaynağı olarak kabul edilmiş olan Antik Çağ filozofu aşağıdakilerden hangisidir?",
+            "options": [
+                "Sokrates",
+                "Plotinus",
+                "Aristoteles",
+                "Heraklitos",
+                "Platon"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 22,
+            "question": "Düşünsel bir yanının olması, ikna etme gücünün olması, tarihe tanıklık etmesi, aşağıdaki fotoğrafçılık türlerinden hangisinin temel özelliklerindendir?",
+            "options": [
+                "Reklam Fotoğrafçılığı",
+                "Mekân Fotoğrafçılığı",
+                "Gündelik Yaşam Fotoğrafçılığı",
+                "Haber Fotoğrafçılığı",
+                "Sokak Fotoğrafçılığı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 23,
+            "question": "Karşısında estetik tavır alınan, estetik yaşantının konusu ya da objesi olan şey nedir?",
+            "options": [
+                "Estetik Fenomen",
+                "Estetik Beğeni",
+                "Estetik Nesne",
+                "Estetik Tavır",
+                "Estetik Özne"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 24,
+            "question": "Portre fotoğrafçılığında en ideal ışık aşağıdakilerden hangisidir?",
+            "options": [
+                "Tungusten ışık",
+                "Flag ışığı",
+                "Led ışık",
+                "Ters ışık",
+                "Gün Işığı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 25,
+            "question": "Fotoğrafın düz bir yüzey üzerinde sanki gerçekmiş gibi, üç boyutlu görünmesi aşağıdaki kavramların hangisi ile ilgilidir?",
+            "options": [
+                "Çekim açısı",
+                "Kompozisyon",
+                "Fotoğrafçılık deneyimi",
+                "Işık ve renk",
+                "Çekim araçları"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 26,
+            "question": "\"Tone Mapping\", \"Digital Blending\", \"DRI\" ve \"Luminance Masking\" gibi birçok farklı tekniği tanımlamak için kullanılan terim aşağıdakilerden hangisidir?",
+            "options": [
+                "RAW",
+                "ISO",
+                "TTL",
+                "HDR",
+                "RGB"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 27,
+            "question": "Aşağıdakilerden hangisi mavi filtrenin kullanımı için uygun zamanlardan biri <u>değildir</u>?",
+            "options": [
+                "Gece çekimi yapılıyorsa",
+                "Sabah çekimi yapılıyorsa",
+                "Öğlen çekimi yapılıyorsa",
+                "Öğleden sonra çekim yapılıyorsa",
+                "Güneş batarken çekim yapılıyorsa"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 28,
+            "question": "Bir çeşit optik illüzyon olarak da bilinen, algılanan an ya da durum ile gerçek durum arasındaki farklılıklar aşağıdakilerden hangisiyle açıklanır?",
+            "options": [
+                "Algı basitliği",
+                "Algı dağınıklığı",
+                "Algı yanılsaması",
+                "Algı bozulması",
+                "Algı eksikliği"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 29,
+            "question": "Fotoğraf çekimlerinde reflektörlerin kullanılma amacı aşağıdakilerden hangisidir?",
+            "options": [
+                "Işığın etkisini softlaştırmak için kullanılması",
+                "Işığa yön vermek için kullanılması",
+                "Gölgeleri yumuşatmak için kullanılması",
+                "Çekilecek nesnenin renklerinde değişiklik yapmak için kullanılması",
+                "Görüntünün daha karanlık çıkmasını sağlamak için kullanılması"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 30,
+            "question": "Konunun konturlarının belirgin hale getirilmesi için arka ışıkla yapılan aydınlatma ışığına ne ad verilir?",
+            "options": [
+                "Hale ışığı",
+                "Kenar ışığı",
+                "Fon ışığı",
+                "Kostüm ışığı",
+                "Temel ışık"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 31,
+            "question": "İnsanların duyu organlarına gelen uyarıcılardan yalnızca bazılarına tepki vermesi olayına ne ad verilir?",
+            "options": [
+                "Algı yeteneği",
+                "Algı eksikliği",
+                "Algı dağınıklığı",
+                "Algıda seçicilik",
+                "Algı bozulması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 32,
+            "question": "İki boyutlu bir düzlemde, üçüncü boyut yani derinlik yanılsaması vermek için kullanılan teknik aşağıdaki kavramlardan hangisiyle tanımlanır?",
+            "options": [
+                "Algı",
+                "Hacim",
+                "Perspektif",
+                "Kolaj",
+                "Enstalasyon"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 33,
+            "question": "Çerçeve içinde yer alan bir konunun büyüklüğünü anlatan ve görsel etkiyi artırma yöntemlerinden biri olan öge aşağıdakilerden hangisidir?",
+            "options": [
+                "Sadelik",
+                "Ölçü",
+                "Çizgi",
+                "Derinlik",
+                "Birlik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 34,
+            "question": "Altın kesimin en basiti, kullanılan yüzeyi ve enine boyuna bölmektir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "dokuzda",
+                "beşe",
+                "altıya",
+                "sekize",
+                "üçe"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 35,
+            "question": "Bir kompozisyonda figürler merkeze doğru bir eğilim, hareket, toplanma gösteriyorsa yıldız, bir fırıldağın dönmesi gibi yine merkezden giderek genişleyen çizgi doğrultusunda yerleştirmeye kompozisyon diyoruz. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "daire",
+                "dörtgen",
+                "üçgen",
+                "kare",
+                "elips"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 36,
+            "question": "Çekime konu olan objelerin en etkili görülecek açıdan, derinliği olan görüntülerinin oluşturulması amaçlanan kamera açısını belirleyen öge aşağıdakilerden hangisidir?",
+            "options": [
+                "Öznel görüş açısı",
+                "Konu açısı",
+                "Nesnel görüş açısı",
+                "Kameranın yüksekliği",
+                "Konunun büyüklüğü"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 37,
+            "question": "Aşağıdakilerden hangisi kamera hareketlerinden biridir?",
+            "options": [
+                "Uzak çekim",
+                "Üstten bakış",
+                "Nesnel görüş açısı",
+                "Eğik bakış",
+                "Optik kaydırma"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 38,
+            "question": "Subjektif zaman ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Kişiye göre farklılık gösterir.",
+                "Saat veya takvime bağlıdır.",
+                "Gözlemlenebilirdir.",
+                "Ölçülebilirdir.",
+                "Hesaplanabilmesi kolaydır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 39,
+            "question": "Sinema felsefesine özgü hareket-imge ve zaman-imge kavramları aşağıdaki düşünürlerden hangisine aittir?",
+            "options": [
+                "Castells",
+                "Deleuze",
+                "Zenon",
+                "Bergson",
+                "Edison"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 40,
+            "question": "Filmde geçen bir zaman diliminin, öznel çekimlerle ya da kurgu yoluyla gerçek zamana göre kısaltılması veya uzatılmasına ne ad verilir?",
+            "options": [
+                "Kurgusal",
+                "Sujesel",
+                "Hayali",
+                "Reel",
+                "Algılanan"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "633999"
+        },
+        {
+            "id": 41,
+            "question": "1750'de yazdığı \"Aesthetica\" adlı yapıtı ile estetik düşüncenin ve kavramın kurucusu düşünür aşağıdakilerden hangisidir?",
+            "options": [
+                "Baumgarten",
+                "Schiller",
+                "Kant",
+                "Adorno",
+                "Hegel"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 42,
+            "question": "Antik Çağ estetik düşüncesini oluşturan düşünürler Platon, Aristoteles, Plotinus'un sanat ve güzel üzerine düşünceleri aşağıdaki temel kuramlardan hangisi ile ifade edilir?",
+            "options": [
+                "Biçimcilik Kuramı",
+                "Oyun Kuramı",
+                "Anlatımcılık Kuramı",
+                "Taklit Kuramları",
+                "Yaratma Kuramı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 43,
+            "question": "Sayısal fotoğraf makineleri bizim belirleyeceğimiz seçimler için otomatik bir beyaz ayarı skalası oluşturmuştur. Yukarıdaki ifadeye göre aşağıdakilerden hangisi bu beyaz ayarlarından biri <u>değildir</u>?",
+            "options": [
+                "Tungsten",
+                "Histogram",
+                "Floresan",
+                "Flaş",
+                "Bulutlu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 44,
+            "question": "Fotoğrafçılıkta, görünüşün yakalanmasındaki en önemli aşama aşağıdakilerden hangisidir?",
+            "options": [
+                "Netlik",
+                "Diyafram ayarları",
+                "Alan derinliği",
+                "Pozlama",
+                "Kadrajlama"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 45,
+            "question": "Fotoğraf çekimlerinde odaklama yapılan noktanın önü ve arkasını da kapsayan net görülen bölgeye ne ad verilir?",
+            "options": [
+                "Odak noktası",
+                "Dar alan derinliği",
+                "Geniş alan derinliği",
+                "Alan derinliği",
+                "Keskinlik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 46,
+            "question": "Fizyolojik olarak aydınlık ortamlarda göz bebeğimiz küçülürken, karanlık ortamlarda büyür. Bu durum sinirlere ulaşacak ışığın miktarına göre çalışır. Yukarıda ifade edilen duruma benzer olarak çalışan fotoğraf makinesi öğesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Diyafram",
+                "Enstantane",
+                "ISO hızı",
+                "Pozlama telafisi",
+                "White balance"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 47,
+            "question": "İnsanların duyu organlarına gelen uyarıcılardan yalnızca bazılarına tepki vermesi olayına ne ad verilir?",
+            "options": [
+                "Algı yanılsaması",
+                "Algıda seçicilik",
+                "Görsel algılama",
+                "Görsel Yanılsama",
+                "Algıda değişmezlik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 48,
+            "question": "Beynin sol yarım küresi daha çok aşağıdaki duyu ve becerilerden hangilerinin gerçekleştirilmesinde etkilidir?",
+            "options": [
+                "Artistik duyular, sanat, yaratıcılık ve hayal gücü",
+                "Bilişsel faaliyetler",
+                "Analitik, matematiksel-mantıksal düşünce",
+                "Hikaye, şiir ve roman yazma becerileri",
+                "Dil ve ifade becerileri"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 49,
+            "question": "Güneş ışığının karşılığı olan anahtar ışık aşağıdaki ortamlardan hangisinde kullanılır?",
+            "options": [
+                "Dış mekan model çekimlerinde",
+                "Belgesel çekimlerinde",
+                "Mimari çekimlerde",
+                "Manzara çekimlerinde",
+                "İç mekân çekimlerinde"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 50,
+            "question": "Çekimi yapılacak konunun vurgulanması gereken bölümlerinin aydınlık, konu dışında kalan yerlerin karanlıkta bırakıldığı aydınlatma tekniğine ne ad verilir?",
+            "options": [
+                "Notan aydınlatma",
+                "Chiaroscuro aydınlatma",
+                "Rembrandt aydınlatma",
+                "Silüet aydınlatma",
+                "Çapraz aydınlatma"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 51,
+            "question": "Spot ışığının sertliğini yumuşatmak için spotların önüne koyulması gereken filtre aşağıdakilerden hangisidir?",
+            "options": [
+                "Renk Düzeltme Filtresi",
+                "Ultraviyole Filtre",
+                "Polarize Filtre",
+                "Mavi Filtre",
+                "Beyaz Filtre"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 52,
+            "question": "Bir kompozisyonda, eşit olmayan görsel ağırlıkların genelde oluşturduğu görüntüye asimetrik denge denir. Yukarıdaki ifadeye göre, asimetrik denge bir kompozisyonda nasıl oluşturulur?",
+            "options": [
+                "Denge ve zıtlık yoluyla oluşturulabilir.",
+                "Egemenlik ve zıtlık yoluyla oluşturulabilir.",
+                "Denge ve tekrar yoluyla oluşturulabilir.",
+                "Egemenlik ve birlik yoluyla oluşturulabilir.",
+                "Denge ve birlik yoluyla oluşturulabilir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 53,
+            "question": "Herhangi bir nesnenin yapısında ya da bir tasarımda bir ögenin aynen veya çok yakın değerde birden fazla sayıda var olması, Bauhaus öğretilerine göre temel tasarım ilkelerinden hangisini oluşturur?",
+            "options": [
+                "Egemenlik",
+                "Birlik",
+                "Tekrar",
+                "Denge",
+                "Hareket"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 54,
+            "question": "Güncel yaşam biçimine ve postmodern dünya görüşüne uygun düşen kompozisyon türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Spiral kompozisyon",
+                "Simetrik kompozisyon",
+                "Kare kompozisyon",
+                "Serbest kompozisyon",
+                "Z eksenli kompozisyon"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 55,
+            "question": "Filmde geçen bir zaman diliminin, gerçek zamana göre kısaltılması veya uzatılmasına ne ad verilir?",
+            "options": [
+                "Kurgusal zaman",
+                "Astronomik zaman",
+                "Hayali zaman",
+                "Sujesel zaman",
+                "Algılanan zaman"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 56,
+            "question": "Görüntü geçiş türleri, görüntü dilinin noktalama işaretleri olarak adlandırılır. Buna göre; bir sahnenin başlangıcı ve sonu olarak değerlendirilen film kurgusunda, kullanılan noktalama işareti aşağıdakilerden hangisidir?",
+            "options": [
+                "Kesme",
+                "Bindirme",
+                "Zincirleme",
+                "Açılma ve kararma",
+                "Silinme"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 57,
+            "question": "Altın Oran sanat ortamında kullanılan bir kompozisyon yöntemidir. Bu yönteme göre fotoğraf çekimlerinde kadraj kaç eşit dikdörtgene bölünür?",
+            "options": [
+                "3 eşit dikdörtgene",
+                "6 eşit dikdörtgene",
+                "9 eşit dikdörtgene",
+                "12 eşit dikdörtgene",
+                "15 eşit dikdörtgene"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 58,
+            "question": "Genellikle röportaj çekimlerinde kullanılan çekim türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Göğüs çekim",
+                "Omuz çekim",
+                "Baş çekim",
+                "Bel çekim",
+                "Yüz çekim"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 59,
+            "question": "Sanat tarihinde hangi anlayışın ortaya çıkışı ile sonsuz zaman ve mekân kavrayışı yerini gerçek mekânlara ve sonu olan bir zaman anlayışına bırakmıştır?",
+            "options": [
+                "Modernizm",
+                "Postmodernizm",
+                "Barok",
+                "Orfizm",
+                "Rönesans"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 60,
+            "question": "Bir filmde geçen sürenin gerçek zamanla uyum hâlinde olduğu zaman türüne ne ad verilir?",
+            "options": [
+                "Reel",
+                "Kurgusal",
+                "Hayali",
+                "Sujesel",
+                "Algılanan"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "634055"
+        },
+        {
+            "id": 61,
+            "question": "Aşağıdakilerden hangisi Antik Çağ estetik düşüncesini oluşturan düşünürlerden biridir?",
+            "options": [
+                "Herakleitos",
+                "Pythagoras",
+                "Demokritos",
+                "Plotinus",
+                "Epikuros"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 62,
+            "question": "Henri Cartier Bresson'un öncülüğünü yaptığı ve belgesel fotoğrafçılıkla yakın ilgisi bulunan fotoğrafçılık türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Sokak fotoğrafçılığı",
+                "Portre fotoğrafçılığı",
+                "Gündelik yaşam fotoğrafçılığı",
+                "Mimari fotoğrafçılık",
+                "Reklam fotoğrafçılığı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 63,
+            "question": "Kavramsal ve Fluxus gibi 1960 sonrası akımların esin kaynağı olan sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Peter Paul Rubens",
+                "Francisco Goya",
+                "Eduard Manet",
+                "Marcel Duchamp",
+                "Edgar Degas"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 64,
+            "question": "Diyafram ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Objektifin içinde yer alır.",
+                "Lens açıklığının geniş veya dar olmasını belirler.",
+                "Dijital fotoğrafçılıkta kullanılmaz.",
+                "Sembol olarak küçük \"f\" harfiyle gösterilir.",
+                "Fotoğraf makinesine alınacak ışık miktarını belirler."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 65,
+            "question": "Fotoğraf uygulama alanı olarak iki boyutludur, ancak insanlar üçüncü boyuta ilişkin deneyimlerinden dolayı fotoğrafı da üç boyutlu gibi algılarlar. Bu durum bir tür <u>yanılsama</u> olarak tanımlanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdaki ifadelerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "doğaçlama",
+                "yanılsama",
+                "renklendirme",
+                "tamamlama",
+                "planlama"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 66,
+            "question": "Birden fazla pozlamayı birleştirerek tek bir fotoğrafın dinamik aralığının arttırılmasına ne ad verilir?",
+            "options": [
+                "Hareketi pozlama tekniği",
+                "Işıkla boyama tekniği",
+                "High dynamic range (HDR) çekim tekniği",
+                "Pan (kaydırma) tekniği",
+                "Işık İzleri pozlama tekniği"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 67,
+            "question": "Aşağıdakilerden hangisi fotoğrafçılıkta ve sinemada diğer zaman dilimini olduğu gibi yansıtıcılık ile doğrudan ilgilidir?",
+            "options": [
+                "Ay",
+                "Işık",
+                "Reflektör",
+                "Gümüşek",
+                "El feneri"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 68,
+            "question": "Aşağıdakilerden hangisi algıda fiziki bilgi değişkenlerinden biri <u>değildir</u>?",
+            "options": [
+                "Nesnenin fiziksel özellikleri",
+                "Bütünlükler",
+                "Hafiflikleri",
+                "Gereksinimler",
+                "Değerler ve inançlar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 69,
+            "question": "Temel ögeleri arasında nokta, şekil, form, ışık gibi faktörler olan ayrıca sadelik, açıklık, denge ve düzen gibi temel ilkeleri olan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Görsellik",
+                "Piktogram",
+                "Grafik",
+                "Sembolizm",
+                "Tasarım"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 70,
+            "question": "Çekim sırasında kameramanlar tarafından kullanılan kameraların diyafram açıklığı ile aydınlatma sırasında üretilen ışık yoğunluğunun birbirini tamamlaması gerekir. Yukarıdaki ifadeye göre, bu durumun gerçekleşmesi aşağıdakilerden hangisine bağlıdır?",
+            "options": [
+                "Doğru açı",
+                "Doğru pozlama",
+                "Doğru stüdyo",
+                "Doğru yönetmen",
+                "Doğru kadraj"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 71,
+            "question": "Işığın ortam değiştirdiğinde kırılması ışığın temel özelliklerinden hangisi ile ilgilidir?",
+            "options": [
+                "Daralma",
+                "Hareket",
+                "Geçme",
+                "Yansıma",
+                "Kısılma"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 72,
+            "question": "Işıklı bir yerde, ışığın saydam olmayan bir cisim tarafından engellenmesi ile oluşan karanlığa ne ad verilir?",
+            "options": [
+                "Yansıma",
+                "Ton",
+                "Doku",
+                "Fon",
+                "Gölge"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 73,
+            "question": "Doğada birçok canlı veya cansız varlığın yapısında görülen ve parçaları arasında gözlemlenen, uyum açısından en etkileyici boyutları verdiği düşünülen geometrik ve sayısal ölçü bağlantısı olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Orantı",
+                "Ölçüt",
+                "Oran",
+                "Altın oran",
+                "Fibonacci sayıları"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 74,
+            "question": "Aşağıdakilerden hangisi haber çekimlerinde en <u>çok</u> kullanılan çekim ölçeğidir?",
+            "options": [
+                "Böy çekim",
+                "Omuz çekim",
+                "Yüz çekim",
+                "Baş çekim",
+                "Göğüs çekim"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 75,
+            "question": "Kompozisyon oluşturmada, birlik kurmanın ve yaratmanın bilinen en basit ve en etkili ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Egemenlik",
+                "Birlik",
+                "Hareket",
+                "Tekrar",
+                "Denge"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 76,
+            "question": "Derleme kurgunun genellikle kullanıldığı film türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Macera",
+                "Belgesel",
+                "Animasyon",
+                "Romantik",
+                "Aksiyon"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 77,
+            "question": "Filmde geçen bir zaman diliminin, öznel çekimlerle ya da kurgu yoluyla gerçek zamanın kısaltılması veya uzatılmasına ne ad verilir?",
+            "options": [
+                "Reel",
+                "Süjesel",
+                "Kişisel",
+                "Algılanan",
+                "Hayali"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 78,
+            "question": "Aşağıdakilerden hangisi kamera hareketlerinden biridir?",
+            "options": [
+                "Üstten bakış",
+                "Eğik bakış",
+                "Uzak çekim",
+                "Nesnel görüş açısı",
+                "Optik kaydırma"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 79,
+            "question": "Canlıların yaşam ömürleriyle ve yaşam organlarının hareketiyle ilgili zaman türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Biyolojik",
+                "Objektif",
+                "Subjektif",
+                "Psikolojik",
+                "Metafizik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 80,
+            "question": "Subjektif zaman ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Hesaplanabilmesi kolaydır.",
+                "Gözlemlenebilirdir.",
+                "Ölçülebilirdir.",
+                "Kişiye göre farklılık gösterir.",
+                "Saat veya takvime bağlıdır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634077"
+        },
+        {
+            "id": 81,
+            "question": "Aristoteles'in son yazdığı kitap olarak değerlendirilen sanat, sanatçı ve estetik üzerine düşüncelerinin yer aldığı eseri aşağıdakilerden hangisidir?",
+            "options": [
+                "Politika",
+                "Organon",
+                "Fizik",
+                "Poetika",
+                "Metafizik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 82,
+            "question": "Plastik sanatlarda kompozisyonun üç boyutlu görünüşünü en iyi anlatan sanat alanı aşağıdakilerden hangisidir?",
+            "options": [
+                "Karikatür",
+                "Seramik",
+                "Resim",
+                "Müzik",
+                "Heykel"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 83,
+            "question": "\"İnsanın Estetik Eğitimi Üzerine Mektuplar\" eserini yazan düşünür aşağıdakilerden hangisidir?",
+            "options": [
+                "F. Schiller",
+                "Platon",
+                "Hegel",
+                "Marx",
+                "Kant"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 84,
+            "question": "Kavramsal ve Fluxus gibi 1960 sonrası akımların esin kaynağı olan sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Edgar Degas",
+                "Peter Paul Rubens",
+                "Eduard Manet",
+                "Marcel Duchamp",
+                "Francisco Goya"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 85,
+            "question": "Bir estetik objeyi algılayan, kavrayan ve estetik olarak hoşlanan, ondan estetik haz duyan bilinç varlığına ne ad verilir?",
+            "options": [
+                "Estetik suje",
+                "Estetik anlatım",
+                "Estetik deneyim",
+                "Estetik beğeni",
+                "Estetik tavır"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 86,
+            "question": "Fotoğraf uygulama alanı olarak iki boyutludur, ancak insanlar üçüncü boyuta ilişkin deneyimlerinden dolayı fotoğrafı da üç boyutlu gibi algılarlar. Bu durum bir tür _______ olarak tanımlanır. Yukardaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "renklendirme",
+                "tamamlama",
+                "yanılsama",
+                "doğaçlama",
+                "planlama"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 87,
+            "question": "Hayal dünyasında tasarlanan, nasıl olduğu bilinen, bilinçte beliren nesne ve olaylara ne ad verilir?",
+            "options": [
+                "Rüya",
+                "İmge",
+                "Algı",
+                "Görme",
+                "Hafıza"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 88,
+            "question": "Fotoğrafın düz bir yüzeyde sanki gerçekmiş gibi görünmesi veya üç boyutlu etkisi _______ ile ilgili fiziksel bir olaydır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "düşünmek ve gerçekleştirmek",
+                "algı ve yanılsama",
+                "bakma ve görme",
+                "ışık ve renk",
+                "uzay ve boşluk"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 89,
+            "question": "Aşağıdaki durumlardan hangisinde pozlama telafisine <u>gerek yoktur</u>?",
+            "options": [
+                "Plaj, deniz yansıması olan sahneler",
+                "Arkadan aydınlatmalı sahneler",
+                "Parlak gökyüzü ve gece sahneleri",
+                "Karlı sahneler",
+                "Çok hareketli sahneler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 90,
+            "question": "Geleneksel bilgiyle üretilen ve belirli fonksiyonları olan, belirli modellere göre üretilen, özgün denilemeyecek ve sanattan niteliksel olarak farklı olan ürünlere ne ad verilir?",
+            "options": [
+                "Akademik sanat",
+                "Arkeoloji",
+                "Zanaat",
+                "Uygarlık tarihi",
+                "Güzel sanatlar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 91,
+            "question": "İlk kez 1970 sonrası gündeme gelen ve geleneksel estetik değerleri bir yana bırakıp, düşünceyi ön plana alan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Baskı sanatı",
+                "Görsel sanat",
+                "Dışavurumcu sanat",
+                "Güncel sanat",
+                "Geleneksel sanat"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 92,
+            "question": "Pozlama üçgenindeki diyafram, enstantane ve ISO Hızı değeri değiştirilip farklı varyasyonlara getirilerek yine birbirinin aynı miktarda ışığı sensörde toplamak mümkündür. Yukarıda ifade edilen yasa aşağıdakilerden hangisidir?",
+            "options": [
+                "Kontrastlık",
+                "Eş değerlik",
+                "Doğrusallık",
+                "Pozlama",
+                "Odaklama"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 93,
+            "question": "Portre fotoğrafçılığında arka planı flulaştırarak ifadeyi öne çıkarmak için kullanılan uygulama aşağıdakilerden hangisidir?",
+            "options": [
+                "İlgi merkezi seçimi",
+                "Ters ışık silueti",
+                "Arka plan zenginliği",
+                "Psikolojik derinlik",
+                "Sığ alan derinliği"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 94,
+            "question": "Gümüş tuzlarının ışığa duyarlılığını keşfeden ve fotoğrafın önünü açan buluşun sahibi bilim insanı aşağıdakilerden hangisidir?",
+            "options": [
+                "Joseph Nicéphore Niépce",
+                "Johann Heinrich Schulze",
+                "Louis Jacques Mande Daguerre",
+                "Eadweard Muybridge",
+                "William Henry Fox Talbot"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 95,
+            "question": "Ticari olarak yayınlanan ilk resimli fotoğraf kitabı \"The Pencil Of Nature\"ın (Doğanın Kalemi) sahibi aşağıdakilerden hangisidir?",
+            "options": [
+                "William Henry Fox Talbot",
+                "Alphose Giroux",
+                "Hippolyte Bayard",
+                "Roger Fenton",
+                "Louis-Jacques Mandé"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 96,
+            "question": "-------, görsel uygulamaları, imgeleri ve olayları çevreleyen durumları yansıtma sürecine karşılık gelir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Bilişsel faaliyetler",
+                "Mantıksal düşünce",
+                "Görsel kültür",
+                "Görsel okuryazarlık",
+                "Yazma becerileri"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 97,
+            "question": "Görme sinirleri bir araya toplanarak göz küresini terk eder. Sinirlerin göz küresinden çıkış noktasında yer almayan alıcı hücrelerin ve duyargalarının bulunmadığı noktaya _______ denir. Yukardaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "kör nokta",
+                "retina",
+                "koroid tabaka",
+                "bağ dokusu",
+                "ağ tabaka"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 98,
+            "question": "Aşağıdakilerden hangisi algıyı etkileyen <u>iç</u> faktörlerden biridir?",
+            "options": [
+                "Sosyal çevre ve deneyimler",
+                "Bireyin güdü ve ön yargıları, ilgi ve ihtiyaçları",
+                "Duygusal faktörler ve ön yargılar",
+                "İletişim becerilerindeki yetkinlik",
+                "Çevresel etkenler ve iletişim"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 99,
+            "question": "Algılanan an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere ne ad verilir?",
+            "options": [
+                "Kör nokta",
+                "Algıda seçicilik",
+                "Algı yanılsaması",
+                "Göz kusuru",
+                "Metafor"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 100,
+            "question": "Algılama ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Algı aynı zamanda nesnelere ve olaylara ilişkin bilinçli farkındalığı içerir.",
+                "Algı, aynı zamanda dış dünyanın duyumlarla gelen imgesinin bilinçte gerçekleşen tasarımıdır.",
+                "Algılama, görme, işitme, koku, tat, dokunma ve diğer vücut duyularıyla ilişkilidir.",
+                "Duyu organlarımıza gelen dışsal uyarıcıların anlamlı hale getirilmesidir.",
+                "Algılama kişiden kişiye değişmeyen sabit bir özellik taşır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "633986"
+        },
+        {
+            "id": 101,
+            "question": "Doğada hayatta kalabilmek için barınmak zorunda olan insanın, Neolitik kültür döneminden itibaren uyguladığı çalışması, plastik sanatların aşağıdaki alanlarından hangisi ile ilgilidir?",
+            "options": [
+                "Grafik",
+                "Heykel",
+                "Mimari",
+                "Seramik",
+                "Resim"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 102,
+            "question": "Felsefesi, felsefe tarihinde ilk sistemli felsefi düşüncenin kaynağı olarak kabul edilmiş olan Antik Çağ filozofu aşağıdakilerden hangisidir?",
+            "options": [
+                "Platon",
+                "Sokrates",
+                "Heraklitos",
+                "Aristoteles",
+                "Plotinus"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 103,
+            "question": "Primavera adlı (ilkbahar) eser aşağıdaki sanatçılardan hangisine aittir?",
+            "options": [
+                "L. da Vinci",
+                "S. Boticelli",
+                "P. Gauguin",
+                "A. Dürer",
+                "P. Picasso"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 104,
+            "question": "Aşağıdakilerden hangisi Antik Çağ estetik düşüncesini oluşturan düşünürlerden <u>değildir</u>?",
+            "options": [
+                "Epikuros",
+                "Demokritos",
+                "Plotinus",
+                "Herakleitos",
+                "Pythagoras"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 105,
+            "question": "Bir nesnenin sanat eseri olabilmesi için gerekli olan <b>en önemli</b> koşul aşağıdakilerden hangisidir?",
+            "options": [
+                "Evrensel bildiri taşıması",
+                "İnsan üretimi olması",
+                "Biçim (form) ile ifade edilmesi",
+                "Sanatçı ve izleyici açısından estetik haz oluşturması",
+                "Kalıcılık özelliği taşıması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 106,
+            "question": "Gündelik yaşam içinde yoğun olarak kullanılan kavramlardan olan estetik kavramının geçmişi aşağıdaki kültürlerden hangisine kadar gider?",
+            "options": [
+                "Sümer",
+                "Hitit",
+                "Sasaniler",
+                "Antik Yunan",
+                "Antik Mısır"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 107,
+            "question": "Kameralar, küçülüp rahat taşınmaya başlanmasıyla hızla gelişmiştir. Fotoğraf sanatının en ilginç türlerinden birini oluşturan genellikle doğal ışıkta çalışılan, zahmetli ve eğlenceli fotoğrafçılık alanlarından biridir. Yukarıda anlatılan fotoğrafçılık türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Portre fotoğrafçılığı",
+                "Belgesel fotoğrafçılık",
+                "Sokak fotoğrafçılık",
+                "Reklam fotoğrafçılığı",
+                "Mimari fotoğrafçılık"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 108,
+            "question": "İstisnalar hariç olmak üzere, iki boyutlu yüzeylere uygulanan fotoğrafta, üçüncü boyutu hissettiren durum aşağıdakilerden hangisidir?",
+            "options": [
+                "Kadrajlama",
+                "Renk algısı",
+                "Fotograf kartının dokusu",
+                "Işık etkisi",
+                "Derinlik algısı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 109,
+            "question": "Retinanın uyarımı sonucu beyinde oluşan zihinsel değişime ne ad verilir?",
+            "options": [
+                "Duyum",
+                "Görmek",
+                "Hafızaya kaydetmek",
+                "Şekillendirmek",
+                "Hatırlamak"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 110,
+            "question": "Fotoğraf makinesinin, vizör denilen penceresinden yapılan ve aynı zamanda bir kompozisyon problemi olan ve görüntünün yakalanmasındaki en önemli aşama aşağıdakilerden hangisidir?",
+            "options": [
+                "Boyut",
+                "Pozlama",
+                "Netleme",
+                "Kadrajlama",
+                "Bakaç"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 111,
+            "question": "Portre Fotoğrafı çekimlerinde, en ideal ışık aşağıdakilerden hangisidir?",
+            "options": [
+                "Ters ışık",
+                "Tungusten ışık",
+                "Led ışık",
+                "Flaş ışığı",
+                "Gün İşığı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 112,
+            "question": "İskoçyalı teorik fizik ve matematik bilimcisi olan James Clark Maxwell'in, fotografçılık dünyasına kazandırdığı buluş aşağıdakilerden hangisidir?",
+            "options": [
+                "El boyaması olmayan ilk renkli fotoğrafı üretmesidir.",
+                "İlk 35 mm kameranın tasarımcısıdır.",
+                "Doğrudan pozitif baskı olarak bilinen süreci icatedendir.",
+                "Tek lensli refleks kameranın mucididir.",
+                "İlk ticari olarak satılan fotoğraf makinesini tasarlayandır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 113,
+            "question": "\"Tone Mapping\", \"Digital Blending\", \"DRI\" ve \"Luminance Masking\" gibi birçok farklı tekniği tanımlamak için kullanılan terim aşağıdakilerden hangisidir?",
+            "options": [
+                "RGB",
+                "HDR",
+                "TTL",
+                "RAW",
+                "ISO"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 114,
+            "question": "Birden fazla pozlamayı birleştirerek tek bir fotoğrafın dinamik aralığının arttırılmasına ne ad verilir?",
+            "options": [
+                "High dynamic range çekim tekniği",
+                "Işıkla boyama tekniği",
+                "Pan (kaydırma) tekniği",
+                "Işık İzleri pozlama tekniği",
+                "High dynamic range çekim tekniği"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 115,
+            "question": "Beyaz Dengesi (white balance) değerlerinden 5200 Kelvin \n karşılık gelir.",
+            "options": [
+                "floresana",
+                "gölgeye",
+                "bulutluya",
+                "doğrudan güneşli gün ışığına",
+                "tungstene"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 116,
+            "question": "İmge ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Zihinde tasarlanan ve gerçekleştirilmesi özlenen şey, hayal, hülya, imajdır.",
+                "Sanatsal duyuların bütünüdür.",
+                "Duygu ve düşüncelerimizin bir yansımasıdır.",
+                "Görsel düşünme ve algılarımızı harekete geçiren bir etkinlik türüdür.",
+                "Çevremizdeki izlenimlerimizi yansıtmak için bilinçaltımızda gerçekleşen organize bir eylemdir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 117,
+            "question": "Sürekli değişen duyusal girdilere rağmen nesnelerin biçimlerini, büyüklüklerini, yerlerini ve renklerini algılamaya ne ad verilir?",
+            "options": [
+                "Algıda seçicilik",
+                "Algıda süreklilik",
+                "Algıda değişmezlik",
+                "Algıda basitlik",
+                "Algıda yakınlık"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 118,
+            "question": "Görsel kültür ve görsel iletişim bağlamında kullanılan sembollerin/piktogramların en çok kullanıldığı alanlar aşağıdakilerden hangisidir?",
+            "options": [
+                "Sadece bilim ve endüstriyel tasarım alanları",
+                "Sadece teknoloji kullanımı",
+                "Eğitim sistemi",
+                "Havaalanı, metro, sinema, trafik gibi kamusal alanlar",
+                "Ev yaşamı ve sosyal ilişkiler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 119,
+            "question": "Aşağıdakilerden hangisi \"kör nokta\"nın tanımıdır?",
+            "options": [
+                "Sinirlerin göz küresinden çıktığı bölümdür.",
+                "Elektro manyetik sinir uçlarının hasar görmesidir.",
+                "Retina hareketlerinin kısıtlandığı bir durumdur.",
+                "Tamamen biyolojik bir problemdir.",
+                "Ağ tabakada ışık duyargalarının bulunmadığı noktadır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 120,
+            "question": "Algıladığımız an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere ne ad verilir?",
+            "options": [
+                "Algı yanılsaması",
+                "Algıda seçicilik",
+                "Algıda değişmezlik",
+                "Görsel Yanılsama",
+                "Görsel algılama"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "634021"
+        },
+        {
+            "id": 121,
+            "question": "Karşısında estetik tavır alınan, estetik yaşantının konusu ya da objesi olan şey nedir?",
+            "options": [
+                "Estetik Tavır",
+                "Estetik Özne",
+                "Estetik Nesne",
+                "Estetik Fenomen",
+                "Estetik Beğeni"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 122,
+            "question": "Walter Benjamin'in, sanat yapıtının içinde bulunduğu ortamla yani dış bağlamıyla kurduğu ilişki ve sanat eserinin biricikliği anlamında kullandığı kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Sinerji",
+                "Özgünlük",
+                "Kiç",
+                "Fenomen",
+                "Aura"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 123,
+            "question": "Benedeto Croce güzellik kavramı yerine aşağıdaki kavramlardan hangisini kullanmıştır?",
+            "options": [
+                "İfade",
+                "Mimesis",
+                "Tin",
+                "Nous",
+                "Ruh"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 124,
+            "question": "Gündelik yaşam içinde yoğun olarak kullanılan estetik kavramının geçmişi aşağıdaki kültürlerden hangisine kadar gider?",
+            "options": [
+                "Hitti",
+                "Sasaniler",
+                "Antik Yunan",
+                "Sümer",
+                "Antik Mısır"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 125,
+            "question": "Bir estetik obje'yi algılayan, onu kavrayan ve ondan estetik olarak hoşlanan, ondan estetik haz duyan bilinç varlığı, 'ben' anlamına gelen kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Estetik beğeni",
+                "Estetik tavır",
+                "Estetik",
+                "Estetik süje",
+                "Estetik obje"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 126,
+            "question": "Dikdörtgen içerisine görüntüyü estetik endişeler ile yerleştirmektir. Görüntünün sınırlarını sanatçı duyarlılığı ile belirlemektir. Bu aynı zamanda bir tür anlatım ve yorumlama şeklidir. Yukarıda anlatılan görüntünün yakalanmasındaki en önemli aşama aşağıdakilerden hangisidir?",
+            "options": [
+                "Kadrajlama",
+                "Pozlama",
+                "Netlik",
+                "Keskinlik",
+                "Alan derinliği"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 127,
+            "question": "Fotoğraf makinelerinin görüntü oluşturabilmesi için ihtiyaç duyulan ışık miktarına ne ad verilir?",
+            "options": [
+                "Kadraj",
+                "Beyaz dengesi",
+                "Keskinlik",
+                "Netlik",
+                "Pozlama"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 128,
+            "question": "İki boyutlu olan fotoğrafın üç boyutlu algılanmasındaki unsur aşağıdakilerden hangisidir?",
+            "options": [
+                "Keskinlik",
+                "Netlik",
+                "Vizör",
+                "Derinlik",
+                "Objektif"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 129,
+            "question": "Aşağıdakilerden hangisi portre fotoğrafçılığında çerçeve içine yerleştirmede kullanılan yöntemlerden biri <u>değildir</u>?",
+            "options": [
+                "Bel plan",
+                "Çene plan",
+                "Omuz plan",
+                "Göğüs plan",
+                "Diz altı plan"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 130,
+            "question": "Fotoğrafın sanat olarak ele alınmasındaki en önemli özellik aşağıdakilerden hangisidir?",
+            "options": [
+                "Görüntünün hızlı elde edilmesi",
+                "Doğayı gerçekçi göstermesi",
+                "Fotoğrafçının görme biçimi",
+                "Kamera kullanımı",
+                "Çoğaltılabilmesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 131,
+            "question": "1855'te ilk savaş fotoğrafçısı olarak İngiliz Kraliçesi'nin emri ile Kırım Savaşı'nı görüntülemek için gönderilen fotoğrafçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Roger Fenton",
+                "William Henry Fox Talbot",
+                "Eadweard Muybridge",
+                "John William Draper",
+                "Robert Cornelius"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 132,
+            "question": "Işık ışınlarının doğrusal yayılımı ilkesini bulan kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Paolo Toscanelli",
+                "Leonardo da Vinci",
+                "Gemma Frisius",
+                "David Brewster",
+                "Ibn Al-Haytam"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 133,
+            "question": "Görsel etki uyandırmaktan daha çok anlatımın inandırıcılığının ve hikayenin desteklenmesinin önemsendiği fotoğrafçılık türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Reklam fotoğrafçılığı",
+                "Sokak fotoğrafçılığı",
+                "Belgesel fotoğrafçılık",
+                "Mimari fotoğrafçılık",
+                "Stüdyo fotoğrafçılığı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 134,
+            "question": "Beyaz Dengesi (white balance) değerlerinden 5200 Kelvin karşılık gelir.",
+            "options": [
+                "floresana",
+                "tungstene",
+                "gölgeye",
+                "bulutluya",
+                "doğrudan güneşli gün ışığına"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 135,
+            "question": "I. Diyafram<br>II. Enstantane hızı<br>III. Beyaz ayarı<br>IV. ISO hızı<br>Yukarıdakilerden hangileri pozlamanın omurgası sayılan pozlama üçgeni kavramlarındandır?",
+            "options": [
+                "I ve II",
+                "I ve III",
+                "I, II ve III",
+                "I, II ve IV",
+                "II, III ve IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 136,
+            "question": "Bir çeşit optik illüzyon olarak da bilinen, algılanan an ya da durum ile gerçek durum arasındaki farklılıklar aşağıdakilerden hangisiyle açıklanır?",
+            "options": [
+                "Algı dağınıklığı",
+                "Algı yanılsaması",
+                "Algı basitliği",
+                "Algı bozulması",
+                "Algı eksikliği"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 137,
+            "question": "Aşağıdakilerden hangisi \"kör nokta\"nın tanımıdır? Işık hareketlerinin duyargalarının kısıtlandığı bir durumdur. Retinadaki hasar görmesidir. Tamamen biyolojik bir problemdir. Sinirlerin göz küresinden çıktığı bölümdür.",
+            "options": [
+                "Ağ tabakada",
+                "Retinada",
+                "C) Duyusal sinir uçlarının",
+                "D) Tamamen biyolojik bir problemdir.",
+                "Sinirlerin göz küresinden çıktığı bölümdür."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 138,
+            "question": "İnsanların duyu organlarına gelen uyaranlardan yalnızca bazılarına tepki vermesine ne ad verilir?",
+            "options": [
+                "Kör nokta",
+                "Algıda seçicilik",
+                "Duyumlanma",
+                "Görsel algılama",
+                "İmgeleme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 139,
+            "question": "İnsanlar arasında söze gerek duymadan, sembol ve işaretler aracılığı ile gerçekleştirilen iletişim türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Elektronik iletişim",
+                "Yazılı iletişim",
+                "Kişilerarası iletişim",
+                "Görsel iletişim",
+                "Duyusal iletişim"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 140,
+            "question": "Piktogramların kullanımına ilişkin aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Birçok piktogram evrensel karakter taşımaktadır.",
+                "Toplumsal değişimden ve gelişimden etkilenmezler.",
+                "Daha çok kamusal alanlarda kullanılmaktadır.",
+                "Ortak bir dil oluşturma konusunda başarılıdır.",
+                "Pratik ve kolay hatırlanmaları nedeniyle işlevselledir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634063"
+        },
+        {
+            "id": 141,
+            "question": "Aşağıdakilerden hangisi plastik sanatlar içerisinde yer almaz?",
+            "options": [
+                "Resim",
+                "Mimari",
+                "Seramik",
+                "Heykel",
+                "Tiyatro"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 142,
+            "question": "\"Sanatta değersizleşme, yozlaşma, çirkinleşme, meta değerini yükseltmek için sanat eseri görümünde sunulan nesne\" anlamına gelen kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Aura",
+                "Fenomen",
+                "Kitsch",
+                "Katharsis",
+                "Tin"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 143,
+            "question": "İnsanın coşkun bir anlatımla kendini bulduğu, formların sınırlarını zorlayarak anlatımın en kısa zaman diliminden sonsuz görüşlere kavuştuğu dönem aşağıdakilerden hangisidir?",
+            "options": [
+                "Barok",
+                "Rönesans",
+                "Maniyerizm",
+                "Gotik",
+                "Empresyonizm"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 144,
+            "question": "\"Poetika\" isimli eserinde sanat, sanatçı ve estetik üzerine düşüncelerini belirten düşünür aşağıdakilerden hangisidir?",
+            "options": [
+                "Platon",
+                "Aristoteles",
+                "Friedrich Schiller",
+                "Benedetto Croce",
+                "Plotinus"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 145,
+            "question": "Gündelik yaşam içinde yoğun olarak kullanılan kavramlardan olan estetik kavramının geçmişi aşağıdaki kültürlerden hangisine kadar gider?",
+            "options": [
+                "Hitit",
+                "Sümer",
+                "Antik Yunan",
+                "Antik Mısır",
+                "Sasaniler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 146,
+            "question": "Görsel etki uyandırmaktan daha çok anlatımın inandırıcılığının ve hikayenin desteklenmesinin önemsendiği fotoğrafçılık türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Reklam fotoğrafçılığı",
+                "Belgesel fotoğrafçılık",
+                "Mimari fotoğrafçılık",
+                "Sokak fotoğrafçılığı",
+                "Stüdyo fotoğrafçılığı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 147,
+            "question": "İstisnalar hariç olmak üzere, iki boyutlu yüzeylere uygulanan fotoğrafta, üçüncü boyutu hissettiren durum aşağıdakilerden hangisidir?",
+            "options": [
+                "Derinlik algısı",
+                "Fotoğraf kartının dokusu",
+                "Renk algısı",
+                "Işık etkisi",
+                "Kadrajlama"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 148,
+            "question": "Düşünceyi ön plana alan ve kavramsal bir yanı olduğu için geleneksel estetik değerleri bir yana bırakmayı zorunlu kılan sanat türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Güzel sanatlar",
+                "Zanaat",
+                "Güncel sanat",
+                "Postmodern sanat",
+                "Modern sanat"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 149,
+            "question": "Günün onaylanmış ve geçerli sanat anlayışlarını yadsıyan, deneyci sanatçıları ve onların yapıtlarını niteleyen sanat türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Çağdaş sanat",
+                "Modern sanat",
+                "Postmodern sanat",
+                "Avangart sanat",
+                "Güncel sanat"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 150,
+            "question": "Fotoğrafın sanat olarak ele alınmasındaki en önemli özellik aşağıdakilerden hangisidir?",
+            "options": [
+                "Fotoğrafçının görme biçimi",
+                "Çoğaltılabilmesi",
+                "Doğayı gerçekçi göstermesi",
+                "Görüntünün hızlı elde edilmesi",
+                "Kamera kullanımı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 151,
+            "question": "I. Diyafram<br>II. Enstantane hızı<br>III. Beyaz ayarı<br>IV. ISO değeri<br><br>Yukarıdakilerden hangileri pozlama üçgenini oluşturan kavramlarından- dır?",
+            "options": [
+                "I ve II.",
+                "I, II ve III.",
+                "I, II ve IV.",
+                "II, III ve IV.",
+                "I, III ve IV"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 152,
+            "question": "Beyaz Dengesi (white balance) değerlerinden 5200 Kelvin karşılık gelir.",
+            "options": [
+                "gölgeye",
+                "bulutluya",
+                "tungstene",
+                "floresana",
+                "doğrudan güneşli gün ışığına"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 153,
+            "question": "bir fotoğrafın çekim tekniği olarak doğru pozlandığının ölçümünün yapıldığı grafiktir. üzerinde renk doygunluğu ve parlaklık kalitesinin ne düzeyde olduğunu görebilirsiniz.",
+            "options": [
+                "Histogram",
+                "Beyaz ayarı",
+                "Enstantane",
+                "Poz telafisi",
+                "Otomatik netleme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 154,
+            "question": "Genellikle küçük bir ampulle sembolize edilir. Bu ayarı fotoğraf makinesinde seçildiğinde, akkor ampul aydınlatması fotoğrafa vereceği sarartmayı dengeleyerek fotoğraftaki renkleri soğutacaktır. Yukarıda tanımlanan otomatik beyaz ayarı aşağıdakilerden hangisidir?",
+            "options": [
+                "Gölge",
+                "Tungsten",
+                "Floresan",
+                "Otomatik",
+                "Flaş"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 155,
+            "question": "Algıladığımız an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere ne ad verilir?",
+            "options": [
+                "Görsel Yanılsama",
+                "Algıda değişmezlik",
+                "Görsel algılama",
+                "Algıda seçicilik",
+                "Algı yanılsaması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 156,
+            "question": "Dijital fotoğrafçılıkta kullanılan HDR çekim tekniğinin Türkçe karşılığı aşağıdakilerden hangisidir?",
+            "options": [
+                "Hızlı seri çekim",
+                "Uzun süreli pozlama",
+                "Yüksek dinamik aralık",
+                "Yüksek dijital aralık",
+                "Dinamik aralık artışı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 157,
+            "question": "Aşağıdakilerden hangisi görsel okuryazarlık becerileri içinde yer almaz?",
+            "options": [
+                "Görselleri tasarlama",
+                "İmleri yorumlama",
+                "Görselleri sunabilme",
+                "Duyusal algıları analiz etme",
+                "Görüntüleri algılama"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 158,
+            "question": "Aşağıdakilerden hangisi \"kör nokta\"nın tanımıdır?",
+            "options": [
+                "Retina hareketlerinin kısıtlandığı bir durumdur.",
+                "Ağ tabakada ışık duyargalarının bulunmadığı noktadır.",
+                "Sinirlerin göz küresi ile buluştuğu ve sabitlendiği bölümdür.",
+                "Elektro manyetik sinir uçlarının hasar görmesidir.",
+                "Tamamen biyolojik bir problemdir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 159,
+            "question": "İnsanların duyu organlarına yalnızca bazılarına gelen tepki vermesine ne ad verilir?",
+            "options": [
+                "Kör nokta",
+                "Görsel algılama",
+                "Duyumsama",
+                "Algıda seçicilik",
+                "İmgeleme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 160,
+            "question": "Gardner'ın Çoklu Zekâ Kuramına göre aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Mantıksal ve duygusal olmak üzere sadece iki farklı zekâ türü vardır.",
+                "Zekâ, yalnızca bireyin akademik başarılarıyla ölçülebilir.",
+                "Zekâ, sadece standart psikometrik araçlarla ölçülebilir.",
+                "Zekâ, sadece doğuştan gelen bir yetenektir ve eğitimle geliştirilemez.",
+                "Her bir zekâ türlerine sahiptir ve bu zekâlar farklı düzeylerde gelişebilir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634092"
+        },
+        {
+            "id": 161,
+            "question": "Latince \"modo\" kökünden türetilmiş olup \"şimdi\" anlamına gelen, 18. ve 19. yüzyıl, endüstrileşme çağına işaret eden dönem aşağıdakilerden hangisidir?",
+            "options": [
+                "Modern sanat",
+                "Güncel sanat",
+                "Avangard sanat",
+                "Post modernizm",
+                "Klasik sanat"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 162,
+            "question": "Hegel felsefesinde, insanın kendi aklı ile yarattığı doğanın karşıtı olan her şeye ne ad verilir?",
+            "options": [
+                "Deha",
+                "Geist (tin)",
+                "Nous",
+                "Numen",
+                "Fenomen"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 163,
+            "question": "Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullarda aşağıdaki ISO hız değerlerinden hangisini kullanmak gerekir?",
+            "options": [
+                "ISO 50",
+                "ISO 100",
+                "ISO 200",
+                "ISO 800",
+                "ISO 3200"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 164,
+            "question": "Aşağıdakilerden hangisi algıda kişiye bağlı değişkenlerden biri <u>değildir</u>?",
+            "options": [
+                "Gereksinimler",
+                "Beklentiler",
+                "İlgi alanları",
+                "Nesnenin fiziksel özellikleri",
+                "Değerler ve inançlar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 165,
+            "question": "Çekimlerin yapıldığı set ve stüdyo gibi mekânların genel aydınlatmasında kullanılan ışık kaynağı aşağıdakilerden hangisidir?",
+            "options": [
+                "Fon ışığı",
+                "Alt ışık",
+                "Anahtar ışık",
+                "Yansıyan ışık",
+                "Çapraz ışık"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 166,
+            "question": "Dış mekânlarda yapılan çekimlerde ışığın yoğunluğu fazla ise kullanılması gereken filtre aşağıdakilerden hangisidir?",
+            "options": [
+                "Gri filtre",
+                "Ultraviyole Filtre",
+                "Mavi Filtre",
+                "Polarize Filtre",
+                "Beyaz Filtre"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 167,
+            "question": "Spot ışığının sertliğini yumuşatmak için spotların önüne koyulması gereken filtre aşağıdakilerden hangisidir?",
+            "options": [
+                "Renk Düzeltme Filtresi",
+                "Beyaz Filtre",
+                "Mavi Filtre",
+                "Ultraviyole Filtre",
+                "Polarize Filtre"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 168,
+            "question": "Herhangi bir nesnenin yapısında ya da bir tasarımda bir ögenin aynen veya çok yakın değerde birden fazla sayıda var olması, Bauhaus öğretilerine göre temel tasarım ilkelerinden hangisini oluşturur?",
+            "options": [
+                "Egemenlik",
+                "Birlik",
+                "Tekrar",
+                "Denge",
+                "Hareket"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 169,
+            "question": "Arka ışığın az olması ya da hiç olmaması sonucu ortaya çıkan aydınlatma biçimine ne ad verilir?",
+            "options": [
+                "Notan aydınlatma",
+                "Rembrandt aydınlatması",
+                "Cameo aydınlatması",
+                "Tek ışık kaynaklı doğal aydınlatma",
+                "Chiaroscuro aydınlatma"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 170,
+            "question": "Aşağıdakilerden hangisi Pragnanz yasalarından olan uzaklık ve derinlik algısı yaratmada kullanılan ilkelerden biridir?",
+            "options": [
+                "Denge",
+                "Saydamlık",
+                "Egemenlik",
+                "Tekrar",
+                "Birlik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 171,
+            "question": "Arnheim'e göre bir nesnenin fiziksel yapısına bire bir benzemese de nesnenin tanınmasını sağlayan ve bakıldığında hemen göze çarparak algılanabilen en temel özellik aşağıdakilerden hangisidir?",
+            "options": [
+                "Renk",
+                "Kompozisyon",
+                "Çizgi",
+                "Işık - gölge",
+                "Şekil"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 172,
+            "question": "Sözcülüğünü John Ruskin' in yaptığı, sanat ve zanaatın birbirlerine yeniden ve olabildiğince yakınlaşmasını sağlamaya yönelik ilk girişim olan sanat akımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Art Nouveau",
+                "Bauhaus",
+                "Art Brut",
+                "Art Deco",
+                "Art and Craft"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 173,
+            "question": "Alt bakış açısından yapılmış kamera çekimlerinde objelerin görünüşü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Bulanık görünür.",
+                "Küçük görünür.",
+                "Kesik kesik görünür.",
+                "Gereğinden büyük görünür.",
+                "Sağa veya sola eğik görünür."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 174,
+            "question": "Genellikle belgesel türü filmlerde kullanılan kurgu çeşidi aşağıdakilerden hangisidir?",
+            "options": [
+                "Benzetmeli kurgu",
+                "Kesintisizlik kurgusu",
+                "Çözümleyici kurgu",
+                "Derleme kurgusu",
+                "Anlıksal kurgu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 175,
+            "question": "Kamera hareketlerinden olan kaydırma hareketi aşağıdaki mercek türlerinden hangisiyle yapılmalıdır?",
+            "options": [
+                "Değişken odaklı merceklerle",
+                "Standart merceklerle",
+                "Dar açılı merceklerle",
+                "Balık gözü merceklerle",
+                "Geniş açılı merceklerle"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 176,
+            "question": "Filmde yer alan durağan fotoğraf karelerinin görüntüye dönüşme sürecini hareket paradoksu çerçevesinde hareket halindeki bir okla açıklayan düşünür aşağıdakilerden hangisidir?",
+            "options": [
+                "Parmenides",
+                "Aristo",
+                "Zenon",
+                "Platon",
+                "Sokrates"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 177,
+            "question": "Storyboard çalışmalarının temel amacı aşağıdakilerden hangisidir?",
+            "options": [
+                "Yazılı öyküyü görselleştirmek",
+                "Bakış açısını geliştirmek",
+                "Çekim-prodüksiyon kısmında zaman kazandırmak",
+                "Renkli hale getirmek",
+                "Her türlü yüzey üzerine çizilebilmek"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 178,
+            "question": "Hayali zaman türünün, en çok görüldüğü film türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Savaş",
+                "Biyografi",
+                "Bilimkurgu",
+                "Belgesel",
+                "Casusluk"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 179,
+            "question": "Şimdinin asıl gerçeklikte geçen zaman olduğu ve evrenin her yerinde aynı olduğu düşüncesi aşağıdaki zaman yaklaşımlarından hangisinde yer alır?",
+            "options": [
+                "Sübjektif zaman",
+                "Mutlak zaman",
+                "Göreli zaman",
+                "Biyolojik zaman",
+                "Depolanan zaman"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 180,
+            "question": "Ölçülebilen zamana ne ad verilir?",
+            "options": [
+                "Psikolojik zaman",
+                "Süre",
+                "Öznel zaman",
+                "Nesnel zaman",
+                "Soyut zaman"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "633995"
+        },
+        {
+            "id": 181,
+            "question": "Genel olarak, algının nesnesi, algılanan ya da bilince görünen şey, gözlemlenebilir olan olay ya da olgu anlamına gelen kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Katharsis",
+                "Fenomen",
+                "Perspektif",
+                "Yansıtma",
+                "Mimesis"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 182,
+            "question": "İlk kez 1970 sonrası gündeme gelen ve geleneksel estetik değerleri bir yana bırakıp, düşünceyi ön plana alan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Baskı sanatı",
+                "Geleneksel sanat",
+                "Güncel sanat",
+                "Dışavurumcu sanat",
+                "Görsel sanat"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 183,
+            "question": "Deklanşöre basmaya başladığınızda netleme bir kez ayarlanır ve deklanşörden parmağınızı çekip tekrar netleme isteğini makineye gönderene kadar bu ayar sabit kalır. Yukarıda ifade edilen otomatik netleme parametresi aşağıdakilerden hangisidir?",
+            "options": [
+                "Kullanıcı seçili netleme alanı",
+                "Makro kilitleme",
+                "Sürekli otomatik odaklama",
+                "Dinamik odaklama alanı",
+                "Tek nokta otomatik odaklama"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 184,
+            "question": "Bir çeşit optik illüzyon olarak da bilinen, algılanan an ya da durum ile gerçek durum arasındaki farklılıklar hangisiyle açıklanır?",
+            "options": [
+                "Algı yanılsaması",
+                "Algı basitliği",
+                "Algı dağınıklığı",
+                "Algı bozulması",
+                "Algı eksikliği"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 185,
+            "question": "Konunun konturlarının belirgin hale getirilmesi için arka ışıkla yapılan aydınlatma ışığına ne ad verilir?",
+            "options": [
+                "Kostüm ışığı",
+                "Fon ışığı",
+                "Kenar ışığı",
+                "Temel ışık",
+                "Hale ışığı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 186,
+            "question": "Spot ışığının sertliğini yumuşatmak için kullanılacak filtre aşağıdakilerden hangisidir?",
+            "options": [
+                "Polarize filtre",
+                "Beyaz filtre",
+                "ND filtre",
+                "Ultraviyole filtre",
+                "Mavi filtre"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 187,
+            "question": "Bulutsuz bir günde, açık havada çekimi yapılacak olan konunun üzerinde oluşan keskin gölgeleri azaltmak için aşağıdakilerden hangisi yapılmalıdır?",
+            "options": [
+                "Çekimi yapılan konu ile güneş arasına çoğunlukla beyaz bir tül yerleştirilir.",
+                "Konunun üzerine gelen ışığın açısı yönlendirilebilir.",
+                "Konu ve ışık kaynağı arasındaki mesafe ayarlanabilir.",
+                "Konu ve ışık kaynağı arasındaki yön değiştirilebilir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 188,
+            "question": "Ritimle beraber yanıp sönen ve ritimle eş zamanlı çalıştırılabilen flaş görünümündeki stüdyo dışı kullanılan ışık kaynağı çeşidi aşağıdakilerden hangisidir?",
+            "options": [
+                "Anahtar ışık",
+                "Balon ışık",
+                "Strop ışık",
+                "Par projektör ışığı",
+                "El Feneri ışığı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 189,
+            "question": "Aşağıdaki çizgi çeşitlerinden hangisi dengeyi ve gücü (kuvvet) vurgular?",
+            "options": [
+                "Dikey çizgi",
+                "Düz çizgi",
+                "Doğru çizgi",
+                "Eğri çizgi",
+                "Zikzak çizgi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 190,
+            "question": "Kompozisyon oluşturmada, birlik kurmanın ve yaratmanın bilinen en basit ve en etkili ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Denge",
+                "Tekrar",
+                "Hareket",
+                "Birlik",
+                "Egemenlik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 191,
+            "question": "Derleme kurgunun genellikle kullanıldığı film türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Animasyon",
+                "Romantik",
+                "Aksiyon",
+                "Belgesel",
+                "Macera"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 192,
+            "question": "Aşağıdakilerden hangisi görsel etkiyi artırma yöntemlerinden biri <u>değildir</u>?",
+            "options": [
+                "Birlik",
+                "Kesme",
+                "Derinlik",
+                "Ölçü",
+                "Denge"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 193,
+            "question": "Orta Çağ'da genel olarak kullanılan kompozisyon türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Asimetrik Kompozisyon",
+                "Serbest kompozi-syon",
+                "Z Kompozisyon",
+                "Kare Kompozisyon",
+                "Simetrik kompozisyon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 194,
+            "question": "İnsanlar tarafından üretilmiş olan bir yapıt üç temel özelliğiyle var olmaktadır. Yukarıdaki ifadeye göre, bireyi ve yapıtını aynı çağda yaşadığı diğer insanlardan ayıran özellik aşağıdakilerden hangisidir?",
+            "options": [
+                "Bilimsellik",
+                "Görsellik",
+                "Bireysellik",
+                "Zaman",
+                "Evrensellik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 195,
+            "question": "Doğa ile bağlantılı olarak gece-gündüz döngüsü, mevsimlerin değişimi gibi döngüselliklerle bağlantılı zaman anlayışı aşağıdakilerden hangisidir?",
+            "options": [
+                "Dışsal zaman",
+                "Doğal zaman",
+                "İçsel zaman",
+                "Mitolojik zaman",
+                "Evrensel zaman"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 196,
+            "question": "İnsanlar üzerinde dinamizm, resim derinliği ve hareket duygusu sağlamak için, görsel etkiyi artırma yöntemlerinden hangisi kullanılmalıdır?",
+            "options": [
+                "Soğuk renkler",
+                "Diagonal çizgiler",
+                "Asimetrik denge",
+                "Derinlik",
+                "Sadelik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 197,
+            "question": "Filmde geçen sürenin gerçek zamanla uyum hâlinde olduğu zaman türü aşağıdaki seçeneklerden hangisidir?",
+            "options": [
+                "Örgütsel zaman",
+                "Kurgusal zaman",
+                "Hayali zaman",
+                "Zaman",
+                "Yönetsel zaman"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 198,
+            "question": "Temel çekim ölçeklerinden biri olan diz çekiminin kullanım nedeni aşağıdakilerden hangisidir?",
+            "options": [
+                "İstenmeyen görüntülerin görüntü çerçevesi içine girmemesi için kullanılır.",
+                "Yüz ifadelerini vermek için kullanılır.",
+                "Haber çekimlerinde kullanım kolaylığı ile öne çıkar.",
+                "Genelde röportaj çekimlerinde kullanılır.",
+                "İzleyenlerde bir etki bırakılmak isteniyorsa kullanılır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 199,
+            "question": "Saate veya takvime bağlı olarak ölçülebilen, gözlenebilen, takip edilebilen zaman türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Psikolojik zaman",
+                "Biyolojik zaman",
+                "Objektif zaman",
+                "Subjektif zaman",
+                "Derin zaman"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 200,
+            "question": "Hayali zaman türünün, en çok görüldüğü film türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Biyografi",
+                "Casusluk",
+                "Belgesel",
+                "Bilimkurgu",
+                "Savaş"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "634039"
+        },
+        {
+            "id": 201,
+            "question": "Özellikle Hegel felsefesinde geniş anlam ifade eden kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Tin",
+                "İdea",
+                "Eleştiri",
+                "Oyun",
+                "Sezgi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 202,
+            "question": "Hayal dünyasında tasarlanan, nasıl olduğu bilinen, bilinçte beliren nesne ve olaylara ne ad verilir?",
+            "options": [
+                "Rüya",
+                "Hafıza",
+                "İmge",
+                "Görme",
+                "Algı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 203,
+            "question": "Aşağıdaki durumlardan hangisinde pozlama telafisine gerek <u>yoktur</u>?",
+            "options": [
+                "Parlak gökyüzü ve gece sahneleri",
+                "Çok hareketli sahneler",
+                "Karlı sahneler",
+                "Plaj, deniz yansıması olan sahneler",
+                "Arkadan aydınlatmalı sahneler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 204,
+            "question": "Algılanan an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere ne ad verilir?",
+            "options": [
+                "Algı",
+                "Duyum",
+                "Göz kusuru",
+                "Algı yanılsaması",
+                "Metafor"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 205,
+            "question": "Aşağıdakilerden hangisi tek ışık kaynağı kullanarak çekimi yapılacak olan konunun üzerinde oluşan etkinin denetlenme yollarından biri <u>değildir</u>?",
+            "options": [
+                "Işığın filtreler yardımıyla renk ve kelvin derecesi değiştirilebilir.",
+                "Işık şiddeti ayarlanabilir.",
+                "Konu ve ışık kaynağı arasındaki yön sabittir.",
+                "Konu üzerine gelen ışığın yayılması denetlenebilir.",
+                "Konu ve ışık kaynağı arasındaki mesafe ayarlanabilir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 206,
+            "question": "Gündüz, güneşli bir günde, bir göl kenarında manzara fotoğrafları çekecek olan bir fotoğrafçı, ışık parlamalarını ve yansımalarını engellemek için aşağıdaki filtrelerden hangisini kullanmalıdır?",
+            "options": [
+                "Ultraviyole filtre",
+                "Mavi filtre",
+                "Renk düzeltme filtresi",
+                "Beyaz filtre",
+                "Polarize filtre"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 207,
+            "question": "Dikkatin belirli bir nokta üzerine çekilmesi amacı ile yapılan ve güçlü ışık kaynakları kullanılan aydınlatma türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Rembrandt Aydınlatması",
+                "Cameo Aydınlatması",
+                "Notan Aydınlatma",
+                "Chiaroscuro Aydınlatma",
+                "Silüet aydınlatma"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 208,
+            "question": "Bauhaus öğretilerine göre temel tasarım ilkeleri aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Tekrar, zıtlık ve egemenlik",
+                "Egemenlik, zıtlık ve biçim",
+                "Tekrar, hareket ve biçim",
+                "Biçim, zıtlık ve tekrar",
+                "Biçim, hareket ve egemenlik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 209,
+            "question": "Çekimlerde fon ışığının kullanımı ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Fon ışığının seçiminde yumuşak ve dağınık ışıklar tercih edilmelidir.",
+                "Fona göre konuşmacıya gereğinden fazla ışık vermekten kaçınılmalıdır.",
+                "Konuşmacıları parlak fonların önünde çekmekten kaçınılmalıdır.",
+                "Konunun tonlarıyla fonun tonlarının birbirlerine yakın olmasına dikkat etmek gerekir.",
+                "Fon ışığının yoğunluğu anahtar ışığın 1/3'ü kadar olmalıdır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 210,
+            "question": "Güncel yaşam biçimine ve postmodern dünya görüşüne uygun düşen kompozisyon türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Kare kompozisyon",
+                "Spiral kompozisyon",
+                "Serbest kompozisyon",
+                "Z eksenli kompozisyon",
+                "Simetrik kompozisyon"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 211,
+            "question": "Orta Çağ'da genel olarak kullanılan kompozisyon türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Serbest kompozisyon",
+                "Asimetrik kompozisyon",
+                "Z Kompozisyon",
+                "Kare kompozisyon",
+                "Simetrik kompozisyon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 212,
+            "question": "Aşağıdakilerden hangisi simetrik kompozisyonun bir türevi <u>değildir</u>?",
+            "options": [
+                "Üçgen",
+                "Elips",
+                "Z ekseni",
+                "Spiral",
+                "Daire"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 213,
+            "question": "Çerçeve içinde yer alan bir konunun büyüklüğünü anlatan ve görsel etkiyi artırma yöntemlerinden biri olan öge aşağıdakilerden hangisidir?",
+            "options": [
+                "Birlik",
+                "Sadelik",
+                "Çizgi",
+                "Derinlik",
+                "Ölçü"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 214,
+            "question": "Aşağıdakilerden hangisi film kurgusunda en çok kullanılan görüntü geçiş türü yöntemidir?",
+            "options": [
+                "Açılma ve kararma",
+                "Kesme",
+                "Silinme",
+                "Bindirme",
+                "Zincirleme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 215,
+            "question": "Dinamizm, resim derinliği ve hareket duygusu etkisi yaratmak için kullanılacak çizgiler aşağıdakilerden hangisidir?",
+            "options": [
+                "Yatay",
+                "Düz",
+                "Dikey",
+                "Eğik",
+                "Yuvarlak"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 216,
+            "question": "Uçak korkusu olan bir yolcunun 50 dakikalık yolculuğu çok daha uzun hissetmesi aşağıdaki zaman türlerinden hangisine bir örnektir?",
+            "options": [
+                "Sübjektif zaman",
+                "Geçmiş zaman",
+                "Objektif zaman",
+                "Biyolojik zaman",
+                "Yaşanan zaman"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 217,
+            "question": "Genellikle belgesel türü filmlerde kullanılan kurgu çeşidi aşağıdakilerden hangisidir?",
+            "options": [
+                "Anlıksal kurgu",
+                "Derleme kurgusu",
+                "Kesintisizlik kurgusu",
+                "Çözümleyici kurgu",
+                "Görseldeki kurgu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 218,
+            "question": "Daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Süjesel zaman",
+                "Algılanan zaman",
+                "Reel zaman",
+                "Kurgusal zaman",
+                "Hayali zaman"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 219,
+            "question": "Zamanı bir nokta üzerinden diğer bir nokta üzerine hareket eden kesintisiz, dinamik ve döngüsel olmayan şey olarak ifade eden düşünür aşağıdakilerden hangisidir?",
+            "options": [
+                "Aristotales",
+                "Newton",
+                "Platon",
+                "Henri Bergson",
+                "Kant"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        },
+        {
+            "id": 220,
+            "question": "Filmde yer alan durağan fotoğraf karelerinin görüntüye dönüşme sürecini hareket paradoksu çerçevesinde hareket halindeki bir okla açıklayan düşünür aşağıdakilerden hangisidir?",
+            "options": [
+                "Zeno",
+                "Sokrates",
+                "Parmenides",
+                "Aristo",
+                "Platon"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634074"
+        }
+    ]
+}

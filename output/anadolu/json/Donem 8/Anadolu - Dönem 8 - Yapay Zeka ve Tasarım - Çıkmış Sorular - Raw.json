@@ -1,0 +1,604 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Aşağıdakilerden hangisi iletişim sürecini oluşturan unsurlar arasında yer <u>almaz</u>?",
+            "options": [
+                "Geri Bildirim",
+                "Alıcı",
+                "Gönderici",
+                "Toplayıcı",
+                "Mesaj"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 2,
+            "question": "Üretken yapay zekânın hangi aşamalarda ve ne ölçüde kullanıldığının açıkça belirtilmesi, Yükseköğretim Kurumu tarafından üretken yapay zekânın etik ilkelere uygun kullanımı konusunda yayımlanan rehbere göre hangi ilke kapsamındadır?",
+            "options": [
+                "Şeffaflık",
+                "Dürüstlük",
+                "Özen",
+                "Etik İklim Katkısı",
+                "Gizlilik ve Mahremiyetin Korunması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 3,
+            "question": "-------, 3D modelleme süreçlerini kolaylaştırmak ve otomatikleştirmek için geliştirilmiş çözümler sunar. Mimari tasarımlar ve animasyonlar için yoğun bir şekilde kullanılır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Adobe Firefly",
+                "Notion AI",
+                "Designify",
+                "Blender'ın Yapay Zekâ Eklentileri",
+                "Runway ML"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 4,
+            "question": "Bazı üretken yapay zekâ araçlarının yalnızca kullanıcı girdilerine dayanarak çıktılar oluşturması aşağıdaki sınırlılıklardan hangisi ile açıklanabilir?",
+            "options": [
+                "Lisans ve Fiyatlandırma",
+                "Yerel Dil ve Kültür Duyarlılığı",
+                "Özgünlük",
+                "Teknik Hatalar",
+                "Öğrenme Zorluğu"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 5,
+            "question": "Görsel İletişim tasarımının temel unsurlarından biri olan ve görsel unsurların birbiriyle etkileşim kurmasını sağlayarak izleyiciye belirli bir düzen duygusu ile estetik bir bakış açısı sunan öge aşağıdakilerden hangisidir?",
+            "options": [
+                "Renk",
+                "Ton",
+                "Biçim",
+                "Nokta",
+                "Doku"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 6,
+            "question": "Aşağıdakilerden hangisi endüstriyel uygulamalarda yapay zekâ destekli tasarım araçlarına örnek <u>değildir</u>?",
+            "options": [
+                "WooCommerce",
+                "General Motors",
+                "LEGO",
+                "Tesla",
+                "Dyson"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 7,
+            "question": "-------, elle çizilmiş taslakları veya ekran görüntülerini düzenlenebilir dijital prototiplere dönüştürür. Yapay zekâ algoritmalarıyla çalışan bu araç, erken aşamadaki tasarımların hızla geliştirilmesine olanak sağlar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Copy.AI",
+                "Leonardo AI",
+                "Adobe XD",
+                "Uizard",
+                "Figma"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 8,
+            "question": "-------, kullanıcı geri bildirimlerini hızlı bir şekilde tasarıma entegre etmek için yapay zekâ tabanlı animasyonlar ve prototipler sunar. Etkileşimli tasarımlar oluşturma özelliği ile kullanıcı deneyimi (UX) süreçlerini daha dinamik hâle getirir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Framer",
+                "Maze",
+                "Hotjar",
+                "Adobe Sensei",
+                "Figma"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 9,
+            "question": "Metinlerin okunabilirlik düzeyini artırmak için karmaşık ve uzun cümleleri sadeleştiren, aynı zamanda metindeki pasif yapıların yerine aktif yapı önerileri yapan yapay zeka tabanlı metin işleme aracı aşağıdakilerden hangisidir?",
+            "options": [
+                "Designify",
+                "Hemingway Editor",
+                "DeepL Writ",
+                "Rytr",
+                "Grammarly"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 10,
+            "question": "I. Özellikle düşük beceri gerektiren işler için iş gücünün ortadan kalkmasına yol açabilir. II. Üretkenlik, zaman yönetimi ve yaratıcılık gibi becerilere katkı sağlar. III. Etik sorunlar ve toplumsal eşitlik açısından önemli tartışmalara yol açabilir. IV. Maliyetleri çok yüksek olduğundan ulaşmak zordur. Yukarıdakilerden hangileri yapay zeka destekli tasarım araçları için doğrudur?",
+            "options": [
+                "I ve II",
+                "I ve III",
+                "II ve IV",
+                "I, II ve III",
+                "II, III ve IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 11,
+            "question": "Bir dizi/film platformu geliştirmek isteyen Aslan, kullanıcıların izleme geçmişini, beğenilerini ve arama davranışlarını analiz ederek kişiye özel önerilerde bulunulmasını sağlamak istemektedir. Aslan'ın bu isteği, yapay zekânın sağlamış olduğu hangi unsur sayesinde gerçekleşmektedir?",
+            "options": [
+                "Ayırt Edici Ağ",
+                "Veri Artırma",
+                "Kişiselleştirilmiş Tasarım",
+                "Veri Görselleştirme",
+                "Stil Transferi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 12,
+            "question": "-------, büyük verinin farklı formatlarda ve kaynaklardan gelmesini ifade eder. Bu veriler, yapılandırılmış (örneğin, bir veri tabanındaki sayısal bilgiler), yapılandırılmamış (örneğin, sosyal medya gönderileri, görseller, videolar) veya yarı yapılandırılmış (örneğin, e-posta mesajları, log dosyaları) olabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Büyüklük",
+                "Hız",
+                "Değer",
+                "Doğruluk",
+                "Çeşitlilik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 13,
+            "question": "Tasarımcıların, algoritmalar sayesinde genellikle monoton ve tekrar eden işler nedeniyle yaratıcı süreçlere yeterince zaman ayırmak zorunda kalmaması aşağıdaki kavramlardan hangisiyle açıklanabilir?",
+            "options": [
+                "Yenilikçi Çözümler",
+                "Kişiselleştirme",
+                "Stil Transferi",
+                "Yapay Sinir Ağları",
+                "Verimlilik Artışı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 14,
+            "question": "I. Stable Diffusion II. MidJourney III. DALL-E IV. Curipod Yukarıdakilerden hangisi/hangileri metinsel betimlemeleri görsel çıktılara dönüştüren yapay zeka araçlarından biri <u>değildir</u>?",
+            "options": [
+                "Yalnız IV",
+                "I ve II",
+                "I ve III",
+                "II ve III",
+                "III ve IV"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 15,
+            "question": "Geri bildirim ve veriye dayalı revizyonlar ile tasarımın sürekli geliştirilmesini sağlamak, veri odaklı tasarımın temel prensiplerinden hangisiyle ilgilidir?",
+            "options": [
+                "Yenilikçi Çözümler",
+                "Veri Toplama",
+                "Ölçülebilirlik",
+                "Kullanıcı Odaklılık",
+                "İteratif Süreç"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 16,
+            "question": "Günün saati, hafta içi veya hafta sonu gibi zamansal değişkenler bağlamsal farkındalığın hangi bileşeni ile ilgilidir?",
+            "options": [
+                "Fiziksel Bağlam",
+                "Sosyal Bağlam",
+                "Zemansal Bağlam",
+                "Döngüsel Bağlam",
+                "Dijital Bağlam"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 17,
+            "question": "Uyarlanabilir tasarımların, değişen kullanıcı ihtiyaçları ve çevresel faktörlere hızla uyum sağlaması aşağıdakilerden hangisi ile ilişkilidir?",
+            "options": [
+                "Gerçek Zamanlı Veri Analizi",
+                "Çevik Uyum Sağlama",
+                "YZ ve Makine Öğrenmesi",
+                "Kullanıcı Geri Bildirimi",
+                "Performans Simülasyonları"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 18,
+            "question": "Bina tasarımında pencere boyutları veya kolon aralıkları gibi parametrelerin değiştirilerek en verimli çözümlerin elde edilebildiği yaklaşım aşağıdakilerden hangisidir?",
+            "options": [
+                "Algoritmik Düşünme",
+                "Parametrik Modelleme",
+                "Optimizasyon Teknikleri",
+                "NURBS",
+                "Hızlı prototipleme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 19,
+            "question": "-------, karmaşık geometrilerin, serbest biçimli yüzeylerin ve organik yapıların yüksek doğrulukla modellenmesini mümkün kılmaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Bezier eğrileri",
+                "Hızlı prototipleme",
+                "NURBS",
+                "Üretken Çekişmeli Ağlar",
+                "Kişiselleştirilmiş Tasarım"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 20,
+            "question": "-------, karmaşık veri setlerini düşük boyutlu temsillere sıkıştırarak yeni ve optimize edilmiş tasarımlar üretir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Convolutional Neural Networks",
+                "Variational Autoencoders",
+                "Runway ML",
+                "Designify",
+                "Generative Adversarial Networks"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618235"
+        },
+        {
+            "id": 21,
+            "question": "-------, Video prodüksiyon ve medya işlemleri için kullanılan bir araçtır. Videoları manipüle etme, arka plan değiştirme ve yeni video üretme gibi işlevler sunar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Runway ML",
+                "Adobe Firefly",
+                "MidJourney",
+                "Jasper",
+                "Designify"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 22,
+            "question": "Aşağıdakilerden hangisi kullanıcı deneyimi (UX) tasarımında kullanılan yapay zekâ araçlarından biridir?",
+            "options": [
+                "Hotjar",
+                "Dall-E",
+                "Midjourney",
+                "Siemens NX",
+                "GPT-4"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 23,
+            "question": "Sınıflandırma, tahmin, veri analizi ve boyut azaltma gibi görevlerde etkin bir şekilde kullanılan bilgisayarların verilerden öğrenerek zamanla performansını iyileştirmesini sağlayan bir yapay zekâ dalıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "algoritma",
+                "makine öğrenmesi",
+                "programlama",
+                "hibrit öğrenme",
+                "yazılım"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 24,
+            "question": "Bir tasarım alanı içinde malzeme dağılımını belirli hedefler ve kısıtlar doğrultusunda optimize eden yöntem aşağıdakilerden hangisidir?",
+            "options": [
+                "Figma'nın Yapay Zekâ Entegrasyonu",
+                "Mimari Tasarım",
+                "Endüstriyel Tasarım",
+                "Enerji Sistemleri",
+                "Topoloji optimizasyonu"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 25,
+            "question": "Görsel ögelerin düzenlenme şekli olan ve bir görselin genel algısını güçlü bir şekilde etkileyen görsel estetiğin temel unsuru aşağıdakilerden hangisidir?",
+            "options": [
+                "Çizgi",
+                "Kompozisyon",
+                "Uyum",
+                "Tipografi",
+                "Renk"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 26,
+            "question": "Metin oluşturmanın ötesine geçerek, görsel ve içerik üretimi alanında da etkili çözümler sunmasıyla birlikte pazarlama ve reklamcılık sektöründe yaygın bir şekilde kullanılmaktadır. Fikir üretme, tutarlı bir marka görünümü sağlama ve kişiselleştirilmiş çözümler sunma konularında kullanıcılarına geniş bir yelpazede hizmet sunar. Kullanıcılar, fikirlerini yazarak tasarımın temelini oluşturabilir, ardından stil ve detay tercihlerini belirleyerek ihtiyaçlarına uygun içeriklere ulaşabilir. Yukarıda özellikleri sıralanmış olan yapay zekâ aracı aşağıdakilerden hangisidir?",
+            "options": [
+                "DALL-E 3",
+                "Canva",
+                "Jasper.ai",
+                "Midjourney",
+                "Adobe Sensei"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 27,
+            "question": "I. Gelişmiş yapay zekâ modelleri, tek bir formatta çalışmaktadır.<br>II. İlk üretken yapay zekâ uygulamaları, metin tamamlama ve basit dil modelleriyle sınırlıdır.<br>III. OpenAl tarafından geliştirilen GPT-1 modeli 2023 yılında ortaya çıkmıştır.<br>IV. GPT-3 modeli, üretken yapay zekâ için büyük bir sıçrama noktası olmuştur.<br>Üretken yapay zekânın gelişimi ile ilgili olarak yukarıdakilerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız IV",
+                "I ve II",
+                "I ve III",
+                "II ve III",
+                "II ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 28,
+            "question": "I. Bir markanın kimliğini yansıtan güçlü bir ifade biçimi olabilir.<br>II. Yapay zekâ araçları tipografi oluşturma sürecinde yalnızca hız ve otomasyon sağlar.<br>III. Yapay zekâ, kullanıcı verilerine dayalı olarak kişiselleştirilmiş tipografiler yaratabilir.<br>IV. Bir tipografi tasarımda metin ve görsel bileşenlerinin estetik bir düzen içinde yerleştirilmesi, sadece manuel müdahaleler ile mümkündür.<br>Tipografi ile ilgili olarak yukarıdakilerden hangisi/hangileri <u>yanlıştır</u>?",
+            "options": [
+                "Yalnız IV",
+                "I ve II",
+                "I ve III",
+                "II ve III",
+                "II ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 29,
+            "question": "Yapay zeka desteği ile birlikte gerçek zamanlı analizler yaparak hangi tasarımın daha etkili olduğunu hızlı bir şekilde belirler. Dönüşüm oranlarını artırmak için farklı tasarımların etkisini ölçebilir ve en başarılı varyasyonu önerebilir. Yukarıda özellikleri sıralanmış olan yapay zekâ aracı aşağıdakilerden hangisidir?",
+            "options": [
+                "Google Optimize",
+                "DALL-E 3",
+                "Jasper.ai",
+                "Midjourney",
+                "Adobe Sensei"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 30,
+            "question": "Kullanıcı deneyimini yapay zekanın kullanıcı deneyimine sunmuş olduğu katkılardan biri <u>değildir</u>?",
+            "options": [
+                "Yaratıcı Çözümler Sunma",
+                "Kişiselleştirme",
+                "Üretkenliği Azaltma",
+                "Hata Azaltma",
+                "Verimlilik Artışı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 31,
+            "question": "Kullanıcıların hangi görsel elementlere daha fazla dikkat ettiğini analiz ederek tasarımların kullanıcı ihtiyaçlarına uygun hâle getirilmesi, aşağıdaki unsurlardan hangisiyle ilişkilidir?",
+            "options": [
+                "Yeni Tasarım Fikirlerinin Üretimi",
+                "Platform Bağımsızlığı Sağlama",
+                "Rutin İşlerin Otomasyonu",
+                "Kullanıcı Odaklı Tasarım",
+                "Hata Azaltma"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 32,
+            "question": "Bir şirkette çalışan Masal, kullanıcı davranışlarını tahmin ederek tasarımcıların daha bilinçli kararlar almasına yardımcı olmak istemektedir. Masal bu isteğini gerçekleştirebilmek için aşağıdaki teknolojilerden hangisini kullanmalıdır?",
+            "options": [
+                "Nesnelerin İnterneti",
+                "Artırılmış Gerçeklik",
+                "Makine Öğrenimi Algoritmaları",
+                "5G",
+                "Sanal Gerçeklik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 33,
+            "question": "Yapay zekâ sistemlerinin bireylerin ihtiyaçlarına göre uyarlanabilir ve özelleştirilebilir olması, kullanıcıların geri bildirimleri doğrultusunda kendini güncelleyebilen dinamik modeller geliştirmesi, aşağıdaki alanlardan hangisiyle ilişkilidir?",
+            "options": [
+                "Yeşil Yapay Zekâ",
+                "Erişilebilirlik ve Kapsayıcılık",
+                "Telif Hakları ve Fikri Mülkiyet",
+                "Kişiselleştirme ve Adaptasyon",
+                "Yapay Zekâ Sanatçılığı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 34,
+            "question": "-------, çevre dostu, düşük karbonlu ve etik ilkelere uygun sistemler geliştirmeyi hedefleyen yaklaşımdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Görsel Tasarım Estetiği",
+                "Tasarım Etiği",
+                "İnsan-Makine İş Birliği",
+                "Yeşil Yapay Zekâ",
+                "Yapay Zekâ Sanatçılığı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 35,
+            "question": "Üretken yapay zekâ araçları tarafından sanatçıların imzalarının taklit edilebilmesi aşağıdaki unsurlardan hangisiyle ilişkilidir?",
+            "options": [
+                "Ön Yargı",
+                "Görsel Estetik",
+                "Telif Hakları ve Fikri Mülkiyet",
+                "İnsan-Makine İş Birliği",
+                "Sürdürülebilirlik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 36,
+            "question": "Bir tasarım sürecinde görme engelliler için ekran okuyucu yazılımların geliştirilmesi, aşağıdaki unsurlardan hangisiyle ilgilidir?",
+            "options": [
+                "Görsel Estetik",
+                "Yapay Zekâ Sanatçılığı",
+                "Tasarım Etiği",
+                "Erişilebilirlik ve Kapsayıcılık",
+                "Telif Hakları ve Fikri Mülkiyet"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 37,
+            "question": "-------, insanların yüz hareketlerini ve sesini gerçeğe uygun olacak şekilde taklit etmek veya değiştirmek için yapay zekâ teknikleri aracılığıyla fotoğrafların, videoların veya seslerin kullanılmasıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "DeepL",
+                "Deepfake",
+                "Machine Learning",
+                "Gen AI",
+                "Deep Web"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 38,
+            "question": "Bir üretken yapay zekâ modeli ile sahte bir görsel veya video oluşturularak yanlış bilgi yayılması aşağıdaki etik ihlallerinin hangisinin kapsamında yer alır?",
+            "options": [
+                "Dezenformasyon ve Manipülasyon",
+                "Telif Hakkı ve İntihal",
+                "Üretimin Çok Fazla Artması",
+                "Sosyokültürel Değerlerle Uyuşmazlık",
+                "Kişisel Verilerin Korunması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 39,
+            "question": "Üretken yapay zekâ modelleri kullanılarak insan davranışlarını taklit eden ve bilgisayar tarafından yaratılmış karakterler aşağıdakilerden hangisidir?",
+            "options": [
+                "Görsel Tanıma",
+                "Görüntü Kalitesini İyileştirme",
+                "Kullanıcı Deneyimini Kişiselleştirme",
+                "Görüntü Arka Planını Kaldırma",
+                "Sanal Etkileyiciler (Influencer) Yaratma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        },
+        {
+            "id": 40,
+            "question": "Aşağıdakilerden hangisi Yapay zekânın tasarımda kullanımı sonucu meydana gelen etik sorunlardan biri <u>değildir</u>?",
+            "options": [
+                "Kişisel verilerin ihlali",
+                "Üretimin çok fazla artması",
+                "Telif hakkı ve intihal",
+                "Dezenformasyon ve manipülasyon",
+                "Sosyokültürel değerlerle uyuşmazlık"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622607"
+        }
+    ]
+}
