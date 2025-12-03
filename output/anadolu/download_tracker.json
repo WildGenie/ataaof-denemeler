@@ -1647,5 +1647,887 @@
         "DownloadedAt": "2025-12-03T07:19:38.816761",
         "Filename": "Yaz Okulu 2024-2025 - 626552.pdf",
         "Course": "Görsel İletişim ve Kuramları"
+    },
+    "634078": {
+        "UpdatedAt": "2025-09-02 11:24:21",
+        "DownloadedAt": "2025-12-03T07:42:45.225277",
+        "Filename": "İnfografik - Ünite 1 - 634078.pdf",
+        "Course": "Görsel Estetik",
+        "Source": "local"
+    },
+    "634079": {
+        "UpdatedAt": "2025-09-02 11:24:21",
+        "DownloadedAt": "2025-12-03T07:42:45.226358",
+        "Filename": "İnfografik - Ünite 2 - 634079.pdf",
+        "Course": "Görsel Estetik",
+        "Source": "local"
+    },
+    "634080": {
+        "UpdatedAt": "2025-09-02 11:24:21",
+        "DownloadedAt": "2025-12-03T07:42:45.228061",
+        "Filename": "İnfografik - Ünite 3 - 634080.pdf",
+        "Course": "Görsel Estetik",
+        "Source": "local"
+    },
+    "634081": {
+        "UpdatedAt": "2025-09-02 11:24:21",
+        "DownloadedAt": "2025-12-03T07:42:45.229949",
+        "Filename": "İnfografik - Ünite 4 - 634081.pdf",
+        "Course": "Görsel Estetik",
+        "Source": "local"
+    },
+    "634082": {
+        "UpdatedAt": "2025-09-02 11:24:21",
+        "DownloadedAt": "2025-12-03T07:42:45.231009",
+        "Filename": "İnfografik - Ünite 5 - 634082.pdf",
+        "Course": "Görsel Estetik",
+        "Source": "local"
+    },
+    "634083": {
+        "UpdatedAt": "2025-09-02 11:24:21",
+        "DownloadedAt": "2025-12-03T07:42:45.232382",
+        "Filename": "İnfografik - Ünite 6 - 634083.pdf",
+        "Course": "Görsel Estetik",
+        "Source": "local"
+    },
+    "634084": {
+        "UpdatedAt": "2025-09-02 11:24:21",
+        "DownloadedAt": "2025-12-03T07:42:45.233066",
+        "Filename": "İnfografik - Ünite 7 - 634084.pdf",
+        "Course": "Görsel Estetik",
+        "Source": "local"
+    },
+    "634085": {
+        "UpdatedAt": "2025-09-02 11:24:21",
+        "DownloadedAt": "2025-12-03T07:42:45.234289",
+        "Filename": "İnfografik - Ünite 8 - 634085.pdf",
+        "Course": "Görsel Estetik",
+        "Source": "local"
+    },
+    "574344": {
+        "UpdatedAt": "2024-08-15 15:59:45",
+        "DownloadedAt": "2025-12-03T07:42:45.238745",
+        "Filename": "İnfografik - Ünite 1 - 574344.pdf",
+        "Course": "Temel Fotoğrafçılık",
+        "Source": "local"
+    },
+    "574345": {
+        "UpdatedAt": "2024-08-15 16:00:02",
+        "DownloadedAt": "2025-12-03T07:42:45.239319",
+        "Filename": "İnfografik - Ünite 2 - 574345.pdf",
+        "Course": "Temel Fotoğrafçılık",
+        "Source": "local"
+    },
+    "574346": {
+        "UpdatedAt": "2024-08-15 16:00:16",
+        "DownloadedAt": "2025-12-03T07:42:45.239829",
+        "Filename": "İnfografik - Ünite 3 - 574346.pdf",
+        "Course": "Temel Fotoğrafçılık",
+        "Source": "local"
+    },
+    "574347": {
+        "UpdatedAt": "2024-08-15 16:00:32",
+        "DownloadedAt": "2025-12-03T07:42:45.240403",
+        "Filename": "İnfografik - Ünite 4 - 574347.pdf",
+        "Course": "Temel Fotoğrafçılık",
+        "Source": "local"
+    },
+    "574348": {
+        "UpdatedAt": "2024-08-15 16:00:47",
+        "DownloadedAt": "2025-12-03T07:42:45.242043",
+        "Filename": "İnfografik - Ünite 5 - 574348.pdf",
+        "Course": "Temel Fotoğrafçılık",
+        "Source": "local"
+    },
+    "574349": {
+        "UpdatedAt": "2024-08-15 16:01:02",
+        "DownloadedAt": "2025-12-03T07:42:45.243397",
+        "Filename": "İnfografik - Ünite 6 - 574349.pdf",
+        "Course": "Temel Fotoğrafçılık",
+        "Source": "local"
+    },
+    "574350": {
+        "UpdatedAt": "2024-08-15 16:01:18",
+        "DownloadedAt": "2025-12-03T07:42:45.244795",
+        "Filename": "İnfografik - Ünite 7 - 574350.pdf",
+        "Course": "Temel Fotoğrafçılık",
+        "Source": "local"
+    },
+    "574351": {
+        "UpdatedAt": "2024-08-15 16:01:32",
+        "DownloadedAt": "2025-12-03T07:42:45.245497",
+        "Filename": "İnfografik - Ünite 8 - 574351.pdf",
+        "Course": "Temel Fotoğrafçılık",
+        "Source": "local"
+    },
+    "588892": {
+        "UpdatedAt": "2024-11-01 10:36:40",
+        "DownloadedAt": "2025-12-03T07:42:45.249308",
+        "Filename": "İnfografik - Ünite 1 - 588892.pdf",
+        "Course": "Mitoloji ve Din",
+        "Source": "local"
+    },
+    "588893": {
+        "UpdatedAt": "2024-11-01 10:36:57",
+        "DownloadedAt": "2025-12-03T07:42:45.250007",
+        "Filename": "İnfografik - Ünite 2 - 588893.pdf",
+        "Course": "Mitoloji ve Din",
+        "Source": "local"
+    },
+    "588895": {
+        "UpdatedAt": "2024-11-01 10:37:30",
+        "DownloadedAt": "2025-12-03T07:42:45.250558",
+        "Filename": "İnfografik - Ünite 3 - 588895.pdf",
+        "Course": "Mitoloji ve Din",
+        "Source": "local"
+    },
+    "588896": {
+        "UpdatedAt": "2024-11-01 10:37:45",
+        "DownloadedAt": "2025-12-03T07:42:45.252300",
+        "Filename": "İnfografik - Ünite 4 - 588896.pdf",
+        "Course": "Mitoloji ve Din",
+        "Source": "local"
+    },
+    "588897": {
+        "UpdatedAt": "2024-11-01 10:38:00",
+        "DownloadedAt": "2025-12-03T07:42:45.254867",
+        "Filename": "İnfografik - Ünite 5 - 588897.pdf",
+        "Course": "Mitoloji ve Din",
+        "Source": "local"
+    },
+    "588898": {
+        "UpdatedAt": "2024-11-01 10:38:16",
+        "DownloadedAt": "2025-12-03T07:42:45.256018",
+        "Filename": "İnfografik - Ünite 6 - 588898.pdf",
+        "Course": "Mitoloji ve Din",
+        "Source": "local"
+    },
+    "588899": {
+        "UpdatedAt": "2024-11-01 10:38:32",
+        "DownloadedAt": "2025-12-03T07:42:45.257354",
+        "Filename": "İnfografik - Ünite 7 - 588899.pdf",
+        "Course": "Mitoloji ve Din",
+        "Source": "local"
+    },
+    "588900": {
+        "UpdatedAt": "2024-11-01 10:38:52",
+        "DownloadedAt": "2025-12-03T07:42:45.258183",
+        "Filename": "İnfografik - Ünite 8 - 588900.pdf",
+        "Course": "Mitoloji ve Din",
+        "Source": "local"
+    },
+    "620564": {
+        "UpdatedAt": "2025-05-16 10:06:30",
+        "DownloadedAt": "2025-12-03T07:42:45.262410",
+        "Filename": "İnfografik - Ünite 1 - 620564.pdf",
+        "Course": "Görsel İletişim ve Tasarım Tarihi",
+        "Source": "local"
+    },
+    "620565": {
+        "UpdatedAt": "2025-05-16 10:06:45",
+        "DownloadedAt": "2025-12-03T07:42:45.263722",
+        "Filename": "İnfografik - Ünite 2 - 620565.pdf",
+        "Course": "Görsel İletişim ve Tasarım Tarihi",
+        "Source": "local"
+    },
+    "620566": {
+        "UpdatedAt": "2025-05-16 10:07:02",
+        "DownloadedAt": "2025-12-03T07:42:45.267215",
+        "Filename": "İnfografik - Ünite 3 - 620566.pdf",
+        "Course": "Görsel İletişim ve Tasarım Tarihi",
+        "Source": "local"
+    },
+    "620567": {
+        "UpdatedAt": "2025-05-16 10:07:17",
+        "DownloadedAt": "2025-12-03T07:42:45.268446",
+        "Filename": "İnfografik - Ünite 4 - 620567.pdf",
+        "Course": "Görsel İletişim ve Tasarım Tarihi",
+        "Source": "local"
+    },
+    "620568": {
+        "UpdatedAt": "2025-05-16 10:07:33",
+        "DownloadedAt": "2025-12-03T07:42:45.269399",
+        "Filename": "İnfografik - Ünite 5 - 620568.pdf",
+        "Course": "Görsel İletişim ve Tasarım Tarihi",
+        "Source": "local"
+    },
+    "620569": {
+        "UpdatedAt": "2025-05-16 10:07:49",
+        "DownloadedAt": "2025-12-03T07:42:45.270168",
+        "Filename": "İnfografik - Ünite 6 - 620569.pdf",
+        "Course": "Görsel İletişim ve Tasarım Tarihi",
+        "Source": "local"
+    },
+    "620570": {
+        "UpdatedAt": "2025-05-16 10:08:04",
+        "DownloadedAt": "2025-12-03T07:42:45.270757",
+        "Filename": "İnfografik - Ünite 7 - 620570.pdf",
+        "Course": "Görsel İletişim ve Tasarım Tarihi",
+        "Source": "local"
+    },
+    "620571": {
+        "UpdatedAt": "2025-05-16 10:08:20",
+        "DownloadedAt": "2025-12-03T07:42:45.271495",
+        "Filename": "İnfografik - Ünite 8 - 620571.pdf",
+        "Course": "Görsel İletişim ve Tasarım Tarihi",
+        "Source": "local"
+    },
+    "617870": {
+        "UpdatedAt": "2025-04-15 16:56:12",
+        "DownloadedAt": "2025-12-03T07:42:45.275754",
+        "Filename": "İnfografik - Ünite 1 - 617870.pdf",
+        "Course": "Tipografi",
+        "Source": "local"
+    },
+    "617871": {
+        "UpdatedAt": "2025-04-15 16:56:27",
+        "DownloadedAt": "2025-12-03T07:42:45.277443",
+        "Filename": "İnfografik - Ünite 2 - 617871.pdf",
+        "Course": "Tipografi",
+        "Source": "local"
+    },
+    "617872": {
+        "UpdatedAt": "2025-04-15 16:56:43",
+        "DownloadedAt": "2025-12-03T07:42:45.278699",
+        "Filename": "İnfografik - Ünite 3 - 617872.pdf",
+        "Course": "Tipografi",
+        "Source": "local"
+    },
+    "617873": {
+        "UpdatedAt": "2025-04-15 16:56:58",
+        "DownloadedAt": "2025-12-03T07:42:45.280879",
+        "Filename": "İnfografik - Ünite 4 - 617873.pdf",
+        "Course": "Tipografi",
+        "Source": "local"
+    },
+    "617874": {
+        "UpdatedAt": "2025-04-15 16:57:12",
+        "DownloadedAt": "2025-12-03T07:42:45.282457",
+        "Filename": "İnfografik - Ünite 5 - 617874.pdf",
+        "Course": "Tipografi",
+        "Source": "local"
+    },
+    "617875": {
+        "UpdatedAt": "2025-04-15 16:57:27",
+        "DownloadedAt": "2025-12-03T07:42:45.283766",
+        "Filename": "İnfografik - Ünite 6 - 617875.pdf",
+        "Course": "Tipografi",
+        "Source": "local"
+    },
+    "617876": {
+        "UpdatedAt": "2025-04-15 16:57:41",
+        "DownloadedAt": "2025-12-03T07:42:45.286077",
+        "Filename": "İnfografik - Ünite 7 - 617876.pdf",
+        "Course": "Tipografi",
+        "Source": "local"
+    },
+    "617877": {
+        "UpdatedAt": "2025-04-15 16:57:56",
+        "DownloadedAt": "2025-12-03T07:42:45.287330",
+        "Filename": "İnfografik - Ünite 8 - 617877.pdf",
+        "Course": "Tipografi",
+        "Source": "local"
+    },
+    "619120": {
+        "UpdatedAt": "2025-04-28 14:44:57",
+        "DownloadedAt": "2025-12-03T07:42:45.291249",
+        "Filename": "İnfografik - Ünite 1 - 619120.pdf",
+        "Course": "Dijital Kültür",
+        "Source": "local"
+    },
+    "619121": {
+        "UpdatedAt": "2025-04-28 14:45:13",
+        "DownloadedAt": "2025-12-03T07:42:45.291930",
+        "Filename": "İnfografik - Ünite 2 - 619121.pdf",
+        "Course": "Dijital Kültür",
+        "Source": "local"
+    },
+    "619122": {
+        "UpdatedAt": "2025-04-28 14:45:28",
+        "DownloadedAt": "2025-12-03T07:42:45.293794",
+        "Filename": "İnfografik - Ünite 3 - 619122.pdf",
+        "Course": "Dijital Kültür",
+        "Source": "local"
+    },
+    "619123": {
+        "UpdatedAt": "2025-04-28 14:45:42",
+        "DownloadedAt": "2025-12-03T07:42:45.294977",
+        "Filename": "İnfografik - Ünite 4 - 619123.pdf",
+        "Course": "Dijital Kültür",
+        "Source": "local"
+    },
+    "619124": {
+        "UpdatedAt": "2025-04-28 14:45:58",
+        "DownloadedAt": "2025-12-03T07:42:45.295733",
+        "Filename": "İnfografik - Ünite 5 - 619124.pdf",
+        "Course": "Dijital Kültür",
+        "Source": "local"
+    },
+    "619125": {
+        "UpdatedAt": "2025-04-28 14:46:13",
+        "DownloadedAt": "2025-12-03T07:42:45.296600",
+        "Filename": "İnfografik - Ünite 6 - 619125.pdf",
+        "Course": "Dijital Kültür",
+        "Source": "local"
+    },
+    "619126": {
+        "UpdatedAt": "2025-04-28 14:46:29",
+        "DownloadedAt": "2025-12-03T07:42:45.297361",
+        "Filename": "İnfografik - Ünite 7 - 619126.pdf",
+        "Course": "Dijital Kültür",
+        "Source": "local"
+    },
+    "619127": {
+        "UpdatedAt": "2025-04-28 14:46:44",
+        "DownloadedAt": "2025-12-03T07:42:45.298012",
+        "Filename": "İnfografik - Ünite 8 - 619127.pdf",
+        "Course": "Dijital Kültür",
+        "Source": "local"
+    },
+    "592390": {
+        "UpdatedAt": "2024-12-11 11:14:07",
+        "DownloadedAt": "2025-12-03T07:42:45.303413",
+        "Filename": "İnfografik - Ünite 1 - 592390.pdf",
+        "Course": "Yeni Medya Sanatı",
+        "Source": "local"
+    },
+    "592391": {
+        "UpdatedAt": "2024-12-11 11:14:23",
+        "DownloadedAt": "2025-12-03T07:42:45.305004",
+        "Filename": "İnfografik - Ünite 2 - 592391.pdf",
+        "Course": "Yeni Medya Sanatı",
+        "Source": "local"
+    },
+    "592392": {
+        "UpdatedAt": "2024-12-11 11:14:38",
+        "DownloadedAt": "2025-12-03T07:42:45.306392",
+        "Filename": "İnfografik - Ünite 3 - 592392.pdf",
+        "Course": "Yeni Medya Sanatı",
+        "Source": "local"
+    },
+    "592393": {
+        "UpdatedAt": "2024-12-11 11:14:54",
+        "DownloadedAt": "2025-12-03T07:42:45.307339",
+        "Filename": "İnfografik - Ünite 4 - 592393.pdf",
+        "Course": "Yeni Medya Sanatı",
+        "Source": "local"
+    },
+    "592394": {
+        "UpdatedAt": "2024-12-11 11:15:09",
+        "DownloadedAt": "2025-12-03T07:42:45.308158",
+        "Filename": "İnfografik - Ünite 5 - 592394.pdf",
+        "Course": "Yeni Medya Sanatı",
+        "Source": "local"
+    },
+    "592395": {
+        "UpdatedAt": "2024-12-11 11:15:26",
+        "DownloadedAt": "2025-12-03T07:42:45.309410",
+        "Filename": "İnfografik - Ünite 6 - 592395.pdf",
+        "Course": "Yeni Medya Sanatı",
+        "Source": "local"
+    },
+    "592396": {
+        "UpdatedAt": "2024-12-11 11:15:41",
+        "DownloadedAt": "2025-12-03T07:42:45.311422",
+        "Filename": "İnfografik - Ünite 7 - 592396.pdf",
+        "Course": "Yeni Medya Sanatı",
+        "Source": "local"
+    },
+    "592397": {
+        "UpdatedAt": "2024-12-11 11:15:56",
+        "DownloadedAt": "2025-12-03T07:42:45.312827",
+        "Filename": "İnfografik - Ünite 8 - 592397.pdf",
+        "Course": "Yeni Medya Sanatı",
+        "Source": "local"
+    },
+    "594067": {
+        "UpdatedAt": "2025-01-07 15:40:43",
+        "DownloadedAt": "2025-12-03T07:42:45.317445",
+        "Filename": "İnfografik - Ünite 1 - 594067.pdf",
+        "Course": "Sanatta Eleştirel Düşünce",
+        "Source": "local"
+    },
+    "594068": {
+        "UpdatedAt": "2025-01-07 15:41:16",
+        "DownloadedAt": "2025-12-03T07:42:45.320337",
+        "Filename": "İnfografik - Ünite 2 - 594068.pdf",
+        "Course": "Sanatta Eleştirel Düşünce",
+        "Source": "local"
+    },
+    "594069": {
+        "UpdatedAt": "2025-01-07 15:41:31",
+        "DownloadedAt": "2025-12-03T07:42:45.321719",
+        "Filename": "İnfografik - Ünite 3 - 594069.pdf",
+        "Course": "Sanatta Eleştirel Düşünce",
+        "Source": "local"
+    },
+    "594070": {
+        "UpdatedAt": "2025-01-07 15:41:46",
+        "DownloadedAt": "2025-12-03T07:42:45.323706",
+        "Filename": "İnfografik - Ünite 4 - 594070.pdf",
+        "Course": "Sanatta Eleştirel Düşünce",
+        "Source": "local"
+    },
+    "594071": {
+        "UpdatedAt": "2025-01-07 15:42:01",
+        "DownloadedAt": "2025-12-03T07:42:45.327779",
+        "Filename": "İnfografik - Ünite 5 - 594071.pdf",
+        "Course": "Sanatta Eleştirel Düşünce",
+        "Source": "local"
+    },
+    "594072": {
+        "UpdatedAt": "2025-01-07 15:42:16",
+        "DownloadedAt": "2025-12-03T07:42:45.329267",
+        "Filename": "İnfografik - Ünite 6 - 594072.pdf",
+        "Course": "Sanatta Eleştirel Düşünce",
+        "Source": "local"
+    },
+    "594073": {
+        "UpdatedAt": "2025-01-07 15:42:32",
+        "DownloadedAt": "2025-12-03T07:42:45.330390",
+        "Filename": "İnfografik - Ünite 7 - 594073.pdf",
+        "Course": "Sanatta Eleştirel Düşünce",
+        "Source": "local"
+    },
+    "594074": {
+        "UpdatedAt": "2025-01-07 15:42:46",
+        "DownloadedAt": "2025-12-03T07:42:45.333630",
+        "Filename": "İnfografik - Ünite 8 - 594074.pdf",
+        "Course": "Sanatta Eleştirel Düşünce",
+        "Source": "local"
+    },
+    "619560": {
+        "UpdatedAt": "2025-05-06 13:34:14",
+        "DownloadedAt": "2025-12-03T07:42:47.197902",
+        "Filename": "İnfografik - Ünite 1 - 619560.pdf",
+        "Course": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+        "Source": "local"
+    },
+    "619561": {
+        "UpdatedAt": "2025-05-06 13:34:30",
+        "DownloadedAt": "2025-12-03T07:42:48.396118",
+        "Filename": "İnfografik - Ünite 2 - 619561.pdf",
+        "Course": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+        "Source": "local"
+    },
+    "619562": {
+        "UpdatedAt": "2025-05-06 13:34:46",
+        "DownloadedAt": "2025-12-03T07:42:49.805794",
+        "Filename": "İnfografik - Ünite 3 - 619562.pdf",
+        "Course": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+        "Source": "local"
+    },
+    "619563": {
+        "UpdatedAt": "2025-05-06 13:35:01",
+        "DownloadedAt": "2025-12-03T07:42:51.113427",
+        "Filename": "İnfografik - Ünite 4 - 619563.pdf",
+        "Course": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+        "Source": "local"
+    },
+    "619564": {
+        "UpdatedAt": "2025-05-06 13:35:16",
+        "DownloadedAt": "2025-12-03T07:42:52.363096",
+        "Filename": "İnfografik - Ünite 5 - 619564.pdf",
+        "Course": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+        "Source": "local"
+    },
+    "619565": {
+        "UpdatedAt": "2025-05-06 13:35:31",
+        "DownloadedAt": "2025-12-03T07:42:53.569281",
+        "Filename": "İnfografik - Ünite 6 - 619565.pdf",
+        "Course": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+        "Source": "local"
+    },
+    "619566": {
+        "UpdatedAt": "2025-05-06 13:35:46",
+        "DownloadedAt": "2025-12-03T07:42:54.776736",
+        "Filename": "İnfografik - Ünite 7 - 619566.pdf",
+        "Course": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+        "Source": "local"
+    },
+    "619567": {
+        "UpdatedAt": "2025-05-06 13:36:01",
+        "DownloadedAt": "2025-12-03T07:42:56.105354",
+        "Filename": "İnfografik - Ünite 8 - 619567.pdf",
+        "Course": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+        "Source": "local"
+    },
+    "620572": {
+        "UpdatedAt": "2025-05-16 10:56:43",
+        "DownloadedAt": "2025-12-03T07:42:57.366568",
+        "Filename": "İnfografik - Ünite 1 - 620572.pdf",
+        "Course": "Dijital Görüntüleme İşleme Yöntemleri",
+        "Source": "local"
+    },
+    "620573": {
+        "UpdatedAt": "2025-05-16 10:56:58",
+        "DownloadedAt": "2025-12-03T07:42:58.871387",
+        "Filename": "İnfografik - Ünite 2 - 620573.pdf",
+        "Course": "Dijital Görüntüleme İşleme Yöntemleri",
+        "Source": "local"
+    },
+    "620574": {
+        "UpdatedAt": "2025-05-16 10:57:14",
+        "DownloadedAt": "2025-12-03T07:43:00.291470",
+        "Filename": "İnfografik - Ünite 3 - 620574.pdf",
+        "Course": "Dijital Görüntüleme İşleme Yöntemleri",
+        "Source": "local"
+    },
+    "620575": {
+        "UpdatedAt": "2025-05-16 10:57:29",
+        "DownloadedAt": "2025-12-03T07:43:01.879763",
+        "Filename": "İnfografik - Ünite 4 - 620575.pdf",
+        "Course": "Dijital Görüntüleme İşleme Yöntemleri",
+        "Source": "local"
+    },
+    "620576": {
+        "UpdatedAt": "2025-05-16 10:57:46",
+        "DownloadedAt": "2025-12-03T07:43:03.164098",
+        "Filename": "İnfografik - Ünite 5 - 620576.pdf",
+        "Course": "Dijital Görüntüleme İşleme Yöntemleri",
+        "Source": "local"
+    },
+    "620577": {
+        "UpdatedAt": "2025-05-16 10:58:02",
+        "DownloadedAt": "2025-12-03T07:43:04.324524",
+        "Filename": "İnfografik - Ünite 6 - 620577.pdf",
+        "Course": "Dijital Görüntüleme İşleme Yöntemleri",
+        "Source": "local"
+    },
+    "620578": {
+        "UpdatedAt": "2025-05-16 10:58:17",
+        "DownloadedAt": "2025-12-03T07:43:05.559475",
+        "Filename": "İnfografik - Ünite 7 - 620578.pdf",
+        "Course": "Dijital Görüntüleme İşleme Yöntemleri",
+        "Source": "local"
+    },
+    "619197": {
+        "UpdatedAt": "2025-04-29 17:13:48",
+        "DownloadedAt": "2025-12-03T07:43:06.627612",
+        "Filename": "İnfografik - Ünite 1 - 619197.pdf",
+        "Course": "Sanat Tarihi",
+        "Source": "local"
+    },
+    "619198": {
+        "UpdatedAt": "2025-04-29 17:14:04",
+        "DownloadedAt": "2025-12-03T07:43:07.768677",
+        "Filename": "İnfografik - Ünite 2 - 619198.pdf",
+        "Course": "Sanat Tarihi",
+        "Source": "local"
+    },
+    "619199": {
+        "UpdatedAt": "2025-04-29 17:14:19",
+        "DownloadedAt": "2025-12-03T07:43:09.168757",
+        "Filename": "İnfografik - Ünite 3 - 619199.pdf",
+        "Course": "Sanat Tarihi",
+        "Source": "local"
+    },
+    "619200": {
+        "UpdatedAt": "2025-04-29 17:14:34",
+        "DownloadedAt": "2025-12-03T07:43:10.341790",
+        "Filename": "İnfografik - Ünite 4 - 619200.pdf",
+        "Course": "Sanat Tarihi",
+        "Source": "local"
+    },
+    "619201": {
+        "UpdatedAt": "2025-04-29 17:14:49",
+        "DownloadedAt": "2025-12-03T07:43:11.501296",
+        "Filename": "İnfografik - Ünite 5 - 619201.pdf",
+        "Course": "Sanat Tarihi",
+        "Source": "local"
+    },
+    "619202": {
+        "UpdatedAt": "2025-04-29 17:15:04",
+        "DownloadedAt": "2025-12-03T07:43:12.902088",
+        "Filename": "İnfografik - Ünite 6 - 619202.pdf",
+        "Course": "Sanat Tarihi",
+        "Source": "local"
+    },
+    "619203": {
+        "UpdatedAt": "2025-04-29 17:15:19",
+        "DownloadedAt": "2025-12-03T07:43:14.297885",
+        "Filename": "İnfografik - Ünite 7 - 619203.pdf",
+        "Course": "Sanat Tarihi",
+        "Source": "local"
+    },
+    "619204": {
+        "UpdatedAt": "2025-04-29 17:15:33",
+        "DownloadedAt": "2025-12-03T07:43:15.515583",
+        "Filename": "İnfografik - Ünite 8 - 619204.pdf",
+        "Course": "Sanat Tarihi",
+        "Source": "local"
+    },
+    "634753": {
+        "UpdatedAt": "2025-09-02 11:25:30",
+        "DownloadedAt": "2025-12-03T07:43:16.768597",
+        "Filename": "İnfografik - Ünite 1 - 634753.pdf",
+        "Course": "Görsel Sistem Tasarımları",
+        "Source": "local"
+    },
+    "634754": {
+        "UpdatedAt": "2025-09-02 11:25:30",
+        "DownloadedAt": "2025-12-03T07:43:17.977124",
+        "Filename": "İnfografik - Ünite 2 - 634754.pdf",
+        "Course": "Görsel Sistem Tasarımları",
+        "Source": "local"
+    },
+    "634755": {
+        "UpdatedAt": "2025-09-02 11:25:30",
+        "DownloadedAt": "2025-12-03T07:43:19.364549",
+        "Filename": "İnfografik - Ünite 3 - 634755.pdf",
+        "Course": "Görsel Sistem Tasarımları",
+        "Source": "local"
+    },
+    "634756": {
+        "UpdatedAt": "2025-09-02 11:25:30",
+        "DownloadedAt": "2025-12-03T07:43:20.773292",
+        "Filename": "İnfografik - Ünite 4 - 634756.pdf",
+        "Course": "Görsel Sistem Tasarımları",
+        "Source": "local"
+    },
+    "634757": {
+        "UpdatedAt": "2025-09-02 11:25:30",
+        "DownloadedAt": "2025-12-03T07:43:21.935969",
+        "Filename": "İnfografik - Ünite 5 - 634757.pdf",
+        "Course": "Görsel Sistem Tasarımları",
+        "Source": "local"
+    },
+    "634758": {
+        "UpdatedAt": "2025-09-02 11:25:30",
+        "DownloadedAt": "2025-12-03T07:43:23.212213",
+        "Filename": "İnfografik - Ünite 6 - 634758.pdf",
+        "Course": "Görsel Sistem Tasarımları",
+        "Source": "local"
+    },
+    "634759": {
+        "UpdatedAt": "2025-09-02 11:25:30",
+        "DownloadedAt": "2025-12-03T07:43:24.369204",
+        "Filename": "İnfografik - Ünite 7 - 634759.pdf",
+        "Course": "Görsel Sistem Tasarımları",
+        "Source": "local"
+    },
+    "634760": {
+        "UpdatedAt": "2025-09-02 11:25:30",
+        "DownloadedAt": "2025-12-03T07:43:25.569082",
+        "Filename": "İnfografik - Ünite 8 - 634760.pdf",
+        "Course": "Görsel Sistem Tasarımları",
+        "Source": "local"
+    },
+    "634905": {
+        "UpdatedAt": "2025-09-02 11:25:56",
+        "DownloadedAt": "2025-12-03T07:43:26.622636",
+        "Filename": "İnfografik - Ünite 1 - 634905.pdf",
+        "Course": "Engellilik ve Erişilebilir Tasarım",
+        "Source": "local"
+    },
+    "634906": {
+        "UpdatedAt": "2025-09-02 11:25:56",
+        "DownloadedAt": "2025-12-03T07:43:27.881339",
+        "Filename": "İnfografik - Ünite 2 - 634906.pdf",
+        "Course": "Engellilik ve Erişilebilir Tasarım",
+        "Source": "local"
+    },
+    "634907": {
+        "UpdatedAt": "2025-09-02 11:25:56",
+        "DownloadedAt": "2025-12-03T07:43:29.194581",
+        "Filename": "İnfografik - Ünite 3 - 634907.pdf",
+        "Course": "Engellilik ve Erişilebilir Tasarım",
+        "Source": "local"
+    },
+    "634908": {
+        "UpdatedAt": "2025-09-02 11:25:56",
+        "DownloadedAt": "2025-12-03T07:43:30.367359",
+        "Filename": "İnfografik - Ünite 4 - 634908.pdf",
+        "Course": "Engellilik ve Erişilebilir Tasarım",
+        "Source": "local"
+    },
+    "634909": {
+        "UpdatedAt": "2025-09-02 11:25:56",
+        "DownloadedAt": "2025-12-03T07:43:31.571844",
+        "Filename": "İnfografik - Ünite 5 - 634909.pdf",
+        "Course": "Engellilik ve Erişilebilir Tasarım",
+        "Source": "local"
+    },
+    "634910": {
+        "UpdatedAt": "2025-09-02 11:25:56",
+        "DownloadedAt": "2025-12-03T07:43:32.630333",
+        "Filename": "İnfografik - Ünite 6 - 634910.pdf",
+        "Course": "Engellilik ve Erişilebilir Tasarım",
+        "Source": "local"
+    },
+    "634911": {
+        "UpdatedAt": "2025-09-02 11:25:56",
+        "DownloadedAt": "2025-12-03T07:43:34.061382",
+        "Filename": "İnfografik - Ünite 7 - 634911.pdf",
+        "Course": "Engellilik ve Erişilebilir Tasarım",
+        "Source": "local"
+    },
+    "634912": {
+        "UpdatedAt": "2025-09-02 11:25:56",
+        "DownloadedAt": "2025-12-03T07:43:35.197088",
+        "Filename": "İnfografik - Ünite 8 - 634912.pdf",
+        "Course": "Engellilik ve Erişilebilir Tasarım",
+        "Source": "local"
+    },
+    "620212": {
+        "UpdatedAt": "2025-05-13 16:46:00",
+        "DownloadedAt": "2025-12-03T07:43:36.575021",
+        "Filename": "İnfografik - Ünite 1 - 620212.pdf",
+        "Course": "Dijital Medya ve Arayüz Tasarımı",
+        "Source": "local"
+    },
+    "620213": {
+        "UpdatedAt": "2025-05-13 16:48:34",
+        "DownloadedAt": "2025-12-03T07:43:37.772255",
+        "Filename": "İnfografik - Ünite 2 - 620213.pdf",
+        "Course": "Dijital Medya ve Arayüz Tasarımı",
+        "Source": "local"
+    },
+    "620214": {
+        "UpdatedAt": "2025-05-13 16:48:48",
+        "DownloadedAt": "2025-12-03T07:43:38.929790",
+        "Filename": "İnfografik - Ünite 3 - 620214.pdf",
+        "Course": "Dijital Medya ve Arayüz Tasarımı",
+        "Source": "local"
+    },
+    "620215": {
+        "UpdatedAt": "2025-05-13 16:49:02",
+        "DownloadedAt": "2025-12-03T07:43:40.182787",
+        "Filename": "İnfografik - Ünite 4 - 620215.pdf",
+        "Course": "Dijital Medya ve Arayüz Tasarımı",
+        "Source": "local"
+    },
+    "620216": {
+        "UpdatedAt": "2025-05-13 16:49:18",
+        "DownloadedAt": "2025-12-03T07:43:41.364076",
+        "Filename": "İnfografik - Ünite 5 - 620216.pdf",
+        "Course": "Dijital Medya ve Arayüz Tasarımı",
+        "Source": "local"
+    },
+    "620217": {
+        "UpdatedAt": "2025-05-13 16:49:33",
+        "DownloadedAt": "2025-12-03T07:43:42.558338",
+        "Filename": "İnfografik - Ünite 6 - 620217.pdf",
+        "Course": "Dijital Medya ve Arayüz Tasarımı",
+        "Source": "local"
+    },
+    "620218": {
+        "UpdatedAt": "2025-05-13 16:49:48",
+        "DownloadedAt": "2025-12-03T07:43:43.903221",
+        "Filename": "İnfografik - Ünite 7 - 620218.pdf",
+        "Course": "Dijital Medya ve Arayüz Tasarımı",
+        "Source": "local"
+    },
+    "620219": {
+        "UpdatedAt": "2025-05-13 16:50:03",
+        "DownloadedAt": "2025-12-03T07:43:45.177178",
+        "Filename": "İnfografik - Ünite 8 - 620219.pdf",
+        "Course": "Dijital Medya ve Arayüz Tasarımı",
+        "Source": "local"
+    },
+    "620584": {
+        "UpdatedAt": "2025-05-16 14:07:24",
+        "DownloadedAt": "2025-12-03T07:43:46.369739",
+        "Filename": "İnfografik - Ünite 1 - 620584.pdf",
+        "Course": "Sürdürülebilir Grafik Tasarım",
+        "Source": "local"
+    },
+    "620585": {
+        "UpdatedAt": "2025-05-16 14:07:39",
+        "DownloadedAt": "2025-12-03T07:43:47.395819",
+        "Filename": "İnfografik - Ünite 2 - 620585.pdf",
+        "Course": "Sürdürülebilir Grafik Tasarım",
+        "Source": "local"
+    },
+    "620586": {
+        "UpdatedAt": "2025-05-16 14:07:55",
+        "DownloadedAt": "2025-12-03T07:43:48.485125",
+        "Filename": "İnfografik - Ünite 3 - 620586.pdf",
+        "Course": "Sürdürülebilir Grafik Tasarım",
+        "Source": "local"
+    },
+    "620587": {
+        "UpdatedAt": "2025-05-16 14:08:10",
+        "DownloadedAt": "2025-12-03T07:43:49.560139",
+        "Filename": "İnfografik - Ünite 4 - 620587.pdf",
+        "Course": "Sürdürülebilir Grafik Tasarım",
+        "Source": "local"
+    },
+    "620588": {
+        "UpdatedAt": "2025-05-16 14:08:24",
+        "DownloadedAt": "2025-12-03T07:43:50.762860",
+        "Filename": "İnfografik - Ünite 5 - 620588.pdf",
+        "Course": "Sürdürülebilir Grafik Tasarım",
+        "Source": "local"
+    },
+    "620589": {
+        "UpdatedAt": "2025-05-16 14:08:40",
+        "DownloadedAt": "2025-12-03T07:43:51.979472",
+        "Filename": "İnfografik - Ünite 6 - 620589.pdf",
+        "Course": "Sürdürülebilir Grafik Tasarım",
+        "Source": "local"
+    },
+    "620590": {
+        "UpdatedAt": "2025-05-16 14:08:56",
+        "DownloadedAt": "2025-12-03T07:43:53.111093",
+        "Filename": "İnfografik - Ünite 7 - 620590.pdf",
+        "Course": "Sürdürülebilir Grafik Tasarım",
+        "Source": "local"
+    },
+    "620591": {
+        "UpdatedAt": "2025-05-16 14:09:11",
+        "DownloadedAt": "2025-12-03T07:43:54.641741",
+        "Filename": "İnfografik - Ünite 8 - 620591.pdf",
+        "Course": "Sürdürülebilir Grafik Tasarım",
+        "Source": "local"
+    },
+    "623268": {
+        "UpdatedAt": "2025-06-11 09:42:25",
+        "DownloadedAt": "2025-12-03T07:43:55.768055",
+        "Filename": "İnfografik - Ünite 1 - 623268.pdf",
+        "Course": "Eğitici İçerik Tasarımı",
+        "Source": "local"
+    },
+    "623269": {
+        "UpdatedAt": "2025-06-11 09:42:41",
+        "DownloadedAt": "2025-12-03T07:43:57.044686",
+        "Filename": "İnfografik - Ünite 2 - 623269.pdf",
+        "Course": "Eğitici İçerik Tasarımı",
+        "Source": "local"
+    },
+    "623271": {
+        "UpdatedAt": "2025-06-11 09:43:32",
+        "DownloadedAt": "2025-12-03T07:43:58.292641",
+        "Filename": "İnfografik - Ünite 4 - 623271.pdf",
+        "Course": "Eğitici İçerik Tasarımı",
+        "Source": "local"
+    },
+    "623272": {
+        "UpdatedAt": "2025-06-11 09:43:49",
+        "DownloadedAt": "2025-12-03T07:43:59.562204",
+        "Filename": "İnfografik - Ünite 5 - 623272.pdf",
+        "Course": "Eğitici İçerik Tasarımı",
+        "Source": "local"
+    },
+    "623273": {
+        "UpdatedAt": "2025-06-11 09:44:07",
+        "DownloadedAt": "2025-12-03T07:44:00.735688",
+        "Filename": "İnfografik - Ünite 6 - 623273.pdf",
+        "Course": "Eğitici İçerik Tasarımı",
+        "Source": "local"
+    },
+    "623274": {
+        "UpdatedAt": "2025-06-11 09:44:23",
+        "DownloadedAt": "2025-12-03T07:44:01.892483",
+        "Filename": "İnfografik - Ünite 7 - 623274.pdf",
+        "Course": "Eğitici İçerik Tasarımı",
+        "Source": "local"
+    },
+    "623275": {
+        "UpdatedAt": "2025-06-11 09:44:38",
+        "DownloadedAt": "2025-12-03T07:44:03.103903",
+        "Filename": "İnfografik - Ünite 8 - 623275.pdf",
+        "Course": "Eğitici İçerik Tasarımı",
+        "Source": "local"
     }
 }
