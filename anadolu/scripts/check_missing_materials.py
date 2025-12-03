@@ -1,25 +1,45 @@
 #!/usr/bin/env python3
 """
-Check for missing infographic files by comparing Materials.json definitions
+Check for missing materials (summaries or infographics) by comparing Materials.json definitions
 against the actual files in the output directory.
 """
 
 import os
 import json
 import sys
+import argparse
 from dotenv import load_dotenv
 
 # Add project root to sys.path
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
 # Load environment variables
 load_dotenv()
 
 from libs.anadolu_lib import OUTPUT_DIR, JSON_DIR
 
-def check_missing_infographics():
+# Material Types Configuration
+MATERIAL_CONFIG = {
+    "summary": {
+        "json_type": "CHAPTER_SUMMARY",
+        "filename_prefix": "Ünite Özeti - Ünite",
+        "report_title": "MISSING SUMMARIES REPORT"
+    },
+    "infographic": {
+        "json_type": "INFOGRAPHIC",
+        "filename_prefix": "İnfografik - Ünite",
+        "report_title": "MISSING INFOGRAPHICS REPORT"
+    }
+}
+
+def check_missing_materials(material_type):
+    config = MATERIAL_CONFIG[material_type]
+    json_type = config["json_type"]
+    filename_prefix = config["filename_prefix"]
+    report_title = config["report_title"]
+
     print("=" * 80)
-    print("Checking for missing infographics...")
+    print(f"Checking for missing {material_type}s...")
     print("=" * 80)
 
     total_expected = 0
@@ -48,9 +68,9 @@ def check_missing_infographics():
                         with open(json_path, 'r', encoding='utf-8') as f:
                             materials_data = json.load(f)
 
-                        # Find INFOGRAPHIC group
+                        # Find target group
                         for group in materials_data:
-                            if group.get("Type") == "INFOGRAPHIC":
+                            if group.get("Type") == json_type:
                                 for material in group.get("Materials", []):
                                     total_expected += 1
 
@@ -58,7 +78,7 @@ def check_missing_infographics():
                                     chapter_num = material.get("ChapterNumber")
 
                                     # Expected filename format
-                                    expected_filename = f"İnfografik - Ünite {chapter_num} - {material_id}.pdf"
+                                    expected_filename = f"{filename_prefix} {chapter_num} - {material_id}.pdf"
                                     expected_path = os.path.join(course_mat_dir, expected_filename)
 
                                     if os.path.exists(expected_path):
@@ -74,13 +94,13 @@ def check_missing_infographics():
                 except Exception as e:
                     print(f"Error processing {filename}: {e}")
 
-    print(f"\nTotal Infographics Expected: {total_expected}")
-    print(f"Total Infographics Found:    {total_found}")
-    print(f"Total Missing:               {len(missing_list)}")
+    print(f"\nTotal {material_type.capitalize()}s Expected: {total_expected}")
+    print(f"Total {material_type.capitalize()}s Found:    {total_found}")
+    print(f"Total Missing:            {len(missing_list)}")
 
     if missing_list:
         print("\n" + "=" * 80)
-        print("MISSING INFOGRAPHICS REPORT")
+        print(report_title)
         print("=" * 80)
 
         current_course = ""
@@ -91,5 +111,12 @@ def check_missing_infographics():
 
             print(f"  ❌ Missing: Ünite {item['unit']} (ID: {item['id']})")
 
+def main():
+    parser = argparse.ArgumentParser(description="Check for missing materials")
+    parser.add_argument("--type", choices=["summary", "infographic"], required=True, help="Type of material to check")
+    args = parser.parse_args()
+
+    check_missing_materials(args.type)
+
 if __name__ == "__main__":
-    check_missing_infographics()
+    main()

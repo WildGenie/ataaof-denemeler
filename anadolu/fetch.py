@@ -25,8 +25,8 @@ def process_course_wrapper(pipeline, course, args, tqdm_position=None):
     try:
         silent = (tqdm_position is not None)
 
-        # Fetch materials only if needed for download_exams or infographics, or if explicitly requested
-        if args.materials or args.download_exams or args.infographics:
+        # Fetch materials only if needed for download_exams, infographics, summaries or if explicitly requested
+        if args.materials or args.download_exams or args.infographics or args.summaries:
             pipeline.fetch_and_save_materials(course, silent=silent)
 
         if args.download_exams:
@@ -34,6 +34,9 @@ def process_course_wrapper(pipeline, course, args, tqdm_position=None):
 
         if args.infographics:
             pipeline.download_infographics(course, silent=silent)
+
+        if args.summaries:
+            pipeline.download_summaries(course, silent=silent)
 
         if args.learn_questions:
             pipeline.process_learn_questions(course, silent=False, tqdm_position=tqdm_position)
@@ -62,12 +65,14 @@ def main():
 
     parser = argparse.ArgumentParser(description="Anadolu AÖF Soru Getirici")
     parser.add_argument("--course", help="Filter by course name or code (partial match)")
+    parser.add_argument("--enrolled", action="store_true", help="Process only enrolled courses defined in enrolled_courses.json")
     parser.add_argument("--unit", type=int, help="Fetch specific unit only")
     parser.add_argument("--pdf", action="store_true", help="Fetch PDFs (Exam and Solution)")
     parser.add_argument("--chapters", action="store_true", help="Fetch chapters for the selected course(s)")
     parser.add_argument("--materials", action="store_true", help="Fetch materials list for the selected course(s)")
     parser.add_argument("--download-exams", action="store_true", help="Download past exams based on materials list")
     parser.add_argument("--infographics", action="store_true", help="Download infographics based on materials list")
+    parser.add_argument("--summaries", action="store_true", help="Download unit summaries based on materials list")
     parser.add_argument("--learn-questions", action="store_true", help="Fetch 'Sorularla Öğrenelim' questions and PDFs")
     parser.add_argument("--questions", action="store_true", help="Fetch standard question bank")
     parser.add_argument("--parallel", type=int, default=1, metavar="N",
@@ -82,7 +87,7 @@ def main():
     args = parser.parse_args()
 
     # Default behavior: If no specific action flags are set, fetch standard questions (legacy behavior)
-    if not (args.download_exams or args.learn_questions or args.questions or args.materials or args.chapters or args.pdf or args.infographics):
+    if not (args.download_exams or args.learn_questions or args.questions or args.materials or args.chapters or args.pdf or args.infographics or args.summaries):
         args.questions = True
 
     setup_directories() # Keep this if it's still needed for general setup
@@ -99,6 +104,25 @@ def main():
         # Assuming 'Ad' is the course name field, and 'DersKodu' is the course code
         courses = [c for c in courses if args.course.lower() in c.get('DersKodu', '').lower() or args.course.lower() in c.get('CourseName', '').lower()]
 
+    if args.enrolled:
+        enrolled_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "enrolled_courses.json")
+        if os.path.exists(enrolled_file):
+            try:
+                with open(enrolled_file, 'r', encoding='utf-8') as f:
+                    enrolled_data = json.load(f)
+                    # Extract codes. enrolled_data is a list of dicts with "kod" key.
+                    enrolled_codes = [c.get("kod") for c in enrolled_data]
+
+                    # Filter main courses list
+                    courses = [c for c in courses if c.get("DersKodu") in enrolled_codes]
+                    tqdm.write(f"Filtered to {len(courses)} enrolled courses.")
+            except Exception as e:
+                tqdm.write(f"Error reading enrolled courses: {e}")
+                return
+        else:
+            tqdm.write(f"Error: {enrolled_file} not found. Please create it first.")
+            return
+
     if not courses:
         tqdm.write("No courses found.")
         return
@@ -112,8 +136,6 @@ def main():
     # Let's check QuestionPipeline constructor. It expects (raw_json_dir, json_dir, full_json_dir, md_dir, no_cache=False)
     # We should probably update QuestionPipeline or pass the new JSON_DIR for all of them as a fallback,
     # but since we override saving logic in fetch.py, it might be fine.
-    # However, to avoid NameError, we need to pass something.
-    # Let's pass JSON_DIR for all dir arguments for now, as they are mostly unused in the overridden methods or handled dynamically.
     # Let's pass JSON_DIR for all dir arguments for now, as they are mostly unused in the overridden methods or handled dynamically.
     pipeline = AnadoluPipeline(JSON_DIR, JSON_DIR, JSON_DIR, JSON_DIR, no_cache=args.no_cache,
                                fetch_attempts=args.fetch_attempts,
@@ -145,8 +167,8 @@ def main():
     else:
         # Sequential processing with progress bar
         for course in tqdm(courses, desc="Processing courses"):
-            # Fetch materials only if needed for download_exams or infographics, or if explicitly requested
-            if args.materials or args.download_exams or args.infographics:
+            # Fetch materials only if needed for download_exams, infographics, summaries or if explicitly requested
+            if args.materials or args.download_exams or args.infographics or args.summaries:
                 pipeline.fetch_and_save_materials(course)
 
             if args.download_exams:
@@ -154,6 +176,9 @@ def main():
 
             if args.infographics:
                 pipeline.download_infographics(course)
+
+            if args.summaries:
+                pipeline.download_summaries(course)
 
             if args.learn_questions:
                 pipeline.process_learn_questions(course)
