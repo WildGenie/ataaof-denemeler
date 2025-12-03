@@ -129,7 +129,7 @@ def generate_course_index(donem, course_name, files):
     # 1. Çıkmış Sorular
     if past_exams:
         for file_info in past_exams:
-            filename = urllib.parse.quote(file_info["filename"])
+            filename = urllib.parse.quote(file_info["filename"].replace(".md", ""))
             title = "🎓 Çıkmış Sorular (Zenginleştirilmiş)"
             content.append(f"### [{title}]({filename})")
             content.append("")
@@ -137,7 +137,9 @@ def generate_course_index(donem, course_name, files):
     # 2. Sorularla Öğrenelim
     if groups["sorularla_ogrenelim"]:
         for item in groups["sorularla_ogrenelim"]:
-            filename_parts = item["filename"].split("/")
+            # Remove .md extension
+            clean_filename = item["filename"].replace(".md", "")
+            filename_parts = clean_filename.split("/")
             encoded_parts = [urllib.parse.quote(p) for p in filename_parts]
             encoded_filename = "/".join(encoded_parts)
             title = "📚 Sorularla Öğrenelim"
@@ -147,7 +149,9 @@ def generate_course_index(donem, course_name, files):
     # 3. Alıştırma Soruları
     if groups["alistirma_sorulari"]:
         for item in groups["alistirma_sorulari"]:
-            filename_parts = item["filename"].split("/")
+            # Remove .md extension
+            clean_filename = item["filename"].replace(".md", "")
+            filename_parts = clean_filename.split("/")
             encoded_parts = [urllib.parse.quote(p) for p in filename_parts]
             encoded_filename = "/".join(encoded_parts)
             title = "✏️ Alıştırma Soruları"
@@ -185,8 +189,9 @@ def generate_course_index(donem, course_name, files):
         content.append("")
 
         for item in items:
-            # Handle paths
-            filename_parts = item["filename"].split("/")
+            # Handle paths and remove .md
+            clean_filename = item["filename"].replace(".md", "")
+            filename_parts = clean_filename.split("/")
             encoded_parts = [urllib.parse.quote(p) for p in filename_parts]
             encoded_filename = "/".join(encoded_parts)
 
@@ -210,7 +215,7 @@ def generate_course_index(donem, course_name, files):
     add_group("diger", "Diğer Materyaller", "📂")
 
     content.append("")
-    content.append("[🔙 Ana Sayfaya Dön](../../index.md)")
+    content.append("[🔙 Ana Sayfaya Dön](../../)")
 
     with open(index_path, 'w', encoding='utf-8') as f:
         f.write("\n".join(content))
@@ -277,10 +282,10 @@ def generate_index():
 
         courses = structure[donem]
         for course_name in sorted(courses.keys()):
-            # Link to course index.md
+            # Link to course index (directory style)
             encoded_donem = urllib.parse.quote(donem)
             encoded_course = urllib.parse.quote(course_name)
-            course_link = f"{encoded_donem}/{encoded_course}/index.md"
+            course_link = f"{encoded_donem}/{encoded_course}/"
 
             content.append(f"- 📂 [{course_name}]({course_link})")
 
