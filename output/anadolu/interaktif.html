@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İnteraktif Sınav Platformu</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:wght@400;500;600&family=Inconsolata:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            /* Light Theme (Default) */
+            --bg-color: #f8fafc; /* slate-50 */
+            --text-color: #0f172a; /* slate-900 */
+            --text-color-muted: #475569; /* slate-600 */
+            --card-bg: #ffffff;
+            --border-color: #e2e8f0; /* slate-200 */
+            --border-color-hover: #cbd5e1; /* slate-300 */
+            --button-bg: #f1f5f9; /* slate-100 */
+            --button-bg-hover: #e2e8f0; /* slate-200 */
+            --primary-color: #4f46e5; /* indigo-600 */
+            --primary-color-text: #ffffff;
+            --correct-bg: #dcfce7;
+            --correct-border: #22c55e;
+            --incorrect-bg: #fee2e2;
+            --incorrect-border: #ef4444;
+            --explanation-bg: #f0fdfa; /* teal-50 */
+            --explanation-border: #14b8a6; /* teal-500 */
+            --explanation-text: #115e59; /* teal-800 */
+        }
+
+        /* VS Code Dark Modern Theme */
+        [data-theme='dark'] {
+            --bg-color: #1e1e1e;
+            --text-color: #d4d4d4;
+            --text-color-muted: #808080;
+            --card-bg: #252526;
+            --border-color: #3c3c3c;
+            --border-color-hover: #505050;
+            --button-bg: #333333;
+            --button-bg-hover: #444444;
+            --primary-color: #007acc;
+            --primary-color-text: #ffffff;
+            --correct-bg: rgba(78, 184, 9, 0.2);
+            --correct-border: #4eb809;
+            --incorrect-bg: rgba(255, 30, 30, 0.15);
+            --incorrect-border: #ff1e1e;
+            --explanation-bg: rgba(0, 122, 204, 0.1);
+            --explanation-border: #007acc;
+            --explanation-text: #9cdcfe;
+        }
+        
+        [data-theme='sepia'] {
+            --bg-color: #fbf0e4;
+            --text-color: #433422;
+            --text-color-muted: #7d6a55;
+            --card-bg: #fdf6ec;
+            --border-color: #e9decb;
+            --border-color-hover: #d9c8b3;
+            --button-bg: #f2e8da;
+            --button-bg-hover: #e9decb;
+            --primary-color: #8c5a2d;
+            --primary-color-text: #ffffff;
+            --correct-bg: #e4f2e4;
+            --correct-border: #5a8c5a;
+            --incorrect-bg: #f2e4e4;
+            --incorrect-border: #a35a5a;
+            --explanation-bg: #e4f0f0;
+            --explanation-border: #5a8c8c;
+            --explanation-text: #2d5a5a;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            transition: background-color 0.3s, color 0.3s;
+        }
+        body.font-lora { font-family: 'Lora', serif; }
+        body.font-inconsolata { font-family: 'Inconsolata', monospace; }
+
+        .bg-card { background-color: var(--card-bg); }
+        .text-muted { color: var(--text-color-muted); }
+        .border-default { border-color: var(--border-color); }
+        .bg-button { background-color: var(--button-bg); }
+        .bg-button-hover:hover { background-color: var(--button-bg-hover); }
+
+        .view { display: none; }
+        .view.active { display: block; }
+        
+        .semester-button.active {
+            background-color: var(--primary-color);
+            color: var(--primary-color-text);
+            border-color: var(--primary-color) !important;
+            font-weight: 600;
+        }
+        
+        .interactive-option-label {
+            display: block; padding: 0.75rem 1rem; border: 2px solid var(--border-color); border-radius: 0.5rem; cursor: pointer; transition: all 0.2s ease-in-out;
+        }
+        .interactive-option-label:hover {
+            border-color: var(--border-color-hover);
+        }
+        input[type="radio"]:checked + .interactive-option-label {
+            border-color: var(--primary-color); background-color: color-mix(in srgb, var(--primary-color) 15%, transparent); font-weight: 600;
+        }
+        .correct-answer {
+            background-color: var(--correct-bg) !important; border-color: var(--correct-border) !important;
+        }
+        .incorrect-answer {
+            background-color: var(--incorrect-bg) !important; border-color: var(--incorrect-border) !important;
+        }
+        input[type="radio"] { display: none; }
+        
+        .switch { position: relative; display: inline-block; width: 50px; height: 28px; }
+        .switch input { opacity: 0; width: 0; height: 0; }
+        .slider { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; transition: .4s; border-radius: 28px; }
+        .slider:before { position: absolute; content: ""; height: 20px; width: 20px; left: 4px; bottom: 4px; background-color: white; transition: .4s; border-radius: 50%; }
+        input:checked + .slider { background-color: var(--primary-color); }
+        input:checked + .slider:before { transform: translateX(22px); }
+        .toggle-wrapper.disabled { opacity: 0.5; pointer-events: none; }
+
+        #quiz-header {
+            background-color: color-mix(in srgb, var(--card-bg) 85%, transparent);
+            backdrop-filter: blur(10px);
+            transition: box-shadow 0.3s ease-in-out;
+        }
+        #control-panel {
+            transition: max-height 0.4s ease-in-out, opacity 0.3s ease-in-out, padding 0.3s ease-in-out, margin 0.3s ease-in-out, border-width 0.3s ease-in-out;
+            max-height: 0px; overflow: hidden; opacity: 0; padding: 0 1.5rem; margin-bottom: 0; border-top-width: 0px;
+        }
+        #control-panel.open {
+            max-height: 500px; opacity: 1; padding-top: 1.5rem; padding-bottom: 1.5rem; margin-bottom: 2rem; border-top-width: 1px;
+        }
+        .explanation-item {
+             background-color: var(--explanation-bg); border-left-color: var(--explanation-border);
+        }
+        .explanation-item h4 { color: var(--explanation-text); }
+        
+        .control-label {
+            font-weight: 500;
+            color: var(--text-color);
+        }
+        .control-select, .font-size-control button {
+            background-color: var(--button-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 0.375rem;
+            padding: 0.25rem 0.5rem;
+            color: var(--text-color);
+            transition: all 0.2s;
+        }
+        .control-select:hover, .font-size-control button:hover {
+            border-color: var(--border-color-hover);
+            background-color: var(--button-bg-hover);
+        }
+
+        /* YAZDIRMA STİLLERİ */
+        @media print {
+            :root {
+                --bg-color: #ffffff !important;
+                --text-color: #000000 !important;
+                --card-bg: #ffffff !important;
+            }
+            body { 
+                font-size: 10pt; 
+                -webkit-print-color-adjust: exact; 
+                print-color-adjust: exact; 
+            }
+            /* Seçilen fontu yazdırmaya uygula */
+            body.font-inter { font-family: 'Inter', sans-serif; }
+            body.font-lora { font-family: 'Lora', serif; }
+            body.font-inconsolata { font-family: 'Inconsolata', monospace; }
+
+            .no-print { display: none !important; }
+            .print-only { display: block !important; }
+            #selection-view, #quiz-view { display: none !important; }
+            #quiz-view.active { display: block !important; }
+            #main-content, .container { padding: 0 !important; margin: 0 !important; max-width: 100% !important; width: 100% !important; }
+            #question-container-wrapper, #answer-key-container { box-shadow: none !important; padding: 0 !important; border: none !important; margin: 0 !important; }
+            .page-title { display: block !important; text-align: center; font-size: 16pt; font-weight: bold; margin-bottom: 1rem; }
+            #question-container { padding: 0 !important; column-count: 2; column-gap: 1cm; }
+            .question-item { margin: 0 !important; padding: 0.2rem 0 0.4rem 0 !important; border-bottom: 1px solid #ccc; page-break-inside: avoid; }
+            .question-item:last-child { border-bottom: none; }
+            .question-item .text-md { font-size: 10pt; margin-bottom: 0.2rem; }
+            .options-list.space-y-3 > div { margin: 0 !important; }
+            .interactive-option-label { border: none !important; padding: 0.05rem 0 !important; font-weight: normal !important; background-color: transparent !important; color: black !important; }
+            body.print-show-answers .interactive-option-label[data-correct="true"] { font-weight: bold !important; }
+            .explanation-item { border: 1px solid #eee !important; background-color: #f9f9f9 !important; padding: 0.25rem 0.5rem !important; margin-top: 0.25rem !important; font-size: 9pt; page-break-inside: avoid; }
+            .explanation-item h4 { display: none !important; }
+            .explanation-item .leading-relaxed { color: #333 !important; }
+            #answer-key-container, .answer-sheet { break-before: page; column-count: 1; margin-top: 2rem !important; }
+            #answer-key-container .grid { grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); }
+            .answer-sheet .border { max-width: 95%; margin: 0 auto; font-size: 9pt; }
+            #answer-key-container .p-2 { padding: 0.25rem; }
+            .question-source { display: none !important; }
+            body.print-show-sources .question-source { display: block !important; color: #555 !important; font-size: 8pt; padding: 0 !important; margin-bottom: 0.2rem !important; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Ders Seçim Ekranı -->
+    <div id="selection-view" class="view active container mx-auto p-4 sm:p-8">
+        <div class="bg-card rounded-lg shadow-md p-8 border border-default">
+            <h1 class="text-3xl font-bold mb-2">Ders Seçimi</h1>
+            <p class="text-muted mb-8">Lütfen çalışmak istediğiniz dönemi ve dersi seçin.</p>
+            <div id="loading-courses" class="text-center p-8 text-muted"><p>Ders listesi yükleniyor...</p></div>
+            <div id="course-selection-content" class="hidden">
+                <h2 class="text-xl font-semibold mb-4">Dönemler</h2>
+                <div id="semester-list" class="flex flex-wrap gap-3 mb-8"></div>
+                <h2 class="text-xl font-semibold mb-4">Dersler</h2>
+                <div id="course-list" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sınav Ekranı -->
+    <div id="quiz-view" class="view">
+        <header id="quiz-header" class="sticky top-0 z-10 border-b border-default no-print">
+            <div class="container mx-auto px-4 sm:px-8">
+                <div class="flex items-center justify-between gap-4 py-3">
+                    <div class="flex items-center gap-3 min-w-0">
+                        <button id="back-to-selection" class="flex-shrink-0 bg-button hover:bg-button-hover font-bold w-9 h-9 flex items-center justify-center rounded-full transition-colors">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+                        </button>
+                        <div class="min-w-0">
+                            <h1 id="quiz-title" class="text-xl font-bold truncate">Sınav Yükleniyor...</h1>
+                            <p id="quiz-subtitle" class="text-sm text-muted"></p>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-2">
+                        <button id="reset-interactive-header-btn" class="hidden flex-shrink-0 bg-button hover:bg-button-hover font-bold w-9 h-9 flex items-center justify-center rounded-full transition-colors">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"></polyline><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"></path></svg>
+                        </button>
+                        <button id="print-button" class="flex-shrink-0 bg-button hover:bg-button-hover font-bold w-9 h-9 flex items-center justify-center rounded-full transition-colors">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg>
+                        </button>
+                        <button id="toggle-controls-button" class="flex-shrink-0 bg-button hover:bg-button-hover font-bold w-9 h-9 flex items-center justify-center rounded-full transition-colors">
+                             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" x2="4" y1="21" y2="14"></line><line x1="4" x2="4" y1="10" y2="3"></line><line x1="12" x2="12" y1="21" y2="12"></line><line x1="12" x2="12" y1="8" y2="3"></line><line x1="20" x2="20" y1="21" y2="16"></line><line x1="20" x2="20" y1="12" y2="3"></line><line x1="1" x2="7" y1="14" y2="14"></line><line x1="9" x2="15" y1="8" y2="8"></line><line x1="17" x2="23" y1="16" y2="16"></line></svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main id="main-content">
+            <div class="container mx-auto px-4 sm:px-8">
+                 <div id="control-panel" class="bg-card rounded-b-lg border-x border-b border-default no-print">
+                    <div id="collapsible-controls" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-6"></div>
+                </div>
+                <div id="question-container-wrapper" class="bg-card rounded-lg shadow-md mb-8 mt-8 border border-default">
+                    <h1 class="page-title hidden">Sınav</h1>
+                    <div id="question-container" class="p-4 sm:p-8">
+                        <div id="loading-message" class="text-center p-12 text-muted"></div>
+                    </div>
+                </div>
+                <div id="answer-key-container" class="bg-card rounded-lg shadow-md p-4 sm:p-8 mb-8 border border-default"></div>
+            </div>
+            <div class="answer-sheet hidden print-only"></div>
+        </main>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Temel Değişkenler
+            const baseDataUrl = './sorular/';
+            const coursesListUrl = baseDataUrl + 'dersler.json';
+            const explanationsSubfolder = 'aciklamalar/';
+
+            // DOM Elementleri
+            const selectionView = document.getElementById('selection-view');
+            const quizView = document.getElementById('quiz-view');
+            const loadingCoursesEl = document.getElementById('loading-courses');
+            const courseSelectionContentEl = document.getElementById('course-selection-content');
+            const semesterListEl = document.getElementById('semester-list');
+            const courseListEl = document.getElementById('course-list');
+            const questionContainer = document.getElementById('question-container');
+            const answerKeyContainer = document.getElementById('answer-key-container');
+            const answerSheetContainer = document.querySelector('.answer-sheet');
+            const quizTitleEl = document.getElementById('quiz-title');
+            const quizSubtitleEl = document.getElementById('quiz-subtitle');
+            const loadingMessageEl = document.getElementById('loading-message');
+            const backToSelectionBtn = document.getElementById('back-to-selection');
+            const collapsibleControls = document.getElementById('collapsible-controls');
+            const toggleControlsBtn = document.getElementById('toggle-controls-button');
+            const controlPanel = document.getElementById('control-panel');
+            const resetInteractiveHeaderBtn = document.getElementById('reset-interactive-header-btn');
+
+            // Sınav Durum Değişkenleri
+            let allCoursesData = [];
+            let questionsData = [];
+            let quizTitle = "İnteraktif Sınav";
+            let correctCount = 0;
+            let answeredCount = 0;
+
+            // --- OKUMA AYARLARI ---
+            const docElement = document.documentElement;
+            const bodyElement = document.body;
+
+            const applyTheme = (theme) => {
+                if (theme === 'auto') {
+                    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+                    docElement.dataset.theme = prefersDark ? 'dark' : 'light';
+                } else {
+                    docElement.dataset.theme = theme;
+                }
+                localStorage.setItem('theme', theme);
+            };
+
+            const applyFont = (font) => {
+                bodyElement.classList.remove('font-inter', 'font-lora', 'font-inconsolata');
+                if (font) bodyElement.classList.add(`font-${font}`);
+                localStorage.setItem('font', font);
+            };
+
+            const applyFontSize = (size) => {
+                docElement.style.fontSize = size;
+                localStorage.setItem('fontSize', size);
+            };
+            
+            const changeFontSize = (direction) => {
+                const currentSize = parseFloat(window.getComputedStyle(docElement).fontSize);
+                const newSize = direction === 'increase' ? currentSize + 1 : currentSize - 1;
+                if (newSize >= 12 && newSize <= 24) { // Min/Max font boyutu
+                    applyFontSize(`${newSize}px`);
+                }
+            };
+
+            const loadPreferences = () => {
+                applyTheme(localStorage.getItem('theme') || 'auto');
+                applyFont(localStorage.getItem('font') || 'inter');
+                applyFontSize(localStorage.getItem('fontSize') || '16px');
+            };
+            
+            window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+                if (localStorage.getItem('theme') === 'auto') {
+                    applyTheme('auto');
+                }
+            });
+            // --- OKUMA AYARLARI BİTİŞ ---
+
+            const loadAllCourses = async () => {
+                try {
+                    const response = await fetch(coursesListUrl);
+                    if (!response.ok) throw new Error('Ders listesi yüklenemedi.');
+                    allCoursesData = await response.json();
+                    loadingCoursesEl.style.display = 'none';
+                    courseSelectionContentEl.style.display = 'block';
+                    renderSemesters();
+                    if (allCoursesData.length > 0) renderCourses(allCoursesData[0].donem);
+                } catch (error) {
+                    loadingCoursesEl.innerHTML = `<p class="text-red-600">${error.message}</p>`;
+                }
+            };
+
+            const renderSemesters = () => {
+                semesterListEl.innerHTML = '';
+                allCoursesData.forEach((semester, index) => {
+                    const button = document.createElement('button');
+                    button.textContent = `${semester.donem}. Dönem`;
+                    button.className = `semester-button px-4 py-2 rounded-md border-2 border-default bg-button hover:bg-button-hover`;
+                    if (index === 0) button.classList.add('active');
+                    button.addEventListener('click', () => {
+                        document.querySelectorAll('.semester-button').forEach(btn => btn.classList.remove('active'));
+                        button.classList.add('active');
+                        renderCourses(semester.donem);
+                    });
+                    semesterListEl.appendChild(button);
+                });
+            };
+
+            const renderCourses = (semesterNumber) => {
+                courseListEl.innerHTML = '';
+                const semesterData = allCoursesData.find(s => s.donem === semesterNumber);
+                if (semesterData) {
+                    semesterData.dersler.forEach(course => {
+                        const button = document.createElement('button');
+                        button.textContent = course.dersAdi;
+                        button.className = 'course-button text-left w-full p-4 bg-button rounded-lg border border-default hover:border-indigo-400 hover:shadow-sm';
+                        button.addEventListener('click', () => startQuiz(course.dosyaAdi));
+                        courseListEl.appendChild(button);
+                    });
+                }
+            };
+            
+            const startQuiz = async (fileName) => {
+                selectionView.classList.remove('active');
+                quizView.classList.add('active');
+                
+                questionContainer.innerHTML = '';
+                answerKeyContainer.innerHTML = '';
+                answerSheetContainer.innerHTML = '';
+                answerKeyContainer.classList.add('hidden');
+                loadingMessageEl.innerHTML = `<p class="text-lg font-semibold">Sorular yükleniyor...</p><p>Lütfen bekleyin.</p>`;
+
+                const quizDataUrl = baseDataUrl + encodeURIComponent(fileName);
+                const dataLoaded = await loadQuizData(quizDataUrl);
+
+                if (dataLoaded) {
+                    await loadAndMergeExplanations(fileName);
+                    renderQuizUI();
+                    controlPanel.classList.add('open');
+                }
+            };
+
+            const loadQuizData = async (url) => {
+                try {
+                    const response = await fetch(url);
+                    if (!response.ok) throw new Error(`HTTP hatası! Durum: ${response.status}`);
+                    const rawData = await response.json();
+                    questionsData = rawData.map(mapQuestionData).sort((a, b) => a.id - b.id);
+                    if (questionsData.length > 0) {
+                        quizTitle = questionsData[0].source.split('|')[0].replace('Ders: ', '').trim() || "İnteraktif Sınav";
+                        quizTitleEl.textContent = quizTitle;
+                        document.querySelector('.page-title').textContent = quizTitle;
+                        return true;
+                    }
+                    throw new Error("Sınavda hiç soru bulunamadı.");
+                } catch (error) {
+                    console.error("Sınav verileri yüklenirken hata oluştu:", error);
+                    loadingMessageEl.innerHTML = `<p class="text-lg font-semibold text-red-600">Hata!</p><p>Sınav soruları yüklenemedi.</p>`;
+                    return false;
+                }
+            };
+
+            const loadAndMergeExplanations = async (fileName) => {
+                const explanationsUrl = baseDataUrl + explanationsSubfolder + encodeURIComponent(fileName);
+                try {
+                    const response = await fetch(explanationsUrl);
+                    if (!response.ok) {
+                        console.warn(`Açıklama dosyası bulunamadı: ${fileName}`);
+                        return;
+                    }
+                    const explanations = await response.json();
+                    const explanationMap = new Map(explanations.map(exp => [exp.SoruID, exp.Aciklama]));
+                    questionsData.forEach(q => {
+                        if (explanationMap.has(q.id)) q.explanation = explanationMap.get(q.id);
+                    });
+                } catch (error) {
+                    console.error('Açıklamalar yüklenirken bir hata oluştu:', error);
+                }
+            };
+            
+            const renderQuizUI = () => {
+                renderQuestions();
+                renderAnswerKey();
+                renderAnswerSheet();
+                renderControls();
+                setupInteractiveMode(false);
+            };
+            
+            const mapQuestionData = (q) => {
+                const options = [q.A, q.B, q.C, q.D, q.E].filter(opt => opt != null && opt.trim() !== '');
+                const correctLetter = q.DogruCevap.toUpperCase();
+                const correctIndex = "ABCDE".indexOf(correctLetter);
+                return { id: q.SoruID, question: q.SoruMetni, options, correctIndex, explanation: q.Aciklama || "Bu soru için henüz bir açıklama eklenmemiştir.", source: `Ders: ${q.DersAd} | Ünite: ${q.Unite}` };
+            };
+
+            const renderQuestions = () => {
+                questionContainer.innerHTML = ''; 
+                questionsData.forEach((q, index) => {
+                    const questionItem = document.createElement('div');
+                    questionItem.className = 'question-item p-4 mb-4 border-b border-default last:border-b-0';
+                    questionItem.id = `question-${q.id}`;
+                    
+                    const sourceText = document.createElement('div');
+                    sourceText.className = 'question-source text-[11px] text-muted mb-1 font-mono hidden';
+                    sourceText.textContent = q.source || '';
+                    questionItem.appendChild(sourceText);
+
+                    const questionText = document.createElement('div');
+                    questionText.className = 'text-md font-semibold mb-4';
+                    questionText.innerHTML = `<b>${index + 1}.</b> ${q.question}`;
+                    questionItem.appendChild(questionText);
+                    
+                    const optionsList = document.createElement('div');
+                    optionsList.className = 'options-list space-y-3';
+                    q.options.forEach((option, i) => {
+                        const optionId = `q${q.id}_option${i}`;
+                        const wrapper = document.createElement('div');
+                        const radioInput = document.createElement('input');
+                        radioInput.type = 'radio'; radioInput.name = `question_${q.id}`; radioInput.id = optionId; radioInput.value = i; radioInput.className = 'interactive-option-radio'; radioInput.disabled = true;
+                        const radioLabel = document.createElement('label');
+                        radioLabel.htmlFor = optionId; radioLabel.className = 'interactive-option-label'; radioLabel.innerHTML = `<b>${String.fromCharCode(65 + i)})</b> ${option}`;
+                        if (i === q.correctIndex) radioLabel.dataset.correct = "true";
+                        
+                        radioLabel.addEventListener('click', handleStudyModeClick);
+
+                        wrapper.appendChild(radioInput); wrapper.appendChild(radioLabel); optionsList.appendChild(wrapper);
+                    });
+                    questionItem.appendChild(optionsList);
+
+                    const explanationEl = document.createElement('div');
+                    explanationEl.className = 'explanation-item hidden mt-4 p-4 border-l-4 rounded-r-md text-sm';
+                    explanationEl.innerHTML = `<h4 class='font-bold mb-2'>Detaylı Açıklama</h4><div class='leading-relaxed'>${q.explanation}</div>`;
+                    questionItem.appendChild(explanationEl);
+                    
+                    questionContainer.appendChild(questionItem);
+                });
+                
+                document.querySelectorAll('.interactive-option-radio').forEach(radio => {
+                    radio.addEventListener('change', handleAnswerSelection);
+                });
+            };
+            
+            const renderAnswerKey = () => {
+                answerKeyContainer.classList.remove('hidden');
+                let keyHTML = `<h2 class="text-2xl font-bold mb-6 text-center">Cevap Anahtarı</h2><div class="grid grid-cols-5 sm:grid-cols-8 md:grid-cols-10 border-t border-l border-default rounded-lg overflow-hidden">`;
+                questionsData.forEach((q, index) => {
+                    const correctLetter = String.fromCharCode(65 + q.correctIndex);
+                    keyHTML += `<div class="p-2 flex items-center justify-center gap-2 border-r border-b border-default"><span class="text-sm font-semibold text-muted">${index + 1}.</span><span class="font-bold" style="color: var(--primary-color)">${correctLetter}</span></div>`;
+                });
+                keyHTML += `</div>`;
+                answerKeyContainer.innerHTML = keyHTML;
+            };
+            
+            const renderAnswerSheet = () => {
+                let sheetHTML = `<div class="text-center mb-4"><h2 class="text-xl font-bold">${quizTitle}</h2><h3 class="text-lg font-semibold">Cevap Kağıdı</h3></div><div class="mb-4 space-y-2 border p-2 rounded-md"><div class="flex items-center gap-2"><div class="font-semibold text-sm w-24 text-right">Ad Soyad</div><div class="flex-1 border-b border-black"></div></div><div class="flex items-center gap-2"><div class="font-semibold text-sm w-24 text-right">Numara</div><div class="flex-1 border-b border-black"></div></div></div>`;
+                sheetHTML += `<div class="border rounded-md p-2" style="column-count: 4; column-gap: 0.5rem;">`;
+                questionsData.forEach((q, index) => {
+                    sheetHTML += `<div class="flex items-center gap-1 mb-1 break-inside-avoid"><strong class="w-7 text-right">${index + 1}.</strong>`;
+                    q.options.forEach((opt, i) => {
+                        sheetHTML += `<span class="flex items-center text-xs">(<span class="font-mono">${String.fromCharCode(65 + i)}</span>)</span>`;
+                    });
+                    sheetHTML += `</div>`;
+                });
+                sheetHTML += `</div>`;
+                answerSheetContainer.innerHTML = sheetHTML;
+            };
+
+            const handleStudyModeClick = (event) => {
+                const isInteractive = document.getElementById('interactive-solve').checked;
+                if (isInteractive) return;
+                
+                event.preventDefault();
+                const clickedLabel = event.currentTarget;
+                const questionItem = clickedLabel.closest('.question-item');
+                const optionsList = questionItem.querySelector('.options-list');
+                
+                if(optionsList.classList.contains('study-answered')) return;
+                optionsList.classList.add('study-answered');
+
+                const correctLabel = questionItem.querySelector('[data-correct="true"]');
+                correctLabel.classList.add('correct-answer');
+
+                if (clickedLabel !== correctLabel) {
+                    clickedLabel.classList.add('incorrect-answer');
+                }
+
+                const explanationEl = questionItem.querySelector('.explanation-item');
+                if (explanationEl) explanationEl.classList.remove('hidden');
+            };
+
+            const handleAnswerSelection = (event) => {
+                const selectedRadio = event.target;
+                const questionId = parseInt(selectedRadio.name.split('_')[1]);
+                const userAnswerIndex = parseInt(selectedRadio.value);
+                answeredCount++;
+                const questionData = questionsData.find(q => q.id === questionId);
+                const questionItem = document.getElementById(`question-${questionId}`);
+                const allLabels = questionItem.querySelectorAll('.interactive-option-label');
+                const correctLabel = allLabels[questionData.correctIndex];
+                correctLabel.classList.add('correct-answer');
+                if (userAnswerIndex === questionData.correctIndex) {
+                    correctCount++;
+                } else {
+                    allLabels[userAnswerIndex].classList.add('incorrect-answer');
+                }
+                updateScore();
+                questionItem.querySelectorAll('.interactive-option-radio').forEach(radio => radio.disabled = true);
+                const explanationEl = questionItem.querySelector('.explanation-item');
+                if (explanationEl) explanationEl.classList.remove('hidden');
+            };
+            
+            const updateScore = () => {
+                const percentage = answeredCount > 0 ? ((correctCount / answeredCount) * 100) : 0;
+                const wrongCount = answeredCount - correctCount;
+                const unansweredCount = questionsData.length - answeredCount;
+                quizSubtitleEl.innerHTML = `<span style="color: var(--correct-border)">Doğru: ${correctCount}</span> | <span style="color: var(--incorrect-border)">Yanlış: ${wrongCount}</span> | <span class="text-muted">Boş: ${unansweredCount}</span> (%${percentage.toFixed(0)})`;
+            };
+
+            const resetAllStyles = () => {
+                document.querySelectorAll('.interactive-option-label').forEach(label => label.classList.remove('correct-answer', 'incorrect-answer'));
+                document.querySelectorAll('.options-list').forEach(el => el.classList.remove('study-answered'));
+                document.querySelectorAll('.options-list div').forEach(wrapper => wrapper.classList.remove('hidden'));
+                document.querySelectorAll('.interactive-option-radio').forEach(radio => radio.checked = false);
+                document.querySelectorAll('.explanation-item, .question-source').forEach(item => item.classList.add('hidden'));
+            };
+
+            const resetInteractiveQuiz = () => {
+                resetAllStyles();
+                document.querySelectorAll('.interactive-option-radio').forEach(radio => radio.disabled = false);
+                correctCount = 0;
+                answeredCount = 0;
+                updateScore();
+            };
+
+            const setupInteractiveMode = (isActive) => {
+                resetAllStyles();
+                document.querySelectorAll('.view-toggle-wrapper').forEach(wrapper => {
+                    const toggleInput = wrapper.querySelector('input');
+                    wrapper.classList.toggle('disabled', isActive);
+                    if (toggleInput) {
+                        toggleInput.disabled = isActive;
+                        if (isActive) toggleInput.checked = false;
+                    }
+                });
+
+                resetInteractiveHeaderBtn.classList.toggle('hidden', !isActive);
+
+                if (!isActive) {
+                    quizSubtitleEl.textContent = `Toplam Soru: ${questionsData.length}`;
+                    const showAnswers = document.getElementById('show-answers');
+                    const showExplanations = document.getElementById('show-explanations');
+                    if(showAnswers) showAnswers.checked = true;
+                    if(showExplanations) showExplanations.checked = true;
+                }
+
+                document.querySelectorAll('.interactive-option-radio').forEach(radio => radio.disabled = !isActive);
+                document.querySelectorAll('.options-list').forEach(list => list.classList.toggle('disabled', !isActive));
+                
+                if(isActive) {
+                    correctCount = 0;
+                    answeredCount = 0;
+                    updateScore();
+                }
+                applyViewModeSettings();
+            };
+
+            const applyViewModeSettings = () => {
+                const interactiveSolve = document.getElementById('interactive-solve');
+                if (interactiveSolve && interactiveSolve.checked) return;
+                
+                const showAnswers = document.getElementById('show-answers');
+                if (showAnswers) {
+                    document.querySelectorAll('.interactive-option-label[data-correct="true"]').forEach(label => {
+                        label.classList.toggle('correct-answer', showAnswers.checked);
+                    });
+                }
+
+                const showExplanations = document.getElementById('show-explanations');
+                if(showExplanations) {
+                    document.querySelectorAll('.explanation-item').forEach(item => item.classList.toggle('hidden', !showExplanations.checked));
+                }
+
+                const showSources = document.getElementById('show-sources');
+                if(showSources){
+                    document.querySelectorAll('.question-source').forEach(item => item.classList.toggle('hidden', !showSources.checked));
+                }
+
+                const hideIncorrect = document.getElementById('hide-incorrect');
+                if(hideIncorrect){
+                    document.querySelectorAll('.interactive-option-label').forEach(label => {
+                        if (label.dataset.correct !== "true") {
+                            label.parentElement.classList.toggle('hidden', hideIncorrect.checked);
+                        }
+                    });
+                }
+            };
+            
+            const prepareForPrint = () => {
+                const showAnswers = document.getElementById('show-answers');
+                const showSources = document.getElementById('show-sources');
+
+                bodyElement.classList.toggle('print-show-answers', showAnswers && showAnswers.checked);
+                bodyElement.classList.toggle('print-show-sources', showSources && showSources.checked);
+                
+                window.print();
+            };
+
+            const renderControls = () => {
+                collapsibleControls.innerHTML = `
+                    <div>
+                        <h4 class="font-semibold text-sm mb-2 text-muted">Çözüm Modu</h4>
+                        <div class="flex items-center justify-between">
+                            <label for="interactive-solve" class="control-label text-blue-500">İnteraktif Çözüm</label>
+                            <label class="switch"><input type="checkbox" id="interactive-solve"><span class="slider"></span></label>
+                        </div>
+                    </div>
+                    <div>
+                        <h4 class="font-semibold text-sm mb-2 text-muted">Görünüm Ayarları</h4>
+                        <div class="space-y-2">
+                            <div class="flex items-center justify-between toggle-wrapper view-toggle-wrapper">
+                                <label for="show-answers" class="control-label">Cevapları Göster</label>
+                                <label class="switch"><input type="checkbox" id="show-answers" checked><span class="slider"></span></label>
+                            </div>
+                            <div class="flex items-center justify-between toggle-wrapper view-toggle-wrapper">
+                                <label for="show-explanations" class="control-label">Açıklamaları Göster</label>
+                                <label class="switch"><input type="checkbox" id="show-explanations" checked><span class="slider"></span></label>
+                            </div>
+                            <div class="flex items-center justify-between toggle-wrapper view-toggle-wrapper">
+                                <label for="show-sources" class="control-label">Kaynakları Göster</label>
+                                <label class="switch"><input type="checkbox" id="show-sources"><span class="slider"></span></label>
+                            </div>
+                            <div class="flex items-center justify-between toggle-wrapper view-toggle-wrapper">
+                                <label for="hide-incorrect" class="control-label">Sadece Doğruyu Göster</label>
+                                <label class="switch"><input type="checkbox" id="hide-incorrect"><span class="slider"></span></label>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <h4 class="font-semibold text-sm mb-2 text-muted">Okuma Ayarları</h4>
+                        <div class="space-y-3">
+                            <div class="flex items-center justify-between">
+                                <label for="theme-select" class="control-label">Tema</label>
+                                <select id="theme-select" class="control-select">
+                                    <option value="auto">Otomatik</option>
+                                    <option value="light">Aydınlık</option>
+                                    <option value="dark">VS Code Koyu</option>
+                                    <option value="sepia">Sepya</option>
+                                </select>
+                            </div>
+                            <div class="flex items-center justify-between">
+                                <label for="font-select" class="control-label">Yazı Tipi</label>
+                                <select id="font-select" class="control-select">
+                                    <option value="inter">Inter</option>
+                                    <option value="lora">Lora</option>
+                                    <option value="inconsolata">Inconsolata</option>
+                                </select>
+                            </div>
+                            <div class="flex items-center justify-between">
+                                <label class="control-label">Yazı Boyutu</label>
+                                <div class="flex items-center gap-2 font-size-control">
+                                    <button id="decrease-font" class="w-8 h-8 flex items-center justify-center">-</button>
+                                    <button id="increase-font" class="w-8 h-8 flex items-center justify-center">+</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                // Çözüm ve Görünüm Kontrolleri
+                document.getElementById('interactive-solve').addEventListener('change', (e) => setupInteractiveMode(e.target.checked));
+                document.getElementById('show-answers').addEventListener('change', applyViewModeSettings);
+                document.getElementById('show-explanations').addEventListener('change', applyViewModeSettings);
+                document.getElementById('show-sources').addEventListener('change', applyViewModeSettings);
+                document.getElementById('hide-incorrect').addEventListener('change', applyViewModeSettings);
+                document.getElementById('print-button').addEventListener('click', prepareForPrint);
+
+                // Okuma Ayarları Kontrolleri
+                const themeSelect = document.getElementById('theme-select');
+                themeSelect.value = localStorage.getItem('theme') || 'auto';
+                themeSelect.addEventListener('change', (e) => applyTheme(e.target.value));
+
+                const fontSelect = document.getElementById('font-select');
+                fontSelect.value = localStorage.getItem('font') || 'inter';
+                fontSelect.addEventListener('change', (e) => applyFont(e.target.value));
+                
+                document.getElementById('decrease-font').addEventListener('click', () => changeFontSize('decrease'));
+                document.getElementById('increase-font').addEventListener('click', () => changeFontSize('increase'));
+            };
+
+            // Genel Event Listeners
+            backToSelectionBtn.addEventListener('click', () => {
+                quizView.classList.remove('active');
+                selectionView.classList.add('active');
+                controlPanel.classList.remove('open');
+            });
+            
+            toggleControlsBtn.addEventListener('click', () => {
+                controlPanel.classList.toggle('open');
+            });
+
+            resetInteractiveHeaderBtn.addEventListener('click', resetInteractiveQuiz);
+
+            // Başlangıç
+            loadPreferences();
+            loadAllCourses();
+        });
+    </script>
+</body>
+</html>
