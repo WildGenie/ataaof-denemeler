@@ -10,7 +10,7 @@
                 "Oz Büyücüsü",
                 "Sinek Kuşu"
             ],
-            "correctIndex": 0,
+            "correctIndex": 4,
             "exam_question_number": 1,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "548649"
@@ -70,7 +70,7 @@
                 "Kullanıcı deneyimi",
                 "Bütçe"
             ],
-            "correctIndex": 0,
+            "correctIndex": 3,
             "exam_question_number": 5,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "548649"
@@ -220,7 +220,7 @@
                 "Doğrulama (verification)",
                 "Çeşitlilik (variety)"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 15,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "548649"
@@ -460,7 +460,7 @@
                 "Işık haritası",
                 "Beş nokta aydınlatması"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 11,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574668"
@@ -490,7 +490,7 @@
                 "Web 4.0",
                 "Web 5.0"
             ],
-            "correctIndex": 0,
+            "correctIndex": 3,
             "exam_question_number": 13,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574668"
@@ -535,7 +535,7 @@
                 "Hacim (volume)",
                 "Doğrulama (verification)"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 16,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574668"
@@ -565,7 +565,7 @@
                 "Yapay öğrenme",
                 "Veri analizi"
             ],
-            "correctIndex": 3,
+            "correctIndex": 0,
             "exam_question_number": 18,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574668"
@@ -760,7 +760,7 @@
                 "Işık haritası",
                 "Beş nokta aydınlatması"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 11,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626551"
@@ -835,7 +835,7 @@
                 "Hacim (volume)",
                 "Doğrulama (verification)"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 16,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626551"
@@ -850,7 +850,7 @@
                 "Simgesel göstergeler",
                 "Saymaca göstergeler"
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626551"
@@ -865,7 +865,7 @@
                 "Yapay öğrenme",
                 "Veri analizi"
             ],
-            "correctIndex": 3,
+            "correctIndex": 0,
             "exam_question_number": 18,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626551"
@@ -880,7 +880,7 @@
                 "Dikey iletişim",
                 "Yapay araçlarla iletişim"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 19,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626551"
@@ -999,7 +999,7 @@
                 "Piksel",
                 "Sinyal"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 7,
             "source": "Ara Sınav 2023-2024",
             "material_id": "565290"
@@ -1119,7 +1119,7 @@
                 "Eskiz-figma",
                 "Eskiz-prototip"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 15,
             "source": "Ara Sınav 2023-2024",
             "material_id": "565290"
@@ -1209,7 +1209,7 @@
                 "RIP - RGB",
                 "RIP - CMYK"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 1,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618226"
@@ -1224,7 +1224,7 @@
                 "Piksel tabanlı dijital görüntü",
                 "3D tabanlı dijital görüntü"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 2,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618226"
@@ -1749,7 +1749,7 @@
                 "Semafor, belirti ve simge",
                 "Görüntüsel gösterge, imge ve anlam"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "571102"
@@ -1989,7 +1989,7 @@
                 "görüntü atlaması",
                 "durdurma hilesi"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 13,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622598"
@@ -2064,7 +2064,7 @@
                 "Kod",
                 "İmge"
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 18,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622598"

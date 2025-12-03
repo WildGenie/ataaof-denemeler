@@ -175,7 +175,7 @@
                 "Tasarımları sadece el ile üretmek",
                 "El sanatlarını seri imalat haline getirmek"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 12,
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716"
@@ -190,7 +190,7 @@
                 "Belçika",
                 "Almanya"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 13,
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716"
@@ -250,7 +250,7 @@
                 "Dadaizm",
                 "Caslon"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 17,
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716"
@@ -475,7 +475,7 @@
                 "Dadaizm",
                 "Art Deco"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 12,
             "source": "Ara Sınav 2023-2024",
             "material_id": "565285"
@@ -505,7 +505,7 @@
                 "Doğa manzaralarının detaylı resimlemeleri",
                 "Çiçekli ve yoğun dekoratif desenler"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 14,
             "source": "Ara Sınav 2023-2024",
             "material_id": "565285"
@@ -520,7 +520,7 @@
                 "Modern sanat için makineleşme geleceğin sembolü olarak görülmüştür.",
                 "Modern sanat için sanat ve endüstriyi ayırmak gereklidir."
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 15,
             "source": "Ara Sınav 2023-2024",
             "material_id": "565285"
@@ -775,7 +775,7 @@
                 "Netlik",
                 "Geometrik soyutlama"
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 12,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "492757"
@@ -805,7 +805,7 @@
                 "Fraktal",
                 "Postmodern"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 14,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "492757"
@@ -820,7 +820,7 @@
                 "Pop Goes Poster",
                 "Family Dog"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 15,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "492757"
@@ -835,7 +835,7 @@
                 "CTF",
                 "STF"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 16,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "492757"
@@ -850,7 +850,7 @@
                 "İmgelerin net bir biçimde algılanır olması",
                 "Tasarımın tam olarak doldurulmaması"
             ],
-            "correctIndex": 0,
+            "correctIndex": 4,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "492757"
@@ -865,7 +865,7 @@
                 "Arayüz",
                 "Mizanpaj"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 18,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "492757"
@@ -880,7 +880,7 @@
                 "Fontlab",
                 "Adobe Photoshop"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 19,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "492757"
@@ -1705,7 +1705,7 @@
                 "Yeni Tipografik Stil",
                 "Pop Art"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 14,
             "source": "Yaz Okulu 2021-2022",
             "material_id": "492762"
@@ -2050,7 +2050,7 @@
                 "Andy Warhol",
                 "Henri Rousseau"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "516201"
@@ -2110,7 +2110,7 @@
                 "İnka",
                 "Maya"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 1,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574660"
@@ -2170,7 +2170,7 @@
                 "Art Deco",
                 "Kontrüktivizm"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 5,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574660"

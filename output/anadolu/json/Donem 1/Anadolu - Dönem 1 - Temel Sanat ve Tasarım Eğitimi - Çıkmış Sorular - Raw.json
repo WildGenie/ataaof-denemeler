@@ -47,7 +47,7 @@
         },
         {
             "id": 4,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 4,
@@ -154,7 +154,7 @@
                 "Empati",
                 "Test etme"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 11,
             "source": "Ara Sınav 2021-2022",
             "material_id": "634423"
@@ -184,7 +184,7 @@
                 "İmgesel düşünme",
                 "Estetik düşünme"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 13,
             "source": "Ara Sınav 2021-2022",
             "material_id": "634423"
@@ -439,7 +439,7 @@
                 "Bilimsel alandaki kültür",
                 "Estetik alandaki kültür"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 10,
             "source": "Ara Sınav 2022-2023",
             "material_id": "634440"
@@ -454,7 +454,7 @@
                 "Kapalı metinler",
                 "Yan anlamlar"
             ],
-            "correctIndex": 3,
+            "correctIndex": 0,
             "exam_question_number": 11,
             "source": "Ara Sınav 2022-2023",
             "material_id": "634440"
@@ -574,7 +574,7 @@
                 "Akrilik boya",
                 "Ekolin"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 19,
             "source": "Ara Sınav 2022-2023",
             "material_id": "634440"
@@ -934,7 +934,7 @@
                 "Markerler",
                 "Guaj boya"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 3,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "634424"
@@ -964,7 +964,7 @@
                 "Konum",
                 "Hacim"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 5,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "634424"
@@ -1054,7 +1054,7 @@
                 "Sarı",
                 "Mor"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 11,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "634424"
@@ -1099,7 +1099,7 @@
                 "performans",
                 "referans"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 14,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "634424"
@@ -1204,7 +1204,7 @@
                 "Analitik düşünce",
                 "Yanal düşünme"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 1,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "634450"
@@ -1399,7 +1399,7 @@
                 "Görünüş hattı",
                 "Solucan gözü"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 14,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "634450"
@@ -1444,7 +1444,7 @@
                 "De Stijl",
                 "Op-Art"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "634450"
@@ -1504,7 +1504,7 @@
                 "Reprodüksiyon",
                 "Mimesis"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 1,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "634483"
@@ -1646,7 +1646,7 @@
         },
         {
             "id": 111,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 11,
@@ -1723,7 +1723,7 @@
                 "De Stijl",
                 "Op-Art"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 16,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "634483"
@@ -1843,7 +1843,7 @@
                 "Geribildirim",
                 "Mesaj"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 4,
             "source": "Yaz Okulu 2021-2022",
             "material_id": "634425"
@@ -1948,7 +1948,7 @@
                 "Yeşil",
                 "Lacivert"
             ],
-            "correctIndex": 0,
+            "correctIndex": 4,
             "exam_question_number": 11,
             "source": "Yaz Okulu 2021-2022",
             "material_id": "634425"
@@ -2578,7 +2578,7 @@
                 "Mavi",
                 "Kırmızı"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 13,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "634486"

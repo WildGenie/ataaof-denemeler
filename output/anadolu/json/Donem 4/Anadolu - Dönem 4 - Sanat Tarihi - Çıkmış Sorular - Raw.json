@@ -40,7 +40,7 @@
                 "mimari",
                 "minyatür"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 3,
             "source": "Yaz Okulu 2020-2021",
             "material_id": "428618"
@@ -70,7 +70,7 @@
                 "Zengin",
                 "İleri"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 5,
             "source": "Yaz Okulu 2020-2021",
             "material_id": "428618"
@@ -175,7 +175,7 @@
                 "Karatay Han",
                 "Aksaray Sultan Hanı"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 12,
             "source": "Yaz Okulu 2020-2021",
             "material_id": "428618"
@@ -190,7 +190,7 @@
                 "Danişmendliler",
                 "Mengücekoğulları"
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 13,
             "source": "Yaz Okulu 2020-2021",
             "material_id": "428618"
@@ -550,7 +550,7 @@
                 "Isfahan Mescidi Cuması",
                 "Zevvare Mescidi Cuması"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2021-2022",
             "material_id": "453215"
@@ -580,7 +580,7 @@
                 "Fortuna Virilis Tapınağı",
                 "Volsinii Tapınağı"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 19,
             "source": "Yaz Okulu 2021-2022",
             "material_id": "453215"
@@ -625,7 +625,7 @@
                 "Silvan Ulu Camii",
                 "Mardin Ulu Camii"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 2,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "516835"
@@ -715,7 +715,7 @@
                 "Kintada",
                 "İnshiraga"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 8,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "516835"
@@ -850,7 +850,7 @@
                 "Günlük hayattan sahneler",
                 "Antik Yunan mitolojisi"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "516835"
@@ -865,7 +865,7 @@
                 "Abbasi Dönemi-Cevsak'ül Hakani Sarayı",
                 "Emevi Dönemi-Şam Emeviye Camii"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 18,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "516835"
@@ -1105,7 +1105,7 @@
                 "Salih İsmâil Camii",
                 "El-Cüyuşi Camii"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 14,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "575287"
@@ -1135,7 +1135,7 @@
                 "Takashi Murakami",
                 "Aeronwy Thomas"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 16,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "575287"
@@ -1180,7 +1180,7 @@
                 "Cevsakü'l-Hakani",
                 "Kasr Mışatta"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 19,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "575287"
@@ -1240,7 +1240,7 @@
                 "Aslan",
                 "Çakal"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 3,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443386"
@@ -1285,7 +1285,7 @@
                 "Prytaneion",
                 "Agora"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 6,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443386"
@@ -1345,7 +1345,7 @@
                 "Veii Tapınağı",
                 "Volsinii Tapınağı"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 10,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443386"
@@ -1435,7 +1435,7 @@
                 "Banşan",
                 "Ming"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 16,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443386"
@@ -1495,7 +1495,7 @@
                 "Sardes Artemis Tapınağı",
                 "Assos Athena Tapınağı"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 20,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443386"
@@ -1585,7 +1585,7 @@
                 "Apsis",
                 "Pastoforium"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 6,
             "source": "Ara Sınav 2023-2024",
             "material_id": "565652"
@@ -2050,7 +2050,7 @@
                 "Vettii Evi",
                 "Boscoreale Villası"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 17,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618576"
@@ -2200,7 +2200,7 @@
                 "La Giralda minaresi",
                 "Elhambra Sarayı"
             ],
-            "correctIndex": 0,
+            "correctIndex": 3,
             "exam_question_number": 7,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "449034"
@@ -2230,7 +2230,7 @@
                 "Pers",
                 "Elam"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 9,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "449034"
@@ -2305,7 +2305,7 @@
                 "Gülpayegân Camii",
                 "Muğak Atari Camii"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 14,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "449034"
@@ -2380,7 +2380,7 @@
                 "Hassuna kültürü",
                 "Halaf kültürü"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 19,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "449034"
@@ -2395,7 +2395,7 @@
                 "II. Eumenes",
                 "Hippodamos"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "449034"
@@ -2650,7 +2650,7 @@
                 "Edirne Üç Şerefeli Camii",
                 "İsfehan Mescidi Cuması"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "571463"
@@ -2905,7 +2905,7 @@
                 "Beyaz Tapınak",
                 "Çoğa Zenbil"
             ],
-            "correctIndex": 0,
+            "correctIndex": 3,
             "exam_question_number": 14,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622946"
@@ -2950,7 +2950,7 @@
                 "Artuklular",
                 "Dilmaçoğulları"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622946"

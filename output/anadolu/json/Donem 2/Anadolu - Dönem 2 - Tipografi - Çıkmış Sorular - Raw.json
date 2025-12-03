@@ -25,7 +25,7 @@
                 "Tuhfetü'l Kibar",
                 "Temel Olaylar Atlası"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 2,
             "source": "Ara Sınav 2021-2022",
             "material_id": "607529"
@@ -205,7 +205,7 @@
                 "Rosetta - Times New Roman",
                 "Maxmix - Helvetica"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 14,
             "source": "Ara Sınav 2021-2022",
             "material_id": "607529"
@@ -790,7 +790,7 @@
                 "Fudoni",
                 "Harlem"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 13,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618222"
@@ -850,7 +850,7 @@
                 "Beşgen, daire, kare",
                 "Küp, silindir, altıgen"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 17,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618222"
@@ -865,7 +865,7 @@
                 "Humanist",
                 "Baskerville"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 18,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618222"
@@ -910,7 +910,7 @@
                 "Piktogram",
                 "Fonetik"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 1,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "607538"
@@ -1000,7 +1000,7 @@
                 "sık / seyrek",
                 "koyu / açık"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 7,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "607538"
@@ -1165,7 +1165,7 @@
                 "d",
                 "e"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 18,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "607538"
@@ -1195,7 +1195,7 @@
                 "Harf Çizgisi Kontrastı",
                 "Karakter Genişliği"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "607538"
@@ -1420,7 +1420,7 @@
                 "Ritim",
                 "Piksel"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 15,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "607597"
@@ -1630,7 +1630,7 @@
                 "Helvetica Narrow Bold",
                 "Helvetica Condensed Black"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 9,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622594"
@@ -1645,7 +1645,7 @@
                 "24 cm",
                 "40 cm"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 10,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622594"
@@ -1660,7 +1660,7 @@
                 "Afiş",
                 "Katalog"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 11,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622594"
@@ -1825,7 +1825,7 @@
                 "Mainz Mezmurlar Kitabı",
                 "The Nuremberg Chronicle"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 2,
             "source": "Yaz Okulu 2021-2022",
             "material_id": "607549"
@@ -1945,7 +1945,7 @@
                 "Trajan Sütunu",
                 "Orta çağ metinleri"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 10,
             "source": "Yaz Okulu 2021-2022",
             "material_id": "607549"
@@ -2110,7 +2110,7 @@
                 "Rustik",
                 "Trajan Kapital"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 1,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "607580"
@@ -2155,7 +2155,7 @@
                 "Fonetik",
                 "Piktogram"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 4,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "607580"
@@ -2350,7 +2350,7 @@
                 "Ortadan blok",
                 "Dikey blok"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "607580"
@@ -2410,7 +2410,7 @@
                 "The Nuremberg Chronicle",
                 "Mainz Mezmurlar Kitabı"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 1,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "607600"
@@ -2440,7 +2440,7 @@
                 "Laszlo Moholy-Nagy",
                 "Vilmos Huszar"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 3,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "607600"
@@ -2590,7 +2590,7 @@
                 "Helvetica Condensed Black",
                 "Helvetica Condensed Black Italic"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 13,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "607600"
@@ -2650,7 +2650,7 @@
                 "büyükse - küçükse",
                 "küçükse - büyükse"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "607600"

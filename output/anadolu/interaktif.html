@@ -43,6 +43,8 @@
             /* teal-500 */
             --explanation-text: #115e59;
             /* teal-800 */
+            --badge-bg: #dbeafe;
+            --badge-text: #1e40af;
         }
 
         /* VS Code Dark Modern Theme */
@@ -64,6 +66,8 @@
             --explanation-bg: rgba(0, 122, 204, 0.1);
             --explanation-border: #007acc;
             --explanation-text: #9cdcfe;
+            --badge-bg: #1e3a8a;
+            --badge-text: #bfdbfe;
         }
 
         [data-theme='sepia'] {
@@ -84,6 +88,8 @@
             --explanation-bg: #e4f0f0;
             --explanation-border: #5a8c8c;
             --explanation-text: #2d5a5a;
+            --badge-bg: #e0f2fe;
+            --badge-text: #075985;
         }
 
         body {
@@ -766,8 +772,14 @@
                     const normalize = (text) => text ? text.toLowerCase().replace(/\s+/g, ' ').trim() : "";
 
                     allQuestions.forEach(q => {
+                        // Skip explicitly marked duplicates
+                        if (q.is_duplicate === true) return;
+
                         const qText = q.question || q.SoruMetni;
                         if (!qText) return;
+                        // Skip cancelled questions
+                        // Skip cancelled questions
+                        if (qText.toLowerCase().includes("iptal edilmiştir") || q.topic === "İptal Edildi" || q.correctIndex === -1) return;
 
                         const normText = normalize(qText);
                         if (seenQuestions.has(normText)) return;
@@ -838,7 +850,8 @@
                         correctIndex: q.correctIndex,
                         explanation: q.explanation || "Bu soru için henüz bir açıklama eklenmemiştir.",
                         source: q.source || `Ünite: ${q.UniteNo || '?'} | Konu: ${q.topic || '?'}`,
-                        unite: unite
+                        unite: unite,
+                        occurrence_count: q.occurrence_count || 1
                     };
                 }
 
@@ -853,7 +866,8 @@
                     correctIndex: correctIndex !== -1 ? correctIndex : 0,
                     explanation: q.Aciklama || "Bu soru için henüz bir açıklama eklenmemiştir.",
                     source: `Ders: ${q.DersAd} | Ünite: ${q.Unite}`,
-                    unite: unite
+                    unite: unite,
+                    occurrence_count: 1
                 };
             };
 
@@ -876,7 +890,14 @@
 
                     const questionText = document.createElement('div');
                     questionText.className = 'text-md font-semibold mb-4';
-                    questionText.innerHTML = `<b>${index + 1}.</b> ${q.question}`;
+
+                    // Add recurrence badge
+                    let badgeHtml = '';
+                    if (q.occurrence_count > 1) {
+                        badgeHtml = `<span class="ml-2 inline-flex items-center px-2 py-0.5 rounded text-xs font-medium" style="background-color: var(--badge-bg); color: var(--badge-text);" title="Bu soru ${q.occurrence_count} kez sorulmuştur">${q.occurrence_count} kez soruldu</span>`;
+                    }
+
+                    questionText.innerHTML = `<b>${index + 1}.</b> ${q.question}${badgeHtml}`;
                     questionItem.appendChild(questionText);
 
                     const optionsList = document.createElement('div');

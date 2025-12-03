@@ -10,7 +10,7 @@
                 "Tüm enerji ve biyolojik döngüler insan desteği olmaksızın gerçekleşir.",
                 "Canlılar arası besin zincirleri uzun ve karmaşıktır."
             ],
-            "correctIndex": 3,
+            "correctIndex": 0,
             "exam_question_number": 1,
             "source": "Ara Sınav 2023-2024",
             "material_id": "606580"
@@ -85,7 +85,7 @@
                 "Kolaj sanatı",
                 "Junk sanatı"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 6,
             "source": "Ara Sınav 2023-2024",
             "material_id": "606580"
@@ -130,7 +130,7 @@
                 "Montaj",
                 "Akümülasyon"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 9,
             "source": "Ara Sınav 2023-2024",
             "material_id": "606580"
@@ -280,7 +280,7 @@
                 "Yeşil tasarım",
                 "Eko etiketleme"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 19,
             "source": "Ara Sınav 2023-2024",
             "material_id": "606580"
@@ -370,7 +370,7 @@
                 "Maddi araştırmalar",
                 "Madde döngüsü"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 5,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618229"
@@ -452,7 +452,7 @@
         },
         {
             "id": 31,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 11,
@@ -544,7 +544,7 @@
                 "Plastik Poşet Değilim",
                 "Büyüyen Kartvizit"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 17,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618229"
@@ -589,7 +589,7 @@
                 "Eko etiketleme",
                 "Yeşil tasarım"
             ],
-            "correctIndex": 3,
+            "correctIndex": 0,
             "exam_question_number": 20,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618229"
@@ -604,7 +604,7 @@
                 "Rekreasyon ve estetik değerler",
                 "Doğa bilgisi, eğitim ve ilham"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 1,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "606600"
@@ -649,7 +649,7 @@
                 "Eko Dizayn",
                 "Land Art"
             ],
-            "correctIndex": 3,
+            "correctIndex": 0,
             "exam_question_number": 4,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "606600"
@@ -814,7 +814,7 @@
                 "Yeşil",
                 "Çevre cilası"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 15,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "606600"
@@ -919,7 +919,7 @@
                 "Canlılar arası besin zincirleri uzun ve karmaşıktır.",
                 "Ekolojik ardıllık ancak insan etkisi kalktıktan sonra ve yavaş gerçekleşir."
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 2,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622601"
@@ -971,7 +971,7 @@
         },
         {
             "id": 66,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 6,
@@ -980,7 +980,7 @@
         },
         {
             "id": 67,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 7,
@@ -1177,7 +1177,7 @@
                 "Yeşil yalan",
                 "Çevre cilası"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622601"
@@ -1282,7 +1282,7 @@
                 "Demontaj için tasarım",
                 "Güvenli imha için tasarım"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 7,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "606602"
@@ -1462,7 +1462,7 @@
                 "Ekolojik yanılgı",
                 "Çevre cilası"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 19,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "606602"

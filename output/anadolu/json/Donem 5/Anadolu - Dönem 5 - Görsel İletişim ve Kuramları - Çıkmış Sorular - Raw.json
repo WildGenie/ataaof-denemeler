@@ -85,7 +85,7 @@
                 "Bilgisayar",
                 "Radyo"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 6,
             "source": "Ara Sınav 2023-2024",
             "material_id": "576073"
@@ -265,7 +265,7 @@
                 "Fotoğrafa özgü alt anlamları okuma",
                 "Kompozisyon ögeleri"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 18,
             "source": "Ara Sınav 2023-2024",
             "material_id": "576073"
@@ -475,7 +475,7 @@
                 "Algısal setler",
                 "Klişe"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 12,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591744"
@@ -595,7 +595,7 @@
                 "Pierce",
                 "Locke"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 20,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591744"
@@ -700,7 +700,7 @@
                 "Pierre Bourdieu",
                 "Guy Debord"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 7,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "576082"
@@ -775,7 +775,7 @@
                 "Louis Althusser",
                 "Friedrich Engels"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 12,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "576082"
@@ -820,7 +820,7 @@
                 "Sanat felsefesi",
                 "Estetik"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 15,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "576082"
@@ -910,7 +910,7 @@
                 "Eski kültür",
                 "Sözlü kültür"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 1,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596756"
@@ -1044,7 +1044,7 @@
                 "Polis",
                 "Kolluk güçleri"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 10,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596756"
@@ -1059,7 +1059,7 @@
                 "Karl Marx",
                 "Theodor Adorno"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 11,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596756"
@@ -1089,7 +1089,7 @@
                 "Meta",
                 "İnsan"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 13,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596756"
@@ -1104,7 +1104,7 @@
                 "İdeoloji",
                 "Reklam"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 14,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596756"
@@ -1149,7 +1149,7 @@
                 "Tasarım",
                 "Kültür Tarihi"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596756"
@@ -1194,7 +1194,7 @@
                 "Simülasyon",
                 "Simülakr"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596756"
@@ -1284,7 +1284,7 @@
                 "Yanıt",
                 "Canlandırma"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 6,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "576085"
@@ -1344,7 +1344,7 @@
                 "Karl Marx",
                 "Max Horkheimer"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 10,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "576085"
@@ -1389,7 +1389,7 @@
                 "Kültüre",
                 "Paraya"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 13,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "576085"
@@ -1404,7 +1404,7 @@
                 "Toplum",
                 "İnsan"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 14,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "576085"
@@ -1434,7 +1434,7 @@
                 "Fonksiyonel",
                 "Ekonomik"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 16,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "576085"
@@ -1509,7 +1509,7 @@
                 "Mesaj",
                 "Kod"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 1,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626552"
@@ -1524,7 +1524,7 @@
                 "Eski çağ",
                 "Eski kültür"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 2,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626552"
@@ -1599,7 +1599,7 @@
                 "Locke",
                 "Saussure"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 7,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626552"
@@ -1644,7 +1644,7 @@
                 "II, III ve IV",
                 "I, II, III ve IV"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 10,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626552"
@@ -1659,7 +1659,7 @@
                 "Max Horkheimer",
                 "Marshall McLuhan"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 11,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626552"
@@ -1689,7 +1689,7 @@
                 "Paraya",
                 "İdeolojiye"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 13,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626552"
@@ -1734,7 +1734,7 @@
                 "Estetik",
                 "Sanat felsefesi"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 16,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626552"
@@ -1779,7 +1779,7 @@
                 "Gerçek",
                 "Tüketim"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 19,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626552"

@@ -40,7 +40,7 @@
                 "Pen",
                 "Solid"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 3,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618232"
@@ -265,7 +265,7 @@
                 "Yün malzemeler",
                 "Yarı saydam malzemeler"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 18,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618232"
@@ -400,7 +400,7 @@
                 "Ez ve esnet",
                 "Cazibe"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 7,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622604"

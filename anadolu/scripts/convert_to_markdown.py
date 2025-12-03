@@ -50,7 +50,13 @@ def questions_to_markdown(questions):
         q_text_formatted = q_text_raw.replace('\n', '<br />')
         q_text_formatted = re.sub(r'\s*(<br\b[^>]*>\s*)+', '<br />', q_text_formatted)
 
-        md += f"1. {q_text_formatted}\n"
+        # Add recurrence badge
+        occurrence_count = q.get('occurrence_count', 1)
+        recurrence_badge = ""
+        if occurrence_count > 1:
+            recurrence_badge = f" *({occurrence_count} kez soruldu)*"
+
+        md += f"1. {q_text_formatted}{recurrence_badge}\n"
 
         # Options
         options_list = ['A', 'B', 'C', 'D', 'E']
@@ -120,6 +126,26 @@ def convert_to_markdown(course_name, donem):
 
     if not questions:
         print("  No questions found.")
+        return
+
+    # Filter out duplicates and cancelled questions upfront
+    valid_questions = []
+    for q in questions:
+        # Skip duplicates
+        if q.get('is_duplicate'):
+            continue
+
+        # Skip cancelled questions
+        q_text = q.get('question', '')
+        if 'iptal edilmiştir' in q_text.lower() or q.get('topic') == 'İptal Edildi' or q.get('correctIndex') == -1:
+            continue
+
+        valid_questions.append(q)
+
+    questions = valid_questions
+
+    if not questions:
+        print("  No valid questions found after filtering.")
         return
 
     # Output path

@@ -55,7 +55,7 @@
                 "Karma gerçeklik",
                 "Fiziksel gerçeklik"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 4,
             "source": "Ara Sınav 2021-2022",
             "material_id": "607395"
@@ -235,7 +235,7 @@
                 "İlk defa içinde sanal gerçeklik ile üretilmiş eserler bulunan sergi olması",
                 "İlk defa içinde artırılmış gerçeklik ile üretilmiş eserler bulunan sergi olması"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 16,
             "source": "Ara Sınav 2021-2022",
             "material_id": "607395"
@@ -250,7 +250,7 @@
                 "Karma gerçeklik sanat manifestosuna",
                 "Uydu görüntüleriyle kuş bakışı dünyanın güzelliğinin izleyicileri etkileyeceğine"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 17,
             "source": "Ara Sınav 2021-2022",
             "material_id": "607395"
@@ -355,7 +355,7 @@
                 "Karma gerçeklik",
                 "Fiziksel gerçeklik"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 4,
             "source": "Ara Sınav 2021-2022",
             "material_id": "607440"
@@ -535,7 +535,7 @@
                 "İlk defa içinde sanal gerçeklik ile üretilmiş eserler bulunan sergi olması",
                 "İlk defa içinde artırılmış gerçeklik ile üretilmiş eserler bulunan sergi olması"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 16,
             "source": "Ara Sınav 2021-2022",
             "material_id": "607440"
@@ -550,7 +550,7 @@
                 "Karma gerçeklik sanat manifestosuna",
                 "Uydu görüntüleriyle kuş bakışı dünyanın güzelliğinin izleyicileri etkileyeceğine"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 17,
             "source": "Ara Sınav 2021-2022",
             "material_id": "607440"
@@ -632,7 +632,7 @@
         },
         {
             "id": 43,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [
                 "Bu soru iptal edilmiştir.",
                 "Bu soru iptal edilmiştir.",
@@ -640,7 +640,7 @@
                 "Bu soru iptal edilmiştir.",
                 "Bu soru iptal edilmiştir."
             ],
-            "correctIndex": 0,
+            "correctIndex": -1,
             "exam_question_number": 3,
             "source": "Ara Sınav 2023-2024",
             "material_id": "607491"
@@ -775,7 +775,7 @@
                 "Sadece kişiler arasında kullanılabilir.",
                 "Hem toplumsal hem de ticari amaçla kullanılabilirler."
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 12,
             "source": "Ara Sınav 2023-2024",
             "material_id": "607491"
@@ -880,7 +880,7 @@
                 "Sanat eserlerini viral ve sayısal bir ruhla ele geçirir, sanat piyasasının hiyerarşik yapısından kurtarır.",
                 "Seyircileri yeni bir fiziksel gerçekliğin içine çeker, ekranların atıl yapısından kurtarır."
             ],
-            "correctIndex": 0,
+            "correctIndex": 3,
             "exam_question_number": 19,
             "source": "Ara Sınav 2023-2024",
             "material_id": "607491"
@@ -1330,7 +1330,7 @@
                 "geçici",
                 "etkileşim"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 9,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "607412"
@@ -1412,7 +1412,7 @@
         },
         {
             "id": 95,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 15,
@@ -1444,7 +1444,7 @@
                 "ELIZA",
                 "First-Order Logic"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "607412"
@@ -1624,7 +1624,7 @@
                 "geçici",
                 "etkileşim"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 9,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "607449"
@@ -1654,7 +1654,7 @@
                 "Alvin Toffler",
                 "Umberto Eco"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 11,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "607449"
@@ -1669,7 +1669,7 @@
                 "Tennis for two",
                 "Pong"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 12,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "607449"
@@ -1706,7 +1706,7 @@
         },
         {
             "id": 115,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 15,
@@ -1813,7 +1813,7 @@
                 "Tweezer",
                 "Twitch"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 2,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "607500"
@@ -1828,7 +1828,7 @@
                 "Animal Farm",
                 "Snow Crash"
             ],
-            "correctIndex": 0,
+            "correctIndex": 4,
             "exam_question_number": 3,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "607500"
@@ -1858,7 +1858,7 @@
                 "Görüntücüler",
                 "Grafik kart"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 5,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "607500"
@@ -1918,7 +1918,7 @@
                 "Metin dosyaları",
                 "Sosyal medya"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 9,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "607500"
@@ -2053,7 +2053,7 @@
                 "Golem",
                 "Galatea"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 18,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "607500"
@@ -2083,7 +2083,7 @@
                 "Futbol",
                 "Tenis"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "607500"
@@ -2293,7 +2293,7 @@
                 "Bitcoin",
                 "Ethereum"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 14,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622595"
@@ -2353,7 +2353,7 @@
                 "Futbol",
                 "Cities Skylines"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 18,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622595"
@@ -2638,7 +2638,7 @@
                 "Algoritma",
                 "Büyük veri"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2021-2022",
             "material_id": "607415"
@@ -2758,7 +2758,7 @@
                 "Karma gerçeklik",
                 "Fiziksel gerçeklik"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 5,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "607483"
@@ -2773,7 +2773,7 @@
                 "Daha üst bir kuralı ihlal etmedikçe robotlar insanların verdikleri emirleri yerine getirmek zorundadır.",
                 "Bir robot insanlığı incitemez ya da hiçbir şey yapmayarak zarar gelmesine izin veremez."
             ],
-            "correctIndex": 0,
+            "correctIndex": 4,
             "exam_question_number": 6,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "607483"
@@ -2878,7 +2878,7 @@
                 "Kültür teknoloji olmuştur.",
                 "Teknoloji gelenek ve kültür tarafından tanımlanır."
             ],
-            "correctIndex": 3,
+            "correctIndex": 0,
             "exam_question_number": 13,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "607483"
@@ -3133,7 +3133,7 @@
                 "Sergi için müzeden izin alınmamış olması",
                 "İlk defa içinde karma gerçeklik ile üretilmiş eserler bulunan sergi olması"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 10,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "607503"
@@ -3148,7 +3148,7 @@
                 "Teknoloji gelenek ve kültür tarafından tanımlanır.",
                 "Kültür teknoloji olmuştur."
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 11,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "607503"
@@ -3208,7 +3208,7 @@
                 "C3PO",
                 "Frankenstein"
             ],
-            "correctIndex": 0,
+            "correctIndex": 3,
             "exam_question_number": 15,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "607503"

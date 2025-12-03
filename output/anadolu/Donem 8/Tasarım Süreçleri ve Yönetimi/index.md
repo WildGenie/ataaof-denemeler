@@ -2,11 +2,11 @@
 
 ## Ders Materyalleri
 
-### [🎓 Çıkmış Sorular (Zenginleştirilmiş)](%C3%87%C4%B1km%C4%B1%C5%9F%20Sorular)
+### [🎓 Çıkmış Sorular (Zenginleştirilmiş)](Çıkmış%20Sorular)
 
 ### [📚 Sorularla Öğrenelim](Sorularla%20Ogrenelim)
 
-### [✏️ Alıştırma Soruları](Al%C4%B1%C5%9Ft%C4%B1rma%20Sorular%C4%B1)
+### [✏️ Alıştırma Soruları](Alıştırma%20Soruları)
 
 ---
 ## Diğer Materyaller
@@ -14,8 +14,8 @@
 <details>
 <summary>🎓 <strong>Geçmiş Sınav Soruları (PDF)</strong></summary>
 
-- 🎓 [Ara Sınav 2024-2025](Materyaller/Ara%20S%C4%B1nav%202024-2025%20-%20618233.pdf)
-- 🎓 [Dönem Sonu 2024-2025](Materyaller/D%C3%B6nem%20Sonu%202024-2025%20-%20622605.pdf)
+- 🎓 [Ara Sınav 2024-2025](Materyaller/Ara%20Sınav%202024-2025%20-%20618233.pdf)
+- 🎓 [Dönem Sonu 2024-2025](Materyaller/Dönem%20Sonu%202024-2025%20-%20622605.pdf)
 </details>
 
 

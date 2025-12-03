@@ -130,7 +130,7 @@
                 "Netleşme",
                 "Bindirme"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 9,
             "source": "Ara Sınav 2023-2024",
             "material_id": "565291"
@@ -175,7 +175,7 @@
                 "Çok yakın plan",
                 "Ayrıntı plan"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 12,
             "source": "Ara Sınav 2023-2024",
             "material_id": "565291"
@@ -737,7 +737,7 @@
         },
         {
             "id": 50,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 10,
@@ -799,7 +799,7 @@
                 "Maskeleme",
                 "Key'leme"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 14,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "571103"
@@ -859,7 +859,7 @@
                 "Müzik",
                 "Diyalog"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 18,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "571103"
@@ -1459,7 +1459,7 @@
                 "ortam sesi",
                 "ses efektleri"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 18,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574670"
@@ -1519,7 +1519,7 @@
                 "Hoşgörüsüzlük",
                 "Amerikalı İtfaiyecinin Hayatı"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 2,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626553"
@@ -1759,7 +1759,7 @@
                 "ortam sesi",
                 "ses efektleri"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 18,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626553"

@@ -25,7 +25,7 @@
                 "Stuttgart Teknik Üniversitesi Stüdyo Galerisi",
                 "Londra Çağdaş Sanatlar Enstitüsü"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 2,
             "source": "Ara Sınav 2022-2023",
             "material_id": "582785"
@@ -160,7 +160,7 @@
                 "II, III ve IV",
                 "II, III ve V"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 11,
             "source": "Ara Sınav 2022-2023",
             "material_id": "582785"
@@ -175,7 +175,7 @@
                 "[domestic] - [eve ait]",
                 "The Legible City – Okunaklı Şehir"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 12,
             "source": "Ara Sınav 2022-2023",
             "material_id": "582785"
@@ -190,7 +190,7 @@
                 "Projeksiyon ile perde üzerine yansıtılan imgelerle etkileşime girilmektedir.",
                 "Etkileşimli müzik vardır."
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 13,
             "source": "Ara Sınav 2022-2023",
             "material_id": "582785"
@@ -235,7 +235,7 @@
                 "Veri madenciliği",
                 "Büyük veri"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 16,
             "source": "Ara Sınav 2022-2023",
             "material_id": "582785"
@@ -280,7 +280,7 @@
                 "Mark Napier",
                 "Kynaston McShine"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 19,
             "source": "Ara Sınav 2022-2023",
             "material_id": "582785"
@@ -340,7 +340,7 @@
                 "Sanat yapıtlarının insan tarafından taklit edilebileceğini, yeniden üretilebileceğini ancak mekanik olarak bir sanat yapıtının üretilmesinin yeni bir şey olduğu",
                 "Sanat yapıtlarının hakikilik ve orijinallik kavramları üzerine düşünceler"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 3,
             "source": "Ara Sınav 2023-2024",
             "material_id": "582819"
@@ -490,7 +490,7 @@
                 "Geri bildirimli koltuklar, kullanıcıların fiziksel hareketlerini sayısal dünya ya ileterek duyumsal deneyimler sunar.",
                 "Koku ve tat simülatörleri, kimyasal bileşenler kullanarak sayısal olarak işlenmiş duyusal deneyimler sunar."
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 13,
             "source": "Ara Sınav 2023-2024",
             "material_id": "582819"
@@ -655,7 +655,7 @@
                 "Simüle edilmesi",
                 "Sayısal (dijital)"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 4,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591741"
@@ -745,7 +745,7 @@
                 "Estetik ve semiyotik işlevler",
                 "Yaratıcı düşünme ve analitik düşünme işlevleri"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 10,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591741"
@@ -790,7 +790,7 @@
                 "Gerçeklik",
                 "Soyutlama"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 13,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591741"
@@ -805,7 +805,7 @@
                 "Stereoskopik üç boyutlu görüntüleri izleme",
                 "Gerçek mekanlarda dijital verileri görselleştirme"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 14,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591741"
@@ -820,7 +820,7 @@
                 "Dağılım grafiği",
                 "Pasta grafiği"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 15,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591741"
@@ -865,7 +865,7 @@
                 "Verileri çoğaltma",
                 "Verileri şifreleme"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 18,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591741"
@@ -985,7 +985,7 @@
                 "Dijital sanat",
                 "Multimedya"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 6,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "582794"
@@ -1075,7 +1075,7 @@
                 "Cartoonify",
                 "Alportraits"
             ],
-            "correctIndex": 0,
+            "correctIndex": 4,
             "exam_question_number": 12,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "582794"
@@ -1090,7 +1090,7 @@
                 "Oyunun kazanılması için gerekli taktikleri ifade eder.",
                 "Oyun mekanikleri oyuncuların sistem ile nasıl ilişki kuracağını belirleyen kurallardır."
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 13,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "582794"
@@ -1105,7 +1105,7 @@
                 "Evo-art",
                 "VR-art"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 14,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "582794"
@@ -1120,7 +1120,7 @@
                 "Ergül Özkutan",
                 "Teoman Madra"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 15,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "582794"
@@ -1135,7 +1135,7 @@
                 "Ian Goodfellow",
                 "Frieder Nake"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 16,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "582794"
@@ -1150,7 +1150,7 @@
                 "Algoritma",
                 "Çevresel etkileşim"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "582794"
@@ -1180,7 +1180,7 @@
                 "Ergül Özkutan",
                 "Teoman Madra"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 19,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "582794"
@@ -1195,7 +1195,7 @@
                 "Yeni Medya Sanatı alanında bolca teşvik verilmektedir.",
                 "Türkiye'de geç yaygınlaşmasına karşın dünya çapında yetkin sanatçılarımız vardır."
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "582794"
@@ -1225,7 +1225,7 @@
                 "Boyutsallık",
                 "Akılsallık"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 2,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "582834"
@@ -1285,7 +1285,7 @@
                 "Dijital sanat",
                 "Multimedya"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 6,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "582834"
@@ -1390,7 +1390,7 @@
                 "Oyunun kazanılması için gerekli taktikleri ifade eder.",
                 "Oyun mekanikleri oyuncuların sistem ile nasıl ilişki kuracağını belirleyen kurallardır."
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 13,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "582834"
@@ -1405,7 +1405,7 @@
                 "Evo-art",
                 "VR-art"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 14,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "582834"
@@ -1420,7 +1420,7 @@
                 "Evo-art",
                 "VR-art"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 15,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "582834"
@@ -1435,7 +1435,7 @@
                 "Ian Goodfellow",
                 "Frieder Nake"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 16,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "582834"
@@ -1450,7 +1450,7 @@
                 "Algoritma",
                 "Çevresel etkileşim"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "582834"
@@ -1465,7 +1465,7 @@
                 "Yekpare",
                 "Bilinmeyen kod"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 18,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "582834"
@@ -1480,7 +1480,7 @@
                 "Ergül Özkutan",
                 "Teoman Madra"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 19,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "582834"
@@ -1495,7 +1495,7 @@
                 "Yeni Medya Sanatı alanında bolca teşvik verilmektedir.",
                 "Türkiye'de geç yaygınlaşmasına karşın dünya çapında yetkin sanatçılarımız vardır."
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "582834"
@@ -1525,7 +1525,7 @@
                 "Akıllı telefonların sanat eserlerinde dijital üretim için temel araç haline gelmesi",
                 "Yapay zekanın sanatçılar tarafından kullanılması"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 2,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596753"
@@ -1780,7 +1780,7 @@
                 "Türkiye'de geç yaygınlaşmasına karşın dünya çapında yetkin sanatçılarımız vardır.",
                 "Dünyadaki ilk eserlerin Türkiye'den çıkmıştır."
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 19,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596753"
@@ -2035,7 +2035,7 @@
                 "Aaron",
                 "GANbreeder"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 16,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "582809"
@@ -2065,7 +2065,7 @@
                 "Cl-art",
                 "CA-art"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 18,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "582809"
@@ -2080,7 +2080,7 @@
                 "Digilogue",
                 "Bit"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 19,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "582809"
@@ -2155,7 +2155,7 @@
                 "Westworld",
                 "Dexter"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 4,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "582837"
@@ -2185,7 +2185,7 @@
                 "Yüksek gerçeklik",
                 "Meta gerçeklik"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 6,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "582837"
@@ -2200,7 +2200,7 @@
                 "İnformatikler estetik açıdan güçlüdür, datavizler ise veri açısından zengindir.",
                 "İnformatikler farklı verilerle yeniden kurgulanabilirken datavizler manuel müdahale gerektirir."
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 7,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "582837"
@@ -2215,7 +2215,7 @@
                 "Yalın grafiği",
                 "Çubuk grafiği"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 8,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "582837"
@@ -2245,7 +2245,7 @@
                 "Dijital oyun sanatı, sadece ABD'de üretilmiştir.",
                 "Dijital oyun sanatı örnekleri bağımsız ve tanımsızdır."
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 10,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "582837"
@@ -2260,7 +2260,7 @@
                 "Mekan",
                 "Soyutlaması"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 11,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "582837"
@@ -2350,7 +2350,7 @@
                 "R-art",
                 "Evo-art"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "582837"
@@ -2380,7 +2380,7 @@
                 "Digilogue",
                 "Bit"
             ],
-            "correctIndex": 3,
+            "correctIndex": 0,
             "exam_question_number": 19,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "582837"
@@ -2500,7 +2500,7 @@
                 "İnfografikler estetik açıdan güçlüdür, datavizler ise veri açısından zengindir.",
                 "İnfografikler farklı verilerle yeniden kurgulanabilirken datavizler manuel müdahale gerektirir."
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 7,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626546"
@@ -2545,7 +2545,7 @@
                 "Dijital oyun sanatı, sadece ABD'de üretilmiştir.",
                 "Dijital oyun sanatı örnekleri bağımsız ve tanımsızdır."
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 10,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626546"
@@ -2560,7 +2560,7 @@
                 "Mekan",
                 "Soyutlaması"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 11,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626546"
@@ -2650,7 +2650,7 @@
                 "R-art",
                 "Evo-art"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626546"
@@ -2680,7 +2680,7 @@
                 "Digilogue",
                 "Bit"
             ],
-            "correctIndex": 3,
+            "correctIndex": 0,
             "exam_question_number": 19,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626546"

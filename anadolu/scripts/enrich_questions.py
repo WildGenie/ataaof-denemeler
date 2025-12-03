@@ -96,10 +96,20 @@ def enrich_questions_batch(questions, summary_uris):
     Returns:
         Dict mapping question_id to enrichment data (topic, explanation)
     """
-    # Prepare question list (only text, no options)
+    # Prepare question list with options and correct answer marked
     question_texts = []
     for q in questions:
-        question_texts.append(f"Soru {q['id']}: {q['question']}")
+        full_text = f"Soru {q['id']}: {q['question']}\n"
+        options = q.get("options", [])
+        correct_idx = q.get("correctIndex")
+
+        for idx, opt in enumerate(options):
+            marker = ""
+            if idx == correct_idx:
+                marker = " <<< BU ŞIK DOĞRU KABUL EDİLECEK"
+            full_text += f"{chr(65+idx)}) {opt}{marker}\n"
+
+        question_texts.append(full_text)
 
     questions_text = "\n\n".join(question_texts)
 
@@ -109,7 +119,12 @@ def enrich_questions_batch(questions, summary_uris):
     Her soru için:
     1. Sorunun hangi üniteye ait olduğunu belirle (UniteNo: 1-8 arası)
     2. Sorunun konusunu (topic) belirle (kısa, 2-5 kelime)
-    3. Sorunun doğru cevabını ve neden doğru olduğunu açıklayan detaylı bir açıklama (explanation) yaz
+    3. Sorunun doğru cevabını ve neden doğru olduğunu açıklayan detaylı bir açıklama (explanation) yaz.
+
+    ÖNEMLİ:
+    - Sana verilen sorudaki "correctIndex" (veya işaretlenmiş şık) KESİN DOĞRUDUR.
+    - Eğer özetlerdeki bilgiyle çelişiyor gibi görünse bile, AÇIKLAMAYI BU CEVABA GÖRE YAZ.
+    - Cevabın neden o şık olduğunu mantıklı bir şekilde gerekçelendir.
 
     KURALLAR:
     - UniteNo: Sorunun içeriğine en uygun ünite numarasını belirle (1-8 arası)

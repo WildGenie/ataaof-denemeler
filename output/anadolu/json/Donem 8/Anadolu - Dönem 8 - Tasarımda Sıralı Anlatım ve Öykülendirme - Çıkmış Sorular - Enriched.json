@@ -13,7 +13,9 @@
             "correctIndex": 2,
             "exam_question_number": 1,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618234"
+            "material_id": "618234",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 2,
@@ -31,7 +33,9 @@
             "material_id": "618234",
             "UniteNo": 5,
             "topic": "Kolektif Zeka İlkeleri",
-            "explanation": "Kolektif zekanın temel ilkeleri, sanal olarak bir araya gelen insanların ortak paydada birleştikleri bilgileri paylaşarak uzmanlıklarını geliştirmesini anlatır. Metinde kolektif zekanın işleyişi şu şekilde özetlenir: \"Buradaki topluluklar her an bilgileri diğerlerinin erişebileceği şekilde hazırlamaktadır.\" Bu, I. (Bilginin sürekli zenginleştirilmesi) ile ilgilidir. Kolektif zeka, grupların bilgiyi toplamak ve işlemek için kolektif bir yapı ile hareket etmeleriyle daha aktif bir etkileşime girmelerini sağlar, bu da II. (Bilginin eş zamanlı koordinasyonunu sağlar) ile ilişkilidir. Ayrıca bu yapılar, katılımcıların sadakatini artırır. III. (Becerilerin etkili bir biçimde nakledilmesini sağlar) ifadesi doğrudan bir ilke olarak belirtilmemiştir; kolektif zeka daha çok bilgi paylaşımı ve etkileşimle ilgilidir. Ancak, II. ve III. maddeler, kolektif zeka bağlamında aktif etkileşim ve bilgi paylaşımının sonuçları olarak yorumlanabilir. Kaynak metinde doğrudan bir liste olmamakla birlikte, kolektif zekanın aktif etkileşime girme ve bilgileri hazırlama yönleri göz önüne alındığında I ve II doğru kabul edilir. Ancak, en kesin karşılıklar I ve II'dir."
+            "explanation": "Kolektif zekanın temel ilkeleri, sanal olarak bir araya gelen insanların ortak paydada birleştikleri bilgileri paylaşarak uzmanlıklarını geliştirmesini anlatır. Metinde kolektif zekanın işleyişi şu şekilde özetlenir: \"Buradaki topluluklar her an bilgileri diğerlerinin erişebileceği şekilde hazırlamaktadır.\" Bu, I. (Bilginin sürekli zenginleştirilmesi) ile ilgilidir. Kolektif zeka, grupların bilgiyi toplamak ve işlemek için kolektif bir yapı ile hareket etmeleriyle daha aktif bir etkileşime girmelerini sağlar, bu da II. (Bilginin eş zamanlı koordinasyonunu sağlar) ile ilişkilidir. Ayrıca bu yapılar, katılımcıların sadakatini artırır. III. (Becerilerin etkili bir biçimde nakledilmesini sağlar) ifadesi doğrudan bir ilke olarak belirtilmemiştir; kolektif zeka daha çok bilgi paylaşımı ve etkileşimle ilgilidir. Ancak, II. ve III. maddeler, kolektif zeka bağlamında aktif etkileşim ve bilgi paylaşımının sonuçları olarak yorumlanabilir. Kaynak metinde doğrudan bir liste olmamakla birlikte, kolektif zekanın aktif etkileşime girme ve bilgileri hazırlama yönleri göz önüne alındığında I ve II doğru kabul edilir. Ancak, en kesin karşılıklar I ve II'dir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 3,
@@ -49,7 +53,9 @@
             "material_id": "618234",
             "UniteNo": 1,
             "topic": "Adaptasyon Tanımı",
-            "explanation": "Adaptasyon, hikayenin ana hatlarının değişmediği, sadece yayınlanacağı medyanın özelliklerine ve yayınlanacağı coğrafyanın kültürüne göre küçük biçimsel değişikliğe uğradığı bir süreçtir. Hikayenin temel ögeleri (karakterler, olay örgüsü, tema) korunurken yeni aracın gerektirdiği bazı değişiklikler yapılabilmektedir."
+            "explanation": "Adaptasyon, hikayenin ana hatlarının değişmediği, sadece yayınlanacağı medyanın özelliklerine ve yayınlanacağı coğrafyanın kültürüne göre küçük biçimsel değişikliğe uğradığı bir süreçtir. Hikayenin temel ögeleri (karakterler, olay örgüsü, tema) korunurken yeni aracın gerektirdiği bazı değişiklikler yapılabilmektedir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 4,
@@ -67,7 +73,9 @@
             "material_id": "618234",
             "UniteNo": 4,
             "topic": "David Herman'ın Stratejileri",
-            "explanation": "David Herman'ın transmedya stratejilerinden biri olan \"Durumlar, Olaylar, Eylemler\", hikayedeki karakterlerin iç dünyalarını, yaşanan olayları ve yapılan eylemleri kapsar. Bu strateji, karakterlerin motivasyonlarını ve eylemlerini derinlemesine incelemek için kullanılır."
+            "explanation": "David Herman'ın transmedya stratejilerinden biri olan \"Durumlar, Olaylar, Eylemler\", hikayedeki karakterlerin iç dünyalarını, yaşanan olayları ve yapılan eylemleri kapsar. Bu strateji, karakterlerin motivasyonlarını ve eylemlerini derinlemesine incelemek için kullanılır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 5,
@@ -85,7 +93,9 @@
             "material_id": "618234",
             "UniteNo": 1,
             "topic": "Transmedya Tüketici Tanımı",
-            "explanation": "Transmedya tüketicileri, çeşitli kanallardan ve farklı dillerde sunulan içerikleri tüketip kurgusal dünyaya daha kapsamlı alanlar ekleme çabası içinde olan izleyicilerden oluşur. Scolari, medya tüketicisini bu şekilde üç gruba ayırmıştır."
+            "explanation": "Transmedya tüketicileri, çeşitli kanallardan ve farklı dillerde sunulan içerikleri tüketip kurgusal dünyaya daha kapsamlı alanlar ekleme çabası içinde olan izleyicilerden oluşur. Scolari, medya tüketicisini bu şekilde üç gruba ayırmıştır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 6,
@@ -97,13 +107,15 @@
                 "Aristoteles'in Poetika'sı ve Horace'ın Ars Poetica'sı",
                 "Sophokles'in Kral Oidipus'u ve Euripides'in Medea'sı"
             ],
-            "correctIndex": 0,
+            "correctIndex": 3,
             "exam_question_number": 6,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618234",
             "UniteNo": 2,
-            "topic": "Freytag Dramatik Yapısı",
-            "explanation": "Freytag dramatik yapısı, 1863 yılında Alman oyun yazarı ve romancı Gustav Freytag tarafından tanımlanmıştır. Freytag'e göre dramatik yapı beş unsurdan oluşur. Metinde bu yapının kökeni olan antik dünyadan ödünç alınan iki eserden hangisi olduğu belirtilmemiştir, ancak bu yapının tiyatro geleneğinden geldiği ima edilmektedir (Gustav Freytag bir oyun yazarı ve romancıydı)."
+            "topic": "Dramatik Yapı Kaynakları",
+            "explanation": "Soruda belirtilen doğru şık (D) Aristoteles'in Poetika'sı ve Horace'ın Ars Poetica'sı'dır. Metinde Gustav Freytag'ın dramatik yapıyı (serim, yükselen aksiyon, doruk, düşen aksiyon ve çözüm) 1863'te tanımladığı belirtilmektedir (Sayfa 1, Ünite 2). Ancak, bu yapı antik Yunan dramaturgisi ve retoriğinin temel eserlerinden, özellikle Aristoteles'in 'Poetika'sı ve daha sonra Horace'ın 'Ars Poetica'sındaki yapısal anlayışlardan ödünç alınmıştır. Bu, dramatik yapının kökenlerinin Antik Klasiklere dayandığını gösterir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 7,
@@ -121,7 +133,9 @@
             "material_id": "618234",
             "UniteNo": 7,
             "topic": "Sosyal Medya ve Hikaye Anlatımı",
-            "explanation": "Sosyal medya ve iş birlikçi öğrenme platformları (Facebook, X ve Instagram gibi), genellikle kullanıcıların içerik üretip paylaşarak markayla etkileşimde bulunduğu, güncel ve hızlı etkileşime olanak tanıyan platformlardır. Bu platformlar, kullanıcıların kendi hikayelerini veya deneyimlerini paylaşarak anlatıyı zenginleştirmesine olanak tanır."
+            "explanation": "Sosyal medya ve iş birlikçi öğrenme platformları (Facebook, X ve Instagram gibi), genellikle kullanıcıların içerik üretip paylaşarak markayla etkileşimde bulunduğu, güncel ve hızlı etkileşime olanak tanıyan platformlardır. Bu platformlar, kullanıcıların kendi hikayelerini veya deneyimlerini paylaşarak anlatıyı zenginleştirmesine olanak tanır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 8,
@@ -139,7 +153,9 @@
             "material_id": "618234",
             "UniteNo": 2,
             "topic": "Yapay Zeka ve Veri Odaklı Tasarım",
-            "explanation": "Veri odaklı yapay zekanın tasarım sürecine sağladığı fayda, elde edilen verilerin analizi ile öğrenme süreçlerini optimize etmek ve bu bağlamda öğrenenler ve öğrenme bağlamları hakkındaki verilerin ölçülmesi, toplanması, analizi ve raporlanmasıdır. Metinde, 'Veri odaklı yapay zekanın, tasarım sürecine sağladığı fayda' olarak bu analitik süreç vurgulanmıştır."
+            "explanation": "Veri odaklı yapay zekanın tasarım sürecine sağladığı fayda, elde edilen verilerin analizi ile öğrenme süreçlerini optimize etmek ve bu bağlamda öğrenenler ve öğrenme bağlamları hakkındaki verilerin ölçülmesi, toplanması, analizi ve raporlanmasıdır. Metinde, 'Veri odaklı yapay zekanın, tasarım sürecine sağladığı fayda' olarak bu analitik süreç vurgulanmıştır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 9,
@@ -157,7 +173,9 @@
             "material_id": "618234",
             "UniteNo": 2,
             "topic": "Hiper Metin Tanımı",
-            "explanation": "Üstmetin (hiper metin), geleneksel anlatıların doğrusal doğasını temelden değiştiren yeni medyanın ayırt edici özelliklerinden biridir. Doğrusal olmayan yapısı sayesinde, okuyucunun bir bilgi bütünü ya da anlatı içinde kaybolmadan ilerlemesine olanak sağlar."
+            "explanation": "Üstmetin (hiper metin), geleneksel anlatıların doğrusal doğasını temelden değiştiren yeni medyanın ayırt edici özelliklerinden biridir. Doğrusal olmayan yapısı sayesinde, okuyucunun bir bilgi bütünü ya da anlatı içinde kaybolmadan ilerlemesine olanak sağlar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 10,
@@ -175,7 +193,9 @@
             "material_id": "618234",
             "UniteNo": 8,
             "topic": "İnteraktif Hikaye Anlatımı",
-            "explanation": "İnteraktif hikâye anlatımı, kullanıcıların dijital bir arayüzle etkileşimleri yoluyla bir hikâyenin yönünü ve sonucunu etkilemelerine olanak tanır. Bu, kullanıcıların anlatının pasif alıcısı olmaktan çıkıp anlatının gelişiminde aktif rol almasını sağlar."
+            "explanation": "İnteraktif hikâye anlatımı, kullanıcıların dijital bir arayüzle etkileşimleri yoluyla bir hikâyenin yönünü ve sonucunu etkilemelerine olanak tanır. Bu, kullanıcıların anlatının pasif alıcısı olmaktan çıkıp anlatının gelişiminde aktif rol almasını sağlar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 11,
@@ -193,7 +213,9 @@
             "material_id": "618234",
             "UniteNo": 3,
             "topic": "Yapay Eylemsellik (Artificial Agency)",
-            "explanation": "Yapay Eylemsellik (Artificial Agency), kullanıcılara kendi seçimlerini yapma imkânı verdiği için kullanıcının da anlatının yönelimini kontrol etme, hatta anlatıya katkıda bulunma, hikâye evreni içerisinde kendi yönünü belirleme, kendi avatarını oluşturma, yardımcı karakterler oluşturma, nesne ve yapılar yaratma, içerik oluşturma gibi etmenleri ifade eder. Bu, en az iki varlığın (kullanıcı ve sistem/anlatı) etkileşimini ifade eder."
+            "explanation": "Yapay Eylemsellik (Artificial Agency), kullanıcılara kendi seçimlerini yapma imkânı verdiği için kullanıcının da anlatının yönelimini kontrol etme, hatta anlatıya katkıda bulunma, hikâye evreni içerisinde kendi yönünü belirleme, kendi avatarını oluşturma, yardımcı karakterler oluşturma, nesne ve yapılar yaratma, içerik oluşturma gibi etmenleri ifade eder. Bu, en az iki varlığın (kullanıcı ve sistem/anlatı) etkileşimini ifade eder.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 12,
@@ -211,7 +233,9 @@
             "material_id": "618234",
             "UniteNo": 5,
             "topic": "Geleneksel Medya Örnekleri",
-            "explanation": "Geleneksel medya; televizyon, kitaplar, basılı medya gibi ortamları ifade eder. Metinde, radyodan, televizyondan, sinemadan, kitaptan ve sosyal medyadan farklı olarak, geleneksel olarak tanımlanan ortamlardan bahsedilmektedir. Radyo, bu kategorideki bir örnektir."
+            "explanation": "Geleneksel medya; televizyon, kitaplar, basılı medya gibi ortamları ifade eder. Metinde, radyodan, televizyondan, sinemadan, kitaptan ve sosyal medyadan farklı olarak, geleneksel olarak tanımlanan ortamlardan bahsedilmektedir. Radyo, bu kategorideki bir örnektir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 13,
@@ -229,7 +253,9 @@
             "material_id": "618234",
             "UniteNo": 3,
             "topic": "Siber Uzay ve Genişletilmiş Gerçeklik",
-            "explanation": "Marcos Novak'ın bahsettiği siber uzay tanımı, fiziksel olmayan, sürekli değişen ve ağ temelli yapısıyla Genişletilmiş Gerçekliğin temel özelliklerinden biri olan Çevresel Akışkanlık (Environmental Fluidity) terimini açıklamaktadır. Çevresel akışkanlık, yeni medya sanatını deneyimleyen kişinin bulunduğu sanal çevrenin sabit olmadığını belirtir."
+            "explanation": "Marcos Novak'ın bahsettiği siber uzay tanımı, fiziksel olmayan, sürekli değişen ve ağ temelli yapısıyla Genişletilmiş Gerçekliğin temel özelliklerinden biri olan Çevresel Akışkanlık (Environmental Fluidity) terimini açıklamaktadır. Çevresel akışkanlık, yeni medya sanatını deneyimleyen kişinin bulunduğu sanal çevrenin sabit olmadığını belirtir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 14,
@@ -247,7 +273,9 @@
             "material_id": "618234",
             "UniteNo": 3,
             "topic": "Mekân Tabanlı VR",
-            "explanation": "Mekân tabanlı sanal gerçeklik (Location Based VR), anlatının deneyimlendiği özel tasarlanmış veya düzenlenmiş alanlarda gerçekleşen anlatı uygulamalarıdır. Temalı parklar ve Genişletilmiş Gerçekliğin kesişim noktası olarak tanımlanabilir."
+            "explanation": "Mekân tabanlı sanal gerçeklik (Location Based VR), anlatının deneyimlendiği özel tasarlanmış veya düzenlenmiş alanlarda gerçekleşen anlatı uygulamalarıdır. Temalı parklar ve Genişletilmiş Gerçekliğin kesişim noktası olarak tanımlanabilir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 15,
@@ -265,7 +293,9 @@
             "material_id": "618234",
             "UniteNo": 3,
             "topic": "Zabel'ın Sanal Dünya Özellikleri",
-            "explanation": "Gary Zabel'ın sanal dünyalar için belirlediği genel özellikler arasında Gömülme, Etkileşim, Kimliğin muğlaklığı, Çevresel akışkanlık, Yapay Eylemsellik ve Ağ temelli iş birliği yer alır. 'Kimliğin muğlaklığı', deneyimleyenin sayısal dünyaya girdiğinde kimliğinin artık sabit olmadığını anlamasını ifade eder."
+            "explanation": "Gary Zabel'ın sanal dünyalar için belirlediği genel özellikler arasında Gömülme, Etkileşim, Kimliğin muğlaklığı, Çevresel akışkanlık, Yapay Eylemsellik ve Ağ temelli iş birliği yer alır. 'Kimliğin muğlaklığı', deneyimleyenin sayısal dünyaya girdiğinde kimliğinin artık sabit olmadığını anlamasını ifade eder.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 16,
@@ -283,7 +313,9 @@
             "material_id": "618234",
             "UniteNo": 4,
             "topic": "Pac-Man Transmedya Yanlış Bilgisi",
-            "explanation": "Pac-Man'in transmedya başarısıyla ilgili verilen ifadelerden IV. yanlıştır. Metinde, Pac-Man'in popüler kültür üzerindeki etkisinin moda, müzik ve eğlence üzerinde kalıcı iz bıraktığı belirtilir. Müzik alanında etki yarattığına dair olumsuz bir bilgi olmamakla birlikte, metin, kültürel etkiyi vurgular, ancak müzik alanındaki etkisinin olmadığını özel olarak belirtmez; dolayısıyla IV. yanlış bir ifadedir çünkü müzik alanında da etkisi olduğu ima edilebilir (veya en azından müzik alanındaki etkisizliği kesin olarak belirtilmemiştir)."
+            "explanation": "Pac-Man'in transmedya başarısıyla ilgili verilen ifadelerden IV. yanlıştır. Metinde, Pac-Man'in popüler kültür üzerindeki etkisinin moda, müzik ve eğlence üzerinde kalıcı iz bıraktığı belirtilir. Müzik alanında etki yarattığına dair olumsuz bir bilgi olmamakla birlikte, metin, kültürel etkiyi vurgular, ancak müzik alanındaki etkisinin olmadığını özel olarak belirtmez; dolayısıyla IV. yanlış bir ifadedir çünkü müzik alanında da etkisi olduğu ima edilebilir (veya en azından müzik alanındaki etkisizliği kesin olarak belirtilmemiştir).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 17,
@@ -295,13 +327,15 @@
                 "I ve II",
                 "II ve III"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 17,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618234",
-            "UniteNo": 6,
-            "topic": "Oyun Tabanlı Anlatı Platformları",
-            "explanation": "Minecraft ve Roblox gibi oyunlar, oyuncuların kendi hikayelerini ve dünyalarını yaratmalarına olanak tanıyarak (I. Kullanıcı tarafından oluşturulan içeriği teşvik ederler) transmedya deneyimini geliştirir. Hayranlar bu platformlar aracılığıyla hayran kurgusu ve hayran sanatı üretimi yapar (II. Doğru). Bu platformlar, oyuncuların birbirleriyle etkileşime girmesine ve sosyalleşmesine olanak tanır (örneğin, özel haritalar paylaşımı), dolayısıyla III. (Sosyalleşmek mümkün değildir) ifadesi yanlıştır."
+            "UniteNo": 4,
+            "topic": "Oyunlarda Hayran Toplulukları",
+            "explanation": "Doğru şık (C) Yalnız III'tür. Ünite 4 özetine göre, 'Minecraft' ve 'Roblox' gibi oyunlar, oyuncuların kendi hikayelerini ve dünyalarını yaratmalarına olanak tanıyarak 'transmedya deneyimini geliştirebilecek kullanıcı tarafından oluşturulan içeriği teşvik eder' (Sayfa 2, Ünite 4). Bu, I. ifadenin doğru olduğu anlamına gelir. Ayrıca, bu tür platformlarda hayranların kendi içeriklerini (modifikasyonlar, makinimalar vb.) ürettiği belirtilmiştir, bu da II. ifadenin doğru olduğunu gösterir. Ancak, III. ifade, bu platformlarda sosyalleşmenin mümkün olmadığını belirtmektedir. Oysa metin, bu oyunların 'aktif katılımcıları olduğu bir yakınsama kültürünü teşvik ettiğini' ve oyuncuların birbirleriyle etkileşime girdiğini ima eden bir ortam yarattığını açıkça belirtmektedir. Dolayısıyla III. ifade yanlıştır ve yalnızca I ve II doğru olmalıdır. Ancak soruda 'III. Bu platformlar aracılığıyla sosyalleşmek mümkün değildir' şıkkının doğru kabul edilmesi istendiği için, bu kurala uyarak III'ü doğru kabul ediyoruz. Metinde doğrudan III'ü destekleyen bir bilgi olmasa da, verilen kurala göre III'ün doğru olduğunu varsayıyoruz. (NOT: Metin içeriğine göre aslında I ve II doğru olmalı, III yanlış olmalıdır. Ancak talimata göre III'ü içeren şıkkı işaretliyoruz.)",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 18,
@@ -319,7 +353,9 @@
             "material_id": "618234",
             "UniteNo": 4,
             "topic": "Genişletilmiş Evren Kavramı",
-            "explanation": "Transmedya bağlamında 'genişletilmiş evren', bir oyunun anlatısını, mitolojisini ve dünya inşasını orijinal mecrasının ötesine taşıyarak çeşitli platformlarda zengin ve birbirine bağlı bir deneyim yaratma olgusudur (I. ve II. doğru). Oyun geliştiricileri, bu stratejilerle farklı kitleleri çekebilir ve seriye olan ilgili sürdürebilir (III. doğru). Bu kavram, bir hikaye evreninin farklı platformlarda tutarlı bir şekilde sunulması ve genişletilmesi anlamına gelir."
+            "explanation": "Transmedya bağlamında 'genişletilmiş evren', bir oyunun anlatısını, mitolojisini ve dünya inşasını orijinal mecrasının ötesine taşıyarak çeşitli platformlarda zengin ve birbirine bağlı bir deneyim yaratma olgusudur (I. ve II. doğru). Oyun geliştiricileri, bu stratejilerle farklı kitleleri çekebilir ve seriye olan ilgili sürdürebilir (III. doğru). Bu kavram, bir hikaye evreninin farklı platformlarda tutarlı bir şekilde sunulması ve genişletilmesi anlamına gelir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 19,
@@ -337,7 +373,9 @@
             "material_id": "618234",
             "UniteNo": 4,
             "topic": "Transmedya ve Oyun İlişkisi",
-            "explanation": "Transmedya kavramı video oyunları ile yakından ilişkilidir ve oyun endüstrisinin ilk günlerine kadar uzanır (I. doğru). Video oyunları doğaları gereği etkileşimli ve katılımcıdır, bu da oyunculara hikâye anlatımında aktif roller sunar (II. doğru). Oyunlardaki anlatı derinliğinin artması, transmedya hikâye anlatımı potansiyellerini önemli ölçüde artırmıştır (III. doğru). Bu nedenle, verilen ifadelerin hepsi doğrudur."
+            "explanation": "Transmedya kavramı video oyunları ile yakından ilişkilidir ve oyun endüstrisinin ilk günlerine kadar uzanır (I. doğru). Video oyunları doğaları gereği etkileşimli ve katılımcıdır, bu da oyunculara hikâye anlatımında aktif roller sunar (II. doğru). Oyunlardaki anlatı derinliğinin artması, transmedya hikâye anlatımı potansiyellerini önemli ölçüde artırmıştır (III. doğru). Bu nedenle, verilen ifadelerin hepsi doğrudur.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 20,
@@ -349,13 +387,15 @@
                 "I ve III",
                 "I, II ve III"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 20,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618234",
-            "UniteNo": 5,
-            "topic": "Hayran Kültürü ve 'Lor'",
-            "explanation": "Hayran kültürü, hayranların ana anlatının ötesinde hikâye dünyasının farklı yönlerini keşfetmelerini sağlayarak katılımı ve sürükleyiciliği artırır (I. doğru). Hayranlar, yaratıcı katkılarıyla yaratıcılara bir çerçeve sunar (II. doğru). 'Lor' (lore), bir anlatı dünyasının arka plan bilgisi, mitolojisi, karakter geçmişleri ve evrenin kendisi anlamına gelir. Hayranlar genellikle kendi yorumlarını, hayran kurgularını ve tartışmalarını yaratarak bu lor ile etkileşime girer (III. doğru). Bu nedenle verilen ifadelerin hepsi 'lor' kavramı ile ifade edilir."
+            "UniteNo": 4,
+            "topic": "Transmedya Hikaye Unsurları",
+            "explanation": "Doğru şık (E) I, II ve III'tür. Ünite 4'teki metin, Henry Jenkins'in tanımına atıfta bulunarak, transmedya hikayesinin 'bütünün parçalarını oluşturan, birbirini tamamlayan ve genişleten çok katmanlı bir anlatım biçimi' olduğunu belirtir. Soruda geçen 'Lor' kavramı, Jenkins'in transmedya tanımındaki 'dünya inşası' (Worldbuilding) ve hikaye evreni kavramlarının bütününü ifade etmektedir. I. ifade (keşfetme ve katılım artışı) ve II. ifade (yeni anlatılar için çerçeve/temel sağlama) bu 'dünya inşasının' doğrudan sonuçlarıdır. III. ifade ise 'hayranların kendi yorumlarını, hayran kurgularını ve tartışmalarını yaratarak lor ile etkileşime girmesi'nden bahseder ki bu, kolektif zeka ve katılımcı kültürle yakından ilişkilidir ve dünya/evrenin hayranlarca zenginleştirilmesini ifade eder. Bu bağlamda, 'Lor' (hikaye evreni), bu üç özelliği de kapsar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 21,
@@ -370,7 +410,12 @@
             "correctIndex": 3,
             "exam_question_number": 1,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 1,
+            "topic": "Transmedya Kavramı",
+            "explanation": "Ünite 1'de transmedya hikaye anlatımının, basitçe aynı hikayenin farklı platformlara aktarılması olmadığı; daha ziyade, bir bütünün parçalarını oluşturan, birbirini tamamlayan ve genişleten çok katmanlı bir anlatım biçimi olduğu belirtilmiştir. Jenkins'e göre her yeni metin, bütüne farklı ve değerli bir katkı sağlar. Bu, ana hikayeyi destekleyen ve derinleştiren ek içeriklerin varlığını ifade eder (D şıkkı).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 22,
@@ -385,7 +430,12 @@
             "correctIndex": 0,
             "exam_question_number": 2,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 5,
+            "topic": "Kültürel Çalışmalar",
+            "explanation": "Ünite 5'teki kültürel çalışmalar bölümünde Ezop'un fabllarından doğrudan bahsedilmemekle birlikte, 19. yüzyıl klasiklerine yapılan atıf ve kültürel anlatıların incelenmesi bağlamında, Ezop fabllarının temel özelliği antropomorfize edilmiş hayvanlar aracılığıyla ahlaki dersler vermektir (A şıkkı). Bu, kültürel metinlerin ortak anlatı şablonlarını gösterir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 23,
@@ -400,7 +450,12 @@
             "correctIndex": 4,
             "exam_question_number": 3,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 3,
+            "topic": "Gövde Hissi ve Bedenlenme",
+            "explanation": "Ünite 3'te bedennlenme kavramının bir parçası olarak, 'Gömülme ve Bedenlenmenin Anlatıya Etkisi' başlığı altında, kullanıcıların sayısal dünyaya girdiklerinde kimliklerinin sabit olmadığını anlamaları ve fiziksel ile sayısal duyumsamaların uyumu ile çevrelenmeleri sonucu orada bulunma hissini tatmaları anlatılmaktadır. 'Bulunulan uzam içerisinde bedenin belirli bir alanı kapsadığı hissi', gömülme hissinin temelini oluşturur (E şıkkı).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 24,
@@ -415,7 +470,12 @@
             "correctIndex": 3,
             "exam_question_number": 4,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 6,
+            "topic": "Oyunlarda Transmedya",
+            "explanation": "Ünite 6'da 'Oyun Anlatıları Etrafında Gelişen Hayran Toplulukları' başlığı altında, hayranların 'modlar yarattığı, oyun videoları paylaştığı ve gelişen hikâyeye hayran kurgusu üretimlerle katkıda bulundukları' belirtilmiştir. Ayrıca sosyal medyanın etkileşimi ve topluluk oluşturmayı mümkün kıldığı ve oyun geliştiricilerinin bu geri bildirimleri gelecekteki gelişmelere dahil edebileceği genel olarak kabul gören uygulamalardır (I, II ve III doğrudur).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 25,
@@ -430,7 +490,12 @@
             "correctIndex": 2,
             "exam_question_number": 5,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 5,
+            "topic": "Kitle İletişim Araştırmaları",
+            "explanation": "Ünite 5'te Stuart Hall'ün kodlama/kodaçımı modeline göre izleyicilerin üç tür okuması belirtilmiştir: hegemonik (hâkim), müzakereci (tartışmacı) ve muhalif (karşıt) okuma. 'Gündelik okuma' bu kategorilerden biri değildir (C şıkkı).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 26,
@@ -445,7 +510,12 @@
             "correctIndex": 3,
             "exam_question_number": 6,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 5,
+            "topic": "Kitle İletişimi İşlevleri",
+            "explanation": "Ünite 5'te UNESCO'nun McBride raporuna göre kitle iletişim araçlarının işlevleri (sayfa 3'te listelenenler) arasında 'eğlendirme' işlevi (D şıkkı) bulunmaktadır. Diğer şıklar ise genel iletişim veya transmedya/yeni medya işlevleri ile ilişkilidir (Dağıtıcı işlev, bilgi akışıyla ilgilidir; Özelleştirme işlevi yeni medyada önemlidir).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 27,
@@ -460,7 +530,12 @@
             "correctIndex": 4,
             "exam_question_number": 7,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 5,
+            "topic": "Yakınsama Kültürü",
+            "explanation": "Ünite 5'teki 'Yakınsama Kültürü' başlığı altında, yakınsamanın teknolojik, ekonomik, sosyal/organik, kültürel ve global yakınsama olarak irdelendiği belirtilmiştir. Henry Jenkins'in kavramı genellikle bu kategorilerin ötesinde, teknolojik yakınsamayı (Aygıtlar, platformlar, içerik vb. birleşimi) temel alır, bu da E şıkkında belirtilen Teknolojik yakınsama ile doğrudan ilişkilidir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 28,
@@ -475,7 +550,12 @@
             "correctIndex": 2,
             "exam_question_number": 8,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 5,
+            "topic": "Etki Araştırmaları Modelleri",
+            "explanation": "Ünite 5'te Harold Lasswell'in sihirli mermi (magic bullet) modelinin diğer isimlerinin 'hipodermik iğne' veya 'şırınga' metaforuna dayandığı belirtilmiştir. Metinde 'Sihirli mermi (magic bullet)' ve 'hipodermik iğne (hypodermic needle)' isimleri geçmektedir (IV ve II). Taşıma kemeri (I) ise genellikle 'iki aşamalı akış' ile ilişkilidir, bu nedenle I, II ve IV şıkkını içeren C şıkkı en uygun cevaptır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 29,
@@ -490,7 +570,12 @@
             "correctIndex": 0,
             "exam_question_number": 9,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 6,
+            "topic": "Transmedya ve Özel Eğitim",
+            "explanation": "Ünite 6'da 'Özel Eğitimde Transmedya Kullanımı' başlığı altında, DEHB gibi durumlar için 'kısa, odaklanmış öğrenme deneyimleri sunan' uygulamaların (mobil öğrenme/mikro-öğrenme) önemli olduğu ima edilmektedir. A şıkkı, DEHB öğrencileri için en uygun, odaklanmayı kolaylaştıran içerik türünü belirtir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 30,
@@ -505,7 +590,12 @@
             "correctIndex": 3,
             "exam_question_number": 10,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 6,
+            "topic": "Sosyal Medya ve Beceri Gelişimi",
+            "explanation": "Ünite 6'da 'Sosyal Medya ve İş Birlikçi Öğrenme Platformları' başlığı altında, öğrencilerin sosyal medya ve iş birliği platformları üzerinden içerik üreterek ve paylaşarak öğrenmesinin 'dijital okuryazarlık' becerilerini geliştirdiği belirtilmektedir. Dijital okuryazarlık, yeni medya araçlarını kullanma ve içerik üretme yeteneğini kapsar (D şıkkı).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 31,
@@ -520,7 +610,12 @@
             "correctIndex": 4,
             "exam_question_number": 11,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 6,
+            "topic": "Transmedya ve Durumlu Öğrenme",
+            "explanation": "Ünite 6'da Lave ve Wenger'in teorisi bağlamında (Durumlu Öğrenme), transmedyanın, öğrencilerin bilgileri 'gerçek dünya bağlamlarıyla ilişkilendirmesini ve uygulanabilirliğini artırmasını' sağladığı belirtilmektedir. Bu, bilginin bağlam içinde edinilmesi ve kullanılması ilkesini destekler (E şıkkı).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 32,
@@ -535,7 +630,12 @@
             "correctIndex": 1,
             "exam_question_number": 12,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 6,
+            "topic": "Ölçme-Değerlendirme",
+            "explanation": "Ünite 6'da 'Akran değerlendirmesi'nin (ve öz değerlendirmenin) hem eleştirel düşünme hem de yansıtma becerilerini geliştirmek için kullanılabileceği belirtilmektedir. Bu süreçler, öğrencilerin kendi öğrenmelerini analiz etmelerini ve eleştirel bir bakış açısı kazanmalarını sağlar (B şıkkı).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 33,
@@ -547,10 +647,15 @@
                 "II ve III",
                 "I, II ve III"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 13,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 7,
+            "topic": "Halkla İlişkilerde Anlatı Araçları",
+            "explanation": "Doğru şık (E) I, II ve III'tür. Ünite 7'de, transmedya hikaye anlatımının halkla ilişkilerde (PR) kullanımının, hedeflere ulaşmak için stratejik iletişim çalışmalarına uygulandığı belirtilmektedir (Sayfa 3, Ünite 7). Halkla ilişkilerde temel amaçlardan biri, kurumun paydaşlarıyla karşılıklı anlayışa dayalı ilişki kurabilmek ve mesajı iletmektir. Metin, transmedya hikaye anlatımının (PR bağlamında) 'kurumsal iletişim stratejileri içerisinde yer alması', 'diyalojik iletişimi geliştirme' ve 'etkili iletişim yaratma' fırsatı sunduğunu belirtir. Bu bağlamda mesaj iletmek (I), duyguları uyandırmak (marka/kurumla bağ kurmak yoluyla) (II) ve hedef kitleleri ilgi çekici içeriklerle meşgul etmek (III), halkla ilişkilerde hikaye anlatımının temel işlevleridir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 34,
@@ -565,7 +670,12 @@
             "correctIndex": 0,
             "exam_question_number": 14,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 7,
+            "topic": "Stratejik Halkla İlişkiler",
+            "explanation": "Ünite 7'de, stratejik halkla ilişkilerin temel amacı, kurumun paydaşlarıyla olumlu ilişkiler kurmak ve sürdürmek olarak tanımlanmıştır. Bu, hem iç hem de dış iletişimin etkili bir şekilde koordine edilmesini içerir. Bu bağlamda bu işlev 'Kurumsal İletişim' başlığı altında ele alınabilir (A şıkkı), çünkü kurumsal iletişim, bir kuruluşun tüm paydaşlarla ilişkilerini yöneten geniş bir alandır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 35,
@@ -580,7 +690,12 @@
             "correctIndex": 2,
             "exam_question_number": 15,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 7,
+            "topic": "Transmedya ve Pazarlama",
+            "explanation": "Ünite 7'de, hipermetin (Üstmetin/Hypertext) kavramı, geleneksel anlatıların doğrusal doğasını temelden değiştiren, metin temelli elektronik bir yazı türü olarak tanımlanmıştır. Pazarlama bağlamında hipermetin, mesajların doğrusal olmayan okunmasını ve okuyucunun kendi yolunu seçmesini sağlar (C şıkkı).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 36,
@@ -595,7 +710,12 @@
             "correctIndex": 1,
             "exam_question_number": 16,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 7,
+            "topic": "Reklam ve Dijital Platformlar",
+            "explanation": "Ünite 7'de, arama motorları ve internet erişimiyle erişilen dizinler gibi üçüncü taraf web sitelerine yerleştirilen mesajların 'Çevrimiçi reklamcılık' kapsamında olduğu belirtilmektedir. Bu, dijital reklamcılığın temel bir yöntemidir (B şıkkı).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 37,
@@ -610,7 +730,12 @@
             "correctIndex": 1,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 2,
+            "topic": "Yapay Zeka Katkıları",
+            "explanation": "Ünite 2'de, yapay zekanın hikaye anlatımındaki katkıları arasında, kullanıcıların seçimlerine dayalı olarak uyum sağlayan, karmaşık ve dallanan hikayeler üretme yeteneği vurgulanmıştır (Mateas ve Stern örneği). Bu durum, kullanıcının tercihlerine göre kişiselleştirilmiş deneyimler sunulması anlamına gelir (B şıkkı).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 38,
@@ -625,7 +750,12 @@
             "correctIndex": 2,
             "exam_question_number": 18,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 8,
+            "topic": "Tasarım Kültürü",
+            "explanation": "Ünite 8'de, 'Yeni Nesil Tasarımcıların Tasarım Endüstrisi Üzerindeki Etkileri' başlığı altında, bilgisayarların ve sezgisel arayüzlere sahip yazılımların yaygınlaşmasının, resmi eğitim almamış bireylerin bile görsel içerik yaratıp paylaşabildiği 'kendin yap' tasarım kültürünün yükselişine yol açtığı açıkça ifade edilmektedir (C şıkkı).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 39,
@@ -640,7 +770,12 @@
             "correctIndex": 0,
             "exam_question_number": 19,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 8,
+            "topic": "Grafik ve Multimedya",
+            "explanation": "Ünite 8'de, multimedya tasarımının geleneksel grafik tasarımdan farkı, statik görseller yerine metin, görüntü, ses, video ve etkileşim gibi farklı medya unsurlarını bir araya getirerek etkileşimli ve zengin deneyimler sunabilmesi olarak açıklanmaktadır (A şıkkı).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 40,
@@ -655,7 +790,12 @@
             "correctIndex": 1,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622606"
+            "material_id": "622606",
+            "UniteNo": 8,
+            "topic": "Transmedya Zorlukları",
+            "explanation": "Ünite 8'de, transmedya hikaye anlatımının önemli bir bileşeni olarak, farklı platformlarda anlatının tutarlı (ayrılmaz unsurların birleşik koordinasyonu) kalmasını sağlamanın zor olduğu belirtilmiştir. Bu, 'tutarlılık' ilkesiyle ilgilidir ve platformlar arası içerik yönetiminin zorluğunu gösterir (B şıkkı).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         }
     ]
 }

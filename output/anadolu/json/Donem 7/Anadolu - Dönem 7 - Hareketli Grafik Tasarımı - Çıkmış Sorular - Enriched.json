@@ -13,7 +13,9 @@
             "correctIndex": 4,
             "exam_question_number": 1,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "591749"
+            "material_id": "591749",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 2,
@@ -31,7 +33,9 @@
             "material_id": "591749",
             "UniteNo": 6,
             "topic": "Hareketli Grafik Yöntemleri",
-            "explanation": "Soru, geleneksel fotoğrafçılık veya film teknolojisi ile ilgili bir kavramı tanımlamaktadır. Ünite 6 özetinde doğrudan bu kavram geçmemektedir. Ancak, Ünite 7'de kameralar başlığı altında film kameralarının ışığa duyarlı emülsiyona sahip selüloitten negatifler geliştirerek çalıştığı belirtilmektedir. Ünite 1'de ise Thomas Edison'un Kinetoskop'u ve Lumière Kardeşler'in Cinématographe'ı sinemanın önemli dönüm noktaları olduğu belirtilir. Ancak fotoğrafçılık bağlamında, uzun pozlama sürelerinin hareketi yakalamayı zorlaştırdığı, ancak Eadweard Muybridge'in hızlı pozlama makineleriyle bu sorunun aşıldığı belirtilmiştir (Ünite 1). Sorunun tanımı, bir pozlama süresi tanımıdır. Bu bağlamda, en yakın tarihsel bilgi, Ünite 1'de bahsedilen, fotoğrafçılık gelişmelerine atıfta bulunan ve hareketi yakalamaya odaklanan süreçle ilgilidir. Sorudaki tanım, fotoğrafın temel işleyişine (ışığa duyarlı malzeme üzerinden pozlama) odaklanmaktadır. Ünite 1'de, ilk fotoğrafların uzun pozlama süreleri olduğu ve bu durumun hareketi yakalamayı zorlaştırdığı belirtilmiştir. Bu, soruda bahsedilen süre ile ilişkilidir. Ancak, sorunun doğrudan tanımı, film şeridi ve emülsiyon bilgisi içermektedir. Ünite 7'de film kameraları anlatılırken, ışığa duyarlı emülsiyona sahip selüloidden yapılmış film stoklarının negatifler geliştirerek çalıştığı belirtilmiştir. Bu bilgi, sorudaki tanımın 'film şeridi' kısmını en iyi karşılar."
+            "explanation": "Soru, geleneksel fotoğrafçılık veya film teknolojisi ile ilgili bir kavramı tanımlamaktadır. Ünite 6 özetinde doğrudan bu kavram geçmemektedir. Ancak, Ünite 7'de kameralar başlığı altında film kameralarının ışığa duyarlı emülsiyona sahip selüloitten negatifler geliştirerek çalıştığı belirtilmektedir. Ünite 1'de ise Thomas Edison'un Kinetoskop'u ve Lumière Kardeşler'in Cinématographe'ı sinemanın önemli dönüm noktaları olduğu belirtilir. Ancak fotoğrafçılık bağlamında, uzun pozlama sürelerinin hareketi yakalamayı zorlaştırdığı, ancak Eadweard Muybridge'in hızlı pozlama makineleriyle bu sorunun aşıldığı belirtilmiştir (Ünite 1). Sorunun tanımı, bir pozlama süresi tanımıdır. Bu bağlamda, en yakın tarihsel bilgi, Ünite 1'de bahsedilen, fotoğrafçılık gelişmelerine atıfta bulunan ve hareketi yakalamaya odaklanan süreçle ilgilidir. Sorudaki tanım, fotoğrafın temel işleyişine (ışığa duyarlı malzeme üzerinden pozlama) odaklanmaktadır. Ünite 1'de, ilk fotoğrafların uzun pozlama süreleri olduğu ve bu durumun hareketi yakalamayı zorlaştırdığı belirtilmiştir. Bu, soruda bahsedilen süre ile ilişkilidir. Ancak, sorunun doğrudan tanımı, film şeridi ve emülsiyon bilgisi içermektedir. Ünite 7'de film kameraları anlatılırken, ışığa duyarlı emülsiyona sahip selüloidden yapılmış film stoklarının negatifler geliştirerek çalıştığı belirtilmiştir. Bu bilgi, sorudaki tanımın 'film şeridi' kısmını en iyi karşılar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 3,
@@ -49,7 +53,9 @@
             "material_id": "591749",
             "UniteNo": 7,
             "topic": "Cel Animasyon Teknolojisi",
-            "explanation": "Soru, Cel Animasyon tekniğini tanımlamaktadır. Ünite 6'da Cel Animasyon, saydam film tabakaları kullanılarak yapılan geleneksel 2D animasyon tekniği olarak tanımlanır. Ünite 7'de ise 'film stok boyutları, 8 mm ve Süper 8 mm, 16 mm ve Süper 16 mm, 35 mm ve 70 mm'yi içermektedir' denilerek, film kameralarında ışığa duyarlı emülsiyona sahip selüloitten yapılmış film stoklarının kullanıldığı belirtilmiştir. Cel animasyonda kullanılan saydam plastik film 'cel' olarak adlandırılır ve bu 'cel'ler ışığa duyarlı materyal içermezler, ancak film şeritleri içerirler. Soruda bahsedilen tanım, film şeridinin (negatif filmin) yapısını doğru bir şekilde yansıtmaktadır (ışığa duyarlı emülsiyon içeren selüloit). Bu, Cel Animasyonun temelini oluşturan film kaydının kendisiyle ilgilidir. Ünite 7'deki kamera tanımında, film kameralarının 'ışığa duyarlı bir emülsiyona sahip selüloidden, hareketsiz bir film rulosundan negatifler geliştirmeye benzer bir işlemle geliştirilir' ifadesi, sorudaki tanıma en yakındır. Ancak soru, 'cel'i tanımlamıyorsa, film stokunun kendisini tanımlamaktadır. Cel animasyonun temelini oluşturan film, bu tanıma uyan bir materyaldir."
+            "explanation": "Soru, Cel Animasyon tekniğini tanımlamaktadır. Ünite 6'da Cel Animasyon, saydam film tabakaları kullanılarak yapılan geleneksel 2D animasyon tekniği olarak tanımlanır. Ünite 7'de ise 'film stok boyutları, 8 mm ve Süper 8 mm, 16 mm ve Süper 16 mm, 35 mm ve 70 mm'yi içermektedir' denilerek, film kameralarında ışığa duyarlı emülsiyona sahip selüloitten yapılmış film stoklarının kullanıldığı belirtilmiştir. Cel animasyonda kullanılan saydam plastik film 'cel' olarak adlandırılır ve bu 'cel'ler ışığa duyarlı materyal içermezler, ancak film şeritleri içerirler. Soruda bahsedilen tanım, film şeridinin (negatif filmin) yapısını doğru bir şekilde yansıtmaktadır (ışığa duyarlı emülsiyon içeren selüloit). Bu, Cel Animasyonun temelini oluşturan film kaydının kendisiyle ilgilidir. Ünite 7'deki kamera tanımında, film kameralarının 'ışığa duyarlı bir emülsiyona sahip selüloidden, hareketsiz bir film rulosundan negatifler geliştirmeye benzer bir işlemle geliştirilir' ifadesi, sorudaki tanıma en yakındır. Ancak soru, 'cel'i tanımlamıyorsa, film stokunun kendisini tanımlamaktadır. Cel animasyonun temelini oluşturan film, bu tanıma uyan bir materyaldir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 4,
@@ -61,13 +67,15 @@
                 "Büyülü Fener (Lanterna Magica)",
                 "Fantazmagorya (Phantasmagoria)"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 4,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591749",
-            "UniteNo": 7,
-            "topic": "Hareketli Grafik Araçları",
-            "explanation": "Soru, hangi aracın hareketli grafik oluşturma sürecinde kullanılmadığını sormaktadır. Ünite 7, kullanılan araçları detaylıca sıralamıştır: Photoshop, Illustrator, Animate, After Effects, Premiere Pro, Cinema 4D, Blender, Houdini, Maya, Nuke, Grafik Tablet, Kamera, Depolama çözümleri. Bu araçların tamamı (prototip öncesi aşamada kullanılan kalem/kağıt hariç) dijital araçlardır. 'Rotoscop' ise bir yöntemdir (Ünite 6), bir donanım aracı değil. Rotoskop yöntemi, video karelerinin elle çizilerek yeniden yorumlanmasıdır. Ünite 6'da Rotoskop yöntemi açıklanmıştır. Ünite 7'de listelenen donanımlar arasında 'Rotoskop' bulunmamaktadır. Diğer şıklar (Maya, Blender, Houdini) 3D yazılım olarak listelenmiştir."
+            "UniteNo": 1,
+            "topic": "Camera Obscura ve Optik Oyuncaklar",
+            "explanation": "Ünite 1'de Optik Oyuncaklar ve Camera Obscura bölümünde, Camera Obscura'nın modern kameranın öncüsü olduğu ve illüzyon gösterilerinde (Büyülü Fener, Fantazmagorya) yer aldığı belirtilmiştir. Ancak, saat yapımı (muhtemelen mekanik saatler kastedilmektedir) ile ilgili herhangi bir bağlantı veya bu araçların kullanılmaması bilgisi bu metinde yer almamaktadır. Diaphonarama (ses/görüntü cihazı), Gökbilim çalışmaları (gözlem cihazları), Büyülü Fener ve Fantazmagorya, hareketli görüntülerin gösterilmesi süreçleriyle doğrudan ilişkilidir. Dolayısıyla, metin bağlamında doğrudan bu listede yer almayan (ve kamera/optik oyuncağıyla doğrudan ilişkisi vurgulanmayan) seçenek C'dir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 5,
@@ -85,7 +93,9 @@
             "material_id": "591749",
             "UniteNo": 1,
             "topic": "Sinema Tarihi",
-            "explanation": "Soru, Cinématographe'ı icat edenleri sormaktadır. Ünite 1'de, 'Thomas Edison'un Kinetoskop'u ve Lumière Kardeşler'in Cinématographe'ı sinemanın önemli dönüm noktalarıdır.' ifadesi yer almaktadır. Bu bilgiye göre Cinématographe'ın mucitleri Lumière Kardeşler'dir."
+            "explanation": "Soru, Cinématographe'ı icat edenleri sormaktadır. Ünite 1'de, 'Thomas Edison'un Kinetoskop'u ve Lumière Kardeşler'in Cinématographe'ı sinemanın önemli dönüm noktalarıdır.' ifadesi yer almaktadır. Bu bilgiye göre Cinématographe'ın mucitleri Lumière Kardeşler'dir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 6,
@@ -103,7 +113,9 @@
             "material_id": "591749",
             "UniteNo": 2,
             "topic": "TV Grafiklerinin Kullanımı",
-            "explanation": "Soru, televizyon grafiklerinin ilk defa nerede ve nasıl popülerleştiğini soruyor. Ünite 2'de, 'Televizyonun ortaya çıkışıyla birlikte, hareketli grafikler kanal logoları, program jenerikleri ve reklamlarla ekranlarda yer almıştır.' denilerek, televizyonun yaygınlaşmasının bu alan için önemli olduğu belirtilmiştir. Ünite 2'deki başlıklar arasında 'Televizyonun Yaygınlaşması (1950'ler)' maddesi, hareketli grafiklerin reklam ve jenerik gibi alanlarda geniş kitlelere ulaşmasını sağladığını belirtmektedir. Bu dönemde İngiliz yayın kuruluşu BBC'den özel olarak bahsedilmemektedir, ancak genel olarak TV'nin yaygınlaşması ile grafiklerin popülerleştiği belirtilmiştir. Ünite 2, Saul Bass ve çağdaşlarının film jeneriklerinde öncülük ettiğini belirtir. Soru, TV ile ilgilidir. Ünite 2'de TV ile ilgili en net bilgi, 1950'lerde TV'nin yaygınlaşmasıyla grafiklerin popülerleşmesidir. Bahsedilen spesifik bir İngiliz kuruluşu yoktur. Ancak sorunun şıklarında BBC2'den bahsedilmektedir. Ünite 2'deki 'Eğitici İçeriklerde Hareketli Grafikler' bölümünde, 'örneğin, BBC2’nin “Science Club” serisi için hazırlanan ve insan beyninin yapısını anlatan animasyon gibi.' bir örnek verilmiştir. Bu, BBC2'nin bir eğitim içeriği örneği bağlamında geçtiğini gösterir, ancak kanal logoları ve jeneriklerin yaygınlaşmasını sağlayan ana etken olarak değil. Soru, TV grafiklerinin yerleşmesini sağlayan yaygınlaşmayı soruyor. Verilen seçenekler arasında en alakalı bağlam, TV'nin yaygınlaşmasıdır (Ünite 2)."
+            "explanation": "Soru, televizyon grafiklerinin ilk defa nerede ve nasıl popülerleştiğini soruyor. Ünite 2'de, 'Televizyonun ortaya çıkışıyla birlikte, hareketli grafikler kanal logoları, program jenerikleri ve reklamlarla ekranlarda yer almıştır.' denilerek, televizyonun yaygınlaşmasının bu alan için önemli olduğu belirtilmiştir. Ünite 2'deki başlıklar arasında 'Televizyonun Yaygınlaşması (1950'ler)' maddesi, hareketli grafiklerin reklam ve jenerik gibi alanlarda geniş kitlelere ulaşmasını sağladığını belirtmektedir. Bu dönemde İngiliz yayın kuruluşu BBC'den özel olarak bahsedilmemektedir, ancak genel olarak TV'nin yaygınlaşması ile grafiklerin popülerleştiği belirtilmiştir. Ünite 2, Saul Bass ve çağdaşlarının film jeneriklerinde öncülük ettiğini belirtir. Soru, TV ile ilgilidir. Ünite 2'de TV ile ilgili en net bilgi, 1950'lerde TV'nin yaygınlaşmasıyla grafiklerin popülerleşmesidir. Bahsedilen spesifik bir İngiliz kuruluşu yoktur. Ancak sorunun şıklarında BBC2'den bahsedilmektedir. Ünite 2'deki 'Eğitici İçeriklerde Hareketli Grafikler' bölümünde, 'örneğin, BBC2’nin “Science Club” serisi için hazırlanan ve insan beyninin yapısını anlatan animasyon gibi.' bir örnek verilmiştir. Bu, BBC2'nin bir eğitim içeriği örneği bağlamında geçtiğini gösterir, ancak kanal logoları ve jeneriklerin yaygınlaşmasını sağlayan ana etken olarak değil. Soru, TV grafiklerinin yerleşmesini sağlayan yaygınlaşmayı soruyor. Verilen seçenekler arasında en alakalı bağlam, TV'nin yaygınlaşmasıdır (Ünite 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 7,
@@ -121,7 +133,9 @@
             "material_id": "591749",
             "UniteNo": 2,
             "topic": "Eğlence Sektörü Kullanımı",
-            "explanation": "Soru, eğlence sektöründe hareketli grafiklerin kullanım alanını sormaktadır. Ünite 2'de, eğlence sektöründe sinema, televizyon, sahne sanatları ve video oyunlarından bahsedilmektedir. 'Video oyunlarında, özellikle kullanıcı arayüzleri ve tanıtım videolarında hareketli grafikler önemli bir rol oynamaktadır; Riot Games'in “Valorant Game Changers' Championship 2023"
+            "explanation": "Soru, eğlence sektöründe hareketli grafiklerin kullanım alanını sormaktadır. Ünite 2'de, eğlence sektöründe sinema, televizyon, sahne sanatları ve video oyunlarından bahsedilmektedir. 'Video oyunlarında, özellikle kullanıcı arayüzleri ve tanıtım videolarında hareketli grafikler önemli bir rol oynamaktadır; Riot Games'in “Valorant Game Changers' Championship 2023",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 8,
@@ -139,7 +153,9 @@
             "material_id": "591749",
             "UniteNo": 2,
             "topic": "Eğitim Amaçlı Kullanım",
-            "explanation": "Soru, hareketli grafiklerin eğitici içeriklerdeki hedefini sormaktadır. Ünite 2'de 'Eğitici İçeriklerde Hareketli Grafikler' başlığı altında, 'Hareketli grafikler, eğitici içeriklerde metinsel ve sayısal verileri görselleştirerek karmaşık veya soyut kavramların daha iyi anlaşılmasını sağlar. Görsel etkileriyle eğitimci ve öğrencileri motive eder, bilginin aktarım hızına ve kalıcılığına önemli katkılarda bulunur.' ifadesi yer almaktadır. Dolayısıyla temel hedef, karmaşık kavramları anlaşılır kılmaktır."
+            "explanation": "Soru, hareketli grafiklerin eğitici içeriklerdeki hedefini sormaktadır. Ünite 2'de 'Eğitici İçeriklerde Hareketli Grafikler' başlığı altında, 'Hareketli grafikler, eğitici içeriklerde metinsel ve sayısal verileri görselleştirerek karmaşık veya soyut kavramların daha iyi anlaşılmasını sağlar. Görsel etkileriyle eğitimci ve öğrencileri motive eder, bilginin aktarım hızına ve kalıcılığına önemli katkılarda bulunur.' ifadesi yer almaktadır. Dolayısıyla temel hedef, karmaşık kavramları anlaşılır kılmaktır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 9,
@@ -157,7 +173,9 @@
             "material_id": "591749",
             "UniteNo": 2,
             "topic": "TV Grafik Türleri",
-            "explanation": "Soru, program ve reklam arasında geçişte kullanılan, kanal logolarının veya program isimlerinin kısa sunumuna yönelik TV grafiklerini sormaktadır. Ünite 2'de, televizyonun ortaya çıkışıyla birlikte hareketli grafiklerin 'kanal logoları, program jenerikleri ve reklamlarla ekranlarda yer aldığı' belirtilmiştir. Ayrıca, 'gösteri paketleri, program açılışları, ara tanıtımlar, bumper'lar ve alt üçte birlikler gibi unsurlar da hareketli grafiklerin televizyon yayıncılığındaki önemli uygulamalarıdır.' denilmiştir. Bumper, genellikle iki program veya reklam bloğu arasındaki kısa geçişlerde kullanılan ve kanal kimliğini belirten kısa grafik öğesidir. Şıklarda geçen 'bumper' terimi bu tanıma uymaktadır."
+            "explanation": "Soru, program ve reklam arasında geçişte kullanılan, kanal logolarının veya program isimlerinin kısa sunumuna yönelik TV grafiklerini sormaktadır. Ünite 2'de, televizyonun ortaya çıkışıyla birlikte hareketli grafiklerin 'kanal logoları, program jenerikleri ve reklamlarla ekranlarda yer aldığı' belirtilmiştir. Ayrıca, 'gösteri paketleri, program açılışları, ara tanıtımlar, bumper'lar ve alt üçte birlikler gibi unsurlar da hareketli grafiklerin televizyon yayıncılığındaki önemli uygulamalarıdır.' denilmiştir. Bumper, genellikle iki program veya reklam bloğu arasındaki kısa geçişlerde kullanılan ve kanal kimliğini belirten kısa grafik öğesidir. Şıklarda geçen 'bumper' terimi bu tanıma uymaktadır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 10,
@@ -169,13 +187,15 @@
                 "İlk sahneden hemen sonra",
                 "Kapanış sahnesinden önce"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 10,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591749",
             "UniteNo": 2,
-            "topic": "Film Jenerik İşlevleri",
-            "explanation": "Soru, film jeneriklerinin kullanım alanlarından/işlevlerinden hangisinin doğru olmadığını sormaktadır. Ünite 2'de, 'Hareketli grafikler; kanal kimlikleri, program tanıtımları, açılış/kapanış jenerikleri, reklamlar ve müzik videoları gibi birçok alanda kullanılmaktadır.' denilerek sinema ve TV alanları belirtilmiştir. Film jeneriklerinin işlevleri arasında filmin temasına ek anlam katmak ve izleyicinin ilgisini çekmek vardır. Ünite 2'de 'Jenerikler filmin başında, ortasında, sonunda veya hem başında hem sonunda kullanılabilir ve her birinin farklı işlevleri vardır.' denilmiştir. Mobil platformlarda grafik kullanımı eğlence/reklam/eğitim bağlamında geçse de, film jeneriğinin temel işlevi olarak metinlerin mobil cihazlarda tüketimini hızlandırmak geçmemektedir. Film jenerikleri, ağırlıklı olarak filmle ilgili bağlam yaratma ve tanıtım işlevi görür."
+            "topic": "Film Jenerik Kullanımı",
+            "explanation": "Ünite 2'de Sinema Sektöründe Hareketli Grafikler başlığı altında, jeneriklerin kullanıldığı yerler 'filmin başında, ortasında, sonunda veya hem başında hem sonunda' olarak belirtilmiştir. Bu, A, B ve C şıklarının doğru kullanım alanları olduğunu gösterir. D şıkkı (İlk sahneden hemen sonra) ve E şıkkı (Kapanış sahnesinden önce) da filmin farklı zamanlardaki kullanım yerleridir. Ancak, metinde özellikle 'Jenerikler filmin başında, ortasında, sonunda veya hem başında hem sonunda kullanılabilir' denmektedir. Soruda 'kullanımlarından değildir?' diye sorulmaktadır ve şıklar incelendiğinde, A, B, C, D seçenekleri genel olarak filmin herhangi bir anını kapsayabilirken, E şıkkı 'Kapanış sahnesinden önce' (yani sondan hemen önce) özel bir konum belirtmektedir. Ancak, metin E şıkkını açıkça dışlamamaktadır (sonunda kullanılabilir diyor). Fakat, en kesin ve belirgin kullanım yerleri başta ve sonda olmasıdır. Soruda verilen 'doğru kabul edilecek' şık E ise, metin bağlamında E'nin de filmin sonunda (veya sonuna yakın) kullanılabileceği düşünülebilirken, eğer metin içinde spesifik olarak dışlanan bir durum aranıyorsa, en az değinilen veya spesifik bir kullanım olmayan şık seçilmelidir. Verilen bilgiye göre tüm bu zamanlar olasıdır, ancak kabul edilen cevap E olduğu için, bu şıkkın metindeki 'sonunda' kullanımının haricinde özel bir durum olarak değerlendirildiği varsayılmalıdır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 11,
@@ -187,13 +207,15 @@
                 "Fon müziği-Ses efektleri-Leitmotif",
                 "Korelasyon-Leitmotif-Destekleyici müzik"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 11,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591749",
             "UniteNo": 4,
-            "topic": "Müzik ve Sesin Rolü",
-            "explanation": "Hareketli görüntülerde müziğin temel üç işlevi Leitmotif (anlamsal bağlayıcılık sağlayan motif tekrarı), Destekleyici Müzik (imgesel anlatıya destek veren, hissettirmeden etkiyi artıran müzik) ve Fon Müziği (tonal olmayan, arka planda anlatımı destekleyen müzik) olarak tanımlanmaktadır. Bu üç işlevin hepsi bir arada verilmiştir."
+            "topic": "Müzik Fonksiyonları",
+            "explanation": "Ünite 4'te Müzik başlığı altında, müziğin üç temel işlevinden bahsedilmiştir: Leitmotif, Destekleyici Müzik ve Fon Müziği. Bu üç temel işlev, şık B'de doğru olarak listelenmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 12,
@@ -211,7 +233,9 @@
             "material_id": "591749",
             "UniteNo": 4,
             "topic": "Sesin Fiziksel Etkisi",
-            "explanation": "Ünite 4'te sesin tanımı yapılırken, ses dalgalarının bir yüzey veya gerisindeki malzeme tarafından emilme sürecine dair spesifik bir terimden bahsedilmemektedir. Ancak, sesin fiziksel ve psikolojik etkilerinden bahsedilir. Bu spesifik terim, genellikle akustikte kullanılır ve ilgili ünite özetinde doğrudan yer almamaktadır. (Ancak genel akustik bilgiye göre bu, 'Absorpsiyon'dur. Ünite özetinde doğrudan bir karşılığı olmadığı için, içeriğe en yakın olan konuyu işaret eder, ancak bu terim metinde geçmemektedir. Soruya en uygun bağlamı kurmak için sesin fiziksel etkileri bağlamında değerlendirilir.)"
+            "explanation": "Ünite 4'te sesin tanımı yapılırken, ses dalgalarının bir yüzey veya gerisindeki malzeme tarafından emilme sürecine dair spesifik bir terimden bahsedilmemektedir. Ancak, sesin fiziksel ve psikolojik etkilerinden bahsedilir. Bu spesifik terim, genellikle akustikte kullanılır ve ilgili ünite özetinde doğrudan yer almamaktadır. (Ancak genel akustik bilgiye göre bu, 'Absorpsiyon'dur. Ünite özetinde doğrudan bir karşılığı olmadığı için, içeriğe en yakın olan konuyu işaret eder, ancak bu terim metinde geçmemektedir. Soruya en uygun bağlamı kurmak için sesin fiziksel etkileri bağlamında değerlendirilir.)",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 13,
@@ -229,7 +253,9 @@
             "material_id": "591749",
             "UniteNo": 4,
             "topic": "Yazının Tarihçesi",
-            "explanation": "Ünite 4'te tipografi başlığı altında, yazılı iletişimin başlangıç noktası olarak kil tabletler üzerine çivi yazısı ile işlenen yüzeyden bahsedilmektedir. Bu, yazılı metni ifade etmek için kullanılan ilk yöntemlerden biri olarak belirtilmiştir."
+            "explanation": "Ünite 4'te tipografi başlığı altında, yazılı iletişimin başlangıç noktası olarak kil tabletler üzerine çivi yazısı ile işlenen yüzeyden bahsedilmektedir. Bu, yazılı metni ifade etmek için kullanılan ilk yöntemlerden biri olarak belirtilmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 14,
@@ -241,13 +267,15 @@
                 "Kendinden hareket eden tipografi",
                 "Hareketli tipografi"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 14,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591749",
             "UniteNo": 4,
-            "topic": "Hareketli Tipografi",
-            "explanation": "Ünite 4'te hareketli tipografi konusu işlenirken, tipografik öğelerin hareketinin etkisinin niteliği tartışılmıştır. Bahsedilenler arasında; tasarımın kalitesiyle orantılı etki kabiliyeti, mesaj iletme gücünün korunması, hareketin bir kalıntısı/hatırası olarak depolanması ve görsel/işitsel ritme katkıda bulunması yer alır. 'Dönüşümlü ritim' (hareketli ögelerin özelliklerinin değiştirilmesi) bir ritim türü iken, 'hareketin bir kalıntısı' kavramı ritimle doğrudan ilgili bir tanım değildir. Ancak soruda 'tipografi ve hareket'in kullanım şekline göre değişen tanımlarından biri olmayan sorulmaktadır. Metin, hareketli tipografinin etkili kullanımı için 'tasarımın bütünlüğü'nün düşünülmesi gerektiğini belirtir. Hareketli tipografinin tanımının bir parçası olarak 'akıcı ritim' gibi bir ifade geçmemektedir; 'Dönüşümlü ritim' ise bir ritim türüdür. Soru kökü net olmadığından, en az doğrudan tanımlanan veya eleştirilen bir kavram aranır. Tipografideki hareketin tanımı, mesajı iletme gücüyle ilgilidir. 'Hareketin bir kalıntısı' terimi, 'İmgenin Hareketi' başlığında geçmektedir ve tipografiye özgü bir tanım olarak vurgulanmamıştır. Bu nedenle, doğrudan tipografinin kullanım şekline göre değişen bir tanım olarak belirtilmeyen 'Hareketin bir kalıntısı' seçilebilir, ancak en güçlü eleme 'Dönüşümlü Ritim'in bir ritim türü olmasıdır. Ünite 4'te ritim türleri sayılmıştır: Düzenli, Dönüşümlü, Akıcı, Gelişen ve Rastlantısal. 'Hareketin bir kalıntısı' ise imge başlığı altında geçmektedir ve tipografinin kendisinin bir tanımı değil, hareketin algılanış biçimidir. Bu nedenle tipografi ve hareket ilişkisinde bu kavram bir tanım olarak vurgulanmamıştır."
+            "topic": "Hareketli Tipografi Tanımları",
+            "explanation": "Ünite 4'te Durağandan Hareketli Tipografiye Geçiş bölümü altında hareketli tipografi türleri ele alınmıştır. Metinde sırasıyla 'hareketli tipografi', 'Kinetik tipografi' (ritmi bozan, tekrar eden görsel elemanın varyasyonu olarak ele alınabilir), 'Dönüşümlü ritim' (ögede değişiklik), 'Akıcı ritim' (organik geçişler) gibi kavramlardan bahsedilmiştir. Kavramsal tipografi, genellikle mesajın görsel temsiliyle ilgilidir, ancak metinde doğrudan tipografi ve hareket ilişkisi bağlamında hareketli grafiklerin temel unsurları arasında sayılan bir tür olarak değil, durağan tipografinin bir alt dalı olarak tanımlanmaktadır. Verilen şıklar arasında, hareketli grafik tasarımında kullanılan tipografi türleri sıralanırken, A şıkkındaki 'Kavramsal tipografi'nin doğrudan hareketli tipografi tanımının bir alt türü olarak listelenmediği kabul edilir (diğerleri hareketin/zamanın dahil olduğu durumlardır).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 15,
@@ -265,7 +293,9 @@
             "material_id": "591749",
             "UniteNo": 1,
             "topic": "İmge Yaratımının Tarihçesi",
-            "explanation": "Ünite 1'de, insanlığın hareketi görsel olarak canlandırma çabasından bahsedilir (mağara resimleri, heykeller). Ancak, 'imge üretimi'nin bilişsel devrim ve ardıl gelişmelerle beraber zihinsel ve görsel anlamda başka bir seviyeye taşınması ve bunun 'Creative Confession' eserinde 'harekete dayandığı' vurgusu, bu evrimin kendi içinde tutarlı bir üretime dönüşmesini işaret eder. Bu, 1920'lerdeki soyut filmler ve Dadaizm/Konstrüktivizm estetiğiyle paralel ilerleyen ve teknolojinin gelişimiyle anlam kazanan süreci kapsar."
+            "explanation": "Ünite 1'de, insanlığın hareketi görsel olarak canlandırma çabasından bahsedilir (mağara resimleri, heykeller). Ancak, 'imge üretimi'nin bilişsel devrim ve ardıl gelişmelerle beraber zihinsel ve görsel anlamda başka bir seviyeye taşınması ve bunun 'Creative Confession' eserinde 'harekete dayandığı' vurgusu, bu evrimin kendi içinde tutarlı bir üretime dönüşmesini işaret eder. Bu, 1920'lerdeki soyut filmler ve Dadaizm/Konstrüktivizm estetiğiyle paralel ilerleyen ve teknolojinin gelişimiyle anlam kazanan süreci kapsar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 16,
@@ -283,7 +313,9 @@
             "material_id": "591749",
             "UniteNo": 4,
             "topic": "Denge İlkesi",
-            "explanation": "Ünite 4'te denge, simetrik (bakışımlı/formal) ve asimetrik (bakışımsız/informal) olmak üzere iki türe ayrılır. Simetrik denge, bir tasarım alanının yatay ve dikey eksende ayna görüntüsü oluşturacak şekilde eşit parçalara bölünmesiyle sağlanır. Radyal denge ve kristalografik denge de simetrik dengenin alt türleridir. Asimetrik denge ise görsel ağırlık karşıtlığı ile sağlanır."
+            "explanation": "Ünite 4'te denge, simetrik (bakışımlı/formal) ve asimetrik (bakışımsız/informal) olmak üzere iki türe ayrılır. Simetrik denge, bir tasarım alanının yatay ve dikey eksende ayna görüntüsü oluşturacak şekilde eşit parçalara bölünmesiyle sağlanır. Radyal denge ve kristalografik denge de simetrik dengenin alt türleridir. Asimetrik denge ise görsel ağırlık karşıtlığı ile sağlanır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 17,
@@ -301,7 +333,9 @@
             "material_id": "591749",
             "UniteNo": 4,
             "topic": "Zıtlık İlkesi",
-            "explanation": "Ünite 4'te zıtlık ilkesi açıklanırken, ton (değer) karşıtlığının açık ve koyu tonlar arasında sağlanarak renkleri ayırt etmenin en güçlü yöntemi olduğu belirtilir. Ayrıca, sıcak ve soğuk tonlar arasındaki karşıtlığın uzamsal yakınlık ve derinlik oluşturmak için kullanıldığı ifade edilir. 'Yön zıtlığı' doğrudan bir terim olarak belirtilmese de, genel zıtlık araçları arasında yönün de yer aldığı (zıtlık başlığı altında) söylenebilir, ancak en doğrudan ifade edilenler ton/değer ve renk (sıcak/soğuk) karşıtlıklarıdır. Sorunun bu formatı için en uygun olan, zıtlık araçlarından biri olan ton veya renk kullanımıdır."
+            "explanation": "Ünite 4'te zıtlık ilkesi açıklanırken, ton (değer) karşıtlığının açık ve koyu tonlar arasında sağlanarak renkleri ayırt etmenin en güçlü yöntemi olduğu belirtilir. Ayrıca, sıcak ve soğuk tonlar arasındaki karşıtlığın uzamsal yakınlık ve derinlik oluşturmak için kullanıldığı ifade edilir. 'Yön zıtlığı' doğrudan bir terim olarak belirtilmese de, genel zıtlık araçları arasında yönün de yer aldığı (zıtlık başlığı altında) söylenebilir, ancak en doğrudan ifade edilenler ton/değer ve renk (sıcak/soğuk) karşıtlıklarıdır. Sorunun bu formatı için en uygun olan, zıtlık araçlarından biri olan ton veya renk kullanımıdır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 18,
@@ -319,7 +353,9 @@
             "material_id": "591749",
             "UniteNo": 1,
             "topic": "Hareketli Grafik Tanımı",
-            "explanation": "Ünite 1'de hareketli grafikler, 'hareket eden grafikler' olarak tanımlanır. Kullanım alanları arasında grafik tasarım, animasyon, sinema-televizyon ve reklamcılık bulunur. Tanımlayıcı özellikleri arasında; form, desen, yazı, müzik ve görsel/işitsel senkronizasyon sayılabilir. Hareketli grafikler, durağan grafik tasarımın hareketlenmesi olarak düşünülebilir. Hareketli grafiklerin temel amacı bilgi iletimidir. Metinde, hareketli grafiklerin 'video' veya 'film' olmadığı, ancak bu disiplinlerden faydalandığı belirtilir. Hareketli grafiklerin temel bileşenleri arasında 'Grafik' (biçim, desen, çizgi gösterme) ve 'Animasyon' (cansız nesnelerin hareket etmesi) yer alır. 'Durağan grafik tasarımın hareketlenmesi' hareketli grafiğin tanımıdır. 'Durağan afiş tasarımı' ise hareketli grafiğin odaklandığı alanlardan (film jenerikleri, reklamlar vb.) farklı bir disiplin olarak görülebilir."
+            "explanation": "Ünite 1'de hareketli grafikler, 'hareket eden grafikler' olarak tanımlanır. Kullanım alanları arasında grafik tasarım, animasyon, sinema-televizyon ve reklamcılık bulunur. Tanımlayıcı özellikleri arasında; form, desen, yazı, müzik ve görsel/işitsel senkronizasyon sayılabilir. Hareketli grafikler, durağan grafik tasarımın hareketlenmesi olarak düşünülebilir. Hareketli grafiklerin temel amacı bilgi iletimidir. Metinde, hareketli grafiklerin 'video' veya 'film' olmadığı, ancak bu disiplinlerden faydalandığı belirtilir. Hareketli grafiklerin temel bileşenleri arasında 'Grafik' (biçim, desen, çizgi gösterme) ve 'Animasyon' (cansız nesnelerin hareket etmesi) yer alır. 'Durağan grafik tasarımın hareketlenmesi' hareketli grafiğin tanımıdır. 'Durağan afiş tasarımı' ise hareketli grafiğin odaklandığı alanlardan (film jenerikleri, reklamlar vb.) farklı bir disiplin olarak görülebilir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 19,
@@ -331,13 +367,15 @@
                 "Asimetrik ritim",
                 "Dalgalı ritim"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 19,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591749",
             "UniteNo": 4,
             "topic": "Ritim Türleri",
-            "explanation": "Ünite 4'te ritim, Düzenli, Dönüşümlü, Akıcı, Gelişen ve Rastlantısal olmak üzere beşe ayrılmıştır. 'Durağan' bir ritim türü olarak tanımlanmamıştır; tam tersine, ritim, tekrarlanan unsurlarla dinamizm yaratır. Dönüşümlü ritim, aynı görsel ögenin konumu, rengi gibi özelliklerinin değiştirilmesiyle oluşur."
+            "explanation": "Ünite 4'te Ritim başlığı altında, ritim türleri şu şekilde sıralanmıştır: Düzenli, Dönüşümlü, Akıcı, Gelişen ve Rastlantısal. Bu listeye göre, B şıkkındaki 'Akıcı ritim' bir ritim türüdür.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 20,
@@ -355,7 +393,9 @@
             "material_id": "591749",
             "UniteNo": 4,
             "topic": "Gestalt İlkeleri",
-            "explanation": "Ünite 4'te Gestalt ilkeleri tanıtılırken, 'Yakınlık' ilkesi (Algısal Gruplama) altında, zihnin birbirine yakın olan ögeleri gruplandırma eğilimi gösterdiği ve bu ilkenin birliği sağlamanın en basit yolu olduğu belirtilmiştir. Devamlılık ilkesi ise görsel yollarla birbirlerine bağlanan ögeler arasında kurulan bağlantılardır."
+            "explanation": "Ünite 4'te Gestalt ilkeleri tanıtılırken, 'Yakınlık' ilkesi (Algısal Gruplama) altında, zihnin birbirine yakın olan ögeleri gruplandırma eğilimi gösterdiği ve bu ilkenin birliği sağlamanın en basit yolu olduğu belirtilmiştir. Devamlılık ilkesi ise görsel yollarla birbirlerine bağlanan ögeler arasında kurulan bağlantılardır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 21,
@@ -373,7 +413,9 @@
             "material_id": "596761",
             "UniteNo": 1,
             "topic": "Hareketli Grafik Tanımı",
-            "explanation": "Metinde, hareketli grafiklerin eğlence, eğitim ve reklam-pazarlama alanlarında kullanıldığı, avangart sanatla endüstrinin kesişiminde geliştiği ve dinamik/etkileşimli yapısıyla dikkat çektiği belirtilmektedir. 'Dinamik ve ilgi çekici görseller eşliğinde bir mesajı iletme, bir hikâye anlatma veya bir duyguya hitap etme kaygısı taşıyan' bu alanın tanımı, 'Hareketli Grafik Tasarımı' teriminin kapsadığı alanı doğru bir şekilde ifade etmektedir."
+            "explanation": "Metinde, hareketli grafiklerin eğlence, eğitim ve reklam-pazarlama alanlarında kullanıldığı, avangart sanatla endüstrinin kesişiminde geliştiği ve dinamik/etkileşimli yapısıyla dikkat çektiği belirtilmektedir. 'Dinamik ve ilgi çekici görseller eşliğinde bir mesajı iletme, bir hikâye anlatma veya bir duyguya hitap etme kaygısı taşıyan' bu alanın tanımı, 'Hareketli Grafik Tasarımı' teriminin kapsadığı alanı doğru bir şekilde ifade etmektedir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 22,
@@ -391,7 +433,9 @@
             "material_id": "596761",
             "UniteNo": 2,
             "topic": "Saul Bass Jenerik Tasarımı",
-            "explanation": "Ünite 2'de, Saul Bass'ın tanımında, \"Saul Bass, grafik tasarım tarihinde önemli bir yere sahip olup jenerik tasarımı... ile tanınır. 1960'ta yayınladığı 'Film Başlıkları-Grafik Tasarımcı için Yeni Bir Alan' makalesiyle, günümüzde 'TV ve çoklu ortam jenerik tasarımı' olarak bilinen alanın kurucusu olmuştur.\" bilgisi yer almaktadır. Bu nedenle doğru cevap Saul Bass'tır."
+            "explanation": "Ünite 2'de, Saul Bass'ın tanımında, \"Saul Bass, grafik tasarım tarihinde önemli bir yere sahip olup jenerik tasarımı... ile tanınır. 1960'ta yayınladığı 'Film Başlıkları-Grafik Tasarımcı için Yeni Bir Alan' makalesiyle, günümüzde 'TV ve çoklu ortam jenerik tasarımı' olarak bilinen alanın kurucusu olmuştur.\" bilgisi yer almaktadır. Bu nedenle doğru cevap Saul Bass'tır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 23,
@@ -409,7 +453,9 @@
             "material_id": "596761",
             "UniteNo": 7,
             "topic": "Analog Araçların Kullanımı",
-            "explanation": "Ünite 7'de, analog araçların dijitalleşmesinden bahsedilirken, 'stop-action fotoğrafçılığının icadına kadar izlenebilen stop-motion animasyonu ilk defa, Parisli bir illüzyonist olan Fransız film yapımcısı Georges Méliès tarafından kullanılmıştır.' denilmektedir. Stop motion, fiziksel nesnelerin kare kare fotoğraflanmasıyla oluşur ve bekleme süresi (kareler arasındaki beklemeler) nedeniyle web sitelerinde kullanımı azalan bir tekniktir. Ünite 1'de de bahsedildiği gibi, teknolojinin hızlanmasıyla bekleme süresi olan teknolojilerin kullanımı azalmıştır."
+            "explanation": "Ünite 7'de, analog araçların dijitalleşmesinden bahsedilirken, 'stop-action fotoğrafçılığının icadına kadar izlenebilen stop-motion animasyonu ilk defa, Parisli bir illüzyonist olan Fransız film yapımcısı Georges Méliès tarafından kullanılmıştır.' denilmektedir. Stop motion, fiziksel nesnelerin kare kare fotoğraflanmasıyla oluşur ve bekleme süresi (kareler arasındaki beklemeler) nedeniyle web sitelerinde kullanımı azalan bir tekniktir. Ünite 1'de de bahsedildiği gibi, teknolojinin hızlanmasıyla bekleme süresi olan teknolojilerin kullanımı azalmıştır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 24,
@@ -427,7 +473,9 @@
             "material_id": "596761",
             "UniteNo": 2,
             "topic": "Eğitici İçerik Kullanımı",
-            "explanation": "Ünite 2'de, 'Eğitici İçeriklerde Hareketli Grafikler' başlığı altında, \"Hareketli grafikler, eğitici içeriklerde metinsel ve sayısal verileri görselleştirerek karmaşık veya soyut kavramların daha iyi anlaşılmasını sağlar.\" ifadesi yer almaktadır. Bu nedenle doğru cevap eğitim sektörüdür."
+            "explanation": "Ünite 2'de, 'Eğitici İçeriklerde Hareketli Grafikler' başlığı altında, \"Hareketli grafikler, eğitici içeriklerde metinsel ve sayısal verileri görselleştirerek karmaşık veya soyut kavramların daha iyi anlaşılmasını sağlar.\" ifadesi yer almaktadır. Bu nedenle doğru cevap eğitim sektörüdür.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 25,
@@ -445,7 +493,9 @@
             "material_id": "596761",
             "UniteNo": 4,
             "topic": "Örneksel Görüntü Tanımı",
-            "explanation": "Ünite 4'te, 'Örneksel (Analog) Görüntü' başlığı altında, \"Analog görüntü 'kaynağındaki biçimiyle kaydedilebilen, saklanabilen ve iletilen' görüntü türleri olarak tanımlanabilir. Hareketsiz örnek görüntüler, analog fotoğraf, el ile üretilmiş afiş, resim gibi basılı formlarda bulunan ve bilgisayar ortamında aktarılmamış görüntülerdir. Bu tür görüntüler sayılarla ifade edilmez.\" şeklinde açıklanmaktadır. Dolayısıyla bu, analog görüntü tanımıdır."
+            "explanation": "Ünite 4'te, 'Örneksel (Analog) Görüntü' başlığı altında, \"Analog görüntü 'kaynağındaki biçimiyle kaydedilebilen, saklanabilen ve iletilen' görüntü türleri olarak tanımlanabilir. Hareketsiz örnek görüntüler, analog fotoğraf, el ile üretilmiş afiş, resim gibi basılı formlarda bulunan ve bilgisayar ortamında aktarılmamış görüntülerdir. Bu tür görüntüler sayılarla ifade edilmez.\" şeklinde açıklanmaktadır. Dolayısıyla bu, analog görüntü tanımıdır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 26,
@@ -463,7 +513,9 @@
             "material_id": "596761",
             "UniteNo": 4,
             "topic": "Müzik ve Ses Efektleri",
-            "explanation": "Ünite 4'te Müzik başlığı altında, müziğin üç temel işlevinden bahsedilir: Leitmotif, Destekleyici Müzik ve Fon Müziği. Destekleyici Müzik, \"imgesel anlatıya destek vermek amacıyla eklenen, varlığını belirgin şekilde hissettirmeden görüntülerin seyirci üzerindeki etkisini artıran müzik kullanımı olarak tanımlanmaktadır.\" Bu tanım, müziğin doğrudan sahneyi yansıtmadığı, ancak etkisini artırdığı durumu açıklar. Fon müziği de benzer şekilde arka planda anlatımı destekler."
+            "explanation": "Ünite 4'te Müzik başlığı altında, müziğin üç temel işlevinden bahsedilir: Leitmotif, Destekleyici Müzik ve Fon Müziği. Destekleyici Müzik, \"imgesel anlatıya destek vermek amacıyla eklenen, varlığını belirgin şekilde hissettirmeden görüntülerin seyirci üzerindeki etkisini artıran müzik kullanımı olarak tanımlanmaktadır.\" Bu tanım, müziğin doğrudan sahneyi yansıtmadığı, ancak etkisini artırdığı durumu açıklar. Fon müziği de benzer şekilde arka planda anlatımı destekler.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 27,
@@ -481,7 +533,9 @@
             "material_id": "596761",
             "UniteNo": 4,
             "topic": "Şekil-Zemin İlkesi",
-            "explanation": "Ünite 4'te Şekil-Zemin başlığı altında, şekil ve zemin arasındaki görsel ipuçları listelenmiştir. Buna göre, I. madde ('Figür zemine göre izleyiciye daha yakın görünür.') doğrudur. II. madde doğrudur çünkü zıtlıklar (renk, değer vb.) ile görsel ipuçları güçlendirilir. III. madde doğrudur ('Figürün belirli bir şekli vardır, zemin ise genellikle şekilsizdir.'). Ancak IV. madde ('Zemin figürün önünde yer alır.') yanlıştır; zemin genellikle figürün arkasında yer alır."
+            "explanation": "Ünite 4'te Şekil-Zemin başlığı altında, şekil ve zemin arasındaki görsel ipuçları listelenmiştir. Buna göre, I. madde ('Figür zemine göre izleyiciye daha yakın görünür.') doğrudur. II. madde doğrudur çünkü zıtlıklar (renk, değer vb.) ile görsel ipuçları güçlendirilir. III. madde doğrudur ('Figürün belirli bir şekli vardır, zemin ise genellikle şekilsizdir.'). Ancak IV. madde ('Zemin figürün önünde yer alır.') yanlıştır; zemin genellikle figürün arkasında yer alır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 28,
@@ -499,7 +553,9 @@
             "material_id": "596761",
             "UniteNo": 4,
             "topic": "Tasarım İlkeleri",
-            "explanation": "Ünite 4'te Hareketli Grafiğin İlkeleri başlığı altında Denge, Hiyerarşi, Zıtlık, Ritim, Oran-Orantı ve Vurgu ilkeleri ele alınmıştır. Bütünlük ilkesi de ele alınmakla birlikte, bu ilkelerin temel tasarım ilkeleri olduğu belirtilmiştir. Ünite 4'ün özetlenen temel ilkeleri arasında \"Yakınlık (Algısal Gruplama)\", \"Benzerlik\", \"Şekil-Zemin\", \"Tamamlama (Kapalılık)\", \"Devamlılık\" ve \"Yön Algısı\" gibi Gestalt ilkeleri de yer almaktadır. Bu bağlamda verilen seçenekler incelendiğinde, 'Doku' tek başına bir temel tasarım ilkesi olarak listelenmemiştir (form, renk, doku görsel özellikler olarak geçse de temel ilke olarak ayrı listelenmemiştir)."
+            "explanation": "Ünite 4'te Hareketli Grafiğin İlkeleri başlığı altında Denge, Hiyerarşi, Zıtlık, Ritim, Oran-Orantı ve Vurgu ilkeleri ele alınmıştır. Bütünlük ilkesi de ele alınmakla birlikte, bu ilkelerin temel tasarım ilkeleri olduğu belirtilmiştir. Ünite 4'ün özetlenen temel ilkeleri arasında \"Yakınlık (Algısal Gruplama)\", \"Benzerlik\", \"Şekil-Zemin\", \"Tamamlama (Kapalılık)\", \"Devamlılık\" ve \"Yön Algısı\" gibi Gestalt ilkeleri de yer almaktadır. Bu bağlamda verilen seçenekler incelendiğinde, 'Doku' tek başına bir temel tasarım ilkesi olarak listelenmemiştir (form, renk, doku görsel özellikler olarak geçse de temel ilke olarak ayrı listelenmemiştir).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 29,
@@ -517,7 +573,9 @@
             "material_id": "596761",
             "UniteNo": 5,
             "topic": "Jeneriklerin Yapım Aşaması",
-            "explanation": "Ünite 5'te, Hareketli Grafik Yapımının Aşamaları bölümünde, 'Kaba Kurgu' adımında eldeki bütün video parçalarının kabaca birleştirildiği, ancak ses ve müziğin doğruluğu ile görüntülerle genel uyumunun test edildiği belirtilir. Ses ve Görüntü Senkronizasyonu adımında ise ses ve görüntü dizilerinin senkronize edilmesi gerektiği, İnce Kurgu'da ise kaba kurgunun geliştirilmiş bir versiyonunun yapıldığı ve son renderin alındığı belirtilir. Jeneriklerin (genellikle açılış sekansları) bizzat oluşturulması (tipografi, animasyon, görsel efektlerin birleşimi) Projeksiyon Aşaması'nda, yani çekim/animasyon tamamlandıktan ve kurguya başlanmadan hemen önce (Genellikle görsel senaryo revizyonundan sonra ya da animatikten hemen sonra) başlar. Ancak, ses ve görüntü senkronizasyonu da Kaba Kurgu'dan sonra geldiği için, jeneriklerin nihai yerleşimi ve senkronizasyonu, ses ve müziğin de eklendiği Post-Prodüksiyon aşamalarında tamamlanır."
+            "explanation": "Ünite 5'te, Hareketli Grafik Yapımının Aşamaları bölümünde, 'Kaba Kurgu' adımında eldeki bütün video parçalarının kabaca birleştirildiği, ancak ses ve müziğin doğruluğu ile görüntülerle genel uyumunun test edildiği belirtilir. Ses ve Görüntü Senkronizasyonu adımında ise ses ve görüntü dizilerinin senkronize edilmesi gerektiği, İnce Kurgu'da ise kaba kurgunun geliştirilmiş bir versiyonunun yapıldığı ve son renderin alındığı belirtilir. Jeneriklerin (genellikle açılış sekansları) bizzat oluşturulması (tipografi, animasyon, görsel efektlerin birleşimi) Projeksiyon Aşaması'nda, yani çekim/animasyon tamamlandıktan ve kurguya başlanmadan hemen önce (Genellikle görsel senaryo revizyonundan sonra ya da animatikten hemen sonra) başlar. Ancak, ses ve görüntü senkronizasyonu da Kaba Kurgu'dan sonra geldiği için, jeneriklerin nihai yerleşimi ve senkronizasyonu, ses ve müziğin de eklendiği Post-Prodüksiyon aşamalarında tamamlanır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 30,
@@ -529,13 +587,15 @@
                 "Yaratıcı stratejiler geliştirmek için gerekli bilgiler toparlanır.",
                 "Çalışmanın tam olarak ne hakkında olduğu belirtilir."
             ],
-            "correctIndex": 0,
+            "correctIndex": 3,
             "exam_question_number": 10,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596761",
             "UniteNo": 5,
-            "topic": "Yaratıcı Özet İçeriği",
-            "explanation": "Ünite 5'te, Hareketli Grafik Yapımı İçin Yaratıcı Özet Kağıdı Oluşturabilme başlığı altında, 'Yaratıcı Özet kağıdı uzun ve çok ayrıntılı bir içeriğe sahip değildir, bir ila iki sayfadan oluşur. Yaratıcı özet kağıdında bulunması gereken ana başlıklar şunlardır ancak bu başlıklar proje içeriği ve kapsamına göre değiştirilebilir ya da genişletilip daraltılabilir.' denilmektedir. Öte yandan proje özeti için 'projeyle ilgili tüm lojistik, zaman çizelgesi, kapsam ve bütçe bilgilerini içerir' bilgisi verilmiştir. Dolayısıyla, yaratıcı özetin kısa ve özet bilgiye odaklanması, proje özetinden ayıran temel özelliktir."
+            "topic": "Yaratıcı Özetin Amacı",
+            "explanation": "Ünite 5'te Hareketli Grafik Yapımı İçin Yaratıcı Özet Kağıdı Oluşturabilme başlığı altında, yaratıcı özetin 'amaç' başlığı altında 'Bu projenin yapılma amacı nedir? Bu ana amacın yanında başka, ikincil amaçlar da var mıdır?' sorularını içerdiği belirtilmiştir. Bu, yaratıcı özetin, projenin altında yatan stratejik hedefleri ve vizyonu belirlemeye odaklandığını gösterir. Diğer şıklar (A, B, E) Proje Özeti'nde yer alırken, C şıkkı 'ekibin çalışmayla ilgili bilgi sahibi olmasını sağlar' genel bir amaç olsa da, D şıkkı (Yaratıcı stratejiler geliştirmek için gerekli bilgiler toparlanır) doğrudan yaratıcı vizyon ve amaç belirleme işlevine işaret etmektedir ve kabul edilen şık budur.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 31,
@@ -547,13 +607,15 @@
                 "Bütün çekimler, animasyonlar, müzik ve sesler",
                 "Çalışmanın sunumunun yapılacağı ortamın ayarlanması"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 11,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596761",
             "UniteNo": 5,
-            "topic": "Prodüksiyon Sonrası Aşamalar",
-            "explanation": "Post-prodüksiyon aşamasına geçilebilmesi için planlanan bütün çekimler, animasyonlar, müzik ve seslerin parçalar halinde tamamlanmış olması gerektiği belirtilmiştir. Ses ve Görüntü Senkronizasyonu (ses dizileri ile görüntü dizilerinin senkronize olması gerektiği) bu tamamlanması gereken kritik adımlardan biridir."
+            "topic": "Post-Prodüksiyon Ön Gereklilikleri",
+            "explanation": "Ünite 5'te Post-Prodüksiyon Aşaması başlığı altında, bu aşamaya geçilebilmesi için gerekli ön koşul, 'Yapım sürecinin son aşamasına geçebilmek için planlanan bütün çekimler, animasyonlar, müzik ve sesler parçalar halinde tamamlanmış olmalıdır' ifadesiyle belirtilmiştir. Bu, D şıkkına karşılık gelir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 32,
@@ -571,7 +633,9 @@
             "material_id": "596761",
             "UniteNo": 6,
             "topic": "2D Animasyon Görüntü Tipi",
-            "explanation": "2D animasyonlar, yüksekliği ve genişliği olan fakat derinliği olmayan çizim veya resimlerle (yani piksel tabanlı görüntülerle) çalışır. Ünite 6'da belirtildiği gibi, geleneksel çizimler, mürekkep ve suluboya çalışmaları bu tekniğin bir parçasıdır ve ardışık karelerle hareket illüzyonu yaratılır."
+            "explanation": "2D animasyonlar, yüksekliği ve genişliği olan fakat derinliği olmayan çizim veya resimlerle (yani piksel tabanlı görüntülerle) çalışır. Ünite 6'da belirtildiği gibi, geleneksel çizimler, mürekkep ve suluboya çalışmaları bu tekniğin bir parçasıdır ve ardışık karelerle hareket illüzyonu yaratılır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 33,
@@ -589,7 +653,9 @@
             "material_id": "596761",
             "UniteNo": 6,
             "topic": "Zaman Yönetimi Avantajı",
-            "explanation": "Animasyon projelerinde zaman yönetimi açısından etkinliğin nedenlerinden biri, kısıtlı animasyonun kullanılmasıdır (Ünite 6). Kısıtlı animasyon, zaman ve kaynak tasarrufu sağlamak amacıyla, hareketli olmayan veya az hareket eden karelerin yeniden kullanılması ve yalnızca gerektiğinde yeni kareler çizilmesini içerir. Bu durum, tüm süreçlerin daha hızlı ilerlemesini sağlar."
+            "explanation": "Animasyon projelerinde zaman yönetimi açısından etkinliğin nedenlerinden biri, kısıtlı animasyonun kullanılmasıdır (Ünite 6). Kısıtlı animasyon, zaman ve kaynak tasarrufu sağlamak amacıyla, hareketli olmayan veya az hareket eden karelerin yeniden kullanılması ve yalnızca gerektiğinde yeni kareler çizilmesini içerir. Bu durum, tüm süreçlerin daha hızlı ilerlemesini sağlar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 34,
@@ -601,13 +667,15 @@
                 "Cel animasyon",
                 "3D animasyon"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 14,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596761",
-            "UniteNo": 7,
-            "topic": "2D Yazılım ve Tablet Kullanımı",
-            "explanation": "2D, 2.5D ve kısıtlı animasyon yapım süreçlerinde, genellikle grafik çizim tabletleri, dijital kalemler ve bilgisayarlar gibi kolay erişilebilir araçların ortak olarak kullanıldığı Ünite 7'de belirtilmiştir. Bu araçlar, hassasiyet ve akışkanlık sağlamak için grafikerlere olanak tanır."
+            "UniteNo": 6,
+            "topic": "2D Animasyon Araçları",
+            "explanation": "Ünite 6'da 2D Animasyon başlığı altında, geleneksel 2D animasyon tekniklerinin dijital platformlara taşındığı ve bilgisayar tabanlı yazılımlar kullanıldığı belirtilmiştir. Ayrıca, bu dönüşümün 2.5D gibi türlerin ortaya çıkmasına zemin hazırladığı söylenmektedir. Post-prodüksiyon başlığı altında (Ünite 5'te bahsi geçse de teknik araçlar bağlamında), 2D animasyon yazılımları, grafik çizim tabletleri ve dijital kalemlerin yaygın kullanıldığı belirtilir. Ayrıca, kısıtlı animasyonun da 2D animasyon yazılımlarını kullandığı ifade edilir. Ancak, verilen şıklar ve bağlam incelendiğinde, Ünite 6'daki 2D Animasyon bölümünde bu araçların (kalem, tablet) kullanımı vurgulanmıştır. Kısıtlı animasyon (B şıkkı) da 2D animasyon tekniklerini kullandığı için bu araçlara ihtiyaç duyar ve metin, kısıtlı animasyonda 'sınırlı hareket aralığına sahip ve basitleştirilmiş bir stilin tercih edildiği' belirtilse de, teknik olarak 2D araçlarını kullanır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 35,
@@ -625,7 +693,9 @@
             "material_id": "596761",
             "UniteNo": 7,
             "topic": "3D Yazılım Standardı",
-            "explanation": "Endüstri standardı olan ve kullanıcılarına işlevselliğini genişletme esnekliği sunan çok popüler 3 boyutlu modelleme ve animasyon yazılımı Autodesk Maya'dır (Ünite 7). Diğer yandan, profesyonel stüdyoların en üst düzeyde kullandığı 3D görüntü birleştirme yazılımı ise The Foundry Nuke'tur."
+            "explanation": "Endüstri standardı olan ve kullanıcılarına işlevselliğini genişletme esnekliği sunan çok popüler 3 boyutlu modelleme ve animasyon yazılımı Autodesk Maya'dır (Ünite 7). Diğer yandan, profesyonel stüdyoların en üst düzeyde kullandığı 3D görüntü birleştirme yazılımı ise The Foundry Nuke'tur.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 36,
@@ -643,7 +713,9 @@
             "material_id": "596761",
             "UniteNo": 7,
             "topic": "Hareket İzleme Eklentisi",
-            "explanation": "Mocha AE, düzlemsel tabanlı bir hareket izleme sistemine sahip olan ve After Effects içinde kullanılarak karmaşık hareket izleme işlevselliği sağlayan bir eklentidir (Ünite 7)."
+            "explanation": "Mocha AE, düzlemsel tabanlı bir hareket izleme sistemine sahip olan ve After Effects içinde kullanılarak karmaşık hareket izleme işlevselliği sağlayan bir eklentidir (Ünite 7).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 37,
@@ -661,7 +733,9 @@
             "material_id": "596761",
             "UniteNo": 7,
             "topic": "Hareketli Grafik Ortamı",
-            "explanation": "Hareketli grafikler, mobil uygulamaların GUI'sinin (grafik kullanıcı arayüzü) tasarımı için de gereklidir ve akıllı telefonlar ile tabletler aracılığıyla web tarayıcıları üzerinden oynatılabilmektedir (Ünite 7)."
+            "explanation": "Hareketli grafikler, mobil uygulamaların GUI'sinin (grafik kullanıcı arayüzü) tasarımı için de gereklidir ve akıllı telefonlar ile tabletler aracılığıyla web tarayıcıları üzerinden oynatılabilmektedir (Ünite 7).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 38,
@@ -679,7 +753,9 @@
             "material_id": "596761",
             "UniteNo": 8,
             "topic": "Gerçek Zamanlı Sonuç",
-            "explanation": "Hareketli grafikler için gerçek zamanlı görselleştirmenin en önemli sonuçlarından biri, üretim sürecindeki ciddi hızlanmadır; geleneksel render süreçlerinin saatler/günler sürmesine karşın, sanatçılar çalışmalarının sonuçlarını anında görerek daha hızlı yinelemelere ve yaratıcı sürece olanak tanır (Ünite 8)."
+            "explanation": "Hareketli grafikler için gerçek zamanlı görselleştirmenin en önemli sonuçlarından biri, üretim sürecindeki ciddi hızlanmadır; geleneksel render süreçlerinin saatler/günler sürmesine karşın, sanatçılar çalışmalarının sonuçlarını anında görerek daha hızlı yinelemelere ve yaratıcı sürece olanak tanır (Ünite 8).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 39,
@@ -697,7 +773,9 @@
             "material_id": "596761",
             "UniteNo": 8,
             "topic": "Üretken Yapay Zeka",
-            "explanation": "Üretken yapay zeka (Generative AI), büyük görüntü veri kümeleri üzerinde eğitilerek logolar, illüstrasyonlar, fotoğraflar, web tasarım öğeleri ve reklam materyalleri gibi benzersiz tasarımlar ve kompozisyonlar oluşturma yeteneğine sahiptir (Ünite 8)."
+            "explanation": "Üretken yapay zeka (Generative AI), büyük görüntü veri kümeleri üzerinde eğitilerek logolar, illüstrasyonlar, fotoğraflar, web tasarım öğeleri ve reklam materyalleri gibi benzersiz tasarımlar ve kompozisyonlar oluşturma yeteneğine sahiptir (Ünite 8).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 40,
@@ -709,13 +787,15 @@
                 "Artırılmış sanallık",
                 "Artırılmış gerçeklik"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596761",
             "UniteNo": 8,
-            "topic": "Genişletilmiş Gerçeklik Örneği",
-            "explanation": "Otomobillerde hız, devir gibi bilgilerin ön cama yansıtılarak sürücünün yoldan ayırmadan bilgi almasını sağlayan bu teknoloji, Artırılmış Gerçeklik (AR) prensibinin en yaygın ve pratik uygulamalarından biridir. AR, fiziksel ortama dijital bilgilerin bindirilmesini içerir ve bu sayede kullanıcıya sürükleyici bir deneyim sunar (Ünite 8)."
+            "topic": "Gerçek Zamanlı Görselleştirme Uygulamaları",
+            "explanation": "Ünite 8'de Gerçek Zamanlı Görselleştirme başlığı altında, bu teknolojinin finans, sağlık, ağ izleme ve özellikle oyun deneyimini geliştirmede kullanıldığı belirtilmiştir. Metinde, oyunlarda 'anlık geri bildirim ve etkileşim gereksiniminin çok önemli olduğu sanal gerçeklik uygulamalarında da önemli bir rol oynamaktadır' denmektedir. Otomobil hız sınırı ve navigasyon bilgilerinin ön cama yansıtılması, kullanıcının fiziksel dünyadaki (yol) deneyimine dijital bilginin (ön cama yansıtma) eklenmesi demektir. Bu tanım, Artırılmış Gerçeklik (AR) uygulamalarına en iyi örnektir. AR, fiziksel dünyaya dijital öğeler ekleyerek gerçek dünya deneyimini zenginleştirir. Artırılmış Sanallık (D şıkkı) veya Genişletilmiş Sanallık (A şıkkı) terimleri bu özel durumu kapsamazken, Artırılmış Gerçeklik (E şıkkı) bu tür HUD (Head-Up Display) uygulamalarını doğrudan kapsar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         }
     ]
 }

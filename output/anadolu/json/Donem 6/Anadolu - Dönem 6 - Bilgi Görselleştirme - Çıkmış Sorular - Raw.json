@@ -175,7 +175,7 @@
                 "Hiyerarşi Bilgigrafileri",
                 "Akış Şeması Bilgigrafileri"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 12,
             "source": "Ara Sınav 2023-2024",
             "material_id": "606507"
@@ -190,7 +190,7 @@
                 "Veri Bağlantı Bilgigrafileri",
                 "Hiyerarşi Bilgigrafileri"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 13,
             "source": "Ara Sınav 2023-2024",
             "material_id": "606507"
@@ -985,7 +985,7 @@
                 "Sayfalar dolusu verinin bir göz atımı süresinde görülmesini ve analiz edilmesini sağlar.",
                 "Gerçek veriyi bir arada tutar ve gizleyerek saklar."
             ],
-            "correctIndex": 0,
+            "correctIndex": 3,
             "exam_question_number": 6,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622603"
@@ -1030,7 +1030,7 @@
                 "Uyum ve zıtlık",
                 "Estetik"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 9,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622603"
@@ -1090,7 +1090,7 @@
                 "Entelektüel amaç",
                 "Disiplin kökenleri"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 13,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622603"
@@ -1150,7 +1150,7 @@
                 "Zaman içindeki değişimi göstermek",
                 "Akışları göstermek"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622603"
@@ -1270,7 +1270,7 @@
                 "Anatomi Bilgigrafileri",
                 "Hiyerarşi Bilgigrafileri"
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 5,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "606527"
@@ -1390,7 +1390,7 @@
                 "Zaman ve değişim betimlenmesi",
                 "Uyum ve zıtlık"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 13,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "606527"
@@ -1570,7 +1570,7 @@
                 "Anatomi Bilgigrafileri",
                 "Hiyerarşi Bilgigrafileri"
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 5,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626560"
@@ -1690,7 +1690,7 @@
                 "Zaman ve değişim betimlenmesi",
                 "Uyum ve zıtlık"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 13,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626560"
@@ -1750,7 +1750,7 @@
                 "Başlangıç yaklaşımı",
                 "Yinelemeli tasarım yaklaşımı"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626560"

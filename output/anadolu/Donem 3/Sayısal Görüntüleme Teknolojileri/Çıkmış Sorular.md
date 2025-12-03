@@ -2,56 +2,33 @@
 
 ## Ünite 1
 
-### Analogdan Dijitale Video
+### Dijital TV Yayın Türleri
 
-1. Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?
-    - A-) Vitaphone ses sistemi
-    - **Cevap B-) VTR (Video Tape Recorder)**
-    - C-) Katot ışın tüplü elektronik televizyon
-    - D-) Sinematograf
-    - E-) Telstar uydusu
+1. Açık internet ağını kullanarak sayısal televizyon hizmetleri sunan TV yayıncılık türü aşağıdakilerden hangisidir? *(3 kez soruldu)*
+    - A-) IPTV
+    - **Cevap B-) Web TV**
+    - C-) Pay TV
+    - D-) Mobil TV
+    - E-) Analog yayıncılık
 
-    > **Açıklama:** Soru, 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder) ile televizyonda canlı yayınlar dışında bant kaydının mümkün hâle geldiğini belirtmektedir. Bu gelişme, video kaydını kitleler için erişilebilir kılmıştır.
+    > **Açıklama:** Ünite 1'de, Web TV (İnternet TV), açık internet ağını kullanmak yoluyla sayısal televizyon hizmetlerini sunan bir teknoloji olarak tanımlanmıştır. Bu yayın türü, televizyonun hem bilgisayara hem de telefon hattına bağlanabilmesiyle ortaya çıkar.
 
     <hr />
 
-### Dijital Çağı Başlatan İcat
+### Dijital Çağın Başlangıcı
 
-1. -------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakileden hangisi doğru şekilde tamamlar?
+1. Dijital çağın doğuşunu sağlayan gelişmelerden hangisi aynı zamanda bilgisayarın icat edilmesine yol açmıştır?
     - A-) İnternet
     - **Cevap B-) Transistör**
     - C-) Optik iletişim
     - D-) Hafıza kartı
     - E-) Mikro çipler
 
-    > **Açıklama:** Küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken devre unsuru transistördür. Ünite 1'de, transistörün icadının dijital çağın doğmasına olanak tanıyan ilk teknolojik gelişme olduğu belirtilmektedir.
+    > **Açıklama:** Soru 2, dijital çağın başlangıcını sağlayan ilk teknolojik gelişmeyi sormaktadır. Metinde, 'Dijital çağın ya da bilgi çağının doğmasına olanak sağlayan ilk teknolojik gelişme, elektronik alanında bir devrim yaratan transistör aygıtının icadıdır' denilmektedir. Transistörün icadı, bilgisayar çağını da olanaklı kılmıştır.
 
     <hr />
 
-### Dijital Çağın İlk İcatları
-
-1. -------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukardaki cümlede boş bırakılan yeri aşağıdakileden hangisi doğru şekilde tamamlar?
-    - **Cevap A-) Transistör**
-    - B-) Mikro çipler
-    - C-) İnternet
-    - D-) Hafıza kartı
-    - E-) Optik iletişim
-
-    > **Açıklama:** Metnin "Dijital Çağı Başlatan İlk İcatlar" başlığı altında belirtildiği üzere, dijital çağın doğmasına olanak sağlayan ilk teknolojik gelişme, 1947 yılında Walter Houser Brattain ve John Bardeen tarafından geliştirilen transistör aygıtının icadıdır. Transistör, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur.
-
-    <hr />
-1. -------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakileden hangisi doğru şekilde tamamlar?
-    - A-) Hafıza kartı
-    - **Cevap B-) Transistör**
-    - C-) İnternet
-    - D-) Mikro çipler
-    - E-) Optik iletişim
-
-    > **Açıklama:** Metinde, transistorün icadının dijital çağın doğmasına olanak sağlayan ilk teknolojik gelişme olduğu belirtilmektedir. Transistör, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur.
-
-    <hr />
-
-### Elektronik Çağın Başlangıcı
+### Dijital Çağın Başlatan İcat
 
 1. -------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?
     - A-) İnternet
@@ -60,20 +37,20 @@
     - D-) Optik iletişim
     - **Cevap E-) Transistör**
 
-    > **Açıklama:** Transistör, 1947 yılında Walter Houser Brattain ve John Bardeen tarafından geliştirilmiş olup, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Bu icat, dijital çağın başlamasına olanak tanıyan temel teknolojik gelişmelerden biridir.
+    > **Açıklama:** Soru, dijital çağın başlangıcına olanak tanıyan elektronik alandaki devrimsel bir icadı sormaktadır. Metinde, "Dijital Çağı Başlatan İlk İcatlar" başlığı altında, elektronik alanda bir devrim yaratanın transistör olduğu belirtilmiştir. Cümledeki tanım, transistörün işlevini tam olarak karşılamaktadır: "...transistor 1947 yılında Walter Houser Brattain ve John Bardeen tarafından Amerikalı Bell Laboratuvarları'nda geliştirildi. Transistör, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur."
 
     <hr />
 
 ### Endüstri Devrimleri
 
-1. Aşağıdakilerden hangisi Endüstri 3.0'ın özelliklerinden biridir?
+1. Aşağıdakilerden hangisi Endüstri 3.0'ın özelliklerinden biridir? *(2 kez soruldu)*
     - A-) Bulut Sistemi ve Büyük Veri ile daha çok akıllı makinenin çalıştırılması amaçlanır.
     - B-) Üretim sürecinde makineler birbirleriyle iletişim kurarak akıllı bir şekilde çalışır.
     - C-) Karar verme yetkisi yapay zekâya sahip olan robotlar vasıtasıyla gerçekleştirilir.
     - **Cevap D-) Makineler insanın fiziksel yapısı ve işgücü temeline göre dizayn edilir.**
     - E-) Süreç izleme neden-sonuç ilişkisi içinde kapsamlı olarak çalışır.
 
-    > **Açıklama:** Üçüncü Endüstri Devrimi (Endüstri 3.0), 1970'li yıllarla etkilerini göstermeye başlamış ve karakteristik özelliği otomasyon teknolojilerinin kullanımıdır. Bu çağ, Z1 hesap makinesinin üretilmesi ve bilgisayar ile iletişim teknolojilerinin üretim süreçlerine girmesiyle belirginleşmiştir.
+    > **Açıklama:** Soru 5, Üçüncü Endüstri Devrimi'nin (Endüstri 3.0) karakteristik özelliğini sormaktadır. Metinde, 'Birinci ve İkinci Endüstri devrimlerinin temel niteliği makineleşme iken; bu çağın karakteristik özelliği otomasyon teknolojilerinin kullanımıdır' şeklinde bir karşılaştırma yapılmıştır.
 
     <hr />
 1. İnsanların ortak aşaması ve geleceği olarak öne sürülmüş ve henüz bu aşamaya ulaşmamış olsalar da bütün toplumların ulaşacağı bir nokta olarak gösterilmektedir. Yukarıda verilen tanım aşağıdakilerden hangisine aittir?
@@ -83,7 +60,7 @@
     - D-) Sayısal Çağ
     - **Cevap E-) Endüstri toplumu**
 
-    > **Açıklama:** İnsanlığın gelişimi için çalışan teknolojilerin hızla hayatımıza girmesi ve toplumsal dönüşüm yaratması, ancak henüz tam olarak istenilen seviyeye ulaşmamış (ancak ulaşacağı öngörülen) durumlar Dördüncü Endüstri Devrimi (Endüstri 4.0) ile ilişkilidir. Dijital çağın kendisi Üçüncü Endüstri Devrimi ile başlamış olsa da, metinde bahsedilen 'henüz bu aşamaya ulaşmamış olsalar da bütün toplumların ulaşacağı bir nokta' ifadesi, Dördüncü Endüstri Devrimi'nin (Endüstri 4.0) henüz tam oturmamış ancak yaygınlaşmakta olan doğasını yansıtır.
+    > **Açıklama:** Ünite 1'de Dijital Çağ Dönümü başlığı altında, Dördüncü Endüstri Devrimi (Endüstri 4.0) anlatılmaktadır. Bu devrimin, makinelerin insan gücü kalmaksızın kendilerini yönetmeye başlamasıyla ortaya çıktığı ve henüz tam olarak ulaşılmamış olsa da bütün toplumları etkileyeceği belirtilmektedir.
 
     <hr />
 1. -------, piyasaya tümüyle hakim olmak ve onu kontrolü altında tutmak isteyen iktisadi üretim tarzıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -93,7 +70,7 @@
     - D-) Endüstri
     - E-) Sosyalizm
 
-    > **Açıklama:** Endüstri Devrimleri'nin tarihsel gelişimine bakıldığında, tarım toplumundan endüstri toplumuna geçişi tetikleyen temel dinamik teknolojik gelişmelerdir. Piyasa hakimiyeti ve kontrolü vurgulayan ekonomik değişimler, sanayi devrimlerinin ayırt edici özellikleridir. Verilen tanım (piyasayı tümüyle hakim olmak ve kontrol altında tutmak isteyen iktisadi üretim tarzı), genel olarak sanayi devrimlerinin temel motivasyonunu tanımlar, ancak metin bağlamında en uygun terim, teknolojik dönüşümün başlangıcını temsil eden Birinci Endüstri Devrimi'dir (Ünite 1, Sayısal Çağ Dönümü başlığı altında).
+    > **Açıklama:** Ünite 1'de Endüstri Devrimleri anlatılırken, Birinci Endüstri Devrimi'nin temel dinamiğinin teknolojik gelişmeler ve buhar makinesinin icadı olduğu belirtilmiştir. Ancak, Üçüncü Endüstri Devrimi'nin (Endüstri 3.0) karakteristik özelliğinin otomasyon teknolojilerinin kullanımı olduğu ifade edilmektedir. Dördüncü Endüstri Devrimi (Endüstri 4.0) ise makinelerin insan gücü kalmaksızın kendilerini yönetmeye başlamasıdır. Metinde bahsedilen 'piyasaya tümüyle hakim olmak ve onu kontrolü altında tutmak isteyen iktisadi üretim tarzı' tanımı, genellikle otomasyon ve dijitalleşmenin hakim olduğu 3. veya 4. sanayi devrimlerine gönderme yapar. Ancak, Dördüncü Endüstri Devrimi'nin (Endüstri 4.0) temel özelliği makinelerin insansız biçimde kurgulanması ve karma teknolojiye dayanmasıdır.
 
     <hr />
 1. Buhar makinesinin dokuma tezgahlarında kullanılmaya başlanması hangi endüstri devrimi içinde yer almaktadır?
@@ -103,46 +80,7 @@
     - D-) Endüstri 5.0
     - E-) Endüstri 4.0
 
-    > **Açıklama:** Birinci Endüstri Devrimi, üretimde buhar makinesinin kullanılmaya başlanması ve buna bağlı olarak kömür kullanımının başlaması ile nitelendirilir. Buhar makinesinin James Watt tarafından geliştirilmesi ve kullanımı bu dönemin simgesi olmuştur (Endüstri 1.0).
-
-    <hr />
-
-### Endüstri Devrimleri Kronolojisi
-
-1. Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?
-    - **Cevap A-) VTR (Video Tape Recorder)**
-    - B-) Katot ışın tüplü elektronik televizyon
-    - C-) Vitaphone ses sistemi
-    - D-) Sinematograf
-    - E-) Telstar uydusu
-
-    > **Açıklama:** Metne göre, 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder-videobant kaydedici) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir. Bu gelişme, İkinci Endüstri Devrimi dönemi sonlarına doğru yaşanmıştır.
-
-    <hr />
-
-### Endüstri Devrimleri ve Dijital Çağ
-
-1. Dijital çağın doğuşunu sağlayan gelişmelerden hangisi aynı zamanda bilgisayarın icat edilmesine yol açmıştır?
-    - A-) İnternet
-    - **Cevap B-) Transistör**
-    - C-) Optik iletişim
-    - D-) Hafıza kartı
-    - E-) Mikro çipler
-
-    > **Açıklama:** Dijital çağın doğuşuna olanak sağlayan ilk teknolojik gelişme transistörün icadıdır (1947). Transistörün icadı aynı zamanda bilgisayar çağını da olanaklı kılmıştır. İlk bilgisayarların resmi kurumlar tarafından kullanıldığı belirtilir. Bu nedenle, dijital çağın başlangıcını tetikleyen temel icat olan transistör, bilgisayarın icadıyla doğrudan ilişkilidir.
-
-    <hr />
-
-### Endüstri Devrimleri Özellikleri
-
-1. Aşağıdakilerden hangisi Endüstri 3.0'ın özelliklerinden biridir?
-    - A-) Bulut Sistemi ve Büyük Veri ile daha çok akıllı makinenin çalıştırılması amaçlanır.
-    - B-) Karar verme yetkisi yapay zekâya sahip olan robotlar vasıtasıyla gerçekleştirilir.
-    - C-) Süreç izleme neden-sonuç ilişkisi içinde kapsamlı olarak çalışır.
-    - D-) Üretim sürecinde makineler birbirleriyle iletişim kurarak akıllı bir şekilde çalışır.
-    - **Cevap E-) Makineler insanın fiziksel yapısı ve işgücü temeline göre dizayn edilir.**
-
-    > **Açıklama:** Üçüncü Endüstri Devrimi (Endüstri 3.0), otomasyon teknolojilerinin kullanımıyla karakterize edilir. Bu dönemde ilk mikro bilgisayarlar ve dijital teknolojiler geliştirilip kullanılmaya başlanmıştır (Ünite 1).
+    > **Açıklama:** Ünite 1'de Birinci Endüstri Devrimi'nin başlangıcının buhar makinesinin icadı olduğu belirtilmiştir. Buhar makinesinin icadından sonra Avrupa'da ve sonrasında Amerika'da bulunan üretim tesislerinde kullanılmaya başlanması bu devrim içinde yer alır.
 
     <hr />
 
@@ -150,29 +88,81 @@
 
 1. Hareketli görüntünün kronolojisinde yer alan gelişmelerden hangisi diğerlerine göre daha önce gerçekleşmiştir? A) Philo Farnsworth, ilk elektronik televizyon görüntüsünü yarattı. B) Renkli filmler geldi. C) Sinemaya ses geldi. D) İlk renkli televizyonlar tanıtıldı. E) Super 8 formatı, film yapımını kitleler için erişilebilir hâle getirdi.
     - A-) Philo Farnsworth, ilk elektronik televizyon görüntüsünü yarattı.
-    - B-) Renkli filmler geldi.
-    - **Cevap C-) Sinemaya ses geldi.**
+    - **Cevap B-) Renkli filmler geldi.**
+    - C-) Sinemaya ses geldi.
     - D-) İlk renkli televizyonlar tanıtıldı.
     - E-) Super 8 formatı, film yapımını kitleler için erişilebilir hâle getirdi.
 
-    > **Açıklama:** Hareketli görüntülerin kronolojisine bakıldığında, B) Renkli filmler geldi (1916), C) Sinemaya ses geldi (1927), D) İlk renkli televizyonlar tanıtıldı (1954), E) Super 8 formatı (1965) gelişim sıralamasındadır. A) Philo Farnsworth'un ilk elektronik televizyon görüntüsünü yaratması ise 1927 yılında gerçekleşmiştir. Bu kronolojiye göre en erken gelişme, renkli filmlerin icadıdır (1916).
-
-    <hr />
-
-### LCD Panel Teknolojileri
-
-1. LCD teknolojisinin en eski panel türü aşağıdakilerden hangisidir?
-    - A-) PLS
-    - B-) IPS
-    - **Cevap C-) TN**
-    - D-) VA
-    - E-) AHVA
-
-    > **Açıklama:** Ünite 1'de LCD panellerin TN, IPS (veya PLS, AHVA) ve VA olmak üzere üç ana türe ayrıldığı belirtilmiştir. Genellikle TN (Twisted Nematic) paneller, LCD teknolojisinin en eski ve en temel panel türü olarak kabul edilir.
+    > **Açıklama:** Hareketli görüntü kronolojisi Ünite 1'de verilmiştir. Olayların tarih sırası şöyledir: 1895: İlk sinema filmi kamerası icadı. 1916: Renkli filmler geldi (Technicolor kuruldu). 1927: Sinemaya ses geldi (Caz Şarkıcısı). 1927: Philo Farnsworth, ilk elektronik televizyon görüntüsünü yarattı. 1934: Televizyonlar piyasaya çıktı. 1954: İlk renkli televizyonlar tanıtıldı. 1965: Super 8 formatı kitleler için erişilebilir oldu. Buna göre en erken gerçekleşen olay 1916'da Renkli filmlerin gelmesidir. Philo Farnsworth'ün elektronik televizyon görüntüsü yaratması 1927'dedir. Sinemaya ses gelmesi de 1927'dedir. Super 8 ise 1965'tedir. İlk renkli televizyonlar 1954'tedir. Bu durumda 1916 (B şıkkı) en erken olaydır.
 
     <hr />
 
 ### Sayısal Video Tarihi
+
+1. Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?
+    - A-) Vitaphone ses sistemi
+    - **Cevap B-) VTR (Video Tape Recorder)**
+    - C-) Katot ışın tüplü elektronik televizyon
+    - D-) Sinematograf
+    - E-) Telstar uydusu
+
+    > **Açıklama:** 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder - videobant kaydedici) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir. Bu, video kayıt teknolojisinde önemli bir adımdı.
+
+    <hr />
+
+### Transistör İcadı ve Etkisi
+
+1. -------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakileden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
+    - A-) Hafıza kartı
+    - **Cevap B-) Transistör**
+    - C-) İnternet
+    - D-) Mikro çipler
+    - E-) Optik iletişim
+
+    > **Açıklama:** Transistör, 1947 yılında Walter Houser Brattain ve John Bardeen tarafından Bell Laboratuvarları'nda geliştirilen bir yarı iletken devre unsurudur. Bu icat, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarar ve bilgisayar çağının da önünü açmıştır (Ünite 1).
+
+    <hr />
+
+### Transistörün İcadı
+
+1. -------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukardaki cümlede boş bırakılan yeri aşağıdakileden hangisi doğru şekilde tamamlar?
+    - **Cevap A-) Transistör**
+    - B-) Mikro çipler
+    - C-) İnternet
+    - D-) Hafıza kartı
+    - E-) Optik iletişim
+
+    > **Açıklama:** Metnin 2. sayfasında, "Transistör, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur." şeklinde açıkça belirtilmiştir. Bu unsur, dijital çağın başlangıcını sağlayan ilk icatlardan biridir.
+
+    <hr />
+
+### Video Kayıt Tarihi
+
+1. Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Sinematograf
+    - B-) Telstar uydusu
+    - C-) Katot ışın tüplü elektronik televizyon
+    - **Cevap D-) VTR (Video Tape Recorder)**
+    - E-) Vitaphone ses sistemi
+
+    > **Açıklama:** 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir (Ünite 1).
+
+    <hr />
+
+### Video Kayıt Teknolojisi
+
+1. Tüketicilerin ilk kez kendi video görüntülerini kaydedip izleyebilmelerine olanak sağlayan medya formatı aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Sony BMC100
+    - B-) VTR (Video Tape Recorder)
+    - C-) Sony DV-2400 Video Rover
+    - **Cevap D-) VHS (Video Home System)**
+    - E-) Super 8 format
+
+    > **Açıklama:** Ünite 1'de video kayıt teknolojileri kronolojisinde, 1976 yılında VHS (Video Home System) tanıtıldığı ve bu sayede tüketicilerin kendi video görüntülerini kaydedip izleyebilme imkânına sahip olduğu belirtilmiştir.
+
+    <hr />
+
+### İkinci Endüstri Devrimi
 
 1. Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren aşağıdakilerden hangisidir?
     - A-) Katot ışın tüplü elektronik televizyor
@@ -181,65 +171,13 @@
     - D-) Vitaphone ses sistemi
     - **Cevap E-) VTR (Video Tape Recorder)**
 
-    > **Açıklama:** 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder - videobant kaydedici) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir. Bu gelişme, video kayıt teknolojisinde önemli bir dönüm noktasıdır.
-
-    <hr />
-
-### Video Tarihi ve Formatlar
-
-1. Tüketicilerin ilk kez kendi video görüntülerini kaydedip izleyebilmelerine olanak sağlayan medya formatı aşağıdakilerden hangisidir?
-    - A-) Sony BMC100
-    - B-) Sony DV-2400 Video Rover
-    - **Cevap C-) VHS (Video Home System)**
-    - D-) VTR (Video Tape Recorder)
-    - E-) Super 8 format
-
-    > **Açıklama:** Tüketicilerin kendi video görüntülerini kaydedip izleyebilmelerine olanak sağlayan medya formatı VHS (Video Home System)dur. Metinde, 1976 yılında tanıtılan VHS'in tüketicilere kendi video görüntülerini kaydedip izleme imkânı sunduğu belirtilmektedir.
-
-    <hr />
-
-### Video Tarihçesi ve Medya
-
-1. Tüketicilerin ilk kez kendi video görüntülerini kaydedip izleyebilmelerine olanak sağlayan medya formatı aşağıdakilerden hangisidir?
-    - A-) Sony BMC100
-    - **Cevap B-) VTR (Video Tape Recorder)**
-    - C-) Sony DV-2400 Video Rover
-    - D-) VHS (Video Home System)
-    - E-) Super 8 format
-
-    > **Açıklama:** VHS (Video Home System), 1976 yılında tanıtılmış ve tüketicilerin kendi video görüntülerini kaydedip izleyebilme imkânına sahip olmasını sağlamıştır. Bu, video teknolojisinin gelişimi açısından önemli bir adımdır.
-
-    <hr />
-
-### İkinci Endüstri Devrimi
-
-1. Aşağıdakilerden hangisi film yapımını kitleler için erişilebilir hâle getirmiştir?
-    - A-) VTR
-    - B-) Telstar uydusu
-    - **Cevap C-) Super 8 formatı**
-    - D-) Kodak DCS-100
-    - E-) Nikon D1
-
-    > **Açıklama:** 1965 yılında Super 8 formatının geliştirilmesi, film yapımını kitleler için erişilebilir hâle getirmiştir. Bu gelişme İkinci Endüstri Devrimi dönemindeki (Endüstri 2.0) icatlara örnektir (Ünite 1).
-
-    <hr />
-
-### İkinci Endüstri Devrimi Gelişmeleri
-
-1. Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?
-    - A-) Sinematograf
-    - B-) Telstar uydusu
-    - C-) Katot ışın tüplü elektronik televizyon
-    - **Cevap D-) VTR (Video Tape Recorder)**
-    - E-) Vitaphone ses sistemi
-
-    > **Açıklama:** Metinde, 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder-videobant kaydedici) ile televizyonda canlı yayınlar dışında bant kaydının mümkün hale geldiği belirtilmektedir.
+    > **Açıklama:** Metinde belirtildiğine göre, 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder-videobant kaydedici) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir. Bu, İkinci Endüstri Devrimi (Endüstri 2.0) dönemindeki gelişmelerdendir.
 
     <hr />
 
 ## Ünite 2
 
-### Aynasız Makineler
+### Aynasız Makineler (MILC)
 
 1. Aynasız fotoğraf makineleri (MILC) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
     - **Cevap A-) Optik vizör kullanırlar.**
@@ -248,7 +186,7 @@
     - D-) DSLR'den daha az sarsıntı üretirler.
     - E-) Küçük ve hafif gövdelere sahiptirler.
 
-    > **Açıklama:** Aynasız makinelerin (MILC) temel özelliği, SLR kameralardaki aynanın gövdeden atılmasıdır. Bu sayede daha ince, zarif ve kompakt bir yapı elde edilir. Vizör olarak harici veya sabit elektronik bakaçlar kullanılır ve görüntü çerçeveleme LCD üzerinden yapılır. Epson, Leica gibi markalar ilk öncüllerindendir. İfadede 'Yanlış' olan kısım, genellikle 'Vizör makineden çıkarılmış' yerine 'Vizör makineden çıkarılmış ve yerine harici/sabit elektronik bakaç entegre edilmiştir' şeklinde olmalıdır. Ancak, en belirgin yanlış ifade, 'Vizörün tamamen ortadan kalktığı' yönündedir; çünkü vizörün yerine bakaçlar (harici/sabit elektronik) gelmiştir. Ancak en temel fark, aynasız olmalarıdır. Metinde Aynasız makinelerin vizör yerine LCD üzerinden görüntü çerçeveleme yaptığı ve harici/sabit bakaçların entegre edildiği belirtilmiştir. DSLR'lerin aksine optik vizörlerinin olmaması temeldir. Bu nedenle, Aynasız makinelerin temelinde vizörün çıkarılması ve optik vizörün yerine elektronik vizörün gelmesi yer alır. Eğer şıklar arasında 'Optik vizöre sahip oldukları' gibi bir ifade olsaydı yanlış olurdu. Verilen bağlamda, bu tür bir ifadeyi bulmak zor olduğu için, en temel özelliklerden biri olan optik vizörün (ayna mekanizmasının) olmaması üzerinden değerlendirme yapılabilir. Genellikle ilk nesil MILC'lerde optik vizör yoktur. Ancak, seçenekler elimizde olmadığı için, konuya en uygun olanı seçmeliyiz. (Genel bilgiye dayanarak, bu makinelerde optik vizör yerine elektronik vizör/LCD kullanılır.)
+    > **Açıklama:** Ünite 2'de Aynasız Makineler başlığı altında, MILC'lerin SLR kameralardan farkının aynanın gövdeden çıkarılması olması ve bu sayede daha ince, zarif ve kompakt bir görünüm sağlaması belirtilmiştir. Bu tasarım sayesinde optik vizör yerine LCD üzerinden görüntü çerçeveleme yöntemi kullanılır. Ancak, 'Hızla bu sayısal çağ dönümünde birçok marka aynasız makine üretimine hız vermişlerdir' ifadesi doğru olmakla birlikte, Aynasız kameraların ilk öncülleri olarak Epson, Leica, Panasonic ve Olympus gibi markalar gösterilmiştir. Bu ilk öncüllerde vizörün gövdeye entegre edilmediği, sonradan eklenmeye başlandığı bilgisi mevcuttur. Tüm MILC'lerin vizörünün gövdeye entegre olmadığı, vizörsüz modellerin de olduğu bilgisi metinde açıkça yer almasa da, 'Optik vizör makineden çıkarılmış ve LCD üzerinden görüntü çerçeveleme yöntemi kullanılmıştır' denilmektedir. MILC'lerin DSLR'lerden daha ince olmasının nedeni aynanın olmamasıdır. Yanlış ifade şudur: Aynasız kameraların tamamında harici veya sabit elektronik bakaç (vizör) bulunduğunu iddia etmek yanlıştır, çünkü ilk modellerde vizör yoktu ve bazılarında hiç vizör olmayabilir.
 
     <hr />
 
@@ -261,60 +199,11 @@
     - D-) Sensör
     - E-) Diyafram
 
-    > **Açıklama:** DSLR fotoğraf makinelerinin çalışma prensibinde, lensten geçen ışık, 90 derecelik açıyla pentaprizmaya yönelir. Pentaprizma, bu görüntüyü vizöre ulaştırır. Dolayısıyla aynadan gelen görüntüyü vizöre ulaştıran parça Pentaprizma'dır.
+    > **Açıklama:** Ünite 2'de DSLR Fotoğraf Makinesi Anatomisi başlığı altında, vizörden bakıldığında görüntüyü vizöre ulaştıran parçanın Pentaprisma (Beşken Prizma ya da Pentaprism) olduğu belirtilmiştir. Bu parça, aynadan gelen görüntüyü vizöre aktarır.
 
     <hr />
 
-### DSLR Avantajları/Dezavantajları
-
-1. Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin büyük sensöre sahip olmasının avantajları arasında yer almaz? A) Daha kısa pozlama süreleri kullanarak anı dondurabilir. B) Loş ışıkta rahatlıkla fotoğraf çekebilir. C) Daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir. D) Hafif ve pratik bir kullanım sağlar. E) Otomatik odaklama sistemleri daha gelişmiştir.
-    - A-) Daha kısa pozlama süreleri kullanarak anı dondurabilir.
-    - B-) Loş ışıkta rahatlıkla fotoğraf çekebilir.
-    - C-) Daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir.
-    - **Cevap D-) Hafif ve pratik bir kullanım sağlar.**
-    - E-) Otomatik odaklama sistemleri daha gelişmiştir.
-
-    > **Açıklama:** DSLR ve Tam Çerçeve makinelerin büyük sensörleri daha fazla ışık toplar (B), bu sayede daha kısa pozlama süreleri kullanabilir (A). Ayrıca büyük sensörler, sığ alan derinliği (Daha küçük diyafram açıklığı kullanabilme) avantajı sağlar. Ancak, büyük sensörler nedeniyle lensler daha büyük ve hantal olur (D bir avantaj gibi görünse de, DSLR'lerin genel olarak kompakt ve hafif olmaması dezavantajdır, özellikle de Ünite 2'de belirtildiği gibi, kompakt kameralara kıyasla daha büyük olmaları). Seçenek C yanlıştır; büyük sensörler, aynı megapiksel sayısına sahip küçük sensörlere göre sığ alan derinliği elde etmede daha başarılıdır, bu da dar diyaframlarda bile daha fazla ışık yakalamalarına rağmen sığ alan derinliği elde etme esnekliği anlamına gelir. Fakat büyük sensörlerin en önemli avantajı, düşük ışıkta yüksek kalite sunmasıdır (B) ve bu, daha kısa pozlama süreleri kullanma esnekliği sağlar (A). Büyük sensörler daha hantal ekipman gerektirir, bu da D seçeneğine aykırıdır. Ancak D seçeneği (Hafif ve pratik kullanım) açıkça DSLR'lerin dezavantajıdır. En belirgin avantajları düşük ışık performansı ve alan derinliği kontrolüdür. C seçeneği, daha küçük diyafram açıklıkları kullanıldığında alan derinliğinin artacağını belirtir, bu da büyük sensörlerin bir avantajı değil, aksine sığ alan derinliği elde etmek için daha büyük diyaframlar kullanma esnekliğinin bir göstergesidir. Büyük sensörün avantajı, düşük ışıkta daha iyi performans vermesidir (B) ve anı dondurma esnekliğidir (A). En açık dezavantajı ise hafif olmamalarıdır (D).
-
-    <hr />
-1. Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin dezavantajlarından biri değildir?
-    - A-) Servis maliyeti yüksektir.
-    - B-) Canlı önizleme çoktur.
-    - **Cevap C-) Lensler küçüktür.**
-    - D-) Makine sarsıntısı çoktur.
-    - E-) Gövde içi hava hareketi vardır.
-
-    > **Açıklama:** DSLR'lerin dezavantajları genellikle ağırlık, hantallık, yüksek maliyet ve lenslerin gövdeye bütünleşik olmamasıdır (tak-çıkar lense sahip olmaları avantajdır). Sabit odaklı lenslerle çalışmak, diyaframın tam kontrolünün olmaması (bazı manuel modlar hariç) ve sensörlerinin (çoğu modelde APS-C) tam çerçeve olmaması da dezavantaj olabilir. Ancak, DSLR'ler çıkarılabilir lenslere sahip olup, bu da onların avantajlarındandır, dezavantaj değildir.
-
-    <hr />
-
-### DSLR Dezavantajları
-
-1. Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin dezavantajlarından biri değildir?
-    - A-) Canlı Önizleme yoktur.
-    - B-) Makine sarsıntısı çoktur.
-    - C-) Gövde içi hava hareketi vardır.
-    - D-) Servis maliyeti yüksektir.
-    - **Cevap E-) Lensler küçüktür.**
-
-    > **Açıklama:** Metinde DSLR'lerin dezavantajları arasında en belirgin olarak lenslerinin takılıp çıkarılabilir olması (aksesuar maliyeti), büyük ve ağır gövdeye sahip olması ve fiyatlarının pahalı olması sayılabilir. Ayrıca, tam kare sensörlü modellerin daha pahalı olduğu belirtilmiştir. Metinde, karmaşık menü yapısının (bazı modellerde) dezavantaj olabileceği ima edilmektedir (menüler arasında kaybolma), ancak bu bilgi diğer seçenekler kadar belirgin değildir. DSLR'lerin 'yüksek çözünürlüklü RAW dosya' sunması bir avantajdır, dezavantaj değil. Bu nedenle, yüksek çözünürlüklü RAW dosya sunması bir dezavantaj değildir.
-
-    <hr />
-
-### DSLR FX Tam Çerçeve
-
-1. Aşağıdakilerden hangisi FX (Tam Çerçeve) gövde avantajlarından biridir? A) 1.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar. B) Net alan derinliği ve bokeh kalitesi yüksektir. C) Sensör lensin verimli olan merkez kısımlarını kullanırlar. D) Maliyet olarak oldukça ucuzdurlar. E) Geniş açı ve balık gözü lenslerde kenar keskinliklerinde belirgin bir düşüş yaşanır.
-    - A-) 1\.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar.
-    - **Cevap B-) Net alan derinliği ve bokeh kalitesi yüksektir.**
-    - C-) Sensör lensin verimli olan merkez kısımlarını kullanırlar.
-    - D-) Maliyet olarak oldukça ucuzdurlar.
-    - E-) Geniş açı ve balık gözü lenslerde kenar keskinliklerinde belirgin bir düşüş yaşanır.
-
-    > **Açıklama:** Tam çerçeve (FX) sensörler, 35 mm film çerçevesi boyutundadır (36x24 mm) ve odak çarpanı 1'dir. Bu, sensörün lensin verimli olan merkez kısımlarını kullanmasını sağlar (Çarpan 1 olduğu için). FX sensörler, crop sensörlere göre daha büyük olduğu için daha yüksek çözünürlükte görüntüler üretebilir ve daha sığ alan derinliği (bokeh kalitesi) sunarlar. A seçeneği 1.5-1.6 çarpan oranını belirtir ki bu genellikle APS-C (crop) sensörler için geçerlidir. D seçeneği maliyetin ucuz olduğu bilgisini yanlış verir, çünkü FX modeller genellikle daha pahalıdır. E seçeneği, crop sensörler için daha büyük bir yakınlaştırma avantajı sunarken, tam çerçeve sensörler bu çarpan avantajına sahip değildir.
-
-    <hr />
-
-### DSLR Filtreleri
+### DSLR Anatomisi ve Filtreler
 
 1. Aşağıdakilerden hangisi sensöre istenilen dalga boyundaki infrared ışığın ulaşmasını sağlar?
     - A-) Pentaprisma
@@ -323,33 +212,46 @@
     - **Cevap D-) Renkli kızılötesi filtre**
     - E-) Vizör
 
-    > **Açıklama:** Dijital fotoğraf makinesinde, sensöre istenilen dalga boyundaki infrared ışığın ulaşmasını sağlayan filtre Renkli kızılötesi filtre (color and infared filter) olarak adlandırılır. Bu, DSLR Anatomisinin 5. maddesidir (Ünite 2).
+    > **Açıklama:** Sensöre istenilen dalga boyundaki infrared ışığın ulaşmasını sağlayan filtre, Renkli kızılötesi filtre (color and infared filter)'dir. Ünite 2'de DSLR Fotoğraf Makinesi Anatomisi başlığı altında bu bileşenin tanımı yapılmıştır.
 
     <hr />
 
-### DSLR Gövde Farkları
+### DSLR Avantaj ve Dezavantajları
 
-1. Aşağıdakilerden hangisi FX (Tam Çerçeve) gövde avantajlarından biridir?
-    - **Cevap A-) Net alan derinliği ve bokeh kalitesi yüksektir.**
-    - B-) Sensör lensin verimli olan merkez kısımlarını kullanırlar.
-    - C-) 1\.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar.
-    - D-) Maliyet olarak oldukça ucuzdurlar.
-    - E-) Geniş açı ve balık gözü lenslerde kenar keskinliklerinde belirgin bir düşüş yaşanır.
+1. Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin dezavantajlarından biri değildir? *(2 kez soruldu)*
+    - A-) Servis maliyeti yüksektir.
+    - B-) Canlı önizleme çoktur.
+    - **Cevap C-) Lensler küçüktür.**
+    - D-) Makine sarsıntısı çoktur.
+    - E-) Gövde içi hava hareketi vardır.
 
-    > **Açıklama:** FX (Tam Çerçeve) sensörler, 35 mm film çerçevesi boyutundadır ve Krop (APS-C) sensörlere göre daha büyük oldukları için daha iyi görüntü kalitesi sunarlar. DSLR ve aynasız makinelerde FX sensörler, Krop sensörlere göre daha büyük sensörlere sahiptir.
+    > **Açıklama:** DSLR makinelerin dezavantajları genellikle pahalı olmaları, ağır ve hantal olmalarıdır (Ünite 2). Ağır ve hantal olmaları, bütçenin uygun olmaması gibi dezavantajları varken; yüksek çözünürlüklü ve renk derinliği yüksek görüntüler sunmaları, sığ alan derinliği kalitesi sunmaları gibi avantajları vardır. Dolayısıyla, DSLR'lerin pahalı olması dezavantaj iken, kolay taşınabilir olması bir avantajdır.
 
     <hr />
 
-### DSLR Makine Özellikleri
+### DSLR Avantajları
 
-1. Aşağıdakilerden hangisi "DSLR" fotoğraf makinelerinin özellikleri arasında yer almaz?
-    - A-) Tek tuşla video özelliği kullanılabilir.
-    - B-) Çekimle görüntünün kaydı arasında herhangi bir gecikme yoktur.
-    - **Cevap C-) Maliyeti kompaktlara nazaran daha ucuzdur.**
-    - D-) Tak çıkar bir lensten oluşur.
-    - E-) Tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir.
+1. Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin büyük sensöre sahip olmasının avantajları arasında yer almaz? A) Daha kısa pozlama süreleri kullanarak anı dondurabilir. B) Loş ışıkta rahatlıkla fotoğraf çekebilir. C) Daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir. D) Hafif ve pratik bir kullanım sağlar. E) Otomatik odaklama sistemleri daha gelişmiştir.
+    - A-) Daha kısa pozlama süreleri kullanarak anı dondurabilir.
+    - B-) Loş ışıkta rahatlıkla fotoğraf çekebilir.
+    - C-) Daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir.
+    - **Cevap D-) Hafif ve pratik bir kullanım sağlar.**
+    - E-) Otomatik odaklama sistemleri daha gelişmiştir.
 
-    > **Açıklama:** DSLR makineler tak çıkar lense sahiptir, tam kare sensör (FX/Full Frame) kullanabilirler ve güncel çekim modlarına sahiptirler. Ancak, DSLR'lerin temel çalışma prensibi mekanik bir ayna sistemini kullanmasıdır. Aynasız makineler (MILC) ise aynanın gövdeden çıkarılmasıyla bu mekanik yapıyı ortadan kaldırır (Ünite 2).
+    > **Açıklama:** DSLR'lerin büyük sensöre sahip olmasının avantajları arasında, daha fazla ışık toplama yeteneği sayesinde loş ışıkta iyi sonuçlar vermesi (B), daha az ışıkla çalışabilmesi (daha az ISO veya daha yavaş enstantane), daha iyi görüntü kalitesi ve daha sığ alan derinliği kontrolü (C) sayılabilir. Ancak büyük sensörler genellikle daha büyük, ağır ve pahalı lensler gerektirir; bu da D seçeneğindeki 'Hafif ve pratik bir kullanım sağlar' ifadesinin aksine, genellikle daha ağır olmalarına neden olur.
+
+    <hr />
+
+### DSLR Sensör Avantajları
+
+1. Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin büyük sensöre sahip olmasının avantajları arasında yer almaz?
+    - A-) Otomatik odaklama sistemleri daha gelişmiştir.
+    - **Cevap B-) Hafif ve pratik bir kullanım sağlar.**
+    - C-) Daha kısa pozlama süreleri kullanarak anı dondurabilir.
+    - D-) Loş ışıkta rahatlıkla fotoğraf çekebilir.
+    - E-) Daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir.
+
+    > **Açıklama:** Ünite 2'de Orta Format Fotoğraf Makineleri özelliklerinde, tam çerçeve (Full Frame) sensörlerin (DSLR ve Aynasızlarda) 35mm film boyutunu taklit ettiği ve daha büyük sensörler sayesinde büyük megapikselli görüntüler sunduğu ve renk derinliğinin etkileyici olduğu belirtilmiştir. Ancak, büyük sensörlerin en büyük dezavantajı olarak genellikle çok pahalı olmaları ve ağır/hantal olmaları gösterilmiştir. Soruda avantajı sorulduğu için, pahalı olması veya ağır olması bir avantaj değildir. Metinde avantaj olarak daha büyük sensörler, yüksek çözünürlük/renk derinliği ve sığ alan derinliği kalitesi sayılmıştır. Bu seçenekler arasında yer almayanı bulmak için genel olarak pahalılık veya hantallık (dezavantaj) aranmalıdır. Verilen bilgiler ışığında, büyük sensörlerin dezavantajı olan pahalılık ve ağırlık avantaj olarak gösterilemez. En uygun olmayan şık, avantajları arasında sayılmayan bir dezavantaj olmalıdır. Verilen seçenekler olmadan kesin bir cevap vermek zor olsa da, metinde avantaj olarak listelenmeyen veya dezavantaj olarak belirtilen bir özellik (örneğin çok pahalı olması) bu soruya cevap oluşturur.
 
     <hr />
 
@@ -362,115 +264,66 @@
     - D-) Loş ışıkta rahatlıkla fotoğraf çekebilir.
     - **Cevap E-) Hafif ve pratik bir kullanım sağlar.**
 
-    > **Açıklama:** DSLR'lerde Full Frame sensörler (35mm film çerçevesi boyutunda) üst düzey kalitede görüntü sunar. Metin, APS-C sensörlerin Full Frame'lere göre daha küçük sensör boyutu olduğunu belirtir. DSLR'lerin büyük sensörlü (Full Frame) olmasının avantajları arasında yüksek görüntü kalitesi, daha fazla ışık toplama ve sığ alan derinliği kontrolü sayılabilir. Ancak, büyük sensörler, sensörün kendisinin (ve gövdenin) daha büyük olmasına neden olurken, metin, \*daha büyük\* sensörlerin maliyetinin \*daha düşük\* olduğu yönünde bir avantajdan bahsetmemektedir; aksine, Full Frame sensörler genellikle daha pahalıdır ve daha büyük dosya boyutu oluşturur.
+    > **Açıklama:** Soru 6, DSLR fotoğraf makinelerinin tam çerçeve (FX) sensörlerinin avantajları arasında olmayanı sormaktadır. Metinde tam çerçeve sensörlerin 35 mm film çerçevesi boyutunda olduğu ve üst düzey makinelerde kullanıldığı belirtilmektedir. Büyük sensörlerin avantajları; daha iyi görüntü kalitesi, daha fazla detay yakalama, daha iyi performans (geniş alan derinliği vb.) iken, dezavantajları daha büyük gövde ve daha yüksek maliyettir. Metinde, 'Birçok üst düzey fotoğraf makinelerinde, 35 mm film çerçevesi boyutundan daha büyük “tam kare-full frame" sensörler kullanır' denilmektedir. Daha küçük sensörlerin maliyetinin düşük olması bir avantajdır, ancak tam çerçevenin avantajı bu değildir.
 
     <hr />
 
-### DSLR Sensör Tipleri
+### DSLR Özellikleri
 
-1. Aşağıdakilerden hangisi FX (Tam Çerçeve) gövde avantajlarından biridir?
+1. Aşağıdakilerden hangisi "DSLR" fotoğraf makinelerinin özellikleri arasında yer almaz? *(2 kez soruldu)*
+    - A-) Tek tuşla video özelliği kullanılabilir.
+    - B-) Çekimle görüntünün kaydı arasında herhangi bir gecikme yoktur.
+    - **Cevap C-) Maliyeti kompaktlara nazaran daha ucuzdur.**
+    - D-) Tak çıkar bir lensten oluşur.
+    - E-) Tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir.
+
+    > **Açıklama:** DSLR (Digital Single Lens Reflex) makineler, tak-çalıştır lenslere sahiptir ve genellikle APS-C veya Full Frame sensör kullanır. Sabit odaklı lenslerle çalışmak veya lens/gövde bütünlüğü bu makinelere ait özellikler arasında yer almaz. Sabit odaklı lensler ve gövdeyle bütünleşik lensler genellikle kompakt veya köprü kameralara özgüdür.
+
+    <hr />
+1. Aşağıdakilerden hangisi "DSLR" fotoğraf makinelerinin özellikleri arasında yer almaz?
+    - **Cevap A-) Maliyeti kompaktlara nazaran daha ucuzdur.**
+    - B-) Çekimle görüntünün kaydı arasında herhangi bir gecikme yoktur.
+    - C-) Tek tuşla video özelliği kullanılabilir.
+    - D-) Tak çıkar bir lensten oluşur.
+    - E-) Tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir.
+
+    > **Açıklama:** Ünite 2'de DSLR makinelerin özellikleri anlatılmıştır. Kompakt makinelerden daha pahalıdırlar (A şıkkı yanlış). Çekim gecikmesi yoktur (B doğru). Video özelliği vardır (C doğru). Tak çıkar lenstir (D doğru). Kontrol fotoğrafçıya aittir (E doğru). Dolayısıyla, kompaktlara göre maliyetlerinin daha ucuz olması (A şıkkı) DSLR'ler için doğru değildir; genellikle daha pahalıdırlar.
+
+    <hr />
+
+### FX Tam Çerçeve Avantajları
+
+1. Aşağıdakilerden hangisi FX (Tam Çerçeve) gövde avantajlarından biridir? *(2 kez soruldu)*
     - A-) Geniş açı ve balık gözü lenslerde kenar keskinliklerinde belirgin bir düşüş yaşanır.
     - **Cevap B-) Net alan derinliği ve bokeh kalitesi yüksektir.**
     - C-) 1\.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar.
     - D-) Sensör lensin verimli olan merkez kısımlarını kullanırlar.
     - E-) Maliyet olarak oldukça ucuzdurlar.
 
-    > **Açıklama:** DSLR'lerin çoğunda APS-C sensör kullanılırken, üst düzey bazı fotoğraf makinelerinde 35 mm film çerçevesi boyutundan daha büyük olan “tam kare-full frame” sensörler kullanılır. FX, Full Frame sensörlü modelleri ifade eder. Full Frame sensörler, APS-C sensörlerden daha büyük olduğu için daha iyi görüntü kalitesi sunar ve alan derinliği (DOF) üzerinde daha fazla kontrol sağlar. Metinde FX sensörlerin, Krop (APS-C) sensörlere göre daha büyük olduğu belirtilmiştir.
-
-    <hr />
-
-### DSLR Özellikleri
-
-1. Aşağıdakilerden hangisi "DSLR" fotoğraf makinelerinin özellikleri arasında yer almaz?
-    - A-) Tak çıkar bir lensten oluşur.
-    - B-) Tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir.
-    - C-) Çekimle görüntünün kaydı arasında herhangi bir gecikme yoktur.
-    - D-) Tek tuşla video özelliği kullanılabilir.
-    - **Cevap E-) Maliyeti kompaktlara nazaran daha ucuzdur.**
-
-    > **Açıklama:** DSLR makinelerin çalışma prensibi, mekanik bir ayna sistemi kullanmasıdır. Bu ayna, ışığı pentaprizmaya yönlendirir ve deklanşöre basıldığında hareket ederek sensörün ışık almasını sağlar. Bu mekanik hareket, DSLR'lerin temel özelliğidir. DSLR'ler tak-çalıştır lense sahiptir ve genellikle APS-C veya Full Frame sensör kullanır. Ancak, DSLR'lerin sensörlerinin otomatik olarak flaş tutarlılığı sağlaması gibi bir özelliği yoktur; flaş tutarlılığı (flash consistency) daha çok flaş/stüdyo ışık üniteleriyle ilgili bir kavramdır ve DSLR'lerin temel bir anatomik özelliği değildir.
-
-    <hr />
-1. Aşağıdakilerden hangisi "DSLR" fotoğraf makinelerinin özellikleri arasında yer almaz?
-    - A-) Maliyeti kompaktlara nazaran daha ucuzdur.
-    - B-) Çekimle görüntünün kaydı arasında herhangi bir gecikme yoktur.
-    - **Cevap C-) Tek tuşla video özelliği kullanılabilir.**
-    - D-) Tak çıkar bir lensten oluşur.
-    - E-) Tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir.
-
-    > **Açıklama:** DSLR (Digital Single Lens Reflex) makineleri tak-çıkar lenslere sahiptir. Metinde DSLR'lerin çalışma prensibinde mekanik bir ayna sistemi kullandığı ve bu aynanın deklanşöre basıldığında yukarı hareket ettiği belirtilir. Lenslerinin gövdeyle bütünleşik olmaması, DSLR'lerin temel özelliklerindendir. Köprü (bridge) kameraların lensleri gövdeyle bütünleşiktir ve tak-çıkar lensleri yoktur.
-
-    <hr />
-
-### DSLR/Full Frame Avantajları
-
-1. Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin büyük sensöre sahip olmasının avantajları arasında yer almaz?
-    - A-) Otomatik odaklama sistemleri daha gelişmiştir.
-    - **Cevap B-) Hafif ve pratik bir kullanım sağlar.**
-    - C-) Daha kısa pozlama süreleri kullanarak anı dondurabilir.
-    - D-) Loş ışıkta rahatlıkla fotoğraf çekebilir.
-    - E-) Daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir.
-
-    > **Açıklama:** Ünite 2'de, Orta Format Fotoğraf Makineleri özelliklerinde, bu makinelerin (ve dolayısıyla büyük sensörlü DSLR'lerin) 35mm full frame sensörden daha büyük sensörlere sahip olduğu belirtilmiştir. Büyük sensörlerin avantajları; daha yüksek görüntü kalitesi, daha iyi renk üretimi, daha derinlik espası (sığ alan derinliği kalitesi) ve yüksek megapiksel sunabilmektir. Mobil telefon kameraları gibi küçük sensörlü cihazların en büyük avantajı ise kompakt ve hafif olmalarıdır. Bu nedenle, DSLR'lerin büyük sensörlerinin bir avantajı olarak sayılmayan seçenek, "daha küçük boyut ve ağırlık" olmalıdır. Bu seçenek metinde doğrudan yer almasa da, diğer büyük sensörlü kameralar (Orta Format) ile karşılaştırıldığında kompaktlık/hafiflik genellikle küçük sensörlerin avantajı olarak öne çıkar. DSLR'ler için kompaktlık bir avantajdan ziyade dezavantaj olarak ele alınabilir (Ünite 2'deki Orta Format kıyaslamasında büyük ve ağır oldukları belirtiliyor). Ancak, seçenekler verilmediği için, büyük sensörün sunduğu avantajlar düşünüldüğünde, kompaktlık/hafiflik sayılmaz.
-
-    <hr />
-
-### Full Frame DSLR Dezavantajları
-
-1. Aşağıdakilerden hangisi DSLR fotoğraf makinelerinde tam çerçeve (FX) gövdelerin dezavantajları arasında yer alır?
-    - **Cevap A-) Geniş açı lenslerde kenar keskinliklerinde bir düşüş yaşanır.**
-    - B-) Yüksek ISO hızı performansı kötüdür.
-    - C-) Çözünürlükleri ve renk derinlikleri daha sınırlıdır.
-    - D-) 1,5 veya 1,6 çarpanlıdırlar.
-    - E-) Sensör küçüklüğü nedeniyle hafiftirler.
-
-    > **Açıklama:** Full Frame (FX) sensörler 35 mm film çerçevesi boyutundadır ve yüksek görüntü kalitesi sunar. Ancak, bu sensörler APS-C sensörlere göre daha büyük olduğu için, metinde belirtildiği gibi, bu kameraların gövdesi daha büyük olabilir ve daha büyük dosya boyutları oluşturur. Ayrıca, metinde tam çerçeve sensörlü kameraların maliyetinin daha yüksek olabileceği ima edilmektedir (çünkü üst düzey makinelerde kullanılırlar). Ciddi amatör ve profesyonel kullanımda, Full Frame'e göre daha küçük sensörlü kameralar (APS-C) genellikle daha hafif ve taşınabilir olma avantajına sahiptir. Dolayısıyla, Full Frame'in dezavantajları genellikle daha büyük gövde, daha büyük dosya boyutu ve potansiyel olarak daha yüksek maliyet olarak özetlenebilir. En belirgin dezavantajı, daha büyük sensör boyutu nedeniyle daha ağır ve hantal olmalarıdır.
-
-    <hr />
-
-### Kompakt Fotoğraf Avantajları
-
-1. I. Menü kullanımı rahatlığı<br />II. Hafif tasarıma sahip olması<br />III. Görüntü kalitesinin iyileştirilmiş olması<br />IV. Küçük sensörlerinin olması<br />Yukarıdaki ifadelerden hangisi standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır?
-    - A-) Yalnız II
-    - B-) I ve IV
-    - **Cevap C-) I, II ve III**
-    - D-) I, III ve IV
-    - E-) I, II, III ve IV
-
-    > **Açıklama:** Standart kompakt fotoğraf makineleri avuç içi boyutlarında ve taşıması kolaydır (hafif tasarıma sahip olması). Kullanım rahatlığı ve hafifliği ile yaygınlaşmışlardır. Görüntü kalitesi DSLR ve aynasızlara göre düşük olsa da, menü kullanımı kolaydır (genellikle bas-çek). Küçük sensörlere sahiptirler (IV doğru). Bu makineler gelişmiş otomatik ayarlara sahiptir ancak manuel kontrol seçenekleri kısıtlıdır (I yanlış kabul edilebilir, zira karmaşık kontroller sunmazlar). Bu nedenle I, II, IV avantajları arasında yer alır. Ancak soruda 'standart kompakt' makineler sorulmaktadır ve bu makinelerin en büyük avantajları pratikliği, hafifliği ve kullanım kolaylığıdır. Özellikle II ve IV doğrudur. I'in rahatlığı, II'nin hafifliği ve IV'ün küçük sensörleri bu grubun özellikleridir.
-
-    <hr />
-1. I. Menü kullanımı rahatlığı<br />II. Hafif tasarıma sahip olması<br />III. Görüntü kalitesinin iyileştirilmiş olması<br />IV. Küçük sensörlerinin olması<br />Yukarıdaki ifadelerden hangisi veya hangileri standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır?
-    - A-) Yalnız II
-    - **Cevap B-) I ve IV**
-    - C-) I, II ve III
-    - D-) I, III ve IV
-    - E-) I, II, III ve IV
-
-    > **Açıklama:** Standart kompakt fotoğraf makineleri (bas-çek), avuç içi boyutlarında, taşıması kolay ve hafif olmalarıyla öne çıkar (I ve II). Görüntü kalitesinin iyileştirilmiş olması da genellikle DSLR'lere kıyasla daha kolay kullanım sunmaları bağlamında bir avantaj olarak görülebilir (ancak genel olarak DSLR'ler daha yüksek kalite sunar). Ancak bu makineler genellikle küçük sensörlere sahiptirler (IV). Bu makinelerin avantajları; kullanım kolaylığı, hafiflik ve erişilebilirliktir. Metinde, 'Pratik kullanım rahatlığı, hafifliği ve ulaşılabilir menüleriyle hızla yaygınlaşmışlardır' denilerek I, II ve III (genel anlamda) avantajlarına değinilmektedir. IV (Küçük sensörlerinin olması) ise bir sınırlılıktır.
+    > **Açıklama:** FX (Full Frame) sensörler, 35 mm film çerçevesi boyutundadır ve APS-C sensörlerden daha büyüktür. Üst düzey fotoğraf makinelerinde kullanılırlar ve daha büyük sensör boyutu, genellikle daha iyi görüntü kalitesi, daha az gren (gürültü) ve daha sığ alan derinliği potansiyeli sunar. (Ünite 2, DSLR ve DSLR 'Tam Çerçeve' Fotoğraf Makineleri Özellikleri başlığı)
 
     <hr />
 
 ### Kompakt Fotoğraf Makineleri
 
-1. Aşağıdakilerden hangisi kompakt fotoğraf makinesi kullanmanın dezavantajlarından biridir?
+1. Aşağıda yer alan cihazlardan hangisi "basit kompakt fotoğraf makineleri" içerisinde yer alır? A) Aynasız fotoğraf makineleri B) DSLR fotoğraf makineleri C) Sayısal arkalıklı fotoğraf makineleri D) Orta format fotoğraf makineleri E) Akıllı telefon fotoğraf makineleri
+    - A-) Aynasız fotoğraf makineleri
+    - B-) DSLR fotoğraf makineleri
+    - C-) Sayısal arkalıklı fotoğraf makineleri
+    - D-) Orta format fotoğraf makineleri
+    - **Cevap E-) Akıllı telefon fotoğraf makineleri**
+
+    > **Açıklama:** Kompakt fotoğraf makineleri, Sayısal Kompakt Fotoğraf Makineleri başlığı altında incelenmiştir. Bu kategorinin altında Basit Kompakt Fotoğraf Makineleri (Cep Telefonu Kameraları), Standart Kompakt Fotoğraf Makineleri ve Enthusiast/Köprü/Super Zoom Kompakt Fotoğraf Makineleri yer almaktadır. Akıllı telefon fotoğraf makineleri de (cell phone camera) bu grubun bir alt kategorisidir (Basit Kompakt Fotoğraf Makineleri). Diğer seçenekler (Aynasız, DSLR, Tam Çerçeve, Orta Format) ayrı kategorilerdir.
+
+    <hr />
+1. Aşağıdakilerden hangisi kompakt fotoğraf makinesi kullanmanın dezavantajlarından biridir? *(2 kez soruldu)*
     - A-) Hafifliği ve hacmi nedeniyle bir ceket cebine koyup onu her yere götürmek mümkündür.
     - **Cevap B-) Sınırlı bir yakınlaştırma aralığına sahiplerdir.**
     - C-) Geniş optik zoom aralıkları sunmaktadır.
     - D-) Keskin, iyi pozlanmış bir fotoğraf elde etmek mümkündür.
     - E-) Kullanıcıya basitlik sunar.
 
-    > **Açıklama:** Kompakt fotoğraf makinelerinde lens ile gövde birbirine sabittir, bu da tak çıkar lens (değiştirilebilir objektif) kullanımını engeller. Bu, kompakt makinelerin dezavantajlarından biridir (Ünite 2).
-
-    <hr />
-1. Aşağıda yer alan cihazlardan hangisi "basit kompakt fotoğraf makineleri" içerisinde yer alır?
-    - A-) Sayısal arkalıklı fotoğraf makineleri
-    - B-) Orta format fotoğraf makineleri
-    - C-) Aynasız fotoğraf makineleri
-    - **Cevap D-) Akıllı telefon fotoğraf makineleri**
-    - E-) DSLR fotoğraf makineleri
-
-    > **Açıklama:** Basit kompakt fotoğraf makineleri (Cep Telefonu Kameraları-Cell Phone Camera) genellikle cep telefonları üzerine entegre edilmiş olup, sabit odaklı lenslerle çalışırlar. Diğer seçenekler (Köprü, Super Zoom, DSLR) daha gelişmiş veya farklı kategorilere aittir.
+    > **Açıklama:** Kompakt fotoğraf makinelerinin dezavantajlarından biri, lensin gövdeyle bütünleşik olması nedeniyle tak çıkar lens kullanamamaktır. Ünite 2'de bu makinelerin lenslerinin gövdeye sabitlendiği ve bu nedenle tak çıkar lenslerinin kullanılamayacağı belirtilmiştir.
 
     <hr />
 1. I. Menü kullanımı rahatlığı II. Hafif tasarıma sahip olması III. Görüntü kalitesinin iyileştirilmiş olması IV. Küçük sensörlerinin olması Yukarıdaki ifadelerden hangisi veya hangileri standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır?
@@ -480,11 +333,11 @@
     - D-) I, III ve IV
     - E-) I, II, III ve IV
 
-    > **Açıklama:** Standart kompakt fotoğraf makineleri, elverişli ve pratik kullanım sunar. Avantajları arasında kullanımı kolay olması, hafif olması ve (genellikle) gelişmiş otomatik ayarların bulunması sayılabilir. Ancak, bu makineler genellikle DSLR ve aynasız makinelere göre daha küçük sensörlere sahiptirler (IV. madde bir avantaj değil, bir sınırlamadır). Bu nedenle, I, II ve III. maddeler avantajlar arasındadır.
+    > **Açıklama:** Standart kompakt fotoğraf makineleri (bas-çek), kolay taşınabilirlik ve kullanım pratikliği sunar (I ve II. avantajlar). Görüntü kalitesinin iyileştirilmiş olması da genel bir avantajdır (III.). Ancak, kompakt makinelerin sensörleri DSLR ve aynasız kameralara göre daha küçüktür, bu nedenle 'Küçük sensörlerinin olması' bir avantaj değil, bir kısıtlamadır (Ünite 2'deki 'Küçük sensörlerle maliyetleri oldukça düşürülmüştür' ifadesi ile karşılaştırılabilir).
 
     <hr />
 
-### Kompakt Kamera Anatomisi
+### Kompakt Fotoğrafçılık
 
 1. Aşağıdakilerden hangisi kompakt fotoğraf makinelerinin ön kısmında bulunmaktadır?
     - A-) Yön tuşları
@@ -493,20 +346,20 @@
     - D-) Büyültme Küçültme modu düğmesi
     - E-) Mod kadranı
 
-    > **Açıklama:** Basit kompakt fotoğraf makineleri (veya cep telefonu kameraları), sabit odaklı lenslerle çalışır ve diyafram mekanizması içermezler. En yaygın örnekleri cep telefonlarıdır (Ünite 2).
+    > **Açıklama:** Kompakt fotoğraf makinelerinin ön kısmında, lens ile gövde formu birbirine sabitlenmiştir. Ünite 2'de Standart Kompakt Fotoğraf Makineleri bölümünde 'Lens ile gövde formu birbirine sabitlenmiştir.' bilgisi yer almaktadır.
 
     <hr />
 
 ### Kompakt Kamera Türleri
 
-1. Aşağıda yer alan cihazlardan hangisi "basit kompakt fotoğraf makineleri" içerisinde yer alır?
+1. Aşağıda yer alan cihazlardan hangisi "basit kompakt fotoğraf makineleri" içerisinde yer alır? *(2 kez soruldu)*
     - A-) DSLR fotoğraf makineleri
     - **Cevap B-) Akıllı telefon fotoğraf makineleri**
     - C-) Orta format fotoğraf makineleri
     - D-) Aynasız fotoğraf makineleri
     - E-) Sayısal arkalıklı fotoğraf makineleri
 
-    > **Açıklama:** Basit kompakt fotoğraf makineleri (Bas-Çek), cep telefonu üzerine entegre edilmiş kameralardır (Cep Telefonu Kameraları-Cell Phone Camera). Metin, bu kategoriyi açıkça cep telefonları olarak örneklendirmiştir. Diğer seçenekler (Köprü, Super Zoom, Standart Kompakt) daha gelişmiş alt kategorilerdir.
+    > **Açıklama:** Soru 9, basit kompakt fotoğraf makineleri kategorisinde yer alan cihazı sormaktadır. Metinde, 'Cep telefonlarına ve tabletlere entegre olanlara basit kompakt fotoğraf makinesi, smart phone camera, cell phone camera ve mobil fotoğraf makineleri gibi isimler verilebilir' denilmektedir. Bu bağlamda akıllı telefonlar (smart phone camera) bu kategoriye girer.
 
     <hr />
 
@@ -519,37 +372,60 @@
     - D-) Mod kadranı
     - E-) Yön tuşları
 
-    > **Açıklama:** Basit kompakt fotoğraf makineleri (cep telefon kameraları) ve standart kompakt fotoğraf makineleri genellikle lens ile gövdenin sabit olduğu makinelerdir. Bu makinelerin ön kısmında, görüntü oluşturma sürecinde lensin arkasında yer alan ve ışığa duyarlı yüzey olarak işlev gören bir sensör bulunur. LCD ekran ise genellikle arka kısımda yer alır. Mod kadranları veya yön tuşları genellikle gövdenin kenarlarında bulunur (Ünite 2).
+    > **Açıklama:** Metinde Basit Kompakt Fotoğraf Makineleri (Cep Telefonu Kameraları) için 'Sabit odaklı lenslerle çalışan bu türlerde diyafram yer almamaktadır' denilmektedir. Standart Kompakt Fotoğraf Makineleri için ise 'Arka kısmında LCD bir ekran bulunan kameralardır' ifadesi geçmektedir. Bu makinelerin ön kısmında genellikle lens ve vizör (bakaç) bulunur; LCD ekran arka kısımdadır. Diğer seçenekler (B, C, D, E) genellikle daha gelişmiş makinelerde (DSLR, aynasız) daha belirgin olan veya farklı modlarda kullanılan özelliklerdir. Kompakt makinelerde en belirgin ön kısım bileşeni lensin kendisi ve bazen de optik vizör/mercektir; ancak LCD ekran arka kısımdadır.
 
     <hr />
 
-### Kompakt Makine Türleri
+### Kompakt Makine Avantajları
 
-1. Aşağıda yer alan cihazlardan hangisi "basit kompakt fotoğraf makineleri" içerisinde yer alır? A) Aynasız fotoğraf makineleri B) DSLR fotoğraf makineleri C) Sayısal arkalıklı fotoğraf makineleri D) Orta format fotoğraf makineleri E) Akıllı telefon fotoğraf makineleri
-    - A-) Aynasız fotoğraf makineleri
-    - B-) DSLR fotoğraf makineleri
-    - C-) Sayısal arkalıklı fotoğraf makineleri
-    - D-) Orta format fotoğraf makineleri
-    - **Cevap E-) Akıllı telefon fotoğraf makineleri**
+1. I. Menü kullanımı rahatlığı<br />II. Hafif tasarıma sahip olması<br />III. Görüntü kalitesinin iyileştirilmiş olması<br />IV. Küçük sensörlerinin olması<br />Yukarıdaki ifadelerden hangisi veya hangileri standart kompakt fotoğraf makinelerinin kullanım avantajları arasında yer alır?
+    - A-) Yalnız II
+    - B-) I ve IV
+    - **Cevap C-) I, III ve IV**
+    - D-) II, III ve IV
+    - E-) I, II, III ve IV
 
-    > **Açıklama:** Kompakt fotoğraf makineleri, genel olarak basitten komplekse sınıflandırılırken, en basit türleri cep telefonlarına entegre olanlardır: Basit Kompakt Fotoğraf Makineleri (Cep Telefonu Kameraları-Cell Phone Camera). Diğerleri Standart Kompaktlar, Enthusiast/Köprü/Super Zoom'dur. DSLR, Aynasız ve Orta Format makineler kompakt kategorinin dışındadır (Ünite 2).
+    > **Açıklama:** Standart kompakt fotoğraf makineleri için verilen avantajlar arasında menü kullanımı rahatlığı (pratik kullanım ve basit menüler) ve hafif tasarıma sahip olması (avuç içi boyutlarında) yer alır. Küçük sensörlerinin olması da maliyetleri düşürmesi açısından bir özelliktir (birinci ve dördüncü maddeler). Görüntü kalitesinin iyileştirilmiş olması, özellikle büyük sensörlü/DSLR'lere kıyasla, bir avantaj olarak sayılmaz; aslında kalite/sensör boyutu dezavantajdır. Bu nedenle I, II ve IV avantajlardır. Ancak, sorunun doğru kabul edilen şıkkı C (I, III ve IV) olduğu için, I (Menü kullanımı rahatlığı) ve IV (Küçük sensörlerinin olması) kesinlikle avantajdır. III (Görüntü kalitesinin iyileştirilmiş olması) ise bu makineler için genellikle bir gelişme olarak belirtilse de, diğerlerine göre üstün bir avantaj sayılmaz. Ancak verilen doğru şıkkı takip ederek I, III ve IV'ü kabul ediyoruz. Metinde kompakt makinelerin 'pratik kullanım rahatlığı' sunduğu belirtilmiştir (I). Küçük sensörleri nedeniyle maliyetleri düşüktür (IV). III'ün kabul edilmesi, genel dijitalleşme bağlamında bir iyileşme olarak yorumlanabilir.
+
+    <hr />
+1. I. Menü kullanımı rahatlığı<br />II. Hafif tasarıma sahip olması<br />III. Görüntü kalitesinin iyileştirilmiş olması<br />IV. Küçük sensörlerinin olması<br />Yukarıdaki ifadelerden hangisi veya hangileri standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır?
+    - A-) Yalnız II
+    - B-) I ve IV
+    - **Cevap C-) I, II ve III**
+    - D-) I, III ve IV
+    - E-) I, II, III ve IV
+
+    > **Açıklama:** Standart kompakt fotoğraf makinelerinin avantajları Ünite 2'de listelenmiştir: Menü kullanımı rahatlığı (pratik kullanışlılık), hafifliği (avuç içi boyutlarında), küçük sensörlere sahip olması (maliyet düşüklüğü). Görüntü kalitesinin iyileştirilmiş olması (III), diğer gelişmiş makinelere kıyasla bir avantaj olarak belirtilmez; aksine çözünürlükleri yüksek görünse de büyük sensörlerle aynı çözünürlüğe sahip değillerdir. Ancak, I (kolay kullanım), II (hafiflik) ve IV (küçük sensör) kesin avantajlardır. Sorunun doğru kabul edilen şıkkı C (I, II ve III) olduğundan, III'ün de genel bir gelişme veya kullanıcı için yeterli bir kalite sunduğu varsayılmıştır. I, II, ve IV net avantajlardır. I (Kolay kullanım), II (Hafif), IV (Küçük sensör/maliyet avantajı). I, II ve III'ün kabul edilmesi durumunda, III genellikle ana avantaj olarak öne sürülmez ancak I, II ve IV kesin avantajlardır. I, II ve III şıkkı mevcut olduğu için bu şıkkı seçiyoruz. (I, II ve IV en doğru liste olsa da, verilen doğru şık I, II ve III'ü gerektirir).
 
     <hr />
 
-### Kompakt Makineler
+### LCD Panel Türleri
 
-1. Aşağıdakilerden hangisi kompakt fotoğraf makinesi kullanmanın dezavantajlarından biridir?
-    - A-) Hafifliği ve hacmi nedeniyle bir ceket cebine koyup onu her yere götürmek mümkündür.
-    - B-) Kullanıcıya basitlik sunar.
-    - C-) Keskin, iyi pozlanmış bir fotoğraf elde etmek mümkündür.
-    - **Cevap D-) Sınırlı bir yakınlaştırma aralığına sahiplerdir.**
-    - E-) Geniş optik zoom aralıkları sunmaktadır.
+1. Geniş görüntüleme açısı ve yüksek kontrast oranları sunan paneller aşağıdakilerden hangisidir?
+    - A-) TN Paneller
+    - B-) OLED Paneller
+    - C-) AMOLED Paneller
+    - D-) VA Paneller
+    - **Cevap E-) IPS Paneller**
 
-    > **Açıklama:** Kompakt fotoğraf makineleri (basit, standart ve enthusiast/köprü), genellikle sabit lenslere sahiptir ve bu durum tak çıkar lensli (DSLR/Aynasız) modellere göre bir dezavantajdır. Metinde, köprü kameraların DSLR ve aynasız makinelerden daha küçük sensörlere sahip olduğu ve lensin gövdeyle bütünleşik olması nedeniyle tak çıkar lens kullanılamayacağı belirtilmiştir. Genel kompakt makineler için de bu durum geçerlidir.
+    > **Açıklama:** Ünite 2'de, monitörlerin TN, IPS (PLS, AHVA) ve VA paneller olmak üzere farklı formatlarda üretildiği belirtilmiştir. Genellikle IPS paneller, geniş görüntüleme açıları ve daha iyi renk doğruluğu ile bilinirken, VA paneller yüksek kontrast oranları sunar. Ancak, geniş görüntüleme açısı ve yüksek kontrast oranları sunan panel türleri arasında en çok tercih edilenler, renk doğruluğu ve geniş görüş açısı sunan IPS panellerdir. Metinde genel olarak panel türleri sayılmıştır; IPS (PLS/AHVA) geniş görüş açısı ve renk doğruluğu ile, VA ise yüksek kontrast ile bilinir. Ancak genel kabulde renk doğruluğu ve görüntüleme açısında IPS öne çıkar.
 
     <hr />
 
-### Orta Format Makine Avantajları
+### Orta Format Avantajları
+
+1. Aşağıdakilerden hangileri "Orta Format Makineleri'nin" tercih edilme nedenleri arasında yer alır? I. Sığ alan derinliğini kontrol etmeye olanak tanır. II. Yüksek çözünürlüklü renk derinliği olan görüntüler sunar. III. Hafif bir gövdeye sahiptir. IV. İhtiyaç ve amaç ölçüsünde geniş bir yelpaze sunar.
+    - A-) I ve II
+    - B-) II ve III
+    - C-) I, II ve III
+    - **Cevap D-) I, II ve IV**
+    - E-) II, III ve IV
+
+    > **Açıklama:** Ünite 2'de Orta Format Makineleri'nin tercih edilme nedenleri (Neden Tercih Etmeliyiz?) sıralanmıştır: I. Sığ alan derinliği kalitesi sunar (sığ alan derinliği uygulamalarında çok daha iyi bir derinlik espası sunarlar). II. Büyük sensörler sayesinde yüksek çözünürlüklü renk derinliği olan görüntüler sunar. III. Hafif bir gövdeye sahip olması değil, tam tersine büyük ve ağır bir gövdeye sahip olmalarıdır (Dezavantajdır). IV. İhtiyaç ve amaç ölçüsünde geniş bir yelpaze sunar (sektöre, alana ve boyutlandırma pratiklerine göre seçim yapma imkanı sunar). Bu nedenle I, II ve IV maddeleri tercih nedenlerindendir. III bir dezavantajdır.
+
+    <hr />
+
+### Orta Format Makineleri
 
 1. I. Sığ alan derinliğini kontrol etmeye olanak tanır. II. Yüksek çözünürlüklü renk derinliği olan görüntüler sunar. III. Hafif bir gövdeye sahiptir. IV. İhtiyaç ve amaç ölçüsünde geniş bir yelpaze sunar. Yukarıda verilenlerden hangileri "Orta Format Makineleri'nin" tercih edilme nedenleri arasında yer alır? A) I ve II B) II I ve III C) I, II ve III D) I, II ve IV E) II, III ve IV
     - A-) I ve II
@@ -558,47 +434,37 @@
     - **Cevap D-) I, II ve IV**
     - E-) II, III ve IV
 
-    > **Açıklama:** Orta Format Makineleri'nin tercih edilme nedenleri arasında şunlar sayılmıştır (Ünite 2): I. Sığ alan derinliği kalitesi (çok daha iyi derinlik espası sunarlar). II. Yüksek çözünürlüklü renk derinliği olan görüntüler sunar. IV. İhtiyacınız ve amacınız ölçüsünde geniş bir yelpaze sunar (sektöre, alana göre seçim yapabilme). III. Hafif bir gövdeye sahip olmaları değil, tam tersine genellikle büyük ve ağır bir gövdeye sahip olmaları dezavantajlarındandır. Bu nedenle I, II ve IV doğru nedenlerdir.
-
-    <hr />
-
-### Orta Format Makineleri
-
-1. Aşağıdakilerden hangileri "Orta Format Makineleri'nin" tercih edilme nedenleri arasında yer alır? I. Sığ alan derinliğini kontrol etmeye olanak tanır. II. Yüksek çözünürlüklü renk derinliği olan görüntüler sunar. III. Hafif bir gövdeye sahiptir. IV. İhtiyaç ve amaç ölçüsünde geniş bir yelpaze sunar.
-    - A-) I ve II
-    - B-) II ve III
-    - **Cevap C-) I, II ve III**
-    - D-) I, II ve IV
-    - E-) II, III ve IV
-
-    > **Açıklama:** Orta Format Makineleri tercih nedenleri arasında; büyük sensör boyutu (I. ve IV. maddelerle ilgili), yüksek çözünürlüklü renk derinliği (II. madde), ve geniş yelpaze sunması (IV. madde) yer alır. Hafif olmamaları (III. maddenin tersi) ve pahalı olmaları dezavantajlarıdır (Ünite 2).
-
-    <hr />
-1. Fotoğrafçılık dünyasında fotoğraf makineleri sınıflandırılırken ------- kavramı genellikle profesyonel ve sektörel kullanımlarını ifade eder. Reklam sektörüne yönelik ticari çekimlerde moda çekimleri, özel stüdyo çekimleri, mimari (otel, iş merkezleri, avm vs.) çekimler, özel gün çekimleri, otomotiv çekimleri gibi daha birçok alanda profesyonel fotoğrafçılar kullanılır.. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Köprü (Bridge) fotoğraf makineleri
-    - B-) DSLR fotoğraf makineleri
-    - C-) MILC aynasız fotoğraf makineleri
-    - D-) Basit kompak fotoğraf makineler
-    - **Cevap E-) Orta Format(Medium) fotoğraf makineleri**
-
-    > **Açıklama:** Fotoğrafçılık dünyasında fotoğraf makineleri sınıflandırılırken 'Orta Format-Medium Format' kavramı genellikle profesyonel ve sektörel kullanımlarını ifade eder.
+    > **Açıklama:** Orta Format Makineleri'nin tercih edilme nedenleri arasında: 1. Görüntü sensörünün büyük olması (35mm full frame'den büyük), 2. Büyük ve ağır gövdeye sahip olması (bu bir dezavantaj gibi görünse de, büyük sensörün getirdiği avantajlarla birlikte anılır), 3. İhtiyaç ve amaca göre geniş yelpaze sunması ve 5. Yüksek çözünürlüklü renk derinliği olan görüntüler sunmasıdır. Sığ alan derinliği kalitesi (I) de tercih nedenlerindendir. III numaralı ifade, hafif bir gövdeye sahip olma bilgisini vermez; aksine, büyük sensörler nedeniyle ağır ve hantal oldukları belirtilmiştir. Bu nedenle I, II ve IV numaralı ifadeler tercih nedenleridir.
 
     <hr />
 
 ### Orta Format Tanımı
 
-1. Fotoğrafçılık dünyasında fotoğraf makineleri sınıflandırılırken "-------." kavramı genellikle profesyonel ve sektörel kullanımlarını ifade eder. Reklam sektörüne yönelik ticari çekimlerde moda çekimleri, özel stüdyo çekimleri, mimari (otel, iş merkezleri, avm vs.) çekimler, özel gün çekimleri, otomotiv çekimleri gibi daha birçok alanda profesyonel fotoğrafçılar kullanılır.. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. Fotoğrafçılık dünyasında fotoğraf makineleri sınıflandırılırken "-------." kavramı genellikle profesyonel ve sektörel kullanımlarını ifade eder. Reklam sektörüne yönelik ticari çekimlerde moda çekimleri, özel stüdyo çekimleri, mimari (otel, iş merkezleri, avm vs.) çekimler, özel gün çekimleri, otomotiv çekimleri gibi daha birçok alanda profesyonel fotoğrafçılar kullanılır.. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) DSLR fotoğraf makineleri
     - B-) MILC aynasız fotoğraf makineleri
     - **Cevap C-) Orta Format(Medium) fotoğraf makineleri**
     - D-) Basit kompak fotoğraf makineler
     - E-) Köprü(Bridge) fotoğraf makineleri
 
-    > **Açıklama:** Cümlede boş bırakılan yer, profesyonel ve sektörel kullanımları ifade eden, genellikle büyük formatlı çekimlerle ilişkilendirilen 'Orta Format-Medium Format' kavramıdır. Metinde bu kavramın reklam, moda ve özel stüdyo çekimleri gibi profesyonel alanlarda kullanıldığı açıkça belirtilmiştir.
+    > **Açıklama:** Soru 7, orta format kavramının kimleri ifade ettiğini sormaktadır. Metinde, 'Fotoğrafçılık dünyasında fotoğraf makineleri sınıflandırılırken "Orta Format-Medium Format" kavramı genellikle profesyonel ve sektörel kullanımlarını ifade eder' denilmektedir.
 
     <hr />
 
-### Sayısal Fotoğrafçılık Tarihi
+### Orta Format Özellikleri
+
+1. ------- kameraların teknik özellikleri ile birlikte oldukça gelişmiştir. 100 Megapikseli aşan çözünürlükleri ile artık daha yüksek kalitede fotoğraflar elde edilebilmektedir. Ayrıca dinamik aralıkları (+,-) 3 stop aralığında zengin bir ton skalası ve renk derinliği sağlamaktadır. Yukar1daki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+    - A-) DSLR
+    - B-) Cep telefonu
+    - C-) Full Frame
+    - **Cevap D-) Orta format**
+    - E-) Aynasız
+
+    > **Açıklama:** Ünite 2'de Orta Format Makineleri'nin, DSLR'lere göre daha büyük sensörlere sahip olduğu ve bu sayede yüksek çözünürlüklü görüntüler sunduğu belirtilmiştir. Ayrıca renk derinliğinin etkileyici olduğu ve dinamik aralıklarının (tam çerçeve sensörlerde +,- 3 stop aralığı) DSLR'lerden daha iyi olduğu vurgulanmıştır. Bu özellikler Orta Format kameralara atfedilmiştir.
+
+    <hr />
+
+### Sayısal Fotoğrafçılık Gelişmeleri
 
 1. Tüketiciler için üretilen ilk LCD ekranlı kamera aşağıdakilerden hangisidir?
     - A-) FinePix Real 3D
@@ -607,39 +473,78 @@
     - **Cevap D-) Casio QV-10**
     - E-) Minolta RD-175
 
-    > **Açıklama:** Tüketiciler için üretilen ilk LCD ekranlı kamera 1995 yılında üretilen Casio QV-10'dur. Bu ekranlar, ön izleme ve çekilen fotoğraf karesinin görüntülenmesini sağlamıştır.
+    > **Açıklama:** Ünite 2'de belirtildiği gibi, tüketiciler için üretilen ilk LCD ekranlı kamera 1995 yılında üretilen Casio QV-10'dur. Bu ekranlar ön izleme ve çekilen fotoğraf karesinin görüntülenmesini sağlıyordu.
 
     <hr />
 
-### Standart Kompakt Avantajları
+### Sayısal Video Tarihi
 
-1. I. Menü kullanımı rahatlığı<br />II. Hafif tasarıma sahip olması<br />III. Görüntü kalitesinin iyileştirilmiş olması<br />IV. Küçük sensörlerinin olması<br />Yukarıdaki ifadelerden hangisi veya hangileri standart kompakt fotoğraf makinelerinin kullanım avantajları arasında yer alır?
-    - **Cevap A-) Yalnız II**
+1. Aşağıdakilerden hangisi film yapımını kitleler için erişilebilir hâle getirmiştir?
+    - A-) VTR
+    - B-) Telstar uydusu
+    - **Cevap C-) Super 8 formatı**
+    - D-) Kodak DCS-100
+    - E-) Nikon D1
+
+    > **Açıklama:** Super 8 formatı, 1965 yılında tanıtılarak film yapımını kitleler için erişilebilir hâle getirmiştir. Ünite 2'deki kronolojide bu bilgi yer almaktadır.
+
+    <hr />
+
+### Standart Kompakt Makineler
+
+1. I. Menü kullanımı rahatlığı<br />II. Hafif tasarıma sahip olması<br />III. Görüntü kalitesinin iyileştirilmiş olması<br />IV. Küçük sensörlerinin olması<br />Yukarıdaki ifadelerden hangisi standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır?
+    - A-) Yalnız II
     - B-) I ve IV
-    - C-) I, III ve IV
-    - D-) II, III ve IV
+    - **Cevap C-) I, II ve III**
+    - D-) I, III ve IV
     - E-) I, II, III ve IV
 
-    > **Açıklama:** Standart kompakt fotoğraf makineleri (basit kompaktların ötesinde, cep telefonlarından farklı olanlar), avuç içi boyutlarında, taşınması kolay ve hafif makinelerdir. Bu, I ve II numaralı ifadeleri doğrular. Görüntü kalitesinin iyileştirilmiş olması (III) genellikle daha gelişmiş modellerin bir özelliğidir ve standart kompaktların temel odak noktası pratiklik/kolay kullanımdır. Standart kompakt makineler de genellikle küçük sensörlere sahiptir (IV numaralı ifade, kompakt makinelerin genel bir özelliği olarak da doğru olabilir, ancak temel avantajları pratiklik ve hafifliktir).
+    > **Açıklama:** Standart kompakt fotoğraf makineleri, avuç içi boyutlarında ve kullanımı kolaydır (hafif tasarıma sahip olması). Genellikle basit kullanışlı makinelerdir ve otomatik ayarları mevcuttur (I ve II avantajdır). Genellikle küçük sensörlere sahiptirler (IV avantajdır), ancak büyük sensörlere sahip gelişmiş kompaktlara göre görüntü kaliteleri teorik olarak daha düşüktür. Bu makineler genellikle manuel kontrol imkânı sunmazlar veya çok sınırlıdır (III, iyileştirilmiş görüntü kalitesi ve gelişmiş kontrol bağlamında dezavantajdır) (Ünite 2).
+
+    <hr />
+
+### Tam Çerçeve DSLR
+
+1. Aşağıdakilerden hangisi DSLR fotoğraf makinelerinde tam çerçeve (FX) gövdelerin dezavantajları arasında yer alır?
+    - **Cevap A-) Geniş açı lenslerde kenar keskinliklerinde bir düşüş yaşanır.**
+    - B-) Yüksek ISO hızı performansı kötüdür.
+    - C-) Çözünürlükleri ve renk derinlikleri daha sınırlıdır.
+    - D-) 1,5 veya 1,6 çarpanlıdırlar.
+    - E-) Sensör küçüklüğü nedeniyle hafiftirler.
+
+    > **Açıklama:** Soru 8, tam çerçeve (FX) gövdelerin dezavantajını sormaktadır. Metinde, 'Tam çerçeve olan fotoğraf makineleri ve olmayanlar arasında ciddi bir fark bulunmaktadır... Bu makinelerin sensör boyutu 36x24 mm ölçülerindedir' denilmekte ve ardından 'Bu makineler ağır ve hantal makinelerdir' çıkarımı yapılmaktadır. Bu, tam çerçeve sensörlerin dezavantajıdır.
+
+    <hr />
+
+### Tam Çerçeve Özellikleri
+
+1. Aşağıdakilerden hangisi FX (Tam Çerçeve) gövde avantajlarından biridir? A) 1.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar. B) Net alan derinliği ve bokeh kalitesi yüksektir. C) Sensör lensin verimli olan merkez kısımlarını kullanırlar. D) Maliyet olarak oldukça ucuzdurlar. E) Geniş açı ve balık gözü lenslerde kenar keskinliklerinde belirgin bir düşüş yaşanır.
+    - A-) 1\.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar.
+    - **Cevap B-) Net alan derinliği ve bokeh kalitesi yüksektir.**
+    - C-) Sensör lensin verimli olan merkez kısımlarını kullanırlar.
+    - D-) Maliyet olarak oldukça ucuzdurlar.
+    - E-) Geniş açı ve balık gözü lenslerde kenar keskinliklerinde belirgin bir düşüş yaşanır.
+
+    > **Açıklama:** FX (Tam Çerçeve) sensörler, 35mm film çerçevesi boyutundadır ve odak çarpanı 1'dir. Bu büyük sensör boyutu sayesinde, DSLR ve aynasız kameralara kıyasla daha yüksek sığ alan derinliği kalitesi ve dolayısıyla daha iyi bokeh (bulanıklık) kalitesi sunarlar. Ayrıca, sensör lensin verimli olan merkez kısımlarını kullanır. Seçenek A'daki 1.5-1.6 çarpan oranı, APS-C (Krop) sensörlerin bir özelliğidir. Maliyet olarak FX gövdeler daha pahalıdır. Geniş açılarda daha az deformasyon sunabilirler ancak kenar keskinliğinde belirgin bir düşüş yaşanmaz; aksine, lensin en verimli alanını kullandıkları için genel görüntü kalitesi yüksektir.
+
+    <hr />
+
+### İşletim Sistemleri
+
+1. Aşağıdakilerden hangisi işletim sistemi yazılımına bir örnektir?
+    - **Cevap A-) Windows 10**
+    - B-) Chrome
+    - C-) C++
+    - D-) Premiere
+    - E-) Photoshop
+
+    > **Açıklama:** Ünite 2'de işletim sistemleri; Windows, MacOS ve Linux olarak sınıflandırılmıştır. Windows, Microsoft tarafından üretilen, PC bilgisayarların kullandığı bir işletim sistemi yazılımıdır. Bu nedenle Windows bir işletim sistemi örneğidir.
 
     <hr />
 
 ## Ünite 3
 
-### 3D Video Kameralar
-
-1. Aşağıda 3D video kameralar ile ilgili verilen bilgilerden hangisi yanlıştır?
-    - **Cevap A-) 3D video üretmek için ortama yerleştirilen en az 6 kameraya ihtiyaç vardır.**
-    - B-) 3D görüntünün üretilmesindeki temel prensip iki gözümüzün tek sahneyi birbirinden farklı açılarla görmesidir.
-    - C-) 3D video görüntüleri için kullanılan kameralarda CMOS sensör bulunmaktadır.
-    - D-) 3D video üretmek için iki gözümüzün yerine iki adet kameraya ihtiyaç vardır.
-    - E-) Kullanılan kameralar HDTV sinyallerini kendi yüksek kapasiteli dahili bellek cihazlarına ya da ikiz SD kartlara depolar.
-
-    > **Açıklama:** Ünite 3'te 3D dijital kameralardan bahsedilirken, bu kameralarla üç boyutlu fotoğraflar çekilebildiği gibi bu fotoğrafların yine üç boyutlu olarak görüntülenebildiği belirtilmiştir. Ancak, metinde 3D video kameraların yalnızca profesyoneller tarafından tercih edildiği veya yaygın olmadığına dair bir bilgi bulunmamaktadır; aksiyon kameraları ve su altı drone'ları için bu tür kısıtlamalardan bahsedilmiştir. 3D kameraların temel özelliğinin üç boyutlu deneyim sunmak olduğu vurgulanır. Verilen seçeneklerde (özellikle D seçeneği) yanlış bir bilgi içermemektedir. Bu sorunun cevabını kesinleştirmek için metindeki 3D kamera ile ilgili cümleye bakarsak: '3D Dijital Kameralar: Farklı teknolojileri ile izleyicilere farklı deneyimler sunan videolar üretmektedirler.' Bu bilgi ışığında, A, B, C seçeneklerinin doğru olduğu varsayılır. D seçeneği (yalnızca profesyoneller için üretildiği) metinde açıkça belirtilmediği için yanlış varsayılabilir. (Not: Metinde D seçeneği yerine başka bir seçenek konulmalıydı, ancak mevcut seçenekler arasında en az destekleneni D şıkkıdır, çünkü diğer şıklar doğrudan mentionedir.) Verilen metinlerde 3D kameraların profesyonel kullanımına dair özel bir kısıtlama yoktur. Ancak, metin sadece 'Farklı teknolojileri ile izleyicilere farklı deneyimler sunan videolar üretmektedirler' der. Eğer seçenekleri bu metne göre değerlendirirsek ve D şıkkı 'Sadece profesyonellerin kullandığı' anlamına geliyorsa, bu, diğer kameralarla (Aksiyon kameraları ve Su altı Drone'ları) karşılaştırıldığında yanlış olabilir, zira 3D kullanımı daha geneldir.
-
-    <hr />
-
-### Analog Video Sistemleri
+### Analog Video Tarihi
 
 1. Aşağıdakilerden hangisi analog TV yayın sisteminin özelliklerinden biridir?
     - A-) Birden çok kanal yayını yapılabilir.
@@ -648,122 +553,21 @@
     - D-) Etkileşime olanak sağlar.
     - E-) Dijital yayınlara kıyasla daha kaliteli ses ve görüntü kapasitesine sahiptir.
 
-    > **Açıklama:** Soru, analog TV yayın sistemlerinin özelliklerini sormaktadır. Metinde analog video süreçlerinden bahsedilirken, eski analog video kameralarda görüntülerin manyetik bantlara kaydedildiği ve kurgulamanın lineer editing (doğrusal düzenleme) yöntemiyle yapıldığı belirtilir. Bu işlemin görüntülerde kayba ve zaman dezavantajına yol açtığı ifade edilmektedir. Örneğin, 1956'da Ampex şirketinin geliştirdiği VTR, manyetik makara bantlara kayıt yapıyordu. Modern dijital sistemlerin avantajları (kayıpsız/hızlı kurgu) ile karşılaştırıldığında, analog sistemlerin temel özelliği bant kullanımı ve lineer düzenleme idi.
+    > **Açıklama:** Soru 1, analog video tarihine ilişkindir. Metinde, 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder) ile televizyonda canlı yayınlar dışında bant kaydının mümkün hâle geldiği belirtilmektedir. Bu nedenle doğru cevap, bant kaydının mümkün olmasıdır.
+
+    <hr />
+1. Televizyonda canlı yayını dışında kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?
+    - **Cevap A-) VTR (Video Tape Recorder)**
+    - B-) Kaset tabanlı tipik elektronik televizyon
+    - C-) Sinematograf
+    - D-) Telekstaf uydusu
+    - E-) Vifaphone ses sistemi
+
+    > **Açıklama:** Soru 3, analog video tarihindeki bir gelişmeyi sormaktadır. Metinde, '1956: Televizyonda canlı yayınlar dışında bant kaydı mümkün hâle geldi. “Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder-videobant kaydedici) 2 inch (yaklaşık beş santimetre) kalınlığında manyetik makara bantlara kayıt yapan devasa bir aletti ve fiyatı yaklaşık 50.000 dolardı ama tarihte ilk defa video kaydı yapılabiliyordu" ifadesi yer almaktadır. Bu, VTR'nin icadıdır.
 
     <hr />
 
-### Dijital Video Kamera Türleri
-
-1. Hızlı ayar gerektiren elektronik haber toplama (ENG) ve gözlemsel belgesel çekimleri için tasarlanmış kameralar aşağıdakilerden hangisidir?
-    - A-) DSLR ve Aynasız Kameralar
-    - B-) Dijital Sinema Kameraları
-    - C-) Hibrit Kameralar
-    - **Cevap D-) El Kameraları**
-    - E-) Büyük Boy Dijital Kameralar
-
-    > **Açıklama:** Ünite 3'te, Aksiyon kameralarının (Action camera) bakış açısı kamerası olarak tanımlandığı ve 4K video çekebilen hareketli görüntülerde uzman ikincil kameralar olarak video üretiminin son yıllardaki en beğenilen ürünlerinden olduğu belirtilmiştir. Bu kameralar genellikle hızlı ayar gerektiren, çevresel ve gözlemsel çekimler (ENG/belgesel) için tercih edilir.
-
-    <hr />
-1. Aşağıda 3D video kameralar ile ilgili verilen bilgilerden hangisi yanlıştır?
-    - A-) 3D video görüntüleri için kullanılan kameralarda CMOS sensör bulunmaktadır.
-    - B-) Kullanılan kameralar HDTV sinyallerini kendi yüksek kapasiteli dahili bellek cihazlarına ya da ikiz SD kartlara depolar.
-    - C-) 3D video üretmek için iki gözümüzün yerine iki adet kameraya ihtiyaç vardır.
-    - D-) 3D görüntünün üretilmesindeki temel prensip iki gözümüzün tek sahneyi birbirinden farklı açılarla görmesidir.
-    - **Cevap E-) 3D video üretmek için ortama yerleştirilen en az 6 kameraya ihtiyaç vardır.**
-
-    > **Açıklama:** 3D kameralar, izleyicilere artırılmış gerçeklik (AR) deneyimleri sunan videolar üretmek için kullanılır. Metinde 3D kameraların, fiziksel olarak var olmayan bir alanda gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağladığı belirtilmektedir. Bu tanım, esasen Artırılmış Gerçeklik (AR) ve Sanal Gerçeklik (VR) teknolojileriyle ilgilidir. Ancak metinde 3D kameraların bu deneyimi sunduğu belirtilmiş olsa da, 360 derece kameraların da bu tür deneyimler sunduğu belirtilmiştir. 3D kameraların 'fiziki olarak asında var olmayan bir alanda' görüntü oluşturması değil, derinlik hissi oluşturması beklenir. Metinde 3D kameralar için 'farklı teknolojileri ile izleyicilere farklı deneyimler sunan videolar ürettikleri' bilgisi verilirken, VR/AR tanımı bu deneyime paralel verilmiştir. Ancak 3D video kameraların temel işlevi derinlik algısı yaratmaktır. Metinde verilen 'hızlı veri transferi yapabilmesine olanak sağlayan' bilgisi, genel olarak hafıza kartları ve okuyucularla ilgilidir, doğrudan 3D kamera özelliği değildir.
-
-    <hr />
-
-### Dijital Video Kamera Çeşitleri
-
-1. Kaskellara, bisiklet veya kaykay gibi araçlara monte edilebilen kameralar aşağıdakilerden hangisidir?
-    - A-) Omuz Kameraları
-    - B-) El Kameraları
-    - **Cevap C-) Dijital Aksiyon Kameralar**
-    - D-) Aynasız Kameralar
-    - E-) DSLR Kamera
-
-    > **Açıklama:** Metinde, 'Aksiyon kameraları bakış açısı kamerası olarak tanımlanan ve 4K video çekebilen hareketli görüntülerde uzman ikincil kameralar olarak video üretiminin son yıllardaki en beğenilen ürünleridir' ifadesi geçmektedir. Aksiyon kameraları, genellikle bisiklet, kayak, sörf, kask gibi ekipmanlara monte edilerek kullanılırlar. Metinde bu kameraların özellikle kask ve kaykay gibi araçlara monte edilebildiği belirtilmektedir.
-
-    <hr />
-
-### Dijital Video Sabitleme
-
-1. Video kameralarda mekanik bir aparat kullanmadan yer değiştiren görüntünün yarattığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?
-    - A-) Optik görüntü sabitleme (OIS)
-    - B-) İnterlaced (i) tarama
-    - C-) Analog sistem
-    - D-) Dijital sistem
-    - **Cevap E-) Elektronik görüntü sabitleme (EIS)**
-
-    > **Açıklama:** Hareketli görüntü (video) kaydı sırasında titremeyi (sarsıntıyı) elektronik olarak düzelten sistemler EIS (Elektronik Görüntü Sabitleyici) veya OIS (Optik Görüntü Sabitleyici) olarak adlandırılır. Bu sistemler, mekanik bir aparat kullanmadan hareket bulanıklığını dijital sinyal işleme ile düzeltir.
-
-    <hr />
-
-### Görüntü Sabitleme
-
-1. Mekanik bir aparat kullanmayan ve yer değiştiren görüntünün yarattığı hareket bulanıklığını düzeltmenin tek yöntemi aşağıdakilerden hangisidir? A) Elektronik görüntü sabitleme (EIS) B) Optik görüntü sabitleme (OIS) C) Frame Per Second D) Progressive Tarama E) Interlaced Tarama
-    - A-) Elektronik görüntü sabitleme (EIS)
-    - **Cevap B-) Optik görüntü sabitleme (OIS)**
-    - C-) Frame Per Second
-    - D-) Progressive Tarama
-    - E-) Interlaced Tarama
-
-    > **Açıklama:** Hareketli görüntülerde, kameranın titremesinden kaynaklanan bulanıklığı düzeltmek için kullanılan sistemler Optik Görüntü Sabitleme (OIS) ve Elektronik Görüntü Sabitleme (EIS)'dir. OIS optik bileşenleri (lensler) kullanırken, EIS görüntü işlemcileri (yazılımsal) kullanır. Ünite 3'te belirtildiği gibi, OIS ve EIS sistemleri, titreşim sorununu gidermek için kullanılır. Mekanik bir aparat (tripod gibi) kullanılmadığında, görüntü sabitlemenin yazılımsal veya optik yollarla yapılması gerekir. EIS (Elektronik görüntü sabitleme), hareketli görüntülerde görüntü sabitlemek için kullanılan bir yazılımsal yöntemdir.
-
-    <hr />
-1. Dijital video kameralarda EIS veya Ois gibi görüntü sabitleme özelliklerinin olmaması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir?
-    - **Cevap A-) Dolly**
-    - B-) 3D Dijital Kameralar
-    - C-) Drone
-    - D-) Gimbal
-    - E-) Jimmy Jib
-
-    > **Açıklama:** Ünite 3'te, video kameralarda sabit lensler kullanıldığı ve elde çekim yaparken titremenin bir problem olduğu belirtilmiştir. Firmaların bu sorunu aşmak için EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) gibi sistemler geliştirdiği ifade edilmiştir. Bu sistemler yeterli olmadığında veya yoksa, hareketli görüntülerde görüntü sabitlemek için harici olarak Gimbal, vinç mekanizmaları ve Dolly gibi ekipmanlar kullanılır.
-
-    <hr />
-
-### Hareketli Görüntü Kaydı
-
-1. Yer değiştiren görüntünün yarattığı hareket bulanıklığını mekanik bir aparat kullanmadan düzeltmenin tek yöntemi aşağıdakilerden hangisidir?
-    - A-) Progressive Tarama
-    - B-) Frame Per Second
-    - C-) Optik görüntü sabitleme (OIS)
-    - D-) Interlaced Tarama
-    - **Cevap E-) Elektronik görüntü sabitleme (EIS)**
-
-    > **Açıklama:** Ünite 3'te, dijital video kameraların hareketi üretebilmek için bir tarama işlemi gerçekleştirdiği ve bu işlemin Interlaced (geçişli) veya Progressive (aşamalı) olarak iki şekilde yapıldığı belirtilmiştir. Progressive tarama, bir saniyede tüm satırların (tüm piksel verilerinin) tek seferde taranarak görüntülenmesini sağlar, bu da hareket bulanıklığını (motion blur) mekanik aparat kullanmadan düzeltmenin en temel dijital yöntemidir.
-
-    <hr />
-
-### Hareketli Video Ekipmanları
-
-1. Mekân içinde yükseklik, derinlik ve genişlikte; dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan vinç mekanizması aşağıdakilerden hangisi ile tanımlanmaktadır?
-    - A-) OIS
-    - B-) Dolly
-    - C-) Gimbal
-    - **Cevap D-) Jimmy Jib**
-    - E-) Steadicam
-
-    > **Açıklama:** Metinde, 'Görüntü estetiği adına özel bir üretim gerçekleştirilmesini sağlayan bu sabitleyicilerin kullanımı son yıllarda bir hayli artmıştır' denilerek kamera sabitleme mekanizmalarından bahsedilmektedir. Özellikle 'Gimbal, vinç mekanizmaları ve Dolly isimli cihazlar kullanılmaktadır' ifadesi yer almaktadır. Vinç mekanizması, kamerayı dikey eksende (yukarı/aşağı) hareket ettirerek bu tarz çekimleri sağlar, bu da 'dikey eksende' bir hareketi ifade eder.
-
-    <hr />
-
-### Hareketli görüntü sabitleme
-
-1. Video kameralarda mekanik bir aparat kullanmadan per değiştirsin görüntünün yansıttığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?
-    - A-) Optik görüntü sabitleme (OIS)
-    - B-) Analog sistem
-    - **Cevap C-) Elektronik görüntü sabitleme (EIS)**
-    - D-) Dijital sistem
-    - E-) Interlaced (i) tarama
-
-    > **Açıklama:** Ünite 3'te, sabit lensli el kameralarında görüntünün titremesini engellemek için firmaların EIS (Elektronik Görüntü Sabitleyici) ve OIS (Optik Görüntü Sabitleyici) gibi sistemler kullandığı belirtilmiştir. Hareketli görüntülerde görüntü sabitlemek için Gimbal, vinç mekanizmaları ve Dolly gibi cihazlar da kullanılır. Ancak, mekanik bir aparat kullanmadan (yani elektronik olarak) sabitleme sağlayan yöntemler EIS ve OIS'dir. Soruda 'mekanik bir aparat kullanmadan' ve 'elektronik olarak düzeltme' istendiği için, en uygun genel ifade EIS veya OIS'i içerir; ancak seçenekler verilmediği için, temel elektronik sabitleme sistemlerinden bahsedilmiştir. Ünite 3'te bahsedilen ana elektronik sabitleme teknolojileri EIS (Elektronik Görüntü Sabitleme) ve OIS'dir (Optik Görüntü Sabitleme). Bu bağlamda, bu sistemlerin elektronik sabitleme sağladığı bilgisi temel alınır.
-
-    <hr />
-
-### Sayısal TV Yayın Türleri
+### Dijital TV Yayın Türleri
 
 1. Aşağıdakilerden hangisi IPTV altyapısının sunduğu hizmetler arasında yer almaz?
     - A-) VoD (İsteğe Bağlı Video)
@@ -772,109 +576,24 @@
     - D-) Elektronik Program Rehberi (EPG)
     - **Cevap E-) Üç Boyutlu İzle (Watch-3D)**
 
-    > **Açıklama:** IPTV (Internet Protocol Television), internet protokol televizyonu anlamına gelir ve kullanıcıların antenler, uydu çanakları veya fiber optik kablolar yerine internet üzerinden televizyon programları almalarını gerektirir. Yani video içeriğini doğrudan internet üzerinden yayınlar. Web TV açık internet ağını kullanır; Mobil TV ise hareketli/hareket edebilme potansiyeline sahip araçlara kablosuz iletimdir. Canlı yayın, hızlı görüntü transferi gibi son teknolojik özellikler IPTV'nin sunduğu hizmetler arasındadır, ancak soruda yer almayan seçenekler dikkate alındığında, sunulan metinde doğrudan IPTV altyapısının sunmadığı bir hizmet olarak belirtilen bir seçenek bulunmamaktadır. Ancak, seçenekler metinde verilmediği için, metin içeriğine göre IPTV'nin temel olarak internet üzerinden yayın yapmayı sağladığı, Web TV'nin ise hem TV sinyalleri hem de internet hizmeti almasına imkân tanıdığı belirtilmiştir. Genellikle IPTV, sadece video içeriğini yayınlar. Diğer şıklar (Canlı yayın, hızlı transfer, etkileşimli yayın) IPTV'nin bağlamında yer alabilirken, metinde IPTV'nin tanımı sadece internet üzerinden yayın yapmaya odaklanır. IPTV'nin tanımına göre, internet üzerinden yayın yapmayan bir hizmet (örneğin uydu çanağı ile yayın) IPTV altyapısı içinde yer almaz.
+    > **Açıklama:** IPTV (Internet Protocol Television), internet protokol televizyonu anlamına gelir ve kullanıcıların antenler, uydu çanakları veya fiber optik kablolar yerine internet üzerinden televizyon programları almalarını gerektirir. Bu, video içeriğinin doğrudan internet üzerinden yayınlanması demektir. Web TV (İnternet TV) açık internet ağını kullanır, Mobil TV ise hareketli araçlara kablosuz iletim sağlar. Ancak, "kaset vb. depolama araçlarına ihtiyaç" IPTV'nin hizmetlerinden biri değildir; IPTV içeriği internet üzerinden yayınlanır. (Ünite 3, Sayısal TV Yayın Türleri başlığı)
 
     <hr />
 
-### Video Görüntü Sabitleme
+### Dijital Video Ekipmanları
 
-1. Video kameralarda mekanik bir aparat kullanmadan yer değiştiren görüntünün yarattığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?
-    - A-) Optik görüntü sabitleme (OIS)
-    - **Cevap B-) Elektronik görüntü sabitleme (EİS)**
-    - C-) Dijital sistem
-    - D-) Interlaced (d) tarama
-    - E-) Analog sistem
-
-    > **Açıklama:** Video kameralarda sabit lensler kullanıldığında oluşan titreme problemine karşı firmalar tarafından geliştirilen ve mekanik bir aparat kullanmadan görüntünün hareket bulanıklığını elektronik olarak düzelten yöntemler EIS (Electronic Image Stabilization) ve OIS (Optical Image Stabilization) olarak adlandırılır. Metinde, bu iki sistemden EIS'in elektronik düzeltme sağladığı belirtilmektedir.
-
-    <hr />
-1. Video kameralarda mekanik bir aparat kullanmadan yer değiştiren görüntünün yarattığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?
-    - A-) Optik görüntü sabitleme (OIS)
-    - **Cevap B-) Elektronik görüntü sabitleme (EIS)**
-    - C-) İnterlaced (1) tarama
-    - D-) Analog sistem
-    - E-) Dijital sistem
-
-    > **Açıklama:** Ünite 3 metninde, sabit lensli kameralarda titreşim probleminin üstesinden gelmek için EİS (Elektronik Görüntü Sabitleme) ve OİS (Optik Görüntü Sabitleme) sistemlerinden bahsedilmektedir. EİS, mekanik bir aparat kullanmadan (yani elektronik olarak) hareket bulanıklığını düzelten sistemdir. OİS ise optik elemanları hareket ettirerek titreşimi düzeltir.
-
-    <hr />
-
-### Video Kayıt Tarihi
-
-1. Televizyonda canlı yayını dışında kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?
-    - **Cevap A-) VTR (Video Tape Recorder)**
-    - B-) Kaset tabanlı tipik elektronik televizyon
-    - C-) Sinematograf
-    - D-) Telekstaf uydusu
-    - E-) Vifaphone ses sistemi
-
-    > **Açıklama:** Metinde, 1956 yılında Ampex şirketinin geliştirdiği ilk VTR'nin (Videotape recorder) tanıtıldığı ve bu sayede televizyonda canlı yayınlar dışında bant kaydının mümkün hale geldiği belirtilmektedir. Bu, analog video kaydında bir dönüm noktasıdır.
-
-    <hr />
-
-### Video Sabitleme Araçları
-
-1. Dijital video kameralarda EIS veya OIS gibi görüntü sabitleme özelliklerinin olmaması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir?
-    - A-) Drone
-    - B-) 3D Dijital Kameralar
-    - C-) Jimmy Jib
-    - D-) Dolly
-    - **Cevap E-) Gimbal**
-
-    > **Açıklama:** Dijital video kameralarda dahili görüntü sabitleme sistemlerinin (EİS ve OİS) yetersiz kaldığı durumlarda, hareketli görüntülerde akışkan bir hareket elde etmek için harici ekipmanlar kullanılır. Bu ekipmanlar arasında Gimbal, vinç mekanizmaları ve Dolly bulunur (Ünite 3).
-
-    <hr />
-
-### Video Sabitleme Ekipmanları
-
-1. Dijital video kameralarda EIS veya OIS gibi görüntü sabitleme özelliklerinin olmaması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir?
-    - A-) Drone
+1. Mekân içinde yükseklik, derinlik ve genişlikte; dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan vinç mekanizması aşağıdakilerden hangisi ile tanımlanmaktadır?
+    - A-) OIS
     - B-) Dolly
-    - **Cevap C-) Gimbal**
-    - D-) 3D Dijital Kameralar
-    - E-) Jimmy Jib
+    - C-) Gimbal
+    - **Cevap D-) Jimmy Jib**
+    - E-) Steadicam
 
-    > **Açıklama:** Hareketli görüntülerde görüntü sabitlemek için, dahili EIS/OIS sistemlerinin yetersiz kaldığı durumlarda harici ekipmanlar kullanılır. Bu ekipmanlar arasında Gimbal, vinç mekanizmaları ve Dolly bulunur. Soru, özellikle bu harici sabitleme araçlarından birini sormaktadır, bu araçlar arasında en yaygını Gimbal'dir (veya diğerleri de bahsi geçen araçlardır).
-
-    <hr />
-1. Dijital video kameralarda Eis veya Ois gibi görüntü sabitleme özelliklerinin olması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir?
-    - A-) Jimmy Jib
-    - B-) Dolly
-    - C-) 3D Dijital Kameralar
-    - D-) Drone
-    - **Cevap E-) Gimbal**
-
-    > **Açıklama:** Ünite 3'ün "Dijital Video Kamera Çeşitleri" başlığı altında, video kameralarda bulunan EİS (Elektronik Görüntü Sabitleyici) ve OİS (Optik Görüntü Sabitleyici) sistemlerinin dışında, hareketli görüntülerde görüntü sabitlemek için kullanılan ekipmanlar sıralanmıştır. Bu ekipmanlar; Gimbal, vinç mekanizmaları ve Dolly'dir. Bu araçlar, kamera hareketini akışkan hâle getirerek sarsıntıyı önler.
+    > **Açıklama:** Görüntü estetiği adına özel bir üretim gerçekleştirilmesini sağlayan, dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan mekanizmalara Gimbal adı verilir. Bu cihazlar, dijital video üretiminde hareketli görüntülerde görüntü sabitlemek için kullanılır. (Ünite 3, Dijital Hareketli Video Üretimi İçin Gerekli Teknik Ekipmanlar başlığı)
 
     <hr />
 
-### Video kamera türleri
-
-1. Ebatları DSLR ve aynasız kameralara benzeyen, işlev olarak sinema kameralarına benzer şekilde üst düzey video üretimi yapabilen kamera türü aşağıdakilerden hangisidir?
-    - A-) Dijital Aksiyon Kameraları
-    - B-) Drone Kameralar
-    - C-) Büyük Boy Kameralar
-    - D-) 360 Derece Kameralar
-    - **Cevap E-) Hibrit Kameralar**
-
-    > **Açıklama:** Ünite 3'te belirtildiği gibi, Hibrit kameralar DSLR ve aynasız kameraların ebatları ve camcorder veya sinema kameralarındaki işlevleri birleştiren büyük sensörlü ürünlerdir ve belgesel, tanıtım reklam prodüksiyonları, kısa film vb. kategoriler için çok çekici bir seçenek olup üst düzey video üretimi yapabilirler. Ebatları DSLR ve aynasız kameralara benzeyen, işlev olarak sinema kameralarına benzer şekilde üst düzey video üretimi yapabilen kamera türü Hibrit kameralardır.
-
-    <hr />
-
-### Video tarama yöntemleri
-
-1. Video kameraların çok yüksek hızlarda gerçekleştirdiği ve hareketli görüntünün ortaya çıkarılması adına gerekli olan tarama işleminin türleri aşağıdakilerden hangisinde verilmiştir?
-    - A-) 625 (PAL) veya 525 (NTSC).
-    - B-) RAW video ve Log
-    - C-) AVCHD, XDCAM
-    - **Cevap D-) İnterlaced ve Progressive**
-    - E-) Avid ve Final Cut Pro
-
-    > **Açıklama:** Ünite 3'te, video kameraların hareketi üretebilmek için bir tarama işlemi gerçekleştirdiği belirtilmiştir. Bu tarama işlemi, Interlaced (birleşik) veya Progressive (aşamalı) olarak iki şekilde gerçekleştirilir ve saniyedeki görüntü toplama süresiyle alakalıdır.
-
-    <hr />
-
-### Video Çözünürlük Standartları
+### Dijital Video Formatları
 
 1. Çözünürlüğü 625 (PAL) veya 525 (NTSC) satır çözünürlük standartı aşağıdakilerden hangisinde doğru verilmektedir?
     - **Cevap A-) SDTV**
@@ -883,13 +602,166 @@
     - D-) UHDTV
     - E-) 1920x1080
 
-    > **Açıklama:** Ünite 3'te, temel video görüntüsünün dikey ve yatay piksel sayılarından oluştuğu belirtilmiştir. Dijital video kameraların gelişimiyle SDTV'den HDTV'ye geçiş yaşanmıştır. Tarihsel kronolojide, 1954'te renkli televizyonların tanıtılması ve 1956'da VTR'nin geliştirilmesi gibi adımlar atılmıştır. Ancak, metinlerde spesifik olarak 625 satır (PAL) ve 525 satır (NTSC) standartlarının direkt bir karşılaştırması verilmemiştir; ancak bu satır sayıları standart analog/ilk dijital TV çözünürlüklerini ifade eder.
+    > **Açıklama:** Ünite 7'de SDTV, HDTV ve UHDTV'den bahsedilmekle birlikte, video sinyal kodlama teknolojileri standartlarından detaylı bahsedilmemiştir. Ancak Ünite 3'te, eski analog kameraların video kayıt sistemleri ve bu sistemlerin günümüz dijital sistemlerine geçişi anlatılmaktadır. CRT ekranlarda genel olarak PAL (625 satır) ve NTSC (525 satır) standartları kullanılmıştır. Bu standartlar, video kameraların analogdan dijitale geçiş sürecinde temelini oluşturmuştur.
+
+    <hr />
+
+### Dijital Video Kamera Türleri
+
+1. Aşağıda 3D video kameralar ile ilgili verilen bilgilerden hangisi yanlıştır? *(3 kez soruldu)*
+    - A-) 3D video görüntüleri için kullanılan kameralarda CMOS sensör bulunmaktadır.
+    - B-) Kullanılan kameralar HDTV sinyallerini kendi yüksek kapasiteli dahili bellek cihazlarına ya da ikiz SD kartlara depolar.
+    - C-) 3D video üretmek için iki gözümüzün yerine iki adet kameraya ihtiyaç vardır.
+    - D-) 3D görüntünün üretilmesindeki temel prensip iki gözümüzün tek sahneyi birbirinden farklı açılarla görmesidir.
+    - **Cevap E-) 3D video üretmek için ortama yerleştirilen en az 6 kameraya ihtiyaç vardır.**
+
+    > **Açıklama:** 3D kameralar hakkında verilen bilgide, bu kameralarla üç boyutlu fotoğraflar çekilebildiği gibi bu fotoğrafların yine üç boyutlu olarak görüntülenebildiği belirtilmiştir. Ancak metinde 3D kameraların, artırılmış gerçeklik (AR) kavramı ile ilgili deneyimler sunduğu gibi bir ifade geçmemektedir. 3D kameralar, farklı teknolojileri ile izleyicilere farklı deneyimler sunan videolar üretmektedir şeklinde belirtilmiş ancak AR ile doğrudan ilişkilendirilmemiştir. Sorunun bağlamına göre, 3D kameraların AR ile ilgili deneyimler sunduğuna dair bilgi kesinlik taşımamaktadır. Ünite 3'te 3D kameralardan bahsedilirken, 360 derece kameraların artırılmış gerçeklik (AR) kavramı ile ilgili deneyimler sunduğu ifade edilmiştir. 3D kameralar sadece üç boyutlu görüntüleme sunar.
+
+    <hr />
+
+### Dijital Video Kamera Çeşitleri
+
+1. Kasklara, bisiklet veya kaykay gibi araçlara monte edilebilen kameralar aşağıdakilerden hangisidir? A) Omuz Kameraları B) El Kameraları C) DSLR Kamera D) Aynasız Kameralar E) Dijital Aksiyon Kameralar
+    - A-) Omuz Kameraları
+    - B-) El Kameraları
+    - C-) DSLR Kamera
+    - D-) Aynasız Kameralar
+    - **Cevap E-) Dijital Aksiyon Kameralar**
+
+    > **Açıklama:** Dijital Aksiyon Kameralar, kasklara, bisikletlere veya kaykay gibi araçlara monte edilebilen, genellikle küçük ve dayanıklı kamera türleridir. Ünite 3 özetinde aksiyon kameralarının 'bakış açısı kamerası olarak tanımlanan' ve 4K video çekebilen hareketli görüntülerde uzman ikinci kameralar olduğu belirtilmiştir.
+
+    <hr />
+
+### Görüntü Sabitleme Teknolojileri
+
+1. Video kameralarda mekanik bir aparat kullanmadan per değiştirsin görüntünün yansıttığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?
+    - A-) Optik görüntü sabitleme (OIS)
+    - B-) Analog sistem
+    - **Cevap C-) Elektronik görüntü sabitleme (EIS)**
+    - D-) Dijital sistem
+    - E-) Interlaced (i) tarama
+
+    > **Açıklama:** Video kameralarda sabit lensli modellerde titreşimi önlemek için kullanılan, mekanik bir aparat kullanmadan (tripod, gimbal gibi) elektronik olarak görüntü sabitlemeyi sağlayan sistemler EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) olarak adlandırılır. Hareketli görüntülerin elektronik olarak düzeltilmesi bu sistemlerle sağlanır.
+
+    <hr />
+
+### Hareketli Görüntü Sabitleme
+
+1. Dijital video kameralarda Eis veya Ois gibi görüntü sabitleme özelliklerinin olması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir?
+    - A-) Jimmy Jib
+    - B-) Dolly
+    - C-) 3D Dijital Kameralar
+    - D-) Drone
+    - **Cevap E-) Gimbal**
+
+    > **Açıklama:** Ünite 3'ün "Video Kameralardaki Dijital Dönüşüm" bölümünde, sabit lensli el kameralarının titreşim sorununu aşmak için firmaların EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) gibi görüntü sabitleyici sistemler geliştirdiği belirtilmiştir. Ayrıca, "Dijital Hareketli Video Üretimi İçin Gerekli Teknik Ekipmanlar" başlığı altında, bu sistemlere ek olarak hareketli görüntülerde görüntü sabitlemek için Gimbal, vinç mekanizmaları ve Dolly isimli cihazların kullanıldığı ifade edilmiştir. Bu araçlar, EIS/OIS'in yetersiz kaldığı durumlarda kullanılır.
+
+    <hr />
+1. Video kameralarda mekanik bir aparat kullanmadan yer değiştiren görüntünün yarattığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir? *(4 kez soruldu)*
+    - A-) Optik görüntü sabitleme (OIS)
+    - **Cevap B-) Elektronik görüntü sabitleme (EİS)**
+    - C-) Dijital sistem
+    - D-) Interlaced (d) tarama
+    - E-) Analog sistem
+
+    > **Açıklama:** Video kameralarda sabit lensler kullanıldığında el titremesinden kaynaklanan görüntü titreşimini (hareket bulanıklığını) düzeltmek için kullanılan sistemler EİS (Elektronik Görüntü Sabitleyici) ve OİS (Optik Görüntü Sabitleyici) olarak belirtilmiştir. Metinde, "Eldeki çekim yaparken görüntünün titretilmesi ise başka bir problemdir. Firmalar EİS ve OİS gibi görüntü sabitleyici sistemler ile bu problemin üstesinden gelmek için çalışmalar yürütmüştür." bilgisi yer almaktadır. Hareketli görüntülerde görüntü sabitlemek için Gimbal, vinç mekanizmaları ve Dolly de kullanılsa da, metinde hareket bulanıklığını elektronik olarak düzelten temel yöntemler EİS ve OİS olarak geçmektedir.
+
+    <hr />
+
+### Hibrit Video Kameralar
+
+1. Ebatları DSLR ve aynasız kameralara benzeyen, işlev olarak sinema kameralarına benzer şekilde üst düzey video üretimi yapabilen kamera türü aşağıdakilerden hangisidir?
+    - A-) Dijital Aksiyon Kameraları
+    - B-) Drone Kameralar
+    - C-) Büyük Boy Kameralar
+    - D-) 360 Derece Kameralar
+    - **Cevap E-) Hibrit Kameralar**
+
+    > **Açıklama:** Hibrit kameralar, DSLR ve aynasız kameraların ebatları ve camcorder/sinema kameralarının işlevlerini birleştiren, büyük sensörlü ürünlerdir. Genellikle belgesel, tanıtım ve reklam prodüksiyonları için kullanılırlar ve üst düzey video üretimi yapabilirler, bu da onları sinema kameralarına yakınlaştırır.
+
+    <hr />
+
+### Video Görüntü Sabitleme
+
+1. Mekanik bir aparat kullanmayan ve yer değiştiren görüntünün yarattığı hareket bulanıklığını düzeltmenin tek yöntemi aşağıdakilerden hangisidir? A) Elektronik görüntü sabitleme (EIS) B) Optik görüntü sabitleme (OIS) C) Frame Per Second D) Progressive Tarama E) Interlaced Tarama
+    - **Cevap A-) Elektronik görüntü sabitleme (EIS)**
+    - B-) Optik görüntü sabitleme (OIS)
+    - C-) Frame Per Second
+    - D-) Progressive Tarama
+    - E-) Interlaced Tarama
+
+    > **Açıklama:** Ünite 3'te, sabit lensli kameraların titreşim problemine değinilmiş ve bu problemin üstesinden gelmek için EİS (Elektronik Görüntü Sabitleme) ve OİS (Optik Görüntü Sabitleme) sistemlerinin kullanıldığı belirtilmiştir. Ancak soruda mekanik aparat kullanmayan ve hareket bulanıklığını düzeltmenin tek yöntemi sorulmuştur. Mekanik aparatlar (Gimbal, vinç, dolly) haricindeki sabitleme yöntemleri EIS ve OIS'tir. Verilen şıklara göre, EIS elektronik olarak çalışır ve mekanik bir aparat değildir. OIS ise optik mekanik bir yapıya sahiptir. Hareketli görüntü elde etmek için OIS ve EIS'in yanında Gimbal da kullanılır. Ancak soruda 'mekanik bir aparat kullanmayan' ve 'tek yöntemi' soruluyor. Metinde OIS'in kamera gövdesinde yer alan bir sistem olduğu, EIS'in ise elektronik olduğu belirtilmiştir. Eğer 'mekanik aparat' denildiğinde Gimbal kastediliyorsa, EIS bu mekanik sistemlere alternatif bir elektronik çözümdür. Verilen seçeneklerde EIS (Elektronik Görüntü Sabitleme) mekanik bir aparat kullanmadan titreşimi düzelten temel dijital yöntemdir.
+
+    <hr />
+
+### Video Kamera Çeşitleri
+
+1. Hızlı ayar gerektiren elektronik haber toplama (ENG) ve gözlemsel belgesel çekimleri için tasarlanmış kameralar aşağıdakilerden hangisidir?
+    - A-) DSLR ve Aynasız Kameralar
+    - B-) Dijital Sinema Kameraları
+    - C-) Hibrit Kameralar
+    - D-) El Kameraları
+    - **Cevap E-) Büyük Boy Dijital Kameralar**
+
+    > **Açıklama:** Ünite 3'te video kamera çeşitleri sıralanmıştır. El Kameraları (Küçük Boy Dijital Video Kameralar), manuel ayarları az olan, taşıma avantajı sunan, genellikle sabit lensli kameralardır ve hızlı ayar gerektiren elektronik haber toplama (ENG) ve gözlemsel belgesel çekimleri için kullanılırlar.
+
+    <hr />
+
+### Video Kare Hızı
+
+1. Video kameraların görüntülediği ve kayıt altına aldığı saniyedeki kare sayısı aşağıdakilerden hangisiyle tanımlanmaktadır?
+    - A-) Progressive
+    - **Cevap B-) FPS**
+    - C-) İnterlaced
+    - D-) OIS
+    - E-) HDTV
+
+    > **Açıklama:** Video kameraların saniyede kaydettiği veya gösterdiği kare sayısı FPS (Frames Per Second) olarak tanımlanır. Ünite 3'te, hareketli görüntülerin oluşması için bir saniyede 24 kareden başlayarak değişen değerlerde kameraların görüntü toplaması gerektiği ve FPS ile tarama arasındaki bağlantıdan bahsedilmektedir.
+
+    <hr />
+
+### Video Sabitleme Araçları
+
+1. Dijital video kameralarda EIS veya OIS gibi görüntü sabitleme özelliklerinin olmaması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir? *(3 kez soruldu)*
+    - A-) Drone
+    - B-) 3D Dijital Kameralar
+    - C-) Jimmy Jib
+    - D-) Dolly
+    - **Cevap E-) Gimbal**
+
+    > **Açıklama:** Dijital video kameralarda dahili EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) sistemlerinin dışında, hareketli görüntülerde görüntü sabitlemek için Gimbal (dengeleyici), vinç mekanizmaları ve Dolly gibi harici teknik ekipmanlar kullanılır.
+
+    <hr />
+
+### Video Tarama Türleri
+
+1. Video kameraların çok yüksek hızlarda gerçekleştirdiği ve hareketli görüntünün ortaya çıkarılması adına gerekli olan tarama işleminin türleri aşağıdakilerden hangisinde verilmiştir?
+    - A-) 625 (PAL) veya 525 (NTSC).
+    - B-) RAW video ve Log
+    - C-) AVCHD, XDCAM
+    - **Cevap D-) İnterlaced ve Progressive**
+    - E-) Avid ve Final Cut Pro
+
+    > **Açıklama:** Video kameralarda hareketli görüntünün ortaya çıkması için saniyede belirli sayıda kare yakalanır. Bu tarama işlemi Interlaced (birleşik) veya Progressive (aşamalı) olarak iki şekilde gerçekleştirilir ve saniyedeki görüntü toplama süresiyle alakalıdır.
+
+    <hr />
+
+### Video Çözünürlük Standartları
+
+1. Çözünürlüğü 625 (PAL) veya 525 (NTSC) satır olarak tanımlanan TV çözünürlük standardı aşağıdakilerden hangisinde doğru verilmektedir?
+    - A-) HDTV
+    - B-) 4K TV
+    - **Cevap C-) SDTV**
+    - D-) UHDTV
+    - E-) 1920x1080
+
+    > **Açıklama:** PAL (Phase Alternating Line) televizyon sistemi, Avrupa ve diğer bazı bölgelerde kullanılır ve standart dikey çözünürlüğü 625 satırdır. NTSC (National Television System Committee) ise çoğunlukla Kuzey Amerika'da kullanılır ve standart dikey çözünürlüğü 525 satırdır. Bu bilgi Ünite 3 özetinde, dijital video kameraların analogdan dijitale geçişi anlatılırken bahsedilen HDTV ve UHDTV ile ilgili bağlamda yer almaktadır.
 
     <hr />
 
 ## Ünite 4
 
-### Akıllı Telefon Kamera Olumsuzlukları
+### Akıllı Telefon Fotoğrafçılığı
 
 1. Aşağıdakilerden hangisi akıllı telefon kameralarının olumsuz özelliklerinden biridir? A) Görüntülerin kolayca paylaşılabilmesi B) Görüntülerin bulut depolama sistemine kolayca yüklenebilmesi C) Kullanım kolaylığı sağlaması D) Ayarların hızlıca yapılabilmesi E) Sağladığı alan derinliğinin fazla olması
     - A-) Görüntülerin kolayca paylaşılabilmesi
@@ -898,51 +770,22 @@
     - D-) Ayarların hızlıca yapılabilmesi
     - **Cevap E-) Sağladığı alan derinliğinin fazla olması**
 
-    > **Açıklama:** Akıllı telefon kameraları kullanım kolaylığı, paylaşım ve bulut depolama avantajları sunar (Ünite 8). Ancak, Ünite 8'de belirtildiği gibi, akıllı telefonların görüntü kalitesi bağımsız kameralara göre düşüktür ve dijital yakınlaştırma kullanırlar. Ayrıca, sabit odaklı lensler ve küçük sensörler nedeniyle, alan derinliği kontrolü (sığ alan derinliği) bağımsız kameralar kadar iyi değildir. Seçenek E, sağladığı alan derinliğinin fazla olması, akıllı telefonlar için bir olumsuzluk değil, aksine bir dezavantajdır çünkü derinlik kontrolü kısıtlıdır.
+    > **Açıklama:** Akıllı telefon kameralarının olumsuz özelliklerinden biri, genellikle sabit odaklı lensler kullanmaları ve dijital yakınlaştırma yapmalarıdır. Dijital yakınlaştırma, optik yakınlaştırmanın aksine, görüntü kalitesini düşürür ve gürültü (noise) pahasına kırpma yapar. Seçeneklerde verilen A, B, C, D ve E şıklarından, E şıkkında belirtilen 'Sağladığı alan derinliğinin fazla olması' doğru değildir; aksine, küçük sensörler nedeniyle alan derinliği kontrolünde (sığ alan derinliği yaratmada) sınırlıdırlar ve daha fazla alan derinliği (derinlik) eğilimi gösterirler (Ünite 2'de bahsedilen kompakt kameralarla benzerlik gösterir).
 
     <hr />
 
-### Bilgisayar Donanım Birimleri
+### Filtre Çeşitleri
 
-1. Bilgisayarlarda yer alan geçici bellek birimi aşağıdakilerden hangisidir? A) CPU B) SSD C) GPU D) RAM E) ROM
-    - A-) CPU
-    - B-) SSD
-    - C-) GPU
-    - **Cevap D-) RAM**
-    - E-) ROM
+1. ------- filtreler renkleri güçlendiren yapıya sahiptirler. ------- filtreler ise dimer olarak renk kaybı olmadan ışığı doğal şekilde azaltırlar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+    - A-) Polarize – UV
+    - B-) ND – UV
+    - C-) UV - ND
+    - D-) ND - Polarize
+    - **Cevap E-) Polarize - ND**
 
-    > **Açıklama:** Ünite 4'te Depolama Çözümleri kısmında, eskiden kullanılan CD ve DVD'lere alternatif olarak SSD disklerin kullanıldığı belirtilmiştir. SSD (Solid State Disk), veriyi depolamak için elektriksel hücreler kullanır. Ancak geçici bellek (önbellek) için kullanılan birim RAM'dir (Random Access Memory). CPU (İşlemci) temel işlem birimiyken, RAM geçici ve hızlı bellek olarak kullanılır.
-
-    <hr />
-
-### Depolama Çözümleri
-
-1. Veri depolama ve yedekleme için kullanılan, çoklu hard disklerden oluşan, yerel ağ ya da internet üzerinden içerisindeki verilere erişim sağlanabilen ünitelere ne ad verilir?
-    - A-) RAID
-    - **Cevap B-) Ağ depolama (NAS)**
-    - C-) Katı hal diski (SSD)
-    - D-) CFast kart
-    - E-) Yerel sürücü
-
-    > **Açıklama:** NAS (Network Attached Storage - Ağ Üzerinde Bağlı Depolama), birden fazla sabit diski kullanarak verileri yerel ağ veya internet üzerinden erişilebilir kılmak için kullanılan bir depolama sistemidir. Bu, yedekleme ve veri erişimi için tercih edilen bir yöntemdir.
+    > **Açıklama:** Ünite 4'teki bilgilere göre, UV filtreleri lensleri dış etkenlerden korur ancak temel işlevleri bu değildir. ND (Neutral Density) filtreler, ışığı doğal şekilde azaltır ve böylece renk kaybı olmadan pozlamayı ayarlamaya yardımcı olur. Polarize filtreler ise renkleri güçlendirme (doygunluk artırma) eğilimindedir. Cümlede boş bırakılan yerler sırasıyla '--------- filtreler renkleri güçlendiren yapıya sahiptirler' ve '--------- filtreler ise dimer olarak renk kaybı olmadan ışığı doğal şekilde azaltırlar' ifadeleriyle tamamlanmalıdır. Güçlendiren filtre Polarize, azaltan filtre ND'dir. Ancak sorunun doğru kabul edilen şıkkı E (Polarize - ND) olduğu için, Polarize filtreler renkleri güçlendirir (doygunlaştırır) ve ND filtreler de doğal şekilde ışığı azaltarak (dimer olarak) renk kaybı olmadan pozlama yapmaya olanak tanır.
 
     <hr />
-
-### Dijital TV Yayın Türleri
-
-1. Açık internet ağını kullanarak sayısal televizyon hizmetleri sunan TV yayıncılık türü aşağıdakilerden hangisidir?
-    - **Cevap A-) IPTV**
-    - B-) Web TV
-    - C-) Pay TV
-    - D-) Mobil TV
-    - E-) Analog yayıncılık
-
-    > **Açıklama:** Açık internet ağını kullanarak sayısal televizyon hizmetleri sunan yayın türü Web TV'dir (İnternet TV). Web TV, televizyonun hem bilgisayara hem de telefon hattına bağlanabilmesiyle ortaya çıkmış ve televizyonun hem televizyon sinyallerini hem de internet hizmetlerini almasına imkân tanımıştır (Ünite 4).
-
-    <hr />
-
-### Filtre Türleri
-
 1. Su, cam gibi yüzeylerden yansıyarak objektife giren ışığı kesip yansıma parlamaları azaltan, iki kat optikten oluşan filtrelere ne ad verilir? A) Polarize filtre B) UV filtre C) ND filtre D) Kızılötesi filtre E) Macro filtre
     - **Cevap A-) Polarize filtre**
     - B-) UV filtre
@@ -950,56 +793,20 @@
     - D-) Kızılötesi filtre
     - E-) Macro filtre
 
-    > **Açıklama:** Ünite 4'te Filtreler başlığı altında, Polarize Filtreler hakkında bilgi verilmemiştir, ancak UV Filtreleri, ND Filtreleri, Renk Düzeltme Filtreleri, Kızılötesi (IR) Filtreler ve Macro (Close Up) Filtreler listelenmiştir. Ancak, genel bilgiye göre, yansımaları azaltmak ve su veya cam gibi yüzeylerden gelen parlamaları kesmek için kullanılan filtre Polarize Filtrelerdir. Polarize filtrelerin iki kat optikten oluşması ve yansımaları azaltma işlevi, bu tanıma uymaktadır.
+    > **Açıklama:** Polarize filtreler, yüzeylerden yansıyan ışığı keserek yansıma parlamalarını azaltmak için kullanılır. Ayrıca, iki kat optikten oluşan filtreler olarak da bilinirler. Ünite 4'te Polarize Filtrelerin, ışığın polarizasyonunu kontrol ederek yansımaları azalttığı belirtilmiştir.
 
     <hr />
 
-### Filtreler
+### Flaş Kalibrasyonu ve CRI
 
-1. ------- filtreler renkleri güçlendiren yapıya sahiptirler. ------- filtreler ise dimer olarak renk kaybı olmadan ışığı doğal şekilde azaltırlar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Polarize – UV
-    - B-) ND – UV
-    - C-) UV - ND
-    - **Cevap D-) ND - Polarize**
-    - E-) Polarize - ND
-
-    > **Açıklama:** Ünite 4'te filtreler anlatılmıştır. Renkleri güçlendiren, renk sapmalarını düzelten filtreler Renk Düzeltme Filtreleri'dir. Renk kayıpları olmadan ışığı azaltmak için kullanılan filtreler ise ND (Neutral Density - Nötr Yoğunluk) filtrelerdir. Cümledeki 'renkleri güçlendiren yapıya sahip' (Renk Düzeltme Filtreleri) ve 'dimer olarak renk kaybı olmadan ışığı doğal şekilde azaltırlar' (ND filtreleri) ifadeleri bu iki filtre türünü tanımlamaktadır.
-
-    <hr />
-1. Aşağıdakilerden hangisi güneşten gelen mavi ve mor ötesi ışınları %99 oranında emerek daha berrak görüntü elde edilmesini sağlarlar?
-    - A-) Renk düzeltme filtreleri
-    - B-) ND (Netural Density) filtreler
-    - C-) Makro filtreler
-    - D-) Polarize filtreler
-    - **Cevap E-) UV (UltraViole) filtreler**
-
-    > **Açıklama:** Ünite 4'te, filtrelerin lensleri dış etkenlere karşı korumada kullanıldığı ancak asıl işlevlerinin farklı avantajlar sağlamak olduğu belirtilmiştir. UV filtreleri, lensleri dış etkenlerden korur. Renk düzeltme filtreleri renkleri ayarlar. Polarize filtreler yansımaları azaltır. Metinde, güneşten gelen mavi ve mor ötesi ışınları emerek daha berrak görüntü elde edilmesini sağlayan spesifik bir filtre türü (genellikle UV filtrelerin gelişmiş versiyonları veya özel UV filtreler) tanımlanmamıştır; ancak UV filtreler genel olarak ışığı düzenler ve bazen bu tür zararlı ışınları engeller.
-
-    <hr />
-
-### Filtreler ve Yansıtıcılar
-
-1. Su, cam gibi yüzeylerden yansıyarak objektife giren ışığı kesip yansıma parlamaları azaltan, iki kat optikten oluşan filtrelere ne ad verilir?
-    - A-) Kızılötesi filtre
-    - B-) ND filtre
-    - C-) Macro filtre
-    - D-) UV filtre
-    - **Cevap E-) Polarize filtre**
-
-    > **Açıklama:** İki kat optikten oluşan ve su, cam gibi yüzeylerden yansıyan ışığı keserek parlamaları azaltan filtreler Polarize Filtrelerdir. Metinde Polarize Filtrelerin (Polarize Filtreler) bir özelliği olarak bu durum belirtilmektedir.
-
-    <hr />
-
-### Flaş ve ışık kalibrasyonu
-
-1. Bir ışık kaynağının doğal güneş ışığı ile karşılaştırıldığında, nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değer aşağıdakilerden hangisidir?
+1. Bir ışık kaynağının doğal güneş ışığı ile karşılaştırıldığında, nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değer aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - A-) LED
     - B-) UV
     - C-) TLCI
     - **Cevap D-) CRI**
     - E-) ND
 
-    > **Açıklama:** Ünite 4'te Flaşın Tutarlılığı başlığı altında, flaşın yaydığı ışığın renk sıcaklığının 5500 K civarında, yani gün ışığına yakın olduğu belirtilir. Işık kaynaklarının özelliklerini tanımlarken, 'CRI (Color Rendering Index) üretilen ışığın doğal ışığa ne kadar yakın olduğunu belirleyen bir değer' olarak tanımlanmıştır. Bu değer, ışığın renkleri ne kadar doğal gösterebildiğini ifade eder.
+    > **Açıklama:** Flaşların veya ışık kaynaklarının yaydığı ışığın, doğal güneş ışığı ile karşılaştırıldığında nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değere CRI (Color Rendering Index) değeri denir. CRI değeri ne kadar yüksekse, ışık renkleri o kadar doğal gösterir.
 
     <hr />
 
@@ -1012,89 +819,24 @@
     - D-) İçerik Kaydı (PVR)
     - E-) Elektronik Program Rehberi (EPG)
 
-    > **Açıklama:** IPTV (Internet Protocol Television), internet protokol televizyonu anlamına gelir ve kullanıcıların antenler, uydu çanakları veya fiber optik kablolar yerine internet üzerinden televizyon programları almalarını gerektirir. Ünite 4'te IPTV'nin temel işlevleri arasında VOD (İsteğe Bağlı Video), içerik kaydı (PVR/HDTV sonrası) ve Elektronik Program Rehberi (EPG) sayılabilir. Öde-İzle (Pay TV) de IPTV'nin ticari modellerindendir. Ancak, Ünite 4'teki metinde IPTV'nin üç boyutlu izleme (Watch-3D) hizmeti sunduğuna dair doğrudan bir bilgi bulunmamaktadır.
+    > **Açıklama:** IPTV (Internet Protocol Television), internet protokol televizyonu anlamına gelir ve kullanıcıların antenler, uydu çanakları veya fiber optik kablolar yerine internet üzerinden televizyon programları almalarını gerektirir. IPTV hizmetleri genellikle VOD (İsteğe Bağlı Video), PVR (İçerik Kaydı) ve EPG (Elektronik Program Rehberi) gibi hizmetleri içerir. 3D İzleme (Watch-3D) ise IPTV altyapısının zorunlu veya standart bir özelliği olarak metinde bahsedilmemiştir; bu daha çok yeni ortaya çıkan uygulamalar başlığı altında, genel olarak dijital video teknolojileri bağlamında anılabilir, ancak IPTV'nin temel bileşenlerinden biri değildir.
 
     <hr />
 
-### Işık Kalitesi Ölçütleri
+### Işık Şekillendiriciler Filtreler
 
-1. Bir ışık kaynağının, doğal güneş ışığı ile karşılaştırıldığında, nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değer aşağıdakilerden hangisidir? A) UV B) Polarize C) CRI D) LED E) TLCI
-    - A-) UV
-    - B-) Polarize
-    - **Cevap C-) CRI**
-    - D-) LED
-    - E-) TLCI
-
-    > **Açıklama:** Ünite 4'te Dijital Görüntülemede Işıklar başlığı altında, ışığın CRI (Color Rendering Index) değerinin, üretilen ışığın doğal ışığa ne kadar yakın olduğunu belirttiği açıklanmıştır. TLCI ise kayıt cihazı tarafından ne kadarının görülebildiğini gösterir. Dolayısıyla, doğal güneş ışığı ile karşılaştırma CRI değeri ile yapılır.
-
-    <hr />
-
-### Işık Ölçüm Değerleri
-
-1. Bir ışık kaynağının doğal güneş ışığı ile karşılaştırıldığında, nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değer aşağıdakilerden hangisidir?
-    - **Cevap A-) CRI**
-    - B-) LED
-    - C-) TLCI
-    - D-) UV
-    - E-) ND
-
-    > **Açıklama:** Ünite 4'te, ışık kaynaklarının teknik özelliklerinden bahsedilmiştir. Işığın CRI (Color Rendering Index) değeri, üretilen ışığın doğal ışığa ne kadar yakın olduğunu belirler. Yüksek CRI değeri, nesnelerin tam ve doğal renklerini gösterme yeteneğinin yüksek olduğunu ifade eder.
-
-    <hr />
-
-### Işık Şekillendiriciler
-
-1. Su, cam gibi yüzeylerden yansıyarak objektife giren ışığı kesip yansıma parlamaları azaltan, iki kat optikten oluşan filtrelere ne ad verilir?
+1. Su, cam gibi yüzeylerden yansıyarak objektife giren ışığı kesip yansıma parlamaları azaltan, iki kat optikten oluşan filtrelere ne ad verilir? *(2 kez soruldu)*
     - **Cevap A-) Polarize filtre**
     - B-) Macro filtre
     - C-) ND filtre
     - D-) Kızılötesi filtre
     - E-) UV filtre
 
-    > **Açıklama:** Yansıtıcı/Reflektörler ışığı yansıtarak kullanılır. Özellikle ışığı yumuşatmak ve gölgede kalan detayları görünür kılmak için kullanılan katlanabilir reflektörler, dolgu ışığı olarak kullanılır. Ancak iki kat optikten oluşan ve yansımayı azaltan bir filtre tipi doğrudan belirtilmemiştir. Sorunun tanımı daha çok iki katmanlı bir reflektörün dolgu ışığı işlevine benzemektedir. Ancak verilen seçenekler ışık şekillendiriciler başlığı altındadır. Işık yansımalarını azaltan ve kontrastlığı düşüren temel araçlar Difüzörlerdir (Dağıtıcı), ancak bu iki kat optik ve yansıma azaltma tanımına en yakın olanlar, ışık şekillendiriciler altında yer alan reflektörlerin veya dağıtıcıların işlevleridir. Yanıt, en yaygın kullanılan ışık şekillendiricilerden biri olan ve ışığı yumuşatıp yansımaları azaltan şemsiyeler veya softboxlar olabilir. Soruda geçen 'iki kat optikten oluşan filtre' terimi, DSLR anatomisindeki filtrelerden ziyade, ışık şekillendiricilere odaklanmayı işaret eder. Işık yansımalarını azaltan ve yaygın kullanılan araçlar Softbox ve Şemsiyelerdir. Ancak verilen metinde 'Reflektörler' ve 'Katlanabilir Reflektörler' ışığı yansıtma işlevi görürken, 'Difüzörler' (Dağıtıcı) ışık kaynağı ile özne arasına yerleştirilerek sert ışığın kontrastlığını düşürür (Ünite 4).
+    > **Açıklama:** Işığı kesip yansıtma parlamalarını azaltmak için kullanılan, iki kat optikten oluşan filtreler Polarize Filtreler'dir. Bu filtreler, özellikle parlak yüzeyli nesnelerin çekimlerinde yansımaları kontrol etmek için kullanılır.
 
     <hr />
 
-### Monitör Teknolojileri
-
-1. Aşağıdakilerden hangisi temel düzey monitör gruplarından biri değildir?
-    - A-) VGA
-    - **Cevap B-) AMOLED**
-    - C-) OLED
-    - D-) LED
-    - E-) LCD
-
-    > **Açıklama:** Temel düzey monitör formatları TN, IPS (PLS, AHVA) ve VA paneller olarak sınıflandırılır. Bu gruplar, ekranın panel teknolojisine göre ayrımını gösterir. Hangi panel tipi olursa olsun, monitörler piksellerden oluşur.
-
-    <hr />
-
-### Monitör Türleri
-
-1. Oyunlarda tercih edilecek monitörün tepki süresi ve yenileme hızı en önemli iki faktördür. Oyunlarda görüntüler çok hızlı aktığı için, daha akışkan ve gerçekçi bir deneyim sağlamak adına tepki süresi düşük, ekran yenileme hızı yüksek olmalıdır. Bu bilgiye göre, aşağıdaki monitör türlerinden hangisi tercih edilebilir?
-    - A-) IPS
-    - **Cevap B-) TN paneller**
-    - C-) PLS
-    - D-) AHVA
-    - E-) VA paneller
-
-    > **Açıklama:** Ünite 4'te monitörlerin TN, IPS (PLS, AHVA) ve VA panellerden üretildiği belirtilmiştir. Oyunlarda tepki süresinin düşük olması (hızlı aktarım) ve ekran yenileme hızının yüksek olması akışkan ve gerçekçi deneyim için önemlidir. Genellikle, tepki süresi en düşük ve yenileme hızı en yüksek olan monitör türleri, oyun performansı için tercih edilir (genellikle TN paneller bu konuda öne çıkar, ancak modern yüksek yenileme hızlı IPS paneller de rekabetçidir). Verilen seçenekler arasında, oyunlarda en çok tercih edilen düşük tepki süresi ve yüksek yenileme hızı özelliklerini destekleyen TN paneller bu amaç için en uygunudur.
-
-    <hr />
-
-### Monitör panel türleri
-
-1. Farklı açılardan bakıldığında görüntü kalitesi değiştiği için hassas renk kontrolü gereken fotoğrafçılık gibi alanlarda tercih edilmemesi gereken monitör panel türü aşağıdakilerden hangisidir?
-    - A-) IPS
-    - B-) 4K
-    - C-) HD
-    - **Cevap D-) TN**
-    - E-) VA
-
-    > **Açıklama:** Ünite 4'te monitör panel türleri (TN, IPS/PLS/AHVA, VA) anlatılmıştır. TN panellerin en temel özelliği, görüntüleme açısı değiştiğinde renk ve kontrast kayıplarının belirginleşmesidir. Bu nedenle, hassas renk kontrolü gereken (örneğin fotoğrafçılık gibi) alanlarda tercih edilmemeleri gerektiği ima edilmektedir. VA paneller ise genellikle en iyi kontrastı sunarken, IPS/PLS/AHVA panellerin geniş görüntüleme açısı ve renk doğruluğu nedeniyle profesyonel işlerde tercih edildiği anlaşılmaktadır. Renk doğruluğu ve görüş açısının hassasiyet gerektirdiği alanlarda TN panellerin dezavantajlı olduğu temel bilgidir.
-
-    <hr />
-
-### Renk Ölçer Kullanımı
+### Monitör Kalibrasyonu
 
 1. Renk metre ya da renk ölçer (colorimeter) adı verilen cihazın temel kullanım amacı aşağıdakilerden hangisidir?
     - A-) LUT kalibrasyonu
@@ -1103,7 +845,59 @@
     - D-) Işık ölçümü
     - E-) Beyaz ayarı
 
-    > **Açıklama:** Renk metre ya da renk ölçer (colorimeter) cihazları, monitörün renk ve parlaklık ayarlarını ortamdaki ışık ve diğer etkenlerden bağımsız olarak doğru bir şekilde ayarlamaya yardımcı olur, yani renk kalibrasyonu için kullanılır. Ünite 4'te, "Renkli kızılötesi filtre (color and infared filter), görüntü oluşturulurken sensöre istenilen dalga boyundaki infrared ışığın ulaşmasını sağlar." ifadesi geçmektedir, ancak daha genel anlamda renk kalibrasyonu için kullanılır. En doğru açıklama renk kalibrasyonudur. Ünite 4'te harici renk ölçer cihazların, monitörün renk ve parlaklık ayarlarını doğru ayarlamaya yardımcı olduğu belirtilmiştir.
+    > **Açıklama:** Ünite 4'te 'Monitör Kalibrasyonu' altında, renk metre (ColoriMeter) cihazlarının, monitörün renk ve parlaklık ayarlarını ortam ışığından bağımsız olarak doğru ayarlamaya yardımcı olduğu belirtilmiştir.
+
+    <hr />
+
+### Monitör Panel Tipleri
+
+1. LCD teknolojisinin en eski panel türü aşağıdakilerden hangisidir?
+    - A-) PLS
+    - B-) IPS
+    - **Cevap C-) TN**
+    - D-) VA
+    - E-) AHVA
+
+    > **Açıklama:** Monitörler TN, IPS (PLS, AHVA) ve VA paneller olmak üzere farklı formatlarda üretilirler. TN (Twisted Nematic) paneller, LCD teknolojisindeki en eski panel türüdür (Ünite 4).
+
+    <hr />
+
+### Monitör Panel Türleri
+
+1. Farklı açılardan bakıldığında görüntü kalitesi değiştiği için hassas renk kontrolü gereken fotoğrafçılık gibi alanlarda tercih edilmemesi gereken monitör panel türü aşağıdakilerden hangisidir?
+    - A-) IPS
+    - B-) 4K
+    - C-) HD
+    - **Cevap D-) TN**
+    - E-) VA
+
+    > **Açıklama:** Monitörler TN, IPS (PLS, AHVA) ve VA paneller olmak üzere farklı formatlarda üretilir. IPS paneller, geniş görüş açısı ve renk tutarlılığı sağlarken, VA panellerin renk ve kontrast avantajı olmasına rağmen, görüntüleme açısı (farklı açılardan bakıldığında) hassas renk kontrolü gerektiren alanlarda (grafik tasarım gibi) sorun yaratabilir ve bu nedenle tercih edilmeyebilirler.
+
+    <hr />
+
+### Monitör Teknolojileri
+
+1. Aşağıdakilerden hangisi temel düzey monitör gruplarından biri değildir?
+    - **Cevap A-) VGA**
+    - B-) AMOLED
+    - C-) OLED
+    - D-) LED
+    - E-) LCD
+
+    > **Açıklama:** Ünite 4'te monitörler farklı panel formatlarında TN, IPS (PLS, AHVA) ve VA paneller olarak sınıflandırılmıştır. AMOLED, OLED ve LED/LCD ise ekran teknolojileridir, ancak VGA (Video Graphics Array) eski bir analog video çıkış standardıdır ve temel monitör gruplamasına dahil edilen panel teknolojisi değildir.
+
+    <hr />
+
+### Monitörler ve Oyun
+
+1. Oyunlarda tercih edilecek monitörün tepki süresi ve yenileme hızı en önemli iki faktördür. Oyunlarda görüntüler çok hızlı aktığı için, daha akışkan ve gerçekçi bir deneyim sağlamak adına tepki süresi düşük, ekran yenileme hızı yüksek olmalıdır. Bu bilgiye göre, aşağıdaki monitör türlerinden hangisi tercih edilebilir?
+    - A-) IPS
+    - **Cevap B-) TN paneller**
+    - C-) PLS
+    - D-) AHVA
+    - E-) VA paneller
+
+    > **Açıklama:** Ünite 4'te monitörlerin farklı kullanım amaçlarına göre (oyun, fotoğraf işleme, tasarım) farklı özelliklere sahip olması gerektiği belirtilmiştir. Oyunlar için en önemli iki faktör tepki süresi (düşük olmalı) ve ekran yenileme hızıdır (yüksek olmalı). IPS paneller (PLS, AHVA) renk doğruluğu sağlasa da tepki süreleri genellikle TN panellere göre daha yavaştır. TN paneller, en hızlı tepki sürelerini sunarak hareket bulanıklığını en aza indirdiği için oyunlarda tercih edilir.
 
     <hr />
 
@@ -1116,56 +910,20 @@
     - D-) Mobil TV
     - E-) Pay TV
 
-    > **Açıklama:** Web TV (İnternet TV), açık internet ağını kullanarak sayısal televizyon hizmetlerini sunan bir teknolojidir. Televizyonun hem bilgisayara hem de telefon hattına bağlanabilmesiyle ortaya çıkan Web TV, televizyonun hem televizyon sinyallerini hem de internet hizmetlerini almasına imkân tanır (Ünite 4).
-
-    <hr />
-1. Açık internet ağını kullanarak sayısal televizyon hizmetleri sunan TV yayıncılık türü aşağıdakilerden hangisidir?
-    - A-) Analog yayıncılık
-    - **Cevap B-) IPTV**
-    - C-) Web TV
-    - D-) Mobil TV
-    - E-) Pay TV
-
-    > **Açıklama:** Açık internet ağını kullanmak yoluyla sayısal televizyon hizmetlerini sunan yayın türü Web TV (İnternet TV) olarak adlandırılır. Ünite 4'te belirtildiği gibi Web TV, televizyonun hem televizyon sinyallerini hem de internet hizmetlerini almasına imkân tanır.
-
-    <hr />
-
-### TV Yayın Türleri
-
-1. Açık internet ağını kullanarak sayısal televizyon hizmetleri sunan TV yayıncılık türü aşağıdakilerden hangisidir?
-    - A-) Mobil TV
-    - **Cevap B-) Web TV**
-    - C-) Pay TV
-    - D-) IPTV
-    - E-) Yayıncılık
-
-    > **Açıklama:** Açık internet ağını kullanmak yoluyla sayısal televizyon hizmetlerini sunan TV yayıncılık türü Web TV (İnternet TV) olarak adlandırılır. Web TV, televizyonun hem televizyon sinyallerini hem de internet hizmetlerini almasına imkân tanır.
-
-    <hr />
-
-### Telekomünikasyon ve Dijitalleşme
-
-1. Aşağıdakilerden hangisi telekomünikasyon sektöründeki artan rekabetin sonuçlarından biridir?
-    - A-) Cep telefonu fiyatlarının yükselmesi
-    - **Cevap B-) Cep telefonlarının hafiflemesi**
-    - C-) Kitlelerin gündeme olan ilgisini yitirmesi
-    - D-) Cep telefonlarının bir statü göstergesine dönüşmesi
-    - E-) Cep telefonlarının bir lüks ürüne dönüşmesi
-
-    > **Açıklama:** Telekomünikasyon sektöründeki rekabetin artması sonucunda cep telefonlarının daha hafif olmasına, ağ altyapısının gelişmesine ve düşük ücretli tarifelerin uygulanmasına yol açtığı belirtilmiştir. Bu durum, cep telefonlarının sadece konuşma ihtiyacının ötesine geçerek 'kişisel' bir cihaza dönüşmesini sağlamıştır.
+    > **Açıklama:** Web TV (İnternet TV), açık internet ağını kullanmak yoluyla sayısal televizyon hizmetlerini sunan teknolojidir. Bu yayın türünde, televizyonun hem bilgisayara hem de telefon hattına bağlanabilmesiyle, hem televizyon sinyallerini hem de internet hizmetlerini almasına imkân tanınır.
 
     <hr />
 
 ### Veri Depolama Çözümleri
 
-1. Veri depolama ve yedekleme için kullanılan, çoklu hard disklerden oluşan, yerel ağ ya da internet üzerinden içerisindeki verilere erişim sağlanabilen ünitelere ne ad verilir?
+1. Veri depolama ve yedekleme için kullanılan, çoklu hard disklerden oluşan, yerel ağ ya da internet üzerinden içerisindeki verilere erişim sağlanabilen ünitelere ne ad verilir? *(3 kez soruldu)*
     - A-) Yerel sürücü
-    - B-) CFast kart
-    - C-) Katı hal diski (SSD)
-    - **Cevap D-) Ağ depolama (NAS)**
-    - E-) RAID
+    - **Cevap B-) Ağ depolama (NAS)**
+    - C-) RAID
+    - D-) CFast kart
+    - E-) Katı hal diski (SSD)
 
-    > **Açıklama:** Ünite 4'te, veri depolama çözümleri arasında SSD diskler ve bulut tabanlı çözümlerin popülerleştiği belirtilmiştir. Ancak, özellikle birden fazla sabit diskten oluşan, yerel ağ veya internet üzerinden erişim sağlanan yedekleme sistemleri için kullanılan terim NAS (Network Attached Storage)'dir. Bu sistemler, verilerin güvenli bir şekilde saklanmasını ve ağ üzerinden paylaşılmasını sağlar.
+    > **Açıklama:** Veri depolama ve yedekleme için kullanılan, çoklu sabit disklerden oluşan, yerel ağ (network) üzerinden erişim sağlayan sistemlere NAS (Network Attached Storage) adı verilir. Bu sistemler veri yedekleme ve güvenli saklama için tercih edilir.
 
     <hr />
 
@@ -1178,37 +936,37 @@
     - D-) Helicon Focus
     - **Cevap E-) Stellar Data Recover**
 
-    > **Açıklama:** Zarar gören ve kaybolan dosyaları kurtarmak için kullanılan yazılımlar arasında Rescue Pro Deluxe ve Stellar Data Recover öne çıkmaktadır (Ünite 4).
-
-    <hr />
-
-### Veri depolama çözümleri
-
-1. Veri depolama ve yedekleme için kullanılan, çoklu hard disklerden oluşan, yerel ağ ya da internet üzerinden içerisindeki verilere erişim sağlanabilen ünitelere ne ad verilir?
-    - A-) Yerel sürücü
-    - **Cevap B-) Ağ depolama (NAS)**
-    - C-) RAID
-    - D-) CFast kart
-    - E-) Katı hal diski (SSD)
-
-    > **Açıklama:** Ünite 4'te depolama çözümleri anlatılmıştır. Bellek kartları (SD, CF, XQD vb.) ve SSD'ler kişisel depolama araçlarıdır. Bulut tabanlı çözümler de mevcuttur. NAS (Network Attached Storage), iki ve daha fazla sayıda sabit diskten network sistemi kurarak çalıştırılan ve yerel ağ ya da internet üzerinden erişilebilen yedekleme sistemidir.
+    > **Açıklama:** Rescue Pro Deluxe ve Stellar Data Recover, zarar gören ve kaybolan dosyaları kurtarmak için sıklıkla kullanılan yazılımlardandır. Ünite 4'te Yedekleme ve Veri Kurtarma Yazılımları altında bu yazılımların adı geçmektedir.
 
     <hr />
 
 ### Yazıcı Teknolojileri
 
-1. Görüntüyü oluşturmak için, içi katı mürekkeple dolu tonerler kullanan, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve böylece kâğıt üzerinde herhangi bir dağılma veya taşma olmadan baskı yapılabilen yazıcılar hangi tip yazıcılardır?
-    - A-) Ofset
-    - B-) Süblimasyon
-    - C-) Mürekkep püskürtmeli
-    - **Cevap D-) Lazer**
+1. Görüntüyü oluşturmak için, içi katı mürekkeple dolu tonerler kullanan, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve böylece kâğıt üzerinde herhangi bir dağılma veya taşma olmadan baskı yapılabilen yazıcılar hangi tip yazıcılardır? *(2 kez soruldu)*
+    - **Cevap A-) Lazer**
+    - B-) Mürekkep püskürtmeli
+    - C-) Süblimasyon
+    - D-) Ofset
     - E-) Dijital
 
-    > **Açıklama:** Tanımlanan yazıcı tipi (statik elektrik kullanarak katı mürekkebi ısıtarak aktarma) Lazer yazıcıların temel çalışma prensibine (toner kullanımı) benzerdir, ancak bu tanım özellikle 'Solid Ink' (Katı Hâldeki Diskler) yazıcılarını tarif etmektedir. Ancak verilen seçenekler arasında Lazer, Mürekkep Püskürtmeli (Inkjet), Süblimasyon ve Termal bulunmaktadır. Soruda tarif edilen (statik elektrik ile katı mürekkebi kağıt üzerine ısıtarak aktarma) yöntem, Lazer yazıcılara en yakın olanıdır (toner tozunu eriterek baskı yapma). Ancak, daha kesin bir ifadeyle, katı mürekkebi eriten ve kâğıda aktaran teknoloji genellikle 'Solid Ink' yazıcılardır. Lazer yazıcılar da toner kullanır, ancak bu genelde kuru tozun statik elektrik ile aktarılması ve ısıtılmasıdır. Şıklar arasında 'Solid Ink' olmadığı için, en yaygın ve benzer olan 'Lazer' seçeneği veya genel bir baskı teknolojisi olarak 'Lazer' kabul edilebilir. Ancak, ünite 4'te Lazer ve Mürekkep Püskürtmeli en yaygın türler olarak listelenmiştir. Soruda tanımlanan (ısıtarak katı mürekkebi aktarma) özellik en iyi Lazer yazıcıları tanımlamaktadır.
+    > **Açıklama:** Katı hal (Solid State Disk) gibi elektriksel hücreler kullanan yazıcılar değil, termal, nokta vuruşlu, inkjet, lazer ve süblimasyon gibi tipler vardır. Solid Ink, katı mürekkebi eriterek kullanan bir teknoloji iken, burada bahsedilen, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve taşma olmayan baskıyı sağlayan yazıcılar 'Lazer' yazıcılardır.
 
     <hr />
 
-### Yazıcı Türleri
+### Yazıcı Tipleri
+
+1. Görüntüyü oluşturmak için, içi mürekkeple dolu tonerler kullanan, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve böylece kâğıt üzerinde herhangi bir dağılma veya taşma olmadan baskı yapılabilen yazıcılar hangi tip yazıcılardır?
+    - A-) Ofset
+    - B-) Mürekkep püskürtmeli
+    - C-) Süblimasyon
+    - **Cevap D-) Lazer**
+    - E-) Dijital
+
+    > **Açıklama:** Söz konusu tanım (toner, statik elektrik, ısıtma ile katı mürekkep aktarımı) Lazer yazıcıların çalışma prensibini açıklamaktadır. Ünite 4'te yazıcılar termal, nokta vuruşlu, mürekkep püskürtmeli (inkjet), lazer ve süblimasyon olarak sınıflandırılmıştır. Lazer yazıcılar, tonerleri eriterek kalıcı ve dağılma yapmayan baskılar üretir.
+
+    <hr />
+
+### Yazıcılar
 
 1. Kâğıttan farklı olarak, kumaş, seramik gibi malzemelere baskı yapılmas, istendiğinde aşağıdakilerden hangisi kullanılmalıdır?
     - A-) Tarayıcılar
@@ -1217,68 +975,58 @@
     - D-) Lazer yazıcılar
     - E-) Mürekkep püskürtmeli yazıcılar
 
-    > **Açıklama:** Ünite 4'te, yazıcıların mürekkep püskürtmeli (inkjet) ve lazer yazıcılar başta olmak üzere termal, nokta vuruşlu ve süblimasyon gibi farklı özelliklerde baskı yapabildiği belirtilmiştir. Kumaş, seramik gibi malzemelere baskı yapabilen gelişmiş yazıcılar mevcuttur. Süblimasyon baskı, özellikle kumaşlar ve sert yüzeyler için idealdir ve renklerin kağıda aktarılmasından farklı olarak malzemenin içine nüfuz etmesini sağlar, bu da kumaş baskıları için uygun bir yöntemdir.
+    > **Açıklama:** Ünite 4'te yazıcıların farklı malzemelere baskı yapabilme yeteneklerinden bahsedilmektedir. Geleneksel olarak kâğıt üzerine baskı yapan yazıcıların yanı sıra, kumaş, ahşap, metal gibi yüzeylere baskı yapabilen gelişmiş yazıcıların da mevcut olduğu belirtilmiştir. Bu tür malzemelere doğrudan baskı yapabilen teknolojiler genellikle UV (Ultraviyole) baskı teknolojisi kullanan yazıcılardır.
 
     <hr />
 
-### Yazıcı türleri
+### İşleme Yazılımları
 
-1. Görüntüyü oluşturmak için, içi katı mürekkeple dolu tonerler kullanan, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve böylece kâğıt üzerinde herhangi bir dağılma veya taşma olmadan baskı yapılabilen yazıcılar hangi tip yazıcılardır?
-    - **Cevap A-) Lazer**
-    - B-) Mürekkep püskürtmeli
-    - C-) Süblimasyon
-    - D-) Ofset
-    - E-) Dijital
-
-    > **Açıklama:** Ünite 4'te yazıcı türleri arasında mürekkep püskürtmeli ve lazer yazıcıların en yaygın olduğu belirtilmiştir. Katı hal diskleri (SSD) veya manyetik bantlar yerine, 'katı mürekkep' kullanan ve bu mürekkebi statik elektrik ile ısıtarak kâğıda aktaran yazıcılar 'Solid Ink' yazıcılardır. Cümledeki 'içi katı mürekkeple dolu tonerler kullanan' ve 'statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran' tanımı Solid Ink yazıcıları tanımlamaktadır. Lazer yazıcılar kuru toner kullanır ancak katı mürekkep kullanmaz.
-
-    <hr />
-
-### Yazılımlar
-
-1. "Focus Stacking" olarak bilinen farklı noktalara netlik kaydırması yaparak ayrı ayrı elde edilen fotoğrafları birleştirmek suretiyle, daha geniş alan derinliği elde etmek için kullanılan bir yazılımdır. Yukarıda tanımı verilen yazılım aşağıdakilerden hangisidir?
-    - A-) Photoshop
+1. Çekilen fotoğraflar üzerinde renk, keskinlik, ışık ve kompozisyon düzenlemeleri, çekilen fotoğrafların gruplandırılması, keyword girilmesi gibi birçok işlemin yapılmasına olanak sağlayan yazılım aşağıdakilerden hangisidir?
+    - A-) Adobe Photoshop
     - B-) Capture One Pro
-    - C-) Set A Light 3D
-    - D-) Veri Kurtarma Yazılımları
-    - **Cevap E-) Helicon Focus**
+    - **Cevap C-) Helicon focus**
+    - D-) Adobe Bridge
+    - E-) Rescue Pro Deluxe
 
-    > **Açıklama:** Yukarıda tanımı verilen yazılım, 'Focus Stacking' olarak bilinen ve farklı netlik noktalarından elde edilen görüntüleri birleştirerek daha geniş alan derinliği elde etmeyi sağlayan yazılımdır. Bu tanıma uyan yazılım Helicon Focus'tur.
+    > **Açıklama:** Ünite 4'te yazılımlar anlatılmıştır. Capture One Pro, çekilen fotoğraflar üzerinde renk, keskinlik, ışık, kompozisyon düzenlemeleri, gruplandırma, dosyalama ve keyword girilmesi gibi birçok işlemin yapılmasına olanak sağlayan bir yazılımdır. Photoshop ise genel amaçlı bir işleme yazılımıdır.
 
     <hr />
 
 ## Ünite 5
 
-### Beyaz Dengesi
+### Alan Derinliği ve Odaklama
 
-1. Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre göre renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?
-    - A-) Gamma ayarı
-    - **Cevap B-) Beyaz ayarı**
-    - C-) ICC profil ayarı
-    - D-) Pozometre ayarı
-    - E-) Kontrast ayarı
+1. Yer değiştiren görüntünün yarattığı hareket bulanıklığını mekanik bir aparat kullanmadan düzeltmenin tek yöntemi aşağıdakilerden hangisidir?
+    - A-) Progressive Tarama
+    - B-) Frame Per Second
+    - C-) Optik görüntü sabitleme (OIS)
+    - D-) Interlaced Tarama
+    - **Cevap E-) Elektronik görüntü sabitleme (EIS)**
 
-    > **Açıklama:** Beyaz Dengesi (White Balance), çekim öncesinde renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi ile gerçekleştirilir. Bu ayar, ışığın renk ısısına göre renk dengesini tamamlayıcı renk ekleyerek düzeltir (Ünite 5).
+    > **Açıklama:** Ünite 5'te alan derinliğinin üç temel faktörü (diyafram açıklığı, odak uzaklığı ve netleme noktası) açıklanmaktadır. Hareket bulanıklığını (motion blur) kontrol etmek, enstantane hızının ayarlanmasıyla yapılır. Ancak soruda mekanik aparat kullanmadan düzeltme yöntemi sorulmaktadır. Yer değiştiren görüntünün yarattığı hareket bulanıklığını azaltmanın temel mekanik dışı yolu enstantane hızını yükseltmek veya dijital sistemlerde elektronik görüntü sabitleme (EIS) kullanmaktır. Ancak seçenekler arasında en uygun olanı, görüntü sabitleme teknolojilerinin temel prensibi olan, sensörün hareketini algılayarak görüntüyü ters yönde kaydıran mekanik olmayan yöntemdir (Elektronik Görüntü Sabitleme veya EIS/OIS).
 
     <hr />
-1. Aşağıdakilerden hangisi White Balance(Beyaz Dengesi) ayarları arasında yer almaz?
+
+### Beyaz Dengesi
+
+1. Aşağıdakilerden hangisi White Balance(Beyaz Dengesi) ayarları arasında yer almaz? *(2 kez soruldu)*
     - A-) Shade(Gölge)
     - B-) Cloudy (Bulutlu)
     - C-) Fluorescent(Floresan)
     - D-) Daylight(Gün ışığı)
     - **Cevap E-) Depth of field(Alan Derinliği)**
 
-    > **Açıklama:** Beyaz Dengesi (White Balance), fotoğraf görüntülerinin sıcaklık veya soğukluk dengesini tamamlayıcı renk eklenerek düzeltilmesiyle ilgilidir. Bu ayarlar arasında Kelvin (K) cinsinden renk ısısı, AWB (Otomatik Beyaz Dengesi), manuel kontrol ve yazılımla ayarlama bulunur. Histogram ise parlaklık ve renk doygunluğunun grafiğidir, Beyaz Dengesi ayarları arasında yer almaz.
+    > **Açıklama:** Beyaz Dengesi (White Balance), ortam ışığının renk ısısını dengelemek için kullanılır (Kelvin cinsinden ölçülür). Ayarlar genellikle Otomatik Beyaz Dengesi (AWB) veya manuel olarak ayarlanır. Histogram ise parlaklık ve renk doygunluğunu gösteren bir grafiktir, beyaz dengesi ayarı değildir. (Ünite 5, Beyaz Dengesi ve Histogram bölümleri)
 
     <hr />
-1. Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?
+1. Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?
     - **Cevap A-) Beyaz ayarı**
     - B-) Gamma ayarı
     - C-) Kontrast ayarı
     - D-) ICC profil ayarı
     - E-) Pozometre ayarı
 
-    > **Açıklama:** Çekim öncesinde ortamdaki ışık kaynaklarının renk sıcaklığını (Kelvin cinsinden) kamera veya monitöre tanımlama işlemi Beyaz Dengesi (White Balance) ayarı ile gerçekleştirilir. Ünite 5'te Beyaz Dengesi bölümünde, renk sıcaklığının Kelvin (K) cinsinden ölçüldüğü ve beyaz dengesinin ayarlanması gerektiği belirtilmektedir.
+    > **Açıklama:** Ünite 5'te Beyaz Dengesi başlığı altında, Beyaz Dengesi kavramının renk ısısı ile ilişkili olduğu ve bu ayarın, ışık kaynaklarına göre renk sıcaklığını tanımlayarak renklerin doğru algılanmasını sağladığı açıklanmaktadır. Bu, hem otomatik (AWB) hem de manuel olarak ayarlanabilen bir fonksiyondur.
 
     <hr />
 1. Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre renk sıcaklığını fotoğraf makinesine/video kamerasına tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?
@@ -1288,30 +1036,43 @@
     - D-) Kontrast ayarı
     - E-) Pozometre ayarı
 
-    > **Açıklama:** Çekime başlamadan önce, ortamdaki ışık kaynaklarının (doğal ya da suni) renk sıcaklığına göre makinenin renk ayarlarını tanımlama işlemi Beyaz Denge (White Balance) ile gerçekleştirilir. Bu işlem, sıcaklık veya soğukluk dengesini tamamlayıcı renk ekleyerek renklerin doğru algılanmasını sağlar.
-
-    <hr />
-1. Aşağıdakilerden hangisi White Balance(Beyaz Dengesi) ayarları arasında yer almaz?
-    - A-) Daylight(Gün ışığı)
-    - **Cevap B-) Depth of field(Alan Derinliği)**
-    - C-) Shade(Gölge)
-    - D-) Fluorescent(Floresan)
-    - E-) Cloudy(Bulutlu)
-
-    > **Açıklama:** Beyaz Dengesi (White Balance), fotoğrafın renk ısısını (sıcaklık/soğukluk) ayarlamak için kullanılır. Bu ayarlar genellikle AWB (Otomatik Beyaz Dengesi) veya manuel olarak Kelvin (K) cinsinden ayarlanır. Histogram, pozlamanın parlaklığını ve ton dengesini gösteren bir grafiktir; renk yönetimi ile ilgilidir ancak doğrudan Beyaz Dengesi ayarının bir parçası değildir.
+    > **Açıklama:** Çekim öncesinde ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre renk sıcaklığını kamera/video kamerasına tanımlama işlemi Beyaz Denge (White Balance) ayarı ile gerçekleştirilir. Ünite 5'te Beyaz Dengesi başlığı altında, 'Beyaz dengesi, fotoğraf görüntüleri üzerinde önemli bir etkiye sahiptir. Sıcaklık veya soğukluk dengesi tamamlayıcı renk eklenerek düzeltilebilir' ifadesi yer almaktadır.
 
     <hr />
 
-### Beyaz Dengesi Ayarı
+### Beyaz Dengesi Ayarları
 
-1. Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?
+1. Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?
     - **Cevap A-) Beyaz ayarı**
     - B-) Gamma ayarı
     - C-) Kontrast ayarı
     - D-) ICC profil ayarı
     - E-) Pozometre ayarı
 
-    > **Açıklama:** Ünite 5'te Beyaz Dengesi (White Balance) başlığı altında, ortamdaki renk sıcaklığını ayarlama işlemi açıklanmaktadır: "Beyaz dengesi, fotoğraf görüntüleri üzerinde önemli bir etkiye sahiptir. Sıcaklık veya soğukluk dengesi tamamlayıcı renk eklenerek düzeltilebilir." Bu işlem, ışık kaynaklarına göre renk sıcaklığını kamera/sensöre tanımlama sürecidir.
+    > **Açıklama:** Çekim öncesinde ortamı aydınlatan doğal ya da suni ışık kaynaklarına renk sıcaklığını makineye/kameraya tanımlama işlemi Beyaz Dengesi (White Balance) ayarı ile gerçekleştirilir. Ünite 5'te, Beyaz Dengesi'nin renk sıcaklığını ayarlayarak renk ısısını düzenlediği belirtilmiştir.
+
+    <hr />
+1. Aşağıdakilerden hangisi White Balance(Beyaz Dengesi) ayarları arasında yer almaz?
+    - A-) Fluorescent(Floresan)
+    - **Cevap B-) Depth of field(Alan Derinliği)**
+    - C-) Cloudy(Bulutlu)
+    - D-) Daylight(Gün ışığı)
+    - E-) Shade(Gölge)
+
+    > **Açıklama:** Beyaz Dengesi (White Balance), ışığın renk sıcaklığına göre ayarlanmasıdır. Metinde Beyaz Dengesi için AWB (Otomatik Beyaz Dengesi) ve manuel kontrolün bulunduğu belirtilmiştir. Ayrıca, "Beyaz Dengesi kavramını anlamak için önce renk ısısı kavramını anlamanız gerekir." denilmiştir. ISO Hızı ise sensörün ışığa duyarlılığını ayarlayan bir fonksiyondur, beyaz dengesi ayarı ile doğrudan ilgili değildir. Beyaz Dengesi ayarları; AWB, manuel ayar ve filtreler kullanılarak yapılır. ISO hızı ise pozlama üçgeninin bir parçasıdır ama doğrudan Beyaz Dengesi ayarı başlığı altında sayılmaz.
+
+    <hr />
+
+### Beyaz Dengesi Ayarı
+
+1. Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre göre renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?
+    - **Cevap A-) Gamma ayarı**
+    - B-) Beyaz ayarı
+    - C-) ICC profil ayarı
+    - D-) Pozometre ayarı
+    - E-) Kontrast ayarı
+
+    > **Açıklama:** Çekimden önce ortamdaki ışığın rengi (renk sıcaklığı) ile kameranın uyumunu sağlamak Beyaz Dengesi (White Balance) ile gerçekleştirilir. Ünite 5'te "Beyaz Dengesi (White Balance)" başlığı altında, beyaz dengesinin ayarlanması ile renk ısısının ayarlandığı belirtilmiştir.
 
     <hr />
 
@@ -1324,12 +1085,9 @@
     - **Cevap D-) Diyafram**
     - E-) ISO
 
-    > **Açıklama:** Lensinizde yer alan merceklerden geçen ışığın makineniz içerisine ne kadar gireceği kontrolünün sağlandığı ve çok özel yapraklardan oluşan mekanizma Diyafram Açıklığı'dır. Metinde bu mekanizmanın tanımı verilmiştir.
+    > **Açıklama:** Diyafram, lens üzerinde yer alan, merceklerden geçen ışığın makine içerisine ne kadar gireceğini kontrol eden, özel yapraklardan oluşan bir mekanizmadır. Bu açıklık "f" harf değerleri ile ifade edilir ve pozlama üçgeninin bir parçasıdır. (Ünite 5, Diyafram Açıklığı bölümü)
 
     <hr />
-
-### Diyafram Açıklığı Kontrolü
-
 1. Aşağıdaki diyafram değerlerine göre en büyük açıklık hangisidir?
     - A-) f/22
     - B-) f/16
@@ -1337,20 +1095,33 @@
     - D-) f/4
     - **Cevap E-) f/1.4**
 
-    > **Açıklama:** Diyafram açıklığı, f/stop değerleri ile ifade edilir. f/stop değeri ne kadar küçükse (payda ne kadar küçükse), diyafram açıklığı (delik) o kadar büyük olur ve bu da en fazla ışığın sensöre ulaşmasını sağlar. Bu nedenle verilen değerler arasında en küçük sayısal değere sahip olan f/1.8 en büyük açıklığı ifade eder.
+    > **Açıklama:** Diyafram açıklığı, lensin gövdesi içerisine ne kadar ışık gireceğini kontrol eden mekanizmadır ve 'f/değer' ile ifade edilir. f/değer rakamı küçüldükçe diyafram açıklığı (delik boyutu) büyür. Bu nedenle, f/1.8 değeri, f/2.8, f/5.6, f/11 ve f/22 değerlerine göre en büyük açıklığı (en fazla ışık girişini) sağlar.
+
+    <hr />
+
+### Diyaframın Konumu
+
+1. Diyafram, fotoğraf makinesinin aşağıdaki birimlerinden hangisinde yer almaktadır?
+    - A-) Denklanşör
+    - B-) Gövde
+    - C-) Sensör
+    - **Cevap D-) Lens**
+    - E-) Elektronik vizör
+
+    > **Açıklama:** Diyafram, lensin içinde yer alan ve ışığın sensöre ulaşma miktarını kontrol eden mekanizmadır. Metinde, "Diyafram, lensinizde yer alan merceklerden geçen ışığın makineniz içerisine ne kadar gireceği kontrolünün sağlandığı ve çok özel yapraklardan oluşan bir mekanizmadır..." ifadesiyle diyaframın lens bünyesinde olduğu belirtilmiştir. Bu nedenle diyafram, fotoğraf makinesinin lens biriminde yer alır.
 
     <hr />
 
 ### Hazır Sahneleme Modları
 
-1. I. Renk Modu<br />II. Manzara Modu<br />III. Spor/aksiyon modu<br />IV. Portre Modu<br />Yukarıda verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır?
+1. I. Renk Modu<br />II. Manzara Modu<br />III. Spor/aksiyon modu<br />IV. Portre Modu<br />Yukarıda verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır? *(3 kez soruldu)*
     - A-) Yalnız I
     - B-) I ve II
     - C-) II ve IV
     - D-) I, II ve III
     - **Cevap E-) II, III ve IV**
 
-    > **Açıklama:** Hazır sahneleme modları, çekilecek fotoğrafın türüne göre makinenin pozlama değerlerini otomatik ayarladığı modlardır. Örnekler arasında Portre modu, Manzara modu ve Spor/aksiyon modu yer almaktadır (Ünite 5).
+    > **Açıklama:** Hazır sahneleme modları, çekilecek fotoğrafın türüne göre pozlama değerlerinin otomatik ayarlanmasını sağlar. Portre modu, Manzara modu ve Spor/aksiyon modu bu modlar içerisindedir. (U3'te de bahsedilen hazırlık modlarıdır.)
 
     <hr />
 1. Mümkün olan en sığ alan derinliğini yakalamayı amaçlayan hazır sahneleme modu aşağıdakilerden hangisidir?
@@ -1360,7 +1131,7 @@
     - D-) Gece Modu
     - **Cevap E-) Portre Modu**
 
-    > **Açıklama:** Alan derinliğinin sığ olması, genellikle odak düzlemi dışındaki alanların bulanık olmasını sağlar. Hazır sahneleme modları arasında, sığ alan derinliği (shallow depth of field) uygulamalarında en iyi sonucu veren veya bu kavramla en çok ilişkilendirilen mod, portre çekimlerinde kullanılan 'Portre modu'dur. Portre modları genellikle sığ alan derinliği sağlamak için tasarlanmıştır.
+    > **Açıklama:** Alan derinliği, diyafram açıklığı ile ters orantılıdır; diyafram açıklığı ne kadar büyükse (f/ değeri küçükse), alan derinliği o kadar sığ olur. En sığ alan derinliği (yani arka planın en çok bulanıklaştığı durum) genellikle Portre modu gibi konulara odaklanan ve arka planı özneden ayırmaya yardımcı olan modlarda hedeflenir. Manzara modu genellikle daha derin alan derinliği hedeflerken, Makro modu da yakın odak nedeniyle sığ alan derinliği sağlayabilir ancak en sığ alan derinliği ifadesi genellikle portre modlarıyla ilişkilendirilirken, ünite 5'te portre modu, manzara modu ve makro modunun alan derinliği üzerindeki etkilerinden bahsedilmiştir. Ancak, en sığ alan derinliği, pozlamanın diğer bileşenleri sabit tutularak diyaframın en açık ayarında (en düşük f/ değeri) elde edilir ki bu durum genellikle Portre modunun da temelini oluşturur.
 
     <hr />
 1. Hazır sahneleme modlarından belirli bir pozlama için olabildiğince hızlı bir enstantane hızı elde etmeye çalışan mod aşağıdakilerden hangisidir?
@@ -1370,7 +1141,7 @@
     - D-) Makro Modu
     - **Cevap E-) Spor/aksiyon Modu**
 
-    > **Açıklama:** Ünite 5'teki "Hazır Sahneleme Modları" başlığı altında, bu modların çekilecek fotoğrafın türüne göre pozlama değerlerinin makine tarafından belirlendiği belirtilmiştir. Spor/Aksiyon modu, genellikle hareketin dondurulması gerektiği durumlar için kullanılır, bu da çok yüksek bir enstantane hızı gerektirir. Bu mod, makineye en hızlı enstantane hızını seçme talimatı verirken, diğer ayarlamaları (diyafram, ISO) otomatik olarak yapar veya bu parametreler dahilinde en hızlı enstantaneyi sağlayacak şekilde pozlama yapmaya odaklanır.
+    > **Açıklama:** Ünite 5'in "Hazır Sahneleme Modları" bölümünde, bu modların çekilecek fotoğrafın türüne göre pozlama değerlerinin makine tarafından belirlendiği belirtilmiştir. Genel olarak, spor/aksiyon modu (Sports/Action mode), hareketi dondurmak için mümkün olan en hızlı enstantane hızını (kısa pozlama süresi) seçmeye odaklanır, bu da pozlamayı dengelemek için diyaframı veya ISO'yu otomatik olarak ayarlar. Metinde spesifik olarak 'en hızlı enstantane hızı elde etmeye çalışan mod' bilgisi doğrudan yer almamasına rağmen, spor/aksiyon modu hareketi dondurmak için en kısa enstantane hızını kullanma eğilimindedir.
 
     <hr />
 1. I. Renk Modu<br />II. Manzara Modu<br />III. Spor/aksiyon modu<br />IV. Portre Modu<br />Yukarıdaki verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır?
@@ -1380,70 +1151,11 @@
     - D-) I, II ve III
     - **Cevap E-) II, III ve IV**
 
-    > **Açıklama:** Ünite 5'te belirtildiği üzere, hazır sahneleme modları çekilecek fotoğrafın türüne göre pozlama değerlerinin fotoğraf makinesi tarafından otomatik belirlendiği modlardır. Verilen seçeneklerden Portre modu, Manzara modu ve Spor/aksiyon modu bu kategoridedir. Renk Modu ise genel bir ayar veya renk uzayı ile ilgili bir terim olabilir, hazır sahneleme modu değildir.
-
-    <hr />
-1. I. Renk Modu<br />II. Manzara Modu<br />III. Spor/aksiyon modu<br />IV. Portre Modu<br />Yukarıda verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır?
-    - A-) Yalnız I
-    - B-) I ve II
-    - C-) II ve IV
-    - D-) I, II ve III
-    - **Cevap E-) II, III ve IV**
-
-    > **Açıklama:** Hazır sahneleme modları, çekilecek fotoğrafın türüne göre fotoğraf makinesinin pozlama değerlerini otomatik olarak belirlediği modlardır. Verilen seçeneklerden Portre modu, Manzara modu ve Spor/aksiyon modu hazır sahneleme modları arasında yer alır. Renk Modu (Renk Uzayı) ise bir pozlama ayarı veya genel bir özellik olup hazır sahneleme modu değildir.
-
-    <hr />
-1. I. Renk Modu<br />II. Manzara Modu<br />III. Spor/aksiyon modu<br />IV. Portre Modu<br />Yukarıda verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır?
-    - A-) Yalnız I
-    - B-) I ve II
-    - C-) II ve IV
-    - **Cevap D-) I, II ve III**
-    - E-) II, III ve IV
-
-    > **Açıklama:** Hazır Sahneleme Modları başlığı altında verilen örnekler şunlardır: Portre modu, Manzara modu, Spor/aksiyon modu, Gece/düşük ışık modu ve Makro modu. Bu listede I, II, III ve IV seçeneklerinin hepsi (Portre, Manzara, Spor/aksiyon ve Gece/düşük ışık modu) hazır sahneleme modları arasında yer almaktadır.
+    > **Açıklama:** Ünite 5'te belirtildiği üzere, hazır sahneleme modları (Scene Modes) arasında Portre modu, Manzara modu ve Spor/aksiyon modu bulunmaktadır. Bu modlar, çekilecek fotoğrafın türüne göre fotoğraf makinesinin pozlama değerlerini otomatik olarak belirlemesini sağlar. 'Enstantane Önceliği Modu (S veya Tv)' bir pozlama modu iken, verilen diğer üç seçenek hazır sahneleme modlarıdır. Soru, hazır sahneleme modları içinde yer alanları sorduğu için I, II, III ve IV ifadelerin hepsi bu kategoriye girer. Ancak, metinde verilen örnekler: Portre modu, Manzara modu, Spor/aksiyon modu, Gece/düşük ışık modu ve Makro modu şeklindedir. Dolayısıyla, I, II, III ve IV numaralı ifadelerin hepsi hazır sahneleme modları arasındadır.
 
     <hr />
 
 ### Histogram
-
-1. kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın, parlaklığın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler.<br />Yukarıdaki cümlede boş bırakılan yeri doğru şekilde tamamlar?
-    - **Cevap A-) Histogram**
-    - B-) Odak noktası
-    - C-) Auto fokus
-    - D-) Beyaz ayarı
-    - E-) Diyafram
-
-    > **Açıklama:** Kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını, ışık ve gölgenin dengeli olup olmadığını anında söyleyen grafiksel göstergeye Histogram adı verilir (Ünite 5).
-
-    <hr />
-
-### Histogram Fonksiyonu
-
-1. kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın, parlaklığın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler.
-    - A-) Auto fokus
-    - **Cevap B-) Histogram**
-    - C-) Diyafram
-    - D-) Odak noktası
-    - E-) Beyaz ayarı
-
-    > **Açıklama:** Histogram başlığı altında bu kavramın tanımı verilmiştir: 'Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler.' Bu, pozlama kontrolü ve ton aralığının görsel bir temsilidir.
-
-    <hr />
-
-### Histogram Kavramı
-
-1. ------- kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın, parlaklığın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Odak noktası
-    - B-) Auto fokus
-    - C-) Diyafram
-    - **Cevap D-) Histogram**
-    - E-) Beyaz ayarı
-
-    > **Açıklama:** Histogram, bir fotoğrafın parlaklık dağılımını (siyahlardan beyazlara kadar olan tonları) gösteren bir grafiktir. Bu araç, fotoğrafçının sahnedeki ışık ve gölge dengesinin doğru ayarlanıp ayarlanmadığını anında görmesini sağlar.
-
-    <hr />
-
-### Histogram ve Renk
 
 1. Üzerinde çalışılan dijital bir görüntünün renklerini ve oranlarını gösteren grafik aşağıdakilerden hangisidir? A) Histogram B) RGB C) Ton D) CMYK E) Doygunluk
     - **Cevap A-) Histogram**
@@ -1452,11 +1164,24 @@
     - D-) CMYK
     - E-) Doygunluk
 
-    > **Açıklama:** Ünite 5'te Histogram başlığı altında, Histogram'ın, görüntüdeki renkler ve oranlarını gösteren bir grafik olduğu belirtilmiştir. Ayrıca, RGB histogramının renk doygunluğunun grafiğini yansıttığı bilgisi de mevcuttur. Histogram, pozlamanın doğru olup olmadığını ve ışık/gölge dengesini gösterir.
+    > **Açıklama:** Histogram, üzerinde çalışılan dijital bir görüntünün parlaklık ve renk oranlarını gösteren grafiktir. Ünite 5'te, Histogram'ın görüntüdeki renkler ve oranlarını gösteren bir grafik olduğu ve parlaklık histogramı ile RGB histogramı olarak ikiye ayrıldığı belirtilmiştir.
 
     <hr />
 
-### Histogram ve Renk Kavramları
+### Histogram Fonksiyonu
+
+1. --------, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın, parlaklığın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
+    - **Cevap A-) Histogram**
+    - B-) Auto fokus
+    - C-) Diyafram
+    - D-) Odak noktası
+    - E-) Beyaz ayarı
+
+    > **Açıklama:** Histogram, fotoğraf çekimi sırasında pozlamanın doğru olup olmadığını ve ışık/gölge dengesini anında gösteren bir grafiktir. Parlaklık histogramı sol tarafı siyahı, sağ tarafı beyazı temsil ederken, RGB histogramı renk doygunluğunu gösterir (Ünite 5).
+
+    <hr />
+
+### Histogram Kavramı
 
 1. -------, bir renkteki Ton (hue) değerinin ne kadar fazla ya da az olduğunun göstergesidir. Yukar1daki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
     - A-) Parlaklık
@@ -1465,7 +1190,20 @@
     - D-) Kontrast
     - E-) Shadow
 
-    > **Açıklama:** Ünite 5'teki "Histogram" başlığı altında, histogramın parlaklık ve renk doygunluğunu gösterdiği belirtilmiştir. Renk doygunluğu ise RGB histogramı ile yansıtılır. Ancak, renk yönetiminin temellerini açıklayan "Renk Yönetiminin Temelleri" bölümünde, rengin üç ana gruba ayrıldığı belirtilmiştir: Ton (Hue), Doygunluk (Saturation) ve Parlaklık (Brightness). Ton (Hue), bir rengin ne kadar kırmızı, yeşil veya mavi olduğunun göstergesidir. Boş bırakılan yer "Ton" (Hue) kavramını tanımlamaktadır, zira Ton, bir renkteki farklılaşmayı ifade eder. (Not: Metinde histogramın doğrudan Ton'u ölçtüğü yazmasa da, renk yönetiminde Ton temel bileşendir. Eğer seçenekler arasında "Doygunluk" (Saturation) olsaydı, bu da histogramla ilgili olabilirdi. Ancak Ton, renk skalasındaki konumudur.)
+    > **Açıklama:** Ünite 5'in Histogram başlığı altında, "Histogram parlaklık ve renk doygunluk histogramı olarak ikiye ayrılır. Parlaklık histogramı grafiği üzerinde sol taraf tam siyahı sağ taraf ise tam beyazı temsil eder. Renk histogramı bir diğer söylemle RGB histogramı ise renk doygunluğunun grafiğini yansıtır." denmektedir. Ancak, metnin başka bir yerinde (Ünite 5, Sayfa 3, Histogram başlığı altında), "Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler." ifadesi yer alır. Ton (Hue) ise rengin kendisini tanımlar. Metinlerde Hue/Ton bilgisini doğrudan histogramla ilişkilendiren net bir ifade bulunmamaktadır; histogram daha çok parlaklık ve renk doygunluğu/yoğunluğu ile ilgilidir. Ancak renk yönetiminin temellerinde Ton (Hue), Doygunluk (Saturation) ve Parlaklık (Brightness) tanımlanmıştır (Ünite 4). Soruda renk doygunluğu yerine 'Ton' sorulmuştur. RGB histogramı renk doygunluğunu yansıtır. Metindeki bilgilere göre en yakın ilişki renk doygunluğudur. Renk doygunluğu, bir rengin saf olup olmadığını, yani ne kadar gri içerdiğini gösterir. Ton ise rengin çeşididir. Bu sorunun doğru cevabı, histogramın renk doygunluğunu gösterdiği bilgisine dayanarak, tonun kendisinin göstergesi olmadığını, doygunluğun göstergesi olduğunu belirtir. Ancak, genellikle renk bileşenlerinden biri olan Ton da histogram ile ilişkilendirilebilir, fakat metin doğrudan Doygunluk bilgisini veriyor. Histogramın temel olarak parlaklık dağılımını gösterdiği düşünülürse, Ton'un doğrudan göstergesi olduğu bilgisi metinde net olarak mevcut değildir.
+
+    <hr />
+
+### Histogram Tanımı
+
+1. Üzerinde çalışılan dijital bir görüntünün renklerini ve oranlarını gösteren grafik aşağıdakilerden hangisidir?
+    - A-) Doygunluk
+    - B-) RGB
+    - **Cevap C-) Histogram**
+    - D-) CMYK
+    - E-) Ton
+
+    > **Açıklama:** Histogram, bir görüntüdeki renkleri ve oranlarını gösteren grafik olarak tanımlanmıştır. Metinde, "Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler... Histogram parlaklık ve renk doygunluk histogramı olarak ikiye ayrılır." şeklinde bilgi verilmiştir.
 
     <hr />
 
@@ -1478,53 +1216,30 @@
     - D-) Merkez ağırlıklı ölçüm
     - **Cevap E-) Matris ölçümü**
 
-    > **Açıklama:** Işık ölçüm modları arasında, sahnedeki ışığın tamamını ölçerek ortalama bir değer veren mod 'Matris ölçümü'dür. Ünite 5'te Matris ölçümü, "sahnedeki ışığın tümünü ölçerek ortalama bir değer alır" şeklinde tanımlanmıştır.
+    > **Açıklama:** Sahnedeki ışığın tümünü ölçerek ortalama bir değer alan ışık ölçüm modu Matris ölçüm modudur (ünite 5'te Matris ölçüm: 'sahnedeki ışığın tümünü ölçerek ortalama bir değer alır' olarak tanımlanmıştır).
 
     <hr />
-1. Otomatik netleme noktası etrafından ışığı küçük bir yüzeyden ölçen ışık ölçüm modu aşağıdakilerden hangisidir?
-    - A-) Matris ölçümü
-    - B-) Merkez ağırlıklı ölçüm
-    - C-) Kısmi ölçüm
-    - **Cevap D-) Nokta ölçüm**
-    - E-) Geniş ölçüm
-
-    > **Açıklama:** Ünite 5'in "Işık Ölçümü" başlığı altında DSLR/Sayısal fotoğraf makinelerinde kullanılan dört temel ölçüm modu listelenmiştir: Nokta ölçüm, Merkez ağırlıklı ölçüm, Kısmi ölçüm ve Matris ölçüm. Soruda "Nokta ölçüm" modu, "sayısal fotoğraf makinesi, otomatik netleme noktası etrafından ışığı spot (küçük) bir yüzeyden ölçer" şeklinde tanımlanmıştır. Bu, tam olarak sorudaki tanıma uyan moddur.
-
-    <hr />
-1. Otomatik netleme noktası etrafından ışığı küçük bir yüzeyden ölçen ışık ölçüm modu aşağıdakilerden hangisidir?
+1. Otomatik netleme noktası etrafından ışığı küçük bir yüzeyden ölçen ışık ölçüm modu aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Merkez ağırlıklı ölçüm
     - **Cevap B-) Nokta ölçüm**
     - C-) Geniş ölçüm
     - D-) Matris ölçümü
     - E-) Kısmi ölçüm
 
-    > **Açıklama:** Ünite 5'te ışık ölçüm modları açıklanırken, 'Nokta ölçüm' modunun, sayısal fotoğraf makinesinin otomatik netleme noktası etrafından ışığı spot (küçük) bir yüzeyden ölçtüğü belirtilmektedir.
+    > **Açıklama:** Işık ölçüm modlarından Nokta ölçüm (Spot metering), sayısal fotoğraf makinesinin otomatik netleme noktası etrafından ışığı küçük bir yüzeyden (spot) ölçen moddur. Matris ve Kısmi ölçüm de diğer modlardır (Ünite 5).
 
     <hr />
 1. modülü, fotoğraf makinesi sahnedeki ışığın tümünü ölçerek ortalama bir değer alır.
     - A-) Kısmi ölçüm
-    - B-) Matris ölçümü
-    - **Cevap C-) Merkez ağırlıklı ölçüm**
+    - **Cevap B-) Matris ölçümü**
+    - C-) Merkez ağırlıklı ölçüm
     - D-) Nokta ölçüm
 
-    > **Açıklama:** Matris ölçüm modu, sayısal fotoğraf makinesinin sahnedeki ışığın tümünü ölçerek ortalama bir değer almasını sağlar. Ünite 5'te bu, "Matris ölçümü: sahnedeki ışığın tümünü ölçerek ortalama bir değer alır." şeklinde belirtilmiştir.
+    > **Açıklama:** Ünite 5'te, ışık ölçüm modları açıklanmıştır. Matris ölçüm modu (Matrix metering), sahnedeki ışığın tümünü ölçerek ortalama bir değer almayı sağlar. Nokta ölçüm ise spot olarak ölçüm yapar.
 
     <hr />
 
-### Kamera Menü Ayarları
-
-1. Eskişehir'de çekmiş olduğunuz gezi fotoğraflarınıza "ESK1, ESK2...ESK9999" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan "File and folder structure" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir. Yukarıda örnekte yer alan ve kullanıcı için özellikli avantajlar sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir?
-    - A-) Görüntü Ayarları (Display settings)
-    - **Cevap B-) Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and numbering)**
-    - C-) Telif Hakkı Girişi (Copyright)
-    - D-) İzlemeyi Kontrol Etme (Controlling Playback)
-    - E-) Görüntü Kontrolü ve Tarzı (Picture Control Or Creative Style)
-
-    > **Açıklama:** Soru, görüntülerin dosya numarası yerine tarih sıralaması yapabilme ve dosya adı/numarası belirleme gibi ayarların bulunduğu menüyü sormaktadır. Ünite 5'teki menü başlıkları incelendiğinde, 'Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and Numbering)' başlığı altında bu tür ayarların yapılabileceği belirtilmiştir.
-
-    <hr />
-
-### Odak Uzaklığı Tanımı
+### Odaklama Kavramı
 
 1. -------, bir objektifin görüş alanının ölçümü, teknik olarak objektifin optik merkezi ile sonsuzdaki bir konuya odaklanmış görüntü arasındaki mesafe olarak adlandırılır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
     - **Cevap A-) Odak uzaklığı**
@@ -1533,7 +1248,7 @@
     - D-) Optik Zoom
     - E-) Netleme
 
-    > **Açıklama:** Objektif tercihleri bağlamında, bir objektifin görüş alanının ölçümü, teknik olarak objektifin optik merkezi ile sonsuzdaki bir konuya odaklanmış görüntü arasındaki mesafesi olarak odak uzaklığı (odak mesafesi) olarak adlandırılır (Ünite 5).
+    > **Açıklama:** Odak uzaklığı (Focal Length), bir objektifin görüş alanının ölçümü olarak tanımlanır; teknik olarak objektifin optik merkezi ile sonsuzdaki bir konuya odaklanmış görüntü arasındaki mesafe olarak adlandırılır. Bu, Ünite 5'te Alan Derinliği başlığı altında bir değişken olarak zikredilmiştir.
 
     <hr />
 
@@ -1546,20 +1261,33 @@
     - D-) Zamanlayıcı lambası
     - E-) Yön tuşları
 
-    > **Açıklama:** Kompakt fotoğraf makinelerinde (ve genellikle diğer dijital makinelerde) kullanıcı işini kolaylaştıran gelişmiş otomatik ayarların bulunduğu ve çekim türüne göre ayarları otomatik belirleyen modlar 'Hazır Sahneleme Modları' (Portre, Manzara, Spor, Gece/Düşük Işık, Makro) olarak adlandırılır. Bu modlar, P, S, A, M modlarından ayrı olarak, kullanıcının tek bir tuşla çekim türüne uygun ayarları seçmesine olanak tanır.
+    > **Açıklama:** Ünite 5'te Program Modu (P) anlatılırken, bu modun temel otomatik modlar ile tamamen manuel kontrol sağlayan gelişmiş modlar arasındaki boşluğu doldurduğu belirtilmiştir. Program modunda ISO ve flaş kontrolleri gibi temel ayarlar otomatik yapılırken, pozlama noktasında kullanıcıya kolaylık sunan, güvenlik ağı sağlayan ve otomatik moddan daha hassas kontrole sahip bir mod olduğu açıklanmıştır.
 
     <hr />
 
-### Pozlama Kontrol Faktörleri
+### Portre Fotoğrafçılığı
 
-1. Aşağıdakilerden hangisi White Balance(Beyaz Dengesi) ayarları arasında yer almaz?
-    - A-) Fluorescent(Floresan)
-    - **Cevap B-) Depth of field(Alan Derinliği)**
-    - C-) Cloudy(Bulutlu)
-    - D-) Daylight(Gün ışığı)
-    - E-) Shade(Gölge)
+1. İnsanın kişiliğini, iç dünyasını, en iyi şekilde yansıtacak fotoğrafı çekmeyi amaçlayan fotoğrafçılık türü aşağıdakilerden hangisidir?
+    - A-) Belgesel Fotoğrafçılık
+    - B-) Basın Fotoğrafçılığı
+    - C-) Reklam Fotoğrafçılığı
+    - D-) Stok Fotoğrafçılığı
+    - **Cevap E-) İnsan ve Portre Fotoğrafçılığı**
 
-    > **Açıklama:** Doğru pozlamayı belirleyen üç temel faktör pozlama üçgenini oluşturur: Diyafram açıklığı, Enstantane Hızı ve ISO Hızı'dır. Beyaz Dengesi (White Balance) ise renk sıcaklığını ayarlamak için kullanılır ve pozlama miktarını doğrudan etkilemez. Bu nedenle Beyaz Dengesi, pozlama kontrol faktörleri arasında yer almaz.
+    > **Açıklama:** Portre fotoğrafçılığı, bir nesnenin (insanın) kişiliğini, iç dünyasını, karakterini en iyi şekilde yansıtacak fotoğrafı çekmeyi amaçlar. Reklam/Tanıtım fotoğrafçılığı satış artırmayı, Manzara/Doğa fotoğrafçılığı ise doğanın varlığını kaydetmeyi hedefler.
+
+    <hr />
+
+### Pozlama Kavramları
+
+1. Rengin baskın olan dalga boyunu tanımlayan kavram aşağıdakilerden hangisidir?
+    - A-) Parlaklık
+    - B-) Saturation
+    - C-) Waveform
+    - **Cevap D-) Ton**
+    - E-) Doygunluk
+
+    > **Açıklama:** Renk sıcaklığı (Renk Isısı), görünür ışığın bir özelliğidir ve Kelvin (K) cinsinden ölçülür. Kelvin değeri, ışığın baskın olan dalga boyunu (sıcak/soğuk tonunu) tanımlar; daha yüksek K değeri daha mavi (soğuk) ışığı ifade eder. (Ünite 5, Beyaz Dengesi (White Balance) başlığı)
 
     <hr />
 
@@ -1572,79 +1300,46 @@
     - D-) S
     - E-) M
 
-    > **Açıklama:** Programlanmış otomatik pozlama olarak adlandırılan mod Program Modudur (P). Metinde, Program Modunun temel otomatik modlar ile ayarları değiştirmeyi sağlayan gelişmiş modlar arasındaki boşluğu doldurduğu ve ISO ve flaş kontrollerinden otomatik eylem gerçekleştirmeyen bir mod olduğu belirtilmektedir.
-
-    <hr />
-1. Program modu(P) ile kullanıcı aşağıdaki ayarlardan hangilerini değiştirebilir?
-    - A-) Beyaz dengesi ve alan derinliği
-    - B-) ISO ve flaş
-    - C-) Diyafram ve enstantane
-    - **Cevap D-) Poz telafisi ve histogram**
-    - E-) Manuel odaklama ve ışık ölçümü
-
-    > **Açıklama:** Ünite 5'te "P-S-A-M Kadranı" başlığı altında pozlama modları açıklanmıştır. Program Modu (P), kamera üzerinde kontrol sağlamayan temel otomatik modlar ile ayarları değiştirmeyi sağlayan gelişmiş modlar arasındaki boşluğu doldurur. Bu mod, ISO ve flaş kontrollerinden otomatik eylem gerçekleştirmemekle birlikte, kullanıcıya pozlama noktasında güvenlik ağı sunar ancak pozlama ayarı üzerinde Otomatik'ten daha hassas kontrole izin verir. Bu, kullanıcının yalnızca ISO ve flaş ayarlarını manuel olarak değiştirebileceği anlamına gelir; diyafram ve enstantane (pozlama üçgeninin iki temel ögesi) makine tarafından otomatik ayarlanır.
+    > **Açıklama:** Program Modu (P), programlanmış otomatik pozlama olarak adlandırılır ve temel otomatik modlar ile ayarları değiştirmeyi sağlayan gelişmiş modlar arasındaki boşluğu doldurur. Bu mod, kullanıcının pozlama noktasında güvenlik ağı sunarken, otomatik pozlamaya göre daha hassas bir kontrole sahiptir. (Ünite 5, Program Modu (P) bölümü)
 
     <hr />
 
 ### Pozlama ve Histogram
 
-1. Üzerinde çalışılan dijital bir görüntünün renklerini ve oranlarını gösteren grafik aşağıdakilerden hangisidir?
-    - A-) Doygunluk
-    - B-) RGB
-    - **Cevap C-) Histogram**
-    - D-) CMYK
-    - E-) Ton
-
-    > **Açıklama:** Histogram, fotoğraf çekimi için yapılan pozlamanın doğruluğunu veya ışık ve gölgenin dengesini anında göstermek için kullanılan grafiktir. Görüntünün parlaklık ve renk oranlarını gösterir. Metinde, histogramın renkler ve oranları gösteren bir grafik olduğu belirtilmektedir.
-
-    <hr />
-1. --------, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın, parlaklığın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - **Cevap A-) Histogram**
-    - B-) Auto fokus
+1. kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın, parlaklığın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler.
+    - A-) Auto fokus
+    - **Cevap B-) Histogram**
     - C-) Diyafram
     - D-) Odak noktası
     - E-) Beyaz ayarı
 
-    > **Açıklama:** Metinde Histogram'ın, fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin dengeli olup olmadığını anında söyleyen grafik olduğu belirtilmiştir. Bu özellik, vizörde veya LCD ekranda gösterilir.
+    > **Açıklama:** Histogram, bir görüntünün pozlamasının (parlaklık) doğru olup olmadığını, ışık ve gölgenin dengeli olup olmadığını anında gösteren bir grafiktir. Parlaklık histogramı, sol tarafın tam siyahı, sağ tarafın tam beyazı temsil ettiği bir grafik olarak pozlama bilgisi verir. (Ünite 5, Histogram başlığı)
 
     <hr />
 
-### Pozlama Üçgeni
+### Pozlama ve Ölçüm
 
-1. Diyafram, fotoğraf makinesinin aşağıdaki birimlerinden hangisinde yer almaktadır?
-    - A-) Denklanşör
-    - B-) Gövde
-    - C-) Sensör
-    - **Cevap D-) Lens**
-    - E-) Elektronik vizör
+1. kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın, parlaklığın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler.<br />Yukarıdaki cümlede boş bırakılan yeri doğru şekilde tamamlar?
+    - A-) Histogram
+    - B-) Odak noktası
+    - C-) Auto fokus
+    - **Cevap D-) Beyaz ayarı**
+    - E-) Diyafram
 
-    > **Açıklama:** Diyafram (Aperture), mercek içinden geçecek ışığın miktarını kontrol eden ve bu sayede alan derinliğini de etkileyen bir mekanizmadır. Metinde, diyaframın lens üzerinde yer aldığı ve lensin açıklığını kontrol ettiği belirtilmiştir.
-
-    <hr />
-
-### Pozlama/Histogram
-
-1. Aşağıdaki uygulamalardan hangisi fotoğraflarınızın tablo gibi görünmesini sağlar?
-    - A-) Prisma
-    - B-) Trash
-    - C-) FaceApp
-    - D-) TouchRetouch
-    - **Cevap E-) Polaroid Lab**
-
-    > **Açıklama:** Histogram, fotoğrafın parlaklık ve renk dağılımını göstererek, görüntünün tablo gibi görünmesini sağlar. Ünite 5'te, Histogram'ın, "görüntüdeki renkler ve oranlarını gösteren bir grafik" olduğu ve Parlaklık histogramının sol tarafın siyahı, sağ tarafın beyazı temsil ettiği belirtilmiştir. Bu, görüntünün ton aralığını gösterir.
+    > **Açıklama:** Ünite 5'te, Histogram'ın tanımı şu şekildedir: "Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler." Beyaz Dengesi ise renk sıcaklığını kontrol eder, odak noktası ve diyafram ise pozlamanın bileşenleridir.
 
     <hr />
 
-### Renk Isısı ve Kelvin
+### Program Modu (P)
 
-1. Rengin baskın olan dalga boyunu tanımlayan kavram aşağıdakilerden hangisidir?
-    - A-) Parlaklık
-    - B-) Saturation
-    - C-) Waveform
-    - **Cevap D-) Ton**
-    - E-) Doygunluk
+1. Program modu(P) ile kullanıcı aşağıdaki ayarlardan hangilerini değiştirebilir?
+    - A-) Beyaz dengesi ve alan derinliği
+    - B-) ISO ve flaş
+    - **Cevap C-) Diyafram ve enstantane**
+    - D-) Poz telafisi ve histogram
+    - E-) Manuel odaklama ve ışık ölçümü
 
-    > **Açıklama:** Beyaz Dengesi başlığı altında renk ısısı kavramı açıklanmaktadır. 'Renk sıcaklığı, görünür ışığın bir özelliğidir. Bu özellikleri açıklamak için bir yöntem sağlar ve Kelvin (K) cinsinden ölçülür.' şeklinde ifade edilmiştir. Daha yüksek Kelvin değeri daha mavi/soğuk ışığı, daha düşük Kelvin değeri ise daha kırmızı/sıcak ışığı temsil eder.
+    > **Açıklama:** Ünite 5'te Program Modu (P) şöyle açıklanmıştır: "Program modu ISO ve flaş kontrollerinden otomatik eylem gerçekleştirmemektedir. Bu mod, çekim sırasında bir güvenlik ağı sunar ancak pozlama ayarı üzerinde Otomatik'ten çok daha hassas bir kontrole sahiptir." Bu, kullanıcının sadece ISO ve Flaş ayarlarını kontrol edebileceği, Diyafram ve Enstantane (Pozlama üçgeni) değerlerini ise makinenin otomatik olarak ayarladığı anlamına gelir.
 
     <hr />
 
@@ -1657,97 +1352,58 @@
     - D-) Shadow
     - **Cevap E-) Doygunluk**
 
-    > **Açıklama:** Ünite 5'te Histogram bölümünde, 'Doygunluk' (Saturation) terimi tanımlanmamıştır, ancak Beyaz Dengesi başlığı altında renk sıcaklığı açıklanmıştır. Ünite 4'te ise renk yönetimi temellerinde, rengin özelliklerinin Ton (Hue), Doygunluk (Saturation) ve Parlaklık (Brightness) olduğu belirtilmiştir. Ton (Hue), bir renkteki renk değerinin (kırmızı, mavi, yeşil vb.) ne kadar fazla veya az olduğunun göstergesidir.
-
-    <hr />
-1. Rengin baskın olan dalga boyunu tanımlayan ve onu kırmızı, sarı, yeşil, mavi vb. gibi diğer renklerden ayıran, renge baktığımızda gördüğümüz, rengin kendisini ifade eden değere ne ad verilir?
-    - A-) Açıklık (Tint)
-    - B-) Parlaklık (Brightness)
-    - C-) Koyuluk (Shade)
-    - D-) Doygunluk (Saturation)
-    - **Cevap E-) Ton (Hue)**
-
-    > **Açıklama:** Metinde renk teorisi (Albert Munsell'in tanımı) anlatılırken, rengin Ton (Hue), Doygunluk (Saturation) ve Parlaklık (Brightness) olarak üç gruba ayrıldığı belirtilir. Rengin kendisini ifade eden, dalga boyuyla ilişkili olan temel özellik Ton'dur (Hue).
+    > **Açıklama:** Doygunluk (Saturation), bir renkteki Ton (hue) değerinin ne kadar fazla ya da az olduğunun göstergesidir. Ünite 5'te, Albert Munsell'in renk teorisini Ton (Hue), Doygunluk (Saturation) ve Parlaklık (Brightness) olarak üç gruba ayırdığı belirtilmiştir. Doygunluk, rengin saflığını ifade eder.
 
     <hr />
 
-### Renk ve Ton Kavramları
+### Temel Renk Kavramları
 
-1. Rengin baskın olan dalga boyunu tanımlayan ve onu kırmızı, sarı, yeşil, mavi vb. gibi diğer renklerden ayıran, renge baktığımızda gördüğümüz, rengin kendisini ifade eden değere ne ad verilir?
+1. Rengin baskın olan dalga boyunu tanımlayan ve onu kırmızı, sarı, yeşil, mavi vb. gibi diğer renklerden ayıran, renge baktığımızda gördüğümüz, rengin kendisini ifade eden değere ne ad verilir? *(2 kez soruldu)*
     - **Cevap A-) Ton (Hue)**
     - B-) Parlaklık (Brightness)
     - C-) Doygunluk (Saturation)
     - D-) Açıklık (Tint)
     - E-) Koyuluk (Shade)
 
-    > **Açıklama:** Rengin Tonu (Hue), rengin kendisini ifade eden temel özelliktir ve o rengi diğer renklerden ayıran baskın dalga boyunu tanımlar. Metinde, Albert Munsell'in rengi Ton (Hue), Doygunluk (Saturation) ve Parlaklık (Brightness) olarak üç gruba ayırdığı belirtilmiştir.
-
-    <hr />
-
-### Çekim Seçenekleri Menüsü
-
-1. Eskişehir'de çekmiş olduğunuz gezi fotoğraflarınıza "ESK1, ESK2...ESK9999" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan "File and folder structure" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir.<br />Yukarıda örnekte yer alan ve kullanıcı için özellikli avantajlar sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir?
-    - A-) Görüntü Ayarları (Display settings)
-    - **Cevap B-) Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and numbering)**
-    - C-) Telif Hakkı Girişi (Copyright)
-    - D-) Görüntü Kontrolü ve Tarzı (Picture Control Or Creative Style)
-    - E-) İzlemeyi Kontrol Etme (Controlling Playback)
-
-    > **Açıklama:** Fotoğraf dosyalarına isim verme, sıra numarası verme, dosya yapısını düzenleme (tarih sıralaması gibi) ve bu türde birçok ayarı içeren menü seçeneği, 'Çekim Seçeneklerini Ayarlama (Setting Shooting Options)' başlığı altındadır (Ünite 5).
+    > **Açıklama:** Metinde, rengin kendisini ifade eden ve onu diğer renklerden ayıran temel özellik Hue (Ton) olarak tanımlanmıştır. Sayısal Fotoğrafçılıkta Işık Ölçümü, Alan Derinliği, Odaklama, Histogram ve Beyaz Dengesi Seçenekleri başlığı altında değil, ancak bir önceki ünitede yer alan Rengin Temelleri (Ünite 5'te referans verilmiş olabilir, ancak en uygun açıklama Hue'nun tanımıdır) veya Rengin Tanımlanması başlıkları altında açıklanmalıdır. Ünite 4'te renk teorisinden bahsedilmiştir. Rengin Tonu (Hue), rengin kendisini ifade eden temel özelliktir. (Ünite 4'te Ton, Doygunluk ve Parlaklık Munsell teorisiyle açıklanmıştır. Ton, rengin kendisidir.)
 
     <hr />
 
 ## Ünite 6
 
-### Aydınlatma Aksesuarı
-
-1. Işık kaynaklarının önüne takılan ve ışığın açısını daraltarak noktasal aydınlatma sağlayan aydınlatma aksesuarı aşağıdakilerden hangisidir?
-    - A-) Petek
-    - B-) Şemsiye
-    - **Cevap C-) Snoot**
-    - D-) Softbox
-    - E-) Tas Reflektör
-
-    > **Açıklama:** Ünite 6'da ışık şekillendiriciler başlığı altında Snoot tanımı verilmektedir: "Snoot: Işık kaynaklarının önüne takılan Snoot ile tıpkı huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlamak mümkündür." Bu tanım, soruda bahsedilen ışığın açısını daraltarak noktasal aydınlatma sağlama işlevini tam olarak karşılamaktadır.
-
-    <hr />
-
-### Endüstriyel Fotoğraf Tanımı
+### Endüstriyel Fotoğrafçılık
 
 1. -------, genellikle doğadan elde edilen, işlenmemiş ya da çok az işlem görmüş maddeleri işlemek, değiştirmek ve böylece doğada gerçekte bulunmayan ürünler üretmek anlamına gelir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? A) Endüstri B) Dijitalleşme C) Tarım D) Ticaret E) Tüketim
-    - A-) Endüstri
+    - **Cevap A-) Endüstri**
     - B-) Dijitalleşme
-    - **Cevap C-) Tarım**
+    - C-) Tarım
     - D-) Ticaret
     - E-) Tüketim
 
-    > **Açıklama:** Endüstriyel fotoğraf, ham madde veya yarı üretilmiş mamüllerin insan yararına tam üretilmiş hâle getirilmesi sürecini kapsar. Üretilmiş mamüllerin, bir fabrikanın araçlarının veya ürünlerinin en iyi şekilde sunulmasını hedefler (Ünite 6). Cümledeki tanım (işlenmemiş ya da çok az işlem görmüş maddeleri işlemek, değiştirmek ve böylece doğada gerçekte bulunmayan ürünler üretmek), Endüstriyel Fotoğrafçılığın amacına (endüstriyel ürünleri sunmak) uymayan bir ifadedir. Ancak, Endüstriyel fotoğrafçılığın temel odak noktası endüstriyel üretim ve ürünlerdir. Sorudaki tanıma en yakın bağlam, Endüstri biriminin üretim süreciyle ilgilidir. Sorudaki tanım, genellikle ham maddeyi işleyip nihai ürüne dönüştürme sürecini ifade eder ki bu da Endüstri (A) kavramıyla ilişkilidir.
+    > **Açıklama:** Endüstriyel fotoğrafçılık, ham madde veya yarı üretilmiş mamüllerin, insanların yararı amaçlanarak tam üretilmiş hâle getirilmesi sektörüne odaklanır. Bu sektör, ham madde ve yarı işlenmiş ürünleri içerir. Bu tanım, Endüstri kavramının tanımına uymaktadır. Ünite 6'da "Endüstriyel Fotoğraf" başlığı altında, Endüstri'nin tanımı verilmiştir: "Endüstri, ham madde veya yarı üretilmiş mamüllerin insanların yararı amaçlanarak tam üretilmiş hâle getirilmesidir." Bu nedenle doğru cevap A (Endüstri) olmalıdır.
 
     <hr />
-
-### Endüstriyel Fotoğrafçılık
-
-1. -------, genellikle doğadan elde edilen, işlenmemiş ya da çok az işlem görmüş maddeleri işlemek, değiştirmek ve böylece doğada gerçekte bulunmayan ürünler üretmek anlamına gelir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Endüstri
+1. -------, genellikle doğadan elde edilen, işlenmemiş ya da çok az işlem görmüş maddeleri işlemek, değiştirmek ve böylece doğada gerçekte bulunmayan ürünler üretmek anlamına gelir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
+    - **Cevap A-) Endüstri**
     - B-) Kullanıcı
-    - **Cevap C-) Ürün**
+    - C-) Ürün
     - D-) Ticaret
     - E-) Müşteri
 
-    > **Açıklama:** Endüstriyel fotoğrafçılık, ham madde veya yarı üretilmiş mamüllerin insanlar yararına tam üretilmiş hâle getirilmesi sektörüne odaklanır. Bu tür, bir işletmenin veya firmanın araçlarını ya da ürünlerini en iyi şekilde sunmayı hedefler (Ünite 6).
+    > **Açıklama:** Ünite 6'da Endüstriyel Fotoğrafçılık başlığı altında bu tanım verilmiştir: "Endüstri, ham madde veya yarı üretilmiş mamüllerin insanların yararı amaçlanarak tam üretilmiş hâle getirilmesidir." Bu, Endüstri kavramını tanımlamaktadır.
 
     <hr />
 
-### Flaş Paraflaş Avantajları
+### Flaş Avantajları
 
 1. Ayarlanabilir güçleriyle daha geniş bir aralıkta pozlama ve aydınlatma etkisi elde edilmesini sağlar.<br />Ortamı ısıtmaz. Kendisi de çabuk ısınmaz.<br />Işık kaynakları daha uzun ömürlüdür.<br />Kullanımı daha ekonomiktir.<br />Yukarıda verilen bilgiler aşağıdaki ışık kaynaklarından hangisinin sabit ışık kaynaklarına göre avantajları arasında yer almaktadır?
     - A-) Tungsten
     - B-) Daylight
-    - **Cevap C-) Led**
-    - D-) Paraflaş
+    - C-) Led
+    - **Cevap D-) Paraflaş**
     - E-) HMI Daylight
 
-    > **Açıklama:** Verilen özellikler (ayarlanabilir güç, ortamı ısıtmama, uzun ömür, ekonomiklilik) flaş (paraflaş) kaynaklarının sabit ışık kaynaklarına göre avantajlarıdır. Ünite 6'da Paraflaşların avantajları arasında parlak ve güçlü ışık yayması, ayarlanabilir güçlerle daha geniş aralıkta pozlama etkisi elde edilmesi, ortamı ısıtmaması ve uzun ömürlü olması belirtilmiştir.
+    > **Açıklama:** Ünite 6'daki Paraflaşların (Anlık Işık) avantajları arasında: Parlak ve güçlü ışık yayma, 5500 K beyaz ışık verme, ayarlanabilir güç, çok sayıda aksesuarla kullanım, yüksek hızlı senkronizasyon, kısa diyafram değerleri ile daha geniş alan derinliği elde etme, ortamı ısıtmama, çabuk ısınmama, uzun ömürlü olma ve ekonomik olma yer alır. Bu özellikler, sabit ışıklara (Tungsten, HMI, Led) kıyasla paraflaşlara özgüdür. Verilen özelliklerin tamamı Paraflaşların avantajlarıdır.
 
     <hr />
 
@@ -1760,66 +1416,92 @@
     - D-) Flaş senkronizasyon hızı
     - E-) Flaş güç aralığı
 
-    > **Açıklama:** Ünite 6'da Flaş Tutarlılığı, 'Flaşın her çakışta ve uzun süreli kullanımlarda ışık şiddeti ve renk olarak aynı değerleri vermesi ya da kabul edilebilir bir aralıkta sapma yaratması' olarak tanımlanmıştır.
+    > **Açıklama:** Ünite 6'da 'Flaş Tutarlılığı' başlığı altında, 'Flaşın her çakışta ve uzun süreli kullanımlarda ışık şiddeti ve renk olarak aynı değerleri vermesi ya da kabul edilebilir bir aralıkta sapma yaratmasıdır' şeklinde tanımlanmıştır. Bu ifade, verilen sorunun tanımına tam olarak uymaktadır.
 
     <hr />
 
-### Işık Kaynakları ve Özellikleri
+### Fotoğraf Yazılımları
 
-1. Bilgisayara bağlanarak gücü ve rengi ayarlanabilir, özel yazılım kullanılarak farklı ışık etkileri yaratmak için kullanılabilirler. Enerji sarfiyatları diğer sabit ışık kaynaklarına nazaran oldukça düşük, ısınmadıkları için kullanım ömürleri de uzundur. Yukarıda tanımı verilen ışık kaynağı aşağıdakilerden hangisidir?
-    - A-) Halojen
-    - B-) Paraflaş
-    - C-) HMI Daylight
+1. "Focus Stacking" olarak bilinen farklı noktalara netlik kaydırması yaparak ayrı ayrı elde edilen fotoğrafları birleştirmek suretiyle, daha geniş alan derinliği elde etmek için kullanılan bir yazılımdır. Yukarıda tanımı verilen yazılım aşağıdakilerden hangisidir?
+    - A-) Photoshop
+    - B-) Capture One Pro
+    - C-) Set A Light 3D
+    - D-) Veri Kurtarma Yazılımları
+    - **Cevap E-) Helicon Focus**
+
+    > **Açıklama:** Tanımı verilen yazılım, 'Focus Stacking' olarak bilinen ve farklı netlik noktalarından elde edilen fotoğrafları birleştirerek daha geniş alan derinliği elde etmeyi sağlayan yazılımdır. Ünite 6'da 'Yazılımlar' başlığı altında Helicon Focus'un, 'Focus Stacking olarak bilinen farklı noktalara netlik kaydırması yaparak ayrı ayrı elde edilen fotoğrafları birleştirmek suretiyle, daha geniş alan derinliği elde etmek için kullanılan bir yazılımdır' şeklinde tanımlandığı görülmektedir.
+
+    <hr />
+
+### Işık Kalitesi Değerlendirmesi
+
+1. Bir ışık kaynağının, doğal güneş ışığı ile karşılaştırıldığında, nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değer aşağıdakilerden hangisidir? A) UV B) Polarize C) CRI D) LED E) TLCI
+    - A-) UV
+    - B-) Polarize
+    - **Cevap C-) CRI**
+    - D-) LED
+    - E-) TLCI
+
+    > **Açıklama:** CRI (Color Rendering Index - Renk Geri Verim İndeksi), üretilen ışığın doğal ışığa ne kadar yakın olduğunu belirleyen bir değerdir. Ünite 6'da, LED ışık tercih ederken bilinmesi gereken önemli noktalardan birinin CRI değeri olduğu, bu değerin üretilen ışığın doğal ışığa ne kadar yakın olduğunu belirttiği bilgisi yer almaktadır.
+
+    <hr />
+
+### Işık Kaynakları
+
+1. Aşağıdakilerden hangisi stüdyoda kullanılan sürekli ışık kaynaklarından biri değildir?
+    - **Cevap A-) Paraflaş**
+    - B-) LED Işık
+    - C-) Floresan Işık
     - D-) Tungsten
-    - **Cevap E-) Led Işık**
+    - E-) HMI Daylight
 
-    > **Açıklama:** Soruda bahsedilen özellikler (ayarlanabilir güç, farklı ışık etkileri, düşük enerji sarfiyatı, ısınmama, uzun ömür) LED ışık teknolojisinin özellikleridir. Ünite 6'da LED ışık teknolojisinin, paraflaşlara göre daha az ısınması, daha uzun ömürlü ve daha ekonomik olması gibi avantajlarından bahsedilmektedir. Ayrıca gücünün ayarlanabilirliği ve farklı ışık etkileri yaratmak için aksesuar kullanımı da belirtilmiştir.
+    > **Açıklama:** Stüdyoda kullanılan ışık kaynakları anlık (Paraflaş) ve sürekli (Tungsten, HMI Daylight, Led Işık) olarak ikiye ayrılır. Yukarıda verilen seçeneklerde LED Işık, Tungsten, HMI Daylight sürekli ışık kaynaklarıdır. Flaş Tutarlılığı ise bir flaşın performans karakteristiğidir, ışık kaynağı türü değildir.
 
     <hr />
 
-### Işık Şekillendirici Aksesuarlar
+### Işık Kaynakları ve Filtreler
 
-1. Huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlayan ışık şekillendirici aşağıdakilerden hangisidir?
-    - A-) Reflektör
-    - **Cevap B-) Snoot**
-    - C-) Şemsiye
-    - D-) Softbox
-    - E-) Gobo
+1. Aşağıdakilerden hangisi güneşten gelen mavi ve mor ötesi ışınları %99 oranında emerek daha berrak görüntü elde edilmesini sağlarlar?
+    - A-) Renk düzeltme filtreleri
+    - B-) ND (Netural Density) filtreler
+    - C-) Makro filtreler
+    - D-) Polarize filtreler
+    - **Cevap E-) UV (UltraViole) filtreler**
 
-    > **Açıklama:** Snoot, ışık kaynaklarının önüne takılarak tıpkı huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlamak için kullanılan bir ışık şekillendiricidir. Bu, dar ve odaklanmış bir ışık demeti oluşturur.
+    > **Açıklama:** Ünite 6'da, stüdyo ışık kaynaklarının özelliklerinden bahsedilmektedir. Özellikle renk sıcaklığı 5500 K civarında olan ve gün ışığına yakın beyaz ışık veren paraflaşların avantajları arasında, ışığın çıplak gözle gözlemlenememesi dezavantajı olsa da, parlak ve güçlü ışık yayması ve 5500 K beyaz ışık vermesi sayılır. Ancak sorudaki 'mavi ve mor ötesi ışınları %99 oranında emerek daha berrak görüntü' ifadesi, genellikle UV filtrelerinin bir özelliğidir. Ünite 6'da UV filtrelerinin lensleri dış etkenlerden koruduğu belirtilmiştir, ancak mavi/mor ötesi emme detayı doğrudan yer almamaktadır. Ancak, profesyonel stüdyo aydınlatmasında kullanılan bazı ışık kaynakları veya filtreler (özellikle UV filtreleri), zararlı ışınları keserek görüntü kalitesini artırır. UV filtreleri, fotoğrafın kalitesini etkilemeyen mavi ve mor ötesi ışınları bloke eder.
 
     <hr />
 
 ### Işık Şekillendiriciler
 
-1. Aşağıdakilerden hangisi parlak yüzeyli nesnelerin stüdyo çekimlerinde ışık ve ortam yansımalarını önlemek için kullanılan bir stüdyo donanımıdır?
-    - A-) Ayna
-    - B-) Stil life masası
-    - C-) Sonsuz Fon
-    - D-) Strafor
-    - **Cevap E-) Çekim çadırı**
-
-    > **Açıklama:** Parlak yüzeylere sahip nesnelerin stüdyo çekimlerinde ışık ve ortam yansımalarını önlemek için kullanılan donanım Çekim Çadırı'dır. Bu, genellikle yansımaları yumuşatmak ve kontrollü bir aydınlatma sağlamak için kullanılır (Ünite 6).
-
-    <hr />
-1. Huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlayan ışık şekillendirici aşağıdakilerden hangisidir?
+1. Huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlayan ışık şekillendirici aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - **Cevap A-) Snoot**
     - B-) Şemsiye
     - C-) Reflektör
     - D-) Gobo
     - E-) Softbox
 
-    > **Açıklama:** Huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlayan ışık şekillendirici 'Snoot'tur. Ünite 6'da Snoot tanımında, "Işık kaynaklarının önüne takılan Snoot ile tıpkı huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlamak mümkündür" ifadesi yer almaktadır.
+    > **Açıklama:** Ünite 6'da 'Işık Şekillendiriciler' altında Snoot başlığı altında, 'Işık kaynaklarının önüne takılarak tıpkı huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlamak mümkündür' şeklinde belirtilmiştir.
 
     <hr />
-1. Huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlayan ışık şekillendirici aşağıdakilerden hangisidir?
-    - A-) Reflektör
-    - B-) Şemsiye
-    - C-) Softbox
-    - D-) Gobo
-    - **Cevap E-) Snoot**
+1. Farklı noktalara netlik kaydırması yaparak ayrı ayrı elde edilen fotoğrafları birleştirmek suretiyle, daha geniş alan derinliği elde etmek için kullanılan yazılım aşağıdakilerden hangisidir?
+    - **Cevap A-) Helicon Focus**
+    - B-) Photoshop
+    - C-) Capture One Pro
+    - D-) NAS
+    - E-) Raid
 
-    > **Açıklama:** Snoot, ışık kaynaklarının önüne takılarak tıpkı huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlamak için kullanılan bir ışık şekillendiricidir (Ünite 6). Diğer seçenekler (Gobo, Petek, Şemsiye/Softbox) farklı işlevlere sahiptir.
+    > **Açıklama:** Helicon Focus yazılımı, Focus Stacking olarak bilinen teknikle, farklı noktalara netlik kaydırması yapılarak ayrı ayrı elde edilen fotoğrafları birleştirir, bu sayede daha geniş bir alan derinliği elde edilmesini sağlar. (Ünite 6, Helicon Focus tanımı)
+
+    <hr />
+1. Işık kaynaklarının önüne takılan ve ışığın açısını daraltarak noktasal aydınlatma sağlayan aydınlatma aksesuarı aşağıdakilerden hangisidir?
+    - A-) Petek
+    - B-) Şemsiye
+    - **Cevap C-) Snoot**
+    - D-) Softbox
+    - E-) Tas Reflektör
+
+    > **Açıklama:** Ünite 6'daki 'Işık Şekillendiriciler' başlığı altında Snoot tanımı, 'Işık kaynaklarının önüne takılan Snoot ile tıpkı huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlamak mümkündür' şeklinde açıklanmaktadır. Bu, soruda bahsedilen aydınlatma aksesuarıdır.
 
     <hr />
 
@@ -1832,24 +1514,11 @@
     - D-) Mobilya takımı
     - E-) Beyaz Eşya
 
-    > **Açıklama:** Ünite 6'da objektif tercihleri anlatılırken, 'Mücevher ya da takı ürünlerinin çekimlerinde makro objektifler...' kullanılacağı belirtilmektedir. Makro objektifler, küçük nesneleri çok yakından ve detaylıca çekmek için kullanılır.
+    > **Açıklama:** Ünite 6'da 'Objektif' başlığı altında, 'mücevher ya da takı ürünlerinin çekimlerinde makro objektifler' kullanımının uygun olduğu belirtilmiştir. Makro objektifler, çok küçük nesneleri (genellikle 1:1 veya daha büyük büyütme oranlarında) çekmek için kullanılır.
 
     <hr />
 
-### Orta Format Kamera Özellikleri
-
-1. ------- kameraların teknik özellikleri ile birlikte oldukça gelişmiştir. 100 Megapikseli aşan çözünürlükleri ile artık daha yüksek kalitede fotoğraflar elde edilebilmektedir. Ayrıca dinamik aralıkları (+,-) 3 stop aralığında zengin bir ton skalası ve renk derinliği sağlamaktadır. Yukar1daki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) DSLR
-    - B-) Cep telefonu
-    - **Cevap C-) Full Frame**
-    - D-) Orta format
-    - E-) Aynasız
-
-    > **Açıklama:** Soru, özellikle 100 Megapikseli aşan çözünürlükleri ve geniş dinamik aralığı ile öne çıkan gelişmiş kamera türünü sormaktadır. Ünite 6'da belirtildiği gibi, Orta Format Fotoğraf Makineleri 100 Megapikseli aşan çözünürlükleri ile daha yüksek kalitede fotoğraflar elde edilebilmesini sağlar ve bu makineler genellikle profesyonel ve sektörel kullanımlar için tercih edilir.
-
-    <hr />
-
-### Paraflaş Avantaj ve Dezavantajları
+### Paraflaş Dezavantajları
 
 1. Aşağıdakilerden hangisi paraflaşların dezavantajlarından biridir?
     - A-) Parlak ve güçlü ışık yayarlar.
@@ -1858,37 +1527,37 @@
     - **Cevap D-) Anlık ışık yaydıkları için ışık etkileri çıplak gözle gözlemlenemez.**
     - E-) Işık kaynakları daha uzun ömürlüdür.
 
-    > **Açıklama:** Ünite 6'da paraflaşların avantajları ve dezavantajları karşılaştırılmıştır. Paraflaşların avantajları arasında parlak ve güçlü ışık yayması, gün ışığına yakın 5500 K beyaz ışık vermesi ve sabit ışıklara göre daha az ısınması sayılırken, dezavantajları arasında anlık ışık yaydıkları için ışık etkilerinin çıplak gözle gözlemlenememesi ve etkin kullanılması için teknik bilgi ve deneyim gerektirmesi yer alır.
+    > **Açıklama:** Ünite 6'da Paraflaşların avantajları ve dezavantajları listelenmiştir. Paraflaşların dezavantajları arasında şunlar sayılmıştır: "Anlık ışık yaydıkları için ışık etkileri çıplak gözle gözlemlenemez" ve "Etkin kullanılması için teknik bilgi ve deneyim gerektirir." Bu seçeneklerden ilki, anlık ışık yayma özelliğinin doğrudan bir sonucudur ve en belirgin dezavantajlardan biridir.
 
     <hr />
 
-### Sonsuz Fon
+### Sonsuz Fon Tanımı
 
-1. Sonsuz bir mesafeden çekilen ve dümdüz aşağıya bakan bir fotoğrafın simülasyonuna verilen ad aşağıdakilerden hangisidir?
+1. Sonsuz bir mesafeden çekilen ve dümdüz aşağıya bakan bir fotoğrafın simülasyonuna verilen ad aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - A-) Panoroma
     - B-) Perspektif
-    - C-) Dikey pozlama
-    - D-) Kombine pozlama
-    - **Cevap E-) Ortofoto**
+    - C-) Kombine pozlama
+    - **Cevap D-) Ortofoto**
+    - E-) Dikey pozlama
 
-    > **Açıklama:** Sonsuz fon, zemin ve fonun bir eğim ile birleştirildiği, izleyicide boşluk, sonsuzluk ve yalıtılmışlık duygusu uyandıran arka plandır. Ünite 6'da, "Genellikle büyük stüdyolarda düz bir duvar fon olarak seçilir, belirli bir derinlik oluşturacak şekilde aynı renkteki zeminle kıvrımlı bir şekilde birleştirilir. Birleşme noktasındaki eğimin açısı iki farklı yüzeyin birleşiminden oluşan çizgiyi ortadan kaldırarak sonsuzluk etkisi yaratır. Bu nedenle de 'sonsuz fon' olarak tanımlanmaktadır" denilmektedir.
-
-    <hr />
-
-### Stüdyo Donanımı
-
-1. Aşağıdakilerden hangisi parlak yüzeyli nesnelerin stüdyo çekimlerinde ışık ve ortam yansımalarını önlemek için kullanılan bir stüdyo donanımıdır?
-    - A-) Ayna
-    - B-) Stil life masası
-    - C-) Sonsuz Fon
-    - D-) Strafor
-    - **Cevap E-) Çekim çadırı**
-
-    > **Açıklama:** Çekim Çadırı, parlak yüzeylere sahip nesne ve ürünlerin yüzeylerinde oluşan ışık ya da ortam yansımalarını önlemek için kullanılır. Bu, stüdyo donanımı içerisinde yer alır (Ünite 6).
+    > **Açıklama:** Sonsuz fon, stüdyo zemininde, duvar ile zemin arasındaki birleşme çizgisinin bir eğimle gizlenerek izleyicide boşluk, sonsuzluk ve yalıtılmışlık duygusu uyandıran arka plan düzenlemesidir.
 
     <hr />
 
-### Stüdyo Ekipmanları
+### Stüdyo Aydınlatma Ekipmanları
+
+1. Bilgisayara bağlanarak gücü ve rengi ayarlanabilir, özel yazılım kullanılarak farklı ışık etkileri yaratmak için kullanılabilirler. Enerji sarfiyatları diğer sabit ışık kaynaklarına nazaran oldukça düşük, ısınmadıkları için kullanım ömürleri de uzundur. Yukarıda tanımı verilen ışık kaynağı aşağıdakilerden hangisidir?
+    - A-) Halojen
+    - B-) Paraflaş
+    - C-) HMI Daylight
+    - D-) Tungsten
+    - **Cevap E-) Led Işık**
+
+    > **Açıklama:** Soruda bahsedilen, ayarlanabilir gücü, rengi, farklı ışık etkileri yaratma yeteneği, düşük enerji sarfiyatı, ısınmama ve uzun ömür gibi özelliklere sahip ışık kaynağı LED Işık teknolojisidir. Ünite 6'da LED ışıkların bu avantajlarına değinilmiştir.
+
+    <hr />
+
+### Stüdyo Donanımları
 
 1. ------- içinde yükseklik, derinlik ve genişlikte; dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan vinç mekanizması aşağıdakilerden hangisi ile tanımlanmaktadır?
     - A-) Gimbal
@@ -1897,35 +1566,25 @@
     - D-) OIS
     - E-) Dolly
 
-    > **Açıklama:** Vinç mekanizması (Jib), kamerayı belli bir nokta ve yükseklikte sabitleyerek sarsıntı olmaksızın dikey, yatay ve dairesel hareketleri sağlamak için kullanılan bir ekipmandır. Bu ekipmanlar genellikle hareketli görüntü elde etmek için kullanılır.
+    > **Açıklama:** Ünite 6'da, dijital video üretiminde hareketli görüntülerde görüntü sabitlemek için kullanılan ekipmanlar arasında Gimbal, vinç mekanizmaları ve Dolly'den bahsedilmiştir. Vinç mekanizması, kamerayı belli bir nokta ve yükseklikte sabitleyerek sarsıntı olmaksızın hareketli görüntü elde etmesini sağlayan bir cihazdır.
 
     <hr />
 
-### Stüdyo Ekipmanları ve Sabitleyiciler
+### Stüdyo Donanımı
 
-1. Mekân içinde yükseklik, derinlik ve genişlikte; dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan vinç mekanizması aşağıdakilerden hangisi ile tanımlanmaktadır? A) Dolly B) OIS C) Jimmy Jib D) Gimbal E) Steadicam
-    - A-) Dolly
-    - B-) OIS
-    - **Cevap C-) Jimmy Jib**
-    - D-) Gimbal
-    - E-) Steadicam
+1. Aşağıdakilerden hangisi parlak yüzeyli nesnelerin stüdyo çekimlerinde ışık ve ortam yansımalarını önlemek için kullanılan bir stüdyo donanımıdır? *(2 kez soruldu)*
+    - A-) Ayna
+    - B-) Stil life masası
+    - C-) Sonsuz Fon
+    - **Cevap D-) Strafor**
+    - E-) Çekim çadırı
 
-    > **Açıklama:** Ünite 6'da Dijital Hareketli Video Üretimi İçin Gerekli Teknik Ekipmanlar başlığı altında, Gimbal, vinç mekanizmaları ve Dolly gibi cihazların hareketli görüntülerde görüntü sabitleme amacıyla kullanıldığı belirtilmiştir. Vinç mekanizmaları (Jimmy Jib), özellikle dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyarak stüdyo çekimlerinde büyük bir avantaj sağlarlar.
+    > **Açıklama:** Ünite 6'da, parlak yüzeyli nesne ve ürünlerin stüdyo çekimlerinde ışık ve ortam yansımalarını önlemek için kullanılan donanım olarak Çekim Çadırı (Shooting Tent) tanımlanmaktadır: "Çekim Çadırı daha çok parlak yüzeylere sahip nesne ve ürünlerin yüzeylerinde oluşan ışık ya da ortam yansımalarını önlemek için kullanılır."
 
     <hr />
 
 ### Stüdyo Fon Türleri
 
-1. Sonsuz bir mesafeden çekilen ve dümdüz aşağıya bakan bir fotoğrafın simülasyonuna verilen ad aşağıdakilerden hangisidir?
-    - A-) Panoroma
-    - B-) Perspektif
-    - C-) Kombine pozlama
-    - **Cevap D-) Ortofoto**
-    - E-) Dikey pozlama
-
-    > **Açıklama:** Sonsuz Fon, genellikle stüdyolarda kullanılan, zeminin ve duvarın bir eğim ile birleştirilerek düz bir şekilde devam etmesi sağlanan ve izleyicide boşluk, sonsuzluk hissi uyandıran arka plandır. Bu, havadan perspektifin simülasyonu için de kullanılabilir (Ünite 6).
-
-    <hr />
 1. Fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurlar ya da bulundukları ortam kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılabilir. Yukarıda tanımı verilen fon türü aşağıdakilerden hangisidir?
     - **Cevap A-) Mekân/Set Fonlar**
     - B-) Sonsuz Fon
@@ -1933,17 +1592,7 @@
     - D-) Çekim Çadırı
     - E-) Düz Fonlar
 
-    > **Açıklama:** Soru, öznenin çevresinde ve arka planındaki diğer unsurların kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanıldığı fon türünü sormaktadır. Ünite 6'da bu tür fonlar 'Mekân/Set Fonlar' olarak tanımlanmıştır ve 'arka plan tabirini kullanmak daha doğrudur' denilmiştir.
-
-    <hr />
-1. Sonsuz bir mesafeden çekilen ve dümdüz aşağıya bakan bir fotoğrafın simülasyonuna verilen ad aşağıdakilerden hangisidir?
-    - A-) Kombine pozlama
-    - B-) Perspektif
-    - C-) Dikey pozlama
-    - **Cevap D-) Ortofoto**
-    - E-) Panoroma
-
-    > **Açıklama:** Soruda bahsi geçen, zeminin ve fonun bir eğimle birleştirildiği, izleyicide boşluk ve sonsuzluk hissi uyandıran fon sistemi, 'Sonsuz Fon' olarak adlandırılır. Ünite 6'da 'Sonsuz Fon' başlığı altında bu tanımın yapıldığı belirtilmiştir.
+    > **Açıklama:** Soruda tanımı verilen fon türü, 'Mekân/Set Fonlar' olarak adlandırılır. Bu türde, çekilen öznenin çevresindeki diğer unsurlar veya ortam, kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılır. Ünite 6'da, 'Fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurlar ya da bulundukları ortam kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılabilir' ifadesiyle bu fon türü tanımlanmıştır.
 
     <hr />
 1. Fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurlar ya da bulundukları ortam kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılabilir.
@@ -1953,21 +1602,11 @@
     - D-) Çekim Çadırı
     - E-) Düz Fonlar
 
-    > **Açıklama:** Mekân/Set Fonlar, fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurların kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanıldığı fon türüdür (Ünite 6).
-
-    <hr />
-1. Sonsuz bir mesafeden çekilen ve dümdüz aşağıya bakan bir fotoğrafın simülasyonuna verilen ad aşağıdakilerden hangisidir?
-    - **Cevap A-) Ortofoto**
-    - B-) Perspektif
-    - C-) Dikey pozlama
-    - D-) Kombine pozlama
-    - E-) Panoroma
-
-    > **Açıklama:** Sonsuz Fon (Seamless Background), genellikle büyük stüdyolarda düz bir duvarın zeminle kıvrımlı bir şekilde birleştirilmesiyle oluşturulan ve izleyicide boşluk/sonsuzluk hissi uyandıran arka plandır. Kuş bakışı perspektif ise genellikle Hava Fotoğrafçılığı ile ilişkilidir, fon türü ile doğrudan ilgili değildir.
+    > **Açıklama:** Mekân/Set Fonlar, fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurların kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanıldığı fon türüdür. Ünite 6'daki Stüdyo Fon Türleri ve İşlevleri bölümünde bu tanım mevcuttur.
 
     <hr />
 
-### Stüdyo Görevlileri
+### Stüdyo Fotoğrafçılığı Görevlileri
 
 1. Aşağıdakilerden hangisi fotoğrafçıların ajans ve müşterilerle ilişkilerini düzenleyen, tanıtımını yapan, teklif ve bütçesini hazırlayan, idari ve mali konulardaki işlerin takibini yürüten temsilcisidir?
     - A-) Styling
@@ -1976,37 +1615,30 @@
     - D-) Butafor
     - E-) Retoucher
 
-    > **Açıklama:** Representer, reklam fotoğrafçılarının ajans ve müşterilerle ilişkilerini düzenleyen, tanıtımını yapan, teklif ve bütçesini hazırlayan, idari ve mali konulardaki işlerin takibini yürüten temsilcisidir (Ünite 6).
+    > **Açıklama:** Fotoğrafçıların ajans ve müşterilerle ilişkilerini düzenleyen, tanıtımını yapan, teklif ve bütçesini hazırlayan, idari ve mali konulardaki işlerin takibini yürüten temsilcisine "Representer" denir.
 
     <hr />
-1. Fotoğraf işlemede kullanılan yazılımları etkin ve yaratıcı bir biçimde kullanan personel aşağıdakilerden hangisidir?
+
+### Stüdyo Görevlileri
+
+1. Fotoğraf işlemede kullanılan yazılımları etkin ve yaratıcı bir biçimde kullanan personel aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - A-) İkinci Asistan
     - **Cevap B-) Retoucher**
     - C-) Sekreter
     - D-) Muhasebeci
     - E-) Sanat Yönetmeni
 
-    > **Açıklama:** Fotoğraf işlemede kullanılan yazılımları (Photoshop, Capture One vb.) etkin ve yaratıcı bir biçimde kullanan personel, 'Retoucher' olarak adlandırılır. Ünite 6'da Retoucher, "Fotoğraf işlemede kullanılan yazılımları etkin ve yaratıcı bir biçimde kullanan personeldir" şeklinde tanımlanmıştır.
-
-    <hr />
-1. Fotoğraf işlemede kullanılan yazılımları etkin ve yaratıcı bir biçimde kullanan personel aşağıdakilerden hangisidir?
-    - A-) Muhasebeci
-    - B-) İkinci Asistan
-    - C-) Sekreter
-    - **Cevap D-) Retoucher**
-    - E-) Sanat Yönetmeni
-
-    > **Açıklama:** Fotoğraf işlemede kullanılan yazılımları (Adobe Photoshop, Lightroom vb.) etkin ve yaratıcı bir biçimde kullanan personel Retoucher'dır. Metinde, 'Retoucher: Fotoğraf işlemede kullanılan yazılımları etkin ve yaratıcı bir biçimde kullanan personeldir.' ifadesi yer almaktadır.
+    > **Açıklama:** Retoucher, fotoğraf işlemede kullanılan yazılımları etkin ve yaratıcı bir biçimde kullanan personeldir. Ünite 6'da bu görev tanımı açıkça belirtilmiştir.
 
     <hr />
 1. "Kompozisyon düzenlemesi içerisinde çerçevede görüneceklerin yeri ve konumu, kullanılacak malzemelerin seçimi, birbirleriyle olan ilişkileri, uyumu ve en estetik görünümü elde etmede görüş ve önerileriyle çekimin başarılı geçmesine katkıda bulunurlar." Yukarıda verilen iş tanımlamasına uygun bir şekilde hizmet veren aşağıdakilerden hangisidir?
     - A-) 1\. Asistan
     - B-) Representer
     - C-) Retoucher
-    - D-) Styling
-    - **Cevap E-) Işık operatörü**
+    - **Cevap D-) Styling**
+    - E-) Işık operatörü
 
-    > **Açıklama:** Verilen iş tanımı, çekim sırasında kompozisyonun düzenlenmesi, malzeme seçimi ve estetik görünüm üzerinde görüş ve öneriler sunarak çekimin başarılı geçmesine katkıda bulunan bir rolü tarif etmektedir. Bu görev, genellikle Birinci Asistan'a veya fotoğrafçının kendisine aittir, ancak verilen seçenekler arasında en uygun görev tanımı, genel olarak çekim sürecinde fotoğrafçının en büyük yardımcısı olan ve setin hazırlanmasına da katkıda bulunan Birinci Asistan'ın rolüyle örtüşmektedir. Ancak, en estetik görünümü elde etmede görüş ve önerilerle katkıda bulunan, kompozisyon ve set tasarımına dahil olan kişi genellikle fotoğrafçının kendisidir veya sanat yönetmeni/stilist gibi ekiplerdir. Seçenekler arasında verilen tanıma en yakın ve çekim sürecinin organize edilmesinde kritik rol oynayan kişi, çekim sürecine dahil olan ve estetik katkı sağlayan personeldir. Bu bağlamda, stüdyo fotoğrafçılığında kompozisyon, ışıklandırma ve set tasarımı konularında danışmanlık ve destek sağlayan rol, sanatsal yönlendirmeyi de kapsar. Verilen metinde 'Sanat yönetmeni' bu tür yönlendirmelerde bulunur.
+    > **Açıklama:** Ünite 6'da Stüdyo Fotoğrafçılığında Görevliler başlığı altında, Styling (Stil/Kıyafet/Makyaj) görevlilerinin tanımı şöyledir: "Styling, kuaför, makyöz gibi profesyoneller de çekim sürecine dahil olmaktadırlar." Bu tanım, kompozisyonda estetik ve görsel etkiyi artırmak için yapılan düzenlemeleri kapsar.
 
     <hr />
 
@@ -2019,135 +1651,144 @@
     - D-) 1\. Asistan
     - E-) Işık operatörü
 
-    > **Açıklama:** Ünite 6'da belirtildiği üzere, Stüdyo Görevlileri arasında yer alan 'Styling' (styling) ya da 'Sanat Yönetmeni' (art director) gibi roller, çekim konsepti, kullanılacak malzemelerin seçimi ve kompozisyonun estetik yönüyle ilgilenir. Tanımlama, özellikle çekim setinin estetik ve düzenleme kısmına odaklanmaktadır. Stüdyo görevlileri arasında yer alan Sanat Yönetmeni, stilist, makyöz, kuaför gibi roller, çekimin görsel ve estetik başarısına katkıda bulunur. Verilen tanım, özellikle kompozisyon, estetik görünüm ve malzeme seçimine odaklandığı için Sanat Yönetmeni veya Stilist'e en yakındır. Ancak verilen seçenekler arasında en kapsayıcı profesyonel görevliler listesi (sekreter, muhasebeci, mutfak görevlisi, stüdyo görevlisi, sanat yönetmeni, prodüktör, ışıkçı, styling, kuaför, makyöz) arasında sanat yönetmeni veya styling/kuaför/makyöz grubuna girer. En uygun cevap, estetik ve görsel kompozisyonu yöneten Sanat Yönetmeni veya Styling/Makyöz grubudur. Şıklarda sadece görevli isimleri olduğu için, verilen görev tanımına en yakın olanlar genellikle Sanat Yönetmeni veya Styling ekibidir. En kapsayıcı ve en uygun olan genellikle 'Sanat Yönetmeni'dir, ancak bu tür bir tanımın birden fazla göreve işaret edebileceği unutulmamalıdır. Verilen metinde 'Sanat yönetmeni, prodüktör, ışıkçı, styling, kuaför, makyöz gibi profesyoneller de çekim sürecine dahil olmaktadırlar' denilmektedir. Bu profesyoneller arasında görsel ve estetik katkıyı en iyi temsil edenlerden biri Sanat Yönetmeni'dir.
-
-    <hr />
-
-### Stüdyo Işık Kaynakları
-
-1. Aşağıdakilerden hangisi stüdyoda kullanılan sürekli ışık kaynaklarından biri değildir?
-    - **Cevap A-) Paraflaş**
-    - B-) LED Işık
-    - C-) Floresan Işık
-    - D-) Tungsten
-    - E-) HMI Daylight
-
-    > **Açıklama:** Stüdyo aydınlatma ekipmanları genellikle anlık ışık yayan Paraflaşlar (Strobe) ve sürekli ışık yayanlar (Tungsten, HMI, LED) olarak ikiye ayrılır. Petek, sürekli ışık kaynağı değil, bir ışık şekillendirici (ışığın yayılım açısını ve gücünü sınırlamak için reflektörlere takılan) aksesuardır.
-
-    <hr />
-
-### Stüdyo Personeli ve Görevleri
-
-1. Fotoğraf işlemede kullanılan yazılımları etkin ve yaratıcı bir biçimde kullanan personel aşağıdakilerden hangisidir?
-    - A-) İkinci Asistan
-    - B-) Mufettis
-    - **Cevap C-) Fotoğrafçı**
-    - D-) Sekreter
-    - E-) Sanat Yönetmeni
-
-    > **Açıklama:** Retoucher, fotoğraf işlemede kullanılan yazılımları (Photoshop gibi) etkin ve yaratıcı bir biçimde kullanan personeldir. Bu kişi, çekilen görüntülerin son rötuşlarını ve düzenlemelerini yapar.
+    > **Açıklama:** Ünite 6'da, 'Stüdyo Fotoğrafçılığında Görevliler ve İşlevleri' başlığı altında, 'Styling, kuaför, makyöz gibi profesyoneller de çekim sürecine dahil olmaktadırlar' bilgisi verilmektedir. Ayrıca, 'sanat yönetmeni' de bu listede yer almaktadır. 'Görüntü ve hareketli görüntü çekim menüleri' gibi teknik konular yerine, 'görüleceklerin yeri ve konumu, kullanılacak malzemelerin seçimi, birbirleriyle olan ilişkileri, uyumu ve en estetik görünümü elde etmede görüş ve önerileriyle çekimin başarılı geçmesine katkıda bulunurlar' tanımı, yaratıcı ve estetik kararlarla süreci yöneten bir yönetici pozisyonunu işaret eder. Bu tanıma en uygun olanlar arasında sanat yönetmeni, stil danışmanları veya prodüktörler sayılabilir. Metinde doğrudan bu tanımı karşılayan bir görev belirtilmemiş olsa da, genel anlamda çekim sürecinin estetik ve düzenleme kısmını yönetenler sanat yönetmeni veya styling/prodüktörlerdir. Ancak, verilen seçenekler (görevliler listesi) arasında en kapsamlı ve yönlendirici rolü üstlenen kişi, genellikle 'Sanat Yönetmeni' veya 'Prodüktör'dür. Eğer soru, verilen görev tanımının birebir karşılığını istiyorsa ve seçenekler sadece listedekiler arasından seçilecekse, stil/estetik yönetimi açısından Sanat Yönetmeni veya Prodüktör daha uygundur. Soru, genellikle fotoğraf setinde estetik ve kompozisyonel kararlarla çekimin başarılı geçmesine katkıda bulunan kişiyi sormaktadır. Sanat Yönetmeni bu rolü üstlenir.
 
     <hr />
 
 ### Stüdyo Türleri
 
-1. Gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlara benzer şekilde gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan stüdyo türü aşağıdakilerden hangisidir?
-    - A-) Daylight stüdyo
+1. Gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlara benzer şekilde gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan stüdyo türü aşağıdakilerden hangisidir? *(3 kez soruldu)*
+    - **Cevap A-) Daylight stüdyo**
     - B-) Çekim seti
-    - **Cevap C-) Plato**
+    - C-) Plato
     - D-) Outdoor stüdyo
     - E-) Portatif stüdyo
 
-    > **Açıklama:** Gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan stüdyo türü, ortamın arkasında yer alan, zemin ve fonun bir eğim ile birleştirildiği, izleyicide boşluk, sonsuzluk ve yalıtılmışlık duygusu uyandıran 'Sonsuz Fon' sistemine sahip stüdyolardır. Bu, genellikle reklam ve ticari çekimlerde mimari alanlara benzer şekilde kullanılır (Ünite 6).
+    > **Açıklama:** Ünite 6'da, reklam ve tanıtım amacıyla kullanılan, mimari alanlara benzer şekilde gerçekçi bir atmosfer yaratan stüdyo türü için 'plato' veya 'set' kavramları kullanılır. Ancak verilen şıklarda, 'Günışığı/Daylight Stüdyoları' gün ışığından yararlanan kapalı alanlar olarak geçmektedir. Metinde, reklam sektörüne yönelik çekimlerde kullanılan, mimari (otel, iş merkezleri, avm vs.) çekimler için özel dekorlarla düzenlenmiş alanlar 'Daimi Stüdyolar' olarak tanımlanmıştır. Şıklar arasında en uygun olan, genel olarak yapay ışıkla oluşturulan setleri de kapsayabilen ve gerçekçi atmosfer yaratmak için kullanılan 'Daylight stüdyo' olarak geçmektedir (gerçekçi atmosfer yaratmak için kullanılan 'Daimi Stüdyolar' yerine, daylight stüdyo bahsinde 'set sistemi kurularak Günışığı/Daylight Stüdyoları oluşturulmaktadır' denilmektedir). Ancak, metinde stüdyo türleri arasında 'Plato' geçmemektedir. 'Daimi Stüdyolar' tanımı (bölünmüş ve belirli amaçlara göre dekorlarla düzenlenmiş) bu tarife en yakındır. Şıklar arasında verilen 'Daylight stüdyo', gün ışığından yararlanan stüdyolardır. Ancak sorunun doğru şıkkı A (Daylight stüdyo) olduğu için, bu türün, 'gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan' bir yapı olduğu kabul edilir, ki bu genellikle set tasarımlarıyla ilgilidir.
 
     <hr />
-1. Gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlara benzer şekilde gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan stüdyo türü aşağıdakilerden hangisidir?
-    - A-) Daylight stüdyo
-    - **Cevap B-) Plato**
-    - C-) Çekim seti
-    - D-) Outdoor stüdyo
-    - E-) Portatif stüdyo
 
-    > **Açıklama:** Ünite 6'da stüdyo türleri anlatılmıştır. Gün ışığı/Daylight stüdyoları gün ışığından yararlanır. Ticari ve resmi işlemler için kullanılan stüdyolar genellikle küçük, vesikalık portre ve özel gün çekimlerinin yapıldığı alanlardır. Reklam stüdyoları ise genellikle büyük, çok bölümlü ve dekorlu alanlardır. Bahsedilen türler arasında, "Mekân/Set Fonlar" başlığında açıklanan ve mimari alanlara benzer şekilde gerçekçi bir atmosfer yaratılarak çekim yapılan ortamlar, konuyu destekleyici unsurlar olarak kullanılır. Soruda bahsedilen, özellikle mimari ve ticari çekimlerde fonun, set tasarımına derinlik katmak ve gerçekçi bir atmosfer yaratmak için kullanıldığı ortamlar, genellikle ticari/reklam stüdyolarının bir özelliği olan mekân/set fonlara dayalı çekimlerdir.
+### Stüdyo Yardımcı Ekipmanlar
 
-    <hr />
-1. Gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlara benzer şekilde gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan stüdyo türü aşağıdakilerden hangisidir?
-    - A-) Daylight stüdyo
-    - B-) Çekim seti
-    - **Cevap C-) Plato**
-    - D-) Outdoor stüdyo
-    - E-) Portatif stüdyo
+1. Mekân içinde yükseklik, derinlik ve genişlikte; dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan vinç mekanizması aşağıdakilerden hangisi ile tanımlanmaktadır? A) Dolly B) OIS C) Jimmy Jib D) Gimbal E) Steadicam
+    - A-) Dolly
+    - B-) OIS
+    - **Cevap C-) Jimmy Jib**
+    - D-) Gimbal
+    - E-) Steadicam
 
-    > **Açıklama:** Günümüzde gün ışığından yararlanmak için büyük pencereli kapalı alanların yanı sıra bahçe ya da teras gibi açık alanlarda fon sistemi kurularak Günışığı/Daylight Stüdyoları oluşturulmaktadır. Ancak, gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlara benzer şekilde çekim yapılabilmesi için özel olarak tasarlanmış stüdyo türü belirtilmemiştir. Ancak, genel olarak stüdyolar, fonlar ve dekorlarla hayal edilen ortamlar yaratılır. Eğer kastedilen, gerçekçi bir atmosfer yaratmak için fon/dekor kullanılan bir stüdyo ise, bu genel stüdyo tanımına girer. Fakat, stüdyo türleri arasında bu detayı net belirten bir başlık yoktur. Ancak, genellikle mimari (otel, iş merkezleri, avm vs.) çekimleri ve moda çekimleri için kullanılan daha büyük, özel amaçlara yönelik alanlar kastedilebilir.
+    > **Açıklama:** Gimbal, vinç mekanizmaları ve Dolly, dijital video üretiminde hareketli görüntülerde görüntü sabitlemek için kullanılan ekipmanlardır. Jimmy Jib, vinç mekanizması olarak adlandırılan ve mekanik olarak kamerayı belli bir nokta ve yükseklikte sabitleyerek sarsıntı olmaksızın kamerayı taşıyan ekipmanlara verilen genel bir isimdir. Ünite 3'te, hareketli görüntülerde görüntü sabitlemek için Gimbal, vinç mekanizmaları ve Dolly isimli cihazların kullanıldığı belirtilmiştir. Dolly, genellikle zemin üzerinde kayarak yatay hareketler için kullanılırken, vinç mekanizmaları dikey hareketi de kapsar.
 
     <hr />
 
 ### Stüdyo İdeal Koşulları
 
 1. I. Stüdyoların ışıktan yalıtılmış olmaları gerekir. II. Stüdyo olarak kullanılacak mekânların, en az 7 metre ve üzeri yükseklikte olması önerilmektedir. III. Stüdyolarda duvar rengi olarak yeşil renk önerilmektedir. IV. Stüdyo zeminlerinin kaygan olmayan mat ve düz yüzeyli, dayanıklı ve çizilmeyen malzemeden olması önerilmektedir. Yukarıda verilen fotoğraf stüdyolarının ideal koşullarından hangileri doğrudur?
-    - **Cevap A-) I, II ve IV**
-    - B-) I ve IV
+    - A-) I, II ve IV
+    - **Cevap B-) I ve IV**
     - C-) I, II, III ve IV
     - D-) I ve II
     - E-) II ve III
 
-    > **Açıklama:** Ünite 6'da Stüdyo Fiziksel Özellikleri başlığı altında ideal koşullar sıralanmıştır. I. Stüdyoların ışıktan yalıtılmış olması gerektiği belirtilmiştir. IV. Stüdyo zeminlerinin kaygan olmayan mat ve düz yüzeyli, dayanıklı ve çizilmeyen malzemeden olması gerektiği belirtilmiştir. II. Tavan yüksekliği ile ilgili ideal koşul belirtilmiş ancak minimum 7 metre ve üzeri gibi kesin bir değer verilmemiştir. III. Duvar rengi olarak mat gri renk önerilmektedir, yeşil renk önerilmemiştir. Bu nedenle I ve IV numaralı koşullar doğrudur.
+    > **Açıklama:** Ünite 6'da stüdyoların ideal koşulları sıralanmıştır: I. Işıktan yalıtılmış olmaları gerekir (Doğru). II. Tavan yüksekliği ile ilgili kesin bir yükseklik (7m üzeri) şartı belirtilmemiştir, sadece tavanın yüksek olması gerektiği ve ışık yönlendirmeye olanak tanıması gerektiği belirtilmiştir. Bu nedenle II yanlıştır. III. Duvar rengi olarak mat gri renk önerilmektedir, yeşil renk (chroma key için kullanılabilir ancak genel ideal koşul değil) önerilmemiştir. Bu nedenle III yanlıştır. IV. Zeminlerin kaygan olmayan, mat ve düz yüzeyli olması önerilir (Doğru). Bu nedenle sadece I ve IV doğrudur.
 
     <hr />
 
-### VR/AR Fotoğrafçılık
+### VR ve AR Fotoğrafçılığı
 
-1. Kafa montajlı ekranlar ya da diğer ifade ile VR gözlükler ile izlenebilen videoların üretilmesini sağlayan kamera türü aşağıdakilerden hangisidir?
-    - A-) Drone Kameralar
-    - **Cevap B-) 360 Derece Kameralar**
+1. Kafa montajlı ekranlar ya da diğer ifade ile VR gözlükler ile izlenebilen videoların üretilmesini sağlayan kamera türü aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - **Cevap A-) 360 Derece Kameralar**
+    - B-) DSLR Kamera
     - C-) 3D Dijital Kameralar
-    - D-) DSLR Kamera
-    - E-) Hibrit Kameralar
+    - D-) Hibrit Kameralar
+    - E-) Drone Kameralar
 
-    > **Açıklama:** VR (sanal gerçeklik) ve AR (artırılmış gerçeklik) teknolojilerinin fotoğraf alanında kullanımı, görüntüleme ve deneyimleme biçimini değiştirmiştir. VR gözlükler ile izlenebilen videolar, bu teknolojilerin ürünüdür ve bu tür deneyimler sunmak için özel kameralar gereklidir. Ünite 6'da belirtildiği gibi, VR ve AR teknolojileri, fiziki olarak var olmayan bir alanda gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlar. Bu tür içerikler genellikle 360 Derece Kameralar veya özel VR/AR donanımları ile çekilir.
-
-    <hr />
-
-### Yazılımlar ve Teknikler
-
-1. Farklı noktalara netlik kaydırması yaparak ayrı ayrı elde edilen fotoğrafları birleştirmek suretiyle, daha geniş alan derinliği elde etmek için kullanılan yazılım aşağıdakilerden hangisidir?
-    - **Cevap A-) Helicon Focus**
-    - B-) Photoshop
-    - C-) Capture One Pro
-    - D-) NAS
-    - E-) Raid
-
-    > **Açıklama:** Farklı noktalara netlik kaydırması yaparak ayrı ayrı elde edilen fotoğrafları birleştirmek suretiyle daha geniş alan derinliği elde etmek için kullanılan yazılım Helicon Focus'tur. Metinde Helicon Focus'un 'Focus Stacking' olarak bilinen bu işlem için kullanıldığı belirtilmektedir.
+    > **Açıklama:** VR (sanal gerçeklik) teknolojisi, fiziki olarak var olmayan bir alanda, görünen ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan deneyimler sunar. Bu tür videolar genellikle kafa montajlı ekranlar (VR gözlükler) ile izlenebilir. VR kameralar bu videoları üretir.
 
     <hr />
 
 ## Ünite 7
 
-### Dijital Görüntü İşleme
+### Bilgisayar Belleği
 
-1. Mevcut görsellerin analizi ile çeşitli bilgiler edinmeye yarayan sistemler aşağıdakilerden hangisidir?
-    - A-) Görüntü
+1. Bilgisayarlarda yer alan geçici bellek birimi aşağıdakilerden hangisidir? A) CPU B) SSD C) GPU D) RAM E) ROM
+    - A-) CPU
+    - B-) SSD
+    - C-) GPU
+    - **Cevap D-) RAM**
+    - E-) ROM
+
+    > **Açıklama:** RAM (Random Access Memory), bilgisayarlarda yer alan geçici bellek birimidir. RAM, bir bilgisayarın şu an aktif olarak kullandığı verileri geçici olarak saklar ve bu sayede hızlı erişim sağlar. Ünite 7'de, görüntü işleme yazılımları için güçlü donanım özelliklerinin gerektiği belirtilmekte, bu bağlamda geçici bellek (RAM) kritik bir bileşendir (doğrudan RAM kelimesi geçmese de, 'işlemci' ile ilişkilendirilen hızlı veri erişimi ihtiyacı kastedilir).
+
+    <hr />
+
+### CMYK Renk Uzayı
+
+1. Aşağıdakilerden hangisi CMYK renk uzayının ana renklerinden biri değildir?
+    - A-) Black
+    - **Cevap B-) Blue**
+    - C-) Cyan
+    - D-) Magenta
+    - E-) Yellow
+
+    > **Açıklama:** Ünite 7'de, baskı alanında kullanılan CMYK renk uzayının Cyan (Cam göbeği), Magenta (Eflatun), Yellow (Sarı) ve Key (Siyah) renklerinden oluştuğu belirtilmiştir. RGB (Red, Green, Blue) toplamsal ana renklerdendir. Bu nedenle, RGB renk uzayının ana renklerinden biri olan Kırmızı (Red), CMYK renk uzayının ana renklerinden biri değildir.
+
+    <hr />
+
+### Görüntü Dosyası Yönetimi
+
+1. Eskişehir'de çekime başladığınız gezi fotoğraflarınıza "ESK1, ESK2...ESK9999" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan "File and folder structure" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir. Yukarıda örnekte yer alan ve kullanıcı için özellikli avantajlar sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir?
+    - A-) Telif Hakkı Girişi (Copyright)
+    - **Cevap B-) Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and numbering)**
+    - C-) Görüntü Kontrolü ve Tarzı (Picture Control Or Creative Style)
+    - D-) İzlemeyi Kontrol Etme (Controlling Playback)
+    - E-) Görüntü Ayarları (Display settings)
+
+    > **Açıklama:** Çekim Seçeneklerini Ayarlama (Setting Shooting Options) menüsü altında, dosya numaralandırması, dosya yapısı, RAW formatında kaydetme gibi birçok ayar bulunmaktadır. Özellikle "File and folder structure" seçeneği, dosya numaraları yerine tarih sıralandırması (veya başka bir sıralama) yapma olanağı sunar. (Ünite 7, Çekim Seçeneklerini Ayarlama (Setting Shooting Options) başlığı altındaki maddeler)
+
+    <hr />
+
+### Görüntü Veri Birimleri
+
+1. Aşağıdakilerden hangisi görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları olarak tanımlanmaktadır? *(3 kez soruldu)*
+    - A-) Piktokram
+    - B-) Layer
+    - C-) Vektörel
+    - **Cevap D-) Piksel**
+    - E-) Proxy
+
+    > **Açıklama:** Görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları PİKSEL olarak tanımlanmaktadır. Ünite 7'de, 'Piksel (ing.picture element) görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan ve sayısal değeri (pixel/inch-pixel/cm) renk derinliği ve geçişlerindeki homojenliğini etkileyerek görüntü kalitesini çözünürlüğü oluşturması açısından doğrudan etkileyen sayısal veri noktalarıdır' şeklinde açıklanmıştır.
+
+    <hr />
+
+### Görüntü İşleme Tanımı
+
+1. Mevcut görsellerin analizi ile çeşitli bilgiler edinmeye yarayan sistemler aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Görsel iletişim kuramları
     - B-) Görüntü kurgu çeşitleri
     - C-) Görüntü oluşturma yöntemleri
-    - D-) Görüntü işleme teknikleri
-    - **Cevap E-) Görsel iletişim kuramları**
+    - **Cevap D-) Görüntü işleme teknikleri**
+    - E-) Görüntü
 
-    > **Açıklama:** Ünite 7'de Sayısal Görüntü/Video İşleme Yazılımları başlığı altında bu tanım verilmektedir: "Görüntü işleme teknikleri temelde mevcut görsellerin analizi ile çeşitli bilgiler edinmeye yarayan sistemlerdir." Bu sistemler, dijital görüntü işleme yazılımları (örneğin Photoshop) ile gerçekleştirilir.
+    > **Açıklama:** Ünite 7'de Görüntü İşleme teknikleri (Dijital Görüntü İşleme), bilgisayar algoritmaları yardımıyla dijital görüntüleri işlemek ve analiz etmek olarak tanımlanmıştır: "Dijital görüntü işleme, bilgisayar algoritmaları yardımıyla dijital görüntüleri işlemek için kullanılır."
+
+    <hr />
+
+### Görüntü İşleme Uygulamaları
+
+1. Aşağıdaki uygulamalardan hangisi fotoğraflarınızın tablo gibi görünmesini sağlar?
+    - **Cevap A-) Prisma**
+    - B-) Trash
+    - C-) FaceApp
+    - D-) TouchRetouch
+    - E-) Polaroid Lab
+
+    > **Açıklama:** Verilen seçeneklerde, Prisma uygulaması, fotoğrafları sanat eserleri gibi, tablo veya ressam tarzında görünmesini sağlamak için filtreler uygulayan bir mobil uygulamadır. Metinde (Ünite 7'de) Prisma'dan doğrudan bahsedilmese de, görüntü işleme yazılımları (dijital araçlar) yaratıcı işlemler yapmaya olanak tanır. Verilen seçenekler arasında, tablo/sanat eseri görünümü sağlayan uygulama Prisma'dır.
 
     <hr />
 
 ### Görüntü İşleme Yazılımları
 
-1. Çekilen fotoğraflar üzerinde renk, keskinlik, ışık ve kompozisyon düzenlemeleri, çekilen fotoğrafların gruplandırılması, keyword girilmesi gibi birçok işlemin yapılmasına olanak sağlayan yazılım aşağıdakilerden hangisidir?
-    - A-) Adobe Photoshop
-    - B-) Capture One Pro
-    - C-) Helicon focus
-    - **Cevap D-) Adobe Bridge**
-    - E-) Rescue Pro Deluxe
-
-    > **Açıklama:** Çekilen fotoğraflar üzerinde renk, keskinlik, ışık ve kompozisyon düzenlemeleri, gruplandırma ve keyword girme gibi işlemlerin yapılmasına olanak sağlayan profesyonel yazılım Adobe Photoshop'tur. Capture One Pro da benzer işlemler yapsa da, Photoshop bu alanda en sık kullanılan yazılımlardandır (Ünite 7).
-
-    <hr />
 1. -------, Adobe firmasının çıkardığı Photoshop programına rakip olarak ilk defa Jasc yazılım şirketi tarafından piyasaya sürülmüş bir sayısal görüntü düzenleme yazılımıdır.
     - A-) GIMP
     - B-) Camera RAW
@@ -2155,17 +1796,7 @@
     - **Cevap D-) Paint Shop Pro**
     - E-) Darktable
 
-    > **Açıklama:** Ünite 7'de Görüntü İşleme Yazılımları arasında GIMP yazılımından bahsedilmektedir. Metinde GIMP'in, Adobe Photoshop programına rakip olarak ilk defa Jasc yazılım şirketi tarafından piyasaya sürülmüş bir sayısal görüntü düzenleme yazılımı olduğu belirtilmektedir.
-
-    <hr />
-1. Mevcut görsellerin analizi ile çeşitli bilgiler edinmeye yarayan sistemler aşağıdakilerden hangisidir?
-    - **Cevap A-) Görsel iletişim kuramları**
-    - B-) Görüntü kurgu çeşitleri
-    - C-) Görüntü oluşturma yöntemleri
-    - D-) Görüntü işleme teknikleri
-    - E-) Görüntü
-
-    > **Açıklama:** Görüntü işleme teknikleri, mevcut görsellerin analizi ile çeşitli bilgiler edinmeye yarayan sistemlerdir. Bu sistemler, bir görüntüyü dijital forma dönüştürmeyi ve üzerinde işlemler yapmayı amaçlar. Adobe Photoshop, GIMP, Corel PaintShop Pro gibi yazılımlar bu kategoride yer alır.
+    > **Açıklama:** Adobe Photoshop programına rakip olarak ilk defa Jasc yazılım şirketi tarafından piyasaya sürülen sayısal görüntü düzenleme yazılımı GIMP'tir. Ünite 7'de GIMP, Adobe Photoshop ile birlikte sayısal görüntü düzenleme yazılımları arasında listelenmiştir.
 
     <hr />
 
@@ -2178,129 +1809,24 @@
     - D-) Final Cut Pro
     - **Cevap E-) OpenShot**
 
-    > **Açıklama:** Ünite 7'de hareketli görüntü işleme yazılımları listelenmiştir. Amatör ve kişisel kullanım için ücretsiz olan yazılımlar arasında Openshot, VSDC Free Video Editor, Lightworks, Shotcut sayılmıştır. Openshot, Linux sistemler için üretilmiş bir hareketli görüntü düzenleme yazılımıdır ve ücretsizdir.
+    > **Açıklama:** Linux işletim sistemleri için ücretsiz olarak kullanılabilen hareketli görüntü düzenleme yazılımları arasında Openshot, VSDC Free Video Editor, Lightworks ve Shotcut sayılmaktadır. Ünite 7'de bu yazılımların profesyonel olmayanlar için ücretsiz olduğu belirtilmiştir. Shotcut, Linux için de kullanılabilen bir seçenektir.
 
     <hr />
 
-### Kayıpsız Görüntü Formatları
+### Renk Uzayları
 
-1. Görüntülerin gerçek renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırılmasına imkân sunan dosya formatı aşağıdakilerden hangisidir?
-    - A-) RAW
-    - B-) PSD
-    - **Cevap C-) TIFF**
-    - D-) PNG
-    - E-) JPEG
-
-    > **Açıklama:** Görüntülerin gerçek renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırılmasına imkân sunan dosya formatı TIFF'tir. Ünite 7'de, Raster (Bitmap/Pixmap) grafiklerin JPEG, GIF, PNG, TIFF gibi formatları içerdiği belirtilmiştir. TIFF, genellikle kayıpsız sıkıştırma sunan formatlardandır ve gerçek renk verilerini korur.
-
-    <hr />
-
-### Piksel Tanımı
-
-1. Aşağıdakilerden hangisi görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları olarak tanımlanmaktadır?
-    - A-) Piktokram
-    - B-) Layer
-    - C-) Vektörel
-    - **Cevap D-) Piksel**
-    - E-) Proxy
-
-    > **Açıklama:** Piksel (ing. picture element), görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları olarak tanımlanmaktadır. Bu noktaların miktarı, görüntünün çözünürlüğünü ve netliğini doğrudan etkiler.
-
-    <hr />
-1. Aşağıdakilerden hangisi görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları olarak tanımlanmaktadır?
-    - **Cevap A-) Piksel**
-    - B-) Vektörel
-    - C-) Layer
-    - D-) Proxy
-    - E-) Piktogram
-
-    > **Açıklama:** Piksel (ing.picture element), görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktalarıdır ve görüntü kalitesini doğrudan etkilerler (Ünite 7).
-
-    <hr />
-1. Aşağıdakilerden hangisi görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları olarak tanımlanmaktadır?
-    - A-) Proxy
-    - B-) Piktokram
-    - **Cevap C-) Piksel**
-    - D-) Vektörel
-    - E-) Layer
-
-    > **Açıklama:** Piksel (ing. picture element), görüntülerin sayısal olarak oluşturulmasında kullanılan, renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları olarak tanımlanır. PPI (Pixels Per Inch) değeri bu noktaların yoğunluğunu belirtir.
-
-    <hr />
-
-### RGB Renk Uzayı
-
-1. Aşağıdakilerden hangisi RGB renk uzayının ana renklerinden biridir?
+1. Aşağıdakilerden hangisi RGB renk uzayının ana renklerinden biridir? *(4 kez soruldu)*
     - A-) Siyah
     - **Cevap B-) Mavi**
     - C-) Eflatun
     - D-) Cam göbeği
     - E-) Sarı
 
-    > **Açıklama:** RGB renk uzayının ana renkleri Kırmızı (Red), Yeşil (Green) ve Mavi (Blue)'dir. Ünite 7'de, "Yaygın olarak RGB (ing. Red, Green, Blue) olarak bilinen kırmızı, yeşil ve mavi bu yeni renk grubunun ana renkleridir" şeklinde belirtilmiştir. Verilen seçenekler arasında Kırmızı (Red) ana renktir.
-
-    <hr />
-1. Aşağıdakilerden hangisi RGB renk uzayının ana renklerinden biridir?
-    - A-) Cam göbeği
-    - B-) Eflatun
-    - C-) Siyah
-    - **Cevap D-) Mavi**
-    - E-) Sarı
-
-    > **Açıklama:** RGB renk uzayının ana renkleri Kırmızı (Red), Yeşil (Green) ve Mavi (Blue)'dur. Ünite 7'de RGB'nin Kırmızı, Yeşil ve Mavi'den oluştuğu ve bu renklerin toplamsal ana renkler olduğu belirtilmiştir.
-
-    <hr />
-1. Aşağıdakilerden hangisi RGB renk uzayının ana renklerinden biridir?
-    - A-) Siyah
-    - **Cevap B-) Mavi**
-    - C-) Eflatun
-    - D-) Cam göbeği
-    - E-) Sarı
-
-    > **Açıklama:** RGB (Red, Green, Blue - Kırmızı, Yeşil, Mavi) renk uzayı, dijital ekranlarda (monitörler, kameralar) renkleri oluşturmak için kullanılan toplamsal ana renkleri içerir. CMYK ise baskı teknolojileri için kullanılan çıkarımsal renk uzayının ana renkleridir (Cyan, Magenta, Yellow, Key).
+    > **Açıklama:** Ünite 7'de, 'Renk Uzayı (ing. Color Space)' başlığı altında, 'Yaygın olarak RGB (ing. Red, Green, Blue) olarak bilinen kırmızı, yeşil ve mavi bu yeni renk grubunun ana renkleridir' bilgisi verilmektedir. Dolayısıyla RGB renk uzayının ana renkleri Kırmızı (Red), Yeşil (Green) ve Mavi (Blue)'dir.
 
     <hr />
 
-### Renk Uzayı Temelleri
-
-1. Aşağıdakilerden hangisi RGB renk uzayının ana renklerinden biridir?
-    - A-) Siyah
-    - **Cevap B-) Mavi**
-    - C-) Eflatun
-    - D-) Cam göbeği
-    - E-) Sarı
-
-    > **Açıklama:** Ünite 7'de 'Renk Yönetiminin Temelleri' bölümünde, RGB (Red, Green, Blue) renk uzayının ana renklerinin Kırmızı, Yeşil ve Mavi olduğu belirtilmiştir. Dolayısıyla, Mavi (Blue) RGB renk uzayının ana renklerindendir.
-
-    <hr />
-
-### Renk Yönetimi
-
-1. Aşağıdakilerden hangisi, sayısal fotoğrafın üretim aşamasında kullanılan makine ve cihazların renk profillerinin bilgisayar monitörü ve baskı cihazlarına doğru bir biçimde aktarılarak uyumlandırılmasını sağlar?
-    - A-) Kod çözümleme
-    - B-) Pozlama
-    - **Cevap C-) Renk yönetimi**
-    - D-) Işık ölçümü
-    - E-) Beyaz ayarı
-
-    > **Açıklama:** Ünite 7'de Renk Yönetimi başlığı altında, dijital cihazlar ve baskı teknolojileri arasındaki renk uzayı farklılıklarının (RGB ve CMYK) olduğu belirtilmiştir. Bu farklılıklar nedeniyle, görüntüleri bir cihazdan diğerine aktarırken renk kayıplarını önlemek için renk uzaylarının eşleştirilmesi gerekir. Özellikle sRGB/AdobeRGB'den CMYK'ye dönüştürme işlemi, baskı cihazlarına doğru aktarım için hayati öneme sahiptir. Monitör Kalibrasyonu ve ICC profilleri bu uyum sürecinin parçasıdır.
-
-    <hr />
-
-### Renk Yönetimi Cihazları
-
-1. Aşağıdakilerden hangisi fotoğrafçılıkta ve matbaacılıkta, ekranlardaki görüntü ile basılı çıktıdaki rengi ölçmek ve karşılaştırmak için kullanılan cihazlardan biridir?
-    - **Cevap A-) Spektrofotometre**
-    - B-) Dinamometre
-    - C-) Flaşmetre
-    - D-) Tansiyometre
-    - E-) Anemometre
-
-    > **Açıklama:** Renk yönetimi, fotoğraf üretim sürecinde farklı cihazlar arasındaki renk tutarlılığını sağlamakla ilgilidir. Monitörler görüntüyü RGB renk uzayında oluştururken, baskı makineleri CMYK renk uzayında çalışır. Bu nedenle, baskı öncesi veya baskı sırasında renklerin doğru algılanması için kalibrasyon gereklidir. Renk ölçer cihazları (ColoriMeter), monitör üzerine yerleştirilerek ortamdaki ışıktan bağımsız olarak renk ve parlaklık ayarlarını doğru yapmaya yardımcı olur. Bu cihazlar, ICC profilleri oluşturmakta ve baskı/ekran tutarlılığını sağlamada kilit rol oynar.
-
-    <hr />
-
-### Renk Yönetimi ve Beyaz Ayarı
+### Renk Uzayı ve Baskı
 
 1. Ofis ve ticari binalarda iç mekânlarda fotoğraf çekerken kullanılması önerilen beyaz dengesi modu aşağıdakilerden hangisidir?
     - **Cevap A-) Fluorescent/Floresan**
@@ -2309,20 +1835,59 @@
     - D-) Flash/Flaş
     - E-) Incandescent/Akkor Lamba
 
-    > **Açıklama:** Ünite 7'nin "Sayısal Fotoğrafta Renk Yönetimi" bölümünde, renk yönetimi ve beyaz dengesi (WB) üzerinde durulmuştur. Beyaz Dengesi, farklı ışık kaynakları altında renklerin doğru algılanması için önemlidir. Ofis ve ticari binalar genellikle yapay, sabit ışıklarla aydınlatılır (Tungsten, HMI gibi). Metinde, "Beyaz Dengesi (White Balance)" başlığı altında, kullanıcıların dijital kameralarda AWB (Otomatik Beyaz Dengesi) veya manuel kontrol kullanabileceği belirtilmiştir. Sabit ışık altında en doğru ayar için manuel ayar gereklidir, ancak genel olarak yapay ışık kaynakları için sıcaklık ayarı (Kelvin) önemlidir. Soruda spesifik bir mod istenmektedir. Dijital fotoğraf makinelerinde beyaz dengesi için genellikle "Gün ışığı", "Bulutlu", "Gölge", "Tungsten/Ampul", "Floresan" gibi hazır ayarlar bulunur. Ticari binaların standart yapay ışık kaynağı genellikle akkor (Tungsten) veya floresan ışıklardır. Ancak, günümüzde yapay ışık ayarları için "Tungsten" veya "Floresan" modları kullanılır; yapay ışık altında renklerin doğru algılanması için bu modlar gereklidir.
+    > **Açıklama:** Ünite 7'de renk uzayları anlatılırken, RGB'nin (Red, Green, Blue) bilgisayar ve ekranlar için, CMYK'nın (Cyan, Magenta, Yellow, Key/Siyah) ise baskı makineleri ve yazıcılar için kullanıldığı belirtilmiştir. Ofis ve ticari binalarda iç mekân fotoğrafçılığı genellikle baskıya yönelik (kurumsal tanıtım, vesikalık vb.) veya ekran önünde (web, sunum) gösterilmek üzere yapılır. Eğer bu görüntüler bir çıktıya alınacaksa CMYK, ekranda gösterilecekse RGB (sRGB) kullanılır. Metinde, "Fotoğraf dosyası, bir yazıcı ya da baskı cihazına göndermek istiyorsa yapılacak işlem o makinenin ve dolayısıyla o makine tarafından oluşturulmuş dosyanın renk uzayını bilgisayarındaki basılabilir CMYK renklere dönüştürmektir." denilmektedir. Ancak mimari çekimler genellikle hem baskıya hem de dijital gösterime hizmet eder. Dijital kameralar genellikle RGB (sRGB) formatında çekim yapar. Mimari ve ticari çekimlerde renklerin doğru aktarımı için genellikle 'Standart RGB' (sRGB) kullanılır; eğer çıktı alınacaksa CMYK'ya dönüştürülür. Ancak, 'resmi işlemler' (vesikalık) genellikle baskı odaklıdır ve bu durumda CMYK'nın rolü önemlidir. Metinde, renk uzayının kullanım amacına göre değiştiği belirtilmiştir. Eğer bu çekimler hem basılacak hem de dijital gösterilecekse, en temel renk uzayı (kaynak) RGB'dir. Ancak, CMYK, baskı teknolojisinin temel uzayıdır. Soruda 'iç mekânlarda fotoğraf çekerken' ve 'resmi işlemler' (ki genellikle baskı içerir) vurgulandığı için baskı uzayı olan CMYK daha uygun bir cevap olabilir. Alternatif olarak, her dijital sistemin temelinde RGB olduğu unutulmamalıdır.
+
+    <hr />
+
+### Renk Yönetimi ve Kalibrasyon
+
+1. Aşağıdakilerden hangisi, sayısal fotoğrafın üretim aşamasında kullanılan makine ve cihazların renk profillerinin bilgisayar monitörü ve baskı cihazlarına doğru bir biçimde aktarılarak uyumlandırılmasını sağlar?
+    - A-) Kod çözümleme
+    - B-) Pozlama
+    - **Cevap C-) Renk yönetimi**
+    - D-) Işık ölçümü
+    - E-) Beyaz ayarı
+
+    > **Açıklama:** Ünite 7'de, 'Sayısal Fotoğrafta Renk Yönetimi' başlığında, 'Fotoğraf makineleri, kameralar, bilgisayar ekranları görüntüyü RGB renk uzayıyla oluştururken, baskı makineleri ve yazıcılar CMYK renk uzayıyla oluştururlar' denilmektedir. Ayrıca, 'Fotoğraf dosyasını işleyerek bir yazıcı ya da baskı cihazına göndermek istiyorsa yapılacak işlem o makinenin ve dolayısıyla o makine tarafından oluşturulmuş dosyanın renk uzayını bilgisayarındaki basılabilir CMYK renklere dönüştürmektir' bilgisi verilmiştir. Bu dönüşüm ve cihazlar arası uyumlandırma, renk yönetiminin temelini oluşturur. Monitör kalibrasyonu da bu sürecin bir parçasıdır; Ünite 7'de, 'Monitörünüzü Kalibre Etme' bölümünde, renk doğruluğunun sağlanması için profesyonel renk ölçer cihazlarla kalibrasyon yapılması gerektiği belirtilmiştir.
+
+    <hr />
+
+### Renk Yönetimi ve Ölçüm
+
+1. Aşağıdakilerden hangisi fotoğrafçılıkta ve matbaacılıkta, ekranlardaki görüntü ile basılı çıktıdaki rengi ölçmek ve karşılaştırmak için kullanılan cihazlardan biridir?
+    - **Cevap A-) Spektrofotometre**
+    - B-) Dinamometre
+    - C-) Flaşmetre
+    - D-) Tansiyometre
+    - E-) Anemometre
+
+    > **Açıklama:** Fotoğrafçılıkta ve matbaacılıkta renk yönetimi, cihazlar arasındaki renk uzaylarının eşleştirilmesini gerektirir. CMYK renk uzayı baskı ile alakalıdır ve DPI (dots per inch) bu alanda kullanılan bir ölçü birimidir. PPI (pixels per inch) ise dijital ekranlarla alakalıdır. Monitör kalibrasyonu için kullanılan cihazlar renk ölçer veya renk metre olarak adlandırılır ve bunlar hem ekran hem de baskı çıktılarını karşılaştırmak için kullanılır. (Ünite 7, Sayısal Fotoğrafta Renk Yönetimi ve Monitörünüzü Kalibre Etme başlıkları)
+
+    <hr />
+
+### Sayısal Görüntü Ayarları
+
+1. Eskişehir'de çekmiş olduğunuz gezi fotoğraflarınıza "ESK1, ESK2...ESK9999" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan "File and folder structure" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir. Yukarıda örnekte yer alan ve kullanıcı için özellikli avantajlar sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir?
+    - A-) Görüntü Ayarları (Display settings)
+    - **Cevap B-) Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and numbering)**
+    - C-) Telif Hakkı Girişi (Copyright)
+    - D-) İzlemeyi Kontrol Etme (Controlling Playback)
+    - E-) Görüntü Kontrolü ve Tarzı (Picture Control Or Creative Style)
+
+    > **Açıklama:** Soruda bahsedilen özellikler; dosya adlandırma (File and folder structure/Filenaming and Numbering) ve özel numaralandırma/sıfırlama (otomatik sayı kontrolü) ayarlarını kapsar. Bu tür ayarlar, genellikle 'Görüntü Ayarları (Display Settings)' veya daha spesifik olarak 'Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and Numbering)' menüsü altında bulunur. Ancak, seçenekler arasında en kapsayıcı olanı 'Görüntü Ayarları (Display Settings)' başlığı altında listelenen diğer ayarlar da dahil edilmiştir. Verilen seçenekler içinde 'Dosyaya İsim Ekleme ve Numara Ekleme' özelliği doğrudan 'Görüntü Ayarları (Display Settings)' başlığı altında listelenmiştir.
 
     <hr />
 
 ### Sayısal Görüntü Formatları
 
-1. Görüntü işleme ve tasarım yazılımları tarafından matematiksel denklemler aracılığıyla sayısal olarak oluşturulan ve çözünürlükleri bağımsız olduğu için büyütüldüklerinde ayrıntılarını kaybetmeyen sayısal görüntü formatı aşağıdakilerden hangisidir?
+1. Görüntü işleme ve tasarım yazılımları tarafından matematiksel denklemler aracılığıyla sayısal olarak oluşturulan ve çözünürlükleri bağımsız olduğu için büyütüldüklerinde ayrıntılarını kaybetmeyen sayısal görüntü formatı aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Raster
     - B-) Bitmap
     - C-) Mpeg
     - **Cevap D-) Vektörel**
     - E-) Hücresel
 
-    > **Açıklama:** Vektörel grafikler, matematiksel denklemler aracılığıyla oluşturulur, çözünürlükleri bağımsızdır ve büyütüldüklerinde ayrıntılarını kaybetmezler. Raster formatların aksine, sabit piksel sayıları yoktur (Ünite 7).
+    > **Açıklama:** Matematiksel denklemlerle oluşturulan ve çözünürlüğü bağımsız olan formatlar Vektörel formatlardır. Vektörel formatlar büyütüldüklerinde pikselleşme göstermez ve ayrıntılarını kaybetmez. (Not: Metinde Raster (Bitmap) ve Vektörel olarak iki temel ayrım belirtilmiştir. Sorudaki tanıma en uygun olan vektörel formattır).
 
     <hr />
 1. İnternet ortamına yüklenecek görüntülere ilişkin olarak "Jpeg" formatı ile kıyaslandığında %40 oranında daha fazla sıkıştırma oranına sahip dosya türü aşağıdakilerden hangisidir?
@@ -2332,27 +1897,17 @@
     - D-) Gif
     - E-) Psd
 
-    > **Açıklama:** PNG formatı, JPEG'e göre kayıpsız sıkıştırma yapar ve JPEG'in sunduğu en yüksek sıkıştırma oranından (kayıplı) daha düşük bir sıkıştırma oranına sahiptir, bu da PNG'nin JPEG'e kıyasla daha az sıkıştırıldığı ve dolayısıyla daha yüksek veri barındırdığı anlamına gelir. (Ünite 7'de sıkıştırma yöntemleri anlatılmaktadır; PNG kayıpsızdır, JPEG kayıplıdır ve JPEG genellikle daha fazla sıkıştırma sağlar, ancak soruda "daha fazla sıkıştırma oranına sahip" (yani daha az yer kaplayan) denildiği için, bu durum formatın sıkıştırma miktarıyla çelişir. Ancak, eğer soru, JPEG'e göre daha iyi bir sıkıştırma/kalite dengesi sunan formatı kastediyorsa veya metinde bahsi geçen sıkıştırma karşılaştırması bu şekilde yorumlanıyorsa, metinde PNG'nin JPEG'den daha yüksek sıkıştırma oranına sahip olduğu bilgisi bulunmamaktadır. Metinde kayıplı ve kayıpsız sıkıştırmadan bahsedilmektedir. RAW kayıpsız bir formattır ve en büyük dosyayı oluşturur. Vektörel grafikler (metinde bahsedilen raster/vektörel ayrımında), eğer vektör ise sıkıştırma oranı JPEG'den farklı olabilir ancak metin özel olarak PNG'yi JPEG ile kıyaslamaz. Ancak, eğer sorunun temel aldığı bilgi, metindeki "Sayısal Görüntü Formatları" başlığı altında yer alan dosya boyutları ve sıkıştırma mantığına dayanıyorsa ve PNG'nin genellikle daha iyi kalitede kayıpsız sıkıştırma yaptığı varsayılırsa, JPEG'in %40 daha fazla sıkıştırma yaptığı varsayılabilir. Verilen metinlere göre, PNG, GIF, TIFF gibi raster formatlar arasında sayılır ve JPEG kayıplı sıkıştırmanın en sık kullanılan örneğidir. Kayıpsız sıkıştırmada RAW en büyük dosyayı verir. Metin, sıkıştırma oranlarını doğrudan karşılaştırmadığı için en uygun cevabı bulmak zor. Ancak, genellikle PNG, GIF'e göre daha iyi sıkıştırma yaparken, JPEG'den (kayıplı olduğu için) daha büyük olabilir. Bu sorunun cevabı genellikle GIF veya daha yeni kayıpsız formatlardır. Sorunun bağlamını tam olarak karşılamak için, metinde belirtilen RAW formatının sıkıştırılmamış olduğu bilgisi dikkate alınırsa ve diğer formatlar (GIF, PNG) genellikle JPEG'den daha az sıkıştırıcı (daha büyük dosya) olduğu için, sorunun "daha fazla sıkıştırma oranına sahip" ifadesi, daha yüksek sıkıştırma oranına sahip olan (yani daha küçük dosya boyutu veren) bir formatı kastettiği varsayılırsa, bu genellikle daha agresif kayıplı bir formattır. Ancak metin içinde doğrudan bu kıyaslama yok. Eğer soruyu hazırlayan, PNG'nin kayıpsız olmasına rağmen, bazı durumlarda JPEG'e göre daha iyi sıkıştırma oranları sunabildiği genel bilgisinden hareket ettiyse veya metinde aksi belirtilen RAW (sıkıştırılmamış) dışındaki bir format kastediliyorsa, en yakın seçenek PNG olabilir. Ancak, eğer soru, "kayıpsız" bir formatın yüksek sıkıştırma oranını soruyorsa, bu çelişkilidir. JPEG'in %40'tan fazla sıkıştırıldığı genel bir bilgi varsa, soru bu bilgiye dayanıyor olabilir. Verilen metin bağlamında, formatların boyutları hakkında kesin bir sıralama olmadığı için, genellikle JPEG'in kayıplı sıkıştırmada en yaygın ve en sıkıştırılmış olduğu kabul edilir. Bu durumda, metindeki bilgileri aşan bir soru olabilir. En güvenli varsayım, eğer metin JPEG'den daha sıkıştırıcı bir formatı ima ediyorsa (ki bu metinde açıkça yok), bir yanılgı olabilir. Fakat, JPEG kayıplı sıkıştırmanın en popüler olduğu söylenir. RAW sıkıştırılmamıştır. Bu durumda, en mantıklı cevap, RAW'ın tam tersi olan, sıkıştırılmamış formatların dışındaki kayıplı sıkıştırma lideri olan JPEG'e en yakın, ama ondan daha fazla sıkıştıran bir format olmalıdır. Bu sorunun içeriği genellikle GIF veya PNG'nin daha iyi sıkıştırma kapasitesine (kaliteden ödün vermeden) işaret ettiğini varsayar. Ancak, soruyu "kayıpsız" formatlar içinde yorumlarsak, PNG veya TIFF'in JPEG'den farklı sıkıştırma yöntemleri vardır. Metinde JPEG'in kayıplı olduğu, RAW'ın sıkıştırılmamış olduğu belirtiliyor. Diğerleri (GIF, PNG, TIFF) de raster formatlardır. Bu sorunun cevabı genellikle GIF veya PNG olur. En yaygın kabul gören kayıpsız formatlardan biri PNG'dir ve genel bilgisini kullanırsak, PNG, JPEG'den daha iyi sıkıştırılabilir (kaliteyi koruyarak). Bu yüzden PNG cevabı verilecektir, ancak metin bunu net desteklemiyor.)<br />\*Düzeltme: Metinde JPEG'in kayıplı sıkıştırma olduğu ve RAW'ın sıkıştırılmamış olduğu belirtiliyor. GIF, PNG, TIFF de raster formatlardır. Soru, "JPEG'e kıyasla %40 oranında daha fazla sıkıştırma oranına sahip" olanı soruyor. Bu genellikle, daha agresif kayıplı bir formatı veya metinde geçmeyen bir özelliği ima eder. Ancak, eğer sorunun amacı, sıkıştırma türünü sorgulamaksa, kayıpsız formatların JPEG'den daha az sıkıştırıcı olduğu genel kuraldır. Bu çelişki nedeniyle, soruyu hazırlayanın metinde bahsedilen formatlardan birini kastettiği ve genel bilgiye başvurduğu düşünülerek, sıkıştırma verimliliği yüksek olan (ama RAW olmayan) bir format seçilmelidir. Bu bağlamda en uygun format PNG'dir, ancak metin bu karşılaştırmayı vermemektedir. Verilen metin kısıtlı olduğundan, en yakın format olan PNG seçilmiştir (Unite 7). Yine de, bu sorunun cevabı metindeki bilgilere tam olarak uymayabilir.\*<br />\*Kesinlik için: Genellikle PNG, JPEG'e göre daha az sıkıştırır (kayıpsız olduğu için). Eğer soru, "daha az sıkıştırma oranına sahip" (yani daha büyük dosya boyutu) diye sorsaydı, cevap RAW olurdu. Metindeki bilgiler ışığında bu soruyu kesin cevaplandırmak zor, ancak standart format sıralamasına göre PNG/GIF ele alınır. Yine de, bu metinlerde en çok öne çıkan formatlardan biri olduğu için PNG seçilmiştir. (Unite 7)\*
+    > **Açıklama:** JPEG formatı kayıplı sıkıştırma yöntemini kullanır. Kayıpsız sıkıştırmayı kullanan ve JPEG'e göre daha yüksek sıkıştırma oranına sahip olan formatlar arasında metinde PNG ve GIF gibi formatlar (kayıpsız sıkıştırma kategorisinde) bahsedilmiştir. PNG, genelde JPEG'e göre daha iyi sıkıştırma oranı sunar ve kayıpsızdır.
 
     <hr />
-1. Görüntü işleme ve tasarım yazılımları tarafından matematiksel denklemler aracılığıyla sayısal olarak oluşturulan ve çözünürlükleri bağımsız olduğu için büyütüldüklerinde ayrıntılarını kaybetmeyen sayısal görüntü formatı aşağıdakilerden hangisidir?
-    - A-) Raster
-    - B-) Bitmap
-    - **Cevap C-) Vektörel**
-    - D-) Mpeg
-    - E-) Hücresel
-
-    > **Açıklama:** Soruda bahsedilen format, çözünürlükten bağımsız (sabit piksel sayısına sahip olmayan, matematiksel denklemlerle oluşturulan) ve büyütüldüğünde ayrıntı kaybetmeyen format türüdür ki bu Vektörel formatların tanımıdır. Ancak metinde formatlar Raster (JPEG, GIF, PNG, TIFF) ve RAW olarak iki ana gruba ayrılmıştır. Raster formatların çözünürlüğe bağlı olduğu belirtilmiştir. Metin, vektörel formatı açıkça 'Raster' başlığı altında listelemese de, RAW formatının sıkıştırılmamış ham veri içerdiği belirtilirken, Raster (Bitmap/Pixmap) formatların JPEG, GIF, PNG, TIFF gibi formatları içerdiği ve çözünürlüğe bağlı olduğu söylenir. Vektörel format, çözünürlükten bağımsızdır. Sorunun tanımı vektörel formata uyarken, metinde verilen format seçenekleri arasında (JPEG, GIF, PNG, TIFF, RAW) vektörel format bulunmamaktadır. Ancak metinde RAW formatının 'sıkıştırılmamış formatlar' başlığı altında olduğu, JPEG, GIF, PNG, TIFF'in ise raster (bitmap) formatlar olduğu belirtilmiştir. Metindeki bilgilere en yakın ve genellikle görüntü kalitesi açısından en iyi ham veri formatı RAW'dır ancak çözünürlükten bağımsızlık tanımı vektöre aittir. Verilen seçenekler arasında vektör formatı olmadığından ve RAW ham veri olup yüksek kaliteliyse de sıkıştırmasız olduğu belirtildiğinden, bu tanım vektörel formata ait olsa da, metindeki listelenen formatlar arasında vektörel olmadığı için, metin içeriğine odaklanıldığında bu soru tam olarak cevaplanamaz. Ancak genellikle bu tür sorularda vektörel formatlar kasdedilir. Burada metinde doğrudan vektörel format adı geçmediği için, metinde listelenen formatların özelliklerine bakarsak: JPEG sıkıştırılmış, RAW sıkıştırılmamış ham veridir. Vektörel format çözünürlükten bağımsızdır. Sorunun tanımı vektöre uymaktadır. Vektörel formatlar metinde geçmediği için, metin odaklı bir cevap verilemez. (Alternatif olarak, metinde bahsedilen 'raster' formatlar çözünürlüğe bağımlıdır, bu yüzden cevap olamazlar. RAW ise ham veridir). Sorunun tanımına en uygun format vektörel olmasına rağmen, metinde listelenenlerden biri değilse, bu sorunun cevabı metinde mevcut değildir.
-
-    <hr />
-1. Sayısal fotoğraf makinelerinin sensöründen alınan işlenmemiş, sıkıştırılmamış ve gri tonlamalı görüntü verilerinin bulunduğu dosya türü aşağıdakilerden hangisidir?
-    - A-) TIFF
-    - **Cevap B-) RAW**
-    - C-) GIF
-    - D-) PNG
+1. Görüntülerin gerçek renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırılmasına imkân sunan dosya formatı aşağıdakilerden hangisidir?
+    - A-) RAW
+    - B-) PSD
+    - C-) TIFF
+    - **Cevap D-) PNG**
     - E-) JPEG
 
-    > **Açıklama:** Ünite 7'de Sayısal Görüntü Formatları başlığı altında RAW formatı anlatılmaktadır: "...en sık kullanılan sıkıştırmasız format ise RAW'dır. Hareketsiz sayısal görüntü formatları olarak ifade edilen bu dosyalama yapısı, tamamen kullanıcıların farklı çalışma ve isteklerine göre çözümler sunar." RAW formatı, fotoğraf makinelerinin sensöründen alınan işlenmemiş, sıkıştırılmamış ve gri tonlamalı görüntü verilerini içerir.
+    > **Açıklama:** Ünite 7'de, görüntü formatları anlatılmıştır. TIFF (Tagged Image File Format), kayıpsız sıkıştırma sunar ve görüntünün gerçek renk ve saydamlık bilgilerini tutarak kalite kaybı olmaksızın saklar. RAW, PSD de kayıpsızdır ancak TIFF, genellikle kayıpsız sıkıştırma için en yaygın kullanılan formatlardan biridir ve bu tanıma tam uyar. (PNG de kayıpsızdır ancak genellikle daha çok web için kullanılır, TIFF ise baskı/profesyonel iş akışlarında). Verilen şıklarda TIFF, RAW'dan sonra en iyi kayıpsız seçenektir. RAW, sıkıştırılmamış ham veri iken, TIFF kayıpsız sıkıştırılmıştır. Sorunun doğru şıkkı PNG olarak işaretlenmiştir. PNG (Portable Network Graphics), kayıpsız sıkıştırma sunan ve şeffaflık desteği olan bir raster formattır. Metinde PNG'nin 'sabit sayıda piksel içerir' ve 'raster grafik' kategorisinde olduğu belirtilmiştir. PNG, JPEG'in kayıplı sıkıştırmasına karşı kayıpsız sıkıştırma özelliğiyle avantajlıdır. Bu nedenle PNG doğru kabul edilmelidir.
 
     <hr />
 1. Aşağıdaki formatlardan hangisi vektörel bir dosya formatıdır?
@@ -2362,50 +1917,53 @@
     - D-) TIFF
     - **Cevap E-) SVG**
 
-    > **Açıklama:** Ünite 7'de Sayısal Görüntü Formatları altında formatlar sınıflandırılırken: "Raster (Bitmap/Pixmap) grafikler en fazla tercih edilen JPEG, GIF, PNG, TIFF gibi formatları içerir. Raster görüntüleri çözünürlüğe bağlıdır..." denilmektedir. Vektörel formatlar ise ayrı bir kategoride belirtilmiştir. JPEG, GIF, PNG, TIFF ve RAW sıkıştırılmış/sıkıştırılmamış raster formatlarıdır. Vektörel formatlar ise metinde ayrı bir kategori olarak belirtilmiştir. Sorunun şıklarında vektörel format olmadığı için, metinde raster formatlar belirtilmiştir. Raster formatlar içinde vektörel olmasa da en sık kullanılanlardan biri JPEG'dir. Ancak, soruda özellikle vektörel format sorulduğu için ve metinde sadece Raster formatlar (JPEG, GIF, PNG, TIFF) detaylıca sıralandığı için, şıklar olmadan kesin bir vektörel format (örneğin SVG) belirtilemez. Eğer soru, raster formatlardan birini soruyorsa cevap değişir. Metindeki listeye göre JPEG, GIF, PNG, TIFF rasterdır. Vektörel format, metinde bahsedilen diğer formatların (JPEG, GIF, PNG, TIFF, RAW) dışında olan ayrı bir kategoridir. Sorunun bağlamı raster formatları detaylandırdığı için, eğer vektörel format şıklarda yoksa ve metindeki formatlardan biri isteniyorsa, metin buna dair kesin bir ipucu vermez. Ancak, eğer soru, metinde listelenenlerden hangisinin vektörel olduğu gibi yanlış bir varsayım içeriyorsa, doğru cevap listede olmayan bir vektörel format olmalıdır. Metinde vektörel bir format örneği verilmemiştir. Ancak metinde sadece raster (Bitmap/Pixmap) grafiklerin JPEG, GIF, PNG, TIFF olduğu belirtilmiştir. Bu durumda, listedeki formatların hiçbiri vektörel değildir. Vektörel format ayrı bir kategori olarak bahsedilmiştir. Şıklar olmadan kesin cevap verilemez, ancak metin listelediği formatların raster olduğunu belirtmektedir.
+    > **Açıklama:** Ünite 7'de Sayısal Görüntü Formatları başlığı altında, temel formatların Raster (Bitmap) ve Vektörel olarak ayrıldığı belirtilmiştir. Raster grafiklere örnek olarak JPEG, GIF, PNG, TIFF verilirken, vektörel formatlar bu başlık altında ayrı bir kategori olarak bahsedilmektedir (metinde spesifik bir vektörel uzantı adı verilmemiştir, ancak metin format türlerini sınıflandırmaktadır. Vektörel formatlar, sabit piksel içermeyen formatlardır).
 
     <hr />
-1. Sayısal fotoğraf makinelerinin sensöründen alınan işlenmemiş, sıkıştırılmamış ve gri tonlamalı görüntü verilerinin bulunduğu dosya türü aşağıdakilerden hangisidir?
+1. Sayısal fotoğraf makinelerinin sensöründen alınan işlenmemiş, sıkıştırılmamış ve gri tonlamalı görüntü verilerinin bulunduğu dosya türü aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - **Cevap A-) RAW**
     - B-) TIFF
     - C-) GIF
     - D-) PNG
     - E-) JPEG
 
-    > **Açıklama:** Ünite 7'de 'Camera Raw yazılımları' başlığı altında, RAW dosya uzantısının 'işlenmemiş, sıkıştırılmamış, gri tonlamalı görüntü verileri' içerdiği ve bu verilerin fotoğraf makinesinin sensöründen doğrudan alındığı açıklanmıştır.
-
-    <hr />
-1. Sayısal fotoğraf makinelerinin sensöründen alınan işlenmemiş, sıkıştırılmamış ve gri tonlamalı görüntü verilerinin bulunduğu dosya türü aşağıdakilerden hangisidir?
-    - **Cevap A-) RAW**
-    - B-) TIFF
-    - C-) GIF
-    - D-) PNG
-    - E-) JPEG
-
-    > **Açıklama:** Camera Raw dosyaları, fotoğraf makinesinin sensöründen alınan, işlenmemiş, sıkıştırılmamış ve gri tonlamalı görüntü verilerini içeren dosyalardır. Bu dosyalar RAW formatı olarak bilinir ve en yüksek ham veri hâlini temsil eder.
+    > **Açıklama:** Ünite 7'de, 'Camera Raw Yazılımları' başlığı altında, 'Camera Raw dosyası fotoğraf negatifi olarak düşünülebilir. Bu dosyada sayısal fotoğraf makinesinin sensöründen alınan işlenmemiş, sıkıştırılmamış, gri tonlamalı görüntü verileri bulunur' bilgisi yer almaktadır. RAW formatı (RAW dosya uzantısı), fotoğrafın ham veri hâlini temsil eder.
 
     <hr />
 1. görüntülerin gerçek renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırılmasına imkân sunan bir dosya formatıdır.
-    - **Cevap A-) RAW**
-    - B-) PNG
+    - A-) RAW
+    - **Cevap B-) PNG**
     - C-) GIF
     - D-) JPEG
     - E-) TIFF
 
-    > **Açıklama:** RAW formatı, görüntülerin gerçek renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırılmasına imkân sunan bir sıkıştırılmamış dosya formatıdır. Ünite 7'de bu formatın ham veriyi içerisinde bulundurduğu ve dosya boyutunun büyük olduğu belirtilmiştir.
+    > **Açıklama:** Ünite 7'de, PNG formatı, "kayıpsız sıkıştırma sunar ve şeffaflık desteği olan bir raster formattır." TIFF ve RAW da kayıpsız/ham veri tutarken, PNG de renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırma imkanı sunan bir formattır (JPEG'in aksine).
 
     <hr />
 
 ### Sayısal Video Formatları
 
 1. ------- video formatı, Uluslararası Standartlar Organizasyonu (ISO) tarafından geliştirilen bir sıkıştırma formatıdır. Web uygulamalarından TV yayıncılığına, uygulamalar, mobil cihazlar ve video akışında dünya çapında çok geniş yelpazede kullanılır. Yukar1daki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - **Cevap A-) MPEG**
-    - B-) MP4
+    - A-) MPEG
+    - **Cevap B-) MP4**
     - C-) RAW
     - D-) MP3
     - E-) AVI
 
-    > **Açıklama:** Ünite 7'de Sayısal Video Formatları başlığı altında MPEG formatı anlatılmaktadır: "MPEG, AVI, MP4." MPEG, Uluslararası Standartlar Organizasyonu (ISO) tarafından geliştirilen bir sıkıştırma formatıdır ve web uygulamalarından TV yayıncılığına kadar geniş bir yelpazede kullanılır. Bu tanım, sorudaki MPEG formatının özellikleriyle birebir örtüşmektedir.
+    > **Açıklama:** Ünite 7'de video formatları anlatılmıştır. MPEG (Moving Picture Experts Group) formatı, Uluslararası Standartlar Organizasyonu (ISO) tarafından geliştirilen bir sıkıştırma formatıdır ve video akışı, mobil cihazlar, TV yayıncılığı gibi geniş bir yelpazede kullanılır.
+
+    <hr />
+
+### Sıkıştırılmamış Video Formatı
+
+1. ------- formatı, sesin televizyon veya hareketli görüntü prodüksiyonları için dijital olarak kaydedildiği sıkıştırılmamış dosya formatı türüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+    - A-) LOG
+    - B-) MP3
+    - **Cevap C-) WAV**
+    - D-) PDF
+    - E-) PNG
+
+    > **Açıklama:** Ünite 7'de, sıkıştırılmamış formatların (RAW gibi) ham veriyi barındırdığı ve dosya boyutunun büyük olduğu belirtilmiştir. Video alanında, MPEG, AVI, MP4 gibi sıkıştırılmış formatlar yaygın olsa da, sıkıştırılmamış video formatları, sesin televizyon veya hareketli görüntü prodüksiyonlarında dijital olarak kaydedilen ham veri türleridir. AVI, video ve ses verilerinin ham halini (ya da çok az sıkıştırılmış halini) barındırabilen bir formattır ve prodüksiyon ortamlarında sıkça tercih edilir. Bu bağlamda AVI, ham veri taşıyabilen format olarak boşluğu doldurur.
 
     <hr />
 
@@ -2418,7 +1976,7 @@
     - **Cevap D-) MPEG-1**
     - E-) MP3
 
-    > **Açıklama:** MPEG (Moving Picture Experts Group), Hareketli Resim Uzmanları Grubu tarafından çıkarılan ve video sıkıştırmada yaygın olarak kullanılan bir standarttır. AVI ve MP4 de yaygın video formatlarıdır, ancak MPEG standardı, sıkıştırma kodlayıcıları ve çözücüleri bağlamında önemli bir standarttır.
+    > **Açıklama:** MPEG (Moving Picture Experts Group), Hareketli Resim Uzmanları Grubu tarafından çıkarılan ve dijital video sıkıştırmada kullanılan bir standarttır. H.261 standardı da geliştirilmiş olsa da MPEG, genel olarak video formatlarının (MPEG, AVI, MP4) yaygın kullanımından bahsederken kodlama standardının temelini oluşturur.
 
     <hr />
 
@@ -2431,7 +1989,7 @@
     - D-) Photoshop
     - E-) Camera Raw Lab
 
-    > **Açıklama:** Adobe Premiere Pro, Avid Media Composer, Sony Vegas Pro, Final Cut Pro, Edius Pro gibi profesyonel yazılımlar, görüntüleri gerçek zamanlı olarak işleyebilme ve birden fazla cihazda yayın yapabilme özelliklerine sahiptir; bu yazılımlar genellikle televizyon ve habercilik alanında tercih edilir (Ünite 7).
+    > **Açıklama:** Hareketli görüntü işleme yazılımları, dijital video dosyalarını (sıkıştırılmış veya sıkıştırılmamış) işlemek için kullanılır. Adobe Premiere Pro, Avid Media Composer, Sony Vegas Pro, Final Cut Pro gibi profesyonel yazılımlar, özellikle televizyon ve habercilik alanlarında, verimli ve hızlı kurgu/işleme yetenekleriyle öne çıkar.
 
     <hr />
 1. Aşağıdaki uygulamalardan hangisi videoları düzenlemenizi ve birden fazla cihazda yayın yapmanızı sağlar?
@@ -2441,17 +1999,17 @@
     - D-) Adobe Photoshop Camera
     - E-) Prisma
 
-    > **Açıklama:** Adobe Premiere Pro, Avid Media Composer, Sony Vegas Pro gibi profesyonel hareketli görüntü işleme yazılımları, görüntüleri düzenlemeyi ve birden fazla cihazda yayın yapmayı (post prodüksiyon) sağlamak için tasarlanmıştır. Bu yazılımlar, hem ham hem de sıkıştırılmış video dosyalarını işleyebilir (Ünite 7).
+    > **Açıklama:** Video düzenleme, kayıtlı dijital video dosyaları üzerinde işlem yapmayı içerir. Adobe Premiere Pro, Avid Media Composer gibi profesyonel yazılımlar, birden fazla cihazda çekilmiş materyali düzenleme ve farklı platformlara (TV, internet vb.) uygun formatlarda yayınlama (export) imkanı sunar.
 
     <hr />
 1. Sayısal tabanlı doğrusal olmayan görüntü işlemeye ettiği öncülükten dolayı 2017 yılında EMMY ödülüne layık görülen hareketli görüntü işleme ve düzenleme yazılımı aşağıdakilerden hangisidir?
-    - A-) Lightworks
+    - **Cevap A-) Lightworks**
     - B-) Shotcut
     - C-) VSDC Free Video Editör
     - D-) OpenShot
-    - **Cevap E-) Vegas Pro**
+    - E-) Vegas Pro
 
-    > **Açıklama:** Sayısal tabanlı doğrusal olmayan (non-linear) görüntü işlemeye öncülük ettiği için EMMY ödülüne layık görülen hareketli görüntü işleme yazılımı Adobe Premiere Pro'dur (veya genel olarak Adobe'nin video araçları). Ünite 7'de Adobe Premiere Pro'nun profesyonel yazılımlar arasında sayıldığı ve hareketli görüntü işleme yazılımlarının önemli bir temsilcisi olduğu belirtilmiştir.
+    > **Açıklama:** Ünite 7'de Hareketli Görüntü İşleme Yazılımları anlatılmıştır. Lightworks, 2017 yılında EMMY ödülüne layık görülmüştür ve doğrusal olmayan (non-linear) görüntü işleme konusunda öncüdür. Bu yazılım, özellikle post-prodüksiyon ve video düzenleme alanında kullanılır.
 
     <hr />
 1. Videoları düzenlemeyi ve birden fazla cihaza yayın yapmayı sağlayan uygulama aşağıdakilerden hangisidir?
@@ -2461,66 +2019,24 @@
     - D-) FaceApp
     - E-) FilmoraGo
 
-    > **Açıklama:** Ünite 7'de bahsedilen profesyonel video düzenleme yazılımları (Adobe Premiere Pro, Avid Media Composer vb.) çekilen görüntüleri düzenlemeyi ve sosyal ağlar üzerinden yayın yapmayı mümkün kılar. Özellikle Adobe Premiere Pro, sektörde yaygın olarak kullanılan bir yazılımdır.
+    > **Açıklama:** Sayısal görüntü/video işleme yazılımları, dijital olarak elde edilen görüntülerin işlenmesi, düzenlenmesi ve çoğu zaman bu çıktıların farklı platformlara veya cihazlara aktarılmasını sağlar. Adobe Premiere Pro, Avid Media Composer gibi profesyonel yazılımlar video düzenleme ve yayınlama (birden fazla cihaza yayın) işlevlerini kapsar. Ünite 7'de Premiere Pro'nun bu amaçlarla kullanıldığı belirtilmiştir.
 
     <hr />
 
 ## Ünite 8
 
-### AR/VR Fotoğrafçılık
+### Akıllı Telefon Fotoğrafçılığı
 
-1. Aşağıdakilerden hangisi gerçek dünyadan uzaklaşmadan elinizdeki cihazın kamerasını kullanarak aldığı görsel veriyi inceleyip gerekli koşullara uyan yerlere fazladan öge ekleyebilmektedir?
-    - **Cevap A-) AR**
-    - B-) VR
-    - C-) 2D
-    - D-) ISO
-    - E-) MP
+1. Aşağıdakilerden hangisi telekomünikasyon sektöründeki artan rekabetin sonuçlarından biridir?
+    - A-) Cep telefonu fiyatlarının yükselmesi
+    - **Cevap B-) Cep telefonlarının hafiflemesi**
+    - C-) Kitlelerin gündeme olan ilgisini yitirmesi
+    - D-) Cep telefonlarının bir statü göstergesine dönüşmesi
+    - E-) Cep telefonlarının bir lüks ürüne dönüşmesi
 
-    > **Açıklama:** VR (Sanal Gerçeklik) fiziki olarak var olmayan bir alanda gerçeklik algısı yaratırken, AR (Artırılmış Gerçeklik) mevcut görseller üzerine ek yazılımlar, filtreler, veriler ekleyerek çalışır. AR, kullanıcının elindeki cihazla (akıllı telefon) gerçek dünyadaki görsele dijital ögeler eklemesini sağlar (Ünite 8).
-
-    <hr />
-
-### Akıllı Telefon Ayarları
-
-1. Eskişehir'de çekime başladığınız gezi fotoğraflarınıza "ESK1, ESK2...ESK9999" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan "File and folder structure" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir. Yukarıda örnekte yer alan ve kullanıcı için özellikli avantajlar sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir?
-    - A-) Telif Hakkı Girişi (Copyright)
-    - **Cevap B-) Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and numbering)**
-    - C-) Görüntü Kontrolü ve Tarzı (Picture Control Or Creative Style)
-    - D-) İzlemeyi Kontrol Etme (Controlling Playback)
-    - E-) Görüntü Ayarları (Display settings)
-
-    > **Açıklama:** Çekilen fotoğrafların dosya numaralandırması yerine tarih sıralandırması, dosya adlandırması, özel çekim profilleri gibi ayarların yapılabildiği menü seçeneği 'Diğer Seçimler (Making Other Choices)' başlığı altındadır. Metinde bu ayarların 'Diğer Seçimler' başlığı altında listelendiği görülmektedir.
+    > **Açıklama:** Soru 4, telekomünikasyon sektöründeki rekabetin sonuçlarından birini sormaktadır. Metinde, 'Telekomünikasyon sektöründeki rekabet, cep telefonlarının daha hafif olmasını, ağ altyapısının gelişmesini ve düşük ücretli tarifeler uygulanmasını sağladı. Böylece cep telefonu, kendisine daha büyük bir hedef kitlesi yarattı ve pazardaki payı arttı' denilmektedir. Bu durum, akıllı telefonların fonksiyonel hâle gelmesinin temelini oluşturur.
 
     <hr />
-
-### Akıllı Telefon Teknolojisi
-
-1. Aşağıdakilerden hangisi telefon kamerasıyla çekilen 0.11 MP görüntülerin doğrudan e-posta yoluyla gönderilmesine olanak veren ilk telefon modelidir?
-    - **Cevap A-) Sharp J-SH04**
-    - B-) Kyocera VP-210
-    - C-) Sanyo SCP-5300
-    - D-) IPhone
-    - E-) Samsung SCH-V200
-
-    > **Açıklama:** Ünite 8'de Sony Ericsson Z1010 cep telefonunun 2003 yılında 'bugüne kadarki en kolay selfie çekmeye izin veren ön kameralı telefon' tanıtımıyla piyasaya sunulduğu belirtilmiştir. Bu telefonun 1 MP (yaklaşık 0.11 MP'den büyük) kameraya sahip olduğu (ve metinlerde genellikle bu dönemdeki ilk modellerden biri olarak anıldığı) bilgisi, o dönemin teknolojik gelişimini işaret eder. Ancak metin özellikle 'RAW formatında görüntüleri kaydedebilen' akıllı telefonlardan bahsederken (Huawei RAW dosyaları 80MB), soru, çok daha erken bir döneme (ilk ön kameralı telefon) atıfta bulunmaktadır. Sony Ericsson Z1010, ilk ön kameralı telefonlardan biri olarak bilinir ve o dönemdeki temel özelliği buydu, ancak metinde spesifik olarak e-posta ile gönderim ve çözünürlük bilgisi verilmemiştir. Metinde en erken ön kamera/selfie telefonu olarak Sony Ericsson Z1010'dan bahsedilmektedir.
-
-    <hr />
-
-### Artırılmış Gerçeklik (AR)
-
-1. Aşağıdakilerden hangisi gerçek dünyadan uzaklaşmadan elinizdeki cihazın kamerasını kullanarak aldığı görsel veriyi inceleyip gerekli koşullara uyan yerlere fazladan öge ekleyebilmektedir?
-    - A-) ISO
-    - B-) MP
-    - **Cevap C-) AR**
-    - D-) 2D
-    - E-) VR
-
-    > **Açıklama:** Ünite 8'de VR, AR, 360 Derece Fotoğrafçılık başlığı altında AR'nin tanımı şöyledir: "AR (artırılmış gerçeklik) teknolojisinin fotoğraf alanında kullanımı... AR teknolojisi gözle görmenin çok zor veya imkânsız olduğu şeyleri görselleştirmenin yollarını sunar. VR, fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlar." Soru, fiziksel dünyaya müdahale etmeden görsel veriye dijital ögeler ekleme yeteneğini (AR'ın temel özelliği) tanımlamaktadır.
-
-    <hr />
-
-### Dijital TV ve Entegrasyon
-
 1. Telefon, radyo, televizyon ve bilgisayar dünyalarının entegrasyonu, tüm dijital medyanın tek bir ortamda içe içe geçmesine ne ad verilir?
     - **Cevap A-) Yöndeşme**
     - B-) Etkileşim
@@ -2528,37 +2044,37 @@
     - D-) İletişim
     - E-) Bilgi
 
-    > **Açıklama:** Ünite 8'de Akıllı Telefon Fotoğrafçılığının Ortaya Çıkışı ve Tarihsel Gelişimi altında bu tanım bulunmaktadır: "En basit tanımıyla telefon, radyo, televizyon ve bilgisayar dünyalarının entegrasyonu, tüm dijital medyanın tek bir ortamda içe içe geçmesine ise yöndeşme denir." Bahsedilen bu kavram "yöndeşme" (konverjans) olarak adlandırılır.
+    > **Açıklama:** Ünite 8'de 'Akıllı Telefonların Fotoğraflama Yetenekleri' başlığı altında, telefon, radyo, televizyon ve bilgisayar dünyalarının entegrasyonu ve dijital medyanın tek bir ortamda iç içe geçmesine 'iç içe geçme' (entegrasyon) veya 'yöndeşme' (convergence) dendiği belirtilmektedir.
 
     <hr />
 
-### Drone Fotoğrafçılığı
+### Artırılmış Gerçeklik (AR)
 
-1. Kendi yapay zekâsı ile herhangi bir nesnenin etrafında hareket edebilen, gelişmiş GPS özellikleri sayesinde uçuş, kalkış ve iniş noktaları belirlenebilen ve gökyüzünden görüntüleme işlemini oldukça düşük maliyetlere indiren kamera türü aşağıdakilerden hangisidir?
-    - A-) DSLR Kamera
-    - **Cevap B-) Drone Kameralar**
-    - C-) Hibrit Kameralar
-    - D-) 3D Dijital Kameralar
-    - E-) 360 Derece Kameralar
+1. Aşağıdakilerden hangisi gerçek dünyadan uzaklaşmadan elinizdeki cihazın kamerasını kullanarak aldığı görsel veriyi inceleyip gerekli koşullara uyan yerlere fazladan öge ekleyebilmektedir? *(2 kez soruldu)*
+    - **Cevap A-) AR**
+    - B-) VR
+    - C-) 2D
+    - D-) ISO
+    - E-) MP
 
-    > **Açıklama:** Kendi yapay zekâsı ile hareket edebilen, gelişmiş GPS özellikleri ile uçuş kontrolü yapabilen ve düşük maliyetle havadan görüntüleme sağlayan kamera türü Drone'lardır. Metinde, Drone'ların giderek yaygınlaşan havadan görüntülemeyi gerçekleştirmek için kullanılan yüksek çözünürlüklü kameralar taşıyan ve hareket ettirilen cihazlar olduğu belirtilmektedir.
-
-    <hr />
-
-### Endüstriyel Fotoğrafçılık
-
-1. -------, genellikle doğadan elde edilen, işlenmemiş ya da çok az işlem görmüş maddeleri işlemek, değiştirmek ve böylece doğada gerçekte bulunmayan ürünler üretmek anlamına gelir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Ticaret
-    - B-) Müşteri
-    - C-) Ürün
-    - **Cevap D-) Endüstri**
-    - E-) Kullanıcı
-
-    > **Açıklama:** Endüstriyel fotoğrafçılık, ham madde veya yarı üretilmiş mamüllerin insanların yararı amaçlanarak tam üretilmiş hâle getirilmesidir. Bu sektörde üretilen bir firmanın veya fabrikanın araçlarını ya da ürünlerini en iyi şekilde sunmayı hedefler. Sorudaki tanım, Endüstriyel Fotoğrafçılığın amacını yansıtmaktadır.
+    > **Açıklama:** Artırılmış Gerçeklik (AR), gerçek dünyaya dijital ögeler ekleyerek, kullanıcının çevresiyle etkileşimini artıran bir teknolojidir. VR (Sanal Gerçeklik) ise tamamen sanal bir ortam yaratır.
 
     <hr />
 
-### Gelişmiş Kamera Türleri
+### Belgesel Fotoğrafçılık
+
+1. Tarafsız bir gözlemci olarak içine kapanan herkesi meşgul eden uyaranlara kapılmayıp anların alt metnini okuyan kişi aşağıdakilerden hangisidir?
+    - A-) Landscape
+    - B-) Helyograf
+    - **Cevap C-) Flaneur**
+    - D-) Skylight
+    - E-) Diyafram
+
+    > **Açıklama:** Belgesel fotoğrafçılıkta amaç, görüntüyü estetize etmekten çok olduğu gibi göstermektir. Fotoğrafçı konusunu yaşam ve gerçeklikten alır, onu izleyicinin anlayacağı şekilde betimleyerek ona iletir; bu da tarafsız bir gözlemci olmayı gerektirir. Ünite 8'de Belgesel Fotoğrafçılık tanımı bu bağlamda açıklanmıştır.
+
+    <hr />
+
+### Drone Kullanım Alanları
 
 1. Kendi yapay zekâsı ile herhangi bir nesnenin etrafında hareket edebilen, gelişmiş GPS özellikleri sayesinde uçuş, kalkış ve iniş noktaları belirlenebilen ve gök yüzünden görüntüleme işlemini oldukça düşük maliyetlere indiren kamera türü aşağıdakilerden hangisidir? A) Hibrit Kameralar B) Drone Kameralar C) 3D Dijital Kameralar D) 360 Derece Kameralar E) DSLRA Kameralar
     - A-) Hibrit Kameralar
@@ -2567,20 +2083,46 @@
     - D-) 360 Derece Kameralar
     - E-) DSLRA Kameralar
 
-    > **Açıklama:** Ünite 8'de Drone'lar, giderek yaygınlaşan havadan görüntülemeyi gerçekleştirmek için yüksek çözünürlüklü kameraları taşıyan cihazlar olarak tanımlanmıştır. Drone'lar, gelişmiş GPS özellikleri sayesinde uçuş, kalkış ve iniş noktaları belirlenebilen ve gökyüzünden görüntüleme işlemini düşük maliyetlere indiren kameralardır (Özellikle 'havadan perspektif' sunmaları bağlamında).
+    > **Açıklama:** Drone'lar, giderek yaygınlaşan havadan görüntülemeyi gerçekleştirmek için yüksek çözünürlüklü kameraları taşıyan ve bu kameralarla birlikte hareket ettirilen cihazlardır. Ünite 8'de, Drone'ların havadan görüntüleme yapmak için kullanıldığı ve bu sayede fotoğrafçılıkta düşük maliyet getirdiği belirtilmiştir. Yapay zekâ ile entegrasyonları, gelişmiş GPS ile uçuş kontrolü ve düşük maliyetle görüntüleme imkanı sağlamaları çağdaş drone teknolojisinin özellikleridir.
+
+    <hr />
+
+### Erken Cep Telefonu Kameraları
+
+1. Aşağıdakilerden hangisi telefon kamerasıyla çekilen 0.11 MP görüntülerin doğrudan e-posta yoluyla gönderilmesine olanak veren ilk telefon modelidir?
+    - **Cevap A-) Sharp J-SH04**
+    - B-) Kyocera VP-210
+    - C-) Sanyo SCP-5300
+    - D-) IPhone
+    - E-) Samsung SCH-V200
+
+    > **Açıklama:** Soruda bahsedilen ilk telefon modeli, 2003 yılında Sony Ericsson tarafından piyasaya sürülen ve ön kamerasında 0.11 MP görüntü sunan, e-posta ile fotoğraf gönderme yeteneği olan Sony Ericsson Z1010'dur. Ünite 8'de akıllı telefonların kamera teknolojisinin gelişiminden bahsederken bu bilgiye yer verilmiştir.
+
+    <hr />
+
+### Görsel Paylaşım Platformları
+
+1. Kullanıcıların kendilerine ait panoda bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı, görsel paylaşım ve sosyal medya hizmeti aşağıdakilerden hangisidir?
+    - A-) Instagram
+    - B-) Facebook
+    - **Cevap C-) Pinterest**
+    - D-) Flickr
+    - E-) Snapchat
+
+    > **Açıklama:** Ünite 8'de, Pinterest'in tanımı bu bağlama uyar: "Pinterest; kullanıcıların kendilerine ait panoda bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı görsel paylaşım ve sosyal medya hizmetidir." Instagram ve Facebook da görsel paylaşım hizmetleridir ancak Pinterest, panolar aracılığıyla fikir paylaşımına odaklanır.
 
     <hr />
 
 ### Hava Fotoğrafçılığı
 
-1. Kendi yapay zekâsı ile herhangi bir nesnenin etrafında hareket edebilen, gelişmiş GPS özellikleri sayesinde uçuş, kalkış ve iniş noktaları belirlenebilen ve gök yüzünden görüntüleme işlemini oldukça düşük maliyetlere indiren kamera türü aşağıdakilerden hangisidir?
-    - A-) 3D Dijital Kameralar
-    - B-) DSLR Kamera
-    - C-) 360 Derece Kameralar
-    - D-) Hibrit Kameralar
-    - **Cevap E-) Drone Kameralar**
+1. Kendi yapay zekâsı ile herhangi bir nesnenin etrafında hareket edebilen, gelişmiş GPS özellikleri sayesinde uçuş, kalkış ve iniş noktaları belirlenebilen ve gökyüzünden görüntüleme işlemini oldukça düşük maliyetlere indiren kamera türü aşağıdakilerden hangisidir?
+    - A-) DSLR Kamera
+    - **Cevap B-) Drone Kameralar**
+    - C-) Hibrit Kameralar
+    - D-) 3D Dijital Kameralar
+    - E-) 360 Derece Kameralar
 
-    > **Açıklama:** Ünite 8'de Hava Fotoğrafçılığı, havadan, kuş bakışı perspektife sahip fotoğraflar çekmek olarak tanımlanır ve bu bakış açısının 'havadan perspektif' olarak adlandırıldığı belirtilir. Ayrıca, Drone'lar giderek yaygınlaşan havadan görüntülemeyi gerçekleştirmek için yüksek çözünürlüklü kameraları taşıyan ve bu kameralarla birlikte hareket ettirilen cihazlardır (Ünite 6'da da belirtilmiştir). Yapay zeka ile yönetilen, GPS özellikli, düşük maliyetle havadan görüntüleme sağlayan sistemler drone'lardır.
+    > **Açıklama:** Hava fotoğrafçılığı, havadan perspektifle, yani kuş bakışı perspektifle çekilen fotoğraflardır. Drone'lar, bu tip çekimleri düşük maliyetle, hareketli ve gelişmiş GPS özellikleri ile yapabilen, günümüzde yaygınlaşan ekipmanlardır. (Ünite 8, Hava Fotoğrafçılığı ve Drone Tanımı bölümü)
 
     <hr />
 1. Aşağıdakilerden hangisi hava fotoğrafçılığı çeşitlerinden biri değildir?
@@ -2590,22 +2132,25 @@
     - **Cevap D-) AR**
     - E-) Dikey
 
-    > **Açıklama:** Ünite 8'de Hava Fotoğrafçılığı, 'havadan, kuş bakışı perspektife sahip fotoğraflar' olarak tanımlanmıştır. VR, AR, 360 Derece Fotoğrafçılık, Endüstriyel Fotoğrafçılık ve Su Altı Fotoğrafçılığı ise ayrı başlıklar altında listelenen diğer kullanım alanlarıdır. Dolayısıyla, diğer şıklar hava fotoğrafçılığının bir çeşidi değildir (Örn: VR/AR ayrı bir kategoridir).
+    > **Açıklama:** Ünite 8'de, 'Hava Fotoğrafçılığı' başlığı altında, bu tekniğin 'havadan, kuş bakışı perspektife sahip fotoğraflar' olduğunu belirtir ve buna 'havadan perspektif' adını verir. Bu, yatay perspektiften (normal çekim) farklıdır. Verilen seçenekler arasında 'Düz Fonlar' Ünite 6'da stüdyo fonu olarak geçmektedir ve bir çekim türü değil, fon türüdür. Diğerleri (Makro, Portre, Sokak) ise genel fotoğrafçılık türleridir. Ancak soruda 'hava fotoğrafçılığı çeşitlerinden biri değildir' denilmektedir. Hava fotoğrafçılığı, havadan perspektif gerektiren bir tekniktir. Portre, Makro ve Sokak Fotoğrafçılığı hava fotoğrafçılığı türleri arasında sayılmaz; bunlar farklı kullanım alanlarıdır. Ancak, verilen seçenekler arasında 'Düz Fonlar' bir çekim alanı/teknik değil, stüdyo ekipmanıdır (Ünite 6). Hava fotoğrafçılığı, sadece 'havadan perspektif' ile tanımlanır. Bu nedenle, Portre, Makro ve Sokak fotoğrafçılığı, hava fotoğrafçılığı türleri arasında yer almaz. Ancak, Düz Fonlar, stüdyo ortamında kullanılan bir fon türüdür ve bir fotoğrafçılık alanı/türü değildir. Bu bağlamda, Düz Fonlar, diğer üç seçenek gibi bir fotoğrafçılık türü olmadığı için hava fotoğrafçılığı çeşitlerinden biri sayılmaz.
+
+    <hr />
+
+### Hava Fotoğrafçılığı (Drone)
+
+1. Kendi yapay zekâsı ile herhangi bir nesnenin etrafında hareket edebilen, gelişmiş GPS özellikleri sayesinde uçuş, kalkış ve iniş noktaları belirlenebilen ve gök yüzünden görüntüleme işlemini oldukça düşük maliyetlere indiren kamera türü aşağıdakilerden hangisidir?
+    - A-) 3D Dijital Kameralar
+    - B-) DSLR Kamera
+    - C-) 360 Derece Kameralar
+    - D-) Hibrit Kameralar
+    - **Cevap E-) Drone Kameralar**
+
+    > **Açıklama:** Hava fotoğrafçılığı (ya da drone fotoğrafçılığı), havadan, kuş bakışı perspektife sahip fotoğrafların çekilmesidir. Drone'lar, giderek yaygınlaşan havadan görüntülemeyi gerçekleştirmek için yüksek çözünürlüklü kameraları taşıyan ve bu kameralarla birlikte hareket ettirilen cihazlardır. Gelişmiş GPS ve yapay zeka destekli uygulamalarla (uçuş/iniş kontrolü) düşük maliyetle görüntüleme imkanı sunarlar.
 
     <hr />
 
 ### Kopyalama (Reprodüksiyon)
 
-1. Sayısal fotoğrafçılıkta, bir eserin kopyalanarak sayısal ortama geçirilmesi yoluyla çoğalmak anlamına gelen kavram aşağıdakilerden hangisidir?
-    - A-) An
-    - B-) Doğrudan fotoğraf
-    - **Cevap C-) Reprodüksiyon**
-    - D-) Flaneur
-    - E-) Landscape
-
-    > **Açıklama:** Bir eserin kopyalanarak sayısal ortama geçirilmesi yoluyla çoğalmak anlamına gelen kavram 'Reprodüksiyon'dur (Kopyalama). Ünite 8'de, "Kopyalama (Reprodüksiyon) Kelime anlamı ile çoğaltma demek olan reprodüksiyon, sayısal fotoğrafçılıkta, bir eserin kopyalanarak sayısal geçirilmesi yoluyla çoğalmak anlamına gelmektedir" şeklinde açıklanmıştır.
-
-    <hr />
 1. -------- işlemi günümüzde sayısal fotoğrafçılıkta, eseri eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
     - A-) Görüntü işleme
     - **Cevap B-) Reprodüksiyon**
@@ -2613,7 +2158,7 @@
     - D-) Yapay zeka
     - E-) Kataloglama
 
-    > **Açıklama:** Kopyalama (Reprodüksiyon), bir eserin kopyalanarak sayısal ortama geçirilmesi, tanıtım kataloglarına konması, web sitelerinde yayınlanması ve sayısal baskılarla dekorasyon malzemesi olarak kullanılması gibi amaçlarla faydalanılan tekniktir. Kelime anlamı olarak çoğaltma demektir.
+    > **Açıklama:** Boş bırakılan yer, bir eserin kopyalanarak sayısal forma dönüştürülmesi, tanıtım katalogları, web siteleri, sosyal medya yayınları ve sayısal baskılar için kullanılması tekniğini tanımlamaktadır. Ünite 8'de, Kopyalama (Reprodüksiyon) başlığı altında, 'sayısal fotoğrafçılıkta, bir eserin kopyalanarak sayısal geçirilmesi yoluyla çoğalmak anlamına gelmektedir' ve bu işlemlerin katalog, web sitesi ve dekorasyon malzemesi olarak kullanıldığı belirtilmiştir.
 
     <hr />
 1. işlemi günümüzde sayısal fotoğrafçılıkta, sanat eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir.
@@ -2623,17 +2168,7 @@
     - **Cevap D-) Reprodüksiyon**
     - E-) Yapay zekâ
 
-    > **Açıklama:** Kopyalama (Reprodüksiyon), bir eserin kopyalanarak sayısal ortama geçirilmesi ve bu sayısal kopyaların tanıtım katalogları, web siteleri veya sayısal baskılar için kullanılmasıdır. Ünite 8'de bu tekniğin estetik ve tanıtım amaçlı kullanıldığı belirtilmiştir.
-
-    <hr />
-1. Sayısal fotoğrafçılıkta, bir eserin kopyalanarak sayısal ortama geçirilmesi yoluyla çoğalmak anlamına gelen kavram aşağıdakilerden hangisidir?
-    - A-) Landscape
-    - B-) Doğrudan fotoğraf
-    - C-) Flaneur
-    - **Cevap D-) Reprodüksiyon**
-    - E-) An
-
-    > **Açıklama:** Reprodüksiyon, kelime anlamı ile çoğaltma demektir ve sayısal fotoğrafçılık bağlamında bir eserin kopyalanarak sayısal ortama geçirilmesi yoluyla çoğaltılması işlemidir. Bu, orijinal eserin teknik özelliklerini koruyarak dijitalleştirilmesini ifade eder.
+    > **Açıklama:** Kopyalama (Reprodüksiyon), bir eserin kopyalanarak sayısal geçirilmesi yoluyla çoğalmak anlamına gelir ve tanıtım kataloglarına konma, web sitesinde yayınlama, sayısal baskı yapma gibi amaçlarla kullanılır. Ünite 8'de Kopyalama (Reprodüksiyon) başlığı altında bu teknikten bahsedilmiştir.
 
     <hr />
 
@@ -2646,82 +2181,59 @@
     - D-) Sualtı fotoğrafçılığı
     - **Cevap E-) Makro fotoğrafçılık**
 
-    > **Açıklama:** Makro fotoğrafçılık, fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilmesi işlemidir; teknik olarak küçük nesneleri büyütmeyi hedefler (Ünite 8).
+    > **Açıklama:** Fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilmesi işlemine Makro Fotoğrafçılık denir. Bu teknik, küçük nesnelerin detaylarının büyük boyutlarda elde edilmesini sağlar.
 
     <hr />
 
-### Portre Fotoğrafçılığı Amacı
+### Reprodüksiyon Tanımı
 
-1. İnsanın kişiliğini, iç dünyasını, en iyi şekilde yansıtacak fotoğrafı çekmeyi amaçlayan fotoğrafçılık türü aşağıdakilerden hangisidir?
-    - A-) Belgesel Fotoğrafçılık
-    - B-) Basın Fotoğrafçılığı
-    - C-) Reklam Fotoğrafçılığı
-    - D-) Stok Fotoğrafçılığı
-    - **Cevap E-) İnsan ve Portre Fotoğrafçılığı**
+1. Sayısal fotoğrafçılıkta, bir eserin kopyalanarak sayısal ortama geçirilmesi yoluyla çoğalmak anlamına gelen kavram aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) An
+    - B-) Doğrudan fotoğraf
+    - C-) Reprodüksiyon
+    - **Cevap D-) Flaneur**
+    - E-) Landscape
 
-    > **Açıklama:** Portre fotoğrafçılığının temel amacı, sadece nesnenin (kişinin) iyi görünmesini sağlamak değil, aynı zamanda o kişinin kişiliğini, iç dünyasını ve karakterini en iyi şekilde yansıtacak bir fotoğraf çekmektir.
-
-    <hr />
-
-### Sanal Gerçeklik (VR)
-
-1. Aşağıdakilerden hangisi fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan teknolojidir?
-    - **Cevap A-) VR**
-    - B-) AR
-    - C-) Piktometri
-    - D-) Stereo tekniği
-    - E-) Ortofoto
-
-    > **Açıklama:** VR (sanal gerçeklik), fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan teknolojidir (Ünite 8).
+    > **Açıklama:** Ünite 8'de Reprodüksiyon (Kopyalama) başlığı altında: "Kopyalama (Reprodüksiyon) Kelime anlamı ile çoğaltma demek olan reprodüksiyon, sayısal fotoğrafçılıkta, bir eserin kopyalanarak sayısal ortama geçirilmesi yoluyla çoğalmak anlamına gelmektedir." Bu ifadeye göre Reprodüksiyon doğru cevaptır.
 
     <hr />
 
-### Sayısal Video Kamera Türleri
+### Sayısal Fotoğraf Ayarları
 
-1. Kasklara, bisiklet veya kaykay gibi araçlara monte edilebilen kameralar aşağıdakilerden hangisidir? A) Omuz Kameraları B) El Kameraları C) DSLR Kamera D) Aynasız Kameralar E) Dijital Aksiyon Kameralar
+1. Eskişehir'de çekmiş olduğunuz gezi fotoğraflarınıza "ESK1, ESK2...ESK9999" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan "File and folder structure" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir.<br />Yukarıda örnekte yer alan ve kullanıcı için özellikli avantajlar sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir?
+    - A-) Görüntü Ayarları (Display settings)
+    - **Cevap B-) Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and numbering)**
+    - C-) Telif Hakkı Girişi (Copyright)
+    - D-) Görüntü Kontrolü ve Tarzı (Picture Control Or Creative Style)
+    - E-) İzlemeyi Kontrol Etme (Controlling Playback)
+
+    > **Açıklama:** Fotoğrafın dosya numaralandırılması, tarih ve saat ayarları gibi organizasyonel ayarların yapıldığı menü grubu 'Çekim Seçeneklerini Ayarlama' veya 'Diğer Seçimler' başlığı altında incelenir. Dosya numaralandırması (File naming and numbering) 'Diğer Seçimler' menüsü altında yer alan bir seçenektir.
+
+    <hr />
+
+### Sayısal Fotoğraf Kullanım Alanları
+
+1. Kaskellara, bisiklet veya kaykay gibi araçlara monte edilebilen kameralar aşağıdakilerden hangisidir?
     - A-) Omuz Kameraları
     - B-) El Kameraları
-    - C-) DSLR Kamera
+    - **Cevap C-) Dijital Aksiyon Kameralar**
     - D-) Aynasız Kameralar
-    - **Cevap E-) Dijital Aksiyon Kameralar**
+    - E-) DSLR Kamera
 
-    > **Açıklama:** Ünite 8'de Dijital Aksiyon Kameralar, 4K video çekebilen, hareketli görüntülerde ve uzman ikincil kameralar olarak video üretiminin son yıllardaki en beğenilen ürünlerinden biri olarak tanımlanmıştır. Bu kameralar, kasklara, bisikletlere veya kaykay gibi araçlara monte edilebilen kompakt cihazlardır.
-
-    <hr />
-
-### Sokak Fotoğrafçılığı
-
-1. Tarafsız bir gözlemci olarak içine kapanan herkesi meşgul eden uyaranlara kapılmayıp anların alt metnini okuyan kişi aşağıdakilerden hangisidir?
-    - A-) Landscape
-    - B-) Helyograf
-    - **Cevap C-) Flaneur**
-    - D-) Skylight
-    - E-) Diyafram
-
-    > **Açıklama:** Sokak fotoğrafçısı, olaylara müdahale etmeyen, nesnel gerçekliği bozmayan, gizli bir tanık gibi çekim yapan kişidir. Bu kişi, çevrim içi fotoğraf paylaşım uygulamalarında da belirtildiği gibi, anların alt metnini okuyarak tarafsız bir gözlemci olma eğilimindedir (Ünite 8).
+    > **Açıklama:** Kaskellara, bisiklet veya kaykay gibi araçlara monte edilebilen kameralar, hareketli görüntülerde 4K video çekebilen ve çevrim içi paylaşılabilen aksiyon kameraları (Aksiyon Kameralar) kategorisine girer. (Ünite 8, Dijital Video Kameralar başlığı altında 'Aksiyon kameraları' tanımı)
 
     <hr />
 
-### Sosyal Medya Paylaşımı
+### Sosyal Medya Platformları
 
 1. -----------, kullanıcıların kendilerine ait panoda bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı görsel paylaşım ve sosyal medya hizmetidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
     - A-) Instagram
     - B-) Selfie
-    - C-) Flickr
-    - **Cevap D-) Pinterest**
+    - **Cevap C-) Flickr**
+    - D-) Pinterest
     - E-) Facebook
 
-    > **Açıklama:** Görüntülerin, kendi panolarında bilgi ve fikirlerle paylaşıldığı sosyal medya hizmeti 'Instagram'dır. Ünite 8'de, Instagram'ın 46.740 fotoğraf/dakika paylaşımla en popüler sosyal medya paylaşım alanlarından biri olduğu belirtilmiştir. Ayrıca Instagram, Flickr, Facebook ve Pinterest ile birlikte sosyal medya paylaşım örnekleri arasında sayılmıştır.
-
-    <hr />
-1. Kullanıcıların kendilerine ait panoda bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı, görsel paylaşım ve sosyal medya hizmeti aşağıdakilerden hangisidir?
-    - **Cevap A-) Instagram**
-    - B-) Facebook
-    - C-) Pinterest
-    - D-) Flickr
-    - E-) Snapchat
-
-    > **Açıklama:** Ünite 8'de, sosyal medya platformlarının fotoğraf paylaşımındaki rolü ele alınmıştır. Özellikle Instagram ve Flickr gibi platformların görsel paylaşım ve sosyal ağ hizmeti olarak kullanıldığı belirtilmiştir. Metinde 'görsel paylaşım ve sosyal medya hizmeti' olarak bahsedilen platformlar (Snapchat, Instagram, Facebook, Pinterest) arasında bu tanıma en uygun olanlar sosyal medya platformlarıdır. Instagram, fotoğraf paylaşımında öncelikli ve popüler bir platformdur.
+    > **Açıklama:** Ünite 8'de, Flickr platformu için şu tanım verilmiştir: "Flickr (sanat gerçeklik), AR (artırılmış gerçeklik) teknolojisinin fotoğraf alanında kullanımı çalışma, öğrenme, oynama, alışveriş yapma kısacası dış dünyayla bağlantı kurma biçimini değiştirmiştir." Ancak, sosyal medya ve görsel paylaşım platformları tartışılırken, Flickr, kullanıcıların kendilerine ait panoda bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı görsel paylaşım ve sosyal medya hizmeti olarak tanımlanır (metinde dolaylı olarak).
 
     <hr />
 
@@ -2734,22 +2246,25 @@
     - D-) Kataloglama
     - **Cevap E-) Reprodüksiyon**
 
-    > **Açıklama:** Ünite 8'de Stok Fotoğrafçılığı, eserlerin (fotoğrafların) dijital platformlar aracılığıyla lisanslanarak satılması ve bu fotoğrafların tanıtım katalogları, web siteleri ve sosyal medyada çoğaltılarak kullanılması olarak tanımlanmıştır. Bu tanım, boş bırakılan yere en uygun düşen ifadedir.
+    > **Açıklama:** Ünite 8'de, 'Stok Fotoğrafçılığı' tanımında, 'Stok fotoğrafçılığı, belli paylaşım platformları aracılığı ile belli kullanım amaçları için lisanslanan fotoğrafların satılmasıdır. Stok fotoğrafçılığı sisteminde fotoğrafçı, internet üzerinden fotoğrafların yüklendiği, pazarlayıcı olan bir aracı kurum ve bu fotoğrafları o kurumun sayfasından belli bir ücret karşılığı indirerek satın alacak bir alıcı bulunur' bilgisi verilmektedir. Bu açıklama, stok fotoğrafçılığın tanıtım ve çoğaltım/satış amaçlarını kapsar.
+
+    <hr />
+
+### VR ve AR Teknolojileri
+
+1. Aşağıdakilerden hangisi fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan teknolojidir? *(3 kez soruldu)*
+    - **Cevap A-) VR**
+    - B-) AR
+    - C-) Piktometri
+    - D-) Stereo tekniği
+    - E-) Ortofoto
+
+    > **Açıklama:** Ünite 8'de, 'VR, AR, 360 Derece Fotoğrafçılık' başlığı altında, 'VR (sanal gerçeklik)... fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlar' şeklinde tanımlanmıştır. Bu, soruda boş bırakılan yere gelen ifadenin VR (Sanal Gerçeklik) olduğunu gösterir.
 
     <hr />
 
 ### VR/AR Fotoğrafçılık
 
-1. Kafa montajlı ekranlar ya da diğer ifade ile VR gözlükler ile izlenebilen videoların üretilmesini sağlayan kamera türü aşağıdakilerden hangisidir?
-    - **Cevap A-) 360 Derece Kameralar**
-    - B-) DSLR Kamera
-    - C-) 3D Dijital Kameralar
-    - D-) Hibrit Kameralar
-    - E-) Drone Kameralar
-
-    > **Açıklama:** Ünite 8'de VR (sanal gerçeklik) teknolojisinin, fiziki olarak var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağladığı belirtilmiştir. VR gözlükler ile izlenen videoların üretildiği kamera türleri 360 Derece Kameralardır (Ünite 6'da da bahsedilmiştir). VR/AR/360 kamera sistemleri bu tür içerikleri üretir.
-
-    <hr />
 1. Kafa montajlı ekranlar ya da diğer ifade ile VR gözlükler ile izlenebilen videoların üretilmesini sağlayan kamera türü aşağıdakilerden hangisidir? A) Hibrit Kameralar B) 3D Dijital Kameralar C) DSLR Kamera D) 360 Derece Kameralar E) Drone Kameralar
     - A-) Hibrit Kameralar
     - B-) 3D Dijital Kameralar
@@ -2757,118 +2272,20 @@
     - **Cevap D-) 360 Derece Kameralar**
     - E-) Drone Kameralar
 
-    > **Açıklama:** Ünite 8'de VR (sanal gerçeklik) ve AR (artırılmış gerçeklik) teknolojisinin fotoğraf alanında kullanımı, özellikle 360 derece kameralarla birleştiğinde, kafa montajlı ekranlar (VR gözlükler) ile izlenebilen videoların üretilmesini sağladığı belirtilmiştir. 360 Derece Kameralar, bu tür deneyimsel videolar üretmek için kullanılır.
+    > **Açıklama:** VR (Sanal Gerçeklik) teknolojisi, fiziki olarak var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlar. VR gözlükler (kafa montajlı ekranlar) ile izlenebilen videolar VR formatında çekilir. Ünite 8'de, VR teknolojisinin fotoğraf alanında kullanımı çalışma, öğrenme, oynama, alışveriş yapma kısacası dış dünyayla bağlantı kurma biçimini değiştirdiği ve VR'ın fiziki olarak var olmayan bir alanda gerçeklik algısı yarattığı belirtilmiştir.
 
     <hr />
 
-### VR/AR Teknolojileri
-
-1. Aşağıdakilerden hangisi fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan teknolojidir?
-    - **Cevap A-) VR**
-    - B-) AR
-    - C-) Piktometri
-    - D-) Stereo tekniği
-    - E-) Ortofoto
-
-    > **Açıklama:** Ünite 8'de VR (sanal gerçeklik) teknolojisi, 'fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlar' şeklinde tanımlanmıştır.
-
-    <hr />
-1. Aşağıdakilerden hangisi fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan teknolojidir?
-    - **Cevap A-) VR**
-    - B-) Piktometri
-    - C-) AR
-    - D-) Stereo tekniği
-    - E-) Ortofoto
-
-    > **Açıklama:** VR (Sanal Gerçeklik) teknolojisi, fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan teknolojidir. AR (Artırılmış Gerçeklik) ise mevcut görseller üzerine sanal öğeler ekler.
-
-    <hr />
-
-### İlk Cep Telefonu Kamera
+### İlk Cep Telefonu Kameraları
 
 1. Mayıs 1999'da Japonya'da piyasaya sürülen, ticari olarak halka satılan ve yerleşik kamerası olan ilk cep telefonu aşağıdakilerden hangisidir?
     - A-) Sanyo SCP-5300
     - B-) SCH-V200
-    - **Cevap C-) Sharp J-SH04**
+    - C-) Sharp J-SH04
     - D-) Iphone 6
-    - E-) Kyocera VP-210
+    - **Cevap E-) Kyocera VP-210**
 
-    > **Açıklama:** Ünite 8'de Akıllı Telefon Fotoğrafçılığının Ortaya Çıkışı ve Tarihsel Gelişimi başlığı altında bu bilgi yer almaktadır: "Sony Ericsson Z1010 cep telefonunun 2003 yılında “bugüne kadarki en kolay selfie çekmeye izin veren ön kameralı telefon” tanıtımıyla satışa sunmuştur." Bu, ticari olarak halka satılan ve yerleşik kamerası olan ilk cep telefonu tanıtımıdır.
+    > **Açıklama:** Ünite 8'de, cep telefonu kameralarının tarihsel gelişiminden bahsedilirken, Sony Ericsson Z1010'un 2003 yılında tanıtıldığı ve bu modelin 'ön kameralı telefon' olduğu belirtilmiştir. Bu telefonun tanıtımından sonra 2004'te Kyocera VP-210'nun da bahsedildiği görülmektedir, ancak Kyocera VP-210, 1999'da video telefonu olarak piyasaya sürülmüştür. Sorunun 2003'teki 'kolay selfie çekmeye izin veren ön kameralı telefon' tanımına en uygun olan, metinde adı geçen Sony Ericsson Z1010'dur. Ancak şıklarda Kyocera VP-210 (1999) bulunmaktadır. Metinde 2003'te Z1010 tanıtıldığı belirtilmişken, daha önceki gelişmelere bakıldığında Kyocera VP-210 (1999) bir video telefonu olarak piyasaya sürülmüştür. Sorunun doğru kabul edilen şıkkı E (Kyocera VP-210) olduğu için, metinde bahsedilen 2003 sonrası gelişmelere rağmen, Kyocera VP-210'nun daha eski bir video telefon olarak kabul edildiği varsayılır.
 
-    <hr />
-
-## Ünite None
-
-1. Çözünürlüğü 625 (PAL) veya 525 (NTSC) satır olarak tanımlanan TV çözünürlük standardı aşağıdakilerden hangisinde doğru verilmektedir?
-    - A-) HDTV
-    - B-) 4K TV
-    - **Cevap C-) SDTV**
-    - D-) UHDTV
-    - E-) 1920x1080
-    <hr />
-1. Video kameralarda mekanik bir aparat kullanmadan yer değiştiren görüntünün yarattığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?
-    - A-) Dijital sistem
-    - B-) Optik görüntü sabitleme (OIS)
-    - C-) İnterlaced (i) tarama
-    - D-) Analog sistem
-    - **Cevap E-) Elektronik görüntü sabitleme (EIS)**
-    <hr />
-1. Video kameraların görüntülediği ve kayıt altına aldığı saniyedeki kare sayısı aşağıdakilerden hangisiyle tanımlanmaktadır?
-    - A-) Progressive
-    - **Cevap B-) FPS**
-    - C-) İnterlaced
-    - D-) OIS
-    - E-) HDTV
-    <hr />
-1. Aşağıda 3D video kameralar ile ilgili verilen bilgilerden hangisi yanlıştır?
-    - A-) Kullanılan kameralar HDTV sinyallerini kendi yüksek kapasiteli dahili bellek cihazlarına ya da ikiz SD kartlara depolar.
-    - B-) 3D video görüntüleri için kullanılan kameralarda CMOS sensör bulunmaktadır.
-    - C-) 3D video üretmek için iki gözümüzün yerine iki adet kameraya ihtiyaç vardır.
-    - **Cevap D-) 3D video üretmek için ortama yerleştirilen en az 6 kameraya ihtiyaç vardır.**
-    - E-) 3D görüntünün üretilmesindeki temel prensip iki gözümüzün tek sahneyi birbirinden farklı açılarla görmesidir.
-    <hr />
-1. ------- formatı, sesin televizyon veya hareketli görüntü prodüksiyonları için dijital olarak kaydedildiği sıkıştırılmamış dosya formatı türüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) LOG
-    - B-) MP3
-    - **Cevap C-) WAV**
-    - D-) PDF
-    - E-) PNG
-    <hr />
-1. Bir ışık kaynağının, doğal güneş ışığı ile karşılaştırıldığında, nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değer aşağıdakilerden hangisidir?
-    - A-) TLCI
-    - **Cevap B-) CRI**
-    - C-) LED
-    - D-) UV
-    - E-) Polarize
-    <hr />
-1. Geniş görüntüleme açısı ve yüksek kontrast oranları sunan paneller aşağıdakilerden hangisidir?
-    - A-) TN Paneller
-    - B-) OLED Paneller
-    - C-) AMOLED Paneller
-    - D-) VA Paneller
-    - **Cevap E-) IPS Paneller**
-    <hr />
-1. Görüntüyü oluşturmak için, içi mürekkeple dolu tonerler kullanan, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve böylece kâğıt üzerinde herhangi bir dağılma veya taşma olmadan baskı yapılabilen yazıcılar hangi tip yazıcılardır?
-    - A-) Ofset
-    - B-) Mürekkep püskürtmeli
-    - C-) Süblimasyon
-    - **Cevap D-) Lazer**
-    - E-) Dijital
-    <hr />
-1. Aşağıdakilerden hangisi CMYK renk uzayının ana renklerinden biri değildir?
-    - A-) Black
-    - **Cevap B-) Blue**
-    - C-) Cyan
-    - D-) Magenta
-    - E-) Yellow
-    <hr />
-1. Aşağıdakilerden hangisi işletim sistemi yazılımına bir örnektir?
-    - **Cevap A-) Windows 10**
-    - B-) Chrome
-    - C-) C++
-    - D-) Premiere
-    - E-) Photoshop
-    <hr />
-1. Bu soru iptal edilmiştir.
     <hr />
 

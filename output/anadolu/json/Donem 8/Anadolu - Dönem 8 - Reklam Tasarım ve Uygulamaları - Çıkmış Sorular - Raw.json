@@ -100,7 +100,7 @@
                 "Sonuca varma",
                 "Sözlü ve görsel mesajlar"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 7,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618236"
@@ -145,7 +145,7 @@
                 "Yaratıcı brief",
                 "Debrief"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 10,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618236"
@@ -250,7 +250,7 @@
                 "Markaya sanatsal deneyim ekleme",
                 "Reklamı sanatsal eyleme dönüştürme"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 17,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618236"
@@ -265,7 +265,7 @@
                 "Barok",
                 "Gotik"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 18,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618236"
@@ -445,7 +445,7 @@
                 "I, II, III ve IV",
                 "I, II, III, IV ve V"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 10,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622608"
@@ -565,7 +565,7 @@
                 "İlgi",
                 "İlgi"
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 18,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622608"

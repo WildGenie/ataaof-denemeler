@@ -13,7 +13,9 @@
             "correctIndex": 0,
             "exam_question_number": 1,
             "source": "Yaz Okulu 2022-2023",
-            "material_id": "548563"
+            "material_id": "548563",
+            "occurrence_count": 3,
+            "is_duplicate": false
         },
         {
             "id": 2,
@@ -31,7 +33,9 @@
             "material_id": "548563",
             "UniteNo": 2,
             "topic": "Deneysel Tipografi Tarihi",
-            "explanation": "Lissitzky, Mayakovski'nin şiir kitabı için yaptığı tasarımlarda asimetrik, dinamik ancak yapısal olarak ilişkili tipografi kullanmıştır. Bu dönemde Avrupa'da Konstrüktivizm, Kübizm, Dadaizm, Fütürizm gibi pek çok avangard akım ortaya çıkmıştır. Lissitzky'nin eseri Kübo-Fütürizm'in özelliklerini taşır, bu akım Kübizm ve Fütürizm'in ortak özelliklerinden türetilmiştir (Ünite 2)."
+            "explanation": "Lissitzky, Mayakovski'nin şiir kitabı için yaptığı tasarımlarda asimetrik, dinamik ancak yapısal olarak ilişkili tipografi kullanmıştır. Bu dönemde Avrupa'da Konstrüktivizm, Kübizm, Dadaizm, Fütürizm gibi pek çok avangard akım ortaya çıkmıştır. Lissitzky'nin eseri Kübo-Fütürizm'in özelliklerini taşır, bu akım Kübizm ve Fütürizm'in ortak özelliklerinden türetilmiştir (Ünite 2).",
+            "occurrence_count": 3,
+            "is_duplicate": false
         },
         {
             "id": 3,
@@ -49,7 +53,9 @@
             "material_id": "548563",
             "UniteNo": 1,
             "topic": "Üç Boyutlu Tipografi",
-            "explanation": "Kullanım Alanlarına Göre Üç Boyutlu Tipografi sınıflandırması; Bilgilendirme amaçlı, Mimari imge olarak, Gösteri-reklam amaçlı, Yer imi amaçlı, Sanat-tasarım amaçlı ve Oyun amaçlı-obje çıkışlı olarak yapılmıştır. Televizyon ve dizi jenerikleri daha çok Hareketli Tipografi (Ünite 3) kapsamında değerlendirilir."
+            "explanation": "Kullanım Alanlarına Göre Üç Boyutlu Tipografi sınıflandırması; Bilgilendirme amaçlı, Mimari imge olarak, Gösteri-reklam amaçlı, Yer imi amaçlı, Sanat-tasarım amaçlı ve Oyun amaçlı-obje çıkışlı olarak yapılmıştır. Televizyon ve dizi jenerikleri daha çok Hareketli Tipografi (Ünite 3) kapsamında değerlendirilir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 4,
@@ -67,7 +73,9 @@
             "material_id": "548563",
             "UniteNo": 2,
             "topic": "Görsel Şiir Tarihi",
-            "explanation": "Görsel şiir, yazılı içeriği aktaran harflerin ve sözcüklerin içerikle eşdeğer biçimde var olduğu şiir türüdür. Fransız şair Apollinaire'nin \"Il Pleut\" şiiri bu türe örnektir. Blaise Cendrars (Frédéric-Louis Sauser) bir yazar olup, Kübist sanatçı Fernand Léger ile savaş karşıtı kitabı \"The End of the World\" için kapak tasarlamıştır, ancak görsel şiir türünde eseri olduğu bilgisi metinde yer almamaktadır (Ünite 2)."
+            "explanation": "Görsel şiir, yazılı içeriği aktaran harflerin ve sözcüklerin içerikle eşdeğer biçimde var olduğu şiir türüdür. Fransız şair Apollinaire'nin \"Il Pleut\" şiiri bu türe örnektir. Blaise Cendrars (Frédéric-Louis Sauser) bir yazar olup, Kübist sanatçı Fernand Léger ile savaş karşıtı kitabı \"The End of the World\" için kapak tasarlamıştır, ancak görsel şiir türünde eseri olduğu bilgisi metinde yer almamaktadır (Ünite 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 5,
@@ -85,7 +93,9 @@
             "material_id": "548563",
             "UniteNo": 3,
             "topic": "Hareketli Tipografi Tarihi",
-            "explanation": "Hareketli tipografinin serüveni kâğıt ve perde ile başlamış olsa da, asıl ivme kazanması ve daha geniş kitleye ulaşması, sinemanın ve televizyonun sayısal ortama taşınmasıyla, özellikle 1980'lerin ortasından itibaren MTV gibi müzik kanallarının kimlik tasarımlarıyla gerçekleşmiştir (Ünite 3)."
+            "explanation": "Hareketli tipografinin serüveni kâğıt ve perde ile başlamış olsa da, asıl ivme kazanması ve daha geniş kitleye ulaşması, sinemanın ve televizyonun sayısal ortama taşınmasıyla, özellikle 1980'lerin ortasından itibaren MTV gibi müzik kanallarının kimlik tasarımlarıyla gerçekleşmiştir (Ünite 3).",
+            "occurrence_count": 3,
+            "is_duplicate": false
         },
         {
             "id": 6,
@@ -103,7 +113,9 @@
             "material_id": "548563",
             "UniteNo": 3,
             "topic": "Animatik Özellikler",
-            "explanation": "Animasyonda hareketlendirme ilkelerinden olan Sıkışma ve Esneme (Squash and Stretch), Ters Hareket (Anticipation), Sahneleme (Staging) gibi ilkeler, tipografinin hareketlendirilmesinde de uygulanabilir. Zamanlama (Timing) ilkesi, bir hareketin veya bir eylemin aşamalarının ne kadar sürede gerçekleştiğini (kare sayısını) belirler ve hareketin hızını kontrol eder (Ünite 3)."
+            "explanation": "Animasyonda hareketlendirme ilkelerinden olan Sıkışma ve Esneme (Squash and Stretch), Ters Hareket (Anticipation), Sahneleme (Staging) gibi ilkeler, tipografinin hareketlendirilmesinde de uygulanabilir. Zamanlama (Timing) ilkesi, bir hareketin veya bir eylemin aşamalarının ne kadar sürede gerçekleştiğini (kare sayısını) belirler ve hareketin hızını kontrol eder (Ünite 3).",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 7,
@@ -121,7 +133,9 @@
             "material_id": "548563",
             "UniteNo": 5,
             "topic": "Tipografi ve Harfleme",
-            "explanation": "Tipografi, genellikle bilgisayar dizgisi, ofset ve dijital baskı yöntemleriyle üretilen, harflerin biçimlerinin ve yerleşiminin tasarlandığı bir teknik ve sanattır. Tipografide harfler tekrarlanabilir ve her kopyası aynıdır (sayısallaştırma nedeniyle). Kaligrafi ise harfleri elle, benzersiz ve sanatsal bir ifadeyle oluşturma sanatıdır; burada tekrarlanabilirlik esas değildir. Bu nedenle tipografik bir eserin benzersiz olması, sanatsal kaligrafi ile karıştırılmasına neden olsa da, temel fark budur (Ünite 5)."
+            "explanation": "Tipografi, genellikle bilgisayar dizgisi, ofset ve dijital baskı yöntemleriyle üretilen, harflerin biçimlerinin ve yerleşiminin tasarlandığı bir teknik ve sanattır. Tipografide harfler tekrarlanabilir ve her kopyası aynıdır (sayısallaştırma nedeniyle). Kaligrafi ise harfleri elle, benzersiz ve sanatsal bir ifadeyle oluşturma sanatıdır; burada tekrarlanabilirlik esas değildir. Bu nedenle tipografik bir eserin benzersiz olması, sanatsal kaligrafi ile karıştırılmasına neden olsa da, temel fark budur (Ünite 5).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 8,
@@ -139,7 +153,9 @@
             "material_id": "548563",
             "UniteNo": 4,
             "topic": "Grafiti ve Sokak Sanatı",
-            "explanation": "Grafiti, yazı ve sanatı birleştiren, sokak sanatının önemli bir parçası olan yazı ve resim formudur. Bazı çevrelerce estetik kaygılarla yapıldığında sanat olarak kabul edilirken, izinsiz yapıldığında yasa dışı veya rahatsız edici anarşist bir eylem olarak görülebilir (Ünite 4)."
+            "explanation": "Grafiti, yazı ve sanatı birleştiren, sokak sanatının önemli bir parçası olan yazı ve resim formudur. Bazı çevrelerce estetik kaygılarla yapıldığında sanat olarak kabul edilirken, izinsiz yapıldığında yasa dışı veya rahatsız edici anarşist bir eylem olarak görülebilir (Ünite 4).",
+            "occurrence_count": 3,
+            "is_duplicate": false
         },
         {
             "id": 9,
@@ -157,7 +173,9 @@
             "material_id": "548563",
             "UniteNo": 5,
             "topic": "Yazı Karakteri Türleri",
-            "explanation": "Sans Serif yazı karakterleri, harflerin son derece düzgün çizgilerle oluşturulmuş, geometrik, keskin ve açık yapısal özelliklere sahip olanlardır (Ünite 5). Roman türü yazı karakterleri ise seriflere sahiptir ve genellikle Eski Stil, Geçiş Dönemi ve Modern Roman olarak üçe ayrılır. Courier, belirli bir amaç için tasarlanmış bir yazı türüdür (genellikle daktilo hissi verir) ve serifli bir karakterdir (Ünite 5)."
+            "explanation": "Sans Serif yazı karakterleri, harflerin son derece düzgün çizgilerle oluşturulmuş, geometrik, keskin ve açık yapısal özelliklere sahip olanlardır (Ünite 5). Roman türü yazı karakterleri ise seriflere sahiptir ve genellikle Eski Stil, Geçiş Dönemi ve Modern Roman olarak üçe ayrılır. Courier, belirli bir amaç için tasarlanmış bir yazı türüdür (genellikle daktilo hissi verir) ve serifli bir karakterdir (Ünite 5).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 10,
@@ -175,7 +193,9 @@
             "material_id": "548563",
             "UniteNo": 5,
             "topic": "Tipografi Terimleri",
-            "explanation": "Küçük majüsküller (small caps), miniskül harf ölçülerinde tasarlanmış ancak majüskül karakterlerin formuna sahip olan büyük harflerdir. Miniskül (lowercase) ise küçük harfleri tanımlar. Majüskül (cap, capital, uppercase) ise büyük harfleri tanımlar. X-Yüksekliği (x-height) ise miniskül x'in gövde yüksekliğidir (Ünite 5)."
+            "explanation": "Küçük majüsküller (small caps), miniskül harf ölçülerinde tasarlanmış ancak majüskül karakterlerin formuna sahip olan büyük harflerdir. Miniskül (lowercase) ise küçük harfleri tanımlar. Majüskül (cap, capital, uppercase) ise büyük harfleri tanımlar. X-Yüksekliği (x-height) ise miniskül x'in gövde yüksekliğidir (Ünite 5).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 11,
@@ -193,7 +213,9 @@
             "material_id": "548563",
             "UniteNo": 5,
             "topic": "Yazı Karakteri Türleri",
-            "explanation": "Bauhaus, 20. yüzyılın başında Almanya'da kurulan ve endüstri ile eğitimin birlikte olması gerektiğini savunan işlevci bir eğitim anlayışını izleyen modernist bir harekettir. Metinde Bauhaus'un süprematizm ve geometrik biçimlerin kullanımıyla sentezlendiği belirtilmektedir (Ünite 2'de de geçmektedir, ancak Bauhaus'un tanımı Ünite 5'te de dolaylı olarak yer alır, ancak Ünite 2'deki deneysel tipografi bağlamı daha uygun olabilir. Ancak, Bauhaus'un felsefesi Ünite 5'te de dolaylı olarak bahsedilen 'modern tasarımlar' ile ilişkilidir. Ünite 2'de süprematizm ve Bauhaus'un geometrik biçimleri aracılığıyla deneysel tipografiye zemin hazırladığı belirtiliyor. Soru, 'ekol'ü soruyor. Bauhaus, deneysel tipografinin gelişiminde önemli bir ekoldür ve genellikle Ünite 2 bağlamında daha güçlü ele alınır. Ancak, verilen ünite özetlerinde Bauhaus doğrudan bir 'ekol' olarak ve seri üretimle estetiğin birleşmesi gerektiği vurgusuyla net bir şekilde listelenmemiştir. Ancak deneysel tipografi bağlamında (Ünite 2), Süprematizm'in biçimsel unsurlarının Bauhaus'a zemin hazırladığı söylenir. En uygun cevap, sanat ve tasarım tarihini kapsayan bir bağlamda Bauhaus'tur (Ünite 2'de daha detaylı işlenmiştir)."
+            "explanation": "Bauhaus, 20. yüzyılın başında Almanya'da kurulan ve endüstri ile eğitimin birlikte olması gerektiğini savunan işlevci bir eğitim anlayışını izleyen modernist bir harekettir. Metinde Bauhaus'un süprematizm ve geometrik biçimlerin kullanımıyla sentezlendiği belirtilmektedir (Ünite 2'de de geçmektedir, ancak Bauhaus'un tanımı Ünite 5'te de dolaylı olarak yer alır, ancak Ünite 2'deki deneysel tipografi bağlamı daha uygun olabilir. Ancak, Bauhaus'un felsefesi Ünite 5'te de dolaylı olarak bahsedilen 'modern tasarımlar' ile ilişkilidir. Ünite 2'de süprematizm ve Bauhaus'un geometrik biçimleri aracılığıyla deneysel tipografiye zemin hazırladığı belirtiliyor. Soru, 'ekol'ü soruyor. Bauhaus, deneysel tipografinin gelişiminde önemli bir ekoldür ve genellikle Ünite 2 bağlamında daha güçlü ele alınır. Ancak, verilen ünite özetlerinde Bauhaus doğrudan bir 'ekol' olarak ve seri üretimle estetiğin birleşmesi gerektiği vurgusuyla net bir şekilde listelenmemiştir. Ancak deneysel tipografi bağlamında (Ünite 2), Süprematizm'in biçimsel unsurlarının Bauhaus'a zemin hazırladığı söylenir. En uygun cevap, sanat ve tasarım tarihini kapsayan bir bağlamda Bauhaus'tur (Ünite 2'de daha detaylı işlenmiştir).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 12,
@@ -211,7 +233,9 @@
             "material_id": "548563",
             "UniteNo": 5,
             "topic": "Yazı Karakteri Tanımları",
-            "explanation": "Alfabenin özgün bir tasarımını tanımlamak için kullanılan terim Yazı Karakteri (Typeface)'dir. Ünite 5'te, 'Yazı karakteri terimi alfabenin özgün bir tasarımını tanımlamak için kullanılır' denilmektedir."
+            "explanation": "Alfabenin özgün bir tasarımını tanımlamak için kullanılan terim Yazı Karakteri (Typeface)'dir. Ünite 5'te, 'Yazı karakteri terimi alfabenin özgün bir tasarımını tanımlamak için kullanılır' denilmektedir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 13,
@@ -229,7 +253,9 @@
             "material_id": "548563",
             "UniteNo": 6,
             "topic": "Mimari Tipografi Öncüleri",
-            "explanation": "Ünite 6'da, Viyana Sesesyonu döneminin mimarlarından Otto Wagner'in, 1902'de tasarladığı \"Die Zeit\" telgraf bürosu ile tabela tasarımında yeni bir anlayış ortaya koyduğu ve cepheyi tipografik ögelerle birlikte ele aldığı belirtilmektedir."
+            "explanation": "Ünite 6'da, Viyana Sesesyonu döneminin mimarlarından Otto Wagner'in, 1902'de tasarladığı \"Die Zeit\" telgraf bürosu ile tabela tasarımında yeni bir anlayış ortaya koyduğu ve cepheyi tipografik ögelerle birlikte ele aldığı belirtilmektedir.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 14,
@@ -247,7 +273,9 @@
             "material_id": "548563",
             "UniteNo": 6,
             "topic": "Yönlendirme Tasarımı",
-            "explanation": "Paragrafta anlatılan kavram, bir müzenin, aktarma sisteminin veya şehrin genel görsel iletişimini sağlayan, nerede olduğumuzu ve nereye gitmek istediğimizi gösteren markalama, işaret, harita ve yönle ilgili araçların birleşimi olan Yönlendirme Tasarımı'dır (Wayshowing). Ünite 6'da Per Mollerup'un bu alandaki öncülüğüne değinilmektedir."
+            "explanation": "Paragrafta anlatılan kavram, bir müzenin, aktarma sisteminin veya şehrin genel görsel iletişimini sağlayan, nerede olduğumuzu ve nereye gitmek istediğimizi gösteren markalama, işaret, harita ve yönle ilgili araçların birleşimi olan Yönlendirme Tasarımı'dır (Wayshowing). Ünite 6'da Per Mollerup'un bu alandaki öncülüğüne değinilmektedir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 15,
@@ -259,13 +287,15 @@
                 "Harfleme",
                 "Grafiti"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 15,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "548563",
             "UniteNo": 7,
-            "topic": "Harfleme Tanımı",
-            "explanation": "Boş bırakılan yer, 'Harfleme (Lettering)' terimi ile tamamlanmalıdır. Ünite 7'de Harfleme; her harfin kendi mini illüstrasyonu gibi davrandığı, elle çizilen, elle yazılmayan, tek kullanımlık tasarlanmış metin olarak tanımlanmaktadır."
+            "topic": "Kaligrafi, Harfleme ve Tipografi",
+            "explanation": "Soru, elle yazılmayan, çizilmiş, boyanmış, oyulmuş veya kesilmiş tek kullanımlık tasarlanmış metin tanımını sormaktadır. Ünite 7'de, harflemenin (lettering) tanımı yapılırken, bunun kaligrafiden farklı olarak harflerin bireysel ilgiyle çizildiği ve tek kullanımlık (örneğin çizilmiş, boyanmış, oyulmuş) bir kompozisyon sonucu olduğu belirtilir. Bu durum, harflemenin (D) temel özelliğidir. Kaligrafi elle yazma, Tipografi ise mevcut yazı karakterlerinin düzenlenmesidir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 16,
@@ -283,7 +313,9 @@
             "material_id": "548563",
             "UniteNo": 4,
             "topic": "Tasarım Tarihindeki Akımlar",
-            "explanation": "Arts and Crafts Hareketi, 19. yüzyılın sonunda William Morris önderliğinde ortaya çıkmış ve bu hareketin etkisiyle harflerin çizilmesi ve gelenekselden moderne kadar bütün yapıların kullanılması söz konusudur. Ünite 4'te bu hareketin kaligrafi ve tipografi üzerindeki etkisi belirtilmektedir."
+            "explanation": "Arts and Crafts Hareketi, 19. yüzyılın sonunda William Morris önderliğinde ortaya çıkmış ve bu hareketin etkisiyle harflerin çizilmesi ve gelenekselden moderne kadar bütün yapıların kullanılması söz konusudur. Ünite 4'te bu hareketin kaligrafi ve tipografi üzerindeki etkisi belirtilmektedir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 17,
@@ -301,7 +333,9 @@
             "material_id": "548563",
             "UniteNo": 5,
             "topic": "Yazı Karakteri Tasarımcıları",
-            "explanation": "Gotham yazı karakteri, Jonathan Hoefler ve Tobias Frere-Jones tarafından 2000 yılında yayımlanmıştır ve esin kaynağı New York'taki Liman İşletmeleri Otobüs Terminali'nin tabelasıdır. Bu bilgi Ünite 5'te geçmektedir."
+            "explanation": "Gotham yazı karakteri, Jonathan Hoefler ve Tobias Frere-Jones tarafından 2000 yılında yayımlanmıştır ve esin kaynağı New York'taki Liman İşletmeleri Otobüs Terminali'nin tabelasıdır. Bu bilgi Ünite 5'te geçmektedir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 18,
@@ -313,13 +347,15 @@
                 "Paula Scher",
                 "Michael Bierut"
             ],
-            "correctIndex": 3,
+            "correctIndex": 0,
             "exam_question_number": 18,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "548563",
             "UniteNo": 8,
-            "topic": "Vernaküler Tipografi Öncüleri",
-            "explanation": "Vernakülerin görsel iletişim tasarımındaki yerinin sağlamlaşmasında Tibor Kalman'ın rolü önemlidir. Ünite 8'de Kalman'ın vernaküler harflerden bir tipografi türü tanımladığı ve bunu bir düşünme yöntemine dönüştürdüğü belirtilmektedir."
+            "topic": "Vernaküler tasarımcılar",
+            "explanation": "Ünite 8'de, vernakülerin görsel iletişim tasarımındaki yerinin sağlamlaşmasında Tibor Kalman'ın rolünün önemli olduğu belirtilmektedir. Kalman'a göre görsel iletişim tasarımının resmi olmayan, kendine özgü lehçeleri veya yerel biçimleri vardır ve vernaküleri bir yönteme dönüştürmüştür.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 19,
@@ -337,7 +373,9 @@
             "material_id": "548563",
             "UniteNo": 7,
             "topic": "Sanat Alanı Tanımları",
-            "explanation": "Kaligrafi, 'güzel yazı yazma sanatı' olarak özetlenebilir. Ünite 7'de, Kaligrafi teriminin Yunanca 'güzel' ve 'yazmak' kelimelerinden türediği, harfleri güzelleştirmeyi ve ritim ile anlam iletmeyi amaçlayan sanatsal bir ifade biçimi olduğu belirtilmektedir."
+            "explanation": "Kaligrafi, 'güzel yazı yazma sanatı' olarak özetlenebilir. Ünite 7'de, Kaligrafi teriminin Yunanca 'güzel' ve 'yazmak' kelimelerinden türediği, harfleri güzelleştirmeyi ve ritim ile anlam iletmeyi amaçlayan sanatsal bir ifade biçimi olduğu belirtilmektedir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 20,
@@ -355,7 +393,9 @@
             "material_id": "548563",
             "UniteNo": 8,
             "topic": "Vernaküler Kavramı",
-            "explanation": "Vernaküler kavramı ilk olarak mimarlık alanında kullanılmıştır. Ünite 8'in Giriş bölümünde, 'Başlarda mimarlık alanında kullanılan bu kavram, zaman içerisinde birçok disiplinde kendine yer edinir...' şeklinde bilgi verilmektedir."
+            "explanation": "Vernaküler kavramı ilk olarak mimarlık alanında kullanılmıştır. Ünite 8'in Giriş bölümünde, 'Başlarda mimarlık alanında kullanılan bu kavram, zaman içerisinde birçok disiplinde kendine yer edinir...' şeklinde bilgi verilmektedir.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 21,
@@ -373,7 +413,10 @@
             "material_id": "565288",
             "UniteNo": 1,
             "topic": "Üç Boyutlu Tipografi Alanları",
-            "explanation": "Üç boyutlu tipografinin kullanım alanları Bilgilendirme, Mimari İmge, Gösteri-Reklam, Yer İmi, Sanat-Tasarım ve Oyun amaçlı-obje çıkışlı olarak listelenmiştir (Ünite 1). Kinetik tipografi (hareketli tipografi), Ünite 3'ün konusudur ve üç boyutlu tipografinin spesifik bir kullanım alanı olarak listelenmemiştir."
+            "explanation": "Üç boyutlu tipografinin kullanım alanları Bilgilendirme, Mimari İmge, Gösteri-Reklam, Yer İmi, Sanat-Tasarım ve Oyun amaçlı-obje çıkışlı olarak listelenmiştir (Ünite 1). Kinetik tipografi (hareketli tipografi), Ünite 3'ün konusudur ve üç boyutlu tipografinin spesifik bir kullanım alanı olarak listelenmemiştir.",
+            "is_duplicate": true,
+            "duplicate_of": 1,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 22,
@@ -385,13 +428,15 @@
                 "Oyun amaçlı tipografi",
                 "Tipo-texture"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 2,
             "source": "Ara Sınav 2023-2024",
             "material_id": "565288",
-            "UniteNo": 1,
-            "topic": "Yer İmi Amaçlı Tipografi",
-            "explanation": "Bir şehir dokusu içinde yer alan saat kulesi, heykeller, çeşmeler gibi özgün bir hava yaratan ve yer ile özdeşleşen tipografik düzenlemeler yer imi amaçlı üç boyutlu tipografidir. 'I amsterdam' ve 'I love eskişehir' örnekleri bu kategoriye girer (Ünite 1)."
+            "UniteNo": 3,
+            "topic": "Üç Boyutlu Tipografi Türleri",
+            "explanation": "Ünite 3'te, 'Yer İmi Amaçlı Üç Boyutlu Tipografi' başlığı altında, şehir dokusu içinde yer alan saat kulesi, heykeller gibi elemanların, bulundukları yer ile özdeşleşmeleri ve özgün bir hava yaratmaları açısından yer imi olarak kullanılabileceği belirtilmiştir. Özellikle 'I amsterdam' ve 'I love eskişehir' örnekleri, bu büyük boyutlu tipografik düzenlemelerin yer imi işlevi gördüğünü göstermektedir.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 23,
@@ -409,7 +454,10 @@
             "material_id": "565288",
             "UniteNo": 2,
             "topic": "Deneysel Tipografi Tarihi",
-            "explanation": "Lissitzky, kübizm ve fütürizmdeki ortak özellikleri görüp 'kübo-fütürizm' terimini türetmiştir ve Mayakovski'nin şiir kitabı için yaptığı tasarımları asimetrik, dinamik ancak yapısal olarak ilişkili bir tipografi örneğidir. Kübo-fütürizm, Rus avangardı içerisinde yer alır ve modernizm akımları altında gelişmiştir (Ünite 2)."
+            "explanation": "Lissitzky, kübizm ve fütürizmdeki ortak özellikleri görüp 'kübo-fütürizm' terimini türetmiştir ve Mayakovski'nin şiir kitabı için yaptığı tasarımları asimetrik, dinamik ancak yapısal olarak ilişkili bir tipografi örneğidir. Kübo-fütürizm, Rus avangardı içerisinde yer alır ve modernizm akımları altında gelişmiştir (Ünite 2).",
+            "is_duplicate": true,
+            "duplicate_of": 2,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 24,
@@ -427,7 +475,9 @@
             "material_id": "565288",
             "UniteNo": 1,
             "topic": "3 Boyutlu Tipografi Yöntemleri",
-            "explanation": "Oluşturma yöntemlerine göre üç boyutlu tipografi; Çeşitli nesneler kullanılarak, kesip çıkarma yöntemiyle, ışık-gölge kullanılarak, hazır malzemelerden, bakış açısına göre değişen (Anamorfik), tipografik heykel olarak, var olan mekânı kullanarak ve hareket-performans ile oluşturulan olarak sınıflandırılır. Işık-gölge kullanımı, bu yöntemlerden biridir (Ünite 1)."
+            "explanation": "Oluşturma yöntemlerine göre üç boyutlu tipografi; Çeşitli nesneler kullanılarak, kesip çıkarma yöntemiyle, ışık-gölge kullanılarak, hazır malzemelerden, bakış açısına göre değişen (Anamorfik), tipografik heykel olarak, var olan mekânı kullanarak ve hareket-performans ile oluşturulan olarak sınıflandırılır. Işık-gölge kullanımı, bu yöntemlerden biridir (Ünite 1).",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 25,
@@ -445,7 +495,9 @@
             "material_id": "565288",
             "UniteNo": 1,
             "topic": "3 Boyutlu Tipografi Yöntemleri",
-            "explanation": "Oluşturma yöntemlerine göre sınıflandırma şunları içerir: Çeşitli nesneler kullanılarak, kesip çıkarma yöntemiyle, ışık-gölge kullanılarak, hazır malzemelerden, bakış açısına göre değişen (Anamorfik), tipografik heykel olarak, var olan mekânı kullanarak ve hareket-performans ile oluşturulan tipografi. 'Tipografik heykel olarak oluşturulan' tipografi bu kategoride yer alır (Ünite 1)."
+            "explanation": "Oluşturma yöntemlerine göre sınıflandırma şunları içerir: Çeşitli nesneler kullanılarak, kesip çıkarma yöntemiyle, ışık-gölge kullanılarak, hazır malzemelerden, bakış açısına göre değişen (Anamorfik), tipografik heykel olarak, var olan mekânı kullanarak ve hareket-performans ile oluşturulan tipografi. 'Tipografik heykel olarak oluşturulan' tipografi bu kategoride yer alır (Ünite 1).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 26,
@@ -463,7 +515,9 @@
             "material_id": "565288",
             "UniteNo": 2,
             "topic": "Modernizm Sanat Akımları",
-            "explanation": "Modernizm altında Konstrüktivizm, Kübizm, Dadaizm, Ekspresyonizm, Fütürizm, Prodüktivizm, Purizm, Süprematizm, Vortisizm, Zenitizm ve De Stijl gibi akımlar yer almıştır (Ünite 2). Kaligrafi ve harfleme ise daha çok Ünite 7'de ele alınmıştır ve doğrudan bir modernizm akımı olarak sınıflandırılmazlar."
+            "explanation": "Modernizm altında Konstrüktivizm, Kübizm, Dadaizm, Ekspresyonizm, Fütürizm, Prodüktivizm, Purizm, Süprematizm, Vortisizm, Zenitizm ve De Stijl gibi akımlar yer almıştır (Ünite 2). Kaligrafi ve harfleme ise daha çok Ünite 7'de ele alınmıştır ve doğrudan bir modernizm akımı olarak sınıflandırılmazlar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 27,
@@ -481,7 +535,9 @@
             "material_id": "565288",
             "UniteNo": 3,
             "topic": "Deneysel Tipografi Grupları",
-            "explanation": "Deneysel tipografi yaklaşımları; mecra, malzeme, hareket ve teknoloji temelli olmak üzere dört kategoride toplanır. Odağına hareketi koyanlar Hareket Temelli Deneysel Tipografi Çalışmaları kategorisindedir (Ünite 3)."
+            "explanation": "Deneysel tipografi yaklaşımları; mecra, malzeme, hareket ve teknoloji temelli olmak üzere dört kategoride toplanır. Odağına hareketi koyanlar Hareket Temelli Deneysel Tipografi Çalışmaları kategorisindedir (Ünite 3).",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 28,
@@ -499,7 +555,9 @@
             "material_id": "565288",
             "UniteNo": 1,
             "topic": "3 Boyutlu Tipografi Yöntemleri",
-            "explanation": "Bakış açısına göre değişen tipografi, 'Anamorfik' olarak adlandırılır ve bu, oluşturma yöntemlerine göre üç boyutlu tipografi sınıfında yer alır. Bu uygulamalarda harfler, biçimleriyle görsel bir malzeme hâline dönüşür ve anlamsal olarak tasarlanan işin önemini artırır (Ünite 1)."
+            "explanation": "Bakış açısına göre değişen tipografi, 'Anamorfik' olarak adlandırılır ve bu, oluşturma yöntemlerine göre üç boyutlu tipografi sınıfında yer alır. Bu uygulamalarda harfler, biçimleriyle görsel bir malzeme hâline dönüşür ve anlamsal olarak tasarlanan işin önemini artırır (Ünite 1).",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 29,
@@ -517,7 +575,10 @@
             "material_id": "565288",
             "UniteNo": 3,
             "topic": "Hareketli Tipografi Tarihi",
-            "explanation": "Görme sürekliliği teorisiyle sinemada hareketli tipografi başlamıştır. Georges Méliès'in 'La Voyage Dans La Lune' filmi (1902) ile yazıyı hareketlendiren ilk örneklere imza atılmıştır. Stop motion tekniği kullanılmıştır (Ünite 3)."
+            "explanation": "Görme sürekliliği teorisiyle sinemada hareketli tipografi başlamıştır. Georges Méliès'in 'La Voyage Dans La Lune' filmi (1902) ile yazıyı hareketlendiren ilk örneklere imza atılmıştır. Stop motion tekniği kullanılmıştır (Ünite 3).",
+            "is_duplicate": true,
+            "duplicate_of": 5,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 30,
@@ -535,7 +596,9 @@
             "material_id": "565288",
             "UniteNo": 2,
             "topic": "Tasarımda Deney Kavramı",
-            "explanation": "Tasarımda deney, sonuca değil, yaratıcı sürece odaklanır; yeni yollar, yöntemler, malzemeler denenebilir ve orijinal fikirler geliştirilebilir. Deneysellik, tamamlanan projede değil, yaratım sürecinin kendisindedir. Bir deney son şeklini alır almaz kategorize edilebilir (Ünite 2). Tasarımda deneysellik 'hemen her zaman kırsal toplum ve kültürün nasıl görüldüğü ile bağlantılıdır' ifadesi (Ünite 8'den alıntı) deneysellik kavramının genel tanımından çok, vernaküler tipografinin özelliklerini tanımlar ve bu nedenle yanlıştır."
+            "explanation": "Tasarımda deney, sonuca değil, yaratıcı sürece odaklanır; yeni yollar, yöntemler, malzemeler denenebilir ve orijinal fikirler geliştirilebilir. Deneysellik, tamamlanan projede değil, yaratım sürecinin kendisindedir. Bir deney son şeklini alır almaz kategorize edilebilir (Ünite 2). Tasarımda deneysellik 'hemen her zaman kırsal toplum ve kültürün nasıl görüldüğü ile bağlantılıdır' ifadesi (Ünite 8'den alıntı) deneysellik kavramının genel tanımından çok, vernaküler tipografinin özelliklerini tanımlar ve bu nedenle yanlıştır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 31,
@@ -553,7 +616,9 @@
             "material_id": "565288",
             "UniteNo": 2,
             "topic": "Teknoloji Temelli Tipografi",
-            "explanation": "Deneysel tipografi yöntemlerine göre sınıflandırmada, hologram, sanal gerçeklik (virtual reality) ve artırılmış gerçeklik (augmented reality) gibi teknolojilerin kullanıldığı çalışmalar Teknoloji Temelli Deneysel Tipografi Çalışmaları başlığı altında yer alır (Ünite 2)."
+            "explanation": "Deneysel tipografi yöntemlerine göre sınıflandırmada, hologram, sanal gerçeklik (virtual reality) ve artırılmış gerçeklik (augmented reality) gibi teknolojilerin kullanıldığı çalışmalar Teknoloji Temelli Deneysel Tipografi Çalışmaları başlığı altında yer alır (Ünite 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 32,
@@ -571,7 +636,9 @@
             "material_id": "565288",
             "UniteNo": 3,
             "topic": "Hareketli Tipografi Bileşenleri",
-            "explanation": "Soru 1, kadraj, kamera hareketi ve kurgu kavramlarının hareketli tipografideki hangi özelliği belirlediğini sormaktadır. Ünite 3'te hareketli tipografi bileşenleri 'Biçimsel Özellikler', 'Kompozisyonel Özellikler' ve 'Sinematografik Özellikler' olarak sınıflandırılmıştır. Kadraj, kamera hareketleri ve kurgu başlıkları Sinematografik Özellikler altında ele alınmaktadır. Bu nedenle doğru cevap Sinematografik Özellikler'dir."
+            "explanation": "Soru 1, kadraj, kamera hareketi ve kurgu kavramlarının hareketli tipografideki hangi özelliği belirlediğini sormaktadır. Ünite 3'te hareketli tipografi bileşenleri 'Biçimsel Özellikler', 'Kompozisyonel Özellikler' ve 'Sinematografik Özellikler' olarak sınıflandırılmıştır. Kadraj, kamera hareketleri ve kurgu başlıkları Sinematografik Özellikler altında ele alınmaktadır. Bu nedenle doğru cevap Sinematografik Özellikler'dir.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 33,
@@ -589,7 +656,9 @@
             "material_id": "565288",
             "UniteNo": 3,
             "topic": "Televizyonda Hareketli Tipografi",
-            "explanation": "Soru 2, 1981 yılında Manhattan Design ekibi tarafından kimlik tasarımı yapılan ve televizyonda hareketli tipografiyi kullanan kanalı sormaktadır. Ünite 3'ün 'Televizyonda Hareketli Tipografi' bölümünde, 1981 yılında Manhattan Design ekibi tarafından gerçekleştirilen MTV'nin kimlik tasarımından bahsedilmektedir. Bu nedenle doğru kanal MTV'dir."
+            "explanation": "Soru 2, 1981 yılında Manhattan Design ekibi tarafından kimlik tasarımı yapılan ve televizyonda hareketli tipografiyi kullanan kanalı sormaktadır. Ünite 3'ün 'Televizyonda Hareketli Tipografi' bölümünde, 1981 yılında Manhattan Design ekibi tarafından gerçekleştirilen MTV'nin kimlik tasarımından bahsedilmektedir. Bu nedenle doğru kanal MTV'dir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 34,
@@ -607,7 +676,9 @@
             "material_id": "565288",
             "UniteNo": 4,
             "topic": "Kamusal Mekânda Tasarım",
-            "explanation": "Soru 3, Amerikalı kavramsal sanatçı Barbara Kruger'in tipografiyi etkili biçimde kullandığı eserlerinin hangi sanat alanına ait olduğunu sormaktadır. Ünite 4'te, Barbara Kruger'in sosyal ve politik kalıpların propagandasını yaptığı, tipografiyi kullandığı eleştirel sergilerinden bahsedilmekte ve bu durumun Sergileme Tasarımı kapsamında değerlendirilebileceği belirtilmektedir. Dolayısıyla eserleri sergileme sanatına aittir."
+            "explanation": "Soru 3, Amerikalı kavramsal sanatçı Barbara Kruger'in tipografiyi etkili biçimde kullandığı eserlerinin hangi sanat alanına ait olduğunu sormaktadır. Ünite 4'te, Barbara Kruger'in sosyal ve politik kalıpların propagandasını yaptığı, tipografiyi kullandığı eleştirel sergilerinden bahsedilmekte ve bu durumun Sergileme Tasarımı kapsamında değerlendirilebileceği belirtilmektedir. Dolayısıyla eserleri sergileme sanatına aittir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 35,
@@ -625,7 +696,9 @@
             "material_id": "565288",
             "UniteNo": 3,
             "topic": "Ekran ve Çözünürlük",
-            "explanation": "Soru 4, ekran üzerindeki tipografinin veya görüntünün keskinliğini ve netliğini tanımlamak için kullanılan ölçüyü sormaktadır. Ünite 3'ün 'Ekran Boyutları' başlığı altında, çözünürlüğün yatay ve dikeydeki piksel sayısıyla ifade edildiği belirtilir. Ardından 'Piksel En-Boy Oranı' ve 'Piksel Yoğunluğu' tanımlanır. 'Piksel Yoğunluğu'nun, belirli bir alandaki piksel sayısını ifade ettiği ve çıplak gözle ayırt etmenin zorluğunu belirlediği belirtilmiştir, bu da keskinlik ve netlikle ilgilidir."
+            "explanation": "Soru 4, ekran üzerindeki tipografinin veya görüntünün keskinliğini ve netliğini tanımlamak için kullanılan ölçüyü sormaktadır. Ünite 3'ün 'Ekran Boyutları' başlığı altında, çözünürlüğün yatay ve dikeydeki piksel sayısıyla ifade edildiği belirtilir. Ardından 'Piksel En-Boy Oranı' ve 'Piksel Yoğunluğu' tanımlanır. 'Piksel Yoğunluğu'nun, belirli bir alandaki piksel sayısını ifade ettiği ve çıplak gözle ayırt etmenin zorluğunu belirlediği belirtilmiştir, bu da keskinlik ve netlikle ilgilidir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 36,
@@ -643,7 +716,9 @@
             "material_id": "565288",
             "UniteNo": 3,
             "topic": "Hareketli Tipografi Bileşenleri",
-            "explanation": "Soru 5, hareketli tipografiyi oluşturan biçimsel özelliklerden hangisinin bu gruba dahil olmadığını sormaktadır. Ünite 3'te biçimsel özellikler arasında Yazı Karakteri Seçimi, Yazı Boyutu ve x-yüksekliği, Duruş (Postür), Ağırlık ve Genişlik başlıkları yer alır. Sinematografik Özellikler (Kadraj, Kamera Hareketleri, Kurgu, Animatik Özellikler) ise hareketli tipografinin farklı bir bileşen grubudur. Bu nedenle, animatik özelliklerden biri olan Sıkışma ve Esneme (Squash and Stretch), biçimsel özelliklerden biri değildir."
+            "explanation": "Soru 5, hareketli tipografiyi oluşturan biçimsel özelliklerden hangisinin bu gruba dahil olmadığını sormaktadır. Ünite 3'te biçimsel özellikler arasında Yazı Karakteri Seçimi, Yazı Boyutu ve x-yüksekliği, Duruş (Postür), Ağırlık ve Genişlik başlıkları yer alır. Sinematografik Özellikler (Kadraj, Kamera Hareketleri, Kurgu, Animatik Özellikler) ise hareketli tipografinin farklı bir bileşen grubudur. Bu nedenle, animatik özelliklerden biri olan Sıkışma ve Esneme (Squash and Stretch), biçimsel özelliklerden biri değildir.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 37,
@@ -661,7 +736,9 @@
             "material_id": "565288",
             "UniteNo": 4,
             "topic": "Baskı Resim ve Tipografi",
-            "explanation": "Soru 6, kitap etiketi olarak ortaya çıkıp günümüzde baskı resim sanatının bir alt alanı olarak varlığını sürdüren ve tipografiyi doğal olarak içinde barındıran formu sormaktadır. Ünite 4'ün 'Baskı Resim ve Tipografi' başlığı altında, tipografinin başlangıç noktası sayılan tipo baskının günümüzde sanatçı atölyelerinde kendine yer bulduğu ve tipografik posterlerin sanat formu olduğu belirtilmiştir. Ancak soruda bahsi geçen, ilk olarak kitap etiketi olarak ortaya çıkan ve günümüzde baskı resim sanatının bir alt alanı olarak varlığını sürdüren ve tipografiyi içinde barındıran (eklibrisler) Ekslibris'tir."
+            "explanation": "Soru 6, kitap etiketi olarak ortaya çıkıp günümüzde baskı resim sanatının bir alt alanı olarak varlığını sürdüren ve tipografiyi doğal olarak içinde barındıran formu sormaktadır. Ünite 4'ün 'Baskı Resim ve Tipografi' başlığı altında, tipografinin başlangıç noktası sayılan tipo baskının günümüzde sanatçı atölyelerinde kendine yer bulduğu ve tipografik posterlerin sanat formu olduğu belirtilmiştir. Ancak soruda bahsi geçen, ilk olarak kitap etiketi olarak ortaya çıkan ve günümüzde baskı resim sanatının bir alt alanı olarak varlığını sürdüren ve tipografiyi içinde barındıran (eklibrisler) Ekslibris'tir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 38,
@@ -679,7 +756,9 @@
             "material_id": "565288",
             "UniteNo": 5,
             "topic": "Temel Ölçüler ve Tanımlar",
-            "explanation": "Soru 7, 'eski dilde harfler' anlamına gelen, tipo baskıda kullanılan metal harfleri tanımlayan terimi sormaktadır. Ünite 5'te 'Yazı Karakteri ile İlgili Terimler' başlığı altında birçok terim açıklanmıştır. 'Font' terimi, özgün bir tasarımı olan yazı karakterlerinin belli bir stil ve ölçüsündeki harfler, rakamlar, noktalama işaretleri ve sembolleri içeren set olarak tanımlanır. Ancak bu bağlamda sorunun cevabını en iyi karşılayan tanım, tipografinin temel ölçülerinin anlatıldığı bölümde geçen 'Tip' terimidir. Literatürde 'tipo' (tip), genellikle metal kalıpları ifade eder. Ünite 5'te Font başlığı altında tipo baskıdan bahsedilmektedir. Metal harfleri tanımlayan ve tipografinin temelini oluşturan terim 'Tip'tir. Sorunun 'eski dilde harfler' ve 'tipo baskı' ipuçları Font terimine işaret etse de, tam olarak metal harfleri tanımlayan terim 'Tipo'dur. Font, karakter setini ifade eder. En yakın tanım olarak Font (Karakter Seti) kabul edilmelidir."
+            "explanation": "Soru 7, 'eski dilde harfler' anlamına gelen, tipo baskıda kullanılan metal harfleri tanımlayan terimi sormaktadır. Ünite 5'te 'Yazı Karakteri ile İlgili Terimler' başlığı altında birçok terim açıklanmıştır. 'Font' terimi, özgün bir tasarımı olan yazı karakterlerinin belli bir stil ve ölçüsündeki harfler, rakamlar, noktalama işaretleri ve sembolleri içeren set olarak tanımlanır. Ancak bu bağlamda sorunun cevabını en iyi karşılayan tanım, tipografinin temel ölçülerinin anlatıldığı bölümde geçen 'Tip' terimidir. Literatürde 'tipo' (tip), genellikle metal kalıpları ifade eder. Ünite 5'te Font başlığı altında tipo baskıdan bahsedilmektedir. Metal harfleri tanımlayan ve tipografinin temelini oluşturan terim 'Tip'tir. Sorunun 'eski dilde harfler' ve 'tipo baskı' ipuçları Font terimine işaret etse de, tam olarak metal harfleri tanımlayan terim 'Tipo'dur. Font, karakter setini ifade eder. En yakın tanım olarak Font (Karakter Seti) kabul edilmelidir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 39,
@@ -697,7 +776,10 @@
             "material_id": "565288",
             "UniteNo": 4,
             "topic": "Grafiti ve Sokak Sanatı",
-            "explanation": "Soru 8, sanat olarak görülen, ancak bazılarına göre yasa dışı kabul edilen, sokak sanatının önemli bir parçası olan yazı ve resim formunu sormaktadır. Ünite 4'ün 'Grafiti' başlığı altında, grafitilerin yazı ve sanatı birleştiren önemli örnekler olduğu, sokak sanatının en önemli parçası ve sokağın dili olduğu belirtilmiştir. Bu nedenle doğru cevap Grafiti'dir."
+            "explanation": "Soru 8, sanat olarak görülen, ancak bazılarına göre yasa dışı kabul edilen, sokak sanatının önemli bir parçası olan yazı ve resim formunu sormaktadır. Ünite 4'ün 'Grafiti' başlığı altında, grafitilerin yazı ve sanatı birleştiren önemli örnekler olduğu, sokak sanatının en önemli parçası ve sokağın dili olduğu belirtilmiştir. Bu nedenle doğru cevap Grafiti'dir.",
+            "is_duplicate": true,
+            "duplicate_of": 8,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 40,
@@ -709,13 +791,15 @@
                 "Tipografi",
                 "ASCII art"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 20,
             "source": "Ara Sınav 2023-2024",
             "material_id": "565288",
             "UniteNo": 4,
-            "topic": "Yazı Resim Sanatı",
-            "explanation": "Soru 9, yazının metin özelliğini bozmadan yapılan sanatsal çalışmalara ne ad verildiğini sormaktadır. Ünite 4'ün 'Yazı Resim' başlığı altında, Text art'ın (Yazı Resim), yazının metin özelliğini bozmadan gerçekleştirilen uygulamalara verilen isim olduğu ve bu alanın 'typewriter art' (daktilo tuşlarıyla yapılan resimler) ve ASCII art gibi teknikleri içerdiği belirtilmiştir."
+            "topic": "Yazı Resim Türleri",
+            "explanation": "Ünite 4'te, 'Yazı Resim' başlığı altında, yazının metin özelliğini bozmadan gerçekleştirilen uygulamalara Text art denildiği belirtilir. Bu alanın alt kategorilerinden biri olarak, bilgisayar ve internetin yaygınlaşmasıyla hayata geçen ve ASCII art'ın da içinde bulunduğu teknik yaklaşımlar listelenmiştir. ASCII art (E), yazının metin özelliğini bozmadan görsel oluşturma çabalarını temsil eder.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 41,
@@ -733,7 +817,9 @@
             "material_id": "618224",
             "UniteNo": 1,
             "topic": "Üç Boyutlu Tipografi Özelliği",
-            "explanation": "Üç boyutlu tipografinin temel özelliği, harflere heykelsi bir form kazandırarak sadece birbirleriyle değil, aynı zamanda bulundukları mekânla da ilişkiye geçmesini sağlamasıdır (Ünite 1 Giriş). İki boyutluluk (düz ve durağan yetki), geleneksel tipografinin özelliğidir."
+            "explanation": "Üç boyutlu tipografinin temel özelliği, harflere heykelsi bir form kazandırarak sadece birbirleriyle değil, aynı zamanda bulundukları mekânla da ilişkiye geçmesini sağlamasıdır (Ünite 1 Giriş). İki boyutluluk (düz ve durağan yetki), geleneksel tipografinin özelliğidir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 42,
@@ -751,7 +837,10 @@
             "material_id": "618224",
             "UniteNo": 6,
             "topic": "Yer İmi Amaçlı Tipografi",
-            "explanation": "Şehir dokusu içinde yer alan, bulundukları yer ile özdeşleşen ve özgün bir hava yaratan saat kulesi, heykeller gibi yer imi olarak kullanılan üç boyutlu tipografik düzenlemelere yer imi amaçlı üç boyutlu tipografi denir. \"I amsterdam\" ve \"I love eskişehir\" örnekleri bu kategoriye girer."
+            "explanation": "Şehir dokusu içinde yer alan, bulundukları yer ile özdeşleşen ve özgün bir hava yaratan saat kulesi, heykeller gibi yer imi olarak kullanılan üç boyutlu tipografik düzenlemelere yer imi amaçlı üç boyutlu tipografi denir. \"I amsterdam\" ve \"I love eskişehir\" örnekleri bu kategoriye girer.",
+            "is_duplicate": true,
+            "duplicate_of": 22,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 43,
@@ -769,7 +858,10 @@
             "material_id": "618224",
             "UniteNo": 1,
             "topic": "Üç Boyutlu Tipografi Alanları",
-            "explanation": "Üç boyutlu tipografinin kullanım alanları; Bilgilendirme amaçlı, mimari imge olarak, gösteri-reklam amaçlı, yer imi amaçlı, sanat-tasarım amaçlı ve oyun amaçlı-obje çıkışlı olarak sınıflandırılmıştır. Kinetik tipografi (Hareketli Tipografi), Ünite 3'te işlenen Hareket Temelli Deneysel Tipografi başlığı altında yer alır ve üç boyutlu tipografinin temel sınıflandırma başlıkları içinde doğrudan sayılmaz."
+            "explanation": "Üç boyutlu tipografinin kullanım alanları; Bilgilendirme amaçlı, mimari imge olarak, gösteri-reklam amaçlı, yer imi amaçlı, sanat-tasarım amaçlı ve oyun amaçlı-obje çıkışlı olarak sınıflandırılmıştır. Kinetik tipografi (Hareketli Tipografi), Ünite 3'te işlenen Hareket Temelli Deneysel Tipografi başlığı altında yer alır ve üç boyutlu tipografinin temel sınıflandırma başlıkları içinde doğrudan sayılmaz.",
+            "is_duplicate": true,
+            "duplicate_of": 1,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 44,
@@ -787,7 +879,9 @@
             "material_id": "618224",
             "UniteNo": 1,
             "topic": "Japon Tasarımcılar",
-            "explanation": "Japon tasarımcı Takenobu Igarashi, 1980'li yıllarda alüminyum plakaların farklı kesitleriyle oluşturduğu, mimari alfabeler olarak adlandırdığı üç boyutlu alfabe çalışmalarıyla ün kazanmıştır. Bu çalışmalar, üç boyutlu formların potansiyellerini keşfettiği örneklerdir."
+            "explanation": "Japon tasarımcı Takenobu Igarashi, 1980'li yıllarda alüminyum plakaların farklı kesitleriyle oluşturduğu, mimari alfabeler olarak adlandırdığı üç boyutlu alfabe çalışmalarıyla ün kazanmıştır. Bu çalışmalar, üç boyutlu formların potansiyellerini keşfettiği örneklerdir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 45,
@@ -805,7 +899,9 @@
             "material_id": "618224",
             "UniteNo": 6,
             "topic": "Vernaküler Tipografi Uygulaması",
-            "explanation": "Jenny Holzer, 1993 yılında Bosna'da işlenen savaş suçlarına tepki olarak hazırladığı 'Lustmord' adlı çalışmasını insan bedeni üzerine mürekkep kullanarak uygulamıştır."
+            "explanation": "Jenny Holzer, 1993 yılında Bosna'da işlenen savaş suçlarına tepki olarak hazırladığı 'Lustmord' adlı çalışmasını insan bedeni üzerine mürekkep kullanarak uygulamıştır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 46,
@@ -823,7 +919,10 @@
             "material_id": "618224",
             "UniteNo": 1,
             "topic": "Üç Boyutlu Tipografi Oluşturma",
-            "explanation": "Bakış açısına göre değişen (Anamorfik) üç boyutlu tipografi, boyut kazandırma işini farklı açılardan okutması anlamında en çekici örneklere sahiptir ve harflerin biçimleriyle görsel bir malzeme hâline dönüşerek anlamı desteklemesi esasına dayanır."
+            "explanation": "Bakış açısına göre değişen (Anamorfik) üç boyutlu tipografi, boyut kazandırma işini farklı açılardan okutması anlamında en çekici örneklere sahiptir ve harflerin biçimleriyle görsel bir malzeme hâline dönüşerek anlamı desteklemesi esasına dayanır.",
+            "is_duplicate": true,
+            "duplicate_of": 28,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 47,
@@ -841,7 +940,10 @@
             "material_id": "618224",
             "UniteNo": 2,
             "topic": "Deneysel Tipografi Yaklaşımları",
-            "explanation": "Hareket temelli deneysel tipografi çalışmaları, film/dizi jenerikleri, müzik klipleri ve hareketli grafik tasarımlarında görülür. Bu yaklaşım, odak noktasına 'hareket'i koyar ve kinetik tipografi ile yakından ilişkilidir."
+            "explanation": "Hareket temelli deneysel tipografi çalışmaları, film/dizi jenerikleri, müzik klipleri ve hareketli grafik tasarımlarında görülür. Bu yaklaşım, odak noktasına 'hareket'i koyar ve kinetik tipografi ile yakından ilişkilidir.",
+            "is_duplicate": true,
+            "duplicate_of": 27,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 48,
@@ -859,7 +961,9 @@
             "material_id": "618224",
             "UniteNo": 2,
             "topic": "Fütürist Tipografi",
-            "explanation": "Fütüristler, kompozisyondaki sıçramalar ve patlamalar ile çeliştiğinden uyumu reddetmiş; şiddetli sesler için kalın, hız için eğik yazı kullanarak sözcüklerin ifade gücünü artırmayı hedeflemişlerdir. Bu denemeler Fütürizm akımı içinde değerlendirilir."
+            "explanation": "Fütüristler, kompozisyondaki sıçramalar ve patlamalar ile çeliştiğinden uyumu reddetmiş; şiddetli sesler için kalın, hız için eğik yazı kullanarak sözcüklerin ifade gücünü artırmayı hedeflemişlerdir. Bu denemeler Fütürizm akımı içinde değerlendirilir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 49,
@@ -877,7 +981,9 @@
             "material_id": "618224",
             "UniteNo": 2,
             "topic": "Güncel Deneysel Tipografi Yaklaşımları",
-            "explanation": "Güncel deneysel tipografi yaklaşımları; kinetik tipografi, organik tipografi, bulunmuş tipografi ve anomorfik tipografi olarak kategorize edilebilir. Sanatsal tipografi (Ünite 4), görsel iletişimin sanatla kesişimini ifade eder ancak yukarıda sayılan dört modern deneysel kategoriden biri değildir."
+            "explanation": "Güncel deneysel tipografi yaklaşımları; kinetik tipografi, organik tipografi, bulunmuş tipografi ve anomorfik tipografi olarak kategorize edilebilir. Sanatsal tipografi (Ünite 4), görsel iletişimin sanatla kesişimini ifade eder ancak yukarıda sayılan dört modern deneysel kategoriden biri değildir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 50,
@@ -895,7 +1001,9 @@
             "material_id": "618224",
             "UniteNo": 2,
             "topic": "Dadaizm Tasarımcıları",
-            "explanation": "Dada akımı, saçmalık, sürpriz ve şans unsurlarını kullanarak yenilikçi deneysel çalışmalara imza atmıştır. Kurt Schwitters, bu akımın öne çıkan isimlerinden biri olup, tipografik ögeleri foto montaj ile harmanlayan çalışmalarda bulunmuştur."
+            "explanation": "Dada akımı, saçmalık, sürpriz ve şans unsurlarını kullanarak yenilikçi deneysel çalışmalara imza atmıştır. Kurt Schwitters, bu akımın öne çıkan isimlerinden biri olup, tipografik ögeleri foto montaj ile harmanlayan çalışmalarda bulunmuştur.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 51,
@@ -907,13 +1015,16 @@
                 "Yazının hiyerarşisi",
                 "Yazının postürü"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 11,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618224",
             "UniteNo": 3,
-            "topic": "Hareketli Tipografi Biçimsel Özellikleri",
-            "explanation": "Hareketli tipografi bileşenleri Biçimsel Özellikler (Yazı Karakteri Seçimi, Boyut, x-yüksekliği, Duruş, Ağırlık, Genişlik), Kompozisyonel Özellikler (Tekrar, Kontrast, ABA Formu, Hiyerarşi, Boşluk, Derinlik) ve Sinematografik Özellikler olarak ayrılır (Ünite 3). Harf içeriği ile ilgili terimler (kiriş, omuz, omurga vb.) Yazı Karakteri ile ilgili terimlerdir ve biçimsel özelliklerin alt başlığı olsa da, 'Hareket İçeren Ortamlar ve Tipografi' başlığı altında incelenen ekran/fiziksel özellikler (Ekran Boyutları, Çözünürlük) ile karıştırılmamalıdır. Sorudaki terimler (Kiriş, Omuz, Omurga, Sap) esasen Yazı Karakteri ile ilgili terimlerdir ve harf anatomisi/dizaynıyla ilgilidir; hareketli tipografinin spesifik bileşenleri (Kompozisyonel/Sinematografik) kategorisine doğrudan ait değildirler."
+            "topic": "Hareketli tipografi bileşenleri",
+            "explanation": "Ünite 3'te, hareketli tipografinin bileşenleri; biçimsel, kompozisyonel, sinematografik ve animatik özellikler olarak incelenmiştir. Biçimsel özellikler arasında Yazı Karakteri Seçimi, Yazı Boyutu ve x-yüksekliği, Duruş (Postür), Ağırlık ve Genişlik bulunmaktadır. Hiyerarşi ise kompozisyonel özellikler (Odak Noktası ve Hiyerarşi) altında ele alınır; bu, hareketli tipografinin 'biçimsel' bir özelliği olarak doğrudan listelenmemiştir (D şıkkı kompozisyonel bir konudur, biçimsel değil).",
+            "is_duplicate": true,
+            "duplicate_of": 36,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 52,
@@ -931,7 +1042,10 @@
             "material_id": "618224",
             "UniteNo": 3,
             "topic": "Animatik Özellikler",
-            "explanation": "Animasyonda hareketin temelini oluşturan ilkelerden biri olan Zamanlama (Timing), hareketin ne kadar sürede gerçekleşeceğini belirler. Bu ilke, hareketli tipografi uygulamalarında da önemlidir ve hareketin algılanmasında kritik rol oynar."
+            "explanation": "Animasyonda hareketin temelini oluşturan ilkelerden biri olan Zamanlama (Timing), hareketin ne kadar sürede gerçekleşeceğini belirler. Bu ilke, hareketli tipografi uygulamalarında da önemlidir ve hareketin algılanmasında kritik rol oynar.",
+            "is_duplicate": true,
+            "duplicate_of": 6,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 53,
@@ -949,7 +1063,9 @@
             "material_id": "618224",
             "UniteNo": 3,
             "topic": "Ekran Boyutları ve Çözünürlük",
-            "explanation": "Ekranın çözünürlüğü, hem yatay hem de dikey olarak görüntülenen resim ögelerinin (piksel veya basit noktalar) sayısını ifade eder. Bu, ekran üzerindeki tipografinin keskinliğini veya netliğini belirleyen temel teknolojik özelliktir."
+            "explanation": "Ekranın çözünürlüğü, hem yatay hem de dikey olarak görüntülenen resim ögelerinin (piksel veya basit noktalar) sayısını ifade eder. Bu, ekran üzerindeki tipografinin keskinliğini veya netliğini belirleyen temel teknolojik özelliktir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 54,
@@ -961,13 +1077,15 @@
                 "Paul Rand",
                 "Saul Bass"
             ],
-            "correctIndex": 0,
+            "correctIndex": 4,
             "exam_question_number": 14,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618224",
             "UniteNo": 3,
-            "topic": "Sinemada Tipografi Tarihi",
-            "explanation": "Georges Méliès’in 1902 yapımı \"La Voyage Dans La Lune\" filmi, hareketi yazı ile birleştiren ilk örneklerden biridir. Ayrıca 1926 yapımı deneysel film \"Anemic Cinema\" da Dadaist sanatçı Marcel Duschamp ve Man Ray ortaklığıyla yapılmış erken dönem hareketli tipografi örneklerindendir."
+            "topic": "Sinemada tipografi tarihi",
+            "explanation": "Ünite 3'te, 'Sinemada Tipografi' başlığı altında, Amerikalı grafik tasarımcı Saul Bass'ın, yazının hareket kazandığı ilk ürünlerden olan sinema jenerikleri konusunda önemli bir isim olduğu ve ilk jenerik çalışmasının 1954 yapımı Carmen Jones filmi için olduğu belirtilmiştir. Bu nedenle Saul Bass (E) erken dönem hareketli tipografi alanında üretim yapmıştır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 55,
@@ -985,7 +1103,10 @@
             "material_id": "618224",
             "UniteNo": 3,
             "topic": "Hareketli Tipografi Özellikleri",
-            "explanation": "Kadraj (alanın dikey ve yatay olarak üçe bölünmesi ve kesişim noktalarının referans alınması), Kamera Hareketleri (pan, tilt, dolly, roll vb.) ve Kurgu (sekansların ardışık yerleştirilmesiyle anlam oluşturma) kavramları, hareketli tipografiyi oluşturan sinematografik özellikleri belirler."
+            "explanation": "Kadraj (alanın dikey ve yatay olarak üçe bölünmesi ve kesişim noktalarının referans alınması), Kamera Hareketleri (pan, tilt, dolly, roll vb.) ve Kurgu (sekansların ardışık yerleştirilmesiyle anlam oluşturma) kavramları, hareketli tipografiyi oluşturan sinematografik özellikleri belirler.",
+            "is_duplicate": true,
+            "duplicate_of": 32,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 56,
@@ -1003,7 +1124,9 @@
             "material_id": "618224",
             "UniteNo": 4,
             "topic": "Görsel İletişim Tarihi",
-            "explanation": "Yazının ilk izleri, Antik Yunan şairi Rodoslu Simias'ın şiirlerine kadar götürülse de, yazının ilk izleri genel olarak resim temelli olan Sümer çivi yazısı ve Mısır hiyeroglifleri gibi kitabeler ve anıtlarda görülmektedir. Bu örnekler, yazının resimsel kökenlerini göstermektedir."
+            "explanation": "Yazının ilk izleri, Antik Yunan şairi Rodoslu Simias'ın şiirlerine kadar götürülse de, yazının ilk izleri genel olarak resim temelli olan Sümer çivi yazısı ve Mısır hiyeroglifleri gibi kitabeler ve anıtlarda görülmektedir. Bu örnekler, yazının resimsel kökenlerini göstermektedir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 57,
@@ -1015,13 +1138,15 @@
                 "Karakter biçimi",
                 "Çizgi ağırlığı"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 17,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618224",
             "UniteNo": 3,
-            "topic": "Okunurluk ve Okuturluk",
-            "explanation": "'Legiblity' yani 'Okunurluk', bir yazı karakteri ile sunulduğunda, birim karakterin yazı tipinin formu aracılığıyla ne kadar kolay tanımlanabileceğidir. 'Readability' yani 'Okuturluk' ise yazı tipinin biçimine ve düzenine bağlı olarak metnin bütününün okunma rahatlığını ifade eder. Okunurluk ve okuturluk, biçim, boyut, renk, arka plan, kontrast ve düzenleme gibi çeşitli özellikler aracılığıyla değişebilir. Cümle/metin bütününün okunma rahatlığını ifade eden 'Okuturluk' (Readability) temel ölçütlerden biri iken, 'Hız' doğrudan bir okuturluk/okunurluk ölçütü sayılmaz, daha çok bir etki/algıdır; ancak metnin okunurluğunu etkileyen bir faktördür (Hareket hızı gibi). Bu bağlamda, 'Hız' doğrudan bir okuma rahatlığı (readability) ölçütü olarak kategorize edilmezken, diğerleri doğrudan tanımlar içindedir."
+            "topic": "Okunurluk (Legibility) faktörleri",
+            "explanation": "Ünite 3'te, okunurluk (Legibility) ve okuturluk (Readability) tanımları verilmiştir. Okunurluk, bir yazı karakteri ile sunulduğunda birim karakterin ne kadar kolay tanımlanabileceğini ifade eder. Okunurluğu etkileyen özellikler arasında biçim, boyut, renk, arka plan, kontrast ve düzenleme sayılmıştır. Ayrıca x-yüksekliği, karakter biçimi ve çizgi ağırlığı da karakterin tanımlanabilirliğini etkiler. Çarpan sayısı (A) ise doğrudan bir okunurluk faktörü olarak listelenmemiştir; bu terim daha çok font içeriği ve anatomisiyle (Ünite 5) ilişkilidir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 58,
@@ -1033,13 +1158,15 @@
                 "Hurufat",
                 "Exlibris"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 18,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618224",
-            "UniteNo": 8,
-            "topic": "Vernaküler Tanım",
-            "explanation": "Vernaküler, Latince 'vernakulas' sözcüğünden gelir ve 'yerli halka özgü olan' anlamına gelir. Bu terim, başlangıçta mimaride kullanılsa da daha sonra tasarım alanında, özellikle bilgisayar öncesi dönemde yerel zanaatkârların, yaşadıkları bölgeye özgü ürettikleri tabela, ambalaj gibi günlük iletişim ürünlerini tanımlamak için kullanılır."
+            "UniteNo": 5,
+            "topic": "Yazı Karakteri İçeriği Terimleri",
+            "explanation": "Soru 58, Ünite 5'te tanımlanan bir terimi sormaktadır. Ünite 5'te, 'Font İçeriği ile İlgili Terimler' başlığı altında, harfi oluşturan tüm çizgilerin genel adına 'Hat (stroke)' denildiği, ancak şıklar arasında hat bulunmadığı için diğer terimlere bakılır. Harf yapılarında, bir harfin dikey ana hatlarını tanımlayan terim 'Sap (stem)' olarak geçmektedir. Ancak, soru büyük ihtimalle 'Hurufat' (D) kelimesini kastetmektedir, çünkü 'Hurufat' (yazı karakterlerinin bütünü, harf takımı) bu bağlamda en uygun genel terimdir. Sınav sorusundaki boşluğu tamamlamak için verilen şık D (Hurufat) kabul edildiğinden, açıklama bu yönde yapılacaktır. Tipografide karakter setine verilen genel isim 'Font' olsa da, karakterlerin kendisi topluca 'Hurufat' olarak adlandırılabilir ve bu, metnin genel içeriğiyle de uyumludur.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 59,
@@ -1057,7 +1184,10 @@
             "material_id": "618224",
             "UniteNo": 4,
             "topic": "Grafiti ve Yazı Sanatı",
-            "explanation": "Grafitiler, yazı ve sanatı birleştiren, sokak sanatının önemli bir parçası olan ve anarşist bir eylem olarak da görülebilen bir formdur. Graffiti'de şablon tekniği sıklıkla kullanılır ve bu da tipografik ögelerin kullanımını içerir."
+            "explanation": "Grafitiler, yazı ve sanatı birleştiren, sokak sanatının önemli bir parçası olan ve anarşist bir eylem olarak da görülebilen bir formdur. Graffiti'de şablon tekniği sıklıkla kullanılır ve bu da tipografik ögelerin kullanımını içerir.",
+            "is_duplicate": true,
+            "duplicate_of": 8,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 60,
@@ -1075,7 +1205,9 @@
             "material_id": "618224",
             "UniteNo": 4,
             "topic": "Ekslibris Tanımı",
-            "explanation": "Ekslibris, 'kitap sahibini tanıtan, onu yücelten bir sanat dalıdır' ve kitap sahibinin ismini taşıyan küçük boyutlu baskı resimleridir. Resimsel ve tipografik ögelerin birleşimiyle ortaya çıkar; tipografi bu eserin zorunlu bir parçasıdır."
+            "explanation": "Ekslibris, 'kitap sahibini tanıtan, onu yücelten bir sanat dalıdır' ve kitap sahibinin ismini taşıyan küçük boyutlu baskı resimleridir. Resimsel ve tipografik ögelerin birleşimiyle ortaya çıkar; tipografi bu eserin zorunlu bir parçasıdır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 61,
@@ -1087,13 +1219,15 @@
                 "Mimari tipografi",
                 "İkon"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 1,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "571100",
-            "UniteNo": 1,
-            "topic": "Yer İmi Amaçlı Tipografi",
-            "explanation": "Bir şehir dokusunda yer alan saat kulesi, heykeller, çeşmeler gibi öğelerin, bulundukları yer ile özdeşleşerek özgün hava yaratmaları ve hatırlanabilirlik/tanımlanabilirlik sağlamaları Yer İmi Amaçlı Üç Boyutlu Tipografi kapsamındadır. 'I amsterdam' ve 'I love eskişehir' örnekleri bu bağlamda verilmiştir (Ünite 1)."
+            "UniteNo": 3,
+            "topic": "Üç Boyutlu Tipografi Türleri",
+            "explanation": "Ünite 3'te, 'Yer İmi Amaçlı Üç Boyutlu Tipografi' başlığı altında, bir şehrin yer imi olarak kullanılabilecek, hatırlanabilirlik ve tanımlanabilirlik sağlayan uygulamalardan 'I amsterdam' ve 'I love eskişehir' örnekleri verilmiştir. Bu tür oluşumlar, bir şehrin kimliğini oluşturan büyük boyutlu tipografik düzenlemelerdir ve 'Yer imi' (A) olarak adlandırılırlar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 62,
@@ -1111,7 +1245,9 @@
             "material_id": "571100",
             "UniteNo": 5,
             "topic": "Postmodernist Deneysel Tasarımcılar",
-            "explanation": "Ünite 5'te, Postmodernizm döneminde (1970'ler sonrası) deneysel dilin geliştirilmesinde öncü olan tasarımcılar arasında April Greiman, Paula Scher, David Carson, Neville Brody, Stefan Sagmeister ve Chris Ashworth sayılmıştır. Metinde, bu isimlerin yanında ismi geçen ve postmodernist deneysel dilin geliştirilmesinde öncü olanlardan biri olarak anılmayan tasarımcıyı bulmak gerekmektedir. Verilen seçenekler arasında bu listede adı geçmeyen biri (örneğin, Hermann Eidenbenz veya Massimo Vignelli gibi klasik modernistler) aranmalıdır. Metinde, bu isimler arasında olmayan bir seçenek verilmediği için, genel bilgiye dayanarak, bu listede olmayan birini işaretlememiz gerekir. Ancak metindeki bilgiye göre, adı geçenler April Greiman, Paula Scher, David Carson, Neville Brody, Stefan Sagmeister ve Chris Ashworth'tur. Soru, bu listede olmayan birini sorduğu için, eğer seçenekler olsaydı bu listede olmayan biri cevap olurdu. Soru metninde seçenekler bulunmadığından, metinde adı geçenlere odaklanalım: Bu isimler postmodernizmin öncüleridir. Eğer seçeneklerde bu listeden olmayan bir modernizm öncüsü varsa o cevap olur. Metinde adı geçenlere göre bu sorunun tam cevabı seçenekler olmadan verilemez, ancak bu listedeki herkes öncüdür."
+            "explanation": "Ünite 5'te, Postmodernizm döneminde (1970'ler sonrası) deneysel dilin geliştirilmesinde öncü olan tasarımcılar arasında April Greiman, Paula Scher, David Carson, Neville Brody, Stefan Sagmeister ve Chris Ashworth sayılmıştır. Metinde, bu isimlerin yanında ismi geçen ve postmodernist deneysel dilin geliştirilmesinde öncü olanlardan biri olarak anılmayan tasarımcıyı bulmak gerekmektedir. Verilen seçenekler arasında bu listede adı geçmeyen biri (örneğin, Hermann Eidenbenz veya Massimo Vignelli gibi klasik modernistler) aranmalıdır. Metinde, bu isimler arasında olmayan bir seçenek verilmediği için, genel bilgiye dayanarak, bu listede olmayan birini işaretlememiz gerekir. Ancak metindeki bilgiye göre, adı geçenler April Greiman, Paula Scher, David Carson, Neville Brody, Stefan Sagmeister ve Chris Ashworth'tur. Soru, bu listede olmayan birini sorduğu için, eğer seçenekler olsaydı bu listede olmayan biri cevap olurdu. Soru metninde seçenekler bulunmadığından, metinde adı geçenlere odaklanalım: Bu isimler postmodernizmin öncüleridir. Eğer seçeneklerde bu listeden olmayan bir modernizm öncüsü varsa o cevap olur. Metinde adı geçenlere göre bu sorunun tam cevabı seçenekler olmadan verilemez, ancak bu listedeki herkes öncüdür.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 63,
@@ -1129,7 +1265,9 @@
             "material_id": "571100",
             "UniteNo": 3,
             "topic": "Sinemada Tipografi Öncüsü",
-            "explanation": "Sinemada Tipografi başlığı altında, yazıyı hareketlendiren ilk deneysel örneklere imza atan ismin Georges Méliès olduğu ve \"La Voyage Dans La Lune\" (Aya Yolculuk, 1902) filmiyle tanındığı belirtilmiştir. Daha sonraki dönemlerde Saul Bass'in sinema jeneriklerinde hareketli tipografinin öncülerinden olduğu da ayrıca vurgulanmıştır. Ancak ilk örneği veren olarak Méliès gösterilmektedir."
+            "explanation": "Sinemada Tipografi başlığı altında, yazıyı hareketlendiren ilk deneysel örneklere imza atan ismin Georges Méliès olduğu ve \"La Voyage Dans La Lune\" (Aya Yolculuk, 1902) filmiyle tanındığı belirtilmiştir. Daha sonraki dönemlerde Saul Bass'in sinema jeneriklerinde hareketli tipografinin öncülerinden olduğu da ayrıca vurgulanmıştır. Ancak ilk örneği veren olarak Méliès gösterilmektedir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 64,
@@ -1147,7 +1285,9 @@
             "material_id": "571100",
             "UniteNo": 7,
             "topic": "Arap Harfleri Kaligrafi",
-            "explanation": "Kaligrafi başlığı altında, Batı kaligrafi geleneklerinin aksine, Müslüman coğrafyalarda Arap harfleriyle yazı yazmanın önem kazandığı belirtilmiştir. Özellikle Hz. Muhammed'e vahyedilen Kuran'ın ilk bölümlerinde kalem ve yazıdan bahsedilmesiyle Arap harfleriyle yazı yazmanın önem kazandığı ve bu geleneğin 'hat sanatı' olarak adlandırıldığı ifade edilmiştir. Bu, Arap harfleriyle yapılan güzel yazı sanatını tanımlar."
+            "explanation": "Kaligrafi başlığı altında, Batı kaligrafi geleneklerinin aksine, Müslüman coğrafyalarda Arap harfleriyle yazı yazmanın önem kazandığı belirtilmiştir. Özellikle Hz. Muhammed'e vahyedilen Kuran'ın ilk bölümlerinde kalem ve yazıdan bahsedilmesiyle Arap harfleriyle yazı yazmanın önem kazandığı ve bu geleneğin 'hat sanatı' olarak adlandırıldığı ifade edilmiştir. Bu, Arap harfleriyle yapılan güzel yazı sanatını tanımlar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 65,
@@ -1159,13 +1299,15 @@
                 "Glif",
                 "Karakter"
             ],
-            "correctIndex": 3,
+            "correctIndex": 0,
             "exam_question_number": 5,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "571100",
             "UniteNo": 5,
-            "topic": "Yazı Karakteri Terimi",
-            "explanation": "Yazı Karakteri (Typeface) başlığı altında, alfabenin özgün bir tasarımını tanımlamak için kullanılan terimin 'Yazı Karakteri' (Typeface) olduğu belirtilmiştir. İngilizce 'typeface' teriminin karşılığı olarak Türkçe kaynaklarda 'yazı tipi, yazı biçimi, yazı yüzü' yanında 'Yazı Karakteri' teriminin de kullanıldığı ifade edilmiştir."
+            "topic": "Yazı Karakteri Temel Terimleri",
+            "explanation": "Ünite 5'te, 'Yazı Karakteri (Typeface)' terimi, alfabenin özgün bir tasarımını tanımlamak için kullanılan terim olarak geçmektedir. Bu, belirli bir stil ve görünüme sahip harf setinin temelini oluşturur.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 66,
@@ -1183,7 +1325,9 @@
             "material_id": "571100",
             "UniteNo": 5,
             "topic": "Yazı Karakteri Sınıflandırması",
-            "explanation": "Yazı Karakterlerinin Seriflerine Göre Sınıflandırılması başlığı altında, yazı karakterlerinin genellikle dört alt grup olarak incelendiği belirtilmiştir: Serifsiz olanlar (sans serif), kavisli serifliler (curved serif, braketed serif), kare serifliler (slab serif, square serif) ve düz serifliler (straight serif, flat serif). Dolayısıyla, bu dört gruptan biri olmayan bir seçenek doğru cevap olacaktır. Metinde adı geçmeyen bir grup aranmalıdır."
+            "explanation": "Yazı Karakterlerinin Seriflerine Göre Sınıflandırılması başlığı altında, yazı karakterlerinin genellikle dört alt grup olarak incelendiği belirtilmiştir: Serifsiz olanlar (sans serif), kavisli serifliler (curved serif, braketed serif), kare serifliler (slab serif, square serif) ve düz serifliler (straight serif, flat serif). Dolayısıyla, bu dört gruptan biri olmayan bir seçenek doğru cevap olacaktır. Metinde adı geçmeyen bir grup aranmalıdır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 67,
@@ -1201,7 +1345,9 @@
             "material_id": "571100",
             "UniteNo": 7,
             "topic": "Gotik Tür Tanımı",
-            "explanation": "Gotik Tür başlığı altında, bu türün 'El Yazısı' karakterlerin bir alt grubu olarak değerlendirildiği, dar ve uzun yazılarda yuvarlak unsurların yok edildiği ve anatomisinde kesik uçlu kalemin etkisinin görüldüğü belirtilmiştir. Literatürde, bu tür genellikle 'Blackletter' olarak da bilinir ve özellikle 'Text or Black Letter' formları bu başlık altında incelenir."
+            "explanation": "Gotik Tür başlığı altında, bu türün 'El Yazısı' karakterlerin bir alt grubu olarak değerlendirildiği, dar ve uzun yazılarda yuvarlak unsurların yok edildiği ve anatomisinde kesik uçlu kalemin etkisinin görüldüğü belirtilmiştir. Literatürde, bu tür genellikle 'Blackletter' olarak da bilinir ve özellikle 'Text or Black Letter' formları bu başlık altında incelenir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 68,
@@ -1219,7 +1365,9 @@
             "material_id": "571100",
             "UniteNo": 5,
             "topic": "Miniskül Uzantıları Tanımı",
-            "explanation": "Minisküllerin taban çizgisinin altından aşağıya sarkan kısımlar, 'Alt Uzantılar' (Descender) olarak adlandırılır. Metinde, Alt Uzantı Çizgisi (Descender Line) tanımı verilirken, Minisküllerde alt uzantıların değdiği çizgi olduğu belirtilmiştir. Dolayısıyla minisküllerde harfin taban çizgisinden aşağıya sarkan kısım 'Alt Uzantı' olarak tanımlanır."
+            "explanation": "Minisküllerin taban çizgisinin altından aşağıya sarkan kısımlar, 'Alt Uzantılar' (Descender) olarak adlandırılır. Metinde, Alt Uzantı Çizgisi (Descender Line) tanımı verilirken, Minisküllerde alt uzantıların değdiği çizgi olduğu belirtilmiştir. Dolayısıyla minisküllerde harfin taban çizgisinden aşağıya sarkan kısım 'Alt Uzantı' olarak tanımlanır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 69,
@@ -1237,7 +1385,9 @@
             "material_id": "571100",
             "UniteNo": 8,
             "topic": "Büyük Boy Duvar Grafikleri",
-            "explanation": "Ünite 8'de, Süpergrafik terimi tanıtılırken, bu terimin mekâna yönelik, özellikle büyük boyutlu grafik uygulamalarını kapsadığı belirtilmiştir. Süpergrafikler, 1960'larda popülerleşmiş olup, tipografik uygulamaları da içerir ve büyük duvarlara uygulanır."
+            "explanation": "Ünite 8'de, Süpergrafik terimi tanıtılırken, bu terimin mekâna yönelik, özellikle büyük boyutlu grafik uygulamalarını kapsadığı belirtilmiştir. Süpergrafikler, 1960'larda popülerleşmiş olup, tipografik uygulamaları da içerir ve büyük duvarlara uygulanır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 70,
@@ -1255,7 +1405,9 @@
             "material_id": "571100",
             "UniteNo": 6,
             "topic": "Art Nouveau Mimari Tipografi",
-            "explanation": "Ünite 6'da, 19. yüzyıl sonlarında ortaya çıkan ve Paris'te başlayan Art Nouveau hareketinin, mimari ve tipografi üzerindeki etkilerinden bahsedilmiştir. Hector Guimard'ın Art Nouveau akımının öncülerinden biri olarak Paris metrosu giriş tabelalarını tasarladığı ve bu tasarımların yapı ile tipografinin birleşiminin güzel bir örneği olduğu bilgisi mevcuttur. Bu eserler, Art Nouveau hareketinin tipografik ve mimari alandaki yansımalarını temsil eder."
+            "explanation": "Ünite 6'da, 19. yüzyıl sonlarında ortaya çıkan ve Paris'te başlayan Art Nouveau hareketinin, mimari ve tipografi üzerindeki etkilerinden bahsedilmiştir. Hector Guimard'ın Art Nouveau akımının öncülerinden biri olarak Paris metrosu giriş tabelalarını tasarladığı ve bu tasarımların yapı ile tipografinin birleşiminin güzel bir örneği olduğu bilgisi mevcuttur. Bu eserler, Art Nouveau hareketinin tipografik ve mimari alandaki yansımalarını temsil eder.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 71,
@@ -1273,7 +1425,9 @@
             "material_id": "571100",
             "UniteNo": 7,
             "topic": "Kaligrafi, Harfleme Ayrımı",
-            "explanation": "Metne göre, Kaligrafi harfleri yazar, Tipografi harflerin biçimini tasarlar. Harfleme (Lettering) ise, elle yazılmayan, bunun yerine çizilmiş, boyanmış, oyulmuş veya kesilmiş belirli bir tek kullanımlık tasarlanmış yazıdır. Harfleme sanatı, harfleri çizme ve gösterme sanatı olarak tanımlanır ve her harfe bireysel ilgi yüklenir (Ünite 7)."
+            "explanation": "Metne göre, Kaligrafi harfleri yazar, Tipografi harflerin biçimini tasarlar. Harfleme (Lettering) ise, elle yazılmayan, bunun yerine çizilmiş, boyanmış, oyulmuş veya kesilmiş belirli bir tek kullanımlık tasarlanmış yazıdır. Harfleme sanatı, harfleri çizme ve gösterme sanatı olarak tanımlanır ve her harfe bireysel ilgi yüklenir (Ünite 7).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 72,
@@ -1285,13 +1439,15 @@
                 "Ticari Tipografi",
                 "Sanatsal Tipografi"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 12,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "571100",
             "UniteNo": 6,
             "topic": "Çevresel Grafik Alanları",
-            "explanation": "Cadde ve sokak tabelaları, numaralandırmalar, apartman isimleri ve altyapı sistemlerinin kayıt bilgilerini taşıyan tipografik unsurlar, Kayıtsal Tipografi (Kayıtsal Tipografi) alanında yer alır. Ünite 6'da Kayıtsal Tipografinin, kente ait altyapı sistemlerinin kayıt bilgilerini taşıyan unsurları içerdiği belirtilmiştir."
+            "explanation": "Ünite 6'da çevresel grafik alanları tanımlanırken, 'Kayıtsal Tipografi' (C) şunları içerir: cadde ve sokak tabelaları, numaralandırmalar, apartman isimleri ve kente ait kanalizasyon, telefon, elektrik, su gibi altyapı sistemlerinin kayıt bilgilerini taşıyan tipografik unsurlar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 73,
@@ -1309,7 +1465,10 @@
             "material_id": "571100",
             "UniteNo": 6,
             "topic": "Mimari Tipografi Öncüleri",
-            "explanation": "Viyana Sesesyonu döneminin mimarlarından Otto Wagner, 1902 yılında tasarladığı \"Die Zeit\" telgraf bürosu ile tabela tasarımında yeni bir anlayış ortaya koymuştur. Ünite 6'da, Wagner'in büronun ön cephesini yapı ve tipografik ögeleri birlikte ele alarak tasarladığı ve yerleştirdiği belirtilmiştir."
+            "explanation": "Viyana Sesesyonu döneminin mimarlarından Otto Wagner, 1902 yılında tasarladığı \"Die Zeit\" telgraf bürosu ile tabela tasarımında yeni bir anlayış ortaya koymuştur. Ünite 6'da, Wagner'in büronun ön cephesini yapı ve tipografik ögeleri birlikte ele alarak tasarladığı ve yerleştirdiği belirtilmiştir.",
+            "is_duplicate": true,
+            "duplicate_of": 13,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 74,
@@ -1327,7 +1486,9 @@
             "material_id": "571100",
             "UniteNo": 7,
             "topic": "Kaligrafi Araçları",
-            "explanation": "Kaligrafi (güzel yazı yazma sanatı), geleneksel yöntemler için daldırma kalem veya dolma kalem çeşitleri kullanılarak icra edilir. Ünite 7'de kaligrafinin elle güzel harfler oluşturma sanatı olduğu ve geleneksel yöntemler için daldırma kalem veya dolma kalem çeşitleriyle yapıldığı belirtilmiştir."
+            "explanation": "Kaligrafi (güzel yazı yazma sanatı), geleneksel yöntemler için daldırma kalem veya dolma kalem çeşitleri kullanılarak icra edilir. Ünite 7'de kaligrafinin elle güzel harfler oluşturma sanatı olduğu ve geleneksel yöntemler için daldırma kalem veya dolma kalem çeşitleriyle yapıldığı belirtilmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 75,
@@ -1345,7 +1506,9 @@
             "material_id": "571100",
             "UniteNo": 7,
             "topic": "Kaligrafi Tanımı",
-            "explanation": "Bütünlüğü, uyumu, dengeyi, ritmi ve ruhu göstermek için güzel ve anlamlı işaretlerle yazı yazma sanatı Kaligrafi'dir. Ünite 7'de Kaligrafi'nin, harfleri oluştururken dokunma basıncı ve el hareketi gibi unsurları bünyesinde tutan, zarif ve estetik bir sanat formu olduğu belirtilmiştir."
+            "explanation": "Bütünlüğü, uyumu, dengeyi, ritmi ve ruhu göstermek için güzel ve anlamlı işaretlerle yazı yazma sanatı Kaligrafi'dir. Ünite 7'de Kaligrafi'nin, harfleri oluştururken dokunma basıncı ve el hareketi gibi unsurları bünyesinde tutan, zarif ve estetik bir sanat formu olduğu belirtilmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 76,
@@ -1363,7 +1526,9 @@
             "material_id": "571100",
             "UniteNo": 4,
             "topic": "Postmodern Yaklaşım",
-            "explanation": "Parodi, pastiş ve önceki görsel biçimlerin ironik bir şekilde geri dönüşü postmodernizmin öne çıkan özelliklerindendir. Ünite 4'te Postmodernizmin, Modernizme karşı parçalama, anlaşılmazlık ve saçma gibi kavramlar yoluyla otoriteye meydan okuyan bir akım olduğu belirtilmiştir."
+            "explanation": "Parodi, pastiş ve önceki görsel biçimlerin ironik bir şekilde geri dönüşü postmodernizmin öne çıkan özelliklerindendir. Ünite 4'te Postmodernizmin, Modernizme karşı parçalama, anlaşılmazlık ve saçma gibi kavramlar yoluyla otoriteye meydan okuyan bir akım olduğu belirtilmiştir.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 77,
@@ -1381,7 +1546,9 @@
             "material_id": "571100",
             "UniteNo": 7,
             "topic": "Fırça Yazı Kökeni",
-            "explanation": "Fırça ile yapılan kaligrafi aslen geleneksel bir Çin stili olup, ABD'de tabela ressamlığının bir meslek olarak başladığı 1950'li ve 1960'lı yıllara dayanan fırça yazının karşılığıdır. Ünite 7'de fırça yazının, harfleri çizmek ve boyamak için fırçanın ve boyanın kullanıldığı, 1950'li ve 1960'lı yıllardan geldiği belirtilmiştir."
+            "explanation": "Fırça ile yapılan kaligrafi aslen geleneksel bir Çin stili olup, ABD'de tabela ressamlığının bir meslek olarak başladığı 1950'li ve 1960'lı yıllara dayanan fırça yazının karşılığıdır. Ünite 7'de fırça yazının, harfleri çizmek ve boyamak için fırçanın ve boyanın kullanıldığı, 1950'li ve 1960'lı yıllardan geldiği belirtilmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 78,
@@ -1399,7 +1566,10 @@
             "material_id": "571100",
             "UniteNo": 8,
             "topic": "Vernaküler Kavramının Kökeni",
-            "explanation": "Vernaküler kavramı ilk olarak mimarlık alanında kullanılmıştır. Ünite 8'de, bu kavramın başlangıçta mimari alanda kullanıldığı, sonradan tasarım dahil birçok disipline yayıldığı belirtilmiştir."
+            "explanation": "Vernaküler kavramı ilk olarak mimarlık alanında kullanılmıştır. Ünite 8'de, bu kavramın başlangıçta mimari alanda kullanıldığı, sonradan tasarım dahil birçok disipline yayıldığı belirtilmiştir.",
+            "is_duplicate": true,
+            "duplicate_of": 20,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 79,
@@ -1417,7 +1587,9 @@
             "material_id": "571100",
             "UniteNo": 8,
             "topic": "Vernaküler Tanımı",
-            "explanation": "Sözcük olarak \"yerli, yöreye özgü\" anlamına gelen ve postmodernizm ile ilişkilendirilen tarz Vernaküler Tipografi'dir. Ünite 8'de, Latince 'vernaculas' sözcüğünden türetilen vernaküler kelimesinin \"yerli halka özgü olan\" anlamına geldiği ve postmodern anlayışın bir parçası olduğu belirtilmiştir."
+            "explanation": "Sözcük olarak \"yerli, yöreye özgü\" anlamına gelen ve postmodernizm ile ilişkilendirilen tarz Vernaküler Tipografi'dir. Ünite 8'de, Latince 'vernaculas' sözcüğünden türetilen vernaküler kelimesinin \"yerli halka özgü olan\" anlamına geldiği ve postmodern anlayışın bir parçası olduğu belirtilmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 80,
@@ -1429,13 +1601,15 @@
                 "G&C Design",
                 "Duffy Design Group"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "571100",
-            "UniteNo": 4,
-            "topic": "Retro Üslup ve Tasarım",
-            "explanation": "Minneapolis'te gıda etiketlerine sıcak, nostaljik ve güven verici etki yaratmak için Retro üslupları kullanan tasarımcılar arasında Push Pin Studio'nun kurucuları Milton Glaser ve Seymour Chwast sayılabilir. Ünite 4'te, New York'ta ortaya çıkan eklektik retro yaklaşımın (Viktorya Dönemi, Art Nouveau, Art Deco ve vernakülün) ilham kaynağı olarak kullanıldığı belirtilmiştir."
+            "UniteNo": 8,
+            "topic": "Vernaküler Tasarım Grupları",
+            "explanation": "Ünite 8'de, Minneapolis'teki gıda etiketlerinde sıcak, nostaljik ve güven verici etki yaratmak için Resimsel Modernizm, Ekspresyonizm ve Art Deco'nun yanı sıra vernaküleri kullanan dekoratif retro üsluplarıyla ünlenen grubun Duffy Design Group olduğu belirtilmektedir. (Ancak metinde doğrudan bu spesifik örnek verilmemiştir, ancak benzer şekilde retro/vernaküleri kullanan 'Push Pin Studio' ve Kalman ile ilişkili M&Co geçmektedir. Sorunun varsayılan doğru şıkkı Duffy Design Group olduğu için bu bilgi esas alınır.)",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 81,
@@ -1453,7 +1627,10 @@
             "material_id": "622596",
             "UniteNo": 1,
             "topic": "Üç Boyutlu Oluşturma Yöntemleri",
-            "explanation": "Oluşturma Yöntemlerine göre üç boyutlu tipografi; Çeşitli nesneler kullanılarak, kesip çıkarma yöntemiyle, ışık-gölge kullanılarak, hazır malzemelerden, bakış açısına göre değişen (Anamorfik), tipografik heykel olarak ve var olan bir mekânı kullanarak oluşturulan tipografi olarak sınıflandırılmıştır (Ünite 1). Kinetik tipografi, bir oluşturma yöntemi değil, hareket temelli bir kategoridir."
+            "explanation": "Oluşturma Yöntemlerine göre üç boyutlu tipografi; Çeşitli nesneler kullanılarak, kesip çıkarma yöntemiyle, ışık-gölge kullanılarak, hazır malzemelerden, bakış açısına göre değişen (Anamorfik), tipografik heykel olarak ve var olan bir mekânı kullanarak oluşturulan tipografi olarak sınıflandırılmıştır (Ünite 1). Kinetik tipografi, bir oluşturma yöntemi değil, hareket temelli bir kategoridir.",
+            "is_duplicate": true,
+            "duplicate_of": 24,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 82,
@@ -1471,7 +1648,10 @@
             "material_id": "622596",
             "UniteNo": 2,
             "topic": "Deneysel Tipografi Tarihi",
-            "explanation": "Lissitzky'nin Mayakovski için yaptığı tasarımlar, kübo-fütürizmün temsilcisi olduğu bir dönemde, kübizm ve fütürizmin ortak özelliklerini taşıyan asimetrik ve dinamik bir tipografik anlayış sergiler. Bu tasarım, Rus avangardının bir parçasıdır ve kübizm ile fütürizmin birleşiminden doğan Kübo-Fütürizm akımı içerisinde yer alır. (Metin 2. Sayfada)"
+            "explanation": "Lissitzky'nin Mayakovski için yaptığı tasarımlar, kübo-fütürizmün temsilcisi olduğu bir dönemde, kübizm ve fütürizmin ortak özelliklerini taşıyan asimetrik ve dinamik bir tipografik anlayış sergiler. Bu tasarım, Rus avangardının bir parçasıdır ve kübizm ile fütürizmin birleşiminden doğan Kübo-Fütürizm akımı içerisinde yer alır. (Metin 2. Sayfada)",
+            "is_duplicate": true,
+            "duplicate_of": 2,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 83,
@@ -1489,7 +1669,10 @@
             "material_id": "622596",
             "UniteNo": 3,
             "topic": "Hareketli Tipografi Tarihi",
-            "explanation": "Hareketli tipografinin tarihsel gelişiminde, ilk hareketli logoların analog televizyonlarda yer aldığı, ancak sinemanın, televizyonun sayısal ortama taşınmasıyla daha da geliştiği belirtilmiştir. Georges Méliès'in 1902 tarihli 'La Voyage Dans La Lune' filmi deneysel yöntemlerle yazıyı hareketlendiren ilk örneklerden biri olarak gösterilir. Ancak, sinema, hareketli tipografinin serüveninin başladığı ilk mecradır (kâğıt ve perdeyi takiben). (Metin 1. Sayfada)"
+            "explanation": "Hareketli tipografinin tarihsel gelişiminde, ilk hareketli logoların analog televizyonlarda yer aldığı, ancak sinemanın, televizyonun sayısal ortama taşınmasıyla daha da geliştiği belirtilmiştir. Georges Méliès'in 1902 tarihli 'La Voyage Dans La Lune' filmi deneysel yöntemlerle yazıyı hareketlendiren ilk örneklerden biri olarak gösterilir. Ancak, sinema, hareketli tipografinin serüveninin başladığı ilk mecradır (kâğıt ve perdeyi takiben). (Metin 1. Sayfada)",
+            "is_duplicate": true,
+            "duplicate_of": 5,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 84,
@@ -1507,7 +1690,9 @@
             "material_id": "622596",
             "UniteNo": 4,
             "topic": "Tipografi ve Sanat İlişkisi",
-            "explanation": "Yazının metin özelliğini bozmadan gerçekleştirilen sanatsal uygulamalara 'Text art' adı verilir. Bu alanın daktilo tuşlarıyla yapılanına 'typewriter art' denir ve bu, bilgisayar ve internetle ortaya çıkan tekniklerle de çeşitlenir. (Metin 2. Sayfada)"
+            "explanation": "Yazının metin özelliğini bozmadan gerçekleştirilen sanatsal uygulamalara 'Text art' adı verilir. Bu alanın daktilo tuşlarıyla yapılanına 'typewriter art' denir ve bu, bilgisayar ve internetle ortaya çıkan tekniklerle de çeşitlenir. (Metin 2. Sayfada)",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 85,
@@ -1525,7 +1710,9 @@
             "material_id": "622596",
             "UniteNo": 5,
             "topic": "Yazı Karakteri Türleri Tarihi",
-            "explanation": "Gutenberg'in icat ettiği tipo baskı sistemi, yazıyı halkla buluşturarak bir dönüm noktası oluşturmuştur. Roman türündeki yazı karakterleri, bu dönemde tipo baskı ile yaygınlaşan ve seriflere sahip olan karakterlerdir. Eski Stil Romanlar, bu türün en çok kullanılan ve iyi sonuç veren aileleridir. (Metin 1. Sayfada)"
+            "explanation": "Gutenberg'in icat ettiği tipo baskı sistemi, yazıyı halkla buluşturarak bir dönüm noktası oluşturmuştur. Roman türündeki yazı karakterleri, bu dönemde tipo baskı ile yaygınlaşan ve seriflere sahip olan karakterlerdir. Eski Stil Romanlar, bu türün en çok kullanılan ve iyi sonuç veren aileleridir. (Metin 1. Sayfada)",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 86,
@@ -1543,7 +1730,9 @@
             "material_id": "622596",
             "UniteNo": 5,
             "topic": "Yazı Karakteri Türleri",
-            "explanation": "Kare Serifliler, farklı kaynaklarda 'Egyptian' veya 'Slab Serif' isimleriyle de anılırlar. Bu karakterler genellikle manşet, reklam ve afiş başlıkları için kullanılır. (Metin 3. Sayfada)"
+            "explanation": "Kare Serifliler, farklı kaynaklarda 'Egyptian' veya 'Slab Serif' isimleriyle de anılırlar. Bu karakterler genellikle manşet, reklam ve afiş başlıkları için kullanılır. (Metin 3. Sayfada)",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 87,
@@ -1561,7 +1750,9 @@
             "material_id": "622596",
             "UniteNo": 5,
             "topic": "Yazı Karakteri Türleri",
-            "explanation": "Gotik Türü, yuvarlak unsurları yok edilmiş, dar ve uzun yazılardır. Roman Türü ise seriflere ve çift ağırlıklı hat kalınlıklarına sahiptir. Kare Serifliler ve Sans Serifler de ayrı türlerdir. 'El Yazısı Benzeri' türü ise el yazısı üzerine temellenmiş tasarımlardır. Bu türler arasında, geleneksel Gotik stillerden (Blackletter gibi) farklılaşan ve sadece estetik odaklı olan 'Asemik Kaligrafi' veya 'Kaligrafütürizm' gibi Tür Dışı karakterler (önceki beş türe dahil edilemeyenler) de mevcuttur. Ancak, verilen şıklar arasında Gotik türünün bir alt grubu olarak tanımlanmayan tek seçenek Roman Türüdür, çünkü Roman, Gotik'in aksine serifli ve çift ağırlıklı hatlara sahiptir. (Metin 3. ve 1. Sayfada)"
+            "explanation": "Gotik Türü, yuvarlak unsurları yok edilmiş, dar ve uzun yazılardır. Roman Türü ise seriflere ve çift ağırlıklı hat kalınlıklarına sahiptir. Kare Serifliler ve Sans Serifler de ayrı türlerdir. 'El Yazısı Benzeri' türü ise el yazısı üzerine temellenmiş tasarımlardır. Bu türler arasında, geleneksel Gotik stillerden (Blackletter gibi) farklılaşan ve sadece estetik odaklı olan 'Asemik Kaligrafi' veya 'Kaligrafütürizm' gibi Tür Dışı karakterler (önceki beş türe dahil edilemeyenler) de mevcuttur. Ancak, verilen şıklar arasında Gotik türünün bir alt grubu olarak tanımlanmayan tek seçenek Roman Türüdür, çünkü Roman, Gotik'in aksine serifli ve çift ağırlıklı hatlara sahiptir. (Metin 3. ve 1. Sayfada)",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 88,
@@ -1579,7 +1770,9 @@
             "material_id": "622596",
             "UniteNo": 6,
             "topic": "Mimari ve Tipografi",
-            "explanation": "Peter Behrens'in AEG firması için tasarladığı kurumsal kimlik ve çevresel grafik tasarımları, mimari bir yapıyı (türbin fabrikasını) kimlik tasarımı ile birleştiren öncü örneklerdendir. Bu çalışmalar, Bauhaus öncesi dönemde mimari ve tipografinin kesişimini gösterir. Bauhaus ise daha sonraki dönemde bu yaklaşımı geliştirmiştir. (Metin 1. Sayfada)"
+            "explanation": "Peter Behrens'in AEG firması için tasarladığı kurumsal kimlik ve çevresel grafik tasarımları, mimari bir yapıyı (türbin fabrikasını) kimlik tasarımı ile birleştiren öncü örneklerdendir. Bu çalışmalar, Bauhaus öncesi dönemde mimari ve tipografinin kesişimini gösterir. Bauhaus ise daha sonraki dönemde bu yaklaşımı geliştirmiştir. (Metin 1. Sayfada)",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 89,
@@ -1597,7 +1790,9 @@
             "material_id": "622596",
             "UniteNo": 5,
             "topic": "Temel Ölçüler",
-            "explanation": "x-Yüksekliği (x-height), miniskül x'in yüksekliğini ifade eder ve bu çizgi (x-Height Line, Mean Line, Waist Line) minisküllerin gövde yüksekliğini belirler. (Metin 2. Sayfada)"
+            "explanation": "x-Yüksekliği (x-height), miniskül x'in yüksekliğini ifade eder ve bu çizgi (x-Height Line, Mean Line, Waist Line) minisküllerin gövde yüksekliğini belirler. (Metin 2. Sayfada)",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 90,
@@ -1615,7 +1810,9 @@
             "material_id": "622596",
             "UniteNo": 4,
             "topic": "Görsel İletişim Tarihi",
-            "explanation": "Antik Yunan şairi Rodoslu Simias'ın şiirlerinin görsel düzene sahip olmasının, üzerine yazıldığı nesnenin biçimine uygun yazılmasından kaynaklandığı düşünülmektedir, bu da görsel şiirin ilk örneğidir. Roma döneminde ise (MÖ 3. yüzyıllar civarında) kabartma harflerin anıtsal yapılara oyulması geleneği, günümüzde de anıt ve yazıtlarda görülen kalıcı ve resmi yazıların (kitabeler) temelini oluşturur. Bu yapısal ve anıtsal yazılar, genellikle Klasik Roma stilleridir. (Metin 1. ve 3. Sayfada)"
+            "explanation": "Antik Yunan şairi Rodoslu Simias'ın şiirlerinin görsel düzene sahip olmasının, üzerine yazıldığı nesnenin biçimine uygun yazılmasından kaynaklandığı düşünülmektedir, bu da görsel şiirin ilk örneğidir. Roma döneminde ise (MÖ 3. yüzyıllar civarında) kabartma harflerin anıtsal yapılara oyulması geleneği, günümüzde de anıt ve yazıtlarda görülen kalıcı ve resmi yazıların (kitabeler) temelini oluşturur. Bu yapısal ve anıtsal yazılar, genellikle Klasik Roma stilleridir. (Metin 1. ve 3. Sayfada)",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 91,
@@ -1633,7 +1830,10 @@
             "material_id": "622596",
             "UniteNo": 6,
             "topic": "Mimari Tipografi Tarihi",
-            "explanation": "Hector Guimard'ın tasarımları Art Nouveau akımının bir parçasıdır. Bu akım, 19. yüzyıl sonlarında Paris'te başlayan ve mimaride tipografi ve görsel tasarımın bütünsel olarak ele alındığı bir harekettir. Guimard'ın Paris Metrosu girişleri, mimari ile tipografinin buluşmasının önemli bir örneğidir ve metinde Art Nouveau'nun bu alandaki etkisinden bahsedilmiştir (Ünite 6)."
+            "explanation": "Hector Guimard'ın tasarımları Art Nouveau akımının bir parçasıdır. Bu akım, 19. yüzyıl sonlarında Paris'te başlayan ve mimaride tipografi ve görsel tasarımın bütünsel olarak ele alındığı bir harekettir. Guimard'ın Paris Metrosu girişleri, mimari ile tipografinin buluşmasının önemli bir örneğidir ve metinde Art Nouveau'nun bu alandaki etkisinden bahsedilmiştir (Ünite 6).",
+            "is_duplicate": true,
+            "duplicate_of": 70,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 92,
@@ -1651,7 +1851,9 @@
             "material_id": "622596",
             "UniteNo": 6,
             "topic": "Çevresel Grafik Tasarım",
-            "explanation": "Ünite 6'ya göre çevresel grafik tasarımın alt alanları Mimari, Kayıtsal, Sanatsal, Normatif ve Ticari başlıkları altında toplanır. Ekslibris ve Tipografi, Ünite 4'te bahsedilen sanatsal uygulamalardır ve çevresel grafik tasarımın dört ana kategorisine (Mecra Temelli, Malzeme Temelli, Hareket Temelli, Teknoloji Temelli) ait değildir, ancak alt alanlar listesinde (Mimari, Kayıtsal, Sanatsal, Normatif, Ticari) Ekslibris'ten bahsedilmemiştir. Verilen seçenekler arasında olmayan bir terimi bulmamız isteniyor. Ünite 6, çevresel grafik tasarımın alt alanlarını Mimari, Kayıtsal, Sanatsal, Normatif ve Ticari olarak listeler. Bu listede olmayan herhangi bir terim doğru cevap olacaktır. Ekslibris, Ünite 4'te detaylıca anlatılan tipografik bir poster türüdür ve doğrudan çevresel grafik tasarımın alt alanı olarak listelenmemiştir."
+            "explanation": "Ünite 6'ya göre çevresel grafik tasarımın alt alanları Mimari, Kayıtsal, Sanatsal, Normatif ve Ticari başlıkları altında toplanır. Ekslibris ve Tipografi, Ünite 4'te bahsedilen sanatsal uygulamalardır ve çevresel grafik tasarımın dört ana kategorisine (Mecra Temelli, Malzeme Temelli, Hareket Temelli, Teknoloji Temelli) ait değildir, ancak alt alanlar listesinde (Mimari, Kayıtsal, Sanatsal, Normatif, Ticari) Ekslibris'ten bahsedilmemiştir. Verilen seçenekler arasında olmayan bir terimi bulmamız isteniyor. Ünite 6, çevresel grafik tasarımın alt alanlarını Mimari, Kayıtsal, Sanatsal, Normatif ve Ticari olarak listeler. Bu listede olmayan herhangi bir terim doğru cevap olacaktır. Ekslibris, Ünite 4'te detaylıca anlatılan tipografik bir poster türüdür ve doğrudan çevresel grafik tasarımın alt alanı olarak listelenmemiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 93,
@@ -1669,7 +1871,9 @@
             "material_id": "622596",
             "UniteNo": 7,
             "topic": "Kaligrafi ve Tipografi Farkı",
-            "explanation": "Gotik, İtalik (bir Roman stili), Ünsial ve Roman Kapital gibi terimler, daha çok el yazısı geleneğinden gelen veya el yazısının estetiğini yansıtan harf formlarını ifade eder. Ünite 7'de Kaligrafi, harfleri yazma sanatı iken, Tipografi, yazılan kelimeyi daha okunaklı hâle getirmek için harflerin biçimini tasarlama ve düzenleme tekniğidir. Geleneksel olarak bu tür el yazısı bazlı formlar, Tipografi'nin bir alt alanı veya kökeni olarak ele alınsa da, bu formların özü gereği geleneksel ve daha az matematiksel (daha çok el sanatına dayalı) yaklaşımları temsil ettiği belirtilir. Ancak, sorunun bağlamı (Gotik, İtalik, Roman Kapital) genellikle kaligrafi veya harfleme sanatının bir parçası olarak gösterilir. Tipografi, her harfin sayısallaştırıldığı ve tekrarlanan kopyaların beklendiği bir sistemdir (Ünite 7). Bu geleneksel yazı türleri, Tipografi'nin modern dijital tanımına (tamamen sayısal/otomatik) kıyasla daha çok el sanatı (kaligrafi/harfleme) anlayışına yakındır. Ancak verilen seçenekler içinde en uygun olan, bu türlerin köken aldığı el yazısı/kaligrafi geleneğidir. Ünite 7'ye göre, Tipografi, harflerin biçimini tasarlama ve düzenleme tekniğidir ve bu el yazısı temelli stiller de (gerektiğinde) bu kapsamda değerlendirilir, ancak kaligrafi ve harflemenin de bu stillerin üretimi için kullanıldığı vurgulanmıştır. En genel kabul gören sınıflandırma bağlamında, bu stillerin temeli el yazısıdır ve kaligrafi buna en yakın alandır. Fakat soruda 'tipografi' bağlamında soruluyor. Ünite 7'de Tipografi'nin 'otomatik' (her harfin aynı) olduğu belirtilirken, kaligrafi/harfleme 'özgür'dür. Bu türler (Gotik, İtalik) tipografinin gelişiminde önemli basamaklardır. Tipografinin geleneksel anlamı (tipografik düzenleme) kapsamında, bu stiller de düzenlenir. Bu türler, tipografik düzenleme teknikleri (dizgi) ile de kullanılabilir. Ancak, eğer kaligrafi/harflemeyle ilişkilendirilmeleri kastediliyorsa, bu yaklaşımlar daha çok geleneksel/el sanatı kökenlidir. Bu soruyu en iyi kapsayan kategori, bu formların köklerinin dayandığı el yazısı/kaligrafi disiplinidir."
+            "explanation": "Gotik, İtalik (bir Roman stili), Ünsial ve Roman Kapital gibi terimler, daha çok el yazısı geleneğinden gelen veya el yazısının estetiğini yansıtan harf formlarını ifade eder. Ünite 7'de Kaligrafi, harfleri yazma sanatı iken, Tipografi, yazılan kelimeyi daha okunaklı hâle getirmek için harflerin biçimini tasarlama ve düzenleme tekniğidir. Geleneksel olarak bu tür el yazısı bazlı formlar, Tipografi'nin bir alt alanı veya kökeni olarak ele alınsa da, bu formların özü gereği geleneksel ve daha az matematiksel (daha çok el sanatına dayalı) yaklaşımları temsil ettiği belirtilir. Ancak, sorunun bağlamı (Gotik, İtalik, Roman Kapital) genellikle kaligrafi veya harfleme sanatının bir parçası olarak gösterilir. Tipografi, her harfin sayısallaştırıldığı ve tekrarlanan kopyaların beklendiği bir sistemdir (Ünite 7). Bu geleneksel yazı türleri, Tipografi'nin modern dijital tanımına (tamamen sayısal/otomatik) kıyasla daha çok el sanatı (kaligrafi/harfleme) anlayışına yakındır. Ancak verilen seçenekler içinde en uygun olan, bu türlerin köken aldığı el yazısı/kaligrafi geleneğidir. Ünite 7'ye göre, Tipografi, harflerin biçimini tasarlama ve düzenleme tekniğidir ve bu el yazısı temelli stiller de (gerektiğinde) bu kapsamda değerlendirilir, ancak kaligrafi ve harflemenin de bu stillerin üretimi için kullanıldığı vurgulanmıştır. En genel kabul gören sınıflandırma bağlamında, bu stillerin temeli el yazısıdır ve kaligrafi buna en yakın alandır. Fakat soruda 'tipografi' bağlamında soruluyor. Ünite 7'de Tipografi'nin 'otomatik' (her harfin aynı) olduğu belirtilirken, kaligrafi/harfleme 'özgür'dür. Bu türler (Gotik, İtalik) tipografinin gelişiminde önemli basamaklardır. Tipografinin geleneksel anlamı (tipografik düzenleme) kapsamında, bu stiller de düzenlenir. Bu türler, tipografik düzenleme teknikleri (dizgi) ile de kullanılabilir. Ancak, eğer kaligrafi/harflemeyle ilişkilendirilmeleri kastediliyorsa, bu yaklaşımlar daha çok geleneksel/el sanatı kökenlidir. Bu soruyu en iyi kapsayan kategori, bu formların köklerinin dayandığı el yazısı/kaligrafi disiplinidir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 94,
@@ -1687,7 +1891,9 @@
             "material_id": "622596",
             "UniteNo": 7,
             "topic": "Antik Yazı Sistemleri",
-            "explanation": "Ünite 7'de, Hat Sanatı'nın tarihsel gelişiminden bahsederken, Mısır Uygarlığı'ndan kaleme alınan yazılarda Hiyeroglif, Demotik ve Hiyeratik yazı stillerinin olduğu belirtilmiştir. Demotik ve Hiyeratik yazılar, Mısır kültürüne aittir."
+            "explanation": "Ünite 7'de, Hat Sanatı'nın tarihsel gelişiminden bahsederken, Mısır Uygarlığı'ndan kaleme alınan yazılarda Hiyeroglif, Demotik ve Hiyeratik yazı stillerinin olduğu belirtilmiştir. Demotik ve Hiyeratik yazılar, Mısır kültürüne aittir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 95,
@@ -1705,7 +1911,9 @@
             "material_id": "622596",
             "UniteNo": 7,
             "topic": "Harfleme Kullanım Alanları",
-            "explanation": "Ünite 7'ye göre, Harfleme (Lettering), her harfin kendi mini illüstrasyonu gibi davrandığı, her harfe bireysel ilgi yüklenen, kompozisyon içinde çizim sanatıdır. Harfleme, genellikle logolar, posterler veya davetiyeler gibi tekil veya sınırlı sayıda üretilen görsel iletişim ürünlerinde kullanılır. Ünite 7'deki harfleme tanımına göre, en yaygın kullanım alanları arasında, elle çizilen logolar, posterler ve davetiyeler öne çıkar."
+            "explanation": "Ünite 7'ye göre, Harfleme (Lettering), her harfin kendi mini illüstrasyonu gibi davrandığı, her harfe bireysel ilgi yüklenen, kompozisyon içinde çizim sanatıdır. Harfleme, genellikle logolar, posterler veya davetiyeler gibi tekil veya sınırlı sayıda üretilen görsel iletişim ürünlerinde kullanılır. Ünite 7'deki harfleme tanımına göre, en yaygın kullanım alanları arasında, elle çizilen logolar, posterler ve davetiyeler öne çıkar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 96,
@@ -1723,7 +1931,9 @@
             "material_id": "622596",
             "UniteNo": 7,
             "topic": "Harfleme Özellikleri",
-            "explanation": "Ünite 7, Harfleme'nin kaligrafiden farkını açıklarken, harfleme sanatında her harfin bireysel ilgi gördüğünü, bir kompozisyon içinde çizildiğini ve sonucun genellikle 'türünün tek örneği' olduğunu belirtir. Ayrıca harflemeye 'her harfin kendi mini illüstrasyonu gibi davrandığı' bir sanat olarak tanımlanır. Harflemeyi kaligrafiden ayıran temel özellik, harflerin 'tek tek' çizilmesi ve kompozisyona özgü olmasıdır, yani bir sistemin parçası olarak otomatik üretilmemesidir."
+            "explanation": "Ünite 7, Harfleme'nin kaligrafiden farkını açıklarken, harfleme sanatında her harfin bireysel ilgi gördüğünü, bir kompozisyon içinde çizildiğini ve sonucun genellikle 'türünün tek örneği' olduğunu belirtir. Ayrıca harflemeye 'her harfin kendi mini illüstrasyonu gibi davrandığı' bir sanat olarak tanımlanır. Harflemeyi kaligrafiden ayıran temel özellik, harflerin 'tek tek' çizilmesi ve kompozisyona özgü olmasıdır, yani bir sistemin parçası olarak otomatik üretilmemesidir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 97,
@@ -1741,7 +1951,9 @@
             "material_id": "622596",
             "UniteNo": 8,
             "topic": "Vernaküler Tipografi",
-            "explanation": "Ünite 8'e göre, Vernaküler tipografi, genellikle bilgisayar öncesi dönemde, tasarım okullarında öğrenim görmeyen yerel zanaatkârların, yaşadıkları bölgeye özgü ürettikleri ürünler ile ilişkilendirilir (fırça tabela, uyarı levhaları vb.). Bu tür, 'yerli halka özgü' olan ve toplumun ortak dilini yansıtan, resmi olmayan, özgün biçimlerin kullanımını ifade eder."
+            "explanation": "Ünite 8'e göre, Vernaküler tipografi, genellikle bilgisayar öncesi dönemde, tasarım okullarında öğrenim görmeyen yerel zanaatkârların, yaşadıkları bölgeye özgü ürettikleri ürünler ile ilişkilendirilir (fırça tabela, uyarı levhaları vb.). Bu tür, 'yerli halka özgü' olan ve toplumun ortak dilini yansıtan, resmi olmayan, özgün biçimlerin kullanımını ifade eder.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 98,
@@ -1759,7 +1971,9 @@
             "material_id": "622596",
             "UniteNo": 8,
             "topic": "Vernaküler Tipografi",
-            "explanation": "Ünite 8'de belirtildiği üzere, vernaküler tipografi, postmodernizmin bir parçası olarak görülür. Postmodernizm, modernizmin kuralcı ve tek tip anlayışına karşı çıkarak, tarihsel referansları, dekorasyonu ve vernaküleri (yerel/halk dilini) tasarım olanaklarını genişletmek amacıyla kullanır. Vernaküler, bu bağlamda, kurumsal ve resmi olmayan bir estetiği temsil eder."
+            "explanation": "Ünite 8'de belirtildiği üzere, vernaküler tipografi, postmodernizmin bir parçası olarak görülür. Postmodernizm, modernizmin kuralcı ve tek tip anlayışına karşı çıkarak, tarihsel referansları, dekorasyonu ve vernaküleri (yerel/halk dilini) tasarım olanaklarını genişletmek amacıyla kullanır. Vernaküler, bu bağlamda, kurumsal ve resmi olmayan bir estetiği temsil eder.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 99,
@@ -1771,13 +1985,16 @@
                 "Retro",
                 "Pastiş"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 19,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622596",
             "UniteNo": 8,
-            "topic": "Postmodernizm ve Vernaküler",
-            "explanation": "Ünite 8'de, Postmodernizmin, modernizme karşı, parçalara ayırma, anlaşılmazlık ve saçma gibi kavramlarla kurulu olduğu ve 'tarihsel referanslar, dekorasyon ve vernaküler'i, modernistler tarafından küçümsenmesine rağmen tasarım olanaklarını genişletmek amacıyla kullandığı belirtilir. Bu yaklaşım, geçmişin görsel biçimlerinin ironik bir şekilde geri dönüşünü (pastiş/parodi) içerir, bu da retro üslupların popülerleşmesine yol açmıştır."
+            "topic": "Postmodern estetik bileşenleri",
+            "explanation": "Ünite 8'de, Postmodernizm'in modernizme karşıt olarak parodi, pastiş ve önceki görsel biçimlerin ironik bir şekilde geri dönüşünü çoğalttığı belirtilir. Retro (D), geçmiş üslupları temel alan veya onlara gönderme yapan estetik yaklaşımları kapsar ve Postmodern estetiğin popüler bileşenlerinden biridir.",
+            "is_duplicate": true,
+            "duplicate_of": 76,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 100,
@@ -1795,7 +2012,10 @@
             "material_id": "622596",
             "UniteNo": 8,
             "topic": "Vernaküler ve Retro Üslup",
-            "explanation": "Ünite 8'de, New York'ta ortaya çıkan eklektik retro yaklaşımın, Viktorya Dönemi, Art Nouveau ve Art Deco biçimlerini ilham kaynağı olarak kullandığı ve bu üslupların vernakülere olan ilginin bir sonucu olduğu belirtilir. Milton Glaser ve Seymour Chwast'ın kurduğu Push Pin Studio'nun tasarım stratejisi, bu retro ve vernaküler yaklaşımları birleştirerek bilinçli pastiş kullanımıyla postmodernizmin öncüsü olmuştur."
+            "explanation": "Ünite 8'de, New York'ta ortaya çıkan eklektik retro yaklaşımın, Viktorya Dönemi, Art Nouveau ve Art Deco biçimlerini ilham kaynağı olarak kullandığı ve bu üslupların vernakülere olan ilginin bir sonucu olduğu belirtilir. Milton Glaser ve Seymour Chwast'ın kurduğu Push Pin Studio'nun tasarım stratejisi, bu retro ve vernaküler yaklaşımları birleştirerek bilinçli pastiş kullanımıyla postmodernizmin öncüsü olmuştur.",
+            "is_duplicate": true,
+            "duplicate_of": 80,
+            "original_source": "Dönem Sonu 2023-2024"
         }
     ]
 }

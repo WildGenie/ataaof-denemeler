@@ -296,7 +296,7 @@ def process_pdfs_from_materials_json(target_course=None, no_cache=False):
         # 2. Prepare Content
         print("  Generating JSON...", end="", flush=True)
 
-        model = "gemini-flash-lite-latest"
+        model = "gemini-flash-latest"
 
         prompt = f"""
         Bu sınav belgesindeki ({exam_name}) tüm çoktan seçmeli soruları çıkar.

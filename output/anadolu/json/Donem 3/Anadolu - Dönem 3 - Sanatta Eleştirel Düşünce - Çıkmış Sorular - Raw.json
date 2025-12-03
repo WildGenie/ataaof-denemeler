@@ -205,7 +205,7 @@
                 "Meyerhold",
                 "Schechner"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 14,
             "source": "Ara Sınav 2022-2023",
             "material_id": "523118"
@@ -235,7 +235,7 @@
                 "E. Veron",
                 "B. Croce"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 16,
             "source": "Ara Sınav 2022-2023",
             "material_id": "523118"
@@ -295,7 +295,7 @@
                 "17. yüzyıldan",
                 "18. yüzyıldan"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 20,
             "source": "Ara Sınav 2022-2023",
             "material_id": "523118"
@@ -595,7 +595,7 @@
                 "Artbileşenin Evetlenmesi",
                 "Modus Tollendo Ponens"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 20,
             "source": "Ara Sınav 2023-2024",
             "material_id": "541200"
@@ -715,7 +715,7 @@
                 "Meyerhold",
                 "Schechner"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 8,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591742"
@@ -760,7 +760,7 @@
                 "Hazcılık",
                 "Pozitivizm"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 11,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591742"
@@ -790,7 +790,7 @@
                 "Aristoteles",
                 "Sokrates"
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 13,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591742"
@@ -805,7 +805,7 @@
                 "Dikkat",
                 "Duyu"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 14,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591742"
@@ -850,7 +850,7 @@
                 "İlhan Usmanbaş",
                 "Ulvi Cemal Erkin"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 17,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591742"
@@ -880,7 +880,7 @@
                 "17. yüzyıldan",
                 "18. yüzyıldan"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 19,
             "source": "Ara Sınav 2024-2025",
             "material_id": "591742"
@@ -1060,7 +1060,7 @@
                 "Henry Moore",
                 "Giacometti"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 11,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "523126"
@@ -1075,7 +1075,7 @@
                 "Gerçekçilik",
                 "Sembolizm"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 12,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "523126"
@@ -1135,7 +1135,7 @@
                 "Sayı ve gol",
                 "Süre ve zaman"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 16,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "523126"
@@ -1150,7 +1150,7 @@
                 "Video art",
                 "Pop- Art"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "523126"
@@ -1165,7 +1165,7 @@
                 "Yeraltı dünyası tanrıçasını",
                 "Bilgelik ve savaş tanrıçasını"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 18,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "523126"
@@ -1180,7 +1180,7 @@
                 "Bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığıdır.",
                 "İnsan ve toplumla ilgili her tür olayı konu alarak abartılı bir biçimde veren, düşündürücü ve güldürücü resimdir."
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 19,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "523126"
@@ -1195,7 +1195,7 @@
                 "Debussy",
                 "Couperin"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "523126"
@@ -1450,7 +1450,7 @@
                 "Şakacılık",
                 "Çelişki"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "556445"
@@ -1660,7 +1660,7 @@
                 "Annibale Carracci",
                 "Erhard Schön"
             ],
-            "correctIndex": 0,
+            "correctIndex": 3,
             "exam_question_number": 11,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596754"
@@ -1735,7 +1735,7 @@
                 "1960",
                 "1970"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 16,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596754"
@@ -1795,7 +1795,7 @@
                 "Claud Monet",
                 "Albert Dürer"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596754"
@@ -1840,7 +1840,7 @@
                 "Pupüplizm",
                 "Divizyonizm"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 3,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "523140"
@@ -1975,7 +1975,7 @@
                 "Tortuları dibe çökmüş bir kavanozun güçlü bir şekilde çalkalanması etkisidir.",
                 "İnsan ve toplumla ilgili her tür olayı konu alarak abartılı bir biçimde düşündürücü ve güldürücü resimdir."
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 12,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "523140"
@@ -2005,7 +2005,7 @@
                 "İlhan Usmanbaş",
                 "Ulvi Cemal Erkin"
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 14,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "523140"
@@ -2095,7 +2095,7 @@
                 "Toplumcu gerçekçilik",
                 "Klasik sanat"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 20,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "523140"
@@ -2200,7 +2200,7 @@
                 "Sartre",
                 "Hegel"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 7,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574665"
@@ -2260,7 +2260,7 @@
                 "Sonuç",
                 "Çıkarım"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 11,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574665"
@@ -2305,7 +2305,7 @@
                 "Tümevarım",
                 "Tümdengelim"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 14,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574665"
@@ -2350,7 +2350,7 @@
                 "Romantizm",
                 "Sembolizm"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574665"
@@ -2665,7 +2665,7 @@
                 "Hikayeye",
                 "İçeriğe"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 18,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626548"

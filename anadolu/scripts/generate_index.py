@@ -129,7 +129,7 @@ def generate_course_index(donem, course_name, files):
     # 1. Çıkmış Sorular
     if past_exams:
         for file_info in past_exams:
-            filename = urllib.parse.quote(file_info["filename"].replace(".md", ""))
+            filename = file_info["filename"].replace(".md", "").replace(" ", "%20").replace("(", "%28").replace(")", "%29")
             title = "🎓 Çıkmış Sorular (Zenginleştirilmiş)"
             content.append(f"### [{title}]({filename})")
             content.append("")
@@ -140,7 +140,7 @@ def generate_course_index(donem, course_name, files):
             # Remove .md extension
             clean_filename = item["filename"].replace(".md", "")
             filename_parts = clean_filename.split("/")
-            encoded_parts = [urllib.parse.quote(p) for p in filename_parts]
+            encoded_parts = [p.replace(" ", "%20").replace("(", "%28").replace(")", "%29") for p in filename_parts]
             encoded_filename = "/".join(encoded_parts)
             title = "📚 Sorularla Öğrenelim"
             content.append(f"### [{title}]({encoded_filename})")
@@ -152,7 +152,7 @@ def generate_course_index(donem, course_name, files):
             # Remove .md extension
             clean_filename = item["filename"].replace(".md", "")
             filename_parts = clean_filename.split("/")
-            encoded_parts = [urllib.parse.quote(p) for p in filename_parts]
+            encoded_parts = [p.replace(" ", "%20").replace("(", "%28").replace(")", "%29") for p in filename_parts]
             encoded_filename = "/".join(encoded_parts)
             title = "✏️ Alıştırma Soruları"
             content.append(f"### [{title}]({encoded_filename})")
@@ -192,7 +192,7 @@ def generate_course_index(donem, course_name, files):
             # Handle paths and remove .md
             clean_filename = item["filename"].replace(".md", "")
             filename_parts = clean_filename.split("/")
-            encoded_parts = [urllib.parse.quote(p) for p in filename_parts]
+            encoded_parts = [p.replace(" ", "%20").replace("(", "%28").replace(")", "%29") for p in filename_parts]
             encoded_filename = "/".join(encoded_parts)
 
             title = clean_title(item["title"], group_key)

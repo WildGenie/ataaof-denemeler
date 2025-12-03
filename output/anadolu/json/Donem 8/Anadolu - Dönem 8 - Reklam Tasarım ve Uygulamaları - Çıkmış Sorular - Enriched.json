@@ -13,7 +13,9 @@
             "correctIndex": 2,
             "exam_question_number": 1,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 2,
@@ -28,7 +30,9 @@
             "correctIndex": 3,
             "exam_question_number": 2,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 3,
@@ -43,7 +47,9 @@
             "correctIndex": 4,
             "exam_question_number": 3,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 4,
@@ -58,7 +64,9 @@
             "correctIndex": 0,
             "exam_question_number": 4,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 5,
@@ -73,7 +81,9 @@
             "correctIndex": 2,
             "exam_question_number": 5,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 6,
@@ -88,7 +98,9 @@
             "correctIndex": 3,
             "exam_question_number": 6,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 7,
@@ -100,10 +112,15 @@
                 "Sonuca varma",
                 "Sözlü ve görsel mesajlar"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 7,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "UniteNo": 6,
+            "topic": "İkna Edici Reklam Mesajları",
+            "explanation": "Ünite 6'da televizyon reklamlarının ikna ediciliği başlığı altında, ikna edici reklam mesajları tasarlamak için farkında olunması gereken unsurların Sunum Sırası, Sonuca Varma, Mesajın Taraflılığı ve Sözlü ve Görsel Mesajlar olduğu belirtilmiştir. Ünlü kullanımı (Kişilik Verme, Tanıklık vb. formatlar dolaylı yoldan yer alsa da 'farkında olunması gereken unsurlar' listesinde doğrudan yer almamaktadır) ikna edicilik unsurları arasında sayılmaz.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 8,
@@ -118,7 +135,9 @@
             "correctIndex": 1,
             "exam_question_number": 8,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 9,
@@ -133,7 +152,9 @@
             "correctIndex": 1,
             "exam_question_number": 9,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 10,
@@ -145,10 +166,15 @@
                 "Yaratıcı brief",
                 "Debrief"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 10,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "UniteNo": 3,
+            "topic": "Reklam Stratejisi Brief Türleri",
+            "explanation": "Ünite 3'te, reklam stratejisinin geliştirilmesi aşamasında üç temel brief türünden bahsedilmektedir: müşteri briefi, debrief ve yaratıcı brief. Müşteri briefi, marka yöneticileri tarafından yazılan ve reklam ajansını bilgilendirmeyi hedefleyen ilk belgedir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 11,
@@ -163,7 +189,9 @@
             "correctIndex": 2,
             "exam_question_number": 11,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 12,
@@ -178,7 +206,9 @@
             "correctIndex": 1,
             "exam_question_number": 12,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 13,
@@ -193,7 +223,9 @@
             "correctIndex": 4,
             "exam_question_number": 13,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 14,
@@ -208,7 +240,9 @@
             "correctIndex": 4,
             "exam_question_number": 14,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 15,
@@ -223,7 +257,9 @@
             "correctIndex": 1,
             "exam_question_number": 15,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 16,
@@ -238,7 +274,9 @@
             "correctIndex": 3,
             "exam_question_number": 16,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 17,
@@ -250,10 +288,15 @@
                 "Markaya sanatsal deneyim ekleme",
                 "Reklamı sanatsal eyleme dönüştürme"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 17,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "UniteNo": 4,
+            "topic": "Reklamda Sanat Kullanımı",
+            "explanation": "Ünite 4'te reklam tasarımlarında sanatın izlerinin görülebildiği, Diaz ve Martin'in sınıflamasına göre, slogan gibi metinsel unsurların sanata referans vermesinin bir kullanım biçimi olduğu belirtilmiştir. 'Uçma sanatı' ifadesi doğrudan metinsel bir içerik olduğundan, bu durum 'Metin unsurunda sanata referans verme' kategorisine karşılık gelir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 18,
@@ -265,10 +308,15 @@
                 "Barok",
                 "Gotik"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 18,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "UniteNo": 4,
+            "topic": "Önemli Sanat Akımları",
+            "explanation": "Ünite 4'te Gotik sanatın tanımı yapılırken, 'Perspektif kuramından yoksun olan Gotik tarzda figürler ve nesneler genellikle, gerçek uzamda yer aldıkları izlenimi vermekten öte, süsleme etkisi yaratacak biçimde verilir' ifadesi yer almaktadır. Bu nedenle doğru cevap Gotik'tir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 19,
@@ -283,7 +331,9 @@
             "correctIndex": 0,
             "exam_question_number": 19,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 20,
@@ -298,7 +348,9 @@
             "correctIndex": 3,
             "exam_question_number": 20,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618236"
+            "material_id": "618236",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 21,
@@ -313,7 +365,9 @@
             "correctIndex": 2,
             "exam_question_number": 1,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622608"
+            "material_id": "622608",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 22,
@@ -331,7 +385,9 @@
             "material_id": "622608",
             "UniteNo": 2,
             "topic": "Birincil Araştırma Teknikleri",
-            "explanation": "Soruda tarif edilen teknik, moderatör eşliğinde ve belirlenen temalar üzerinden açık uçlu soruların katılımcılara sorulması şeklinde gerçekleştirilen birincil araştırma tekniği olan Odak (Fokus) Grup Görüşmesi'dir (Ünite 2, Birincil Araştırma başlığı altında açıklanmıştır)."
+            "explanation": "Soruda tarif edilen teknik, moderatör eşliğinde ve belirlenen temalar üzerinden açık uçlu soruların katılımcılara sorulması şeklinde gerçekleştirilen birincil araştırma tekniği olan Odak (Fokus) Grup Görüşmesi'dir (Ünite 2, Birincil Araştırma başlığı altında açıklanmıştır).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 23,
@@ -349,7 +405,9 @@
             "material_id": "622608",
             "UniteNo": 3,
             "topic": "Yaratıcı Fikir Bulma Teknikleri",
-            "explanation": "Ünite 3'te bahsedilen yaratıcı fikir bulma teknikleri arasında Beyin Fırtınası, Piramit Model, Zihin Haritası Tekniği ve Gordon Yöntemi yer almaktadır. Bu listede olmayan bir teknik seçeneklerde verilmiştir. (Metin analizinde bahsedilen tekniklerden biri listede yer almıyorsa o seçenek doğru cevap olacaktır, ancak seçenekler verilmediği için varsayımsal olarak listede olmayan bir teknik doğru kabul edilir. Örnek olarak 'Pazarlama Analizi' bu teknikler arasında sayılmaz.) Seçenekler verilmediği için, genel bilgiye göre listede yer alanlar dışındaki herhangi bir seçenek doğru cevap olacaktır. (Varsayım: Verilen seçenekler arasında listelenmeyen teknik doğrudur)."
+            "explanation": "Ünite 3'te bahsedilen yaratıcı fikir bulma teknikleri arasında Beyin Fırtınası, Piramit Model, Zihin Haritası Tekniği ve Gordon Yöntemi yer almaktadır. Bu listede olmayan bir teknik seçeneklerde verilmiştir. (Metin analizinde bahsedilen tekniklerden biri listede yer almıyorsa o seçenek doğru cevap olacaktır, ancak seçenekler verilmediği için varsayımsal olarak listede olmayan bir teknik doğru kabul edilir. Örnek olarak 'Pazarlama Analizi' bu teknikler arasında sayılmaz.) Seçenekler verilmediği için, genel bilgiye göre listede yer alanlar dışındaki herhangi bir seçenek doğru cevap olacaktır. (Varsayım: Verilen seçenekler arasında listelenmeyen teknik doğrudur).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 24,
@@ -367,7 +425,9 @@
             "material_id": "622608",
             "UniteNo": 4,
             "topic": "Reklam ve Sanat İlişkisi",
-            "explanation": "Ferdinand de Saussure, dilbilimci olarak göstergenin anlamı olduğunu savunurken, reklamın amacı ne olursa olsun satma ve ikna etmeye dayandığını belirtir. Ancak, eleştirel açıdan sanatın reklama hizmet etmesini eleştiren ve reklamın asıl amacını 'bir malı ya da hizmeti satmak' olarak gören görüşler mevcuttur. Soruda reklamı mekanik bir hâle getirmek yerine sanatı takip etmesi gerektiği vurgusu yapıldığı için, reklamcılığın sanatçılar gibi yaratıcılığın peşinde koşması gerektiği fikrine daha yakın olan bir bakış açısı (örneğin eleştirel sanat akımlarının reklamın ticari amacını eleştirmesi bağlamında) doğru olabilir. Ancak metin, reklamcıların kültürel unsurlardan etkilendiğini söyler. Bu bağlamda, sanatı yüce bir uğraş olarak görüp reklamı ticari amaçlı olduğu için sanat kapsamında görmeyen eleştirel görüşler (sanatın sermayeye hizmet etmesini eleştirenler) bu ifadeye daha yakındır (Ünite 4, Sanat Akımları)."
+            "explanation": "Ferdinand de Saussure, dilbilimci olarak göstergenin anlamı olduğunu savunurken, reklamın amacı ne olursa olsun satma ve ikna etmeye dayandığını belirtir. Ancak, eleştirel açıdan sanatın reklama hizmet etmesini eleştiren ve reklamın asıl amacını 'bir malı ya da hizmeti satmak' olarak gören görüşler mevcuttur. Soruda reklamı mekanik bir hâle getirmek yerine sanatı takip etmesi gerektiği vurgusu yapıldığı için, reklamcılığın sanatçılar gibi yaratıcılığın peşinde koşması gerektiği fikrine daha yakın olan bir bakış açısı (örneğin eleştirel sanat akımlarının reklamın ticari amacını eleştirmesi bağlamında) doğru olabilir. Ancak metin, reklamcıların kültürel unsurlardan etkilendiğini söyler. Bu bağlamda, sanatı yüce bir uğraş olarak görüp reklamı ticari amaçlı olduğu için sanat kapsamında görmeyen eleştirel görüşler (sanatın sermayeye hizmet etmesini eleştirenler) bu ifadeye daha yakındır (Ünite 4, Sanat Akımları).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 25,
@@ -385,7 +445,9 @@
             "material_id": "622608",
             "UniteNo": 5,
             "topic": "Gazete Reklam Boyutları",
-            "explanation": "Ünite 5'te gazete reklam boyutları Tabloid ve Klasik boyut olarak sınıflandırılmaktadır. Megalight reklamları ise genellikle yol kenarlarında konumlandırılan ve yüksek mevkide yer alan, ışıklandırılmış reklam panolarıdır. Giantboard'ların 12 metreden başlayıp 16 metre genişliğe ulaştığı belirtilmiştir. Soruda verilen yaklaşık 15-16 cm genişlik ve 25-26 cm uzunluk bilgisi, standart bir gazete reklamının boyutlarına dair kesin bir bilgi içermese de, bu boyutlar genellikle basılı reklamların (gazete/dergi) fiziksel boyutları bağlamında ele alınır. Ancak seçenekler verilmediğinden ve metin Gigantboard/Megalight gibi büyük açık hava reklamlarından bahsettiğinden, bu boyutlar standart gazete reklamı boyutları (genellikle basılı reklam başlığı altında yer alır) ile ilişkilendirilebilir."
+            "explanation": "Ünite 5'te gazete reklam boyutları Tabloid ve Klasik boyut olarak sınıflandırılmaktadır. Megalight reklamları ise genellikle yol kenarlarında konumlandırılan ve yüksek mevkide yer alan, ışıklandırılmış reklam panolarıdır. Giantboard'ların 12 metreden başlayıp 16 metre genişliğe ulaştığı belirtilmiştir. Soruda verilen yaklaşık 15-16 cm genişlik ve 25-26 cm uzunluk bilgisi, standart bir gazete reklamının boyutlarına dair kesin bir bilgi içermese de, bu boyutlar genellikle basılı reklamların (gazete/dergi) fiziksel boyutları bağlamında ele alınır. Ancak seçenekler verilmediğinden ve metin Gigantboard/Megalight gibi büyük açık hava reklamlarından bahsettiğinden, bu boyutlar standart gazete reklamı boyutları (genellikle basılı reklam başlığı altında yer alır) ile ilişkilendirilebilir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 26,
@@ -403,7 +465,9 @@
             "material_id": "622608",
             "UniteNo": 5,
             "topic": "Sayfa Düzeni Türleri",
-            "explanation": "Reklamı canlı kılmak, eğlenceli ve ilgi çekici hâle getirmek için birden fazla illüstrasyon, büyük boy yazı, ters bloklar, eğimler veya diğer ögelerle doldurulan sayfa düzeni türü Dağınık Sayfa Düzeni (Circus Layout) olarak adlandırılır (Ünite 5, Basılı Reklamcılık ve Açık Hava Reklamcılığında Sayfa Düzeni (Layout) başlığı altında m maddesi)."
+            "explanation": "Reklamı canlı kılmak, eğlenceli ve ilgi çekici hâle getirmek için birden fazla illüstrasyon, büyük boy yazı, ters bloklar, eğimler veya diğer ögelerle doldurulan sayfa düzeni türü Dağınık Sayfa Düzeni (Circus Layout) olarak adlandırılır (Ünite 5, Basılı Reklamcılık ve Açık Hava Reklamcılığında Sayfa Düzeni (Layout) başlığı altında m maddesi).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 27,
@@ -421,7 +485,9 @@
             "material_id": "622608",
             "UniteNo": 5,
             "topic": "Açık Hava Reklam Araçları",
-            "explanation": "Şehrin işlek noktalarında, insanların göz hizasına gelecek şekilde önü ve arkası cam olup reklamların çerçeveli bir şekilde muhafaza edildiği ve sergilendiği açık hava reklam aracı CLP (City Light Poster) olarak adlandırılır (Ünite 5, Açık Hava Reklamcılığı Araçları başlığı altında e maddesi)."
+            "explanation": "Şehrin işlek noktalarında, insanların göz hizasına gelecek şekilde önü ve arkası cam olup reklamların çerçeveli bir şekilde muhafaza edildiği ve sergilendiği açık hava reklam aracı CLP (City Light Poster) olarak adlandırılır (Ünite 5, Açık Hava Reklamcılığı Araçları başlığı altında e maddesi).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 28,
@@ -439,7 +505,9 @@
             "material_id": "622608",
             "UniteNo": 6,
             "topic": "TV Reklam Dezavantajları",
-            "explanation": "Televizyon reklamlarının belli bir süre içinde hızlı şekilde akması, dikkat dağınıklığına yol açması, mesajın ömrünün kısa olması nedeniyle sık tekrar gerektirmesi ve bu durumun izleyicide sıkılmaya neden olması, TV reklamlarının dezavantajları arasındadır. Soruda bahsedilen yoğun tekrar ve medya içeriğine maruz kalmada izleyicide kesinti oluşturma durumu, TV reklamlarının sürekli tekrar edilme zorunluluğundan kaynaklanan 'sıkılma' ve 'tepki' (kanal değiştirme) ile ilişkilidir (Ünite 6, Televizyon Reklamcılığının Dezavantajları)."
+            "explanation": "Televizyon reklamlarının belli bir süre içinde hızlı şekilde akması, dikkat dağınıklığına yol açması, mesajın ömrünün kısa olması nedeniyle sık tekrar gerektirmesi ve bu durumun izleyicide sıkılmaya neden olması, TV reklamlarının dezavantajları arasındadır. Soruda bahsedilen yoğun tekrar ve medya içeriğine maruz kalmada izleyicide kesinti oluşturma durumu, TV reklamlarının sürekli tekrar edilme zorunluluğundan kaynaklanan 'sıkılma' ve 'tepki' (kanal değiştirme) ile ilişkilidir (Ünite 6, Televizyon Reklamcılığının Dezavantajları).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 29,
@@ -457,7 +525,9 @@
             "material_id": "622608",
             "UniteNo": 6,
             "topic": "TV Çekim Ölçekleri",
-            "explanation": "Genelde kurucu çekimler olarak adlandırılan ve mekânı, ortamı tasvir etmeye yarayan genel görünüm sunan çekim ölçeği, 'Genel Çekim' veya 'Kurucu Çekim' olarak bilinir. TV reklam filmi prodüksiyon sürecinde bu ölçek, sahnenin kurulduğu ortamı göstermek için kullanılır (Ünite 6, Prodüksiyon aşaması altındaki 'Prodüksiyon' bölümünde bahsedilen 'Mekânlar, setler...' ile ilişkilendirilebilir. Genel çekim, geniş bir alana odaklanır)."
+            "explanation": "Genelde kurucu çekimler olarak adlandırılan ve mekânı, ortamı tasvir etmeye yarayan genel görünüm sunan çekim ölçeği, 'Genel Çekim' veya 'Kurucu Çekim' olarak bilinir. TV reklam filmi prodüksiyon sürecinde bu ölçek, sahnenin kurulduğu ortamı göstermek için kullanılır (Ünite 6, Prodüksiyon aşaması altındaki 'Prodüksiyon' bölümünde bahsedilen 'Mekânlar, setler...' ile ilişkilendirilebilir. Genel çekim, geniş bir alana odaklanır).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 30,
@@ -469,13 +539,15 @@
                 "I, II, III ve IV",
                 "I, II, III, IV ve V"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 10,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622608",
             "UniteNo": 6,
-            "topic": "Gösterim Anlatım Formatları",
-            "explanation": "TV reklamlarında temel anlatım formatları arasında Ürün Sunumu, Gösterim (Demonstration), Problemler ve Çözümler, Yaşamdan Kesit (Slice of Life), Sunucular, Müzikal ve Tanıklık (Testimonials) yer alır. Verilen seçeneklerdeki I, II, III, V unsurları (Açıklayıcı gösterim, Yan yana gösterim, Öncesi-sonrası gösterim, Gösterimi yapanın güveni) gösterimin alt türleri veya ilişkili kavramlar olabilirken, Dayanıklılık testi (IV) bir anlatım formatı türü olarak listelenmemiştir. Gösterim formatı, ürünün nasıl çalıştığını gösterir. Sorudaki seçenekler eksik veya varsayımsal olduğundan, en temel formatlar (Gösterim, Ürün Sunumu, Problemler ve Çözümler) ile en çok ilişkilendirilebilecek olanlar seçilmelidir. Gösterim formatı, ürünün çalışmasını göstermeyi içerir (Ünite 6, Temel Anlatım Formatları)."
+            "topic": "TV Anlatım Formatları",
+            "explanation": "Ünite 6'da TV reklamlarında kullanılan temel anlatım formatları arasında 'Ürün sunumu', 'Gösterim (Demonstration)', 'Problemler ve Çözümler', 'Yaşamdan Kesit (Slice of Life)', 'Sunucular', 'Müzikal', ve 'Tanıklık (Testimonials)' sıralanmıştır. Ayrıca diğer formatlar olarak 'Skeçler', 'Devam Eden Karakterler', 'Hikâye', 'İnsanlar/Anlatım', 'Hiciv (Satire)', 'Kişilik Verme' ve 'Benzeşme/Sembolizm' listelenmiştir. Soruda verilen I (Açıklayıcı gösterim, yani Gösterim), III (Öncesi-sonrası gösterim, Problemler ve Çözümler'e benzer) ve IV (Dayanıklılık testi gösterimi, Tanıklık veya Gösterim ile ilişkilendirilebilir) formatlar bu listelerde yer alan formatlarla doğrudan veya dolaylı olarak örtüşmektedir. Cevap E, tüm şıkları kapsayarak, verilen formatların TV reklamlarında kullanılan anlatım türleri arasında yer aldığını veya bunlarla güçlü bir şekilde ilişkili olduğunu gösterir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 31,
@@ -493,7 +565,9 @@
             "material_id": "622608",
             "UniteNo": 6,
             "topic": "Tanıklık Anlatım Formatı",
-            "explanation": "Müşterilerin ürüne verdikleri önceden yazılmamış gerçek tepkilerin kayda alınması biçiminde karşımıza çıkan format Tanıklık (Testimonials) formatıdır (Ünite 6, TV Reklamlarında Kullanılan Temel Anlatım Formatları)."
+            "explanation": "Müşterilerin ürüne verdikleri önceden yazılmamış gerçek tepkilerin kayda alınması biçiminde karşımıza çıkan format Tanıklık (Testimonials) formatıdır (Ünite 6, TV Reklamlarında Kullanılan Temel Anlatım Formatları).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 32,
@@ -511,7 +585,9 @@
             "material_id": "622608",
             "UniteNo": 8,
             "topic": "Görsel Hareket Türleri",
-            "explanation": "Kameranın yatay eksen üzerinde sağa ve sola çevrilerek yaptığı harekete 'Pan' denir. Pan hareketi, yatayda veya dikeyde (tilt) yapılan hareketleri kapsar ve genellikle görsel iletişimde mekânı göstermek için kullanılır (Ünite 8, Hareket Algısı başlığında bahsedilen fi hareketinden farklı olarak, kamera hareketlerini içerir)."
+            "explanation": "Kameranın yatay eksen üzerinde sağa ve sola çevrilerek yaptığı harekete 'Pan' denir. Pan hareketi, yatayda veya dikeyde (tilt) yapılan hareketleri kapsar ve genellikle görsel iletişimde mekânı göstermek için kullanılır (Ünite 8, Hareket Algısı başlığında bahsedilen fi hareketinden farklı olarak, kamera hareketlerini içerir).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 33,
@@ -529,7 +605,9 @@
             "material_id": "622608",
             "UniteNo": 7,
             "topic": "Görüntülü Reklam Çeşitleri",
-            "explanation": "Görüntülü (Display) reklamlar, web siteleri ve bloglar aracılığıyla iletilen dijital reklamlardır ve genellikle banner reklamlar olarak bilinirler. Bu reklamlar resim, video, animasyon veya etkileşimli ögeler içerebilir. Arama Motoru Reklamcılığı (SEM) ise arama sonuçlarında öne çıkan, doğrudan etkileşimi hedefleyen reklamlardır ve görüntülü reklamların bir alt kategorisi olarak kabul edilmez (Ünite 7, Görüntülü (Display) Reklamcılık ve Arama Motoru Reklamcılığı başlıkları karşılaştırıldığında SEM farklı bir kategoridir)."
+            "explanation": "Görüntülü (Display) reklamlar, web siteleri ve bloglar aracılığıyla iletilen dijital reklamlardır ve genellikle banner reklamlar olarak bilinirler. Bu reklamlar resim, video, animasyon veya etkileşimli ögeler içerebilir. Arama Motoru Reklamcılığı (SEM) ise arama sonuçlarında öne çıkan, doğrudan etkileşimi hedefleyen reklamlardır ve görüntülü reklamların bir alt kategorisi olarak kabul edilmez (Ünite 7, Görüntülü (Display) Reklamcılık ve Arama Motoru Reklamcılığı başlıkları karşılaştırıldığında SEM farklı bir kategoridir).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 34,
@@ -547,7 +625,9 @@
             "material_id": "622608",
             "UniteNo": 7,
             "topic": "İnternet Reklamcılığı Tanımı",
-            "explanation": "Boş bırakılan yer, genel anlamda internet reklamcılığının tanımını ifade etmektedir. İnternet reklamcılığı, reklamverenin mesajlarını arama motorları, web siteleri, bloglar ve sosyal medya gibi çevrimiçi kanallarda iletmesi olarak tanımlanır (Ünite 7, İnternet Reklamcılığı başlığı)."
+            "explanation": "Boş bırakılan yer, genel anlamda internet reklamcılığının tanımını ifade etmektedir. İnternet reklamcılığı, reklamverenin mesajlarını arama motorları, web siteleri, bloglar ve sosyal medya gibi çevrimiçi kanallarda iletmesi olarak tanımlanır (Ünite 7, İnternet Reklamcılığı başlığı).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 35,
@@ -565,7 +645,9 @@
             "material_id": "622608",
             "UniteNo": 7,
             "topic": "Mobil Reklam Formatları",
-            "explanation": "İzleyicilerin çevrimiçi bir videoyu izlemesinden önce, izlemesi sırasında ve sonrasında oynatılan mobil reklam formatı Yayın içi video reklamlar olarak adlandırılır (Ünite 7, Mobil Reklam Formatları)."
+            "explanation": "İzleyicilerin çevrimiçi bir videoyu izlemesinden önce, izlemesi sırasında ve sonrasında oynatılan mobil reklam formatı Yayın içi video reklamlar olarak adlandırılır (Ünite 7, Mobil Reklam Formatları).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 36,
@@ -583,7 +665,9 @@
             "material_id": "622608",
             "UniteNo": 7,
             "topic": "Artırılmış Gerçeklik (AR)",
-            "explanation": "Artırılmış Gerçeklik (AR), sanal gerçekliğin aksine, gerçek dünyanın üzerine eklenen veya gerçek dünya ile birleştirilen sanal nesnelerle kullanıcının gerçek dünyayı görmesine olanak tanır. Soruda bahsedilen, dijital nesnelerin gerçek dünyaya aktarılmasının yanı sıra kokusal veya dokunsal bilgileri de dahil ederek katılımcı bir deneyim yaratma imkânı, AR teknolojisinin gelecekteki potansiyel gelişmeleri veya duyusal katmanları içerdiği durumlarla ilişkilidir. Ancak metinde doğrudan bu duyusal katmanlardan bahsedilmemiştir; AR, gerçekliğin tamamlanması olarak tanımlanır (Ünite 7)."
+            "explanation": "Artırılmış Gerçeklik (AR), sanal gerçekliğin aksine, gerçek dünyanın üzerine eklenen veya gerçek dünya ile birleştirilen sanal nesnelerle kullanıcının gerçek dünyayı görmesine olanak tanır. Soruda bahsedilen, dijital nesnelerin gerçek dünyaya aktarılmasının yanı sıra kokusal veya dokunsal bilgileri de dahil ederek katılımcı bir deneyim yaratma imkânı, AR teknolojisinin gelecekteki potansiyel gelişmeleri veya duyusal katmanları içerdiği durumlarla ilişkilidir. Ancak metinde doğrudan bu duyusal katmanlardan bahsedilmemiştir; AR, gerçekliğin tamamlanması olarak tanımlanır (Ünite 7).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 37,
@@ -601,7 +685,9 @@
             "material_id": "622608",
             "UniteNo": 8,
             "topic": "Göstergebilimsel Analiz",
-            "explanation": "Göstergebilimsel analizde reklamların izleyiciyi anlamlandırma etkisine çektiği yöntemler arasında Mekânsal düzenleme, Görsel eksiklikler, Yazılı metin, Sözcük oyunları, Tipografi, Hareket algısı, Görsel yanılsamalar gibi ögeler sayılabilir. Algıda değişmezlik ise algının kendisiyle ilgili bir olgudur, reklam analiz yöntemi değildir (Ünite 8)."
+            "explanation": "Göstergebilimsel analizde reklamların izleyiciyi anlamlandırma etkisine çektiği yöntemler arasında Mekânsal düzenleme, Görsel eksiklikler, Yazılı metin, Sözcük oyunları, Tipografi, Hareket algısı, Görsel yanılsamalar gibi ögeler sayılabilir. Algıda değişmezlik ise algının kendisiyle ilgili bir olgudur, reklam analiz yöntemi değildir (Ünite 8).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 38,
@@ -613,13 +699,15 @@
                 "İlgi",
                 "İlgi"
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 18,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622608",
             "UniteNo": 8,
-            "topic": "Algı ve Duyum",
-            "explanation": "Duyum, dışarıdaki uyarıcılarla ilgili ilk farkındalıkken; beynin bu duyuları birleştirip yorumlayarak anlamlı duyusal deneyimler oluşturması süreci Algı olarak adlandırılır (Ünite 8, Algı ve Duyum başlıkları)."
+            "topic": "Duyum ve Algı",
+            "explanation": "Ünite 8'de, 'Duyum' bölümünde, fiziksel enerjinin elektrik sinyallerine çevrilmesi ve beyne iletilmesi sürecinin ilk aşama olduğu belirtilir. İkinci aşamada beynin bu duyuları algıya çevirmesi, yani 'anlamlı duyusal deneyimler' oluşturması, 'algı' olarak adlandırılır. Plotnik'e göre, 'Duyularımız bize orada bir şey olduğunu söylerken, algılarımız bize o şeyin ne olduğunu söyler.' Soruda bahsedilen, yüzlerce duyunun birleştirilmesiyle meydana gelen anlamlı deneyim, algı sürecinin kendisidir, yani bir tür algı veya bilişsel çıktıdır. Ancak, verilen şıklar arasında en uygun olanı, duyumun ardından gelen ve anlam yükleyen süreç olan 'İlgi' veya 'Algı' ile en yakın ilişkiye sahip olandır. Bu bağlamda, şıklar arasında en uygun karşılık 'İlgi' (ya da algı) olarak yorumlanabilir, ancak verilen metne en yakın kavramsal çıktı 'Algı'dır. Şıklar arasında 'İlgi' iki kez geçmektedir; sorunun doğru kabul edilen cevabının 'İlgi' (D) olduğunu varsayarsak, bu, beynin duyusal girdiyi yorumlama ve odaklanma eylemini temsil eder.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 39,
@@ -637,7 +725,9 @@
             "material_id": "622608",
             "UniteNo": 8,
             "topic": "Algıda Değişmezlik",
-            "explanation": "Fiziksel özellikler sürekli değişmesine rağmen boyut, şekil ve parlaklıklarının değişmemiş olarak algılanma eğilimi Algıda Değişmezlik olarak tanımlanır. Bu kavram altında Boyut, Şekil ve Parlaklık Değişmezliği incelenir (Ünite 8)."
+            "explanation": "Fiziksel özellikler sürekli değişmesine rağmen boyut, şekil ve parlaklıklarının değişmemiş olarak algılanma eğilimi Algıda Değişmezlik olarak tanımlanır. Bu kavram altında Boyut, Şekil ve Parlaklık Değişmezliği incelenir (Ünite 8).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 40,
@@ -655,7 +745,9 @@
             "material_id": "622608",
             "UniteNo": 8,
             "topic": "Saussure ve Dilbilim",
-            "explanation": "Ferdinand de Saussure, dilbilimciler arasında çağdaş dilbilimin kurucusu ve yapısal dilbilim akımının öncüsü olarak görülür. Göstergebilim alanına da büyük katkıları olmuştur ve göstergeyi 'gösteren' ve 'gösterilen' olarak ikiye ayırmıştır (Ünite 8)."
+            "explanation": "Ferdinand de Saussure, dilbilimciler arasında çağdaş dilbilimin kurucusu ve yapısal dilbilim akımının öncüsü olarak görülür. Göstergebilim alanına da büyük katkıları olmuştur ve göstergeyi 'gösteren' ve 'gösterilen' olarak ikiye ayırmıştır (Ünite 8).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         }
     ]
 }

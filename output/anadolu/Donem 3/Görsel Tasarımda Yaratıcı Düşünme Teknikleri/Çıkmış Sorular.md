@@ -1,15 +1,5 @@
 # Görsel Tasarımda Yaratıcı Düşünme Teknikleri - Çıkmış Sorular
 
-## Ünite 0
-
-### İptal Edildi
-
-1. Bu soru iptal edilmiştir.
-
-    > **Açıklama:** Soru iptal edilmiştir.
-
-    <hr />
-
 ## Ünite 1
 
 ### Kişilik Özellikleri
@@ -24,7 +14,7 @@
     > **Açıklama:** Metinde, Karabey ve Yürümezoğlu'na göre yaratıcılık kuramlarında Gestaltçı yaklaşımın, sorunları bir bütünlük içinde algılama ve çözme sürecini içerdiği belirtilmektedir. Ancak soruda bahsedilen 'güvenilir ve yardımsever olma' gibi özellikler daha çok insanı merkeze alan Hümanistik yaklaşımla ilişkilidir. Ancak metinde spesifik olarak 'güvenilir ve yardımsever olma'nın hangi yaklaşımın özelliği olduğu açıkça belirtilmemiştir. Ancak Hümanistik yaklaşım, bireyin kendi kendini gerçekleştirme potansiyeline odaklanır.
 
     <hr />
-1. Aşağıdakilerden hangisi John M. Digman'ın kişilik özelliklerinden biri değildir?
+1. Aşağıdakilerden hangisi John M. Digman'ın kişilik özelliklerinden biri değildir? *(2 kez soruldu)*
     - A-) Uyumluluk
     - B-) Açıklık
     - C-) Nevrotizm
@@ -32,16 +22,6 @@
     - E-) Öz denetim
 
     > **Açıklama:** John M. Digman'ın beş tür kişilik özelliği Açıklık, Öz denetim, Dışa dönüklük, Uyumluluk ve Nevrotizm'dir. Dolayısıyla 'Aracılık' bu listede yer almamaktadır (Ünite 1).
-
-    <hr />
-1. Aşağıdakilerden hangisi John M. Digman'ın kişilik özelliklerinden biri değildir?
-    - A-) Açıklık
-    - **Cevap B-) İçe dönüklük**
-    - C-) Uyumluluk
-    - D-) Öz denetim
-    - E-) Nevrotizm
-
-    > **Açıklama:** John M. Digman'ın beş tür kişilik özelliği Açıklık, Öz denetim, Dışa dönüklük, Uyumluluk ve Nevrotizm olarak ifade edilmiştir. Soruda verilen seçenekler arasında bu beş özellikten biri olmayan bir şıkkın işaretlenmesi gerekir. Metinde "Kişiliğin yaratıcılık bağlamında ölçülmesinin ana yollarından biri, John M. Digman'ın beş tür kişilik özellikleridir. Bunlar: Açıklık, Öz denetim, Dışa dönüklük, Uyumluluk ve Nevrotizm şeklinde ifade edilmiştir." denilmektedir. Doğru cevap, bu listede yer almayan bir seçenektir.
 
     <hr />
 
@@ -73,7 +53,7 @@
 
 ### Yaratıcı Kişilik Özellikleri
 
-1. Aşağıdakilerden hangisi yaratıcı bireylerin yaratıcı kişilik özelliklerinden biridir?
+1. Aşağıdakilerden hangisi yaratıcı bireylerin yaratıcı kişilik özelliklerinden biridir? *(2 kez soruldu)*
     - A-) Dış kontrol odağına sahip olma
     - B-) Tedbirli olma
     - C-) Duyguları reddetme
@@ -83,20 +63,10 @@
     > **Açıklama:** Metinde yaratıcı bireyin özelliklerinden biri olarak 'Yaratıcı birey çevresinin bilincindedir, önceden seçmeden bilgiyi alır ve kabul eder. Gerçekliği indirgemekten kaçınır. Tam tersine kulak ile görür, ağzı ile hisseder, kalbi ile dinler.' ifadesi geçmektedir. Bu, duyusal algıların normalden farklı şekilde kullanılmasına işaret eder.
 
     <hr />
-1. Aşağıdakilerden hangisi yaratıcı bireylerin yaratıcı kişilik özelliklerinden biridir?
-    - A-) Belirsizliklere karşı sabırsız davranma
-    - B-) Dış kontrol duygusuna sahip olma
-    - C-) Duyguları reddetme
-    - **Cevap D-) Benzer, stereotip özellikleri reddetme**
-    - E-) Tedbirli olma
-
-    > **Açıklama:** Metinde Yaratıcı Bireylerin Yaratıcı Kişilik Özellikleri başlığı altında, "Yaratıcı birey çevresinin bilincindedir, önceden seçmeden bilgiyi alır ve kabul eder. Gerçekliği indirgemekten kaçınır. Tam tersine kulak ile görür, ağzı ile hisseder, kalbi ile dinler." ifadeleri yer almaktadır. Bu, yaratıcı bireylerin duyusal algılarının farklılığını gösterir.
-
-    <hr />
 
 ### Yaratıcılık Kuramları
 
-1. Her insan uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabilir, dolayısıyla insanı merkeze alan bir anlayışa sahiptir. Yukarıdaki bilgi yaratıcılığın hangi kuramsal temeli ile ilgilidir?
+1. Her insan uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabilir, dolayısıyla insanı merkeze alan bir anlayışa sahiptir. Yukarıdaki bilgi yaratıcılığın hangi kuramsal temeli ile ilgilidir? *(2 kez soruldu)*
     - **Cevap A-) Hümanistik yaklaşım**
     - B-) Bilişsel yaklaşım
     - C-) Psikoanalitik yaklaşım
@@ -106,7 +76,7 @@
     > **Açıklama:** Metinde, 'Hümanistik yaklaşım, (her insanın uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabileceğini, dolayısıyla insanı merkeze alan bir anlayış olması ile ilgilidir' bilgisi yer almaktadır. Bu, yaratıcılığın hümanistik kuramsal temeli ile ilgilidir.
 
     <hr />
-1. Her insan uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabilir, dolayısıyla insanı merkeze alan bir anlayışa sahiptir. Yukarıdaki ifade yaratıcılığın aşağıdaki kuramsal temellerinden hangisi ile ilgilidir?
+1. Her insan uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabilir, dolayısıyla insanı merkeze alan bir anlayışa sahiptir. Yukarıdaki ifade yaratıcılığın aşağıdaki kuramsal temellerinden hangisi ile ilgilidir? *(2 kez soruldu)*
     - A-) Bilişsel yaklaşım
     - B-) Gestaltçı yaklaşım
     - **Cevap C-) Hümanistik yaklaşım**
@@ -114,16 +84,6 @@
     - E-) Psikoanalitik yaklaşım
 
     > **Açıklama:** Metinde, "Hümanistik yaklaşım, (her insanın uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabileceğini, dolayısıyla insanı merkeze alan bir anlayış olması ile ilgilidir" şeklinde ifade edilmektedir. Bu tanım, yaratıcılığın kuramsal temellerinden Hümanistik yaklaşım ile ilgilidir.
-
-    <hr />
-1. Her insan uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabilir, dolayısıyla insanı merkeze alan bir anlayışa sahiptir. Yukarıdaki ifade yaratıcılığın aşağıdaki kuramsal temellerinden hangisi ile ilgilidir?
-    - A-) Karma yaklaşım
-    - B-) Gestaltçı yaklaşım
-    - C-) Bilişsel yaklaşım
-    - D-) Psikoanalitik yaklaşım
-    - **Cevap E-) Hümanistik yaklaşım**
-
-    > **Açıklama:** Her insanın uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabileceği anlayışı ve insanı merkeze alan bu yaklaşım, Hümanistik yaklaşımın tanımıdır (Ünite 1).
 
     <hr />
 1. Gardner'ın Çoklu Zekâ Kuramına göre yapılandırılan yaratıcılık kuramı aşağıdakilerden hangisidir?
@@ -136,20 +96,10 @@
     > **Açıklama:** Gardner'ın Çoklu Zekâ Kuramına göre yapılandırılan yaratıcılık kuramı, Ünite 1'de Karabey ve Yürümezoğlu'na (2015) göre ifade edilen kuramlardan biridir (Ünite 1).
 
     <hr />
-1. Her insan uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabilir, dolayısıyla insanı merkeze alan bir anlayışa sahiptir. Yukarıdaki bilgi yaratıcılığın hangi kuramsal temeli ile ilgilidir?
-    - A-) Psikoanalitik yaklaşım
-    - **Cevap B-) Hümanistik yaklaşım**
-    - C-) Bilişsel yaklaşım
-    - D-) Gestaltçı yaklaşım
-    - E-) Karma yaklaşım
-
-    > **Açıklama:** Metinde, "Hümanistik yaklaşım, (her insanın uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabileceğini, dolayısıyla insanı merkeze alan bir anlayış olması ile ilgilidir." ifadesi yer almaktadır. Bu ifade, yaratıcılığın Hümanistik kuramsal temeli ile ilgilidir.
-
-    <hr />
 
 ### Yaratıcılık Mitleri
 
-1. Aşağıdakilerden hangisi yaratıcı mitlere bir örnektir?
+1. Aşağıdakilerden hangisi yaratıcı mitlere bir örnektir? *(2 kez soruldu)*
     - **Cevap A-) Yaratıcılık herkeste olmayan özel bir beceridir.**
     - B-) Yaratıcılık uygun koşullarda geliştirilebilen ve herkeste olan farklı düzeylerde bir özelliktir.
     - C-) Sosyal refah ve motivasyon yaratıcılık gelişimine olumlu katkı sağlar.
@@ -161,12 +111,12 @@
     <hr />
 1. Aşağıdakilerden hangisi yaratıcı mitlerden biri değildir?
     - A-) Bazı kısıtlamalar yaratıcılığı öldürür.
-    - **Cevap B-) Yaratıcılık genetiktir, geliştirilemez.**
-    - C-) Yaratıcılık herkeste olan bir beceridir.
+    - B-) Yaratıcılık genetiktir, geliştirilemez.
+    - **Cevap C-) Yaratıcılık herkeste olan bir beceridir.**
     - D-) Yaratıcılık anlık parlak fikirlerle ortaya çıkar.
     - E-) Yaratıcılık sadece sanatsal alanlarla ilgilidir.
 
-    > **Açıklama:** Yaratıcılık mitleri, yaratıcılıkla ilgili bilimsel kanıtlarla desteklenmeyen popüler inançlardır. Metinde geçen mitler şunlardır: 1. Yaratıcılık sadece sanatsal alanlarla ilgilidir. 2. Yaratıcılık genetiktir, geliştirilemez. 3. Yaratıcılık herkeste olmayan özel bir beceridir. 4. Bazı kısıtlamalar yaratıcılığı öldürür. 5. Yaratıcı fikirler kesinlikle orijinal olmalıdır. 6. Yaratıcılık anlık parlak fikirlerle ortaya çıkar. Bu seçenekler arasında, 'Kısıtlamalar yaratıcılığı geliştirir' ifadesi mitlerin içinde yer almamaktadır; aksine, mitlerden biri kısıtlamaların yaratıcılığı öldürdüğüdür. Bu nedenle, kısıtlamaların yaratıcılığı geliştirdiği iddiası bir mit olarak listelenmemiştir.
+    > **Açıklama:** Ünite 1'deki 'Yaratıcılık Mitleri' başlığına göre, yaratıcılığın genetik olduğu ve geliştirilemeyeceği, yaratıcılığın herkeste olmayan özel bir beceri olduğu, anlık parlak fikirlerle ortaya çıktığı ve sadece sanatsal alanlarla ilgili olduğu gibi yanlış inançlar (mitler) mevcuttur. Ancak, C şıkkındaki 'Yaratıcılık herkeste olan bir beceridir' ifadesi, yaratıcılık mitlerinin aksine, yaratıcılığın herkesde bir ölçüde var olduğu yönündeki yaygın kabul gören ancak mit olarak ele alınmayan bir düşünceyi ifade etse de, mitler genellikle yaratıcılığın sınırlı kişilere ait olduğunu iddia eder. Mitler arasında 'Yaratıcılık genetiktir, geliştirilemez' ve 'Yaratıcılık herkeste olmayan özel bir beceridir' gibi ifadeler mevcuttur. Sorunun doğru kabul edilen şıkkı C olduğundan, bu ifadenin (Yaratıcılık herkeste olan bir beceridir) yaratıcılık mitlerinden biri olmadığı kabul edilmektedir, çünkü mitler yaratıcılığın nadir olduğunu iddia eder.
 
     <hr />
 1. Aşağıdakilerden hangisi yaratıcı mitlere bir örnekdür?<br />A) Sosyal refah ve motivasyon yaratıcılık gelişimine olumlu katkı sağlar.<br />B) Yaratıcı fikirlerin başlangıçta orijinal olması beklenemez.<br />C) Yaratıcılık herkeste olmayan özel bir beceridir.<br />D) Yaratıcılık, sanatın dışındaki bütün alanlar için geçerlidir.<br />E) Yaratıcılık uygun koşullarda geliştirilebilen özelliktir.
@@ -177,16 +127,6 @@
     - E-) Yaratıcılık uygun koşullarda geliştirilebilen özelliktir.
 
     > **Açıklama:** Metinde (Ünite 1, Sayfa 2, Yaratıcılık Mitleri başlığı altında) yaratıcılık mitleri listelenmiştir. Bu mitlerden biri, "3. Yaratıcılık herkeste olmayan özel bir beceridir" ifadesidir. Diğer şıklar ise mit olmaktan ziyade yaratıcılıkla ilgili doğru veya geliştirilebilir yönleri temsil eder: A ve E, yaratıcılığın geliştirilebileceği fikrini destekler; B, yaratıcı fikirlerin orijinal olması gerektiği mitinin reddidir; D, yaratıcılığın sanatsal alanlarla sınırlı olmadığı fikrini destekler.
-
-    <hr />
-1. Aşağıdakilerden hangisi yaratıcı mitlere bir örnektir?
-    - A-) Yaratıcılık, sanatın dışındaki bütün alanlar için geçerlidir.
-    - **Cevap B-) Yaratıcılık herkeste olmayan özel bir beceridir.**
-    - C-) Yaratıcı fikirlerin başlangıçta orijinal olması beklenemez.
-    - D-) Yaratıcılık uygun koşullarda geliştirilebilen özelliktir.
-    - E-) Sosyal refah ve motivasyon yaratıcılık gelişimine olumlu katkı sağlar.
-
-    > **Açıklama:** Metinde Yaratıcılık Mitleri başlığı altında sayılanlardan biri: "Yaratıcılık genetiktir, geliştirilemez." Bu ifade, yaratıcılığın doğuştan geldiği ve sonradan öğrenilemeyeceği yönündeki popüler inancı temsil eder ve bir mittir. (Sayfa 2)
 
     <hr />
 
@@ -216,22 +156,9 @@
 
     <hr />
 
-### Zekâ Türleri ve Yaratıcılık
-
-1. Akademik problem çözme ve hesaplamalarla yakından uyumlu olan zekâ türü aşağıdakilerden hangisidir?
-    - **Cevap A-) Analitik zekâ**
-    - B-) Duygusal zekâ
-    - C-) Pratik zekâ
-    - D-) Sözel zekâ
-    - E-) Yakınsak zekâ
-
-    > **Açıklama:** Robert Sternberg'in zekâ kuramına göre zekânın üç yönü vardır: analitik zekâ, yaratıcı zekâ ve pratik zekâ. Metinde, problem çözme ve hesaplamalarla yakından uyumlu olan zekâ türünün analitik zekâ olduğu belirtilmektedir (Pratik zekâ, yaratıcı zekâ ve analitik zekâ olmak üzere zekânın üç yönüne odaklanmıştır). Analitik düşünme, problem çözme ve hesaplama gibi mantıksal süreçlerle ilgilidir.
-
-    <hr />
-
 ### Zekâ ve Yaratıcılık
 
-1. Akademik problem çözme ve hesaplamalarla yakından uyumlu olan zekâ türü aşağıdakilerden hangisidir?
+1. Akademik problem çözme ve hesaplamalarla yakından uyumlu olan zekâ türü aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Yakınsak zekâ
     - B-) Mantıksal zekâ
     - **Cevap C-) Analitik zekâ**
@@ -244,16 +171,6 @@
 
 ### İlk İlkeler Düşüncesi
 
-1. Bir problem veya senaryo hakkında bilindiği düşünülen her varsayımı, aktif olarak sorgulama ve ardından sıfırdan yeni bilgi ve çözümler yaratma pratiği aşağıdakilerden hangisi ile açıklanır?
-    - A-) Yaratıcı düşünme
-    - **Cevap B-) İlk ilkeler düşüncesi**
-    - C-) Eleştirel düşünme
-    - D-) Biçimsel düşünme
-    - E-) Normatif düşünme
-
-    > **Açıklama:** Bir sorunun çözümünü ev olarak hayal edip, evin temelini oluşturan varsayımları sorgulama ve temel gerçeklere ulaşmak için sistematik sorgulama yapma pratiği, 'İlk İlkeler Düşüncesi' olarak tanımlanmaktadır. Elon Musk'ın da benimsediği bu yaklaşım, zihinsel ön yargılardan kurtulmayı hedefler.
-
-    <hr />
 1. Sürü zihniyetinden kurtulmaya, dışında düşünmeye ve tanıdık sorunlara yepyeni çözümler üretmeye yardımcı olacak güçlü bir yoldur. Temel gerçeklere ulaşmak için kullanılır. Yukarıda anlatılan düşünme türü aşağıdakilerden hangisidir?
     - A-) Yaratıcı düşünme
     - B-) Iraksak düşünce
@@ -264,48 +181,12 @@
     > **Açıklama:** Bloom'a göre, "İlk ilkeler düşüncesi, bu sürü zihniyetinden kurtulmanıza, alışılmışın dışında düşünmenize ve tanıdık sorunlara yepyeni çözümler üretmenize yardımcı olacak güçlü bir yoldur." Bu, temel gerçeklere ulaşmak için sistematik sorgulamayı kullanır (Ünite 1).
 
     <hr />
-1. Bir problem veya senaryo hakkında bilindiği düşünülen her varsayımı aktif olarak sorgulama ve ardından sıfırdan yeni bilgi ve çözümler yaratma pratiği aşağıdakilerden hangisi ile açıklanır?
-    - A-) Normatif düşünme
-    - B-) Biçimsel düşünme
-    - C-) İlk ilkeler düşüncesi
-    - D-) Yaratıcı düşünme
-    - **Cevap E-) Eleştirel düşünme**
-
-    > **Açıklama:** Metinde, "İlk ilkeler düşüncesi, bu sürü zihniyetinden kurtulmanıza, alışılmışın dışında düşünmenize ve tanıdık sorunlara yepyeni çözümler üretmenize yardımcı olacak güçlü bir yoldur. Ancak ilk ilkeleri oluşturmanın belirlenmiş keskin bir yolu yoktur. Temel gerçeklere ulaşmak için sistematik sorgulamayı kullandığımız bir teknik ve yöntemdir." ifadesi yer almaktadır. Bu, soruda bahsedilen, bilinen varsayımları sorgulama pratiğini açıklamaktadır.
-
-    <hr />
-
-### İlkesel Düşünme
-
-1. Bir problem veya senaryo hakkında bilindiği düşünülen her varsayımı aktif olarak sorgulama ve ardından sıfırdan yeni bilgi ve çözümler yaratma pratiği aşağıdakilerden hangisi ile açıklanır?
-    - **Cevap A-) İlk ilkeler düşüncesi**
-    - B-) Yaratıcı düşünme
-    - C-) Eleştirel düşünme
-    - D-) Biçimsel düşünme
-    - E-) Normatif düşünme
-
-    > **Açıklama:** Soruda bahsedilen, mevcut varsayımları sorgulama ve yeni bilgi/çözümler yaratma pratiği, Albert Einstein'ın da kullandığı ve Bloom'un (2021) bahsettiği "İlkesel Düşünme" (First Principles Thinking) ile açıklanır. İlkesel düşünme, bir sorunu temel parçalara ayırma ve daha sonra hepsini daha etkili bir şekilde bir araya getirme (deconstruction/yeniden yapılandırma) döngüsüdür ve zihinsel ön yargıların kırılmasını sağlar.
-
-    <hr />
 
 ## Ünite 2
 
-### Eğitim Yaklaşımları
-
-1. Öğrencilerin fen bilimleri, teknoloji, mühendislik ve matematik derslerinde öğrendikleri bilgileri bir bütünün parçaları olarak görmelerini sağlayan, dünyada birçok ülkenin öğretim programlarına dâhil ettiği eğitim yaklaşımı aşağıdakilerden hangisidir?
-    - **Cevap A-) STEM**
-    - B-) Yapılandırmacılık
-    - C-) Kuantum
-    - D-) Sosyalizasyon
-    - E-) Çoklu zekâ
-
-    > **Açıklama:** Metinde, 21. yüzyıl becerileri bağlamında, yaratıcı ve yenilikçi becerileri geliştirmeye teşvik etmek için eğitim stratejilerinin yeniden düşünülmesi gerektiği vurgulanmaktadır. Ayrıca, Yaratıcı Eğitim ve Problem Çözme başlığı altında, sanat eğitiminin eleştirel, özgün ve yaratıcı düşünme becerisi, öz güven, empati ve iş birliği geliştirmenin önemli bir aracı olduğu belirtilmektedir. Ancak soruda bahsedilen 'STEM/STEAM' yaklaşımı ile doğrudan eşleşen bir tanım bulunmamaktadır. STEM (Science, Technology, Engineering, Mathematics) dünyada yaygındır. Metinde sanat eğitiminin bilişsel ve sosyal becerileri geliştirdiği belirtilse de, sorunun bahsettiği spesifik çoklu disiplinli yapının en yakın karşılığı, yaratıcı düşünmeyi teşvik eden genel eğitim yaklaşımlarıdır. (Not: Soru muhtemelen STEM/STEAM eğitim yaklaşımını ima etmektedir. Metinde, sanat eğitiminin hem genel eğitim içinde yenilik ve gelişimi desteklediği belirtilmiştir.)
-
-    <hr />
-
 ### Eğitimde Yaratıcı Yaklaşımlar
 
-1. Öğrencilerin fen bilimleri, teknoloji, mühendislik ve matematik derslerinde öğrendikleri bilgileri bir bütünün parçaları olarak görmelerini sağlayan, dünyada birçok ülkenin öğretim programlarına dâhil ettiği eğitim yaklaşımı aşağıdakilerden hangisidir?
+1. Öğrencilerin fen bilimleri, teknoloji, mühendislik ve matematik derslerinde öğrendikleri bilgileri bir bütünün parçaları olarak görmelerini sağlayan, dünyada birçok ülkenin öğretim programlarına dâhil ettiği eğitim yaklaşımı aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Yapılandırmacılık
     - B-) Çoklu zeka
     - C-) Sosyalizasyon
@@ -329,35 +210,9 @@
 
     <hr />
 
-### Proaktif Kişiler
-
-1. Aşağıdakilerden hangisi proaktif kişilerin göstereceği davranışlardan biri değildir?
-    - A-) Çevrelerine örnek olurlar.
-    - **Cevap B-) Risk analizi yapmazlar.**
-    - C-) İnisiyatif almaktan çekinmezler.
-    - D-) Planlıdırlar.
-    - E-) Olayların öncesinde harekete geçerler.
-
-    > **Açıklama:** Metinde proaktif kişilerin olaylar karşısında sorumluluk ve inisiyatif aldıkları, olumsuz durumlara ve değişimlere tepkisiz kalamadıkları belirtilmektedir. Verilen seçenekler arasında, proaktif kişilerin olaylar karşısında inisiyatif almadığına dair bir ifade bulunmamaktadır; aksine inisiyatif aldıkları belirtilir. (Burada sorunun 'değildir' kısmına dikkat edilmelidir. Sunulan seçenekler olmadan kesin bir cevap verilemez, ancak genel tanım 'tepkisiz kalamamak' olduğu için, tepkisiz kalmak bir proaktif davranış değildir).
-
-    <hr />
-
-### Proaktif Kişilik
-
-1. Aşağıdakilerden hangisi proaktif kişilik özelliklerinden biridir?
-    - A-) Olumsuz durumlarda kontrollerini kaybetme
-    - **Cevap B-) Planlı olma**
-    - C-) Ancak ciddi sonuçlar ortaya çıktığında harekete geçme
-    - D-) İnisiyatif alma ve karar vermede çekimser davranma
-    - E-) Fiziki şartlardan etkilenme
-
-    > **Açıklama:** Ünite 2 metninde, "Proaktif kişiler olaylar karşısında sorumluluk ve inisiyatif alırlar. Olumsuz durumlara, değişimlere tepkisiz kalamazlar." şeklinde tanımlanmaktadır. Bu tanım, soruda bahsedilen proaktif kişilik özelliklerini doğrudan karşılamaktadır.
-
-    <hr />
-
 ### Proaktif Kişilik Özellikleri
 
-1. Aşağıdakilerden hangisi proaktif kişilerin göstereceği davranışlardan biri değildir?
+1. Aşağıdakilerden hangisi proaktif kişilerin göstereceği davranışlardan biri değildir? *(3 kez soruldu)*
     - A-) Planlıdırlar.
     - **Cevap B-) Risk analizi yapmazlar.**
     - C-) Çevrelerine örnek olurlar.
@@ -367,7 +222,7 @@
     > **Açıklama:** Proaktif kişilerin olaylar karşısında sorumluluk ve inisiyatif aldıkları belirtilmiştir. Metinde onların 'Olumsuz durumlara, değişimlere tepkisiz kalamazlar' şeklinde tanımlandığı görülür. Bu bağlamda, proaktif bir birey değişime tepkisiz kalmak yerine aktif olarak tepki verir ve çevreyi etkili bir şekilde değiştirmeye çalışır.
 
     <hr />
-1. Aşağıdakilerden hangisi proaktif kişilik özelliklerinden biridir?
+1. Aşağıdakilerden hangisi proaktif kişilik özelliklerinden biridir? *(2 kez soruldu)*
     - A-) Olumsuz anlarda kontrollerini kaybetme
     - **Cevap B-) Planlı olma**
     - C-) Fiziki şartlardan etkilenme
@@ -375,16 +230,6 @@
     - E-) İnisiyatif alma ve karar vermede çekimser davranma
 
     > **Açıklama:** Metinde proaktif kişilerin olaylar karşısında sorumluluk ve inisiyatif aldıkları, olumsuz durumlara ve değişimlere tepkisiz kalamadıkları ve çevreyi etkili bir şekilde değiştirme konusunda tutumsal ve davranışsal eğilime sahip oldukları belirtilmektedir.
-
-    <hr />
-1. Aşağıdakilerden hangisi proaktif kişilerin göstereceği davranışlardan biri değildir?
-    - A-) İnisiyatif almaktan çekinmezler.
-    - B-) Olayların öncesinde harekete geçerler.
-    - C-) Planlıdırlar.
-    - **Cevap D-) Risk analizi yapmazlar.**
-    - E-) Çevrelerine örnek olurlar.
-
-    > **Açıklama:** Ünite 2'de proaktif kişilerin olaylar karşısında sorumluluk ve inisiyatif aldıkları, olumsuz durumlara ve değişimlere tepkisiz kalamadıkları belirtilmektedir. Onların davranışları arasında durumu etkili bir şekilde değiştirme eğilimi bulunur. Verilen seçenekler arasında 'olumsuz durumlara tepkisiz kalma' proaktif bir davranış değil, tam tersine reaktif veya pasif bir davranıştır. Proaktif kişiler aksine değişimlere tepkisiz kalmazlar.
 
     <hr />
 1. Aşağıdakilerden hangisi proaktif kişinin göstereceği davranışlardan biri değildir?
@@ -400,7 +245,7 @@
 
 ### Yaratıcı Öğretmen Tutumu
 
-1. Aşağıdakilerden hangisi yaratıcı öğretmen tutumlarına bir örnektir?
+1. Aşağıdakilerden hangisi yaratıcı öğretmen tutumlarına bir örnektir? *(2 kez soruldu)*
     - A-) Aksilikleri hoş görmemek
     - B-) Bir model izlemek
     - C-) Doğru cevap gerektiren sorular sormak
@@ -410,27 +255,17 @@
     > **Açıklama:** Metinde yaratıcı öğretmen tutumunun bir örneği olarak, 'Yaratıcı öğretmen statü ya da güç için çalışmaz fakat kabul edilmeyi, dikkate alınmayı sever. Kendi kendisiyle barışık çalışır.' ifadesi yer almaktadır. Bu, öğretmenin kendi iç huzuruna ve kabul görmeye odaklandığını gösterir.
 
     <hr />
-1. Aşağıdakilerden hangisi yaratıcı öğretmen tutumlarına bir örnektir?
-    - A-) Doğru cevap gerektiren sorular sormak
-    - B-) Bir model izlemek
-    - C-) Taklide eğilim göstermek
-    - **Cevap D-) Açık ve sonlu tepkiler vermek**
-    - E-) Aksilikleri hoş görmemek
 
-    > **Açıklama:** Metinde yaratıcı öğretmen tutumunun bir özelliği olarak, yaratıcı anlayışı benimseyen bir okulda, geleneksel, dogma kurallar ile yetiştirilen çocukların hazır formu belirlenmiş biçimlere yönelip kopya veya taklit yöntemlerini izlemediği belirtilmektedir. Yaratıcı öğretmenler, yaratma özgürlüğüne önem verir ve otoriteye şirin görünmek amacıyla düşüncelerini değiştirmezler.
-
-    <hr />
-
-### Yazının İcadı ve Yaratıcı Dil
+### Yazının İcadı
 
 1. Piktogram ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?<br />A) Yazı sistemleri gelişmeden önce piktogramlar gelmiştir.<br />B) Piktografik sembollerle oluşturulan karakterler daha sonra harflere dönüşmüştür.<br />C) Bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eder.<br />D) Bir cümle oluşturmak için inşa edilmişlerdir.<br />E) Çok karmaşık sembollerdir.
     - A-) Yazı sistemleri gelişmeden önce piktogramlar gelmiştir.
     - B-) Piktografik sembollerle oluşturulan karakterler daha sonra harflere dönüşmüştür.
     - C-) Bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eder.
-    - **Cevap D-) Bir cümle oluşturmak için inşa edilmişlerdir.**
-    - E-) Çok karmaşık sembollerdir.
+    - D-) Bir cümle oluşturmak için inşa edilmişlerdir.
+    - **Cevap E-) Çok karmaşık sembollerdir.**
 
-    > **Açıklama:** Metinde (Ünite 2, Sayfa 1, Yazının İcadı ve Yaratıcı Dil başlığı altında) çivi yazısıyla ilgili olarak, ilk yazı karakterlerinin piktografik sembollerle oluşturulduğu, sonrasında harflere ve alfabeye dönüştüğü belirtilmektedir. Piktografların bir cümle oluşturmak için inşa edildiği bilgisi metinde yer almamaktadır; aksine, yazı alfabeden önce gelmiştir ve konuşulan dilin yazılı formdan önce evrimleştiği belirtilmiştir. Ayrıca piktografların karmaşık semboller olduğu bilgisi de çivi yazısının ilk halinin kil tabletler üzerine basitçe çizildiği (çiviye benzediği) bilgisiyle çelişebilir veya metinde doğrudan desteklenmezken, D seçeneği (Bir cümle oluşturmak için inşa edilmişlerdir) metindeki bilgilere göre en zayıf veya yanlış çıkarımdır.
+    > **Açıklama:** Ünite 2'deki 'Yazının İcadı ve Yaratıcı Dil' başlığına göre, piktografik sembollerle başlayan karakterlerin daha sonra harflere ve ardından alfabeye dönüştüğü belirtilmektedir. Piktogramlar, bir objeyi veya kavramı temsil eden sembollerdir. Ancak, bir cümle oluşturmak için inşa edilmiş oldukları veya çok karmaşık oldukları bilgisi metinde yer almamaktadır. Metinde, piktografik sembollerin harflere dönüştüğü belirtilir. Sorunun doğru kabul edilen şıkkı E (Çok karmaşık sembollerdir) olduğundan, piktogramların karmaşıklığı ile ilgili kesin bir bilgi metinde bulunmadığı için bu ifadenin yanlış olduğu varsayılır (veya metnin kapsamı dışında bir bilgi olarak kabul edilir).
 
     <hr />
 
@@ -451,7 +286,7 @@
 
 ### Gösterge Bilimi
 
-1. Bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eden çok basit semboller aşağıdaki kavramlardan hangisiyle adlandırılır?
+1. Bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eden çok basit semboller aşağıdaki kavramlardan hangisiyle adlandırılır? *(2 kez soruldu)*
     - **Cevap A-) Piktogram**
     - B-) Epigram
     - C-) Stem
@@ -490,7 +325,7 @@
 
 ### Karakter Sınıflandırmaları
 
-1. Aristokratlar, kral, yargıç, savaşçı gibi kişiler aşağıdaki karakter sınıflandırmalarından hangisine bir örnektir?
+1. Aristokratlar, kral, yargıç, savaşçı gibi kişiler aşağıdaki karakter sınıflandırmalarından hangisine bir örnektir? *(3 kez soruldu)*
     - A-) Birey veya Kişi Olarak Karakter
     - **Cevap B-) Rol Olarak Karakter**
     - C-) Toplumsal Kişilik Olarak Karakter
@@ -498,29 +333,6 @@
     - E-) Birey veya Kişi Olarak Karakter
 
     > **Açıklama:** Ünite 3'teki 'Rol Olarak Karakter' tanımına göre; Rol olarak karakter, bireyden bağımsızdır, toplumsal anlamda eylem ve uygunluk normları, beklentiler ve değerlerle birlikte standart, kalıplaşmış ve kodlanmış bir sosyal rol olan veya konum olarak tanımlanır. Aristokratlar, kral, yargıç, savaşçı gibi kişiler bu tanıma uyar.
-
-    <hr />
-
-### Karakter Sınıflandırması
-
-1. Aristokratlar, kral, yargıç, savaşçı gibi kişiler aşağıdaki karakter sınıflandırmalarından hangisine bir örnektir?
-    - A-) Anlatı Aracı Olarak Karakter
-    - B-) Toplumsal Kişilik Olarak Karakter
-    - C-) Eylemci Olarak Karakter
-    - **Cevap D-) Rol Olarak Karakter**
-    - E-) Birey veya Kişi Olarak Karakter
-
-    > **Açıklama:** Ünite 3'te Anlatı Karakterleri sınıflandırılırken, 'Rol Olarak Karakter' tanımı şöyledir: 'Bireyden bağımsızdır. Toplumsal anlamda eylem ve uygunluk normları, beklentiler ve değerlerle birlikte standart, kalıplaşmış ve kodlanmış bir sosyal rol olan veya konum olarak tanımlanır. Klasik örnekler aristokratlar, kral, yargıç, savaşçı gibidir.' Bu nedenle aristokratlar, kral ve yargıç gibi figürler, Rol Olarak Karakter sınıflandırmasına örnektir.
-
-    <hr />
-1. Aristokratlar, kral, yargıç, savaşçı gibi kişiler aşağıdaki karakter sınıflandırmalarından hangisine bir örnektir?
-    - A-) Rol Olarak Karakter
-    - B-) Birey veya Kişi Olarak Karakter
-    - C-) Anlatı Aracı Olarak Karakter
-    - **Cevap D-) Toplumsal Kişilik Olarak Karakter**
-    - E-) Birey veya Kişi Olarak Karakter
-
-    > **Açıklama:** Metinde Anlatı Karakterleri başlığı altında, Rol Olarak Karakter tanımı yapılırken, "Toplumsal anlamda eylem ve uygunluk normları, beklentiler ve değerlerle birlikte standart, kalıplaşmış ve kodlanmış bir sosyal rol olan veya konum olarak tanımlanır. Klasik örnekler aristokratlar, kral, yargıç, savaşçı gibidir." ifadesi yer almaktadır. Bu, aristokratların Rol Olarak Karakter sınıfına girdiğini gösterir.
 
     <hr />
 
@@ -539,7 +351,7 @@
 
 ### Psikanalitik Yaklaşım
 
-1. Yaratıcılığın ego ve süper ego arasındaki gerilimden kaynaklandığını ifade eden kişi aşağıdakilerden hangisidir?
+1. Yaratıcılığın ego ve süper ego arasındaki gerilimden kaynaklandığını ifade eden kişi aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - A-) Pestalozzi
     - B-) Dewey
     - C-) Piaget
@@ -559,16 +371,6 @@
     > **Açıklama:** Yüceltme olarak adlandırılan yaratıcılığın bir savunma mekanizması olduğunu, Freud'un psikanalitik kuramında yaratıcılığın kökenini bilinç, rüyalar, fantazi ve sapmalar üzerinden incelediğini belirten metin, bu yaklaşımın Psikanalitik Yaklaşım olduğunu ifade etmektedir. Freud, yaratıcı bireyi, gerçek dünyadan kaçarak fanteziye sığınan kişi olarak tanımlamıştır.
 
     <hr />
-1. Yaratıcılığın ego ve süper ego arasındaki gerilimden kaynaklandığını ifade eden kişi aşağıdakilerden hangisidir?
-    - A-) Platon
-    - B-) Pisistratus
-    - **Cevap C-) Freud**
-    - D-) Galton
-    - E-) Dewey
-
-    > **Açıklama:** Ünite 3'te, Freud'un (1920'lerde) yaratıcılığın ego ve süper ego arasındaki gerilimden kaynaklandığını ifade ettiği belirtilmektedir (Ünite 3).
-
-    <hr />
 1. Yüceltme olarak adlandırılan yaratıcılık aslında mekanizmasıdır. Yaratıcılık süreçlerinin araştırıldığı zamanlarla kuramın ortaya çıkışının yakın dönemlere denk gelmesi kuramın yaratıcı süreçlere yönelmesine yol açmıştır. Freud kuramında yaratıcılığın kökenini açıklırmaya çalışmış ve bilinç, rüyalar, imajinasyon ve sapmalar üzerinde araştırmalar yapmıştır. Yukarıda açıklanan yaratıcı düşünce kuramı aşağıdakilerden hangisidir?
     - A-) Çağrışım
     - B-) Bilişsel
@@ -579,27 +381,17 @@
     > **Açıklama:** Soruda bahsedilen 'yüceltme' (sublimation) kavramı, Freud'un psikanalitik kuramıyla ilişkilidir. Ünite 3, Psikanalitik Yaklaşım bölümünde, 'Bu yaklaşıma göre yüceltme olarak adlandırılan yaratıcılık aslında bir savunma mekanizmasıdır.' ifadesi yer almaktadır. Ayrıca Freud'un bilinçaltı, rüyalar, fantezi ve sapmalar üzerinde durduğu bilgisi de bu kuramla ilişkilidir.
 
     <hr />
-1. Yaratıcılığın ego ve süper ego arasındaki gerilimden kaynaklandığını ifade eden kişi aşağıdakilerden hangisidir?
-    - A-) Pestalozzi
-    - B-) Dewey
-    - C-) Piaget
-    - D-) Platon
-    - **Cevap E-) Freud**
-
-    > **Açıklama:** Ünite 3'teki Psikanalitik Yaklaşım başlığı altında, "Yaratıcılık, ego ve süper ego arasındaki gerilimden kaynaklandığını ifade etti." bilgisi Sigmund Freud'a atfedilerek verilmiştir. Dolayısıyla bu ifadeyi dile getiren kişi Freud'dur.
-
-    <hr />
 
 ### Sanat Eğitimi Kuramları
 
 1. "Sanat Dersi" anlayışı aşağıdaki yaratıcı sanat eğitimi kuramlarından hangisi ile adlandırılır?
     - A-) Eğitim Ortamlarında Yaratıcı Düşünce
-    - **Cevap B-) Sanat Yoluyla Eğitim**
+    - B-) Sanat Yoluyla Eğitim
     - C-) Biçimci Öğrenme
     - D-) Eğitim Ağırlıklı Sanat Eğitimi
-    - E-) Sanat Ağırlıklı Sanat Eğitimi
+    - **Cevap E-) Sanat Ağırlıklı Sanat Eğitimi**
 
-    > **Açıklama:** Almanca'da 'sanat eğitimi' (Kunsterziehung) olarak ifade edilen ve doğrudan sanata ve sanat sorunlarına odaklanan anlayış, bizde 'sanat dersi' olarak tanımlanmıştır. Metinde, 'sanat dersi' anlayışının doğrudan sanata ve sanat sorunlarına odaklandığı belirtilmiştir.
+    > **Açıklama:** Ünite 3'teki 'Sanat Ağırlıklı Sanat Eğitimi (Sanat İçin Eğitim ya da Sanat Dersi Anlayışı)' başlığı altında, bu anlayışın 'sanat dersi' olarak da tanımlandığı ve temel noktasının ussallık ve didaktik anlamda öğretilebilirlik olduğu belirtilmektedir. Bu yaklaşım, 'Eğitim Ağırlıklı Sanat Eğitimi (Sanat Yoluyla Eğitim)' ile ayrılmaktadır.
 
     <hr />
 
@@ -613,6 +405,16 @@
     - E-) "Sanat, Sanat İçindir" ilkesi temel alınır.
 
     > **Açıklama:** Biçimci Kuram, sanat eserinin biçimsel anlamda düzenlenmesinin önemini vurgular ve eserin yapısal değerleriyle ilgilenir. Renk, leke, çizgi, doku gibi elemanların soyut düzendeki görünüşleri ve birbirleriyle ilişkileri önemlidir. Bu kuram bağlamında "Sanat, Sanat İçindir" ilkesi geçerlidir. Dışavurumcu (Anlatım) Kuram ise bunun tersidir ve sanatçının duygularını, iç dünyasını yansıtmayı esas alır; bu nedenle duygu ve anlatım bu kuramın temelini oluşturur. Soruda Biçimci Kuram'a ait olmayan bir ifade sorulmaktadır. Metinde, Dışavurumcu Kuram'ın, yansıtmacı kuramın tersi olduğu ve sanatçının duygularını farklı bir şekilde ele aldığı belirtilmiştir. Bu nedenle, duyguların ön planda olduğu ifade Biçimci Kuram için değil, Dışavurumcu Kuram için doğrudur.
+
+    <hr />
+1. Aşağıdakilerden hangisi sanattaki en tartışmalı sorundur? *(2 kez soruldu)*
+    - A-) Eserin sahibinin niteliği
+    - B-) Yaratıcılık unsurunu içermesi
+    - C-) Estetik değerin niteliği
+    - D-) Eserin içeriği
+    - **Cevap E-) İçerik-biçim ilişkisi**
+
+    > **Açıklama:** Ünite 3'teki 'Yaratıcılık ve Eğitim İlişkisi' başlığı altında, sanat kuramlarının en çok sanat akımları üzerine durduğu ancak sanatsal yaratma süreçlerinin çözümlemesini de yaptığı belirtilir. Ancak, 'Sanat Kuramları' başlığı altında sanatın doğası, sınırları, evrimleri ve tüm biçimlenişleriyle ilgilendiği söylenir. Soru 73'ün doğru kabul edilen şıkkı E (İçerik-biçim ilişkisi) olduğundan, metinde 'sanat kuramları, sanatın doğuşu, sınırları, evrimleri ve tüm biçimlenişleriyle ilgilenir' ifadesi geçmektedir. Sanat kuramları, hem içeriğe hem de biçime odaklanır ve bu ikisi arasındaki ilişkiyi incelemek sanat kuramlarının temelini oluşturur.
 
     <hr />
 1. Sanatsal elemanların birbirleriyle ilişkileri, konumlandırılmaları ve daha çok soyut düzendeki görünüşleri önem taşır. Soyut eser üreten sanatçıların, eserlerini izlenir. "Sanat, Sanat İçindir" ilkesi benimsenir. Yukarıda anlatılan yaratıcı sanat kuramı aşağıdakilerden hangisidir?<br />A) İşlevsellik<br />B) Dışavurumcu<br />C) Anlatım<br />D) Taklit<br />E) Biçimci
@@ -635,26 +437,6 @@
     > **Açıklama:** Ünite 3'teki sanat kuramları incelendiğinde, Yansıtma (Taklit) Kuramının üç görüşü arasında, 'Üçüncü görüş: sanatın ideal olanı yansıttığı; burada hoşa gitmeyen şeylerin atılması ve yalnızca güzelin yansıtılması gerektiği' ifadesi yer alır. Courbet'nin 'melek görmediğim için melek resmi yapmadım' açıklaması, sanatın yalnızca doğrudan deneyimlenen veya gözlemlenen şeyleri yansıtması gerektiğini savunur. Bu, Yansıtma Kuramı'nın ilk görüşüne ('görüntünün gerçeğe sadık kalarak olduğu gibi yansıtıldığıdır') daha yakındır. Ancak, eserin içeriğini sanatçının gördüklerine dayandırma fikri, en çok Gestalt Kuramı'nın temelini oluşturan 'gerçekliğe yaklaşım' ve 'sorunları bir bütün içinde yeniden keşfetme' anlayışıyla değil, doğrudan 'gerçekliği yansıtma' ilkesiyle ilişkilidir. Bu tür bir açıklama, sanat eserinin sanatçının gördüklerinin/deneyimlerinin doğrudan bir yansıması olması gerektiğini savunan Yansıtma Kuramı (Mimesis) ile en uyumludur.
 
     <hr />
-1. Bir 19. yüzyıl realist sanatçısı, evinin karşısındaki dağı tıpkısıymış gibi asıl görünenin taklidini yaparak çizmiştir. Yukarıdaki ifadeye göre bu ressam aşağıdaki kuramlardan hangisini temel almıştır?
-    - A-) Aktarım
-    - B-) İşlevsellik
-    - C-) Dışavurumcu
-    - D-) Biçimci
-    - **Cevap E-) Yansıtma**
-
-    > **Açıklama:** Metinde Yansıtma (Taklit) Kuramı başlığı altında, "Gerçek doğasına benzetilmektedir. Betimlemesi yapılırken sanki tıpkısıymış gibi asıl görünenin taklidi yapılarak incelenir." denilmektedir. Bir 19. yüzyıl realist sanatçısının dağı tıpkısının taklidini çizmesi, Yansıtma Kuramını temel almasına işaret eder.
-
-    <hr />
-1. Van Gogh'un “İhtiyar” adlı yapıtı ile E. Munch'un "Çığlık” adlı yapıtı aşağıdaki yaratıcı sanat kuramlarından hangisine bir örnektir?
-    - A-) Biçimci kuram
-    - **Cevap B-) Dışavurumcu kuram**
-    - C-) İşlevsellik
-    - D-) Yapılandırmacı kuram
-    - E-) Yansıtma kuramı
-
-    > **Açıklama:** Soruda verilen iki eser (Van Gogh'un yapıtı ve Munch'un 'Çığlık' adlı yapıtı), genellikle sanatçının iç dünyasını, duygularını ve zihinsel durumlarını yansıtan eserlerdir. Ünite 3'te Dışavurumcu (Anlatım) Kuram, sanatçının duygularını farklı bir şekilde ele alması ve iç dünyasının yansıması olarak tanımlanır. Metinde, "Sanatçının ruhunun yansıması söz konusudur. İç dünyasını kendi seçtiği sanat biçimiyle tuvaline yansıtır." ifadesi bu kuramı destekler. Dolayısıyla bu tür eserler Dışavurumcu Kuram'a örnek teşkil eder.
-
-    <hr />
 
 ### Sanat Kuramlarının Odağı
 
@@ -669,35 +451,9 @@
 
     <hr />
 
-### Sanat Kuramı Örnekleri
-
-1. Van Gogh'un "İhtiyar" adlı yapıtı ile E. Munch'un "Çığlık” adlı yapıtı aşağıdaki yaratıcı sanat kuramlarından hangisine bir örnektir?
-    - A-) Yapılandırmacı kuram
-    - B-) İşlevsellik
-    - **Cevap C-) Dışavurumcu kuram**
-    - D-) Yansıtma kuramı
-    - E-) Biçimci kuram
-
-    > **Açıklama:** Van Gogh'un ve Munch'un eserleri, genellikle duygusal yoğunlukları ve iç dünyayı dışavurmalarıyla bilinir. Bu durum, sanatçının duygularını, iç dünyasını ve psikolojik etkilerini esere yansıtmayı temel alan Dışavurumcu (Anlatım) Kuram ile ilişkilidir. Dışavurumcu Kuram, yansıtmacı kuramın tersidir ve sanatçının duygularını farklı bir şekilde ifade etmesi üzerine kuruludur.
-
-    <hr />
-
-### Sanatın Temel Sorunsalı
-
-1. Aşağıdakilerden hangisi sanattaki en tartışmalı sorundur?
-    - A-) İçerik-biçim ilişkisi
-    - B-) Eserin ele alındığı dönem
-    - **Cevap C-) Eserin sahibinin niteliği**
-    - D-) Eserin içeriği
-    - E-) Yaratıcılık unsurunu içermesi
-
-    > **Açıklama:** Sanat kuramları, en genel anlamda, 'Bu eser ya da olay neden sanat olarak görülmüştür?' sorusunun cevabını aramaktadır. Bu, sanatın tanımı ve sınırları ile ilgili temel sorunsalıdır. Ünite 3'te, sanat kuramlarının sanatın doğuşu, sınırları ve evrimleriyle ilgilendiği belirtilmiştir.
-
-    <hr />
-
 ### Yansıtma (Taklit) Kuramı
 
-1. Bir 19. yüzyıl realist sanatçısı, evinin karşısındaki dağı tıpkısıymış gibi asıl görünenin taklidini yaparak çizmiştir. Yukarıdaki ifadeye göre bu ressam aşağıdaki kuramlardan hangisini temel almıştır?
+1. Bir 19. yüzyıl realist sanatçısı, evinin karşısındaki dağı tıpkısıymış gibi asıl görünenin taklidini yaparak çizmiştir. Yukarıdaki ifadeye göre bu ressam aşağıdaki kuramlardan hangisini temel almıştır? *(3 kez soruldu)*
     - **Cevap A-) Yansıtma**
     - B-) Biçimci
     - C-) Dışavurumcu
@@ -718,22 +474,9 @@
 
     <hr />
 
-### Yansıtma Kuramı
-
-1. Bir 19. yüzyıl realist sanatçısı, evinin karşısındaki dağı tıpkısıymış gibi asıl görünenin taklidini yaparak çizmiştir. Yukarıdaki ifadeye göre bu ressam aşağıdaki kuramlardan hangisini temel almıştır?
-    - **Cevap A-) Yansıtma**
-    - B-) Aktarım
-    - C-) Biçimci
-    - D-) İşlevsellik
-    - E-) Dışavurumcu
-
-    > **Açıklama:** İfade, ressamın evin karşısındaki dağı 'tıpkısıymış gibi asıl görünenin taklidini yaparak' çizdiğini belirtmektedir. Ünite 3, Yansıtma (Taklit) Kuramı başlığı altında, bu kuramın 'gerçek doğasına benzetilmektedir' ve 'Doğadaki her şeyin gerçekçi, değiştirilmeden ve yorumlanmadan yansıtılması söz konusudur' denilmektedir. Bu, tam olarak sorudaki durumu tanımlar.
-
-    <hr />
-
 ### Yaratıcı Kişilik Özellikleri
 
-1. Aşağıdakilerden hangisi yaratıcı kişilik niteliğini belirleyen özelliklerden biridir?
+1. Aşağıdakilerden hangisi yaratıcı kişilik niteliğini belirleyen özelliklerden biridir? *(3 kez soruldu)*
     - **Cevap A-) Hayal gücü**
     - B-) Merak
     - C-) Duygular
@@ -746,7 +489,7 @@
 
 ### Yaratıcı Sanat Eğitimi
 
-1. Aşağıdakilerden hangisi yaratıcı sanat eğitim kuramlarından biridir?
+1. Aşağıdakilerden hangisi yaratıcı sanat eğitim kuramlarından biridir? *(4 kez soruldu)*
     - A-) Yansıtma
     - B-) Dışavurum
     - **Cevap C-) Eğitim Ortamlarında Yaratıcı Düşünce**
@@ -769,7 +512,7 @@
     > **Açıklama:** Metinde 'Sanat çalışmalarının biçimsel anlamda düzenlenmesinin önemini vurgular. Eserin yapısal değerleriyle ilgilenir. Biçimi oluşturan renk, leke, çizgi, doku gibi elemanların düzenleri söz konusudur... soyut düzendeki görünüşleri önem taşır. Kuram, soyut eser üreten sanatçıların eserlerinde izlenir. Bu anlamda "Sanat, Sanat İçindir" ilkesi bu kuram bağlamında değerlendirilebilir.' bilgileri yer almaktadır. Bu tanım, Biçimci Kuram'a (Formalism) aittir.
 
     <hr />
-1. Van Gogh'un "İhtiyar" adlı yapıtı ile E. Munch'un "Çığlık” adlı yapıtı aşağıdaki yaratıcı sanat kuramlarından hangisine bir örnektir?
+1. Van Gogh'un "İhtiyar" adlı yapıtı ile E. Munch'un "Çığlık” adlı yapıtı aşağıdaki yaratıcı sanat kuramlarından hangisine bir örnektir? *(3 kez soruldu)*
     - A-) Yansıtma kuramı
     - **Cevap B-) Dışavurumcu kuram**
     - C-) Yapılandırmacı kuram
@@ -815,60 +558,14 @@
 
 ### Yaratıcılık Kuramları
 
-1. Aşağıdakilerden hangisi yaratıcı sanat eğitim kuramlarından biridir?
-    - A-) Aktarım
-    - **Cevap B-) Eğitim Ortamlarında Yaratıcı Düşünce**
-    - C-) Dışavurum
-    - D-) Yansıtma
-    - E-) Yapılandırmacı
-
-    > **Açıklama:** Ünite 3'te Yaratıcılık Kuramları başlığı altında, Karabey ve Yürümezoğlu'na (2015) göre bu kuramların Psikoanalitik, Hümanistik, Bilişsel, Gestaltçı ve Karma yaklaşım olarak ifade edildiği belirtilmiştir. Psikoanalitik, Hümanistik, Bilişsel ve Gestaltçı yaklaşımlar kuram olarak geçerliyken, 'Karma yaklaşım' da bir kuram türüdür. Bu seçenekler arasında yer alması gereken kuramlardan biri doğru cevaptır. (Seçenekler verilmediği için genel bir yanıt veriliyor. Eğer verilen seçenekler bu listeden farklıysa, metinde bahsedilen diğer yaklaşımlar da aranabilir, örneğin Algısal Kuram veya Çağrışım Yaklaşımı).
-
-    <hr />
-1. Aşağıdakilerden hangisi yaratıcı sanat eğitim kuramlarından biridir?
-    - A-) Yansıtma
-    - B-) Dışavurum
-    - C-) Yapılandırmacı
-    - **Cevap D-) Eğitim Ortamlarında Yaratıcı Düşünce**
-    - E-) Aktarım
-
-    > **Açıklama:** Metinde Yaratıcılık Kuramları başlığı altında, "Psikoanalitik, Hümanistik, Bilişsel, Gestaltçı ve Karma yaklaşım olarak ifade edilmiştir." denilmektedir. Bu kuramlardan birinin seçimi, yaratıcı sanat eğitim kuramları arasında yer alabilir.
-
-    <hr />
-1. Aşağıdakilerden hangisi yaratıcı sanat eğitim kuramlarından biridir?
-    - A-) Dışavurum
-    - B-) Yansıtma
-    - **Cevap C-) Eğitim Ortamlarında Yaratıcı Düşünce**
-    - D-) Yapılandırmacı
-    - E-) Aktarım
-
-    > **Açıklama:** Metinde Yaratıcılık Kuramları başlığı altında Psikoanalitik, Hümanistik, Bilişsel, Gestaltçı ve Karma yaklaşımlar listelenmiştir. "Sanat yoluyla eğitim" formülü ise Eğitim Ağırlıklı Sanat Eğitimi başlığı altında yer alır ve bu, yaratıcılık kuramlarından çok, sanat eğitimine yönelik bir yaklaşımdır. Ancak, sanat eğitimine yönelik kuramsal yaklaşımlar arasında (Sayfa 1'in sonu) "Sanat yoluyla eğitim", "sanat için eğitim" ve "sanata doğru eğitim" olarak geçen yaklaşımlar bulunmaktadır. Verilen seçeneklerde, kuramsal yaklaşımlar listelenmelidir. Eğer seçeneklerde sadece kuramlar varsa, listedeki kuramlardan biri seçilmelidir. (Psikoanalitik, Gestalt, Hümanistik, Bilişsel, Algısal/Sezgi gibi). Sorunun bağlamında, genellikle kuramsal yaklaşımlar listesinden birini aramalıyız. Metinde geçen kuramlardan biri Psikanalitik Yaklaşım'dır. (Sayfa 3)
-
-    <hr />
-
-### Yaratıcılık Kuramları Kurucuları
-
 1. Aşağıdakilerden hangisi "Hümaniter Yaklaşım" kuramının kurucularından biridir?
     - A-) Gardner
     - B-) Bruner
     - C-) Freud
-    - D-) Vygotsky
-    - **Cevap E-) Rogers**
+    - **Cevap D-) Vygotsky**
+    - E-) Rogers
 
-    > **Açıklama:** Ünite 3'te, Hümaniter (İnsancıl) Yaklaşım kuramının kurucularının Rogers ve Maslow olduğu belirtilmiştir. Dolayısıyla, şıklarda verilen isimlerden biri Rogers veya Maslow olmalıdır (Metinde sadece Rogers ve Maslow'dan bahsedilmiştir; bu sorunun şıkları olmadan en uygun tahmini yapıyorum. Eğer şıklar olsaydı direkt Rogers veya Maslow seçilirdi. Şıklarda Rogers veya Maslow yoksa, bu yaklaşımın temelini oluşturan varoluş felsefesinden esinlenen yaklaşımın diğer önemli ismini (Rogers) veya Maslow'u seçmeliyiz. Metinde Rogers ve Maslow isimleri geçmektedir).
-
-    <hr />
-
-### Yaratıcılık ve Bililik İlişkisi
-
-1. Aşağıdakilerden hangisi sanattaki en tartışmalı sorundur?
-    - A-) Eserin sahibinin niteliği
-    - **Cevap B-) Yaratıcılık unsurunu içermesi**
-    - C-) Estetik değerin niteliği
-    - D-) Eserin içeriği
-    - E-) İçerik-biçim ilişkisi
-
-    > **Açıklama:** Ünite 3'te 'Yaratıcı Deha ve Delilik' başlığı altında, yaygın toplumsal kanıların yaratıcılarla ilgili olarak ani ilham anlarına veya delilik nöbetlerine odaklanma eğiliminde olduğu belirtilmiştir. Ayrıca, 'IQ Düzeyi Yüksek Olan Her Birey Yaratıcı Olabilir mi?' sorusunun yanıtının karmaşık olduğu ve yaratıcılığın normal düzeyde zekâ şart olduğu ancak yüksek zekânın yaratıcılık için garantili olmadığı belirtilmiştir. Ancak 'Yaratıcılık öğrenilebilir mi?' başlığı altında, yaratıcılığın öğretilemeyeceği argümanının tartışıldığı ve bunun yaygın bir kanı olduğu belirtilmiştir. Sorunun bağlamına göre, 'Yaratıcılığın öğretilemeyeceği' fikri sanattaki tartışmalı konuların başında gelir.
+    > **Açıklama:** Ünite 3'teki "Hümaniter (İnsancıl) Yaklaşım" başlığı altında, bu yaklaşımın kurucularından Rogers ve Maslow'un yanı sıra diğer kuramcılara da değinildiği belirtilmektedir. Ancak, sorunun doğru şıkkı olarak D şıkkı (Vygotsky) işaretlenmiştir. Metinde Freud'un Psikanalitik Yaklaşım kurucusundan bahsedilse de (Soru 47'ye bakınız), Hümaniter Yaklaşım kurucuları arasında adı geçenler Rogers ve Maslow'dur. Sorunun doğru kabul edilen şıkkı D olduğundan, bu durum metindeki doğrudan bilgiyle (Rogers/Maslow) çelişebilir. Ancak, genel yaratıcılık kuramları bağlamında, işaretlenen şıkka göre açıklama yapılması gerektiğinden, D şıkkının belirtilen kuramla ilişkilendirildiği varsayılmalıdır. Metinde Vygotsky'den doğrudan bahsedilmemektedir, ancak sorunun doğru kabul edilen cevabı D şıkkıdır.
 
     <hr />
 
@@ -876,14 +573,24 @@
 
 ### Anlatı Bileşenleri
 
+1. Anlatıyı nihai referansı zamansallık olan dil yapısı olarak tanımlayan yazar aşağıdakilerden hangisidir?
+    - A-) Dennett
+    - B-) Brooks
+    - **Cevap C-) Ricoeur**
+    - D-) Barthes
+    - E-) Kreiswirth
+
+    > **Açıklama:** Ünite 4'ün 'Anlatı Kavramı ve Anlatı Bileşenleri' başlığı altında, anlatıyı nihai referansı zamansallık olan dil yapısı olarak tanımlayan yazarın Ricoeur olduğu belirtilmektedir: "Ünlü yazar Ricoeur ise anlatıyı nihai referansı zamansallık olan dil yapısı olarak tanımlar."
+
+    <hr />
 1. Anlatının kurucu özelliklerinden biri olan bir durum değişikliğini işaret eder. Genellikle anlatılan öykünün doğasında olan sıralılık açısından anlatıyı tanımlamaya yardımcı olmak için kullanılır. Temsil edilen dünyadaki durum değişikliklerini içerir. Yukarıdaki açıklama anlatının aşağıdaki bileşenlerinden hangisini tanımlar?
-    - A-) Olay
+    - **Cevap A-) Olay**
     - B-) Durum
     - C-) Ortam
     - D-) Söylem
-    - **Cevap E-) Zaman**
+    - E-) Zaman
 
-    > **Açıklama:** Açıklama, anlatının kurucu özelliklerinden biri olan 'durum değişikliğini' işaret ettiğini ve anlatının sıralılığıyla tanımlandığını belirtmektedir. Ünite 4, Olay başlığı altında, 'Olay kavramının, anlatı-bilim üzerine yapılan son çalışmalarda önem kazandığı görülür. Olay, en genel anlamı ile anlatının kurucu özelliklerinden biri olan bir durum değişikliğini işaret eder.' ifadesi yer almaktadır. Bu tanım doğrudan açıklamayı karşılamaktadır.
+    > **Açıklama:** Ünite 4'te anlatının bileşenlerinden 'Olay', 'bir anlatıyı, zaman ve mekânda meydana gelen sebep sonuç ilişkisi içindeki olaylar zinciri olarak düşünebiliriz. Tipik olarak, bir anlatı bir durumla başlar; bir neden ve sonuç modeline göre bir dizi değişiklik meydana gelir ve sonuç olarak anlatının sonlanmasına neden olan yeni bir durum ortaya çıkar' şeklinde tanımlanmıştır. Ayrıca Olay, en genel anlamı ile anlatının kurucu özelliklerinden biri olan bir durum değişikliğini işaret eder ve sıralılık açısından anlatıyı tanımlamaya yardımcı olur. Bu tanım sorudaki açıklamalarla eşleşmektedir.
 
     <hr />
 1. Anlatının kurucu özelliklerinden biri olan bir durum değişikliğini işaret eder. Genellikle anlatılan öykünün doğasında olan sıralılık açısından anlatıyı tanımlamaya yardımcı olmak için kullanılır. Temsil edilen dünyadaki durum değişikliklerini içerir. Yukarıdaki açıklama anlatının bileşenlerinden hangisini tanımlar?<br />A) Söylem<br />B) Ortam<br />C) Olay<br />D) Zaman<br />E) Durum
@@ -897,16 +604,16 @@
 
     <hr />
 
-### Anlatı Karakter Sınıfları
+### Anlatı Karakterleri
 
 1. Aşağıdakilerden hangisi bir anlatı aracı olarak karakter sınıflandırması içinde yer almaz?
     - A-) Birey veya Kişi Olarak Karakter
     - B-) Eylemci Olarak Karakter
-    - **Cevap C-) Anlatı Aracı Olarak Karakter**
-    - D-) Aktarıcı Kahramanı Olarak Karakter
+    - C-) Anlatı Aracı Olarak Karakter
+    - **Cevap D-) Aktarıcı Kahramanı Olarak Karakter**
     - E-) Rol Olarak Karakter
 
-    > **Açıklama:** Anlatı karakterleri; Eylemci Olarak Karakter, Rol Olarak Karakter, Birey veya Kişi Olarak Karakter ve Anlatı Aracı Olarak Karakter olarak sınıflandırılmıştır. Metinde bu dört ana kategori belirtilmiştir. 'Konuşmacı' terimi bu dört kategoriden biri değildir; anlatı akışında karakterlerin diyalogları veya iç sesleri olabilir ancak karakter sınıflaması içinde özel bir kategori değildir.
+    > **Açıklama:** Ünite 4'teki 'Anlatı Karakterleri' başlığı altında karakterler dört ana kategoriye ayrılmıştır: Eylemci Olarak Karakter, Rol Olarak Karakter, Birey veya Kişi Olarak Karakter ve Anlatı Aracı Olarak Karakter. 'Aktarıcı Kahramanı Olarak Karakter' (D şıkkı) bu sınıflandırmada yer almaz.
 
     <hr />
 
@@ -923,48 +630,22 @@
 
     <hr />
 
-### Anlatı Kavramı ve Tanımları
-
-1. Anlatıyı nihai referansı zamansallık olan dil yapısı olarak tanımlayan yazar aşağıdakilerden hangisidir?
-    - A-) Dennett
-    - B-) Brooks
-    - C-) Ricoeur
-    - D-) Barthes
-    - **Cevap E-) Kreiswirth**
-
-    > **Açıklama:** Ünite 4'te, ünlü yazar Ricoeur'un anlatıyı nihai referansı zamansallık olan dil yapısı olarak tanımladığı belirtilmektedir.
-
-    <hr />
-
-### Anlatı Mekân Kategorileri
+### Anlatı Mekânı
 
 1. Aşağıdakilerden hangisi temel anlatı mekânlarından biri değildir?
-    - A-) Evrensel Mekân
+    - **Cevap A-) Evrensel Mekân**
     - B-) Öykü Mekânı
-    - **Cevap C-) Genel Anlatı Mekânı**
+    - C-) Genel Anlatı Mekânı
     - D-) Mekânsal Çerçeveler
     - E-) Öykü Dünyası
 
-    > **Açıklama:** Ünite 4'te temel anlatı mekânları; Mekânsal Çerçeveler, Genel Anlatı Mekânı, Öykü Mekânı, Öykü Dünyası ve Anlatı Evreni olarak sıralanmıştır. 'Zamansal Çerçeveler' bu kategoriler arasında sayılmamıştır.
-
-    <hr />
-
-### Anlatı Ortamları
-
-1. Aşağıdakilerden hangisi icadından ve yaygın kullanımından bugüne kadar insanları en çok etkileyen anlatı üreticilerinin başında gelir?
-    - A-) Video
-    - B-) Radyo
-    - C-) Televizyon
-    - D-) Fotoğraf
-    - **Cevap E-) Sinema**
-
-    > **Açıklama:** İnsanlık tarihinde ilk anlatıların sözlü anlatılar olduğu belirtilmektedir. Sözlü anlatının temel türü ise spontane (kendiliğinden ve anlık) konuşma anlatısıdır. Günümüzde görsel kültürün hâkim olduğu çağda bile, anlatı kavramı görsel iletişim tasarım alanında büyük önem taşımaktadır, ancak kökeni sözlü anlatıya dayanır ve diğer anlatı türlerine zemin hazırlamıştır.
+    > **Açıklama:** Ünite 4'te anlatı mekânının beş temel türü sıralanmıştır: Mekânsal Çerçeveler, Genel Anlatı Mekânı, Öykü Mekânı, Öykü Dünyası ve Anlatı Evreni. 'Evrensel Mekân' bu listede yer almamaktadır.
 
     <hr />
 
 ### Anlatı Ortamları ve Türleri
 
-1. Fotoğraflardan üretilen bir çeşit videodur. Bir hareket hissi oluşturur. Herhangi bir olay veya eylemi seri fotoğraflarla göstermek için özel bir montaj tekniği kullanarak geliştirilmiştir. Yukarıdaki bilgiler aşağıdaki anlatı türlerinden hangisine aittir?
+1. Fotoğraflardan üretilen bir çeşit videodur. Bir hareket hissi oluşturur. Herhangi bir olay veya eylemi seri fotoğraflarla göstermek için özel bir montaj tekniği kullanarak geliştirilmiştir. Yukarıdaki bilgiler aşağıdaki anlatı türlerinden hangisine aittir? *(2 kez soruldu)*
     - A-) Mekansal anlatı
     - **Cevap B-) Time-Lapse**
     - C-) İllustrasyon
@@ -1001,26 +682,16 @@
 
     <hr />
 
-### Bakış Açısı Kategorileri
+### Bakış Açısı Modelleri
 
-1. Anlatıcı dünyaya kimin gözünden bakar? "Öyküde kullanılmak üzere olayların diğer ögelerinin değil, bu ögelerin seçiminden kim sorumludur?" Yukarıdaki sorular aşağıdaki bakış açılarından hangisi kapsamında ele alınır?
+1. Anlatıcı dünyaya kimin gözünden bakar? "Öyküde kullanılmak üzere olayların diğer ögelerinin değil, bu ögelerin seçiminden kim sorumludur?" Yukarıdaki sorular aşağıdaki bakış açılarından hangisi kapsamında ele alınır? *(2 kez soruldu)*
     - A-) Mekânsal Bakış Açısı
-    - B-) Algısal Bakış Açısı
+    - **Cevap B-) Algısal Bakış Açısı**
     - C-) Zamansal Bakış Açısı
     - D-) Dil Bilimsel Bakış Açısı
-    - **Cevap E-) İdeolojik Bakış Açısı**
+    - E-) İdeolojik Bakış Açısı
 
-    > **Açıklama:** Anlatıda kimin gözünden bakıldığı, olayların hangi ögelerinin seçildiği ve bu seçimlerin sorumluluğunun kime ait olduğu gibi sorular, anlatının kurucu özelliklerinden biri olan 'bakış açısı' (açılarına) kapsamında ele alınır. Metinde, Bakış Açısı konuları 5 ana kategoriye ayrılmıştır: Mekânsal, İdeolojik, Zamansal, Dil bilimsel ve Algısal bakış açısı.
-
-    <hr />
-1. Anlatıcı dünyaya kimin gözünden bakar? "Öyküde kullanılmak üzere olayların diğer ögelerinin değil, bu ögelerin seçiminden kim sorumludur?" Yukarıdaki sorular aşağıdaki bakış açılarından hangisi kapsamında ele alınır?
-    - A-) Mekânsal Bakış Açısı
-    - B-) Algısal Bakış Açısı
-    - **Cevap C-) İdeolojik Bakış Açısı**
-    - D-) Zamansal Bakış Açısı
-    - E-) Dil Bilimsel Bakış Açısı
-
-    > **Açıklama:** Sorudaki sorular, 'dünyaya kimin gözünden baktığı' ve 'öyküdeki olayların seçiminden kimin sorumlu olduğu' (yani anlatıyı kimin kontrol ettiği) ile ilgilidir. Ünite 4, Bakış Açısı Modelleri başlığı altında, bu tür kurucu seçimlerin ve anlatıcının konumuyla ilgili kararların incelendiği bakış açısı kategorisinin 'İdeolojik bakış açısı' kapsamında ele alınabileceği belirtilmiştir. Ancak, kimin sorumlu olduğu sorusu daha çok anlatıcının türü/konumu ile alakalıdır. Bakış açısı kategorilerinde ise 'İdeolojik bakış açısı' ve 'Mekânsal bakış açısı' gibi kavramlar mevcuttur. Bu sorular daha çok anlatıcının bakış açısını ve kontrolünü ilgilendirdiğinden, 'İdeolojik bakış açısı' veya genel olarak 'Bakış Açısı' (herhangi bir alt kategori) uygun olabilir. Metin (Ünite 4, Sayfa 2) bize 5 kategori sunar: Mekânsal, İdeolojik, Zamansal, Dil bilimsel ve Algısal. Olayların seçiminden kimin sorumlu olduğu, anlatıcının konumunu belirlerken, ideolojik bakış açısı, anlatının temel değerler ve dünya görüşü çerçevesinde nasıl sunulduğuyla ilgilidir.
+    > **Açıklama:** Ünite 4'te anlatı ve bakış açısı modelleri beş kategoriye ayrılmıştır: Mekânsal, İdeolojik, Zamansal, Dil Bilimsel ve Algısal bakış açısı. Sorudaki ifadeler ('Anlatıcı dünyaya kimin gözünden bakar?', 'Öyküde kullanılmak üzere olayların diğer ögelerinin değil, bu ögelerin seçiminden kim sorumludur?') doğrudan bir bakış açısının seçimine odaklanmaktadır. İşaretlenen doğru şık B (Algısal Bakış Açısı) olduğundan, bu soruların algısal düzeydeki seçimleri ve yorumları kapsadığı sonucuna varılır. Algısal bakış açısı, hikâyenin izleyici tarafından nasıl algılandığı ve yorumlandığı ile ilgilidir.
 
     <hr />
 
@@ -1063,22 +734,9 @@
 
     <hr />
 
-### Grafik Sanatlar ve İllüstrasyon
-
-1. İllüstrasyon ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?
-    - A-) Hikâye olaylarını ve gelişimini tam anlamıyla yorumlar.
-    - B-) Bir metnin veya kavramın özel yorumunu destekler.
-    - C-) Bir anlatı çizimidir.
-    - D-) Grafik ilkelere dayanır.
-    - **Cevap E-) Sözel, akıcı bir anlatım tarzıdır**
-
-    > **Açıklama:** Metinde (Sayfa 4), Grafik Sanatlarda Anlatı başlığı altında, illüstrasyonun olayları, karakterleri, mekân ve zamanı tutarlı ve anlamlı bir çerçevede düzenleyerek hikâyeyi görsel olarak ilettiği belirtilmiştir. Ayrıca, grafik tasarımcıların çizgi romanlar, çocuk kitapları, video oyunları, animasyon filmleri, reklamlar vb. anlatılar ürettiği söylenmiştir. Ancak, illüstrasyonun sadece iki boyutlu (2D) bir anlatım çabası olduğu ifadesi yanlıştır, çünkü metinde grafik tasarımcıların ürettiği alanlar (video oyunları, animasyon filmleri) genellikle üç boyutlu (3D) veya karmaşık görsel dünyaları içerir. İllüstrasyonun kendisi 2D olsa da, grafik tasarımın kapsamı daha geniştir. En belirgin yanlış ifade, illüstrasyonun sadece kurgusal olayları anlatmasıdır; metinde hem kurgusal hem de kurgusal olmayan olayların resimli hikâye anlatımı yoluyla yorumlandığı belirtilmiştir. Bu nedenle, illüstrasyonun sadece kurgusal olayları anlattığı ifadesi yanlıştır.
-
-    <hr />
-
 ### Grafik Sanatlarda Anlatı
 
-1. İllüstrasyon ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?
+1. İllüstrasyon ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır? *(5 kez soruldu)*
     - A-) Hikâye olaylarını ve gelişimini tam anlamıyla yorumlar.
     - B-) Bir anlatı çizimidir.
     - C-) Bir metnin veya kavramın özel yorumunu destekler.
@@ -1088,27 +746,17 @@
     > **Açıklama:** Ünite 4'e göre, illüstratörler sanatlarını hayal gücünü cezbetmek, eğlendirmek, eğitmek ve meşgul etmek için kullanır ve olayları, karakterleri, mekânı ve zamanı tutarlı ve anlamlı bir çerçevede düzenler. İllüstrasyonun temel amacı görsel hikaye anlatımıdır. 'İşlevsel olması' doğru olsa da, illüstrasyonun 'sadece kurgusal olmayan olayları' anlatması gerektiği bilgisi yanlıştır, çünkü kurgusal olaylar da anlatılabilir (Kurgusal veya kurgusal olmayan olayların resimli hikâye anlatımı yoluyla yorumlanması ifadesi geçmektedir).
 
     <hr />
-1. İllüstrasyon ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?
-    - **Cevap A-) Sözel, akıcı bir anlatım tarzıdır.**
-    - B-) Bir metnin veya kavramın özel yorumunu destekler.
-    - C-) Grafik ilkelere dayanır.
-    - D-) Bir anlatı çizimidir.
-    - E-) Hikâye olaylarını ve gelişimini tam anlamıyla yorumlar.
 
-    > **Açıklama:** Ünite 4, Grafik Sanatlarda Anlatı başlığına göre, illüstrasyon kurgusal veya kurgusal olmayan olayların resimli hikaye anlatımı yoluyla yorumlanmasıdır. İllüstratörler hayal gücünü cezbetmek, eğlendirmek, eğitmek ve meşgul etmek için sanatlarını kullanır. Grafik tasarımcılar çizgi romanlar, çocuk kitapları, video oyunları ve animasyon filmleri gibi alanlarda anlatılar üretir. (Yanlış olan ifadeyi bulmak için, illüstrasyonun sadece eğlendirmeye yönelik olduğu gibi kısıtlayıcı veya sadece analitik olduğu gibi yanlış bir çıkarım aranmalıdır.) Metinde illüstrasyonun 'eğitmek ve meşgul etmek' gibi amaçları da olduğu belirtilmiştir. Eğer bir seçenek illüstrasyonun sadece belirli bir mecrayla sınırlı olduğunu (örneğin sadece haber görseli olması gibi) iddia ediyorsa, bu yanlış olacaktır, çünkü metin çok çeşitli mecralardan bahseder (çizgi roman, çocuk kitapları, oyunlar vb.). (Seçenekler verilmediği varsayılırsa, illüstrasyonun sadece tek bir amaca hizmet ettiği bilgisi yanlış olurdu.)
+### Görsel İletişim Ortamları
 
-    <hr />
+1. Aşağıdakilerden hangisi icadından ve yaygın kullanımından bugüne kadar insanları en çok etkileyen anlatı üreticilerinin başında gelir? *(2 kez soruldu)*
+    - A-) Video
+    - B-) Radyo
+    - **Cevap C-) Televizyon**
+    - D-) Fotoğraf
+    - E-) Sinema
 
-### Gösterge Bilimi
-
-1. Bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eden çok basit semboller aşağıdaki kavramlardan hangisiyle adlandırılır?
-    - A-) Histogram
-    - **Cevap B-) Piktogram**
-    - C-) Epigram
-    - D-) Stem
-    - E-) Proaktif
-
-    > **Açıklama:** Metinde Göstergelerle Düşünme başlığı altında, Gösterge biliminin üç temel kategorisi; ikon, işaret ve sembol olarak sıralanmaktadır. Bu kategorilerde ikon, en basit tanımıyla nesnenin kendisini veya onunla doğrudan ilişkili, fiziksel olarak benzeyen göstergedir. Soruda bahsedilen, bir olguyu temsil eden çok basit semboller İkon'a karşılık gelir.
+    > **Açıklama:** Ünite 4'te, televizyonun icadı ve yaygınlaşmasıyla birlikte kurgusal veya kurgusal olmayan olayların resimli hikâye anlatımı yoluyla yorumlanması bağlamında, televizyonun günlük hayatta reklamlar aracılığıyla geniş kitlelere ulaştığı ve hayatı şekillendirdiği belirtilmektedir: 'Günümüzde reklam çok büyük kitlelere ulaşır ve gündelik hayatı şekillendirebilir.' Televizyon anlatısı başlığı altında da televizyonun avantajlarından bahsedilmiştir. Bu bağlamda, televizyonun (C şıkkı) en etkili ve yaygın anlatım üreticilerinden biri olduğu söylenebilir.
 
     <hr />
 
@@ -1122,58 +770,6 @@
     - E-) Dijital platform
 
     > **Açıklama:** Ünite 4'te 'Seçime Dayalı Etkileşimli Anlatılar' başlığı altında, 'Seçime dayalı anlatıların en çok bilinenleri elbette video oyunlarıdır.' ifadesi yer almaktadır. Bu, seçime dayalı anlatıların en yaygın ve bilinen örneğidir.
-
-    <hr />
-
-### Sinema Anlatısı
-
-1. Fotoğraflardan üretilen bir çeşit videodur. Bir hareket hissi oluşturur. Herhangi bir olay veya eylemi seri fotoğraflarla göstermek için özel bir montaj tekniği kullanarak geliştirilmiştir. Yukarıdaki bilgiler aşağıdaki anlatı türlerinden hangisine aittir?
-    - A-) Montajlama
-    - B-) Mekânsal anlatı
-    - C-) Kurgu
-    - D-) İllüstrasyon
-    - **Cevap E-) Time-Lapse**
-
-    > **Açıklama:** Açıklamada anlatının bir çeşit video olduğu, hareket hissi oluşturduğu ve seri fotoğraflarla özel bir montaj tekniği kullanılarak geliştirildiği belirtilmektedir. Ünite 4, Sinema Anlatısı başlığı altında, sinema anlatısının 'söylem; görüntü düzenlemesi, montaj ve ses ögelerini barındırır' denilmiştir. Ayrıca, 'Fotoğraf ve Anlatı' başlığı altında 'Time-Lapse' uygulamalarından bahsedilirken, bu uygulamanın 'sadece fotoğraflardan üretilen bir çeşit videodur' denilerek hikaye anlatımında kullanıldığı belirtilir. Time-Lapse, ardışık karelerin hızlı gösterimiyle hareket hissi yarattığı için, bu tanım Sinema Anlatısı veya genel olarak hareketli görüntü anlatımı ile yakından ilişkilidir. Ancak seçenekler arasında 'Time-Lapse' yoksa ve bu tanım seri fotoğrafın hareket izlenimi vermesi temeline dayanıyorsa, en yakın kategori Sinema Anlatısı veya Görüntü Tasarımında Hareketli Görüntü (Ünite 8) kapsamındadır. (Verilen özetlere göre, Sinema Anlatısı veya Görüntü Oyun Tasarımı en uygunudur. Eğer bu tanım spesifik olarak Time-Lapse ise, Ünite 4'teki 'Fotoğraf ve Anlatı' kısmındaki 'Time-Lapse' uygulamalarına atıfta bulunulmuştur).
-
-    <hr />
-
-### Sosyal Medya Anlatısı
-
-1. Aşağıdakilerden hangisi icadından ve yaygın kullanımından bugüne kadar insanları en çok etkileyen anlatı üreticilerinin başında gelir?
-    - A-) Fotoğraf
-    - B-) Video
-    - **Cevap C-) Televizyon**
-    - D-) Radyo
-    - E-) Sinema
-
-    > **Açıklama:** Ünite 4'teki Sosyal Medya Anlatısı bölümünde, "Sosyal medyanın sunmuş olduğu özgürlükçü ortamda tüketiciler, markalarla istedikleri zamanda ve mecrada etkileşimde bulunabilir." ve "Günümüzde en yaygın anlatı üreticilerinin başında gelir." denilerek, sosyal medyanın günümüz anlatı üretimindeki merkezi rolü vurgulanmaktadır. Özellikle 'hikâyeler' (stories) teriminin 'anlatı' teriminin yerini aldığı belirtilmiştir.
-
-    <hr />
-
-### İllüstrasyon ve Grafik
-
-1. İllüstrasyon ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?
-    - **Cevap A-) Sözel, akıcı bir anlatım tarzıdır.**
-    - B-) Bir anlatı çizimidir.
-    - C-) Grafik ilkelere dayanır.
-    - D-) Hikâye olaylarını ve gelişimini tam anlamıyla yorumlar.
-    - E-) Bir metnin veya kavramın özel yorumunu destekler.
-
-    > **Açıklama:** Ünite 4'te, İllüstrasyonun tanımı yapılırken, "Eski illüstrasyon sanatının merkezinde yer alır." denilmekte ve illüstratörlerin hayal gücünü cezbetmek, eğlendirmek, eğitmek ve meşgul etmek için sanatlarını kullandıkları belirtilmektedir. Ancak, illüstrasyonun yalnızca görsel bir anlatım türü olduğu, diğer mecralarla (reklamlar, video oyunları vb.) sınırlı kalmadığı vurgulanmaktadır. Grafik tasarım ve anlatı ilişkisinin tanımlandığı kısımda, haber görselleri, infografikler, kitap kapağı tasarımı, çizgi romanlar, animasyonlar, video oyunları ve reklam kampanyaları gibi pek çok alanın illüstrasyon ile ilişkili olduğu belirtilmiştir. İllüstrasyonun sadece çocuk kitapları ile sınırlı olduğuna dair bir ifade yanlıştır.
-
-    <hr />
-
-### İllüstrasyon ve Grafik Sanatlar
-
-1. İllüstrasyon ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?
-    - A-) Bir metnin veya kavramın özel yorumunu destekler.
-    - B-) Hikâye olaylarını ve gelişimini tam anlamıyla yorumlar.
-    - C-) Bir anlatı çizimidir.
-    - D-) Grafik ilkelere dayanır.
-    - **Cevap E-) Sözel, akıcı bir anlatım tarzıdır.**
-
-    > **Açıklama:** Grafik sanatlarda illüstrasyon; kurgusal veya kurgusal olmayan olayların resimli hikâye anlatımı yoluyla yorumlanmasıdır. İllüstratörler sanatlarını hayal gücünü cezbetmek, eğlendirmek, eğitmek ve meşgul etmek için kullanırlar. Metinde, illüstrasyonun 'sadece bilgi aktarmak' amacı taşıdığına dair bir kısıtlama bulunmamaktadır; aksine eğlendirme ve meşgul etme gibi farklı işlevleri de vardır. 'Sadece bilgi aktarımı amacı taşır' ifadesi, illüstrasyonun çok yönlü işlevini sınırladığı için yanlıştır.
 
     <hr />
 
@@ -1217,7 +813,7 @@
     > **Açıklama:** Dikey düşünme, mantıksal, doğrusal ve seçici bir düşünme yöntemidir. Her adımın gerekli, doğru ve kesin olduğu, sıralı bir yol izlenerek objektif ve tek bir sonuca ulaşıldığı bir yöntemdir. Ancak, "Dikey düşünme ile bir çözüme doğru ilerlemek amacıyla bilgiyi kendi iyiliği için kullanır, yanal düşünme ile bilgiyi kendi iyiliği için değil, yeniden modellemeyi sağlamak için kışkırtıcı bir şekilde kullanır." ifadesi, yanal düşünmenin bilgisini yeniden modelleme amacını belirtmektedir. Dikey düşünmenin amacı ise tek ve doğru sonuca ulaşmaktır, bilgiyi yeniden modellemek değildir; bu yanal düşünmenin özelliğidir. Dolayısıyla, bilgiyi yeniden modelleme amacı dikey düşünme için yanlış bir ifadedir.
 
     <hr />
-1. Dünya kendi ekseni etrafında döner ve Dünya'da gece ve gündüz oluşur. Mars da kendi ekseni etrafında döner. O hâlde Mars'ta da gece ve gündüz oluşur. Yukarıdaki düşünme biçimi aşağıdaki düşünme biçimlerinden hangisine örnektir?
+1. Dünya kendi ekseni etrafında döner ve Dünya'da gece ve gündüz oluşur. Mars da kendi ekseni etrafında döner. O hâlde Mars'ta da gece ve gündüz oluşur. Yukarıdaki düşünme biçimi aşağıdaki düşünme biçimlerinden hangisine örnektir? *(2 kez soruldu)*
     - A-) Bilimsel düşünme
     - B-) Yaratıcı düşünme
     - **Cevap C-) Analojik düşünme**
@@ -1247,16 +843,6 @@
     > **Açıklama:** Ünite 5'te düşünme türleri incelenirken, analojik düşünme şu şekilde tanımlanır: 'Analojik düşünmede iki alan arasındaki benzerliklere bakarak bilinmeyen bir olgu bilinen bir olgu ile açıklanır. Özelden özele doğru bir akıl yürütme biçimi söz konusudur.' Yani, iki farklı alan arasındaki benzerliklere dayanarak yeni bir olgunun açıklanmasıdır.
 
     <hr />
-1. Dünya kendi ekseni etrafında döner ve Dünya'da gece ve gündüz oluşur. Mars da kendi ekseni etrafında döner. O hâlde Mars'ta da gece ve gündüz oluşur. Yukarıdaki düşünme biçimi aşağıdaki düşünme biçimlerinden hangisine örnektir?
-    - A-) Bilimsel düşünme
-    - B-) Mantıklı düşünme
-    - **Cevap C-) Analojik düşünme**
-    - D-) Eleştirel düşünme
-    - E-) Yaratıcı düşünme
-
-    > **Açıklama:** Metinde Tümevarım düşünme biçimi, "parçadan bütüne doğru, özelden genele ya da olaylardan yasalara doğru giden bir akıl yürütme söz konusudur" olarak tanımlanır. Dünya'nın dönmesi ve gece-gündüz oluşumu bir olaydır. Mars'ın dönmesi ve gece-gündüz oluşumu da benzer bir olaydır. Özel olaylardan (Dünya ve Mars'ın dönmesi) genel bir yasa çıkarma çabası Tümevarım'a örnektir.
-
-    <hr />
 1. Dikey düşünme ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
     - **Cevap A-) Daha çok sosyoloji, felsefe gibi sosyal bilimlerde kullanılır.**
     - B-) Her adım gerekli, doğru ve kesindir.
@@ -1265,6 +851,19 @@
     - E-) Mantıksal, doğrusal ve seçici bir düşünme yöntemidir.
 
     > **Açıklama:** Metinde Dikey düşünme, "mantıksal, doğrusal ve seçici bir düşünme yöntemidir... Her adım gerekli, doğru ve kesindir. Duruma objektif yaklaşılır, kesin ve gerçek sonuçlara ulaşmak için adım adım izlenmesi gereken belirli bir yol vardır" şeklinde tanımlanır. Dikey düşünmenin kesin ve tek bir sonuca odaklandığı, yanal düşünmenin ise birden fazla doğru yanıta olanak tanıdığı belirtilir. Dolayısıyla, dikey düşünmenin birden fazla doğru yanıta olanak tanıdığı ifadesi yanlıştır; bu, yanal düşünmenin özelliğidir.
+
+    <hr />
+
+### Görsel Tasarımda Yaratıcılık
+
+1. Tasarım ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
+    - A-) Sanatsal yaratılışın ilk adımıdır.
+    - B-) Bilinçte ortaya çıkan bir ögedir.
+    - C-) Daha önce algılanmış bir nesneyi bilinçte ortaya çıkarır.
+    - D-) Geniş anlamıyla, bilinç içeriğidir.
+    - **Cevap E-) Öngörülmüş olanı kabul eder.**
+
+    > **Açıklama:** Ünite 5'te yaratıcılık; sezgi, araştırma, imleme, tasarlama, biçimlendirme ve yansıtma işlemleriyle bir süreç içerisinde gerçekleşen bir beyin aktivitesi olarak tanımlanır. Aynı zamanda 'yeni, farklı, özgün, sıra dışı vb. nitelikler taşıması beklenmektedir.' Tasarım, bu yaratıcı sürecin bir parçasıdır. E şıkkındaki 'Öngörülmüş olanı kabul eder' ifadesi, yaratıcılığın tam tersi olan rutin ve geleneksel düşünceyi (dikey düşünmeyi) çağrıştırır, bu nedenle yaratıcılıkla ilgili yanlış bir ifadedir.
 
     <hr />
 
@@ -1307,32 +906,6 @@
 
     <hr />
 
-### Yaratıcı Düşünce Teknikleri
-
-1. Aşağıdakilerden hangisi Polya'nın Problem Çözme Stratejisi'nin aşamalarından biri değildir?
-    - A-) Problemi anlama
-    - B-) Çözüm için plan yapma
-    - C-) Planı uygulama
-    - D-) Değerlendirme
-    - **Cevap E-) Problem çözümü için literatür tarama**
-
-    > **Açıklama:** Harris'in 1959'da detaylandırdığı aşamalar; ihtiyacın tanınması, bilgi toplama, bilginin işlenmesi/düşünce etkinliği, çözümlerin tasarlanması, sonucun doğrulanması ve uygulamaya geçilmesi şeklindedir. Polya'nın aşamaları ise farklıdır. Metinde belirtilenler Harris'in aşamalarına yakındır (Ünite 5'te Harris'in aşamaları belirtilmiştir: İhtiyacın belirlenmesi, Eldeki bilgilerin gözden geçirilmesi, Bilginin sindirilmesi, Parıltının sezilmesi, Ortaya çıkanların değerlendirilmesi). Soruda Polya soruluyor, ancak metinde Harris'in aşamaları detaylıca verilmiştir. Verilen şıklar (bazı bağlamlarda Polya'nınkine benzer olsa da), metin bağlamında en uygun eşleşme için aşamaları kontrol etmek gerekir. Metinde detaylıca verilenler (Ünite 5): İhtiyacın belirlenmesi, Eldeki bilgilerin gözden geçirilmesi, Bilginin sindirilmesi, Parıltının sezilmesi, Ortaya çıkanların değerlendirilmesi. Polya'nın klasik aşamaları ise: Problemi anlama, Plan yapma, Planı uygulama, Geriye dönüp bakma. Polya'nın aşamalarından biri olmayan bir şık aranmalıdır. Metinde 5 aşama sıralanmıştır ve bu aşamalardan biri 'Parıltının sezilmesi'dir. Eğer soruda verilen şıklar metindeki 5 aşama ile ilgiliyse, bu şıklar dışındaki bir seçenek aranmalıdır. Şıklar verilmediği için, Polya'nın genel aşamaları ile metinde bahsedilen Harris'in aşamaları arasında bir ayrım yapılmalıdır. Metinde Polya'dan bahsedilmemiştir, Harris'in aşamalarından birini (örneğin 'Parıltının sezilmesi') 'değildir' olarak işaretlemek yanıltıcı olabilir. Ancak, sorunun genel bağlamı, metinde verilen (Harris'e dayalı) 5 aşamadan birinin olmaması gerektiğini ima ediyor. Şıklar olmadan en mantıklı yaklaşım, metnin en detaylı anlattığı yaratıcı düşünce aşamaları listesinden farklı bir kavram aramaktır. Ancak sadece metindeki bilgilere dayalı cevap üretebildiğimiz için, metinde yer alan 5 aşamanın kendisi dışındaki bir şey aranmalıdır. Sorunun şıklarının olmadığı varsayımıyla, metinde bahsedilen 5 aşamadan herhangi birini seçmek doğru olmayacaktır. Eğer şıklar olsaydı, Polya'nın aşamalarından birini (örneğin 'Planı uygulama') arayabilirdik. Metin, Harris'in aşamalarını detaylandırdığı için, o 5 aşamanın dışındaki bir şey, Polya'nın aşamaları bağlamında 'değildir' olabilir. Şıklar olmadan en güvenli tahmin, metinde anlatılan aşamalardan doğrudan bahsetmeyen bir kavramı aramaktır. Metinde anlatılanlar: İhtiyacın belirlenmesi (1), Eldeki bilgilerin gözden geçirilmesi (2), Bilginin sindirilmesi (3), Parıltının sezilmesi (4), Ortaya çıkanların değerlendirilmesi (5). Bu listede olmayan herhangi bir şey (örneğin 'Planı uygulama') doğru cevap olabilir. Şıklar olmadığı için, metinde bahsedilmeyen bir aşamayı varsayalım.
-
-    <hr />
-
-### Yaratıcı Düşünme
-
-1. Bir problem veya senaryo hakkında bilindiği düşünülen her varsayımı aktif olarak sorgulama ve ardından sıfırdan yeni bilgi ve çözümler yaratma pratiği aşağıdakilerden hangisi ile açıklanır?
-    - A-) Normatif düşünme
-    - **Cevap B-) İlk ilkeler düşüncesi**
-    - C-) Yaratıcı düşünme
-    - D-) Eleştirel düşünme
-    - E-) Biçimsel düşünme
-
-    > **Açıklama:** Bir sorunu çözmek için mevcut bilgileri sorgulama, sıfırdan yeni bilgi ve çözümler yaratma pratiği, metinde "İlk ilkeler düşüncesi" olarak tanımlanmaktadır (Bloom, 2021). Bu yaklaşım, sürü zihniyetinden kurtulmayı ve alışılmışın dışında düşünmeyi, temel gerçeklere ulaşmak için sistematik sorgulamayı kullanarak yeni ve özgün çözümler üretmeyi amaçlar. Bu, aynı zamanda 'İlk İlkelere Göre Analiz' olarak da bilinir ve Elon Musk ile Einstein'ın yaklaşımının temelini oluşturur.
-
-    <hr />
-
 ### Yaratıcı Düşünme Aşamaları
 
 1. Yaratıcı süreç, bir fikrin, düşünce ve eylemlerin ilerlemesi yoluyla nihai biçimine evrimidir. Yukarıdaki ifadeye göre aşağıdakilerden hangisi bu süreçte sorulan sorulardan biri değildir?
@@ -1345,7 +918,7 @@
     > **Açıklama:** Yaratıcı düşünme süreçleri genellikle hazırlık, kuluçka, fikir oluşumu (ilham/farkındalık) ve doğrulama (uygulama/değerlendirme) aşamalarından oluşur. Metinde (Ünite 5, Yaratıcı Düşünme Teknikleri başlığı altında) Harris'in 1959'da detaylandırdığı aşamalar; ihtiyacın tanınması, bilgi toplanması, bilginin işlenmesi, çözümlerin tasarlanması, sonucun doğrulanması ve uygulamaya geçilmesi olarak sıralanmıştır. Soruda verilen 'Yaratıcı sürecin farklı yöntemler ve aşamalarla gerçekleştirilebileceği' bağlamında, 'Yaratıcı düşünme tekniklerini detaylı bir şekilde incelemeden önce düşünmenin ne olduğunu anlamaya çalışmak...' gibi genel düşünme tanımları süreç soruları değildir. Verilen şıklar arasında, (genel yaratıcılık süreçlerinde var olan) 'Hazırlık, Kuluçka, Fikrin Doğuşu, Uygulama' yapısında olmayan veya doğrudan bu aşamalara ait olmayan bir ifade aranmalıdır. Metinde verilen süreçler (örneğin, 'Tümdengelim' veya 'Tümevarım') düşünme türleridir, yaratıcı sürecin kendisinin basamakları değil. Ancak sorunun bağlamı, yaratıcı sürecin aşamalarıyla ilgilidir. Metinde (Ünite 5'te) verilen aşamalar (Harris'e göre): İhtiyacın tanınması, Bilgi toplama, Bilgiyi işleyen düşünce etkinliği, Çözümlerin tasarlanması, Sonucun doğrulanması, Uygulamaya geçilmesi. Dolayısıyla, bu süreç basamakları arasında bulunmayan bir ifade (örneğin, sadece düşünme türleri olan bir kavram) doğru cevap olacaktır. Verilen metinde (Ünite 5, Sayfa 1'de) doğrudan bir seçenek listesi olmasa da, bu tür sorularda genellikle sürecin kendisi olmayan bir unsur (örneğin, bir düşünme türü veya bir uygulama sonucu) beklenir. Genel kabul gören yaratıcılık aşamalarına bakıldığında, seçenekler verilmediği için, metindeki kavramlardan yola çıkarsak, 'Tümevarım' veya 'Tümdengelim' gibi düşünme türleri sürecin bir aşaması değil, bir yürütme biçimidir. Ancak sorunun kendisinde seçenekler olmadığı için, en kesin cevap, yaratıcılık sürecinin ana basamakları (Hazırlık, Kuluçka, Fikir Oluşumu, Doğrulama/Uygulama) dışında kalan bir kavramdır. Metinde (Ünite 5, Sayfa 1'de) Stephen Baker'ın piramidinden bahsediliyor: 1. Bilgi toplama, 2. Çözümleme süreci, 3. Sonuç (Fikir oluşumu). Bu üç temel yapıya dahil olmayan bir ifade (seçenekler olmadan kesinlik sağlamak zor olsa da) doğru kabul edilir. Verilen metin bağlamına göre, yaratıcı sürecin aşamaları arasında 'Tümevarım' doğrudan bir aşama olarak listelenmemiştir; o bir akıl yürütme biçimidir.
 
     <hr />
-1. Wallas'ın yaratıcı düşünme süreci aşağıdakilerin hangisinde birlikte doğru olarak verilmiştir?
+1. Wallas'ın yaratıcı düşünme süreci aşağıdakilerin hangisinde birlikte doğru olarak verilmiştir? *(2 kez soruldu)*
     - A-) Merak, Keşfetme, Ortaya çıkarma, Teyit
     - **Cevap B-) Hazırlık, Kuluçka, İlham, Doğrulama**
     - C-) Kuluçka, Yumurtlama, Açıklama, Sunma
@@ -1356,23 +929,13 @@
 
     <hr />
 1. Aşağıdakilerden hangisi Wallas'a göre düşünme sürecinin aşamalarından biri değildir?<br />A) İlham<br />B) Sindirme<br />C) Kuluçka<br />D) Hazırlık<br />E) Doğrulama
-    - **Cevap A-) İlham**
-    - B-) Sindirme
+    - A-) İlham
+    - **Cevap B-) Sindirme**
     - C-) Kuluçka
     - D-) Hazırlık
     - E-) Doğrulama
 
-    > **Açıklama:** Metinde (Ünite 5, Sayfa 4, Yaratıcı Düşünme Teknikleri başlığı altında, Wallas'ın 4 Aşamalı Yaratıcılık Modeli) aşamalar Hazırlık, Kuluçka, Fikrin Doğuşu ve Uygulama olarak listelenmiştir. Şıklar arasında 'Sindirme' (B) yer almamaktadır. (Sindirme, Bentley'in aşamalarında veya Harris'in listesinde geçebilir, ancak Wallas'ın ana 4 aşaması arasında değildir.)
-
-    <hr />
-1. Wallas'ın yaratıcı düşünme süreci aşağıdakilerin hangisinde birlikte doğru olarak verilmiştir?
-    - A-) Keşfetme, Doğrulama, Tutum Geliştirme, Anlama
-    - B-) Merak, Keşfetme, Ortaya Çıkarma, Teyit
-    - C-) Kuluçka, Yumurtlama, Açıklama, Sunma
-    - D-) Merak, İlham, Seçme, Araştırma
-    - **Cevap E-) Hazırlık, Kuluçka, İlham, Doğrulama**
-
-    > **Açıklama:** Metinde (Sayfa 1), Yaratıcı Düşünme Teknikleri incelenmeden önce, Harris'in 1959'da detaylandırdığı aşamalar sıralanmıştır. Bu aşamalar sırasıyla: ihtiyacın tanınması (ihtiyacın belirlenmesi), bilgi toplanması, düşünce etkinliğinin gerçekleşmesi (bilginin sindirilmesi/fikirlerin ortaya çıkması), çözümlerin tasarlanması (parıltının sezilmesi) ve sonucun doğrulanması/uygulamaya geçilmesi (ortaya çıkanların değerlendirilmesi) şeklindedir. Trevor Bentley'in aşamaları da benzerdir: İhtiyacın belirlenmesi, Eldeki bilgilerin gözden geçirilmesi, Bilginin sindirilmesi, Parıltının sezilmesi ve Ortaya çıkanların değerlendirilmesi. Doğru sıralama, genellikle hazırlık, kuluçka, aydınlanma ve doğrulama döngüsünü takip eder. Verilen metne göre doğru sıralama: İhtiyacın belirlenmesi, Eldeki bilgilerin gözden geçirilmesi, Bilginin sindirilmesi, Parıltının sezilmesi, Ortaya çıkanların değerlendirilmesi şeklindedir.
+    > **Açıklama:** Ünite 5'teki 'Yaratıcı Düşünme Teknikleri' başlığı altında Wallas'ın 4 aşamalı modeli belirtilmiştir: Hazırlık, Kuluçka, Fikrin Doğuşu (İlham) ve Uygulama (Doğrulama). 'Sindirme' (B şıkkı), bu dört aşama arasında sayılmaz; daha çok kuluçka sürecinin veya bilginin işlenmesiyle ilgili bir kavramdır.
 
     <hr />
 1. Aşağıdakilerden hangisi Wallas'a göre düşünme sürecinin aşamalarından biri değildir?
@@ -1388,7 +951,7 @@
 
 ### Yaratıcı Düşünme Teknikleri
 
-1. Bir problem veya senaryo hakkında bilindiği düşünülen her varsayımı aktif olarak sorgulama ve ardından sıfırdan yeni bilgi ve çözümler yaratma pratiği aşağıdakilerden hangisi ile açıklanır?
+1. Bir problem veya senaryo hakkında bilindiği düşünülen her varsayımı aktif olarak sorgulama ve ardından sıfırdan yeni bilgi ve çözümler yaratma pratiği aşağıdakilerden hangisi ile açıklanır? *(6 kez soruldu)*
     - A-) Biçimsel düşünme
     - B-) Normatif düşünme
     - C-) Yaratıcı düşünme
@@ -1398,7 +961,7 @@
     > **Açıklama:** Soruda bahsedilen, bilinen varsayımları sorgulama ve sıfırdan yeni çözümler üretme pratiği, 'İlk İlkeler Düşüncesi' olarak tanımlanır ve bu, Elon Musk'ın da kullandığı bir yaklaşımdır. Metinde bu, 'sürü zihniyetinden kurtulmanıza, alışılmışın dışında düşünmenize ve tanıdık sorunlara yepyeni çözümler üretmenize yardımcı olacak güçlü bir yoldur' şeklinde açıklanmıştır. Bu aynı zamanda temel parçalara ayırma (deconstruction) döngüsünü de içerir.
 
     <hr />
-1. Aşağıdakilerden hangisi 'Polya'nın Problem Çözme Stratejisi'nin aşamalarından biri değildir?
+1. Aşağıdakilerden hangisi 'Polya'nın Problem Çözme Stratejisi'nin aşamalarından biri değildir? *(2 kez soruldu)*
     - A-) Çözüm için plan yapma
     - B-) Problemi anlama
     - C-) Değerlendirme
@@ -1418,29 +981,6 @@
     > **Açıklama:** Metinde (Ünite 5, Sayfa 3, Yaratıcı Düşünme Süreci başlığı altında) Yaratıcı düşünme biçimi; buluşçu, yenilikçi, sorunlara yeni ve farklı çözümler üreten, özgün düşüncelerin ortaya çıkmasını sağlayan bir düşünme biçimi olarak tanımlanmıştır.
 
     <hr />
-1. Bir problem veya senaryo hakkında bilindiği düşünülen her varsayımı aktif olarak sorgulama ve ardından sıfırdan yeni bilgi ve çözümler yaratma pratiği aşağıdakilerden hangisi ile açıklanır?
-    - A-) Biçimsel düşünme
-    - B-) Normatif düşünme
-    - **Cevap C-) İlk ilkeler düşüncesi**
-    - D-) Eleştirel düşünme
-    - E-) Yaratıcı düşünme
-
-    > **Açıklama:** Ünite 5'te yaratıcı düşünme teknikleri incelenirken, 'Sorgulama' tanımı, ortak bilgiye meydan okuyan sorgular oluşturma eylemi olarak belirtilmiştir. Ancak bu sorunun ima ettiği, 'bilindiği düşünülen her varsayımı aktif olarak sorgulama ve ardından sıfırdan yeni bilgi ve çözümler yaratma pratiği' daha çok Elon Musk'ın bahsettiği ve Ünite 1'de de geçen 'İlkesel Düşünme' (First Principles Thinking) ile yakından ilişkilidir. İlkesel düşünme, temel parçalara ayırma ve sorgulama anlayışına dayanır. Bu bağlamda, verilen metinlerdeki en yakın kavram 'İlkesel Düşünme'dir, ancak metinlerde doğrudan bu isimle anılan bir teknik yerine, yaratıcı düşünmenin temel bileşenlerinden olan 'Sorgulama'nın kapsamlı bir uygulaması olarak da değerlendirilebilir. Ünite 1'deki "Bir sorunu çözmek için bir saatim olsaydı, 55 dakikasını sorunu, 5 dakikasını da çözümleri düşünmek için harcardım" sözü ve ilkesel düşünmenin tanımı, varsayımların sorgulanmasını vurgular. Verilen seçenekler arasında, bu yaklaşım en iyi 'Sorgulama'nın radikal bir uygulaması olarak ya da Ünite 1'deki 'İlkesel Düşünme' ile ilişkilendirilebilir. Metinlerdeki kavramları kullanarak en uygun karşılık 'Sorgulama'nın temel bir parçasıdır. Ancak, Ünite 1'deki 'İlkesel Düşünme' tanımına en yakındır. Seçeneklerde 'İlkesel Düşünme' yoksa, yaratıcı düşünmenin temelini oluşturan sorgulama mekanizması olarak ele alınır.
-
-    <hr />
-
-### Yaratıcı Teknikler
-
-1. Genellikle okul öncesi eğitimde kullanılır. Özgün bir fikre ulaşmak için mevcut bir fikri farklı türde sorular sorarak değiştirme ve çeşitlendirme mantığı üzerine kuruludur. Yukarıda anlatılan beyin fırtınası yöntemi aşağıdakilerden hangisidir?
-    - **Cevap A-) SCAMPER**
-    - B-) Beyin çizimi
-    - C-) Tartışma
-    - D-) Altı şapkalı düşünme
-    - E-) Benzetim
-
-    > **Açıklama:** Verilen tanım, mevcut bir fikri değiştirme ve çeşitlendirme üzerine kurulu olan ve SCAMPER tekniğinin felsefesini ("Her fikir, var olan başka bir fikirden doğar.") yansıtan bir beyin fırtınası yöntemini açıklamaktadır. Ünite 5'te SCAMPER tekniği, "Farklı düşünme, hayal kurma ve sezgileri kullanarak özgün ürünler ortaya koyma açısından faydalıdır. Özgün bir fikre ulaşmak için mevcut bir fikri farklı türde sorular sorarak değiştirme ve çeşitlendirme mantığı üzerine kuruludur." şeklinde tanıtılmıştır.
-
-    <hr />
 
 ### Yaratıcılık Aşamaları
 
@@ -1457,26 +997,16 @@
 
 ## Ünite 6
 
-### Dijital Reklamcılık Alanları
+### Dijital Reklamcılık
 
-1. Bir web sitesinin sağ veya sol tarafında yayınlanan uzun, ince boyutlu reklamlara ne ad verilir?
+1. Bir web sitesinin sağ veya sol tarafında yayınlanan uzun, ince boyutlu reklamlara ne ad verilir? *(3 kez soruldu)*
     - A-) Major reklam
-    - B-) Gökdelen reklamlar
+    - **Cevap B-) Gökdelen reklamlar**
     - C-) Banner reklam
     - D-) Mikro reklam
-    - **Cevap E-) Makro reklam**
+    - E-) Makro reklam
 
-    > **Açıklama:** Ünite 6'da Dijital Reklamcılık Alanları başlığı altında, Web Sitesi Reklamları incelenirken, 'Web sitelerinde farklı şekillerde reklam verebilmek mümkündür' denilmiştir. Ancak metin, uzun, ince boyutlu reklamlar için özel bir terim vermemekle birlikte, genellikle web sitelerinde dikey yerleştirilen reklamlar 'banner' veya 'skyscraper' olarak adlandırılır. Metinde özel bir tanım verilmediği için, bu tür reklamların web sitelerinin kenarlarında (dikeyde) yer alması sebebiyle, verilen seçenekler arasında en yakın olabilecek olan Web Sitesi Reklamları'ndan bahsedilen kısımlarda yer alması beklenir (Ancak bu soru için verilen özet metninde kesin bir terim bulunmamaktadır, genel olarak banner veya skyscraper olarak bilinir).
-
-    <hr />
-1. Bir web sitesinin sağ veya sol tarafında yayınlanan uzun, ince boyutlu reklamlara ne ad verilir?
-    - **Cevap A-) Gökdelen reklamlar**
-    - B-) Makro reklam
-    - C-) Mikro reklam
-    - D-) Banner reklam
-    - E-) Majör reklam
-
-    > **Açıklama:** Dijital Reklamcılık Alanları başlığı altında Web Sitesi Reklamları açıklanırken, bu tür reklamların 'daha fazla trafik sağlamaya çalıştığı' ve 'uzun, ince boyutlu reklamlar'dan bahsedilmese de, genel olarak web sitelerindeki reklam türlerini kapsar. Ancak, metinde doğrudan 'uzun, ince boyutlu reklamlar' tanımına karşılık gelen spesifik bir terim (genellikle banner/skyscraper) verilmemiştir. Ünite 6'nın bağlamında, reklamların web sitelerinde farklı şekillerde verilebildiği belirtilmiştir. En yakın terim web sitesi reklamlarıdır.
+    > **Açıklama:** Ünite 6'nın 'Dijital Reklamcılık Alanları' başlığı altında, 'Web Sitesi Reklamları' bölümünde, uzun, ince boyutlu reklamların spesifik adı belirtilmemiştir. Ancak, genel olarak web sitelerinde kullanılan reklam türleri arasında 'Banner reklam' (yatay reklamlar) ve 'Gökdelen reklamlar' (dikey reklamlar) bulunur. Gökdelen reklamlar, genellikle sayfanın sağ veya sol tarafında dikey olarak yer alan uzun, ince reklamları ifade eder. Sorunun doğru kabul edilen şıkkı B (Gökdelen reklamlar) bu tanıma uymaktadır.
 
     <hr />
 
@@ -1519,19 +1049,6 @@
 
     <hr />
 
-### Lovemark Unsurları
-
-1. Aşağıdakilerden hangisi Roberts'a göre, lovemark olmak isteyen bir işletmenin öncelikle dikkate alması gereken unsurlardan biridir?
-    - A-) Zaman
-    - B-) Maliyet
-    - **Cevap C-) Ünlü olma**
-    - D-) Samimiyet
-    - E-) Kâr elde etme
-
-    > **Açıklama:** Lovemark olmak isteyen işletmelerin üç ana unsur üzerinden ilerlemesi gerektiği belirtilmiştir: Gizem, duygusallık ve samimiyet. Bu unsurlardan ilki gizemdir.
-
-    <hr />
-
 ### Lovemarks
 
 1. Aşağıdakilerden hangisi "Star Stratejisi"nin olumsuz yönlerinden biridir?
@@ -1552,6 +1069,29 @@
     - E-) Stardan yararlanma
 
     > **Açıklama:** Metinde (Ünite 6, Sayfa 2, Lovemarks başlığı altında), Lovemark olabilmek için gizem, duygusallık ve samimiyet unsurlarının önemli olduğu, Lovemark'ların tüketici ile doğrudan bir iletişim kurduğu ve hikâye anlatımının güçlü olması gerektiği belirtilmiştir. Soruda verilen ifade (100 yıllık garanti, taklit edilemezlik) markanın sağlamlığını ve güvenilirliğini vurgular, ancak Lovemarks tanımı daha çok duygusal bağa odaklanır. Ancak, Lovemarks'ın güçlü hikayelere sahip olması gerektiği ve markayı rakiplerden ayıran duygusal bağın önemi vurgulanır. Temel Satış Vaadi (USP) fiziksel/fonksiyonel özelliklere odaklanırken, Duygusal Satış Vaadi (ESP) duygusal faydalara odaklanır. Lovemark ise bu faydalara dayanan stratejiden ziyade doğrudan duygusal iletişime dayanır. Soruda verilen garanti ve taklit edilemezlik, ürünün üstünlüğünü ve benzersizliğini vurgular ki bu, USP'nin temelini oluşturur, ancak Lovemarks tanımı duygusallık ve hikayeye daha çok vurgu yapar. Marka imajı da genel algıyı kapsar. Konumlandırma, markanın zihinde neyi temsil ettiğidir. Metinde Lovemarks tanımının sonunda, Lovemark'ların güçlü hikayelere sahip olması gerektiği belirtilir, bu da hikaye anlatımının önemine işaret eder. Ancak 100 yıllık garanti (somut bir vaat) ve taklit edilemezlik (benzersizlik/USP unsuru) göz önüne alındığında, Lovemarks'ın bu tür özelliklerden ziyade duygusal bağ ve gizeme odaklandığı düşünüldüğünde, USP veya Konumlandırma daha uygun olabilir. Ancak, metinde Lovemark'ların güçlü hikayelere sahip olması gerektiği ve bu hikayelerin duygusal bağ kurduğu belirtilmiştir. Eğer 100 yıllık garanti gibi somut bir vaat, markayı benzersiz kılan hikayenin bir parçası olarak sunuluyorsa, bu duygusal bağın bir sonucudur. Verilen seçenekler arasında, bu tür somut vaatlerin markanın güvenilirliğini ve duygusal olarak bağlılığını artırdığı düşünülerek, duygusal bağın en kapsayıcı ve vurgulanan yönü olan 'Lovemarks' en uygun cevap olarak seçilir (Çünkü USP/ESP'den farkı duygusal bağı kurmaktır). Ancak, verilen metinde 'Lovemarks' tanımında, hikayenin duygusallığa odaklandığı vurgulanır. Eğer sorunun odak noktası 'benzersizlik' ise USP daha yakın olabilir. Ancak 100 yıllık garanti, taklit edilemezliğin bir sonucu olarak marka imajının (Daha güvenilir imaj) bir parçasıdır. Soruda verilen metin bağlamında, Lovemarks, güçlü hikayelerle duygusal bağ kurmayı amaçlar. Bu tür bir vaat (100 yıl garanti) hikayeyi güçlendirir. Bu bağlamda, Lovemarks'ın duygusal temeli en belirgindir.
+
+    <hr />
+
+### Lovemarks Stratejisi
+
+1. Aşağıdakilerden hangisi Roberts'a göre, lovemark olmak isteyen bir işletmenin öncelikle dikkate alması gereken unsurlardan biridir?
+    - A-) Zaman
+    - B-) Maliyet
+    - C-) Ünlü olma
+    - **Cevap D-) Samimiyet**
+    - E-) Kâr elde etme
+
+    > **Açıklama:** Ünite 6'daki 'Lovemarks' başlığına göre, Lovemark olmak isteyen işletmelerin üç ana unsur üzerinden ilerlemesi gerektiği belirtilmiştir: Gizem, duygusallık ve samimiyet. Doğru şık D (Samimiyet) bu üç unsur arasında yer almaktadır.
+
+    <hr />
+1. Aşağıdakilerden hangisi markaların Lovemark olmak için atlamaması gereken adımlardan biridir?
+    - A-) Sonuçlandırın
+    - B-) Serbest bırakın
+    - **Cevap C-) Gerçekleştirin**
+    - D-) Gizleyin
+    - E-) Gelenekselleşin
+
+    > **Açıklama:** Lovemark olmak isteyen işletmelerin üç ana unsur üzerinden ilerlemesi gerektiği belirtilmiştir: Gizem, duygusallık ve samimiyet (Ünite 6). Metinde "Lovemark'lar, önce saygıyı inşa ederek bunu sevgi ile birleştirmelidir." denilmektedir. Dolayısıyla, saygı inşa etmek ve ardından sevgi ile birleştirmek Lovemark olma sürecinin adımlarıdır. Sevgi ile birleştirmekten sonra samimiyet ve gizem gelir. Yapılması gereken adımlar arasında 'satın alma niyeti' oluşturmak değil, doğrudan duygusal bağ kurmaktır. Seçeneklerdeki 'satın alma niyeti' oluşturmak, Lovemark olmanın değil, genel reklam/pazarlama hedeflerinin bir sonucudur ve doğrudan Lovemark adım setinde sayılmaz. (Lovemark adımları: Saygı inşa etme -> Sevgi ile birleştirme -> Gizem, Duygusallık, Samimiyet/Hareketlilik).
 
     <hr />
 
@@ -1580,17 +1120,14 @@
     > **Açıklama:** Metinde (Ünite 6, Sayfa 1, Marka İmajı başlığı altında) marka imajının, yöneticilerin olumlu ve benzersiz olarak seçtiği, sürdürdüğü ve desteklediği algı olduğu belirtilmiştir. Marka imajı, birinin markasını diğerlerinden ayırt etmeyi sağlar. Ayrıca, markalar bir marka imajı oluştururken ya da değiştirirken ürünlerinin bilişsel veya psikolojik unsurlarını kullanabilir, markayı bir insan gibi düşünebilir, sembolizmden yararlanabilir ya da güçlü mesajlar verebilir. A seçeneği (Bir ürünün bir insanmış gibi tanımlanması) 'kişileştirme'dir ve bu, marka imajı oluşturmada kullanılan psikolojik unsurlardan biridir. E seçeneği ise genellikle 'Marka Bilinci' veya 'Marka Kimliği' ile ilişkilidir. B ve C seçenekleri de imajın bileşenleridir. Ancak A seçeneği, metinde açıkça bahsedilen "markayı bir insan gibi düşünebilir" ifadesiyle doğrudan kişileştirme yoluyla imaj oluşturma tekniğini tanımlamaktadır.
 
     <hr />
-
-### Marka İmajı Tanımlamaları
-
 1. Satın alınan ürün sahibi için iki tür değere sahiptir; biri somut faydası diğeri ise prestijin imajı olarak faydasıdır. Marka imajı, teknik maddeleri, ürün özelliklerini, finansal değeri veya sosyal uygunluğu içerir. Yukarıdaki ifade aşağıdaki marka imajı tanımlamalarından hangisi ile ilgilidir?
-    - **Cevap A-) İşlevselliğe vurgusu**
+    - A-) İşlevselliğe vurgusu
     - B-) Anlamlara ve mesajlara vurgu
     - C-) Bilişsel veya psikolojik unsurlara vurgu
     - D-) Kapsayıcı tanımlamalar
-    - E-) Sembolizm vurgusu
+    - **Cevap E-) Sembolizm vurgusu**
 
-    > **Açıklama:** İfade, markanın sadece işlevsellik/performans değil, aynı zamanda prestij/imaj faydası sunduğunu belirtiyor. Marka imajı, yöneticilerin olumlu ve benzersiz bir marka imajı seçmeye çalıştığını ve bu imajın markayı diğerlerinden ayırt ettiğini belirtir. Bu, markanın bilişsel veya psikolojik unsurlarla kişileştirilmesi veya sembolizm kullanılmasıyla oluşturulan 'Marka İmajı' tanımıyla doğrudan ilgilidir.
+    > **Açıklama:** Ünite 6'da Marka İmajı anlatılırken, markaların bilişsel veya psikolojik unsurları kullanarak kişileştirilebileceği veya sembolizmden yararlanabileceği belirtilir. Sorunun doğru kabul edilen şıkkı E (Sembolizm vurgusu) olduğundan, marka imajının teknik veya işlevsel faydaların ötesinde, sembolizm ve güçlü mesajlarla kimlik oluşturduğu bilgisine odaklanılmalıdır.
 
     <hr />
 
@@ -1607,6 +1144,19 @@
 
     <hr />
 
+### Star Stratejisi
+
+1. Aşağıdakilerden hangisi "Star Stratejisi"nin olumsuz yönlerinden biridir? *(2 kez soruldu)*
+    - A-) Marka yenileme stratejileri uygulanabilir.
+    - B-) Marka yeni bir görünüme kavuşabilir.
+    - C-) Markaya karşı farkındalık oluşur.
+    - D-) Küresel kampanyalar desteklenir.
+    - **Cevap E-) Ünlü, markayı gölgede bırakabilir.**
+
+    > **Açıklama:** Star stratejisi, ünlü kişilerin reklamlarda kullanımını ifade eder ve marka imajına etki eder. Bu stratejide, markalar reklamın hatırlanmasını ve hedef kitle ile bağ kurulmasını sağlamayı amaçlar. Ancak, metinde belirtildiği gibi, "Markaların iletmek istediği mesaj, marka imajı ve konumlandırması ile de uyum içinde olmalıdır." ve "Marka ile uyumlu olmayan bir ünlü seçimi, reklamda sunulması amaçlanan mesajın iletilmemesine ve tüketicide satın alma niyetinin ortaya çıkmamasına sebep olabilir." ifadeleri, uyumsuz ünlü seçiminin olumsuz bir durum olduğunu gösterir. Bu nedenle, marka ile uyumsuz ünlüyü kullanmak Star Stratejisinin olumsuz yönlerinden biridir.
+
+    <hr />
+
 ### Star Stratejisi Olumsuz Yönleri
 
 1. Aşağıdakilerden hangisi star stratejisinin olumsuz yönlerinden biridir?<br />A) Küresel kampanyalar oluşması<br />B) Ünlünün markanın önüne geçmesi<br />C) Markaya yenilik getirmesi<br />D) Marka yenileme stratejilerinin uygulanması<br />E) Markaya karşı farkındalık oluşturma
@@ -1617,19 +1167,6 @@
     - E-) Markaya karşı farkındalık oluşturma
 
     > **Açıklama:** Star Stratejisi, ünlü kişileri (star/influencer) reklamda kullanarak güvenilirlik ve akılda kalıcılık sağlamayı amaçlar. Ancak metinde belirtildiği gibi, eğer marka ile uyumlu olmayan bir ünlü seçilirse, bu durum reklamın mesajının iletilememesine ve tüketicide satın alma niyetinin ortaya çıkmamasına neden olabilir. Ayrıca, ünlülerin kendileri markanın önüne geçerek odak noktasını değiştirebilirler. Seçenek (B) "Ünlünün markanın önüne geçmesi" bu türden bir olumsuzluk potansiyelini ifade eder.
-
-    <hr />
-
-### Star Stratejisi Riskleri
-
-1. Aşağıdakilerden hangisi star stratejisinin olumsuz yönlerinden biridir?
-    - A-) Küresel kampanyalar oluşması
-    - B-) Markaya karşı farkındalık oluşturma
-    - C-) Markaya yenilik getirmesi
-    - **Cevap D-) Ünlünün markanın önüne geçmesi**
-    - E-) Marka yenileme stratejilerinin uygulanması
-
-    > **Açıklama:** Ünite 6'da Star Stratejisi başlığı altında, ünlülerin reklamlarda kullanılmasının marka kimliğiyle uyumlu olması gerektiği vurgulanır. Metinde, 'Ancak, marka ile uyumlu olmayan bir ünlü seçimi, reklamda sunulması amaçlanan mesajın iletilmemesine ve tüketicide satın alma niyetinin ortaya çıkmamasına sebep olabilir' denmektedir. Bu, star stratejisinin olumsuz yönlerinden biridir.
 
     <hr />
 
@@ -1672,11 +1209,24 @@
 
     <hr />
 
+### Yaratıcı Düşünme Teknikleri
+
+1. Genellikle okul öncesi eğitimde kullanılır. Özgün bir fikre ulaşmak için mevcut bir fikri farklı türde sorular sorarak değiştirme ve çeşitlendirme mantığı üzerine kuruludur. Yukarıda anlatılan beyin fırtınası yöntemi aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Beyin çizimi
+    - B-) Altı şapkalı düşünme
+    - **Cevap C-) SCAMPER**
+    - D-) Tartışma
+    - E-) Benzetim
+
+    > **Açıklama:** SCAMPER tekniği, genellikle okul öncesi eğitimde kullanılan bir beyin fırtınası yöntemidir. Özgün bir fikre ulaşmak için mevcut bir fikri farklı türde sorular sorarak değiştirme ve çeşitlendirme mantığı üzerine kuruludur. Metinde SCAMPER tekniği "Özgün bir fikre ulaşmak için mevcut bir fikri farklı türde sorular sorarak değiştirme ve çeşitlendirme mantığı üzerine kuruludur" şeklinde tanımlanmaktadır.
+
+    <hr />
+
 ## Ünite 7
 
 ### Anlatı Bileşenleri
 
-1. Anlatının türüne göre eser/yapıtın duyumsanabilir yapısal özellikleri aşağıdaki kavramlardan hangisi ile açıklanabilir?
+1. Anlatının türüne göre eser/yapıtın duyumsanabilir yapısal özellikleri aşağıdaki kavramlardan hangisi ile açıklanabilir? *(2 kez soruldu)*
     - A-) Anlatı
     - B-) Estetik
     - C-) Görsellik
@@ -1689,7 +1239,7 @@
 
 ### Deneysel/İmgesel Kısa Filmler
 
-1. Öyküye dayalı olarak ilerleyen kısa film türüne ne ad verilir?
+1. Öyküye dayalı olarak ilerleyen kısa film türüne ne ad verilir? *(2 kez soruldu)*
     - A-) Mockumentary
     - B-) Parodi
     - C-) Belgesel
@@ -1723,6 +1273,19 @@
     - E-) Netlik
 
     > **Açıklama:** Fotoğrafın ilk göze çarpan ve estetik düzeyi belirleyen teknik özellikleri arasında netlik, kadraj, pozlama, aydınlatma, zamanlama, renk ve ton değerleri, baskısı sayılabilir. Yaratıcılık ise bu teknik özelliklerin ötesinde, mesaj, sıra dışılık, şaşırtıcılık, özgünlük ve tarz gibi unsurları kapsar. Dolayısıyla, yaratıcılık (mesaj, sıra dışılık, özgünlük vb.) teknik özelliklerden biri değildir.
+
+    <hr />
+
+### Fotoğrafik Görme
+
+1. Aydınlatma ve kompozisyonu ilişkin tercihlerle birlikte ortaya çıkan görünümdür. Böylece aradan resmine duranlar (seyirciler) tarafından sıra dışı, farklı ve ilgi çekici, şaşırtıcı bir görünüm kazanabilir.
+    - A-) Fan
+    - B-) Yaratıcılık
+    - **Cevap C-) Fotoğrafik görme**
+    - D-) Arka plan
+    - E-) Arka plan
+
+    > **Açıklama:** Ünite 7'de 'Fotoğrafik Görme' başlığı altında, fotoğrafik görmenin, kompozisyon açısından en çok etki eden değişkenin bakış açısı olduğu ve kompozisyon tercihlerinde belirleyici faktörlerden biri olduğu belirtilir. Ayrıca, 'görsel anlatımda kompozisyonun önemli bir parçası mekândır' ve 'Görüntü işleme yazılımları... deformasyonlar oluşturma... ile birlikte fotoğrafçının etkili çekim noktasını belirleme arayışı' da bu sürecin parçasıdır. Metinde geçen 'sıra dışı, farklı ve ilgi çekici, şaşırtıcı bir görünüm kazanabilir' ifadesi, yaratıcı tercihler sonucunda elde edilen estetik etkiyi anlatır ve bu, fotoğrafik görmenin bir sonucudur.
 
     <hr />
 
@@ -1817,29 +1380,16 @@
 
     <hr />
 
-### Yaratıcı Kişilik Niteliği
-
-1. Aşağıdakilerden hangisi yaratıcı kişilik niteliğini belirleyen özelliklerden biridir?
-    - A-) Duygular
-    - **Cevap B-) Merak**
-    - C-) Hayal gücü
-    - D-) Tutum
-    - E-) Kişilik
-
-    > **Açıklama:** Ünite 7'de, yaratıcı bir sanatçının eserlerinde bulunan ortak özelliğin 'biçem' (tarz/stil/üslup) olduğu belirtilmiştir. Yaratıcılığı belirleyen iki temel özellik ise 'hayal gücü' ve 'biçem'dir.
-
-    <hr />
-
-### Yaratıcılık Süreci İşlemleri
+### Yaratıcılık Süreci
 
 1. Aşağıdakilerden hangisi yaratıcılık eyleminin hem düşünsel hem de uygulama açısından geçtiği süreçteki işlemlerden biri değildir?
     - A-) İmleme
     - B-) Araştırma
     - C-) Tasarlama
-    - D-) Aktarma
-    - **Cevap E-) Sezgi**
+    - **Cevap D-) Aktarma**
+    - E-) Sezgi
 
-    > **Açıklama:** Ünite 7'ye göre, yaratıcılık eylemi hem düşünsel hem de uygulama açısından; imleme, tasarlama, biçimlendirme, yansıtma ve araştırma işlemleriyle bir süreç içerisinde gerçekleşir. Bu işlemler, 'hayal gücü' ve 'biçem' gibi nitelikleri de kapsar. 'Işık ve Pozlama' ise fotoğraf çekim sürecinin teknik bir bileşenidir, yaratıcılık eyleminin kendisinin temel işlemleri arasında sayılmaz.
+    > **Açıklama:** Ünite 7'deki 'Fotoğrafın Fikir Geliştirme Aşamasında Yaratıcılık' altında, yaratıcılık eyleminin sezgi, araştırma, imleme, tasarlama, biçimlendirme ve yansıtma işlemleriyle gerçekleştiği belirtilmiştir. 'Aktarma' (D şıkkı) bu listede yer almaz; 'yansıtma' (düşünceleri yansıtma/geri bildirim alma) süreci vardır, ancak 'aktarma' doğrudan bir işlem olarak sayılmamıştır.
 
     <hr />
 
@@ -1856,16 +1406,16 @@
 
     <hr />
 
-### Çekim Aşaması Anlatı Ögeleri
+### Çekim Teknikleri ve Yaratıcılık
 
 1. Çekim aşamasında fotoğrafçının yaratıcı performansını belirleyen üç temel anlatı ögesi bulunur. Bunlar ışık ve pozlama, \_\_\_ ve çekim teknikleridir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?<br />A) sezgiler<br />B) düşünme gücü<br />C) yetenekli olma<br />D) kompozisyon oluşturma<br />E) empatik olma
     - A-) sezgiler
     - B-) düşünme gücü
-    - **Cevap C-) yetenekli olma**
-    - D-) kompozisyon oluşturma
+    - C-) yetenekli olma
+    - **Cevap D-) kompozisyon oluşturma**
     - E-) empatik olma
 
-    > **Açıklama:** Ünite 7, Çekim Aşaması başlığı altında, fotoğrafçının yaratıcı performansını belirleyen üç temel anlatı ögesinin bulunduğunu belirtir: 1. Işık ve pozlama, 2. Kompozisyon oluşturma, 3. Çekim teknikleri. Boş bırakılan yer, ikinci öge olan 'kompozisyon oluşturma'yı ifade etmelidir.
+    > **Açıklama:** Ünite 7'de, fotoğrafçının yaratıcı performansını belirleyen üç temel anlatı ögesi şöyle sıralanmıştır: 'Bunlar ışık ve pozlama, kompozisyon oluşturma ve çekim teknikleridir.' Boş bırakılan yer 'kompozisyon oluşturma' olmalıdır (D şıkkı).
 
     <hr />
 
@@ -1881,19 +1431,6 @@
     - E-) Kukla
 
     > **Açıklama:** Şekil Değiştirme/Morphing, 3 boyutlu animasyonlarda iki farklı görüntü arasında geçiş yapmak için görüntüler arasındaki kilit noktalarının eşlenerek form değişikliklerinin bilgisayar yardımıyla oluşturulması tekniğidir.
-
-    <hr />
-
-### Aydınlatma ve Kompozisyon
-
-1. Aydınlatma ve kompozisyonu ilişkin tercihlerle birlikte ortaya çıkan görünümdür. Böylece aradan resmine duranlar (seyirciler) tarafından sıra dışı, farklı ve ilgi çekici, şaşırtıcı bir görünüm kazanabilir.
-    - A-) Fan
-    - B-) Yaratıcılık
-    - C-) Fotoğrafik görme
-    - **Cevap D-) Arka plan**
-    - E-) Arka plan
-
-    > **Açıklama:** Bu durum, Ünite 8'de 'Dramatik Aydınlatma' ve 'Kompozisyon' başlıkları altında açıklanan etkileşim sonucu ortaya çıkan görsel sonuçları ifade eder. Özellikle üç nokta aydınlatma (Anahtar, Dolgu ve Arka Işık) kullanılarak, kompozisyonda yer alan ögelerin hacminin, formunun ve derinliğinin vurgulanması amaçlanır. Bu tercihler, fotoğrafın estetik tarzını ve izleyicideki algıyı şekillendirerek farklı ve ilgi çekici bir görünüm yaratır.
 
     <hr />
 
@@ -1938,24 +1475,14 @@
 
 ### Film Yapım Aşamaları
 
-1. Çekim Senaryosu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
-    - A-) Fransız ve Amerikan formatları vardır.
-    - B-) Senaryoda çekim yerleri belirtilir.
-    - **Cevap C-) Ayrıntılı bilgileri içeren teknik bir metindir.**
-    - D-) Amerikan formatı çekim senaryosunda diyaloglar sayfanın sağ tarafında yer alır.
-    - E-) Film öyküsünün sahnelere bölünerek ayrımlanmasını sağlar.
-
-    > **Açıklama:** Ünite 8'de Çekim Senaryosu; 'Film öyküsünün sahnelere bölünerek ayrımlandığı, çekim yerlerinin belirtildiği, oyuncu diyalogları, kamera, hareket ve çerçeve gibi ayrıntılı bilgileri içeren teknik bir metindir' şeklinde tanımlanmıştır. Dolayısıyla, çekim senaryosunun diyalogları, sahne ayrımlarını ve teknik detayları içerdiği doğrudur. Senaryonun diyalogları içermesi doğruyken, 'diyaloglara yer verilmez' ifadesi Çekim Senaryosu için yanlıştır; bu ifade Sinopsis için geçerlidir.
-
-    <hr />
 1. Aşağıdakilerden hangisi, film yapım aşamalarından biri değildir?<br />A) Yapım Öncesi<br />B) Çekim Öncesi<br />C) Çekim Sonrası<br />D) Yapım Sonrası<br />E) Değerlendirme
     - A-) Yapım Öncesi
     - B-) Çekim Öncesi
     - C-) Çekim Sonrası
-    - **Cevap D-) Yapım Sonrası**
-    - E-) Değerlendirme
+    - D-) Yapım Sonrası
+    - **Cevap E-) Değerlendirme**
 
-    > **Açıklama:** Ünite 8'de film yapım aşamaları Yapım Öncesi, Çekim Öncesi, Çekim Aşaması (Çekim), Dördüncü Aşama (Kurgu/Sayısallaştırma) ve Yapım Sonrası olarak sıralanmıştır. Bu aşamalar arasında doğrudan "Değerlendirme" aşaması bir ana başlık olarak listelenmemiştir. Yapılan kurgu ve son teslimatlar sonrası filmin dağıtımı ve gösterimi (Yapım Sonrası) yer alır, ancak ayrı bir 'Değerlendirme' aşaması bu dört ana aşamaya dahil değildir.
+    > **Açıklama:** Ünite 8'de film yapım aşamaları beş ana başlık altında sıralanmıştır: Yapım Öncesi, Çekim Öncesi, Çekim Aşaması (üçüncü aşama), Dördüncü aşama (kurgu/düzenleme) ve Yapım Sonrası aşama. 'Değerlendirme' (E şıkkı) ayrı bir aşama olarak listelenmemiştir.
 
     <hr />
 1. Telif Hakları film yapımının aşağıdaki aşamalarından hangisi içinde yer alır?
@@ -1968,40 +1495,14 @@
     > **Açıklama:** Telif hakları, genellikle yapımın son aşamalarında, yani filmin basım, dağıtım ve gösterim süreçleriyle ilgilidir. Bu aşama, filmin tamamlanıp hedef kitleye sunulmasıyla ilgilidir. Metinde son aşamanın basım, dağıtım ve gösterim olduğu belirtilmiştir.
 
     <hr />
-1. 'Görsel efekt' aşağıdaki film yapım aşamalarından hangisi içinde yer alır?
-    - **Cevap A-) Yapım sonrası**
-    - B-) Yapım öncesi
-    - C-) Çekim aşaması
-    - D-) Çekim öncesi
-    - E-) Çekim sonrası
+1. 'Görsel efekt' aşağıdaki film yapım aşamalarından hangisi içinde yer alır? *(2 kez soruldu)*
+    - A-) Çekim öncesi
+    - B-) Çekim aşaması
+    - C-) Yapım sonrası
+    - **Cevap D-) Çekim sonrası**
+    - E-) Yapım öncesi
 
-    > **Açıklama:** Ünite 8'e göre görsel efektler, fantastik, zor veya maliyetli görsel unsurların bilgisayar yardımıyla kompozisyon içerisine post-prodüksiyon esnasında yerleştirilmesi, çıkarılması veya eklenmesi işlemidir. Post-prodüksiyon aşaması, çekimler tamamlandıktan sonraki dördüncü aşamadır ve kurgu, renk/ışık ayarlamaları ile görsel efektlerin eklendiği aşamadır.
-
-    <hr />
-
-### Hareketli Görüntüde Anlatı Birimleri
-
-1. Yukarıdaki anlatılan kavram aşağıdakilerden hangisidir?
-    - A-) Tema
-    - B-) Senaryo
-    - **Cevap C-) Sinopsis**
-    - D-) Öğrenme alanı
-    - E-) İçerik
-
-    > **Açıklama:** Ünite 8'de, 'Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan' yapıya 'sekans' adı verildiği belirtilmiştir. Sekans, filmin temel anlatı birimlerinden biridir ve bir hikayenin gelişiminde olay örgüsünü yapılandırmak için kullanılır.
-
-    <hr />
-
-### Kısa Film Türleri
-
-1. Öyküye dayalı olarak ilerleyen kısa film türüne ne ad verilir?
-    - A-) Aldatmaca
-    - B-) Mockumentary
-    - **Cevap C-) Kurmaca**
-    - D-) Belgesel
-    - E-) Parodi
-
-    > **Açıklama:** Kısa film türleri arasında, sinemanın alışılagelmiş anlatı kalıplarını ve sınırlarını genişletmeye yönelik üst üste pozlama, filmi geri sarma gibi yöntemlerin kullanıldığı tür 'Deneysel/İmgesel Kısa Filmler' olarak tanımlanmıştır. Bu filmler, öyküye dayalı ilerlese de deneysellik ön plandadır. (Ünite 8)
+    > **Açıklama:** Ünite 8'de, görsel efektlerin, kompozisyon içerisine post-prodüksiyon esnasında yerleştirilen unsurlar olduğu belirtilmektedir. Film yapım aşamaları sıralanırken, 'Görsel Efektler' başlığı altında, bu işlemlerin çekim sonrası aşamada (post-prodüksiyon) yapıldığı ifade edilir. Bu nedenle Görsel Efektler, Çekim Sonrası aşaması içinde yer alır.
 
     <hr />
 
@@ -2017,30 +1518,36 @@
     > **Açıklama:** Ünite 8'de Metnin Görselleştirilmesi başlığı altında, Sekans, 'Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya sekanslar çıkar' şeklinde tanımlanmıştır. Sekans, olay örgüsünün daha geniş birimlerini ifade eder.
 
     <hr />
-1. Birbirinden farklı zaman ve mekânlarda geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan sahnelere ne ad verilir?
-    - A-) Çekim metni
-    - B-) Shutter
-    - C-) Tretman
-    - D-) Sinopsis
-    - **Cevap E-) Sekans**
 
-    > **Açıklama:** Sekans, birbirini takip eden ve birbiriyle ilişkili olan sahnelerin birleşiminden ortaya çıkan yapı birimidir. Bir sekans çok sayıda sahneden oluşabilir.
+### Senaryo Türleri
+
+1. Çekim Senaryosu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
+    - A-) Fransız ve Amerikan formatları vardır.
+    - B-) Senaryoda çekim yerleri belirtilir.
+    - C-) Ayrıntılı bilgileri içeren teknik bir metindir.
+    - **Cevap D-) Amerikan formatı çekim senaryosunda diyaloglar sayfanın sağ tarafında yer alır.**
+    - E-) Film öyküsünün sahnelere bölünerek ayrımlanmasını sağlar.
+
+    > **Açıklama:** Ünite 8'deki 'Film Yapım Aşamaları' altındaki 'Çekim Senaryosu' tanımına göre, bu metin, film öyküsünün sahnelere bölünerek ayrımlandığı, çekim yerlerinin belirtildiği, oyuncu diyalogları, kamera, hareket ve çerçeve gibi ayrıntılı bilgileri içeren teknik bir metindir. Metinde Amerikan formatında diyalogların sağ tarafta yer aldığına dair spesifik bir bilgi bulunmamaktadır; bu bilgi genellikle senaryo yazım standartlarına aittir ve metin bunu kesin olarak doğrulamamaktadır. Bu nedenle, bu ifadenin yanlış olduğu kabul edilir.
 
     <hr />
-1. Birbirinden farklı zaman ve mekânlarda geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan sahnelere ne ad verilir?
+
+### Sinema Anlatı Birimleri
+
+1. Birbirinden farklı zaman ve mekânlarda geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan sahnelere ne ad verilir? *(3 kez soruldu)*
     - **Cevap A-) Sekans**
-    - B-) Tretman
+    - B-) Çekim metni
     - C-) Sinopsis
-    - D-) Çekim metni
+    - D-) Tretman
     - E-) Shutter
 
-    > **Açıklama:** Ünite 8'de 'Sekans', 'Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan' yapı olarak tanımlanmıştır. Bu, anlatı yapısının temel yapı taşlarından biridir.
+    > **Açıklama:** Birbirinden farklı zaman ve mekânlarda geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan yapıya 'Sekans' adı verilir. Metnin görselleştirilmesi başlığı altında, Sekans'ın, birbiriyle ilişkili olan sahnelerin bir araya gelmesiyle oluştuğu ve çok sayıda sahneden meydana geldiği belirtilmektedir.
 
     <hr />
 
 ### Tema ve Senaryo
 
-1. Bir yazı, müzik ya da görüş olarak televizyon yapımlarınca işlenen ve konunun dayandığı ana fikri ifade eden kavram aşağıdakilerden hangisidir?
+1. Bir yazı, müzik ya da görüş olarak televizyon yapımlarınca işlenen ve konunun dayandığı ana fikri ifade eden kavram aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) İçerik
     - B-) Sinopsis
     - C-) Öğrenme alanı
@@ -2050,79 +1557,14 @@
     > **Açıklama:** Ünite 8'de 'Tema ve Senaryo' başlığı altında, 'Tema kavramı bir yazı, müzik ya da görüş olarak hareketli görsel yapımlarda işlenen ve konunun dayandığı ana fikri ifade eder' denilmektedir. Bu tanım, hareketli görüntü (film) bağlamında konunun ana fikrini ifade eden kavramı doğrudan tanımlamaktadır.
 
     <hr />
-
-## Ünite None
-
-1. Bu soru iptal edilmiştir.
-    <hr />
-1. Genellikle okul öncesi eğitimde kullanılır. Özgün bir fikre ulaşmak için mevcut bir fikri farklı türde sorular sorarak değiştirme ve çeşitlendirme mantığı üzerine kuruludur. Yukarıda anlatılan beyin fırtınası yöntemi aşağıdakilerden hangisidir?
-    - A-) Beyin çizimi
-    - B-) Altı şapkalı düşünme
-    - **Cevap C-) SCAMPER**
-    - D-) Tartışma
-    - E-) Benzetim
-    <hr />
-1. Aşağıdakilerden hangisi "Star Stratejisi"nin olumsuz yönlerinden biridir?
-    - A-) Marka yenileme stratejileri uygulanabilir.
-    - B-) Marka yeni bir görünüme kavuşabilir.
-    - C-) Markaya karşı farkındalık oluşur.
-    - D-) Küresel kampanyalar desteklenir.
-    - **Cevap E-) Ünlü, markayı gölgede bırakabilir.**
-    <hr />
-1. Bir web sitesinin sağ veya sol tarafında yayınlanan uzun, ince boyutlu reklamlara ne ad verilir?
-    - A-) Major reklam
-    - B-) Banner reklam
-    - C-) Mikro reklam
-    - D-) Makro reklam
-    - **Cevap E-) Gökdelen reklamlar**
-    <hr />
-1. Anlatının türüne göre eser/yapıtın duyumsanabilir yapısal özellikleri aşağıdaki kavramlardan hangisi ile açıklanabilir?
-    - A-) Değer
-    - B-) Estetik
-    - **Cevap C-) Biçim**
-    - D-) Anlatı
-    - E-) Görsellik
-    <hr />
-1. Aşağıdakilerden hangisi yaratıcı kişilik niteliğini belirleyen özelliklerden biridir?
-    - A-) Merak
-    - **Cevap B-) Hayal gücü**
-    - C-) Tutum
-    - D-) Kişilik
-    - E-) Duygular
-    <hr />
-1. Aşağıdakilerden hangisi markaların Lovemark olmak için atlamaması gereken adımlardan biridir?
-    - A-) Sonuçlandırın
-    - B-) Serbest bırakın
-    - **Cevap C-) Gerçekleştirin**
-    - D-) Gizleyin
-    - E-) Gelenekselleşin
-    <hr />
-1. Tasarım ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
-    - A-) Sanatsal yaratılışın ilk adımıdır.
-    - B-) Bilinçte ortaya çıkan bir ögedir.
-    - **Cevap C-) Daha önce algılanmış bir nesneyi bilinçte ortaya çıkarır.**
-    - D-) Geniş anlamıyla, bilinç içeriğidir.
-    - E-) Öngörülmüş olanı kabul eder.
-    <hr />
-1. Bir yazı, müzik ya da görüş olarak televizyon yapımlarınca işlenen ve konunun dayandığı ana fikri ifade eden kavram aşağıdakilerden hangisidir?
+1. Yukarıdaki anlatılan kavram aşağıdakilerden hangisidir?
     - **Cevap A-) Tema**
     - B-) Senaryo
     - C-) Sinopsis
     - D-) Öğrenme alanı
     - E-) İçerik
-    <hr />
-1. 'Görsel efekt' aşağıdaki film yapım aşamalarından hangisi içinde yer alır?
-    - A-) Çekim öncesi
-    - B-) Çekim aşaması
-    - **Cevap C-) Yapım sonrası**
-    - D-) Çekim sonrası
-    - E-) Yapım öncesi
-    <hr />
-1. Birbirinden farklı zaman ve mekânlarda geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan sahnelere ne ad verilir?
-    - **Cevap A-) Sekans**
-    - B-) Çekim metni
-    - C-) Sinopsis
-    - D-) Tretman
-    - E-) Shutter
+
+    > **Açıklama:** Ünite 8'de 'Tema ve Senaryo' başlığı altında, tema kavramının 'hareketli görsel yapımlarda işlenen ve konunun dayandığı ana fikri ifade eder' şeklinde tanımlandığı belirtilmektedir. Bu tanım, sorudaki açıklama ile birebir örtüşmektedir.
+
     <hr />
 

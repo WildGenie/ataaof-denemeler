@@ -1,15 +1,5 @@
 # Temel Sanat ve Tasarım Eğitimi - Çıkmış Sorular
 
-## Ünite 0
-
-### İptal Edildi
-
-1. Bu soru iptal edilmiştir.
-
-    > **Açıklama:** Bu soru iptal edilmiştir.
-
-    <hr />
-
 ## Ünite 1
 
 ### Anti-Estetik Kavramı
@@ -79,7 +69,7 @@
 
 ### Sanat Kuramları
 
-1. Umberto Eco'nun, izleyicinin sınırsız yorum yapabilme özgürlüğüne sahip olduğunu söylediği sanat eseri aşağıdakilerden hangisidir?
+1. Umberto Eco'nun, izleyicinin sınırsız yorum yapabilme özgürlüğüne sahip olduğunu söylediği sanat eseri aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - **Cevap A-) Açık yapıt**
     - B-) Katharsis
     - C-) Kapalı metin
@@ -89,7 +79,7 @@
     > **Açıklama:** Metinde Umberto Eco'dan bahsedilmemektedir. Ancak, Dışavurum teorisi, sanatçının duygularını ifade ettiğini iddia eder. Biçimcilik ise eserin çizgi, şekil, renk gibi biçimsel niteliklerine odaklanır. Temsil teorisi ise eserin gerçeği taklit etmesine odaklanır. Metinde sınırsız yorum özgürlüğü ile ilişkilendirilen spesifik bir teori/sanatçı yoktur. Ancak estetik deneyim teorisi, izleyicinin zihinsel eylemini vurgular. Metinde bu özel sorunun cevabını doğrudan destekleyen bir ifade bulunmamaktadır. Ancak, görsel iletişim bağlamında grafik tasarımın pazarlama ile olan ilişkisi arasında 'Algı ve İkna'nın olduğu belirtilmiştir (Ünite 1, Sayfa 2).
 
     <hr />
-1. Rus yazar Tolstoy'un tanımlamaya yönelik çalıştığı ve katkı sağladığı sanat teorisi aşağıdakilerden hangisidir?
+1. Rus yazar Tolstoy'un tanımlamaya yönelik çalıştığı ve katkı sağladığı sanat teorisi aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Biçimcilik
     - B-) Katharsis
     - C-) Ontolojik sanat teorisi
@@ -112,17 +102,7 @@
     > **Açıklama:** Metinde, genel olarak dört temel kategoride incelenen sanat kuramları (temsil ve taklit teorisi, dışavurum teorisi, biçimcilik ve estetik deneyim teorisi) sıralanmıştır. Rus yazar Tolstoy'un, sanatın temel işlevinin, sanatçının hissettiği duyguları alıcıya iletmek olduğu yönündeki görüşü, yani duyguların yüzeye çıkarılması, 'Dışavurum' teorisiyle (İfade Teorisi) doğrudan ilişkilidir.
 
     <hr />
-1. Sanatı tanımlamak için üretilen sanat teorileri arasında aşağıda sunulanlardan hangisi Platon ve Aristoteles'e atfedilir?
-    - **Cevap A-) Taklit ve temsil kuramı**
-    - B-) Dışavurum
-    - C-) Estetik deneyim
-    - D-) Biçimcilik
-    - E-) Performans sanatları
-
-    > **Açıklama:** Platon ve Aristoteles'e atfedilen sanat teorisi, geleneksel olarak 'Taklit Teorisi'dir. Metinde, 'Taklit veya Temsil Olarak Sanat' başlığı altında, bu teorinin günümüzde en eski sanat teorisi olarak kabul edildiği belirtilir. Platon ve Aristoteles'in felsefi tartışmalarının temeli olan mimesis kavramı, bu teoriye dayanır.
-
-    <hr />
-1. Sanatı tanımlamak için üretilen sanat teorileri arasında aşağıda sunulanlardan hangisi Platon ve Aristoteles'e atfedilir?
+1. Sanatı tanımlamak için üretilen sanat teorileri arasında aşağıda sunulanlardan hangisi Platon ve Aristoteles'e atfedilir? *(2 kez soruldu)*
     - **Cevap A-) Taklit ve temsil kuramı**
     - B-) Dışavurum
     - C-) Biçimcilik
@@ -130,29 +110,6 @@
     - E-) Performans sanatları
 
     > **Açıklama:** Ünite 1'deki Sanat Teorileri başlığı altında, en eski sanat teorisi olarak kabul edilen ve mimesis (taklit) kavramıyla yakından ilişkili olan 'Taklit Teorisi'nden bahsedilmektedir. Platon ve Aristoteles'in felsefeleri Taklit Teorisi'nin temellerini oluşturur. Teori, sanatın dünyayı taklit etmesi gerektiğini savunur.
-
-    <hr />
-1. Rus yazar Tolstoy'un tanımlamaya yönelik çalıştığı ve katkı sağladığı sanat teorisi aşağıdakilerden hangisidir?
-    - A-) Biçimcilik
-    - B-) Katharsis
-    - C-) Ontolojik sanat teorisi
-    - D-) Taklit ve temsil
-    - **Cevap E-) Dışavurum**
-
-    > **Açıklama:** Tolstoy, sanatın temelinde duygusal etkileşim ve deneyim olduğunu savunan dışavurum (ifade) teorisine yakın bir konumdadır. Metinde, yirminci yüzyıl boyunca ortaya çıkan dışavurum kuramlarının temel iddiasının, sanatın tam anlamıyla duyguları yüzeye çıkarmak olduğu belirtilmektedir. Tolstoy'un bu alandaki çalışmaları genellikle onun ifade odaklı sanat anlayışıyla ilişkilendirilir.
-
-    <hr />
-
-### Sanat Teorileri ve Yorum
-
-1. Umberto Eco'nun, izleyicinin sınırsız yorum yapabilme özgürlüğüne sahip olduğunu söylediği sanat eseri aşağıdakilerden hangisidir?
-    - A-) Kapalı metin
-    - B-) Katharsis
-    - C-) Dışavurum
-    - **Cevap D-) Açık yapıt**
-    - E-) Mimesis
-
-    > **Açıklama:** Umberto Eco, 'Açık Eser' (The Open Work) kavramında, izleyicinin eseri yorumlamasında sınırsız özgürlüğe sahip olduğunu belirtir. Metin özetinde Eco'dan doğrudan bahsedilmese de, sanatın anlamının algılayan kişi ile eser arasındaki etkileşimle oluştuğu, estetik deneyimin zihinsel eylemden fazlası olduğu ve anlamın göreceli olduğu genel bağlamı bu yorumu desteklemektedir. Ancak bu spesifik bilgi, metinlerin doğrudan bir parçası olmasa da, sanatın birden fazla yoruma açık olma fikri (örn. 'Açık' metinler) ile ilişkilidir. Ünite 3'te geçen "Açık metinler birden fazla ve alternatif yorumları teşvik eder" ifadesi bu bağlama en yakındır. Bu nedenle ilgili ünite 1'dir.
 
     <hr />
 
@@ -188,20 +145,10 @@
     > **Açıklama:** Metinde, 'Sanat ve Zanaat Arasındaki Ayrım' başlığı altında, 'Avrupa'da Rönesans sonrası, zanaat ve sanat arasındaki ayrım gelişmeye başlamıştır.' ifadesi bulunmaktadır. Bu ayrımın itici güçlerinin sanatın kurumsallaşması ve ticari pazarını oluşturması olduğu belirtilmiştir.
 
     <hr />
-1. Bir sanatçının başka bir sanatçının eserini birebir taklit etmesine yani bir kopya üretmesine ne ad verilir?
-    - A-) Katharsis
-    - **Cevap B-) Reprodüksiyon**
-    - C-) Estetik benzerlik
-    - D-) Mimesis
-    - E-) Dışavurum
-
-    > **Açıklama:** Bir sanatçının başka bir sanatçının eserini birebir kopyalaması (taklit etmesi) taklit teorisi bağlamında değerlendirilir. Ünite 1'de, taklit ve temsil teorisi anlatılırken, 'Taklit ve temsil yaklaşımındaki taklit kavramını bir sanat eserini birebir kopyalamak yani onu taklit etmekle karıştırmamak gerekmektedir' denilerek taklidin kopyalama anlamına geldiği ima edilmektedir. Bu eylem, sanatın en eski teorisi olan taklit teorisi ile ilişkilidir.
-
-    <hr />
 
 ### Taklit Teorisi
 
-1. Bir sanatçının başka bir sanatçının eserini birebir taklit etmesine yani bir kopya üretmesine ne ad verilir?
+1. Bir sanatçının başka bir sanatçının eserini birebir taklit etmesine yani bir kopya üretmesine ne ad verilir? *(3 kez soruldu)*
     - **Cevap A-) Reprodüksiyon**
     - B-) Mimesis
     - C-) Katharsis
@@ -209,16 +156,6 @@
     - E-) Estetik benzerlik
 
     > **Açıklama:** Bir sanat eserini birebir kopyalamak, yani onu taklit etmekle karıştırmamak gerekmektedir. Taklit teorisi günümüzde en eski sanat teorisi olarak kabul edilmektedir. Ancak bir sanat eserini birebir kopyalamak 'taklit etme' anlamına gelir, bu da sanat teorisi bağlamında özel bir terim değildir; bu, basit kopyalama eylemidir. Sorunun bağlamında, sanat eserini birebir kopyalama eylemine verilen özel bir ad metinde açıkça belirtilmemiştir, ancak 'taklit' kavramının temelini oluşturur. Eğer soru, bir sanat eserini birebir kopyalamanın kendisini kastetmekteyse, bu basitçe 'Taklit' olarak anılabilir, ancak metinde 'taklit teorisi'nden bahsedilirken, kopyalama eylemi buna indirgenmemesi gerektiği belirtilir. En yakın kavram 'Taklit'tir.
-
-    <hr />
-1. Bir sanatçının başka bir sanatçının eserini birebir taklit etmesine yani bir kopya üretmesine ne ad verilir?
-    - A-) Estetik benzerlik
-    - B-) Dışavurum
-    - C-) Katharsis
-    - D-) Reprodüksiyon
-    - **Cevap E-) Mimesis**
-
-    > **Açıklama:** Bir sanatçının başka bir sanatçının eserini birebir taklit etmesi, yani onu kopyalaması, genellikle sanat teorilerinde 'taklit' kavramıyla ilişkilendirilir. Ünite 1'de belirtildiği üzere, taklit teorisi en eski sanat teorilerinden biridir ve taklit kavramı, bir eseri birebir kopyalamak yani onu taklit etmek anlamına gelebilir. Bu eylem, doğrudan taklit olarak adlandırılır.
 
     <hr />
 
@@ -252,17 +189,7 @@
 
 ### Grafik Tasarım İlkeleri
 
-1. Aşağıdakilerden hangisi grafik tasarımın aşamalarından biri değildir?
-    - A-) Bilgi toplama
-    - B-) Yaratıcılık ve buluş süreci
-    - **Cevap C-) Çerçeveleme**
-    - D-) Çözüm bulma
-    - E-) Problem tanımı
-
-    > **Açıklama:** Ünite 2'de grafik tasarım süreçlerinin beş temel ilkesi Denge, Orantı ve görsel hiyerarşi, Görsel devamlılık, Bütünlük ve Vurgulama olarak belirtilmiştir. Bu ilkeler arasında yer almayan bir seçenek aranmaktadır. Tanıtımda geçen diğer kavramlar (Tasarım Odaklı Düşünme Süreci, İletişim gibi) bu temel ilkeler listesinde yer almaz.
-
-    <hr />
-1. Aşağıdakilerden hangisi grafik tasarımın aşamalarından biri değildir?
+1. Aşağıdakilerden hangisi grafik tasarımın aşamalarından biri değildir? *(3 kez soruldu)*
     - A-) Problem tanımı
     - **Cevap B-) Çerçeveleme**
     - C-) Bilgi toplama
@@ -272,33 +199,10 @@
     > **Açıklama:** Grafik tasarım süreçlerinin temel ilkeleri Becer'e göre Denge, Orantı ve görsel hiyerarşi, Görsel devamlılık, Bütünlük, Vurgulama'dır. Şöhler karton, renkli karton gibi malzemelerle ilgili bir terimdir, tasarım aşaması ilkesi değildir.
 
     <hr />
-1. Aşağıdakilerden hangisi grafik tasarımın aşamalarından biri değildir?
-    - A-) Yaratıcılık ve buluş süreci
-    - B-) Problem tanımı
-    - C-) Çözüm bulma
-    - **Cevap D-) Çerçeveleme**
-    - E-) Bilgi toplama
-
-    > **Açıklama:** Ünite 2'de Grafik Tasarım başlığı altında, grafik tasarım süreçlerini belirleyen beş temel ilke şunlardır: Denge, Orantı ve görsel hiyerarşi, Görsel devamlılık, Bütünlük, Vurgulama. Metinde sayılmayan/listelenmeyen bir seçenek bu aşamalardan biri değildir. Metinde bahsedilen diğer kavramlar (Tipografi gibi) ilke değil, ögedir veya süreç aşamalarıdır (Tasarım Odaklı Düşünme Süreci).
-
-    <hr />
-
-### Kültür Tanımı
-
-1. Bozkurt Güvenç'e göre kültür tanımına ilişkin sınıflandırmada aşağıdakilerden hangisi yer almaz?<br />A) Maddi ve biyolojik alandaki kültür<br />B) Beşeri alandaki kültür<br />C) İdeolojik alandaki kültür<br />D) Bilimsel alandaki kültür<br />E) Estetik alandaki kültür
-    - A-) Maddi ve biyolojik alandaki kültür
-    - B-) Beşeri alandaki kültür
-    - C-) İdeolojik alandaki kültür
-    - D-) Bilimsel alandaki kültür
-    - **Cevap E-) Estetik alandaki kültür**
-
-    > **Açıklama:** Metinde Kültür sosyolojisi bağlamında sanatın diğer bileşenlerine bakıldığında “ideoloji” kavramının sanat düşüncesi, sanat ürünü/sanat ontolojisi ve toplum gibi kavramların dışında görülemeyeceği belirtilir. Kültürün tanımı yapılırken de genellikle duyuş ve düşün birliğini sağlayan bütün değerler olarak tanımlandığı ifade edilir. Metinde kültürün; maddi/biyolojik, beşeri, ideolojik, toplumsal ve estetik gibi bileşenlerinden spesifik olarak bahsederken 'Bilimsel alandaki kültür' şeklinde bir sınıflandırma veya bu kapsamda bir ayrım açıkça belirtilmemiştir. (Ancak genel olarak kültür bilimsel çalışmaları da içerir, ancak verilen sınıflandırma parçası içinde yer almaz.)
-
-    <hr />
 
 ### Mimari Tasarım Akımları
 
-1. Mimaride "hareket" duygusu kazandıran, keskin kenarları olan girinti çıkıntılar, oval, geometrik hatlardan oluşan, geleneksellik karşıtı dinamik, iddialı tasarımlardır, doğa dostu bir anlayışa sahiptir, yapısal özellikleri/formları doğaya uyumludur. Yukarıda tanımlanan mimari anlayış aşağıdakilerden hangisidir?
+1. Mimaride "hareket" duygusu kazandıran, keskin kenarları olan girinti çıkıntılar, oval, geometrik hatlardan oluşan, geleneksellik karşıtı dinamik, iddialı tasarımlardır, doğa dostu bir anlayışa sahiptir, yapısal özellikleri/formları doğaya uyumludur. Yukarıda tanımlanan mimari anlayış aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - A-) Minimalizm
     - B-) Popülizm
     - C-) Postmodernizm
@@ -337,7 +241,7 @@
 
 ### Moda Tasarımı Kavramları
 
-1. Aşağıdakilerden hangisi moda tasarımında görsel imgelerin plastik göstergeler içerisinde değerlendirilmesi içinde yer alır?
+1. Aşağıdakilerden hangisi moda tasarımında görsel imgelerin plastik göstergeler içerisinde değerlendirilmesi içinde yer alır? *(2 kez soruldu)*
     - A-) Simetri ve Asimetri
     - B-) Işık ve Gölge
     - C-) Oran ve Orantı
@@ -361,19 +265,6 @@
 
     <hr />
 
-### Moda Tasarımı ve Göstergeler
-
-1. Aşağıdakilerden hangisi moda tasarımında görsel imgelerin plastik göstergeler içerisinde değerlendirilmesi içinde yer alır?
-    - A-) Oran ve Orantı
-    - B-) Işık ve Gölge
-    - C-) Renk ve Doku
-    - **Cevap D-) Boşluk ve Espas**
-    - E-) Simetri ve Asimetri
-
-    > **Açıklama:** Ünite 2'de Moda Tasarımı, giysilerin insanların çevrelerine görünmek ve iyi hissetmek istedikleri duyguyu vermesiyle ilişkilidir. Görsel imgelerin plastik göstergeler (görsel, etik, kültürel) içinde değerlendirilmesi, moda söyleminin sosyolojik/kültürel değişimler üzerine konumlanması ve giyimden yaşam tarzına kadar bir olguyu kapsamasıyla ilişkilidir. Moda tasarımının estetik ve tasarımın giyim ve aksesuarlara uygulanması anlamına geldiği belirtilmiştir.
-
-    <hr />
-
 ### Postmodern Sanat
 
 1. Aşağıdaki kavramlardan hangisi pratikte Dada ve Neo-Dada ile özdeşleştirilir?
@@ -384,19 +275,6 @@
     - E-) Biçimci-estetik
 
     > **Açıklama:** Metinde, 'Kolaj Teknikleri ve Hazır Nesne Kullanımı' başlığı altında, Kolaj çalışmalarının Kübizm, Dada ve sonrasında Pop sanat içinde yer bularak farklı yönlerde uygulamalara dönüştüğü belirtilir. Dada, sanat tarihinde önemli bir akımdır ve bu bağlamda Dada ile özdeşleştirilen kavramlar ortaya çıkmıştır.
-
-    <hr />
-
-### Sanatta Anlamın Varoluşu
-
-1. Umberto Eco'nun, izleyicinin sınırsız yorum yapabilme özgürlüğüne sahip olduğunu söylediği sanat eseri aşağıdakilerden hangisidir?
-    - A-) Kapalı metin
-    - B-) Dışavurum
-    - **Cevap C-) Açık yapıt**
-    - D-) Katharsis
-    - E-) Mimesis
-
-    > **Açıklama:** Metinde, "Sanat eserleri anlam olarak bir açığa çıkma durumudur. Görünmeyenin görünür, duyulmayanın duyulur, hissedilmeyenin hissedilir olmasını sağlayan sanat bunu yaparken fiziki dünyadaki diğer nesne ve olaylara kıyasla kendi anlamlarını sunma ve görünür kılma çabasına girer." ifadesi yer almaktadır. Umberto Eco'nun açık eser (açık/belirsiz anlam) teorisi, eserin izleyiciye sınırsız yorum yapma özgürlüğü tanıması üzerine kuruludur, bu da metindeki "açığa çıkma durumu" ve izleyicinin anlamı şekillendirmesi fikriyle örtüşür.
 
     <hr />
 
@@ -425,7 +303,7 @@
 
 ### Tasarım Odaklı Düşünme
 
-1. Aşağıdakilerden hangisi tasarım odaklı düşünme süreçlerinden biri değildir?
+1. Aşağıdakilerden hangisi tasarım odaklı düşünme süreçlerinden biri değildir? *(2 kez soruldu)*
     - A-) Test etme
     - B-) Empati
     - C-) Prototip oluşturma
@@ -433,16 +311,6 @@
     - **Cevap E-) Algı**
 
     > **Açıklama:** Tasarım Odaklı Düşünme (Design Thinking) süreçleri: Empati, Tanımlama, Fikir Edinme, Prototip Oluşturma ve Test Etme'dir. Metinde bu dört aşama açıkça belirtilmiştir. Bu aşamalardan biri olmayan bir seçenek doğru cevaptır. Şıklar verilmediği için, metinde geçen aşamalar dışında kalan her şey doğru cevap olabilir. (Ünite 2, Sayfa 1: Tasarım Odaklı Düşünme Süreci)
-
-    <hr />
-1. Aşağıdakilerden hangisi tasarım odaklı düşünme süreçlerinden biri değildir?
-    - A-) Tanımlama
-    - **Cevap B-) Algı**
-    - C-) Prototip oluşturma
-    - D-) Empati
-    - E-) Test etme
-
-    > **Açıklama:** Tasarım Odaklı Düşünme (Design Thinking) süreci; Empati, Tanımlama, Fikir Edinme, Prototip Oluşturma ve Test Etme süreçlerinden oluşur. Verilen seçenekler arasında bu süreçlerden biri olmayan bir ifade bulunmalıdır, ancak soruda seçenekler verilmediği için, standart süreçlerin dışında kalan herhangi bir aşama 'değildir' cevabı olacaktır. Metne göre süreçler: Empati, Tanımlama, Fikir Edinme, Prototip Oluşturma ve Test Etme'dir.
 
     <hr />
 
@@ -487,11 +355,11 @@
 1. Aşağıdakilerden hangisi temel iletişim sürecinin ögelerinden biri değildir?
     - A-) Alıcı
     - B-) Kod çözme
-    - C-) Uyarıcı
-    - **Cevap D-) Geribildirim**
+    - **Cevap C-) Uyarıcı**
+    - D-) Geribildirim
     - E-) Mesaj
 
-    > **Açıklama:** Temel iletişim süreci ögeleri Kaynak (Gönderici), Mesaj, İletişim Kanalı, Kod Çözme (Alıcı tarafından), Alıcı ve Geribildirimdir. Gürültü (parazit) ise iletişim sürecini bozan veya kesintiye uğratan unsurdur, sürecin kendisinin temel bir ögesi sayılmaz.
+    > **Açıklama:** Ünite 2'de Genel anlamda iletişim sürecinin ögeleri; Kaynak (Gönderici), Mesaj, İletişim Kanalı, Kod Çözme, Alıcı ve Geribildirim olarak verilmiştir. 'Uyarıcı' terimi iletişimde mesajın eş anlamlısı olarak geçse de, temel süreç ögeleri listesinde doğrudan yer almamıştır (mesajın kendisi uyarıcıdır). Temel ögeler listesinde Uyarıcı (C) yer almamaktadır, bu yüzden C doğru cevaptır.
 
     <hr />
 
@@ -520,19 +388,6 @@
     - E-) Bilgi referanslı tarafsız, objektif bir bakış açısının temsili
 
     > **Açıklama:** Ünite 3'te (Sayfa 1) Altı Şapkalı Düşünme Modeli açıklanmıştır. Bu modele göre Kırmızı Şapka, 'duyguların, sezgilerin, önsezilerin özgürce ifade edilmesini sağlar' olarak tanımlanmıştır. Diğer seçenekler sırasıyla Mavi Şapka (Kontrol/disiplin), Yeşil Şapka (Yaratıcılık), Sarı Şapka (İyimserlik) ve Beyaz Şapka'ya (Bilgi referanslı tarafsızlık) karşılık gelir. Bu nedenle doğru cevap D seçeneğidir.
-
-    <hr />
-
-### Açık Metin Kavramı
-
-1. Umberto Eco'nun, izleyicinin sınırsız yorum yapabilme özgürlüğüne sahip olduğunu söylediği sanat eseri aşağıdakilerden hangisidir?
-    - **Cevap A-) Açık yapıt**
-    - B-) Dışavurum
-    - C-) Katharsis
-    - D-) Kapalı metin
-    - E-) Mimesis
-
-    > **Açıklama:** Metinde, 'Dil ve Algı' başlığı altında, Umberto Eco'nun görüşlerine değinilmektedir: "Açık metinler birden fazla ve alternatif yorumları teşvik eder." Bu tür metinler, izleyicinin sınırsız yorum yapabilme özgürlüğüne sahip olduğunu ifade eder. Bu bağlamda kastedilen sanat eseri tipi, açık metinlerdendir.
 
     <hr />
 
@@ -572,22 +427,9 @@
 
     <hr />
 
-### Beyin Fırtınası
-
-1. Yeni yaklaşımları tetikleyen, yeni düşünceler zinciri oluşturan farklı bakış açıları paylaşılır. Bu anlayışa göre bir grupta fikir geliştirmenin başarılı olmanın yolu, bütün fikirlere açık olunması, başkalarının özgürce fikir önermesine, izin verilmesine olanak tanınmasıdır. Yukarıda tanımlanan kavram aşağıdakilerden hangisidir?
-    - A-) Yaratıcı, imgesel düşünme
-    - B-) Altı şapkalı düşünme
-    - C-) Görsel düşünme
-    - **Cevap D-) Beyin fırtınası**
-    - E-) Soyut düşünme
-
-    > **Açıklama:** Yukarıda tanımlanan kavram, Edward De Bono tarafından geliştirilen 'Beyin Fırtınası' (veya Altı Şapkalı Düşünme Modelinin bir parçası olarak) tekniğinin temel prensiplerini anlatmaktadır. Bu teknikte, yeni yaklaşımları tetiklemek ve fikir geliştirmek için bütün fikirlere açık olmak, başkalarının özgürce fikir önermesine izin vermek esastır.
-
-    <hr />
-
 ### Beyin Fırtınası Tekniği
 
-1. Yeni yaklaşımları tetikleyen, yeni düşünceler zinciri oluşturan farklı bakış açıları paylaşılır. Bu anlayışa göre bir grupta fikir geliştirmenin başarılı olmanın yolu, bütün fikirlere açık olunması, başkalarının özgürce fikir önermesine, izin verilmesine olanak tanınmasıdır. Yukarıda tanımlanan kavram aşağıdakilerden hangisidir?
+1. Yeni yaklaşımları tetikleyen, yeni düşünceler zinciri oluşturan farklı bakış açıları paylaşılır. Bu anlayışa göre bir grupta fikir geliştirmenin başarılı olmanın yolu, bütün fikirlere açık olunması, başkalarının özgürce fikir önermesine, izin verilmesine olanak tanınmasıdır. Yukarıda tanımlanan kavram aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Soyut düşünme
     - B-) Altı şapkalı düşünme
     - **Cevap C-) Beyin fırtınası**
@@ -598,16 +440,16 @@
 
     <hr />
 
-### Dil ve Anlam İlişkisi
+### Dil ve Algı: Metin Türleri
 
 1. Okuyucu ile buluştuğunda ortaya çıkabilecek alternatif anlamları kapatmaya çalışmayan ve kolayca elde edilebilen tek bir anlamın altını çizmek istemeyen, tersine zengin ve karmaşık okumalara olanak sağlayan metin türüdür.<br />Yukarıda tanımlanan kavram aşağıdakilerden hangisidir?<br />A) Açık metinler<br />B) Metonimler<br />C) Düz anlamlar<br />D) Kapalı metinler<br />E) Yan anlamlar
-    - A-) Açık metinler
+    - **Cevap A-) Açık metinler**
     - B-) Metonimler
     - C-) Düz anlamlar
-    - **Cevap D-) Kapalı metinler**
+    - D-) Kapalı metinler
     - E-) Yan anlamlar
 
-    > **Açıklama:** Soruda, okuyucunun alternatif anlamları kapatmaya çalışmayan, kolayca elde edilebilen tek bir anlamı altını çizmeyen, zengin ve karmaşık okumalara olanak sağlayan metin türü tanımlanmaktadır. Ünite 4'te (Sayfa 4), Barthes'a atıfla, açık metinlerin birden fazla ve alternatif yorumları teşvik ettiği belirtilirken, kapalı metinlerin sınırlı, tek bir yorumu teşvik etme eğiliminde olduğu ifade edilmiştir. Tanım, açık metinlere uymaktadır. Dolayısıyla doğru cevap A seçeneğidir.
+    > **Açıklama:** Ünite 3'te 'Açık metinler'in birden fazla ve alternatif yorumları teşvik ederken, 'Kapalı metinler'in sınırlı, tek bir yorumu teşvik etme eğiliminde olduğu belirtilmiştir. Soruda, alternatif anlamları kapatmayan ve zengin/karmaşık okumalara olanak sağlayan metin türü sorulduğu için, bu tanıma uyan 'Açık metinler' doğru cevaptır.
 
     <hr />
 
@@ -621,19 +463,6 @@
     - E-) Yan anlamlar
 
     > **Açıklama:** Metinde bahsedilen, sınırlı yorum olanakları sunan, esnekliği olmayan, katı anlatımlar sunan ve okuyucuyu önceden belirlenmiş bir yol boyunca yürütmeyi amaçlayan metinler 'Kapalı metinler' olarak tanımlanır. Metin, 'Açık metinler birden fazla ve alternatif yorumları teşvik eder. Kapalı metinler ise sınırlı, tek bir yorumu teşvik etme eğilimindedir.' şeklinde bilgi vermektedir.
-
-    <hr />
-
-### Düşünme Biçimleri
-
-1. --------- akıl yürütme/muhakeme, gözlem, deneyim, yansıtma, analiz yapabilme, değerlendirme, problem çözme gibi zihinsel/bilişsel süreçlerden oluşan pratik düşünme şeklidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tanımlar?
-    - **Cevap A-) Eleştirel düşünme**
-    - B-) Görsel düşünme
-    - C-) Kavramsal düşünme
-    - D-) İmgesel düşünme
-    - E-) Estetik düşünme
-
-    > **Açıklama:** Boş bırakılan yer, 'Eleştirel düşünme' sürecini tanımlamaktadır. Ünite özetinde Eleştirel düşünme, 'akıl yürütme/muhakeme, gözlem, deneyim, yansıtma, analiz yapabilme, değerlendirme, problem çözme gibi zihinsel/ bilişsel süreçlerden oluşan pratik düşünme şeklidir' olarak tanımlanmıştır.
 
     <hr />
 
@@ -722,6 +551,19 @@
 
     <hr />
 
+### Kültür ve Entelektüel Kavram
+
+1. Bozkurt Güvenç'e göre kültür tanımına ilişkin sınıflandırmada aşağıdakilerden hangisi yer almaz?<br />A) Maddi ve biyolojik alandaki kültür<br />B) Beşeri alandaki kültür<br />C) İdeolojik alandaki kültür<br />D) Bilimsel alandaki kültür<br />E) Estetik alandaki kültür
+    - A-) Maddi ve biyolojik alandaki kültür
+    - B-) Beşeri alandaki kültür
+    - **Cevap C-) İdeolojik alandaki kültür**
+    - D-) Bilimsel alandaki kültür
+    - E-) Estetik alandaki kültür
+
+    > **Açıklama:** Ünite 3'te Kültür sosyolojisi bağlamında sanatın diğer bileşenlerine bakıldığında “ideoloji” kavramının sanat düşüncesi, sanat ürünü/sanat ontolojisi ve toplum gibi kavramların dışında görülemeyeceği belirtilmiştir. Bozkurt Güvenç'in sınıflandırmasına (veya genel kültürel/sosyolojik tartışmalara) atıfta bulunulsa da, metinde ideoloji vurgusu yapılmıştır. Seçenekler arasında, kültürel öğeler genellikle maddi/biyolojik, beşeri ve estetik/bilimsel alanları kapsar; ancak metin, sanat alanlarına ilişkin ideolojik söylemin toplumsal kültür pratikleri içinde biçimlendiğini vurgulamaktadır. Verilen doğru şıkkı (C) esas alarak, metinde ideoloji kavramının kültürel söylemin bir parçası olarak geçtiği ve bu bağlamda, ideolojik söylemin kültürel pratiklerin içinde biçimlendiği bilgisi nedeniyle C'nin doğru kabul edildiği söylenebilir (Metinde doğrudan bir sınıflandırma listesi olmamasına rağmen, ideoloji ile kültürün ayrılmaz ilişkisi vurgulanmıştır).
+
+    <hr />
+
 ### Metafor ve Metonimi
 
 1. Bir konuşma şeklidir.<br />Çağrışım odaklıdır.<br />Olay ve olguların yerleri değişebilir.<br />Fikirler birleştirilir, yer değiştirilir.<br />Karşılaştırma ilişkilendirmeye dayalıdır. Yukarıdaki tanımlamanın aşağıdakilerden hangisidir?
@@ -732,6 +574,19 @@
     - E-) Açık metinler
 
     > **Açıklama:** Verilen tanımlar (konuşma şekli, çağrışım odaklılık, olay/olguların yerlerinin değişimi, fikirlerin birleştirilmesi/yer değiştirmesi, karşılaştırma ilişkisine dayalı olması) Metonim (Metonymy) kavramını açıklar. Ünite 3'te, Metonomi'nin, metaforun aksine bir kavramı başka bir kavramla ikame etmek yerine, ilişkili kelimeyle ifade etme, çağrışım odaklı bir konuşma şekli olduğu belirtilmiştir.
+
+    <hr />
+
+### Pratik Düşünme Şekilleri
+
+1. --------- akıl yürütme/muhakeme, gözlem, deneyim, yansıtma, analiz yapabilme, değerlendirme, problem çözme gibi zihinsel/bilişsel süreçlerden oluşan pratik düşünme şeklidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tanımlar?
+    - A-) Eleştirel düşünme
+    - B-) Görsel düşünme
+    - **Cevap C-) Kavramsal düşünme**
+    - D-) İmgesel düşünme
+    - E-) Estetik düşünme
+
+    > **Açıklama:** Ünite 3'te Eleştirel düşünme süreci, akıl yürütme/muhakeme, gözlem, deneyim, yansıtma, analiz yapabilme, değerlendirme, problem çözme gibi zihinsel/bilişsel süreçlerden oluşan pratik düşünme şekli olarak tanımlanmıştır. Bu tanım, sorudaki boşluğu doldurur. Bu nedenle doğru cevap A seçeneğidir.
 
     <hr />
 
@@ -748,19 +603,6 @@
 
     <hr />
 
-### Sanatsal Düşünme Türleri
-
-1. Akıcı ve esnek düşünmeyi gerektiren, yeni ve özgün düşüncelerin, pratiklerin bir yansıması ve yenilikçi, özgün düşüncelerin neden-sonuç ilişkileri bağlamında biçimlendirme becerisidir. Yukardaki tanımlanan düşünme türü aşağıdakilerden hangisidir?
-    - A-) Dikey düşünme
-    - B-) İmgesel düşünme
-    - C-) Yaratıcı düşünme
-    - D-) Analitik düşünce
-    - **Cevap E-) Yanal düşünme**
-
-    > **Açıklama:** Sorunun tanımı, Yaratıcı Düşünme'nin tanımına uymaktadır. Ünite 3'te Yaratıcı Düşünme, akıcı ve esnek düşünmeyi gerektiren, yeni ve özgün düşüncelerin, pratiklerin bir yansıması olarak tanımlanır. Ayrıca yaratıcı düşünme, yenilikçi, özgün düşüncelerin neden-sonuç ilişkileri bağlamında biçimlendirme becerisidir.
-
-    <hr />
-
 ### Yaratıcı Düşünme Biçimleri
 
 1. Mimaride 20. yüzyıl başlarında protest bir sanat anlayışının karşılığı olarak ortaya çıkan, sanat, tasarım, edebiyat alanlarında kullanılan "gelecek" anlamına gelen statüko karşıtı, ezber bozan fenomen bir kavram aşağıdakilerden hangisidir?
@@ -771,6 +613,19 @@
     - E-) Kübist
 
     > **Açıklama:** Metinde, 'Yanal düşünme (lateral düşünme), yaratıcı düşünme eylemiyle önemli paralellik gösterir ve yeni fikirlerin üretilmesiyle ilgilidir. Eski fikirlerden kurtuluş ve yeni fikirlerin teşvik edilmesi, yanal düşünmenin ikiz yönleridir.' şeklinde tanımlanmıştır. Ayrıca 'Iraksak düşünme'nin de birden fazla farklı düşünce üretme yeteneği olduğu belirtilmiştir. 20. yüzyıl başlarında modernizmin reddi bağlamında ortaya çıkan yaratıcı ve ezber bozan anlayış yanal/ıraksak düşünme ile ilişkilidir. Metinde 1960'larda ortaya çıkan 'Optik Sanat (Op-Art)' üç boyutlu yanılsama yaratırken, 'Endüstriyel tasarım'ın evrimi ve 'Postmodern sanat'tan bahsedilmiştir. Ancak, 'Art Nouveau' akımı, radyal denge ve süslemeci yapısıyla 20. yüzyıl başında yer alır ve yenilikçi bir anlayışa sahiptir. Verilen seçenekler arasında, 'Art Nouveau' (Ünite 7'de bahsedilen radyal dengeyi kullanan akım) modernizmin ezber bozan, yenilikçi bir anlayışını temsil eder ve 'gelecek' anlamı taşıyan bir statüko karşıtı fenomen olarak değerlendirilebilir.
+
+    <hr />
+
+### Yaratıcı Düşünme Türleri
+
+1. Akıcı ve esnek düşünmeyi gerektiren, yeni ve özgün düşüncelerin, pratiklerin bir yansıması ve yenilikçi, özgün düşüncelerin neden-sonuç ilişkileri bağlamında biçimlendirme becerisidir. Yukardaki tanımlanan düşünme türü aşağıdakilerden hangisidir?
+    - A-) Dikey düşünme
+    - B-) İmgesel düşünme
+    - **Cevap C-) Yaratıcı düşünme**
+    - D-) Analitik düşünce
+    - E-) Yanal düşünme
+
+    > **Açıklama:** Ünite 3'te Yaratıcı düşünme, 'akıcı ve esnek düşünmeyi gerektiren, yeni ve özgün düşüncelerin, pratiklerin bir yansımasıdır' ve 'Yaratıcı düşünme yenilikçi, özgün düşüncelerin neden-sonuç ilişkileri bağlamında biçimlendirme becerisidir' şeklinde tanımlanmıştır. Bu tanım, sorudaki tanıma uymaktadır. Analitik düşünce mantıksal; Yanal düşünme eski fikirlerden kurtulma ve yeni fikir teşviki ile ilgilidir.
 
     <hr />
 
@@ -828,6 +683,19 @@
 
     <hr />
 
+### Boya Teknikleri ve Malzemeler
+
+1. Aşağıdaki boya çeşitlerinden hangisi diğerlerinden farklı bir özelliğe sahiptir?<br />A) Guaj boya<br />B) Sulu boya<br />C) Yağlı boya<br />D) Akrilik boya<br />E) Ekolin
+    - A-) Guaj boya
+    - B-) Sulu boya
+    - **Cevap C-) Yağlı boya**
+    - D-) Akrilik boya
+    - E-) Ekolin
+
+    > **Açıklama:** Ünite 4'te boyalar su bazlı ve su bazlı olmayan olarak ayrılmıştır. Guaj, Sulu, Akrilik ve Ekolin su bazlı boyalarken; Yağlı boya su bazlı olmayan bir boyadır. Bu nedenle yağlı boya diğerlerinden farklı bir özelliğe sahiptir (su ile inceltilmemesi). Bu nedenle doğru cevap C'dir.
+
+    <hr />
+
 ### Boya Türleri
 
 1. Organik malzemelerden (hayvansal ve bitkisel) elde edilen toz kök boya olarak da adlandırılan ince toz boyalar ve yumurta sarısının karıştırılmasıyla elde edilen en eski boya çeşidi aşağıdakilerdenhangisidir?<br />A) Karakalem<br />B) Tempera<br />C) Guaj boya<br />D) Sulu boya<br />E) Pastel boya
@@ -838,29 +706,6 @@
     - E-) Pastel boya
 
     > **Açıklama:** Ünite 4'te (Sayfa 2), 'Tempera; organik malzemelerden (hayvansal ve bitkisel) elde edilen toz kök boya olarak da adlandırılan ince toz boyalar ve yumurta sarısının karıştırılmasıyla elde edilen ressamların hazırlayıp kullandıkları en eski boya çeşididir' denilmektedir. Bu tanım, soruda verilen tanıma tam olarak uymaktadır. Diğer şıklar (Guaj, Sulu boya, Akrilik, Yağlı boya) farklı bileşimlere sahiptir.
-
-    <hr />
-
-### Boya Türleri Farklılıkları
-
-1. Aşağıdaki boya çeşitlerinden hangisi diğerlerinden farklı bir özelliğe sahiptir?<br />A) Guaj boya<br />B) Sulu boya<br />C) Yağlı boya<br />D) Akrilik boya<br />E) Ekolin
-    - A-) Guaj boya
-    - B-) Sulu boya
-    - C-) Yağlı boya
-    - D-) Akrilik boya
-    - **Cevap E-) Ekolin**
-
-    > **Açıklama:** Ünite 4'te (Sayfa 2) boyalar su bazlı ve su bazlı olmayan olarak ayrılır. Akrilik, sulu boya, guaj boya ve ekolin su bazlı boyalardır. Yağlı boya ise 'su bazlı olmayan bir boyadır' şeklinde belirtilmiştir. Bu nedenle Yağlı Boya (C) diğer su bazlı boyalardan farklı bir özelliğe sahiptir.
-
-    <hr />
-1. Aşağıdaki boya çeşitlerinden hangisi diğerlerinden farklı bir özelliğe sahiptir?
-    - **Cevap A-) Yağlı boya**
-    - B-) Sulu boya
-    - C-) Akrilik boya
-    - D-) Guaj boya
-    - E-) Ekolin
-
-    > **Açıklama:** Ünite 4'te boya çeşitleri anlatılırken, Sulu boya, guaj boya ve ekolin su bazlı boyalar olarak sınıflandırılırken; Yağlı boya su bazlı olmayan bir boyadır. Ayrıca guaj boya 'saydam olmayan' olarak, sulu boya ise 'transparan' (saydam) olarak tanımlanmıştır. Yağlı boyanın kurumasının uzun sürmesi ve su ile inceltilmemesi (solvent gerektirmesi) onu diğerlerinden ayıran temel bir özelliktir.
 
     <hr />
 
@@ -879,7 +724,17 @@
 
 ### Boya Çeşitleri
 
-1. Aşağıdaki boya çeşitlerinden hangisi diğerlerinden farklı bir özelliğe sahiptir?
+1. Sulu boya tekniğinde olduğu gibi transparan özelliğe sahip, suyla nemlendirilmiş kâğıt üzerine anlık, tesadüfi lekelerle çalışılabilen, parlak bir özelliğe sahip likit boya türü aşağıdakilerden hangisidir?
+    - A-) Akrilik boya
+    - B-) Pastel boya
+    - C-) Ekolin
+    - **Cevap D-) Markerler**
+    - E-) Guaj boya
+
+    > **Açıklama:** Ünite 4'te Ekolin boya için, 'Sulu boya tekniğinde olduğu gibi transparan özelliğe sahiptir. Suyla nemlendirilmiş kâğıt üzerine anlık, tesadüfi lekelerle çalışılabilen bu boya parlak bir özelliğe de sahiptir.' bilgisi verilmiştir. Soruda bahsedilen özelliklere uyan boya Ekolin'dir. Markerlar (D) ise keçe uçlu kalemlerdir.
+
+    <hr />
+1. Aşağıdaki boya çeşitlerinden hangisi diğerlerinden farklı bir özelliğe sahiptir? *(2 kez soruldu)*
     - A-) Sulu boya
     - B-) Guaj boya
     - C-) Akrilik boya
@@ -887,19 +742,6 @@
     - E-) Ekolin
 
     > **Açıklama:** Sulu boya, guaj, akrilik ve ekolin su bazlı boyalardır. Yağlı boya ise su bazlı olmayan bir boyadır; su ile inceltilmez, yağ ile inceltilir.
-
-    <hr />
-
-### Dijital Arayüz Ölçüleri
-
-1. Aşağıdakilerden hangisi bilgisayar monitörleri, dijital televizyon ekranları ya da benzeri ekran özelliği olan dijital cihazlardaki ekranların her boyutuna düşen nokta/kare, yani piksel sayısının karşılığı olan terimdir?
-    - A-) Doygunluk
-    - B-) Monitör
-    - C-) NFT
-    - **Cevap D-) Çözünürlük**
-    - E-) Podcast
-
-    > **Açıklama:** Ünite 8'de dijital arayüz ölçüleri anlatılırken, pikselin tanımı bilgisayar ortamında grafik tasarımda kullanılan bir ölçü birimi olarak açıklanmıştır. Metinde "...grafik çizim alanında kullanılacak renk ve içeriklerini belirleyen işaretlemeler yapılarak çalışma alanı oluşturulur. Yüzey alanlarında piksel, inch, cm, mm, punto, pika gibi ölçü birimleri belirlenerek tasarımlar gerçekleştirilebilir." denilmektedir. Piksel, dijital ekranlardaki en küçük nokta/kare birimidir.
 
     <hr />
 
@@ -915,33 +757,10 @@
     > **Açıklama:** Ünite 4'te (Sayfa 3), dijital sanatın ilk örnekleri olarak Benjamin F. Laposky ve Herbert Franke'nin çalışmalarının kabul edildiği belirtilir. Ancak aynı sayfada, Nake'den bahsederken, 'Günümüzde en çok kabul gören sanatçı ve tasarımcılar arasında gösterilenler arasında yer alan Leonardo da Vinci'nin, aynı zamanda bir bilim insanı ve mucit olduğu' ve 'ölümünden sonra yayınlanan Resim Üzerine İnceleme adlı kitabında altı renkten oluşan temel renklerinde, her rengin doğal dünyayla doğrudan bir ilişkisi vardır' bilgisi geçmektedir. Ancak, Leonardo da Vinci'nin dijital sanatın öncüsü olarak anıldığı bilgisi metinde doğrudan yokken, 'Sanat tarihinde sanatçılar, tasarımcılar oran/orantı kavramlarıyla çokça uğraşmıştır' başlığında, 'Leonardo da Vinci, sanatçılığının yanı sıra, aynı zamanda bir bilim insanı ve mucittir.' denilerek sanat ve bilimdeki etkinliğine atıf yapılmıştır. Sorunun bağlamı (eskiz ve üretim teknikleri ünitesinde) düşünüldüğünde, sadece bilim ve sanatla ilişkilendirilen ve eskizleri de olan en bilinen isimlerden biri D) Leonardo da Vinci'dir. (Not: Metinde Laposky ve Franke dijital sanatın ilk örnekleri olarak geçer, ancak Da Vinci de geleneksel eskiz ve bilim/sanat ilişkisi kuran önemli bir figürdür. Verilen seçenekler arasında sanatsal ve bilimsel katkıları en belirgin olan Da Vinci'dir.)
 
     <hr />
-1. Hem bilim hem de sanat alanında eskiz çalışmaları ile dikkat çeken sanatçı aşağıdakilerden hangisidir?
-    - **Cevap A-) Leonardo da Vinci**
-    - B-) Goya
-    - C-) Picasso
-    - D-) Picabia
-    - E-) Rauschenberg
-
-    > **Açıklama:** Ünite 4'te, dijital sanatın ilk örnekleri olarak Benjamin F. Laposky ve Herbert Franke'in çalışmaları kabul edilir. Bu sanatçılar, bilgisayar teknolojisinin ilk dönemlerinde hem sanatsal hem de bilimsel yaklaşımlarla öne çıkmıştır ('dijital sanatın ilk örnekleri olarak kabul edilir' ve 'araştırma laboratuvarlarında, devlet kurumu ve üniversitelerde az sayıda bulunduğundan dolayı bilgisayarla yapılan öncü ve yaratıcı çalışmalar çoğunlukla bilgisayar uzmanları ve matematikçiler tarafından gerçekleştirilmiştir').
-
-    <hr />
-
-### Eskiz Kalemleri
-
-1. Son taslaklarda ya da illüstrasyonlarda iyi sonuçlar elde etmeyi sağlayan ve daha çok grafik, mimari ve teknik çizimlerde kullanılan kalem çeşidi aşağıdakilerden hangisidir?
-    - A-) Lazer kalem
-    - **Cevap B-) Rapido kalem**
-    - C-) Tükenmez kalem
-    - D-) Jel Kalem
-    - E-) Konik kalem
-
-    > **Açıklama:** Ünite 4'te 'Diğer Kalem Çeşitleri' başlığı altında marker, rapido gibi kalemlerden bahsedilirken, 'Rapido kalemler değişmez kalınlıkta düzgün çizgileri çizmek üzere tercih edilir.' ifadesi yer alır. Rapido kalemler (veya teknik çizim uçları), özellikle mimari, grafik ve teknik çizimlerde hassas ve ölçülü çizimler için kullanılır, bu da sorudaki tanıma uymaktadır.
-
-    <hr />
 
 ### Eskiz ve Üretim Teknikleri
 
-1. Hem bilim hem de sanat alanında eskiz çalışmaları ile dikkat çeken sanatçı aşağıdakilerden hangisidir?
+1. Hem bilim hem de sanat alanında eskiz çalışmaları ile dikkat çeken sanatçı aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Rauschenberg
     - **Cevap B-) Leonardo da Vinci**
     - C-) Picasso
@@ -972,19 +791,6 @@
     - E-) leke
 
     > **Açıklama:** Grafik tasarımda birbirine kesişen yatay ve dikey çizgilerden oluşan ızgaraya 'Denge' denir. Grafik tasarım süreçlerini belirleyen beş temel ilke arasında denge yer alır ve bu genellikle bir ızgara sistemiyle sağlanır. (Ünite 4, Grafik Tasarım başlığı ve Ünite 7'deki Hiyerarşi, Oran/Orantı başlıkları da bu kavramla ilgilidir, ancak Ünite 4'te grafik tasarım ilkeleri bağlamında bahsedilmiştir. Ünite 7'de ise Denge ilkesi ayrıntılı anlatılmaktadır. Metinde geçen 'ızgara' tanımına en yakın yer Ünite 4'te grafik tasarım ilkeleri listesinde yoktur. Ancak Ünite 7'deki Denge başlığı, kompozisyonun en önemli yolu olarak belirtilir. Ünite 7'deki Denge başlığında ızgara tanımına doğrudan rastlanmamaktadır. Grafik tasarımda temel ilkelerden biri olarak Denge (yatay ve dikey çizgilerle kompozisyonun sağlanması) önemlidir. Tekrar kontrol edildiğinde, Ünite 7'de denge ile ilgili kısımlar incelenir. Ünite 7'de Artimetrik Denge'de simetri, yatay ve dikey yönlerin kullanımından bahsedilir. Grafik tasarım ilkeleri listesinde ise Denge, Orantı ve görsel hiyerarşi, Görsel devamlılık, Bütünlük, Vurgulama sayılır. Verilen bilgi Ünite 4'teki listeye dayanıyorsa, 'Denge' ana başlığı en uygunudur. Kesin ızgara tanımına en yakın ifade, Denge ilkesinin organizasyonel aracı olarak düşünülebilir. (Ünite 4, Grafik Tasarım başlığı)
-
-    <hr />
-
-### Kalem Çeşitleri
-
-1. Son taslaklarda ya da illüstrasyonlarda iyi sonuçlar elde etmeyi sağlayan ve daha çok grafik, mimari ve teknik çizimlerde kullanılan kalem çeşidi aşağıdakilerden hangisidir?
-    - **Cevap A-) Rapido kalem**
-    - B-) Lazer kalem
-    - C-) Tükenmez kalem
-    - D-) Jel Kalem
-    - E-) Konik kalem
-
-    > **Açıklama:** Ünite 4'e göre, markerlar keçe uçlu kalemlerdir. Rapido kalemler ise değişmez kalınlıkta düzgün çizgiler çizmek üzere tercih edilir ve mürekkep kartuşu ile iğne uçlardan oluşur. Tarama kalem ya da çizim uçları ise daha çok çizgisel kullanımlar ya da desen, grafik çizimleri için kullanılır. Son taslaklarda ya da illüstrasyonlarda iyi sonuçlar elde etmeyi sağlayan ve daha çok grafik, mimari ve teknik çizimlerde kullanılan kalem çeşidi Rapido'dur, çünkü değişmez kalınlıkta düzgün çizgiler çizer.
 
     <hr />
 
@@ -1024,22 +830,9 @@
 
     <hr />
 
-### Sulu Boya
-
-1. Genellikle beyaz renk kullanımı yerine rengin su ile inceltilmiş halinin kullanılmasıyla değer oluşturulan ve beyaz ya da parlaklık etkisi için kâğıdın kendi renginin kullanıldığı teknik aşağıdakilerden hangisidir?
-    - A-) Yağlı boya
-    - B-) Akrilik boya
-    - C-) Guaj boya
-    - **Cevap D-) Sulu boya**
-    - E-) Pastel boya
-
-    > **Açıklama:** Sulu boya, su bazlı bir boya türüdür ve transparan (saydam) özelliğe sahiptir. Beyazlık veya parlaklık için kağıdın beyazlığının kullanıldığı teknik sulu boyadır. Ünite 4'te, 'Sulu boya da guaj boya gibi su bazlı bir boya türüdür. Sulu boyada renkleri berrak bir hâlde pıhtılaşmadan kullanabilmek önemlidir.' ve 'Sulu boya tekniğinde olduğu gibi transparan özelliğe sahiptir. Suyla nemlendirilmiş kâğıt üzerine anlık, tesadüfi lekelerle çalışılabilen bu boya parlak bir özelliğe de sahiptir.' ifadeleri yer almaktadır. Guaj ise saydam olmayan (kapatıcı) bir boyadır.
-
-    <hr />
-
 ### Sulu Boya Tekniği
 
-1. Genellikle beyaz renk kullanımı yerine rengin su ile inceltilmiş halinin kullanılmasıyla değer oluşturulan ve beyaz ya da parlaklık etkisi için kâğıdın kendi renginin kullanıldığı teknik aşağıdakilerden hangisidir?
+1. Genellikle beyaz renk kullanımı yerine rengin su ile inceltilmiş halinin kullanılmasıyla değer oluşturulan ve beyaz ya da parlaklık etkisi için kâğıdın kendi renginin kullanıldığı teknik aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - **Cevap A-) Sulu boya**
     - B-) Akrilik boya
     - C-) Pastel boya
@@ -1063,22 +856,9 @@
 
     <hr />
 
-### Sulu Boya ve Ekolin
-
-1. Sulu boya tekniğinde olduğu gibi transparan özelliğe sahip, suyla nemlendirilmiş kâğıt üzerine anlık, tesadüfi lekelerle çalışılabilen, parlak bir özelliğe sahip likit boya türü aşağıdakilerden hangisidir?
-    - A-) Akrilik boya
-    - B-) Pastel boya
-    - C-) Ekolin
-    - D-) Markerler
-    - **Cevap E-) Guaj boya**
-
-    > **Açıklama:** Ekolin boya, çini mürekkebi ve ekolin likit boya çeşitlerindendir ve sulu boya tekniğinde olduğu gibi transparan özelliğe sahiptir. Suyla nemlendirilmiş kâğıt üzerine anlık, tesadüfi lekelerle çalışılabilen parlak bir özelliğe sahiptir. (Ünite 4, Tasarım ve Sanatta Kullanılan Boya başlığı)
-
-    <hr />
-
 ### Yağlı Boya Tarihçesi
 
-1. Sanat tarihinde ilk yağlı boyayı uyguladığı kabul edilen sanatçı aşağıdakilerden hangisidir?
+1. Sanat tarihinde ilk yağlı boyayı uyguladığı kabul edilen sanatçı aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Leonardo Da Vinci
     - B-) Francisco de Goya
     - C-) Claude Monet
@@ -1088,20 +868,10 @@
     > **Açıklama:** Ünite 4'te yağlı boya tekniğinin gelişimi anlatılırken, 'Yağlı boya tekniği Kuzey Avrupa'da Flaman ülkesinden başlayarak gelişimine Güney Avrupa'da bulunan İtalya'da devam etmiş' ve sanatçıların bu tekniği kullandığı belirtilir. Ancak, ilk yağlı boyayı uyguladığı kabul edilen sanatçının adı metinde açıkça verilmemiştir. Genel sanat tarihi bilgisi ve metindeki ipuçlarına göre, Kuzey Avrupa'da Flaman ressamlar (Jan van Eyck gibi) yağlı boyanın erken öncüleridir. Metinde spesifik bir isim verilmediği için, en yakın bağlam Flaman ülkeleridir.
 
     <hr />
-1. Sanat tarihinde ilk yağlı boyayı uyguladığı kabul edilen sanatçı aşağıdakilerden hangisidir?
-    - A-) Claude Monet
-    - B-) Francisco de Goya
-    - **Cevap C-) Jan Van Eyck**
-    - D-) Leonardo Da Vinci
-    - E-) Pablo Picasso
-
-    > **Açıklama:** Ünite 4'te Yağlı Boya tekniği anlatılırken, bu tekniğin Kuzey Avrupa'da (özellikle Flaman ülkesinden) başlayarak gelişimine değinilmiştir. Metinde doğrudan bir sanatçının adı verilmemekle birlikte, yağlı boya tekniğinin başlangıcının Flaman ülkesine dayandığı bilgisi mevcuttur.
-
-    <hr />
 
 ### Çizim Teknikleri
 
-1. Son taslaklarda ya da illüstrasyonlarda iyi sonuçlar elde etmeyi sağlayan ve daha çok grafik, mimari ve teknik çizimlerde kullanılan kalem çeşidi aşağıdakilerden hangisidir?
+1. Son taslaklarda ya da illüstrasyonlarda iyi sonuçlar elde etmeyi sağlayan ve daha çok grafik, mimari ve teknik çizimlerde kullanılan kalem çeşidi aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - A-) Jel Kalem
     - **Cevap B-) Rapido kalem**
     - C-) Konik kalem
@@ -1114,22 +884,9 @@
 
 ## Ünite 5
 
-### Biçim, Şekil, Form
-
-1. Temelinde kare, üçgen ve dairenin bulunduğu, mimariden grafik tasarımda kullanılan harflere kadar pek çok şeklin temelini oluşturur. Yukarıda anlatılan şekil türü aşağıdakilerden hangisini tanımlar?
-    - A-) Biyomorfik şekiller
-    - **Cevap B-) Geometrik şekiller**
-    - C-) Amorf şekiller
-    - D-) Soyut şekiller
-    - E-) İzomorfik şekiller
-
-    > **Açıklama:** Ünite 5'te Şekil, 'kenarlarıyla ya da sınır çizgileriyle çevresinden ayrılarak öne çıkan alan' olarak tanımlanır. Ayrıca, şekillerin geometrik veya izomorfik olabileceği belirtilir. Temel tasarım ögelerinden olan şekiller, kare, üçgen ve daire gibi temel formların temeli olarak algılanır ve mimariden grafiğe kadar geniş bir alanda kullanılır.
-
-    <hr />
-
 ### Biçimsel Ögeler
 
-1. Temelinde kare, üçgen ve dairenin bulunduğu, mimariden grafik tasarımda kullanılan harflere kadar pek çok şeklin temelini oluşturur. Yukarıda anlatılan şekil türü aşağıdakilerden hangisini tanımlar?
+1. Temelinde kare, üçgen ve dairenin bulunduğu, mimariden grafik tasarımda kullanılan harflere kadar pek çok şeklin temelini oluşturur. Yukarıda anlatılan şekil türü aşağıdakilerden hangisini tanımlar? *(2 kez soruldu)*
     - A-) Amorf şekiller
     - B-) İzomorfik şekiller
     - C-) Soyut şekiller
@@ -1155,7 +912,7 @@
 
 ### Görsel Ögeler
 
-1. Aşağıdakilerden hangisi maddesel olarak var olmayan soyut çizgiye bir örnektir?
+1. Aşağıdakilerden hangisi maddesel olarak var olmayan soyut çizgiye bir örnektir? *(2 kez soruldu)*
     - A-) Karakalem çalışmasında sandalye deseninde ara ara yok olan gözün tamamladığı kontur.
     - B-) Sokak lambasının gölgesiyle belirn konteynırın sivri kenarlarından oluşan çizgiler.
     - C-) Gülerken ağız çevresinde oluşan çizgiler.
@@ -1166,22 +923,9 @@
 
     <hr />
 
-### Kavramsal Ögeler: Çizgi
-
-1. Düz, eğri, dairesel, köşeli, uzun, kısa, kalın, ince gibi pek çok çeşitte fiziksel kombinasyonları olan, noktaların birbirini takibi ile bir dizi, bir zincir gibi oluşan tasarımdaki kavramsal öge aşağıdakilerden hangisidir?
-    - A-) Hacim
-    - **Cevap B-) Çizgi**
-    - C-) Leke
-    - D-) Nokta
-    - E-) Boyut
-
-    > **Açıklama:** Ünite 5'te 'Çizgi', noktaların birbirini takibi ile oluşan, düz, eğri, dairesel, köşeli, uzun, kısa, kalın, ince gibi fiziksel kombinasyonları olabilen kavramsal bir öge olarak tanımlanır.
-
-    <hr />
-
 ### Çizgi Kavramı
 
-1. Düz, eğri, dairesel, köşeli, uzun, kısa, kalın, ince gibi pek çok çeşitte fiziksel kombinasyonları olan, noktaların birbirini takibi ile bir dizi, bir zincir gibi oluşan tasarımdaki kavramsal öge aşağıdakilerden hangisidir?
+1. Düz, eğri, dairesel, köşeli, uzun, kısa, kalın, ince gibi pek çok çeşitte fiziksel kombinasyonları olan, noktaların birbirini takibi ile bir dizi, bir zincir gibi oluşan tasarımdaki kavramsal öge aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - **Cevap A-) Çizgi**
     - B-) Hacim
     - C-) Nokta
@@ -1189,42 +933,6 @@
     - E-) Boyut
 
     > **Açıklama:** Çizgi, noktaların birbirini takibi ile bir dizi, bir zincir gibi oluşan ve uzunluğu boyunca ilerleyerek enerji taşıyan bir ifadedir. Düz, eğri, dairesel, köşeli, uzun, kısa, kalın, ince gibi pek çok çeşitte fiziksel kombinasyonları vardır. (Ünite 5, Çizgi başlığı)
-
-    <hr />
-
-### Çizgi Kavramı Tanımı
-
-1. Aşağıdakilerden hangisi maddesel olarak var olmayan soyut çizgiye bir örnektir?
-    - A-) Sokak lambasının gölgesiyle beliren konteynırın sivri kenarlarından oluşan çizgiler.
-    - B-) Roma rakamlarını oluşturan çizgiler.
-    - **Cevap C-) Bir fenerin oluşturduğu ışık huzmesi gibi algılanan çizgiler.**
-    - D-) Karakalem çalışmasında sandalye deseninde ara ara yok olan gözün tamamladığı kontur.
-    - E-) Gülerken ağız çevresinde oluşan çizgiler.
-
-    > **Açıklama:** Ünite 5'te Çizgi başlığı altında, 'Çizgi, noktaların birbirini takibi ile bir dizi, bir zincir gibi oluşan ve uzunluğu boyunca ilerleyerek enerji taşıyan bir ifadedir. Düz, eğri, dairesel, köşeli, uzun, kısa, kalın, ince gibi pek çok çeşitte fiziksel kombinasyonları vardır' şeklinde tanımlanmıştır. Çizgi, kavramsal bir ögedir ve soyut bir yapıya sahiptir. Maddesel olmayan soyut çizgiye örnek olarak verilebilir.
-
-    <hr />
-1. Düz, eğri, dairesel, köşeli, uzun, kısa, kalın, ince gibi pek çok çeşitte fiziksel kombinasyonları olan, noktaların birbirini takibi ile bir dizi, bir zincir gibi oluşan tasarımdaki kavramsal öge aşağıdakilerden hangisidir?
-    - **Cevap A-) Çizgi**
-    - B-) Leke
-    - C-) Boyut
-    - D-) Hacim
-    - E-) Nokta
-
-    > **Açıklama:** Ünite 5'te Çizgi tanımı, 'Her çocuğun karalamalarla başladığı çizim serüveni nasıl bir keşif süreci ise sanatçılar ve tasarımcılar için de çizme eyleminin analitik ve görsel düşünmenin yollarını deneyen, araştıran bir keşif süreci olduğu söylenebilir. Çizgi, noktaların birbirini takibi ile bir dizi, bir zincir gibi oluşan ve uzunluğu boyunca ilerleyerek enerji taşıyan bir ifadedir. Düz, eğri, dairesel, köşeli, uzun, kısa, kalın, ince gibi pek çok çeşitte fiziksel kombinasyonları vardır' şeklinde açıklanmıştır. Bu tanım, soruda verilen tanıma uymaktadır.
-
-    <hr />
-
-### Çizgi Tanımı
-
-1. Düz, eğri, dairesel, köşeli, uzun, kısa, kalın, ince gibi pek çok çeşitte fiziksel kombinasyonları olan, noktaların birbirini takibi ile bir dizi, bir zincir gibi oluşan tasarımdaki kavramsal öge aşağıdakilerden hangisidir?
-    - **Cevap A-) Çizgi**
-    - B-) Leke
-    - C-) Boyut
-    - D-) Hacim
-    - E-) Nokta
-
-    > **Açıklama:** Noktaların birbirini takibiyle oluşan, fiziksel kombinasyonları olabilen ve dairesel, eğri gibi şekiller alabilen bu kavram, çizginin tanımıdır. Ünite 5'te Çizgi başlığı altında: "Çizgi, noktaların birbirini takibi ile bir dizi, bir zincir gibi oluşan ve uzunluğu boyunca ilerleyerek enerji taşıyan bir ifadedir. Düz, eğri, dairesel, köşeli, uzun, kısa, kalın, ince gibi pek çok çeşitte fiziksel kombinasyonları vardır." şeklinde tanımlanmıştır.
 
     <hr />
 
@@ -1245,7 +953,7 @@
 
 ### Dijital Renk Sistemleri
 
-1. Aşağıdakilerden hangisi baskı teknolojisinde kullanılan CMYK renk sisteminin ana renklerinden biridir?
+1. Aşağıdakilerden hangisi baskı teknolojisinde kullanılan CMYK renk sisteminin ana renklerinden biridir? *(2 kez soruldu)*
     - A-) Mavi
     - B-) Turuncu
     - C-) Kırmızı
@@ -1275,20 +983,10 @@
     > **Açıklama:** Ünite 6'ya göre, tasarımda kullanılan temel renk sistemleri RGB, CMYK, Pantone ve Hexachrome'dur. RGB (Red, Green, Blue), özellikle monitör gibi çıktı aygıtlarında (dijital ortamda) saf ışık temelli renk oluşturmak için kullanılır. Bu nedenle televizyonlarda kullanılan renk modu genellikle RGB'dir.
 
     <hr />
-1. Aşağıdakilerden hangisi baskı teknolojisinde kullanılan CMYK renk sisteminin ana renklerinden biridir?
-    - A-) Turuncu
-    - B-) Yeşil
-    - **Cevap C-) Magenta**
-    - D-) Mavi
-    - E-) Kırmızı
-
-    > **Açıklama:** CMYK renk sistemi, dijital ortamda kullanılan RGB sisteminin aksine, baskı ortamında kullanılan bir renk modelidir. Bu sistemin ana renkleri Cyan (C), Magenta (M), Yellow (Y) ve Key (K - siyah) olarak adlandırılır. Bu nedenle CMYK sisteminin ana renklerinden biri Magenta'dır.
-
-    <hr />
 
 ### Erken Pigment Renkleri
 
-1. Orta Çağ'da kullanılan en önemli pigment rengi aşağıdakilerden hangisidir?
+1. Orta Çağ'da kullanılan en önemli pigment rengi aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - **Cevap A-) Ultramarin mavisi**
     - B-) Kurşun beyazı
     - C-) Prusya mavisi
@@ -1299,22 +997,9 @@
 
     <hr />
 
-### Fiziksel Renk Algısı
-
-1. Çeşitli dalga uzunluğundaki ışınların göz sinirlerinde meydana getirdiği renge ne ad verilir?
-    - A-) Gerçekçi renk
-    - B-) Nötr renk
-    - C-) Ana renk
-    - D-) Psikolojik renk
-    - **Cevap E-) Fizyolojik renk**
-
-    > **Açıklama:** Ünite 6'da 'Renk' başlığı altında, eşyadan yansıyan ışık ışınlarının göz merceğinden geçerek retinaya ulaşması sonucu ortaya çıkan duyumun renk tonu veya renk olarak adlandırıldığı belirtilmektedir. Ayrıca, fizyolojik renk tanımında, 'Herhangi bir rengin beynimizde uyandırdığı duyuma, psikolojik renk, çeşitli dalga uzunluğundaki ışınların göz sinirlerinde meydana getirdiği renge de fizyolojik renk denir.' ifadesi yer alır. Dolayısıyla, bu fizyolojik renktir.
-
-    <hr />
-
 ### Fizyolojik Renk
 
-1. Çeşitli dalga uzunluğundaki ışınların göz sinirlerinde meydana getirdiği renge ne ad verilir?
+1. Çeşitli dalga uzunluğundaki ışınların göz sinirlerinde meydana getirdiği renge ne ad verilir? *(4 kez soruldu)*
     - A-) Nötr renk
     - B-) Gerçekçi renk
     - **Cevap C-) Fizyolojik renk**
@@ -1322,45 +1007,6 @@
     - E-) Ana renk
 
     > **Açıklama:** Fizyolojik renk, bir rengin ışığın maddeler üzerine çarpması ve kısmen soğurulup kısmen yansıması sonucu beynimizde uyandırdığı duyumdur. Bu, dalga uzunlukları ile göz sinirlerinde meydana gelen algılamadır. (Ünite 6, Renk başlığı)
-
-    <hr />
-
-### Fizyolojik Renk Algısı
-
-1. Çeşitli dalga uzunluğundaki ışınların göz sinirlerinde meydana getirdiği renge ne ad verilir?
-    - A-) Kontrast renk
-    - B-) Nötr renk
-    - C-) Psikolojik renk
-    - D-) Ana renk
-    - **Cevap E-) Fizyolojik renk**
-
-    > **Açıklama:** Soruda bahsedilen durum, rengin fizyolojik tanımıdır. Metinde, "Herhangi bir rengin beynimizde uyandırdığı duyuma, psikolojik renk, çeşitli dalga uzunluğundaki ışınların göz sinirlerinde meydana getirdiği renge de fizyolojik renk denir." ifadesiyle bu durum açıklanmaktadır.
-
-    <hr />
-
-### Fizyolojik Renk Tanımı
-
-1. Çeşitli dalga uzunluğundaki ışınların göz sinirlerinde meydana getirdiği renge ne ad verilir?
-    - A-) Psikolojik renk
-    - B-) Kontrast renk
-    - **Cevap C-) Fizyolojik renk**
-    - D-) Ana renk
-    - E-) Nötr renk
-
-    > **Açıklama:** Soru, ışığın farklı dalga boylarının göz sinirlerinde yarattığı duyumun adını sormaktadır. Ünite 6'da, 'Fizyolojik renk denir.' ifadesi yer almaktadır. Metinde, 'Herhangi bir rengin beynimizde uyandırdığı duyuma, psikolojik renk, çeşitli dalga uzunluğundaki ışınların göz sinirlerinde meydana getirdiği renge de fizyolojik renk denir.' şeklinde açıklama bulunmaktadır.
-
-    <hr />
-
-### Fizyolojik Renkler
-
-1. Aşağıdakilerden hangisi beyaz ışığı meydana getiren yedi renkten biri değildir?
-    - A-) Turuncu
-    - B-) Yeşil
-    - **Cevap C-) Kahverengi**
-    - D-) Lacivert
-    - E-) Kırmızı
-
-    > **Açıklama:** Newton'a göre, bir prizmadan kırılan güneş ışığında yedi ana renk vardır ve bu renkler Gökkuşağı'nda da görülür. Bu yedi renk: Kırmızı, turuncu, sarı, yeşil, mavi, çivit mavisi ve menekşe'dir. Şıkkı verilen seçeneklerdeki renklerden 'siyah', yedi rengin tamamının emilmesiyle oluştuğu için bu yedi ana rengin bir parçası değildir (siyah, ışığın yokluğunun veya tüm renklerin emiliminin sonucudur).
 
     <hr />
 
@@ -1390,19 +1036,6 @@
 
     <hr />
 
-### Pigment Renkleri Tarihi
-
-1. Orta Çağ'da kullanılan en önemli pigment rengi aşağıdakilerden hangisidir?
-    - A-) Kurşun beyazı
-    - **Cevap B-) Ultramarin mavisi**
-    - C-) Titanyum beyazı
-    - D-) Kobalt yeşili
-    - E-) Prusya mavisi
-
-    > **Açıklama:** Soru, Orta Çağ'da kullanılan önemli bir pigment rengini sormaktadır. Ünite 6'da, 'Yunanlılar da kırmızı kurşun renk kullanımını geliştirmişlerdir. Romalılar da, Mısırlılar ve Yunanlılar tarafından geliştirilen pigmentleri kullanmışlardır.' ifadesi yer almaktadır. Ayrıca, metinlerde Mısır mavisi gibi pigmentlerden bahsedilse de, Orta Çağ'a yakın dönemlerde ve daha önce önemli olan pigmentlerden bahsedilirken, Yunanlıların geliştirdiği kırmızı kurşun rengi, pigment kullanımı bağlamında önemli bir tarihi referanstır.
-
-    <hr />
-
 ### Rengin Temel Nitelikleri
 
 1. Bir rengin parlaklığını ve yoğunluğunu tanımlayan kavram aşağıdakilerden hangisidir?
@@ -1429,35 +1062,22 @@
 
     <hr />
 
-### Renk Karışımı ve Zıtlık
-
-1. Yeşil rengin kontrastı (zıttı) olan renk aşağıdakilerden hangisidir?
-    - **Cevap A-) Turuncu**
-    - B-) Mavi
-    - C-) Kırmızı
-    - D-) Sarı
-    - E-) Mor
-
-    > **Açıklama:** Ünite 6'ya göre, renk çemberinde zıt iki renkten oluşan tamamlayıcı renklere değinilmiştir. Renk çemberinde kırmızı-turuncu, sarı-turuncu, sarı-yeşil, mavi-yeşil, mavi-mor, kırmızı-mor olmak üzere 6 ara renk vardır. Yeşil (sarı-yeşil ve mavi-yeşil arası) ile en zıt ve tamamlayıcı renkler genellikle kırmızı veya kırmızı-mor tonlarıdır. Ancak renk çemberinde yeşilin zıttı (tamamlayıcısı) genellikle kırmızı-mor (magenta/macenta) aralığındaki bir renktir. Verilen seçenekler arasında, yeşilin en yakın zıtlığı olarak kırmızı tonları (kırmızı-turuncu veya kırmızı-mor) kabul edilir. Eğer renk çemberi standart 12 renk üzerinden düşünülürse, yeşilin zıttı kırmızıdır. Verilen seçenekler arasında net bir kırmızı tonu (kırmızı-turuncu, kırmızı-mor vb.) bulunmadığından, genel olarak yeşilin zıttı olarak kabul edilen kırmızı tonlarına en yakın olan seçeneğe bakılmalıdır. Metinde ara renkler sayılırken "kırmızı-mor" belirtilmiştir. Yeşil, sarı-yeşil ve mavi-yeşil arasıdır. Bu durumda en olası zıtlık kırmızı-turuncu veya kırmızı-mor civarında olacaktır. Metinde spesifik olarak yeşilin zıttı verilmemiştir, ancak renk çemberinin mantığı gereği, yeşil ile tamamlayıcı olan kırmızı tonları (kırmızı-turuncu veya kırmızı-mor) zıttıdır.
-
-    <hr />
-
 ### Renk Psikolojisi
 
-1. Düşüncenin rengi olarak kabul edilen ve kişiler için otorite ve sonsuzluk sembolü olan renk aşağıdakilerden hangisidir?
-    - **Cevap A-) Mor**
+1. Düşüncenin rengi olarak kabul edilen ve kişiler için otorite ve sonsuzluk sembolü olan renk aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Mor
     - B-) Kırmızı
     - C-) Siyah
     - D-) Yeşil
-    - E-) Lacivert
+    - **Cevap E-) Lacivert**
 
-    > **Açıklama:** Ünite 6'da renklerin psikolojik etkileri anlatılırken, mor rengin genellikle düşünceyi, ruhsallığı ve gizemi temsil ettiği, aynı zamanda otorite ve sonsuzluk sembolü olarak kabul edildiği belirtilmektedir. Soru, düşüncenin rengi olarak kabul edilen ve otorite/sonsuzluk sembolü olan rengi sorduğundan, doğru cevap mordur.
+    > **Açıklama:** Ünite 6'da renklerin psikolojik etkileri incelenmiştir. Lacivert (veya mavi), genellikle otorite, sonsuzluk ve güvenle ilişkilendirilir. Metinde spesifik olarak lacivert için bu ifade geçmese de, genel renk psikolojisinde Mavi/Lacivert bu anlamları taşır. Verilen şıklar ve doğru cevap göz önüne alındığında, Lacivert/Mavi'nin otorite ve sonsuzluk ile ilişkilendirilen renk olduğu varsayılır (Ancak metinlerde Kırmızı için 'duygu', Siyah için 'güç, gizem' gibi vurgular varken, Lacivert'in doğrudan bu tanımıyla eşleştirilmesi, diğer renklerin tanımları ışığında zorunludur).
 
     <hr />
 
 ### Renk Sisteminin Kökenleri
 
-1. Ana renkler karıştırma gerektirmez. Görsel olarak başka renklere parçalanamaz ya da tamamlayıcı parçalara indirgenemez. Ana renklerin her biri birbirinden farklıdır çünkü hiçbir ortak yanları yoktur. Yukarıdaki anlatıma örnek verilebilecek renk aşağıdakilerden hangisidir?
+1. Ana renkler karıştırma gerektirmez. Görsel olarak başka renklere parçalanamaz ya da tamamlayıcı parçalara indirgenemez. Ana renklerin her biri birbirinden farklıdır çünkü hiçbir ortak yanları yoktur. Yukarıdaki anlatıma örnek verilebilecek renk aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Turuncu
     - B-) Beyaz
     - C-) Mor
@@ -1465,19 +1085,6 @@
     - **Cevap E-) Sarı**
 
     > **Açıklama:** Soru, renk sistemleri ve ana renkler hakkındadır. Ünite 6'da, 'Ana renkler, diğer renklerin karışımıyla elde edilemeyen sarı, mavi ve kırmızıdan meydana gelir. Bu üç renk eşit olarak ya da farklı oranlarda karıştırıldığında olası diğer ikincil renkler de elde edilir.' ifadesi yer almaktadır. Bu tanıma göre, ana renkler (sarı, mavi, kırmızı) karıştırma gerektirmeyen ve başka renklere indirgenemeyen renklerdir. Bu ana renklerden herhangi biri (kırmızı, sarı, mavi) sorunun cevabı olabilir.
-
-    <hr />
-
-### Renk Sistemleri
-
-1. Ana renkler karıştırma gerektirmez. Görsel olarak başka renklere parçalanamaz ya da tamamlayıcı parçalara indirgenemez. Ana renklerin her biri birbirinden farklıdır çünkü hiçbir ortak yanları yoktur. Yukarıdaki anlatıma örnek verilebilecek renk aşağıdakilerden hangisidir?
-    - A-) Turuncu
-    - B-) Beyaz
-    - C-) Mor
-    - D-) Yeşil
-    - **Cevap E-) Sarı**
-
-    > **Açıklama:** Ünite 6'ya göre, ana renkler (sarı, kırmızı, mavi) diğer renklerin karışımıyla elde edilemeyen ve parçalanamayan renklerdir. Soruda ana renklerin temel özellikleri (karıştırılamama, başka renklere indirgenememe, birbirinden farklı olma) verilmiştir. Bu renklerden biri olan kırmızı (veya sarı veya mavi) ana renktir.
 
     <hr />
 
@@ -1494,19 +1101,6 @@
 
     <hr />
 
-### Renk ve Sembolizm
-
-1. Düşüncenin rengi olarak kabul edilen ve kişiler için otorite ve sonsuzluk sembolü olan renk aşağıdakilerden hangisidir?
-    - **Cevap A-) Lacivert**
-    - B-) Kırmızı
-    - C-) Siyah
-    - D-) Yeşil
-    - E-) Mor
-
-    > **Açıklama:** Ünite 6'da Renk konusu işlenirken, mavi rengin psikolojik olarak otorite ve sonsuzluk sembolü olduğuna dair bir bilgi bulunmamaktadır. Ancak, genel renk algısı ve kültürel kullanımı başlıklarında renklerin kültürel ve psikolojik anlamları olduğu vurgulanır. Genel olarak, mavi renk kültürlerde güven, bilgelik ve otorite ile ilişkilendirilir. Ancak, metinlerde bu spesifik bilgiye doğrudan rastlanmadığından, en uygun cevabın, metinde bahsedilen temel renklerden birini seçmek olduğu varsayılır. CMYK sisteminin ana renklerinden olan Mavi (Cyan) veya Kırmızı (Magenta) seçenekleri güçlü adaylardır. Ancak, metinde maviye dair spesifik bir kültürel atıf varsa onu tercih etmeliyiz. Ünite 6'da mavi, gökkuşağının renklerinden biri olarak geçer, ancak otorite ve sonsuzluk sembolizmi kesin olarak belirtilmez. Fakat CMYK'nin ana renklerinden biri olan Mavi (Cyan) baskı sisteminde temel bir renktir ve genel kültürel algıda otoriteyi temsil edebilir. Verilen seçenekler arasında, temel renkler (sarı, kırmızı, mavi) güçlü adaylardır. Bu tür sorular genellikle 'en baskın sembolik anlama sahip olan temel rengi' sorar. Mavi, sıklıkla otorite ve güvenle ilişkilendirilir.
-
-    <hr />
-
 ### Renk ve Ton
 
 1. Tek bir rengin ton değerinin varyasyonlarına ne ad verilir?
@@ -1520,9 +1114,32 @@
 
     <hr />
 
+### Renk Çemberi
+
+1. Yeşil rengin kontrastı (zıttı) olan renk aşağıdakilerden hangisidir?
+    - A-) Turuncu
+    - B-) Mavi
+    - **Cevap C-) Kırmızı**
+    - D-) Sarı
+    - E-) Mor
+
+    > **Açıklama:** Ünite 6'da renk çemberinde renklerin tamamlayıcılarının zıt renkler olduğu belirtilmiştir. Yeşil rengin ara renk olduğu varsayılırsa, ana renkler Kırmızı, Sarı, Mavi'dir. Tamamlayıcı renkler (zıtları) genel olarak renk çemberinde karşılıklı duranlardır. Metinde yeşil ara rengi için kontrast renk (zıt) olarak kırmızı-turuncu, sarı-yeşil, mavi-yeşil gibi ikili gruplar verilmiştir. Ancak, ana renklerin zıtlarına bakıldığında: Kırmızı'nın zıttı (yeşil-turuncu arasına düşen) civit mavisi/mavi-yeşildir (tamamlayıcı olarak yeşilin zıttı kırmızı-mor/kırmızı-turuncu değildir, tamamlayıcı renk çemberde zıttı olandır). Renk çemberinde yeşilin zıttı kırmızı-mor (veya magenta) civarındadır. Verilen seçenekler arasında, kırmızı ve yeşil zıt olarak kabul edilen temel/ana renk çiftlerinden biridir. Metinde yeşilin karşısındaki renkler arasında 'kırmızı-mor' geçmektedir. Verilen şıklar arasında Kırmızı (C) en yakın zıt/tamamlayıcı çifttir (Kırmızı-Yeşil temel zıtlık olarak kabul edilir).
+
+    <hr />
+1. Yeşil rengin kontrasti (zıttı) olan renk aşağıdakilerden hangisidir?
+    - A-) Sarı
+    - B-) Turuncu
+    - C-) Mor
+    - D-) Mavi
+    - **Cevap E-) Kırmızı**
+
+    > **Açıklama:** Ünite 6'da renk çemberinde 'Tamamlayıcı renkler ise renk çemberinde yer alan zıt iki renkten oluşur.' bilgisi verilmiştir. Renk çemberinde temel zıtlıklar arasında Kırmızı-Yeşil çifti bulunur. Yeşil rengin (ara renk) zıttı Kırmızı-Mor veya Kırmızı-Turuncu civarında yer alır. Verilen seçenekler arasında Kırmızı (E) yeşilin tamamlayıcısı/zıttı olarak en yaygın kabul gören temel renktir.
+
+    <hr />
+
 ### Renklerin Ana ve Ara Tonları
 
-1. Aşağıdakilerden hangisi beyaz ışığı meydana getiren yedi renkten biri değildir?
+1. Aşağıdakilerden hangisi beyaz ışığı meydana getiren yedi renkten biri değildir? *(2 kez soruldu)*
     - A-) Kırmızı
     - B-) Turuncu
     - C-) Lacivert
@@ -1530,19 +1147,6 @@
     - E-) Yeşil
 
     > **Açıklama:** Beyaz ışığı (veya genel olarak tüm renkleri) oluşturan ana renkler kırmızı, sarı ve mavidir (fiziki renkte ana renkler prizmadan kırılan güneş ışığında görülen yedi ana renktir). Metinde, ana renkler; sarı, kırmızı ve mavi olarak belirtilmiş ve bu üç rengin karışımıyla diğer renklerin oluştuğu ifade edilmiştir. Turuncu bir ara renktir (kırmızı-turuncu veya sarı-turuncu karışımıyla oluşur).
-
-    <hr />
-
-### Renklerin Karışımı
-
-1. Yeşil rengin kontrasti (zıttı) olan renk aşağıdakilerden hangisidir?
-    - A-) Sarı
-    - B-) Turuncu
-    - **Cevap C-) Mor**
-    - D-) Mavi
-    - E-) Kırmızı
-
-    > **Açıklama:** Renklerin fiziki olarak algılanmasında temel renkler Kırmızı, Yeşil ve Mavi (RGB) olarak kabul edilir. Bu renklerin karışımıyla diğer renkler oluşur. Pigment renklerinde ise ana renkler Sarı, Kırmızı ve Mavi'dir. Fiziksel renkte Gökkuşağı renkleri temel alınır: Kırmızı, turuncu, sarı, yeşil, mavi, çivit mavisi ve menekşe. Yeşil rengin kontrasti (zıttı) renk tekerleğinde veya spektrumda zıttı olan renktir. Spektrumda yeşilin zıttı kırmızıdır. (Metinde doğrudan zıtlık bilgisi olmasa da, genel renk teorisi ve spektrum bilgisinden hareketle zıtlık kuralı uygulanır).
 
     <hr />
 
@@ -1599,7 +1203,7 @@
 
 ### Bütünlük İlkeleri
 
-1. Aşağıdakilerden hangisi görsel tasarımda bütünlüğü sağlayan ilkelerden biri değildir?
+1. Aşağıdakilerden hangisi görsel tasarımda bütünlüğü sağlayan ilkelerden biri değildir? *(4 kez soruldu)*
     - A-) Devamlılık
     - B-) Tekrar
     - **Cevap C-) Bakış açısı**
@@ -1609,20 +1213,10 @@
     > **Açıklama:** Ünite 7'de Görsel Bütünlük ilkeleri 'yakınlık, tekrar, devamlılık, hizalama, boşluklar' olarak sıralanmıştır. Bu ilkelerden biri olmadığı sorulmaktadır. Seçenekler verilmediği için, metinde geçen bu beş ilke dışındaki bir kavram (örneğin: kontur, zıtlık, vb.) olmalıdır. Ancak, eğer bu beş ilke şıklarda yer alsaydı, listede olmayan bir ilke doğru cevap olacaktı. Sorudaki ilkelere bakıldığında, bu beş ilke bütünlüğü sağlayan temel ilkelerdir. Eğer şıklarda 'Ritim' veya 'Vurgu' gibi bir ilke olsaydı, bunlar bütünlüğü sağlayan Gestalt ilkeleri (Ritim, Vurgu) arasında yer alsa da, doğrudan Bütünlük başlığı altında listelenen ilkeler (yakınlık, tekrar, devamlılık, hizalama, boşluk) arasında sayılmamaktadır. Bu nedenle, listede olmayan bir ilke (örneğin: Ritim) doğru cevap olacaktır.
 
     <hr />
-1. Aşağıdakilerden hangisi görsel tasarımda bütünlüğü sağlayan ilkelerden biri değildir?
-    - A-) Devamlılık
-    - **Cevap B-) Bakış açısı**
-    - C-) Hizalama ve boşluklar
-    - D-) Tekrar
-    - E-) Yakınlık
-
-    > **Açıklama:** Görsel tasarımda bütünlüğü sağlayan ilkeler arasında yakınlık, tekrar, devamlılık, hizalama ve boşluklar (espastır) sayılır. Dokunun birincil tasarım öğesi olduğu belirtilse de, bütünlüğü sağlayan temel ilkelerden biri olarak spesifik olarak listelenmemiştir (dokunun görsel öge olduğu belirtilmiştir).
-
-    <hr />
 
 ### Denge Çeşitleri
 
-1. Aşağıdakilerden hangisi simetrik denge'nin örneklerinden biridir?
+1. Aşağıdakilerden hangisi simetrik denge'nin örneklerinden biridir? *(3 kez soruldu)*
     - A-) Deniz mercanları
     - B-) Üzüm salkımı
     - C-) Ağaç dalları
@@ -1643,16 +1237,6 @@
     - E-) soyut şekiller
 
     > **Açıklama:** Ünite 7'de denge ilkesi anlatılırken, evrenin ve doğanın dengesinde varlık bulduğu, simetrik, asimetrik ve radyal dengenin olduğu belirtilir. Sorudaki cümle '...evrende ve doğada her şey bir denge içerisinde varlık bulur.' bağlamındadır ve doğal elemanların (taşlar, bulutlar, yapraklar) dengeli yapısı radyal denge ile ilişkilendirilebilir. Ancak, verilen metinlerde (Ünite 7, Denge başlığı), bu tür doğal formların 'radyal denge' biçiminin bir parçası olabileceği ima edilmektedir. Daha spesifik olarak, radyal denge, Art Nouveau'da sıkça görülen bir denge biçimi olarak tanımlanır. Sorudaki 'doğal gelişim' ve 'canlı organizmalar' ifadesi, Ünite 6'da doğal dokuların (kaya, toprak, yaprak) tanımlandığı yerdeki bağlama daha yakındır. Ünite 7'de radyal denge, dairesel (radyal) bir biçimde içten dışa yerleştirmeyi ifade eder ve Art Nouveau'da görüldüğü söylenir. Doğadaki organizasyonlar bağlamında 'radyal denge' en uygun kavramdır.
-
-    <hr />
-1. Aşağıdakilerden hangisi simetrik denge'nin örneklerinden biridir?
-    - **Cevap A-) İnsan yüzü**
-    - B-) Ağaç dalları
-    - C-) Bulut kümeleri
-    - D-) Deniz mercanları
-    - E-) Üzüm salkımı
-
-    > **Açıklama:** Ünite 7'de denge türleri arasında simetrik denge, 'Herhangi bir tasarım yüzeyinin ortasından geçtiğini varsaydığımız izafi bir çizginin sağının soluna eşit biçimsel elemanlarla düzenlenmesidir. Genellikle durağan ve hareketsiz bir denge sağlar' şeklinde tanımlanır. Simetrik denge, formal ve düzenli bir yapı gerektirir; bu yapı, kitap özetinde 'Durağan Bütünlük' olarak da adlandırılan bir kompozisyon oluşturur.
 
     <hr />
 
@@ -1681,29 +1265,6 @@
     > **Açıklama:** Bir şekli diğerinden ayırt etme yeteneği, Gestalt psikolojisinin temel ilkelerinden biri olan 'Şekil-Zemin İlişkisi' ile ilgilidir. Ünite 7'de, 'Göz şekilleri ve figürleri birbirinden ayırırken fondan (zemin) da ayırmak ister' şeklinde ifade edilmiştir. Bu, algıda temel bir ayrım yapma yeteneğidir.
 
     <hr />
-1. Ünlü Alman mimar ve tasarımcı L. M. Rohe'un "Less is More (Az, daima çoktur)" sözü aşağıdaki Gestalt ilkelerinden hangisi içinde yer alır?
-    - A-) Yakınlık
-    - B-) Yön
-    - C-) Simetri
-    - D-) Benzerlik
-    - **Cevap E-) Sadelik**
-
-    > **Açıklama:** Ünite 7'deki 'Sadelik' başlığı altında, Alman Mimar L. M. Rohe'un "Less is More (Az, daima çoktur)" sözünün Gestaltın yalınlık ilkesini çok iyi anlattığı belirtilmektedir. Yalınlık ilkesi, bütüne ulaşmak için gereksiz parçaların ayıklanması ve arındırılması temeline dayanır.
-
-    <hr />
-
-### Görsel Bütünlük İlkeleri
-
-1. Aşağıdakilerden hangisi görsel tasarımda bütünlüğü sağlayan ilkelerden biri değildir?
-    - A-) Devamlılık
-    - **Cevap B-) Bakış açısı**
-    - C-) Tekrar
-    - D-) Hizalama ve boşluklar
-    - E-) Yakınlık
-
-    > **Açıklama:** Soru, görsel tasarımda bütünlüğü sağlayan ilkelerden hangisinin listede olmadığını sorgulamaktadır. Ünite 7'de, görsel bütünlüğü sağlayan ilkeler 'yakınlık, tekrar, devamlılık, hizalama, boşluklar' olarak sıralanmıştır. Listede bulunması beklenen diğer temel ilkelerden biri olan 'Kontrast' (Vurgu ve Hiyerarşi ile dolaylı ilişkili olsa da), bu özel bütünlük listesinde sayılmamıştır. Eğer seçeneklerde 'Kontrast' yoksa, bu cevap olabilir. Diğer temel ilkeler (yakınlık, tekrar, devamlılık, hizalama, boşluklar) metinde listelenmiştir. Bu bağlamda, Hiyerarşi, Oran/Orantı ve Vurgu gibi kavramlar bütünlüğü sağlayan temel ilkelerden sayılırken, listede olmayan bir seçenek doğru cevap olacaktır. Sorunun içeriği bütünlük ilkelerini soruyorsa, metinde açıkça listelenenler: yakınlık, tekrar, devamlılık, hizalama, boşluklar. Bu listede olmayan herhangi bir ilke (örneğin 'Kontrast' veya 'Sadelik' gibi) doğru cevap olabilir.
-
-    <hr />
 
 ### Görsel Tasarımda Denge
 
@@ -1717,29 +1278,6 @@
     > **Açıklama:** Bu soru, görsel tasarımda denge ilkeleriyle ilgilidir. Metinde, simetrik denge, asimetrik denge ve radyal denge olmak üzere üç tür dengeden bahsedilmektedir. Radyal denge, tasarım elemanlarının dairesel (radyal) bir biçimde merkezden dışa veya dıştan içe doğru yerleştirilmesi prensibine dayanır ve özellikle Art Nouveau akımında sıkça görülür. Ancak soruda geçen tanım ('Serbest gelişmiş eğilimlere benzeyen taşlarda, bulutlarda, yapraklarda görülen, canlı organizmalarda bulunan şekiller'), genellikle doğal formların kendiliğinden yarattığı düzensiz ve organik yapıları ifade eder ki bu, asimetrik denge veya daha genel anlamda doğal denge kavramıyla ilişkilidir. Ancak verilen seçenekler bağlamında (varsayımsal olarak seçenekler mevcutsa ve radyal denge uygun değilse), doğal formlardaki kendiliğinden oluşumu en iyi temsil eden terim, doğal oluşumu ifade eden radyal denge veya genel denge prensibi olabilir. Ünite 7'de radyal denge, 'Radyal denge ağırlıklı olarak geleneksel ve dekoratif sanatlarda kendisini sıkça gösterir.' şeklinde tanımlanmıştır. Sorunun metindeki tanıma tam olarak uyan seçeneği varsayarak, en uygun bağlam radyal denge veya simetri dışındaki doğal dengeyi ifade eden bir terimdir. Radyal denge dairesel bir yerleşimdir. Doğal formların kendiliğinden oluşan yapısı genellikle asimetrik veya doğal denge ile ilişkilendirilir. Verilen metinde, denge başlığı altında üç tür dengeden bahsedilmektedir: simetrik, asimetrik ve radyal denge. Sorunun tanımı ('Serbest gelişmiş eğilimlere benzeyen taşlarda, bulutlarda, yapraklarda görülen') en çok doğal formların kendiliğinden oluşumuna işaret eder ki bu da asimetrik denge (yeni bir arayışla çıkan) veya genel denge kavramlarıyla ilişkilidir. Eğer seçeneklerde 'Radyal Denge' varsa, bu dairesel yerleşimdir. Eğer seçeneklerde doğal dengeyi ifade eden bir terim yoksa ve radyal denge doğal sanatlarda gösteriliyor deniliyorsa, bu yanıltıcı olabilir. Ancak, metin 1. sayfada sadece simetrik, asimetrik ve radyal dengeyi listeler. Sorudaki 'taşlarda, bulutlarda, yapraklarda görülen' ifadesi en çok doğal oluşumu ima eder. Radyal Denge'nin tanımı merkezileşmeyi ifade ederken, sorudaki tanım daha çok rastgele, doğal yapıya işaret eder. En yakın kavram asimetrik denge veya doğal denge prensibidir. Seçenekler olmadan kesin cevap vermek zor olsa da, metinde geçen ana denge türlerinden birine odaklanmak gerekir. Simetri durağandır. Radyal denge daireseldir. Asimetrik denge, yeni arayışlarla oluşturulan, hareketli bir yapıya kavuşan dengedir. Sorudaki tanım, doğal ve rastgele oluşumlara işaret ettiğinden, burada kastedilen muhtemelen radyal denge değildir. Asimetrik denge, geleneksel simetrinin reddiyle oluşan yeni arayışları temsil eder. Eğer seçeneklerde 'Radyal Denge' varsa ve soru metin dışı bir referansla doğal formları kastediyorsa, cevap radyal denge olabilir.
 
     <hr />
-1. Aşağıdakilerden hangisi simetrik denge'nin örneklerinden biridir?
-    - A-) Deniz mercanları
-    - B-) Üzüm salkımı
-    - C-) Ağaç dalları
-    - D-) Bulut kümeleri
-    - **Cevap E-) İnsan yüzü**
-
-    > **Açıklama:** Soru, simetrik denge ile ilgili bir örneği sormaktadır. Ünite 7'de, simetrik denge, 'Herhangi bir tasarım yüzeyinin ortasından geçtiğini varsaydığımız izafi bir çizginin sağının soluna eşit biçimsel elemanlarla düzenlenmesidir. Genellikle durağan ve hareketsiz bir denge sağlar.' şeklinde tanımlanmıştır. Bu tanıma göre, simetrik dengede elemanlar ortadaki bir eksene göre eşit olarak düzenlenir ve durağanlık yaratır. Soruda verilebilecek seçenekler arasında, kompozisyonun tam ortadan ikiye bölündüğünde her iki yarısının birbirinin ayna görüntüsü olması durumu simetrik denge örneğidir.
-
-    <hr />
-
-### Hiyerarşi Kavramı
-
-1. Biçimsel büyüklük ve küçüklük ile kurgulanan hiyerarşidir. Tasarım yüzeyinde hedef kitlenin mesaja ulaşması ya da kompozisyonda aktif elemanların öne çıkarılması anlamında önem teşkil eder. Yukarıda tanımlanan hiyerarşi türü aşağıdakilerden hangisidir?
-    - A-) Merkezi hiyerarşi
-    - **Cevap B-) Boyutsal hiyerarşi**
-    - C-) Renksel hiyerarşi
-    - D-) Serbest hiyerarşi
-    - E-) Tipografik hiyerarşi
-
-    > **Açıklama:** Ünite 7'de Hiyerarşi (Koram) başlığı altında, hiyerarşinin yapısal olarak yerleşim biçimini belirleyen yöntemler arasında 'Boyutsal Hiyerarşi' tanımlanır: 'Büyüklük ve küçüklük ile kurgulanan hiyerarşidir. Tasarım yüzeyinde hedef kitlenin mesaja ulaşması ya da kompozisyonda aktif elemanların öne çıkarılması anlamında önem teşkil eder. Yazı, görsel, resimleme vs. gibi tasarıma katkı sağlayan elemanların mesaja ait algılanırlığı artırmak için büyütülüp küçültülmesidir.' Bu tanım, sorudaki tanım ile birebir örtüşmektedir.
-
-    <hr />
 
 ### Hiyerarşi Türleri
 
@@ -1751,16 +1289,6 @@
     - **Cevap E-) Boyutsal hiyerarşi**
 
     > **Açıklama:** Soruda tanımlanan hiyerarşi türü, büyüklük ve küçüklük ile kurgulanan, elemanların mesajdaki önemine göre boyutlandırıldığı yapıdır. Metinde bu durum, 'Boyutsal Hiyerarşi: Büyüklük ve küçüklük ile kurgulanan hiyerarşidir... Elemanların mesaja ait algılanırlığı artırmak için büyütülüp küçültülmesidir.' şeklinde açıklanmıştır.
-
-    <hr />
-1. Biçimsel büyüklük ve küçüklük ile kurgulanan hiyerarşidir. Tasarım yüzeyinde hedef kitlenin mesaja ulaşması ya da kompozisyonda aktif elemanların öne çıkarılması anlamında önem teşkil eder. Yukarıda tanımlanan hiyerarşi türü aşağıdakilerden hangisidir?
-    - **Cevap A-) Boyutsal hiyerarşi**
-    - B-) Tipografik hiyerarşi
-    - C-) Renksel hiyerarşi
-    - D-) Kodlama, Sürekli düşünme ve Geri Alma
-    - E-) Merkezi hiyerarşi
-
-    > **Açıklama:** Boyutsal Hiyerarşi; büyüklük ve küçüklük ile kurgulanan hiyerarşidir. Bu hiyerarşide, tasarım yüzeyinde hedef kitlenin mesaja ulaşması ya da kompozisyonda aktif elemanların öne çıkarılması amaçlanır. Bu, elemanların boyutlarının değiştirilmesiyle sağlanır.
 
     <hr />
 
@@ -1793,29 +1321,19 @@
 ### Ritim ve Göz Hareketi
 
 1. Ritim organizasyonu içerisinde göz tersi bir yönde şaşırtılarak ritimden koparılıp yine mesaja yönlendirilebilir Etkileyici bir tasarımda göz, sadece ---- noktası denilen noktaya takılarak, bu noktadan yola çıkmalı ve tüm tasarımı dolaşmalıdır.
-    - **Cevap A-) tekrarlama**
-    - B-) dizonans
+    - A-) tekrarlama
+    - **Cevap B-) dizonans**
     - C-) kadans
     - D-) performans
     - E-) referans
 
-    > **Açıklama:** Ünite 7'deki Ritim başlığı altında, etkileyici bir tasarımda gözün 'dizonans noktası denilen noktaya takılarak, bu noktadan yola çıkmalı ve tüm tasarımı dolaşmalıdır' ifadesi yer almaktadır. Bu ifade, ritmin akışkanlığı ve gözün izlemesi gereken yolu tanımlamaktadır.
+    > **Açıklama:** Ünite 7'de Ritim başlığı altında, etkileyici bir tasarımda gözün, sadece 'dizonans noktası' denilen noktaya takılarak, bu noktadan yola çıkıp tüm tasarımı dolaşması gerektiği belirtilmiştir. Bu, ritim içerisinde gözün şaşırtılmasıyla gerçekleşebilir. Bu nedenle doğru cevap B seçeneğidir.
 
     <hr />
 
 ### Sadelik İlkesi
 
-1. Ünlü Alman mimar ve tasarımcı L. M. Rohe'un "Less is More (Az, daima çoktur)" sözü aşağıdaki Gestalt ilkelerinden hangisi içinde yer alır?
-    - A-) Benzerlik
-    - B-) Yakınlık
-    - C-) Simetri
-    - D-) Yön
-    - **Cevap E-) Sadelik**
-
-    > **Açıklama:** L. M. Rohe'un 'Less is More' (Az, daima çoktur) sözü, Gestalt ilkelerinden 'Sadelik' ilkesini en iyi anlatan ifadedir. Metinde, 'Alman Mimar L. M. Rohe'un bir sözü “Less is More (Az, daima çoktur)” Gestaltın yalınlık ilkesini çok iyi anlatır.' ifadesiyle bu ilişki kurulmuştur.
-
-    <hr />
-1. Ünlü Alman mimar ve tasarımcı L. M. Rohe'un "Less is More (Az, daima çoktur)" sözü aşağıdaki Gestalt ilkelerinden hangisi içinde yer alır?
+1. Ünlü Alman mimar ve tasarımcı L. M. Rohe'un "Less is More (Az, daima çoktur)" sözü aşağıdaki Gestalt ilkelerinden hangisi içinde yer alır? *(3 kez soruldu)*
     - **Cevap A-) Sadelik**
     - B-) Simetri
     - C-) Yön
@@ -1849,22 +1367,9 @@
 
     <hr />
 
-### Tasarım Bütünlüğü İlkeleri
-
-1. Aşağıdakilerden hangisi görsel tasarımda bütünlüğü sağlayan ilkelerden biri değildir?
-    - A-) Yakınlık
-    - B-) Tekrar
-    - **Cevap C-) Bakış açısı**
-    - D-) Devamlılık
-    - E-) Hizalama ve boşluklar
-
-    > **Açıklama:** Görsel tasarımda bütünlüğü sağlayan temel ilkeler arasında yakınlık, tekrar, devamlılık, hizalama ve boşluklar yer alır (Ünite 7, 'Görsel Tasarımda Kompozisyon ve Bütünlük' başlığı altında). Şekil-Zemin ilişkisi de bir ilkedir. Hiyerarşi ise bir ilke değil, hiyerarşinin yapısal yerleşimiyle ilgili bir kavramdır (Örn: Merkezî Hiyerarşi, Takip Hiyerarşisi vb.). Bu nedenle hiyerarşi (veya hiyerarşinin türleri) bütünlüğü sağlayan temel ilkelerden biri olarak listelenmez.
-
-    <hr />
-
 ### Tasarım Hiyerarşisi Türleri
 
-1. Biçimsel büyüklük ve küçüklük ile kurgulanan hiyerarşidir. Tasarım yüzeyinde hedef kitlenin mesaja ulaşması ya da kompozisyonda aktif elemanların öne çıkarılması anlamında önem teşkil eder. Yukarıda tanımlanan hiyerarşi türü aşağıdakilerden hangisidir?
+1. Biçimsel büyüklük ve küçüklük ile kurgulanan hiyerarşidir. Tasarım yüzeyinde hedef kitlenin mesaja ulaşması ya da kompozisyonda aktif elemanların öne çıkarılması anlamında önem teşkil eder. Yukarıda tanımlanan hiyerarşi türü aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - A-) Merkezi hiyerarşi
     - B-) Tipografik hiyerarşi
     - C-) Renksel hiyerarşi
@@ -1888,11 +1393,24 @@
 
     <hr />
 
+### İlişkisel Ögeler: Konum
+
+1. Tasarımda mekânsal derinliği göstermenin bir yolu olan, nesnelerin ya da renk, çizgi boyut gibi ögelerin birbirine göre yerleştirmesiyle mekân algısı yaratan tasarımın ilişkisel ögesi aşağıdakilerden hangisidir?
+    - A-) Oran-orantı
+    - B-) Şekil
+    - C-) Espas
+    - **Cevap D-) Konum**
+    - E-) Hacim
+
+    > **Açıklama:** Ünite 7'de Konum, 'mekânda rengin, şeklin ya da boyutun birbirine göre düzenlenmesidir' ve 'Üç boyutlu derinlik yanılsamasını iki boyutlu yüzeylerde oluşturmak için sanatçılar ve tasarımcılar arka plan konumunu yaratır.' şeklinde tanımlanmıştır. Bu, ögelerin birbirine göre yerleştirilerek mekân algısı yaratma ilkesini ifade eder. Bu nedenle doğru cevap D seçeneğidir.
+
+    <hr />
+
 ## Ünite 8
 
 ### Artırılmış Gerçeklik
 
-1. Bilgisayar destekli verilerin görsel, işitsel, dokunsal, kokusal duyular ile bunları işleyen somatik sinir sistemi ile etkileşime girebilmesine olanak tanıyan deneyim türüne ne ad verilir?
+1. Bilgisayar destekli verilerin görsel, işitsel, dokunsal, kokusal duyular ile bunları işleyen somatik sinir sistemi ile etkileşime girebilmesine olanak tanıyan deneyim türüne ne ad verilir? *(2 kez soruldu)*
     - A-) 3 boyutlu görüntüleme
     - B-) Mobil görüntüleme
     - **Cevap C-) Karma gerçeklik**
@@ -1929,22 +1447,9 @@
 
     <hr />
 
-### Derinlik Algısı
-
-1. Sağ ve sol göz için iki farklı görüntü sinyalinin aynı anda gösterilerek görselde derinlik yanılsamasının elde edildiği yönteme ne ad verilir?
-    - A-) Slit-scan
-    - B-) Agamograph
-    - **Cevap C-) Stereoskopik 3D**
-    - D-) Lomografi
-    - E-) Lentiküler
-
-    > **Açıklama:** Ünite 8'de iki boyutlu yüzeylerde algı yanılsaması başlığı altında, 'Stereoskopik 3D en basit düzeyde kullanıcılarına iki göz için farklı görüntü sinyallerinin gösterilmesiyle izlenilen görselin üç boyutlu şekilde algılanması olarak ifade edilebilir.' denilmektedir. Bu yöntem, iki gözün eş zamanlı ve koordineli çalışmasıyla derinlik algısının oluşmasını sağlayan binoküler görmenin bir uygulamasıdır.
-
-    <hr />
-
 ### Derinlik Algısı Yöntemleri
 
-1. Sağ ve sol göz için iki farklı görüntü sinyalinin aynı anda gösterilerek görselde derinlik yanılsamasının elde edildiği yönteme ne ad verilir?
+1. Sağ ve sol göz için iki farklı görüntü sinyalinin aynı anda gösterilerek görselde derinlik yanılsamasının elde edildiği yönteme ne ad verilir? *(4 kez soruldu)*
     - A-) Lomografi
     - **Cevap B-) Stereoskopik 3D**
     - C-) Agamograph
@@ -1957,7 +1462,7 @@
 
 ### Dijital Ölçü Birimleri
 
-1. Aşağıdakilerden hangisi bilgisayar monitörleri, dijital televizyon ekranları ya da benzeri ekran özelliği olan dijital cihazlardaki ekranların her boyutuna düşen nokta/kare, yani piksel sayısının karşılığı olan terimdir?
+1. Aşağıdakilerden hangisi bilgisayar monitörleri, dijital televizyon ekranları ya da benzeri ekran özelliği olan dijital cihazlardaki ekranların her boyutuna düşen nokta/kare, yani piksel sayısının karşılığı olan terimdir? *(2 kez soruldu)*
     - A-) NFT
     - B-) Podcast
     - C-) Doygunluk
@@ -1965,19 +1470,6 @@
     - **Cevap E-) Çözünürlük**
 
     > **Açıklama:** Metinde, 'Dijital Arayüz Ölçüleri' başlığı altında, bilgisayar ortamında kullanılan ölçü birimlerinden bahsedilmektedir. 'Piksel', 'inch', 'cm', 'mm', 'punto', 'pika' gibi birimler belirtilmiştir. Piksel, dijital arayüzlerdeki en temel birimdir ve ekranlardaki her boyutun nokta/kare sayısının karşılığıdır.
-
-    <hr />
-
-### Gerçeklik ve Virtüellik
-
-1. Bilgisayar destekli verilerin görsel, işitsel, dokunsal, kokusal duyular ile bunları işleyen somatik sinir sistemi ile etkileşime girebilmesine olanak tanıyan deneyim türüne ne ad verilir?
-    - A-) Mobil görüntüleme
-    - B-) Bulut bilişim
-    - C-) 3 boyutlu görüntüleme
-    - **Cevap D-) Karma gerçeklik**
-    - E-) Holografik görüntüleme
-
-    > **Açıklama:** Sanal gerçeklik (VR), bilgisayarlar aracılığıyla sayısal olarak tasarlanan üç boyutlu simülasyonların özel donanımlarla deneyimlenebildiği, insana gerçek yanılmasını en üst düzeyde yaşatan kurgusal ortamlardır. Bu deneyim türü, görsel, işitsel ve diğer duyularla etkileşimi içerir.
 
     <hr />
 
@@ -1994,22 +1486,9 @@
 
     <hr />
 
-### Merkezi Perspektif Tanımları
-
-1. Bakış noktasında durup çizilecek cisme bakan kişinin gerçek bakış noktası (gözleri) hizasından geçtiği varsayılan yatay çizgiye ne ad verilir?
-    - **Cevap A-) Ufuk çizgisi**
-    - B-) Kuş bakışı
-    - C-) Kaçış noktası
-    - D-) Görünüş hattı
-    - E-) Solucan gözü
-
-    > **Açıklama:** Soruda tanımlanan yatay çizgi, merkezi perspektifte kullanılan temel referans çizgisidir. Metinde, "Perspektif çizim yapabilmek için durulan sabit noktaya ‘bakış noktası’, bu noktada durup çizilecek cisme bakan kişinin gerçek bakış noktası (gözleri) hizasından geçtiği varsayılan yatay çizgiye ise ‘ufuk çizgisi' denir." şeklinde ifade edilmiştir.
-
-    <hr />
-
 ### Merkezî Perspektif Kavramı
 
-1. Tren raylarının ortasında duran bir kişi rayların gidiş yönüne doğru baktığında rayların daralarak ufuk çizgisi üzerinde bir noktada birleştiğini görür. Yukarıda gerçekleşen olaya ne ad verilir?
+1. Tren raylarının ortasında duran bir kişi rayların gidiş yönüne doğru baktığında rayların daralarak ufuk çizgisi üzerinde bir noktada birleştiğini görür. Yukarıda gerçekleşen olaya ne ad verilir? *(2 kez soruldu)*
     - **Cevap A-) Kaçış noktası**
     - B-) Görüş noktası
     - C-) Duruş noktası
@@ -2017,32 +1496,6 @@
     - E-) Çizim noktası
 
     > **Açıklama:** Ünite 8'deki Perspektif başlığı altında, 'Tren raylarının ortasında durup rayların gidiş yönüne doğru bakıldığında rayların daralarak ileride bir noktada birleştiği görülür. Bu birleşme noktası tam olarak ufuk çizgisi üzerinde olur ve bu noktaya “kaçış noktası” denir' açıklaması bulunmaktadır. Sorudaki senaryo, merkezî perspektif çiziminin temelini oluşturan kaçış noktasının tanımına tam olarak uymaktadır.
-
-    <hr />
-
-### Mimari Tasarım Anlayışı
-
-1. Mimaride "hareket" duygusu kazandıran, keskin kenarları olan girinti çıkıntılar, oval, geometrik hatlardan oluşan, geleneksellik karşıtı dinamik, iddialı tasarımlardır, doğa dostu bir anlayışa sahiptir, yapısal özellikleri/formları doğaya uyumludur. Yukarıda tanımlanan mimari anlayış aşağıdakilerden hangisidir?
-    - A-) Kübizm
-    - B-) Minimalizm
-    - C-) Postmodernizm
-    - **Cevap D-) Fütürizm**
-    - E-) Popülizm
-
-    > **Açıklama:** Metinde, Art Nouveau akımının tasarımlarında sıkça görülen, dairesel (radyal) dengeyi kullanarak dinamizm ve hareket yaratan, doğaya uyumlu ve yenilikçi anlayışa sahip mimari cephelerden bahsedilmektedir. Art Nouveau, geleneksellik karşıtı dinamik ve iddialı tasarımları ile tanınır.
-
-    <hr />
-
-### Mimari Tasarım ve Akım
-
-1. Mimaride "hareket" duygusu kazandıran, keskin kenarları olan girinti çıkıntılar, oval, geometrik hatlardan oluşan, geleneksellik karşıtı dinamik, iddialı tasarımlardır, doğa dostu bir anlayışa sahiptir, yapısal özellikleri/formları doğaya uyumludur. Yukarıda tanımlanan mimari anlayış aşağıdakilerden hangisidir?
-    - A-) Minimalizm
-    - B-) Kübizm
-    - **Cevap C-) Fütürizm**
-    - D-) Popülizm
-    - E-) Postmodernizm
-
-    > **Açıklama:** Metinde Art Nouveau akımının (Radyal Denge bağlamında da geçiyor) tasarımlara kattığı dinamizmden bahsedilmektedir: "Özellikle grafik tasarım tarihinde uzak doğu'ya duyulan hayranlığın süslemeci bir yapıda ifadesini bulan Art Nouveau akımının tasarımlarında ve mimari cephelerinde sıkça görülen bir denge biçimidir." Ayrıca, 2. sayfada, Art Nouveau'nun 'fütürizmden etkilenen bir hareket' olduğu belirtilmektedir. Tanımlanan özellikler (dinamik, doğaya uyumlu formlar, geleneksellik karşıtı) Art Nouveau ile uyumludur.
 
     <hr />
 
@@ -2059,35 +1512,9 @@
 
     <hr />
 
-### Perspektif Teknikleri
-
-1. İnsan gözüne en yakın ve gerçekçi sonuçlar veren perspektif türü aşağıdakilerden hangisidir?
-    - A-) Aksonometrik
-    - B-) Dimetrik
-    - **Cevap C-) Konik**
-    - D-) Kabine
-    - E-) Paralel
-
-    > **Açıklama:** Ünite 8'de perspektif türleri anlatılırken, 'İnsan gözüne en yakın ve gerçekçi sonuçlar veren perspektif türü merkezî (konik) perspektiftir' ifadesi yer almaktadır. Merkezî perspektif, tek, çift veya üç kaçış noktası kullanarak derinlik illüzyonu yaratır.
-
-    <hr />
-
-### Perspektif Terimleri
-
-1. Bakış noktasında durup çizilecek cisme bakan kişinin gerçek bakış noktası (gözleri) hizasından geçtiği varsayılan yatay çizgiye ne ad verilir?
-    - A-) Kaçış noktası
-    - B-) Görünüş hattı
-    - C-) Kuş bakışı
-    - D-) Solucan gözü
-    - **Cevap E-) Ufuk çizgisi**
-
-    > **Açıklama:** Ünite 8'de perspektif terimleri açıklanırken, 'Bakış noktasından ufuk çizgisine doğru baktığımız yöne ise “görüş hattı” denilir' ifadesi yer alır. Ayrıca, 'Perspektif çizim yapabilmek için durulan sabit noktaya “bakış noktası”, bu noktada durup çizilecek cisme bakan kişinin gerçek bakış noktası (gözleri) hizasından geçtiği varsayılan yatay çizgiye ise “ufuk çizgisi” denir.' şeklinde ifade edilir. Dolayısıyla, bakış noktasından geçen yatay çizgi ufuk çizgisi olarak adlandırılır.
-
-    <hr />
-
 ### Perspektif Türleri
 
-1. İnsan gözüne en yakın ve gerçekçi sonuçlar veren perspektif türü aşağıdakilerden hangisidir?
+1. İnsan gözüne en yakın ve gerçekçi sonuçlar veren perspektif türü aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - A-) Aksonometrik
     - B-) Paralel
     - C-) Kabine
@@ -2097,56 +1524,10 @@
     > **Açıklama:** Ünite 8'de Perspektif başlığı altında, 'İnsan gözüne en yakın ve gerçekçi sonuçlar veren perspektif türü merkezî (konik) perspektiftir' ifadesi yer almaktadır. Merkezî perspektif, tek, çift veya üç kaçış noktalı çizim tekniklerini kapsar.
 
     <hr />
-1. İnsan gözüne en yakın ve gerçekçi sonuçlar veren perspektif türü aşağıdakilerden hangisidir?
-    - A-) Aksonometrik
-    - **Cevap B-) Merkezi (Konik)**
-    - C-) Dimetrik
-    - D-) Kabine
-    - E-) Paralel
-
-    > **Açıklama:** Metinde, perspektif türleri arasında 'İnsan gözüne en yakın ve gerçekçi sonuçlar veren perspektif türü merkezî (konik) perspektiftir' ifadesi yer almaktadır. Bu, üç boyut yanılsaması yaratmada en çok kullanılan tekniktir.
-
-    <hr />
-1. İnsan gözüne en yakın ve gerçekçi sonuçlar veren perspektif türü aşağıdakilerden hangisidir?
-    - A-) Dimetrik
-    - B-) Aksonometrik
-    - C-) Paralel
-    - **Cevap D-) Konik**
-    - E-) Kabine
-
-    > **Açıklama:** Perspektif çizim teknikleri arasında, insan gözüne en yakın ve en gerçekçi sonuçları veren tür Merkezî (Konik) Perspektif'tir. Bu perspektifte tek kaçış noktası kullanılır.
-
-    <hr />
-
-### Perspektif ve Derinlik
-
-1. Tasarımda mekânsal derinliği göstermenin bir yolu olan, nesnelerin ya da renk, çizgi boyut gibi ögelerin birbirine göre yerleştirmesiyle mekân algısı yaratan tasarımın ilişkisel ögesi aşağıdakilerden hangisidir?
-    - A-) Oran-orantı
-    - B-) Şekil
-    - **Cevap C-) Espas**
-    - D-) Konum
-    - E-) Hacim
-
-    > **Açıklama:** Mekân algısı, derinlik ve hareket açısından görsel algı çerçevesinde üç boyutlu etki yaratmak için perspektif teknikleri kullanılır. Tek kaçış noktalı perspektifte kaçış noktası, görüş hattının ufuk çizgisi ile birleştiği noktadır. Çift kaçış noktalı perspektifte iki kaçış noktası bulunur. Üç kaçış noktalı perspektif çiziminde ise üçüncü kaçış noktası, cismin yukarıdan veya alttan görünüşüne göre ufuk çizgisinin üzerinde veya altında konumlandırılarak derinlik illüzyonu yaratılır. (Ünite 8, Perspektif başlığı)
-
-    <hr />
-
-### Perspektif Çizim Teknikleri
-
-1. Tren raylarının ortasında duran bir kişi rayların gidiş yönüne doğru baktığında rayların daralarak ufuk çizgisi üzerinde bir noktada birleştiğini görür. Yukarıda gerçekleşen olaya ne ad verilir?
-    - A-) Görüş noktası
-    - B-) Çizim noktası
-    - C-) Bakış noktası
-    - **Cevap D-) Kaçış noktası**
-    - E-) Duruş noktası
-
-    > **Açıklama:** Bu durum, perspektif çizimde kullanılan kaçış noktası kavramıyla ilgilidir. Ünite 8'de, tek kaçış noktalı perspektif, çift kaçış noktalı perspektif ve üç kaçış noktalı perspektif anlatılmaktadır. Tren raylarının ufuk çizgisi üzerinde tek bir noktada birleşmesi, 'tek kaçış noktalı perspektif' tekniğinin görsel örneğidir. Metinde, 'Tren raylarının ortasında durup rayların gidiş yönüne doğru bakıldığında rayların daralarak ileride bir noktada birleştiği görülür. Bu birleşme noktası tam olarak ufuk çizgisi üzerinde olur ve bu noktaya “kaçış noktası” denir.' denilmektedir.
-
-    <hr />
 
 ### Perspektif Çizim Terimleri
 
-1. Bakış noktasında durup çizilecek cisme bakan kişinin gerçek bakış noktası (gözleri) hizasından geçtiği varsayılan yatay çizgiye ne ad verilir?
+1. Bakış noktasında durup çizilecek cisme bakan kişinin gerçek bakış noktası (gözleri) hizasından geçtiği varsayılan yatay çizgiye ne ad verilir? *(3 kez soruldu)*
     - A-) Kaçış noktası
     - B-) Kuş bakışı
     - **Cevap C-) Ufuk çizgisi**
@@ -2154,29 +1535,6 @@
     - E-) Solucan gözü
 
     > **Açıklama:** Ünite 8'de Perspektif bölümünde, 'Perspektif çizim yapabilmek için durulan sabit noktaya “bakış noktası”, bu noktada durup çizilecek cisme bakan kişinin gerçek bakış noktası (gözleri) hizasından geçtiği varsayılan yatay çizgiye ise “ufuk çizgisi” denir' ifadesi yer almaktadır. Bu yatay çizgi, gökyüzü ile yeryüzünün birleştiği noktayı temsil eder.
-
-    <hr />
-
-### Stereoskopik Algılama
-
-1. Sağ ve sol göz için iki farklı görüntü sinyalinin aynı anda gösterilerek görselde derinlik yanılsamasının elde edildiği yönteme ne ad verilir?
-    - A-) Slit-scan
-    - B-) Agamograph
-    - C-) Lomografi
-    - **Cevap D-) Stereoskopik 3D**
-    - E-) Lentiküler
-
-    > **Açıklama:** Soru, iki göze farklı sinyaller göstererek derinlik yanılsaması yaratma yöntemini sormaktadır. Ünite 8'de, bu durumun tanımı şu şekildedir: 'Stereoskopik 3D en basit düzeyde kullanıcılarına iki göz için farklı görüntü sinyallerinin gösterilmesiyle izlenilen görselin üç boyutlu şekilde algılanması olarak ifade edilebilir.' Bu, monoküler yöntemlerin aksine binoküler görmenin bir uygulamasıdır ve 'Stereoskopik' terimi ile ifade edilir.
-
-    <hr />
-1. Sağ ve sol göz için iki farklı görüntü sinyalinin aynı anda gösterilerek görselde derinlik yanılsamasının elde edildiği yönteme ne ad verilir?
-    - A-) Lomografi
-    - B-) Slit-scan
-    - C-) Lentiküler
-    - D-) Agamograph
-    - **Cevap E-) Stereoskopik 3D**
-
-    > **Açıklama:** Stereoskopik (ing. stereoscopic) algılama, bu alandaki ilk uygulamalardandır. Basit düzeyde, kullanıcılara iki göz için farklı görüntü sinyallerinin gösterilmesiyle görselin üç boyutlu şekilde algılanması sağlanır.
 
     <hr />
 
@@ -2208,32 +1566,14 @@
 
 ### Üç Boyutlu Teknikler
 
-1. Kinetik sanat dallarında eserler veren İsrailli bir heykeltıraşın adını alan ve farklı açılardan bakıldığında değişen optik illüzyonlara dayalı üç boyutlu tasarım uygulama tekniğine ne ad verilir?
-    - A-) Agamograph
-    - **Cevap B-) Lentiküler**
+1. Kinetik sanat dallarında eserler veren İsrailli bir heykeltıraşın adını alan ve farklı açılardan bakıldığında değişen optik illüzyonlara dayalı üç boyutlu tasarım uygulama tekniğine ne ad verilir? *(2 kez soruldu)*
+    - **Cevap A-) Agamograph**
+    - B-) Lentiküler
     - C-) Fovizm
     - D-) De Stijl
     - E-) Op-Art
 
-    > **Açıklama:** Soru, farklı açılardan bakıldığında değişen optik illüzyonlar yaratan ve kinetik sanatla ilişkili olan bir tekniği sormaktadır. Metinde, 'Agamograph, ona farklı açılardan baktığınızda değişen optik illüzyonlar yaratan bir sanat formu olarak ortaya çıkmıştır. Merceksi olarak da bilinir.' şeklinde bilgi verilmiştir.
+    > **Açıklama:** Ünite 8'de Agamograph başlığı altında, 'Agamograph, ona farklı açılardan baktığınızda değişen optik illüzyonlar yaratan bir sanat formu olarak ortaya çıkmıştır. Merceksi olarak da bilinir.' bilgisi verilmiştir. Bu tanım, kinetik sanatla ilişkilendirilebilecek, açılı optik illüzyon yaratan teknikle örtüşmektedir. Lentiküler baskı da açılı görüntü sağlar ancak Agamograph özel olarak bir heykeltıraşın adıyla anılmıştır (Metinde İsrailli heykeltıraş adı geçmemekle birlikte, tanım Agamograph'a uyar).
 
-    <hr />
-
-### Üç Boyutlu Uygulama Teknikleri
-
-1. Kinetik sanat dallarında eserler veren İsrailli bir heykeltıraşın adını alan ve farklı açılardan bakıldığında değişen optik illüzyonlara dayalı üç boyutlu tasarım uygulama tekniğine ne ad verilir?
-    - A-) Agamograph
-    - **Cevap B-) Lentiküler**
-    - C-) Fovizm
-    - D-) De Stijl
-    - E-) Op-Art
-
-    > **Açıklama:** Ünite 8'deki 'Tasarımda Üçüncü Boyut ve Teknik Uygulama Alanları' başlığı altında, Agamograph'ın, 'ona farklı açılardan baktığınızda değişen optik illüzyonlar yaratan bir sanat formu olarak ortaya çıktığı' ve 'merceksi olarak da bilindiği' belirtilmektedir. Bu teknik, kinetik sanatın optik yanılsama prensiplerini yansıtan bir uygulamadır.
-
-    <hr />
-
-## Ünite None
-
-1. Bu soru iptal edilmiştir.
     <hr />
 

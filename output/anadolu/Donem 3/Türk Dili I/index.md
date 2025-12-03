@@ -4,7 +4,7 @@
 
 ### [📚 Sorularla Öğrenelim](Sorularla%20Ogrenelim)
 
-### [✏️ Alıştırma Soruları](Al%C4%B1%C5%9Ft%C4%B1rma%20Sorular%C4%B1)
+### [✏️ Alıştırma Soruları](Alıştırma%20Soruları)
 
 ---
 ## Diğer Materyaller

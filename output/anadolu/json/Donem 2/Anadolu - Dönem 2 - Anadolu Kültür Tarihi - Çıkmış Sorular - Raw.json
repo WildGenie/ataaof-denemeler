@@ -25,7 +25,7 @@
                 "Attis-Midas",
                 "Fırtına Tanrısı-Murşili"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 2,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443028"
@@ -130,7 +130,7 @@
                 "İlk gerçek anlamda kentlerin ortaya çıkması",
                 "Soylu-Elit sınıfın ortaya çıkışı"
             ],
-            "correctIndex": 3,
+            "correctIndex": 0,
             "exam_question_number": 9,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443028"
@@ -145,7 +145,7 @@
                 "Daskylos",
                 "Mopsos"
             ],
-            "correctIndex": 0,
+            "correctIndex": 4,
             "exam_question_number": 10,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443028"
@@ -160,7 +160,7 @@
                 "Göbekli Tepe",
                 "Orman Fidanlığı"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 11,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443028"
@@ -175,14 +175,14 @@
                 "Uruk dönemi",
                 "Asur ticaret kolonileri"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 12,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443028"
         },
         {
             "id": 13,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 13,
@@ -229,7 +229,7 @@
                 "Paleolitik",
                 "Holosen"
             ],
-            "correctIndex": 0,
+            "correctIndex": 3,
             "exam_question_number": 16,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443028"
@@ -244,7 +244,7 @@
                 "Kyme",
                 "Myrina"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 17,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443028"
@@ -259,7 +259,7 @@
                 "Attis-Midas",
                 "Fırtına Tanrısı-Murşili"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 18,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443028"
@@ -274,7 +274,7 @@
                 "İlk gerçek anlamda kentlerin ortaya çıkması",
                 "Soylu-Elit sınıfın ortaya çıkışı"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 19,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443028"
@@ -289,7 +289,7 @@
                 "Bakır",
                 "Bronz"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 20,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443028"
@@ -499,7 +499,7 @@
                 "Urartular",
                 "Urartular"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 14,
             "source": "Ara Sınav 2023-2024",
             "material_id": "565284"
@@ -754,7 +754,7 @@
                 "Mezar stelleri",
                 "Mimari yapılar"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 11,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618220"
@@ -769,7 +769,7 @@
                 "Arami",
                 "Akha"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 12,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618220"
@@ -784,7 +784,7 @@
                 "Köle",
                 "Kumaş"
             ],
-            "correctIndex": 0,
+            "correctIndex": 4,
             "exam_question_number": 13,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618220"
@@ -814,7 +814,7 @@
                 "Kambyses",
                 "Kyros"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 15,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618220"
@@ -829,7 +829,7 @@
                 "Göbekli Tepe",
                 "Karain Mağarası"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 16,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618220"
@@ -859,7 +859,7 @@
                 "Atina",
                 "Megara"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 18,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618220"
@@ -874,7 +874,7 @@
                 "Hacılar",
                 "Troia"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 19,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618220"
@@ -979,7 +979,7 @@
                 "Carl Ebert",
                 "Rudolf Belling"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 6,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "448677"
@@ -1114,7 +1114,7 @@
                 "Saray müziği",
                 "Alaturka müzik"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 15,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "448677"
@@ -1444,7 +1444,7 @@
                 "Zafer takları",
                 "Hipodromlar"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "571096"
@@ -1684,7 +1684,7 @@
                 "Erbid",
                 "Ephesus"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 13,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622592"
@@ -1759,7 +1759,7 @@
                 "İstanbul",
                 "Ankara"
             ],
-            "correctIndex": 0,
+            "correctIndex": 4,
             "exam_question_number": 18,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622592"
@@ -1939,7 +1939,7 @@
                 "Mısır",
                 "Asur"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 10,
             "source": "Yaz Okulu 2021-2022",
             "material_id": "452606"
@@ -1984,7 +1984,7 @@
                 "Hesiodos",
                 "Cicero"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 13,
             "source": "Yaz Okulu 2021-2022",
             "material_id": "452606"
@@ -2014,7 +2014,7 @@
                 "Clemens Holzmeister",
                 "Herman Jansen"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 15,
             "source": "Yaz Okulu 2021-2022",
             "material_id": "452606"
@@ -2089,7 +2089,7 @@
                 "Babilliler",
                 "Medler"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 20,
             "source": "Yaz Okulu 2021-2022",
             "material_id": "452606"
@@ -2269,7 +2269,7 @@
                 "Azınlıklar",
                 "Yabancı topluluklar"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 12,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "516200"
@@ -2599,7 +2599,7 @@
                 "Pitane",
                 "Kyme"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 14,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574659"

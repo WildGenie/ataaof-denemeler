@@ -145,7 +145,7 @@
                 "II, III ve IV",
                 "I, II, III ve IV"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 10,
             "source": "Ara Sınav 2021-2022",
             "material_id": "523000"
@@ -265,7 +265,7 @@
                 "ND - Polarize",
                 "Polarize - ND"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 18,
             "source": "Ara Sınav 2021-2022",
             "material_id": "523000"
@@ -310,7 +310,7 @@
                 "İlk renkli televizyonlar tanıtıldı.",
                 "Super 8 formatı, film yapımını kitleler için erişilebilir hâle getirdi."
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 1,
             "source": "Ara Sınav 2022-2023",
             "material_id": "523009"
@@ -340,7 +340,7 @@
                 "Ticaret",
                 "Tüketim"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 3,
             "source": "Ara Sınav 2022-2023",
             "material_id": "523009"
@@ -445,7 +445,7 @@
                 "Progressive Tarama",
                 "Interlaced Tarama"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 10,
             "source": "Ara Sınav 2022-2023",
             "material_id": "523009"
@@ -610,7 +610,7 @@
                 "Mobil TV",
                 "Pay TV"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 1,
             "source": "Ara Sınav 2023-2024",
             "material_id": "541195"
@@ -655,7 +655,7 @@
                 "Ticaret",
                 "Müşteri"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 4,
             "source": "Ara Sınav 2023-2024",
             "material_id": "541195"
@@ -685,7 +685,7 @@
                 "I, II ve IV",
                 "II, III ve IV"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 6,
             "source": "Ara Sınav 2023-2024",
             "material_id": "541195"
@@ -775,7 +775,7 @@
                 "El Kameraları",
                 "Büyük Boy Dijital Kameralar"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 12,
             "source": "Ara Sınav 2023-2024",
             "material_id": "541195"
@@ -805,7 +805,7 @@
                 "Gimbal",
                 "Jimmy Jib"
             ],
-            "correctIndex": 0,
+            "correctIndex": 3,
             "exam_question_number": 14,
             "source": "Ara Sınav 2023-2024",
             "material_id": "541195"
@@ -1210,7 +1210,7 @@
                 "Mobil TV",
                 "Analog yayıncılık"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 1,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "523001"
@@ -1300,7 +1300,7 @@
                 "Beyaz ayarı",
                 "Diyafram"
             ],
-            "correctIndex": 0,
+            "correctIndex": 3,
             "exam_question_number": 7,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "523001"
@@ -1315,7 +1315,7 @@
                 "Outdoor stüdyo",
                 "Portatif stüdyo"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 8,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "523001"
@@ -1330,7 +1330,7 @@
                 "Adobe Bridge",
                 "Rescue Pro Deluxe"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 9,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "523001"
@@ -1345,7 +1345,7 @@
                 "Strafor",
                 "Çekim çadırı"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 10,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "523001"
@@ -1390,7 +1390,7 @@
                 "Pozometre ayarı",
                 "Kontrast ayarı"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 13,
             "source": "Dönem Sonu 2021-2022",
             "material_id": "523001"
@@ -1592,7 +1592,7 @@
         },
         {
             "id": 107,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 7,
@@ -1654,7 +1654,7 @@
                 "Paraflaş",
                 "HMI Daylight"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 11,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "523017"
@@ -1714,7 +1714,7 @@
                 "PNG",
                 "JPEG"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 15,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "523017"
@@ -1729,7 +1729,7 @@
                 "OpenShot",
                 "Vegas Pro"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 16,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "523017"
@@ -1759,7 +1759,7 @@
                 "TouchRetouch",
                 "Polaroid Lab"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 18,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "523017"
@@ -1774,7 +1774,7 @@
                 "Flaneur",
                 "Landscape"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 19,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "523017"
@@ -1789,7 +1789,7 @@
                 "Pinterest",
                 "Facebook"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "523017"
@@ -1819,7 +1819,7 @@
                 "Tak çıkar bir lensten oluşur.",
                 "Tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir."
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 2,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "556440"
@@ -1969,7 +1969,7 @@
                 "I ve II",
                 "II ve III"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 12,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "556440"
@@ -2059,7 +2059,7 @@
                 "Flickr",
                 "Snapchat"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 18,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "556440"
@@ -2194,7 +2194,7 @@
                 "Poz telafisi ve histogram",
                 "Manuel odaklama ve ışık ölçümü"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 7,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596749"
@@ -2254,7 +2254,7 @@
                 "Orta format",
                 "Aynasız"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 11,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596749"
@@ -2329,7 +2329,7 @@
                 "MP3",
                 "AVI"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 16,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596749"
@@ -2344,7 +2344,7 @@
                 "Görüntü işleme teknikleri",
                 "Görsel iletişim kuramları"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596749"
@@ -2389,7 +2389,7 @@
                 "Iphone 6",
                 "Kyocera VP-210"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "596749"
@@ -2419,7 +2419,7 @@
                 "VHS (Video Home System)",
                 "Super 8 format"
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 2,
             "source": "Yaz Okulu 2021-2022",
             "material_id": "523002"
@@ -2869,7 +2869,7 @@
                 "Styling",
                 "Işık operatörü"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 12,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "523035"
@@ -2959,7 +2959,7 @@
                 "Görüntü işleme teknikleri",
                 "Görüntü"
             ],
-            "correctIndex": 0,
+            "correctIndex": 3,
             "exam_question_number": 18,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "523035"
@@ -3034,7 +3034,7 @@
                 "I, III ve IV",
                 "I, II, III ve IV"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 3,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574654"
@@ -3139,7 +3139,7 @@
                 "I, II ve III",
                 "II, III ve IV"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 10,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574654"
@@ -3153,7 +3153,7 @@
                 "Merkez ağırlıklı ölçüm",
                 "Nokta ölçüm"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 11,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574654"
@@ -3213,7 +3213,7 @@
                 "JPEG",
                 "TIFF"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 15,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574654"
@@ -3408,7 +3408,7 @@
                 "LED",
                 "LCD"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 8,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626537"

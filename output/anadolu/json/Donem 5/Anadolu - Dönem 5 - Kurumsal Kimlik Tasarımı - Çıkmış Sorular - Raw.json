@@ -10,7 +10,7 @@
                 "sembol",
                 "marka gelişimi"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 1,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -25,7 +25,7 @@
                 "II, III ve IV",
                 "I, II, III ve IV"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 2,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -40,7 +40,7 @@
                 "Çoklu Kimlik",
                 "İşaretlenmiş Kimlik"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 3,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -55,7 +55,7 @@
                 "Monolitik Dönem",
                 "Stratejik Dönem"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 4,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -70,7 +70,7 @@
                 "Ortak Marka",
                 "Bireysel Marka"
             ],
-            "correctIndex": 5,
+            "correctIndex": 0,
             "exam_question_number": 5,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -85,7 +85,7 @@
                 "Kurum felsefesi",
                 "Kurumsal itibar"
             ],
-            "correctIndex": 6,
+            "correctIndex": 3,
             "exam_question_number": 6,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -100,7 +100,7 @@
                 "Kurum Felsefesi",
                 "Kurumsal Pazarlama"
             ],
-            "correctIndex": 7,
+            "correctIndex": 4,
             "exam_question_number": 7,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -115,7 +115,7 @@
                 "Marka sloganı",
                 "Marka adı"
             ],
-            "correctIndex": 8,
+            "correctIndex": 2,
             "exam_question_number": 8,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -130,7 +130,7 @@
                 "Kimlik",
                 "Marka"
             ],
-            "correctIndex": 9,
+            "correctIndex": 1,
             "exam_question_number": 9,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -145,7 +145,7 @@
                 "Renk Markası",
                 "Sabit Marka"
             ],
-            "correctIndex": 10,
+            "correctIndex": 0,
             "exam_question_number": 10,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -160,7 +160,7 @@
                 "Ürün olarak marka",
                 "Kişi olarak marka"
             ],
-            "correctIndex": 11,
+            "correctIndex": 2,
             "exam_question_number": 11,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -175,7 +175,7 @@
                 "monolitik kimlik",
                 "marka kimliği"
             ],
-            "correctIndex": 12,
+            "correctIndex": 3,
             "exam_question_number": 12,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -190,7 +190,7 @@
                 "Bir tasarımcının belirli bir kurumsal kimlik ve marka için yarattığı planlı renk kombinasyonuna sadık kalınmalı farklı uygulamalarda renk ve ton değerlerinde değişim yapılmamalıdır.",
                 "Rengin etkisi birlikte kullanılan diğer biçimler ve renklere göre değişecektir."
             ],
-            "correctIndex": 13,
+            "correctIndex": 1,
             "exam_question_number": 13,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -205,7 +205,7 @@
                 "Kimlik, bir kurumun hizmet düzeyi ve iş yapma yaklaşımı gibi davranışsal özelliklerini tanımlamak için kullanılan bir terimdir.",
                 "Bir şirketin ürettiği ürün hakkında bilgi veren bir terimdir."
             ],
-            "correctIndex": 14,
+            "correctIndex": 3,
             "exam_question_number": 14,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -220,7 +220,7 @@
                 "Fikir geliştirme",
                 "Birincil problem tanımı"
             ],
-            "correctIndex": 15,
+            "correctIndex": 0,
             "exam_question_number": 15,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -235,7 +235,7 @@
                 "kodlar",
                 "piktogramlar"
             ],
-            "correctIndex": 16,
+            "correctIndex": 4,
             "exam_question_number": 16,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -250,7 +250,7 @@
                 "Test ve deneyimleme (Seçme)",
                 "Tanımlama"
             ],
-            "correctIndex": 17,
+            "correctIndex": 1,
             "exam_question_number": 17,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -265,7 +265,7 @@
                 "Düzenleme",
                 "Keşfetme"
             ],
-            "correctIndex": 18,
+            "correctIndex": 2,
             "exam_question_number": 18,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -280,7 +280,7 @@
                 "Tasarruf planının oluşturulması",
                 "Yaratıcılığı tetikleme ve tasarım kriterlerini belirleme"
             ],
-            "correctIndex": 19,
+            "correctIndex": 3,
             "exam_question_number": 19,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -295,7 +295,7 @@
                 "Tanımlı problemler, sadece bireysel bakış açılarına dayanırken, tanımsız problemler kültürel değerlere dayanır.",
                 "Tanımlı problemler, yaratıcılık ve deneme-yanılma sürecini gerektirirken, tanımsız problemler her zaman kesin bir çözüme sahiptir."
             ],
-            "correctIndex": 20,
+            "correctIndex": 1,
             "exam_question_number": 20,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634653"
@@ -332,7 +332,7 @@
         },
         {
             "id": 23,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 3,
@@ -379,7 +379,7 @@
                 "II ve IV",
                 "I, II ve IV"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 6,
             "source": "Ara Sınav 2024-2025",
             "material_id": "634673"
@@ -559,7 +559,7 @@
                 "Anket çalışmaları",
                 "Odak grup görüşmeleri"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 18,
             "source": "Ara Sınav 2024-2025",
             "material_id": "634673"
@@ -619,7 +619,7 @@
                 "Tekli Kimlik (Monolitik)",
                 "Logo"
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 2,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "634662"
@@ -679,7 +679,7 @@
                 "Markanın kişiliği ve değerleri anlaşılmalı",
                 "Karmaşık ve stile fontlar kullanılmalı"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 6,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "634662"
@@ -701,7 +701,7 @@
         },
         {
             "id": 48,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 8,
@@ -913,7 +913,7 @@
                 "Desteklenmiş Kimlik",
                 "Piktogram"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 2,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "634698"
@@ -980,7 +980,7 @@
         },
         {
             "id": 67,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 7,
@@ -1019,7 +1019,7 @@
         },
         {
             "id": 70,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 10,
@@ -1096,7 +1096,7 @@
                 "Kurumsal felsefe",
                 "Kurumsal görsel kimlik sistemi"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 15,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "634698"
@@ -1186,7 +1186,7 @@
                 "ürün bilinirliği",
                 "marka kimliği"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 1,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "634665"
@@ -1201,7 +1201,7 @@
                 "Marka Tekniği Dönemi",
                 "Geleneksel Dönem"
             ],
-            "correctIndex": 0,
+            "correctIndex": 3,
             "exam_question_number": 2,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "634665"
@@ -1351,7 +1351,7 @@
                 "Büyük çapta yapılan temsili örnekleme dayanan bir araştırma yaklaşımıdır.",
                 "Fizibilite ve ölçeklendirme için raporlar sunulmasında yararlanılır."
             ],
-            "correctIndex": 0,
+            "correctIndex": 4,
             "exam_question_number": 12,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "634665"
@@ -1486,7 +1486,7 @@
                 "II, III ve IV",
                 "I, II, III ve IV"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 1,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "634701"
@@ -1726,7 +1726,7 @@
                 "Markanın kabulünü ve anımsanmasını yaygınlaştırmak",
                 "Endüstri kimliğini değiştirmek"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "634701"

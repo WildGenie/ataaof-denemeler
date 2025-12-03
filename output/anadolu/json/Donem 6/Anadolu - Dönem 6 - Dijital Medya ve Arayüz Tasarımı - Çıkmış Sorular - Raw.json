@@ -175,7 +175,7 @@
                 "Kullanıcılar",
                 "Görev"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 12,
             "source": "Ara Sınav 2023-2024",
             "material_id": "565292"
@@ -640,7 +640,7 @@
                 "Uygun fiyatlı bir çözüm olması",
                 "Canlı güncellemelere izin vermesi"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 3,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "571104"
@@ -895,7 +895,7 @@
                 "Yeni gerçeklik",
                 "Simüle edilmiş gerçeklik"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "571104"
@@ -1120,7 +1120,7 @@
                 "Demokles'in Kılıcı",
                 "Telesfer"
             ],
-            "correctIndex": 0,
+            "correctIndex": 4,
             "exam_question_number": 15,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622600"
@@ -1375,7 +1375,7 @@
                 "Kullanıcı Arayüzü (UI)",
                 "Meta"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 12,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574672"
@@ -1405,7 +1405,7 @@
                 "Oyuncuların oyunla duygusal bağ kurmasını teşvik etmek",
                 "Oyun dinamiklerinin algoritmasını yönetmek"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 14,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574672"
@@ -1420,7 +1420,7 @@
                 "Sensorama",
                 "Demokles'in Kılıcı"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 15,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574672"
@@ -1435,7 +1435,7 @@
                 "NFT gibi yeni dijital sanat ürünlerinin ortaya çıkışı",
                 "Dijital tasarımın demokratikleşmesi"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 16,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574672"
@@ -1450,7 +1450,7 @@
                 "A-Frame",
                 "MRTK"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574672"
@@ -1465,7 +1465,7 @@
                 "Memex",
                 "Transifex"
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 18,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574672"
@@ -1480,7 +1480,7 @@
                 "Tüm sanal nesnelerin tek bir çerçevede işlenmesini sağlamak",
                 "Sanal dünyadaki detayları ayrıntılandırmak"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 19,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574672"
@@ -1495,7 +1495,7 @@
                 "Genişletilmiş gerçeklik",
                 "Simüle edilmiş gerçeklik"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 20,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574672"
@@ -1675,7 +1675,7 @@
                 "Kullanıcı Arayüzü (UI)",
                 "Meta"
             ],
-            "correctIndex": 2,
+            "correctIndex": 0,
             "exam_question_number": 12,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626555"
@@ -1720,7 +1720,7 @@
                 "Sensorama",
                 "Demokles'in Kılıcı"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 15,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626555"
@@ -1795,7 +1795,7 @@
                 "Genişletilmiş gerçeklik",
                 "Simüle edilmiş gerçeklik"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 20,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626555"

@@ -13,7 +13,9 @@
             "correctIndex": 3,
             "exam_question_number": 1,
             "source": "Ara Sınav 2024-2025",
-            "material_id": "618235"
+            "material_id": "618235",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 2,
@@ -31,7 +33,9 @@
             "material_id": "618235",
             "UniteNo": 3,
             "topic": "YZ Etik İlkeleri: Şeffaflık",
-            "explanation": "Yükseköğretim Kurumu (YÖK) rehberine göre, üretken yapay zekânın hangi aşamalarda ve ne ölçüde kullanıldığının açıkça belirtilmesi 'Şeffaflık' ilkesi kapsamındadır (Ünite 1, Sayfa 3)."
+            "explanation": "Yükseköğretim Kurumu (YÖK) rehberine göre, üretken yapay zekânın hangi aşamalarda ve ne ölçüde kullanıldığının açıkça belirtilmesi 'Şeffaflık' ilkesi kapsamındadır (Ünite 1, Sayfa 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 3,
@@ -49,7 +53,9 @@
             "material_id": "618235",
             "UniteNo": 4,
             "topic": "YZ Destekli 3D Modelleme Araçları",
-            "explanation": "Blender'ın Yapay Zekâ Eklentileri: 3D modelleme süreçlerini kolaylaştırmak ve otomatikleştirmek için geliştirilmiş çözümler sunar. Mimari tasarımlar ve animasyonlar için yoğun bir şekilde kullanılır (Ünite 4, Sayfa 4)."
+            "explanation": "Blender'ın Yapay Zekâ Eklentileri: 3D modelleme süreçlerini kolaylaştırmak ve otomatikleştirmek için geliştirilmiş çözümler sunar. Mimari tasarımlar ve animasyonlar için yoğun bir şekilde kullanılır (Ünite 4, Sayfa 4).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 4,
@@ -67,7 +73,9 @@
             "material_id": "618235",
             "UniteNo": 7,
             "topic": "YZ Sınırlılıkları ve Etik",
-            "explanation": "Yapay zekâ araçlarının yalnızca kullanıcı girdilerine dayanarak çıktılar oluşturması, sanatın özgünlüğünün ve yaratıcılığın sorgulanmasına yol açar. Özellikle sanatın özünde insan duygu ve deneyimlerinin yansıması olduğu düşünüldüğünde, YZ'nin bu insani/öznel nitelikleri tam yansıtmasının zorluğu bir sınırlılıktır (Ünite 7, Sayfa 2)."
+            "explanation": "Yapay zekâ araçlarının yalnızca kullanıcı girdilerine dayanarak çıktılar oluşturması, sanatın özgünlüğünün ve yaratıcılığın sorgulanmasına yol açar. Özellikle sanatın özünde insan duygu ve deneyimlerinin yansıması olduğu düşünüldüğünde, YZ'nin bu insani/öznel nitelikleri tam yansıtmasının zorluğu bir sınırlılıktır (Ünite 7, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 5,
@@ -79,13 +87,15 @@
                 "Nokta",
                 "Doku"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 5,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618235",
-            "UniteNo": 2,
-            "topic": "Görsel İletişim Temel Ögeleri",
-            "explanation": "Görsel ögelerin ve şekillerin uyumlu bir düzen içinde bir araya gelmesiyle dokusal efektler ortaya çıkar. Görsel unsurların birbiriyle etkileşimini sağlayarak izleyiciye belirli bir düzen duygusu ve estetik bir bakış açısı sunan öge 'Doku'dur (Ünite 2, Sayfa 2)."
+            "UniteNo": 1,
+            "topic": "Görsel İletişim Ögeleri",
+            "explanation": "Görsel iletişim tasarımının temel ögelerinden biri olan Doku, görsel ögelerin ve şekillerin uyumlu bir düzen içinde bir araya gelmesiyle dokusal efektler ortaya çıkar. Bu dokusal efektler, görsel unsurların birbiriyle etkileşim kurmasını sağlayarak izleyiciye belirli bir düzen duygusu ve estetik bir bakış açısı sunar (Sayfa 2, Görsel İletişim Tasarımının Temel Ögeleri, Madde 4).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 6,
@@ -103,7 +113,9 @@
             "material_id": "618235",
             "UniteNo": 3,
             "topic": "Endüstriyel YZ Uygulamaları",
-            "explanation": "Tesla, General Motors ve Dyson gibi örnekler endüstriyel uygulamalara örnektir. Shopify ise dijital mağaza tasarımı (UI/UX) ile ilgilidir ve endüstriyel ürün tasarımına doğrudan bir örnek teşkil etmez (Ünite 3, Sayfa 3)."
+            "explanation": "Tesla, General Motors ve Dyson gibi örnekler endüstriyel uygulamalara örnektir. Shopify ise dijital mağaza tasarımı (UI/UX) ile ilgilidir ve endüstriyel ürün tasarımına doğrudan bir örnek teşkil etmez (Ünite 3, Sayfa 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 7,
@@ -121,7 +133,9 @@
             "material_id": "618235",
             "UniteNo": 2,
             "topic": "UI/UX YZ Araçları",
-            "explanation": "Uizard, elle çizilmiş taslakları veya ekran görüntülerini düzenlenebilir dijital prototiplere dönüştürür ve erken aşamadaki tasarımların hızla geliştirilmesine olanak tanır (Ünite 2, Sayfa 2)."
+            "explanation": "Uizard, elle çizilmiş taslakları veya ekran görüntülerini düzenlenebilir dijital prototiplere dönüştürür ve erken aşamadaki tasarımların hızla geliştirilmesine olanak tanır (Ünite 2, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 8,
@@ -139,7 +153,9 @@
             "material_id": "618235",
             "UniteNo": 6,
             "topic": "UX Tasarım YZ Araçları",
-            "explanation": "Framer, kullanıcı geri bildirimlerini hızlı bir şekilde tasarıma entegre etmek için yapay zekâ tabanlı animasyonlar ve prototipler sunar, bu da UX süreçlerini daha dinamik hale getirir (Ünite 6, Sayfa 2)."
+            "explanation": "Framer, kullanıcı geri bildirimlerini hızlı bir şekilde tasarıma entegre etmek için yapay zekâ tabanlı animasyonlar ve prototipler sunar, bu da UX süreçlerini daha dinamik hale getirir (Ünite 6, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 9,
@@ -157,7 +173,9 @@
             "material_id": "618235",
             "UniteNo": 2,
             "topic": "Metin İşleme YZ Araçları",
-            "explanation": "Hem metinlerin okunabilirliğini artırmak için karmaşık ve uzun cümleleri sadeleştiren hem de pasif yapıların yerine aktif yapı öneren araç Hemingway Editor'dür (Ünite 2, Sayfa 1)."
+            "explanation": "Hem metinlerin okunabilirliğini artırmak için karmaşık ve uzun cümleleri sadeleştiren hem de pasif yapıların yerine aktif yapı öneren araç Hemingway Editor'dür (Ünite 2, Sayfa 1).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 10,
@@ -175,7 +193,9 @@
             "material_id": "618235",
             "UniteNo": 1,
             "topic": "YZ'nin Tasarıma Etkileri ve Sorunları",
-            "explanation": "Yapay zekâ destekli araçlar, düşük beceri gerektiren işlerde otomasyonla iş gücünü azaltabilir (I) ve üretkenlik, zaman yönetimi ve yaratıcılığa katkı sunarken etik sorunlara yol açar (II ve III doğru). Maliyetlerinin yüksek olması genel bir kısıtlama olmakla birlikte, temel etik ve iş gücü etkileri I, II ve III'tür. IV ise kesin bir doğru ifade değildir. Bu nedenle I, II ve III doğru ifadelerdir."
+            "explanation": "Yapay zekâ destekli araçlar, düşük beceri gerektiren işlerde otomasyonla iş gücünü azaltabilir (I) ve üretkenlik, zaman yönetimi ve yaratıcılığa katkı sunarken etik sorunlara yol açar (II ve III doğru). Maliyetlerinin yüksek olması genel bir kısıtlama olmakla birlikte, temel etik ve iş gücü etkileri I, II ve III'tür. IV ise kesin bir doğru ifade değildir. Bu nedenle I, II ve III doğru ifadelerdir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 11,
@@ -193,7 +213,9 @@
             "material_id": "618235",
             "UniteNo": 6,
             "topic": "Kişiselleştirme ve YZ",
-            "explanation": "Kullanıcıların izleme geçmişi, beğeniler ve arama davranışları gibi verilerin analiz edilerek kişiye özel öneriler sunulması, yapay zekânın sunduğu 'Kişiselleştirme' unsurunun bir uygulamasıdır. Netflix gibi platformlar bu yöntemi kullanır (Ünite 6, Sayfa 2)."
+            "explanation": "Kullanıcıların izleme geçmişi, beğeniler ve arama davranışları gibi verilerin analiz edilerek kişiye özel öneriler sunulması, yapay zekânın sunduğu 'Kişiselleştirme' unsurunun bir uygulamasıdır. Netflix gibi platformlar bu yöntemi kullanır (Ünite 6, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 12,
@@ -211,7 +233,9 @@
             "material_id": "618235",
             "UniteNo": 3,
             "topic": "Büyük Veri Tanımı: Çeşitlilik",
-            "explanation": "Büyük verinin 'Çeşitlilik' unsuru, verinin farklı formatlarda (yapılandırılmış, yapılandırılmamış, yarı yapılandırılmış) ve kaynaklardan gelmesini ifade eder (Ünite 3, Sayfa 3)."
+            "explanation": "Büyük verinin 'Çeşitlilik' unsuru, verinin farklı formatlarda (yapılandırılmış, yapılandırılmamış, yarı yapılandırılmış) ve kaynaklardan gelmesini ifade eder (Ünite 3, Sayfa 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 13,
@@ -229,7 +253,9 @@
             "material_id": "618235",
             "UniteNo": 7,
             "topic": "YZ'nin Tasarıma Katkısı",
-            "explanation": "Yapay zekâ araçları, tasarımcıların monoton ve tekrarlayan süreçleri otomatize ederek yaratıcı düşünceyi destekleyen yeni olanaklar sağlaması, tasarımcıların daha fazla zamanı yaratıcılığa ayırmasını sağlar (Ünite 7, Sayfa 1)."
+            "explanation": "Yapay zekâ araçları, tasarımcıların monoton ve tekrarlayan süreçleri otomatize ederek yaratıcı düşünceyi destekleyen yeni olanaklar sağlaması, tasarımcıların daha fazla zamanı yaratıcılığa ayırmasını sağlar (Ünite 7, Sayfa 1).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 14,
@@ -247,7 +273,9 @@
             "material_id": "618235",
             "UniteNo": 3,
             "topic": "Görsel Üretim YZ Araçları",
-            "explanation": "Stable Diffusion, MidJourney ve DALL-E, metin girdilerinden görsel içerik üreten popüler yapay zekâ araçlarıdır (Ünite 3, Sayfa 3). Curipod, ders materyali oluşturmaya odaklanan bir araçtır ve görsel üretim aracı olarak metinde anılmamıştır."
+            "explanation": "Stable Diffusion, MidJourney ve DALL-E, metin girdilerinden görsel içerik üreten popüler yapay zekâ araçlarıdır (Ünite 3, Sayfa 3). Curipod, ders materyali oluşturmaya odaklanan bir araçtır ve görsel üretim aracı olarak metinde anılmamıştır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 15,
@@ -265,7 +293,9 @@
             "material_id": "618235",
             "UniteNo": 3,
             "topic": "Veri Odaklı Tasarım Prensipleri",
-            "explanation": "Geri bildirim ve veriye dayalı revizyonlar ile tasarımın sürekli geliştirilmesini sağlama, veri odaklı tasarımın temel prensiplerinden biri olan 'İteratif Süreç' ile ilgilidir (Ünite 3, Sayfa 2)."
+            "explanation": "Geri bildirim ve veriye dayalı revizyonlar ile tasarımın sürekli geliştirilmesini sağlama, veri odaklı tasarımın temel prensiplerinden biri olan 'İteratif Süreç' ile ilgilidir (Ünite 3, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 16,
@@ -277,13 +307,15 @@
                 "Döngüsel Bağlam",
                 "Dijital Bağlam"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 16,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618235",
             "UniteNo": 6,
-            "topic": "Bağlamsal Farkındalık",
-            "explanation": "Günün saati, hafta içi/hafta sonu gibi zamanla ilgili değişkenler, bağlamsal farkındalığın 'Zamansal Bağlam' bileşeni ile ilgilidir (Ünite 6, Sayfa 4)."
+            "topic": "Bağlamsal Farkındalık Bileşenleri",
+            "explanation": "Bağlamsal farkındalığın bileşenleri arasında fiziksel bağlam (konum, çevresel koşullar, hareket bilgileri), dijital bağlam (cihaz türü, internet bağlantısı), zamansal bağlam (günün saati) ve sosyal bağlam (sosyal etkileşimler) bulunur. Bu nedenle, günün saati, hafta içi veya hafta sonu gibi değişkenler Zamansal Bağlam bileşeni ile ilgilidir (Sayfa 4, Kullanıcı Deneyimi ve Yapay Zekâ, Bağlamsal Farkındalık).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 17,
@@ -301,7 +333,9 @@
             "material_id": "618235",
             "UniteNo": 4,
             "topic": "Uyarlanabilir Tasarım",
-            "explanation": "Uyarlanabilir tasarım, değişen kullanıcı ihtiyaçları ve çevresel faktörlere hızla uyum sağlamayı hedefleyen bir yaklaşımdır. Bu süreçte YZ ve makine öğrenmesi kullanılır (Ünite 4, Sayfa 2)."
+            "explanation": "Uyarlanabilir tasarım, değişen kullanıcı ihtiyaçları ve çevresel faktörlere hızla uyum sağlamayı hedefleyen bir yaklaşımdır. Bu süreçte YZ ve makine öğrenmesi kullanılır (Ünite 4, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 18,
@@ -319,7 +353,9 @@
             "material_id": "618235",
             "UniteNo": 4,
             "topic": "Parametrik Tasarım",
-            "explanation": "Belirli parametreler (pencere boyutu, kolon aralıkları) ve kısıtlamalar çerçevesinde binlerce alternatifin üretilmesi ve en uygununun seçilmesi 'Üretken Tasarım' yaklaşımının bir parçasıdır ve parametrik modelleme ile desteklenir (Ünite 4, Sayfa 1)."
+            "explanation": "Belirli parametreler (pencere boyutu, kolon aralıkları) ve kısıtlamalar çerçevesinde binlerce alternatifin üretilmesi ve en uygununun seçilmesi 'Üretken Tasarım' yaklaşımının bir parçasıdır ve parametrik modelleme ile desteklenir (Ünite 4, Sayfa 1).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 19,
@@ -337,7 +373,9 @@
             "material_id": "618235",
             "UniteNo": 2,
             "topic": "3D Modelleme YZ Araçları",
-            "explanation": "Rhino (Grasshopper ile), özellikle parametrik tasarım ve karmaşık geometrik formlar için kullanılır. Grasshopper eklentisiyle yapay zekâ algoritmaları entegre edilerek bu tür tasarımların yenilikçi yönetimi sağlanır (Ünite 2, Sayfa 2)."
+            "explanation": "Rhino (Grasshopper ile), özellikle parametrik tasarım ve karmaşık geometrik formlar için kullanılır. Grasshopper eklentisiyle yapay zekâ algoritmaları entegre edilerek bu tür tasarımların yenilikçi yönetimi sağlanır (Ünite 2, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 20,
@@ -355,7 +393,9 @@
             "material_id": "618235",
             "UniteNo": 4,
             "topic": "Derin Öğrenme Modelleri",
-            "explanation": "VAE (Variational Autoencoders), veri setlerini düşük boyutlu temsillere sıkıştırarak optimize edilmiş tasarımlar üretir ve bu sayede tasarım süreçlerinde etkinliği artırır (Ünite 4, Sayfa 3)."
+            "explanation": "VAE (Variational Autoencoders), veri setlerini düşük boyutlu temsillere sıkıştırarak optimize edilmiş tasarımlar üretir ve bu sayede tasarım süreçlerinde etkinliği artırır (Ünite 4, Sayfa 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 21,
@@ -370,7 +410,12 @@
             "correctIndex": 0,
             "exam_question_number": 1,
             "source": "Dönem Sonu 2024-2025",
-            "material_id": "622607"
+            "material_id": "622607",
+            "UniteNo": 2,
+            "topic": "Yapay Zeka Araçları",
+            "explanation": "Ünite 2'nin 'Tasarım Konusunda Öne Çıkan Üretken Yapay Zekâ Araçları ve Sınıfları' bölümünde, 'Runway ML: Video prodüksiyon ve medya işlemleri için kullanılan bir araçtır. Videoları manipüle etme, arka plan değiştirme ve yeni video üretme gibi işlevler sunar.' şeklinde açıkça ifade edilmiştir. Bu nedenle A şıkkı doğrudur.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 22,
@@ -388,7 +433,9 @@
             "material_id": "622607",
             "UniteNo": 6,
             "topic": "Yapay Zekâ ve UX Araçları",
-            "explanation": "Yapay Zekâ (AI) destekli UX araçları, veri analizi, kullanıcı araştırmaları, prototip oluşturma ve kullanılabilirlik testleri gibi süreçleri hızlandırarak UX tasarımında kullanılır. Örneğin, Adobe Sensei, Sketch Runner ve Hotjar AI destekli araçlardandır (Ünite 6, Sayfa 2 ve 3)."
+            "explanation": "Yapay Zekâ (AI) destekli UX araçları, veri analizi, kullanıcı araştırmaları, prototip oluşturma ve kullanılabilirlik testleri gibi süreçleri hızlandırarak UX tasarımında kullanılır. Örneğin, Adobe Sensei, Sketch Runner ve Hotjar AI destekli araçlardandır (Ünite 6, Sayfa 2 ve 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 23,
@@ -406,7 +453,9 @@
             "material_id": "622607",
             "UniteNo": 8,
             "topic": "Yapay Zeka Teknolojileri",
-            "explanation": "Makine Öğrenimi (Machine Learning), örnek verilerden ve geçmiş deneyimlerden yola çıkarak otomatik olarak öğrenme ve geliştirme yeteneği sağlayan bir yapay zekâ dalıdır. Verilere erişebilen ve bu verilerden öğrenen programlar kullanarak performansı ve verimliliği zamanla iyileştirir (Ünite 8, Sayfa 1)."
+            "explanation": "Makine Öğrenimi (Machine Learning), örnek verilerden ve geçmiş deneyimlerden yola çıkarak otomatik olarak öğrenme ve geliştirme yeteneği sağlayan bir yapay zekâ dalıdır. Verilere erişebilen ve bu verilerden öğrenen programlar kullanarak performansı ve verimliliği zamanla iyileştirir (Ünite 8, Sayfa 1).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 24,
@@ -424,7 +473,9 @@
             "material_id": "622607",
             "UniteNo": 4,
             "topic": "Topoloji Optimizasyonu",
-            "explanation": "Topoloji optimizasyonu, belirli hedefler doğrultusunda malzeme dağılımını optimize ederek dayanıklılık, enerji verimliliği ve maliyet gibi kriterleri iyileştiren, tasarım süreçlerinde yaratıcı ve sürdürülebilir çözümler sunan bir yöntemdir (Ünite 4, Sayfa 3)."
+            "explanation": "Topoloji optimizasyonu, belirli hedefler doğrultusunda malzeme dağılımını optimize ederek dayanıklılık, enerji verimliliği ve maliyet gibi kriterleri iyileştiren, tasarım süreçlerinde yaratıcı ve sürdürülebilir çözümler sunan bir yöntemdir (Ünite 4, Sayfa 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 25,
@@ -442,7 +493,9 @@
             "material_id": "622607",
             "UniteNo": 5,
             "topic": "Görsel Estetiğin Temel Unsurları",
-            "explanation": "Kompozisyon, görsel ögelerin düzenlenme şeklidir ve bu düzen, bir görselin genel algısını güçlü bir şekilde etkiler. Dengeli bir kompozisyon, görselde düzen ve estetik bir bütünlük hissi yaratır (Ünite 5, Sayfa 2)."
+            "explanation": "Kompozisyon, görsel ögelerin düzenlenme şeklidir ve bu düzen, bir görselin genel algısını güçlü bir şekilde etkiler. Dengeli bir kompozisyon, görselde düzen ve estetik bir bütünlük hissi yaratır (Ünite 5, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 26,
@@ -454,13 +507,15 @@
                 "Midjourney",
                 "Adobe Sensei"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 6,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622607",
-            "UniteNo": 2,
-            "topic": "Üretken Yapay Zeka Araçları",
-            "explanation": "DALL-E, metin girdilerinden fotogerçekçi veya sanat tarzında görüntüler ve konsept oluşturabilmek amacıyla OpenAI tarafından geliştirilmiş bir araçtır. Grafik tasarım, reklamcılık ve pazarlama alanlarında içerik üretimi için yaygın olarak kullanılır ve metin tabanlı komutlarla çalışır (Ünite 2, Sayfa 4)."
+            "UniteNo": 5,
+            "topic": "Yapay Zekâ İçerik Araçları",
+            "explanation": "Verilen özellikler (metin oluşturmanın ötesine geçerek görsel ve içerik üretimi, pazarlama/reklamcılıkta yaygın kullanım, fikir üretme, tutarlı marka görünümü sağlama, kişiselleştirilmiş çözümler sunma) Jasper.ai'nin (veya Jasper'ın) özellikleriyle örtüşmektedir. Ünite 5'te Jasper.ai'nin metin tabanlı içerik oluşturma araçlarından biri olduğu belirtilmiştir (Sayfa 3, Üretken Yapay Zekâ Araçlarının Gelişimi). Ancak, metinde bu özelliğin spesifik olarak Canva ve Jasper'a atfedildiği kısımda Jasper, metin tabanlı içerik oluşturma araçları arasında listelenmiştir (Ünite 5, Sayfa 4, Tasarım Konusunda Öne Çıkan Üretken Yapay Zekâ Araçları ve Sınıfları). Ancak, bu sorunun içeriği (fikir üretme, tutarlı marka görünümü sağlama, kişiselleştirilmiş çözümler sunma) genellikle daha kapsamlı içerik/metin üreticileri için geçerlidir ve Jasper.ai bu alanda öne çıkar. Ayrıca, Jasper, metin tabanlı içerik oluşturmanın yanı sıra pazarlama ve marka yönetimi bağlamında da sıkça kullanılır, bu da sorunun bağlamıyla (pazarlama ve reklamcılıkta yaygın kullanım) daha uyumludur.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 27,
@@ -478,7 +533,9 @@
             "material_id": "622607",
             "UniteNo": 1,
             "topic": "Üretken Yapay Zeka Gelişimi",
-            "explanation": "I. İfadede bir formatta çalıştığı bilgisi yanlıştır; üretken yapay zekâ multimodal yeteneklere sahiptir. II. İfade yanlıştır; ilk uygulamalar metin tabanlı olsa da, gelişim sürekli olmuştur. III. İfade yanlıştır; GPT-3 2020'lerde yaygınlaşırken GPT-4 daha sonraki bir gelişmedir. IV. İfade doğrudur; GPT-3, üretken yapay zekânın yaygın kullanımını mümkün kılan ve inanılmaz derecede gerçekçi yazılar oluşturan bir model olmuştur (Ünite 1, Sayfa 3)."
+            "explanation": "I. İfadede bir formatta çalıştığı bilgisi yanlıştır; üretken yapay zekâ multimodal yeteneklere sahiptir. II. İfade yanlıştır; ilk uygulamalar metin tabanlı olsa da, gelişim sürekli olmuştur. III. İfade yanlıştır; GPT-3 2020'lerde yaygınlaşırken GPT-4 daha sonraki bir gelişmedir. IV. İfade doğrudur; GPT-3, üretken yapay zekânın yaygın kullanımını mümkün kılan ve inanılmaz derecede gerçekçi yazılar oluşturan bir model olmuştur (Ünite 1, Sayfa 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 28,
@@ -496,7 +553,9 @@
             "material_id": "622607",
             "UniteNo": 5,
             "topic": "Tipografi ve Yapay Zekâ",
-            "explanation": "II. İfade yanlıştır; yapay zekâ araçları tipografi oluşturma sürecinde hem hız hem de otomasyon sağlamanın yanı sıra iş birliğine dayalı yaratıcı çözümler de sunar. IV. İfade yanlıştır; tipografide bütünlük ve denge, sadece manuel müdahalelerle değil, aynı zamanda algoritmik araçlarla da sağlanabilir (Ünite 5, Sayfa 1)."
+            "explanation": "II. İfade yanlıştır; yapay zekâ araçları tipografi oluşturma sürecinde hem hız hem de otomasyon sağlamanın yanı sıra iş birliğine dayalı yaratıcı çözümler de sunar. IV. İfade yanlıştır; tipografide bütünlük ve denge, sadece manuel müdahalelerle değil, aynı zamanda algoritmik araçlarla da sağlanabilir (Ünite 5, Sayfa 1).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 29,
@@ -514,7 +573,9 @@
             "material_id": "622607",
             "UniteNo": 6,
             "topic": "Yapay Zekâ ve A/B Testleri",
-            "explanation": "Google Optimize gibi AI destekli araçlar, gerçek zamanlı analizler yaparak hangi tasarımın daha etkili olduğunu hızlı bir şekilde belirler. Bu araçlar, A/B testlerinde kullanıcı davranışlarını analiz ederek en uygun varyantı seçmeye yardımcı olur (Ünite 6, Sayfa 3)."
+            "explanation": "Google Optimize gibi AI destekli araçlar, gerçek zamanlı analizler yaparak hangi tasarımın daha etkili olduğunu hızlı bir şekilde belirler. Bu araçlar, A/B testlerinde kullanıcı davranışlarını analiz ederek en uygun varyantı seçmeye yardımcı olur (Ünite 6, Sayfa 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 30,
@@ -532,7 +593,9 @@
             "material_id": "622607",
             "UniteNo": 6,
             "topic": "Yapay Zekâ ve UX Katkıları",
-            "explanation": "Kişiselleştirme, veri analizi, otomasyon, hız ve kullanıcı araştırmalarını destekleme yapay zekanın UX'e sunduğu katkılardır. Ancak 'duygusal bağ kurma'nın UX'in temel unsuru olması, yapay zekanın bu alandaki en büyük eksikliği olarak da belirtilmiştir. Yapay zekanın duygusal bağ kurma becerisi sınırlıdır (Ünite 6, Sayfa 1 ve 2)."
+            "explanation": "Kişiselleştirme, veri analizi, otomasyon, hız ve kullanıcı araştırmalarını destekleme yapay zekanın UX'e sunduğu katkılardır. Ancak 'duygusal bağ kurma'nın UX'in temel unsuru olması, yapay zekanın bu alandaki en büyük eksikliği olarak da belirtilmiştir. Yapay zekanın duygusal bağ kurma becerisi sınırlıdır (Ünite 6, Sayfa 1 ve 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 31,
@@ -550,7 +613,9 @@
             "material_id": "622607",
             "UniteNo": 5,
             "topic": "Yapay Zekâ ve Görsel Analiz",
-            "explanation": "Yapay zekâ destekli göz izleme (eye tracking) teknolojileri, kullanıcıların hangi görsel elementlere daha fazla dikkat ettiğini analiz ederek tasarımların kullanıcı ihtiyaçlarına uygun hâle getirilmesini sağlar (Ünite 5, Sayfa 3)."
+            "explanation": "Yapay zekâ destekli göz izleme (eye tracking) teknolojileri, kullanıcıların hangi görsel elementlere daha fazla dikkat ettiğini analiz ederek tasarımların kullanıcı ihtiyaçlarına uygun hâle getirilmesini sağlar (Ünite 5, Sayfa 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 32,
@@ -568,7 +633,9 @@
             "material_id": "622607",
             "UniteNo": 6,
             "topic": "Yapay Zekâ ve Kullanıcı Analizi",
-            "explanation": "Yapay zekâ (AI), kullanıcı davranışlarını analiz ederek, tercihlerini ve eğilimlerini tahmin etme yeteneğine sahiptir. Hotjar gibi araçlar ısı haritaları ve tıklama izleme ile kullanıcı davranışlarını analiz ederek tasarımcıların daha bilinçli kararlar almasına yardımcı olur (Ünite 6, Sayfa 2 ve 3)."
+            "explanation": "Yapay zekâ (AI), kullanıcı davranışlarını analiz ederek, tercihlerini ve eğilimlerini tahmin etme yeteneğine sahiptir. Hotjar gibi araçlar ısı haritaları ve tıklama izleme ile kullanıcı davranışlarını analiz ederek tasarımcıların daha bilinçli kararlar almasına yardımcı olur (Ünite 6, Sayfa 2 ve 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 33,
@@ -586,7 +653,9 @@
             "material_id": "622607",
             "UniteNo": 4,
             "topic": "Adaptif Tasarım",
-            "explanation": "Adaptif tasarım; bireylerin ihtiyaçlarına, davranışlarına ve çevresel bağlamlarına göre dinamik olarak değişebilen sistemler geliştirmeyi hedefler. Yapay zekâ ile desteklenen bu tasarım, kullanıcı geri bildirimleri doğrultusunda kendini güncelleyerek kişiselleştirilmiş ve proaktif deneyimler sunar (Ünite 4, Sayfa 3)."
+            "explanation": "Adaptif tasarım; bireylerin ihtiyaçlarına, davranışlarına ve çevresel bağlamlarına göre dinamik olarak değişebilen sistemler geliştirmeyi hedefler. Yapay zekâ ile desteklenen bu tasarım, kullanıcı geri bildirimleri doğrultusunda kendini güncelleyerek kişiselleştirilmiş ve proaktif deneyimler sunar (Ünite 4, Sayfa 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 34,
@@ -604,7 +673,9 @@
             "material_id": "622607",
             "UniteNo": 7,
             "topic": "Yeşil Yapay Zekâ",
-            "explanation": "Yeşil yapay zekâ (Green AI), çevre dostu, düşük karbonlu ve etik ilkelere uygun sistemler geliştirmeyi hedefler. Bu yaklaşım, enerji tüketimi ve karbon salınımını azaltmayı amaçlar (Ünite 7, Sayfa 2)."
+            "explanation": "Yeşil yapay zekâ (Green AI), çevre dostu, düşük karbonlu ve etik ilkelere uygun sistemler geliştirmeyi hedefler. Bu yaklaşım, enerji tüketimi ve karbon salınımını azaltmayı amaçlar (Ünite 7, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 35,
@@ -622,7 +693,9 @@
             "material_id": "622607",
             "UniteNo": 7,
             "topic": "Etik Sorunlar: Telif Hakkı",
-            "explanation": "Üretken yapay zekâ modellerinin internetteki milyonlarca görselle eğitilmesi ve buradan öğrendikleriyle yeni içerikler üretmesi, telif hakkı ihlali risklerini beraberinde getirmektedir. Bu durum, sanatçıların imzalarının taklit edilmesi potansiyelini de içerir (Ünite 7, Sayfa 1)."
+            "explanation": "Üretken yapay zekâ modellerinin internetteki milyonlarca görselle eğitilmesi ve buradan öğrendikleriyle yeni içerikler üretmesi, telif hakkı ihlali risklerini beraberinde getirmektedir. Bu durum, sanatçıların imzalarının taklit edilmesi potansiyelini de içerir (Ünite 7, Sayfa 1).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 36,
@@ -640,7 +713,9 @@
             "material_id": "622607",
             "UniteNo": 6,
             "topic": "Yapay Zekâ ve Erişilebilirlik",
-            "explanation": "Yapay zekâ, görme engelli kullanıcılar için daha etkili ekran okuyucular gibi alternatif kontrol yöntemleri sunarak UX tasarımında kapsayıcılığı artırma potansiyeline sahiptir (Ünite 6, Sayfa 4)."
+            "explanation": "Yapay zekâ, görme engelli kullanıcılar için daha etkili ekran okuyucular gibi alternatif kontrol yöntemleri sunarak UX tasarımında kapsayıcılığı artırma potansiyeline sahiptir (Ünite 6, Sayfa 4).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 37,
@@ -658,7 +733,9 @@
             "material_id": "622607",
             "UniteNo": 8,
             "topic": "Yapay Zekâ ve Deepfake",
-            "explanation": "Deepfake (Derin sahte), insanların yüz hareketlerini ve sesini gerçeğe uygun olacak şekilde taklit etmek veya değiştirmek için yapay zekâ teknikleri aracılığıyla fotoğrafların, videoların veya seslerin kullanılmasıdır. Bu aynı zamanda bilgi manipülasyonu riski taşır (Ünite 8, Sayfa 1)."
+            "explanation": "Deepfake (Derin sahte), insanların yüz hareketlerini ve sesini gerçeğe uygun olacak şekilde taklit etmek veya değiştirmek için yapay zekâ teknikleri aracılığıyla fotoğrafların, videoların veya seslerin kullanılmasıdır. Bu aynı zamanda bilgi manipülasyonu riski taşır (Ünite 8, Sayfa 1).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 38,
@@ -676,7 +753,9 @@
             "material_id": "622607",
             "UniteNo": 7,
             "topic": "Etik İhlal: Dezenformasyon",
-            "explanation": "Gerçekçi görseller üretebilme kapasitesi, yapay zekânın dezenformasyon ve provokasyon amacıyla kötüye kullanılma olasılığını artırır. Sahte bir görsel veya video oluşturularak toplumsal kargaşa veya yanlış bilgi yayılması bu ihlal kapsamındadır (Ünite 7, Sayfa 2)."
+            "explanation": "Gerçekçi görseller üretebilme kapasitesi, yapay zekânın dezenformasyon ve provokasyon amacıyla kötüye kullanılma olasılığını artırır. Sahte bir görsel veya video oluşturularak toplumsal kargaşa veya yanlış bilgi yayılması bu ihlal kapsamındadır (Ünite 7, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 39,
@@ -694,7 +773,9 @@
             "material_id": "622607",
             "UniteNo": 5,
             "topic": "Sanal Etkileyiciler (Influencer)",
-            "explanation": "Sanal etkileyiciler; bilgisayar tarafından yaratılmış karakterlerdir ve insan davranışlarını taklit ederek, gerçek etkileyiciler gibi hedef kitlelerle etkileşime geçerler (Ünite 5, Sayfa 3)."
+            "explanation": "Sanal etkileyiciler; bilgisayar tarafından yaratılmış karakterlerdir ve insan davranışlarını taklit ederek, gerçek etkileyiciler gibi hedef kitlelerle etkileşime geçerler (Ünite 5, Sayfa 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 40,
@@ -712,7 +793,9 @@
             "material_id": "622607",
             "UniteNo": 8,
             "topic": "Yapay Zeka Etik Sorunları",
-            "explanation": "Telif hakkı, özgünlük, dezenformasyon, ön yargı ve kullanıcı verilerinin gizliliği yapay zekanın tasarımda yarattığı etik sorunlardır. İnsan yaratıcılığı ile yapay zekanın etkileşimi, yaratıcı sürecin tamamen yapay zekâ tarafından yönetilmemesi gerektiği vurgusunu içerir; bu ise insan yaratıcılığının korunması gerekliliği ile ilgilidir, etik bir ihlal kategorisi değildir (Ünite 8, Sayfa 2)."
+            "explanation": "Telif hakkı, özgünlük, dezenformasyon, ön yargı ve kullanıcı verilerinin gizliliği yapay zekanın tasarımda yarattığı etik sorunlardır. İnsan yaratıcılığı ile yapay zekanın etkileşimi, yaratıcı sürecin tamamen yapay zekâ tarafından yönetilmemesi gerektiği vurgusunu içerir; bu ise insan yaratıcılığının korunması gerekliliği ile ilgilidir, etik bir ihlal kategorisi değildir (Ünite 8, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         }
     ]
 }

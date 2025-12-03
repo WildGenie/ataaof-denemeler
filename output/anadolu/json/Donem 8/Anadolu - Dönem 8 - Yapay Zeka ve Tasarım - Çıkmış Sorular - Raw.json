@@ -70,7 +70,7 @@
                 "Nokta",
                 "Doku"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 5,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618235"
@@ -235,7 +235,7 @@
                 "Döngüsel Bağlam",
                 "Dijital Bağlam"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 16,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618235"
@@ -385,7 +385,7 @@
                 "Midjourney",
                 "Adobe Sensei"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 6,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622607"

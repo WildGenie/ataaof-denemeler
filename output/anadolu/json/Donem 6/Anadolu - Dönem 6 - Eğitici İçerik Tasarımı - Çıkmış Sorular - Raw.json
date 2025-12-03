@@ -55,7 +55,7 @@
                 "Normatif ihtiyaç",
                 "Beklenen ya da gelecekteki ihtiyaç"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 4,
             "source": "Ara Sınav 2023-2024",
             "material_id": "606545"
@@ -70,7 +70,7 @@
                 "Progel tekniği",
                 "Anket tekniği"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 5,
             "source": "Ara Sınav 2023-2024",
             "material_id": "606545"
@@ -130,7 +130,7 @@
                 "Öğretme-öğrenme süreci",
                 "Değerlendirme"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 9,
             "source": "Ara Sınav 2023-2024",
             "material_id": "606545"
@@ -272,7 +272,7 @@
         },
         {
             "id": 19,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 19,
@@ -319,7 +319,7 @@
                 "Progel tekniği",
                 "Meslek (İş) analizi"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 2,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618230"
@@ -364,7 +364,7 @@
                 "Meslek (İş) Analizi",
                 "Progel tekniği"
             ],
-            "correctIndex": 1,
+            "correctIndex": 3,
             "exam_question_number": 5,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618230"
@@ -461,7 +461,7 @@
         },
         {
             "id": 32,
-            "question": "Bu soru iptal edilmiştir.",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 12,
@@ -553,7 +553,7 @@
                 "Duyu",
                 "Duyum"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 18,
             "source": "Ara Sınav 2024-2025",
             "material_id": "618230"
@@ -733,7 +733,7 @@
                 "Otoriter yönetim",
                 "Hiyerarşi"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 10,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "606563"
@@ -793,7 +793,7 @@
                 "Belirli standartlar gözetilerek yapılması",
                 "Mantıklı olmayı gerektirmesi"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 14,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "606563"
@@ -898,7 +898,7 @@
                 "Hissedilen/Algılanan ihtiyaç",
                 "Beklenen ya da gelecekteki ihtiyaç"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 1,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622602"
@@ -1198,7 +1198,7 @@
                 "Meslek (İş) Analizi",
                 "Gözlem tekniği"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 1,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "606565"
@@ -1438,7 +1438,7 @@
                 "Eşzaman geçerliği",
                 "Kapsam geçerliği"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "606565"
@@ -1453,7 +1453,7 @@
                 "Teori",
                 "Teknik"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 18,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "606565"
@@ -1468,7 +1468,7 @@
                 "Değişmezlik",
                 "Kararlılık"
             ],
-            "correctIndex": 0,
+            "correctIndex": 4,
             "exam_question_number": 19,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "606565"
@@ -1498,7 +1498,7 @@
                 "Meslek (İş) Analizi",
                 "Gözlem tekniği"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 1,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626558"
@@ -1738,7 +1738,7 @@
                 "Eşzaman geçerliği",
                 "Kapsam geçerliği"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626558"
@@ -1753,7 +1753,7 @@
                 "Teori",
                 "Teknik"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 18,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626558"
@@ -1768,7 +1768,7 @@
                 "Değişmezlik",
                 "Kararlılık"
             ],
-            "correctIndex": 0,
+            "correctIndex": 1,
             "exam_question_number": 19,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626558"
@@ -1783,7 +1783,7 @@
                 "II ve III",
                 "I, II ve III"
             ],
-            "correctIndex": 4,
+            "correctIndex": 0,
             "exam_question_number": 20,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626558"

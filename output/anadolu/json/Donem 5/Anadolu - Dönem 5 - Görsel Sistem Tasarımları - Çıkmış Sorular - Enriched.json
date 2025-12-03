@@ -13,7 +13,9 @@
             "correctIndex": 0,
             "exam_question_number": 1,
             "source": "Ara Sınav 2023-2024",
-            "material_id": "634729"
+            "material_id": "634729",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 2,
@@ -31,7 +33,9 @@
             "material_id": "634729",
             "UniteNo": 1,
             "topic": "Tasarımın Çalışma Alanları",
-            "explanation": "Ünite 1'e göre Endüstriyel tasarım, iç mimarlık, moda tasarımı ve grafik tasarım temel tasarım çalışma alanlarıdır. Bu seçenekler arasında yer almayan bir alan tasarımın temel çalışma alanları arasında sayılmaz."
+            "explanation": "Ünite 1'e göre Endüstriyel tasarım, iç mimarlık, moda tasarımı ve grafik tasarım temel tasarım çalışma alanlarıdır. Bu seçenekler arasında yer almayan bir alan tasarımın temel çalışma alanları arasında sayılmaz.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 3,
@@ -49,7 +53,9 @@
             "material_id": "634729",
             "UniteNo": 1,
             "topic": "Renk Sistemleri",
-            "explanation": "Pantone renk sistemi, tasarımcıların üreticilerle kritik kararları doğru bir şekilde alabilmesini sağlayan evrensel bir renk dili ortaya koyar. Bu sistem sayesinde ekranda ve baskıda birbirinden farklı olan renkler konusunda çözüm sağlanır ve her renge bir isim ve kod verilerek ortak dil sağlanır. Bu bilgi Ünite 1 metninde geçmektedir."
+            "explanation": "Pantone renk sistemi, tasarımcıların üreticilerle kritik kararları doğru bir şekilde alabilmesini sağlayan evrensel bir renk dili ortaya koyar. Bu sistem sayesinde ekranda ve baskıda birbirinden farklı olan renkler konusunda çözüm sağlanır ve her renge bir isim ve kod verilerek ortak dil sağlanır. Bu bilgi Ünite 1 metninde geçmektedir.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 4,
@@ -67,7 +73,9 @@
             "material_id": "634729",
             "UniteNo": 1,
             "topic": "Sistem Türleri",
-            "explanation": "Ünite 1'de belirtilen sistem türleri şunlardır: Fiziksel/Soyut, Açık/Kapalı, Alt/Üst, Kalıcı/Geçici, Doğal/Yapay ve Belirlenimci/Olasılıkçı sistemler. Bu listelerde yer almayan bir ifade sistem türü değildir."
+            "explanation": "Ünite 1'de belirtilen sistem türleri şunlardır: Fiziksel/Soyut, Açık/Kapalı, Alt/Üst, Kalıcı/Geçici, Doğal/Yapay ve Belirlenimci/Olasılıkçı sistemler. Bu listelerde yer almayan bir ifade sistem türü değildir.",
+            "occurrence_count": 4,
+            "is_duplicate": false
         },
         {
             "id": 5,
@@ -85,7 +93,9 @@
             "material_id": "634729",
             "UniteNo": 1,
             "topic": "Veri Görselleştirme Araçları",
-            "explanation": "Tehlike anında yapılacakları veya yönleri gösteren grafik biçimlere 'piktogram' adı verilir. Piktogramlar, sözle veya yazılı anlatılabilecek unsurları görsel olarak tek bakışta anlatarak kapsayıcı bir dil yaratır. Bu tanım Ünite 1'de yer almaktadır."
+            "explanation": "Tehlike anında yapılacakları veya yönleri gösteren grafik biçimlere 'piktogram' adı verilir. Piktogramlar, sözle veya yazılı anlatılabilecek unsurları görsel olarak tek bakışta anlatarak kapsayıcı bir dil yaratır. Bu tanım Ünite 1'de yer almaktadır.",
+            "occurrence_count": 3,
+            "is_duplicate": false
         },
         {
             "id": 6,
@@ -103,7 +113,9 @@
             "material_id": "634729",
             "UniteNo": 2,
             "topic": "Seri Tasarım Örnekleri",
-            "explanation": "Metis Yayınlarının \"Ötekini Dinlemek\" serisinin kapak tasarımlarını, kapakta mutlaka yer alan çekmece imgesi ve ek bir imge ile görselleştiren tasarımcı Yetkin Başarır'dır. Ünite 2'de bu örnek açıkça belirtilmiştir."
+            "explanation": "Metis Yayınlarının \"Ötekini Dinlemek\" serisinin kapak tasarımlarını, kapakta mutlaka yer alan çekmece imgesi ve ek bir imge ile görselleştiren tasarımcı Yetkin Başarır'dır. Ünite 2'de bu örnek açıkça belirtilmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 7,
@@ -115,13 +127,15 @@
                 "Irma Boom",
                 "Wolfgang Weignart"
             ],
-            "correctIndex": 3,
+            "correctIndex": 2,
             "exam_question_number": 7,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634729",
             "UniteNo": 2,
             "topic": "Kurumsal Kimlik Tasarımı",
-            "explanation": "Casa da Musica'nın kimlik tasarımını, binanın kendisinden ilhamla tasarlanan ve altı farklı açıdan görünüşünün soyutlanmasından oluşan logoyu da içeren kapsamlı bir çalışmayla Stefan Sagmeister üstlenmiştir. Bu bilgi Ünite 2 metninde mevcuttur."
+            "explanation": "Casa da Musica'nın kimlik tasarımını, binanın kendisinden ilhamla tasarlanan ve altı farklı açıdan görünüşünün soyutlanmasından oluşan logoyu da içeren kapsamlı bir çalışmayla Stefan Sagmeister üstlenmiştir. Bu bilgi Ünite 2 metninde mevcuttur.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 8,
@@ -139,7 +153,9 @@
             "material_id": "634729",
             "UniteNo": 2,
             "topic": "Modernist Tasarım",
-            "explanation": "Jan Tschichold, Penguin Books için \"Kompozisyon Kuralları\" ile modernist bir yaklaşım getirmiştir. Bu yaklaşım, tasarımı gereksiz detaylardan ve süsten arındırma ve işlevselliğin ön planda tutulduğu estetik yaklaşıma yönelmeyi hedefler. Bu, II. Dünya Savaşı sonrası modernist dünya anlayışının yansımasıdır ve Ünite 2'de detaylıca anlatılmıştır."
+            "explanation": "Jan Tschichold, Penguin Books için \"Kompozisyon Kuralları\" ile modernist bir yaklaşım getirmiştir. Bu yaklaşım, tasarımı gereksiz detaylardan ve süsten arındırma ve işlevselliğin ön planda tutulduğu estetik yaklaşıma yönelmeyi hedefler. Bu, II. Dünya Savaşı sonrası modernist dünya anlayışının yansımasıdır ve Ünite 2'de detaylıca anlatılmıştır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 9,
@@ -157,7 +173,9 @@
             "material_id": "634729",
             "UniteNo": 2,
             "topic": "Dergi Kapak Tasarımı",
-            "explanation": "Editörlüğünü Uğur Tanyeli'nin yaptığı ve ilk sayısını Şubat 1989'da yayımladığı dergilerin (Arredamento Dekorasyon/Mimarlık) kapak tasarımlarını Bülent Erkmen üstlenmiştir. Ünite 2'deki 'Dergi Kapağı Tasarımı' başlığı altında bu bilgi yer almaktadır."
+            "explanation": "Editörlüğünü Uğur Tanyeli'nin yaptığı ve ilk sayısını Şubat 1989'da yayımladığı dergilerin (Arredamento Dekorasyon/Mimarlık) kapak tasarımlarını Bülent Erkmen üstlenmiştir. Ünite 2'deki 'Dergi Kapağı Tasarımı' başlığı altında bu bilgi yer almaktadır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 10,
@@ -175,7 +193,9 @@
             "material_id": "634729",
             "UniteNo": 2,
             "topic": "Seri Tasarım Tanımı",
-            "explanation": "I. ve II. ifadeler doğrudur; seri tasarım bir markanın görsel tutarlılığını ve devamlılığını sağlar ve tasarım kararları markaya bağlıdır. III. ifade yanlıştır, çünkü seri tasarım yaklaşımı köklü bir markanın kimliğine aidiyet değeri katmada ve hacmini genişletmede önemli rol oynar (Ünite 2). Bu nedenle yalnızca I ve II doğrudur."
+            "explanation": "I. ve II. ifadeler doğrudur; seri tasarım bir markanın görsel tutarlılığını ve devamlılığını sağlar ve tasarım kararları markaya bağlıdır. III. ifade yanlıştır, çünkü seri tasarım yaklaşımı köklü bir markanın kimliğine aidiyet değeri katmada ve hacmini genişletmede önemli rol oynar (Ünite 2). Bu nedenle yalnızca I ve II doğrudur.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 11,
@@ -193,7 +213,9 @@
             "material_id": "634729",
             "UniteNo": 3,
             "topic": "Grid ve Mimari",
-            "explanation": "Ünite 3'te, \"Mimari alanına gelindiğinde ise grid sistemini en etkili biçimde kullanan isimlerin başında hiç kuşkusuz İsviçreli mimar Le Corbusier gelmektedir. Le Corbusier, altın oranı 1946 senesinde kendi tanımladığı “Modüler (Modulor)\" tasarım sistemine uyarlamıştır.\" bilgisi yer almaktadır. Dolayısıyla cevap Le Corbusier'dir."
+            "explanation": "Ünite 3'te, \"Mimari alanına gelindiğinde ise grid sistemini en etkili biçimde kullanan isimlerin başında hiç kuşkusuz İsviçreli mimar Le Corbusier gelmektedir. Le Corbusier, altın oranı 1946 senesinde kendi tanımladığı “Modüler (Modulor)\" tasarım sistemine uyarlamıştır.\" bilgisi yer almaktadır. Dolayısıyla cevap Le Corbusier'dir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 12,
@@ -211,7 +233,9 @@
             "material_id": "634729",
             "UniteNo": 3,
             "topic": "Grid Sisteminin Temelleri",
-            "explanation": "Altın oran, Atina'da bulunan ünlü Parthenon Tapınağı'nın ölçülerinin dayandırıldığı orantının temel kuralları üzerine çalışılmış bir orandır."
+            "explanation": "Altın oran, Atina'da bulunan ünlü Parthenon Tapınağı'nın ölçülerinin dayandırıldığı orantının temel kuralları üzerine çalışılmış bir orandır.",
+            "occurrence_count": 4,
+            "is_duplicate": false
         },
         {
             "id": 13,
@@ -229,7 +253,9 @@
             "material_id": "634729",
             "UniteNo": 3,
             "topic": "Grid Türleri",
-            "explanation": "Asimetrik Grid, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimidir. Bu sistemde ana metin, resimler, başlıklar, alt başlıklar vb. sayfadan sayfaya aynı yere yerleştirilir."
+            "explanation": "Asimetrik Grid, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimidir. Bu sistemde ana metin, resimler, başlıklar, alt başlıklar vb. sayfadan sayfaya aynı yere yerleştirilir.",
+            "occurrence_count": 4,
+            "is_duplicate": false
         },
         {
             "id": 14,
@@ -247,7 +273,9 @@
             "material_id": "634729",
             "UniteNo": 3,
             "topic": "Temel Tasarım Elemanları",
-            "explanation": "Bir yazı karakterinin hatlarının uç yapısında bulunan yatay çıkıntılara \"serif\" adı verilir. Ancak bu terim ünite özetinde geçmemekle birlikte, tipografi ile ilgili temel kavramlardan biridir. Ünite 3'te \"Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik'teki genel biçim, yazı karakter seçimi ve büyüklüğüne ilişkin esaslara göre bu alan içinde planlanmalıdır\" ifadesi geçmektedir. Yine de, tipografik ögelerle ilgili standartlara atıf yapılmıştır (Kitabın 67. sayfasında bahsedilen). Konu bağlamında en yakın terim serif'tir (yatay çıkıntılar)."
+            "explanation": "Bir yazı karakterinin hatlarının uç yapısında bulunan yatay çıkıntılara \"serif\" adı verilir. Ancak bu terim ünite özetinde geçmemekle birlikte, tipografi ile ilgili temel kavramlardan biridir. Ünite 3'te \"Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik'teki genel biçim, yazı karakter seçimi ve büyüklüğüne ilişkin esaslara göre bu alan içinde planlanmalıdır\" ifadesi geçmektedir. Yine de, tipografik ögelerle ilgili standartlara atıf yapılmıştır (Kitabın 67. sayfasında bahsedilen). Konu bağlamında en yakın terim serif'tir (yatay çıkıntılar).",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 15,
@@ -265,7 +293,9 @@
             "material_id": "634729",
             "UniteNo": 3,
             "topic": "Gridin Anatomisi",
-            "explanation": "Kenar Boşlukları, sayfanın iç çevresinde bulunan ve gridin dışında kalan negatif boşluklardır. Yazı alanı her zaman bir negatif alan ile çevrilidir. Sayfa numaraları genellikle bu alanlara yerleştirilir."
+            "explanation": "Kenar Boşlukları, sayfanın iç çevresinde bulunan ve gridin dışında kalan negatif boşluklardır. Yazı alanı her zaman bir negatif alan ile çevrilidir. Sayfa numaraları genellikle bu alanlara yerleştirilir.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 16,
@@ -283,7 +313,9 @@
             "material_id": "634729",
             "UniteNo": 4,
             "topic": "Harita Görsel Tasarımı",
-            "explanation": "Haritada hangi rengin hangi anlama geldiğini toplu olarak gösteren açıklama kısmına Lejant (Açıklama) adı verilir. Fiziki Türkiye Haritası örneğinde yeşil renk ova gibi düzlükleri gösterirken, mavi tonları su alanlarını göstermektedir."
+            "explanation": "Haritada hangi rengin hangi anlama geldiğini toplu olarak gösteren açıklama kısmına Lejant (Açıklama) adı verilir. Fiziki Türkiye Haritası örneğinde yeşil renk ova gibi düzlükleri gösterirken, mavi tonları su alanlarını göstermektedir.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 17,
@@ -301,7 +333,9 @@
             "material_id": "634729",
             "UniteNo": 4,
             "topic": "Haritada Boyut ve Ölçek",
-            "explanation": "Ölçek, genel olarak büyütme ve küçültme oranı olarak adlandırılır. Haritada ölçek bilgisi, haritanın gerçek ölçüleri küçültme bilgisi anlamında kullanılmaktadır."
+            "explanation": "Ölçek, genel olarak büyütme ve küçültme oranı olarak adlandırılır. Haritada ölçek bilgisi, haritanın gerçek ölçüleri küçültme bilgisi anlamında kullanılmaktadır.",
+            "occurrence_count": 4,
+            "is_duplicate": false
         },
         {
             "id": 18,
@@ -319,7 +353,9 @@
             "material_id": "634729",
             "UniteNo": 4,
             "topic": "Harita Kavramı",
-            "explanation": "Haritalar, dünyaya ait bilgiyi aktaran yararlı ve işlevsel araçlardır. I. ifade doğrudur (İlgili içeriği aktarmak haritanın amacıdır). II. ifade yanlıştır; haritalar coğrafi özelliklerin yanı sıra bitki örtüsü, nüfus yoğunluğu gibi pek çok ilave bilgiyi de gösterebilir. III. ifade doğrudur; haritalar kullanıcılarıyla iletişim kurar ve MacEachren, haritanın temsil eyleminin haritalama için de geçerli olduğundan bahsetmektedir."
+            "explanation": "Haritalar, dünyaya ait bilgiyi aktaran yararlı ve işlevsel araçlardır. I. ifade doğrudur (İlgili içeriği aktarmak haritanın amacıdır). II. ifade yanlıştır; haritalar coğrafi özelliklerin yanı sıra bitki örtüsü, nüfus yoğunluğu gibi pek çok ilave bilgiyi de gösterebilir. III. ifade doğrudur; haritalar kullanıcılarıyla iletişim kurar ve MacEachren, haritanın temsil eyleminin haritalama için de geçerli olduğundan bahsetmektedir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 19,
@@ -331,13 +367,15 @@
                 "Kamusal binalar",
                 "Kurum kimlik uygulamaları"
             ],
-            "correctIndex": 4,
+            "correctIndex": 1,
             "exam_question_number": 19,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634729",
             "UniteNo": 4,
             "topic": "Yönlendirme Sistemleri Alanları",
-            "explanation": "Yönlendirme ve işaretleme sistemleri; Kamusal Binalar, Ulaştırma Alanları, Kent Merkezleri gibi alanlarda kullanılır. Ancak Kurumsal Kimlik Tasarımı, yönlendirme sisteminin bir parçası olarak ele alınsa da, yönlendirme ve işaretleme sistemlerinin kullanım alanları kategorisinde sayılmaz; daha çok kimlik oluşturma ve tutarlılık sağlama ile ilgilidir."
+            "explanation": "Yönlendirme ve işaretleme sistemleri; Kamusal Binalar, Ulaştırma Alanları, Kent Merkezleri gibi alanlarda kullanılır. Ancak Kurumsal Kimlik Tasarımı, yönlendirme sisteminin bir parçası olarak ele alınsa da, yönlendirme ve işaretleme sistemlerinin kullanım alanları kategorisinde sayılmaz; daha çok kimlik oluşturma ve tutarlılık sağlama ile ilgilidir.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 20,
@@ -355,7 +393,9 @@
             "material_id": "634729",
             "UniteNo": 4,
             "topic": "Yönlendirme Tasarımcıları",
-            "explanation": "New York metrosu için geliştirdiği yönlendirme ve işaretleme sistemiyle ünlü tasarımcı Massimo Vignelli'dir. Bu sistem, 70'lerden bu yana kullanılmaktadır."
+            "explanation": "New York metrosu için geliştirdiği yönlendirme ve işaretleme sistemiyle ünlü tasarımcı Massimo Vignelli'dir. Bu sistem, 70'lerden bu yana kullanılmaktadır.",
+            "occurrence_count": 3,
+            "is_duplicate": false
         },
         {
             "id": 21,
@@ -373,7 +413,10 @@
             "material_id": "634750",
             "UniteNo": 1,
             "topic": "Renk Sistemleri",
-            "explanation": "Ünite 1'de, \"Pantone ise tasarımcıların üreticilerle kritik kararları doğru şekilde alabilmesini sağlayan evrensel bir renk dili ortaya koyar.\" ifadesi bulunmaktadır. Bu sistem, renk konusunda tutarlılık sağlamak için evrensel bir dil sunar."
+            "explanation": "Ünite 1'de, \"Pantone ise tasarımcıların üreticilerle kritik kararları doğru şekilde alabilmesini sağlayan evrensel bir renk dili ortaya koyar.\" ifadesi bulunmaktadır. Bu sistem, renk konusunda tutarlılık sağlamak için evrensel bir dil sunar.",
+            "is_duplicate": true,
+            "duplicate_of": 3,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 22,
@@ -391,7 +434,9 @@
             "material_id": "634750",
             "UniteNo": 2,
             "topic": "Kullanıcı Deneyimi (UX)",
-            "explanation": "Kullanıcı deneyimi (UX) tanımı, nesnel veya dijital ürünlerde kullanıcının ürünle karşılaşma anının başından sonuna kadar olan deneyimini konu alan alan olarak Ünite 2'de verilmiştir. Dolayısıyla kısaltması UX'tir."
+            "explanation": "Kullanıcı deneyimi (UX) tanımı, nesnel veya dijital ürünlerde kullanıcının ürünle karşılaşma anının başından sonuna kadar olan deneyimini konu alan alan olarak Ünite 2'de verilmiştir. Dolayısıyla kısaltması UX'tir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 23,
@@ -409,7 +454,10 @@
             "material_id": "634750",
             "UniteNo": 1,
             "topic": "Sistem Türleri",
-            "explanation": "Ünite 1'de listelenen sistem türleri şunlardır: Fiziksel/Soyut, Açık/Kapalı, Alt/Üst, Kalıcı/Geçici, Doğal/Yapay, Belirlenimci/Olasılıkçı. 'Modüler' sistem türler arasında sayılmamıştır; modülerlik daha çok sistemlerin bileşen yapısıyla ilgilidir (Grid Sistemi ile ilişkili olarak Ünite 3'te daha detaylı işlenir)."
+            "explanation": "Ünite 1'de listelenen sistem türleri şunlardır: Fiziksel/Soyut, Açık/Kapalı, Alt/Üst, Kalıcı/Geçici, Doğal/Yapay, Belirlenimci/Olasılıkçı. 'Modüler' sistem türler arasında sayılmamıştır; modülerlik daha çok sistemlerin bileşen yapısıyla ilgilidir (Grid Sistemi ile ilişkili olarak Ünite 3'te daha detaylı işlenir).",
+            "is_duplicate": true,
+            "duplicate_of": 4,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 24,
@@ -427,7 +475,10 @@
             "material_id": "634750",
             "UniteNo": 1,
             "topic": "Temel Tasarım Alanları",
-            "explanation": "Ünite 1'in 'Giriş' bölümünde temel tasarım çalışma alanları olarak Endüstriyel tasarım, iç mimarlık, moda tasarımı ve grafik tasarım belirtilmiştir. Kullanıcı deneyimi (UX) ise daha çok tasarımın bir alt alanı veya sonucu olarak ele alınmıştır, temel alanlardan biri olarak listelenmemiştir."
+            "explanation": "Ünite 1'in 'Giriş' bölümünde temel tasarım çalışma alanları olarak Endüstriyel tasarım, iç mimarlık, moda tasarımı ve grafik tasarım belirtilmiştir. Kullanıcı deneyimi (UX) ise daha çok tasarımın bir alt alanı veya sonucu olarak ele alınmıştır, temel alanlardan biri olarak listelenmemiştir.",
+            "is_duplicate": true,
+            "duplicate_of": 2,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 25,
@@ -445,7 +496,9 @@
             "material_id": "634750",
             "UniteNo": 2,
             "topic": "Seri Tasarım Örnekleri",
-            "explanation": "Ünite 2'de seri tasarım mantığı, bir koleksiyon veya seri üründen oluşan ürünlerin bütün halinde tasarlanması olarak tanımlanmıştır. 'Can Lab' serisi, Can Yayınlarının klasikleşmiş beyaz kapak serisinin tersine çevrilmiş deneyimsel bir seçkisi olarak sunulmuştur. Bu, bir seri tasarım örneğidir. Buna karşılık, 'Ötekini Dinlemek' serisi de seri tasarıma örnektir. 'Pat Metheny Trio 99 → 00' albüm kapağı da (CD kutusu) bir seri (tek bir tasarımcının farklı albümleri) kapsamında ele alınmıştır. Ancak eserin kendisinin ne olduğu bilgisi eksik olsa da, 'Arredamento Mimarlık Dergisi'nin kapaklarının her sayı değişen görseli, tek bir tasarımcının elinden çıkmış olmasıyla bir sistem oluşturması, seri tasarım mantığına örnektir. Soruda verilen seçeneklerde hangi örneğin <u>değil</u> olduğu belirtilmemiştir, ancak genel bağlamda bu örneklerin hepsi seri tasarım mantığını yansıtan yapıdadır (örneğin, bir derginin aylık sayıları gibi). Ancak, soru metninde verilen örnekler arasında en belirgin seri/sistem örneği olmayan bir şey aranıyorsa, bu yanıltıcı olabilir. Ünite 2'de 'Can Lab' ve 'Ötekini Dinlemek' serileri, Esen Karol'un 'Türkiye'de Güncel Sanat' serisi ve Penguin Great Ideas serisi doğrudan seri/sistem örneği olarak verilmiştir. 'Pat Metheny Trio 99 → 00' albümü, tek bir tasarımcının ardışık albümleri olduğu için bir sistemdir. Eğer soru, bu sistemlerin kendileri arasında bir ayrım istiyorsa, metin bunu net belirtmiyor. Ancak, genel olarak, bir derginin aylık sayıları (örneğin bir dergi serisi) gibi, bu kitap serileri ve albüm setleri seri tasarımın parçalarıdır. Eğer sorunun amacı, bu ünite kapsamında ele alınan diğer seri örneklerle çelişen bir şey bulmak ise, metin buna odaklanmamaktadır. *Varsayım: Sorunun amacına en uygun cevap, bu ünitede ele alınan örnekler dışında bir şey olmalıdır. Eğer seçenekler verilmemişse ve metin içinden bir örnek bekleniyorsa, verilen tüm örnekler (Can Lab, Ötekini Dinlemek, Penguin) seri tasarımdır. Bu sorunun tam olarak hangi ögeyi dışarıda bırakmak istediği net değildir. Ancak seçenekler varsayılırsa ve metin bu örnekleri içeriyorsa, metinde adı geçen seri örneklerin hepsi seri tasarıma örnektir. Eğer seçenekler olsaydı (örn: Tekil bir afiş tasarımı), cevap o olurdu. Seçenek olmadığı için, metinde adı geçen bir seri örneği verilemez. Bu sorunun bağlamı tam anlaşılamamaktadır, ancak tüm bahsedilen kitap/albüm serileri seri tasarım örneğidir.* Yeniden okuma ile: Verilen metinde spesifik olarak 'değildir' diye dışlanan bir örnek yok. Soruyu genel olarak ele alırsak, seri üretim/tasarımın aksine <u>tekil</u> bir ürün tasviri bu kavrama uymaz. Kitap serileri, albüm serileri vb. sistemlerdir."
+            "explanation": "Ünite 2'de seri tasarım mantığı, bir koleksiyon veya seri üründen oluşan ürünlerin bütün halinde tasarlanması olarak tanımlanmıştır. 'Can Lab' serisi, Can Yayınlarının klasikleşmiş beyaz kapak serisinin tersine çevrilmiş deneyimsel bir seçkisi olarak sunulmuştur. Bu, bir seri tasarım örneğidir. Buna karşılık, 'Ötekini Dinlemek' serisi de seri tasarıma örnektir. 'Pat Metheny Trio 99 → 00' albüm kapağı da (CD kutusu) bir seri (tek bir tasarımcının farklı albümleri) kapsamında ele alınmıştır. Ancak eserin kendisinin ne olduğu bilgisi eksik olsa da, 'Arredamento Mimarlık Dergisi'nin kapaklarının her sayı değişen görseli, tek bir tasarımcının elinden çıkmış olmasıyla bir sistem oluşturması, seri tasarım mantığına örnektir. Soruda verilen seçeneklerde hangi örneğin <u>değil</u> olduğu belirtilmemiştir, ancak genel bağlamda bu örneklerin hepsi seri tasarım mantığını yansıtan yapıdadır (örneğin, bir derginin aylık sayıları gibi). Ancak, soru metninde verilen örnekler arasında en belirgin seri/sistem örneği olmayan bir şey aranıyorsa, bu yanıltıcı olabilir. Ünite 2'de 'Can Lab' ve 'Ötekini Dinlemek' serileri, Esen Karol'un 'Türkiye'de Güncel Sanat' serisi ve Penguin Great Ideas serisi doğrudan seri/sistem örneği olarak verilmiştir. 'Pat Metheny Trio 99 → 00' albümü, tek bir tasarımcının ardışık albümleri olduğu için bir sistemdir. Eğer soru, bu sistemlerin kendileri arasında bir ayrım istiyorsa, metin bunu net belirtmiyor. Ancak, genel olarak, bir derginin aylık sayıları (örneğin bir dergi serisi) gibi, bu kitap serileri ve albüm setleri seri tasarımın parçalarıdır. Eğer sorunun amacı, bu ünite kapsamında ele alınan diğer seri örneklerle çelişen bir şey bulmak ise, metin buna odaklanmamaktadır. *Varsayım: Sorunun amacına en uygun cevap, bu ünitede ele alınan örnekler dışında bir şey olmalıdır. Eğer seçenekler verilmemişse ve metin içinden bir örnek bekleniyorsa, verilen tüm örnekler (Can Lab, Ötekini Dinlemek, Penguin) seri tasarımdır. Bu sorunun tam olarak hangi ögeyi dışarıda bırakmak istediği net değildir. Ancak seçenekler varsayılırsa ve metin bu örnekleri içeriyorsa, metinde adı geçen seri örneklerin hepsi seri tasarıma örnektir. Eğer seçenekler olsaydı (örn: Tekil bir afiş tasarımı), cevap o olurdu. Seçenek olmadığı için, metinde adı geçen bir seri örneği verilemez. Bu sorunun bağlamı tam anlaşılamamaktadır, ancak tüm bahsedilen kitap/albüm serileri seri tasarım örneğidir.* Yeniden okuma ile: Verilen metinde spesifik olarak 'değildir' diye dışlanan bir örnek yok. Soruyu genel olarak ele alırsak, seri üretim/tasarımın aksine <u>tekil</u> bir ürün tasviri bu kavrama uymaz. Kitap serileri, albüm serileri vb. sistemlerdir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 26,
@@ -463,7 +516,9 @@
             "material_id": "634750",
             "UniteNo": 1,
             "topic": "Sistem Türleri ve Tanımları",
-            "explanation": "Ünite 1'de 'Belirlenimci (Deterministik) ve Olasılıkçı Sistemler' başlığı altında, 'Belirlenimci bir sistem, tüm olayların oluşumunun tamamen tahmin edilebilir olduğu sistemdir.' şeklinde tanımlanmıştır."
+            "explanation": "Ünite 1'de 'Belirlenimci (Deterministik) ve Olasılıkçı Sistemler' başlığı altında, 'Belirlenimci bir sistem, tüm olayların oluşumunun tamamen tahmin edilebilir olduğu sistemdir.' şeklinde tanımlanmıştır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 27,
@@ -481,7 +536,9 @@
             "material_id": "634750",
             "UniteNo": 2,
             "topic": "Albüm Kapak Tasarımı",
-            "explanation": "Ünite 2'de, 'Pat Metheny Trio 99 → 00' albüm tasarımının Stefan Sagmeister tarafından üstlenildiği ve CD kutusu çevresinde etkileşimli bir tasarım olduğu belirtilmiştir."
+            "explanation": "Ünite 2'de, 'Pat Metheny Trio 99 → 00' albüm tasarımının Stefan Sagmeister tarafından üstlenildiği ve CD kutusu çevresinde etkileşimli bir tasarım olduğu belirtilmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 28,
@@ -499,7 +556,10 @@
             "material_id": "634750",
             "UniteNo": 2,
             "topic": "Penguin Kitap Kimliği",
-            "explanation": "Ünite 2'de, Penguin Books'un dünyaca tanınan kapak kimliğine standart getiren İsviçreli tasarımcının Jan Tschichold olduğu ve onun 'Penguin Kompozisyon Kuralları'nı oluşturduğu bilgisi yer almaktadır."
+            "explanation": "Ünite 2'de, Penguin Books'un dünyaca tanınan kapak kimliğine standart getiren İsviçreli tasarımcının Jan Tschichold olduğu ve onun 'Penguin Kompozisyon Kuralları'nı oluşturduğu bilgisi yer almaktadır.",
+            "is_duplicate": true,
+            "duplicate_of": 42,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 29,
@@ -517,7 +577,9 @@
             "material_id": "634750",
             "UniteNo": 2,
             "topic": "Seri Tasarım Örnekleri",
-            "explanation": "Ünite 2'de, David Pearson tarafından tasarlanan Penguin Books Great Ideas serisinin, felsefe, politika, bilim gibi konuları içeren kurgusal olmayan metinleri kapsadığı ve bu serinin bir yayınevi (Penguin Books) ürünü olduğu belirtilmiştir."
+            "explanation": "Ünite 2'de, David Pearson tarafından tasarlanan Penguin Books Great Ideas serisinin, felsefe, politika, bilim gibi konuları içeren kurgusal olmayan metinleri kapsadığı ve bu serinin bir yayınevi (Penguin Books) ürünü olduğu belirtilmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 30,
@@ -535,7 +597,10 @@
             "material_id": "634750",
             "UniteNo": 2,
             "topic": "Dergi Kapak Tasarımı",
-            "explanation": "Ünite 2'de, 'Arredamento Dekorasyon' ve 'Arredamento Mimarlık' dergilerinin kapak tasarımlarını ilk sayısından itibaren Bülent Erkmen'in üstlendiği bilgisi verilmiştir."
+            "explanation": "Ünite 2'de, 'Arredamento Dekorasyon' ve 'Arredamento Mimarlık' dergilerinin kapak tasarımlarını ilk sayısından itibaren Bülent Erkmen'in üstlendiği bilgisi verilmiştir.",
+            "is_duplicate": true,
+            "duplicate_of": 83,
+            "original_source": "Yaz Okulu 2023-2024"
         },
         {
             "id": 31,
@@ -553,7 +618,9 @@
             "material_id": "634750",
             "UniteNo": 3,
             "topic": "Altın Oran",
-            "explanation": "Ünite 3'te, \"İsa'dan önce 5. yüzyılda Yunanlı mimarlar, bu form anlayışını dayandırdıkları oran ve orantının temel kuralları üzerine çalışmışlardır. Sonradan bu kurallar Atina'da bulunan ünlü Parthenon Tapınağı'nın ölçülerinin dayandırıldığı “Altın Oran\" olarak adlandırılmıştır.\" bilgisi yer almaktadır. Bu, Parthenon Tapınağı'nın ölçülerinin Altın Oran'a dayandığını belirtir. Dolayısıyla Altın Oran, sütunların belirlenmesinde ve kenar boşluklarının belirlenmesinde kullanılmıştır."
+            "explanation": "Ünite 3'te, \"İsa'dan önce 5. yüzyılda Yunanlı mimarlar, bu form anlayışını dayandırdıkları oran ve orantının temel kuralları üzerine çalışmışlardır. Sonradan bu kurallar Atina'da bulunan ünlü Parthenon Tapınağı'nın ölçülerinin dayandırıldığı “Altın Oran\" olarak adlandırılmıştır.\" bilgisi yer almaktadır. Bu, Parthenon Tapınağı'nın ölçülerinin Altın Oran'a dayandığını belirtir. Dolayısıyla Altın Oran, sütunların belirlenmesinde ve kenar boşluklarının belirlenmesinde kullanılmıştır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 32,
@@ -571,7 +638,10 @@
             "material_id": "634750",
             "UniteNo": 3,
             "topic": "Grid Türleri",
-            "explanation": "Çoklu sayfa tasarımlarında, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimine \"Asimetrik Grid\" adı verilir (Ünite 3, Grid Türleri bölümü). Asimetrik grid sisteminde, simetrik gridden farklı olarak sayfalar birbirini yansıması değil, kopyası olabilir ve karmaşık bilgiler içeren çoklu sayfa tasarımlarında tercih edilir."
+            "explanation": "Çoklu sayfa tasarımlarında, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimine \"Asimetrik Grid\" adı verilir (Ünite 3, Grid Türleri bölümü). Asimetrik grid sisteminde, simetrik gridden farklı olarak sayfalar birbirini yansıması değil, kopyası olabilir ve karmaşık bilgiler içeren çoklu sayfa tasarımlarında tercih edilir.",
+            "is_duplicate": true,
+            "duplicate_of": 13,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 33,
@@ -589,7 +659,10 @@
             "material_id": "634750",
             "UniteNo": 3,
             "topic": "Tipografi",
-            "explanation": "Bir yazı karakterinin hatlarının uç yapısında bulunan yatay çıkıntılara \"serif\" adı verilir (Ünite 3, Sayfa Tasarımında Kullanılan Temel Tasarım Elemanları bölümünde bahsedilen yazı karakterlerinin özelliklerinde ima edilmektedir; genel tipografi bilgisi gerektirir). Bu çıkıntılar, tipografik elemanların tanımlanmasında ve kategorize edilmesinde önemlidir."
+            "explanation": "Bir yazı karakterinin hatlarının uç yapısında bulunan yatay çıkıntılara \"serif\" adı verilir (Ünite 3, Sayfa Tasarımında Kullanılan Temel Tasarım Elemanları bölümünde bahsedilen yazı karakterlerinin özelliklerinde ima edilmektedir; genel tipografi bilgisi gerektirir). Bu çıkıntılar, tipografik elemanların tanımlanmasında ve kategorize edilmesinde önemlidir.",
+            "is_duplicate": true,
+            "duplicate_of": 14,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 34,
@@ -607,7 +680,10 @@
             "material_id": "634750",
             "UniteNo": 3,
             "topic": "Grid Anatomisi",
-            "explanation": "Sayfanın iç çevresinde bulunan, gridin dışında kalan negatif boşluklara \"Kenar Boşlukları\" (Margin) adı verilir (Ünite 3, Grid'in Anatomisi bölümü). Bu boşluklar, sayfa numaralarını yerleştirmek ve okuyucunun gözünü rahatlatmak için önemlidir."
+            "explanation": "Sayfanın iç çevresinde bulunan, gridin dışında kalan negatif boşluklara \"Kenar Boşlukları\" (Margin) adı verilir (Ünite 3, Grid'in Anatomisi bölümü). Bu boşluklar, sayfa numaralarını yerleştirmek ve okuyucunun gözünü rahatlatmak için önemlidir.",
+            "is_duplicate": true,
+            "duplicate_of": 15,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 35,
@@ -625,7 +701,9 @@
             "material_id": "634750",
             "UniteNo": 3,
             "topic": "Tipografi",
-            "explanation": "Boş bırakılan yer, bir yazı karakterinin tasarımsal özelliklerini tanımlayan \"Tipografi\" kavramı ile doğru şekilde tamamlanır (Ünite 3, Sayfa Tasarımında Kullanılan Temel Tasarım Elemanları altında Tipografi başlığı). Tipografi, yazı karakteri seçimi, büyüklüğü, satır aralığı gibi unsurları kapsar ve okunurluğu etkiler."
+            "explanation": "Boş bırakılan yer, bir yazı karakterinin tasarımsal özelliklerini tanımlayan \"Tipografi\" kavramı ile doğru şekilde tamamlanır (Ünite 3, Sayfa Tasarımında Kullanılan Temel Tasarım Elemanları altında Tipografi başlığı). Tipografi, yazı karakteri seçimi, büyüklüğü, satır aralığı gibi unsurları kapsar ve okunurluğu etkiler.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 36,
@@ -643,7 +721,10 @@
             "material_id": "634750",
             "UniteNo": 4,
             "topic": "Harita Bileşenleri",
-            "explanation": "Haritada hangi rengin veya çizginin ne anlama geldiğini toplu olarak gösteren açıklama kısmına \"Lejant\" (Açıklama) adı verilir (Ünite 4, Haritada İçerik Kullanımı bölümü). Lejant, özellikle fiziki haritalarda renk kodlarının anlamını belirtmek için zorunludur."
+            "explanation": "Haritada hangi rengin veya çizginin ne anlama geldiğini toplu olarak gösteren açıklama kısmına \"Lejant\" (Açıklama) adı verilir (Ünite 4, Haritada İçerik Kullanımı bölümü). Lejant, özellikle fiziki haritalarda renk kodlarının anlamını belirtmek için zorunludur.",
+            "is_duplicate": true,
+            "duplicate_of": 16,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 37,
@@ -655,13 +736,16 @@
                 "Kamusal binalar",
                 "Ulaştırma birimleri"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 17,
             "source": "Ara Sınav 2024-2025",
             "material_id": "634750",
             "UniteNo": 4,
             "topic": "Yönlendirme Alanları",
-            "explanation": "Ünite 4'te yönlendirme ve işaretleme sistemlerinin kullanıldığı alanlar olarak Kamusal Binalar, Ulaştırma Alanları, Sosyal ve Kültürel Alanlar ve Kent Merkezleri belirtilmiştir (Ünite 4, Yönlendirme ve İşaretleme Sistemlerinin Kullanıldığı Alanlar bölümü). Kurum Kimliği Tasarımı ise ayrı bir başlık altında incelenen, sistemin bir parçası olabilmekle birlikte doğrudan bir kullanım alanı olarak listelenmeyen bir alandır."
+            "explanation": "Ünite 4'te yönlendirme ve işaretleme sistemlerinin kullanıldığı alanlar olarak Kamusal Binalar, Ulaştırma Alanları, Sosyal ve Kültürel Alanlar ve Kent Merkezleri belirtilmiştir (Ünite 4, Yönlendirme ve İşaretleme Sistemlerinin Kullanıldığı Alanlar bölümü). Kurum Kimliği Tasarımı ise ayrı bir başlık altında incelenen, sistemin bir parçası olabilmekle birlikte doğrudan bir kullanım alanı olarak listelenmeyen bir alandır.",
+            "is_duplicate": true,
+            "duplicate_of": 19,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 38,
@@ -679,7 +763,9 @@
             "material_id": "634750",
             "UniteNo": 4,
             "topic": "İşaretleme Tanımı",
-            "explanation": "Varılan noktayı gösteren isimlik, bir başka deyişle görsel işarete \"İşaretleme (Signage)\" adı verilir (Ünite 4, İşaretleme Tanımı bölümü). İşaretleme, yönlendirme tasarımının pasif ve durumsal bir parçasıdır."
+            "explanation": "Varılan noktayı gösteren isimlik, bir başka deyişle görsel işarete \"İşaretleme (Signage)\" adı verilir (Ünite 4, İşaretleme Tanımı bölümü). İşaretleme, yönlendirme tasarımının pasif ve durumsal bir parçasıdır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 39,
@@ -697,7 +783,9 @@
             "material_id": "634750",
             "UniteNo": 7,
             "topic": "Bilgi Panoları",
-            "explanation": "I, II, III ve IV ifadelerinin hepsi bilgi panolarının (Bilgi Panoları ve Özellikleri bölümü, Ünite 7) tanım ve özellikleriyle örtüşmektedir. Bilgi panoları çerçeveli, içeriği sınırlı, pek çok ortamda kullanılabilen ve görselleştirilmiş iletişim mecralarıdır."
+            "explanation": "I, II, III ve IV ifadelerinin hepsi bilgi panolarının (Bilgi Panoları ve Özellikleri bölümü, Ünite 7) tanım ve özellikleriyle örtüşmektedir. Bilgi panoları çerçeveli, içeriği sınırlı, pek çok ortamda kullanılabilen ve görselleştirilmiş iletişim mecralarıdır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 40,
@@ -715,7 +803,9 @@
             "material_id": "634750",
             "UniteNo": 4,
             "topic": "Harita Bileşenleri",
-            "explanation": "Haritanın başlıca görsel unsurları Form, Renk, Yazı (Tipografi), Sembol ve İşaretler olarak listelenmiştir (Ünite 4, Form, Harita ve Haritalama Kavramı bölümü). Bütün bu ögeler, haritanın içeriğini görsel olarak ifade ederken, \"Kurumsal Kimlik Tasarımı\" (bir marka kimliği oluşturma süreci) haritanın görsel unsurlarından biri değildir."
+            "explanation": "Haritanın başlıca görsel unsurları Form, Renk, Yazı (Tipografi), Sembol ve İşaretler olarak listelenmiştir (Ünite 4, Form, Harita ve Haritalama Kavramı bölümü). Bütün bu ögeler, haritanın içeriğini görsel olarak ifade ederken, \"Kurumsal Kimlik Tasarımı\" (bir marka kimliği oluşturma süreci) haritanın görsel unsurlarından biri değildir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 41,
@@ -733,7 +823,9 @@
             "material_id": "634738",
             "UniteNo": 1,
             "topic": "Modüler Sistemler",
-            "explanation": "Ünite 1'de, Modüler Sistemler şöyle tanımlanmıştır: \"Modüler sistemler seri üretimin standartlaşan üretim bandı biçiminde kişiye özel müdahalelere olanak veren sistemlere verilen genel addır. Modüler sistemler yapı bloklarından oluşur ve kişiye veya ürüne özel olarak bu yapı blokları eksiltip artırılabilir.\""
+            "explanation": "Ünite 1'de, Modüler Sistemler şöyle tanımlanmıştır: \"Modüler sistemler seri üretimin standartlaşan üretim bandı biçiminde kişiye özel müdahalelere olanak veren sistemlere verilen genel addır. Modüler sistemler yapı bloklarından oluşur ve kişiye veya ürüne özel olarak bu yapı blokları eksiltip artırılabilir.\"",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 42,
@@ -751,7 +843,9 @@
             "material_id": "634738",
             "UniteNo": 6,
             "topic": "Tasarımcı Kimliği",
-            "explanation": "Penguin Books'un dünyaca tanınan kapak kimliğine bir standart getiren İsviçreli tasarımcı Jan Tschichold'tur. Bu standartlar, kitapların boyutlarından logonun yerleşimine, kapaktaki başlık fontundan iç sayfalardaki paragraf girdisine kadar pek çok detayı kapsar."
+            "explanation": "Penguin Books'un dünyaca tanınan kapak kimliğine bir standart getiren İsviçreli tasarımcı Jan Tschichold'tur. Bu standartlar, kitapların boyutlarından logonun yerleşimine, kapaktaki başlık fontundan iç sayfalardaki paragraf girdisine kadar pek çok detayı kapsar.",
+            "occurrence_count": 4,
+            "is_duplicate": false
         },
         {
             "id": 43,
@@ -769,7 +863,9 @@
             "material_id": "634738",
             "UniteNo": 3,
             "topic": "Simetrik Grid Sistemi",
-            "explanation": "Simetrik Grid, çoklu sayfa tasarımlarında, grid çizgi yerleşimlerinin dikey alanlarda sütunlar oluşturacak bir biçimde ve karşılıklı sayfalarda birbirinin ayna yansımaları şeklinde düzenlendiği grid sistemidir. Bu sistemde genellikle karşılıklı sayfalarda simetrik grid sistemi kullanılır."
+            "explanation": "Simetrik Grid, çoklu sayfa tasarımlarında, grid çizgi yerleşimlerinin dikey alanlarda sütunlar oluşturacak bir biçimde ve karşılıklı sayfalarda birbirinin ayna yansımaları şeklinde düzenlendiği grid sistemidir. Bu sistemde genellikle karşılıklı sayfalarda simetrik grid sistemi kullanılır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 44,
@@ -787,7 +883,9 @@
             "material_id": "634738",
             "UniteNo": 4,
             "topic": "Bilgi Panoları Özellikleri",
-            "explanation": "I, II, III ve IV numaralı ifadelerin hepsi doğrudur. Bilgi panoları çerçevesi çizilen ve konumlandırıldığı yere özel hazırlanan tasarım ürünleridir (I). İçerik sınırları bellidir ve buna göre görselleştirilir (II). Pek çok ortamda (basılı/dijital) ve amaçla kullanılabilirler (III). Temel amaçları taşıdıkları içeriği kullanıcının anlayacağı şekilde görselleştirmektir (IV)."
+            "explanation": "I, II, III ve IV numaralı ifadelerin hepsi doğrudur. Bilgi panoları çerçevesi çizilen ve konumlandırıldığı yere özel hazırlanan tasarım ürünleridir (I). İçerik sınırları bellidir ve buna göre görselleştirilir (II). Pek çok ortamda (basılı/dijital) ve amaçla kullanılabilirler (III). Temel amaçları taşıdıkları içeriği kullanıcının anlayacağı şekilde görselleştirmektir (IV).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 45,
@@ -799,13 +897,15 @@
                 "Sunum",
                 "Sanal İletişim"
             ],
-            "correctIndex": 4,
+            "correctIndex": 3,
             "exam_question_number": 5,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "634738",
             "UniteNo": 5,
             "topic": "Sunum Kavramı",
-            "explanation": "Sunum, en yalın biçimiyle bir eser, ürün ya da fikrin izleyiciye/kullanıcıya çeşitli iletişim kanallarıyla aktarımıdır. Sunum sistemleri karmaşık elektronik sistemlerden basit dosyalara kadar geniş bir yelpazeyi kapsar."
+            "explanation": "Sunum, en yalın biçimiyle bir eser, ürün ya da fikrin izleyiciye/kullanıcıya çeşitli iletişim kanallarıyla aktarımıdır. Sunum sistemleri karmaşık elektronik sistemlerden basit dosyalara kadar geniş bir yelpazeyi kapsar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 46,
@@ -823,7 +923,9 @@
             "material_id": "634738",
             "UniteNo": 5,
             "topic": "Sergileme Tasarımında Anlatı",
-            "explanation": "Sergileme tasarımında anlatı, kavramsal, sanatsal ya da ticari düzlemde izleyiciye iletilmesi istenen mesajdır. Anlatı, üzerinde çalışılması ve bir kompozisyon kaleme alır gibi planlanması gereken içeriktir."
+            "explanation": "Sergileme tasarımında anlatı, kavramsal, sanatsal ya da ticari düzlemde izleyiciye iletilmesi istenen mesajdır. Anlatı, üzerinde çalışılması ve bir kompozisyon kaleme alır gibi planlanması gereken içeriktir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 47,
@@ -841,7 +943,9 @@
             "material_id": "634738",
             "UniteNo": 5,
             "topic": "Sergi Türleri ve Tanımı",
-            "explanation": "I, II ve III numaralı ifadelerin hepsi doğrudur. Sanat sergileri üç ana türe ayrılır: kişisel, karma ve temalı sergiler (I). Sanat sergileri, halka sunulan sanat eserlerinin sergilenmesidir (II). Ticari sergiler ise ürün ve hizmetlerin gösterime çıktığı mekânlardır (III)."
+            "explanation": "I, II ve III numaralı ifadelerin hepsi doğrudur. Sanat sergileri üç ana türe ayrılır: kişisel, karma ve temalı sergiler (I). Sanat sergileri, halka sunulan sanat eserlerinin sergilenmesidir (II). Ticari sergiler ise ürün ve hizmetlerin gösterime çıktığı mekânlardır (III).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 48,
@@ -859,7 +963,9 @@
             "material_id": "634738",
             "UniteNo": 6,
             "topic": "Portfolyo Sistemi",
-            "explanation": "Portfolyo, sanat ve tasarım alanlarında sahibinin alandaki yetkinliğini ispatlayan bir tür belgedir. Sunum sistemleri gibi genel gösterim araçlarıdır ancak eserlerin veya ürünlerin kendisi yerine, o işlerin çıktılarının (eser, proje çizimleri, vb.) bir sistem dahilinde sunumudur."
+            "explanation": "Portfolyo, sanat ve tasarım alanlarında sahibinin alandaki yetkinliğini ispatlayan bir tür belgedir. Sunum sistemleri gibi genel gösterim araçlarıdır ancak eserlerin veya ürünlerin kendisi yerine, o işlerin çıktılarının (eser, proje çizimleri, vb.) bir sistem dahilinde sunumudur.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 49,
@@ -877,7 +983,9 @@
             "material_id": "634738",
             "UniteNo": 6,
             "topic": "Kurum Kimliği Yapıları",
-            "explanation": "Kurum kimliği yapıları içerisinde, tipografik elemanlar, özellikle kurumun adı olan, kurumsal iletişimin temel öğelerinden biridir. Kurum Kimliği Yapıları başlığı altında, 'Marka kimliği'nin, bir kurumun aynı görsel yapıyı kullanmayan farklı markalara sahip olması durumu olduğu, 'Logotayp'ın ise kurum adının tipografik elemanlar üzerinden şekillendirilmesi olduğu belirtilir. Kurumsal yazı karakterleri başlığı altında, logonun da bir yazı karakteri ailesi kullanılarak oluşturulabileceği belirtilir. Ancak, genellikle kurumun adı, sembolü veya her ikisinin birlikte kullanıldığı, yazılı bir ifadeyi temsil eden eleman 'Logotayp'tır."
+            "explanation": "Kurum kimliği yapıları içerisinde, tipografik elemanlar, özellikle kurumun adı olan, kurumsal iletişimin temel öğelerinden biridir. Kurum Kimliği Yapıları başlığı altında, 'Marka kimliği'nin, bir kurumun aynı görsel yapıyı kullanmayan farklı markalara sahip olması durumu olduğu, 'Logotayp'ın ise kurum adının tipografik elemanlar üzerinden şekillendirilmesi olduğu belirtilir. Kurumsal yazı karakterleri başlığı altında, logonun da bir yazı karakteri ailesi kullanılarak oluşturulabileceği belirtilir. Ancak, genellikle kurumun adı, sembolü veya her ikisinin birlikte kullanıldığı, yazılı bir ifadeyi temsil eden eleman 'Logotayp'tır.",
+            "occurrence_count": 3,
+            "is_duplicate": false
         },
         {
             "id": 50,
@@ -895,7 +1003,9 @@
             "material_id": "634738",
             "UniteNo": 7,
             "topic": "Yazılı İletişim Nedenleri",
-            "explanation": "Bürokratik bir yapının içinde yazılı iletişimi tercih etmenin başlıca nedenleri arasında belgenin arşiv değeri/kalıcılığı (I), konunun bütünlük içinde ifade edilmesi (II), resmîyetin getirdiği yetki hissi (III'ün bir varyasyonu, ancak metinde doğrudan 'resmîyet' vurgusu var), kişilerin gidemeyeceği yerlere gidebilmesi (IV) ve zaman esnekliği (V) sayılmıştır. III numaralı ifade (Resmiyeti azaltır ve samimi hissettirir) nedenler arasında sayılmamıştır; tam tersine yazılı belgenin daha resmî olduğu belirtilmiştir."
+            "explanation": "Bürokratik bir yapının içinde yazılı iletişimi tercih etmenin başlıca nedenleri arasında belgenin arşiv değeri/kalıcılığı (I), konunun bütünlük içinde ifade edilmesi (II), resmîyetin getirdiği yetki hissi (III'ün bir varyasyonu, ancak metinde doğrudan 'resmîyet' vurgusu var), kişilerin gidemeyeceği yerlere gidebilmesi (IV) ve zaman esnekliği (V) sayılmıştır. III numaralı ifade (Resmiyeti azaltır ve samimi hissettirir) nedenler arasında sayılmamıştır; tam tersine yazılı belgenin daha resmî olduğu belirtilmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 51,
@@ -913,7 +1023,9 @@
             "material_id": "634738",
             "UniteNo": 6,
             "topic": "Kurum Kimliği Yapıları",
-            "explanation": "Ünite 6'da, Kurum Kimliği Yapıları başlığı altında, \"Monolitik kimlik: Kurumun tüm iletişiminde tek isim ve görsel karakter kullanmasıdır.\" şeklinde tanımlanmıştır. Bu tanım, verilen soru ifadesiyle birebir örtüşmektedir."
+            "explanation": "Ünite 6'da, Kurum Kimliği Yapıları başlığı altında, \"Monolitik kimlik: Kurumun tüm iletişiminde tek isim ve görsel karakter kullanmasıdır.\" şeklinde tanımlanmıştır. Bu tanım, verilen soru ifadesiyle birebir örtüşmektedir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 52,
@@ -931,7 +1043,9 @@
             "material_id": "634738",
             "UniteNo": 6,
             "topic": "Kurum Kimliği Yapıları",
-            "explanation": "Jenerik markalar, isimlerini faaliyet alanlarına göre almış kurumlara aittir. Ünite 6'da \"Kurum Kimliği Yapıları\" başlığı altında, monolitik kimlik tanımının ardından, \"Desteklenmiş kimlik\" tanımı yapılırken, kurumun sahip olduğu farklı faaliyet alanlarının farklı isimlerle oluşturulup kurumun kendi ismi ve kimliğiyle desteklenmesi gerektiği belirtilmiştir. Ancak soruda \"jenerik marka\" kavramı soruluyor. Metinde bu kavramın tanımına doğrudan yer verilmemiştir. Ancak, \"Kurum Kimliği Yapıları\" bölümünde farklı yapı türlerinden bahsedilmektedir. Kurumsal kimlik yapıları monolitik, desteklenmiş ve marka kimliği olmak üzere üç farklı sistem etrafında şekillendirilebilir. Monolitik kimlikte tek isim kullanılırken, desteklenmiş kimlikte farklı faaliyet alanları farklı isimlerle oluşturulur. Verilen bağlamda, en yakın olası cevap bir kimlik yapısı türü olmalıdır. Sorunun bağlamı Unit 6'daki \"Kurum Kimliği Yapıları\" ile ilgilidir. Monolitik kimlik tek tip isim ve görsellik kullanır. Desteklenmiş kimlik farklı isimler kullanır. Verilen seçenekler olmaksızın, en uygun eşleştirme için verilen metindeki bilgilerle kesin bir çıkarım yapmak zor olsa da, \"Kurum Kimliği Yapıları\" başlığı altındaki açıklamalar temel alınırsa, sorunun kendisi eksik bilgi içeriyor gibi görünmektedir. Ancak, \"Kurum Kimliği Yapıları\" altında \"Desteklenmiş kimlik\" tanımı, kurumun farklı faaliyet alanlarının farklı isimlerle oluşturulması ve kurumun kendi ismi ve kimliğiyle desteklenmesi olarak açıklanır. Eğer \"jenerik marka\" tanımını \"isimlerini faaliyet alanlarına vermiş\" olarak kabul edersek, bu durum \"Desteklenmiş kimlik\" yapısına yakın olabilir, zira farklı alanlar farklı isimler alabilir."
+            "explanation": "Jenerik markalar, isimlerini faaliyet alanlarına göre almış kurumlara aittir. Ünite 6'da \"Kurum Kimliği Yapıları\" başlığı altında, monolitik kimlik tanımının ardından, \"Desteklenmiş kimlik\" tanımı yapılırken, kurumun sahip olduğu farklı faaliyet alanlarının farklı isimlerle oluşturulup kurumun kendi ismi ve kimliğiyle desteklenmesi gerektiği belirtilmiştir. Ancak soruda \"jenerik marka\" kavramı soruluyor. Metinde bu kavramın tanımına doğrudan yer verilmemiştir. Ancak, \"Kurum Kimliği Yapıları\" bölümünde farklı yapı türlerinden bahsedilmektedir. Kurumsal kimlik yapıları monolitik, desteklenmiş ve marka kimliği olmak üzere üç farklı sistem etrafında şekillendirilebilir. Monolitik kimlikte tek isim kullanılırken, desteklenmiş kimlikte farklı faaliyet alanları farklı isimlerle oluşturulur. Verilen bağlamda, en yakın olası cevap bir kimlik yapısı türü olmalıdır. Sorunun bağlamı Unit 6'daki \"Kurum Kimliği Yapıları\" ile ilgilidir. Monolitik kimlik tek tip isim ve görsellik kullanır. Desteklenmiş kimlik farklı isimler kullanır. Verilen seçenekler olmaksızın, en uygun eşleştirme için verilen metindeki bilgilerle kesin bir çıkarım yapmak zor olsa da, \"Kurum Kimliği Yapıları\" başlığı altındaki açıklamalar temel alınırsa, sorunun kendisi eksik bilgi içeriyor gibi görünmektedir. Ancak, \"Kurum Kimliği Yapıları\" altında \"Desteklenmiş kimlik\" tanımı, kurumun farklı faaliyet alanlarının farklı isimlerle oluşturulması ve kurumun kendi ismi ve kimliğiyle desteklenmesi olarak açıklanır. Eğer \"jenerik marka\" tanımını \"isimlerini faaliyet alanlarına vermiş\" olarak kabul edersek, bu durum \"Desteklenmiş kimlik\" yapısına yakın olabilir, zira farklı alanlar farklı isimler alabilir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 53,
@@ -949,7 +1063,9 @@
             "material_id": "634738",
             "UniteNo": 6,
             "topic": "Kurum Kimliği Tanımı",
-            "explanation": "Kurumun kültürü, değerleri, tutumları, ilkeleri, amacı ve tarihinden meydana gelen yapıya Kurumsal Felsefe denir. Kurumsal davranış ise kurumun felsefesi tarafından şekillendirilen sosyal, iletişim, dağıtım, ücret, finans, sunum/teklif ve her türlü sosyal davranışların toplamıdır (Kurumsal Davranış)."
+            "explanation": "Kurumun kültürü, değerleri, tutumları, ilkeleri, amacı ve tarihinden meydana gelen yapıya Kurumsal Felsefe denir. Kurumsal davranış ise kurumun felsefesi tarafından şekillendirilen sosyal, iletişim, dağıtım, ücret, finans, sunum/teklif ve her türlü sosyal davranışların toplamıdır (Kurumsal Davranış).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 54,
@@ -967,7 +1083,9 @@
             "material_id": "634738",
             "UniteNo": 7,
             "topic": "Form Türleri",
-            "explanation": "Beklenilen cevaplar için ayrılan alanların dikey ya da yatay kutulardan oluşturulduğu form tasarımlarına Kutu formlar denir. Bu formlar, kullanıcının yanlış alana cevap verme olasılığını en aza indirmeyi amaçlar (Ünite 7)."
+            "explanation": "Beklenilen cevaplar için ayrılan alanların dikey ya da yatay kutulardan oluşturulduğu form tasarımlarına Kutu formlar denir. Bu formlar, kullanıcının yanlış alana cevap verme olasılığını en aza indirmeyi amaçlar (Ünite 7).",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 55,
@@ -985,7 +1103,9 @@
             "material_id": "634738",
             "UniteNo": 7,
             "topic": "Gestalt İlkeleri",
-            "explanation": "Ünite 7'de, form tasarımında görsel algıyı düzenlemek için Gestalt teorisinden bahsedilir. Bu bağlamda yakınlık (proximity), benzerlik (similarity), devamlılık (continuity) ve kapalılık (closure) ilkelerinden bahsedilmiştir. Figür-zemin ilkesi (figüreground) de aynı paragrafta geçmektedir. Soruda \"değildir\" denildiği için, listede adı geçmeyen veya bu bağlamda bahsi geçmeyen bir ilke aranmalıdır. Ancak metinde bu dört temel ilkeye ek olarak figür-zemin ilkesine de değinilmiştir. Metinde geçenler: Yakınlık, Benzerlik, Devamlılık, Kapalılık ve Figür-zemin. Eğer şıklarda bu beşinden farklı bir Gestalt ilkesi olsaydı o doğru cevap olurdu. Verilen metinde geçen tüm ilkeler listelenmiştir."
+            "explanation": "Ünite 7'de, form tasarımında görsel algıyı düzenlemek için Gestalt teorisinden bahsedilir. Bu bağlamda yakınlık (proximity), benzerlik (similarity), devamlılık (continuity) ve kapalılık (closure) ilkelerinden bahsedilmiştir. Figür-zemin ilkesi (figüreground) de aynı paragrafta geçmektedir. Soruda \"değildir\" denildiği için, listede adı geçmeyen veya bu bağlamda bahsi geçmeyen bir ilke aranmalıdır. Ancak metinde bu dört temel ilkeye ek olarak figür-zemin ilkesine de değinilmiştir. Metinde geçenler: Yakınlık, Benzerlik, Devamlılık, Kapalılık ve Figür-zemin. Eğer şıklarda bu beşinden farklı bir Gestalt ilkesi olsaydı o doğru cevap olurdu. Verilen metinde geçen tüm ilkeler listelenmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 56,
@@ -1003,7 +1123,9 @@
             "material_id": "634738",
             "UniteNo": 3,
             "topic": "Grafik Tasarımcı Tanımı",
-            "explanation": "Yazı ile tasarım yapan ve tipografi pratiği hakkında iyi bir çalışma bilgisine sahip olan kişilere tipograf denir. Ünite 3'te, tipografik elemanların kullanımından bahsederken, tipografik kullanımı ve okuturluk konusunda bilgili olan kişilerin yazı karakteri seçimi sırasında dikkat etmesi gerektiği belirtilmiştir. Ancak metinde doğrudan \"tipograf\" terimi geçmemektedir. Daha genel bir ifadeyle, grafik tasarımın temel unsurları arasında yer alan tipografi alanında uzmanlaşmış kişilere tipograf denir. Ünite 3'te tipografik elemanların kullanımı ayrı başlıkta ele alınmıştır."
+            "explanation": "Yazı ile tasarım yapan ve tipografi pratiği hakkında iyi bir çalışma bilgisine sahip olan kişilere tipograf denir. Ünite 3'te, tipografik elemanların kullanımından bahsederken, tipografik kullanımı ve okuturluk konusunda bilgili olan kişilerin yazı karakteri seçimi sırasında dikkat etmesi gerektiği belirtilmiştir. Ancak metinde doğrudan \"tipograf\" terimi geçmemektedir. Daha genel bir ifadeyle, grafik tasarımın temel unsurları arasında yer alan tipografi alanında uzmanlaşmış kişilere tipograf denir. Ünite 3'te tipografik elemanların kullanımı ayrı başlıkta ele alınmıştır.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 57,
@@ -1015,13 +1137,15 @@
                 "Grid sistemi",
                 "Logometre"
             ],
-            "correctIndex": 4,
+            "correctIndex": 2,
             "exam_question_number": 17,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "634738",
             "UniteNo": 4,
             "topic": "Uluslararası İletişim Sistemleri",
-            "explanation": "Tüm dünyada ortak bir sembol dili oluşturmak amacıyla tasarlanan ve yaygın kullanım alanlarına sahip uluslararası iletişim sistemi Isotype'tır (Uluslararası Tipografik ve Resimsel Eğitim Sistemi). Ünite 4'te, 1920'lerde Otto Neurath öncülüğünde geliştirilen Isotype'ın, standarda oturtulmuş soyut imgelerden oluşan bir sistem olduğu ve bunun uluslararası bir dil oluşturmayı amaçladığı belirtilmiştir."
+            "explanation": "Tüm dünyada ortak bir sembol dili oluşturmak amacıyla tasarlanan ve yaygın kullanım alanlarına sahip uluslararası iletişim sistemi Isotype'tır (Uluslararası Tipografik ve Resimsel Eğitim Sistemi). Ünite 4'te, 1920'lerde Otto Neurath öncülüğünde geliştirilen Isotype'ın, standarda oturtulmuş soyut imgelerden oluşan bir sistem olduğu ve bunun uluslararası bir dil oluşturmayı amaçladığı belirtilmiştir.",
+            "occurrence_count": 4,
+            "is_duplicate": false
         },
         {
             "id": 58,
@@ -1033,13 +1157,15 @@
                 "I ve III",
                 "I, II ve III"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 18,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "634738",
             "UniteNo": 3,
             "topic": "Model Kütüphaneleri",
-            "explanation": "I. ve II. ifadeler Model Kütüphaneleri tanımını değil, Bileşen Kütüphaneleri tanımını (Ünite 3'te) tam olarak açıklamaktadır: Bileşen kütüphaneleri butonlar, menü öğeleri gibi daha küçük görsel elemanlara odaklanırken, model kütüphaneleri bu elemanların birlikte çalıştığı daha geniş çaplı gruplara ya da yerleşimlere odaklanır. III. ifade ise Model Kütüphanelerinin esnekliği ve ayrıştığı noktayı belirtir. Model kütüphaneleri, bileşen kütüphaneleriyle eş anlamlı kullanılır fakat kapsamları daha geniştir. Bu nedenle I ve II ifadeler Bileşen Kütüphanelerine aitken, III. ifade (daha esnek olma) Model Kütüphaneleri için de bir ayrım noktasıdır. Ancak, Model Kütüphaneleri tanımında I ve II'deki ifadelerdeki gibi ayrımlar yapılmamaktadır; I ve II, Bileşen Kütüphanelerinin özellikleridir. Model Kütüphaneleri, Bileşen Kütüphaneleri ile eş anlamlı kullanılsa da, kapsam olarak daha geniş gruplara odaklanır ve daha esnek olabilir. III. ifade model kütüphanelerinin esnekliğinden bahseder. I ve II ifadeleri ise Bileşen Kütüphaneleri tanımına daha uygundur. Ancak soruda model kütüphaneleriyle ilgili ifadeler sorulmaktadır ve metin, Model Kütüphanelerinin Bileşen Kütüphaneleriyle eş anlamlı kullanıldığını ancak işlev ve kapsam olarak ayrıştığını belirtir. I ve II, bileşen kütüphanelerinin özelliğini tanımlar. Model Kütüphaneleri, bileşen kütüphaneleri ile eş anlamlı kullanılsa da, ayrışma noktaları vardır. II. ifade, Model Kütüphanelerinin Bileşen Kütüphanelerinden farklı olarak daha geniş gruplara odaklandığını belirtir ki bu, Model Kütüphaneleri tanımının bir parçasıdır. I. ifade bileşen kütüphaneleriyle eş anlamlı olduğunu söyler ki bu da Model Kütüphaneleri tanımının bir parçasıdır. III. ifade ise esneklikten bahseder. I ve II ifadeleri doğru kabul edilirse cevap 1 ve 2 olur."
+            "explanation": "I. ve II. ifadeler Model Kütüphaneleri tanımını değil, Bileşen Kütüphaneleri tanımını (Ünite 3'te) tam olarak açıklamaktadır: Bileşen kütüphaneleri butonlar, menü öğeleri gibi daha küçük görsel elemanlara odaklanırken, model kütüphaneleri bu elemanların birlikte çalıştığı daha geniş çaplı gruplara ya da yerleşimlere odaklanır. III. ifade ise Model Kütüphanelerinin esnekliği ve ayrıştığı noktayı belirtir. Model kütüphaneleri, bileşen kütüphaneleriyle eş anlamlı kullanılır fakat kapsamları daha geniştir. Bu nedenle I ve II ifadeler Bileşen Kütüphanelerine aitken, III. ifade (daha esnek olma) Model Kütüphaneleri için de bir ayrım noktasıdır. Ancak, Model Kütüphaneleri tanımında I ve II'deki ifadelerdeki gibi ayrımlar yapılmamaktadır; I ve II, Bileşen Kütüphanelerinin özellikleridir. Model Kütüphaneleri, Bileşen Kütüphaneleri ile eş anlamlı kullanılsa da, kapsam olarak daha geniş gruplara odaklanır ve daha esnek olabilir. III. ifade model kütüphanelerinin esnekliğinden bahseder. I ve II ifadeleri ise Bileşen Kütüphaneleri tanımına daha uygundur. Ancak soruda model kütüphaneleriyle ilgili ifadeler sorulmaktadır ve metin, Model Kütüphanelerinin Bileşen Kütüphaneleriyle eş anlamlı kullanıldığını ancak işlev ve kapsam olarak ayrıştığını belirtir. I ve II, bileşen kütüphanelerinin özelliğini tanımlar. Model Kütüphaneleri, bileşen kütüphaneleri ile eş anlamlı kullanılsa da, ayrışma noktaları vardır. II. ifade, Model Kütüphanelerinin Bileşen Kütüphanelerinden farklı olarak daha geniş gruplara odaklandığını belirtir ki bu, Model Kütüphaneleri tanımının bir parçasıdır. I. ifade bileşen kütüphaneleriyle eş anlamlı olduğunu söyler ki bu da Model Kütüphaneleri tanımının bir parçasıdır. III. ifade ise esneklikten bahseder. I ve II ifadeleri doğru kabul edilirse cevap 1 ve 2 olur.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 59,
@@ -1051,13 +1177,15 @@
                 "Font Menüleri",
                 "Drop-down menü"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 19,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "634738",
             "UniteNo": 8,
             "topic": "Tasarım Sistemi Bileşenleri",
-            "explanation": "Stil rehberinin bir sonraki adımı olarak konumlandırılan ve tasarım iştirakçilerinin tasarım sistemleriyle en sık ilişkilendiği bileşenler Bileşen kütüphaneleridir. Bu kütüphaneler, bir öğenin nasıl göründüğü, davrandığı ve kullanım senaryolarındaki değişkenleri sisteme sokarak erişime açar (Ünite 8)."
+            "explanation": "Stil rehberinin bir sonraki adımı olarak konumlandırılan ve tasarım iştirakçilerinin tasarım sistemleriyle en sık ilişkilendiği bileşenler Bileşen kütüphaneleridir. Bu kütüphaneler, bir öğenin nasıl göründüğü, davrandığı ve kullanım senaryolarındaki değişkenleri sisteme sokarak erişime açar (Ünite 8).",
+            "occurrence_count": 3,
+            "is_duplicate": false
         },
         {
             "id": 60,
@@ -1075,7 +1203,9 @@
             "material_id": "634738",
             "UniteNo": 8,
             "topic": "Geleceğin Tasarım Sistemi Fikri",
-            "explanation": "Verilen herhangi bir girdiye uygun şekilde yanıt vererek, tasarımda karar verme sürecini yeniden yaratan, objelerin ya da tasarım bileşenlerinin farklı şartlarda bir otomasyona bağlı biçimde farklı davranışlar geliştirebilmesini amaçlayan yaklaşım 'Fonksiyonlar' olarak adlandırılır (Ünite 8)."
+            "explanation": "Verilen herhangi bir girdiye uygun şekilde yanıt vererek, tasarımda karar verme sürecini yeniden yaratan, objelerin ya da tasarım bileşenlerinin farklı şartlarda bir otomasyona bağlı biçimde farklı davranışlar geliştirebilmesini amaçlayan yaklaşım 'Fonksiyonlar' olarak adlandırılır (Ünite 8).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 61,
@@ -1093,7 +1223,10 @@
             "material_id": "634775",
             "UniteNo": 3,
             "topic": "Kompleksite Tanımı",
-            "explanation": "Ünite 3'te, \"Kompleksite, yani karmaşıklık, bir sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel, kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı olarak nitelendirilir.\" bilgisi verilmiştir. Boşluğa 'Kompleksite' gelmelidir."
+            "explanation": "Ünite 3'te, \"Kompleksite, yani karmaşıklık, bir sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel, kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı olarak nitelendirilir.\" bilgisi verilmiştir. Boşluğa 'Kompleksite' gelmelidir.",
+            "is_duplicate": true,
+            "duplicate_of": 1,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 62,
@@ -1111,7 +1244,10 @@
             "material_id": "634775",
             "UniteNo": 3,
             "topic": "Altın Oran",
-            "explanation": "Ünite 3'te belirtildiği üzere, Altın Oran, Yunanlı mimarların İsa'dan önce 5. yüzyılda oran ve orantının temel kurallarını dayandırdıkları ve Atina'da bulunan ünlü Parthenon Tapınağı'nın ölçülerinin de dayandırıldığı oran olarak adlandırılır."
+            "explanation": "Ünite 3'te belirtildiği üzere, Altın Oran, Yunanlı mimarların İsa'dan önce 5. yüzyılda oran ve orantının temel kurallarını dayandırdıkları ve Atina'da bulunan ünlü Parthenon Tapınağı'nın ölçülerinin de dayandırıldığı oran olarak adlandırılır.",
+            "is_duplicate": true,
+            "duplicate_of": 12,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 63,
@@ -1129,7 +1265,9 @@
             "material_id": "634775",
             "UniteNo": 2,
             "topic": "Seri Tasarım Tanımı",
-            "explanation": "İfadelerin hepsi seri tasarım anlayışını doğru şekilde tanımlamaktadır. I. ve II. ifadeler seri tasarımın temel amacını (görsel bütünlük ve devamlılık sağlama) ve kararlarının markaya/kuruma bağlılığını belirtir. Seri tasarım yaklaşımının köklü bir markanın kimliğine aidiyet değeri katma ve hacmini genişletme katkısı vardır, dolayısıyla III. ifade ('yoktur' ifadesi nedeniyle) yanlıştır. Bu nedenle I ve II doğrudur."
+            "explanation": "İfadelerin hepsi seri tasarım anlayışını doğru şekilde tanımlamaktadır. I. ve II. ifadeler seri tasarımın temel amacını (görsel bütünlük ve devamlılık sağlama) ve kararlarının markaya/kuruma bağlılığını belirtir. Seri tasarım yaklaşımının köklü bir markanın kimliğine aidiyet değeri katma ve hacmini genişletme katkısı vardır, dolayısıyla III. ifade ('yoktur' ifadesi nedeniyle) yanlıştır. Bu nedenle I ve II doğrudur.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 64,
@@ -1147,7 +1285,10 @@
             "material_id": "634775",
             "UniteNo": 4,
             "topic": "Harita Ölçek İlişkisi",
-            "explanation": "Ünite 4'te ölçek, genel olarak haritanın gerçek ölçüleri küçültme bilgisi anlamında kullanılarak büyütme ve küçültme oranı olarak adlandırıldığı belirtilmiştir."
+            "explanation": "Ünite 4'te ölçek, genel olarak haritanın gerçek ölçüleri küçültme bilgisi anlamında kullanılarak büyütme ve küçültme oranı olarak adlandırıldığı belirtilmiştir.",
+            "is_duplicate": true,
+            "duplicate_of": 17,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 65,
@@ -1165,7 +1306,9 @@
             "material_id": "634775",
             "UniteNo": 5,
             "topic": "Sanatsal Sergi Örneği",
-            "explanation": "Tamamen soyut kavram üzerine odaklanan, izleyiciyle etkileşimin öne çıktığı ve 37 yıl açık kalan (1961'de açılan) sergi, 'Sonsuzluk İçin Kitap' serisi ile ilişkilidir (Ünite 5, 'Dergi Kapağı Tasarımı' başlığı altında). Bu serinin tasarımcısı Bülent Erkmen'dir."
+            "explanation": "Tamamen soyut kavram üzerine odaklanan, izleyiciyle etkileşimin öne çıktığı ve 37 yıl açık kalan (1961'de açılan) sergi, 'Sonsuzluk İçin Kitap' serisi ile ilişkilidir (Ünite 5, 'Dergi Kapağı Tasarımı' başlığı altında). Bu serinin tasarımcısı Bülent Erkmen'dir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 66,
@@ -1183,7 +1326,9 @@
             "material_id": "634775",
             "UniteNo": 8,
             "topic": "Tasarım Sistemi Tanımı",
-            "explanation": "Ünite 8'de, tasarım sisteminin, farklı sayfalar ve kanallar arasında paylaşılan bir dil ve görsel tutarlılık oluşturarak fazlalığı azaltan ve tasarımı büyük ölçekte yönetmeye yarayan standartlar dizisi olduğu belirtilmiştir. Ayrıca bu sistemler esnek ve geliştirilebilir olmalıdır."
+            "explanation": "Ünite 8'de, tasarım sisteminin, farklı sayfalar ve kanallar arasında paylaşılan bir dil ve görsel tutarlılık oluşturarak fazlalığı azaltan ve tasarımı büyük ölçekte yönetmeye yarayan standartlar dizisi olduğu belirtilmiştir. Ayrıca bu sistemler esnek ve geliştirilebilir olmalıdır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 67,
@@ -1201,7 +1346,9 @@
             "material_id": "634775",
             "UniteNo": 5,
             "topic": "Sergi Türleri",
-            "explanation": "I. Kişisel sergiler tek bir sanatçıya odaklanır ve derinlemesine sergileme fırsatı sunar (Doğru). II. Karma sergiler birden fazla sanatçının eserlerini sergiler, ancak hepsinin tüm eserlerini sergilemesi zorunlu bir kural değildir; genellikle ortak bir tema veya üslup vardır. III. Temalı sergiler belirli bir fikir veya temayı keşfetmeyi teşvik eder (Doğru). II. ifade genel bir kural olarak yanıltıcı olabilirken, I ve III doğru tanımlardır. (Not: Metinde karma sergilerin 'tüm eserleri' sergilediğine dair kesin bir ifade bulunmamaktadır, ancak I ve III net ve doğru ifadelerdir.)"
+            "explanation": "I. Kişisel sergiler tek bir sanatçıya odaklanır ve derinlemesine sergileme fırsatı sunar (Doğru). II. Karma sergiler birden fazla sanatçının eserlerini sergiler, ancak hepsinin tüm eserlerini sergilemesi zorunlu bir kural değildir; genellikle ortak bir tema veya üslup vardır. III. Temalı sergiler belirli bir fikir veya temayı keşfetmeyi teşvik eder (Doğru). II. ifade genel bir kural olarak yanıltıcı olabilirken, I ve III doğru tanımlardır. (Not: Metinde karma sergilerin 'tüm eserleri' sergilediğine dair kesin bir ifade bulunmamaktadır, ancak I ve III net ve doğru ifadelerdir.)",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 68,
@@ -1219,7 +1366,9 @@
             "material_id": "634775",
             "UniteNo": 5,
             "topic": "Ticari Sergi Türleri",
-            "explanation": "Ünite 5'te, ticari sergilerin; şirketlere yeni ürünler tanıttıkları, potansiyel müşteriler oluşturdukları ve fuar alanlarında gerçekleştiği belirtilmiştir. Uluslararası Otomobil Fuarı ve CES gibi etkinlikler, 'Ticari sergiler' veya 'fuar' kategorisine girer."
+            "explanation": "Ünite 5'te, ticari sergilerin; şirketlere yeni ürünler tanıttıkları, potansiyel müşteriler oluşturdukları ve fuar alanlarında gerçekleştiği belirtilmiştir. Uluslararası Otomobil Fuarı ve CES gibi etkinlikler, 'Ticari sergiler' veya 'fuar' kategorisine girer.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 69,
@@ -1231,13 +1380,15 @@
                 "Kurumsal iletişim",
                 "Halkla ilişkiler"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 9,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "634775",
             "UniteNo": 6,
             "topic": "Kurumsal Kimlik Yapıları",
-            "explanation": "Ünite 6'da belirtildiği üzere, Monolitik kimlik, kurumun tüm iletişiminde tek isim ve görsel karakter kullanmasıdır. Desteklenmiş kimlikte ise kurum farklı faaliyet alanlarını farklı isimlerle oluşturur ancak kendi ismiyle destekler. Marka kimliğinde ise alt kurumlar birbirinden bağımsız hareket eder ve kimlikleri birbirini doğrudan etkilemez (örn: Coca-Cola şirketinin bünyesindeki farklı markalar). Soruda bahsedilen durum (birbirinden bağımsız hareket eden alt kurumlar) Marka Kimliği yapısına uymaktadır."
+            "explanation": "Ünite 6'da belirtildiği üzere, Monolitik kimlik, kurumun tüm iletişiminde tek isim ve görsel karakter kullanmasıdır. Desteklenmiş kimlikte ise kurum farklı faaliyet alanlarını farklı isimlerle oluşturur ancak kendi ismiyle destekler. Marka kimliğinde ise alt kurumlar birbirinden bağımsız hareket eder ve kimlikleri birbirini doğrudan etkilemez (örn: Coca-Cola şirketinin bünyesindeki farklı markalar). Soruda bahsedilen durum (birbirinden bağımsız hareket eden alt kurumlar) Marka Kimliği yapısına uymaktadır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 70,
@@ -1249,13 +1400,15 @@
                 "Kurum kültürü",
                 "Kurumsal ün"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 10,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "634775",
             "UniteNo": 6,
             "topic": "Kurum Kimliği Aşamaları",
-            "explanation": "Ünite 6'da, kurum kimliğinin dört temel aşamasının Kurumsal Felsefe, Kurumsal Davranış, Kurumsal İletişim ve Kurumsal Tasarım olduğu belirtilmiştir. Bu seçenekler arasında 'Bürokratik Akış Sistemleri' bulunmamaktadır."
+            "explanation": "Ünite 6'da, kurum kimliğinin dört temel aşamasının Kurumsal Felsefe, Kurumsal Davranış, Kurumsal İletişim ve Kurumsal Tasarım olduğu belirtilmiştir. Bu seçenekler arasında 'Bürokratik Akış Sistemleri' bulunmamaktadır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 71,
@@ -1273,7 +1426,9 @@
             "material_id": "634775",
             "UniteNo": 6,
             "topic": "Kurum Kişiliği",
-            "explanation": "Ünite 6'da, kurum davranışlarının kimliğe dönüşmesinde sistematik yapıların rol oynadığı belirtildikten sonra, \"Kurumlar ve kişiler birbiriyle kıyaslanabilir. Kurumlar da doğar, büyür, olgunlaşırlar. İnsanlardan farkları ise kendilerini sürekli yenileyebilmeleri ve uzun ömürlü olabilmeleridir. İnsanlar gibi kurumların da kişilik özellikleri vardır. Kurumları diğer kurumlardan farklılaştıran kimlikleri vardır. Kurum kimliğini belirleyen, kültürü, düşüncesi, tavır, davranışlarıdır ki bunlar görünüşüne yansır.\" denmektedir. Oluşturulan davranış biçimleri, kurum kimliğini belirleyen kültür, düşünce, tavır ve davranışların bir parçasıdır ve bunlar kurumun kimliğine yansır. Bu bağlamda en uygun terim 'Kurum Kimliği'dir (veya daha geniş anlamıyla kişilik)."
+            "explanation": "Ünite 6'da, kurum davranışlarının kimliğe dönüşmesinde sistematik yapıların rol oynadığı belirtildikten sonra, \"Kurumlar ve kişiler birbiriyle kıyaslanabilir. Kurumlar da doğar, büyür, olgunlaşırlar. İnsanlardan farkları ise kendilerini sürekli yenileyebilmeleri ve uzun ömürlü olabilmeleridir. İnsanlar gibi kurumların da kişilik özellikleri vardır. Kurumları diğer kurumlardan farklılaştıran kimlikleri vardır. Kurum kimliğini belirleyen, kültürü, düşüncesi, tavır, davranışlarıdır ki bunlar görünüşüne yansır.\" denmektedir. Oluşturulan davranış biçimleri, kurum kimliğini belirleyen kültür, düşünce, tavır ve davranışların bir parçasıdır ve bunlar kurumun kimliğine yansır. Bu bağlamda en uygun terim 'Kurum Kimliği'dir (veya daha geniş anlamıyla kişilik).",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 72,
@@ -1285,13 +1440,15 @@
                 "Yazışma formları",
                 "Karma formlar"
             ],
-            "correctIndex": 3,
+            "correctIndex": 0,
             "exam_question_number": 12,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "634775",
             "UniteNo": 7,
             "topic": "Form Tasarım Biçimleri",
-            "explanation": "Form tasarımında sıklıkla kullanılan biçimler çizgi formlar, kutu formlar, yazışma formları ve karma formlardır. 'Kâğıt Seçimi ve Boyut Belirleme' ise tasarımın bir aşamasıdır, kullanılan tasarım biçimlerinden biri değildir."
+            "explanation": "Form tasarımında sıklıkla kullanılan biçimler çizgi formlar, kutu formlar, yazışma formları ve karma formlardır. 'Kâğıt Seçimi ve Boyut Belirleme' ise tasarımın bir aşamasıdır, kullanılan tasarım biçimlerinden biri değildir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 73,
@@ -1309,7 +1466,9 @@
             "material_id": "634775",
             "UniteNo": 6,
             "topic": "Kurum Kimliği İhtiyacı",
-            "explanation": "Kurum kimliğini oluşturma/yenileme ihtiyaçları; yeni kurulmuş olma, yenilenme ihtiyacı, yeni ürün/hizmet eklenmesi, yönetim değişimi veya kurum evlilikleri gibi nedenlerden kaynaklanabilir. Slogan, logotayp gibi unsurlar ise Kurum Kimliği Bileşenleri veya Yapıları ile ilgilidir, bir ihtiyaç nedeni değildir."
+            "explanation": "Kurum kimliğini oluşturma/yenileme ihtiyaçları; yeni kurulmuş olma, yenilenme ihtiyacı, yeni ürün/hizmet eklenmesi, yönetim değişimi veya kurum evlilikleri gibi nedenlerden kaynaklanabilir. Slogan, logotayp gibi unsurlar ise Kurum Kimliği Bileşenleri veya Yapıları ile ilgilidir, bir ihtiyaç nedeni değildir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 74,
@@ -1327,7 +1486,10 @@
             "material_id": "634775",
             "UniteNo": 7,
             "topic": "Kutu Formlar",
-            "explanation": "Kutu formlar, beklenen cevaplar için ayrılan alanların dikey ya da yatay kutulardan oluşturulduğu form tasarımlarıdır. Bu yapı, kullanıcının yanlış alana cevap verme olasılığını ortadan kaldırmayı amaçlar."
+            "explanation": "Kutu formlar, beklenen cevaplar için ayrılan alanların dikey ya da yatay kutulardan oluşturulduğu form tasarımlarıdır. Bu yapı, kullanıcının yanlış alana cevap verme olasılığını ortadan kaldırmayı amaçlar.",
+            "is_duplicate": true,
+            "duplicate_of": 54,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 75,
@@ -1339,13 +1501,15 @@
                 "I ve III",
                 "I, II ve III"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 15,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "634775",
             "UniteNo": 3,
             "topic": "Model Kütüphaneleri",
-            "explanation": "Model Kütüphaneleri, genellikle bileşen kütüphaneleri ile eş anlamlı kullanılır, ancak bileşen kütüphaneleri butonlar, menü öğeleri gibi daha küçük görsel elemanlara odaklanırken, model kütüphaneleri bu elemanların birlikte çalıştığı daha geniş çaplı gruplara ya da yerleşimlere odaklanır. Model kütüphanelerinin bileşen kütüphanelerinden ayrışan temel özelliği, daha geniş çaplı gruplara odaklanmasıdır; esnek olmaları ise bir ayrışma noktası değil, genel sistem özelliğidir."
+            "explanation": "Model Kütüphaneleri, genellikle bileşen kütüphaneleri ile eş anlamlı kullanılır, ancak bileşen kütüphaneleri butonlar, menü öğeleri gibi daha küçük görsel elemanlara odaklanırken, model kütüphaneleri bu elemanların birlikte çalıştığı daha geniş çaplı gruplara ya da yerleşimlere odaklanır. Model kütüphanelerinin bileşen kütüphanelerinden ayrışan temel özelliği, daha geniş çaplı gruplara odaklanmasıdır; esnek olmaları ise bir ayrışma noktası değil, genel sistem özelliğidir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 76,
@@ -1363,7 +1527,10 @@
             "material_id": "634775",
             "UniteNo": 3,
             "topic": "Yazı ile Tasarım",
-            "explanation": "Grafik tasarımda, özellikle yazıyla tasarım yapan ve tipografi pratiği hakkında iyi bir çalışma bilgisine sahip olan kişilere 'Yazınsal Tasarımcılar' denir. Ünite 3'te tipografi ile ilgili yapılan çalışmalarda bu terimden bahsedilmektedir."
+            "explanation": "Grafik tasarımda, özellikle yazıyla tasarım yapan ve tipografi pratiği hakkında iyi bir çalışma bilgisine sahip olan kişilere 'Yazınsal Tasarımcılar' denir. Ünite 3'te tipografi ile ilgili yapılan çalışmalarda bu terimden bahsedilmektedir.",
+            "is_duplicate": true,
+            "duplicate_of": 56,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 77,
@@ -1381,7 +1548,9 @@
             "material_id": "634775",
             "UniteNo": 3,
             "topic": "Gestalt Kuramı",
-            "explanation": "1900'lerde Avusturyalı ve Alman psikologların çalışmalarıyla ortaya çıkan Gestalt kuramı (Gestalt yasaları), görsel algının bütün olarak algılanması, gruplandırma, hiyerarşi gibi ilkeleri içerir. Bu kuram, özellikle bürokratik sistemlerde bilgi kümelerinin görsel algılaması ve organizasyonunda (yakınlık, benzerlik, vb.) sıklıkla kullanılır."
+            "explanation": "1900'lerde Avusturyalı ve Alman psikologların çalışmalarıyla ortaya çıkan Gestalt kuramı (Gestalt yasaları), görsel algının bütün olarak algılanması, gruplandırma, hiyerarşi gibi ilkeleri içerir. Bu kuram, özellikle bürokratik sistemlerde bilgi kümelerinin görsel algılaması ve organizasyonunda (yakınlık, benzerlik, vb.) sıklıkla kullanılır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 78,
@@ -1399,7 +1568,9 @@
             "material_id": "634775",
             "UniteNo": 8,
             "topic": "Arayüz Tasarım Türleri",
-            "explanation": "Daha az görsel öge ve işlem adımı ile daha anlaşılır, yalın ve kolay kullanılır 'hafif' ara birimler tasarlamayı amaçlayan, bu sayede arayüzleri çok daha hızlı, anlaşılır ve yalın hale getirebilen arayüz tasarım türüne 'Geleceğin Tasarım Sistemleri İçin Öncü Fikir' başlığı altında 'Fonksiyonlar' veya genel olarak sadeleşmiş 'Açık Kaynak Sistemler' eğilimi ile ilişkilendirilebilir. Ancak metinde doğrudan bu tarife uyan bir terim olmamakla birlikte, en yakın ifade 'Skemorfik tasarım'ın tersi olan, daha verimli hale gelerek yalınlaşmayı hedefleyen yaklaşımdır. En uygun cevap, bilişsel yükü azaltmayı amaçlayan yalınlaşma trendidir; metin, bu trendi 'Skemorfik tasarım prensiplerine dayanmaktan vazgeçip, daha verimli hale gelerek yalınlaşma yoluna gitmiştir' şeklinde tanımlar."
+            "explanation": "Daha az görsel öge ve işlem adımı ile daha anlaşılır, yalın ve kolay kullanılır 'hafif' ara birimler tasarlamayı amaçlayan, bu sayede arayüzleri çok daha hızlı, anlaşılır ve yalın hale getirebilen arayüz tasarım türüne 'Geleceğin Tasarım Sistemleri İçin Öncü Fikir' başlığı altında 'Fonksiyonlar' veya genel olarak sadeleşmiş 'Açık Kaynak Sistemler' eğilimi ile ilişkilendirilebilir. Ancak metinde doğrudan bu tarife uyan bir terim olmamakla birlikte, en yakın ifade 'Skemorfik tasarım'ın tersi olan, daha verimli hale gelerek yalınlaşmayı hedefleyen yaklaşımdır. En uygun cevap, bilişsel yükü azaltmayı amaçlayan yalınlaşma trendidir; metin, bu trendi 'Skemorfik tasarım prensiplerine dayanmaktan vazgeçip, daha verimli hale gelerek yalınlaşma yoluna gitmiştir' şeklinde tanımlar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 79,
@@ -1417,7 +1588,10 @@
             "material_id": "634775",
             "UniteNo": 1,
             "topic": "Evrensel Dil Sistemleri",
-            "explanation": "Pantone renk sistemi ve ISO216 kâğıt ölçüleri, tasarımcıların uluslararası düzeyde ortak bir dil ve standart oluşturmasını sağlar. Metinde özellikle ISO216 standardının (International Organization for Standardization) dünyanın pek çok ülkesinde kullanıldığı ve tanındığı belirtilmiştir."
+            "explanation": "Pantone renk sistemi ve ISO216 kâğıt ölçüleri, tasarımcıların uluslararası düzeyde ortak bir dil ve standart oluşturmasını sağlar. Metinde özellikle ISO216 standardının (International Organization for Standardization) dünyanın pek çok ülkesinde kullanıldığı ve tanındığı belirtilmiştir.",
+            "is_duplicate": true,
+            "duplicate_of": 57,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 80,
@@ -1435,7 +1609,9 @@
             "material_id": "634775",
             "UniteNo": 8,
             "topic": "İnsan-Bilgisayar Etkileşimi",
-            "explanation": "İnsan-Bilgisayar Etkileşimi (İBE), temel amacı makineler ve insanlar arasında olan tüm grafik ve fiziksel etkileşimleri verimli, kolay ve sezgisel hale getirmek olan alandır. Bu çalışmalar, dijital arayüzlerin ve tasarım sistemlerinin geliştirilmesinin temelini oluşturur."
+            "explanation": "İnsan-Bilgisayar Etkileşimi (İBE), temel amacı makineler ve insanlar arasında olan tüm grafik ve fiziksel etkileşimleri verimli, kolay ve sezgisel hale getirmek olan alandır. Bu çalışmalar, dijital arayüzlerin ve tasarım sistemlerinin geliştirilmesinin temelini oluşturur.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 81,
@@ -1453,7 +1629,10 @@
             "material_id": "634741",
             "UniteNo": 1,
             "topic": "Sistem Türleri",
-            "explanation": "Ünite 1'de, Fiziksel/Soyut, Açık/Kapalı, Alt/Üst Sistem, Kalıcı/Geçici Sistem ve Doğal/Yapay Sistem türleri belirtilmiştir. Belirlenimci ve Olasılıkçı Sistemler de bahsedilmiştir. Ancak 'Web' veya 'Dijital' sistem türleri bu kategorizasyon içinde doğrudan bir sistem türü olarak listelenmemiştir (ancak Açık Sistemler ile ilgili kısımlarda dijital sistemlere değinilmiştir)."
+            "explanation": "Ünite 1'de, Fiziksel/Soyut, Açık/Kapalı, Alt/Üst Sistem, Kalıcı/Geçici Sistem ve Doğal/Yapay Sistem türleri belirtilmiştir. Belirlenimci ve Olasılıkçı Sistemler de bahsedilmiştir. Ancak 'Web' veya 'Dijital' sistem türleri bu kategorizasyon içinde doğrudan bir sistem türü olarak listelenmemiştir (ancak Açık Sistemler ile ilgili kısımlarda dijital sistemlere değinilmiştir).",
+            "is_duplicate": true,
+            "duplicate_of": 4,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 82,
@@ -1471,7 +1650,10 @@
             "material_id": "634741",
             "UniteNo": 4,
             "topic": "Sembol ve İşaretler",
-            "explanation": "Ünite 4'te, haritalarda sembol ve işaretlerin, içerik yoğunluğuna göre yazıyla ifade edilmeye gerek kalmadan bilgileri yansıtmak için kullanıldığı belirtilmektedir. Ayrıca Ünite 4'te piktogramların, sözle veya yazılı olarak anlatılabilecek unsurları görsel olarak sadece bir bakışta anlatan grafik biçimler olduğu ve yabancı dillerde anlaşılmama sorununu ortadan kaldırarak kapsayıcı bir dil yarattığı ifade edilmiştir. Bu, yalınlaştırılmış görsel temsillerin genel tanımına uyar."
+            "explanation": "Ünite 4'te, haritalarda sembol ve işaretlerin, içerik yoğunluğuna göre yazıyla ifade edilmeye gerek kalmadan bilgileri yansıtmak için kullanıldığı belirtilmektedir. Ayrıca Ünite 4'te piktogramların, sözle veya yazılı olarak anlatılabilecek unsurları görsel olarak sadece bir bakışta anlatan grafik biçimler olduğu ve yabancı dillerde anlaşılmama sorununu ortadan kaldırarak kapsayıcı bir dil yarattığı ifade edilmiştir. Bu, yalınlaştırılmış görsel temsillerin genel tanımına uyar.",
+            "is_duplicate": true,
+            "duplicate_of": 5,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 83,
@@ -1489,7 +1671,9 @@
             "material_id": "634741",
             "UniteNo": 5,
             "topic": "Dergi Kapağı Tasarımı",
-            "explanation": "Ünite 5'te, 'Arredamento Dekorasyon' ve 'Arredamento Mimarlık' dergilerinin kapak tasarımlarını derginin ilk sayısından itibaren Bülent Erkmen'in üstlendiği belirtilmiştir. İlk başta kolaj odaklıyken, daha sonra fotoğrafik bir anlayışa evrildiği bilgisi verilmiştir."
+            "explanation": "Ünite 5'te, 'Arredamento Dekorasyon' ve 'Arredamento Mimarlık' dergilerinin kapak tasarımlarını derginin ilk sayısından itibaren Bülent Erkmen'in üstlendiği belirtilmiştir. İlk başta kolaj odaklıyken, daha sonra fotoğrafik bir anlayışa evrildiği bilgisi verilmiştir.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 84,
@@ -1507,7 +1691,10 @@
             "material_id": "634741",
             "UniteNo": 3,
             "topic": "Grid Türleri",
-            "explanation": "Ünite 3'te Asimetrik Grid, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimi olarak tanımlanmıştır. Bu sistemde sayfalar birbirini yansıtmaz, kopyası olabilir ve karmaşık bilgiler içeren çoklu sayfa tasarımlarında tercih edilir."
+            "explanation": "Ünite 3'te Asimetrik Grid, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimi olarak tanımlanmıştır. Bu sistemde sayfalar birbirini yansıtmaz, kopyası olabilir ve karmaşık bilgiler içeren çoklu sayfa tasarımlarında tercih edilir.",
+            "is_duplicate": true,
+            "duplicate_of": 13,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 85,
@@ -1525,7 +1712,10 @@
             "material_id": "634741",
             "UniteNo": 2,
             "topic": "Tasarımcılar ve Standartlar",
-            "explanation": "Ünite 2'de Penguin Books'un kapak kimliğine standart getiren kişinin Jan Tschichold olduğu ve onun 'Penguin Kompozisyon Kuralları'nı geliştirdiği belirtilmiştir."
+            "explanation": "Ünite 2'de Penguin Books'un kapak kimliğine standart getiren kişinin Jan Tschichold olduğu ve onun 'Penguin Kompozisyon Kuralları'nı geliştirdiği belirtilmiştir.",
+            "is_duplicate": true,
+            "duplicate_of": 42,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 86,
@@ -1543,7 +1733,10 @@
             "material_id": "634741",
             "UniteNo": 3,
             "topic": "Altın Oran",
-            "explanation": "Ünite 3'te Altın Oran'ın, İsa'dan önce 5. yüzyılda Yunanlı mimarlar tarafından keşfedilen ve daha sonra Atina'da bulunan ünlü Parthenon Tapınağı'nın ölçülerinin dayandırıldığı oran olduğu bilgisi verilmiştir."
+            "explanation": "Ünite 3'te Altın Oran'ın, İsa'dan önce 5. yüzyılda Yunanlı mimarlar tarafından keşfedilen ve daha sonra Atina'da bulunan ünlü Parthenon Tapınağı'nın ölçülerinin dayandırıldığı oran olduğu bilgisi verilmiştir.",
+            "is_duplicate": true,
+            "duplicate_of": 12,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 87,
@@ -1555,13 +1748,15 @@
                 "I ve III",
                 "I, II ve III"
             ],
-            "correctIndex": 3,
+            "correctIndex": 4,
             "exam_question_number": 7,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "634741",
             "UniteNo": 4,
             "topic": "Harita Kavramı",
-            "explanation": "Ünite 4'te haritaların temel amacının 'ilgili içeriği aktarmak' olduğu belirtilmiştir. Ayrıca haritaların sadece coğrafi özellikler göstermediği (bitki örtüsü, nüfus yoğunluğu gibi ek bilgiler de verilebildiği) ve haritanın, kullanıcılarıyla aktarmak istediği içeriğe paralel iletişim kurduğu ifade edilmiştir. Dolayısıyla II. önerme hatalıdır, I. ve III. önermeler doğrudur."
+            "explanation": "Ünite 4'te haritaların temel amacının 'ilgili içeriği aktarmak' olduğu belirtilmiştir. Ayrıca haritaların sadece coğrafi özellikler göstermediği (bitki örtüsü, nüfus yoğunluğu gibi ek bilgiler de verilebildiği) ve haritanın, kullanıcılarıyla aktarmak istediği içeriğe paralel iletişim kurduğu ifade edilmiştir. Dolayısıyla II. önerme hatalıdır, I. ve III. önermeler doğrudur.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 88,
@@ -1579,7 +1774,10 @@
             "material_id": "634741",
             "UniteNo": 4,
             "topic": "Yönlendirme Tasarımcıları",
-            "explanation": "Ünite 4'te, Henry Beck'in Londra Metrosu için hazırladığı haritanın yönlendirme tasarımının ilk profesyonel örneği olduğu belirtilirken, New York metrosu için Massimo Vignelli'nin geliştirdiği sistemin de önemli bir çalışma olduğu ve 70'lerden bu yana kullanıldığı bilgisi verilmiştir."
+            "explanation": "Ünite 4'te, Henry Beck'in Londra Metrosu için hazırladığı haritanın yönlendirme tasarımının ilk profesyonel örneği olduğu belirtilirken, New York metrosu için Massimo Vignelli'nin geliştirdiği sistemin de önemli bir çalışma olduğu ve 70'lerden bu yana kullanıldığı bilgisi verilmiştir.",
+            "is_duplicate": true,
+            "duplicate_of": 20,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 89,
@@ -1597,7 +1795,10 @@
             "material_id": "634741",
             "UniteNo": 4,
             "topic": "Ölçek İlişkisi",
-            "explanation": "Ünite 4'te ölçeğin genel olarak büyütme ve küçültme oranı olarak adlandırıldığı, harita bağlamında ise 'haritanın gerçek ölçüleri küçültme bilgisi anlamında' kullanıldığı belirtilmiştir."
+            "explanation": "Ünite 4'te ölçeğin genel olarak büyütme ve küçültme oranı olarak adlandırıldığı, harita bağlamında ise 'haritanın gerçek ölçüleri küçültme bilgisi anlamında' kullanıldığı belirtilmiştir.",
+            "is_duplicate": true,
+            "duplicate_of": 17,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 90,
@@ -1615,7 +1816,9 @@
             "material_id": "634741",
             "UniteNo": 5,
             "topic": "Beyaz Küp Yaklaşımı",
-            "explanation": "Ünite 5'te, Londra'da açılan FAS adlı galeride vücut bulan, dikdörtgen formda düz ve beyaz boyalı duvarlara sahip, tavandan aydınlatılan mekân olarak tanımlanan yaklaşımın 'Beyaz Küp (White Cube)' olarak adlandırıldığı bilgisi verilmiştir."
+            "explanation": "Ünite 5'te, Londra'da açılan FAS adlı galeride vücut bulan, dikdörtgen formda düz ve beyaz boyalı duvarlara sahip, tavandan aydınlatılan mekân olarak tanımlanan yaklaşımın 'Beyaz Küp (White Cube)' olarak adlandırıldığı bilgisi verilmiştir.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 91,
@@ -1633,7 +1836,9 @@
             "material_id": "634741",
             "UniteNo": 5,
             "topic": "Sergileme Anlatısı",
-            "explanation": "Ünite 5'te, Sergileme Tasarımında Anlatı başlığı altında, \"Anlatı, kavramsal, sanatsal ya da ticari düzlemde izleyiciye iletilmesi istenen mesajdır.\" şeklinde bir tanım verilmiştir. Bu, sergileme tasarımının temel mesaj aktarım aracıdır."
+            "explanation": "Ünite 5'te, Sergileme Tasarımında Anlatı başlığı altında, \"Anlatı, kavramsal, sanatsal ya da ticari düzlemde izleyiciye iletilmesi istenen mesajdır.\" şeklinde bir tanım verilmiştir. Bu, sergileme tasarımının temel mesaj aktarım aracıdır.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 92,
@@ -1651,7 +1856,9 @@
             "material_id": "634741",
             "UniteNo": 6,
             "topic": "Kurumsal Kimlik Kavramı",
-            "explanation": "Bir kuruluşun kurumsal kimliği; kültürü, değerleri, tutumları, ilkeleri, amacı ve tarihinden (Kurumsal Felsefe) oluşan soyut niteliklerinin, sistematik iletişim ve görsel/fiziksel davranışlarla (Kurumsal İletişim ve Kurumsal Tasarım) dışa vurulmasıdır. Kurumsal kimlik iletişimi, ürünün tanıtımı ile başlayan ve hedef kitleye ulaşmayı amaçlayan sistematik bir oluşumdur."
+            "explanation": "Bir kuruluşun kurumsal kimliği; kültürü, değerleri, tutumları, ilkeleri, amacı ve tarihinden (Kurumsal Felsefe) oluşan soyut niteliklerinin, sistematik iletişim ve görsel/fiziksel davranışlarla (Kurumsal İletişim ve Kurumsal Tasarım) dışa vurulmasıdır. Kurumsal kimlik iletişimi, ürünün tanıtımı ile başlayan ve hedef kitleye ulaşmayı amaçlayan sistematik bir oluşumdur.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 93,
@@ -1669,7 +1876,9 @@
             "material_id": "634741",
             "UniteNo": 5,
             "topic": "Sunum Tanımı",
-            "explanation": "Sunum, en yalın biçimiyle bir eser, ürün ya da fikrin izleyiciye/kullanıcıya çeşitli iletişim kanallarıyla aktarımıdır. Bu, A4 kağıtlarından dijital ekranlara kadar farklı şekillerde olabilir."
+            "explanation": "Sunum, en yalın biçimiyle bir eser, ürün ya da fikrin izleyiciye/kullanıcıya çeşitli iletişim kanallarıyla aktarımıdır. Bu, A4 kağıtlarından dijital ekranlara kadar farklı şekillerde olabilir.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 94,
@@ -1681,13 +1890,15 @@
                 "e-Form",
                 "Açılır menü form"
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 14,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "634741",
             "UniteNo": 7,
             "topic": "Form Türleri",
-            "explanation": "Soruların kullanıcı tarafından yazınsal olarak cevaplanması beklenen, çizgilerin kullanıldığı formlar Çizgi Formlardır. Kutu formlar dikey ya da yatay kutulardan oluşur. Karma formlar ise yazı, kodlama ve işaretlemeyi bir arada kullanır. Soruda verilen görsel örneğe atıf yapılmasa da, metindeki form türleri tanımları (Çizgi, Kutu, Yazışma, Karma) dikkate alındığında, genellikle bir bürokratik formda görülen, yapılandırılmış alanlar kutu formları veya karma formları işaret edebilir. Ancak görsel sunulmadığı için, şıklar varsayılarak en temel yapılandırılmış form olan Kutu Formu'na atıf yapılabilir (Ünite 7: Kutu formlar, beklenilen cevaplar için ayrılan alanların dikey ya da yatay kutulardan oluşturulduğu form tasarımlarıdır)."
+            "explanation": "Soruların kullanıcı tarafından yazınsal olarak cevaplanması beklenen, çizgilerin kullanıldığı formlar Çizgi Formlardır. Kutu formlar dikey ya da yatay kutulardan oluşur. Karma formlar ise yazı, kodlama ve işaretlemeyi bir arada kullanır. Soruda verilen görsel örneğe atıf yapılmasa da, metindeki form türleri tanımları (Çizgi, Kutu, Yazışma, Karma) dikkate alındığında, genellikle bir bürokratik formda görülen, yapılandırılmış alanlar kutu formları veya karma formları işaret edebilir. Ancak görsel sunulmadığı için, şıklar varsayılarak en temel yapılandırılmış form olan Kutu Formu'na atıf yapılabilir (Ünite 7: Kutu formlar, beklenilen cevaplar için ayrılan alanların dikey ya da yatay kutulardan oluşturulduğu form tasarımlarıdır).",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 95,
@@ -1705,7 +1916,9 @@
             "material_id": "634741",
             "UniteNo": 7,
             "topic": "Resmî Yazı Karakterleri",
-            "explanation": "Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik'e göre, hazırlanan belgelerde Times New Roman (12 punto) veya Arial (11 punto) yazı tipi normal yazı stilinde kullanılmalıdır."
+            "explanation": "Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik'e göre, hazırlanan belgelerde Times New Roman (12 punto) veya Arial (11 punto) yazı tipi normal yazı stilinde kullanılmalıdır.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 96,
@@ -1723,7 +1936,9 @@
             "material_id": "634741",
             "UniteNo": 6,
             "topic": "Monolitik Kimlik",
-            "explanation": "Kurumsal kimlik yapıları arasında Monolitik kimlik, kurumun tüm iletişiminde tek isim ve görsel karakter kullanmasıyla karakterize edilir. Bu, tüm alt birimlerin de aynı görsel kimliği kullanması anlamına gelir."
+            "explanation": "Kurumsal kimlik yapıları arasında Monolitik kimlik, kurumun tüm iletişiminde tek isim ve görsel karakter kullanmasıyla karakterize edilir. Bu, tüm alt birimlerin de aynı görsel kimliği kullanması anlamına gelir.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 97,
@@ -1741,7 +1956,10 @@
             "material_id": "634741",
             "UniteNo": 6,
             "topic": "Amblem/Logo",
-            "explanation": "Amblem/Logo (veya Logotayp), bir kurumun isminin görünür hâle gelmesini sağlayan, kurumun kimliğini, kişiliğini biçim ve renkleriyle ifade eden, soyut ya da nesnel görüntülerle oluşturulmuş simgedir."
+            "explanation": "Amblem/Logo (veya Logotayp), bir kurumun isminin görünür hâle gelmesini sağlayan, kurumun kimliğini, kişiliğini biçim ve renkleriyle ifade eden, soyut ya da nesnel görüntülerle oluşturulmuş simgedir.",
+            "is_duplicate": true,
+            "duplicate_of": 49,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 98,
@@ -1759,7 +1977,10 @@
             "material_id": "634741",
             "UniteNo": 8,
             "topic": "Bileşen Kütüphaneleri",
-            "explanation": "Stil rehberinin bir sonraki adımı olarak konumlandırılan ve pek çok tasarım iştirakçisinin tasarım sistemleriyle en sık ilişkilendiği bileşenler, butonlar, menü öğeleri gibi daha küçük görsel elemanlara odaklanan 'Bileşen Kütüphaneleri'dir."
+            "explanation": "Stil rehberinin bir sonraki adımı olarak konumlandırılan ve pek çok tasarım iştirakçisinin tasarım sistemleriyle en sık ilişkilendiği bileşenler, butonlar, menü öğeleri gibi daha küçük görsel elemanlara odaklanan 'Bileşen Kütüphaneleri'dir.",
+            "is_duplicate": true,
+            "duplicate_of": 59,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 99,
@@ -1777,7 +1998,10 @@
             "material_id": "634741",
             "UniteNo": 1,
             "topic": "ISO Standardı",
-            "explanation": "ISO 216 standardı, kâğıt ölçülerinde (A4 dahil) kullanılan uluslararası bir standarttır. Bu, tasarımcıların üreticilerle kritik kararları doğru şekilde alabilmesini sağlayan, evrensel bir renk dili olan Pantone renk sistemi ile birlikte sıklıkla karşılaştığı yaygın sistemlerden biridir."
+            "explanation": "ISO 216 standardı, kâğıt ölçülerinde (A4 dahil) kullanılan uluslararası bir standarttır. Bu, tasarımcıların üreticilerle kritik kararları doğru şekilde alabilmesini sağlayan, evrensel bir renk dili olan Pantone renk sistemi ile birlikte sıklıkla karşılaştığı yaygın sistemlerden biridir.",
+            "is_duplicate": true,
+            "duplicate_of": 57,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 100,
@@ -1795,7 +2019,9 @@
             "material_id": "634741",
             "UniteNo": 8,
             "topic": "Arayüz Tasarım Stratejisi",
-            "explanation": "En erken arayüz tasarımları, 'skemorfik tasarım' (taklit tasarım) prensiplerine dayanmaktaydı. Bu, doğanın derinlik, ışık, renk ya da hareket gibi birebir taklidine dayanıyordu."
+            "explanation": "En erken arayüz tasarımları, 'skemorfik tasarım' (taklit tasarım) prensiplerine dayanmaktaydı. Bu, doğanın derinlik, ışık, renk ya da hareket gibi birebir taklidine dayanıyordu.",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 101,
@@ -1813,7 +2039,10 @@
             "material_id": "634778",
             "UniteNo": 1,
             "topic": "Sistem Türleri",
-            "explanation": "Ünite 1'de belirtilen sistem türleri şunlardır: Fiziksel/Soyut, Açık/Kapalı, Alt/Üst Sistem, Kalıcı/Geçici Sistem, Doğal/Yapay Sistem, Belirlenimci/Olasılıkçı Sistemler. 'Hiyerarşik' sistem tür olarak listelenmemiştir; hiyerarşi bir sistemin özelliği olarak bahsedilmiştir (örn. Alt Sistem/Üst Sistem ilişkisi)."
+            "explanation": "Ünite 1'de belirtilen sistem türleri şunlardır: Fiziksel/Soyut, Açık/Kapalı, Alt/Üst Sistem, Kalıcı/Geçici Sistem, Doğal/Yapay Sistem, Belirlenimci/Olasılıkçı Sistemler. 'Hiyerarşik' sistem tür olarak listelenmemiştir; hiyerarşi bir sistemin özelliği olarak bahsedilmiştir (örn. Alt Sistem/Üst Sistem ilişkisi).",
+            "is_duplicate": true,
+            "duplicate_of": 4,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 102,
@@ -1831,7 +2060,10 @@
             "material_id": "634778",
             "UniteNo": 4,
             "topic": "Sembol ve İşaretler",
-            "explanation": "Ünite 4'te belirtildiği üzere, piktogramlar sözle veya yazılı olarak anlatılabilecek unsurları görsel olarak sadece bir bakışta anlatır ve yabancı dillerde anlaşılmama sorununu ortadan kaldırarak kapsayıcı bir yeni dil yaratır. Piktogramlar, bir eşyayı, bir objeyi, bir yeri, bir işleyişi veya bir kavramı yalınlaştırarak görsel yolla temsil eden sembollerdir."
+            "explanation": "Ünite 4'te belirtildiği üzere, piktogramlar sözle veya yazılı olarak anlatılabilecek unsurları görsel olarak sadece bir bakışta anlatır ve yabancı dillerde anlaşılmama sorununu ortadan kaldırarak kapsayıcı bir yeni dil yaratır. Piktogramlar, bir eşyayı, bir objeyi, bir yeri, bir işleyişi veya bir kavramı yalınlaştırarak görsel yolla temsil eden sembollerdir.",
+            "is_duplicate": true,
+            "duplicate_of": 5,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 103,
@@ -1849,7 +2081,9 @@
             "material_id": "634778",
             "UniteNo": 5,
             "topic": "Dergi Kapağı Tasarımı",
-            "explanation": "Ünite 5'te, 'Dergi Kapağı Tasarımı' başlığı altında, 'Arredamento Dekorasyon' ve 'Arredamento Mimarlık' dergilerinin kapak tasarımlarını derginin ilk sayısından itibaren Bülent Erkmen'in üstlendiği belirtilmektedir. Ayrıca bu dergilerin farklı dönemlerde farklı görsel yaklaşımlar (kolaj ve fotoğrafik) benimsediği ifade edilmiştir."
+            "explanation": "Ünite 5'te, 'Dergi Kapağı Tasarımı' başlığı altında, 'Arredamento Dekorasyon' ve 'Arredamento Mimarlık' dergilerinin kapak tasarımlarını derginin ilk sayısından itibaren Bülent Erkmen'in üstlendiği belirtilmektedir. Ayrıca bu dergilerin farklı dönemlerde farklı görsel yaklaşımlar (kolaj ve fotoğrafik) benimsediği ifade edilmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 104,
@@ -1867,7 +2101,10 @@
             "material_id": "634778",
             "UniteNo": 3,
             "topic": "Grid Türleri",
-            "explanation": "Ünite 3'te 'Asimetrik Grid' başlığı altında, çoklu sayfa tasarımlarında, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimi olduğu belirtilmiştir. Bu sistemde sayfalar birbirini yansıtmaz, kopyası olabilir ve daha karmaşık bilgiler içeren tasarımlar için tercih edilir."
+            "explanation": "Ünite 3'te 'Asimetrik Grid' başlığı altında, çoklu sayfa tasarımlarında, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimi olduğu belirtilmiştir. Bu sistemde sayfalar birbirini yansıtmaz, kopyası olabilir ve daha karmaşık bilgiler içeren tasarımlar için tercih edilir.",
+            "is_duplicate": true,
+            "duplicate_of": 13,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 105,
@@ -1885,7 +2122,10 @@
             "material_id": "634778",
             "UniteNo": 2,
             "topic": "Tasarımcılar ve Sistem",
-            "explanation": "Ünite 2'de 'Penguin Books'un dünyaca tanınan kapak kimliğine bir standart getiren Jan Tschichold'tan bahsedilmektedir. Tschichold'un getirdiği standartlar, Penguin Kompozisyon Kuralları (Penguin Composition Rules) olarak bilinir ve kitapların boyutundan logo kullanımına kadar pek çok detayı içerir."
+            "explanation": "Ünite 2'de 'Penguin Books'un dünyaca tanınan kapak kimliğine bir standart getiren Jan Tschichold'tan bahsedilmektedir. Tschichold'un getirdiği standartlar, Penguin Kompozisyon Kuralları (Penguin Composition Rules) olarak bilinir ve kitapların boyutundan logo kullanımına kadar pek çok detayı içerir.",
+            "is_duplicate": true,
+            "duplicate_of": 42,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 106,
@@ -1903,7 +2143,10 @@
             "material_id": "634778",
             "UniteNo": 3,
             "topic": "Altın Oran",
-            "explanation": "Ünite 3'te 'Altın Oran' başlığı altında, Yunanlı mimarların MÖ 5. yüzyılda form anlayışını dayandırdıkları orantının temel kurallarının, Atina'da bulunan ünlü Parthenon Tapınağı'nın ölçülerinin dayandırıldığı 'Altın Oran' olarak adlandırıldığı bilgisi verilmiştir."
+            "explanation": "Ünite 3'te 'Altın Oran' başlığı altında, Yunanlı mimarların MÖ 5. yüzyılda form anlayışını dayandırdıkları orantının temel kurallarının, Atina'da bulunan ünlü Parthenon Tapınağı'nın ölçülerinin dayandırıldığı 'Altın Oran' olarak adlandırıldığı bilgisi verilmiştir.",
+            "is_duplicate": true,
+            "duplicate_of": 12,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 107,
@@ -1921,7 +2164,9 @@
             "material_id": "634778",
             "UniteNo": 4,
             "topic": "Haritaların Özellikleri",
-            "explanation": "Ünite 4'teki 'Bir Sistem Olarak Harita' başlığı altında, haritaların renk, desen, doku, yazı, sembol, ölçek gibi bileşenlere sahip olduğu belirtilmiştir. I. Haritanın amacı ilgili içeriği aktarmaktır ifadesi doğrudur. II. Haritalarda yalnızca coğrafi özellikler gösterilebilir ifadesi yanlıştır; haritalar coğrafi formların yanı sıra bitki örtüsü, nüfus yoğunluğu gibi pek çok ilave bilgi de gösterebilir. III. Haritalar kullanıcılarıyla aktarmak istedikleri içeriklerine paralel biçimde iletişim kurarlar ifadesi doğrudur. Bu nedenle I ve III doğru, II yanlıştır."
+            "explanation": "Ünite 4'teki 'Bir Sistem Olarak Harita' başlığı altında, haritaların renk, desen, doku, yazı, sembol, ölçek gibi bileşenlere sahip olduğu belirtilmiştir. I. Haritanın amacı ilgili içeriği aktarmaktır ifadesi doğrudur. II. Haritalarda yalnızca coğrafi özellikler gösterilebilir ifadesi yanlıştır; haritalar coğrafi formların yanı sıra bitki örtüsü, nüfus yoğunluğu gibi pek çok ilave bilgi de gösterebilir. III. Haritalar kullanıcılarıyla aktarmak istedikleri içeriklerine paralel biçimde iletişim kurarlar ifadesi doğrudur. Bu nedenle I ve III doğru, II yanlıştır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 108,
@@ -1939,7 +2184,9 @@
             "material_id": "634778",
             "UniteNo": 4,
             "topic": "Harita İçeriği ve Ölçek",
-            "explanation": "Ünite 4'te haritaların içerik kullanımına dair bilgi verilmiştir. Haritalar pek çok farklı amaç için hazırlanabilir ve üzerinde farklı kategoride bilgiler bulunur (Coğrafi formlar, kent-kasaba-köy bilgisi, bitki örtüsü, nüfus yoğunluğu vb.). Ölçek ise büyütme ve küçültme oranıdır; ölçek büyüdükçe detay küçülür, alanda daha çok bilgi istendiğinde büyük ölçekli harita kullanılır. Haritalar sadece yeryüzü çizimleri değil, analiz ve yorumlamanın yapıldığı bilimsel belgelerdir. Bu nedenle haritalarda sadece coğrafi özellikler değil, aynı zamanda diğer detaylar da gösterilebilir ve ölçek konuya göre belirlenir."
+            "explanation": "Ünite 4'te haritaların içerik kullanımına dair bilgi verilmiştir. Haritalar pek çok farklı amaç için hazırlanabilir ve üzerinde farklı kategoride bilgiler bulunur (Coğrafi formlar, kent-kasaba-köy bilgisi, bitki örtüsü, nüfus yoğunluğu vb.). Ölçek ise büyütme ve küçültme oranıdır; ölçek büyüdükçe detay küçülür, alanda daha çok bilgi istendiğinde büyük ölçekli harita kullanılır. Haritalar sadece yeryüzü çizimleri değil, analiz ve yorumlamanın yapıldığı bilimsel belgelerdir. Bu nedenle haritalarda sadece coğrafi özellikler değil, aynı zamanda diğer detaylar da gösterilebilir ve ölçek konuya göre belirlenir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
         },
         {
             "id": 109,
@@ -1957,7 +2204,10 @@
             "material_id": "634778",
             "UniteNo": 4,
             "topic": "Yönlendirme Sistemleri",
-            "explanation": "Ünite 4'te 'Yönlendirme ve İşaretleme Tasarımının Tanımı' başlığı altında, tarihte ilk profesyonel yönlendirme ve işaretleme tasarımcısının Henry Beck olduğu ve onun Londra Metrosu için 1931'de harita hazırladığı belirtilmiştir. New York metrosu için sistemi geliştiren Massimo Vignelli'den de bahsedilmiştir. Dolayısıyla New York metrosu için sistemi geliştiren tasarımcı Massimo Vignelli'dir."
+            "explanation": "Ünite 4'te 'Yönlendirme ve İşaretleme Tasarımının Tanımı' başlığı altında, tarihte ilk profesyonel yönlendirme ve işaretleme tasarımcısının Henry Beck olduğu ve onun Londra Metrosu için 1931'de harita hazırladığı belirtilmiştir. New York metrosu için sistemi geliştiren Massimo Vignelli'den de bahsedilmiştir. Dolayısıyla New York metrosu için sistemi geliştiren tasarımcı Massimo Vignelli'dir.",
+            "is_duplicate": true,
+            "duplicate_of": 20,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 110,
@@ -1975,7 +2225,10 @@
             "material_id": "634778",
             "UniteNo": 4,
             "topic": "Haritada Boyut İlişkisi",
-            "explanation": "Ünite 4'te 'Haritada Boyut ve Ölçek İlişkisi' başlığı altında, ölçeğin genel olarak büyütme ve küçültme oranı olarak adlandırıldığı belirtilmiştir. Harita söz konusu olduğu için ölçek bilgisi, haritanın gerçek ölçüleri küçültme bilgisi anlamında kullanılır. Yani ölçek, haritada yansıtılacak alanın boyutunu belirleyen büyütme/küçültme oranıdır."
+            "explanation": "Ünite 4'te 'Haritada Boyut ve Ölçek İlişkisi' başlığı altında, ölçeğin genel olarak büyütme ve küçültme oranı olarak adlandırıldığı belirtilmiştir. Harita söz konusu olduğu için ölçek bilgisi, haritanın gerçek ölçüleri küçültme bilgisi anlamında kullanılır. Yani ölçek, haritada yansıtılacak alanın boyutunu belirleyen büyütme/küçültme oranıdır.",
+            "is_duplicate": true,
+            "duplicate_of": 17,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 111,
@@ -1993,7 +2246,10 @@
             "material_id": "634778",
             "UniteNo": 5,
             "topic": "Beyaz Küp Yaklaşımı",
-            "explanation": "Ünite 5'te, \"Beyaz Küp (White Cube) olarak adlandırılan bu yaklaşımda galeri dikdörtgen formda düz ve beyaz boyalı duvarlara sahip, tavandan aydınlatılan bir mekân olarak tanımlanmaktadır.\" bilgisi yer almaktadır. Bu yaklaşım, sanat eserlerinin sergilenmesinde kullanılan geleneksel bir sunum sistemidir."
+            "explanation": "Ünite 5'te, \"Beyaz Küp (White Cube) olarak adlandırılan bu yaklaşımda galeri dikdörtgen formda düz ve beyaz boyalı duvarlara sahip, tavandan aydınlatılan bir mekân olarak tanımlanmaktadır.\" bilgisi yer almaktadır. Bu yaklaşım, sanat eserlerinin sergilenmesinde kullanılan geleneksel bir sunum sistemidir.",
+            "is_duplicate": true,
+            "duplicate_of": 90,
+            "original_source": "Yaz Okulu 2023-2024"
         },
         {
             "id": 112,
@@ -2011,7 +2267,10 @@
             "material_id": "634778",
             "UniteNo": 5,
             "topic": "Sergilemede Anlatı Kavramı",
-            "explanation": "Sergileme tasarımında anlatı, kavramsal, sanatsal ya da ticari düzlemde izleyiciye iletilmesi istenen mesajdır ve kompozisyon kaleme alır gibi planlanması gereken içeriktir. Metinde sergileme tasarımının anlatı odaklı olduğu ve bu anlatının iletilmesi istenen mesaj olduğu vurgulanmaktadır. (Ünite 5, Sayfa 4)."
+            "explanation": "Sergileme tasarımında anlatı, kavramsal, sanatsal ya da ticari düzlemde izleyiciye iletilmesi istenen mesajdır ve kompozisyon kaleme alır gibi planlanması gereken içeriktir. Metinde sergileme tasarımının anlatı odaklı olduğu ve bu anlatının iletilmesi istenen mesaj olduğu vurgulanmaktadır. (Ünite 5, Sayfa 4).",
+            "is_duplicate": true,
+            "duplicate_of": 91,
+            "original_source": "Yaz Okulu 2023-2024"
         },
         {
             "id": 113,
@@ -2029,7 +2288,10 @@
             "material_id": "634778",
             "UniteNo": 6,
             "topic": "Kurum Kimliği ve Davranış",
-            "explanation": "Bir kuruluşun kültürü, felsefesi ve değerleri gibi soyut niteliklerinin sistematik iletişimle görsel ve fiziksel davranışlara dönüşmesi Kurumsal İletişim ve Kurumsal Tasarım ile ilişkilidir. Ancak, en genel anlamda kurumun kültürü, değerleri, tutumları, ilkeleri, amacı ve tarihinden meydana gelen soyut niteliklerinin sistematik bir iletişimle görsel ve fiziksel davranışlara dönüştürülmesi, Kurumsal Davranışın ve Kurumsal İletişimin bir çıktısı olarak Kurumsal Tasarımın temelini oluşturur. Kurum kimliği aşamaları (Felsefe, Davranış, İletişim, Tasarım) bağlamında, felsefenin davranışa, davranışın iletişime, iletişimin de tasarıma dönüştüğü söylenebilir. Sorunun odaklandığı dönüşüm süreci en genel haliyle Kurumsal Kimlik Tasarımı başlığı altında ele alınır ve bu sürecin son aşaması Kurumsal Tasarım'dır (Sembol, logo vb. yaratımı). (Ünite 6, Sayfa 2)."
+            "explanation": "Bir kuruluşun kültürü, felsefesi ve değerleri gibi soyut niteliklerinin sistematik iletişimle görsel ve fiziksel davranışlara dönüşmesi Kurumsal İletişim ve Kurumsal Tasarım ile ilişkilidir. Ancak, en genel anlamda kurumun kültürü, değerleri, tutumları, ilkeleri, amacı ve tarihinden meydana gelen soyut niteliklerinin sistematik bir iletişimle görsel ve fiziksel davranışlara dönüştürülmesi, Kurumsal Davranışın ve Kurumsal İletişimin bir çıktısı olarak Kurumsal Tasarımın temelini oluşturur. Kurum kimliği aşamaları (Felsefe, Davranış, İletişim, Tasarım) bağlamında, felsefenin davranışa, davranışın iletişime, iletişimin de tasarıma dönüştüğü söylenebilir. Sorunun odaklandığı dönüşüm süreci en genel haliyle Kurumsal Kimlik Tasarımı başlığı altında ele alınır ve bu sürecin son aşaması Kurumsal Tasarım'dır (Sembol, logo vb. yaratımı). (Ünite 6, Sayfa 2).",
+            "is_duplicate": true,
+            "duplicate_of": 92,
+            "original_source": "Yaz Okulu 2023-2024"
         },
         {
             "id": 114,
@@ -2047,7 +2309,10 @@
             "material_id": "634778",
             "UniteNo": 5,
             "topic": "Sunum Sistemi Tanımı",
-            "explanation": "En yalın biçimiyle bir eser, ürün ya da fikrin izleyiciye/kullanıcıya çeşitli iletişim kanallarıyla aktarımı Sunum olarak tanımlanır. Metinde, sunumun en yalın biçimiyle bu şekilde tanımlandığı belirtilmektedir. (Ünite 5, Sayfa 3)."
+            "explanation": "En yalın biçimiyle bir eser, ürün ya da fikrin izleyiciye/kullanıcıya çeşitli iletişim kanallarıyla aktarımı Sunum olarak tanımlanır. Metinde, sunumun en yalın biçimiyle bu şekilde tanımlandığı belirtilmektedir. (Ünite 5, Sayfa 3).",
+            "is_duplicate": true,
+            "duplicate_of": 93,
+            "original_source": "Yaz Okulu 2023-2024"
         },
         {
             "id": 115,
@@ -2065,7 +2330,10 @@
             "material_id": "634778",
             "UniteNo": 7,
             "topic": "Form Türleri",
-            "explanation": "Görselde (varsayılan) çizgilerin belirgin olduğu, soruların çoğunlukla yazılı yanıtlar için ayrılmış alanlara sahip olduğu bir yapıya atıf yapıldığı varsayılırsa, bu form türü Çizgi Formlar'dır. Metinde çizgi formların, tasarımında çizgilerin kullanımından yararlanıldığı ve soruların kullanıcı tarafından yazınsal olarak cevaplanmasının beklendiği belirtilmektedir. (Ünite 7, Sayfa 3)."
+            "explanation": "Görselde (varsayılan) çizgilerin belirgin olduğu, soruların çoğunlukla yazılı yanıtlar için ayrılmış alanlara sahip olduğu bir yapıya atıf yapıldığı varsayılırsa, bu form türü Çizgi Formlar'dır. Metinde çizgi formların, tasarımında çizgilerin kullanımından yararlanıldığı ve soruların kullanıcı tarafından yazınsal olarak cevaplanmasının beklendiği belirtilmektedir. (Ünite 7, Sayfa 3).",
+            "is_duplicate": true,
+            "duplicate_of": 94,
+            "original_source": "Yaz Okulu 2023-2024"
         },
         {
             "id": 116,
@@ -2083,7 +2351,10 @@
             "material_id": "634778",
             "UniteNo": 7,
             "topic": "Resmî Yazı Karakteri",
-            "explanation": "Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik'e göre, hazırlanan belgelerde Times New Roman (12 punto) veya Arial (11 punto) yazı tiplerinin kullanılması esastır. (Ünite 7, Sayfa 2)."
+            "explanation": "Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik'e göre, hazırlanan belgelerde Times New Roman (12 punto) veya Arial (11 punto) yazı tiplerinin kullanılması esastır. (Ünite 7, Sayfa 2).",
+            "is_duplicate": true,
+            "duplicate_of": 95,
+            "original_source": "Yaz Okulu 2023-2024"
         },
         {
             "id": 117,
@@ -2101,7 +2372,10 @@
             "material_id": "634778",
             "UniteNo": 6,
             "topic": "Monolitik Kurum Kimliği",
-            "explanation": "Kurumsal kimlik yapıları içinde, kurumun tüm iletişiminde tek isim ve görsel karakterin kullanıldığı sistem Monolitik Kimlik olarak tanımlanır. Metinde, Monolitik kimliğin tanımı bu şekilde verilmiştir. (Ünite 6, Sayfa 1)."
+            "explanation": "Kurumsal kimlik yapıları içinde, kurumun tüm iletişiminde tek isim ve görsel karakterin kullanıldığı sistem Monolitik Kimlik olarak tanımlanır. Metinde, Monolitik kimliğin tanımı bu şekilde verilmiştir. (Ünite 6, Sayfa 1).",
+            "is_duplicate": true,
+            "duplicate_of": 96,
+            "original_source": "Yaz Okulu 2023-2024"
         },
         {
             "id": 118,
@@ -2119,7 +2393,10 @@
             "material_id": "634778",
             "UniteNo": 6,
             "topic": "Kurum Sembolleri",
-            "explanation": "Kurumun adı, kimliği ve faaliyet alanını simgelemek için kullanılan, genellikle tipografik (yazı temelli) veya resimsel/soyut ögelerden oluşan temel eleman Kurum Sembolleri'dir (Amblem, Logo). Metinde, Kurum Kimliği Yapıları başlığı altında Amblem, Logo ve Slogan'ın kurumun kimliğini, değerlerini temsil eden en önemli ögeler olduğu belirtilir. Amblem-logo, tipografik olarak da oluşturulabilir. (Ünite 6, Sayfa 2)."
+            "explanation": "Kurumun adı, kimliği ve faaliyet alanını simgelemek için kullanılan, genellikle tipografik (yazı temelli) veya resimsel/soyut ögelerden oluşan temel eleman Kurum Sembolleri'dir (Amblem, Logo). Metinde, Kurum Kimliği Yapıları başlığı altında Amblem, Logo ve Slogan'ın kurumun kimliğini, değerlerini temsil eden en önemli ögeler olduğu belirtilir. Amblem-logo, tipografik olarak da oluşturulabilir. (Ünite 6, Sayfa 2).",
+            "is_duplicate": true,
+            "duplicate_of": 49,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 119,
@@ -2137,7 +2414,10 @@
             "material_id": "634778",
             "UniteNo": 8,
             "topic": "Bileşen Kütüphaneleri",
-            "explanation": "Stil rehberinden sonra gelen ve tasarım sisteminin en sık ilişki kurulan bileşenleri olan kütüphaneler, butonlar, menü öğeleri gibi küçük görsel elemanların nasıl göründüğü, davrandığı ve kodlandığı bilgileri sistemleştirir. Metinde, Bileşen kütüphaneleri'nin stil rehberinin bir sonraki adımı olduğu ve küçük görsel elemanlara odaklandığı belirtilmektedir. (Ünite 8, Sayfa 2)."
+            "explanation": "Stil rehberinden sonra gelen ve tasarım sisteminin en sık ilişki kurulan bileşenleri olan kütüphaneler, butonlar, menü öğeleri gibi küçük görsel elemanların nasıl göründüğü, davrandığı ve kodlandığı bilgileri sistemleştirir. Metinde, Bileşen kütüphaneleri'nin stil rehberinin bir sonraki adımı olduğu ve küçük görsel elemanlara odaklandığı belirtilmektedir. (Ünite 8, Sayfa 2).",
+            "is_duplicate": true,
+            "duplicate_of": 59,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 120,
@@ -2155,7 +2435,10 @@
             "material_id": "634778",
             "UniteNo": 1,
             "topic": "Uluslararası Kâğıt Ölçüleri",
-            "explanation": "ISO (International Organization for Standardization) tarafından belirlenen ve A4 sayfa ölçüsünün de dâhil olduğu ISO216 standardı, dünyanın pek çok ülkesinde kullanılmakta olan evrensel bir kâğıt ölçüsü sistemidir. Bu, tasarımcıların uluslararası standartlara uyum sağlamasına yardımcı olur. (Ünite 1, Sayfa 1)."
+            "explanation": "ISO (International Organization for Standardization) tarafından belirlenen ve A4 sayfa ölçüsünün de dâhil olduğu ISO216 standardı, dünyanın pek çok ülkesinde kullanılmakta olan evrensel bir kâğıt ölçüsü sistemidir. Bu, tasarımcıların uluslararası standartlara uyum sağlamasına yardımcı olur. (Ünite 1, Sayfa 1).",
+            "is_duplicate": true,
+            "duplicate_of": 57,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 121,
@@ -2173,7 +2456,10 @@
             "material_id": "634778",
             "UniteNo": 8,
             "topic": "Arayüz Tasarım Stratejisi",
-            "explanation": "Ünite 8'de, en erken arayüz tasarımlarının \"skemorfik tasarım (taklit tasarım) prensiplerine dayandığı\" belirtilmiştir. Skemorfik tasarımın temelinde, doğanın derinlik, ışık, renk ya da hareket gibi birebir taklidi yatar."
+            "explanation": "Ünite 8'de, en erken arayüz tasarımlarının \"skemorfik tasarım (taklit tasarım) prensiplerine dayandığı\" belirtilmiştir. Skemorfik tasarımın temelinde, doğanın derinlik, ışık, renk ya da hareket gibi birebir taklidi yatar.",
+            "is_duplicate": true,
+            "duplicate_of": 100,
+            "original_source": "Yaz Okulu 2023-2024"
         }
     ]
 }

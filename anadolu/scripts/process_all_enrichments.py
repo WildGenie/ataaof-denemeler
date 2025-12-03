@@ -6,6 +6,9 @@ import os
 import json
 import sys
 import subprocess
+import argparse
+import concurrent.futures
+import time
 
 # Add project root to sys.path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
@@ -14,15 +17,63 @@ PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(_
 DERSLER_FILE = os.path.join(PROJECT_ROOT, "anadolu", "dersler.json")
 SCRIPT_PATH = os.path.join(PROJECT_ROOT, "anadolu", "scripts", "enrich_questions.py")
 
-def main():
-    import argparse
+def process_course(course_info):
+    """
+    Process a single course.
+    Returns (success, skipped, error_msg)
+    """
+    course_name = course_info.get("CourseName")
+    donem = course_info.get("Donem")
+    no_cache = course_info.get("no_cache", False)
 
+    print(f"Starting: {course_name} (Dönem {donem})")
+
+    try:
+        cmd = [sys.executable, SCRIPT_PATH, "--course", course_name, "--donem", donem]
+        if no_cache:
+            cmd.append("--no-cache")
+
+        result = subprocess.run(
+            cmd,
+            cwd=PROJECT_ROOT,
+            capture_output=True, # Capture output to avoid interleaving in parallel
+            text=True,
+            timeout=1800  # 30 minutes timeout per course
+        )
+
+        if result.returncode == 0:
+            # Check output to see if it was skipped or actually processed
+            if "Already enriched" in result.stdout:
+                print(f"  ⏭️  Skipped (Already Done): {course_name}")
+                return (False, True, None)
+            else:
+                print(f"  ✅ Completed: {course_name}")
+                # Print relevant output for user visibility
+                # We filter for lines starting with "  " to show progress/stats
+                for line in result.stdout.splitlines():
+                    if "Enriched" in line or "Saved" in line:
+                        print(f"     [{course_name}] {line.strip()}")
+                return (True, False, None)
+        else:
+            print(f"  ❌ Error: {course_name} (Exit Code: {result.returncode})")
+            print(f"     [{course_name}] Stderr: {result.stderr[:200]}...")
+            return (False, False, f"Exit code {result.returncode}")
+
+    except subprocess.TimeoutExpired:
+        print(f"  ⏱️  Timeout: {course_name}")
+        return (False, False, "Timeout")
+    except Exception as e:
+        print(f"  ❌ Exception: {course_name} - {e}")
+        return (False, False, str(e))
+
+def main():
     parser = argparse.ArgumentParser(description="Enrich exam questions for courses.")
     parser.add_argument("--enrolled", action="store_true", help="Process only enrolled courses")
     parser.add_argument("--course", help="Filter by course name (partial match)")
     parser.add_argument("--semester", choices=["guz", "bahar"], help="Filter by semester type")
     parser.add_argument("--donem", type=int, choices=range(1, 9), metavar="1-8", help="Filter by semester number")
     parser.add_argument("--no-cache", action="store_true", help="Force re-processing")
+    parser.add_argument("--workers", type=int, default=1, help="Number of parallel workers")
 
     args = parser.parse_args()
 
@@ -67,45 +118,41 @@ def main():
         print("No courses found to process.")
         return
 
-    print(f"Found {len(courses)} courses to enrich.\n")
+    print(f"Found {len(courses)} courses to enrich.")
+    print(f"Processing with {args.workers} workers...\n")
+
+    # Prepare course info objects
+    course_infos = []
+    for c in courses:
+        info = c.copy()
+        info['no_cache'] = args.no_cache
+        course_infos.append(info)
 
     success_count = 0
     skip_count = 0
     error_count = 0
 
-    for i, course in enumerate(courses, 1):
-        course_name = course.get("CourseName")
-        donem = course.get("Donem")
+    start_time = time.time()
 
-        print(f"[{i}/{len(courses)}] Enriching: {course_name} (Dönem {donem})")
-        print("-" * 80)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
+        # Submit all tasks
+        future_to_course = {executor.submit(process_course, info): info for info in course_infos}
 
-        try:
-            cmd = [sys.executable, SCRIPT_PATH, "--course", course_name, "--donem", donem]
-            if args.no_cache:
-                cmd.append("--no-cache")
-
-            result = subprocess.run(
-                cmd,
-                cwd=PROJECT_ROOT,
-                # capture_output=False, # Let output flow to console
-                text=True,
-                timeout=1800  # 30 minutes timeout per course
-            )
-
-            if result.returncode == 0:
-                print(f"\n  ✅ Success\n")
-                success_count += 1
-            else:
-                print(f"\n  ❌ Error (exit code: {result.returncode})\n")
+        for future in concurrent.futures.as_completed(future_to_course):
+            course_info = future_to_course[future]
+            try:
+                success, skipped, error = future.result()
+                if success:
+                    success_count += 1
+                elif skipped:
+                    skip_count += 1
+                else:
+                    error_count += 1
+            except Exception as exc:
+                print(f"Generated an exception: {exc}")
                 error_count += 1
 
-        except subprocess.TimeoutExpired:
-            print(f"  ⏱️  Timeout (skipped)\n")
-            error_count += 1
-        except Exception as e:
-            print(f"  ❌ Exception: {e}\n")
-            error_count += 1
+    duration = time.time() - start_time
 
     print("=" * 80)
     print(f"Summary:")
@@ -113,6 +160,7 @@ def main():
     print(f"  Skipped: {skip_count}")
     print(f"  Errors: {error_count}")
     print(f"  Total: {len(courses)}")
+    print(f"  Time: {duration:.2f} seconds")
 
 if __name__ == "__main__":
     main()
