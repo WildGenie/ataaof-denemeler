@@ -1,0 +1,1304 @@
+[
+    {
+        "Index": 3862430,
+        "Question": "<p>Uluslararası Tasarım Konseyi (ICoD) tasarımı ne şekilde tanımlar?</p>  ",
+        "Answer": "<p>Uluslararası Tasarım Konseyi (ICoD) tasarımı “estetik, işlevsel, bağlamsal, kültürel ve toplumsal hususları dikkate alarak, bir kişi (bir kullanıcı) ile insan yapımı çevre arasındaki etkileşime odaklanan bir çalışma ve uygulama disiplini” olarak tanımlar.  </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862431,
+        "Question": "<p>Dört temel tasarım çalışma alanı nelerdir?</p>  ",
+        "Answer": "<p>Dört temel tasarım çalışma alanı Endüstriyel tasarım, iç mimarlık, moda tasarımı ve grafik tasarımdır.  </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862432,
+        "Question": "<p>Sistem kelimesi temel sözlük anlamında ne şekilde tanımlanır?</p> ",
+        "Answer": "<p>Sistem kelimesi temel sözlük anlamında “birçok unsurdan oluşan düzen” olarak tanımlanır. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862433,
+        "Question": "<p>Fiziksel sistemler nasıl tanımlanır ve bunlara örnek nelerdir?</p> ",
+        "Answer": "<p>Fiziksel sistemler, gözlemlenebilir ve ölçülebilir olan somut nesneler veya süreçlerdir. Örneğin makineler, binalar ve insan vücudu gibi doğal sistemler fiziksel yani somut sistemler arasındadır. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862434,
+        "Question": "<p>Soyut sistemler nasıl tanımlanır ve bunlara örnek nelerdir?</p> ",
+        "Answer": "<p>Soyut sistemler, doğrudan gözlemlenebilir veya ölçülemeyen soyut kavramlar veya fikirlerdir. Örnekler arasında matematiksel denklemler, bilgisayar algoritmaları ve ekonomik modeller bulunur.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862435,
+        "Question": "<p>Açık sistem nasıl tanımlanır ve açık sisteme örnek olarak neler verilebilir?",
+        "Answer": "                                                        <p>Açık bir sistem, çevresi ile sürekli etkileşim hâlindedir; dışarıdan girdi alır ve dışarıya çıktı verir. Açık sisteme örnek olarak ekosistemler, ekonomik ve sosyal sistemler verilebilir.  </p>                                                ",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862436,
+        "Question": "<p>Kapalı sistem nasıl tanımlanır ve kapalı sisteme örnek olarak neler verilebilir?</p> ",
+        "Answer": "<p>Kapalı bir sistem çevre etkilerinden izole edilmiştir; enerji, madde veya bilgiyle çevreleri arasında etkileşimde bulunmazlar. Kapalı sistem için makineler ve laboratuvar deneyleri örnek verilebilir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862437,
+        "Question": "<p>Alt sistem ve üst sistemin tanımı nedir?</p> ",
+        "Answer": "<p>Her sistem daha büyük bir sistemin parçasıdır. Alt sistemler, bir sistem içindeki daha küçük sistem[1]lerdir. Her sistemin bağlı olduğu daha büyük sistemlere de üst sistem denmektedir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862438,
+        "Question": "<p>Kalıcı sistem ve geçici sistemin özellikleri nelerdir?</p> ",
+        "Answer": "<p>Kalıcı bir sistem, insanın işleyişine göre uzun bir süre dayananır. Geçici sistem, kısa bir zaman dilimine sahiptir.  </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862439,
+        "Question": "<p>Belirlenimci sistemin tanımı nedir?</p> ",
+        "Answer": "<p>Belirlenimci bir sistem, tüm olayların oluşumunun tamamen tahmin edilebilir olduğu sistemdir. Belirli bir zamandaki sistem durumunun açıklamasını alırsak, bir sonraki durum kolayca tahmin edilebilir. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862440,
+        "Question": "<p>Bir kütüphane sınıflandırma sistemi olan DDC’nin İngilizce ve Türkçe açılımı nedir?</p>  ",
+        "Answer": "<p>Bir kütüphane sınıflandırma sistemi olan DDC’nin İngilizce ve Türkçe açılımı Dewey Decimal Classification yani Dewey Onlu Sınıflama Sistemi’dir. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862441,
+        "Question": "<p>Bir kütüphane sınıflandırma sistemi olan LCC’nin İngilizce ve Türkçe açılımı nedir?</p> ",
+        "Answer": "<p>Bir kütüphane sınıflandırma sistemi olan LCC’nin İngilizce ve Türkçe açılımı Library of Congress yani Amerikan Kongre Kütüphanesi Sınıflama Sistemi’dir. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862442,
+        "Question": "<p>Anadolu Üniversitesi Merkez Kütüphanesi hangi sınıflandırma sistemini kullanmaktadır?</p> ",
+        "Answer": "<p>Anadolu Üniversitesi Merkez Kütüphanesi LCC sınıflandırma sistemini kullanmaktadır. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862443,
+        "Question": "<p>Bir sistem genellikle hangi 4 unsurdan oluşan bir döngüye sahiptir?</p>  ",
+        "Answer": "<p>Bir sistem genellikle girdiler, işlemler, çıktılar ve geri bildirimden oluşan bir döngüye sahiptir.  </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862444,
+        "Question": "<p>Kütüphane sınıflandırma sistemi temel alındığında bir sistemi oluşturan döngünün 4 unsuru nelere karşılık gelmektedir?</p> ",
+        "Answer": "<p>Kütüphane sınıflandırma sistemi temel alındığında girdiler, çeşitli kitaplara; işlemler sınıflandırma ve düzenlemeye; çıktılar kitapların bulunabilmesi ve yeniden yerine koyulabilmesine; geri bildirim ise kullanıcıların veya kütüphane görevlilerinin yaşadığı sorunlara karşılık gelmektedir.  </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862445,
+        "Question": "<p>Aralarında hemen hemen her gün karşımıza çıkan A4 kağıt ölçüsünün de bulunduğu kağıt standardı ve açılımı nedir?",
+        "Answer": "                            <p>Aralarında hemen hemen her gün karşımıza çıkan A4 kağıt ölçüsünün de bulunduğu kağıt standardı ve açılımı ISO216’dır. ISO (International Organization for Standardization) kelimelerinin baş harflerinden oluşur. </p>                        ",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862446,
+        "Question": "<p>ISO216 serisinde A, B ve C ölçüleri olmak üzere  var olan 3 temel gruptan C serisi ne için kullanılır?</p> ",
+        "Answer": "<p>ISO216 serisinde A, B ve C ölçüleri olmak üzere  var olan 3 temel gruptan C serisi zarf ölçüleri için kullanılır. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862447,
+        "Question": "<p>Pantone nedir?</p> ",
+        "Answer": "<p>Pantone Tasarımcıların üreticilerle renk konusunda verilen kararları doğru şekilde alabilmesini sağlayan, evrensel bir renk dili ortaya koyan sistemdir. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862448,
+        "Question": "<p>Grafik tasarım nasıl bir alandır?</p> ",
+        "Answer": "<p>Grafik tasarım, gerekli mesaj ve bilgileri, belirli sosyal gruplara tanımlanmış amaçlarla aktarmak üzere görsel iletişim aracılığıyla çözümler sunan bir alandır. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862449,
+        "Question": "<p>Tasarımcı Massimo Vignelli grafik tasarımı ne olarak gördüğünü söylemiştir?</p> ",
+        "Answer": "<p>Tasarımcı Massimo Vignelli grafik tasarım ile “Grafik tasarımı anlamsal olarak doğru, sözdizimsel olarak tutarlı ve pragmatik olarak anlaşılabilir bilgilerin organizasyonu olarak görüyorum” demiştir. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862450,
+        "Question": "<p>Fengworks Design Office tarafından tasarlanan ve 2023 yılında iF tasarım ödülü alan projelerden biri olan bilgilendirme ve yönlendirme sistemi neresi için tasarlanmıştır?</p>  ",
+        "Answer": "<p>Fengworks Design Office tarafından tasarlanan ve 2023 yılında iF tasarım ödülü alan projelerden biri olan bilgilendirme ve yönlendirme sistemi Taipei hayvanat bahçesi için tasarlanmıştır. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862451,
+        "Question": "<p>Kurumsal kimlik tasarımının amacı nedir?</p> ",
+        "Answer": "<p>Kurumsal kimlik tasarımının amacı, benzersiz ve hatırlanır bir görsel kimlik oluşturmak ve şirketi rakiplerinden ayırmak için yardımcı olmaktır.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862452,
+        "Question": "<p>Tasarımcı Eva Klose tarafından Rotterdam’daki De Doelen adlı kongre ve konser alanı için yapılan  ve kurum kimliğini pekiştiren bir etkinlik afiş tasarımı serisi olan tasarımda neyi ortaya koymuştur?</p> ",
+        "Answer": "<p>Eva Klose, Rotterdam’daki De Doelen adlı konser binasının mimari ögelerinden yola çıkarak kurumun tüm afişlerinde kullanılabilecek bir çerçeve ortaya koymuş ve bu uygulamayı sürdürülebilir bir görsel kimlik sistemi hâline getirmeyi başarmıştır. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862453,
+        "Question": "<p>Londra metrosunda çalışan elektrikçi teknik ressam Harry Beck, Londra metrosu haritasında hangi olguyu ortaya koymuştur?</p>  ",
+        "Answer": "<p>Harry Beck haritaların coğrafi bilgiyle birebir ilerlemesinin şart olmadığını, önemli olan şeyin seyahat eden yolcuların net bir rota bilgisine ulaşmaları olduğunu söyler. Beck’in tasarımında coğrafi bilgi önem bakımından ikinci sıradadır. Kullanıcı bakış açısıyla düşünüldüğünde esas olarak verilmesi gereken bilgi, duraklar ve hatların birleştiği noktalardır; coğrafi konum daha sonra gelir.  </p> ",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862454,
+        "Question": "<p>Kompleksite nasıl tanımlanmaktadır?</p> ",
+        "Answer": "<p>Kompleksite, yani karmaşıklık, bir sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel, kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı olarak nitelendirilir. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862455,
+        "Question": "<p>UX (User Experience) Kullanıcı deneyimi nedir?</p> ",
+        "Answer": "<p>UX (User Experience) Kullanıcı deneyimi: Fiziksel veya ekrana yönelik ürün tasarımında insan merkezli yaklaşımı ve kullanıcının ilk temastan sonuna kadarki tüm deneyimini konu alan tasarım alanıdır. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862456,
+        "Question": "<p>Bilgi düzenlenirken bilgiyi kullanan kişi ve gruplar öncelikli olmalıdır. Buna göre tasarım ekipleri hangi özelliklere sahip olmalıdır?</p> ",
+        "Answer": "<p>Tasarım ekipleri her zaman empati kurabilen, geri bildirimleri değerlendirebilen, sorunları görerek aktif çözümler üretebilen yeteneğe sahip kişilerden oluşur. </p> ",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862457,
+        "Question": "<p>Amsterdam Schipol Havaalanının yönlendir[1]me tasarımını yapan tasarım şirketi Mijksenar’ın kurucusu Paul Mijksenar, yönlendirme tasarımı yaparkenhangi  dört unsura dikkat etmek gerektiğini söylemektedir?</p>  ",
+        "Answer": "<p>Paul Mijksenar’ın, yönlendirme tasarımı yaparken dikkat edilmesi gerektiğini söylediği dört unsur devamlılık, yani bilgiyi varış yerine kadar tekrar ettirebilmek; belirginlik, yani levhaların göze çarpması; tutarlılık, yani oluşturulan kurallara bağlı kalmak ve açıklık, yani bilginin net bir şekilde algılanabilir olmasıdır. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862458,
+        "Question": "<p>1920’ler ve 30’larda Viyana metodu olarak da bilinen Isotype (Uluslararası Tipografik ve Resimsel Eğitim Sistemi) geliştirilmesine kim öncü olmuştur?",
+        "Answer": "                            <p>1920’ler ve 30’larda Viyana metodu olarak da bilinen Isotype (Uluslararası Tipografik ve Resimsel Eğitim Sistemi) geliştirilmesine Otto Neurath öncü olmuştur. </p>                        ",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862459,
+        "Question": "<p>Piktogram nedir?</p> ",
+        "Answer": "<p>Piktogram bir eşyayı, bir objeyi, bir yeri, bir işleyişi veya bir kavramı yalınlaştırarak görsel yolla temsil eden semboldür. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862460,
+        "Question": "<p>Seri tasarım nedir?</p> ",
+        "Answer": "<p>Seri tasarım, bir koleksiyon veya seri üründen oluşan ürün veya hizmetlerin bir arada bir bütün halinde tasarlanmasıdır. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862461,
+        "Question": "<p>Hem kitabın tamamında hem de kapak tasarımı anlamında seri tasarım için önemli bir örnek olan Yapı Kredi yayınlarından çıkan “Türkiye’de Güncel Sanat” serisi kim tarafından tasarlanmıştır?</p>  ",
+        "Answer": "<p>Hem kitabın tamamında hem de kapak tasarımı anlamında seri tasarım için önemli bir örnek olan Yapı Kredi yayınlarından çıkan “Türkiye’de Güncel Sanat” serisi Esen Karol tarafından tasarlanmıştır. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862462,
+        "Question": "<p>Kapalı sisteme önemli bir örnek olarak verilebilecek  Franz Kafka’nın eserlerini konu alan ve Almanya’da Fischer tarafından yayımlanan kitap serisinin özelliği nedir?</p> ",
+        "Answer": "<p>Kapalı sisteme önemli bir örnek olarak verilebilecek  Franz Kafka’nın eserlerini konu alan ve Almanya’da Fischer tarafından yayımlanan kitap serisinin özelliği şu şekildedir:</p> <p>Kafka’nın başka bir eseri olsa dahi bu tasarım yeni bir kitap kapağı daha eklemeye uygun değildir. Çünkü tasarımda kapakların tamamını kaplayacak şekilde el yazısıyla Franz Kafka yazılmıştır, yeni bir kitap eklendiğinde kapak boş kalacaktır veya tüm diğer kapakların elden geçirilmesi gerekecektir. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862463,
+        "Question": "<p>Grid sistemi nin ne gibi faydaları vardır?</p> ",
+        "Answer": "<p>Grid sistemi ile birlikte belirli kurallara dair bir çerçeve ortaya konulurken, bir yandan bu kurallar içinde esnek alanlar yaratılır. Böylelikle hem görsel tutarlılık sağlanırken hem de sıkıcı olmayan ve gerektiğinde farklılaşabilen bir tasarım dili yaratılmış olur. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3862285,
+        "Question": "<p>1- Grafik tasarımı değerlendirebildiğimiz iki ana üretim kanalı nelerdir?</p> ",
+        "Answer": "<p>Grafik tasarımı değerlendirebildiğimiz iki ana üretim kanalı şunlardır:</p> <ol> <li>Bir seriye ait olmayan, tekil, tekrar etmeyen, şablona dönüşmeyen bir tasarım mantığına bağlı üretim,</li> <li>Bir seriye ait, sabit kararları olan, detaylarda değişim olsa bile o gruptaki aidiyetini koruyan, tasarım kararları bir “şablon” mantığına bağlı üretim </li> </ol>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862286,
+        "Question": "<p>Yalnızca yazı veya harf kullanılarak tasarlanmış logolara ne ad verilir?</p> ",
+        "Answer": "<p>Yalnızca yazı veya harf kullanılarak tasarlanmış logolara “Logotype” adı verilir    </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862287,
+        "Question": "<p>Seri tasarım anlayışı neleri sağlar?</p> ",
+        "Answer": "<p>Seri tasarım anlayışı, bir markanın kimlik bü[1]tünlüğünü koruyup marka altında çıkan ürün gruplarının (veya serisinin) görsel tutarlılığını ve devamlılığını sağlar.      </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862288,
+        "Question": "<p>Seri tanımı neye işaret etmektedir?</p> ",
+        "Answer": "<p>Seri tanımı, özellikle uzun yıllar boyunca yayımlanan dergilerin, sergi, konser gibi bir programa bağlı tanıtım afişlerinin, bir yazara, türe veya yayınevinin editoryal seçkisine ait çıkan kitapların belirli bir gruba ait olduğuna veya zaman-dizinsel bir devamlılığa bağlı olduğuna işaret etmektedir.  </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862289,
+        "Question": "<p>Editoryal terimi hangi çalışmayı tanımlar?</p> ",
+        "Answer": "<p>Editoryal terimi, yayımlanacak kitapların yayınevi direktörü veya yayınevi editörleri tarafından, türlerine bağlı olarak gruplanması çalışmasını tanımlar. Örneğin; “Garip Akımı Şairleri Serisi” veya “Rus Klasikleri Serisi” gibi.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862290,
+        "Question": "<p>Bir süreli yayının kapağı söz konusu olduğunda bu tasarımın değişmezleri neler olmalıdır?</p> ",
+        "Answer": "<p>Bir süreli yayının kapağı söz konusu olduğunda bu tasarımın değişmezleri şunlardır:</p> <p>-Yayının logosu kapakta hep aynı yerde, aynı boyutta yer alır.</p> <p>- Kapak görseli her sayıda değişse de görselin yer kapladığı alan ve görselin üretim üslubu (örneğin; fotoğraf, illüstrasyon, modelleme; vb.) değişmez.</p> <p>- Kapak yazılarının içeriği ve uzunluğu değişse de yerleri sabittir.</p> <p>- Kapak tasarımında bir diğer değişmez ise kurumsal yazı karakteri ailesidir. Bu yazı karakteri tercihi yayınevinden çıkan serilerde kitabın adı, yazarın adı gibi başat unsurlarda kullanılır. Yazının uzunluğuna bağlı olarak küçük boyut farkları veya aile içerisinde yer alan kalın (bold), normal (regular) ve eğik (italic) seçeneklerindeki çeşitlilik dışında değişime uğramaz. </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862291,
+        "Question": "<p>Can Yayınlarının Can Lab serisi için hazırlanan tasarım serisinde kapakta tersine çevirme fikri nasıl uygulanmıştır?</p> ",
+        "Answer": "<p>Klasik tasarımlarda kapakta sırasıyla en üstte yazarın adı, ardından kitabın adı, alıntı bir resim, (gerektiğinde) çevirmen ve en altta yayınevi logosu yer alır. Can Lab serisinde ise bu sıralama “yayınevi logosu, alıntı resim, kitabın adı, yazarın adı ve çevirmen sıralamasıyla sondan başa dönüyor.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862292,
+        "Question": "<p>Can Lab serisinde tersine çevirme fikri kapak malzemesinde ne şekilde kullanılmıştır?</p> ",
+        "Answer": "<p>Can Lab serisinde ön yüzü beyaz, arka yüzü gri olan bir kartonun gri olan dokulu yüzeyi kapakta dış yüzey olarak kullanılmış, beyaz olan dış yüzey ise iç tarafta kalıyor.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862293,
+        "Question": "<p>İkinci Dünya Savaşı sonrası Avrupa’nın, İsviçre’den başlayıp Almanya ve İngiltere’de karşılığını bulan “Uluslararası Tipografik Üslup” adı verilen tasarım anlayışının özellikleri nelerdir?</p> ",
+        "Answer": "<p>“Uluslararası Tipografik Üslup” anlayışı tasarımda sadelik, anlaşılırlık, az renk ve tırnaksız yazı karakteri kullanımı ön planda tutmuştur. </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862294,
+        "Question": "<p>İsviçreli tasarımcı Tschichold’un yaklaşımı olan, Penguin Books’un editör ve tasarımcılarının kullanabileceği, “Penguin Kompozisyon Kuralları” neleri içermektedir?</p>  ",
+        "Answer": "<p>İsviçreli tasarımcı Tschichold, Penguin Books’un editör ve tasarımcılarının kullanabileceği, “Penguin Kompozisyon Kuralları (Penguin Composition Rules)” (Byars, Riley, 2004), kitapların boyutlarından logonun yerleşimine, kapaktaki başlık fontundan iç sayfalardaki paragraf girdisi, büyük harf kullanımı, hatta oyun metinleri ve şiirlerin yerleşimine kadar özelleştirilmiş bir dizi talimatı içerir.</p> ",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862295,
+        "Question": "<p>Penguin Books Great Ideas serisinin kapak tasarımcısı kimdir?</p> ",
+        "Answer": "<p>Penguin Books Great Ideas serisinin kapak tasarımcısı David Pearson’dur </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862296,
+        "Question": "<p>Great Ideas serisinin tasarımcısı Pearson kapaklarda uyguladığı metodu ne şekilde tanımlar?</p> ",
+        "Answer": "<p>Great Ideas serisinin tasarımcısı Pearson kapaklarda uyguladığı metodu “kendisine referans veren” (Brewer, 2020) olarak tanımlar. Yani her kapak, kitabın içeriğinden gelen fikirle biçimlenmiştir. </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862297,
+        "Question": "<p>Great Ideas serisinde kapağı kendi sırt tasarımının yanyana getirilmiş tekrarlarından oluşan kitabın adı nedir?</p> ",
+        "Answer": "<p>Great Ideas serisinde kapağı kendi sırt tasarımının yanyana getirilmiş tekrarlarından oluşan kitabın adı “Teknik Araçlarla Yeniden Üretim (Çoğaltma) Çağında Sanat Eseri”dir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862298,
+        "Question": "<p>Arredemento dergilerinin kapak tasarımında düşünülen ana konsept nedir?</p> ",
+        "Answer": "<p>Arredemento dergilerinin kapak tasarımlarındaki ana konsept, tasarımcının her sayının dosya konusu doğrultusunda oluşturduğu görsel kurgusuyla şekillenmektedir. </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862299,
+        "Question": "<p>Metaforik yaklaşım nedir?</p> ",
+        "Answer": "<p>Metaforik yaklaşım, kapak konularında geçen tanımların, aynı anlama varan farklı görselliklerle hatırlatılması veya açıklanmasıdır.   </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862300,
+        "Question": "<p>Arredamento Mimarlık dergisinin kapaklarında dikkat edilmesi gereken ortak nokta nedir?</p> ",
+        "Answer": "<p>Arredamento Mimarlık dergisinin kapaklarında dikkat edilmesi gereken ortak nokta, kapakların belirli bir sistem içerisinde değişkenliğe, kapaklara dair bir özgürlüğe sahip olması. Kapak görselleri her sayı değişiyor olsa bile, o görsellerin oluşum mantığı, tasarım fikri, uygulama biçimi değişim göstermediği için serileşiyor, bir bakıma aynılaşıyor.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862301,
+        "Question": "<p>Casa de Musica binasının logosonun formu neye dayanarak oluşturulmuştur?</p> ",
+        "Answer": "<p>Logonun formu, basitçe binanın altı farklı açıdan görünüşünün soyutlanmasından oluşturulmuştur. </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862302,
+        "Question": "<p>Casa de Musica binasının logosonun çoğul bir anlayışla tasarlanmasının nedeni nedir?</p> ",
+        "Answer": "<p>Casa de Musica binasının logosonun çoğul bir anlayışla tasarlanmasının esas nedeni, bu müzik merkezi içerisinde sahnelenen farklı müzik türlerini temsil etmekte yatmaktadır. Müzik türlerinin değişimine göre logo da “bir zar gibi” dönerek karakter değiştiriyor ve her konser için logonun farklı bir yönü kullanılıyor. </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862303,
+        "Question": "<p>Casa de Musica binasının logosonun renk sistemi neye göre belirlenmektedir?</p>",
+        "Answer": "<p>Logonun renk sistemi  konseri olacak müzisyenlerin ünlü fotoğraflarındaki renk paletine göre belirlenmektedir. Renkler, bir yazılım aracılığıyla seçiliyor ve logonun farklı yüzeylerine yayılıyor. </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862304,
+        "Question": "<p>Tasarımını Stefan Sagmeister’in üstlendiği Pat Matheney’in “ Pat Matheney Trio 99 – 00” albümünün kapak tasarımındaki özellik nedir?</p> ",
+        "Answer": "<p>Tasarımını Stefan Sagmeister’in üstlendiği bu albüm kapağı, içerisinde yer alan CD yüzeyi ile etkileşimli bir tasarıma sahiptir. Tasarım klasik, plastik bir CD kutusu içerisinde yer alıyor. Kapakta yer alan iki yüzeyi baskılı karton kapağın alt-orta kısmında daire şeklinde kesilmiş bir pencere yer alıyor. Bu pencereden CD üzerine basılmış, gitgide değişen renk geçişleri görülebiliyor. Kapak tasarımı (tipografi, renk, vs) sabit olsa da CD yüzeyindeki renk çeşitliliği sayesinde, CD içeride döndükçe ve delikten farklı renkler belirdikçe kapak tasarımı da çeşitlilik göstermiş oluyor. Yan yana yerleştirilen her bir kapak, tasarım fikrindeki nüans sayesinde birbirinden farklı görünüyor. Sanki aynı müzisyenin “farklı” albümleriymiş gibi bir algı yaratıyor. </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862305,
+        "Question": "<p>Ariel Sanat’ın 2015-2019 yılları arasında gerçekleşen 21 farklı sergisi için Bülent Erkmen’in hazırladığı her serginin özel bir işaretine de dönüşen 21 afişin tasarımlarında sisteme dair ilk göze çarpan görsel kararlar nelerdir?</p> ",
+        "Answer": "<p>Afiş tasarımlarında sisteme dair ilk göze çarpan görsel kararlar şöyle sıralanabilir: Afişlerde yalnızca siyah renk kullanılmış. Dikdörtgen afişin üst kare alanı, serginin kimliğine dönüşen işaretlere, alt kısmı ise sergi bilgilerine ayrılmış. Sergi sahipleri (sanatçılar) işaretin hemen altında yer alıyor. Serginin adı ise Türkçe ve İngilizce olarak dikey yazılmış. Ariel logosu ise afişin alt orta kısmında bulunuyor.    </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3862338,
+        "Question": "<p>“Altın Oran” Atina’da bulunan <strong>hangi ünlü tapınağın</strong> ölçülerine dayandırılmıştır?</p>",
+        "Answer": "<p>İsa’dan önce 5. yüzyılda Yunanlı mimarlar, bu form anlayışını dayandırdıkları oran ve orantının temel kuralları üzerine çalışmışlardır. Sonradan bu kurallar Atina’da bulunan ünlü <strong>Parthenon Tapınağı’nın</strong><br />ölçülerinin dayandırıldığı “Altın Oran” olarak adlandırılmıştır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862339,
+        "Question": "<p>Günümüzde altın oran olarak ifade edilen <strong>sayı kaçtır?</strong></p>",
+        "Answer": "<p>Günümüzde altın oran olarak ifade edilen sayı <strong>1.618</strong> olarak ifade edilmektedir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862340,
+        "Question": "<p>Grid sistemini renk ilişkilerinin karmaşıklığına bir düzen getirmek amacıyla kullanmış ve bu sayede renkler arasında ince geçişleri olan canlı kompozisyonlar elde etmiş <strong>ressam kimdir?</strong></p>",
+        "Answer": "<p><strong>Paul Klee</strong>, grid sistemini renk ilişkilerinin karmaşıklığına bir düzen getirmek amacıyla kullanmış ve bu sayede renkler arasında ince geçişleri olan canlı kompozisyonlar elde etmiştir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862341,
+        "Question": "<p>Kompozisyonlarını ilk olarak klasik altın orana dayalı olarak dikdörtgen <strong>gridler</strong> çizerek oluşturan ve <strong>“Composition A, 1920”</strong> adını verdiği tablonun<strong> ressamı kimdir?</strong></p>",
+        "Answer": "<p>Örneğin, “Composition A, 1920” rastgele bir kareler ve dikdörtgenler dizisi gibi görünse de <strong>Piet Mondrian</strong> kompozisyonlarını ilk olarak klasik altın orana dayalı olarak dikdörtgen gridler çizerek oluşturmaktaydı.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862342,
+        "Question": "<p>Le Corbusier’in <strong>hangi adı verdiği </strong>sistemi kısaca 1.83 mt uzunluğundaki bir insan figürünün dört ana noktasına dayanmaktadır?</p>",
+        "Answer": "<p>Le Corbusier’in <strong>“Modüler (Modulor)”</strong> sistemi kısaca 1.83 mt uzunluğundaki bir insan figürünün dört ana noktasına dayanmaktadır. Kasıklarla göbek deliği arası, başın tepesi ile yukarıya kaldırılmış elin<br />en uç noktası. Ayak tabanından sağ el bileğine kadar olan nokta.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862343,
+        "Question": "<p>Tasarım sürecinde, devamlılık sağlayacak şekilde görsel elemanların birbirlerine hizalamasını, öncelik sırası oluşturacak bir biçimde düzenlenmesini dolayısıyla tasarımda sürekliliğin sağlanması için kullanılan, baskı esnasında görünmeyen yatay ve dikey rehber çizgilere <strong>ne denir?</strong></p>",
+        "Answer": "<p><strong>Grid:</strong> Tasarım sürecinde, devamlılık sağlayacak şekilde görsel elemanların birbirlerine hizalamasını, öncelik sırası oluşturacak bir biçimde düzenlenmesini dolayısıyla tasarımda sürekliliğin sağlanması için kullanılan, baskı esnasında görünmeyen yatay ve dikey rehber çizgiler olarak tanımlanabilir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862344,
+        "Question": "<p>Grid sisteminin <span style=\"text-decoration: underline;\"><strong>kullanılmadığı</strong></span> tasarımlar genellikle nasıl görüneceklerdir?</p>",
+        "Answer": "<p>Grid sisteminin kullanılmadığı tasarımlar genellikle <strong>devamlılık hissinden uzak, öncelik sırasından yoksun ve birbirlerinden kopuk</strong> görünecektir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862411,
+        "Question": "<p>Gridin temelini oluşturan sistemler <strong>nelerdir?</strong></p>",
+        "Answer": "<p><strong>Altın oran ve modüler</strong> gibi gridin temelini oluşturan sistemler grafik tasarımcılara uyumlu ve orantılı kompozisyon olanakları oluşturmaları için ilham verebilir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862412,
+        "Question": "<p>Sayfa numaralarını yerleştirmek için en uygun alan sayfanın neresidir?</p>",
+        "Answer": "<p>Sayfa numaralarını yerleştirmek için en uygun alan sayfanın <strong>kenar boşluklarıdır.</strong></p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862413,
+        "Question": "<p>Normal bir durumda basılı malzemeler genellikle göze <strong>kaç santim</strong> uzaklıktan okunur?</p>",
+        "Answer": "<p>Normal bir durumda basılı malzemeler genellikle göze <strong>30-35 cm</strong> mesafeden okunmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862414,
+        "Question": "<p>Genelgeçer bir grafik tasarım kuralına göre, optimum bir satır uzunluğu<br /><strong>kaç</strong> kelime olmalıdır?</p>",
+        "Answer": "<p>Genelgeçer bir grafik tasarım kuralına göre, optimum bir satır uzunluğu<br /><strong>7-10</strong> kelime olmalıdır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862415,
+        "Question": "<p>Okuturluk unsurunu etkileyen faktörlerden en önemlisi<strong> nedir?</strong></p>",
+        "Answer": "<p>Okuturluk unsurunu etkileyen faktörlerden en önemlisi <strong>boşluktur.</strong></p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862416,
+        "Question": "<p>Sütunların nerede başlamaları gerektiğini, resim alanlarının nerede bitmesi gerektiği gibi konularda tasarımcıya yol gösterici rehber çizgilere <strong>ne ad verilir?</strong></p>",
+        "Answer": "<p><strong>Yatay Çizgiler:</strong> Sütunların nerede başlamaları gerektiğini, resim alanlarının nerede bitmesi gerektiği gibi konularda tasarımcıya yol gösterici rehber çizgilerdir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862417,
+        "Question": "<p>Çoklu sayfa tasarımlarında, grid çizgi yerleşimlerinin dikey alanlarda sütunlar oluşturacak bir biçimde ve karşılıklı sayfalarda birbirinin ayna yansımaları şeklinde düzenlendiği bir grid sistemine<strong> ne ad verilir?</strong></p>",
+        "Answer": "<p><strong>Simetrik Grid:</strong><br />Çoklu sayfa tasarımlarında, grid çizgi yerleşimlerinin dikey alanlarda sütunlar oluşturacak bir biçimde ve karşılıklı sayfalarda birbirinin ayna yansımaları şeklinde düzenlendiği bir grid sistemidir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862418,
+        "Question": "<p>Çoklu sayfa tasarımlarında, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimine <strong>ne ad verilir?</strong></p>",
+        "Answer": "<p><strong>Asimetrik Grid:</strong><br />Çoklu sayfa tasarımlarında, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimidir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862419,
+        "Question": "<p>Sayfa tasarımında kullanılan elemanları, sayfa üzerinde tutarlı bir şekilde düzenlemek için kullanılan ve sayfa tasarım alanında ayrı ayrı kullanılabilen alanlardan oluşan bir çerçeveye  <strong>ne ad verilir?</strong></p>",
+        "Answer": "<p><strong>Modüler Grid:</strong><br />Modüler grid, sayfa tasarımında kullanılan elemanları, sayfa üzerinde tutarlı bir şekilde düzenlemek için kullanılan ve sayfa tasarım alanında ayrı ayrı kullanılabilen alanlardan oluşan bir çerçevedir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862420,
+        "Question": "<p>Zıtlığın arkasındaki temel fikir <strong>nedir?</strong></p>",
+        "Answer": "<p><strong>Zıtlık (Kontrast):</strong><br />Zıtlığın arkasındaki temel fikir, sayfa üzerinde kullanılan tasarım elemanlarının benzer görünmelerinden kaçınmaktır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862421,
+        "Question": "<p>Tasarım alanında kullanılan elemanların tasarım kaygısı güdülerek ilkeler açısından bir araya getirilmesidir. Tasarımcının üslubunu ya da ifade etmek istediği mesajın karakterini yansıtan bir bütündür.</p> <p>Bu işleme <strong>ne ad verilir?</strong></p>",
+        "Answer": "<p><strong>Kompozisyon:</strong> Tasarım alanında kullanılan elemanların tasarım kaygısı<br />güdülerek ilkeler açısından bir araya getirilmesidir. Tasarımcının üslubunu ya da ifade etmek istediği mesajın karakterini yansıtan bir bütündür.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862422,
+        "Question": "<p>Sayfa üzerinde ya da ardışık sayfalarda görsel elemanların tekrar edilerek okuyucunun algısında bir devamlılık hissi yaratmak için kullanılmasına <strong>ne ad verilir?</strong></p>",
+        "Answer": "<p><strong>Tekrar:</strong><br />Sayfa üzerinde ya da ardışık sayfalarda görsel elemanların tekrar edilerek okuyucunun algısında bir devamlılık hissi yaratmak için kullanılır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862423,
+        "Question": "<p>Alt başlıklarda sıkça karşılaşılan bir <strong>hata</strong> örneği veriniz.</p>",
+        "Answer": "<p>Alt başlıklarda sıkça karşılaşılan bir hata ise <strong>alt başlığın üstünde ve altında, ana metin ile arasında aynı oranda boşluk bırakmaktır.</strong></p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3862316,
+        "Question": "<p>Haritaların en belirleyici <strong>bileşeni</strong> nedir?</p>",
+        "Answer": "<p>Haritaların renk, desen, doku, yazı, sembol, ölçek gibi pek çok bileşeni bulunmaktadır. Bunların şüphesiz en belirleyicisi <strong>ölçektir</strong>.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862317,
+        "Question": "<p>Haritaya fiziksel olarak sahip olmanın zorunluluğunu tamamen ortadan kaldıran<strong> gelişme</strong> ne olmuştur?</p>",
+        "Answer": "<p><strong>Dijital devrim</strong>, haritaya fiziksel olarak sahip olmanın zorunluluğunu tamamen ortadan kaldırmıştır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862318,
+        "Question": "<p>Haritanın hazırlık aşaması anlamında da kullanılabilecek kısaca, içerik ve konum bilgisinin aynı düzlemde bir araya getirilmesine <strong>ne ad</strong> verilir?</p>",
+        "Answer": "<p>Haritanın hazırlık aşaması anlamında da kullanılabilecek <strong>“haritalama eylemi”</strong> kısaca, içerik ve konum bilgisinin aynı düzlemde bir araya getirilmesi olarak açıklanabilir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862319,
+        "Question": "<p>GPS teknolojisinin 100 yılı aşmayan geçmişinden önce de insanlar konumlarını tespit edebilmiş bunun için <strong>neleri</strong> referans olarak kullanmıştır?</p>",
+        "Answer": "<p>Ancak GPS teknolojisinin 100 yılı aşmayan geçmişinden önce de insanlar konumlarını tespit edebilmiş bunun için <strong>değişmez coğrafi noktaları, güneşi, ayı ve yıldızları</strong> referans olarak kullanmıştır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862320,
+        "Question": "<p>'Harita coğrafi bir gerçekliğin, seçilen özelliklerini ve karakteristik özelliklerini temsil eden, oluşturanın seçimlerini gerçekleştirme amacından beslenen, mekânsal ilişkilerin birincil öneme sahip olduğu durumlarda kullanılmak üzere tasarlanmış, sembolize edilmiş bir temsilidir.'</p> <p>Bu tanım <strong>hangi kurum</strong> tarafından yapılmıştır?</p>",
+        "Answer": "<p><strong>Uluslararası Kartografya Birliği</strong> tarafından yapılan güncel tanımda şöyle denilmiştir: Harita coğrafi bir gerçekliğin, seçilen özelliklerini ve karakteristik özelliklerini temsil eden, oluşturanın seçimlerini gerçekleştirme amacından beslenen, mekânsal ilişkilerin birincil öneme sahip olduğu durumlarda kullanılmak üzere tasarlanmış, sembolize edilmiş bir temsilidir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862321,
+        "Question": "<p>Haritada yansıtılacak alanın büyütme ve küçültme işlemine <strong>ne ad</strong> verilir?</p>",
+        "Answer": "<p>Haritada yansıtılacak alanın büyütme ve küçültme işlemine <strong>ölçekleme</strong> denir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862322,
+        "Question": "<p>Haritanın gösterdiği bilgi <strong>ne</strong> olarak adlandırılır?</p>",
+        "Answer": "<p>Haritanın gösterdiği bilgi <strong>içerik</strong> olarak adlandırılır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862323,
+        "Question": "<p>Haritanın görselleştirilmesi <strong>nelere</strong> bağlı olmalıdır?</p>",
+        "Answer": "<p>Haritanın görselleştirilmesi <strong>hem içeriğin yansıtılmasına hem de haritanın hazırlanma gerekçesine</strong> bağlı olmalıdır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862324,
+        "Question": "<p>Haritanın başlıca <strong>görsel</strong> unsuruna <strong>ne ad</strong> verilir?</p>",
+        "Answer": "<p><strong>Form</strong>, haritanın başlıca görsel unsurudur denilebilir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862325,
+        "Question": "<p>Bilgi panoları <strong>nasıl</strong> bir iletişim mecrasıdır?</p>",
+        "Answer": "<p>Bilgi panoları <strong>taşıdığı içeriğin kullanıcının anlayacağı şekilde görselleştirildiği</strong> bir iletişim mecrasıdır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862326,
+        "Question": "<p>Bilgi panoları ya da bilgilendirme içeren tasarımlar ister bir içeriği isterse bir süreci aktarsınlar genel olarak bir akış bağlamında kurgulanırlar. Bu da tasarımın <strong>hangi yönlere</strong> göre geliştirilmesi sonucunu doğurur?</p>",
+        "Answer": "<p>Bilgi panoları ya da bilgilendirme içeren tasarımlar ister bir içeriği isterse bir süreci aktarsınlar genel olarak bir akış bağlamında kurgulanırlar. Bu da tasarımın<strong> soldan sağa ya da yukardan aşağıya</strong> olarak geliştirilmesi sonucunu doğurur.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862327,
+        "Question": "<p>Bilgi panolarının oluşturulmasında belirleyici unsur <strong>nedir?</strong></p>",
+        "Answer": "<p>Bilgi panolarının oluşturulmasında belirleyici unsur taşıyacağı <strong>içeriktir.</strong></p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862328,
+        "Question": "<p>Bilgi panolarında i<strong>çerik</strong> hangi öğelerden oluşmaktadır?</p>",
+        "Answer": "<p>Daha da detaya inmek gerekirse içerik <strong>başlık, gövde metin, fotoğraf, illüstrasyon, tablo, şema</strong> gibi öğelerden oluşmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862330,
+        "Question": "<p>Bilgi panolarında uzun metinlerin rahat takip edilmesi için <strong>nelerin yapılmas</strong>ı gerekir?</p>",
+        "Answer": "<p>Uzun metinlerin rahat takip edilmesi için <strong>paragraflara bölünmesi, uygun bir yazı karakterinin seçilmesi ve yazı büyüklüklerinin</strong> ayarlanması gerekir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862331,
+        "Question": "<p>Bilgi panolarının tasarımda kullanılacak içerik genellikle hazır olarak bulunmaz. İçeriği sağlamak için <strong>neler</strong> yapılmalıdır?</p>",
+        "Answer": "<p>Tasarımda kullanılacak içerik genellikle hazır olarak bulunmaz. <strong>Kaynaklardan bilgilerin toplanması ve iletişim hedefini karşılayacak şekilde derlenmesi</strong> gerekir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862332,
+        "Question": "<p>Bilgi panolarının bireylerin haber alma özgürlüğüne destek olmak gibi önemli bir misyonu vardır. Bu nedenle sunduğu içeriğin <strong>özellikleri</strong> neler olmalıdır?</p>",
+        "Answer": "<p>Bilgi panolarının bireylerin haber alma özgürlüğüne destek olmak gibi önemli bir misyonu vardır. Bu nedenle sunduğu içeriğin <strong>tartışmasız doğrulukta olması, gerçeği yansıtması ve manipülasyona kapalı</strong> olması gerekmektedir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862333,
+        "Question": "<p>İnternet ortamında kullanılan bilgi panoları <strong>hangi</strong> formatı tercih<br />ederler?</p>",
+        "Answer": "<p>İnternet ortamında kullanılan bilgi panoları <strong>dikey</strong> formatı tercih<br />ederler.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862335,
+        "Question": "<p>Yazı renginin arka plan rengi ile <strong>kontrast</strong> oluşturacak şekilde seçilmesi <strong>neye</strong> yarar?</p>",
+        "Answer": "<p>Yazı renginin arka plan rengi ile kontrast oluşturacak şekilde seçilmesi yazıların <strong>okunabilirliğini</strong> arttırır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862336,
+        "Question": "<p>Pek çok tasarım disiplininin aksine yönlendirme ve işaretleme tasarımı arka planda işini yaptığı ve içinde bulunduğu mekanla şu ya da bu şekilde bütünleştiği için<strong> ne olarak</strong> anılırlar?</p>",
+        "Answer": "<p>Pek çok tasarım disiplininin aksine yönlendirme ve işaretleme tasarımı arka planda işini yaptığı ve içinde bulunduğu mekanla şu ya da bu şekilde bütünleştiği için<strong> “görünmez kılavuz”</strong> olarak anılabilirler.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862337,
+        "Question": "<p>Tarihin ilk profesyonel yönlendirme ve işaretleme tasarımcısı <strong>kimdir?</strong></p>",
+        "Answer": "<p>Tarihin ilk profesyonel yönlendirme ve işaretleme tasarımcısının <strong>Henry Beck</strong> olduğuna dair ortak bir görüş vardır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3862367,
+        "Question": "<p>İletişim kanallarının çoğalması, yaygınlaşması ve ilgili ortamlara erişimin kamusal bir hâle gelmesi neyi sağlamıştır?</p>",
+        "Answer": "<p>İletişim kanallarının çoğalması, yaygınlaşması ve ilgili ortamlara erişimin kamusal bir hâle gelmesi sonuç olarak daha çok içeriğin daha çok kişiye ulaşmasına olanak sağlamıştır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862369,
+        "Question": "<p>İletişim kaynağının hedef kitleye ulaşmasını sağlayan güçlü bir ortamlar nelerdir?</p>",
+        "Answer": "<p>Sergileme ve sunum sistemleri, iletişim kaynağının hedef kitleye ulaşmasını sağlayan güçlü bir ortamdır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862370,
+        "Question": "<p>Sanat eseri ya da kısaca eser neye denir?</p>",
+        "Answer": "<p>Sanatsal bir sürecin sonunda ortaya çıkan ürüne sanat eseri ya da kısaca eser adı verilir.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862371,
+        "Question": "<p>Bir ürünün eser olarak adlandırılabilmesi için neye sahip olması gerekmektedir?</p>",
+        "Answer": "<p>Bir ürünün eser olarak adlandırılabilmesi için birtakım niteliklere sahip olması gerekmektedir. Bunların en başında hususi olarak yapılmış olması ve ortaya çıkartıldığı materyalin kendine aitliği sayılabilir.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862374,
+        "Question": "<p>Bir ürünün ortaya çıkışında ilk etapta işlev ön planda olmasına rağmen daha sonra buna eklemlenen özellikler nelerdir?</p>",
+        "Answer": "<p>Sanayi Devrimi öncesinde de sonrasında bir ürünün ortaya çıkışında ilk etapta işlev ön planda olmuş sonraları kişiselleştirme ve kimlik tamamlayıcısı olma gibi nitelikler de işlevin üzerine ayırt edici olarak eklemlenmiştir.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862375,
+        "Question": "<p>Sergi nedir?</p>",
+        "Answer": "<p>Genel geçer bir tanım yapmak istenirse sergi, açık ya da kapalı mekânda, sınırlı ya da ucu açık bir zaman aralığında belirli bir tema ya da konu bağlamında mevcut ya da yeni ürün ya da eserlerin izleyicilere bizzat görerek deneyimleyebileceği şekilde bir arada sunulmasıdır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862376,
+        "Question": "<p>Sergi kavramı iletişim modelleri açısından incelendiğinde neden tek taraflı bir iletişim modeline sahiptir?</p>",
+        "Answer": "<p>Sergi kavramı iletişim modelleri açısından incelendiğinde tek taraflı bir iletişim modeline sahip olduğu söylenebilir. Şöyle ki serginin çıkış noktası olan sanatçı ya da üretici eserini ya da ürününü izleyiciyle buluşturmakta ve böylece iletişim süreci tamamlanmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862377,
+        "Question": "<p>Sanatsal sergileri ve  fuar benzeri endüstriyel sergileri izleyenler ne gibi bilgilere sahip olurlar?</p>",
+        "Answer": "<p>Sanatsal sergileri izlemeye gelenler genel kültür, toplumsal olaylar, hayata bakış kazandıran vb. içeriklerle karşılaşarak bu içeriklerden beslenirler. Bununla birlikte fuar benzeri endüstriyel sergileri izleyenler geleceğe ilişkin vizyon, yeni bir ticari açılım vb. konularında bilgi sahibi olurlar.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862378,
+        "Question": "<p>Ticari sergilerin sağladığı olanaklar nelerdir?.</p>",
+        "Answer": "<p>Ticari sergiler, çeşitli sektörlerden ürün ve hizmetlerin gösterime çıktığı mekânlardır. Bu etkinlikler, şirketlere yeni ürünler tanıtmaları, potansiyel müşteriler oluşturmaları ve potansiyel müşterilerle ağ kurmaları için bir platform sağlar.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862379,
+        "Question": "<p>Biyoloji, fizik, kimya ve teknoloji gibi çeşitli konuları kapsayan sergilere ne ad verilir?</p>",
+        "Answer": "<p>Bilim sergileri, ziyaretçileri bilimsel kavramlar ve keşiflerle meşgul etmek için etkileşimli ekranlar ve uygulamalı etkinlikler içeren sergilerdir. Bu sergiler biyoloji, fizik, kimya ve teknoloji gibi çeşitli konuları kapsamaktadır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862380,
+        "Question": "<p>Pek çok karma sergide, sergileme sistemine karar veren kişiye/kişilere ne ad verilir?</p>",
+        "Answer": "<p>Pek çok karma sergide, eserlerin nasıl yerleştirileceğine sergi küratörleri karar verirler.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862381,
+        "Question": "<p>Ticari sergiler ya da fuarlarda gösterilen ürün ya da anlatılacak kavramlar aynı olsa bile sergilenecek ürünlere ait sistemler neden değişkendir?</p>",
+        "Answer": "<p>Gösterilen ürün ve anlatılacak kavramlar aynı olsa dahi A fuarı için yapılan hazırlığın B fuarına taşınması çoğu zaman olanaklı olmamaktadır. Sanatsal sergilerde olduğu gibi birebir eser taşıma eylemi söz konusu değildir. Sergilenecek ürünler taşınabilmekte ancak ürünün tanıtımı için yapılan tasarımlar ile sergi için yapılan üç boyutlu çalışmalar aktarılamamaktadır. Her fuar alanının ölçüsü, bulunduğu konumu ve ayrıca uyulması gereken kurallar birbirinden farklı olabilir</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862382,
+        "Question": "<p>Sanat sergileri izleyenlere ne gibi katkılar sağlar?</p>",
+        "Answer": "<p>Sanat sergileri, farklı geçmişlere sahip insanları sanatla iç içe olmaları için bir araya getirerek kültürel ve entelektüel diyaloğu da kolaylaştırır. İnsanların farklı fikirleri ve bakış açılarını tartışıp keşfetmeleri için bir alan sağlayarak eleştirel düşünmeyi ve yaratıcılığı teşvik eder.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862383,
+        "Question": "<p>Sunum nedir?</p>",
+        "Answer": "<p>Sunum, en yalın biçimiyle bir eser, ürün ya da fikrin izleyiciye/ kullanıcıya çeşitli iletişim kanallarıyla aktarımıdır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862384,
+        "Question": "<p>Portfolyo nedir?</p>",
+        "Answer": "<p>Sunum ya da sunumlara yönelik önceden hazırlanmış, tek başına çalışan, esnek ve geliştirilebilme özelliği bulunan, farklı boyutta materyallerden hazırlanan yapılara portfolyo sistemi denir.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862385,
+        "Question": "<p>Sergi mekanının nasıl olması gerektiğine dair ilk düşünce ve görüşlere göre Beyaz Küp (White Cube) olarak adlandırılan yaklaşımda galeri nasıl tanımlanır?</p>",
+        "Answer": "<p>Sergi mekanının nasıl olması gerektiğine dair ilk düşünce ve görüşler Londra’da 19. yüzyılın sonlarında açılan FAS adlı galeride vücut bulmuştur. Beyaz Küp (White Cube) olarak adlandırılan bu yaklaşımda galeri dikdörtgen formda düz ve beyaz boyalı duvarlara sahip, tavandan aydınlatılan bir mekân olarak tanımlanmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862386,
+        "Question": "<p>“antika dolapları” ya da “merak dolapları” olarak da adlandırılan bireysel sergilemenin ilk örnekleri kimler tarafından ve ne zaman oluşturulmuştur?</p>",
+        "Answer": "<p>Bireysel sergilemeye ilk örnek 17. yüzyıl sonlarında görülen “antika dolapları”dır. Bazı kaynaklarda “merak dolapları” olarak da adlandırılan bu yapılar yukarıda bahsedilen varlıklı ve nüfuzlu kişilerin bireysel meraklarını misafirlerine gösterdikleri örnek çalışmalar olmuştur.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862387,
+        "Question": "<p>“bir başkasını” doğru bilgilendirmeyi amaçlayan tematik sergilemelerin ilk örnekleri ne zaman ve nasıl ortaya çıkmıştır?</p>",
+        "Answer": "<p>19. yüzyılın sonlarına gelindiğinde yaşanan gelişmeler yeni bir tasarım dalının doğuşuna zemin hazırlamıştır. Endüstrileşmeyle birlikte başlayan dünya fuarları, her alanda olduğu gibi tasarım ve sanat alanında da pek çok şeyi değiştirmiştir. Ülkeleri ilk kez bir araya getiren bu fuarlarda her ülke kendini en iyi şekilde tanıtıp ticari ve kültürel ilişkiler kurmak istemekteydi. Yapılan iş bir tür “sergileme”ydi ancak bu sergilemenin salt nesnelerle yeterli olmayacağı öngörülmüştü ki yanında bir takım kavramsal görselleştirmeler de düşünülmüştü. Asıl amaç “bir başkasını” doğru bilgilendirmekti. Bu fuarlar sayesinde günümüz sergileme tasarımının öncü çalışmaları içerisinde yer alan tematik sergilemelerin ilk örnekleri, 19. yüzyılın sonlarında ve 20. yüzyıl başlarında ortaya çıkmıştır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862388,
+        "Question": "<p> Sergileme  tasarımlarının geldiği noktada müzelerin birer \"aktivite merkezi\"ne dönüşmesini sağlayan unsurlar nelerdir? </p>",
+        "Answer": "<p>Önceden koleksiyon uzmanı, müze müdürü gibi kişiler sergileme hakkında karar vericiyken günümüzde her iki sürece de tasarımcının doğrudan katılımı söz konusudur. JoAnn Dickey dediği gibi “müze ve sergi küratörlüğü değişmektedir”. Jan Lorenc, müzelerin artık objelerle tanımlanan yerler olmaktan çıktığını, bilim müzesi, medya müzesi gibi yeniliklerle hızla yükselen bir “aktivite merkezi”ne dönüşmeye başladığını eklemektedir </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862389,
+        "Question": "<p>Sergi ve sergileme arasındaki temel fark nedir?</p>",
+        "Answer": "<p>Bu durumda birbirine benzer özellikleri olan iki eylem olan sergi ve sergileme arasındaki temel fark, sergilemenin hedef kitle, içerik, sergi mekânı gibi temel öğelere göre yazılmış bir anlatısının olmasıdır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862390,
+        "Question": "<p>Grafik tasarım ile sergileme tasarımı arasındaki fark nedir?</p>",
+        "Answer": "<p>Bununla birlikte grafik tasarımdan farklı olarak sergileme tasarımı üç boyutlu nesneler ya da üç boyutlu olarak tasarlanmış grafikler içerir. İzleyicilerin dikkatini sürekli çekmek için kâğıt üzerindeki grafiklerden farklı olarak duvar üzerinde de üç boyut etkisi verebilecek hareketlendirmeler yapılır</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3862391,
+        "Question": "<p>Etkili bir kurumsal kimlik görsel tasarımı için esas olan nedir?</p>",
+        "Answer": "<p>Etkili bir kurumsal kimlik görsel tasarımı için kurum kültürünü taşıyan kavramların doğru görsel taşıyıcılara yüklenmesi ve sistemli hareket taşıması esastır.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862392,
+        "Question": "<p>Kurumsal kimlik (Corporate Identity), tasarımında kavramlar ve görseller arasında sistematik köprüler kurulmasında önemli bir rol oynayan uzmana ne ad verilir?</p>",
+        "Answer": "                            <p>Kurumsal kimlik (Corporate Identity), tasarımında grafik tasarımcı, kavramlar ve görseller arasında sistematik köprüler kurulmasında önemli bir rol oynamaktadır.</p>                        ",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862393,
+        "Question": "<p>Kurumsal kimlik çalışmalarının sistemli bir şekilde yürütülmesi neden gerekir?</p>",
+        "Answer": "<p>Bir markanın rekabet avantajı elde etmesi, paydaşları ile iletişim kurması, prestij kazanması ve çalışanlarında ciddiyet duygusunu geliştirmesi için öncelikle kurumsal kimlik çalışmalarının sistemli bir şekilde yürütülmesi gerekmektedir.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862394,
+        "Question": "<p>Kurumsal kimlik nedir?</p>",
+        "Answer": "<p>Kurumsal Kimlik: Bir kuruluşun kurum kültürü, kurum felsefesi gibi soyut niteliklerinin sistematik bir iletişimle görsel ve fiziksel davranışlara dönüşmesidir.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862395,
+        "Question": "<p>Kurum kimliği nedir?</p>",
+        "Answer": "<p>1970’li yıllarda bir tasarım anlayışı olarak ortaya çıkan kurum kimliği, stratejik yönetim, halkla ilişkiler, pazarlama, örgütsel davranış, psikoloji, etnografiyi ve grafik tasarımı kapsayan, disiplinlerarası ve bütünleşik pazarlama iletişiminin önemli uygulama alanıdır.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862396,
+        "Question": "<p>Kurum kimliği tasarımı nedir?</p>",
+        "Answer": "<p>Kurum kimliği tasarımı, kurumun neyi nasıl yaptığını, iletişim elemanları etkisinden yararlanarak oluşturulan sistemdir.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862397,
+        "Question": "<p>Kurumun özelliklerini, kültürünü, hedeferini, davranışlarını, rekabet gücünü arttıran, saygınlık kazandıran, çalışanlar ve hedef kitlesinde aidiyet duygusu geliştiren görsel ögelerin sitematik düzenlenmesine ne ad verilir?</p>",
+        "Answer": "<p>Kurum kimliği, özelliklerini, kültürünü, hedeferini, davranışlarını, rekabet gücünü arttıran, saygınlık kazandıran, çalışanlar ve hedef kitlesinde aidiyet duygusu geliştiren görsel ögelerin sitematik düzenlenmesidir</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862398,
+        "Question": "<p>Kurumun oluşturmak istediği ile hedef kitlede oluşan algının aynı noktada buluşmasıyla ne elde edilir?</p>",
+        "Answer": "<p>Kurumun oluşturmak istediği ile hedef kitlede oluşan algının aynı noktada buluşması kazanca ve kurumsal üne dönüşür.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862399,
+        "Question": "<p>Kurumsal ün ne anlamına gelir?</p>",
+        "Answer": "<p>Kurumsal ün hedef kitlenen kurumdan beklentilerinin ve güveninin artması anlamına gelir.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862400,
+        "Question": "<p>Kurum Kültürü nasıl oluşur?</p>",
+        "Answer": "<p>Kurum Kültürü: Kurumun oluşturduğu davranış biçimleri, ortak değerleri, inançları gelenekleri.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862401,
+        "Question": "<p>Bir kurumun kimliğini oluşturma ya da yenileme ihtiyacına sebep olan durumlar nelerdir?</p>",
+        "Answer": "<p>Bir kurumun kimliğini oluşturma/yenileme ihtiyaçları;</p> <p>• yeni kurulmuş olma,</p> <p>• yenilenme ihtiyacı</p> <p>• yeni ürün/hizmet eklenmesi,</p> <p>• yönetim değişimi,</p> <p>• kurum evlilikleri,</p> <p>gibi durumlardan kaynaklanıyor olabilir.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862402,
+        "Question": "<p>Monolitik kimlik nedir?</p>",
+        "Answer": "<p>Monolitik kimlik: Kurumun tüm iletişiminde tek isim ve görsel karakter kullanmasıdır. Birden fazla yapıda varlığını sürdüren kurumun tüm alt kurumları için aynı kurum kimliğini kullanmasıdır. TRT’nin tüm faaliyet alanlarında TRT kısaltmasını kullanması buna örnek verilebilir (TRT1, TRT2, TRT3, TRTfm, TRT Çocuk…).</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862403,
+        "Question": "<p>Desteklenmiş kimlik nedir?</p>",
+        "Answer": "<p>Desteklenmiş kimlik: Kurumun sahip farklı faaliyet alanlarını farklı isimlerle oluştururken kendi ismi ve kimliğiyle de desteklemesidir. Bir kurum bir çok alanda birden fazla alt kurumla faaliyet gösterebilir. Bu kurum yapılarında farklı isim aynı görsel yapı kullanılır. Örneğin Sabancı Holding’in SA görsel yapısını tüm alt şirketlerinde kullanması gibi...</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862404,
+        "Question": "<p>Marka kimliği nedir?</p>",
+        "Answer": "<p>Marka kimliği: Marka kimliği bir kurumun birbiriyle ilgisi olmayan markalara sahip olmasıdır (Okay, 2009). Bu tür kurumlarda her bir alt kurum birbirinden bağımsız olarak hareket eder. Bu tür kurumların kimlikleri birbirine doğrudan etki etmez.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862405,
+        "Question": "<p>Kurum kimliği tasarım sistemini oluştururken gerekli olan aşamalar nelerdir?</p>",
+        "Answer": "<p>Kurum kimliği tasarım sistemini oluştururken bu dört temel aşama zincirleme bir ilişkiye sahiptir. Kurum felsefesi, davranışını, davranışı iletişimini, iletişimi de tasarımını doğrudan etki eder.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862406,
+        "Question": "<p>Kurumun kültürü, değerleri, tutumları, ilkeleri, amacı ve tarihini meydana getiren bütüne ne ad verilir?</p>",
+        "Answer": "<p>Kurumsal Felsefe: Kurumun kültürü, değerleri, tutumları, ilkeleri, amacı ve tarihinden meydana gelmektedir.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862407,
+        "Question": "<p>Kurum kimliği tasarımcılarının dikkate alması gereken unsurlar nelerdir?</p>",
+        "Answer": "<p>Kurum kimliği tasarımcıları kararlarını kurumu ölçüp, analiz ederek vermelidir. Kurum kimliği aşamaları zinciri, kurum kimliği tasarımının olmazsa olmazıdır.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862408,
+        "Question": "<p>Kurumsal kimlik bileşeni nedir?</p>",
+        "Answer": "<p>Bir kurumun iç ve dış iletişiminde kullandığı her bir grafik ürün tasarımı kurumsal kimlik bileşenidir</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862409,
+        "Question": "<p>Kurum kimliğinin bileşenleri genel olarak nelerdir?</p>",
+        "Answer": "<p>Kurum kimliğinin bileşenleri kurumun ihtiyaçlarına göre değişken olup genel olarak ortak kullanılanlar aşağıda sıralanmıştır:</p> <p>• Amblem / Logotayp ve kullanım standartları</p> <p>• Ürünler / hizmetler ve ambalajları</p> <p>• Antetli kağıt, kartvizit, zarf, dosya, kutlama/davet kartları, çıkartma, flama, ajanda tasarımı gibi genel kırtasiye ürünleri tasarımı</p> <p>• Tabelalar, kurum içi ve dışı yönlendirme tasarımları</p> <p>• Muhasebe belgelerinin tasarımı (makbuz, fatura, irsaliye...)</p> <p>• Kurum çalışanları kıyafet ve çalışma aksesuar tasarımları</p> <p>• Kurumsal araç giydirmeleri</p> <p>• Kurumsal mimari ve iç mimarlık tasarımı</p> <p>• Kurumsal yayınlar, tanıtım yayınları, rapor tasarımı (Katalog, kitap, gazete, dergi, broşür, flyer...)</p> <p>• Sergiler, fuar standı, sunum uygulamaları tasarımı</p> <p>• Sanal ortam uygulamaları tasarımı (Akıllı telefon uygulamaları, sosyal ortam postları, banner tasarımı vb…)</p> <p>• Kurumsal kimlik kullanım standartları kılavuzu tasarımı</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862410,
+        "Question": "<p>Rebus nedir?</p>",
+        "Answer": "<p>Rebus: Harfleri temsil eden resimsel elemanlardır.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862532,
+        "Question": "<p>Kurum kimliği oluşumunda ve oluşturmada ismin ne gibi özellikleri vardır?</p>",
+        "Answer": "<p>Kurum kimliği oluşumunda ve oluşturmada ismin özellikleri şu şekilde sıralanabilir (Erdil ve Uzun, 2009: 35-36; Aaker, 2009: 222-223):</p> <p>• İsim kuruma değer katar ve ilk iletişimi sağlar.</p> <p>• Kısa, basit, okunması ve söylenmesi kolay, kulağa hoş gelmelidir.</p> <p>• Ürünü hatırlatıcı ve dikkat çekici bir etkiye sahip olmalıdır.</p> <p>• Rakiplerinden ayırt edilmelidir, kuruma aidiyet taşımalı ve imajını yansıtmalıdır.</p> <p>• Sözlük anlamı ve çağrışım yaptığı kavram tüketiciler tarafından sevilir, anlaşılır ve olumlu olmalıdır.</p> <p>• Farklı dillere kolayca çevrilebilmeli ve olumsuz olmamalıdır.</p> <p>• Yasal olarak korunmalıdır.</p> <p>• Tüm kurumsal kimlik ögelerinde ses uyumu ve telaffuzu elverişli olmalıdır.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862533,
+        "Question": "<p>Kurum kimliğinin temel öğeleri olan amblem ve logo tasarımı nasıl olmalıdır?</p>",
+        "Answer": "<p>Kurum kimliğinin temel öğeleri olan amblem ve logo, kuruluşun ya da ürünün özelliklerini yansıtmalı, özgün olmalı, renk ve biçim olarak bütünlük içinde kullanılmalı ve okunabilir olmalıdır.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862534,
+        "Question": "<p>Logo nedir?</p>",
+        "Answer": "<p>Logo (Logotype) ise pazarda var olan ürünleri, kuruluşları ya da hizmetleri birbirinden ayırt etmeyi sağlayan bir ya da birkaç tipografik karakterden meydana gelen işaretleme olarak tanımlanmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862535,
+        "Question": "<p>Kurumsal sembol nedir?</p>",
+        "Answer": "<p>Kurumsal sembol: Bir kurumu, ürünü ya da hizmeti simgelemesi amacıyla sistematik olarak kullanılan görsel eleman.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862536,
+        "Question": "<p>Logotayp nedir?</p>",
+        "Answer": "<p>Logotayp: Bir kurumu, ürünü ya da hizmeti simgelemesi amacıyla sistematik olarak kullanılan ve genellikle kurumun adı olan tipografik eleman.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862537,
+        "Question": "<p>Bir ürünün veya markanın iddiasını ve felsefesini ortaya koyan isimden sonra gelen en önemli iletişim araçlarından biri olan, ürün ya da hizmetle ilgili olarak yaratıcı fikrin kısa ve yalın bir şekilde sunulması olarak bilinen slogan, markanın akılda kalıcılığını sağlamak ve marka konumunu pekiştirmek amacıyla tüm iletişim araçlarında sürekli kullanılan çarpıcı söze ne ad verilir?</p>",
+        "Answer": "<p>Slogan ise bir ürünün veya markanın iddiasını ve felsefesini ortaya koyan isimden sonra en önemli iletişim araçlarından biridir. Ürün ya da hizmetle ilgili olarak yaratıcı fikrin kısa ve yalın bir şekilde sunulması olarak bilinen slogan, markanın akılda kalıcılığını sağlamak ve marka konumunu pekiştirmek amacıyla tüm iletişim araçlarında sürekli kullanılan çarpıcı sözdür.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862538,
+        "Question": "<p>Bir grafik tasarımcının sembol tasarımında başarılı olabilmesi için, hangi noktaları göz önünde bulundurması gerekmektedir?</p>",
+        "Answer": "<p>Bir grafik tasarımcının sembol tasarımında başarılı olabilmesi için, bazı noktaları göz önünde bulundurması gerekmektedir: Bunlar;</p> <p>• Negatif etkiden sakınmalı,</p> <p>• Pozitif etki uyandırmalı,</p> <p>• İş stratejisi planlamayla ilgili soruları cevaplamalı,</p> <p>• Şirketin stili ve teknik ihtiyaçlarını birarada tutmalı,</p> <p>• Kuruma ait olmalı, benzeri olmamalı,</p> <p>• Süresiz olmalı (en azından 10-25 yıl sürebilmeli),</p> <p>• Uygulamada esnekliğe izin vermeli,</p> <p>• Kolay ve kullanması ucuz olmalı şeklinde sıralanabilir.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862539,
+        "Question": "<p>Ambalajın geleneksel olarak ürünü koruma işlevinin yanı sıra diğer önemli işlevleri nelerdir?</p>",
+        "Answer": "<p>Ambalajın geleneksel olarak ürünü koruma işlevinin yanında bazı diğer önemli işlevleri ise şu şekilde sıralanabilir (Odabaşı, 2003: 243):</p> <p>• Tüketici ile iletişim kurar, dikkat çeker, farklılık yaratır.</p> <p>• Kişisel satışın yerine işlev görür ve bu haliyle “sessiz bir satış elemanı”dır.</p> <p>• Ürünün raftaki görünürlüğünü artırır ve kendini sattırmasına olanak sağlar.</p> <p>• Yeni kullanıcıları özgün şekil ve büyüklüğüyle cezbeder.</p> <p>• Satın alma sonrasında kullanma yararı sağlar.</p> <p>• Yaratıcılığı yansıtarak imaj geliştirmeye yardımcı olur.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862540,
+        "Question": "<p>Bir kurumsal kimlik tasarım kılavuzu hangi bölümlerden oluşur?</p>",
+        "Answer": "<p>Bir kurumsal kimlik tasarım kılavuzu genellikle aşağıdaki bölümlerden oluşur:</p> <p>• Kimlik genel giriş yazısı</p> <p>• Kurumsal sembol hikâyesi ve kullanım standartları</p> <p>• Kurumsal yazı karakterleri • Kurumsal kırtasiye ürünleri</p> <p>• Kurum renkleri (CMYK, RGB, Pantone…)</p> <p>• Kurumsal iç ve dış yönlendirmeleri</p> <p>• Kurumsal ürün kimlikleri</p> <p>• Kurumsal araç ve çalışan kıyafetleri</p> <p>• Fuar ve sergilerde kullanılacak grafik sistemleri</p> <p>• Kurumsal yayınlar</p> <p>• Kurumsal web sitesi</p> <p>• Kurumsal sosyal ortam tasarımları</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862541,
+        "Question": "<p>Yeniden markalamak nedir?</p>",
+        "Answer": "<p>Yeniden markalamak, bir kurumun hedef kitlesinin, rakiplerin ve diğer paydaşların zihninde yeni bir kimlik geliştirmek amacıyla yerleşik bir marka için yeni bir isim, terim, sembol, tasarım, konsept veya bunların kombinasyonunun oluşturulduğu bir iletişim stratejisidir.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3862497,
+        "Question": "<p>Alman ekonomist ve sosyolog Max Weber bürokrasiyi nasıl tanımlanmaktadır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Alman ekonomist ve sosyolog Max Weber  göre bürokrasi, iş bölümü (görev dağılımı), hiyerarşi, yazılı kurallar, yapılan çalışmaların ve yazışmaların dosyalanması, gayrişahsilik, belli bir disipline bağlı olarak kurulmuş olan bir yapı ve resmî olarak görevini yürüten bir örgüt biçimidir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862498,
+        "Question": "<p>“Bürokrasi” terimi ilk defa kaç yılında, kim tarafından hangi anlamda kullanılmıştır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Fransızcadan türeyen “bürokrasi” terimi ilk defa 1745’te Fransız fizyokrat ve iktisatçı Vincent De Gournay tarafından, “büro” (daire, memurlar) ve “krasi” (güç, iktidar) kelimelerinin birleşmesinden<br />meydana gelerek “büroların iktidarı” anlamında kullanılmıştır.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862499,
+        "Question": "<p>Bürokratik bir yapının içinde yazılı iletişimi tercih etmenin başlıca nedenleri nelerdir?</p>",
+        "Answer": "<p>Bürokratik bir yapının içinde yazılı iletişimi tercih etmenin başlıca nedenleri şu şekilde sıralanabilir:<br />a. Yazılı belgenin arşiv değeri vardır ve daha kalıcıdır.<br />b. Konu bir bütünlük içinde ifade edilir ve iletilebilir.<br />c Daha resmidir ve yetkiyi daha fazla hissettirir.<br />d. Kişilerin gidemeyeceği yerlere gidebilir.<br />e. Zaman açısından daha elverişlidir; uygun olunduğu zaman yazılabilir ve okunabilir,<br />gerektiğinde üzerinde değişiklikler yapılabilir.<br />f. Kurumun konuyla yakından ilgilendiğini gösterir (Özdemirci, 1996; (Özdemirci &amp; Odabaş, 2005, s. 33).</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862500,
+        "Question": "<p>Kurum ve kuruluşlarda etkin ve verimli haberleşme araçlarının en önemlileri hangileridir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Kurum ve kuruluşlarda  özellikle yazışmalar, formlar, raporlar ve talimatlar, kurum ve kuruluşların yaptıkları faaliyetleri belgeleyen birinci el kaynak olma özellikleriyle kurumun ürettiği belgelerin büyük bir çoğunluğunu oluşturan etkin ve verimli haberleşme araçlarının en önemlileri olarak göze çarpmaktadır (Özdemirci &amp; Odabaş, 2005, s. 33).</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862501,
+        "Question": "<p style=\"text-align: justify;\">Tasarımda hiyerarşi, görsel ögelerin önem sırasının belirlenmesi ve buna bağlı olarak bu ögelerin  birincil, ikincil ve üçüncül olarak dizilmesiyle kurulmaktadır. Buna göre resmi yazışmalardaki hiyerarşik sıralama nasıl olmalıdır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Her resmî yazışmanın içeriğindeki tüm bilgi hiyerarşik bir sıra gözetilerek üretilmektedir. İlk sırada başlık ve muhatap, daha sonra tarih sayı varsa ilgi, daha sonra imzacı, metin ve diğer detayların bilgisi verilmektedir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862502,
+        "Question": "<p>Gestalt Teorisi nasıl tanımlanmaktadır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Gestalt Teorisi, 1900’lerde Avusturyalı veAlman psikologların çalışmalarıyla ortaya çıkan, görsel bilginin algılanması, sınıflandırılmasıve organizasyonunu bilimsel olarak açıklayan tasarım problemlerinin çözümünde de sıklıkla kullanılan kuramların bütününe verilen isimdir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862503,
+        "Question": "<p>Gestalt Teorisine göre tasarım ve görsel sanatlar alanlarında sıklıkla kullanılan tasarım ilkeleri nelerdir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Gestalt yasalarından bazılarının tasarım ve görsel sanatlar alanlarında sıklıkla kullanıldığını görmekteyiz, bunlar yakınlık (proximity), benzerlik (similarity), devamlılık (continuity), kapalılık (closure) ve figür-zemin (figüreground) ilkeleridir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862504,
+        "Question": "<p>Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik’e göre, resmî yazışmalarda kullanılacak yazı karakteri ve büyüklükleri nelerdir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Resmî yazışmalarda kullanılacak yazı karakteri ve büyüklükleri ise Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik’e göre “Hazırlanan belgelerde “Times New Roman” veya “Arial” yazı tipi normal yazı stilinde kullanılır. Harf büyüklüğünün Times New Roman için 12 punto, Arial için 11 punto olması esastır. Ancak gerekli hâllerde “yazı alanında harf büyüklüğü 9 puntoya, iletişim bilgileri kısmında ise 8 puntoya kadar düşürülebilir.” şeklinde ifade edilmiştir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862505,
+        "Question": "<p>Yazı tasarımcısı ve tipograf arasındaki temel fark nasıl açıklanmaktadır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Yazı tasarımcısı, yazı karakterlerini tasarlayan kişidir. Bu, bir tipografla, yani yazı karakterleriyle tasarım yapan biriyle karıştırılmamalıdır. Tipograf, yazıyla tasarım yapan ve tipografi pratiği hakkında iyi bir çalışma bilgisine sahip olan kişidir. Yazı karakterlerini tasarlayan tipograf değildir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862506,
+        "Question": "<p>Belgelerin dijital ortamlara aktarılmasının avantajları nelerdir?</p>",
+        "Answer": "<p>Belgelerin dijital ortamlara aktarılmasının avantajları şu maddelerle açıklanabilir:<br />• Yapılan işlemlerin süresi azalır.<br />• Bilgi ve belgeye daha hızlı erişilir.<br />• Belgelere çok fazla anahtar terim kullanarak erişim sağlanır.<br />• Belgeler daha güvenli şartlar altında depolanır.<br />• Belgeler istenilen sayıda çoğaltılabilir (Katuu, 2000: 34; Özdemirci &amp; Odabaş, 2005: 115).</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862507,
+        "Question": "<p>EBYS'ler tasarlanırken hangi özellikler dikkate alınmalıdır?</p>",
+        "Answer": "<p>Bu nedenle EBYS’ler, belgenin yaşam döngüsü boyunca aşağıdaki özellikleri korunacak şekilde tasarlanmalıdır.<br />• Tanımlanabilirlik<br />• Entelektüel, tanımsal ve fiziksel bütünlük<br />• Onay ve kayıt bilgisi<br />• Sunum ve form özellikleri<br />• Belgelerin üretimindeki kurumsal, fonksiyonel ilişki ve mülkiyet zinciri<br />• Teknolojik özellikler (TS 13298, 2008; (Arıcı &amp; Kandur, 2015, s. 69).</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862508,
+        "Question": "<p>Tasarımlarına göre formlar hangileridir?</p>",
+        "Answer": "<p>Tasarımlarına göre formlar çizgi formlar, kutu formlar, yazışma formları ve karma formlardır (Benligiray & Ağlargöz, 2018, s. 141).</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862509,
+        "Question": "<p>Aynı içeriğin yazımdaki tekrarını önleyerek işleyişe hız kazandırmak adına üretilmiş formlar hangi form tasarım türü olarak ifade edilmektedir?</p>",
+        "Answer": "<p>Yazışma formları, aynı içeriğin yazımdaki tekrarını önleyerek işleyişe hız kazandırmak adına üretilmiş<br />formlardır.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862510,
+        "Question": "<p>Ülkemizde bir taşınmazın mülkiyet hakkını belgelemek için kullanılan tapu senedi hangi form türüne girmektedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Ülkemizde bir taşınmazın mülkiyet hakkını belgelemek için kullanılan tapu senedi aslında kutu form<br />şeklinde tasarlanmıştır.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862511,
+        "Question": "<p>Bir formu tasarlamadan önce gerekli olan bilgiler nelerdir?</p>",
+        "Answer": "<p>Bir form tasarlanmadan önce formun amacı, doldurulacağı, gönderileceği, dosyalanacağı, tasnif edileceği ve ele alınacağı koşullara ilişkin güncel bilgiler ve gerçekler araştırılmalıdır.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862512,
+        "Question": "<p>Kullanıcı için herhangi bir belgenin (kamu belgesinin) birincil arzu edilen özelliği hangisidir?</p>",
+        "Answer": "<p>Herhangi bir belgenin birincil arzu edilen özelliği, kullanıcı için güvenilirliğidir. Sadece net ve otoriter<br />olmamalı, aynı zamanda net ve otoriter olarak hissettirmelidir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862513,
+        "Question": "<p>Form kullanımında form dilinin davetkar bir üslupla tasarlanması ve formun amacına ulaşması için tasarımcıya düşen görev nedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Form kullanımında, yazılı iletişimin bir sonucu olarak uygulayıcı form kullanıcısı üzerinde baskın rol oynar. Bu nedenle form dilinin kullanıcı için davetkar bir üslupla tasarlanması formun amacına ulaşması yönünde ilk adım sayılabilir. Bu konuda kimi zaman tasarımcının sorumluluk üstlenmesi ya da konunun önemi üzerinde farkındalık oluşturması gerekmektedir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862514,
+        "Question": "<p>Bir tipografi tasarımında okunur ya da okuturluğa katkı sunan yazı karakteri dışındaki bileşenler nelerdir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Yazı karakteri seçiminin yanında pek çok bileşen bir arada düşünülmelidir. Renk, font büyüklüğü, arka plan, espas, satır arası boşlukları vehatta basılacak kâğıdın türü ve dokusu gibi pek çok özelliğe bağlı olarak okunurluk ve okuturluk seviyeleri değişebilmektedir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862515,
+        "Question": "<p style=\"text-align: justify;\">Okunur ve okutur yazı karakterlerinin tasarımdaki yerleri hangi özelliğine göre değişiklik göstermektedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Yüksek düzeyde okunur olan bir yazı karakteri metin dizgisinde aynı oranda okutur olmayabilir. Dolayısıyla okunur ve okutur yazı karakterlerinin tasarımdaki yerleri işlevlerine göre değişiklik göstermektedir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862516,
+        "Question": "<p style=\"text-align: justify;\">İnsan-bilgisayar etkileşiminin ilk günlerinde ortaya atılan \"etkileşim maliyeti\" kavramı nasıl tanımlanmaktadır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">İnsan-bilgisayar etkileşiminin ilk günlerinde ortaya atılan etkileşim maliyeti kavramı, kullanıcı deneyimi konusunda rehberlik sağlayan öncü kullanıcı deneyimi (UX) araştırma ve danışmanlık firması Nielsen Norman Group’tan Raluca Budiu’ye göre, kullanıcıların hedeflerine ulaşmak için bir ürünle etkileşime girerken sarf etmeleri gereken zihinsel ve fiziksel çabaların toplamıdır (http-5).</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3862524,
+        "Question": "<p style=\"text-align: justify;\">XEROX şirketinin 70’lerin başında kurduğu PARC laboratuvarlarında kullanıma giren tasarım problemleri ve çözümleri nelerdir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Tüm bu donanımsal ya da yazılıma dair buluşların yanında grafik pencereler, arabirimler, ikonlar da ilk kez bu laboratuvarlarda kullanıma giren tasarım problemleri ve çözümleri olmuşlardır (Roelof PIETERS, 2016).</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862525,
+        "Question": "<p>İnsan-Bilgisayar Etkileşimi araştırma (HCI) alanının temel amacı nedir?</p>",
+        "Answer": "<p>İnsan-Bilgisayar Etkileşimi araştırma (HCI) alanının temel amacı makineler ve insanlar arasında olan tüm grafik ve fiziksel etkileşimleri verimli, kolay ve sezgisel hale getirmektir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862526,
+        "Question": "<p style=\"text-align: justify;\">Grafik ara yüz tasarımlarında tasarımcılar için öğrenme ve adaptasyon eğrisini etkileyen faktörler nelerdir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Bu öğrenme ve adaptasyon eğrisini etkileyen iki önemli faktör bulunmaktadır. Bunlardan ilki insan bilgisayar etkileşimi bilim dalı ve kullanışlılık testleri tarafından sürekli sağlanan veri akışının yıllar içerisindeki oluşturduğu bilgi kütüphanesidir. Adaptasyon eğrisini etkileyen ikinci özellikle ise ekran özelinde çalışan tasarım sistemlerinin temel çalışma odaklarından biri olan bilişsel yükün optimizasyonudur.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862527,
+        "Question": "<p>ISO7000 nasıl tanımlanmaktadır?</p>",
+        "Answer": "<p>ISO7000, tüm dünyada ortak bir sembol dili oluşturmak adıyla tasarlanmış oldukça geniş kullanım alanlarına yayılan uluslararası iletişim sistemidir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862528,
+        "Question": "<p> Flat (Düz) tasarımın yarattığı yenilikçi tasarım anlayışının sağladığı yararlar nelerdir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Flat (Düz) Tasarım, arayüzlerin grafik sistemlerinin dönüşmesinde büyük rol üstlenmiş, aynı zamanda Google (Material Design) ve Apple (Human Interface Guidelines) gibi büyük sistem üreticileri Flat tasarımın ilkelerini hala işletim sistemi arayüzlerinin ve tasarım sistemlerinin bel kemiği olarak kullanarak temel tasarım prensiplerini ve kurallarını bu sistem etrafında farklılaştırmıştır.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862529,
+        "Question": "<p>“Sağlarlık” (Affordance) terimi ilk olarak kim tarafından ve nasıl kullanılmıştır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">“Sağlarlık” (Affordance) terimi ilk olarak psikolog James Gibson tarafından görsel algıyı araştırırken ortaya atıldı. Gibson, bu terimi, insanların bir nesneyle etkileşime girerken, genellikle bu nesne hakkındaki algılarına veya bilgilerine dayanarak mümkün olduğunu düşündükleri eylemleri tanımlamak için kullandı.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862530,
+        "Question": "<p>Tasarım sistemleri nasıl tanımlanmaktadır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Tasarımda deneyim yaklaşımının yaratıcısı ve öncüsü Nielsen ve Norman Grup ekrana yönelik tasarım sistemlerini şöyle tanımlamaktadır: “Tasarım sistemi, farklı sayfalar ve kanallar arasında paylaşılan bir dil ve görsel tutarlılık oluştururken fazlalığı azaltarak tasarımı büyük ölçekte yönetmeye yarayan bir dizi standarttır.”</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862531,
+        "Question": "<p>Bir tasarım sistemindeki bileşenler hangi başlıklar altında sınıflandırılabilir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Bu bağlamda bir tasarım sistemine baktığımızda, tasarımcıların ve geliştiricilerin dijital ürünler oluşturmak ve ölçeklendirmek için ihtiyaç duyduğu tüm bileşenleri içerir. Sistem öğelerine kısaca göz atıldığında şu ana başlıklar altında toplanabilir;<br />• Marka yönergeleri<br />• Erişilebilirlik yönergeleri<br />• UI Tasarım yönergeleri<br />• Doğru uygulama örnekleri<br />• Tasarım sistemi yol haritası ve geçmiş sürümlere<br />ait belgeler<br />• Kod parçacıkları ve CSS değişkenleri<br />• Kullanılabilir UI kiti dosyaları</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862598,
+        "Question": "<p>Tasarım sistemi bileşenlerinden biri olan \"bileşen kütüphaneleri\"nin kullanım senaryolarındaki değişkenleri sisteme sokarak erişime açtığı başlıklar hangileridir?</p>",
+        "Answer": "<p>Bu sistem kısaca şu başlıklar altında özetlenebilir. Komponentin adı, tanımı, öz nitelikleri, obje'nin durumları ve kod parçacıkları.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862599,
+        "Question": "<p>Doğu Asya ülkelerinde iyi şans ve servetle ilişkilendirilen, Avrupa'da ve Amerika'da ise negatif sayıları göstermek için kullanılan renk hangisidir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Doğu Asya ülkelerinde kırmızı renk iyi şans ve servetle ilişkilendirilir. Hisse senetleri Nikkei endeksinde listelendiğinde kırmızı olarak gösterilir. Bu, negatif sayıları kırmızıyla gösteren Avrupa veya Amerikan normlarının tam tersidir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862600,
+        "Question": "<p>AirBnb tasarım direktörü Hayley Hugher'ın ihtiyaçlar piramidinin planlamasındaki sıralama en alttan en yukarıya doğru nasıl yerleşmektedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Bu planın en altında komponentler ve grafik arabirimler varken en yukarıya doğru müşteri deneyimi ve şirket ilkeleri gibi daha geniş kapsamlı ve birebir deneyime etki edecek karar mekanizmaları yerleşmektedir (Hugher, 2019)</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862601,
+        "Question": "<p style=\"text-align: justify;\">Tasarım sisteminin ihtiyaçlar piramidini tersine çevirmeyi öneren ve en temelde, erişilebilirlik, tolerans, güvenlik, açıklık, saygı gibi temel insani hakları tasarım sisteminin köklerine yerleştiren, Hayley Hugher’ın İhtiyaçlar Hiyerarşisindeki basamağın adı nedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">\"Değerler yaklaşımı\" tasarım sisteminin ihtiyaçlar piramidini tersine çevirmeyi önerir. En temelde, erişilebilirlik, tolerans, güvenlik, açıklık, saygı gibi temel insani hakları tasarım sisteminin köklerine yerleştirir ve sistemin geri kalanını bu temeller üzerine inşa eder.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862602,
+        "Question": "<p style=\"text-align: justify;\">Yeni tür ekran ve arayüzlerdeki çeşitlenmenin içerik, organizasyon ve sunumundaki güncellemelerine örnek verilebilecek yenilikler nelerdir?</p>",
+        "Answer": "<p>Tasarım bileşenleri, birlikte çalışabilirlik, birbirleri ile konuşabilen sistemler, otomasyonlar, yazılıma dair yenilikler, bunlardan birkaçı olarak örneklenebilir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862603,
+        "Question": "<p style=\"text-align: justify;\">Tasarım Sistemleri içinde verilen herhangi bir girdiye uygun şekilde yanıt vererek, tasarımda karar verme sürecini yeniden yaratan, objelerin ya da tasarım bileşenlerinin farklı şartlarda bir otomasyona bağlı biçimde farklı davranışlar geliştirebilmesini amaçlayan yaklaşım hangisidir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Fonksiyonlar, verilen herhangi bir girdiye uygun şekilde yanıt vererek, tasarımda karar verme sürecini yeniden yaratmakta, objelerin ya da tasarım bileşenlerinin farklı şartlarda bir otomasyona bağlı biçimde farklı davranışlar geliştirebilmesini amaçlamaktadır.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862604,
+        "Question": "<p style=\"text-align: justify;\">Bugün Apple şirketi'nin pek çok farklı kategoride ekranlar ve etkileşimler geliştirdiği, özellikle telefonlar için kullanılan işletim sistemi hangisidir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Bugün Apple şirketi pek çok farklı kategoride ekranlar ve etkileşimler geliştiriyor: Telefonlar için iOS, tabletler için iPadOS, kişisel bilgisayarlar için macOS, saatleri için watchOS, büyük ekranlar için tvOS, araç bilgi-eğlence sistemleri için CarPlay ve daha fazlası.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862605,
+        "Question": "<p style=\"text-align: justify;\">Sabit renk kodları yerine seçilen tek renk üzerinden algoritmalar aracılığıyla erişilebilirlik ve kullanılabilirlik kriterlerine uygun 46 farklı tamamlayıcı renk üreterek çalışan sistemin adı nedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">\"Google Material Design v3 tasarım sistemi\" içinde çalışan ‘dinamik renkler’ özelliğinde gözlemlemek mümkün. Sabit renk kodları yerine seçilen tek renk üzerinden algoritmalar aracılığıyla erişilebilirlik ve kullanılabilirlik kriterlerine uygun 46 farklı tamamlayıcı renk üreterek çalışan sistem bu konuda büyük bir tasarım yükü ve kararını kendi başına üstlenir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862606,
+        "Question": "<p style=\"text-align: justify;\">Görsel kimliklerini ve devamında tasarım geliştirme sistemlerini yakın zamanda yeni çağın ihtiyaçlarına ayak uyduracak şekilde yenileyen, paydaşlarını bu sisteme davet ederek daha verimli bir entegrasyonu, iyi tasarımın yaygınlaşmasını ve kurumsal bağı arttıracak bir ekosistemin oluşmasını sağlayan teknoloji şirketleri hangileridir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">IBM ve MailChimp firmaları yakın zamanda görsel kimliklerini ve devamında tasarım geliştirme sistemlerini yeni çağın ihtiyaçlarına ayak uyduracak daha atik ve hızlı sistemlere evirmek üzere yeniledi. Paydaşlarına hizmet veren bu firmalar bu anlayış ile hem kendi çalışma ve tasarım modellerini güncelledi hem de paydaşlarını da bu sisteme davet ederek daha verimli bir entegrasyonu, iyi tasarımın yaygınlaşmasını ve kurumsal bağı arttıracak bir ekosistemin oluşmasını sağladılar.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862607,
+        "Question": "<p>\"İlk önce onları oluşturma şeklinizde yenilik yapmadan ürünlerde yenilik yapamazsınız.” sözüyle açık kaynak sistemler geliştirmenin önemine vurgu yapan Airbnb Tasarım Başkanı kimdir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Alex Schleifer’in (Airbnb Tasarım Başkanı) dediği gibi: “İşte basit gerçek: İlk önce onları oluşturma şeklinizde yenilik yapmadan ürünlerde yenilik yapamazsınız.”. Bu yaklaşımı oldukça iyi özetleyen bu söz yenilikçi ürünler geliştirmek isteyen organizasyonların öncelikli olarak kendi çalışma biçimleri ve sistemlerinde bu arayışı sürdürmeleri ve oradan yaratılan buluşçu yaklaşımları paydaşlarına aktarabileceklerini ifade etmektedir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862608,
+        "Question": "<p style=\"text-align: justify;\">Tasarım sistemlerinin geleceğine yönelik şirketlerin karar alma konusunda tasarımcılar üzerinde büyük beklenti içinde olduğu ve bu bağlamda son kullanıcının deneyimine birebir etki eden istekler nelerdir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Şirketler karar alma konusunda tasarımcılar üzerinde daha karmaşık ve büyük beklentilere sahiptir. Makine öğrenimi modelleri, veri analizleri, iş yönetimi fikirleri, şirket değerlerinin belirlenmesi gibi bu istekler son kullanıcının deneyimine birebir etki etmektedir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3862609,
+        "Question": "<p style=\"text-align: justify;\">Hem son kullanıcıyı, hem de geliştirme ekibinin iç işleyişini kapsayacak bir bakış açısı olarak ifade edilen, aynı zamanda Hugher‘ın ihtiyaçlar piramidinde bir davranış biçimi olarak tanımlanan yaklaşım hangisidir? </p>",
+        "Answer": "<p style=\"text-align: justify;\">Tasarım sistemlerinin genel geçer tanımlarında temel grafik arabirim öğelerini ve etkileşim biçimlerini ifade eden komponentler Hugher‘ın ihtiyaçlar piramidinde bir davranış biçimi ile tanımlanırlar. ‘Kolaylaştırıcılık’ başlığı altında tariflenen bu davranış biçimi hem son kullanıcıyı hem de geliştirme ekibinin iç işleyişini kapsayacak bir bakış açısı olarak ifade edilebilir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    }
+]

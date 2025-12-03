@@ -1,0 +1,452 @@
+[
+  {
+    "Course": "3B Tasarım ve Modelleme",
+    "TargetFile": "Ara Sınav 2024-2025 - 618232.pdf",
+    "FoundFile": "GIT402U_Unite0_AraSınav2024-2025618232_24_25.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "IDMatch",
+    "Exists": true
+  },
+  {
+    "Course": "3B Tasarım ve Modelleme",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622604.pdf",
+    "FoundFile": "GIT402U_Unite0_DönemSonu2024-2025622604_24_25.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "IDMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Yapay Zeka ve Tasarım",
+    "TargetFile": "Ara Sınav 2024-2025 - 618235.pdf",
+    "FoundFile": "GIT408U_Unite0_AraSınav2024-2025618235_24_25.pdf",
+    "Subfolder": "Alınan Ders Notları ve Özetleri",
+    "Score": 1.0,
+    "Type": "IDMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Yapay Zeka ve Tasarım",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622607.pdf",
+    "FoundFile": "GIT408U_Unite0_DönemSonu2024-2025622607_24_25.pdf",
+    "Subfolder": "Alınan Ders Notları ve Özetleri",
+    "Score": 1.0,
+    "Type": "IDMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Tasarımda Sıralı Anlatım ve Öykülendirme",
+    "TargetFile": "Ara Sınav 2024-2025 - 618234.pdf",
+    "FoundFile": "GIT406U_Unite0_AraSınav2024-2025618234_24_25.pdf",
+    "Subfolder": "Çalışma Soruları",
+    "Score": 1.0,
+    "Type": "IDMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Tasarımda Sıralı Anlatım ve Öykülendirme",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622606.pdf",
+    "FoundFile": "GIT406U_Unite0_DönemSonu2024-2025622606_24_25.pdf",
+    "Subfolder": "Çalışma Soruları",
+    "Score": 1.0,
+    "Type": "IDMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Tasarım Süreçleri ve Yönetimi",
+    "TargetFile": "Ara Sınav 2024-2025 - 618233.pdf",
+    "FoundFile": "GIT404U_Unite0_AraSınav2024-2025618233_24_25.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "IDMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Tasarım Süreçleri ve Yönetimi",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622605.pdf",
+    "FoundFile": "GIT404U_Unite0_DönemSonu2024-2025622605_24_25.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "IDMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Reklam Tasarım ve Uygulamaları",
+    "TargetFile": "Ara Sınav 2024-2025 - 618236.pdf",
+    "FoundFile": "GIT410U_Unite0_AraSınav2024-2025618236_24_25.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "IDMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Reklam Tasarım ve Uygulamaları",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622608.pdf",
+    "FoundFile": "GIT410U_Unite0_DönemSonu2024-2025622608_24_25.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "IDMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Anadolu Kültür Tarihi",
+    "TargetFile": "Ara Sınav 2021-2022 - 443028.pdf",
+    "FoundFile": "Ara Sınav 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Anadolu Kültür Tarihi",
+    "TargetFile": "Ara Sınav 2023-2024 - 565284.pdf",
+    "FoundFile": "Ara Sınav 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Anadolu Kültür Tarihi",
+    "TargetFile": "Ara Sınav 2024-2025 - 618220.pdf",
+    "FoundFile": "Ara Sınav 2024-2025.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Anadolu Kültür Tarihi",
+    "TargetFile": "Dönem Sonu 2021-2022 - 448677.pdf",
+    "FoundFile": "Dönem Sonu 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Anadolu Kültür Tarihi",
+    "TargetFile": "Dönem Sonu 2023-2024 - 571096.pdf",
+    "FoundFile": "Dönem Sonu 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Anadolu Kültür Tarihi",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622592.pdf",
+    "FoundFile": "Dönem Sonu 2024-2025.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Kültür",
+    "TargetFile": "Ara Sınav 2021-2022 - 607395.pdf",
+    "FoundFile": "Ara Sınav 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Kültür",
+    "TargetFile": "Ara Sınav 2021-2022 - 607440.pdf",
+    "FoundFile": "Ara Sınav 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Kültür",
+    "TargetFile": "Ara Sınav 2023-2024 - 607491.pdf",
+    "FoundFile": "Ara Sınav 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Kültür",
+    "TargetFile": "Ara Sınav 2024-2025 - 618223.pdf",
+    "FoundFile": "Ara Sınav 2024-2025.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Kültür",
+    "TargetFile": "Dönem Sonu 2021-2022 - 607412.pdf",
+    "FoundFile": "Dönem Sonu 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Kültür",
+    "TargetFile": "Dönem Sonu 2021-2022 - 607449.pdf",
+    "FoundFile": "Dönem Sonu 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Kültür",
+    "TargetFile": "Dönem Sonu 2023-2024 - 607500.pdf",
+    "FoundFile": "Dönem Sonu 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Kültür",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622595.pdf",
+    "FoundFile": "Dönem Sonu 2024-2025.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Tipografi",
+    "TargetFile": "Ara Sınav 2021-2022 - 607529.pdf",
+    "FoundFile": "Ara Sınav 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Tipografi",
+    "TargetFile": "Ara Sınav 2023-2024 - 607588.pdf",
+    "FoundFile": "Ara Sınav 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Tipografi",
+    "TargetFile": "Ara Sınav 2024-2025 - 618222.pdf",
+    "FoundFile": "Ara Sınav 2024-2025.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Tipografi",
+    "TargetFile": "Dönem Sonu 2021-2022 - 607538.pdf",
+    "FoundFile": "Dönem Sonu 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Tipografi",
+    "TargetFile": "Dönem Sonu 2023-2024 - 607597.pdf",
+    "FoundFile": "Dönem Sonu 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Tipografi",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622594.pdf",
+    "FoundFile": "Dönem Sonu 2024-2025.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel İletişim ve Tasarım Tarihi",
+    "TargetFile": "Ara Sınav 2021-2022 - 492716.pdf",
+    "FoundFile": "Ara Sınav 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel İletişim ve Tasarım Tarihi",
+    "TargetFile": "Ara Sınav 2023-2024 - 565285.pdf",
+    "FoundFile": "Ara Sınav 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel İletişim ve Tasarım Tarihi",
+    "TargetFile": "Ara Sınav 2024-2025 - 618221.pdf",
+    "FoundFile": "Ara Sınav 2024-2025.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel İletişim ve Tasarım Tarihi",
+    "TargetFile": "Dönem Sonu 2021-2022 - 492757.pdf",
+    "FoundFile": "Dönem Sonu 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel İletişim ve Tasarım Tarihi",
+    "TargetFile": "Dönem Sonu 2023-2024 - 571097.pdf",
+    "FoundFile": "Dönem Sonu 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel İletişim ve Tasarım Tarihi",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622593.pdf",
+    "FoundFile": "Dönem Sonu 2024-2025.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Sanat Tarihi",
+    "TargetFile": "Ara Sınav 2021-2022 - 443386.pdf",
+    "FoundFile": "Ara Sınav 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Sanat Tarihi",
+    "TargetFile": "Ara Sınav 2023-2024 - 565652.pdf",
+    "FoundFile": "Ara Sınav 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Sanat Tarihi",
+    "TargetFile": "Ara Sınav 2024-2025 - 618576.pdf",
+    "FoundFile": "Ara Sınav 2024-2025.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Sanat Tarihi",
+    "TargetFile": "Dönem Sonu 2021-2022 - 449034.pdf",
+    "FoundFile": "Dönem Sonu 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Sanat Tarihi",
+    "TargetFile": "Dönem Sonu 2023-2024 - 571463.pdf",
+    "FoundFile": "Dönem Sonu 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Sanat Tarihi",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622946.pdf",
+    "FoundFile": "Dönem Sonu 2024-2025.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+    "TargetFile": "Ara Sınav 2023-2024 - 606652.pdf",
+    "FoundFile": "Ara Sınav 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+    "TargetFile": "Ara Sınav 2024-2025 - 618225.pdf",
+    "FoundFile": "Ara Sınav 2024-2025.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+    "TargetFile": "Dönem Sonu 2023-2024 - 606661.pdf",
+    "FoundFile": "Dönem Sonu 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622597.pdf",
+    "FoundFile": "Dönem Sonu 2024-2025.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "İleri Tipografi",
+    "TargetFile": "Ara Sınav 2023-2024 - 565288.pdf",
+    "FoundFile": "Ara Sınav 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "İleri Tipografi",
+    "TargetFile": "Ara Sınav 2024-2025 - 618224.pdf",
+    "FoundFile": "Ara Sınav 2024-2025.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "İleri Tipografi",
+    "TargetFile": "Dönem Sonu 2023-2024 - 571100.pdf",
+    "FoundFile": "Dönem Sonu 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  },
+  {
+    "Course": "İleri Tipografi",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622596.pdf",
+    "FoundFile": "Dönem Sonu 2024-2025.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 1.0,
+    "Type": "Exact",
+    "Exists": true
+  }
+]

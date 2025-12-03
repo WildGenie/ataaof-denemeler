@@ -1,273 +1,0 @@
-Found 40 courses, processing 2 courses.
-Processing courses:   0%|          | 0/2 [00:00<?, ?course/s]Processing courses:   0%|          | 0/2 [00:00<?, ?course/s, Processing Grafik Tasarım I]                                                                                          Processing courses:   0%|          | 0/2 [00:00<?, ?course/s, Processing Grafik Tasarım I]                                                                                          Processing courses:   0%|          | 0/2 [00:00<?, ?course/s, Processing Grafik Tasarım I]                                                                                          Processing courses:   0%|          | 0/2 [00:00<?, ?course/s, Processing Grafik Tasarım I]                                                                                          Processing courses:   0%|          | 0/2 [00:00<?, ?course/s, Processing Grafik Tasarım I]                                                                                          Processing courses:   0%|          | 0/2 [00:00<?, ?course/s, Processing Grafik Tasarım I]                                                                                          Processing courses:   0%|          | 0/2 [00:00<?, ?course/s, Processing Grafik Tasarım I]                                                                                          Processing courses:   0%|          | 0/2 [00:00<?, ?course/s, Processing Grafik Tasarım I]                                                                                          Processing courses:   0%|          | 0/2 [00:00<?, ?course/s, Processing Grafik Tasarım I]Processing Grafik Tasarım I (Dönem: 3)...
-    Unit 1: Loaded 20 raw questions from cache.
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-    Unit 2: Loaded 20 raw questions from cache.
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-    Unit 3: Loaded 15 raw questions from cache.
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-    Unit 4: Loaded 19 raw questions from cache.
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-    Unit 5: Loaded 17 raw questions from cache.
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-    Unit 6: Loaded 21 raw questions from cache.
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-    Unit 7: Loaded 22 raw questions from cache.
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3                                                                                          Processing courses:   0%|          | 0/2 [00:00<?, ?course/s, Processing Grafik Tasarım I]                                                                                          Processing courses:   0%|          | 0/2 [00:00<?, ?course/s, Processing Grafik Tasarım I]                                                                                          Processing courses:   0%|          | 0/2 [00:00<?, ?course/s, Processing Grafik Tasarım I]                                                                                          Processing courses:   0%|          | 0/2 [00:00<?, ?course/s, Processing Grafik Tasarım I]                                                                                          Processing courses:   0%|          | 0/2 [00:01<?, ?course/s, Processing Grafik Tasarım I]                                                                                          Processing courses:   0%|          | 0/2 [00:01<?, ?course/s, Processing Grafik Tasarım I]                                                                                          Processing courses:   0%|          | 0/2 [00:01<?, ?course/s, Processing Grafik Tasarım I]                                                                                          Processing courses:   0%|          | 0/2 [00:01<?, ?course/s, Processing Grafik Tasarım I]Processing courses:  50%|█████     | 1/2 [00:01<00:01,  1.62s/course, Processing Grafik Tasarım I]Processing courses:  50%|█████     | 1/2 [00:01<00:01,  1.62s/course, Processing Grafik Tasarım II]                                                                                                   Processing courses:  50%|█████     | 1/2 [00:01<00:01,  1.62s/course, Processing Grafik Tasarım II]                                                                                                   Processing courses:  50%|█████     | 1/2 [00:01<00:01,  1.62s/course, Processing Grafik Tasarım II]                                                                                                   Processing courses:  50%|█████     | 1/2 [00:01<00:01,  1.62s/course, Processing Grafik Tasarım II]                                                                                                   Processing courses:  50%|█████     | 1/2 [00:01<00:01,  1.62s/course, Processing Grafik Tasarım II]                                                                                                   Processing courses:  50%|█████     | 1/2 [00:01<00:01,  1.62s/course, Processing Grafik Tasarım II]                                                                                                   Processing courses:  50%|█████     | 1/2 [00:01<00:01,  1.62s/course, Processing Grafik Tasarım II]                                                                                                   Processing courses:  50%|█████     | 1/2 [00:01<00:01,  1.62s/course, Processing Grafik Tasarım II]                                                                                                   Processing courses:  50%|█████     | 1/2 [00:01<00:01,  1.62s/course, Processing Grafik Tasarım II]
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-DEBUG: Course=Grafik Tasarım I, DonemInCourse=3, SetSomestre=3
-    Unit 8: No questions found.
-    Unit 9: No questions found.
-    Unit 10: No questions found.
-    Unit 11: No questions found.
-    Unit 12: No questions found.
-    Unit 13: No questions found.
-    Unit 14: No questions found.
-  Saved 134 unique questions to ATA-AÖF - Dönem 3 - Grafik Tasarım I - Tüm Sorular.json and ATA-AÖF - Dönem 3 - Grafik Tasarım I - Sorular.md
-Processing Grafik Tasarım II (Dönem: 4)...
-    Unit 1: Loaded 15 raw questions from cache.
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-    Unit 2: Loaded 14 raw questions from cache.
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-    Unit 3: Loaded 13 raw questions from cache.
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-    Unit 4: Loaded 15 raw questions from cache.
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-    Unit 5: Loaded 15 raw questions from cache.
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-    Unit 6: Loaded 17 raw questions from cache.
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-    Unit 7: Loaded 16 raw questions from cache.
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4                                                                                                   Processing courses:  50%|█████     | 1/2 [00:01<00:01,  1.62s/course, Processing Grafik Tasarım II]                                                                                                   Processing courses:  50%|█████     | 1/2 [00:02<00:01,  1.62s/course, Processing Grafik Tasarım II]                                                                                                   Processing courses:  50%|█████     | 1/2 [00:02<00:01,  1.62s/course, Processing Grafik Tasarım II]                                                                                                   Processing courses:  50%|█████     | 1/2 [00:02<00:01,  1.62s/course, Processing Grafik Tasarım II]                                                                                                   Processing courses:  50%|█████     | 1/2 [00:02<00:01,  1.62s/course, Processing Grafik Tasarım II]                                                                                                   Processing courses:  50%|█████     | 1/2 [00:02<00:01,  1.62s/course, Processing Grafik Tasarım II]                                                                                                   Processing courses:  50%|█████     | 1/2 [00:03<00:01,  1.62s/course, Processing Grafik Tasarım II]                                                                                                   Processing courses:  50%|█████     | 1/2 [00:03<00:01,  1.62s/course, Processing Grafik Tasarım II]Processing courses: 100%|██████████| 2/2 [00:03<00:00,  1.57s/course, Processing Grafik Tasarım II]Processing courses: 100%|██████████| 2/2 [00:03<00:00,  1.58s/course, Processing Grafik Tasarım II]
-
-DEBUG: Course=Grafik Tasarım II, DonemInCourse=4, SetSomestre=4
-    Unit 8: No questions found.
-    Unit 9: No questions found.
-    Unit 10: No questions found.
-    Unit 11: No questions found.
-    Unit 12: No questions found.
-    Unit 13: No questions found.
-    Unit 14: No questions found.
-  Saved 105 unique questions to ATA-AÖF - Dönem 4 - Grafik Tasarım II - Tüm Sorular.json and ATA-AÖF - Dönem 4 - Grafik Tasarım II - Sorular.md

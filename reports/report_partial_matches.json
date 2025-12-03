@@ -1,0 +1,1595 @@
+[
+  {
+    "Course": "Temel Sanat ve Tasarım Eğitimi",
+    "TargetFile": "Ara Sınav 2021-2022 - 634423.pdf",
+    "FoundFile": "ARA SINAV  2021-2022 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Sanat ve Tasarım Eğitimi",
+    "TargetFile": "Ara Sınav 2022-2023 - 634440.pdf",
+    "FoundFile": "ARA SINAV  2022-2023 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Sanat ve Tasarım Eğitimi",
+    "TargetFile": "Ara Sınav 2023-2024 - 634474.pdf",
+    "FoundFile": "ARA SINAV  2023-2024 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Sanat ve Tasarım Eğitimi",
+    "TargetFile": "Dönem Sonu 2021-2022 - 634424.pdf",
+    "FoundFile": "DÖNEM SONU 2021-2022 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "CleanedExact",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Sanat ve Tasarım Eğitimi",
+    "TargetFile": "Dönem Sonu 2022-2023 - 634450.pdf",
+    "FoundFile": "DÖNEM SONU 2022-2023 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "CleanedExact",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Sanat ve Tasarım Eğitimi",
+    "TargetFile": "Dönem Sonu 2023-2024 - 634483.pdf",
+    "FoundFile": "DÖNEM SONU 2023-2024 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "CleanedExact",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Sanat ve Tasarım Eğitimi",
+    "TargetFile": "Yaz Okulu 2021-2022 - 634425.pdf",
+    "FoundFile": "YAZ OKULU 2021-2022 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Sanat ve Tasarım Eğitimi",
+    "TargetFile": "Yaz Okulu 2022-2023 - 634466.pdf",
+    "FoundFile": "YAZ OKULU 2022-2023 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Sanat ve Tasarım Eğitimi",
+    "TargetFile": "Yaz Okulu 2023-2024 - 634486.pdf",
+    "FoundFile": "YAZ OKULU 2023-2024 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Estetik",
+    "TargetFile": "Yaz Okulu 2020-2021 - 633974.pdf",
+    "FoundFile": "YAZ OKULU 2020-2021 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Estetik",
+    "TargetFile": "Yaz Okulu 2021-2022 - 633999.pdf",
+    "FoundFile": "YAZ OKULU 2021-2022 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Estetik",
+    "TargetFile": "Yaz Okulu 2022-2023 - 634055.pdf",
+    "FoundFile": "YAZ OKULU 2022-2023 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Estetik",
+    "TargetFile": "Yaz Okulu 2023-2024 - 634077.pdf",
+    "FoundFile": "YAZ OKULU 2023-2024 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Estetik",
+    "TargetFile": "Ara Sınav 2021-2022 - 633986.pdf",
+    "FoundFile": "ARA SINAV 2021-2022 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Estetik",
+    "TargetFile": "Ara Sınav 2022-2023 - 634021.pdf",
+    "FoundFile": "ARA SINAV 2022-2023 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Estetik",
+    "TargetFile": "Ara Sınav 2023-2024 - 634063.pdf",
+    "FoundFile": "ARA SINAV 2023-2024 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Estetik",
+    "TargetFile": "Ara Sınav 2024-2025 - 634092.pdf",
+    "FoundFile": "ARA SINAV 2024-2025 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Estetik",
+    "TargetFile": "Dönem Sonu 2021-2022 - 633995.pdf",
+    "FoundFile": "DÖNEM SONU 2021-2022 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "CleanedExact",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Estetik",
+    "TargetFile": "Dönem Sonu 2022-2023 - 634039.pdf",
+    "FoundFile": "DÖNEM SONU 2022-2023 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "CleanedExact",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Estetik",
+    "TargetFile": "Dönem Sonu 2023-2024 - 634074.pdf",
+    "FoundFile": "DÖNEM SONU 2023-2024 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "CleanedExact",
+    "Exists": true
+  },
+  {
+    "Course": "Mitoloji ve Din",
+    "TargetFile": "Yaz Okulu 2020-2021 - 527003.pdf",
+    "FoundFile": "YAZ OKULU 2020-2021 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Mitoloji ve Din",
+    "TargetFile": "Yaz Okulu 2021-2022 - 527022.pdf",
+    "FoundFile": "YAZ OKULU 2021-2022 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Mitoloji ve Din",
+    "TargetFile": "Yaz Okulu 2022-2023 - 527057.pdf",
+    "FoundFile": "YAZ OKULU 2022-2023 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Mitoloji ve Din",
+    "TargetFile": "Yaz Okulu 2023-2024 - 575084.pdf",
+    "FoundFile": "YAZ OKULU 2023-2024 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Mitoloji ve Din",
+    "TargetFile": "Ara Sınav 2021-2022 - 527010.pdf",
+    "FoundFile": "ARA SINAV 2021-2022 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Mitoloji ve Din",
+    "TargetFile": "Ara Sınav 2022-2023 - 527043.pdf",
+    "FoundFile": "ARA SINAV 2022-2023 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Mitoloji ve Din",
+    "TargetFile": "Ara Sınav 2023-2024 - 541425.pdf",
+    "FoundFile": "ARA SINAV 2023-2024 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Mitoloji ve Din",
+    "TargetFile": "Ara Sınav 2024-2025 - 591977.pdf",
+    "FoundFile": "ARA SINAV 2024-2025 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Mitoloji ve Din",
+    "TargetFile": "Dönem Sonu 2021-2022 - 527018.pdf",
+    "FoundFile": "DÖNEM SONU 2021-2022 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "CleanedExact",
+    "Exists": true
+  },
+  {
+    "Course": "Mitoloji ve Din",
+    "TargetFile": "Dönem Sonu 2022-2023 - 527053.pdf",
+    "FoundFile": "DÖNEM SONU 2022-2023 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "CleanedExact",
+    "Exists": true
+  },
+  {
+    "Course": "Mitoloji ve Din",
+    "TargetFile": "Dönem Sonu 2023-2024 - 556670.pdf",
+    "FoundFile": "DÖNEM SONU 2023-2024 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "CleanedExact",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Fotoğrafçılık",
+    "TargetFile": "Yaz Okulu 2020-2021 - 522747.pdf",
+    "FoundFile": "YAZ OKULU 2020-2021 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Fotoğrafçılık",
+    "TargetFile": "Yaz Okulu 2021-2022 - 522748.pdf",
+    "FoundFile": "YAZ OKULU 2021-2022 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Fotoğrafçılık",
+    "TargetFile": "Yaz Okulu 2022-2023 - 522781.pdf",
+    "FoundFile": "YAZ OKULU 2022-2023 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Fotoğrafçılık",
+    "TargetFile": "Yaz Okulu 2023-2024 - 574638.pdf",
+    "FoundFile": "YAZ OKULU 2023-2024 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Fotoğrafçılık",
+    "TargetFile": "Ara Sınav 2021-2022 - 522739.pdf",
+    "FoundFile": "ARA SINAV 2021-2022 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Fotoğrafçılık",
+    "TargetFile": "Ara Sınav 2022-2023 - 522755.pdf",
+    "FoundFile": "ARA SINAV 2022-2023 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Fotoğrafçılık",
+    "TargetFile": "Ara Sınav 2023-2024 - 541186.pdf",
+    "FoundFile": "ARA SINAV 2023-2024 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Fotoğrafçılık",
+    "TargetFile": "Ara Sınav 2024-2025 - 591728.pdf",
+    "FoundFile": "ARA SINAV 2024-2025 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Fotoğrafçılık",
+    "TargetFile": "Dönem Sonu 2021-2022 - 522743.pdf",
+    "FoundFile": "DÖNEM SONU 2021-2022 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "CleanedExact",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Fotoğrafçılık",
+    "TargetFile": "Dönem Sonu 2022-2023 - 522765.pdf",
+    "FoundFile": "DÖNEM SONU 2022-2023 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "CleanedExact",
+    "Exists": true
+  },
+  {
+    "Course": "Temel Fotoğrafçılık",
+    "TargetFile": "Dönem Sonu 2023-2024 - 556431.pdf",
+    "FoundFile": "DÖNEM SONU 2023-2024 Çıkmış Sınav Soruları.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "CleanedExact",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Medya ve Arayüz Tasarımı",
+    "TargetFile": "Ara Sınav 2023-2024 - 565292.pdf",
+    "FoundFile": "2023-2024 BAHAR ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Medya ve Arayüz Tasarımı",
+    "TargetFile": "Ara Sınav 2024-2025 - 618228.pdf",
+    "FoundFile": "2024-2025 BAHAR ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Medya ve Arayüz Tasarımı",
+    "TargetFile": "Dönem Sonu 2023-2024 - 571104.pdf",
+    "FoundFile": "2023-2024 BAHAR DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Medya ve Arayüz Tasarımı",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622600.pdf",
+    "FoundFile": "2024-2025 BAHAR DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Medya ve Arayüz Tasarımı",
+    "TargetFile": "Yaz Okulu 2023-2024 - 574672.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Medya ve Arayüz Tasarımı",
+    "TargetFile": "Yaz Okulu 2024-2025 - 626555.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sürdürülebilir Grafik Tasarım",
+    "TargetFile": "Ara Sınav 2023-2024 - 606580.pdf",
+    "FoundFile": "2023-2024 BAHAR ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sürdürülebilir Grafik Tasarım",
+    "TargetFile": "Ara Sınav 2024-2025 - 618229.pdf",
+    "FoundFile": "2024-2025 BAHAR ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sürdürülebilir Grafik Tasarım",
+    "TargetFile": "Dönem Sonu 2023-2024 - 606600.pdf",
+    "FoundFile": "2023-2024 BAHAR DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sürdürülebilir Grafik Tasarım",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622601.pdf",
+    "FoundFile": "2024-2025 BAHAR DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sürdürülebilir Grafik Tasarım",
+    "TargetFile": "Yaz Okulu 2023-2024 - 606602.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sürdürülebilir Grafik Tasarım",
+    "TargetFile": "Yaz Okulu 2024-2025 - 626557.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Bilgi Görselleştirme",
+    "TargetFile": "Ara Sınav 2023-2024 - 606507.pdf",
+    "FoundFile": "2023-2024 BAHAR ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Bilgi Görselleştirme",
+    "TargetFile": "Ara Sınav 2024-2025 - 618231.pdf",
+    "FoundFile": "2024-2025 BAHAR ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Bilgi Görselleştirme",
+    "TargetFile": "Dönem Sonu 2023-2024 - 606525.pdf",
+    "FoundFile": "2023-2024 BAHAR DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Bilgi Görselleştirme",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622603.pdf",
+    "FoundFile": "2024-2025 BAHAR DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Bilgi Görselleştirme",
+    "TargetFile": "Yaz Okulu 2023-2024 - 606527.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Bilgi Görselleştirme",
+    "TargetFile": "Yaz Okulu 2024-2025 - 626560.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Video Kurgu ve Efekt",
+    "TargetFile": "Ara Sınav 2023-2024 - 565291.pdf",
+    "FoundFile": "2023-2024 BAHAR ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Video Kurgu ve Efekt",
+    "TargetFile": "Ara Sınav 2024-2025 - 618227.pdf",
+    "FoundFile": "2024-2025 BAHAR ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Video Kurgu ve Efekt",
+    "TargetFile": "Dönem Sonu 2023-2024 - 571103.pdf",
+    "FoundFile": "2023-2024 BAHAR DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Video Kurgu ve Efekt",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622599.pdf",
+    "FoundFile": "2024-2025 BAHAR DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Video Kurgu ve Efekt",
+    "TargetFile": "Yaz Okulu 2023-2024 - 574670.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Video Kurgu ve Efekt",
+    "TargetFile": "Yaz Okulu 2024-2025 - 626553.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Eğitici İçerik Tasarımı",
+    "TargetFile": "Ara Sınav 2023-2024 - 606545.pdf",
+    "FoundFile": "2023-2024 BAHAR ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Eğitici İçerik Tasarımı",
+    "TargetFile": "Ara Sınav 2024-2025 - 618230.pdf",
+    "FoundFile": "2024-2025 BAHAR ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Eğitici İçerik Tasarımı",
+    "TargetFile": "Dönem Sonu 2023-2024 - 606563.pdf",
+    "FoundFile": "2023-2024 BAHAR DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Eğitici İçerik Tasarımı",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622602.pdf",
+    "FoundFile": "2024-2025 BAHAR DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Eğitici İçerik Tasarımı",
+    "TargetFile": "Yaz Okulu 2023-2024 - 606565.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Eğitici İçerik Tasarımı",
+    "TargetFile": "Yaz Okulu 2024-2025 - 626558.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Posthümanist Tasarım Yaklaşımları",
+    "TargetFile": "Ara Sınav 2024-2025 - 591750.pdf",
+    "FoundFile": "2024-2025 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Posthümanist Tasarım Yaklaşımları",
+    "TargetFile": "Dönem Sonu 2024-2025 - 596762.pdf",
+    "FoundFile": "2024-2025 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Hareketli Grafik Tasarımı",
+    "TargetFile": "Ara Sınav 2024-2025 - 591749.pdf",
+    "FoundFile": "2024-2025 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Hareketli Grafik Tasarımı",
+    "TargetFile": "Dönem Sonu 2024-2025 - 596761.pdf",
+    "FoundFile": "2024-2025 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Tasarım Etiği ve Hukuku",
+    "TargetFile": "Ara Sınav 2024-2025 - 591752.pdf",
+    "FoundFile": "2024-2025 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Tasarım Etiği ve Hukuku",
+    "TargetFile": "Dönem Sonu 2024-2025 - 596764.pdf",
+    "FoundFile": "2024-2025 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Oyun Tasarımı",
+    "TargetFile": "Ara Sınav 2024-2025 - 591753.pdf",
+    "FoundFile": "2024-2025 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Oyun Tasarımı",
+    "TargetFile": "Dönem Sonu 2024-2025 - 596765.pdf",
+    "FoundFile": "2024-2025 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Ambalaj Tasarımı",
+    "TargetFile": "Ara Sınav 2023-2024 - 634807.pdf",
+    "FoundFile": "2023-2024 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Ambalaj Tasarımı",
+    "TargetFile": "Ara Sınav 2024-2025 - 634827.pdf",
+    "FoundFile": "2024-2025 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Ambalaj Tasarımı",
+    "TargetFile": "Dönem Sonu 2023-2024 - 634816.pdf",
+    "FoundFile": "2023-2024 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Ambalaj Tasarımı",
+    "TargetFile": "Dönem Sonu 2024-2025 - 634852.pdf",
+    "FoundFile": "2024-2025 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Ambalaj Tasarımı",
+    "TargetFile": "Yaz Okulu 2023-2024 - 634819.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Ambalaj Tasarımı",
+    "TargetFile": "Yaz Okulu 2024-2025 - 634855.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel İletişim ve Kuramları",
+    "TargetFile": "Ara Sınav 2023-2024 - 576073.pdf",
+    "FoundFile": "2023-2024 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel İletişim ve Kuramları",
+    "TargetFile": "Ara Sınav 2024-2025 - 591744.pdf",
+    "FoundFile": "2024-2025 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel İletişim ve Kuramları",
+    "TargetFile": "Dönem Sonu 2023-2024 - 576082.pdf",
+    "FoundFile": "2023-2024 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel İletişim ve Kuramları",
+    "TargetFile": "Dönem Sonu 2024-2025 - 596756.pdf",
+    "FoundFile": "2024-2025 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel İletişim ve Kuramları",
+    "TargetFile": "Yaz Okulu 2023-2024 - 576085.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel İletişim ve Kuramları",
+    "TargetFile": "Yaz Okulu 2024-2025 - 626552.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Kurumsal Kimlik Tasarımı",
+    "TargetFile": "Ara Sınav 2023-2024 - 634653.pdf",
+    "FoundFile": "2023-2024 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Kurumsal Kimlik Tasarımı",
+    "TargetFile": "Ara Sınav 2024-2025 - 634673.pdf",
+    "FoundFile": "2024-2025 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Kurumsal Kimlik Tasarımı",
+    "TargetFile": "Dönem Sonu 2023-2024 - 634662.pdf",
+    "FoundFile": "2023-2024 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Kurumsal Kimlik Tasarımı",
+    "TargetFile": "Dönem Sonu 2024-2025 - 634698.pdf",
+    "FoundFile": "2024-2025 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Kurumsal Kimlik Tasarımı",
+    "TargetFile": "Yaz Okulu 2023-2024 - 634665.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Kurumsal Kimlik Tasarımı",
+    "TargetFile": "Yaz Okulu 2024-2025 - 634701.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Sistem Tasarımları",
+    "TargetFile": "Ara Sınav 2023-2024 - 634729.pdf",
+    "FoundFile": "2023-2024 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Sistem Tasarımları",
+    "TargetFile": "Ara Sınav 2024-2025 - 634750.pdf",
+    "FoundFile": "2024-2025 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Sistem Tasarımları",
+    "TargetFile": "Dönem Sonu 2023-2024 - 634738.pdf",
+    "FoundFile": "2023-2024 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Sistem Tasarımları",
+    "TargetFile": "Dönem Sonu 2024-2025 - 634775.pdf",
+    "FoundFile": "2024-2025 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Sistem Tasarımları",
+    "TargetFile": "Yaz Okulu 2023-2024 - 634741.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Sistem Tasarımları",
+    "TargetFile": "Yaz Okulu 2024-2025 - 634778.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Engellilik ve Erişilebilir Tasarım",
+    "TargetFile": "Ara Sınav 2023-2024 - 634882.pdf",
+    "FoundFile": "2023-2024 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Engellilik ve Erişilebilir Tasarım",
+    "TargetFile": "Ara Sınav 2024-2025 - 634903.pdf",
+    "FoundFile": "2024-2025 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Engellilik ve Erişilebilir Tasarım",
+    "TargetFile": "Dönem Sonu 2023-2024 - 634892.pdf",
+    "FoundFile": "2023-2024 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Engellilik ve Erişilebilir Tasarım",
+    "TargetFile": "Dönem Sonu 2024-2025 - 634928.pdf",
+    "FoundFile": "2024-2025 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Engellilik ve Erişilebilir Tasarım",
+    "TargetFile": "Yaz Okulu 2023-2024 - 634895.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Engellilik ve Erişilebilir Tasarım",
+    "TargetFile": "Yaz Okulu 2024-2025 - 634931.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Anadolu Kültür Tarihi",
+    "TargetFile": "Yaz Okulu 2021-2022 - 452606.pdf",
+    "FoundFile": "Yaz Okulu 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Anadolu Kültür Tarihi",
+    "TargetFile": "Yaz Okulu 2022-2023 - 516200.pdf",
+    "FoundFile": "Yaz Okulu 2022-2023.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Anadolu Kültür Tarihi",
+    "TargetFile": "Yaz Okulu 2023-2024 - 574659.pdf",
+    "FoundFile": "Yaz Okulu 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Kültür",
+    "TargetFile": "Yaz Okulu 2021-2022 - 607415.pdf",
+    "FoundFile": "Yaz Okulu 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Kültür",
+    "TargetFile": "Yaz Okulu 2021-2022 - 607452.pdf",
+    "FoundFile": "Yaz Okulu 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": false
+  },
+  {
+    "Course": "Dijital Kültür",
+    "TargetFile": "Yaz Okulu 2022-2023 - 607483.pdf",
+    "FoundFile": "Yaz Okulu 2022-2023.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Kültür",
+    "TargetFile": "Yaz Okulu 2023-2024 - 607503.pdf",
+    "FoundFile": "Yaz Okulu 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Tipografi",
+    "TargetFile": "Yaz Okulu 2021-2022 - 607549.pdf",
+    "FoundFile": "Yaz Okulu 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Tipografi",
+    "TargetFile": "Yaz Okulu 2022-2023 - 607580.pdf",
+    "FoundFile": "Yaz Okulu 2022-2023.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Tipografi",
+    "TargetFile": "Yaz Okulu 2023-2024 - 607600.pdf",
+    "FoundFile": "Yaz Okulu 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel İletişim ve Tasarım Tarihi",
+    "TargetFile": "Yaz Okulu 2021-2022 - 492762.pdf",
+    "FoundFile": "Yaz Okulu 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel İletişim ve Tasarım Tarihi",
+    "TargetFile": "Yaz Okulu 2022-2023 - 516201.pdf",
+    "FoundFile": "Yaz Okulu 2022-2023.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel İletişim ve Tasarım Tarihi",
+    "TargetFile": "Yaz Okulu 2023-2024 - 574660.pdf",
+    "FoundFile": "Yaz Okulu 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sayısal Görüntüleme Teknolojileri",
+    "TargetFile": "Ara Sınav 2021-2022 - 523000.pdf",
+    "FoundFile": "2022 GÜZ ARA.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sayısal Görüntüleme Teknolojileri",
+    "TargetFile": "Ara Sınav 2022-2023 - 523009.pdf",
+    "FoundFile": "2022 GÜZ ARA.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sayısal Görüntüleme Teknolojileri",
+    "TargetFile": "Ara Sınav 2023-2024 - 541195.pdf",
+    "FoundFile": "2023-2024 GÜZ ARA.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sayısal Görüntüleme Teknolojileri",
+    "TargetFile": "Ara Sınav 2024-2025 - 591737.pdf",
+    "FoundFile": "2024-2025 GÜZ ARA.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sayısal Görüntüleme Teknolojileri",
+    "TargetFile": "Dönem Sonu 2021-2022 - 523001.pdf",
+    "FoundFile": "2022 GÜZ DÖNEM SONU.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sayısal Görüntüleme Teknolojileri",
+    "TargetFile": "Dönem Sonu 2022-2023 - 523017.pdf",
+    "FoundFile": "2022 GÜZ DÖNEM SONU.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sayısal Görüntüleme Teknolojileri",
+    "TargetFile": "Dönem Sonu 2023-2024 - 556440.pdf",
+    "FoundFile": "2023-2024 GÜZ DÖNEM SONU.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sayısal Görüntüleme Teknolojileri",
+    "TargetFile": "Dönem Sonu 2024-2025 - 596749.pdf",
+    "FoundFile": "2024-2025 GÜZ DÖNEM SONU.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sayısal Görüntüleme Teknolojileri",
+    "TargetFile": "Yaz Okulu 2021-2022 - 523002.pdf",
+    "FoundFile": "2022 YAZ OKULU.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sayısal Görüntüleme Teknolojileri",
+    "TargetFile": "Yaz Okulu 2022-2023 - 523035.pdf",
+    "FoundFile": "2023 YAZ OKULU.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sayısal Görüntüleme Teknolojileri",
+    "TargetFile": "Yaz Okulu 2023-2024 - 574654.pdf",
+    "FoundFile": "2024 YAZ OKULU.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sayısal Görüntüleme Teknolojileri",
+    "TargetFile": "Yaz Okulu 2024-2025 - 626537.pdf",
+    "FoundFile": "2024 YAZ OKULU.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sanatta Eleştirel Düşünce",
+    "TargetFile": "Ara Sınav 2022-2023 - 523118.pdf",
+    "FoundFile": "2023 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sanatta Eleştirel Düşünce",
+    "TargetFile": "Ara Sınav 2023-2024 - 541200.pdf",
+    "FoundFile": "2023-2024 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sanatta Eleştirel Düşünce",
+    "TargetFile": "Ara Sınav 2024-2025 - 591742.pdf",
+    "FoundFile": "2024-2025 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sanatta Eleştirel Düşünce",
+    "TargetFile": "Dönem Sonu 2022-2023 - 523126.pdf",
+    "FoundFile": "2023 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sanatta Eleştirel Düşünce",
+    "TargetFile": "Dönem Sonu 2023-2024 - 556445.pdf",
+    "FoundFile": "2023 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sanatta Eleştirel Düşünce",
+    "TargetFile": "Dönem Sonu 2024-2025 - 596754.pdf",
+    "FoundFile": "2024-2025 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sanatta Eleştirel Düşünce",
+    "TargetFile": "Yaz Okulu 2022-2023 - 523140.pdf",
+    "FoundFile": "2023 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sanatta Eleştirel Düşünce",
+    "TargetFile": "Yaz Okulu 2023-2024 - 574665.pdf",
+    "FoundFile": "2023 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sanatta Eleştirel Düşünce",
+    "TargetFile": "Yaz Okulu 2024-2025 - 626548.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Yeni Medya Sanatı",
+    "TargetFile": "Ara Sınav 2022-2023 - 582785.pdf",
+    "FoundFile": "2023 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Yeni Medya Sanatı",
+    "TargetFile": "Ara Sınav 2023-2024 - 582819.pdf",
+    "FoundFile": "2023-2024 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Yeni Medya Sanatı",
+    "TargetFile": "Ara Sınav 2024-2025 - 591741.pdf",
+    "FoundFile": "2024-2025 GÜZ ARA - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Yeni Medya Sanatı",
+    "TargetFile": "Dönem Sonu 2022-2023 - 582794.pdf",
+    "FoundFile": "2023 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Yeni Medya Sanatı",
+    "TargetFile": "Dönem Sonu 2023-2024 - 582834.pdf",
+    "FoundFile": "2023 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Yeni Medya Sanatı",
+    "TargetFile": "Dönem Sonu 2024-2025 - 596753.pdf",
+    "FoundFile": "2024-2025 GÜZ DÖNEM SONU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Yeni Medya Sanatı",
+    "TargetFile": "Yaz Okulu 2022-2023 - 582809.pdf",
+    "FoundFile": "2023 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Yeni Medya Sanatı",
+    "TargetFile": "Yaz Okulu 2023-2024 - 582837.pdf",
+    "FoundFile": "2023 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Yeni Medya Sanatı",
+    "TargetFile": "Yaz Okulu 2024-2025 - 626546.pdf",
+    "FoundFile": "2024 YAZ OKULU - A.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
+    "TargetFile": "Ara Sınav 2022-2023 - 634550.pdf",
+    "FoundFile": "2023 GÜZ ARA.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
+    "TargetFile": "Ara Sınav 2023-2024 - 634586.pdf",
+    "FoundFile": "2023-2024 GÜZ ARA.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
+    "TargetFile": "Ara Sınav 2024-2025 - 634606.pdf",
+    "FoundFile": "2024-2025 GÜZ ARA.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
+    "TargetFile": "Dönem Sonu 2022-2023 - 634564.pdf",
+    "FoundFile": "2023 GÜZ DÖNEM SONU.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
+    "TargetFile": "Dönem Sonu 2023-2024 - 634596.pdf",
+    "FoundFile": "2023-2024 GÜZ DÖNEM SONU.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
+    "TargetFile": "Dönem Sonu 2024-2025 - 634623.pdf",
+    "FoundFile": "2024-2025 GÜZ DÖNEM SONU.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
+    "TargetFile": "Yaz Okulu 2022-2023 - 634578.pdf",
+    "FoundFile": "2023 YAZ OKULU.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
+    "TargetFile": "Yaz Okulu 2023-2024 - 634599.pdf",
+    "FoundFile": "2024 YAZ OKULU.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
+    "TargetFile": "Yaz Okulu 2024-2025 - 634626.pdf",
+    "FoundFile": "2024 YAZ OKULU.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sanat Tarihi",
+    "TargetFile": "Yaz Okulu 2020-2021 - 428618.pdf",
+    "FoundFile": "Yaz Okulu 2020-2021.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sanat Tarihi",
+    "TargetFile": "Yaz Okulu 2021-2022 - 453215.pdf",
+    "FoundFile": "Yaz Okulu 2021-2022.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sanat Tarihi",
+    "TargetFile": "Yaz Okulu 2022-2023 - 516835.pdf",
+    "FoundFile": "Yaz Okulu 2022-2023.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Sanat Tarihi",
+    "TargetFile": "Yaz Okulu 2023-2024 - 575287.pdf",
+    "FoundFile": "Yaz Okulu 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Görüntüleme İşleme Yöntemleri",
+    "TargetFile": "Yaz Okulu 2022-2023 - 548649.pdf",
+    "FoundFile": "2023 Yaz Okulu.pdf1",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Görüntüleme İşleme Yöntemleri",
+    "TargetFile": "Yaz Okulu 2023-2024 - 574668.pdf",
+    "FoundFile": "2024 Yaz Okulu.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Görüntüleme İşleme Yöntemleri",
+    "TargetFile": "Yaz Okulu 2024-2025 - 626551.pdf",
+    "FoundFile": "2024 Yaz Okulu.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Görüntüleme İşleme Yöntemleri",
+    "TargetFile": "Ara Sınav 2023-2024 - 565290.pdf",
+    "FoundFile": "2023-2024 Bahar Ara Sınavı.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Görüntüleme İşleme Yöntemleri",
+    "TargetFile": "Ara Sınav 2024-2025 - 618226.pdf",
+    "FoundFile": "2024-2025 Bahar Ara Sınavı.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Görüntüleme İşleme Yöntemleri",
+    "TargetFile": "Dönem Sonu 2023-2024 - 571102.pdf",
+    "FoundFile": "2023-2024 Bahar Dönem Sonu Sınavı.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Dijital Görüntüleme İşleme Yöntemleri",
+    "TargetFile": "Dönem Sonu 2024-2025 - 622598.pdf",
+    "FoundFile": "2024-2025 Bahar Dönem Sonu Sınavı.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+    "TargetFile": "Yaz Okulu 2022-2023 - 606644.pdf",
+    "FoundFile": "Yaz Okulu 2022-2023.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+    "TargetFile": "Yaz Okulu 2023-2024 - 606664.pdf",
+    "FoundFile": "Yaz Okulu 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "İleri Tipografi",
+    "TargetFile": "Yaz Okulu 2022-2023 - 548563.pdf",
+    "FoundFile": "Yaz Okulu 2022-2023.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  },
+  {
+    "Course": "İleri Tipografi",
+    "TargetFile": "Yaz Okulu 2023-2024 - 574664.pdf",
+    "FoundFile": "Yaz Okulu 2023-2024.pdf",
+    "Subfolder": "Çıkmış Sorular",
+    "Score": 0.95,
+    "Type": "YearTypeMatch",
+    "Exists": true
+  }
+]

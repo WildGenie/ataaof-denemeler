@@ -1,172 +1,25 @@
 import json
 import os
 import sys
-import time
-import requests
-import urllib.parse
-from dotenv import load_dotenv
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
+from dotenv import load_dotenv
 
 # Add project root to sys.path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from libs.pipeline import QuestionPipeline
+from libs.anadolu_pipeline import AnadoluPipeline
 from libs.anadolu_lib import (
-    map_to_old_format,
     DERSLER_FILE,
-    RAW_JSON_DIR,
     JSON_DIR,
-    FULL_JSON_DIR,
-    MD_DIR
+    setup_directories,
+    DEFAULT_UNIT_COUNT,
+    DEFAULT_FETCH_ATTEMPTS,
+    DEFAULT_LEARN_ATTEMPTS
 )
 
 # Load environment variables
 load_dotenv()
-
-HEADERS = {
-    'Connection': 'keep-alive',
-    'Origin': 'https://ekampus.anadolu.edu.tr',
-    'accept': '*/*',
-    'authorization': os.getenv('ANADOLU_AUTH_TOKEN', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJldHMtd2Vic2VydmljZXMifQ.EuhtnmabJ9H67LLgchAt6Z75oGjjIXmB3HksUYyCOeM'),
-}
-
-class AnadoluPipeline(QuestionPipeline):
-    def fetch_raw_questions(self, course, unit, silent=False):
-        course_code = course.get('DersKodu')
-        if not course_code:
-            return None
-
-        url = f"https://ets-ws.anadolu.edu.tr/v2filikaapi/examservice/create/20/{urllib.parse.quote(course_code)}/{unit}"
-
-        raw_questions_map = {}
-        error_count = 0
-
-        # Retry/Accumulate logic
-        # Anadolu API returns random questions. We try 20 times to get as many unique questions as possible.
-        # However, if the API explicitly returns an empty list or indicates "no questions" in a valid response,
-        # we should probably stop early to avoid wasting time.
-        # But Anadolu API might just return a random set, so empty list MIGHT mean no questions for this unit.
-
-        for i in range(20):
-            try:
-                response = requests.get(url, headers=HEADERS, timeout=10)
-                if response.status_code == 200:
-                    data = response.json()
-                    if "Questions" in data and data["Questions"]:
-                        for q in data["Questions"]:
-                            q.pop("QuestionNumber", None) # Remove volatile field
-                            raw_questions_map[q["QuestionId"]] = q
-                    else:
-                        # If we get a valid response but no questions, it's likely this unit has no questions.
-                        # To be safe, we can count consecutive empty responses.
-                        # If we get 3 empty responses in a row, we assume the unit is empty.
-                        error_count += 1
-                        if error_count >= 3 and not raw_questions_map:
-                             if not silent:
-                                 tqdm.write(f"      Unit {unit} seems empty (3 empty responses). Stopping.")
-                             break
-                else:
-                    error_count += 1
-            except Exception as e:
-                # tqdm.write(f"Error: {e}")
-                error_count += 1
-
-            time.sleep(0.1)
-
-        return list(raw_questions_map.values())
-
-    def transform_question(self, raw_question, course, unit):
-        # Use map_to_old_format
-        course_name = course.get("CourseName")
-        donem = course.get("Donem")
-        return map_to_old_format(raw_question, course_name, unit, donem)
-
-    def get_filename_prefix(self, course):
-        return "Anadolu"
-
-    def fetch_pdf(self, course, unit, silent=False):
-        course_code = course.get('DersKodu')
-        if not course_code:
-            return
-
-        # 1. Call Create API to get RandPart
-        url = f"https://ets-ws.anadolu.edu.tr/v2filikaapi/examservice/create/20/{urllib.parse.quote(course_code)}/{unit}"
-        try:
-            response = requests.get(url, headers=HEADERS, timeout=10)
-            if response.status_code == 200:
-                data = response.json()
-                rand_part = data.get("RandPart")
-                if not rand_part:
-                    if not silent:
-                        tqdm.write(f"      Unit {unit}: Could not get RandPart for PDF.")
-                    return
-
-                # 2. Construct PDF URLs
-                # Exam PDF: create-10-{course_code}-{unit}/{RandPart}
-                # Solution PDF: ...?withsolution=1
-
-                base_pdf_url = f"https://ets-ws.anadolu.edu.tr/v2filikaapi/examservice/getpdf/create-10-{course_code}-{unit}/{rand_part}"
-
-                self.download_pdf(base_pdf_url, course, unit, "Soru", silent=silent)
-                self.download_pdf(base_pdf_url + "?withsolution=1", course, unit, "Cevap", silent=silent)
-
-            else:
-                if not silent:
-                    tqdm.write(f"      Unit {unit}: API Error {response.status_code} while fetching RandPart.")
-        except Exception as e:
-            if not silent:
-                tqdm.write(f"      Unit {unit}: Error fetching PDF info: {e}")
-
-    def download_pdf(self, url, course, unit, suffix, silent=False):
-        from libs.anadolu_lib import PDF_DIR
-
-        course_name = self.get_safe_course_name(course)
-        donem = course.get("Donem")
-        filename = f"Anadolu - Dönem {donem} - {course_name} - Unite {unit:02d} - {suffix}.pdf"
-        filepath = os.path.join(PDF_DIR, filename)
-
-        if os.path.exists(filepath):
-            # tqdm.write(f"      PDF already exists: {filename}")
-            return
-
-        try:
-            response = requests.get(url, headers=HEADERS, timeout=30)
-            if response.status_code == 200:
-                with open(filepath, 'wb') as f:
-                    f.write(response.content)
-                if not silent:
-                    tqdm.write(f"      Downloaded PDF: {filename}")
-            else:
-                if not silent:
-                    tqdm.write(f"      Failed to download PDF {suffix}: {response.status_code}")
-        except Exception as e:
-            if not silent:
-                tqdm.write(f"      Error downloading PDF {suffix}: {e}")
-
-    def fetch_chapters(self, course_code, silent=False):
-        """Fetch chapter information for a given course code using the Anadolu API.
-        Endpoint: https://ets-ws.anadolu.edu.tr/v2filikaapi/courseservice/getchapters/{course_code}?type=2
-        Returns the parsed JSON response or None on failure.
-        """
-        url = f"https://ets-ws.anadolu.edu.tr/v2filikaapi/courseservice/getchapters/{urllib.parse.quote(course_code)}?type=2"
-        try:
-            response = requests.get(url, headers=HEADERS, timeout=10)
-            if response.status_code == 200:
-                data = response.json()
-                if not silent:
-                    tqdm.write(f"      Fetched chapters for {course_code}: {len(data.get('Chapters', []))} items")
-                return data
-            else:
-                if not silent:
-                    tqdm.write(f"      Error fetching chapters for {course_code}: {response.status_code}")
-                return None
-        except Exception as e:
-            if not silent:
-                tqdm.write(f"      Exception fetching chapters for {course_code}: {e}")
-            return None
-
-
 def process_course_wrapper(pipeline, course, args, tqdm_position=None):
     """Wrapper function for parallel course processing"""
     try:
@@ -178,13 +31,22 @@ def process_course_wrapper(pipeline, course, args, tqdm_position=None):
             if args.unit:
                 pipeline.fetch_pdf(course, args.unit, silent=silent)
             else:
-                for u in range(1, 15):
+                for u in range(1, pipeline.unit_count + 1):
                     pipeline.fetch_pdf(course, u, silent=silent)
 
         if args.chapters:
             course_code = course.get('DersKodu')
             if course_code:
                 pipeline.fetch_chapters(course_code, silent=silent)
+
+        if args.materials:
+            pipeline.fetch_and_save_materials(course, silent=silent)
+
+        if args.download_exams:
+            pipeline.download_past_exams(course, silent=silent)
+
+        if args.learn_questions:
+            pipeline.process_learn_questions(course, silent=False, tqdm_position=tqdm_position)
 
         return True, course.get('CourseName', 'Unknown')
     except Exception as e:
@@ -198,10 +60,26 @@ def main():
     parser.add_argument("--unit", type=int, help="Fetch specific unit only")
     parser.add_argument("--pdf", action="store_true", help="Fetch PDFs (Exam and Solution)")
     parser.add_argument("--chapters", action="store_true", help="Fetch chapters for the selected course(s)")
+    parser.add_argument("--materials", action="store_true", help="Fetch materials list for the selected course(s)")
+    parser.add_argument("--download-exams", action="store_true", help="Download past exams based on materials list")
+    parser.add_argument("--learn-questions", action="store_true", help="Fetch 'Sorularla Öğrenelim' questions and PDFs")
+    parser.add_argument("--questions", action="store_true", help="Fetch standard question bank")
     parser.add_argument("--parallel", type=int, default=1, metavar="N",
                        help="Number of parallel workers (default: 1, sequential)")
     parser.add_argument("--no-cache", action="store_true", help="Bypass cache and force API fetch")
+
+    parser.add_argument("--local-only", action="store_true", help="Skip fetching from API, only process existing local files")
+    parser.add_argument("--learn-attempts", type=int, default=DEFAULT_LEARN_ATTEMPTS, help=f"Number of API attempts per unit for 'Sorularla Öğrenelim' (default: {DEFAULT_LEARN_ATTEMPTS})")
+    parser.add_argument("--fetch-attempts", type=int, default=DEFAULT_FETCH_ATTEMPTS, help=f"Number of API attempts per unit for standard questions (default: {DEFAULT_FETCH_ATTEMPTS})")
+    parser.add_argument("--unit-count", type=int, default=DEFAULT_UNIT_COUNT, help=f"Number of units to process (default: {DEFAULT_UNIT_COUNT})")
+
     args = parser.parse_args()
+
+    # Default behavior: If no specific action flags are set, fetch standard questions (legacy behavior)
+    if not (args.download_exams or args.learn_questions or args.questions or args.materials or args.chapters or args.pdf):
+        args.questions = True
+
+    setup_directories() # Keep this if it's still needed for general setup
 
     if not os.path.exists(DERSLER_FILE):
         tqdm.write(f"Error: {DERSLER_FILE} not found.")
@@ -211,71 +89,73 @@ def main():
         courses = json.load(f)
 
     # Filter courses
-    filtered_courses = []
-    for course in courses:
-        if args.course:
-            c_name = course.get("CourseName", "").lower()
-            c_code = course.get("DersKodu", "").lower()
-            search = args.course.lower()
-            if search not in c_name and search not in c_code:
-                continue
-        filtered_courses.append(course)
+    if args.course:
+        # Assuming 'Ad' is the course name field, and 'DersKodu' is the course code
+        courses = [c for c in courses if args.course.lower() in c.get('DersKodu', '').lower() or args.course.lower() in c.get('CourseName', '').lower()]
 
-    tqdm.write(f"Found {len(courses)} courses, processing {len(filtered_courses)} courses.")
+    if not courses:
+        tqdm.write("No courses found.")
+        return
 
-    pipeline = AnadoluPipeline(RAW_JSON_DIR, JSON_DIR, FULL_JSON_DIR, MD_DIR, no_cache=args.no_cache)
+    tqdm.write(f"Found {len(courses)} courses, processing {len(courses)} courses.")
+
+    # Assuming AnadoluPipeline is defined/imported
+    # Correct instantiation of AnadoluPipeline
+    # Directories are now handled internally or via updated anadolu_lib constants
+    # We pass None or dummy values if the constructor still expects them, or update the constructor.
+    # Let's check QuestionPipeline constructor. It expects (raw_json_dir, json_dir, full_json_dir, md_dir, no_cache=False)
+    # We should probably update QuestionPipeline or pass the new JSON_DIR for all of them as a fallback,
+    # but since we override saving logic in fetch.py, it might be fine.
+    # However, to avoid NameError, we need to pass something.
+    # Let's pass JSON_DIR for all dir arguments for now, as they are mostly unused in the overridden methods or handled dynamically.
+    # Let's pass JSON_DIR for all dir arguments for now, as they are mostly unused in the overridden methods or handled dynamically.
+    pipeline = AnadoluPipeline(JSON_DIR, JSON_DIR, JSON_DIR, JSON_DIR, no_cache=args.no_cache,
+                               fetch_attempts=args.fetch_attempts,
+                               learn_attempts=args.learn_attempts,
+                               unit_count=args.unit_count,
+                               local_only=args.local_only)
 
     if args.parallel > 1:
-        # Parallel processing with progress bar
         tqdm.write(f"Using {args.parallel} parallel workers...")
-
-        # Create a queue of available slots (1 to N) for progress bars
-        # Slot 0 is reserved for the main progress bar
-        import queue
-        slot_queue = queue.Queue()
-        for i in range(1, args.parallel + 1):
-            slot_queue.put(i)
-
-        def process_with_slots(pipeline, course, args):
-            # Get a slot
-            slot = slot_queue.get()
-            try:
-                return process_course_wrapper(pipeline, course, args, tqdm_position=slot)
-            finally:
-                # Return slot
-                slot_queue.put(slot)
 
         with ThreadPoolExecutor(max_workers=args.parallel) as executor:
             # Submit all tasks
-            futures = {
-                executor.submit(process_with_slots, pipeline, course, args): course
-                for course in filtered_courses
-            }
+            futures = {}
+            for i, course in enumerate(courses):
+                # Assign a position from 1 to N (leaving 0 for main bar)
+                position = (i % args.parallel) + 1
+                future = executor.submit(process_course_wrapper, pipeline, course, args, tqdm_position=position)
+                futures[future] = course
 
             # Process results with progress bar
-            # Position 0 is for the main bar
-            with tqdm(total=len(filtered_courses), desc="Total Progress", unit="course", position=0, leave=True) as pbar:
-                for future in as_completed(futures):
+            for future in tqdm(as_completed(futures), total=len(courses), desc="Processing courses"):
+                course = futures[future]
+                try:
                     success, result = future.result()
-                    if success:
-                        # pbar.set_postfix_str(f"✓ {result}")
-                        pass
-                    else:
-                        pbar.set_postfix_str(f"✗ {result}")
-                    pbar.update(1)
+                    if not success:
+                        tqdm.write(f"Error processing {course.get('DersKodu', 'Unknown')}: {result}")
+                except Exception as exc:
+                    tqdm.write(f"Exception processing {course.get('DersKodu', 'Unknown')}: {exc}")
     else:
         # Sequential processing with progress bar
-        for course in tqdm(filtered_courses, desc="Processing courses", unit="course"):
-            course_name = course.get('CourseName', 'Unknown')
-            tqdm.write(f"Processing {course_name}...")
+        for course in tqdm(courses, desc="Processing courses"):
+            # Always fetch materials first to ensure data for other operations
+            pipeline.fetch_and_save_materials(course)
 
-            pipeline.process_course(course, target_unit=args.unit)
+            if args.download_exams:
+                pipeline.download_past_exams(course)
+
+            if args.learn_questions:
+                pipeline.process_learn_questions(course)
+
+            if args.questions:
+                pipeline.process_course(course, target_unit=args.unit)
 
             if args.pdf:
                 if args.unit:
                     pipeline.fetch_pdf(course, args.unit)
                 else:
-                    for u in tqdm(range(1, 15), desc=f"  Fetching PDFs", leave=False, unit="unit"):
+                    for u in tqdm(range(1, 9), desc=f"  Fetching PDFs", leave=False, unit="unit"):
                         pipeline.fetch_pdf(course, u)
 
             if args.chapters:

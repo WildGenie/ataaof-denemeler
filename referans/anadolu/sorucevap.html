@@ -1,0 +1,468 @@
+<!doctype html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+
+    <title>Sınav</title>
+
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport'/>
+    <meta name="viewport" content="width=device-width"/>
+
+
+    <!-- Bootstrap core CSS     -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet"/>
+
+    <!-- Animation library for notifications   -->
+    <link href="assets/css/animate.min.css" rel="stylesheet"/>
+
+
+    <style>
+        .btnnextprev {
+            background-color: lightblue;
+            padding-top: 10px;
+            padding-right: 50px;
+            padding-bottom: 10px;
+            padding-left: 50px;
+        }
+
+        .container {
+
+        }
+
+        label {
+            /*font-size: 21px;*/
+            font-family: "Arial";
+            font-weight: normal;
+
+        }
+
+        .well {
+            /*font-size: 21px;*/
+            font-family: "Arial";
+        }
+
+        h2 {
+            font-weight: normal;
+            margin: 30px;
+            text-align: center;
+
+        }
+
+        h4 {
+            font-weight: normal;
+            margin: 30px;
+            text-align: center;
+
+        }
+
+    </style>
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-70021336-9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-70021336-9');
+    </script>
+
+
+</head>
+<body>
+
+
+<div id="mycont" class="container">
+
+    <br>
+    <h2 id="headerrCourse"></h2>
+    <h4 id="uniteadi"></h4>
+    <br>
+
+    <div id="btngrp1" class="btn-group">
+
+    </div>
+
+
+    <!-- <button id="pdfBtn" class="btn btn-warning">
+        PDF Çıktı Al
+    </button>-->
+
+
+    <br>
+    <br>
+
+
+    <h5 id="konu"></h5>
+    <div class="well well-lg" id="soru"></div>
+
+    <div id="resim"><img width="250" height="250" src="assets/img/cevap.png"></div>
+
+    <div class="well well-lg" style="background-color: #ffffe6" id="cevap"></div>
+    <button type="button" class="btn  btnnextprev   btnprev">Önceki</button>
+    <button type="button" class="btn  btnnextprev btnnext">Sonraki</button>
+
+    <hr>
+    <div id="questionfeedbackform">
+        <div id="exampleFormControlTextarea1" class="form-group">
+            <label for="exampleFormControlTextarea1">Soru İle İgili Geri Bildirimde Bulunun</label>
+            <textarea class="form-control" id="feedbackFormControlTextarea1" rows="3"></textarea>
+        </div>
+        <button class="btn btn-primary" id="sendquestionfeedbackbutton">Gönder</button>
+    </div>
+
+
+</div>
+
+
+</body>
+
+
+<script src="assets/js/jquery-1.10.2.js" type="text/javascript"></script>
+<script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="assets/js/bootstrap-confirmation.min.js"></script>
+
+
+<!--<script src="assets/js/pdfmake.min.js"></script>-->
+<script src="assets/js/vfs_fonts.js"></script>
+
+
+<script src="assets/js/download.js"></script>
+<!--<script src="assets/js/create-pdf.js"></script>-->
+
+
+<script>
+
+    function downloadFile(unite, courseCode, Authorization, baseUrl, tc, typefilika) {
+
+        var url = '';
+        if (typefilika) {
+            url = baseUrl + '/v2filikaapi/examservice/getsorucevappdf/' + courseCode + '/' + unite;
+        } else {
+            url = baseUrl + '/sinavapi/examservice/getsorucevappdf/' + courseCode + '/' + unite + '?tc=' + tc;
+        }
+
+
+        return fetch(url, {
+            method: 'GET',
+            headers: {
+                'Authorization': Authorization
+            }
+        }).then(function (resp) {
+            return resp.blob();
+        }).then(function (blob) {
+            download(blob);
+        }).catch(function (error) {
+            console.log("err : ", error);
+            // PDFExport(Questions, vizeFinal, unite, courseCode,courseName);
+        });
+    }
+
+    var baseurl = "https://ets-ws.anadolu.edu.tr";
+    var otagwsurl = "https://otagws.anadolu.edu.tr";
+    //var otagwsurl = "http://localhost:9090";
+    //var baseurl = "http://localhost:8085";
+    var feedbackForm = $('#questionfeedbackform');
+
+    var curUrl = new URL(document.URL);
+    var courseCode = curUrl.searchParams.get("courseCode"); // .split("_")[0];
+
+    var unite = curUrl.searchParams.get("unite");
+
+    var tc = curUrl.searchParams.get("tc");
+    if (!tc) {
+        tc = '';
+    }
+
+    var btngrp1 = $('#btngrp1');
+    var resim = $('#resim');
+    var konu = $('#konu');
+    var soruText = $('#soru');
+    var cevapText = $('#cevap');
+
+    var currentSoru = -1;
+
+    var Questionss = -1;
+
+
+    var comingData;
+
+    var headerr = '';
+
+    var Authorization = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJldHMtd2Vic2VydmljZXMifQ.EuhtnmabJ9H67LLgchAt6Z75oGjjIXmB3HksUYXCOeM";
+    //var Authorization2 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJldHMtd2Vic2VydmljZXMifQ.EuhtnmabJ9H67LLgchAt6Z75oGjjIXmB3HksUYXCOeM";
+
+    var whichapi = 'sinavapi';
+
+    var typefilika = curUrl.searchParams.get("typefilika");
+    ;
+    var urll = baseurl + '/sinavapi/getlearnwithquestionsbychapter/' + courseCode + '/' + unite + '?tc=' + tc;
+
+    if (typefilika) {
+
+        Authorization = curUrl.searchParams.get("filikaAuth");
+        urll = baseurl + "/v2filikaapi/getlearnwithquestionsbychapter/" + courseCode + '/' + unite;
+        whichapi = 'v2filikaapi';
+
+    }
+
+
+    var getButton = function (i, newkonu) {
+        if (newkonu) {
+            return '<button style="margin-left:7px " type="button" id="btn' + i + '"  data-value="' + i + '" class="mybtn btn btn-default"' + '>' + i + '</button>';
+        } else {
+            return '<button  type="button" id="btn' + i + '"  data-value="' + i + '" class="mybtn btn btn-default"' + '>' + i + '</button>';
+        }
+        // return '<button style="margin-right:2px " type="button" id="btn' + i + '"  data-value="' + i + '" class="mybtn btn btn-default"' + '>' + i + '</button>';
+    };
+
+
+    var noQuestion = function (message) {
+        $('#mycont').empty();
+        $('#mycont').append('<h1>' + message + '</h1>');
+    };
+
+
+    var setSoru = function (questions, i) {
+
+
+        var btnn = $('#' + 'btn' + (currentSoru + 1));
+
+        btnn.removeClass('focus');
+
+
+        soruText.html(questions[i].Question);
+        if (!questions[i].Title) {
+            questions[i].Title = '';
+        }
+        konu.text(questions[i].Title);
+        cevapText.html(questions[i].Answer);
+
+        // console.log(questions[i]);
+
+        // cevapText.html('dsasdas');
+        currentSoru = i;
+
+
+        //cevapText.text(questions[i].Solution);
+        cevapText.hide();
+        resim.show();
+        feedbackForm.hide();
+
+
+        btnn = $('#' + 'btn' + (currentSoru + 1));
+
+        btnn.addClass('focus');
+
+
+    };
+
+
+    var getQuestions = function () {
+
+
+        // var urll = baseurl + '/sinavapi/getlearnwithquestionsbychapter/' + courseCode + '/' + unite+'?tc='+tc;
+
+
+        //
+        // if (!typefilika) {
+        //     urll += "?tc=" + tc;
+        // }
+
+
+        $.ajax({
+            type: 'GET',
+            url: urll,
+
+            headers: {
+                "Authorization": Authorization
+            },
+
+            success: function (ret) {
+
+                //   console.log(ret);
+
+                if (ret.ErrMessage != undefined) {
+                    console.log(ret.ErrMessage);
+                    noQuestion("Bu derse kayıtlı değilsiniz ya da bir hata oluştu !!!");
+                    return;
+                }
+
+
+                if (ret.QuestionAnswer == undefined || ret.QuestionAnswer.length == 0) {
+                    noQuestion('Bu dersle ilgili soru bulunamadı!!!');
+                    return;
+                }
+
+                Questionss = ret.QuestionAnswer;
+                comingData = ret;
+
+                //console.log(ret);
+                // console.log(iii, " ) len : ", ret.Questions.length);
+                btngrp1.empty();
+                // iii++;
+
+                for (var i = 1; i <= ret.QuestionAnswer.length; i++) {
+
+                    var newkonu = false;
+
+                    if (i > 1 && ret.QuestionAnswer[i - 2].Title != ret.QuestionAnswer[i - 1].Title) {
+                        newkonu = true;
+                    }
+
+                    btngrp1.append(getButton(i, newkonu));
+                }
+                init();
+
+                setSoru(Questionss, 0);
+
+            },
+
+            error: function (ret) {
+                console.log("burada", ret);
+                noQuestion('bir hata oluştu');
+            }
+        });
+
+    };
+
+
+    var init = function () {
+
+        headerr = courseCode + ' - ' + comingData.CourseName + ' \n';
+
+
+        $('#headerrCourse').html(headerr);
+        $('#uniteadi').html('Ünite ' + comingData.ChapterNumber + ' - ' + comingData.UnitName);
+
+
+        $('.mybtn').on('click', function () {
+            setSoru(Questionss, $(this).data('value') - 1);
+
+        });
+
+
+        $('#sendquestionfeedbackbutton').on('click', function () {
+            sendFeedBackFunc();
+        })
+
+    };
+
+
+    var sendFeedBackFunc = function () {
+
+        $.ajax({
+            type: 'POST',
+
+            data: {
+                question_id: Questionss[currentSoru].Index,
+                feedback_text: $('#feedbackFormControlTextarea1').val(),
+                course_code: courseCode,
+                question_type: "2",
+                unite_no: Questionss[currentSoru].UniteNo
+            },
+
+            url: otagwsurl + '/v2/materialfeedback/postquestionfeedback',
+            headers: {
+                "Authorization": Authorization
+            },
+
+            success: function (ret) {
+                console.log("gönderildi !!! :)");
+                $('#feedbackFormControlTextarea1').val('');
+                alert("Soru ile ilgili geri bildiriminiz iletildi.")
+                // $('.alert').show();
+                // $('.alert').alert();
+
+
+            },
+
+            error: function (ret) {
+                console.log("burada 2", ret);
+                alert(ret.responseText)
+
+            }
+
+
+        });
+
+
+    };
+
+
+    var initEvents = function () {
+        // $('#newExamBtn').on('click', function () {
+        //     startNewExam();
+        // });
+
+        resim.on('click', function () {
+            resim.hide();
+            cevapText.show();
+            if (typefilika) {
+                $('#feedbackFormControlTextarea1').val('');
+                feedbackForm.show();
+            }
+        });
+
+
+        $('.btnnext').on('click', function () {
+            if (currentSoru == Questionss.length - 1) {
+                setSoru(Questionss, 0);
+            } else {
+                setSoru(Questionss, currentSoru + 1);
+            }
+
+        });
+
+
+        $('.btnprev').on('click', function () {
+            if (currentSoru == 0) {
+                setSoru(Questionss, Questionss.length - 1);
+            } else {
+                setSoru(Questionss, currentSoru - 1);
+            }
+
+        });
+
+
+        $('#pdfBtn').on('click', function () {
+            downloadFile(unite, courseCode, Authorization, baseurl, tc, typefilika);
+        });
+
+
+        // finishExamFunc();
+
+
+    };
+
+
+    $('document').ready(function () {
+        //correctAns.hide();
+        //getQuestions();
+        // init();
+        feedbackForm.hide();
+        getQuestions();
+
+        initEvents();
+
+        $('[data-toggle=confirmation]').confirmation({
+            rootSelector: '[data-toggle=confirmation]'
+            // other options
+        });
+
+    });
+
+
+</script>
+
+
+</html>
+
+
+

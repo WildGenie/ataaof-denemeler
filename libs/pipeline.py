@@ -71,7 +71,7 @@ class QuestionPipeline(ABC):
         if target_unit:
             units_to_process = [target_unit]
         else:
-            units_to_process = range(1, 15)
+            units_to_process = range(1, 9)
 
         iterator = units_to_process
         pbar = None
