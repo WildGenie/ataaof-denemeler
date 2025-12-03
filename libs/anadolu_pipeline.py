@@ -446,17 +446,147 @@ class AnadoluPipeline(QuestionPipeline):
                     else:
                         if not silent:
                             tqdm.write(f"      Failed to download {filename}: {response.status_code}")
-                            tqdm.write(f"      Response: {response.text[:200]}")
                 except Exception as e:
                     if not silent:
-                        tqdm.write(f"      Exception downloading {filename}: {e}")
+                        tqdm.write(f"      Error downloading {filename}: {e}")
 
         if download_count > 0:
             self.save_tracker(tracker)
             if not silent:
-                tqdm.write(f"      Downloaded {download_count} new/updated exams for {course_name}")
+                tqdm.write(f"      Downloaded {download_count} new/updated infographics for {course_name}")
         elif not silent:
              tqdm.write(f"      No new exams to download for {course_name}")
+
+    def download_infographics(self, course, silent=False):
+        course_name = self.get_safe_course_name(course)
+        donem = course.get("Donem")
+
+        # Load materials file
+        materials_filename = f"Anadolu - Dönem {donem} - {course_name} - Materials.json"
+        materials_filepath = os.path.join(JSON_DIR, f"Donem {donem}", materials_filename)
+
+        if not os.path.exists(materials_filepath):
+            if not silent:
+                tqdm.write(f"      Materials file not found for {course_name}. Run --materials first.")
+            return
+
+        try:
+            with open(materials_filepath, 'r', encoding='utf-8') as f:
+                materials_data = json.load(f)
+        except Exception as e:
+            if not silent:
+                tqdm.write(f"      Error reading materials file for {course_name}: {e}")
+            return
+
+        tracker = self.load_tracker()
+
+        # Create course directory in Materyaller
+        course_mat_dir = os.path.join(OUTPUT_DIR, f"Donem {donem}", course_name, "Materyaller")
+        if not os.path.exists(course_mat_dir):
+            os.makedirs(course_mat_dir)
+
+        download_count = 0
+
+        for group in materials_data:
+            if group.get("Type") != "INFOGRAPHIC":
+                continue
+
+            for material in group.get("Materials", []):
+                material_id = str(material.get("MaterialId"))
+                updated_at = material.get("UpdatedAt")
+                chapter_number = material.get("ChapterNumber", 0)
+
+                # New naming convention: İnfografik - Ünite X - id
+                base = f"İnfografik - Ünite {chapter_number} - {material_id}"
+                filename_base = clean_filename(base)
+
+                file_ext = ".pdf"
+                if material.get("FileExtension") == "application/pdf":
+                    file_ext = ".pdf"
+                elif material.get("FileExtension") == "image/jpeg":
+                    file_ext = ".jpg"
+                elif material.get("FileExtension") == "image/png":
+                    file_ext = ".png"
+
+                new_filename = f"{filename_base}{file_ext}"
+                new_filepath = os.path.join(course_mat_dir, new_filename)
+
+                # Check tracker and existing file
+                download_needed = True
+
+                if material_id in tracker:
+                    tracker_entry = tracker[material_id]
+                    # We check if we have the file, regardless of update time, to fix the name
+                    existing_filename = tracker_entry.get("Filename")
+
+                    if existing_filename:
+                        existing_filepath = os.path.join(course_mat_dir, existing_filename)
+
+                        if os.path.exists(existing_filepath):
+                            # File exists
+                            if existing_filename != new_filename:
+                                # Rename needed
+                                try:
+                                    if not silent:
+                                        tqdm.write(f"      Renaming {existing_filename} -> {new_filename}")
+                                    os.rename(existing_filepath, new_filepath)
+                                    # Update tracker immediately
+                                    tracker[material_id]["Filename"] = new_filename
+                                    tracker[material_id]["Course"] = course_name # Ensure course is set
+                                    download_needed = False
+                                except Exception as e:
+                                    if not silent:
+                                        tqdm.write(f"      Error renaming {existing_filename}: {e}")
+                                    # If rename fails, we might try to download again or skip
+                                    # If target exists (rare case of collision or previous run), we might overwrite
+                            else:
+                                # Name matches, check if update needed
+                                if tracker_entry.get("UpdatedAt") == updated_at:
+                                    download_needed = False
+                        else:
+                            # File in tracker but not on disk, download needed
+                            pass
+                    else:
+                        # No filename in tracker (legacy?), download needed
+                        pass
+
+                if not download_needed:
+                    continue
+
+                # Download
+                token = HEADERS.get('authorization', '')
+                download_url = f"{URL_GET_MATERIAL_BY_ID}/{material_id}?Authorization={token}"
+
+                try:
+                    if not silent:
+                        tqdm.write(f"      Downloading {new_filename}...")
+
+                    response = requests.get(download_url, headers=HEADERS, timeout=60)
+                    if response.status_code == 200:
+                        with open(new_filepath, 'wb') as f:
+                            f.write(response.content)
+
+                        tracker[material_id] = {
+                            "UpdatedAt": updated_at,
+                            "DownloadedAt": datetime.now().isoformat(),
+                            "Filename": new_filename,
+                            "Course": course_name
+                        }
+                        download_count += 1
+                    else:
+                        if not silent:
+                            tqdm.write(f"      Failed to download {new_filename}: {response.status_code}")
+                except Exception as e:
+                    if not silent:
+                        tqdm.write(f"      Error downloading {new_filename}: {e}")
+
+        if download_count > 0:
+            self.save_tracker(tracker)
+            if not silent:
+                tqdm.write(f"      Downloaded {download_count} new/updated infographics for {course_name}")
+        elif not silent:
+             tqdm.write(f"      No new infographics to download for {course_name}")
+
     def fetch_learn_questions(self, course_code, unit):
         """
         Fetches 'Sorularla Öğrenelim' questions for a specific unit.

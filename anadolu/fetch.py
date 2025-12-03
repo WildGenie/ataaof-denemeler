@@ -23,9 +23,23 @@ load_dotenv()
 def process_course_wrapper(pipeline, course, args, tqdm_position=None):
     """Wrapper function for parallel course processing"""
     try:
-        pipeline.process_course(course, target_unit=args.unit, tqdm_position=tqdm_position)
-
         silent = (tqdm_position is not None)
+
+        # Fetch materials only if needed for download_exams or infographics, or if explicitly requested
+        if args.materials or args.download_exams or args.infographics:
+            pipeline.fetch_and_save_materials(course, silent=silent)
+
+        if args.download_exams:
+            pipeline.download_past_exams(course, silent=silent)
+
+        if args.infographics:
+            pipeline.download_infographics(course, silent=silent)
+
+        if args.learn_questions:
+            pipeline.process_learn_questions(course, silent=False, tqdm_position=tqdm_position)
+
+        if args.questions:
+            pipeline.process_course(course, target_unit=args.unit, tqdm_position=tqdm_position)
 
         if args.pdf:
             if args.unit:
@@ -38,15 +52,6 @@ def process_course_wrapper(pipeline, course, args, tqdm_position=None):
             course_code = course.get('DersKodu')
             if course_code:
                 pipeline.fetch_chapters(course_code, silent=silent)
-
-        if args.materials:
-            pipeline.fetch_and_save_materials(course, silent=silent)
-
-        if args.download_exams:
-            pipeline.download_past_exams(course, silent=silent)
-
-        if args.learn_questions:
-            pipeline.process_learn_questions(course, silent=False, tqdm_position=tqdm_position)
 
         return True, course.get('CourseName', 'Unknown')
     except Exception as e:
@@ -62,6 +67,7 @@ def main():
     parser.add_argument("--chapters", action="store_true", help="Fetch chapters for the selected course(s)")
     parser.add_argument("--materials", action="store_true", help="Fetch materials list for the selected course(s)")
     parser.add_argument("--download-exams", action="store_true", help="Download past exams based on materials list")
+    parser.add_argument("--infographics", action="store_true", help="Download infographics based on materials list")
     parser.add_argument("--learn-questions", action="store_true", help="Fetch 'Sorularla Öğrenelim' questions and PDFs")
     parser.add_argument("--questions", action="store_true", help="Fetch standard question bank")
     parser.add_argument("--parallel", type=int, default=1, metavar="N",
@@ -76,7 +82,7 @@ def main():
     args = parser.parse_args()
 
     # Default behavior: If no specific action flags are set, fetch standard questions (legacy behavior)
-    if not (args.download_exams or args.learn_questions or args.questions or args.materials or args.chapters or args.pdf):
+    if not (args.download_exams or args.learn_questions or args.questions or args.materials or args.chapters or args.pdf or args.infographics):
         args.questions = True
 
     setup_directories() # Keep this if it's still needed for general setup
@@ -139,11 +145,15 @@ def main():
     else:
         # Sequential processing with progress bar
         for course in tqdm(courses, desc="Processing courses"):
-            # Always fetch materials first to ensure data for other operations
-            pipeline.fetch_and_save_materials(course)
+            # Fetch materials only if needed for download_exams or infographics, or if explicitly requested
+            if args.materials or args.download_exams or args.infographics:
+                pipeline.fetch_and_save_materials(course)
 
             if args.download_exams:
                 pipeline.download_past_exams(course)
+
+            if args.infographics:
+                pipeline.download_infographics(course)
 
             if args.learn_questions:
                 pipeline.process_learn_questions(course)

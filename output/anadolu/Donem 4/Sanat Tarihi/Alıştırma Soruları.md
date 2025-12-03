@@ -3440,6 +3440,16 @@
     > **Açıklama:** I. Darius ayrıca, Kirmanşah yakınlarında, Babil’den Hemedan’a giden yol üzerindeki kayalık üzerine Behistun Anıtı’nı yaptırmıştır. Behistun Anıtı, I. Darius’un zaferlerinin anlatıldığı bir Farsça kitabe ve kitabe metnini destekleyen figürlü kabartmalardan oluşur.
 
     <hr />
+1. "İlah ya da ilahlar adına inşa edilmiş kutsal, içinde ibadet edilen yapı, tapınak". Aşağıdakilerden hangisinin tanımıdır?
+    - A-) Revak
+    - B-) Stupa
+    - **Cevap C-) Mâbed**
+    - D-) Dravid
+    - E-) Cayna
+
+    > **Açıklama:** HİNT SANATI<br />Mâbed
+
+    <hr />
 1. "iki bin yıl boyunca Çin ve Çin kültüründen beslenmiş milletlerde rüzgar ve su bilimine verilen<br />addır. Bu bilimin uzmanına sormadan ne ev, ne mezar yeri belirlenebilir. Önemli olan doğanın güçlerini en iyi şekilde etkileyebilmek için düzenlemek ve yönetmektir." Bahsedilen bilme ne ad verilmektedir?
     - A-) Fohi
     - B-) Pitogram
@@ -6980,6 +6990,16 @@
     > **Açıklama:** Arkaik Dönem’den itibaren tapınaklar başta olmak üzere kamu binaları belli yapısal düzenlerde inşa edilmiştir. Bunlar ortaya çıkış tarihlerine göre ilk olarak Yunan ana karası, Güney İtalya ve Sicilya’da görülen Dor, Batı Anadolu kökenli olduğu kabul edilen İon ve diğerlerinden daha sonra ortaya çıkan Korinth Düzeni’dir.
 
     <hr />
+1. **Roma heykeltıraşlığının en önemli başarılarından biri olarak kabul edi­len portre büstlerle ilgili olarak;**<br />I. Kişisel özelliklerin tüm yalınlığıyla yansıtıldığı gerçekçi bir üsluba sahiptir.<br />II. Cumhuriyet Dönemi’nde ağırlık kazanmıştır.<br />III. Toplumun tüm katmanları arasında kısa bir süre içinde rağbet görmüştür.<br />**İfadelerinden hangileri doğrudur?**
+    - A-) YalnızI
+    - B-) I ve II
+    - C-) I ve III
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+
+    > **Açıklama:** Roma heykeltıraşlığının en önemli başarılarından biri olarak kabul edilen portre büstler, Cumhuriyet Dönemi’nde ağırlık kazanmıştır. Kişisel özelliklerin tüm yalınlığıyla yansıtıldığı gerçekçi portre üslubu, toplumun tüm katmanları arasında kısa bir süre içinde rağbet görmüş, Roma heykel sanatının karakteristik özelliklerinden biri hâline gelmiştir.
+
+    <hr />
 1. **Roma mimarlığına özgü kamu binalarından biri de halkın günlük yaşamında önemli yer tutan hamamlardır. Aşağıdakilerden hangisi kompleks bir yapı olan Roma hamamlarının işlevleri arasında yer almaz?**
     - A-) Uyku
     - B-) Okuma
@@ -10290,6 +10310,16 @@
     > **Açıklama:** "RESİM VE EL SANATLARI" başlıklı yazıyı gözden geçiriniz.<br />Anadolu’da bilinen en erken tarihli anıtsal resim sanatı örnekleri İznik Elbeyli köyündeki hipojede (4. yy) ve Efes Yamaç evlerinde (3.-7. yy) bulunmaktadır.
 
     <hr />
+1. Antik Çağ ve Erken Orta Çağ’dan günümüze ulaşan en muhteşem savunma sistemine sahip olan İstanbul surlarının en önemli özelliği aşağıdaki seçeneklerden hangisidir?
+    - A-) Taş ve ahşaptan imal edilmesi
+    - B-) Yüksek bir Yapı olması
+    - **Cevap C-) Hendek,ön duvar ve ana duvar gibi düzeneklerin bir araya getirilmesiyle oluşturulmuş**
+    - D-) Çağının en büyük koruma yapısı özelliğini taşıması
+    - E-) Yapım özelliği ve malzeme kullanımı açısından sanatsal değere sahip olması
+
+    > **Açıklama:** İstanbul Kara Surları(408-413)’nda olduğu gibi nadirde olsa yeni surlar yapılmıştır.<br />Hendek, ön duvar ve ana duvar gibi düzeneklerin bir araya getirilmesiyle oluşturulmuş,5650 m uzunluğundakiİstanbulsurlarıAntikÇağveErkenOrtaÇağ’dangünümüzeulaşanenmuhteşemsavunma sistemidir<br />Hendek,ön duvar ve ana duvar gibi düzeneklerin bir araya getirilmesiyle oluşturulması
+
+    <hr />
 1. Aşağıdakilerden hangisi Bizans Döneminin ipek üretim merkezlerinden biri değildir?
     - A-) İstanbul
     - B-) Atina
@@ -11268,6 +11298,16 @@
     - E-) Pandantif
 
     > **Açıklama:** Tromp: Kare planlı kubbeli bir yapının duvarları arasındaki köşelerin üst bölümüne yapılan ve binanın üstünü sekiz kenarlı bir şekil hâline getirerek kubbenin oturması için köşelere örülen tonoz.<br />Katakomp: Roma’da ilk Hristiyanların içinde toplanıp tapındıkları yer altı mezarlarının genel adıdır. Erken Hristiyanlar “katakomp- catacomb” kelimesini kullanmamaktaydı. Kelime Yunanca “deliğin yakınında- near the hollow” demektir. Katakomplar “fossores” (“mezar kazıcıları”) adı verilen ve bir loncaya bağlı kişiler tarafından yapılmaktaydı<br />Homilye: Kiliselerde verilen vaazları bir araya toplayan el yazması.<br />Pandandif: Bir kubbeyi taşıyan kemerler ile kubbe kaidesinin arasını kapatan kare bir plandan kubbenin dairesel kaidesine geçmeyi sağlayan küresel üçgen yüzey.<br />Doğru yanıt B seçeneğinde verilmiştir.
+
+    <hr />
+1. Bir çok tarihçinin de kabul ettiği gibi Bizans İmparatorluğu ne zaman sona ermiştir?
+    - **Cevap A-) 1453**
+    - B-) 1320
+    - C-) 1653
+    - D-) 1250
+    - E-) 1900
+
+    > **Açıklama:** Bir çok tarihçi Bizans İmparatorluğu’nun İstanbul’un 324 yılında inşa edilmesiyle başladığını ve 1453 yılında Türkler tarafından fethedilmesi ile sona erdiğini kabul etmektedir
 
     <hr />
 1. Birçok tarihçiye göre Bizans İmparatorluğu’nun başlangıcı ve bitişi olarak kabul edilen tarihler aşağıdaki şıklardan hangisinde doğru olarak verilmiştir?
@@ -14180,6 +14220,16 @@
     > **Açıklama:** "Endülüs Emevilerinin ilk sarayı olan, Kurtuba’nın 3 km kuzeybatısındaki, I. Abdurrahman’ın yaptırttığı Rusafa (Arruzafa) Sarayı ise günümüze ulaşamamıştır." ifadesinden anlaşılacağı üzere cevap a seçeneğidir.
 
     <hr />
+1. Aşağıdakilerden hangisi Kuzeybatı Afrika'da kurulmuş İslam Devletlerinden birisidir?
+    - A-) Anadolu Selçukluları
+    - B-) İlhanlılar
+    - C-) Osmanlı Devleti
+    - D-) Karamanoğlu Beyliği
+    - **Cevap E-) Murabıtlar Devleti**
+
+    > **Açıklama:** Murabıtlar Devleti, Kuzeybatı Afrika’da halklar arasında bir siyasi güç oluşturabilen ilk devlettir. Bugünkü Fas Bölgesi’ne egemen olmuşlardır. 1062 yılında başkent Marrakesh kurulmuştur.
+
+    <hr />
 1. Aşağıdakilerden hangisi Kâbe’nin ana yönlerini gösteren köşelerden **değildir?**
     - A-) Yemânî
     - B-) Irakî
@@ -15448,6 +15498,16 @@
     - E-) Mimari Süsleme
 
     > **Açıklama:** El Sanatları<br />Seramik
+
+    <hr />
+1. Minare yapısı aşağıdaki camilerden hangisinde ilk kez kullanılmıştır?
+    - **Cevap A-) Şam Emeviye Camii**
+    - B-) Küfe Camii
+    - C-) Basra Camii
+    - D-) Fustat Amr Camii
+    - E-) Kubbetü’s Sakhra
+
+    > **Açıklama:** Minare, inananları namaza çağırmak için ezanın okunma işlevinin yapıldığı, ya camiyle bağlantılı ya da yakınında yer alan, camiden daha yüksekçe inşa edilmiş mimari yapıdır. Minarenin ilk kullanımı, Şam Emeviye Camii’ndedir. Mimari açıdan minare, değişik toplum ve coğrafyalarda farklı malzeme, form ve üsluplara bürünür. Doğru cevap A.
 
     <hr />
 1. Murabıt Dönemi Sanatı'nın önemli camiilerinden olan Tlemsen Camii'nin planında hangi camiinin etkisi görülmektedir?
